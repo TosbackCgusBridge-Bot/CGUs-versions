@@ -1,1 +1,781 @@
-Zur Hauptnavigation springen. Zum Inhalt springen. 10. 10. 2012 - 20:35 Uhr ABO RSS Online-Services NEWSLETTER Massa HausAnzeige Heimwerker-TippAnzeige Israel entdeckenAnzeige Volks-VitaminAnzeige Suchbegriff: Neu registrieren|Login Mein Profil Profil bearbeiten Kontakte Privatsphäre Mein Konto Logout Themen BILD mobil Wetter Gewinnspiele BILD-Shop Hauptnavigation Home News Startseite Inland Ausland Leser-Reporter Mystery BILD kämpft für Sie! Ein Herz für Kinder Forum News Politik Startseite Inland Ausland Politiker twittern Forum Politik Geld Startseite Wirtschaft Börse Sparen Versicherungen Immobilien VergleichsrechnerAnzeige Forum Geld Unterhaltung Startseite Stars Deutsche Promis TV Fernsehprogramm Kino Musik Musik-TippAnzeige Royals Kultur BILD Filme DVDAnzeige Erotik Forum Unterhaltung Sport Startseite Bundesliga Startseite FC Augsburg FC Bayern München Borussia Dortmund Eintracht Frankfurt SC Freiburg Fortuna Düsseldorf Greuther Fürth Hannover 96 TSG 1899 Hoffenheim HSV Bayer Leverkusen FSV Mainz 05 Borussia Mönchengladbach 1. FC Nürnberg FC Schalke 04 VfB Stuttgart SV Werder Bremen VfL Wolfsburg Transfermarkt. de 2. Liga Fussball-Mix Startseite 3. Liga Champions League Europa League DFB-Pokal Nationalmannschaft EM 2012 International Real Madrid Transfermarkt. de Formel 1 Motorsport Sport-Mix Startseite Boxen Tennis Olympia 2012 SUPER-MANAGER Bundesliga-Tippspiel Live-Kalender Sportdaten-Center Sportbild. de Forum Sport Lifestyle Startseite Mode & Beauty Wellness & Fitness Essen & Trinken Haus & Garten HoroskopAnzeige PartnersucheAnzeige Bildderfrau. de Stylebook. de Forum Lifestyle Ratgeber Startseite Gesundheit Diät Recht Job & Karriere Partnerschaft Kind & Familie Deutschl. bewegt sich ImmobiliensucheAnzeige Forum Ratgeber Reise Startseite Deutschland Europa Fernreisen Hotels Airports & Airlines Forum Reise Auto Startseite Ratgeber NeuwagenAnzeige GebrauchtwagenAnzeige Autobild. de Forum Auto Digital Startseite Computer Handy FotoserviceAnzeige Download-Portal Computerbild. de Forum Digital Spiele Startseite Online-Spiele Download-SpieleAnzeige Browser-Spiele Karten-Spiele Quiz & Rätsel BILD Spielt Forum Spiele Community Startseite Forum News Politik Geld Unterhaltung Bundesliga Fußball-Mix Sport Lifestyle Ratgeber Reise Auto Digital Regional Spiele Top-Kommentare NETIQUETTE HILFE Regional Berlin Bremen Chemnitz Dresden Düsseldorf Frankfurt Hamburg Hannover Köln Leipzig München Ruhrgebiet Stuttgart Forum Regional BILD. TV Startseite News Inland Ausland Leser-Reporter Tiervideos Mystery Ein Herz für Kinder Politik Inland Ausland Wirtschaft Unterhaltung Leute TV Kino Kinostarts der Woche Musik Beat Schmidt des Tages Stars bei BILD Die Onkel Berni Show Becker & Heller Fussball Primera Division Knops Kult-Liga Liga-Show Sport Boxen Motorsport Mehr Sport Auto Regional Berlin Bremen Dresden Düsseldorf Frankfurt Hamburg Hannover Köln Leipzig München Ruhrgebiet Stuttgart Erotik BILD-Girls Mehr Erotik Live-Strip-GirlsAnzeige WetterschneckenAnzeige Sexy Clips Lifestyle Mode & Beauty Digital Ratgeber Spiele FYI! mit Fine Kalze Wissen Medizin Technik Panorama Natur Geschichte Bookmarken? delicious folkd Mister Wong oneview readster Webnews yigg Teilen? Facebook studiVZ Twitter BILD. de – Datenschutzhinweis Datenschutzerklärung für Dienste der BILD digital GmbH & Co. KG 23. 08. 2012 — 18:32 Uhr Die BILD digital GmbH & Co. KG (nachfolgend „BILD digital“) betreibt mehrere über das Internet erreichbare Dienste wie zum Beispiel BILD. de (www. bild. de), Sport BILD (www. sportbild. de), BILD spielt (www. bildspielt. de), BILD Shop (www. shop. bild. de), STYLEBOOK (www. stylebook. de) sowie Applikationen auf mobilen Endgeräten. Zudem hat BILD digital diverse Präsenzen in anderen Onlinediensten und -netzwerken. (nachfolgend insgesamt „BILD Dienste“) BILD digital möchte Ihnen mit dieser Datenschutzerklärung erläutern, welche personenbezogenen Daten zu welchem Zweck und in welcher Form für BILD Dienste verarbeitet werden. 1. Grundsatz BILD digital nimmt den Schutz der personenbezogenen Daten seiner Nutzer sehr ernst und beachtet die anwendbaren datenschutzrechtlichen Bestimmungen. BILD digital verarbeitet Ihre personenbezogenen Daten nur, sofern das Gesetz die Datenverarbeitung erlaubt oder wenn Sie Ihre Zustimmung zu der Verarbeitung Ihrer Daten gegeben haben. Dies gilt insbesondere auch für die Nutzung und Weitergabe personenbezogener Daten zu Werbe- oder Vermarktungszwecken. Darüber hinaus können zur optimierten Anzeige von Werbung in BILD Diensten auch Daten verarbeitet und genutzt werden (z. B. mit Hilfe von Cookies), die zwar nicht Ihren Namen und Angaben zu Ihnen persönlich enthalten, rechtlich aber als sog. pseudonyme Daten zu bewerten sein können. Bitte beachten Sie deshalb die unten genannte Möglichkeit, diese Art der Werbeeinblendung zu deaktivieren. Dies gilt auch für die Analyse der Nutzung unserer Webseite durch technische Mittel. 2. Einwilligung BILD digital verarbeitet Ihre personenbezogenen Daten nur dann, sofern das Gesetz die Datenverarbeitung erlaubt oder wenn Sie Ihre Zustimmung zu der Verarbeitung Ihrer Daten gegeben haben. Sofern Sie uns hierzu Ihre Einwilligung erteilt haben, können Ihre personenbezogenen Daten z. B. an Kooperationspartner von BILD digital zum Zwecke der Werbung, der Marktforschung, der Information über Produkte und Dienstleistungen, der Zustellung von Angeboten zum Abschluss von Verträgen für Waren und Dienstleistungen und einer optimal an den Interessen des Nutzers abgestimmten weiteren Information durch einen Newsletter, weitergegeben werden. In jedem Fall werden Sie über den Umfang einer etwaig zu erteilenden Einwilligung  sowie etwaige Datenempfänger deutlich erkennbar informiert. BILD digital wird Ihre Einwilligung protokollieren. Sollten Sie im Einzelfall Ihre Zustimmung nicht geben, bitten wir um Verständnis, dass Sie an dem jeweiligen Dienst ggf. nicht teilnehmen können. 3.  Direktwerbung für ähnliche Angebote BILD digital ist berechtigt, die E-Mail-Adresse, die Sie bei seiner Registrierung zu registrierungspflichtigen Diensten angegeben hat, zur Direktwerbung für eigene, ähnliche Dienstleistungen zunutzen sowie zur Information des Nutzers über seinen BILD-SSO-Account sowie generell zu BILD Diensten zu verwenden. Falls Sie jedoch keine Direktwerbung (mehr) erhalten möchte, können Sie dieser Verwendung Ihrer E-Mail-Adresse jederzeit in Textform an „info@bild. de“ widersprechen, ohne dass hierfür andere als die Übermittlungskosten nach den Basistarifen entstehen. 4. Widerrufsrecht Sie können Ihre Einwilligung zur Erhebung und Speicherung Ihrer personenbezogenen Daten durch BILD digital jederzeit widerrufen. Bei Bedarf schreiben Sie bitte an BILD digital GmbH & Co. KG -Service Team- Axel-Springer-Str. 65 D-10888 Berlin oder senden Sie eine E-Mail an info@bild. de oder nutzen Sie unser Kontaktformular. Bitte haben Sie Verständnis dafür, dass wir im Falle Ihres Widerrufs bestimmte Dienste wie z. B. Newsletter oder die Teilnahme an Gewinnspielen nicht mehr erbringen können. 5. Registrierungspflichtige Dienste und BILD SSO Viele BILD Dienste können Sie nutzen, ohne dass Sie sich hierzu bei uns anmelden müssen. Einige Dienste erfordern jedoch eine gesonderte Registrierung. So zum Beispiel die BILD. de-Community, in der Sie ein eigenes Nutzerprofil haben, ein Forum benutzen, Inhalte kommentieren und anderen Nutzern folgen können. Um sich bei BILD Diensten zu registrieren, bietet BILD digital Ihnen einen besondere Login-Service an, das „BILD Single-Sign-On“, kurz BILD SSO. Damit legen Sie ein Nutzerprofil mit einer Registrierung an und können sich dann mit diesem Profil bei allen BILD Diensten anmelden. Zusätzlich zur Registrierung für den BILD SSO bieten wir noch weitere Anmeldungen bzw. Registrierungen an, wie zum Beispiel zu Newslettern, Gewinnspielen, Votings, Leserservices u. ä. .   a. Direkte Registrierung für BILD SSO Die BILD SSO ist ein besonderer BILD Dienst, mit dem Sie diverse andere BILD Dienste nutzen können, ohne dort jeweils ein neues Nutzerkonto anlegen oder sich separat registrieren zu müssen. BILD SSO dient Ihnen damit als zentrale Funktion für alle BILD Dienste. Wenn Sie sich bei einem registrierungspflichtigen BILD Dienst anmelden möchten, erfolgt dies über den BILD SSO. Hierfür können die erforderlichen Angaben zur Registrierung direkt eingeben oder Sie nutzen hierfür Ihre Angaben aus Ihrem Facebook-Profil. In jedem Fall ist für die Registrierung zum BILD SSO die Angabe Ihres Vornamens und Nachnamens sowie Ihrer E-Mail-Adresse und eines Passwortes notwendig. Wenn Sie mit Ihrem BILD SSO-Profil andere BILD Dienste nutzen, können diese um die Angabe weiterer personenbezogener Daten bitten, um Ihnen den jeweiligen Dienst zur Verfügung stellen zu können. In diesem Fall werden wir Sie hierzu vorher informieren. BILD digital selber verarbeitet und nutzt Ihre Angaben ausschließlich, um Ihnen die jeweiligen BILD Dienste anbieten zu können, soweit das Gesetz dies gestattet oder Sie ausdrücklich zugestimmt haben (siehe zur Einwilligung oben Ziffer 2). b. Registrierung zur BILD SSO über Facebook Wir bieten Ihnen auch die Möglichkeit einer einfacheren Registrierung zur BILD SSO an. Hierfür können Sie Ihr Nutzer-Konto bei Facebook nutzen. Facebook ist ein soziales Netzwerk der Facebook Ireland Limited (Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland). In Facebook haben wir diverse BILD Dienste in Form von Spielen, Webseiten (sog. Fan-Seiten) und Anwendungen (sog. Applikationen) integriert. Zu Beginn einer Registrierung für den BILD SSO weisen wir Sie mit Worten wie „Login mit Facebook“ auf die Option hin, sich mit Ihren Facebook-Profilangaben zu registrieren. Hierfür ist erforderlich, dass Sie bei Facebook bereits registriert sind oder einen Facebook-Zugang erstellen. Beachten Sie deshalb bitte, dass für die Registrierung zu und die Nutzung von Facebook die Datenschutz- und Nutzungsbedingungen von Facebook gelten.   Login beim sozialen Netzwerk Entscheiden Sie sich für die Registrierung mit Ihrem Facebook-Konto, werden Sie in einem ersten Schritt unmittelbar zu Facebook weiter geleitet. Dort bittet Facebook Sie, Ihre Zugangsdaten anzugeben und sich bei Facebook anzumelden oder zu registrieren. Sind Sie in diesem Moment bereits bei Facebook eingeloggt, wird diese Abfrage zur Anmeldung übersprungen. Wichtig: Wir erfahren dadurch Ihre Zugangsdaten nicht.   Verbindung mit Onlinedienst in sozialem Netzwerk In einem zweiten Schritt verbinden Sie Ihr Profil bei Facebook mit einer Facebook-Applikation des BILD Dienstes, für den Sie sich gerade registrieren wollen. In der Regel ist das die BILD. de-Community-Applikation auf Facebook. Zudem zeigt Facebook Ihnen noch einen Link zu den Datenschutz- und Nutzungsbedingungen von BILD digital an. Welche Ihrer Angaben aus Ihrem Facebook-Profil von den jeweiligen BILD Diensten abgefragt werden können, erfahren Sie in diesem Schritt ebenfalls. Hierzu gehören zum einen Ihre sog. „öffentlichen Information“ bei Facebook und solche, die Sie öffentlich zugänglich machen oder für die jeweilige Anwendung freigeben. „Öffentlich“ bedeutet im Zusammenhang mit Facebook, dass jeder auch außerhalb von Facebook diese Daten sehen kann. Hierzu zählen Ihr Name, Ihr Profil- und Titelbild, Ihr Geschlecht, Ihre Netzwerke, Ihr Nutzername (Facebook URL) und Ihre Nutzerkennnummer (Facebook ID). Zur Registrierung bei dem BILD SSO benötigen wir schließlich noch Ihre E-Mail-Adresse, die Sie bei Facebook hinterlegt haben, damit wir mit Ihnen unabhängig von Facebook in Kontakt treten und Ihren Zugang bei dem BILD SSO anlegen können. Sollten Sie nämlich einmal die Verbindung zwischen der Facebook Applikation und Ihrem Profil aufheben, können Sie so über die Funktion „Passwort vergessen“ in dem BILD Dienst, den Sie gerade verwenden, Ihr BILD SSO-Profil weiter nutzen. Wenn Sie damit einverstanden sind, dass BILD digital für die Nutzung des jeweiligen BILD Dienstes Ihre Facebook-Daten verwenden darf, wie es Ihnen bei Facebook angezeigt wird, stellen Sie die Verbindung in dem sozialen Netzwerk zwischen Ihrem Netzwerk-Profil und dem Onlinedienst in dem Netzwerk her und werden dann wieder zur Registrierung für BILD SSO und dem jeweiligen BILD Dienst, den Sie gerade nutzen möchten, weiter geleitet. Bitte beachten Sie, dass der Schritt „Verbindung mit dem Onlinedienst im Netzwerk“ übersprungen wird, wenn Sie sich bereits innerhalb des Sozialen Netzwerks mit der jeweiligen Applikation von BILD digital bei Facebook verbunden haben. BILD digital hat nun die im Rahmen der Registrierung genannten Daten von Facebook übernommen und damit ein Konto im BILD SSO für Sie angelegt – Ihr BILD SSO-Konto. Sie können sich nun zukünftig immer über den Button „Login mit Facebook“ bei Ihrem BILD SSO-Konto und damit in den BILD Diensten anmelden.   Zusatzinformationen Haben Sie diese Form der Registrierung abgeschlossen, speichert BILD digital die Information, dass und über welches soziale Netzwerk Sie sich für die Registrierung bei dem BILD SSO angemeldet haben. Diese Information wird in Form eines Schlüssels zu Ihrem BILD Dienst gespeichert. Ihre Zugangsdaten zu dem jeweiligen sozialen Netzwerk werden dagegen nie von uns gespeichert. Sollten Sie Ihre Angaben, die an den BILD Dienst übermittelt wurden, für den Sie sich registriert haben, ändern, müssen Sie diese Änderungen auch beim BILD Dienst vornehmen. BILD digital erhält nicht automatisch Ihre aktualisierten Daten von Ihrem Facebook-Konto und schickt auch keine Ihrer Profilinhalte an Facebook, wenn Sie dem nichtausdrücklich zustimmen (siehe oben Ziffer 2). Wenn Sie mit Ihrem BILD SSO-Konto weitere BILD Dienste verwenden, die hierfür ggf. zusätzliche Informationen von Ihnen brauchen, werden wir Sie bitten, Ihr BILD SSO-Profil zu aktualisieren bzw. zu ergänzen. In keinem Fall werden Daten, die Sie dann für eingeben, an Facebook weitergegeben oder etwaige Angaben in Ihrem Facebook-Profil überschrieben.   Aufhebung der Verbindung Sollten Sie sich einmal entscheiden, den BILD SSO und die registrierungspflichtigen BILD Dienste unabhängig von Facebook nutzen zu wollen, fordern Sie bitte bei einem BILD Dienst ein neues Passwort über die Funktion „Passwort vergessen“ an. Möchten Sie die o. g. Verbindung zu der jeweiligen Applikation innerhalb von Facebook aufheben, melden Sie sich bitte bei Facebook an und stellen dort die erforderlichen Änderungen in Ihrem Profil ein. Wir haben dann keine Berechtigung mehr, Angaben aus Ihrem Facebook-Profil für Sie zu nutzen. Sie müssen deshalb ein eigenes Passwort bei BILD digital über die Funktion „Passwort vergessen“ anfordern. Möchten Sie, dass wir Ihre Facebook-Daten aus Ihrem BILD SSO-Profil löschen, müssen Sie Ihr gesamtes BILD SSO-Profil kündigen, sodass Sie die registrierungspflichtigen Dienste nicht mehr nutzen können. Hierfür schreiben Sie bitte eine E-Mail an info@bild. de mit dem Betreff „BILD SSO-Profil löschen“. Wenn Sie nur Daten bei einzelnen BILD Diensten löschen möchten, nutzen Sie bitte die dort jeweils angebotenen Funktionen wie „Beitrag löschen“, „BILD Community Profil löschen“ etc. . 6. Bestellungen in und über BILD Dienste In einigen BILD Diensten bietet wir Ihnen auch kostenpflichtige Leistungen oder die kostenpflichtige Bestellung von Waren an. So können Sie z. B. einzelne Videos-on-Demand bezahlen und dann abrufen oder auch im BILD Shop Waren kaufen. Hierfür sind von Ihnen dann gegebenenfalls und abhängig von dem jeweiligen BILD Dienst noch weitere Daten abzugeben (z. B. eine Lieferadresse oder Bezahldaten).   a. Datenweitergabe Soweit dies für die Abwicklung Ihrer Bestellung in Ihrem Interesse notwendig ist, wird BILD digital die erhobenen und gespeicherten Daten im Rahmen von vertraglichen Absprachen an unsere Dienstleister, Geschäftspartner und Sponsoren weitergeben. Selbstverständlich sind unsere Geschäftspartner und Sponsoren aufgefordert, die gesetzlichen Datenschutzbestimmungen einzuhalten. Für die verschiedenen Bezahlungsarten arbeiten wir mit externen Unternehmen zusammen: für die Zahlungsabwicklung per Kreditkarte ist dies die B+S Card Service GmbH, Lyoner Straße 9, 60528 Frankfurt/Main für die Zahlungsabwicklung per Sofortüberweisung ist dies die Payment Network AG, Fussbergstr. 1, 82131 Gauting für die Zahlungsabwicklung per paypal ist dies die PayPal Deutschland GmbH, Am Marktplatz 1, 14532 Europaparc Dreilinden für die Zahlungsabwicklung per Finanzierung ist es die Santander Consumer Bank AG, Santander-Platz 1, 41061 Mönchengladbach für die Zahlungsabwicklung per Rechnung ist es SIT-Pay Solution, Eiffestr. 74, 20537 Hamburg für die Zahlungsabwicklung per BarPay ist dies die EZV Gesellschaft für Zahlungssysteme mbH, Friedrichstraße 171, 10117 Berlin b. Bonitätsprüfung Beim Kauf auf Rechnung wird uns zum Zwecke der Kreditprüfung die SIT Solution for IT-Payment GmbH (im Weiteren SIT-Pay genannt), Eiffestr. 74, 20537 Hamburg, die in ihrer Datenbank oder unter Zuhilfenahme Dritter zu ihrer Person gespeicherten Adress- und Bonitätsdaten einschließlich solcher, die auf der Basis mathematisch-statistischer Verfahren ermittelt werden, zur Verfügung stellen, sofern wir unser berechtigtes Interesse glaubhaft dargelegt haben. Zu diesem Zweck werden Ihre persönlichen Daten (Name, Adresse, Geburtsdatum) vor Vertragsschluss dorthin weitergeleitet. Wir weisen darauf hin, dass bei der Bonitätsprüfung Anschriftendaten zur Berechnung eines Wahrscheinlichkeitswertes nach den Regeln des BDSG zum Einsatz kommen können. Bei nicht vertragsgemäßer Abwicklung gibt BILD digital entsprechende Auskünfte zur Wahrung berechtigter Interessen Dritter dorthin weiter. Die jeweilige Datenübermittlung und -speicherung erfolgt gemäß den Voraussetzungen des § 28 Bundesdatenschutzgesetzes nur soweit dies zur Wahrung berechtigter Interessen von BILD digital, von SIT-Pay oder der Allgemeinheit erforderlich ist und dadurch schutzwürdige Belange von Ihnen als unser Kunde nicht beeinträchtigt werden. Auskunft über die zu der Person des Kunden gespeicherten Daten bei den genannten Unternehmen kann der Kunde unter Hinzufügung einer Fotokopie des Ausweises oder Passes unter der obigen Anschrift erhalten. Weitere Informationen über SIT-Pay können unter www. sit-pay. de eingesehen werden. 7. Ihre Inhalte in BILD Diensten Neben dem bloßen Besuch von BILD Diensten können Sie auch mit uns interagieren. Insbesondere ermöglichen wir es unseren Nutzern, gegebenenfalls Beiträge in einem BILD Dienst mit eigenen Beiträgen zu kommentieren oder zu bewerten. Auch steht es Ihnen an manchen Stellen frei, uns weitere Inhalte (zum Beispiel von Ihnen gemachte Fotos) für eine Veröffentlichung in BILD Diensten zu übermitteln.   a.  Inhalte mit Personenbezug Alle diese Fälle bringen naturgemäß eine Erhebung und Verarbeitung weiterer Daten mit sich. Übersenden Sie uns Inhalte zur Veröffentlichung oder kommentieren Sie einen Beitrag in einem BILD Dienst, so können schon diese Inhalte bzw. Kommentare selbst personenbezogene Daten enthalten – nämlich dann, wenn Sie entsprechende Angaben machen, auf einem Foto selbst zu sehen sind etc. . Ihre aktiv angegebenen personenbezogenen Daten verwenden wir lediglich zu dem Zweck, die gewünschte Leistung zu erbringen. Wir geben die Daten nur dann an Dritte weiter, wenn Sie dem ausdrücklich zugestimmt haben oder soweit wir gesetzlich dazu verpflichtet sind. Insbesondere geben wir die Daten jenseits von § 14 Abs.  2 TMG, Ihrer Einwilligung (siehe oben Ziffer 2) oder sonstigen behördlichen Anfragen auf gesetzlicher Grundlage nicht an Dritte weiter. b. Sichtbarkeit und Einstellungen In den BILD Diensten bietet wir Ihnen jeweils auch unterschiedliche Möglichkeiten an, die Sichtbarkeit Ihrer Inhalte einzustellen. Dabei können Sie bei registrierungspflichtigen Diensten, wie der BILD. de-Community, mehr Einstellungen in Bezug auf die Sichtbarkeit Ihrer Profilangaben vornehmen, als in nicht-registrierungspflichtigen Diensten wie einem anonymen Kommentar. Lesen Sie hierfür bitte die Hilfeseiten der jeweiligen BILD Dienste, die Ihnen Informationen zu den einzelnen Einstellungen geben.   Beachten Sie bitte auch, dass sich jeweils die Einstellungen immer auf den jeweiligen BILD Dienst beziehen sowie Ihr Profil in dem BILD Dienst, das Sie dort nutzen. So können Sie mit dem BILD SSO-Profil mehrere BILD Dienste nutzen und für jeden BILD Dienst u. a. einen anderen Profilnamen auswählen. Ihre Stammdaten bei dem BILD SSO können Sie jedoch nur über Ihre Konto-Einstellungen zum BILD SSO bearbeiten.   c. Kommentarfunktion In einigen BILD Diensten ist die Kommentarfunktion „CoveritLive“ eingebunden. Diese Funktion wird von der Demand Media Inc. , 1299 Ocean Avenue, 5th Floor, Santa Monica, Kalifornien, USA, betrieben. Wir weisen Sie an geeigneter Stelle darauf hin, wo diese Kommentarfunktion eingebunden ist. Wenn Sie eine unserer Webseiten aufrufen, die die Kommentarfunktion „CoveritLive“ enthält, wird von Ihrem Browser eine direkte Verbindung mit den Servern  von Demand Media Inc. aufgebaut und die Kommentarfunktion von dort geladen. Dabei wird die Information an Demand Media Inc. übermittelt, dass die entsprechende Seite des BILD Dienstes aufgerufen wurde. CoveritLive wird von Demand Media Inc. direkt an Ihren Browser übermittelt und von diesem in die Webseite eingebunden. Wir haben daher keinen Einfluss auf den Umfang der Daten, die Demand Media Inc. über CoveritLive erhebt. Einzig die Moderation der Kommentare, die über CoveritLive zu Artikeln und anderen Inhalten bei dem BILD Dienst abgegeben werden, liegt allein bei BILD digital. Zu anderen Zwecken verwendet BILD digital die Kommentare nicht. Welche Daten Demand Media Inc. über CoveritLive im Einzelnen zu eigenen Zwecken erhebt und Informa­tionen über die weitere Verarbeitung und Nutzung der Daten, erfahren Sie in der Datenschutzerklärung von Demand Media Inc. unter http://www. demandmedia. com/privacy-policy/. 8. Cookies Im Zuge der Nutzung von BILD Diensten werden Cookies gesetzt. Bei Cookies handelt es sich um kleine Dateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle, die den Cookie setzt, bestimmte Informationen zufließen. Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. Sie dienen dazu, den jeweiligen BILD Dienst insgesamt nutzerfreundlicher und effektiver zu machen. Durch diese Cookies fließen uns Informationen zum Browsertyp und dessen Version, dem URL-Clickstream (Reihenfolge der von Ihnen besuchten Seiten unseres Internetangebots), dem Datum und der Zeit des Besuchs in unserem Portal sowie die Cookie-Nummer zu, nicht jedoch der Name, die Anschrift, die E-Mail-Adresse oder auch nur IP-Adressen unserer Nutzer. Die unmittelbar von BILD digital gesetzten Cookies dienen lediglich statistischen Zwecken. So erfahren wir, welche Inhalte unserer BILD Dienste am meisten zu welcher Uhrzeit über welche Endgeräte abgerufen werden. Diese Informationen dienen uns dazu, Rubriken wie „meist gelesen“ zu schaffen und auf diesem Weg die BILD Dienste für unsere Nutzer komfortabler zu gestalten. Durch die statistischen Erkenntnisse zu Browsertyp und Betriebssystem können wir zudem das Design unser BILD Dienste optimieren. Darüber hinaus möchten wir den Nutzern von BILD Diensten für sie möglichst relevante Inhalte und Dienste anbieten. Zu diesem Zwecke analysieren wir bzw. unsere Partner automatisch die in den Logfiles oder Cookies enthaltenen Informationen. Wir tun dies, um den Nutzern Angebote oder Inhalte, die nur auf die Region bezogen sind, anzuzeigen (zum Beispiel regionale Nachrichten oder Wetterinformationen). Generell können Sie das Speichern von Cookies auf Ihrer Festplatte verhindern, indem Sie in Ihren Browser-Einstellungen "keine Cookies akzeptieren" wählen. Sie können Ihren Browser auch so einstellen, dass dieser Sie vor dem Setzen von Cookies fragt, ob Sie einverstanden sind. Schließlich können Sie auch einmal gesetzte Cookies jederzeit wieder löschen. Wie all das im Einzelnen funktioniert, entnehmen Sie bitte der Anleitung Ihres Browser-Herstellers. Wenn Sie keine Cookies akzeptieren, kann dies im Einzelfall zu Funktionseinschränkungen der Webseite führen. Bitte beachten Sie, dass Sie für den Fall einer Cookie-Löschung auch den Opt Out Link erneut aktivieren müssen. 9.  Online-Werbung In den BILD Diensten schalten wir Werbung. Die Werbeplätze werden dabei sowohl von BILD digital als auch von der Axel Springer Media Impact, ein Dienst der Axel Springer AG, vermarktet. Die Axel Springer Media Impact bedient sich dabei Mittel des technischen Dienstleisters nugg. ad AG predictive behavioral targeting, Rotherstr. 16, 10245 Berlin, um die Werbung optimiert auszusteuern. Dabei werden folgende Daten durch die Verwendung von Cookies verarbeitet, wobei wir jedoch ausdrücklich auf Ihr u. g. Widerspruchsrecht hinweisen: Erfasst werden Informationen über Ihre Aktivitäten auf allen von der Axel Springer Media Impact vermarkteten Internetseiten und Internetdiensten (z. B. Surfverhalten, besuchte Unterseiten der Internet-Angebote, geklickte Werbebanner, etc. ). Da nach geltender Rechtslage nicht völlig ausgeschlossen werden kann, dass die erhobenen Daten einen mittelbaren Personenbezug zulassen, werden sämtliche Nutzungsdaten unter Verwendung eines Pseudonyms gespeichert, sodass eine persönliche Identifikation ausgeschlossen ist. Gegebenenfalls werden diese Daten in Zusammenhang mit anonymen Daten aus Online-Fragebögen, verwendet. Die aus technischen Gründen übermittelte IP Adresse Ihres Rechners wird dabei von einem unabhängigen Dritten vollständig anonymisiert und nicht für die gesteuerte Einblendung von Werbung verwendet. Wenn Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten möchten, können Sie einem der folgenden Links widersprechen und die Datenerhebung so deaktivieren: • http://www. nugg. ad/de/ • http://www. audiencescience. com/de/privacy • http://www. adaudience. de • http://smartadserver. com/privacy-policy Wie Cookies allgemein funktionieren und wie sie damit umgehen und welche Einstellungen Sie in Ihrem Browser vornehmen können, können Sie oben unter „7. Cookies“ lesen. Die Axel Springer AG hat sich zudem freiwillig der Selbstregulierung des Deutschen Datenschutzrats Online-Werbung (DDOW) unterworfen. Den für sie gültigen Selbstregulierungskodex können Sie unter folgendem Link einsehen: http://www. meine-cookies. org/ 10. Mobile BILD Dienste Zu mobilen BILD Diensten gehören insbesondere Applikationen für Mobiltelefone und Tablets. Eine Datenerhebung erfolgt dabei nur zum Zwecke der Systemsicherheit und um das Angebot dieser BILD Dienste permanent zu verbessern. Zudem ist eine Verarbeitung von Daten notwendig, um Ihnen kostenpflichtige BILD Dienste, insb. Leistungen und Abonnements in Applikationen anbieten zu können. So erheben, verarbeiten und nutzen wir in Applikationen von BILD Digital folgende Daten: Artikel/Seiten/Inhalte, die der Nutzer liest (Speicherung nur temporär im Cache des mobilen Endgeräts) Personalisierung der Startseite der App durch den Nutzer (Reihenfolge und Anzahl der Artikel/Seiten/Inhalte) Ort für regionale Funktionen wie z. B. das Wetter Historie der zuletzt gelesene Artikel zur Anzeige beim nächsten App-Start Tracking-/Nutzungs-Daten (siehe Webanalyse) Abo-bezogene Daten werden zentral auf einem Server gespeichert (IMEI,UDID, Abo-Code, Ablaufdatum etc. ) Spielstände/Highscores mit E-Mail-Adresse, Nickname (z. B. bei einem Quiz) Abonnements von Kanälen für Push-Benachrichtigungen E-Mail Adresse, wenn der Nutzer diese angibt 11. Webanalyse Wir setzen zudem so genannte Tracking-Tools zur Analyse des Datenverkehrs in BILD Diensten ein. Dadurch erhalten wir jedoch keine personenbezogenen Daten unserer Nutzer, sondern vielmehr nur statistische Daten über die Nutzung des jeweiligen BILD Dienstes. Wir erfahren auf diesem Weg zum Beispiel, welche Inhalte in den BILD Diensten besonders beliebt sind, zu welchen Zeiten unsere Website besonders intensiv genutzt wird, ob unsere Nutzer eher über Suchmaschinen oder von unseren anderen Website zu den BILD Diensten gelangen, von welchen Teilen und Städten der Welt aus unsere Nutzer die BILD Dienste nutzen und welche Browser und Betriebssysteme unsere Nutzer im Allgemeinen verwenden, wenn Sie auf BILD Dienste besuchen. Diese Informationen nutzen wir, um die BILD Dienste laufend technisch, gestalterisch und redaktionell zu verbessern und für Sie komfortabler zu machen. Anhand der statistischen Erkenntnisse zu Browsertyp und Betriebssystem können wir zudem unser Webdesign optimieren. Bei den zur Webanalyse verwendeten Tools handelt es sich um die nachfolgend aufgezählten Dienste. Wenn Sie mit der zuvor beschriebenen Speicherung und Verwendung der Nutzungsdaten durch den jeweiligen u. g. technischen Dienstleister nicht einverstanden sind, können Sie die Webanalyse auf die jeweils dargestellte Art und Weise deaktivieren und auf diesem Weg Ihren Widerspruch gegen die bei der Webanalyse stattfindende Datenerhebung und -verwendung erklären.   a.  INFOnline BILD digital nutzt zur Ermittlung statistischer Kennwerte zur Nutzung seiner Angebote das „Skalierbare Zentrale Messverfahren" (SZM) der Firma INFOnline (https://www. infonline. de). Die INFOnline GmbH hat ihren Sitz im Forum Bonn Nord in der Brühler Straße 9 in 53119 Bonn. Im Rahmen des SZM werden anonyme Messwerte erhoben. Die SZM-Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen entweder einen Cookie mit der Kennung „ivwbox. de" oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers bzw. mobilen Endgerätes erstellt wird. IP-Adressen werden in dem Verfahren nicht gespeichert und nur in anonymisierter Form verarbeitet. Die Reichweitenmessung wurde unter der Beachtung des Datenschutzes entwickelt. Ziel der Reichweitenmessung ist es, die Nutzungsintensität und die Anzahl der Nutzer einer Website statistisch zu bestimmen. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert. Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung. Unsere BILD Dienste nehmen zum Teil an der Reichweitenmessung der Arbeitsgemeinschaft Online-Forschung e. V. (AGOF – www. agof. de) teil. Die AGOF ist ein nach deutschem Recht eingetragener Verein mit Sitz in der Niddastraße 52 in 60329 Frankfurt am Main. In Bezug auf die Reichweitenmessung werden für mobile und Web-Dienste unterschiedliche Vorgehensweisen genutzt:   i. Web BILD Dienste Für Internetangebote, die Mitglied der Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e. V. (IVW - www. ivw. eu) sind oder an der Studie „internetfacts" der Arbeitsgemeinschaft Online-Forschung e. V. (AGOF - www. agof. de) teilnehmen, werden die Nutzungsstatistiken monatlich von der AGOF und der Arbeitsgemeinschaft Media-Analyse e. V. (ag. ma - www. agma-mmc. de), sowie der IVW veröffentlicht und können unter http://www. agof. de, http://www. agma-mmc. de und http://www. ivw. eu eingesehen werden. Neben der Veröffentlichung von Messdaten überprüft die IVW das SZM-Verfahren regelmäßig im Hinblick auf eine regel- und datenschutzkonforme Nutzung. Weitere Informationen zum SZM-Verfahren finden Sie auf der Website der INFOnline GmbH (https://www. infonline. de), die das SZM-Verfahren betreibt, der Datenschutzwebsite der AGOF (http://www. agof. de/datenschutz) und der Datenschutzwebsite der IVW (http://www. ivw. eu). Sie können der Datenverarbeitung durch das SZM unter folgendem Link widersprechen: http://optout. ivwbox. de   ii. Mobile BILD Dienste Unsere für mobile Endgeräte optimierte BILD Dienste (mobile Internetseite) nehmen zum Teil an der Reichweitenmessung der Arbeitsgemeinschaft Online-Forschung e. V. (AGOF – www. agof. de) teil, die in regelmäßigen Abständen die Nutzungsstatistiken der teilnehmenden Angebote in der Studie AGOF „mobile facts“ ausweist. Die Studie AGOF „mobile facts“ wurde unter der Beachtung des Datenschutzes entwickelt. Ziel ist es, die Nutzungsintensität, den Nutzungsumfang und die Anzahl der Nutzer einer mobilen Internetseite statistisch zu bestimmen. Zu diesem Zweck nutzt unsere mobile Internetseite den „Mobile Sensor“ der Fa. spring GmbH & Co. KG, Saarlouis. Damit werden statistische Kennwerte zur Nutzung unserer Angebote ermittelt. Diese Messung der mobilen Nutzung verwendet zur Wiedererkennung von mobilen Endgeräten einen sog. Cookie. Dieser wird auf Ihrem mobilen Endgerät gespeichert und enthält eine nicht personenbezogene, anonyme Nummer. Nur diese anonymisierte Nummer wird als Messgrundlage herangezogen. Zu keinem Zeitpunkt können einzelne Nutzer persönlich identifiziert werden. Sie erhalten über das System keine Werbung. Genauere Informationen zu dem Verfahren können Sie auf der Webseite der AGOF \[www. agof. de/datenschutz/mobile\] einsehen. Sie können der o. g. Datenverarbeitung jederzeit über diesen Link http://optout. 2cnt. net/agof/ widersprechen. Dabei wird ein sog. Opt-out-Cookie auf Ihrem mobilen Endgerät gespeichert. Bitte beachten Sie, dass der Widerspruch nur so lange gilt, wie Sie den Opt-out-Cookie gespeichert haben. b. Google Analytics BILD digital benutzt in einigen BILD Diensten Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag von BILD digital wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren http://tools. google. com/dlpage/gaoptout?hl=de. Die Webanalyse bleibt solange deaktiviert, wie das Add-On von Google nicht seinerseits deaktiviert bzw. gelöscht wird. Daher löschen Sie bitte das Add-On nicht, solange die Webanalyse nicht gewollt ist. Das Add-On ist pro Browser und Rechner gesetzt. Falls Sie BILD Dienste also mit unterschiedlichen Browsern aufrufen, müssen Sie das Add-On gesondert hinzufügen. Weitere Informationen zur Google Inc. und Google Analytics finden Sie unter: http://www. google. com. Die Datenschutzerklärung von Google finden Sie unter: http://www. google. com/intl/de/privacypolicy. html#information   c. Webtrekk BILD digital nutzt in einigen BILD Diensten auch die Dienste der Webtrekk GmbH. Die Webtrekk GmbH ist ein in Deutschland, Boxhagener Strasse 76-78, 10245 Berlin, ansässiges Unternehmen, das Nutzungsdaten erhebt, speichert und analysiert. Sie ist für Datenschutz im Bereich Web Controlling in Deutschland zertifiziert worden, nachdem ihre Datenverarbeitung auf Datenschutzkonformität und Datensicherheit hin geprüft wurde. Wenn Sie BILD Dienste nutzen, setzt die Webtrekk GmbH einen Cookie (siehe hierzu oben Ziffer 2). Er ermöglicht die Erhebung, Speicherung und Auswertung der Nutzungsdaten durch die Webtrekk GmbH. Die erhobenen Nutzungsdaten werden anonymisiert, indem die IP-Adresse gekürzt wird (siehe auch oben zu Google Analytics). Ein Rückschluss auf Sie als Besucher des BILD Dienstes ist daher auch bei Webtrekk nicht mehr möglich. Die gekürzte IP-Adresse wird allein zum Zweck der Sessionkennung und für die Geolokalisierung (bis auf Stadt-Ebene) benötigt.  Weitere Informationen zum Datenschutz bei Webtrekk finden Sie unter http://www. webtrekk. com/produkte/features/datenschutz. html. Um Webtrekk zu deaktivieren und die Erhebung von Nutzungsdaten auszuschließen, muss ein Cookie („webTrekkOptOut“ genannt) gesetzt werden. Der Cookie ist unter http://optout. webtrekk. net/?r=http://www. webtrekk. com/index/datenschutzerklaerung/opt-out. html verfügbar. Ist der Cookie gesetzt, werden die Nutzungsdaten nicht erhoben.   12. Soziale Netzwerke Sie finden BILD Dienste auch in sozialen Online-Netzwerken, die andere Unternehmen im Internet anbieten (z. B. Facebook oder Google). Zudem finden Sie einzelne Funktionen dieser Netzwerke auch in den BILD Diensten integriert. Sowohl die BILD Dienste in sozialen Netzwerken als auch die sozialen Netzwerk-Funktionen in BILD Diensten können Sie nur nutzen, wenn Sie auch bei dem jeweiligen sozialen Netzwerk registriert und angemeldet sind. Beachten Sie deshalb, dass für die Nutzung des sozialen Netzwerks die Nutzungs- und Datenschutzbedingungen des jeweiligen Netzwerk-Anbieters gelten. Wie BILD digital Ihre personenbezogenen Daten in diesem Zusammenhang verarbeitet werden, erklären wir Ihnen im folgenden Text: a. Login mit Facebook Haben Sie die Registrierung Facebook genutzt (s. o. ), müssen Sie sich zukünftig zuerst bei Facebook anmelden, um BILD Dienste nutzen zu können. Besuchen Sie einen BILD Dienst, bei dem Sie sich über Ihren Facebook-Konto registriert haben, und sind zeitgleich bereits bei Facebook angemeldet, werden Sie automatisch auch bei dem Onlinedienst angemeldet. Sie haben dort die Möglichkeit sich jederzeit wieder abzumelden. Melden Sie sich bei Facebook ab, bleiben Sie bei dem BILD Dienst weiterhin angemeldet, bis Sie sich dort abgemeldet haben. Wenn Sie sich bei dem BILD Dienst abmelden, werden Sie automatisch auch bei Facebook abgemeldet.   b. BILD Dienste in sozialen Netzwerken BILD Dienste bieten wir in folgenden sozialen Netzwerken an: i. Facebook Facebook ist ein soziales Netzwerk der Facebook Ireland Limited (Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland). In Facebook haben wir diverse BILD Dienste in Form Spielen, Webseiten (sog. Fan-Seiten) und Anwendungen (sog. Applikationen) integriert. Nutzen Sie einen dieser BILD Dienste auf Facebook, gewährt Facebook uns über eine technische Schnittstelle Zugang zu Ihren sog. „öffentlichen Information“ bei Facebook und solche, die Sie öffentlich zugänglich machen oder für die jeweilige Anwendung freigeben. „Öffentlich“ bedeutet im Zusammenhang mit Facebook, dass jeder auch außerhalb von Facebook diese Daten sehen kann. Hierzu zählen Ihr Name, Ihr Profil- und Titelbild, Ihr Geschlecht, Ihre Netzwerke, Ihr Nutzername (Facebook URL) und Ihre Nutzerkennnummer (Facebook ID). Um einzelne BILD Dienste nutzerfreundlicher zu gestalten und damit Sie auch Ihr persönliches Netzwerk innerhalb der BILD Dienste nutzen können, nutzen einige BILD Dienste auch die Nutzerkennnummern Ihrer Freunde (oder Ihre Freundesliste).  Welche Daten Facebook im Einzelnen Diensten innerhalb von Facebook zur Verfügung stellt,  erklärt Ihnen Facebook hier: http://www. facebook. com/about/privacy/your-info-on-other#applications Facebook entscheidet dabei gemäß der Facebook-Datenschutzbestimmungen, welche Daten stets öffentlich zugänglich sind und welche Sie mit Hilfe Ihrer Privatsphäreeinstellungen individuell zugänglich machen können. Lesen Sie zu den Einzelheiten mehr bei Facebook: http://www. facebook. com/about/privacy/your-info#everyoneinfo Ob und welche weiteren Informationen aus Ihrem Facebook-Profil ein BILD Dienst benötigt, erfahren Sie, wenn Sie sich für einen BILD Dienst entscheiden. Dort nennt Facebook Ihnen die Datenkategorien, zu denen BILD digital für den jeweiligen BILD Dienst Zugang hat. Wenn Sie Ihr Facebook-Profil mit BILD Diensten auf Facebook verbunden haben, können Sie auch außerhalb von Facebook Funktionen von Facebook in unseren BILD Diensten nutzen. So können Sie sehen, welche Ihrer Freunde bereits dieselben Inhalte eines BILD Dienstes gelesen haben oder welche Inhalte sie weiter empfehlen. Nutzen Sie diese Funktionen von Facebook in den BILD Diensten, erfährt BILD digital über die Verbindung auf Facebook, welche Funktion von Facebook Sie benutzt haben. Egal, welchen BILD Dienst Sie bei Facebook nutzen; in jedem Fall verwenden wir die uns zugänglichen Daten nur für den Zweck, Ihnen den jeweiligen Dienst anzubieten. Wenn wir Ihre Daten darüber hinaus verwenden wollen, tun wir dies nur insoweit, wie das Gesetz dies gestattet oder Sie Ihre Zustimmung hierzu erteilt haben. Möchten Sie die BILD Dienste auf Facebook nicht mehr verwenden, können Sie dies durch die jeweiligen Einstellungen bei Facebook deutlich machen, z. B. die Verbindung zwischen Ihrem Profil und der Anwendung aufheben. Wir haben dann keinen Zugang mehr zu Ihren allgemeinen Informationen mehr und löschen diese, wenn Sie uns hierüber informieren. Wenden Sie sich hierzu bitte an info@bild. de mit dem Betreff „Löschen meiner Facebook Daten in den BILD Diensten“. ii. Google+ BILD Dienste finden Sie auch in dem sozialen Netzwerk Google+, das von der Google Inc. , 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, betrieben wird. Dort hat BILD digital diverse BILD Dienste in Form von Spielen, Webseiten (sog. Google+-Seiten) und Anwendungen (sog. Applikationen) integriert. Welche Daten aus Ihrem Google+-Profil BILD digital sehen kann, können Sie individuell in Ihren Privatsphäreeinstellungen einstellen: https://www. google. com/settings/privacy?tab=4 Insbesondere können Sie entscheiden, in welchen Kreis Sie welchen BILD Dienst hinzufügen möchten. Einzelheiten entnehmen Sie bitte den Datenschutzinformationen von Google: http://www. google. de/intl/de/policies/privacy/   iii. Twitter BILD digital hat auch einige Twitter-Konten. Twitter ist ein Microblogging-Dienst des amerikanischen Unternehmens Twitter, Inc. (795 Folsom St. , Suite 600, San Francisco, CA 94107). Wenn Sie selber Twitter aktiv nutzen und einen Tweet veröffentlichen,  können wir ihn ebenfalls sehen, wenn Sie ihn jedermann zugänglich gemacht haben oder wenn wir Ihnen über Twitter folgen. Ebenfalls können wir Ihre Angaben auf Twitter sehen, wenn BILD Dienste Ihren Tweets folgen. Einzelheiten zur Verarbeitung der Daten bei Twitter und den Sichtbarkeitseinstellungen entnehmen Sie bitte den Datenschutzbedingungen von Twitter: https://twitter. com/privacy   c. Social Plug-Ins Innerhalb von BILD Diensten finden Sie zum Teil auch sogenannte „Social Plug-Ins“. Das sind Funktionen des jeweiligen sozialen Netzwerks, über die Sie zum Beispiel Inhalte in den BILD Diensten mit Ihren Freunden in den sozialen Netzwerken teilen oder diese Inhalte weiter empfehlen können. Social Plug-Ins folgender Anbieter nutzen wir:   i. Facebook  Facebook ist ein soziales Netzwerk der Facebook Ireland Limited (Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland). In BILD Diensten haben wir unterschiedliche Funktionen von Facebook eingebundenen (z. B. „Like“, „Teilen“) um die Nutzung der BILD Dienste noch nutzerfreundlicher zu gestalten. Facebook-Funktionen sind mit dem Facebook-Logo gekennzeichnet. Abhängig von der Art der Funktion können weitere Angaben hinzukommen (z. B. „Like“, „Empfehlen“). Mit dem Like -Button können Sie Ihren Facebook Freunden und Facebook Nutzern Ihre Meinung mitteilen, welche Artikel sie mögen/empfehlen. Haben Sie als Facebook-Nutzer die Recommendations Bar in Facebook zu Ihren Facebook Anwendungen hinzugefügt, veröffentlichen Sie automatisch Ihre Leseaktivität auf Facebook in Ihrem Newsfeed und Ihrer Timeline/Chronik, sobald sich die Recommendations Bar in einem BLD Dienst aufklappt. Auf Facebook erfahren dann die Personen, denen Sie bei Installation der Anwendung die Rechte hierzu gegeben haben, welchen Artikel Sie gerade bei uns lesen oder welche Inhalte Sie in BILD Diensten nutzen. Die einzelnen Einträge sowie die Applikation selber können Sie jederzeit auf Facebook wieder entfernen. Wenn Sie einen BILD Dienste nutzen, der einen Facebook-Button enthält, wird von Ihrem Browser bzw. der Anwendung eine direkte Verbindung mit den Facebook-Servern aufgebaut und der Button zur jeweiligen Funktion von dort geladen. Dabei wird die Information an Facebook übermittelt, dass die entsprechende Internetseite eines BILD Dienstes aufgerufen oder ein bestimmter BILD Dienst genutzt wurde. Wenn Sie selber aktiv eine Facebook-Funktion verwenden, zl. B. auf den Like-Button klicken, ist es möglich, dass Facebook weitere Daten verarbeitet. So kann Facebook z. B. einen Cookie setzen, über den Facebook auf anderen Internetseiten, die ebenfalls Facebook-Buttons eingebunden haben, erkennen kann, dass Sie bereits auf den  Button geklickt haben.   Sind Sie als Facebook-Nutzer gleichzeitig bei Facebook eingeloggt, ist außerdem die Zuordnung eines Seitenabrufs zu ihrem Profil auf Facebook möglich. Wenn Sie eingebundene Facebook-Buttons anklicken und sich danach bei Facebook einloggen (oder bereits eingeloggt sind), können z. B. die „ge-like-ten“ oder „empfohlenen“ Informationen auf Facebook in Ihrem Profil und Ihrer Chronik/Timeline in Kurzform veröffentlicht werden. Facebook kann so gegebenenfalls weitere Nutzungsdaten erheben und speichern. So können bei Facebook-Nutzerprofile entstehen, die über das hinausgehen, was Sie selbst bei Facebook preisgeben. BILD digital erfährt zu keinem Zeitpunkt, welche Facebook-Buttons Sie wann verwendet haben, sondern erhält von Facebook ausschließlich eine zusammengefasste, nicht personenbezogene Statistik über die Nutzung der Fanpages von BILD digital auf Facebook und eine zusammen­gefasste Statistik zur Verwendung von Facebook-Buttons in Bezug auf den jeweiligen BILD Dienst. Welche Daten Facebook im Einzelnen zu eigenen Zwecken erhebt, erfahren Sie in der Datenschutzerklärung von Facebook; dort erhalten Sie auch weitere Informa­tionen zu Datenerhebung und -verarbeitung durch Facebook und zu Ihren darauf bezogenen Rechten, Die Facebook-Datenschutzerklärung ist abrufbar unter https://www. facebook. com/policy. php, die Information von Facebook zu sog. Social Plugins unter http://on. fb. me/mAN33b.   ii. Twitter Twitter ist ein Microblogging-Dienst des amerikanischen Unternehmens Twitter, Inc. (795 Folsom St. , Suite 600, San Francisco, CA 94107). Wenn Sie BILD Dienste nutzen, z. B. eine unserer Webseiten aufrufen, die einen Twitter-Button enthält, wird von Ihrem Browser ebenfalls eine direkte Verbindung mit den Servern von Twitter aufgebaut und der Button von dort geladen. Dabei wird die Information an Twitter übermittelt, dass der entsprechende BILD Dienst aufgerufen wurde. Auch wenn Sie nicht eingeloggt sind, kann Twitter so gegebenenfalls Nutzungsdaten erheben und auch speichern. Wenn Sie die Twitter-Buttons in BILD Diensten anklicken und über das sich öffnende Twitter-Fenster Informationen „twittern“, übermitteln Sie die getwitterten Informationen an Twitter. Diese Informationen werden dann in Ihrem Twitter-Nutzerprofil veröffentlicht. Weitere Informationen zur Datenerhebung, Auswertung und Verarbeitung Ihrer Daten durch Twitter sowie Ihren darauf bezogenen Rechte erhalten Sie in der Datenschutzerklärung von Twitter, die unter http://twitter. com/privacy abrufbar ist.   iii. Google+ In mehreren BILD Diensten ist ein Google+ Button des sozialen Netzwerks „Google+“ eingebunden. Dieses Soziale Netzwerk wird von der Google Inc. , 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, betrieben. Der Button von Google+ ist an dem Zeichen “+1″ erkennbar. Wenn Sie BILD Dienste nutzen, z. B. eine unserer Webseiten aufrufen, die einen Google+ Button enthält, wird von Ihrem Browser eine direkte Verbindung mit den Google-Servern aufgebaut und der Button von dort geladen. Dabei wird die Information an Google Inc. übermittelt, dass die entsprechende Seite im BILD Dienst aufgerufen wurde. Der Inhalt der “+1″-Schaltfläche  wird von Google direkt an Ihren Browser übermittelt und von diesem in die Webseite eingebunden. Wir haben daher keinen Einfluss auf den Umfang der Daten, die Google mit der Schaltfläche erhebt. Nach Angabe von Google werden ohne einen Klick auf die Schaltfläche keine personenbezogenen Daten erhoben. Nur bei eingeloggten Mitgliedern des sozialen Netzwerks Google+ werden Daten, unter anderem die IP-Adresse, erhoben und verarbeitet. Wenn Sie Google+-Mitglied sind und nicht möchten, dass Google über unseren Internetauftritt Daten über Sie erhebt, müssen Sie sich vor Ihrem Besuch unseres Internetauftritts bei Google+ ausloggen. Die BILD digital erfährt zu keinem Zeitpunkt, ob und wann Sie den Google+ Button verwendet haben, sondern erhält von Google ausschließlich eine zusammengefasste, nicht personenbezogene Statistik über die Nutzung des Google+-Buttons. Welche Daten Google im Einzelnen zu eigenen Zwecken erhebt und Informa­tionen über die weitere Verarbeitung und Nutzung der Daten, erfahren Sie in der Datenschutzerklärung von Google unter http://www. google. com/intl/de/+/policy/+1button. html. 13. Datensicherheit BILD digital setzt technische und organisatorische Maßnahmen ein, um zu gewährleisten, dass sowohl die Systeme von BILD digital vor Angriffen und Missbrauch als auch die personenbezogenen Daten der Nutzer vor Verlust, unrichtigen Veränderungen oder unberechtigten Zugriffen Dritter geschützt sind. So verwenden wir die Logfiles zu den BILD Diensten lediglich, um Störungsfälle bei der Erreichbarkeit von BILD Diensten besser analysieren und beheben zu können, sowie zu statistischen Zwecken, um BILD Dienste technisch und redaktionell verbessern und optimieren zu können. Nutzungsstatistiken in BILD Diensten dienen zudem dazu, automatisiertes Auslesen oder Ausnutzen von Funktionen der BILD Dienste zu erkennen. In jedem Fall haben von unserer Seite nur berechtigte Personen Zugang zu Ihren personenbezogenen Daten, und dies auch nur insoweit, als es im Rahmen der oben genannten Zwecke erforderlich ist. Die Übertragung bestimmter sensibler Daten erfolgt verschlüsselt. BILD digital verwendet hierfür die so genannte "Secure Socket Layer" (SSL)-Übertragung. Dies glt zum Beispiel für die Registrierung zum BILD SSO oder bei der Anmeldung bei BILD Diensten. Alle mit dieser sicheren Methode übertragenen Informationen werden verschlüsselt, bevor sie an BILD digital gesandt werden. Durch die Umwandlung in einen Code werden Ihre persönlichen Daten wie Name oder Adresse durch die Sicherheitsserver-Software von BILD digital verschlüsselt. Auf diese Weise können diese Daten bei der Übertragung im Internet nicht von Unbefugten gelesen werden. Die meisten neueren Browser unterstützen bereits diese sichere Übertragungstechnik. 14. Auskunftsrecht Sie können jederzeit Auskunft über die von uns über Sie gespeicherten Daten bekommen. Bitte schreiben Sie in diesem Fall an   BILD digital GmbH & Co. KG -Service Team- Axel-Springer-Str. 65 10888 Berlin   oder senden Sie eine E-Mail an info@bild. de oder kontaktieren uns über die Service Rufnummer 01805/63 10 10 (0,14 EUR/Min. aus dem deutschen Festnetz, Mobilfunkpreise können abweichen). 15. Weiterer Hinweis zum Datenschutz Bitte denken Sie daran, dass Sie immer, wenn Sie freiwillig persönliche Informationen online zugänglich machen (z. B. in Chatbereichen, per E-Mail, in Foren) diese Informationen von anderen gesammelt und verwendet werden können. Sie könnten also von anderen unerwünschte Nachrichten erhalten, wenn Sie in Bereichen mit öffentlichem Zugriff persönliche Informationen online zugänglich machen. Handeln Sie stets vorsichtig und verantwortungsvoll und achten Sie auf die Geheimhaltung Ihres Passwortes und/oder sonstiger persönlicher Informationen. 16. Links zu anderen Websites BILD digital verlinkt Webseiten anderer, mit uns nicht verbundener Anbieter (Dritter). Wenn Sie diese Links anklicken, hat BILD digital keinen Einfluss mehr darauf, welche Daten durch diese Anbieter, erhoben und verwendet werden. Genauere Informationen zu Datenerhebung und -verwendung finden Sie in der Datenschutzerklärung des jeweiligen Anbieters. Da die Datenerhebung und -verarbeitung durch Dritte naturgemäß unserer Kontrolle entzogen ist, können wir hierfür keine Verantwortung übernehmen. Daher werden wir Sie, wenn Sie die BILD dienste durch einen solchen Klick auf einen Link verlassen, im Rahmen des technisch Möglichen deutlich darauf hinweisen, dass Sie auf einen anderen Internetanbieter zugreifen. Sofern dieses nicht bereits eindeutig aus dem Text hervorgeht, werden wir den Link auf eine fremde Internetseite mit dem Hinweis "externer Link" versehen. 17. Kontakt Sollten Sie noch Fragen zum Datenschutz bei BILD digital haben, steht Ihnen unser Datenschutzbeauftragter unter der E-Mail-Adresse datenschutz@axelspringer. de zur Verfügung.   zurück Service Immobilien-Suche powered by Jetzt die passende Wunsch-Immobilie finden! Postleitzahl/Ort mieten kaufen Objektart WohnungHausWGGrundstückGarage Preis € bis Mind. Größe qm bis Top 5 Artikel Fotogalerien Videos   1 1 5 wilde Transfer-Gerüchte Kevin-Prince Boateng zu den Bayern? Kevin-Prince Boateng zu den Bayern? ThemaAC Mailand 2 2 „Wetten, dass. . ?“ Vor seinem Tod fühlte sich Monarch pudelwohl Vor seinem Tod fühlte sich Monarch pudelwohl ThemaWetten, dass. . . ? 3 3 „X Factor“-Krise Jury-Zoff und miese Quote Jury-Zoff und miese Quote ThemaX-Factor 4 4 Auftritt bei Maischberger Wer ist die bizarre Schleier-Frau? Wer ist die bizarre Schleier-Frau? ThemaIslam 5 5 Pussy Riot Urteil Darum kommt nur eine Punk-Frau frei Darum kommt nur eine Punk-Frau frei ThemaPussy Riot Navigation: Home News Politik Geld Unterhaltung Sport Lifestyle Ratgeber Reise Auto Digital Spiele Regional Forum Bild. tv Service Politik Politiker twittern Aktuelle Petition Unterhaltung BILD Kino TV-Programm Musikvideos Shopping Tagesdeal Gutscheine BILD Shop Sport Super-Manager Bundesliga Tippspiel Sportdatencenter Sport Livekalender Auto Gebrauchtwagen Neuwagen News Wetter Geld Stromtarif-Vergleich KFZ-Versicherung Haftpflichtversicherung Kredit-Vergleich Tagesgeld-Vergleich Steuer-Rechner Gehaltscheck Gas-Vergleich DSL-Vergleich Ökostrom-Vergleich Börse Ratgeber Bewerbungsgenerator Immobiliensuche Lifestyle Horoskop Partnersuche Erotik Livecams Seitensprung Erotik 1 Digital Fotoservice Download Bild Mobil Spiele Online-Spiele Browser-Spiele Download-Spiele Karten-Spiele BILDspielt Sonstiges Newsletter Impressum Über BILD. de Kontakt Media Jobs Presse Allg. Nutzungsbedingungen Bes. Nutzungsbedingungen Nutzungsbasierte Online Werbung Datenschutz BILDspielt BILDmobil BILD. de-Beilage Erotik1. de Online Angebote Axel-Springer Auto BILD Autohaus24. de B. Z. BERLINER MORGENPOST BILD BILD DER FRAU COMPUTER BILD METAL HAMMER finanzen. net flug. idealo. de gamigo. de goFeminin. de HAMBURGER ABENDBLATT HÖRZU idealo. de immonet. de Ladenzeile. de MUSIKEXPRESS onmeda ROLLING STONE SPORT BILD stepstone. de STYLEBOOK transfermarkt. de TV DIGITAL WELT zanox. de Misterinfo Umzugsauktion Watchmi. tv Mein Gutscheincode iKiosk Axel Springer AG Axel Springer Akademie Axel Springer Digital TV Axel Springer Infopool Ein Herz für Kinder Anzeige
+Zur Hauptnavigation springen. Zum Inhalt springen.
+
+*   10.10.2012 - 23:16 Uhr
+*   ABO
+*   RSS
+*   Online-Services
+*   NEWSLETTER
+
+*   Massa HausAnzeige
+*   Heimwerker-TippAnzeige
+*   Israel entdeckenAnzeige
+*   Volks-VitaminAnzeige
+
+Suchbegriff: Neu registrieren|Login
+
+*   *   Mein Profil
+    *   Profil bearbeiten
+    *   Kontakte
+    *   Privatsphäre
+    *   Mein Konto
+    *   Logout
+
+*   Themen
+*   BILD mobil
+*   Wetter
+*   Gewinnspiele
+*   BILD-Shop
+
+Hauptnavigation
+
+1.  Home
+2.  News
+    1.  Startseite
+    2.  Inland
+    3.  Ausland
+    4.  Leser-Reporter
+    5.  Mystery
+    6.  BILD kämpft für Sie!
+    7.  Ein Herz für Kinder
+    8.  Forum News
+3.  Politik
+    
+    2.  Startseite
+    3.  Inland
+    4.  Ausland
+    5.  Politiker twittern
+    6.  Forum Politik
+4.  Geld
+    1.  Startseite
+    2.  Wirtschaft
+    3.  Börse
+    4.  Sparen
+    5.  Versicherungen
+    6.  Immobilien
+    7.  VergleichsrechnerAnzeige
+    8.  Forum Geld
+5.  Unterhaltung
+    1.  Startseite
+    2.  Stars
+    3.  Deutsche Promis
+    4.  TV
+    5.  Fernsehprogramm
+    6.  Kino
+    7.  Musik
+    8.  Musik-TippAnzeige
+    9.  Royals
+    10.  Kultur
+    11.  BILD Filme
+    12.  DVDAnzeige
+    13.  Erotik
+    14.  Forum Unterhaltung
+6.  Sport
+    1.  Startseite
+    2.  Bundesliga
+        1.  Startseite
+        2.  FC Augsburg
+        3.  FC Bayern München
+        4.  Borussia Dortmund
+        5.  Eintracht Frankfurt
+        6.  SC Freiburg
+        7.  Fortuna Düsseldorf
+        8.  Greuther Fürth
+        9.  Hannover 96
+        10.  TSG 1899 Hoffenheim
+        11.  HSV
+        12.  Bayer Leverkusen
+        13.  FSV Mainz 05
+        14.  Borussia Mönchengladbach
+        15.  1\. FC Nürnberg
+        16.  FC Schalke 04
+        17.  VfB Stuttgart
+        18.  SV Werder Bremen
+        19.  VfL Wolfsburg
+        20.  Transfermarkt.de
+    3.  2\. Liga
+    4.  Fussball-Mix
+        1.  Startseite
+        2.  3\. Liga
+        3.  Champions League
+        4.  Europa League
+        5.  DFB-Pokal
+        6.  Nationalmannschaft
+        7.  EM 2012
+        8.  International
+        9.  Real Madrid
+        10.  Transfermarkt.de
+    5.  Formel 1
+    6.  Motorsport
+    7.  Sport-Mix
+        1.  Startseite
+        2.  Boxen
+        3.  Tennis
+        4.  Olympia 2012
+    8.  SUPER-MANAGER
+    9.  Bundesliga-Tippspiel
+    10.  Live-Kalender
+    11.  Sportdaten-Center
+    12.  Sportbild.de
+    13.  Forum Sport
+7.  Lifestyle
+    1.  Startseite
+    2.  Mode &. Beauty
+    3.  Wellness &. Fitness
+    4.  Essen &. Trinken
+    5.  Haus &. Garten
+    6.  HoroskopAnzeige
+    7.  PartnersucheAnzeige
+    8.  Bildderfrau.de
+    9.  Stylebook.de
+    10.  Forum Lifestyle
+8.  Ratgeber
+    1.  Startseite
+    2.  Gesundheit
+    3.  Diät
+    4.  Recht
+    5.  Job &. Karriere
+    6.  Partnerschaft
+    7.  Kind &. Familie
+    8.  Deutschl. bewegt sich
+    9.  ImmobiliensucheAnzeige
+    10.  Forum Ratgeber
+9.  Reise
+    1.  Startseite
+    2.  Deutschland
+    3.  Europa
+    4.  Fernreisen
+    5.  Hotels
+    6.  Airports &. Airlines
+    7.  Forum Reise
+10.  Auto
+    1.  Startseite
+    2.  Ratgeber
+    3.  NeuwagenAnzeige
+    4.  GebrauchtwagenAnzeige
+    5.  Autobild.de
+    6.  Forum Auto
+11.  Digital
+    1.  Startseite
+    2.  Computer
+    3.  Handy
+    4.  FotoserviceAnzeige
+    5.  Download-Portal
+    6.  Computerbild.de
+    7.  Forum Digital
+12.  Spiele
+    1.  Startseite
+    2.  Online-Spiele
+    3.  Download-SpieleAnzeige
+    4.  Browser-Spiele
+    5.  Karten-Spiele
+    6.  Quiz &. Rätsel
+    7.  BILD Spielt
+    8.  Forum Spiele
+13.  Community
+    1.  Startseite
+    2.  Forum
+        1.  News
+        2.  Politik
+        3.  Geld
+        4.  Unterhaltung
+        5.  Bundesliga
+        6.  Fußball-Mix
+        7.  Sport
+        8.  Lifestyle
+        9.  Ratgeber
+        10.  Reise
+        11.  Auto
+        12.  Digital
+        13.  Regional
+        14.  Spiele
+    3.  Top-Kommentare
+    4.  NETIQUETTE
+    5.  HILFE
+14.  Regional
+    1.  Berlin
+    2.  Bremen
+    3.  Chemnitz
+    4.  Dresden
+    5.  Düsseldorf
+    6.  Frankfurt
+    7.  Hamburg
+    8.  Hannover
+    9.  Köln
+    10.  Leipzig
+    11.  München
+    12.  Ruhrgebiet
+    13.  Stuttgart
+    14.  Forum Regional
+15.  BILD.TV
+    1.  Startseite
+    2.  News
+        1.  Inland
+        2.  Ausland
+        3.  Leser-Reporter
+        4.  Tiervideos
+        5.  Mystery
+        6.  Ein Herz für Kinder
+    3.  Politik
+        1.  Inland
+        2.  Ausland
+        3.  Wirtschaft
+    4.  Unterhaltung
+        1.  Leute
+        2.  TV
+        3.  Kino
+        4.  Kinostarts der Woche
+        5.  Musik
+        6.  Beat
+        7.  Schmidt des Tages
+        8.  Stars bei BILD
+        9.  Die Onkel Berni Show
+        10.  Becker &. Heller
+    5.  Fussball
+        1.  Primera Division
+        2.  Knops Kult-Liga
+        3.  Liga-Show
+    6.  Sport
+        1.  Boxen
+        2.  Motorsport
+        3.  Mehr Sport
+    7.  Auto
+    8.  Regional
+        1.  Berlin
+        2.  Bremen
+        3.  Dresden
+        4.  Düsseldorf
+        5.  Frankfurt
+        6.  Hamburg
+        7.  Hannover
+        8.  Köln
+        9.  Leipzig
+        10.  München
+        11.  Ruhrgebiet
+        12.  Stuttgart
+    9.  Erotik
+        1.  BILD-Girls
+        2.  Mehr Erotik
+        3.  Live-Strip-GirlsAnzeige
+        4.  WetterschneckenAnzeige
+        5.  Sexy Clips
+    10.  Lifestyle
+        1.  Mode &. Beauty
+        2.  Digital
+        3.  Ratgeber
+        4.  Spiele
+        5.  FYI! mit Fine Kalze
+    11.  Wissen
+        1.  Medizin
+        2.  Technik
+        3.  Panorama
+        4.  Natur
+        5.  Geschichte
+
+*   *   Bookmarken?
+    *   delicious
+    *   folkd
+    *   Mister Wong
+    *   oneview
+    *   readster
+    *   Webnews
+    *   yigg
+*   *   Teilen?
+    *   Facebook
+    *   studiVZ
+    *   Twitter
+
+BILD.de – Datenschutzhinweis Datenschutzerklärung für Dienste der BILD digital GmbH &. Co. KG 23.08.2012 — 18:32 Uhr
+
+Die BILD digital GmbH &. Co. KG (nachfolgend „BILD digital“) betreibt mehrere über das Internet erreichbare Dienste wie zum Beispiel BILD.de (www.bild.de), Sport BILD (www.sportbild.de), BILD spielt (www.bildspielt.de), BILD Shop (www.shop.bild.de), STYLEBOOK (www.stylebook.de) sowie Applikationen auf mobilen Endgeräten. Zudem hat BILD digital diverse Präsenzen in anderen Onlinediensten und -netzwerken. (nachfolgend insgesamt „**BILD Dienste**“) BILD digital möchte Ihnen mit dieser Datenschutzerklärung erläutern, welche personenbezogenen Daten zu welchem Zweck und in welcher Form für BILD Dienste verarbeitet werden.
+
+**1\. Grundsatz**
+
+BILD digital nimmt den Schutz der personenbezogenen Daten seiner Nutzer sehr ernst und beachtet die anwendbaren datenschutzrechtlichen Bestimmungen. BILD digital verarbeitet Ihre personenbezogenen Daten nur, sofern das Gesetz die Datenverarbeitung erlaubt oder wenn Sie Ihre Zustimmung zu der Verarbeitung Ihrer Daten gegeben haben. Dies gilt insbesondere auch für die Nutzung und Weitergabe personenbezogener Daten zu Werbe- oder Vermarktungszwecken.
+
+Darüber hinaus können zur optimierten Anzeige von Werbung in BILD Diensten auch Daten verarbeitet und genutzt werden (z.B. mit Hilfe von Cookies), die zwar nicht Ihren Namen und Angaben zu Ihnen persönlich enthalten, rechtlich aber als sog. pseudonyme Daten zu bewerten sein können. Bitte beachten Sie deshalb die unten genannte Möglichkeit, diese Art der Werbeeinblendung zu deaktivieren. Dies gilt auch für die Analyse der Nutzung unserer Webseite durch technische Mittel.
+
+**2\. Einwilligung**
+
+BILD digital verarbeitet Ihre personenbezogenen Daten nur dann, sofern das Gesetz die Datenverarbeitung erlaubt oder wenn Sie Ihre Zustimmung zu der Verarbeitung Ihrer Daten gegeben haben.
+
+Sofern Sie uns hierzu Ihre Einwilligung erteilt haben, können Ihre personenbezogenen Daten z.B. an Kooperationspartner von BILD digital zum Zwecke der Werbung, der Marktforschung, der Information über Produkte und Dienstleistungen, der Zustellung von Angeboten zum Abschluss von Verträgen für Waren und Dienstleistungen und einer optimal an den Interessen des Nutzers abgestimmten weiteren Information durch einen Newsletter, weitergegeben werden. In jedem Fall werden Sie über den Umfang einer etwaig zu erteilenden Einwilligung  sowie etwaige Datenempfänger deutlich erkennbar informiert.
+
+BILD digital wird Ihre Einwilligung protokollieren. Sollten Sie im Einzelfall Ihre Zustimmung nicht geben, bitten wir um Verständnis, dass Sie an dem jeweiligen Dienst ggf. nicht teilnehmen können.
+
+**3. Direktwerbung für ähnliche Angebote**
+
+BILD digital ist berechtigt, die E-Mail-Adresse, die Sie bei seiner Registrierung zu registrierungspflichtigen Diensten angegeben hat, zur Direktwerbung für eigene, ähnliche Dienstleistungen zunutzen sowie zur Information des Nutzers über seinen BILD-SSO-Account sowie generell zu BILD Diensten zu verwenden. Falls Sie jedoch keine Direktwerbung (mehr) erhalten möchte, können Sie dieser Verwendung Ihrer E-Mail-Adresse jederzeit in Textform an „info@bild.de“ widersprechen, ohne dass hierfür andere als die Übermittlungskosten nach den Basistarifen entstehen.
+
+**4\. Widerrufsrecht**
+
+Sie können Ihre Einwilligung zur Erhebung und Speicherung Ihrer personenbezogenen Daten durch BILD digital jederzeit widerrufen. Bei Bedarf schreiben Sie bitte an
+
+**BILD digital GmbH &. Co. KG**
+
+**\-Service Team-**
+
+**Axel-Springer-Str. 65**
+
+**D-10888 Berlin**
+
+oder senden Sie eine E-Mail an info@bild.de oder nutzen Sie unser Kontaktformular. Bitte haben Sie Verständnis dafür, dass wir im Falle Ihres Widerrufs bestimmte Dienste wie z.B. Newsletter oder die Teilnahme an Gewinnspielen nicht mehr erbringen können.
+
+**5\. Registrierungspflichtige Dienste und BILD SSO**
+
+Viele BILD Dienste können Sie nutzen, ohne dass Sie sich hierzu bei uns anmelden müssen. Einige Dienste erfordern jedoch eine gesonderte Registrierung. So zum Beispiel die BILD.de-Community, in der Sie ein eigenes Nutzerprofil haben, ein Forum benutzen, Inhalte kommentieren und anderen Nutzern folgen können.
+
+Um sich bei BILD Diensten zu registrieren, bietet BILD digital Ihnen einen besondere Login-Service an, das „BILD Single-Sign-On“, kurz BILD SSO. Damit legen Sie ein Nutzerprofil mit einer Registrierung an und können sich dann mit diesem Profil bei allen BILD Diensten anmelden. Zusätzlich zur Registrierung für den BILD SSO bieten wir noch weitere Anmeldungen bzw. Registrierungen an, wie zum Beispiel zu Newslettern, Gewinnspielen, Votings, Leserservices u.ä..
+
+**a. Direkte Registrierung für BILD SSO**
+
+Die BILD SSO ist ein besonderer BILD Dienst, mit dem Sie diverse andere BILD Dienste nutzen können, ohne dort jeweils ein neues Nutzerkonto anlegen oder sich separat registrieren zu müssen. BILD SSO dient Ihnen damit als zentrale Funktion für alle BILD Dienste.
+
+Wenn Sie sich bei einem registrierungspflichtigen BILD Dienst anmelden möchten, erfolgt dies über den BILD SSO. Hierfür können die erforderlichen Angaben zur Registrierung direkt eingeben oder Sie nutzen hierfür Ihre Angaben aus Ihrem Facebook-Profil. In jedem Fall ist für die Registrierung zum BILD SSO die Angabe Ihres Vornamens und Nachnamens sowie Ihrer E-Mail-Adresse und eines Passwortes notwendig.
+
+Wenn Sie mit Ihrem BILD SSO-Profil andere BILD Dienste nutzen, können diese um die Angabe weiterer personenbezogener Daten bitten, um Ihnen den jeweiligen Dienst zur Verfügung stellen zu können. In diesem Fall werden wir Sie hierzu vorher informieren. BILD digital selber verarbeitet und nutzt Ihre Angaben ausschließlich, um Ihnen die jeweiligen BILD Dienste anbieten zu können, soweit das Gesetz dies gestattet oder Sie ausdrücklich zugestimmt haben (siehe zur Einwilligung oben Ziffer 2).
+
+**b. Registrierung zur BILD SSO über Facebook**
+
+Wir bieten Ihnen auch die Möglichkeit einer einfacheren Registrierung zur BILD SSO an. Hierfür können Sie Ihr Nutzer-Konto bei Facebook nutzen. Facebook ist ein soziales Netzwerk der Facebook Ireland Limited (Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland). In Facebook haben wir diverse BILD Dienste in Form von Spielen, Webseiten (sog. Fan-Seiten) und Anwendungen (sog. Applikationen) integriert.
+
+Zu Beginn einer Registrierung für den BILD SSO weisen wir Sie mit Worten wie „Login mit Facebook“ auf die Option hin, sich mit Ihren Facebook-Profilangaben zu registrieren. Hierfür ist erforderlich, dass Sie bei Facebook bereits registriert sind oder einen Facebook-Zugang erstellen. Beachten Sie deshalb bitte, dass für die Registrierung zu und die Nutzung von Facebook die Datenschutz- und Nutzungsbedingungen von Facebook gelten.
+
+**Login beim sozialen Netzwerk**
+
+Entscheiden Sie sich für die Registrierung mit Ihrem Facebook-Konto, werden Sie in einem ersten Schritt unmittelbar zu Facebook weiter geleitet. Dort bittet Facebook Sie, Ihre Zugangsdaten anzugeben und sich bei Facebook anzumelden oder zu registrieren. Sind Sie in diesem Moment bereits bei Facebook eingeloggt, wird diese Abfrage zur Anmeldung übersprungen. Wichtig: Wir erfahren dadurch Ihre Zugangsdaten nicht.
+
+**Verbindung mit Onlinedienst in sozialem Netzwerk**
+
+In einem zweiten Schritt verbinden Sie Ihr Profil bei Facebook mit einer Facebook-Applikation des BILD Dienstes, für den Sie sich gerade registrieren wollen. In der Regel ist das die BILD.de-Community-Applikation auf Facebook. Zudem zeigt Facebook Ihnen noch einen Link zu den Datenschutz- und Nutzungsbedingungen von BILD digital an.
+
+Welche Ihrer Angaben aus Ihrem Facebook-Profil von den jeweiligen BILD Diensten abgefragt werden können, erfahren Sie in diesem Schritt ebenfalls. Hierzu gehören zum einen Ihre sog. „öffentlichen Information“ bei Facebook und solche, die Sie öffentlich zugänglich machen oder für die jeweilige Anwendung freigeben. „Öffentlich“ bedeutet im Zusammenhang mit Facebook, dass jeder auch außerhalb von Facebook diese Daten sehen kann. Hierzu zählen Ihr Name, Ihr Profil- und Titelbild, Ihr Geschlecht, Ihre Netzwerke, Ihr Nutzername (Facebook URL) und Ihre Nutzerkennnummer (Facebook ID). Zur Registrierung bei dem BILD SSO benötigen wir schließlich noch Ihre E-Mail-Adresse, die Sie bei Facebook hinterlegt haben, damit wir mit Ihnen unabhängig von Facebook in Kontakt treten und Ihren Zugang bei dem BILD SSO anlegen können. Sollten Sie nämlich einmal die Verbindung zwischen der Facebook Applikation und Ihrem Profil aufheben, können Sie so über die Funktion „Passwort vergessen“ in dem BILD Dienst, den Sie gerade verwenden, Ihr BILD SSO-Profil weiter nutzen.
+
+Wenn Sie damit einverstanden sind, dass BILD digital für die Nutzung des jeweiligen BILD Dienstes Ihre Facebook-Daten verwenden darf, wie es Ihnen bei Facebook angezeigt wird, stellen Sie die Verbindung in dem sozialen Netzwerk zwischen Ihrem Netzwerk-Profil und dem Onlinedienst in dem Netzwerk her und werden dann wieder zur Registrierung für BILD SSO und dem jeweiligen BILD Dienst, den Sie gerade nutzen möchten, weiter geleitet.
+
+Bitte beachten Sie, dass der Schritt „Verbindung mit dem Onlinedienst im Netzwerk“ übersprungen wird, wenn Sie sich bereits innerhalb des Sozialen Netzwerks mit der jeweiligen Applikation von BILD digital bei Facebook verbunden haben.
+
+BILD digital hat nun die im Rahmen der Registrierung genannten Daten von Facebook übernommen und damit ein Konto im BILD SSO für Sie angelegt – Ihr BILD SSO-Konto. Sie können sich nun zukünftig immer über den Button „Login mit Facebook“ bei Ihrem BILD SSO-Konto und damit in den BILD Diensten anmelden.
+
+**Zusatzinformationen**
+
+Haben Sie diese Form der Registrierung abgeschlossen, speichert BILD digital die Information, dass und über welches soziale Netzwerk Sie sich für die Registrierung bei dem BILD SSO angemeldet haben. Diese Information wird in Form eines Schlüssels zu Ihrem BILD Dienst gespeichert. Ihre Zugangsdaten zu dem jeweiligen sozialen Netzwerk werden dagegen nie von uns gespeichert.
+
+Sollten Sie Ihre Angaben, die an den BILD Dienst übermittelt wurden, für den Sie sich registriert haben, ändern, müssen Sie diese Änderungen auch beim BILD Dienst vornehmen. BILD digital erhält nicht automatisch Ihre aktualisierten Daten von Ihrem Facebook-Konto und schickt auch keine Ihrer Profilinhalte an Facebook, wenn Sie dem nichtausdrücklich zustimmen (siehe oben Ziffer 2).
+
+Wenn Sie mit Ihrem BILD SSO-Konto weitere BILD Dienste verwenden, die hierfür ggf. zusätzliche Informationen von Ihnen brauchen, werden wir Sie bitten, Ihr BILD SSO-Profil zu aktualisieren bzw. zu ergänzen. In keinem Fall werden Daten, die Sie dann für eingeben, an Facebook weitergegeben oder etwaige Angaben in Ihrem Facebook-Profil überschrieben.
+
+**Aufhebung der Verbindung**
+
+Sollten Sie sich einmal entscheiden, den BILD SSO und die registrierungspflichtigen BILD Dienste unabhängig von Facebook nutzen zu wollen, fordern Sie bitte bei einem BILD Dienst ein neues Passwort über die Funktion „Passwort vergessen“ an.
+
+Möchten Sie die o.g. Verbindung zu der jeweiligen Applikation innerhalb von Facebook aufheben, melden Sie sich bitte bei Facebook an und stellen dort die erforderlichen Änderungen in Ihrem Profil ein. Wir haben dann keine Berechtigung mehr, Angaben aus Ihrem Facebook-Profil für Sie zu nutzen. Sie müssen deshalb ein eigenes Passwort bei BILD digital über die Funktion „Passwort vergessen“ anfordern. Möchten Sie, dass wir Ihre Facebook-Daten aus Ihrem BILD SSO-Profil löschen, müssen Sie Ihr gesamtes BILD SSO-Profil kündigen, sodass Sie die registrierungspflichtigen Dienste nicht mehr nutzen können. Hierfür schreiben Sie bitte eine E-Mail an info@bild.de mit dem Betreff „BILD SSO-Profil löschen“. Wenn Sie nur Daten bei einzelnen BILD Diensten löschen möchten, nutzen Sie bitte die dort jeweils angebotenen Funktionen wie „Beitrag löschen“, „BILD Community Profil löschen“ etc..
+
+**6\. Bestellungen in und über BILD Dienste**
+
+In einigen BILD Diensten bietet wir Ihnen auch kostenpflichtige Leistungen oder die kostenpflichtige Bestellung von Waren an. So können Sie z.B. einzelne Videos-on-Demand bezahlen und dann abrufen oder auch im BILD Shop Waren kaufen. Hierfür sind von Ihnen dann gegebenenfalls und abhängig von dem jeweiligen BILD Dienst noch weitere Daten abzugeben (z.B. eine Lieferadresse oder Bezahldaten).
+
+**a. Datenweitergabe**
+
+Soweit dies für die Abwicklung Ihrer Bestellung in Ihrem Interesse notwendig ist, wird BILD digital die erhobenen und gespeicherten Daten im Rahmen von vertraglichen Absprachen an unsere Dienstleister, Geschäftspartner und Sponsoren weitergeben. Selbstverständlich sind unsere Geschäftspartner und Sponsoren aufgefordert, die gesetzlichen Datenschutzbestimmungen einzuhalten.
+
+Für die verschiedenen Bezahlungsarten arbeiten wir mit externen Unternehmen zusammen:
+
+*   für die Zahlungsabwicklung per Kreditkarte ist dies die B+S Card Service GmbH, Lyoner Straße 9, 60528 Frankfurt/Main
+*   für die Zahlungsabwicklung per Sofortüberweisung ist dies die Payment Network AG, Fussbergstr. 1, 82131 Gauting
+*   für die Zahlungsabwicklung per paypal ist dies die PayPal Deutschland GmbH, Am Marktplatz 1, 14532 Europaparc Dreilinden
+*   für die Zahlungsabwicklung per Finanzierung ist es die Santander Consumer Bank AG, Santander-Platz 1, 41061 Mönchengladbach
+*   für die Zahlungsabwicklung per Rechnung ist es SIT-Pay Solution, Eiffestr. 74, 20537 Hamburg
+*   für die Zahlungsabwicklung per BarPay ist dies die EZV Gesellschaft für Zahlungssysteme mbH, Friedrichstraße 171, 10117 Berlin
+
+**b. Bonitätsprüfung**
+
+Beim Kauf auf Rechnung wird uns zum Zwecke der Kreditprüfung die SIT Solution for IT-Payment GmbH (im Weiteren SIT-Pay genannt), Eiffestr. 74, 20537 Hamburg, die in ihrer Datenbank oder unter Zuhilfenahme Dritter zu ihrer Person gespeicherten Adress- und Bonitätsdaten einschließlich solcher, die auf der Basis mathematisch-statistischer Verfahren ermittelt werden, zur Verfügung stellen, sofern wir unser berechtigtes Interesse glaubhaft dargelegt haben. Zu diesem Zweck werden Ihre persönlichen Daten (Name, Adresse, Geburtsdatum) vor Vertragsschluss dorthin weitergeleitet. Wir weisen darauf hin, dass bei der Bonitätsprüfung Anschriftendaten zur Berechnung eines Wahrscheinlichkeitswertes nach den Regeln des BDSG zum Einsatz kommen können.
+
+Bei nicht vertragsgemäßer Abwicklung gibt BILD digital entsprechende Auskünfte zur Wahrung berechtigter Interessen Dritter dorthin weiter. Die jeweilige Datenübermittlung und -speicherung erfolgt gemäß den Voraussetzungen des § 28 Bundesdatenschutzgesetzes nur soweit dies zur Wahrung berechtigter Interessen von BILD digital, von SIT-Pay oder der Allgemeinheit erforderlich ist und dadurch schutzwürdige Belange von Ihnen als unser Kunde nicht beeinträchtigt werden.
+
+Auskunft über die zu der Person des Kunden gespeicherten Daten bei den genannten Unternehmen kann der Kunde unter Hinzufügung einer Fotokopie des Ausweises oder Passes unter der obigen Anschrift erhalten. Weitere Informationen über SIT-Pay können unter www.sit-pay.de eingesehen werden.
+
+**7\. Ihre Inhalte in BILD Diensten**
+
+Neben dem bloßen Besuch von BILD Diensten können Sie auch mit uns interagieren. Insbesondere ermöglichen wir es unseren Nutzern, gegebenenfalls Beiträge in einem BILD Dienst mit eigenen Beiträgen zu kommentieren oder zu bewerten. Auch steht es Ihnen an manchen Stellen frei, uns weitere Inhalte (zum Beispiel von Ihnen gemachte Fotos) für eine Veröffentlichung in BILD Diensten zu übermitteln.
+
+**a. Inhalte mit Personenbezug**
+
+Alle diese Fälle bringen naturgemäß eine Erhebung und Verarbeitung weiterer Daten mit sich. Übersenden Sie uns Inhalte zur Veröffentlichung oder kommentieren Sie einen Beitrag in einem BILD Dienst, so können schon diese Inhalte bzw. Kommentare selbst personenbezogene Daten enthalten – nämlich dann, wenn Sie entsprechende Angaben machen, auf einem Foto selbst zu sehen sind etc.. Ihre aktiv angegebenen personenbezogenen Daten verwenden wir lediglich zu dem Zweck, die gewünschte Leistung zu erbringen. Wir geben die Daten nur dann an Dritte weiter, wenn Sie dem ausdrücklich zugestimmt haben oder soweit wir gesetzlich dazu verpflichtet sind. Insbesondere geben wir die Daten jenseits von § 14 Abs. 2 TMG, Ihrer Einwilligung (siehe oben Ziffer 2) oder sonstigen behördlichen Anfragen auf gesetzlicher Grundlage nicht an Dritte weiter.
+
+**b. Sichtbarkeit und Einstellungen**
+
+In den BILD Diensten bietet wir Ihnen jeweils auch unterschiedliche Möglichkeiten an, die Sichtbarkeit Ihrer Inhalte einzustellen. Dabei können Sie bei registrierungspflichtigen Diensten, wie der BILD.de-Community, mehr Einstellungen in Bezug auf die Sichtbarkeit Ihrer Profilangaben vornehmen, als in nicht-registrierungspflichtigen Diensten wie einem anonymen Kommentar. Lesen Sie hierfür bitte die Hilfeseiten der jeweiligen BILD Dienste, die Ihnen Informationen zu den einzelnen Einstellungen geben. 
+
+Beachten Sie bitte auch, dass sich jeweils die Einstellungen immer auf den jeweiligen BILD Dienst beziehen sowie Ihr Profil in dem BILD Dienst, das Sie dort nutzen. So können Sie mit dem BILD SSO-Profil mehrere BILD Dienste nutzen und für jeden BILD Dienst u.a. einen anderen Profilnamen auswählen. Ihre Stammdaten bei dem BILD SSO können Sie jedoch nur über Ihre Konto-Einstellungen zum BILD SSO bearbeiten.
+
+**c. Kommentarfunktion**
+
+In einigen BILD Diensten ist die Kommentarfunktion „CoveritLive“ eingebunden. Diese Funktion wird von der Demand Media Inc., 1299 Ocean Avenue, 5th Floor, Santa Monica, Kalifornien, USA, betrieben. Wir weisen Sie an geeigneter Stelle darauf hin, wo diese Kommentarfunktion eingebunden ist.
+
+Wenn Sie eine unserer Webseiten aufrufen, die die Kommentarfunktion „CoveritLive“ enthält, wird von Ihrem Browser eine direkte Verbindung mit den Servern  von Demand Media Inc. aufgebaut und die Kommentarfunktion von dort geladen. Dabei wird die Information an Demand Media Inc. übermittelt, dass die entsprechende Seite des BILD Dienstes aufgerufen wurde.
+
+CoveritLive wird von Demand Media Inc. direkt an Ihren Browser übermittelt und von diesem in die Webseite eingebunden. Wir haben daher keinen Einfluss auf den Umfang der Daten, die Demand Media Inc. über CoveritLive erhebt. Einzig die Moderation der Kommentare, die über CoveritLive zu Artikeln und anderen Inhalten bei dem BILD Dienst abgegeben werden, liegt allein bei BILD digital. Zu anderen Zwecken verwendet BILD digital die Kommentare nicht.
+
+Welche Daten Demand Media Inc. über CoveritLive im Einzelnen zu eigenen Zwecken erhebt und Informa­tionen über die weitere Verarbeitung und Nutzung der Daten, erfahren Sie in der Datenschutzerklärung von Demand Media Inc. unter http://www.demandmedia.com/privacy-policy/.
+
+**8\. Cookies**
+
+Im Zuge der Nutzung von BILD Diensten werden Cookies gesetzt. Bei Cookies handelt es sich um kleine Dateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle, die den Cookie setzt, bestimmte Informationen zufließen. Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. Sie dienen dazu, den jeweiligen BILD Dienst insgesamt nutzerfreundlicher und effektiver zu machen.
+
+Durch diese Cookies fließen uns Informationen zum Browsertyp und dessen Version, dem URL-Clickstream (Reihenfolge der von Ihnen besuchten Seiten unseres Internetangebots), dem Datum und der Zeit des Besuchs in unserem Portal sowie die Cookie-Nummer zu, nicht jedoch der Name, die Anschrift, die E-Mail-Adresse oder auch nur IP-Adressen unserer Nutzer.
+
+Die unmittelbar von BILD digital gesetzten Cookies dienen lediglich statistischen Zwecken. So erfahren wir, welche Inhalte unserer BILD Dienste am meisten zu welcher Uhrzeit über welche Endgeräte abgerufen werden. Diese Informationen dienen uns dazu, Rubriken wie „meist gelesen“ zu schaffen und auf diesem Weg die BILD Dienste für unsere Nutzer komfortabler zu gestalten. Durch die statistischen Erkenntnisse zu Browsertyp und Betriebssystem können wir zudem das Design unser BILD Dienste optimieren.
+
+Darüber hinaus möchten wir den Nutzern von BILD Diensten für sie möglichst relevante Inhalte und Dienste anbieten. Zu diesem Zwecke analysieren wir bzw. unsere Partner automatisch die in den Logfiles oder Cookies enthaltenen Informationen. Wir tun dies, um den Nutzern Angebote oder Inhalte, die nur auf die Region bezogen sind, anzuzeigen (zum Beispiel regionale Nachrichten oder Wetterinformationen).
+
+Generell können Sie das Speichern von Cookies auf Ihrer Festplatte verhindern, indem Sie in Ihren Browser-Einstellungen "keine Cookies akzeptieren" wählen. Sie können Ihren Browser auch so einstellen, dass dieser Sie vor dem Setzen von Cookies fragt, ob Sie einverstanden sind. Schließlich können Sie auch einmal gesetzte Cookies jederzeit wieder löschen. Wie all das im Einzelnen funktioniert, entnehmen Sie bitte der Anleitung Ihres Browser-Herstellers. Wenn Sie keine Cookies akzeptieren, kann dies im Einzelfall zu Funktionseinschränkungen der Webseite führen. Bitte beachten Sie, dass Sie für den Fall einer Cookie-Löschung auch den Opt Out Link erneut aktivieren müssen.
+
+**9. Online-Werbung**
+
+In den BILD Diensten schalten wir Werbung. Die Werbeplätze werden dabei sowohl von BILD digital als auch von der Axel Springer Media Impact, ein Dienst der Axel Springer AG, vermarktet. Die Axel Springer Media Impact bedient sich dabei Mittel des technischen Dienstleisters nugg.ad AG predictive behavioral targeting, Rotherstr. 16, 10245 Berlin, um die Werbung optimiert auszusteuern. Dabei werden folgende Daten durch die Verwendung von Cookies verarbeitet, wobei wir jedoch ausdrücklich auf Ihr u.g. **Widerspruchsrecht** hinweisen:
+
+Erfasst werden Informationen über Ihre Aktivitäten auf allen von der Axel Springer Media Impact vermarkteten Internetseiten und Internetdiensten (z.B. Surfverhalten, besuchte Unterseiten der Internet-Angebote, geklickte Werbebanner, etc.). Da nach geltender Rechtslage nicht völlig ausgeschlossen werden kann, dass die erhobenen Daten einen mittelbaren Personenbezug zulassen, werden sämtliche Nutzungsdaten unter Verwendung eines Pseudonyms gespeichert, sodass eine persönliche Identifikation ausgeschlossen ist. Gegebenenfalls werden diese Daten in Zusammenhang mit anonymen Daten aus Online-Fragebögen, verwendet. Die aus technischen Gründen übermittelte IP Adresse Ihres Rechners wird dabei von einem unabhängigen Dritten vollständig anonymisiert und nicht für die gesteuerte Einblendung von Werbung verwendet.
+
+Wenn Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten möchten, können Sie einem der folgenden Links widersprechen und die Datenerhebung so deaktivieren:
+
+• http://www.nugg.ad/de/
+
+• http://www.audiencescience.com/de/privacy
+
+• http://www.adaudience.de
+
+• http://smartadserver.com/privacy-policy
+
+Wie Cookies allgemein funktionieren und wie sie damit umgehen und welche Einstellungen Sie in Ihrem Browser vornehmen können, können Sie oben unter „7. Cookies“ lesen.
+
+Die Axel Springer AG hat sich zudem freiwillig der Selbstregulierung des Deutschen Datenschutzrats Online-Werbung (DDOW) unterworfen. Den für sie gültigen Selbstregulierungskodex können Sie unter folgendem Link einsehen: http://www.meine-cookies.org/
+
+**10\. Mobile BILD Dienste**
+
+Zu mobilen BILD Diensten gehören insbesondere Applikationen für Mobiltelefone und Tablets. Eine Datenerhebung erfolgt dabei nur zum Zwecke der Systemsicherheit und um das Angebot dieser BILD Dienste permanent zu verbessern. Zudem ist eine Verarbeitung von Daten notwendig, um Ihnen kostenpflichtige BILD Dienste, insb. Leistungen und Abonnements in Applikationen anbieten zu können. So erheben, verarbeiten und nutzen wir in Applikationen von BILD Digital folgende Daten:
+
+*   Artikel/Seiten/Inhalte, die der Nutzer liest (Speicherung nur temporär im Cache des mobilen Endgeräts)
+*   Personalisierung der Startseite der App durch den Nutzer (Reihenfolge und Anzahl der Artikel/Seiten/Inhalte)
+*   Ort für regionale Funktionen wie z.B. das Wetter
+*   Historie der zuletzt gelesene Artikel zur Anzeige beim nächsten App-Start
+*   Tracking-/Nutzungs-Daten (siehe Webanalyse)
+*   Abo-bezogene Daten werden zentral auf einem Server gespeichert (IMEI,UDID, Abo-Code, Ablaufdatum etc.)
+*   Spielstände/Highscores mit E-Mail-Adresse, Nickname (z.B. bei einem Quiz)
+*   Abonnements von Kanälen für Push-Benachrichtigungen
+*   E-Mail Adresse, wenn der Nutzer diese angibt
+
+**11\. Webanalyse**
+
+Wir setzen zudem so genannte Tracking-Tools zur Analyse des Datenverkehrs in BILD Diensten ein. Dadurch erhalten wir jedoch keine personenbezogenen Daten unserer Nutzer, sondern vielmehr nur statistische Daten über die Nutzung des jeweiligen BILD Dienstes.
+
+Wir erfahren auf diesem Weg zum Beispiel, welche Inhalte in den BILD Diensten besonders beliebt sind, zu welchen Zeiten unsere Website besonders intensiv genutzt wird, ob unsere Nutzer eher über Suchmaschinen oder von unseren anderen Website zu den BILD Diensten gelangen, von welchen Teilen und Städten der Welt aus unsere Nutzer die BILD Dienste nutzen und welche Browser und Betriebssysteme unsere Nutzer im Allgemeinen verwenden, wenn Sie auf BILD Dienste besuchen. Diese Informationen nutzen wir, um die BILD Dienste laufend technisch, gestalterisch und redaktionell zu verbessern und für Sie komfortabler zu machen. Anhand der statistischen Erkenntnisse zu Browsertyp und Betriebssystem können wir zudem unser Webdesign optimieren. Bei den zur Webanalyse verwendeten Tools handelt es sich um die nachfolgend aufgezählten Dienste.
+
+Wenn Sie mit der zuvor beschriebenen Speicherung und Verwendung der Nutzungsdaten durch den jeweiligen u.g. technischen Dienstleister nicht einverstanden sind, können Sie die Webanalyse auf die jeweils dargestellte Art und Weise deaktivieren und auf diesem Weg Ihren Widerspruch gegen die bei der Webanalyse stattfindende Datenerhebung und -verwendung erklären.
+
+**a. INFOnline**
+
+BILD digital nutzt zur Ermittlung statistischer Kennwerte zur Nutzung seiner Angebote das „Skalierbare Zentrale Messverfahren" (SZM) der Firma INFOnline (https://www.infonline.de). Die INFOnline GmbH hat ihren Sitz im Forum Bonn Nord in der Brühler Straße 9 in 53119 Bonn. Im Rahmen des SZM werden anonyme Messwerte erhoben. Die SZM-Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen entweder einen Cookie mit der Kennung „ivwbox.de" oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers bzw. mobilen Endgerätes erstellt wird. IP-Adressen werden in dem Verfahren nicht gespeichert und nur in anonymisierter Form verarbeitet. Die Reichweitenmessung wurde unter der Beachtung des Datenschutzes entwickelt. Ziel der Reichweitenmessung ist es, die Nutzungsintensität und die Anzahl der Nutzer einer Website statistisch zu bestimmen. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert. Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.
+
+Unsere BILD Dienste nehmen zum Teil an der Reichweitenmessung der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF – www.agof.de) teil. Die AGOF ist ein nach deutschem Recht eingetragener Verein mit Sitz in der Niddastraße 52 in 60329 Frankfurt am Main. In Bezug auf die Reichweitenmessung werden für mobile und Web-Dienste unterschiedliche Vorgehensweisen genutzt:
+
+**i. Web BILD Dienste**
+
+Für Internetangebote, die Mitglied der Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V. (IVW - www.ivw.eu) sind oder an der Studie „internetfacts" der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF - www.agof.de) teilnehmen, werden die Nutzungsstatistiken monatlich von der AGOF und der Arbeitsgemeinschaft Media-Analyse e.V. (ag.ma - www.agma-mmc.de), sowie der IVW veröffentlicht und können unter http://www.agof.de, http://www.agma-mmc.de und http://www.ivw.eu eingesehen werden.
+
+Neben der Veröffentlichung von Messdaten überprüft die IVW das SZM-Verfahren regelmäßig im Hinblick auf eine regel- und datenschutzkonforme Nutzung. Weitere Informationen zum SZM-Verfahren finden Sie auf der Website der INFOnline GmbH (https://www.infonline.de), die das SZM-Verfahren betreibt, der Datenschutzwebsite der AGOF (http://www.agof.de/datenschutz) und der Datenschutzwebsite der IVW (http://www.ivw.eu).
+
+Sie können der Datenverarbeitung durch das SZM unter folgendem Link widersprechen: http://optout.ivwbox.de
+
+**ii. Mobile BILD Dienste**
+
+Unsere für mobile Endgeräte optimierte BILD Dienste (mobile Internetseite) nehmen zum Teil an der Reichweitenmessung der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF – www.agof.de) teil, die in regelmäßigen Abständen die Nutzungsstatistiken der teilnehmenden Angebote in der Studie AGOF „mobile facts“ ausweist.
+
+Die Studie AGOF „mobile facts“ wurde unter der Beachtung des Datenschutzes entwickelt. Ziel ist es, die Nutzungsintensität, den Nutzungsumfang und die Anzahl der Nutzer einer mobilen Internetseite statistisch zu bestimmen. Zu diesem Zweck nutzt unsere mobile Internetseite den „Mobile Sensor“ der Fa. spring GmbH &. Co. KG, Saarlouis. Damit werden statistische Kennwerte zur Nutzung unserer Angebote ermittelt. Diese Messung der mobilen Nutzung verwendet zur Wiedererkennung von mobilen Endgeräten einen sog. Cookie. Dieser wird auf Ihrem mobilen Endgerät gespeichert und enthält eine nicht personenbezogene, anonyme Nummer. Nur diese anonymisierte Nummer wird als Messgrundlage herangezogen. Zu keinem Zeitpunkt können einzelne Nutzer persönlich identifiziert werden. Sie erhalten über das System keine Werbung. Genauere Informationen zu dem Verfahren können Sie auf der Webseite der AGOF \[www.agof.de/datenschutz/mobile\] einsehen.
+
+Sie können der o.g. Datenverarbeitung jederzeit über diesen Link http://optout.2cnt.net/agof/ widersprechen. Dabei wird ein sog. Opt-out-Cookie auf Ihrem mobilen Endgerät gespeichert. Bitte beachten Sie, dass der Widerspruch nur so lange gilt, wie Sie den Opt-out-Cookie gespeichert haben.
+
+**b. Google Analytics**
+
+BILD digital benutzt in einigen BILD Diensten Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
+
+Im Auftrag von BILD digital wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
+
+Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern. wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren http://tools.google.com/dlpage/gaoptout?hl=de.
+
+Die Webanalyse bleibt solange deaktiviert, wie das Add-On von Google nicht seinerseits deaktiviert bzw. gelöscht wird. Daher löschen Sie bitte das Add-On nicht, solange die Webanalyse nicht gewollt ist. Das Add-On ist pro Browser und Rechner gesetzt. Falls Sie BILD Dienste also mit unterschiedlichen Browsern aufrufen, müssen Sie das Add-On gesondert hinzufügen.
+
+Weitere Informationen zur Google Inc. und Google Analytics finden Sie unter: http://www.google.com. Die Datenschutzerklärung von Google finden Sie unter: http://www.google.com/intl/de/privacypolicy.html#information
+
+**c. Webtrekk**
+
+BILD digital nutzt in einigen BILD Diensten auch die Dienste der Webtrekk GmbH. Die Webtrekk GmbH ist ein in Deutschland, Boxhagener Strasse 76-78, 10245 Berlin, ansässiges Unternehmen, das Nutzungsdaten erhebt, speichert und analysiert. Sie ist für Datenschutz im Bereich Web Controlling in Deutschland zertifiziert worden, nachdem ihre Datenverarbeitung auf Datenschutzkonformität und Datensicherheit hin geprüft wurde.
+
+Wenn Sie BILD Dienste nutzen, setzt die Webtrekk GmbH einen Cookie (siehe hierzu oben Ziffer 2). Er ermöglicht die Erhebung, Speicherung und Auswertung der Nutzungsdaten durch die Webtrekk GmbH. Die erhobenen Nutzungsdaten werden anonymisiert, indem die IP-Adresse gekürzt wird (siehe auch oben zu Google Analytics). Ein Rückschluss auf Sie als Besucher des BILD Dienstes ist daher auch bei Webtrekk nicht mehr möglich. Die gekürzte IP-Adresse wird allein zum Zweck der Sessionkennung und für die Geolokalisierung (bis auf Stadt-Ebene) benötigt.  Weitere Informationen zum Datenschutz bei Webtrekk finden Sie unter http://www.webtrekk.com/produkte/features/datenschutz.html.
+
+Um Webtrekk zu deaktivieren und die Erhebung von Nutzungsdaten auszuschließen, muss ein Cookie („webTrekkOptOut“ genannt) gesetzt werden. Der Cookie ist unter http://optout.webtrekk.net/?r=http://www.webtrekk.com/index/datenschutzerklaerung/opt-out.html verfügbar. Ist der Cookie gesetzt, werden die Nutzungsdaten nicht erhoben.
+
+**12\. Soziale Netzwerke**
+
+Sie finden BILD Dienste auch in sozialen Online-Netzwerken, die andere Unternehmen im Internet anbieten (z.B. Facebook oder Google). Zudem finden Sie einzelne Funktionen dieser Netzwerke auch in den BILD Diensten integriert. Sowohl die BILD Dienste in sozialen Netzwerken als auch die sozialen Netzwerk-Funktionen in BILD Diensten können Sie nur nutzen, wenn Sie auch bei dem jeweiligen sozialen Netzwerk registriert und angemeldet sind. Beachten Sie deshalb, dass für die Nutzung des sozialen Netzwerks die Nutzungs- und Datenschutzbedingungen des jeweiligen Netzwerk-Anbieters gelten. Wie BILD digital Ihre personenbezogenen Daten in diesem Zusammenhang verarbeitet werden, erklären wir Ihnen im folgenden Text:
+
+**a. Login mit Facebook**
+
+Haben Sie die Registrierung Facebook genutzt (s.o.), müssen Sie sich zukünftig zuerst bei Facebook anmelden, um BILD Dienste nutzen zu können.
+
+Besuchen Sie einen BILD Dienst, bei dem Sie sich über Ihren Facebook-Konto registriert haben, und sind zeitgleich bereits bei Facebook angemeldet, werden Sie automatisch auch bei dem Onlinedienst angemeldet. Sie haben dort die Möglichkeit sich jederzeit wieder abzumelden.
+
+Melden Sie sich bei Facebook ab, bleiben Sie bei dem BILD Dienst weiterhin angemeldet, bis Sie sich dort abgemeldet haben. Wenn Sie sich bei dem BILD Dienst abmelden, werden Sie automatisch auch bei Facebook abgemeldet.
+
+**b. BILD Dienste in sozialen Netzwerken**
+
+BILD Dienste bieten wir in folgenden sozialen Netzwerken an:
+
+**i. Facebook**
+
+Facebook ist ein soziales Netzwerk der Facebook Ireland Limited (Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland). In Facebook haben wir diverse BILD Dienste in Form Spielen, Webseiten (sog. Fan-Seiten) und Anwendungen (sog. Applikationen) integriert.
+
+Nutzen Sie einen dieser BILD Dienste auf Facebook, gewährt Facebook uns über eine technische Schnittstelle Zugang zu Ihren sog. „öffentlichen Information“ bei Facebook und solche, die Sie öffentlich zugänglich machen oder für die jeweilige Anwendung freigeben. „Öffentlich“ bedeutet im Zusammenhang mit Facebook, dass jeder auch außerhalb von Facebook diese Daten sehen kann. Hierzu zählen Ihr Name, Ihr Profil- und Titelbild, Ihr Geschlecht, Ihre Netzwerke, Ihr Nutzername (Facebook URL) und Ihre Nutzerkennnummer (Facebook ID). Um einzelne BILD Dienste nutzerfreundlicher zu gestalten und damit Sie auch Ihr persönliches Netzwerk innerhalb der BILD Dienste nutzen können, nutzen einige BILD Dienste auch die Nutzerkennnummern Ihrer Freunde (oder Ihre Freundesliste).  Welche Daten Facebook im Einzelnen Diensten innerhalb von Facebook zur Verfügung stellt,  erklärt Ihnen Facebook hier: http://www.facebook.com/about/privacy/your-info-on-other#applications
+
+Facebook entscheidet dabei gemäß der Facebook-Datenschutzbestimmungen, welche Daten stets öffentlich zugänglich sind und welche Sie mit Hilfe Ihrer Privatsphäreeinstellungen individuell zugänglich machen können. Lesen Sie zu den Einzelheiten mehr bei Facebook: http://www.facebook.com/about/privacy/your-info#everyoneinfo
+
+Ob und welche weiteren Informationen aus Ihrem Facebook-Profil ein BILD Dienst benötigt, erfahren Sie, wenn Sie sich für einen BILD Dienst entscheiden. Dort nennt Facebook Ihnen die Datenkategorien, zu denen BILD digital für den jeweiligen BILD Dienst Zugang hat.
+
+Wenn Sie Ihr Facebook-Profil mit BILD Diensten auf Facebook verbunden haben, können Sie auch außerhalb von Facebook Funktionen von Facebook in unseren BILD Diensten nutzen. So können Sie sehen, welche Ihrer Freunde bereits dieselben Inhalte eines BILD Dienstes gelesen haben oder welche Inhalte sie weiter empfehlen. Nutzen Sie diese Funktionen von Facebook in den BILD Diensten, erfährt BILD digital über die Verbindung auf Facebook, welche Funktion von Facebook Sie benutzt haben.
+
+Egal, welchen BILD Dienst Sie bei Facebook nutzen. in jedem Fall verwenden wir die uns zugänglichen Daten nur für den Zweck, Ihnen den jeweiligen Dienst anzubieten. Wenn wir Ihre Daten darüber hinaus verwenden wollen, tun wir dies nur insoweit, wie das Gesetz dies gestattet oder Sie Ihre Zustimmung hierzu erteilt haben.
+
+Möchten Sie die BILD Dienste auf Facebook nicht mehr verwenden, können Sie dies durch die jeweiligen Einstellungen bei Facebook deutlich machen, z.B. die Verbindung zwischen Ihrem Profil und der Anwendung aufheben. Wir haben dann keinen Zugang mehr zu Ihren allgemeinen Informationen mehr und löschen diese, wenn Sie uns hierüber informieren. Wenden Sie sich hierzu bitte an info@bild.de mit dem Betreff „Löschen meiner Facebook Daten in den BILD Diensten“.
+
+**ii. Google+**
+
+BILD Dienste finden Sie auch in dem sozialen Netzwerk Google+, das von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, betrieben wird. Dort hat BILD digital diverse BILD Dienste in Form von Spielen, Webseiten (sog. Google+-Seiten) und Anwendungen (sog. Applikationen) integriert.
+
+Welche Daten aus Ihrem Google+-Profil BILD digital sehen kann, können Sie individuell in Ihren Privatsphäreeinstellungen einstellen: https://www.google.com/settings/privacy?tab=4 Insbesondere können Sie entscheiden, in welchen Kreis Sie welchen BILD Dienst hinzufügen möchten. Einzelheiten entnehmen Sie bitte den Datenschutzinformationen von Google: http://www.google.de/intl/de/policies/privacy/
+
+**iii. Twitter**
+
+BILD digital hat auch einige Twitter-Konten. Twitter ist ein Microblogging-Dienst des amerikanischen Unternehmens Twitter, Inc. (795 Folsom St., Suite 600, San Francisco, CA 94107).
+
+Wenn Sie selber Twitter aktiv nutzen und einen Tweet veröffentlichen,  können wir ihn ebenfalls sehen, wenn Sie ihn jedermann zugänglich gemacht haben oder wenn wir Ihnen über Twitter folgen. Ebenfalls können wir Ihre Angaben auf Twitter sehen, wenn BILD Dienste Ihren Tweets folgen. Einzelheiten zur Verarbeitung der Daten bei Twitter und den Sichtbarkeitseinstellungen entnehmen Sie bitte den Datenschutzbedingungen von Twitter: https://twitter.com/privacy
+
+**c. Social Plug-Ins**
+
+Innerhalb von BILD Diensten finden Sie zum Teil auch sogenannte „Social Plug-Ins“. Das sind Funktionen des jeweiligen sozialen Netzwerks, über die Sie zum Beispiel Inhalte in den BILD Diensten mit Ihren Freunden in den sozialen Netzwerken teilen oder diese Inhalte weiter empfehlen können. Social Plug-Ins folgender Anbieter nutzen wir:
+
+**i. Facebook** 
+
+Facebook ist ein soziales Netzwerk der Facebook Ireland Limited (Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland). In BILD Diensten haben wir unterschiedliche Funktionen von Facebook eingebundenen (z.B. „Like“, „Teilen“) um die Nutzung der BILD Dienste noch nutzerfreundlicher zu gestalten. Facebook-Funktionen sind mit dem Facebook-Logo gekennzeichnet. Abhängig von der Art der Funktion können weitere Angaben hinzukommen (z.B. „Like“, „Empfehlen“).
+
+Mit dem **Like -Button** können Sie Ihren Facebook Freunden und Facebook Nutzern Ihre Meinung mitteilen, welche Artikel sie mögen/empfehlen. Haben Sie als Facebook-Nutzer die **Recommendations Bar** in Facebook zu Ihren Facebook Anwendungen hinzugefügt, veröffentlichen Sie automatisch Ihre Leseaktivität auf Facebook in Ihrem Newsfeed und Ihrer Timeline/Chronik, sobald sich die Recommendations Bar in einem BLD Dienst aufklappt. Auf Facebook erfahren dann die Personen, denen Sie bei Installation der Anwendung die Rechte hierzu gegeben haben, welchen Artikel Sie gerade bei uns lesen oder welche Inhalte Sie in BILD Diensten nutzen. Die einzelnen Einträge sowie die Applikation selber können Sie jederzeit auf Facebook wieder entfernen.
+
+Wenn Sie einen BILD Dienste nutzen, der einen Facebook-Button enthält, wird von Ihrem Browser bzw. der Anwendung eine direkte Verbindung mit den Facebook-Servern aufgebaut und der Button zur jeweiligen Funktion von dort geladen. Dabei wird die Information an Facebook übermittelt, dass die entsprechende Internetseite eines BILD Dienstes aufgerufen oder ein bestimmter BILD Dienst genutzt wurde.
+
+Wenn Sie selber aktiv eine Facebook-Funktion verwenden, zl.B. auf den Like-Button klicken, ist es möglich, dass Facebook weitere Daten verarbeitet. So kann Facebook z.B. einen Cookie setzen, über den Facebook auf anderen Internetseiten, die ebenfalls Facebook-Buttons eingebunden haben, erkennen kann, dass Sie bereits auf den  Button geklickt haben. 
+
+Sind Sie als Facebook-Nutzer gleichzeitig bei Facebook eingeloggt, ist außerdem die Zuordnung eines Seitenabrufs zu ihrem Profil auf Facebook möglich. Wenn Sie eingebundene Facebook-Buttons anklicken und sich danach bei Facebook einloggen (oder bereits eingeloggt sind), können z.B. die „ge-like-ten“ oder „empfohlenen“ Informationen auf Facebook in Ihrem Profil und Ihrer Chronik/Timeline in Kurzform veröffentlicht werden. Facebook kann so gegebenenfalls weitere Nutzungsdaten erheben und speichern. So können bei Facebook-Nutzerprofile entstehen, die über das hinausgehen, was Sie selbst bei Facebook preisgeben.
+
+BILD digital erfährt zu keinem Zeitpunkt, welche Facebook-Buttons Sie wann verwendet haben, sondern erhält von Facebook ausschließlich eine zusammengefasste, nicht personenbezogene Statistik über die Nutzung der Fanpages von BILD digital auf Facebook und eine zusammen­gefasste Statistik zur Verwendung von Facebook-Buttons in Bezug auf den jeweiligen BILD Dienst.
+
+Welche Daten Facebook im Einzelnen zu eigenen Zwecken erhebt, erfahren Sie in der Datenschutzerklärung von Facebook. dort erhalten Sie auch weitere Informa­tionen zu Datenerhebung und -verarbeitung durch Facebook und zu Ihren darauf bezogenen Rechten, Die Facebook-Datenschutzerklärung ist abrufbar unter https://www.facebook.com/policy.php, die Information von Facebook zu sog. Social Plugins unter http://on.fb.me/mAN33b.
+
+**ii. Twitter**
+
+Twitter ist ein Microblogging-Dienst des amerikanischen Unternehmens Twitter, Inc. (795 Folsom St., Suite 600, San Francisco, CA 94107). Wenn Sie BILD Dienste nutzen, z.B. eine unserer Webseiten aufrufen, die einen Twitter-Button enthält, wird von Ihrem Browser ebenfalls eine direkte Verbindung mit den Servern von Twitter aufgebaut und der Button von dort geladen. Dabei wird die Information an Twitter übermittelt, dass der entsprechende BILD Dienst aufgerufen wurde. Auch wenn Sie nicht eingeloggt sind, kann Twitter so gegebenenfalls Nutzungsdaten erheben und auch speichern.
+
+Wenn Sie die Twitter-Buttons in BILD Diensten anklicken und über das sich öffnende Twitter-Fenster Informationen „twittern“, übermitteln Sie die getwitterten Informationen an Twitter. Diese Informationen werden dann in Ihrem Twitter-Nutzerprofil veröffentlicht.
+
+Weitere Informationen zur Datenerhebung, Auswertung und Verarbeitung Ihrer Daten durch Twitter sowie Ihren darauf bezogenen Rechte erhalten Sie in der Datenschutzerklärung von Twitter, die unter http://twitter.com/privacy abrufbar ist.
+
+**iii. Google+**
+
+In mehreren BILD Diensten ist ein Google+ Button des sozialen Netzwerks „Google+“ eingebunden. Dieses Soziale Netzwerk wird von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, betrieben. Der Button von Google+ ist an dem Zeichen “+1″ erkennbar.
+
+Wenn Sie BILD Dienste nutzen, z.B. eine unserer Webseiten aufrufen, die einen Google+ Button enthält, wird von Ihrem Browser eine direkte Verbindung mit den Google-Servern aufgebaut und der Button von dort geladen. Dabei wird die Information an Google Inc. übermittelt, dass die entsprechende Seite im BILD Dienst aufgerufen wurde.
+
+Der Inhalt der “+1″-Schaltfläche  wird von Google direkt an Ihren Browser übermittelt und von diesem in die Webseite eingebunden. Wir haben daher keinen Einfluss auf den Umfang der Daten, die Google mit der Schaltfläche erhebt. Nach Angabe von Google werden ohne einen Klick auf die Schaltfläche keine personenbezogenen Daten erhoben. Nur bei eingeloggten Mitgliedern des sozialen Netzwerks Google+ werden Daten, unter anderem die IP-Adresse, erhoben und verarbeitet.
+
+Wenn Sie Google+-Mitglied sind und nicht möchten, dass Google über unseren Internetauftritt Daten über Sie erhebt, müssen Sie sich vor Ihrem Besuch unseres Internetauftritts bei Google+ ausloggen.
+
+Die BILD digital erfährt zu keinem Zeitpunkt, ob und wann Sie den Google+ Button verwendet haben, sondern erhält von Google ausschließlich eine zusammengefasste, nicht personenbezogene Statistik über die Nutzung des Google+-Buttons.
+
+Welche Daten Google im Einzelnen zu eigenen Zwecken erhebt und Informa­tionen über die weitere Verarbeitung und Nutzung der Daten, erfahren Sie in der Datenschutzerklärung von Google unter http://www.google.com/intl/de/+/policy/+1button.html.
+
+**13\. Datensicherheit**
+
+BILD digital setzt technische und organisatorische Maßnahmen ein, um zu gewährleisten, dass sowohl die Systeme von BILD digital vor Angriffen und Missbrauch als auch die personenbezogenen Daten der Nutzer vor Verlust, unrichtigen Veränderungen oder unberechtigten Zugriffen Dritter geschützt sind.
+
+So verwenden wir die Logfiles zu den BILD Diensten lediglich, um Störungsfälle bei der Erreichbarkeit von BILD Diensten besser analysieren und beheben zu können, sowie zu statistischen Zwecken, um BILD Dienste technisch und redaktionell verbessern und optimieren zu können. Nutzungsstatistiken in BILD Diensten dienen zudem dazu, automatisiertes Auslesen oder Ausnutzen von Funktionen der BILD Dienste zu erkennen.
+
+In jedem Fall haben von unserer Seite nur berechtigte Personen Zugang zu Ihren personenbezogenen Daten, und dies auch nur insoweit, als es im Rahmen der oben genannten Zwecke erforderlich ist.
+
+Die Übertragung bestimmter sensibler Daten erfolgt verschlüsselt. BILD digital verwendet hierfür die so genannte "Secure Socket Layer" (SSL)-Übertragung. Dies glt zum Beispiel für die Registrierung zum BILD SSO oder bei der Anmeldung bei BILD Diensten. Alle mit dieser sicheren Methode übertragenen Informationen werden verschlüsselt, bevor sie an BILD digital gesandt werden. Durch die Umwandlung in einen Code werden Ihre persönlichen Daten wie Name oder Adresse durch die Sicherheitsserver-Software von BILD digital verschlüsselt. Auf diese Weise können diese Daten bei der Übertragung im Internet nicht von Unbefugten gelesen werden. Die meisten neueren Browser unterstützen bereits diese sichere Übertragungstechnik.
+
+**14\. Auskunftsrecht**
+
+Sie können jederzeit Auskunft über die von uns über Sie gespeicherten Daten bekommen. Bitte schreiben Sie in diesem Fall an
+
+**BILD digital GmbH &. Co. KG**
+
+**\-Service Team-**
+
+**Axel-Springer-Str. 65**
+
+**10888 Berlin**
+
+oder senden Sie eine E-Mail an info@bild.de oder kontaktieren uns über die Service Rufnummer 01805/63 10 10 (0,14 EUR/Min. aus dem deutschen Festnetz, Mobilfunkpreise können abweichen).
+
+**15\. Weiterer Hinweis zum Datenschutz**
+
+Bitte denken Sie daran, dass Sie immer, wenn Sie freiwillig persönliche Informationen online zugänglich machen (z. B. in Chatbereichen, per E-Mail, in Foren) diese Informationen von anderen gesammelt und verwendet werden können. Sie könnten also von anderen unerwünschte Nachrichten erhalten, wenn Sie in Bereichen mit öffentlichem Zugriff persönliche Informationen online zugänglich machen. Handeln Sie stets vorsichtig und verantwortungsvoll und achten Sie auf die Geheimhaltung Ihres Passwortes und/oder sonstiger persönlicher Informationen.
+
+**16\. Links zu anderen Websites**
+
+BILD digital verlinkt Webseiten anderer, mit uns nicht verbundener Anbieter (Dritter). Wenn Sie diese Links anklicken, hat BILD digital keinen Einfluss mehr darauf, welche Daten durch diese Anbieter, erhoben und verwendet werden. Genauere Informationen zu Datenerhebung und -verwendung finden Sie in der Datenschutzerklärung des jeweiligen Anbieters. Da die Datenerhebung und -verarbeitung durch Dritte naturgemäß unserer Kontrolle entzogen ist, können wir hierfür keine Verantwortung übernehmen. Daher werden wir Sie, wenn Sie die BILD dienste durch einen solchen Klick auf einen Link verlassen, im Rahmen des technisch Möglichen deutlich darauf hinweisen, dass Sie auf einen anderen Internetanbieter zugreifen. Sofern dieses nicht bereits eindeutig aus dem Text hervorgeht, werden wir den Link auf eine fremde Internetseite mit dem Hinweis "externer Link" versehen.
+
+**17\. Kontakt**
+
+Sollten Sie noch Fragen zum Datenschutz bei BILD digital haben, steht Ihnen unser Datenschutzbeauftragter unter der E-Mail-Adresse datenschutz@axelspringer.de zur Verfügung.
+
+  zurück Service Immobilien-Suche powered by Jetzt die passende Wunsch-Immobilie finden! Postleitzahl/Ort mieten kaufen Objektart WohnungHausWGGrundstückGarage Preis € bis Mind. Größe qm bis Top 5
+
+*   Artikel
+*   Fotogalerien
+*   Videos
+
+1 1 Jörg Kachelmann Ex-Geliebte lässt​ sein Buch verbieten​ Ex-Geliebte lässt​ sein Buch verbieten​ ThemaKachelmann-Prozess 2 2 Ekel-Wettbewerb Mann stirbt nach Kakerlaken-Essen Mann stirbt nach Kakerlaken-Essen 3 3 5 wilde Transfer-Gerüchte Kevin-Prince Boateng zu den Bayern? Kevin-Prince Boateng zu den Bayern? ThemaAC Mailand 4 4 „Wetten, dass..?“-Hund im Video Vor seinem Tod fühlte sich Monarch pudelwohl Vor seinem Tod fühlte sich Monarch pudelwohl ThemaWetten, dass...? 5 5 „X Factor“-Krise Jury-Zoff und miese Quote Jury-Zoff und miese Quote ThemaX-Factor Navigation:
+
+1.  Home
+2.  News
+3.  Politik
+4.  Geld
+5.  Unterhaltung
+6.  Sport
+7.  Lifestyle
+8.  Ratgeber
+9.  Reise
+10.  Auto
+11.  Digital
+12.  Spiele
+13.  Regional
+14.  Forum
+15.  Bild.tv
+
+Service
+
+*   Politik
+*   Politiker twittern
+*   Aktuelle Petition
+*   Unterhaltung
+*   BILD Kino
+*   TV-Programm
+*   Musikvideos
+*   Shopping
+*   Tagesdeal
+*   Gutscheine
+*   BILD Shop
+
+*   Sport
+*   Super-Manager
+*   Bundesliga Tippspiel
+*   Sportdatencenter
+*   Sport Livekalender
+*   Auto
+*   Gebrauchtwagen
+*   Neuwagen
+*   News
+*   Wetter
+*   Geld
+
+*   Stromtarif-Vergleich
+*   KFZ-Versicherung
+*   Haftpflichtversicherung
+*   Kredit-Vergleich
+*   Tagesgeld-Vergleich
+*   Steuer-Rechner
+*   Gehaltscheck
+*   Gas-Vergleich
+*   DSL-Vergleich
+*   Ökostrom-Vergleich
+*   Börse
+
+*   Ratgeber
+*   Bewerbungsgenerator
+*   Immobiliensuche
+*   Lifestyle
+*   Horoskop
+*   Partnersuche
+*   Erotik
+*   Livecams
+*   Seitensprung
+*   Erotik 1
+*   Digital
+
+*   Fotoservice
+*   Download
+*   Bild Mobil
+*   Spiele
+*   Online-Spiele
+*   Browser-Spiele
+*   Download-Spiele
+*   Karten-Spiele
+*   BILDspielt
+*   Sonstiges
+*   Newsletter
+
+*   Impressum
+*   Über BILD.de
+*   Kontakt
+*   Media
+*   Jobs
+*   Presse
+*   Allg. Nutzungsbedingungen
+*   Bes. Nutzungsbedingungen
+*   Nutzungsbasierte Online Werbung
+*   Datenschutz
+*   BILDspielt
+*   BILDmobil
+*   BILD.de-Beilage
+*   Erotik1.de
+
+Online Angebote Axel-Springer
+
+*   Auto BILD
+*   Autohaus24.de
+*   B.Z.
+*   BERLINER MORGENPOST
+*   BILD
+*   BILD DER FRAU
+*   COMPUTER BILD
+*   METAL HAMMER
+*   finanzen.net
+*   flug.idealo.de
+*   gamigo.de
+*   goFeminin.de
+*   HAMBURGER ABENDBLATT
+*   HÖRZU
+*   idealo.de
+*   immonet.de
+*   Ladenzeile.de
+*   MUSIKEXPRESS
+*   onmeda
+*   ROLLING STONE
+*   SPORT BILD
+*   stepstone.de
+*   STYLEBOOK
+*   transfermarkt.de
+*   TV DIGITAL
+*   WELT
+*   zanox.de
+*   Misterinfo
+*   Umzugsauktion
+*   Watchmi.tv
+*   Mein Gutscheincode
+*   iKiosk
+*   Axel Springer AG
+*   Axel Springer Akademie
+*   Axel Springer Digital TV
+*   Axel Springer Infopool
+*   Ein Herz für Kinder
+
+Anzeige
