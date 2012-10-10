@@ -1,1 +1,2 @@
-Browser Compatibility In order to use this web application, you must configure your browser so that cookies are enabled. Please enable cookies in your browser and Click Here to return to the requested page.
+**Browser Compatibility**  
+In order to use this web application, you must configure your browser so that cookies are enabled. Please enable cookies in your browser and Click Here to return to the requested page.
