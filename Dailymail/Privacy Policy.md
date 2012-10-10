@@ -1,1 +1,401 @@
-  Home     U. K. Home News Sport U. S. Showbiz Femail Health Science Money RightMinds Travel Columnists You mag Live mag Books Food Promos MailShop Bingo Blogs Dating Horoscopes TV Listings Property Motoring Login Find a Job M&S Wine Our Papers Feedback Wednesday, Oct 10 2012 6PM  44°F 9PM 46°F 5-Day Forecast Privacy policy & cookies Please note, this privacy policy applies to this website or our mobile applications (for example our iPhone, android and iPad apps) (a “Site”). If you do not accept this privacy policy and cookies notice, do not use this Site. Associated Newspapers Ltd is part of the Daily Mail and General Trust  plc group (‘DMGT’).   Members of the DMGT group may,use and share, within that group, the information you provide and other information  held about you for the purposes set out below.    For more information about the DMGT group please see the DMGT website. When you create or log in to an online account you agree to our privacy policy and cookie notice.   Information collected from your  use of this website or our mobile applications (for example, iPhone, android and iPad apps) will be processed in accordance with  this notice. Please see our cookies notice. Privacy notice Information we may hold about you Information you’ve provided to us, including our websites Information about products and services you’ve ordered or enquired about Information provided by other companies who have obtained your permission to share information about you Information about your interaction with adverts and services such as registration, comments Information we collect using cookies stored on your device (for example, this may be a PC, phone or tablet) about your use of MailOnline and/or selected third party websites.   For more information on cookies and how to manage them, please see our cookies notice below. Your IP address, this is a number that identifies a specific network device on the internet and is required for your device and is required for your device to communicate with websites Technical information from your device relating to the service you receive Please do not submit your personal information to us if you do not wish us to collect it. Message boards, blogs and other public forums Please note, the Site makes message boards, blogs and other such user generated content facilities available to users of the Site and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Site becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Site's Terms and House Rules. Email a friend and share this article facilities Please note, when you use these facilities and provide us with personal data (e. g. the name and email address) of a third party, please ensure that you have their consent before giving us their details. How we may use your information By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation): Verifying your identity (for example when you return to the Site) Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting Dealing with, and responding to you about, a comment you have submitted for or on our message boards, blogs and other such user generated content facilities Enabling you to share our content with others e. g. using our Email a friend and Share this article facilities Informing you if you have been successful in any Site competitions or promotions Compiling customer reviews Conducting market research Carrying out statistical, technical and logistical analysis According to your preferences, communicating (and personalising such communication) with you: To send you periodic newsletters about your chosen services To send you direct marketing.   This may include communications by post, telephone or email or SMS about us and our business partners’ products and services, events and special offers, including where applicable, for a reasonable time after you have ceased to be a reader of ours To provide you with personalised services, such as providing with you with viewing recommendations and tailored advertising.   This includes where we have agreement to store information about you on the devices you use, for example to make some of the adverts you see more relevant to you To provide you with advertising more relevant to your interests and your online behaviour through the use of cookies when you visit our website(s) We may share your personal information with other companies within the DMGT group of companies Subject to obtaining your consent, we may also supply personal information about you to third parties We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business. Updating your preferences Marketing You can opt out by clicking on the ‘unsubscribe’ link in the direct marketing/newsletter emails from us.   Your can opt out of marketing text messages replying ‘STOP’. ‘Or you can use the contacting us’ details at the end of this privacy notice. Online behavioural advertising (OBA) If you do not want to receive online advertising where this advertising is relevant to your interests, or don’t want  information processed through the use of cookies, please see the section below on cookies. Interest based advertising Cookies used by  the A&N Media Advertising Network & Associated Newspapers. In order to fund our websites we run advertising on them – much of this advertising is run by the A&N Media Advertising Network. To make its advertising more relevant and effective, the network uses a range of technologies provided by third parties; many of which use cookies. Cookies are files that store small amounts of information on your computer or other device (for example, your mobile phone). None of the cookies that we use contain information such as your real name or address, so you cannot be identified personally by them. Some of the cookies used by our websites are set by us, and some are set by third parties who are delivering services on our behalf. Advertising services We gather anonymous information such as on the types of pages visited, and keywords searched on in order to build an overall, but anonymous, picture of interests or preferences based on individual users browsing habits so that we can offer a more personal experience. To this information, we include information relating to a user’s country, region and connection type gathered from elements of the IP of the browsing device. This practice is a core method used by our group to make our online advertising more efficient for our advertisers and more relevant to consumers. With permission from our advertisers, we also collect information about their sites, for use on their advertising campaigns. This is often called Retargeting, or Remarketing, and involves showing ads to groups of users that have, for example, visited that client’s homepage. We will also gather information, still anonymously, on the users that reach an action page on an advertiser’s site. This allows us to monitor how many sales or actions we achieve for a client, and therefore how effective our advertising is. In order to know how many advertisements we serve, how many times these are clicked, how many advertisements we show to a given user and how many customer actions these generate, we use cookies when we show advertisements on a page. As well as our licensed ad servers, ads are also often served from third-party ad servers, such as those of media agencies, which all use cookies to track the same metrics as ours do. For more information about interest based advertising and how to turn this feature off, please see our cookies notice below. Ad verification technology In order to protect our advertisers’ brands, we often use a technology that scans the page to ascertain that it is safe from profane, sensitive & potentially brand-negative topics, before serving an ad there. This process is called Ad Verification, and these technologies use cookies to count ads served, those blocked, clicked and engaged by a user (i. e. they have hovered over them with their cursor). For a list of cookies served to specific A&N Media websites and MailOnline, please see our cookies notice below.    For more information about other cookies, please see our privacy policy and cookies FAQs. Safeguards and Security No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology. In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date. For more information on the Data Protection Act 1998 and your related rights please see www. ico. gov. uk. Cookies notice You should be aware that when you use our websites, mobile sites, or mobile apps, we may collect information by using 'cookies'. If you'd like to learn how to manage these cookies and 'opt in' and 'out' of different types, please see our privacy policy and cookie FAQ. What are cookies and how do they work? Cookies are small bits of text that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise you and can then tailor what you see on the screen.   What do you use cookies for? Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups: (i) Cookies that are needed to provide the service you have asked for Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies don't gather information about you that could be used for marketing or remembering where you've been on the internet. Here are some examples of essential cookies: Keeping you logged in during your visit; without cookies you might have to log in on every page you go to. When you add something to the online shopping basket, cookies make sure it's still there when you get to the checkout. Some are session cookies which make it possible to navigate through the website smoothly. However these are automatically deleted after you close your web browser. (ii) Improving your browsing experience These cookies allow the website to remember choices you make, such as your language or region and they provide improved features. Here are a few examples of just some of the ways that cookies are used to improve your experience on our websites: Remembering your preferences and settings, including marketing preferences. Remembering if you've filled in a survey, so you're not asked to do it again. Remembering if you've been to the site before. If you are a first-time user, you might see different content to a regular user. Restricting the number of times you're shown a particular advertisment. This is sometimes called 'frequency capping'. Showing you information that's relevant to products of ours that you have. Enabling social media components, like Facebook or Twitter. Showing 'related article' links that are relevant to the page you're looking at. Remembering a location you've entered such as weather forecasts. (iii) Analytics We like to keep track of what pages and links are popular and which ones don't get used so much to help us keep our sites relevant and up to date. It's also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get 'error messages' from web pages. This group of cookies, often called 'analytics cookies' are used to gather this information. These cookies don't collect information that identifies you. The information collected is anonymous and is grouped with the information from everyone else’s cookies. We can then see the overall patterns of usage rather than any one person’s activity. Analytics cookies only record activity on the site you are on and they are only used to improve how a website works. Some of our websites and some of the emails you might get from us also contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used to count the number of times the page or email has been viewed and allows us to measure the effectiveness of its marketing and emails. These web beacons are anonymous and don't contain or collect any information that identifies you. We also use 'affiliate' cookies. Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. This works using a cookie. Learn how to manage your analytics cookies. (iv) Showing advertising that is relevant to your interests We sell space on some of our sites to advertisers. The resulting adverts often contain cookies. The advertiser uses the browsing information collected from these cookies to: restrict the number of times you see the same ad (frequency capping); and help show other ads that are relevant to you while you're on our websites. This is often called online behavioural advertising (OBA). OBA is a way of using information about your web-browsing activity, collected by using cookies, to group you with other users into interest groups and show you advertisements based on those interests. The OBA data collected from cookies you get when you're on our sites is only used to show relevant ads on our sites, not on other websites. Sometimes our websites contain ads for our own MailOnline or Daily Mail products. These ads use cookies in the same way as described above. So how does OBA work? Let's look at an example. Imagine you visit a website about travel. That website shows an advert and with that advert you receive a cookie. Imagine you then visit one of our websites which has an advert from the same advertiser you saw on the travel site. The advertiser will give you a new version of the cookie you received on the travel site. The advertiser can then use that cookie to recognise that you've previously been to a travel site and show you a relevant ad. Although the OBA data collected uses your browsing activity to understand your interests, the data is anonymous and isn’t linked to you as a person. Even if you log in to our websites, the OBA data is still not linked to you. Neither we, nor the companies who show ads on our sites sell data collected from cookies to any other organisations. It’s easy to control interest based advertising and manage your cookies if you want to.   For more information, see our ‘controlling interest based advertising and other third party cookies’ page or visit or our privacy policy and cookie FAQs. Contacting us and accessing your personal information Any queries or comments about this privacy notice or if you wish to review or receive copies of the personal information we hold about you should be sent to info@mailonline. co. uk or write to us at:  Legal Department. Associated Newspapers Limited Northcliffe House 2 Derry Street London W8 5TT United Kingdom We may charge a small administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information. MOST READ NEWS Previous 1 2 3 Next 'I'm writing a fitness book!' Sarah Palin hits back as the. . . Obama 'believed he had BEATEN Romney' in Denver debate -. . . Ripped out, smashed up and sent in a skip to landfill: Jimmy. . . PICTURE EXCLUSIVE: Monica Lewinsky - single, living with her. . . Prince William bids sad farewell to his childhood nanny as. . . News crew captures high school student being bullied as they. . . Heartbreaking images of young Guatemalan brother and sister. . . Zumba instructor pleads not guilty to turning gym into. . . Excited bride pictured on Pinterest planning her big day. . . Suspect who slashed Red Bulls coach has FLED to Mexico. . . as. . . Awkward! AP publishes poorly-timed image of Romney bending. . . Police confirm body found in Boston's Charles River weighed. . .   Share this article: Facebook Twitter Google+ Messenger LinkedIn Digg it Newsvine Fark Nowpublic Reddit Print article Email article Sorry we are unable to accept comments for legal reasons. Bing Site Web Enter search term: Search     Femail Today Suri Cruise debuts her smart school uniform as she arrives home with mother Katie Holmes The youngster attends an elite school in New York City Not such a lovesick puppy after all! Robert Pattinson drapes arm around mystery girl as they flirt into the early hours at nightclub At NYC's Dream Hotel Prince William bids sad farewell to his childhood nanny as he attends her funeral with Diana's sisters  He has canceled a string of engagements 'My mother was speechless after seeing it!' Acrobatic Pink performs the splits wearing just her underwear in dazzling new music video EXCLUSIVE: The Beckhams plot a move back to the UK by end of the year - and may be 'planning baby number five' Sick of Los Angeles? 'I nearly died!' Tori Spelling reveals fourth pregnancy caused internal bleeding - and was close to having termination to save her Won't be having more Police called after Lindsay Lohan and mom Dina get into a 'violent fight' in the early hours after a night out clubbing New York cops had received a complaint  Her parents WILL be proud! Malia Obama continues the First Family's love for sport as she plays tennis with high school friends In Washington D. C. I was a rebel with Post Office savings - the beatnik who went back home to his mom Continuing serialization of Rod Stewart's memoir  'Luckily they saw the funny side!' Tom Cruise 'got spanked on the bottom by a drag queen' during Matt Damon's birthday party at seedy London club The Box Happy Days star Erin Moran in foul-mouthed brawl with mother-in-law 'after trying to sneak back into trailer park home' Had a furious row  The Duchess of Cambridge delights her young fans with a day of smiles, laughter and hugs on her solo tour of the North East of England There's no time for glamor at the gym! Khloé Kardashian looks fresh-faced as she prepares for a workout wearing no make-up Accompanied by Kim 'We have sex like Kenyan marathon runners!' Olivia Wilde dishes on life with Jason Sudeikis  Candid confession about relationships Richard Gere 'ordered out of restaurant by irate husband after flirting with beautiful blonde' The 63 year old actor star was told to stay away from the woman  Honey Boo Boo gets her own 24-hour bodyguard after 'kidnap threats' spark concerns over seven-year-old's safety Mom hired protection Now that's what you call 'falling out' of a club: Rumer Willis bares her cleavage after DJ gig with boyfriend Jayson Blair\` At a Hollywood hot-spot  Mommy make it better? Miley Cyrus steps out with a fluoro bandage on her arm The 19-year-old was with her mother LA, who had the same bandage Hardly the blushing housewife! Blake Lively takes the plunge in metal-strap gown at first public appearance since whirlwind wedding  At Chanel event in NYC Nice make-up. . . shame about the sweat patch! Real Housewives alum Alexis Bellino falls foul of grooming pitfall Spoiled her look with the unfortunate patch With friends like these! Rosie Huntington-Whiteley and Jason Statham support Channing Tatum as he opens New Orleans bar alongside wife Jenna Just like old times! Matt Damon supports best friend Ben Affleck at Argo screening Even before they were both famous, they were the best of friends Going in for the kiss! Natalie Portman is locked in a tender embrace with co-star Michael Fassbender Shooting Terrence Malick film in Austin, Texas Kathy Griffin flashes her bra (and a smile) on sushi date with toyboy lover With Randy Bick at Hollywood hot-spot Katsuya They can't stay away from each other! Pamela Anderson sparks fresh romance rumors as she steps out AGAIN with dance pro Tristan MacManus Step in line, lads! Duchess of Cambridge goes neat in military chic as she wears $520 Reiss coat to meet England soccer players Seen it before too Hulk Hogan is 'devastated' that best friend Bubba the Love Sponge plotted to leak sex tape of him with the latter's ex wife  'Sick to his stomach' From Big Sur to Bondi: Kate Bosworth and fiancé Michael Polish looked loved up as they head to the beach in Sydney Traveled Down Under Crime thriller Taken set to return with third movie. . . but will Liam Neeson reprise his role again? Screenwriter Robert Mark Kamen revealed Jim Carrey's mystery girlfriend is unknown Irish make-up artist half his age. . . as she hopes his 'status will open doors' Called Cathriona White  I'll drink to that! Rihanna chugs on beer as she arrives to studio for late-night recording session Singer had changed into more casual attire He's a leading action man! Bruce Willis films romantic scenes with Mary-Louise Parker. . . for spy movie sequel Red 2 His movie comeback is well and truly in full flow Beach Boys at war: Brian Wilson claims Mike Love 'fired' bandmates via press release so he could tour with new line-up Tension is rising A far cry from housewife casual: Modern Family star Julie Bowen dons lace and jewel embellished dress to host charity fundraiser Keep it in the Cruz family: Penelope Cruz and Bond villain husband Javier Bardem dine with her siblings Monica and Eduardo Spaniards in Madrid Beyoncé pulls out of Clint Eastwood's A Star Is Born remake over scheduling issues He's filming a remake of the 1937 romantic drama Rose McGowan shows off the results of her gym workout as she displays curvy derrière in tight Lycra bottoms The actress has been keeping fit So that's who she gets her style from: Katherine Heigl and her mother Nancy step out in color coordinated looks Some children grow up idolizing their parents  What a waste. . . of that waist! Christina Hendricks covers her curves in frumpy ensemble The black dress was not her finest moment Is that Chris on the line? Rihanna is glued to her phone as she rocks black dress - complete with front train This time covered herself demurely  'She's just laying low and nesting': How Adele is preparing for the birth of her first child The singer is making the most of her last few days of freedom  Marie Osmond came close to having electroconvulsive therapy to cure deep depression Left devastated following the suicide of her son  Not so hot after all! 98 Degrees star Drew Lachey gets the boot alongside Helio Castroneves in DWTS double elimination Danced their last dance The long and short of it: LeAnn Rimes spruces up the grocery shop by showing off never-ending legs in stylish leather skirt Feeling much better!   Amazing true story of tortured British war hero who returned to Japan to forgive his tormentor Colin Firth will play him in a film adaptation of The Railway Man Leaving her Home(land): Morena Baccarin shows she can do casual as well as glamor by dressing down in denim for flight out of Los Angeles Community Spirit: Sarah Hyland gets down and dirty as she picks up litter during filming for Modern Family She's suited and booted for the job She's electric! Jessica Alba's dressed for success in bold blue trousers and a leather biker jacket The 31-year-old star was on her way to the office  Gone with the ring! Danny DeVito's estranged wife Rhea Perlman removes wedding band as they split after 30 years An independent woman  A long way from the catwalk! Milla Jovovich hauls a giant pumpkin on Halloween outing with her husband and daughter Not her usual self Nice bodywork (and the car's not bad either!) Hilary Duff slips into clingy trousers to take Luca for a ride in new Porsche Figure hugging outfit Here come the curves! Salma Hayek complements figure in strapless black dress at film premiere Latest movie Here Comes The Boom EXCLUSIVE: Single, living with her mother and still struggling with her weight - but 'set to make $12m with a tell-all book about her affair with Clinton' Behind-the-scenes with a screen goddess: Candid photographs trace Elizabeth Taylor's glittering Hollywood career From the mid Forties  Saggy breasts, thinning hair, middle-aged spread and receding gums: Things women panic about at JUST 29 YEARS OLD Miranda Kerr is 29 10 reasons why . . . You should date a younger man (according to candid video blogger Emily Hartridge) Emily Hartridge gives her reasons why     ADVERTORIAL FEATURES Blackberry Bold Discover a device that will suit your lifestyle. Click here >> Back to top Navigation Popular Home U. K. Home News Sport U. S. Showbiz Femail Health Science Money RightMinds Travel Columnists Popular searches in home: Daily Mail Facebook Daily Mail Twitter Daily Mail Google+ Daily Mail e-Paper London 2012 Celebrity News US Showbiz US Home Sitemap Archive Mobile Apps RSS Text-based site Reader Prints Top of page Daily Mail Mail on Sunday This is Network This is London This is Money Metro Jobsite Mail Travel Find a property Zoopla Villa Holidays Published by Associated Newspapers Ltd Part of the Daily Mail, The Mail on Sunday & Metro Media Group © Associated Newspapers Ltd Contact us Advertise with us Terms Privacy policy & cookies
+ 
+
+*   Home
+*       U.K. Home
+*   News
+*   Sport
+*   U.S. Showbiz
+*   Femail
+*   Health
+*   Science
+*   Money
+*   RightMinds
+*   Travel
+*   Columnists
+
+*   You mag
+*   Live mag
+*   Books
+*   Food
+*   Promos
+*   MailShop
+*   Bingo
+*   Blogs
+*   Dating
+*   Horoscopes
+*   TV Listings
+*   Property
+*   Motoring
+
+*   Login
+
+Find a Job M&S Wine Our Papers Feedback **Wednesday, Oct 10 2012** 9PM  **8°C** 12AM **8°C** 5-Day Forecast Privacy policy &. cookies  
+
+  
+
+  
+
+Please note, this privacy policy applies to this website or our mobile applications (for example our iPhone, android and iPad apps) (a “Site”). If you do not accept this privacy policy and cookies notice, do not use this Site.
+
+  
+Associated Newspapers Ltd is part of the Daily Mail and General Trust  plc group (‘DMGT’).  Members of the DMGT group may,use and share, within that group, the information you provide and other information  held about you for the purposes set out below.   For more information about the DMGT group please see the DMGT website.
+
+  
+When you create or log in to an online account you agree to our privacy policy and cookie notice.  Information collected from your  use of this website or our mobile applications (for example, iPhone, android and iPad apps) will be processed in accordance with  this notice. Please see our cookies notice.  
+
+  
+
+Privacy notice
+
+  
+**Information we may hold about you**
+
+*   Information you’ve provided to us, including our websites
+*   Information about products and services you’ve ordered or enquired about
+*   Information provided by other companies who have obtained your permission to share information about you
+*   Information about your interaction with adverts and services such as registration, comments
+*   Information we collect using cookies stored on your device (for example, this may be a PC, phone or tablet) about your use of MailOnline and/or selected third party websites.  For more information on cookies and how to manage them, please see our cookies notice below.  
+    
+*   Your IP address, this is a number that identifies a specific network device on the internet and is required for your device and is required for your device to communicate with websites
+*   Technical information from your device relating to the service you receive
+
+Please do not submit your personal information to us if you do not wish us to collect it.
+
+  
+**Message boards, blogs and other public forums**
+
+  
+Please note, the Site makes message boards, blogs and other such user generated content facilities available to users of the Site and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Site becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Site's Terms and House Rules.  
+
+  
+**Email a friend and share this article facilities**
+
+  
+Please note, when you use these facilities and provide us with personal data (e.g. the name and email address) of a third party, please ensure that you have their consent before giving us their details.
+
+**  
+How we may use your information**
+
+  
+By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation):
+
+*   Verifying your identity (for example when you return to the Site)
+*   Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you
+*   Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting
+*   Dealing with, and responding to you about, a comment you have submitted for or on our message boards, blogs and other such user generated content facilities
+*   Enabling you to share our content with others e.g. using our Email a friend and Share this article facilities
+*   Informing you if you have been successful in any Site competitions or promotions
+*   Compiling customer reviews
+*   Conducting market research
+*   Carrying out statistical, technical and logistical analysis
+*   According to your preferences, communicating (and personalising such communication) with you:
+*   To send you periodic newsletters about your chosen services
+*   To send you direct marketing.  This may include communications by post, telephone or email or SMS about us and our business partners’ products and services, events and special offers, including where applicable, for a reasonable time after you have ceased to be a reader of ours
+*   To provide you with personalised services, such as providing with you with viewing recommendations and tailored advertising.  This includes where we have agreement to store information about you on the devices you use, for example to make some of the adverts you see more relevant to you
+*   To provide you with advertising more relevant to your interests and your online behaviour through the use of cookies when you visit our website(s)
+
+We may share your personal information with other companies within the DMGT group of companies
+
+Subject to obtaining your consent, we may also supply personal information about you to third parties
+
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
+
+  
+
+**Updating your preferences**
+
+*   **Marketing**
+
+You can opt out by clicking on the ‘unsubscribe’ link in the direct marketing/newsletter emails from us.  Your can opt out of marketing text messages replying ‘STOP’. ‘Or you can use the contacting us’ details at the end of this privacy notice.
+
+*   **Online behavioural advertising (OBA)**
+
+If you do not want to receive online advertising where this advertising is relevant to your interests, or don’t want  information processed through the use of cookies, please see the section below on cookies.
+
+  
+
+**Interest based advertising**
+
+**Cookies used by  the A&N Media Advertising Network &. Associated Newspapers.**
+
+In order to fund our websites we run advertising on them – much of this advertising is run by the A&N Media Advertising Network. To make its advertising more relevant and effective, the network uses a range of technologies provided by third parties. many of which use cookies.
+
+Cookies are files that store small amounts of information on your computer or other device (for example, your mobile phone). None of the cookies that we use contain information such as your real name or address, so you cannot be identified personally by them. Some of the cookies used by our websites are set by us, and some are set by third parties who are delivering services on our behalf.
+
+  
+
+**Advertising services**
+
+We gather anonymous information such as on the types of pages visited, and keywords searched on in order to build an overall, but anonymous, picture of interests or preferences based on individual users browsing habits so that we can offer a more personal experience. To this information, we include information relating to a user’s country, region and connection type gathered from elements of the IP of the browsing device. This practice is a core method used by our group to make our online advertising more efficient for our advertisers and more relevant to consumers.
+
+With permission from our advertisers, we also collect information about their sites, for use on their advertising campaigns. This is often called Retargeting, or Remarketing, and involves showing ads to groups of users that have, for example, visited that client’s homepage.
+
+We will also gather information, still anonymously, on the users that reach an action page on an advertiser’s site. This allows us to monitor how many sales or actions we achieve for a client, and therefore how effective our advertising is.
+
+In order to know how many advertisements we serve, how many times these are clicked, how many advertisements we show to a given user and how many customer actions these generate, we use cookies when we show advertisements on a page.
+
+As well as our licensed ad servers, ads are also often served from third-party ad servers, such as those of media agencies, which all use cookies to track the same metrics as ours do.
+
+For more information about interest based advertising and how to turn this feature off, please see our cookies notice below.  
+
+  
+
+**Ad verification technology**
+
+In order to protect our advertisers’ brands, we often use a technology that scans the page to ascertain that it is safe from profane, sensitive &. potentially brand-negative topics, before serving an ad there. This process is called Ad Verification, and these technologies use cookies to count ads served, those blocked, clicked and engaged by a user (i.e. they have hovered over them with their cursor).
+
+For a list of cookies served to specific A&N Media websites and MailOnline, please see our cookies notice below.   For more information about other cookies, please see our privacy policy and cookies FAQs.
+
+  
+
+**Safeguards and Security**  
+  
+
+No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology. In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date. For more information on the Data Protection Act 1998 and your related rights please see www.ico.gov.uk.
+
+  
+Cookies notice  
+
+You should be aware that when you use our websites, mobile sites, or mobile apps, we may collect information by using 'cookies'.
+
+  
+If you'd like to learn how to manage these cookies and 'opt in' and 'out' of different types, please see our privacy policy and cookie FAQ.
+
+  
+
+**What are cookies and how do they work?**
+
+Cookies are small bits of text that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise you and can then tailor what you see on the screen.
+
+**What do you use cookies for?**
+
+Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups:
+
+  
+
+**(i) Cookies that are needed to provide the service you have asked for**  
+
+Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies don't gather information about you that could be used for marketing or remembering where you've been on the internet.
+
+  
+Here are some examples of essential cookies:
+
+*   Keeping you logged in during your visit. without cookies you might have to log in on every page you go to.
+*   When you add something to the online shopping basket, cookies make sure it's still there when you get to the checkout.
+*   Some are session cookies which make it possible to navigate through the website smoothly. However these are automatically deleted after you close your web browser.
+
+  
+**(ii) Improving your browsing experience**
+
+These cookies allow the website to remember choices you make, such as your language or region and they provide improved features.
+
+  
+Here are a few examples of just some of the ways that cookies are used to improve your experience on our websites:
+
+*   Remembering your preferences and settings, including marketing preferences.
+*   Remembering if you've filled in a survey, so you're not asked to do it again.
+*   Remembering if you've been to the site before. If you are a first-time user, you might see different content to a regular user.
+*   Restricting the number of times you're shown a particular advertisment. This is sometimes called 'frequency capping'.
+*   Showing you information that's relevant to products of ours that you have.
+*   Enabling social media components, like Facebook or Twitter.
+*   Showing 'related article' links that are relevant to the page you're looking at.
+*   Remembering a location you've entered such as weather forecasts.
+
+  
+**(iii) Analytics**
+
+We like to keep track of what pages and links are popular and which ones don't get used so much to help us keep our sites relevant and up to date. It's also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get 'error messages' from web pages.
+
+This group of cookies, often called 'analytics cookies' are used to gather this information. These cookies don't collect information that identifies you. The information collected is anonymous and is grouped with the information from everyone else’s cookies. We can then see the overall patterns of usage rather than any one person’s activity. Analytics cookies only record activity on the site you are on and they are only used to improve how a website works.
+
+Some of our websites and some of the emails you might get from us also contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used to count the number of times the page or email has been viewed and allows us to measure the effectiveness of its marketing and emails. These web beacons are anonymous and don't contain or collect any information that identifies you.
+
+We also use 'affiliate' cookies. Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. This works using a cookie. Learn how to manage your analytics cookies.
+
+  
+**(iv) Showing advertising that is relevant to your interests**
+
+We sell space on some of our sites to advertisers. The resulting adverts often contain cookies. The advertiser uses the browsing information collected from these cookies to:
+
+1.  restrict the number of times you see the same ad (frequency capping).  
+    
+2.  and help show other ads that are relevant to you while you're on our websites. This is often called online behavioural advertising (OBA). OBA is a way of using information about your web-browsing activity, collected by using cookies, to group you with other users into interest groups and show you advertisements based on those interests. The OBA data collected from cookies you get when you're on our sites is only used to show relevant ads on our sites, not on other websites.
+
+Sometimes our websites contain ads for our own MailOnline or Daily Mail products. These ads use cookies in the same way as described above.
+
+So how does OBA work? Let's look at an example. Imagine you visit a website about travel. That website shows an advert and with that advert you receive a cookie. Imagine you then visit one of our websites which has an advert from the same advertiser you saw on the travel site. The advertiser will give you a new version of the cookie you received on the travel site. The advertiser can then use that cookie to recognise that you've previously been to a travel site and show you a relevant ad.
+
+Although the OBA data collected uses your browsing activity to understand your interests, the data is anonymous and isn’t linked to you as a person. Even if you log in to our websites, the OBA data is still not linked to you.
+
+Neither we, nor the companies who show ads on our sites sell data collected from cookies to any other organisations.  
+
+It’s easy to control interest based advertising and manage your cookies if you want to.  For more information, see our ‘controlling interest based advertising and other third party cookies’ page or visit or our privacy policy and cookie FAQs.
+
+  
+
+**Contacting us and accessing your personal information**
+
+Any queries or comments about this privacy notice or if you wish to review or receive copies of the personal information we hold about you should be sent to info@mailonline.co.uk or write to us at: 
+
+Legal Department.
+
+Associated Newspapers Limited
+
+Northcliffe House
+
+2 Derry Street
+
+London
+
+W8 5TT
+
+United Kingdom
+
+  
+We may charge a small administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information.  
+
+  
+MOST READ NEWS
+
+*   Previous
+*   1
+*   2
+*   3
+*   Next
+
+*   'I'm writing a fitness book!' Sarah Palin hits back as the...
+*   Obama 'believed he had BEATEN Romney' in Denver debate -...
+*   Ripped out, smashed up and sent in a skip to landfill: Jimmy...
+*   PICTURE EXCLUSIVE: Monica Lewinsky - single, living with her...
+*   Prince William bids sad farewell to his childhood nanny as...
+*   News crew captures high school student being bullied as they...
+*   Heartbreaking images of young Guatemalan brother and sister...
+*   Zumba instructor pleads not guilty to turning gym into...
+*   Excited bride pictured on Pinterest planning her big day...
+*   Awkward! AP publishes poorly-timed image of Romney bending...
+*   Kitty the Cat and Buttons the Jack Russell who think they...
+*   Suspect who slashed Red Bulls coach has FLED to Mexico... as...
+
+  Share this article:
+
+*   Facebook
+*   Twitter
+*   Google+
+*   Messenger
+*   LinkedIn
+*   Digg it
+*   Newsvine
+*   Fark
+*   Nowpublic
+*   Reddit
+
+*   Print article
+*   Email article
+
+Sorry we are unable to accept comments for legal reasons.
+
+Bing Site Web Enter search term: Search     Femail Today
+
+*   **'I nearly died!' Tori Spelling reveals fourth pregnancy caused internal bleeding - and was close to having termination to save her** Won't be having more
+*   **What a transformation! Khloé Kardashian goes from dowdy gym bunny to glamor puss wearing a tight strapless dress  
+    **She was accompanied by her sister Kim
+*   **Lindsay Lohan and Dina hug it out... after new claims actress made desperate call to father during 'violent fight with cocaine-addled mother'  
+    **
+*   **EXCLUSIVE: The Beckhams plot a move back to the UK by end of the year - and may be 'planning baby number five'** Sick of Los Angeles?
+*   **Suri Cruise debuts her smart school uniform as she arrives home with mother Katie Holmes** The youngster attends an elite school in New York City
+*   **Not such a lovesick puppy after all! Robert Pattinson drapes arm around mystery girl as they flirt into the early hours at nightclub** At NYC's Dream Hotel
+*   **'My mother was speechless after seeing it!' Acrobatic Pink performs the splits wearing just her underwear in dazzling new music video**
+*   **Maternity wear by Disney? Pregnant Holly Madison squeezes baby bump into Sleeping Beauty costume** Former Playboy bunny is four months pregnant
+*   **Happy Days star Erin Moran in foul-mouthed brawl with mother-in-law 'after trying to sneak back into trailer park home'** Had a furious row 
+*   **'Heartbreak Kid' Taylor Swift smoulders on Rolling Stone cover as she's forced to deny cheating claims** Gossip centered around Patrick Schwarzenegger
+*   **Prince William bids sad farewell to his childhood nanny as he attends her funeral with Diana's sisters ** He has canceled a string of engagements
+*   **Saggy breasts, thinning hair, middle-aged spread and receding gums: Things women panic about at JUST 29 YEARS OLD** Cheryl Cole is 29
+*   **Her parents WILL be proud! Malia Obama continues the First Family's love for sport as she plays tennis with high school friends** In Washington D.C.
+*   **Singin' in the Rain actress Debbie Reynolds hospitalized due to adverse reaction to medication - and is forced to cancel three months of shows**
+*   **The happiest place on earth: Heidi Klum and her bodyguard boyfriend take the children out for a day of fun at Disneyland** At Mickey Mouse's party
+*   **Honey Boo Boo gets her own 24-hour bodyguard after 'kidnap threats' spark concerns over seven-year-old's safety** Mom hired protection
+*   **Now, Christie Brinkley is accused of 'planting rumors that ex-husband's marriage is falling apart'** Peter Cook's new wife made the allegations
+*   **10 reasons why ... You should date a younger man (according to candid video blogger Emily Hartridge)** Emily Hartridge gives her reasons why
+*   **The show must go on: Derek Hough reveals bandaged shoulder backstage at Dancing with the Stars** He has suffered yet another shoulder injury
+*   **Androgynous chic! Emma Stone rocks bow tie and geek glasses together with skinnies** Looked confident without make-up and wind-swept hair
+*   **Luckiest boy in Britain! Duchess of Cambridge obliges with a hug after cheeky request from youngster during royal walkabout  
+    **She was on a solo tour
+*   **I was a rebel with Post Office savings - the beatnik who went back home to his mom** Continuing serialization of Rod Stewart's memoir 
+*   **Now that's what you call 'falling out' of a club: Rumer Willis bares her cleavage after DJ gig with boyfriend Jayson Blair\`** At a Hollywood hot-spot 
+*   **'Luckily they saw the funny side!' Tom Cruise 'got spanked on the bottom by a drag queen' during Matt Damon's birthday party at seedy London club The Box**
+*   **Baking cakes, riding horses and strictly NO politics: Ann Romney opens up about MS battle as she hosts Good Morning America** On ABC's show
+*   **'She definitely dresses for Mitt': Ann Romney's favorite designer on how she tones down her 'edgy' style for her husband** Alfred Fiandaca reveals
+*   **Jennifer Love Hewitt breaks her wrist during boxing workout - but manages to coordinate her sports bra to the baby blue cast** Making a recovery
+*   **The mad hatters: Lady Gaga's headwear overshadows Yoko's as she receives LennonOno Grant for Peace** In Reykjavik, Iceland
+*   **'We have sex like Kenyan marathon runners!' Olivia Wilde dishes on life with Jason Sudeikis ** Candid confession about relationships
+*   **Richard Gere 'ordered out of restaurant by irate husband after flirting with beautiful blonde'** The 63 year old actor star was told to stay away from the woman 
+*   **Mommy make it better? Miley Cyrus steps out with a fluoro bandage on her arm** The 19-year-old was with her mother LA, who had the same bandage
+*   **Hardly the blushing housewife! Blake Lively takes the plunge in metal-strap gown at first public appearance since whirlwind wedding ** At Chanel event in NYC
+*   **Nice make-up... shame about the sweat patch! Real Housewives alum Alexis Bellino falls foul of grooming pitfall** Spoiled her look with the unfortunate patch
+*   **With friends like these! Rosie Huntington-Whiteley and Jason Statham support Channing Tatum as he opens New Orleans bar alongside wife Jenna**
+*   **Just like old times! Matt Damon supports best friend Ben Affleck at Argo screening** Even before they were both famous, they were the best of friends
+*   **Going in for the kiss! Natalie Portman is locked in a tender embrace with co-star Michael Fassbender** Shooting Terrence Malick film in Austin, Texas
+*   **Kathy Griffin flashes her bra (and a smile) on sushi date with toyboy lover** With Randy Bick at Hollywood hot-spot Katsuya
+*   **Behind-the-scenes with a screen goddess: Candid photographs trace Elizabeth Taylor's glittering Hollywood career** From the mid Forties 
+*   **They can't stay away from each other! Pamela Anderson sparks fresh romance rumors as she steps out AGAIN with dance pro Tristan MacManus**
+*   **Step in line, lads! Duchess of Cambridge goes neat in military chic as she wears $520 Reiss coat to meet England soccer players** Seen it before too
+*   **Hulk Hogan is 'devastated' that best friend Bubba the Love Sponge plotted to leak sex tape of him with the latter's ex wife**  'Sick to his stomach'
+*   **From Big Sur to Bondi: Kate Bosworth and fiancé Michael Polish looked loved up as they head to the beach in Sydney** Traveled Down Under
+*   **Crime thriller Taken set to return with third movie... but will Liam Neeson reprise his role again?** Screenwriter Robert Mark Kamen revealed
+*   **I'll drink to that! Rihanna chugs on beer as she arrives to studio for late-night recording session** Singer had changed into more casual attire
+*   **He's a leading action man! Bruce Willis films romantic scenes with Mary-Louise Parker... for spy movie sequel Red 2** His movie comeback is well and truly in full flow
+*   **Beach Boys at war: Brian Wilson claims Mike Love 'fired' bandmates via press release so he could tour with new line-up** Tension is rising
+*   **Taking method acting too far: Kampusch actress Antonia Campbell-Hughes models VERY gaunt frame in sheer dress at London Film Festival**
+*   **Keep it in the Cruz family: Penelope Cruz and Bond villain husband Javier Bardem dine with her siblings Monica and Eduardo** Spaniards in Madrid
+*   **Dancer suffering from profuse sweating disorder holds hands with boyfriend for the first time at 22 after having an operation to sever glands**
+*   **Beyoncé pulls out of Clint Eastwood's A Star Is Born remake over scheduling issues** He's filming a remake of the 1937 romantic drama
+*   **Rose McGowan shows off the results of her gym workout as she displays curvy derrière in tight Lycra bottoms** The actress has been keeping fit
+*   **So that's who she gets her style from: Katherine Heigl and her mother Nancy step out in color coordinated looks** Some children grow up idolizing their parents 
+*   **'She's just laying low and nesting': How Adele is preparing for the birth of her first child** The singer is making the most of her last few days of freedom 
+*   **Marie Osmond came close to having electroconvulsive therapy to cure deep depression** Left devastated following the suicide of her son 
+*   **The long and short of it: LeAnn Rimes spruces up the grocery shop by showing off never-ending legs in stylish leather skirt** Feeling much better! 
+*    **Amazing true story of tortured British war hero who returned to Japan to forgive his tormentor** Colin Firth will play him in a film adaptation of The Railway Man
+*   **Community Spirit: Sarah Hyland gets down and dirty as she picks up litter during filming for Modern Family** She's suited and booted for the job
+*   **Here come the curves! Salma Hayek complements figure in strapless black dress at film premiere** Latest movie Here Comes The Boom
+
+    ADVERTORIAL FEATURES
+
+*   **Blackberry Bold** Discover a device that will suit your lifestyle.  
+    Click here >>.
+
+*   Back to top
+*   Navigation
+*   Popular
+
+*   Home
+*   U.K. Home
+*   News
+*   Sport
+*   U.S. Showbiz
+*   Femail
+*   Health
+*   Science
+*   Money
+*   RightMinds
+*   Travel
+*   Columnists
+
+*   Popular searches in home:
+*   Daily Mail Facebook
+*   Daily Mail Twitter
+*   Daily Mail Google+
+*   Daily Mail e-Paper
+*   London 2012
+*   Celebrity News
+*   US Showbiz
+*   US Home
+
+Sitemap Archive Mobile Apps RSS Text-based site Reader Prints Top of page  
+Daily Mail Mail on Sunday This is Network This is London This is Money  
+Metro Jobsite Mail Travel Find a property Zoopla Villa Holidays
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday &. Metro Media Group
+
+© Associated Newspapers Ltd Contact us Advertise with us Terms Privacy policy &. cookies
