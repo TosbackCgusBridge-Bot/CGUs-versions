@@ -1,1 +1,206 @@
-Skip to main content   AgWeb. com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange. com Farm Journal Media MyMachinery. com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement & Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN Oct 10, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin News AgWeb News Weather Markets 2012 Farm Bill News & Coverage Crops Livestock Business Machinery News Wire Farm Journal Pulse Top Producer Power Hour Boom! Rural America's Energy Explosion   Weather Pinpoint Weather & Radar Daily Ag Weather Updates Agronomic and Weather News 2012 Drought Crisis Temperature Band Observed Rainfall Heating Degree Days Crop Moisture Long-Range Temperature Outlook Severe Weather Palmer Drought   Markets AgWeb Radio Market Analysis Audio Market Commentary AgWeb Market Weekly Markets Center (Quotes) Cash Grain Bids USDA Reports Market Tweets Ready for the Ride: Managing Risk Pro Farmer Market Analysis   Crops Crop Comments Harvest News and Updates Online Field Guide 2012 Pest Watch Corn Soybeans Cotton Wheat Hay and Forage Ask an Agronomist Corn College 2012 Pro Farmer Midwest Crop Tour Seed   Livestock Dairy Elite Producer Business Conference Virtual World Dairy Expo Beef Cattle-Exchange Hogs Poultry Hay & Forage   Business AgWeb Profit Center Taxes Insurance Land Legacy Project The Farm CPA blog Ultimate Farm Quest Margin Calculators AgWeb App Store Ask A Margins Expert Technology on the Move   Fun Discussions Blogs Rubes Cartoons Farm Kids What a Day! Farm Journal Pulse Agriculture Facts A Day in Agriculture Community Photo Galleries   Video AgWeb TV AgDay Television AgDay: Future of Farming U. S. Farm Report Corn College TV Leave a Legacy TV AgDay: I-80 Harvest Tour   Audio AgWeb Radio Straight from the Heartland Consumer Ag Connection Radio Audio Market Commentary   Machinery News Shop Tips & Tricks Machinery Guide MyMachinery Irrigation Welding Precision Agriculture Implement & Tractor National Farm Machinery Show Machinery Classifieds   news Click the check boxes to select news by topic, brand or type. Agronomy Beef Corn Cotton Crops Dairy Farm Business GIPSA Hay/Forage Inputs Irrigation Livestock Machinery Marketing Newswire Risk Management Soybeans Sunflowers Technology Weather Wheat Beef Today Cattle-Exchange. com Dairy Today Farm Journal Legacy Project Pro Farmer Top Producer Blog Multimedia News Agriculture News Read the latest agriculture news for crops, livestock, marketing and more. YEAR: All201220112010MONTH: AllJanFebMarAprMayJunJulAugSeptOctNovDec DAY: All 1 2 3 4 5 Next 255075100 10/10/2012 AgWeb Radio: Midday Commentary 10-10-12 Read Full Story 10/10/2012 Will Tomorrow's Report Bring a "LIMIT" Move in the Grains? Read Full Story 10/10/2012 AgWeb Radio: Opening Commentary 10-10-12 Read Full Story 10/10/2012 October Crop Comments Read Full Story 10/10/2012 Straight from the Heartland: Focus on Profits as Harvest Wraps Up Read Full Story 10/10/2012 Give Short Soybeans Extra Attention at Harvest Read Full Story 10/10/2012 Soybean Stocks Likely to Rise on Report Read Full Story 10/10/2012 Control Volunteer Corn before Seeding Small Grains Read Full Story 10/10/2012 Rumely OilPull L 15-25 and Rumely OilPull E 30-60 Read Full Story 10/09/2012 Grain Rallies Have a Hard Time Holding Water Read Full Story 10/09/2012 Crop Progress: U. S. Corn Harvest 69% Complete Read Full Story 10/09/2012 AgWeb Radio: Weekly National Posted Prices for Peanuts 10-9-10 Read Full Story 10/09/2012 World Dairy Expo 2012 Show Summary Read Full Story 10/09/2012 How Will the New Report Release Time Affect Trade? Read Full Story 10/09/2012 AgWeb Radio: Closing Commentary 10-9-12 Read Full Story 10/09/2012 Power Hour: Prices Searching for Support Read Full Story 10/09/2012 CWT Assists with 1. 1 Million Pounds of Dairy Export Sales Read Full Story 10/09/2012 Grains Move Higher -- What To Expect Out Of FSU And South America on Thursday Read Full Story 10/09/2012 Experience Matters Read Full Story 10/09/2012 Supply and Demand Balancing Act Read Full Story 10/09/2012 AgWeb Radio: Midday Commentary 10-9-12 Read Full Story 10/09/2012 Straight From the Heartland:Adventures of a Lifetime Part 4 10-9 Read Full Story 10/09/2012 Last Words on Last Week's Debate Read Full Story 10/09/2012 Dairy Today Report: Dairy Policy Debate Read Full Story 10/09/2012 Will Farmers Have More "Repairs" This Year? Read Full Story 1 2 3 4 5 Next RSS AgWeb News Wire Stanford Study Unlikely to Slow Momentum of Marin's Organic Food Movement Wisconsin Classified as Abnormally Dry | Rain not enough to restore moisture Op Ed by Sen. Mike Johanns: Drought Struggles Continue Some Dairies Feel Drought's Effect Most Sharply Federal Spending on Popcorn Promotion Comes Under Fire MARKETS CROPSLIVESTOCKFINANCEENERGYMETALS Market Data provided by Barchart. com Enter Zip Code below to view live local results: Cash Bids: LDP Quotes: Meet/follow our Twitter partners here.       AgWeb. com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange. com Farm Journal Media MyMachinery. com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement & Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN The Homepage of Agriculture About Farm Journal Media|About Our Magazines|Contact Us|Advertise|Lite Version|RSS|Twitter|Facebook|YouTube © 2012 Farm Journal, Inc. All Rights Reserved|Web site design and development by AmericanEagle. com|Site Map|Privacy Policy|Terms & Conditions
+Skip to main content
+
+  AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
+Oct 10, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+
+*   News
+    
+    *   AgWeb News
+    *   Weather
+    *   Markets
+    *   2012 Farm Bill News &. Coverage
+    *   Crops
+    
+    *   Livestock
+    *   Business
+    *   Machinery
+    *   News Wire
+    *   Farm Journal Pulse
+    
+    *   Top Producer Power Hour
+    *   Boom! Rural America's Energy Explosion 
+*   Weather
+    
+    *   Pinpoint Weather &. Radar
+    *   Daily Ag Weather Updates
+    *   Agronomic and Weather News
+    *   2012 Drought Crisis
+    *   Temperature Band
+    
+    *   Observed Rainfall
+    *   Heating Degree Days
+    *   Crop Moisture
+    *   Long-Range Temperature Outlook
+    *   Severe Weather
+    
+    *   Palmer Drought 
+*   Markets
+    
+    *   AgWeb Radio
+    *   Market Analysis
+    *   Audio Market Commentary
+    *   AgWeb Market Weekly
+    *   Markets Center (Quotes)
+    
+    *   Cash Grain Bids
+    *   USDA Reports
+    *   Market Tweets
+    *   Ready for the Ride: Managing Risk
+    *   Pro Farmer Market Analysis
+    
+     
+*   Crops
+    
+    *   Crop Comments
+    *   Harvest News and Updates
+    *   Online Field Guide
+    *   2012 Pest Watch
+    *   Corn
+    
+    *   Soybeans
+    *   Cotton
+    *   Wheat
+    *   Hay and Forage
+    *   Ask an Agronomist
+    
+    *   Corn College
+    *   2012 Pro Farmer Midwest Crop Tour
+    *   Seed 
+*   Livestock
+    
+    *   Dairy
+    *   Elite Producer Business Conference
+    *   Virtual World Dairy Expo
+    *   Beef
+    *   Cattle-Exchange
+    
+    *   Hogs
+    *   Poultry
+    *   Hay &. Forage 
+*   Business
+    
+    *   AgWeb Profit Center
+    *   Taxes
+    *   Insurance
+    *   Land
+    *   Legacy Project
+    
+    *   The Farm CPA blog
+    *   Ultimate Farm Quest
+    *   Margin Calculators
+    *   AgWeb App Store
+    *   Ask A Margins Expert
+    
+    *   Technology on the Move 
+*   Fun
+    
+    *   Discussions
+    *   Blogs
+    *   Rubes Cartoons
+    *   Farm Kids
+    *   What a Day!
+    
+    *   Farm Journal Pulse
+    *   Agriculture Facts
+    *   A Day in Agriculture
+    *   Community
+    *   Photo Galleries
+    
+      
+     
+*   Video
+    
+    *   AgWeb TV
+    *   AgDay Television
+    *   AgDay: Future of Farming
+    *   U.S. Farm Report
+    *   Corn College TV
+    
+    *   Leave a Legacy TV
+    *   AgDay: I-80 Harvest Tour 
+*   Audio
+    *   AgWeb Radio
+    *   Straight from the Heartland
+    *   Consumer Ag Connection Radio
+    *   Audio Market Commentary 
+*   Machinery
+    
+    *   News
+    *   Shop Tips &. Tricks
+    *   Machinery Guide
+    *   MyMachinery
+    *   Irrigation
+    
+    *   Welding
+    *   Precision Agriculture
+    *   Implement &. Tractor
+    *   National Farm Machinery Show
+    *   Machinery Classifieds
+    
+     
+
+news Click the check boxes to select news by topic, brand or type. Agronomy  
+Beef  
+Corn  
+Cotton  
+Crops  
+Dairy  
+Farm Business  
+GIPSA  
+Hay/Forage  
+Inputs  
+Irrigation  
+Livestock  
+Machinery  
+Marketing  
+Newswire  
+Risk Management  
+Soybeans  
+Sunflowers  
+Technology  
+Weather  
+Wheat Beef Today  
+Cattle-Exchange.com  
+Dairy Today  
+Farm Journal  
+Legacy Project  
+Pro Farmer  
+Top Producer Blog  
+Multimedia  
+News Agriculture News Read the latest agriculture news for crops, livestock, marketing and more. YEAR: All201220112010MONTH: AllJanFebMarAprMayJunJulAugSeptOctNovDec DAY: All 1 2 3 4 5 Next 255075100 10/10/2012  
+Perfect Harvest Weather Prevails Read Full Story 10/10/2012  
+How Is the Livestock Market Shaping Up? Read Full Story 10/10/2012  
+AgWeb Radio: Closing Commentary 10-10-12 Read Full Story 10/10/2012  
+Power Hour: Pre-Report Analysis of Oct. 10 Reports Read Full Story 10/10/2012  
+It All Adds Up to More Fendt Tractors Read Full Story 10/10/2012  
+AgWeb Radio: Midday Commentary 10-10-12 Read Full Story 10/10/2012  
+AgWeb Radio: Opening Commentary 10-10-12 Read Full Story 10/10/2012  
+Straight from the Heartland: Focus on Profits as Harvest Wraps Up Read Full Story 10/10/2012  
+Give Short Soybeans Extra Attention at Harvest Read Full Story 10/10/2012  
+Control Volunteer Corn before Seeding Small Grains Read Full Story 10/09/2012  
+AgWeb Radio: Weekly National Posted Prices for Peanuts 10-9-10 Read Full Story 10/09/2012  
+World Dairy Expo 2012 Show Summary Read Full Story 10/09/2012  
+How Will the New Report Release Time Affect Trade? Read Full Story 10/09/2012  
+AgWeb Radio: Closing Commentary 10-9-12 Read Full Story 10/09/2012  
+Power Hour: Prices Searching for Support Read Full Story 10/09/2012  
+CWT Assists with 1.1 Million Pounds of Dairy Export Sales Read Full Story 10/09/2012  
+Supply and Demand Balancing Act Read Full Story 10/09/2012  
+AgWeb Radio: Midday Commentary 10-9-12 Read Full Story 10/09/2012  
+Straight From the Heartland:Adventures of a Lifetime Part 4 10-9 Read Full Story 10/09/2012  
+Dairy Today Report: Dairy Policy Debate Read Full Story 10/09/2012  
+AgWeb Radio: Opening Commentary 10-9-12 Read Full Story 10/09/2012  
+Consumer Ag Connection: Bonding Together because of Agriculture, Part 4 Read Full Story 10/09/2012  
+Focus Turns toward Demand Read Full Story 10/09/2012  
+How to Manage Nitrogen This Fall Read Full Story 10/08/2012  
+Dannon Holds Kansas Dairy to a Higher Standard Read Full Story
+
+1 2 3 4 5 Next RSS AgWeb News Wire
+
+*   Stanford Study Unlikely to Slow Momentum of Marin's Organic Food Movement
+*   Wisconsin Classified as Abnormally Dry | Rain not enough to restore moisture
+*   Op Ed by Sen. Mike Johanns: Drought Struggles Continue
+*   Some Dairies Feel Drought's Effect Most Sharply
+*   Federal Spending on Popcorn Promotion Comes Under Fire
+
+  
+MARKETS CROPSLIVESTOCKFINANCEENERGYMETALS Market Data provided by Barchart.com Enter Zip Code below to view live local results: Cash Bids: LDP Quotes: Meet/follow our Twitter partners here.       AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN The Homepage of Agriculture About Farm Journal Media|About Our Magazines|Contact Us|Advertise|Lite Version|RSS|Twitter|Facebook|YouTube © 2012 Farm Journal, Inc. All Rights Reserved|Web site design and development by AmericanEagle.com|Site Map|Privacy Policy|Terms &. Conditions
