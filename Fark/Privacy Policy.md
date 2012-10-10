@@ -1,1 +1,203 @@
-It's Not News It's Fark. com Real news. Real funny Fark TotalFark myFark About/FArQ Contests Store Contact Us Mobile Search: Password Login Turn on javascript (or enable it for Fark) for a better user experience. If you can read this, either the style sheet didn't load or you have an older browser that doesn't support style sheets. Try clearing your browser cache and refreshing the page. Main Sports Business Geek Entertainment Politics Video Fark Frequently Asked Questions (FAQ): Legal Stuff Back to top of FAQ Legal Stuff Fark's Legal and Privacy Statement Legal Stuff Fark's Legal and Privacy Statement Terms Of Service Text comments and Photoshopped images posted on Fark by registered users may not be reposted or broadcast without the express written permission or license from Fark. com, and must attribute Fark. com as the source. By using Fark, You agree that you will not use any robot, harvesting bots, spider, scraper, or other automated means to access the site for any purpose without our express written permission. You further agree that You will not take any action that imposes or may impose (in our sole discretion) an unreasonable or disproportionately large load on our infrastructure or interfere or attempt to interfere with the proper working of the site or any activities conducted on the site. Copyright Notice The content on Fark. com, except all Submissions (defined below) is owned by or licensed to Fark. com, subject to copyright and other intellectual property rights under the United States and international intellectual property laws and conventions. Content on Fark. com is provided for personal use only and may not be used, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, or otherwise exploited for any purpose without the prior written consent of the respective owners. You agree to not engage in the use, copying, or distribution of any of the content other than expressly permitted herein, including any use, copying, or distribution of Submissions of third parties obtained through the Fark. com website for any commercial purposes. Fark. com permits the submission of text, photographs, opinions, comments and/or other forms of communication submitted by you and other users ("Submissions") and the hosting, sharing and publication of such Submissions. You agree that you are solely responsible for your own Submissions and affirm, represent, and/or warrant that you own or have the necessary licenses, rights, consents, and permissions to use and authorize Fark. com to use all patent trademark, trade secret, copyright or other proprietary rights in and to any and all Submissions to enable inclusion and use of the Submissions in the manner contemplated by Fark. com. You retain all ownership rights in your Submissions. However, by submitting the Submissions to Fark. com, you hereby grant Fark. com a non-exclusive, royalty-free, sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the Submissions in connection with Fark. com and Fark. com's business, including without limitation for promoting and redistributing part or all of Fark. com (and derivative works thereof) in any media formats and through any media channels/outlets. Fark. com does not permit or allow copyright infringing activities and/or infringement of intellectual property rights on Fark. com's website, and Fark. com will remove any and all content and Submissions if properly notified that such content and/or Submission infringes on another's intellectual property rights. Copyrights and Copyright Agents. We respect the intellectual property of others, and we ask you to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide our Copyright Agent with the following information (see 17 U. S. C. 512 (c)(3) for further detail): An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; Description of the copyrighted work that you claim has been infringed; A description of where the material that you claim is infringing is located on Fark. com; Your address, telephone number, and email address; A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and A statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf. Our Copyright Agent for notice of claims of copyright infringement on Fark. com is Drew Curtis, who can be reached through farkback at: http://www. fark. com/feedback/legal Fark, TotalFark, Foobies, Fark This, and the Fark, TotalFark, and Foobies logos, are registered trademarks of Fark, Inc. Farked is a trademark of Fark, Inc. Fark's Privacy Policy Short Version We will not give your addresses to third parties. We hate spammers. Bunch of jackasses is what they are. Longer Official Version Fark is committed to user privacy in our products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy. Fark encourages you to read this privacy policy and those of all web sites you visit. Below is a summary of Fark's online privacy policy. Types and uses of personal information Your personal information is used in the following ways: User IDs and Passwords. Provides you with access to your profile areas and to protected content. Account Information. These tell us more about who you are, how to contact you, and your shipping and billing information. Customer Feedback and Support. Provides a mechanism for requesting information from Fark. Also used to tell us how we can improve our products, services and site designs. Email Correspondence. Used to raise and respond to issues and inquiries of all types. Also used to distribute information about Fark, our products, and services. Transactions. Shows which products and services you have requested. We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information unless you consent to the new usage. Security measures We protect the personal information you share with us. Authorized third party agents may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties unless you have granted us permission to do so. Data Retention Fark will not retain your personal information longer than is necessary for the purposes for which it was collected. Linked web sites We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites. Children's privacy We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Fark encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer: Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc Know the sites your kids are visiting and which sites are appropriate. Look for Web site privacy policies. Know how your child's information is treated. Check out the FTC's site(1) for more tips on protecting children's privacy online. We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. Third Party Advertising We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. For more information on online behavioral advertising, privacy, cookies, and how this all works, please see the Network Advertising Initiative page on this topic. Third Party Cookies In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. You can opt-out of Google Adsense advertising cookies by going to http://www. google. com/ads/preferences. You can opt-out of other third-party advertising cookies by using the Network Advertising Initiative opt-out tool at http://www. networkadvertising. org/managing/opt\_out. asp. Policy updates All updates to this policy will be posted here. Note: This policy also covers the personal information you provide to Fark Customer Support. Submit a Link »   Like Fark! +1 Fark! Follow @fark on Twitter Fark via RSS Top Links Top Comments Top Submitters Press/Publicity Headlines of the Week All Latest Fark Forum Link Voting Sports Forum Fark Blogs Geek Forum Fark Book Entertainment Forum Fark Travel Guide Politics Forum Fark Parties Fark Party Forum Fark Chat Photoshop Forum PS/Photo Browser Farktography Forum Fark Quiz From the Fark Shop: EVERYBODY PANIC! Yoda 9" Talking Plush Star Ball Ray Gun - Acme Pen More from the Fark Shop »  Stories from our partner sites: Hate the Porn Boom? Blame 'Twilight'. . . Guy Banned From All-You-Can Eat Buffe. . . Stewart & O'Reilly Rumble. . . And It's. . . QVC Host Faints On Air But Who Cares?. . . More news at Scribol » Pre-Labor Day Pregnant Bikini Contest The State Fair Food That Will Cause Y. . . The 20 Worst Hipster Bands: The Compl. . . Internet Cat Video Film Festival Exists More news at Village Voice » 5 Reasons The Guy Fixing Your Compute. . . 4 WTF Stories from the Legend of King. . . 16 Famous Video Games Revised to be P. . . What to Expect When Expecting (in the. . . More news at Cracked » Star Citizen Announcement Trailer And. . . Far Cry 3: Sneaking Around The Deadly. . . New BioShock Infinite Trailer Coming. . . Half-Life 2 Fan Film: "Enter The Free. . . More news at G4TV » Also on Fark Main You know a mugshot is going to be good when they have to force your head up in order to get the shot ( abclocal. go. com ) » (19 comments) Sports It looks like Josh Hamilton picked the wrong week to quit chewing tobacco ( espn. go. com ) » (2 comments) Business Rich 'Dad,' bankrupt Dad ( nypost. com ) » (27 comments) Geek Duke's chemistry department does NOT suck according to some committee in Stockholm, Sweden. Duke basketball still sucks big time according to some beer-drinker in Lexington, Kentucky which is obviously more important ( abclocal. go. com ) » (8 comments) Entertainment "Never mind that shiat - here comes Mongo" - God ( news. blogs. cnn. com ) » (28 comments) Politics Bad Lip Reading takes on last week's debate and it's not at all funny. Just kidding, it's hilarious ( uproxx. com ) » (11 comments) Video What would happen if the President was bitten by a werewolf? ( youtube. com ) » (7 comments) Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit FArQ :: About Us | Quick Answers | FarkIt | Posting Rules | Farkisms Contests :: Photoshop | Farktography | VideoEdit | Caption Buy Fark :: Headline Shirts | Fark Book | Fark Store Submit a Link » Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 10 2012 14:00:40 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
+It's Not News It's Fark.com Real news. Real funny
+
+*   Fark
+*   TotalFark
+*   _my_Fark
+*   About/FArQ
+*   Contests
+*   Store
+*   Contact Us
+*   Mobile
+
+Search: Password Login Turn on javascript (or enable it for Fark) for a better user experience. **If you can read this, either the style sheet didn't load or you have an older browser that doesn't support style sheets. Try clearing your browser cache and refreshing the page.**
+
+*   Main
+*   Sports
+*   Business
+*   Geek
+*   Entertainment
+*   Politics
+*   Video
+
+> Fark Frequently Asked Questions (FAQ): Legal Stuff Back to top of FAQ  
+> 
+> *   Legal Stuff
+>     *   Fark's Legal and Privacy Statement
+> 
+> Legal Stuff Fark's Legal and Privacy Statement Terms Of Service
+> 
+> Text comments and Photoshopped images posted on Fark by registered users may not be reposted or broadcast without the express written permission or license from Fark.com, and must attribute Fark.com as the source.
+> 
+> By using Fark, You agree that you will not use any robot, harvesting bots, spider, scraper, or other automated means to access the site for any purpose without our express written permission. You further agree that You will not take any action that imposes or may impose (in our sole discretion) an unreasonable or disproportionately large load on our infrastructure or interfere or attempt to interfere with the proper working of the site or any activities conducted on the site.
+> 
+> Copyright Notice
+> 
+> The content on Fark.com, except all Submissions (defined below) is owned by or licensed to Fark.com, subject to copyright and other intellectual property rights under the United States and international intellectual property laws and conventions. Content on Fark.com is provided for personal use only and may not be used, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, or otherwise exploited for any purpose without the prior written consent of the respective owners. You agree to not engage in the use, copying, or distribution of any of the content other than expressly permitted herein, including any use, copying, or distribution of Submissions of third parties obtained through the Fark.com website for any commercial purposes. Fark.com permits the submission of text, photographs, opinions, comments and/or other forms of communication submitted by you and other users ("Submissions") and the hosting, sharing and publication of such Submissions. You agree that you are solely responsible for your own Submissions and affirm, represent, and/or warrant that you own or have the necessary licenses, rights, consents, and permissions to use and authorize Fark.com to use all patent trademark, trade secret, copyright or other proprietary rights in and to any and all Submissions to enable inclusion and use of the Submissions in the manner contemplated by Fark.com. You retain all ownership rights in your Submissions. However, by submitting the Submissions to Fark.com, you hereby grant Fark.com a non-exclusive, royalty-free, sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the Submissions in connection with Fark.com and Fark.com's business, including without limitation for promoting and redistributing part or all of Fark.com (and derivative works thereof) in any media formats and through any media channels/outlets. Fark.com does not permit or allow copyright infringing activities and/or infringement of intellectual property rights on Fark.com's website, and Fark.com will remove any and all content and Submissions if properly notified that such content and/or Submission infringes on another's intellectual property rights.
+> 
+> Copyrights and Copyright Agents. We respect the intellectual property of others, and we ask you to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide our Copyright Agent with the following information (see 17 U.S.C. 512 (c)(3) for further detail):
+> 
+> *   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest.
+> *   Description of the copyrighted work that you claim has been infringed.
+> *   A description of where the material that you claim is infringing is located on Fark.com.
+> *   Your address, telephone number, and email address.
+> *   A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law. and
+> *   A statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
+> 
+> Our Copyright Agent for notice of claims of copyright infringement on Fark.com is Drew Curtis, who can be reached through farkback at: http://www.fark.com/feedback/legal
+> 
+> Fark, TotalFark, Foobies, Fark This, and the Fark, TotalFark, and Foobies logos, are registered trademarks of Fark, Inc. Farked is a trademark of Fark, Inc.
+> 
+> Fark's Privacy Policy
+> 
+> **Short Version**
+> 
+> We will not give your addresses to third parties. We hate spammers. Bunch of jackasses is what they are.
+> 
+> **Longer Official Version**
+> 
+> Fark is committed to user privacy in our products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy.
+> 
+> Fark encourages you to read this privacy policy and those of all web sites you visit. Below is a summary of Fark's online privacy policy.
+> 
+> **Types and uses of personal information**
+> 
+> Your personal information is used in the following ways:
+> 
+> *   User IDs and Passwords. Provides you with access to your profile areas and to protected content.
+> *   Account Information. These tell us more about who you are, how to contact you, and your shipping and billing information.
+> *   Customer Feedback and Support. Provides a mechanism for requesting information from Fark. Also used to tell us how we can improve our products, services and site designs.
+> *   Email Correspondence. Used to raise and respond to issues and inquiries of all types. Also used to distribute information about Fark, our products, and services.
+> *   Transactions. Shows which products and services you have requested.
+> 
+> We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information unless you consent to the new usage.
+> 
+> **Security measures**
+> 
+> We protect the personal information you share with us.
+> 
+> Authorized third party agents may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties unless you have granted us permission to do so.
+> 
+> **Data Retention**
+> 
+> Fark will not retain your personal information longer than is necessary for the purposes for which it was collected.
+> 
+> **Linked web sites**
+> 
+> We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites.
+> 
+> **Children's privacy**
+> 
+> We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems.
+> 
+> Fark encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
+> 
+> *   Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc
+> *   Know the sites your kids are visiting and which sites are appropriate.
+> *   Look for Web site privacy policies. Know how your child's information is treated.
+> 
+> Check out the FTC's site(1) for more tips on protecting children's privacy online.
+> 
+> We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact.
+> 
+> **Third Party Advertising**
+> 
+> We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. For more information on online behavioral advertising, privacy, cookies, and how this all works, please see the Network Advertising Initiative page on this topic.
+> 
+> **Third Party Cookies**
+> 
+> In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
+> 
+> You can opt-out of Google Adsense advertising cookies by going to http://www.google.com/ads/preferences.
+> 
+> You can opt-out of other third-party advertising cookies by using the Network Advertising Initiative opt-out tool at http://www.networkadvertising.org/managing/opt\_out.asp.
+> 
+> **Policy updates**
+> 
+> All updates to this policy will be posted here.
+> 
+> Note: This policy also covers the personal information you provide to Fark Customer Support.
+
+Submit a Link »   Like Fark! +1 Fark! Follow @fark on Twitter Fark via RSS  
+
+*   Top Links
+*   Top Comments
+*   Top Submitters
+*   Press/Publicity
+
+Headlines of the Week
+
+*   All Latest
+*   Fark Forum
+*   Link Voting
+*   Sports Forum
+*   Fark Blogs
+*   Geek Forum
+*   Fark Book
+*   Entertainment Forum
+*   Fark Travel Guide
+*   Politics Forum
+*   Fark Parties
+*   Fark Party Forum
+*   Fark Chat
+*   Photoshop Forum
+*   PS/Photo Browser
+*   Farktography Forum
+*   Fark Quiz
+
+**From the Fark Shop:**
+
+*     
+    Come At Me Brew 2
+*     
+    Doctor Who - The Flesh Goo Pod
+*     
+    Drinking Sticky Notes
+*     
+    Holiday Hound - Dog Tie
+
+**More from the Fark Shop »**   
+Stories from our partner sites:  
+  
+  
+Hate the Porn Boom? Blame 'Twilight'...  
+Guy Banned From All-You-Can Eat Buffe...  
+Stewart &. O'Reilly Rumble... And It's...  
+Man Dies After Bug-Eating Eating Cont...  
+More news at Scribol »  
+  
+  
+David Fincher And Tim Miller Working...  
+Pinel &. Pinel Arcade PS Trunk: The Ul...  
+IndieCade 2012: Dyad, Splice, Gorogoa...  
+Green Arrow, The Joker, And Green Lan...  
+More news at G4TV »  
+  
+  
+Strangers to Reason: LIFE Inside a Ps...  
+Gunning for White-Winged Doves, 1961  
+Lowbrow Highlights: In Praise of Clas...  
+Growing Up Romney: Mitt's Early World  
+More news at Life »  
+  
+  
+Pre-Labor Day Pregnant Bikini Contest  
+The State Fair Food That Will Cause Y...  
+The 20 Worst Hipster Bands: The Compl...  
+Internet Cat Video Film Festival Exists  
+More news at Village Voice »  
+  
+
+Also on Fark
+
+Main Padma Lakshmi allows a fan to eat a piece of ham off her body for a $1000 charitable dona...This just in, several financial institutions have just closed due to an unexpected and massive bank run ( huffingtonpost.com ) » (40 comments) Sports "The evidence shows beyond any doubt that the US Postal Service ... ran the most sophisticated, professionalized and successful ... program ... ever seen." If only they were talking about the mail ( usatoday.com ) » (20 comments) Business Rich 'Dad,' bankrupt Dad ( nypost.com ) » (58 comments) Geek ResISStance is futile ( blogs.discovermagazine.com ) » (14 comments) Entertainment Padma Lakshmi allows a fan to eat a piece of ham off her body for a $1000 charitable dona...This just in, several financial institutions have just closed due to an unexpected and massive bank run ( huffingtonpost.com ) » (40 comments) Politics Big Bird is really pissed off at Mitt Romney. "I've been teaching kids to read for 43 years, what the f@$k did you ever do besides buy a f@$king sporting goods store.." (Not safe for work) ( uproxx.com ) » (27 comments) Video Fat pig jumps put of moving car ( liveleak.com ) » (19 comments)
+
+*   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video
+*   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
+*   FArQ :: About Us | Quick Answers | FarkIt | Posting Rules | Farkisms
+*   Contests :: Photoshop | Farktography | VideoEdit | Caption
+*   Buy Fark :: Headline Shirts | Fark Book | Fark Store
+
+Submit a Link »
+
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 10 2012 17:00:46  
+Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
