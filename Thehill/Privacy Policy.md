@@ -1,1 +1,334 @@
-Follow @thehill Advanced Search Options » Home/News Senate House Administration Campaign Polls Business & Lobbying Sunday Talk Shows Campaign 2012 Business & Lobbying K Street Insiders Lobbying Contracts Lobbying Hires Lobbying Revenue Opinion Columnists Editorials Letters Op-Ed Weyants World Capital Living Cover Stories Food & Drink New Member of the Week 20 Questions My 5 Min. W/Obama Announcements Meet the Lawmaker Jobs Video Gossip: In The Know Briefing Room Hillicon Valley E2-Wire Ballot Box On The Money Healthwatch Floor Action Transportation DEFCON Hill Global Affairs Congress GOP12 In The Know Pundits Twitter Room Home Senate House Administration Campaign Polls Business & Lobbying Sunday Talk Shows Blogs Briefing Room Hillicon Valley E2-Wire Ballot Box On The Money Healthwatch Floor Action Transportation DEFCON Hill Global Affairs Congress GOP12 In The Know Pundits Twitter Room Opinion A. B. Stoddard Brent Budowsky Lanny Davis David Hill Cheri Jacobus Mark Mellman Dick Morris Markos Moulitsas (Kos) Robin Bronk Editorials Letters Op-Eds Juan Williams Judd Gregg Christian Heinze Karen Finney John Feehery Capital Living Cover Stories Food & Drink Announcements New Member of the Week My 5 Min. W/Obama All Capital Living Video HillTube Events Video Classifieds Jobs Classifieds Resources Mobile Site iPhone Android iPad Lawmaker Ratings White Papers Order Reprints Last 6 Issues Outside Links RSS Feeds Contact Us Advertise Reach Us Submitting Letters Submitting Op-eds Subscriptions   Privacy Policy A THE HILL’S PRIVACY POLICY This Privacy Policy is applicable to The Hill’s Web site, thehill. com (the "Site"), and all Hill web sites. This Privacy Policy explains how we collect information from you and other users of the Site and how we use such information. The Information We Collect and Use Non-personally identifiable information We may collect and use non-personally identifiable information and data from you when you are visiting the Site through the standard operation of our Internet servers. Non-personally identifiable information collected from you may include user Internet Protocol (IP) addresses, browser types, domain names, and anonymous statistical data regarding your use of the Site. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify particular visitors to the Site. The Site also collects information through the use of "cookies. " Cookies are small text files that a website can use to recognize repeat users, facilitate the user's ongoing access to and use of a website, allow the site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies work by assigning a unique number to the user that has no meaning outside the assigning site. If you do not want information collected from you through our use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you with certain features available on the Site. Personally Identifiable Information We collect personally identifiable information about you when you specifically and knowingly provide such information voluntarily on the Site, including, but not limited to, during the following interactions: (1) when you register on the Site and when you later log-on with your user name and password; (2) when you sign-up to subscribe to a service, a newsletter, or ask to be added to our mailing lists for other products or services; (3) when you place an order for products or services; (4) when you participate in a promotional offer; (5) when you provide feedback in an online survey; (6) when you submit other content and suggestions. In each of the instances above, we typically ask for some or all of the following information: your full name, e-mail address, phone number, physical mailing address, the type of business you are in, product preference information, any applicable identification number or password that we may require, as well as other similar information that is needed to register or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain other information, materials and services. The personally identifiable information you provide to us when using the Site may be used to provide products and services to you, to enhance your experience at the Site, and, if applicable, to enhance your experience as a subscriber to The Hill's products and services. We may from time to time use your personally identifiable information to notify you of special offers and products and services from The Hill and/or from third parties that we think may be of interest to you. It is possible that we may rent, sell or otherwise transfer to third parties personally identifiable information about you. At any time, you can contact The Hill to request that we not share your personally identifiable information with third parties, as set forth in greater detail below. We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide specific services and products related to The Hill and the Site, such as providing credit card processing and fraud screening, order fulfillment and shipment, mailing of The Hill publications and other materials, hosting and maintaining the Site, and developing applications for the Site. These Outside Contractors may sometimes have limited access to information collected from you, including your personally identifiable information, in the course of providing products or services to us. Access to your personally identifiable information by these contractors is limited to the information reasonably necessary in order for these Outside Contractors to perform their limited function for us. We also require that these contractors (i) protect the privacy of your personally identifiable information consistent with this Privacy Policy, and (ii) not use or disclose your personally identifiable information for any purpose other than providing us with products or services for which we contracted. The Hill may merge your information collected on the Site with similar data obtained from third parties. We may use this enhanced personally identifiable information to notify you of special offers, updated information and new products and services from The Hill. Other unique circumstances may arise where we are required to disclose your personal information to third parties, such as in connection with a corporate transaction where all or a portion of our business or assets (including our associated customer lists containing your personal information) are sold or transferred, or if disclosure is required by law or pursuant to judicial or governmental investigations or proceedings. You should be aware that if you voluntarily disclose personally identifiable information in an e-mail or other communications with third parties listed on the Sites or in other materials, that information, along with any other information disclosed in your communication, can be collected and correlated and used by such third parties and may result in your receiving unsolicited messages from other persons. Such collection, correlation, use and messages are beyond our control. Our Commitment to Data Security The Hill takes every effort to protect against unauthorized access to your personal information, and has put in place commercially reasonable physical, electronic, and managerial procedures to safeguard and secure the information we collect on the Site. Notwithstanding the above commitment to protect your information from loss, misuse or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet. Additionally, there also is some risk our security systems could be circumvented or breached. As a result, while we strive to protect your information, we cannot ensure or warrant the security and privacy of any information you transmit to us, and you do so at your own risk. Opt-out You may at any time opt-out of receiving promotional communications from The Hill or third parties at any time by contacting our Information Privacy Manager at the address below. Please note that if you decide to opt-out of receiving promotional information or other communications after you have previously opted-in, your change in preference will only affect future contacts; if the information already has been provided to third parties, they may continue to use it. Even if you do not opt-in to receive promotional information or you have opted-in and then later choose to opt-out, we reserve the right to contact you as necessary in our sole discretion regarding The Hill, any request you have made for services or products from The Hill, changes to this Privacy Policy and any other matters that may be relevant to the information we collect. Correcting Information You are responsible for providing accurate information when making purchases, registering with any portions of the Site that require registration, or performing other functions that might require you to submit personally identifiable information to the Site. If you wish to correct any personally identifiable information you have provided to us in this manner, you may do so by contacting our Information Privacy Manager at the address below. How To Contact Us If you would like to contact The Hill for any reason regarding our privacy practices, please write or e-mail us at the following address: Mailing Address: The Hill Information Privacy Manager 1625 K St. NW Suite 900 Washington, DC 20006 e-mail: This e-mail address is being protected from spambots. You need JavaScript enabled to view it Changes To The Privacy Policy This Privacy Policy is effective as of March 21, 2005. We reserve the right to change this Privacy Policy at any time by notifying users. We may notify you by posting a notice on the Site or by contacting you through electronic mail or other means. Your continued use of the Site following the posting of changes to this Privacy Policy means you accept those changes. What If You Do Not Agree To The Terms Of This Privacy Policy? As a subscriber to the Site, or otherwise by using the Site, you signify that you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not make any use of the Site. Source: http://thehill. com/privacy-policy The contents of this site are © 2012 Capitol Hill Publishing Corp. , a subsidiary of News Communications, Inc. The Hill Archives: Senate | House | Administration | Campaign | Business & Lobbying | Capital Living | Opinion View News by Subject: Defense & Homeland Security | Energy & Environment | Healthcare | Finance & Economy | Technology | Foreign Policy | Labor | Transportation & Infrastructure GO TO THE HILL HOME » Most Popular Stories Most Viewed Rep. Issa closes in on ClintonState Dept. officials contradict claims on deadly Libya attackTeam Romney looking for knockout by RyanPollster pulls out of Fla. , NC and Va. , says Obama can’t win therePelosi offers debate advice to Biden Emailed Rep. Issa closes in on ClintonState Dept. officials contradict claims on deadly Libya attackPollster pulls out of Fla. , NC and Va. , says Obama can’t win thereKid Rock introduces Paul Ryan: 'Sorry' Obama 'didn’t do a better job'New Obama ad uses Big Bird to hit Romney on deficit, Wall Street Discussed First lady 'rarely' ventures into the West Wing to offer president policy adviceActor Bill Murray to CNBC: 'I think we ought to be personally responsible'New Obama ad uses Big Bird to hit Romney on deficit, Wall StreetObama camp promises tougher response to Romney in next debateGOP lawmaker calls for change to how government measures unemployment Home/News » Most Viewed RSS Feed » Briefing Room Nats fever sweeps Congress, K Street Obama: I was ‘too polite’ during debate Michelle Obama says campaign is 'raising enough money' More Briefing Room » Congress Blog Investigative report on ZTE, Huawei is unprecedented in its accusations SAFE Web Act protects consumers, Senate should reauthorize it It's Democrats that have left transportation workers behind More Congress Blog » Pundits Blog The fallacy of Obama's unemployment numbers Obama needs Bill Clinton, not Big Bird Is there a doctor in the house? More Pundits Blog » Twitter Room Paul Ryan thanks 'Clueless' actress for support, called her 'brave' Michelle Obama tells daughters: 'Just don't dance on the tables' Romney camp updates Facebook with 'Friday Night Lights' theme More Twitter Room » Hillicon Valley Rockefeller pushes data brokers for answers on business practices Republicans accuse FCC of wasting money on Internet speed tests Right outraged Obama attended VP debate moderator's wedding More Hillicon Valley » E2-Wire (Energy) Romney looks to use his debate momentum to blunt Obama in Ohio Enviro group ups spending to unseat Mass. Sen. Brown Industry touts expanded drilling as way to cut deficit More E2-Wire (Energy) » Ballot Box King up big in new Maine Senate poll Poll: More Americans view Biden unfavorably than favorably DCCC scales back in market covering New Hampshire, Massachusetts House races More Ballot Box » On The Money Job openings dip as hiring rises News bites: It's complicated New group launches to protect tax break for municipal bonds More On The Money » Healthwatch Obama camp: Romney trying to hide his real views on abortion Report: GOP lawmaker pushed mistress to have an abortion Conservative think tank says health law compliance has cost $27 billion More Healthwatch » Floor Action Ron Paul sides with Romney on issue of US gov't dependency Casey tells Army to honor past combat medics with badge Sessions rejects USDA claim that it is not looking to get more Mexican immigrants on food stamps More Floor Action » Transportation DOT warns of counterfeit air bags in cars Amtrak breaks ridership record with 31. 2 million passengers in 2012 GOP: Hawaii airport baggage handling report shows 'system-wide problems' with TSA More Transportation » DEFCON Hill Romney to pull story of slain Navy SEAL from campaign speeches Allen picked to lead NATO, US European command Report: DOD deploys troops to Jordan More DEFCON Hill » Global Affairs Witness says more security would not have prevented Libya deaths Cummings to GOP: Restore cuts to embassy security Issa won't rule out asking Clinton to testify on Benghazi consulate attack More Global Affairs » Blogs News Feed COLUMNISTS Markos Moulitsas Debate a wake up call Dick Morris Obama's foreign donors More Columnists » Get latest news from The Hill direct to your inbox, RSS reader and mobile devices. Home/News News by Subject Blogs Business & Lobbying Opinion Capital Living Special Reports Jobs Video Home | Privacy Policy | Terms & Conditions | Contact | Advertise | RSS | Subscriptions The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax The contents of this site are © 2012 Capitol Hill Publishing Corp. , a subsidiary of News Communications, Inc.
+Follow @thehill Advanced Search Options »
+
+*   Home/News
+    *   Senate
+    *   House
+    *   Administration
+    *   Campaign
+    *   Polls
+    *   Business &. Lobbying
+    *   Sunday Talk Shows
+*   Campaign 2012
+*   Business &. Lobbying
+    *   K Street Insiders
+    *   Lobbying Contracts
+    *   Lobbying Hires
+    *   Lobbying Revenue
+*   Opinion
+    *   Columnists
+    *   Editorials
+    *   Letters
+    *   Op-Ed
+    *   Weyants World
+*   Capital Living
+    *   Cover Stories
+    *   Food &. Drink
+    *   New Member of the Week
+    *   20 Questions
+    *   My 5 Min. W/Obama
+    *   Announcements
+    *   Meet the Lawmaker
+*   Jobs
+*   Video
+*   Gossip: In The Know
+
+*   Briefing Room
+*   Hillicon Valley
+*   E2-Wire
+*   Ballot Box
+*   On The Money
+*   Healthwatch
+*   Floor Action
+*   Transportation
+*   DEFCON Hill
+*   Global Affairs
+*   Congress
+*   GOP12
+*   In The Know
+*   Pundits
+*   Twitter Room
+
+*   Home
+*   Senate
+*   House
+*   Administration
+*   Campaign
+*   Polls
+*   Business &. Lobbying
+*   Sunday Talk Shows
+
+Blogs
+
+*   Briefing Room
+*   Hillicon Valley
+*   E2-Wire
+*   Ballot Box
+*   On The Money
+*   Healthwatch
+*   Floor Action
+*   Transportation
+*   DEFCON Hill
+*   Global Affairs
+*   Congress
+*   GOP12
+*   In The Know
+*   Pundits
+*   Twitter Room
+
+Opinion
+
+*   A.B. Stoddard
+*   Brent Budowsky
+*   Lanny Davis
+*   David Hill
+*   Cheri Jacobus
+*   Mark Mellman
+*   Dick Morris
+*   Markos Moulitsas (Kos)
+*   Robin Bronk
+*   Editorials
+*   Letters
+*   Op-Eds
+*   Juan Williams
+*   Judd Gregg
+*   Christian Heinze
+*   Karen Finney
+*   John Feehery
+
+Capital Living
+
+*   Cover Stories
+*   Food &. Drink
+*   Announcements
+*   New Member of the Week
+*   My 5 Min. W/Obama
+*   All Capital Living
+
+Video
+
+*   HillTube
+
+Events
+
+*   Video
+
+Classifieds
+
+*   Jobs
+*   Classifieds
+
+Resources
+
+*   Mobile Site
+*   iPhone
+*   Android
+*   iPad
+*   Lawmaker Ratings
+*   White Papers
+*   Order Reprints
+*   Last 6 Issues
+*   Outside Links
+*   RSS Feeds
+
+Contact Us
+
+*   Advertise
+*   Reach Us
+*   Submitting Letters
+*   Submitting Op-eds
+*   Subscriptions
+
+  Privacy Policy
+
+**A **THE HILL’S PRIVACY POLICY****
+
+This Privacy Policy is applicable to The Hill’s Web site, thehill.com (the "Site"), and all Hill web sites. This Privacy Policy explains how we collect information from you and other users of the Site and how we use such information.
+
+**The Information We Collect and Use**
+
+Non-personally identifiable information
+
+We may collect and use non-personally identifiable information and data from you when you are visiting the Site through the standard operation of our Internet servers. Non-personally identifiable information collected from you may include user Internet Protocol (IP) addresses, browser types, domain names, and anonymous statistical data regarding your use of the Site. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify particular visitors to the Site.
+
+The Site also collects information through the use of "cookies." Cookies are small text files that a website can use to recognize repeat users, facilitate the user's ongoing access to and use of a website, allow the site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies work by assigning a unique number to the user that has no meaning outside the assigning site. If you do not want information collected from you through our use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature. however, you should note that cookies may be necessary to provide you with certain features available on the Site.
+
+Personally Identifiable Information
+
+We collect personally identifiable information about you when you specifically and knowingly provide such information voluntarily on the Site, including, but not limited to, during the following interactions: (1) when you register on the Site and when you later log-on with your user name and password. (2) when you sign-up to subscribe to a service, a newsletter, or ask to be added to our mailing lists for other products or services. (3) when you place an order for products or services. (4) when you participate in a promotional offer. (5) when you provide feedback in an online survey. (6) when you submit other content and suggestions.
+
+In each of the instances above, we typically ask for some or all of the following information: your full name, e-mail address, phone number, physical mailing address, the type of business you are in, product preference information, any applicable identification number or password that we may require, as well as other similar information that is needed to register or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain other information, materials and services.
+
+The personally identifiable information you provide to us when using the Site may be used to provide products and services to you, to enhance your experience at the Site, and, if applicable, to enhance your experience as a subscriber to The Hill's products and services.
+
+We may from time to time use your personally identifiable information to notify you of special offers and products and services from The Hill and/or from third parties that we think may be of interest to you. It is possible that we may rent, sell or otherwise transfer to third parties personally identifiable information about you. At any time, you can contact The Hill to request that we not share your personally identifiable information with third parties, as set forth in greater detail below.
+
+We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide specific services and products related to The Hill and the Site, such as providing credit card processing and fraud screening, order fulfillment and shipment, mailing of The Hill publications and other materials, hosting and maintaining the Site, and developing applications for the Site. These Outside Contractors may sometimes have limited access to information collected from you, including your personally identifiable information, in the course of providing products or services to us. Access to your personally identifiable information by these contractors is limited to the information reasonably necessary in order for these Outside Contractors to perform their limited function for us. We also require that these contractors (i) protect the privacy of your personally identifiable information consistent with this Privacy Policy, and (ii) not use or disclose your personally identifiable information for any purpose other than providing us with products or services for which we contracted.
+
+The Hill may merge your information collected on the Site with similar data obtained from third parties. We may use this enhanced personally identifiable information to notify you of special offers, updated information and new products and services from The Hill.
+
+Other unique circumstances may arise where we are required to disclose your personal information to third parties, such as in connection with a corporate transaction where all or a portion of our business or assets (including our associated customer lists containing your personal information) are sold or transferred, or if disclosure is required by law or pursuant to judicial or governmental investigations or proceedings.
+
+You should be aware that if you voluntarily disclose personally identifiable information in an e-mail or other communications with third parties listed on the Sites or in other materials, that information, along with any other information disclosed in your communication, can be collected and correlated and used by such third parties and may result in your receiving unsolicited messages from other persons. Such collection, correlation, use and messages are beyond our control.
+
+**Our Commitment to Data Security**
+
+The Hill takes every effort to protect against unauthorized access to your personal information, and has put in place commercially reasonable physical, electronic, and managerial procedures to safeguard and secure the information we collect on the Site.
+
+Notwithstanding the above commitment to protect your information from loss, misuse or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet. Additionally, there also is some risk our security systems could be circumvented or breached. As a result, while we strive to protect your information, we cannot ensure or warrant the security and privacy of any information you transmit to us, and you do so at your own risk.
+
+**Opt-out**
+
+You may at any time opt-out of receiving promotional communications from The Hill or third parties at any time by contacting our Information Privacy Manager at the address below. Please note that if you decide to opt-out of receiving promotional information or other communications after you have previously opted-in, your change in preference will only affect future contacts. if the information already has been provided to third parties, they may continue to use it.
+
+Even if you do not opt-in to receive promotional information or you have opted-in and then later choose to opt-out, we reserve the right to contact you as necessary in our sole discretion regarding The Hill, any request you have made for services or products from The Hill, changes to this Privacy Policy and any other matters that may be relevant to the information we collect.
+
+**Correcting Information**
+
+You are responsible for providing accurate information when making purchases, registering with any portions of the Site that require registration, or performing other functions that might require you to submit personally identifiable information to the Site. If you wish to correct any personally identifiable information you have provided to us in this manner, you may do so by contacting our Information Privacy Manager at the address below.
+
+**How To Contact Us**
+
+If you would like to contact The Hill for any reason regarding our privacy practices, please write or e-mail us at the following address:
+
+Mailing Address:
+
+The Hill  
+Information Privacy Manager  
+1625 K St. NW Suite 900  
+Washington, DC 20006  
+e-mail: This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+
+**Changes To The Privacy Policy**
+
+This Privacy Policy is effective as of March 21, 2005. We reserve the right to change this Privacy Policy at any time by notifying users. We may notify you by posting a notice on the Site or by contacting you through electronic mail or other means. Your continued use of the Site following the posting of changes to this Privacy Policy means you accept those changes.
+
+**What If You Do Not Agree To The Terms Of This Privacy Policy?**
+
+As a subscriber to the Site, or otherwise by using the Site, you signify that you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not make any use of the Site.
+
+Source:  
+http://thehill.com/privacy-policy The contents of this site are © 2012 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc. **The Hill Archives:** Senate | House | Administration | Campaign | Business &. Lobbying | Capital Living | Opinion **View News by Subject:**  
+Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. Economy | Technology | Foreign Policy | Labor | Transportation &. Infrastructure GO TO THE HILL HOME » Most Popular Stories
+
+Most Viewed
+
+Rep. Issa closes in on ClintonPollster pulls out of Fla., NC and Va., says Obama can’t win thereState Dept. officials contradict claims on deadly Libya attackTeam Romney looking for knockout by RyanPelosi offers debate advice to Biden
+
+Emailed
+
+Rep. Issa closes in on ClintonPollster pulls out of Fla., NC and Va., says Obama can’t win thereState Dept. officials contradict claims on deadly Libya attackObama campaign comes around to flip-flopping advice from Senate DemsObama’s foreign donors
+
+Discussed
+
+First lady 'rarely' ventures into the West Wing to offer president policy adviceActor Bill Murray to CNBC: 'I think we ought to be personally responsible'New Obama ad uses Big Bird to hit Romney on deficit, Wall StreetObama camp promises tougher response to Romney in next debateGOP lawmaker calls for change to how government measures unemployment
+
+Home/News » Most Viewed RSS Feed » Briefing Room
+
+*   Ryan hasn't talked to Palin about VP debate
+*   Nats fever sweeps Congress, K Street
+*   Obama: I was ‘too polite’ during debate
+
+  
+More Briefing Room » Congress Blog
+
+*   A bulwark against the Super PACs: The Internet
+*   Restraint is a hallmark of smart regulation
+*   Unlimited contributions to parties would be disastrous
+
+  
+More Congress Blog » Pundits Blog
+
+*   Issa targets Hillary: Big mistake
+*   The fallacy of Obama's unemployment numbers
+*   Obama needs Bill Clinton, not Big Bird
+
+  
+More Pundits Blog » Twitter Room
+
+*   Paul Ryan thanks 'Clueless' actress for support, calls her 'brave'
+*   Michelle Obama tells daughters: 'Just don't dance on the tables'
+*   Romney camp updates Facebook with 'Friday Night Lights' theme
+
+  
+More Twitter Room » Hillicon Valley
+
+*   GOP senators to White House: Cyber order would be 'a mistake'
+*   Lawmakers blast advertisers for ignoring 'Do Not Track' on Microsoft's Explorer
+*   Chaffetz accuses State Department of revealing classified information
+
+  
+More Hillicon Valley » E2\-Wire (Energy)
+
+*   Republicans seek audit of energy subsidies
+*   Romney looks to use his debate momentum to blunt Obama in Ohio
+*   Enviro group ups spending to unseat Mass. Sen. Brown
+
+  
+More E2\-Wire (Energy) » Ballot Box
+
+*   Dem poll: Carmona leads Flake for Arizona Senate
+*   McCaskill releases series of attack ads featuring sexual assault victims
+*   King up big in new Maine Senate poll
+
+  
+More Ballot Box » On The Money
+
+*   IRS commissioner to exit next month
+*   Jamie Dimon: I don't mind paying higher taxes to help solve economic crisis
+*   Job openings dip as hiring rises
+
+  
+More On The Money » Healthwatch
+
+*   Romney vows to be 'pro-life president'
+*   Christie backs Romney over abortion remark flap
+*   Allen West slams opponent for Medicare cuts West backed
+
+  
+More Healthwatch » Floor Action
+
+*   Shaheen, Barrasso ask Treasury to study effect of eurozone crisis on US economy
+*   GOP senators ask Defense to look into Libyan attacks, diplomatic security
+*   Ron Paul sides with Romney on issue of US gov't dependency
+
+  
+More Floor Action » Transportation
+
+*   Report: TSA refuses to pat down leukemia patient in private
+*   Dems tout Amtrak ridership record
+*   DOT warns of counterfeit air bags in cars
+
+  
+More Transportation » DEFCON Hill
+
+*   Report: Yemen detains US citizen on terrorism charges
+*   US 'can't prevent' insider attacks in Afghanistan, says Dempsey
+*   VA isn’t removing chief of staff over conference scandal
+
+  
+More DEFCON Hill » Global Affairs
+
+*   House Republican calls for reprimands at State Dept.
+*   Witness says more security would not have prevented Libya deaths
+*   Cummings to GOP: Restore funds to embassy security
+
+  
+More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris UN out to regulate Web Markos Moulitsas Debate a wake up call More Columnists »
+
+Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
+
+*   Home/News
+*   News by Subject
+*   Blogs
+*   Business &. Lobbying
+*   Opinion
+*   Capital Living
+*   Special Reports
+*   Jobs
+*   Video
+
+Home | Privacy Policy | Terms &. Conditions | Contact | Advertise | RSS | Subscriptions
+
+The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax
+
+The contents of this site are © 2012 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc.
