@@ -1,1 +1,118 @@
-Recently Viewed (0) My Recently Viewed Items As you browse our collection of jewelry, we'll keep track of those items here. You can then print this list and take it to a store OR You can save the items to your Wish List   Compare(0) My Compare Items When you select two to four products we'll show you a side-by-side detailed comparison so you can choose the best piece of jewelry you're looking for   Wish List   Shopping Bag(0) My Shopping Bag There are no items in your Shopping Bag, keep shopping you'll find something to love. FIND A STORE There are no store locations at the selected location. Enter Street Address, City, State or Zip Code View All Stores Every kiss begins with Kay ® FIND A STORE FIND A STORE There are no store locations at the selected location. Enter Street Address, City, State or Zip Code View All Stores Search site: View more related articles Contact Us! Have a question? Need advice? We're here to help! Choose an option below to contact us at any time.   PHONE We're here to answer your calls during the following hours: 800-527-8029 Customer Service Hours Mon. - Fri. 8:30 AM - 10:00 PM EST Saturday 10:00 AM - 10:00 PM EST Sunday 12:00 PM - 9:00 PM EST   E-MAIL Send us an e-mail with your questions 24 hours a day. We'll respond to you within two business days. Send an Email   LIVE CHAT Get quick answers to your questions, information about your account, or gift ideas for that special someone. Our chat service is safe and secure and we'll keep your information private in accordance with our Privacy Policy Online chat is available: Mon-Fri 10:00 AM to 10:00 PM ET Sat-Sun 12:00 PM to 9:00 PM ET FREE SHIPPING on any online purchase. No minimum! Browse Our Jewelry Featured Items Browse Our Designers and Collections     SIGN UP FOR Great Offers & Gift Ideas and find out about upcoming store events with special products and prices from Kay Jewelers. Sign Up No Thank You   |   Privacy Policy Shop Our Catalog Search site: Sign up for special offers and gift ideas   CUSTOMER SERVICE 800-527-8029 Order Status Kay Credit Self-Service Options Safe Shipping Easy Returns FAQs Education Center Lifetime Diamond & Gemstone Guarantee Extended Service Plan Kay Gold Exchange Gift Cards Contact Us Site Map   OUR COMPANY About Kay Careers Kay Experts Consumer Information Kay Philanthropy Trusted Partners Kay & St Jude   LEGAL Privacy Policy Kay Credit Terms & Conditions Legal Disclaimers   GET CONNECTED & SHARE Sign Up For Special Offers & Gift Ideas Thank you for registering with Kay Jewelers. You have signed up as © Copyright 2000-2012 Kay Jewelers, a division of Sterling Jewelers, Inc. 375 Ghent Road, Akron, OH 44333 ABOUT SSL CERTIFICATES
+Recently Viewed (0) My Recently Viewed Items
+
+*   As you browse our collection of jewelry, we'll keep track of those items here.
+*   You can then print  
+    this list and take it  
+    to a store OR You can save the items to your Wish List
+
+  Compare(0) My Compare Items
+
+*   When you select two to four products we'll show you a side-by-side detailed comparison so you can choose the best piece of jewelry you're looking for
+
+  Wish List   Shopping Bag(0) My Shopping Bag
+
+*   There are no items in your Shopping Bag, keep shopping you'll find something to love.
+
+FIND A STORE There are no store locations at the selected location.
+
+*   Enter Street Address, City, State or Zip Code
+*   View All Stores
+
+Every kiss begins with Kay ® FIND A STORE FIND A STORE There are no store locations at the selected location.
+
+*   Enter Street Address, City, State or Zip Code
+*   View All Stores
+
+Search site: View more related articles
+
+Contact Us!
+
+Have a question? Need advice? We're here to help!
+
+Choose an option below to contact us at any time.
+
+ 
+
+PHONE
+
+We're here to answer your calls during the following hours:
+
+800-527-8029  
+Customer Service Hours
+
+Mon. - Fri. 8:30 AM - 10:00 PM EST
+
+Saturday 10:00 AM - 10:00 PM EST
+
+Sunday 12:00 PM - 9:00 PM EST
+
+ 
+
+E-MAIL
+
+Send us an e-mail with your questions 24 hours a day. We'll respond to you within two business days.  
+Send an Email
+
+ 
+
+LIVE CHAT
+
+Get quick answers to your questions, information about your account, or gift ideas for that special someone. Our chat service is safe and secure and we'll keep your information private in accordance with our Privacy Policy
+
+Online chat is available:  
+Mon-Fri 10:00 AM to 10:00 PM ET  
+Sat-Sun 12:00 PM to 9:00 PM ET
+
+**FREE SHIPPING** on any online purchase. No minimum! Browse Our Jewelry Featured Items Browse Our Designers and Collections    
+
+SIGN UP FOR
+
+Great Offers &. Gift Ideas
+
+and find out about upcoming store events with special products and prices from  
+Kay Jewelers.
+
+Sign Up No Thank You   |   Privacy Policy Shop Our Catalog Search site: Sign up for special offers and gift ideas
+
+*     CUSTOMER SERVICE
+    
+    800-527-8029
+    
+    *   Order Status
+    *   Kay Credit
+    *   Self-Service Options
+    *   Safe Shipping
+    *   Easy Returns
+    
+    *   FAQs
+    *   Education Center
+    *   Lifetime Diamond &. Gemstone Guarantee
+    *   Extended Service Plan
+    *   Kay Gold Exchange
+    *   Gift Cards
+    *   Contact Us
+    *   Site Map 
+*   OUR COMPANY
+    *   About Kay
+    *   Careers
+    *   Kay Experts
+    *   Consumer Information
+    *   Kay Philanthropy
+    *   Trusted Partners
+    *   Kay &. St Jude 
+*   LEGAL
+    *   Privacy Policy
+    *   Kay Credit Terms &. Conditions
+    *   Legal Disclaimers 
+*   GET CONNECTED &. SHARE
+
+Sign Up For
+
+Special Offers &. Gift Ideas
+
+Thank you for registering with  
+Kay Jewelers.  
+You have signed up as  
+
+© Copyright 2000-2012 Kay Jewelers, a division of Sterling Jewelers, Inc. 375 Ghent Road, Akron, OH 44333  
+ABOUT SSL CERTIFICATES
