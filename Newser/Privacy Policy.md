@@ -2,16 +2,16 @@
 
 *   What's New
 *   Hot Topics
-    *   Election 2012
     *   entertainment
+    *   Election 2012
     *   Mitt Romney 2012
     *   celebrity
+    *   Syria
     *   Obama 2012
     *   Mitt Romney
-    *   Romney 2012
-    *   President Obama
-    *   timeless news
-    *   presidential debate
+    *   Arab Spring
+    *   Chris Stevens
+    *   iPhone 5
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -119,9 +119,9 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   When Ronald Reagan Blew a Presidential Debate and Dropped...
-*   Lance Armstrong Was the Very Best (at Doping), Says USADA
-*   Pay Up or the Hard Drive Gets It
+*   Between a Quota and a Hard Place
+*   What the Cuban Missile Crisis Should Teach Us
+*   Wonder Is the Best Kidsâ Book of the Year
 
 More from Slate »
 
@@ -131,27 +131,27 @@ More from Slate »
 
 More from HuffPost Weird »
 
-*   October 10: What Are We Wearing Today?
-*   Watch Australians Dance In A Pro-Choice Flash Mob!
-*   Anti-Abortion Legislator Encouraged His Mistress To Have â¦...
+*   Calm Down, Everyone! Justin Bieber Naked Photos Have Not...
+*   The Lohansâ Huge Fight This Morning Was Over Dinaâs $Unpaid...
+*   Elizabeth Banks Producing Feminist Sitcom About Womenâs...
 
 More from The Frisky »
 
-*   Padma Lakshmi allows a fan to eat a piece of ham off her...
-*   Free advice to judges: If you just sentenced a man to state...
-*   What is black and white and red all over? \[Scary\]
+*   Nuns still aren't giving up in their fight against Vatican...
+*   The best way to get rid of four-day-old hiccups is to have...
+*   Mansion belong to a former Buffalo Bills defensive lineman...
 
 More from Fark »
 
-*   Is Mitt Romney exploiting the death of a former Navy SEAL?
-*   The Supreme Court debates affirmative action: 3 takeaways
-*   Would a Biden debate win stop Obama's slide?
+*   Arizona Senate: The race at a glance
+*   The vice presidential debate: A viewer's guide
+*   The tragedy of bureaucracy
 
 More from The Week »
 
-*   Joe Bidenâs Microphone Isnât Going Anywhere
-*   Polling Dillon, Texas, for the Friday Night Lights Vote
-*   Bad Lip Reading Does the Debate
+*   Arizona Rep. Says He Won't Sign No-Tax Pledge, Forgets He...
+*   Chelsea Clinton's Absence From the Campaign Trail Has...
+*   Sandusky and Wife Tried to Sway Judge With Letters Bashing...
 
 More from Daily Intel »
 
@@ -161,15 +161,15 @@ More from Daily Intel »
 
 More from HuffPost Health »
 
-*   Beyonce Performs With Jay-Z for Final Brooklyn Show (VIDEOS)
-*   Amber Tamblyn Marries âArrested Developmentâ Star David...
-*   âSaturday Night Liveâ Recap: Daniel Craig Remembers His...
+*   'Argo' Star Ben Affleck Admits He Still Talks to Ex-FiancÃ©e...
+*   Olivia Wilde Says Her Sex Quotes Were Taken Out of Context:...
+*   'American Idol' Feud: Stevie Nicks Apologizes for Saying...
 
 More from Celebuzz »
 
-*   Jennifer Lawrence Fires Back at Critics Who've Called Her...
-*   Americans Are Becoming Less Religious and That's the Real...
-*   Outraged Parents of Teens Suspended for 'Energy Mints'...
+*   Joe Biden and Paul Ryan Shirtless Showdown: Who's the Vice...
+*   'Nashville' Premiere Recap: A Little Bit Country and a...
+*   'Ultimate Dog Shaming' Will Make You Laugh So Hard You...
 
 More from The Stir »
 
