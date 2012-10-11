@@ -73,11 +73,11 @@ What's Hot
 
 Fall TV Popularity Contest
 
-_SOA_'s Shocking Cameo
+_Made in Jersey_ Yanked
 
-_DWTS_ Recap
+Mega Buzz
 
-_The Voice_'s Epic Battle
+Flannery's _Bold_ Exit Plans
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -139,9 +139,9 @@ more popular movies Top Videos
 
 1.  Supernatural
 2.  Dexter
-3.  Hart of Dixie
-4.  The Big Bang Theory sneak peek...
-5.  Gossip Girl
+3.  Gossip Girl
+4.  Julie Plec's Watchlist
+5.  The Big Bang Theory sneak peek...
 
 more top videos
 
