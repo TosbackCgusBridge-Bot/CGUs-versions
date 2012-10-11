@@ -1,6 +1,6 @@
 *   Skip to the main content
 
-Mattress Giant Search this site... Find 0 items $0.00  My Cart
+Mattress Giant | Mattress Online | Bed Furniture Search this site... Find 0 items $0.00  My Cart
 
 *   Call Us! **1–800–872–1999**
 
@@ -44,6 +44,7 @@ Mattress Giant Search this site... Find 0 items $0.00  My Cart
     *   Daybed Bedding
     *   Bedding Accessories
     *   Kids Bedding
+    *   Futon Covers
 *   **Furniture**
     *   Bed Frames
     *   Headboards &. Footboards
