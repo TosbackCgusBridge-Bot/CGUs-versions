@@ -1,4 +1,4 @@
-About Us| Newsletter October 10, 2012
+About Us| Newsletter October 11, 2012
 
 *   Like Us
 *   Follow Us
@@ -404,12 +404,12 @@ Please acknowledge your agreement I have read and agree to WebMD's Privacy Polic
 
 New on MedicineNet
 
+*   Nosebleed Remedies
+*   Eustachian Tube Problems
 *   Sinus Surgery
 *   Epidurals &. Fungal Meningitis
 *   Fungal Meningitis Outbreak
 *   Fungal Meningitis Symptoms
-*   Popcorn Lung Symptoms
-*   Pregnancy Symptoms
 *   Healthy Living Tips
 
 Use Pill Finder Find it Now Pill Identifier on RxList
