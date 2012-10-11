@@ -158,7 +158,7 @@ Minimum 20 Minute Delay
 
 **Intraday Low** 70.09
 
-**Volume** 5,132,894
+**Volume** 5,150,894
 
 **Last Trade** 71.11
 
