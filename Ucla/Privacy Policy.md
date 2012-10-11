@@ -2,7 +2,7 @@
 *   Skip to Search
 *   Skip to Main Content
 
-69° and Sunny
+57° and Partly Cloudy
 
 *   Prospective Students
 *   Current Students
