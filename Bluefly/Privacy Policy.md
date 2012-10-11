@@ -174,7 +174,12 @@ coupon code: SHIP100
     *   Z
     *   ALL
 
-my fly Privacy Notice
+my fly Designer Shoe Sale! Now up to 65% off
+
+*   Shop Women
+*   Shop Men
+
+Privacy Notice
 
 This website (the "Website") is owned, operated and distributed by Bluefly, Inc., a Delaware corporation ("Bluefly"). Bluefly also owns the website located at www.belleandclive.com and information provided to Bluefly on this Website may also be used on www.belleandclive.com as well as other websites owned by Bluefly or its subsidiaries. BY ACCESSING ANY PART OF THE WEBSITE, YOU ARE AGREEING TO THE TERMS AND CONDITIONS DESCRIBED BELOW (THE "PRIVACY POLICY") AND THE TERMS AND CONDITIONS OF THE BLUEFLY CONDITIONS OF USE (THE "CONDITIONS OF USE"). **IF YOU DO NOT AGREE TO ANY OF THESE TERMS, YOU SHOULD NOT USE THE WEBSITE.** This Privacy Policy applies to all users, including both users who are simply viewing the Website and users who are purchasing goods through the Website.
 
