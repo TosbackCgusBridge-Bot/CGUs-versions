@@ -97,9 +97,9 @@ még több
 
 dossziék
 
-Dosszié: Széchenyi terv
-
 Dosszié: Út
+
+Dosszié: Széchenyi terv
 
 Dosszié: Hidak
 
@@ -118,6 +118,9 @@ fuga programok 2012. október 8-14.
 
 az árnyékolástechni  
 ka szerepe a környezettudatos és energiahatékony építészetben
+
+urbanisztikai konferencia hajdúböszörményb  
+en
 
 épülettár apró
 
@@ -191,7 +194,7 @@ Belsőépítészet \[110\]
 
 Építőipar és geodézia mérő műszerek \[9\]
 
-Kivitelezés \[1004\]
+Kivitelezés \[1005\]
 
 Lakberendezés \[92\]
 
@@ -201,7 +204,7 @@ Beruházás \[49\]
 
 Tervezés, építész \[1637\]
 
-Ingatlanfejlesztés \[313\]
+Ingatlanfejlesztés \[315\]
 
 Partnerek programajánlói
 
