@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
+Syria
+
+Syria, Russia Press Turkey on Jet's Interception
+
 Mitt Romney
 
-Social conservatives remind Romney of pledge against abortion,...
-
-Libya
-
-Security at Libya embassy weak before attack
+Obama: Ia ll be tougher in next Romney debate
 
 Politix
 
-Who will win the House - Democrats or Republicans?
+Should we lower the drinking age to 18?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 110,515 • Total comments across all topics: 187,656,778
+Comments made yesterday: 111,110 • Total comments across all topics: 187,713,989
 
 Copyright ©2012 Topix LLC
 
