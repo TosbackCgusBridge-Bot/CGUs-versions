@@ -13,9 +13,9 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
 *   Xbox 360 See All Xbox 360 » Hot Right Now
     
     1.  Assassin's Creed III GameStop Edition
-    2.  Halo 4
-    3.  Dishonored
-    4.  Skylanders Giants Golden Dragonfire Cannon Battle Pack GameStop Exclusive
+    2.  Skylanders Giants Golden Dragonfire Cannon Battle Pack GameStop Exclusive
+    3.  Halo 4
+    4.  Dishonored
     
     See all best sellers Xbox 360 **Games**
     
@@ -73,7 +73,7 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Rating Pending
 *   PS3 See All PS3 » Hot Right Now
     
-    1.  Skylanders Giants Golden Dragonfire Cannon Battle Pack GameStop Exclusive
+    1.  Call of Duty: Black Ops II
     2.  Assassin's Creed III GameStop Edition
     3.  Dishonored
     4.  Zone of Enders HD Collector's Edition
@@ -134,8 +134,8 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     
     1.  XCOM: Enemy Unknown
     2.  Dishonored
-    3.  Dishonored
-    4.  The Elder Scrolls V: Skyrim
+    3.  The Elder Scrolls V: Skyrim
+    4.  SimCity 4 Deluxe Edition
     
     See all best sellers PC **Games**
     
@@ -198,8 +198,8 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     
     1.  New Super Mario Bros. U
     2.  Wii U Pro Controller - Black
-    3.  Disney Epic Mickey 2: The Power of Two
-    4.  Skylander's Giants Starter Pack
+    3.  Skylander's Giants Starter Pack
+    4.  Disney Epic Mickey 2: The Power of Two
     
     See all best sellers Wii U **Games**
     
@@ -239,7 +239,7 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     1.  Harvest Moon: A New Beginning
     2.  New Super Mario Bros. 2
     3.  Nintendo 3DS XL Blue
-    4.  KINGDOM HEARTS 3D Dream Drop Distance
+    4.  Paper Mario: Sticker Star
     
     See all best sellers 3DS **Games**
     
@@ -288,8 +288,8 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     
     1.  Assassin's Creed III Liberation
     2.  Ragnarok Odyssey Collector's Edition
-    3.  Persona 4 Golden
-    4.  Call of Duty Black Ops: Declassified
+    3.  FIFA Soccer 13
+    4.  PlayStation Vita Wi-Fi Madden NFL 13 Bundle
     
     See all best sellers PS Vita **Games**
     
