@@ -44,15 +44,15 @@ It's something like a way more fashionable and absurdist battle of the bands mix
 
 *   10 Perfect Trench Coats for Fall
 
-News &. Politics Q&A: Key and Peele on Making Obama Funny
+News &. Politics Pierce on Last Night's Massachusetts Debate
 
-They made it possible to laugh both with and at the president
+Perhaps because the proceedings were liberated from the nonsense, Warren by far had the best night on stage she has had ...
+
+*   Q&A: Key and Peele on Making Obama Funny
 
 *   Charlie Pierce: Obama Needs to Wake the F Up &. Be a Candidate
 
 *   Philip Seymour Hoffman: The ESQ&A
-
-*   Stephen Marche on James Wood on Tom Wolfe's _Back to Blood_
 
 Food &. Drink Big New Summer-to-Fall Drink
 
