@@ -9,12 +9,7 @@
 *   Track Your Order
 *   Need Help?
 
-*   Design &. List
-*   Gift Center
-*   Blog
-
-View Cart  
-all Department
+Name anything in the world, and we'll show you hundreds of products that celebrate it. all Department View Cart  
 
 *   Shop by Product ▲▼
     *   T-shirts
@@ -387,6 +382,6 @@ OUR BRANDS CafePress  \[+\] Canvas on Demand  \[+\] Great Big Canvas  \[+\
 *   Products
 *   Sitemap
 
-All Content Copyright © 1999-2012 CafePress Inc. Use of this web site constitutes acceptance of the Terms of Service.
+All Content Copyright © 1999-CafePress Inc. Use of this web site constitutes acceptance of the Terms of Service.
 
 {"SumOfAllMeasurementsBelowReportingThreshold":0}
