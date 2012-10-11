@@ -78,7 +78,6 @@ Ink &. Toner Finder:
     *   Cleaning Supply Deals
     *   Food &. Beverage Deals
     *   Furniture Savings
-    *   HON Savings Event
     *   Office Supply Deals
     *   Technology Deals
     *   Staples Brand Deals
