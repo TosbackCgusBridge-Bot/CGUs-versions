@@ -114,10 +114,10 @@ _Any comments?_ Send us your feedback Print this page Popular cities
 *   Flights to Orlando
 *   Flights to Los Angeles
 *   Flights to Miami
-*   Flights to Atlanta
 *   Flights to Chicago
-*   Flights to Phoenix
+*   Flights to Atlanta
 *   Flights to Fort Lauderdale
+*   Flights to Phoenix
 *   Flights to Honolulu
 
 Popular countries
