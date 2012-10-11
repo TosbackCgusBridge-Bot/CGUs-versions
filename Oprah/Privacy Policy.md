@@ -98,14 +98,13 @@ OWN reserves the right to change this Privacy Policy at any time without notice 
 
 Advertisement Play Sweetie Pie's Bingo! Get a slice of Sweetie Pie’s right here with our brand new Bingo game! Click to get 5 tiles across in any direction, and you’ve got BINGO! It's simple, free and most of all...fun. Get started now! Be sure to catch Sweetie Pie's all-new episodes, Saturdays at 9/8c! Play Now! Buy Tickets to O You! 2012 On October 20, join all of your _O_ magazine favorites—including Gayle King, Martha Beck, Peter Walsh and more—for a truly memorable day of learning, inspiration and fun! Purchase tickets now Advertisement Share Your Story
 
-*   Betrayed And Can't Move On?
 *   ARE YOU AND YOUR FAMILY STRUGGLING AND NEED HELP?
 *   Family in Turmoil?
-*   Is Constant Fighting Destroying Your Family ?
-*   On The Brink Of Divorce Because of Cheating?
-*   Controlling Spouse?
 *   What's Your Biggest Makeup Problem?
 *   Skype into Lifeclass from your home or office!
+*   HAVE YOU BEEN INVOLVED IN AN AFFAIR?
+*   Where do you find beauty in the world?
+*   LOOKING FOR ADVICE FROM PASTOR JOEL OSTEEN?
 
 See more » Hot Topics
 
