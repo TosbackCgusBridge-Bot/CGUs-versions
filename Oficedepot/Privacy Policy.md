@@ -12,7 +12,7 @@ Loading Results... Skip to content
 *   Customer Service
 *   1.800­.GO.DEPOT (1.800.­463.3768) Close X
     
-    **Session:** 0000doA1nwljms0h1dCoQwWpm77  
+    **Session:** 0000E9iJSYVTEUsL4-YpkA1vw\_Q  
     **Clone:** 1659q38ci
     
 
@@ -228,7 +228,7 @@ Subtotal
         *   Worklife Rewards®
         *   Free Ink &. Toner Recycling
     *   Top 10 Brands
-        *   Hewlett-Packard
+        *   HP
         *   Lexmark
         *   Brother
         *   Epson
