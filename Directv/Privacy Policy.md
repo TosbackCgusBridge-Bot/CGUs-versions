@@ -1,8 +1,8 @@
-JavaScript is disabled in your browser. We recommend that you enable JavaScript to optimize your experience on DIRECTV.com. Learn More
+Privacy Policy JavaScript is disabled in your browser. We recommend that you enable JavaScript to optimize your experience on DIRECTV.com. Learn More
 
-*   PXDTPW08A
-*   2967920015
-*   3017046163
+*   PXDTPW03D
+*   2969212470
+*   3018606449
 *   false
 *   false
 *   false
@@ -136,6 +136,7 @@ Order Now "/DTVAPP/new\_customer/lightbox/lightboxGettingStarted.jsp"
     *   HD On-Screen Guide
     
     *   Equipment
+    *   Genie
     *   Receivers
     *   nomad
     *   Get Connected
@@ -320,7 +321,7 @@ We reserve the right to change this Policy at any time. If we make a material ch
     *   DIRECTV Deals
     *   DIRECTV Channels
     *   DIRECTV Sports
-    *   DIRECTV Technology
+    *   DIRECTV Genie
     *   DIRECTV Social Media
     *   DIRECTV Everywhere
 4.  Compare the Competition
