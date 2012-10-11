@@ -10,26 +10,26 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
     *   Tools
     *   Media
     *   Enterprise
-    *   ScienceApple Knew Maps Was Going To Be A Disaster, Say Developers Apple Knew Maps Was Going To Be A Disaster, Say Developers ClassicMap Will Let You Use Google Maps On Your iPhone Again—Sort Of\* It's Time People Realized That The Drudge Report Is A Major Media Property Worth Hundreds Of Millions Of Dollars Bombshell House Report Says Two Major Chinese Companies Could Be Spying On The US See What Happens When A Boeing 727 Is Crashed Into The Desert On Purpose
+    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning ClassicMap Will Let You Use Google Maps On Your iPhone Again—Sort Of\* It's Time People Realized That The Drudge Report Is A Major Media Property Worth Hundreds Of Millions Of Dollars Huawei, The Chinese Equipment Maker Accused Of Spying, Has Long Relied On IBM See What Happens When A Boeing 727 Is Crashed Into The Desert On Purpose
 *   Finance
     *   Clusterstock
     *   Your Money
-    *   Broker CenterDIMON: It 'Pisses Me Off' That People Who Brought The US To Its Knees Walked Away Rich DIMON: It 'Pisses Me Off' That People Who Brought The US To Its Knees Walked Away Rich Well-Educated Americans Have More Debt Than You DIMON: It 'Pisses Me Off' That People Who Brought The US To Its Knees Walked Away Rich
-*   Markets DOW FALLS 128 POINTS: Here's What You Need To Know
+    *   Broker Center10 Things You Need To Know Before The Opening Bell 10 Things You Need To Know Before The Opening Bell Pulling The Plug On Appliances Could Save You Hundreds Per Year 10 Things You Need To Know Before The Opening Bell
+*   Markets 10 Things You Need To Know Before The Opening Bell
 *   Politics
     *   Politics
     *   Defense
-    *   Law &. OrderGALLUP: Obama Roars Back, Race Tied At 48 GALLUP: Obama Roars Back, Race Tied At 48 This Brilliant Afghan War Photo Has Become A Meme Here's What The Supreme Court Justices Looked Like When They Were Young
+    *   Law &. OrderMitt Romney Is Closing In On Obama In Every Key Swing State Mitt Romney Is Closing In On Obama In Every Key Swing State This Brilliant Afghan War Photo Has Become A Meme Here's What The Supreme Court Justices Looked Like When They Were Young
 *   Strategy
     *   Strategy
-    *   CareersSheryl Sandberg's No. 1 Piece Of Advice For Women Is Spot On Sheryl Sandberg's No. 1 Piece Of Advice For Women Is Spot On 10 Companies With Employee Perks That Will Make You Jealous
+    *   CareersIt Only Takes Two Minutes In A 'Power Pose' To Completely Boost Confidence It Only Takes Two Minutes In A 'Power Pose' To Completely Boost Confidence 10 Companies With Employee Perks That Will Make You Jealous
 *   Entertainment The 15 Most Expensive Celebrity Engagement Rings
-*   Advertising CHART: How America Spent $200 Million On Booze 'Pouches'
-*   Retail Walmart Is Betting On A Huge Holiday Season This Year
+*   Advertising See How 7 Brands Are Testing Facebook's 'Want' Button
+*   Retail Starbucks Is Threatening To Take A Doggie Daycare To Court If It Doesn't Change Its Name And Logo
 *   Sports Here's The USADA's Mountain Of Evidence Against Lance Armstrong
 *   Life
     *   The Life
-    *   TransportationSee Why Modern Istanbul Is The Coolest City In Europe See Why Modern Istanbul Is The Coolest City In Europe The TWA Flight Center At JFK Is A Throwback To The Glory Days Of Flying
+    *   TransportationDubai's Latest Mega-Project Is A Billion-Dollar Replica Of The Taj Mahal Dubai's Latest Mega-Project Is A Billion-Dollar Replica Of The Taj Mahal The TWA Flight Center At JFK Is A Throwback To The Glory Days Of Flying
 *   More
     *   Latest
     *   Video
@@ -54,7 +54,11 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
 
 *   Follow us on Facebook and get updates from Business Insider posted directly to your news feed  
 
-Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,428
+Continue to Business Insider »
+
+You will be redirected in seconds.
+
+Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,433
 
 *   Email
 *   More Share on Tumblr
@@ -164,7 +168,7 @@ Recommended For You
 
 Please follow Business Insider on Twitter and Facebook.
 
-Short URL Share:
+Advertisement: Short URL Share:
 
 *   _Twitter_
 *   _Facebook_
@@ -226,7 +230,7 @@ More:*   SAI Select (sample)
 *   Careers Select (sample)
 *   Military Select (sample)
 
-Advertisement Your Money NASDAQ Composite 3,052 -13.24 (-0.432%) S&P 500 1,433 -8.92 (-0.619%) NYSE Composite 8,229 -49.93 (-0.603%) Sponsored By
+Advertisement Your Money NASDAQ Composite 3,052 -13.24 (-0.432%) S&P 500 1,433 -8.92 (-0.619%) NYSE Composite 8,229 +0 (+0%) Sponsored By
 
 Ready To Invest? Find A Broker Here »
 
@@ -238,22 +242,22 @@ The Future Of Mobile
 
 Most Read Read  Commented  Recommended 
 
-*   The 50 Most Dangerous Cities In The World 1,200,573 Views
+*   The 50 Most Dangerous Cities In The World 1,595,781 Views
     
-*   Fast Food Workers Reveal The Menu Items You Should Stay Away From 755,597 Views
+*   Fast Food Workers Reveal The Menu Items You Should Stay Away From 1,012,619 Views
     
-*   50 Years Of 007: 'Bond' Babes Then &. Now 753,657 Views
+*   See What Happened When 'Red Air' Stranded Marines In Taliban Territory 620,482 Views
     
-*   See What Happened When 'Red Air' Stranded Marines In Taliban Territory 580,387 Views
+*   8 Bad Work Habits That Will Kill Your Career 264,565 Views
     
 
 *   Mitt Romney Just Hammered Obama On Libya In A Big, Wide-Ranging Foreign Policy Speech 279 Comments
     
 *   PEW POLL: Mitt Romney Storms Into The Lead Over Obama 198 Comments
     
-*   GALLUP: Obama Bouncing Back Already To 5-Point Lead 110 Comments
+*   It's Time People Realized That The Drudge Report Is A Major Media Property Worth Hundreds Of Millions Of Dollars 147 Comments
     
-*   Actual Photo Of Greek Protesters Welcoming Angela Merkel Right Now 104 Comments
+*   GALLUP: Obama Bouncing Back Already To 5-Point Lead 110 Comments
     
 
 Loading, please wait...
@@ -272,17 +276,17 @@ See All Jobs Startup Document Center Templates To Jump Start Your Business Busin
 By-Laws Financial  
 Model See All » Read Me Joe Weisenthal
 
-| Here's A Message For Everyone Who Says The US Economy Has To Cut The Debt And Take Its Medicine 33
+| Here's A Message For Everyone Who Says The US Economy Has To Cut The Debt And Take Its Medicine 35
 
 Look at the facts.
 
 John Mauldin
 
-| A Thorough Debunking Of The Jobs Report Conspiracy 16
+| A Thorough Debunking Of The Jobs Report Conspiracy 17
 
 Mike "Mish" Shedlock
 
-| Here Are 2 More Ways Obama Got The Unemployment Rate To Drop 15
+| Here Are 2 More Ways Obama Got The Unemployment Rate To Drop 16
 
 WhoWhatWhy
 
