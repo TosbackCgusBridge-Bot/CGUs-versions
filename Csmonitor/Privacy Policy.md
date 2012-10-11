@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Presidential debate 101: How much would US save by cutting off Big Bird?
-2.  Obama Big Bird ad: a mistake, or shrewd? (+video)
-3.  Why watch the vice presidential debate? Entertainment value. (+video)
-4.  State Department admits it knew Libya attack was terrorism
-5.  Putin defends court decision as two Pussy Riot members are sent to prison camp (+video)
+1.  Toyota recall involves record number of cars. Is yours included?
+2.  26 people testified against Lance Armstrong
+3.  Obama Big Bird ad: a mistake, or shrewd? (+video)
+4.  Taliban shooting of 14-year old sparks outrage in Pakistan
+5.  Einstein's math may also describe faster-than-light velocities
 
 About these ads
 
@@ -121,7 +121,7 @@ Editors' Picks:
 *   Dragon capsule reaches space station, chocolate ripple ice cream intact
 *   Decoder Wire: Obama Big Bird ad: a mistake, or shrewd? (+video)
 
-_Photos of the day_ 10.09.12 » Photos of the Day 10/09
+_Photos of the day_ 10.10.12 » Photos of the Day 10/10
 
 **CSMonitor.com** on Facebook
 
