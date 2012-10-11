@@ -107,16 +107,16 @@ Top Rated
 *   Dragon Fist 2 Play The object of the game is to defeat 10 opponents that will..
 *   Squares 2 Play Your aim is to guide your black square around the screen, ..
 
-*   Maple Story Play Explore a totally new and unknown world you have never bee..
 *   x227 Play The aim of the game is to blow away your enemies with mult..
 *   Xevoz Showdown Play The aim of this games is to guide xevoz on an adventurous ..
 *   Spindle Play This is a really cool and violent RPG game where you play ..
 *   Tifosi Play Sports just isn't the same without a riot! In this game yo..
-
 *   Dragon Warrior Play The object of the game is to destroy the evil monsters, re..
+
 *   Golden Bell Quest Play Explore a crazy world, compete with other players and unco..
 *   Jellyfish Shuffleb.. Play The object of the game is to shuffle your jellyfish toward..
 *   Power Fox Play This is a challenging fighting game similar to street figh..
+*   Gem Mania Play This game is far more than just a Gem game, a mix of chall..
 
 Shooting Games
 
