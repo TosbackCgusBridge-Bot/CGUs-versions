@@ -67,13 +67,13 @@ Adotas.com RSS Feeds Follow Adotas.com on Twitter Follow Adotas on Facebook Adot
 
 Latest News
 
+*   Sharethrough Announces New Funding Round to Further Scale Native Video Ads _October 11th 2012_ SAN FRANCISCO (October 11, 2012) – Sharethrough, the native video \[...\] more »
 *   Convertro Releases Industry-First Attribution Solution to Encompass Paid, Owned and Earned Media _October 10th 2012_ SANTA MONICA, CALIF. (October 10, 2012) — Convertro, which measures \[...\] more »
 *   M-Commerce Update: Nearly 10% of All September Purchases Were Made Via Mobile _October 10th 2012_ Affiliate Window  has issued its mobile and m-commerce figures for \[...\] more »
 *   Former WebMD Exec Launches News and Informatio​n Site Dedicated to Travelers _October 10th 2012_ NEW YORK (October 10, 2012) – Travora.com, the first consumer \[...\] more »
 *   New Book Advocates Thinking Big When Branding Your SMB _October 10th 2012_ “Do it right. It can make you giddy, make you \[...\] more »
 *   Interactive Infographic: How Do You Decide To Buy? _October 9th 2012_ Have marketers been able to adapt in a digital world \[...\] more »
 *   Check Your Brand’s Digital Strategy Score _October 9th 2012_ SIM Partners recently published a blog post with a helpful \[...\] more »
-*   EXCLUSIVE: Lotame &. LiveRamp Partner to Combine Online &. Offline Campaign Data for Advertisers _October 9th 2012_ Adotas just got wind of this exclusive news about a \[...\] more »
 
 News Archive
 
