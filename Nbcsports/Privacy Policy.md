@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Despite age gap, some similarities between Biden and Ryan
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Foxconn tells brain-damaged worker to quit hospital
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Leon Halip / Getty Images Week 6's top fantasy pickups
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Alex Trautwig / Getty Images Jets ownership prefers Tebow
     
-    Rotoworld's Chris Wesseling breaks down the best players who still might be available in your league.
+    Pro Football Talk: Owner Woody Johnson says Mark Sanchez is the Jets' first priority at quarterback. But we wonder if Rex Ryan's mention about the QB controversy contradicts what ownership wants.
     
-    PFT: Fujita rips Goodell  |  Players will keep fighting PFT Live: Goodell still too strict on Bountygate? SportsTalk: Making sense of bounty news Ex-NFL great and 'Webster' actor Karras dies at 77 PFT: Packers player says 'refs are out to get us' PFT: Coughlin using no-respect card for 49er game PFT: Rex disagrees with Woody on Jets QBs PFT: Rex Ryan says hit on Cushing wasn't dirty Ad
+    PFT: NFL reportedly probing hit on Cushing PFT: Fujita rips Goodell  |  Players will keep fighting PFT: Who saw this coming from Fujita? Bears prank rookie with $38,091.91 tab Ex-NFL great and 'Webster' actor Karras dies at 77 PFT: Packers player says 'refs are out to get us' Philbin the missing link in Green Bay? Eli poised for NFC title game repeat? Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Patrick Mcdermott / Getty Images Some decisions don't make sense
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Ben Margot / AP Something special about these A's
     
-    DeMarco: It's time to second-guess some postseason decisions such as Alex Rodriguez's spot in the Yankees' batting order and St. Louis starting Jamie Garcia in Game 2.
+    HBT: Oakland continues its unlikely 2012 run with a 9th-inning rally that touched the Tigers for 3 runs and sent their ALDS to a Game 5 on Thursday.
     
-    HBT: Girardi moves A-Rod to DH, keeps him 3rd CSN: Nationals fall flat in home playoff debut Live updates from Giants-Reds Game 4 HBT: Looking ahead to 4 LDS games today HBT: Cards remove Garcia, replace him with Miller HBT: Ryan says Hamilton stopped dipping too soon HBT: Hudson OK with Braves fans trashing field HBT: Wanna buy Rose’s document banning him from MLB? Ad
+    HBT: Tigers can’t turn back to Jose Valverde now After 'gut feeling,' Ibanez delivers for Yanks HBT: Ibanez slugs solo HRs in 9th, 12th innings PBT: Kobe's happy Yanks won, but bummed for A-Rod HBT: Lincecum provides relief  |  Giants power up Giants mash Reds, force Game 5 in NLDS 'Cool' Cards force Game 5   |  'Tough force to stop' HBT: Don't blame Strasburg absence for Nats' flops Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Isifa / Getty Images Contributor 'Russians will probably stay' in KHL
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Chris Young / AP New labor proposal likely coming
     
-    PHT: Though he’s signed with Switzerland’s EV Zug, Henrik Zetterberg knows he’ll be returning to Detroit once the NHL lockout is over. He just isn’t sure if Russian players will follow suit.
+    PHT: After "little progress" made during Wednesday's talks, players reportedly devising a plan that could appeal to NHL.
     
-    NHL, union resume talks to try to resolve lockout PHT: 100% of players would vote against Bettman Fehr: Cap could be on the table if lockout drags PHT: Lundqvist might be heading home PHT: 'We're definitely not going to win' lockout NHL cancels first 2 weeks of schedule PHT: Talk of replacement players gets aired PHT: 'Bubble player' says he wouldn't be scab Ad
+    PHT: Report: 'Little or no progress' in CBA talks PHT: Clowe says 'We’re not going to get pushed around' 'Russians will probably stay' in KHL Labor board in Canada rules lockout can continue PHT: 100% of players would vote against Bettman Fehr: Cap could be on the table if lockout drags PHT: Lundqvist might be heading home PHT: 'We're definitely not going to win' lockout Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines NBC Sports Five things to know for 2012-13
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Jim Rogash / Getty Images Rondo says he's NBA's best PG
     
-    Sports Talk: Insights into Dwight Howard's nagging back injury, the Celtics without Miami-bound Ray Allen, and how good the Brooklyn Nets can be as they open 2012 with a new arena and more.
+    PBT: Scoff if you will, but Celtics star says he's the best because he's got the "whole package" and excels at the mental aspect. But maybe he hasn't heard of Chris Paul.
     
-    PBT: Oddsmakers favor Heat, Lakers, Thunder PBT: Rondo says he's NBA's best point guard PBT: Roy says his knees are in great shape PBT: Howard cleared for full contact scrimmages PBT: Kobe's secretly mentored Dwight for years? PBT: Rose would sit out season if knee not right PFT: Nowitzki might need knee surgery PBT: 'Sheed says college players more 'hungry' Ad
+    PBT: LeBron working on a skyhook? Cool. PBT: Will up-tempo Hawks get it to Horford in post? PBT: Roy says his knees are in great shape PBT: Kobe's happy Yanks won, but bummed for A-Rod Kobe sitting Wednesday due to shoulder pain PBT: Bogut may miss Warriors opener after all PBT: 'Sheed says college players more 'hungry' PFT: Nowitzki might need knee surgery Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines NBC Sports Another overhyped FSU team
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines William Mancebo / Getty Images Leach: Wazzu seniors 'zombie-like'
     
-    SportsTalk: Erik Kuselias and Pat Forde recap Week 6 of the season and are disappointed by another overhyped Florida State team.
+    CFT: Washington State coach doesn't mince words about players he inherited, saying some just have an "empty-corpse quality."
     
-    Sandusky sentenced to at least 30 years O'Brien downplays national coach of the year talk CFT: Stanford might not have top WR vs. ND CFT: Temple DL suspended over kidnapping charge CFT: Arkansas QB in accident, but he'll be OK CFT: TCU QB Pachall out remainder of season CFT: BYU loses QB for season to knee injury CFT: UCLA loses deep-threat WR for Utes Ad
+    CFT: Sooners' Saunders now eligible to play in '12 CFT's Predictions 101: Time for LSU, Texas to shine CFT: Ohio State, Texas schedule home-and-home SportsTalk: Another overhyped FSU team O'Brien downplays national coach of the year talk CFT: Stanford might not have top WR vs. ND Sandusky sentenced to at least 30 years CFT: Temple DL suspended over kidnapping charge Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Membership issues coming to the forefront
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Tiger Tracker: Turkish Airlines World Golf Finals
     
-    As golf continues to push into new countries and territories, the PGA and European Tour's membership policies are coming to the forefront.
+    After easily disposing of Rory McIlroy, Tiger Woods is battling Justin Rose in the semifinals of the Turkish Airlines World Golf Final.
     
-    Woods whips Kuchar. McIlroy match delayed Tiger Tracker: Turkish Airlines World Golf Finals Woods wants to be a Ryder Cup captain – someday Clarke denies being offered Ryder Cup gig For sale: Ghost of Bobby Jones in a glass jar Reports: Videographer assaulted by Turkish golf official Turkey to host $7M European Tour event in 2013 Power Rankings: Frys.com Open Thumbs down: Putter mishap ends Levin's season Venturi gets the call to the Hall of Fame Video: Bubba smashes produce on Tonight Show Ad
+    Tiger Tracker: Turkish Airlines World Golf Finals Woods routs McIlroy, moves to Turkish semifinals Featured groups: Frys.com Open Woods wants to be a Ryder Cup captain – someday Turkey to host $7M European Tour event in 2013 For sale: Ghost of Bobby Jones in a glass jar Reports: Videographer assaulted by Turkish golf official Thumbs down: Putter mishap ends Levin's season Clarke denies being offered Ryder Cup gig Stasi, Waynick advance to Women's Mid-Amateur final Ad
 *   Motors
     SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / standings F1 standings Auto Racing Tickets Shop Headlines Sean Gardner / Getty Images Gordon inching up in the Chase
     
     If nothing else this season, Jeff Gordon has proved to be a man of his word.
     
-    Drivers grumbling after wreckfest at Talladega NASCAR 1st multicar test with '13 cars, new aero IndyCar's Belle Isle track getting facelift Penske still looking for sponsorship for 3rd car Red Bull driver Vettel wins Japanese GP Kahne leads Chase drivers in Talladega qualifying NASCAR outlines 2013 rules and regulations Kligerman earns 1st victory with Talladega win Ad
+    Drivers grumbling after wreckfest at Talladega NASCAR 1st multicar test with '13 cars, new aero Briscoe in IndyCar free-agent speculation IndyCar's Belle Isle track getting facelift Penske still looking for sponsorship for 3rd car Vettel, Alonso to duel for F1 lead at Korean GP Kahne leads Chase drivers in Talladega qualifying NASCAR outlines 2013 rules and regulations Ad
 *   NCAA BK
-    SectionsCollegeBasketballTalk Bracket contest Men's scores Women's scores Video Standings Schedules Stats Rosters Teams Odds Matchups Tickets Shop Headlines Ethan Miller / Getty Images 10 mid-majors who'll be dangerous
+    SectionsCollegeBasketballTalk Bracket contest Men's scores Women's scores Video Standings Schedules Stats Rosters Teams Odds Matchups Tickets Shop Headlines Steve Helber / AP Plenty to watch in transitioning CAA
     
-    CBT: Looking for the latest VCU or Butler? Well, they happen to be among our mid-majors to watch, which also includes a loaded UNLV squad.
+    Will Frantz Massenat and Drexel run away with the VCU-less CAA? We break it all down, including predicted finish, players to watch and more.
     
-    Our preseason All-American team Buy Pearl's 'dream home' for just $2.43 million Texas Southern banned from 2013 postseason CBT: Pastner’s picture used in political rap video CBT: Amaker mostly mum on Casey, Curry CBT: More Binghamton arrests?! Will Gonzaga ever live up to hype? Carson anxious to finally play for Sun Devils Ad
+    CBT: NCAA bans Instagram from recruiting? NC State lands touted twins for 2014 class CBT: NCAA probing Texas PG for impermissible benefits Coach quits two days before practices start New recruits try to push UCLA back to top Kansas' Self to get Wooden Award Battle of the Midway tickets start at $150 Virginia guard Evans could be sidelined for opener Ad
 *   Soccer
     SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Victor Decolongon / Getty Images Women's battle brewing in Seattle
     
     PST: Will the Sounders Women have a rival team in Seattle? Will Alex Morgan and Hope Solo return? Questions to be answered.
     
-    PST: Altidore understands the omission PST: Is excluding Jozy really that shocking? Brazil to face Colombia in November in the US Usain Bolt says future may be in soccer FIFA acts to prevent empty seats at 2014 World Cup PST: Donovan, Shea out for US men's Cup qualifier PST: Do we really need MLS in Minnesota? PST's MLS Rankings: Top 10  |  The rest Ad
+    PST: Favorites emerge for new US women's coach PST: Rating the US men's central midfielders Fabian Johnson and Castillo to miss US qualifier PST: Altidore understands the omission PST: Is excluding Jozy really that shocking? Brazil to face Colombia in November in the US Usain Bolt says future may be in soccer FIFA acts to prevent empty seats at 2014 World Cup Ad
 *   Olympics
     SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines AP Turkey using golf to get Games
     
     OlympicTalk: Turkey decided to point out how great an Olympic host it would be with two major golf events in the weeks following the Ryder Cup.
     
-    OlympicTalk: White's vandalism case delayed OlympicTalk: Phelps’ Beijing rival Cavic retires OlympicTalk: Bolt still considering 400, long jump Usain Bolt says he may try soccer in retirement OlympicTalk: Rory offered Irish flagbearer role Miller skips World Cup opener in Austria OlympicTalk: Bolt aiming for Rio threepeat OlympicTalk: Cook looking for new country Ad
+    OlympicTalk: White's vandalism case delayed OlympicTalk: Phelps’ Beijing rival Cavic retires Groin injury forces Lysacek out of Skate America OlympicTalk: Bolt still considering 400, long jump Usain Bolt says he may try soccer in retirement OlympicTalk: Rory offered Irish flagbearer role Miller skips World Cup opener in Austria OlympicTalk: Bolt aiming for Rio threepeat Ad
 *   More
     SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Anthony Bolante / Reuters 11 former teammates testified
     
     Lance Armstrong challenged the U.S. Anti-Doping Agency to name names and show what it had on him. On Wednesday, it did.
     
-    Friend, lieutenant Hincapie among those testifying Off the Bench: Armstrong wins another triathlon Football coach accused of hitting Utah boy in game Off the Bench: Dad forces kid to climb Mt. Fuji The Week in Sports Pictures Hulk Hogan 'devastated' by release of sex tape Harlem Globetrotter Dizzy Grant: 'Can't get enough' of Olive Garden Isner advances to 3rd round at Shanghai Masters Ad
+    Friend, lieutenant Hincapie among those testifying Reactions to the Armstrong ruling Off the Bench: Armstrong wins another triathlon Football coach accused of hitting Utah boy in game Off the Bench: Dad forces kid to climb Mt. Fuji The Week in Sports Pictures Hulk Hogan 'devastated' by release of sex tape Harlem Globetrotter Dizzy Grant: 'Can't get enough' of Olive Garden Ad
 
 *   Scores
 *   Odds
@@ -184,9 +184,9 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com NFL: Peyton-Brady best rivalry, but there's a catch  
-CFT: Sandusky says conspiracy behind his conviction  
-PBT: Kobe sound like a guy ready to retire in two years  
+Tweet Also on NBCSports.com HBT: No Strasburg not Nats' only issue  |  Giants power up  
+  PFT: Jets need one person to be franchise's voice  
+CBT: Who will be mid-major teams to watch?  |  Previews  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
