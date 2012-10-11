@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Polls Show Tightening US Presidential Race
-*   Taliban Shooting of Girl Shocks Pakistan
+*   Turkey Releases Syrian Plane
+*   Forced Evictions On the Rise in China
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
