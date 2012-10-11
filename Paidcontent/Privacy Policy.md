@@ -28,26 +28,26 @@ GigaOM  
 Comments Off
 
 *   Hot in Media
-    *   States’ ebook settlement: Preliminary approval, and a 2013 hearing 09/17/2012
-    *   Piracy may be commonplace, but music’s outlook is improving 09/17/2012
-    *   Kobo partners with Livraria Cultura to sell e-readers in Brazil 09/15/2012
-    *   Top jobs of the week in digital media 09/15/2012
-    *   Deutsche Telekom, Bertelsmann invest in a German content factory 09/14/2012
+    *   Kings of long form: _New Yorker_, _The Atlantic_ and … BuzzF... 10/10/2012
+    *   Monetizing BitTorrent helps Australian newspaper keep down video costs 10/10/2012
+    *   Google must work harder to avoid European search charges 10/10/2012
+    *   BookShout pulls users’ Kindle, Nook books onto other platforms 10/10/2012
+    *   Kobo acquires French digital software company Aquafadas 10/10/2012
 
 *   Search for:
 *   Related
     
-    *   Warner Bros targets hundreds of Amazon sellers over DVD piracy
+    *   Debate sponsor taps YouTube, Yahoo and AOL to quiz, inform voters
         
-        A recent wave of lawsuits show that Time Warner is getting more aggressive in targeting DVD rings...
+        The Commission on Presidential Debates is partnering with three online media companies to stream debates and educate...
         
-    *   In internet time, two months = nearly eight years
+    *   In Patch redesign, more focus on users — and less on editors
         
-        My two-month contract gig at paidContent turned into eight years of covering the economics of digital media...
+        In a move to increase community and social networking and decrease reliance on paid editors and writers,...
         
-    *   Top digital exec leaves News Corp ahead of company’s split
+    *   Simon &. Schuster to stream book videos on Roku and Blinkx
         
-        Jon Miller, the well-respected chief digital officer of News Corp, is on the way out after presiding...
+        Book publisher Simon &. Schuster is ramping up video distribution, creating content channels and signing with partners...
         
     
     See More Related Stories For:  
@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-The typical Twitter user is a young woman with an iPhone and 208 followers
+Lessons in how to crowdsource journalism from ProPublica
 
 Stay on top of tech news in your inbox
 
