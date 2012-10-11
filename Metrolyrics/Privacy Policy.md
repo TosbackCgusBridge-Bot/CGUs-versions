@@ -194,4 +194,4 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 *   David Guetta  
     Titanium Lyrics
 
-Behold: our new **FREE** Plugin for iTunes, WinAmp and Media Player! Facebook X Twitter X toggle Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
+Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
