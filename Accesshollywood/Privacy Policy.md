@@ -189,7 +189,7 @@ Fresh Faces Of Fall TV
 **Fresh Faces Of Fall TV  
 **
 
-Get to know “Last Resort’s” hot new hunk — Daniel Lissing — who plays SEAL officer James King.
+Get to know “Nashville” darilng Clare Bowen, who plays the luminous Scarlett O’Connor.
 
  
 
