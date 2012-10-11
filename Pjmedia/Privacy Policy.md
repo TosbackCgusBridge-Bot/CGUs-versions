@@ -115,23 +115,23 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Libya Security Officer: ‘The Taliban Was On the Inside of the Building’
-*   Reminder: ObamaCare Kills Jobs
-*   \[VIDEO\] Watch Jay Carney Dance Over Benghazi
+*   Now Up on the PJ Media Homepage
+*   Eric Marshall of Lawyers Committee Opposes Voter Fraud Warnings
+*   Second DNC Voter Fraud Video Hits. House Judiciary Chairman Calls for Firings
 
 More  
 
+*   5 Life Advantages You Acquire From Experiencing Poverty
 *   Uma Unsimulated?
 *   New Prager University VIDEO: Do You Have Free Will?
-*   _Mugged_ and Ann Coulter Derangement Syndrome, Part 2
 
 More
 
-*   Latest O'Keefe Video Shows Obama Campaign Voter Fraud
-*   Left Hook, Right Jab: Obama battered from all sides at S.F. stop
-*   What is the Question?
+*   Of Skulls and Podiums
+*   Sappers in the Wire
+*   Obama on His Own Middle East Record: Zero Percent Success
 
-More   THEY DON’T WANT IT OUT BEFORE THE ELECTION: Andrew Breitbart Documentary Release Delayed Over Rating War With MPAA. I saw a screening last night, and if I were a shill for Obama — as the MPAA is — then I wouldn’t want this in theaters before the election either. ... VIDEO: WH Asked Why Obama Admin Said Benghazi Wasn’t Terrorism For So Many Days? MAYBE REWARDING SENIOR EXECS FOR SPENDING MORE TELLS US SOMETHING ABOUT WHY WASHINGTON SPENDING IS OUT OF CONTROL? More revelations from _The Washington Examiner_ about the Department of Veterans Affairs, a federal bureaucracy with a management culture structured to spend as many tax dollars as possible. Meanwhile, nearly a million vets’ health and disability claims go unfinished for more than four months! ... More Advertisement
+More   _THE HILL:_ GOP senators to White House: Cyber order would be ‘a mistake.’ “The three Republicans contend that only Congress has the power to enact cybersecurity policy that would incentivize companies to follow best practices for securing their networks, including offering them liability protection from legal action if they are hit by a cyberattack. They also argue that only legislation would offer privacy protections for Americans’ sensitive information and provide a long-term solution that would endure ‘from one administration to the next’ for protecting the nation from cyberattacks.” ... DODGED A BIG ONE: Cuba Almost Became a Nuclear Power in 1962: The scariest moment in history was even scarier than we thought. ... More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
