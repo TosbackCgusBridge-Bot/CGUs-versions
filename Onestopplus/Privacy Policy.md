@@ -39,6 +39,7 @@ and Australia. Learn more   Shop the entire European collection from the websit
 *   Registration &. E-mail
 *   Size Charts
 *   About Us
+*   California Transparency in Supply Chains Act
 
 Home   >.     Privacy &. Security
 
