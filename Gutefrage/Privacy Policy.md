@@ -192,55 +192,55 @@ Registrieren Login
 
 **Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Themen der Woche
 
-1.  Bahn
-2.  Fifa
-3.  fifa 13
-4.  Online-Shop
-5.  Periode
-6.  Pickel
-7.  Piercing
-8.  reiten
-9.  Skype
+1.  Amazon
+2.  Bahn
+3.  Fifa
+4.  fifa 13
+5.  Online-Shop
+6.  Periode
+7.  Pickel
+8.  Piercing
+9.  reiten
 10.  Steam
 
-Top-50 Themen Thema Anzahl Apple 82050 Arbeit 63444 Ausbildung 49000 Auto 89382 Beauty 67560 Beruf 76119 Beziehung 70230 Computer 527046 Computerspiele 63184 deutsch 65811 Englisch 51175 ErnÃ¤hrung 49953 essen 70057 Facebook 75239 Fernsehen 59424 Film 98047 Finanzen 58385 Freizeit 256750 FuÃball 50424 Games 121611 Geld 91838 Gesundheit 202290 Haare 80724 Handy 199826 Hilfe 144810 Internet 317092 iPhone 73325 Kinder 50213 KÃ¶rper 48719 Laptop 71902 Liebe 161333 Lied 53290 MÃ¤dchen 54740 Medizin 61770 Minecraft 65967 Musik 275968 PC 276626 PC-Spiele 47649 Problem 53790 PS3 58724 Recht 93787 Schule 230487 Software 56225 Spiele 134456 Sport 108935 Technik 118470 Tiere 63892 TV 53520 Video 51635 Youtube 81129 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 82108 Arbeit 63490 Ausbildung 49036 Auto 89414 Beauty 67613 Beruf 76148 Beziehung 70256 Computer 527187 Computerspiele 63217 deutsch 65837 Englisch 51195 ErnÃ¤hrung 49967 essen 70074 Facebook 75280 Fernsehen 59445 Film 98115 Finanzen 58400 Freizeit 256803 FuÃball 50442 Games 121694 Geld 91881 Gesundheit 202380 Haare 80775 Handy 199947 Hilfe 144884 Internet 317212 iPhone 73383 Kinder 50223 KÃ¶rper 48787 Laptop 71932 Liebe 161443 Lied 53326 MÃ¤dchen 54769 Medizin 61793 Minecraft 65998 Musik 276075 PC 276749 PC-Spiele 47671 Problem 53824 PS3 58747 Recht 93811 Schule 230588 Software 56244 Spiele 134490 Sport 108973 Technik 118503 Tiere 63917 TV 53545 Video 51659 Youtube 81170 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  Shizula
+1.  Anokudavid
     
     Punkte:
     
-    1792
+    1152
     
     Level:
     
-    Shizula
+    Anokudavid
     
-2.  jak22
+2.  TheN3twork
     
     Punkte:
     
-    1199
+    998
     
     Level:
     
-    jak22
+    TheN3twork
     
-3.  coeleste
+3.  MigrantInnen
     
     Punkte:
     
-    1164
+    594
     
     Level:
     
-    coeleste
+    MigrantInnen
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.213.352 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.215.530 gute Fragen_
 
-*   56 Wissen Tiere, dass ihr Leben endlich ist ?
-*   48 MitschÃ¼lerin und Freundin, die lange krank war, kommt wieder zur Schule :)
-*   23 Treppe runtergefallen,soll ich zum Artzt oder warten,bis es von selbst besser wird?
+*   32 Geburtstag wurde vergessen.. Eltern darauf aufmerksam machen oder nicht?
+*   14 Meine Eltern akzeptieren mich nicht
+*   9 Leider ist was tauriges passiert....
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
@@ -254,23 +254,23 @@ gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.907.880
+1.910.442
 
 Anzahl der Fragen
 
-8.211.522
+8.214.875
 
 Anzahl der Antworten
 
-35.769.983
+35.783.591
 
 Anzahl der Tipps
 
-73.789
+73.811
 
 Anzahl der Videos
 
-4.630
+4.634
 
 Blog
 
