@@ -61,6 +61,22 @@ X
     *   Board Shorts
     *   More...
     
+    Sunglasses
+    
+    *   Lifestyle Sunglasses
+    *   Sport Sunglasses
+    *   Interchangeable Sunglasses
+    *   Women's Sunglasses
+    *   More...
+    
+    Watches
+    
+    *   Casual Watches
+    *   Altimeters
+    *   Heart Rate Monitors
+    *   Sport Watches
+    *   More...
+    
     Accessories
     
     *   Hats, Cap &. Beanies
@@ -89,6 +105,22 @@ X
     *   Performance Pants &. Tights
     *   Insulated Pants
     *   Snowboard Pants
+    *   More...
+    
+    Sunglasses
+    
+    *   Lifestyle Sunglasses
+    *   Sport Sunglasses
+    *   Interchangeable Sunglasses
+    *   Women's Sunglasses
+    *   More...
+    
+    Watches
+    
+    *   Casual Watches
+    *   Altimeters
+    *   Heart Rate Monitors
+    *   Sport Watches
     *   More...
     
     Tops
@@ -143,18 +175,10 @@ X
     *   More...
     
     Shoes &. Footwear
-    
     *   Winter Boots &. Shoes
     *   Sandals
     *   Running Shoes
     *   Hiking &. Backpacking Footwear
-    *   More...
-    
-    Socks
-    *   Bike Socks
-    *   Hiking
-    *   Running
-    *   Skiing
     *   More...
 *   Hike &. Camp Sleeping Bags
     
@@ -403,7 +427,18 @@ X
     *   Women's
     *   Kids'
     *   Toddlers &. Infants
-*   Shoes Men's
+*   Shoes Socks
+    
+    *   Hiking Socks
+    *   Running Socks
+    *   Ski Socks
+    *   Snowboard Socks
+    *   Compression Socks
+    *   Casual Socks
+    *   Kids Socks
+    *   More...
+    
+    Men's
     
     *   Hiking &. Backpacking
     *   Running Shoes
@@ -444,7 +479,7 @@ X
     *   Girls
     *   Toddler &. Infants
     *   Infants
-    *   Strollers and Joggers
+    *   More...
     
     Paddle
     
@@ -745,7 +780,7 @@ Other Liberty Media Companies: QVC - MotoSport
 
 *   **SiteId:** 1
 *   **SiteCode:** bcs
-*   **Profile:** 612094956
+*   **Profile:** 612815036
 *   **User Name:**
 *   **Navigation Last Category:**
 *   **Transient:** true
@@ -754,13 +789,13 @@ Other Liberty Media Companies: QVC - MotoSport
 *   **PriceList:** priceList:listPrices
 *   **SalePriceList:** priceList:salePrices
 *   **Is User Registered?** false
-*   **Session:** 39D88FE78C9FB7F9303B2EE341C6EF4E.atgprod1-prod\_public\_8180
+*   **Session:** D1EB6D67C904E1430B90A0FED730C46F.atgprod2-prod\_public\_8080
 *   **protocol:** http
 *   **port:** 80
 *   **storeServerUrl:** http:///Store/home.jsp
 *   **secureStoreServerUrl:** http://www.backcountry.com
 *   **remote ip:** (null)
-*   **x-forwarded-for:** 184.106.117.173, 198.173.2.182, 10.42.6.7
+*   **x-forwarded-for:** 184.106.117.173, 198.63.196.216, 10.42.6.8
 *   Cart Empty  
     
 *   Template parameters
