@@ -113,129 +113,122 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/10/2012 4:17 PM ET
+Updated: 10/11/2012 7:02 AM ET
+
+1.  1 Debate Commission dismisses Raddatz-Obama connection
+2.  2 Unions struggle to help Obama
+3.  3 Angst grows among Obama backers
+4.  4 Martha Raddatz takes center stage
+5.  5 Right defends Raddatz debate role
+6.  6 Mitt's moderate muddle
+7.  7 Obama's Rocky Mountain horror
+8.  8 'Morning Joe' team to host 'Way Too Early'
+9.  9 Goolsbee: Welch cooked my quote
+10.  10 Senate 5: A sleeper in Pa.?
+
+Updated: 10/11/2012 7:02 AM ET
 
 1.  1 Angst grows among Obama backers
-2.  2 Court upholds S.C. voter ID law
-3.  3 Obama's Rocky Mountain horror
-4.  4 Tareq Salahi crashes the election
-5.  5 McCaskill hits Akin with ads featuring rape victims
-6.  6 Mitt's moderate muddle
-7.  7 Romney revives point from dust bin
-8.  8 Romney hits Obama on Big Bird focus
-9.  9 Axe: GOP had a 'diabolical' strategy to oppose Obama
-10.  10 Ryan plan not boost Dems expected
-
-Updated: 10/10/2012 4:17 PM ET
-
-1.  1 Inside the campaign: The Romney rebellion
-2.  2 Romney hits Obama on Big Bird focus
-3.  3 Angst grows among Obama backers
-4.  4 Paul Ryan spars with reporter
+2.  2 Debate Commission dismisses Raddatz-Obama connection
+3.  3 S.C. voter ID law delayed
+4.  4 Unions struggle to help Obama
 5.  5 Obama's Rocky Mountain horror
-6.  6 Court upholds S.C. voter ID law
-7.  7 Battleground Tracking Poll: Dems less enthusiastic
-8.  8 Mitt's unusual in-house ad strategy
-9.  9 Poll: Scott Brown leads by 3 points
-10.  10 Sesame Street requests Obama Big Bird ad be taken down
+6.  6 Mitt's moderate muddle
+7.  7 Tareq Salahi crashes the election
+8.  8 McCaskill hits Akin with ads featuring rape victims
+9.  9 Martha Raddatz takes center stage
+10.  10 Romney hits Obama on Big Bird focus
 
-Updated: 10/10/2012 4:17 PM ET
+Updated: 10/11/2012 7:02 AM ET
 
 1.  1 Inside the campaign: The Romney rebellion
-2.  2 Battleground Tracking Poll: Dems less enthusiastic
+2.  2 Angst grows among Obama backers
 3.  3 Romney hits Obama on Big Bird focus
-4.  4 Angst grows among Obama backers
-5.  5 Paul Ryan spars with reporter
-6.  6 Pew: Romney 49, Obama 45
-7.  7 A veep debate that could really matter
-8.  8 Obama's Rocky Mountain horror
-9.  9 ICE decides not to detain Vargas
-10.  10 Romney foreign policy speech called vague
+4.  4 Debate Commission dismisses Raddatz-Obama connection
+5.  5 S.C. voter ID law delayed
+6.  6 Unions struggle to help Obama
+7.  7 Obama's Rocky Mountain horror
+8.  8 Paul Ryan spars with reporter
+9.  9 Mitt's moderate muddle
+10.  10 Battleground Tracking Poll: Dems less enthusiastic
 
-Updated: 10/10/2012 4:17 PM ET
+Updated: 10/11/2012 7:02 AM ET
 
-1.  1 Obama hit with left hook on TV, online
-2.  2 Obama's Stephanie Cutter knocks Lehrer
-3.  3 Inside the campaign: The Romney rebellion
-4.  4 Romney to Lehrer: I will pull PBS funding
-5.  5 ICE decides not to detain Vargas
-6.  6 Glitch hits Stewart-O'Reilly debate
-7.  7 How Obama reset his campaign
-8.  8 Video potential worry for Obama
-9.  9 Battleground Tracking Poll: Dems less enthusiastic
-10.  10 Romney hits Obama on Big Bird focus
+1.  1 Inside the campaign: The Romney rebellion
+2.  2 ICE decides not to detain Vargas
+3.  3 Obama hit with left hook on TV, online
+4.  4 Glitch hits Stewart-O'Reilly debate
+5.  5 How Obama reset his campaign
+6.  6 Battleground Tracking Poll: Dems less enthusiastic
+7.  7 Angst grows among Obama backers
+8.  8 Romney hits Obama on Big Bird focus
+9.  9 Obama's Stephanie Cutter knocks Lehrer
+10.  10 Debate Commission dismisses Raddatz-Obama connection
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/10/2012 4:17 PM ET
+Updated: 10/11/2012 7:02 AM ET
 
-1.  1 Mitt's moderate muddle
-2.  2 Slain SEAL's mom no Romney fan
-3.  3 Lance Armstrong doping case evidence to include 11 teammates' testimony
-4.  4 Court upholds S.C. voter ID law
-5.  5 Goolsbee: Welch cooked my quote
-6.  6 McCaskill hits Akin with ads featuring rape victims
-7.  7 Anti-abortion groups stand by Romney
-8.  8 Pollster calls Fla. and Va. for Romney
-9.  9 Wash. gov candidate goes 'Gangnam'
-10.  10 Ann Romney talks horses on 'GMA'
+1.  1 Spoiler in Flake-Carmona race?
+2.  2 Brown, Warren spar on substance
+3.  3 Martha Raddatz takes center stage
 
-Updated: 10/10/2012 4:17 PM ET
+Updated: 10/11/2012 7:02 AM ET
 
-1.  1 Mitt's moderate muddle
-2.  2 Slain SEAL's mom no Romney fan
-3.  3 Lance Armstrong doping case evidence to include 11 teammates' testimony
-4.  4 Court upholds S.C. voter ID law
-5.  5 Goolsbee: Welch cooked my quote
-6.  6 McCaskill hits Akin with ads featuring rape victims
-7.  7 Anti-abortion groups stand by Romney
-8.  8 Pollster calls Fla. and Va. for Romney
-9.  9 Wash. gov candidate goes 'Gangnam'
-10.  10 Ann Romney talks horses on 'GMA'
+1.  1 Spoiler in Flake-Carmona race?
+2.  2 Brown, Warren spar on substance
+3.  3 Martha Raddatz takes center stage
+4.  4 Unions struggle to help Obama
+5.  5 'Jihad' ads on Metro stir debate
+6.  6 SCOTUS takes on affirmative action
+7.  7 Mitt's moderate muddle
+8.  8 Slain SEAL's mom no Romney fan
+9.  9 Transcript: Rep. Scott DesJarlais urged abortion
+10.  10 Lance Armstrong doping case evidence to include 11 teammates' testimony
 
-Updated: 10/10/2012 4:17 PM ET
+Updated: 10/11/2012 7:02 AM ET
 
-1.  1 Mitt's moderate muddle
-2.  2 Slain SEAL's mom no Romney fan
-3.  3 Lance Armstrong doping case evidence to include 11 teammates' testimony
-4.  4 Court upholds S.C. voter ID law
-5.  5 Goolsbee: Welch cooked my quote
-6.  6 McCaskill hits Akin with ads featuring rape victims
-7.  7 Anti-abortion groups stand by Romney
-8.  8 Pollster calls Fla. and Va. for Romney
-9.  9 Wash. gov candidate goes 'Gangnam'
-10.  10 Ann Romney talks horses on 'GMA'
+1.  1 Spoiler in Flake-Carmona race?
+2.  2 Brown, Warren spar on substance
+3.  3 Martha Raddatz takes center stage
+4.  4 Unions struggle to help Obama
+5.  5 'Jihad' ads on Metro stir debate
+6.  6 SCOTUS takes on affirmative action
+7.  7 Mitt's moderate muddle
+8.  8 Slain SEAL's mom no Romney fan
+9.  9 Transcript: Rep. Scott DesJarlais urged abortion
+10.  10 Lance Armstrong doping case evidence to include 11 teammates' testimony
 
-Updated: 10/10/2012 4:17 PM ET
+Updated: 10/11/2012 7:02 AM ET
 
-1.  1 Mitt's moderate muddle
-2.  2 Slain SEAL's mom no Romney fan
-3.  3 Lance Armstrong doping case evidence to include 11 teammates' testimony
-4.  4 Court upholds S.C. voter ID law
-5.  5 Goolsbee: Welch cooked my quote
-6.  6 McCaskill hits Akin with ads featuring rape victims
-7.  7 Anti-abortion groups stand by Romney
-8.  8 Pollster calls Fla. and Va. for Romney
-9.  9 Wash. gov candidate goes 'Gangnam'
-10.  10 Ann Romney talks horses on 'GMA'
+1.  1 Spoiler in Flake-Carmona race?
+2.  2 Brown, Warren spar on substance
+3.  3 Martha Raddatz takes center stage
+4.  4 Unions struggle to help Obama
+5.  5 'Jihad' ads on Metro stir debate
+6.  6 SCOTUS takes on affirmative action
+7.  7 Mitt's moderate muddle
+8.  8 Slain SEAL's mom no Romney fan
+9.  9 Transcript: Rep. Scott DesJarlais urged abortion
+10.  10 Lance Armstrong doping case evidence to include 11 teammates' testimony
 
 Showing Last 7 Days
 
-Updated: 10/10/2012 4:17 PM ET
+Updated: 10/11/2012 7:02 AM ET
 
 1.  1 Angst grows among Obama backers
 2.  2 Inside the campaign: The Romney rebellion
 3.  3 Mitt: Obama has made U.S. less safe
-4.  4 How Obama reset his campaign
-5.  5 The jobs numbers truther movement
-6.  6 Unemployment back to Inauguration Day level
-7.  7 How Obama's debate plan bombed
-8.  8 Mitt Romney wins a reprieve
-9.  9 Not debatable: Obama stumbles
-10.  10 First debate hardens partisan lines
+4.  4 Obama moves to lock in Latino vote
+5.  5 How Obama reset his campaign
+6.  6 The jobs numbers truther movement
+7.  7 Lehrer says he was 'effective'
+8.  8 Unemployment back to Inauguration Day level
+9.  9 How Obama's debate plan bombed
+10.  10 Mitt Romney wins a reprieve
 
 News
 
