@@ -213,14 +213,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
+    *   Ibanez lifts Yankees past Orioles
+    *   Valverde: 'It's tough'
+    *   Tigers take Game 2
+    *   Giants force Game 5
     *   Hall of Fame Hopefuls: Jim Thome
-    *   Davis: Week 6 Power Rankings
-    *   Davis: Heisman Watch - Week 6
-    *   Workday: Tony Levine - Part 1
-    *   McReynolds: Tough day at Talladega
+    *   Tigers on Game 3 loss
     *   Find out what you missed from FOX Soccer News last night
-    *   Kubiak on Cushing injury
-    *   The 'Big One' strikes again at 'Dega
+    *   MLB on FOX: Ibanez lifts Yanks past Mets
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -388,7 +388,7 @@ Close Email A Friend Your email has been sent.
 
 **FOX Sports Digital Privacy Policy**
 
-Effective Date: October 4, 2012
+Effective Date: October 10, 2012
 
 Table of Contents:  
 **1\. INTRODUCTION  
@@ -505,33 +505,33 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   Wolves Wednesday: Pacers will get physical
-*   Twins have issues but not in the outfield
-*   Make no mistake, chemistry matters -- a lot
+*   Pekovic's post presence leads Wolves to win
+*   Defending champion Lynx have earned break
+*   Gophers likely to give Shortell one more...
 
-*   CUP: Gordon Still Hunting Championship
-*   CUP: Who’s Hot, Who’s Not, Charlotte Edition
-*   BIKES: 2012 Honda NC700X First Ride
+*   MOTOGP: Ezpeleta On World Superbike Regs
+*   ALMS: ESM Adds Vilander, Lazzaro For PLM
+*   LE MANS: Q&A With Peter Dumbreck
 
-*   TDDTV: Ross Cockrell Interview
-*   Packers Use New IR Rule for Benson
-*   TDDTV: Boone talks Va Tech Game
+*   Avery Edwards talks offers, Duke
+*   POORE'S PICKS: Week Six
+*   Vikings defense striking a hard-hitting pose
 
+*   UFC 153: Silva vs. Bonnar Extended Preview
 *   Mission Improbable: Stephan Bonnar
 *   Ask The Analyst: Getting Back To The Fans
-*   Griffin and Bonnar Part 2
 
-*   Jets owner: Tebow a Jet for 3 years
-*   Kobe to Howard: Be more of an a-hole
-*   Ryan questions Hamilton decision
+*   Aikman questions Dallas fans
+*   Is this Bryce Harper's girlfriend?
+*   Leach upset with 'Zombie-like' Srs.
 
-*   Cardinals vs Nationals 10 de octubre
-*   Giants vs Reds 10 de octubre
-*   Armstrong sigue en problemas
+*   Empate en 'Clásico del Astillero' en NJ
+*   Hablaron los protagonistas de UFC 153
+*   Barrera podría volver en tres meses
 
-*   Boca, Edu heavy-hearted in Gers exit
-*   Hristo Stoitchkov accused of battery
-*   Spanish chief makes racism claim
+*   Lampard ruled out of England match
+*   Del Piero turned down Liverpool bid
+*   Wenger sets sights on January buy
 
 *   *   NFL
     *   NFL Home
