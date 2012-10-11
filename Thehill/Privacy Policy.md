@@ -212,21 +212,21 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Rep. Issa closes in on ClintonPollster pulls out of Fla., NC and Va., says Obama can’t win thereState Dept. officials contradict claims on deadly Libya attackTeam Romney looking for knockout by RyanPelosi offers debate advice to Biden
+Rep. Issa closes in on ClintonPollster pulls out of Fla., NC and Va., says Obama can’t win thereRomney looks to use his debate momentum to blunt Obama in OhioRomney to pull story of slain Navy SEAL from campaign speechesPelosi offers debate advice to Biden
 
 Emailed
 
-Rep. Issa closes in on ClintonPollster pulls out of Fla., NC and Va., says Obama can’t win thereState Dept. officials contradict claims on deadly Libya attackObama campaign comes around to flip-flopping advice from Senate DemsObama’s foreign donors
+Pollster pulls out of Fla., NC and Va., says Obama can’t win thereRep. Issa closes in on ClintonIssa targets Hillary: Big mistakeObama campaign comes around to flip-flopping advice from Senate DemsState Dept. officials contradict claims on deadly Libya attack
 
 Discussed
 
-First lady 'rarely' ventures into the West Wing to offer president policy adviceActor Bill Murray to CNBC: 'I think we ought to be personally responsible'New Obama ad uses Big Bird to hit Romney on deficit, Wall StreetObama camp promises tougher response to Romney in next debateGOP lawmaker calls for change to how government measures unemployment
+First lady 'rarely' ventures into the West Wing to offer president policy adviceNew Obama ad uses Big Bird to hit Romney on deficit, Wall StreetRep. Issa closes in on ClintonRomney campaign seizes momentum with 30 days left before electionSesame Street asks Obama campaign to take down attack ad featuring Big Bird
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Ryan hasn't talked to Palin about VP debate
-*   Nats fever sweeps Congress, K Street
-*   Obama: I was ‘too polite’ during debate
+*   Axelrod: Biden must 'pin Congressman Ryan down'
+*   MORNING READ
+*   Romney moves to center, shows new ease on campaign trail
 
   
 More Briefing Room » Congress Blog
@@ -245,9 +245,9 @@ More Congress Blog » Pundits Blog
   
 More Pundits Blog » Twitter Room
 
+*   Study: Political tweets drive campaign donations
 *   Paul Ryan thanks 'Clueless' actress for support, calls her 'brave'
 *   Michelle Obama tells daughters: 'Just don't dance on the tables'
-*   Romney camp updates Facebook with 'Friday Night Lights' theme
 
   
 More Twitter Room » Hillicon Valley
@@ -259,23 +259,23 @@ More Twitter Room » Hillicon Valley
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Republicans seek audit of energy subsidies
-*   Romney looks to use his debate momentum to blunt Obama in Ohio
-*   Enviro group ups spending to unseat Mass. Sen. Brown
+*   Energy expert Bledsoe launches new venture
+*   US confirms tariffs on China's solar industry
+*   Oil, business groups sue SEC over disclosure rule
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Dem poll: Carmona leads Flake for Arizona Senate
-*   McCaskill releases series of attack ads featuring sexual assault victims
-*   King up big in new Maine Senate poll
+*   Poll: Voters give Romney higher marks on leadership
+*   Poll finds Romney gaining in swing-states Ohio, Virginia, Florida
+*   AFL-CIO ramps up direct mail campaign
 
   
 More Ballot Box » On The Money
 
+*   House Republicans accuse CFTC of putting politics ahead of mission
 *   IRS commissioner to exit next month
 *   Jamie Dimon: I don't mind paying higher taxes to help solve economic crisis
-*   Job openings dip as hiring rises
 
   
 More On The Money » Healthwatch
@@ -301,16 +301,16 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
+*   Collapse of BAE, EADS merger stalls downsizing of defense industry
 *   Report: Yemen detains US citizen on terrorism charges
 *   US 'can't prevent' insider attacks in Afghanistan, says Dempsey
-*   VA isn’t removing chief of staff over conference scandal
 
   
 More DEFCON Hill » Global Affairs
 
+*   Issa wants classified briefing on Libya intel
 *   House Republican calls for reprimands at State Dept.
-*   Witness says more security would not have prevented Libya deaths
-*   Cummings to GOP: Restore funds to embassy security
+*   Officials to House panel: State denied requests for more security in Benghazi
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris UN out to regulate Web Markos Moulitsas Debate a wake up call More Columnists »
