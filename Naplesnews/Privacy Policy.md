@@ -435,25 +435,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 29 comments
-*   In close race, Obama and Romney both showing confidence Published 10/9/2012 at 5:36 a.m. 175 comments
-*   Menu of new restaurants opening in Collier, Lee bodes well for economy Published 10/10/2012 at 5:00 a.m. 8 comments
-*   Swing state: Jewish vote a must to Obama, an opportunity to Romney Published 10/10/2012 at 7:00 a.m. 39 comments
-*   2 displaced by apartment fire in Naples Bath and Tennis Club Updated 10/10/2012 at 2:57 p.m. 6 comments
+*   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 36 comments
+*   Swing state: Jewish vote a must to Obama, an opportunity to Romney Published 10/10/2012 at 7:00 a.m. 68 comments
+*   Deputies investigating machete attack, severed finger at girl's party Published 10/10/2012 at 3:56 p.m. 16 comments
+*   Menu of new restaurants opening in Collier, Lee bodes well for economy Published 10/10/2012 at 5:00 a.m. 13 comments
+*   In close race, Obama and Romney both showing confidence Published 10/9/2012 at 5:36 a.m. 213 comments
 
-Photo Galleries 440 compete in Marco Triathlon Looking Back - Postcards Delnor-Wiggins Pass State Park
+Photo Galleries 440 compete in Marco Triathlon Looking Back - Postcards The Chapel Grill
 
-*   In close race, Obama and Romney both showing confidence Published 10/9/2012 at 5:36 a.m. 175 comments
-*   Swing state: Florida the prize in determining if Obama or Romney wins White House Published 10/7/2012 at 8:00 a.m. 253 comments
+*   In close race, Obama and Romney both showing confidence Published 10/9/2012 at 5:36 a.m. 213 comments
+*   Swing state: Jewish vote a must to Obama, an opportunity to Romney Published 10/10/2012 at 7:00 a.m. 68 comments
 *   Romney: U.S. should be more assertive on world stage Published 10/8/2012 at 5:25 a.m. 77 comments
-*   Man dies after winning roach-eating contest Published 10/8/2012 at 9:21 p.m. 49 comments
-*   Boy struck by lightning at football practice dies Published 10/7/2012 at 3:10 p.m. 55 comments
+*   Man dies after winning roach-eating contest Published 10/8/2012 at 9:21 p.m. 50 comments
+*   Letter: Suspicion abounds Published 10/10/2012 at 4:00 a.m. 50 comments
 
-*   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 29 comments
+*   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 36 comments
 *   Stan's gone but his Goodland restaurant opens for season Published 10/8/2012 at 5:00 a.m. 6 comments
 *   Diplomat charged with DUI after crashing into tree, claims immunity Published 10/3/2012 at 5:00 p.m. 40 comments
 *   In the Know: Is Sam Snead’s Tavern reopening in North Naples? Published 10/3/2012 at 5:20 a.m. 16 comments
-*   King Richard's amusement center may be rezoned for car dealership Published 10/1/2012 at 5:15 a.m. 36 comments
+*   Teachers take on kids' nutrition with a book set in Naples Published 10/9/2012 at 4:00 a.m. 0 comments
 
 Weather
 
@@ -461,40 +461,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 85° Partly Cloudy Wind: NW 9mph Today 87° 69° Thu 05:00 AM Clear Temp: 71° Thu 05:00 PM Mostly Sunny Temp: 86° Fri 05:00 AM Clear Temp: 70°
+Currently 70° Fair Wind: NE 9mph Today 87° 69° Thu 08:00 PM Clear Temp: 79° Fri 08:00 AM Mostly Sunny Temp: 71° Fri 08:00 PM Clear Temp: 80°
 
-Feels Like: 71°
+Feels Like: 79°
 
-Humidity: 87%
-
-Precip: 10%
-
-Feels Like: 88°
-
-Humidity: 51%
+Humidity: 64%
 
 Precip: 5%
 
-Feels Like: 70°
+Feels Like: 71°
 
-Humidity: 90%
+Humidity: 84%
+
+Precip: 5%
+
+Feels Like: 82°
+
+Humidity: 62%
 
 Precip: 5%
 
 More Weather » Calendar
 
-*   Wednesday Oct 10
 *   Thursday Oct 11
 *   Friday Oct 12
+*   Saturday Oct 13
 *   More BROWSE Icon
-
-*   Women Business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
-*   Women business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Yamuna Body Rolling Class Etudes de Ballet 8:50 a.m.
-*   Walking Tour: Naples Historic District Palm Cottage - Naples Historical Society 9 a.m.
-
-More Events »
 
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   People First seminar hosted by WCI Communities benefits United Way Pelican Preserve 8:30 a.m.
@@ -509,6 +501,14 @@ More Events »
 *   Baby boot camp Miromar Outlets 9 a.m.
 *   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
 *   Mangrove Estuary Kayak Tour with Up A Creek Kayak Tours Waters of Rookery Bay Reserve 9 a.m.
+
+More Events »
+
+*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
+*   Third Street South Farmers Market Third Street South 7:30 a.m.
+*   Walk to End Alzheimer's - Collier County Gulfview Middle School 8 a.m.
+*   2012 Trek Breast Cancer Awareness Ride Trek Bicycle Store of Estero 8 a.m.
+*   Wild Everglades Womens Fishing University Port-of-the-Islands 8 a.m.
 
 More Events »
 
