@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Plane Crash  9:00PM Sons of Guns (Season 3)Shotgun Superstars vs. Red Jacket TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Fast N' LoudOne of a Kind Woodill 8:00PM Fast N' LoudFast &. Furious Fairmont 9:00PM Fast N' LoudHoly Grail Hot Rod TV SHOWS
 
 American Chopper
 
@@ -540,35 +540,38 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 10,  
-4:00 pm  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 11,  
+7:00 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 11,  
+7:30 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 11,  
+8:00 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 11,  
+8:30 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 11,  
+9:00 am  
 60 min(s)  
-**Sons of Guns (Season 3)**  
-_Red Jacket Snow Blaster_  
- An avalanche expert challenges Red Jacket to build a gun that sav  
-Oct 10,  
-5:00 pm  
-60 min(s)  
-**Sons of Guns (Season 3)**  
-_Red Jacket Challenges Mythbusters_  
- The Red Jacket team attempts to un-bust a busted myth from Mythbu  
-Oct 10,  
-6:00 pm  
-60 min(s)  
-**World's Scariest Plane Landings**  
- Experience the most frightening moments in aviation, with incredi  
-Oct 10,  
-7:00 pm  
-120 min(s)  
-**Plane Crash**  
- In a TV first, Discovery Channel remote control crashes a 727 pla  
-Oct 10,  
-9:00 pm  
-60 min(s)  
-**Sons of Guns (Season 3)**  
-_Shotgun Superstars vs. Red Jacket_  
- Benelli USA challenges Red Jacket to improve upon their M-4 milit  
-**More Listings »**   Shop Discovery Store      
+**The FBI Files**  
+_The Shootist_  
+ In the late 1980s, the FBI matches wits with a cunning bank robbe  
+**More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
+$47.95  
+  **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
+$12.95   **Discovering Ardi DVD**  
+$19.95   **Discovery Channel Polymer Chemistry Set**  
+$19.95        
 
 our sites
 
