@@ -12,7 +12,7 @@ PGA Tour
     *   Miccosukee Championship
 *   Titleist On Tour
 
-Frys.com Open View Tee Times >.
+Frys.com Open View Leaderboard >.
 
 *   10:50 AM ET
 *   R.Allenby
@@ -283,14 +283,14 @@ Prev Next
 
 *   Healthy Week
 *   Ken Venturi
+*   Turkish Airlines World Golf Final
 *   Tiger Woods
-*   Ryder Cup
+*   Big Break Greenbrier
 *   Rory McIlroy
-*   Lee Westwood
-*   Morning Drive
 *   Charl Schwartzel
-*   Champions Tour
-*   Byron Nelson
+*   Matt Kuchar
+*   Ryder Cup
+*   Morning Drive
 *   Webb Simpson
 
 **Privacy Policy**
@@ -532,7 +532,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 232,500 facebook.com/GolfChannel 119,194 twitter.com/GolfChannel Newsletter
+Social 232,535 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
