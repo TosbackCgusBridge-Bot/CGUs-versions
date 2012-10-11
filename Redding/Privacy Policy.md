@@ -267,24 +267,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Cottonwood man accused of murdering wife pleads not guilty Updated 10/9/2012 at 5:02 p.m. 36 comments
-*   Thomas Sowell: America's phony in chief Published 10/10/2012 at 12:00 a.m. 106 comments
-*   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 41 comments
-*   Cottonwood man pleads not guilty to murder. Mark Duenas charged in May killing of wife Published 10/9/2012 at 11:16 p.m. 20 comments
-*   Thomas Wendt: 'Thou shalt not kill'  isn't that clear? Published 10/9/2012 at 12:00 a.m. 96 comments
+*   Thomas Sowell: America's phony in chief Published 10/10/2012 at 12:00 a.m. 212 comments
+*   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 48 comments
+*   UPDATED: One vehicle flips in wreck at Highway 273 and Branstetter Updated 10/10/2012 at 11:27 a.m. 8 comments
+*   Man arrested at LA airport with a suitcase full of weapons Published 10/10/2012 at 7:48 a.m. 26 comments
+*   Cottonwood man pleads not guilty to murder. Mark Duenas charged in May killing of wife Published 10/9/2012 at 11:16 p.m. 25 comments
 
 Photo Galleries Supersonic skydiver Stillwater Pow Wow 2012 Central Valley beats West Valley in…
 
-*   Thomas Sowell: America's phony in chief Published 10/10/2012 at 12:00 a.m. 106 comments
-*   Thomas Wendt: 'Thou shalt not kill'  isn't that clear? Published 10/9/2012 at 12:00 a.m. 96 comments
+*   Thomas Sowell: America's phony in chief Published 10/10/2012 at 12:00 a.m. 212 comments
+*   Thomas Wendt: 'Thou shalt not kill'  isn't that clear? Published 10/9/2012 at 12:00 a.m. 157 comments
 *   Fred Boest: Romney full of hot air Published 10/8/2012 at 12:00 a.m. 83 comments
 *   Sandy Jarosz: Showing respect is not weakness Published 10/8/2012 at 12:00 a.m. 65 comments
-*   Jean McClenon: Turn nation around with Romney/Ryan Published 10/8/2012 at 12:00 a.m. 52 comments
+*   Editorial: Can California afford the cost of cleaner air? Published 10/10/2012 at 12:00 a.m. 55 comments
 
 *   UPDATED: Cottonwood man killed his wife, admitted it during 911 call, deputies say Published 10/5/2012 at 2:18 p.m. 59 comments
+*   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 48 comments
 *   UPDATED: Fatal shooting reported in Trinity County Published 10/3/2012 at 6:53 a.m. 46 comments
 *   Family takes anti-abortion stance in refusing to return dog to Haven Humane Published 10/2/2012 at 3:27 p.m. 98 comments
-*   New eagle cams in place as Patriot, Liberty return to Redding Published 10/4/2012 at 11:12 p.m. 3 comments
 *   UPDATED: Sheriff: Teens burglarize Palo Cedro bank twice with tricks picked up from heist movies Published 10/7/2012 at 9:27 a.m. 64 comments
 
 Weather
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 75° Fair Wind: Calm Today 80° 52° Thu 02:00 AM Partly Cloudy Temp: 56° Thu 02:00 PM Partly Sunny Temp: 78° Fri 02:00 AM Partly Cloudy Temp: 54°
+Currently 51° Fair Wind: Calm Today 81° 52° Thu 05:00 PM Mostly Sunny Temp: 79° Fri 05:00 AM Partly Cloudy Temp: 51° Fri 05:00 PM Mostly Cloudy Temp: 68°
 
-Feels Like: 56°
+Feels Like: 79°
 
-Humidity: 59%
-
-Precip: 3%
-
-Feels Like: 78°
-
-Humidity: 30%
+Humidity: 29%
 
 Precip: 2%
 
-Feels Like: 54°
+Feels Like: 51°
 
 Humidity: 66%
 
 Precip: 3%
+
+Feels Like: 68°
+
+Humidity: 38%
+
+Precip: 6%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Wednesday Oct 10
 *   Thursday Oct 11
 *   Friday Oct 12
+*   Saturday Oct 13
 *   More BROWSE Icon
-
-*   The city of Shasta Lake Chamber of Commerce presents the 10th annual State of the City Luncheon John Beaudet Community Center 11:30 a.m.
-*   North Valley Art League exhibit, Judith King Carter House Art Gallery 5 p.m.
-*   Clutter Support Group Redding Library 6 p.m.
-*   Gonzalo Bergara Quartet Gypsy Jazz State Theatre 7:30 p.m.
-*   Genealogy Assistance Redding Library 1 p.m.
-
-More Events »
 
 *   Retired Teachers October Luncheon, Meeting Shasta Senior Nutrition 11 a.m.
 *   Mechanics Lien Law Shasta Builder's Exchange noon
@@ -353,6 +345,14 @@ More Events »
 *   Big Bike Weekend AMA National Gypsy Tour Holiday Inn noon
 *   Casey D. Johnson Acoustic Country concert Holiday Inn 3:30 p.m.
 *   Anderson FAA quarterly drive-thru dinner Anderson High School 4:30 p.m.
+
+More Events »
+
+*   McCloud Bike-toberfest Historic McCloud, CA 7 a.m.
+*   McCloud Bike-toberfest See Description 7 a.m.
+*   Weaver Basin Trail 50k, 30k, 10k Trinity High School - Weaverville 8 a.m.
+*   Wintu Audubon's Second Saturday Bird Walk at Shasta College Shasta College 8 a.m.
+*   Wintu Audubon's Second Saturday Bird Walk at Turtle Bay Turtle Bay Exploration Park 8 a.m.
 
 More Events »
 
