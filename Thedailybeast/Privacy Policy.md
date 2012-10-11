@@ -132,50 +132,50 @@ If you have any questions or concerns about this privacy policy, you may contact
 
 Stories We Like
 
-1.  Buzzfeed 27 Halloween Costumes That Your Childhood Self Would Be Proud Of
-2.  Your Tango How Red Wine Ruined My Marriage
-3.  Buzzfeed If You Want to Win Over Tom Hanks, Send Him a Typewriter
-4.  Pop Sugar Nicole Kidman Transforms Into Grace Kelly on Set
-5.  Your Tango See What Happens on the Set of an Adult Film Shoot
-6.  Us Weekly Clueless Cast: Now &. Then
-7.  Buzzfeed 13 Brilliant Pumpkin-Carving Tricks
-8.  Ask Men How to Prepare for a Job Interview
-9.  Huffington Post Politics Poll Shows a 'Wipe Out' of Obama Lead
+1.  Stylelist A Look Back at Gossip Girl's Finest Fashion Moments
+2.  Your Tango Hilarious London Tube Prank Signs
+3.  Your Tango Online Dating: What You're Doing Wrong
+4.  Huffington Post Tech We Barely Recognize eBay Anymore
+5.  Pop Sugar Blake Lively and Her Diamond Make Their Post-Wedding Debut
+6.  Buzzfeed 30 Black &. White Photos That Will Haunt Your Dreams
+7.  Us Weekly Lindsay Lohan Gives Mom Dina $40K, Accuses Her of Using Cocaine
+8.  Ask Men The 49 Most Influential Men of 2012
+9.  Huffington Post Politics First Lady Rejects Criticism of Husband's Debate Performance
 
   Most Popular
 
 1.  My Proof of Heaven
-2.  Why Bill’s Still Got the Magic
-3.  Why is David Siegel so Mad?
-4.  Obama’s Challenge: Making Mitt Unacceptable Again
-5.  Microsoft’s Massive Halo Launch
+2.  Rich Old Guys Who Hate Obama
+3.  Kevin and Kole: A DADT Story
+4.  Stacey Dash’s Looks Matter
+5.  13 Dirtiest TV Sex Scenes
 
   Other News Entertainment
 
+*   Who Wore It Better?
+*   Week in Photos for Oct. 12, 2012
 *   Tori Spelling Reveals Scary Pregnancy Struggle, Shares New Baby Pics
-*   Eye Candy: Hugh Jackman
-*   Fake-Pregnant Sofia Vergara, Plus More Funny Celeb Photos!
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   Obama explains his debate performance: ‘I was just too polite’
-*   Christopher Walken and ‘Psychopaths’ interpret ‘Honey Boo Boo’ dialogue — VIDEO
-*   Police called after Lohan/Lohan dispute. what were they fighting about?
+*   ‘Supernatural’ react: ‘I’m not leaving here without you.’
+*   ‘Chicago Fire’ premiere: Hot enough for you?
+*   Who should play Harry Osborn in ‘The Amazing Spider-Man 2′?
 *   **Get More from EW.com**
 
 Entertainment
 
-*   40 Black &. White Photos That Defy Explanation
-*   Inarguable Proof That Mark Sanchez Is Satan
-*   Career Confidential: The Child Services Worker Who Takes Kids Away From Their Parents
+*   The End Of Flip-Flops
+*   What Men Really Think About Unintended Pregnancy
+*   State Department Stays Vague On Benghazi Causes
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Romney Vows to be "Pro-Life" President
-*   Mother of Slain Navy SEAL Scolds Romney
-*   Vaginal Probe Stars in New Ad
+*   Latest Swing State Polls
+*   Voters Like Moderate Mitt Better
+*   Lawmaker Says "Some Girls Rape Easy"
 *   **Get More from Political Wire**
 
 The Daily Beast
