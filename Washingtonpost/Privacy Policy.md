@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Paul Ryan: Our abortion position...**  
-        Election 2012 | Felicia Sonmez
+    *   **Ryanâs congressional opponent wants...**  
+        Election 2012 | Vanessa Williams
     
-    *   **Tim Kaine vs. George Allen, Part...**  
-        The Fact Checker | Josh Hicks
+    *   **A complete guide to the deluge...**  
+        The Fact Checker | Glenn Kessler
     
-    *   **Could Colorado be another Florida?**  
-        She The People | Sandra Fish
+    *   **Michelle Obama: âI havenât had...**  
+        She The People | Krissah Thompson
     
-    *   **Joe Bidenâs greatest (and not-so-greatest)...**  
-        The Fix | Sean Sullivan
+    *   **5 things to watch for in the vice...**  
+        The Fix | Chris Cillizza and Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **The tyranny of captcha**  
+    *   **Congratulations to the Twitter...**  
         ComPost | Alexandra Petri
     
-    *   **Mitt Romney's tax mythology, made...**  
+    *   **Happy Hour Roundup**  
         The Plum Line | Jonathan Bernstein
     
-    *   **Romney-Ryanâs bizarre position...**  
-        PostPartisan | Jonathan Bernstein
+    *   **PostScript: Milbank and Big Bird**  
+        PostPartisan | Rachel Manteuffel
     
-    *   **The Libya cover-up**  
+    *   **Morning Bits**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **PM Update: Cold front brings freshly...**  
-        Capital Weather Gang | Ian Livingston
+    *   **Forecast: Brisk start, mild finish...**  
+        Capital Weather Gang | David Streit
     
     *   **Ask Tom Sietsema: Cashionâs eat...**  
         Going Out Gurus | Justin Rude
     
-    *   **Drug arrests spike at George Mason**  
-        Crime Scene | Justin Jouvenal
+    *   **Distraught man prompts evacuations...**  
+        Crime Scene | Maggie Fazeli Fard
     
-    *   **OpenBand files $50 million lawsuit...**  
-        Virginia Politics | Caitlin Gibson
+    *   **Local unions rally against Montgomery...**  
+        Maryland Politics | Victor Zapana
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -100,14 +100,14 @@
     *   **ESPN The Magazine: Has Ovechkin...**  
         Capitals Insider | Katie Carrera
     
-    *   **Bryce Harperâs red contact lenses**  
+    *   **St. Peter School has Natitude**  
         DC Sports Bog | Dan Steinberg
     
-    *   **Redskins preparing for possibility...**  
-        The Insider | Mark Maske
+    *   **Vikings offensive player to watch...**  
+        The Insider | Mike Jones
     
-    *   **Frank Robinsonâs first pitch**  
-        Nationals Journal | Dan Steinberg
+    *   **Craig Stammen hasnât match his...**  
+        Nationals Journal | Adam Kilgore
 *   National In National
     
     *   Energy &. Environment
@@ -123,10 +123,10 @@
     
     Blogs &. Columns
     
-    *   **The cat is out of the box**  
-        Ideas@Innovations | Dominic Basulto
+    *   **Mars rover team resumes soil work**  
+        Ideas@Innovations | Emi Kolawole
     
-    *   **Leading the Federal Election Commission**  
+    *   **Great leadership profiles of Paul...**  
         PostLeadership | Jena McGregor
     
     *   **Unaffiliated vote may become âas...**  
@@ -145,17 +145,17 @@
     
     Latest Stories
     
+    *   **Russia wants explanation for Turkish...**  
+        Liz Sly
+    
+    *   **Shooting of Pakistani teen prompts...**  
+        Richard Leiby
+    
     *   **Turkey forces Syrian plane to land**  
         Liz Sly
     
-    *   **Russia to withdraw from arms pact**  
-        Will Englund
-    
-    *   **Clerics quiet on attack on Pakistani...**  
-        Richard Leiby and Michele Langevine Leiby
-    
-    *   **Malaysian growth hides vulnerability**  
-        Jeremy Grant | Financial Times
+    *   **Egypt releases partial draft of...**  
+        Abigail Hauslohner
 *   Business In Business
     
     *   Economy
@@ -173,14 +173,14 @@
     *   **Youâve got (too much) mail**  
         The Color of Money | Michelle Singletary
     
-    *   **China responds to Huawei, ZTE accusations...**  
+    *   **WSJ: Japanâs Softbank courting...**  
         Post Tech | Hayley Tsukayama
     
     *   **Why cheaper computers lead to higher...**  
         Steven Pearlstein
     
-    *   **How changing patientsâ socks could...**  
-        Wonkblog | Sarah Kliff
+    *   **Wonkbook: Biden vs. Ryan, the preview**  
+        Wonkblog | Ezra Klein
 *   Tech In Technology
     
     *   Policy
@@ -191,10 +191,7 @@
     
     Blogs &. Columns
     
-    *   **Online retailer eBay launches new...**  
-        Hayley Tsukayama
-    
-    *   **China responds to Huawei, ZTE accusations...**  
+    *   **WSJ: Japanâs Softbank courting...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +208,16 @@
     
     Blogs &. Columns
     
-    *   **The pros and cons of online wine...**  
-        All We Can Eat | Dave McIntyre
+    *   **No one expects the Spanish (ham)...**  
+        All We Can Eat | Tamar Haspel
     
     *   **Natsâ âTake on Meâ fans arenât...**  
         The Style Blog | Maura Judkis and Chris Richards
     
-    *   **Taking family dinners from daunting...**  
-        On Parenting | Mari-Jane Williams
+    *   **Better school food = hungrier kids...**  
+        On Parenting | Janice D'Arcy
     
-    *   **In other news: Beyonce bails on...**  
+    *   **Sarah Palin revealed by dad, brother...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,13 +237,13 @@
     *   **Wolf Trap snares Hollywood Bowl...**  
         Classical Beat | Anne Midgette
     
-    *   **Alex Karras: His acting career...**  
+    *   **The âHitchcockâ trailer**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **CBS pulls âMade in Jerseyâ from...**  
+    *   **âThe X Factorâ: Final cuts at boot...**  
         The TV Column | Lisa de Moraes
     
-    *   **Post adds âDustinâ comic**  
+    *   **7 Top Debate Cartoons**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -267,10 +264,10 @@
 In the News
 
 *   Lance Armstrong
-*   Alex Karras
 *   VP debate
-*   Toyota recall
-*   iPad mini
+*   Nationals
+*   Alex Karras
+*   National Book Awards
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -319,98 +316,106 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Obama, Romney face most narrow electoral map in recent history
-
-Amy Gardner 
-
-Vice presidential debateâs No. 1 rule: If chatterâs about Biden and Ryan, theyâre doing it wrong
-
-David A. Fahrenthold 
-
-Where Obama and Romney stand on the issues, from economy and education to taxes and war
-
-Associated Press 
-
-State Dept. downgraded security in Libya before deadly attack, ex-officer claims
-
-Anne Gearan 
-
-Romney appears to pivot on abortion
-
-Nia-Malika Henderson 
-
-NL Division Series Game 3: Nationals vs. Cardinals The $5 trillion tax cut that isnât
-
-Robert J. Samuelson 
-
-USADA: Armstrong at center of ring Forget Big Bird. What about the Snuffleupagus in the room?
+Letting us in on a secret
 
 Dana Milbank 
 
-How Biden can win the vice presidential debate
+Ann Romneyâs âGMAâ spot: Escaped a grilling, but kitchen goes on the attack
 
-Matt Miller 
+Lisa De Moraes 
 
-Romney says his â47 percentâ remarks were âcompletely wrongâ
+Sherrod Brownâs lessons for Obama
 
-Philip Rucker 
+E.J. Dionne Jr. 
 
-Pakistani girl still unconscious after surgery. clerics mostly silent on shooting
+Romney shifts to more moderate stances on taxes, immigration, health care, education
 
-Richard Leiby 
-
-Publicist: Debbie Reynolds hospitalized after bad reaction to medication, cancels shows
-
-Associated Press 
-
-Will women fall for Mittâs moderate makeover?
-
-Greg Sargent 
-
-Obamaâs Libya statements become ludicrous
-
-Jennifer Rubin 
-
-What women voters want
-
-Kathleen Parker 
-
-National Book Award finalists announced
-
-Ron Charles 
-
-USADA releases doping report on Armstrong. testimony from 11 teammates helped build case
-
-Associated Press 
+Karen Tumulty 
 
 China says accusations in House report are âgroundlessâ
 
 William Wan 
 
-Supreme Court divided over affirmative action in college admissions
+USADA says it has âconclusive and undeniable proofâ of Lance Armstrong doping conspiracy
 
-Robert Barnes 
+Liz Clarke 
+
+National Book Award finalists announced
+
+Ron Charles 
+
+Al Gore has thrived as green-tech investor
+
+Carol D. Leonnig 
+
+State Dept. acknowledges rejecting requests for more security in Benghazi
+
+Anne Gearan 
+
+Stephen Strasburg isnât the Nationalsâ problem, itâs the rest of the rotation
+
+Thomas Boswell 
+
+Obamaâs selective defense of the Constitution
+
+George F. Will 
+
+A conservative split over the Middle East
+
+Fareed Zakaria 
+
+Russia denounces Turkish seizure of Syrian aircraft with 17 Russians aboard
+
+ByLiz Sly 
+
+A girlâs courage challenges us to act
+
+Laura Bush 
+
+For Nationals fans, a joyous day of playoff baseball ends in heartache
+
+Steve Hendrix 
+
+Oil in new Gulf slick matches that of 2010 spill
+
+Steven Mufson 
+
+Nobel Prize in physics goes to federal scientist
+
+Joe Davidson 
+
+The Talibanâs cowardly act
+
+Editorial Board 
+
+How Biden can win the vice presidential debate
+
+Matt Miller 
+
+Vice presidential debateâs No. 1 rule: If chatterâs about Biden and Ryan, theyâre doing it wrong
+
+David A. Fahrenthold 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Obama, Romney face most narrow electoral map in recent history
-    2.  Vice presidential debate's No. 1 rule: If chatter's about Biden and Ryan, they're doing it wrong
-    3.  Where Obama and Romney stand on the issues, from economy and education to taxes and war
-    4.  State Dept. downgraded security in Libya before deadly attack, ex-officer claims
-    5.  Romney appears to pivot on abortion
+    1.  Letting us in on a secret
+    2.  Ann Romney's 'GMA' spot: Escaped a grilling, but kitchen goes on the attack
+    3.  Sherrod Brown's lessons for Obama
+    4.  Romney shifts to more moderate stances on taxes, immigration, health care, education
+    5.  China says accusations in House report are 'groundless'
 *   Top Videos
-    1.  State Department official: We didn't link Libya attack to anti-Islam video
-    2.  Mitt Romney flip-flops his way up the polls
-    3.  Could Obama's assault on Romney's Big Bird comments hurt the GOP ticket ... or the president? â Trail Mix
-    4.  Fungal meningitis outbreak kills 12, spreads to 10 states
-    5.  Pakistani Taliban shoot 14-year-old girl activist
+    1.  Election 2012: The path to 270 electoral votes
+    2.  Drew Brees joins One Direction for Pepsi ad
+    3.  Congressional hearing: Libya attacks
+    4.  Magic Johnson promotes first over-the-counter HIV testing kit
+    5.  Led Zeppelin premiere 'Celebration Day'
 *   Top Galleries
-    1.  The 25 wealthiest and 25 least wealthy members of Congress
-    2.  Eat like the Obamas
-    3.  Oorah! U.S. Marines in action
-    4.  2012 Nobel laureates
-    5.  Taliban says it shot 14-year-old 'infidel' who spoke for girls
+    1.  Taliban says it shot 14-year-old 'infidel' who spoke for girls
+    2.  The 25 wealthiest and 25 least wealthy members of Congress
+    3.  Astronomy photos of the year
+    4.  Alex Karras, defensive lineman and actor, dies at 77
+    5.  Nationals shut out by Cardinals in Game 3
 
 Today's Paper
 
@@ -426,10 +431,7 @@ Live Q&A, Noon ET
 
 Amy Argetsinger and Roxanne Roberts discuss your favorite gossip, celebrity sightings and their recent columns.
 
-**11:00 AM** **Ask Tom: Rants, raves and questions on the DC dining scene**   LIVE NOW **12:00 PM** **Free Range on Food: Farmers in residence, Chicago barbecue and more**   LIVE NOW **2:00 PM** **The Web Hostess: What you're missing (or not) on the internet**
-
-*   Earlier Today
-    *   **12:00 PM** **Career Coach takes your questions** **12:00 PM** **The Reliable Source Live**
+**11:00 AM** **Tracee Hamilton discusses local and national sports -- and whatever else you want to talk about.** **11:00 AM** **Chat about cozy glamour with Miles Redd | Home Front** **12:00 PM** **"Dinner: A Love Story" author Jenny Rosenstrach talks about family dinners** **12:00 PM** **Deconstructing dinner with Jenny Rosenstrach of "Dinner: A Love Story"** **1:00 PM** **Got Plans: Advice from the Going Out Gurus** **2:00 PM** **Celebritology Live**
 
 **Weekly schedule, past shows**
 
