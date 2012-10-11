@@ -1,9 +1,10 @@
 You need to enable Javascript.
 
 *   English
-    *   Deutsch
+    *   FranÃ§ais
     *   Nederlands
     *   PortuguÃªs (Europeu)
+    *   Deutsch
     *   PortuguÃªs (Brasil)
     *   EspaÃ±ol (AmÃ©rica)
     *   EspaÃ±ol (EspaÃ±a)
