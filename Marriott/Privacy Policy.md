@@ -503,10 +503,10 @@ Within Marriott.com are numerous other Marriott Web sites that are accessible fr
 *   Affiliates
 *   Mobile
 
-*   Facebook
 *   Twitter
 *   Blog
 *   Insiders
+*   Facebook
 
 Top Destinations
 
