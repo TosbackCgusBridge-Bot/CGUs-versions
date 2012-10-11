@@ -77,6 +77,7 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Rugby
         *   Track &. Field
         *   Running
+        *   Swimming
         *   Golf
         *   Cheerleading
         *   Gymnastics
@@ -132,7 +133,6 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Running Clothes
         *   Running GPS
         *   Running Accessories
-        *   Jogging Strollers
         *   Heart Rate Monitors
         *   View All »
     *   Athletic Training
@@ -215,7 +215,6 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Heart Rate Monitors
         *   Pedometers
         *   Sports Medicine
-        *   Sunglasses
         *   Shoe &. Foot Care
         *   Nike+
         *   Backpacks &. Duffles
@@ -269,9 +268,9 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   View All »
         
         Accessories
-        *   Backpacks &. Duffles
         *   Socks
-        *   Sunglasses
+        *   Winter Accessories
+        *   Backpacks &. Duffles
         *   Hats &. Headbands
         *   Running Accessories
         *   View All »
@@ -284,6 +283,7 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Baseball &. Softball
         *   Volleyball
         *   Tennis
+        *   Swimming
         *   Yoga
         *   Skiing &. Snowboarding
         *   View All »
@@ -377,7 +377,6 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Roller Skates
         *   Scooters &. Ride-Ons
         *   Skateboards &. Gear
-        *   Jogging Strollers
         *   Shop by Gender
         *   View All »
     *   Camping &. Hiking
@@ -427,6 +426,7 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Rods, Reels &. Combos
         *   Ice Fishing
         *   Fishing Accessories
+        *   Waders
         *   View All »
     *   Recreation &. Games
         
@@ -439,7 +439,7 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Table Tennis
         *   View All »
         
-        Paddle &. Water Sports
+        Paddle &. Water
         *   Kayaks &. Canoes
         *   Paddling Accessories
         *   View All »
