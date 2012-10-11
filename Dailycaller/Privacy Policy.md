@@ -1,4 +1,4 @@
-**TRENDING:** LIBYA | JOE BIDEN | MITT ROMNEY | ISRAEL | JERRY SANDUSKY | CLAIRE MCCASKILL
+**TRENDING:** SYRIA | MITT ROMNEY | LIBYA | SCOTT BROWN | SARAH PALIN | MILA KUNIS
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  ABC News scrambles to downplay Obama's attendance at VP debate moderator's wedding New O'Keefe video: Obama campaign staffer caught helping activist vote twice What Obama’s Raddatz connection really shows us    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  ABC News scrambles to downplay Obama's attendance at VP debate moderator's wedding **The Line ABC Won't Cross** New O'Keefe video: Obama campaign staffer caught helping activist vote twice    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-What Obama’s Raddatz connection really shows us 3:31 PM 10/10/2012 As gender gap collapses, does Obama really want the election to be about social issues? 2:45 PM 10/10/2012 Obamacare = Part-Time Work? 3:59 PM 10/08/2012 VW’s Brookings BS 6:23 AM 10/08/2012 Jay Carney lies about previous lies about Benghazi 4:58 PM 10/10/2012 Caption this: Obama points finger at Hillary 1:48 PM 10/10/2012 Study: Female GOP politicians are better looking than liberal politicians \[SLIDESHOW\] 2:19 AM 10/10/2012 10 women hotter than Mila Kunis \[SLIDESHOW\] 3:20 PM 10/08/2012 See More MSNBC’s motto: ‘Lean racist’ 5:13 PM 10/03/2012 Liberals can’t break 200-year racism habit 5:21 PM 09/26/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Leaders with Ginni Thomas: Scott Taylor, OPSEC 8:28 PM 10/07/2012 Former SEAL: Obama campaign has ‘exploited the military’ \[VIDEO\] 12:05 PM 10/07/2012 Sections
+Mara Liasson dozes off during Jake Tapper’s question about Benghazi? 5:24 PM 10/10/2012 What Obama’s Raddatz connection really shows us 3:31 PM 10/10/2012 Obamacare = Part-Time Work? 3:59 PM 10/08/2012 VW’s Brookings BS 6:23 AM 10/08/2012 Jay Carney lies about previous lies about Benghazi 4:58 PM 10/10/2012 Caption this: Obama points finger at Hillary 1:48 PM 10/10/2012 Meet the one percent of American colleges and universities \[SLIDESHOW\] 6:56 PM 10/10/2012 Study: Female GOP politicians are better looking than liberal politicians \[SLIDESHOW\] 2:19 AM 10/10/2012 See More Got racism? 6:58 PM 10/10/2012 MSNBC’s motto: ‘Lean racist’ 5:13 PM 10/03/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Leaders with Ginni Thomas: Scott Taylor, OPSEC 8:28 PM 10/07/2012 Former SEAL: Obama campaign has ‘exploited the military’ \[VIDEO\] 12:05 PM 10/07/2012 Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   Mitt Romney wins coveted Hulk Hogan endorsement \[VIDEO\]
-*   Scott Rasmussen-Chuck Todd feud continues \[VIDEO\]
-*   Romney campaign stresses that VP debate will be Biden’s 19th, Ryan’s first
+*   Got racism?
+*   Meet the one percent of American colleges and universities \[SLIDESHOW\]
+*   Former State Dept. official reported prior to Libya attack: Taliban was ‘on the inside of the building’ \[VIDEO\]
 
 Corporate
 
