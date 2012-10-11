@@ -114,7 +114,7 @@ Users shouldn't feel threatened when they're on YouTube. Period. Don't leave thr
 *   Terms
 *   Privacy
 *   Safety
-*   Report a bug
+*   Send feedback
 *   Try something new!
 
 *   Language: English
