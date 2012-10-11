@@ -449,7 +449,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         1.  PETIT ÉLECTRO CUISINE
         2.  Expresso
         3.  Petit Dejeuner - Cafe
-        4.  Barbecue - Plancha - Gril
+        4.  Soupe et cuisson d'hiver
         5.  Petit appareil de cuisson
         6.  Machine Ã  boissons : eau, sodas, biÃ¨re, glaÃ§ons
         7.  Mini four - Micro ondes
@@ -542,6 +542,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         8.  Ponceuses - DÃ©capeurs
         9.  Escabeaux - Echelles - Echafaudages
         10.  Gagnez un iphone 5
+        11.  Abris mÃ©tal prix Usine!
         
         1.  CHAUFFAGE - SANITAIRE
         2.  Chauffage
@@ -600,11 +601,11 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         2.  Tous les vÃªtements Homme
         3.  Jeans homme
         4.  T-Shirts
-        5.  Chemises
-        6.  Pulls / Gilets
-        7.  Costumes
-        8.  Les Marques Mode
-        9.  Les Marques Sportswear
+        5.  Blousons / Vestes
+        6.  Chemises
+        7.  Pulls / Gilets
+        8.  Costumes
+        9.  Les Marques Mode
         10.  Vos lentilles Ã  -70%
         11.  bons plans Voyages
         
@@ -2043,6 +2044,7 @@ Nos partenaires au BrÃ©sil : PontoFrio.com.br, Extra.com.br, CasasBahia.com.br
 
 *   est une filiale du
 *   en collaboration avec
+*   sÃ©curise vos paiements
 *   est membre de
 *   se vit aussi sur
     *   Magasin Cdiscount Bordeaux
