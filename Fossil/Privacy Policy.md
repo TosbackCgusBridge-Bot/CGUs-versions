@@ -55,7 +55,6 @@ Shop^
     *   Fall Must-Haves
     *   Roman Watches
     *   A Touch Of Rose
-    *   Heirloom Leather
     *   Denim
     *   Lookbook
     *   Watch Bar
@@ -150,6 +149,7 @@ Shop^
         *   Vintage Science
         
         *   View All  Fossil Finds
+    *   SALE
     *   Gifts
     *   Gifts Under $50
     *   Gifts Under $100
@@ -166,7 +166,7 @@ Shop^
             
             *   View All  New Arrivals
         *   Roman Watches
-        *   Heirloom Leather
+        *   Shades of Steel
         *   Denim
         *   Lookbook
         *   Watch Bar
@@ -183,8 +183,8 @@ Shop^
             *   View All  Watch Collections
         *   Watch Styles
             
-            *   Steel Dress Watches
             *   Casual Watches
+            *   Steel Dress Watches
             *   Leather Dress Watches
             *   Mechanical Watches
             *   Sport Watches
@@ -247,6 +247,7 @@ Shop^
             *   Vintage Science
             
             *   View All  Fossil Finds
+        *   SALE
         *   Gifts
         *   Gifts Under $50
         *   Gifts Under $100
