@@ -134,13 +134,13 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $50 for $100 at One Stop Decorating $50 Value: Discount: You Save: $100 50% $50
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $99 for 1 Week of Customized Meal Delivery from Success Meals KC $99 Value: Discount: You Save: $208 52% $109
 
-Wednesday: Hen House, HyVee, Price Chopper Deals HyVee
+Thursday: Wal Mart, Sunfresh Deals Sunfresh
 
-*   Boneless Beef Chuck Roast - $1.99/lb
-*   Kellogg's Cereal - $1.48
-*   Hy-vee Boneless Skinless Chicken Breast - $1.77/lb
+*   Turkey Hill Lemonade Or Tea, 64-Oz., Selected Varieties - $0.98
+*   Pillsbury Biscuits, 4-12-Oz., Cinnamon Rolls With Icing, Original Crescent Dinner Rolls, Grands! Or Selected Varieties - $0.98 each
+*   Johnsonville Links, Patties Or Ground Italian Sausage, 12-16 -Oz. - 2/$5 or $2.50 each
 *   more...
 
 1.  SEASONAL DRIVERS
@@ -149,13 +149,13 @@ Wednesday: Hen House, HyVee, Price Chopper Deals HyVee
     
 2.  SALES
     
-3.  PROGRAM DIRECTOR
+3.  SALES
     
-4.  CAMPAIGN JOBS
+4.  PROGRAM DIRECTOR
+    
+5.  CAMPAIGN JOBS
     
     Grassroots Campaigns, Inc.
-    
-5.  Apartment Maintenance Helper
     
 6.  Certified Dietary Manager
     
@@ -167,16 +167,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Jerry Johnstons New Day Church shuts down
-*   No surprise: Chiefs plan to run and run some more
-*   Alabama’s Saban turns promoter for Tide’s game with Missouri
-*   In Van Note murder case, daughter freed on $1 million bond
-*   A blast from the past: MU, KU coaches together again
-*   Springfield, Mo., man charged with abandoning corpse in Truman Lake
-*   All signs positive as Soria works through recovery from surgery
-*   Alex Karras, former NFL lineman, actor, dies at 77
-*   Zumba studio prostitution bust and videos rock upscale Maine town
-*   Alex Karras, former NFL lineman and actor, dies at 77
+*   With start for Chiefs, Quinn could reclaim his career
+*   Foot chase ends with three officers hurt
+*   The perks of being an introvert
+*   KC area residents pray for missing Colorado girl as news turns grim
+*   Clark Hunt: ‘A small few’ do not represent Chiefs fans
+*   KC police lose a secret weapon in Detective Reed Buente
+*   KU football goes viral as program has tiff with student media
+*   Resident Evil 6 continues downward spiral of game franchise
+*   Is banged-up Missouri in over its head against Alabamas Tide?
+*   Haith and his team will unveil Mizzou Madness this week
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
