@@ -1,4 +1,4 @@
-You seem to have disabled JavaScript. To take full advantage of our site and functionality, we recommend you enable Javascript.   How? Log in |Sign up Follow us Your newborn's development|What childcare really costs Mobile Apps  
+You seem to have disabled JavaScript. To take full advantage of our site and functionality, we recommend you enable Javascript.   How? Log in |Sign up Follow us Photos: I'm ready!|Games for you &. your baby Mobile Apps  
 SECTIONS
 
 *   Getting Pregnant
