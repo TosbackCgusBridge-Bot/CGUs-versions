@@ -104,6 +104,7 @@ Skip Navigation
     *   YouTube
     *   Twitter
     *   Google+
+    *   Instagram
 
 *   shipping to: 
 
@@ -237,9 +238,9 @@ Skip Navigation
     *   Delivery Discounts
     *   Sale
     
-    Limited Time Offer
+    Sectional Savings
     
-    Up to 60% off Chatham Chaises
+    Save up to $300 when you purchase a sectional set.
     
     Shop Now 
     
@@ -269,9 +270,9 @@ Skip Navigation
     *   Rug Event
     *   Sale
     
-    Rug Sale
+    Drape Event
     
-    Save 15% on all wool rugs for a limited time.
+    Save 15-25% on all drapes through October 17th.
     
     Shop Now 
     
@@ -647,7 +648,6 @@ Skip Navigation
     *   Top Registry Ideas
 *   Sale Limited Time Offers
     
-    *   Clearance Event
     *   Fall Dining Sale
     *   Lighting Sale
     *   Rug Event
