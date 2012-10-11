@@ -25,13 +25,13 @@
 
 Quicksearch PDF &. More!
 
-  FIFA 13 Review
+  Hot, New Games This Week!
+
+Crazi Taxi, Topia, &. More!
+
+    FIFA 13 Review
 
 Subtly Different, Still Great!
-
-    Lili Review
-
-Light-Hearted Adventure
 
   Our Top Rated iPad Apps FIFA SOCCER 13  
   
@@ -92,9 +92,9 @@ None
 
 New Details Emerges
 
-    IAPs in Kids' Games
+    Lili Review
 
-Harass parents to let them buy more
+Light-Hearted Adventure
 
     The Best iPad Office App?
 
@@ -115,7 +115,7 @@ Follow @appchronicles
 
 **App Chronicles** on Facebook
 
-NoteWorthy Price Drops App Name: The Amazing Spider-man Platforms: Universal Price Change: $0.99, **86% OFF!** (Was $6.99) Download App Name: Clear Platforms: iPhone OS Price Change: $0.99, **66% OFF!** (Was $2.99) Download App Search Game Guides
+NoteWorthy Price Drops App Name: Clear Platforms: iPhone OS Price Change: $0.99, **66% OFF!** (Was $2.99) Download App Search Game Guides
 
 Tiny Tower Walkthrough and Guide
 
