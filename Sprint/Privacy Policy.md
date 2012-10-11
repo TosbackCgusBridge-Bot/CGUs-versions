@@ -200,6 +200,11 @@ Protection of Sprint and Others. We may access, monitor, use or disclose your pe
 *   initiate, render, bill, and collect for services. or
 *   facilitate or verify the appropriate calculation of taxes, fees, or other obligations due to a local, state, or federal government requirement. or determine eligibility for government benefits.
 
+We may share information that is de-identified or in an aggregated form that does not directly identify you. We share de-identified or aggregate information for purposes such as to:
+
+*   Conduct market or traffic flow analysis and reporting or produce or facilitate production by others of business and marketing reports to share with third parties. For example, we may aggregate customer information across a particular region and create a report showing that 10,000 subscribers from a given city visited a sports stadium. If you do not wish for us to use your information to produce de-identified and aggregated data sets in the reports we share with third parties, you may opt out at any time. See sprint.com/privacy for details.
+*   With your opt-in consent only, customize or personalize advertising you see when using your wireless device to access the internet or mobile applications. We may use information about your mobile web browsing to deliver more relevant advertisements tailored to your interests, and we may share de-identified information with third parties so that they can tailor their advertising to your interests. To receive ads more relevant to your interests, you must opt in to this use and sharing of your information. See sprint.com/privacy for details on how to do so.
+
 Back to top
 
 NETWORK AND INFORMATION SECURITY
