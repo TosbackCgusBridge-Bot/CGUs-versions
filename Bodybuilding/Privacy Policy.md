@@ -483,9 +483,9 @@ Email: webmaster@bodybuilding.com
   
 Related Articles
 
-*   IFBB Pro Undercover #22.
-*   IFBB Pro Undercover #23.
-*   IFBB Pro Undercover #24.
+*   West Coast Gossip: Amateur &. Pro Bodybuilders!
+*   Bodybuilding.com Is Moving On Up: Check Out Our New Idaho Warehouse!
+*   2008: American Gladiators Is Back!
 
 *   View All Gossip And News Articles
 
