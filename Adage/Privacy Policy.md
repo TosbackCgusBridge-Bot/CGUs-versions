@@ -128,30 +128,30 @@ Policy Last Updated: September 2012
 
 News _from our Ad Age Partners_
 
+*   Hyundai aims to win conquest buyers with fresh Sante Fe
 *   Honda Accord campaign targets Hispanics, blacks
 *   Lincoln gives sneak peeks at MKZ
 *   Honda turns on ad cash for dealers
-*   Mazda taps advertising veteran Wager to lead U.S. marketing
 
 *   Fraudulent social reviews, both positive and negative, on the rise
 *   Five tips to rev up your content marketing program
 *   Product search capability highlights relaunch of ThomasNet platform
 *   Tech marketing budgets to increase 1.7% this year
 
-*   California gas prices finally end run-up
-*   Colder winter will increase heating costs
-*   EBay unveils major redesign and same-day delivery service
-*   Why there's no such thing as risk-free investing
+*   M&A drought not letting up
+*   Foreclosures fall to 5-year low
+*   Google awards $60,000 prize for Chrome hack
+*   Social Security: Where Obama and Romney stand
 
+*   Fortune Group publisher tapped to oversee Time
+*   The Children's Place tests Sam's Club partnership
 *   NYC publisher plans illustrated Ke$ha memoir
 *   Hot MoMA
-*   Ad malaise points to ho-hum holidays
-*   Mobile ads help homeless group
 
-*   Toyota recall stalls its recovery efforts
+*   Get ready to pay more for heating this winter
 *   CEO to workers: You'll be fired if Obama is re-elected
-*   Obama wins by landslide in coffee cup survey
-*   Toyota has biggest car recall since '96
+*   Kodak to end healthcare benefits for retirees
+*   Wal-Mart shares soar to all-time high
 
 *   2012 Toyota Prius Plug-In
 *   2012 Toyota Prius v
