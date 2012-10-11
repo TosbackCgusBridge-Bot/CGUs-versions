@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Wednesday, October 10, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Thursday, October 11, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Wednesday, October 10, 2012 Go Follow the Atla
 *   Magazine
 *   video
 
-Presented by Mitt Romney's Terrible Foreign-Policy Speech Conor Friedersdorf Will Colorado Legalize Marijuana? Molly Ball Buzz Bissinger's Bizarre Romney Endorsement Conor Friedersdorf Why You Should Never Trust a Jobs Report Derek Thompson How Brazilian Factories Can Create U.S. Jobs David Rohde The Disappearing Young, Male Worker Conor Sen The Lost, Intimate Art of Reading Aloud Chloe Angyal Could Issa Rae Save the Black Sitcom? Jason Parham Why You Should Have Seen 'Frankenweenie' Christopher Orr The Man Who Volunteered for Auschwitz David de Sola What the Future of Africa Looked Like in 1959 Armin Rosen CAn the US. Help Iran Save Face? Dominic Tierney 3 Unsung Energy Technologies Alexis Madrigal Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg The Elusive Promise of a DIY Arts Career Alan Jacobs Our State Courts Are Under Siege Andrew Cohen Why So Much Software Is So Badly Coded Bernard Meisler Columbus Day: Victim of Its Own Success Yoni Appelbaum Using Ketamine to Treat Depression Lindsay Abrams Beautiful Women and Homicide James Hamblin Slap a Pink Ribbon on It Madhulika Sikka Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Projection Mapping Inked Drawings Kevin Holmes Toy Cars + iPhone = Epic Chase Scene Kasia Cieplak-Mayr von Baldegg Privacy Policy
+Presented by Mitt Romney's Terrible Foreign-Policy Speech Conor Friedersdorf Will Colorado Legalize Marijuana? Molly Ball Buzz Bissinger's Bizarre Romney Endorsement Conor Friedersdorf Why You Should Never Trust a Jobs Report Derek Thompson How Brazilian Factories Can Create U.S. Jobs David Rohde The Disappearing Young, Male Worker Conor Sen The Lost, Intimate Art of Reading Aloud Chloe Angyal Could Issa Rae Save the Black Sitcom? Jason Parham Why You Should Have Seen 'Frankenweenie' Christopher Orr The Man Who Volunteered for Auschwitz David de Sola What the Future of Africa Looked Like in 1959 Armin Rosen CAn the US. Help Iran Save Face? Dominic Tierney 3 Unsung Energy Technologies Alexis Madrigal Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg The Elusive Promise of a DIY Arts Career Alan Jacobs Our State Courts Are Under Siege Andrew Cohen Why So Much Software Is So Badly Coded Bernard Meisler Columbus Day: Victim of Its Own Success Yoni Appelbaum National Depression Screening Day Lindsay Abrams Slap a Pink Ribbon on It Madhulika Sikka When the Beautiful Are the Damned James Hamblin Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Projection Mapping Inked Drawings Kevin Holmes Toy Cars + iPhone = Epic Chase Scene Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,15 +113,15 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Just In Garance Franke-Ruta 5:01 PM ET Claire McCaskill's Brutal New Ads From Rape Survivors 1349902882 Voices
+Just In Molly Ball 8:05 AM ET Mitt Romney's Frontrunner Moment 1349957120 Voices
 
-*   Garance Franke-Ruta Claire McCaskill's Brutal New Ads From Rape… 5:01 PM ET
-*   Alexis C. Madrigal Chart: Apple's Share Price Since the iPhone 5… 3:15 PM ET
-*   Clive Crook Chavez Proves Democracy Isn't Enough 2:21 PM ET
-*   Ta-Nehisi Coates The Lost Battalion 2:13 PM ET
-*   James Fallows 'Where You Been, Boy? I Missed You!' 1:48 PM ET
-*   Jeffrey Goldberg Big News About the Libya Attack Oct 9, 2012
-*   Derek Thompson Every Economic Recovery in the World Looks the… Oct 9, 2012
+*   Jeffrey Goldberg What Netanyahu Has Cost Israel 5:57 AM ET
+*   James Fallows 'At 5% Neanderthal, You Are an Outlier' 12:04 AM ET
+*   Derek Thompson The 1 Way Mitt Romney Can Beat President Obama on… Oct 10, 2012
+*   Garance Franke-Ruta Claire McCaskill's Brutal New Ads From Rape… Oct 10, 2012
+*   Ta-Nehisi Coates A War Of 'All Against Them' Oct 10, 2012
+*   Alexis C. Madrigal Chart: Apple's Share Price Since the iPhone 5… Oct 10, 2012
+*   Clive Crook Chavez Proves Democracy Isn't Enough Oct 10, 2012
 *   Robert Wright Why Turkey and Syria are Heading toward War Oct 9, 2012
 *   Steve Clemons Mitt Romney, George Marshall, and Israel-Palestine Oct 8, 2012
 
@@ -161,14 +161,14 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Super Cool Space Jump Delayed Until Sunday  
+*   Chinese Author Mo Yan Wins the Nobel Prize for Literature  
     
-*   The Key Question the State Department Won't Answer on Libya  
+*   Yemeni Man Working at U.S. Embassy is Murdered by Gunmen  
     
-*   Christopher Walken Gives Us His Best Honey Boo Boo  
+*   WikiLeaks Implements Paywall, Anonymous Does Not Approve  
     
 
-Last Update: 5:02 PM
+Last Update: 7:17 AM
 
 *   Bostonians Haven't Given Up on Busing  
     
@@ -181,19 +181,19 @@ Last Update: 5:46 PM Most Popular
 
 1
 
-'This Is 50-50': Behind Obama's Decision to Kill Bin Laden
+Scenes From Antarctica
 
 2
 
-Scenes From Antarctica
+'The Biggest Breakthrough in Depression Research' in 50 Years Is ... Ketamine?
 
 3
 
-'The Biggest Breakthrough in Depression Research' in 50 Years Is ... Ketamine?
+In Praise of the Lost, Intimate Art of Reading Aloud
 
 4
 
-Dear Justice Kennedy: Your Daughter Was My College Roommate
+The 1 Way Mitt Romney Can Beat President Obama on Taxes
 
 5
 
@@ -201,23 +201,23 @@ Why Women Still Can’t Have It All
 
 6
 
-If I Fly a UAV Over My Neighbor's House, Is It Trespassing?
+The Great Wall of China
 
 7
 
-How to Think About Affirmative Action Like an Economist
+If I Fly a UAV Over My Neighbor's House, Is It Trespassing?
 
 8
 
-In Praise of the Lost, Intimate Art of Reading Aloud
+Who Destroyed the Economy? The Case Against the Baby Boomers
 
 9
 
-Who Destroyed the Economy? The Case Against the Baby Boomers
+The Pakistani Taliban's 'Justification' for Trying to Murder a 14-Year-Old Girl
 
 10
 
-The New Price of American Politics
+Why Turkey and Syria are Heading toward War
 
 *   Subscribe Help
 *   Faq
