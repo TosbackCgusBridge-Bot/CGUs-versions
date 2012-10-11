@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Neem In English Resources
+*   Food Journal Template Resources
 
   
-Stay in Touch With SparkPeople **What to Eat This Fall**
+Stay in Touch With SparkPeople **A Getting-Started Guide to CSAs**
 
-Find out which produce items are fresh, seasonal, delicious--and **affordable**\--right now!
+Are you eager to join the local food movement, but not sure where to start? Follow these six tips.
 
 Read More
 
-*   Mindful baking?
 *   What's your "go to" type of workout?
-*   Need Ideas for working out at home
-*   Working out at home, living in an apartment...
-*   Do you you ever take a scheduled "cheat" day ?
+*   Mindful baking?
+*   How do you overcome your "bad food" cravings?
+*   Self Control - Can it be taught?
+*   Please share your favorite "pumpkin" recipes!
 
-View Demo **Standing Hip Abduction on Cable Cross Machine**  
-A challenging move for the outer thighs **Chef Meg's Perfect Grilled Chicken**  
-Submitted By: **GRILLGUIDE**
+View Demo **Balancing Seated Torso Twists with Medicine Ball**  
+Tighten your core with this twisting move! **Spicy Nutty Chicken Nuggets**  
+Submitted By: **CHEF\_MEG**
 
-Grilled chicken is a staple for healthy eaters. It's easy to make and even easier to mess up. Here's a fool-proof guide to great grilled chicken. Full Recipe
+Instead of reaching for fried chicken or frozen chicken nuggets, turn to these spicy, crunchy ones instead. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
