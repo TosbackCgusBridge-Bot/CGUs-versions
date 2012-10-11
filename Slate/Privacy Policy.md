@@ -1,5 +1,3 @@
-Follow @slate
-
 *   News &. Politics
 *   Tech
 *   Business
@@ -127,15 +125,11 @@ Slate **Slide Shows**
 
 Click here to load comments.
 
-*   Are "For-Real" Dates Better Than Hookups? A Sex Writer Weighs In.  
-    
-*   Why Are Democrats Panicking? Look What Happened After Reagan Blew His Debate.  
-    
+*   Do Red Contact Lenses Really Help a Player See a Baseball Better?
+*   _Wonder_ Is the Best Kids’ Book of the Year
 
-*   Fifty Movies Overlooked by the A.V. Club's List of Great '90s Films  
-    
-*   Hackers' Terrifying New Trick To Take Over Your Computer and Blackmail You  
-    
+*   How Technology Is Ruining Museums
+*   Bazelon: The Supreme Court Threatens To Gut Affirmative Action
 
 Discover _Slate_ With Your Friends See what your friends are reading and automatically share how you're browsing _Slate_. You control what gets published to your Facebook News Feed. Social Reading is Turn ON Turn OFF Feedback <. newer | older >. To temporarily turn off Social Reading, toggle the social reading button to OFF at the top of this box or in the toolbar areas of this page. This will allow you to see what your friends have read but won't show your reading activity on _Slate_. Always notify me when I've shared an article. LOG INTO FACEBOOK  
 
@@ -143,23 +137,23 @@ To enable Social Reading on Slate, log into...
   
 \[  Cancel |  OK  \]
 
-*   1\. Chatting About Hookups and "For-Real" Dates with Sex Writer Tracy Clark-Flory  
-    By Amanda Marcotte | October 10, 2012
-*   2\. Help! I Have To Pretend To Be My Gay Best Friend's Fiancée.  
-    By Emily Yoffe | October 9, 2012
-*   3\. An Alternate List of 50 Great Films from the 1990s  
-    By Aisha Harris | October 10, 2012
-*   4\. Report: Lance Armstrong's Doping Program Unlike Any Other  
-    By Josh Voorhees | October 10, 2012
-*   5\. Google Image Search For "Completely Wrong" Brings Up Page Full Of Mitt Romney Photos  
-    By Will Oremus | October 10, 2012
+*   1\. Help! My Husband Is Forcing Me To Sign a Postnup.  
+    By Emily Yoffe | October 11, 2012
+*   2\. Hookup Culture 100,000 Years Ago: _Homo sapiens_ Would Mate with Absolutely Anybody  
+    By Ann Gibbons | October 11, 2012
+*   3\. Kids Understand the Probabilities of Possibilities Better Than Adults Do  
+    By Alison Gopnik | October 11, 2012
+*   4\. The Taliban Shot a 14-Year-Old Girl. Here's Why She Scares Them.  
+    By William J. Dobson | October 10, 2012
+*   5\. Why the Government Is Probably Undercounting Jobs at Small Businesses  
+    By Matthew Yglesias | October 10, 2012
 
 *   1\. The Taliban Shot a 14-Year-Old Girl. Here's Why She Scares Them.  
     By William J. Dobson | October 10, 2012
 *   2\. Romney’s Abortion Weasel Words  
     By William Saletan | October 10, 2012
-*   3\. Mitt Romney’s Most Dishonest Speech  
-    By Fred Kaplan | October 8, 2012
+*   3\. Total American Debt Reaches 6-Year Low  
+    By Matthew Yglesias | October 10, 2012
 *   4\. A Tribute to Matt Groening’s _Life in Hell_, with Comics by Tom Tomorrow and Alison Bechdel  
     By James Sturm | October 10, 2012
 *   5\. Google Image Search For "Completely Wrong" Brings Up Page Full Of Mitt Romney Photos  
@@ -168,8 +162,8 @@ To enable Social Reading on Slate, log into...
 See More Stories on THE WEEK
 
 *   13 little-known punctuation marks we should be using
-*   7 memorable VP debate moments: A video history
-*   Why do smart kids grow up to be heavier drinkers?
+*   The 'bagel head': Japan's strange new beauty trend
+*   Joe Biden can't save Barack Obama
 
 See More Stories on newser
 
@@ -179,34 +173,29 @@ See More Stories on newser
 
 See More Stories on TIME
 
-*   On Abortion and Taxes, Mitt Romney Moves to the Middle
-*   Why Libya -- and Not The Hague -- Will Try Gaddafi's Son
-*   Why It's Time to Take 'Rock' Out of the Rock and Roll Hall of Fame
+*   Biden vs. Ryan: What to Watch For in the Debate
+*   Conservatives in Britain: Not Very Conservative by U.S. Standards
+*   House Republicans Go After the Obama Administration over Benghazi Attack
 
 From The Root &. Foreign Policy
 
-*   Teen Called 'F---ing Mutt' in Stop and Frisk
 *   Hollywood Won the Great Recession
-*   Trayvon Martin: The Latest, Week 32
+*   Why America Needs a White History Month
 *   Think Again: The BRICS
-*   Black TV Watch: Rooting for a Cheater?
-*   Beyoncé Drops Out of 'A Star Is Born'
+*   The Great Affirmative Action Lie
+*   Romney's PBS Cuts: Beyond Big Bird
+*   The Enemy Within
 
 *   MORE Slate User Agreement And Privacy Policy COLUMNS
 
 *   VIEW OUR COMPLETE **Slate User Agreement And Privacy Policy** ARCHIVE
 
-*   Why Are Democrats Panicking? Look What Happened After Reagan Blew His Debate.  
-    
-*   Anti-Doping Agency Says File "Shows Beyond Any Doubt" That Lance Armstrong's Team Doped  
-    
-*   Hackers' Terrifying New Trick To Take Over Your Computer and Blackmail You  
-    
-*   Are "For-Real" Dates Better Than Hookups? A Sex Writer Weighs In.  
-    
-*   J.J. Watt Is Awesome at Deflecting Passes and Is Changing How Football Is Played
-*   Fifty Movies Overlooked by the A.V. Club's List of Great '90s Films  
-    
+*   Bazelon: The Supreme Court Threatens To Gut Affirmative Action
+*   Cuban Missile Crisis 50th Anniversary: What It Can Teach Us About Dealing With Iran
+*   _Wonder_ Is the Best Kids’ Book of the Year
+*   What Happens to a Drug Cartel After Its Kingpin Is Killed?
+*   Why Your 4-Year-Old Is as Smart as Nate Silver: They Both Use Bayesian Statistics
+*   How Technology Is Ruining Museums
 
 about us | contact us | User Agreement | Privacy Policy | _Slate_ on Facebook | ad choices  
 feedback | help | advertise | newsletters | mobile | make _Slate_ your homepage Slate is published by The Slate Group, a Division of the Washington Post Company  
