@@ -41,8 +41,8 @@ Follow Us Facebook Twitter Follow @ComedyCentral
 
 *   · reply · retweet · favorite
 
-*   10:00PM South Park
-*   10:30PM Key &. Peele
+*   10:00PM Gabriel Iglesias Presents Stand-Up
+*   10:30PM Tosh.0
 *   11:00PM The Daily Show with Jon Stewart
 *   11:31PM The Colbert Report
 
