@@ -1,5 +1,5 @@
   
-Users Online Now: **2,623** (Who's On?) Visitors Today: **884,260** Pageviews Today: **1,480,712** Threads Today: **616** Posts Today: **10,200** 05:15 PM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,663** (Who's On?) Visitors Today: **395,272** Pageviews Today: **583,338** Threads Today: **214** Posts Today: **2,813** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,10 @@ trinity@godlikeproductions.com
   
 News
 
+*   Supreme Court to Rule on Patents for Self-Replicating Products
+*   Canada Joins TPP as a Second-Tier Negotiator: Entertainment Lobby Approves, Civil Society Does Not
+*   Meet Polaris, The First Ice-Drilling Lunar Prospector-Bot
+*   Dear Mystery Algorithm That Hogged Global Financial Trading Last Week: What Do You Want?
 *   Rape victim 'shocked' when court ordered her computer records
 *   Alex Karras, NFL great and MONGO from Blazing Saddles dies at 77
 *   U.S. House hearing investigates terror attack in Libya
@@ -133,10 +137,6 @@ News
 *   Chinese telcos branded national security risk for US
 *   House Science Member Says Earth Is 9,000 Years Old
 *   Declassified at Last: Air Force’s Supersonic Flying Saucer Schematics
-*   US anti-terror big data experiment 'breached privacy'
-*   A Tale of Two Countries: New Zealand Apologizes for Illegal Domestic Spying, While US Still Refuses to Acknowledge NSA’s Warrantless Wiretapping
-*   Astronomers discover a new black hole in our galaxy
-*   Deep Impact spacecraft completes rocket burn
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.01s (0 queries)
+Page generated in 0.034s (0 queries)
