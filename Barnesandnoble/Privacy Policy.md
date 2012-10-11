@@ -9,7 +9,7 @@ Your Internet Explorer is out of date. To take full advantage of BN.com's featur
 *   Stores &. Events
 *   Help
 
-*   National Book Awards: _See the Finalists_
+*   Election 2012: _Read, Then Decide_
 *   Best Books of the Month
 *   NOOK® Simple Touch with GlowLight: _Now Just $119_
 *   Deal of the Day: Amazing Savings Daily
