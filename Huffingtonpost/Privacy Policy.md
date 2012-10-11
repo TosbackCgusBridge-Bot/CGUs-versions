@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 10, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: **U.S.**
+October 11, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 10, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
 *   FRONT PAGE
 *   Politics
     
-    *   Romney Makes Abrupt Reversal On Abortion Stance 11k
-    *   Mitt Romney CNN Interview 26k
-    *   Polling Switch A 'Wipe Out' Of Obama's Lead 25k
-    *   WATCH: Paul Ryan Abruptly Ends TV Interview 25k
-    *   GOP Congressman Doctor Pushed Mistress Patient To Get Abortion 4k
+    *   Obama: 'I Was Just Too Polite' At The Debate 19k
+    *   GOP Congressman Doctor Pushed Mistress Patient To Get Abortion 7k
+    *   Romney Makes Abrupt Reversal On Abortion Stance 13k
+    *   Romney Surges, But Could Ohio Save Obama? 15k
+    *   Federal Court Sides With Montana In Battle Against Citizens United 3k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 10, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Gay Voices
 *   Business
     
-    *   Super-Rich CEO To Workers: You're All Fired If Obama Wins 21k
-    *   Thin-Skinned CEO Superstar Jack Welch Quits Fortune, Reuters After His Demented BLS Tweet Gets Criticized 4k
-    *   First-Ever Walmart Retail Strike Spreads To Six Cities 3k
-    *   U.S. Sues Wells Fargo Alleging Mortgage Fraud 1k
-    *   Growth In Underwear Sales Suggests An Improving Economy 4k
+    *   Super-Rich CEO To Workers: You're All Fired If Obama Wins 23k
+    *   World's Richest Man Making Money Off Giving Things To Poor People 4k
+    *   Walmart Workers Threaten To Strike On BLACK FRIDAY 1k
+    *   Restaurants Test Plan To Skirt Obamacare 2k
+    *   Terrible Economy Forcing FedEx To Cut Thousands Of Jobs 239
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 10, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Crime
 *   Entertainment
     
-    *   Stevie Nicks Threatens Nicki Minaj: 'I Would Have Killed Her' 782
-    *   Brian Wilson Speaks Out On Being Kicked Out Of The Beach Boys 856
-    *   Mila Kunis Rips Republicans On Women, Religion 2k
-    *   Stacy Dash Defends Mitt Romney Support: 'I Really Don’t Understand The Fury' 1k
-    *   'Clueless' Actress Endorses Mitt Romney, Gets Hit With Backlash 2k
+    *   Stevie Nicks Threatens Nicki Minaj: 'I Would Have Killed Her' 1k
+    *   Uma Thurman Joins Hardcore Sex Film 418
+    *   Brian Wilson Speaks Out On Being Kicked Out Of The Beach Boys 1k
+    *   Stacy Dash Defends Mitt Romney Support: 'I Really Don’t Understand The Fury' 3k
+    *   Beyonce Drops Out Of 'A Star Is Born' 221
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 10, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Moviefone
 *   Tech
     
-    *   11 Ways To Get More Battery Life Out Of Your iPhone 5 110
+    *   11 Ways To Get More Battery Life Out Of Your iPhone 5 116
     *   Now The Nation Of Taiwan's Angry With Apple Maps, Too
-    *   Coming Soon: A _Mini_ Galaxy S3 180
-    *   These DIY Innovations Will Make Your Life Easier 51
-    *   Do You Need An App To Help You Sort Socks?
+    *   Coming Soon: A _Mini_ Galaxy S3 223
+    *   Scary: CEO 'Seemed To Lack An Empathy Gene' 96
+    *   This eReader Costs Only $13 91
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 10, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Joystiq
 *   Media
     
-    *   It's Official: Willie Geist Joins 'Today' 235
-    *   'Sesame Street' Asks Obama Campaign To Take Down Ad 3k
-    *   AP Apologizes Over Insta-Classic Romney Pic 754
-    *   Die-Hard Obama Supporter Freaks Out 2k
-    *   WATCH: Mitt Romney Repeats Vow To Axe PBS Funds 1k
+    *   AP Apologizes Over Insta-Classic Romney Pic 1k
+    *   It's Official: Willie Geist Joins 'Today' 367
+    *   'Sesame Street' Asks Obama Campaign To Take Down Ad 4k
+    *   Conservatives Suggest VP Moderator Bias 3k
+    *   WATCH: Mitt Romney Repeats Vow To Axe PBS Funds 2k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 10, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Moviefone
 *   World
     
-    *   LOOK: Cargo Ships Run Aground, Threaten Precious Beach 104
-    *   Taliban Shoot Teenage Activist 1k
-    *   PHOTOS: Greece's NSFW Protests 77
-    *   Russian Court Frees 'Pussy Riot' Member 447
-    *   Gunmen Steal Corpse Of Feared Drug Lord 137
+    *   Teen Activist's Shooting Sparks Outrage Across Pakistan 3k
+    *   Notorious Drug Lord Killed By Accident 60
+    *   Earthquake Rattles Costa Rica 27
+    *   Russian Court Frees 'Pussy Riot' Member 534
+    *   PHOTOS: Greece's NSFW Protests 141
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 10, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Religion
 *   Healthy Living
     
-    *   Two-Time Breast Cancer Survivor Fabiana Lost 126 Pounds: 'Now I Am Having The Best Time Of My Life -- And In The Best Shape' 20
-    *   What Causes This Teen To Sleep 20 Hours A Day? 180
-    *   6 Surprising Signs You Need More Sleep 25
-    *   Too Thin? No, Just Writing A Fitness Book, Says Sarah Palin 906
-    *   8 Foods That Could Lower Stroke Risk 19
+    *   6 Surprising Signs You Need More Sleep 37
+    *   Two-Time Breast Cancer Survivor Fabiana Lost 126 Pounds: 'Now I Am Having The Best Time Of My Life -- And In The Best Shape' 25
+    *   What Causes This Teen To Sleep 20 Hours A Day? 186
+    *   Too Thin? No, Just Writing A Fitness Book, Says Sarah Palin 945
+    *   Superfoods For Breast Health
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 10, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Religion
 *   Style
     
-    *   PHOTO: Sexy Ursula Halloween Costume Sparks Controversy Over Plus Sizes 163
+    *   PHOTO: Sexy Ursula Halloween Costume Sparks Controversy Over Plus Sizes 188
     *   PHOTOS: Robyn Lawley Poses In Sexy Bikinis For Cosmopolitan Australia 1k
-    *   PHOTOS: See Jennifer Aniston's HUGE Engagement Ring 532
-    *   Remember When Sharon Osbourne Wore Pearls? 46
-    *   Bra Sizes Up Three Sizes In Just Two Years, According To Study 17
+    *   PHOTOS: See Jennifer Aniston's HUGE Engagement Ring 542
+    *   Bra Sizes Up Three Sizes In Just Two Years, According To Study 58
+    *   PHOTOS: Julie Bowen's Dress Looks Like Sparkly Mold? 125
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 10, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Post 50
 *   Highlights
 *   LIVE
-    *   Next TMI, Mom &. Dad!
-    *   Next Hot On HuffPost Pollster
-    *   Coming Up Robot Refs
-    *   Coming Up Un-rocking The Vote
-    *   Coming Up More Immigrants, PleaseGo to HuffPost Live
+    *   Next Joe To The Rescue
+    *   Next Turkey Hits Syria Again
+    *   Coming Up A False Epidemic
+    *   Coming Up White Student Union
+    *   Coming Up Regulating The HomelessGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
