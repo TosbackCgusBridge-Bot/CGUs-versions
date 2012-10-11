@@ -42,7 +42,7 @@ AllThingsD
 
 *   View by Writer
 
-**The Digital Solution –** Ten Ways to Make Your Android Smarter  
+**Walt Mossberg –** A Dragon That Takes Dictation and Controls a Mac by Voice  
 
 Follow on Twitter »Subscribe on Facebook »Like on Facebook »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
 
