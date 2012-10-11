@@ -108,7 +108,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**5 Winners!** Enter for a chance to win a brush with water-absorbing bristles. Type in the Freebie Phrase of the Day, found in the October Issue!
+**5 Winners!** Enter for a chance to win a bundle of elastics that won't snag your hair. Type in the Freebie Phrase of the Day, found in the October Issue!
 
  enter now 
 
@@ -233,7 +233,7 @@ Site Service
 *   Mobile
 *   Shop
 
-Hair Ideas Hairstyles Formal Hairstyles Hair Color Ideas Sexy Hair Celebrity Hairstyles Long Hairstyles Red Hair Colors Hairstyles with Bangs Curly Hairstyles Blonde Hair Colors Short Hair Styles Makeup Tips Beauty Tips Virtual Makeover Best Foundation Lipstick Mascara Best Eye Cream Best Makeup for Summer Nail Polish Eyeliner Makeup Tips How to Look Younger Fashion Fall 2012 Fashion Trends Fashion 2012 Fashion Blog Mad Men Fashion Celebrity Style Met Gala Red Carpet 2012 Street Style 2 Week Diet Red Carpet Dresses French Style Fashion Trends Relationship Advice Love Horoscopes How to Kiss Daily Horoscope Gifts for Boyfriend Date Night Romantic Ideas Date Ideas How to Flirt How to Be Sexy Sex Advice More Date Ideas
+Hair Ideas Hairstyles Formal Hairstyles Hair Color Ideas Sexy Hair Celebrity Hairstyles Long Hairstyles Red Hair Colors Hairstyles with Bangs Curly Hairstyles Blonde Hair Colors Short Hair Styles Makeup Tips Beauty Tips Virtual Makeover Best Foundation Lipstick Mascara Best Eye Cream Makeup Trends Spring 2013 Nail Polish Eyeliner Makeup Tips How to Look Younger Fashion Fall 2012 Fashion Trends Fashion 2012 Fashion Blog Mad Men Fashion Celebrity Style Best Fall Boots Street Style 2 Week Diet Red Carpet Dresses French Style Fashion Trends Relationship Advice Love Horoscopes How to Kiss Daily Horoscope Gifts for Boyfriend Date Night Romantic Ideas Date Ideas How to Flirt How to Be Sexy Sex Advice More Date Ideas
 
 Connect with Seventeen
 
