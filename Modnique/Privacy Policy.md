@@ -44,32 +44,32 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
-    *   5th Avenue Women's Appparel
+    *   5th Avenue Women's Apparel
     *   All About Hair
     *   Ateliers Saint Germain Jewelry Made in Monaco
     *   Beauty's Love Women's Nightgowns
-    *   Burberry Women's Jackets
     *   Designer Diamonds
+    *   Designer Jewelry
     *   Drop &. Dangle Earrings
     *   EF Studio Brush Spectacular
     *   Gucci Handbags Made in Italy
-    *   Harper Women's Apparel
-    *   Jason Dow Jewelry
     *   Jessica Taylor, Second Skin and Vice Versa
     *   Louis Vuitton Handbags
     *   Miss Sixty Women's shoes
     *   Missa Women's Sweaters
     *   Report and R2 Women's Footwear
+    *   Tantra: Winter Fashion Trends from Spain
     *   _more..._
     *   other
+    *   Best of the Day
+    *   Best of the Day
     *   Chaumet , Vacheron Constantin, Corum and more watches
     *   Gucci Sunglasses Made In Italy
     *   Locman Watches Made In Italy
-    *   Roberto Cavalli, Prada, Jhane Barnes and more Eyewear
     *   _more..._
 *   apparel
     *   women
-    *   5th Avenue Women's Appparel
+    *   5th Avenue Women's Apparel
     *   Aryeh Women's Apparel
     *   Beauty's Love Women's Nightgowns
     *   Burberry Women's Jackets
@@ -99,8 +99,8 @@ Loading Modnique - Boutique Events
     *   other
     *   Chaumet , Vacheron Constantin, Corum and more watches
     *   Designer watches under $59 for Him &. Her
+    *   Ladies Earrings Designed In 925 Sterling Silver
     *   Locman Watches Made In Italy
-    *   Lot Designed In 925 Sterling Silver
     *   Sport Watches
     *   _more..._
 *   Handbags &. Accessories
@@ -110,6 +110,8 @@ Loading Modnique - Boutique Events
     *   Gucci Handbags Made in Italy
     *   Louis Vuitton Handbags
     *   Salvatore Ferragamo Scarves Made in Italy
+    *   _more..._
+    *   men
     *   _more..._
     *   other
     *   Gucci Sunglasses Made In Italy
