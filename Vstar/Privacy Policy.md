@@ -382,9 +382,6 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   Be informed. Read profiles and answers directly from the candidates.
-    
-
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -621,10 +618,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos Another dry year burdens water districts Supplies fall short
+Videos On Campus: Nordhoff making moves Small-town boys with a big name
 
-*   Another dry year burdens water ... Simi Valley shopper nets $1,114 ... On Campus: Seraphs Finally Return ... On Campus: Camarillo Scorpions
-*   Breast cancer healing through faith Circus Vargas sets up its ...
+*   On Campus: Nordhoff making moves Another dry year burdens water ... Simi Valley shopper nets $1,114 ... On Campus: Seraphs Finally Return ...
+*   On Campus: Camarillo Scorpions Breast cancer healing through faith
 
   
 
@@ -637,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Port Hueneme city manager asked to resign Updated 10/9/2012 at 6:40 p.m. 24 comments
-*   Editorial: Big Bird soars right onto the political stage Published 10/8/2012 at 3:51 p.m. 56 comments
-*   Authorities identify motorcyclist killed in Ventura crash Published 10/10/2012 at 8:38 a.m.
-*   44th Assembly District race pits novice against incumbent who served half term Published 10/9/2012 at 8:10 p.m. 30 comments
-*   Gas price increase hurting businesses. reprieve could be coming Published 10/8/2012 at 6:40 p.m. 66 comments
+*   Authorities identify motorcylclist killed in Ventura crash Updated 10/10/2012 at 6:24 p.m.
+*   VP debate could influence presidential race Updated 10/10/2012 at 5:52 p.m. 49 comments
+*   Editorial: Big Bird soars right onto the political stage Published 10/8/2012 at 3:51 p.m. 63 comments
+*   Herdt: Things aren't bad, they're worse Published 10/9/2012 at 5:06 p.m. 35 comments
+*   Port Hueneme city manager asked to resign Updated 10/9/2012 at 6:40 p.m. 32 comments
 
-Photo Galleries Ventura County's Most Wanted October 4th Home cook shares insights with… Praying for pets
+Photo Galleries Ventura County's Most Wanted October 4th Girls tennis: Thousand Oaks 17… Praying for pets
 
 *   Morning chat Published 10/9/2012 at 12:00 a.m. 151 comments
-*   Morning chat Published 10/5/2012 at 12:00 a.m. 214 comments
-*   Editorial: Unemployment rate slips below 8 percent barrier Published 10/7/2012 at 3:00 p.m. 77 comments
-*   Gas price increase hurting businesses. reprieve could be coming Published 10/8/2012 at 6:40 p.m. 66 comments
-*   Group says petroleum 'fracking' occurred near Los Padres National Forest Published 10/7/2012 at 5:00 p.m. 68 comments
+*   Morning chat Published 10/10/2012 at 12:00 a.m. 73 comments
+*   Gas price increase hurting businesses. reprieve could be coming Published 10/8/2012 at 6:40 p.m. 70 comments
+*   Editorial: Big Bird soars right onto the political stage Published 10/8/2012 at 3:51 p.m. 63 comments
+*   Morning chat Published 10/8/2012 at 12:00 a.m. 65 comments
 
 *   Jane Laut prosecutor leaving DA's Office. trial postponed Published 10/2/2012 at 11:54 a.m. 0 comments
-*   Oxnard Airport to start flights to Las Vegas Published 9/28/2012 at 5:56 p.m. 0 comments
+*   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 32 comments
 *   Gas prices keep rising. average $4.55 in Ventura Published 10/4/2012 at 1:25 p.m. 125 comments
+*   Oxnard Airport to start flights to Las Vegas Published 9/28/2012 at 5:56 p.m. 0 comments
 *   Police arrest barricaded suspect in Ventura Published 10/3/2012 at 3:21 p.m. 0 comments
-*   Walmart gears for Ventura store opening Published 10/1/2012 at 5:09 p.m. 107 comments
 
 Weather
 
@@ -663,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 69° Partly Cloudy Wind: SW 9mph Today 65° 54° Thu 02:00 AM Thunderstorms Temp: 56° Thu 02:00 PM Thunderstorms Temp: 64° Fri 02:00 AM Mostly Cloudy Showers Temp: 56°
+Currently 57° Fair Wind: Calm Today 64° 55° Thu 05:00 PM Mostly Cloudy Thunderstorms Temp: 63° Fri 05:00 AM Partly Cloudy Temp: 56° Fri 05:00 PM Partly Sunny Temp: 65°
 
-Feels Like: 56°
+Feels Like: 63°
 
-Humidity: 96%
+Humidity: 80%
 
-Precip: 40%
-
-Feels Like: 64°
-
-Humidity: 81%
-
-Precip: 42%
+Precip: 41%
 
 Feels Like: 56°
 
 Humidity: 96%
 
 Precip: 43%
+
+Feels Like: 65°
+
+Humidity: 72%
+
+Precip: 10%
 
 Is it Spring yet? 3/20/12  
 7:42 p.m.  
@@ -705,15 +702,15 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   So this is what democracy is supposed to look like
 *   Lee Rogers' guerilla campaign in CD 25
 *   The tale of a tiger
 *   Here's how to listen in on AARP town hall
-*   The debate before the debate
 
 Brian Dennert here
 
-*   Simi Valley Democratic Party HQ Grand Opening
-*   Gas prices: Dr. Lee Rogers drives a Chevy Volt
+*   The Education Foundation wants to lock me up
+*   Video: Rep. Buck McKeon against spending cuts for defense industries
 
 Ingemusings
 
@@ -727,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Wednesday Oct 10
 *   Thursday Oct 11
 *   Friday Oct 12
+*   Saturday Oct 13
 *   More BROWSE Icon
-
-*   Let's Get Together &. Talk About Hydrocephalus Rainbow Family Resource Center 11 a.m.
-*   Let's Get Together &. Talk About Hydrocephalus Rainbow Connection Family Resource Center 11 a.m.
-*   Free Noontime Concerts Santa Barbara Public Library - Central Library noon
-*   Job Program for Young Adults Ventura Adult and Continuing Education 5280 Valentine Road, Ventura 2 p.m.
-*   Ventura Better Breathers Club Meeting Community Memorial Hospital 3 p.m.
-
-More Events »
 
 *   Buildings at Risk: Earthquake Loss Reduction Summit – Oct. 11 Westin Bonaventure Hotel &. Suites 7 a.m.
 *   BBQ fun at The Bonaventure The Bonaventure noon
@@ -756,21 +745,29 @@ More Events »
 
 More Events »
 
+*   StoryFest Ventura Unified School District - Education Service Center 9 a.m.
+*   Bark in the Park Waverly Park 10 a.m.
+*   Community Free Flu Clinic Scheduled Los Robles Hospital &. Medical Center 10 a.m.
+*   The Golden California Antiques Show Glendale Civic Auditorium 1401 N Verdugo Rd Glendale, CA 91208 10 a.m.
+*   Classic Car Show at The Bonaventure The Bonaventure 10 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Pigskin Picks
-    
-    Play our pro football picks contest for a shot at $500 and other prizes.
-    
-    Election Central
+*   Election Central
     
     Get prepared for November with candidate profiles and answers to your questions.
     
     Local haunts
     
     Check out and add to our map of local Halloween haunts and events!
+    
+    On Campus
+    
+    Video profiles of high school football programs.
     
 *   95 percent accurate
     
@@ -780,21 +777,21 @@ More Events » Features
     
     Follow Loren Ledin's picks and choose your own leaderboard.
     
-    On Campus
-    
-    Video profiles of high school football programs.
-    
-*   Storm Shield
+    Storm Shield
     
     A sophisticated weather radio on your iPhone and Android.
+    
+*   Pigskin Picks
+    
+    Play our pro football picks contest for a shot at $500 and other prizes.
     
     Morning Chat
     
     Come on in and chat freely without all those pesky stories getting in the way.
     
-    iPhone App
+    #Ojai: How I See It
     
-    Download and take us with you wherever you go.
+    Your photos, your tweets, your Facebook posts about Ojai.
     
 
 On this site:
