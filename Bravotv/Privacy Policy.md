@@ -24,12 +24,12 @@ Bravo
     *   Watch What Happens Live
     
     What's On Tonight
-    *   9:00 PM The Real Housewives of New York CityEp 19: Reunion Part I
-    *   New 10:00 PM Life After Top ChefEp 2: No Food Deed Goes Unpunished
-    *   New 11:00 PM Watch What Happens LivePauly D., Ronnie Ortiz-Magro, Vinny Guadagnino, &. Mike ‘The Situation’See All Shows » See Full Schedule »
+    *   New 9:00 PM The Real Housewives of MiamiEp 5: Eager Beaver
+    *   10:00 PM The Real Housewives of MiamiEp 5: Eager Beaver
+    *   New 11:00 PM Watch What Happens LiveMorgan Fairchild &. Kate GosselinSee All Shows » See Full Schedule »
 *   People &. Blogs
     
-    *   Read The Dish's Latest Post Richard Blais' Running Tips for Travelers
+    *   Read Spike Mendelsohn's Latest Post Home is Where Spike's Business Is
     
     Current Bravolebrities
     
@@ -63,18 +63,18 @@ Bravo
     *   Teresa Giudice
     
     Recent Blog Posts
-    *   The Dish Copy Melissa Gorga's Glitter Eye Look
-    *   The Dish Aviva Drescher Makes Most Inspiring List
-    *   Jenni Pulos Jeff's New BoyfriendAll People » More Blog Posts »
+    *   Fabio Viviani Fabio: "We All Saw the Truth"
+    *   The Dish Richard Blais' Running Tips for Travelers
+    *   The Dish Copy Melissa Gorga's Glitter Eye LookAll People » More Blog Posts »
 *   Videos &. Full Episodes
     
-    *   The Real Housewives of New York City Vacation, All I Never Wanted, pt.1
+    *   Watch What Happens Live After Show: Snooki's Baby
     
     Recent Clips
     
-    *   The Real Housewives of New York City Vacation, All I Never Wanted, pt.2
-    *   The Real Housewives of New York City Vacation, All I Never Wanted, pt.3
-    *   The Real Housewives of New York City Vacation, All I Never Wanted, pt.4
+    *   Watch What Happens Live Mama's Boys
+    *   Watch What Happens Live Stump the Pump
+    *   Watch What Happens Live The Situation's Stripper Moves
     
     New Full Episodes
     *   The Real Housewives of New Jersey Episode 21: Reunion Part 1
@@ -284,13 +284,13 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   TOP CHEF JUST DESSERTS DESSERT IN DISGUISE
+*   BRAVO'S BIG PICTURE DRACULA 2000
     
-    5:00 PM ET
+    6:00 AM ET
     
-*   TOP CHEF JUST DESSERTS .
+*   BRAVO'S BIG PICTURE FOUR FEATHERS, THE
     
-    6:00 PM ET
+    8:00 AM ET
     
 
 view complete schedule The Dish - Bravo's Daily News Richard Blais' Running Tips for Travelers
