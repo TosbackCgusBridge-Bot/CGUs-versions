@@ -687,9 +687,9 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡Papacito!
+*   ¡Buenísimas!
     
-    Mira las fotos exclusivas de Marco de Paula.
+    Más de 70 fotos de cheerleaders de la NFL.
     
 *   ¡El color del año!
     
