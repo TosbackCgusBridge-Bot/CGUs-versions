@@ -220,21 +220,21 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Garden Court Hotel - Palo Alto Palo Alto, California
-    
-    Starting Thursday 10/11 at 11am EDT
-    
 *   Hotel Fauchère - Pennsylvania
     
-    Starting Thursday 10/11 at 11am EDT
+    Starting Today 10/11 at 11am EDT
     
 *   Park Hyatt Washington D.C.
     
-    Starting Thursday 10/11 at 11am EDT
+    Starting Today 10/11 at 11am EDT
     
 *   Bungalow Hotel - New Jersey
     
-    Starting Thursday 10/11 at 11am EDT
+    Starting Today 10/11 at 11am EDT
+    
+*   Garden Court Hotel - Palo Alto Palo Alto, California
+    
+    Starting Today 10/11 at 11am EDT
     
 *   Naladhu Maldives
     
