@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Man v Food Nati... UP NEXT › Guy's Big Bite
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Barefoot Contes... UP NEXT › Barefoot Contes...
 
 *   Channel  
     Guide
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
-*   Recipe of the Day: Salted Peanut Caramel Brownies - perfect for #ChocolateWeek t.co/LqakQW2O
-*   @thehugheslady ha! He's still here to report back. Looks like he enjoyed everything!
-*   @eatmypies will love that RT @spidoux84 @FoodNetwork\_UK great programme. Really enjoyed last nights episode. It's given me some foodie ideas
-*   Andy Bates American Street Feasts is on today 12:30 &. 18:30 on @FoodNetwork\_UK. Don’t miss out t.co/aUvAziSf #StreetFeastsUSA
-*   Looking for the best in street food? Use our interactive ‘Stweet Food Map’ to find vendors near you. t.co/RLqvKx2I #StreetFeastsUSA
-*   @sabrinaghayour DM away! Looking forward to it!
-*   Yes! RT @nahthenmardybum: watching mexican food made easy on @FoodNetwork\_UK i wish i could eat spicy food those empanadas! get in my belly
-*   @DalepakFoods Those Lucky Charms did prompt a mid-afternoon bowl of cereal for most of the office. Plus a bit of a scramble to get to them!
-*   @alaskaseafooduk couldn't agree more!
-*   We've got your @ChocolateWeek needs covered with 58 of our favourite recipes: t.co/HUjmbjN9 #chocolateweek
+*   @tonguencheeks Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #TonguenCheek!
+*   @ElKantina Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #ElKantina!
+*   @NYDeliCardiff Great job with all the pictures! Keep them coming! #StreetFeastsUSA
+*   @BagelBoyBristol Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #BagelBoy!
+*   @PizzaPilgrims Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #PizzaPilgrims!
+*   @MotherFlipperUK Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #MotherFlipperUK!
+*   @TheRibMan Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #TheRibMan!
+*   @Veggie\_Heaven Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #WholeFoodHeaven!
+*   @GreenGoatFood Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #GreenGoatFood!
+*   @BigAppleHotDogs Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #BigAppleHotDogs!
 
 Follow Us
 
