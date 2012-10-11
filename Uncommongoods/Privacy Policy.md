@@ -408,10 +408,6 @@
 *   handmade
 
 *   recycled
-*   best selling
-*   all pins
-
-*   best selling
 *   all rings
 
 *   rings
@@ -892,7 +888,6 @@
 *   men's accessories
 *   necklaces
 *   personalized jewelry
-*   pins
 *   rings
 *   travel
 *   wallets &. bags
