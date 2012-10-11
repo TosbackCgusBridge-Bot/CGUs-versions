@@ -269,7 +269,7 @@ Answers may amend this policy from time to time by posting the new text on the S
   
 If you have any questions or suggestions regarding this privacy policy, please contact Answers: privacy\_at\_answers.com.  
   
-ADVERTISEMENT Answer these Who came up with the phrase cubism? In: Word and Phrase Origins Answer it! Where can you get parts for Rossi revolver imported by Garcia Corp Washington DC? In: Washington DC Answer it! What causes the convection current to flow up at a point in the system? In: Earth Sciences Answer it! Is enough a antonym word? In: Synonyms and Antonyms Answer it! ADVERTISEMENT Answers Properties
+ADVERTISEMENT Answer these Why was it that the lower prices for farm goods after the Civil War were such a hardship on the nation? In: US Civil War Answer it! Why does tapioca contain wheat? In: Wheat Answer it! Where did the football helmet get invented? In: Football Equipment Answer it! Who was the original singer of memory? In: Music Genres Answer it! ADVERTISEMENT Answers Properties
 
 *   Wiki Answers
 *   Video Answers
