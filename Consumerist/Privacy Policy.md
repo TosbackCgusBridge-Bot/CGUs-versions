@@ -125,10 +125,10 @@ Tell a friend:
 **Want Consumerist in your inbox?** Popular Posts
 
 *   Time Warner Cable's Modem Fee Officially Makes Absolutely No Sense
+*   Camaro Owner Claims He Recorded Mechanics Joy Riding In His Car Then Blaming Him For Damage
 *   Lose Your iPhone 5 Charger And You'll Be Stuck With Expensive, Pretty Brick
-*   How Does A $59.95 Duct Cleaning Result In A $1529 Bill?
-*   A Visual 3-Step Guide To Detecting ATM Skimmers
-*   84-Year-Old Woman Asks City How She Could Possibly Use 55K Gallons Of Water In A Month
+*   Darden Experiments With Cutting Worker Hours To Avoid Paying Health Insurance
+*   Allstate Won't Cover My Stolen Instrument Because Sometimes I Get Paid To Play Music
 
 About Consumerist
 
