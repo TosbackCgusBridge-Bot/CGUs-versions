@@ -287,20 +287,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Football:** Alan Shearer's Joe Allen analysis misses point, says Brendan Rodgers
-2.  2\. **News:** Gang-rape trial shocks France and sparks row over justice system
-3.  3\. **Society:** Ban under-threes from watching television, says study
-4.  4\. **Technology:** 'iPad mini' likely to be Wi-Fi-only – but revised 9.7in model will offer UK 4G
-5.  5\. **Music:** Pete Townshend: 'I can get a bit self-righteous now'
+1.  1.  **Sport:** Lance Armstrong's team 'ran most sophisticated doping programme ever'
+2.  2\. **News:** Romney's abortion comments leave campaign scrambling to unify ticket
+3.  3\. **Sport:** Lance Armstrong: doping denials flushed away in Usada's flood of detail
+4.  4\. **News:** Pubs and clubs to face closure in rape crackdown
+5.  5\. **News:** Cockroach-eating contest winner dies in Miami - video
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Fashion:** How to dress: cropped trousers and mary-jane shoes - video
-2.  **Travel:** 10 Christmas cottages to rent - in pictures
-3.  **Sport:** Lance Armstrong was at heart of 'sophisticated doping ring' – live
-4.  **Society:** Homelessness: Mario's story – audio slideshow
-5.  **Media:** Lord Patten breaks his silence on Jimmy Savile scandal
+1.  **Media:** Jimmy Savile: should the BBC director general make an on-air apology?
+2.  **Sport:** Lance Armstrong: doping denials flushed away in Usada's flood of detail
+3.  **Law:** Shrewsbury 24 case: Heath government discussed prosecution of union pickets
+4.  **Education:** GCSE scandal: 45,000 pupils to resit English exams
+5.  **Books:** Why Swimming Home should win the 2012 Booker Prize - video
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -308,21 +308,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  San Francisco Giants vs. Cincinnati Reds: NLDS Game 4 — live!
-2.  2\. TV review: DCI Banks. Great British Food Revival
-3.  3\. Prince Bandar bin Sultan – profile
-4.  4\. Meningitis outbreak: second company closes as number of cases reaches 137
-5.  5\. St Louis Cardinals 8, Washington Nationals 0 - as it happened
+1.  1.  Syrian plane leaves Turkey after arms inspection - live updates
+2.  2\. Anthony Horowitz talks about his new Power of Five book, Oblivion - video
+3.  3\. Vice-presidential debate: Biden and Ryan meeting holds added significance
+4.  4\. Nobel prize in literature 2012: Mo Yan wins - live blog
+5.  5\. Fairground attraction: Shoot! Existential Photography exhibition – in pictures
 6.  All today's stories
 
 On the Guardian today
 
-1.  World news The struggle for Obama's voters: 'I just wish he could have been better'
-2.  Sport Lance Armstrong was at heart of 'sophisticated doping ring' – live
-3.  Life and style Mapping the body: the temple
-4.  World news Syria crisis: US sends troops to Jordan - Wednesday 10 October 2012
-5.  Business Eurozone crisis live: BAE-EADS merger collapses. IMF demands more action - as it happened
-6.  Comment is free US supreme court finalizes gift of immunity to the telecom giants
+1.  Life and style Mapping the body: the temple
+2.  Business Downgrade raises pressure on Madrid to accept bailout
+3.  Sport Lance Armstrong's team 'ran most sophisticated doping programme ever'
+4.  Sport Lance Armstrong: doping denials flushed away in Usada's flood of detail
+5.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
 
 *   License/buy our content
 |*   Privacy policy
