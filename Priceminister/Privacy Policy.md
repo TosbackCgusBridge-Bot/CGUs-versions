@@ -1,8 +1,8 @@
-17 190 000 membres - 198 188 756 articles
+17 195 000 membres - 198 188 756 articles
 
 ". divString += "". document.write(divString).
 
-page crée le 2012 10 10 23:10:12
+page crée le 2012 10 11 14:09:20
 
 bbc2a27a2d82f6a45062138320946ce920100915
 
@@ -96,7 +96,7 @@ Lors de l’organisation de jeux-concours, PriceMinister est susceptible de coll
 
 Données de navigation - Cookies
 
-1\. Pourquoi mes données de navigation sont-elles collectées?  
+**1\. Pourquoi mes données de navigation sont-elles collectées ?**  
   
 C'est dans le même souci de personnalisation des services offerts que nous collectons également des données de navigation, et avons recours à divers cookies nous signalant votre passage sur notre site.  
   
@@ -128,7 +128,7 @@ Enfin, les offres publiées sur le site sont susceptibles d’être accompagnée
 Nous n'avons aucun contrôle sur le processus employé par les réseaux sociaux concernés (Facebook, Twitter, Google+, etc.) pour collecter ces informations et vous invitons à consulter les politiques de confidentialité de ces derniers.  
    
   
-2\. Comment désactiver la sauvegarde de ces données?  
+**2\. Comment désactiver la sauvegarde de ces données ?**  
   
 Nous vous informons que l’ensemble de ces informations ne sont collectées que lorsque les cookies sont activés et qu’à tout moment, vous pouvez vous opposer à l'enregistrement de ces cookies en configurant votre navigateur Internet.  
    
@@ -137,13 +137,13 @@ Vous pouvez en effet modifier les paramètres de votre navigateur de manière à
 En particulier, certains cookies sont utilisés pour afficher des publicités personnalisées vous proposant des produits similaires à ceux déjà consultés et disponibles sur PriceMinister. Pour désactiver ce service, rendez-vous aux adresses suivantes :  
    
 \>. Critéo  
-\>. Avazu  
 \>. MyThingsMedia  
 \>. Hi-Media  
 \>. 1000mercis  
 \>. NuggAdd  
 \>. Weborama  
 \>. ThinkRealTime  
+\>. mediaFORGE  
    
 Ainsi, l’enregistrement des cookies décrits ci-dessus dans votre terminal est essentiellement subordonné à votre volonté, que vous pouvez exprimer et modifier à tout moment à travers les choix qui vous sont offerts par votre logiciel de navigation. Si vous avez accepté dans votre logiciel de navigation l’enregistrement de cookies dans votre terminal, PriceMinister, nos prestataires de mesures et nos partenaires publicitaires pourront effectuer les traitements de vos informations de navigation décrits ci-dessus, sous réserve des droits que vous aurez exercés.  
    
