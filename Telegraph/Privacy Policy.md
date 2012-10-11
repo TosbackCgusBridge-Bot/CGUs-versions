@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Wednesday 10 October 2012
+Thursday 11 October 2012
 
 *   Home
 *   News
@@ -138,11 +138,13 @@ In About us
 
 Editor's Choice »
 
-John Lennon book scrapes the barrel  
+Afterlife: full of fluffy clouds and angels?  
 
-A book of letters, lists and doodles only makes Lennon look silly, says **Neil McCormick**
+What does the neuroscientist **Colin Blakemore** make of an American neurosurgeon’s account of the afterlife?
 
-Boris has a deadly weapon – wit Tory conference: bunting, buffets and... lapdancers? On the school run with SuperNova Carolyn Cassady: my story of Jack Kerouac Advertisement
+Comments
+
+Who is teaching our children how to code? Douglas Hodge: 'my Cyrano won’t be pretty' Rolling Stones: Doom and Gloom, review Rose Prince: I’m always game for pheasant Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
