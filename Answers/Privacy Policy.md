@@ -269,7 +269,7 @@ Answers may amend this policy from time to time by posting the new text on the S
   
 If you have any questions or suggestions regarding this privacy policy, please contact Answers: privacy\_at\_answers.com.  
   
-ADVERTISEMENT Answer these What is the plural spelling for false feet? In: Pronouns Answer it! When limestone undergoes metamorphism it produces which metamorphic rock? In: Geology Answer it! Why is my blackberry screen not showing anything? In: BlackBerry Devices Answer it! Did Obama lose jobs in America? In: Barack Obama Answer it! ADVERTISEMENT Answers Properties
+ADVERTISEMENT Answer these When did the Japanese surrender Singapore? In: Japan in WW2 Answer it! What is an antonym for the word tier? In: Synonyms and Antonyms Answer it! How might budgetary control produce organizational conflict? In: Business &. Finance Answer it! How does the environment influence life negatively? In: Environmental Issues Answer it! ADVERTISEMENT Answers Properties
 
 *   Wiki Answers
 *   Video Answers
