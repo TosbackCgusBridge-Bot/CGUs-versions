@@ -113,17 +113,18 @@ Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad Equine.com is the Official Classifieds Site for our 25+ partner sites including: Testimonials **Don't just take our word for it...** " Super fast sale to a wonderful new owner in NJ.I live in a very rural area in Virginia and my farm would not be as sucessfu..."  
-**Kim**  
-, Virginia "I got many responses from my ad on Equine.com. It was a great way to show potential buyers all of the information that I had ..."  
-**Rebecca**  
-Raleigh, North Carolina "Sold in one week. Had the most interest using Equine.com. "  
-**Mary**  
-Sussex, New Jersey " I have sold &. leased several horses on Equine.com. It's a fantastic website! "  
-**Rachel**  
-Ellicott City , Maryland " Was great. Easy and much better then taking the horse to a horse sale. "  
-**Someone**  
-Brainerd , Minnesota View More Testimonials
+Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad **Exposure**  
+Sell online and in regional publications. Online ads have up to 24 color photos. Our network of magazines appear throughout the U.S. Testimonials **Don't just take our word for it...** " I posted Dutch and I within a day or two I got a slew of emails. He was sold to the second person who tried him with-in a w..."  
+**Kathi**  
+Nokesville, Virginia "Really good format for an ad. Easy place to show heritage, love the ability to show many many photos in an easy view slidesh..."  
+**Lindsay**  
+Avon , New York " Thanks to the AQHA our ads are getting out all over the US. This gelding is going to Arizona. "  
+**Bill and Rosa**  
+Americus , Georgia " I have sold a few horses on this sight and have have found it easy to use and well worth the investment. I sold this horse ..."  
+**dwight**  
+Choctaw, Oklahoma " Equine.com really is seen all over the world. Someone serving in Iraq bought our pony for their family!! Every thing went s..."  
+**Amanda**  
+weybridge, Vermont View More Testimonials
 
 *   Advertise
 *   |
