@@ -116,34 +116,35 @@ Universal City, CA 91608
 
 **Terms of Service >**
 
-Recent Episodes Air Date: 10/10/12
+Recent Episodes Air Date: 10/10/12 Watch Until: 11/15/12
 
-Days of our Lives
+Chicago Fire
 
-Ep 11936: Wednesday - 10/10/12
+Ep 101: Pilot
 
-Caroline's condition worsens.
-
-*   Read Recap
-
-Air Date: 10/9/12 Watch Until: 11/21/12
-
-Parenthood
-
-Ep 405: There's Something I Need to Tell You...
-
-Hank surprises Sarah. Julia makes a life-altering decision, and Kristina shares her situation with the family.
+When a tragedy claims one of their own, there's plenty of guilt and blame to go around.
 
 *   Watch Episode
 *   Read Recap
 
-Air Date: 10/9/12 Watch Until: 11/14/12
+Air Date: 10/10/12 Watch Until: 11/15/12
 
-The New Normal
+Law and Order: SVU
 
-Ep 106: Bryanzilla
+Ep 1403: Twenty-Five Acts
 
-Shania announces that she and her classmate are "pretend" engaged.
+A budding erotic fiction author becomes the victim of a sexual assault when a sleazy talk show host takes her writing to heart.
+
+*   Watch Episode
+*   Read Recap
+
+Air Date: 10/10/12 Watch Until: 11/22/12
+
+Guys with Kids
+
+Ep 103: The Standoff
+
+All three dads run into unique problems trying to discipline their kids.
 
 *   Watch Episode
 *   Read Recap
