@@ -1,4 +1,4 @@
-SlideShare. Present yourself. Upload Login or Signup Go Pro × × × × ×
+SlideShare. Present yourself. Upload Login or Signup Go Pro × × × × × ×
 
 *   Terms of Service
 *   DMCA
