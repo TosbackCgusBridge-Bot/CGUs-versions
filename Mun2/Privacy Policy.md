@@ -25,16 +25,8 @@ _Jump to Navigation_ ↓
     *   show archives
     *   interactive videos
 
-schedule right now: October 10 02:00 PM · L'CREME coming up next:
+schedule right now: October 11 12:00 AM · LARRYMANIA coming up next:
 
-*   3:00 PM · DELICIOUS
-*   4:00 PM · L'CREME
-*   5:00 PM · CHIQUIS 'N CONTROL
-*   6:00 PM · 12 CORAZONES
-*   7:00 PM · WWE RAW
-*   10:00 PM · OJO POR OJO
-*   11:00 PM · OJO POR OJO
-*   12:00 AM · LARRYMANIA
 *   1:00 AM · DECISIONES
 *   2:00 AM · L'CREME
 *   3:00 AM · MORNING BREATH
@@ -42,6 +34,14 @@ schedule right now: October 10 02:00 PM · L'CREME coming up next:
 *   5:00 AM · MORNING BREATH
 *   6:00 AM · SMB
 *   8:00 AM · MORNING BREATH
+*   9:00 AM · MORNING BREATH
+*   10:00 AM · L'CREME
+*   11:00 AM · MORNING BREATH
+*   12:00 PM · L'CREME
+*   1:00 PM · REVENTON
+*   2:00 PM · L'CREME
+*   3:00 PM · L'CREME
+*   4:00 PM · AL CIEN 100%
 
 see full schedule >>.
 
