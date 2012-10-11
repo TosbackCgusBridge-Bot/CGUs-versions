@@ -581,6 +581,7 @@ Call us at: 1-888-844-0667 (Monday-Friday 7am-7pm CST) Customer Service
 *   About Us
 *   Buyer's Club
 *   Privacy Policy
+*   CA Supply Chain Act
 *   Join Affiliate Network
 *   Retail Store
 *   TV Commercials
