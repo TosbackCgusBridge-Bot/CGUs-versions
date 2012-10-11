@@ -95,15 +95,15 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Country Living advertisement
 
-*   **Mexican**
-
-*   **soups**
-
 *   **chicken**
 
-*   **soup**
+*   **Halloween**
 
-*   **potato soup**
+*   **chocolate pie**
+
+*   **Soup**
+
+*   **halloween cake**
 
 Home &. Decorating
 
