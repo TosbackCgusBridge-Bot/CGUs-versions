@@ -668,7 +668,6 @@ Y*   Books + Media
         *   Housewares and Tabletop
         *   open Holiday Decorating
             *   Indoor
-            *   Outdoor
     *   open Bed + Bath
         *   open Towels
             *   Bath
@@ -1027,7 +1026,6 @@ Y*   Books + Media
             *   Household Organization
             *   Bowls
         *   open Baking + Cooking
-            *   Bakeware
             *   Cookware
 
 *   Shop Catalogs
