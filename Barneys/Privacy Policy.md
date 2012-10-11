@@ -2,7 +2,7 @@ COMPLIMENTARY SHIPPING ON ALL US ORDERS
 
 See Details
 
-Log In Favorites Favorites My favorites (3) Most Loved theyskens\\' theory Ziggy Barneys New York Search
+Log In Favorites Favorites My favorites (3) Most Loved Alexander Wang Donna Hobo Barneys New York Search
 
 *   New Arrivals
     *   All New Arrivals
@@ -110,7 +110,7 @@ Log In Favorites Favorites My favorites (3) Most Loved theyskens\\' theory Ziggy
     Lanvin Printed Python Platform _$855_ $339 _Sale_
 *   The window Insider Fashion Access Video
     
-    From Paris With Love: Behind The Scenes At The AMI Presentation
+    Fall’s No. 1 Staple: A Laveer Blazer (or Three)
     
 *   Trends
     
