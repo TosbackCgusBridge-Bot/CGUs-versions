@@ -265,19 +265,19 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 Offliberty Englisch Freeware
-*   2 Savage XR - The Battle for Newerth 1.0 Englisch Freeware
-*   3 Nitro PDF Reader (64 Bit) 3.0 Final Deutsch Freeware
-*   4 Contre Jour Deutsch Freeware
-*   5 Thunderbird 16.0 Final Deutsch Freeware
+*   1 CopyTrans Contacts 1.003 Deutsch Shareware
+*   2 Nvidia-GeForce-Treiber für Vista/Windows 7/8 v306.97 Deutsch Freeware
+*   3 Calibre Portable 0.9.2 Deutsch Freeware
+*   4 Sleipnir 3.7.4 Englisch Freeware
+*   5 WinFuture Windows Vista SP2 Update Pack (Vollversion) 3.35 Deutsch Freeware
 
 ...mehr
 
 **RSS-Feed** Download-Tipps der Redaktion
 
 *   1 Spiele-Vollversionen: Kostenlos zum Download
-*   2 Top 100: Die beliebtesten Downloads auf Deutsch
-*   3 Top 33: Die besten Herbst-Downloads
+*   2 Top 33: Die besten Herbst-Downloads
+*   3 Top 100: Die beliebtesten Downloads auf Deutsch
 *   4 Downloads des Verderbens: Vorsicht bei diesen Tools
 *   5 Bundesliga live sehen - im Internet deutsch und gratis
 
@@ -295,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Sicherheits-Gau: Mozilla zieht Firefox 16 zurück
 *   Alle Ebook-Reader im Test
 *   HD Dia Duplikator: Dia-Scanner für die DSLR im Test
 *   Android Tablets: 33 coole Tipps &. Tricks für Anfänger und Fortgeschrittene
 *   SSD Test: 100 Solid State Disks im Vergleichstest
-*   Studentenrabatt: Sparen bei Apple, Samsung, Dell, Sony &. Co.
 
 ...mehr
 
@@ -320,10 +320,10 @@ Sponsored Links
     
     *   Test
 *   Samsung Galaxy Note 2 N7100  
-    ab 568,99 €
+    ab 557,98 €
     
 *   Samsung Galaxy Nexus I9250  
-    ab 314,00 €
+    ab 309,00 €
     
     *   Test
 *   Samsung Galaxy S Duos  
@@ -343,7 +343,7 @@ Meistgelesene Themen
 *   Tastatur umstellen Englisch/Deutsch
 *   Adamski TV funzt trotz aller Bemühungen eben nicht!!!!
 *   Chatzum entfernen
-*   Erste Hilfe bei Infektionen (Viren, Würmer, ...)
+*   Facebook knacken leicht gemacht...
 *   GVU 2.07 virus entfernen
 
 ...mehr
