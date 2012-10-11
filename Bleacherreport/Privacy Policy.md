@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 1 hour ago
+about 13 hours ago
 
-@BleacherReport: Mark Sanchez wears No. 6, lost the 666th MNF game, has 6 TDs, 6 INTs, a 66.6 rating, 6.6 yards/pass and a long of 66 yd (via @BryanAGraham)
+@BleacherReport: Live from Yankee Stadium for Game 3 of the ALDS http://t.co/CzwJTmk4
 
 Newsletters
 
@@ -195,9 +195,9 @@ Popular Topics
 *   2013 NBA Mock Draft
 *   NBA Trade Rumors
 *   NFL Power Rankings
-*   NFL Picks Week 5
+*   NFL Picks Week 6
 *   College Football Rankings
-*   Fantasy Football Rankings
+*   Fantasy Football Waiver Wire
 *   Heisman Watch 2012
 *   MLB Playoff Schedule 2012
 *   UFC 153
