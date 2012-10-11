@@ -8,10 +8,10 @@ Register Sign in Welcome, Logout
         *   Mitt Romney
         *   Barack Obama
         *   2012 Presidential Debates
-        *   From the Wires
-        *   TV
+        *   Twitter
+        *   Paul Ryan
         *   Business
-        *   Republicans
+        *   From the Wires
         *   Supreme Court
         *   Republican Party
 *   RSS
@@ -194,29 +194,29 @@ About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service 
 
 It's crunch time!
 
-Current Stories Nobel Prize for Literature: This year's favorites
+Current Stories For-profit inspectors allow toxic food
 
-News. Likely winners include Haruki Murakami, Alice Munro and many writers you've never heard of
+News. A Bloomberg Markets investigation shows dangers of food industry taking over from FDA
 
-Jack Welch's Gallup problem
+How would you shame Paul Ryan?
 
-Politics. The polling company's surveys show unemployment dropping fast. Did the "Chicago boys" get to them, too?
+Politics. Joe Biden could use any number of quotes to shame Paul Ryan. Which would you go with?
 
-Ira Glass goes on Ask Me Anything
+National Book Awards: Genre fiction dissed again
 
-Entertainment. The public radio superstar discusses the stories that get away, playing pool and what he feeds his dog
+Entertainment. The National Book Awards name five worthy finalists but ignore "Gone Girl" and 2012's top crime, sci-fi and fantasy
 
-Universities dump Adidas over labor abuses
+Does he like me?
 
-Life. Cornell and Oberlin have both broken ties with the sportswear giant over treatment of factory workers
+Life. A new site lets users crowdsource answers to that age-old question via text-message analysis
 
 Most Read
 
+*   In "Glittering" return, Paglia lets loose Kerry Lauerman
+*   New Zealand issues Hobbit coins as legal tender Prachi Gupta
 *   Walmart strikes spread to more states Josh Eidelson
-*   New York Times staffers stage walkout Natasha Lennard
-*   GOP: Gays Out of the Party Jonathan Rauch
-*   Ex-GOP Sen. Larry Pressler on supporting Obama: "Veterans were very offended" by Romney Alex Seitz-Wald
-*   Ten of the right's craziest election conspiracies Mark Howard, Alternet
+*   Can Republicans scare their way to victory? Robert Reich, ROBERTREICH.org
+*   Walmart's Black Friday ultimatum Josh Eidelson
 
 Voices
 
