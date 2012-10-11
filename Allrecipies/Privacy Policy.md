@@ -1,6 +1,6 @@
 More searches: Ingredient | Nutrition | Advanced Email or User Name Remember Me Password (forgot?)    
 
-*   *   *   *   Best Brownies See how to make moist, fudgy, perfectly decadent brownies. »
+*   *   *   *   Slow Cooker Beef Stew IV See how to make a classic wine-based stew in the slow cooker. »
         
         *   *   Football Recipes The best game-day bites. »
         
@@ -368,10 +368,10 @@ Follow us on Twitter!
 Most Popular Blogs
 
 *   MUUUUHAAHAHAA!!!!! October 8, 2012 8:32 AM
-*   A Food Civil War October 7, 2012 9:27 AM
 *   Usernames October 8, 2012 3:27 PM
+*   A Food Civil War October 7, 2012 9:27 AM
+*   What is your weapon of choice in the kitchen? October 9, 2012 11:22 AM
 *   Make Me STOP!! October 6, 2012 10:07 PM
-*   Southern Roundup Part 1 October 6, 2012 9:37 AM
 
 Read our allrecipes.com blog
 
