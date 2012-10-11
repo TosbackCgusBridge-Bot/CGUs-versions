@@ -120,8 +120,6 @@ Find a Store **Select a Store** My Cart 0
     *   Find a Repair Shop
 *   /images/MEDIA\_ProductCatalog/m750003\_dealsv1\_over.gif
 
-FREE $15 Gift Card for every $100 spent on Ship To Home orders. Find Out How 
-
 *   Terms and Conditions
 *   Logins and Cookies
 *   Rules and Regulations
