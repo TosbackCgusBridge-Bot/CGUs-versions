@@ -1,6 +1,6 @@
 (skip this header)
 
-Wednesday Oct 10, 2012 2:05 PM PT
+Thursday Oct 11, 2012 5:06 AM PT
 
 ° (change)
 
@@ -60,12 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Viral kid stars get series
-*   Trails Forever party
-*   Fashion's Rubenstein in S.F.
-*   Images of the Ironman
-*   Above San Pablo Bay
-*   Endorsements
+*   Drinking habits from mom
+*   Target improves Metreon
+*   Debate pizza gimmick ripped
+*   Alex Smith, Obama talk football
+*   $1M catch for OC man?
 
 *   Bay Area &. State
 *   Nation
@@ -339,11 +338,22 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Cow Palace
+*   Cheapest 5 cities
+*   Bargain Bites 2012
+*   A's beat the Tigers in the bottom of the 9th
+*   Giants win game 5 of the NLDS playoffs
+*   World in Focus
+*   Nation in Focus
+*   Mira Mira
+*   Giants at Reds: Game 4
+*   Day in Pictures, Oct. 10, 2012
+*   2012 Almond harvest
+*   Glamour Presents 'These Girls' at Joe's Pub
 *   Behind the scenes at Dandelion Chocolate
 *   Demo of the David and Gladys Wright home postponed
 *   World in Focus
 *   Trails Forever Dinner 2012
-*   Glamour Presents 'These Girls' at Joe's Pub
 *   Ironman Images
 *   Day in Pictures, Oct. 9, 2012
 *   The dirtiest ballparks in America
@@ -368,16 +378,6 @@ Ads by Yahoo! Photo Galleries
 *   Gwyneth Paltrow through the years
 *   Oregon vineyards
 *   Rothko and Tate
-*   Week 5: 49ers vs. Bills
-*   Abbot's Cellar
-*   Mila Kunis: Esquire's 'Sexiest Woman Alive'
-*   Key figures in the Sandusky saga
-*   Ten ground-breaking chefs
-*   Alex Smith
-*   Nation in Focus
-*   America's Cup World Series finishes in S.F.
-*   America's Cup World Series and Fleet Week.
-*   Hardly Strictly Bluegrass Festival
 
 *   Most Read
 *   |
@@ -385,53 +385,57 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Ross Mirkarimi to keep job, supes decide
-2.  French boat's rescuer seeks $200K award
-3.  Pence puts a charge into his team
-4.  S.F. Target makes Metreon a better box
-5.  OC man may have caught $1 million tuna
-6.  Prostitution arrests rock Maine tourist town
-7.  Ranking the dirtiest ballparks in America
+1.  A's save best for last: 4-3 walk-off win
+2.  Shocking! Plus-size model wears bikini!
+3.  Bone may be linked to Michaela Garecht
+4.  Tim Lincecum stars as SF Giants pound Reds, force a deciding Game 5
+5.  Mother of former SEAL asks Romney to stop
+6.  Olivia Wilde says sex life comments taken out of context
+7.  S.F. sheriff's job not all that secure
 
 1.  Ross Mirkarimi to get sheriff's job back
-2.  Obama campaign deploys Big Bird in new ad
-3.  Supervisors' hearing on Mirkarimi's fate gets underway
-4.  Obama asks supporters to be 'obsessive'
-5.  Why won%u2019t Obama step up?
-6.  The Must-See Movies -- Made Before 1960
-7.  French boat's rescuer seeks $200K award
+2.  Bill Clinton draws 8,000 to UC Davis rally
+3.  French boat's rescuer seeks $200K award
+4.  Why won%u2019t Obama step up?
+5.  Shame on 4 supervisors over sheriff vote
+6.  Tim Lincecum stars as SF Giants pound Reds, force a deciding Game 5
+7.  Bruce Bochy changes his mind. Hector Sanchez to catch Barry Zito
 
 1.  French boat's rescuer seeks $200K award
-2.  Explosive growth in sudden oak death
-3.  Huge window switch recall hampers Toyota comeback
-4.  Ross Mirkarimi to keep job, supes decide
-5.  Sausalito home with vast views
-6.  Pence puts a charge into his team
-7.  OC man may have caught $1 million tuna
+2.  Pesticides blamed by report for illnesses
+3.  A's just don't know when they're finished
+4.  Six in 10 C-Store Shoppers Willing to Use Mobile Wallets, According to Paradigm Sample
+5.  A's save best for last: 4-3 walkoff win
+6.  Mother of former SEAL asks Romney to stop
+7.  Movie review: 'Taken' keeps on giving
 
 loading... Latest News Videos From our homepage
 
 *     
-    Jason Henry, Special To The Chronicle / SF
+    Carlos Avila Gonzalez, The Chronicle / SF
     
-    Mirkarimi gets his job back
+    Wowz-A's!
     
-    Supes' vote is blow to Ed Lee. | Sheriff called 'wife-beater'
+    A's near elimination when they rally to force Game 5. Photos
     
-*   Editorial: Shame on 4 supes
+*   It's a Heart Attack Thursday
 
-*   Foul! Our grossest ballparks
+*     
+    Courtesy Photo / SF
     
-    Grading Major League ballparks on cleanliness - where do AT&T, Coliseum rank?
+    Bone may be missing girl's
+    
+    Disappearance of Michaela Garecht in 1988 could be linked to 'Speed Freak Killers' well.
     
 
 *     
-    Catherine Nguyen / SF
+    Erik Verduzco, Special To The Chronicle / SF
     
-    Vast views from Sausalito
+    Mirkarimi may face recall
     
-    Angel Island, S.F. and the water spanning Belvedere to Alcatraz can be seen from $2.15M home.
+    Supe who voted to reinstate him says she'd back effort to oust him.
     
+*   Nevius: A loss for S.F.
 
 *   Home
 *   News
