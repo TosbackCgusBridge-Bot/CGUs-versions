@@ -147,49 +147,49 @@ Headlines of the Week
 **From the Fark Shop:**
 
 *     
-    Come At Me Brew 2
+    I Support Amateur Chainsaw Juggling
 *     
-    Doctor Who - The Flesh Goo Pod
+    From Rotten with Love
 *     
-    Drinking Sticky Notes
+    Wolverine Ski Mask
 *     
-    Holiday Hound - Dog Tie
+    Sasquatch Seltzer Water Bottle
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
+The Real Life Anime Girl: Dateable or...  
+Super Terrific Japanese Thing: Behold...  
 Hate the Porn Boom? Blame 'Twilight'...  
 Guy Banned From All-You-Can Eat Buffe...  
-Stewart &. O'Reilly Rumble... And It's...  
-Man Dies After Bug-Eating Eating Cont...  
 More news at Scribol »  
   
   
-David Fincher And Tim Miller Working...  
-Pinel &. Pinel Arcade PS Trunk: The Ul...  
-IndieCade 2012: Dyad, Splice, Gorogoa...  
-Green Arrow, The Joker, And Green Lan...  
-More news at G4TV »  
+5 Reasons The Guy Fixing Your Compute...  
+4 Climbers Who Gave Altitude the Midd...  
+4 WTF Stories from the Legend of King...  
+16 Famous Video Games Revised to be P...  
+More news at Cracked »  
   
   
-Strangers to Reason: LIFE Inside a Ps...  
-Gunning for White-Winged Doves, 1961  
-Lowbrow Highlights: In Praise of Clas...  
-Growing Up Romney: Mitt's Early World  
-More news at Life »  
+What Are The Top 14 Most Memorable To...  
+Salma Hayek Sizzles In The November H...  
+Newlywed Blake Lively Sizzles In A Si...  
+Stacey Dash Fires Back At Critics Ove...  
+More news at Starpulse »  
   
   
-Pre-Labor Day Pregnant Bikini Contest  
-The State Fair Food That Will Cause Y...  
-The 20 Worst Hipster Bands: The Compl...  
-Internet Cat Video Film Festival Exists  
-More news at Village Voice »  
+Watercooler Stories  
+Jockstrip: The world as we know it.  
+Your Daily Horoscope  
+People in the news  
+More news at UPI »  
   
 
 Also on Fark
 
-Main Padma Lakshmi allows a fan to eat a piece of ham off her body for a $1000 charitable dona...This just in, several financial institutions have just closed due to an unexpected and massive bank run ( huffingtonpost.com ) » (40 comments) Sports "The evidence shows beyond any doubt that the US Postal Service ... ran the most sophisticated, professionalized and successful ... program ... ever seen." If only they were talking about the mail ( usatoday.com ) » (20 comments) Business Rich 'Dad,' bankrupt Dad ( nypost.com ) » (58 comments) Geek ResISStance is futile ( blogs.discovermagazine.com ) » (14 comments) Entertainment Padma Lakshmi allows a fan to eat a piece of ham off her body for a $1000 charitable dona...This just in, several financial institutions have just closed due to an unexpected and massive bank run ( huffingtonpost.com ) » (40 comments) Politics Big Bird is really pissed off at Mitt Romney. "I've been teaching kids to read for 43 years, what the f@$k did you ever do besides buy a f@$king sporting goods store.." (Not safe for work) ( uproxx.com ) » (27 comments) Video Fat pig jumps put of moving car ( liveleak.com ) » (19 comments)
+Main Nuns still aren't giving up in their fight against Vatican II: Heretical Boogaloo ( npr.org ) » (17 comments) Sports 16-year-old Texas girl sets a world handspring record by performing 35 in a row on a football field, mesmerizing all 573 males who were in the stands ( offthebench.nbcsports.com ) » (9 comments) Business Goodbye, Ruby Tuesday profits ( marketwatch.com ) » (7 comments) Geek This will be epic. No, really ( guardian.co.uk ) » (36 comments) Entertainment Anthony Hopkins is perfect in new 'Hitchcock' trailer portraying Alfred Hitchcock during the making of Psycho. He might have fooled me, but he didn't fool my mother, and a boy's best friend is his mother ( youtube.com ) » (2 comments) Politics Wisconsin Representative Roger Rivard (R-epulsive), "Some girls rape easy" ( jsonline.com ) » (182 comments) Video 7 instances of animals rescuing other animals (w/all on one page video goodness) ( oddee.com ) » (2 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -199,5 +199,5 @@ Main Padma Lakshmi allows a fan to eat a piece of ham off her body for a $1000 c
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 10 2012 17:00:46  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 11 2012 08:00:33  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
