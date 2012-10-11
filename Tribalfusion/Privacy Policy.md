@@ -34,9 +34,9 @@ Exponential
 
 \>. News
 
-Exponential Interactive welcomes mobile maven Venessa Hunt as Appsnack’s first sales director ANZ Sep 27, 2012
+Exponential Interactive launches its third division in the UK. AppsnackTM, with Carat the first to savor bite-sized mobile advertising apps for Debenhams Oct 04, 2012
 
-Digital advertising provider Exponential embraces the mobile marketing business opportunity with strategic new appointment
+Owner of Tribal Fusion and Firefly Video will offer mini-app experiences launched from advertising inventory in mobile apps and across the mobile web
 
 more news Careers
 
