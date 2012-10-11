@@ -19,7 +19,7 @@ Sign In Browse|Movies |Upload Search
 *   Terms
 *   Privacy
 *   Safety
-*   Report a bug
+*   Send feedback
 *   Try something new!
 
 *   Language: English
