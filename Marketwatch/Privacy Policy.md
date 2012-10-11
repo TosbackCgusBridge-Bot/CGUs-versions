@@ -1,8 +1,8 @@
-Bulletin Euro erases gains after S&P downgrades Spain Investor Alert
+Bulletin Investor Alert
 
-New York Markets After Hours
+New York Markets Open in:
 
-After Hours EarningsWatch Evening Winners and Losers
+Pre-Market Indications Analyst Ratings Oil News EarningsWatch
 
 Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
@@ -198,89 +198,87 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 5:06 PM EDT October 10, 2012 /marketstate/country/us New York After /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 11, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  5:01p
+/news/latest1.  8:06a
     
-    Euro erases gains after Spain downgraded
+    Intercept Pharma 5M-share IPO prices at high end
     
-2.  5:00p
+2.  8:06a
     
-    U.S. stocks fall on earnings. Alcoa weighs on Dow
+    If only the EU were more like Norway
     
-3.  4:58p
+3.  8:01a
     
-    Oil ends 1.2% lower on supply, demand prospects
+    Treasurys and dollars are your best bets now
     
-4.  4:57p
+4.  8:01a
     
-    BREAKING
+    Moody's puts 30 Calif. cities on review
     
-    S&P downgrades Spain to 'BBB-' from 'BBB+'
+5.  8:01a
     
-5.  4:52p
+    Should retirees in âthe 47%â pay income taxes?
     
-    The Great Rotation: Why bond buyers should worry
+6.  8:00a
     
-6.  4:51p
+    7 tricks to carving Halloween bills
     
-    Cult of Franken Berry celebrates seasonal cereals
+7.  7:59a
     
-7.  4:47p
+    Volkswagwen said to plan new budget brand
     
-    In debate, Biden could slip on oil slick
+8.  7:50a
     
-8.  4:45p
+    Dollar slips. euro takes Spain downgrade in stride
     
-    Dallas Fed's Fisher calls for policy certainty
+9.  7:47a
     
-9.  4:44p
+    Fastenal profit rises 13%
     
-    Facebook, Zynga lead tech-stock losses
+10.  7:46a
     
-10.  4:44p
+    Winnebago profit gets big tax benefit boost
     
-    API posts oil-supply rise. distillate stocks drop
+11.  7:45a
     
-11.  4:40p
+    Kythera Bio IPO prices at high end of range
     
-    Wednesdayâs biggest gaining and declining stocks
+12.  7:43a
     
-12.  4:38p
+    Stock futures up. data, Sprint report in focus
     
-    Romney prospects improve, and that's blamed for market drop
+13.  7:38a
     
-13.  4:37p
+    Winnebago down 5.7% in premarket trades
     
-    U.S. stocks fall on earnings. Alcoa weighs on Dow
+14.  7:37a
     
-14.  4:37p
+    J.P. Morgan CFO expected to leave post soon: WSJ
     
-    U.S. crude-oil stocks up 1.65 mln bbls: API
+15.  7:36a
     
-15.  4:37p
+    Sprint Nextel rallies 13% on buyout report
     
-    Distillate supplies down 6.2 million barrels: API
+16.  7:31a
     
-16.  4:37p
+    Radio update: Foreclosures hit 5-year low
     
-    Gasoline supplies up 2.5 million barrels: API
+17.  7:31a
     
-17.  4:36p
+    Coming up: U.S. trade gap, claims, import prices
     
-    Ruby Tuesday Q1 net down 16% on CEO search costs
+18.  7:26a
     
-18.  4:31p
+    Dahlman Rose starts Exxon Mobil coverage at a buy
     
-    Treasurys firm as Fed suggests modest growth
+19.  7:23a
     
-19.  4:30p
+    Softbank's Sprint price may top $12.8 bln: report
     
-    Fed's Tarullo eyes more money-fund reforms
+20.  2:45a
     
-20.  4:30p
-    
-    Radio Update: Day 2 of a triple-digit Dow slide
+    Carrefour sales buoyed by Latin America
     
 21.  Loading more headlines...
 
@@ -293,6 +291,12 @@ dow /quotes/zigman/627449 13,344.97 -128.56 -0.95% nasdaq /quotes/zigman/123127 
     Â  Elizabeth MacDonald  
     Playing games with pensions  
     Public pensions are severely underfunded, threatening the retirements of government workers and taxpayer wallets.Â  /conga/kiosk/marketfox.html 230050
+*   1300176000000 1301475600000
+    
+    Retail
+    
+    Â  The $1 million challenge  
+    Some U.S. retailers in Hong Kong pay rents north of $1 million a month, just to link up with China consumers. But those consumers aren't so keen anymore. /conga/kiosk/asia.html 230181
 *   1309370400000 1309428000000
     
     Forecaster of the Month
