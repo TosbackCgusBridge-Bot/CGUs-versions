@@ -305,7 +305,6 @@ Revised February, 2011
 *   Event Sponsorship
 *   Affiliate Program
 *   PetSmart Charities
-*   People Saving Pets
 *   Online Adoption Center
 
 *   Pet Care Solutions
