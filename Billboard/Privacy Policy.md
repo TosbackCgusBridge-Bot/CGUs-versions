@@ -27,39 +27,39 @@ All Charts Previous
     
 *   Billboard 200 
     
-    Mumford &. Sons sell huge
+    Mumford &. Sons top again
     
-*   Dance/Club Songs 
+*   R&B Songs 
     
-    Nicki Minaj climbs
-    
-*   Rap Albums 
-    
-    Lupe Fiasco debuts on top
-    
-*   Digital Songs 
-    
-    Taylor Swift rocks 'Again'
-    
-*   U.K. Singles 
-    
-    PSY tops in the U.K.
-    
-*   Dance/Electronic Albums 
-    
-    Deadmau5's new album 'Goes Here'
-    
-*   Radio Songs 
-    
-    P!nk rises at radio
+    Rihanna shines bright
     
 *   Country Songs 
     
-    Jason Aldean takes 'A Little Ride'
+    Taylor Swift rocks
     
 *   Rap Songs 
     
-    2 Chainz tops again
+    PSY rules with 'Style'
+    
+*   Rap Albums 
+    
+    Kanye's GOOD Music tops
+    
+*   Adult Pop Songs 
+    
+    P!nk's 'Blow Me' is No. 1
+    
+*   R&B/Hip-Hop Albums 
+    
+    Miguel takes the lead
+    
+*   Digital Songs 
+    
+    One Direction debuts
+    
+*   Dance/Electronic Albums 
+    
+    Deadmau5's album 'Goes Here'
     
 
 Next Subscribe Site Feedback Follow @billboard
@@ -84,9 +84,13 @@ Please make sure javascript is enabled in your browser homepage Billboard - Musi
 
 previous 14/14
 
-*   Maroon 5 to PSY: Keep Your Shirt On
+*   Taylor, Rihanna &. PSY Get Chart Boost
     
-    For a third straight week, Maroon 5's "One More Night" and PSY's viral smash "Gangnam Style" rank at Nos. 1 and 2, respectively, on the Hot 100. The Korean rapper, who promised to perform sans shirt if he hit No. 1, will have to wait another week.
+    Billboard unveils new Hot 100-like methodology for several charts, including those for country, R&B and latin songs. Who benefits? Rihanna, PSY and Taylor Swift are all No. 1 this week. Learn more about the changes.
+    
+*   The Top 10 James Bond Theme Songs Ever
+    
+    To celebrate Bond's 50th birthday and Adele's new "Skyfall" theme song, take a deep look at the top-charting 007 songs of all time, from Tom Jones to Madonna.
     
 *   Jason Aldean's 'Night Train': Track-by-Track
     
@@ -94,11 +98,7 @@ previous 14/14
     
 *   Photos of the Week
     
-    Mariah and Nick take the kids to Family Day, Lady Gaga shows off new jewelry at her London perfume launch, Carson Daly and Cee Lo Green face off in the (Rock 'Em Sock 'Em Robots) ring, Queen Latifah and Bow Wow hang out at "106 &. Park," and more. See the week's best pics!
-    
-*   Nicki &. Rihanna Lead AMA Noms
-    
-    The rap and R&B divas lead the pack of American Music Award nominees with four nods each. See the entire list and get ready for the show on 11/18.
+    Christina Aguilera and Lance Bass pose at the AMAs press conference, Lady Gaga and Yoko Ono hang out (again), Britney Spears smiles with her fiance at the L.A. City of Hope event, Kid Rock and Katy Perry get political, and more. See the week's best pics!
     
 *   The Script Rock Our Tastemakers Roof
     
