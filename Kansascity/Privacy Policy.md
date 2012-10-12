@@ -134,14 +134,15 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $99 for 1 Week of Customized Meal Delivery from Success Meals KC $99 Value: Discount: You Save: $208 52% $109
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $7.50 for $15 of food, drink and fun times! $7.50 Value: Discount: You Save: $15 50% $7.5
 
-Thursday: Wal Mart, Sunfresh Deals Sunfresh
+Friday: Five things to do
 
-*   Turkey Hill Lemonade Or Tea, 64-Oz., Selected Varieties - $0.98
-*   Pillsbury Biscuits, 4-12-Oz., Cinnamon Rolls With Icing, Original Crescent Dinner Rolls, Grands! Or Selected Varieties - $0.98 each
-*   Johnsonville Links, Patties Or Ground Italian Sausage, 12-16 -Oz. - 2/$5 or $2.50 each
-*   more...
+*   Liberty Fall Festival
+*   Cinderella Craft Event
+*   Halloween Fashion Show
+*   American Royal Parade
+*   Pumpkin Hollow
 
 1.  SEASONAL DRIVERS
     
@@ -149,17 +150,17 @@ Thursday: Wal Mart, Sunfresh Deals Sunfresh
     
 2.  SALES
     
-3.  SALES
+3.  PROGRAM DIRECTOR
     
-4.  PROGRAM DIRECTOR
-    
-5.  CAMPAIGN JOBS
+4.  CAMPAIGN JOBS
     
     Grassroots Campaigns, Inc.
     
-6.  Certified Dietary Manager
+5.  Apartment Maintenance Helper
     
-    CROWN CARE CENTER
+6.  SJGS CONTROLS TECHNICIAN SR.
+    
+    PNM
     
 
 View More The Most
@@ -167,16 +168,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   With start for Chiefs, Quinn could reclaim his career
-*   Foot chase ends with three officers hurt
-*   The perks of being an introvert
-*   KC area residents pray for missing Colorado girl as news turns grim
-*   Clark Hunt: ‘A small few’ do not represent Chiefs fans
-*   KC police lose a secret weapon in Detective Reed Buente
-*   KU football goes viral as program has tiff with student media
-*   Resident Evil 6 continues downward spiral of game franchise
-*   Is banged-up Missouri in over its head against Alabamas Tide?
-*   Haith and his team will unveil Mizzou Madness this week
+*   Who do you think won the vice-presidential debate? (Poll)
+*   Poll: Strong debate helps Mitt Romney move ahead of President Obama by 7 points among Florida voters
+*   Earnhardt will miss Kansas race
+*   Body found in Colorado not yet linked to missing girl
+*   Barb Shelly | Yes, Mr. Romney, Americans die for lack of insurance
+*   Debate analysis: Biden by a whisker
+*   Maine town awaits names in prostitution case
+*   Chiefs safety Kendrick Lewis set to make first start
+*   Chiefs’ Stanzi hopes to put rough preseason behind him
+*   Spence says Nixon 'sold his soul to the devil' to get re-elected
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
