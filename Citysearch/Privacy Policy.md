@@ -12,7 +12,7 @@
 
 More More Go! Advertise With Us
 
-*   Are you Hungry? Follow our scouts on their culinary adventures. Go Now
+*   Calling All Foodies! Find the best eats in your city. Go Now!
 
 Citysearch Privacy Policy Your Privacy Rights
 
