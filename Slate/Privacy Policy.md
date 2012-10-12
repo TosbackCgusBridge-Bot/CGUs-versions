@@ -125,11 +125,13 @@ Slate **Slide Shows**
 
 Click here to load comments.
 
-*   Do Red Contact Lenses Really Help a Player See a Baseball Better?
-*   _Wonder_ Is the Best Kids’ Book of the Year
+*   Weigel: How Biden Rescued the Campaign Using Every Debate Trick He Knows  
+    
+*   Martha Raddatz Should Moderate Every Debate for Everything  
+    
 
-*   How Technology Is Ruining Museums
-*   Bazelon: The Supreme Court Threatens To Gut Affirmative Action
+*   Biden Schooled Ryan on Foreign Policy but Got One Important Fact Wrong
+*   Yglesias: The Five Most Dubious Claims in the VP Debate
 
 Discover _Slate_ With Your Friends See what your friends are reading and automatically share how you're browsing _Slate_. You control what gets published to your Facebook News Feed. Social Reading is Turn ON Turn OFF Feedback <. newer | older >. To temporarily turn off Social Reading, toggle the social reading button to OFF at the top of this box or in the toolbar areas of this page. This will allow you to see what your friends have read but won't show your reading activity on _Slate_. Always notify me when I've shared an article. LOG INTO FACEBOOK  
 
@@ -137,65 +139,68 @@ To enable Social Reading on Slate, log into...
   
 \[  Cancel |  OK  \]
 
-*   1\. Help! My Husband Is Forcing Me To Sign a Postnup.  
-    By Emily Yoffe | October 11, 2012
-*   2\. Hookup Culture 100,000 Years Ago: _Homo sapiens_ Would Mate with Absolutely Anybody  
-    By Ann Gibbons | October 11, 2012
-*   3\. Kids Understand the Probabilities of Possibilities Better Than Adults Do  
-    By Alison Gopnik | October 11, 2012
-*   4\. The Taliban Shot a 14-Year-Old Girl. Here's Why She Scares Them.  
-    By William J. Dobson | October 10, 2012
-*   5\. Why the Government Is Probably Undercounting Jobs at Small Businesses  
-    By Matthew Yglesias | October 10, 2012
+*   1\. At the Veep Debate, Biden Gave Ryan a Full Workout  
+    By John Dickerson | October 12, 2012
+*   2\. Biden Gave Ryan a Crash Course in Foreign Policy 101    
+    By Fred Kaplan | October 12, 2012
+*   3\. Biden Said Everything Democrats Wished Obama Would Have  
+    By David Weigel | October 12, 2012
+*   4\. Martha Raddatz for President! Or, At Least, For Permanent Moderator!  
+    By Rachael Larimore | October 12, 2012
+*   5\. Firefox 16 Pulled After Serious Security Lapse  
+    By Slate Staff | October 11, 2012
 
-*   1\. The Taliban Shot a 14-Year-Old Girl. Here's Why She Scares Them.  
-    By William J. Dobson | October 10, 2012
-*   2\. Romney’s Abortion Weasel Words  
-    By William Saletan | October 10, 2012
-*   3\. Total American Debt Reaches 6-Year Low  
-    By Matthew Yglesias | October 10, 2012
-*   4\. A Tribute to Matt Groening’s _Life in Hell_, with Comics by Tom Tomorrow and Alison Bechdel  
-    By James Sturm | October 10, 2012
-*   5\. Google Image Search For "Completely Wrong" Brings Up Page Full Of Mitt Romney Photos  
-    By Will Oremus | October 10, 2012
+*   1\. Hookup Culture 100,000 Years Ago: _Homo sapiens_ Would Mate with Absolutely Anybody  
+    By Ann Gibbons | October 11, 2012
+*   2\. What Liberals and Conservatives Are Saying About the Vice Presidential Debate on Twitter  
+    October 11, 2012
+*   3\. Groupon’s Crummy Business Model Is Finally Dead. Hooray!  
+    By Farhad Manjoo | August 14, 2012
+*   4\. A Stranded Photographer Who Survived for a Year on Penguin Steaks  
+    By Alyssa Coppelman | October 11, 2012
+*   5\. On 10/11/12, Let’s Celebrate the Subtle Joys of Festivals of Numerical Coincidence  
+    By Konstantin  Kakaes  | October 11, 2012
 
 See More Stories on THE WEEK
 
 *   13 little-known punctuation marks we should be using
-*   The 'bagel head': Japan's strange new beauty trend
-*   Joe Biden can't save Barack Obama
+*   The vice presidential debate: 4 takeaways
+*   VP debate: Did Joe Biden win?
 
 See More Stories on newser
 
-*   Cops: Man Set Bonfires to Warm Pot Plants
-*   Cancer Patient: TSA Humiliated Me
-*   USADA: Lance at Center of Sport's 'Most Sophisticated' Doping Ring
+*   Weird Beach Find: A Giant Eyeball
+*   Woman Gets $15 Quadrillion Phone Bill
+*   Wisconsin Republican: 'Some Girls Rape Easy'
 
 See More Stories on TIME
 
-*   Biden vs. Ryan: What to Watch For in the Debate
-*   Conservatives in Britain: Not Very Conservative by U.S. Standards
-*   House Republicans Go After the Obama Administration over Benghazi Attack
+*   Biden vs. Ryan: What You Missed During the Fiery Vice Presidential Debate
+*   European Union Wins Nobel Peace Prize
+*   Behind the Story: TIME on China's Next Leader
 
 From The Root &. Foreign Policy
 
-*   Hollywood Won the Great Recession
-*   Why America Needs a White History Month
-*   Think Again: The BRICS
-*   The Great Affirmative Action Lie
-*   Romney's PBS Cuts: Beyond Big Bird
-*   The Enemy Within
+*   Too Young to Wed
+*   Does Philly Have the Answer to Obesity?
+*   Live VP Debate Coverage From TWIB and The Root
+*   Catch Ava DuVernay's Latest Film
+*   Being Named Shenequa Doesn't Make Me Ghetto
+*   The Biden Doctrine
 
 *   MORE Slate User Agreement And Privacy Policy COLUMNS
 
 *   VIEW OUR COMPLETE **Slate User Agreement And Privacy Policy** ARCHIVE
 
-*   Bazelon: The Supreme Court Threatens To Gut Affirmative Action
-*   Cuban Missile Crisis 50th Anniversary: What It Can Teach Us About Dealing With Iran
-*   _Wonder_ Is the Best Kids’ Book of the Year
-*   What Happens to a Drug Cartel After Its Kingpin Is Killed?
-*   Why Your 4-Year-Old Is as Smart as Nate Silver: They Both Use Bayesian Statistics
-*   How Technology Is Ruining Museums
+*   Weigel: How Biden Rescued the Campaign Using Every Debate Trick He Knows  
+    
+*   Martha Raddatz Should Moderate Every Debate for Everything  
+    
+*   The Silly Congressional Fear That Chinese Tech Could Be Used To Sabotage the U.S.
+*   Are You Smarter Than June Thomas? Take _Slate_’s News Quiz and Find Out.  
+    
+*   Biden Schooled Ryan on Foreign Policy but Got One Important Fact Wrong
+*   Yglesias: The Five Most Dubious Claims in the VP Debate
 
 about us | contact us | User Agreement | Privacy Policy | _Slate_ on Facebook | ad choices  
 feedback | help | advertise | newsletters | mobile | make _Slate_ your homepage Slate is published by The Slate Group, a Division of the Washington Post Company  
