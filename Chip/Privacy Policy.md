@@ -265,11 +265,11 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 CopyTrans Contacts 1.003 Deutsch Shareware
-*   2 Nvidia-GeForce-Treiber für Vista/Windows 7/8 v306.97 Deutsch Freeware
-*   3 Calibre Portable 0.9.2 Deutsch Freeware
-*   4 Sleipnir 3.7.4 Englisch Freeware
-*   5 WinFuture Windows Vista SP2 Update Pack (Vollversion) 3.35 Deutsch Freeware
+*   1 ZoneAlarm Free Antivirus + Firewall 10.2 Build 081 Deutsch Freeware
+*   2 Dishonored: Die Maske des Zorns Deutsch Kauf-App
+*   3 Critical Strike Portable - Android App 2.572 Englisch Freeware
+*   4 GO Locker - Android App 1.51 Englisch Freeware
+*   5 CHIP Online Bestenlisten - Android App 0.9.5.0 Deutsch Freeware
 
 ...mehr
 
@@ -279,7 +279,7 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 *   2 Top 33: Die besten Herbst-Downloads
 *   3 Top 100: Die beliebtesten Downloads auf Deutsch
 *   4 Downloads des Verderbens: Vorsicht bei diesen Tools
-*   5 Bundesliga live sehen - im Internet deutsch und gratis
+*   5 Tools, die kaum einer kennt: 33 geniale Gratis-Downloads
 
 ...mehr
 
@@ -295,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
-*   Sicherheits-Gau: Mozilla zieht Firefox 16 zurück
+*   Test: Apple MacBook Air 11,6 Zoll (MD224D/A) (Notebook)
 *   Alle Ebook-Reader im Test
-*   HD Dia Duplikator: Dia-Scanner für die DSLR im Test
-*   Android Tablets: 33 coole Tipps &. Tricks für Anfänger und Fortgeschrittene
 *   SSD Test: 100 Solid State Disks im Vergleichstest
+*   Ultrabooks &. Co. im Vergleichstest: Zwei neue Bestenlisten
+*   Firefox 16.0.1: Mozilla kämpft gegen Sicherheits-Gau
 
 ...mehr
 
@@ -312,11 +312,11 @@ Sponsored Links
 **RSS-Feed** Die beliebtesten Produkte
 
 *   Samsung Galaxy S3 GT-I9300 16GB  
-    ab 473,00 €
+    ab 469,90 €
     
     *   Test
 *   Samsung Galaxy S2 i9100  
-    ab 339,00 €
+    ab 332,01 €
     
     *   Test
 *   Samsung Galaxy Note 2 N7100  
@@ -340,11 +340,11 @@ Alle CHIP Online Feeds im Überblick
 
 Meistgelesene Themen
 
+*   kann facebook nicht mehr öffnen - hilfeeeeeeeee!!!
 *   Tastatur umstellen Englisch/Deutsch
-*   Adamski TV funzt trotz aller Bemühungen eben nicht!!!!
-*   Chatzum entfernen
 *   Facebook knacken leicht gemacht...
-*   GVU 2.07 virus entfernen
+*   Suche Smartphone bis 300
+*   Erste Hilfe bei Infektionen (Viren, Würmer, ...)
 
 ...mehr
 
