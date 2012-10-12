@@ -124,11 +124,11 @@ Tell a friend:
 
 **Want Consumerist in your inbox?** Popular Posts
 
-*   Time Warner Cable's Modem Fee Officially Makes Absolutely No Sense
 *   Camaro Owner Claims He Recorded Mechanics Joy Riding In His Car Then Blaming Him For Damage
-*   Lose Your iPhone 5 Charger And You'll Be Stuck With Expensive, Pretty Brick
-*   Darden Experiments With Cutting Worker Hours To Avoid Paying Health Insurance
-*   Allstate Won't Cover My Stolen Instrument Because Sometimes I Get Paid To Play Music
+*   Wendy's Gives Its Girl A Makeover In Attempt To Update The Chain's Image
+*   Comfort Inn Boots Wedding Guests From Overbooked Hotel, Doesn't Seem To Care
+*   Check To Make Sure Your iPad Box Isn't Full Of Notebooks Before You Leave The Store
+*   If Staples Never Had Any Hard Drives In Stock, Were They Ever Really On Sale?
 
 About Consumerist
 
