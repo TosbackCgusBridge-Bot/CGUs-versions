@@ -282,6 +282,7 @@ Don't miss Men's Women's Men's
 *   Hoodies &. Fleece
 *   Denim
 *   Markdowns
+*   Clearance
 
 Women's
 
@@ -300,6 +301,7 @@ Women's
 *   Dresses &. Rompers
 *   Denim
 *   Markdowns
+*   Clearance
 
 Don't miss Brands
 
