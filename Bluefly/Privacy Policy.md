@@ -174,7 +174,12 @@ coupon code: SHIP100
     *   Z
     *   ALL
 
-my fly Designer Shoe Sale! Now up to 65% off
+my fly Outerwear Sale
+
+*   Shop Women
+*   Shop Men
+
+Sweater Sale
 
 *   Shop Women
 *   Shop Men
