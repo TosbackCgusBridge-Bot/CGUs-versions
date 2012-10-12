@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-The fight against warrantless spying is not over. EFF just filed a brief against the NSA, heads to court in 8 weeks https://eff.org/r.1anv
+A copyright takedown notice for a dancing baby video? The battle over fair use is back in court on Tuesday https://eff.org/r.a8ny
 
-Oct 10 @ 9:28am
+Oct 11 @ 12:36pm
 
-An incredulous, sad-but-funny take on Do Not Track negotiations https://eff.org/r.a8nu
+The fight against mandatory data retention in Slovakia heats up as MPs challenge its constitutionality https://eff.org/r.4anx
 
-Oct 10 @ 9:18am
+Oct 11 @ 12:15pm
 
 *   Twitter
 *   Facebook
