@@ -2,7 +2,7 @@ Bravo
 
 *   Shows &. Schedules
     
-    *   Life After Top Chef Spike and Jen are in Aspen Wednesdays 10/9c
+    *   The Real Housewives of Miami Stealing Karent's Energy Thursdays @ 9/8C
     
     Current
     
@@ -24,12 +24,12 @@ Bravo
     *   Watch What Happens Live
     
     What's On Tonight
-    *   New 9:00 PM The Real Housewives of MiamiEp 5: Eager Beaver
-    *   10:00 PM The Real Housewives of MiamiEp 5: Eager Beaver
-    *   New 11:00 PM Watch What Happens LiveMorgan Fairchild &. Kate GosselinSee All Shows » See Full Schedule »
+    *   9:00 PM The Real Housewives of New JerseyEpisode 21: Reunion Part 1
+    *   New 10:00 PM NEW JERSEY SOCIAL.
+    *   11:00 PM WATCH WHAT HAPPENS LIVE 1-ON-1See All Shows » See Full Schedule »
 *   People &. Blogs
     
-    *   Read Spike Mendelsohn's Latest Post Home is Where Spike's Business Is
+    *   Read Marysol Patton's Latest Post Elsa's Dance Moves
     
     Current Bravolebrities
     
@@ -63,18 +63,18 @@ Bravo
     *   Teresa Giudice
     
     Recent Blog Posts
-    *   Fabio Viviani Fabio: "We All Saw the Truth"
-    *   The Dish Richard Blais' Running Tips for Travelers
-    *   The Dish Copy Melissa Gorga's Glitter Eye LookAll People » More Blog Posts »
+    *   Joanna Krupa Thomas Kramer or Obama?
+    *   Lea Black The Greencard Joke
+    *   Alexia Echevarria Karent's Over-Excited PersonalityAll People » More Blog Posts »
 *   Videos &. Full Episodes
     
-    *   Watch What Happens Live After Show: Snooki's Baby
+    *   Watch What Happens Live After Show: Adventures with Pee-wee
     
     Recent Clips
     
-    *   Watch What Happens Live Mama's Boys
-    *   Watch What Happens Live Stump the Pump
-    *   Watch What Happens Live The Situation's Stripper Moves
+    *   Watch What Happens Live After Show: The Kidnapping of Morgan Fairchild
+    *   Watch What Happens Live Friends with Benefits
+    *   Watch What Happens Live Morgan Fairchild: Name That Show!
     
     New Full Episodes
     *   The Real Housewives of New Jersey Episode 21: Reunion Part 1
@@ -284,28 +284,28 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   BRAVO'S BIG PICTURE DRACULA 2000
+*   THINTERVENTION THE FINAL WEIGH-IN
     
-    6:00 AM ET
+    7:00 AM ET
     
-*   BRAVO'S BIG PICTURE FOUR FEATHERS, THE
+*   THE REAL HOUSEWIVES OF MIAMI BEACH SLAP
     
     8:00 AM ET
     
 
-view complete schedule The Dish - Bravo's Daily News Richard Blais' Running Tips for Travelers
+view complete schedule The Dish - Bravo's Daily News Bravo Stars Bring Healthy Fun to NYC
 
-Exclusive: How the 'Top Chef' star stays fit while on the run (pun intended).
+Exclusive: 'Top Chef' stars, Teresa Giudice take over Union Square.
 
-Read More Copy Melissa Gorga's Glitter Eye Look
+Read More Andy's Money Advice for 'Jersey Shore' Guys
 
-The 'Wife puts her reunion beauty secrets on display, on display, on display ...
+"Diversify your dollars," Andy tells Ronnie, Pauly, Vinny and Situation.
 
 Read More More Dish Get insider Bravo news in our weekly update!
 
 Must be 13 or older
 
-Sponsored Headlines What's Hot RHONJ Full Episode: Reunion Part 2 RHOM Pre-Supermodel Joanna WWHL Andy Memory Match RHONY Preview Reunion Part 2 Flipping Out Jeff's Boldest Looks Life After Top Chef Culinary Portfolios More Shows
+Sponsored Headlines What's Hot RHONJ Full Episode: Reunion Part 2 RHOM Pre-Supermodel Joanna Start Ups: Silicon Valley Get a Sneak Peek at This Season RHONY Preview Reunion Part 2 Flipping Out Jeff's Boldest Looks Life After Top Chef Culinary Portfolios More Shows
 
 *   Flipping Out
 *   The Real Housewives of New Jersey
