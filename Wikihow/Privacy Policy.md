@@ -175,9 +175,9 @@ Article Tools
 *   Email
 *   Edit
 
-**Thanks to all authors for creating a page that has been read 242,231 times.**
+**Thanks to all authors for creating a page that has been read 242,250 times.**
 
-Write An Article **Random Article** Featured Articles Self Publish a Book Color Code Your Keys Using Nail Polish Carve a Hair Stick from a Twig Make Glazed Apples - collapse Things to Do
+Write An Article **Random Article** Featured Articles Come Out to Your Friends Make a Tuxedo Pillow Stop Shoes from Banging in the Dryer Make an Adjustable Storage Container from Plastic Bottles - collapse Things to Do
 
 *   Write an Article
 *   Request a New Article
