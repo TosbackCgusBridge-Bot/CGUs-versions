@@ -1,4 +1,4 @@
-Flights Hotels Cars Deals More Login  My Trips $ USD Home/ About Us/ Privacy Policy KAYAK Users
+Flights Hotels Cars Deals More Login   My Trips   Free App   Home/ About Us/ Privacy Policy KAYAK Users
 
 *   About Us
 *   Help
@@ -22,7 +22,7 @@ Mumbo Jumbo
 *   Privacy Policy
 *   Terms &. Conditions
 
-  Privacy Policy
+Privacy Policy
 
 _Effective as of February 17, 2012_
 
