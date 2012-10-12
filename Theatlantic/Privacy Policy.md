@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Thursday, October 11, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Friday, October 12, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Thursday, October 11, 2012 Go Follow the Atlan
 *   Magazine
 *   video
 
-Presented by Mitt Romney's Terrible Foreign-Policy Speech Conor Friedersdorf Will Colorado Legalize Marijuana? Molly Ball Buzz Bissinger's Bizarre Romney Endorsement Conor Friedersdorf Why You Should Never Trust a Jobs Report Derek Thompson How Brazilian Factories Can Create U.S. Jobs David Rohde The Disappearing Young, Male Worker Conor Sen The Lost, Intimate Art of Reading Aloud Chloe Angyal Could Issa Rae Save the Black Sitcom? Jason Parham Why You Should Have Seen 'Frankenweenie' Christopher Orr The Man Who Volunteered for Auschwitz David de Sola What the Future of Africa Looked Like in 1959 Armin Rosen CAn the US. Help Iran Save Face? Dominic Tierney 3 Unsung Energy Technologies Alexis Madrigal Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg The Elusive Promise of a DIY Arts Career Alan Jacobs Our State Courts Are Under Siege Andrew Cohen Why So Much Software Is So Badly Coded Bernard Meisler Columbus Day: Victim of Its Own Success Yoni Appelbaum National Depression Screening Day Lindsay Abrams Slap a Pink Ribbon on It Madhulika Sikka When the Beautiful Are the Damned James Hamblin Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Projection Mapping Inked Drawings Kevin Holmes Toy Cars + iPhone = Epic Chase Scene Kasia Cieplak-Mayr von Baldegg Privacy Policy
+Presented by Clinton: 'Where Ya Been, Boy? I Missed You!' James Fallows Telepathic Pundits: Obama Want to Lose! David A. Graham The Year of Consequential Debates Molly Ball Affirmative Action: Will We Need it in 2025? Jordan Weissmann How Romney Can Win the Middle Class Derek Thompson Why We Need More Helicopter Parents Brink Lindsey Graphic Design History: 10 Pounds, Has Handles Steven Heller Could Issa Rae Save the Black Sitcom? Jason Parham Why It's Hard to Root for the Yankees Henry Grabar Slinkachu's Globetrotting Miniature Street Art J.J. Gould 'Netizen': How a Goofy-Sounding Word Survived for 30 Years in China Brian Fung Behind Obama's Decision to Kill Bin Laden John A. Gans Jr. Artichoke + MRI + GIF = Awesomeness Rebecca J. Rosen Apple's Share Price Since the iPhone 5 Alexis Madrigal The SpaceX Dragon Capture From the ISS Megan Garber Remembering Two Fearless Historians Benjamin Schwarz Supreme Court Will 'Gut' Affirmative Action Garrett Epps When Is a Judge Like a Politician? Andrew Cohen Slap a Pink Ribbon on It Madhulika Sikka It's National Depression Screening Day Lindsay Abrams Pornography for a Better Tomorrow James Hamblin Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Projection Mapping Inked Drawings Kevin Holmes Toy Cars + iPhone = Epic Chase Scene Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,16 +113,16 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Just In Molly Ball 8:05 AM ET Mitt Romney's Frontrunner Moment 1349957120 Voices
+Just In Christopher Orr 8:08 AM ET 'Seven Psychopaths' Is Crazy Good 1350043731 Voices
 
-*   Jeffrey Goldberg What Netanyahu Has Cost Israel 5:57 AM ET
-*   James Fallows 'At 5% Neanderthal, You Are an Outlier' 12:04 AM ET
+*   James Fallows Your VP Debate Summary: Ryan Did Well, Biden Did… Oct 11, 2012
+*   Robert Wright Allah = God--Video Evidence! Oct 11, 2012
+*   Alexis C. Madrigal A Newly Constructed Movie of Earthrise from the… Oct 11, 2012
+*   Garance Franke-Ruta What Joe Biden Knows About Paul Ryan's Type Oct 11, 2012
+*   Ta-Nehisi Coates The Black Helicopters Circling Jack Welch Oct 11, 2012
+*   Jeffrey Goldberg What Netanyahu Has Cost Israel Oct 11, 2012
 *   Derek Thompson The 1 Way Mitt Romney Can Beat President Obama on… Oct 10, 2012
-*   Garance Franke-Ruta Claire McCaskill's Brutal New Ads From Rape… Oct 10, 2012
-*   Ta-Nehisi Coates A War Of 'All Against Them' Oct 10, 2012
-*   Alexis C. Madrigal Chart: Apple's Share Price Since the iPhone 5… Oct 10, 2012
 *   Clive Crook Chavez Proves Democracy Isn't Enough Oct 10, 2012
-*   Robert Wright Why Turkey and Syria are Heading toward War Oct 9, 2012
 *   Steve Clemons Mitt Romney, George Marshall, and Israel-Palestine Oct 8, 2012
 
 Correspondents
@@ -132,7 +132,7 @@ Correspondents
 *   Garrett Epps The Klan Act: How an Obscure Law Could Cut Down on Bullying at the Polls
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Scenes From Antarctica Oct 10, 2012 Video The Newsreel of Joseph Kittinger's 19.5-Mile Jump From Space Indie Video Games Science Bytes: Dark Matters Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Scenes From Antarctica Oct 10, 2012 Video How to Catch a Monster Wave: The Psychology of Big Wave Surfing Trango Towers 'Yet Again': Grizzly Bear Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -161,63 +161,63 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Chinese Author Mo Yan Wins the Nobel Prize for Literature  
+*   Arrests Made in the Shooting of 14-Year-Old Pakistani Girl  
     
-*   Yemeni Man Working at U.S. Embassy is Murdered by Gunmen  
+*   Syria's Army Suffers Its Highest One-Day Death Toll  
     
-*   WikiLeaks Implements Paywall, Anonymous Does Not Approve  
-    
-
-Last Update: 7:17 AM
-
-*   Bostonians Haven't Given Up on Busing  
-    
-*   The Grim Consequences of Closing Urban Hospitals  
-    
-*   The Geography of the Latino Vote  
+*   Yes, The European Union Won the Nobel Peace Prize  
     
 
-Last Update: 5:46 PM Most Popular
+Last Update: 7:45 AM
+
+*   How Far Can You Live From an Interstate Highway?  
+    
+*   Where Americans Work From Home  
+    
+*   Imagine Owning a $30K Home Tucked Into an Alley  
+    
+
+Last Update: 9:29 PM Most Popular
 
 1
 
-Scenes From Antarctica
+Why the First Laptop Had Such a Hard Time Catching On (Hint: Sexism)
 
 2
 
-'The Biggest Breakthrough in Depression Research' in 50 Years Is ... Ketamine?
+Joe Biden, Crazy Like a Fox?
 
 3
 
-In Praise of the Lost, Intimate Art of Reading Aloud
+The VP Debate Cinches It: Paul Ryan Is Unqualified to Step in as POTUS
 
 4
 
-The 1 Way Mitt Romney Can Beat President Obama on Taxes
+Scenes From Antarctica
 
 5
 
-Why Women Still Can’t Have It All
+Your VP Debate Summary: Ryan Did Well, Biden Did Better
 
 6
 
-The Great Wall of China
+How a 17-Year-Old Changed the Politics of 'Stop and Frisk'
 
 7
 
-If I Fly a UAV Over My Neighbor's House, Is It Trespassing?
+Why Women Still Can’t Have It All
 
 8
 
-Who Destroyed the Economy? The Case Against the Baby Boomers
+A Tragic Sense of Life: Remembering Two Great Historians
 
 9
 
-The Pakistani Taliban's 'Justification' for Trying to Murder a 14-Year-Old Girl
+The Great Wall of China
 
 10
 
-Why Turkey and Syria are Heading toward War
+The Writing Revolution
 
 *   Subscribe Help
 *   Faq
