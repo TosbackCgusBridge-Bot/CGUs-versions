@@ -1,6 +1,6 @@
 More searches: Ingredient | Nutrition | Advanced Email or User Name Remember Me Password (forgot?)    
 
-*   *   *   *   Slow Cooker Beef Stew IV See how to make a classic wine-based stew in the slow cooker. »
+*   *   *   *   Making Pumpkin Pancakes See how to make delicate pumpkin pancakes. »
         
         *   *   Football Recipes The best game-day bites. »
         
