@@ -30,6 +30,8 @@ Skip main navigation Cambiar a español My Account CLUB Visa Account Wish List V
     
     *   Related Categories
     *   Men's Hunting Clothing
+    *   Men's Hunting Boots
+    *   Men's Hunting Waders
     *   Women's Hunting Clothing
     *   Kid's Camo &. Hunting Clothing
     *   Ammunition
@@ -388,7 +390,7 @@ Skip main navigation Cambiar a español My Account CLUB Visa Account Wish List V
 *   *   Bed &. Bath
     *   Home &. Cabin Decor
     *   Furniture
-    *   Lighting
+    *   Lighting &. Candles
     *   Kitchen &. Dining
     *   Outdoor Living
     *   Yard &. Garden
@@ -569,7 +571,7 @@ If you have any further question regarding your online security, please contact 
 In accordance with federal law, we do not knowingly collect personally identifiable information from children under age 13 without the verifiable permission of a parent or guardian. If you are under age 13, you are welcome to browse our Web site. However you are not permitted to use any of the features of our site that require the collection of any personally identifiable information. If we determine that we have erroneously collected a child's information, we will immediately undertake to delete that data from our records.  
   
 **Changes in this Privacy Statement**  
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. Recently Viewed
 
 You have no recently viewed items.
 
