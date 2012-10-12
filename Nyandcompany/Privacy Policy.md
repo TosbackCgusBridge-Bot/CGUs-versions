@@ -5,7 +5,7 @@
 
 *   My Wish List
 
-Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale Buy One Get One 50% Off Everything. Mix &. Match. Higher price prevails. Excludes: Clearance, NY&C Great Finds, NY Deals, 58andLex Shoe Collection, Eva Collection and Gift Cards. Plus, Free Shipping on orders over $125 - no code needed. \*Details **Customer Service**
+Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale 40% off Everything. Excludes Clearance, NY Deals, Eva Collection and Gift Cards. Not combinable with coupons or other offers. Use promo code 2144. Plus, free shipping on your order of $125 or more – no code needed. \*Details **Customer Service**
 
 *   Ordering &. Shipping Info
     *   Where's My Order?
