@@ -618,10 +618,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos On Campus: Nordhoff making moves Small-town boys with a big name
+Videos Ojai artists open up their studios Oct. 13-14 Open-door policies
 
-*   On Campus: Nordhoff making moves Another dry year burdens water ... Simi Valley shopper nets $1,114 ... On Campus: Seraphs Finally Return ...
-*   On Campus: Camarillo Scorpions Breast cancer healing through faith
+*   Ojai artists open up their ... On Campus: Nordhoff's Close Crew Another dry year burdens water ... Simi Valley shopper nets $1,114 ...
+*   On Campus: Seraphs Finally Return ... On Campus: Camarillo Scorpions
 
   
 
@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Authorities identify motorcylclist killed in Ventura crash Updated 10/10/2012 at 6:24 p.m.
-*   VP debate could influence presidential race Updated 10/10/2012 at 5:52 p.m. 49 comments
-*   Editorial: Big Bird soars right onto the political stage Published 10/8/2012 at 3:51 p.m. 63 comments
-*   Herdt: Things aren't bad, they're worse Published 10/9/2012 at 5:06 p.m. 35 comments
-*   Port Hueneme city manager asked to resign Updated 10/9/2012 at 6:40 p.m. 32 comments
+*   Ventura County school superintendents call Proposition 30 approval crucial Updated 10/11/2012 at 6:32 p.m. 64 comments
+*   Oxnard School District officials say Measure R needed to handle growth Published 10/10/2012 at 6:00 p.m. 54 comments
+*   VP debate could influence presidential race Updated 10/10/2012 at 5:52 p.m. 79 comments
+*   More than half of Ventura County schools meet state academic performance goal Updated 10/11/2012 at 4:20 p.m. 15 comments
+*   Vice presidential candidates try to score points during only debate Updated 10/11/2012 at 9:56 p.m. 46 comments
 
-Photo Galleries Ventura County's Most Wanted October 4th Girls tennis: Thousand Oaks 17… Praying for pets
+Photo Galleries Residents re-create 1940 Ventura… Ventura County's Most Wanted October 4th Local schools above state average
 
 *   Morning chat Published 10/9/2012 at 12:00 a.m. 151 comments
-*   Morning chat Published 10/10/2012 at 12:00 a.m. 73 comments
-*   Gas price increase hurting businesses. reprieve could be coming Published 10/8/2012 at 6:40 p.m. 70 comments
-*   Editorial: Big Bird soars right onto the political stage Published 10/8/2012 at 3:51 p.m. 63 comments
-*   Morning chat Published 10/8/2012 at 12:00 a.m. 65 comments
+*   VP debate could influence presidential race Published 10/10/2012 at 3:37 p.m. 79 comments
+*   Morning chat Published 10/10/2012 at 12:00 a.m. 76 comments
+*   Ventura County school superintendents call Proposition 30 approval crucial Published 10/11/2012 at 10:17 a.m. 64 comments
+*   Morning chat Published 10/11/2012 at 12:00 a.m. 67 comments
 
 *   Jane Laut prosecutor leaving DA's Office. trial postponed Published 10/2/2012 at 11:54 a.m. 0 comments
-*   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 32 comments
+*   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 35 comments
 *   Gas prices keep rising. average $4.55 in Ventura Published 10/4/2012 at 1:25 p.m. 125 comments
-*   Oxnard Airport to start flights to Las Vegas Published 9/28/2012 at 5:56 p.m. 0 comments
 *   Police arrest barricaded suspect in Ventura Published 10/3/2012 at 3:21 p.m. 0 comments
+*   Seaward Avenue crash kills motorcyclist in Ventura Published 10/9/2012 at 5:25 p.m. 0 comments
 
 Weather
 
@@ -660,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 57° Fair Wind: Calm Today 64° 55° Thu 05:00 PM Mostly Cloudy Thunderstorms Temp: 63° Fri 05:00 AM Partly Cloudy Temp: 56° Fri 05:00 PM Partly Sunny Temp: 65°
-
-Feels Like: 63°
-
-Humidity: 80%
-
-Precip: 41%
-
-Feels Like: 56°
-
-Humidity: 96%
-
-Precip: 43%
+Currently 54° A Few Clouds Wind: Calm Today 66° 54° Fri 05:00 PM Partly Sunny Temp: 65° Sat 05:00 AM Mostly Clear Temp: 56° Sat 05:00 PM Mostly Sunny Temp: 69°
 
 Feels Like: 65°
 
-Humidity: 72%
+Humidity: 73%
 
-Precip: 10%
+Precip: 9%
+
+Feels Like: 56°
+
+Humidity: 93%
+
+Precip: 5%
+
+Feels Like: 69°
+
+Humidity: 68%
+
+Precip: 3%
 
 Is it Spring yet? 3/20/12  
 7:42 p.m.  
@@ -709,8 +709,8 @@ Follow @vcstar 95 percent accurate\*
 
 Brian Dennert here
 
+*   Simi Valley School Board candidates forum
 *   The Education Foundation wants to lock me up
-*   Video: Rep. Buck McKeon against spending cuts for defense industries
 
 Ingemusings
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Thursday Oct 11
 *   Friday Oct 12
 *   Saturday Oct 13
+*   Sunday Oct 14
 *   More BROWSE Icon
-
-*   Buildings at Risk: Earthquake Loss Reduction Summit – Oct. 11 Westin Bonaventure Hotel &. Suites 7 a.m.
-*   BBQ fun at The Bonaventure The Bonaventure noon
-*   CI to host Lincoln: The Constitution and the Civil War Traveling Exhibition CSUCI California State University 4:30 p.m.
-*   AMERICAN ASSOCIATION OF UNIVERSITY WOMEN HOLDS MEETING Temple Ner Ami, 515 Temple, Camarillo 5:30 p.m.
-*   Free Job Searching Class at Thousand Oaks Library Grant R. Brimhall Library 6 p.m.
-
-More Events »
 
 *   CI's MVS School of Business &. Economics presents next speaker for fall series CSUCI California State University noon
 *   Fears Gate Haunt Maze Various Locations - City of Oxnard 6:30 p.m.
@@ -750,6 +742,14 @@ More Events »
 *   Community Free Flu Clinic Scheduled Los Robles Hospital &. Medical Center 10 a.m.
 *   The Golden California Antiques Show Glendale Civic Auditorium 1401 N Verdugo Rd Glendale, CA 91208 10 a.m.
 *   Classic Car Show at The Bonaventure The Bonaventure 10 a.m.
+
+More Events »
+
+*   Birding Field trip Camino Real Park 8 a.m.
+*   "Beginnings" a half-day retreat for memoir writers, poets and napkin scribblers Private home in Moorpark 8:30 a.m.
+*   Sensational Bridal Show FREE McDonald's - San Dimas 11 a.m.
+*   Kitchen Tour for Project Understanding Ventura High School 11 a.m.
+*   San Buenaventura Friends of the Library Book Sale Dudley House 11 a.m.
 
 More Events »
 
