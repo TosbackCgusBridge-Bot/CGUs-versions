@@ -82,6 +82,7 @@
     *   Best Selling Gifts
     *   New Gifts
     *   Gifts Under $20
+    *   APO FPO Gifts
     *   Personalized Gifts
     *   Web Exclusive Gifts
     *   Shop by Category
