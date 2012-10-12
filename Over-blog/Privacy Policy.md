@@ -17,7 +17,7 @@ OverBlog Le portail de tous les blogs Connexion
     *   Divers
     *   Voyages
     *   photos
-    *   Santé
+    *   santé
 *   Forums
 
 Créer mon blog
@@ -377,7 +377,7 @@ Rechercher sur OverBlog Annuaire
 *   Sport
 *   Cuisine
 *   Parents &...
-*   Santé
+*   Sante
 *   Environnement
 *   Hi Tech
 *   Photo
@@ -425,7 +425,7 @@ Rechercher sur OverBlog Annuaire
 *   Creation
 *   Dessin
 *   Voyage
-*   Cinema
+*   Cinéma
 *   Marketing
 *   Livres
 *   France
