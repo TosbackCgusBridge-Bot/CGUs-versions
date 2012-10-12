@@ -197,15 +197,15 @@ Still have questions?
 
 *   Check the FAQs
     
-    For an overview of popular help topics.
+    Find an overview of popular help topics.
     
-*   Ask on the Forums
+*   Ask in the Forums
     
     Learn from our knowledgeable community.
     
 *   Site Policies
     
-    The ins and outs of selling on Etsy.
+    Read the ins and outs of selling on Etsy.
     
 
 **No luck?** Email us and we'll get back to you as soon as possible.
