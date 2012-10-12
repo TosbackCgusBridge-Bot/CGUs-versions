@@ -41,7 +41,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Clothing
     *   Dresses
     *   Tops
-    *   Outerwear &. Jackets
+    *   Coats &. Jackets
     *   Activewear
     *   Denim
     *   Pants &. Shorts
@@ -194,13 +194,12 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     
     *   Style Watch
     *   BP. Fashion Board Blog
+    *   Denim Guide
     *   Fall Trend Guide
     *   Haute Homecoming
-    *   Denim Guide
     *   Top Trends
     
     *   New Arrivals
-    *   Shoes
     *   Complete Looks
     *   All Juniors'
     *   Under $30
