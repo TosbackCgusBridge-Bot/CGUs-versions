@@ -82,6 +82,7 @@ Prices, promotions, styles, and availability may vary. Our local stores do not h
     *   Accessible Home
     *   Efficient Home
 *   Savings
+    *   Holiday
     *   Appliances
     *   Bath
     *   Building Supplies
