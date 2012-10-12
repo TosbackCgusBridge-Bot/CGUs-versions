@@ -440,7 +440,7 @@ Search Online Policies
 
 Change Region
 
-© 2011 Starbucks Corporation. All rights reserved.
+© 2012 Starbucks Corporation. All rights reserved.
 
 *   .Responsibility
 *   .Web Accessibility
