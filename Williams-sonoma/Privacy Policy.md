@@ -236,8 +236,8 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Sale &. Offers
     
-    *   Wüsthof Gourmet Promotion
     *   Sale
+    *   Wüsthof Gourmet Promotion
     *   Exceptional Values
     
     SPECIAL OFFER
@@ -447,7 +447,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Top-Rated Tabletop &. Bar
     *   Halloween Tabletop &. Décor
     *   Thanksgiving Tabletop
-    *   Hanukkah
     *   Christmas Tabletop
     *   Outdoor Dining
     *   Monogram Shop
@@ -461,6 +460,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Wine &. Cheese
     *   Thanksgiving Feast
     *   Traditional Thanksgiving Dinner
+    *   Hanukkah Party
     *   Elegant Christmas Dinner
     *   Family Christmas Dinner
     
@@ -593,8 +593,9 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Sale &. Offers
     
-    *   Free Shipping
     *   Sale
+    *   Lighting Event
+    *   Free Shipping
     
     Learn More
     
