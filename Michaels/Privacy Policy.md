@@ -361,7 +361,7 @@ Create Your Account Sign In Find Your Store Buy Gift Cards Our Weekly Ad Booksto
         
         *   Black &. White Origami Flower Ball
         *   Wedding Veil
-        *   How To: Use a Ribbon Sealer to Clean Cut Ribbon
+        *   Demo: Glass Etching Technique by Martha Stewart Crafts™
         *   View All Videos
         
         Books*   Shop All Books
