@@ -483,9 +483,9 @@ Email: webmaster@bodybuilding.com
   
 Related Articles
 
-*   West Coast Gossip: Amateur &. Pro Bodybuilders!
-*   Bodybuilding.com Is Moving On Up: Check Out Our New Idaho Warehouse!
-*   2008: American Gladiators Is Back!
+*   Shawn Ray's 2003 Year In Review!
+*   Bodybuilding Rants: I've Got Some Things To Say About Health, Fitness And Nutrition!
+*   IFBB 101: What's New, Who's New, &. Who's Out?
 
 *   View All Gossip And News Articles
 
@@ -510,7 +510,7 @@ EXCELLENT OVERALL RATING N/A
 
 Out of 10  
   
-2 Ratings
+3 Ratings
 
 SUCCESS:
 
