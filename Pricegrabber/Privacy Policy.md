@@ -8,8 +8,8 @@ My Account
     *   Verizon Wireless
     *   White Pages
     *   Verizon
-    *   Target
     *   Juicers
+    *   Target
     *   Kohls
     *   Toys R Us
     *   Webkinz
@@ -21,8 +21,8 @@ My Account
     *   Qvc
     *   Office Max
     *   Iphone
-    *   Digital Cameras
     *   Coffee Makers
+    *   Digital Cameras
     *   Camcorders
     *   At
     *   Se
@@ -30,18 +30,18 @@ My Account
     *   Money
     *   Discount Tires
     *   Sears
-    *   Pressure Cookers
-    *   Tax
     *   T Mobile
+    *   Tax
     *   Www.yahoo.com
     *   Truck
+    *   Contact
     *   Ipod
     *   Att
-    *   Contact
     *   Leappad
     *   Costco
     *   Mp3 Players
     *   Android Tablets
+    *   Pressure Cookers
     *   Barnes And Noble
     *   Coupons
     *   Value City Furniture
