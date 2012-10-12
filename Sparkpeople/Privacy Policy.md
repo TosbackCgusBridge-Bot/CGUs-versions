@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Food Journal Template Resources
+*   Paleo Nutrition Plan Resources
 
   
-Stay in Touch With SparkPeople **A Getting-Started Guide to CSAs**
+Stay in Touch With SparkPeople **VIDEO: 8-Minute Balancing Lower Body Band Workout**
 
-Are you eager to join the local food movement, but not sure where to start? Follow these six tips.
+This double-duty workout will strengthen your legs and help improve your balance!
 
 Read More
 
-*   What's your "go to" type of workout?
+*   Specific Tips to get through the Weekend
+*   Weekends: The Dealbreaker
 *   Mindful baking?
-*   How do you overcome your "bad food" cravings?
-*   Self Control - Can it be taught?
-*   Please share your favorite "pumpkin" recipes!
+*   What's your "go to" type of workout?
+*   Need Ideas for working out at home
 
-View Demo **Balancing Seated Torso Twists with Medicine Ball**  
-Tighten your core with this twisting move! **Spicy Nutty Chicken Nuggets**  
+View Demo **Lying Leg Press on Sled Machine**  
+Turn those squats upside down with the leg press. **Beef and Blue Sandwich**  
 Submitted By: **CHEF\_MEG**
 
-Instead of reaching for fried chicken or frozen chicken nuggets, turn to these spicy, crunchy ones instead. Full Recipe
+Forget grabbing deli sandwiches on the way home from work. You can feed a family of four gourmet, healthy roast beef sandwiches, complete with sweet caramelized onions and creamy bleu cheese dressing, for about $8. That's $2 a sandwich--just try to spend that little at a deli! Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
