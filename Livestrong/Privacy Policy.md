@@ -241,14 +241,14 @@ Your email is safe with us. We hate spam too!
 
 Featured this week on livestrong.com
 
-*   Oct 9, 2012 5 Self-Exams Every  
+*   Oct 11, 2012 Look Fabulous Over 50  
+    (And Beyond!)
+*   Oct 10, 2012 5 Self-Exams Every  
     Woman Should Do
-*   Oct 8, 2012 The Healthiest Meals  
+*   Oct 9, 2012 The Healthiest Meals  
     On Earth
-*   Oct 7, 2012 The Soap Star's  
+*   Oct 8, 2012 The Soap Star's  
     
-*   Oct 6, 2012 How Exercise Makes  
-    You More Beautiful
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
 
