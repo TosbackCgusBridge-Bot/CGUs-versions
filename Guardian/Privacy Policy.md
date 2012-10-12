@@ -287,20 +287,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Sport:** Lance Armstrong's team 'ran most sophisticated doping programme ever'
-2.  2\. **News:** Romney's abortion comments leave campaign scrambling to unify ticket
-3.  3\. **Sport:** Lance Armstrong: doping denials flushed away in Usada's flood of detail
-4.  4\. **News:** Pubs and clubs to face closure in rape crackdown
-5.  5\. **News:** Cockroach-eating contest winner dies in Miami - video
+1.  1.  **News:** US vice-presidential debate: Joe Biden and Paul Ryan – live updates
+2.  2\. **News:** Biden lifts Democrat hopes with forceful VP debate performance
+3.  3\. **Art &. design:** Damien Hirst's new statue is a dangerous monstrosity
+4.  4\. **Sport:** Lance Armstrong case: The dope cheat, the bully and the cancer fighter
+5.  5\. **TV &. radio:** TV review: The Plane Crash
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Media:** Jimmy Savile: should the BBC director general make an on-air apology?
-2.  **Sport:** Lance Armstrong: doping denials flushed away in Usada's flood of detail
-3.  **Law:** Shrewsbury 24 case: Heath government discussed prosecution of union pickets
-4.  **Education:** GCSE scandal: 45,000 pupils to resit English exams
-5.  **Books:** Why Swimming Home should win the 2012 Booker Prize - video
+1.  **Politics:** Conference season: has your view of the parties changed?
+2.  **News:** US vice-presidential debate: Joe Biden and Paul Ryan – live updates
+3.  **News:** Is this the biggest UK government ever?
+4.  **News:** Nobel peace prize awarded to the European Union - live coverage
+5.  **News:** Nobel Peace prize winners - the full list
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -308,21 +308,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Syrian plane leaves Turkey after arms inspection - live updates
-2.  2\. Anthony Horowitz talks about his new Power of Five book, Oblivion - video
-3.  3\. Vice-presidential debate: Biden and Ryan meeting holds added significance
-4.  4\. Nobel prize in literature 2012: Mo Yan wins - live blog
-5.  5\. Fairground attraction: Shoot! Existential Photography exhibition – in pictures
+1.  1.  Eurozone crisis live: Divisions growing between IMF and eurozone over austerity
+2.  2\. Reddit blocks Gawker in row over 'creepshot' photos
+3.  3\. Talking Horses
+4.  4\. Syria accuses Turkey of lying over 'arms plane' – live updates
+5.  5\. Loaded gun and drugs found on Nelly's tour bus
 6.  All today's stories
 
 On the Guardian today
 
 1.  Life and style Mapping the body: the temple
-2.  Business Downgrade raises pressure on Madrid to accept bailout
-3.  Sport Lance Armstrong's team 'ran most sophisticated doping programme ever'
-4.  Sport Lance Armstrong: doping denials flushed away in Usada's flood of detail
-5.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+2.  World news US vice-presidential debate: Joe Biden and Paul Ryan – live updates
+3.  Sport Lance Armstrong case: The dope cheat, the bully and the cancer fighter
+4.  Art and design Damien Hirst's new statue is a dangerous monstrosity
+5.  Comment is free The gripes of Roth: US incredulity at not winning the Nobel literature prize
+6.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
 
 *   License/buy our content
 |*   Privacy policy
