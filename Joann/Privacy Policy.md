@@ -5,15 +5,16 @@ Shopping Cart: (0 items)
 shopping|projects|community
 
 *   fabric|
-*   sewing &. quilt|
+*   sewing|
 *   scrapbooking|
 *   crafts|
-*   yarn &. cross stitch|
+*   needle arts|
 *   baking|
 *   kids &. teachers|
-*   lighting|
+*   lights|
 *   storage|
 *   home decor|
+*   holiday &. party|
 *   sale
 
 *   Customer Service
