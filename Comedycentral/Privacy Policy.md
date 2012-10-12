@@ -41,10 +41,10 @@ Follow Us Facebook Twitter Follow @ComedyCentral
 
 *   · reply · retweet · favorite
 
-*   10:00PM Gabriel Iglesias Presents Stand-Up
-*   10:30PM Tosh.0
-*   11:00PM The Daily Show with Jon Stewart
-*   11:31PM The Colbert Report
+*   10:00PM Tosh.0
+*   10:30PM Brickleberry
+*   11:00PM Mash Up
+*   11:30PM Gabriel Iglesias Presents Stand-Up
 
 Full Schedule Privacy Policy &. Your California Privacy Rights
 
