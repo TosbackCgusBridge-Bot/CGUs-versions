@@ -147,49 +147,49 @@ Headlines of the Week
 **From the Fark Shop:**
 
 *     
-    I Support Amateur Chainsaw Juggling
+    Pedrobear
 *     
     From Rotten with Love
 *     
-    Wolverine Ski Mask
+    Flash - Mighty Wallet
 *     
-    Sasquatch Seltzer Water Bottle
+    Fight of the Living Dead Club
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
 The Real Life Anime Girl: Dateable or...  
-Super Terrific Japanese Thing: Behold...  
+Hilarious Wedding Bloopers Compilatio...  
 Hate the Porn Boom? Blame 'Twilight'...  
-Guy Banned From All-You-Can Eat Buffe...  
+Photoshop is Madonna's Best Friend! \[...  
 More news at Scribol »  
   
   
-5 Reasons The Guy Fixing Your Compute...  
-4 Climbers Who Gave Altitude the Midd...  
-4 WTF Stories from the Legend of King...  
-16 Famous Video Games Revised to be P...  
+CLOSE CALL  
+WATCH: World's Fastest Stroller?  
+Don't Cook Squirrels With A Torch  
+Breakthrough In Canada's Great Maple...  
+More news at HuffPostWeirdNews »  
+  
+  
+5 Hilariously Elaborate Ways Video Ga...  
+24 Mundane Photos Hiding Creepy Easte...  
+12 Dangerously Irresponsible Steps to...  
+5 Insanely Successful Video Games Tha...  
 More news at Cracked »  
   
   
-What Are The Top 14 Most Memorable To...  
-Salma Hayek Sizzles In The November H...  
-Newlywed Blake Lively Sizzles In A Si...  
-Stacey Dash Fires Back At Critics Ove...  
-More news at Starpulse »  
-  
-  
-Watercooler Stories  
-Jockstrip: The world as we know it.  
-Your Daily Horoscope  
-People in the news  
-More news at UPI »  
+Madden 13 And Borderlands 2 Were The...  
+XCOM: Enemy Unknown Building Faciliti...  
+Darkstalkers Resurrection Announced:...  
+Rockstar Collection Release Date Reve...  
+More news at G4TV »  
   
 
 Also on Fark
 
-Main Nuns still aren't giving up in their fight against Vatican II: Heretical Boogaloo ( npr.org ) » (17 comments) Sports 16-year-old Texas girl sets a world handspring record by performing 35 in a row on a football field, mesmerizing all 573 males who were in the stands ( offthebench.nbcsports.com ) » (9 comments) Business Goodbye, Ruby Tuesday profits ( marketwatch.com ) » (7 comments) Geek This will be epic. No, really ( guardian.co.uk ) » (36 comments) Entertainment Anthony Hopkins is perfect in new 'Hitchcock' trailer portraying Alfred Hitchcock during the making of Psycho. He might have fooled me, but he didn't fool my mother, and a boy's best friend is his mother ( youtube.com ) » (2 comments) Politics Wisconsin Representative Roger Rivard (R-epulsive), "Some girls rape easy" ( jsonline.com ) » (182 comments) Video 7 instances of animals rescuing other animals (w/all on one page video goodness) ( oddee.com ) » (2 comments)
+Main Supreme Court is divided over an affirmative action case involving college admissions. Come on, why shouldn't minorities have the same opportunity to get mired hopelessly deep in college loan debt like anyone else? ( reuters.com ) » (6 comments) Sports Is tonight the night Big Ben treats Terry Bradshaw's franchise passing record like a young lady in a nightclub restroom? Will Tennessee be blown out again? It's the Steelers vs. the Titans on Thursday Night Football, 8:20 PM on NFL Network ( nfl.com ) » (1175 comments) Business Politicians: "There is no longer a black America and a white America." Car industry: "Actually, that's exactly what there is" ( latimes.com ) » (42 comments) Geek Can men be trusted to take the contraceptive pill? Short answer: No. Long answer: Noooooo ( news.com.au ) » (13 comments) Entertainment Anderson Cooper, after being born into New York high society and spending an entire career reading news from a desk, says that Bristol Palin needs to get a real job ( examiner.com ) » (22 comments) Politics Eloquent Biden brings entire audience to tears in debate stunner (Not safe for work language) ( theonion.com ) » (10 comments) Video You had to know Honey Boo Boo showing up on a Georgia pro wrestling show was inevitable ( youtube.com ) » (6 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -199,5 +199,5 @@ Main Nuns still aren't giving up in their fight against Vatican II: Heretical Bo
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 11 2012 08:00:33  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 12 2012 08:00:45  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
