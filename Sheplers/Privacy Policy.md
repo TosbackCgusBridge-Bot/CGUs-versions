@@ -6,7 +6,7 @@ Skip over navigation
 *   Wish List
 *   Order Status
 *   My Account
-*   Sign In
+*   Sign Out Sign In
 
 View Prices In: U.S. Dollars
 
@@ -23,7 +23,7 @@ View Prices In: U.S. Dollars
 *   Swiss Franc
 *   Venezuelan Fuerte
 
-Cart(0 item(s)) Enter Keyword or Item #
+Enter Keyword or Item #
 
 *   Men's
     *   Men's Boots &. Shoes
@@ -37,7 +37,6 @@ Cart(0 item(s)) Enter Keyword or Item #
     *   Men's Belts &. Buckles
     *   Men's Suits &. Sportcoats
     *   Men's Motorcycle Apparel
-    *   Men's Socks
     *   Men's Wallets &. Accessories
     *   Men's On Sale
     *   Men's Clearance
@@ -83,7 +82,8 @@ Cart(0 item(s)) Enter Keyword or Item #
     *   Cowgirl Hats
     *   Kids' Hats
     *   Cowboy Hats On Sale
-*   Decor &. Gifts
+*   WorkWear
+*   Decor
     *   Bedding
     *   Bath
     *   Kitchen Decor
