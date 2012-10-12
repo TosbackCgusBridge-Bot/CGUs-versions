@@ -133,5 +133,5 @@ View our Customer Privacy Notice
 *   Security, Privacy &. Legal
 *   About our Ads
 
-© Copyright 2012 Citizens Financial Group. All rights reserved.  
+© Copyright 2012 RBS Citizens Financial Group, Inc. All rights reserved.  
 Citizens Bank is a brand name of RBS Citizens, N.A. and Citizens Bank of Pennsylvania. Deposit accounts held at RBS Citizens, N.A. and Citizens Bank of Pennsylvania are separately insured.
