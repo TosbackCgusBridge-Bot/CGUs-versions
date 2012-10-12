@@ -2,16 +2,16 @@
 
 *   What's New
 *   Hot Topics
-    *   entertainment
     *   Election 2012
-    *   Mitt Romney 2012
+    *   entertainment
     *   celebrity
-    *   Syria
-    *   Obama 2012
+    *   Paul Ryan
+    *   Mitt Romney 2012
+    *   vice presidential...
     *   Mitt Romney
-    *   Arab Spring
-    *   Chris Stevens
-    *   iPhone 5
+    *   Joe Biden
+    *   Florida
+    *   meningitis
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -119,63 +119,57 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Between a Quota and a Hard Place
-*   What the Cuban Missile Crisis Should Teach Us
-*   Wonder Is the Best Kidsâ Book of the Year
+*   Joe Biden Is the Happy Warrior
+*   Martha Raddatz Rocked
+*   The Manchurian Network
 
 More from Slate »
 
-*   THE CASE OF THE
-*   Breakthrough In Canada's Great Maple Syrup Heist
-*   What Is A Ghost? (EXCERPT)
+*   CLOSE CALL
+*   Class Photo Gone Wrong
+*   WATCH: World's Fastest Stroller?
 
 More from HuffPost Weird »
 
-*   Calm Down, Everyone! Justin Bieber Naked Photos Have Not...
-*   The Lohansâ Huge Fight This Morning Was Over Dinaâs $Unpaid...
-*   Elizabeth Banks Producing Feminist Sitcom About Womenâs...
+*   Tom Hanks Heads To Broadway For Nora Ephron Play
+*   Irelandâs First Abortion Provider Opens Next Week
+*   Do Your Part For Humanity And Take Maximâs Sex Survey!
 
 More from The Frisky »
 
-*   Nuns still aren't giving up in their fight against Vatican...
-*   The best way to get rid of four-day-old hiccups is to have...
-*   Mansion belong to a former Buffalo Bills defensive lineman...
+*   It's awesome if you're a single dad. As long as you're a...
+*   Supreme Court is divided over an affirmative action case...
+*   Cops stop teens from buying too much toilet paper because...
 
 More from Fark »
 
-*   Arizona Senate: The race at a glance
-*   The vice presidential debate: A viewer's guide
-*   The tragedy of bureaucracy
+*   10 things you need to know today: October 12, 2012
+*   Did Joe Biden's bravado debate performance help Obama?
+*   VP debate: Did Joe Biden win?
 
 More from The Week »
 
-*   Arizona Rep. Says He Won't Sign No-Tax Pledge, Forgets He...
-*   Chelsea Clinton's Absence From the Campaign Trail Has...
-*   Sandusky and Wife Tried to Sway Judge With Letters Bashing...
-
-More from Daily Intel »
-
-*   6 Surprising Signs You Need More Sleep
-*   The HPV and Cancer Stats You Can't Afford to Ignore
-*   Amputation, Impotence, Painful Dentistry: Soda Equals...
+*   The Best Health News Ever
+*   Laid Off? Got a Job Interview? It Might Do a Lot of Good to...
+*   Health Care Reform: How It Benefits Women
 
 More from HuffPost Health »
 
-*   'Argo' Star Ben Affleck Admits He Still Talks to Ex-FiancÃ©e...
-*   Olivia Wilde Says Her Sex Quotes Were Taken Out of Context:...
-*   'American Idol' Feud: Stevie Nicks Apologizes for Saying...
+*   Bar Refaeli Tweets Sexy Bikini Shot, Questions Why Girls...
+*   'Jersey Shore' Race to the Altar: Will JWOWW or Snooki Wed...
+*   Kanye West Raps About Marriage in New Song 'White Dress'...
 
 More from Celebuzz »
 
-*   Joe Biden and Paul Ryan Shirtless Showdown: Who's the Vice...
-*   'Nashville' Premiere Recap: A Little Bit Country and a...
-*   'Ultimate Dog Shaming' Will Make You Laugh So Hard You...
+*   Teens Shouldn't Be Allowed to Swear in Public
+*   6 Super Simple Ways Moms Can Instantly Be Happier
+*   The Secret to Getting Dad to Clean Up: Beer (VIDEO)
 
 More from The Stir »
 
-*   Jell-O Searching Online for the World's Fastest Pudding...
-*   10 Ads That Make Vans Look Badass
-*   Jed Hartman Gets Bumped Up at Time Inc.
+*   Scrap Value
+*   Internet Ads Jump 14%, Mobile Spending Skyrockets
+*   Ad of the Day: Costa Coffee
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
