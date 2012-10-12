@@ -283,12 +283,12 @@ Any disputes regarding this Privacy Policy are subject to our User Agreement and
      
 E-mail Newsletters **FREE** e-mail Newsletters!  
 Choose from safety, health, cars, and more! **Already signed-up?**  
-Manage your newsletters here too. Consumer News SMART PHONE REVIEWS  
-'Purple haze' photo problem isn't limited to iPhone 5 In our tests, the iPhone 4S and some Android devices had the same issue. AUTOMOTIVE NEWS  
-Toyota recalls 7.43 million cars due to window switch The recall includes the Camry, Corolla, Highlander, Yaris, and several others. LEAF BLOWER REVIEWS  
-Troy-Bilt TB 672 is designed for heavy-duty leaf work Wheeled models make a lot of sense if you have a big property. CAR SAFETY  
-NHTSA warns about dangers of counterfeit air bags The fake bags might not inflate properly or could deploy pieces of shrapnel. HEALTH NEWS  
-Does Culturelle work for tummy troubles? This probiotic is supposed to promote digestion and maintain regularity. Read More Connect Discuss products and safety with  
+Manage your newsletters here too. Consumer News AUTOMOTIVE NEWS  
+Emergency trunk release fails on our Lexus ES and GS A snapped lever could leave a trapped occupant with no way to escape. TELEVISION REVIEWS  
+Cheaper, off-brand TVs aren't always a great deal Major makers' sets typically have the highest scores in our Ratings. DISHWASHER REVIEWS  
+Viking D3 Series RDDB301 doesn't conquer our tests You can get a higher-scoring machine for much less than this $1,450 model. COMPUTER REVIEWS  
+Acer Aspire V5-571-6891 Windows 8 laptop satisfies Its enhanced touchpad recognizes a number of finger gestures. SMART PHONE REVIEWS  
+'Purple haze' photo problem isn't limited to iPhone 5 In our tests, the iPhone 4S and some Android devices had the same issue. Read More Connect Discuss products and safety with  
 subscribers and fans Follow us on: Mobile
 
 Get Ratings on the go and compare  
