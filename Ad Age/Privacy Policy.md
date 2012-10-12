@@ -128,30 +128,30 @@ Policy Last Updated: September 2012
 
 News _from our Ad Age Partners_
 
+*   Chrysler planning 'buzz packages' for various models
 *   Hyundai aims to win conquest buyers with fresh Sante Fe
-*   Honda Accord campaign targets Hispanics, blacks
 *   Lincoln gives sneak peeks at MKZ
-*   Honda turns on ad cash for dealers
+*   Honda Accord campaign targets Hispanics, blacks
 
+*   How can I use email to drive video views?
+*   Fall cleaning: Dust off your email list
 *   Fraudulent social reviews, both positive and negative, on the rise
 *   Five tips to rev up your content marketing program
-*   Product search capability highlights relaunch of ThomasNet platform
-*   Tech marketing budgets to increase 1.7% this year
 
-*   M&A drought not letting up
-*   Foreclosures fall to 5-year low
-*   Google awards $60,000 prize for Chrome hack
-*   Social Security: Where Obama and Romney stand
+*   The facts behind Romney's $5 trillion tax plan
+*   Biden, Ryan clash over defense spending
+*   Will China's auto boycott backfire?
+*   Postal Service increasing prices
 
+*   Online advertising jumps 14% to record $17B
 *   Fortune Group publisher tapped to oversee Time
 *   The Children's Place tests Sam's Club partnership
 *   NYC publisher plans illustrated Ke$ha memoir
-*   Hot MoMA
 
-*   Get ready to pay more for heating this winter
-*   CEO to workers: You'll be fired if Obama is re-elected
-*   Kodak to end healthcare benefits for retirees
-*   Wal-Mart shares soar to all-time high
+*   Foreclosure slowdown pushes up home prices
+*   Jobless claims drop to lowest level since 2008
+*   Post Office to add new global 'Forever' stamps
+*   Foreclosure filings hit 5-year low in Sept.
 
 *   2012 Toyota Prius Plug-In
 *   2012 Toyota Prius v
