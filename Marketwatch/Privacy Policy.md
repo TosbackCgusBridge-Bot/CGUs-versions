@@ -198,111 +198,129 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 11, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 12, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:06a
+/news/latest1.  8:04a
     
-    Intercept Pharma 5M-share IPO prices at high end
+    Wells Fargo Q3 net income $4.94 bln vs $4.06 bln
     
-2.  8:06a
+2.  8:03a
     
-    If only the EU were more like Norway
+    BREAKING
+    
+    Wells Fargo net 88c vs 72c
     
 3.  8:01a
     
-    Treasurys and dollars are your best bets now
+    Is the stock market crazy?
     
 4.  8:01a
     
-    Moody's puts 30 Calif. cities on review
+    Are 4G phones worth 20% more?
     
 5.  8:01a
     
-    Should retirees in âthe 47%â pay income taxes?
+    Coming up: Wholesale prices for September
     
 6.  8:00a
     
-    7 tricks to carving Halloween bills
+    Dollar slightly weaker as earnings get under way
     
-7.  7:59a
+7.  8:00a
     
-    Volkswagwen said to plan new budget brand
+    Goldâs primed for a breakout, but where to?
     
-8.  7:50a
+8.  7:54a
     
-    Dollar slips. euro takes Spain downgrade in stride
+    iGate 3rd-quarter profit rises 98%
     
-9.  7:47a
+9.  7:48a
     
-    Fastenal profit rises 13%
+    AEterna Zentaris down 18% in premarket trades
     
-10.  7:46a
+10.  7:47a
     
-    Winnebago profit gets big tax benefit boost
+    Advanced Micro falls 8% in premarket trades
     
-11.  7:45a
+11.  7:47a
     
-    Kythera Bio IPO prices at high end of range
+    STMicro rises 14.5% in premarket
     
-12.  7:43a
+12.  7:47a
     
-    Stock futures up. data, Sprint report in focus
+    Bank of America rises 1.2% in premarket
     
-13.  7:38a
+13.  7:47a
     
-    Winnebago down 5.7% in premarket trades
+    J.P. Morgan up 1.8% in premarket
     
-14.  7:37a
+14.  7:46a
     
-    J.P. Morgan CFO expected to leave post soon: WSJ
+    Drug makers weigh on Europe stocks after downgrade
     
-15.  7:36a
+15.  7:46a
     
-    Sprint Nextel rallies 13% on buyout report
+    Radio update: Oil prices expected to ease
     
-16.  7:31a
+16.  7:46a
     
-    Radio update: Foreclosures hit 5-year low
+    J.P. Morgan's profit rises 34%
     
-17.  7:31a
+17.  7:44a
     
-    Coming up: U.S. trade gap, claims, import prices
+    Ecolab buying Champion Technologies for $2.2 bln
     
-18.  7:26a
+18.  7:40a
     
-    Dahlman Rose starts Exxon Mobil coverage at a buy
+    Gold futures wobble in European trading
     
-19.  7:23a
+19.  7:32a
     
-    Softbank's Sprint price may top $12.8 bln: report
+    Stock futures move higher as J.P. Morgan reports
     
-20.  2:45a
+20.  7:30a
     
-    Carrefour sales buoyed by Latin America
+    Ecolab sees adjusted Q3 net of 87c
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,344.97 -128.56 -0.95% nasdaq /quotes/zigman/123127 3,051.78 -13.24 -0.43% s&p 500 /quotes/zigman/3870025 1,432.56 -8.92 -0.62% Kiosk
+dow /quotes/zigman/627449 13,326.39 -18.58 -0.14% nasdaq /quotes/zigman/123127 3,049.41 -2.37 -0.08% s&p 500 /quotes/zigman/3870025 1,432.84 +0.28 +0.02% Kiosk
 
 *   1341573300000 1341592200000
     
     From Fox Business
     
-    Â  Elizabeth MacDonald  
-    Playing games with pensions  
-    Public pensions are severely underfunded, threatening the retirements of government workers and taxpayer wallets.Â  /conga/kiosk/marketfox.html 230050
+    Â  Lauren Covello  
+    What's in a street name?  
+    Picky homebuyers are screening houses for a variety of criteria, including the name on the street sign, writes Lauren Covello.Â  /conga/kiosk/marketfox.html 230254
 *   1300176000000 1301475600000
     
     Retail
     
     Â  The $1 million challenge  
     Some U.S. retailers in Hong Kong pay rents north of $1 million a month, just to link up with China consumers. But those consumers aren't so keen anymore. /conga/kiosk/asia.html 230181
-*   1309370400000 1309428000000
+*   1238817600000 1270353600000
     
-    Forecaster of the Month
+    Food and Beverages
     
-    U.S. needs vital spark  
-    Economy is missing spark that could lead to faster growth and more jobs, according to MarketWatch Forecaster of the Month Paul Ashworth, chief U.S. economist at Capital Economics (far left). /conga/kiosk/wildcard4.html 230150
+    Food festivals: big trend  
+    These culinary events are putting a spotlight on the latest foodie obsessions, while also showcasing new products.  
+    â¢ The art of drinking tea 230246
+*   1343916000000 1343952060000
+    
+    Technology
+    
+    Google takes Manhattan  
+    Google is expanding its New York presence, bumping up against other tenants in its efforts to expand.  
+    â¢ What's a Facebook follower worth? /conga/kiosk/tech.html 230313
+*   1332374700000 1332461400000
+    
+    The Trading Deck
+    
+    audrey kaplan  
+    If the EU were more like Norway  
+    When European Union finance ministers met this week to ponder their various problems, they should have scheduled a side trip to Norway.  
+    /conga/kiosk/trading-deck-5.html 230332
 *   1332953700000 1332979800000
     
     The Trading Deck
@@ -310,14 +328,20 @@ dow /quotes/zigman/627449 13,344.97 -128.56 -0.95% nasdaq /quotes/zigman/123127 
     andrew giovinazzi  
     Is it time to sell volatility?  
     Continuing bad news appears to be hitting the market as volatility has risen and investors are flustered. But are their concerns warranted? /conga/kiosk/trading-deck-7.html 230138
-*   1309191300000 1309248000000
+*   1326931500000 1327018200000
     
-    Retirement
+    The Trading Deck
     
-    401(k)s in 'plain English'?  
-    Plan providers are now required to explain all the costs, but many critics say Wall Street seems intent on drowning them in paperwork and fine print.  
-    â¢ 401(k) gets mixed grades on clarity  
-    /conga/kiosk/wildcard3.html 230063
+    kevin marder  
+    Stocks: More decay is on the way  
+    In times like these, a medium-term speculator's prey is usually found in the more-speculative climes of the market, i.e. Nasdaq titles. /conga/kiosk/trading-deck-3.html 230250
+*   1349089200000 1349137500000
+    
+    Commentary
+    
+    Writing on the Wall  
+    Wall Street pay: a reality check  
+    Spare us the whining about tough times in finance.Â  An average Wall Street professional earns five times an average Joe, writes David Weidner.Â  /conga/kiosk/commentary2.html 230243
 *   1320411600000 1320616500000
     
     Alerts
