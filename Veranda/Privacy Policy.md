@@ -11,11 +11,7 @@ Most Viewed
 
 Most Searched
 
-1.  october
-2.  living rooms
-3.  designer inspiration
-4.  bedrooms
-5.  kitchens
+1.  Sorry, there are no search terms at this time
 
 Magazine | RSS
 
@@ -29,7 +25,7 @@ Sign up for RSS feeds and start receiving the day's headlines from the topics yo
 Dering Hall
 
 » See all Events  
-WFCA
+Shaw Floors
 
 » See all Events  
 
