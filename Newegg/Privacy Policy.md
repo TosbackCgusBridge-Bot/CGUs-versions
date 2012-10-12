@@ -31,9 +31,9 @@ If you see this message, your web browser doesn't support JavaScript or JavaScri
     
 *   Cameras Cameras
     
-    Point &. Shoot CamerasDSLR CamerasCamera LensesCamera FlashesDigital Camera AccessoriesLighting &. StudioCamcordersPocket CamcordersCamcorder AccessoriesCamera CasesCamera TripodsBinoculars &. Optics
+    Point &. Shoot CamerasDSLR CamerasCompact Mirrorless CamerasSports / Action CamerasCamera FlashesCamera LensesDigital Camera AccessoriesLighting &. StudioCamcordersPocket CamcordersCamcorder AccessoriesCamera Cases
     
-    Digital Photo FramesFlash MemoryTools &. ResourcesDigital Camera Buying GuideDSLR Buying GuideCamcorder Buying GuideMemory FinderBattery FinderExtended Service Plans
+    Camera TripodsBinoculars &. OpticsDigital Photo FramesFlash MemoryTools &. ResourcesDigital Camera Buying GuideDSLR Buying GuideCamcorder Buying GuideMemory FinderBattery FinderExtended Service Plans
     
 *   Software Software
     
