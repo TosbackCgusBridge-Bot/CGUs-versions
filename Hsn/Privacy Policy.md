@@ -231,6 +231,6 @@ for every budget Connect &. share with forums, blogs &. more
 *   MyCardExtras
 
   
-Copyright Ã¯Â¿Â½ 2012/HSN, Inc. All Rights Reserved. HSN and HSN.com are registered trademarks of HSNi, LLC, U.S. Patent No. 7,752,083, U.S. Patent No. 7,756,758  
+Copyright ® 2012/HSN, Inc. All Rights Reserved. HSN and HSN.com are registered trademarks of HSNi, LLC, U.S. Patent No. 7,752,083, U.S. Patent No. 7,756,758  
 Partner Sites: Expedia | Floraflora | Gifts | Hotels | Hotwire | Pronto | Shoebuy | Ticketmaster Other HSNI Sites: Ballard Designs | Frontgate | Garnet Hill | Grandin Road | Chasing Fireflies | Improvements | Territory Ahead | TravelSmith 0  
 shop now
