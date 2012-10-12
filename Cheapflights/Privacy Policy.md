@@ -130,8 +130,8 @@ Popular countries
 *   Flights to Puerto Rico
 *   Flights to Dominican Republic
 *   Flights to Italy
-*   Flights to Germany
 *   Flights to Australia
+*   Flights to Germany
 
 Departure Gate
 
