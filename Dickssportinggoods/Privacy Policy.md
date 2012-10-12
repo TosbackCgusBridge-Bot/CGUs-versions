@@ -402,7 +402,7 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Gun Storage &. Care
         *   Hunting Apparel &. Boots
         *   Treestands
-        *   Trail Cameras &. Electronics
+        *   Electronics
         *   Knives &. Multi-Tools
         *   Hunting Accessories
         *   Hunting Blinds
@@ -425,7 +425,6 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Baits &. Lures
         *   Rods, Reels &. Combos
         *   Ice Fishing
-        *   Fishing Accessories
         *   Waders
         *   View All »
     *   Recreation &. Games
