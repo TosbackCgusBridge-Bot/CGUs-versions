@@ -23,7 +23,7 @@
 
   Best Free Apps of the Day!
 
-Quicksearch PDF &. More!
+Solar Walk, &. More!
 
   Hot, New Games This Week!
 
