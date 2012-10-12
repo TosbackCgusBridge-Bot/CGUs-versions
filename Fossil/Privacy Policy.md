@@ -12,6 +12,8 @@ Shopping Bag (0) My Account My Account
 Store Locator Country Americas
 
 *   United States
+*   Canada
+*   Mexico
 
 Europe
 
@@ -79,6 +81,7 @@ Shop^
         *   Steel Watches
         *   Exotic Leather Watches
         *   Neutral Watches
+        *   Color Watches
         *   White Watches
         *   Ceramic Watches
         *   Interchangeable Watches
