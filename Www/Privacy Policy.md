@@ -1,4 +1,9 @@
-Sign In Browse|Movies |Upload Search
+Gmail Calendar Documents Photos Sites Groups Search More » Sign In Upload
+
+*   Video Manager
+*   Analytics
+
+Search
 
 *   About
 *   Press &. Blogs
@@ -32,7 +37,7 @@ Loading...
 
 Loading...
 
-0 / 00Unsaved Playlist Return to active list Options
+Send feedback 0 / 00Unsaved Playlist Return to active list Options
 
 1.  Your queue is empty. Add videos to your queue using this button:  
     or sign in to load a different list.
