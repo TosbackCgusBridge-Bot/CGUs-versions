@@ -25,23 +25,23 @@ _Jump to Navigation_ ↓
     *   show archives
     *   interactive videos
 
-schedule right now: October 11 12:00 AM · LARRYMANIA coming up next:
+schedule right now: October 12 03:00 AM · MORNING BREATH coming up next:
 
-*   1:00 AM · DECISIONES
-*   2:00 AM · L'CREME
-*   3:00 AM · MORNING BREATH
 *   4:00 AM · MORNING BREATH
 *   5:00 AM · MORNING BREATH
 *   6:00 AM · SMB
-*   8:00 AM · MORNING BREATH
+*   8:00 AM · REVENTON
 *   9:00 AM · MORNING BREATH
 *   10:00 AM · L'CREME
-*   11:00 AM · MORNING BREATH
-*   12:00 PM · L'CREME
-*   1:00 PM · REVENTON
-*   2:00 PM · L'CREME
-*   3:00 PM · L'CREME
-*   4:00 PM · AL CIEN 100%
+*   11:00 AM · L'CREME
+*   12:00 PM · DELICIOUS
+*   1:00 PM · AL CIEN 100%
+*   2:30 PM · 18 &. OVER
+*   4:00 PM · CHIQUIS 'N CONTROL
+*   5:00 PM · PARTY MIX
+*   6:00 PM · AL CIEN 100%
+*   7:00 PM · OPERACION REPO
+*   7:30 PM · OPERACION REPO
 
 see full schedule >>.
 
