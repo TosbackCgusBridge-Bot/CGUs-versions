@@ -2,7 +2,7 @@
 *   Skip to Search
 *   Skip to Main Content
 
-57° and Partly Cloudy
+53° and Partly Cloudy
 
 *   Prospective Students
 *   Current Students
