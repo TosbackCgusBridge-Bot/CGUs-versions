@@ -9,12 +9,12 @@ Cart: 0 items
 *   Handbags
     
     *   Backpack Handbags
+    *   Classic Handbags
+    *   Day Travel Handbags
     *   Fabric Handbags
     *   Cross-body Bags
-    *   Hobos
     *   Leather Handbags
     *   Organizer Bags
-    *   Satchels
     *   Shoulder Bags
     *   Totes
     *   Sale &. Clearance
@@ -24,13 +24,17 @@ Cart: 0 items
     
     Baggallini
     
-    Etienne Aigner
-    
     Fossil
+    
+    LeSportsac
+    
+    MICHAEL Michael Kors
     
     Nine West
     
     Piazza
+    
+    The Sak
     
     Vera Bradley
     
@@ -39,18 +43,21 @@ Cart: 0 items
 *   Designer
     
     *   Clutches
-    *   Designer Trends
     *   Hobos
     *   Leather Handbags
     *   Satchels
     *   Shoulder Bags
     *   Totes
+    *   Wallets
+    *   Watches
     *   Sale &. Clearance
     *   See All
     
     Popular Brands
     
     Cole Haan
+    
+    Juicy Couture
     
     kate spade new york
     
@@ -64,8 +71,8 @@ Cart: 0 items
     
 *   Luggage
     
-    *   By Size
     *   Carry-On Luggage
+    *   Checked Luggage
     *   Spinner Luggage
     *   Hardside Luggage
     *   Lightweight Luggage
@@ -128,15 +135,15 @@ Cart: 0 items
 *   Business &  
     Laptop Cases
     
-    *   Laptop Cases
     *   Attaches and Briefcases
-    *   Laptop Computer Backpacks
+    *   Laptop Backpacks
+    *   Laptop Bags
     *   Laptop Messenger Bags
     *   Laptop Sleeves
-    *   iPad and eReader Cases
-    *   Men's Laptop Bags
+    *   Leather Laptop Bags
+    *   Men’s Laptop Bags
     *   Rolling Laptop Bags
-    *   Women's Laptop Bags
+    *   Women’s Laptop Bags
     *   Sale &. Clearance
     *   See All
     
@@ -165,12 +172,13 @@ Cart: 0 items
     *   Backpacking Packs
     *   Day Hiking
     *   Hydration Backpacks
+    *   Kids Backpacks
     *   Laptop Backpacks
-    *   Camping &. Outdoor Recreation
+    *   Rolling Backpacks
+    *   Sack Packs
     *   School Backpacks
     *   Travel Backpacks
-    *   Wheeled Backpacks
-    *   Women's Packs
+    *   Women’s Packs
     *   Sale &. Clearance
     *   See All
     
@@ -200,8 +208,10 @@ Cart: 0 items
     *   Canvas Messenger Bags
     *   Laptop Messenger Bags
     *   Leather Messenger Bags
-    *   Men's Messenger Bags
-    *   Women's Messenger Bags
+    *   Men’s Messenger Bags
+    *   Men’s Shoulder Bags
+    *   Slings
+    *   Women’s Messenger Bags
     *   Sale &. Clearance
     *   See All
     
@@ -228,15 +238,15 @@ Cart: 0 items
 *   Sports  
     &. Duffels
     
-    *   Duffel Bags
+    *   All Purpose Duffels
+    *   Camping &. Outdoor
     *   Golf Bags
     *   Gym &. Fitness
-    *   Hunting &. Fishing
-    *   Hydration Packs
-    *   Sports Specific Bags
+    *   Hunting
+    *   Hydration
+    *   Sport Specific Bags
     *   Tactical Bags
-    *   Camping &. Outdoor Recreation
-    *   Women's Bags
+    *   Women’s Bags
     *   Sale &. Clearance
     *   See All
     
@@ -264,14 +274,14 @@ Cart: 0 items
     Accessories
     
     *   All Purpose Totes
-    *   Car Travel Accessories
-    *   Camera Bags &. Cases
-    *   Day Travel Bags
+    *   Day Travel Handbags
     *   Luggage Accessories
     *   Lunch Bags &. Coolers
-    *   Packing Folders &. Cubes
+    *   Packable Lightweight Bags
+    *   Packing Cubes
     *   Toiletry Kits
     *   Travel Security
+    *   Travel Wallets
     *   Sale &. Clearance
     *   See All
     
@@ -281,38 +291,55 @@ Cart: 0 items
     
     Case Logic
     
-    Crumpler
-    
     Eagle Creek
     
     eBags
+    
+    Lewis N. Clark
+    
+    Lug Life
+    
+    Pacsafe
+    
+    Wildkin
     
     See All
     
 *   Wallets &  
     Accessories
     
-    *   Men's Wallets
-    *   Women's Wallets
-    *   Watches
+    *   Eyewear
+    *   Hats
     *   Jewelry
+    *   Men’s Wallets
+    *   Men’s Watches
     *   Organizer Wallets
     *   Purse Accessories
-    *   Travel Wallets
+    *   Umbrellas
+    *   Women’s Wallets
+    *   Women’s Watches
     *   Sale &. Clearance
     *   See All
     
     Popular Brands
     
-    Ogon
+    adidas Watches
+    
+    Diesel Watches
     
     Fossil
     
-    Hobo International
+    Hobo
+    
+    Kenneth Cole Reaction
     
     Lodis
     
     Michael Kors
+    
+    Ogon
+    
+    Tumi
     
     Vera Bradley
     
@@ -321,16 +348,16 @@ Cart: 0 items
 *   iPad &  
     Electronics Cases
     
-    *   Camera Bags &. Cases
-    *   CD &. DVD Cases
-    *   iPad &. Tablet Cases
+    *   Camera Cases
+    *   Chargers &. Peripherals
+    *   Headphones
+    *   iPad Bags &. Cases
+    *   iPod &. MP3 Cases
     *   Kindle &. eReader Cases
-    *   Laptop Backpacks
-    *   Laptop Cases
-    *   Laptop Messenger Bags
-    *   Peripherals &. Chargers
+    *   Men’s iPad Cases
     *   Phone Cases
-    *   Women's Laptop Totes
+    *   Tablet Cases
+    *   Women’s iPad Cases
     *   Sale &. Clearance
     *   See All
     
@@ -338,21 +365,23 @@ Cart: 0 items
     
     Case Logic
     
-    eBags
+    Element Case
     
-    Incase
+    Incipio
     
-    Kenneth Cole Reaction
+    Lowepro
     
     Otterbox
     
     rooCase
     
-    Targus
+    Speck
     
-    The North Face
+    Tenba
     
     Tumi
+    
+    Vera Bradley
     
     See All
     
@@ -362,7 +391,7 @@ Cart: 0 items
     *   Baby Carriers
     *   Diaper Totes
     *   Diaper Bags
-    *   Men's Diaper Bags
+    *   Men’s Diaper Bags
     *   Kids Backpacks
     *   Kids Luggage
     *   Kids Lunch Bags
@@ -575,4 +604,4 @@ Shop With Confidence
 All other trademarks not owned by eBags.com or its subsidiaries that appear on this site are the property of their respective owners.  
 eBags USA © 1999 - 2012 eBags, Inc. All rights reserved.
 
-B-2012-10-11
+B-2012-10-12
