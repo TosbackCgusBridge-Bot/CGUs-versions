@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Toyota recall involves record number of cars. Is yours included?
-2.  26 people testified against Lance Armstrong
-3.  Obama Big Bird ad: a mistake, or shrewd? (+video)
-4.  Taliban shooting of 14-year old sparks outrage in Pakistan
-5.  Einstein's math may also describe faster-than-light velocities
+1.  Biden-Ryan debate: Already, some are complaining about the moderator (+video)
+2.  NASA rover Curiosity finds a rock not seen before on Mars (+video)
+3.  'Completely wrong,' Mitt Romney, and the Google dust-up
+4.  Biden, Ryan hold their own in tough vice presidential debate
+5.  Biden-Ryan debate: why it doesn’t matter, and why it does (+video)
 
 About these ads
 
@@ -111,17 +111,16 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Focus  
-    Vladimir Putin 2.0: A harder, eastward-looking presidency
+*   NASA rover Curiosity finds a rock not seen before on Mars (+video)
     
-    Vladimir Putin, once again in the Kremlin's top post, faces a far more divided Russia than he did during his first stint, and he's taking a more authoritarian line to match.
+    Using a laser and X-rays, the NASA rover Curiosity identified a rock named Jake as a form of basalt, similar to volcanic rocks found in ocean-island settings on Earth.
     
-*   Global News Blog: Middle East peace: What would an Israeli entrepreneur do?
-*   Modern Parenthood: Parenting in Mexico: Families' fear tested in 'virtual kidnappings'
-*   Dragon capsule reaches space station, chocolate ripple ice cream intact
-*   Decoder Wire: Obama Big Bird ad: a mistake, or shrewd? (+video)
+*   Decoder Wire: Ann Romney on 'GMA': How'd she handle burning cookies?
+*   Is Mexico's drug violence scaring off the next generation of journalists?
+*   Chinese author Mo Yan wins Nobel Prize in literature (+video)
+*   Progress Watch: Why teen drinking and driving has been cut in half in past 20 years
 
-_Photos of the day_ 10.10.12 » Photos of the Day 10/10
+_Photos of the day_ 10.11.12 » Photos of the day 10/11
 
 **CSMonitor.com** on Facebook
 
@@ -143,17 +142,18 @@ Sweet Beginnings, a growing business on Chicago's West Side, provides just relea
 
 Become part of the Monitor community
 
+*   World » Focus: Vladimir Putin 2.0: A harder, eastward-looking presidency
+*   USA » Focus: Obama's new program for young illegal immigrants: How is it going?
+*   Business » Kellogg Company recalls Mini-Wheats. Metal fragments in cereal.
+*   The Culture » The X Factor judges take their work home with them
 *   Books » Joe Biden vs. Paul Ryan: The evolution of the vice president in America
 *   The Culture » 'Call Me Maybe': Being happy in a minor key
-*   USA » Focus: Obama's new program for young illegal immigrants: How is it going?
+*   Making a Difference She offers ex-cons in Chicago a honey of a second chance
 *   Energy/Environment » Coyotes, bears, and lions: the new urban pioneers?
 *   Innovation » Facebook: 1 billion users. What's next for the social network?
-*   Making a Difference She offers ex-cons in Chicago a honey of a second chance
 *   USA » The toast of Texas? 5-0 Houston Texans: A Week 5 NFL quiz
 *   The Culture » Which cookie will win the White House?
 *   The Culture » The X Factor Boot Camp: Contestants crumble under pressure
-*   World » Arrivederci auto! Italy's bike purchases outstrip car sales.
-*   Energy/Environment » Romney zinger: Obama backs 'green' energy losers. Is he right? (+video)
 
 About these ads
 
