@@ -49,7 +49,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
             *   Spice Prince of India
             *   Street Feasts
         *   *   New Episodes Man v. Food Nation See Adam uncover unbelievable food challenges
-            *   Barefoot Contessa Barefoot Contessa Watch Ina in action and learn her easy and elegant recipes
+            *   USA Street Feasts American Street Feasts Andy explores the extraordinary array of Stateside street food
             *   Cupcake Wars Cupcake Wars Get your sugar fix and catch up on all the latest episodes
         *   ALL TV SHOWS
 *   Chefs
@@ -75,7 +75,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
             *   Sunny Anderson
             *   Thomasina Miers
         *   *   Ina Ina Garten The ultimate hostess shows you how to entertain like a pro
-            *   Kelsey Kelsey Nixon Shares her passion for getting beginner cooks in the kitchen
+            *   Andy Andy Bates Andy champions the hottest trend right now. street food.
             *   Sunny Sunny Anderson Adds fresh and funky twists to classic comfort foods
         *   ALL CHEFS
 *   Cookery School
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   Watch Andy Bates American Street Feasts weekdays, 12:30 &. 18:30 for the best in American street food: t.co/hxdGPYti #StreetFeastsUK
+*   80 delicious Andy Bates recipes: t.co/OastJtSJ #recipes
+*   @KERB\_ Had some great street food recently? Tweet a pic &. tag with #StreetFeastsUSA + #vendorsname to add it to our map t.co/RLqvKx2I
+*   Love the badge ;) RT @jackshilling @FoodNetwork\_UK Crispy Chicken. Unbelievable! #StreetKitchen #StreetFeastUSA t.co/abIpwI0v
+*   @cookinacurry wowsers, that looks fancy. Where'd you go?
+*   Believe the hype. @Streetkitchen's crispy chicken is chicken like you've never tasted before #whatdidyoueatforlunch
+*   Recipe of the Day: Pumpkin Seafood Chowder t.co/ksfJxkDT
 *   @tonguencheeks Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #TonguenCheek!
 *   @ElKantina Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #ElKantina!
 *   @NYDeliCardiff Great job with all the pictures! Keep them coming! #StreetFeastsUSA
-*   @BagelBoyBristol Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #BagelBoy!
-*   @PizzaPilgrims Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #PizzaPilgrims!
-*   @MotherFlipperUK Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #MotherFlipperUK!
-*   @TheRibMan Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #TheRibMan!
-*   @Veggie\_Heaven Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #WholeFoodHeaven!
-*   @GreenGoatFood Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #GreenGoatFood!
-*   @BigAppleHotDogs Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #BigAppleHotDogs!
 
 Follow Us
 
