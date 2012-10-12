@@ -222,9 +222,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Tricks of the Trade: Our Merch Stylists Share Their Bow &. Scarf Tying Tips
-    *   About Town: Perth, Western Australia with Ally of Vintage Valley
-    *   The Cutest Cupcakes Ever, Quite Literally
+    latest blog posts*   Quote of the Day: Edna Woolman Chase on Style
+    *   Old Photographs Given New Life
+    *   Tricks of the Trade: Our Merch Stylists Share Their Bow &. Scarf Tying Tips
     
     *   modcloth blog
     *   In Other Words
