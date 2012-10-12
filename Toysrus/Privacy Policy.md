@@ -289,49 +289,51 @@ Safe &. Secure Shopping
 
 Top Searches
 
-*   Swings
-*   Lego Ninjago
+*   Lego
+*   Halloween 2012
+*   Monster High
+*   Skylanders
+*   Doc McStuffins
+*   Barbie
+*   Imaginext
 *   Cars
 *   Lego Star Wars
 *   Halo
-*   Board Games
-*   Winx Club
-*   Novi Stars
-*   Minnie Mouse
-*   Lunch Kits
 
 What's Hot
 
-*   Halloween 2012
+*   Tabeo Kids Tablet
 *   Hot Deals &. Discounts
 *   Clearance
 *   Boys Toys
 *   Girls Toys
 *   Tablets
+*   MP3 Players
+*   Cameras
 *   Camcorders
-*   GPS
 *   Video Gallery
 
 Top Categories
 
-*   Arts &. Crafts Supplies
-*   Outdoor Play
-*   Bikes
-*   Building Sets &. Blocks
 *   Dolls &. Stuffed Animals
-*   Electronics
-*   Games &. Puzzles
-*   Learning
-*   Preschool
-*   Dress-Up
+*   Tablets and iPad
+*   Powered Riding Toys
+*   Action Figures
+*   Bikes
+*   Arts &. Crafts Supplies
+*   Kitchens
+*   Barbie Dolls &. Accessories
+*   Pretend Play
+*   R/C Vehicles
 
 Buzz
 
+*   International Shipping
 *   2012 Hot Toy List
 *   Hot Toys Reservation
+*   Free Layaway
 *   Weekly Ads
 *   Shop by Age
-*   Free Layaway
 *   Store Locator
 *   Wish List
 *   Special Events
