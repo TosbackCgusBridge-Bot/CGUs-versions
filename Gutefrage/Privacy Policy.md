@@ -193,84 +193,76 @@ Registrieren Login
 **Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Themen der Woche
 
 1.  Amazon
-2.  Bahn
-3.  Fifa
-4.  fifa 13
-5.  Online-Shop
-6.  Periode
-7.  Pickel
-8.  Piercing
-9.  reiten
+2.  Fifa
+3.  fifa 13
+4.  Online-Shop
+5.  Periode
+6.  Pickel
+7.  Piercing
+8.  reiten
+9.  Skype
 10.  Steam
 
-Top-50 Themen Thema Anzahl Apple 82108 Arbeit 63490 Ausbildung 49036 Auto 89414 Beauty 67613 Beruf 76148 Beziehung 70256 Computer 527187 Computerspiele 63217 deutsch 65837 Englisch 51195 ErnÃ¤hrung 49967 essen 70074 Facebook 75280 Fernsehen 59445 Film 98115 Finanzen 58400 Freizeit 256803 FuÃball 50442 Games 121694 Geld 91881 Gesundheit 202380 Haare 80775 Handy 199947 Hilfe 144884 Internet 317212 iPhone 73383 Kinder 50223 KÃ¶rper 48787 Laptop 71932 Liebe 161443 Lied 53326 MÃ¤dchen 54769 Medizin 61793 Minecraft 65998 Musik 276075 PC 276749 PC-Spiele 47671 Problem 53824 PS3 58747 Recht 93811 Schule 230588 Software 56244 Spiele 134490 Sport 108973 Technik 118503 Tiere 63917 TV 53545 Video 51659 Youtube 81170 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 82205 Arbeit 63557 Ausbildung 49091 Auto 89502 Beauty 67715 Beruf 76223 Beziehung 70349 Computer 527814 Computerspiele 63306 deutsch 65887 Englisch 51252 ErnÃ¤hrung 50004 essen 70152 Facebook 75481 Fernsehen 59488 Film 98227 Finanzen 58448 Freizeit 257320 FuÃball 50475 Games 121858 Geld 91966 Gesundheit 202562 Haare 80879 Handy 200188 Hilfe 145055 Internet 317519 iPhone 73490 Kinder 50257 KÃ¶rper 48851 Laptop 72015 Liebe 161657 Lied 53379 MÃ¤dchen 54846 Medizin 61843 Minecraft 66066 Musik 276321 PC 277053 PC-Spiele 47722 Problem 53892 PS3 58806 Recht 93908 Schule 230852 Software 56290 Spiele 134614 Sport 109068 Technik 118608 Tiere 63954 TV 53581 Video 51704 Youtube 81268 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  Anokudavid
+1.  n4Vseal
     
     Punkte:
     
-    1152
+    707
     
-    Level:
-    
-    Anokudavid
-    
-2.  TheN3twork
+2.  24Jodelautomat
     
     Punkte:
     
-    998
+    646
     
-    Level:
-    
-    TheN3twork
-    
-3.  MigrantInnen
+3.  sassbar
     
     Punkte:
     
-    594
+    612
     
     Level:
     
-    MigrantInnen
+    sassbar
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.215.530 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.223.441 gute Fragen_
 
-*   32 Geburtstag wurde vergessen.. Eltern darauf aufmerksam machen oder nicht?
-*   14 Meine Eltern akzeptieren mich nicht
-*   9 Leider ist was tauriges passiert....
+*   28 Es graut dem Morgen............................
+*   27 EntschÃ¤digung fÃ¼r seelische Qualen bei Folterdrohung - und wer zahlt fÃ¼r die Qualen der Eltern?
+*   18 Wie macht man das sich das Leben wieder leicht anfÃ¼hlt?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Das hilft gegen Dehnungsstreifen
 *   So wÃ¼rfelt man eine Zwiebel
 
-*   Wert eines Autos richtig berechnen
 *   HimbeertÃ¶rtchen backen
+*   Anleitung - Schiebekarte basteln
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.910.442
+1.915.035
 
 Anzahl der Fragen
 
-8.214.875
+8.222.629
 
 Anzahl der Antworten
 
-35.783.591
+35.811.479
 
 Anzahl der Tipps
 
-73.811
+73.883
 
 Anzahl der Videos
 
-4.634
+4.643
 
 Blog
 
