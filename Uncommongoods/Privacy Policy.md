@@ -47,6 +47,7 @@
 *   recycled
 *   all home decor
 
+*   2188721906vases
 *   candles &. luminaries
 *   decorative accents
 *   decorative bowls &. boxes
@@ -55,7 +56,6 @@
 *   pillows &. blankets
 *   sculptures
 *   shelves, hooks &. knobs
-*   vases
 
 *   handmade
 
@@ -80,7 +80,6 @@
 *   handmade
 
 *   recycled
-*   best selling
 *   all uncommon artist gallery
 
 *   aaron foster
