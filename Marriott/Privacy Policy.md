@@ -246,6 +246,7 @@ AUSTRALIA/PACIFIC
 EUROPE
 
 *   Germany (Deutsch)
+*   Italy (Italian)
 *   Spain (Español)
 *   France (Français)
 *   United Kingdom (English)
@@ -505,8 +506,8 @@ Within Marriott.com are numerous other Marriott Web sites that are accessible fr
 
 *   Twitter
 *   Blog
-*   Insiders
 *   Facebook
+*   Insiders
 
 Top Destinations
 
