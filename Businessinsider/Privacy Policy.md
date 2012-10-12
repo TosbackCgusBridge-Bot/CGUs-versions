@@ -10,26 +10,26 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
     *   Tools
     *   Media
     *   Enterprise
-    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning ClassicMap Will Let You Use Google Maps On Your iPhone Again—Sort Of\* It's Time People Realized That The Drudge Report Is A Major Media Property Worth Hundreds Of Millions Of Dollars Huawei, The Chinese Equipment Maker Accused Of Spying, Has Long Relied On IBM See What Happens When A Boeing 727 Is Crashed Into The Desert On Purpose
+    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning ClassicMap Will Let You Use Google Maps On Your iPhone Again—Sort Of\* We're Giving Away A Ticket To IGNITION! Google's Eric Schmidt: Microsoft Is 'Well-Run' But Irrelevant 11 Islands That Will Completely Disappear When Sea Levels Rise
 *   Finance
     *   Clusterstock
     *   Your Money
-    *   Broker Center10 Things You Need To Know Before The Opening Bell 10 Things You Need To Know Before The Opening Bell Pulling The Plug On Appliances Could Save You Hundreds Per Year 10 Things You Need To Know Before The Opening Bell
+    *   Broker CenterJP Morgan Explains That Their Massive Trading Loss Is Now Just A Blip On Their Balance Sheet JP Morgan Explains That Their Massive Trading Loss Is Now Just A Blip On Their Balance Sheet Not Having Kids Is A Savvy Way To Save For Retirement JP Morgan Explains That Their Massive Trading Loss Is Now Just A Blip On Their Balance Sheet
 *   Markets 10 Things You Need To Know Before The Opening Bell
 *   Politics
     *   Politics
     *   Defense
-    *   Law &. OrderMitt Romney Is Closing In On Obama In Every Key Swing State Mitt Romney Is Closing In On Obama In Every Key Swing State This Brilliant Afghan War Photo Has Become A Meme Here's What The Supreme Court Justices Looked Like When They Were Young
+    *   Law &. OrderIf You Missed The Vice Presidential Debate, This Is The Only Moment You Have To See If You Missed The Vice Presidential Debate, This Is The Only Moment You Have To See The US Has Drafted New Military Rules Against A Potential 'Cyber-Pearl Harbor' Here's What The Supreme Court Justices Looked Like When They Were Young
 *   Strategy
     *   Strategy
-    *   CareersIt Only Takes Two Minutes In A 'Power Pose' To Completely Boost Confidence It Only Takes Two Minutes In A 'Power Pose' To Completely Boost Confidence 10 Companies With Employee Perks That Will Make You Jealous
-*   Entertainment The 15 Most Expensive Celebrity Engagement Rings
-*   Advertising See How 7 Brands Are Testing Facebook's 'Want' Button
-*   Retail Starbucks Is Threatening To Take A Doggie Daycare To Court If It Doesn't Change Its Name And Logo
-*   Sports Here's The USADA's Mountain Of Evidence Against Lance Armstrong
+    *   CareersDon't Believe The Myth Of The Billionaire College Dropout Don't Believe The Myth Of The Billionaire College Dropout 20 People Who Overcame Depression To Become Rich And Famous
+*   Entertainment The 47-Year Evolution Of Celebrities Using Cell Phones On-Screen And Off
+*   Advertising Apple Has Quietly Started Tracking iPhone Users Again, And It's Tricky To Opt Out
+*   Retail The 'Yoga-Wars' Are Heating Up Because Women Can't Get Enough
+*   Sports What It's Like To Be A 36-Year-Old Retired NFL Player And Think You're Going To Die By 52
 *   Life
     *   The Life
-    *   TransportationDubai's Latest Mega-Project Is A Billion-Dollar Replica Of The Taj Mahal Dubai's Latest Mega-Project Is A Billion-Dollar Replica Of The Taj Mahal The TWA Flight Center At JFK Is A Throwback To The Glory Days Of Flying
+    *   TransportationThe Incredible Transforming Apartment In London The Incredible Transforming Apartment In London Latvia's Craziest Automaker Covered A Bentley In 'Snake Skin' For The Chinese New Year
 *   More
     *   Latest
     *   Video
@@ -54,11 +54,7 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
 
 *   Follow us on Facebook and get updates from Business Insider posted directly to your news feed  
 
-Continue to Business Insider »
-
-You will be redirected in seconds.
-
-Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,433
+Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,443
 
 *   Email
 *   More Share on Tumblr
@@ -230,34 +226,34 @@ More:*   SAI Select (sample)
 *   Careers Select (sample)
 *   Military Select (sample)
 
-Advertisement Your Money NASDAQ Composite 3,052 -13.24 (-0.432%) S&P 500 1,433 -8.92 (-0.619%) NYSE Composite 8,229 +0 (+0%) Sponsored By
+Advertisement Your Money NASDAQ Composite 3,049 -2.4 (-0.079%) S&P 500 1,433 +0.28 (+0.02%) NYSE Composite 8,257 +0 (+0%) Sponsored By
 
 Ready To Invest? Find A Broker Here »
 
-The Future Of Mobile
+NFL Fever
 
-*   THE STATE OF THE INTERNET
-*   Here's How Consumers Are Shopping With Their Phones
-*   These Are The Two Keys To Making Mobile Payments Work
+*   See What It's Really Like To Be An NFL Cheerleader
+*   The Patriots Are Revolutionizing The NFL By Doing Things College Teams Have Done For Years
+*   NFL POWER RANKINGS: Here's Where Every Team Stands Going Into Week Six
 
 Most Read Read  Commented  Recommended 
 
-*   The 50 Most Dangerous Cities In The World 1,595,781 Views
+*   The 50 Most Dangerous Cities In The World 1,914,644 Views
     
-*   Fast Food Workers Reveal The Menu Items You Should Stay Away From 1,012,619 Views
+*   Fast Food Workers Reveal The Menu Items You Should Stay Away From 1,248,279 Views
     
-*   See What Happened When 'Red Air' Stranded Marines In Taliban Territory 620,482 Views
+*   It's Time People Realized That The Drudge Report Is A Major Media Property Worth Hundreds Of Millions Of Dollars 333,874 Views
     
-*   8 Bad Work Habits That Will Kill Your Career 264,565 Views
+*   8 Bad Work Habits That Will Kill Your Career 288,290 Views
     
 
-*   Mitt Romney Just Hammered Obama On Libya In A Big, Wide-Ranging Foreign Policy Speech 279 Comments
+*   FOX NEWS' CHRIS WALLACE: I've Never Seen A Candidate As Disrespectful As Joe Biden Was Tonight 336 Comments
     
-*   PEW POLL: Mitt Romney Storms Into The Lead Over Obama 198 Comments
+*   It's Time People Realized That The Drudge Report Is A Major Media Property Worth Hundreds Of Millions Of Dollars 274 Comments
     
-*   It's Time People Realized That The Drudge Report Is A Major Media Property Worth Hundreds Of Millions Of Dollars 147 Comments
+*   We've Gotten To The Bottom Of The Mysterious Jobless Claims Report! 146 Comments
     
-*   GALLUP: Obama Bouncing Back Already To 5-Point Lead 110 Comments
+*   It Looks Like The Huge Drop In Jobless Claims Was All Due To One Mystery State 131 Comments
     
 
 Loading, please wait...
@@ -276,25 +272,25 @@ See All Jobs Startup Document Center Templates To Jump Start Your Business Busin
 By-Laws Financial  
 Model See All » Read Me Joe Weisenthal
 
-| Here's A Message For Everyone Who Says The US Economy Has To Cut The Debt And Take Its Medicine 35
+| And This Is How The Fed Forced Everyone To Invest In The Stock Market 10
 
-Look at the facts.
+David Rosenberg explains.
 
-John Mauldin
+James Pethokoukis
 
-| A Thorough Debunking Of The Jobs Report Conspiracy 17
-
-Mike "Mish" Shedlock
-
-| Here Are 2 More Ways Obama Got The Unemployment Rate To Drop 16
+| All Evidence Points To Obama Raising Middle Class Taxes By $4,000 A Year 19
 
 WhoWhatWhy
 
 | Mitt’s Advisors: He Has No Clue On Foreign Policy 17
 
-Cullen Roche
+Bruce Krasting
 
-| Is Market Complacency Really That High? 2
+| 80% Of People Contributing To Social Security Will Get Screwed 34
+
+Wolf Richter
+
+| Gold, Molotov Cocktails, Rubber Bullets And Teargas Signify A Serious Rift In Greece 4
 
 The Hive About The Hive » What Smart People Are Reading Right Now
 
