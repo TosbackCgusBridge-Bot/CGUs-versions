@@ -97,12 +97,21 @@ Last updated May 8, 2012.
   
   
 
-*   Logo
+*   Email
+*   Aero Texts
+*   *   Facebook
+    *   Twitter
+    *   YouTube
+    
+
+*   Customer Service
 *   Gift Cards
-*   Site Map
-*   About Aero
+*   About
 *   Careers
+*   Site Map
+*   Community
 *   Investor Relations
-*   Terms &. Conditions
+*   Terms of Use
 *   Privacy Policy
-*   Contact Customer Service
+
+International Shipping
