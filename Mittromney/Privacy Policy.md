@@ -32,7 +32,7 @@ Skip to Main Content Area Home   X Connect With Mitt Follow @MittRomney Login |
 *   News &. Media
     
     *   Featured Blog
-    *   Clear eyes. Full hearts. Can't lose! Read More
+    *   Be On Tonight's Rapid Response Team Read More
     *   More News
     
     *   Videos
