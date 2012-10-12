@@ -50,9 +50,7 @@ U.S. Edition
 *   中文-简体(China)
 *   Deutschland
 *   India
-*   Indonesia
 *   日本(Japan)
-*   한국(Korea)
 
 *   Home
     
