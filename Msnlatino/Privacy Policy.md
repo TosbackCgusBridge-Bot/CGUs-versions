@@ -691,9 +691,9 @@ contactos Telemundo TV Ahora
     
     Más de 70 fotos de cheerleaders de la NFL.
     
-*   ¡El color del año!
+*   ¡Enamórate de nuevo!
     
-    Arrasa con el naranja...úsalo en cualquier ocasión  
+    El divorcio no significa el fin de tu vida amorosa  
     
 *   Presentadores de la noche
     
