@@ -161,7 +161,7 @@ More on Edmunds
 *   Compare Popular Vehicles
 *   2012 Paris Auto Show
 *   Auto Calculators
-*   Consumers' Favorites: Vote Now: Best Convertibles
+*   Consumers' Favorites: Vote Now: Best Off-Roader
 
 Explore Edmunds
 
