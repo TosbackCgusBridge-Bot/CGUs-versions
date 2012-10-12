@@ -1,4 +1,4 @@
-About Us| Newsletter October 11, 2012
+About Us| Newsletter October 12, 2012
 
 *   Like Us
 *   Follow Us
@@ -396,11 +396,11 @@ Find out what women really need.
 
 Please acknowledge your agreement I have read and agree to WebMD's Privacy Policy Featured on MedicineNet
 
-*   Type 1 Diabetes Slideshow
-*   Psoriasis Slideshow
+*   Rheumatoid Arthritis Pictures
+*   ADHD: Tips for Parenting
 *   What is Ulcerative Colitis?
 *   Yeast Infection Treatment
-*   ADHD: Tips for Parenting
+*   Psoriasis Slideshow
 
 New on MedicineNet
 
