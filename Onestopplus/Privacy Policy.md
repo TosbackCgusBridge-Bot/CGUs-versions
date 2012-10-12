@@ -38,8 +38,8 @@ and Australia. Learn more   Shop the entire European collection from the websit
 *   Catalog Request &. E-mail Offers
 *   Registration &. E-mail
 *   Size Charts
-*   About Us
 *   California Transparency in Supply Chains Act
+*   About Us
 
 Home   >.     Privacy &. Security
 
@@ -574,4 +574,4 @@ Plus size clothing - BizRate Customer Certified (GOLD) Site HACKER safe certifie
 fullbeauty   |   Bargain Catalog Outlet ®   |   OneStopPlus France
 
 OneStopPlus.com is a secure site that respects your privacy. Please read about our Privacy Policy and Terms of Use  
-©2012 Redcats USA, L.P. All Rights Reserved
+and California Supply Chain Transparency Act ©2012 Redcats USA, L.P. All Rights Reserved
