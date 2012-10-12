@@ -83,6 +83,8 @@ még több
 
 új projekt
 
+váci corner offices, budapest
+
 erdőtelki arborétum, erdőtelek
 
 vármegyeháza (megyeháza), szekszárd
@@ -90,8 +92,6 @@ vármegyeháza (megyeháza), szekszárd
 béla király tér, szekszárd
 
 bertalan híd, szeged
-
-blaha lujza tér, budapest
 
 még több
 
