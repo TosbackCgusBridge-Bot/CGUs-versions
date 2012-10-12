@@ -1,6 +1,6 @@
 (skip this header)
 
-Thursday Oct 11, 2012 5:06 AM PT
+Friday Oct 12, 2012 5:06 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
+*   Paul Ryan's beefcake photos
+*   Chocolate Lab a Dogpatch treat
+*   Hawk Hill views
 *   Drinking habits from mom
-*   Target improves Metreon
-*   Debate pizza gimmick ripped
-*   Alex Smith, Obama talk football
-*   $1M catch for OC man?
+*   Giants playoff gear!
 
 *   Bay Area &. State
 *   Nation
@@ -338,11 +338,32 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Giants oust the Reds, advance to NLCS
+*   Round one of Frys.com Open
+*   A's fans
+*   International Day of the Girl Child
+*   Nation in Focus
+*   World in Focus
+*   2012 Vice presidential debate
+*   Slutty Sesame Street costumes for adults: How low will the Halloween industry go?
+*   Paul Ryan
+*   Vice Presidential Debate
+*   Day in Pictures, Oct. 11, 2012
+*   'It's Always Sunny in Philadelphia'/'The League' premiere
+*   Giants at Reds: Game 5
+*   City of Hope gala
+*   London Film Festival
+*   20th annual TNDC Celebrity Pool Toss
+*   Candidates eat
+*   Vice Presidents: The good, the bad and the powerful
+*   Vice Presidents: The good, the bad and the powerful
+*   Texas Chute Out imploded
 *   Cow Palace
 *   Cheapest 5 cities
+*   A's fall to Tigers in Game 5 of ALDS
 *   Bargain Bites 2012
 *   A's beat the Tigers in the bottom of the 9th
-*   Giants win game 5 of the NLDS playoffs
+*   Giants win game 4 of the NLDS playoffs
 *   World in Focus
 *   Nation in Focus
 *   Mira Mira
@@ -357,27 +378,6 @@ Ads by Yahoo! Photo Galleries
 *   Ironman Images
 *   Day in Pictures, Oct. 9, 2012
 *   The dirtiest ballparks in America
-*   Felix Baumgartner's previous adventures
-*   Wal-Mart
-*   Judy Garland dress auction
-*   Soleil - 'Versaille' in Silicon Valley
-*   Must See Movies Since 1960
-*   Must Sees, Pre-1960
-*   Romney Courts Military as Obama Woos Latinos in Tightening Race
-*   Half Moon Bay pumpkin winner: Thad Starr
-*   ALDS Game 2
-*   Texans defeat the Jets on Monday Night Football
-*   NLDS Game 2
-*   Nation in Focus
-*   World in Focus
-*   Obama in San Francisco
-*   Brandon Crawford stands out in his first year on the Giants.
-*   Day in Pictures, Oct. 8, 2012
-*   GSLEN Respect Awards
-*   Giants steps
-*   Gwyneth Paltrow through the years
-*   Oregon vineyards
-*   Rothko and Tate
 
 *   Most Read
 *   |
@@ -385,57 +385,58 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  A's save best for last: 4-3 walk-off win
-2.  Shocking! Plus-size model wears bikini!
-3.  Bone may be linked to Michaela Garecht
-4.  Tim Lincecum stars as SF Giants pound Reds, force a deciding Game 5
-5.  Mother of former SEAL asks Romney to stop
-6.  Olivia Wilde says sex life comments taken out of context
-7.  S.F. sheriff's job not all that secure
+1.  SF Giants oust Reds, advance to NLCS
+2.  2012 Vice presidential debate
+3.  A's vs. Tigers: Game 5
+4.  An aggressive Biden calms jittery Democrats
+5.  Posey celebrates, and deservedly so
+6.  Bargain Bites 2012
+7.  Softball-sized eyeball washes up on Florida beach
 
-1.  Ross Mirkarimi to get sheriff's job back
-2.  Bill Clinton draws 8,000 to UC Davis rally
-3.  French boat's rescuer seeks $200K award
-4.  Why won%u2019t Obama step up?
-5.  Shame on 4 supervisors over sheriff vote
-6.  Tim Lincecum stars as SF Giants pound Reds, force a deciding Game 5
-7.  Bruce Bochy changes his mind. Hector Sanchez to catch Barry Zito
+1.  Buster Posey grand slam leads SF Giants to historic Division Series clinching
+2.  S.F. sheriff's job not all that secure
+3.  Biden, Ryan face challenges in debate
+4.  SF housing protesters accused of burglary
+5.  Regular lineup returns for SF Giants' decisive Game 5
+6.  TIME%u2019s Paul Ryan beefcake photo shoot
+7.  An agressive Biden calms jittery Democrats
 
-1.  French boat's rescuer seeks $200K award
-2.  Pesticides blamed by report for illnesses
-3.  A's just don't know when they're finished
-4.  Six in 10 C-Store Shoppers Willing to Use Mobile Wallets, According to Paradigm Sample
-5.  A's save best for last: 4-3 walkoff win
-6.  Mother of former SEAL asks Romney to stop
-7.  Movie review: 'Taken' keeps on giving
+1.  SF Giants oust Reds, advance to NLCS
+2.  Safeway bets that loyalty program will pay off
+3.  Hawk Hill: People, birds flock for views
+4.  'Moby-Dick' review: A stirring triumph
+5.  Biden-Ryan debate offers clear contrasts
+6.  Prop. 37: Engineered corn study debated
+7.  Pence puts a charge into his team
 
 loading... Latest News Videos From our homepage
 
 *     
-    Carlos Avila Gonzalez, The Chronicle / SF
+    Michael Macor, The Chronicle / SF
     
-    Wowz-A's!
+    Posey powers comeback
     
-    A's near elimination when they rally to force Game 5. Photos
+    Grand slam was the difference as S.F. advances to the NLCS.
     
-*   It's a Heart Attack Thursday
+*   Giants' historic homers
 
 *     
-    Courtesy Photo / SF
+    Eric Gay, Associated Press / SF
     
-    Bone may be missing girl's
+    Clear contrasts in debate
     
-    Disappearance of Michaela Garecht in 1988 could be linked to 'Speed Freak Killers' well.
+    Biden and Ryan engage in a fiery and combative debate.
     
+*   Best lines | Report card
 
 *     
-    Erik Verduzco, Special To The Chronicle / SF
+    John Storey, Special To The Chronicle / SF
     
-    Mirkarimi may face recall
+    Bargain Bites 2012
     
-    Supe who voted to reinstate him says she'd back effort to oust him.
+    The best places around to get terrific food at very decent prices.
     
-*   Nevius: A loss for S.F.
+*   Great deals, all kinds of food
 
 *   Home
 *   News
