@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (8.8 MB) Top PC Downloads 1 Diner Dash 2 Wedding Dash 4 - Ever 3 Diner Dash 2 Restaurant Rescue 4 Diner Dash: Hometown Hero 5 Wedding Dash 6 Cooking Dash 7 SpongeBob SquarePants Diner Dash 8 Wedding Dash 2: Rings Around the World 9 Diner Dash 5: BOOM 10 Dress Shop Hop » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (65.4 MB) Top PC Downloads 1 Diner Dash 2 Wedding Dash 4 - Ever 3 Diner Dash 2 Restaurant Rescue 4 Diner Dash: Hometown Hero 5 Wedding Dash 6 SpongeBob SquarePants Diner Dash 7 Cooking Dash 8 Diner Dash 5: BOOM 9 Wedding Dash 2: Rings Around the World 10 Dress Shop Hop » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -265,23 +265,23 @@ Restore Flo's hometown!
 
 Help Quinn make wedding bells ring!
 
-**Play Free!** (18.7 MB) Try It Cooking Dash DASH™ &. Time Mgmt Games
-
-Help Flo cook and deliver food from four DinerTown restaurants while Cookie the Chef courts culinary celebrity!
-
-**Play Free!** (23.9 MB) Try It SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
+**Play Free!** (18.7 MB) Try It SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
 
 Soak up five-star feeding fun with everyone's favorite sponge!
 
-**Play Free!** (10.2 MB) Try It Wedding Dash 2: Rings Around the World DASH™ &. Time Mgmt Games
+**Play Free!** (10.2 MB) Try It Cooking Dash DASH™ &. Time Mgmt Games
 
-Here come the brides - again!
+Help Flo cook and deliver food from four DinerTown restaurants while Cookie the Chef courts culinary celebrity!
 
-**Play Free!** (21.6 MB) Try It Diner Dash 5: BOOM DASH™ &. Time Mgmt Games
+**Play Free!** (23.9 MB) Try It Diner Dash 5: BOOM DASH™ &. Time Mgmt Games
 
 Rebuild Flo's Diner from scratch!
 
-**Play Free!** (65.4 MB) Try It Dress Shop Hop DASH™ &. Time Mgmt Games
+**Play Free!** (65.4 MB) Try It Wedding Dash 2: Rings Around the World DASH™ &. Time Mgmt Games
+
+Here come the brides - again!
+
+**Play Free!** (21.6 MB) Try It Dress Shop Hop DASH™ &. Time Mgmt Games
 
 Help Bobbi make cool custom clothes!
 
