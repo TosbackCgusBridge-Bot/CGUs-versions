@@ -44,16 +44,20 @@ Store Locator
     *   Photo Gifts
     *   Clocks
     *   Sports Gifts
+    *   Military Gifts
+    *   Office Gifts
+    
     *   Blankets &. Pillows
     *   Exclusive Online Gifts
-    
     *   Awards &. Plaques
+    *   Writing &. Padfolios
     *   Padfolios &. Journals
     *   Pens and Pencils
     *   Executive Gifts
     *   Tech Gifts &. Gadgets
     *   Paperweights &. Bookmarks
     *   Stationery
+    
     *   New Arrivals
     *   Top 10 Gifts
     
@@ -144,6 +148,8 @@ Store Locator
     *   Tech Gifts &. Gadgets
     *   Military Gifts
     
+    *   Business Associate
+    *   The Boss
     *   Engraving Plates &. Name Badges
     *   Business Gifts For Him
     *   Business Gifts For Her
