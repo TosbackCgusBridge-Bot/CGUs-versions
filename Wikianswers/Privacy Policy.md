@@ -269,7 +269,7 @@ Answers may amend this policy from time to time by posting the new text on the S
   
 If you have any questions or suggestions regarding this privacy policy, please contact Answers: privacy\_at\_answers.com.  
   
-ADVERTISEMENT Answer these Why was it that the lower prices for farm goods after the Civil War were such a hardship on the nation? In: US Civil War Answer it! Why does tapioca contain wheat? In: Wheat Answer it! Where did the football helmet get invented? In: Football Equipment Answer it! Who was the original singer of memory? In: Music Genres Answer it! ADVERTISEMENT Answers Properties
+ADVERTISEMENT Answer these What does peacock mean in Arabic? In: English to Arabic Answer it! What is the antonym for the word artifacts? In: Synonyms and Antonyms Answer it! Are there full and partial lunar eclipses? In: The Moon Answer it! Can centroid be negative? In: Math and Arithmetic Answer it! ADVERTISEMENT Answers Properties
 
 *   Wiki Answers
 *   Video Answers
