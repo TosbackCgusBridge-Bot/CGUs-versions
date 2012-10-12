@@ -219,7 +219,7 @@ Torrance, CA 90501 Your Privacy Rights
         
     *   Yaris
         
-        **$14,115**  starting **1**
+        **$14,370**  starting **1**
         
         **30/38**  est. mpg **2**
         
@@ -279,23 +279,23 @@ Torrance, CA 90501 Your Privacy Rights
         
     *   Tundra CrewMax
         
-        **$25,155**  starting **1**
+        **$25,355**  starting **1**
         
         **16/20**  est. mpg **2**
         
-        **$43,665** as shown **1**
+        **$43,865** as shown **1**
         
     *   Tundra Double Cab
         
-        **$25,155**  starting **1**
+        **$25,355**  starting **1**
         
         **16/20**  est. mpg **2**
         
-        **$29,420** as shown **1**
+        **$29,620** as shown **1**
         
     *   Tundra Regular Cab
         
-        **$25,155**  starting **1**
+        **$25,355**  starting **1**
         
         **16/20**  est. mpg **2**
         
