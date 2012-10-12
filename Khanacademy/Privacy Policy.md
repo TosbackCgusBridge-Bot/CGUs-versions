@@ -15,18 +15,15 @@ Log in Donate Watch Practice Coach Volunteer About
     *   Brain Teasers
     *   Vi Hart
 *   Science
-    *   Projects
-    *   Bit-zee Bot
-    *   Reverse Engineering
-    *   Projectile Launcher
     *   Biology
     *   Chemistry
-    *   Organic Chemistry
-    *   Healthcare and Medicine
-    *   Physics
     *   Cosmology and Astronomy
-    *   MIT+K12
+    *   Healthcare and Medicine
+    *   Organic Chemistry
+    *   Physics
     *   LeBron Asks
+    *   MIT+K12
+    *   Projects
 *   Computer Science
     *   Drawing
     *   Programming Basics
