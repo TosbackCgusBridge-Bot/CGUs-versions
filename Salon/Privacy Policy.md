@@ -5,15 +5,15 @@ Register Sign in Welcome, Logout
 *   Hot Topics
     *   Hot Topics
         *   2012 Elections
+        *   Paul Ryan
         *   Mitt Romney
+        *   Joe Biden
         *   Barack Obama
         *   2012 Presidential Debates
-        *   Twitter
-        *   Paul Ryan
+        *   Vice Presidential debate
+        *   Elections 2012
         *   Business
         *   From the Wires
-        *   Supreme Court
-        *   Republican Party
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -194,29 +194,29 @@ About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service 
 
 It's crunch time!
 
-Current Stories For-profit inspectors allow toxic food
+Current Stories European Union awarded Nobel Peace Prize
 
-News. A Bloomberg Markets investigation shows dangers of food industry taking over from FDA
+News. Honor comes as 27-nation bloc was struggling with its biggest crisis since it was created in the 1950s
 
-How would you shame Paul Ryan?
+That should stop the bleeding
 
-Politics. Joe Biden could use any number of quotes to shame Paul Ryan. Which would you go with?
+Politics. The snap polls offer a mixed verdict, but Joe Biden achieved his most important objective in Danville
 
-National Book Awards: Genre fiction dissed again
+Pick of the week: Ben Affleck's giddy Iran hostage thriller
 
-Entertainment. The National Book Awards name five worthy finalists but ignore "Gone Girl" and 2012's top crime, sci-fi and fantasy
+Entertainment. Pick of the week: "Argo" is an outrageous, but mostly faithful portrait of smuggling American hostages out of Iran
 
-Does he like me?
+Is my brother a pedophile?
 
-Life. A new site lets users crowdsource answers to that age-old question via text-message analysis
+Life. There's a family history of incest and secrets. I don't know who to talk to
 
 Most Read
 
 *   In "Glittering" return, Paglia lets loose Kerry Lauerman
 *   New Zealand issues Hobbit coins as legal tender Prachi Gupta
-*   Walmart strikes spread to more states Josh Eidelson
-*   Can Republicans scare their way to victory? Robert Reich, ROBERTREICH.org
-*   Walmart's Black Friday ultimatum Josh Eidelson
+*   Third Northwest activist jailed for staying silent Natasha Lennard
+*   Memo to Joe: Expose Ryan's radicalism Robert Reich, ROBERTREICH.org
+*   Debate fact check Alex Seitz-Wald
 
 Voices
 
