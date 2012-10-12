@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 13 hours ago
+about 8 hours ago
 
-@BleacherReport: Live from Yankee Stadium for Game 3 of the ALDS http://t.co/CzwJTmk4
+@BleacherReport: The Tigers are heading to the ALCS! Justin Verlander's line: 9 IP, 4 H, 0 R, 1 BB, 11 K. Straight-up nasty stuff.
 
 Newsletters
 
