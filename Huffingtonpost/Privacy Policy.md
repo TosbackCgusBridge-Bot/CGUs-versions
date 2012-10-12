@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 11, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: **U.S.**
+October 12, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 11, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
 *   FRONT PAGE
 *   Politics
     
-    *   Obama: 'I Was Just Too Polite' At The Debate 19k
-    *   GOP Congressman Doctor Pushed Mistress Patient To Get Abortion 7k
-    *   Romney Makes Abrupt Reversal On Abortion Stance 13k
-    *   Romney Surges, But Could Ohio Save Obama? 15k
-    *   Federal Court Sides With Montana In Battle Against Citizens United 3k
+    *   Paul Ryan Workout Photos Revealed 5k
+    *   LIVE UPDATES: Joe Biden, Paul Ryan Face Off In Vice Presidential Debate 23k
+    *   Sarah Palin On Future Presidential Run: 'I'm Not Sure What The Future Holds' 2k
+    *   Joe Biden, Paul Ryan Clash In Vice Presidential Debate 19k
+    *   POLL: Who Won The Debate? 2k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 11, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Gay Voices
 *   Business
     
-    *   Super-Rich CEO To Workers: You're All Fired If Obama Wins 23k
-    *   World's Richest Man Making Money Off Giving Things To Poor People 4k
-    *   Walmart Workers Threaten To Strike On BLACK FRIDAY 1k
-    *   Restaurants Test Plan To Skirt Obamacare 2k
-    *   Terrible Economy Forcing FedEx To Cut Thousands Of Jobs 239
+    *   Mitt Romney: People Don't 'Die In Their Apartment Because They Don't Have Insurance' 16k
+    *   World's Richest Man Making Money Off Giving Things To Poor People 8k
+    *   Super-Rich CEO To Workers: You're All Fired If Obama Wins 25k
+    *   WATCH: Another Ex-CEO Backs Welch's Delusional Theory 1k
+    *   'Save Money, Live Better?' Walmart To Pay Full Costs For Workers' Surgeries At Prestigious Hospitals 229
     
     Go to Business **More in Business**
     
@@ -66,10 +66,10 @@ October 11, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
 *   Entertainment
     
     *   Stevie Nicks Threatens Nicki Minaj: 'I Would Have Killed Her' 1k
-    *   Uma Thurman Joins Hardcore Sex Film 418
-    *   Brian Wilson Speaks Out On Being Kicked Out Of The Beach Boys 1k
+    *   Uma Thurman Joins Hardcore Sex Film 824
+    *   Rihanna Reveals Album Art, Title 101
     *   Stacy Dash Defends Mitt Romney Support: 'I Really Don’t Understand The Fury' 3k
-    *   Beyonce Drops Out Of 'A Star Is Born' 221
+    *   LISTEN: Kanye Debuts 'White Dress' 61
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 11, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Moviefone
 *   Tech
     
-    *   11 Ways To Get More Battery Life Out Of Your iPhone 5 116
-    *   Now The Nation Of Taiwan's Angry With Apple Maps, Too
-    *   Coming Soon: A _Mini_ Galaxy S3 223
-    *   Scary: CEO 'Seemed To Lack An Empathy Gene' 96
-    *   This eReader Costs Only $13 91
+    *   The 21 Most Outrageous Cases For Your iPhone 5
+    *   Rachel Haot, New York's Digital Czar, Is The Woman Behind Bloomberg's Tech Vision 129
+    *   11 Ways To Get More Battery Life Out Of Your iPhone 5 123
+    *   'What Apple Has Learned Is That Maps Are Really Hard' 158
+    *   New Site Identifies People Posting 'CreepShots' To Reddit 715
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 11, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Joystiq
 *   Media
     
-    *   AP Apologizes Over Insta-Classic Romney Pic 1k
-    *   It's Official: Willie Geist Joins 'Today' 367
-    *   'Sesame Street' Asks Obama Campaign To Take Down Ad 4k
-    *   Conservatives Suggest VP Moderator Bias 3k
-    *   WATCH: Mitt Romney Repeats Vow To Axe PBS Funds 2k
+    *   Robin Roberts Released From Hospital 638
+    *   AP Apologizes Over Insta-Classic Romney Pic 2k
+    *   Martha Raddatz Gets Accolades For Debate Performance 1k
+    *   WATCH: Soledad O'Brien Smacks Down RNC Chairman 2k
+    *   Ann Romney Guest Hosts 'Good Morning America' 1k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 11, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Moviefone
 *   World
     
-    *   Teen Activist's Shooting Sparks Outrage Across Pakistan 3k
-    *   Notorious Drug Lord Killed By Accident 60
-    *   Earthquake Rattles Costa Rica 27
-    *   Russian Court Frees 'Pussy Riot' Member 534
-    *   PHOTOS: Greece's NSFW Protests 141
+    *   Masked Gunmen Reportedly Kill U.S. Embassy Employee 2k
+    *   Notorious Drug Lord Killed By Accident 142
+    *   Hezbollah Claims Responsibility For Drone Downed Over Israel 1k
+    *   Teen Activist's Shooting Sparks Outrage Across Pakistan 4k
+    *   Mexican Drug Cartels Flood U.S. With Cheap Meth 393
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 11, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Religion
 *   Healthy Living
     
-    *   6 Surprising Signs You Need More Sleep 37
-    *   Two-Time Breast Cancer Survivor Fabiana Lost 126 Pounds: 'Now I Am Having The Best Time Of My Life -- And In The Best Shape' 25
-    *   What Causes This Teen To Sleep 20 Hours A Day? 186
-    *   Too Thin? No, Just Writing A Fitness Book, Says Sarah Palin 945
-    *   Superfoods For Breast Health
+    *   Your Body's Secret Weight-Loss Weapons 15
+    *   Superfoods For Breast Health 40
+    *   6 Surprising Signs You Need More Sleep 84
+    *   The Best Health News Ever
+    *   Make Over Your Breakfast: Healthy Updates To 13 Classics
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 11, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Religion
 *   Style
     
-    *   PHOTO: Sexy Ursula Halloween Costume Sparks Controversy Over Plus Sizes 188
-    *   PHOTOS: Robyn Lawley Poses In Sexy Bikinis For Cosmopolitan Australia 1k
-    *   PHOTOS: See Jennifer Aniston's HUGE Engagement Ring 542
-    *   Bra Sizes Up Three Sizes In Just Two Years, According To Study 58
-    *   PHOTOS: Julie Bowen's Dress Looks Like Sparkly Mold? 125
+    *   Bra Sizes Up Three Sizes In Just Two Years, According To Study 130
+    *   PHOTO: Sexy Ursula Halloween Costume Sparks Controversy Over Plus Sizes 216
+    *   PHOTO: Katie Holmes Wears Leggings As Pants 356
+    *   Jennifer Aniston To Shill Hair Products For Living Proof 75
+    *   PHOTOS: Bill &. Hillary Clinton PDA-Fest 14
     
     Go to Style **More in Style**
     
@@ -192,13 +192,34 @@ October 11, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Travel
     *   Divorce
     *   Post 50
-*   Highlights
+*   Comedy
+    
+    *   WATCH: Letterman's Warning For Mitt Romney 1k
+    *   This Is What Every Obama Supporter Has Had To Deal With Since The Debate 326
+    *   7 Sites You Should Be Wasting Time On Right Now
+    *   25 Hilarious Joe Biden Parodies 15
+    *   PHOTO: Vanity Plate Goes Horribly Wrong 51
+    
+    Go to Comedy **More in Comedy**
+    
+    *   Funny Videos
+    *   Comedy Club
+    *   Political Humor
+    *   Original Videos
+    *   Crossing The Line
+    
+    **You might also like**
+    *   Entertainment
+    *   TV
+    *   Weird News
+    *   College
+    *   Arts
 *   LIVE
-    *   Next Joe To The Rescue
-    *   Next Turkey Hits Syria Again
-    *   Coming Up A False Epidemic
-    *   Coming Up White Student Union
-    *   Coming Up Regulating The HomelessGo to HuffPost Live
+    *   Next VP Debate Recap Domestic
+    *   Next VP Debate Recap Foreign
+    *   Coming Up 3rd Party VP Debate
+    *   Coming Up 3rd Party VP Debate
+    *   Coming Up I'm BoredGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
@@ -287,7 +308,6 @@ October 11, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
 *   Election Maps
 *   Opportunity
 *   2012 Blog
-*   Home
 *   GPS for the Soul
 *   Latino Voices
 *   Black Voices
@@ -295,9 +315,9 @@ October 11, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
 *   Science
 *   Green
 *   Crime
-*   Comedy
 *   Sports
 *   Religion
+*   Highlights
 
   
 
