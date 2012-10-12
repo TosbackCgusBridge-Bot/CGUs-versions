@@ -5,7 +5,7 @@
 *   Apartments
 *   Place an ad
 
-36° Alert!  Forecast ADN.com
+28° Alert!  Forecast ADN.com
 
 *   Log In or Join
 *   Report News
