@@ -118,7 +118,7 @@ _Oprah's Lifeclass_
 _The Oprah Winfrey Show_  
 OWN TV  
 Harpo Films  
-Documentary Club  
+OWN Doc Club  
 MAGAZINE  
 _O, The Oprah Magazine_  
 Subscribe  
