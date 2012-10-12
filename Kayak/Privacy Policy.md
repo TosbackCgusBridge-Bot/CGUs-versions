@@ -1,4 +1,4 @@
-Flights Hotels Cars Holidays City Breaks More Log in  My Trips £ GBP Home/ About Us/ Privacy Policy KAYAK Users
+Flights Hotels Cars Holidays City Breaks More Log in   My Trips   £ GBP Home/ About Us/ Privacy Policy KAYAK Users
 
 *   About Us
 *   Help with KAYAK
@@ -23,7 +23,7 @@ Mumbo Jumbo
 *   Terms &. Conditions
 *   Cookie Policy
 
-  Privacy Policy
+Privacy Policy
 
 Our goal is to make KAYAK the most trusted site in online travel. To do this, we need your help, so any suggestions for improvement can be sent to us directly via the privacy feedback form.
 
