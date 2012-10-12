@@ -27,11 +27,11 @@ Register
 
 *   Browse Database
     
-    *   Games (61181)
-    *   Families (1698)
+    *   Games (61195)
+    *   Families (1699)
     *   Categories (80)
     *   Mechanics (48)
-    *   Artists (8640)
+    *   Artists (8641)
     *   Designers (17330)
     *   Publishers (12696)
     *   Random Game
