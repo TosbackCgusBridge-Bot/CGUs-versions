@@ -1,6 +1,6 @@
 Access Hollywood  
 
-*   **HOT NOW:** Blake Lively Hits First Post-Wedding Red Carpet
+*   **HOT NOW:** Is Bobbi Kristina Brown Engaged?
 
 *   WATCH
 *   NEWS
@@ -141,15 +141,15 @@ Access Hollywood Live
 
  
 
-**Monica Potter Reveals How Real-Life Breast Cancer Scare Inspired Parenthood Storyline**
+**Lauren Conrad Talks New Boyfriend**
 
-In honor of Breast Cancer Awareness Month, the actress discusses this week’s emotional episode of “Parenthood.”
+Lauren also dishes on her two new books, “Beauty” and “Starstruck.”
 
  
 
-**Apolo Anton Ohno &. Karina Smirnoff Turn Up The Heat On Dancing**
+**Meet The New (And Hot!) Price Is Right Male Model Rob Wilson**
 
-Plus, what does Apolo see as the differences between Karina with his former partner Julianne Hough?
+Plus, Kit Hoover goes wild when Rob goes shirtless and shows off his toned body!
 
  
 
@@ -168,10 +168,10 @@ Healthy Hollywood
 
  
 
-**Wellness Wednesday: Blinded By Celebrity Whites!  
+**Ask Keri Glassman!  
 **
 
-Healthy Hollywood met up with the gorgeous Blake Lively last night and nabbed a few tips on how to get her infectious, bright smile!
+This week’s diet/nutrition question — does cinnamon really help you lose weight?
 
         Also Check Out:  
 
@@ -189,7 +189,7 @@ Fresh Faces Of Fall TV
 **Fresh Faces Of Fall TV  
 **
 
-Get to know “Nashville” darilng Clare Bowen, who plays the luminous Scarlett O’Connor.
+Get to know Kristin Kreuk’s “Beauty and The Beast” co-star, Jay Ryan.
 
  
 
@@ -200,7 +200,7 @@ Young Hollywood
 **XOXO: Young Hollywood  
 **
 
-What a trooper! Justin Bieber throws up on stage, continues with concert.
+One Direction teams up with NFL star Drew Brees for new Pepsi ad.
 
  
 
@@ -243,7 +243,7 @@ Justin Bieber Fever!
 **Justin Bieber  
 **
 
-Justin Bieber says some of his belongings were stolen during a show in Washington state.
+Genealogists at Ancestry.com say they’ve discovered teen idol Justin Bieber is a distant cousin of movie star Ryan Gosling and singer Avril Lavigne.
 
 *   About
 *   Contact
