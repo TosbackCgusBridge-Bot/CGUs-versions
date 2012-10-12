@@ -8,6 +8,7 @@ Groupon: Collective Buying Power
 *   All Deals
 *   Getaways
 *   Goods New
+*   Sweet Deals
 *   How It Works
 
 *   Sign In
