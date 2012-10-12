@@ -8,7 +8,6 @@
 *   MAGAZINE
 *   SI KIDS
 *   HIGH SCHOOL
-*   BEHIND THE MIC
 
 *   **NFL**
 *   **COLLEGE FOOTBALL**
@@ -143,19 +142,19 @@ The Privacy Statement posted on this site was updated in March, 2011.
 
 More from SI.com Latest News
 
-*   **Phil Taylor:** Tigers turn to Verlander in Game 5
-*   Ibanez HRs in 9th, 12th rescue Yankees
-*   Giants hammer Reds to force Game 5
+*   **Phil Taylor:** The future is most definitely now for Tigers
+*   Orioles top Yankees in 13, force Game 5
+*   Werth's blast keeps Nats' season alive
 
-Video NLDS series still up for grabs Verducci: Lincecum of old relieves Giants SI Writers
+Video Verducci: The better team won Chen: Pressure shifts to Yankees in Game 5 SI Writers
 
-*   **Tom Verducci:** Lincecum's new life, A-Rod sits and the truth about Strasburg
-*   **Phil Taylor:** Tigers turn to Verlander, the human insurance policy
-*   **Ted Keith:** Ibañez cements place in Yankees lore with dramatic homers
+*   **Tom Verducci:** Maximum LDS great for game but tough even for winning teams
+*   **Albert Chen:** No surprise Yankees-Orioles to be settled in winner-take-all fashion
+*   **Phil Taylor:** The future is now for these Tigers
 
-SI Photos Memorable Division Series Moments NHL Players Elsewhere Did You See That? - College Football  
+SI Photos Tweets of the Week Childhood Photos of Athletes Baseball's Over 40 in 2012  
 
-Hot Topics: Raul Ibanez MLB Playoffs Stephen Strasburg NFL Power Rankings Lance Armstrong Braxton Miller Swimsuit
+Hot Topics: Peter King's Picks Justin Verlander College Football Dale Earnhardt Jr. Fantasy Football Swimsuit
 
 *   SUBSCRIBE TO SI
 *   DIGITAL EDITION
