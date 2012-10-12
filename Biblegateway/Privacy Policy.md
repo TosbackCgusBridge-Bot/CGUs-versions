@@ -128,4 +128,4 @@ Book Self Publishing
 Gospel for Asia  
 Medi-Share
 
-The Daily Audio Bible reading plan is now available—sign up to have each day's Bible reading sent to your inbox!
+Sign up for our newest devotional: daily insights on leadership from the writings of A.W. Tozer!
