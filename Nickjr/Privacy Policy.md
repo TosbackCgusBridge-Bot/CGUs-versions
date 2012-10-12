@@ -188,9 +188,9 @@ UmiCar's Shape Race Game
 
 Collect super power shapes, avoid obstacles &. speed past Dump Truck to win!
 
-Guppies School Rocks Pack
+Get Your Guppies Fan Club Kit!
 
-It's just for Fan Club Members. Sign up today, it's FREE!
+When you sign up for the Bubble Guppies fan club, it's FREE!
 
 Enter to Win Umi Toys!
 
