@@ -145,37 +145,37 @@ Stories We Like
   Most Popular
 
 1.  My Proof of Heaven
-2.  Rich Old Guys Who Hate Obama
-3.  Kevin and Kole: A DADT Story
-4.  Stacey Dash’s Looks Matter
-5.  13 Dirtiest TV Sex Scenes
+2.  Video Captured Libya Attack
+3.  Ryan’s Roe v. Wade Bombshell
+4.  Ryan Solid, But One Major Mistake
+5.  Biden’s Passion Trumps Ryan
 
   Other News Entertainment
 
-*   Who Wore It Better?
 *   Week in Photos for Oct. 12, 2012
-*   Tori Spelling Reveals Scary Pregnancy Struggle, Shares New Baby Pics
+*   Usher's Highs and Lows
+*   Kardashian Fashion Face-Off: Kim vs. Khloe
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘Supernatural’ react: ‘I’m not leaving here without you.’
-*   ‘Chicago Fire’ premiere: Hot enough for you?
-*   Who should play Harry Osborn in ‘The Amazing Spider-Man 2′?
+*   Hello Brooklyn! On the scene at Barbra Streisand’s concert
+*   ’30 Rock’: Tracy’s doppelganger joins the 2012 election
+*   ‘Beauty and the Beast’ react: Five questions from the premiere
 *   **Get More from EW.com**
 
 Entertainment
 
-*   The End Of Flip-Flops
-*   What Men Really Think About Unintended Pregnancy
-*   State Department Stays Vague On Benghazi Causes
+*   Team Obama “Psyched” As Biden Performance Energizes Campaign
+*   The Whole Vice Presidential Debate In 164 Seconds
+*   Why Did Mitt Romney Pick Paul Ryan, Again?
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Latest Swing State Polls
-*   Voters Like Moderate Mitt Better
-*   Lawmaker Says "Some Girls Rape Easy"
+*   Quote of the Day
+*   Other Reaction to the Vice Presidential Debate
+*   Reaction to the Vice Presidential Debate
 *   **Get More from Political Wire**
 
 The Daily Beast
