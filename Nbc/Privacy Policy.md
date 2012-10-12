@@ -14,7 +14,7 @@ NBC.com
 *   Welcome to NBC Log In or Sign Up
 
 Chicago Fire  
-Premieres Tonight 10/9c. Watch the first episode preview now.  
+"TV's best new drama." - Cincinnati Enquirer. Watch the premiere now.  
 More »
 
 Privacy Policy
@@ -116,35 +116,35 @@ Universal City, CA 91608
 
 **Terms of Service >**
 
-Recent Episodes Air Date: 10/10/12 Watch Until: 11/15/12
+Recent Episodes Air Date: 10/11/12 Watch Until: 11/16/12
 
-Chicago Fire
+Up All Night
 
-Ep 101: Pilot
+Ep 204: Jerry Duty
 
-When a tragedy claims one of their own, there's plenty of guilt and blame to go around.
-
-*   Watch Episode
-*   Read Recap
-
-Air Date: 10/10/12 Watch Until: 11/15/12
-
-Law and Order: SVU
-
-Ep 1403: Twenty-Five Acts
-
-A budding erotic fiction author becomes the victim of a sexual assault when a sleazy talk show host takes her writing to heart.
+Chris engages in a passive-aggressive war with an annoying friend from his past. Rob Huebel guest stars.
 
 *   Watch Episode
 *   Read Recap
 
-Air Date: 10/10/12 Watch Until: 11/22/12
+Air Date: 10/11/12 Watch Until: 11/16/12
 
-Guys with Kids
+30 Rock
 
-Ep 103: The Standoff
+Ep 702: Governor Dunston
 
-All three dads run into unique problems trying to discipline their kids.
+Liz must balance her new professional success with her love life, all while helping Jack bring down NBC.
+
+*   Watch Episode
+*   Read Recap
+
+Air Date: 10/11/12 Watch Until: 10/29/12
+
+Days of our Lives
+
+Ep 11937: Thursday - 10/11/12
+
+Nicole and Jennifer get in a physical altercation
 
 *   Watch Episode
 *   Read Recap
