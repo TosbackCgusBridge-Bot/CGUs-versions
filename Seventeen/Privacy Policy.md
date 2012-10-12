@@ -18,7 +18,7 @@ Try: Cool Nails Dating Advice Homecoming Dresses
 *   Traumarama
 *   Share Your Thoughts
 
-Who's Your Celeb Shopping Buddy?
+What's Your One Direction Theme Song?
 
 *   Shopping
 *   Celeb Makeovers
@@ -43,6 +43,7 @@ Homecoming Dresses Under $100
 Latina Beauty Guide
 
 *   Celebrity News
+*   One Direction News
 *   Hunger Games Exclusives
 *   Daily Gossip
 *   Celebs You Should Know
@@ -52,7 +53,7 @@ Latina Beauty Guide
 *   Celebrity Quizzes
 *   Celebrity Videos
 
-Must-See Halloween Movie: _Girl Vs. Monster_
+Celeb BFF Breakups &. Makeups
 
 *   Hot Guy Panel
 *   Boyfriend Battle
@@ -61,7 +62,7 @@ Must-See Halloween Movie: _Girl Vs. Monster_
 *   Hot Guy Videos
 *   Get Guy Advice
 
-Flirty Text Message Ideas!
+Love Advice in 140 Characters or Less!
 
 *   Fitness Blog
 *   Sex Q&A
@@ -98,17 +99,17 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     See Pics of The Freshman 15
 *   entertainment
     
-    One Direction Blowout
+    Demi's Advice For Dealing With Rumors
 *   fashion
     
-    Cute Accessories to Rock This Fall!
+    Kendall &. Kylie Jenner Exclusives
 *   love
     
     Love Advice in 140 Characters or Less!
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**5 Winners!** Enter for a chance to win a bundle of elastics that won't snag your hair. Type in the Freebie Phrase of the Day, found in the October Issue!
+**10 Winners!** Enter for a chance to win Spin Pins that create amazing updos. Type in the Freebie Phrase of the Day, found in the October Issue!
 
  enter now 
 
@@ -120,10 +121,10 @@ Type your anonymous question below and get personalized answers
 
 SEARCH GET ADVICE! Quizzes
 
+*   What Movie Couple Are You and Your Boyfriend?
 *   What's Your One Direction Theme Song?
 *   Who's Your Celeb Shopping Buddy?
 *   What's the Best Halloween Costume for You?
-*   Which TV Character Are You Most Like?
 
 More Quizzes
 
