@@ -1,4 +1,4 @@
-  Let's Go To Bed | The Cure Listen Live Boston.com
+  6 Underground | Sneaker Pimps Listen Live Boston.com
 
 *   Home
 *   Today's Globe
