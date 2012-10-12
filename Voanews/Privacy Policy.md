@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Turkey Releases Syrian Plane
-*   Forced Evictions On the Rise in China
+*   Biden, Ryan Clash on Foreign, Domestic Issues in Vice Presidential Debate
+*   Turkey Says Syrian Plane Contained Ammunition
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
