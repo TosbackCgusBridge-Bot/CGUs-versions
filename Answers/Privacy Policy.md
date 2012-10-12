@@ -269,7 +269,7 @@ Answers may amend this policy from time to time by posting the new text on the S
   
 If you have any questions or suggestions regarding this privacy policy, please contact Answers: privacy\_at\_answers.com.  
   
-ADVERTISEMENT Answer these When did the Japanese surrender Singapore? In: Japan in WW2 Answer it! What is an antonym for the word tier? In: Synonyms and Antonyms Answer it! How might budgetary control produce organizational conflict? In: Business &. Finance Answer it! How does the environment influence life negatively? In: Environmental Issues Answer it! ADVERTISEMENT Answers Properties
+ADVERTISEMENT Answer these What colour would white region become after iodine is put on it? In: Arctic Foxes Answer it! What are the names for the scientist that discovered rhodium? In: Scientists Answer it! What is the outcome of Narnia? In: Chronicles of Narnia Answer it! How much would 2 TVs cost? In: Technology Answer it! ADVERTISEMENT Answers Properties
 
 *   Wiki Answers
 *   Video Answers
