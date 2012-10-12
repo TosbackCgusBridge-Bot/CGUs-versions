@@ -1,5 +1,5 @@
   
-Users Online Now: **1,663** (Who's On?) Visitors Today: **395,272** Pageviews Today: **583,338** Threads Today: **214** Posts Today: **2,813** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,738** (Who's On?) Visitors Today: **223,633** Pageviews Today: **424,777** Threads Today: **246** Posts Today: **3,136** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,15 @@ trinity@godlikeproductions.com
   
 News
 
+*   German Gov't Inadvertently Reveals Police Monitor Gmail, Skype, Facebook &. Use Snooping Malware
+*   Supreme Court Could Hear Another ObamaCare Challenge
+*   Between Facebook and Sex, Facebook Wins
+*   Lawsuit claims jail guards flushed baby down toilet, joked about it
+*   Judge Caught Driving Drunk Allowed To Drive Home, Avoids DUI Charges
+*   DARPA Tests Drones That Refuel While Airborne
+*   How the CIA Used a Fake Sci-Fi Flick to Rescue Americans From Tehran
+*   How Do We Know We're Not Living Inside A Massive Computer Simulation?
+*   Scientists Detail A Diamond Encrusted Super-Earth
 *   Supreme Court to Rule on Patents for Self-Replicating Products
 *   Canada Joins TPP as a Second-Tier Negotiator: Entertainment Lobby Approves, Civil Society Does Not
 *   Meet Polaris, The First Ice-Drilling Lunar Prospector-Bot
@@ -128,18 +137,7 @@ News
 *   Frenchman, American win Nobel for quantum physics
 *   Spies or No Spies, U.S. Companies Should Fear Huawei
 *   European nuclear power plants ill-set for disaster
-*   Medicine Nobel Awarded to Stem Cell Pioneers Who Reprogrammed Adult Cells
-*   Predicting The Future: Fantasy Or A Good Algorithm?
-*   Researchers use magnets to cause programmed cancer cell deaths
-*   You Built What?!: A Tesla Coil Gun That Produces Foot-Long Sparks
-*   Video: SpaceX's Dragon Capsule Blasts Toward Space Station
-*   Krugman Lets Loose On Jobs Report Truthers
-*   Chinese telcos branded national security risk for US
-*   House Science Member Says Earth Is 9,000 Years Old
-*   Declassified at Last: Air Force’s Supersonic Flying Saucer Schematics
 
-  
-  
   
   
   
@@ -149,4 +147,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.034s (0 queries)
+Page generated in 0.015s (0 queries)
