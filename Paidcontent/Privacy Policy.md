@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Lessons in how to crowdsource journalism from ProPublica
+Reddit, freedom of speech and the dark side of community
 
 Stay on top of tech news in your inbox
 
