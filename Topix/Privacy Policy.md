@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Syria
-
-Syria, Russia Press Turkey on Jet's Interception
-
 Mitt Romney
 
-Obama: Ia ll be tougher in next Romney debate
+VPs set up Obama-Romney rematch
+
+Iran
+
+Iran
 
 Politix
 
-Should we lower the drinking age to 18?
+Who won the vice presidential debate?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 111,110 • Total comments across all topics: 187,713,989
+Comments made yesterday: 112,002 • Total comments across all topics: 187,814,852
 
 Copyright ©2012 Topix LLC
 
