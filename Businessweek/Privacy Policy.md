@@ -1,4 +1,14 @@
-Bloomberg Businessweek Go To Businessweek.com Bloomberg Businessweek
+Bloomberg Businessweek Go To Businessweek.com Sign in with Facebook Or use your Businessweek account Email Password Forgot password? Remember me
+
+Already a Bloomberg.com user?
+
+Sign in with the same account.
+
+Don't have an account? Sign up.
+
+Help! I can't access my account.
+
+Bloomberg Businessweek
 
 *   Global Economics
 *   Companies &. Industries
@@ -106,6 +116,6 @@ Links
 *   Terms of Use
 *   \[+\] Rate This Page
 
-Get Businessweek Delivered Breaking the Billion-User Barrier Subscribe
+Get Businessweek Delivered Are You Better Off? Subscribe
 
 @2012 Bloomberg L.P. All Rights Reserved. Made in NYC Ad Choices
