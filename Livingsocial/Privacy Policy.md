@@ -2,7 +2,7 @@
 
 *   my vouchers
 *   Log in
-*   Sign up
+*   sign up
 
 LivingSocial
 
