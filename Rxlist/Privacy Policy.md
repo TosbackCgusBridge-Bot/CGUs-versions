@@ -1,7 +1,7 @@
 *   Like Us
 *   Follow Us
 
-Pill Identifier Search October 11, 2012
+Pill Identifier Search October 12, 2012
 
 *   Home
 *   Drugs A-Z
@@ -288,18 +288,19 @@ Health Solutions From Our Sponsors
   
 Featured Topics
 
-*   What is Type 1 Diabetes?
+*   Rheumatoid Arthritis
 *   Psoriasis Slideshow
 *   Ulcerative Colitis
 *   ADHD Medications
+*   Multiple Sclerosis Slideshow
 
 New &. Updated
 
-*   Atrovent HFA
-*   Avelox
-*   Bactrim
-*   Capoten
-*   Combivent Respimat
+*   Cayston
+*   Eylea
+*   Kalydeco
+*   Ortho Evra
+*   Stivarga
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
