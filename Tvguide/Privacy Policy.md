@@ -73,11 +73,11 @@ What's Hot
 
 Fall TV Popularity Contest
 
-_Made in Jersey_ Yanked
+_X Factor_ Reveals a "Dragon"
 
-Mega Buzz
+A _Bachelor_ Baby!
 
-Flannery's _Bold_ Exit Plans
+_Good Wife_ First Look
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -137,11 +137,11 @@ more popular celebrities Most Popular Movies
 
 more popular movies Top Videos
 
-1.  Supernatural
-2.  Dexter
+1.  Arrow
+2.  Supernatural
 3.  Gossip Girl
-4.  Julie Plec's Watchlist
-5.  The Big Bang Theory sneak peek...
+4.  Dexter
+5.  Watch the new cold open for Th...
 
 more top videos
 
