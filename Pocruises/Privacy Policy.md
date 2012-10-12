@@ -6,7 +6,7 @@ Skip header
 *   Contact us
 *   Find a travel agent
 
-Skip main navigation Main menu Control Time: 1:06:26 PM Skip main navigation
+Skip main navigation Main menu Control Time: 1:09:12 PM Skip main navigation
 
 *   Home1
 *   Find &. book cruises
@@ -141,6 +141,7 @@ Skip main navigation Main menu Control Time: 1:06:26 PM Skip main navigation
     
     *   Weddings &. Renewal of vows
     *   Gifts &. Celebrations
+    *   Black tie hire for men
 *   How can we help?
     
     *   Before you sail
@@ -343,7 +344,6 @@ How can we help?
 
 Find us on
 
-*   Travel agents
 *   Careers
 *   Legal
 *   Press
@@ -355,11 +355,11 @@ Find us on
 
 This website uses cookies to give you the very best user experience. By using our website, you agree that we can place cookies on your device. For more information see the 'About Cookies' link at the bottom of this page.
 
-Server = NTWEB006A  
+Server = NTWEB006  
 Country In Session (from GeoIP Sniffer) = UK  
 Show AU Content setting = True  
-X\_Forwarded\_FOR = 64.147.188.8  
+X\_Forwarded\_FOR = 184.106.117.173  
 User IP = 10.35.0.246  
-SessionID = tu2vf1a4bbic2f45bq3llp3y  
-RenderTime = 00:00:00.4687500  
-Page rendered at 2012-10-11T13:06:26 Back to top of page
+SessionID = f32aa1qdrnehf3ae2fakvc3k  
+RenderTime = 00:00:00.3437500  
+Page rendered at 2012-10-12T13:09:12 Back to top of page
