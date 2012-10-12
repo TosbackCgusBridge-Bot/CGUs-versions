@@ -25,37 +25,37 @@ jump to content my reddits AdviceAnimalsannouncementsAskRedditatheismawwbestofbl
 *   \-movies
 *   \-bestof
 *   \-fffffffuuuuuuuuuuuu
-*   \-pokemon
 *   \-leagueoflegends
+*   \-pokemon
 *   \-Minecraft
 *   \-4chan
-*   \-circlejerk
 *   \-reactiongifs
-*   \-mylittlepony
-*   \-mildlyinteresting
 *   \-gentlemanboners
-*   \-LadyBoners
-*   \-cats
+*   \-mildlyinteresting
+*   \-circlejerk
+*   \-mylittlepony
 *   \-starcraft
 *   \-doctorwho
-*   \-LifeProTips
-*   \-skyrim
-*   \-facepalm
-*   \-news
 *   \-Jokes
-*   \-breakingbad
+*   \-facepalm
+*   \-LifeProTips
+*   \-cats
+*   \-LadyBoners
 *   \-nfl
-*   \-community
-*   \-tf2
-*   \-comics
-*   \-Guildwars2
-*   \-DotA2
-*   \-woahdude
-*   \-adventuretime
-*   \-wow
-*   \-Borderlands2
 *   \-Android
-*   \-Libertarian
+*   \-skyrim
+*   \-comics
+*   \-woahdude
+*   \-wow
+*   \-tf2
+*   \-news
+*   \-food
+*   \-community
+*   \-cringe
+*   \-breakingbad
+*   \-Guildwars2
+*   \-baseball
+*   \-talesfromtechsupport
 
 more » reddit.com help want to join? login or register in seconds|
 
@@ -153,7 +153,7 @@ Use of this site constitutes acceptance of our User Agreement and Privacy Policy
 
 REDDIT and the ALIEN Logo are registered trademarks of reddit inc.
 
-π Rendered by PID 26332 on app-45 running 1403b79.
+π Rendered by PID 18262 on app-49 running 0229a51.
 
 you'll need to login or register to do that create a new account
 
