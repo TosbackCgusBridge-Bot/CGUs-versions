@@ -118,6 +118,7 @@ Skip to Navigation Skip to Main Content
     *   Food &. Candy Favorites
     *   New This Season
     *   SALE - Food &. Candy
+    *   Holiday Food &. Candy
 *   For The Home
     
     *   Bed &. Bath
@@ -160,7 +161,7 @@ Skip to Navigation Skip to Main Content
     *   Pest Control
     
     *   Christmas Shop
-    *   Christmas Tree Shop
+    *   Christmas Trees
     *   Ornaments &. Tree Trimming
     *   Holiday Decor
     *   Candles
@@ -266,7 +267,7 @@ Skip to Navigation Skip to Main Content
     *   Original. Authentic.
     
     *   Christmas Shop
-    *   Christmas Tree Shop
+    *   Christmas Trees
     *   Ornaments &. Tree Trimming
     *   Holiday Decor
     *   Candles
