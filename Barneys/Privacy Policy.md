@@ -2,7 +2,7 @@ COMPLIMENTARY SHIPPING ON ALL US ORDERS
 
 See Details
 
-Log In Favorites Favorites My favorites (3) Most Loved Alexander Wang Donna Hobo Barneys New York Search
+Log In Favorites Favorites My favorites (3) Most Loved Chloé Ankle Strap Wedge Sandal Barneys New York Search
 
 *   New Arrivals
     *   All New Arrivals
@@ -18,7 +18,7 @@ Log In Favorites Favorites My favorites (3) Most Loved Alexander Wang Donna Hobo
     
     Most Loved
     
-    Proenza Schouler Leather Woven Skirt $4,450
+    Proenza Schouler Leather Woven Skirt
 *   Women
     *   ALL Women
     *   All Designers (A-Z)
@@ -110,7 +110,7 @@ Log In Favorites Favorites My favorites (3) Most Loved Alexander Wang Donna Hobo
     Lanvin Printed Python Platform _$855_ $339 _Sale_
 *   The window Insider Fashion Access Video
     
-    Fall’s No. 1 Staple: A Laveer Blazer (or Three)
+    Care For a Free Proenza Schouler PS1 Bag? Read On…
     
 *   Trends
     
