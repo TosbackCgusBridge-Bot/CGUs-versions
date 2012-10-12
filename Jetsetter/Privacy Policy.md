@@ -45,8 +45,8 @@ Login Become a Member My Account   ▾ Invite Friends
 
 *   Tropical, Temple &. Tuk…
 *   Secret Five-Star Stunners
+*   Family Playcations
 *   Steals on Ski Stays
-*   World’s Sexiest Hotels
 
 *   Personal Travel Planning
 *   Honeymoon Packages
@@ -220,37 +220,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Hotel Fauchère - Pennsylvania
-    
-    Starting Today 10/11 at 11am EDT
-    
-*   Park Hyatt Washington D.C.
-    
-    Starting Today 10/11 at 11am EDT
-    
-*   Bungalow Hotel - New Jersey
-    
-    Starting Today 10/11 at 11am EDT
-    
-*   Garden Court Hotel - Palo Alto Palo Alto, California
-    
-    Starting Today 10/11 at 11am EDT
-    
 *   Naladhu Maldives
     
-    Starting Friday 10/12 at 3pm EDT
+    Starting Today 10/12 at 3pm EDT
     
 *   The 1770 House - Hamptons
     
-    Starting Friday 10/12 at 3pm EDT
-    
-*   Ski/Snowboard Canada's Rockies A Five-Day/Four-Night Trip with Access Trips
-    
-    Starting Friday 10/12 at 3pm EDT
+    Starting Today 10/12 at 3pm EDT
     
 *   Mosaic Palais Aziza &. Spa Marrakech, Morocco
     
-    Starting Friday 10/12 at 3pm EDT
+    Starting Today 10/12 at 3pm EDT
+    
+*   Ski/Snowboard Canada's Rockies A Five-Day/Four-Night Trip with Access Trips
+    
+    Starting Today 10/12 at 3pm EDT
+    
+*   Cape Town on Sale
+    
+    Starting Saturday 10/13 at Noon EDT
+    
+*   Lake Placid Lodge - New York
+    
+    Starting Saturday 10/13 at Noon EDT
+    
+*   Andaz West Hollywood
+    
+    Starting Sunday 10/14 at 3pm EDT
+    
+*   Hotel Rex - San Francisco
+    
+    Starting Sunday 10/14 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
