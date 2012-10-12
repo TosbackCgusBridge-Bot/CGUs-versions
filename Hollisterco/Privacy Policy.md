@@ -4,11 +4,11 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Sweatpants Sale - $20 &. Up!
+\[hol-HomepageTopBannerEMS\] 20% off Purchase + $5 Shipping on all orders! Code: 35284
 
-*   Shop Dudes Sweatpants
+*   shop dudes
 
-*   Shop Bettys Sweatpants
+*   shop bettys
 
 *   see details
 
