@@ -13,9 +13,9 @@ All Tube8AmateurAnalAsianBlowjobEbonyEroticFetishHardcoreIndianLatinaLesbianMatu
 *   Signup
 *   Login
 
-*   Trends
+*   Trending
 *   Blog
-*   My Videos
+
 *   Upload Video
 *   Shemale
 *   Gay
