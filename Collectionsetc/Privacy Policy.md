@@ -52,7 +52,6 @@
 *   Holidays &. Seasonal
     
     *   Fall
-    *   Halloween
     *   Thanksgiving
     *   Winter
     *   Christmas
@@ -60,13 +59,14 @@
     *   New Year's Eve
     *   Valentine's Day
     *   Spring
-    
     *   St. Patrick's Day
+    
     *   Easter
     *   Mother's Day Gifts
     *   Father's Day Gifts
     *   4th of July
     *   Summer
+    *   Halloween
     *   Holidays &. Seasonal Best Sellers
     *   Holidays &. Seasonal On Sale
 *   For The Home
@@ -124,8 +124,8 @@
     
     *   Fall &. Winter Apparel
     *   Women's Clothing
-    *   Womens Accessories
     *   Holiday Inspired
+    *   Womens Accessories
     *   Tops &. Shirts
     *   Pants &. Bottoms
     *   Dresses &. Skirts
