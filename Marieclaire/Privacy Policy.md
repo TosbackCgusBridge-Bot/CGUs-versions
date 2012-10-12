@@ -81,6 +81,10 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 
 Latest blog entries
 
+*   Five Lady Candidates to Watch: Election Countdown Edition
+    
+    Last month, we gave you a list of 11 female congressional candidates hitting the campaign trail this season. Now, with less than a month to election day, were checking in with some of the most fascinating candidates and closest races. 10/11/12
+    
 *   Watch Blondie's Live YouTube Concert
     
     Give us a studio recording of "Heart of Glass" and we'll be happy. give us a live performance by Blondie, and we'll be even happier. Check out YouTube Presents October 10 at 4 p.m. EST for a concert live from the New York City Google offices. 10/09/12
@@ -96,10 +100,6 @@ Latest blog entries
 *   Move Like Madonna
     
     Get a taste of Madonna's gym, Hard Candy Fitness, from its new DVD, Addicted to Sweat. Nicole Winhoffer, Madge's trainer, shares some moves. 10/03/12
-    
-*   Clarins and FEED: A Beautiful Partnership
-    
-    FEED, Lauren Bush's United Nations World Food Programme's burlap bag project, just introduced their first collaboration with luxury cosmetic company Clarins. World, welcome the FEED 15 Clarins Pouch. 10/03/12
     
 *   See all blogs
 
