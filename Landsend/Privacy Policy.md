@@ -29,11 +29,13 @@ Enter Keyword or Item # Search
         *   Regular
         *   Petite
         *   Plus Size
+        *   Petite Plus
         *   Tall
     *   Shirts &. Blouses
         *   Regular
         *   Petite
         *   Plus Size
+        *   Petite Plus
         *   Tall
     *   Sweaters
         *   Regular
@@ -48,6 +50,7 @@ Enter Keyword or Item # Search
     *   Dresses &. Skirts
         *   Regular
         *   Petite
+        *   Petite Plus
         *   Plus Size
     *   Jackets &. Blazers
         *   Regular
@@ -308,13 +311,12 @@ Enter Keyword or Item # Search
     *   Decorative Pillows &. Home Décor
     *   Seasonal Décor &. Gifts
     *   Bath
-    *   Beach Towels
     *   Outdoor Living
     *   Dining
     *   Furniture
     *   Kids' Home
     *   Totes &. Bags
-    *   Just for Dogs
+    *   Dogs Shop
     *   Sale
 *   Luggage
     
