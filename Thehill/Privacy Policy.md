@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Rep. Issa closes in on ClintonPollster pulls out of Fla., NC and Va., says Obama can’t win thereRomney looks to use his debate momentum to blunt Obama in OhioRomney to pull story of slain Navy SEAL from campaign speechesPelosi offers debate advice to Biden
+Cutter: Romney, Ryan 'entire reason' Libya attack is political issueObama approval rating gets a boost after Gallup tweaks its polling methodologyBiden's 'malarkey' and laughter drive online reaction during veep debate Issa wants classified briefing on Libya intel Parody takes over Team Obama's planned rapid response account
 
 Emailed
 
-Pollster pulls out of Fla., NC and Va., says Obama can’t win thereRep. Issa closes in on ClintonIssa targets Hillary: Big mistakeObama campaign comes around to flip-flopping advice from Senate DemsState Dept. officials contradict claims on deadly Libya attack
+The great USA comebackSensing win, GOP kingmakers closing ranks behind RomneyGOP senators to White House: Cyber executive order would be 'a mistake'Obama campaign comes around to flip-flopping advice from Senate DemsCutter: Romney, Ryan 'entire reason' Libya attack is political issue
 
 Discussed
 
-First lady 'rarely' ventures into the West Wing to offer president policy adviceNew Obama ad uses Big Bird to hit Romney on deficit, Wall StreetRep. Issa closes in on ClintonRomney campaign seizes momentum with 30 days left before electionSesame Street asks Obama campaign to take down attack ad featuring Big Bird
+First lady 'rarely' ventures into the West Wing to offer president policy adviceBiden tells audience middle class has been 'buried' last four yearsNew Obama ad uses Big Bird to hit Romney on deficit, Wall StreetCutter: Romney, Ryan 'entire reason' Libya attack is political issueRep. Issa closes in on Clinton
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Axelrod: Biden must 'pin Congressman Ryan down'
-*   MORNING READ
-*   Romney moves to center, shows new ease on campaign trail
+*   Sharp barbs but no clear winner in testy Biden-Ryan VP debate
+*   Ryan's mom weighs in on debate
+*   Conservatives say debate moderator Martha Raddatz let Biden steamroll Ryan
 
   
 More Briefing Room » Congress Blog
 
-*   A bulwark against the Super PACs: The Internet
-*   Restraint is a hallmark of smart regulation
-*   Unlimited contributions to parties would be disastrous
+*   We can do more to fight gender inequality
+*   An opportunity for a real policy debate between two Catholics
+*   American consumers want more miles per gallon
 
   
 More Congress Blog » Pundits Blog
 
-*   Issa targets Hillary: Big mistake
-*   The fallacy of Obama's unemployment numbers
-*   Obama needs Bill Clinton, not Big Bird
+*   Biden and Ryan — whose whoppers are bigger?
+*   Will Paul Ryan rise to the occasion in tonight's VP debate?
+*   Gold-star mother of Navy SEAL hero asks Mitt Romney to stop exploiting his death
 
   
 More Pundits Blog » Twitter Room
 
-*   Study: Political tweets drive campaign donations
-*   Paul Ryan thanks 'Clueless' actress for support, calls her 'brave'
-*   Michelle Obama tells daughters: 'Just don't dance on the tables'
+*   Biden's 'malarkey' and laughter drive online reaction during veep debate
+*   Ryan, Biden prepare to fight ahead of VP debate
+*   Essential tweeters to follow for VP debate
 
   
 More Twitter Room » Hillicon Valley
 
-*   GOP senators to White House: Cyber order would be 'a mistake'
-*   Lawmakers blast advertisers for ignoring 'Do Not Track' on Microsoft's Explorer
-*   Chaffetz accuses State Department of revealing classified information
+*   Study: One-in-10 Americans followed debate on both TV and mobile gadgets
+*   Report calls for tougher rules to protect cellphone location data
+*   Eshoo says FCC's Pai wrong on congressional intent for auctions
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Energy expert Bledsoe launches new venture
-*   US confirms tariffs on China's solar industry
-*   Oil, business groups sue SEC over disclosure rule
+*   Ryan slams ‘green pork’ in stimulus law
+*   Ad blitz hits Ohio Sen. Brown over coal industry regulations
+*   Sens. Cardin, Lugar slam oil industry's Dodd-Frank lawsuit
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Poll: Voters give Romney higher marks on leadership
-*   Poll finds Romney gaining in swing-states Ohio, Virginia, Florida
-*   AFL-CIO ramps up direct mail campaign
+*   Poll finds Romney with 7-point lead over Obama in Florida
+*   OVERNIGHT CAMPAIGN: Debate night
+*   Warren up in two new polls
 
   
 More Ballot Box » On The Money
 
-*   House Republicans accuse CFTC of putting politics ahead of mission
-*   IRS commissioner to exit next month
-*   Jamie Dimon: I don't mind paying higher taxes to help solve economic crisis
+*   Biden hammers Romney-Ryan tax plan
+*   Biden talks up Bush tax cut benefits for millionaires
+*   Biden says Romney revealed true self with '47 percent' remarks
 
   
 More On The Money » Healthwatch
 
-*   Romney vows to be 'pro-life president'
-*   Christie backs Romney over abortion remark flap
-*   Allen West slams opponent for Medicare cuts West backed
+*   Biden, Ryan spar over US abortion rights
+*   Biden on Medicare: 'Who do you trust?'
+*   Waxman protests 'partisan' GOP oversight of health law
 
   
 More Healthwatch » Floor Action
 
-*   Shaheen, Barrasso ask Treasury to study effect of eurozone crisis on US economy
-*   GOP senators ask Defense to look into Libyan attacks, diplomatic security
-*   Ron Paul sides with Romney on issue of US gov't dependency
+*   Rep. Huelskamp praises student protest of USDA calorie rules
+*   Jackson Jr. fails to get big endorsement due to absence
+*   Moran says more needs to be done to protect military voting rights
 
   
 More Floor Action » Transportation
 
-*   Report: TSA refuses to pat down leukemia patient in private
-*   Dems tout Amtrak ridership record
-*   DOT warns of counterfeit air bags in cars
+*   Ryan defends ‘car guy’ Romney from auto bailout 'misquoting'
+*   Biden likely to talk auto bailout in veep debate
+*   Airlines avoid three-hour flight delays, increase on-time performance
 
   
 More Transportation » DEFCON Hill
 
-*   Collapse of BAE, EADS merger stalls downsizing of defense industry
-*   Report: Yemen detains US citizen on terrorism charges
-*   US 'can't prevent' insider attacks in Afghanistan, says Dempsey
+*   Biden, Ryan argue over removing 'surge' troops from Afghanistan
+*   Biden, Ryan trade barbs on Iran
+*   Ryan, Biden clash over handling of wars in Iraq and Afghanistan
 
   
 More DEFCON Hill » Global Affairs
 
-*   Issa wants classified briefing on Libya intel
-*   House Republican calls for reprimands at State Dept.
-*   Officials to House panel: State denied requests for more security in Benghazi
+*   European Union wins Nobel Peace Prize for uniting continent
+*   Biden calls Romney position on Syria 'whole lot of verbiage'
+*   Biden blames intelligence community for changing story about Libya attack
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris UN out to regulate Web Markos Moulitsas Debate a wake up call More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Brent Budowsky The great USA comeback Dick Morris Romney TV ad blitz More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
