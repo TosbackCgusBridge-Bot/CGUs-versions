@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Thursday 11 October 2012
+Friday 12 October 2012
 
 *   Home
 *   News
@@ -138,13 +138,13 @@ In About us
 
 Editor's Choice »
 
-Afterlife: full of fluffy clouds and angels?  
+The war that changed us all  
 
-What does the neuroscientist **Colin Blakemore** make of an American neurosurgeon’s account of the afterlife?
+It will not take much to involve us in the centenary of WWI – fascination with it has never been greater, says **Harry Mount**
 
 Comments
 
-Who is teaching our children how to code? Douglas Hodge: 'my Cyrano won’t be pretty' Rolling Stones: Doom and Gloom, review Rose Prince: I’m always game for pheasant Advertisement
+Alex James learns to fly a Spitfire Mulberry’s knitting nans Michael Palin's Brazil: exclusive extract From Carr to Kay, 30 great one-liners Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
@@ -155,11 +155,11 @@ Back to top
 Hot Topics
 
 *   Syria
-*   Conservative Party Conference
 *   US Election
 *   Weather
 *   Wonder Women
-*   More...
+*   Jimmy Savile
+*   Cycling
 
 *   News
 *   Politics
