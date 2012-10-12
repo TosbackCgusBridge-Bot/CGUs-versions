@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Fast N' LoudOne of a Kind Woodill 8:00PM Fast N' LoudFast &. Furious Fairmont 9:00PM Fast N' LoudHoly Grail Hot Rod TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Yukon MenTragic Spring 8:00PM Yukon Men: Hunt for Survival Revealed  TV SHOWS
 
 American Chopper
 
@@ -34,11 +34,11 @@ How Booze Built America
 
 Human Planet
 
-Kurt Sutter's Outlaw Empires
-
 Life
 
 Man vs. Wild
+
+Moonshiners
 
 MythBusters
 
@@ -320,21 +320,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-Extreme Stratos Skydive Postponed: DNews Nugget
+Map Your City's Carbon Pollution
 
-Manufacturing Robots To Mimic Us: DNews Nugget
+'Magic Finger' Swipes Smartphone Remotely
 
-Excellent Idea of the Day: Licorice for Cleaning
+Facebook More Tantalizing Than Sex
 
-Hormone Replacement Therapy Safe, Study Suggests
+Cellphones Track Malaria in Kenya
 
-Jurassic Park Won't Happen: Dino DNA Dead
+Paul Ryan's Arm Tweets on its Own: DNews Nugget
 
-How to Find a Job You'll Love: Gotta-See Video
+Answer Life's Biggest Questions: Gotta-See Video
 
-Must-See Hyperphotos: The Ultimate Zoom
+Saturn V Also Suffered Engine Launch Anomalies
 
-Cloning Dinos from DNA Impossible: DNews Nugget
+Bat-like Coral Clings to Caves
 
   facebook share0 Tweet Privacy Policy  
 
@@ -540,38 +540,33 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 11,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 12,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 11,  
+Oct 12,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 11,  
+Oct 12,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 11,  
+Oct 12,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 11,  
+Oct 12,  
 9:00 am  
 60 min(s)  
 **The FBI Files**  
-_The Shootist_  
- In the late 1980s, the FBI matches wits with a cunning bank robbe  
-**More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
-$47.95  
-  **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
-$12.95   **Discovering Ardi DVD**  
-$19.95   **Discovery Channel Polymer Chemistry Set**  
-$19.95        
+_Voice of Terror_  
+ When Eulalio Jose Negrin is gunned down in 1979, the Cuban nation  
+**More Listings »**   Shop Discovery Store      
 
 our sites
 
