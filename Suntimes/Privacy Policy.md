@@ -63,7 +63,7 @@ Metering is ON
 
 suntimes
 
-Thursday, October 11, 2012
+Friday, October 12, 2012
 
 Search Search Site All Papers YAHOO!
 
