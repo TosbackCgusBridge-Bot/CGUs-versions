@@ -102,6 +102,7 @@ shop zales outlet ZalesZales Outlet
     *   Caravelle by Bulova
     *   Citizen
     *   Citizen: The Signature Collection
+    *   DKNY
     *   Ed Hardy
     *   ESQ Movado
     *   Ingersoll
@@ -111,6 +112,8 @@ shop zales outlet ZalesZales Outlet
     *   Pulsar
     *   Seiko
     *   Skagen
+    *   Wittnauer
+    *   Zodiac
     *   Black Hills Gold
     *   Personalized
     *   View All Watches
