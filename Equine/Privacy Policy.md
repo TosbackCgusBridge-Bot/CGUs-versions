@@ -113,17 +113,18 @@ Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad Equine.com is the Official Classifieds Site for our 25+ partner sites including: Testimonials **Don't just take our word for it...** "Sold to Venezuela.....Equine.com has the ability to reach people all over the country. Thanks Equine.com for helping sell our..."  
-**Jill**  
-Dodgeville , Wisconsin "Lots of interest and equine.com got my horse sold. Thanks so much."  
-**Melinda**  
-Lebanon , Kentucky "Excellent service, Sold w/in 24 hours. Thank You"  
-**Chris**  
-SUSSEX, New Jersey "Star was adopted on May 10th. We only adopt horses out. Equine has been very good to us and their efforts are greatly appre..."  
-**Humane Society/SPCA**  
-Lake Panasoffkee, Florida " I found a great home for my filly by advertising with equine.com "  
+Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad **Exposure**  
+Sell online and in regional publications. Online ads have up to 24 color photos. Our network of magazines appear throughout the U.S. Testimonials **Don't just take our word for it...** " Equine.com has an amazing range opening up vast numbers of potential horse buyers to sellers. My horse sold within a week...."  
 **Someone**  
-MARYSVILLE, California View More Testimonials
+Consecon, Ontario, Canada " I love equine - i have sold 2 horses via your website and both of my horses went to incredible homes!!! "  
+**Lori**  
+Saint Joseph , Minnesota " We always have good experiences when using equine.com "  
+**Someone**  
+Chula Vista , California " great site to sell horses on. "  
+**Marva**  
+Roseburg , Oregon "Sold in one week. Had the most interest using Equine.com. "  
+**Mary**  
+Sussex, New Jersey View More Testimonials
 
 *   Advertise
 *   |
