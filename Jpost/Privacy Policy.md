@@ -1,4 +1,4 @@
-  Set as Homepage Fri, Oct 12, 2012   26 Tishri, 5773  
+  Set as Homepage Sat, Oct 13, 2012   27 Tishri, 5773  
 
 *   *   Breaking News
     *   Diplomacy &. Politics
