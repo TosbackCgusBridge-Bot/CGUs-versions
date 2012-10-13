@@ -125,13 +125,12 @@ Slate **Slide Shows**
 
 Click here to load comments.
 
-*   Weigel: How Biden Rescued the Campaign Using Every Debate Trick He Knows  
-    
-*   Martha Raddatz Should Moderate Every Debate for Everything  
-    
+*   What Makes a Great Boss?
+*   _Seven Psychopaths_ Is Bracingly Weird and Wonderful
 
-*   Biden Schooled Ryan on Foreign Policy but Got One Important Fact Wrong
-*   Yglesias: The Five Most Dubious Claims in the VP Debate
+*   Why Do the Swiss Eat So Much Chocolate?  
+    
+*   The Guy Who Figured Out How Much We Love To Watch NFL Teams We Hate
 
 Discover _Slate_ With Your Friends See what your friends are reading and automatically share how you're browsing _Slate_. You control what gets published to your Facebook News Feed. Social Reading is Turn ON Turn OFF Feedback <. newer | older >. To temporarily turn off Social Reading, toggle the social reading button to OFF at the top of this box or in the toolbar areas of this page. This will allow you to see what your friends have read but won't show your reading activity on _Slate_. Always notify me when I've shared an article. LOG INTO FACEBOOK  
 
@@ -139,68 +138,67 @@ To enable Social Reading on Slate, log into...
   
 \[  Cancel |  OK  \]
 
-*   1\. At the Veep Debate, Biden Gave Ryan a Full Workout  
-    By John Dickerson | October 12, 2012
-*   2\. Biden Gave Ryan a Crash Course in Foreign Policy 101    
-    By Fred Kaplan | October 12, 2012
-*   3\. Biden Said Everything Democrats Wished Obama Would Have  
-    By David Weigel | October 12, 2012
-*   4\. Martha Raddatz for President! Or, At Least, For Permanent Moderator!  
-    By Rachael Larimore | October 12, 2012
-*   5\. Firefox 16 Pulled After Serious Security Lapse  
-    By Slate Staff | October 11, 2012
+*   1\. Why Do Republicans Talk Like Liberals In Military Debates?  
+    By William Saletan | October 12, 2012
+*   2\. How Do Creationists Calculate Earth’s Age, and Why Can’t They Agree?  
+    By Brian Palmer | October 12, 2012
+*   3\. What Makes a Great Boss?  
+    By Matthew Yglesias | October 12, 2012
+*   4\. Are You Drinking Too Much? Depends on Whether You Ask the CDC, NIAAA, or _Smashed_.  
+    By Jake Blumgart | October 12, 2012
+*   5\. Why We Bet on Lena Dunham, LeBron James, and Mitt Romney  
+    By Karla Starr | October 12, 2012
 
-*   1\. Hookup Culture 100,000 Years Ago: _Homo sapiens_ Would Mate with Absolutely Anybody  
-    By Ann Gibbons | October 11, 2012
-*   2\. What Liberals and Conservatives Are Saying About the Vice Presidential Debate on Twitter  
-    October 11, 2012
-*   3\. Groupon’s Crummy Business Model Is Finally Dead. Hooray!  
-    By Farhad Manjoo | August 14, 2012
-*   4\. A Stranded Photographer Who Survived for a Year on Penguin Steaks  
-    By Alyssa Coppelman | October 11, 2012
-*   5\. On 10/11/12, Let’s Celebrate the Subtle Joys of Festivals of Numerical Coincidence  
-    By Konstantin  Kakaes  | October 11, 2012
+*   1\. Martha Raddatz for President! Or, at Least, for Permanent Moderator!  
+    By Rachael Larimore | October 12, 2012
+*   2\. A Humongous Disembodied Eyeball Has Washed Up On a Florida Beach  
+    By Will Oremus | October 12, 2012
+*   3\. Texas Schools Are Forcing Kids To Wear RFID Chips. Is That a Privacy Invasion?  
+    By Will Oremus | October 11, 2012
+*   4\. Why Today Was a Good Day for Barack Obama  
+    By Kara Brandeisky | October 11, 2012
+*   5\. Norwegian Nobel Committee to World: EU for Thee But Not For Me  
+    By Matthew Yglesias | October 12, 2012
 
 See More Stories on THE WEEK
 
+*   The Biden-Ryan debate fact-check: Who told the biggest whoppers?
 *   13 little-known punctuation marks we should be using
-*   The vice presidential debate: 4 takeaways
-*   VP debate: Did Joe Biden win?
+*   72 years together: The couple who died holding hands
 
 See More Stories on newser
 
-*   Weird Beach Find: A Giant Eyeball
-*   Woman Gets $15 Quadrillion Phone Bill
-*   Wisconsin Republican: 'Some Girls Rape Easy'
+*   Family, Dog Reunited After 5 Years
+*   Your Next Doctor's Visit: Sitting in Your Car
+*   Fidel Castro Had Secret Nukes: Transcript
 
 See More Stories on TIME
 
-*   Biden vs. Ryan: What You Missed During the Fiery Vice Presidential Debate
-*   European Union Wins Nobel Peace Prize
-*   Behind the Story: TIME on China's Next Leader
+*   The E.U.'s Nobel Peace Prize Sows Discord -- And Laughter
+*   China's Online Corruption-Busters Tread a Fine Line
+*   Apple vs. Google: The Most Important Battle in Tech
 
 From The Root &. Foreign Policy
 
-*   Too Young to Wed
-*   Does Philly Have the Answer to Obesity?
-*   Live VP Debate Coverage From TWIB and The Root
-*   Catch Ava DuVernay's Latest Film
-*   Being Named Shenequa Doesn't Make Me Ghetto
-*   The Biden Doctrine
+*   Really, Paul Ryan? Cure Violence With Manners?
+*   Not All That It Can Be
+*   Will Black Friday Be Blue for Wal-Mart?
+*   Red Lines in the Sand
+*   Bus Driver Punches Young Female Passenger
+*   Same-Gender-Loving Black Greeks Shouldn't Surprise Us
 
 *   MORE Slate User Agreement And Privacy Policy COLUMNS
 
 *   VIEW OUR COMPLETE **Slate User Agreement And Privacy Policy** ARCHIVE
 
-*   Weigel: How Biden Rescued the Campaign Using Every Debate Trick He Knows  
+*   Affirmative Action Will Live on Even if the Supreme Court Kills It
+*   What Makes a Great Boss?
+*   _Seven Psychopaths_ Is Bracingly Weird and Wonderful
+*   _Slate_’s Gabfest on Joe Biden’s Rousing Debate Performance  
     
-*   Martha Raddatz Should Moderate Every Debate for Everything  
+*   The Guy Who Figured Out How Much We Love To Watch NFL Teams We Hate
+*   Why Do the Swiss Eat So Much Chocolate?  
     
-*   The Silly Congressional Fear That Chinese Tech Could Be Used To Sabotage the U.S.
-*   Are You Smarter Than June Thomas? Take _Slate_’s News Quiz and Find Out.  
-    
-*   Biden Schooled Ryan on Foreign Policy but Got One Important Fact Wrong
-*   Yglesias: The Five Most Dubious Claims in the VP Debate
 
 about us | contact us | User Agreement | Privacy Policy | _Slate_ on Facebook | ad choices  
 feedback | help | advertise | newsletters | mobile | make _Slate_ your homepage Slate is published by The Slate Group, a Division of the Washington Post Company  
