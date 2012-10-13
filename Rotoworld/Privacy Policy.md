@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Descalso's heroics lead Cardinals to NLCS
+*   Storen implodes in ninth, Nats drop stunner
+*   Report: K-Rod arrested for domestic violence
+*   Girardi announces Pettitte as Game 1 starter
+*   Granderson swats HR as Yankees eliminate O’s
+*   Sabathia outstanding as Yankes oust Orioles
+*   Yankees bench Alex Rodriguez for Game 5
+*   LaRoche, Nationals have discussed extension
+*   Ausmus to interview with Red Sox next week
+*   Cody Ross, Red Sox talks gain 'momentum'
 *   Tigers advance to ALCS behind Verlander's gem
 *   Hardy's double in 13th sends O's to Game 5
-*   Nationals force Game 5 on Werth's walk-off HR
-*   Scott Rolen expected to announce retirement
-*   Dusty Baker expected back with Reds in 2013
-*   Giants top Reds in Game 5, advance to NLCS
-*   A-Rod batting fifth in Game 4, no Ibanez
-*   Jeter in lineup as DH for Game 4 vs. Orioles
-*   Smith batting cleanup in Game 5 vs. Tigers
-*   Pedroia gets surgery for injured right pinky
-*   Brantley undergoes surgery for sports hernia
-*   Mariners, Felix not yet discussing extension
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Friday Rundown Oct 12
+*   Week 6 Chat Recap Oct 12
+*   Matchups: He's Heating Up Oct 12
 *   Mending Complications Oct 12
 *   Week 6 Rankings Oct 11
 *   Week 6 Target Watch: AFC Oct 11
 *   Hoping For Hernandez Oct 11
 *   Best Available NFL Free Agents Oct 11
-*   Matchup: Steelers @ Titans Oct 10
-*   Week 6 Target Watch: NFC Oct 10
-*   Don't Kill Kenny Oct 10
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Report: Mendenhall Achilles injury not severe
+*   Patriots update: No practice for TE Hernandez
+*   Redskins list Robert Griffin as questionable
+*   Harvin practices fully, probable for Redskins
+*   Titans believe Locker could play in Week 7
+*   Garcon (foot) questionable for Week 6 vs. MIN
+*   Lions refuse to provide update on Jahvid Best
+*   Packers' Finley limited, listed questionable
+*   Hakeem Nicks practices again, 'questionable'
+*   Aaron Hernandez 'could be game-time decision'
 *   CJ?K totals 114 yards in Week 6 win over PIT
 *   Big Ben throws for 363 yds, TD in Thurs. loss
-*   Mendenhall injures Achilles' against Titans
-*   RG3 on track. Skins play-calling won't change
-*   Harvin limited by hamstring injury Thursday
-*   Greg Jennings not expected to play in Week 6
-*   Peterson: 'No doubt' I will play vs. Redskins
-*   Giants 'hopeful' that Nicks will play vs. SF
-*   Jahvid Best expects concussion results Friday
-*   Patriots WR Edelman (hand) resumes practicing
-*   Ryan Mathews expected to start Monday night
-*   Chiefs rule Matt Cassel out, Quinn will start
 
 NBA PAGES
 
@@ -134,6 +134,7 @@ NBA PAGES
 
 COLUMNS
 
+*   Top 10, Busts and Sleepers Oct 12
 *   Pre-Preseason Mock Draft Oct 9
 *   Rotoworld NBA Draft Guide Oct 2
 *   Preseason Position Battles Sep 20
@@ -141,7 +142,6 @@ COLUMNS
 *   The Calm Before the Storm Sep 2
 *   July &. August NBA transactions Aug 22
 *   21 NBA Draft Targets Aug 9
-*   The Free Agent Rundown Jul 26
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   McGee starts in Friday's win over the Spurs
+*   Waiters takes over in Cavs' preseason win
+*   Irving struggles with 2-of-15 effort vs. CHI
+*   Chris Paul (thumb) expected to debut Sunday
+*   Davis (groin) out for precautionary reasons
+*   Lowry (groin) dresses, doesn't play on Friday
+*   Bass not guaranteed to start this season
+*   Brandon Roy practices in full on Thursday
+*   Nowitzki practices after having knee drained
+*   Kobe Bryant (shoulder) should play Saturday
+*   MarShon Brooks (foot) spotted in walking boot
 *   J.R. Smith scores 20 points in 28 minutes
-*   Jrue Holiday erupts in preseason opener
-*   Dwight Howard (back) out on Saturday vs. UTA
-*   James Harden out Friday w/ groin injury
-*   MarShon Brooks out w/ right foot tendinitis
-*   Amare Stoudemire out with bruised knee
-*   Dwyane Wade plays 23 minutes in win
-*   Damian Lillard shines in NBA debut
-*   Jason Richardson likely starting for Sixers
-*   Kobe Bryant (shoulder) will sit on Wednesday
-*   Andrew Bogut (ankle) iffy for season opener
-*   Steph Curry (ankle) fully active in practices
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Justin Schultz gets assist in AHL debut
+*   Mikhail Grigorenko can't be stopped in QMJHL
+*   Kings will have to wait to raise SC banner
+*   John Davidson will meet with CBJ executives
+*   K. Quincey joins fledgling Denver Cutthroats
+*   Sidney Crosby optimistic season will be saved
 *   CBA talks end with no more meetings scheduled
 *   Detroit might be hit hard by NHL lockout
 *   J. Bernier will play for Heilbronner Falken
 *   NHL wants to see new proposal from players
 *   Jean-Sebastien Dea's off to a terrific start
 *   Top prospect MacKinnon continues hot start
-*   Jussi Jokinen headed back to the States
-*   Rick DiPietro off to Germany's SC Riessensee
-*   M. Michalek healthy, may head to Czech League
-*   Taylor Hall (shoulder) isn't rushing back
-*   Alberta board ruling will come Wednesday
-*   Brett MacLean retires from pro hockey
 
 NASCAR PAGES
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
-*   Scott Riggs misses Bank of America 500 field
-*   Wise fails to qualify for Bank of America 500
-*   Nemechek not in Bank of America 500 field
-*   Cole Whitt not in Charlotte Cup field
-*   Biffle on pole at Charlotte. new track record
-*   Reed Sorenson gets last Cup slot at Charlotte
-*   Trevor Bayne top Charlotte Cup go-or-go-homer
-*   Hamlin leads first Charlotte Cup practice
-*   Stenhouse Jr. leads Nationwide Happy Hour
-*   Kevin Harvick leads first Nationwide practice
-*   Brad Keselowski HotPass on DIRECTV notes
-*   Denny Hamlin HotPass on DIRECTV notes
+*   Joey Logano makes it eight NNS wins in 2012
+*   Hamlin has best 10-laps in Cup Happy Hour
+*   Kyle Busch leads Charlotte Happy Hour
+*   T.J. Bell not in Charlotte NNS field
+*   Matt Carter misses Charlotte Nationwide show
+*   Joey Gase misses Charlotte field
+*   Morgan Shepherd does not qualify in Charlotte
+*   Elliott Sadler on pole for Dollar General 300
+*   Stewart has best 10-laps in 2nd Cup practice
+*   Greg Biffle tops second Charlotte practice
+*   Chrissy Wallace to drive at Kansas Speedway
+*   Stewart instead of Harvick on DIRECTV 798
 
 GOLF PAGES
 
@@ -285,6 +285,8 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Dunlap, 49, cards career low in 202nd start
+*   Mallinger bogey-free. alone atop the Frys.com
 *   O'Hern steals the lead. matches course record
 *   Fowler shelved indefinitely with 'back issue'
 *   More details emerge on Levin. back at Sony
@@ -295,8 +297,6 @@ FANTASY GOLF NEWS
 *   Ryan Moore wins at home for second TOUR title
 *   Lingmerth claims Neediest Kids. secures card
 *   Grace goes wire-to-wire at the Dunhill Links
-*   de Jonge one of three atop JT Shriners Open
-*   Late birdie binge nabs Blixt share of JT lead
 
 NFL DRAFT PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Week Seven Matchup Preview Oct 12
 *   The Human Genome Oct 10
 *   Banks-y, Cover Artist Oct 9
 *   Prospect Snapshots: Weeks 5-6 Oct 8
@@ -318,7 +319,6 @@ COLUMNS
 *   Week Six Matchup Preview Oct 5
 *   Under Pressure Oct 3
 *   Week Five Matchup Preview Sep 28
-*   Manuel or Automatic? Sep 26
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Moseley will start over Frazier for Auburn
+*   Kiper: Trojans' Woods fifth best junior WR
+*   Oregon starting DT Remington charged w/ DUI
+*   Noles will ride with Thompson as starting RB
+*   Vols coach hints that McCullers is too nice
+*   Tigers T Vadal Alexander expected to start?
+*   Kiper: Aggies DE Moore 18th overall prospect
+*   Devils DT Sutton registers 2 sacks vs Buffs
 *   Kiper: Barkley No. 2 on updated Big Board
 *   LSU T Alex Hurst may have quit the team
 *   Mannion undergoes successful knee surgery
 *   Weisman has 506 rush yds, 7 TDs in 3 games
-*   Noles HC Fisher admits poor play versus blitz
-*   Coaches 'pushing hard' for LB Jenkins to play
-*   Sooners WR Saunders now eligible, to play Sat
-*   Auburn yet to name starting QB vs Ole Miss
-*   Kiper: UCLA's Fauria is the top senior TE
-*   Gholston may move to NT in nickel package
-*   Razorbacks DE Wright out for year (shoulder)
-*   Stanford top WR Montgomery doubtful vs ND
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   MLB:Tigers advance to ALCS behind Verlander's gem
-*   MLB:Hardy's double in 13th sends O's to Game 5
-*   NFL:Big Ben throws for 363 yds, TD in Thurs. loss
-*   NFL:Mendenhall injures Achilles' against Titans
-*   NAS:Biffle on pole at Charlotte. new track record
-*   MLB:Nationals force Game 5 on Werth's walk-off HR
-*   MLB:Scott Rolen expected to announce retirement
-*   NHL:CBA talks end with no more meetings scheduled
-*   NFL:Greg Jennings not expected to play in Week 6
-*   MLB:Giants top Reds in Game 5, advance to NLCS
-*   NFL:RG3 on track. Skins play-calling won't change
-*   NFL:Harvin limited by hamstring injury Thursday
+*   MLB:Descalso's heroics lead Cardinals to NLCS
+*   MLB:Storen implodes in ninth, Nats drop stunner
+*   NAS:Joey Logano makes it eight NNS wins in 2012
+*   MLB:Report: K-Rod arrested for domestic violence
+*   NFL:Report: Mendenhall Achilles injury not severe
+*   MLB:Sabathia outstanding as Yankes oust Orioles
+*   NAS:Elliott Sadler on pole for Dollar General 300
+*   NFL:Patriots update: No practice for TE Hernandez
+*   NFL:Harvin practices fully, probable for Redskins
+*   NFL:Redskins list Robert Griffin as questionable
+*   NFL:Garcon (foot) questionable for Week 6 vs. MIN
+*   NBA:McGee starts in Friday's win over the Spurs
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1W. PowellNFL (10325)
-*   2J. BestNFL (9623)
-*   3A. GreenNFL (9018)
-*   4D. DeCastroNFL (8081)
-*   5C. BensonNFL (7726)
+*   1W. PowellNFL (11158)
+*   2J. BestNFL (10377)
+*   3A. GreenNFL (9500)
+*   4D. DeCastroNFL (8124)
+*   5J. StarksNFL (7900)
 
-*   6J. StarksNFL (7565)
-*   7K. BrittNFL (7198)
-*   8L. Stephens-HowlingNFL (6766)
-*   9H. NicksNFL (6571)
-*   10R. Griffin IIINFL (6270)
+*   6C. BensonNFL (7587)
+*   7L. Stephens-HowlingNFL (7273)
+*   8K. BrittNFL (7010)
+*   9H. NicksNFL (6989)
+*   10R. Griffin IIINFL (6849)
 
   
 Video Center
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines Mending Complications  
-Oct 12 Adam Levitan discusses Rashard Mendenhall's setback and all of Thursday's news in the Dose.  
+  Headlines Friday Rundown  
+Oct 12 Frank DuPont takes his weekly trip through the stats to talk about this week's matchups and potential trade targets.  
   
 More NFL Columns
 
+*   »Friday Rundown Oct 12
+*   »Week 6 Chat Recap Oct 12
+*   »Matchups: He's Heating Up Oct 12
 *   »Mending Complications Oct 12
 *   »Week 6 Rankings Oct 11
 *   »Week 6 Target Watch: AFC Oct 11
 *   »Hoping For Hernandez Oct 11
 *   »Best Available NFL Free Agents Oct 11
-*   »Matchup: Steelers @ Titans Oct 10
-*   »Week 6 Target Watch: NFC Oct 10
-*   »Don't Kill Kenny Oct 10
 
 NFL Headlines
 
+*   »Report: Mendenhall Achilles injury not severe
+*   »Patriots update: No practice for TE Hernandez
+*   »Redskins list Robert Griffin as questionable
+*   »Harvin practices fully, probable for Redskins
+*   »Titans believe Locker could play in Week 7
+*   »Garcon (foot) questionable for Week 6 vs. MIN
+*   »Lions refuse to provide update on Jahvid Best
+*   »Packers' Finley limited, listed questionable
+*   »Hakeem Nicks practices again, 'questionable'
+*   »Aaron Hernandez 'could be game-time decision'
 *   »CJ?K totals 114 yards in Week 6 win over PIT
 *   »Big Ben throws for 363 yds, TD in Thurs. loss
-*   »Mendenhall injures Achilles' against Titans
-*   »RG3 on track. Skins play-calling won't change
-*   »Harvin limited by hamstring injury Thursday
-*   »Greg Jennings not expected to play in Week 6
-*   »Peterson: 'No doubt' I will play vs. Redskins
-*   »Giants 'hopeful' that Nicks will play vs. SF
-*   »Jahvid Best expects concussion results Friday
-*   »Patriots WR Edelman (hand) resumes practicing
-*   »Ryan Mathews expected to start Monday night
-*   »Chiefs rule Matt Cassel out, Quinn will start
 
 NFL Links
 
