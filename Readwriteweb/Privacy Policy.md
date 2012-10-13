@@ -92,9 +92,9 @@ ReadWrite Cloud
 
 ReadWrite Biz
 
+*   Want Microsoft Office For Christmas? Sorry, Only Developers Likely To Get It
 *   All Eyes Turn To Boomers And How They Use The Internet
 *   SQL Injection Hacker Attacks Are On The Rise. Here's How To Defend Your Servers
-*   Fake Reviews Shadow Brands Selling Online
 *   More +
 
 ReadWrite Hack
@@ -106,16 +106,16 @@ ReadWrite Hack
 
 ReadWrite Enterprise
 
+*   Facebook-SEC Filings Prove Tough Regulators Are Good For Tech
 *   What's The Best Time Of Day To Send Emails? \[Infographic\]
 *   Why It's Finally Time To Break Up Hewlett-Packard
-*   What Huawei And ZTE Could Actually Do To Your Company
 *   More +
 
 ReadWrite Mobile
 
+*   What Is The Real Impact Of Sprint's Japanese Lifeline?
 *   What If Your Smartphone Could Read Your Mind? Kimera Is Working On It
 *   If Connecting The World Is Not Enough, Aim For The Wireless Hall Of Fame
-*   How U.S.-China Tensions Could Affect Your Next Smartphone
 *   More +
 
 *   About
