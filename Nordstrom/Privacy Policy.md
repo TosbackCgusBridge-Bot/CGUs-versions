@@ -43,7 +43,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Tops
     *   Coats &. Jackets
     *   Activewear
-    *   Denim
+    *   Jeans
     *   Pants &. Shorts
     *   Skirts
     *   Work Clothing &. Suiting
@@ -73,8 +73,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Clothing
     *   Handbags
     *   Shoes
-    *   Jewelry
-    *   Accessories
+    *   Jewelry &. Accessories
     
     *   Accessories
     *   Belts
@@ -248,6 +247,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Face
     *   Eyes
     *   Lips
+    *   Nails
 *   Kids
     
     *   All Kids'
@@ -515,6 +515,5 @@ Want to get your hands on the latest looks? With **Nordstrom's iPad app**, fashi
 
 *   Customize your dashboard with the departments you shop the most.
 *   Get product information and read customer reviews.
-*   Add items you love to your Dressing Room and build outfits around them.
 
 DOWNLOAD OUR FREE APP Not now, ask me again later No thanks
