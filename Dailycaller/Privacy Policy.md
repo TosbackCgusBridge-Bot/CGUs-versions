@@ -1,4 +1,4 @@
-**TRENDING:** JOE BIDEN | MITT ROMNEY | LANCE ARMSTRONG | HOWARD BERMAN | SYRIA | PAUL RYAN
+**TRENDING:** JOE BIDEN | MITT ROMNEY | PAUL RYAN | HOWARD BERMAN | NOBEL PEACE PRIZE | SYRIA
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  Ryan won debate, but Biden also succeeded, polls and analysts say Krauthammer: Biden's 'disrespectful,' 'hugely condescending' demeanor undid potential debate win ABC News scrambles to downplay Obama's attendance at VP debate moderator's wedding    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  Hume: Biden looked like 'cranky old man, to some extent, debating a polite young man' \[VIDEO\] Clinton-Obama rift intensifies after Libya, Obama's debate performance Author Ed Klein: As Benghazi blame nears Hillary, Clintons grow furious    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-Will Joe Biden’s laughs be the new Al Gore sighs? 12:16 AM 10/12/2012 Who ‘won’ the vice presidential debate? There are two possible media narratives… 10:30 PM 10/11/2012 The Case for Paranoia 8:47 AM 10/11/2012 Obamacare = Part-Time Work? 3:59 PM 10/08/2012 Benghazigate might be bigger news if the president was a Republican 2:57 PM 10/11/2012 Obama’s Big Bird ad sure was dumb, says… Jon Stewart?? 11:39 AM 10/11/2012 The great many facial expressions of Joe Biden \[SLIDESHOW\] 4:28 PM 10/11/2012 Meet the one percent of American colleges and universities \[SLIDESHOW\] 6:56 PM 10/10/2012 See More Got racism? 6:58 PM 10/10/2012 MSNBC’s motto: ‘Lean racist’ 5:13 PM 10/03/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Leaders with Ginni Thomas: Scott Taylor, OPSEC 8:28 PM 10/07/2012 Former SEAL: Obama campaign has ‘exploited the military’ \[VIDEO\] 12:05 PM 10/07/2012 Sections
+Will Joe Biden’s laughs be the new Al Gore sighs? 12:16 AM 10/12/2012 Who ‘won’ the vice presidential debate? There are two possible media narratives… 10:30 PM 10/11/2012 Obama’s got drama now 4:22 PM 10/12/2012 The Case for Paranoia 8:47 AM 10/11/2012 Biden’s Benghazi claim: Is he lying, or is the Obama administration really this incompetent? 1:54 PM 10/12/2012 Caption this: Biden is nuts 11:57 AM 10/12/2012 The great many facial expressions of Joe Biden \[SLIDESHOW\] 4:28 PM 10/11/2012 Meet the one percent of American colleges and universities \[SLIDESHOW\] 6:56 PM 10/10/2012 Study: Female GOP politicians are better looking than liberal politicians \[SLIDESHOW\] 2:19 AM 10/10/2012 10 women hotter than Mila Kunis \[SLIDESHOW\] 3:20 PM 10/08/2012 See More Got racism? 6:58 PM 10/10/2012 MSNBC’s motto: ‘Lean racist’ 5:13 PM 10/03/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Leaders with Ginni Thomas: Scott Taylor, OPSEC 8:28 PM 10/07/2012 Former SEAL: Obama campaign has ‘exploited the military’ \[VIDEO\] 12:05 PM 10/07/2012 Videos Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   Biden attacks Ryan on Romney ’47 percent’ comment, Ryan counters with laugh line about Biden gaffes
-*   Ryan cites increased unemployment rate in Biden’s hometown to drive economic argument
-*   Legislative Lowdown: Time to downsize Big Bird
+*   Obama campaign pushes Planned Parenthood funding to woo women \[VIDEO\]
+*   Will South African labor problems affect metals?
+*   Ryan’s Benghazi surprise
 
 Corporate
 
