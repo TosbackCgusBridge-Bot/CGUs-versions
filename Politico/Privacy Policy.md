@@ -102,6 +102,132 @@ CHANGES TO THIS POLICY
 
 The Internet is an evolving medium. If we need to change this Privacy Policy at some point in the future, we'll post the modified Privacy Policy on this Site and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
+Popular **on POLITICO**
+
+*   Most Read
+*   Most Emailed
+*   Most Commented
+
+*   Last 12 Hours
+*   Last 24 Hours
+*   Last 2 Days
+*   Last Week
+
+Updated: 10/13/2012 8:03 AM ET
+
+1.  1 How Wall Street made Paul Ryan
+2.  2 Mitt drawing larger crowds
+3.  3 Trump talks up Biden performance
+4.  4 Shot fired at Obama Denver campaign office
+5.  5 Twitter frowns on Joe Biden's laugh
+6.  6 Letter draws focus to Mitt tax plan
+7.  7 Joltin' Joe Biden wins the bout
+8.  8 Fact-checking the VP debate
+9.  9 Report: More trouble for Jackson Jr.
+10.  10 Panera vs. Cosi
+
+Updated: 10/13/2012 8:03 AM ET
+
+1.  1 Twitter frowns on Joe Biden's laugh
+2.  2 7 takeaways from the Danville debate
+3.  3 Joltin' Joe Biden wins the bout
+4.  4 Biden, Ryan clear the bar -- barely
+5.  5 Palin: Raddatz let Biden run wild
+6.  6 Fact-checking the VP debate
+7.  7 Trump talks up Biden performance
+8.  8 Mitt drawing larger crowds
+9.  9 Is Biden the new Gore?
+10.  10 Biden vs. Biden
+
+Updated: 10/13/2012 8:03 AM ET
+
+1.  1 Twitter frowns on Joe Biden's laugh
+2.  2 Paul Ryan pics spark dumbbell debate
+3.  3 Debate Commission dismisses Raddatz-Obama connection
+4.  4 7 takeaways from the Danville debate
+5.  5 Joltin' Joe Biden wins the bout
+6.  6 5 things to watch in VP debate
+7.  7 Unions struggle to help Obama
+8.  8 Biden, Ryan clear the bar -- barely
+9.  9 Palin: Raddatz let Biden run wild
+10.  10 Fact-checking the VP debate
+
+Updated: 10/13/2012 8:03 AM ET
+
+1.  1 Twitter frowns on Joe Biden's laugh
+2.  2 Inside the campaign: The Romney rebellion
+3.  3 ICE decides not to detain Vargas
+4.  4 Debate Commission dismisses Raddatz-Obama connection
+5.  5 Glitch hits Stewart-O'Reilly debate
+6.  6 Battleground Tracking Poll: Dems less enthusiastic
+7.  7 Angst grows among Obama backers
+8.  8 Paul Ryan pics spark dumbbell debate
+9.  9 Romney hits Obama on Big Bird focus
+10.  10 Unions struggle to help Obama
+
+*   Last 12 Hours
+*   Last 24 Hours
+*   Last 2 Days
+*   Last Week
+
+Updated: 10/13/2012 8:03 AM ET
+
+1.  1 Rand Paul gets in the 2012 game
+
+Updated: 10/13/2012 8:03 AM ET
+
+1.  1 Rand Paul gets in the 2012 game
+2.  2 Letter draws focus to Mitt tax plan
+3.  3 Senate 5: Money floods Kaine-Allen
+4.  4 Panetta: Cybersecurity action needed
+5.  5 How Wall Street made Paul Ryan
+6.  6 Clinton defends State on Benghazi
+7.  7 Biden's Medicare-Medicaid mix-up
+8.  8 Debating with the mute button on
+9.  9 Report: Secret Service agent arrested
+10.  10 Panera vs. Cosi
+
+Updated: 10/13/2012 8:03 AM ET
+
+1.  1 Rand Paul gets in the 2012 game
+2.  2 Letter draws focus to Mitt tax plan
+3.  3 Senate 5: Money floods Kaine-Allen
+4.  4 Panetta: Cybersecurity action needed
+5.  5 How Wall Street made Paul Ryan
+6.  6 Clinton defends State on Benghazi
+7.  7 Biden's Medicare-Medicaid mix-up
+8.  8 Debating with the mute button on
+9.  9 Report: Secret Service agent arrested
+10.  10 Panera vs. Cosi
+
+Updated: 10/13/2012 8:03 AM ET
+
+1.  1 Rand Paul gets in the 2012 game
+2.  2 Letter draws focus to Mitt tax plan
+3.  3 Senate 5: Money floods Kaine-Allen
+4.  4 Panetta: Cybersecurity action needed
+5.  5 How Wall Street made Paul Ryan
+6.  6 Clinton defends State on Benghazi
+7.  7 Biden's Medicare-Medicaid mix-up
+8.  8 Debating with the mute button on
+9.  9 Report: Secret Service agent arrested
+10.  10 Panera vs. Cosi
+
+Showing Last 7 Days
+
+Updated: 10/13/2012 8:03 AM ET
+
+1.  1 7 takeaways from the Danville debate
+2.  2 Joltin' Joe Biden wins the bout
+3.  3 Twitter frowns on Joe Biden's laugh
+4.  4 Biden goes after Ryan in VP debate
+5.  5 5 things to watch in VP debate
+6.  6 Angst grows among Obama backers
+7.  7 Inside the campaign: The Romney rebellion
+8.  8 A veep debate that could really matter
+9.  9 Mitt: Obama has made U.S. less safe
+10.  10 Obama moves to lock in Latino vote
+
 News
 
 *   POLITICO Home
