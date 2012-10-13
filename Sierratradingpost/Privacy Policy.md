@@ -358,7 +358,7 @@ We cannot ship certain materials to California and outside the U.S. including: E
 
 Exclusive Email Only Specials!
 
-Copyright 2012, Sierra Trading Post, Inc. All rights reserved. Customers have saved a total of $107,432.00 today! That's an average savings of 64%! Get $10 for each friend you refer and Give them a $10 gift!
+Copyright 2012, Sierra Trading Post, Inc. All rights reserved. Customers have saved a total of $83,874.00 today! That's an average savings of 63%! Get $10 for each friend you refer and Give them a $10 gift!
 
 *   1.800.713.4534
 *   Live Chat
