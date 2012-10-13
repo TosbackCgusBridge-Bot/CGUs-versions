@@ -8,6 +8,7 @@ Store Locator
     
     *   Boss's Day
     *   Sweetest Day
+    *   Veteran's Day
     *   Christmas
     *   Wedding
     *   Anniversary
@@ -15,8 +16,8 @@ Store Locator
     *   New Baby/Baby Shower
     *   Birthday for Him
     *   Birthday for Her
-    *   Housewarming
     
+    *   Housewarming
     *   New Job
     *   Performance Recognition
     *   Service &. Retirement
@@ -43,22 +44,18 @@ Store Locator
     *   Frames &. Albums
     *   Photo Gifts
     *   Clocks
+    *   Blankets &. Pillows
     *   Sports Gifts
     *   Military Gifts
-    *   Office Gifts
     
-    *   Blankets &. Pillows
-    *   Exclusive Online Gifts
+    *   Office Gifts
     *   Awards &. Plaques
     *   Writing &. Padfolios
-    *   Padfolios &. Journals
-    *   Pens and Pencils
-    *   Executive Gifts
-    *   Tech Gifts &. Gadgets
-    *   Paperweights &. Bookmarks
     *   Stationery
-    
+    *   Tech Gifts &. Gadgets
     *   New Arrivals
+    *   Exclusive Online Gifts
+    *   Executive Gifts
     *   Top 10 Gifts
     
 
