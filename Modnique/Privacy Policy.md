@@ -44,114 +44,114 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
-    *   Ateliers Saint Germain Jewelry Made in Monaco
-    *   Belletto Studio Cosmetics Made In USA
+    *   Black Boots
+    *   Bvlgari , Cartier, Tiffany &. Co. and more rings
     *   Diane Von Furstenberg Women's Apparel
-    *   Elise Hope Handbags
+    *   Finishing touch: white gold jewelry
     *   Gemstone Silver jewelry deals
-    *   Gucci Handbags Made in Italy
-    *   Handmade in Italy: Enzo Liverino, Feludei, Koesia, Rosato and more
-    *   It's all in the details: Bows
-    *   Look of The Day
+    *   Kier+J Women's Apparel
+    *   La Class Women's Apparel
     *   Luxury handbags under $499
+    *   Michael Kors Handbags
     *   Miss Finch Women's Apparel
-    *   Missa Women's Sweaters
     *   Montereggi &. Victory Winter Outerwear Collection
+    *   On Trend: Disco Ball Bracelets and more
+    *   Stretta Women's Apparel
+    *   Valance Women's Gloves
     *   _more..._
     *   men
+    *   Men's Fragrances: Gucci, Guerlain, Boucheron and more
     *   Men's Shop: Ike Behar and Bonnie and Bill Sweaters
-    *   Men's Shop: Joseph Abboud Wallets &. Cufflinks
     *   _more..._
     *   other
-    *   Best of the Day
-    *   Best of the Day
-    *   Chaumet , Vacheron Constantin, Corum and more watches
     *   Diamond Time
-    *   Gucci Sunglasses Made In Italy
+    *   Fendi, Gucci, Versace and more designer watches
+    *   Michael Kors sunglasses
+    *   Week in Rewind
     *   _more..._
 *   apparel
     *   women
-    *   5th Avenue Women's Apparel
     *   Beauty's Love Women's Nightgowns
     *   Burberry Women's Jackets
     *   Diane Von Furstenberg Women's Apparel
-    *   Harper Women's Apparel
-    *   Jessica Taylor, Second Skin and Vice Versa
-    *   Look of The Day
+    *   Kier+J Women's Apparel
+    *   La Class Women's Apparel
     *   Miss Finch Women's Apparel
     *   Missa Women's Sweaters
     *   Montereggi &. Victory Winter Outerwear Collection
+    *   Stretta Women's Apparel
     *   _more..._
     *   men
     *   Men's Shop: Ike Behar and Bonnie and Bill Sweaters
+    *   _more..._
+    *   other
+    *   Week in Rewind
     *   _more..._
 *   Jewelry &. Watches
     *   women
     *   Affordable Jewelry
     *   Ateliers Saint Germain Jewelry Made in Monaco
+    *   Bvlgari , Cartier, Tiffany &. Co. and more rings
     *   Designer Diamonds
     *   Designer Jewelry
-    *   Details Jewelry Made in Italy
     *   Drop &. Dangle Earrings
+    *   Finishing touch: white gold jewelry
     *   Gemstone Silver jewelry deals
     *   Handmade in Italy: Enzo Liverino, Feludei, Koesia, Rosato and more
-    *   Jason Dow Jewelry
-    *   Look of The Day
-    *   One &. Only: Luxury Jewelry for Her
-    *   Precious stones: Ruby, Sapphire, Amethyst Jewelry
+    *   On Trend: Disco Ball Bracelets and more
     *   _more..._
     *   other
-    *   Chaumet , Vacheron Constantin, Corum and more watches
-    *   Designer watches under $59 for Him &. Her
     *   Diamond Time
-    *   Ladies Freshwater Pearl Ring Designed In 925 Sterling Silver
+    *   Fendi, Gucci, Versace and more designer watches
+    *   Ladies Necklace Designed In Sterling Silver
     *   Locman Watches Made In Italy
     *   Sport Watches
+    *   Week in Rewind
     *   _more..._
 *   Handbags &. Accessories
     *   women
     *   Designer Jewelry
     *   Elise Hope Handbags
     *   Gucci Handbags Made in Italy
-    *   Look of The Day
     *   Luxury handbags under $499
+    *   Michael Kors Handbags
+    *   Valance Women's Gloves
     *   _more..._
     *   men
     *   Men's Shop: Joseph Abboud Wallets &. Cufflinks
     *   _more..._
     *   other
     *   Gucci Sunglasses Made In Italy
+    *   Michael Kors sunglasses
     *   Roberto Cavalli, Prada, Jhane Barnes and more Eyewear
+    *   Week in Rewind
     *   _more..._
 *   shoes
     *   women
+    *   Black Boots
     *   It's all in the details: Bows
-    *   Miss Sixty Women's shoes
-    *   Perfect Pairs
     *   Report and R2 Women's Footwear
-    *   _more..._
-    *   men
-    *   Gourmet Men's Footwear
     *   _more..._
 *   beauty
     *   women
-    *   All About Hair
     *   Belletto Studio Cosmetics Made In USA
     *   EF Studio Brush Spectacular
     *   _more..._
     *   men
+    *   Men's Fragrances: Gucci, Guerlain, Boucheron and more
     *   _more..._
 *   men
-    *   Chaumet , Vacheron Constantin, Corum and more watches
-    *   Designer watches under $59 for Him &. Her
     *   Diamond Time
-    *   Gourmet Men's Footwear
+    *   Fendi, Gucci, Versace and more designer watches
     *   Gucci Sunglasses Made In Italy
     *   Locman Watches Made In Italy
+    *   Men's Fragrances: Gucci, Guerlain, Boucheron and more
     *   Men's Shop: Ike Behar and Bonnie and Bill Sweaters
     *   Men's Shop: Joseph Abboud Wallets &. Cufflinks
+    *   Michael Kors sunglasses
     *   Roberto Cavalli, Prada, Jhane Barnes and more Eyewear
     *   Sport Watches
+    *   Week in Rewind
     *   and many more...
 *   gifts
 *   daily deal
