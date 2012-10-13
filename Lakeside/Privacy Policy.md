@@ -808,7 +808,6 @@ Y*   Books + Media
         *   open Bath
             *   Furniture
             *   Collections
-            *   Storage
     *   open Gifts
         *   Collectibles
         *   Food Gifts
@@ -857,7 +856,6 @@ Y*   Books + Media
             *   Bakeware
             *   BBQ
     *   open Storage
-        *   Bathroom
         *   Laundry
     *   open For the Home
         *   open Furniture
@@ -866,7 +864,6 @@ Y*   Books + Media
             *   Bathroom Furniture
             *   Chairs, Benches, Stools
         *   open Storage
-            *   Bathroom
             *   Laundry
         *   Slipcovers
         *   Rugs + Mats
@@ -1377,7 +1374,7 @@ _Our Guarantee!_ If you are not completely satisfied with all or part of your or
     The Lakeside Collection?  
     2800 Lakeside Dr  
     Bannockburn, IL 60015 Returns Department  
-    The Lakeside Collection?  
+    The Lakeside Collection®  
     PO Box 94835  
     Palatine, IL 60094-4835  *   FAQs
         
@@ -1392,7 +1389,7 @@ _Our Guarantee!_ If you are not completely satisfied with all or part of your or
         
     Product Safety
     
-    The Lakeside Collection? carefully selects its products from a large number of vendors located in both the USA and abroad. Our dedication to finding you the very best in housewares, clothing, furniture, toys, holiday accents and more includes thorough product testing that strives to exceed industry standards. This helps to ensure our merchandise is both high in quality and competitively priced. Most of all, it assures us that the safety and satisfaction of our most important asset - our customers - will always be met.
+    The Lakeside Collection® carefully selects its products from a large number of vendors located in both the USA and abroad. Our dedication to finding you the very best in housewares, clothing, furniture, toys, holiday accents and more includes thorough product testing that strives to exceed industry standards. This helps to ensure our merchandise is both high in quality and competitively priced. Most of all, it assures us that the safety and satisfaction of our most important asset - our customers - will always be met.
     
      *   Career Center
         
