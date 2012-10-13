@@ -2,7 +2,7 @@ COMPLIMENTARY SHIPPING ON ALL US ORDERS
 
 See Details
 
-Log In Favorites Favorites My favorites (3) Most Loved Chloé Ankle Strap Wedge Sandal Barneys New York Search
+Log In Favorites Favorites My favorites (3) Most Loved Yves Saint Laurent Maryna 105 Pump Barneys New York Search
 
 *   New Arrivals
     *   All New Arrivals
@@ -110,7 +110,7 @@ Log In Favorites Favorites My favorites (3) Most Loved Chloé Ankle Strap Wedge 
     Lanvin Printed Python Platform _$855_ $339 _Sale_
 *   The window Insider Fashion Access Video
     
-    Care For a Free Proenza Schouler PS1 Bag? Read On…
+    Party Pics: Barneys &. Vogue Celebrate ‘The Editor’s Eye’
     
 *   Trends
     
