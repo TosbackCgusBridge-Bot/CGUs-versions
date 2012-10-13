@@ -143,9 +143,17 @@ Naples Daily News
 *   Cars
 *   Classified
 
-*   PrepZone: Football
+*   PrepZone: Battle for the Gate
     
-    Live chat begins at 7 p.m. | Preview | Battle for the Gate | Blog | Twitter | Send Us Your Fan Photos | More »
+    Scores &. Chat Archive | Titans make it 3 straight over Bears | Photo Galleries | Game Video | More »
+    
+*   PrepZone: Football Photos
+    
+    Lely vs. Gulf Coast | Your Photos: Gulf Coast Homecoming | Fort Myers vs. SFM | Share Your Photos »
+    
+*   PrepZone: Game Videos
+    
+    Gulf Coast vs. Lely | Neumann vs. Gateway Charter | Immokalee vs. Cape Coral | SFM vs. Fort Myers
     
 
 Privacy Policy
@@ -440,22 +448,22 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Arrest made in Golden Gate homicide. friend describes love-triangle gone wrong Updated 10/11/2012 at 7:56 p.m. 14 comments
-*   Brent Batten: Evaluations shed light on commissioners' ability to misrepresent facts Published 10/11/2012 at 5:00 a.m. 70 comments
-*   Election 2012: What to expect when Biden, Ryan face off in VP debate Published 10/11/2012 at 5:00 a.m. 69 comments
-*   VP debate: Biden, Ryan at each other on everything Updated 10/12/2012 at 12:06 a.m. 70 comments
-*   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 37 comments
+*   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 194 comments
+*   Security officer, formerly of East Naples, cleared of child porn charges Published 10/12/2012 at 5:15 a.m. 9 comments
+*   Prep Football: Chat, scores, videos, photos and stories from Week 7 Updated 10/12/2012 at 11:35 p.m. 0 comments
+*   Gov. Scott wants probe of 28 college presidents' salaries Published 10/12/2012 at 5:07 a.m. 36 comments
+*   Arrest made in Golden Gate homicide. friend describes love-triangle gone wrong Updated 10/11/2012 at 7:56 p.m. 30 comments
 
-Photo Galleries Catch of the Day: Oct. 11, 2012 440 compete in Marco Triathlon The Chapel Grill
+Photo Galleries Catch of the Day: Oct. 11, 2012 Editorial Cartoons: Oct. 10, 2012 Prep Football: Lely vs. Gulf Coast
 
-*   In close race, Obama and Romney both showing confidence Published 10/9/2012 at 5:36 a.m. 243 comments
+*   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 194 comments
+*   In close race, Obama and Romney both showing confidence Published 10/9/2012 at 5:36 a.m. 258 comments
+*   VP debate: Biden, Ryan at each other on everything Published 10/11/2012 at 10:14 p.m. 84 comments
+*   Election 2012: What to expect when Biden, Ryan face off in VP debate Published 10/11/2012 at 5:00 a.m. 70 comments
 *   Swing state: Jewish vote a must to Obama, an opportunity to Romney Published 10/10/2012 at 7:00 a.m. 73 comments
-*   Election 2012: What to expect when Biden, Ryan face off in VP debate Published 10/11/2012 at 5:00 a.m. 69 comments
-*   VP debate: Biden, Ryan at each other on everything Published 10/11/2012 at 10:14 p.m. 70 comments
-*   Brent Batten: Evaluations shed light on commissioners' ability to misrepresent facts Published 10/11/2012 at 5:00 a.m. 70 comments
 
-*   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 44 comments
-*   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 9 comments
+*   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
+*   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 10 comments
 *   Stan's gone but his Goodland restaurant opens for season Published 10/8/2012 at 5:00 a.m. 6 comments
 *   Teachers take on kids' nutrition with a book set in Naples Published 10/9/2012 at 4:00 a.m. 0 comments
 *   Diplomat charged with DUI after crashing into tree, claims immunity Published 10/3/2012 at 5:00 p.m. 40 comments
@@ -466,40 +474,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 70° Fair Wind: N 5mph Today 86° 70° Fri 08:00 PM Clear Temp: 80° Sat 08:00 AM Partly Sunny Temp: 71° Sat 08:00 PM Mostly Clear Temp: 79°
+Currently 70° Fair Wind: N 8mph Today 89° 70° Sat 08:00 PM Mostly Clear Temp: 82° Sun 08:00 AM Partly Sunny Showers Temp: 73° Sun 08:00 PM Mostly Cloudy Showers Temp: 82°
 
-Feels Like: 82°
+Feels Like: 84°
 
-Humidity: 61%
+Humidity: 59%
 
-Precip: 5%
+Precip: 20%
 
-Feels Like: 71°
+Feels Like: 73°
 
-Humidity: 85%
-
-Precip: 10%
-
-Feels Like: 79°
-
-Humidity: 64%
+Humidity: 84%
 
 Precip: 10%
+
+Feels Like: 86°
+
+Humidity: 69%
+
+Precip: 30%
 
 More Weather » Calendar
 
-*   Friday Oct 12
 *   Saturday Oct 13
 *   Sunday Oct 14
+*   Monday Oct 15
 *   More BROWSE Icon
-
-*   Rocky Horror Picture Show The Calusa Nature Center and Planetarium midnight
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Baby boot camp Miromar Outlets 9 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Mangrove Estuary Kayak Tour with Up A Creek Kayak Tours Waters of Rookery Bay Reserve 9 a.m.
-
-More Events »
 
 *   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
 *   Third Street South Farmers Market Third Street South 7:30 a.m.
@@ -517,10 +517,30 @@ More Events »
 
 More Events »
 
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Baby boot camp Miromar Outlets 9 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
+*   Exhibition Opening: Thy God/thy self" by Michele Guarino Naples Depot Museum 9 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
+*   Our World
+    
+    Column looks at SW Florida through eyes of Daily News photojournalists.
+    
+    Football Rivalries
+    
+    Some high school football games are played for pride and bragging rights.
+    
+    Swing State
+    
+    On Nov. 6, voters will decide whether Florida will swing Red or Blue. Learn about project »
+    
 *   Biggest Catch
     
     See photos from local anglers with their biggest catch of the day. Submit your photos.
@@ -529,21 +549,9 @@ More Events » Features
     
     Search for local farmers markets in Collier and Lee counties.
     
-    Swing State
-    
-    On Nov. 6, voters will decide whether Florida will swing Red or Blue. Learn about project »
-    
-*   Football Rivalries
-    
-    Some football games are played for pride. This Friday: Battle for the Gate.
-    
     Editorial Cartoons
     
     Check out our galleries of editorial cartoons about current events or personalities.
-    
-    Our World
-    
-    Column looks at SW Florida through eyes of Daily News photojournalists.
     
 *   Cuties of the Week
     
