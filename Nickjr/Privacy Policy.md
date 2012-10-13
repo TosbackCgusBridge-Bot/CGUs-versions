@@ -176,6 +176,10 @@ Dora's Pony Adventure Game
 
 Feed, groom, and saddle up Dora's pony for the big horse race!
 
+Make Learning Fun!
+
+Help your kids sharpen their reading, math, logic skills &. more. Play now! (AD)
+
 What's New on Nick Jr.?
 
 Find out more about NickMom and other new Nick Jr. features right here
