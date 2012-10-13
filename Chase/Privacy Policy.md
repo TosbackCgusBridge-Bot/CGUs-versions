@@ -8,7 +8,7 @@ Security Center Home >. How We Protect You >. Privacy Notice
 
 If you are a First USA cardmember, click here to see your Privacy Notice.  
 Privacy Notice Printer friendly page  
-Rev. October 2011 FACTS WHAT DOES CHASE DO WITH YOUR PERSONAL INFORMATION? Why? Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. What? The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+Rev. March 2012 FACTS WHAT DOES CHASE DO WITH YOUR PERSONAL INFORMATION? Why? Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. What? The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
 *   Social Security number and income
 *   account balances and transaction history
