@@ -42,7 +42,7 @@ AllThingsD
 
 *   View by Writer
 
-**Walt Mossberg –** A Dragon That Takes Dictation and Controls a Mac by Voice  
+**Trending –** Three Weeks In, and the iPhone 5 Is Already Dominating the Mobile Web  
 
 Follow on Twitter »Subscribe on Facebook »Like on Facebook »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
 
