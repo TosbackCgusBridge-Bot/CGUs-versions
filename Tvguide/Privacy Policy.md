@@ -73,11 +73,11 @@ What's Hot
 
 Fall TV Popularity Contest
 
-_X Factor_ Reveals a "Dragon"
+This Weekend's Football
 
-A _Bachelor_ Baby!
+_Celeb Apprentice_ All-Stars
 
-_Good Wife_ First Look
+_Once Upon a Time_ Photos
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -137,11 +137,11 @@ more popular celebrities Most Popular Movies
 
 more popular movies Top Videos
 
-1.  Arrow
-2.  Supernatural
-3.  Gossip Girl
-4.  Dexter
-5.  Watch the new cold open for Th...
+1.  Dexter
+2.  Gossip Girl
+3.  Watch the new cold open for Th...
+4.  Arrow
+5.  Supernatural
 
 more top videos
 
