@@ -11,7 +11,11 @@ Most Viewed
 
 Most Searched
 
-1.  Sorry, there are no search terms at this time
+1.  living rooms
+2.  bedrooms
+3.  kitchens
+4.  october
+5.  designer inspiration
 
 Magazine | RSS
 
@@ -25,7 +29,7 @@ Sign up for RSS feeds and start receiving the day's headlines from the topics yo
 Dering Hall
 
 » See all Events  
-Shaw Floors
+Centurion Jewelry Show
 
 » See all Events  
 
