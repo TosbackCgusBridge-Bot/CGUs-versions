@@ -287,20 +287,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** US vice-presidential debate: Joe Biden and Paul Ryan – live updates
-2.  2\. **News:** Biden lifts Democrat hopes with forceful VP debate performance
-3.  3\. **Art &. design:** Damien Hirst's new statue is a dangerous monstrosity
-4.  4\. **Sport:** Lance Armstrong case: The dope cheat, the bully and the cancer fighter
-5.  5\. **TV &. radio:** TV review: The Plane Crash
+1.  1.  **Media:** Reddit blocks Gawker in row over 'creepshot' photos
+2.  2\. **News:** The death of Osama bin Laden: how the US finally got its man
+3.  3\. **News:** Mystery Florida eyeball is probably from '10ft swordfish', experts say
+4.  4\. **Film:** Skyfall – first look review
+5.  5\. **Football:** Roy Hodgson furious at Theo Walcott injury from San Marino goalkeeper
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Politics:** Conference season: has your view of the parties changed?
-2.  **News:** US vice-presidential debate: Joe Biden and Paul Ryan – live updates
-3.  **News:** Is this the biggest UK government ever?
-4.  **News:** Nobel peace prize awarded to the European Union - live coverage
-5.  **News:** Nobel Peace prize winners - the full list
+1.  **News:** Edwina Currie
+2.  **Film:** Skyfall – first look review
+3.  **Culture:** Modern Toss
+4.  **TV &. radio:** Breaking Bad: Aaron Paul plays a drug-dealing killer and viewers can't get enough of him
+5.  **Life &. style:** Sudoku 2,317 hard
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -308,21 +308,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Eurozone crisis live: Divisions growing between IMF and eurozone over austerity
-2.  2\. Reddit blocks Gawker in row over 'creepshot' photos
-3.  3\. Talking Horses
-4.  4\. Syria accuses Turkey of lying over 'arms plane' – live updates
-5.  5\. Loaded gun and drugs found on Nelly's tour bus
+1.  1.  Doping scandal rumbles on as GreenEDGE director resigns
+2.  2\. Lord Turner: 'UK banks could have recovered with a bigger bailout'
+3.  3\. MPs may face pay cut for taking second jobs
+4.  4\. Homeland is brilliant drama. But does it present a crude image of Muslims?
+5.  5\. Space shuttle Endeavour makes final journey through streets of LA
 6.  All today's stories
 
 On the Guardian today
 
 1.  Life and style Mapping the body: the temple
-2.  World news US vice-presidential debate: Joe Biden and Paul Ryan – live updates
-3.  Sport Lance Armstrong case: The dope cheat, the bully and the cancer fighter
-4.  Art and design Damien Hirst's new statue is a dangerous monstrosity
-5.  Comment is free The gripes of Roth: US incredulity at not winning the Nobel literature prize
-6.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+2.  World news The death of Osama bin Laden: how the US finally got its man
+3.  Media Reddit blocks Gawker in row over 'creepshot' photos
+4.  Sport St Louis Cardinals 9, Washington Nationals 7 - as it happened
+5.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
 
 *   License/buy our content
 |*   Privacy policy
