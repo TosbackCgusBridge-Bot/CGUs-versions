@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (65.4 MB) Top PC Downloads 1 Diner Dash 2 Wedding Dash 4 - Ever 3 Diner Dash 2 Restaurant Rescue 4 Diner Dash: Hometown Hero 5 Wedding Dash 6 SpongeBob SquarePants Diner Dash 7 Cooking Dash 8 Diner Dash 5: BOOM 9 Wedding Dash 2: Rings Around the World 10 Dress Shop Hop » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (57.2 MB) Top PC Downloads 1 Diner Dash 2 Diner Dash 2 Restaurant Rescue 3 Wedding Dash 4 - Ever 4 Diner Dash: Hometown Hero 5 Wedding Dash 6 SpongeBob SquarePants Diner Dash 7 Cooking Dash 8 Dress Shop Hop 9 Diner Dash 5: BOOM 10 Wedding Dash 2: Rings Around the World » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -239,9 +239,9 @@ You're Leaving PlayFirst.com
 You're about to leave PlayFirst.com. The next page will open in a new tab or new window.
 
 Cancel Continue  
+Promotion  
 Download Mac game to PC? This is a Mac file. it won't install on a PC. Please continue if you plan to save this file and install it elsewhere. Or, cancel to go back and choose another format.  
   
-Promotion  
 Preparing to Download... I'm New Here I Have an Account Loading...  
 Download PC game to Mac? This is a PC file. it won't install on a Mac. Please continue if you plan to save this file and install it elsewhere. Or, cancel to go back and choose another format.  
   
@@ -249,15 +249,15 @@ Diner Dash DASH™ &. Time Mgmt Games
 
 Ditch your desk job and serve up some grub!
 
-**Play Free!** (8.8 MB) Try It Wedding Dash 4 - Ever DASH™ &. Time Mgmt Games
-
-Tackle more wedding mania than ever before!
-
-**Play Free!** (37.2 MB) Try It Diner Dash 2 Restaurant Rescue DASH™ &. Time Mgmt Games
+**Play Free!** (8.8 MB) Try It Diner Dash 2 Restaurant Rescue DASH™ &. Time Mgmt Games
 
 Sling grits, earn tips - help Flosave her friends!
 
-**Play Free!** (13.6 MB) Try It Diner Dash: Hometown Hero DASH™ &. Time Mgmt Games
+**Play Free!** (13.6 MB) Try It Wedding Dash 4 - Ever DASH™ &. Time Mgmt Games
+
+Tackle more wedding mania than ever before!
+
+**Play Free!** (37.2 MB) Try It Diner Dash: Hometown Hero DASH™ &. Time Mgmt Games
 
 Restore Flo's hometown!
 
@@ -273,7 +273,11 @@ Soak up five-star feeding fun with everyone's favorite sponge!
 
 Help Flo cook and deliver food from four DinerTown restaurants while Cookie the Chef courts culinary celebrity!
 
-**Play Free!** (23.9 MB) Try It Diner Dash 5: BOOM DASH™ &. Time Mgmt Games
+**Play Free!** (23.9 MB) Try It Dress Shop Hop DASH™ &. Time Mgmt Games
+
+Help Bobbi make cool custom clothes!
+
+**Play Free!** (15.1 MB) Try It Diner Dash 5: BOOM DASH™ &. Time Mgmt Games
 
 Rebuild Flo's Diner from scratch!
 
@@ -281,11 +285,7 @@ Rebuild Flo's Diner from scratch!
 
 Here come the brides - again!
 
-**Play Free!** (21.6 MB) Try It Dress Shop Hop DASH™ &. Time Mgmt Games
-
-Help Bobbi make cool custom clothes!
-
-**Play Free!** (15.1 MB) Try It Log In New to PlayFirst?
+**Play Free!** (21.6 MB) Try It Log In New to PlayFirst?
 
 Sign up below to create a new PlayFirst account.
 
