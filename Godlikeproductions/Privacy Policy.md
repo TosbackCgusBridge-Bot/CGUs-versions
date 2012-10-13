@@ -1,5 +1,5 @@
   
-Users Online Now: **1,738** (Who's On?) Visitors Today: **223,633** Pageviews Today: **424,777** Threads Today: **246** Posts Today: **3,136** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,452** (Who's On?) Visitors Today: **503,033** Pageviews Today: **681,511** Threads Today: **219** Posts Today: **2,792** 08:14 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,15 @@ trinity@godlikeproductions.com
   
 News
 
+*   How a man lived six months with no heart or pulse
+*   Netflix making 'Dreams' a nightmare for Obama
+*   George Clooney Calls First Amendment 'Unfortunate'
+*   Japan's TEPCO admits downplaying tsunami risk
+*   Pennsylvania Fracking Law Opens Up Drilling on College Campuses
+*   Curiosity Rover Finds Rock Type That’s Never Been Seen on Mars
+*   Trolls or criminals? Britain wrestles with social media
+*   Lawyer in Climate Science Case May Have Broken Ethics Rules
+*   Apple Patent Expands on Biometric Identification Implementations
 *   German Gov't Inadvertently Reveals Police Monitor Gmail, Skype, Facebook &. Use Snooping Malware
 *   Supreme Court Could Hear Another ObamaCare Challenge
 *   Between Facebook and Sex, Facebook Wins
@@ -128,16 +137,9 @@ News
 *   Rape victim 'shocked' when court ordered her computer records
 *   Alex Karras, NFL great and MONGO from Blazing Saddles dies at 77
 *   U.S. House hearing investigates terror attack in Libya
-*   Obama attended wedding of VP debate moderator and Husband FCC Chairman
-*   Two out of three workers are looking for new jobs
-*   New Senate Report: Counterterrorism 'Fusion' Centers Invade Innocent Americans’ Privacy and Don’t Stop Terrorism
-*   Lockheed Martin to Control Pentagon's Global Information Grid
-*   Copyright Scofflaws Beware: ISPs to Begin Monitoring Illicit File Sharing
-*   11-Year-Old Boy Makes Most Important Woolly Mammoth Discovery Of The Century
-*   Frenchman, American win Nobel for quantum physics
-*   Spies or No Spies, U.S. Companies Should Fear Huawei
-*   European nuclear power plants ill-set for disaster
 
+  
+  
   
   
   
@@ -147,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.015s (0 queries)
+Page generated in 0.017s (0 queries)
