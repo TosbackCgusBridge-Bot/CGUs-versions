@@ -6,7 +6,7 @@ Skip header
 *   Contact us
 *   Find a travel agent
 
-Skip main navigation Main menu Control Time: 1:09:12 PM Skip main navigation
+Skip main navigation Main menu Control Time: 1:11:12 PM Skip main navigation
 
 *   Home1
 *   Find &. book cruises
@@ -360,6 +360,6 @@ Country In Session (from GeoIP Sniffer) = UK
 Show AU Content setting = True  
 X\_Forwarded\_FOR = 184.106.117.173  
 User IP = 10.35.0.246  
-SessionID = f32aa1qdrnehf3ae2fakvc3k  
-RenderTime = 00:00:00.3437500  
-Page rendered at 2012-10-12T13:09:12 Back to top of page
+SessionID = bhcimt55joymtt213nabx155  
+RenderTime = 00:00:00.4687500  
+Page rendered at 2012-10-13T13:11:12 Back to top of page
