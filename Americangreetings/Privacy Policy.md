@@ -65,7 +65,7 @@ become a fan AG twitters!
     *   taylor swiftview all ecards >.
 *   Print At Home
     
-    Create and print cards from your home computer
+    Create and print cards from your home computer.
     
     *   **Holiday**
     *   boss's day
