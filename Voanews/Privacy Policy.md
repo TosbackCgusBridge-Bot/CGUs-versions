@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Biden, Ryan Clash on Foreign, Domestic Issues in Vice Presidential Debate
-*   Turkey Says Syrian Plane Contained Ammunition
+*   UN's Syria Envoy in Turkey for Talks
+*   Finance Ministers Call for Strong Measures
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
