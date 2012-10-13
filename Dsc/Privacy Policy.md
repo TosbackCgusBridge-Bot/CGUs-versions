@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Yukon MenTragic Spring 8:00PM Yukon Men: Hunt for Survival Revealed  TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Alaska: The Last FrontierFueling the Fire 8:00PM Alaska: The Last FrontierSnow, Cold and Darkness 9:00PM Alaska: The Last Frontier (Season 2)Dead of Winter TV SHOWS
 
 American Chopper
 
@@ -66,13 +66,17 @@ Yukon Men
 
 VIDEO FULL EPISODES play
 
-American Chopper
+Gold Rush
 
-Now or Never
+Revelations
 
 Yukon Men
 
-Hunt or Starve
+Logjam
+
+American Chopper
+
+Uncharted Territory
 
 MORE VIDEO
 
@@ -320,21 +324,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-Map Your City's Carbon Pollution
+House-Sized Asteroid to Buzz Earth Today
 
-'Magic Finger' Swipes Smartphone Remotely
+Clothes Hangers Clean Clothes: DNews Nugget
 
-Facebook More Tantalizing Than Sex
+Mysterious Huge Eyeball Likely Giant Squid's
 
-Cellphones Track Malaria in Kenya
+Smart Bra Detects Breast Cancer Earlier
 
-Paul Ryan's Arm Tweets on its Own: DNews Nugget
+3-D Printing Pirates Paused: DNews Nugget
 
-Answer Life's Biggest Questions: Gotta-See Video
+Dr. Auto Monitors Your Health While Driving
 
-Saturn V Also Suffered Engine Launch Anomalies
+Red Bull Stratos Dive on for Sunday? DNews Nugget
 
-Bat-like Coral Clings to Caves
+Man Who Cloned Dolly Dies: DNews Nugget
 
   facebook share0 Tweet Privacy Policy  
 
@@ -540,32 +544,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 12,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 13,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 12,  
+Oct 13,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 12,  
+Oct 13,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 12,  
+Oct 13,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 12,  
+Oct 13,  
 9:00 am  
 60 min(s)  
-**The FBI Files**  
-_Voice of Terror_  
- When Eulalio Jose Negrin is gunned down in 1979, the Cuban nation  
+**Alaska: The Last Frontier**  
+_Before the Freeze_  
+ Meet the Kilcher family, who live on a 600-acre homestead in Alas  
 **More Listings »**   Shop Discovery Store      
 
 our sites
