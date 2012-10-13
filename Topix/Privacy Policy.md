@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Mitt Romney
+Nobel Prize
 
-VPs set up Obama-Romney rematch
+EU Wins Nobel Peace Prize
 
-Iran
+Syria
 
-Iran
+Turkish prime minister slams UN Security Council over failure ...
 
 Politix
 
-Who won the vice presidential debate?
+Should Ron Paul join Gary Johnson on the libertarian ticket?
 
 *   Home
 *   Forums
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
- 
+  Ads by Glam
 
 San Antonio, TX
 
@@ -206,7 +206,7 @@ San Antonio, TX
 *   Photos
 *   Real Estate
 *   Shopping
-*   Coupons (1 new)
+*   Coupons
 *   White Pages
 *   Yellow Pages
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 112,002 • Total comments across all topics: 187,814,852
+Comments made yesterday: 102,287 • Total comments across all topics: 187,907,802
 
 Copyright ©2012 Topix LLC
 
