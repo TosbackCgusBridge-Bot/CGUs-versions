@@ -81,6 +81,18 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 
 Latest blog entries
 
+*   Isaac Mizrahi Gets in the Driver's Seat
+    
+    The designer talks up his latest collaboration with Chevy Malibu and reveals what's to come in the new season of Project Runway All Stars. 10/12/12
+    
+*   The Real Winner of Last Night's Debate? Martha Raddatz
+    
+    Last night, during a post-debate cocktail, I said it: "Martha for president." 10/12/12
+    
+*   Cuts Against Cancer
+    
+    Need a trimfor free? In celebration of breast cancer awareness month, ULTA Beautys got you covered 10/12/12
+    
 *   Five Lady Candidates to Watch: Election Countdown Edition
     
     Last month, we gave you a list of 11 female congressional candidates hitting the campaign trail this season. Now, with less than a month to election day, were checking in with some of the most fascinating candidates and closest races. 10/11/12
@@ -88,18 +100,6 @@ Latest blog entries
 *   Watch Blondie's Live YouTube Concert
     
     Give us a studio recording of "Heart of Glass" and we'll be happy. give us a live performance by Blondie, and we'll be even happier. Check out YouTube Presents October 10 at 4 p.m. EST for a concert live from the New York City Google offices. 10/09/12
-    
-*   Who Can (and Can't) Call Out Campaign Racism?
-    
-    In case you havent noticed, theres been a good amount of racial animosity underlining this election season, and its been ramping up in the past few weeks. 10/05/12
-    
-*   The Myth of Miracle Obama: What Didnt Happen During Last Nights Debate
-    
-    Last night during the debates, I found myself yelling at the television screenObama! Look us in the eye! Call him out on his lies! Finish your goddamn sentence! At least fact-check him on Medicare! 10/04/12
-    
-*   Move Like Madonna
-    
-    Get a taste of Madonna's gym, Hard Candy Fitness, from its new DVD, Addicted to Sweat. Nicole Winhoffer, Madge's trainer, shares some moves. 10/03/12
     
 *   See all blogs
 
