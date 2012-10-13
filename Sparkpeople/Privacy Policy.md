@@ -143,26 +143,28 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Paleo Nutrition Plan Resources
+*   Benefits Of Vitamin C Resources
 
   
-Stay in Touch With SparkPeople **VIDEO: 8-Minute Balancing Lower Body Band Workout**
+Stay in Touch With SparkPeople **The Best Fat-Burning Advice**
 
-This double-duty workout will strengthen your legs and help improve your balance!
+Coach Dean has created an effective fat-burning strategy that really works!
 
 Read More
 
 *   Specific Tips to get through the Weekend
 *   Weekends: The Dealbreaker
-*   Mindful baking?
-*   What's your "go to" type of workout?
 *   Need Ideas for working out at home
+*   Relationships and a Healthy Lifestyle
+*   How do you overcome your "bad food" cravings?
 
-View Demo **Lying Leg Press on Sled Machine**  
-Turn those squats upside down with the leg press. **Beef and Blue Sandwich**  
+View Demo **Lying Hamstring Curls with Ball**  
+Work your inner thighs and hamstrings at the same time. **Chili Con Carne**  
 Submitted By: **CHEF\_MEG**
 
-Forget grabbing deli sandwiches on the way home from work. You can feed a family of four gourmet, healthy roast beef sandwiches, complete with sweet caramelized onions and creamy bleu cheese dressing, for about $8. That's $2 a sandwich--just try to spend that little at a deli! Full Recipe
+Families have gone to war over chili recipes! I love a thick, meaty chili with loads of beans and vegetables. Thankfully my family agrees!  
+  
+Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
