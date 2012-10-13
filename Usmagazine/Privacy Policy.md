@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Leather-Clad Fergie »
+Hot Pics! Not-So-Mellow Yellow »
 
 Top Stories1.  Meet Tori Spelling's Baby Boy Finn! »
-2.  PIC: Khloe Kardashian Flaunts Slim Hourglass Figure in Strapless Dress »
-3.  Exclusive Demi Moore's "Not Psyched" About Ex Ashton Kutcher Dating Mila Kunis »
-4.  Britney Spears Wears Sexy Backless Dress, Parties With Jason Trawick »
-5.  Inside Reese Witherspoon's First Days With Son Tennessee James »
+2.  Paris Jackson, 14, Looks All Grown Up in One-Shoulder Dress »
+3.  Britney Spears Wears Gray Dress With Fanned Sleeves: Love It or Hate It? »
+4.  Liam Hemsworth Gets Tattoo to Match Miley Cyrus' Teddy Roosevelt Quote! »
+5.  PIC: Khloe Kardashian Flaunts Slim Hourglass Figure in Strapless Dress »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Tori's Miracle Baby
 
 Inside Us Weekly
 
-*   Style Write a Fashion Police Caption for Christina
+*   Style Paris Jackson, 14, Looks All Grown Up in One-
 *   Beauty Ricki Lake: What's in My Bag?
 *   Moms Bachelor's Jason Mesnick, Molly Malaney Expec
 *   Body Mindy Kaling: "I'd Love to Lose 15 Pounds," B  
-*   Entertainment Hayden Panettiere Has Fun Playing a "Sassy" C  
+*   Entertainment LOL! Watch Gwyneth, Cameron Rap About Chelsea  
 
 *   US WEEKLY
 *   Celebrity News
