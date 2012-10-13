@@ -1,4 +1,4 @@
-*   50% OFF DRESSES &. SUITING!  
+*   60% OFF FALL FAVORITES THIS WEEKEND ONLY!  
     Shop Now >.
 *   Save $20 On Your First Purchase of $100 Or More\*  
     Sign Up for JNY.com Emails >.
