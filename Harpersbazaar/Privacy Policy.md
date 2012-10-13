@@ -15,6 +15,10 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
+Mr. Blasberg's Best-Dressed List: October 12th, 2012
+
+Mr. Blasberg chooses the top 10 chicest looks from the week.
+
 Cozy Up: 25 Chic Sweaters for Fall
 
 Shop the best sweaters this season has to offer.
@@ -22,10 +26,6 @@ Shop the best sweaters this season has to offer.
 Street Style Trend Report: Spring 2013
 
 See the top 7 trends the ladies of fashion month embraced.
-
-Mr. Blasberg's Best-Dressed List: Paris Fashion Week Spring 2013 Edition
-
-Mr. Blasberg chooses the top 10 chicest looks from the week.
 
 Beauty &. Hair  
 
@@ -37,25 +37,25 @@ Beauty &. Hair  
 *   Beauty at Every Age
 *   Health &. Wellness
 
+The Most Anticipated Hair Trends For Spring 2013
+
+This season, there was no question that wearable looks had a major presence...
+
 Taking Your Hair to the DarkOr LightSide This Season
 
 When it comes to fall hair color trends, there is no middle ground.
 
-Saving Face
+CELEBRITY STYLE &. PARTIES   Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More!
 
-Read on for tips to looking younger in just 48 hours.
+See who was on the scene.
 
-CELEBRITY STYLE &. PARTIES   Vince and BAZAAR Toast A New Madison Avenue Store
+Vince and BAZAAR Toast A New Madison Avenue Store
 
 See pics from the dinner at the new store, hosted by Joanna Hillman.
 
 Shooting for the Stars: Chanel Fine Jewelry's 80th Anniversary
 
 See all the attendees at the anniversary for Chanel Fine Jewelry.
-
-Fashion Weeks' Finest Fetes
-
-Relive the fun from the chicest parties of fashion month.
 
 *   Red Carpet Style
 *   Cover Stories
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR Cozy Up: 25 Chic Sweaters for Fall Street Style Trend Report: Spring 2013 Mr. Blasberg's Best-Dressed List: Paris Fashion Week Spring 2013 Edition Taking Your Hair to the DarkOr LightSide This Season Saving Face Get the Look: Anthony Vaccarello Spring 2013 Vince and BAZAAR Toast A New Madison Avenue Store Shooting for the Stars: Chanel Fine Jewelry's 80th Anniversary Fashion Weeks' Finest Fetes Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR Mr. Blasberg's Best-Dressed List: October 12th, 2012 Cozy Up: 25 Chic Sweaters for Fall Street Style Trend Report: Spring 2013 The Most Anticipated Hair Trends For Spring 2013 Taking Your Hair to the DarkOr LightSide This Season Saving Face Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More! Vince and BAZAAR Toast A New Madison Avenue Store Shooting for the Stars: Chanel Fine Jewelry's 80th Anniversary Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
