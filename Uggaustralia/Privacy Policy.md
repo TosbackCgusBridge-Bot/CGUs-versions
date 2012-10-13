@@ -128,11 +128,11 @@ Fall Highlights
     Go edgy this Fall with a vintage rock vibe
     
     Rock 'N Roll >.
-*   In Pink Condition
+*   Empire State of Mind
     
-    Classics go pink in support of Breast Cancer Awareness Month.
+    NYC: The city that inspired this season’s collection.
     
-    Cozy Up For a Cure >.
+    Get Street Smart >.
 *   SHARE YOUR LOVE FOR THE CLASSIC BOOT
     
     Contribute to our global photo album of Classic fanatics.
