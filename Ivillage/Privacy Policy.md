@@ -492,7 +492,7 @@ See All Newsletters   Advertisement Clip of the Day
 *   Entertainment iVillage 5 Whoa! Check Out Jen's Mega Engagement Ring
 *   Entertainment Likes or Yikes? Yikes! Dina and Lindsay Lohan's Crazy Week Continues
 *   Global iVoices OMG! Totally Embarrassing Mammogram Stories
-*   Global Featured Longevity, Intelligence, Immunity: Which Would You Choose?
+*   Entertainment Featured Brooke Shields: Why I Vote
 
   
   
