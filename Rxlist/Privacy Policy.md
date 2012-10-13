@@ -1,7 +1,7 @@
 *   Like Us
 *   Follow Us
 
-Pill Identifier Search October 12, 2012
+Pill Identifier Search October 13, 2012
 
 *   Home
 *   Drugs A-Z
@@ -277,7 +277,7 @@ Please acknowledge your agreement I have read and agree to WebMD's Privacy Polic
 From WebMD Featured Centers
 
 *   How Well Are You Managing Your Eczema?
-*   Why Whole Grains Help You Lose Weight
+*   Top Health Tools to Help You Feel Good
 *   What's Lurking in Your Mouth?
 
 Health Solutions From Our Sponsors
@@ -290,13 +290,12 @@ Featured Topics
 
 *   Rheumatoid Arthritis
 *   Psoriasis Slideshow
-*   Ulcerative Colitis
 *   ADHD Medications
 *   Multiple Sclerosis Slideshow
 
 New &. Updated
 
-*   Cayston
+*   Cystaran
 *   Eylea
 *   Kalydeco
 *   Ortho Evra
