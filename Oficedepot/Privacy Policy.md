@@ -12,7 +12,7 @@ Loading Results... Skip to content
 *   Customer Service
 *   1.800­.GO.DEPOT (1.800.­463.3768) Close X
     
-    **Session:** 0000EdsSp0EjVyZ8EzaI1hUF0Xo  
+    **Session:** 0000I9o-eCAvAewnU74D-fkw\_Uz  
     **Clone:** 1659q38ci
     
 
@@ -23,7 +23,7 @@ Search Suggestions
   
 Weekly Ad
 
-**Add $50.00 more for FREE Delivery!\*  
+****FREE** Delivery!\*  
 **
 
 *   0 item(s): $0.00
@@ -40,7 +40,6 @@ Subtotal
 *   Checkout
 
 *   Welcome, Guest  Log in | Register
-*   Browsing 60601 Change Zip
 *   Order Tracking
 
 *   My Account
