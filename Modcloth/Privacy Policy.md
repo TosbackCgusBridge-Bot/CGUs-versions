@@ -222,9 +222,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Quote of the Day: Edna Woolman Chase on Style
-    *   Old Photographs Given New Life
-    *   Tricks of the Trade: Our Merch Stylists Share Their Bow &. Scarf Tying Tips
+    latest blog posts*   Finding Your âNisheâ: Three Eye-Catching Coats from One Lovely Label
+    *   Street Style: Pattern Play
+    *   Quote of the Day: Edna Woolman Chase on Style
     
     *   modcloth blog
     *   In Other Words
@@ -254,9 +254,9 @@ ModCloth Customer Care Hello,
     *   Affiliate Sign Up
     *   Site Feedback
 
-ModCloth Â» Help Â» Privacy Privacy
+ModCloth » Help » Privacy Privacy
 
-At ModCloth, we take your online security very seriously, and weâre committed to protecting your privacy and personal information. Weâve compiled this statement to explain how we collect, use, and secure your information. Please read on, and visit our Terms of Use for more information.
+At ModCloth, we take your online security very seriously, and we're committed to protecting your privacy and personal information. We've compiled this statement to explain how we collect, use, and secure your information. Please read on, and visit our Terms of Use for more information.
 
 1.  **Information We Collect &. How We Use It**
     
@@ -288,11 +288,11 @@ At ModCloth, we take your online security very seriously, and weâre committed t
     
     \- Other details that you may submit to us or that may be included in the information provided to us by third parties.
     
-    \- Additionally, when you select to email a friend your wishlist or tell a friend about ModCloth.com, we request their email address from you to send them a one-time email. We do not share your friendâs email information for any other purposes unless that friend creates a membership to ModCloth.com.
+    \- Additionally, when you select to email a friend your wishlist or tell a friend about ModCloth.com, we request their email address from you to send them a one-time email. We do not share your friend's email information for any other purposes unless that friend creates a membership to ModCloth.com.
     
 2.  **Information Collected Automatically**
 
-We use third-party website analytics tools (including Omniture Site Catalyst, QuantCast, and Google Analytics) that automatically collect non-personally identifiable information from your browser to our server logs whenever you interact with our Site. Such information includes, but is not limited to, IP address, pages viewed, site navigation patterns, details about the devices used to access the Internet and our Site, and geo-location tracking information if you are accessing our Site from a mobile device. It is obtained by automated means, such as cookies and web beacons. âCookiesâ are text files that are transferred to your computerâs hard drive as you navigate our Site and other sites. We use cookies to help us show advertisements on other websites likely to be more interesting to you. to compile aggregate data about site traffic and site interaction. and to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services, site experiences, and tools in the future. You may be able to adjust the preferences on your browser or device to change your deviceâs acceptance of cookies, but doing so may limit our ability to provide content tailored to you.
+We use third-party website analytics tools (including Omniture Site Catalyst, QuantCast, and Google Analytics) that automatically collect non-personally identifiable information from your browser to our server logs whenever you interact with our Site. Such information includes, but is not limited to, IP address, pages viewed, site navigation patterns, details about the devices used to access the Internet and our Site, and geo-location tracking information if you are accessing our Site from a mobile device. It is obtained by automated means, such as cookies and web beacons. "Cookies" are text files that are transferred to your computer's hard drive as you navigate our Site and other sites. We use cookies to help us show advertisements on other websites likely to be more interesting to you. to compile aggregate data about site traffic and site interaction. and to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services, site experiences, and tools in the future. You may be able to adjust the preferences on your browser or device to change your device's acceptance of cookies, but doing so may limit our ability to provide content tailored to you.
 
 We may collect and store non-personally identifiable usage information (including frequency and number of visitors to our Site). Such data is used only in aggregate form and in a manner that assures your anonymity. We may provide this anonymous, aggregate information to our partners. and our partners may additionally use such information in order to determine general usage patterns and trends in an effort to provide you with an improved online experience.
 
@@ -360,7 +360,7 @@ Any personal information or image content you voluntarily disclose online in a m
     
 *   **Your California Privacy Rights**
     
-    Under Californiaâs "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2012 will receive information regarding 2011 sharing activities).
+    Under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2012 will receive information regarding 2011 sharing activities).
     
     To obtain this information from ModCloth please send an email message to support@modcloth.com with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Not all information sharing is covered by the "Shine the Light" requirements, and only information on covered sharing will be included in our response.
     
