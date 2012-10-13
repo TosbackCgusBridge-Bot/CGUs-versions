@@ -1,6 +1,6 @@
 (skip this header)
 
-Friday Oct 12, 2012 5:06 AM PT
+Saturday Oct 13, 2012 5:06 AM PT
 
 ° (change)
 
@@ -60,10 +60,10 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Paul Ryan's beefcake photos
-*   Chocolate Lab a Dogpatch treat
-*   Hawk Hill views
-*   Drinking habits from mom
+*   Oct. 23 unveiling of iPad Mini?
+*   'The Other Dream Team'
+*   Where'd white tablecloths go?
+*   Bieber's tweet war stunt
 *   Giants playoff gear!
 
 *   Bay Area &. State
@@ -338,16 +338,25 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Aziza
+*   56th BFI London Film Festival
+*   Gwyneth Paltrow through the years
+*   San Francisco Opera's 'Moby-Dick' premiere party
+*   VP debate memes
+*   Palo Alto families earn 3rd highest median income in country
 *   Giants oust the Reds, advance to NLCS
 *   Round one of Frys.com Open
 *   A's fans
 *   International Day of the Girl Child
 *   Nation in Focus
+*   A's vs. Tigers: Game 5
+*   Jim Harbaugh
+*   Vice Presidential Debate
 *   World in Focus
+*   2012 Vice presidential debate
 *   2012 Vice presidential debate
 *   Slutty Sesame Street costumes for adults: How low will the Halloween industry go?
 *   Paul Ryan
-*   Vice Presidential Debate
 *   Day in Pictures, Oct. 11, 2012
 *   'It's Always Sunny in Philadelphia'/'The League' premiere
 *   Giants at Reds: Game 5
@@ -369,74 +378,43 @@ Ads by Yahoo! Photo Galleries
 *   Mira Mira
 *   Giants at Reds: Game 4
 *   Day in Pictures, Oct. 10, 2012
-*   2012 Almond harvest
-*   Glamour Presents 'These Girls' at Joe's Pub
-*   Behind the scenes at Dandelion Chocolate
-*   Demo of the David and Gladys Wright home postponed
-*   World in Focus
-*   Trails Forever Dinner 2012
-*   Ironman Images
-*   Day in Pictures, Oct. 9, 2012
-*   The dirtiest ballparks in America
 
-*   Most Read
-*   |
 *   Most Commented
-*   |
-*   Most Emailed
 
-1.  SF Giants oust Reds, advance to NLCS
-2.  2012 Vice presidential debate
-3.  A's vs. Tigers: Game 5
-4.  An aggressive Biden calms jittery Democrats
-5.  Posey celebrates, and deservedly so
-6.  Bargain Bites 2012
-7.  Softball-sized eyeball washes up on Florida beach
-
-1.  Buster Posey grand slam leads SF Giants to historic Division Series clinching
-2.  S.F. sheriff's job not all that secure
-3.  Biden, Ryan face challenges in debate
-4.  SF housing protesters accused of burglary
-5.  Regular lineup returns for SF Giants' decisive Game 5
-6.  TIME%u2019s Paul Ryan beefcake photo shoot
+1.  Biden-Ryan debate offers clear contrasts
+2.  Mirkarimi fight leaves deep political scars
+3.  Tragedy: Bullied Canadian teen commits suicide, saddens people everywhere
+4.  18 Oakland cops may get heavy discipline
+5.  Snout-less 'hero dog' Kabang arrives at UC Davis
+6.  Mom who glued toddler's hands: Is she a monster?
 7.  An agressive Biden calms jittery Democrats
-
-1.  SF Giants oust Reds, advance to NLCS
-2.  Safeway bets that loyalty program will pay off
-3.  Hawk Hill: People, birds flock for views
-4.  'Moby-Dick' review: A stirring triumph
-5.  Biden-Ryan debate offers clear contrasts
-6.  Prop. 37: Engineered corn study debated
-7.  Pence puts a charge into his team
 
 loading... Latest News Videos From our homepage
 
 *     
-    Michael Macor, The Chronicle / SF
+    Lance Iversen, The Chronicle / SF
     
-    Posey powers comeback
+    Giants need more pop
     
-    Grand slam was the difference as S.F. advances to the NLCS.
+    S.F. has plenty of heart, but that's not enough to win NLCS.
     
-*   Giants' historic homers
+*   Cardinals advance to play Giants
 
 *     
-    Eric Gay, Associated Press / SF
+    Anton Mari H. Lim, Courtesy Anton Lim / SF
     
-    Clear contrasts in debate
+    Snoutless 'hero dog' arrives
     
-    Biden and Ryan engage in a fiery and combative debate.
+    Kabang whose muzzle was sliced off saving two young girls comes to UC Davis in milestone effort.
     
-*   Best lines | Report card
 
 *     
-    John Storey, Special To The Chronicle / SF
+    Florida Fish And Wildlife Conservation Commission, Carli Segelson / AP
     
-    Bargain Bites 2012
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 3:43 p.m., Friday, October 12, 2012 Eyeing a mystery
     
-    The best places around to get terrific food at very decent prices.
+    Huge, blue eyeball that washed up on Fla. beach has created a stir in scientific community.
     
-*   Great deals, all kinds of food
 
 *   Home
 *   News
