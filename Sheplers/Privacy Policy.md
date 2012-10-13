@@ -37,6 +37,7 @@ Enter Keyword or Item #
     *   Men's Belts &. Buckles
     *   Men's Suits &. Sportcoats
     *   Men's Motorcycle Apparel
+    *   Men's Socks
     *   Men's Wallets &. Accessories
     *   Men's On Sale
     *   Men's Clearance
@@ -83,6 +84,13 @@ Enter Keyword or Item #
     *   Kids' Hats
     *   Cowboy Hats On Sale
 *   WorkWear
+    *   Work Boots
+    *   Work Shirts
+    *   Work Jeans &. Pants
+    *   Work Jackets &. Vests
+    *   Work Overalls &. Coveralls
+    *   Big &. Tall Work Wear
+    *   Flame Resistant WorkWear
 *   Decor
     *   Bedding
     *   Bath
