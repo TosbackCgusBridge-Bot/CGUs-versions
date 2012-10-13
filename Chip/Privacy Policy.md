@@ -265,18 +265,18 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 ZoneAlarm Free Antivirus + Firewall 10.2 Build 081 Deutsch Freeware
-*   2 Dishonored: Die Maske des Zorns Deutsch Kauf-App
-*   3 Critical Strike Portable - Android App 2.572 Englisch Freeware
-*   4 GO Locker - Android App 1.51 Englisch Freeware
-*   5 CHIP Online Bestenlisten - Android App 0.9.5.0 Deutsch Freeware
+*   1 Software-UpToDate 1.4.0 Deutsch Freeware
+*   2 Ophcrack Live-CD für Windows Vista und 7 v3.4.0 Englisch Freeware
+*   3 Ophcrack Live-CD für XP 3.4.0 Englisch Freeware
+*   4 Songr 1.9.58 Deutsch Freeware
+*   5 GeoGebra 4.0.41 Deutsch Freeware
 
 ...mehr
 
 **RSS-Feed** Download-Tipps der Redaktion
 
-*   1 Spiele-Vollversionen: Kostenlos zum Download
-*   2 Top 33: Die besten Herbst-Downloads
+*   1 Top 33: Die besten Herbst-Downloads
+*   2 Spiele-Vollversionen: Kostenlos zum Download
 *   3 Top 100: Die beliebtesten Downloads auf Deutsch
 *   4 Downloads des Verderbens: Vorsicht bei diesen Tools
 *   5 Tools, die kaum einer kennt: 33 geniale Gratis-Downloads
@@ -295,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
-*   Test: Apple MacBook Air 11,6 Zoll (MD224D/A) (Notebook)
-*   Alle Ebook-Reader im Test
-*   SSD Test: 100 Solid State Disks im Vergleichstest
-*   Ultrabooks &. Co. im Vergleichstest: Zwei neue Bestenlisten
-*   Firefox 16.0.1: Mozilla kämpft gegen Sicherheits-Gau
+*   Alt gegen Neu: Die Vorteile der Handy-Vorgänger One X, Note und Co.
+*   Praxis-Test: Lenovo IdeaPad Yoga 13 (Notebook)
+*   Test: LG Electronics 42LM670S (42-Zoll-LCD-TV)
+*   Test: Asus Zenbook UX32VD-R4002V (Notebook)
+*   Test: Acer Iconia Tab A700 (Tablet-PC)
 
 ...mehr
 
@@ -312,7 +312,7 @@ Sponsored Links
 **RSS-Feed** Die beliebtesten Produkte
 
 *   Samsung Galaxy S3 GT-I9300 16GB  
-    ab 469,90 €
+    ab 465,00 €
     
     *   Test
 *   Samsung Galaxy S2 i9100  
@@ -340,11 +340,11 @@ Alle CHIP Online Feeds im Überblick
 
 Meistgelesene Themen
 
-*   kann facebook nicht mehr öffnen - hilfeeeeeeeee!!!
-*   Tastatur umstellen Englisch/Deutsch
+*   S3 mini mikrig
 *   Facebook knacken leicht gemacht...
-*   Suche Smartphone bis 300
-*   Erste Hilfe bei Infektionen (Viren, Würmer, ...)
+*   Samsung SSDs gewinnen und alten Rechner neu lieben lernen
+*   GVU 2.07 virus entfernen
+*   Tastatur umstellen Englisch/Deutsch
 
 ...mehr
 
@@ -363,9 +363,9 @@ Alle CHIP Online Feeds im Überblick
     
 *   2 Die 100 beliebtesten deutschsprachigen Freeware-Tools  
     
-*   3 20 Media-Markt-Angebote und 20 bessere Alternativen  
+*   3 Playboy - Playmate des Jahres  
     
-*   4 Playboy - Playmate des Jahres  
+*   4 20 Media-Markt-Angebote und 20 bessere Alternativen  
     
 *   5 Der Software Pranger - Diese 50 Tools nerven richtig  
     
@@ -380,9 +380,9 @@ Alle CHIP Online Feeds im Überblick
 
 *   1 iPhone 5 Praxis-Test  
     
-*   2 Samsung Galaxy Note 2 - Praxis-Test  
+*   2 iPhone 5 gegen Galaxy S3  
     
-*   3 iPhone 5 gegen Galaxy S3  
+*   3 Samsung Galaxy Note 2 - Praxis-Test  
     
 *   4 Fußball Live Stream mit SopCast  
     
