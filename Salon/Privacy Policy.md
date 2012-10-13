@@ -6,14 +6,14 @@ Register Sign in Welcome, Logout
     *   Hot Topics
         *   2012 Elections
         *   Paul Ryan
-        *   Mitt Romney
         *   Joe Biden
         *   Barack Obama
-        *   2012 Presidential Debates
+        *   Mitt Romney
         *   Vice Presidential debate
+        *   2012 Presidential Debates
+        *   2012 vice presidential debate
         *   Elections 2012
-        *   Business
-        *   From the Wires
+        *   Republican Party
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -190,33 +190,33 @@ If you have any further questions or concerns about Salonâs privacy policie
 *   Corrections
 *   DMCA Policy
 
-About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service | TechTips 2012 Election
+About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service | TechTips iPhone app
 
-It's crunch time!
+Take Salon on the go â download our free app now
 
-Current Stories European Union awarded Nobel Peace Prize
+Current Stories Federal deficit tops $1 trillion for fourth straight year
 
-News. Honor comes as 27-nation bloc was struggling with its biggest crisis since it was created in the 1950s
+News. Although government spending fell and the nation showed modest economic growth, the deficit remains high
 
-That should stop the bleeding
+Does Mitt have a heart?
 
-Politics. The snap polls offer a mixed verdict, but Joe Biden achieved his most important objective in Danville
+Politics. Since the days of Washington, we've required empathy from our presidents. Romney still needs to prove he has some
 
-Pick of the week: Ben Affleck's giddy Iran hostage thriller
+Oh, the smell of it: 10 best perfume commercials ever
 
-Entertainment. Pick of the week: "Argo" is an outrageous, but mostly faithful portrait of smuggling American hostages out of Iran
+Entertainment. As Brad Pitt, Chanel No. 5's first male spokesmodel, joins the odd tradition of aroma-hawking, we revisit our faves
 
-Is my brother a pedophile?
+Wigs are my superhero costume
 
-Life. There's a family history of incest and secrets. I don't know who to talk to
+Life. As my life spun out of control, they were a force field against my own fear. But maybe it's time to stop hiding
 
 Most Read
 
-*   In "Glittering" return, Paglia lets loose Kerry Lauerman
-*   New Zealand issues Hobbit coins as legal tender Prachi Gupta
 *   Third Northwest activist jailed for staying silent Natasha Lennard
-*   Memo to Joe: Expose Ryan's radicalism Robert Reich, ROBERTREICH.org
-*   Debate fact check Alex Seitz-Wald
+*   Joe Biden gets the job done Joan Walsh
+*   Santorum: Marriage fight trumps abortion Alex Halperin
+*   Ryan's biggest debate lie Andrew Leonard
+*   That should stop the bleeding Steve Kornacki
 
 Voices
 
