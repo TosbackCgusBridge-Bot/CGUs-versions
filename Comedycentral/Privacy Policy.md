@@ -41,10 +41,10 @@ Follow Us Facebook Twitter Follow @ComedyCentral
 
 *   · reply · retweet · favorite
 
-*   10:00PM Tosh.0
-*   10:30PM Brickleberry
-*   11:00PM Mash Up
-*   11:30PM Gabriel Iglesias Presents Stand-Up
+*   11:15PM Dodgeball: A True Underdog Story
+*   01:15AM Beverly Hills Cop
+*   03:30AM Cheech &. Chong's Still Smokin'
+*   05:00AM Paid Programming
 
 Full Schedule Privacy Policy &. Your California Privacy Rights
 
