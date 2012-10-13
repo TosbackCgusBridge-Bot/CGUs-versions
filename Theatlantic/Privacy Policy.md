@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Friday, October 12, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Saturday, October 13, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Friday, October 12, 2012 Go Follow the Atlanti
 *   Magazine
 *   video
 
-Presented by Clinton: 'Where Ya Been, Boy? I Missed You!' James Fallows Telepathic Pundits: Obama Want to Lose! David A. Graham The Year of Consequential Debates Molly Ball Affirmative Action: Will We Need it in 2025? Jordan Weissmann How Romney Can Win the Middle Class Derek Thompson Why We Need More Helicopter Parents Brink Lindsey Graphic Design History: 10 Pounds, Has Handles Steven Heller Could Issa Rae Save the Black Sitcom? Jason Parham Why It's Hard to Root for the Yankees Henry Grabar Slinkachu's Globetrotting Miniature Street Art J.J. Gould 'Netizen': How a Goofy-Sounding Word Survived for 30 Years in China Brian Fung Behind Obama's Decision to Kill Bin Laden John A. Gans Jr. Artichoke + MRI + GIF = Awesomeness Rebecca J. Rosen Apple's Share Price Since the iPhone 5 Alexis Madrigal The SpaceX Dragon Capture From the ISS Megan Garber Remembering Two Fearless Historians Benjamin Schwarz Supreme Court Will 'Gut' Affirmative Action Garrett Epps When Is a Judge Like a Politician? Andrew Cohen Slap a Pink Ribbon on It Madhulika Sikka It's National Depression Screening Day Lindsay Abrams Pornography for a Better Tomorrow James Hamblin Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Projection Mapping Inked Drawings Kevin Holmes Toy Cars + iPhone = Epic Chase Scene Kasia Cieplak-Mayr von Baldegg Privacy Policy
+Presented by Mitt Romney's Frontrunner Moment Molly Ball A 17-Year-Old Jolts the Politics of 'Stop and Frisk' Conor Friedersdorf Federal Judges: In South Carolina We Trust Andrew Cohen Affirmative Action: Will We Need it in 2025? Jordan Weissmann How Romney Can Win the Middle Class Derek Thompson Why We Need More Helicopter Parents Brink Lindsey 'Seven Psychopaths' Is Crazy Good Christopher Orr The (Latest) Return of Notre Dame Football Allen Barra Can Lance Armstrong Still Be a Hero? Sports Roundtable Slinkachu's Globetrotting Miniature Street Art J.J. Gould 'Netizen': How a Goofy-Sounding Word Survived for 30 Years in China Brian Fung Behind Obama's Decision to Kill Bin Laden John A. Gans Jr. Universities Win Big on Digitization Project Rebecca J. Rosen A Newly Constructed Movie of Earthrise Alexis Madrigal Artichoke + MRI + GIF = Awesomeness Rebecca J. Rosen Gentrification Hits Black Churches Hard Alessandra Ram Remembering Two Fearless Historians Benjamin Schwarz When Is a Judge Like a Politician? Andrew Cohen An Underwater Bike for Beautiful People Lindsay Abrams Slap a Pink Ribbon on It Madhulika Sikka Sensory Deprivation: Face Yourself Kyle Dowling Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Projection Mapping Inked Drawings Kevin Holmes Toy Cars + iPhone = Epic Chase Scene Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,26 +113,27 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Just In Christopher Orr 8:08 AM ET 'Seven Psychopaths' Is Crazy Good 1350043731 Voices
+Special Report The Atlantic The Energy Puzzle  
+_The Atlantic_'s Alexis Madrigal talks with the entrepreneurs shaping our future. Read more › Just In Jeffrey Goldberg 12:31 AM ET Unbelievable 1350102693 Voices
 
-*   James Fallows Your VP Debate Summary: Ryan Did Well, Biden Did… Oct 11, 2012
-*   Robert Wright Allah = God--Video Evidence! Oct 11, 2012
-*   Alexis C. Madrigal A Newly Constructed Movie of Earthrise from the… Oct 11, 2012
-*   Garance Franke-Ruta What Joe Biden Knows About Paul Ryan's Type Oct 11, 2012
+*   Jeffrey Goldberg Unbelievable 12:31 AM ET
+*   Robert Wright The Nobel Peace Prize Should Have Gone to... Oct 12, 2012
+*   James Fallows Undecided Voters Speak! Oct 12, 2012
+*   Garance Franke-Ruta Did Biden Hang the State Department Out to Dry at… Oct 12, 2012
+*   Clive Crook Biden Beats Ryan on Points Oct 12, 2012
+*   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
+*   Alexis C. Madrigal Dark Social: We Have the Whole History of the Web… Oct 12, 2012
 *   Ta-Nehisi Coates The Black Helicopters Circling Jack Welch Oct 11, 2012
-*   Jeffrey Goldberg What Netanyahu Has Cost Israel Oct 11, 2012
 *   Derek Thompson The 1 Way Mitt Romney Can Beat President Obama on… Oct 10, 2012
-*   Clive Crook Chavez Proves Democracy Isn't Enough Oct 10, 2012
-*   Steve Clemons Mitt Romney, George Marshall, and Israel-Palestine Oct 8, 2012
 
 Correspondents
 
+*   Andrew Cohen Would You Trust These State Justices to Review Your Case?
+*   Garrett Epps Conservative Justices Prepare to 'Gut' Affirmative Action
 *   John Tierney Pity the Recommendation Writer, Bard of the 'Great Bland Majority'
-*   Peter Osnos 'Homeland' and 'No Easy Day' Make the Murky War on Terror Visible
-*   Garrett Epps The Klan Act: How an Obscure Law Could Cut Down on Bullying at the Polls
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Scenes From Antarctica Oct 10, 2012 Video How to Catch a Monster Wave: The Psychology of Big Wave Surfing Trango Towers 'Yet Again': Grizzly Bear Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Lighting Up the Night Oct 12, 2012 Video How to Catch a Monster Wave: The Psychology of Big Wave Surfing Trango Towers 'Yet Again': Grizzly Bear Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -161,35 +162,35 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Arrests Made in the Shooting of 14-Year-Old Pakistani Girl  
+*   The Man Behind the Troll Who Got Gawker Banned From Reddit  
     
-*   Syria's Army Suffers Its Highest One-Day Death Toll  
+*   New Oprah Is Just Old Oprah All Over Again  
     
-*   Yes, The European Union Won the Nobel Peace Prize  
-    
-
-Last Update: 7:45 AM
-
-*   How Far Can You Live From an Interstate Highway?  
-    
-*   Where Americans Work From Home  
-    
-*   Imagine Owning a $30K Home Tucked Into an Alley  
+*   Stanley Tucci and His Mom Cook a Steak Together, Adorably  
     
 
-Last Update: 9:29 PM Most Popular
+Last Update: 6:27 PM
+
+*   Bears Could Be Next Urban Menace  
+    
+*   Is This What an Urban 'Big Box Store' Looks Like?  
+    
+*   Global Cities That Offer the Most Opportunity  
+    
+
+Last Update: 6:16 PM Most Popular
 
 1
 
-Why the First Laptop Had Such a Hard Time Catching On (Hint: Sexism)
+Dark Social: We Have the Whole History of the Web Wrong
 
 2
 
-Joe Biden, Crazy Like a Fox?
+The 6 Studies Paul Ryan Cited Prove Mitt Romney's Tax Plan Is Impossible
 
 3
 
-The VP Debate Cinches It: Paul Ryan Is Unqualified to Step in as POTUS
+The Writing Revolution
 
 4
 
@@ -197,27 +198,27 @@ Scenes From Antarctica
 
 5
 
-Your VP Debate Summary: Ryan Did Well, Biden Did Better
+Lighting Up the Night
 
 6
 
-How a 17-Year-Old Changed the Politics of 'Stop and Frisk'
+The VP Debate Cinches It: Paul Ryan Is Unqualified to Step In as POTUS
 
 7
 
-Why Women Still Can’t Have It All
+The Great Wall of China
 
 8
 
-A Tragic Sense of Life: Remembering Two Great Historians
+Should Lance Armstrong's Hero Status Be Revoked?
 
 9
 
-The Great Wall of China
+Why Women Still Can’t Have It All
 
 10
 
-The Writing Revolution
+Gangnam Style, Dissected: The Subversive Message Within South Korea's Music Video Sensation
 
 *   Subscribe Help
 *   Faq
