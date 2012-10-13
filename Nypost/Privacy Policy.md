@@ -1,3 +1,5 @@
+39 °
+
 *   Today's Paper
 *   Newsletters
 *   Classifieds +
