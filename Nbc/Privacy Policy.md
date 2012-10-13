@@ -116,35 +116,34 @@ Universal City, CA 91608
 
 **Terms of Service >**
 
-Recent Episodes Air Date: 10/11/12 Watch Until: 11/16/12
+Recent Episodes Air Date: 10/12/12 Watch Until: 11/17/12
+
+Grimm
+
+Ep 207: The Bottle Imp
+
+After investigating a grisly murder, clues lead Nick and Hank to a seemingly unstable father who is on the run with his daughter. As they learn more about the case, they realize that the girl's father may be the least of their worries.
+
+*   Watch Episode
+*   Read Recap
+
+Air Date: 10/12/12
+
+Days of our Lives
+
+Ep 11938: Friday - 10/12/12
+
+Jennifer is arrested for the murder of Nicole's baby.
+
+*   Read Recap
+
+Air Date: 10/11/12 Watch Until: 11/16/12
 
 Up All Night
 
 Ep 204: Jerry Duty
 
 Chris engages in a passive-aggressive war with an annoying friend from his past. Rob Huebel guest stars.
-
-*   Watch Episode
-*   Read Recap
-
-Air Date: 10/11/12 Watch Until: 11/16/12
-
-30 Rock
-
-Ep 702: Governor Dunston
-
-Liz must balance her new professional success with her love life, all while helping Jack bring down NBC.
-
-*   Watch Episode
-*   Read Recap
-
-Air Date: 10/11/12 Watch Until: 10/29/12
-
-Days of our Lives
-
-Ep 11937: Thursday - 10/11/12
-
-Nicole and Jennifer get in a physical altercation
 
 *   Watch Episode
 *   Read Recap
