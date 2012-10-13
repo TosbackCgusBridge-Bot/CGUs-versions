@@ -483,9 +483,9 @@ Email: webmaster@bodybuilding.com
   
 Related Articles
 
-*   Shawn Ray's 2003 Year In Review!
-*   Bodybuilding Rants: I've Got Some Things To Say About Health, Fitness And Nutrition!
-*   IFBB 101: What's New, Who's New, &. Who's Out?
+*   The Best Of The Forums: December 11th, 2005.
+*   Coleman Ties Haney's Record With Eight Wins!
+*   Joe Weider's 2005 Olympia Weekend Press Release.
 
 *   View All Gossip And News Articles
 
