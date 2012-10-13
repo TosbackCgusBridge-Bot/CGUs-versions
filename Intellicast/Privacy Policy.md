@@ -1,4 +1,4 @@
-**Universal Time:**  Friday, 12 Oct 2012, 12:13    National News
+**Universal Time:**  Saturday, 13 Oct 2012, 12:15    National News
 
 *   Local
     *   Weather Report
