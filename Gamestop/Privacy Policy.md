@@ -1,23 +1,15 @@
-*   Find a Store
-*   Events
-*   Weekly Ad
-*   Gift Cards
-
-*   My Account
-*   Wish List
-
 Hello !  
   
 Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins** Great Offers **Deals** Our Best Sales
 
-*   Xbox 360 See All Xbox 360 » Hot Right Now
+*   Xbox 360 Xbox 360
     
     1.  Call of Duty: Black Ops II
     2.  Assassin's Creed III GameStop Edition
     3.  Halo 4
     4.  Medal of Honor: Warfighter Limited Edition
     
-    See all best sellers Xbox 360 **Games**
+    Xbox 360
     
     *   All
     *   Action
@@ -38,12 +30,12 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Strategy
     *   Strategy Guides
     
-    Xbox 360 **Deals**
+    Xbox 360
     
     *   Price Drop
     *   Under $20
     
-    Xbox 360 **Accessories**
+    Xbox 360
     
     *   Batteries &. Chargers
     *   Cables &. Adaptors
@@ -60,25 +52,25 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Storage &. Cases
     *   Video &. Sound Cards
     
-    Xbox 360 **Hardware**
+    Xbox 360
     
     *   Game Systems
     
-    Shop Xbox 360 **by ESRB**
+    Xbox 360
     *   Early Childhood
     *   Everyone
     *   Everyone 10+
     *   Teen
     *   Mature
     *   Rating Pending
-*   PS3 See All PS3 » Hot Right Now
+*   PS3 PS3
     
     1.  Assassin's Creed III GameStop Edition
     2.  Call of Duty: Black Ops II
     3.  $20 Playstation Network Card
     4.  Assassin's Creed III Limited Edition
     
-    See all best sellers PS3 **Games**
+    PS3
     
     *   All
     *   3D
@@ -99,12 +91,12 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Strategy
     *   Strategy Guides
     
-    PS3 **Deals**
+    PS3
     
     *   Price Drop
     *   Under $20
     
-    PS3 **Accessories**
+    PS3
     
     *   Batteries &. Chargers
     *   Cables &. Adaptors
@@ -119,25 +111,25 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Storage &. Cases
     *   Video &. Sound Cards
     
-    PS3 **Hardware**
+    PS3
     
     *   Game Systems
     
-    Shop PS3 **by ESRB**
+    PS3
     *   Early Childhood
     *   Everyone
     *   Everyone 10+
     *   Teen
     *   Mature
     *   Rating Pending
-*   PC See All PC » Hot Right Now
+*   PC PC
     
-    1.  XCOM: Enemy Unknown
-    2.  The Elder Scrolls V: Skyrim
+    1.  The Elder Scrolls V: Skyrim
+    2.  XCOM: Enemy Unknown
     3.  Dishonored
-    4.  SimCity 4 Deluxe Edition
+    4.  Sid Meier's Civilization V: Game of the Year Edition
     
-    See all best sellers PC **Games**
+    PC
     
     *   All
     *   Action
@@ -159,12 +151,12 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Strategy
     *   Strategy Guides
     
-    PC **Deals**
+    PC
     
     *   Price Drop
     *   Under $20
     
-    PC **Accessories**
+    PC
     
     *   Batteries &. Chargers
     *   Cables &. Adaptors
@@ -183,25 +175,25 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Storage &. Cases
     *   Video &. Sound Cards
     
-    PC **Hardware**
+    PC
     
     *   Game Systems
     
-    Shop PC **by ESRB**
+    PC
     *   Early Childhood
     *   Everyone
     *   Everyone 10+
     *   Teen
     *   Mature
     *   Rating Pending
-*   Wii U See All Wii U » Hot Right Now
+*   Wii U Wii U
     
     1.  New Super Mario Bros. U
     2.  Wii U Pro Controller - Black
     3.  Skylander's Giants Starter Pack
     4.  Disney Epic Mickey 2: The Power of Two
     
-    See all best sellers Wii U **Games**
+    Wii U
     
     *   All
     *   Action
@@ -213,7 +205,7 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Sports
     *   Strategy
     
-    Wii U **Accessories**
+    Wii U
     
     *   Batteries &. Chargers
     *   Cables &. Adaptors
@@ -224,24 +216,24 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Mounts &. Brackets
     *   Storage &. Cases
     
-    Wii U **Hardware**
+    Wii U
     
     *   Game Systems
     
-    Shop Wii U **by ESRB**
+    Wii U
     *   Everyone
     *   Everyone 10+
     *   Teen
     *   Mature
     *   Rating Pending
-*   3DS See All 3DS » Hot Right Now
+*   3DS 3DS
     
     1.  Code of Princess
     2.  Paper Mario: Sticker Star
     3.  Professor Layton and the MiracleMask
     4.  Skylanders Spyro's Adventure Pack - Darklight Crypt
     
-    See all best sellers 3DS **Games**
+    3DS
     
     *   All
     *   Action
@@ -257,15 +249,16 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Sports
     *   Strategy
     
-    3DS **Deals**
+    3DS
     
     *   Price Drop
     *   Under $20
     
-    3DS **Accessories**
+    3DS
     
     *   Batteries &. Chargers
     *   Cables &. Adaptors
+    *   Cheat Systems
     *   Controllers
     *   Faceplates &. Skins
     *   Game Systems
@@ -274,24 +267,24 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Repair &. Cleaning
     *   Storage &. Cases
     
-    3DS **Hardware**
+    3DS
     
     *   Game Systems
     
-    Shop 3DS **by ESRB**
+    3DS
     *   Everyone
     *   Everyone 10+
     *   Teen
     *   Mature
     *   Rating Pending
-*   PS Vita See All PS Vita » Hot Right Now
+*   PS Vita PS Vita
     
     1.  PlayStation Vita Wi-Fi Assassin's Creed III Liberation Bundle
     2.  Assassin's Creed III Liberation
     3.  Ragnarok Odyssey Collector's Edition
     4.  PlayStation Vita Wi-Fi Madden NFL 13 Bundle
     
-    See all best sellers PS Vita **Games**
+    PS Vita
     
     *   All
     *   Action
@@ -305,12 +298,12 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Sports
     *   Strategy
     
-    PS Vita **Deals**
+    PS Vita
     
     *   Price Drop
     *   Under $20
     
-    PS Vita **Accessories**
+    PS Vita
     
     *   Batteries &. Chargers
     *   Cables &. Adaptors
@@ -323,24 +316,20 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Speakers
     *   Storage &. Cases
     
-    PS Vita **Hardware**
+    PS Vita
     
     *   Game Systems
     
-    Shop PS Vita **by ESRB**
+    PS Vita
     *   Everyone
     *   Everyone 10+
     *   Teen
     *   Mature
     *   Rating Pending
-*   More
-    *   Wii
+*   *   Wii
     *   Nintendo DS
     *   PSP
-    *   PlayStation 2
-    *   Xbox
-    *   GameCube
-    *   Nintendo GBA
+    
 
 *   GameStop Refurbished  
     iPod®, iPhone®&. iPad® iPod®
@@ -431,7 +420,7 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     
     *   Trade My Device
 
-My Cart Pick My Home Store
+Pick My Home Store
 
 Get access to great in-store deals and local pick-up
 
@@ -630,7 +619,6 @@ Nintendo Wii U
 *   Fighting
 *   Music &. Party
 *   Pre-Owned Games
-*   Price Drop
 *   Puzzle &. Cards
 *   Role-Playing
 *   Shooter
@@ -768,7 +756,6 @@ Price Drop
 *   Nintendo 3DS
 *   Nintendo DS
 *   Nintendo Wii
-*   Nintendo Wii U
 *   PC
 *   PlayStation 2
 *   PlayStation 3
