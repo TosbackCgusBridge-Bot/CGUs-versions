@@ -1,4 +1,4 @@
-  6 Underground | Sneaker Pimps Listen Live Boston.com
+  We're Going To Be Friends | The White Stripes Listen Live Boston.com
 
 *   Home
 *   Today's Globe
