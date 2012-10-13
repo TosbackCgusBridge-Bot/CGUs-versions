@@ -177,5 +177,5 @@ TDD/TTY: 800-695-1788
 *   Read Our Blog
 
   
-© Fri Oct 12 07:11:47 CDT 2012 The Buckle Inc.  
+© Sat Oct 13 07:13:44 CDT 2012 The Buckle Inc.  
 Privacy Policy | Transparency In Supply Chains | Site Index
