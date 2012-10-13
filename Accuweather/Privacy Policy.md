@@ -235,7 +235,7 @@ Health Allergies, Dust and Dander Map Travel Today's Travel Weather Map Home &. 
 *   Weather Blogs
 *   Personalities
 
-Health Climate Trivia: Mosquitoes, West Nile Virus and the Weather Travel Staying Green: Hotels Step Up Their Sustainability Initiatives Home &. Garden How to Fell a Tree Outdoor Hunting the Wild Mushroom
+Health Climate Trivia: Mosquitoes, West Nile Virus and the Weather Travel Staying Green: Hotels Step Up Their Sustainability Initiatives Home &. Garden How to Fell a Tree Outdoor Achieving Optimum Pet Health
 
 *   Weather News
 *   Weather Video
@@ -251,7 +251,7 @@ Health Climate Trivia: Mosquitoes, West Nile Virus and the Weather Travel Stayin
 *   Weather Photos
 *   Weather Forums
 
-Facebook Twitter Google+ AccuWeather.com Follow @breakingweather Hunting &. Fishing Home Best Seafood Restaurants in the U.S. Catchbook Contest: The 50 Best Photos of September 2012 Keeping Toasty While Hunting Best Days (And Ways) to Fish
+Facebook Twitter Google+ AccuWeather.com Follow @breakingweather Hunting &. Fishing Home Fishing Wives' Tales: How True are They? Sustainable Fish Guide: The Best and Worst Fish Best Seafood Restaurants in the U.S. Catchbook Contest: The 50 Best Photos of September 2012
 
 *   AccuWeather.com Premium
 *   AccuWeather.com Professional
