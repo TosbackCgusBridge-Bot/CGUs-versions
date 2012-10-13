@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   Election 2012
+    *   Paul Ryan
     *   entertainment
     *   celebrity
-    *   Paul Ryan
-    *   Mitt Romney 2012
-    *   vice presidential...
-    *   Mitt Romney
     *   Joe Biden
-    *   Florida
-    *   meningitis
+    *   vice presidential...
+    *   strange stuff
+    *   Mitt Romney 2012
+    *   Lance Armstrong...
+    *   cybersecurity
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -119,57 +119,57 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Joe Biden Is the Happy Warrior
-*   Martha Raddatz Rocked
-*   The Manchurian Network
+*   Fisher Cut Bait
+*   Whoâs the Boss?
+*   Pulp Meta-Fiction
 
 More from Slate »
 
-*   CLOSE CALL
+*   DOG SEMEN LAWSUIT
+*   Sucker Punchin' Samaritan Saves Family
 *   Class Photo Gone Wrong
-*   WATCH: World's Fastest Stroller?
 
 More from HuffPost Weird »
 
-*   Tom Hanks Heads To Broadway For Nora Ephron Play
-*   Irelandâs First Abortion Provider Opens Next Week
-*   Do Your Part For Humanity And Take Maximâs Sex Survey!
+*   Super-Couple Jon Hamm &. Jennifer Westfeldt Might Be On The...
+*   Argentina Allows Woman Trapped In Sex Slavery To Have...
+*   Octomom Is Accused Of Sexual Abuse &. The Most Sexist...
 
 More from The Frisky »
 
-*   It's awesome if you're a single dad. As long as you're a...
-*   Supreme Court is divided over an affirmative action case...
-*   Cops stop teens from buying too much toilet paper because...
+*   Old and busted: keyboard cat. New hotness: cardboard cat....
+*   It's people. Bumble Bee is made out of people \[Sad\]
+*   School allows parent accused of sexual assault to chaperone...
 
 More from Fark »
 
-*   10 things you need to know today: October 12, 2012
-*   Did Joe Biden's bravado debate performance help Obama?
-*   VP debate: Did Joe Biden win?
+*   51.4 Million People Were Blinded by Joe Bidenâs Teeth Last...
+*   Here’s the Gawker Article Reddit Was So Afraid Of
+*   Having a Small Penis Finally Pays Off\*
 
-More from The Week »
+More from Daily Intel »
 
-*   The Best Health News Ever
-*   Laid Off? Got a Job Interview? It Might Do a Lot of Good to...
-*   Health Care Reform: How It Benefits Women
+*   The Best Natural Sources Of Vitamin D
+*   Breast Cancer Awareness: Jumping in
+*   Diagnosing and Treating Fungal Meningitis
 
 More from HuffPost Health »
 
-*   Bar Refaeli Tweets Sexy Bikini Shot, Questions Why Girls...
-*   'Jersey Shore' Race to the Altar: Will JWOWW or Snooki Wed...
-*   Kanye West Raps About Marriage in New Song 'White Dress'...
+*   'The Walking Dead' Premiere: A Timeline of Rick's Journey...
+*   'Real Housewives' Kyle Richards Gives Divorce Advice to...
+*   Fact or Fiction? Is Kristen Stewart Seeing a 'Sex...
 
 More from Celebuzz »
 
-*   Teens Shouldn't Be Allowed to Swear in Public
-*   6 Super Simple Ways Moms Can Instantly Be Happier
-*   The Secret to Getting Dad to Clean Up: Beer (VIDEO)
+*   Bad News For Women Is REALLY Bad News (But Men Can Just...
+*   Barack Obama Is a Communist, Uh, Whatever That Is (VIDEO)
+*   Octomom vs. Tanning Mom in the Boxing Ring: Who's Your...
 
 More from The Stir »
 
-*   Scrap Value
-*   Internet Ads Jump 14%, Mobile Spending Skyrockets
-*   Ad of the Day: Costa Coffee
+*   Faris Yakob Is Out at MDC, KBS+P
+*   Fast Chat: Wendy's CMO Discusses Campaign
+*   Facebook Protest in Oregon Forces Down Anti-Marijuana...
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
