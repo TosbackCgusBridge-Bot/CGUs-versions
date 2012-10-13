@@ -107,7 +107,7 @@ Create Your Account Sign In Find Your Store Buy Gift Cards Our Weekly Ad Booksto
         
         Tips*   Host a Winter Party
         *   Top Ten Tips for Crafting with Styrofoam™ Brand Foam
-        *   Stenciling with FolkArt Outdoor Paint
+        *   FolkArt® Paint FAQS
         *   View All Tips
         
         Videos
@@ -132,11 +132,11 @@ Create Your Account Sign In Find Your Store Buy Gift Cards Our Weekly Ad Booksto
         *   View All Products
         
         Tips*   Verse Ideas
-        *   Step-by-Step: Creating Cards
-        *   Wrap It Up With Ribbons
         *   Create Your Look With Jean M®
+        *   Step-by-Step: Creating Cards
         *   Jean M® Color Recipes
         *   All About Memberships - Sign Up for Free!
+        *   Wrap It Up With Ribbons
         *   View All Tips
         
         Videos
@@ -303,9 +303,9 @@ Create Your Account Sign In Find Your Store Buy Gift Cards Our Weekly Ad Booksto
         *   Off the Page
         *   View All Projects
         
-        Tips*   Learning About Aleene's® Original Tacky Glue®
+        Tips*   The ABC’s of Stamping
         *   Which Glue Do I Use?
-        *   Create The Craft Room Of Your Dreams
+        *   Xyron Tips &. Techniques
         *   View All Tips
         
         Videos
