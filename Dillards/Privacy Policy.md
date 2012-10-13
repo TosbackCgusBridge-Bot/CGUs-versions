@@ -8,7 +8,7 @@ Change Country
 *   Change Country AFO/FPO Track Order Contact Us via Email
 *   Shopping Bag  () $
 
-Dillard's Homecoming 2012 >. Change Country All Categories
+Dillard's Outdoor Shop 2012 >. Change Country All Categories
 
 *   All Categories
 *   Women
