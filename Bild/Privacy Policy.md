@@ -1,6 +1,6 @@
 Zur Hauptnavigation springen. Zum Inhalt springen.
 
-*   12.10.2012 - 14:13 Uhr
+*   13.10.2012 - 14:16 Uhr
 *   ABO
 *   RSS
 *   Online-Services
@@ -231,9 +231,13 @@ Hauptnavigation
         9.  Die Onkel Berni Show
         10.  Becker &. Heller
     5.  Fussball
-        1.  Primera Division
-        2.  Knops Kult-Liga
-        3.  Liga-Show
+        1.  Bundesliga-News
+        2.  Champions League
+        3.  Champions League
+        4.  Premier League
+        5.  Primera Division
+        6.  Knops Kult-Liga
+        7.  Liga-Show
     6.  Sport
         1.  Boxen
         2.  Motorsport
@@ -643,7 +647,7 @@ zurück Service Immobilien-Suche powered by Jetzt die passende Wunsch-Immobilie 
 *   Fotogalerien
 *   Videos
 
-1 1 Raab-Managerin Verfahren eingestellt gegen Auflage Verfahren eingestellt gegen Auflage ThemaStefan Raab 2 2 Unfall-Ursache geklärt Hoffenheim-Star Vukcevic war unterzuckert Hoffenheim-Star Vukcevic war unterzuckert Thema1899 Hoffenheim 3 3 Auf Facebook Frau motzt gegen Blitzer, Idiotentest droht! Frau motzt gegen Blitzer, Idiotentest droht! ThemaRadarfalle 4 4 War die Rolle zuviel? Sorge um Kampusch- Darstellerin Sorge um Kampusch- Darstellerin ThemaNatascha Kampusch 5 5 Komitee bestätigt Friedensnobelpreis geht an die EU Friedensnobelpreis geht an die EU ThemaFriedensnobelpreis Navigation:
+1 1 DFB-Torschützenliste Reus ist Jogis Ballermann Reus ist Jogis Ballermann ThemaNationalmannschaft 2 2 99 Jahre Haft Hände der Tochter an die Wand geklebt Hände der Tochter an die Wand geklebt ThemaVerbrechen 3 3 Möbel, Schuhe, Reisen Das sind die besten Rabatte Das sind die besten Rabatte ThemaRabatt-Aktionen 4 4 Klartext-Interview in BILD Herr Slomka, werden Sie Bayern-Trainer? Herr Slomka, werden Sie Bayern-Trainer? ThemaBundesliga 5 5 Harry Valérien gestorben Trauer um Mister Sportstudio Trauer um Mister Sportstudio ThemaTV-Moderatoren Navigation:
 
 1.  Home
 2.  News
