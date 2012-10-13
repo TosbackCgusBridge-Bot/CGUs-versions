@@ -2,7 +2,7 @@ Bravo
 
 *   Shows &. Schedules
     
-    *   The Real Housewives of Miami Stealing Karent's Energy Thursdays @ 9/8C
+    *   The Real Housewives of New Jersey A Broken Family Sundays @ 10/9C
     
     Current
     
@@ -24,12 +24,12 @@ Bravo
     *   Watch What Happens Live
     
     What's On Tonight
-    *   9:00 PM The Real Housewives of New JerseyEpisode 21: Reunion Part 1
-    *   New 10:00 PM NEW JERSEY SOCIAL.
-    *   11:00 PM WATCH WHAT HAPPENS LIVE 1-ON-1See All Shows » See Full Schedule »
+    *   9:00 PM BRAVO'S BIG PICTURENATIONAL TREASURE: BOOK OF SECRETS
+    *   11:30 PM BRAVO'S BIG PICTURENATIONAL TREASURE: BOOK OF SECRETS
+    *   2:00 AM BRAVO'S BIG PICTUREORANGE COUNTYSee All Shows » See Full Schedule »
 *   People &. Blogs
     
-    *   Read Marysol Patton's Latest Post Elsa's Dance Moves
+    *   Read The Dish's Latest Post Melissa Gorga's 'I Just Wanna' Video!
     
     Current Bravolebrities
     
@@ -63,9 +63,9 @@ Bravo
     *   Teresa Giudice
     
     Recent Blog Posts
-    *   Joanna Krupa Thomas Kramer or Obama?
-    *   Lea Black The Greencard Joke
-    *   Alexia Echevarria Karent's Over-Excited PersonalityAll People » More Blog Posts »
+    *   The Dish Patti Stanger Talks Rihanna and Chris Brown
+    *   The Dish Richard Blais' Shocking Weight Loss
+    *   The Dish Get Inside Bravo Scoop With ZeeboxAll People » More Blog Posts »
 *   Videos &. Full Episodes
     
     *   Watch What Happens Live After Show: Adventures with Pee-wee
@@ -85,7 +85,7 @@ Bravo
 *   Food
 *   Shop
 *   Games
-*   Tweet
+*   Zeebox
 *   Mobile
 
 Privacy Policy
@@ -284,33 +284,33 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   THINTERVENTION THE FINAL WEIGH-IN
+*   FLIPPING OUT SHOWDOWN IN CHI TOWN
     
     7:00 AM ET
     
-*   THE REAL HOUSEWIVES OF MIAMI BEACH SLAP
+*   FLIPPING OUT DRAWING THE LINE
     
     8:00 AM ET
     
 
-view complete schedule The Dish - Bravo's Daily News Bravo Stars Bring Healthy Fun to NYC
+view complete schedule The Dish - Bravo's Daily News Bravo IQ: Remodels and Recipes
 
-Exclusive: 'Top Chef' stars, Teresa Giudice take over Union Square.
+How closely were you watching Bravo this week?
 
-Read More Andy's Money Advice for 'Jersey Shore' Guys
+Read More Melissa Gorga's 'I Just Wanna' Video!
 
-"Diversify your dollars," Andy tells Ronnie, Pauly, Vinny and Situation.
+Watch the NJ 'Wife tear it up on the dancefloor.
 
 Read More More Dish Get insider Bravo news in our weekly update!
 
 Must be 13 or older
 
-Sponsored Headlines What's Hot RHONJ Full Episode: Reunion Part 2 RHOM Pre-Supermodel Joanna Start Ups: Silicon Valley Get a Sneak Peek at This Season RHONY Preview Reunion Part 2 Flipping Out Jeff's Boldest Looks Life After Top Chef Culinary Portfolios More Shows
+Sponsored Headlines What's Hot RHONJ Full Episode: Reunion Part 2 RHOM Pre-Supermodel Joanna RHONJ Get Reunion Extras with the Zeebox App RHONY Preview Reunion Part 2 Flipping Out Jeff's Boldest Looks Life After Top Chef Culinary Portfolios More Shows
 
+*   The Real Housewives of Atlanta
+*   Life After Top Chef
+*   The Real Housewives of Beverly Hills
 *   Flipping Out
-*   The Real Housewives of New Jersey
-*   The Real Housewives of New York City
-*   Top Chef Masters
 
 More Features
 
@@ -322,16 +322,16 @@ More Features
 
 Bravolebrities to Watch
 
-*   Amy Poliakoff
-*   Angela Pham
 *   Aviva Drescher
 *   Carole Radziwill
 *   Caroline Manzo
-*   Chantal Chadwick
 *   Jacqueline Laurita
-*   Liz Margulies
+*   Kathy Wakile
+*   Kenya Moore
 *   Melissa Gorga
+*   Porsha Stewart
 *   Teresa Giudice
+*   Yolanda H. Foster
 
 More Ways To Get Bravo
 
