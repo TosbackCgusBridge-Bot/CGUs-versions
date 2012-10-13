@@ -203,66 +203,74 @@ Registrieren Login
 9.  Skype
 10.  Steam
 
-Top-50 Themen Thema Anzahl Apple 82205 Arbeit 63557 Ausbildung 49091 Auto 89502 Beauty 67715 Beruf 76223 Beziehung 70349 Computer 527814 Computerspiele 63306 deutsch 65887 Englisch 51252 ErnÃ¤hrung 50004 essen 70152 Facebook 75481 Fernsehen 59488 Film 98227 Finanzen 58448 Freizeit 257320 FuÃball 50475 Games 121858 Geld 91966 Gesundheit 202562 Haare 80879 Handy 200188 Hilfe 145055 Internet 317519 iPhone 73490 Kinder 50257 KÃ¶rper 48851 Laptop 72015 Liebe 161657 Lied 53379 MÃ¤dchen 54846 Medizin 61843 Minecraft 66066 Musik 276321 PC 277053 PC-Spiele 47722 Problem 53892 PS3 58806 Recht 93908 Schule 230852 Software 56290 Spiele 134614 Sport 109068 Technik 118608 Tiere 63954 TV 53581 Video 51704 Youtube 81268 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 82329 Arbeit 63606 Ausbildung 49138 Auto 89575 Beauty 67785 Beruf 76275 Beziehung 70442 Computer 528228 Computerspiele 63391 deutsch 65936 Englisch 51302 ErnÃ¤hrung 50037 essen 70200 Facebook 75573 Fernsehen 59525 Film 98335 Finanzen 58467 Freizeit 257467 FuÃball 50517 Games 122036 Geld 92031 Gesundheit 202666 Haare 80940 Handy 200473 Hilfe 145247 Internet 317800 iPhone 73628 Kinder 50289 KÃ¶rper 48900 Laptop 72090 Liebe 161888 Lied 53434 MÃ¤dchen 54933 Medizin 61893 Minecraft 66179 Musik 276560 PC 277364 PC-Spiele 47792 Problem 53962 PS3 58879 Recht 93987 Schule 231009 Software 56343 Spiele 134758 Sport 109141 Technik 118725 Tiere 64007 TV 53618 Video 51753 Youtube 81388 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  n4Vseal
+1.  111iso111
     
     Punkte:
     
-    707
-    
-2.  24Jodelautomat
-    
-    Punkte:
-    
-    646
-    
-3.  sassbar
-    
-    Punkte:
-    
-    612
+    598
     
     Level:
     
-    sassbar
+    111iso111
+    
+2.  larry2010
+    
+    Punkte:
+    
+    579
+    
+    Level:
+    
+    larry2010
+    
+3.  HansVader007
+    
+    Punkte:
+    
+    547
+    
+    Level:
+    
+    HansVader007
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.223.441 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.231.760 gute Fragen_
 
-*   28 Es graut dem Morgen............................
-*   27 EntschÃ¤digung fÃ¼r seelische Qualen bei Folterdrohung - und wer zahlt fÃ¼r die Qualen der Eltern?
-*   18 Wie macht man das sich das Leben wieder leicht anfÃ¼hlt?
+*   34 hilfe, ich krieg den stÃ¤nder nicht mehr runter!
+*   26 Introvertiert? ...
+*   19 Wieso sind die BrÃ¼ste einer Frau fÃ¼r den Mann attraktiv?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Das hilft gegen Dehnungsstreifen
 *   So wÃ¼rfelt man eine Zwiebel
 
-*   HimbeertÃ¶rtchen backen
 *   Anleitung - Schiebekarte basteln
+*   HimbeertÃ¶rtchen backen
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.915.035
+1.919.114
 
 Anzahl der Fragen
 
-8.222.629
+8.230.660
 
 Anzahl der Antworten
 
-35.811.479
+35.839.797
 
 Anzahl der Tipps
 
-73.883
+73.952
 
 Anzahl der Videos
 
-4.643
+4.650
 
 Blog
 
