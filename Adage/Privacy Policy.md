@@ -25,7 +25,7 @@ Advanced Search
 *   Events
     *   Digital Conference: San FranciscoSocial Engagement / Social TV ConferenceMulti-City Happy HourMedia Mavens Luncheon 2012
 *   Webcasts
-    *   Video Screen Equality - Are All Screens Created Equal?Optimizing Your Digital Content for Global, Mobile and Social UsersTargeting the Dynamic Customer: Understanding the Next Phase of Enterprise Brand MarketingWhat Consumers Think about Data Privacy and What Advertisers Need to Do About ItHow to Optimize Your Marketing Mix to Keep Pace with the Ever-Changing Consumer
+    *   Using Social Business Technology to Improve Knowledge Sharing, Collaboration and Business ResultsVideo Screen Equality - Are All Screens Created Equal?Optimizing Your Digital Content for Global, Mobile and Social UsersTargeting the Dynamic Customer: Understanding the Next Phase of Enterprise Brand MarketingWhat Consumers Think about Data Privacy and What Advertisers Need to Do About ItHow to Optimize Your Marketing Mix to Keep Pace with the Ever-Changing Consumer
 *   Branded Content
     *   Cartoon Network Turns 20Social Media &. Marketing Guide 2012Guide to Digital Content NewFronts 2012Cause Marketing Forum Halo Awards 2012Cable Guide 2012OMD at 10In Plain Sight: The Black Consumer OpportunityAudience Buying GuideThe PR FactorThe Power of Direct MarketingVideo Advertising Channel
 *   Trend Reports
@@ -128,35 +128,35 @@ Policy Last Updated: September 2012
 
 News _from our Ad Age Partners_
 
+*   Lexus sedans pose risk for trunk entrapment, Consumer Reports says
 *   Chrysler planning 'buzz packages' for various models
 *   Hyundai aims to win conquest buyers with fresh Sante Fe
 *   Lincoln gives sneak peeks at MKZ
-*   Honda Accord campaign targets Hispanics, blacks
 
 *   How can I use email to drive video views?
 *   Fall cleaning: Dust off your email list
 *   Fraudulent social reviews, both positive and negative, on the rise
 *   Five tips to rev up your content marketing program
 
-*   The facts behind Romney's $5 trillion tax plan
-*   Biden, Ryan clash over defense spending
-*   Will China's auto boycott backfire?
-*   Postal Service increasing prices
+*   New $100 bills stolen en route to Fed facility
+*   Treasury delays report that could hit China on currency
+*   Target zeroes in on exercise fanatics
+*   Deficit helped by better economy and expiring stimulus
 
 *   Online advertising jumps 14% to record $17B
 *   Fortune Group publisher tapped to oversee Time
 *   The Children's Place tests Sam's Club partnership
 *   NYC publisher plans illustrated Ke$ha memoir
 
-*   Foreclosure slowdown pushes up home prices
-*   Jobless claims drop to lowest level since 2008
-*   Post Office to add new global 'Forever' stamps
-*   Foreclosure filings hit 5-year low in Sept.
+*   Retailers try to speed up holiday calendar
+*   Federal deficit cut, but tops $1 trillion for 4th year
+*   Consumer sentiment jumps to 5-year high
+*   JPMorgan posts record profit on home loans
 
-*   2012 Toyota Prius Plug-In
-*   2012 Toyota Prius v
-*   2007 Toyota Tundra
-*   2006 Toyota Tundra
+*   2013 FIAT 500
+*   2013 Scion FR-S
+*   2011 Lamborghini Gallardo
+*   2011 Nissan Frontier
 
 **AdAge.com**
 
