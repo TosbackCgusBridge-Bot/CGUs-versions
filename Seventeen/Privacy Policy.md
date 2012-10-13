@@ -96,7 +96,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
 
 *   college
     
-    See Pics of The Freshman 15
+    The 10 Coolest College Classes
 *   entertainment
     
     Demi's Advice For Dealing With Rumors
@@ -105,11 +105,11 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     Kendall &. Kylie Jenner Exclusives
 *   love
     
-    Love Advice in 140 Characters or Less!
+    Crush of the Week: Ryan Wieber
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**10 Winners!** Enter for a chance to win Spin Pins that create amazing updos. Type in the Freebie Phrase of the Day, found in the October Issue!
+**5 Winners!** Enter for a chance to win an ionic hair-dryer for super fast blowouts. Type in the Freebie Phrase of the Day, found in the October Issue!
 
  enter now 
 
