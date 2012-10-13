@@ -63,7 +63,6 @@
     *   my name is earl
     *   the office
     *   seinfeld
-    *   sullivan &. son
     
 *   shop
 *   mobile
