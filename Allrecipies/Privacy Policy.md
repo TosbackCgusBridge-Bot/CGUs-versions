@@ -1,6 +1,6 @@
 More searches: Ingredient | Nutrition | Advanced Email or User Name Remember Me Password (forgot?)    
 
-*   *   *   *   Making Pumpkin Pancakes See how to make delicate pumpkin pancakes. »
+*   *   *   *   Best Chocolate Chip Cookies See how to bake the perfect chocolate chip cookie. »
         
         *   *   Football Recipes The best game-day bites. »
         
