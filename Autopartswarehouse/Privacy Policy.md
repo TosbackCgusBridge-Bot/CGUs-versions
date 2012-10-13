@@ -149,20 +149,20 @@ Warehouse Prices with low price guarantee Free Shipping on orders above $50 or m
 *   **Exterior Accessories** Popular
     
     *   Bumpers &. Components
-    *   Car Covers
     *   Door Handles, Locks &. Accessories
+    *   Fog Lights, Driving Lights, Components &. Accessories
     *   Grilles &. Components
     *   Hoods &. Components
     
     *   Antitheft Devices
     *   Auto Body Styling &. Accessories
+    *   Car Covers
     *   Convertible Tops, Soft Tops &. Components
     *   Decals &. Graphics
     *   Deflectors, Bras &. Shields
     *   Door Sheet Metal
     *   Emblems
     *   Fender Flares, Vents &. Accessories
-    *   Fog Lights, Driving Lights, Components &. Accessories
     *   Gas Caps, Fuel Doors &. Components
     
     *   Grille Guards &. Bull Bars
