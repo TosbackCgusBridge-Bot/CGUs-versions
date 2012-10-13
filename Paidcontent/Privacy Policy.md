@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Reddit, freedom of speech and the dark side of community
+Dick Costolo says being the ‘second screen’ is the future of Twitter
 
 Stay on top of tech news in your inbox
 
