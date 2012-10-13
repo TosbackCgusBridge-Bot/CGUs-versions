@@ -1,7 +1,9 @@
-*   What’s Up With Consumerist?
-*   RSS
-*   Twitter
-*   Facebook
+*   About Us
+*   Company Directory
+*   No Commercial Use
+*   Privacy Policy
+*   User Agreement
+*   What’s Up With Consumerist?
 
 The Consumerist
 
@@ -124,11 +126,11 @@ Tell a friend:
 
 **Want Consumerist in your inbox?** Popular Posts
 
-*   Camaro Owner Claims He Recorded Mechanics Joy Riding In His Car Then Blaming Him For Damage
-*   Wendy's Gives Its Girl A Makeover In Attempt To Update The Chain's Image
-*   Comfort Inn Boots Wedding Guests From Overbooked Hotel, Doesn't Seem To Care
-*   Check To Make Sure Your iPad Box Isn't Full Of Notebooks Before You Leave The Store
-*   If Staples Never Had Any Hard Drives In Stock, Were They Ever Really On Sale?
+*   Homeowner Has To Share House With Squatter Because Police Can't Do Anything
+*   Disabled Vet Says Debt Collector Told Him "You Should Have Died"
+*   How Much Is The NFL Profiting From All This Pink Breast Cancer Awareness Merchandise?
+*   Dissident Walmart Workers Threaten Strikes And In-Store Protests On Black Friday
+*   Bank Of America Endorses Insurance Check, Won't Let Me Pay Contractor For 8 Days
 
 About Consumerist
 
