@@ -145,7 +145,7 @@ B/R on Twitter
 
 about 8 hours ago
 
-@BleacherReport: The Tigers are heading to the ALCS! Justin Verlander's line: 9 IP, 4 H, 0 R, 1 BB, 11 K. Straight-up nasty stuff.
+@BleacherReport: Washington Nationals struggle face (h/t @CARO\_RAMS) http://t.co/W8g8PJCq
 
 Newsletters
 
