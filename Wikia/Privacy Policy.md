@@ -118,7 +118,4 @@ Wikia Inc Navigation
 *   Privacy Policy
 *   Content is available under CC-BY-SA.
 
-*   Learn more about Wikia's Official Gaming Communities
-    
-
 Politics Halloween @WikiaLifestyle
