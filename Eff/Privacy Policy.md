@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-A copyright takedown notice for a dancing baby video? The battle over fair use is back in court on Tuesday https://eff.org/r.a8ny
+Advertisers' assault on online #privacy continues. Here's where we draw the line: https://eff.org/r.4an5 #DNTrack
 
-Oct 11 @ 12:36pm
+Oct 12 @ 4:42pm
 
-The fight against mandatory data retention in Slovakia heats up as MPs challenge its constitutionality https://eff.org/r.4anx
+Chevron demands email providers turn over account info on environmental crusaders. https://eff.org/r.5an3 @EFF &. @EarthRightsIntl are on it.
 
-Oct 11 @ 12:15pm
+Oct 12 @ 1:42pm
 
 *   Twitter
 *   Facebook
