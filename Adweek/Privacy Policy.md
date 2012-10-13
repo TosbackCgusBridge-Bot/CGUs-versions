@@ -11,7 +11,7 @@ Privacy Policy | Adweek Advertisement
 
 *   in Follow
 
-Adweek Rides the Reddit Bus Our team hits the campaign trail. Follow the live blog now. Calling Media All-Stars! Submissions now being accepted now for 2012 work Digital Rising Web news consumption now trumps newspaper and radio audiences
+Adweek Rides the Reddit Bus Our team hits the campaign trail. Follow the live blog now. Calling Media All-Stars! Submissions now being accepted for 2012 work Digital Rising Web news consumption now trumps newspaper and radio audiences
 
 *   The Press
 *   Television
@@ -85,7 +85,7 @@ terms@prometheusgm.com
 6\. Changes To The Privacy Policy  
 This Privacy Policy is effective as of June 2012. We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.
 
-Advertisement The Talent Gallery Famos brand. / branding Listerine Whitening Rinse Huawei FOTOFESTIWAL 2012  
+Advertisement The Talent Gallery Gaana - Windows 8 App They Keep You Alive Girafe Santé Famos brand. / branding  
 Advertisement Adweek.com
 
 *   About Us
