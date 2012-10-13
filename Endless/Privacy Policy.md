@@ -138,7 +138,12 @@ Examples of businesses with which we offer joint or co-branded products and othe
 
 **Information You Can Access**
 
-Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders. personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings). payment settings (including credit card information and promotional certificate and gift card balances). e-mail notification settings (including Product Availability Alerts, Delivers, Special Occasion Reminders, and newsletters). Recommendations (including Recommended for You and Improve Your Recommendations). shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries). Seller accounts. and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List). Read our Privacy Notice here. Self-Service
+Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders. personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings). payment settings (including credit card information and promotional certificate and gift card balances). e-mail notification settings (including Product Availability Alerts, Delivers, Special Occasion Reminders, and newsletters). Recommendations (including Recommended for You and Improve Your Recommendations). shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries). Seller accounts. and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List). Read our Privacy Notice here. Ask the Community
+
+*   General Help Forum
+*   Kindle Help Forum
+
+Self-Service
 
 *   Track or Manage Purchases
 *   Manage Payment Options
@@ -146,11 +151,6 @@ Examples of information you can access easily at Amazon.com include up-to-date i
 *   Change Name, E-mail, or Password
 *   Manage Address Book
 *   Manage Your Kindle
-
-Support
-
-*   General Help Forum
-*   Kindle Help Forum
 
 Contact Us Other Help Sites
 
@@ -245,3 +245,5 @@ Kindle Owners' Lending Library
 Borrow from over 180,000 titles for free
 
 \>. Get started
+
+  Sign in New customer? Start here.
