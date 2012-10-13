@@ -1,7 +1,7 @@
     NYC - Upper West Side
 
 *   my vouchers
-*   Log in
+*   log in
 *   sign up
 
 LivingSocial
