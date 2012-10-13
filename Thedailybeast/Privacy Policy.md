@@ -145,37 +145,37 @@ Stories We Like
   Most Popular
 
 1.  My Proof of Heaven
-2.  Video Captured Libya Attack
-3.  Ryan’s Roe v. Wade Bombshell
-4.  Ryan Solid, But One Major Mistake
-5.  Biden’s Passion Trumps Ryan
+2.  The Joke’s on Joe
+3.  Ryan Solid, But One Major Mistake
+4.  Video Captured Libya Attack
+5.  The Car Crash Ryan Chose
 
   Other News Entertainment
 
-*   Week in Photos for Oct. 12, 2012
-*   Usher's Highs and Lows
-*   Kardashian Fashion Face-Off: Kim vs. Khloe
+*   Trend Report: Emerald
+*   Hairdos &. Don'ts: Buns Edition
+*   The Strangest Celebrity Conspiracy Theories
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   Hello Brooklyn! On the scene at Barbra Streisand’s concert
-*   ’30 Rock’: Tracy’s doppelganger joins the 2012 election
-*   ‘Beauty and the Beast’ react: Five questions from the premiere
+*   ‘Secret Avengers’: EW Exclusive! Learn the roster of Marvel’s new top-secret superteam
+*   Jon Hamm and Adam Scott film ‘The Greatest Event in Television History’ — VIDEO
+*   Sylvester Stallone and Robert De Niro will box once again. What are your favorite repeat performances?
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Team Obama “Psyched” As Biden Performance Energizes Campaign
-*   The Whole Vice Presidential Debate In 164 Seconds
-*   Why Did Mitt Romney Pick Paul Ryan, Again?
+*   Census Bureau Seeks Advice On LGBT Populations
+*   Courtney Stodden Forced To Sleep Alone While Filming Her Reality Show Due To Child Labor Laws
+*   Why Is This Man Running For President Of The Internet?
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Quote of the Day
-*   Other Reaction to the Vice Presidential Debate
-*   Reaction to the Vice Presidential Debate
+*   No Swing State Firewall for Obama
+*   Lawmaker Now Claims Mistress Wasn't Actually Pregnant
+*   Latest Swing State Polls
 *   **Get More from Political Wire**
 
 The Daily Beast
