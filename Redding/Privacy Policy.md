@@ -267,25 +267,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Redding patient battling flesh-eating bacteria dies Published 10/11/2012 at 3:30 p.m. 18 comments
-*   Updated photo: Woman finds bear in her yard Published 10/11/2012 at 11:56 a.m. 47 comments
-*   Election 2012: Biden, Ryan at each other on everything during VP debate Updated 10/11/2012 at 7:49 p.m. 97 comments
-*   Robert George: Obama re-election will doom America Published 10/11/2012 at 12:00 a.m. 96 comments
-*   Jobless claims drop by 339,000, lowest level in four years Published 10/11/2012 at 7:03 a.m. 97 comments
+*   VP debate: Biden, Ryan at odds over nearly everything Published 10/12/2012 at 12:04 a.m. 183 comments
+*   Eyeball the size of a softball washes up on a Florida beach Published 10/12/2012 at 7:53 a.m. 24 comments
+*   Shingletown man slashes woman's throat in attempted murder, police say Published 10/12/2012 at 4:11 p.m. 13 comments
+*   Slips seen on Libya, Syria, auto bailout during VP debate Published 10/12/2012 at 12:08 a.m. 75 comments
+*   Passenger had murder directions on computer Published 10/12/2012 at 4:38 p.m. 16 comments
 
-Photo Galleries El Delicioso Burrito Shasta College presents Lemons Supersonic skydiver
+Photo Galleries Enterprise beats Foothill El Delicioso Burrito Central Valley beats West Valley in…
 
 *   Thomas Sowell: America's phony in chief Published 10/10/2012 at 12:00 a.m. 215 comments
-*   Thomas Wendt: 'Thou shalt not kill'  isn't that clear? Published 10/9/2012 at 12:00 a.m. 161 comments
+*   VP debate: Biden, Ryan at odds over nearly everything Published 10/12/2012 at 12:04 a.m. 183 comments
+*   Robert George: Obama re-election will doom America Published 10/11/2012 at 12:00 a.m. 109 comments
+*   Election 2012: Biden, Ryan at each other on everything during VP debate Published 10/11/2012 at 8:16 a.m. 106 comments
 *   Jobless claims drop by 339,000, lowest level in four years Published 10/11/2012 at 7:03 a.m. 97 comments
-*   Robert George: Obama re-election will doom America Published 10/11/2012 at 12:00 a.m. 96 comments
-*   Election 2012: Biden, Ryan at each other on everything during VP debate Published 10/11/2012 at 8:16 a.m. 97 comments
 
 *   UPDATED: Cottonwood man killed his wife, admitted it during 911 call, deputies say Published 10/5/2012 at 2:18 p.m. 59 comments
 *   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 54 comments
-*   UPDATED: Fatal shooting reported in Trinity County Published 10/3/2012 at 6:53 a.m. 46 comments
 *   UPDATED: Sheriff: Teens burglarize Palo Cedro bank twice with tricks picked up from heist movies Published 10/7/2012 at 9:27 a.m. 64 comments
-*   Family takes anti-abortion stance in refusing to return dog to Haven Humane Published 10/2/2012 at 3:27 p.m. 98 comments
+*   New eagle cams in place as Patriot, Liberty return to Redding Published 10/4/2012 at 11:12 p.m. 3 comments
+*   Eyeball the size of a softball washes up on a Florida beach Published 10/12/2012 at 7:53 a.m. 24 comments
 
 Weather
 
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 56° Overcast Wind: Calm Today 69° 50° Fri 05:00 PM Mostly Cloudy Temp: 67° Sat 05:00 AM Mostly Clear Temp: 53° Sat 05:00 PM Partly Sunny Temp: 77°
+Currently 54° Fair Wind: NW 5mph Today 77° 54° Sat 05:00 PM Partly Sunny Temp: 76° Sun 05:00 AM Partly Cloudy Temp: 56° Sun 05:00 PM Mostly Cloudy Temp: 80°
 
-Feels Like: 67°
+Feels Like: 76°
 
-Humidity: 42%
+Humidity: 35%
+
+Precip: 13%
+
+Feels Like: 56°
+
+Humidity: 80%
 
 Precip: 3%
 
-Feels Like: 53°
+Feels Like: 79°
 
-Humidity: 87%
+Humidity: 30%
 
-Precip: 20%
-
-Feels Like: 77°
-
-Humidity: 42%
-
-Precip: 13%
+Precip: 6%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Friday Oct 12
 *   Saturday Oct 13
 *   Sunday Oct 14
+*   Monday Oct 15
 *   More BROWSE Icon
-
-*   Randy Rieman Horsemanship - Rope Handling and Stock Handling Clinic Cottonwood Creek Equestrian Center 9 a.m.
-*   2012 Vision Resource Expo Shasta Senior Nutrition 9 a.m.
-*   Big Bike Weekend AMA National Gypsy Tour Holiday Inn noon
-*   Casey D. Johnson Acoustic Country concert Holiday Inn 3:30 p.m.
-*   Anderson FAA quarterly drive-thru dinner Anderson High School 4:30 p.m.
-
-More Events »
 
 *   McCloud Bike-toberfest Historic McCloud, CA 7 a.m.
 *   McCloud Bike-toberfest See Description 7 a.m.
@@ -353,6 +345,14 @@ More Events »
 *   Lassen Park Paradise Meadow Hike Lassen Volcanic National Park 1 p.m.
 *   Play 'Lemons' Shasta College Theater 2 p.m.
 *   Meet and Greet with Jim Reed, Democratic Candidate for Congress Round Mountain Community Center 2 p.m.
+
+More Events »
+
+*   Free classes for seniors Senior Citizens Hall
+*   Zumba Classes Teen Center 6 p.m.
+*   Redding Chess Club See Description 5 p.m.
+*   Redding Duplicate Bridge Club meetings Senior Citizens Hall noon
+*   Raja Yoga Classes Center for Spiritual Living 7 p.m.
 
 More Events »
 
