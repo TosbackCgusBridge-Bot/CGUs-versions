@@ -51,7 +51,7 @@ See More Results Previous
 *   How To Rock
 *   House of Anubis
 *   Kung Fu Panda: Legends of Awesomeness
-*   Splatalot
+*   See Dad Run
 *   Petpet Park
 *   Supah Ninjas
 *   The Big Help
@@ -59,6 +59,7 @@ See More Results Previous
 *   Bucket &. Skinner's Epic Adventures
 *   Fanboy and Chum Chum
 *   Avatar
+*   Splatalot
 *   Fairly OddParents
 *   T.U.F.F. Puppy
 *   Planet Sheen
