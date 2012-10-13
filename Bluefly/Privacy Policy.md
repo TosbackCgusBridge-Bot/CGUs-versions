@@ -174,15 +174,9 @@ coupon code: SHIP100
     *   Z
     *   ALL
 
-my fly Outerwear Sale
+my fly OMG Sale! Now up to 80% Off All Sale Items\*
 
-*   Shop Women
-*   Shop Men
-
-Sweater Sale
-
-*   Shop Women
-*   Shop Men
+*   Shop Now
 
 Privacy Notice
 
