@@ -13,12 +13,11 @@ Federal Government Customers
     *   Contact Us
     *   Help Center Main
 *   1-800-333-3330
+*   1-877-878-3331
 *   Site Feedback
 *   Gift Cards
 *   Store Locator
 *   Chat
-
-Staples
 
 *   Favorites Lists
 *   Easy Reorder
@@ -761,6 +760,9 @@ Get email updates on the latest exclusive offers and events!
         Submit
 
 Join us on:
+
+Join our  
+Staples.com Community
 
 **We've Gone Mobile!**
 
