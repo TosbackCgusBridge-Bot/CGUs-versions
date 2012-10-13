@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Biden-Ryan debate: Already, some are complaining about the moderator (+video)
-2.  NASA rover Curiosity finds a rock not seen before on Mars (+video)
-3.  'Completely wrong,' Mitt Romney, and the Google dust-up
-4.  Biden, Ryan hold their own in tough vice presidential debate
-5.  Biden-Ryan debate: why it doesn’t matter, and why it does (+video)
+1.  Zumba scandal: Will 'clients' in prostitution case be revealed? (+video)
+2.  Laughing Biden vs. polite Ryan: Who won? (+video)
+3.  Mars rover finds surprising rock, nuzzles it and shoots it with lasers
+4.  Romney plan: Rich to pay same share of taxes? Or $230,000 less?
+5.  10 cost-free ways to show your partner that you care
 
 About these ads
 
@@ -111,16 +111,17 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   NASA rover Curiosity finds a rock not seen before on Mars (+video)
+*   Difference Maker  
+    She pours her wealth into getting books to India's poorest children
     
-    Using a laser and X-rays, the NASA rover Curiosity identified a rock named Jake as a form of basalt, similar to volcanic rocks found in ocean-island settings on Earth.
+    When she found herself suddenly wealthy, the Indian philanthropist founded Pratham Books, a nonprofit publisher that uses innovative ways to put low-cost books in the hands of millions of kids.
     
-*   Decoder Wire: Ann Romney on 'GMA': How'd she handle burning cookies?
-*   Is Mexico's drug violence scaring off the next generation of journalists?
-*   Chinese author Mo Yan wins Nobel Prize in literature (+video)
-*   Progress Watch: Why teen drinking and driving has been cut in half in past 20 years
+*   Decoder Wire: Joe Biden's smiling: Was there method to his madness?
+*   Nobel Peace Prize: How unusual is the EU's award? (+video)
+*   Alex Rodriguez benched: Will that help Yankees in decisive Game 5?
+*   Global News Blog: Good Reads: A lesson for democracy, lost and found on Google Earth, and the next Arab uprising
 
-_Photos of the day_ 10.11.12 » Photos of the day 10/11
+_Photos of the day_ 10.12.12 » Photos of the Day 10/12
 
 **CSMonitor.com** on Facebook
 
@@ -132,28 +133,28 @@ Give Good
 
 What happens when ordinary people decide to pay it forward? Extraordinary change...
 
-Brenda Palms Barber's honey-products program has hired 275 ex-offenders since 2007. After 90 days, they shift to the outside workforce.
+Rohini Nilekani, a philanthropist who founded Pratham Books, which produces low-cost children’s books, sits in her home in Bangalore, India.
 
-Brenda Palms Barber offers ex-cons in Chicago a honey of a second chance
+Rohini Nilekani pours her wealth into getting books to India's poorest children
 
-Sweet Beginnings, a growing business on Chicago's West Side, provides just released prisoners with job experience making honey and other products.
+When she found herself suddenly wealthy, the Indian philanthropist founded Pratham Books, a nonprofit publisher that uses innovative ways to put low-cost books in the hands of millions of kids.
 
    
 
 Become part of the Monitor community
 
+*   The Culture » 'Photographic Memory': The permanence and impermanence of what we choose to preserve
+*   The Culture » 'Smashed' shows a realistic recovery, with revelation
+*   The Culture » Ben Affleck crafts a nail-biting thriller in 'Argo': movie review
+*   Books » Sarah Palin says she will release a book on fitness and proper diet
+*   Making a Difference Rohini Nilekani pours her wealth into getting books to India's poorest children
+*   The Culture » The X Factor recap: The teens pull out all the stops (+video)
 *   World » Focus: Vladimir Putin 2.0: A harder, eastward-looking presidency
 *   USA » Focus: Obama's new program for young illegal immigrants: How is it going?
 *   Business » Kellogg Company recalls Mini-Wheats. Metal fragments in cereal.
-*   The Culture » The X Factor judges take their work home with them
 *   Books » Joe Biden vs. Paul Ryan: The evolution of the vice president in America
 *   The Culture » 'Call Me Maybe': Being happy in a minor key
-*   Making a Difference She offers ex-cons in Chicago a honey of a second chance
 *   Energy/Environment » Coyotes, bears, and lions: the new urban pioneers?
-*   Innovation » Facebook: 1 billion users. What's next for the social network?
-*   USA » The toast of Texas? 5-0 Houston Texans: A Week 5 NFL quiz
-*   The Culture » Which cookie will win the White House?
-*   The Culture » The X Factor Boot Camp: Contestants crumble under pressure
 
 About these ads
 
