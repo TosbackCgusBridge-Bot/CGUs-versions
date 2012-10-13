@@ -636,6 +636,7 @@ You have no recently viewed items.
 *   New Product Division
 
 *   Deer Nation™
+*   Waterfowl Nation™
 *   Articles &. Information
 *   Talk Forums
 *   Game &. Fish Info
