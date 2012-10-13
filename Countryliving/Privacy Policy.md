@@ -97,13 +97,13 @@ In order to view the Privacy Policy you must enable javaScript. Connect with Cou
 
 *   **halloween**
 
-*   **bedrooms**
-
 *   **living rooms**
 
-*   **casseroles**
-
 *   **kitchens**
+
+*   **bathrooms**
+
+*   **sweepstakes**
 
 Home &. Decorating
 
