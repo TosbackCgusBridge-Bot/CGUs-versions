@@ -147,14 +147,25 @@ The website is not directed to individuals under the age of thirteen (13), and w
 
 See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 
+*   Jonas Brothers  
+    Wedding Bells Lyrics
 *   One Direction  
-    Over Again Lyrics
+    Kiss You Lyrics
+*   Lana Del Rey  
+    Ride Lyrics
+*   One Direction  
+    Live While We're Young Lyrics
+*   David Guetta  
+    Titanium Lyrics
+
+*   Wale  
+    Arrival Lyrics
 *   One Direction  
     Heart Attack Lyrics
-*   Bruno Mars  
-    Locked Out Of Heaven Lyrics
-*   Katy Perry  
-    Wide Awake Lyrics
+*   Taylor Swift  
+    Everything Has Changed Lyrics
+*   Flo Rida  
+    Whistle Lyrics
 *   Adele  
     Someone Like You Lyrics
 
@@ -162,6 +173,15 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
     I Need Your Love Lyrics
 *   One Direction  
     Change My Mind Lyrics
+*   Adele  
+    Skyfall 007 Theme Lyrics
+*   Katy Perry  
+    Wide Awake Lyrics
+
+*   One Direction  
+    Over Again Lyrics
+*   One Direction  
+    C'mon, C'mon Lyrics
 *   Ed Sheeran  
     A Team Lyrics
 *   Carly Rae Jepsen  
@@ -173,25 +193,7 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
     Gorilla Lyrics
 *   Justin Bieber  
     As Long As You Love Me Lyrics
-*   Gotye  
-    Somebody That I Used To Know Lyrics
-
-*   One Direction  
-    C'mon, C'mon Lyrics
-*   Lana Del Rey  
-    Ride Lyrics
-*   One Direction  
-    Live While We're Young Lyrics
 *   Maroon 5  
     Payphone Lyrics
-
-*   One Direction  
-    Kiss You Lyrics
-*   Taylor Swift  
-    Everything Has Changed Lyrics
-*   Flo Rida  
-    Whistle Lyrics
-*   David Guetta  
-    Titanium Lyrics
 
 Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
