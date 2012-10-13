@@ -269,7 +269,7 @@ Answers may amend this policy from time to time by posting the new text on the S
   
 If you have any questions or suggestions regarding this privacy policy, please contact Answers: privacy\_at\_answers.com.  
   
-ADVERTISEMENT Answer these What colour would white region become after iodine is put on it? In: Arctic Foxes Answer it! What are the names for the scientist that discovered rhodium? In: Scientists Answer it! What is the outcome of Narnia? In: Chronicles of Narnia Answer it! How much would 2 TVs cost? In: Technology Answer it! ADVERTISEMENT Answers Properties
+ADVERTISEMENT Answer these What was Mozarts' instrument of choice to play? In: Composers Answer it! What are main postulates of kinetic molecular theory for solids? In: Chemistry Answer it! Who is the father of fractions? In: Percentages Answer it! How long for hard candy to raise blood sugar back to normal? In: Diabetes Answer it! ADVERTISEMENT Answers Properties
 
 *   Wiki Answers
 *   Video Answers
