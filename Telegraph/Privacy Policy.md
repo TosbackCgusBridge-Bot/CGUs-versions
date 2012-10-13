@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Friday 12 October 2012
+Saturday 13 October 2012
 
 *   Home
 *   News
@@ -138,13 +138,13 @@ In About us
 
 Editor's Choice »
 
-The war that changed us all  
+Pollyanna Hope's charity mini-marathon  
 
-It will not take much to involve us in the centenary of WWI – fascination with it has never been greater, says **Harry Mount**
+When Christopher Hope’s daughter Pollyanna was two she lost her leg below the knee in a bus crash. Five years later they were running together in Sierra Leone in aid of amputees.
 
 Comments
 
-Alex James learns to fly a Spitfire Mulberry’s knitting nans Michael Palin's Brazil: exclusive extract From Carr to Kay, 30 great one-liners Advertisement
+Pollyanna's road to recovery 'I escaped the flames. I am lucky to be alive’ Crime, corruption and cover-up in Marseille The war that changed us all Alex James learns to fly a Spitfire Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
