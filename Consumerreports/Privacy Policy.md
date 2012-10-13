@@ -284,8 +284,8 @@ Any disputes regarding this Privacy Policy are subject to our User Agreement and
 E-mail Newsletters **FREE** e-mail Newsletters!  
 Choose from safety, health, cars, and more! **Already signed-up?**  
 Manage your newsletters here too. Consumer News AUTOMOTIVE NEWS  
-Emergency trunk release fails on our Lexus ES and GS A snapped lever could leave a trapped occupant with no way to escape. TELEVISION REVIEWS  
-Cheaper, off-brand TVs aren't always a great deal Major makers' sets typically have the highest scores in our Ratings. DISHWASHER REVIEWS  
+Emergency trunk release fails on our Lexus ES and GS A snapped lever could leave a trapped occupant with no way to escape. E-BOOK READER REVIEWS  
+New Amazon Paperwhite has an exceptional screen And the built-in LEDs aid reading in almost all lighting conditions. DISHWASHER REVIEWS  
 Viking D3 Series RDDB301 doesn't conquer our tests You can get a higher-scoring machine for much less than this $1,450 model. COMPUTER REVIEWS  
 Acer Aspire V5-571-6891 Windows 8 laptop satisfies Its enhanced touchpad recognizes a number of finger gestures. SMART PHONE REVIEWS  
 'Purple haze' photo problem isn't limited to iPhone 5 In our tests, the iPhone 4S and some Android devices had the same issue. Read More Connect Discuss products and safety with  
