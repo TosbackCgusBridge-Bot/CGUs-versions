@@ -147,49 +147,49 @@ Headlines of the Week
 **From the Fark Shop:**
 
 *     
-    Pedrobear
+    Eeek! A pervert!
 *     
-    From Rotten with Love
+    Rubik's Cube Plush (Solved)
 *     
-    Flash - Mighty Wallet
+    Indiana Bones - Zombies Who Didn't Keep Their Eyes Shut
 *     
-    Fight of the Living Dead Club
+    Brainier Than The Average Bear
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
-The Real Life Anime Girl: Dateable or...  
+Two-Year-Old Girl Insults Kate Middle...  
+Police Left Her Topless, Hog Tied and...  
+Is This What You Think it Is...?  
 Hilarious Wedding Bloopers Compilatio...  
-Hate the Porn Boom? Blame 'Twilight'...  
-Photoshop is Madonna's Best Friend! \[...  
 More news at Scribol »  
   
   
-CLOSE CALL  
-WATCH: World's Fastest Stroller?  
-Don't Cook Squirrels With A Torch  
-Breakthrough In Canada's Great Maple...  
-More news at HuffPostWeirdNews »  
+Punk'd! Justin Bieber's Stolen Laptop...  
+Kate Hudson Wows In A Red Dress With...  
+Lindsay Lohan Steps Out After Fight W...  
+Lindsay Lohan Accuses Mother Dina Of...  
+More news at Starpulse »  
   
   
-5 Hilariously Elaborate Ways Video Ga...  
-24 Mundane Photos Hiding Creepy Easte...  
-12 Dangerously Irresponsible Steps to...  
-5 Insanely Successful Video Games Tha...  
-More news at Cracked »  
+Mom Gets 99 Years for Gluing Tot's Hands  
+Cops Confirm: Body of Missing Colorad...  
+DeVito Romanced Extra, 'Promised to M...  
+10-Foot Snake Found at Airport  
+More news at Newser »  
   
   
-Madden 13 And Borderlands 2 Were The...  
-XCOM: Enemy Unknown Building Faciliti...  
-Darkstalkers Resurrection Announced:...  
-Rockstar Collection Release Date Reve...  
-More news at G4TV »  
+Streisand: Early Photos of an Insecur...  
+Strangers to Reason: LIFE Inside a Ps...  
+GOP Women Party Hard, 1941  
+Gunning for White-Winged Doves, 1961  
+More news at Life »  
   
 
 Also on Fark
 
-Main Supreme Court is divided over an affirmative action case involving college admissions. Come on, why shouldn't minorities have the same opportunity to get mired hopelessly deep in college loan debt like anyone else? ( reuters.com ) » (6 comments) Sports Is tonight the night Big Ben treats Terry Bradshaw's franchise passing record like a young lady in a nightclub restroom? Will Tennessee be blown out again? It's the Steelers vs. the Titans on Thursday Night Football, 8:20 PM on NFL Network ( nfl.com ) » (1175 comments) Business Politicians: "There is no longer a black America and a white America." Car industry: "Actually, that's exactly what there is" ( latimes.com ) » (42 comments) Geek Can men be trusted to take the contraceptive pill? Short answer: No. Long answer: Noooooo ( news.com.au ) » (13 comments) Entertainment Anderson Cooper, after being born into New York high society and spending an entire career reading news from a desk, says that Bristol Palin needs to get a real job ( examiner.com ) » (22 comments) Politics Eloquent Biden brings entire audience to tears in debate stunner (Not safe for work language) ( theonion.com ) » (10 comments) Video You had to know Honey Boo Boo showing up on a Georgia pro wrestling show was inevitable ( youtube.com ) » (6 comments)
+Main It's people. Bumble Bee is made out of people ( dailybreeze.com ) » (20 comments) Sports Washington Nationals: So patriotic they red, white, and blew Game 5 ( sports.yahoo.com ) » (19 comments) Business You there. Yes, you. You're responsible for retailers putting up Christmas decorations on Columbus Day (with picture of a pumpkin-headed turkey wearing a Santa Claus suit that will haunt your dreams) ( cnbc.com ) » (68 comments) Geek Very fun shots of Endeavor as she tours the streets of Los Angeles winding through the neighborhoods. Tomorrow she visits the Sixth Street Bridge and the Observatory before her final destination ( framework.latimes.com ) » (42 comments) Entertainment Snoop Dogg &. Hot Pocket's hot new track: "Pocket Like It's Hot" -- Seriously ( foodbeast.com ) » (32 comments) Politics Modmin - please fix source image to 'The Onion' ( americanthinker.com ) » (12 comments) Video Why don't kids dance like this no more? Poppa was a Rollin stone. Hey mamma ( youtube.com ) » (34 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -199,5 +199,5 @@ Main Supreme Court is divided over an affirmative action case involving college 
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 12 2012 08:00:45  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 13 2012 08:00:35  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
