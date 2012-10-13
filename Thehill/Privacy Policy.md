@@ -212,105 +212,105 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Cutter: Romney, Ryan 'entire reason' Libya attack is political issueObama approval rating gets a boost after Gallup tweaks its polling methodologyBiden's 'malarkey' and laughter drive online reaction during veep debate Issa wants classified briefing on Libya intel Parody takes over Team Obama's planned rapid response account
+Police intercede as Dems Sherman, Berman get physicalCutter: Romney, Ryan 'entire reason' Libya attack is political issueGeithner defends Obama as deficit again tops $1 trillionBiden blames intelligence community for changing story about Libya attackDenver police: Shot fired at Obama campaign office
 
 Emailed
 
-The great USA comebackSensing win, GOP kingmakers closing ranks behind RomneyGOP senators to White House: Cyber executive order would be 'a mistake'Obama campaign comes around to flip-flopping advice from Senate DemsCutter: Romney, Ryan 'entire reason' Libya attack is political issue
+American comeback under President ObamaPolice intercede as Dems Sherman, Berman get physicalCutter: Romney, Ryan 'entire reason' Libya attack is political issueRomney ahead in four new national pollsBiden blames intelligence community for changing story about Libya attack
 
 Discussed
 
-First lady 'rarely' ventures into the West Wing to offer president policy adviceBiden tells audience middle class has been 'buried' last four yearsNew Obama ad uses Big Bird to hit Romney on deficit, Wall StreetCutter: Romney, Ryan 'entire reason' Libya attack is political issueRep. Issa closes in on Clinton
+Cutter: Romney, Ryan 'entire reason' Libya attack is political issueNew Obama ad uses Big Bird to hit Romney on deficit, Wall StreetSharp barbs but no clear winner in testy Biden-Ryan vice presidential debateRep. Issa closes in on ClintonSesame Street asks Obama campaign to take down attack ad featuring Big Bird
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Sharp barbs but no clear winner in testy Biden-Ryan VP debate
-*   Ryan's mom weighs in on debate
-*   Conservatives say debate moderator Martha Raddatz let Biden steamroll Ryan
+*   Cheney 'disturbed' by Biden's performance at vice presidential debate
+*   Denver police: Shot fired at Obama campaign office
+*   Romney says campaign enjoying 'growing crescendo of enthusiasm'
 
   
 More Briefing Room » Congress Blog
 
-*   We can do more to fight gender inequality
-*   An opportunity for a real policy debate between two Catholics
-*   American consumers want more miles per gallon
+*   Biden draws contrast, Obama must finish the job
+*   The vice presidential debate: 'Malarkey' v. 'Adorkable'
+*   In Florida, the choice is clear
 
   
 More Congress Blog » Pundits Blog
 
-*   Biden and Ryan — whose whoppers are bigger?
-*   Will Paul Ryan rise to the occasion in tonight's VP debate?
-*   Gold-star mother of Navy SEAL hero asks Mitt Romney to stop exploiting his death
+*   Joe Biden electrifies the Democratic base
+*   The gracious youngster versus the jerk
+*   Last night's debate recap
 
   
 More Pundits Blog » Twitter Room
 
-*   Biden's 'malarkey' and laughter drive online reaction during veep debate
-*   Ryan, Biden prepare to fight ahead of VP debate
-*   Essential tweeters to follow for VP debate
+*   'Malarkey' is this week's 'Big Bird' on social media
+*   'Friday Night Lights' creator blasts Romney for using 'Clear eyes' slogan
+*   NRCC compares Biden to Kanye West
 
   
 More Twitter Room » Hillicon Valley
 
-*   Study: One-in-10 Americans followed debate on both TV and mobile gadgets
-*   Report calls for tougher rules to protect cellphone location data
-*   Eshoo says FCC's Pai wrong on congressional intent for auctions
+*   US ambassador: Internet fee proposal gaining momentum
+*   Huawei hits back at Cisco allegations
+*   Trade commission likely to decide whether to sue Google after election
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Ryan slams ‘green pork’ in stimulus law
-*   Ad blitz hits Ohio Sen. Brown over coal industry regulations
-*   Sens. Cardin, Lugar slam oil industry's Dodd-Frank lawsuit
+*   Ad blitz hits Obama on coal in swing states
+*   Interior to fast-track solar projects on public lands
+*   Dem Senate candidate admonishes Obama: 'You're wrong on energy'
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Poll finds Romney with 7-point lead over Obama in Florida
-*   OVERNIGHT CAMPAIGN: Debate night
-*   Warren up in two new polls
+*   Berman may use Sherman incident in campaign advertising
+*   Race tightens for swing states
+*   Poll: Plurality says Biden had stronger debate performance
 
   
 More Ballot Box » On The Money
 
-*   Biden hammers Romney-Ryan tax plan
-*   Biden talks up Bush tax cut benefits for millionaires
-*   Biden says Romney revealed true self with '47 percent' remarks
+*   GOP weekly address: Mitt Romney ‘gets it’ on small biz, regulations
+*   Tax scorekeeper: Ending deductions pays for 4-percent rate cut
+*   Top House conservative Jordan says Romney is not abandoning his principles
 
   
 More On The Money » Healthwatch
 
-*   Biden, Ryan spar over US abortion rights
-*   Biden on Medicare: 'Who do you trust?'
-*   Waxman protests 'partisan' GOP oversight of health law
+*   Bloomberg's soda ban challenged in court
+*   Obama campaign targets women in latest TV ad
+*   Poll: Voters oppose higher Medicare costs for seniors
 
   
 More Healthwatch » Floor Action
 
-*   Rep. Huelskamp praises student protest of USDA calorie rules
-*   Jackson Jr. fails to get big endorsement due to absence
-*   Moran says more needs to be done to protect military voting rights
+*   Graham, Gowdy ask Holder to leave South Carolina voter ID law alone
+*   Corker: Why is Biden misleading Americans on Libyan attack?
+*   Cantor: Biden threw CIA 'under the bus' by blaming Libya on intel failure
 
   
 More Floor Action » Transportation
 
-*   Ryan defends ‘car guy’ Romney from auto bailout 'misquoting'
-*   Biden likely to talk auto bailout in veep debate
-*   Airlines avoid three-hour flight delays, increase on-time performance
+*   Obama touts auto bailout as new model year for American car companies
+*   Bill Clinton: Romney is a car guy 'if having an elevator to stack them counts'
+*   Amtrak defenders surprised at omission from VP debate
 
   
 More Transportation » DEFCON Hill
 
-*   Biden, Ryan argue over removing 'surge' troops from Afghanistan
-*   Biden, Ryan trade barbs on Iran
-*   Ryan, Biden clash over handling of wars in Iraq and Afghanistan
+*   New Romney ad hits Obama on weapons cuts
+*   Report: Court martial date set for Afghan shooter
+*   Survey: Majority opposes defense cuts to reduce deficit
 
   
 More DEFCON Hill » Global Affairs
 
-*   European Union wins Nobel Peace Prize for uniting continent
-*   Biden calls Romney position on Syria 'whole lot of verbiage'
-*   Biden blames intelligence community for changing story about Libya attack
+*   Topics announced for foreign policy debate
+*   White House pushes back after Biden debate remarks on Libya
+*   Secretary of State Clinton: 'Perfect security' not possible for US diplomats
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS Brent Budowsky The great USA comeback Dick Morris Romney TV ad blitz More Columnists »
