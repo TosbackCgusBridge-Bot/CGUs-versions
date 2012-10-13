@@ -1,6 +1,6 @@
 PepsiCo
 
-1.  PEP: 69.82 (-0.47)
+1.  PEP: 70.05 (+0.23)
 2.  Contact
 3.  Global Sites
     1.  Brazil
@@ -150,17 +150,17 @@ How to Contact Us
 
 If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us via one of the addresses or telephone numbers listed here.
 
-Stock Information PEP (NYSE): $69.82 -0.47 -0.67%
+Stock Information PEP (NYSE): $70.05 +0.23 +0.33%
 
 Minimum 20 Minute Delay
 
-**Intraday High** 70.84
+**Intraday High** 70.67
 
-**Intraday Low** 69.82
+**Intraday Low** 69.94
 
-**Volume** 5,258,134
+**Volume** 6,158,733
 
-**Last Trade** 70.29
+**Last Trade** 69.82
 
 Meet the Family
 
@@ -189,8 +189,8 @@ Follow Us
 Recent News
 
 1.  Chief Design Officer in Annual List of the 40 Under 40 Hottest Young Stars In Business - Fortune
-2.  Pepsi's Interactive Matching Vending Machine on "Weird Wall Street" - Bloomberg
-3.  Award for Support for Small Chains/Independents: PepsiCo - Supermarket News
+2.  LinkedIn Reveals The Companies Where Everyone Wants To Work, PepsiCo at #7 - Business Insider
+3.  Pepsi's Interactive Matching Vending Machine on "Weird Wall Street" - Bloomberg
 
 Recent Press Releases
 
