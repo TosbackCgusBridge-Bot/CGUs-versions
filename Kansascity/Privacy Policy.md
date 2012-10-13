@@ -134,29 +134,30 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $7.50 for $15 of food, drink and fun times! $7.50 Value: Discount: You Save: $15 50% $7.5
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $0 Value: Discount: You Save: $0 100% $0
 
-Friday: Five things to do
+Saturday: CVS, Walgreens Deals CVS
 
-*   Liberty Fall Festival
-*   Cinderella Craft Event
-*   Halloween Fashion Show
-*   American Royal Parade
-*   Pumpkin Hollow
+*   CVS Facial Tissue, 75-184ct - $0.99
+*   Gillette Fusion ProGlide Razor or Styler Kit - $9.99
+*   Crest 3D White, Pro-Health, or with Scope Toothpaste, 4-4.2oz, or Pro-Health Rinse, 8-8.4oz - $2.99
+*   more...
 
-1.  SEASONAL DRIVERS
+1.  SALES
     
-    Kelly Services
-    
-2.  SALES
-    
-3.  PROGRAM DIRECTOR
-    
-4.  CAMPAIGN JOBS
+2.  CAMPAIGN JOBS
     
     Grassroots Campaigns, Inc.
     
-5.  Apartment Maintenance Helper
+3.  Apartment Maintenance Helper
+    
+4.  Certified Dietary Manager
+    
+    CROWN CARE CENTER
+    
+5.  CHILD CARE TEACHERS
+    
+    La Petitie Academy
     
 6.  SJGS CONTROLS TECHNICIAN SR.
     
@@ -168,16 +169,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Who do you think won the vice-presidential debate? (Poll)
-*   Poll: Strong debate helps Mitt Romney move ahead of President Obama by 7 points among Florida voters
-*   Earnhardt will miss Kansas race
-*   Body found in Colorado not yet linked to missing girl
-*   Barb Shelly | Yes, Mr. Romney, Americans die for lack of insurance
-*   Debate analysis: Biden by a whisker
-*   Maine town awaits names in prostitution case
-*   Chiefs safety Kendrick Lewis set to make first start
-*   Chiefs’ Stanzi hopes to put rough preseason behind him
-*   Spence says Nixon 'sold his soul to the devil' to get re-elected
+*   Body in Colorado is identified as missing girl
+*   How much more can KC sports fans take?
+*   Chiefs’ Daboll looks at effects of conservative play-calling
+*   At Mizzou Madness, Tigers leap into new season
+*   Bar patrons are given a chance to measure blood alcohol level, without repercussions
+*   Tampa Bay’s Freeman unfazed by change in his NFL fortune
+*   Sprint is part of Softbank founders 300-year plan
+*   Fieldhouse Rock takes over Allen
+*   Commentary: Romney still has a tough sell on Medicare
+*   Mom gets 99 years in prison for gluing tot's hands
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
