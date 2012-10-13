@@ -220,37 +220,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Naladhu Maldives
-    
-    Starting Today 10/12 at 3pm EDT
-    
-*   The 1770 House - Hamptons
-    
-    Starting Today 10/12 at 3pm EDT
-    
-*   Mosaic Palais Aziza &. Spa Marrakech, Morocco
-    
-    Starting Today 10/12 at 3pm EDT
-    
-*   Ski/Snowboard Canada's Rockies A Five-Day/Four-Night Trip with Access Trips
-    
-    Starting Today 10/12 at 3pm EDT
-    
 *   Cape Town on Sale
     
-    Starting Saturday 10/13 at Noon EDT
+    Starting Today at Noon EDT
     
 *   Lake Placid Lodge - New York
     
-    Starting Saturday 10/13 at Noon EDT
+    Starting Today at Noon EDT
+    
+*   Hotel Rex - San Francisco
+    
+    Starting Sunday 10/14 at 3pm EDT
     
 *   Andaz West Hollywood
     
     Starting Sunday 10/14 at 3pm EDT
     
-*   Hotel Rex - San Francisco
+*   Cruise Hawaii on Norwegian A Seven-Night Sailing to Maui, Kona &. More
     
     Starting Sunday 10/14 at 3pm EDT
+    
+*   Abode at Parkwood - Utah
+    
+    Starting Monday 10/15 at Noon EDT
+    
+*   Golden Tower Hotel - Florence
+    
+    Starting Monday 10/15 at 3pm EDT
+    
+*   A Manhattan Mystery Hotel
+    
+    Starting Monday 10/15 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
