@@ -1,10 +1,4 @@
-Bulletin Investor Alert
-
-New York Markets Open in:
-
-Pre-Market Indications Analyst Ratings Oil News EarningsWatch
-
-Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
+Bulletin Investor Alert Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
@@ -198,101 +192,103 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 12, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 13, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:04a
+/news/latest1.  8:02a
     
-    Wells Fargo Q3 net income $4.94 bln vs $4.06 bln
+    From the NYSE, Charlie Turner previews week ahead
     
-2.  8:03a
+2.  7:02a
+    
+    2013 Infiniti M37 AWD
+    
+3.  6:01a
+    
+    Stocks face first peak of earnings season
+    
+4.  7:50p
+    
+    With geeky the new hip, Mattel, Marvel see promise
+    
+5.  7:46p
+    
+    AMD rises after hours following dayside slide
+    
+6.  7:09p
+    
+    MarketWatch readers narrowly agree with Jack Welch: poll
+    
+7.  6:34p
+    
+    Stocks to watch Monday: Citi, Schwab, Gannett
+    
+8.  6:31p
+    
+    AMD to cut up to 30% of workforce: AllThingsD
+    
+9.  6:29p
+    
+    MarketWatchâs top 10 stories, Oct. 8 - 12
+    
+10.  6:21p
+    
+    Radio Update: NickMom gets spanked
+    
+11.  6:12p
     
     BREAKING
     
-    Wells Fargo net 88c vs 72c
+    AMD to cut up to 30% of workforce: AllThingsD
     
-3.  8:01a
+12.  6:06p
     
-    Is the stock market crazy?
+    Microsoft prices Windows 8, taking pre-orders
     
-4.  8:01a
+13.  6:02p
     
-    Are 4G phones worth 20% more?
+    Watson Pharma wins FDA approval for two generics
     
-5.  8:01a
+14.  5:37p
     
-    Coming up: Wholesale prices for September
+    Big Oilâs profits set to slide
     
-6.  8:00a
+15.  5:25p
     
-    Dollar slightly weaker as earnings get under way
+    Treasury delays report on currency manipulation
     
-7.  8:00a
+16.  5:25p
     
-    Goldâs primed for a breakout, but where to?
+    Wells, J.P. Morgan results trigger bank selloff
     
-8.  7:54a
+17.  5:23p
     
-    iGate 3rd-quarter profit rises 98%
+    Energy stocks mostly lower, but off session lows
     
-9.  7:48a
+18.  5:02p
     
-    AEterna Zentaris down 18% in premarket trades
+    BREAKING
     
-10.  7:47a
+    Treasury to delay report on currency manipulation
     
-    Advanced Micro falls 8% in premarket trades
+19.  5:00p
     
-11.  7:47a
+    U.S. stocks end worst week in four months
     
-    STMicro rises 14.5% in premarket
+20.  5:00p
     
-12.  7:47a
-    
-    Bank of America rises 1.2% in premarket
-    
-13.  7:47a
-    
-    J.P. Morgan up 1.8% in premarket
-    
-14.  7:46a
-    
-    Drug makers weigh on Europe stocks after downgrade
-    
-15.  7:46a
-    
-    Radio update: Oil prices expected to ease
-    
-16.  7:46a
-    
-    J.P. Morgan's profit rises 34%
-    
-17.  7:44a
-    
-    Ecolab buying Champion Technologies for $2.2 bln
-    
-18.  7:40a
-    
-    Gold futures wobble in European trading
-    
-19.  7:32a
-    
-    Stock futures move higher as J.P. Morgan reports
-    
-20.  7:30a
-    
-    Ecolab sees adjusted Q3 net of 87c
+    Treasury to delay report on currency manipulation
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,326.39 -18.58 -0.14% nasdaq /quotes/zigman/123127 3,049.41 -2.37 -0.08% s&p 500 /quotes/zigman/3870025 1,432.84 +0.28 +0.02% Kiosk
+dow /quotes/zigman/627449 13,328.85 +2.46 +0.02% nasdaq /quotes/zigman/123127 3,044.11 -5.30 -0.17% s&p 500 /quotes/zigman/3870025 1,428.59 -4.25 -0.30% Kiosk
 
 *   1341573300000 1341592200000
     
     From Fox Business
     
-    Â  Lauren Covello  
-    What's in a street name?  
-    Picky homebuyers are screening houses for a variety of criteria, including the name on the street sign, writes Lauren Covello.Â  /conga/kiosk/marketfox.html 230254
+    Â  bonnie lee  
+    Is a consumption tax alone better?  
+    With all of the questions about the tax code and it's fairness across class lines, perhaps a straight tax on consumption would level the playing field.Â  /conga/kiosk/marketfox.html 230431
 *   1300176000000 1301475600000
     
     Retail
@@ -317,24 +313,15 @@ dow /quotes/zigman/627449 13,326.39 -18.58 -0.14% nasdaq /quotes/zigman/123127 3
     
     The Trading Deck
     
-    audrey kaplan  
-    If the EU were more like Norway  
-    When European Union finance ministers met this week to ponder their various problems, they should have scheduled a side trip to Norway.  
-    /conga/kiosk/trading-deck-5.html 230332
-*   1332953700000 1332979800000
+    michael gayed  
+    When unlimited is not enough  
+    We live in a world of trillions. So long as central banks respond with billions, we will continue to go through continued pulses of inflation/deflation..  
+    /conga/kiosk/trading-deck-5.html 230475
+*   1341573300000 1341792900000
     
-    The Trading Deck
+    Economy
     
-    andrew giovinazzi  
-    Is it time to sell volatility?  
-    Continuing bad news appears to be hitting the market as volatility has risen and investors are flustered. But are their concerns warranted? /conga/kiosk/trading-deck-7.html 230138
-*   1326931500000 1327018200000
-    
-    The Trading Deck
-    
-    kevin marder  
-    Stocks: More decay is on the way  
-    In times like these, a medium-term speculator's prey is usually found in the more-speculative climes of the market, i.e. Nasdaq titles. /conga/kiosk/trading-deck-3.html 230250
+    Another week of surprises Â For the second week in a row, the government reports jobs data too good to be true, consumer sentiment sees a rebound and Spain's factory output rises. /conga/kiosk/economy-politics.html 230517
 *   1349089200000 1349137500000
     
     Commentary
