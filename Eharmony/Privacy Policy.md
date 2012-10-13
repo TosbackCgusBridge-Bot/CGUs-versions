@@ -196,7 +196,6 @@ Copyright © 2000-2012 eHarmony, Inc. All Rights Reserved. EHARMONY, COMPATIBILI
 *   eHarmony Brasil
 *   eHarmony Canada
 *   eHarmony United Kingdom
-*   eHarmony Japan
 *   eHarmony Labs
 *   eHarmony Blog
 *   Compatible Partners
