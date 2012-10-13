@@ -44,9 +44,7 @@ American Idol.com Home Audition for Season 12 American Idol Search
     *   Calendar
     *   Desktop Downloads
 *   Music
-    *   Watch Performances
     *   Download on iTunes
-    *   American Idol Live! Tour
 *   Behind the Scenes
     
     *   Behind the Scenes Front Page
