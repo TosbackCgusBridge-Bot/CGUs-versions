@@ -1,4 +1,4 @@
-About Us| Newsletter October 12, 2012
+About Us| Newsletter October 13, 2012
 
 *   Like Us
 *   Follow Us
@@ -398,7 +398,6 @@ Please acknowledge your agreement I have read and agree to WebMD's Privacy Polic
 
 *   Rheumatoid Arthritis Pictures
 *   ADHD: Tips for Parenting
-*   What is Ulcerative Colitis?
 *   Yeast Infection Treatment
 *   Psoriasis Slideshow
 
@@ -428,7 +427,7 @@ Find a Local Pharmacy
 From WebMD Featured Centers
 
 *   How Well Are You Managing Your Eczema?
-*   Why Whole Grains Help You Lose Weight
+*   Top Health Tools to Help You Feel Good
 *   What's Lurking in Your Mouth?
 
 Health Solutions From Our Sponsors
