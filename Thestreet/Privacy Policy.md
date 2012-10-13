@@ -15,13 +15,14 @@ A NOTE FROM STEPHANIE LINK
 
 *   **Business News**
     *   Latest News
-    *   Technology
-    *   Biotechnology
-    *   Banking &. Finance
+    *   Biotech News
+    *   Technology News
+    *   Financial News
     *   Mergers &. Acquisitions
-    *   Small Business
-    *   Airlines &. Autos
-    *   Money &. Politics
+    *   Airline News
+    *   Automotive News
+    *   Small Business News
+    *   Political News
     *   Opinion
 
 *   **How to Invest**
@@ -44,7 +45,7 @@ A NOTE FROM STEPHANIE LINK
     *   Mad Money Stock Screener
     *   Upgrades &. Downgrades
     *   Technical Analysis
-    *   Dividends &. Income
+    *   Dividends Stock Picks
     *   Options Strategies
     *   Real Money Previews
 
@@ -83,12 +84,12 @@ A NOTE FROM STEPHANIE LINK
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
 *   Cyber Security Webinar
-*   Stocks to Watch
-*   Stock Futures
-*   JPMorgan Earnings Beat
+*   Who Won the VP Debate?
+*   iPhone 5 vs. Galaxy S III
 *   5 Dumbest
+*   iPad Mini Release Date
 
-pjava01.dc.thestreet.com Privacy Policy
+pjava04.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -243,13 +244,13 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,326.39 -18.58 -0.14% NASDAQ 3,049.41 -2.37 -0.08% S&P 500 1,432.84 0.28 0.02% US 10 Yr 1.675% -0.016 Brokerage Partners Most Commented
+DOW 13,328.85 2.46 0.02% NASDAQ 3,044.11 -5.30 -0.17% S&P 500 1,428.59 -4.25 -0.30% US 10 Yr 1.663% -0.012 Brokerage Partners Most Commented
 
 *   The Sad Story of Jack Welch in Retirement: Opinion
-*   Hemispherx ATM Withdrawals Raise A Red Flag
 *   10 Worst Cars of All Time
+*   Hemispherx ATM Withdrawals Raise A Red Flag
 *   10 Cult TV Shows Netflix Should Revive
-*   Apple Bulls Having Love Fest: Please, Get a Room
+*   Microsoft Will Lose a War With Apple. So Will Google
 
 Articles From Advertising Partners Free Newsletters from TheStreet
 
