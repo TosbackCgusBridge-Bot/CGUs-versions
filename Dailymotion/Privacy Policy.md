@@ -92,6 +92,7 @@ You are entitled to access and correct your Data by requesting to do so via the 
 *   more …
 
 *   Developers
+*   Developer Area
 *   Data API
 *   Player API
 
