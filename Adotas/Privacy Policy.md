@@ -67,19 +67,19 @@ Adotas.com RSS Feeds Follow Adotas.com on Twitter Follow Adotas on Facebook Adot
 
 Latest News
 
-*   Covario: Q3 Paid Search Spend Up 33% Over Last Year _October 11th 2012_ SAN DIEGO (Oct. 11, 2012) – Covario, Inc., a leading \[...\] more »
-*   Digitas Taps Lesley Bielby as EVP for North America Planning _October 11th 2012_ NEW YORK (October 11, 2012) — Digitas, \[...\] more »
-*   Report: Google Pays Teen Hacker $60G for Exposing Chrome Flaw _October 11th 2012_ A hacker who found a flaw in Google’s Chrome browser \[...\] more »
-*   Texas-Based Newspaper Chain Adopts Maxifier’s ADMAX _October 11th 2012_ NEW YORK (October 10, 2012) – Maxifier, a global leader \[...\] more »
-*   Legolas, GfK Team to Offer Real-Time Campaign Measurement &. Optimization _October 11th 2012_ NEW YORK (October 11, 2012) – Legolas Media has partnered \[...\] more »
-*   Affectv Partners with Top Universities on Open Graph R&D _October 11th 2012_ LONDON (October 10, 2012) —  Affectv, Europe’s leading social targeting \[...\] more »
-*   Five-Year-Old Verizon Privacy Scare Still Has Legs on Facebook _October 11th 2012_ A post about a change in Verizon’s terms of service \[...\] more »
+*   LocalResponse Offers a New Way for Brands to Target Consumers Based on Past Social Media Behavior _October 12th 2012_ NEW YORK/LOS ANGELES (October 10, 2012) — LocalResponse, the first advertising platform that \[...\] more »
+*   BlueKai Slideshow: Data Activation 101 _October 12th 2012_ Data-driven marketing can seem like a cacophony of noise for \[...\] more »
+*   Social Week Brings 28 Events to NYC, October 15-19 _October 12th 2012_ NEW YORK, NY – Social Week, the essential professional in-gathering \[...\] more »
+*   Forward-Thinking Innovators to Explore New Opportunities for Success at Pivot 2012 _October 12th 2012_ NEW YORK – Pivot, the only conference focused on how \[...\] more »
+*   Xinhua’s CNC Selects Red Loop Media as Global Mobile Advertising Service Provider _October 12th 2012_ BEIJING/REDMOND, WASH. (October 11, 2012) — Red Loop Media, a \[...\] more »
+*   Perich Advertising + Design Marks 25 Years of Audacious Creative _October 12th 2012_ ANN ARBOR, Mich. – (October 11, 2012) This October, Ann \[...\] more »
+*   Digital Media Vet David Carlick Joins NetSeer Board of Directors _October 12th 2012_ SANTA CLARA – NetSeer recently announced that David Carlick, Chairman at \[...\] more »
 
 News Archive
 
 Features
 
-*   Three Keys for Facebook’s Longevity _October 10th 2012_
+*   Three Keys for Facebook’s Longevity _October 11th 2012_
 *   Introducing The New MySpace: An Elegant Mashup of Spotify, Pinterest &. Facebook _October 9th 2012_
 *   Is That a Billboard In Your Pocket? The ROI Conundrum of Mobile Advertising _October 9th 2012_
 *   You’re Already Doing SEO: It’s Called Inbound Marketing _October 8th 2012_
@@ -101,10 +101,10 @@ Reader Favorites Classifieds
 
 Recent Comments
 
-*   **#MCommerce Update: Nearly 10% of All September Purchases Were Made Via Mobile | E-commerce, F-Commerce, M-Commerce, T-Commerce &. SoLoMo | Scoop.it:** \[...\] Affiliate Window has issued its mobile and m-commerce figures for September 2012. Key stats
-*   **Site Search and the Secret to Great SEO Keywords | Best Cheap Hotel Flight Deals | ehoteldeals.org:** \[...\] Permalink \[...\]
-*   **Wordpress Website Design:** Hi, We can find a number of keyword research tools available on the internet and these
-*   **EXCLUSIVE: Lotame &. LiveRamp Partner to Combine Online &. Offline … : Offline Marketing Tips and Information – Free Article Resources:** \[...\] Permalink \[...\]
+*   **Rick Noel:** Great data points Mike. Its hard to imagine that "6 billion people worldwide had
+*   **Mike Daly:** We were granted press access. We are in no way associated or affiliated with MySpace.
+*   **Human Resources: A Key Ingredient Overlooked at Most Ad Tech Companies - What is HR Outsourcing:** \[...\] Permalink \[...\]
+*   **News about covario issue #1 | SEO Software News:** \[...\] paid search markets mostly for enterprise, consumer electronics and re more…
 
 Click Footer
 
