@@ -51,8 +51,8 @@ Recipe
         *   Breads and Rolls
         *   Cake Recipes
         *   Casseroles and Pot Pies
+        *   Cupcake Recipes
         *   Chili Recipes
-        *   Comfort Food Recipes
         *   See all
     *   Preparation
         *   Baking
