@@ -10,26 +10,26 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
     *   Tools
     *   Media
     *   Enterprise
-    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning ClassicMap Will Let You Use Google Maps On Your iPhone Again—Sort Of\* We're Giving Away A Ticket To IGNITION! Google's Eric Schmidt: Microsoft Is 'Well-Run' But Irrelevant 11 Islands That Will Completely Disappear When Sea Levels Rise
+    *   ScienceThe Long-Dreaded Antitrust Case Against Google Looks Like It Will Finally Happen The Long-Dreaded Antitrust Case Against Google Looks Like It Will Finally Happen How The iPad Mini Will Embarrass Microsoft's Surface Tablet We're Giving Away A Ticket To IGNITION! Workday Stock Soars 72% On IPO Space Shuttle Endeavour's Journey Through LA Costs Nearly $1 Million Per Mile
 *   Finance
     *   Clusterstock
     *   Your Money
-    *   Broker CenterJP Morgan Explains That Their Massive Trading Loss Is Now Just A Blip On Their Balance Sheet JP Morgan Explains That Their Massive Trading Loss Is Now Just A Blip On Their Balance Sheet Not Having Kids Is A Savvy Way To Save For Retirement JP Morgan Explains That Their Massive Trading Loss Is Now Just A Blip On Their Balance Sheet
-*   Markets 10 Things You Need To Know Before The Opening Bell
+    *   Broker CenterThe SEC Is Building A New $2.5 Million System To Track Market Data In Real Time — Here's Why It's Child's Play The SEC Is Building A New $2.5 Million System To Track Market Data In Real Time — Here's Why It's Child's Play If You're Tweeting For Money, Expect To Lose Some Friends The SEC Is Building A New $2.5 Million System To Track Market Data In Real Time — Here's Why It's Child's Play
+*   Markets David Rosenberg Brought Down The House With This Depressing Presentation At A Conference This Week
 *   Politics
     *   Politics
     *   Defense
-    *   Law &. OrderIf You Missed The Vice Presidential Debate, This Is The Only Moment You Have To See If You Missed The Vice Presidential Debate, This Is The Only Moment You Have To See The US Has Drafted New Military Rules Against A Potential 'Cyber-Pearl Harbor' Here's What The Supreme Court Justices Looked Like When They Were Young
+    *   Law &. OrderGALLUP: Mitt Romney Expands His Lead Over Obama GALLUP: Mitt Romney Expands His Lead Over Obama This Immense Drone Rescues Sailors From Places You Don't Even Want To Imagine Ted Bundy and 9 Other Famous People Who Couldn't Handle Law School
 *   Strategy
     *   Strategy
-    *   CareersDon't Believe The Myth Of The Billionaire College Dropout Don't Believe The Myth Of The Billionaire College Dropout 20 People Who Overcame Depression To Become Rich And Famous
-*   Entertainment The 47-Year Evolution Of Celebrities Using Cell Phones On-Screen And Off
-*   Advertising Apple Has Quietly Started Tracking iPhone Users Again, And It's Tricky To Opt Out
-*   Retail The 'Yoga-Wars' Are Heating Up Because Women Can't Get Enough
-*   Sports What It's Like To Be A 36-Year-Old Retired NFL Player And Think You're Going To Die By 52
+    *   CareersA Few Interesting Details About What Marissa Mayer And Yahoo Are Up To A Few Interesting Details About What Marissa Mayer And Yahoo Are Up To The Secret The Smartest People In The World Know That You Don't
+*   Entertainment A Devastating Analysis Of Kim Kardashian's Private Equity Deals
+*   Advertising In Old Nike Ads, Lance Armstrong Talks About Doping But Doesn't Actually Deny It
+*   Retail Billabong Has A Secret That's Terrifying Investors
+*   Sports ALEX RODRIGUEZ BENCHED FOR GAME 5
 *   Life
     *   The Life
-    *   TransportationThe Incredible Transforming Apartment In London The Incredible Transforming Apartment In London Latvia's Craziest Automaker Covered A Bentley In 'Snake Skin' For The Chinese New Year
+    *   TransportationWe Discovered The Best Meatballs In New York City We Discovered The Best Meatballs In New York City YACHT OF THE WEEK: Spread Out In Style On The $55 Million 'Harbour Island'
 *   More
     *   Latest
     *   Video
@@ -54,7 +54,7 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
 
 *   Follow us on Facebook and get updates from Business Insider posted directly to your news feed  
 
-Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,443
+Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,454
 
 *   Email
 *   More Share on Tumblr
@@ -164,7 +164,7 @@ Recommended For You
 
 Please follow Business Insider on Twitter and Facebook.
 
-Advertisement: Short URL Share:
+Short URL Share:
 
 *   _Twitter_
 *   _Facebook_
@@ -226,34 +226,34 @@ More:*   SAI Select (sample)
 *   Careers Select (sample)
 *   Military Select (sample)
 
-Advertisement Your Money NASDAQ Composite 3,049 -2.4 (-0.079%) S&P 500 1,433 +0.28 (+0.02%) NYSE Composite 8,257 +0 (+0%) Sponsored By
+Advertisement Your Money NASDAQ Composite 3,044 -5.27 (-0.173%) S&P 500 1,429 -4.25 (-0.297%) NYSE Composite 8,227 -29.507 (-0.357%) Sponsored By
 
 Ready To Invest? Find A Broker Here »
 
-NFL Fever
+Small Business: Big Results
 
-*   See What It's Really Like To Be An NFL Cheerleader
-*   The Patriots Are Revolutionizing The NFL By Doing Things College Teams Have Done For Years
-*   NFL POWER RANKINGS: Here's Where Every Team Stands Going Into Week Six
+*   How To Create An Iconic Logo For Your Brand
+*   Every Startup Should Know When To Start Marketing Its Product
+*   OKCupid CEO Shares The Social Media Strategy That Propelled It To The Top Of The Market
 
 Most Read Read  Commented  Recommended 
 
-*   The 50 Most Dangerous Cities In The World 1,914,644 Views
+*   FOX NEWS' CHRIS WALLACE: I've Never Seen A Candidate As Disrespectful As Joe Biden Was Tonight 556,726 Views
     
-*   Fast Food Workers Reveal The Menu Items You Should Stay Away From 1,248,279 Views
+*   It's Time People Realized That The Drudge Report Is A Major Media Property Worth Hundreds Of Millions Of Dollars 338,456 Views
     
-*   It's Time People Realized That The Drudge Report Is A Major Media Property Worth Hundreds Of Millions Of Dollars 333,874 Views
+*   8 Bad Work Habits That Will Kill Your Career 298,055 Views
     
-*   8 Bad Work Habits That Will Kill Your Career 288,290 Views
+*   David Rosenberg Brought Down The House With This Depressing Presentation At A Conference This Week 223,091 Views
     
 
-*   FOX NEWS' CHRIS WALLACE: I've Never Seen A Candidate As Disrespectful As Joe Biden Was Tonight 336 Comments
+*   FOX NEWS' CHRIS WALLACE: I've Never Seen A Candidate As Disrespectful As Joe Biden Was Tonight 698 Comments
     
-*   It's Time People Realized That The Drudge Report Is A Major Media Property Worth Hundreds Of Millions Of Dollars 274 Comments
+*   It's Time People Realized That The Drudge Report Is A Major Media Property Worth Hundreds Of Millions Of Dollars 279 Comments
     
-*   We've Gotten To The Bottom Of The Mysterious Jobless Claims Report! 146 Comments
+*   If You Missed The Vice Presidential Debate, This Is The Only Moment You Have To See 186 Comments
     
-*   It Looks Like The Huge Drop In Jobless Claims Was All Due To One Mystery State 131 Comments
+*   INSTANT POLL: Joe Biden Shredded Paul Ryan In The Vice Presidential Debate 164 Comments
     
 
 Loading, please wait...
@@ -272,36 +272,27 @@ See All Jobs Startup Document Center Templates To Jump Start Your Business Busin
 By-Laws Financial  
 Model See All » Read Me Joe Weisenthal
 
-| And This Is How The Fed Forced Everyone To Invest In The Stock Market 10
+| The European Union Has Won The Nobel Peace Prize — And It Was A Brilliant Choice 47
 
-David Rosenberg explains.
+A good reminder of what's at stake.
+
+Comstock Partners
+
+| The Market Is Showing Signs Of Topping Out, And The Bad News Has Not Been Discounted 3
 
 James Pethokoukis
 
-| All Evidence Points To Obama Raising Middle Class Taxes By $4,000 A Year 19
+| Chuck Schumer's Tax Reform Plan Is Only Making Things Worse 9
 
-WhoWhatWhy
+Eric Falkenstein
 
-| Mitt’s Advisors: He Has No Clue On Foreign Policy 17
-
-Bruce Krasting
-
-| 80% Of People Contributing To Social Security Will Get Screwed 34
+| How Investor Ego Ends Up Destroying Their Returns 3
 
 Wolf Richter
 
-| Gold, Molotov Cocktails, Rubber Bullets And Teargas Signify A Serious Rift In Greece 4
+| Gold, Molotov Cocktails, Rubber Bullets And Teargas Signify A Serious Rift In Greece 5
 
-The Hive About The Hive » What Smart People Are Reading Right Now
-
-*   Insight: The Lex Factor roils Dow Jones 4
-*   El primer sondeo a pie de urna da la victoria a Henrique Capriles 3
-*   For president: Mitt Romney ReviewJournal.com 3
-
-*   Raccoons Slowly Taking Over New York City « CBS New York 2
-*   Your right to resell your own stuff is in peril Waters's Consumer Confidential 2
-
-More Less See All » Advertisement Thanks to our partners
+Advertisement Thanks to our partners
 
 *   A-Z Index
 *   Companies
