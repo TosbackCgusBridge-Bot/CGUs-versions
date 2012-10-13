@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 12, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: **U.S.**
+October 13, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 12, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
 *   FRONT PAGE
 *   Politics
     
-    *   Paul Ryan Workout Photos Revealed 5k
-    *   LIVE UPDATES: Joe Biden, Paul Ryan Face Off In Vice Presidential Debate 23k
-    *   Sarah Palin On Future Presidential Run: 'I'm Not Sure What The Future Holds' 2k
-    *   Joe Biden, Paul Ryan Clash In Vice Presidential Debate 19k
-    *   POLL: Who Won The Debate? 2k
+    *   Biden-Ryan Debate: It's All About Joe 42k
+    *   POLL: Who Won The Debate? 8k
+    *   Polls Mixed On Debate Winner 11k
+    *   Biden Calls Out Ryan For Stimulus Hypocrisy 16k
+    *   Romney, Ryan Rally In Ohio 7k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 12, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Gay Voices
 *   Business
     
-    *   Mitt Romney: People Don't 'Die In Their Apartment Because They Don't Have Insurance' 16k
-    *   World's Richest Man Making Money Off Giving Things To Poor People 8k
-    *   Super-Rich CEO To Workers: You're All Fired If Obama Wins 25k
-    *   WATCH: Another Ex-CEO Backs Welch's Delusional Theory 1k
-    *   'Save Money, Live Better?' Walmart To Pay Full Costs For Workers' Surgeries At Prestigious Hospitals 229
+    *   Family Time At The Ryans Could Be #AWKWARD 4k
+    *   FBI: 'Large Amount' Of Newly Designed $100 Bills Stolen At Philadelphia International Airport 235
+    *   Mitt Romney: People Don't 'Die In Their Apartment Because They Don't Have Insurance' 17k
+    *   Anti-Obama CEO On His Employees: 'They're Like My Children, And I'm The Jewish Mother' 696
+    *   FACT CHECK 146
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 12, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Crime
 *   Entertainment
     
-    *   Stevie Nicks Threatens Nicki Minaj: 'I Would Have Killed Her' 1k
-    *   Uma Thurman Joins Hardcore Sex Film 824
-    *   Rihanna Reveals Album Art, Title 101
-    *   Stacy Dash Defends Mitt Romney Support: 'I Really Don’t Understand The Fury' 3k
-    *   LISTEN: Kanye Debuts 'White Dress' 61
+    *   Lindsay Lohan Is Voting For Romney 4k
+    *   'Friday Night Lights' Creator RIPS Romney Over Slogan 4k
+    *   GUESS WHO 42
+    *   WATCH: Lana Del Rey's Epic Video 157
+    *   Is The New Jonas Brothers Song About Miley Cyrus?
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 12, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Moviefone
 *   Tech
     
-    *   The 21 Most Outrageous Cases For Your iPhone 5
-    *   Rachel Haot, New York's Digital Czar, Is The Woman Behind Bloomberg's Tech Vision 129
-    *   11 Ways To Get More Battery Life Out Of Your iPhone 5 123
-    *   'What Apple Has Learned Is That Maps Are Really Hard' 158
-    *   New Site Identifies People Posting 'CreepShots' To Reddit 715
+    *   The 21 Most Outrageous Cases For Your iPhone 5 30
+    *   REPORT: Apple May Release A New iPad Later This Month 227
+    *   7 Reasons Why We Act Differently Online 58
+    *   The Galaxy S3 Mini Is Here! 25
+    *   The 13 Most Awkward Pets Of Facebook
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 12, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Joystiq
 *   Media
     
-    *   Robin Roberts Released From Hospital 638
-    *   AP Apologizes Over Insta-Classic Romney Pic 2k
-    *   Martha Raddatz Gets Accolades For Debate Performance 1k
-    *   WATCH: Soledad O'Brien Smacks Down RNC Chairman 2k
-    *   Ann Romney Guest Hosts 'Good Morning America' 1k
+    *   Martha Raddatz Gets Accolades For Debate Performance 6k
+    *   Erica Hill Joins NBC News 197
+    *   Fox News Goes Off On Biden: 'Rude,' 'Unhinged,' 'Cranky Old Man' 6k
+    *   PHOTOS: How Newspapers Covered Biden-Ryan Showdown 454
+    *   WATCH: Matthews Confronts Obama Heckler 2k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 12, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Moviefone
 *   World
     
-    *   Masked Gunmen Reportedly Kill U.S. Embassy Employee 2k
-    *   Notorious Drug Lord Killed By Accident 142
-    *   Hezbollah Claims Responsibility For Drone Downed Over Israel 1k
-    *   Teen Activist's Shooting Sparks Outrage Across Pakistan 4k
-    *   Mexican Drug Cartels Flood U.S. With Cheap Meth 393
+    *   European Union Wins Nobel Peace Prize 1k
+    *   Next Days Will Be Critical For Malala 269
+    *   Forbidden Love Story Sends Message Of Hope
+    *   Israeli Soldier Held By Hamas For 5 Years Speaks Out 394
+    *   Report: Human Rights Activists In Iran Raped And Tortured 250
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 12, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Religion
 *   Healthy Living
     
-    *   Your Body's Secret Weight-Loss Weapons 15
-    *   Superfoods For Breast Health 40
-    *   6 Surprising Signs You Need More Sleep 84
-    *   The Best Health News Ever
-    *   Make Over Your Breakfast: Healthy Updates To 13 Classics
+    *   6 Surprising Signs You Need More Sleep 99
+    *   Make Over Your Breakfast: Healthy Updates To 13 Classics 17
+    *   The Best Health News Ever 13
+    *   You'll Never Guess What Joe Biden Ate Pre-Debate 91
+    *   The Best Natural Sources Of Vitamin D 14
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 12, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Religion
 *   Style
     
-    *   Bra Sizes Up Three Sizes In Just Two Years, According To Study 130
-    *   PHOTO: Sexy Ursula Halloween Costume Sparks Controversy Over Plus Sizes 216
-    *   PHOTO: Katie Holmes Wears Leggings As Pants 356
-    *   Jennifer Aniston To Shill Hair Products For Living Proof 75
-    *   PHOTOS: Bill &. Hillary Clinton PDA-Fest 14
+    *   PHOTOS: Lindsay Lohan's Hair Is The Wrong Color 241
+    *   Jennifer Aniston To Shill Hair Products For Living Proof 112
+    *   PHOTOS: Bill &. Hillary Clinton PDA-Fest 43
+    *   PHOTOS: Janna Ryan And Jill Biden Embrace Color At The VP Debates 66
+    *   PHOTO: Katie Holmes Wears Leggings As Pants 415
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 12, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Post 50
 *   Comedy
     
-    *   WATCH: Letterman's Warning For Mitt Romney 1k
-    *   This Is What Every Obama Supporter Has Had To Deal With Since The Debate 326
-    *   7 Sites You Should Be Wasting Time On Right Now
-    *   25 Hilarious Joe Biden Parodies 15
-    *   PHOTO: Vanity Plate Goes Horribly Wrong 51
+    *   'How Do These F\*cking Crazy People Make It To The National Stage?' 2k
+    *   21 Punny Halloween Costume Ideas
+    *   PHOTO: This Church Wins Halloween 89
+    *   WATCH: Letterman Says 'Bro' &. 'Cool' A Lot 936
+    *   7 Sites You Should Be Wasting Time On Right Now 12
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 12, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   College
     *   Arts
 *   LIVE
-    *   Next VP Debate Recap Domestic
-    *   Next VP Debate Recap Foreign
-    *   Coming Up 3rd Party VP Debate
-    *   Coming Up 3rd Party VP Debate
-    *   Coming Up I'm BoredGo to HuffPost Live
+    *   Next Pretty Slick
+    *   Next Office Politics
+    *   Later No Red Cities
+    *   Later No Escaping The Taliban
+    *   Later Pirates Or Pioneers?Go to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
