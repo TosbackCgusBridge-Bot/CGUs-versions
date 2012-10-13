@@ -17,7 +17,7 @@ Sponsored Links advertisement Decorating &. Ideas
 
 More Decorating &. Ideas Kitchens &. Entertaining
 
-*   Rack of Pork with Baked Fava B...
+*   Rack of Pork with Fava Beans
 *   A Humble and Homey Kitchen
 *   Kitchen of the Year Highlights
 
@@ -53,7 +53,7 @@ More What's New Featured
 
 More Featured Recipes
 
-*   Rack of Pork with Baked Fava B...
+*   Rack of Pork with Fava Beans
 *   A Twist on Niçoise Salad
 *   Favorite Fall Recipes
 
