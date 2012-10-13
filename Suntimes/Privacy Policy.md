@@ -63,7 +63,7 @@ Metering is ON
 
 suntimes
 
-Friday, October 12, 2012
+Saturday, October 13, 2012
 
 Search Search Site All Papers YAHOO!
 
@@ -82,7 +82,7 @@ Search Search Site All Papers YAHOO!
     
     *   Daily Splash
     
-    *   Cause and Event
+    *   Cause &. Event
     
     *   Election 2012
     
@@ -363,7 +363,7 @@ Search Search Site All Papers YAHOO!
     
     *   Daily Splash
     
-    *   Cause and Event
+    *   Cause &. Event
     
     *   Stage
     
