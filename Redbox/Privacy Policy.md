@@ -224,4 +224,4 @@ Preview &. reserve movies! Get the app:
 
 iPhone · Android
 
-© 2012, Redbox Automated Retail, LLC. All rights reserved. Use of this service and this website constitutes acceptance of our Rental Terms, Terms of Use and Privacy Policy.
+© 2012, Redbox Automated Retail, LLC. All rights reserved. Use of this service and this website constitutes acceptance of our Rental Terms, Ticket Sales Terms, Terms of Use and Privacy Policy.
