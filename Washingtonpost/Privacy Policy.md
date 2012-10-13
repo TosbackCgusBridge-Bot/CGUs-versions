@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **The vice presidential debate in...**  
-        Election 2012 | Theresa Poulson
+    *   **Shot fired at Obama campaign office...**  
+        Election 2012 | Vanessa Williams
     
-    *   **Fact checking the vice-presidential...**  
+    *   **Fact checking the VP debate**  
         The Fact Checker | Glenn Kessler
     
-    *   **Are women jumping off the Obama...**  
+    *   **The big dog in his natural habitat...**  
         She The People | Melinda Henneberger
     
-    *   **The Biden-Ryan debate, and the...**  
-        The Fix | Aaron Blake
+    *   **Report: Feds investigating Jesse...**  
+        The Fix | Sean Sullivan
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **Thanksgiving dinner with Uncle...**  
+    *   **Lindsay Lohan and Wendyâs**  
         ComPost | Alexandra Petri
     
-    *   **And now, Joe Bidenâs turn**  
-        The Plum Line | Jonathan Bernstein
+    *   **Open Thread**  
+        The Plum Line | Greg Sargent
     
-    *   **Fridayâs p-Op quiz**  
-        PostPartisan | Jonathan Capehart
+    *   **I'm still ignoring the electoral...**  
+        PostPartisan | Jonathan Bernstein
     
-    *   **Morning Bits**  
+    *   **Friday question?**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,16 +72,16 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: After possible...**  
-        Capital Weather Gang | A. Camden Walker
+    *   **D.C. area forecast: Cool today...**  
+        Capital Weather Gang | Ian Livingston
     
-    *   **âArgoâ and more new movies**  
-        Going Out Gurus | Jess Righthand
+    *   **âNuts About the Natsâ vs. âOrioles...**  
+        Going Out Gurus | Brandon Weigel and Alex Baldinger
     
-    *   **Suspects in Hill attack due in...**  
-        Crime Scene | Maggie Fazeli Fard
+    *   **D.C. police turn to video to help...**  
+        Crime Scene | Peter Hermann
     
-    *   **Former Redskins linebacker pitches...**  
+    *   **Contributions to Marylandâs gambling...**  
         Maryland Politics | John Wagner
 *   Sports In Sports
     
@@ -100,13 +100,13 @@
     *   **Braden Holtby feels âfortunate...**  
         Capitals Insider | Washington Post Sports Editors
     
-    *   **Jayson Werthâs home run, from the...**  
+    *   **Nats season ends**  
         DC Sports Bog | Dan Steinberg
     
-    *   **Adrian Peterson returns to FedEx...**  
+    *   **Robert Griffin III expected to...**  
         The Insider | Mike Jones
     
-    *   **The Nationals enter Game 5 against...**  
+    *   **Adam LaRoche, Nationals hope to...**  
         Nationals Journal | Adam Kilgore
 *   National In National
     
@@ -123,14 +123,14 @@
     
     Blogs &. Columns
     
-    *   **Innovation in the most unexpected...**  
-        Ideas@Innovations | Dominic Basulto
+    *   **NASA: Mars rock holds âsurprisesâ**  
+        Ideas@Innovations | Emi Kolawole
     
-    *   **Leadership profiles of Joe Biden**  
+    *   **The test Biden and Ryan needed...**  
         PostLeadership | Jena McGregor
     
-    *   **Billy Graham prays with Mitt Romney**  
-        Under God | Jeannine Hunter
+    *   **Ryan: âI donât see how a person...**  
+        Under God | Georgetown/ On Faith
 *   World In World
     
     *   Africa
@@ -145,17 +145,17 @@
     
     Latest Stories
     
-    *   **EU wins 2012 Nobel Peace Prize**  
-        Anthony Faiola and Michael Birnbaum
+    *   **Separatist fever rises in Spain**  
+        Edward Cody
     
-    *   **Pakistani schoolgirl shot by Taliban...**  
-        Jibran Ahmad
+    *   **In China, lessons in cronyism**  
+        William Wan
     
-    *   **Turkey says jet held Russian weapons**  
-        Liz Sly
+    *   **Islamic militants help seize missile...**  
+        Ben Hubbard and Zeina Karam
     
-    *   **Morsi moves to dismiss top prosecutor...**  
-        Abigail Hauslohner
+    *   **Chavez petrodollars fuel voter...**  
+        John Paul Rathbone
 *   Business In Business
     
     *   Economy
@@ -173,14 +173,14 @@
     *   **College can wait**  
         The Color of Money | Michelle Singletary
     
-    *   **GAO report: Wireless consumers...**  
+    *   **Defense Secretary Panetta speaks...**  
         Post Tech | Hayley Tsukayama
     
     *   **Why cheaper computers lead to higher...**  
         Steven Pearlstein
     
-    *   **Wonkbook: Everything you need to...**  
-        Wonkblog | Evan Soltas
+    *   **The 2012 Election by the Numbers...**  
+        Wonkblog | Dylan Matthews
 *   Tech In Technology
     
     *   Policy
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Mozilla re-releases Firefox 16**  
+    *   **Facebook makes quality control...**  
         Hayley Tsukayama
     
-    *   **GAO report: Wireless consumers...**  
+    *   **Defense Secretary Panetta speaks...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Savory strudel, use your noodle**  
-        All We Can Eat | Edward Schneider
+    *   **Baseball &. cupcakes: Smells like...**  
+        All We Can Eat | Tim Carman
     
     *   **Mo Yanâs Nobel Prize-winning writing...**  
         The Style Blog | Maura Judkis
     
-    *   **Learning foodâs value beyond nutrition**  
-        On Parenting | Janice D'Arcy
+    *   **Take the kids this weekend: RiverFest...**  
+        On Parenting | On Parenting
     
-    *   **Tony Mendez, the CIA agent behind...**  
+    *   **Hey, isnât that?: Stephen Breyer...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -237,16 +237,16 @@
     
     Blogs &. Columns
     
-    *   **Link: NSO disappoints in promising...**  
+    *   **Art: Two Lichtenstein retrospectives**  
         Classical Beat | Anne Midgette
     
-    *   **Octavia Spencer is writing a childrenâs...**  
+    *   **Peter Berg and Mitt Romney**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **âX Factorâ: Britney and LA judge...**  
+    *   **About 51 million people watch Biden-Ryan...**  
         The TV Column | Lisa de Moraes
     
-    *   **Supermanâs new team**  
+    *   **Drawing during brain surgery**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -266,11 +266,11 @@
 
 In the News
 
-*   EU wins Peace Prize
-*   VP debate
 *   Nationals
-*   Russian arms
-*   Huge cyberattack
+*   Nobel Peace Prize
+*   Tagg Romney
+*   RGIII
+*   âArgoâ
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -319,90 +319,94 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-VP debate: Winners and losers Biden, Ryan trade sharp words on foreign policy, economy during vice-presidential debate
+2012 MLB playoffs: Washington Nationals fall one strike short against St. Louis Cardinals in NLDS Game 5
 
-Dan Balz 
+Adam Kilgore 
 
-Biden rattles Ryan
+For Washington Nationals, first taste of MLB playoffs an awfully bitter pill
 
-Dana Milbank 
+::unspecified:: 
 
-Who won the debate? The Big Bird counterattack
+The big dog in his natural habitat: Clinton on the campaign trail Fed actions to reduce mortgage rates may be helping banks more than borrowers
 
-Charles Krauthammer 
+Danielle Douglas 
 
-The Biden-Ryan debate, and the art of not losing Al Gore has thrived as green-tech investor
+Romney says White House is âdoubling down on denialâ about Libya attack
 
-Carol D. Leonnig 
+Anne Gearan 
+
+Romney tries to bury Obama in ads
+
+Dan Eggen 
 
 Fact checking the vice-presidential debate
 
 Glenn Kessler 
 
-In VP debate, Biden seeks to repair damage from Obamaâs stumble
-
-Karen Tumulty 
-
-Baltimore Orioles top New York Yankees in ALDS Game 4 on J.J. Hardy double in 13th inning
-
-Preston Williams 
-
-Officials say they lacked authority over pharmacy involved in meningitis outbreak
-
-Lena H. Sun 
-
-Joe Biden and the âseniors enigmaâ
-
-Matt Miller 
-
-Worker commits suicide at Apple supplier Foxlink, report says
+Windows 8 up for pre-order: How to get it
 
 Hayley Tsukayama 
 
-Joe Biden, Paul Ryan duke it out in debate â and get schooled by Martha Raddatz
+Shot fired at Obama campaign office in Denver Obamaâs way with words
 
-Dan Zak 
+David Maraniss 
 
-In vice presidential debate, Biden puts Ryan on the defensive
+Report: Feds investigating Jesse Jackson Jr.'s finances NLDS scene: Retracing Game 5 between Nationals and Cardinals
 
-E.J. Dionne Jr. 
+Barry Svrluga 
 
-2012 vice-presidential debate: Vice President Biden and Rep. Paul Ryanâs remarks in Danville, Ky., on Oct.11 (running transcript)
+Bryce Harper homers, triples in Nationalsâ loss to Cardinals
 
-::unspecified:: 
+James Wagner 
 
-Biden did his job NLDS Game 4: Jayson Werth homer wins it for the Nationals in the bottom of the ninth
+Sen. Corker: Obama must have known what happened in Libya
 
-Adam Kilgore 
+Jennifer Rubin 
 
-Nobel Prize for literature winner Mo hopes for freedom for dissident Peace Prize winner Liu
+Defense Secretary Panetta speaks on cyberwarfare #thecircuit
 
-Associated Press 
+Hayley Tsukayama 
 
-With spirited veep debate, Biden, Ryan tee up issues that Obama, Romney will fight to finish
+Too big to maintain?
 
-Associated Press 
+George F. Will 
+
+GAO report: Wireless consumers donât know how location data are shared
+
+Hayley Tsukayama 
+
+Reading the texts between the lines
+
+Carolyn Hax 
+
+Smile when you say that
+
+Kathleen Parker 
+
+Five myths about political polls
+
+Jon Cohen 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  VP debate: Winners and losers
-    2.  Biden, Ryan trade sharp words on foreign policy, economy during vice-presidential debate
-    3.  Biden rattles Ryan
-    4.  Who won the debate?
-    5.  The Big Bird counterattack
+    1.  2012 MLB playoffs: Washington Nationals fall one strike short against St. Louis Cardinals in NLDS Game 5
+    2.  For Washington Nationals, first taste of MLB playoffs an awfully bitter pill
+    3.  The big dog in his natural habitat: Clinton on the campaign trail
+    4.  Fed actions to reduce mortgage rates may be helping banks more than borrowers
+    5.  Romney says White House is 'doubling down on denial' about Libya attack
 *   Top Videos
     1.  The Vice Presidential debate in two minutes
-    2.  The vice presidential debate we've already seen
-    3.  2012 Vice Presidential debate: Taxes
-    4.  2012 Vice Presidential debate: Abortion
-    5.  2012 Vice Presidential debate: Tone of campaign and closing remarks
+    2.  Nobel Prize in chemistry goes to two U.S. scientists
+    3.  Election 2012: The path to 270 electoral votes
+    4.  Man dies after winning live roach-eating contest in Florida
+    5.  2012 Vice Presidential debate: Taxes
 *   Top Galleries
-    1.  The 25 wealthiest and 25 least wealthy members of Congress
-    2.  Walk off, play on
+    1.  Washington Nationals super season comes to disappointing end
+    2.  Distinguished homes
     3.  Astronomy photos of the year
-    4.  Sharp exchanges between Biden, Ryan
-    5.  Georgetown's mascot-in-training
+    4.  The 25 wealthiest and 25 least wealthy members of Congress
+    5.  Nobel Peace Prize winners: Sometimes, there's no peace
 
 Today's Paper
 
@@ -412,13 +416,13 @@ Today's Paper
 
 Live Discussions
 
-Deconstructing dinner
+There are no discussions scheduled today.
 
-Live Q&A transcript
+The 2012 vice presidential debate: Who won?
 
-Jenny Rosenstrach, author of “Dinner: A Love Story” took questions about everything related to family dinners, from planning to picky eaters to mealtime conversation.
+Q&A Transcript
 
-**11:00 AM** **Real Wheels Live** **11:00 AM** **The Fix Live** **12:00 PM** **Carolyn Hax Live: Advice columnist tackles your problems (Friday, October 12)** **12:00 PM** **The 2012 vice presidential debate: Who won?** **12:00 PM** **Thoughts about the Nobel Peace Prize?** **1:00 PM** **The Latest in TV with Lisa de Moraes**
+Associate editor Bob Kaiser chatted with readers about the vice presidential debate.
 
 **Weekly schedule, past shows**
 
