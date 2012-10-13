@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Barefoot Contes... UP NEXT › Barefoot Contes...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Planet Cake UP NEXT › Cupcake Wars
 
 *   Channel  
     Guide
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   @\_lydiabtr will have to check that one for you. On the case...
+*   Well that's true! Can't complain... RT @chillipuss: @FoodNetwork\_UK @GuyFieri it's dinner time all the time on Food Network !!
+*   A big #FF to Andy Bates aka @eatmypies for his brilliant new series #StreetFeastsUSA Check it out here t.co/R7NDb1hh
+*   Us too! Is it dinner time yet? RT @chillipuss: @FoodNetwork\_UK just watching @GuyFieri DDD making me Hungry!
+*   Turn up the heat on your meals this weekend. whether you prefer a korma or a madras, we've got the curry for you: t.co/gwSW7DcL
+*   Recipe of the Day: Chocolate Cupcakes with Two-tone Chocolate Frosting. The perfect treat for @chocolateweek! t.co/Ylr4LsOn #recipe
 *   Watch Andy Bates American Street Feasts weekdays, 12:30 &. 18:30 for the best in American street food: t.co/hxdGPYti #StreetFeastsUK
 *   80 delicious Andy Bates recipes: t.co/OastJtSJ #recipes
 *   @KERB\_ Had some great street food recently? Tweet a pic &. tag with #StreetFeastsUSA + #vendorsname to add it to our map t.co/RLqvKx2I
 *   Love the badge ;) RT @jackshilling @FoodNetwork\_UK Crispy Chicken. Unbelievable! #StreetKitchen #StreetFeastUSA t.co/abIpwI0v
-*   @cookinacurry wowsers, that looks fancy. Where'd you go?
-*   Believe the hype. @Streetkitchen's crispy chicken is chicken like you've never tasted before #whatdidyoueatforlunch
-*   Recipe of the Day: Pumpkin Seafood Chowder t.co/ksfJxkDT
-*   @tonguencheeks Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #TonguenCheek!
-*   @ElKantina Don't forget to get your customers tweeting pics of their street feasts today using #StreetFeastsUSA and #ElKantina!
-*   @NYDeliCardiff Great job with all the pictures! Keep them coming! #StreetFeastsUSA
 
 Follow Us
 
