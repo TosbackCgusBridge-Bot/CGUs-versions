@@ -129,4 +129,6 @@ About Us © 2012 Thomas Publishing Company. All rights reserved. See Terms and C
 
 Thomas Register® and Thomas Regional® are part of ThomasNet.com.
 
+ThomasNet Is A Registered Trademark Of Thomas Publishing Company.
+
 About Us | Sign Up | Log In | Deal of the Day | Promote Your Business
