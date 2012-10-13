@@ -1,6 +1,6 @@
 Access Hollywood  
 
-*   **HOT NOW:** Is Bobbi Kristina Brown Engaged?
+*   **HOT NOW:** Stars React To VP Debate
 
 *   WATCH
 *   NEWS
@@ -141,15 +141,17 @@ Access Hollywood Live
 
  
 
-**Lauren Conrad Talks New Boyfriend**
+**Gene Simmons Talks Daughter’s ‘X Factor’ Appearance  
+**
 
-Lauren also dishes on her two new books, “Beauty” and “Starstruck.”
+What did Gene think of his daughter Sophie’s “X Factor” audtion? Plus, the singer dishes on married life.
 
  
 
-**Meet The New (And Hot!) Price Is Right Male Model Rob Wilson**
+**Scott Baio Talks Being A Republican In Hollywood  
+**
 
-Plus, Kit Hoover goes wild when Rob goes shirtless and shows off his toned body!
+The former “Happy Days” star doesn’t believe anyone should be bashed for their beliefs. explains why he’s voting for Mitt Romney.
 
  
 
@@ -168,10 +170,10 @@ Healthy Hollywood
 
  
 
-**Ask Keri Glassman!  
+**Joy Bauer Fights Supersize Portions!  
 **
 
-This week’s diet/nutrition question — does cinnamon really help you lose weight?
+As part of NBC’s Healthy Week, nutrition expert and “Today” show contributor Joy Bauer took part in “Healthy Week’s Small Plate Movement.”
 
         Also Check Out:  
 
@@ -221,7 +223,7 @@ Urban Access
 
 **Urban Access**
 
-Vivica A. Fox is single, and enjoying it.
+La Toya Jackson hits back at suggestions made about her in Vanity Fair magazine.
 
  
 
@@ -243,7 +245,7 @@ Justin Bieber Fever!
 **Justin Bieber  
 **
 
-Genealogists at Ancestry.com say they’ve discovered teen idol Justin Bieber is a distant cousin of movie star Ryan Gosling and singer Avril Lavigne.
+A rep for Justin says his stolen laptop ordeal was no publicity stunt.
 
 *   About
 *   Contact
