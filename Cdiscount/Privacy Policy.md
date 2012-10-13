@@ -268,7 +268,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         3.  Chaine Hi-Fi
         4.  Instruments de Musique
         5.  DJ - Animation - Studio
-        6.  Gagnez un Iphone 4S
+        6.  Gagnez un Iphone 5
         7.  Kit blanchiment des dents
     *   *   Stations d'accueil
         *   Univers 3D
@@ -315,7 +315,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
             *   RÃ©pondeurs sans fil
             *   Talkie Walkie
         3.  TÃ©lÃ©copieurs - Fax
-        4.  Gagnez un Iphone 4S
+        4.  Gagnez un Iphone 5
         5.  Galaxy S3 Ã  gagner
     *   *   Offre remboursement
         *   Notre sÃ©lection
@@ -361,7 +361,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         5.  Accessoires Camescopes
         6.  Jumelles
         7.  Magazines Photo-video
-        8.  Gagnez un Iphone 4S
+        8.  Gagnez un Iphone 5
     *   *   Offres de remboursement
         *   DÃ©veloppement photo
     *   Tout le magasin Photo CamÃ©scope
@@ -776,7 +776,6 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         8.  Natation
         9.  Golf
         10.  500â¬ Ã  gagner !
-        11.  Foot : Places France-Japon
         
         1.  SPORTSWEAR
         2.  Sportswear
@@ -842,6 +841,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         4.  HygiÃ¨ne-Soin-BeautÃ©
         5.  Animalerie
         6.  Abos Magazines Gastronomie
+        7.  Gagnez une cure minceur
     *   *   Foire aux Vins
     *   Tout le magasin Vin Alimentaire
     
@@ -851,7 +851,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
   
 Conditions GÃ©nÃ©rales de Vente c mon espace client
 
-DerniÃ¨re mise Ã  jour : 08/10/2012Imprimer
+DerniÃ¨re mise Ã  jour : 12/10/2012Imprimer
 
 Article 1 : Champs dâApplication et Modification des Conditions GÃ©nÃ©rales de Vente Les prÃ©sentes conditions gÃ©nÃ©rales de vente sâappliquent Ã  toutes commandes passÃ©es sur le site Internet www.cdiscount.com.  
   
@@ -1916,6 +1916,8 @@ Ainsi, vous pourrez Ãªtre amenÃ©s :
 
         -         Soit Ã  adresser votre produit directement au fabricant afin que celui-ci prenne en charge la rÃ©paration de votre produit  
   
+  
+A noter: Pour les produits qui nous seront retournÃ©s en panne passÃ© le dÃ©lai de 9 mois suivant la livraison, une dÃ©cÃ´te de 2.4% sur le prix d'achat du produit et par mois d'utilisation (Ã  compter du 9Ã¨me mois) sera appliquÃ©e sur le montant du remboursement, dÃ¨s lors qu'il ne nous serait pas apportÃ© la preuve que la panne est inhÃ©rente aux produits. Cette dÃ©cÃ´te ne s'applique pas aux produits bÃ©nÃ©fiÃ§iant de la Garantie SÃ©rÃ©nitÃ©.  
   
   
 
