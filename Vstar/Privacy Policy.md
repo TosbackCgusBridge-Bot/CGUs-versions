@@ -620,8 +620,8 @@ Featured Promotions
 
 Videos Ojai artists open up their studios Oct. 13-14 Open-door policies
 
-*   Ojai artists open up their ... On Campus: Nordhoff's Close Crew Another dry year burdens water ... Simi Valley shopper nets $1,114 ...
-*   On Campus: Seraphs Finally Return ... On Campus: Camarillo Scorpions
+*   Ojai artists open up their ... Adoptable: Marley On Campus: Nordhoff's Close Crew Another dry year burdens water ...
+*   Simi Valley shopper nets $1,114 ... On Campus: Seraphs Finally Return ...
 
   
 
@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Ventura County school superintendents call Proposition 30 approval crucial Updated 10/11/2012 at 6:32 p.m. 64 comments
-*   Oxnard School District officials say Measure R needed to handle growth Published 10/10/2012 at 6:00 p.m. 54 comments
-*   VP debate could influence presidential race Updated 10/10/2012 at 5:52 p.m. 79 comments
-*   More than half of Ventura County schools meet state academic performance goal Updated 10/11/2012 at 4:20 p.m. 15 comments
-*   Vice presidential candidates try to score points during only debate Updated 10/11/2012 at 9:56 p.m. 46 comments
+*   Vice presidential candidates try to score points during only debate Updated 10/11/2012 at 9:56 p.m. 133 comments
+*   Authorities identify 2 people killed in Ventura crash Updated 10/12/2012 at 11:48 a.m.
+*   Majority of Ventura County schools meet test-score goal Updated 10/11/2012 at 4:20 p.m. 32 comments
+*   Young voters lead surge in online registration Updated 10/11/2012 at 7:28 p.m. 25 comments
+*   Supervisor Linda Parks takes on new political role of fact-checker Published 10/12/2012 at 8:16 p.m. 15 comments
 
-Photo Galleries Residents re-create 1940 Ventura… Ventura County's Most Wanted October 4th Local schools above state average
+Photo Galleries Ventura County's Most Wanted October… Ojai artists open up their studios… Residents re-create 1940 Ventura…
 
-*   Morning chat Published 10/9/2012 at 12:00 a.m. 151 comments
-*   VP debate could influence presidential race Published 10/10/2012 at 3:37 p.m. 79 comments
-*   Morning chat Published 10/10/2012 at 12:00 a.m. 76 comments
+*   Vice presidential candidates try to score points during only debate Published 10/11/2012 at 8:30 p.m. 133 comments
+*   VP debate could influence presidential race Published 10/10/2012 at 3:37 p.m. 63 comments
 *   Ventura County school superintendents call Proposition 30 approval crucial Published 10/11/2012 at 10:17 a.m. 64 comments
-*   Morning chat Published 10/11/2012 at 12:00 a.m. 67 comments
+*   Morning chat Published 10/10/2012 at 12:00 a.m. 76 comments
+*   Morning chat Published 10/11/2012 at 12:00 a.m. 72 comments
 
-*   Jane Laut prosecutor leaving DA's Office. trial postponed Published 10/2/2012 at 11:54 a.m. 0 comments
-*   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 35 comments
+*   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 36 comments
 *   Gas prices keep rising. average $4.55 in Ventura Published 10/4/2012 at 1:25 p.m. 125 comments
 *   Police arrest barricaded suspect in Ventura Published 10/3/2012 at 3:21 p.m. 0 comments
 *   Seaward Avenue crash kills motorcyclist in Ventura Published 10/9/2012 at 5:25 p.m. 0 comments
+*   Authorities identify motorcylclist killed in Ventura crash Published 10/10/2012 at 8:38 a.m. 0 comments
 
 Weather
 
@@ -660,26 +660,28 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 54° A Few Clouds Wind: Calm Today 66° 54° Fri 05:00 PM Partly Sunny Temp: 65° Sat 05:00 AM Mostly Clear Temp: 56° Sat 05:00 PM Mostly Sunny Temp: 69°
-
-Feels Like: 65°
-
-Humidity: 73%
-
-Precip: 9%
-
-Feels Like: 56°
-
-Humidity: 93%
-
-Precip: 5%
+Currently 54° Fair Wind: Calm Today 70° 55° Sat 05:00 PM Sunny Temp: 69° Sun 05:00 AM Clear Temp: 58° Sun 05:00 PM Sunny Temp: 75°
 
 Feels Like: 69°
 
 Humidity: 68%
 
-Precip: 3%
+Precip: 0%
 
+Feels Like: 58°
+
+Humidity: 93%
+
+Precip: 0%
+
+Feels Like: 75°
+
+Humidity: 55%
+
+Precip: 0%
+
+Reader Snapshots 10/12/12  
+1:45 a.m.  
 Is it Spring yet? 3/20/12  
 7:42 p.m.  
 Reader Snapshots 12/10/11  
@@ -688,8 +690,6 @@ Reader Snapshots 11/6/11
 8:10 p.m.  
 Reader Snapshots 11/6/11  
 8:00 p.m.  
-Untitled 3/24/11  
-8:18 a.m.  
 Untitled 3/24/11  
 8:18 a.m.  
 More Weather » Social
@@ -702,15 +702,15 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   Against 'wasteful,' but for 'anonymous'
 *   So this is what democracy is supposed to look like
 *   Lee Rogers' guerilla campaign in CD 25
 *   The tale of a tiger
-*   Here's how to listen in on AARP town hall
 
 Brian Dennert here
 
-*   Simi Valley School Board candidates forum
-*   The Education Foundation wants to lock me up
+*   Send in your campaign pictures
+*   Mark D'Allura is helping to raise money for local schools
 
 Ingemusings
 
@@ -724,24 +724,16 @@ More bloggers Wire
 
 Calendar
 
-*   Friday Oct 12
 *   Saturday Oct 13
 *   Sunday Oct 14
+*   Monday Oct 15
 *   More BROWSE Icon
 
-*   CI's MVS School of Business &. Economics presents next speaker for fall series CSUCI California State University noon
-*   Fears Gate Haunt Maze Various Locations - City of Oxnard 6:30 p.m.
-*   The Ballad of Billy Lee Plaza Playhouse Theater 7 p.m.
-*   "Death and Nicotine" a stage play Oxnard High School 8 p.m.
-*   FREQUENCY FRIDAY KICK-OFF PARTY Bombay Bar &. Grill 9 p.m.
-
-More Events »
-
 *   StoryFest Ventura Unified School District - Education Service Center 9 a.m.
+*   Arroyo Verde Park Trail Herb Walk Arroyo Verde Park 9 a.m.
 *   Bark in the Park Waverly Park 10 a.m.
 *   Community Free Flu Clinic Scheduled Los Robles Hospital &. Medical Center 10 a.m.
 *   The Golden California Antiques Show Glendale Civic Auditorium 1401 N Verdugo Rd Glendale, CA 91208 10 a.m.
-*   Classic Car Show at The Bonaventure The Bonaventure 10 a.m.
 
 More Events »
 
@@ -753,6 +745,14 @@ More Events »
 
 More Events »
 
+*   CI Announces "Politics to the Extreme" CSUCI California State University 9 a.m.
+*   Open Door Day Zimmer Children's Museum 10 a.m.
+*   Open Door Day Zimmer Children's Museum 10 a.m.
+*   Election Discussion Round Table Pizza - Camarillo 7 p.m.
+*   Conejo Valley Unified School Board Candidates Forum Conejo Valley Unified School District 7 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
@@ -761,13 +761,13 @@ More Events » Features
     
     Get prepared for November with candidate profiles and answers to your questions.
     
-    Local haunts
-    
-    Check out and add to our map of local Halloween haunts and events!
-    
     On Campus
     
     Video profiles of high school football programs.
+    
+    Local haunts
+    
+    Check out and add to our map of local Halloween haunts and events!
     
 *   95 percent accurate
     
@@ -785,13 +785,13 @@ More Events » Features
     
     Play our pro football picks contest for a shot at $500 and other prizes.
     
-    Morning Chat
-    
-    Come on in and chat freely without all those pesky stories getting in the way.
-    
     #Ojai: How I See It
     
     Your photos, your tweets, your Facebook posts about Ojai.
+    
+    Morning Chat
+    
+    Come on in and chat freely without all those pesky stories getting in the way.
     
 
 On this site:
