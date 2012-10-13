@@ -114,8 +114,8 @@ _Any comments?_ Send us your feedback Print this page Popular cities
 *   Flights to Orlando
 *   Flights to Los Angeles
 *   Flights to Miami
-*   Flights to Chicago
 *   Flights to Atlanta
+*   Flights to Chicago
 *   Flights to Fort Lauderdale
 *   Flights to Phoenix
 *   Flights to Honolulu
@@ -130,8 +130,8 @@ Popular countries
 *   Flights to Puerto Rico
 *   Flights to Dominican Republic
 *   Flights to Italy
-*   Flights to Australia
 *   Flights to Germany
+*   Flights to Australia
 
 Departure Gate
 
