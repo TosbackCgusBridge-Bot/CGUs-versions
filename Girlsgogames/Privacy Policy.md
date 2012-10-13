@@ -17,6 +17,8 @@ Free Online Girls Games on GirlsGoGames.com Sign Up for Free! or Sign In Hey ! S
 *   High-Score Games
 *   Mobile Games
 
+*   Fairy Games
+
 *   Adventure Games
 *   Animal Games
 *   Cooking Games
