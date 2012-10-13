@@ -691,13 +691,13 @@ contactos Telemundo TV Ahora
     
     Más de 70 fotos de cheerleaders de la NFL.
     
-*   ¡Enamórate de nuevo!
+*   Señales de que él te engaña
     
-    El divorcio no significa el fin de tu vida amorosa  
+    No se te va a escapar  
     
-*   Presentadores de la noche
+*   ¡De México y con amor!
     
-    Premios Billboard calienta motores
+    Una selección de las mujeres más bellas de México  
     
 *   Katy Perry - Mujer del Año 2012
     
