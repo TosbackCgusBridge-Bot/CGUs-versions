@@ -315,7 +315,7 @@ Don't miss Brands
 *   Men's >. Women's >.
 *   Men's >. Women's >.
 *   Men's >. Women's >.
-*   Men's >.
+*   Men's >. Women's >.
 *   Men's >. Women's >.
 *   Men's >. Women's >.
 *   Men's >. Women's >.
