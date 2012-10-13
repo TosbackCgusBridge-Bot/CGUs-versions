@@ -20,31 +20,31 @@ My Account
     *   Windows 7
     *   Qvc
     *   Office Max
+    *   Money
     *   Iphone
-    *   Coffee Makers
     *   Digital Cameras
+    *   Coffee Makers
     *   Camcorders
     *   At
     *   Se
     *   Radio Shack
-    *   Money
     *   Discount Tires
     *   Sears
     *   T Mobile
     *   Tax
     *   Www.yahoo.com
     *   Truck
-    *   Contact
     *   Ipod
     *   Att
+    *   Contact
     *   Leappad
     *   Costco
+    *   Flowers
     *   Mp3 Players
     *   Android Tablets
     *   Pressure Cookers
     *   Barnes And Noble
     *   Coupons
-    *   Value City Furniture
     *   More Top Searches
 *   Coupons See all coupons See all rebates
 *   Mobile Apps
@@ -189,7 +189,7 @@ Shop by Department
     *   Oral Care
     *   See More...
 *   Indoor Living Shop Indoor Living
-    *   Bedroom Comforters
+    *   Bedroom Comforters &. Duvets
     *   Dinnerware
     *   Shower Curtains, Hooks &. Rods
     *   Flooring
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1494 Local Deals
+*   1504 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
