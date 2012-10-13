@@ -32,7 +32,7 @@ Skip to Main Content Area Home   X Connect With Mitt Follow @MittRomney Login |
 *   News &. Media
     
     *   Featured Blog
-    *   Be On Tonight's Rapid Response Team Read More
+    *   Let’s Do This Read More
     *   More News
     
     *   Videos
