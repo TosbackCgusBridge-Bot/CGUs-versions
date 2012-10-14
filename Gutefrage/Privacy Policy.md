@@ -203,44 +203,44 @@ Registrieren Login
 9.  Skype
 10.  Steam
 
-Top-50 Themen Thema Anzahl Apple 82329 Arbeit 63606 Ausbildung 49138 Auto 89575 Beauty 67785 Beruf 76275 Beziehung 70442 Computer 528228 Computerspiele 63391 deutsch 65936 Englisch 51302 ErnÃ¤hrung 50037 essen 70200 Facebook 75573 Fernsehen 59525 Film 98335 Finanzen 58467 Freizeit 257467 FuÃball 50517 Games 122036 Geld 92031 Gesundheit 202666 Haare 80940 Handy 200473 Hilfe 145247 Internet 317800 iPhone 73628 Kinder 50289 KÃ¶rper 48900 Laptop 72090 Liebe 161888 Lied 53434 MÃ¤dchen 54933 Medizin 61893 Minecraft 66179 Musik 276560 PC 277364 PC-Spiele 47792 Problem 53962 PS3 58879 Recht 93987 Schule 231009 Software 56343 Spiele 134758 Sport 109141 Technik 118725 Tiere 64007 TV 53618 Video 51753 Youtube 81388 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 82452 Arbeit 63637 Ausbildung 49187 Auto 89651 Beauty 67831 Beruf 76319 Beziehung 70536 Computer 528724 Computerspiele 63492 deutsch 65993 Englisch 51338 ErnÃ¤hrung 50076 essen 70245 Facebook 75697 Fernsehen 59563 Film 98456 Finanzen 58489 Freizeit 257621 FuÃball 50546 Games 122176 Geld 92098 Gesundheit 202796 Haare 81045 Handy 200782 Hilfe 145465 Internet 318085 iPhone 73764 Kinder 50325 KÃ¶rper 48944 Laptop 72185 Liebe 162121 Lied 53516 MÃ¤dchen 55051 Medizin 61940 Minecraft 66333 Musik 276820 PC 277675 PC-Spiele 47844 Problem 54059 PS3 58969 Recht 94032 Schule 231177 Software 56384 Spiele 134937 Sport 109250 Technik 118833 Tiere 64054 TV 53660 Video 51817 Youtube 81515 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  111iso111
+1.  pXyTz
     
     Punkte:
     
-    598
+    969
     
     Level:
     
-    111iso111
+    pXyTz
     
 2.  larry2010
     
     Punkte:
     
-    579
+    798
     
     Level:
     
     larry2010
     
-3.  HansVader007
+3.  Othetaler
     
     Punkte:
     
-    547
+    617
     
     Level:
     
-    HansVader007
+    Othetaler
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.231.760 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.240.087 gute Fragen_
 
-*   34 hilfe, ich krieg den stÃ¤nder nicht mehr runter!
-*   26 Introvertiert? ...
-*   19 Wieso sind die BrÃ¼ste einer Frau fÃ¼r den Mann attraktiv?
+*   22 KONTER gesucht !!! - Bist du noch Jungfrau?
+*   19 Mein groÃer Bruder ist ein elender VerrÃ¤ter und ich hasse ihn!
+*   14 Ich muss ausziehen... Bin aber erst 16
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
@@ -254,23 +254,23 @@ gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.919.114
+1.922.554
 
 Anzahl der Fragen
 
-8.230.660
+8.238.995
 
 Anzahl der Antworten
 
-35.839.797
+35.866.768
 
 Anzahl der Tipps
 
-73.952
+74.021
 
 Anzahl der Videos
 
-4.650
+4.653
 
 Blog
 
