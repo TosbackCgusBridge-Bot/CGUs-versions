@@ -147,8 +147,10 @@ Examples of information you can access easily at Amazon.com include up-to-date i
 *   Manage Address Book
 *   Manage Your Kindle
 
-*   Kindle Help Forum
+Support
+
 *   General Help Forum
+*   Kindle Help Forum
 
 Contact Us Other Help Sites
 
