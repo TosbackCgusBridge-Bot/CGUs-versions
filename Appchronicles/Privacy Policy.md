@@ -21,17 +21,17 @@
     *   Best iPhone Apps
 *   Walkthrough
 
-  Best Free Apps of the Day!
+  Free Today! Photo Viva!
 
-Solar Walk, &. More!
+Powerful Photo Editor
 
-  Hot, New Games This Week!
+  New and Upcoming MMORPG's
+
+Arcane Legends, Armed Heroes, &. More!
+
+    Hot, New Games This Week!
 
 Crazi Taxi, Topia, &. More!
-
-    FIFA 13 Review
-
-Subtly Different, Still Great!
 
   Our Top Rated iPad Apps FIFA SOCCER 13  
   
