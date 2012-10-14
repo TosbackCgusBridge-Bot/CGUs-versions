@@ -126,11 +126,11 @@ Tell a friend:
 
 **Want Consumerist in your inbox?** Popular Posts
 
+*   McDonald's Ad Guy Explains The McRib's Holiday Timing: "We Don't Really Do Polar Bears"
 *   Homeowner Has To Share House With Squatter Because Police Can't Do Anything
+*   Google Won't Replace Your Broken Nexus 7 Until You Put Up $200 Collateral
+*   Starbucks CEO Howard Schultz Gives Local Manager A Ring To Thank Her For Doing A Good Job
 *   Disabled Vet Says Debt Collector Told Him "You Should Have Died"
-*   How Much Is The NFL Profiting From All This Pink Breast Cancer Awareness Merchandise?
-*   Dissident Walmart Workers Threaten Strikes And In-Store Protests On Black Friday
-*   Bank Of America Endorses Insurance Check, Won't Let Me Pay Contractor For 8 Days
 
 About Consumerist
 
