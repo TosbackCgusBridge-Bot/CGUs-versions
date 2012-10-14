@@ -4,7 +4,7 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] 20% off Purchase + $5 Shipping on all orders! Code: 35284
+\[hol-HomepageTopBannerEMS\] Last Day! 20% off Purchase + $5 Shipping on all orders! Code: 35284
 
 *   shop dudes
 
