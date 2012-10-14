@@ -145,10 +145,10 @@ Stories We Like
   Most Popular
 
 1.  My Proof of Heaven
-2.  The Joke’s on Joe
-3.  Ryan Solid, But One Major Mistake
-4.  Video Captured Libya Attack
-5.  The Car Crash Ryan Chose
+2.  Now It’s Obama’s Turn
+3.  Video Captured Libya Attack
+4.  Ryan Solid, But One Major Mistake
+5.  Losing Their Religion
 
   Other News Entertainment
 
@@ -159,23 +159,23 @@ Stories We Like
 
 Entertainment
 
-*   ‘Secret Avengers’: EW Exclusive! Learn the roster of Marvel’s new top-secret superteam
-*   Jon Hamm and Adam Scott film ‘The Greatest Event in Television History’ — VIDEO
-*   Sylvester Stallone and Robert De Niro will box once again. What are your favorite repeat performances?
+*   Christina Applegate hosts tonight’s ‘Saturday Night Live’: Talk about it here!
+*   ‘The Vampire Diaries:’ Where does the triangle go from here?
+*   This Week on Stage: A new ‘Cyrano,’ Tom Hanks, and a ‘Game of Thrones’ Khaleesi
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Census Bureau Seeks Advice On LGBT Populations
-*   Courtney Stodden Forced To Sleep Alone While Filming Her Reality Show Due To Child Labor Laws
-*   Why Is This Man Running For President Of The Internet?
+*   Leaked Reddit Chat Logs Reveal Moderators' Real Concern
+*   Where Todd Akin Is Coming From
+*   Even Palin's Ghostwriter Questions Palin Pick
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   No Swing State Firewall for Obama
-*   Lawmaker Now Claims Mistress Wasn't Actually Pregnant
+*   The Election Shop
 *   Latest Swing State Polls
+*   Strauss-Kahn Admits to Sex Parties
 *   **Get More from Political Wire**
 
 The Daily Beast
