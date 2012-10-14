@@ -241,7 +241,7 @@ Build &. Price Request a Local Quote Previous Model Year   SUPER DUTY
 
 Starting MSRP:
 
-$29,4551
+$29,8351
 
 Seating for:
 
@@ -313,7 +313,7 @@ Max. GVWR:
 
 Starting MSRP:
 
-$29,4551
+$29,8351
 
 Max. GVWR:
 
