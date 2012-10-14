@@ -143,27 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Benefits Of Vitamin C Resources
+*   Dealing With Emotional Eating Resources
 
   
-Stay in Touch With SparkPeople **The Best Fat-Burning Advice**
+Stay in Touch With SparkPeople **Quiz: Is it a Trick or a Treat?**
 
-Coach Dean has created an effective fat-burning strategy that really works!
+A couple of pieces of Halloween candy won't derail your healthy diet. But some tiny treats pack more fat and calories than others. Think you know what's in your favorite candies?
 
 Read More
 
+*   Self Control - Can it be taught?
+*   What's your "go to" type of workout?
 *   Specific Tips to get through the Weekend
-*   Weekends: The Dealbreaker
-*   Need Ideas for working out at home
 *   Relationships and a Healthy Lifestyle
-*   How do you overcome your "bad food" cravings?
+*   What does it mean to eat healthy?
 
-View Demo **Lying Hamstring Curls with Ball**  
-Work your inner thighs and hamstrings at the same time. **Chili Con Carne**  
+View Demo **Calf Raises with Chair**  
+No more balance worries! **White Chicken Chili**  
 Submitted By: **CHEF\_MEG**
 
-Families have gone to war over chili recipes! I love a thick, meaty chili with loads of beans and vegetables. Thankfully my family agrees!  
-  
+This chili is packed with flavor and fiber. Make a big batch for a crowd or freeze it in single-serving containers for up to 4 months.  
 Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
