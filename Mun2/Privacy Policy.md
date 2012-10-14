@@ -25,23 +25,23 @@ _Jump to Navigation_ ↓
     *   show archives
     *   interactive videos
 
-schedule right now: October 12 10:00 PM · FUGITIVOS DE LA LEY coming up next:
+schedule right now: October 14 01:00 AM · FUGITIVOS DE LA LEY coming up next:
 
-*   11:00 PM · BELLATOR FIGHTING CHAMPIONSHIPS
-*   1:00 AM · I LOVE JENNI
 *   2:00 AM · PARTY MIX
-*   3:00 AM · MORNING BREATH
 *   4:00 AM · MORNING BREATH
-*   5:00 AM · MORNING BREATH
-*   6:00 AM · SMB
-*   8:00 AM · MORNING BREATH
-*   9:00 AM · SCENARIOS USA
-*   9:30 AM · SCENARIOS USA
+*   6:00 AM · MORNING BREATH
+*   7:00 AM · WWE RAW EN ESPAÑOL
 *   10:00 AM · mun2 CINCO
-*   10:30 AM · JENNI RIVERA PRESENTS: CHIQUIS &. RAQ-C
-*   11:30 AM · 18 &. OVER
-*   1:00 PM · REVENTON
-*   2:00 PM · I LOVE JENNI
+*   10:30 AM · 18 &. OVER
+*   12:00 PM · REVENTON
+*   1:00 PM · I LOVE JENNI
+*   2:00 PM · CHIQUIS 'N CONTROL
+*   3:00 PM · LARRYMANIA
+*   4:00 PM · OPERACION REPO
+*   4:30 PM · OPERACION REPO
+*   5:00 PM · WWE RAW
+*   8:00 PM · FUGITIVOS DE LA LEY
+*   9:00 PM · LARRYMANIA
 
 see full schedule >>.
 
