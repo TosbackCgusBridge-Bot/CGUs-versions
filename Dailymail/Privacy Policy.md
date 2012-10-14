@@ -29,7 +29,7 @@
 
 *   Login
 
-Find a Job M&S Wine Our Papers Feedback **Saturday, Oct 13 2012** 12PM  **48°F** 3PM **51°F** 5-Day Forecast Privacy policy &. cookies  
+Find a Job M&S Wine Our Papers Feedback **Sunday, Oct 14 2012** 12PM  **60°F** 3PM **59°F** 5-Day Forecast Privacy policy &. cookies  
 
   
 
@@ -263,18 +263,18 @@ MOST READ NEWS
 *   3
 *   Next
 
-*   The terrifying world of child brides: Devastating images...
+*   The most inappropriate show of support: Madonna dedicates...
 *   Doctors 'decapitated baby during birth and tried to hide it...
-*   It IS Jessica: Police reveal dismembered child's body found...
-*   'I can't wait for our first date out!' Bengals cheerleader...
-*   Biden, his smirk and those $20,000 dentures join the...
-*   Moment BBC film crew is held at gunpoint after trying to...
-*   'I am a monster': Mother who beat her daughter, two, into a...
-*   A VERY risque friendship: She photographed him naked. He...
-*   Fugitive surgeon found living in a tent on a snowy mountain...
-*   Teen kills herself just one month after posting desperate...
-*   Still smiling, Joe? Romney extends poll lead as bullying...
-*   Woman, 20, denied job as restaurant 'Kilt Girl' because 'she...
+*   Turn away now if you believe in magic! Stunning photographs...
+*   Secrets of a Google Street View car driver: ‘I have to...
+*   The terrifying world of child brides: Devastating images...
+*   Boulevard of broken dreams: Artist captures women on...
+*   New James Bond installment Skyfall leaves critics shaken and...
+*   Aspiring actor and model charged with murder of missing...
+*   'Beaten with leather straps, raped, and killed': Former...
+*   Horror as worker is COOKED ALIVE in industrial oven at...
+*   Real estate executive arrested over murder of wife after...
+*   Times Square like you've never seen it before: Amazing...
 
   Share this article:
 
@@ -296,61 +296,65 @@ Sorry we are unable to accept comments for legal reasons.
 
 Bing Site Web Enter search term: Search     Femail Today
 
-*   **Goldie Hawn braves the world make-up free as she steps out in gym gear weeks before her 67th birthday** In Los Angeles
-*   **Miley Cyrus shows off her razor-sharp collar bones and slim waist in daring bralet and skyline skirt for Jay Leno** In a New York state of mind
-*   **Tangerine dream: Salma Hayek wears sexy orange dress while fixing Jimmy Fallon's necktie on the air** He was happy to get her help
+*   **'He thew me on the desk... it was really disgusting': Susan Sarandon reveals her casting couch horror as a young actress** Made revelation
+*   **Did he do the Carlton dance? Fresh Prince star Alfonso Ribeiro marries Angela Unkrich** Played Carlton Banks in the 90s TV show
+*   **Living doll! Porcelain skinned Katy Perry highlights her assets in a plunging gown** The Teenage Dream singer was at autism benefit
+*   **Too little, too late? Tom Cruise could be set to leave Church of Scientology in bid to win back Katie Holmes** One of the church's most high profile supporters
+*   **Mommy's little pumpkin! Hilary Duff takes Luca to pick out treats for his first Halloween** he looked a bit over awed...
+*   **We don't want you! Residents block the Kardashians from upmarket Miami suburb... forcing them to live in crime ridden area** Not wanted!
+*   **Peace at last? Beaming Lindsay Lohan bares her legs in tiny shorts as she continues to put her family fight behind her ** Has dyed her locks
+*   **How's that for 40! High kicking Christina Applegate throws her leg up to her head as she channels Bob Fosse on SNL** So impressive!
+*   **Something to Talk about! Sara Gilbert treats herself to $3.5m Hollywood Hills mansion** Went for bold yet sophisticated house
+*    **Just like daddy! Victoria Beckham gives tiny Harper a cute ponytail** Like father, like daughter 
+*   **'I'm happy to be thin': What Victoria Beckham told Cheryl Cole during their brief friendship** Cheryl tells all in her biography 
+*   **Dinner date! Amanda Seyfriend enjoys a night out in New York City with mystery man** Suffered a few romantic disappointments of late
+*   **Vinnie Jones caught out with gun-toting beauty... Lock, snog and two smoking barrels** Will have to explain it to his wife
+*   **Time for a rest! Holly Madison shows off her baby bump... as she prepares to retire from burlesque Peepshow** Motherhood agrees with her
+*   **Meet Missi: Miley Cyrus plays drawling Southern girl as she joins Ashton Kutcher on Two And A Half Men** Disney starlet has taken on a new role
+*   **Scarlett's blue after split from her 'Mad Man' Nate weeks after she was seen holding hands with her ex** Seen cuddling up to old flame Jared Leto
+*   **It's even bigger than mine! Now Kim Kardashian is caught pinching Khloe's bottom** Previously  spotted giving her boyfriend's bottom a squeeze
+*   **Back to being a kid!' Bar Refaeli builds castles in the sand with some tiny pals and shows off her impressive beach body in the process**
+*   **Eva Longoria shows off her legs in a feather bedecked quilted mini dress at BET's Black Girls Rock awards night** Choose unusual dress of pure white
+*   **William's relative refuses to let tourists stay at his French chateau where topless Kate pics were taken** Princess Margaret's son David Linley stayed loyal
+*   **Kelly had 2in trimmed off her waist and back - without the need for surgery. So where did all the fat go?** Amazing 'flab zapper'
+*   **She clearly doesn't feel the cold! Marion Cottillard braves the British weather in a LBD as she attends London Film Festival** Left her coat in France?
+*   **Rihanna's TV style show hits rock bottom and may not return for second series** Singer's UK show Styled To Rock could be axed 
+*   **Let's hope it lasts! Kate Von D brands her new beau Deadmau5 with a star tattoo on his face... after a month together** Bit early for matching tattoos?
+*   **THAT'S how to do skinny jeans! Sofia Vergara shows off her world-famous curves in tight denims** The 40-year-old actress looked stunning
+*   **Becoming part of the family! Heidi Klum's new boyfriend Martin Kristen bonds with her father at children's football game** It must be serious!
+*   **'I just wanted to get out of the marriage': Cheryl Cole reveals she suffered 'nervous breakdown' after split from soccer star Ashley Cole**
+*   **Intruder arrested inside Kurt Cobain's daughter Frances Bean's house on suspicion of burglary** What an ordeal
+*   **Liv Tyler goes overboard with the Halloween preparations as she decorates her home with cobwebs and skeletons** Getting into the spirit
+*   **Bobbi Kristina to the rescue! Brown and boyfriend Nick Gordon come to the aid of man collapsed in parking lot** Pair rushed to help
+*   **Gwen Stefani dresses in pumpkin orange as she takes her mini Batman and little Native American to a Halloween party** So adorable
+*   **That's better! Chloe Moretz wipes off the fake blood to join Carrie co-star Julianne Moore at Comic Con** Much more at home all glammed up 
+*   **Bare faced Amy Smart ditches the makeup as she dresses down for shopping trip** Decided to give her skin a rest as she headed out to lunch with a friend
+*   **Downcast Halle Berry spends time with Olivier Martinez... as Gabriel Aubry takes princess Nahla pony riding** Must have been missing her
+*   **First look: A brunette Portia de Rossi sports a spider dress as vampire Lily in trailer for Munsters TV reboot Mockingbird Lane** In the teaser trailer
+*   **She just loves her whiskey! Rita Ora cuddles up to a giant bottle of Jack Daniel's (and drinks some too)** Star is in Nasville
+*   **Troubled Mel Gibson turns to horse-whispering to beat his demons** The Braveheart actor checked intoexclusive Miraval Spa in Tucson
+*   **Elton plans a 'party to end all parties' with performances by Lady Gaga and Cher for husband David's 50th** Laid on a four-day birthday extravaganza
+*   **Madonna dedicates onstage striptease to Pakistani girl shot by Taliban** Made another controversial statement
+*   **'I could get you anything': Brad Pitt blasts the U.S. war on drugs as an 'incredible failure'** Promoting film that takes look at the war on drugs
+*   **On set scare: Emma Watson 'screamed in terror' when confronted by a stalker in the woods while filming new film**      
+*   **Sheer daring! Patti Stanger shows off svelte figure in see-through kaftan ** Also suffered a wardrobe malfunction in Miami
+*   **Even millionairesses love a bargain! Petra Ecclestone hits a 75 per cent off sale at designer store** She has a net worth of $300million
+*   **Easy rider! Robocop star Joel Kinnaman is at one with his motorbike as he films action scenes for remake** Actor, 32, looked fierce in his black body armour
+*   **Tired Cheryl Cole shows her natural beauty as she heads out with birthday boy Tre Holloway** Halfway through an exhausting tour
+*   **Octomom Nadya Suleman embarrasses herself onstage by 'breastfeeding' plastic dolls just hours after child neglect charges are dropped**
+*   **'Baby's first time on stage!': Shakira shakes her growing bump as she puts in energetic performance** Expecting her first child
+*   **Actor and presenter Gary Collins dies 'of natural causes' aged 74** Legendary TV actor and presenter died this morning
 *   **Kanye threw away everything else! Kim Kardashian recycles her favourite leather miniskirt for the THIRD time in less than a week** Out with sister Khloe  
     
-*   **Kate Upton flaunts her assets in a strapless dress at No premiere as family members confirm she's dating baseball player Justin Verlander** Turned heads in teal
-*   **Brangelina of their generation! Ashton Kutcher and make-up free Mila Kunis enjoy wholesome fun at New York Jets game** Against Houston Texans
-*   **Just hanging out in the neighborhood: Katie Holmes bumps into Ethan Hawke as he cradles daughter Indiana** On the streets of NYC
-*   **'Girlie-girl' Frances Bean goes for grunge with washed-out style reminiscent of father Kurt Cobain** Like father like daughter
-*   **Pale and interesting Khloe Kardashian ditches the fake tan and shows off her lily white legs on day out with bronzed sister Kim**       
-*   **Just the two of us: Halle Berry and Olivier Martinez go for a cosy meal in Beverly Hills** Some alone time as they enjoyed Japanese fare
-*   **Forget the meaty quadriceps we marvelled at during the Olympics... what women REALLY want is the Twiglet leg - as seen on Kate, Angelina and Demi**
-*   **Poor me! Kelly Osbourne hits back at 'a\*\*\*\*\*\*e' jibes after posting Twitter snap of herself relaxing in 'heavenly' Hawaii resort** Feeling sorry for herself
-*   **Catch me if you can! Rachel Zoe's son Skyler keeps his stylist mother on her toes as he dashes around Beverly Hills** Put through her paces
-*   **Been hitting the gym? Rihanna shows off her six pack in cropped T-shirt and low-slung trousers** Wearing a knotted T-shirt that exposed her abs
-*   **Retail therapy: Lindsay Lohan can't hide her smile on jewellery shopping excursion following family fights** Diamonds are a girl's best friend!
-*   **Oops... I did it again! Rob Kardashian's ex Adrienne Bailon flashes her underwear on raunchy photoshoot** In New York City
-*   **'Mark your calendars!' Kendall Jenner rallies fans for acting debut as she shares screen shot from Hawaii Five-0** Plays a retail assistant
-*   **Flower power! 90210's AnnaLynne McCord looks happy as a hippy while parading her pins in floral ensemble** Back to work on the hit show
-*   **'I have my best friend, my lover - but also my mentor': Kate Bosworth leans on movie director fiancé Michael Polish in magazine photoshoot** Do everything together
-*   **Copycat! Jennfer Garner takes daughter Seraphina to karate... just like older sister Violet** Has a beginner's white belt
-*   **Back to Broadway! Katie Holmes looks right at home with her theatre buddies as she attends photocall for her new play Dead Accountants** New direction for star
-*   **Real Housewives star Lisa Vanderpump targeted in $5million sexual assault lawsuit** Waitress at her restaurant 'assaulted by manager'
-*   **Quick change artist! Leighton Meester strips off her designer clothes in the middle of Gossip Girl set** The stars were set in New York
-*   **Trying it for size? Kim Kardashian has a play with Khloe Kardashian's eternity ring** She's looking at long-term love with Kanye West
-*   **That must have been one hot workout! Kim Kardashians exits gym wearing top with leather sleeves** Leather and treadmills do not usually mix well
-*   **She's back! Jennifer Lawrence reprises role as Hunger Games heroine in warrior dress and boots on set of Catching Fire sequel** Picking up her arrows
-*   **Miley Cyrus scissor-wielding intruder sentenced to a year and a half after being 'convicted of trespassing and resisting arrest'**
-*   **Introducing Mr and Mrs Cross! Newlyweds Amber Tamblyn and David Cross take a romantic stroll in Central Park** Married last weekend
-*   **Stolen computer, nude photo and a Twitter war: Justin Bieber's publicity stunt... all to plug launch of new video with Nicki Minaj** Sneaky PR tricks
-*   **'I gotta keep an eye out for Selena!' Nicki Minaj flirts with a gyrating Justin Bieber as the pair get wet and wild in his new music video Beauty And A Beat**
-*   **Running ragged: Shockingly thin Matthew McConaughey continues work on his frail frame as he sprints out of gym** Playing AIDS victim in new movie
-*   **'I sold it to an old guy on the street': Shirtless Ryan Lochte makes 30 Rock debut as a 'sex idiot' in new teaser** Joins Alec Baldwin and Nina Arianda on screen
-*   **I should Coco! Ms Austin bares her curves in pretty Bo Peep style lingerie** She kept her Twitter followers up to date with with raunchy snaps
-*   **Tory Burch sells beachfront Hamptons mansion for $11million - less than HALF the price she paid four years ago** Bought the Southampton property for $22.5million 
-*   **'I am f\*\*\*ing crazy!' Lana Del Rey turns promiscuous wild child in 10 minute cinematic video for new single Ride** Listen to her sixth single
-*   **Is it over for good? Emily Maynard and Jef Holm 'split following cheating and money spinning allegations'** Proposed to her earlier this year
-*   **Anne Hathaway and Amanda Seyfried look well and truly Les Miserables in new movie posters** It's the reason she chopped off her locks 
-*   **How to seduce a Victoria's Secret model: Miranda Kerr, Candice Swanepoel and their fellow Angels reveal what it takes to make them weak at the knees**
-*   **The 'vampire facelift' that keeps Anna Friel forever young** The 36-year-old actress said she regularly has the $800 treatment for anti aging
-*   **From a human Ken doll to the mother with L-cup breasts** A look at the most extreme cases of plastic surgery  
-    
-*   **She doesn't need make-up! Bare-faced Julianne Moore, 51, looks great without the aid of cosmetics as she steps out with husband Bart**
-*   **'50 Cent says you like it rough!' Gwyneth Paltrow and pelvic thrusting Cameron Diaz dedicate cheeky rap to Chelsea Handler** Actors were celebrating 
-*   **Octomom accused of allowing one of her children to sexually abuse another - but cops say she WON'T be charged** Explosive allegations 
-*   **'I feel like a bad-ass super spy!' Rose McGowan flaunts new fringe wearing clingy gym wear** Rose McGowan flaunted her new bob and bangs
-*   **His 'n' hers tattoos! Liam Hemsworth copies Miley Cyrus and has a line of President Roosevelt's 1910 speech inked on his arm** Revealed their inkings
-*   **If at first you don't succeed: Crotch-grabbing LaToya Jackson apes Michael as she joins Trump's Celebrity Apprentice All Star line up**
-*   **They really love me! Jennifer Lopez looks thrilled as she is mobbed by fans as she exits Italian hotel** As Casper showed off a geek chic look in specs
-*   **Sexy (in another) City! Sarah Jessica Parker and Kristin Davis party like Carrie and Charlotte at iconic LA gay club** Pair had attended the AmfAR gala
-*   **Scrunchie fan Hillary Clinton replaces outdated accessory with bejewelled hair tie (but is it actually any better?)** Upgraded her favorite scrunchies
-*   **What a skinny Minnie! Driver reveals her rail thin frame as she suffocates under a mountain of kitchen towel at grocery store** Spotted in Los Feliz, LA
+*   **Yes, it's the best Bond film ever! 007 reasons why Skyfall will give you the white-knuckle ride of your life** Bond is back to his best
 *   **First review of Skyfall: Daniel Craig as Bond is back and he's more dangerous than ever** The Mail's BAZ BAMIGBOYE says 007 is back on firm footing 
-*   **Epic Spanx fail! Brooke Shields' nude control pants exposed under flashing lights as she attends Cyrano de Bergerac debut** Actress in New York 
-*   **Taylor Swift leads revival in Shellys shoes by stepping out in three different styles from the brand that is making a come back** Popular in '80s and '90s 
+*   **How Skyfall blew the critics away** Latest Bond installment, directed by Sam Mendes, has left audiences shaken and stirred (in a good way)
+*   **Ladies in red! Real Housewives of Miami stars Lisa Hochstein and Adriana De Moura Sidi swap their bikinis for glamorous gowns as they hit the catwalk**
+*   **Brangelina of their generation! Ashton Kutcher and make-up free Mila Kunis enjoy wholesome fun at New York Jets game** Against Houston Texans
+*   **Skinnygirl turned party girl! Bethenny Frankel, 41, gets behind the decks to DJ as she promote her line of drinks** Night out clubbing 
+*   **Honey I shrunk the Housewife! Teresa Giudice appears to be TINY as she poses with oversize cutlery** Supporting the Small Plate movement
+*   **His favourite fashion advisor! Slimmed down Cory Monteith takes girlfriend Lea Michele with him on a shopping trip** In Beverly Hills
+*   **Kisses for Arthur! Selma Blair gets in the Halloween spirit as she visits the pumpkin patch** Spent some quality time with the only man in her life
 
     ADVERTORIAL FEATURES
 
