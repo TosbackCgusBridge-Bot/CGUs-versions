@@ -113,54 +113,54 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/13/2012 8:03 AM ET
+Updated: 10/14/2012 7:03 AM ET
 
-1.  1 How Wall Street made Paul Ryan
-2.  2 Mitt drawing larger crowds
-3.  3 Trump talks up Biden performance
-4.  4 Shot fired at Obama Denver campaign office
-5.  5 Twitter frowns on Joe Biden's laugh
-6.  6 Letter draws focus to Mitt tax plan
-7.  7 Joltin' Joe Biden wins the bout
-8.  8 Fact-checking the VP debate
-9.  9 Report: More trouble for Jackson Jr.
-10.  10 Panera vs. Cosi
+1.  1 PPP Ohio poll: Obama 51, Romney 46
+2.  2 Maher, Coulter mix it up
+3.  3 Debate fuels contraception rule foes
+4.  4 Battleground Tracking Poll: Dems less enthusiastic
+5.  5 Morgan Freeman cuts Obama ad
+6.  6 Murdoch knocks Romney TV shop (Updated)
+7.  7 Rand Paul goes national
+8.  8 Poll: Romney leads Obama in Maine congressional district
+9.  9 Psaki's Williamsburg tips
+10.  10 Veep debate sets the stage
 
-Updated: 10/13/2012 8:03 AM ET
+Updated: 10/14/2012 7:03 AM ET
+
+1.  1 Poll: Romney leads Obama in Maine congressional district
+2.  2 Maher, Coulter mix it up
+3.  3 Rand Paul goes national
+4.  4 Debate fuels contraception rule foes
+5.  5 Trump talks up Biden performance
+6.  6 PPP Ohio poll: Obama 51, Romney 46
+7.  7 How Wall Street made Paul Ryan
+8.  8 Mitt drawing larger crowds
+9.  9 Morgan Freeman cuts Obama ad
+10.  10 Battleground Tracking Poll: Dems less enthusiastic
+
+Updated: 10/14/2012 7:03 AM ET
 
 1.  1 Twitter frowns on Joe Biden's laugh
 2.  2 7 takeaways from the Danville debate
 3.  3 Joltin' Joe Biden wins the bout
-4.  4 Biden, Ryan clear the bar -- barely
+4.  4 Trump talks up Biden performance
 5.  5 Palin: Raddatz let Biden run wild
 6.  6 Fact-checking the VP debate
-7.  7 Trump talks up Biden performance
-8.  8 Mitt drawing larger crowds
-9.  9 Is Biden the new Gore?
-10.  10 Biden vs. Biden
-
-Updated: 10/13/2012 8:03 AM ET
-
-1.  1 Twitter frowns on Joe Biden's laugh
-2.  2 Paul Ryan pics spark dumbbell debate
-3.  3 Debate Commission dismisses Raddatz-Obama connection
-4.  4 7 takeaways from the Danville debate
-5.  5 Joltin' Joe Biden wins the bout
-6.  6 5 things to watch in VP debate
-7.  7 Unions struggle to help Obama
+7.  7 Poll: Romney leads Obama in Maine congressional district
 8.  8 Biden, Ryan clear the bar -- barely
-9.  9 Palin: Raddatz let Biden run wild
-10.  10 Fact-checking the VP debate
+9.  9 Mitt drawing larger crowds
+10.  10 Maher, Coulter mix it up
 
-Updated: 10/13/2012 8:03 AM ET
+Updated: 10/14/2012 7:03 AM ET
 
 1.  1 Twitter frowns on Joe Biden's laugh
 2.  2 Inside the campaign: The Romney rebellion
 3.  3 ICE decides not to detain Vargas
 4.  4 Debate Commission dismisses Raddatz-Obama connection
-5.  5 Glitch hits Stewart-O'Reilly debate
-6.  6 Battleground Tracking Poll: Dems less enthusiastic
-7.  7 Angst grows among Obama backers
+5.  5 Battleground Tracking Poll: Dems less enthusiastic
+6.  6 Angst grows among Obama backers
+7.  7 Glitch hits Stewart-O'Reilly debate
 8.  8 Paul Ryan pics spark dumbbell debate
 9.  9 Romney hits Obama on Big Bird focus
 10.  10 Unions struggle to help Obama
@@ -170,61 +170,55 @@ Updated: 10/13/2012 8:03 AM ET
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/13/2012 8:03 AM ET
+Updated: 10/14/2012 7:03 AM ET
 
-1.  1 Rand Paul gets in the 2012 game
+Updated: 10/14/2012 7:03 AM ET
 
-Updated: 10/13/2012 8:03 AM ET
+1.  1 Romney, Ryan hit Obama on China
+2.  2 Psaki's Williamsburg tips
+3.  3 Debate fuels contraception rule foes
+4.  4 Veep debate sets the stage
+5.  5 Maher, Coulter mix it up
+6.  6 Rand Paul goes national
 
-1.  1 Rand Paul gets in the 2012 game
-2.  2 Letter draws focus to Mitt tax plan
-3.  3 Senate 5: Money floods Kaine-Allen
-4.  4 Panetta: Cybersecurity action needed
-5.  5 How Wall Street made Paul Ryan
-6.  6 Clinton defends State on Benghazi
-7.  7 Biden's Medicare-Medicaid mix-up
-8.  8 Debating with the mute button on
-9.  9 Report: Secret Service agent arrested
-10.  10 Panera vs. Cosi
+Updated: 10/14/2012 7:03 AM ET
 
-Updated: 10/13/2012 8:03 AM ET
+1.  1 Romney, Ryan hit Obama on China
+2.  2 Psaki's Williamsburg tips
+3.  3 Debate fuels contraception rule foes
+4.  4 Veep debate sets the stage
+5.  5 Maher, Coulter mix it up
+6.  6 Rand Paul goes national
+7.  7 Letter draws focus to Mitt tax plan
+8.  8 Senate 5: Money floods Kaine-Allen
+9.  9 Newly public RFK documents shed light on Cold War
+10.  10 Panetta: Cybersecurity action needed
 
-1.  1 Rand Paul gets in the 2012 game
-2.  2 Letter draws focus to Mitt tax plan
-3.  3 Senate 5: Money floods Kaine-Allen
-4.  4 Panetta: Cybersecurity action needed
-5.  5 How Wall Street made Paul Ryan
-6.  6 Clinton defends State on Benghazi
-7.  7 Biden's Medicare-Medicaid mix-up
-8.  8 Debating with the mute button on
-9.  9 Report: Secret Service agent arrested
-10.  10 Panera vs. Cosi
+Updated: 10/14/2012 7:03 AM ET
 
-Updated: 10/13/2012 8:03 AM ET
-
-1.  1 Rand Paul gets in the 2012 game
-2.  2 Letter draws focus to Mitt tax plan
-3.  3 Senate 5: Money floods Kaine-Allen
-4.  4 Panetta: Cybersecurity action needed
-5.  5 How Wall Street made Paul Ryan
-6.  6 Clinton defends State on Benghazi
-7.  7 Biden's Medicare-Medicaid mix-up
-8.  8 Debating with the mute button on
-9.  9 Report: Secret Service agent arrested
-10.  10 Panera vs. Cosi
+1.  1 Romney, Ryan hit Obama on China
+2.  2 Psaki's Williamsburg tips
+3.  3 Debate fuels contraception rule foes
+4.  4 Veep debate sets the stage
+5.  5 Maher, Coulter mix it up
+6.  6 Rand Paul goes national
+7.  7 Letter draws focus to Mitt tax plan
+8.  8 Senate 5: Money floods Kaine-Allen
+9.  9 Newly public RFK documents shed light on Cold War
+10.  10 Panetta: Cybersecurity action needed
 
 Showing Last 7 Days
 
-Updated: 10/13/2012 8:03 AM ET
+Updated: 10/14/2012 7:03 AM ET
 
-1.  1 7 takeaways from the Danville debate
-2.  2 Joltin' Joe Biden wins the bout
-3.  3 Twitter frowns on Joe Biden's laugh
-4.  4 Biden goes after Ryan in VP debate
-5.  5 5 things to watch in VP debate
-6.  6 Angst grows among Obama backers
-7.  7 Inside the campaign: The Romney rebellion
-8.  8 A veep debate that could really matter
+1.  1 Rand Paul goes national
+2.  2 7 takeaways from the Danville debate
+3.  3 Joltin' Joe Biden wins the bout
+4.  4 Twitter frowns on Joe Biden's laugh
+5.  5 Biden goes after Ryan in VP debate
+6.  6 5 things to watch in VP debate
+7.  7 Angst grows among Obama backers
+8.  8 Inside the campaign: The Romney rebellion
 9.  9 Mitt: Obama has made U.S. less safe
 10.  10 Obama moves to lock in Latino vote
 
