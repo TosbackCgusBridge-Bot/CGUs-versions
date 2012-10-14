@@ -405,8 +405,6 @@ ADDITIONAL INFORMATION
 
 PacSun may link to unaffiliated third party websites. This Privacy Policy does not apply to unaffiliated third party websites. The examples contained in this Privacy Policy are illustrations only, and are not intended to be exhaustive. If you have questions regarding our Privacy Policy, please email us at info@pacificsunwear.com or contact Customer Service at 1-877-372-2786.
 
-**Free shipping** on any domestic order over $75 (or flat $7)
-
 Sign up for emails for  
 a chance to win $100 Details
 
