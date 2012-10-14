@@ -1,4 +1,4 @@
-save up to 30% on select Halloween costumes. plus free shipping when you spend $50. Halloween get a beautiful new look for fall with deals &. coupons on faves &. more. get beauty coupons oops, there is a problem
+save up to 50% on select Halloween costumes. plus, free shipping when you spend $50. Halloween free shipping on this year's must-have holiday toys! top toys oops, there is a problem
 
 Target.com requires **javascript** to be enabled.
 
