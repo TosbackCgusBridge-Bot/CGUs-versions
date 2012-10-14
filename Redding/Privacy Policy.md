@@ -174,6 +174,9 @@ Record Searchlight
 *   Cars
 *   Classified
 
+*   23-mile free fall from the edge of space. Launch time Sunday @ 5:00 am
+    
+
 Privacy Policy Redding.com Privacy Policy
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
@@ -267,25 +270,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   VP debate: Biden, Ryan at odds over nearly everything Published 10/12/2012 at 12:04 a.m. 183 comments
-*   Eyeball the size of a softball washes up on a Florida beach Published 10/12/2012 at 7:53 a.m. 24 comments
-*   Shingletown man slashes woman's throat in attempted murder, police say Published 10/12/2012 at 4:11 p.m. 13 comments
-*   Slips seen on Libya, Syria, auto bailout during VP debate Published 10/12/2012 at 12:08 a.m. 75 comments
-*   Passenger had murder directions on computer Published 10/12/2012 at 4:38 p.m. 16 comments
+*   Three wounded in early morning shooting, police say Published 10/13/2012 at 8:37 a.m. 49 comments
+*   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Updated 10/13/2012 at 2:28 p.m. 31 comments
+*   Ken Pereira: Nation needs more than Obama's smile Published 10/13/2012 at 12:00 a.m. 166 comments
+*   Unregistered transient sex offender nabbed after chase, police say Published 10/13/2012 at 8:49 a.m. 31 comments
+*   Carmen Shoffner: America needs new awakening Published 10/13/2012 at 12:00 a.m. 99 comments
 
-Photo Galleries Enterprise beats Foothill El Delicioso Burrito Central Valley beats West Valley in…
+Photo Galleries Enterprise beats Foothill El Delicioso Burrito 2010, The Year in Pictures
 
-*   Thomas Sowell: America's phony in chief Published 10/10/2012 at 12:00 a.m. 215 comments
-*   VP debate: Biden, Ryan at odds over nearly everything Published 10/12/2012 at 12:04 a.m. 183 comments
-*   Robert George: Obama re-election will doom America Published 10/11/2012 at 12:00 a.m. 109 comments
+*   VP debate: Biden, Ryan at odds over nearly everything Published 10/12/2012 at 12:04 a.m. 188 comments
+*   Ken Pereira: Nation needs more than Obama's smile Published 10/13/2012 at 12:00 a.m. 166 comments
 *   Election 2012: Biden, Ryan at each other on everything during VP debate Published 10/11/2012 at 8:16 a.m. 106 comments
-*   Jobless claims drop by 339,000, lowest level in four years Published 10/11/2012 at 7:03 a.m. 97 comments
+*   Robert George: Obama re-election will doom America Published 10/11/2012 at 12:00 a.m. 110 comments
+*   Carmen Shoffner: America needs new awakening Published 10/13/2012 at 12:00 a.m. 99 comments
 
 *   UPDATED: Cottonwood man killed his wife, admitted it during 911 call, deputies say Published 10/5/2012 at 2:18 p.m. 59 comments
 *   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 54 comments
 *   UPDATED: Sheriff: Teens burglarize Palo Cedro bank twice with tricks picked up from heist movies Published 10/7/2012 at 9:27 a.m. 64 comments
 *   New eagle cams in place as Patriot, Liberty return to Redding Published 10/4/2012 at 11:12 p.m. 3 comments
-*   Eyeball the size of a softball washes up on a Florida beach Published 10/12/2012 at 7:53 a.m. 24 comments
+*   Eyeball the size of a softball washes up on a Florida beach Published 10/12/2012 at 7:53 a.m. 27 comments
 
 Weather
 
@@ -293,25 +296,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 54° Fair Wind: NW 5mph Today 77° 54° Sat 05:00 PM Partly Sunny Temp: 76° Sun 05:00 AM Partly Cloudy Temp: 56° Sun 05:00 PM Mostly Cloudy Temp: 80°
-
-Feels Like: 76°
-
-Humidity: 35%
-
-Precip: 13%
-
-Feels Like: 56°
-
-Humidity: 80%
-
-Precip: 3%
+Currently 54° Fair Wind: S 4mph Today 80° 51° Sun 05:00 PM Mostly Cloudy Temp: 79° Mon 05:00 AM Mostly Clear Temp: 57° Mon 05:00 PM Cloudy Temp: 79°
 
 Feels Like: 79°
 
-Humidity: 30%
+Humidity: 34%
 
-Precip: 6%
+Precip: 2%
+
+Feels Like: 57°
+
+Humidity: 69%
+
+Precip: 7%
+
+Feels Like: 79°
+
+Humidity: 36%
+
+Precip: 9%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Saturday Oct 13
 *   Sunday Oct 14
 *   Monday Oct 15
+*   Tuesday Oct 16
 *   More BROWSE Icon
-
-*   McCloud Bike-toberfest Historic McCloud, CA 7 a.m.
-*   McCloud Bike-toberfest See Description 7 a.m.
-*   Weaver Basin Trail 50k, 30k, 10k Trinity High School - Weaverville 8 a.m.
-*   Wintu Audubon's Second Saturday Bird Walk at Shasta College Shasta College 8 a.m.
-*   Wintu Audubon's Second Saturday Bird Walk at Turtle Bay Turtle Bay Exploration Park 8 a.m.
-
-More Events »
 
 *   Branch 114 Antique Tractor Pull &. Show Nash Ranch 9 a.m.
 *   Fall 2012 Home and Holiday Show Shasta District Fair grounds 10 a.m.
@@ -353,6 +348,14 @@ More Events »
 *   Redding Chess Club See Description 5 p.m.
 *   Redding Duplicate Bridge Club meetings Senior Citizens Hall noon
 *   Raja Yoga Classes Center for Spiritual Living 7 p.m.
+
+More Events »
+
+*   Basic Physics Shasta Builder's Exchange 6 p.m.
+*   Foreclosure Alternatives Starbucks 6 p.m.
+*   Junior Fly Tying Classes See Description 6:30 p.m.
+*   Junior Fly Tying Classes See Description 6:30 p.m.
+*   Suicide Loss Support Group St James Church 7 p.m.
 
 More Events »
 
