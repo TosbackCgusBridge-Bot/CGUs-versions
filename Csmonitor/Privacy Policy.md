@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Zumba scandal: Will 'clients' in prostitution case be revealed? (+video)
-2.  Laughing Biden vs. polite Ryan: Who won? (+video)
-3.  Mars rover finds surprising rock, nuzzles it and shoots it with lasers
-4.  Romney plan: Rich to pay same share of taxes? Or $230,000 less?
-5.  10 cost-free ways to show your partner that you care
+1.  Bruce Springsteen rocks out for Barack Obama
+2.  Mars rover finds surprising rock, nuzzles it and shoots it with lasers
+3.  Mother gets 99 years for beating, gluing daughter: Has the US had it with bad parents?
+4.  Modern-day Puritans wring hands over Zumba Madam’s list of shame
+5.  'Looper': The ending explained
 
 About these ads
 
@@ -121,7 +121,7 @@ Editors' Picks:
 *   Alex Rodriguez benched: Will that help Yankees in decisive Game 5?
 *   Global News Blog: Good Reads: A lesson for democracy, lost and found on Google Earth, and the next Arab uprising
 
-_Photos of the day_ 10.12.12 » Photos of the Day 10/12
+_Photos of the day_ 10.13.12 » Photos of the Weekend 10/14
 
 **CSMonitor.com** on Facebook
 
