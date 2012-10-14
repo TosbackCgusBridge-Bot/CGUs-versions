@@ -474,9 +474,9 @@ SHOP BY COLLECTION
 *   Footwear
 *   All Collections
 
-Women'sBoard for Breast Cancer Collection
+Women'sPink Ribbon Aconcagua Vest
 
-Wear the ribbon. Support the cause. Limited edition collection to raise awareness of the importance of early detection.
+Wear the ribbon. Support the cause. Limited edition 550-fill down vest part of our partnership with B4BC.
 
 Shop Now Shop by Women's
 
@@ -550,9 +550,9 @@ Collections*   Mountain Heritage
 *   Steep Tech™
 *   All Collections
 
-Women'sPink Ribbon Osito Jacket
+Women'sGlitchin Down Jacket
 
-Wear the ribbon. Limited edition fleece jacket part of our partnership with Boarding for Breast Cancer.
+Alpine-ready, 800-fill down jacket with waterproof HyVent® exterior to keep you dry.
 
 Shop Now Shop by Men's
 
@@ -625,9 +625,9 @@ Collections*   Mountain Heritage
 *   Steep Tech™
 *   All Collections
 
-Men'sKannon Shell Jacket
+Men'sGlitchin Down Jacket
 
-Waterproof, breathable Summit Series® shell with FlashDry™ technology for superior wicking and breathability in the backcountry.
+Compressible 800-fill down jacket with a waterproof exteior to shed rain and snow.
 
 Shop Now Shop by Kids'
 
@@ -670,9 +670,9 @@ Activity*   Skiing
 
 Collections
 
-YouthGirls' Denali Thermal Jacket
+YouthBoys' Reversible Down Moondoggy Jacket
 
-Iconic style. Softer feel. High-loft fleece jacket with durable overlays in high-stress areas for lasting wear.
+Cozy up with cold weather in this durable, reversible, 550-fill down hooded jacket.
 
 Shop Now Shop by Equipment
 
