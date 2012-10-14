@@ -483,9 +483,9 @@ Email: webmaster@bodybuilding.com
   
 Related Articles
 
-*   The Best Of The Forums: December 11th, 2005.
-*   Coleman Ties Haney's Record With Eight Wins!
-*   Joe Weider's 2005 Olympia Weekend Press Release.
+*   New IPhone And Android App For Bodybuilding.com!
+*   Press Release: Bodybuilding.com Announces Exclusive 2012 Olympia Webcast
+*   2012 Olympia Weekend Coverage
 
 *   View All Gossip And News Articles
 
