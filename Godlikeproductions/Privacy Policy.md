@@ -1,5 +1,5 @@
   
-Users Online Now: **1,452** (Who's On?) Visitors Today: **503,033** Pageviews Today: **681,511** Threads Today: **219** Posts Today: **2,792** 08:14 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,574** (Who's On?) Visitors Today: **481,628** Pageviews Today: **679,204** Threads Today: **231** Posts Today: **3,209** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,16 @@ trinity@godlikeproductions.com
   
 News
 
+*   More than 300 PA National Guard troops prepare for deployment
+*   Ad Industry's Assault on "Do Not Track" Continues at the W3C Amsterdam Meeting
+*   China calls on U.S. and Japan to fix their finances
+*   Do Chinese Tech Firms Pose U.S. Security Threat?
+*   FBI reports 'large amount' of next version of $100 bills stolen
+*   FTC Close To Google Antitrust Case, Sources Say
+*   Report: Ukraine Trains Dolphins With Friggin’ Pistols on Their Heads
+*   Safer, more efficient, fusion-generated electricity is on the horizon
+*   A complex logic circuit made from bacterial genes
+*   Cops badly burn sleeping 12-year-old girl with stun grenade in SWAT raid
 *   How a man lived six months with no heart or pulse
 *   Netflix making 'Dreams' a nightmare for Obama
 *   George Clooney Calls First Amendment 'Unfortunate'
@@ -127,16 +137,6 @@ News
 *   Lawsuit claims jail guards flushed baby down toilet, joked about it
 *   Judge Caught Driving Drunk Allowed To Drive Home, Avoids DUI Charges
 *   DARPA Tests Drones That Refuel While Airborne
-*   How the CIA Used a Fake Sci-Fi Flick to Rescue Americans From Tehran
-*   How Do We Know We're Not Living Inside A Massive Computer Simulation?
-*   Scientists Detail A Diamond Encrusted Super-Earth
-*   Supreme Court to Rule on Patents for Self-Replicating Products
-*   Canada Joins TPP as a Second-Tier Negotiator: Entertainment Lobby Approves, Civil Society Does Not
-*   Meet Polaris, The First Ice-Drilling Lunar Prospector-Bot
-*   Dear Mystery Algorithm That Hogged Global Financial Trading Last Week: What Do You Want?
-*   Rape victim 'shocked' when court ordered her computer records
-*   Alex Karras, NFL great and MONGO from Blazing Saddles dies at 77
-*   U.S. House hearing investigates terror attack in Libya
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.017s (0 queries)
+Page generated in 0.037s (0 queries)
