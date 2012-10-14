@@ -64,4 +64,4 @@ If it is necessary to make changes to our online privacy policies, we will updat
 
 About Wells Fargo | Careers | Privacy, Security &. Legal | Report Email Fraud | Sitemap | Home
 
-© 1999 - Sat Oct 13 05:07:06 PDT 2012 Wells Fargo. All rights reserved. NMLSR ID 399801
+© 1999 - Sun Oct 14 05:06:45 PDT 2012 Wells Fargo. All rights reserved. NMLSR ID 399801
