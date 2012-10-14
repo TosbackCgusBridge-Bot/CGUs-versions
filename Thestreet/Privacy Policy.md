@@ -89,7 +89,7 @@ A NOTE FROM STEPHANIE LINK
 *   5 Dumbest
 *   iPad Mini Release Date
 
-pjava04.dc.thestreet.com Privacy Policy
+pjava05.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -249,8 +249,8 @@ DOW 13,328.85 2.46 0.02% NASDAQ 3,044.11 -5.30 -0.17% S&P 500 1,428.59 -4.25 -0.
 *   The Sad Story of Jack Welch in Retirement: Opinion
 *   10 Worst Cars of All Time
 *   Hemispherx ATM Withdrawals Raise A Red Flag
-*   10 Cult TV Shows Netflix Should Revive
 *   Microsoft Will Lose a War With Apple. So Will Google
+*   10 Cult TV Shows Netflix Should Revive
 
 Articles From Advertising Partners Free Newsletters from TheStreet
 
