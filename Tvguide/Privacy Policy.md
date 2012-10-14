@@ -137,10 +137,10 @@ more popular celebrities Most Popular Movies
 
 more popular movies Top Videos
 
-1.  Dexter
+1.  The Vampire Diaries
 2.  Gossip Girl
-3.  Watch the new cold open for Th...
-4.  Arrow
+3.  Arrow
+4.  Dexter
 5.  Supernatural
 
 more top videos
