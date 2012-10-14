@@ -19,7 +19,6 @@ Comedy Central
     *   South Park
     *   Tosh.0
     *   Workaholics
-    *   Premium Blend
 *   Stand-Up
     *   New York Comedy Festival
     *   Mash Up
@@ -41,10 +40,10 @@ Follow Us Facebook Twitter Follow @ComedyCentral
 
 *   · reply · retweet · favorite
 
-*   11:15PM Dodgeball: A True Underdog Story
-*   01:15AM Beverly Hills Cop
-*   03:30AM Cheech &. Chong's Still Smokin'
-*   05:00AM Paid Programming
+*   11:15PM Tosh.0
+*   11:45PM Brickleberry
+*   12:15AM South Park
+*   12:45AM Key &. Peele
 
 Full Schedule Privacy Policy &. Your California Privacy Rights
 
