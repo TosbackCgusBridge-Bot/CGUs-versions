@@ -53,7 +53,7 @@ LOGIN Connect Username Password Forgot your password?
 *   Bigpoint
 *   Legal information
 
-Registered: 293,852,883 LEGAL
+Registered: 294,022,105 LEGAL
 
 *   Legal information
 *   Data privacy
