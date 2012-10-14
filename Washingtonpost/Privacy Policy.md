@@ -23,8 +23,8 @@
     
     Blogs &. Columns
     
-    *   **Shot fired at Obama campaign office...**  
-        Election 2012 | Vanessa Williams
+    *   **Obama campaign says it surpassed...**  
+        Election 2012 | Gene Fynes
     
     *   **Fact checking the VP debate**  
         The Fact Checker | Glenn Kessler
@@ -55,7 +55,7 @@
     *   **I'm still ignoring the electoral...**  
         PostPartisan | Jonathan Bernstein
     
-    *   **Friday question?**  
+    *   **Morning Bits**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,8 +72,8 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Cool today...**  
-        Capital Weather Gang | Ian Livingston
+    *   **D.C. area forecast: Ending the...**  
+        Capital Weather Gang | Brian Jackson
     
     *   **âNuts About the Natsâ vs. âOrioles...**  
         Going Out Gurus | Brandon Weigel and Alex Baldinger
@@ -81,8 +81,8 @@
     *   **D.C. police turn to video to help...**  
         Crime Scene | Peter Hermann
     
-    *   **Contributions to Marylandâs gambling...**  
-        Maryland Politics | John Wagner
+    *   **Campaigns make last registration...**  
+        Virginia Politics | Laura Vozzella
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -100,14 +100,14 @@
     *   **Braden Holtby feels âfortunate...**  
         Capitals Insider | Washington Post Sports Editors
     
-    *   **Nats season ends**  
+    *   **MLBâs âstunningly stupid errorâ...**  
         DC Sports Bog | Dan Steinberg
     
-    *   **Robert Griffin III expected to...**  
+    *   **Trent Williams looking forward...**  
         The Insider | Mike Jones
     
-    *   **Adam LaRoche, Nationals hope to...**  
-        Nationals Journal | Adam Kilgore
+    *   **Mark DeRosa unsure about retirement...**  
+        Nationals Journal | James Wagner
 *   National In National
     
     *   Energy &. Environment
@@ -123,7 +123,7 @@
     
     Blogs &. Columns
     
-    *   **NASA: Mars rock holds âsurprisesâ**  
+    *   **Extreme skydiver Felix Baumgartner...**  
         Ideas@Innovations | Emi Kolawole
     
     *   **The test Biden and Ryan needed...**  
@@ -145,17 +145,17 @@
     
     Latest Stories
     
-    *   **Separatist fever rises in Spain**  
-        Edward Cody
+    *   **New Delhiâs Metro sees rise in...**  
+        Rama Lakshmi
     
-    *   **In China, lessons in cronyism**  
-        William Wan
+    *   **As U.S. looks to Asia, India demurs**  
+        Simon Denyer and Rama Lakshmi
     
     *   **Islamic militants help seize missile...**  
         Ben Hubbard and Zeina Karam
     
-    *   **Chavez petrodollars fuel voter...**  
-        John Paul Rathbone
+    *   **Separatist fever rises in Spain**  
+        Edward Cody
 *   Business In Business
     
     *   Economy
@@ -170,17 +170,17 @@
     
     Blogs &. Columns
     
-    *   **College can wait**  
+    *   **Saving strategies, before and after...**  
         The Color of Money | Michelle Singletary
     
     *   **Defense Secretary Panetta speaks...**  
         Post Tech | Hayley Tsukayama
     
-    *   **Why cheaper computers lead to higher...**  
+    *   **The judicial jihad against the...**  
         Steven Pearlstein
     
-    *   **The 2012 Election by the Numbers...**  
-        Wonkblog | Dylan Matthews
+    *   **The evolution of airfares, in one...**  
+        Wonkblog | Brad Plumer
 *   Tech In Technology
     
     *   Policy
@@ -191,7 +191,7 @@
     
     Blogs &. Columns
     
-    *   **Facebook makes quality control...**  
+    *   **TechBits: Quizlet**  
         Hayley Tsukayama
     
     *   **Defense Secretary Panetta speaks...**  
@@ -220,7 +220,7 @@
     *   **Take the kids this weekend: RiverFest...**  
         On Parenting | On Parenting
     
-    *   **Hey, isnât that?: Stephen Breyer...**  
+    *   **Read this: Rory Kennedy and the...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -246,7 +246,7 @@
     *   **About 51 million people watch Biden-Ryan...**  
         The TV Column | Lisa de Moraes
     
-    *   **Drawing during brain surgery**  
+    *   **MICHAEL CHABONâs NEW GROOVE: How...**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -266,11 +266,11 @@
 
 In the News
 
+*   Space shuttle
+*   Paul Ryan
+*   Jessica Ridgeway
 *   Nationals
-*   Nobel Peace Prize
-*   Tagg Romney
-*   RGIII
-*   âArgoâ
+*   Derek Jeter
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -319,94 +319,90 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-2012 MLB playoffs: Washington Nationals fall one strike short against St. Louis Cardinals in NLDS Game 5
+Obama, Romney face a truly crucial week
 
-Adam Kilgore 
+Dan Balz 
 
-For Washington Nationals, first taste of MLB playoffs an awfully bitter pill
-
-::unspecified:: 
-
-The big dog in his natural habitat: Clinton on the campaign trail Fed actions to reduce mortgage rates may be helping banks more than borrowers
-
-Danielle Douglas 
-
-Romney says White House is âdoubling down on denialâ about Libya attack
-
-Anne Gearan 
-
-Romney tries to bury Obama in ads
-
-Dan Eggen 
-
-Fact checking the vice-presidential debate
+The big dog in his natural habitat: Clinton on the campaign trail The marshmallow test, revisited Fact checking the vice-presidential debate
 
 Glenn Kessler 
 
-Windows 8 up for pre-order: How to get it
+Obama campaign says it surpassed 4 million individual donors UAE to send air ambulance for girl shot by the Taliban in case doctors send her abroad
 
-Hayley Tsukayama 
+Associated Press 
 
-Shot fired at Obama campaign office in Denver Obamaâs way with words
+Report: Feds investigating Jesse Jackson Jr.'s finances Shut up and play nice: How the Western world is limiting free speech
 
-David Maraniss 
+Jonathan Turley 
 
-Report: Feds investigating Jesse Jackson Jr.'s finances NLDS scene: Retracing Game 5 between Nationals and Cardinals
+LIVE BLOG: Felix Baumgartner tries record-breaking skydive again
 
-Barry Svrluga 
+Emi Kolawole 
 
-Bryce Harper homers, triples in Nationalsâ loss to Cardinals
+Win or lose, Paul Ryan is likely to have a big role in GOPâs future
 
-James Wagner 
-
-Sen. Corker: Obama must have known what happened in Libya
-
-Jennifer Rubin 
-
-Defense Secretary Panetta speaks on cyberwarfare #thecircuit
-
-Hayley Tsukayama 
-
-Too big to maintain?
-
-George F. Will 
-
-GAO report: Wireless consumers donât know how location data are shared
-
-Hayley Tsukayama 
-
-Reading the texts between the lines
-
-Carolyn Hax 
-
-Smile when you say that
-
-Kathleen Parker 
+Felicia Sonmez 
 
 Five myths about political polls
 
 Jon Cohen 
 
+Forget the fiscal cliff: U.S. has other possible economic threats looming
+
+Zachary A. Goldfarb 
+
+Too big to maintain?
+
+George F. Will 
+
+Television actor, former Miss America host Gary Collins dies at 74 in Mississippi
+
+Associated Press 
+
+In Spain, separatist fever rises in time of crisis
+
+Edward Cody 
+
+Biden 2016? It could happen, my friend.
+
+Jules Witcover 
+
+Date Lab: The great bathroom disappearing act
+
+Amanda McGrath 
+
+A 9-year-oldâs view of Scotland? Awesome!
+
+Paul Abercrombie 
+
+Navy submarine, Aegis cruiser collide during routine operations. no injuries, damage unclear
+
+Associated Press 
+
+Can you destroy a Rothko painting that is available everywhere?
+
+Kriston Capps 
+
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  2012 MLB playoffs: Washington Nationals fall one strike short against St. Louis Cardinals in NLDS Game 5
-    2.  For Washington Nationals, first taste of MLB playoffs an awfully bitter pill
-    3.  The big dog in his natural habitat: Clinton on the campaign trail
-    4.  Fed actions to reduce mortgage rates may be helping banks more than borrowers
-    5.  Romney says White House is 'doubling down on denial' about Libya attack
+    1.  Obama, Romney face a truly crucial week
+    2.  The big dog in his natural habitat: Clinton on the campaign trail
+    3.  The marshmallow test, revisited
+    4.  Fact checking the VP debate
+    5.  Obama campaign says it surpassed 4 million individual donors
 *   Top Videos
     1.  The Vice Presidential debate in two minutes
-    2.  Nobel Prize in chemistry goes to two U.S. scientists
-    3.  Election 2012: The path to 270 electoral votes
-    4.  Man dies after winning live roach-eating contest in Florida
-    5.  2012 Vice Presidential debate: Taxes
+    2.  'American Pie' singer Don McLean reveals all
+    3.  Shot fired at President Obama's campaign office in Denver
+    4.  Raw: Pakistan rallies around Taliban shot student Malala Yousufzai
+    5.  Joe Biden: Paul Ryan a 'gentleman,' but 'hardly agree with anything he says'
 *   Top Galleries
-    1.  Washington Nationals super season comes to disappointing end
+    1.  Romney on the campaign trail
     2.  Distinguished homes
-    3.  Astronomy photos of the year
-    4.  The 25 wealthiest and 25 least wealthy members of Congress
-    5.  Nobel Peace Prize winners: Sometimes, there's no peace
+    3.  "Roy Lichtenstein: A Retrospective": An expansive collection
+    4.  Astronomy photos of the year
+    5.  A crowning recovery
 
 Today's Paper
 
