@@ -174,7 +174,7 @@ coupon code: SHIP100
     *   Z
     *   ALL
 
-my fly OMG Sale! Now up to 80% Off All Sale Items\*
+my fly Super Sunday Sale! Plus $50 off $300\* with Code **SUPER**
 
 *   Shop Now
 
