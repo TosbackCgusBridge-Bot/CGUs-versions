@@ -109,7 +109,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**5 Winners!** Enter for a chance to win an ionic hair-dryer for super fast blowouts. Type in the Freebie Phrase of the Day, found in the October Issue!
+**1 Winner!** Enter for a chance to win Catwalk mousse and defining serum. Type in the Freebie Phrase of the Day, found in the October Issue!
 
  enter now 
 
