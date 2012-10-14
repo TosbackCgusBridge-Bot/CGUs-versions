@@ -95,15 +95,15 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Country Living advertisement
 
-*   **halloween**
+*   **chocolate cake**
 
-*   **living rooms**
+*   **Chili**
 
-*   **kitchens**
+*   **chicken**
 
-*   **bathrooms**
+*   **strawberry**
 
-*   **sweepstakes**
+*   **Soup**
 
 Home &. Decorating
 
