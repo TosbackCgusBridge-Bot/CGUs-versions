@@ -212,21 +212,21 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Police intercede as Dems Sherman, Berman get physicalCutter: Romney, Ryan 'entire reason' Libya attack is political issueGeithner defends Obama as deficit again tops $1 trillionBiden blames intelligence community for changing story about Libya attackDenver police: Shot fired at Obama campaign office
+Sherman regrets laying hands on BermanUS ambassador: Internet fee proposal gaining momentumGeithner defends Obama as deficit again tops $1 trillionPoll: Obama, Romney 'dead even' in Republican-leaning ArizonaRace tightens for swing states
 
 Emailed
 
-American comeback under President ObamaPolice intercede as Dems Sherman, Berman get physicalCutter: Romney, Ryan 'entire reason' Libya attack is political issueRomney ahead in four new national pollsBiden blames intelligence community for changing story about Libya attack
+US ambassador: Internet fee proposal gaining momentumRomney moves to center, shows new ease on campaign trailGeithner defends Obama as deficit again tops $1 trillionJoe Biden electrifies the Democratic baseRace tightens for swing states
 
 Discussed
 
-Cutter: Romney, Ryan 'entire reason' Libya attack is political issueNew Obama ad uses Big Bird to hit Romney on deficit, Wall StreetSharp barbs but no clear winner in testy Biden-Ryan vice presidential debateRep. Issa closes in on ClintonSesame Street asks Obama campaign to take down attack ad featuring Big Bird
+Cutter: Romney, Ryan 'entire reason' Libya attack is political issueSharp barbs but no clear winner in testy Biden-Ryan vice presidential debateRep. Issa closes in on ClintonUS ambassador: Internet fee proposal gaining momentumGeithner defends Obama as deficit again tops $1 trillion
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
+*   Secret Service officer, allegedly drunk, arrested in Miami
 *   Cheney 'disturbed' by Biden's performance at vice presidential debate
 *   Denver police: Shot fired at Obama campaign office
-*   Romney says campaign enjoying 'growing crescendo of enthusiasm'
 
   
 More Briefing Room » Congress Blog
@@ -252,9 +252,9 @@ More Pundits Blog » Twitter Room
   
 More Twitter Room » Hillicon Valley
 
+*   Candidates turn to geo-targeting in ads
+*   Reid vows fresh effort to pass stalled cybersecurity bill in November
 *   US ambassador: Internet fee proposal gaining momentum
-*   Huawei hits back at Cisco allegations
-*   Trade commission likely to decide whether to sue Google after election
 
   
 More Hillicon Valley » E2\-Wire (Energy)
@@ -266,23 +266,23 @@ More Hillicon Valley » E2\-Wire (Energy)
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Berman may use Sherman incident in campaign advertising
-*   Race tightens for swing states
-*   Poll: Plurality says Biden had stronger debate performance
+*   Maine Dem Dill: I haven’t spoken to party leaders in months
+*   Poll finds Obama up 5 in swing-state Ohio
+*   Poll: Obama, Romney 'dead even' in Republican-leaning Arizona
 
   
 More Ballot Box » On The Money
 
-*   GOP weekly address: Mitt Romney ‘gets it’ on small biz, regulations
-*   Tax scorekeeper: Ending deductions pays for 4-percent rate cut
-*   Top House conservative Jordan says Romney is not abandoning his principles
+*   Romney’s plan to dump Bernanke sparking anxiety on Wall Street
+*   Ryan criticizes Obama on Chinese currency manipulation label
+*   Central component of 9/11 reform targeted in lame duck session
 
   
 More On The Money » Healthwatch
 
+*   Abortion groups target swing-state voters
 *   Bloomberg's soda ban challenged in court
 *   Obama campaign targets women in latest TV ad
-*   Poll: Voters oppose higher Medicare costs for seniors
 
   
 More Healthwatch » Floor Action
@@ -294,26 +294,26 @@ More Healthwatch » Floor Action
   
 More Floor Action » Transportation
 
-*   Obama touts auto bailout as new model year for American car companies
+*   Obama touts auto bailout as new car model year begins
 *   Bill Clinton: Romney is a car guy 'if having an elevator to stack them counts'
 *   Amtrak defenders surprised at omission from VP debate
 
   
 More Transportation » DEFCON Hill
 
+*   Obama campaign paints Romney defense strategy as path to war
+*   Navy investigating collision of two vessels
 *   New Romney ad hits Obama on weapons cuts
-*   Report: Court martial date set for Afghan shooter
-*   Survey: Majority opposes defense cuts to reduce deficit
 
   
 More DEFCON Hill » Global Affairs
 
+*   Timeline of Libya attack reveals administration contradictions
+*   Gingrich compares Obama Benghazi consulate attack response to Watergate
 *   Topics announced for foreign policy debate
-*   White House pushes back after Biden debate remarks on Libya
-*   Secretary of State Clinton: 'Perfect security' not possible for US diplomats
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Brent Budowsky The great USA comeback Dick Morris Romney TV ad blitz More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Democrats' happy sigh Brent Budowsky The great USA comeback More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
