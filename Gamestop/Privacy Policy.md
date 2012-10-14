@@ -1,15 +1,23 @@
+*   Find a Store
+*   Events
+*   Weekly Ad
+*   Gift Cards
+
+*   My Account
+*   Wish List
+
 Hello !  
   
 Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins** Great Offers **Deals** Our Best Sales
 
-*   Xbox 360 Xbox 360
+*   Xbox 360 See All Xbox 360 » Hot Right Now
     
     1.  Call of Duty: Black Ops II
-    2.  Assassin's Creed III GameStop Edition
-    3.  Halo 4
-    4.  Medal of Honor: Warfighter Limited Edition
+    2.  Halo 4
+    3.  Xbox 360 Live Marketplace Points 2400 Points
+    4.  Skylanders Giants Golden Dragonfire Cannon Battle Pack GameStop Exclusive
     
-    Xbox 360
+    See all best sellers Xbox 360 **Games**
     
     *   All
     *   Action
@@ -30,12 +38,12 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Strategy
     *   Strategy Guides
     
-    Xbox 360
+    Xbox 360 **Deals**
     
     *   Price Drop
     *   Under $20
     
-    Xbox 360
+    Xbox 360 **Accessories**
     
     *   Batteries &. Chargers
     *   Cables &. Adaptors
@@ -52,25 +60,25 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Storage &. Cases
     *   Video &. Sound Cards
     
-    Xbox 360
+    Xbox 360 **Hardware**
     
     *   Game Systems
     
-    Xbox 360
+    Shop Xbox 360 **by ESRB**
     *   Early Childhood
     *   Everyone
     *   Everyone 10+
     *   Teen
     *   Mature
     *   Rating Pending
-*   PS3 PS3
+*   PS3 See All PS3 » Hot Right Now
     
     1.  Assassin's Creed III GameStop Edition
     2.  Call of Duty: Black Ops II
-    3.  $20 Playstation Network Card
-    4.  Assassin's Creed III Limited Edition
+    3.  Skylanders Giants Golden Dragonfire Cannon Battle Pack GameStop Exclusive
+    4.  $50 Playstation Network Card
     
-    PS3
+    See all best sellers PS3 **Games**
     
     *   All
     *   3D
@@ -91,12 +99,12 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Strategy
     *   Strategy Guides
     
-    PS3
+    PS3 **Deals**
     
     *   Price Drop
     *   Under $20
     
-    PS3
+    PS3 **Accessories**
     
     *   Batteries &. Chargers
     *   Cables &. Adaptors
@@ -111,25 +119,25 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Storage &. Cases
     *   Video &. Sound Cards
     
-    PS3
+    PS3 **Hardware**
     
     *   Game Systems
     
-    PS3
+    Shop PS3 **by ESRB**
     *   Early Childhood
     *   Everyone
     *   Everyone 10+
     *   Teen
     *   Mature
     *   Rating Pending
-*   PC PC
+*   PC See All PC » Hot Right Now
     
     1.  The Elder Scrolls V: Skyrim
     2.  XCOM: Enemy Unknown
     3.  Dishonored
     4.  Sid Meier's Civilization V: Game of the Year Edition
     
-    PC
+    See all best sellers PC **Games**
     
     *   All
     *   Action
@@ -151,12 +159,12 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Strategy
     *   Strategy Guides
     
-    PC
+    PC **Deals**
     
     *   Price Drop
     *   Under $20
     
-    PC
+    PC **Accessories**
     
     *   Batteries &. Chargers
     *   Cables &. Adaptors
@@ -175,25 +183,25 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Storage &. Cases
     *   Video &. Sound Cards
     
-    PC
+    PC **Hardware**
     
     *   Game Systems
     
-    PC
+    Shop PC **by ESRB**
     *   Early Childhood
     *   Everyone
     *   Everyone 10+
     *   Teen
     *   Mature
     *   Rating Pending
-*   Wii U Wii U
+*   Wii U See All Wii U » Hot Right Now
     
     1.  New Super Mario Bros. U
-    2.  Wii U Pro Controller - Black
-    3.  Skylander's Giants Starter Pack
-    4.  Disney Epic Mickey 2: The Power of Two
+    2.  Skylander's Giants Starter Pack
+    3.  Wii U Pro Controller - Black
+    4.  Call of Duty: Black Ops II
     
-    Wii U
+    See all best sellers Wii U **Games**
     
     *   All
     *   Action
@@ -205,7 +213,7 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Sports
     *   Strategy
     
-    Wii U
+    Wii U **Accessories**
     
     *   Batteries &. Chargers
     *   Cables &. Adaptors
@@ -216,24 +224,24 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Mounts &. Brackets
     *   Storage &. Cases
     
-    Wii U
+    Wii U **Hardware**
     
     *   Game Systems
     
-    Wii U
+    Shop Wii U **by ESRB**
     *   Everyone
     *   Everyone 10+
     *   Teen
     *   Mature
     *   Rating Pending
-*   3DS 3DS
+*   3DS See All 3DS » Hot Right Now
     
-    1.  Code of Princess
-    2.  Paper Mario: Sticker Star
-    3.  Professor Layton and the MiracleMask
-    4.  Skylanders Spyro's Adventure Pack - Darklight Crypt
+    1.  Skylanders Spyro's Adventure Pack - Darklight Crypt
+    2.  Skylanders Voodood Character
+    3.  Skylanders Spyro's Adventure Pack - Pirate Seas
+    4.  Skylanders Dino-Rang Character
     
-    3DS
+    See all best sellers 3DS **Games**
     
     *   All
     *   Action
@@ -249,12 +257,12 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Sports
     *   Strategy
     
-    3DS
+    3DS **Deals**
     
     *   Price Drop
     *   Under $20
     
-    3DS
+    3DS **Accessories**
     
     *   Batteries &. Chargers
     *   Cables &. Adaptors
@@ -267,24 +275,24 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Repair &. Cleaning
     *   Storage &. Cases
     
-    3DS
+    3DS **Hardware**
     
     *   Game Systems
     
-    3DS
+    Shop 3DS **by ESRB**
     *   Everyone
     *   Everyone 10+
     *   Teen
     *   Mature
     *   Rating Pending
-*   PS Vita PS Vita
+*   PS Vita See All PS Vita » Hot Right Now
     
-    1.  PlayStation Vita Wi-Fi Assassin's Creed III Liberation Bundle
-    2.  Assassin's Creed III Liberation
-    3.  Ragnarok Odyssey Collector's Edition
-    4.  PlayStation Vita Wi-Fi Madden NFL 13 Bundle
+    1.  Assassin's Creed III Liberation
+    2.  PlayStation Vita Wi-Fi Assassin's Creed III Liberation Bundle
+    3.  Persona 4 Golden
+    4.  Call of Duty Black Ops: Declassified
     
-    PS Vita
+    See all best sellers PS Vita **Games**
     
     *   All
     *   Action
@@ -298,12 +306,12 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Sports
     *   Strategy
     
-    PS Vita
+    PS Vita **Deals**
     
     *   Price Drop
     *   Under $20
     
-    PS Vita
+    PS Vita **Accessories**
     
     *   Batteries &. Chargers
     *   Cables &. Adaptors
@@ -316,20 +324,24 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     *   Speakers
     *   Storage &. Cases
     
-    PS Vita
+    PS Vita **Hardware**
     
     *   Game Systems
     
-    PS Vita
+    Shop PS Vita **by ESRB**
     *   Everyone
     *   Everyone 10+
     *   Teen
     *   Mature
     *   Rating Pending
-*   *   Wii
+*   More
+    *   Wii
     *   Nintendo DS
     *   PSP
-    
+    *   PlayStation 2
+    *   Xbox
+    *   GameCube
+    *   Nintendo GBA
 
 *   GameStop Refurbished  
     iPod®, iPhone®&. iPad® iPod®
@@ -420,7 +432,7 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     
     *   Trade My Device
 
-Pick My Home Store
+My Cart Pick My Home Store
 
 Get access to great in-store deals and local pick-up
 
