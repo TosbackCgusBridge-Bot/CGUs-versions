@@ -16,7 +16,7 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   VP Debate
+*   Joe Biden
 *   Campaign 2012
 *   TheBlaze TV
 
@@ -245,7 +245,7 @@ Sections
 
 Hot Topics
 
-*   VP Debate
+*   Joe Biden
 *   Campaign 2012
 *   TheBlaze TV
 
