@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Suicide bomber kills at least 14 in Pakistan
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Gunmen kill 20 at mosque in northern Nigeria
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Tony Avelar / AP 49ers figure to keep on rolling
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Can Packers get back on track?
     
-    PFT's picks: No amount of Rodney Dangerfield cliches from coach Tom Coughlin will overcome the fact that the 49ers are hungrier and, for now, better. There’s a chance it will get ugly.
+    Bedard: Sunday night's game against undefeated Houston isn’t a must win, but it certainly would be much-needed.
     
-    PFT: Vilma asks Goodell to recuse himself PFT: Spikes causes stir with 'I'm homophobic' tweet No Super comeback: Jets placing CB Revis on IR Steelers inefficient without Polamalu Rotoworld: Fantasy matchups to keep eye on PFT: Lions' Suh avoids ticket but gets sued PFT: Redskins not changing offense to protect RG3 Packers seek offensive spark vs. Texans Ad
+    PFT's picks: 49ers figure to keep on rolling Picks: Patriots should get job down in Seattle PFT: War of words building between Giants, 49ers PFT: Bucs' Talib suspended 4 games PFT: Brees still unhappy with Goodell PFT: Vilma asks Goodell to recuse himself Packers seek offensive spark vs. Texans Finley says chemistry lacks with Rodgers Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Rob Carr / Getty Images Cards score 4 in 9th, devastate Nats
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Bruce Bennett / Getty Images Tigers top comeback Yanks in 12th
     
-    The St. Louis Cardinals fought all the way back from a 6-0 deficit, scoring four runs with two out in the ninth inning to win Game 5 of the National League Division Series 9-7 and stun the Washington Nationals.
+    Delmon Young doubled home the go-ahead run in the 12th inning after New York's Raul Ibanez hit another stunning game-tying home run during a four-run rally in the ninth, and the Detroit Tigers topped the Yankees 6-4 Saturday night in Game 1 of the ALCS.
     
-    Sabathia hurls Yankees into ALCS HBT: Nats' Davey Johnson fiddles as DC burns HBT: Nats have pieces for longer run in 2013 HBT: Tigers set ALCS rotation — Fister first up HBT: Sabathia unlikely to start until ALCS Game 4 HBT: Get ready for more A-Rod benchings HBT: 'Oriole magic' comes up short in Game 5 HBT: So much for Adam Jones' breakthrough season Ad
+    HBT: Yanks' Jeter out for postseason HBT: A-Rod goes 0-for-3, is pinch hit for HBT: SF coach Kelly hit in head during BP Sabathia hurls Yankees into ALCS Cards score 4 in 9th, devastate Nats HBT: Yep, Nats blew it with Strasburg HBT: Selig backs expanded replay for 2013 HBT: Kuroda to start Game 2 for Yanks Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Carlo Allegri / Reuters No 'urgency' to meet daily
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Gary Wiepert / AP French Connection line honored
     
-    PHT: NHL, players' union meets on Thursday, but neither side seems inclined to proceed to serious negotiations.
+    NHL.com: The Buffalo Sabres unveiled a statue honoring their French Connection line of Gilbert Perreault, Rene Robert, and the late Rick Martin
     
-    PHT: Gonchar thinks Ovechkin might stay in Russia PHT: Davidson visiting with Blue Jackets PHT: What Quebec's new arena will look like NHL.com: Ex-Rangers, Knicks share bond PHT: NHL lockout still at a standstill NHL, union talk again - but not about money Crosby optimistic NHL season will be salvaged PHT: Alfredsson not hopeful about lockout ending Ad
+    PHT: Bargaining session set for Tuesday PHT: Jackets willing to give Davidson full control PHT: Gonchar thinks Ovechkin might stay in Russia NHL.com: U.S. Hall ceremony Monday PHT: What Quebec's new arena will look like NHL.com: Ex-Rangers, Knicks share bond Crosby optimistic NHL season will be salvaged NHL.com: Greatest farewell seasons Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Ronald Martinez / Getty Images Nowitzki has knee drained again
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Stephen Dunn / Getty Images Why take ball out of Nash's hands?
     
-    PBT: Mavs should be concerned as Dirk Nowitzki not sure 'why the swelling keeps coming back' as his knee drained for second time in recent weeks.
+    PBT: The Lakers are installing the Princeton offense. But doesn't that play away from the strengths of Dwight Howard, Pau Gasol and, particularly Steve Nash?
     
-    PBT: Smush Parker says Kobe was bad teammate PBT: Kobe baffled by Kwame's big deal with 76ers PBT: Scalabrine explains the White Mamba PBT: Nice to see Roy on court again PBT: Howard says leg felt 'dead' from nerve damage PBT: Bradley looks to return before Christmas NBA to build sports/entertainment complex in Beijing PBT: 76er fans must accept Bynum's a rollercoaster Ad
+    Nowitzki has knee drained again PBT: Smush Parker says Kobe was bad teammate PBT: Kobe baffled by Kwame's big deal with 76ers PBT: Scalabrine explains the White Mamba PBT: Nice to see Roy on court again PBT: Howard says leg felt 'dead' from nerve damage PBT: Bradley looks to return before Christmas NBA to build sports/entertainment complex in Beijing Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines NBC Sports Breakdown of Saturday's big games
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Gerald Herbert / AP LSU's not geauxing away
     
-    SportsTalk: No. 9 LSU hosts No. 3 South Carolina in an SEC heavyweight battle on Saturday. No. 17 Stanford heads to South Bend to take on No. 7 Notre Dame and Texas and Oklahoma square off in the Red River Rivalry.
+    CFT's Fifth Quarter: Left for dead by some after a loss to Florida, LSU faced a stiff test in No. 3 South Carolina … and passed with gritty flair 23-21, leaving the Tigers still in the hunt.
     
-    No. 3 South Carolina enters road test at No. 9 LSU Spurrier-Miles tangle in South Carolina-LSU tilt Rivalry time for No. 13 Oklahoma, No. 15 Texas CFT: Tide ends recruitment after rape charges Notre Dame Central: Irish host Stanford CFT: Oregon lineman reportedly busted for DUI Frosh QB gets call for Mizzou against No. 1 'Bama No. 4 UF remembers scare from Vandy last year Ad
+    CFT: Texas takes a big step back with lopsided loss Texas Tech trounces No. 5 West Virginia No. 8 Ohio St. wins shootout with Indiana No. 1 Alabama too much for Missouri LSU roars late, holds off S. Carolina No. 13 Okla. stampedes No. 15 Texas 59-57! No. 22 Texas A&M tops No. 23 La. Tech No. 19 Miss. St. downs Tenn., goes 6-0 Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Cut Line: Talking Turkey
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines You Oughta Know: Frys.com Open
     
-    The appetizer - the Turkish Airlines World Golf Finals - was tasty. But can Turkey turn that success into a sucessful Olympic bid?
+    The Frys.com Open leaderboard features nonwinners and players in droughts. No one is hungrier than Vijay Singh, winless since 2008.
     
-    62 gives Mallinger commanding lead at Frys.com Woods continues head-to-head dominance of McIlroy For sale: Ghost of Bobby Jones in a glass jar Vegas may hit the jackpot at Frys.com Palmer, Nicklaus headline Father/Son Challenge field Woods wants to be a Ryder Cup captain – someday Ad
+    Lincicome, Christina Kim engage in Twitter feud Mallinger maintains lead over Blixt at Frys.com Magic on the European Tour? You Oughta Know: Frys.com Open Woods continues head-to-head dominance of McIlroy LPGA rules official dies from West Nile virus Red-hot Park again knocking at the door Woods wants to be a Ryder Cup captain – someday Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / standings F1 standings Auto Racing Tickets Shop Headlines Chris Graythen / Getty Images Earnhardt Jr to miss 2 races
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / standings F1 standings Auto Racing Tickets Shop Headlines Pool / Getty Images Bowyer wins; Keselowski errs
     
-    Dale Earnhardt Jr. knew he had suffered a concussion in an August crash so jolting that other drivers tweeted about it immediately after the impact.
+    Clint Bowyer picked up his first win in the Chase for the Sprint Cup championship Saturday night, winning a fuel mileage race that ended in disaster for points leader Brad Keselowski.
     
-    Joey Logano wins Nationwide event at Charlotte Allmendinger gets 1st start after drug suspension Gordon slowly moving up in Chase standings Drivers grumbling after wreckfest at Talladega NASCAR 1st multicar test with '13 cars, new aero Briscoe in IndyCar free-agent speculation IndyCar's Belle Isle track getting facelift Penske still looking for sponsorship for 3rd car Ad
+    Earnhardt Jr. to miss 2 races after concussions Gordon says he would've kept concussion quiet Biffle leads Chase drivers in Charlotte qualifying Joey Logano wins Nationwide event at Charlotte Allmendinger gets 1st start after drug suspension Gordon slowly moving up in Chase standings NASCAR 1st multicar test with '13 cars, new aero Red Bull's Mark Webber takes Korean GP pole Ad
 *   NCAA BK
     SectionsCollegeBasketballTalk Bracket contest Men's scores Women's scores Video Standings Schedules Stats Rosters Teams Odds Matchups Tickets Shop Headlines Ryan Henriksen / AP It's Madness!
     
-    College basketball returns with a flourish with stunt dunks, banner-raisings and even a stabbing at Midnight Madness events across the nation.
+    CBT: College basketball returns with a flourish with stunt dunks, banner-raisings and even a stabbing at Midnight Madness events across the nation.
     
-    Who are stars of the mid-majors? Ex-Oklahoma State basketball player leaves jail Big 12 coaches picks Kansas to win Big 12 CBT: Coach K, Plumlee address NCAA inquiry CBT: Kentucky lands 3rd Top 10 recruit for 2013 CBT: NCAA clarifies its banning of Instagram CBT: Wiggins reclassifying? 'Unlikely at this stage' CBT: SDSU is Fisher's 'best team we’ve had' Ad
+    CBT: Blue chip Noel posterized at UK Madness Stabbing mars Syracuse's Madness celebration CBT: Who are stars of the mid-majors? Ex-Oklahoma State basketball player leaves jail CBT: Big 12 coaches picks Kansas to win Big 12 CBT: Coach K, Plumlee address NCAA inquiry CBT: Kentucky lands 3rd Top 10 recruit for 2013 CBT: NCAA clarifies its banning of Instagram Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Ricardo Arduengo / AP PST: US finds hero in win over Antigua
+    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Stringer / Reuters A win is a win, but ...
     
-    Not even the most ardent Eddie Johnson fan would have predicted he would be the man to pull the U.S. national team back from its World Cup qualifying ledge. But he scored both goals in the 2-1 victory over Antigua and Barbuda.
+    PST: Latest lackluster U.S. victory — a 2-1 triumph over tiny Antigua and Barbuda — is cause for concern.
     
-    Canada beats undermanned Cuba 3-0 in qualifying Cuba players leave soccer team in Canada Spain, Germany, England find scoring form Ruiz gives Guatemala 2-1 over Jamaica in qualifier Falcao scores two, Colombia beats Paraguay 2-0 Italy labors to 3-1 win in Armenia in qualifier Russia beats Portugal 1-0 in World Cup qualifying Bulgaria, Denmark draw 1-1 in WCup qualifier Ad
+    PST: US finds unlikely hero in Johnson Klinsmann 'not happy' despite US win PST: What US needs to advance in Cup qualifying Canada beats undermanned Cuba in qualifying FIFA confirms Cubans defected before qualifier Spain, Germany, England find scoring form Ruiz gives Guatemala 2-1 over Jamaica in qualifier Falcao scores two, Colombia beats Paraguay 2-0 Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Anthony Bolante / Reuters IOC won't strip Lance — yet
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Fabrice Coffrini / AFP - Getty Images Vonn's possible male competitiors speak out
     
-    Lance Armstrong has lost his 7 Tour titles and USADA has released 200 pages of evidence against him, but the IOC will wait to take action against the Sydney bronze medalist.
+    OlympicTalk: Lindsey Vonn has yet to submit paperwork to take part in men's event in Alberta next month, but a few possible entrants are already chiming in on how they think she'll do.
     
-    OlympicTalk: Lysacek hurt, out of Skate America Thorpe reveals years of crippling depression Spanish hoops team trashed apartments after loss Embattled speedskating coaches resign OlympicTalk: Turkey is using golf to get a Games IOC reviews USADA report for Olympic implications OlympicTalk: White's vandalism case delayed OlympicTalk: Phelps’ Beijing rival Cavic retires Ad
+    OlympicTalk: IOC won't strip Lance of Sydney bronze — yet OlympicTalk: Lysacek hurt, out of Skate America Thorpe reveals years of crippling depression Spanish hoops team trashed apartments after loss Embattled speedskating coaches resign IOC reviews USADA report for Olympic implications OlympicTalk: White's vandalism case delayed OlympicTalk: Phelps’ Beijing rival Cavic retires Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Joel Saget / AFP - Getty Images Armstrong fallout will last years
+    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines David Zalubowski / AP Scandal doesn't destroy image
     
-    Former cyclist's ex-teammates and charities will bear the brunt of USADA's doping investigation.
+    It's not so much that the Lance Armstrong story was too good to be true. Now it might just be too good to let go.
     
-    After Armstrong, UCI cites anti-doping regime gaps USADA says Armstrong was doping ringleader Friend, lieutenant Hincapie among those testifying Shanghai semis: Federer-Murray, Djokovic-Berdych Sports backgrounds for Obama, Romney Doctors torn over heart screening for young athletes Football coach accused of hitting Utah boy in game Fists fly on Calif. football field Ad
+    Aussie director quits over Armstrong doping ties Armstrong fallout will last years Pete Jacobs wins Ironman world championship Donaire stops Nishioka in ninth Anderson Silva stops Stephan Bonnar at UFC 153 Murray, Djokovic reach Shanghai final Lynx look to repeat as WNBA champs vs. Fever Wis. sailor knocked overboard in race, dies in Va. Ad
 
 *   Scores
 *   Odds
@@ -185,9 +185,9 @@ New York, NY
 *   Print
 
 Tweet Also on NBCSports.com PFT's Picks: Giants won't get past 49ers this time  
-HBT: Should Giants start Lincecum in NLCS?  
-PBT: World Peace wants Nash to have own Vegas show  
-CBT: Who will be mid-major teams to watch?  |  Previews  
+CFT vote: Did Notre Dame get big break against Stanford?  
+Cycling: Scandal hurts, but doesn't destroy Lance's image  
+HBT: Verdict is in — yes, Nats blew it with Strasburg  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
