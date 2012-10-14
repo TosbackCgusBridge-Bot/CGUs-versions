@@ -24,9 +24,9 @@ Bravo
     *   Watch What Happens Live
     
     What's On Tonight
-    *   9:00 PM BRAVO'S BIG PICTURENATIONAL TREASURE: BOOK OF SECRETS
-    *   11:30 PM BRAVO'S BIG PICTURENATIONAL TREASURE: BOOK OF SECRETS
-    *   2:00 AM BRAVO'S BIG PICTUREORANGE COUNTYSee All Shows » See Full Schedule »
+    *   9:00 PM NEW JERSEY SOCIAL.
+    *   New 10:00 PM The Real Housewives of New JerseyEp 23: Reunion Part 3
+    *   New 11:00 PM Watch What Happens LiveMario Lopez &. Melissa GorgaSee All Shows » See Full Schedule »
 *   People &. Blogs
     
     *   Read The Dish's Latest Post Melissa Gorga's 'I Just Wanna' Video!
@@ -284,13 +284,13 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   FLIPPING OUT SHOWDOWN IN CHI TOWN
+*   PAID PROGRAMMING
     
-    7:00 AM ET
+    4:00 AM ET
     
-*   FLIPPING OUT DRAWING THE LINE
+*   LIFE AFTER TOP CHEF COOK YOUR ASPEN OFF
     
-    8:00 AM ET
+    6:00 AM ET
     
 
 view complete schedule The Dish - Bravo's Daily News Bravo IQ: Remodels and Recipes
