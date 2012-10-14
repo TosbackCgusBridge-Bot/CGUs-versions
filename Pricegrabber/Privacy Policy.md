@@ -20,15 +20,15 @@ My Account
     *   Windows 7
     *   Qvc
     *   Office Max
-    *   Money
     *   Iphone
+    *   Money
     *   Digital Cameras
     *   Coffee Makers
     *   Camcorders
     *   At
-    *   Se
-    *   Radio Shack
     *   Discount Tires
+    *   Radio Shack
+    *   Se
     *   Sears
     *   T Mobile
     *   Tax
@@ -243,8 +243,8 @@ Shop by Department
     *   Drum Kits
     *   Acoustic Guitars
     *   Portable Keyboards
-    *   Digital Pianos
     *   Live Sound Speakers
+    *   Digital Pianos
     *   Bass Guitars
     *   Guitar Amps
     *   Recording Accessories
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1504 Local Deals
+*   1509 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
