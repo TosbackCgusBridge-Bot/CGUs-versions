@@ -1,6 +1,6 @@
 More searches: Ingredient | Nutrition | Advanced Email or User Name Remember Me Password (forgot?)    
 
-*   *   *   *   Best Chocolate Chip Cookies See how to bake the perfect chocolate chip cookie. »
+*   *   *   *   Homemade Chicken Noodle Soup Watch Chef John make a simple, soothing chicken noodle soup. »
         
         *   *   Football Recipes The best game-day bites. »
         
@@ -367,11 +367,11 @@ Follow us on Twitter!
 
 Most Popular Blogs
 
-*   MUUUUHAAHAHAA!!!!! October 8, 2012 8:32 AM
 *   Usernames October 8, 2012 3:27 PM
+*   MUUUUHAAHAHAA!!!!! October 8, 2012 8:32 AM
 *   A Food Civil War October 7, 2012 9:27 AM
 *   What is your weapon of choice in the kitchen? October 9, 2012 11:22 AM
-*   Make Me STOP!! October 6, 2012 10:07 PM
+*   Welcoming Autumn October 12, 2012 12:50 PM
 
 Read our allrecipes.com blog
 
