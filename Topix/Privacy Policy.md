@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
-Nobel Prize
+Iran
 
-EU Wins Nobel Peace Prize
+German foreign minister urges EU to adopt tougher sanctions on...
 
-Syria
+China
 
-Turkish prime minister slams UN Security Council over failure ...
+Against backdrop of dispute with China, Japan shows off naval ...
 
 Politix
 
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
-  Ads by Glam
+ 
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 102,287 • Total comments across all topics: 187,907,802
+Comments made yesterday: 98,874 • Total comments across all topics: 187,997,236
 
 Copyright ©2012 Topix LLC
 
