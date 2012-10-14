@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 8 hours ago
+about 7 hours ago
 
-@BleacherReport: Washington Nationals struggle face (h/t @CARO\_RAMS) http://t.co/W8g8PJCq
+@BleacherReport: RT @RickMaese: Jeter is down for year. Ankle fracture, Girardi says. Not career-ending but will need 3 mos recovery time
 
 Newsletters
 
@@ -200,6 +200,6 @@ Popular Topics
 *   Fantasy Football Waiver Wire
 *   Heisman Watch 2012
 *   MLB Playoff Schedule 2012
-*   UFC 153
+*   UFC 153 Results
 
 Copyright © 2012 Bleacher Report, Inc. Turner Broadcasting System, Inc. All Rights Reserved. BleacherReport.com is part of Turner Sports Digital, part of the Turner Sports &. Entertainment Digital Network. Certain photos copyright © 2012 by Getty Images. Any commercial use or distribution without the express written consent of Getty Images is strictly prohibited.
