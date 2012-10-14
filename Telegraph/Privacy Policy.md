@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Saturday 13 October 2012
+Sunday 14 October 2012
 
 *   Home
 *   News
@@ -138,13 +138,13 @@ In About us
 
 Editor's Choice »
 
-Pollyanna Hope's charity mini-marathon  
+The badger cull is not just a shot in the dark  
 
-When Christopher Hope’s daughter Pollyanna was two she lost her leg below the knee in a bus crash. Five years later they were running together in Sierra Leone in aid of amputees.
+A dairy farmer explains why he hopes the the badger cull will succeed. By **Cole Moreton**
 
 Comments
 
-Pollyanna's road to recovery 'I escaped the flames. I am lucky to be alive’ Crime, corruption and cover-up in Marseille The war that changed us all Alex James learns to fly a Spitfire Advertisement
+'We will never be subdued by militants' Pollyanna Hope's charity mini-marathon Clare Balding's undiplomatic Dad 'I escaped the flames. I am lucky to be alive’ Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
@@ -154,12 +154,14 @@ Back to top
 
 Hot Topics
 
+*   Defence
+*   Jimmy Savile
 *   Syria
 *   US Election
 *   Weather
 *   Wonder Women
-*   Jimmy Savile
 *   Cycling
+*   More...
 
 *   News
 *   Politics
