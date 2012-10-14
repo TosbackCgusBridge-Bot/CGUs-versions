@@ -1,6 +1,6 @@
 Access Hollywood  
 
-*   **HOT NOW:** Stars React To VP Debate
+*   **HOT NOW:** Gwyneth Paltrow &. Cameron Diaz Rap For Chelsea Handler
 
 *   WATCH
 *   NEWS
@@ -202,7 +202,7 @@ Young Hollywood
 **XOXO: Young Hollywood  
 **
 
-One Direction teams up with NFL star Drew Brees for new Pepsi ad.
+Liam Hemsworth got a Teddy Roosevelt quote tattoo to match fiancee Miley Cyrus’ Presidential ink.
 
  
 
