@@ -220,25 +220,17 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Cape Town on Sale
-    
-    Starting Today at Noon EDT
-    
-*   Lake Placid Lodge - New York
-    
-    Starting Today at Noon EDT
-    
 *   Hotel Rex - San Francisco
     
-    Starting Sunday 10/14 at 3pm EDT
+    Starting Today 10/14 at 3pm EDT
     
 *   Andaz West Hollywood
     
-    Starting Sunday 10/14 at 3pm EDT
+    Starting Today 10/14 at 3pm EDT
     
 *   Cruise Hawaii on Norwegian A Seven-Night Sailing to Maui, Kona &. More
     
-    Starting Sunday 10/14 at 3pm EDT
+    Starting Today 10/14 at 3pm EDT
     
 *   Abode at Parkwood - Utah
     
@@ -249,6 +241,14 @@ Upcoming Sales
     Starting Monday 10/15 at 3pm EDT
     
 *   A Manhattan Mystery Hotel
+    
+    Starting Monday 10/15 at 3pm EDT
+    
+*   Hotel Palazzo Manfredi - Rome
+    
+    Starting Monday 10/15 at 3pm EDT
+    
+*   A Maui Mystery Hotel
     
     Starting Monday 10/15 at 3pm EDT
     
