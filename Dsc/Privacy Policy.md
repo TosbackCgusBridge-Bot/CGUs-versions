@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Alaska: The Last FrontierFueling the Fire 8:00PM Alaska: The Last FrontierSnow, Cold and Darkness 9:00PM Alaska: The Last Frontier (Season 2)Dead of Winter TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM MythBusters (Season 9)Titanic Survival 8:00PM MythBusters (Season 9)Trench Torpedo 9:00PM The Devil's Triangle  TV SHOWS
 
 American Chopper
 
@@ -324,21 +324,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
+Toyota Gives Endeavour a Hollywood Finale (UPDATED)
+
+Daredevil Hoping to Go Supersonic on Sunday
+
+With Android Phones, The Future's Still On Hold
+
+Can Homeopathy Treat Domestic Violence?
+
+Robot Sub Maps Underside of Antarctic Ice in 3-D
+
+Peanut Butter's Checkered Food Safety History
+
 House-Sized Asteroid to Buzz Earth Today
 
 Clothes Hangers Clean Clothes: DNews Nugget
-
-Mysterious Huge Eyeball Likely Giant Squid's
-
-Smart Bra Detects Breast Cancer Earlier
-
-3-D Printing Pirates Paused: DNews Nugget
-
-Dr. Auto Monitors Your Health While Driving
-
-Red Bull Stratos Dive on for Sunday? DNews Nugget
-
-Man Who Cloned Dolly Dies: DNews Nugget
 
   facebook share0 Tweet Privacy Policy  
 
@@ -544,32 +544,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 13,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 14,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 13,  
+Oct 14,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 13,  
+Oct 14,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 13,  
+Oct 14,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 13,  
+Oct 14,  
 9:00 am  
 60 min(s)  
-**Alaska: The Last Frontier**  
-_Before the Freeze_  
- Meet the Kilcher family, who live on a 600-acre homestead in Alas  
+**MythBusters**  
+_Western Myths_  
+ It's Yeehaa and Hiyo Silver as Adam and Jamie saddle up for some  
 **More Listings »**   Shop Discovery Store      
 
 our sites
