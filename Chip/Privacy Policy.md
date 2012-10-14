@@ -265,18 +265,18 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 Software-UpToDate 1.4.0 Deutsch Freeware
-*   2 Ophcrack Live-CD für Windows Vista und 7 v3.4.0 Englisch Freeware
-*   3 Ophcrack Live-CD für XP 3.4.0 Englisch Freeware
-*   4 Songr 1.9.58 Deutsch Freeware
-*   5 GeoGebra 4.0.41 Deutsch Freeware
+*   1 Top 50: Android Bootanimationen zum Download
+*   2 Die besten kostenlosen Horror-Games
+*   3 PicPick 3.1.9 Deutsch Freeware
+*   4 The Unarchiver 3.4 Deutsch Freeware
+*   5 ImageMagick 6.8.0 Englisch Freeware
 
 ...mehr
 
 **RSS-Feed** Download-Tipps der Redaktion
 
-*   1 Top 33: Die besten Herbst-Downloads
-*   2 Spiele-Vollversionen: Kostenlos zum Download
+*   1 Spiele-Vollversionen: Kostenlos zum Download
+*   2 Top 33: Die besten Herbst-Downloads
 *   3 Top 100: Die beliebtesten Downloads auf Deutsch
 *   4 Downloads des Verderbens: Vorsicht bei diesen Tools
 *   5 Tools, die kaum einer kennt: 33 geniale Gratis-Downloads
@@ -295,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Die besten kostenlosen Horror-Games
 *   Alt gegen Neu: Die Vorteile der Handy-Vorgänger One X, Note und Co.
 *   Praxis-Test: Lenovo IdeaPad Yoga 13 (Notebook)
 *   Test: LG Electronics 42LM670S (42-Zoll-LCD-TV)
 *   Test: Asus Zenbook UX32VD-R4002V (Notebook)
-*   Test: Acer Iconia Tab A700 (Tablet-PC)
 
 ...mehr
 
@@ -312,23 +312,23 @@ Sponsored Links
 **RSS-Feed** Die beliebtesten Produkte
 
 *   Samsung Galaxy S3 GT-I9300 16GB  
-    ab 465,00 €
-    
-    *   Test
-*   Samsung Galaxy S2 i9100  
-    ab 332,01 €
+    ab 460,00 €
     
     *   Test
 *   Samsung Galaxy Note 2 N7100  
     ab 557,98 €
     
-*   Samsung Galaxy Nexus I9250  
-    ab 309,00 €
+*   Samsung Galaxy S2 i9100  
+    ab 332,01 €
     
     *   Test
 *   Samsung Galaxy S Duos  
     ab 245,90 €
     
+*   Samsung Galaxy Nexus I9250  
+    ab 309,00 €
+    
+    *   Test
 
 Alle anzeigenQuelle: CHIP Preisvergleich
 
@@ -340,11 +340,11 @@ Alle CHIP Online Feeds im Überblick
 
 Meistgelesene Themen
 
-*   S3 mini mikrig
-*   Facebook knacken leicht gemacht...
 *   Samsung SSDs gewinnen und alten Rechner neu lieben lernen
-*   GVU 2.07 virus entfernen
-*   Tastatur umstellen Englisch/Deutsch
+*   Warum nur für Studenten?!
+*   Facebook knacken leicht gemacht...
+*   Erste Hilfe bei Infektionen (Viren, Würmer, ...)
+*   Free YouTube to MP3 Converter legal ?
 
 ...mehr
 
@@ -365,9 +365,9 @@ Alle CHIP Online Feeds im Überblick
     
 *   3 Playboy - Playmate des Jahres  
     
-*   4 20 Media-Markt-Angebote und 20 bessere Alternativen  
+*   4 Der Software Pranger - Diese 50 Tools nerven richtig  
     
-*   5 Der Software Pranger - Diese 50 Tools nerven richtig  
+*   5 10 interessante Angebote, 10 tolle Alternativen  
     
 
 ...mehr
