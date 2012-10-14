@@ -192,103 +192,92 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 13, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 14, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:02a
+/news/latest1.  6:30a
     
-    From the NYSE, Charlie Turner previews week ahead
+    Crosscurrents add to U.S. economic puzzle
     
-2.  7:02a
+2.  6:01a
     
-    2013 Infiniti M37 AWD
+    Facebook earnings targets are going down
     
-3.  6:01a
+3.  12:20a
     
-    Stocks face first peak of earnings season
+    Bernanke defends QE from international criticism
     
-4.  7:50p
+4.  5:00p
     
     With geeky the new hip, Mattel, Marvel see promise
     
-5.  7:46p
+5.  2:52p
     
-    AMD rises after hours following dayside slide
+    Santander pulls out deal with RBS
     
-6.  7:09p
+6.  2:20p
     
-    MarketWatch readers narrowly agree with Jack Welch: poll
+    Cablevision mulls sale of Bresnan
     
-7.  6:34p
+7.  1:50p
     
-    Stocks to watch Monday: Citi, Schwab, Gannett
+    China trade-surplus report surprisingly strong
     
-8.  6:31p
+8.  12:00p
     
-    AMD to cut up to 30% of workforce: AllThingsD
+    China trade-surplus report surprisingly strong
     
-9.  6:29p
+9.  9:02a
     
-    MarketWatchâs top 10 stories, Oct. 8 - 12
+    For many, âseniorâ phone plans donât ring true
     
-10.  6:21p
+10.  9:01a
     
-    Radio Update: NickMom gets spanked
+    Medicare open-enrollment: Find the right drug plan
     
-11.  6:12p
-    
-    BREAKING
-    
-    AMD to cut up to 30% of workforce: AllThingsD
-    
-12.  6:06p
-    
-    Microsoft prices Windows 8, taking pre-orders
-    
-13.  6:02p
-    
-    Watson Pharma wins FDA approval for two generics
-    
-14.  5:37p
-    
-    Big Oilâs profits set to slide
-    
-15.  5:25p
-    
-    Treasury delays report on currency manipulation
-    
-16.  5:25p
-    
-    Wells, J.P. Morgan results trigger bank selloff
-    
-17.  5:23p
-    
-    Energy stocks mostly lower, but off session lows
-    
-18.  5:02p
-    
-    BREAKING
-    
-    Treasury to delay report on currency manipulation
-    
-19.  5:00p
+11.  9:00a
     
     U.S. stocks end worst week in four months
     
-20.  5:00p
+12.  8:02a
     
-    Treasury to delay report on currency manipulation
+    From the NYSE, Charlie Turner previews week ahead
+    
+13.  7:02a
+    
+    2013 Infiniti M37 AWD
+    
+14.  6:01a
+    
+    Stocks face first peak of earnings season
+    
+15.  7:51p
+    
+    With geeky the new hip, Mattel, Marvel see promise
+    
+16.  7:46p
+    
+    AMD rises after hours following dayside slide
+    
+17.  7:09p
+    
+    MarketWatch readers narrowly agree with Jack Welch: poll
+    
+18.  6:34p
+    
+    Stocks to watch Monday: Citi, Schwab, Gannett
+    
+19.  6:31p
+    
+    AMD to cut up to 30% of workforce: AllThingsD
+    
+20.  6:29p
+    
+    MarketWatchâs top 10 stories, Oct. 8 - 12
     
 21.  Loading more headlines...
 
 dow /quotes/zigman/627449 13,328.85 +2.46 +0.02% nasdaq /quotes/zigman/123127 3,044.11 -5.30 -0.17% s&p 500 /quotes/zigman/3870025 1,428.59 -4.25 -0.30% Kiosk
 
-*   1341573300000 1341592200000
-    
-    From Fox Business
-    
-    Â  bonnie lee  
-    Is a consumption tax alone better?  
-    With all of the questions about the tax code and it's fairness across class lines, perhaps a straight tax on consumption would level the playing field.Â  /conga/kiosk/marketfox.html 230431
 *   1300176000000 1301475600000
     
     Retail
@@ -329,11 +318,6 @@ dow /quotes/zigman/627449 13,328.85 +2.46 +0.02% nasdaq /quotes/zigman/123127 3,
     Writing on the Wall  
     Wall Street pay: a reality check  
     Spare us the whining about tough times in finance.Â  An average Wall Street professional earns five times an average Joe, writes David Weidner.Â  /conga/kiosk/commentary2.html 230243
-*   1320411600000 1320616500000
-    
-    Alerts
-    
-    /conga/kiosk/alerts.html 175576
 
 MarketWatch.com
 
