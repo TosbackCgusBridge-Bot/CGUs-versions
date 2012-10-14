@@ -142,19 +142,19 @@ The Privacy Statement posted on this site was updated in March, 2011.
 
 More from SI.com Latest News
 
-*   **Ben Reiter:** Cardinals stun Nationals with ninth-inning rally
-*   Dominant Sabathia helps Yanks oust O's
-*   Johnson's late goal lifts U.S. soccer
+*   **Joe Lemire:** Loss of Jeter devastating to Yankees' chances
+*   Jeter breaks ankle, out for playoffs
+*   No. 9 LSU deals No. 3 S.C. first loss
 
-Video Keith: Early ALCS edge to the Tigers The MLB Postseason Show SI Writers
+Video Keith: Early ALCS edge to the Tigers Staples: Irish stuff Cardinal in OT SI Writers
 
-*   **Ben Reiter:** With epic rally, Cardinals prove it ain't over 'til it's over
-*   **Ted Keith:** Superb Sabathia helps Yankees finally dispatch Orioles in ALDS
-*   **Avi Creditor:** USA-Antigua player ratings: Johnson comes up big in recall duty
+*   **Will Carroll:** Jeter should have no trouble returning from ankle injury
+*   **Joe Lemire:** Jeter's injury more devastating to Yankees' hopes than Game 1 loss
+*   **Jeff Wagenheim:** Silva's quick TKO of Bonnar no waste of time. more from UFC 153
 
-SI Photos Unlikely Postseason Heroes Memorable Division Series Moments Did You See That?  
+SI Photos College Football Top 25 Review Boxing's Pound-for-Pound Top 15 2012 NASCAR Sprint Cup Winners  
 
-Hot Topics: Comeback Cards Peter King's Picks CC Sabathia U.S. Soccer College Football Swimsuit
+Hot Topics: Derek Jeter Peter King's Picks Notre Dame LSU Fantasy Football UFC 153 Clint Bowyer Swimsuit
 
 *   SUBSCRIBE TO SI
 *   DIGITAL EDITION
