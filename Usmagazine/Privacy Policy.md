@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Not-So-Mellow Yellow »
+Hot Pics! Brad's Stylin' Specs »
 
-Top Stories1.  Meet Tori Spelling's Baby Boy Finn! »
-2.  Paris Jackson, 14, Looks All Grown Up in One-Shoulder Dress »
-3.  Britney Spears Wears Gray Dress With Fanned Sleeves: Love It or Hate It? »
-4.  Liam Hemsworth Gets Tattoo to Match Miley Cyrus' Teddy Roosevelt Quote! »
-5.  PIC: Khloe Kardashian Flaunts Slim Hourglass Figure in Strapless Dress »
+Top Stories1.  See Goldie Hawn Without Makeup! »
+2.  Tia Mowry Debuts Super-Short Pixie Cut: "I Cried!" »
+3.  Paris Jackson, 14, Looks All Grown Up in One-Shoulder Dress »
+4.  Jacqueline Laurita Slams Rumors She Was Once a Stripper »
+5.  Britney Spears Wears Gray Dress With Fanned Sleeves: Love It or Hate It? »
 
  
 
@@ -176,10 +176,10 @@ subscribe to Us Weekly Tori's Miracle Baby
 Inside Us Weekly
 
 *   Style Paris Jackson, 14, Looks All Grown Up in One-
-*   Beauty Ricki Lake: What's in My Bag?
-*   Moms Bachelor's Jason Mesnick, Molly Malaney Expec
+*   Beauty See Goldie Hawn Without Makeup!
+*   Moms Alessandra Ambrosio: My Daughter, 4, Is Alrea
 *   Body Mindy Kaling: "I'd Love to Lose 15 Pounds," B  
-*   Entertainment LOL! Watch Gwyneth, Cameron Rap About Chelsea  
+*   Entertainment Jacqueline Laurita Slams Rumors She Was Once  
 
 *   US WEEKLY
 *   Celebrity News
