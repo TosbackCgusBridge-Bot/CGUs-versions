@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Saturday, October 13, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Sunday, October 14, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -113,17 +113,17 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report The Atlantic The Energy Puzzle  
-_The Atlantic_'s Alexis Madrigal talks with the entrepreneurs shaping our future. Read more › Just In Jeffrey Goldberg 12:31 AM ET Unbelievable 1350102693 Voices
+Special Report Mike Hutchings/Reuters Innovations &. Inventions  
+Everyday drones, digital therapists, and other dispatches from the frontiers of creativity Read more › Just In Tanya Domi 7:44 AM ET Why Giving the European Union the Nobel Peace Prize Was Wrong 1350215083 Voices
 
-*   Jeffrey Goldberg Unbelievable 12:31 AM ET
+*   James Fallows Your Real-Time Cyber-Attack Map Oct 13, 2012
+*   Ta-Nehisi Coates Romney Rising (Still) Oct 13, 2012
+*   Jeffrey Goldberg Unbelievable Oct 13, 2012
 *   Robert Wright The Nobel Peace Prize Should Have Gone to... Oct 12, 2012
-*   James Fallows Undecided Voters Speak! Oct 12, 2012
 *   Garance Franke-Ruta Did Biden Hang the State Department Out to Dry at… Oct 12, 2012
 *   Clive Crook Biden Beats Ryan on Points Oct 12, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 *   Alexis C. Madrigal Dark Social: We Have the Whole History of the Web… Oct 12, 2012
-*   Ta-Nehisi Coates The Black Helicopters Circling Jack Welch Oct 11, 2012
 *   Derek Thompson The 1 Way Mitt Romney Can Beat President Obama on… Oct 10, 2012
 
 Correspondents
@@ -133,7 +133,7 @@ Correspondents
 *   John Tierney Pity the Recommendation Writer, Bard of the 'Great Bland Majority'
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Lighting Up the Night Oct 12, 2012 Video How to Catch a Monster Wave: The Psychology of Big Wave Surfing Trango Towers 'Yet Again': Grizzly Bear Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos A Space Shuttle on the Streets of Los Angeles Oct 13, 2012 Video How to Catch a Monster Wave: The Psychology of Big Wave Surfing Trango Towers 'Yet Again': Grizzly Bear Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -162,14 +162,14 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   The Man Behind the Troll Who Got Gawker Banned From Reddit  
+*   The Curse of Theodore Roosevelt  
     
-*   New Oprah Is Just Old Oprah All Over Again  
+*   Rupert Murdoch Likes VICE  
     
-*   Stanley Tucci and His Mom Cook a Steak Together, Adorably  
+*   Al Queda Doesn't Want You to Forget the Muslim Movie  
     
 
-Last Update: 6:27 PM
+Last Update: 5:35 PM
 
 *   Bears Could Be Next Urban Menace  
     
@@ -186,31 +186,31 @@ Dark Social: We Have the Whole History of the Web Wrong
 
 2
 
-The 6 Studies Paul Ryan Cited Prove Mitt Romney's Tax Plan Is Impossible
+A Space Shuttle on the Streets of Los Angeles
 
 3
 
-The Writing Revolution
+SNL's Christina Applegate Episode: 5 Best Scenes
 
 4
 
-Scenes From Antarctica
+AP Classes Are a Scam
 
 5
 
-Lighting Up the Night
+How To Make Sure The Next Generation Is Better Off Than We Are
 
 6
 
-The VP Debate Cinches It: Paul Ryan Is Unqualified to Step In as POTUS
+Gangnam Style, Dissected: The Subversive Message Within South Korea's Music Video Sensation
 
 7
 
-The Great Wall of China
+What Poetry Teaches Us About the Power of Persuasion
 
 8
 
-Should Lance Armstrong's Hero Status Be Revoked?
+Scenes From Antarctica
 
 9
 
@@ -218,7 +218,7 @@ Why Women Still Can’t Have It All
 
 10
 
-Gangnam Style, Dissected: The Subversive Message Within South Korea's Music Video Sensation
+The Writing Revolution
 
 *   Subscribe Help
 *   Faq
