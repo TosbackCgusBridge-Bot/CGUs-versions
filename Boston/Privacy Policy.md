@@ -1,4 +1,4 @@
-  We're Going To Be Friends | The White Stripes Listen Live Boston.com
+  Simple Song | The Shins Listen Live Boston.com
 
 *   Home
 *   Today's Globe
