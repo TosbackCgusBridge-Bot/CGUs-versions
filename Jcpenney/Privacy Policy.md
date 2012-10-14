@@ -21,7 +21,7 @@ true
 *   gifts
 *   registry Find Registry choose state Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District Of Columbia Federated States Of Micronesia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Marshall Islands Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Palau Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virgin Islands Virginia Washington West Virginia Wisconsin Wyoming
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola862 SERVER NAME :->. prod-c2-com-0601 TIME :->. Sat Oct 13 07:10:01 CDT 2012 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola862 SERVER NAME :->. prod-c2-com-0601 TIME :->. Sun Oct 14 07:09:09 CDT 2012 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -435,13 +435,13 @@ view all in clearance
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-what's new
-
-*   jcp women
-*   jcp men
-*   royal velvet
-*   men's denim
+*   fall fashion
+*   extended sizes
+*   nike
+*   women's boots
 *   clearance
+
+see store ads
 
 get connected SIGN UP FOR EMAIL SIGN UP FOR MOBILE UPDATES
 
