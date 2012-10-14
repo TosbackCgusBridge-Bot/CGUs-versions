@@ -44,41 +44,42 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
-    *   Black Boots
     *   Bvlgari , Cartier, Tiffany &. Co. and more rings
-    *   Diane Von Furstenberg Women's Apparel
+    *   Fall must-haves: designer outerwear sale
     *   Finishing touch: white gold jewelry
-    *   Gemstone Silver jewelry deals
-    *   Kier+J Women's Apparel
-    *   La Class Women's Apparel
-    *   Luxury handbags under $499
+    *   Jewelry Essentials: hoops
+    *   Leave Nothing But Footprints Women's Apparel
+    *   Margarita Saplala Women's Apparel Made in USA
     *   Michael Kors Handbags
-    *   Miss Finch Women's Apparel
-    *   Montereggi &. Victory Winter Outerwear Collection
-    *   On Trend: Disco Ball Bracelets and more
+    *   Michael Valitutti jewelry
+    *   Sophia Visconti handbags
+    *   Soul Revival, Cynthia Rowley, Dex, Trinity and more designer dresses
     *   Stretta Women's Apparel
-    *   Valance Women's Gloves
+    *   Yellow gold jewely blowout
     *   _more..._
     *   men
     *   Men's Fragrances: Gucci, Guerlain, Boucheron and more
     *   Men's Shop: Ike Behar and Bonnie and Bill Sweaters
     *   _more..._
     *   other
-    *   Diamond Time
+    *   Charriol Watches Made In Switzerland
     *   Fendi, Gucci, Versace and more designer watches
     *   Michael Kors sunglasses
+    *   Modern Art
+    *   Venetian Masks
     *   Week in Rewind
     *   _more..._
 *   apparel
     *   women
-    *   Beauty's Love Women's Nightgowns
-    *   Burberry Women's Jackets
     *   Diane Von Furstenberg Women's Apparel
+    *   Fall must-haves: designer outerwear sale
     *   Kier+J Women's Apparel
     *   La Class Women's Apparel
+    *   Leave Nothing But Footprints Women's Apparel
+    *   Margarita Saplala Women's Apparel Made in USA
     *   Miss Finch Women's Apparel
-    *   Missa Women's Sweaters
     *   Montereggi &. Victory Winter Outerwear Collection
+    *   Soul Revival, Cynthia Rowley, Dex, Trinity and more designer dresses
     *   Stretta Women's Apparel
     *   _more..._
     *   men
@@ -94,63 +95,58 @@ Loading Modnique - Boutique Events
     *   Bvlgari , Cartier, Tiffany &. Co. and more rings
     *   Designer Diamonds
     *   Designer Jewelry
-    *   Drop &. Dangle Earrings
     *   Finishing touch: white gold jewelry
     *   Gemstone Silver jewelry deals
     *   Handmade in Italy: Enzo Liverino, Feludei, Koesia, Rosato and more
+    *   Jewelry Essentials: hoops
+    *   Michael Valitutti jewelry
     *   On Trend: Disco Ball Bracelets and more
+    *   Yellow gold jewely blowout
     *   _more..._
     *   other
+    *   Charriol Watches Made In Switzerland
     *   Diamond Time
     *   Fendi, Gucci, Versace and more designer watches
-    *   Ladies Necklace Designed In Sterling Silver
-    *   Locman Watches Made In Italy
-    *   Sport Watches
+    *   Ladies Citrine Necklace Designed In 925 Sterling Silver
     *   Week in Rewind
     *   _more..._
 *   Handbags &. Accessories
     *   women
     *   Designer Jewelry
     *   Elise Hope Handbags
-    *   Gucci Handbags Made in Italy
-    *   Luxury handbags under $499
     *   Michael Kors Handbags
+    *   Sophia Visconti handbags
     *   Valance Women's Gloves
     *   _more..._
     *   men
     *   Men's Shop: Joseph Abboud Wallets &. Cufflinks
     *   _more..._
     *   other
-    *   Gucci Sunglasses Made In Italy
     *   Michael Kors sunglasses
-    *   Roberto Cavalli, Prada, Jhane Barnes and more Eyewear
+    *   Venetian Masks
     *   Week in Rewind
     *   _more..._
 *   shoes
     *   women
     *   Black Boots
     *   It's all in the details: Bows
-    *   Report and R2 Women's Footwear
     *   _more..._
 *   beauty
     *   women
     *   Belletto Studio Cosmetics Made In USA
-    *   EF Studio Brush Spectacular
     *   _more..._
     *   men
     *   Men's Fragrances: Gucci, Guerlain, Boucheron and more
     *   _more..._
 *   men
+    *   Charriol Watches Made In Switzerland
     *   Diamond Time
     *   Fendi, Gucci, Versace and more designer watches
-    *   Gucci Sunglasses Made In Italy
-    *   Locman Watches Made In Italy
     *   Men's Fragrances: Gucci, Guerlain, Boucheron and more
     *   Men's Shop: Ike Behar and Bonnie and Bill Sweaters
     *   Men's Shop: Joseph Abboud Wallets &. Cufflinks
     *   Michael Kors sunglasses
-    *   Roberto Cavalli, Prada, Jhane Barnes and more Eyewear
-    *   Sport Watches
+    *   Venetian Masks
     *   Week in Rewind
     *   and many more...
 *   gifts
