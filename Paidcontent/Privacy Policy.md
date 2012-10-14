@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Dick Costolo says being the ‘second screen’ is the future of Twitter
+Amplification &. the changing role of media
 
 Stay on top of tech news in your inbox
 
