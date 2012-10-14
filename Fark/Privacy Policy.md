@@ -147,37 +147,30 @@ Headlines of the Week
 **From the Fark Shop:**
 
 *     
-    Eeek! A pervert!
+    Vitruvian Squirrel
 *     
-    Rubik's Cube Plush (Solved)
+    Spider Byte - Earphone Cord Organizer
 *     
-    Indiana Bones - Zombies Who Didn't Keep Their Eyes Shut
+    Elvis - Burnin' Love Cinnamon Mints
 *     
-    Brainier Than The Average Bear
+    Mixed Messages Mug
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
 Two-Year-Old Girl Insults Kate Middle...  
-Police Left Her Topless, Hog Tied and...  
+The Most Unrealistic Sports Scenes in...  
 Is This What You Think it Is...?  
-Hilarious Wedding Bloopers Compilatio...  
+Police Left Her Topless, Hog Tied and...  
 More news at Scribol »  
   
   
-Punk'd! Justin Bieber's Stolen Laptop...  
-Kate Hudson Wows In A Red Dress With...  
-Lindsay Lohan Steps Out After Fight W...  
-Lindsay Lohan Accuses Mother Dina Of...  
-More news at Starpulse »  
-  
-  
-Mom Gets 99 Years for Gluing Tot's Hands  
-Cops Confirm: Body of Missing Colorad...  
-DeVito Romanced Extra, 'Promised to M...  
-10-Foot Snake Found at Airport  
-More news at Newser »  
+Hulk Hogan Contacts FBI Over Leaked S...  
+Honey Boo Boo Clan -- You Be the Judge  
+Honey Boo Boo -- I'm Stimulatin' The...  
+Tyga -- Sued Over Malibu Mansion ......  
+More news at TMZ »  
   
   
 Streisand: Early Photos of an Insecur...  
@@ -186,10 +179,17 @@ GOP Women Party Hard, 1941
 Gunning for White-Winged Doves, 1961  
 More news at Life »  
   
+  
+Kim &. Khloe Kardashian Show Off Their...  
+Kate Upton Is Sexy &. Sophisticated In...  
+Kylie Minogue Wears A See-Through Lac...  
+Punk'd! Justin Bieber's Stolen Laptop...  
+More news at Starpulse »  
+  
 
 Also on Fark
 
-Main It's people. Bumble Bee is made out of people ( dailybreeze.com ) » (20 comments) Sports Washington Nationals: So patriotic they red, white, and blew Game 5 ( sports.yahoo.com ) » (19 comments) Business You there. Yes, you. You're responsible for retailers putting up Christmas decorations on Columbus Day (with picture of a pumpkin-headed turkey wearing a Santa Claus suit that will haunt your dreams) ( cnbc.com ) » (68 comments) Geek Very fun shots of Endeavor as she tours the streets of Los Angeles winding through the neighborhoods. Tomorrow she visits the Sixth Street Bridge and the Observatory before her final destination ( framework.latimes.com ) » (42 comments) Entertainment Snoop Dogg &. Hot Pocket's hot new track: "Pocket Like It's Hot" -- Seriously ( foodbeast.com ) » (32 comments) Politics Modmin - please fix source image to 'The Onion' ( americanthinker.com ) » (12 comments) Video Why don't kids dance like this no more? Poppa was a Rollin stone. Hey mamma ( youtube.com ) » (34 comments)
+Main Teacher happy he romanced and married a student 30 years ago, is befuddled by public anger at MF sector of teacher sex matrix. "It sounded as if everyone wanted to string him up. I realised they could just as well have been talking about me" ( dailymail.co.uk ) » (17 comments) Sports Gangnam Style Grand Prix Discussion Thread. Mark Webber on pole. Heyyy Sexay Coverage 1:30 AM ET ( bbc.co.uk ) » (164 comments) Business East Texas patent court rules that a company that created business websites in 1996 is guilty of infringing on a business website patent filed in 1998 ( arstechnica.com ) » (29 comments) Geek If God of War's Kratos had a dating site profile ( venturebeat.com ) » (17 comments) Entertainment ♫ There he goes, (the host of) Miss America ♫ ( tmz.com ) » (22 comments) Politics Bain shows its support for Romney's tough-on-China stance by replacing American flag at American factory with Chinese one while the employees train their Chinese replacements. Something something Job creators ( salem-news.com ) » (206 comments) Video This is what happens when the weatherman and graphics operator have total creative control ( liveleak.com ) » (3 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -199,5 +199,5 @@ Main It's people. Bumble Bee is made out of people ( dailybreeze.com ) » (20 c
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 13 2012 08:00:35  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 14 2012 08:00:33  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
