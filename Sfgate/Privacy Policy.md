@@ -1,6 +1,6 @@
 (skip this header)
 
-Saturday Oct 13, 2012 5:06 AM PT
+Sunday Oct 14, 2012 5:06 AM PT
 
 ° (change)
 
@@ -60,10 +60,10 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Oct. 23 unveiling of iPad Mini?
-*   'The Other Dream Team'
+*   Map: Marathon in S.F. on Sunday
+*   First snow at Sierra resorts
+*   5 things to do in Casablanca
 *   Where'd white tablecloths go?
-*   Bieber's tweet war stunt
 *   Giants playoff gear!
 
 *   Bay Area &. State
@@ -381,39 +381,35 @@ Ads by Yahoo! Photo Galleries
 
 *   Most Commented
 
-1.  Biden-Ryan debate offers clear contrasts
-2.  Mirkarimi fight leaves deep political scars
-3.  Tragedy: Bullied Canadian teen commits suicide, saddens people everywhere
-4.  18 Oakland cops may get heavy discipline
-5.  Snout-less 'hero dog' Kabang arrives at UC Davis
-6.  Mom who glued toddler's hands: Is she a monster?
-7.  An agressive Biden calms jittery Democrats
+1.  Gas prices will jump again, critics say
+2.  Boy in school flap over cystic fibrosis
+3.  Richmond's soda tax campaigner
+4.  Shot fired at Obama campaign office in Denver
+5.  The 30 scariest movies
+6.  Al-Qaida leader urges holy war over Prophet film
+7.  Tragedy: Bullied Canadian teen commits suicide, saddens people everywhere
 
 loading... Latest News Videos From our homepage
 
 *     
-    Lance Iversen, The Chronicle / SF
+    Los Angeles Newspaper Group, Jeff Gritchen, Pool / AP
     
-    Giants need more pop
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 11:33 p.m., Saturday, October 13, 2012 Shuttle inches toward end
     
-    S.F. has plenty of heart, but that's not enough to win NLCS.
-    
-*   Cardinals advance to play Giants
-
-*     
-    Anton Mari H. Lim, Courtesy Anton Lim / SF
-    
-    Snoutless 'hero dog' arrives
-    
-    Kabang whose muzzle was sliced off saving two young girls comes to UC Davis in milestone effort.
+    Endeavour makes its slow journey through SoCal traffic to its final resting place at museum.
     
 
 *     
-    Florida Fish And Wildlife Conservation Commission, Carli Segelson / AP
+    Alanna Hale, Sunset.com / SF
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 3:43 p.m., Friday, October 12, 2012 Eyeing a mystery
+    Best food shops in West
     
-    Huge, blue eyeball that washed up on Fla. beach has created a stir in scientific community.
+    Whether you're looking for butchers or bakers, the Bay Area has some of the top spots.
+    
+
+*   The 30 scariest movies
+    
+    If you're looking for a good pre-Halloween fright, these films can get your blood pumping.
     
 
 *   Home
