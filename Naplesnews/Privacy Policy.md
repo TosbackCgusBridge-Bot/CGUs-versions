@@ -143,19 +143,6 @@ Naples Daily News
 *   Cars
 *   Classified
 
-*   PrepZone: Battle for the Gate
-    
-    Scores &. Chat Archive | Titans make it 3 straight over Bears | Photo Galleries | Game Video | More »
-    
-*   PrepZone: Football Photos
-    
-    Lely vs. Gulf Coast | Your Photos: Gulf Coast Homecoming | Fort Myers vs. SFM | Share Your Photos »
-    
-*   PrepZone: Game Videos
-    
-    Gulf Coast vs. Lely | Neumann vs. Gateway Charter | Immokalee vs. Cape Coral | SFM vs. Fort Myers
-    
-
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -448,25 +435,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 194 comments
-*   Security officer, formerly of East Naples, cleared of child porn charges Published 10/12/2012 at 5:15 a.m. 9 comments
-*   Prep Football: Chat, scores, videos, photos and stories from Week 7 Updated 10/12/2012 at 11:35 p.m. 0 comments
-*   Gov. Scott wants probe of 28 college presidents' salaries Published 10/12/2012 at 5:07 a.m. 36 comments
-*   Arrest made in Golden Gate homicide. friend describes love-triangle gone wrong Updated 10/11/2012 at 7:56 p.m. 30 comments
+*   FHP report: Mom drank three bottles of wine, crashed car on I-75 with kids inside Published 10/13/2012 at 3:15 p.m. 19 comments
+*   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 293 comments
+*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 53 comments
+*   Swing state: Heavy population of Puerto Rican residents could tip vote in I-4 corridor Published 10/13/2012 at 8:00 a.m. 28 comments
+*   Brent Batten: Reticent Collier County manager not talking about Hiller Published 10/13/2012 at 4:00 p.m. 24 comments
 
-Photo Galleries Catch of the Day: Oct. 11, 2012 Editorial Cartoons: Oct. 10, 2012 Prep Football: Lely vs. Gulf Coast
+Photo Galleries Everblades pull out OT win over Solar… Manatee, Gulfview win cross country… Prep Football: Fort Myers vs. South…
 
-*   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 194 comments
-*   In close race, Obama and Romney both showing confidence Published 10/9/2012 at 5:36 a.m. 258 comments
-*   VP debate: Biden, Ryan at each other on everything Published 10/11/2012 at 10:14 p.m. 84 comments
+*   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 293 comments
+*   VP debate: Biden, Ryan at each other on everything Published 10/11/2012 at 10:14 p.m. 86 comments
+*   Brent Batten: Evaluations shed light on commissioners' ability to misrepresent facts Published 10/11/2012 at 5:00 a.m. 71 comments
 *   Election 2012: What to expect when Biden, Ryan face off in VP debate Published 10/11/2012 at 5:00 a.m. 70 comments
-*   Swing state: Jewish vote a must to Obama, an opportunity to Romney Published 10/10/2012 at 7:00 a.m. 73 comments
+*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 53 comments
 
 *   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
 *   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 10 comments
 *   Stan's gone but his Goodland restaurant opens for season Published 10/8/2012 at 5:00 a.m. 6 comments
 *   Teachers take on kids' nutrition with a book set in Naples Published 10/9/2012 at 4:00 a.m. 0 comments
-*   Diplomat charged with DUI after crashing into tree, claims immunity Published 10/3/2012 at 5:00 p.m. 40 comments
+*   Deputies: Woman denies ownership of marijuana in genitals, said she was protecting friends Published 10/5/2012 at 8:16 p.m. 65 comments
 
 Weather
 
@@ -474,19 +461,7 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 70° Fair Wind: N 8mph Today 89° 70° Sat 08:00 PM Mostly Clear Temp: 82° Sun 08:00 AM Partly Sunny Showers Temp: 73° Sun 08:00 PM Mostly Cloudy Showers Temp: 82°
-
-Feels Like: 84°
-
-Humidity: 59%
-
-Precip: 20%
-
-Feels Like: 73°
-
-Humidity: 84%
-
-Precip: 10%
+Currently 72° Fair Wind: N 6mph Today 87° 73° Sun 08:00 PM Mostly Clear Temp: 82° Mon 08:00 AM Mostly Cloudy Showers Temp: 75° Mon 08:00 PM Partly Cloudy Temp: 80°
 
 Feels Like: 86°
 
@@ -494,20 +469,24 @@ Humidity: 69%
 
 Precip: 30%
 
+Feels Like: 75°
+
+Humidity: 87%
+
+Precip: 10%
+
+Feels Like: 83°
+
+Humidity: 74%
+
+Precip: 20%
+
 More Weather » Calendar
 
-*   Saturday Oct 13
 *   Sunday Oct 14
 *   Monday Oct 15
+*   Tuesday Oct 16
 *   More BROWSE Icon
-
-*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
-*   Third Street South Farmers Market Third Street South 7:30 a.m.
-*   Walk to End Alzheimer's - Collier County Gulfview Middle School 8 a.m.
-*   2012 Trek Breast Cancer Awareness Ride Trek Bicycle Store of Estero 8 a.m.
-*   Wild Everglades Womens Fishing University Port-of-the-Islands 8 a.m.
-
-More Events »
 
 *   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
@@ -522,6 +501,14 @@ More Events »
 *   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
 *   Pumpkin Patch North Naples United Methodist Church 9 a.m.
 *   Exhibition Opening: Thy God/thy self" by Michele Guarino Naples Depot Museum 9 a.m.
+
+More Events »
+
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
+*   Barrier Islands Guided Walk Bowditch Point Recreational Park 9:30 a.m.
+*   iPad for Beginners Commons Club at the Brooks, 9930 Coconut Rd, Bonita Springs 9:30 a.m.
 
 More Events »
 
