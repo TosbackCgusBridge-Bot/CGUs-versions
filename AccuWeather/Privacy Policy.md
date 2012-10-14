@@ -235,7 +235,7 @@ Health Allergies, Dust and Dander Map Travel Today's Travel Weather Map Home &. 
 *   Weather Blogs
 *   Personalities
 
-Health Climate Trivia: Mosquitoes, West Nile Virus and the Weather Travel Staying Green: Hotels Step Up Their Sustainability Initiatives Home &. Garden How to Fell a Tree Outdoor Achieving Optimum Pet Health
+Health Climate Trivia: Mosquitoes, West Nile Virus and the Weather Travel Staying Green: Hotels Step Up Their Sustainability Initiatives Home &. Garden How to Inspect and Repair Gutters Outdoor Achieving Optimum Pet Health
 
 *   Weather News
 *   Weather Video
