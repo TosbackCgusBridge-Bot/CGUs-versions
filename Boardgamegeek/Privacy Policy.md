@@ -27,8 +27,8 @@ Register
 
 *   Browse Database
     
-    *   Games (61219)
-    *   Families (1700)
+    *   Games (61234)
+    *   Families (1703)
     *   Categories (80)
     *   Mechanics (48)
     *   Artists (8650)
