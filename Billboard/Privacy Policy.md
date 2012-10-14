@@ -84,13 +84,17 @@ Please make sure javascript is enabled in your browser homepage Billboard - Musi
 
 previous 14/14
 
-*   Watch: Bieber's 'Beauty and a Beat' Video
+*   Austin City Limits: Weezer, Avicii &. More
     
-    Justin Bieber, Nicki Minaj and dozens of dancers go swimming and get wild after dark in a waterpark for his new "Beauty and a Beat" video, which debuted Friday. Watch it here!
+    The Black Keys, Weezer and Avicii closed out the first night of the 11th annual Austin City Limits Music Festival with packed performances Friday, as thousands of fans braved the fall heat to kick off the weekend.
     
 *   Bruno, Kelly, Adele: Whose Single Is Best?
     
     The past two weeks have seen Bruno Mars, Kelly Clarkson and Adele unveil high-profile pop singles. But which tune is the cream of the fourth-quarter crop? Vote now and sound off on this pop battle!
+    
+*   Watch: Bieber's 'Beauty and a Beat' Video
+    
+    Justin Bieber, Nicki Minaj and dozens of dancers go swimming and get wild after dark in a waterpark for his new "Beauty and a Beat" video, which debuted Friday. Watch it here!
     
 *   Photos of the Week
     
@@ -103,10 +107,6 @@ previous 14/14
 *   Jason Aldean Live Q&A: 10/15 at 3:45pm ET
     
     Just one day before Jason Aldean unleashes his brand new album "Night Train," the country hitmaker will be at Billboard for a Live Q&A on Monday (Oct. 15) to talk about the new music and current tour, and to answer your tweeted questions live on camera.
-    
-*   The Top 10 James Bond Theme Songs Ever
-    
-    To celebrate Bond's 50th birthday and Adele's new "Skyfall" theme song, take a deep look at the top-charting 007 songs of all time, from Tom Jones to Madonna.
     
 
 Video
