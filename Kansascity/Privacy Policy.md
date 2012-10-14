@@ -136,32 +136,25 @@ If you have any questions or comments about our policies, we may be reached at K
 
 KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $0 Value: Discount: You Save: $0 100% $0
 
-Saturday: CVS, Walgreens Deals CVS
+Sunday: More Deals
 
-*   CVS Facial Tissue, 75-184ct - $0.99
-*   Gillette Fusion ProGlide Razor or Styler Kit - $9.99
-*   Crest 3D White, Pro-Health, or with Scope Toothpaste, 4-4.2oz, or Pro-Health Rinse, 8-8.4oz - $2.99
-*   more...
-
-1.  SALES
+1.  OPERATING MANAGER
     
-2.  CAMPAIGN JOBS
+2.  PROGRAM DIRECTOR
+    
+3.  CAMPAIGN JOBS
     
     Grassroots Campaigns, Inc.
     
-3.  Apartment Maintenance Helper
+4.  Apartment Maintenance Helper
     
-4.  Certified Dietary Manager
+5.  Certified Dietary Manager
     
     CROWN CARE CENTER
     
-5.  CHILD CARE TEACHERS
+6.  CHILD CARE TEACHERS
     
     La Petitie Academy
-    
-6.  SJGS CONTROLS TECHNICIAN SR.
-    
-    PNM
     
 
 View More The Most
@@ -169,16 +162,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Body in Colorado is identified as missing girl
-*   How much more can KC sports fans take?
-*   Chiefs’ Daboll looks at effects of conservative play-calling
-*   At Mizzou Madness, Tigers leap into new season
-*   Bar patrons are given a chance to measure blood alcohol level, without repercussions
-*   Tampa Bay’s Freeman unfazed by change in his NFL fortune
-*   Sprint is part of Softbank founders 300-year plan
-*   Fieldhouse Rock takes over Allen
-*   Commentary: Romney still has a tough sell on Medicare
-*   Mom gets 99 years in prison for gluing tot's hands
+*   Chiefs biggest problem isnt turnovers, its the QB
+*   Des Moines baby a numerologist's delight
+*   MU notebook: Tight end Waters carried off field at end of game
+*   Much-anticipated new season of 'The Walking Dead' begins Sunday
+*   Commentary: Mr. Romney, people die because they lack health insurance
+*   No. 1 Alabama handily beats Missouri 42-10
+*   K-State is only perfect team in Big 12 after win at Iowa State
+*   With Cassel out, Quinn must take charge for Chiefs
+*   What lies beyond the fiscal cliff: spending cuts
+*   Review: 'There's No Place Like Home', the quest for Naismith's Rules
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
