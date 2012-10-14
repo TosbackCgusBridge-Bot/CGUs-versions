@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   Election 2012
-    *   Paul Ryan
     *   entertainment
     *   celebrity
-    *   Joe Biden
-    *   vice presidential...
     *   strange stuff
+    *   Paul Ryan
     *   Mitt Romney 2012
-    *   Lance Armstrong...
-    *   cybersecurity
+    *   President Obama
+    *   meningitis
+    *   timeless news
+    *   Mitt Romney
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -125,33 +125,39 @@ NEWS FROM OUR PARTNERS
 
 More from Slate »
 
-*   DOG SEMEN LAWSUIT
-*   Sucker Punchin' Samaritan Saves Family
-*   Class Photo Gone Wrong
+*   MEASURE UP
+*   Sheriff Busts Film Crew For Breaching Area 51: EXCLUSIVE
+*   Casey Anthony Sued For $3 BILLION
 
 More from HuffPost Weird »
 
-*   Super-Couple Jon Hamm &. Jennifer Westfeldt Might Be On The...
-*   Argentina Allows Woman Trapped In Sex Slavery To Have...
-*   Octomom Is Accused Of Sexual Abuse &. The Most Sexist...
+*   Well Played: Keira Knightleyâs Not-So-Typical Little Black...
+*   If Teresa Giudice Ignores Latest Joe Giudice Cheating...
+*   Awkwafina Makes A Vagina Battle Rap (NSFW-ish)
 
 More from The Frisky »
 
-*   Old and busted: keyboard cat. New hotness: cardboard cat....
-*   It's people. Bumble Bee is made out of people \[Sad\]
-*   School allows parent accused of sexual assault to chaperone...
+*   Teacher happy he romanced and married a student 30 years...
+*   Pipe bomb uncovers bizarre live triangle, resulting in...
+*   Plant Nazis influenced by an idiot New Yorker are making...
 
 More from Fark »
 
-*   51.4 Million People Were Blinded by Joe Bidenâs Teeth Last...
-*   Here’s the Gawker Article Reddit Was So Afraid Of
-*   Having a Small Penis Finally Pays Off\*
+*   10 things you need to know today: October 13, 2012
+*   Intelligence, politicized
+*   5 smart reads for the weekend
+
+More from The Week »
+
+*   Big Bird and His Muppet Army Will March on Washington
+*   Rupert Murdoch Is Aware of This Newfangled âVICE Mediaâ
+*   The Number 47 Strikes Again
 
 More from Daily Intel »
 
-*   The Best Natural Sources Of Vitamin D
+*   What's _Your_ Power Breakfast?
 *   Breast Cancer Awareness: Jumping in
-*   Diagnosing and Treating Fungal Meningitis
+*   Scaring the Neighbors: The Perils of Being a Pressure Cooker
 
 More from HuffPost Health »
 
@@ -161,9 +167,9 @@ More from HuffPost Health »
 
 More from Celebuzz »
 
-*   Bad News For Women Is REALLY Bad News (But Men Can Just...
-*   Barack Obama Is a Communist, Uh, Whatever That Is (VIDEO)
-*   Octomom vs. Tanning Mom in the Boxing Ring: Who's Your...
+*   Pumpkin Pancakes That Are Hands-Down the Greatest Fall...
+*   Boy Is Attacked By Bullies in Front of News Crew ... Just...
+*   Mom Who Glued 2-Year-Old's Hands to a Wall Gets Longer...
 
 More from The Stir »
 
