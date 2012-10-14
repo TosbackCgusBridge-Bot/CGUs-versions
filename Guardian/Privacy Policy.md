@@ -287,20 +287,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Media:** Reddit blocks Gawker in row over 'creepshot' photos
-2.  2\. **News:** The death of Osama bin Laden: how the US finally got its man
+1.  1.  **News:** Barack Obama's presidency 'has not helped cause of black people in US'
+2.  2\. **News:** Why a Bible belt conservative spent a year pretending to be gay
 3.  3\. **News:** Mystery Florida eyeball is probably from '10ft swordfish', experts say
-4.  4\. **Film:** Skyfall – first look review
-5.  5\. **Football:** Roy Hodgson furious at Theo Walcott injury from San Marino goalkeeper
+4.  4\. **Media:** Reddit blocks Gawker in row over 'creepshot' photos
+5.  5\. **Media:** Jimmy Savile scandal prompts flood of calls to abuse victims' groups
 6.  More most viewed
 
 Last 24 hours
 
-1.  **News:** Edwina Currie
-2.  **Film:** Skyfall – first look review
-3.  **Culture:** Modern Toss
-4.  **TV &. radio:** Breaking Bad: Aaron Paul plays a drug-dealing killer and viewers can't get enough of him
-5.  **Life &. style:** Sudoku 2,317 hard
+1.  **Media:** Jimmy Savile case: At work it's called banter, but there's still a culture of sex harassment in TV
+2.  **Film:** Judi Dench: 'I never want to stop working'
+3.  **News:** Jay McInerney on Obama: 'We have to give him a second chance'
+4.  **Society:** An insider's guide to Tourette's syndrome
+5.  **Life &. style:** Observer sudoku
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -308,20 +308,20 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Doping scandal rumbles on as GreenEDGE director resigns
-2.  2\. Lord Turner: 'UK banks could have recovered with a bigger bailout'
-3.  3\. MPs may face pay cut for taking second jobs
-4.  4\. Homeland is brilliant drama. But does it present a crude image of Muslims?
-5.  5\. Space shuttle Endeavour makes final journey through streets of LA
+1.  1.  Felix Baumgartner tries to break sound barrier with freefall jump – live
+2.  2\. Andy Murray v Novak Djokovic – live!
+3.  3\. Cuban missile crisis 50 years on: Washington exhibition unveils secret Kennedy recordings - video
+4.  4\. Best sheep in Senegal competition – in pictures
+5.  5\. Talking Horses
 6.  All today's stories
 
 On the Guardian today
 
 1.  Life and style Mapping the body: the temple
-2.  World news The death of Osama bin Laden: how the US finally got its man
+2.  World news Barack Obama's presidency 'has not helped cause of black people in US'
 3.  Media Reddit blocks Gawker in row over 'creepshot' photos
-4.  Sport St Louis Cardinals 9, Washington Nationals 7 - as it happened
-5.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+4.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+5.  World news Jay McInerney on Obama: 'We have to give him a second chance'
 6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
 
 *   License/buy our content
