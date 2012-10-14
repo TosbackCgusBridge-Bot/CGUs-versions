@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Ryan Gosling
+*   Twitter
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 13, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: **U.S.**
+October 14, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 13, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
 *   FRONT PAGE
 *   Politics
     
-    *   Biden-Ryan Debate: It's All About Joe 42k
-    *   POLL: Who Won The Debate? 8k
-    *   Polls Mixed On Debate Winner 11k
-    *   Biden Calls Out Ryan For Stimulus Hypocrisy 16k
-    *   Romney, Ryan Rally In Ohio 7k
+    *   Romney, Ryan Rally In Ohio 19k
+    *   Billionaire Koch Brother Accused Of Imprisoning Employee 6k
+    *   _He's Baaaaaack_ 3k
+    *   Romney And Allies Greatly Outpace Obama In Ad Spending As Election Closes 16k
+    *   READ: Paul Ryan's Letters Requesting Stimulus, EPA Funds 9k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 13, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Gay Voices
 *   Business
     
-    *   Family Time At The Ryans Could Be #AWKWARD 4k
-    *   FBI: 'Large Amount' Of Newly Designed $100 Bills Stolen At Philadelphia International Airport 235
-    *   Mitt Romney: People Don't 'Die In Their Apartment Because They Don't Have Insurance' 17k
-    *   Anti-Obama CEO On His Employees: 'They're Like My Children, And I'm The Jewish Mother' 696
-    *   FACT CHECK 146
+    *   Al Gore Making A Whole Lot Of Green Off Investing In Green 2k
+    *   FBI: 'Large Amount' Of Newly Designed $100 Bills Stolen At Philadelphia International Airport 964
+    *   Exclusive: Inside Walmart's Secret Strike Plan 5k
+    *   62-Year-Old Cooked To Death At California Tuna Plant 370
+    *   Family Time At The Ryans Could Be #AWKWARD 5k
     
     Go to Business **More in Business**
     
@@ -66,10 +66,10 @@ October 13, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
 *   Entertainment
     
     *   Lindsay Lohan Is Voting For Romney 4k
-    *   'Friday Night Lights' Creator RIPS Romney Over Slogan 4k
-    *   GUESS WHO 42
-    *   WATCH: Lana Del Rey's Epic Video 157
-    *   Is The New Jonas Brothers Song About Miley Cyrus?
+    *   Did These Critics Go Too Far? 173
+    *   'Friday Night Lights' Creator RIPS Romney Over Slogan 5k
+    *   GUESS WHO 58
+    *   The First Word On 'Skyfall' Is ... 275
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 13, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Moviefone
 *   Tech
     
-    *   The 21 Most Outrageous Cases For Your iPhone 5 30
-    *   REPORT: Apple May Release A New iPad Later This Month 227
-    *   7 Reasons Why We Act Differently Online 58
-    *   The Galaxy S3 Mini Is Here! 25
-    *   The 13 Most Awkward Pets Of Facebook
+    *   Randi Zuckerberg Steps Out Of Her Brother's Shadow 215
+    *   The 9 Most Popular Viral Videos Of The Week
+    *   The 21 Most Outrageous Cases For Your iPhone 5 39
+    *   The 13 Most Awkward Pets Of Facebook 21
+    *   Report: Government ThisClose To Suing Google For Gaming Search Results 302
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 13, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Joystiq
 *   Media
     
+    *   'Million Muppet March' Planned To Protest Romney Over PBS 4k
+    *   IT'S BACK 70
+    *   Erica Hill Joins NBC News 256
+    *   PHOTOS: How Newspapers Covered Biden-Ryan Showdown 737
     *   Martha Raddatz Gets Accolades For Debate Performance 6k
-    *   Erica Hill Joins NBC News 197
-    *   Fox News Goes Off On Biden: 'Rude,' 'Unhinged,' 'Cranky Old Man' 6k
-    *   PHOTOS: How Newspapers Covered Biden-Ryan Showdown 454
-    *   WATCH: Matthews Confronts Obama Heckler 2k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 13, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Moviefone
 *   World
     
-    *   European Union Wins Nobel Peace Prize 1k
-    *   Next Days Will Be Critical For Malala 269
-    *   Forbidden Love Story Sends Message Of Hope
-    *   Israeli Soldier Held By Hamas For 5 Years Speaks Out 394
-    *   Report: Human Rights Activists In Iran Raped And Tortured 250
+    *   Most Insane Photos Of The Week
+    *   169 Guards, One Prisoner 215
+    *   Al Qaeda Leader Calls For More Anti-Islam Film Protests 1k
+    *   Turkish PM Slams UN Security Council Over Syria 492
+    *   Forbidden Love Story Sends Message Of Hope 35
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 13, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Religion
 *   Healthy Living
     
-    *   6 Surprising Signs You Need More Sleep 99
-    *   Make Over Your Breakfast: Healthy Updates To 13 Classics 17
-    *   The Best Health News Ever 13
-    *   You'll Never Guess What Joe Biden Ate Pre-Debate 91
-    *   The Best Natural Sources Of Vitamin D 14
+    *   You'll Never Guess What Joe Biden Ate Pre-Debate 196
+    *   Make Over Your Breakfast: Healthy Updates To 13 Classics 25
+    *   The Best Natural Sources Of Vitamin D 36
+    *   The Best Health News Ever 18
+    *   Eat Vegetarian, Live Longer? 150
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 13, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Religion
 *   Style
     
-    *   PHOTOS: Lindsay Lohan's Hair Is The Wrong Color 241
-    *   Jennifer Aniston To Shill Hair Products For Living Proof 112
-    *   PHOTOS: Bill &. Hillary Clinton PDA-Fest 43
-    *   PHOTOS: Janna Ryan And Jill Biden Embrace Color At The VP Debates 66
-    *   PHOTO: Katie Holmes Wears Leggings As Pants 415
+    *   PHOTO: Miley Cyrus Tries A Surprisingly Seductive Look On Jay Leno 832
+    *   PHOTOS: See This Week's Near Wardrobe Malfunctions! 52
+    *   Change.org To Barneys: Leave Minnie Mouse Alone! 122
+    *   PHOTOS: Bill &. Hillary Clinton PDA-Fest 65
+    *   PHOTOS: Lindsay Lohan's Hair Is The Wrong Color 356
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 13, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Post 50
 *   Comedy
     
-    *   'How Do These F\*cking Crazy People Make It To The National Stage?' 2k
-    *   21 Punny Halloween Costume Ideas
-    *   PHOTO: This Church Wins Halloween 89
-    *   WATCH: Letterman Says 'Bro' &. 'Cool' A Lot 936
-    *   7 Sites You Should Be Wasting Time On Right Now 12
+    *   21 Punny Halloween Costume Ideas 13
+    *   Maher: 'Is There No Penalty Anymore For Just Being Wrong?' 2k
+    *   The Most Unfortunate Politician Names Of All Time 51
+    *   PHOTO: This Church Wins Halloween 186
+    *   'How Do These F\*cking Crazy People Make It To The National Stage?' 3k
     
     Go to Comedy **More in Comedy**
     
@@ -217,9 +217,9 @@ October 13, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
 *   LIVE
     *   Next Pretty Slick
     *   Next Office Politics
-    *   Later No Red Cities
-    *   Later No Escaping The Taliban
-    *   Later Pirates Or Pioneers?Go to HuffPost Live
+    *   Tomorrow No Red Cities
+    *   Tomorrow No Escaping The Taliban
+    *   Tomorrow Pirates Or Pioneers?Go to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
