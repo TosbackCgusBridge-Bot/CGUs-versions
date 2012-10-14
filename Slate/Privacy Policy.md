@@ -1,3 +1,5 @@
+Follow @slate
+
 *   News &. Politics
 *   Tech
 *   Business
@@ -125,12 +127,12 @@ Slate **Slide Shows**
 
 Click here to load comments.
 
-*   What Makes a Great Boss?
 *   _Seven Psychopaths_ Is Bracingly Weird and Wonderful
+*   What Makes a Great Boss?
 
 *   Why Do the Swiss Eat So Much Chocolate?  
     
-*   The Guy Who Figured Out How Much We Love To Watch NFL Teams We Hate
+*   Affirmative Action Will Live on Even if the Supreme Court Kills It
 
 Discover _Slate_ With Your Friends See what your friends are reading and automatically share how you're browsing _Slate_. You control what gets published to your Facebook News Feed. Social Reading is Turn ON Turn OFF Feedback <. newer | older >. To temporarily turn off Social Reading, toggle the social reading button to OFF at the top of this box or in the toolbar areas of this page. This will allow you to see what your friends have read but won't show your reading activity on _Slate_. Always notify me when I've shared an article. LOG INTO FACEBOOK  
 
@@ -138,54 +140,54 @@ To enable Social Reading on Slate, log into...
   
 \[  Cancel |  OK  \]
 
-*   1\. Why Do Republicans Talk Like Liberals In Military Debates?  
+*   1\. What Makes a Great Boss?  
+    By Matthew Yglesias | October 12, 2012
+*   2\. _Argo_, Blackwater, and “El Americano”: Great Stories About the CIA  
+    By Max Linsky | October 13, 2012
+*   3\. Why Do Republicans Talk Like Liberals In Military Debates?  
     By William Saletan | October 12, 2012
-*   2\. How Do Creationists Calculate Earth’s Age, and Why Can’t They Agree?  
-    By Brian Palmer | October 12, 2012
-*   3\. What Makes a Great Boss?  
-    By Matthew Yglesias | October 12, 2012
-*   4\. Are You Drinking Too Much? Depends on Whether You Ask the CDC, NIAAA, or _Smashed_.  
-    By Jake Blumgart | October 12, 2012
-*   5\. Why We Bet on Lena Dunham, LeBron James, and Mitt Romney  
-    By Karla Starr | October 12, 2012
+*   4\. Promo: The Real Problem With that Faulty GM Corn Study  
+    By Bjørn Lomborg | October 14, 2012
+*   5\. Cheney "Disturbed" by Biden's Debate Performance  
+    By Daniel Politi | October 13, 2012
 
-*   1\. Martha Raddatz for President! Or, at Least, for Permanent Moderator!  
-    By Rachael Larimore | October 12, 2012
-*   2\. A Humongous Disembodied Eyeball Has Washed Up On a Florida Beach  
-    By Will Oremus | October 12, 2012
-*   3\. Texas Schools Are Forcing Kids To Wear RFID Chips. Is That a Privacy Invasion?  
-    By Will Oremus | October 11, 2012
-*   4\. Why Today Was a Good Day for Barack Obama  
-    By Kara Brandeisky | October 11, 2012
-*   5\. Norwegian Nobel Committee to World: EU for Thee But Not For Me  
+*   1\. Meet the Planet That’s One-Third Diamond  
+    By Slate V Staff | October 12, 2012
+*   2\. Why We Bet on Lena Dunham, LeBron James, and Mitt Romney  
+    By Karla Starr | October 12, 2012
+*   3\. Stock Bubbles, Gangnam Style  
     By Matthew Yglesias | October 12, 2012
+*   4\. The Terrible Romney Tax Policy Idea The Campaign's Been Ignoring  
+    By Matthew Yglesias | October 12, 2012
+*   5\. Why Today Was a Good Day for Barack Obama  
+    By Mark Joseph Stern | October 12, 2012
 
 See More Stories on THE WEEK
 
-*   The Biden-Ryan debate fact-check: Who told the biggest whoppers?
+*   Why do smart kids grow up to be heavier drinkers?
 *   13 little-known punctuation marks we should be using
-*   72 years together: The couple who died holding hands
+*   The Army's eight-wheeled laser truck that zaps enemy missiles
 
 See More Stories on newser
 
-*   Family, Dog Reunited After 5 Years
-*   Your Next Doctor's Visit: Sitting in Your Car
-*   Fidel Castro Had Secret Nukes: Transcript
+*   Elderly Brits Accidentally Grow Huge Pot Plant
+*   Neurosurgeon: I've Been to Heaven
+*   Iowa Newborn Is Numerologist's Delight
 
 See More Stories on TIME
 
-*   The E.U.'s Nobel Peace Prize Sows Discord -- And Laughter
-*   China's Online Corruption-Busters Tread a Fine Line
-*   Apple vs. Google: The Most Important Battle in Tech
+*   The Tribes of Syria: An Exiled Chief Remains Unbowed
+*   Aliens Among Us: Did Life on Earth Begin from Beyond?
+*   Justice for the Mau Mau: Court Case in the U.K. Sheds Light on Grim Colonial Past
 
 From The Root &. Foreign Policy
 
-*   Really, Paul Ryan? Cure Violence With Manners?
+*   Does 'Homeland' Offer an Anti-Muslim View?
+*   Work More, Make More?
+*   Couple Sues Doctors for Botched Baby Birth
 *   Not All That It Can Be
-*   Will Black Friday Be Blue for Wal-Mart?
-*   Red Lines in the Sand
-*   Bus Driver Punches Young Female Passenger
-*   Same-Gender-Loving Black Greeks Shouldn't Surprise Us
+*   Abortion, This Election's Stepchild
+*   Shaq Brings the Funny to YouTube
 
 *   MORE Slate User Agreement And Privacy Policy COLUMNS
 
