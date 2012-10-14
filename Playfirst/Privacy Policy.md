@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (57.2 MB) Top PC Downloads 1 Diner Dash 2 Diner Dash 2 Restaurant Rescue 3 Wedding Dash 4 - Ever 4 Diner Dash: Hometown Hero 5 Wedding Dash 6 SpongeBob SquarePants Diner Dash 7 Cooking Dash 8 Dress Shop Hop 9 Diner Dash 5: BOOM 10 Wedding Dash 2: Rings Around the World » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (33.7 MB) Top PC Downloads 1 Diner Dash 2 Diner Dash 2 Restaurant Rescue 3 Wedding Dash 4 - Ever 4 Diner Dash: Hometown Hero 5 Wedding Dash 6 Cooking Dash 7 Diner Dash 5: BOOM 8 SpongeBob SquarePants Diner Dash 9 Hotel Dash: Suite Success 10 Wedding Dash 2: Rings Around the World » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -265,23 +265,23 @@ Restore Flo's hometown!
 
 Help Quinn make wedding bells ring!
 
-**Play Free!** (18.7 MB) Try It SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
-
-Soak up five-star feeding fun with everyone's favorite sponge!
-
-**Play Free!** (10.2 MB) Try It Cooking Dash DASH™ &. Time Mgmt Games
+**Play Free!** (18.7 MB) Try It Cooking Dash DASH™ &. Time Mgmt Games
 
 Help Flo cook and deliver food from four DinerTown restaurants while Cookie the Chef courts culinary celebrity!
 
-**Play Free!** (23.9 MB) Try It Dress Shop Hop DASH™ &. Time Mgmt Games
-
-Help Bobbi make cool custom clothes!
-
-**Play Free!** (15.1 MB) Try It Diner Dash 5: BOOM DASH™ &. Time Mgmt Games
+**Play Free!** (23.9 MB) Try It Diner Dash 5: BOOM DASH™ &. Time Mgmt Games
 
 Rebuild Flo's Diner from scratch!
 
-**Play Free!** (65.4 MB) Try It Wedding Dash 2: Rings Around the World DASH™ &. Time Mgmt Games
+**Play Free!** (65.4 MB) Try It SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
+
+Soak up five-star feeding fun with everyone's favorite sponge!
+
+**Play Free!** (10.2 MB) Try It Hotel Dash: Suite Success DASH™ &. Time Mgmt Games
+
+Flo's going into the hotel business!
+
+**Play Free!** (33.7 MB) Try It Wedding Dash 2: Rings Around the World DASH™ &. Time Mgmt Games
 
 Here come the brides - again!
 
