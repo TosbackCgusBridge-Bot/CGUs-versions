@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   UN's Syria Envoy in Turkey for Talks
-*   Finance Ministers Call for Strong Measures
+*   Obama, Romney Prepare For Debate Rematch
+*   Syria Bans Turkish Airline Overflights
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
