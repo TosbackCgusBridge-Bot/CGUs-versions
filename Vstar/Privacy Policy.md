@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Vice presidential candidates try to score points during only debate Updated 10/11/2012 at 9:56 p.m. 133 comments
-*   Authorities identify 2 people killed in Ventura crash Updated 10/12/2012 at 11:48 a.m.
-*   Majority of Ventura County schools meet test-score goal Updated 10/11/2012 at 4:20 p.m. 32 comments
-*   Young voters lead surge in online registration Updated 10/11/2012 at 7:28 p.m. 25 comments
-*   Supervisor Linda Parks takes on new political role of fact-checker Published 10/12/2012 at 8:16 p.m. 15 comments
+*   Supervisor Linda Parks takes on new political role of fact-checker Published 10/12/2012 at 8:16 p.m. 59 comments
+*   Ventura continues to wrestle with chickens Updated 10/12/2012 at 7:52 p.m. 27 comments
+*   Vice presidential candidates try to score points during only debate Updated 10/11/2012 at 9:56 p.m. 164 comments
+*   18-year-old man arrested in 2011 Oxnard homicide Published 10/12/2012 at 8:52 p.m.
+*   Ventura police use lasers, computers to reconstruct fatal accident Updated 10/12/2012 at 7:28 p.m.
 
-Photo Galleries Ventura County's Most Wanted October… Ojai artists open up their studios… Residents re-create 1940 Ventura…
+Photo Galleries Ventura County's Most Wanted October… Residents re-create 1940 Ventura… Barber Ford earns 15th President’s Award
 
-*   Vice presidential candidates try to score points during only debate Published 10/11/2012 at 8:30 p.m. 133 comments
-*   VP debate could influence presidential race Published 10/10/2012 at 3:37 p.m. 63 comments
-*   Ventura County school superintendents call Proposition 30 approval crucial Published 10/11/2012 at 10:17 a.m. 64 comments
-*   Morning chat Published 10/10/2012 at 12:00 a.m. 76 comments
-*   Morning chat Published 10/11/2012 at 12:00 a.m. 72 comments
+*   Vice presidential candidates try to score points during only debate Updated 10/11/2012 at 9:56 p.m. 164 comments
+*   Morning chat Updated // at : 122 comments
+*   Ventura County school superintendents call Proposition 30 approval crucial Updated 10/11/2012 at 6:32 p.m. 64 comments
+*   Morning chat Updated // at : 72 comments
+*   Supervisor Linda Parks takes on new political role of fact-checker Updated // at : 59 comments
 
-*   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 36 comments
-*   Gas prices keep rising. average $4.55 in Ventura Published 10/4/2012 at 1:25 p.m. 125 comments
-*   Police arrest barricaded suspect in Ventura Published 10/3/2012 at 3:21 p.m. 0 comments
-*   Seaward Avenue crash kills motorcyclist in Ventura Published 10/9/2012 at 5:25 p.m. 0 comments
-*   Authorities identify motorcylclist killed in Ventura crash Published 10/10/2012 at 8:38 a.m. 0 comments
+*   Port Hueneme city manager asked to resign Updated 10/9/2012 at 6:40 p.m. 38 comments
+*   Gas prices keep rising. average $4.55 in Ventura Updated 10/5/2012 at 12:19 p.m. 125 comments
+*   Seaward Avenue crash kills motorcyclist in Ventura Updated 10/9/2012 at 9:16 p.m. 0 comments
+*   Authorities identify motorcylclist killed in Ventura crash Updated 10/10/2012 at 6:24 p.m. 0 comments
+*   State plans to review Moorpark men's online poker site Updated // at : 8 comments
 
 Weather
 
@@ -660,23 +660,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 54° Fair Wind: Calm Today 70° 55° Sat 05:00 PM Sunny Temp: 69° Sun 05:00 AM Clear Temp: 58° Sun 05:00 PM Sunny Temp: 75°
+Currently 57° Fair Wind: NE 5mph Today 78° 57° Sun 05:00 PM Sunny Temp: 77° Mon 05:00 AM Clear Temp: 59° Mon 05:00 PM Sunny Temp: 78°
 
-Feels Like: 69°
+Feels Like: 77°
 
-Humidity: 68%
-
-Precip: 0%
-
-Feels Like: 58°
-
-Humidity: 93%
+Humidity: 52%
 
 Precip: 0%
 
-Feels Like: 75°
+Feels Like: 59°
 
-Humidity: 55%
+Humidity: 87%
+
+Precip: 0%
+
+Feels Like: 78°
+
+Humidity: 50%
 
 Precip: 0%
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Saturday Oct 13
 *   Sunday Oct 14
 *   Monday Oct 15
+*   Tuesday Oct 16
 *   More BROWSE Icon
-
-*   StoryFest Ventura Unified School District - Education Service Center 9 a.m.
-*   Arroyo Verde Park Trail Herb Walk Arroyo Verde Park 9 a.m.
-*   Bark in the Park Waverly Park 10 a.m.
-*   Community Free Flu Clinic Scheduled Los Robles Hospital &. Medical Center 10 a.m.
-*   The Golden California Antiques Show Glendale Civic Auditorium 1401 N Verdugo Rd Glendale, CA 91208 10 a.m.
-
-More Events »
 
 *   Birding Field trip Camino Real Park 8 a.m.
 *   "Beginnings" a half-day retreat for memoir writers, poets and napkin scribblers Private home in Moorpark 8:30 a.m.
@@ -750,6 +742,14 @@ More Events »
 *   Open Door Day Zimmer Children's Museum 10 a.m.
 *   Election Discussion Round Table Pizza - Camarillo 7 p.m.
 *   Conejo Valley Unified School Board Candidates Forum Conejo Valley Unified School District 7 p.m.
+
+More Events »
+
+*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
+*   Leads Club - Networking Meeting Pirates Grub 'n' Grog Restaurant &. Sports Bar 12:30 p.m.
+*   Certified Farmers' Market Simi Valley Town Center 3 p.m.
 
 More Events »
 
