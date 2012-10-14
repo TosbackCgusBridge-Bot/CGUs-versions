@@ -1,6 +1,6 @@
 RetailMeNot Score the Savings You Want™ Search for savings from your favorite stores Search!
 
-e.g. halloweenfall savingsvistaprintmacy'skohl'sjcpamazonbest buy
+e.g. halloweenfall savingsmacy'skohl'sbest buytargetamazonold navy
 
 *   Coupon Codes
 *   Printable Coupons
