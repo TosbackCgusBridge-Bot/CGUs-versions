@@ -145,37 +145,37 @@ Stories We Like
   Most Popular
 
 1.  My Proof of Heaven
-2.  Now It’s Obama’s Turn
-3.  Video Captured Libya Attack
+2.  Biden Brings the Blarney
+3.  The Great Deformer
 4.  Ryan Solid, But One Major Mistake
-5.  Losing Their Religion
+5.  ‘The Good Wife’s’ Divisive Plot
 
   Other News Entertainment
 
-*   Trend Report: Emerald
-*   Hairdos &. Don'ts: Buns Edition
-*   The Strangest Celebrity Conspiracy Theories
+*   Week in Photos for Oct. 12, 2012
+*   Once More, With Feline? Kim K. Styles Questionable Catsuit, Leather Pants
+*   Splitsville for Russell Crowe and Wife Danielle Spencer?
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   Christina Applegate hosts tonight’s ‘Saturday Night Live’: Talk about it here!
-*   ‘The Vampire Diaries:’ Where does the triangle go from here?
-*   This Week on Stage: A new ‘Cyrano,’ Tom Hanks, and a ‘Game of Thrones’ Khaleesi
+*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
+*   ‘Saturday Night Live’ recap — Christina Applegate sang and danced her way into our hearts
+*   PopWatch Planner: ‘The Walking Dead’ and other things that go bump in the night
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Leaked Reddit Chat Logs Reveal Moderators' Real Concern
-*   Where Todd Akin Is Coming From
-*   Even Palin's Ghostwriter Questions Palin Pick
+*   A Seahawks Player Trolled Tom Brady On Twitter After Beating Him
+*   Wisconsin Senate Candidate's Son Says We "Have The Opportunity" To Send Obama Back To Kenya
+*   Akin And Supporters Pray For Victory
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   The Election Shop
-*   Latest Swing State Polls
-*   Strauss-Kahn Admits to Sex Parties
+*   People Still Donating to Sarah Palin
+*   Insiders See Obama Winning
+*   Obama Remains Ahead Nationally
 *   **Get More from Political Wire**
 
 The Daily Beast
