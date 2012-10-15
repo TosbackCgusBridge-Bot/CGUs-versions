@@ -73,7 +73,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 *   Printer-friendly version
 *   Send by email
 
-*   Hulu Struggles To Survive The Influence Of Its Parent Companies
+*   An Intimate Portrait Of Innovation, Risk, And Failure Through Hipstamatic's Lens
 
 ADVERTISEMENT
 
