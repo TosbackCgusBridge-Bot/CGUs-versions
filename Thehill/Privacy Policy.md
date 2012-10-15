@@ -212,21 +212,21 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Sherman regrets laying hands on BermanUS ambassador: Internet fee proposal gaining momentumGeithner defends Obama as deficit again tops $1 trillionPoll: Obama, Romney 'dead even' in Republican-leaning ArizonaRace tightens for swing states
+Sherman regrets laying hands on BermanGeithner defends Obama as deficit again tops $1 trillionAtlanta Mayor Reed jokes that Biden offered Ryan internship after debateSen. Portman: Romney could ‘probably’ win election without OhioUS ambassador: Internet fee proposal gaining momentum
 
 Emailed
 
-US ambassador: Internet fee proposal gaining momentumRomney moves to center, shows new ease on campaign trailGeithner defends Obama as deficit again tops $1 trillionJoe Biden electrifies the Democratic baseRace tightens for swing states
+Timeline of Libya Consulate attack reveals administration contradictionsUS ambassador: Internet fee proposal gaining momentumRomney’s plan to dump Bernanke sparking anxiety on Wall StreetReid vows fresh effort to pass stalled cybersecurity bill in NovemberJoe Biden electrifies the Democratic base
 
 Discussed
 
-Cutter: Romney, Ryan 'entire reason' Libya attack is political issueSharp barbs but no clear winner in testy Biden-Ryan vice presidential debateRep. Issa closes in on ClintonUS ambassador: Internet fee proposal gaining momentumGeithner defends Obama as deficit again tops $1 trillion
+Republican lawmakers say Romney campaign needs to change courseCutter: Romney, Ryan 'entire reason' Libya attack is political issueActor Bill Murray to CNBC: 'I think we ought to be personally responsible'Sharp barbs but no clear winner in testy Biden-Ryan vice presidential debateUS ambassador: Internet fee proposal gaining momentum
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Secret Service officer, allegedly drunk, arrested in Miami
-*   Cheney 'disturbed' by Biden's performance at vice presidential debate
-*   Denver police: Shot fired at Obama campaign office
+*   Romney to push 'debt and deficits,' Obama 'the real Romney' in upcoming week
+*   Former Sen. Arlen Specter dies at 82
+*   Obama pays tribute to ‘fighter’ Arlen Specter
 
   
 More Briefing Room » Congress Blog
@@ -259,30 +259,30 @@ More Twitter Room » Hillicon Valley
   
 More Hillicon Valley » E2\-Wire (Energy)
 
+*   News bites: Romney’s push to roll back regs, coal ash protections delayed, and more
+*   Obama faces dilemma over gas prices as presidential campaign hits homestretch
 *   Ad blitz hits Obama on coal in swing states
-*   Interior to fast-track solar projects on public lands
-*   Dem Senate candidate admonishes Obama: 'You're wrong on energy'
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Maine Dem Dill: I haven’t spoken to party leaders in months
-*   Poll finds Obama up 5 in swing-state Ohio
-*   Poll: Obama, Romney 'dead even' in Republican-leaning Arizona
+*   Poll: Romney holds 2-point lead in NC
+*   Poll finds Obama with 49-46 national lead on eve of second debate
+*   DCCC outraises NRCC with record-breaking third quarter haul
 
   
 More Ballot Box » On The Money
 
+*   News bites: Ryan speaks
 *   Romney’s plan to dump Bernanke sparking anxiety on Wall Street
 *   Ryan criticizes Obama on Chinese currency manipulation label
-*   Central component of 9/11 reform targeted in lame duck session
 
   
 More On The Money » Healthwatch
 
+*   Top adviser Gillespie says Romney ‘will be a pro-life president’
 *   Abortion groups target swing-state voters
 *   Bloomberg's soda ban challenged in court
-*   Obama campaign targets women in latest TV ad
 
   
 More Healthwatch » Floor Action
@@ -301,16 +301,16 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
+*   Iraq returns to spotlight in campaign
 *   Obama campaign paints Romney defense strategy as path to war
 *   Navy investigating collision of two vessels
-*   New Romney ad hits Obama on weapons cuts
 
   
 More DEFCON Hill » Global Affairs
 
-*   Timeline of Libya attack reveals administration contradictions
-*   Gingrich compares Obama Benghazi consulate attack response to Watergate
-*   Topics announced for foreign policy debate
+*   Graham: White House either ‘misleading’ or ‘incompetent’ on Libya
+*   Rep. Issa calls Libya a ‘mission accomplished’ moment for Obama
+*   Report: Slain official’s father: Libya should not be ‘campaign issue’
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Democrats' happy sigh Brent Budowsky The great USA comeback More Columnists »
