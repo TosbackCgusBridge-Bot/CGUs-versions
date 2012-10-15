@@ -14,8 +14,8 @@ Overstock.com Help Topics
 *   **Privacy and Security**
 
 *   Privacy and Security
-*   Top 10 Online Security Tips
 *   Identifying Spoofed, Phishing, and Fraudulent Emails
+*   Top 10 Online Security Tips
 
 Click here to view all Help Center answers.
 
