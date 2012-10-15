@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Barefoot Contes... UP NEXT › Barefoot Contes...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Andy Bates Amer... UP NEXT › Nigella Express
 
 *   Channel  
     Guide
@@ -276,6 +276,9 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   Kick-start National @bakingweek with our selection of sweet and savoury bakes: t.co/OPfEyfy5 #NationalBakingWeek
+*   Hey @mike03lwis, what are you looking to cook?
+*   Enter for your chance to win one of 100 Wild Cooking books, courtesy of @alaskaseafooduk t.co/PfczdJxK
 *   Recipe of the Day: Slow Cooker Chicken Chilli t.co/tD4lW3ew #recipe
 *   Vegging out in front of the TV this weekend? You’ve got to try one of our 50 takeaway-inspired recipes: t.co/dB1v3rBq #recipes
 *   “@TheMattEvers: Cooking with Camden... (My nephew) @FoodNetwork\_UK #StartEmYoung t.co/QVbSKdv2” >>. This is what we like to see!
@@ -283,9 +286,6 @@ Your email address:
 *   Watching @FoodNetwork\_UK Andy Bates and a flying pig donut - lush!
 *   Just been watching @eatmypies on #streetfeastsusa @FoodNetwork\_UK Now off out to get myself some street food and to watch some street dance.
 *   Recipe of the Day: Granola Apple Crumble t.co/a6eyrFT3 #recipe
-*   @\_lydiabtr will have to check that one for you. On the case...
-*   Well that's true! Can't complain... RT @chillipuss: @FoodNetwork\_UK @GuyFieri it's dinner time all the time on Food Network !!
-*   A big #FF to Andy Bates aka @eatmypies for his brilliant new series #StreetFeastsUSA Check it out here t.co/R7NDb1hh
 
 Follow Us
 
