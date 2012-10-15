@@ -24,9 +24,9 @@ Bravo
     *   Watch What Happens Live
     
     What's On Tonight
-    *   9:00 PM NEW JERSEY SOCIAL.
-    *   New 10:00 PM The Real Housewives of New JerseyEp 23: Reunion Part 3
-    *   New 11:00 PM Watch What Happens LiveMario Lopez &. Melissa GorgaSee All Shows » See Full Schedule »
+    *   New 9:00 PM The Real Housewives of New York CityEp 20: Reunion Part II
+    *   10:00 PM The Real Housewives of New York CityEp 20: Reunion Part II
+    *   New 11:00 PM Watch What Happens LiveJill ZarinSee All Shows » See Full Schedule »
 *   People &. Blogs
     
     *   Read The Dish's Latest Post Melissa Gorga's 'I Just Wanna' Video!
@@ -68,13 +68,13 @@ Bravo
     *   The Dish Get Inside Bravo Scoop With ZeeboxAll People » More Blog Posts »
 *   Videos &. Full Episodes
     
-    *   Watch What Happens Live After Show: Adventures with Pee-wee
+    *   Watch What Happens Live After Show: Melissa to Teresa: "You're So Vain"
     
     Recent Clips
     
-    *   Watch What Happens Live After Show: The Kidnapping of Morgan Fairchild
-    *   Watch What Happens Live Friends with Benefits
-    *   Watch What Happens Live Morgan Fairchild: Name That Show!
+    *   Watch What Happens Live After Show: Melissa Gorga's Music Career
+    *   Watch What Happens Live Mario Party
+    *   Watch What Happens Live Saved by the Dimp-Ell
     
     New Full Episodes
     *   The Real Housewives of New Jersey Episode 21: Reunion Part 1
@@ -284,22 +284,22 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   PAID PROGRAMMING
+*   THE REAL HOUSEWIVES OF NEW YORK CITY THE AMBUSH
     
-    4:00 AM ET
+    7:00 AM ET
     
-*   LIFE AFTER TOP CHEF COOK YOUR ASPEN OFF
+*   THE REAL HOUSEWIVES OF NEW YORK CITY A RIAD DIVIDED
     
-    6:00 AM ET
+    8:00 AM ET
     
 
-view complete schedule The Dish - Bravo's Daily News Bravo IQ: Remodels and Recipes
+view complete schedule The Dish - Bravo's Daily News Get Inside Bravo Scoop With Zeebox
+
+Download the app to get fun behind-the-scenes facts on your favorite shows.
+
+Read More Bravo IQ: Remodels and Recipes
 
 How closely were you watching Bravo this week?
-
-Read More Melissa Gorga's 'I Just Wanna' Video!
-
-Watch the NJ 'Wife tear it up on the dancefloor.
 
 Read More More Dish Get insider Bravo news in our weekly update!
 
