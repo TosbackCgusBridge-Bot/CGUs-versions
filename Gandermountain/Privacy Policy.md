@@ -1193,12 +1193,12 @@ FAX (252) 355-2923
 The Best Way to Stay Connected With Those Who Live Outdoors Like Us On  
 Follow Us On  
 Watch Us On  
-Sweepstakes
+In Store Specials
 
-Checkout out our  
-latest Sweepstakes.  
+Checkout our latest  
+In Store Specials  
   
-Enter Now
+View Flyer
 
 Bragging Board
 
