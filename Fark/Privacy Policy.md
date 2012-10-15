@@ -147,13 +147,13 @@ Headlines of the Week
 **From the Fark Shop:**
 
 *     
-    Vitruvian Squirrel
+    BIE Black
 *     
-    Spider Byte - Earphone Cord Organizer
+    Indiana Bones and the Dead Who Consume
 *     
-    Elvis - Burnin' Love Cinnamon Mints
+    Defrosty The Snowman Ice Cubes
 *     
-    Mixed Messages Mug
+    Hello Lazy Ramen
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
@@ -162,34 +162,34 @@ Stories from our partner sites:
 Two-Year-Old Girl Insults Kate Middle...  
 The Most Unrealistic Sports Scenes in...  
 Is This What You Think it Is...?  
-Police Left Her Topless, Hog Tied and...  
+Hilarious Wedding Bloopers Compilatio...  
 More news at Scribol »  
   
   
-Hulk Hogan Contacts FBI Over Leaked S...  
-Honey Boo Boo Clan -- You Be the Judge  
-Honey Boo Boo -- I'm Stimulatin' The...  
-Tyga -- Sued Over Malibu Mansion ......  
-More news at TMZ »  
-  
-  
+LIFE With First Ladies, From Eleanor...  
 Streisand: Early Photos of an Insecur...  
 Strangers to Reason: LIFE Inside a Ps...  
 GOP Women Party Hard, 1941  
-Gunning for White-Winged Doves, 1961  
 More news at Life »  
   
   
-Kim &. Khloe Kardashian Show Off Their...  
-Kate Upton Is Sexy &. Sophisticated In...  
-Kylie Minogue Wears A See-Through Lac...  
-Punk'd! Justin Bieber's Stolen Laptop...  
-More news at Starpulse »  
+This Week On X-Play: Borderlands 2 DL...  
+The Last Of Us Graphic Novel Announce...  
+Dishonored Achievement Tips -- Corvo,...  
+Halo 4 Leaked? Microsoft Investigating  
+More news at G4TV »  
+  
+  
+Watercooler Stories  
+Jockstrip: The world as we know it.  
+Your Daily Horoscope  
+The almanac  
+More news at UPI »  
   
 
 Also on Fark
 
-Main Teacher happy he romanced and married a student 30 years ago, is befuddled by public anger at MF sector of teacher sex matrix. "It sounded as if everyone wanted to string him up. I realised they could just as well have been talking about me" ( dailymail.co.uk ) » (17 comments) Sports Gangnam Style Grand Prix Discussion Thread. Mark Webber on pole. Heyyy Sexay Coverage 1:30 AM ET ( bbc.co.uk ) » (164 comments) Business East Texas patent court rules that a company that created business websites in 1996 is guilty of infringing on a business website patent filed in 1998 ( arstechnica.com ) » (29 comments) Geek If God of War's Kratos had a dating site profile ( venturebeat.com ) » (17 comments) Entertainment ♫ There he goes, (the host of) Miss America ♫ ( tmz.com ) » (22 comments) Politics Bain shows its support for Romney's tough-on-China stance by replacing American flag at American factory with Chinese one while the employees train their Chinese replacements. Something something Job creators ( salem-news.com ) » (206 comments) Video This is what happens when the weatherman and graphics operator have total creative control ( liveleak.com ) » (3 comments)
+Main Turns out Cleveland bus drivers are expertly trained in martial arts. Make sure you tip them. (video) ( channel955.com ) » (1 comment) Sports WHO will leave Phoenix as World Champion: Austin Aries or Jeff Hardy? HAS the "dead man's hand" finally been drawn for Aces &. Eights? DOES ANYONE care about Magnus vs Samoa Joe? THIS is YOUR TNA Bound For Glory 2012 Discussion Thread (8pm ET on PPV) ( impactwrestling.com ) » (392 comments) Business E-book price fixing settlement between Amazon and publishers nets subby about $20 in refunds. So, how should he spend this sudden windfall? ( paritynews.com ) » (71 comments) Geek PC Magazine ranks the Top 100 Classic Websites from 2007. FARK comes racing in at #26 ( pcmag.com ) » (14 comments) Entertainment Marvel announced at New York Comic-Con that Clark Gregg's S.H.I.E.L.D. Agent Phil Coulson is going to be returning in the pilot from the upcoming ABC ( enter10n.com ) » (1 comment) Politics The Romney/Ryan tax "plan" is so ridiculous that even Fox News is ripping on it ( livewire.talkingpointsmemo.com ) » (229 comments) Video Can you spot the thief stealing the wallet? ( liveleak.com ) » (59 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -199,5 +199,5 @@ Main Teacher happy he romanced and married a student 30 years ago, is befuddled 
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 14 2012 08:00:33  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 15 2012 08:00:36  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
