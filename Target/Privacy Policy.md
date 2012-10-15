@@ -17,10 +17,6 @@ continue if enabled Target
     
     Don't have an account? create one now
     
-    Manage my REDcards
-    
-    5% off today and everyday. Learn more
-    
 *   new guest?
 *   my account
 *   REDcard
