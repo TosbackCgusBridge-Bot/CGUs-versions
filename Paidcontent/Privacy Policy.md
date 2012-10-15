@@ -53,7 +53,7 @@ Comments Off
     See More Related Stories For:  
     aol / companies / paidcontent / time warner
 
-*   {"source":"http:\\/\\/paidcontent.org\\/wijax\\/8af4d07b58048cd6d80389a624069eb1","varname":"wijax\_d683dd7469979d53459b32b849e7adff","title\_element":"h2","title\_class":"widgettitle","title\_before":"%3Ch2%20class%3D%22widgettitle%22%3E","title\_after":"%3C%2Fh2%3E%0A"}
+*   {"source":"http:\\/\\/paidcontent.org\\/wijax\\/7360915d6b4be0b34a89ac4a0f2799bd","varname":"wijax\_057dac24d0a0073cc3a230379420ac78","title\_element":"h2","title\_class":"widgettitle","title\_before":"%3Ch2%20class%3D%22widgettitle%22%3E","title\_after":"%3C%2Fh2%3E%0A"}
 
 **Read more in GigaOM**
 
