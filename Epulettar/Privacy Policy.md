@@ -212,7 +212,7 @@ work for all - 8th international soft assembly on work and social inclusion for 
 
 munkajogi reggeli: munkaügyi ellenőrzés
 
-lekvár hétvége a skanzenben
+mobil weekend
 
 állásajánlatok
 
