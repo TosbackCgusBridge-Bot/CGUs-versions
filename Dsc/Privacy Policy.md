@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM MythBusters (Season 9)Titanic Survival 8:00PM MythBusters (Season 9)Trench Torpedo 9:00PM The Devil's Triangle  TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Overhaulin'1954 Chevy Pickup Truck 8:00PM Overhaulin'1967 Camaro 9:00PM American Chopper (Season 8)New Venture TV SHOWS
 
 American Chopper
 
@@ -324,21 +324,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
+See Poison Ivy Chemical With Spray: DNews Nugget
+
+Orionids: Diving into Comet Halley's Tail
+
+Supersonic Felix Baumgartner Breaks World Records
+
+TWiDN: Highest Skydive Won't Save Jurassic Park
+
+Endeavour Rolls Into LA Retirement Home
+
 Toyota Gives Endeavour a Hollywood Finale (UPDATED)
 
 Daredevil Hoping to Go Supersonic on Sunday
 
 With Android Phones, The Future's Still On Hold
-
-Can Homeopathy Treat Domestic Violence?
-
-Robot Sub Maps Underside of Antarctic Ice in 3-D
-
-Peanut Butter's Checkered Food Safety History
-
-House-Sized Asteroid to Buzz Earth Today
-
-Clothes Hangers Clean Clothes: DNews Nugget
 
   facebook share0 Tweet Privacy Policy  
 
@@ -544,32 +544,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 14,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 15,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 14,  
+Oct 15,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 14,  
+Oct 15,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 14,  
+Oct 15,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 14,  
+Oct 15,  
 9:00 am  
 60 min(s)  
 **MythBusters**  
-_Western Myths_  
- It's Yeehaa and Hiyo Silver as Adam and Jamie saddle up for some  
+_Torpedo Tastic_  
+ Did the world's first torpedo really deliver a deadly payload - s  
 **More Listings »**   Shop Discovery Store      
 
 our sites
