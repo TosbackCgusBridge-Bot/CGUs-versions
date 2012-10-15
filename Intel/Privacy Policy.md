@@ -411,22 +411,25 @@ Intel® Online Privacy Notice Intel is committed to respecting your privacy. Our
     *   Related Topics
     *   Related Products
     
-    *   Intel Human Rights...
+    *   Expanding Healthcare...
         
-        Summarizes Intel's position on key human rights issues and embodies common principles laid out by...  
+        Intel drives public policy that speeds the adoption of healthcare technologies for individuals, markets...  
         Preview | Download
         
-    *   Intel® Cookie Notice
+    *   Intel Code of Conduct
         
-        Intel's cookie practices on Intel websites.
+        Contains Intel's mission, values, code of conduct and statement from Intel CEO Paul Otellini.  
+        Preview | Download
         
-    *   FAQs: Online Privacy
+    *   Intel Public Policy:...
         
-        Intel® Online Privacy Notice Frequently Asked Questions (FAQs)
+        Intel supports customs, trade facilitation policies that enhance trade with respect to importation of...  
+        Preview | Download
         
-    *   Intel Export Compliance
+    *   Intel Public Policy:...
         
-        Intel export compliance adheres with business, laws, and regulations that govern trade.
+        Intel works with governments worldwide to help shape progressive, practical environment and energy...  
+        Preview | Download
         
     
     *   Technology for the Home
