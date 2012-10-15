@@ -158,39 +158,39 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 *   David Guetta  
     Titanium Lyrics
 
-*   Wale  
-    Arrival Lyrics
+*   Kanye West  
+    White Dress Lyrics
 *   One Direction  
-    Heart Attack Lyrics
+    Change My Mind Lyrics
 *   Taylor Swift  
     Everything Has Changed Lyrics
-*   Flo Rida  
-    Whistle Lyrics
+*   Katy Perry  
+    Wide Awake Lyrics
 *   Adele  
     Someone Like You Lyrics
 
-*   Ellie Goulding  
-    I Need Your Love Lyrics
-*   One Direction  
-    Change My Mind Lyrics
-*   Adele  
-    Skyfall 007 Theme Lyrics
-*   Katy Perry  
-    Wide Awake Lyrics
-
-*   One Direction  
-    Over Again Lyrics
+*   Wale  
+    Arrival Lyrics
 *   One Direction  
     C'mon, C'mon Lyrics
+*   Adele  
+    Skyfall 007 Theme Lyrics
+*   Flo Rida  
+    Whistle Lyrics
+
+*   Ellie Goulding  
+    I Need Your Love Lyrics
+*   Tristan Prettyman  
+    My Oh My Lyrics
 *   Ed Sheeran  
     A Team Lyrics
 *   Carly Rae Jepsen  
     Call Me Maybe Lyrics
 
-*   Tristan Prettyman  
-    My Oh My Lyrics
-*   Bruno Mars  
-    Gorilla Lyrics
+*   One Direction  
+    Over Again Lyrics
+*   One Direction  
+    Heart Attack Lyrics
 *   Justin Bieber  
     As Long As You Love Me Lyrics
 *   Maroon 5  
