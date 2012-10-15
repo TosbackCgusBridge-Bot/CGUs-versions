@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Twitter
+*   NFL
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 14, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: **U.S.**
+October 15, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 14, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
 *   FRONT PAGE
 *   Politics
     
-    *   Romney, Ryan Rally In Ohio 19k
-    *   Billionaire Koch Brother Accused Of Imprisoning Employee 6k
-    *   _He's Baaaaaack_ 3k
-    *   Romney And Allies Greatly Outpace Obama In Ad Spending As Election Closes 16k
-    *   READ: Paul Ryan's Letters Requesting Stimulus, EPA Funds 9k
+    *   Ambassador's Father: It Would Be 'Abhorrent' To Politicize Son's Death 10k
+    *   Obama Gains Big Lead Among Early Voters 27k
+    *   Former Pennsylvania Senator Arlen Specter Dies 1k
+    *   Billionaire Koch Brother Accused Of Imprisoning Employee 7k
+    *   Top Romney Adviser Challenged Over Studies Supporting Tax Plan 6k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 14, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Gay Voices
 *   Business
     
+    *   Exclusive: Inside Walmart's Secret Strike Plan 7k
+    *   62-Year-Old Cooked To Death At California Tuna Plant 468
     *   Al Gore Making A Whole Lot Of Green Off Investing In Green 2k
-    *   FBI: 'Large Amount' Of Newly Designed $100 Bills Stolen At Philadelphia International Airport 964
-    *   Exclusive: Inside Walmart's Secret Strike Plan 5k
-    *   62-Year-Old Cooked To Death At California Tuna Plant 370
-    *   Family Time At The Ryans Could Be #AWKWARD 5k
+    *   FBI: 'Large Amount' Of Newly Designed $100 Bills Stolen At Philadelphia International Airport 1k
+    *   Ben Bernanke: Fed Policies Helping Not Hurting The Global Economy 144
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 14, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Crime
 *   Entertainment
     
-    *   Lindsay Lohan Is Voting For Romney 4k
-    *   Did These Critics Go Too Far? 173
-    *   'Friday Night Lights' Creator RIPS Romney Over Slogan 5k
-    *   GUESS WHO 58
-    *   The First Word On 'Skyfall' Is ... 275
+    *   Sarandon Assaulted As A Young Actress 272
+    *   The Reviews Are In For 'Flight' 467
+    *   Anne Hathaway, Best Actress? 202
+    *   Gwyneth Paltrow And Cameron Diaz Break It Down 85
+    *   Lindsay Lohan Is Voting For Romney 5k
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 14, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Moviefone
 *   Tech
     
-    *   Randi Zuckerberg Steps Out Of Her Brother's Shadow 215
+    *   Edge-Of-Space Leap Attracts Record Number Of YouTube Viewers 93
+    *   We Have So Many Questions About The iPad Mini 50
+    *   WATCH: SNL Mocks iPhone 5 Complaints 95
     *   The 9 Most Popular Viral Videos Of The Week
-    *   The 21 Most Outrageous Cases For Your iPhone 5 39
     *   The 13 Most Awkward Pets Of Facebook 21
-    *   Report: Government ThisClose To Suing Google For Gaming Search Results 302
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 14, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Joystiq
 *   Media
     
-    *   'Million Muppet March' Planned To Protest Romney Over PBS 4k
-    *   IT'S BACK 70
-    *   Erica Hill Joins NBC News 256
-    *   PHOTOS: How Newspapers Covered Biden-Ryan Showdown 737
-    *   Martha Raddatz Gets Accolades For Debate Performance 6k
+    *   WATCH: Melissa Harris-Perry Calls Out Clarence Thomas 3k
+    *   'Million Muppet March' Planned To Protest Romney Over PBS 7k
+    *   IT'S BACK 116
+    *   WATCH: Stephen Colbert Meets The Press 124
+    *   PHOTOS: How Newspapers Covered Biden-Ryan Showdown 860
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 14, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Moviefone
 *   World
     
-    *   Most Insane Photos Of The Week
-    *   169 Guards, One Prisoner 215
-    *   Al Qaeda Leader Calls For More Anti-Islam Film Protests 1k
-    *   Turkish PM Slams UN Security Council Over Syria 492
-    *   Forbidden Love Story Sends Message Of Hope 35
+    *   Navy Sub And Cruiser Crash 831
+    *   Most Insane Photos Of The Week 12
+    *   24 Tons Of Drugs Up In Smoke 155
+    *   UAE Sends Medics To Evacuate Girl Shot By Taliban 278
+    *   Turkey Bars Syrian Planes From Air Space 92
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 14, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Religion
 *   Healthy Living
     
-    *   You'll Never Guess What Joe Biden Ate Pre-Debate 196
-    *   Make Over Your Breakfast: Healthy Updates To 13 Classics 25
-    *   The Best Natural Sources Of Vitamin D 36
-    *   The Best Health News Ever 18
-    *   Eat Vegetarian, Live Longer? 150
+    *   Eat Vegetarian, Live Longer? 569
+    *   The Best Natural Sources Of Vitamin D 63
+    *   You'll Never Guess What Joe Biden Ate Pre-Debate 250
+    *   Tom Lost 100 Pounds: 'It Has Been The Greatest Accomplishment Of My Life'
+    *   'Just Thinking About The Gym Makes Me Tired': Exercise E-Cards That Really Get Us Laughing
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 14, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Religion
 *   Style
     
-    *   PHOTO: Miley Cyrus Tries A Surprisingly Seductive Look On Jay Leno 832
-    *   PHOTOS: See This Week's Near Wardrobe Malfunctions! 52
-    *   Change.org To Barneys: Leave Minnie Mouse Alone! 122
-    *   PHOTOS: Bill &. Hillary Clinton PDA-Fest 65
-    *   PHOTOS: Lindsay Lohan's Hair Is The Wrong Color 356
+    *   PHOTO: Miley Cyrus Tries A Surprisingly Seductive Look On Jay Leno 1k
+    *   PHOTOS: Katy Perry Turns Heads In Plunging Dress 272
+    *   PHOTOS: Lady Gaga and Kate Hudson Made 56
+    *   PHOTOS: See Ralph Lauren's All-American Style Evolution 20
+    *   PHOTOS: Ramona Explains Why This Color Keeps Her Romance Alive 44
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 14, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Post 50
 *   Comedy
     
-    *   21 Punny Halloween Costume Ideas 13
-    *   Maher: 'Is There No Penalty Anymore For Just Being Wrong?' 2k
-    *   The Most Unfortunate Politician Names Of All Time 51
-    *   PHOTO: This Church Wins Halloween 186
-    *   'How Do These F\*cking Crazy People Make It To The National Stage?' 3k
+    *   42 Animals Who Are Watching You 10
+    *   SNL Takes On VP Debate 1k
+    *   21 Punny Halloween Costume Ideas 16
+    *   The Most Unfortunate Politician Names Of All Time 76
+    *   WATCH: Arianna Appears On 'SNL' 266
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 14, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   College
     *   Arts
 *   LIVE
+    *   Next France's Sharp Left Turn
     *   Next Pretty Slick
-    *   Next Office Politics
-    *   Tomorrow No Red Cities
-    *   Tomorrow No Escaping The Taliban
-    *   Tomorrow Pirates Or Pioneers?Go to HuffPost Live
+    *   Coming Up Office Politics
+    *   Coming Up No Red Cities
+    *   Coming Up No Escaping The TalibanGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
