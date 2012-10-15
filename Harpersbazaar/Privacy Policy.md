@@ -15,17 +15,17 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
+Street Style Star: Chic Coats
+
+Coat season is officially here, see how chic ladies wear their fall best on...
+
+A Date with Chanel: Miroslava Duma
+
+Before heading off to a night under the stars, the ambassador to the brand ...
+
 Mr. Blasberg's Best-Dressed List: October 12th, 2012
 
 Mr. Blasberg chooses the top 10 chicest looks from the week.
-
-Cozy Up: 25 Chic Sweaters for Fall
-
-Shop the best sweaters this season has to offer.
-
-Street Style Trend Report: Spring 2013
-
-See the top 7 trends the ladies of fashion month embraced.
 
 Beauty &. Hair  
 
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR Mr. Blasberg's Best-Dressed List: October 12th, 2012 Cozy Up: 25 Chic Sweaters for Fall Street Style Trend Report: Spring 2013 The Most Anticipated Hair Trends For Spring 2013 Taking Your Hair to the DarkOr LightSide This Season Saving Face Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More! Vince and BAZAAR Toast A New Madison Avenue Store Shooting for the Stars: Chanel Fine Jewelry's 80th Anniversary Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR Street Style Star: Chic Coats A Date with Chanel: Miroslava Duma Mr. Blasberg's Best-Dressed List: October 12th, 2012 The Most Anticipated Hair Trends For Spring 2013 Taking Your Hair to the DarkOr LightSide This Season Saving Face Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More! Vince and BAZAAR Toast A New Madison Avenue Store Shooting for the Stars: Chanel Fine Jewelry's 80th Anniversary Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
