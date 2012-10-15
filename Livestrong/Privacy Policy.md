@@ -241,13 +241,13 @@ Your email is safe with us. We hate spam too!
 
 Featured this week on livestrong.com
 
-*   Oct 13, 2012 Healthy Eating  
+*   Oct 14, 2012 Healthy Eating  
     On The Go
-*   Oct 12, 2012 Look Fabulous Over 50  
+*   Oct 13, 2012 Look Fabulous Over 50  
     (And Beyond!)
-*   Oct 11, 2012 5 Self-Exams Every  
+*   Oct 12, 2012 5 Self-Exams Every  
     Woman Should Do
-*   Oct 10, 2012 The Healthiest Meals  
+*   Oct 11, 2012 The Healthiest Meals  
     On Earth
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
