@@ -1,6 +1,6 @@
 Access Hollywood  
 
-*   **HOT NOW:** Gwyneth Paltrow &. Cameron Diaz Rap For Chelsea Handler
+*   **HOT NOW:** Clark Gregg To Reprise Role Of Agent Coulson For 'S.H.I.E.L.…
 
 *   WATCH
 *   NEWS
@@ -223,7 +223,7 @@ Urban Access
 
 **Urban Access**
 
-La Toya Jackson hits back at suggestions made about her in Vanity Fair magazine.
+Former “Fresh Prince” star Alfonso Ribeiro married Angela Unkrich on Saturday!
 
  
 
