@@ -16,7 +16,7 @@ Skip to content
 *   Gift Center
 *   T-Shirts
 
-**Search** Weekend Case Sale - 30% Off ALL iPhone 5 Cases, iPad Cases, and More!   Use Code: WKNDCASEDEAL   LAST DAY! (details) Check out Zazzle Instant, our new app for making fun products! Ok Zazzle Privacy Policy Policies
+**Search** High Five! $5 OFF Apparel TODAY ONLY!   Use Code: FIVEOFFDEAL1   (details) Check out Zazzle Instant, our new app for making fun products! Ok Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
