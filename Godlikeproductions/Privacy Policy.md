@@ -1,5 +1,5 @@
   
-Users Online Now: **1,574** (Who's On?) Visitors Today: **481,628** Pageviews Today: **679,204** Threads Today: **231** Posts Today: **3,209** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,939** (Who's On?) Visitors Today: **503,306** Pageviews Today: **738,528** Threads Today: **321** Posts Today: **3,273** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,13 @@ trinity@godlikeproductions.com
   
 News
 
+*   Cap and trade: California’s experiment to rein in climate change
+*   Lost, potentially hazerdous asteroid rediscovered
+*   Polar Bear Video Shows Dark Side of Drinking Soda — Will It Change Habits?
+*   First cloud operating system could lighten your laptop
+*   CEO tells employees jobs will be lost if Obama wins
+*   Why a Bible belt conservative spent a year pretending to be gay
+*   Global warming stopped 16 years ago, reveals Met Office report quietly released
 *   More than 300 PA National Guard troops prepare for deployment
 *   Ad Industry's Assault on "Do Not Track" Continues at the W3C Amsterdam Meeting
 *   China calls on U.S. and Japan to fix their finances
@@ -130,13 +137,6 @@ News
 *   Curiosity Rover Finds Rock Type That’s Never Been Seen on Mars
 *   Trolls or criminals? Britain wrestles with social media
 *   Lawyer in Climate Science Case May Have Broken Ethics Rules
-*   Apple Patent Expands on Biometric Identification Implementations
-*   German Gov't Inadvertently Reveals Police Monitor Gmail, Skype, Facebook &. Use Snooping Malware
-*   Supreme Court Could Hear Another ObamaCare Challenge
-*   Between Facebook and Sex, Facebook Wins
-*   Lawsuit claims jail guards flushed baby down toilet, joked about it
-*   Judge Caught Driving Drunk Allowed To Drive Home, Avoids DUI Charges
-*   DARPA Tests Drones That Refuel While Airborne
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.037s (0 queries)
+Page generated in 0.019s (0 queries)
