@@ -84,29 +84,29 @@ Please make sure javascript is enabled in your browser homepage Billboard - Musi
 
 previous 14/14
 
-*   Austin City Limits: Weezer, Avicii &. More
+*   Jason Aldean Live Q&A: Today @ 3:45pm ET
     
-    The Black Keys, Weezer and Avicii closed out the first night of the 11th annual Austin City Limits Music Festival with packed performances Friday, as thousands of fans braved the fall heat to kick off the weekend.
+    Today, one day before Jason Aldean unleashes his brand new album "Night Train," the country hitmaker will be at Billboard for a Live Q&A to talk about the new music and answer your questions live on camera.
     
 *   Bruno, Kelly, Adele: Whose Single Is Best?
     
     The past two weeks have seen Bruno Mars, Kelly Clarkson and Adele unveil high-profile pop singles. But which tune is the cream of the fourth-quarter crop? Vote now and sound off on this pop battle!
     
-*   Watch: Bieber's 'Beauty and a Beat' Video
+*   Austin City Limits: Neil Young, Gotye + More
     
-    Justin Bieber, Nicki Minaj and dozens of dancers go swimming and get wild after dark in a waterpark for his new "Beauty and a Beat" video, which debuted Friday. Watch it here!
+    Jack White squared off with Neil Young, and Bassnectar partied as Gotye invited Kimbra on stage to sing his No. 1 hit at a soggy day 2 of Austin City Limits 2012.
     
 *   Photos of the Week
     
     Nick Jonas and Justin Bieber team up with judges Demi Lovato and L.A. Reid on "X Factor," Christina Aguilera and Lance Bass pose at the AMAs press conference, Lady Gaga and Yoko Ono hang out (again), Kid Rock and Katy Perry get political, and more. See the week's best pics!
     
+*   Watch: Bieber's 'Beauty and a Beat' Video
+    
+    Justin Bieber, Nicki Minaj and dozens of dancers go swimming and get wild after dark in a waterpark for his new "Beauty and a Beat" video, which debuted Friday. Watch it here!
+    
 *   Taylor, Rihanna &. PSY Get Chart Boost
     
     Billboard unveils new Hot 100-like methodology for several charts, including those for country, R&B and latin songs. Who benefits? Rihanna, PSY and Taylor Swift are all No. 1 this week. Learn more about the changes.
-    
-*   Jason Aldean Live Q&A: 10/15 at 3:45pm ET
-    
-    Just one day before Jason Aldean unleashes his brand new album "Night Train," the country hitmaker will be at Billboard for a Live Q&A on Monday (Oct. 15) to talk about the new music and current tour, and to answer your tweeted questions live on camera.
     
 
 Video
