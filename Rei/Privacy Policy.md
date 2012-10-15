@@ -596,6 +596,44 @@ Search
     *   Treatments
     *   Winter Traction
     
+*   Brands
+    
+    *   Ahnu
+    *   Arbor
+    *   Arc'teryx
+    *   Black Diamond
+    *   BOB
+    *   Brooks
+    *   Burton
+    *   CamelBak
+    
+    *   Columbia
+    *   Eagle Creek
+    *   Garmin
+    *   GoPro
+    *   Keen
+    *   Life is good
+    *   Marmot
+    *   Merrell
+    
+    *   Mountain Hardwear
+    *   Novara
+    *   Osprey
+    *   Patagonia
+    *   Petzl
+    *   prAna
+    *   REI
+    *   Rossignol
+    
+    *   Salomon
+    *   SmartWool
+    *   Sorel
+    *   The North Face
+    *   Thule
+    *   Vasque
+    *   Vibram
+    *   Yakima
+    
 *   All
     
     *   Backcountry Skiing Shop
@@ -645,18 +683,7 @@ Search
     *   Women's Shoes and Boots
     *   Yoga
     
-    *   TOP BRANDS
-    *   Arc'Teryx
-    *   Keen
-    *   Marmot
-    *   Merrell
-    *   Mountain Hardwear
-    *   Novara
-    *   Patagonia
-    *   REI
-    *   SmartWool
-    *   The North Face
-*   Sale &. Clearance
+*   Deals
     
     *   GEAR
     *   Camping &. Hiking
