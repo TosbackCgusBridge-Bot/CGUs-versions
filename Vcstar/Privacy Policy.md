@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Supervisor Linda Parks takes on new political role of fact-checker Published 10/12/2012 at 8:16 p.m. 59 comments
-*   Ventura continues to wrestle with chickens Updated 10/12/2012 at 7:52 p.m. 27 comments
-*   Vice presidential candidates try to score points during only debate Updated 10/11/2012 at 9:56 p.m. 164 comments
-*   18-year-old man arrested in 2011 Oxnard homicide Published 10/12/2012 at 8:52 p.m.
-*   Ventura police use lasers, computers to reconstruct fatal accident Updated 10/12/2012 at 7:28 p.m.
+*   2 dead after Oxnard police trade gunfire with men Updated 10/14/2012 at 8:00 p.m.
+*   Half of cities have lost a manager in Ventura County Published 10/13/2012 at 7:52 p.m. 33 comments
+*   Two killed when gunfire erupts as Oxnard police chase suspects Updated 10/14/2012 at 2:18 p.m.
+*   In 27th Senate District, it's a teacher vs. a colonel Updated 10/13/2012 at 6:56 p.m. 33 comments
+*   Supervisor Linda Parks takes on new political role of fact-checker Published 10/12/2012 at 8:16 p.m. 68 comments
 
-Photo Galleries Ventura County's Most Wanted October… Residents re-create 1940 Ventura… Barber Ford earns 15th President’s Award
+Photo Galleries Ventura County's Most Wanted October… Chaotic shooting rattles city Westlake vs Newbury Park
 
-*   Vice presidential candidates try to score points during only debate Published 10/11/2012 at 8:30 p.m. 164 comments
-*   Morning chat Published 10/12/2012 at 12:00 a.m. 122 comments
-*   Ventura County school superintendents call Proposition 30 approval crucial Published 10/11/2012 at 10:17 a.m. 64 comments
-*   Morning chat Published 10/11/2012 at 12:00 a.m. 72 comments
-*   Supervisor Linda Parks takes on new political role of fact-checker Published 10/12/2012 at 8:16 p.m. 59 comments
+*   Vice presidential candidates try to score points during only debate Published 10/11/2012 at 8:30 p.m. 185 comments
+*   Morning chat Published 10/12/2012 at 12:00 a.m. 157 comments
+*   Supervisor Linda Parks takes on new political role of fact-checker Published 10/12/2012 at 8:16 p.m. 68 comments
+*   Vice presidential debate Published 10/12/2012 at 10:32 a.m. 35 comments
+*   In 27th Senate District, it's a teacher vs. a colonel Published 10/13/2012 at 5:56 p.m. 33 comments
 
-*   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 38 comments
-*   Gas prices keep rising. average $4.55 in Ventura Published 10/4/2012 at 1:25 p.m. 125 comments
+*   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 40 comments
 *   Seaward Avenue crash kills motorcyclist in Ventura Published 10/9/2012 at 5:25 p.m. 0 comments
 *   Authorities identify motorcylclist killed in Ventura crash Published 10/10/2012 at 8:38 a.m. 0 comments
 *   State plans to review Moorpark men's online poker site Published 10/8/2012 at 3:57 p.m. 8 comments
+*   Asian citrus psyllid found in more cities Published 10/10/2012 at 10:17 a.m. 0 comments
 
 Weather
 
@@ -660,23 +660,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 54° Fair Wind: N 4mph Today 78° 57° Sun 05:00 PM Sunny Temp: 77° Mon 05:00 AM Clear Temp: 59° Mon 05:00 PM Sunny Temp: 78°
-
-Feels Like: 77°
-
-Humidity: 52%
-
-Precip: 0%
-
-Feels Like: 59°
-
-Humidity: 87%
-
-Precip: 0%
+Currently 57° Fair Wind: Calm Today 81° 58° Mon 05:00 PM Sunny Temp: 78° Tue 05:00 AM Clear Temp: 60° Tue 05:00 PM Sunny Temp: 74°
 
 Feels Like: 78°
 
 Humidity: 50%
+
+Precip: 0%
+
+Feels Like: 60°
+
+Humidity: 86%
+
+Precip: 0%
+
+Feels Like: 74°
+
+Humidity: 60%
 
 Precip: 0%
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Sunday Oct 14
 *   Monday Oct 15
 *   Tuesday Oct 16
+*   Wednesday Oct 17
 *   More BROWSE Icon
-
-*   Birding Field trip Camino Real Park 8 a.m.
-*   "Beginnings" a half-day retreat for memoir writers, poets and napkin scribblers Private home in Moorpark 8:30 a.m.
-*   Sensational Bridal Show FREE McDonald's - San Dimas 11 a.m.
-*   Kitchen Tour for Project Understanding Ventura High School 11 a.m.
-*   San Buenaventura Friends of the Library Book Sale Dudley House 11 a.m.
-
-More Events »
 
 *   CI Announces "Politics to the Extreme" CSUCI California State University 9 a.m.
 *   Open Door Day Zimmer Children's Museum 10 a.m.
@@ -750,6 +742,14 @@ More Events »
 *   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
 *   Leads Club - Networking Meeting Pirates Grub 'n' Grog Restaurant &. Sports Bar 12:30 p.m.
 *   Certified Farmers' Market Simi Valley Town Center 3 p.m.
+
+More Events »
+
+*   Soroptimist International of Oxnard October Program Speaker Courtyard by Marriott - Oxnard 7:30 a.m.
+*   Pet Adoption at The Bonaventure The Bonaventure 10 a.m.
+*   Dan Walters a "Dean" of California Journalists Takes a No Nonsense Look at California Tower Club, Oxnard 11:30 a.m.
+*   People with Disabilities Peer Support Group Independent Living Resource 1:30 p.m.
+*   Introduction to International Importing and Exporting Economic Development Collaborative - Ventura County 3 p.m.
 
 More Events »
 
