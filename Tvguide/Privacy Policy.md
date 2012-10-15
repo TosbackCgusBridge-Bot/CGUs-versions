@@ -73,11 +73,11 @@ What's Hot
 
 Fall TV Popularity Contest
 
-This Weekend's Football
+A _Lost_ Reunion?
 
-_Celeb Apprentice_ All-Stars
+VIDEO: Miley's _Men_ Debut
 
-_Once Upon a Time_ Photos
+Gary Collins Dies
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -139,8 +139,8 @@ more popular movies Top Videos
 
 1.  The Vampire Diaries
 2.  Gossip Girl
-3.  Arrow
-4.  Dexter
+3.  Dexter
+4.  Arrow
 5.  Supernatural
 
 more top videos
