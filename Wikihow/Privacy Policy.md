@@ -175,9 +175,9 @@ Article Tools
 *   Email
 *   Edit
 
-**Thanks to all authors for creating a page that has been read 242,350 times.**
+**Thanks to all authors for creating a page that has been read 242,414 times.**
 
-Write An Article **Random Article** Featured Articles Make Zombie Brains Jello Shots Remove a Location from Your Map on Facebook Timeline Spoon Someone Make a Wire Tree Sculpture - collapse Things to Do
+Write An Article **Random Article** Featured Articles Adjust a Muffin Recipe for Jumbo Size Muffins Remove Coffee Stains from Wool Make a Rubber Band Guitar Create Hidden Watermarks in GIMP - collapse Things to Do
 
 *   Write an Article
 *   Request a New Article
