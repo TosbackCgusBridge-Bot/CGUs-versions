@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Brad's Stylin' Specs »
+Hot Pics! Katy's Pianist Pal »
 
-Top Stories1.  See Goldie Hawn Without Makeup! »
-2.  Tia Mowry Debuts Super-Short Pixie Cut: "I Cried!" »
-3.  Paris Jackson, 14, Looks All Grown Up in One-Shoulder Dress »
-4.  Jacqueline Laurita Slams Rumors She Was Once a Stripper »
-5.  Britney Spears Wears Gray Dress With Fanned Sleeves: Love It or Hate It? »
+Top Stories1.  Gaunt Matthew McConaughey Looks Unrecognizable Leaving Gym »
+2.  Miley Cyrus Narrowly Avoids Nip Slip on Tonight Show »
+3.  See Goldie Hawn Without Makeup! »
+4.  Tia Mowry Debuts Super-Short Pixie Cut: "I Cried!" »
+5.  Whoa! See Kim Kardashian's Super-Sexy Halloween Costume Contender »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Tori's Miracle Baby
 
 Inside Us Weekly
 
-*   Style Paris Jackson, 14, Looks All Grown Up in One-
+*   Style Miley Cyrus Narrowly Avoids Nip Slip on Tonig
 *   Beauty See Goldie Hawn Without Makeup!
 *   Moms Alessandra Ambrosio: My Daughter, 4, Is Alrea
-*   Body Mindy Kaling: "I'd Love to Lose 15 Pounds," B  
-*   Entertainment Jacqueline Laurita Slams Rumors She Was Once  
+*   Body Gaunt Matthew McConaughey Looks Unrecognizabl  
+*   Entertainment LOL! See NeNe Leakes, Sheree Whitfeld Fight S  
 
 *   US WEEKLY
 *   Celebrity News
