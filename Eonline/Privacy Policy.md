@@ -5,8 +5,7 @@ E! Online
 *   Photos
 *   Videos
 *   TV Scoop
-*   E! Shows  
-    Married to Jonas: Brand New Sunday 10|9c
+*   E! Shows
 *   Red Carpet
 
 *   Follow @twitter
