@@ -1,4 +1,5 @@
 YOU MUST BE LOGGED IN TO ACCESS _**THE REALLY GOOD STUFF**_ ON THIS WEBSITE!!! We treat members right!  
+Subscribe To Our New Hollywood All-Stars Mailing List  
 Web This Site Click Here For _**Stagehand.Postano.Com**_  
   
 Read the daily tweeted news at Paper.Li 'Come not between the dragon and his wrath.'  
