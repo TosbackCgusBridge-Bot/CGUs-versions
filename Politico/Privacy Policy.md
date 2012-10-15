@@ -113,114 +113,117 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/14/2012 7:03 AM ET
+Updated: 10/15/2012 7:02 AM ET
+
+1.  1 Battleground GOP analysis
+2.  2 Colbert apologizes to Bob Kerrey
+3.  3 The endless contradictions of Arlen Specter
+4.  4 PPP Ohio poll: Obama 51, Romney 46
+5.  5 Second Netanyahu ad hits Florida airwaves
+6.  6 Battleground Poll: Mitt more likable
+7.  7 PPP poll: Romney leads Obama 49 to 48 in Florida
+8.  8 Sarah PAC spending tops $774,000
+9.  9 Obama says debate prep 'going great'
+10.  10 Former Sen. Arlen Specter dead at 82
+
+Updated: 10/15/2012 7:02 AM ET
 
 1.  1 PPP Ohio poll: Obama 51, Romney 46
-2.  2 Maher, Coulter mix it up
-3.  3 Debate fuels contraception rule foes
-4.  4 Battleground Tracking Poll: Dems less enthusiastic
-5.  5 Morgan Freeman cuts Obama ad
-6.  6 Murdoch knocks Romney TV shop (Updated)
-7.  7 Rand Paul goes national
-8.  8 Poll: Romney leads Obama in Maine congressional district
-9.  9 Psaki's Williamsburg tips
-10.  10 Veep debate sets the stage
+2.  2 Colbert apologizes to Bob Kerrey
+3.  3 Former Sen. Arlen Specter dead at 82
+4.  4 Maher, Coulter mix it up
+5.  5 Kerrey's last stand to fix Washington
+6.  6 Second Netanyahu ad hits Florida airwaves
+7.  7 Obama's slippery foreign oil promise
+8.  8 Battleground GOP analysis
+9.  9 The endless contradictions of Arlen Specter
+10.  10 Obama says debate prep 'going great'
 
-Updated: 10/14/2012 7:03 AM ET
+Updated: 10/15/2012 7:02 AM ET
 
-1.  1 Poll: Romney leads Obama in Maine congressional district
-2.  2 Maher, Coulter mix it up
+1.  1 Maher, Coulter mix it up
+2.  2 Poll: Romney leads Obama in Maine congressional district
 3.  3 Rand Paul goes national
-4.  4 Debate fuels contraception rule foes
-5.  5 Trump talks up Biden performance
-6.  6 PPP Ohio poll: Obama 51, Romney 46
-7.  7 How Wall Street made Paul Ryan
-8.  8 Mitt drawing larger crowds
-9.  9 Morgan Freeman cuts Obama ad
-10.  10 Battleground Tracking Poll: Dems less enthusiastic
+4.  4 PPP Ohio poll: Obama 51, Romney 46
+5.  5 Debate fuels contraception-rule foes
+6.  6 Morgan Freeman cuts Obama ad
+7.  7 Colbert apologizes to Bob Kerrey
+8.  8 Trump talks up Biden performance
+9.  9 How Wall Street made Paul Ryan
+10.  10 Former Sen. Arlen Specter dead at 82
 
-Updated: 10/14/2012 7:03 AM ET
-
-1.  1 Twitter frowns on Joe Biden's laugh
-2.  2 7 takeaways from the Danville debate
-3.  3 Joltin' Joe Biden wins the bout
-4.  4 Trump talks up Biden performance
-5.  5 Palin: Raddatz let Biden run wild
-6.  6 Fact-checking the VP debate
-7.  7 Poll: Romney leads Obama in Maine congressional district
-8.  8 Biden, Ryan clear the bar -- barely
-9.  9 Mitt drawing larger crowds
-10.  10 Maher, Coulter mix it up
-
-Updated: 10/14/2012 7:03 AM ET
+Updated: 10/15/2012 7:02 AM ET
 
 1.  1 Twitter frowns on Joe Biden's laugh
 2.  2 Inside the campaign: The Romney rebellion
-3.  3 ICE decides not to detain Vargas
-4.  4 Debate Commission dismisses Raddatz-Obama connection
-5.  5 Battleground Tracking Poll: Dems less enthusiastic
-6.  6 Angst grows among Obama backers
-7.  7 Glitch hits Stewart-O'Reilly debate
-8.  8 Paul Ryan pics spark dumbbell debate
-9.  9 Romney hits Obama on Big Bird focus
-10.  10 Unions struggle to help Obama
+3.  3 Debate Commission dismisses Raddatz-Obama connection
+4.  4 Battleground Tracking Poll: Dems less enthusiastic
+5.  5 Angst grows among Obama backers
+6.  6 Paul Ryan pics spark dumbbell debate
+7.  7 Romney hits Obama on Big Bird focus
+8.  8 Unions struggle to help Obama
+9.  9 7 takeaways from the Danville debate
+10.  10 S.C. voter ID law delayed
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/14/2012 7:03 AM ET
+Updated: 10/15/2012 7:02 AM ET
 
-Updated: 10/14/2012 7:03 AM ET
+1.  1 Battleground GOP analysis
+2.  2 Battleground Poll: Mitt more likable
+3.  3 The 3 states that may decide the election
 
-1.  1 Romney, Ryan hit Obama on China
-2.  2 Psaki's Williamsburg tips
-3.  3 Debate fuels contraception rule foes
-4.  4 Veep debate sets the stage
-5.  5 Maher, Coulter mix it up
-6.  6 Rand Paul goes national
+Updated: 10/15/2012 7:02 AM ET
 
-Updated: 10/14/2012 7:03 AM ET
+1.  1 Battleground GOP analysis
+2.  2 Battleground Poll: Mitt more likable
+3.  3 The 3 states that may decide the election
+4.  4 The endless contradictions of Arlen Specter
+5.  5 Former Sen. Arlen Specter dead at 82
 
-1.  1 Romney, Ryan hit Obama on China
-2.  2 Psaki's Williamsburg tips
-3.  3 Debate fuels contraception rule foes
-4.  4 Veep debate sets the stage
-5.  5 Maher, Coulter mix it up
-6.  6 Rand Paul goes national
-7.  7 Letter draws focus to Mitt tax plan
-8.  8 Senate 5: Money floods Kaine-Allen
-9.  9 Newly public RFK documents shed light on Cold War
-10.  10 Panetta: Cybersecurity action needed
+Updated: 10/15/2012 7:02 AM ET
 
-Updated: 10/14/2012 7:03 AM ET
+1.  1 Battleground GOP analysis
+2.  2 Battleground Poll: Mitt more likable
+3.  3 The 3 states that may decide the election
+4.  4 The endless contradictions of Arlen Specter
+5.  5 Former Sen. Arlen Specter dead at 82
+6.  6 Obama's slippery foreign oil promise
+7.  7 Kerrey's last stand to fix Washington
+8.  8 Romney, Ryan hit Obama on China
+9.  9 Psaki's Williamsburg tips
+10.  10 Debate fuels contraception-rule foes
 
-1.  1 Romney, Ryan hit Obama on China
-2.  2 Psaki's Williamsburg tips
-3.  3 Debate fuels contraception rule foes
-4.  4 Veep debate sets the stage
-5.  5 Maher, Coulter mix it up
-6.  6 Rand Paul goes national
-7.  7 Letter draws focus to Mitt tax plan
-8.  8 Senate 5: Money floods Kaine-Allen
-9.  9 Newly public RFK documents shed light on Cold War
-10.  10 Panetta: Cybersecurity action needed
+Updated: 10/15/2012 7:02 AM ET
+
+1.  1 Battleground GOP analysis
+2.  2 Battleground Poll: Mitt more likable
+3.  3 The 3 states that may decide the election
+4.  4 The endless contradictions of Arlen Specter
+5.  5 Former Sen. Arlen Specter dead at 82
+6.  6 Obama's slippery foreign oil promise
+7.  7 Kerrey's last stand to fix Washington
+8.  8 Romney, Ryan hit Obama on China
+9.  9 Psaki's Williamsburg tips
+10.  10 Debate fuels contraception-rule foes
 
 Showing Last 7 Days
 
-Updated: 10/14/2012 7:03 AM ET
+Updated: 10/15/2012 7:02 AM ET
 
-1.  1 Rand Paul goes national
-2.  2 7 takeaways from the Danville debate
-3.  3 Joltin' Joe Biden wins the bout
-4.  4 Twitter frowns on Joe Biden's laugh
-5.  5 Biden goes after Ryan in VP debate
-6.  6 5 things to watch in VP debate
-7.  7 Angst grows among Obama backers
-8.  8 Inside the campaign: The Romney rebellion
-9.  9 Mitt: Obama has made U.S. less safe
-10.  10 Obama moves to lock in Latino vote
+1.  1 Obama's slippery foreign oil promise
+2.  2 Rand Paul goes national
+3.  3 7 takeaways from the Danville debate
+4.  4 Joltin' Joe Biden wins the bout
+5.  5 Twitter frowns on Joe Biden's laugh
+6.  6 Biden goes after Ryan in VP debate
+7.  7 5 things to watch in VP debate
+8.  8 Angst grows among Obama backers
+9.  9 Inside the campaign: The Romney rebellion
+10.  10 Mitt: Obama has made U.S. less safe
 
 News
 
