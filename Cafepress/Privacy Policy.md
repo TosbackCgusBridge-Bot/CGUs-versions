@@ -384,4 +384,4 @@ OUR BRANDS CafePress  \[+\] Canvas on Demand  \[+\] Great Big Canvas  \[+\
 
 All Content Copyright © 1999-CafePress Inc. Use of this web site constitutes acceptance of the Terms of Service.
 
-{"SumOfAllMeasurementsBelowReportingThreshold":1}
+{"SumOfAllMeasurementsBelowReportingThreshold":0}
