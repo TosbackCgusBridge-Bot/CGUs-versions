@@ -269,7 +269,7 @@ Answers may amend this policy from time to time by posting the new text on the S
   
 If you have any questions or suggestions regarding this privacy policy, please contact Answers: privacy\_at\_answers.com.  
   
-ADVERTISEMENT Answer these What were Adolf Hitler's arguments? In: Germany in WW2 Answer it! What are the fuel sources in the Indian ocean? In: Oceans and Seas Answer it! How do you say What would you do if you weren't afraid in Greek? In: English to Greek Answer it! How tall does a mountain have to be to been a mountain? In: Mountains Answer it! ADVERTISEMENT Answers Properties
+ADVERTISEMENT Answer these How to open sparkling wine and still wine? In: Wine and Champagne Answer it! Is The earth is tilted? In: Seasons Answer it! Why is Jean the protagonist in to kill a mockingbird? In: To Kill a Mockingbird Answer it! What is the largest 3 digit number that is divisible by 5? In: Math and Arithmetic Answer it! ADVERTISEMENT Answers Properties
 
 *   Wiki Answers
 *   Video Answers
