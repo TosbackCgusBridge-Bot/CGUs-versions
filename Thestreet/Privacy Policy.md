@@ -84,12 +84,11 @@ A NOTE FROM STEPHANIE LINK
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
 *   Cyber Security Webinar
-*   Who Won the VP Debate?
-*   iPhone 5 vs. Galaxy S III
-*   5 Dumbest
-*   iPad Mini Release Date
+*   FDA Advisory Panels
+*   Stocks to Watch
+*   Stock Futures
 
-pjava05.dc.thestreet.com Privacy Policy
+pjava01.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -246,11 +245,11 @@ Product Features:
 
 DOW 13,328.85 2.46 0.02% NASDAQ 3,044.11 -5.30 -0.17% S&P 500 1,428.59 -4.25 -0.30% US 10 Yr 1.663% -0.012 Brokerage Partners Most Commented
 
-*   The Sad Story of Jack Welch in Retirement: Opinion
-*   10 Worst Cars of All Time
-*   Hemispherx ATM Withdrawals Raise A Red Flag
 *   Microsoft Will Lose a War With Apple. So Will Google
+*   10 Worst Cars of All Time
+*   The Sad Story of Jack Welch in Retirement: Opinion
 *   10 Cult TV Shows Netflix Should Revive
+*   Apple Bulls Having Love Fest: Please, Get a Room
 
 Articles From Advertising Partners Free Newsletters from TheStreet
 
