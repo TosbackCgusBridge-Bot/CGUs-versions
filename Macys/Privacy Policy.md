@@ -200,7 +200,13 @@ was this answer helpful? Please tell us how we can make this answer more helpful
 *   Our Products: Product Recalls
 *   Credit Card Privacy Policy
 
-Find an answer related tools My Profile Macy's Credit Card Order Status Store Locator Gift Card Balance Password Assistance Contact Us
+Find an answer announcements
+
+*   Click here if you are placing an international order on 10.14.12  
+    We're sorry for any inconvenience but your order confirmation email may be delayed.  Our...  
+    
+
+related tools My Profile Macy's Credit Card Order Status Store Locator Gift Card Balance Password Assistance Contact Us
 
 For assistance with your shopping experience and other answers.
 
