@@ -42,7 +42,7 @@ AllThingsD
 
 *   View by Writer
 
-**Trending –** Three Weeks In, and the iPhone 5 Is Already Dominating the Mobile Web  
+**Trending –** Tech Pundits Take iPhone Complaints Directly to the Source on “Saturday Night Live”  
 
 Follow on Twitter »Subscribe on Facebook »Like on Facebook »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
 
