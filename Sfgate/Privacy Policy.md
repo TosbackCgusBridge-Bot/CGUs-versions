@@ -1,6 +1,6 @@
 (skip this header)
 
-Sunday Oct 14, 2012 5:06 AM PT
+Monday Oct 15, 2012 5:06 AM PT
 
 ° (change)
 
@@ -60,10 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Map: Marathon in S.F. on Sunday
-*   First snow at Sierra resorts
-*   5 things to do in Casablanca
-*   Where'd white tablecloths go?
+*   Chopra
+*   Napa's shifting dining scene
+*   Close box office results
+*   Brewster Kahle's Internet Archive
+*   Actor Gary Collins dies
 *   Giants playoff gear!
 
 *   Bay Area &. State
@@ -381,35 +382,40 @@ Ads by Yahoo! Photo Galleries
 
 *   Most Commented
 
-1.  Gas prices will jump again, critics say
-2.  Boy in school flap over cystic fibrosis
-3.  Richmond's soda tax campaigner
-4.  Shot fired at Obama campaign office in Denver
-5.  The 30 scariest movies
-6.  Al-Qaida leader urges holy war over Prophet film
-7.  Tragedy: Bullied Canadian teen commits suicide, saddens people everywhere
+1.  No chance? Giants have no problems in 26-3 rout of 49ers
+2.  Skydiver hopes to break sound barrier on Sunday
+3.  S.F. bids to be host city for Super Bowl
+4.  Calif. expected to lose 100 dairy farms
+5.  Obama, Romney hunker down for debate prep
+6.  At 0-32, gay-marriage forces seek 1st win at polls
+7.  Giants fall to Cards in NLCS opener, 6-4
 
 loading... Latest News Videos From our homepage
 
 *     
-    Los Angeles Newspaper Group, Jeff Gritchen, Pool / AP
+    Brant Ward, The Chronicle / SF
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 11:33 p.m., Saturday, October 13, 2012 Shuttle inches toward end
+    Giants gotta get away
     
-    Endeavour makes its slow journey through SoCal traffic to its final resting place at museum.
+    Bumgarner lit up again, S.F. loses again at home in NLCS Game 1.
     
+*   Crowd can't will comeback
 
 *     
-    Alanna Hale, Sunset.com / SF
+    Handout, Getty Images / SF
     
-    Best food shops in West
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 8:26 p.m., Sunday, October 14, 2012 Leap breaks sound barrier
     
-    Whether you're looking for butchers or bakers, the Bay Area has some of the top spots.
+    Extreme athlete lands safely after 24-mile skydive. Photos
     
+*   History of the sound barrier
 
-*   The 30 scariest movies
+*     
+    Jason Henry, Special To The Chronicle / SF
     
-    If you're looking for a good pre-Halloween fright, these films can get your blood pumping.
+    Treasure Island rocks
+    
+    Fans party onstage, elsewhere on the island during annual two-day music fest. Photos
     
 
 *   Home
