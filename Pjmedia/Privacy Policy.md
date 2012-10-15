@@ -115,24 +115,24 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Florida Board of Education Thinks Blacks are Dumber than Whites
-*   A Rant on Supposed Racism
-*   Let’s Get Fiscal
+*   Now Up on the PJ Media Homepage
+*   What is Vice President Biden Thinking? – New Photo Caption Contest
+*   \[Video\] Stephen Harper: Canadian PM Tells It Like It Is on Iran, Unlike Obama
 
 More  
 
-*   Classic Rock and Cheap Wine: Jimi Hendrix, Love Beads, and My First Concert
-*   Welcome Back to the Woman Wars, Camille Paglia…
-*   Lindsay Lohan Endorses Mitt Romney?
+*   The Djoker is Wild
+*   What’s a Bialy?
+*   Cash is Still King, Especially While Traveling
 
 More
 
-*   Is the Benghazi Attack Obama’s Madrid Train Bombings?
-*   The Case of Eric Hobsbawm: Can a Stalinist Be a Good Historian?
-*   Stand By Me
+*   The Obama Breaking Point
+*   Welcome Back to the Woman Wars, Camille Paglia...
+*   Lines Crossed
 
-More   STEWART BAKER: RATs and Poison: Can Cyberespionage Victims Counterhack? “MY CUT-RATE RESURRECTION:” Gerard van der Leun writes: “When people find out I dropped dead on October 13 of 2011, they often ask me if I saw ‘the white light.’ They are disappointed when I tell them I did not. They’ve come to believe in the light, believe in it in a very literal way. They’ve heard it is seen and they’d like continuing confirmation of this sighting. My report always, as I said, disappoints.” ... I’VE ALWAYS BEEN MORE OF A CLAUSTROPHILE THAN A CLAUSTROPHOBE: Conquering Claustrophobia. More Advertisement
+More   SANDUSKY ON THE THAMES:  The _New York Times_ reports, “Silence on Abuse Reports Plunges BBC Into Scandal:” ... BYRON YORK: GOP hopes soar as Romney rolls in Ohio. LOWER EDUCATION BUBBLE UPDATE: The AP Scam. “Fraudulent schemes come in all shapes and sizes. To work, they typically wear a patina of respectability. That’s the case with Advanced Placement courses, one of the great frauds currently perpetrated on American high-school students. That’s a pretty strong claim, right? You bet. But why not be straightforward when discussing a scam the scale and audacity of which would raise Bernie Madoff’s eyebrows? . . . It’s clear the College Board has the mentality of a voracious corporation, charging $89 a shot for an exam to millions of students who have no business taking it.” ... More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
-Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb2
+Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb1
