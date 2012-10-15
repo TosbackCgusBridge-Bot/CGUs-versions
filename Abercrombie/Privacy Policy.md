@@ -4,11 +4,11 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[anf-HomepageTopBannerEMS\] Last Day! 20% off Purchase + $5 Shipping on all orders! Code: 15379
+\[anf-HomepageTopBannerEMS\] Sweatpants Sale - $30 &. Up!
 
-*   shop mens
+*   Shop Mens Sweatpants
 
-*   shop womens
+*   Shop Womens Sweatpants
 
 *   see details
 
