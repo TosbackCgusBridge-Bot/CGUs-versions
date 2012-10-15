@@ -12,11 +12,11 @@ Sign In
 
 Iran
 
-German foreign minister urges EU to adopt tougher sanctions on...
+European satellite provider cuts off 19 Iranian TV and radio s...
 
-China
+Nobel Prize
 
-Against backdrop of dispute with China, Japan shows off naval ...
+2 U.S. economists win Nobel Prize
 
 Politix
 
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
- 
+  Ads by Glam
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 98,874 • Total comments across all topics: 187,997,236
+Comments made yesterday: 102,162 • Total comments across all topics: 188,088,606
 
 Copyright ©2012 Topix LLC
 
