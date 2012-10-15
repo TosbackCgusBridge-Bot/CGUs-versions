@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Sunday, October 14, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Monday, October 15, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -113,13 +113,13 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report Mike Hutchings/Reuters Innovations &. Inventions  
-Everyday drones, digital therapists, and other dispatches from the frontiers of creativity Read more › Just In Tanya Domi 7:44 AM ET Why Giving the European Union the Nobel Peace Prize Was Wrong 1350215083 Voices
+Special Report The Atlantic Election 2012  
+_The Atlantic_'s full coverage of the battles for the White House, Senate, and more. Read more › Just In Molly Ball 7:30 AM ET The GOP Grannies Who Love Paul Ryan 1350300636 Voices
 
+*   Jeffrey Goldberg A Cairo Riot 6:52 AM ET
+*   Robert Wright Very Nice Guy (and Important Psychologist) Dies Oct 14, 2012
 *   James Fallows Your Real-Time Cyber-Attack Map Oct 13, 2012
 *   Ta-Nehisi Coates Romney Rising (Still) Oct 13, 2012
-*   Jeffrey Goldberg Unbelievable Oct 13, 2012
-*   Robert Wright The Nobel Peace Prize Should Have Gone to... Oct 12, 2012
 *   Garance Franke-Ruta Did Biden Hang the State Department Out to Dry at… Oct 12, 2012
 *   Clive Crook Biden Beats Ryan on Points Oct 12, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
@@ -162,23 +162,23 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   The Curse of Theodore Roosevelt  
+*   'Economic Engineering' Earns Two Americans a Nobel Prize  
     
-*   Rupert Murdoch Likes VICE  
+*   Study: HPV Vaccine Doesn't Turn Girls into Sex Maniacs  
     
-*   Al Queda Doesn't Want You to Forget the Muslim Movie  
+*   14-Year-Old Taliban Victim Malala Yousafzai Is Moved to England  
     
 
-Last Update: 5:35 PM
+Last Update: 7:49 AM
 
+*   'Hipster Is Not a Real Job'  
+    
 *   Bears Could Be Next Urban Menace  
     
 *   Is This What an Urban 'Big Box Store' Looks Like?  
     
-*   Global Cities That Offer the Most Opportunity  
-    
 
-Last Update: 6:16 PM Most Popular
+Last Update: 3:00 PM Most Popular
 
 1
 
@@ -186,39 +186,39 @@ Dark Social: We Have the Whole History of the Web Wrong
 
 2
 
-A Space Shuttle on the Streets of Los Angeles
+Einstein Letter Calling Biblical Stories 'Pretty Childish' to Be Auctioned on eBay
 
 3
 
-SNL's Christina Applegate Episode: 5 Best Scenes
+AP Classes Are a Scam
 
 4
 
-AP Classes Are a Scam
+A Space Shuttle on the Streets of Los Angeles
 
 5
 
-How To Make Sure The Next Generation Is Better Off Than We Are
+Why Conservatives Don't Really Want the U.S. to Run Like a Business
 
 6
 
-Gangnam Style, Dissected: The Subversive Message Within South Korea's Music Video Sensation
+The Agony of Ending an Agonizing Boxing Fight
 
 7
 
-What Poetry Teaches Us About the Power of Persuasion
+How To Make Sure The Next Generation Is Better Off Than We Are
 
 8
 
-Scenes From Antarctica
+Why Women Still Can’t Have It All
 
 9
 
-Why Women Still Can’t Have It All
+The Writing Revolution
 
 10
 
-The Writing Revolution
+'The Walking Dead' Is Back, and It's Taking the Apocalypse Seriously
 
 *   Subscribe Help
 *   Faq
