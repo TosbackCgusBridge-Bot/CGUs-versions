@@ -34,6 +34,7 @@ To search for a player use one of two formats:
 
 COLUMNS
 
+*   NLCS: Cardinals vs. Giants Oct 14
 *   ALCS: Tigers vs. Yankees Oct 13
 *   Ibanez Saves Yankees Oct 11
 *   Sabathia Silences O's Oct 8
@@ -41,7 +42,6 @@ COLUMNS
 *   Cabrera Crowned Oct 4
 *   Closer Keeper Rankings Oct 3
 *   Frantic Finales Oct 3
-*   10/3 Lineups and Weather Oct 3
 
 PREMIUM CONTENT
 
@@ -56,6 +56,10 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Beltran powers Cardinals to NLCS Game 1 win
+*   Report: Jeter (ankle) likely to need surgery
+*   Sanchez outduels Kuroda, Tigers win Game 2
+*   Jose Valverde will not be closer for Game 2
 *   Jeter breaks ankle, done for rest of playoffs
 *   Young plates winning run, Tigers take Game 1
 *   Valverde implodes, blows four-run lead in 9th
@@ -64,10 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Yankees announce Kuroda as Game 2 starter
 *   Mets could begin talks with Wright next week
 *   Nunez dropped from Yankees ALCS roster
-*   Madison Bumgarner to start Game 1 of NLCS
-*   Descalso's heroics lead Cardinals to NLCS
-*   Storen implodes in ninth, Nats drop stunner
-*   Report: K-Rod arrested for domestic violence
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Rodgers Reasserts Rule Oct 15
+*   Down goes DeMarco Oct 15
+*   Week 6 Live Blog Oct 14
+*   Updated Week 6 Rankings Oct 14
 *   Week 6 Injury Questions Oct 13
 *   Week 6 Starts and Sits Oct 13
 *   Friday Rundown Oct 12
 *   Week 6 Chat Recap Oct 12
-*   Matchups: He's Heating Up Oct 12
-*   Mending Complications Oct 12
-*   Week 6 Rankings Oct 11
-*   Week 6 Target Watch: AFC Oct 11
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Hernandez expected to play in 'limited stint'
-*   Bucs CB Aqib Talib suspended for four games
-*   Report: Mendenhall Achilles injury not severe
-*   Patriots update: No practice for TE Hernandez
-*   Redskins list Robert Griffin as questionable
-*   Harvin practices fully, probable for Redskins
-*   Titans believe Locker could play in Week 7
-*   Garcon (foot) questionable for Week 6 vs. MIN
-*   Lions refuse to provide update on Jahvid Best
-*   Packers' Finley limited, listed questionable
-*   Hakeem Nicks practices again, 'questionable'
-*   Aaron Hernandez 'could be game-time decision'
+*   Nelson explodes for three TDs in Pack rout
+*   Rodgers carves up Texans for 6 TDs in rout
+*   Ravens docs believe Lewis may be done for '12
+*   Kevin Kolb is headed for X-rays on his ribs
+*   Peterson's touchdown drought reaches 5 games
+*   Welker gashes Seattle for 10 catches in loss
+*   Fitz surpasses 10,000 career yds mark in loss
+*   Aaron Hernandez scores touchdown in return
+*   Seahawks hold Ridley to 34 yards on 16 totes
+*   Spiller totals 110 yds, TD in OT win over ARZ
+*   With 3 TDs, RG3 leads Skins to upset victory
+*   Bradshaw rolls on, gashes 49ers for 116 yards
 
 NBA PAGES
 
@@ -156,7 +156,11 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Andrew Bynum (knee) iffy for season opener?
+*   Mike Conley hits five 3PTs in exhibition win
+*   Anthony Davis (groin) held out of contact
+*   Andrew Bynum gets injection in ailing knees
+*   Kevin Seraphin (calf) ruled out for Monday
+*   Chris Paul (thumb) makes preseason debut
 *   O.J. Mayo limited in preseason by hand injury
 *   Brook Lopez (foot) leads Nets with 19 points
 *   Kevin Love out Saturday w/ sore elbow
@@ -164,10 +168,6 @@ FANTASY BASKETBALL NEWS
 *   McGee starts in Friday's win over the Spurs
 *   Waiters takes over in Cavs' preseason win
 *   Irving struggles with 2-of-15 effort vs. CHI
-*   Chris Paul (thumb) expected to debut Sunday
-*   Davis (groin) out for precautionary reasons
-*   Lowry (groin) dresses, doesn't play on Friday
-*   Bass not guaranteed to start this season
 
 NHL PAGES
 
@@ -207,6 +207,8 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Giroux, Briere light it up for Eisbaren
+*   Tyler Myers to join Klagenfurter AC Tuesday
 *   Brayden Schenn scores twice, assists in win
 *   Malcolm Subban kicks aside 44 shots in win
 *   Prospect Anthony Mantha unstoppable in QMJHL
@@ -217,8 +219,6 @@ FANTASY HOCKEY NEWS
 *   Chara scores in KHL loss Saturday
 *   Ovie has 2 assists in KHL win Saturday
 *   Sens' Francois Brassard excelling in QMJHL
-*   Canucks come clean on Edler, Garrison
-*   Alexander Semin signs with KHL team
 
 NASCAR PAGES
 
@@ -268,6 +268,7 @@ GOLF PAGES
 
 COLUMNS
 
+*   Jonas, Brother! Oct 14
 *   California Dreamin' Oct 9
 *   Sinsational! Oct 7
 *   Legends of the Fall Oct 2
@@ -275,7 +276,6 @@ COLUMNS
 *   Ryder Cup Preview Sep 25
 *   Life's Rich Pageant Sep 23
 *   Live Golf Chat at 12:00pm ET Sep 19
-*   Closing Time Sep 17
 
 PARTNERS
 
@@ -285,18 +285,18 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Blixt breaks through at the Frys.com Open
+*   Walker shares course record. ties career low
+*   Stefani locks up TOUR card with second title
+*   Eagle hole-out fuels Lowry's first pro win
 *   Mallinger heads to Frys.com finale with lead
 *   Dunlap, 49, cards career low in 202nd start
-*   Mallinger bogey-free. alone atop the Frys.com
 *   O'Hern steals the lead. matches course record
 *   Fowler shelved indefinitely with 'back issue'
 *   More details emerge on Levin. back at Sony
 *   Crane (back) drops out of the Frys.com Open
 *   Jacobson withdraws from the Frys.com Open
 *   Tim Clark withdraws from the Frys.com Open
-*   Turnesa co-medals at Frys.com four-spotter
-*   Ryan Moore wins at home for second TOUR title
-*   Lingmerth claims Neediest Kids. secures card
 
 NFL DRAFT PAGES
 
@@ -311,11 +311,11 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Senior Prospect Rankings Oct 14
 *   Week Seven Matchup Preview Oct 12
 *   The Human Genome Oct 10
 *   Banks-y, Cover Artist Oct 9
 *   Prospect Snapshots: Weeks 5-6 Oct 8
-*   Senior Prospect Rankings Oct 7
 *   Week Six Matchup Preview Oct 5
 *   Under Pressure Oct 3
 *   Week Five Matchup Preview Sep 28
@@ -327,6 +327,11 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Tyler Wilson shreds Wildcats for five TDs
+*   Manuel completes 27-of-34 for 439 yds, 4 TDs
+*   Silas Redd runs over Huskies for 155 yards
+*   Longhorns DE Jeffcoat out for year (pectoral)
+*   Marcus Lattimore held in check by LSU defense
 *   Geno Smith, Mountaineers struggle vs Tex Tech
 *   Denard Robinson accounts for four total TDs
 *   Tar Heel RB Bernard shreds Canes defense
@@ -334,11 +339,6 @@ NFL DRAFT NEWS
 *   Montee Ball breaks Big Ten total TD record
 *   Jawan Jamison limited to 2.3 ypc vs Syracuse
 *   Longhorns QB Ash leaves for X-rays on wrist
-*   Canes LB Perryman may have re-injured ankle
-*   Bridgewater's high YPA leads Cards over Pitt
-*   Badgers LT Wagner leaves game (right knee)
-*   Knile Davis will see more snaps vs Kentucky
-*   Tigers DT Logan 'needs to get to the QB more'
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   MLB:Jeter breaks ankle, done for rest of playoffs
-*   MLB:Young plates winning run, Tigers take Game 1
-*   NAS:Clint Bowyer wins Bank of America 500
-*   CFB:Geno Smith, Mountaineers struggle vs Tex Tech
-*   NFL:Hernandez expected to play in 'limited stint'
-*   NFL:Bucs CB Aqib Talib suspended for four games
-*   MLB:Alex Rodriguez in lineup for Game 1 of ALCS
-*   CFB:Montee Ball breaks Big Ten total TD record
-*   MLB:Yankees announce Kuroda as Game 2 starter
-*   CFB:Longhorns QB Ash leaves for X-rays on wrist
-*   MLB:Descalso's heroics lead Cardinals to NLCS
-*   MLB:Valverde implodes, blows four-run lead in 9th
+*   MLB:Beltran powers Cardinals to NLCS Game 1 win
+*   NFL:Rodgers carves up Texans for 6 TDs in rout
+*   CFB:Longhorns DE Jeffcoat out for year (pectoral)
+*   NFL:Ravens docs believe Lewis may be done for '12
+*   NFL:Kevin Kolb is headed for X-rays on his ribs
+*   MLB:Sanchez outduels Kuroda, Tigers win Game 2
+*   NFL:Aaron Hernandez scores touchdown in return
+*   NFL:Spiller totals 110 yds, TD in OT win over ARZ
+*   NFL:Bradshaw rolls on, gashes 49ers for 116 yards
+*   NFL:Brady's latest huge game marred by two picks
+*   GOL:Blixt breaks through at the Frys.com Open
+*   MLB:Report: Jeter (ankle) likely to need surgery
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1W. PowellNFL (11788)
-*   2J. BestNFL (10312)
-*   3A. GreenNFL (9371)
-*   4J. StarksNFL (7856)
-*   5D. DeCastroNFL (7818)
+*   1W. PowellNFL (11203)
+*   2J. BestNFL (10020)
+*   3A. GreenNFL (8590)
+*   4H. NicksNFL (8269)
+*   5J. StarksNFL (7326)
 
-*   6L. Stephens-HowlingNFL (7751)
-*   7H. NicksNFL (7376)
-*   8A. HernandezNFL (6876)
-*   9R. Griffin IIINFL (6792)
-*   10G. JenningsNFL (6693)
+*   6A. HernandezNFL (7296)
+*   7L. Stephens-HowlingNFL (7239)
+*   8V. BallardNFL (7105)
+*   9R. Griffin IIINFL (7052)
+*   10G. JenningsNFL (6626)
 
   
 Video Center
@@ -526,6 +526,10 @@ Video Center
 *   »
 
 *      
+    Start &. Sit: DEN @ SD
+*      
+    Start &. Sit: Packers - Texans
+*      
     SportsTalk: Last Chances
 *      
     Basketball Fix: Draft Sleepers
@@ -537,41 +541,37 @@ Video Center
     Week 6 Starts &. Sits 1 p.m.
 *      
     Start &. Sit: Steelers - Titans
-*      
-    SportsTalk: Buy or Sell
-*      
-    SportsTalk: Players to watch
 
   
   
-  Headlines Week 6 Injury Questions  
-Oct 13 Get caught up with the latest line on all the hurt folks as we get set for Week 6.  
+  Headlines Rodgers Reasserts Rule  
+Oct 15 Aaron Rodgers turned things around, but which other players stood out for better or worse? Chet Gresham recaps the Week 6 action.  
   
 More NFL Columns
 
+*   »Rodgers Reasserts Rule Oct 15
+*   »Down goes DeMarco Oct 15
+*   »Week 6 Live Blog Oct 14
+*   »Updated Week 6 Rankings Oct 14
 *   »Week 6 Injury Questions Oct 13
 *   »Week 6 Starts and Sits Oct 13
 *   »Friday Rundown Oct 12
 *   »Week 6 Chat Recap Oct 12
-*   »Matchups: He's Heating Up Oct 12
-*   »Mending Complications Oct 12
-*   »Week 6 Rankings Oct 11
-*   »Week 6 Target Watch: AFC Oct 11
 
 NFL Headlines
 
-*   »Hernandez expected to play in 'limited stint'
-*   »Bucs CB Aqib Talib suspended for four games
-*   »Report: Mendenhall Achilles injury not severe
-*   »Patriots update: No practice for TE Hernandez
-*   »Redskins list Robert Griffin as questionable
-*   »Harvin practices fully, probable for Redskins
-*   »Titans believe Locker could play in Week 7
-*   »Garcon (foot) questionable for Week 6 vs. MIN
-*   »Lions refuse to provide update on Jahvid Best
-*   »Packers' Finley limited, listed questionable
-*   »Hakeem Nicks practices again, 'questionable'
-*   »Aaron Hernandez 'could be game-time decision'
+*   »Nelson explodes for three TDs in Pack rout
+*   »Rodgers carves up Texans for 6 TDs in rout
+*   »Ravens docs believe Lewis may be done for '12
+*   »Kevin Kolb is headed for X-rays on his ribs
+*   »Peterson's touchdown drought reaches 5 games
+*   »Welker gashes Seattle for 10 catches in loss
+*   »Fitz surpasses 10,000 career yds mark in loss
+*   »Aaron Hernandez scores touchdown in return
+*   »Seahawks hold Ridley to 34 yards on 16 totes
+*   »Spiller totals 110 yds, TD in OT win over ARZ
+*   »With 3 TDs, RG3 leads Skins to upset victory
+*   »Bradshaw rolls on, gashes 49ers for 116 yards
 
 NFL Links
 
