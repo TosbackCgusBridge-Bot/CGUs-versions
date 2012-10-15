@@ -435,19 +435,19 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   FHP report: Mom drank three bottles of wine, crashed car on I-75 with kids inside Published 10/13/2012 at 3:15 p.m. 19 comments
-*   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 293 comments
-*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 53 comments
-*   Swing state: Heavy population of Puerto Rican residents could tip vote in I-4 corridor Published 10/13/2012 at 8:00 a.m. 28 comments
-*   Brent Batten: Reticent Collier County manager not talking about Hiller Published 10/13/2012 at 4:00 p.m. 24 comments
+*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 143 comments
+*   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 29 comments
+*   Lee sheriff's deputy, Naples man, child hospitalized in two-car crash Sunday Published 10/14/2012 at 12:15 p.m. 14 comments
+*   Brent Batten: Reticent Collier County manager not talking about Hiller Published 10/13/2012 at 4:00 p.m. 58 comments
+*   Taxpayers' $5 million given to Lee company leads to investigations, accusations Published 10/14/2012 at 7:30 a.m. 32 comments
 
-Photo Galleries Everblades pull out OT win over Solar… Manatee, Gulfview win cross country… Prep Football: Fort Myers vs. South…
+Photo Galleries Catch of the Day: Oct. 3, 2012 Bikers for Babies 2012 Cleaning Up What Was Left Behind
 
-*   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 293 comments
-*   VP debate: Biden, Ryan at each other on everything Published 10/11/2012 at 10:14 p.m. 86 comments
-*   Brent Batten: Evaluations shed light on commissioners' ability to misrepresent facts Published 10/11/2012 at 5:00 a.m. 71 comments
-*   Election 2012: What to expect when Biden, Ryan face off in VP debate Published 10/11/2012 at 5:00 a.m. 70 comments
-*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 53 comments
+*   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 341 comments
+*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 143 comments
+*   Brent Batten: Reticent Collier County manager not talking about Hiller Published 10/13/2012 at 4:00 p.m. 58 comments
+*   Charter boat captain questions if city has valid Naples Bay speed signs Published 10/13/2012 at 7:30 a.m. 45 comments
+*   Letter: How clever Published 10/12/2012 at 4:00 a.m. 41 comments
 
 *   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
 *   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 10 comments
@@ -461,40 +461,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 72° Fair Wind: N 6mph Today 87° 73° Sun 08:00 PM Mostly Clear Temp: 82° Mon 08:00 AM Mostly Cloudy Showers Temp: 75° Mon 08:00 PM Partly Cloudy Temp: 80°
+Currently 74° Fog/Mist Wind: NE 8mph Today 87° 74° Mon 08:00 PM Partly Cloudy Showers Temp: 81° Tue 08:00 AM Partly Sunny Temp: 74° Tue 08:00 PM Partly Cloudy Temp: 79°
 
-Feels Like: 86°
+Feels Like: 85°
 
-Humidity: 69%
+Humidity: 72%
 
 Precip: 30%
 
-Feels Like: 75°
+Feels Like: 74°
 
-Humidity: 87%
-
-Precip: 10%
-
-Feels Like: 83°
-
-Humidity: 74%
+Humidity: 84%
 
 Precip: 20%
 
+Feels Like: 79°
+
+Humidity: 69%
+
+Precip: 10%
+
 More Weather » Calendar
 
-*   Sunday Oct 14
 *   Monday Oct 15
 *   Tuesday Oct 16
+*   Wednesday Oct 17
 *   More BROWSE Icon
-
-*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Laughter Yoga Bija Yoga 9 a.m.
-*   2012 Great Pumpkin Festival Fleamasters Fleamarket - Fort Myers 9 a.m.
-*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
-
-More Events »
 
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   Baby boot camp Miromar Outlets 9 a.m.
@@ -509,6 +501,14 @@ More Events »
 *   Pumpkin Patch North Naples United Methodist Church 9 a.m.
 *   Barrier Islands Guided Walk Bowditch Point Recreational Park 9:30 a.m.
 *   iPad for Beginners Commons Club at the Brooks, 9930 Coconut Rd, Bonita Springs 9:30 a.m.
+
+More Events »
+
+*   Women Business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
+*   Women business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   GIS Symposium: Inspiration Through Networking and Technology Rookery Bay Environmental Learning Center 8 a.m.
+*   Yoga at the Center for the Arts Center for the Arts of Bonita Springs 8 a.m.
 
 More Events »
 
