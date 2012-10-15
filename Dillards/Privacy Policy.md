@@ -8,7 +8,7 @@ Change Country
 *   Change Country AFO/FPO Track Order Contact Us via Email
 *   Shopping Bag  () $
 
-Dillard's Outdoor Shop 2012 >. Change Country All Categories
+Dillard's Gameday Gear >. Change Country All Categories
 
 *   All Categories
 *   Women
@@ -47,7 +47,11 @@ Search
 *   Children
 *   Home
 
-Company Notices and Terms of Use Legal Notices - Terms of Use Information about Dillard's Credit Shipping Policy Return Policy Dillards.com Privacy Policy The Children's Online Privacy Protection Act (COPPA) Pricing Policy Tax Information Copyright Notice Submission of Information to Dillard's Limitation of Liability Security California Transparency in Supply Chain Act Statement 2010 Legal Notices - Terms of Use
+Company Notices and Terms of Use Legal Notices - Terms of Use Information about Dillard's Credit Shipping Policy Return Policy Dillards.com Privacy Policy The Children's Online Privacy Protection Act (COPPA) Pricing Policy Tax Information Copyright Notice Submission of Information to Dillard's Limitation of Liability Security California Transparency in Supply Chain Act Statement 2010
+
+Back to Top
+
+Legal Notices - Terms of Use
 
 This web site is owned and operated by Dillard's, Inc at http://www.dillards.com.
 
@@ -68,6 +72,8 @@ Legal Dept.
 1600 Cantrell Road  
 Little Rock, AR 72201
 
+Back to Top
+
 Information about Dillard's Credit
 
 GE Capital Retail Bank  
@@ -77,6 +83,8 @@ El Paso, TX 79998
 If you wish, you may complete a credit card application on-line, or visit any of our stores to pick up an application in person. A request for credit authorizes GE Capital Retail Bank to investigate your credit record. For information on GE Capital Retail Bank's sharing practices with regard to your personal information click here. You also agree that if you use or allow others to use your Dillard's credit card, you will be bound by the terms of the credit card agreement mailed with the card.
 
 For information on GE Capital Retail Bank's key credit terms of the Dillard's Personal Credit Card agreement click here.
+
+Back to Top
 
 Shipping Policy
 
@@ -101,6 +109,8 @@ Gift Cards are shipped U.S. Mail at no charge for regular delivery. There is a $
 
 Dillard's does not ship fragrances, aerosols, and alcohol based products via Express Delivery or to P.O. boxes, military facilities or outside the continental United States. Please select Regular Delivery for the shipment of these items.
 
+Back to Top
+
 Return Policy
 
 We trust you will be satisfied with your Dillard's purchase. However, should you decide the merchandise is not satisfactory, Dillard's return policy is stated below:
@@ -123,6 +133,8 @@ If the merchandise being returned was purchased using a credit card and we credi
 If you exchange merchandise, your account will be credited for the return and a sale rung for the new merchandise.
 
 If the merchandise being returned was purchased using a Dillard's Gift Card, that card will be credited if there is a balance on it. If the balance on the card is $0.00 a new Gift Card will be issued for the return amount and mailed to you.
+
+Back to Top
 
 Dillards.com Privacy Policy
 
@@ -224,9 +236,13 @@ Or email us at Questions@dillards.com
 
 This policy was last updated effective January 17, 2007.
 
+Back to Top
+
 The Children's Online Privacy Protection Act (COPPA)
 
 The Children's Online Privacy Protection Act (COPPA) protects the online privacy and personal information of children under 13 years of age. In compliance with this act, Dillard's does not promote online to children, and does not intentionally collect any personally identifiable information from children under 13. Children under the age of 13 must be signed up by their parents and use their parents email address in order to receive e-mail updates.
+
+Back to Top
 
 Pricing Policy
 
@@ -236,11 +252,15 @@ Dillard's does not make price adjustments.
 
 Merchandise available through Dillards.com may not be available in all our stores.
 
+Back to Top
+
 Tax Information
 
 Dillard's Inc. operates in 29 states throughout the U.S. Current law requires us to collect all state taxes that are applicable, based on the order's "ship to" address. Be advised that some states require a tax on the delivery and/or gift wrap charges, as well. All applicable taxes will be clearly displayed on your order at order completion time.
 
 NOTE: Tax rates are subject to change at any time.
+
+Back to Top
 
 Copyright Notice
 
@@ -248,19 +268,27 @@ The entire contents of this site are the sole and exclusive property of Dillard'
 
 All of this web site's content and supporting code are copyrighted by or licensed to Dillard's, Inc. and all rights are reserved. All content copies, either electronic or printed, are for personal use only. The content and supporting code contained herein may not be used in any other manner unless express written permission is obtained in advance.
 
+Back to Top
+
 Submission of Information to Dillard's
 
 Dillard's shall have a permanent, irrevocable license to modify, retransmit, license, distribute, sell or otherwise use in any manner any and all information, including suggestions and ideas, submitted to Dillard's through use of this site, without any obligation to compensate or further notify the person submitting the information of such use.
 
 Any person submitting, posting or displaying any data, text, music, sound, photographs, graphics, video, messages, tags and/or other materials ("Content"), in any media, to Dillard's, whether publically or privately transmitted, represents, warrants and agree that she is the sole owner of such Content and has the lawful right to submit same for use by Dillard's. Further, any person submitting Content grants to Dillard's a permanent, irrevocable license to modify, retransmit, license, distribute, sell or otherwise use in any manner any and all Content submitted without any obligation to compensate or further notify the person submitting the Content of such use.
 
+Back to Top
+
 Limitation of Liability
 
 This website and all information contained herein are provided "as is" and without warranties of any kind, express or implied. Dillard's shall not be liable for any damages whatsoever arising out of or relating to the use by any person of this site, including but not limited to direct, indirect, consequential or punitive damages, including damages to hardware or software resulting from use of this site.
 
+Back to Top
+
 Security
 
 We are committed to maintaining the security of the information we receive from you. To prevent unauthorized access, we have implemented appropriate software and management procedures which we monitor continuously. Encryption is a process which scrambles your personal information while it is in transit to us. We encrypt sensitive information as you key it in your browser via a "secure socket layer", or SSL, which is the industry standard for encrypting transmitted data. Upon receipt, your information is stored on a secured server behind a firewall. This secured server is not directly connected to the Internet, and the firewall which protects it meets all industry standards. In addition, the facility that houses the server is physically secured to further protect your information against loss, alteration or misuse. We are and will continue to be diligent in our efforts to ensure that your personal information is secure with us.
+
+Back to Top
 
 California Transparency in Supply Chain Act Statement 2010 California Transparency in Supply Chains Act Statement
 
