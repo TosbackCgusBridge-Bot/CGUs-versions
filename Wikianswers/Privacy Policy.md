@@ -269,7 +269,7 @@ Answers may amend this policy from time to time by posting the new text on the S
   
 If you have any questions or suggestions regarding this privacy policy, please contact Answers: privacy\_at\_answers.com.  
   
-ADVERTISEMENT Answer these Does Walgreen's require a prescription for morning after pill? In: Morning After Pill Answer it! What type Of Venation In Apple Leaf? In: Botany or Plant Biology Answer it! What are the aims of the true love waits campaign? In: Religion &. Spirituality Answer it! What is a typical roman soldiers day? In: Roman Empire Answer it! ADVERTISEMENT Answers Properties
+ADVERTISEMENT Answer these Can your landlord keep their belongings in the property you are renting its been 3 months and our landlords belongings are still here she wants to put a shed up in the back garden? In: Landlord-Tenant Issues Answer it! Does The equator has a diameter of approximately seven thousand nine hundred miles? In: Math and Arithmetic Answer it! Do you capitalize the word bible in bible study? In: The Bible Answer it! What is divisible number? In: Math and Arithmetic Answer it! ADVERTISEMENT Answers Properties
 
 *   Wiki Answers
 *   Video Answers
