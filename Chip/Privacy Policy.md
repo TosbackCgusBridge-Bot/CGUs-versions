@@ -265,11 +265,11 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 Top 50: Android Bootanimationen zum Download
-*   2 Die besten kostenlosen Horror-Games
-*   3 PicPick 3.1.9 Deutsch Freeware
-*   4 The Unarchiver 3.4 Deutsch Freeware
-*   5 ImageMagick 6.8.0 Englisch Freeware
+*   1 Rocks and Diamonds Portable 3.3.0.1 Rev.2 Englisch Freeware
+*   2 PortableApps Platform 11.2 Deutsch Freeware
+*   3 IObit Malware Fighter 1.6 Deutsch Freeware
+*   4 Adobe Reader 11.0 Deutsch Freeware
+*   5 Adobe Reader für Mac 11.0 Deutsch Freeware
 
 ...mehr
 
@@ -343,8 +343,8 @@ Meistgelesene Themen
 *   Samsung SSDs gewinnen und alten Rechner neu lieben lernen
 *   Warum nur für Studenten?!
 *   Facebook knacken leicht gemacht...
-*   Erste Hilfe bei Infektionen (Viren, Würmer, ...)
-*   Free YouTube to MP3 Converter legal ?
+*   Tastatur umstellen Englisch/Deutsch
+*   Adamski TV funzt trotz aller Bemühungen eben nicht!!!!
 
 ...mehr
 
@@ -365,9 +365,9 @@ Alle CHIP Online Feeds im Überblick
     
 *   3 Playboy - Playmate des Jahres  
     
-*   4 Der Software Pranger - Diese 50 Tools nerven richtig  
+*   4 10 interessante Angebote, 10 tolle Alternativen  
     
-*   5 10 interessante Angebote, 10 tolle Alternativen  
+*   5 Der Software Pranger - Diese 50 Tools nerven richtig  
     
 
 ...mehr
@@ -386,7 +386,7 @@ Alle CHIP Online Feeds im Überblick
     
 *   4 Fußball Live Stream mit SopCast  
     
-*   5 Black Mesa  
+*   5 Canon EOS 6D - Praxis-Test  
     
 
 ...mehr
