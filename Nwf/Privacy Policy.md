@@ -141,6 +141,6 @@ Donate | Renew  | How to Help | About | Where We Work | Media Center | J
 © 1996-2012 National Wildlife Federation | PO Box 1583, Merrifield VA 22116-1583 | 1-800-822-9919 . (M-F 8 a.m - 8 p.m. EST) for customer service. 703-438-6000 (M-F 8:30 a.m. - 5 p.m. EST)  
 National Wildlife Federation is a 501(c)(3) non-profit organization : Privacy Policy | Terms of Use | Site Map | Contact Us
 
-Enter your user name and click the "Send" button. We will email a new password to the email address on record. User Name:    **You are now logged out of your NWF account** Email: Password: Remember Me    Forgot Password >>. **Your account has been updated** User Name: Display Name: Email: To change your password, enter a new password and retype to confirm. Password must be at least 6 characters in length, and may be any combination of numbers, letters and special characters. The password IS CASE SENSITIVE.  
+Enter your user name and click the "Send" button. We will email a new password to the email address on record. User Name:    **You are now logged out of your NWF account** User Name: Password: Remember Me    Forgot Password >>. **Your account has been updated** User Name: Display Name: Email: To change your password, enter a new password and retype to confirm. Password must be at least 6 characters in length, and may be any combination of numbers, letters and special characters. The password IS CASE SENSITIVE.  
   
 If you're not changing your password, please leave these fields blank. Password: Retype Password:
