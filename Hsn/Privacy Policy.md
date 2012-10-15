@@ -188,7 +188,7 @@ We may also collect non-personal information from your mobile device if you have
 
   
   
-Save $10 today - apply now **Instant savings** with HSN Credit Cards subject to approval Play games in the HSN Arcade Play games, earn tickets and enter for a **chance to win!** Shop HSN Gift Cards **Starting at $15**, thereâs one  
+Save $20 today - apply now **Instant savings** with HSN Credit Cards subject to approval Play games in the HSN Arcade Play games, earn tickets and enter for a **chance to win!** Shop HSN Gift Cards **Starting at $15**, thereâs one  
 for every budget Connect &. share with forums, blogs &. more  
 â¢ Questions about the item on air now? Ask HSN  
 â¢ Order toll-free anytime by phone: 1-800-284-5757
