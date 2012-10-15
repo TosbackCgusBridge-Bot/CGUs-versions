@@ -136,25 +136,23 @@ If you have any questions or comments about our policies, we may be reached at K
 
 KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $0 Value: Discount: You Save: $0 100% $0
 
-Sunday: More Deals
+Monday: Target Deals
 
-1.  OPERATING MANAGER
+1.  SEASONAL DRIVERS
     
-2.  PROGRAM DIRECTOR
+    Kelly Services
     
-3.  CAMPAIGN JOBS
+2.  SALES
     
-    Grassroots Campaigns, Inc.
+3.  SALES
     
-4.  Apartment Maintenance Helper
+4.  PROGRAM DIRECTOR
     
-5.  Certified Dietary Manager
+5.  Apartment Maintenance Helper
+    
+6.  Certified Dietary Manager
     
     CROWN CARE CENTER
-    
-6.  CHILD CARE TEACHERS
-    
-    La Petitie Academy
     
 
 View More The Most
@@ -162,16 +160,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Chiefs biggest problem isnt turnovers, its the QB
-*   Des Moines baby a numerologist's delight
-*   MU notebook: Tight end Waters carried off field at end of game
-*   Much-anticipated new season of 'The Walking Dead' begins Sunday
-*   Commentary: Mr. Romney, people die because they lack health insurance
-*   No. 1 Alabama handily beats Missouri 42-10
-*   K-State is only perfect team in Big 12 after win at Iowa State
-*   With Cassel out, Quinn must take charge for Chiefs
-*   What lies beyond the fiscal cliff: spending cuts
+*   One play symbolizes the Chiefs lost season
+*   Source: No contract extension for Chiefs’ Pioli
+*   QB switch doesn’t change Chiefs’ fortunes in loss to Tampa Bay
+*   Pedestrian killed crossing I-70
+*   Softbank said to have deal to buy 70% of Sprint
+*   Police nab driver who rammed patrol car and fled at high speed
+*   SoftBank and Sprint announce $20 billion deal
+*   Candidates consumed by debate preparations
 *   Review: 'There's No Place Like Home', the quest for Naismith's Rules
+*   K-State, Notre Dame move into top 5 of AP poll
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
