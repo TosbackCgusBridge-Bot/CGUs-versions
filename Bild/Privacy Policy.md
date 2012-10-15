@@ -1,6 +1,6 @@
 Zur Hauptnavigation springen. Zum Inhalt springen.
 
-*   14.10.2012 - 14:14 Uhr
+*   15.10.2012 - 14:15 Uhr
 *   ABO
 *   RSS
 *   Online-Services
@@ -233,7 +233,7 @@ Hauptnavigation
     5.  Fussball
         1.  Bundesliga-News
         2.  Champions League
-        3.  Champions League
+        3.  Europa League
         4.  Premier League
         5.  Primera Division
         6.  Knops Kult-Liga
@@ -647,7 +647,7 @@ zurück Service Immobilien-Suche powered by Jetzt die passende Wunsch-Immobilie 
 *   Fotogalerien
 *   Videos
 
-1 1 Sieg in Südkorea Vettel jetzt WM-Spitzenreiter Vettel jetzt WM-Spitzenreiter ThemaGP Korea 2 2 US-Wahlkampf Dieser Schnappschuss stinkt Romney Dieser Schnappschuss stinkt Romney ThemaMitt Romney 3 3 Mega-TV-Samstag BILD.de zeigt, was Sie verpasst haben BILD.de zeigt, was Sie verpasst haben ThemaDas Supertalent 4 4 Sie wurde überfahren Hund wacht seit 7 Tagen neben toter Gefährtin Hund wacht seit 7 Tagen neben toter Gefährtin 5 5 Schavans Doktorarbeit Plagiatsvorwürfe verdichten sich Plagiatsvorwürfe verdichten sich ThemaAnnette Schavan Navigation:
+1 1 Jetzt im Video So sah Baumgartner die Welt auf sich zurasen So sah Baumgartner die Welt auf sich zurasen ThemaFelix Baumgartner 2 2 Bei Günther Jauch „Sie sind nur Kachelmann“ „Sie sind nur Kachelmann“ ThemaKachelmann-Prozess 3 3 Eva Herman So verlor ich mein ganzes Geld! So verlor ich mein ganzes Geld! ThemaTV-Moderatoren 4 4 „Ich zerreisse dich“ So bedrohte Armstrong seine Kollegen So bedrohte Armstrong seine Kollegen 5 5 Strompreis-Hammer Ökostrom-Umlage steigt um fast 50 Prozent Ökostrom-Umlage steigt um fast 50 Prozent Navigation:
 
 1.  Home
 2.  News
