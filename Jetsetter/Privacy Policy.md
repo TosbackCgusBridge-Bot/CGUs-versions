@@ -220,37 +220,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Hotel Rex - San Francisco
-    
-    Starting Today 10/14 at 3pm EDT
-    
-*   Andaz West Hollywood
-    
-    Starting Today 10/14 at 3pm EDT
-    
-*   Cruise Hawaii on Norwegian A Seven-Night Sailing to Maui, Kona &. More
-    
-    Starting Today 10/14 at 3pm EDT
-    
 *   Abode at Parkwood - Utah
     
-    Starting Monday 10/15 at Noon EDT
-    
-*   Golden Tower Hotel - Florence
-    
-    Starting Monday 10/15 at 3pm EDT
+    Starting Today at Noon EDT
     
 *   A Manhattan Mystery Hotel
     
-    Starting Monday 10/15 at 3pm EDT
+    Starting Today 10/15 at 3pm EDT
     
 *   Hotel Palazzo Manfredi - Rome
     
-    Starting Monday 10/15 at 3pm EDT
+    Starting Today 10/15 at 3pm EDT
     
 *   A Maui Mystery Hotel
     
-    Starting Monday 10/15 at 3pm EDT
+    Starting Today 10/15 at 3pm EDT
+    
+*   Golden Tower Hotel - Florence
+    
+    Starting Today 10/15 at 3pm EDT
+    
+*   Kenwood Inn and Spa - Sonoma
+    
+    Starting Tuesday 10/16 at 3pm EDT
+    
+*   Fiji Air &. Hotel Package For 2
+    
+    Starting Tuesday 10/16 at 3pm EDT
+    
+*   Correntoso Hotel - Argentina
+    
+    Starting Tuesday 10/16 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
