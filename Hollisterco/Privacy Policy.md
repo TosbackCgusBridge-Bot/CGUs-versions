@@ -4,11 +4,11 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Last Day! 20% off Purchase + $5 Shipping on all orders! Code: 35284
+\[hol-HomepageTopBannerEMS\] Sweatpants Sale - $20 &. Up!
 
-*   shop dudes
+*   Shop Dudes Sweatpants
 
-*   shop bettys
+*   Shop Bettys Sweatpants
 
 *   see details
 
