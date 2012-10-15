@@ -268,7 +268,7 @@ Close Panel
     *   Sunglasses &. Sun Care
 *   Outlet Store
 
-\[global-1\] Free shipping on orders of $125 or more with promo code FREE125Click for details \[global-2\] A Summary of Bass Pro Outdoors Online, LLC's Privacy and Security Statement Bass Pro Outdoors Online, L.L.C. takes the privacy of our customers and the security of their Personal Information very seriously. We provide this summary of our Privacy and Security Statement ("Statement") because you have the right to know what Personal Information we collect, how it is protected and used and the circumstances under which it may be disclosed. The complete Privacy and Security Statement may be viewed by clicking here.  
+\[global-1\] \[global-2\] A Summary of Bass Pro Outdoors Online, LLC's Privacy and Security Statement Bass Pro Outdoors Online, L.L.C. takes the privacy of our customers and the security of their Personal Information very seriously. We provide this summary of our Privacy and Security Statement ("Statement") because you have the right to know what Personal Information we collect, how it is protected and used and the circumstances under which it may be disclosed. The complete Privacy and Security Statement may be viewed by clicking here.  
   
 If you have further questions regarding this Statement, please contact us:  
   
