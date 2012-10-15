@@ -174,9 +174,6 @@ Record Searchlight
 *   Cars
 *   Classified
 
-*   23-mile free fall from the edge of space. Launch time Sunday @ 5:00 am
-    
-
 Privacy Policy Redding.com Privacy Policy
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
@@ -270,25 +267,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Three wounded in early morning shooting, police say Published 10/13/2012 at 8:37 a.m. 49 comments
-*   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Updated 10/13/2012 at 2:28 p.m. 31 comments
-*   Ken Pereira: Nation needs more than Obama's smile Published 10/13/2012 at 12:00 a.m. 166 comments
-*   Unregistered transient sex offender nabbed after chase, police say Published 10/13/2012 at 8:49 a.m. 31 comments
-*   Carmen Shoffner: America needs new awakening Published 10/13/2012 at 12:00 a.m. 99 comments
+*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 84 comments
+*   UPDATED: 7.3 million watch skydiver record jump from 128,097 feet Updated 10/14/2012 at 12:47 p.m. 44 comments
+*   Mom gets 99 years in prison for gluing tot's hands Published 10/14/2012 at 4:00 a.m. 29 comments
+*   At least two injured in Millville rollover Published 10/14/2012 at 9:50 a.m. 7 comments
+*   Fewer qualms for gun-rights groups over Romney now Published 10/14/2012 at 1:05 p.m. 49 comments
 
-Photo Galleries Enterprise beats Foothill El Delicioso Burrito 2010, The Year in Pictures
+Photo Galleries Supersonic skydiving record attempt El Delicioso Burrito Enterprise beats Foothill
 
 *   VP debate: Biden, Ryan at odds over nearly everything Published 10/12/2012 at 12:04 a.m. 188 comments
-*   Ken Pereira: Nation needs more than Obama's smile Published 10/13/2012 at 12:00 a.m. 166 comments
-*   Election 2012: Biden, Ryan at each other on everything during VP debate Published 10/11/2012 at 8:16 a.m. 106 comments
-*   Robert George: Obama re-election will doom America Published 10/11/2012 at 12:00 a.m. 110 comments
-*   Carmen Shoffner: America needs new awakening Published 10/13/2012 at 12:00 a.m. 99 comments
+*   Ken Pereira: Nation needs more than Obama's smile Published 10/13/2012 at 12:00 a.m. 177 comments
+*   Carmen Shoffner: America needs new awakening Published 10/13/2012 at 12:00 a.m. 107 comments
+*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 84 comments
+*   Slips seen on Libya, Syria, auto bailout during VP debate Published 10/12/2012 at 12:08 a.m. 77 comments
 
 *   UPDATED: Cottonwood man killed his wife, admitted it during 911 call, deputies say Published 10/5/2012 at 2:18 p.m. 59 comments
 *   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 54 comments
-*   UPDATED: Sheriff: Teens burglarize Palo Cedro bank twice with tricks picked up from heist movies Published 10/7/2012 at 9:27 a.m. 64 comments
 *   New eagle cams in place as Patriot, Liberty return to Redding Published 10/4/2012 at 11:12 p.m. 3 comments
-*   Eyeball the size of a softball washes up on a Florida beach Published 10/12/2012 at 7:53 a.m. 27 comments
+*   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Published 10/13/2012 at 10:14 a.m. 33 comments
+*   UPDATED: Sheriff: Teens burglarize Palo Cedro bank twice with tricks picked up from heist movies Published 10/7/2012 at 9:27 a.m. 64 comments
 
 Weather
 
@@ -296,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 54° Fair Wind: S 4mph Today 80° 51° Sun 05:00 PM Mostly Cloudy Temp: 79° Mon 05:00 AM Mostly Clear Temp: 57° Mon 05:00 PM Cloudy Temp: 79°
+Currently 57° Fair Wind: Calm Today 79° 53° Mon 05:00 PM Cloudy Temp: 78° Tue 05:00 AM Mostly Cloudy Showers Temp: 59° Tue 05:00 PM Mostly Sunny Temp: 79°
 
-Feels Like: 79°
+Feels Like: 78°
 
-Humidity: 34%
-
-Precip: 2%
-
-Feels Like: 57°
-
-Humidity: 69%
+Humidity: 38%
 
 Precip: 7%
 
+Feels Like: 59°
+
+Humidity: 72%
+
+Precip: 26%
+
 Feels Like: 79°
 
-Humidity: 36%
+Humidity: 27%
 
-Precip: 9%
+Precip: 16%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -330,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Sunday Oct 14
 *   Monday Oct 15
 *   Tuesday Oct 16
+*   Wednesday Oct 17
 *   More BROWSE Icon
-
-*   Branch 114 Antique Tractor Pull &. Show Nash Ranch 9 a.m.
-*   Fall 2012 Home and Holiday Show Shasta District Fair grounds 10 a.m.
-*   Lassen Park Paradise Meadow Hike Lassen Volcanic National Park 1 p.m.
-*   Play 'Lemons' Shasta College Theater 2 p.m.
-*   Meet and Greet with Jim Reed, Democratic Candidate for Congress Round Mountain Community Center 2 p.m.
-
-More Events »
 
 *   Free classes for seniors Senior Citizens Hall
 *   Zumba Classes Teen Center 6 p.m.
@@ -356,6 +345,14 @@ More Events »
 *   Junior Fly Tying Classes See Description 6:30 p.m.
 *   Junior Fly Tying Classes See Description 6:30 p.m.
 *   Suicide Loss Support Group St James Church 7 p.m.
+
+More Events »
+
+*   Social Media for Small Business See Description 5:30 p.m.
+*   Candidates Forum, Shasta County Supervisors, District 4 Redding Library 6 p.m.
+*   NAMI Shasta County Family Support Group See Description 6:30 p.m.
+*   Parents Families and Friends of Lesbians and Gays (PFLAG) First United Methodist Church, Redding 6:30 p.m.
+*   Beginning Hula and Story telling See Description 7 p.m.
 
 More Events »
 
