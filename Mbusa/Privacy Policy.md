@@ -205,7 +205,7 @@
     
     View Model options and specs
     
-    S350 BlueTEC 4MATIC
+    S350 BlueTEC
     
     S400 HYBRID
     
@@ -305,7 +305,7 @@
     
 *   GL-Class
     
-    Starting at $63,900\*
+    Starting at $62,400\*
     
     Seven luxurious seats and countless innovations in safety, luxury and driving enjoyment in a fully new, full-size SUV.
     
