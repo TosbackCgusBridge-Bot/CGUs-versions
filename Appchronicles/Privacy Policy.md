@@ -21,9 +21,9 @@
     *   Best iPhone Apps
 *   Walkthrough
 
-  Free Today! Photo Viva!
+  Best Free Apps of the Day!
 
-Powerful Photo Editor
+Free! Super Mega Worm
 
   New and Upcoming MMORPG's
 
@@ -33,7 +33,9 @@ Arcane Legends, Armed Heroes, &. More!
 
 Crazi Taxi, Topia, &. More!
 
-  Our Top Rated iPad Apps FIFA SOCCER 13  
+  Our Top Rated iPad Apps Rayman Jungle Run  
+  
+FIFA SOCCER 13  
   
 Lili  
   
@@ -50,8 +52,6 @@ Bastion
 Granny Smith  
   
 Blast-A-Way  
-  
-Orc: Vengeance  
   
 Privacy Policy Privacy and Cookies Policy
 
