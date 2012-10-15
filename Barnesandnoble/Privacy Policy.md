@@ -10,9 +10,8 @@ Your Internet Explorer is out of date. To take full advantage of BN.com's featur
 *   Help
 
 *   Election 2012: _Read, Then Decide_
-*   Best Books of the Month
-*   NOOK® Simple Touch with GlowLight: _Now Just $119_
-*   Deal of the Day: Amazing Savings Daily
+*   Select Toys &. Games: _$5 Off Your $20 Purchase_
+*   _Halloween_ Trick-or-Treat Bag Offer
 
 _BORDERS Customer_ Continue your shopping at BN.com. Learn More Screen Reader Link for Category Search All ProductsBooksNOOK StoreNOOK BooksTextbooksMovies &. TVMusicKids' BooksMarketplaceRare BooksNewsstandCalendarsHome &. GiftsToys &. Games
 
@@ -22,7 +21,7 @@ _BORDERS Customer_ Continue your shopping at BN.com. Learn More Screen Reader Li
 *   *   Books
         *   Customer Favorites B&N Top 100NY Times BestsellersBest Books of the MonthTrending BooksNew ReleasesComing SoonRecommendedDiscover Great New WritersAward WinnersBestsellers by SubjectBarnes &. Noble ClassicsPromotions &. Deals
         *   Subjects BiographyBusinessCookbooksFictionGraphic NovelsHistoryMysteryReligion &. InspirationScience Fiction/FantasySelf-ImprovementSee More
-        *   Departments NOOK BooksBargain BooksCalendarsThe Paperback StoreProfessional BooksRare &. CollectibleLibros en españolAudio &. MP3 Books B&N Exclusives B&N ReviewB&N StudioBlogs &. ForumsRosetta Stone SaleSave Up to $100 on Select Language SetsShop Now
+        *   Departments NOOK BooksBargain BooksCalendarsThe Paperback StoreProfessional BooksRare &. CollectibleLibros en españolAudio &. MP3 Books B&N Exclusives B&N ReviewB&N StudioBlogs &. ForumsFinal HoursSave Up to $100 on Select Rosetta Stone Language SetsShop Now
     *   NOOK Books
         *   Customer Favorites B&N Top 100NY Times BestsellersTrending NOOK BooksNew ReleasesComing SoonNOOK Books DealsNOOK Books en españolB&N ClassicsLendMe BooksPubIt! BooksNOOK Snaps
         *   Subjects BiographyFictionHealth &. FitnessHistoryMysteryPolitics &. Current AffairsReligion &. InspirationRomanceSci-Fi &. FantasySelf-ImprovementTeen BooksSee More
