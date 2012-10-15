@@ -143,27 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Dealing With Emotional Eating Resources
+*   Ways To Improve Mood Resources
 
   
-Stay in Touch With SparkPeople **Quiz: Is it a Trick or a Treat?**
+Stay in Touch With SparkPeople **Quiz: How Well Do You Know Diabetes?**
 
-A couple of pieces of Halloween candy won't derail your healthy diet. But some tiny treats pack more fat and calories than others. Think you know what's in your favorite candies?
+Find out how much you know about the prevention and management of type 2 diabetes.
 
 Read More
 
-*   Self Control - Can it be taught?
-*   What's your "go to" type of workout?
+*   What Do You Do For Emotional Eating ?
 *   Specific Tips to get through the Weekend
 *   Relationships and a Healthy Lifestyle
-*   What does it mean to eat healthy?
+*   Need Ideas for working out at home
+*   "New to me" foods
 
-View Demo **Calf Raises with Chair**  
-No more balance worries! **White Chicken Chili**  
+View Demo **Pendulum with Medicine Ball**  
+Swing your legs and have a ball with this core exercise! **Light Alfredo Pasta with Veggies**  
 Submitted By: **CHEF\_MEG**
 
-This chili is packed with flavor and fiber. Make a big batch for a crowd or freeze it in single-serving containers for up to 4 months.  
-Full Recipe
+Even a lunch portion of fettuccine Alfredo has 800 calories and 48 grams of fat. Mine has less than 1/2 the calories, 1/5 the fat, and plenty of veggies, too. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
