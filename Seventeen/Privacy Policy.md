@@ -109,7 +109,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win Catwalk mousse and defining serum. Type in the Freebie Phrase of the Day, found in the October Issue!
+**1 Winner!** Enter for a chance to win Bed Head shampoo and conditioner. Type in the Freebie Phrase of the Day, found in the October Issue!
 
  enter now 
 
