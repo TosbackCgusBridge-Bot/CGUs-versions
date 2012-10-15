@@ -40,10 +40,10 @@ Follow Us Facebook Twitter Follow @ComedyCentral
 
 *   · reply · retweet · favorite
 
-*   11:15PM Tosh.0
-*   11:45PM Brickleberry
-*   12:15AM South Park
-*   12:45AM Key &. Peele
+*   10:00PM Brickleberry
+*   10:30PM South Park
+*   11:00PM The Daily Show with Jon Stewart
+*   11:31PM The Colbert Report
 
 Full Schedule Privacy Policy &. Your California Privacy Rights
 
