@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Obama campaign says it surpassed...**  
-        Election 2012 | Gene Fynes
+    *   **Romney enthusiasm up, but likely...**  
+        Election 2012 | Dan Balz and Jon Cohen
     
-    *   **Fact checking the VP debate**  
+    *   **Digging into the Medicare clash**  
         The Fact Checker | Glenn Kessler
     
-    *   **The big dog in his natural habitat...**  
-        She The People | Melinda Henneberger
+    *   **Paul Ryanâs abortion response reflects...**  
+        She The People | Rahiel Tesfamariam
     
-    *   **Report: Feds investigating Jesse...**  
-        The Fix | Sean Sullivan
+    *   **Obamaâs âtrustworthyâ advantage...**  
+        The Fix | Chris Cillizza and Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -49,11 +49,11 @@
     *   **Lindsay Lohan and Wendyâs**  
         ComPost | Alexandra Petri
     
-    *   **Open Thread**  
+    *   **Sunday Open Thread**  
         The Plum Line | Greg Sargent
     
-    *   **I'm still ignoring the electoral...**  
-        PostPartisan | Jonathan Bernstein
+    *   **Romneyâs Libya distraction**  
+        PostPartisan | Katrina vanden Heuvel
     
     *   **Morning Bits**  
         Right Turn | Jennifer Rubin
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Ending the...**  
-        Capital Weather Gang | Brian Jackson
+    *   **Forecast: Gusty showers today,...**  
+        Capital Weather Gang | Jason Samenow
     
     *   **âNuts About the Natsâ vs. âOrioles...**  
         Going Out Gurus | Brandon Weigel and Alex Baldinger
     
-    *   **D.C. police turn to video to help...**  
-        Crime Scene | Peter Hermann
+    *   **Trial for officers in U-Md. beating**  
+        Crime Scene | Maggie Fazeli Fard
     
-    *   **Campaigns make last registration...**  
-        Virginia Politics | Laura Vozzella
+    *   **Major GOP funder gives to Maryland...**  
+        Maryland Politics | John Wagner
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -100,10 +100,10 @@
     *   **Braden Holtby feels âfortunate...**  
         Capitals Insider | Washington Post Sports Editors
     
-    *   **MLBâs âstunningly stupid errorâ...**  
+    *   **Famous people react to RGIIIâs...**  
         DC Sports Bog | Dan Steinberg
     
-    *   **Trent Williams looking forward...**  
+    *   **Lorenzo Alexander shines as Redskins...**  
         The Insider | Mike Jones
     
     *   **Mark DeRosa unsure about retirement...**  
@@ -123,7 +123,7 @@
     
     Blogs &. Columns
     
-    *   **Extreme skydiver Felix Baumgartner...**  
+    *   **Daredevil becomes first to break...**  
         Ideas@Innovations | Emi Kolawole
     
     *   **The test Biden and Ryan needed...**  
@@ -145,17 +145,17 @@
     
     Latest Stories
     
-    *   **New Delhiâs Metro sees rise in...**  
-        Rama Lakshmi
+    *   **Syria accused of cluster bomb use**  
+        Karin Laub
     
-    *   **As U.S. looks to Asia, India demurs**  
-        Simon Denyer and Rama Lakshmi
+    *   **Iran says it will cut imports of...**  
+        Yeganeh Torbati
     
-    *   **Islamic militants help seize missile...**  
-        Ben Hubbard and Zeina Karam
+    *   **Syria accused of cluster bomb use...**  
+        Karin Laub
     
-    *   **Separatist fever rises in Spain**  
-        Edward Cody
+    *   **Putin party takes lead at polls**  
+        Kathy Lally
 *   Business In Business
     
     *   Economy
@@ -179,8 +179,8 @@
     *   **The judicial jihad against the...**  
         Steven Pearlstein
     
-    *   **The evolution of airfares, in one...**  
-        Wonkblog | Brad Plumer
+    *   **Wonkbook: A âcyber Pearl Harborâ?**  
+        Wonkblog | Ezra Klein
 *   Tech In Technology
     
     *   Policy
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Baseball &. cupcakes: Smells like...**  
-        All We Can Eat | Tim Carman
+    *   **Craft beer crashes the art gallery...**  
+        All We Can Eat | Greg Kitsock
     
     *   **Mo Yanâs Nobel Prize-winning writing...**  
         The Style Blog | Maura Judkis
     
-    *   **Take the kids this weekend: RiverFest...**  
-        On Parenting | On Parenting
+    *   **Explaining God without belief**  
+        On Parenting | Janice D'Arcy
     
-    *   **Read this: Rory Kennedy and the...**  
+    *   **Michaele Salahi &. Neal Schon engaged**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,14 +240,14 @@
     *   **Art: Two Lichtenstein retrospectives**  
         Classical Beat | Anne Midgette
     
-    *   **Peter Berg and Mitt Romney**  
+    *   **âThe Walking Deadâ returns**  
         Celebritology 2.0 | Jen Chaney
     
     *   **About 51 million people watch Biden-Ryan...**  
         The TV Column | Lisa de Moraes
     
-    *   **MICHAEL CHABONâs NEW GROOVE: How...**  
-        Comic Riffs | Michael Cavna
+    *   **Winsor McCay Google Doodle**  
+        Comic Riffs | Michael S Cavna
 *   Jobs In Jobs
 *   More
     
@@ -266,11 +266,11 @@
 
 In the News
 
-*   Space shuttle
-*   Paul Ryan
-*   Jessica Ridgeway
-*   Nationals
-*   Derek Jeter
+*   Arlen Specter
+*   Felix Baumgartner
+*   Nobel prize
+*   Sprint
+*   Michaele Salahi
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -319,89 +319,97 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Obama, Romney face a truly crucial week
+Presidential contest tight nationally ahead of second debate
 
 Dan Balz 
 
-The big dog in his natural habitat: Clinton on the campaign trail The marshmallow test, revisited Fact checking the vice-presidential debate
-
-Glenn Kessler 
-
-Obama campaign says it surpassed 4 million individual donors UAE to send air ambulance for girl shot by the Taliban in case doctors send her abroad
-
-Associated Press 
-
-Report: Feds investigating Jesse Jackson Jr.'s finances Shut up and play nice: How the Western world is limiting free speech
-
-Jonathan Turley 
-
-LIVE BLOG: Felix Baumgartner tries record-breaking skydive again
+Felix Baumgartner lands after flying faster than the speed of sound
 
 Emi Kolawole 
 
-Win or lose, Paul Ryan is likely to have a big role in GOPâs future
-
-Felicia Sonmez 
-
-Five myths about political polls
-
-Jon Cohen 
-
-Forget the fiscal cliff: U.S. has other possible economic threats looming
-
-Zachary A. Goldfarb 
-
-Too big to maintain?
-
-George F. Will 
-
-Television actor, former Miss America host Gary Collins dies at 74 in Mississippi
+Daredevilâs 24-mile jump from edge of space gives millions on Earth collective moment of awe
 
 Associated Press 
 
-In Spain, separatist fever rises in time of crisis
+How Obama bungled the Syrian revolution
 
-Edward Cody 
+Jackson Diehl 
 
-Biden 2016? It could happen, my friend.
+Felix Baumgartner free falls from edge of space, breaking sound barrier
 
-Jules Witcover 
+Emi Kolawole 
 
-Date Lab: The great bathroom disappearing act
+Romney the product
 
-Amanda McGrath 
+E.J. Dionne Jr. 
 
-A 9-year-oldâs view of Scotland? Awesome!
+Tiny Azerbaijan unleashes pop-power against Iranâs mullahs
 
-Paul Abercrombie 
+Joby Warrick 
 
-Navy submarine, Aegis cruiser collide during routine operations. no injuries, damage unclear
+Redskins vs. Vikings: Robert Griffin III leads Washington to 38-26 win
+
+Mark Maske 
+
+The marshmallow test, revisited Redskins-Vikings: For Robert Griffin III, a touchdown run for the ages
+
+Dave Sheinin 
+
+At second presidential debate, pressure will be on Obama
+
+Chris Cillizza 
+
+Carolyn Hax: Dealing with people who are just no good
+
+Carolyn Hax 
+
+Robert Griffin III learns to play it safe, which is dangerous for future opponents
+
+Jason Reid 
+
+"Saturday Night Live" does the vice presidential debate Facts about the amphibious Quadski set to go on sale in the next few weeks
 
 Associated Press 
 
-Can you destroy a Rothko painting that is available everywhere?
+The BRIC rescue that wasnât
 
-Kriston Capps 
+Robert J. Samuelson 
+
+Flipping houses is once again a booming business
+
+Brady Dennis 
+
+Redskins vs. Vikings: Robert Griffin III dashes for glory and sends the fans home happy
+
+Mike Wise 
+
+Iranâs foreign ministry says country ready for flexibility at nuclear talks
+
+Associated Press 
+
+Shut up and play nice: How the Western world is limiting free speech
+
+Jonathan Turley 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Obama, Romney face a truly crucial week
-    2.  The big dog in his natural habitat: Clinton on the campaign trail
-    3.  The marshmallow test, revisited
-    4.  Fact checking the VP debate
-    5.  Obama campaign says it surpassed 4 million individual donors
+    1.  Presidential contest tight nationally ahead of second debate
+    2.  Daredevil becomes first to break sound barrier without craft
+    3.  Daredevil's 24-mile jump from edge of space gives millions on Earth collective moment of awe
+    4.  How Obama bungled the Syrian revolution
+    5.  Felix Baumgartner free falls from edge of space, breaking sound barrier
 *   Top Videos
-    1.  The Vice Presidential debate in two minutes
-    2.  'American Pie' singer Don McLean reveals all
-    3.  Shot fired at President Obama's campaign office in Denver
-    4.  Raw: Pakistan rallies around Taliban shot student Malala Yousufzai
-    5.  Joe Biden: Paul Ryan a 'gentleman,' but 'hardly agree with anything he says'
+    1.  Felix Baumgartner successfully jumps from the edge of space
+    2.  Biden helps Obama get ready for the next debate
+    3.  The Vice Presidential debate in two minutes
+    4.  Election 2012: The path to 270 electoral votes
+    5.  Signs of hope for Malala Yousufzai
 *   Top Galleries
-    1.  Romney on the campaign trail
-    2.  Distinguished homes
-    3.  "Roy Lichtenstein: A Retrospective": An expansive collection
-    4.  Astronomy photos of the year
+    1.  Skydiver Felix Baumgartner breaks sound barrier
+    2.  Norodom Sihanouk, Cambodia's leader through decades of upheaval, dies
+    3.  Azerbaijan relishes its anti-Iran role
+    4.  Redskins defeat Vikings, 38-26
     5.  A crowning recovery
 
 Today's Paper
@@ -412,13 +420,13 @@ Today's Paper
 
 Live Discussions
 
-There are no discussions scheduled today.
-
 The 2012 vice presidential debate: Who won?
 
 Q&A Transcript
 
 Associate editor Bob Kaiser chatted with readers about the vice presidential debate.
+
+**11:00 AM** **Ask Boswell: Nationals, Redskins and more** **12:00 PM** **Dr. Gridlock** **12:00 PM** **Advice from Slate's 'Dear Prudence'** **2:00 PM** **Talk about Travel**
 
 **Weekly schedule, past shows**
 
