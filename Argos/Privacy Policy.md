@@ -347,7 +347,7 @@ Changes to Policy
     *   Mamas &. Papas
     *   Fisher-Price
     *   Maxi-Cosi
-    *   Pampers
+    *   Motorola
     *   Britax
     *   Quinny
     *   Tommee Tippee
