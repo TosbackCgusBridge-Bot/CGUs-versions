@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Bruce Springsteen rocks out for Barack Obama
-2.  Mars rover finds surprising rock, nuzzles it and shoots it with lasers
+1.  Presidential polls: Politics, like Major League Baseball, is numbers-driven
+2.  21 things you can get for free
 3.  Mother gets 99 years for beating, gluing daughter: Has the US had it with bad parents?
-4.  Modern-day Puritans wring hands over Zumba Madam’s list of shame
-5.  'Looper': The ending explained
+4.  Cover Story: Election 2012: How another Obama term might be different
+5.  The Malala moment: Tens of thousands rally in Pakistan for girl shot by Taliban
 
 About these ads
 
@@ -111,17 +111,17 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Difference Maker  
-    She pours her wealth into getting books to India's poorest children
+*   Progress Watch  
+    Why teen drinking and driving has been cut in half in past 20 years
     
-    When she found herself suddenly wealthy, the Indian philanthropist founded Pratham Books, a nonprofit publisher that uses innovative ways to put low-cost books in the hands of millions of kids.
+    Nine out of 10 high-schoolers chose not to drink and drive in 2011, according to the CDC. Safety advocacy groups and government agencies have worked with youths and parents on the issue.
     
+*   Difference Maker: She pours her wealth into getting books to India's poorest children
 *   Decoder Wire: Joe Biden's smiling: Was there method to his madness?
 *   Nobel Peace Prize: How unusual is the EU's award? (+video)
 *   Alex Rodriguez benched: Will that help Yankees in decisive Game 5?
-*   Global News Blog: Good Reads: A lesson for democracy, lost and found on Google Earth, and the next Arab uprising
 
-_Photos of the day_ 10.13.12 » Photos of the Weekend 10/14
+_Photos of the day_ 10.14.12 » Photos of the Weekend 10/14
 
 **CSMonitor.com** on Facebook
 
