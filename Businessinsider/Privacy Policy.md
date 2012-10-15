@@ -10,23 +10,23 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
     *   Tools
     *   Media
     *   Enterprise
-    *   ScienceAmazon And Apple Don't Need The Government's Help Destroying Google Amazon And Apple Don't Need The Government's Help Destroying Google How The iPad Mini Will Embarrass Microsoft's Surface Tablet We're Giving Away A Ticket To IGNITION! Workday Stock Soars 72% On IPO Space Shuttle Endeavour's Journey Through LA Costs Nearly $1 Million Per Mile
+    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning How The iPad Mini Will Embarrass Microsoft's Surface Tablet We're Giving Away A Ticket To IGNITION! Workday Stock Soars 72% On IPO Space Shuttle Endeavour's Journey Through LA Costs Nearly $1 Million Per Mile
 *   Finance
     *   Clusterstock
     *   Your Money
-    *   Broker CenterCheck Out The Star-Studded Event That Had Hedge Funders Rocking Out For Charity This Week Check Out The Star-Studded Event That Had Hedge Funders Rocking Out For Charity This Week What Really Happens If You Lose Your Photo I.D. Before Your Flight Check Out The Star-Studded Event That Had Hedge Funders Rocking Out For Charity This Week
-*   Markets Morgan Stanley Found Two Red Flags In This Week's Trade Report, And Now Its Forecast For Next Quarter Is Not Pretty
+    *   Broker Center10 Things You Need To Know Before The Opening Bell 10 Things You Need To Know Before The Opening Bell 9 Tips On Buying A Second Home 10 Things You Need To Know Before The Opening Bell
+*   Markets 10 Things You Need To Know Before The Opening Bell
 *   Politics
     *   Politics
     *   Defense
-    *   Law &. OrderGALLUP: Mitt Romney Keeps A 2-Point Lead Over Obama GALLUP: Mitt Romney Keeps A 2-Point Lead Over Obama This Is One Of The Most Remarkable Survival Stories You Will Ever Read Ted Bundy and 9 Other Famous People Who Couldn't Handle Law School
+    *   Law &. OrderObama Had A Really Good Day On InTrade Obama Had A Really Good Day On InTrade Awesome Pictures Of Jets Breaking The Sound Barrier These Are The Most Disturbing Calls 9-1-1 Dispatchers Have Ever Gotten
 *   Strategy
     *   Strategy
     *   CareersWhat Success Really Looks Like vs. What People Think It Looks Like What Success Really Looks Like vs. What People Think It Looks Like 23 Companies With Employee Perks That Will Make You Jealous
-*   Entertainment The Surprising Last Words Of 11 Famous Men
+*   Entertainment Everything We Learned About The New Season Of 'Walking Dead' At Comic Con
 *   Advertising 15 Ads That Changed The Way We Think About Gays And Lesbians
 *   Retail Billabong Has A Secret That's Terrifying Investors
-*   Sports ALEX RODRIGUEZ BENCHED FOR GAME 5
+*   Sports Robert Griffin III Seals Redskins Victory With An Awesome 76-Yard Touchdown Run
 *   Life
     *   The Life
     *   TransportationWe Discovered The Best Meatballs In New York City We Discovered The Best Meatballs In New York City YACHT OF THE WEEK: Spread Out In Style On The $55 Million 'Harbour Island'
@@ -54,7 +54,7 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
 
 *   Follow us on Facebook and get updates from Business Insider posted directly to your news feed  
 
-Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,455
+Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,463
 
 *   Email
 *   More Share on Tumblr
@@ -226,7 +226,7 @@ More:*   SAI Select (sample)
 *   Careers Select (sample)
 *   Military Select (sample)
 
-Advertisement Your Money NASDAQ Composite 3,044 -5.27 (-0.173%) S&P 500 1,429 -4.25 (-0.297%) NYSE Composite 8,227 -29.507 (-0.357%) Sponsored By
+Advertisement Your Money NASDAQ Composite 3,044 -5.27 (-0.173%) S&P 500 1,429 -4.25 (-0.297%) NYSE Composite 8,227 +0 (+0%) Sponsored By
 
 Ready To Invest? Find A Broker Here »
 
@@ -238,22 +238,22 @@ Small Business: Big Results
 
 Most Read Read  Commented  Recommended 
 
-*   FOX NEWS' CHRIS WALLACE: I've Never Seen A Candidate As Disrespectful As Joe Biden Was Tonight 562,275 Views
+*   This Is One Of The Most Remarkable Survival Stories You Will Ever Read 666,734 Views
     
-*   This Is One Of The Most Remarkable Survival Stories You Will Ever Read 385,533 Views
+*   David Rosenberg Brought Down The House With This Depressing Presentation At A Conference This Week 401,157 Views
     
-*   David Rosenberg Brought Down The House With This Depressing Presentation At A Conference This Week 342,295 Views
+*   Here Are The Charts That Should Get Obama Reelected... 211,904 Views
     
-*   Stunning Photos Of The World's Future Energy Source 156,883 Views
+*   Stunning Photos Of The World's Future Energy Source 176,794 Views
     
 
-*   FOX NEWS' CHRIS WALLACE: I've Never Seen A Candidate As Disrespectful As Joe Biden Was Tonight 706 Comments
+*   Romney's Tax Plan Actually Makes A Lot Of Sense 158 Comments
     
-*   If You Missed The Vice Presidential Debate, This Is The Only Moment You Have To See 189 Comments
+*   Here Are The Charts That Should Get Obama Reelected... 126 Comments
     
-*   INSTANT POLL: Joe Biden Shredded Paul Ryan In The Vice Presidential Debate 166 Comments
+*   How Paul Ryan Completely Shut Down Joe Biden On The '47 Percent' 106 Comments
     
-*   CNN POLL: Paul Ryan Sailed Past Joe Biden In VP Debate 161 Comments
+*   Lindsay Lohan Endorses Romney, And It's Actually A Really Big Deal 91 Comments
     
 
 Loading, please wait...
@@ -270,11 +270,15 @@ See more » Find A Job _In partnership with_
 
 See All Jobs Startup Document Center Templates To Jump Start Your Business Business Plan Exec Summary Sample  
 By-Laws Financial  
-Model See All » Read Me Joe Weisenthal
+Model See All » Read Me Henry Blodget
 
-| The European Union Has Won The Nobel Peace Prize — And It Was A Brilliant Choice 48
+| Here Are The Charts That Should Get Obama Reelected... 141
 
-A good reminder of what's at stake.
+Romney keeps saying that Obama "can't run on his record." What's Romney smoking?
+
+Joe Weisenthal
+
+| Ben Bernanke's New Speech Is For Everyone Who Has Ever Talked About 'Currency Wars' 13
 
 Comstock Partners
 
@@ -283,10 +287,6 @@ Comstock Partners
 James Pethokoukis
 
 | Chuck Schumer's Tax Reform Plan Is Only Making Things Worse 11
-
-Eric Falkenstein
-
-| How Investor Ego Ends Up Destroying Their Returns 3
 
 Wolf Richter
 
