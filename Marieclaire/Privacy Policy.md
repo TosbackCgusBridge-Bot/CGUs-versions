@@ -71,9 +71,9 @@ Rae Francis Dylan Maxi Dress in Navy
 enter now See all giveaways celeb stories The New Angelina Jolie The movie star/director/mom shows off a sillier side for our MC cameras. read more other latest stories:
 
 *   Project Runway's New York
-*   Gwen Stefani: Rock 'n' Rule
 *   Gwen Stefani's Cover Shoot Style
 *   Gwen Stefani's Style Evolution
+*   Gwen Stefani: Rock 'n' Rule
 *   Chelsea Everywhere
 *   Big Shots
 *   How to Be a Woman
