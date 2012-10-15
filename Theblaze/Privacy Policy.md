@@ -16,7 +16,7 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   Joe Biden
+*   Arab Crisis
 *   Campaign 2012
 *   TheBlaze TV
 
@@ -245,7 +245,7 @@ Sections
 
 Hot Topics
 
-*   Joe Biden
+*   Arab Crisis
 *   Campaign 2012
 *   TheBlaze TV
 
