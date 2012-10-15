@@ -78,7 +78,7 @@ Search for:
         *   July (20)
         *   August (19)
         *   September (18)
-        *   October (7)
+        *   October (8)
     *   2011
         *   January (21)
         *   February (22)
