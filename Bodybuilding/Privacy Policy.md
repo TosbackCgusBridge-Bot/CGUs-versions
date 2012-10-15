@@ -483,9 +483,9 @@ Email: webmaster@bodybuilding.com
   
 Related Articles
 
-*   New IPhone And Android App For Bodybuilding.com!
-*   Press Release: Bodybuilding.com Announces Exclusive 2012 Olympia Webcast
-*   2012 Olympia Weekend Coverage
+*   IFBB Pro Undercover #29.
+*   IFBB Pro Undercover #30.
+*   IFBB Pro Undercover #31.
 
 *   View All Gossip And News Articles
 
