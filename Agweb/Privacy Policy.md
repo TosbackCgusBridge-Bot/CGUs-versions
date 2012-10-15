@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Oct 14, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Oct 15, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -167,9 +167,10 @@ Legacy Project
 Pro Farmer  
 Top Producer Blog  
 Multimedia  
-News Agriculture News Read the latest agriculture news for crops, livestock, marketing and more. YEAR: All201220112010MONTH: AllJanFebMarAprMayJunJulAugSeptOctNovDec DAY: All 1 2 3 4 5 Next 255075100 10/13/2012  
+News Agriculture News Read the latest agriculture news for crops, livestock, marketing and more. YEAR: All201220112010MONTH: AllJanFebMarAprMayJunJulAugSeptOctNovDec DAY: All 1 2 3 4 5 Next 255075100 10/15/2012  
+Harvest Prices and Insurance Payments Read Full Story 10/13/2012  
 USDA: U.S. Milk Output, Dairy Prices to Rise in 2013 Read Full Story 10/13/2012  
-(1 Comment) Rumors Have Their Way with the Grains Read Full Story 10/12/2012  
+(3 Comments) Rumors Have Their Way with the Grains Read Full Story 10/12/2012  
 Dairy's Week in Review Read Full Story 10/12/2012  
 Gulke Audio: Market Struggles to Sort Fact from Fiction Read Full Story 10/12/2012  
 Time to Get âFanatically Disciplinedâ Read Full Story 10/12/2012  
@@ -191,8 +192,7 @@ The Need to Plan Read Full Story 10/11/2012
 Floridaâs Cool Factor Read Full Story 10/11/2012  
 Healthy Herd, Healthier Dairyman Read Full Story 10/11/2012  
 What Cows Can Tell Us Read Full Story 10/11/2012  
-Comfortable California Cows Read Full Story 10/11/2012  
-Dollars and Sense: All Eyes on Cow Comfort Read Full Story
+Comfortable California Cows Read Full Story
 
 1 2 3 4 5 Next RSS AgWeb News Wire
 
