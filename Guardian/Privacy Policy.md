@@ -287,20 +287,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** Barack Obama's presidency 'has not helped cause of black people in US'
-2.  2\. **News:** Why a Bible belt conservative spent a year pretending to be gay
-3.  3\. **News:** Mystery Florida eyeball is probably from '10ft swordfish', experts say
-4.  4\. **Media:** Reddit blocks Gawker in row over 'creepshot' photos
-5.  5\. **Media:** Jimmy Savile scandal prompts flood of calls to abuse victims' groups
+1.  1.  **Technology:** Winsor McCay: Little Nemo in Slumberland Google Doodle celebrates a comics great
+2.  2\. **Society:** For better, for worse: my husband, the rapist
+3.  3\. **Sport:** Skydiver Baumgartner lands safely on Earth after supersonic record
+4.  4\. **Sport:** Felix Baumgartner makes record-breaking skydive from space – video
+5.  5\. **Politics:** Decriminalise drug use, say experts after six-year study
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Media:** Jimmy Savile case: At work it's called banter, but there's still a culture of sex harassment in TV
-2.  **Film:** Judi Dench: 'I never want to stop working'
-3.  **News:** Jay McInerney on Obama: 'We have to give him a second chance'
-4.  **Society:** An insider's guide to Tourette's syndrome
-5.  **Life &. style:** Observer sudoku
+1.  **Sport:** Skydiver Baumgartner lands safely on Earth after supersonic record
+2.  **Business:** Eurozone crisis live: Fresh speculation over Greece's future
+3.  **Sport:** Felix Baumgartner discusses his skydive from space - video
+4.  **Technology:** Winsor McCay: Little Nemo in Slumberland Google Doodle celebrates a comics great
+5.  **Politics:** Decriminalise drug use, say experts after six-year study
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -308,21 +308,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Felix Baumgartner tries to break sound barrier with freefall jump – live
-2.  2\. Andy Murray v Novak Djokovic – live!
-3.  3\. Cuban missile crisis 50 years on: Washington exhibition unveils secret Kennedy recordings - video
-4.  4\. Best sheep in Senegal competition – in pictures
-5.  5\. Talking Horses
+1.  1.  Women on the front page: much to celebrate?
+2.  2\. Amphibious vehicles step up a gear with Quadski launch
+3.  3\. Alvin Roth and Lloyd Shapley win the Nobel prize for economics
+4.  4\. Douglas Hodge triumphs as Cyrano de Bergerac on Broadway
+5.  5\. Salmond and Cameron agree Scottish independence referendum deal: Politics live blog
 6.  All today's stories
 
 On the Guardian today
 
-1.  Life and style Mapping the body: the temple
-2.  World news Barack Obama's presidency 'has not helped cause of black people in US'
-3.  Media Reddit blocks Gawker in row over 'creepshot' photos
-4.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-5.  World news Jay McInerney on Obama: 'We have to give him a second chance'
-6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+1.  Sport Felix Baumgartner makes record-breaking skydive from space – video
+2.  Life and style Mapping the body: the temple
+3.  Media Rupert Murdoch calls phone-hacking campaigners 'scumbag celebrities'
+4.  Society For better, for worse: my husband, the rapist
+5.  Technology Winsor McCay: Little Nemo in Slumberland Google Doodle celebrates a comics great
+6.  World news Las Vegas activists try to 'level the field' as casino moguls pump up Super Pacs
 
 *   License/buy our content
 |*   Privacy policy
