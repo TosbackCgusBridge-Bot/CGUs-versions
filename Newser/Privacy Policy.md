@@ -2,16 +2,16 @@
 
 *   What's New
 *   Hot Topics
-    *   Election 2012
     *   entertainment
-    *   celebrity
-    *   strange stuff
-    *   Paul Ryan
+    *   Election 2012
+    *   Obama 2012
     *   Mitt Romney 2012
+    *   celebrity
     *   President Obama
-    *   meningitis
+    *   Syria
+    *   Britain
     *   timeless news
-    *   Mitt Romney
+    *   Syrian uprising
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -125,57 +125,57 @@ NEWS FROM OUR PARTNERS
 
 More from Slate »
 
-*   MEASURE UP
-*   Sheriff Busts Film Crew For Breaching Area 51: EXCLUSIVE
-*   Casey Anthony Sued For $3 BILLION
+*   'WE COULD MAKE YOU DISAPPEAR'
+*   Look Inside America's Best Haunted Houses -- IF YOU DARE
+*   Small Penis Contest Sees Stiff Competition
 
 More from HuffPost Weird »
 
-*   Well Played: Keira Knightleyâs Not-So-Typical Little Black...
-*   If Teresa Giudice Ignores Latest Joe Giudice Cheating...
-*   Awkwafina Makes A Vagina Battle Rap (NSFW-ish)
+*   Dream Life Fitness Equipment: The FitWet, A Stationary Bike...
+*   This Woman Doesnât Understand How Deer Crossing Signs Work
+*   Beauty Test Drive: Obsessive Compulsive Cosmetics Lip Tar
 
 More from The Frisky »
 
-*   Teacher happy he romanced and married a student 30 years...
-*   Pipe bomb uncovers bizarre live triangle, resulting in...
-*   Plant Nazis influenced by an idiot New Yorker are making...
+*   Turns out Cleveland bus drivers are expertly trained in...
+*   81 years ago this month, Elena de Hoyos died of...
+*   10,000 Muslims with no idea how the Innerwebs work gather...
 
 More from Fark »
 
-*   10 things you need to know today: October 13, 2012
-*   Intelligence, politicized
-*   5 smart reads for the weekend
+*   Could President Obama really win Arizona?
+*   Remembering Arlen Specter: A pugnacious life in politics
+*   10 things you need to know today: October 14, 2012
 
 More from The Week »
 
-*   Big Bird and His Muppet Army Will March on Washington
-*   Rupert Murdoch Is Aware of This Newfangled âVICE Mediaâ
-*   The Number 47 Strikes Again
+*   L.E.S. Group Wants State Help to Halt Drunks
+*   Ambassadorâs Family Says His Death Shouldnât Be Politicized
+*   Jesse Jackson Jr. Accused of Using Campaign Funds to...
 
 More from Daily Intel »
 
-*   What's _Your_ Power Breakfast?
-*   Breast Cancer Awareness: Jumping in
-*   Scaring the Neighbors: The Perils of Being a Pressure Cooker
+*   Breast Cancer Awareness Month: 'There Is Hope After A...
+*   Laughing at Change
+*   Can a Mattress Really Impact Your Sleep?
 
 More from HuffPost Health »
 
-*   'The Walking Dead' Premiere: A Timeline of Rick's Journey...
-*   'Real Housewives' Kyle Richards Gives Divorce Advice to...
-*   Fact or Fiction? Is Kristen Stewart Seeing a 'Sex...
+*   Russell Crowe and Wife Danielle Spencer Split After Nine...
+*   Carmen Electra Stuns in German Magazine 'Schon' (PHOTOS)
+*   âSaturday Night Liveâ Recap: Christina Applegate Is a...
 
 More from Celebuzz »
 
-*   Pumpkin Pancakes That Are Hands-Down the Greatest Fall...
-*   Boy Is Attacked By Bullies in Front of News Crew ... Just...
-*   Mom Who Glued 2-Year-Old's Hands to a Wall Gets Longer...
+*   5 Awesome Reasons to Cook with Your Kids
+*   'Walking Dead' Recap: Blood, Guts and Horrific Amputations,...
+*   'Real Housewives of New Jersey' Reunion Part 3 Recap: Joe...
 
 More from The Stir »
 
-*   Faris Yakob Is Out at MDC, KBS+P
-*   Fast Chat: Wendy's CMO Discusses Campaign
-*   Facebook Protest in Oregon Forces Down Anti-Marijuana...
+*   Hasbro Transforms
+*   Voice: The Connected Protagonist
+*   Never Mind the Bollocks, BBH N.Y. Presses On
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
