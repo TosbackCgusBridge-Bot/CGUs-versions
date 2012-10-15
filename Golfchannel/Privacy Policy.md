@@ -15,103 +15,103 @@ PGA Tour
 Frys.com Open View Leaderboard >.
 
 *   1
-*   J.Mallinger
+*   J.Blixt
+*   \-16
+*   F
+
+*   T2
+*   J.Kokrak
 *   \-15
 *   F
 
-*   2
-*   J.Blixt
+*   T2
+*   T.Petrovic
+*   \-15
+*   F
+
+*   T4
+*   J.Mallinger
+*   \-14
+*   F
+
+*   T4
+*   A.Rocha
+*   \-14
+*   F
+
+*   T4
+*   V.Singh
+*   \-14
+*   F
+
+*   T4
+*   J.Walker
+*   \-14
+*   F
+
+*   8
+*   J.Overton
 *   \-13
 *   F
 
-*   T3
+*   T9
+*   R.Knox
+*   \-12
+*   F
+
+*   T9
+*   G.Woodland
+*   \-12
+*   F
+
+*   T11
+*   M.Flores
+*   \-11
+*   F
+
+*   T11
 *   C.Howell III
-*   \-12
-*   F
-
-*   T3
-*   J.Kokrak
-*   \-12
-*   F
-
-*   T5
-*   A.Rocha
 *   \-11
 *   F
 
-*   T5
-*   V.Singh
+*   T11
+*   Z.Miller
 *   \-11
 *   F
 
-*   T7
+*   T11
+*   B.Molder
+*   \-11
+*   F
+
+*   T11
+*   P.Reed
+*   \-11
+*   F
+
+*   T16
+*   S.Bowditch
+*   \-10
+*   F
+
+*   T16
 *   S.Dunlap
 *   \-10
 *   F
 
-*   T7
-*   R.Knox
+*   T16
+*   E.Els
 *   \-10
 *   F
 
-*   T7
+*   T16
 *   D.Lee
 *   \-10
 *   F
 
-*   T7
-*   G.Owen
+*   T16
+*   J.Maggert
 *   \-10
-*   F
-
-*   T7
-*   J.Vegas
-*   \-10
-*   F
-
-*   T12
-*   N.Colsaerts
-*   \-9
-*   F
-
-*   T12
-*   J.Kelly
-*   \-9
-*   F
-
-*   T12
-*   B.Molder
-*   \-9
-*   F
-
-*   T12
-*   N.O'Hern
-*   \-9
-*   F
-
-*   T12
-*   D.Points
-*   \-9
-*   F
-
-*   T12
-*   J.Rollins
-*   \-9
-*   F
-
-*   T12
-*   G.Woodland
-*   \-9
-*   F
-
-*   T19
-*   P.Cantlay
-*   \-8
-*   F
-
-*   T19
-*   B.Curtis
-*   \-8
 *   F
 
 *   **FULL LEADERBOARD**
@@ -281,18 +281,16 @@ Prev Next
 
 *   Grill Room
 
-*   Healthy Week
-*   Frys.com Open
 *   PGA Tour
-*   John Mallinger
+*   Turkish Airlines World Golf Final
 *   European Tour
 *   Frys.com Open
+*   Las Vegas
+*   John Mallinger
+*   Ryder Cup
+*   Tiger Woods
+*   Jonathan Byrd
 *   Vijay Singh
-*   Ross Fisher
-*   Bernd Wiesberger
-*   US Open Championship
-*   Christina Kim
-*   LPGA Tour
 
 **Privacy Policy**
 
@@ -533,7 +531,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 232,806 facebook.com/GolfChannel 119,520 twitter.com/GolfChannel Newsletter
+Social 232,975 facebook.com/GolfChannel 119,642 twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
