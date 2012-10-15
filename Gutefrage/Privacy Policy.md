@@ -190,87 +190,74 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Themen der Woche
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 82575 Arbeit 63697 Ausbildung 49262 Auto 89739 Beauty 67900 Beruf 76380 Beziehung 70625 Computer 529130 Computerspiele 63570 deutsch 66049 Englisch 51389 ErnÃ¤hrung 50112 essen 70297 Facebook 75798 Fernsehen 59608 Film 98587 Finanzen 58505 Freizeit 257725 FuÃball 50582 Games 122323 Geld 92183 Gesundheit 202916 Haare 81165 Handy 201023 Hilfe 145707 Internet 318363 iPhone 73893 Kinder 50360 KÃ¶rper 49012 Laptop 72270 Liebe 162342 Lied 53572 MÃ¤dchen 55160 Medizin 61982 Minecraft 66426 Musik 277059 PC 277990 PC-Spiele 47897 Problem 54150 PS3 59054 Recht 94094 Schule 231402 Software 56434 Spiele 135085 Sport 109347 Technik 118938 Tiere 64100 TV 53705 Video 51895 Youtube 81633 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  Amazon
-2.  Fifa
-3.  fifa 13
-4.  Online-Shop
-5.  Periode
-6.  Pickel
-7.  Piercing
-8.  reiten
-9.  Skype
-10.  Steam
-
-Top-50 Themen Thema Anzahl Apple 82452 Arbeit 63637 Ausbildung 49187 Auto 89651 Beauty 67831 Beruf 76319 Beziehung 70536 Computer 528724 Computerspiele 63492 deutsch 65993 Englisch 51338 ErnÃ¤hrung 50076 essen 70245 Facebook 75697 Fernsehen 59563 Film 98456 Finanzen 58489 Freizeit 257621 FuÃball 50546 Games 122176 Geld 92098 Gesundheit 202796 Haare 81045 Handy 200782 Hilfe 145465 Internet 318085 iPhone 73764 Kinder 50325 KÃ¶rper 48944 Laptop 72185 Liebe 162121 Lied 53516 MÃ¤dchen 55051 Medizin 61940 Minecraft 66333 Musik 276820 PC 277675 PC-Spiele 47844 Problem 54059 PS3 58969 Recht 94032 Schule 231177 Software 56384 Spiele 134937 Sport 109250 Technik 118833 Tiere 64054 TV 53660 Video 51817 Youtube 81515 Themen von A-Z Suchbegriff Top-Nutzer des Tages
-
-1.  pXyTz
+1.  sassbar
     
     Punkte:
     
-    969
+    988
     
     Level:
     
-    pXyTz
+    sassbar
     
-2.  larry2010
+2.  Spannungsvoller
     
     Punkte:
     
-    798
+    973
     
     Level:
     
-    larry2010
+    Spannungsvoller
     
-3.  Othetaler
+3.  boooze
     
     Punkte:
     
-    617
+    864
     
     Level:
     
-    Othetaler
+    boooze
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.240.087 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.248.161 gute Fragen_
 
-*   22 KONTER gesucht !!! - Bist du noch Jungfrau?
-*   19 Mein groÃer Bruder ist ein elender VerrÃ¤ter und ich hasse ihn!
-*   14 Ich muss ausziehen... Bin aber erst 16
+*   16 KÃ¶nnen Blinde in Bildern trÃ¤umen?
+*   15 Ist das in irgendeiner Sicht normal?
+*   13 hÃ¶rt ein tauber wenn er chips kaut?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Das hilft gegen Dehnungsstreifen
 *   So wÃ¼rfelt man eine Zwiebel
 
-*   Anleitung - Schiebekarte basteln
 *   HimbeertÃ¶rtchen backen
+*   Anleitung - Schiebekarte basteln
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.922.554
+1.926.541
 
 Anzahl der Fragen
 
-8.238.995
+8.247.487
 
 Anzahl der Antworten
 
-35.866.768
+35.894.951
 
 Anzahl der Tipps
 
-74.021
+74.095
 
 Anzahl der Videos
 
-4.653
+4.656
 
 Blog
 
