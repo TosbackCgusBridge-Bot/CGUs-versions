@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 7 hours ago
+about 8 hours ago
 
-@BleacherReport: RT @RickMaese: Jeter is down for year. Ankle fracture, Girardi says. Not career-ending but will need 3 mos recovery time
+@BleacherReport: Michele Tafoya to Aaron Rodgers postgame: "What do you think you told the critics tonight?" Rodgers: "Shhhhhhhhh."
 
 Newsletters
 
@@ -201,5 +201,6 @@ Popular Topics
 *   Heisman Watch 2012
 *   MLB Playoff Schedule 2012
 *   UFC 153 Results
+*   BCS Standings
 
 Copyright © 2012 Bleacher Report, Inc. Turner Broadcasting System, Inc. All Rights Reserved. BleacherReport.com is part of Turner Sports Digital, part of the Turner Sports &. Entertainment Digital Network. Certain photos copyright © 2012 by Getty Images. Any commercial use or distribution without the express written consent of Getty Images is strictly prohibited.
