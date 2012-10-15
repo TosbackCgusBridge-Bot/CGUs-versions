@@ -1,19 +1,19 @@
 More searches: Ingredient | Nutrition | Advanced Email or User Name Remember Me Password (forgot?)    
 
-*   *   *   *   Homemade Chicken Noodle Soup Watch Chef John make a simple, soothing chicken noodle soup. »
+*   *   *   *   Creamy Au Gratin Potatoes See how to make the best creamy scalloped potatoes. »
         
-        *   *   Football Recipes The best game-day bites. »
+        *   *   Top Halloween Treats Best recipes for fright night. »
         
         *   *   Party Tips and Recipes Fall party ideas, from potlucks to tailgates. »
         
         *   *   Grocery Bill Too High? You'll waste less and spend less with Menu Planner. »
         
     
-*   *   *   *   *   Fall Entertaining
-                *   See recipes for any fall celebration, from Halloween to Oktoberfest. »
-            
-            *   *   Best of Fall Baking
+*   *   *   *   *   Best of Fall Baking
                 *   Greet the season with pumpkin bread, apple pie, and more fall favorites. »
+            
+            *   *   Football Food
+                *   Tackle game-day hunger with wings, poppers, and meaty dips. »
         
         *   *   Dishes and Meals
             *   Appetizers
@@ -51,8 +51,8 @@ More searches: Ingredient | Nutrition | Advanced Email or User Name Remember Me 
 *   *   *   *   *   Quick Weeknight Dinners
                 *   See secrets to quick, tasty dinners for those busy school nights. »
             
-            *   *   Kid Pleasers
-                *   Video recipes for the foods kids love. »
+            *   *   Halloween Videos
+                *   All about pumpkin, inside and out. »
         
         *   *   How-to
             *   Appetizers
@@ -105,11 +105,11 @@ More searches: Ingredient | Nutrition | Advanced Email or User Name Remember Me 
         More Menus »
         
     
-*   *   *   *   *   Fall Entertaining
-                *   See recipes for any fall celebration, from Halloween to Oktoberfest. »
+*   *   *   *   *   Halloween Recipes
+                *   From spooky to sweet, the top picks for Halloween. »
             
-            *   *   Halloween Recipes
-                *   Get ready for fright night with spooky cookie and cupcake recipes. »
+            *   *   Football Food
+                *   Big game, big eats. »
         
         *   *   Holidays and Events
             *   New Year
@@ -369,8 +369,8 @@ Most Popular Blogs
 
 *   Usernames October 8, 2012 3:27 PM
 *   MUUUUHAAHAHAA!!!!! October 8, 2012 8:32 AM
-*   A Food Civil War October 7, 2012 9:27 AM
 *   What is your weapon of choice in the kitchen? October 9, 2012 11:22 AM
+*   Another Excellent Indiana Adventure!! October 13, 2012 8:39 PM
 *   Welcoming Autumn October 12, 2012 12:50 PM
 
 Read our allrecipes.com blog
