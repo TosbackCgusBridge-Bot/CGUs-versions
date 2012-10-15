@@ -128,30 +128,30 @@ Policy Last Updated: September 2012
 
 News _from our Ad Age Partners_
 
+*   Akerson revamps marketing
+*   Dealers cautious about 2013 ad dollars
+*   Honda's bundle of cash revives Tier 2 ad plans
 *   Lexus sedans pose risk for trunk entrapment, Consumer Reports says
-*   Chrysler planning 'buzz packages' for various models
-*   Hyundai aims to win conquest buyers with fresh Sante Fe
-*   Lincoln gives sneak peeks at MKZ
 
 *   How can I use email to drive video views?
 *   Fall cleaning: Dust off your email list
 *   Fraudulent social reviews, both positive and negative, on the rise
 *   Five tips to rev up your content marketing program
 
-*   New $100 bills stolen en route to Fed facility
-*   Treasury delays report that could hit China on currency
-*   Target zeroes in on exercise fanatics
-*   Deficit helped by better economy and expiring stimulus
+*   SoftBank buying 70% stake in Sprint
+*   Bernanke defends Fed against international criticism
+*   Inflation slows in China
+*   Stocks: Economy, earnings and Europe gun for attention
 
 *   Online advertising jumps 14% to record $17B
 *   Fortune Group publisher tapped to oversee Time
 *   The Children's Place tests Sam's Club partnership
 *   NYC publisher plans illustrated Ke$ha memoir
 
+*   Stock investors wary as profit picture dims
+*   CNBC: Softbank to buy majority stake in Sprint
 *   Retailers try to speed up holiday calendar
-*   Federal deficit cut, but tops $1 trillion for 4th year
-*   Consumer sentiment jumps to 5-year high
-*   JPMorgan posts record profit on home loans
+*   Card fee 'settlement' just start of big legal battle
 
 *   2013 FIAT 500
 *   2013 Scion FR-S
