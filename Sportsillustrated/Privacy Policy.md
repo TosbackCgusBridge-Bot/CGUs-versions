@@ -142,19 +142,19 @@ The Privacy Statement posted on this site was updated in March, 2011.
 
 More from SI.com Latest News
 
-*   **Joe Lemire:** Loss of Jeter devastating to Yankees' chances
-*   Jeter breaks ankle, out for playoffs
-*   No. 9 LSU deals No. 3 S.C. first loss
+*   **Chris Burke:** Rodgers, Packers shred Texans and silence critics
+*   Cards hold off Giants in NLCS opener
+*   **BCS:** 'Bama at No. 1, Florida at No. 2
 
-Video Keith: Early ALCS edge to the Tigers Staples: Irish stuff Cardinal in OT SI Writers
+Video Who saved themselves in Week 6? Headed for the hot seat SI Writers
 
-*   **Will Carroll:** Jeter should have no trouble returning from ankle injury
-*   **Joe Lemire:** Jeter's injury more devastating to Yankees' hopes than Game 1 loss
-*   **Jeff Wagenheim:** Silva's quick TKO of Bonnar no waste of time. more from UFC 153
+*   **Ben Reiter:** Giants starters' struggles not a good sign for NLCS chances
+*   **Eric Mack:** Cowboys still alive, 49ers frustrate and more Week 6 fantasy observations
+*   **Joe Lemire:** Deadline pitching deals paying postseason dividends for Tigers
 
 SI Photos College Football Top 25 Review Boxing's Pound-for-Pound Top 15 2012 NASCAR Sprint Cup Winners  
 
-Hot Topics: Derek Jeter Peter King's Picks Notre Dame LSU Fantasy Football UFC 153 Clint Bowyer Swimsuit
+Hot Topics: NFL Week 6 MLB Playoffs Aaron Rodgers BCS Standings Fantasy Football Usain Bolt Swimsuit
 
 *   SUBSCRIBE TO SI
 *   DIGITAL EDITION
