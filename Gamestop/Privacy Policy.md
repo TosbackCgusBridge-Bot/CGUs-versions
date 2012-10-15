@@ -13,8 +13,8 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
 *   Xbox 360 See All Xbox 360 » Hot Right Now
     
     1.  Call of Duty: Black Ops II
-    2.  Halo 4
-    3.  Xbox 360 Live Marketplace Points 2400 Points
+    2.  Xbox 360 Live Marketplace Points 2400 Points
+    3.  Halo 4
     4.  Skylanders Giants Golden Dragonfire Cannon Battle Pack GameStop Exclusive
     
     See all best sellers Xbox 360 **Games**
@@ -75,8 +75,8 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     
     1.  Assassin's Creed III GameStop Edition
     2.  Call of Duty: Black Ops II
-    3.  Skylanders Giants Golden Dragonfire Cannon Battle Pack GameStop Exclusive
-    4.  $50 Playstation Network Card
+    3.  $50 Playstation Network Card
+    4.  Skylanders Giants Golden Dragonfire Cannon Battle Pack GameStop Exclusive
     
     See all best sellers PS3 **Games**
     
@@ -133,9 +133,9 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
 *   PC See All PC » Hot Right Now
     
     1.  The Elder Scrolls V: Skyrim
-    2.  XCOM: Enemy Unknown
-    3.  Dishonored
-    4.  Sid Meier's Civilization V: Game of the Year Edition
+    2.  Sid Meier's Civilization V: Game of the Year Edition
+    3.  XCOM: Enemy Unknown
+    4.  The Elder Scrolls V: Skyrim - Dawnguard
     
     See all best sellers PC **Games**
     
@@ -197,9 +197,9 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
 *   Wii U See All Wii U » Hot Right Now
     
     1.  New Super Mario Bros. U
-    2.  Skylander's Giants Starter Pack
-    3.  Wii U Pro Controller - Black
-    4.  Call of Duty: Black Ops II
+    2.  ZombiU
+    3.  Wii U Nunchuk Controller Black
+    4.  Wii U Pro Controller - Black
     
     See all best sellers Wii U **Games**
     
@@ -237,9 +237,9 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
 *   3DS See All 3DS » Hot Right Now
     
     1.  Skylanders Spyro's Adventure Pack - Darklight Crypt
-    2.  Skylanders Voodood Character
-    3.  Skylanders Spyro's Adventure Pack - Pirate Seas
-    4.  Skylanders Dino-Rang Character
+    2.  Harvest Moon: A New Beginning
+    3.  Skylanders Cynder Character
+    4.  Skylanders Sonic Boom Character
     
     See all best sellers 3DS **Games**
     
@@ -289,8 +289,8 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
     
     1.  Assassin's Creed III Liberation
     2.  PlayStation Vita Wi-Fi Assassin's Creed III Liberation Bundle
-    3.  Persona 4 Golden
-    4.  Call of Duty Black Ops: Declassified
+    3.  Asphalt: Injection
+    4.  BlazBlue: Continuum Shift Extend
     
     See all best sellers PS Vita **Games**
     
