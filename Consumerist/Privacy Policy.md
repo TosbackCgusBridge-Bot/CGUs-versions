@@ -126,10 +126,10 @@ Tell a friend:
 
 **Want Consumerist in your inbox?** Popular Posts
 
-*   McDonald's Ad Guy Explains The McRib's Holiday Timing: "We Don't Really Do Polar Bears"
+*   Starbucks CEO Howard Schultz Gives Local Manager A Ring To Thank Her For Doing A Good Job
 *   Homeowner Has To Share House With Squatter Because Police Can't Do Anything
 *   Google Won't Replace Your Broken Nexus 7 Until You Put Up $200 Collateral
-*   Starbucks CEO Howard Schultz Gives Local Manager A Ring To Thank Her For Doing A Good Job
+*   4 Ways You Might Save By Ditching Your Mega Bank
 *   Disabled Vet Says Debt Collector Told Him "You Should Have Died"
 
 About Consumerist
