@@ -1096,6 +1096,7 @@ Y*   Books + Media
         *   Shirts
         *   Shorts, Swim Trunks
         *   Sleepwear, Loungewear
+        *   Sweaters
         *   Sweatshirts
         *   T Shirts
         *   Underwear
@@ -1171,7 +1172,6 @@ Y*   Books + Media
         *   Banks
         *   Animated Novelty
         *   Construction
-        *   Bath
         *   Push Pull Toys
         *   Musical Toys
         *   Vehicles
