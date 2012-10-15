@@ -1,4 +1,10 @@
-Bulletin Investor Alert Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
+Bulletin Investor Alert
+
+New York Markets Open in:
+
+Pre-Market Indications Analyst Ratings Oil News EarningsWatch
+
+Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
@@ -192,132 +198,137 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 14, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 15, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  6:30a
+/news/latest1.  8:04a
     
-    Crosscurrents add to U.S. economic puzzle
+    Citigroup Q3 net 15c. $1.06 excluding items
     
-2.  6:01a
+2.  8:03a
     
-    Facebook earnings targets are going down
+    Gold futures retreat in catch-up move to dollar
     
-3.  12:20a
+3.  8:01a
     
-    Bernanke defends QE from international criticism
+    BREAKING
     
-4.  5:00p
+    Fed was not aggressive enough at first: Dudley
     
-    With geeky the new hip, Mattel, Marvel see promise
+4.  8:01a
     
-5.  2:52p
+    QE3 a needed recalibration of Fed policy: Dudley
     
-    Santander pulls out deal with RBS
+5.  8:01a
     
-6.  2:20p
+    Fed wasn't aggressive enough at first: Dudley
     
-    Cablevision mulls sale of Bresnan
+6.  8:01a
     
-7.  1:50p
+    Fed won't be hasty to stop QE3: Dudley
     
-    China trade-surplus report surprisingly strong
+7.  8:01a
     
-8.  12:00p
+    Outlook for U.S. economy still cloudy: Dudley
     
-    China trade-surplus report surprisingly strong
+8.  7:56a
     
-9.  9:02a
+    Coming up: U.S. retail sales for September
     
-    For many, âseniorâ phone plans donât ring true
+9.  7:54a
     
-10.  9:01a
+    Radio update: Softbank to acquire stake in Sprint
     
-    Medicare open-enrollment: Find the right drug plan
+10.  7:52a
     
-11.  9:00a
+    Clearwire rallies 10% on Sprint-Softbank deal
     
-    U.S. stocks end worst week in four months
+11.  7:44a
     
-12.  8:02a
+    Consol sees surprise Q3 loss amid mine idlings
     
-    From the NYSE, Charlie Turner previews week ahead
+12.  7:44a
     
-13.  7:02a
+    Four reasons why Softbank is buying Sprint
     
-    2013 Infiniti M37 AWD
+13.  7:43a
     
-14.  6:01a
+    Vanda: progress with 24-hour-disorder drug
     
-    Stocks face first peak of earnings season
+14.  7:42a
     
-15.  7:51p
+    Entergy sees profit shortfall due to costs, taxes
     
-    With geeky the new hip, Mattel, Marvel see promise
+15.  7:41a
     
-16.  7:46p
+    Qatar views Glencore-Xstrata deal favorably
     
-    AMD rises after hours following dayside slide
+16.  7:40a
     
-17.  7:09p
+    EPL Oil &. Gas to sell $250M of Notes to fund deals
     
-    MarketWatch readers narrowly agree with Jack Welch: poll
+17.  7:40a
     
-18.  6:34p
+    Goldman cuts 12-month copper outlook to $8,000/ton
     
-    Stocks to watch Monday: Citi, Schwab, Gannett
+18.  7:38a
     
-19.  6:31p
+    Qatar: Mulling investment in MS commodities unit
     
-    AMD to cut up to 30% of workforce: AllThingsD
+19.  7:37a
     
-20.  6:29p
+    Pharmacyclics gets $50M milestone payment from J&J
     
-    MarketWatchâs top 10 stories, Oct. 8 - 12
+20.  7:20a
+    
+    Europe stocks rise after Chinese data. banks up
     
 21.  Loading more headlines...
 
 dow /quotes/zigman/627449 13,328.85 +2.46 +0.02% nasdaq /quotes/zigman/123127 3,044.11 -5.30 -0.17% s&p 500 /quotes/zigman/3870025 1,428.59 -4.25 -0.30% Kiosk
 
-*   1300176000000 1301475600000
+*   1339754400000 1340010000000
+    
+    Investing
+    
+    Natural-gas cars flooring it  
+    Several stocks are showing up on Wall Streetâs radar as a way to cash in on cleaner fuel as more vehicles switch from gasoline and diesel to natural gas. /conga/kiosk/investing.html 230638
+*   1347087600000 1347213600000
+    
+    Medicare
+    
+    Find the right drug plan  
+    There are plenty of changes, but the 49 million Americans who use Medicare should focus on prescription plans during open enrollment.  
+    /conga/kiosk/wildcard2.html 230634
+*   1309191300000 1309248000000
     
     Retail
     
-    Â  The $1 million challenge  
-    Some U.S. retailers in Hong Kong pay rents north of $1 million a month, just to link up with China consumers. But those consumers aren't so keen anymore. /conga/kiosk/asia.html 230181
-*   1238817600000 1270353600000
+    Geekiness becomes chic  
+    Retailers chasing dollars in the geekiness lifestyle trend attempt to lure customers at conventions like New York's Comic Con.  
+    /conga/kiosk/wildcard3.html 230668
+*   1348302600000 1348443000000
     
-    Food and Beverages
+    Car Review
     
-    Food festivals: big trend  
-    These culinary events are putting a spotlight on the latest foodie obsessions, while also showcasing new products.  
-    â¢ The art of drinking tea 230246
-*   1343916000000 1343952060000
+    Â  Ron Amadon  
+    2013 Infiniti M37 AWD  
+    Luxury ride teams sport package, all-wheel drive. hits all the right buttons.  
+    â¢ 2013 car-buying guide | Slide show
     
-    Technology
+    .
     
-    Google takes Manhattan  
-    Google is expanding its New York presence, bumping up against other tenants in its efforts to expand.  
-    â¢ What's a Facebook follower worth? /conga/kiosk/tech.html 230313
-*   1332374700000 1332461400000
-    
-    The Trading Deck
-    
-    michael gayed  
-    When unlimited is not enough  
-    We live in a world of trillions. So long as central banks respond with billions, we will continue to go through continued pulses of inflation/deflation..  
-    /conga/kiosk/trading-deck-5.html 230475
+    230657
 *   1341573300000 1341792900000
     
     Economy
     
     Another week of surprises Â For the second week in a row, the government reports jobs data too good to be true, consumer sentiment sees a rebound and Spain's factory output rises. /conga/kiosk/economy-politics.html 230517
-*   1349089200000 1349137500000
+*   1343988600000 1344810900000
     
-    Commentary
+    U.S. Week Ahead
     
-    Writing on the Wall  
-    Wall Street pay: a reality check  
-    Spare us the whining about tough times in finance.Â  An average Wall Street professional earns five times an average Joe, writes David Weidner.Â  /conga/kiosk/commentary2.html 230243
+    Â  Financials, techs report  
+    MarketWatch'sÂ  Polya Lesova explains what investors can expect when some of the biggest U.S. companies report quarterly earnings. /conga/kiosk/video2.html 230670
 
 MarketWatch.com
 
