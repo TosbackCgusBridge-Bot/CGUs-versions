@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Sunday 14 October 2012
+Monday 15 October 2012
 
 *   Home
 *   News
@@ -138,13 +138,13 @@ In About us
 
 Editor's Choice »
 
-The badger cull is not just a shot in the dark  
+The muck and the top brass  
 
-A dairy farmer explains why he hopes the the badger cull will succeed. By **Cole Moreton**
+The fact that leading ex-servicemen were prepared to lobby the MoD on behalf of foreign arms companies is the latest example of the revolving door between Whitehall and the private sector, says **Andrew Gilligan**.
 
 Comments
 
-'We will never be subdued by militants' Pollyanna Hope's charity mini-marathon Clare Balding's undiplomatic Dad 'I escaped the flames. I am lucky to be alive’ Advertisement
+Autism: one father's path to understanding Blood Brothers: Willy Russell interview Alan Hansen on England's chances in Brazil Water particles found on surface of moon Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
