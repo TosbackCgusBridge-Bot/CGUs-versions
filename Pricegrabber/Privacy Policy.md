@@ -31,8 +31,8 @@ My Account
     *   Se
     *   Sears
     *   T Mobile
-    *   Tax
     *   Www.yahoo.com
+    *   Tax
     *   Truck
     *   Ipod
     *   Att
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1509 Local Deals
+*   1489 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
