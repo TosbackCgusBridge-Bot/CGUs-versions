@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-Patent troll nabs $1.5 million from sites for infringing on the "look and feel" of an online store. https://eff.org/r.1anC #patentfail
+How are you celebrating #AdaLovelaceDay? Let us know and we'll add it to our list of favorite articles for the day. https://eff.org/r.a7nG
 
-Oct 15 @ 6:27pm
+Oct 16 @ 1:07pm
 
-Copyright's collateral damage: publisher's single takedown notice censors 1.5 million (!) blogs https://eff.org/r.a8nB
+Canada-EU Trade Agreement (#CETA) replicates #ACTA’s notorious copyright provisions https://eff.org/r.3anE #TPP
 
-Oct 15 @ 12:46pm
+Oct 16 @ 12:43pm
 
 *   Twitter
 *   Facebook
