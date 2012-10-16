@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Giuliani says Obama foreign policy...**  
-        Election 2012 | Philip Rucker
+    *   **How the town hall debate will work**  
+        Election 2012 | Rachel Weiner
     
-    *   **Mitt Romneyâs ânew mathâ for his...**  
+    *   **Looking for fact checks during...**  
         The Fact Checker | Glenn Kessler
     
-    *   **Amanda Palmerâs got the world sharing...**  
-        She The People | Diana Reese
+    *   **A recap of the Indiana Senate debate**  
+        She The People | Melinda Henneberger
     
-    *   **Democrat Tammy Baldwin outraises...**  
-        The Fix | Sean Sullivan
+    *   **Independents to presidential election...**  
+        The Fix | Scott Clement
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **Glenn Beckâs jeans**  
+    *   **Pizza Hutâs debate question fail**  
         ComPost | Alexandra Petri
     
-    *   **Happy Hour Roundup**  
+    *   **What to watch for tonight**  
         The Plum Line | Jonathan Bernstein
     
-    *   **Why are you giving to Romney and...**  
-        PostPartisan | Jonathan Bernstein
+    *   **PostScript: Matt Miller and Romneyâs...**  
+        PostPartisan | Rachel Manteuffel
     
-    *   **Morning Bits**  
+    *   **It really is the anti-Muslim video?**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **Forecast: Totally terrific Tuesday...**  
-        Capital Weather Gang | Matt Rogers
+    *   **Warmest September on record for...**  
+        Capital Weather Gang | Jason Samenow
     
-    *   **Howard Homecoming and Good Life...**  
-        Going Out Gurus | Fritz Hahn and Rhome Anderson
+    *   **Beer news: Great American Beer...**  
+        Going Out Gurus | Fritz Hahn
     
-    *   **Man convicted of first-degree murder...**  
-        Crime Scene | Justin Jouvenal
+    *   **Arlington police investigate Saturday...**  
+        Crime Scene | Allison Klein
     
-    *   **Vaâs McDonnell is on the road again**  
-        Virginia Politics | Errin Haines
+    *   **Md. GOP luminaries Steele, Scott...**  
+        Maryland Politics | John Wagner
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -97,17 +97,17 @@
     
     Blogs &. Columns
     
-    *   **Braden Holtby feels âfortunate...**  
-        Capitals Insider | Washington Post Sports Editors
+    *   **NHL includes 50-50 revenue split...**  
+        Capitals Insider | Katie Carrera
     
-    *   **White House press secretary on...**  
+    *   **Drew Storen vs. Yadier Molina**  
         DC Sports Bog | Dan Steinberg
     
-    *   **Pierre Garcon suffering from inflammation...**  
-        The Insider | Mike Jones
+    *   **NFL creates three-day negotiating...**  
+        The Insider | Mark Maske
     
-    *   **Nationals positional review, Part...**  
-        Nationals Journal | Adam Kilgore
+    *   **Bryce Harper no longer a teenager**  
+        Nationals Journal | James Wagner
 *   National In National
     
     *   Energy &. Environment
@@ -123,10 +123,10 @@
     
     Blogs &. Columns
     
-    *   **Daredevil becomes first to break...**  
+    *   **âIron Manâ-style exoskeleton could...**  
         Ideas@Innovations | Emi Kolawole
     
-    *   **Why politics and work donât mix**  
+    *   **The timing of Vikram Panditâs departure**  
         PostLeadership | Jena McGregor
     
     *   **Colo. bishop to Biden: No Communion**  
@@ -143,19 +143,19 @@
     *   Special Reports
     *   Columns &. Blogs
     
-    Latest Stories
+    Blogs &. Columns
     
-    *   **Egyptâs grass-roots Islamist revival**  
-        Abigail Hauslohner
+    *   **Why do people steal art?**  
+        WorldViews | Olga Khazan
     
-    *   **Putinâs party sweeps elections**  
-        Kathy Lally
+    *   **The Cuban Missile Misunderstanding...**  
+        WorldViews | Max Fisher
     
-    *   **Euro-zone crisis leads to boom...**  
-        James Wilson and Gerrit Wiesmann
+    *   **The presidential debates: The unspoken...**  
+        WorldViews | Max Fisher
     
-    *   **Scots to vote on breaking from...**  
-        Anthony Faiola
+    *   **Chinese man appeals labor camp...**  
+        WorldViews | Olga Khazan
 *   Business In Business
     
     *   Economy
@@ -173,14 +173,14 @@
     *   **Saving strategies, before and after...**  
         The Color of Money | Michelle Singletary
     
-    *   **Sprint, SoftBank announce a deal...**  
+    *   **E.U. privacy regulators say Googleâs...**  
         Post Tech | Hayley Tsukayama
     
     *   **The judicial jihad against the...**  
         Steven Pearlstein
     
-    *   **Wonkbook: Presidential Debate 2...**  
-        Wonkblog | Ezra Klein
+    *   **The truth about Romneyâs âsix studiesâ**  
+        Wonkblog | Suzy Khimm
 *   Tech In Technology
     
     *   Policy
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Microsoft introduces Xbox Music**  
+    *   **Everything you need to know about...**  
         Hayley Tsukayama
     
-    *   **Sprint, SoftBank announce a deal...**  
+    *   **E.U. privacy regulators say Googleâs...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **A book deal for Mrs. Wheelbarrow**  
-        All We Can Eat | Bonnie S. Benwick
+    *   **Taylor Charles Steak &. Ice to open...**  
+        All We Can Eat | Tim Carman
     
-    *   **Mo Yanâs Nobel Prize-winning writing...**  
+    *   **Million Puppet March to bring puppeteers...**  
         The Style Blog | Maura Judkis
     
-    *   **10 foods a kid should learn how...**  
-        On Parenting | Casey Seidenberg
+    *   **Talking politics, not trash, to...**  
+        On Parenting | Janice D'Arcy
     
-    *   **Quoted: Mitt Romney on bad days**  
+    *   **Dinesh DâSouza divorces wife**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,7 +240,7 @@
     *   **Art: Two Lichtenstein retrospectives**  
         Classical Beat | Anne Midgette
     
-    *   **Tina Fey and Amy Poehler will host...**  
+    *   **BeyoncÃ© to the Super Bowl**  
         Celebritology 2.0 | Jen Chaney
     
     *   **About 51 million people watch Biden-Ryan...**  
@@ -267,10 +267,11 @@
 In the News
 
 *   Debate
-*   Candy Crowley
-*   Poehler and Fey
-*   Michaele Salahi
-*   Giants
+*   Vikram Pandit
+*   Iran sanctions
+*   Gary McKinnon
+*   Beyonce
+*   Hulk Hogan
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -319,82 +320,94 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Charity president unhappy about Paul Ryan soup kitchen 'photo op' Amanda Palmer's got the world sharing health insurance hell at #InsurancePoll Romneyâs killer Sister Souljah move
+Charity president unhappy about Paul Ryan soup kitchen 'photo op' E.U., U.S. sanctions against Iran are clamping oil exports, agency says
 
-Matt MIller 
+James Ball 
 
-French president pushing homework ban as part of ed reforms Europe to call for Google to be more transparent about data collection
+Thieves grab Picasso, Monets from Dutch museum in early-hours heist
 
-Craig Timberg 
+Associated Press 
 
-First lady's motorcade involved in accident Wisconsin, the land of persuadable voters
+Who is responsible for what in Libya?
 
-Joel Achenbach 
+Jennifer Rubin 
 
-My son is schizophrenic. The âreformsâ that I worked for have worsened his life.
+Jesse Jackson Jr.: Political candidate and subject of many unanswered questions
+
+Manuel Roig-Franzia 
+
+French president pushing homework ban as part of ed reforms My son is schizophrenic. The âreformsâ that I worked for have worsened his life.
 
 Paul Gionfriddo 
 
-Dana Milbank: Harry Reidâs hammer throw
+A Virginia double-dip for Romney running mate with close presidential election 3 weeks away
 
-Dana Milbank 
+Associated Press 
+
+Romneyâs killer Sister Souljah move
+
+Matt Miller 
 
 Bidenâs toxic victory
 
 Michael Gerson 
 
-Giuliani says Obama foreign policy is one of 'provocative weakness' U.S. Ambassador Susan Rice at center of storm over comments on attack in Benghazi
+Man sentenced to death for killing pastor in his North Texas church
+
+Associated Press 
+
+Man fatally struck at Farragut North Dana Milbank: Harry Reidâs hammer throw
+
+Dana Milbank 
+
+Mitt Romneyâs ânew mathâ for jobs plan doesnât add up
+
+Glenn Kessler 
+
+Britain deals blow to U.S. extradition treaty, blocks handover of hacker
+
+Anthony Faiola 
+
+No comfort for Obama in debate history
+
+Marc A. Thiessen 
+
+U.S. Ambassador Susan Rice at center of storm over comments on attack in Benghazi
 
 Anne Gearan 
 
-GOP has itself to blame for Thompsonâs Kenya joke
+Wisconsin, the land of persuadable voters
 
-Jonathan Capehart 
+Joel Achenbach 
 
-Our choice in Virginia: Tim Kaine for the U.S. Senate
+Liberalsâ green-energy contradictions
 
-Editorial Board 
+Charles Lane 
 
-Democrat Tammy Baldwin outraises Republican Tommy Thompson in Wisconsin Senate race Jesse Jackson Jr.: Political candidate and subject of many unanswered questions
+Carolyn Hax: Boyfriend has anger issues, but he wonât go to therapy on his own
 
-Manuel Roig-Franzia 
-
-First second of daredevilâs dive captures worldâs imagination
-
-Maura Judkis 
-
-Obamaâs second chance
-
-Eugene Robinson 
-
-Redskins juggle personnel on defense and reveal some helpful contributors
-
-Mark Maske 
-
-Norodom Sihanouk dies at 89. former king led Cambodia through decades of strife
-
-William Branigin 
+Carolyn Hax 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
     1.  Charity president unhappy about Paul Ryan soup kitchen 'photo op'
-    2.  Amanda Palmer's got the world sharing health insurance hell at #InsurancePoll
-    3.  Romney's killer Sister Souljah move
-    4.  French president pushing homework ban as part of ed reforms
-    5.  Europe to call for Google to be more transparent about data collection
+    2.  E.U., U.S. sanctions against Iran are clamping oil exports, agency says
+    3.  Thieves grab Picasso, Monets from Dutch museum in early-hours heist
+    4.  Responsible for what, exactly?
+    5.  Jesse Jackson Jr.: Political candidate and subject of many unanswered questions
 *   Top Videos
-    1.  Felix Baumgartner breaks sound barrier during record-setting skydive
-    2.  Felix Baumgartner successfully jumps from the edge of space
-    3.  The Takeaway: RGIII leads the Redskins to first home win after 8 losses
-    4.  Wisconsin: Swinging between the candidates
-    5.  The Dance of Life: The Concert
+    1.  Malala Yousafzai will make 'decent recovery': Doctors
+    2.  Raw video: Paul Ryan makes unauthorized stop at soup kitchen
+    3.  Physicist explains Felix Baumgartner's supersonic speed
+    4.  Hillary Clinton takes blame for U.S. attack in Libya
+    5.  Felix Baumgartner breaks sound barrier during record-setting skydive
 *   Top Galleries
-    1.  Distinguished homes
-    2.  Skydiver Felix Baumgartner breaks sound barrier
-    3.  Oorah! U.S. Marines in action
-    4.  Azerbaijan relishes its anti-Iran role
-    5.  Norodom Sihanouk, Cambodia's leader through decades of upheaval, dies
+    1.  Skydiver Felix Baumgartner breaks sound barrier
+    2.  Oorah! U.S. Marines in action
+    3.  Tina Fey and Amy Poehler to host Golden Globes
+    4.  Fighting continues in Syria
+    5.  Astronomy photos of the year
 
 Today's Paper
 
@@ -404,13 +417,14 @@ Today's Paper
 
 Live Discussions
 
-Ask Boswell: Life after the Nats loss
+The second presidential debate: Who won?
 
-Live Q&A transcript
+Live Q&A: Wednesday, Noon ET
 
-Sports Columnist Tom Boswell took your questions about the game 5 Nats loss and more.
+Associate editor Robert Kaiser live chats with readers to take questions on the second presidential debate.
 
-**11:00 AM** **ComPost Live with Alexandra Petri** **12:00 PM** **Kids: Mommy My Tummy Hurts** **12:00 PM** **Tuesdays with Moron: Chatological Humor Update** **1:00 PM** **Eugene Robinson Live**
+*   Earlier Today
+    *   **11:00 AM** **ComPost Live with Alexandra Petri** **12:00 PM** **Kids: Mommy My Tummy Hurts** **12:00 PM** **Tuesdays with Moron: Chatological Humor Update** **1:00 PM** **Eugene Robinson Live**
 
 **Weekly schedule, past shows**
 
