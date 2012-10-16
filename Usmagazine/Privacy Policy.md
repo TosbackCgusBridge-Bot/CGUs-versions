@@ -17,11 +17,11 @@ Give a Gift
 
 Trending
 
-*   Fall Hair Trends
-*   |
 *   VIP Scene
 *   |
-*   Love Lives
+*   Meet Tori's Baby Boy
+*   |
+*   Matt's Scary Slimdown
 *   |
 *   Subscribe
 
@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Katy's Pianist Pal »
+Hot Pics! Birthday Boy in Britain! »
 
-Top Stories1.  Gaunt Matthew McConaughey Looks Unrecognizable Leaving Gym »
-2.  Miley Cyrus Narrowly Avoids Nip Slip on Tonight Show »
-3.  See Goldie Hawn Without Makeup! »
-4.  Tia Mowry Debuts Super-Short Pixie Cut: "I Cried!" »
-5.  Whoa! See Kim Kardashian's Super-Sexy Halloween Costume Contender »
+Top Stories1.  Ashley Greene: "Twilight Has Ruined Me" »
+2.  Kim Kardashian Wears Tight See-Through Skirt, Bra Top on Date With Kanye »
+3.  Robert Pattinson, Kristen Stewart Cuddle at Hollywood Club »
+4.  Kate Gosselin on Her Face: I "De-Age" »
+5.  Reese Witherspoon Re-Emerges After Son Tennessee's Birth! »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Tori's Miracle Baby
 
 Inside Us Weekly
 
-*   Style Miley Cyrus Narrowly Avoids Nip Slip on Tonig
-*   Beauty See Goldie Hawn Without Makeup!
-*   Moms Alessandra Ambrosio: My Daughter, 4, Is Alrea
-*   Body Gaunt Matthew McConaughey Looks Unrecognizabl  
-*   Entertainment LOL! See NeNe Leakes, Sheree Whitfeld Fight S  
+*   Style Kim Kardashian Wears Tight See-Through Skirt,
+*   Beauty See Brad Pitt's Sensual Chanel No. 5 Commerci
+*   Moms PIC: Aww! Suri Cruise, 6, Makes Friends With
+*   Body Kate Gosselin on Her Face: I "De-Age"  
+*   Entertainment Tina Fey, Amy Poehler to Co-Host 2013 Golden  
 
 *   US WEEKLY
 *   Celebrity News
