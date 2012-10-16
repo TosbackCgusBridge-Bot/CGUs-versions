@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-Advertisers' assault on online #privacy continues. Here's where we draw the line: https://eff.org/r.4an5 #DNTrack
+Patent troll nabs $1.5 million from sites for infringing on the "look and feel" of an online store. https://eff.org/r.1anC #patentfail
 
-Oct 12 @ 4:42pm
+Oct 15 @ 6:27pm
 
-Chevron demands email providers turn over account info on environmental crusaders. https://eff.org/r.5an3 @EFF &. @EarthRightsIntl are on it.
+Copyright's collateral damage: publisher's single takedown notice censors 1.5 million (!) blogs https://eff.org/r.a8nB
 
-Oct 12 @ 1:42pm
+Oct 15 @ 12:46pm
 
 *   Twitter
 *   Facebook
