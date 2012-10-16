@@ -9,7 +9,6 @@ _Jump to Navigation_ ↓
     *   music videos
     *   shorts
     *   slideshows
-    *   interactive videos
 *   news
     *   what's new
     *   celebrity
@@ -23,25 +22,24 @@ _Jump to Navigation_ ↓
     *   what's new
     *   current shows
     *   show archives
-    *   interactive videos
 
-schedule right now: October 16 12:00 AM · OPERACION REPO coming up next:
+schedule right now: October 16 02:00 PM · L'CREME coming up next:
 
+*   3:00 PM · L'CREME
+*   4:00 PM · AL CIEN 100%
+*   5:00 PM · L'CREME
+*   6:00 PM · 12 CORAZONES
+*   7:00 PM · OPERACION REPO
+*   7:30 PM · OPERACION REPO
+*   8:00 PM · LARRYMANIA
+*   9:00 PM · FUGITIVOS DE LA LEY
+*   10:00 PM · OJO POR OJO
+*   11:00 PM · OJO POR OJO
+*   12:00 AM · OPERACION REPO
 *   12:30 AM · OPERACION REPO
 *   1:00 AM · DECISIONES
-*   2:00 AM · L'CREME
+*   2:00 AM · DELICIOUS
 *   3:00 AM · MORNING BREATH
-*   4:00 AM · MORNING BREATH
-*   5:00 AM · MORNING BREATH
-*   6:00 AM · SMB
-*   8:00 AM · MORNING BREATH
-*   9:00 AM · MORNING BREATH
-*   10:00 AM · L'CREME
-*   11:00 AM · MORNING BREATH
-*   12:00 PM · L'CREME
-*   1:00 PM · AL CIEN 100%
-*   2:00 PM · L'CREME
-*   3:00 PM · L'CREME
 
 see full schedule >>.
 
@@ -220,7 +218,6 @@ Search people search close people search username gender allmalefemale Zipcode r
     *   music videos
     *   shorts
     *   slideshows
-    *   interactive videos
 *   news
     *   what's new
     *   celebrity
@@ -234,7 +231,6 @@ Search people search close people search username gender allmalefemale Zipcode r
     *   what's new
     *   current shows
     *   show archives
-    *   interactive videos
 
 *   contact us
 *   independent programming report
