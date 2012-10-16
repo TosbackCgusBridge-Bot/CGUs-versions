@@ -34,14 +34,13 @@ Search
         *   All Consumer Products
     *    Small &. Medium Business
         *   Laptops
-        *   Tablets
         *   Desktops &. All-in-One PCs
         *   Workstations
         *   Thin Clients
         *   Monitors
         *   Printers &. Multifunction
         *   Ink, Toner &. Paper
-        *   Scanners
+        *   Scanners &. Fax
         *   Servers
         *   Blade Servers
         *   Storage
@@ -72,11 +71,8 @@ Search
         *   All Large Enterprise Products &. Services
     *    Government, Health &. Education
         *   Technology Solutions
-        *   Laptops
-        *   Tablets
-        *   Elite PCs
-        *   Desktops &. All-in-One PCs
-        *   Workstations
+        *   Laptops &. Tablet PCs
+        *   Desktops &. Workstations
         *   Printing &. Multifunction
         *   Servers
         *   Blades
@@ -84,9 +80,9 @@ Search
         *   Networking
         *   Services
         *   Software
-        *   Calculators
+        *   Smartphones &. Handhelds
         *   Ink, Toner &. Paper
-        *   Scanners
+        *   Scanners &. Fax
         *   E-Mail: Sign Up Offers &. Promos
         *   All Government, Health &. Education Products
     *    Graphic Arts
