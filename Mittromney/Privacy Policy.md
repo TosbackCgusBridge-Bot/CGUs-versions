@@ -6,6 +6,7 @@ Skip to Main Content Area Home   X Connect With Mitt Follow @MittRomney Login |
     *   Bios
     *   Mitt Romney
     *   Paul Ryan
+    *   Ann Romney
     
     *   On The Issues
     *   5-Point Plan
@@ -32,7 +33,7 @@ Skip to Main Content Area Home   X Connect With Mitt Follow @MittRomney Login |
 *   News &. Media
     
     *   Featured Blog
-    *   Let’s Do This Read More
+    *   I Was Clear Read More
     *   More News
     
     *   Videos
