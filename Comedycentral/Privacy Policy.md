@@ -40,8 +40,8 @@ Follow Us Facebook Twitter Follow @ComedyCentral
 
 *   · reply · retweet · favorite
 
-*   10:00PM Brickleberry
-*   10:30PM South Park
+*   10:00PM Tosh.0
+*   10:30PM Brickleberry
 *   11:00PM The Daily Show with Jon Stewart
 *   11:31PM The Colbert Report
 
