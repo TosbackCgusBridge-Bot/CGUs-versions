@@ -5,7 +5,7 @@
 
 *   My Wish List
 
-Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale Last Day! Online Only! 40% off Everything. Excludes Clearance, NY Deals, Eva Collection and Gift Cards. Not combinable with coupons or other offers. Use promo code 2144. Plus, free shipping on your order of $125 or more – no code needed. \*Details **Customer Service**
+Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale Online Only! $50 off $100 use code 1608 at checkout. Excludes: NY Deals, Clearance and Gift Cards. Plus, Free Shipping No Minimum – no code needed. \*Details **Customer Service**
 
 *   Ordering &. Shipping Info
     *   Where's My Order?
