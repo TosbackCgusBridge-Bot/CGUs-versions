@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Food
+*   Polling
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -22,11 +22,11 @@ October 16, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
+    *   High Court Sides With Obama In Huge Election Win 10k
+    *   Westboro Baptist Church Protest Stirs Violence 2k
+    *   Obama's Battleground Edge Persists 30k
+    *   Warren Nets Huge Haul 5k
     *   Ambassador's Father: It Would Be 'Abhorrent' To Politicize Son's Death 17k
-    *   Obama's Battleground Edge Persists 28k
-    *   GOP Senate Candidate's Son: 'We Have The Opportunity' To Send Obama Back To Kenya 9k
-    *   Westboro Baptist Church Protest Stirs Violence 1k
-    *   Warren Nets Huge Haul 4k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 16, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   Notorious Bankrupt Company Blames Chinese Companies For Failure 1k
-    *   FedEx's $5,000 Gamble. Literally. 117
-    *   The Shocking Way The Super-Rich Are Selling Their Homes 165
-    *   Americans Win Nobel Prize For Economics 1k
-    *   Exclusive: Inside Walmart's Secret Strike Plan 7k
+    *   PANDIT OUT 1k
+    *   Volunteer On Ryan Soup Kitchen Visit: 'Phoniest Piece Of Baloney I've Ever Been Associated With' 4k
+    *   Notorious Bankrupt Company Blames Chinese Companies For Failure 2k
+    *   The Shocking Way The Super-Rich Are Selling Their Homes 554
+    *   FedEx's $5,000 Gamble. Literally. 282
     
     Go to Business **More in Business**
     
@@ -66,10 +66,10 @@ October 16, 2012 Edition: **U.S.**
 *   Entertainment
     
     *   Sarandon Assaulted As A Young Actress 2k
-    *   Does Adam Lambert Have The $48 Million Voice? 130
-    *   Leona Lewis: 'We Found Love' Was My Song 135
-    *   Tom Morello: Paul Ryan Is A 'Jackass' 1k
-    *   Rolling Stones To Tour For 50th Anniversary 291
+    *   Does Adam Lambert Have The $48 Million Voice? 185
+    *   Tina Fey &. Amy Poehler Named Golden Globes Hosts 197
+    *   Madonna Strips ... For 14-Year-Old Shot By Taliban? 428
+    *   What Really Happened At The End Of 'The Dark Knight Rises'? 140
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 16, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   WATCH: Stratospheric Skydiver Spins Out Of Control 665
-    *   Edge-Of-Space Leap Attracts Record Number Of YouTube Viewers 214
-    *   WATCH: Stunning Google Doodle Celebrates Legendary Cartoonist 76
-    *   WATCH: SNL Mocks iPhone 5 Complaints 235
-    *   We Have So Many Questions About The iPad Mini 97
+    *   WATCH: Stratospheric Skydiver Spins Out Of Control 810
+    *   Hackers Identify Alleged Cyberbully Who Tormented Amanda Todd 1k
+    *   Edge-Of-Space Leap Attracts Record Number Of YouTube Viewers 235
+    *   WATCH: Stunning Google Doodle Celebrates Legendary Cartoonist 99
+    *   WATCH: SNL Mocks iPhone 5 Complaints 274
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 16, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   Obama, Romney Campaigns Raise Objections About Candy Crowley 8k
-    *   MSNBC's Felix Baumgartner Fail 332
+    *   MSNBC's Felix Baumgartner Fail 463
     *   Fox News Doctor Makes Unbelievable Claim About Joe Biden 3k
-    *   Romney Cancels On 'The View' 8k
-    *   Secret Presidential Debate Contract Released 2k
+    *   Secret Presidential Debate Contract Released 3k
+    *   Obama, Romney Campaigns Raise Objections About Candy Crowley 8k
+    *   Romney Cancels On 'The View' 9k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 16, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
+    *   No, You Can't Read Prince Charles' Letters 51
+    *   50 Years Later, New Secrets Of The Cuban Missile Crisis Emerge 644
+    *   Clinton: I'm Responsible For Consulate Security 6k
+    *   Mexico Says The Drug War Is Working, But Is It? 2k
     *   Teen Shot By Taliban Airlifted To UK 1k
-    *   Mexico Says The Drug War Is Working, But Is It? 1k
-    *   50 Years Later, New Secrets Of The Cuban Missile Crisis Emerge 311
-    *   Navy Sub And Cruiser Crash 1k
-    *   Drunk Pilots Caused Plane Crash 52
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 16, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   The Healthiest Salad Greens 44
+    *   Kay Lost Almost 140 Pounds: 'I Feel Like I've Been Given A Second Chance' 67
+    *   The Healthiest Salad Greens 81
     *   'Just Thinking About The Gym Makes Me Tired': Exercise E-Cards That Really Get Us Laughing 12
-    *   The Best And Worst Nut Butters 13
-    *   Kay Lost Almost 140 Pounds: 'I Feel Like I've Been Given A Second Chance' 14
-    *   What's _Your_ Power Breakfast? 49
+    *   The Best And Worst Nut Butters 18
+    *   Vitamin C Could Be Good For Bones 10
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 16, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
-    *   PHOTOS: Kim Kardashian Goes Commando, Exposes Rear In Sheer Skirt With Kanye West 939
-    *   Supermodel's Ad Campaign Sparks Outcry 142
-    *   PHOTOS: Katy Perry Turns Heads In Plunging Dress 425
-    *   PHOTO: Miley Cyrus Tries A Surprisingly Seductive Look On Jay Leno 1k
-    *   PHOTOS: Lady Gaga and Kate Hudson Made 77
+    *   PHOTOS: Kim Kardashian Goes Commando, Exposes Rear In Sheer Skirt With Kanye West 1k
+    *   Angela Lansbury Rocks Our Old Souls 40
+    *   Supermodel's Ad Campaign Sparks Outcry 178
+    *   WATCH: Chelsea Handler Points Out Jennifer Aniston's Nipples On TV 202
+    *   PHOTO: Lana Del Rey's Photoshop Nightmare 20
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 16, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   42 Animals Who Are Watching You 32
+    *   42 Animals Who Are Watching You 42
+    *   Bill Murray Crashes NYC Kickball Game 33
+    *   Best 'I'm With Stupid' Sign Ever 85
+    *   WATCH: Jon Stewart Skewers Fox News' Hysterical VP Debate Response 1k
     *   WATCH: He Must Not Realize What This Looks Like 97
-    *   The Most Unfortunate Politician Names Of All Time 88
-    *   SNL Takes On VP Debate 1k
-    *   LOOK: Where Spiders Hang Out
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 16, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next The Millennial Vote
-    *   Next United U.S. Elections
-    *   Coming Up Punishment Or Abuse?
-    *   Coming Up State Of Emergency
-    *   Coming Up Police The PoliceGo to HuffPost Live
+    *   Now The App Is In
+    *   Next Millennials &. The Future
+    *   Coming Up The International Vote
+    *   Coming Up Hot On HuffPost Pollster
+    *   Coming Up The Splendid CapitalGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
