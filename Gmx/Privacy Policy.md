@@ -40,4 +40,4 @@ Do you need any help? Keep me logged in Main Navigation Mail Home Details Labs P
 *   Press Room
 *   GMX on Facebook
 
-© 2012 1&1 Mail &. Media Inc. All rights reserved. Portal version: 2.22.2.0 | Branding: gmxcom\[1\] | Server type: EU | Deployment type: LIVE | Host: jport-eu001 | SID: 2B5C6E9B88D510C27709C98EB28B6682.jport-eu001
+© 2012 1&1 Mail &. Media Inc. All rights reserved. Portal version: 2.22.2.0 | Branding: gmxcom\[1\] | Server type: US | Deployment type: LIVE | Host: jport-us012 | SID: 1C091A620982B19E9C394114525C1849.jport-us012
