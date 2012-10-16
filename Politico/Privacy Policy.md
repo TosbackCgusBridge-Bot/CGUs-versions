@@ -113,126 +113,129 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/16/2012 7:02 AM ET
+Updated: 10/16/2012 5:02 PM ET
 
-1.  1 CPD: Crowley shouldn't reinterpret questions
-2.  2 Conservatives target Catholic voters
-3.  3 Allen West's smashmouth politics
-4.  4 Report: White House considering retaliatory Libya strike
+1.  1 Candy Crowley to defy debate contract
+2.  2 CPD: Crowley shouldn't reinterpret questions
+3.  3 5 unmet Obama promises
+4.  4 5 things to watch at the debate
 5.  5 Crowley: 'I'm not a fly on the wall'
-6.  6 Lobbyists expect comeback with Mitt
-7.  7 VP debate transcript
-8.  8 Hillary: 'I take responsibility' for Benghazi
+6.  6 VP debate transcript
+7.  7 Obama counting on Ohio
+8.  8 Allen West's smashmouth politics
 9.  9 McGovern 'coming to the end'
-10.  10 Boehner agenda put to test
+10.  10 Conservatives target Catholic voters
 
-Updated: 10/16/2012 7:02 AM ET
-
-1.  1 CPD: Crowley shouldn't reinterpret questions
-2.  2 Crowley: 'I'm not a fly on the wall'
-3.  3 Conservatives target Catholic voters
-4.  4 Lobbyists expect comeback with Mitt
-5.  5 Report: White House considering retaliatory Libya strike
-6.  6 3 states that may decide the election
-7.  7 Inbox: Team Obama lays on guilt
-8.  8 VP debate transcript
-9.  9 Battleground Poll: Mitt more likable
-10.  10 Issa: State Dept. sitting on $2 billion-plus for embassy security
-
-Updated: 10/16/2012 7:02 AM ET
+Updated: 10/16/2012 5:02 PM ET
 
 1.  1 CPD: Crowley shouldn't reinterpret questions
 2.  2 Crowley: 'I'm not a fly on the wall'
-3.  3 Conservatives target Catholic voters
-4.  4 Lobbyists expect comeback with Mitt
-5.  5 Report: White House considering retaliatory Libya strike
-6.  6 3 states that may decide the election
-7.  7 VP debate transcript
-8.  8 Inbox: Team Obama lays on guilt
-9.  9 Battleground Poll: Mitt more likable
-10.  10 PPP Ohio poll: Obama 51, Romney 46
+3.  3 Candy Crowley to defy debate contract
+4.  4 Conservatives target Catholic voters
+5.  5 Lobbyists expect comeback with Mitt
+6.  6 VP debate transcript
+7.  7 Report: White House considering retaliatory Libya strike
+8.  8 3 states that may decide the election
+9.  9 Inbox: Team Obama lays on guilt
+10.  10 Battleground Poll: Mitt more likable
 
-Updated: 10/16/2012 7:02 AM ET
+Updated: 10/16/2012 5:02 PM ET
+
+1.  1 CPD: Crowley shouldn't reinterpret questions
+2.  2 Crowley: 'I'm not a fly on the wall'
+3.  3 Candy Crowley to defy debate contract
+4.  4 Conservatives target Catholic voters
+5.  5 Lobbyists expect comeback with Mitt
+6.  6 VP debate transcript
+7.  7 Report: White House considering retaliatory Libya strike
+8.  8 3 states that may decide the election
+9.  9 Inbox: Team Obama lays on guilt
+10.  10 Battleground Poll: Mitt more likable
+
+Updated: 10/16/2012 5:02 PM ET
 
 1.  1 Twitter frowns on Joe Biden's laugh
-2.  2 Inside the campaign: The Romney rebellion
-3.  3 CPD: Crowley shouldn't reinterpret questions
-4.  4 Debate Commission dismisses Raddatz-Obama connection
-5.  5 Angst grows among Obama backers
-6.  6 Paul Ryan pics spark dumbbell debate
-7.  7 Romney hits Obama on Big Bird focus
-8.  8 Crowley: 'I'm not a fly on the wall'
-9.  9 Unions struggle to help Obama
-10.  10 Conservatives target Catholic voters
+2.  2 CPD: Crowley shouldn't reinterpret questions
+3.  3 Debate Commission dismisses Raddatz-Obama connection
+4.  4 Angst grows among Obama backers
+5.  5 Paul Ryan pics spark dumbbell debate
+6.  6 Crowley: 'I'm not a fly on the wall'
+7.  7 Candy Crowley to defy debate contract
+8.  8 Unions struggle to help Obama
+9.  9 Conservatives target Catholic voters
+10.  10 Romney hits Obama on Big Bird focus
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/16/2012 7:02 AM ET
+Updated: 10/16/2012 5:02 PM ET
 
-1.  1 Pundits: Obama must 'show life'
-2.  2 5 unmet Obama promises
-3.  3 5 things to watch at the debate
-4.  4 McGovern 'coming to the end'
-5.  5 Debate cheat sheet: Houses, milk
-6.  6 Allen West's smashmouth politics
-7.  7 Unions bolster liberal super PACs
+1.  1 Poll: Obama leads Romney… among kids
+2.  2 O'Donnell PAC lives on mailing lists
+3.  3 Presidential debate: Questions and answers on tonight's event
+4.  4 Scalia's car ticketed at Union League
+5.  5 Presidential debate contract (full text)
+6.  6 A123 files for bankruptcy
+7.  7 Court won't block Ohio's early voting
+8.  8 Rolling Stone on what's 'hot'
+9.  9 Jesse Jackson Jr. says he's 'not well'
+10.  10 Debate rules guard against unscripted moments
 
-Updated: 10/16/2012 7:02 AM ET
+Updated: 10/16/2012 5:02 PM ET
 
-1.  1 Pundits: Obama must 'show life'
-2.  2 5 unmet Obama promises
-3.  3 5 things to watch at the debate
-4.  4 McGovern 'coming to the end'
-5.  5 Debate cheat sheet: Houses, milk
-6.  6 Allen West's smashmouth politics
-7.  7 Unions bolster liberal super PACs
-8.  8 Ex-GOP candidates still in debt
-9.  9 Romney latest GOPer to back USEC
-10.  10 Boehner agenda put to test
+1.  1 Poll: Obama leads Romney… among kids
+2.  2 O'Donnell PAC lives on mailing lists
+3.  3 Presidential debate: Questions and answers on tonight's event
+4.  4 Scalia's car ticketed at Union League
+5.  5 Presidential debate contract (full text)
+6.  6 A123 files for bankruptcy
+7.  7 Court won't block Ohio's early voting
+8.  8 Rolling Stone on what's 'hot'
+9.  9 Jesse Jackson Jr. says he's 'not well'
+10.  10 Debate rules guard against unscripted moments
 
-Updated: 10/16/2012 7:02 AM ET
+Updated: 10/16/2012 5:02 PM ET
 
-1.  1 Pundits: Obama must 'show life'
-2.  2 5 unmet Obama promises
-3.  3 5 things to watch at the debate
-4.  4 McGovern 'coming to the end'
-5.  5 Debate cheat sheet: Houses, milk
-6.  6 Allen West's smashmouth politics
-7.  7 Unions bolster liberal super PACs
-8.  8 Ex-GOP candidates still in debt
-9.  9 Romney latest GOPer to back USEC
-10.  10 Boehner agenda put to test
+1.  1 Poll: Obama leads Romney… among kids
+2.  2 O'Donnell PAC lives on mailing lists
+3.  3 Presidential debate: Questions and answers on tonight's event
+4.  4 Scalia's car ticketed at Union League
+5.  5 Presidential debate contract (full text)
+6.  6 A123 files for bankruptcy
+7.  7 Court won't block Ohio's early voting
+8.  8 Rolling Stone on what's 'hot'
+9.  9 Jesse Jackson Jr. says he's 'not well'
+10.  10 Debate rules guard against unscripted moments
 
-Updated: 10/16/2012 7:02 AM ET
+Updated: 10/16/2012 5:02 PM ET
 
-1.  1 Pundits: Obama must 'show life'
-2.  2 5 unmet Obama promises
-3.  3 5 things to watch at the debate
-4.  4 McGovern 'coming to the end'
-5.  5 Debate cheat sheet: Houses, milk
-6.  6 Allen West's smashmouth politics
-7.  7 Unions bolster liberal super PACs
-8.  8 Ex-GOP candidates still in debt
-9.  9 Romney latest GOPer to back USEC
-10.  10 Boehner agenda put to test
+1.  1 Poll: Obama leads Romney… among kids
+2.  2 O'Donnell PAC lives on mailing lists
+3.  3 Presidential debate: Questions and answers on tonight's event
+4.  4 Scalia's car ticketed at Union League
+5.  5 Presidential debate contract (full text)
+6.  6 A123 files for bankruptcy
+7.  7 Court won't block Ohio's early voting
+8.  8 Rolling Stone on what's 'hot'
+9.  9 Jesse Jackson Jr. says he's 'not well'
+10.  10 Debate rules guard against unscripted moments
 
 Showing Last 7 Days
 
-Updated: 10/16/2012 7:02 AM ET
+Updated: 10/16/2012 5:02 PM ET
 
-1.  1 Crowley: 'I'm not a fly on the wall'
-2.  2 Obama's slippery foreign oil promise
-3.  3 Rand Paul goes national
-4.  4 7 takeaways from the Danville debate
-5.  5 Joltin' Joe Biden wins the bout
-6.  6 Twitter frowns on Joe Biden's laugh
-7.  7 Biden goes after Ryan in VP debate
-8.  8 5 things to watch in VP debate
-9.  9 Angst grows among Obama backers
-10.  10 Inside the campaign: The Romney rebellion
+1.  1 5 unmet Obama promises
+2.  2 Crowley: 'I'm not a fly on the wall'
+3.  3 Obama's slippery foreign oil promise
+4.  4 Rand Paul goes national
+5.  5 7 takeaways from the Danville debate
+6.  6 Joltin' Joe Biden wins the bout
+7.  7 Twitter frowns on Joe Biden's laugh
+8.  8 Biden goes after Ryan in VP debate
+9.  9 5 things to watch in VP debate
+10.  10 Angst grows among Obama backers
 
 News
 
