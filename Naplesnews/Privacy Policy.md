@@ -435,25 +435,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 143 comments
-*   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 29 comments
-*   Lee sheriff's deputy, Naples man, child hospitalized in two-car crash Sunday Published 10/14/2012 at 12:15 p.m. 14 comments
-*   Brent Batten: Reticent Collier County manager not talking about Hiller Published 10/13/2012 at 4:00 p.m. 58 comments
-*   Taxpayers' $5 million given to Lee company leads to investigations, accusations Published 10/14/2012 at 7:30 a.m. 32 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 107 comments
+*   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 71 comments
+*   Swing state: Voter turnout the key to Obama, Romney victory Published 10/15/2012 at 5:30 a.m. 68 comments
+*   In the Know: What can and can't be recycled in Collier County? Published 10/15/2012 at 5:00 a.m. 12 comments
+*   City offers abandoned boat to salvage companies. owner still missing Published 10/15/2012 at 5:45 a.m. 6 comments
 
-Photo Galleries Catch of the Day: Oct. 3, 2012 Bikers for Babies 2012 Cleaning Up What Was Left Behind
+Photo Galleries Catch of the Day: Oct. 3, 2012 Bikers for Babies 2012 Horse Rescue of Southern Florida
 
-*   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 341 comments
-*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 143 comments
-*   Brent Batten: Reticent Collier County manager not talking about Hiller Published 10/13/2012 at 4:00 p.m. 58 comments
-*   Charter boat captain questions if city has valid Naples Bay speed signs Published 10/13/2012 at 7:30 a.m. 45 comments
-*   Letter: How clever Published 10/12/2012 at 4:00 a.m. 41 comments
+*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 195 comments
+*   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 357 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 107 comments
+*   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 71 comments
+*   Swing state: Voter turnout the key to Obama, Romney victory Published 10/15/2012 at 5:30 a.m. 68 comments
 
 *   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
 *   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 10 comments
 *   Stan's gone but his Goodland restaurant opens for season Published 10/8/2012 at 5:00 a.m. 6 comments
 *   Teachers take on kids' nutrition with a book set in Naples Published 10/9/2012 at 4:00 a.m. 0 comments
-*   Deputies: Woman denies ownership of marijuana in genitals, said she was protecting friends Published 10/5/2012 at 8:16 p.m. 65 comments
+*   Man killed in Marco crash. 22-year-old driver charged with fleeing scene Published 10/8/2012 at 11:53 a.m. 33 comments
 
 Weather
 
@@ -461,40 +461,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 74° Fog/Mist Wind: NE 8mph Today 87° 74° Mon 08:00 PM Partly Cloudy Showers Temp: 81° Tue 08:00 AM Partly Sunny Temp: 74° Tue 08:00 PM Partly Cloudy Temp: 79°
+Currently 74° Fair Wind: N 4mph Today 87° 73° Tue 08:00 PM Mostly Clear Temp: 80° Wed 08:00 AM Partly Sunny Temp: 74° Wed 08:00 PM Partly Cloudy Showers Temp: 77°
 
-Feels Like: 85°
+Feels Like: 84°
 
-Humidity: 72%
+Humidity: 79%
 
-Precip: 30%
+Precip: 5%
 
 Feels Like: 74°
 
-Humidity: 84%
+Humidity: 93%
 
-Precip: 20%
+Precip: 2%
 
-Feels Like: 79°
+Feels Like: 77°
 
-Humidity: 69%
+Humidity: 85%
 
-Precip: 10%
+Precip: 30%
 
 More Weather » Calendar
 
-*   Monday Oct 15
 *   Tuesday Oct 16
 *   Wednesday Oct 17
+*   Thursday Oct 18
 *   More BROWSE Icon
-
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Baby boot camp Miromar Outlets 9 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
-*   Exhibition Opening: Thy God/thy self" by Michele Guarino Naples Depot Museum 9 a.m.
-
-More Events »
 
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
@@ -509,6 +501,14 @@ More Events »
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   GIS Symposium: Inspiration Through Networking and Technology Rookery Bay Environmental Learning Center 8 a.m.
 *   Yoga at the Center for the Arts Center for the Arts of Bonita Springs 8 a.m.
+
+More Events »
+
+*   Networking breakfast Calistoga Bakery Cafe - North Naples 7:30 a.m.
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Alumni Hector Manley will speak at Seacrest Country Day School Seacrest Country Day School 8:30 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Macro Photography Class and Excursion Understand Photography Studio 9 a.m.
 
 More Events »
 
