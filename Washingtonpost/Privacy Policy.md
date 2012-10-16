@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Romney enthusiasm up, but likely...**  
-        Election 2012 | Dan Balz and Jon Cohen
+    *   **Giuliani says Obama foreign policy...**  
+        Election 2012 | Philip Rucker
     
-    *   **Digging into the Medicare clash**  
+    *   **Mitt Romneyâs ânew mathâ for his...**  
         The Fact Checker | Glenn Kessler
     
-    *   **Paul Ryanâs abortion response reflects...**  
-        She The People | Rahiel Tesfamariam
+    *   **Amanda Palmerâs got the world sharing...**  
+        She The People | Diana Reese
     
-    *   **Obamaâs âtrustworthyâ advantage...**  
-        The Fix | Chris Cillizza and Aaron Blake
+    *   **Democrat Tammy Baldwin outraises...**  
+        The Fix | Sean Sullivan
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,14 +46,14 @@
     
     Featured Blogs
     
-    *   **Lindsay Lohan and Wendyâs**  
+    *   **Glenn Beckâs jeans**  
         ComPost | Alexandra Petri
     
-    *   **Sunday Open Thread**  
-        The Plum Line | Greg Sargent
+    *   **Happy Hour Roundup**  
+        The Plum Line | Jonathan Bernstein
     
-    *   **Romneyâs Libya distraction**  
-        PostPartisan | Katrina vanden Heuvel
+    *   **Why are you giving to Romney and...**  
+        PostPartisan | Jonathan Bernstein
     
     *   **Morning Bits**  
         Right Turn | Jennifer Rubin
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **Forecast: Gusty showers today,...**  
-        Capital Weather Gang | Jason Samenow
+    *   **Forecast: Totally terrific Tuesday...**  
+        Capital Weather Gang | Matt Rogers
     
-    *   **âNuts About the Natsâ vs. âOrioles...**  
-        Going Out Gurus | Brandon Weigel and Alex Baldinger
+    *   **Howard Homecoming and Good Life...**  
+        Going Out Gurus | Fritz Hahn and Rhome Anderson
     
-    *   **Trial for officers in U-Md. beating**  
-        Crime Scene | Maggie Fazeli Fard
+    *   **Man convicted of first-degree murder...**  
+        Crime Scene | Justin Jouvenal
     
-    *   **Major GOP funder gives to Maryland...**  
-        Maryland Politics | John Wagner
+    *   **Vaâs McDonnell is on the road again**  
+        Virginia Politics | Errin Haines
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -100,14 +100,14 @@
     *   **Braden Holtby feels âfortunate...**  
         Capitals Insider | Washington Post Sports Editors
     
-    *   **Famous people react to RGIIIâs...**  
+    *   **White House press secretary on...**  
         DC Sports Bog | Dan Steinberg
     
-    *   **Lorenzo Alexander shines as Redskins...**  
+    *   **Pierre Garcon suffering from inflammation...**  
         The Insider | Mike Jones
     
-    *   **Mark DeRosa unsure about retirement...**  
-        Nationals Journal | James Wagner
+    *   **Nationals positional review, Part...**  
+        Nationals Journal | Adam Kilgore
 *   National In National
     
     *   Energy &. Environment
@@ -126,11 +126,11 @@
     *   **Daredevil becomes first to break...**  
         Ideas@Innovations | Emi Kolawole
     
-    *   **The test Biden and Ryan needed...**  
+    *   **Why politics and work donât mix**  
         PostLeadership | Jena McGregor
     
-    *   **Ryan: âI donât see how a person...**  
-        Under God | Georgetown/ On Faith
+    *   **Colo. bishop to Biden: No Communion**  
+        Under God | Georgetown/On Faith
 *   World In World
     
     *   Africa
@@ -145,17 +145,17 @@
     
     Latest Stories
     
-    *   **Syria accused of cluster bomb use**  
-        Karin Laub
+    *   **Egyptâs grass-roots Islamist revival**  
+        Abigail Hauslohner
     
-    *   **Iran says it will cut imports of...**  
-        Yeganeh Torbati
-    
-    *   **Syria accused of cluster bomb use...**  
-        Karin Laub
-    
-    *   **Putin party takes lead at polls**  
+    *   **Putinâs party sweeps elections**  
         Kathy Lally
+    
+    *   **Euro-zone crisis leads to boom...**  
+        James Wilson and Gerrit Wiesmann
+    
+    *   **Scots to vote on breaking from...**  
+        Anthony Faiola
 *   Business In Business
     
     *   Economy
@@ -173,13 +173,13 @@
     *   **Saving strategies, before and after...**  
         The Color of Money | Michelle Singletary
     
-    *   **Defense Secretary Panetta speaks...**  
+    *   **Sprint, SoftBank announce a deal...**  
         Post Tech | Hayley Tsukayama
     
     *   **The judicial jihad against the...**  
         Steven Pearlstein
     
-    *   **Wonkbook: A âcyber Pearl Harborâ?**  
+    *   **Wonkbook: Presidential Debate 2...**  
         Wonkblog | Ezra Klein
 *   Tech In Technology
     
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **TechBits: Quizlet**  
+    *   **Microsoft introduces Xbox Music**  
         Hayley Tsukayama
     
-    *   **Defense Secretary Panetta speaks...**  
+    *   **Sprint, SoftBank announce a deal...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Craft beer crashes the art gallery...**  
-        All We Can Eat | Greg Kitsock
+    *   **A book deal for Mrs. Wheelbarrow**  
+        All We Can Eat | Bonnie S. Benwick
     
     *   **Mo Yanâs Nobel Prize-winning writing...**  
         The Style Blog | Maura Judkis
     
-    *   **Explaining God without belief**  
-        On Parenting | Janice D'Arcy
+    *   **10 foods a kid should learn how...**  
+        On Parenting | Casey Seidenberg
     
-    *   **Michaele Salahi &. Neal Schon engaged**  
+    *   **Quoted: Mitt Romney on bad days**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,7 +240,7 @@
     *   **Art: Two Lichtenstein retrospectives**  
         Classical Beat | Anne Midgette
     
-    *   **âThe Walking Deadâ returns**  
+    *   **Tina Fey and Amy Poehler will host...**  
         Celebritology 2.0 | Jen Chaney
     
     *   **About 51 million people watch Biden-Ryan...**  
@@ -266,11 +266,11 @@
 
 In the News
 
-*   Arlen Specter
-*   Felix Baumgartner
-*   Nobel prize
-*   Sprint
+*   Debate
+*   Candy Crowley
+*   Poehler and Fey
 *   Michaele Salahi
+*   Giants
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -319,98 +319,82 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Presidential contest tight nationally ahead of second debate
+Charity president unhappy about Paul Ryan soup kitchen 'photo op' Amanda Palmer's got the world sharing health insurance hell at #InsurancePoll Romneyâs killer Sister Souljah move
 
-Dan Balz 
+Matt MIller 
 
-Felix Baumgartner lands after flying faster than the speed of sound
+French president pushing homework ban as part of ed reforms Europe to call for Google to be more transparent about data collection
 
-Emi Kolawole 
+Craig Timberg 
 
-Daredevilâs 24-mile jump from edge of space gives millions on Earth collective moment of awe
+First lady's motorcade involved in accident Wisconsin, the land of persuadable voters
 
-Associated Press 
+Joel Achenbach 
 
-How Obama bungled the Syrian revolution
+My son is schizophrenic. The âreformsâ that I worked for have worsened his life.
 
-Jackson Diehl 
+Paul Gionfriddo 
 
-Felix Baumgartner free falls from edge of space, breaking sound barrier
+Dana Milbank: Harry Reidâs hammer throw
 
-Emi Kolawole 
+Dana Milbank 
 
-Romney the product
+Bidenâs toxic victory
 
-E.J. Dionne Jr. 
+Michael Gerson 
 
-Tiny Azerbaijan unleashes pop-power against Iranâs mullahs
+Giuliani says Obama foreign policy is one of 'provocative weakness' U.S. Ambassador Susan Rice at center of storm over comments on attack in Benghazi
 
-Joby Warrick 
+Anne Gearan 
 
-Redskins vs. Vikings: Robert Griffin III leads Washington to 38-26 win
+GOP has itself to blame for Thompsonâs Kenya joke
+
+Jonathan Capehart 
+
+Our choice in Virginia: Tim Kaine for the U.S. Senate
+
+Editorial Board 
+
+Democrat Tammy Baldwin outraises Republican Tommy Thompson in Wisconsin Senate race Jesse Jackson Jr.: Political candidate and subject of many unanswered questions
+
+Manuel Roig-Franzia 
+
+First second of daredevilâs dive captures worldâs imagination
+
+Maura Judkis 
+
+Obamaâs second chance
+
+Eugene Robinson 
+
+Redskins juggle personnel on defense and reveal some helpful contributors
 
 Mark Maske 
 
-The marshmallow test, revisited Redskins-Vikings: For Robert Griffin III, a touchdown run for the ages
+Norodom Sihanouk dies at 89. former king led Cambodia through decades of strife
 
-Dave Sheinin 
-
-At second presidential debate, pressure will be on Obama
-
-Chris Cillizza 
-
-Carolyn Hax: Dealing with people who are just no good
-
-Carolyn Hax 
-
-Robert Griffin III learns to play it safe, which is dangerous for future opponents
-
-Jason Reid 
-
-"Saturday Night Live" does the vice presidential debate Facts about the amphibious Quadski set to go on sale in the next few weeks
-
-Associated Press 
-
-The BRIC rescue that wasnât
-
-Robert J. Samuelson 
-
-Flipping houses is once again a booming business
-
-Brady Dennis 
-
-Redskins vs. Vikings: Robert Griffin III dashes for glory and sends the fans home happy
-
-Mike Wise 
-
-Iranâs foreign ministry says country ready for flexibility at nuclear talks
-
-Associated Press 
-
-Shut up and play nice: How the Western world is limiting free speech
-
-Jonathan Turley 
+William Branigin 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Presidential contest tight nationally ahead of second debate
-    2.  Daredevil becomes first to break sound barrier without craft
-    3.  Daredevil's 24-mile jump from edge of space gives millions on Earth collective moment of awe
-    4.  How Obama bungled the Syrian revolution
-    5.  Felix Baumgartner free falls from edge of space, breaking sound barrier
+    1.  Charity president unhappy about Paul Ryan soup kitchen 'photo op'
+    2.  Amanda Palmer's got the world sharing health insurance hell at #InsurancePoll
+    3.  Romney's killer Sister Souljah move
+    4.  French president pushing homework ban as part of ed reforms
+    5.  Europe to call for Google to be more transparent about data collection
 *   Top Videos
-    1.  Felix Baumgartner successfully jumps from the edge of space
-    2.  Biden helps Obama get ready for the next debate
-    3.  The Vice Presidential debate in two minutes
-    4.  Election 2012: The path to 270 electoral votes
-    5.  Signs of hope for Malala Yousufzai
+    1.  Felix Baumgartner breaks sound barrier during record-setting skydive
+    2.  Felix Baumgartner successfully jumps from the edge of space
+    3.  The Takeaway: RGIII leads the Redskins to first home win after 8 losses
+    4.  Wisconsin: Swinging between the candidates
+    5.  The Dance of Life: The Concert
 *   Top Galleries
-    1.  Skydiver Felix Baumgartner breaks sound barrier
-    2.  Norodom Sihanouk, Cambodia's leader through decades of upheaval, dies
-    3.  Azerbaijan relishes its anti-Iran role
-    4.  Redskins defeat Vikings, 38-26
-    5.  A crowning recovery
+    1.  Distinguished homes
+    2.  Skydiver Felix Baumgartner breaks sound barrier
+    3.  Oorah! U.S. Marines in action
+    4.  Azerbaijan relishes its anti-Iran role
+    5.  Norodom Sihanouk, Cambodia's leader through decades of upheaval, dies
 
 Today's Paper
 
@@ -420,13 +404,13 @@ Today's Paper
 
 Live Discussions
 
-The 2012 vice presidential debate: Who won?
+Ask Boswell: Life after the Nats loss
 
-Q&A Transcript
+Live Q&A transcript
 
-Associate editor Bob Kaiser chatted with readers about the vice presidential debate.
+Sports Columnist Tom Boswell took your questions about the game 5 Nats loss and more.
 
-**11:00 AM** **Ask Boswell: Nationals, Redskins and more** **12:00 PM** **Dr. Gridlock** **12:00 PM** **Advice from Slate's 'Dear Prudence'** **2:00 PM** **Talk about Travel**
+**11:00 AM** **ComPost Live with Alexandra Petri** **12:00 PM** **Kids: Mommy My Tummy Hurts** **12:00 PM** **Tuesdays with Moron: Chatological Humor Update** **1:00 PM** **Eugene Robinson Live**
 
 **Weekly schedule, past shows**
 
