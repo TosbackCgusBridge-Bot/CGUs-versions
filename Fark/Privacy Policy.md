@@ -147,49 +147,49 @@ Headlines of the Week
 **From the Fark Shop:**
 
 *     
-    Pedrobear
+    Come At Me Brew 2
 *     
-    Flash - Mighty Wallet
+    Exterminate Me
 *     
-    Freeloader Fork
+    Indiana Bones - Zombies Who Didn't Keep Their Eyes Shut
 *     
-    Holiday Hound - Dog Tie
+    Resurrection of the Daleks Collector Set
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
 Two-Year-Old Girl Insults Kate Middle...  
-Man Cooked to Death in Horrific Workp...  
+Hilarious Wedding Bloopers Compilatio...  
 Is This What You Think it Is...?  
-The Most Unrealistic Sports Scenes in...  
+Man Cooked to Death in Horrific Workp...  
 More news at Scribol »  
   
   
-The Brink of Oblivion: Inside Nazi-Oc...  
-LIFE With First Ladies, From Eleanor...  
-Streisand: Early Photos of an Insecur...  
-Strangers to Reason: LIFE Inside a Ps...  
-More news at Life »  
+The Smartest Thing You'll Read About...  
+Oprah Winfrey Got The Terry Treatment...  
+Must Haves: 9 Perfect (And Colorful!)...  
+Beyonce To Perform At The Super Bowl...  
+More news at The Frisky »  
   
   
 We Show It ALL  
 Sexy Geeky Fun  
+Kathie Lee Drops Puppy  
 Daredevil FAILS  
-Comic-Con Cuties  
 More news at truTV »  
   
   
-Fuse Gameplay Preview Video From New...  
-WWE '13 Gameplay Preview From X-Play:...  
-Halo 4: Infinity Multiplayer Behind-T...  
-Microsoft Permanently Banning Halo 4...  
-More news at G4TV »  
+Rainn Wilson's Reddit AMA  
+Joel McHale Watch: SOA Tonight  
+More Vin Diesel Facebook Page  
+Rolling Stones Songs You're Not Sick Of  
+More news at UPROXX »  
   
 
 Also on Fark
 
-Main After their voracious appetite for bronto burgers made the dinosaurs go extinct, cavemen then had to start eating pandas ( mnn.com ) » (20 comments) Sports George lives in Nashua, NH. He has a job interview at a sports radio station. Before he goes, he decides to call into a show to go on a rant about Tom Brady being overrated. Radio station then tells "George from Nashua" to forget about that interview ( deadspin.com ) » (13 comments) Business Molasses truck spills all over the highway. Cops admit that the clean-up is going very slowly ( stuff.co.nz ) » (2 comments) Geek Every hour of TV shortens your life by 22 minutes. Numbers for FARK use still confidential ( news.com.au ) » (24 comments) Entertainment Rolling Stones choose Newark for their upcoming New York area 50th anniversary concert. Once again, Brooklyn can't get no satisfaction ( nydailynews.com ) » (2 comments) Politics Apparently 'Muppet-Gate' extends all the way to the UK ( dailymail.co.uk ) » (13 comments) Video A final recap of the Biden/Ryan debate with the best use of autotune, ever. (w/bonus geeky hot singing moderator) ( youtube.com ) » (7 comments)
+Main People who discontinue treatment for attention deficit hyperactivity disorder are ( abcnews.go.com ) » (37 comments) Sports Numerous game-changing bad calls go in the Yankees favor in the playoffs for years: "MLB doesn't need replay." One bad call goes against the Yankees that doesn't even change the outcome of the game: "ZOMFG WE MUST REPLACE UMPS WIHT ROBOTS111" ( msn.foxsports.com ) » (37 comments) Business What happens when Citigroup posts surprisingly strong quarterly results? Why the board forces the CEO out of course ( cnbc.com ) » (8 comments) Geek The Wii U Pro controller can collect dust for up to 80 hours on a single charge ( ign.com ) » (16 comments) Entertainment Trey Parker and Matt Stone sued for having the Lollipop King sodomized, choked, and otherwise belittled by a man who claims they based it off of his cartoon. Yes, almost five years after the episode aired ( huffingtonpost.com ) » (26 comments) Politics Amtrak lost $84,500,000 last year...from its snack bars alone. You'll get nothing and like it ( washingtonexaminer.com ) » (106 comments) Video Kitten: I fought the jar and the jar won ( courant.com ) » (6 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -199,5 +199,5 @@ Main After their voracious appetite for bronto burgers made the dinosaurs go ext
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 16 2012 08:00:33  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 16 2012 17:00:30  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
