@@ -95,15 +95,15 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Country Living advertisement
 
-*   **halloween**
+*   **chicken**
 
-*   **halloween decorations**
+*   **soup**
 
-*   **kitchens**
+*   **mushroom /**
 
-*   **bedrooms**
+*   **easy dessert**
 
-*   **living rooms**
+*   **soups**
 
 Home &. Decorating
 
