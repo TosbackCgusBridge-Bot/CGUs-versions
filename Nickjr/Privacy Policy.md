@@ -164,9 +164,9 @@ advertisement Unified Privacy Policy Sponsored Links Fresh Beats Greatest Hits
 
 Feel the beat of 20 get up &. dance hits for kids in one great collection! (AD)
 
-Free Dora Episode
+Share First with Dora
 
-Download "Big Sister Dora" for free when you visit Dora's Milestones shop (AD)
+Explore new things with your best pal Dora in her Milestones Shop @ Amazon (AD)
 
 New Bubble Guppies Game
 
