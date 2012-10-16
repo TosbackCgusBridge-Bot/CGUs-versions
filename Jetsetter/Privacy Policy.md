@@ -220,22 +220,6 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Kenwood Inn and Spa - Sonoma
-    
-    Starting Today 10/16 at 3pm EDT
-    
-*   Correntoso Hotel - Argentina
-    
-    Starting Today 10/16 at 3pm EDT
-    
-*   Faena Hotel Buenos Aires
-    
-    Starting Today 10/16 at 3pm EDT
-    
-*   Fiji Air &. Hotel Package For 2
-    
-    Starting Today 10/16 at 3pm EDT
-    
 *   Icon Hotel &. Lounge - Prague
     
     Starting Wednesday 10/17 at 3pm EDT
@@ -251,6 +235,22 @@ Upcoming Sales
 *   The Alex - New York City
     
     Starting Wednesday 10/17 at 3pm EDT
+    
+*   Hotel Lutetia - Paris
+    
+    Starting Thursday 10/18 at 3pm EDT
+    
+*   Aqua Wellness - Nicaragua
+    
+    Starting Thursday 10/18 at 3pm EDT
+    
+*   St Julien - Boulder
+    
+    Starting Thursday 10/18 at 3pm EDT
+    
+*   Vineyard Square Hotel - MA
+    
+    Starting Thursday 10/18 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
