@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
-Mitt Romney
+Town Hall Meetings
 
-Romney to get first question at debate
+How the town hall debate will work
 
-Libya
+Microsoft
 
-Clinton takes Obama off Libya hook
+How Microsoft's Surface Tablet Price Compares
 
 Politix
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 114,148 • Total comments across all topics: 188,191,389
+Comments made yesterday: 115,598 • Total comments across all topics: 188,234,603
 
 Copyright ©2012 Topix LLC
 
