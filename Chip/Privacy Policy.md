@@ -268,11 +268,11 @@ Preise und weitere Details geleakt
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 Facebook Privacy Watcher für Firefox 0.6.10 Beta Englisch Freeware
-*   2 Copy ShortURL für Firefox 1.5 Englisch Freeware
-*   3 AutoPager für Firefox 0.7.2.0 Englisch Freeware
-*   4 Reader for PC 2.0 Deutsch Freeware
-*   5 Network Meter 8.3 Englisch Freeware
+*   1 JonDoBrowser 0.2 Beta Deutsch Freeware
+*   2 Free Studio 5.7.6 Deutsch Freeware
+*   3 Dolphin Olympics 2 - Flipper meets Tony Hawk 2.0 Englisch Freeware
+*   4 Core Temp 1.0 RC4 Deutsch Freeware
+*   5 Schwarzbuch 2012 Deutsch Freeware
 
 ...mehr
 
@@ -298,11 +298,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Test: Panasonic TX-L47WT50E (47-Zoll-LCD-TV)
 *   Test: Sony Vaio SVT-1311W1E/S (Notebook)
 *   Test: Samsung Galaxy Note 2 (Handy)
 *   Die besten kostenlosen Horror-Games
 *   Alt gegen Neu: Die Vorteile der Handy-Vorgänger One X, Note und Co.
-*   Praxis-Test: Lenovo IdeaPad Yoga 13 (Notebook)
 
 ...mehr
 
@@ -346,8 +346,8 @@ Meistgelesene Themen
 *   Samsung SSDs gewinnen und alten Rechner neu lieben lernen
 *   Tastatur umstellen Englisch/Deutsch
 *   Facebook knacken leicht gemacht...
-*   POP3, IMAP, SMTP Einstellungen
 *   iPhone 5 bei Preis24.de gibt es n Hacken ?!
+*   GVU 2.07 virus entfernen
 
 ...mehr
 
