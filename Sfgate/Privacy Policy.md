@@ -1,6 +1,6 @@
 (skip this header)
 
-Tuesday Oct 16, 2012 5:06 AM PT
+Tuesday Oct 16, 2012 2:12 PM PT
 
 ° (change)
 
@@ -60,10 +60,10 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
+*   'Wreck-It Ralph' Muni photo booths
+*   'Evil Elmo' sighting in S.F.
+*   Travel with a 'quest'
 *   Poehler, Fey to host Globes
-*   'Tourist Trapped' at pumpkin fest
-*   Election endorsements
-*   Tragic cooking of tuna worker
 *   Giants playoff gear!
 
 *   Bay Area &. State
@@ -379,35 +379,25 @@ Ads by Yahoo! Photo Galleries
 *   Giants at Reds: Game 4
 *   Day in Pictures, Oct. 10, 2012
 
-*   Most Read
-*   |
 *   Most Commented
 *   |
 *   Most Emailed
 
-1.  UC law students held in bird beheading
-2.  Payback is sweet as Giants even series
-3.  Teen fatally shot by deputy in San Antonio
-4.  Giant eyeball on Fla. beach may be from swordfish
-5.  Max Wade to stand trial as adult
-6.  Injured Marco Scutaro avenges Matt Holliday takeout. SF Giants even NLCS
-7.  ‘Evil Elmo’ Sighting at Popular San Francisco Playground
-
 1.  Dean aghast at Vegas bird beheading
-2.  Port official blows $4,500 at strip club
-3.  Victims' advocates decry Mirkarimi outcome
-4.  Giants fall to Cards in NLCS opener, 6-4
-5.  Net sharpens divide over cop shootings
-6.  Study: Privatized Medicare would raise premiums
-7.  Beautification to slow 19th Avenue down
+2.  No soup for you: Ryan makes unauthorized stop at soup kitchen
+3.  Port official blows $4,500 at strip club
+4.  Victims' advocates decry Mirkarimi outcome
+5.  GOP lacks incentive to provide details
+6.  Clinton says consulate security her responsibility
+7.  Payback is sweet as Giants even series
 
-1.  UC law students held in bird beheading
-2.  Police release 21 names in Maine Zumba sex case
-3.  3-D printer turns out plastic guitar
-4.  'Ethel' review: Extraordinary Kennedy
-5.  Politician Mervyn Dymally dies at 86
-6.  Venice has less glamour, more clamor
-7.  Put a fresh twist on French classics
+1.  Faces of fear caught on haunted house camera
+2.  UC law students held in bird beheading
+3.  Warriors SF arena framework taking shape
+4.  Scutaro lauded for grit as well as play
+5.  Put a fresh twist on French classics
+6.  Picasso, Monets stolen in Dutch heist
+7.  3-D printer turns out plastic guitar
 
 loading... Latest News Videos From our homepage
 
@@ -421,20 +411,21 @@ loading... Latest News Videos From our homepage
 *   Scutaro MRI | Will Clark on slide
 
 *     
-    Frankie Frost, Associated Press / SF
+    Nightmares Fear Factory / CT
     
-    Max Wade to stand trial
+    Little shots of horror
     
-    Marin County teen accused of Lamborghini heist faces charges that include attempted murder.
+    Here's the haunted house that scares the daylights out of visitors, then photographs them.
     
 
 *     
-    Laura Morton, Special To The Chronicle / SF
+    Ben Margot, Associated Press / SF
     
-    S.F. honors Hearst's 125th
+    Payback for Scutaro
     
-    Tony Bennett, others hit Legion of Honor for 'Citizen Hearst' film screening and festivities. Photos
+    Baseball gods give him something to smile about after 'illegal' slide.
     
+*   Clark: Slide legal | S.F. wins
 
 *   Home
 *   News
