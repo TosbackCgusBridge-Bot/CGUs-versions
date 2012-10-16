@@ -34,7 +34,7 @@ Rolling Stone Skip to the content.
 *   •
 *   Women Who Rock
 *   •
-*   RS On the Road App
+*   RS on RDIO
 *   •
 *   RS Music News App
 
