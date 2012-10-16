@@ -62,7 +62,7 @@ Conditions générales d'utilisation Article Table des matières
         *   CCM sur votre site
         *   Etablir un lien
 
-Septembre 2012
+Octobre 2012
 
 *   Objet
 *   Mentions légales
