@@ -78,9 +78,9 @@ If you have any questions regarding this Privacy Policy or our information pract
 
 Popular Threads Powered by Disqus ReadWrite Start-Up
 
+*   Better Than Getting Rich Quick: Startup Geoloqi Gets A Deal For The Long Haul
 *   See Ya Later, Innovator: U.S. Turns Its Back On Foreign-Born Entrepreneurs
 *   Bravo's Silicon Valley: The Painful Truth Behind A Caricature Of Excess
-*   Why You Can't Settle For The "Minimum" In Your Minimum Viable Product
 *   More +
 
 ReadWrite Cloud
@@ -113,9 +113,9 @@ ReadWrite Enterprise
 
 ReadWrite Mobile
 
+*   The iPad Mini's Killer Feature = Price
 *   How Evil Is Your Smartphone?
 *   Saturday Night Live Sketch Skewers iPhone 5 And The Tech Press \[Video\]
-*   What Is The Real Impact Of Sprint's Japanese Lifeline?
 *   More +
 
 *   About
