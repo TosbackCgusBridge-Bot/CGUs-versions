@@ -42,7 +42,7 @@ AllThingsD
 
 *   View by Writer
 
-**Trending –** Apple Nabs Amazon A9 Exec Stasior to Run Siri — But Does Hire Signal a Bigger Move Into Search?  
+**Trending –** The $56 Million Man: Yahoo Confirms Hiring of Google’s De Castro as COO  
 
 Follow on Twitter »Subscribe on Facebook »Like on Facebook »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
 
