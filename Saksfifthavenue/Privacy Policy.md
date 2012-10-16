@@ -127,6 +127,7 @@ CONTACT US 24/7
 SHIPPING, RETURNS &. TAXES
 
 *   Domestic
+*   International
 *   Order Status &. Tracking
 
 SAKS CARD
