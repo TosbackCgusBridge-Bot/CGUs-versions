@@ -7,6 +7,8 @@ Back to Homepage Feedback |Order Status|My Account |Customer Service|Wish List |
 *   Kitchen &. Food
 *   For the Home
 *   Electronics
+*   Gifts
+*   Holiday Décor
 *   Clearance
 *   More
 
@@ -245,18 +247,11 @@ Home Decor
 *   Decorative Accents
 *   Flowers &. Houseplants
 *   Furniture
-*   Holiday &. Party
+*   Holiday Décor
 *   Indoor Lighting
 *   Mattresses
 *   Outdoor Living
 *   Rugs &. Mats
-
-Crafts &. Hobbies
-
-*   Collectibles
-*   Crafts &. Scrapbooking
-*   Pet Supplies
-*   Toys
 
 Home Improvement
 
@@ -300,11 +295,6 @@ Electronics
 *   Tablets &. eReaders
 *   Telescopes, Etc.
 *   Televisions
-
-Entertainment
-
-*   Books
-*   Movies &. Music
 *   Video Games
 
 Shop by Brand
@@ -327,6 +317,52 @@ Shop by Brand
 
 *   Electronics Forum
 *   Electronics Blogs
+
+Departments
+
+*   Beauty
+*   Electronics
+*   Fashion
+*   For the Home
+*   Jewelry
+*   Kitchen &. Food
+*   Shoes &. Handbags
+*   Toys
+
+More Gift Ideas
+
+*   Customer Choice Wish List
+*   Electronics Holiday Hot List
+*   Gift Cards
+*   Holiday Advice
+
+*   New Arrivals
+*   Customer Top Rated
+
+Departments
+
+*   Christmas
+*   Costumes
+*   Easter
+*   Fresh Balsam
+*   Gift Wrap
+*   Halloween
+*   Harvest
+*   Judaica
+*   St. Patrick's Day
+
+Shop by Brand
+
+*   Bethlehem Lights
+*   Candle Impressions
+*   Home Reflections
+*   Jim Shore
+*   Luminara
+*   Mr. Christmas
+*   Valerie Parr Hill
+
+*   New Arrivals
+*   Clearance
 
 Departments
 
