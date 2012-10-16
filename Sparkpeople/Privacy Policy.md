@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Ways To Improve Mood Resources
+*   Kids Healthy Lunch Ideas Resources
 
   
-Stay in Touch With SparkPeople **Quiz: How Well Do You Know Diabetes?**
+Stay in Touch With SparkPeople **'I Lost 16% Body Fat by Walking'**
 
-Find out how much you know about the prevention and management of type 2 diabetes.
+Kiki credits walking for her 47-pound weight loss and reduction to 30% body fat to date. Find out how walking helped her drop the pounds, mentally focus during law school, and reconnect with her husband.
 
 Read More
 
-*   What Do You Do For Emotional Eating ?
-*   Specific Tips to get through the Weekend
+*   Who Motivates you on Sparkpeople?
 *   Relationships and a Healthy Lifestyle
-*   Need Ideas for working out at home
-*   "New to me" foods
+*   What Do You Do For Emotional Eating ?
+*   Mindful baking?
+*   Specific Tips to get through the Weekend
 
-View Demo **Pendulum with Medicine Ball**  
-Swing your legs and have a ball with this core exercise! **Light Alfredo Pasta with Veggies**  
-Submitted By: **CHEF\_MEG**
+View Demo **Standing Advanced Hamstring Stretch**  
+Click on the picture to the left to find out more, and see an exercise demo **Strawberry, Spinach, &. Cottage Cheese Salad from Daisy® Brand**  
+Submitted By: **DAISY\_RECIPES**
 
-Even a lunch portion of fettuccine Alfredo has 800 calories and 48 grams of fat. Mine has less than 1/2 the calories, 1/5 the fat, and plenty of veggies, too. Full Recipe
+A delicious summer salad! Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
