@@ -125,10 +125,10 @@ Tell a friend:
 **Want Consumerist in your inbox?** Popular Posts
 
 *   Here Is A Downloadable Template For Opting Out Of PayPal Arbitration Clause
-*   Tuna Cannery Worker Cooked To Death In Massive Steam Oven
 *   Insurance Company Tells Daughter She Should Pay To Fix The Car That Killed Her Mom
-*   EA Atones For Years Of Anti-Customer Behavior By Accidentally Giving Away Thousands Of Games For Free
-*   Noodles And Company Takes My Complaint Seriously, Then Sort Of Stalks Me
+*   Tuna Cannery Worker Cooked To Death In Massive Steam Oven
+*   This Jug Of 20-Year-Old, Michael Jordan-Branded McDonald's BBQ Sauce Can Be Yours For $9,995
+*   I Have No Sandwich Delivery And Local Jimmy John's Loses Business Because Of Stupid Manager
 
 About Consumerist
 
