@@ -21,9 +21,9 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
+*   Presidential Debates
 *   Arab Crisis
 *   Campaign 2012
-*   TheBlaze TV
 
 Take Action About TheBlaze
 
@@ -250,9 +250,9 @@ Sections
 
 Hot Topics
 
+*   Presidential Debates
 *   Arab Crisis
 *   Campaign 2012
-*   TheBlaze TV
 
 More from TheBlaze
 
