@@ -91,7 +91,6 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Myrtle Beach
     *   New Orleans
     *   Northern New Jersey
-    *   Oklahoma City
     *   Omaha
     *   Orange County
     *   Orlando
@@ -103,8 +102,8 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Portland, Maine
     *   Providence
     *   Raleigh-Durham
-    
     *   Reno-Tahoe
+    
     *   Richmond
     *   Sacramento
     *   Salt Lake City
