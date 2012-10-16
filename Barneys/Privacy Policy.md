@@ -2,7 +2,7 @@ COMPLIMENTARY SHIPPING ON ALL US ORDERS
 
 See Details
 
-Log In Favorites Favorites My favorites (3) Most Loved Lanvin Quilted Amalia MM Bag Barneys New York Search
+Log In Favorites Favorites My favorites (3) Most Loved Yves Saint Laurent Tribute Barneys New York Search
 
 *   New Arrivals
     *   All New Arrivals
@@ -32,7 +32,7 @@ Log In Favorites Favorites My favorites (3) Most Loved Lanvin Quilted Amalia MM 
     *   Accessories
     
     *   LOOKBOOKS
-    *   Barneys New York Classics
+    *   Barneys New York Collection
     *   Women's Fall Designer
     
     Most Loved
@@ -110,7 +110,7 @@ Log In Favorites Favorites My favorites (3) Most Loved Lanvin Quilted Amalia MM 
     Lanvin Printed Python Platform _$855_ $339 _Sale_
 *   The window Insider Fashion Access Video
     
-    Party Pics: Barneys &. Vogue Celebrate ‘The Editor’s Eye’
+    Marcia Patmos Masters The Modern Wardrobe
     
 *   Trends
     
@@ -123,6 +123,11 @@ Log In Favorites Favorites My favorites (3) Most Loved Lanvin Quilted Amalia MM 
     *   MEN
     *   Black
     *   Army Green
+    *   The English Beat
+    
+    *   LOOKBOOKS
+    *   Barneys New York Collection
+    *   Women's Fall Designer
     
     Most Loved
     
