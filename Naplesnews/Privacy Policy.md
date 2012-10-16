@@ -143,6 +143,11 @@ Naples Daily News
 *   Cars
 *   Classified
 
+*   2012 Presidential Debate
+    
+    Participate in live chat &. watch live video of second presidential debate at 9 p.m. | Election 2012 »
+    
+
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -435,25 +440,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 107 comments
-*   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 71 comments
-*   Swing state: Voter turnout the key to Obama, Romney victory Published 10/15/2012 at 5:30 a.m. 68 comments
-*   In the Know: What can and can't be recycled in Collier County? Published 10/15/2012 at 5:00 a.m. 12 comments
-*   City offers abandoned boat to salvage companies. owner still missing Published 10/15/2012 at 5:45 a.m. 6 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 218 comments
+*   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 76 comments
+*   Watch the YouTube video: Youth football coach Dion Robinson punches referee Published 10/15/2012 at 10:42 p.m. 10 comments
+*   Naples Police Chief says no need to step up patrol of Pier Published 10/16/2012 at 6:00 a.m. 13 comments
+*   Republican VP candidate Paul Ryan to attend Naples fundraiser Thursday Published 10/15/2012 at 10:23 p.m. 20 comments
 
-Photo Galleries Catch of the Day: Oct. 3, 2012 Bikers for Babies 2012 Horse Rescue of Southern Florida
+Photo Galleries Historic Photos: Fort Jefferson at… Catch of the Day: Oct. 3, 2012 Barktoberfest 2012
 
-*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 195 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 218 comments
+*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 209 comments
 *   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 357 comments
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 107 comments
-*   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 71 comments
-*   Swing state: Voter turnout the key to Obama, Romney victory Published 10/15/2012 at 5:30 a.m. 68 comments
+*   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 76 comments
+*   Swing state: Voter turnout the key to Obama, Romney victory Published 10/15/2012 at 5:30 a.m. 78 comments
 
 *   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
 *   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 10 comments
 *   Stan's gone but his Goodland restaurant opens for season Published 10/8/2012 at 5:00 a.m. 6 comments
 *   Teachers take on kids' nutrition with a book set in Naples Published 10/9/2012 at 4:00 a.m. 0 comments
-*   Man killed in Marco crash. 22-year-old driver charged with fleeing scene Published 10/8/2012 at 11:53 a.m. 33 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 218 comments
 
 Weather
 
@@ -461,25 +466,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 74° Fair Wind: N 4mph Today 87° 73° Tue 08:00 PM Mostly Clear Temp: 80° Wed 08:00 AM Partly Sunny Temp: 74° Wed 08:00 PM Partly Cloudy Showers Temp: 77°
+Currently 85° Partly Cloudy Wind: W 9mph Today 88° 72° Wed 05:00 AM Partly Cloudy Temp: 75° Wed 05:00 PM Thunderstorms Temp: 81° Thu 05:00 AM Partly Cloudy Showers Temp: 74°
 
-Feels Like: 84°
+Feels Like: 75°
 
 Humidity: 79%
 
-Precip: 5%
+Precip: 10%
+
+Feels Like: 83°
+
+Humidity: 62%
+
+Precip: 30%
 
 Feels Like: 74°
 
-Humidity: 93%
+Humidity: 84%
 
-Precip: 2%
-
-Feels Like: 77°
-
-Humidity: 85%
-
-Precip: 30%
+Precip: 20%
 
 More Weather » Calendar
 
@@ -516,45 +521,21 @@ Loading...
 
 More Events » Features
 
-*   Our World
+*   Presidential Debate
     
-    Column looks at SW Florida through eyes of Daily News photojournalists.
+    Participate in live chat &. watch live video of second presidential debate at 9 p.m.
     
-    Football Rivalries
-    
-    Some high school football games are played for pride and bragging rights.
-    
-    Swing State
-    
-    On Nov. 6, voters will decide whether Florida will swing Red or Blue. Learn about project »
-    
-*   Biggest Catch
-    
-    See photos from local anglers with their biggest catch of the day. Submit your photos.
-    
-    f Interactive map
-    
-    Search for local farmers markets in Collier and Lee counties.
-    
-    Editorial Cartoons
-    
-    Check out our galleries of editorial cartoons about current events or personalities.
-    
-*   Cuties of the Week
-    
-    We want to see photos of your adorable kids and grandkids. Share your photos »
-    
-    Hot Home Sales
-    
-    Pictures, info about recently sold single-family homes in Collier and Lee.
-    
-    Reel Time Contest
-    
-    Answer questions &. upload your photo that displays your movie star image.
-    
-*   NewsMakers
+    NewsMakers
     
     Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
+    
+    2012 Halloween
+    
+    Search for local Halloween events &. enter our costume contest.
+    
+*   Hot Home Sales
+    
+    Pictures, info about recently sold single-family homes in Collier and Lee.
     
     Mugshots
     
@@ -563,6 +544,31 @@ More Events » Features
     Here's to our Heroes
     
     They put others before themselves. see problems &. solve them. Your nomination »
+    
+*   Football Rivalries
+    
+    Some high school football games are played for pride and bragging rights.
+    
+    Swing State
+    
+    On Nov. 6, voters will decide whether Florida will swing Red or Blue. Learn about project »
+    
+    Biggest Catch
+    
+    See photos from local anglers with their biggest catch of the day. Submit your photos.
+    
+    f
+*   Interactive map
+    
+    Search for local farmers markets in Collier and Lee counties.
+    
+    Editorial Cartoons
+    
+    Check out our galleries of editorial cartoons about current events or personalities.
+    
+    Our World
+    
+    Column looks at SW Florida through eyes of Daily News photojournalists.
     
 
 Useful Links:
