@@ -283,12 +283,12 @@ Any disputes regarding this Privacy Policy are subject to our User Agreement and
      
 E-mail Newsletters **FREE** e-mail Newsletters!  
 Choose from safety, health, cars, and more! **Already signed-up?**  
-Manage your newsletters here too. Consumer News AUTOMOTIVE NEWS  
-Emergency trunk release fails on our Lexus ES and GS A snapped lever could leave a trapped occupant with no way to escape. E-BOOK READER REVIEWS  
-Kindle and Nook e-book buyers to get money back A proposed legal settlement calls for a credit of up to $1.32 per book. WASHING MACHINE REVIEWS  
-Should you buy a front-loader or a top-loader? LG washers in our Ratings highlight the pros and cons of each type. HEALTH INSURANCE RANKINGS  
-Find a better plan during Medicare open enrollment Review your coverage every year because plans can change. HEADLIGHT CLEANER GUIDE  
-Keep your headlights burning bright as days grow shorter The rate of injury and death from motor-vehicle crashes is higher at night. Read More Connect Discuss products and safety with  
+Manage your newsletters here too. Consumer News TIRE REVIEWS  
+Should you go with studded or studless tires this winter? Studded models do indeed grip well on ice, but they are noisier on pavement. SET-TOP BOX REVIEWS  
+Boxee TV offers live TV and cloud-based DVR service You'll be able to get free over-the-air programming and cable channels. WASHING MACHINE REVIEWS  
+Should you buy a front-loader or a top-loader? LG washers in our Ratings highlight the pros and cons of each type. GPS NAVIGATOR REVIEWS  
+TomTom proves that a bad mount can spoil a good GPS Some of the company's mounts tend to pop off the device and windshield. APPLIANCE SAFETY  
+Advocates seek innovations to prevent cooking fires More than147,000 cooking-equipment-related fires happen yearly. Read More Connect Discuss products and safety with  
 subscribers and fans Follow us on: Mobile
 
 Get Ratings on the go and compare  
