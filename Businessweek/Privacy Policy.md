@@ -118,4 +118,4 @@ Links
 
 Get Businessweek Delivered Are You Better Off? Subscribe
 
-@2012 Bloomberg L.P. All Rights Reserved. Made in NYC Ad Choices
+©2012 Bloomberg L.P. All Rights Reserved. Made in NYC Ad Choices
