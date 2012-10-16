@@ -24,7 +24,7 @@ Nick.com
 *   MOVIES (ad)
 *   Club
 *   Stars
-*   MQ Swing Spot 10-9-2012
+*   KPP Swing Spot
 
 Log in | Join the Club Search Suggested Searches For Shows
 
