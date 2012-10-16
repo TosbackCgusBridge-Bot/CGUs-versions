@@ -197,20 +197,20 @@ Advertisement
 Don't Miss These:
 
 *   Bob Hairstyle Tips
-*   Delicious One-Dish Meals
-*   Create a Cozy Retreat
 *   Shop and Dress Slimmer
-*   Ways to Make Vet Visits Easier
-*   Want to Look Younger? Eat These
-*   Pretty Patterned Rooms
-*   Quick Pasta Dinners
-*   Women Who Changed Our World
+*   Top Beauty Buys Under $25
+*   Double Your Storage Spaces
+*   Fuss-Free Fall Decor
+*   Wallet-Friendly Ways to Stay Warm
+*   Eat to Look Younger
+*   Best Multi-Purpose Cleaners
 *   Keep Clutter At Bay
-*   Drop-a-Decade Style
-*   Eye-Catching Ways to Use Neutrals
-*   No-Carve Pumpkin Decorating
+*   Amazing Anti-Aging Beauty Secrets
 *   Looking Back: Veranda's Most Memorable Rooms
+*   Surfire Ways to Get You in the Mood
 *   The Great House at Greystone Estate
+*   Affordable Date-Night Ideas
+*   From Messy to Marvelous
 *   Design Secrets from the 2012 Kips Bay Showhouse
 
 Product Reviews Top-Rated Toothbrushes
