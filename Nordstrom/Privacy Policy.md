@@ -20,7 +20,8 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     
     *   Style Watch
     *   Our Blog
-    *   Fall Coat Hooks
+    *   Party Style Guide
+    *   Fall Coat Trend Guide
     *   Cold-Weather Trends
     *   Fall's Top 10
     
@@ -111,6 +112,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Style Watch
     *   Men's Shop Blog
     *   GQ Selects
+    *   Ultimate Coat Guide
     *   Boots 101
     
     *   All Men's
@@ -134,7 +136,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Polos
     *   T-Shirts
     *   Sweaters &. Fleece
-    *   Coats &. Outerwear
+    *   Coats &. Jackets
     *   Pants
     *   Jeans
     *   Shorts &. Swim
@@ -195,6 +197,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   BP. Fashion Board Blog
     *   Denim Guide
     *   Fall Trend Guide
+    *   Dress to Impress
     *   Haute Homecoming
     *   Top Trends
     
@@ -255,8 +258,10 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Complete Looks
     *   Kids' Brands
     *   Sale
+    *   Gift Cards
     
     *   Featured Shops
+    *   Toy Station
     *   Cold Weather
     *   Sleepwear
     *   Active
@@ -265,7 +270,6 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Jeans
     *   Sparkle &. Shine
     *   Sports Fan Gear
-    *   Surf &. Skate
     *   Weddings
     
     *   Girls
@@ -275,7 +279,6 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Little Girls (4-6X)
     *   Big Girls (7-16)
     *   Girls' Accessories
-    *   Toys, Books &. Costumes
     
     *   Boys
     *   Complete Looks
@@ -284,7 +287,6 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Little Boys (4-7)
     *   Big Boys (8-20)
     *   Boys' Accessories
-    *   Toys, Books &. Costumes
     
     *   Baby
     *   Complete Looks
@@ -375,6 +377,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Store Locator
     *   New Store Openings
 *   Specialty Shops
+    *   Holiday Decor
     *   Bed &. Bath
     *   Home Decor &. Entertaining
     *   Gifts
