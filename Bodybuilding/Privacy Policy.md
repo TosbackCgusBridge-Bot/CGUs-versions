@@ -483,9 +483,9 @@ Email: webmaster@bodybuilding.com
   
 Related Articles
 
-*   IFBB Pro Undercover #6.
-*   IFBB Pro Undercover #7.
-*   IFBB Pro Undercover #8.
+*   Pro Bodybuilding Worldwide Radio
+*   One Wild Night - Who Will Gatecrash The 2005 Olympia Party?
+*   Arnold Bodybuilding Encylopedia Review!
 
 *   View All Gossip And News Articles
 
