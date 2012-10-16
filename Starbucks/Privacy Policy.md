@@ -43,9 +43,10 @@ Navigation
         1.  100% Oahu Coffee
         2.  Brazil Peaberry Yellow Bourbon
         3.  Colombia Supremo Valley of Gold
-        4.  Jamaica Blue Mountain
-        5.  Panama Paso Ancho
-        6.  Starbucks Reserve® Sun-Dried Sumatra Rasuna
+        4.  Hawaii Ka'u
+        5.  Jamaica Blue Mountain
+        6.  Panama Paso Ancho
+        7.  Starbucks Reserve® Sun-Dried Sumatra Rasuna
     4.  Learn More
         
         1.  Learn About the Starbucks Roast
