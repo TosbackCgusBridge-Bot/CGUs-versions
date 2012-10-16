@@ -44,45 +44,43 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
-    *   Affordable Jewelry
-    *   Buco handbags
-    *   Ed Hardy Dresses
-    *   Fall Trend Report: Blue Shades
-    *   Fall essentials blowout
-    *   Hermes, Louis Vuitton, See by Chloe and more
-    *   Immoral Cosmetics Made in USA
+    *   Berek Women's Apparel
+    *   Blumarine, Mariella Burani Handbags and Accessories
+    *   Brand Too Hot to Mention: Designer Scarves
+    *   Cocktail Glam With Badgley Mischka
+    *   Earth Yoga Women's Apparel
     *   Jewelry Box must-haves
     *   Kenneth Cole Women's Outerwear
     *   L'Adore Women's Apparel
-    *   Sofragem Jewelry
+    *   Louis Vuitton Handbags
+    *   Moto Must Haves: Jackets and Boots
+    *   Must-Have Booties
+    *   Sparkle &. Shine: Jewelry Favorites
     *   Sweaters By Free People and More
-    *   Valentino, Herve Leger, Carrera Y Carrera and more
     *   _more..._
     *   men
-    *   Cartier, Ferre, Rolex, Ralph Lauren and more
     *   Kenneth Cole Men's Outerwear
     *   Men's Shop : Report Collection, Lauren by Ralph Lauren
     *   Men's Shop: Carrera Shoes
     *   _more..._
     *   other
-    *   Animal Hats
+    *   Aero Minerals ft. Spirit Spray
+    *   Calvin Klein Sunglasses
+    *   Italian watches from $25
     *   Tiffany &. Co.
-    *   Tonino Lamborghini Watches
     *   _more..._
 *   apparel
     *   women
+    *   Berek Women's Apparel
     *   Bonnie and Bill Cashmere sweaters
     *   Clothing under $49
+    *   Cocktail Glam With Badgley Mischka
+    *   Earth Yoga Women's Apparel
     *   Ed Hardy Dresses
-    *   Fall essentials blowout
-    *   Hermes, Louis Vuitton, See by Chloe and more
     *   Kenneth Cole Women's Outerwear
     *   L'Adore Women's Apparel
-    *   Leave Nothing But Footprints Women's Apparel
-    *   Margarita Saplala Women's Apparel Made in USA
-    *   Soul Revival, Cynthia Rowley, Dex, Trinity and more designer dresses
+    *   Moto Must Haves: Jackets and Boots
     *   Sweaters By Free People and More
-    *   Valentino, Herve Leger, Carrera Y Carrera and more
     *   _more..._
     *   men
     *   Kenneth Cole Men's Outerwear
@@ -96,41 +94,36 @@ Loading Modnique - Boutique Events
     *   Affordable Jewelry
     *   Designer Jewelry
     *   Fall Trend Report: Blue Shades
-    *   Finishing touch: white gold jewelry
-    *   Hermes, Louis Vuitton, See by Chloe and more
     *   Jewelry Box must-haves
     *   Jewelry Essentials: hoops
-    *   Michael Valitutti jewelry
-    *   On Trend: Disco Ball Bracelets and more
     *   Sofragem Jewelry
-    *   Valentino, Herve Leger, Carrera Y Carrera and more
-    *   _more..._
-    *   men
-    *   Cartier, Ferre, Rolex, Ralph Lauren and more
+    *   Sparkle &. Shine: Jewelry Favorites
     *   _more..._
     *   other
     *   Charriol Watches Made In Switzerland
     *   Crystal Necklace Designed In 925 Sterling Silver
-    *   Fendi, Gucci, Versace and more designer watches
+    *   Italian watches from $25
     *   Round Shaped Watches
     *   Tiffany &. Co.
     *   Tonino Lamborghini Watches
     *   _more..._
 *   Handbags &. Accessories
     *   women
+    *   Blumarine, Mariella Burani Handbags and Accessories
+    *   Brand Too Hot to Mention: Designer Scarves
     *   Buco handbags
     *   Designer Jewelry
-    *   Hermes, Louis Vuitton, See by Chloe and more
-    *   Sophia Visconti handbags
-    *   Valentino, Herve Leger, Carrera Y Carrera and more
+    *   Louis Vuitton Handbags
     *   _more..._
     *   other
     *   Animal Hats
+    *   Calvin Klein Sunglasses
     *   _more..._
 *   shoes
     *   women
-    *   Black Boots
     *   Flats under $19
+    *   Moto Must Haves: Jackets and Boots
+    *   Must-Have Booties
     *   _more..._
     *   men
     *   Men's Shop: Carrera Shoes
@@ -140,12 +133,14 @@ Loading Modnique - Boutique Events
     *   Immoral Cosmetics Made in USA
     *   _more..._
     *   other
+    *   Aero Minerals ft. Spirit Spray
     *   _more..._
 *   men
+    *   Aero Minerals ft. Spirit Spray
     *   Animal Hats
-    *   Cartier, Ferre, Rolex, Ralph Lauren and more
+    *   Calvin Klein Sunglasses
     *   Charriol Watches Made In Switzerland
-    *   Fendi, Gucci, Versace and more designer watches
+    *   Italian watches from $25
     *   Kenneth Cole Men's Outerwear
     *   Men's Shop : Report Collection, Lauren by Ralph Lauren
     *   Men's Shop: Carrera Shoes
