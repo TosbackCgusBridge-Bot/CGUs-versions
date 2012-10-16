@@ -222,9 +222,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Finding Your âNisheâ: Three Eye-Catching Coats from One Lovely Label
-    *   Street Style: Pattern Play
-    *   Quote of the Day: Edna Woolman Chase on Style
+    latest blog posts*   Itâs the Mash! Itâs the Modster Mash!
+    *   A Twin Peaks Fanzine? Oh, yes.
+    *   Finding Your âNisheâ: Three Eye-Catching Coats from One Lovely Label
     
     *   modcloth blog
     *   In Other Words
