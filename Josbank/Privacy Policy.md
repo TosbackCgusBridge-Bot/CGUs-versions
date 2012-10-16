@@ -3,8 +3,10 @@ Skip to content Skip to header Skip to main footer navigation
 *   Shop By:
 *   Tailored Fit
 *   Slim Fit
-*   FREE SHIPPING ON ALL ORDERS $195+◊
+*   \[Espot-FreeShip\] FREE SHIPPING ON ALL ORDERS $195+◊
 *   \[Espot-fly\_bkgrd\] Submit More Information \[Espot-fly\_open\]
+
+*   \[TopNav-eSpot\]
 
 *   Home
 *   Privacy Policy
@@ -91,7 +93,7 @@ Netscape Navigator
 *   Select "Enable all cookies".
 *   Click "OK".
 
-\[Espot-bttmLeft-bkgrd\] More Information
+\[Espot-bttmLeft-bkgrd\] More Information \[Espot-bttmRight\]
 
 FREE  
 SHIPPING
