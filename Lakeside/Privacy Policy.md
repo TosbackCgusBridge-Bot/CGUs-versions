@@ -837,7 +837,6 @@ Y*   Books + Media
         *   Travel Collection
         *   Lunch Totes
     *   open Home Improvement
-        *   Decorative Hardware
         *   Cleaning Supplies
         *   Household Helpers
         *   Pest Control
@@ -873,7 +872,6 @@ Y*   Books + Media
             *   Office Essentials
         *   open Decorative Accents
             *   Decorative Accents
-            *   Decorative Hardware
             *   Wall Art
     *   Electronics
     *   open Books + Media
