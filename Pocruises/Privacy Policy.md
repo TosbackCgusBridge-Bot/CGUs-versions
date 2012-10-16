@@ -6,7 +6,7 @@ Skip header
 *   Contact us
 *   Find a travel agent
 
-Skip main navigation Main menu Control Time: 1:10:19 PM Skip main navigation
+Skip main navigation Main menu Control Time: 10:17:12 PM Skip main navigation
 
 *   Home1
 *   Find &. book cruises
@@ -259,6 +259,7 @@ Cruise duration
 *   4 to 6 night cruises
 *   7 night cruises
 *   14 night cruises
+*   Christmas cruises
 *   Search all
 
 Cruise region
@@ -321,17 +322,15 @@ Destinations
 
 P&O Cruises experience
 
-*   Our heritage
+*   Why choose P&O Cruises
+*   Entertainment &. activities
+*   Going ashore
 *   Our service
-*   Dining
-*   Entertainment
-*   Shore excursions
-*   Family fun
-*   New to cruising
-*   Where we sail from
-*   Watch our videos
-*   Cruise travel magazine
-*   Christmas cruises
+*   Luxury accommodation
+*   Relaxed &. formal dining
+*   Family friendly cruising
+*   Spa &. wellbeing
+*   Great value
 
 How can we help?
 
@@ -360,6 +359,6 @@ Country In Session (from GeoIP Sniffer) = UK
 Show AU Content setting = True  
 X\_Forwarded\_FOR = 184.106.117.173  
 User IP = 10.35.0.246  
-SessionID = yduoum45b1s402u1rfikoz45  
-RenderTime = 00:00:00.4687500  
-Page rendered at 2012-10-16T13:10:19 Back to top of page
+SessionID = o5fgvoekr1dwma55qzq45s55  
+RenderTime = 00:00:00.5156217  
+Page rendered at 2012-10-16T22:17:12 Back to top of page
