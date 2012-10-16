@@ -312,15 +312,13 @@ Enter Keyword or Item # Search
     *   Seasonal Décor &. Gifts
     *   Bath
     *   Outdoor Living
-    *   Dining
     *   Furniture
     *   Kids' Home
     *   Totes &. Bags
-    *   Dogs Shop
+    *   Dog Shop
     *   Sale
 *   Luggage
     
-    *   New Arrivals
     *   Backpacks &. Lunch Boxes
     *   Totes
     *   Duffel Bags
