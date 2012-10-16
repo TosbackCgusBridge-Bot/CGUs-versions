@@ -50,17 +50,6 @@ $6.99 FLAT-RATE SHIPPING | GET COUPONS NOW! Log In / register My Wishlist My Car
     *   Truck
     *   Welding
     *   Woodworking
-*   Brands
-    *   Chicago Electric Power Tool
-    *   Pittsburgh Pro
-    *   Central Machinery
-    *   Central Pneumatic
-    *   Haul-Master
-    *   Central Hydraulics
-    *   Chicago Welding
-    *   Cen-Tech
-    *   U.S. General
-    *   Drill Master
 *   Inside Track Club
 *   Feedback
 
