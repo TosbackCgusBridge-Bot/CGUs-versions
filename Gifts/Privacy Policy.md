@@ -1,4 +1,4 @@
-Gifts.com Fall ContestsWin $1000 and More X Win $1000 and more! Pin a gift from Gifts.com for a chance to WIN IT! Well choose a winner every week to win the gift, up to a $100 value. Learn more. Learn More Giftee Awards: Nominate your favorite gifts &. you could win $1000 shopping spree! Learn more. Learn More
+Gifts.com Fall ContestsWin $1000 and More X Win $1000 and more! Pin a gift from Gifts.com for a chance to WIN IT! Well choose a winner every week to win the gift, up to a $100 value. Learn more. Learn More
 
 *   Men Shop by Occasion
     
