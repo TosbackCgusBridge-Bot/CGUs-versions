@@ -116,22 +116,22 @@ _Privacy Statement last updated February 15, 2010._
 Advertisement  
 
 *   Now Up on the PJ Media Homepage
-*   What is Vice President Biden Thinking? – New Photo Caption Contest
-*   \[Video\] Stephen Harper: Canadian PM Tells It Like It Is on Iran, Unlike Obama
+*   Obama Loves Him Some Obama — Caption Contest
+*   Real Guts: Malala – Girl Shot in Head by Taliban – in Video Interview
 
 More  
 
-*   The Djoker is Wild
-*   What’s a Bialy?
-*   Cash is Still King, Especially While Traveling
+*   How Tom Morello Ruined the Kennedy Center’s Woody Guthrie Tribute Concert
+*   Islam Vs Google
+*   7 Lies Women Need to Stop Telling Themselves
 
 More
 
+*   Gaming the Presidential Debate
+*   No, Hillary. Benghazi Will Not Go Away
 *   The Obama Breaking Point
-*   Welcome Back to the Woman Wars, Camille Paglia...
-*   Lines Crossed
 
-More   SANDUSKY ON THE THAMES:  The _New York Times_ reports, “Silence on Abuse Reports Plunges BBC Into Scandal:” ... BYRON YORK: GOP hopes soar as Romney rolls in Ohio. LOWER EDUCATION BUBBLE UPDATE: The AP Scam. “Fraudulent schemes come in all shapes and sizes. To work, they typically wear a patina of respectability. That’s the case with Advanced Placement courses, one of the great frauds currently perpetrated on American high-school students. That’s a pretty strong claim, right? You bet. But why not be straightforward when discussing a scam the scale and audacity of which would raise Bernie Madoff’s eyebrows? . . . It’s clear the College Board has the mentality of a voracious corporation, charging $89 a shot for an exam to millions of students who have no business taking it.” ... More Advertisement
+More   GAMING THE PRESIDENTIAL DEBATE. SCIENCE: How the Discovery of Penicillin Reshaped Modern Sexuality. “Regression analysis demonstrated that most measures of sexual behavior significantly increased immediately following the collapse of syphilis and most measures were significantly associated with the syphilis death rate. Together, the findings supported the notion that the discovery of penicillin decreased the cost of syphilis and thereby played an important role in shaping modern sexuality.” ... More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
