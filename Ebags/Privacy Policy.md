@@ -1,9 +1,10 @@
 Create Account  |  Your Account Sign In  
 Your Account  
+Manage Wishlist  
 Track Your Recent Orders  
 Manage Address Book  
 Manage Payment Methods  
- |  Order Tracking Join eBags Rewards Club Blog | Video | Brands Free Returns  
+ |  Order Tracking  |  Your Wishlist Join eBags Rewards Club Blog | Video | Brands Free Returns  
 Cart: 0 items
 
 *   Handbags
@@ -449,6 +450,7 @@ Help Center Topics
 *   Pricing &. Discounts
 *   Product Information
 *   Warranties &amp Repairs
+*   Wishlist
 *   Manage Your Account
 *   Contact Customer Care
 *   eBags Rewards Program
@@ -571,6 +573,7 @@ Customer Support
 *   Help Center
 *   Manage Your Account
 *   Track Your Order
+*   Manage Wishlist
 *   Easy Returns
 
 Give Us a Call
