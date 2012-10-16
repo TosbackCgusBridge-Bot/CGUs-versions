@@ -6,7 +6,7 @@ HomeArticlesCommunityMy Profile wikiHow:Terms of Use
 
 9 authors | 54 revisions | Last updated:
 
-August 25, 2011 Article Edit Discuss
+August 25, 2011 Jack Herrick, Tom Viren, Eric, Krystle, Flickety, Chris Hadley, DifuWu, Lewis Collard, Lojjik Braughler (see all) Article Edit Discuss
 
 Every site has its legal Terms of Use. The bottom of this page contains our "Terms of Use Agreement". Before you read it, you might want to first review our plain English guidelines to the wikiHow community:
 
@@ -175,9 +175,9 @@ Article Tools
 *   Email
 *   Edit
 
-**Thanks to all authors for creating a page that has been read 242,414 times.**
+**Thanks to all authors for creating a page that has been read 242,451 times.**
 
-Write An Article **Random Article** Featured Articles Adjust a Muffin Recipe for Jumbo Size Muffins Remove Coffee Stains from Wool Make a Rubber Band Guitar Create Hidden Watermarks in GIMP - collapse Things to Do
+Write An Article **Random Article** Featured Articles Bedazzle a Mirror With Costume Jewelry Call in Sick when You Just Need a Day Off Make the Chinese Staircase Bracelet Draw an Evil Pumpkin - collapse Things to Do
 
 *   Write an Article
 *   Request a New Article
