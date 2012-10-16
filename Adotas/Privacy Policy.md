@@ -67,13 +67,13 @@ Adotas.com RSS Feeds Follow Adotas.com on Twitter Follow Adotas on Facebook Adot
 
 Latest News
 
+*   Adblade for Lead Gen Enables Marketers to Reach, Engage and Convert Consumers _October 16th 2012_ NEW YORK (October 16, 2012) – Adblade, the ultra-premium ad \[...\] more »
+*   AutoTrader Turns to Skyword for Content Marketing Roll-Out _October 16th 2012_ BOSTON (October 16, 2012) – Skyword, a leading content production platform, today \[...\] more »
 *   Social on Heavy Rotation: Major Record Label Unveils New Interactive Website _October 16th 2012_ Music is all about reaching people through vibrations, words and \[...\] more »
 *   The Report Every Interactive Marketer Should Have _October 15th 2012_ By now you might have heard the mainstream media’s reduction \[...\] more »
 *   BBN Selects Visible Intelligence Platform to Power Social Media Listening Solution for B2B Marketers _October 15th 2012_ LAS VEGAS/DMA (October 15, 2012) — Visible Technologies®, a leader \[...\] more »
 *   Digitas Health Wins in Five MM&M Awards Categories _October 15th 2012_ PHILADELPHIA (October 10, 2012) – Digitas Health earned five awards \[...\] more »
 *   Report: Developers Might Dislike the iPad Mini Most of All _October 15th 2012_ With the introduction of the so-called iPad Mini expected to \[...\] more »
-*   Ex-HP, EDS Exec Mona Charif is New VP of Marketing at Dell Services _October 15th 2012_ PLANO, TEXAS (October 15, 2012) – Mona Charif will join \[...\] more »
-*   Bizo Launches Digital Marketing Remix, a Daily Resource for B2B Digital Marketers _October 15th 2012_ SAN FRANCISCO (October 15, 2012) – Bizo, the global leader in business \[...\] more »
 
 News Archive
 
