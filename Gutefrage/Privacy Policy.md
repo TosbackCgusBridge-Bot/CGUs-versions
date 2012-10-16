@@ -190,40 +190,44 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 82669 Arbeit 63783 Ausbildung 49328 Auto 89838 Beauty 68107 Beruf 76513 Beziehung 70713 Computer 530082 Computerspiele 63638 deutsch 66100 Englisch 51456 ErnÃ¤hrung 50145 essen 70378 Facebook 75906 Fernsehen 59661 Film 98682 Finanzen 58566 Freizeit 258806 FuÃball 50623 Games 122508 Geld 92276 Gesundheit 203255 Haare 81260 Handy 201284 Hilfe 145903 Internet 318638 iPhone 73986 Kinder 50391 KÃ¶rper 49125 Laptop 72354 Liebe 162553 Lied 53648 MÃ¤dchen 55228 Medizin 62025 Minecraft 66514 Musik 277290 PC 278248 PC-Spiele 47937 Problem 54209 PS3 59128 Recht 94202 Schule 231655 Software 56471 Spiele 135216 Sport 109460 Technik 119034 Tiere 64161 TV 53758 Video 51946 Youtube 81743 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 82724 Arbeit 63831 Ausbildung 49378 Auto 89894 Beauty 68172 Beruf 76563 Beziehung 70763 Computer 530513 Computerspiele 63687 deutsch 66143 Englisch 51493 ErnÃ¤hrung 50158 essen 70415 Facebook 75972 Fernsehen 59690 Film 98724 Finanzen 58579 Freizeit 259223 FuÃball 50649 Games 122621 Geld 92332 Gesundheit 203375 Haare 81347 Handy 201438 Hilfe 146021 Internet 318774 iPhone 74048 Kinder 50419 KÃ¶rper 49174 Laptop 72393 Liebe 162653 Lied 53675 MÃ¤dchen 55275 Medizin 62055 Minecraft 66574 Musik 277414 PC 278452 PC-Spiele 47971 Problem 54245 PS3 59173 Recht 94264 Schule 231927 Software 56496 Spiele 135321 Sport 109517 Technik 119100 Tiere 64201 TV 53788 Video 51992 Youtube 81805 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  sassbar
+1.  Locksmith
     
     Punkte:
     
-    1182
+    1592
     
     Level:
     
-    sassbar
+    Locksmith
     
-2.  Locksmith
-    
-    Punkte:
-    
-    728
-    
-3.  larry2010
+2.  Silbertuerkis
     
     Punkte:
     
-    628
+    1435
     
     Level:
     
-    larry2010
+    Silbertuerkis
+    
+3.  coeleste
+    
+    Punkte:
+    
+    1201
+    
+    Level:
+    
+    coeleste
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.255.865 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.261.818 gute Fragen_
 
-*   21 Es kann der frÃ¶mmste nicht in frieden leben....
-*   16 Kann man im luftleeren Raum die Schallmauer durchbrechen ?
-*   12 verletzte krÃ¤he gefunden, was kann ich tun?
+*   32 Es kann der frÃ¶mmste nicht in frieden leben....
+*   23 Kann man im luftleeren Raum die Schallmauer durchbrechen ?
+*   18 verletzte krÃ¤he gefunden, was kann ich tun?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
@@ -237,23 +241,23 @@ gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.930.684
+1.932.541
 
 Anzahl der Fragen
 
-8.255.160
+8.259.947
 
 Anzahl der Antworten
 
-35.920.392
+35.935.073
 
 Anzahl der Tipps
 
-74.152
+74.179
 
 Anzahl der Videos
 
-4.663
+4.670
 
 Blog
 
