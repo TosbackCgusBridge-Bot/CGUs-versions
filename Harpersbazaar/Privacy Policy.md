@@ -45,17 +45,17 @@ Taking Your Hair to the DarkOr LightSide This Season
 
 When it comes to fall hair color trends, there is no middle ground.
 
-CELEBRITY STYLE &. PARTIES   Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More!
+CELEBRITY STYLE &. PARTIES   Last Night's Parties: The Golden Heart Awards &. Acne Paper #14 Launch
+
+See who was on the New York scene.
+
+Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More!
 
 See who was on the scene.
 
 Vince and BAZAAR Toast A New Madison Avenue Store
 
 See pics from the dinner at the new store, hosted by Joanna Hillman.
-
-Shooting for the Stars: Chanel Fine Jewelry's 80th Anniversary
-
-See all the attendees at the anniversary for Chanel Fine Jewelry.
 
 *   Red Carpet Style
 *   Cover Stories
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR My List: Vera Wang in 24 Hours Street Style Star: Chic Coats A Date with Chanel: Miroslava Duma The Most Anticipated Hair Trends For Spring 2013 Taking Your Hair to the DarkOr LightSide This Season Saving Face Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More! Vince and BAZAAR Toast A New Madison Avenue Store Shooting for the Stars: Chanel Fine Jewelry's 80th Anniversary Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR My List: Vera Wang in 24 Hours Street Style Star: Chic Coats A Date with Chanel: Miroslava Duma The Most Anticipated Hair Trends For Spring 2013 Taking Your Hair to the DarkOr LightSide This Season Saving Face Last Night's Parties: The Golden Heart Awards &. Acne Paper #14 Launch Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More! Vince and BAZAAR Toast A New Madison Avenue Store Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
