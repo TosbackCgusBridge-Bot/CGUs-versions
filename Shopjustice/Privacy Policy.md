@@ -9,9 +9,9 @@ provided until after midnight ET of the day your package ships.
     *   hottest outfits
     *   dressy shop
     *   active outfits
-    *   MLB®
     *   NFL®
     *   college fan shop
+    *   cold weather
     *   novi stars™
     *   halloween shop
 *   clothes
@@ -24,42 +24,26 @@ provided until after midnight ET of the day your package ships.
     *   sweatpants
     *   yoga bottoms
     *   active outfits
+    *   sports fan gear
     *   pants
     *   jeans
     *   leggings
     *   shorts
     *   skirts &. skorts
     *   dresses
-    *   jackets &. vests
+    *   outerwear
     *   school uniforms
-*   school uniforms &. supplies
-    *   school uniforms
-    *   favorite basics
-    *   backpacks &. school supplies
 *   shoes
     *   boots
     *   casuals &. flats
     *   sneakers
-    *   sandals
-    *   flip flops
+    *   sandals &. flip flops
     *   slippers
     *   socks
     *   shoe laces
     *   all shoes
-*   swimwear
-    *   swimsuits
-    *   cover-ups
-    *   flip flops
-    *   sunglasses
-    *   all swimwear
-*   pjs, bras &. panties
-    *   pajamas
-    *   robes &. ponchos
-    *   panties
-    *   bras
-    *   slippers &. socks
 *   accessories
-    *   backpacks &. school supplies
+    *   winter accessories
     *   quilted bags
     *   bags &. totes
     *   jewelry
@@ -67,17 +51,47 @@ provided until after midnight ET of the day your package ships.
     *   hair accessories
     *   socks &. tights
     *   belts &. arm warmers
-    *   sunglasses
+    *   sunglasses &. cases
     *   all accessories
-*   fun &. gifts
-    *   room decor
-    *   beauty
-    *   toys &. crafts
+*   pjs, bras &. panties
+    *   pajamas
+    *   robes &. ponchos
+    *   panties
+    *   bras
+    *   slippers &. socks
+*   swimwear
+    *   swimsuits
+    *   cover-ups
+    *   flip flops
+    *   sunglasses
+    *   all swimwear
+*   beauty
+    *   make-up gift sets
+    *   nail polish &. kits
+    *   fragrance &. mist
+    *   lip gloss
+    *   hair color
+    *   spa accessories
+    *   all beauty
+*   room, tech &. toys
+    *   room accessories
     *   electronics
-    *   journals &. supplies
+    *   journals &. writing
+    *   toys &. crafts
     *   water bottles
-    *   plush
+    *   all room, tech &. toys
+*   gifts
+    *   gifts by price
+    *   most wanted gifts
+    *   stocking stuffers
+    *   gifts for your BFF
+    *   personalized gifts
+    *   gifts for the fashionista
+    *   gifts for the sporty girl
+    *   gifts for the glam girl
+    *   gifts for the dreamer
 *   clearance
+    *   stock up sale
     *   fall sale
     *   all sale &. clearance
 
