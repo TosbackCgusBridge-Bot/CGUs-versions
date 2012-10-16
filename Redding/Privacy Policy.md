@@ -174,6 +174,9 @@ Record Searchlight
 *   Cars
 *   Classified
 
+*   Join the LIVE Presidential debate coverage. Starting tonight at 6:00 pm
+    
+
 Privacy Policy Redding.com Privacy Policy
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
@@ -267,25 +270,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Jim Jones: Gas prices are just the start Published 10/15/2012 at 12:00 a.m. 155 comments
-*   UPDATED: Two women shot in Shingletown. detectives tight-lipped over case's "sensitivity" Updated 10/15/2012 at 4:51 p.m. 13 comments
-*   Former Redding man accused of killing exotic bird in Las Vegas Updated 10/15/2012 at 6:34 p.m. 38 comments
-*   UPDATED: 3-year-old killed Friday in Dairyville wreck, CHP says Updated 10/15/2012 at 1:43 p.m. 9 comments
-*   Iowa pair held in Trinity County drug bust. deputies find cash, marijuana during traffic stop Published 10/15/2012 at 9:23 a.m. 39 comments
+*   UPDATED: Two women shot in Shingletown. detectives tight-lipped over case's "sensitivity" Updated 10/15/2012 at 4:51 p.m. 18 comments
+*   Former Redding man accused of killing exotic bird in Las Vegas Updated 10/15/2012 at 6:34 p.m. 47 comments
+*   Jim Jones: Gas prices are just the start Published 10/15/2012 at 12:00 a.m. 169 comments
+*   Worker cooked at tuna plant Published 10/16/2012 at 12:49 a.m. 27 comments
+*   UPDATED: Double shooting investigated in Shingletown Updated 10/16/2012 at 8:09 a.m. 17 comments
 
-Photo Galleries Historic skydive from the edge of space Supersonic skydiving record attempt Enterprise beats Foothill
+Photo Galleries Enterprise beats Foothill Historic skydive from the edge of space Supersonic skydiving record attempt
 
-*   Ken Pereira: Nation needs more than Obama's smile Published 10/13/2012 at 12:00 a.m. 177 comments
-*   Jim Jones: Gas prices are just the start Published 10/15/2012 at 12:00 a.m. 155 comments
-*   Carmen Shoffner: America needs new awakening Published 10/13/2012 at 12:00 a.m. 107 comments
-*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 87 comments
-*   Richard Wrathall: We need more producers, fewer takers Published 10/15/2012 at 12:00 a.m. 72 comments
+*   Jim Jones: Gas prices are just the start Updated // at : 169 comments
+*   Redding police arrest alleged Stockton gang member, friends after shooting Updated // at : 87 comments
+*   Ken Pereira: Nation needs more than Obama's smile Updated // at : 177 comments
+*   Richard Wrathall: We need more producers, fewer takers Updated // at : 78 comments
+*   Fewer qualms for gun-rights groups over Romney now Updated // at : 63 comments
 
-*   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 54 comments
-*   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Published 10/13/2012 at 10:14 a.m. 34 comments
-*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 87 comments
-*   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 38 comments
-*   UPDATED: Sheriff: Teens burglarize Palo Cedro bank twice with tricks picked up from heist movies Published 10/7/2012 at 9:27 a.m. 64 comments
+*   Former Redding man accused of killing exotic bird in Las Vegas Updated 10/15/2012 at 6:34 p.m. 47 comments
+*   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Updated // at : 54 comments
+*   Redding police arrest alleged Stockton gang member, friends after shooting Updated // at : 87 comments
+*   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Updated 10/13/2012 at 2:28 p.m. 34 comments
+*   UPDATED: Sheriff: Teens burglarize Palo Cedro bank twice with tricks picked up from heist movies Updated 10/7/2012 at 10:17 a.m. 64 comments
 
 Weather
 
@@ -293,23 +296,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 66° A Few Clouds Wind: Calm Today 84° 58° Tue 05:00 PM Sunny Temp: 83° Wed 05:00 AM Clear Temp: 55° Wed 05:00 PM Sunny Temp: 87°
+Currently 84° Fair Wind: Calm Today 84° 52° Wed 02:00 AM Clear Temp: 57° Wed 02:00 PM Sunny Temp: 87° Thu 02:00 AM Clear Temp: 58°
 
-Feels Like: 81°
+Feels Like: 57°
 
-Humidity: 24%
-
-Precip: 20%
-
-Feels Like: 55°
-
-Humidity: 43%
+Humidity: 42%
 
 Precip: 0%
 
 Feels Like: 83°
 
 Humidity: 11%
+
+Precip: 0%
+
+Feels Like: 58°
+
+Humidity: 37%
 
 Precip: 0%
 
