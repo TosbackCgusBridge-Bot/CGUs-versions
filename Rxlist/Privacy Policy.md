@@ -295,11 +295,11 @@ Featured Topics
 
 New &. Updated
 
-*   Cystaran
-*   Cozaar
-*   Neoral
-*   Sandimmune
-*   Tbo-filgrastim
+*   Dexilant
+*   Imitrex
+*   Quillivant XR
+*   Tribenzor
+*   Zortress
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
