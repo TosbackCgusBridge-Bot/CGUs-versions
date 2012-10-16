@@ -7,7 +7,7 @@ globo.com
 *   assine já
 *   central globo.com
 
-*   notícias página principal › g1.globo.com
+*   notícias | notícias
     
     *   editorias
         *   Brasil
@@ -30,7 +30,6 @@ globo.com
         *   Eleições 2012
         *   Carnaval
         *   Revolta Árabe
-    
     *   seu estado
         *   Amazonas
         *   Bahia
@@ -53,11 +52,11 @@ globo.com
         *   Santa Catarina
         *   São Paulo
         *   Sergipe
+    
     *   jornais
         *   Extra
         *   O Globo
-    
-    *   rede globo ›
+    *   rede globo
         *   Bom Dia Brasil
         *   Bem Estar
         *   Jornal Hoje
@@ -66,6 +65,7 @@ globo.com
         *   Globo Repórter
         *   Globo Rural
         *   Fantástico
+    
     *   revistas
         *   Auto Esporte
         *   Crescer
@@ -73,11 +73,11 @@ globo.com
         *   Galileu
     *   rádio
         *   CBN
-    *   globo news ›
-    *   mais notícias ›
-*   esportes página principal › globoesporte.globo.com
+    *   globo news
+    *   mais notícias
+*   esportes | esportes
     
-    *   futebol nacional ›
+    *   futebol nacional
         *   Brasileirão Série A
         *   Brasileirão Série B
         *   Brasileirão Série C
@@ -85,16 +85,16 @@ globo.com
         *   Copa do Brasil
         *   Baú do Esporte
         *   Seleção Brasileira
-    *   futebol internacional ›
+    *   futebol internacional
         *   Eurocopa
         *   Liga dos Campeões
         *   Taça Libertadores
-    *   Futpédia ›
-    *   fórmula 1 ›
+    *   Futpédia
+    *   fórmula 1
         *   Calendário de provas
         *   Vídeos
+    *   Olimpíadas 2012
     
-    *   Olimpíadas 2012 ›
     *   \+ esportes
         *   Atletismo
         *   Basquete
@@ -106,35 +106,16 @@ globo.com
         *   Surfe
         *   Tênis
         *   Vôlei
-    *   SporTV ›
+    *   SporTV
         *   Cartolafc
         *   Bolão
         *   Vídeos do Brasileirão
+*   entretenimento | entretenimento
     
-    *   times - série a
-        *   Atlético GO
-        *   Atlético MG
-        *   Bahia
-        *   Botafogo
-        *   Corinthians
-        *   Coritiba
-        *   Cruzeiro
-        *   Figueirense
-        *   Flamengo
-        *   Fluminense
-        *   Grêmio
-        *   Internacional
-        *   Náutico
-        *   Palmeiras
-        *   Ponte Preta
-        *   Portuguesa
-        *   Santos
-        *   Sport
-        *   São Paulo
-        *   Vasco
-    *   mais esporte ›
-*   entretenimento página principal › etc.globo.com
-    
+    *   tvg
+        *   Estilo TV
+        *   Por Trás das Câmeras
+    *   mais tvg
     *   novelas
         *   Da Cor do Pecado
         *   Malhação
@@ -152,7 +133,6 @@ globo.com
         *   BBB
         *   Hipertensão
         *   The Voice Brasil
-    
     *   \+ rede globo
         *   Altas Horas
         *   A Grande Família
@@ -177,8 +157,8 @@ globo.com
         *   TV Xuxa
         *   Vídeo Show
         *   Zorra Total
-    *   mais rede globo ›
     
+    *   mais rede globo
     *   \+ entretenimento
         *   Bem Estar
         *   Canal Viva
@@ -199,8 +179,9 @@ globo.com
         *   Telecine
         *   Top TVZ
         *   Vogue
-    *   mais entretenimento ›
-*   tecnologia página principal › techtudo.globo.com
+    
+    *   mais entretenimento
+*   tecnologia | tecnologia
     
     *   tudo sobre
         *   Celulares
@@ -217,7 +198,6 @@ globo.com
         *   Curiosidades
         *   Reviews
         *   Fórum
-    
     *   em destaque
         *   Microsoft Surface
         *   iPhone 5
@@ -227,12 +207,13 @@ globo.com
         *   Samsung Galaxy S3
         *   Windows Phone 7
         *   Galaxy X
+    
     *   \+ tecnologia
         *   G1 Tecnologia e Games
         *   O Globo Tecnologia
         *   Época Ciência e Tecnologia
         *   Galileu Tecnologia
-*   vídeos página principal › globotv.globo.com
+*   vídeos vídeos
     
     *   canais
         *   Rede Globo
@@ -243,9 +224,9 @@ globo.com
         *   Canal Off
         *   Universal Channel
         *   Canal Brasil
+    *   para assinantes
     
-    *   para assinantes ›
-    *   mais vídeos ›
+    *   mais vídeos
 
 Política de segurança e privacidade globo.com
 
