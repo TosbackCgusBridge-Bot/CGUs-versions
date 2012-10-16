@@ -29,7 +29,7 @@ What's Your One Direction Theme Song?
 *   Fashion Videos
 *   Get Fashion Advice
 
-Homecoming Dresses Under $100
+17 Ways to Wear Plaid
 
 *   Virtual Makeover Tool
 *   Hair Ideas
@@ -99,10 +99,10 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     The 10 Coolest College Classes
 *   entertainment
     
-    Demi's Advice For Dealing With Rumors
+    One Direction Blowout
 *   fashion
     
-    17 Ways to Wear Plaid
+    Lea Michele's Fave Trends for Fall
 *   love
     
     Crush of the Week: Ryan Wieber
