@@ -142,19 +142,19 @@ The Privacy Statement posted on this site was updated in March, 2011.
 
 More from SI.com Latest News
 
-*   **Chris Burke:** Rodgers, Packers shred Texans and silence critics
-*   Cards hold off Giants in NLCS opener
-*   **BCS:** 'Bama at No. 1, Florida at No. 2
+*   **Jim Trotter:** Broncos rally past Chargers behind Manning at his very best
+*   Giants roll by Cards, tie NLCS at 1-1
+*   **Big blow to Ravens:** Lewis, Webb out for season
 
-Video Who saved themselves in Week 6? Headed for the hot seat SI Writers
+Video Verducci: Holliday's slide was reckless, not dirty Chris Mannix's Fast Breaks: Utah Jazz SI Writers
 
-*   **Ben Reiter:** Giants starters' struggles not a good sign for NLCS chances
-*   **Eric Mack:** Cowboys still alive, 49ers frustrate and more Week 6 fantasy observations
-*   **Joe Lemire:** Deadline pitching deals paying postseason dividends for Tigers
+*   **Ben Reiter:** Scutaro inspires Giants to key win in NLCS Game 2
+*   **Jim Trotter:** Broncos rally past Chargers behind classic Manning performance
+*   **Chris Mannix:** With Brooklyn dream finally a reality, Nets ready to compete
 
-SI Photos College Football Top 25 Review Boxing's Pound-for-Pound Top 15 2012 NASCAR Sprint Cup Winners  
+SI Photos Evander Holyfield's SI Covers 2012 WTA Champions Boxing's Pound-for-Pound Top 15  
 
-Hot Topics: NFL Week 6 MLB Playoffs Aaron Rodgers BCS Standings Fantasy Football Usain Bolt Swimsuit
+Hot Topics: Peyton Manning Peter King: Monday Morning QB MLB Playoffs Brooklyn Nets Heisman Watch Swimsuit
 
 *   SUBSCRIBE TO SI
 *   DIGITAL EDITION
