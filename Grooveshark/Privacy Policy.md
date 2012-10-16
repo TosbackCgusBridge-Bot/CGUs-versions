@@ -9,7 +9,7 @@ Grooveshark
 *   Help
 *   Listen Now
 
-Privacy Policy A quick word from our legal end
+Privacy Policy Our promise to our users
 
 **Privacy Policy**
 
@@ -119,6 +119,7 @@ Grooveshark has been awarded TRUSTe's Privacy Seal signifying that this privacy 
 
 *   Legal Overview
 *   Terms of Service
+*   Artist Profile Terms of Service
 *   Privacy Policy
 *   DMCA Takedown Policy
 *   DMCA Complaint Form
