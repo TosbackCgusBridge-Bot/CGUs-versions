@@ -85,9 +85,9 @@ Popular Threads Powered by Disqus ReadWrite Start-Up
 
 ReadWrite Cloud
 
+*   Cisco Execs Plumb The Limits Of Cloud Computing
+*   Why The Future Of Software And Apps Is Serverless
 *   The End Of "Cloud Computing?"
-*   Larry Ellison Has Some Strange Ideas About Cloud Computing
-*   Why Microsoft Is Tying B&N's Nook To Windows, Office And Bing
 *   More +
 
 ReadWrite Biz
@@ -99,9 +99,9 @@ ReadWrite Biz
 
 ReadWrite Hack
 
+*   ReadWriteWeb DeathWatch: Flash
 *   Meet Hop The Robot Suitcase, Your New Travel Companion
 *   Would You Take A Tech Job That's Been Open For 6 Months?
-*   Browser Makers Cooperate On Support For Multi-Platform Web Development
 *   More +
 
 ReadWrite Enterprise
