@@ -17,6 +17,7 @@ Etsy
     *   Etsy News
     *   Seller Handbook
 *   Mobile
+*   Gift Cards
 
 *   Help
 
