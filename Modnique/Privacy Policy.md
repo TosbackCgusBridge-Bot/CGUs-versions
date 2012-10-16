@@ -44,54 +44,49 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
-    *   Bonnie and Bill Cashmere sweaters
-    *   Clothing under $49
+    *   Affordable Jewelry
+    *   Buco handbags
     *   Ed Hardy Dresses
     *   Fall Trend Report: Blue Shades
     *   Fall essentials blowout
-    *   Flats under $19
     *   Hermes, Louis Vuitton, See by Chloe and more
     *   Immoral Cosmetics Made in USA
     *   Jewelry Box must-haves
-    *   Jewelry Essentials: hoops
+    *   Kenneth Cole Women's Outerwear
     *   L'Adore Women's Apparel
-    *   Michael Valitutti jewelry
-    *   Soul Revival, Cynthia Rowley, Dex, Trinity and more designer dresses
-    *   Valentino, Tiffany, Herve Leger, Carrera Y Carrera and more
-    *   Yellow gold jewely blowout
+    *   Sofragem Jewelry
+    *   Sweaters By Free People and More
+    *   Valentino, Herve Leger, Carrera Y Carrera and more
     *   _more..._
     *   men
     *   Cartier, Ferre, Rolex, Ralph Lauren and more
-    *   Mens shop: Carrera shoes
+    *   Kenneth Cole Men's Outerwear
+    *   Men's Shop : Report Collection, Lauren by Ralph Lauren
+    *   Men's Shop: Carrera Shoes
     *   _more..._
     *   other
-    *   Charriol Watches Made In Switzerland
-    *   Round Shaped Watches
-    *   SMET Kids Apparel
+    *   Animal Hats
+    *   Tiffany &. Co.
+    *   Tonino Lamborghini Watches
     *   _more..._
 *   apparel
     *   women
     *   Bonnie and Bill Cashmere sweaters
     *   Clothing under $49
-    *   Diane Von Furstenberg Women's Apparel
     *   Ed Hardy Dresses
     *   Fall essentials blowout
-    *   Fall must-haves: designer outerwear sale
-    *   Flats under $19
     *   Hermes, Louis Vuitton, See by Chloe and more
-    *   Kier+J Women's Apparel
+    *   Kenneth Cole Women's Outerwear
     *   L'Adore Women's Apparel
-    *   La Class Women's Apparel
     *   Leave Nothing But Footprints Women's Apparel
     *   Margarita Saplala Women's Apparel Made in USA
-    *   Miss Finch Women's Apparel
-    *   Montereggi &. Victory Winter Outerwear Collection
     *   Soul Revival, Cynthia Rowley, Dex, Trinity and more designer dresses
-    *   Stretta Women's Apparel
-    *   Valentino, Tiffany, Herve Leger, Carrera Y Carrera and more
+    *   Sweaters By Free People and More
+    *   Valentino, Herve Leger, Carrera Y Carrera and more
     *   _more..._
     *   men
-    *   Men's Shop: Ike Behar and Bonnie and Bill Sweaters
+    *   Kenneth Cole Men's Outerwear
+    *   Men's Shop : Report Collection, Lauren by Ralph Lauren
     *   _more..._
     *   other
     *   SMET Kids Apparel
@@ -99,76 +94,65 @@ Loading Modnique - Boutique Events
 *   Jewelry &. Watches
     *   women
     *   Affordable Jewelry
-    *   Ateliers Saint Germain Jewelry Made in Monaco
     *   Designer Jewelry
     *   Fall Trend Report: Blue Shades
     *   Finishing touch: white gold jewelry
-    *   Gemstone Silver jewelry deals
-    *   Handmade in Italy: Enzo Liverino, Feludei, Koesia, Rosato and more
     *   Hermes, Louis Vuitton, See by Chloe and more
     *   Jewelry Box must-haves
     *   Jewelry Essentials: hoops
     *   Michael Valitutti jewelry
     *   On Trend: Disco Ball Bracelets and more
-    *   Valentino, Tiffany, Herve Leger, Carrera Y Carrera and more
-    *   Yellow gold jewely blowout
+    *   Sofragem Jewelry
+    *   Valentino, Herve Leger, Carrera Y Carrera and more
     *   _more..._
     *   men
     *   Cartier, Ferre, Rolex, Ralph Lauren and more
     *   _more..._
     *   other
     *   Charriol Watches Made In Switzerland
-    *   Diamond Time
+    *   Crystal Necklace Designed In 925 Sterling Silver
     *   Fendi, Gucci, Versace and more designer watches
-    *   Ladies Diamond Necklace Designed In 925 Sterling Silver
     *   Round Shaped Watches
+    *   Tiffany &. Co.
+    *   Tonino Lamborghini Watches
     *   _more..._
 *   Handbags &. Accessories
     *   women
+    *   Buco handbags
     *   Designer Jewelry
-    *   Elise Hope Handbags
     *   Hermes, Louis Vuitton, See by Chloe and more
-    *   Michael Kors Handbags
     *   Sophia Visconti handbags
-    *   Valance Women's Gloves
-    *   Valentino, Tiffany, Herve Leger, Carrera Y Carrera and more
-    *   _more..._
-    *   men
-    *   Men's Shop: Joseph Abboud Wallets &. Cufflinks
+    *   Valentino, Herve Leger, Carrera Y Carrera and more
     *   _more..._
     *   other
-    *   Michael Kors sunglasses
-    *   Venetian Masks
+    *   Animal Hats
     *   _more..._
 *   shoes
     *   women
     *   Black Boots
-    *   It's all in the details: Bows
+    *   Flats under $19
     *   _more..._
     *   men
-    *   Mens shop: Carrera shoes
+    *   Men's Shop: Carrera Shoes
     *   _more..._
 *   beauty
     *   women
-    *   Belletto Studio Cosmetics Made In USA
     *   Immoral Cosmetics Made in USA
     *   _more..._
-    *   men
-    *   Men's Fragrances: Gucci, Guerlain, Boucheron and more
+    *   other
     *   _more..._
 *   men
+    *   Animal Hats
     *   Cartier, Ferre, Rolex, Ralph Lauren and more
     *   Charriol Watches Made In Switzerland
-    *   Diamond Time
     *   Fendi, Gucci, Versace and more designer watches
-    *   Men's Fragrances: Gucci, Guerlain, Boucheron and more
-    *   Men's Shop: Ike Behar and Bonnie and Bill Sweaters
-    *   Men's Shop: Joseph Abboud Wallets &. Cufflinks
-    *   Mens shop: Carrera shoes
-    *   Michael Kors sunglasses
+    *   Kenneth Cole Men's Outerwear
+    *   Men's Shop : Report Collection, Lauren by Ralph Lauren
+    *   Men's Shop: Carrera Shoes
     *   Round Shaped Watches
     *   SMET Kids Apparel
-    *   Venetian Masks
+    *   Tiffany &. Co.
+    *   Tonino Lamborghini Watches
     *   and many more...
 *   gifts
 *   daily deal
