@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Texas schools using chips to track students
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: UK PM urges Israel to give Iran sanctions time
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Scott Halleran / Getty Images Packers' demise? Not so fast ...
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Harry How / Getty Images A tale of two halves in San Diego
     
-    PFT: Aaron Rodgers was laser-sharp, Green Bay's defense solid and the result — a 42-24 win against previously unbeaten Houston — was what people expected from Packers all along.
+    The first half belonged to the Chargers. The second half was stolen lock, stock and lightning bolt logo by Peyton Manning and the Broncos defense as Denver roared back from a 24-0 deficit to win 35-24 Monday night in San Diego.
     
-    Rodgers picks apart Texans   |  Highlights Giants put whipping on 49ers   |  Giant statement How do 49ers, Patriots rebound from losses? PFT: Dez Bryant must 'step up and be a man' Ravens hit hard by injuries Seahawks shock Pats   |  Brady mocked on Twitter Falcons stumble to win, stay undefeated RG3 runs wild vs. Vikings   |  Bills win in OT Ad
+    PFT: QBs made all the difference on MNF PFT: Ray Lewis out for season  |  Retirement? PFT: Report: Fujita's neck injury may be career-ending PFT: Lions' Best still not ready to return Who gets the blame in Dallas? Dallas RB Murray badly hurt?  |  Dez snubs critics Watt explains his rise — and his amazing vert PFT: Packers lose starting LB for season Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Thearon W. Henderson / Getty Images What happened to the offenses?
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Christian Petersen / Getty Images Giants strike back, even NLCS
     
-    HBT: We've seen dramatic games during baseball's postseason, but the hitting has been beyond atrocious. One can only credit good pitching so much.
+    The Giants' Angel Pagan hit a solo homer in the first and San Francisco added four runs in the fourth with the help of two Cardinals errors to give the Giants a lead they'd never relinquish in Game 2 of the NLCS on Monday.
     
-    HBT: Cards start fast, hold off Giants in Game 1 Cardinals slug Giants, take Game 1 of NLCS HBT: Freese's postseason still red hot HBT: Bumgarner's issues a big problem for Giants Tigers put Yanks in 0-2 hole   |  Girardi irate HBT: Cano's 0-for-26 skid a postseason record HBT: Yanks' Coke shows anyone can pitch 9th HBT: Ump admits bad call. Girardi calls for replay Ad
+    HBT: X-rays negative on Scutaro's  |  'Bush play' HBT: Vogelsong holds St. Louis in check CSN's Ratto: Giants played like Giants in Game 2 HBT: Giants leaning toward Lincecum for Game 4 HBT: Angels hire Joyner as assistant coach HBT: Yankees may start Brett Gardner HBT: Bronx boos hurt 'sensitive guy' Swisher HBT: Jeter might need surgery for broken ankle Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Eric Thayer / Reuters Could NHL learn from baseball?
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Justin K. Aller / Getty Images Labor talks to resume Tuesday
     
-    PHT: Donald Fehr’s role in labor negotiations for the NHLPA gets people thinking about the past, as in the role he had in the 1994 MLB players’ strike that led to the cancellation of the World Series.
+    The NHL and locked-out players' union will resume negotiations Tuesday in Toronto after a four-day break following two days of meetings last week.
     
-    NHL.com: Sabres unveil French Connection statue No lockout here: Ice age starting in central PA PHT: Bargaining session set for Tuesday PHT: Jackets willing to give Davidson full control PHT: Gonchar thinks Ovechkin might stay in Russia NHL.com: U.S. Hall ceremony Monday PHT: What Quebec's new arena will look like NHL.com: Ex-Rangers, Knicks share bond Ad
+    PHT: Leave if you don't like it, LaFleur tells players PHT: Crosby's agent eyes world tour of stars Final OKs given for Seattle arena deal PHT: Could NHL learn from baseball's example? NHL.com: Sabres unveil French Connection statue No lockout here: Ice age starting in central PA PHT: Jackets willing to give Davidson full control PHT: Gonchar thinks Ovechkin might stay in Russia Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Jesse D. Garrabrant / Getty Images Contributor Is Dirk's knee the smoking gun?
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Elise Amendola / AP Terry already hates Heat, Lakers
     
-    Mailbag: Dirk Nowitzki's knee problem may not be what inspired Deron Williams to spurn the Mavs and re-up with the Nets. But latching your long-term wagon to a team led by an aging star just might not be the best move.
+    PBT: Jason Terry loves being a Celtic. He’s getting fresh Celtics ink. He’s hanging with the fine folks of Boston and working on the accent. He’s having fun in a city that embraces its team like few others. Oh, and he’s hating the Heat and Lakers.
     
-    PBT: Nowitzki has knee drained again PBT: Just stop — Calderon not headed to Lakers PBT: McGrady says goodbye to fans on Facebook Clippers beat Heat in Shanghai Witherspoon leads Spurs past Rockets PBT: Why take ball out of Nash's hands? PBT: Smush Parker says Kobe was bad teammate PBT: Kobe baffled by Kwame's big deal with 76ers Ad
+    PBT: Dirk still has no plans for surgery Mailbag: Is Dirk's knee the D-Will smoking gun? PBT: Marvel's LeBron comic book is out there PBT: Just stop — Calderon not headed to Lakers PBT: Jalen Rose joining 'NBA Countdown' PBT: McGrady says goodbye to fans on Facebook Final OKs given for Seattle arena deal PBT: Rapper, 76-year-old man try out for D-league Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Kevin C. Cox / Getty Images BCS rankings have SEC flavor
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Darron Cummings / AP Manti Te'o gets into the mix
     
-    CFT: Alabama, Florida are 1-2 in initial rankings, followed by Oregon, Kansas State and Notre Dame. Four more SEC schools are in the top 11.
+    Special feature: Notre Dame's star linebacker is too good to ignore this week, especially when West Virginia's Geno Smith struggled. Rank your picks.
     
-    CFT: Tide unanimous No. 1 in both major polls CFT: 'Bama hopes McCarron injury not serious Heisman Hopefuls: ND's Te'o gets into the mix CFT: Texas takes a big step back with lopsided loss West Virginia's defense absent in lopsided loss Unbeaten Buckeyes seeking answers after latest win LSU, South Carolina, still eying titles After dominating Texas, Sooners surge into top 10 Ad
+    CFT: Saban says quarterback McCarron is OK CFT: Kill to resume Gopher activities today CFT: W.Va. was 'cockiest… team I have ever seen' CFT: First BCS rankings have SEC flavor CFT: Tide unanimous No. 1 in both major polls CFT: Willingham a Stanford assistant golf coach CFT: Texas takes a big step back with lopsided loss West Virginia's defense absent in lopsided loss Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines What We Learned: Rose coming into bloom
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Singh will have a new world to conquer next year
     
-    In this week's edition of What We Learned, we examine - among other things - why Justin Rose is the true best player in the world right now.
+    Vijay Singh turns 50 in February, which is bad news for current seniors. Unless he feels he can still win on the PGA Tour.
     
-    Lincicome, Christina Kim engage in Twitter feud What We Learned: Rose coming into bloom Quotes of the Week Magic on the European Tour? Woods continues head-to-head dominance of McIlroy LPGA rules official dies from West Nile virus Park wins for second time this season Campbell's solo 3rd in Portugal a welcome sign Ad
+    Lefty's $1M charity shot sails long during MNF McIlroy says he will play fewer events in '13 Lincicome, Christina Kim engage in Twitter feud Debate: Is it a good idea for athletes to tweet? What We Learned: Rose coming into bloom Quotes of the Week Getting the most out of your work with the putter Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Woohae Cho / Reuters Get ready for F1 on NBC Sports
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Afp / AFP/Getty Images Get ready for F1 on NBC Sports
     
     NBC Sports Group has signed a four-year deal with Formula One for the exclusive U.S. media rights to the world's most popular global motorsports series.
     
-    Red Bull driver Vettel wins Korean GP Bowyer wins on disastrous night for Keselowski Win puts Clint Bowyer back in championship hunt Earnhardt Jr. to miss 2 races after concussions Gordon says he would've kept concussion quiet Biffle leads Chase drivers in Charlotte qualifying Joey Logano wins Nationwide event at Charlotte Allmendinger gets 1st start after drug suspension Ad
+    McLaren want Hamilton to feel the love Red Bull driver Vettel wins Korean GP Allmendinger to drive for Phoenix again at Kansas NASCAR and Fox sign 8-year extension through 2022 Bowyer wins on disastrous night for Keselowski Win puts Clint Bowyer back in championship hunt Earnhardt Jr. to miss 2 races after concussions Gordon says he would've kept concussion quiet Ad
 *   NCAA BK
-    SectionsCollegeBasketballTalk Bracket contest Men's scores Women's scores Video Standings Schedules Stats Rosters Teams Odds Matchups Tickets Shop Headlines Marc Serota / Getty Images Siena practice attracts big fish
+    SectionsCollegeBasketballTalk Bracket contest Men's scores Women's scores Video Standings Schedules Stats Rosters Teams Odds Matchups Tickets Shop Headlines Kevin Winter / Getty Images Knight to auction rings, gold medal
     
-    CBT: When Super Bowl champion coach Bill Parcells watches you play, it motivates you. That's what happened to the Saints on Saturday.
+    CBT: Bob Knight is selling all three of his national championship rings from Indiana, plus his gold medal from the 1984 Olympics, various trophies, jackets and more.
     
-    CBT: A half-court shot worth a car Irish in ‘preliminary conversations’ to exit Big East Harvard unveils plans for new basketball arena Dawkins won't practice with Duke this season UNLV adds the well-traveled Jelan Kendrick CBT: Blue chip Noel posterized at UK Madness Stabbing mars Syracuse's Madness celebration CBT: Who are stars of the mid-majors? Ad
+    CBT: 15 players with breakout potential NC State tabbed as ACC preseason favorites CBT: NCAA reportedly passes $500 million in net assets CBT: Louis Orr’s house tagged with racial graffiti CBT: Duke's Marshall Plumlee out 6-8 weeks CBT: Top 20 forward Selden commits to Kansas CBT's preview of the Missouri Valley Conference Krzyzewski takes Duke to Fort Bragg for workout Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Stringer / Reuters A win is a win, but ...
+    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Patrik Stollarz / AFP - Getty Images Suspension a blessing in disguise?
     
-    PST: Latest lackluster U.S. victory — a 2-1 triumph over tiny Antigua and Barbuda — is cause for concern.
+    PST: US coach Jurgen Klinsmann doesn't have to worry about using, or not using, flawed midfielder Jermaine Jones for Tuesday's World Cup qualifier against Guatemala.
     
-    PST: Whom could US use at left back Tuesday? PST: US finds unlikely hero in Johnson PST: What US needs to advance in Cup qualifying Et tu, NFL? Marcelo breaks right foot in Brazil practice UAE demands apology for 'sand monkeys' comment Canada beats undermanned Cuba in qualifying FIFA confirms Cubans defected before qualifier Ad
+    US playing to win versus Guatemala in WC qualifier PST: Whom could US use at left back Tuesday? PST: Ranking US men's central defenders PST: Howard's free advice for free kicks PST: What US needs to advance in Cup qualifying From shy guy to resolute leader, Ronaldo reaches 100 caps Blatter to speak with Cuba after 3 players defect Balotelli set for Italy, S. Siro return vs Denmark Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Bolt goes for gold (hair) on 'SNL'
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Jonathan Ferrey / Getty Images Is baseball back in 2020?
     
-    The gold medalist not only thrills millions as a sprinter, he can also make just as many laugh, as he proved in a cameo appearance Saturday night.
+    OlympicTalk: The return of America’s pastime to the Olympics may be more imminent than we dreamed possible.
     
-    OlympicTalk: Vonn's possible male competitiors speak Olympic champ Maroney still on crutches OlympicTalk: IOC won't strip Lance of Sydney bronze, yet Thorpe reveals years of crippling depression Spanish hoops team trashed apartments after loss Embattled speedskating coaches resign IOC reviews USADA report for Olympic implications Usain Bolt says he may try soccer in retirement Ad
+    Usain Bolt goes for the gold (hair) on 'SNL' World record marathoner Radcliffe loses funding Rogge says London could host Games again soon OlympicTalk: Vonn's possible male competitiors speak Olympic champ Maroney still on crutches OlympicTalk: IOC won't strip Lance of Sydney bronze, yet Thorpe reveals years of crippling depression Spanish hoops team trashed apartments after loss Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Handout / Reuters Skydiver jumps 24 miles to Earth
+    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Kelly Cestari / Zuma Press The Week in Sports Pictures
     
-    In a giant leap from more than 24 miles up, a daredevil skydiver shattered the sound barrier Sunday while making the highest jump ever - a tumbling, death-defying plunge from a balloon to a safe landing in the New Mexico desert.
+    A Giant victory, a Titan's bad hands, a Tiger on the run, surf 'n sun and more.
     
-    Fever stun Lynx in Game 1, 76-70 Armstrong could take lie test over doping Scandal hurts Armstrong, but doesn't destroy image Djokovic rallies to beat Murray in Shanghai final Azarenka beats Goerges to win Generali Ladies Pete Jacobs wins Ironman world championship Donaire stops Nishioka in ninth Anderson Silva stops Stephan Bonnar at UFC 153 Ad
+    Skull vehicle beats out rivals at soapbox race NJ plans to start licensing sports bets in January Skydiver breaks sound barrier in record jump Fever stun Lynx in Game 1 of WNBA finals State government says Armstrong was worth it Armstrong could take lie test over doping Scandal hurts Armstrong, but doesn't destroy image Djokovic rallies to beat Murray in Shanghai final Ad
 
 *   Scores
 *   Odds
@@ -184,9 +184,10 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com CFT: First BCS standings have SEC flavor  |  More  
-  NFL Latest on all of Sunday's NFL injuries  
-HBT: One reason for Yankees' woes? Cano's skid  
+Tweet Also on NBCSports.com PFT: Ravens lose Ray Lewis for season  |  Retirement?  
+HBT: Isn't everyone sick of seeing Cardinals and Yankees?  
+CBT: Bob Knight to auction his title rings, gold medal  
+NBA: Was Dirk's knee the reason D-Will went to New Jersey?  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
