@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Overhaulin'1954 Chevy Pickup Truck 8:00PM Overhaulin'1967 Camaro 9:00PM American Chopper (Season 8)New Venture TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Alaska: The Last Frontier (Season 2)Dead of Winter 8:00PM Alaska: The Last Frontier (Season 2)Spring Has Sprung 9:00PM Alaska: The Last Frontier (Season 2)Cattle Drive TV SHOWS
 
 American Chopper
 
@@ -324,21 +324,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-See Poison Ivy Chemical With Spray: DNews Nugget
+Arctic Winds Blowing Trouble for US
 
-Orionids: Diving into Comet Halley's Tail
+Shuttle Endeavour in its Former Glory: DNews Nugget
 
-Supersonic Felix Baumgartner Breaks World Records
+The Higgs Boson Can Make Beautiful Music
 
-TWiDN: Highest Skydive Won't Save Jurassic Park
+Shuttle Endeavour Finally Rolls Home (UPDATED)
 
-Endeavour Rolls Into LA Retirement Home
+Pandas on the Plate in Prehistory
 
-Toyota Gives Endeavour a Hollywood Finale (UPDATED)
+Why 72 Is the New 30
 
-Daredevil Hoping to Go Supersonic on Sunday
+Brains on Prayer Make God Real: Gotta-See Video
 
-With Android Phones, The Future's Still On Hold
+Curiosity Takes Second Mars Scoop for Dust Bath
 
   facebook share0 Tweet Privacy Policy  
 
@@ -544,32 +544,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 15,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 16,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 15,  
+Oct 16,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 15,  
+Oct 16,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 15,  
+Oct 16,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 15,  
+Oct 16,  
 9:00 am  
 60 min(s)  
-**MythBusters**  
-_Torpedo Tastic_  
- Did the world's first torpedo really deliver a deadly payload - s  
+**The FBI Files**  
+_Inside the Bureau_  
+ When violent criminals strike, the FBI employs every creative res  
 **More Listings »**   Shop Discovery Store      
 
 our sites
