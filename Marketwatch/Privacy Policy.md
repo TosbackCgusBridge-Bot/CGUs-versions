@@ -1,8 +1,8 @@
 Bulletin Investor Alert
 
-New York Markets Open in:
+New York Markets After Hours
 
-Pre-Market Indications Analyst Ratings Oil News EarningsWatch
+After Hours EarningsWatch Evening Winners and Losers
 
 Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
@@ -198,92 +198,101 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 16, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 5:13 PM EDT October 16, 2012 /marketstate/country/us New York After /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:06a
+/news/latest1.  5:10p
     
-    4 charts challenging resistance
+    Intel hit by weak PCs, scaling back output
     
-2.  8:06a
+2.  5:09p
     
-    Five bad bosses to work for
+    Fortinet Q3 profit falls 4% amid charges
     
-3.  8:04a
+3.  5:02p
     
-    Murphy Oil paying $2.50 special dividend
+    Linear Tech Q1 revenue $335.1 mln vs $329.9 mln
     
-4.  8:04a
+4.  5:01p
     
-    Murphy Oil spinning off unit to shareholders
+    Stocks surge. Dow gain is biggest since Sept. 13
     
-5.  8:04a
+5.  5:01p
     
-    Murphy Oil to break out refining unit
+    BREAKING
     
-6.  8:04a
+    Linear Technology Q1 net income 45c vs 47c
     
-    Murphy Oil OK's $1 bln share buyback
-    
-7.  8:01a
-    
-    Johnson &. Johnson up on sales momentum
-    
-8.  8:01a
-    
-    Labor market is weaker than it looks
-    
-9.  8:01a
+6.  5:01p
     
     Updates, advisories and surprises
     
-10.  8:01a
+7.  5:00p
     
-    Radio update: Investors study more earnings
+    Intel, IBM shares turn red after hours
     
-11.  8:00a
+8.  4:54p
     
-    Corn, soybean harvests over 70% complete: USDA
+    Will Softbank cut Sprintâs prices?
     
-12.  8:00a
+9.  4:54p
     
-    How the election outcome may affect bonds
+    API posts bigger-than-expected rise in oil supply
     
-13.  8:00a
+10.  4:49p
     
-    Coming up: Consumer price inflation for September
+    IBM profit slips as hardware sales decline
     
-14.  7:58a
+11.  4:47p
     
-    Goldman Sachs swings to profit, boosts dividend
+    Intel, IBM shares turn red after hours
     
-15.  7:54a
+12.  4:41p
     
-    Omnicom Group profit and margin rise
+    Obama refi effort to help 1 million in 2012: FHFA
     
-16.  7:53a
+13.  4:38p
     
-    Domino's profit rises, foreign sales rise 5%
+    Apollo shares fall 9% on results, outlook
     
-17.  7:52a
+14.  4:37p
     
-    Johnson &. Johnson Q3 net $1.25 vs. $1.24
+    Spain, earnings support stocks, euro, gold
     
-18.  7:51a
+15.  4:36p
     
-    Coca-Cola profit rises 3.9% on lower costs
+    A123 files for bankruptcy after getting U.S. grant
     
-19.  7:50a
+16.  4:36p
     
-    Big earnings to watch Tuesday: Goldman, Coca-Cola
+    U.S. crude-oil stocks up 3.7 million barrels: API
     
-20.  7:50a
+17.  4:28p
     
-    Coca-Cola profit up 4%
+    Radio Update: Wall Street a winner at closing bell
+    
+18.  4:25p
+    
+    Intuitive Surgical posts sharply higher profit
+    
+19.  4:25p
+    
+    Citi recovers. Street views Corbat a positive
+    
+20.  12:15p
+    
+    Feds look to unload Fannie, Freddie loans
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,424.23 +95.38 +0.72% nasdaq /quotes/zigman/123127 3,064.18 +20.07 +0.66% s&p 500 /quotes/zigman/3870025 1,440.13 +11.54 +0.81% Kiosk
+dow /quotes/zigman/627449 13,551.78 +127.55 +0.95% nasdaq /quotes/zigman/123127 3,101.17 +36.99 +1.21% s&p 500 /quotes/zigman/3870025 1,454.92 +14.79 +1.03% Kiosk
 
+*   1341573300000 1341592200000
+    
+    From Fox Business
+    
+    Â  Dave Ramsey  
+    Cutting the family budget  
+    When it comes to taking control of your money and living on a budget, you have to pick and choose what to spend and what to cut back on.Â  /conga/kiosk/marketfox.html 231105
 *   1339754400000 1340010000000
     
     Investing
@@ -299,23 +308,12 @@ dow /quotes/zigman/627449 13,424.23 +95.38 +0.72% nasdaq /quotes/zigman/123127 3
     /conga/kiosk/wildcard2.html 230634
 *   1309191300000 1309248000000
     
-    Retail
+    Food
     
-    Geekiness becomes chic  
-    Retailers chasing dollars in the geekiness lifestyle trend attempt to lure customers at conventions like New York's Comic Con.  
-    /conga/kiosk/wildcard3.html 230668
-*   1348302600000 1348443000000
-    
-    Car Review
-    
-    Â  Ron Amadon  
-    2013 Infiniti M37 AWD  
-    Luxury ride teams sport package, all-wheel drive. hits all the right buttons.  
-    â¢ 2013 car-buying guide | Slide show
-    
-    .
-    
-    230657
+    5 new food trends for 2013  
+    Hereâs what caught our attention at this yearâs Food Network New York City Wine &. Food Festival.  
+    â¢ Food festivals: the new trendsetters  
+    /conga/kiosk/wildcard3.html 231087
 
 MarketWatch.com
 
