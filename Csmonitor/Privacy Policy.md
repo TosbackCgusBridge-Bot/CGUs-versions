@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Presidential polls: Politics, like Major League Baseball, is numbers-driven
-2.  21 things you can get for free
-3.  Mother gets 99 years for beating, gluing daughter: Has the US had it with bad parents?
-4.  Cover Story: Election 2012: How another Obama term might be different
-5.  The Malala moment: Tens of thousands rally in Pakistan for girl shot by Taliban
+1.  Guantánamo trial boycott? Judge says defendants don't have to attend (+video)
+2.  Amanda Todd: Bullied teen shared story, then committed suicide
+3.  'The Walking Dead' season 3 premiere offers multiple intriguing plotlines
+4.  Peanut butter recall expands again. Now included: peanuts (+video)
+5.  Winsor McCay: Remembering the artist behind Little Nemo (+video)
 
 About these ads
 
@@ -111,17 +111,17 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Progress Watch  
-    Why teen drinking and driving has been cut in half in past 20 years
+*   Cover Story  
+    Election 2012: How Romney might lead on new Washington terrain
     
-    Nine out of 10 high-schoolers chose not to drink and drive in 2011, according to the CDC. Safety advocacy groups and government agencies have worked with youths and parents on the issue.
+    Romney White House scenarios beyond a top-down CEO approach. A two-part election 2012 report profiles the stark differences and interesting similarities of a second-term Obama White House vs. a Romney White House – either of which would have to deal with a highly polarized Congress.
     
-*   Difference Maker: She pours her wealth into getting books to India's poorest children
-*   Decoder Wire: Joe Biden's smiling: Was there method to his madness?
-*   Nobel Peace Prize: How unusual is the EU's award? (+video)
-*   Alex Rodriguez benched: Will that help Yankees in decisive Game 5?
+*   Water on the moon? Maybe a lot more than we thought ... thanks to the sun.
+*   Sierra Leone's dilemma: There's gold under those trees
+*   Backchannels: A quiet waiver for Pakistan from the Obama administration
+*   Vox News: Why did Mitt Romney cancel appearance on 'The View'?
 
-_Photos of the day_ 10.14.12 » Photos of the Weekend 10/14
+_Photos of the day_ 10.15.12 » Photos of the day, 10/15
 
 **CSMonitor.com** on Facebook
 
@@ -143,16 +143,14 @@ When she found herself suddenly wealthy, the Indian philanthropist founded Prath
 
 Become part of the Monitor community
 
-*   The Culture » 'Photographic Memory': The permanence and impermanence of what we choose to preserve
-*   The Culture » 'Smashed' shows a realistic recovery, with revelation
-*   The Culture » Ben Affleck crafts a nail-biting thriller in 'Argo': movie review
+*   Science » Water on the moon? Maybe a lot more than we thought ... thanks to the sun.
+*   Business » Peanut butter recall expands again. Now included: peanuts (+video)
+*   The Culture » Jessica Ridgeway abduction: Getting a grip on the parenting overreaction
 *   Books » Sarah Palin says she will release a book on fitness and proper diet
+*   Business » Presidents and the economy: Who was best, worst? Take our quiz.
 *   Making a Difference Rohini Nilekani pours her wealth into getting books to India's poorest children
-*   The Culture » The X Factor recap: The teens pull out all the stops (+video)
 *   World » Focus: Vladimir Putin 2.0: A harder, eastward-looking presidency
 *   USA » Focus: Obama's new program for young illegal immigrants: How is it going?
-*   Business » Kellogg Company recalls Mini-Wheats. Metal fragments in cereal.
-*   Books » Joe Biden vs. Paul Ryan: The evolution of the vice president in America
 *   The Culture » 'Call Me Maybe': Being happy in a minor key
 *   Energy/Environment » Coyotes, bears, and lions: the new urban pioneers?
 
