@@ -616,7 +616,7 @@ You have no recently viewed items.
 *   Sponsored Events
 *   Support &. Advertising
 
-*   Find us on Facebook
+*   Like us on Facebook
 *   Follow us on Twitter
 *   Watch us on YouTube
 *   Follow us on Pinterest
