@@ -1,4 +1,4 @@
-  Boulevard Of Broken Dreams | Green Day Listen Live Boston.com
+  Best Of You | Foo Fighters Listen Live Boston.com
 
 *   Home
 *   Today's Globe
