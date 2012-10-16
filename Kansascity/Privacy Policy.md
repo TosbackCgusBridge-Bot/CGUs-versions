@@ -134,25 +134,33 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $0 Value: Discount: You Save: $0 100% $0
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Get up to 7 Carpeted Areas of Your Home Cleaned for only $99. a $320 value from Spots Be Gone $99 Value: Discount: You Save: $320 69% $221
 
-Monday: Target Deals
+Tuesday: Top Deals
 
-1.  SEASONAL DRIVERS
+1.  On the Border – Head to their Facebook page to get a coupon for free queso and sopapillas.  The coupon is good through September 13th.
+2.  Garnier Fructis – Request a free sample of Garnier Fructis Fall Flight courtesy of Target.
+3.  Biore – Sign up to see if you qualify to get 3 free sample sent to you.
+
+1.  Parts Project Coordinator
+    
+    Central Power Systems &. Services, Inc.
+    
+2.  SEASONAL DRIVERS
     
     Kelly Services
     
-2.  SALES
+3.  PROGRAM DIRECTOR
     
-3.  SALES
+4.  CAMPAIGN JOBS
     
-4.  PROGRAM DIRECTOR
+    Grassroots Campaigns, Inc.
     
-5.  Apartment Maintenance Helper
+5.  SENIOR PIPE DESIGNER
     
-6.  Certified Dietary Manager
+    THOMAS RUSSELL CO.
     
-    CROWN CARE CENTER
+6.  Apartment Maintenance Helper
     
 
 View More The Most
@@ -160,16 +168,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   One play symbolizes the Chiefs lost season
-*   Source: No contract extension for Chiefs’ Pioli
-*   QB switch doesn’t change Chiefs’ fortunes in loss to Tampa Bay
-*   Pedestrian killed crossing I-70
-*   Softbank said to have deal to buy 70% of Sprint
-*   Police nab driver who rammed patrol car and fled at high speed
-*   SoftBank and Sprint announce $20 billion deal
-*   Candidates consumed by debate preparations
-*   Review: 'There's No Place Like Home', the quest for Naismith's Rules
-*   K-State, Notre Dame move into top 5 of AP poll
+*   Sprint-SoftBank merger could give wireless world a jolt
+*   Add confusion to list of Chiefs problems
+*   KU student robbed at gunpoint on campus
+*   Sprint shareholders can cash in big  but not all their shares
+*   Poll | Are the Chiefs the worst of the NFLs worst?
+*   Kansan’s comments on faith and politics stir up a storm
+*   Sunday rewind | MU's O-line gets revenge after dangerous tackle
+*   Top-ranked guard Selden commits to Kansas
+*   KCK officer shoots driver after traffic stop. suspect critically hurt
+*   Source: No contract extension for Chiefs Pioli
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
