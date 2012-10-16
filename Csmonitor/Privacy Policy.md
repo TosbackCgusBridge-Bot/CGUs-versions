@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Guantánamo trial boycott? Judge says defendants don't have to attend (+video)
-2.  Amanda Todd: Bullied teen shared story, then committed suicide
-3.  'The Walking Dead' season 3 premiere offers multiple intriguing plotlines
-4.  Peanut butter recall expands again. Now included: peanuts (+video)
-5.  Winsor McCay: Remembering the artist behind Little Nemo (+video)
+1.  Zumba scandal: 21 names released in Maine prostitution case (+video)
+2.  Guantánamo trial boycott? Judge says defendants don't have to attend (+video)
+3.  Amanda Todd: Bullied teen shared story, then committed suicide
+4.  Focus: As sanctions crush rial's value, Iranians point fingers at Ahmadinejad
+5.  As Obama and Romney ready for second debate, where do polls stand? (+video)
 
 About these ads
 
@@ -111,15 +111,15 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Cover Story  
-    Election 2012: How Romney might lead on new Washington terrain
+*   Focus  
+    As sanctions crush rial's value, Iranians point fingers at Ahmadinejad
     
-    Romney White House scenarios beyond a top-down CEO approach. A two-part election 2012 report profiles the stark differences and interesting similarities of a second-term Obama White House vs. a Romney White House – either of which would have to deal with a highly polarized Congress.
+    Western leaders may finally be seeing the result of stringent sanctions as Iranians blame their government, not the US and EU, for the precipitous economic decline of the oil-rich country.
     
-*   Water on the moon? Maybe a lot more than we thought ... thanks to the sun.
-*   Sierra Leone's dilemma: There's gold under those trees
-*   Backchannels: A quiet waiver for Pakistan from the Obama administration
-*   Vox News: Why did Mitt Romney cancel appearance on 'The View'?
+*   Global News Blog: Britain nixes extradition of NASA hacker Gary McKinnon to US
+*   Backchannels: A senior Iraqi official ponders if his government is a client of Iran's
+*   Decoder Wire: With race tight, celebrities make the pitch for Obama
+*   Terrorism &. Security: Former Serb leader Karadzic: I deserve reward, not punishment
 
 _Photos of the day_ 10.15.12 » Photos of the day, 10/15
 
@@ -143,11 +143,12 @@ When she found herself suddenly wealthy, the Indian philanthropist founded Prath
 
 Become part of the Monitor community
 
+*   USA » Can the Yankees dig out of 0-2 hole and win against the Tigers?
 *   Science » Water on the moon? Maybe a lot more than we thought ... thanks to the sun.
-*   Business » Peanut butter recall expands again. Now included: peanuts (+video)
 *   The Culture » Jessica Ridgeway abduction: Getting a grip on the parenting overreaction
-*   Books » Sarah Palin says she will release a book on fitness and proper diet
 *   Business » Presidents and the economy: Who was best, worst? Take our quiz.
+*   Business » Peanut butter recall expands again. Now included: peanuts (+video)
+*   Books » Sarah Palin says she will release a book on fitness and proper diet
 *   Making a Difference Rohini Nilekani pours her wealth into getting books to India's poorest children
 *   World » Focus: Vladimir Putin 2.0: A harder, eastward-looking presidency
 *   USA » Focus: Obama's new program for young illegal immigrants: How is it going?
