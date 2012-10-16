@@ -267,24 +267,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 84 comments
-*   UPDATED: 7.3 million watch skydiver record jump from 128,097 feet Updated 10/14/2012 at 12:47 p.m. 44 comments
-*   Mom gets 99 years in prison for gluing tot's hands Published 10/14/2012 at 4:00 a.m. 29 comments
-*   At least two injured in Millville rollover Published 10/14/2012 at 9:50 a.m. 7 comments
-*   Fewer qualms for gun-rights groups over Romney now Published 10/14/2012 at 1:05 p.m. 49 comments
+*   Jim Jones: Gas prices are just the start Published 10/15/2012 at 12:00 a.m. 155 comments
+*   UPDATED: Two women shot in Shingletown. detectives tight-lipped over case's "sensitivity" Updated 10/15/2012 at 4:51 p.m. 13 comments
+*   Former Redding man accused of killing exotic bird in Las Vegas Updated 10/15/2012 at 6:34 p.m. 38 comments
+*   UPDATED: 3-year-old killed Friday in Dairyville wreck, CHP says Updated 10/15/2012 at 1:43 p.m. 9 comments
+*   Iowa pair held in Trinity County drug bust. deputies find cash, marijuana during traffic stop Published 10/15/2012 at 9:23 a.m. 39 comments
 
-Photo Galleries Supersonic skydiving record attempt El Delicioso Burrito Enterprise beats Foothill
+Photo Galleries Historic skydive from the edge of space Supersonic skydiving record attempt Enterprise beats Foothill
 
-*   VP debate: Biden, Ryan at odds over nearly everything Published 10/12/2012 at 12:04 a.m. 188 comments
 *   Ken Pereira: Nation needs more than Obama's smile Published 10/13/2012 at 12:00 a.m. 177 comments
+*   Jim Jones: Gas prices are just the start Published 10/15/2012 at 12:00 a.m. 155 comments
 *   Carmen Shoffner: America needs new awakening Published 10/13/2012 at 12:00 a.m. 107 comments
-*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 84 comments
-*   Slips seen on Libya, Syria, auto bailout during VP debate Published 10/12/2012 at 12:08 a.m. 77 comments
+*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 87 comments
+*   Richard Wrathall: We need more producers, fewer takers Published 10/15/2012 at 12:00 a.m. 72 comments
 
-*   UPDATED: Cottonwood man killed his wife, admitted it during 911 call, deputies say Published 10/5/2012 at 2:18 p.m. 59 comments
 *   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 54 comments
-*   New eagle cams in place as Patriot, Liberty return to Redding Published 10/4/2012 at 11:12 p.m. 3 comments
-*   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Published 10/13/2012 at 10:14 a.m. 33 comments
+*   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Published 10/13/2012 at 10:14 a.m. 34 comments
+*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 87 comments
+*   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 38 comments
 *   UPDATED: Sheriff: Teens burglarize Palo Cedro bank twice with tricks picked up from heist movies Published 10/7/2012 at 9:27 a.m. 64 comments
 
 Weather
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 57° Fair Wind: Calm Today 79° 53° Mon 05:00 PM Cloudy Temp: 78° Tue 05:00 AM Mostly Cloudy Showers Temp: 59° Tue 05:00 PM Mostly Sunny Temp: 79°
+Currently 66° A Few Clouds Wind: Calm Today 84° 58° Tue 05:00 PM Sunny Temp: 83° Wed 05:00 AM Clear Temp: 55° Wed 05:00 PM Sunny Temp: 87°
 
-Feels Like: 78°
+Feels Like: 81°
 
-Humidity: 38%
+Humidity: 24%
 
-Precip: 7%
+Precip: 20%
 
-Feels Like: 59°
+Feels Like: 55°
 
-Humidity: 72%
+Humidity: 43%
 
-Precip: 26%
+Precip: 0%
 
-Feels Like: 79°
+Feels Like: 83°
 
-Humidity: 27%
+Humidity: 11%
 
-Precip: 16%
+Precip: 0%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Monday Oct 15
 *   Tuesday Oct 16
 *   Wednesday Oct 17
+*   Thursday Oct 18
 *   More BROWSE Icon
-
-*   Free classes for seniors Senior Citizens Hall
-*   Zumba Classes Teen Center 6 p.m.
-*   Redding Chess Club See Description 5 p.m.
-*   Redding Duplicate Bridge Club meetings Senior Citizens Hall noon
-*   Raja Yoga Classes Center for Spiritual Living 7 p.m.
-
-More Events »
 
 *   Basic Physics Shasta Builder's Exchange 6 p.m.
 *   Foreclosure Alternatives Starbucks 6 p.m.
@@ -353,6 +345,14 @@ More Events »
 *   NAMI Shasta County Family Support Group See Description 6:30 p.m.
 *   Parents Families and Friends of Lesbians and Gays (PFLAG) First United Methodist Church, Redding 6:30 p.m.
 *   Beginning Hula and Story telling See Description 7 p.m.
+
+More Events »
+
+*   Nor-Cal Think Pink Day MD Imaging, and Churn Creek Post Office 7 a.m.
+*   Wintu Audubon's Local Weekday Birdwalk at Kapusta Redding Convention Center 8 a.m.
+*   AARP Driver Safety Class Redding Library 1 p.m.
+*   The Spa Shoppes Fall Open House The Spa Shoppes 5 p.m.
+*   Pink Sundial Bridge Lighting Event Sundial Bridge 6 p.m.
 
 More Events »
 
