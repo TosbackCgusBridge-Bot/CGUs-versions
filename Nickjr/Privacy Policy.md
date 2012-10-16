@@ -164,9 +164,9 @@ advertisement Unified Privacy Policy Sponsored Links Fresh Beats Greatest Hits
 
 Feel the beat of 20 get up &. dance hits for kids in one great collection! (AD)
 
-Share First with Dora
+New Dora's Milestones
 
-Explore new things with your best pal Dora in her Milestones Shop @ Amazon (AD)
+Shop for DVDs, toys, books and more. Now at Amazon (AD)
 
 New Bubble Guppies Game
 
@@ -230,7 +230,7 @@ Mix and match heads, tails, and more to make a mythical creature with Dora!
 
 Dora &. Friends Magazine
 
-Dora &. Diego now have their OWN magazine. Explore with your family today!( AD)
+Dora &. Diego now have their OWN magazine. Explore with your family today! (AD)
 
 Where is Boots? App
 
