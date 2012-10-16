@@ -1,60 +1,41 @@
+Jump to:
+
+*   Argos website search
+*   Main categories
+*   Main content
+*   Site footer
+*   Site map
+
+Hello | (Sign in / Join|Sign out) |My account|Sign out
+
+items in Trolley
+
+*   Technology
+*   Home &. Garden
+*   Baby &. Nursery
+*   Toys
+*   Sports &. Leisure
+*   Health &. Beauty
+*   Clothing
+*   Jewellery &. Watches
+*   Gifts
+
+*   Price Cuts
+*   Clearance Offers
+
 *   Jump to Argos website search
 *   Jump to main categories
 *   Jump to main content
 *   Jump to footer
 *   Jump to site map
 
-*   Home
-*   Store locator
-*   Customer services
-
-*   Quick Shop
-*   A-Z Index
-
-Hello
-
-*   Sign in
-*   Register
-*   Sign out
-*   My account
-
-My Trolley ()
-
-*   Clothing
-*   Kitchen &.  
-    Laundry
-*   Home &.  
-    Furniture
-*   Garden  
-    &. DIY
-*   Sports &.  
-    Leisure
-*   Health &.  
-    Personal Care
-*   Home  
-    Entertainment
-*   Video  
-    Games
-*   Photography
-*   Office, PCs  
-    &. Phones
-*   Toys &.  
-    Games
-*   Nursery
-*   Jewellery  
-    &. Watches
-*   Gifts  
-    &. Hobbies
-
-*   Latest Price Cuts
-*   More at Argos
-*   Kids World
-*   Shopping channel
+Customer services
 
 Customer services
 
 *   Essential Information
     *   Contact us &. FAQs
+    *   Cookie policy
     *   How to use this site
     *   My account FAQs
     *   Privacy policy
@@ -69,7 +50,6 @@ Customer services
     *   Argos TV home shopping channel
     *   Channel island deliveries
     *   Check &. Reserve
-    *   Gift list service
     *   Home delivery
     *   iPhone App
     *   Online exclusives
@@ -108,6 +88,7 @@ Customer services
     *   Argos for Business 
     *   Competitions
     *   Corporate responsibility 
+    *   Press enquiries 
     *   Site awards
 
 *   Other Argos sites
@@ -121,7 +102,7 @@ Customer services
     *   Argos.ie 
     *   Argos-spain.co.uk 
 
-\>. Customer services >. Privacy Policy Privacy Policy
+Privacy Policy
 
 (Updated 23rd May 2012)
 
@@ -262,623 +243,76 @@ Changes to Policy
 
   
   
+Extra Information
 
-*   Ladies' jewellery
-    
-    *   Body jewellery
-    *   Bracelets &. bangles
-    *   Brooches
-    *   Charm bracelets &. beads
-    *   Earrings
-    *   Necklaces
-    *   Rings
-    
-    Men's jewellery &. cufflinks
-    
-    *   Cufflinks
-    *   Men's jewellery
-    
-    Children's jewellery
-    *   Children's jewellery
-*   Watches
-    
-    *   Children's watches
-    *   Ladies' watches
-    *   Men's watches
-    
-    Jewellery care
-    
-    *   Jewellery boxes
-    *   Jewellery cleaners &. polishing clothes
-    *   Jewellery gift packaging
-    
-    Other
-    *   Clearance Jewellery &. watches
+Essential Information
 
-*   Novelty gifts
-    
-    *   Branded gifts
-    *   Fancy dress
-    *   Gadgets
-    *   Mini fridges &. water dispensers
-    *   Novelty gifts
-    *   Novelty lighting
-    
-    Special occasions
-    *   New baby &. christening gifts
-    *   Partyware
-    *   Wedding gifts
-*   Games &. hobbies
-    
-    *   Adult puzzles &. games
-    *   Art &. crafts
-    *   CDs
-    *   Collectables
-    *   DVDs &. blu-rays
-    *   Hornby train sets
-    *   Model cars &. vehicles
-    *   Radio controlled gifts
-    *   Scalextric
-    
-    Experience days
-    *   Experience days &. gifts
-*   Christmas
-    
-    *   Christmas trees &. decorations
-    
-    Other
-    *   Clearance Gifts &. hobbies
-    *   Product care
+Customer Services
 
-*   Nursery
-    
-    *   Baby &. Christening gifts
-    *   Baby monitors &. safety gates
-    *   Baby toys
-    *   Car &. booster seats
-    *   Cots, nursery furniture &. bedding
-    *   Feeding &. bathing
-    *   Maternity
-    *   Pushchairs, prams &. carriers
-    
-    Other
-    *   Clearance Nursery
-*   Top nursery brands
-    *   Mamas &. Papas
-    *   Fisher-Price
-    *   Maxi-Cosi
-    *   Motorola
-    *   Britax
-    *   Quinny
-    *   Tommee Tippee
-    *   Graco
-    *   Tomy
-    *   Chicco
-    *   Cosatto
+Privacy policy
 
-*   Toys
-    *   2 for 15 pounds on Toys
-    *   Action figures &. playsets
-    *   Animal playsets
-    *   Children's books
-    *   Children's cameras, audio &. TVs
-    *   Children's fancy dress
-    *   Creative &. discovery toys
-    *   Dolls
-    *   Electronic &. learning toys
-    *   Film &. TV toys
-    *   Games &. puzzles
-    *   Kid\`s DVDs, blu-rays &. CDs
-    *   Lego &. construction toys
-    *   Musical toys
-    *   Pre-school toys
-    *   Radio control toys
-    *   Soft toys &. teddy bears
-    *   Toy cars, trains, boats &. planes
-*   Outdoor toys
-    
-    *   Bikes, ride-ons, trikes &. scooters
-    *   Bouncy castles &. inflatable toys
-    *   Outdoor games
-    *   Playhouses &. activity centres
-    *   Pools &. water games
-    *   Sand pits &. sand
-    *   Slides &. swings
-    *   Trampolines &. enclosures
-    
-    Other
-    *   Clearance Toys &. games
-*   Top toy brands
-    *   Baby Annabell
-    *   Barbie
-    *   Cars 2
-    *   Chad Valley
-    *   Hotwheels
-    *   KickMaster
-    *   Lego
-    *   Little Tikes
-    *   Monster High
-    *   Moshi Monsters
-    *   Nerf
-    *   Plum
-    *   Razor
-    *   Sylvanian Families
-    *   Zinc
-*   Toys by age
-    *   Birth - 1 year
-    *   1-2 years
-    *   3-4 years
-    *   5-8 years
-    *   9-12 years
-    *   13-16 years
+Cookie policy
 
-*   Bedroom
-    
-    *   Bedding &. electric blankets
-    *   Bedroom furniture
-    *   Beds
-    *   Children's furniture
-    *   Mattresses
-    *   Schreiber bedroom furniture
-    
-    Living room
-    
-    *   Fireplaces
-    *   Go create sofas
-    *   Living room furniture
-    *   Sofabeds &. futons
-    *   Sofas, armchairs &. chairs
-    
-    Other rooms
-    *   Bathroom
-    *   Conservatory furniture
-    *   Dining tables &. chairs
-    *   Office furniture
-*   Home furnishings
-    
-    *   Blinds
-    *   Candles, ornaments &. vases
-    *   Clocks &. clock radios
-    *   Curtains &. poles
-    *   Cushions, throws &. beanbags
-    *   Lighting
-    *   Mirrors
-    *   Pictures &. photo frames
-    *   Rugs &. mats
-    
-    Storage
-    *   CD racks, DVD racks &. video racks
-    *   Moving house packs &. bubble wrap
-    *   Storage &. shelving
-*   Heaters &. coolers
-    
-    *   Air conditioning &. fans
-    *   Dehumidifiers &. air treatment
-    *   Heaters &. radiators
-    
-    Other
-    *   Clearance Home &. furniture
-    *   Product care
+Terms &. conditions
 
-*   Health &. well being
-    *   Foot care
-    *   Health &. wellbeing
-    *   Health monitors &. aids
-    *   Massage &. relaxation
-    *   Mobility aids
-    *   Vitamins &. supplements
-    *   Weight loss &. toning
-*   Personal care &. beauty
-    
-    *   Bath, body &. skincare
-    *   Cosmetics &. accessories
-    *   Dental care
-    *   Fragrance
-    *   Hair care
-    *   Hair removal &. waxing
-    *   Men's beard trimmers &. hair clippers
-    *   Men's shavers
-    *   Nail care
-    
-    Other
-    *   Clearance Health &. personal care
-    *   Product care
+Site map
 
-*   Small kitchen appliances
-    
-    *   Coffee machines
-    *   Food preparation
-    *   Kettles
-    *   Microwaves
-    *   Small kitchen appliances
-    *   Toasters
-    
-    Kitchen equipment
-    
-    *   Cookware
-    *   Kitchenware
-    *   Tableware
-    
-    Kitchens
-    *   Argos kitchens
-    *   Hygena kitchens
-*   Large kitchen appliances
-    
-    *   Appliances available in-store today
-    *   Built-in cookers, hobs &. hoods
-    *   Dishwashers
-    *   Freestanding cookers
-    *   Freezers
-    *   Fridge freezers
-    *   Fridges
-    *   Tumble dryers
-    *   Washer dryers
-    *   Washing machines
-    
-    Laundry &. home
-    
-    *   Irons
-    *   Laundry &. cleaning
-    *   Sewing machines &. accessories
-    *   Vacuum cleaners
-    
-    Other
-    *   Clearance Kitchen &. laundry
-    *   Product care
+Secure online shopping
 
-*   Garden
-    
-    *   Barbecues
-    *   Garden decorations
-    *   Garden furniture
-    *   Garden power tools
-    *   Garden tools &. accessories
-    *   Hot tubs &. spas
-    *   Lawnmowers
-    *   Outdoor lighting &. heating
-    *   Pressure washers
-    *   Sheds, greenhouses &. storage
-    
-    Other
-    *   Clearance Garden &. DIY
-    *   Product care
-*   DIY tools
-    
-    *   DIY tools, ladders &. workbenches
-    *   Electrical accessories
-    *   Power tools
-    
-    Car
-    *   Car equipment &. accessories
-*   Home improvements
-    *   Bathroom showers, taps &. accessories
-    *   Conservatories
-    *   Doors &. accessories
-    *   Flooring
-    *   Home insulation
-    *   Home security
-    *   Kitchen sinks &. taps
-    *   Wallpaper &. decorating
+Email sign up
 
-*   Laptops &. PCs
-    
-    *   Apple Mac
-    *   Computers &. monitors
-    *   Ebook readers
-    *   Hard drives, USBs &. data storage
-    *   Laptops &. netbooks
-    *   PC &. laptop accessories
-    *   PC &. laptop software
-    *   Wireless networking
-    *   iPad &. tablets
-    
-    Printers
-    
-    *   Printer ink &. paper
-    *   Printers &. fax machines
-    
-    Other
-    *   Clearance Office, PCs &. phones
-    *   Product care
-*   Phones
-    
-    *   Mobile broadband
-    *   Mobile phone accessories
-    *   Mobile phones
-    *   Telephones
-    
-    Office
-    *   Dictation machines
-    *   Electronic dictionaries &. calculators
-    *   Office furniture
-    *   Projectors &. screens
-    *   Shredders
-    *   Stationery &. office supplies
+Shopping at Argos
 
-*   Fitness equipment &. nutrition
-    
-    *   Fitness accessories &. equipment
-    *   Heart rate monitors &. pedometers
-    *   Home gym equipment
-    *   Nutrition aids &. supplements
-    *   Weights &. strength training
-    
-    Leisure activities
-    *   Bike accessories
-    *   Bikes - kids'
-    *   Bikes - men's &. ladies'
-    *   Games tables
-    *   Kites &. power kites
-    *   Motorbikes, scooters &. quad bikes
-    *   Skateboarding &. skating
-    *   Yoga &. Pilates
-    *   Zumba
-*   Sports
-    *   American football
-    *   Badminton
-    *   Baseball &. softball
-    *   Basketball
-    *   Boxing
-    *   Cricket
-    *   Darts
-    *   Fishing
-    *   Football
-    *   Golf
-    *   Hockey
-    *   Netball
-    *   Rugby
-    *   Running
-    *   Skiing
-    *   Snooker &. pool
-    *   Squash
-    *   Swimming
-    *   Table tennis
-    *   Tennis
-*   Petcare
-    
-    *   Pet supplies
-    
-    Camping &. caravanning
-    
-    *   Camping
-    *   Caravanning
-    
-    Sportswear &. outdoor clothing
-    
-    *   Women's sportswear &. outdoor clothing
-    *   Men's sportswear &. outdoor clothing
-    *   Girls' sportswear &. outdoor clothing
-    *   Boys' sportswear &. outdoor clothing
-    
-    Sports &. outdoor footwear
-    
-    *   Women's sports &. outdoor footwear
-    *   Men's sports &. outdoor footwear
-    *   Girls' sports &. outdoor footwear
-    *   Boys' sports &. outdoor footwear
-    
-    Other
-    *   Product care
-    *   Luggage
-    *   Clearance Sports &. leisure
+Argos gift card
 
-*   Photography
-    *   Camcorders &. accessories
-    *   Camera bags &. accessories
-    *   Camera lenses
-    *   Digital SLR cameras
-    *   Digital cameras
-    *   Digital photo frames
-    *   Digital photo printers
-    *   Memory cards
-*   Telescopes &. binoculars
-    
-    *   Binoculars
-    *   Telescopes
-    
-    Other
-    
-    *   Clearance Photography
-    *   Product care
-    
-    Other Argos sites
-    *   Argos Photo - Printing &. Gifts
+Home delivery
 
-*   Televisions &. set top boxes
-    
-    *   DVD, blu ray &. video players
-    *   Digital boxes &. services
-    *   Home cinema systems
-    *   Portable DVD players
-    *   Television accessories
-    *   Television aerials &. boosters
-    *   Televisions
-    
-    Home audio
-    
-    *   Audio accessories
-    *   Docking stations &. speakers
-    *   Hi-fi systems
-    *   Portable CD &. cassette players
-    *   Radio
-    
-    Musical instruments &. karaoke
-    *   Karaoke machines &. equipment
-    *   Musical instruments
-*   Personal audio &. visual
-    
-    *   Ebook readers
-    *   Headphones &. earphones
-    *   MP3 players &. accessories
-    *   Personal CD players &. radios
-    *   iPad &. tablets
-    *   iPod
-    *   iPod &. MP3 accessories
-    
-    Sat nav &. in-car entertainment
-    
-    *   In-car CD &. DVD players
-    *   Sat nav
-    
-    Other
-    *   Batteries &. chargers
-    *   Clearance Home entertainment &. sat nav
-    *   Product care
+Check &. Reserve
 
-*   Consoles, games &. accessories
-    
-    *   Accessories
-    *   Gaming chairs
-    *   Headsets
-    *   Nintendo 3DS
-    *   Nintendo DS &. DSi
-    *   Nintendo Wii
-    *   Nintendo Wii U
-    *   PC games
-    *   PS Vita
-    *   PS2
-    *   PS3
-    *   PSP
-    *   Pre-order games
-    *   Xbox 360
-    
-    iPod
-    *   iPod touch
-    *   iTunes giftcards
-*   Other
-    *   Clearance Video games
-    *   Product care
+Order tracking
 
-*   Men
-    
-    *   Men's accessories
-    *   Men's clothing
-    *   Men's footwear
-    
-    Women
-    *   Women's accessories
-    *   Women's clothing
-    *   Women's footwear
-*   Baby
-    
-    *   Boys' baby clothes
-    *   Girls' baby clothes
-    *   Unisex baby clothes
-    
-    Boys
-    
-    *   Boys' accessories
-    *   Boys' clothing
-    *   Boys' footwear
-    
-    Girls
-    
-    *   Girls' accessories
-    *   Girls' clothing
-    *   Girls' footwear
-    
-    Other
-    *   Clearance clothing
+Free returns
 
-*    
-    *   Gifts &. Hobbies
-    *   Garden &. DIY
-    *   Health &. personal care
-    *   Home &. furniture
-    *   Home entertainment &. sat nav
-    *   Jewellery &. watches
-    *   Kitchen &. laundry
-    *   Nursery
-    *   Office, PCs &. phones
-    *   Photography
-    *   Sports &. leisure
-    *   Toys &. games
-    *   Video games
+Quick shop
 
-*   Also available...
-    
-    *   Books  
-        Explore our new range of books, including children's books, biographies and top fiction titles
-    *   Pet care  
-        Discover our new range of pet care. With a wide choice of pet beds, collars, toys and accessories, we have everything you need to give your pet the care and attention they need.
-*   Other Argos sites...
-    
-    *   Gifts &. Experiences  
-        Gifts &. experiences in association with Activity Superstore
-    *   Movies &. games rental  
-        Movie and video games rental in association with LOVEFiLM
-    *   Spares &. accessories  
-        Electrical spares &. accessories
-    *   Photo prints &. gifts  
-        Turn your favourite pictures into Photobooks, Wall art, Prints, Mugs and more!
-    *   Tool hire  
-        Quality professional tool hire of over 2000 products!
+Store locator
 
-*   Our very best offers, including all products that have had their price cut!
-    
-    *   Books
-    *   Clothing
-    *   Gifts and hobbies
-    *   Garden and DIY
-    *   Health and personal care
-    *   Home and furniture
-    *   Home entertainment and sat nav
-    *   Jewellery and watches
-    *   Kids World
-    *   Kitchen and laundry
-    *   Nursery
-    *   Office, PCs and phones
-    *   Photography
-    *   Sports and leisure
-    *   Toys and games
-    *   Video games
+Product information
 
-*   100s of products from your favourite characters
-    
-    *   Kids World
+Buying guides
 
-*   Our new shopping channel, bringing you fantastic offers 24 hours a day
-    
-    *   Discover our shopping channel
+Product care
 
-Website Info
+Argos Credit &. Insurance
 
-*   Site map
-*   Secure online shopping
-*   Terms &. conditions
-*   Privacy policy
-*   Cookie policy
+A – Z index
 
-Customer services
+Stock checker
 
-*   Order tracking
-*   Contact us
-*   Check &. Reserve
-*   Delivery info
-*   Free returns
-
-Argos Services
-
-*   Argos Credit &. Insurance
-*   ArgosCompare.co.uk
-*   Argos for Business
-*   Product Care
-*   Gift list service
+Features &. articles
 
 About Argos
 
-*   About Us
-*   Argoscareers.com
-*   Argos.ie
-*   Argos-spain.co.uk
-*   Press enquiries
+About us
 
-Argos partners
+Affiliate program
 
-*   Affiliate program
-*   Argos gift card
-*   Argos Spares
+Argos for Business
 
-This link will open in a new window.
+Press enquiries
 
-© Argos Limited 2011. All Rights Reserved.
+Other Argos sites
+
+Argoscareers.com
+
+Argos.ie
+
+Argos-spain.co.uk
+
+Argos on... Youtube | Facebook | Twitter | Argos TV
+
+Argos App for... iPhone | iPod touch | Android
+
+Argos mobile site
+
+This link will open in a new window. © Argos Limited 2012. All Rights Reserved.
