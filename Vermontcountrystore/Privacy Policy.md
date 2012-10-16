@@ -86,6 +86,11 @@ Skip to Navigation Skip to Main Content
     *   SALE - Sleepwear
 *   Food &. Candy
     
+    *   Baked Goods &. Desserts
+    *   Cookies
+    *   Cakes
+    *   Pastries
+    
     *   Candy &. Chocolate
     *   Nostalgic Treats
     *   Chocolates
@@ -103,20 +108,15 @@ Skip to Navigation Skip to Main Content
     *   Baking &. Mixes
     *   Oils, Vinegars &. Condiments
     
-    *   Baked Goods &. Desserts
-    *   Cookies
-    *   Cakes
-    *   Pastries
-    
+    *   New This Season
+    *   Spirited Treats
     *   Tastes of Vermont
     *   International Foods
     *   Maple
     *   Cheese, Nuts and Fruit
-    *   Spirited Treats
     *   Sugar Free
     *   Breakfast
     *   Food &. Candy Favorites
-    *   New This Season
     *   SALE - Food &. Candy
     *   Holiday Food &. Candy
 *   For The Home
@@ -170,12 +170,16 @@ Skip to Navigation Skip to Main Content
     *   Toys Favorites
     *   Balsam
     
+    *   New This Season
     *   Outdoor
     *   Fitness
     *   For The Home Favorites
-    *   New This Season
     *   SALE - For The Home
 *   Health &. Beauty
+    
+    *   Fragrances
+    *   Fragrances For Her
+    *   Fragrances For Him
     
     *   Skin &. Body Care
     *   Soaps
@@ -193,18 +197,15 @@ Skip to Navigation Skip to Main Content
     *   Accessories
     *   Hair Removal
     
-    *   Fragrances
-    *   Fragrances For Her
-    *   Fragrances For Him
-    
+    *   New This Season
     *   Remedies
     *   Supplements
     *   Personal Care Essentials
     *   Sexual Wellness
     *   Joint &. Arthritis Relief
     *   Allergy Relief &. Immune Support
+    *   Diabetic Friendly
     *   Health &. Beauty Favorites
-    *   New This Season
     *   SALE - Health &. Beauty
 *   Toys
     *   New This Season
@@ -234,6 +235,16 @@ Skip to Navigation Skip to Main Content
     *   Last Chance Final Markdowns
     *   Specials of the Week
 *   More Ways to Shop
+    
+    *   Christmas Shop
+    *   Christmas Trees
+    *   Ornaments &. Tree Trimming
+    *   Holiday Decor
+    *   Candles
+    *   Holiday Food &. Candy
+    *   Barclay Metal Figurines
+    *   Toys Favorites
+    *   Balsam
     
     *   New This Season
     *   Sleepwear
@@ -268,16 +279,6 @@ Skip to Navigation Skip to Main Content
     *   Health &. Beauty
     *   Toys, Books &. Hobbies
     *   Original. Authentic.
-    
-    *   Christmas Shop
-    *   Christmas Trees
-    *   Ornaments &. Tree Trimming
-    *   Holiday Decor
-    *   Candles
-    *   Holiday Food &. Candy
-    *   Barclay Metal Figurines
-    *   Toys Favorites
-    *   Balsam
     
     *   Made In The USA Favorites
     *   Chill Chasers
