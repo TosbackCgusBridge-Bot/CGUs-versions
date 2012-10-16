@@ -77,7 +77,7 @@ Try: 7 Years Younger • Travel Mugs • Quick Dinners
     *   Books &. Blogs
 *   Holidays
     
-    Early Shoppers' Halloween Costume Guide
+    Spook-tacular Halloween Ideas
     
     Read More!
     *   Valentine's Day
@@ -150,9 +150,9 @@ In order to view the Privacy Policy you must enable javaScript. Print Share Late
     
 *   Holidays
     
-    Early Shoppers' Halloween Costume Guide
+    Spook-tacular Halloween Ideas
     
-    Outfit your little trick-or-treater
+    Halloween decorating, recipes, and costume ideas for kids
     
 *   Product  
     Reviews
@@ -172,11 +172,11 @@ Other Stories You Might Like
 
 MostPopular Stories
 
-*   Thigh Blasters
 *   Celebrity Bob Hairstyles
+*   Thigh Blasters
 *   How to Shop and Dress Slimmer
+*   26 Delicious One-Dish Meals
 *   52 Home-Organizing Tips
-*   Master Bedroom Decorating Ideas
 
 See All About Articles
 
@@ -225,11 +225,7 @@ Best Ice Cream Makers
 
 Nothing's sweeter in summertime than whi...Read More
 
-Video of the Day Facebook Enter To Win
-
-Enter for a chance to win T-Fal's new Balanced Living Line
-
-Enter Now! Tools Stain Buster
+Video of the Day Facebook Enter To Win Enter Now! Tools Stain Buster
 
 Your A-Z Guide to Removing Smudges, Spots, and Other Spills Read More
 
