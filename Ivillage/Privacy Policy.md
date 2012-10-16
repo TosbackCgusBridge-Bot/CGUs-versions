@@ -1,10 +1,10 @@
 Sign in | Join Now Hi, User! Edit Profile | Sign Out Want more iVillage? Sign up for our Newsletters iVillage
 
-*   Healthy Week
+*   TWILIGHT FOREVER
+*   HOLIDAILY
 *   Challenges
 *   Videos
 *   Free Stuff
-*   iVote
 
 Search iVillage.com Search
 
@@ -488,7 +488,7 @@ Would you like to receive special offers, promotions, coupons, and free samples 
 See All Newsletters   Advertisement Clip of the Day
 
 *   Homeandgarden My Best Idea Turn Your Trunk Into a Gift Wrapping Station -- Instantly!
-*   Beauty DIY Beautify Make Your Cheek Bones Pop with Simple Contouring
+*   Beauty DIY Beautify DIY Beautify: Get Noticed with Bright Lips and Cheeks
 *   Entertainment iVillage 5 Whoa! Check Out Jen's Mega Engagement Ring
 *   Entertainment Likes or Yikes? Yikes! Dina and Lindsay Lohan's Crazy Week Continues
 *   Global iVoices OMG! Totally Embarrassing Mammogram Stories
@@ -497,11 +497,11 @@ See All Newsletters   Advertisement Clip of the Day
   
   
 
+*   Parenting Halloween Get Them Now! Costumes For Tweens and Teens
+*   Global iVote Where Barack Obama and Mitt Romney Stand on Jobs
 *   Entertainment Celeb News Ask iVillage Guest Editor Alicia Keys a Question!
-*   Entertainment iVote Michelle Obama: Malia and Sasha Focused on Homecoming, Not Election!
-*   Food Halloween Blast from the Past! 20 Retro Halloween Candies
-*   Beauty Stuff We Love What Not to Do: Awkward Wedding Photos
-*   Entertainment Photos VOTE! Can These Hollywood Hunks Pull Off Long Hair?
+*   Beauty DIY Beautify DIY Beautify: Get Noticed with Bright Lips and Cheeks
+*   Health Breast Cancer Awareness A Survivor Helms the Avon Walk for Breast Cancer
 
 *   Join iVillage
 *   Message Boards
