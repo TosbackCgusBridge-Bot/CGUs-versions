@@ -1,6 +1,6 @@
 Access Hollywood
 
-*   **HOT NOW:** Andrew Lincoln Talks The Walking Dead’s Season Premiere
+*   **HOT NOW:** The X Factor Names Hosts
 
 *   WATCH
 *   NEWS
@@ -141,15 +141,15 @@ Access Hollywood Live
 
  
 
-**Sophia Bush Talks CBS’ Partners**
+**Honey Boo Boo Talks Paparazzi, Favorite Stars**
 
-Plus, does she enjoy shooting the show in front of a live audience?
+Plus, she sings an original song about her father, “Sugar Bear!”
 
  
 
-**Stacy London: How My Struggles With Psoriasis Led To Fashion Career**
+**Superfoods To Help Fight Breast Cancer!**
 
-So, how did these traumatizing experiences lead her to a life working in the fashion industry?
+Dr. Nalini Chilkov, founder of Integrative Cancer, visits Access Hollywood Live to share tips on diet changes to lessen the risks of breast cancer.
 
  
 
@@ -168,17 +168,17 @@ Healthy Hollywood
 
  
 
-**Get Movin’ Monday – Gwyneth’s Fitness Weapon!  
+**Try It On Tuesday – Kate Gosselin’s Stress Rx!  
 **
 
-Meet the woman who whips Gwyneth — and many other women — into tip-top shape!
+If there’s one woman who is familiar with stress. it’s former reality TV star Kate Gosselin.
 
         Also Check Out:  
 
 **‘American Idol’  
 **
 
-Following up on the success of his hit single, “Home,” “American Idol” winner Phillip Phillips will release his debut album next month.
+President Obama has chimed in on the Mariah Carey/Nicki Minaj “American Idol” feud.
 
  
 
@@ -232,7 +232,7 @@ Gay &. Lesbian Hollywood
 **Gay &. Lesbian Hollywood  
 **
 
-The number of gay and bisexual characters on scripted broadcast network TV is at its highest-ever level in the season ahead.
+After suffering a heart attack in August, Rosie O’Donnell said she is now doing much better after a trying year, thanks in part to wife Michelle Rounds.
 
  
 
