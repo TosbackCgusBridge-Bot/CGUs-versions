@@ -30,11 +30,11 @@ Rolling Stone Skip to the content.
 *   •
 *   Random Notes
 *   •
+*   RS on RDIO
+*   •
 *   On the Road
 *   •
-*   Women Who Rock
-*   •
-*   RS on RDIO
+*   On the Road App
 *   •
 *   RS Music News App
 
