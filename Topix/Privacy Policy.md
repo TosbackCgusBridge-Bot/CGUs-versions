@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Iran
+Mitt Romney
 
-European satellite provider cuts off 19 Iranian TV and radio s...
+Romney to get first question at debate
 
-Nobel Prize
+Libya
 
-2 U.S. economists win Nobel Prize
+Clinton takes Obama off Libya hook
 
 Politix
 
-Should Ron Paul join Gary Johnson on the libertarian ticket?
+Has the Libya scandal changed your opinion of the presidential...
 
 *   Home
 *   Forums
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
-  Ads by Glam
+ 
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 102,162 • Total comments across all topics: 188,088,606
+Comments made yesterday: 114,148 • Total comments across all topics: 188,191,389
 
 Copyright ©2012 Topix LLC
 
