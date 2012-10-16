@@ -90,7 +90,7 @@ Jean-Pierre Remy
       
     Notre politique de protection de la vie privée vous permet d’en savoir plus sur la collecte et le traitement de vos données personnelles par PagesJaunes ainsi que sur vos droits.  
       
-    Vous pouvez consultez la liste des traitements vous concernant en vous adressant au Correspondant Informatique et Libertés (CIL) de PagesJaunes à l’adresse suivante : PagesJaunes – Correspondant Informatique et Libertés – 7, avenue de la Cristallerie – 92317 Sèvres Cedex.  
+    Vous pouvez consultez la liste des traitements vous concernant en vous adressant au Correspondant Informatique et Libertés (CIL) de PagesJaunes par voie postale à l’adresse suivante : PagesJaunes – Correspondant Informatique et Libertés – 7, avenue de la Cristallerie – 92317 Sèvres Cedex ou par courrier électronique à l'adresse cil-pjg@pagesjaunes.fr.  
       
     Pour mieux connaître vos droits et vos devoirs, vous pouvez également consulter le site de la Commission Nationale de l’Informatique et des Libertés www.cnil.fr.  
     
@@ -182,13 +182,11 @@ Jean-Pierre Remy
       
     **3\. Quels sont vos droits ?**  
       
-    Conformément à la loi Informatique et Libertés du 6 janvier 1978 modifiée par la loi du 6 août 2004, vous disposez de droits d'accès, de rectification et d’opposition aux données personnelles vous concernant. _Vous pouvez exercer ces droits en justifiant de votre identité_   
+    Conformément à la loi Informatique et Libertés du 6 janvier 1978 modifiée par la loi du 6 août 2004, vous disposez de droits d'accès, de rectification et d’opposition aux données personnelles vous concernant. Vous pouvez exercer ces droits en justifiant de votre identité   
       
-    \-      par courrier électronique à l’adresse, ou  
-    **\-** par voie postale à l’adresse suivante : PagesJaunes, Centre Relation Client, 7 avenue de la Cristallerie, 92317 Sèvres Cedex, ou  
-    \-      en passant par l'un des formulaires présent ICI  
+    \-      par voie électronique en passant par l'un des formulaires présent ICI, ou  
+    **\-** par voie postale à l’adresse suivante : PagesJaunes, Centre Relation Client, 7 avenue de la Cristallerie, 92317 Sèvres Cedex.  
       
-    En ce qui concerne la publicité et les contenus personnalisés, vous pouvez exercer vos droits en envoyant un courrier électronique à l'adresse suivante : cil-pjg@pagesjaunes.fr  
       
     Vues immersives  
       
