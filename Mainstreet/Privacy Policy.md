@@ -123,7 +123,7 @@ Please note that this Privacy Policy will not apply to your independent relation
 
 Questions or comments regarding this policy should be directed to privacy@thestreet.com. TheStreet reserves the right to modify this policy.
 
-Brokerage Partners Sponsored Links
+You work hard, protect all you've achieved. Get ProtectMyID! Brokerage Partners Sponsored Links
 
 *   _MOST VIEWED_
 *   _MOST COMMENTED_
