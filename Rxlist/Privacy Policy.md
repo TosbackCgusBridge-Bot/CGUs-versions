@@ -1,7 +1,7 @@
 *   Like Us
 *   Follow Us
 
-Pill Identifier Search October 15, 2012
+Pill Identifier Search October 16, 2012
 
 *   Home
 *   Drugs A-Z
@@ -296,10 +296,10 @@ Featured Topics
 New &. Updated
 
 *   Cystaran
-*   Eylea
-*   Kalydeco
-*   Ortho Evra
-*   Stivarga
+*   Cozaar
+*   Neoral
+*   Sandimmune
+*   Tbo-filgrastim
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
