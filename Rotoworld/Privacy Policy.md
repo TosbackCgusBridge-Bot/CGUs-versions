@@ -34,6 +34,7 @@ To search for a player use one of two formats:
 
 COLUMNS
 
+*   Beltran Blasting Off Again Oct 15
 *   NLCS: Cardinals vs. Giants Oct 14
 *   ALCS: Tigers vs. Yankees Oct 13
 *   Ibanez Saves Yankees Oct 11
@@ -41,7 +42,6 @@ COLUMNS
 *   Fantasy MVPs and LVPs Oct 6
 *   Cabrera Crowned Oct 4
 *   Closer Keeper Rankings Oct 3
-*   Frantic Finales Oct 3
 
 PREMIUM CONTENT
 
@@ -56,6 +56,10 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Giants tie up NLCS behind Vogelsong's effort
+*   Scutaro getting an MRI after negative X-rays
+*   Red Sox to interview Ausmus, Hale this week
+*   Reds sign Dusty Baker to two-year extension
 *   Beltran powers Cardinals to NLCS Game 1 win
 *   Report: Jeter (ankle) likely to need surgery
 *   Sanchez outduels Kuroda, Tigers win Game 2
@@ -64,10 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Young plates winning run, Tigers take Game 1
 *   Valverde implodes, blows four-run lead in 9th
 *   A-Rod hitless as Yankees fall in ALCS Game 1
-*   Alex Rodriguez in lineup for Game 1 of ALCS
-*   Yankees announce Kuroda as Game 2 starter
-*   Mets could begin talks with Wright next week
-*   Nunez dropped from Yankees ALCS roster
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Norv's Pain, Peyton's Gain Oct 16
+*   Matchup: Broncos @ Chargers Oct 15
 *   Rodgers Reasserts Rule Oct 15
 *   Down goes DeMarco Oct 15
+*   Best Available NFL Free Agents Oct 15
 *   Week 6 Live Blog Oct 14
 *   Updated Week 6 Rankings Oct 14
 *   Week 6 Injury Questions Oct 13
-*   Week 6 Starts and Sits Oct 13
-*   Friday Rundown Oct 12
-*   Week 6 Chat Recap Oct 12
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Nelson explodes for three TDs in Pack rout
-*   Rodgers carves up Texans for 6 TDs in rout
-*   Ravens docs believe Lewis may be done for '12
-*   Kevin Kolb is headed for X-rays on his ribs
-*   Peterson's touchdown drought reaches 5 games
-*   Welker gashes Seattle for 10 catches in loss
-*   Fitz surpasses 10,000 career yds mark in loss
-*   Aaron Hernandez scores touchdown in return
-*   Seahawks hold Ridley to 34 yards on 16 totes
-*   Spiller totals 110 yds, TD in OT win over ARZ
-*   With 3 TDs, RG3 leads Skins to upset victory
-*   Bradshaw rolls on, gashes 49ers for 116 yards
+*   Peyton leads Broncos comeback with 3 TDs
+*   Rivers with six turnovers in epic collapse
+*   Lloyd suffers bruised shoulder in Sunday loss
+*   Report: Browns LB Fujita's career in jeopardy
+*   McCarthy confirms ILB Smith done for 2012
+*   Lions rule out Jahvid Best for rest of season
+*   Malcom Floyd expected to play Monday night
+*   Titans to give Matt Hasselbeck another start
+*   DeMarco Murray is 'doubtful' to face Panthers
+*   MRI shows Garcon battling inflamed 2nd toe
+*   Webb officially done for '12 with torn ACL
+*   Ray Lewis' triceps fully torn. out for season
 
 NBA PAGES
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Mike Conley hits five 3PTs in exhibition win
-*   Anthony Davis (groin) held out of contact
-*   Andrew Bynum gets injection in ailing knees
-*   Kevin Seraphin (calf) ruled out for Monday
-*   Chris Paul (thumb) makes preseason debut
-*   O.J. Mayo limited in preseason by hand injury
-*   Brook Lopez (foot) leads Nets with 19 points
-*   Kevin Love out Saturday w/ sore elbow
-*   Andrei Kirilenko sidelined by sore hamstring
-*   McGee starts in Friday's win over the Spurs
-*   Waiters takes over in Cavs' preseason win
-*   Irving struggles with 2-of-15 effort vs. CHI
+*   Stephen Curry scores 25 on 10-of-15 shooting
+*   Delonte suspended for 'detrimental conduct'
+*   Dirk (knee) still waiting on surgery decision
+*   Big Baby goes for 27 and 8 against the Cavs
+*   Harden (groin) will not play on Tuesday
+*   Jeremy Lin (knee) given prescribed rest
+*   Granger (knee) to play final preseason games
+*   Eric Gordon hoping to test knee soon
+*   Andrew Bynum getting Synvisc injection
+*   Andrew Bogut cleared for 1-on-1 contact
+*   Kendrick Perkins (wrist) uncertain for opener
+*   Danny Granger (knee) practices on Sunday
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Taylor Hall to join AHL Oklahoma City Tuesday
+*   Cory Conacher is the AHL player of the week
+*   Report: Corey Tropp is done for the season
+*   Emmerton breaks his finger in finnish debut
+*   CBA talks might move towards main issues
+*   Tomas Kopecky signs with HK Dukla Trencin
+*   Sam Gagner to join Klagenfurt in Austria
 *   Giroux, Briere light it up for Eisbaren
 *   Tyler Myers to join Klagenfurter AC Tuesday
 *   Brayden Schenn scores twice, assists in win
 *   Malcolm Subban kicks aside 44 shots in win
 *   Prospect Anthony Mantha unstoppable in QMJHL
-*   Jake Gardiner enjoys solid AHL season debut
-*   Ohlund rehabbing but NHL return remote
-*   Martin St. Louis worried about layoff
-*   Anton Babchuk scores winner in KHL game
-*   Chara scores in KHL loss Saturday
-*   Ovie has 2 assists in KHL win Saturday
-*   Sens' Francois Brassard excelling in QMJHL
 
 NASCAR PAGES
 
@@ -285,6 +285,8 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   McIlroy plans to curb his schedule next year
+*   Hamrick medals at last four-spotter of 2012
 *   Blixt breaks through at the Frys.com Open
 *   Walker shares course record. ties career low
 *   Stefani locks up TOUR card with second title
@@ -295,8 +297,6 @@ FANTASY GOLF NEWS
 *   Fowler shelved indefinitely with 'back issue'
 *   More details emerge on Levin. back at Sony
 *   Crane (back) drops out of the Frys.com Open
-*   Jacobson withdraws from the Frys.com Open
-*   Tim Clark withdraws from the Frys.com Open
 
 NFL DRAFT PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Kenny Vaccaro: Spread Stopper Oct 15
 *   Senior Prospect Rankings Oct 14
 *   Week Seven Matchup Preview Oct 12
 *   The Human Genome Oct 10
@@ -318,7 +319,6 @@ COLUMNS
 *   Prospect Snapshots: Weeks 5-6 Oct 8
 *   Week Six Matchup Preview Oct 5
 *   Under Pressure Oct 3
-*   Week Five Matchup Preview Sep 28
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Iowa's top runner Weisman not on depth chart
+*   Longhorns QB Ash 'appears to be fine' (wrist)
+*   Beavers CB Poyer intercepts another vs BYU
+*   Damontre Moore adds 1.5 sacks versus LaTech
+*   Golson has 'mild concussion', likely to play
+*   Plan is for Mizzou QB Franklin to play vs UK
+*   Vols RB Neal doubtful for Alabama (ankle)
+*   LaTech WR Patton has 21/233/4 TDs vs A&M
+*   McCarron is 'fine', only has a bruised knee
 *   Tyler Wilson shreds Wildcats for five TDs
 *   Manuel completes 27-of-34 for 439 yds, 4 TDs
 *   Silas Redd runs over Huskies for 155 yards
-*   Longhorns DE Jeffcoat out for year (pectoral)
-*   Marcus Lattimore held in check by LSU defense
-*   Geno Smith, Mountaineers struggle vs Tex Tech
-*   Denard Robinson accounts for four total TDs
-*   Tar Heel RB Bernard shreds Canes defense
-*   Canes QB Morris goes down in 4th Q (ankle)
-*   Montee Ball breaks Big Ten total TD record
-*   Jawan Jamison limited to 2.3 ypc vs Syracuse
-*   Longhorns QB Ash leaves for X-rays on wrist
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   MLB:Beltran powers Cardinals to NLCS Game 1 win
-*   NFL:Rodgers carves up Texans for 6 TDs in rout
-*   CFB:Longhorns DE Jeffcoat out for year (pectoral)
-*   NFL:Ravens docs believe Lewis may be done for '12
-*   NFL:Kevin Kolb is headed for X-rays on his ribs
-*   MLB:Sanchez outduels Kuroda, Tigers win Game 2
-*   NFL:Aaron Hernandez scores touchdown in return
-*   NFL:Spiller totals 110 yds, TD in OT win over ARZ
-*   NFL:Bradshaw rolls on, gashes 49ers for 116 yards
-*   NFL:Brady's latest huge game marred by two picks
-*   GOL:Blixt breaks through at the Frys.com Open
-*   MLB:Report: Jeter (ankle) likely to need surgery
+*   NBA:Dirk (knee) still waiting on surgery decision
+*   NFL:Peyton leads Broncos comeback with 3 TDs
+*   NFL:Rivers with six turnovers in epic collapse
+*   MLB:Giants tie up NLCS behind Vogelsong's effort
+*   MLB:Scutaro getting an MRI after negative X-rays
+*   NFL:Lloyd suffers bruised shoulder in Sunday loss
+*   NFL:Report: Browns LB Fujita's career in jeopardy
+*   NBA:Eric Gordon hoping to test knee soon
+*   NFL:Lions rule out Jahvid Best for rest of season
+*   NFL:Malcom Floyd expected to play Monday night
+*   NFL:Titans to give Matt Hasselbeck another start
+*   NBA:Andrew Bynum getting Synvisc injection
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1W. PowellNFL (11203)
-*   2J. BestNFL (10020)
-*   3A. GreenNFL (8590)
-*   4H. NicksNFL (8269)
-*   5J. StarksNFL (7326)
+*   1W. PowellNFL (9586)
+*   2J. BestNFL (9540)
+*   3H. NicksNFL (7634)
+*   4V. BallardNFL (7563)
+*   5A. HernandezNFL (6872)
 
-*   6A. HernandezNFL (7296)
-*   7L. Stephens-HowlingNFL (7239)
-*   8V. BallardNFL (7105)
-*   9R. Griffin IIINFL (7052)
-*   10G. JenningsNFL (6626)
+*   6R. Griffin IIINFL (6613)
+*   7R. MendenhallNFL (6435)
+*   8A. GreenNFL (6210)
+*   9G. JenningsNFL (6124)
+*   10P. GarconNFL (5978)
 
   
 Video Center
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines Rodgers Reasserts Rule  
-Oct 15 Aaron Rodgers turned things around, but which other players stood out for better or worse? Chet Gresham recaps the Week 6 action.  
+  Headlines Norv's Pain, Peyton's Gain  
+Oct 16 Patrick Daugherty breaks down the Chargers' latest collapse and Peyton Manning's latest triumph in Tuesday's Dose.  
   
 More NFL Columns
 
+*   »Norv's Pain, Peyton's Gain Oct 16
+*   »Matchup: Broncos @ Chargers Oct 15
 *   »Rodgers Reasserts Rule Oct 15
 *   »Down goes DeMarco Oct 15
+*   »Best Available NFL Free Agents Oct 15
 *   »Week 6 Live Blog Oct 14
 *   »Updated Week 6 Rankings Oct 14
 *   »Week 6 Injury Questions Oct 13
-*   »Week 6 Starts and Sits Oct 13
-*   »Friday Rundown Oct 12
-*   »Week 6 Chat Recap Oct 12
 
 NFL Headlines
 
-*   »Nelson explodes for three TDs in Pack rout
-*   »Rodgers carves up Texans for 6 TDs in rout
-*   »Ravens docs believe Lewis may be done for '12
-*   »Kevin Kolb is headed for X-rays on his ribs
-*   »Peterson's touchdown drought reaches 5 games
-*   »Welker gashes Seattle for 10 catches in loss
-*   »Fitz surpasses 10,000 career yds mark in loss
-*   »Aaron Hernandez scores touchdown in return
-*   »Seahawks hold Ridley to 34 yards on 16 totes
-*   »Spiller totals 110 yds, TD in OT win over ARZ
-*   »With 3 TDs, RG3 leads Skins to upset victory
-*   »Bradshaw rolls on, gashes 49ers for 116 yards
+*   »Peyton leads Broncos comeback with 3 TDs
+*   »Rivers with six turnovers in epic collapse
+*   »Lloyd suffers bruised shoulder in Sunday loss
+*   »Report: Browns LB Fujita's career in jeopardy
+*   »McCarthy confirms ILB Smith done for 2012
+*   »Lions rule out Jahvid Best for rest of season
+*   »Malcom Floyd expected to play Monday night
+*   »Titans to give Matt Hasselbeck another start
+*   »DeMarco Murray is 'doubtful' to face Panthers
+*   »MRI shows Garcon battling inflamed 2nd toe
+*   »Webb officially done for '12 with torn ACL
+*   »Ray Lewis' triceps fully torn. out for season
 
 NFL Links
 
