@@ -687,13 +687,13 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡Buenísimas!
+*   ¡Caliente!
     
-    Más de 70 fotos de cheerleaders de la NFL.
+    Tu temperatura sube con estas imágenes sexy.
     
-*   ¡La dieta del chocolate!
+*   ¡La moda colorida!
     
-    No podrás resistir el deseo de hacerla  
+    Combínate este otoño y añade color a tu estilo  
     
 *   Los hombres de Anahí
     
