@@ -232,15 +232,15 @@ Previous Section Salem
 
 I arrived in a large city, densely packed with ancient cathedrals and churches...
 
-4.32 / 5.00 64,426 Views Deep Sleep
+4.31 / 5.00 65,165 Views Deep Sleep
 
 Find a way out of this deadly nightmare dream!
 
-4.22 / 5.00 90,074 Views Talk Head
+4.21 / 5.00 90,948 Views Talk Head
 
 Lip-Sync any audio track from around NG and the web!
 
-4.06 / 5.00 57,071 Views Next Section 212:90:0 bottom-superbanner:728x90
+4.06 / 5.00 57,860 Views Next Section 212:90:0 bottom-superbanner:728x90
 
 **© Copyright 1995-2012 Newgrounds, Inc. All rights reserved. Privacy Policy | Terms of Use**
 
