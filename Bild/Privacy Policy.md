@@ -1,6 +1,6 @@
 Zur Hauptnavigation springen. Zum Inhalt springen.
 
-*   15.10.2012 - 14:15 Uhr
+*   16.10.2012 - 14:14 Uhr
 *   ABO
 *   RSS
 *   Online-Services
@@ -647,7 +647,7 @@ zurück Service Immobilien-Suche powered by Jetzt die passende Wunsch-Immobilie 
 *   Fotogalerien
 *   Videos
 
-1 1 Jetzt im Video So sah Baumgartner die Welt auf sich zurasen So sah Baumgartner die Welt auf sich zurasen ThemaFelix Baumgartner 2 2 Bei Günther Jauch „Sie sind nur Kachelmann“ „Sie sind nur Kachelmann“ ThemaKachelmann-Prozess 3 3 Eva Herman So verlor ich mein ganzes Geld! So verlor ich mein ganzes Geld! ThemaTV-Moderatoren 4 4 „Ich zerreisse dich“ So bedrohte Armstrong seine Kollegen So bedrohte Armstrong seine Kollegen 5 5 Strompreis-Hammer Ökostrom-Umlage steigt um fast 50 Prozent Ökostrom-Umlage steigt um fast 50 Prozent Navigation:
+1 1 Die Eltern seiner Freundin „Lothar Matthäus ist uns nicht frisch genug“ „Lothar Matthäus ist uns nicht frisch genug“ ThemaLothar Matthäus 2 2 Philipp &. Veits Trennung Männer-Klau bei „Bauer sucht Frau“ Männer-Klau bei „Bauer sucht Frau“ ThemaBauer sucht Frau 3 3 Störfall bei Kraft Angst vor der Gift-Wolke Angst vor der Gift-Wolke 4 4 Strom-Wut Wieso zahlen wir für die Golfplätze der Bonzen? Wieso zahlen wir für die Golfplätze der Bonzen? ThemaEnergiewende 5 5 Kuba Libre in der Karibik Reisefreiheit für Kubaner Reisefreiheit für Kubaner ThemaKuba Navigation:
 
 1.  Home
 2.  News
@@ -667,63 +667,63 @@ zurück Service Immobilien-Suche powered by Jetzt die passende Wunsch-Immobilie 
 
 Service
 
+*   News
+*   Wetter
 *   Politik
 *   Politiker twittern
 *   Aktuelle Petition
-*   Unterhaltung
-*   BILD Kino
-*   TV-Programm
-*   Musikvideos
-*   Shopping
-*   Tagesdeal
-*   Gutscheine
-*   BILD Shop
-
-*   Sport
-*   Super-Manager
-*   Bundesliga Tippspiel
-*   Sportdatencenter
-*   Sport Livekalender
-*   Auto
-*   Gebrauchtwagen
-*   Neuwagen
-*   News
-*   Wetter
 *   Geld
-
 *   Stromtarif-Vergleich
 *   KFZ-Versicherung
 *   Haftpflichtversicherung
 *   Kredit-Vergleich
 *   Tagesgeld-Vergleich
+
 *   Steuer-Rechner
 *   Gehaltscheck
 *   Gas-Vergleich
 *   DSL-Vergleich
 *   Ökostrom-Vergleich
 *   Börse
+*   Sport
+*   Super-Manager
+*   Bundesliga Tippspiel
+*   Sportdatencenter
+*   Sport Livekalender
 
+*   Unterhaltung
+*   BILD Kino
+*   TV-Programm
+*   Musikvideos
 *   Ratgeber
 *   Bewerbungsgenerator
 *   Immobiliensuche
-*   Lifestyle
-*   Horoskop
-*   Partnersuche
-*   Erotik
-*   Livecams
-*   Seitensprung
-*   Erotik 1
 *   Digital
-
 *   Fotoservice
 *   Download
 *   Bild Mobil
+
 *   Spiele
 *   Online-Spiele
 *   Browser-Spiele
 *   Download-Spiele
 *   Karten-Spiele
 *   BILDspielt
+*   Lifestyle
+*   Horoskop
+*   Partnersuche
+*   Erotik
+*   Livecams
+
+*   Seitensprung
+*   Erotik 1
+*   Shopping
+*   Tagesdeal
+*   Gutscheine
+*   BILD Shop
+*   Auto
+*   Gebrauchtwagen
+*   Neuwagen
 *   Sonstiges
 *   Newsletter
 
