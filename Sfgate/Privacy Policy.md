@@ -1,6 +1,6 @@
 (skip this header)
 
-Monday Oct 15, 2012 5:06 AM PT
+Tuesday Oct 16, 2012 5:06 AM PT
 
 ° (change)
 
@@ -60,11 +60,10 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Chopra
-*   Napa's shifting dining scene
-*   Close box office results
-*   Brewster Kahle's Internet Archive
-*   Actor Gary Collins dies
+*   Poehler, Fey to host Globes
+*   'Tourist Trapped' at pumpkin fest
+*   Election endorsements
+*   Tragic cooking of tuna worker
 *   Giants playoff gear!
 
 *   Bay Area &. State
@@ -380,42 +379,61 @@ Ads by Yahoo! Photo Galleries
 *   Giants at Reds: Game 4
 *   Day in Pictures, Oct. 10, 2012
 
+*   Most Read
+*   |
 *   Most Commented
+*   |
+*   Most Emailed
 
-1.  No chance? Giants have no problems in 26-3 rout of 49ers
-2.  Skydiver hopes to break sound barrier on Sunday
-3.  S.F. bids to be host city for Super Bowl
-4.  Calif. expected to lose 100 dairy farms
-5.  Obama, Romney hunker down for debate prep
-6.  At 0-32, gay-marriage forces seek 1st win at polls
-7.  Giants fall to Cards in NLCS opener, 6-4
+1.  UC law students held in bird beheading
+2.  Payback is sweet as Giants even series
+3.  Teen fatally shot by deputy in San Antonio
+4.  Giant eyeball on Fla. beach may be from swordfish
+5.  Max Wade to stand trial as adult
+6.  Injured Marco Scutaro avenges Matt Holliday takeout. SF Giants even NLCS
+7.  ‘Evil Elmo’ Sighting at Popular San Francisco Playground
+
+1.  Dean aghast at Vegas bird beheading
+2.  Port official blows $4,500 at strip club
+3.  Victims' advocates decry Mirkarimi outcome
+4.  Giants fall to Cards in NLCS opener, 6-4
+5.  Net sharpens divide over cop shootings
+6.  Study: Privatized Medicare would raise premiums
+7.  Beautification to slow 19th Avenue down
+
+1.  UC law students held in bird beheading
+2.  Police release 21 names in Maine Zumba sex case
+3.  3-D printer turns out plastic guitar
+4.  'Ethel' review: Extraordinary Kennedy
+5.  Politician Mervyn Dymally dies at 86
+6.  Venice has less glamour, more clamor
+7.  Put a fresh twist on French classics
 
 loading... Latest News Videos From our homepage
 
 *     
     Brant Ward, The Chronicle / SF
     
-    Giants gotta get away
+    Giants get Game 2 payback
     
-    Bumgarner lit up again, S.F. loses again at home in NLCS Game 1.
+    Huge collision motivates Giants to even up NLCS at 1-1. Photos
     
-*   Crowd can't will comeback
+*   Scutaro MRI | Will Clark on slide
 
 *     
-    Handout, Getty Images / SF
+    Frankie Frost, Associated Press / SF
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 8:26 p.m., Sunday, October 14, 2012 Leap breaks sound barrier
+    Max Wade to stand trial
     
-    Extreme athlete lands safely after 24-mile skydive. Photos
+    Marin County teen accused of Lamborghini heist faces charges that include attempted murder.
     
-*   History of the sound barrier
 
 *     
-    Jason Henry, Special To The Chronicle / SF
+    Laura Morton, Special To The Chronicle / SF
     
-    Treasure Island rocks
+    S.F. honors Hearst's 125th
     
-    Fans party onstage, elsewhere on the island during annual two-day music fest. Photos
+    Tony Bennett, others hit Legion of Honor for 'Citizen Hearst' film screening and festivities. Photos
     
 
 *   Home
