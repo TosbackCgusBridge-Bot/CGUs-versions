@@ -2,7 +2,7 @@ Bravo
 
 *   Shows &. Schedules
     
-    *   The Real Housewives of New Jersey A Broken Family Sundays @ 10/9C
+    *   The Real Housewives of New York City Where the Friendship went South Mondays @ 9/8C
     
     Current
     
@@ -13,6 +13,7 @@ Bravo
     *   Life After Top Chef
     *   LOLwork
     *   Million Dollar Decorators
+    *   Shahs of Sunset
     *   Start-Ups: Silicon Valley
     *   The Real Housewives of Atlanta
     *   The Real Housewives of Beverly Hills
@@ -24,12 +25,12 @@ Bravo
     *   Watch What Happens Live
     
     What's On Tonight
-    *   New 9:00 PM The Real Housewives of New York CityEp 20: Reunion Part II
-    *   10:00 PM The Real Housewives of New York CityEp 20: Reunion Part II
-    *   New 11:00 PM Watch What Happens LiveJill ZarinSee All Shows » See Full Schedule »
+    *   9:00 PM The Real Housewives of New JerseyEp 23: Reunion Part 3
+    *   New 10:00 PM Flipping OutEp 7: Cleaning House
+    *   New 11:00 PM Watch What Happens LiveLuAnn de Lesseps &. Lauren ConradSee All Shows » See Full Schedule »
 *   People &. Blogs
     
-    *   Read The Dish's Latest Post Melissa Gorga's 'I Just Wanna' Video!
+    *   Read Carole Radziwill's Latest Post Carole Says Dream Big
     
     Current Bravolebrities
     
@@ -63,18 +64,18 @@ Bravo
     *   Teresa Giudice
     
     Recent Blog Posts
-    *   The Dish Patti Stanger Talks Rihanna and Chris Brown
-    *   The Dish Richard Blais' Shocking Weight Loss
-    *   The Dish Get Inside Bravo Scoop With ZeeboxAll People » More Blog Posts »
+    *   LuAnn de Lesseps LuAnn's Lessons Learned
+    *   Heather Thomson No Good Deed for Sonja Goes Unpunished
+    *   Caroline Manzo RHONJ Reunion ChaosAll People » More Blog Posts »
 *   Videos &. Full Episodes
     
-    *   Watch What Happens Live After Show: Melissa to Teresa: "You're So Vain"
+    *   Watch What Happens Live Jill Zarin: “I Don’t Pay for my Friends”
     
     Recent Clips
     
-    *   Watch What Happens Live After Show: Melissa Gorga's Music Career
-    *   Watch What Happens Live Mario Party
-    *   Watch What Happens Live Saved by the Dimp-Ell
+    *   Watch What Happens Live Jill's Beef with Bethenny
+    *   Watch What Happens Live Jill Zarin Disses the New RHONY
+    *   Watch What Happens Live Jill Zarin: "Why Was I Fired?"
     
     New Full Episodes
     *   The Real Housewives of New Jersey Episode 21: Reunion Part 1
@@ -284,28 +285,28 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   THE REAL HOUSEWIVES OF NEW YORK CITY THE AMBUSH
-    
-    7:00 AM ET
-    
-*   THE REAL HOUSEWIVES OF NEW YORK CITY A RIAD DIVIDED
+*   WATCH WHAT HAPPENS LIVE: MIAMI HOUSEWIVES REUNION
     
     8:00 AM ET
     
+*   THE REAL HOUSEWIVES OF MIAMI A TALE OF TWO MIAMIS
+    
+    9:00 AM ET
+    
 
-view complete schedule The Dish - Bravo's Daily News Get Inside Bravo Scoop With Zeebox
+view complete schedule The Dish - Bravo's Daily News Kyle Richards Is 'Scared' of New Season
 
-Download the app to get fun behind-the-scenes facts on your favorite shows.
+C'mon, what could be so frightening about Beverly Hills?
 
-Read More Bravo IQ: Remodels and Recipes
+Read More 'Shahs of Sunset' Season 2 Is On!
 
-How closely were you watching Bravo this week?
+Reza, MJ and the Persian posse will return on December 2.
 
 Read More More Dish Get insider Bravo news in our weekly update!
 
 Must be 13 or older
 
-Sponsored Headlines What's Hot RHONJ Full Episode: Reunion Part 2 RHOM Pre-Supermodel Joanna RHONJ Get Reunion Extras with the Zeebox App RHONY Preview Reunion Part 2 Flipping Out Jeff's Boldest Looks Life After Top Chef Culinary Portfolios More Shows
+Sponsored Headlines What's Hot RHONJ Even More Reunion Outtakes! RHOM Lea Black Before She was a Housewife Start Ups: Silicon Valley Season 1 Sneak Peek RHONY Preview Reunion Part 2 Flipping Out Before and After: Spring Oak Life After Top Chef Tour Spike's Crib More Shows
 
 *   The Real Housewives of Atlanta
 *   Life After Top Chef
