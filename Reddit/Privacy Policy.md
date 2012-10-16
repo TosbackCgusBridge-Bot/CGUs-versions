@@ -30,32 +30,32 @@ jump to content my reddits AdviceAnimalsannouncementsAskRedditatheismawwbestofbl
 *   \-pokemon
 *   \-4chan
 *   \-reactiongifs
-*   \-mylittlepony
 *   \-mildlyinteresting
-*   \-starcraft
+*   \-thewalkingdead
+*   \-mylittlepony
 *   \-doctorwho
-*   \-gentlemanboners
-*   \-circlejerk
-*   \-LadyBoners
 *   \-facepalm
-*   \-skyrim
-*   \-LifeProTips
-*   \-cats
-*   \-woahdude
+*   \-gentlemanboners
+*   \-starcraft
+*   \-circlejerk
 *   \-nfl
-*   \-tf2
-*   \-breakingbad
+*   \-LadyBoners
+*   \-skyrim
+*   \-cats
+*   \-LifeProTips
+*   \-news
 *   \-Jokes
+*   \-breakingbad
+*   \-woahdude
+*   \-tf2
+*   \-adventuretime
+*   \-cars
+*   \-DotA2
 *   \-wow
 *   \-CFB
-*   \-DotA2
-*   \-adventuretime
-*   \-news
-*   \-firstworldanarchists
-*   \-cars
 *   \-TheLastAirbender
-*   \-space
-*   \-gameofthrones
+*   \-Android
+*   \-firstworldanarchists
 
 more » reddit.com help want to join? login or register in seconds|
 
@@ -153,7 +153,7 @@ Use of this site constitutes acceptance of our User Agreement and Privacy Policy
 
 REDDIT and the ALIEN Logo are registered trademarks of reddit inc.
 
-π Rendered by PID 4735 on app-44 running bd731f1.
+π Rendered by PID 2191 on app-45 running a3288d6.
 
 you'll need to login or register to do that create a new account
 
