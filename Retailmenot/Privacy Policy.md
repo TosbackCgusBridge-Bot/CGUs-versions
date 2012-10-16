@@ -3,9 +3,10 @@ RetailMeNot Score the Savings You Want™ Search for savings from your favorite 
 e.g. halloweenfall savingsmacy'skohl'sbest buytargetamazonold navy
 
 *   Coupon Codes
+*   Free Shipping
 *   Printable Coupons
 *   Grocery Coupons
-*   Free Shipping
+*   Holiday
 
 Browse by Category
 
