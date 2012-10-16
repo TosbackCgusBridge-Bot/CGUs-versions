@@ -16,7 +16,7 @@ Featured:
 
 *   Debates
 *   The Hero Project
-*   Andrew Sullivan
+*   Andrew Sullivan's The Dish
 *   Howard Kurtz
 *   David Frum
 
@@ -132,50 +132,50 @@ If you have any questions or concerns about this privacy policy, you may contact
 
 Stories We Like
 
-1.  EW Bill Murray Crashes NY Kickball Game
-2.  Huffington Post Politics The Tea Party Conspiracy You've Never Heard Of
-3.  Ask Men How to be the Most Popular Guy at the Bar
-4.  Mental Floss 6 Stories of Flight Attendants Gone Wild
-5.  Buzzfeed This is What Russell Crowe Looks Like Lately
-6.  Huffington Post Politics Elizabeth Warren Makes Staggering Announcement
-7.  Your Tango Do Prenups Predict Divorce?
-8.  Us Weekly Photo: Usher Celebrates 34th Birthday with Tom Cruise, Ridley Scott
-9.  Buzzfeed 4 Easy Ways to Be Ryan Lochte For Halloween
+1.  Us Weekly Photos: Partying with Robert Pattinson
+2.  Huffington Post Politics Marco Rubio Throws Cold Water on Romney's Tax Plan
+3.  Buzzfeed 30 DIY Halloween Costume Ideas
+4.  Ask Men A Sneak Peek at New James Bond: 'Skyfall'
+5.  Us Weekly Beyonce to Headline 2013 Super Bowl Halftime Show
+6.  Pop Sugar Scary Movies With a Dash of Romance for Halloween Date Night
+7.  Mental Floss 11 Creative Breakthroughs People Had in Their Sleep
+8.  Us Weekly See Blake Lively's Engagement Ring
+9.  Buzzfeed 11 Ways to Cook Bacon That Will Probably Kill You
 
   Most Popular
 
 1.  The Great Deformer
 2.  My Proof of Heaven
-3.  The 8 Things Obama Needs to Do
-4.  Sexist Billionaire Pigs
-5.  Lincoln Plays to Win
+3.  Angelina Jolie: We All Are Malala
+4.  Taliban Declare War on Media
+5.  Citi CEO Conspiracy Theories
 
   Other News Entertainment
 
-*   Celebs Who Own Their Own Companies: Would You Want Them As Your Boss?
-*   Celebs Who Overaccessorize
-*   Undressed for Oct. 11: The Week in Fashion Faux Pas
+*   Gray Hairs, Wrinkles and More Celeb Quotes
+*   Tori Spelling's Miracle Baby Finn: See the Family Photo Album
+*   Heartwarming Story of the Day: Justin Bieber Visits Cancer-Stricken Fan
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘How I Met Your Mother’ recap: Family
-*   Women have the last laugh! About time TWO gals such as Tina Fey, Amy Poehler host the Globes
-*   ‘Gossip Girl’ recap: WWD-Day
+*   At long last, David Letterman to appear on ‘Jimmy Kimmel Live!’
+*   Sarah Silverman’s dad takes down critical rabbi: ‘You don’t f— with my family’
+*   Guy uses Taylor Swift lyrics to pick up girls — VIDEO
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Hillary Clinton's 2008 Dead-Enders Fight On
-*   34 Things You Can Expect From BuzzFeed Food
-*   The News App That's Going To Drive The Media Insane
+*   Ohio To Allow Early Voting After Supreme Court Move
+*   What I Learned From Having a Stylist
+*   Other Woman In Dinesh D'Souza Affair Is A D'Souza Fan
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Clinton Explains Romney's $5 Trillion Tax Cut
-*   Latest Swing State Polls
-*   Romney Near Landslide Among Rural Voters
+*   Go Bold or Go Home
+*   Obama Rebound Is Possible
+*   Lawmaker Says Officials Should be Shot
 *   **Get More from Political Wire**
 
 The Daily Beast
@@ -199,7 +199,7 @@ Sections:
 *   Books
 *   Video
 *   Women in the World
-*   Andrew Sullivan
+*   Andrew Sullivan's The Dish
 *   Press
 *   Newsweek
 *   Subscribe
@@ -208,7 +208,7 @@ Featured:
 
 *   Debates
 *   The Hero Project
-*   Andrew Sullivan
+*   Andrew Sullivan's The Dish
 *   Howard Kurtz
 *   David Frum
 
