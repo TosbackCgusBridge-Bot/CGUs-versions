@@ -21,9 +21,9 @@
     *   Best iPhone Apps
 *   Walkthrough
 
-  Best Free Apps of the Day!
+  Free Today! The Heist
 
-Free! Super Mega Worm
+Past Top App Gone Free!
 
   New and Upcoming MMORPG's
 
