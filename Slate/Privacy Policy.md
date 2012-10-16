@@ -1,3 +1,5 @@
+Follow @slate
+
 *   News &. Politics
 *   Tech
 *   Business
@@ -125,11 +127,12 @@ Slate **Slide Shows**
 
 Click here to load comments.
 
-*   Why Christian Bookstores Banned This Evangelical Blogger's Book About the Bible
-*   Help! I Had an Affair With My Students’ Mother.
-
 *   Monkey Bars Broke My Daughter's Arm. Is It Time To Get Rid of Them?
-*   Spitzer: The Koch Brothers Write a Letter to Employees Whining About President Obama
+*   Why Christian Bookstores Banned This Evangelical Blogger's Book About the Bible
+
+*   Candy Crowley Says She Will Ask Follow-Up Questions Tonight Despite the Rules  
+    
+*   Eating Horses Isn't Just Mean to Horses. It's Bad for You.
 
 Discover _Slate_ With Your Friends See what your friends are reading and automatically share how you're browsing _Slate_. You control what gets published to your Facebook News Feed. Social Reading is Turn ON Turn OFF Feedback <. newer | older >. To temporarily turn off Social Reading, toggle the social reading button to OFF at the top of this box or in the toolbar areas of this page. This will allow you to see what your friends have read but won't show your reading activity on _Slate_. Always notify me when I've shared an article. LOG INTO FACEBOOK  
 
@@ -137,65 +140,68 @@ To enable Social Reading on Slate, log into...
   
 \[  Cancel |  OK  \]
 
-*   1\. Help! My Girlfriend Grows Hair on Her Chest.  
+*   1\. Why Obama Is Taking a Big Gamble Three Weeks Before Election Day  
+    By John Dickerson | October 16, 2012
+*   2\. Are Your Favorite TV Characters Democrat or Republican? We Have the Answers.  
+    By Holly Allen | October 15, 2012
+*   3\. Help! My Girlfriend Grows Hair on Her Chest.  
     By Emily Yoffe | October 16, 2012
-*   2\. Help! I Had an Affair With My Students’ Mother.  
+*   4\. Help! I Had an Affair With My Students’ Mother.  
     By Emily Yoffe | October 15, 2012
-*   3\. A Very Unusual Camera That Emphasizes Time Over Space  
-    By Judith B. Herman | October 15, 2012
-*   4\. An Evangelical Writer Spent a Year Living Biblically. Now a Major Christian Bookseller Won’t Carry Her Book.  
+*   5\. An Evangelical Writer Spent a Year Living Biblically. Now a Major Christian Bookseller Won’t Carry Her Book.  
     By Ruth Graham | October 15, 2012
-*   5\. Anxious? Blame the Predators in Your Primate Family History.  
-    By Rob Dunn | October 15, 2012
 
 *   1\. A Very Unusual Camera That Emphasizes Time Over Space  
     By Judith B. Herman | October 15, 2012
-*   2\. An Evangelical Writer Spent a Year Living Biblically. Now a Major Christian Bookseller Won’t Carry Her Book.  
+*   2\. Anxious? Blame the Predators in Your Primate Family History.  
+    By Rob Dunn | October 15, 2012
+*   3\. Is the Supreme Court About To Swing Another Presidential Election?  
+    By Richard L. Hasen | October 15, 2012
+*   4\. An Evangelical Writer Spent a Year Living Biblically. Now a Major Christian Bookseller Won’t Carry Her Book.  
     By Ruth Graham | October 15, 2012
-*   3\. What Makes A Great Boss? A Surprising New Study.  
-    By Matthew Yglesias | October 12, 2012
-*   4\. The Red Bull Stratos Jump Gets a Dramatic Lego Reenactment  
-    By Forrest Wickman | October 15, 2012
-*   5\. Daniel Lende: The Psychology of Constantly Checking Twitter  
-    By Robert Wright | October 14, 2012
+*   5\. The Ghostbusters, Gangnam-Style  
+    By David Haglund | October 15, 2012
 
 See More Stories on THE WEEK
 
 *   13 little-known punctuation marks we should be using
-*   Did global warming stop 16 years ago?
-*   5 ways Mitt Romney can win Tuesday's debate
+*   6 brutal takedowns of undecided voters
+*   Did Anonymous just unmask a man who allegedly drove a teen to suicide?
 
 See More Stories on newser
 
-*   Christians Slam Anti-Bully Day Over 'Gay Agenda'
-*   Source of Huge Eyeball on Fla. Beach ID'd
-*   Malala Airlifted to UK for Treatment
+*   Maxi Pad Maker to Ranter: You're Right, Periods Suck
+*   Report: Pandit Clashed With Citi Board
+*   Town-Hall Challenge: Can Romney, Obama Look Human?
 
 See More Stories on TIME
 
-*   What to Watch For in Tonight's Debate: A More Forceful Obama
-*   The Managed Democracy: A How-to Manual from Putin's Russia
-*   Hillary Clinton: 'I Take Responsibility' for Benghazi Security Lapse
+*   Romney's '12 Million Jobs' Pledge: A Cardboard Cutout of a Campaign Promise
+*   Malala Yousafzai: The Activist Father Who Inspired Her
+*   The Romney-Ryan Medicare Plan: How It Affects Seniors
 
 From The Root &. Foreign Policy
 
-*   What Obama Doesn't Get About Debates
-*   Not All That It Can Be
-*   Red Lines in the Sand
-*   Shooting Spurs Criticism of Memphis Police
-*   Work More, Make More?
-*   Who You Calling Ratchet?
+*   White Liberals Threaten 'Black Riots'?
+*   Trayvon Martin: The Latest, Week 33
+*   An Army of One
+*   Ohio Early-Voting Victory for Obama Camp
+*   Brown and Rihanna Beating, in Blackface
+*   Coming Out: Is It All About You?
 
 *   MORE Slate User Agreement And Privacy Policy COLUMNS
 
 *   VIEW OUR COMPLETE **Slate User Agreement And Privacy Policy** ARCHIVE
 
-*   Weigel: Republicans Are Giddy About Their Chances in Wisconsin. Will Dems Spoil the Fun?
-*   Why Christian Bookstores Banned This Evangelical Blogger's Book About the Bible
-*   How Come We Don’t Eat Pandas Anymore?
-*   Spitzer: The Koch Brothers Write a Letter to Employees Whining About President Obama
+*   Candy Crowley Says She Will Ask Follow-Up Questions Tonight Despite the Rules  
+    
+*   Dick Cheney Probably Shouldn't Criticize People for Not Being Prepared for Terrorist Attacks  
+    
 *   Monkey Bars Broke My Daughter's Arm. Is It Time To Get Rid of Them?
-*   Why Don't Astronomers Ever Admit When They're Wrong?
+*   Why Christian Bookstores Banned This Evangelical Blogger's Book About the Bible
+*   Eating Horses Isn't Just Mean to Horses. It's Bad for You.
+*   Advice for Tina Fey and Amy Poehler on Hosting the Golden Globes  
+    
 
 about us | contact us | User Agreement | Privacy Policy | _Slate_ on Facebook | ad choices  
 feedback | help | advertise | newsletters | mobile | make _Slate_ your homepage Slate is published by The Slate Group, a Division of the Washington Post Company  
