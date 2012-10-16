@@ -1,158 +1,123 @@
-*   Games
-    
-    *   New Games
-    *   Most Played
-    
-    *   Scoreboard Games
-    *   Top Rated Games
-    *   Random Games
-    
-    Popular Tags
-    
-    *   Racing Games
-    *   Sports Games
-    *   Zombie Games
-    
-    *   Bike Games
-    *   Killing Games
-
-*   Social
-    Login to become social.
-
-*   Play Later
-    
-    Login to see your play later games
-    
-
-*   Favorites
-    
-    Login to see your favorites and game history
-    
+*    
+    *   Games
+        
+        *   New Games
+        *   Most Played
+        
+        *   Scoreboard Games
+        *   Top Rated
+        *   Random Games
+    *   Popular Tags
+        
+        *   Racing Games
+        *   Sports Games
+        *   Zombie Games
+        
+        *   Bike Games
+        *   Killing Games
+        *   Shooting Games
 
 *   History
-    
-    Login to see your game history
-    
+    *   Login to see your history
+        
 
-*   Notifications
-    Login to view all your notifications.
+*   Favorites
+    *   Login to see your favorites
+        
 
-*   *   My Profile
-    *   My Groups
-    *   My Favourite Games
-    *   Account Settings
-    *   Logout
-*   Login or Register
+*   Login With Facebook
 
-x
+Welcome to Free Online Games New Free Online Games 1 / 2 Survivor Dead Valley Drive Big Head Football Monster Truck Zombies Box10 ATV 5 Zombie ATV Mini Moto Racer Super Awesome Truck 2 Spartacus Warzone Getaway 3 Stunt Rider Killer Trucks 2 Siege Of Troy New York Taxi License Park Them All Penguins Super Kart Speedboat Shooting Detective Conrad sift heads reassault Pole Vault Vortex Wars 2 High Jump Hurdles Race Long Jump Swimming Race Boxhead the Nightmare: Biever and Baby Swing World Smugglers Line Spunky vs Aliens Accurate Slapshot Scoreboard Games 1 / 2 Survivor Mini Moto Racer Spartacus Stunt Rider Siege Of Troy New York Taxi License Penguins Super Kart Detective Conrad Spunky vs Aliens Accurate Slapshot Stunt Pilot 2: San Francisco Fairytale Annihilation Overheat Cube Tank Arena War Elephant 4x4 Soccer Om Nom Zombies Phantom Slash Mini Metro Racers Off Roaders 2 Lawnmower Racing 3D Super Sprint Soccer Bird Blast Toms Beach Parking Lot Cruel Balls Eggstinction Canyon Valley Rally Sea Food And Shoot It Urban Micro Racers Zombie Express Top Rated Games 1 / 2 Wordz S-7OB-2 SEAHAWK Sniper School Dragon Fist 2 Squares 2 x227 Spindle Tifosi Dragon Warrior Golden Bell Quest Jellyfish Shuffleboard Power Fox Gem Mania Wiki Wiki Tiki The Last Soldier Ant City Catch a Crab 2 Pirate Blaster Canyon Glider Heli Attack 2 Fleabag Vs Mutt Rich Racer Tube Racer Backyard Brawl Kung Fu Statesmen Kill The Popups Super Bobby World Bandit Kings Damnation Capoeira Fighter Most Played Games 1 / 2 Dirt Bike 2 Dirt Bike Sim Taxi Street Sesh Street Racer Drag Racer V3 Dare Devil Gangster Life Urban Sniper TU 95 Dune Bashing In Dubai Speed Racing Battle Board Planet Racer 18 Wheeler City Drifters School Bus License Day Drive Conquer Antarctica Dirt Bike 3 TANKS Uphill Rush City Driver Skull Kid Hey Taxi Alias Runner Mountain Bike New Metal Slug Connect 2 18 Wheeler 2 Favourite Games Login or Register to see your Favourite Games! Recently Played Games Login or Register to see your Recently Played Games! Popular Tags
 
-Welcome to Free Online Games Hello, would you like to sign in with your Facebook account? Login with Facebook Would you like to link your Facebook account? Link Facebook Account Play Now! Play Now! Play Now! Play Now! New Games
+*   Puzzle Games (920)
+*   Physics Games (319)
+*   Sports Games (301)
+*   Platform Games (282)
+*   Driving Games (264)
+*   War Games (259)
+*   Arcade Games (236)
+*   Fighting Games (213)
+*   RPG Games (187)
+*   Action Games (170)
+*   3D Games (158)
+*   Girl Games (149)
+*   Simulation Games (144)
+*   Point and Click Games (126)
+*   Dress Up Games (120)
+*   Survival Games (112)
+*   Matching Games (111)
+*   Food Games (103)
+*   Stickman Games (92)
+*   Maze Games (89)
+*   Jumping Games (83)
+*   Sword Fighting Games (78)
+*   Ninja Games (77)
+*   Water Games (75)
+*   X Games (74)
+*   Simple Games (72)
+*   Motorbike Games (65)
+*   Truck Games (62)
+*   Shoot Em Up Games (59)
+*   Football Games (52)
+*   Sniper Games (51)
+*   Building Games (48)
+*   Alien Games (47)
+*   Gun Games (46)
+*   Soccer Games (45)
+*   Tank Games (42)
+*   Dirt Bike Games (41)
+*   Aeroplane Games (39)
+*   Educational Games (35)
+*   Parking Games (35)
+*   Drawing Games (34)
+*   Boat Games (31)
+*   Battle Games (30)
+*   Fish Games (28)
 
-*   Dead Valley Drive Play Dead Valley Drive is a distance game based in a valley ful..
-*   Big Head Football Play Choose your character and try to score as many goals as po..
-*   Monster Truck Zomb.. Play Monster Truck Zombies game is a new fantastic game that's ..
-*   Box10 ATV 5 Play Race over this snowy terrain on your ATV Quad Bike Racing ..
-
-*   Zombie ATV Play You're a zombie and the humans are chasing after you! Hop ..
-*   Mini Moto Racer Play After the pressures of the championship, the riders need s..
-*   Super Awesome Truc.. Play Drive this Super Awesome Truck over this rough terrain and..
-*   Spartacus Play You play as Spartacus, as legend says: a true warrior figh..
-*   Warzone Getaway 3 Play Here it is! The third instalment of Warzone Getaway is BAC..
-
-*   Stunt Rider Play You're a retired motorbike stunt rider, a new upstart thin..
-*   Killer Trucks 2 Play Riots have broken out on the streets. Use one of your poli..
-*   Siege Of Troy Play Troy is under siege! Take arms and defend Troy with your l..
-*   New York Taxi Lice.. Play Time to earn your taxi drivers license. Follow the instruc..
-
-Most Played
-
-*   Dirt Bike 2 Play In this version you get a chance to test your biking skill..
-*   Dirt Bike Play In this extreme dirt biking game you have to ride your dir..
-*   Sim Taxi Play The main objective of the game is to look for passengers a..
-*   Street Sesh Play Grab your skate board and hit the streets. You can pull of..
-
-*   Street Racer Play Race your way to victory in the world of street racing. Tr..
-*   Drag Racer V3 Play This game is an authentic drag racing simulator where you ..
-*   Dare Devil Play The objective of the game is to do tricks to earn points. ..
-*   Gangster Life Play The objective of the game is to finish all the missions an..
-*   Urban Sniper Play The objective of the game is to follow the mission and kil..
-
-*   TU 95 Play Learn how to fly and maneuver the plane. Engage in the dif..
-*   Dune Bashing In Du.. Play Dune bashing is an adrenaline pumping action sport where y..
-*   Speed Racing Play The object of this game is to race against your opponent i..
-*   Battle Board Play Ride your fantastic Skate Board and take on the other race..
-
-Scoreboard Games
-
-*   Mini Moto Racer Play After the pressures of the championship, the riders need s..
-*   Spartacus Play You play as Spartacus, as legend says: a true warrior figh..
-*   Stunt Rider Play You're a retired motorbike stunt rider, a new upstart thin..
-*   Siege Of Troy Play Troy is under siege! Take arms and defend Troy with your l..
-
-*   Penguins Super Kart Play The Penguins have taken a break from all out war to compet..
-*   Spunky vs Aliens Play The aliens are invading your neighborhood and it's down to..
-*   Stunt Pilot 2: San.. Play Those magnificent men in their flying machines are back. R..
-*   War Elephant Play Face hordes of the world's most vicious warriors as you le..
-*   4x4 Soccer Play What's more exciting than soccer? 4x4 soccer! Pit your s..
-
-*   Om Nom Zombies Play Zombies are rampaging through the city, but there is a sur..
-*   Phantom Slash Play Avast yee landlubbers, thar be some trouble afoot on the p..
-*   Mini Metro Racers Play Remember when you were playing with toy cars out in the ya..
-*   Off Roaders 2 Play Return to the dirt and show everyone why you were champion..
-
-Top Rated
-
-*   S-7OB-2 SEAHAWK Play To complete each level you must rescue all of the men in t..
-*   Sniper School Play This is a polished little flash game taking inspiration fr..
-*   Dragon Fist 2 Play The object of the game is to defeat 10 opponents that will..
-*   Squares 2 Play Your aim is to guide your black square around the screen, ..
-
-*   x227 Play The aim of the game is to blow away your enemies with mult..
-*   Spindle Play This is a really cool and violent RPG game where you play ..
-*   Tifosi Play Sports just isn't the same without a riot! In this game yo..
-*   Dragon Warrior Play The object of the game is to destroy the evil monsters, re..
-*   Golden Bell Quest Play Explore a crazy world, compete with other players and unco..
-
-*   Jellyfish Shuffleb.. Play The object of the game is to shuffle your jellyfish toward..
-*   Power Fox Play This is a challenging fighting game similar to street figh..
-*   Gem Mania Play This game is far more than just a Gem game, a mix of chall..
-*   Wiki Wiki Tiki Play This is an addictive puzzle game where you have to find gr..
-
-Shooting Games
-
-*   Warzone Getaway 3 Play Here it is! The third instalment of Warzone Getaway is BAC..
-*   Siege Of Troy Play Troy is under siege! Take arms and defend Troy with your l..
-*   Speedboat Shooting Play Speedboat Shooting is the deadliest journey you will ever ..
-*   sift heads reassault Play The sequel to the action shooter side game Sift Heads Assa..
-
-*   Boxhead the Nightm.. Play Boxhead the Nightmare is the 8th in the series of the Boxh..
-*   Spunky vs Aliens Play The aliens are invading your neighborhood and it's down to..
-*   Dead Zed Play Shoot down zombies and utilize survivors in order to survi..
-*   Fairytale Annihila.. Play Bust up fairytale land with loads of guns and soldiers as ..
-*   Cube Tank Arena Play Cube Tank Arena is an action-packed 3D shooting tank game...
-
-*   Euro Shootout 2012 Play Euro Shootout 2012 game is here! Score some wonderful goal..
-*   Om Nom Zombies Play Zombies are rampaging through the city, but there is a sur..
-*   Tiny Airships Play This game has tons of upgrades, enemies and beautiful pixe..
-*   Super Sniper Play Take out the enemy forces in this shoot-em-up. Upgrade you..
-
-Racing Games
-
-*   Box10 ATV 5 Play Race over this snowy terrain on your ATV Quad Bike Racing ..
-*   Zombie ATV Play You're a zombie and the humans are chasing after you! Hop ..
-*   Mini Moto Racer Play After the pressures of the championship, the riders need s..
-*   Super Awesome Truc.. Play Drive this Super Awesome Truck over this rough terrain and..
-
-*   Stunt Rider Play You're a retired motorbike stunt rider, a new upstart thin..
-*   Killer Trucks 2 Play Riots have broken out on the streets. Use one of your poli..
-*   Penguins Super Kart Play The Penguins have taken a break from all out war to compet..
-*   Stunt Pilot 2: San.. Play Those magnificent men in their flying machines are back. R..
-*   Monster Trucks Nit.. Play Drive massive, powerful Monster Trucks over jumps, trains ..
-
-*   Risky Rider 5 Play Guide this Risky Rider over this epic jumps and perform tr..
-*   Mini Metro Racers Play Remember when you were playing with toy cars out in the ya..
-*   Off Roaders 2 Play Return to the dirt and show everyone why you were champion..
-*   Lawnmower Racing 3D Play Fancy racing something a little different? Well we have ju..
+*   Shooting Games (811)
+*   Adventure Games (315)
+*   Racing Games (284)
+*   Car Games (266)
+*   Strategy Games (260)
+*   Animal Games (255)
+*   Fun Games (223)
+*   Defense Games (198)
+*   Killing Games (172)
+*   Scoreboard Games (164)
+*   Army Games (154)
+*   Flying Games (145)
+*   Classic Games (141)
+*   Stunt Games (121)
+*   Skill Games (116)
+*   Upgrade Games (111)
+*   Space Games (109)
+*   Zombie Games (97)
+*   Aiming Games (89)
+*   Bike Games (83)
+*   Urban Sports Games (79)
+*   Ball Games (77)
+*   Funny Games (77)
+*   Logic Games (75)
+*   Shockwave Games (74)
+*   Medieval Games (67)
+*   Robot Games (62)
+*   Managing Games (59)
+*   Shape Games (56)
+*   Archery Games (51)
+*   Interactive Games (49)
+*   Running Games (47)
+*   Airplane Games (46)
+*   Target Practicing Games (45)
+*   Quest Games (42)
+*   Martial Arts Games (42)
+*   Jigsaw Puzzles Games (40)
+*   Street Fighting Games (36)
+*   Helicopter Games (35)
+*   Business Games (35)
+*   Stealth Games (33)
+*   Balancing Games (30)
+*   Memory Games (29)
+*   Missile Games (27)
 
 *   FAQ
 
@@ -174,27 +139,8 @@ Racing Games
 
 *   Free Games For Your Website
 
-Scoreboard, Shooting, Puzzle, Sports, Racing, Car, Driving, Strategy, Animal, Arcade, Physics, Fun, Adventure, Fighting, War, View more... Follow @followfog © Free Online Games Login with Facebook?
+Puzzle, Shooting, Physics, Adventure, Sports, Racing, Platform, Car, Driving, Strategy, War, Animal, Arcade, Fun, Fighting, View More..
 
-Would you like to automatically login with Facebook?
+Follow @followfog © Free Online Games × Log in to your FOG account! Username Password Facebook Login Login Signup Reset Password × Warn this user Send Cancel × Sign up for your FOG account! Username Email Password Signup Join using Facebook
 
-No Yes Link your Facebook Account
-
-Would you like to link your account, and automatically login with Facebook?
-
-No Yes Disconnect your Facebook Account
-
-Would you like to disconnect your Facebook account?
-
-No Yes Logout
-
-Please logout using the button(s) below:
-
-**Logout From:** FOG Cancel Username Email Password
-
-*   Play with people from **New York** and **United States**
-*   Play &. chat with your friends
-*   Save your high scores
-*   Create your own avatar
-
-User Login Forgot Your Password? Register Login / Register with a Social Network account Facebook
+By signing up to FOG.com you agree to be bound by the Privacy Policy
