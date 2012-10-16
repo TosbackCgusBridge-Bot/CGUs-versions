@@ -238,11 +238,13 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     *   Sale
     *   Wüsthof Gourmet Promotion
+    *   Shun Promotion
     *   Exceptional Values
     
-    SPECIAL OFFER
+    1 WEEK ONLY
     
-    Save up to 65% on Wüsthof Gourmet cutlery.
+    Save up to 60% on Select Shun Cutlery.  
+    Offer ends 10/21
     
     Shop Now 
     
