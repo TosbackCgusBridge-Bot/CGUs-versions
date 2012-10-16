@@ -117,7 +117,7 @@ Confirmation **or** MileagePlus Number:
 **More Check-in options**  
 Check-in is available within 24 hours of departure Flight Number:  
 Departure Date:  
-Sun., Oct. 14Mon., Oct. 15Tue., Oct. 16Wed., Oct. 17 Don't know the flight number? To: City or airport: City or airport:  
+Mon., Oct. 15Tue., Oct. 16Wed., Oct. 17Thu., Oct. 18 Don't know the flight number? To: City or airport: City or airport:  
 Change or View Reservations See More Find a Reservation by Confirmation Number Reservation Type: Flight Car Confirmation:  
 Last Name:  
 MileagePlus Sign In MileagePlus number:  
