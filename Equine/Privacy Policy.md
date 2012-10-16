@@ -113,17 +113,18 @@ Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad Equine.com is the Official Classifieds Site for our 25+ partner sites including: Testimonials **Don't just take our word for it...** "We sold three horses in less than one week and got our asking price on all three. It has been amazing that we had such a res..."  
-**CHET**  
-GENEVA , Nebraska " A very nice experience. Very easy and convenient. I will be using this website in the future. "  
-**Someone**  
-Bethalto , Illinois " Equine.com always brings me many inquiries with no fraudulant "shoppers". The "Guaranteed to Sell" ad is worth every penny..."  
-**Nicole**  
-Springfield, Ohio "Another excellent sale through wide exposure on this web site. Highly recommend to anyone in the equine industry!!"  
-**Brent**  
-Black River Falls , Wisconsin " I sold my gelding in only 10 days after posting my ad to a very amazing family! Thank you equine.com! "  
-**Ali**  
-Creighton, Nebraska View More Testimonials
+Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad **Exposure**  
+Sell online and in regional publications. Online ads have up to 24 color photos. Our network of magazines appear throughout the U.S. Testimonials **Don't just take our word for it...** " This is the third horse I have sold on Equine.com and I couldn't think of a better way. It's easy and it has helped me con..."  
+**Tiffany**  
+Buchanan, Michigan " Best place to buy and sell ponies. Poedarosa Pony Farm "  
+**Donna**  
+Clear Brook, Virginia " Thank you very much, for all your help. Your site is great. "  
+**lawrance**  
+Rupert , Idaho "another great experience using this webiste. I have sold and bought here and have come in contact with very respectable hors..."  
+**JoAnne**  
+Atco , New Jersey " Again a great experience. I've sold 6 horses using equine.com and recommend it to everyone trying to sell a horse. "  
+**Kim**  
+Troy, Missouri View More Testimonials
 
 *   Advertise
 *   |
