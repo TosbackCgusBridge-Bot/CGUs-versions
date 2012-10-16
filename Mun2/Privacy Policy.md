@@ -25,8 +25,14 @@ _Jump to Navigation_ ↓
     *   show archives
     *   interactive videos
 
-schedule right now: October 15 03:00 AM · MORNING BREATH coming up next:
+schedule right now: October 16 12:00 AM · OPERACION REPO coming up next:
 
+*   12:30 AM · OPERACION REPO
+*   1:00 AM · DECISIONES
+*   2:00 AM · L'CREME
+*   3:00 AM · MORNING BREATH
+*   4:00 AM · MORNING BREATH
+*   5:00 AM · MORNING BREATH
 *   6:00 AM · SMB
 *   8:00 AM · MORNING BREATH
 *   9:00 AM · MORNING BREATH
@@ -34,14 +40,8 @@ schedule right now: October 15 03:00 AM · MORNING BREATH coming up next:
 *   11:00 AM · MORNING BREATH
 *   12:00 PM · L'CREME
 *   1:00 PM · AL CIEN 100%
-*   2:30 PM · 18 &. OVER
-*   4:00 PM · L'CREME
-*   5:00 PM · AL CIEN 100%
-*   6:00 PM · 12 CORAZONES
-*   7:00 PM · OPERACION REPO
-*   7:30 PM · OPERACION REPO
-*   8:00 PM · I LOVE JENNI
-*   9:00 PM · OPERACION REPO
+*   2:00 PM · L'CREME
+*   3:00 PM · L'CREME
 
 see full schedule >>.
 
