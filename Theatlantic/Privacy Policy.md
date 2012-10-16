@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Tuesday, October 16, 2012 Go Follow the Atlant
 *   Magazine
 *   video
 
-Presented by 8 Key Issues Missing From the Debates David A. Graham Paul Ryan is Unqualified to Step In as President Conor Friedersdorf Undecided Voters Speak! James Fallows Making a Better Future for Our Children Mohamed A. El-Erian Why We Don't Run America Like a Business Jordan Weissmann Where the World's Millionaires Live Derek Thompson The Agony of Ending an Agonizing Boxing Fight Gary Andrew Poole The Return of 'The Walking Dead' Jeffrey Goldberg, J.J. Gould, and Scott Meslow When Is an 'Unfilmable' Book Actually Filmable? Maria Konnikova The Lessons of the Cuban Missile Crisis Bruce Allyn Anti-Gay Hostility on the Rise in Russia Coilin O'Connor Vati-Leaks Did Nothing for Vatican Transparency Alexander Stille What Is Going on With Antarctica's Sea Ice? Rebecca J. Rosen Universities Win Big on Digitization Project Rebecca J. Rosen A Newly Constructed Movie of Earthrise Alexis Madrigal AP Classes Are a Scam John Tierney Gentrification Hits Black Churches Hard Alessandra Ram Remembering Two Fearless Historians Benjamin Schwarz An Underwater Bike for Beautiful People Lindsay Abrams Slap a Pink Ribbon on It Madhulika Sikka The Moral Failings of Health Care Politics Ruth Faden Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by The Psychology of Big Wave Surfing Kasia Cieplak-Mayr von Baldegg The Genesis of 'Looper': Pitch Reel Kasia Cieplak-Mayr von Baldegg Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
+Presented by The GOP Grannies Who Love Paul Ryan Molly Ball Koch Brothers Give Workers Vote Suggestions David A. Graham Top Dems: Obama Needs a Vision, Fast Ronald Brownstein Making a Better Future for Our Children Mohamed A. El-Erian Why We Don't Run America Like a Business Jordan Weissmann Where the World's Millionaires Live Derek Thompson Why MTV's Smart New Show Might Be Doomed Judy Berman What Funny Women Teach One Another Ashley Fetters The Golden Globes One-Up the Oscars Kevin Fallon The Global Risks of Iran's Sinking Economy Charles Recknagel Havana and the Other Cuba Lois Farrow Parshley How Mo Yan Is Transforming Chinese Literature Mei Fong 'SNL' Satirizes iPhone 5 Complaints Megan Garber Got Motion Sickness? NASA Has Your Back Megan Garber Energy and Foreign Affairs, Inseparable Alexis Madrigal A Coming Change in Teaching Technology Deborah Reck and Deb Sabin AP Classes Are a Scam John Tierney Should We Pay Kids to Read? James Warren Dr. Seuss's WWII Foray Into Public Health Lindsay Abrams The Sordid Sale of Screening Tests John Henning Schumann PMS and the Wandering Womb James Hamblin Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by The Psychology of Big Wave Surfing Kasia Cieplak-Mayr von Baldegg The Genesis of 'Looper': Pitch Reel Kasia Cieplak-Mayr von Baldegg Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -114,26 +114,26 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 Washington, DC 20037
 
 Special Report The Atlantic The Energy Puzzle  
-_The Atlantic_'s Alexis Madrigal talks with the entrepreneurs shaping our future. Read more › Just In Conor Friedersdorf 8:00 AM ET The Present Congress Isn't the Worst Ever, Or Even Lately 1350388800 Voices
+_The Atlantic_'s Alexis Madrigal talks with the entrepreneurs shaping our future. Read more › Just In Jeffrey Goldberg 4:42 PM ET So Who Exactly Is the Archetypal Long Island Voter? 1350420121 Voices
 
-*   Ta-Nehisi Coates The Hyperlinked Ballad Of Eliza Icewalker 1:22 AM ET
+*   Jeffrey Goldberg So Who Exactly Is the Archetypal Long Island… 4:42 PM ET
+*   Ta-Nehisi Coates Your Cops on Drugs, Cont. 3:05 PM ET
+*   Alexis C. Madrigal JFK's Doodles From a Meeting at the Height of the… 12:08 PM ET
+*   Garance Franke-Ruta The Amazing Story of What Happened in Libya 11:40 AM ET
 *   Derek Thompson Stock Market Performance Under Democratic… Oct 15, 2012
-*   Alexis C. Madrigal A 1,000-Page Reminder That Energy and Foreign… Oct 15, 2012
 *   Robert Wright Why Obama's in This Hole and How He Can Get Out Oct 15, 2012
-*   Jeffrey Goldberg Utterly Charming News About the Continued… Oct 15, 2012
 *   James Fallows Your Real-Time Cyber-Attack Map Oct 13, 2012
-*   Garance Franke-Ruta Did Biden Hang the State Department Out to Dry at… Oct 12, 2012
 *   Clive Crook Biden Beats Ryan on Points Oct 12, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 
 Correspondents
 
+*   James Warren Should We Pay Kids to Read?
+*   Wendy Kaminer The Danger of Banning Anti-Zionist Protests
 *   Andrew Cohen It's Time For California To End Its Death Penalty
-*   John Tierney AP Classes Are a Scam
-*   Garrett Epps Conservative Justices Prepare to 'Gut' Affirmative Action
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos 50 Years Ago: The Cuban Missile Crisis Oct 15, 2012 Video What Does Marijuana Actually Do to Your Brain? The Science of Procrastination How Orgasms Shut Down Our Brains Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos A Trip to the Faroe Islands Oct 16, 2012 Video Watch a 1962 Newsreel Reporting the Cuban Missile Crisis in Progress How the CIA Found Missile Sites in Cuba Your Life Work: Photography (1946) Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -162,63 +162,63 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   How Lack of Sleep Is Killing You  
+*   Holden Caulfield, It's Time We Let Go  
     
-*   Cuba Opens Its Doors a Little Bit Wider  
+*   17-Year-Old Former Conservative Boy Wonder Couldn't Get Along with Vice  
     
-*   Pussy Riot Is Heading to a Horrible Russian Prison Colony  
-    
-
-Last Update: 7:48 AM
-
-*   Felix Baumgartner's Space Jump: The LEGO Version  
-    
-*   Is Bangalore Reinventing Trash Management?  
-    
-*   Will Buenos Aires Ever Learn to Pick Up Its Poo?  
+*   Is Mix It Up at Lunch Day as Scary as Cyanide-Laced Candy?  
     
 
-Last Update: 9:01 PM Most Popular
+Last Update: 4:25 PM
+
+*   If Grannies Did Graffiti, It Might Look Like This  
+    
+*   How Cuba's Arts Schools Were Disgraced  
+    
+*   An Urban Moon Bounce for Paris  
+    
+
+Last Update: 6:46 PM Most Popular
 
 1
 
-What an Academic Who Wrote Her Dissertation on Trolls Thinks of Violentacrez
+The Amazing Story of What Happened in Libya
 
 2
 
-Why We Shouldn't Be Surprised Obama Is Falling Behind
+Have You Ever Tried to Sell a Stolen Painting?
 
 3
 
-Dark Social: We Have the Whole History of the Web Wrong
+A Trip to the Faroe Islands
 
 4
 
-Pointless Shame: The English-Speaking World's Issue With Women's Breasts
+Dark Social: We Have the Whole History of the Web Wrong
 
 5
 
-A Space Shuttle on the Streets of Los Angeles
+What an Academic Who Wrote Her Dissertation on Trolls Thinks of Violentacrez
 
 6
 
-AP Classes Are a Scam
+Pointless Shame: The English-Speaking World's Issue With Women's Breasts
 
 7
 
-50 Years Ago: The Cuban Missile Crisis
+What Was Reddit Troll Violentacrez Thinking?
 
 8
 
-Why Women Still Can’t Have It All
+Don't Pity the Rich: The Great Recession Was Worst on the Poor
 
 9
 
-Gangnam Style, Dissected: The Subversive Message Within South Korea's Music Video Sensation
+Why We Shouldn't Be Surprised Obama Is Falling Behind
 
 10
 
-The Writing Revolution
+What Does Marijuana Actually Do to Your Brain?
 
 *   Subscribe Help
 *   Faq
