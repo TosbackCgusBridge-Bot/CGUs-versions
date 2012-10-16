@@ -40,6 +40,10 @@
 *   Show Less
 *   Show More
 
+*   Motherboards
+*   Server and Workstation Boards
+*   Desktop Motherboards
+
 *   Chipsets
 *   Performance
 *   Mainstream
@@ -52,17 +56,6 @@
 *   Help me choose a chipset
 *   Show Less
 *   Show More
-
-*   Motherboards
-*   Intel® Desktop Extreme Series
-*   Intel® Desktop Media Series
-*   Intel® Desktop Executive Series
-*   Intel® Desktop Classic Series
-*   Intel® Desktop Innovation Series
-*   Intel® Desktop Essential Series
-*   Intel® Desktop Legacy Series
-*   Server and Workstation Boards
-*   Help me choose a motherboard
 
 *   Ethernet Products
 *   Ethernet 10-Gigabit Server Adapters
@@ -141,7 +134,6 @@ Experience a New Era in Computing>.
 *   Microsoft Windows\* 7 Upgrade
 *   PC Upgrade
 *   Performance
-*   Remote Support
 *   Virtualization
 
 *   Industry Topics
@@ -172,6 +164,7 @@ Experience a New Era in Computing>.
 *   IT Efficiency with Intelligent PCs
 *   Mission Critical Computing
 *   Mobile Computing
+*   Remote Support
 *   RISC Migration
 
 *   Education
@@ -411,25 +404,21 @@ Intel® Online Privacy Notice Intel is committed to respecting your privacy. Our
     *   Related Topics
     *   Related Products
     
-    *   Expanding Healthcare...
+    *   Intel Export Compliance
         
-        Intel drives public policy that speeds the adoption of healthcare technologies for individuals, markets...  
-        Preview | Download
+        Intel export compliance adheres with business, laws, and regulations that govern trade.
         
-    *   Intel Code of Conduct
+    *   Intel Social Media...
         
-        Contains Intel's mission, values, code of conduct and statement from Intel CEO Paul Otellini.  
-        Preview | Download
+        Guide for Intel sponsored, seeded, or incentivized social media practitioners.
         
-    *   Intel Public Policy:...
+    *   Privacy: Thank You
         
-        Intel supports customs, trade facilitation policies that enhance trade with respect to importation of...  
-        Preview | Download
+        Privacy: Thank You
         
-    *   Intel Public Policy:...
+    *   Intel Social Media...
         
-        Intel works with governments worldwide to help shape progressive, practical environment and energy...  
-        Preview | Download
+        Intel Social Media Guidelines for Intel employees or contractors contributing on or off Intel.com.
         
     
     *   Technology for the Home
