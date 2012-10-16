@@ -6,12 +6,12 @@ A NOTE FROM STEPHANIE LINK
     *   Economic Calendar
     *   Earnings Calendar
     *   Dividend Calendar
-    *   Upgrades &. Downgrades
-    *   Currencies - FOREX
-    *   Spot Gold Price
-    *   Spot Silver Price
+    *   Stock Upgrades
+    *   FOREX Rates
+    *   Gold Price Today
+    *   Silver Price Today
     *   Initial Public Offerings
-    *   Stock Market Alerts
+    *   Stock Alerts
 
 *   **Business News**
     *   Latest News
@@ -43,10 +43,10 @@ A NOTE FROM STEPHANIE LINK
 *   **Stock Picks**
     *   Mad Money Recap
     *   Mad Money Stock Screener
-    *   Upgrades &. Downgrades
+    *   Stock Upgrades
     *   Technical Analysis
-    *   Dividends Stock Picks
-    *   Options Strategies
+    *   Dividend Stock Picks
+    *   Option Trading Strategies
     *   Real Money Previews
 
 *   **Personal Finance**
@@ -84,11 +84,14 @@ A NOTE FROM STEPHANIE LINK
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
 *   Cyber Security Webinar
-*   FDA Advisory Panels
-*   Stocks to Watch
-*   Stock Futures
+*   FDA Panels
+*   Cramer's Top 10
+*   Citigroup Earnings
+*   Analysts' Actions
+*   Kass
+*   Hep C
 
-pjava01.dc.thestreet.com Privacy Policy
+pjava02.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -243,12 +246,12 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,328.85 2.46 0.02% NASDAQ 3,044.11 -5.30 -0.17% S&P 500 1,428.59 -4.25 -0.30% US 10 Yr 1.663% -0.012 Brokerage Partners Most Commented
+DOW 13,424.23 95.38 0.72% NASDAQ 3,064.18 20.07 0.66% S&P 500 1,440.13 11.54 0.81% US 10 Yr 1.663% +0.000 Brokerage Partners Most Commented
 
 *   Microsoft Will Lose a War With Apple. So Will Google
 *   10 Worst Cars of All Time
-*   The Sad Story of Jack Welch in Retirement: Opinion
 *   10 Cult TV Shows Netflix Should Revive
+*   The Sad Story of Jack Welch in Retirement: Opinion
 *   Apple Bulls Having Love Fest: Please, Get a Room
 
 Articles From Advertising Partners Free Newsletters from TheStreet
