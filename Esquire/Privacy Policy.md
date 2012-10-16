@@ -33,27 +33,27 @@ Because she is one. Or so the sexy and French actress claims.
 
 *   Joke from a Beautiful Woman with Hannah Ware from _Boss_ (and Not One but Two Videos!)
 
-Style A New Problem with Daniel Craig's Bond Style
+Style Secret History of Your Pants
 
-He didn't tie his tie so well just now. We quibble, but still: This is 007, for chrissakes.
+Inside the Dockers vault at Levi's headquarters lie the foundations of khaki greatness
 
-*   Can We Interest You in Soap... Made from Beer? Pretty Good!
+*   Can We Interest You in Soap... Made from Beer?
 
 *   How to Dress Like the Stones, Because They're on Tour Now
 
 *   Four Under-$500 Buys at This Weekend's Big New Online Store
 
-News &. Politics Charles P. Pierce on the Second Presidential Debate
+News &. Politics Romney's Vision for Etch-A-Sketch America Takes Hold
 
-It is the last stand for spontaneity, the last possibility for flesh and blood before the election roars to its inevitab...
+This is more than moderate Mitt, writes Charles P. Pierce. This is vague and radical ideas winning the race.
 
-*   The Cynic and President Obama, by Charles P. Pierce
+*   The Not-So-Subtle Power of Jay-Z's Obama Ad
 
-*   Chris Jones on Jon Tester's Montana Senate Race
+*   The Fate of the 2012 Senate Races
 
-*   The Homeland Episode 3 Recap with Alex Berenson
+*   Chris Connelly: Steve Smith Doesn't Hate Cam
 
-Food &. Drink The Refreshing Beer Cocktail to Order Next
+Food &. Drink New Refreshing Beer Cocktail
 
 An update on a little classic known as the Gold Rush
 
