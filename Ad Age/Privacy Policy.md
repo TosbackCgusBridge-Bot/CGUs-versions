@@ -90,12 +90,11 @@ Advanced Search
     *   Agency Report
     *   Media 100
     *   Digital Family Trees
-*   Small Agency Awards
-    *   Eight Takeaways from Ad Age's Small Agency Conference
-    *   Via Passes the Small Agency Torch to Baldwin&
-    *   Baldwin&, Mono Take Top Honors
-    *   Kia to Bring Back Hamsters for New Campaign
-    *   Three Tips On How to Succeed in China
+*   Magazine A-List
+    *   Marie Claire Is Magazine of the Year
+    *   Nancy Berger Cardone Is Publisher of the Year
+    *   Josh Tyrangiel Is Editor of the Year
+    *   HGTV Magazine Is Launch of the Year
 
 Privacy Statement
 
@@ -133,25 +132,25 @@ News _from our Ad Age Partners_
 *   Honda's bundle of cash revives Tier 2 ad plans
 *   Lexus sedans pose risk for trunk entrapment, Consumer Reports says
 
+*   Weaving together your content and merchandising strategies
+*   ID Wholesaler: Building 'clever' inbound links
 *   How can I use email to drive video views?
 *   Fall cleaning: Dust off your email list
-*   Fraudulent social reviews, both positive and negative, on the rise
-*   Five tips to rev up your content marketing program
 
-*   SoftBank buying 70% stake in Sprint
-*   Bernanke defends Fed against international criticism
-*   Inflation slows in China
-*   Stocks: Economy, earnings and Europe gun for attention
+*   Romney tax plan: Two big unknowns
+*   Facebook 'likes' Republicans
+*   Romney, Ryan love North Face. Founder finds it 'ironic'
+*   Amazon to hire 50,000 seasonal workers
 
+*   Macy's Moves $500 Million Media Account to Carat
+*   25th anniversary of Crain's 40 Under 40
 *   Online advertising jumps 14% to record $17B
 *   Fortune Group publisher tapped to oversee Time
-*   The Children's Place tests Sam's Club partnership
-*   NYC publisher plans illustrated Ke$ha memoir
 
-*   Stock investors wary as profit picture dims
-*   CNBC: Softbank to buy majority stake in Sprint
-*   Retailers try to speed up holiday calendar
-*   Card fee 'settlement' just start of big legal battle
+*   Voters doubt either candidate can help
+*   Why voters are right to be dubious about economy
+*   Koch brothers to workers: Vote for Romney or else
+*   Murdoch executive got $11 million payout - report
 
 *   2013 FIAT 500
 *   2013 Scion FR-S
