@@ -269,7 +269,7 @@ Answers may amend this policy from time to time by posting the new text on the S
   
 If you have any questions or suggestions regarding this privacy policy, please contact Answers: privacy\_at\_answers.com.  
   
-ADVERTISEMENT Answer these Can your landlord keep their belongings in the property you are renting its been 3 months and our landlords belongings are still here she wants to put a shed up in the back garden? In: Landlord-Tenant Issues Answer it! Does The equator has a diameter of approximately seven thousand nine hundred miles? In: Math and Arithmetic Answer it! Do you capitalize the word bible in bible study? In: The Bible Answer it! What is divisible number? In: Math and Arithmetic Answer it! ADVERTISEMENT Answers Properties
+ADVERTISEMENT Answer these What is one committee that every senator serves on? In: US Senators and Representatives Answer it! What are all of the countries where Spanish is an official language? In: Spanish Language and Culture Answer it! Why misalliances expense treated as assets? In: Financial Statements Answer it! Who did john Henry live with? In: History Answer it! ADVERTISEMENT Answers Properties
 
 *   Wiki Answers
 *   Video Answers
