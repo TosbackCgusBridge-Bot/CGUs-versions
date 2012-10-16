@@ -132,50 +132,50 @@ If you have any questions or concerns about this privacy policy, you may contact
 
 Stories We Like
 
-1.  Stylelist A Look Back at Gossip Girl's Finest Fashion Moments
-2.  Your Tango Hilarious London Tube Prank Signs
-3.  Your Tango Online Dating: What You're Doing Wrong
-4.  Huffington Post Tech We Barely Recognize eBay Anymore
-5.  Pop Sugar Blake Lively and Her Diamond Make Their Post-Wedding Debut
-6.  Buzzfeed 30 Black &. White Photos That Will Haunt Your Dreams
-7.  Us Weekly Lindsay Lohan Gives Mom Dina $40K, Accuses Her of Using Cocaine
-8.  Ask Men The 49 Most Influential Men of 2012
-9.  Huffington Post Politics First Lady Rejects Criticism of Husband's Debate Performance
+1.  EW Bill Murray Crashes NY Kickball Game
+2.  Huffington Post Politics The Tea Party Conspiracy You've Never Heard Of
+3.  Ask Men How to be the Most Popular Guy at the Bar
+4.  Mental Floss 6 Stories of Flight Attendants Gone Wild
+5.  Buzzfeed This is What Russell Crowe Looks Like Lately
+6.  Huffington Post Politics Elizabeth Warren Makes Staggering Announcement
+7.  Your Tango Do Prenups Predict Divorce?
+8.  Us Weekly Photo: Usher Celebrates 34th Birthday with Tom Cruise, Ridley Scott
+9.  Buzzfeed 4 Easy Ways to Be Ryan Lochte For Halloween
 
   Most Popular
 
-1.  My Proof of Heaven
-2.  Biden Brings the Blarney
-3.  The Great Deformer
-4.  Ryan Solid, But One Major Mistake
-5.  ‘The Good Wife’s’ Divisive Plot
+1.  The Great Deformer
+2.  My Proof of Heaven
+3.  The 8 Things Obama Needs to Do
+4.  Sexist Billionaire Pigs
+5.  Lincoln Plays to Win
 
   Other News Entertainment
 
-*   Week in Photos for Oct. 12, 2012
-*   Once More, With Feline? Kim K. Styles Questionable Catsuit, Leather Pants
-*   Splitsville for Russell Crowe and Wife Danielle Spencer?
+*   Celebs Who Own Their Own Companies: Would You Want Them As Your Boss?
+*   Celebs Who Overaccessorize
+*   Undressed for Oct. 11: The Week in Fashion Faux Pas
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
-*   ‘Saturday Night Live’ recap — Christina Applegate sang and danced her way into our hearts
-*   PopWatch Planner: ‘The Walking Dead’ and other things that go bump in the night
+*   ‘How I Met Your Mother’ recap: Family
+*   Women have the last laugh! About time TWO gals such as Tina Fey, Amy Poehler host the Globes
+*   ‘Gossip Girl’ recap: WWD-Day
 *   **Get More from EW.com**
 
 Entertainment
 
-*   A Seahawks Player Trolled Tom Brady On Twitter After Beating Him
-*   Wisconsin Senate Candidate's Son Says We "Have The Opportunity" To Send Obama Back To Kenya
-*   Akin And Supporters Pray For Victory
+*   Hillary Clinton's 2008 Dead-Enders Fight On
+*   34 Things You Can Expect From BuzzFeed Food
+*   The News App That's Going To Drive The Media Insane
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   People Still Donating to Sarah Palin
-*   Insiders See Obama Winning
-*   Obama Remains Ahead Nationally
+*   Clinton Explains Romney's $5 Trillion Tax Cut
+*   Latest Swing State Polls
+*   Romney Near Landslide Among Rural Voters
 *   **Get More from Political Wire**
 
 The Daily Beast
