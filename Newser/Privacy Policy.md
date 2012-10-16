@@ -8,10 +8,10 @@
     *   Mitt Romney 2012
     *   celebrity
     *   President Obama
-    *   Syria
-    *   Britain
-    *   timeless news
-    *   Syrian uprising
+    *   Malala Yousufzai
+    *   Iran
+    *   Mitt Romney
+    *   Africa
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -119,63 +119,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Fisher Cut Bait
-*   Whoâs the Boss?
-*   Pulp Meta-Fiction
+*   Wisconsin at War
+*   Her Year of Living Biblically
+*   What Does Giant Panda Taste Like?
 
 More from Slate »
 
-*   'WE COULD MAKE YOU DISAPPEAR'
-*   Look Inside America's Best Haunted Houses -- IF YOU DARE
+*   SCI-FI SPEED DATING
+*   FIRED UP! Woman Lit Vending Machine On Fire After It Ate...
 *   Small Penis Contest Sees Stiff Competition
 
 More from HuffPost Weird »
 
-*   Dream Life Fitness Equipment: The FitWet, A Stationary Bike...
-*   This Woman Doesnât Understand How Deer Crossing Signs Work
-*   Beauty Test Drive: Obsessive Compulsive Cosmetics Lip Tar
+*   Scarlett Johansson Is Single, Boys
+*   Hulk Hogan To Sue Over Sex Tape
+*   Study Finds No Link Between HPV Vaccine And Promiscuity In...
 
 More from The Frisky »
 
-*   Turns out Cleveland bus drivers are expertly trained in...
-*   81 years ago this month, Elena de Hoyos died of...
-*   10,000 Muslims with no idea how the Innerwebs work gather...
+*   After their voracious appetite for bronto burgers made the...
+*   Private car owner opposes bus rapid transit lanes because...
+*   Cuba making it easier for Cubans to flee the country, to...
 
 More from Fark »
 
-*   Could President Obama really win Arizona?
-*   Remembering Arlen Specter: A pugnacious life in politics
-*   10 things you need to know today: October 14, 2012
+*   10 things you need to know today: October 16, 2012
+*   5 ways Mitt Romney can win Tuesday's debate
+*   Great(ly reduced) expectations
 
 More from The Week »
 
-*   L.E.S. Group Wants State Help to Halt Drunks
-*   Ambassadorâs Family Says His Death Shouldnât Be Politicized
-*   Jesse Jackson Jr. Accused of Using Campaign Funds to...
+*   John Heilemann on Last Word: Sorry Cuomo, Democrats Want...
+*   Does Romney Give Wayward Staffers Time-outs?
+*   Michelle Obamaâs Motorcade Had a Motorcycle Fender Bender,...
 
 More from Daily Intel »
 
-*   Breast Cancer Awareness Month: 'There Is Hope After A...
-*   Laughing at Change
-*   Can a Mattress Really Impact Your Sleep?
+*   30 Things I Know About Health Now That I'm 30
+*   Football Season Means ACL Tears
+*   Despite Advances, Pain Is Still a Pain to Deal With
 
 More from HuffPost Health »
 
-*   Russell Crowe and Wife Danielle Spencer Split After Nine...
-*   Carmen Electra Stuns in German Magazine 'Schon' (PHOTOS)
-*   âSaturday Night Liveâ Recap: Christina Applegate Is a...
+*   Tom Cruise Dines with Ridley Scott, Brother of Late 'Top...
+*   'Dancing With the Stars' Contestant Kelly Monaco and Pro...
+*   Kim Kardashian, Pink, Bar Refaeli: Stars Before They Were...
 
 More from Celebuzz »
 
-*   5 Awesome Reasons to Cook with Your Kids
-*   'Walking Dead' Recap: Blood, Guts and Horrific Amputations,...
-*   'Real Housewives of New Jersey' Reunion Part 3 Recap: Joe...
+*   5 Super Cute Alternatives to 'Mom Jeans'
+*   New Toys Encourage Babies to Play With REAL iPhones
+*   7 Ways Your Baby Will Turn You Into a Liar
 
 More from The Stir »
 
-*   Hasbro Transforms
-*   Voice: The Connected Protagonist
-*   Never Mind the Bollocks, BBH N.Y. Presses On
+*   Column: Comic Con Can Help You Sell... Everything
+*   Red Bull Triumphs With Baumgartner Jump by Getting Out of...
+*   Macy's Shifts Media Account to New Shop
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
