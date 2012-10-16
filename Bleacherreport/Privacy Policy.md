@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 8 hours ago
+about 2 hours ago
 
-@BleacherReport: The Philip Rivers struggle face http://t.co/4M4dIJSV
+@BleacherReport: This is an awkward place to have a "British Gas" logo (via @Buzzfeed) http://t.co/Sci20KhZ
 
 Newsletters
 
@@ -198,9 +198,8 @@ Popular Topics
 *   NFL Picks Week 7
 *   NCAA Football Rankings
 *   Fantasy Football Waiver Wire
-*   Heisman Watch 2012
+*   Heisman Trophy 2012
 *   MLB Playoff Schedule 2012
-*   UFC 153 Results
 *   BCS Standings
 
 Copyright © 2012 Bleacher Report, Inc. Turner Broadcasting System, Inc. All Rights Reserved. BleacherReport.com is part of Turner Sports Digital, part of the Turner Sports &. Entertainment Digital Network. Certain photos copyright © 2012 by Getty Images. Any commercial use or distribution without the express written consent of Getty Images is strictly prohibited.
