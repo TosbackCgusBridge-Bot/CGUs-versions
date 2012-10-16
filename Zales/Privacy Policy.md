@@ -11,138 +11,260 @@ Zales — America's Diamond Store Since 1924
 shop zales outlet ZalesZales Outlet
 
 *   Wedding
-    *   Design Your Own
-    *   Exclusive Collections
+    *   SHOP
+        *   Design Your Own
+        *   Engagement
+        *   Wedding Bands
+        *   Anniversary
+        *   Promise Rings
+        *   Wedding Gifts
+        *   Settings
+        *   Loose Diamonds
+    *   EXCLUSIVE COLLECTIONS
         *   Vera Wang LOVE
         *   Celebration Diamond
         *   Canadian Diamond
-    *   Engagement
-    *   Wedding Bands
-    *   Anniversary
-    *   Promise Rings
-    *   Wedding Gifts
-    *   Settings
-    *   Loose Diamonds
-    *   View All Wedding
-    *   Education
-    *   Love Stories
+    *   EDUCATION
+        *   4Cs
+        *   Ring Styles
+        *   Band Styles
+        *   Who To Buy For?
+        *   Anniversary Gifts
+        *   The Zales Difference
+        *   Love Stories
+    *   View All Wedding >
 *   Rings
-    *   Design Your Own
-    *   Engagement
-        
-    *   Bridal Sets
-    *   Trio Collection
-    *   Solitaire Enhancers
-    *   Wedding Bands
-    *   Promise Rings
-    *   Three Stone
-    *   Fashion
-    *   Diamond
-    *   Gemstone
-    *   Pearl
-    *   Children's
-    *   Mother's Rings &. Family Jewelry
-    *   Class Rings
-    *   Men's
-    *   Personalized
-    *   View All Rings
+    *   SHOP BY MATERIAL
+        *   Diamond
+        *   Gemstone
+        *   Pearl
+        *   Gold
+        *   Silver
+        *   Stainless Steel
+        *   Titanium
+        *   Tungsten
+        *   Cobalt
+    *   Gender
+        *   Child's
+        *   Ladies'
+        *   Men's
+        *   Unisex
+    *   Price
+        *   Under $50
+        *   $50.00 - $99.99
+        *   $100.00 - $249.99
+        *   $250.00 - $499.99
+        *   $500.00 - $749.99
+        *   $750.00 - $999.99
+        *   $1000.00 - $1999.99
+        *   $2000.00 - $2999.99
+        *   $3000.00 - $4999.99
+        *   Over $5000.00
+    *   POPULAR STYLES
+        *   Design Your Own
+        *   Engagement
+        *   Bridal Sets
+        *   Wedding Bands
+        *   Trio Collection
+        *   Solitaire Enhancers
+        *   Promise Rings
+        *   Three Stone
+        *   Fashion
+        *   Mother's &. Family
+        *   Class Rings
+        *   Personalized
+    *   View All Rings >
 *   Necklaces
-    *   Design Your Own
-    *   Diamond
-        
-    *   Gemstone
-    *   Pearl
-    *   Gold
-    *   Silver
-    *   Chains
-    *   Lockets
-    *   Hearts
-    *   Crosses
-    *   Journey Pendants
-    *   Whimsical
-    *   Children's
-    *   Men's
-    *   Personalized
-    *   View All Necklaces
+    *   SHOP BY MATERIAL
+        *   Diamond
+        *   Gemstone
+        *   Pearl
+        *   Gold
+        *   Silver
+        *   Stainless Steel
+    *   Gender
+        *   Child's
+        *   Ladies'
+        *   Men's
+        *   Unisex
+    *   Price
+        *   Under $50
+        *   $50.00 - $99.99
+        *   $100.00 - $249.99
+        *   $250.00 - $499.99
+        *   $500.00 - $749.99
+        *   $750.00 - $999.99
+        *   $1000.00 - $1999.99
+        *   $2000.00 - $2999.99
+        *   $3000.00 - $4999.99
+        *   Over $5000.00
+    *   POPULAR STYLES
+        *   Design Your Own
+        *   Chains
+        *   Lockets
+        *   Hearts
+        *   Crosses
+        *   Whimsical
+        *   Journey
+        *   Personalized
+    *   View All Necklaces >
 *   Earrings
-    *   Design Your Own
-    *   Diamond
-        
-    *   Gemstone
-    *   Pearl
-    *   Gold
-    *   Silver
-    *   Diamond Studs
-    *   Fashion Studs
-    *   Hoop
-    *   Drop
-    *   Children's
-    *   Personalized
-    *   View All Earrings
+    *   SHOP BY MATERIAL
+        *   Diamond
+        *   Gemstone
+        *   Pearl
+        *   Gold
+        *   Silver
+    *   Gender
+        *   Child's
+        *   Ladies'
+        *   Unisex
+    *   Price
+        *   Under $50
+        *   $50.00 - $99.99
+        *   $100.00 - $249.99
+        *   $250.00 - $499.99
+        *   $500.00 - $749.99
+        *   $750.00 - $999.99
+        *   $1000.00 - $1999.99
+        *   $2000.00 - $2999.99
+        *   $3000.00 - $4999.99
+        *   Over $5000.00
+    *   POPULAR STYLES
+        *   Design Your Own
+        *   Diamond Studs
+        *   Fashion Studs
+        *   Hoop
+        *   Drop
+        *   Leverback
+        *   Personalized
+    *   View All Earrings >
 *   Bracelets
-    *   Diamond
-    *   Gemstone
-        
-    *   Pearl
-    *   Gold
-    *   Silver
-    *   Bangles &. Cuffs
-    *   Persona Bead Collection
-    *   Charm
-    *   Anklets
-    *   Children's
-    *   Men's
-    *   Personalized
-    *   View All Bracelets
+    *   SHOP BY MATERIAL
+        *   Diamond
+        *   Gemstone
+        *   Pearl
+        *   Gold
+        *   Silver
+        *   Stainless Steel
+    *   Gender
+        *   Child's
+        *   Ladies'
+        *   Men's
+        *   Unisex
+    *   Price
+        *   Under $50
+        *   $50.00 - $99.99
+        *   $100.00 - $249.99
+        *   $250.00 - $499.99
+        *   $500.00 - $749.99
+        *   $750.00 - $999.99
+        *   $1000.00 - $1999.99
+        *   $2000.00 - $2999.99
+        *   $3000.00 - $4999.99
+        *   Over $5000.00
+    *   POPULAR STYLES
+        *   Persona Beads
+        *   Bangles &. Cuffs
+        *   Charm Bracelets
+        *   Anklets
+        *   Personalized
+    *   View All Bracelets >
 *   Watches
-    *   88 RUE DU RHONE
-    *   Anne Klein
-        
-    *   Bulova
-    *   Caravelle by Bulova
-    *   Citizen
-    *   Citizen: The Signature Collection
-    *   DKNY
-    *   Ed Hardy
-    *   ESQ Movado
-    *   Ingersoll
-    *   Invicta
-    *   Movado
-    *   P.S. Collection
-    *   Pulsar
-    *   Seiko
-    *   Skagen
-    *   Wittnauer
-    *   Zodiac
-    *   Black Hills Gold
-    *   Personalized
-    *   View All Watches
+    *   FEATURED BRANDS
+        *   88 RUE DU RHONE
+        *   Bulova
+        *   Citizen
+        *   Citizen: The Signature Collection
+        *   ESQ Movado
+        *   Invicta
+        *   Movado
+        *   Wittnauer
+    *   ONLINE ONLY
+        *   Anne Klein
+        *   Black Hills Gold
+        *   Caravelle by Bulova
+        *   Ed Hardy
+        *   Ingersoll
+        *   P.S. Collection
+        *   Pulsar
+        *   Seiko
+        *   Skagen
+    *   Gender
+        *   Ladies'
+        *   Men's
+        *   Unisex
+    *   Price
+        *   Under $50
+        *   $50.00 - $99.99
+        *   $100.00 - $249.99
+        *   $250.00 - $499.99
+        *   $500.00 - $749.99
+        *   $750.00 - $999.99
+        *   $1000.00 - $1999.99
+        *   $2000.00 - $2999.99
+        *   $3000.00 - $4999.99
+    *   View All Watches >
 *   Collections
-    *   Vera Wang LOVE
-    *   Celebration Diamond
-        *   Celebration Fire
-        *   Celebration 102
-        *   Celebration Grand
-        *   View All
-    *   Candy Colored Diamonds
-    *   Persona Bead Collection
-    *   Sirena
-    *   More...
+    *   EXCLUSIVE COLLECTIONS
+        *   Vera Wang LOVE
+        *   Celebration Diamond
+        *   Candy Colored Diamonds &. Gemstones
+        *   Persona Beads
+        *   Sirena
+        *   Effy
+        *   AVA Nadri
+        *   Shaquille O'Neal
+        *   ASPCA Collection
+        *   Cherished Promise
+        *   Honora
+        *   Blue Lagoon by Mikimoto
+        *   Triton
+        *   Stackable Expressions
+        *   Elegance D'Italia
+    *   ONLINE COLLECTIONS
+        *   Online Exclusives
+        *   The Prestige Diamond
+        *   Ice In Bloom
+        *   Platinaire
+        *   J Goodman
+        *   Edward Mirell
+        *   Amore La Vita
+        *   Hero Hearts
+        *   Fufoo for Girls
+        *   Tiny Toes
+    *   POPULAR CATEGORIES
+        *   New Arrivals
+        *   Top Rated Products
+        *   Brilliant Values
+        *   Promise Rings
+        *   Right Hand Rings
+        *   Canadian Diamonds
+        *   Colored Diamonds
+        *   Silver &. Diamonds
+        *   Whimsical
+        *   Birthstones
+        *   Giftware
+        *   Accessories
+        *   Children's
+        *   Men's
 *   Design Your Own
-    *   Engagement Ring - Setting First
-    *   Engagement Ring - Diamond First
-        
-    *   Setting Only
-    *   Loose Diamonds
-    *   Three Stone Rings
-    *   Anniversary Bands
-    *   Eternity Bands
-    *   Men's Diamond Bands
-    *   Metal Wedding Bands
-    *   Diamond Studs
-    *   Diamond Pendants
-    *   Personalized Jewelry
-    *   Persona Bead Collection
+    *   ENGAGEMENT
+        *   Start with a Setting
+        *   Start with a Diamond
+        *   Setting Only
+        *   Loose Diamonds
+        *   Three Stone Rings
+    *   BANDS
+        *   Anniversary Bands
+        *   Eternity Bands
+        *   Men's Diamond Bands
+        *   Metal Wedding Bands
+    *   FASHION
+        *   Diamond Studs
+        *   Diamond Pendants
+        *   Personalized Jewelry
+        *   Persona Beads
 *   Clearance
 
 Home    Customer Service     **Safety, Security and Privacy** Safety, Security and Privacy
@@ -303,14 +425,11 @@ Send Him a Hint
 
 Sweepstakes
 
-Facebook
+*   Facebook
+*   Twitter
+*   Foursquare
 
-Twitter
+*   Zales Blog
+*   Zales Mobile
 
-Foursquare
-
-Zales Blog
-
-Zales Mobile
-
-© 2012 Zale Corporation. All rights reserved.
+© 2012 Zale Corporation.
