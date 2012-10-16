@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (57.2 MB) Top PC Downloads 1 Diner Dash 2 Diner Dash 2 Restaurant Rescue 3 Diner Dash: Hometown Hero 4 Wedding Dash 5 Wedding Dash 4 - Ever 6 Cooking Dash 7 Hotel Dash: Suite Success 8 SpongeBob SquarePants Diner Dash 9 Diner Dash 5: BOOM 10 Diner Dash Flo on the Go » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (33.7 MB) Top PC Downloads 1 Diner Dash 2 Diner Dash 2 Restaurant Rescue 3 Diner Dash: Hometown Hero 4 Wedding Dash 5 Wedding Dash 4 - Ever 6 Hotel Dash: Suite Success 7 Cooking Dash 8 SpongeBob SquarePants Diner Dash 9 Diner Dash 5: BOOM 10 Diner Dash Flo on the Go » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -265,15 +265,15 @@ Help Quinn make wedding bells ring!
 
 Tackle more wedding mania than ever before!
 
-**Play Free!** (37.2 MB) Try It Cooking Dash DASH™ &. Time Mgmt Games
-
-Help Flo cook and deliver food from four DinerTown restaurants while Cookie the Chef courts culinary celebrity!
-
-**Play Free!** (23.9 MB) Try It Hotel Dash: Suite Success DASH™ &. Time Mgmt Games
+**Play Free!** (37.2 MB) Try It Hotel Dash: Suite Success DASH™ &. Time Mgmt Games
 
 Flo's going into the hotel business!
 
-**Play Free!** (33.7 MB) Try It SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
+**Play Free!** (33.7 MB) Try It Cooking Dash DASH™ &. Time Mgmt Games
+
+Help Flo cook and deliver food from four DinerTown restaurants while Cookie the Chef courts culinary celebrity!
+
+**Play Free!** (23.9 MB) Try It SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
 
 Soak up five-star feeding fun with everyone's favorite sponge!
 
