@@ -21,9 +21,9 @@
     *   Best iPhone Apps
 *   Walkthrough
 
-  Free Today! The Heist
+  Best Free Apps of the Day!
 
-Past Top App Gone Free!
+Free Today! Priority Matrix
 
   New and Upcoming MMORPG's
 
