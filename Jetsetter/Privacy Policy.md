@@ -220,37 +220,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Abode at Parkwood - Utah
-    
-    Starting Today at Noon EDT
-    
-*   A Manhattan Mystery Hotel
-    
-    Starting Today 10/15 at 3pm EDT
-    
-*   Hotel Palazzo Manfredi - Rome
-    
-    Starting Today 10/15 at 3pm EDT
-    
-*   A Maui Mystery Hotel
-    
-    Starting Today 10/15 at 3pm EDT
-    
-*   Golden Tower Hotel - Florence
-    
-    Starting Today 10/15 at 3pm EDT
-    
 *   Kenwood Inn and Spa - Sonoma
     
-    Starting Tuesday 10/16 at 3pm EDT
-    
-*   Fiji Air &. Hotel Package For 2
-    
-    Starting Tuesday 10/16 at 3pm EDT
+    Starting Today 10/16 at 3pm EDT
     
 *   Correntoso Hotel - Argentina
     
-    Starting Tuesday 10/16 at 3pm EDT
+    Starting Today 10/16 at 3pm EDT
+    
+*   Faena Hotel Buenos Aires
+    
+    Starting Today 10/16 at 3pm EDT
+    
+*   Fiji Air &. Hotel Package For 2
+    
+    Starting Today 10/16 at 3pm EDT
+    
+*   Icon Hotel &. Lounge - Prague
+    
+    Starting Wednesday 10/17 at 3pm EDT
+    
+*   Little Good Harbour - Barbados
+    
+    Starting Wednesday 10/17 at 3pm EDT
+    
+*   Soneva Kiri - Thailand
+    
+    Starting Wednesday 10/17 at 3pm EDT
+    
+*   The Alex - New York City
+    
+    Starting Wednesday 10/17 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
