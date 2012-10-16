@@ -222,9 +222,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Itâs the Mash! Itâs the Modster Mash!
-    *   A Twin Peaks Fanzine? Oh, yes.
-    *   Finding Your âNisheâ: Three Eye-Catching Coats from One Lovely Label
+    latest blog posts*   Best Job Ever: Lexicographer Erin McKean of Wordnik.com
+    *   Weâre Listening to The Luyas!
+    *   Itâs the Mash! Itâs the Modster Mash!
     
     *   modcloth blog
     *   In Other Words
