@@ -269,7 +269,7 @@ Answers may amend this policy from time to time by posting the new text on the S
   
 If you have any questions or suggestions regarding this privacy policy, please contact Answers: privacy\_at\_answers.com.  
   
-ADVERTISEMENT Answer these How to open sparkling wine and still wine? In: Wine and Champagne Answer it! Is The earth is tilted? In: Seasons Answer it! Why is Jean the protagonist in to kill a mockingbird? In: To Kill a Mockingbird Answer it! What is the largest 3 digit number that is divisible by 5? In: Math and Arithmetic Answer it! ADVERTISEMENT Answers Properties
+ADVERTISEMENT Answer these How would ancient Greek woman prepare a meal? In: Ancient Greece Answer it! What kind of noun is cupboard? In: Pronouns Answer it! Who was the German scientist who found out that all plants are made up of cells? In: Botany or Plant Biology Answer it! What is the number if M x M equals LY and then M x L equals YM? In: Math and Arithmetic Answer it! ADVERTISEMENT Answers Properties
 
 *   Wiki Answers
 *   Video Answers
