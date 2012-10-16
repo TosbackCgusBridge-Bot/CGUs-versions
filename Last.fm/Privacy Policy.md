@@ -10,7 +10,7 @@ Last.fm
 *   **Login**
 *   **Join**
 
-English | Help Get updates from Last.fm, follow us on Twitter »
+English | Help Last.fm/discover: find your next favourite band »
 
 *   Deutsch
 *   Español
@@ -227,7 +227,7 @@ This Privacy Policy is effective as of 26 June 2012.
     Music Manager
     
 
-> “Mama Mia, That'sa One Spicy Last.fm!”
+> “Have a Last.fm and Smile.”
 
 BNET | CBS Cares | CBS Films | CBS Radio | CBS.com | CBSInteractive | CBSNews.com | CBSSports.com | CHOW | CNET | College Network | Find Articles | GameSpot | Help.com | Last.fm | MaxPreps | Metacritic.com | Moneywatch | mySimon | Radio.com | Search.com | Shopper.com | Showtime | SmartPlanet | TechRepublic | The Insider | TV.com | UrbanBaby.com | ZDNet © 2012 Last.fm Ltd. All rights reserved. | Terms of Use, Privacy Policy and Cookie Policy | Updated July 4, 2012  
 
