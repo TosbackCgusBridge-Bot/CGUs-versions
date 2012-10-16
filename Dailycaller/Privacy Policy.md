@@ -1,4 +1,4 @@
-**TRENDING:** ARLEN SPECTER | MITT ROMNEY | PAUL RYAN | JOE BIDEN | NOBEL PEACE PRIZE | SYRIA
+**TRENDING** MITT ROMNEY | TOMMY THOMPSON | IRAN | GEORGE MCGOVERN | NICKI MINAJ | PRESIDENTIAL DEBATES
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  Newt Gingrich calls out Karl Rove super PAC, NRSC for abandoning Todd Akin \[VIDEO\] **Senate Smackdown** 'SNL' takes on vice presidential debate \[VIDEO\]    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  Romney campaign files federal suit to ensure all military ballots count in Wisconsin Documents: Despite Obama's claims, relationship with Rev. Wright began as early as 1987 Coulter: 'White liberals are always threatening black riots' \[VIDEO\]    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-Why baseball is the cruelest sport 2:59 PM 10/14/2012 Will Joe Biden’s laughs be the new Al Gore sighs? 12:16 AM 10/12/2012 Obama Libya story changes subtly 5:14 AM 10/15/2012 Obama’s got drama now 4:22 PM 10/12/2012 Biden’s Benghazi claim: Is he lying, or is the Obama administration really this incompetent? 1:54 PM 10/12/2012 Caption this: Biden is nuts 11:57 AM 10/12/2012 The great many facial expressions of Joe Biden \[SLIDESHOW\] 4:28 PM 10/11/2012 Meet the one percent of American colleges and universities \[SLIDESHOW\] 6:56 PM 10/10/2012 Study: Female GOP politicians are better looking than liberal politicians \[SLIDESHOW\] 2:19 AM 10/10/2012 10 women hotter than Mila Kunis \[SLIDESHOW\] 3:20 PM 10/08/2012 See More Got racism? 6:58 PM 10/10/2012 MSNBC’s motto: ‘Lean racist’ 5:13 PM 10/03/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Leaders with Ginni Thomas: Newt Gingrich 8:41 PM 10/14/2012 Gingrich calls out Rove super PAC, NRSC for abandoning Akin 5:58 AM 10/14/2012 Videos Sections
+Why Candy Crowley should follow the debate rules 2:25 PM 10/15/2012 Faith and sex aren’t mutually exclusive 10:29 AM 10/15/2012 Romney or Winfrey? 7:04 AM 10/16/2012 Obama Libya story changes subtly 5:14 AM 10/15/2012 And here’s another YouTube clip that should anger Muslims 7:14 PM 10/15/2012 Here’s why stupid people think Biden won the debate 2:59 PM 10/15/2012 The great many facial expressions of Joe Biden \[SLIDESHOW\] 4:28 PM 10/11/2012 Meet the one percent of American colleges and universities \[SLIDESHOW\] 6:56 PM 10/10/2012 Study: Female GOP politicians are better looking than liberal politicians \[SLIDESHOW\] 2:19 AM 10/10/2012 10 women hotter than Mila Kunis \[SLIDESHOW\] 3:20 PM 10/08/2012 See More Got racism? 6:58 PM 10/10/2012 MSNBC’s motto: ‘Lean racist’ 5:13 PM 10/03/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Leaders with Ginni Thomas: Newt Gingrich 8:41 PM 10/14/2012 Gingrich calls out Rove super PAC, NRSC for abandoning Akin 5:58 AM 10/14/2012 Videos Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   Leaders with Ginni Thomas: Newt Gingrich
-*   David Axelrod blames State Department for security issues at Benghazi consulate
-*   Why baseball is the cruelest sport
+*   The mullahs will never succumb to sanctions
+*   And here’s another YouTube clip that should anger Muslims
+*   How campus censorship makes us all a little bit dumber
 
 Corporate
 
