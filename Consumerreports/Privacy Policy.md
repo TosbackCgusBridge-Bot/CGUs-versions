@@ -285,10 +285,10 @@ E-mail Newsletters **FREE** e-mail Newsletters!
 Choose from safety, health, cars, and more! **Already signed-up?**  
 Manage your newsletters here too. Consumer News AUTOMOTIVE NEWS  
 Emergency trunk release fails on our Lexus ES and GS A snapped lever could leave a trapped occupant with no way to escape. E-BOOK READER REVIEWS  
-New Amazon Paperwhite has an exceptional screen And the built-in LEDs aid reading in almost all lighting conditions. DISHWASHER REVIEWS  
-Viking D3 Series RDDB301 doesn't conquer our tests You can get a higher-scoring machine for much less than this $1,450 model. COMPUTER REVIEWS  
-Acer Aspire V5-571-6891 Windows 8 laptop satisfies Its enhanced touchpad recognizes a number of finger gestures. SMART PHONE REVIEWS  
-'Purple haze' photo problem isn't limited to iPhone 5 In our tests, the iPhone 4S and some Android devices had the same issue. Read More Connect Discuss products and safety with  
+Kindle and Nook e-book buyers to get money back A proposed legal settlement calls for a credit of up to $1.32 per book. WASHING MACHINE REVIEWS  
+Should you buy a front-loader or a top-loader? LG washers in our Ratings highlight the pros and cons of each type. HEALTH INSURANCE RANKINGS  
+Find a better plan during Medicare open enrollment Review your coverage every year because plans can change. HEADLIGHT CLEANER GUIDE  
+Keep your headlights burning bright as days grow shorter The rate of injury and death from motor-vehicle crashes is higher at night. Read More Connect Discuss products and safety with  
 subscribers and fans Follow us on: Mobile
 
 Get Ratings on the go and compare  
