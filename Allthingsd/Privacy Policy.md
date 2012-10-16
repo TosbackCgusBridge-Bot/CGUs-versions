@@ -42,7 +42,7 @@ AllThingsD
 
 *   View by Writer
 
-**Trending –** Tech Pundits Take iPhone Complaints Directly to the Source on “Saturday Night Live”  
+**Trending –** Apple Nabs Amazon A9 Exec Stasior to Run Siri — But Does Hire Signal a Bigger Move Into Search?  
 
 Follow on Twitter »Subscribe on Facebook »Like on Facebook »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
 
