@@ -133,9 +133,9 @@ Sign In Join Today **DLC** Maps &. Passes **Pre-Owned** Great Values **Trade-Ins
 *   PC See All PC » Hot Right Now
     
     1.  The Elder Scrolls V: Skyrim
-    2.  Sid Meier's Civilization V: Game of the Year Edition
-    3.  Chivalry: Medieval Warfare
-    4.  The Elder Scrolls V: Skyrim - Dawnguard
+    2.  Chivalry: Medieval Warfare
+    3.  Sid Meier's Civilization V: Game of the Year Edition
+    4.  Skylanders Voodood Character
     
     See all best sellers PC **Games**
     
