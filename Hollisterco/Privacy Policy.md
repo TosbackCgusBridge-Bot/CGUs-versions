@@ -4,11 +4,13 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Sweatpants Sale - $20 &. Up!
+\[hol-HomepageTopBannerEMS\] 2 Days only - Members get Free shipping over $50 when signed in!
 
-*   Shop Dudes Sweatpants
+*   Sign In
 
-*   Shop Bettys Sweatpants
+*   Shop Dudes
+
+*   Shop Bettys
 
 *   see details
 
