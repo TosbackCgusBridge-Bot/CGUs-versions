@@ -2,7 +2,7 @@ COMPLIMENTARY SHIPPING ON ALL US ORDERS
 
 See Details
 
-Log In Favorites Favorites My favorites (3) Most Loved Yves Saint Laurent Tribute Barneys New York Search
+Log In Favorites Favorites My favorites (3) Most Loved Alexander Wang Ponyhair Compact Wallet Barneys New York Search
 
 *   New Arrivals
     *   All New Arrivals
