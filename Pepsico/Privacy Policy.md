@@ -1,6 +1,6 @@
 PepsiCo
 
-1.  PEP: 70.05 (+0.23)
+1.  PEP: 70.34 (+0.29)
 2.  Contact
 3.  Global Sites
     1.  Brazil
@@ -150,17 +150,17 @@ How to Contact Us
 
 If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us via one of the addresses or telephone numbers listed here.
 
-Stock Information PEP (NYSE): $70.05 +0.23 +0.33%
+Stock Information PEP (NYSE): $70.34 +0.29 +0.41%
 
 Minimum 20 Minute Delay
 
-**Intraday High** 70.67
+**Intraday High** 70.39
 
-**Intraday Low** 69.94
+**Intraday Low** 69.75
 
-**Volume** 6,159,733
+**Volume** 4,700,699
 
-**Last Trade** 69.82
+**Last Trade** 70.05
 
 Meet the Family
 
