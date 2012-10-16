@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Monday, October 15, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Tuesday, October 16, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Monday, October 15, 2012 Go Follow the Atlanti
 *   Magazine
 *   video
 
-Presented by Mitt Romney's Frontrunner Moment Molly Ball A 17-Year-Old Jolts the Politics of 'Stop and Frisk' Conor Friedersdorf Federal Judges: In South Carolina We Trust Andrew Cohen Affirmative Action: Will We Need it in 2025? Jordan Weissmann How Romney Can Win the Middle Class Derek Thompson Why We Need More Helicopter Parents Brink Lindsey 'Seven Psychopaths' Is Crazy Good Christopher Orr The (Latest) Return of Notre Dame Football Allen Barra Can Lance Armstrong Still Be a Hero? Sports Roundtable Slinkachu's Globetrotting Miniature Street Art J.J. Gould 'Netizen': How a Goofy-Sounding Word Survived for 30 Years in China Brian Fung Behind Obama's Decision to Kill Bin Laden John A. Gans Jr. Universities Win Big on Digitization Project Rebecca J. Rosen A Newly Constructed Movie of Earthrise Alexis Madrigal Artichoke + MRI + GIF = Awesomeness Rebecca J. Rosen Gentrification Hits Black Churches Hard Alessandra Ram Remembering Two Fearless Historians Benjamin Schwarz When Is a Judge Like a Politician? Andrew Cohen An Underwater Bike for Beautiful People Lindsay Abrams Slap a Pink Ribbon on It Madhulika Sikka Sensory Deprivation: Face Yourself Kyle Dowling Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Projection Mapping Inked Drawings Kevin Holmes Toy Cars + iPhone = Epic Chase Scene Kasia Cieplak-Mayr von Baldegg Privacy Policy
+Presented by 8 Key Issues Missing From the Debates David A. Graham Paul Ryan is Unqualified to Step In as President Conor Friedersdorf Undecided Voters Speak! James Fallows Making a Better Future for Our Children Mohamed A. El-Erian Why We Don't Run America Like a Business Jordan Weissmann Where the World's Millionaires Live Derek Thompson The Agony of Ending an Agonizing Boxing Fight Gary Andrew Poole The Return of 'The Walking Dead' Jeffrey Goldberg, J.J. Gould, and Scott Meslow When Is an 'Unfilmable' Book Actually Filmable? Maria Konnikova The Lessons of the Cuban Missile Crisis Bruce Allyn Anti-Gay Hostility on the Rise in Russia Coilin O'Connor Vati-Leaks Did Nothing for Vatican Transparency Alexander Stille What Is Going on With Antarctica's Sea Ice? Rebecca J. Rosen Universities Win Big on Digitization Project Rebecca J. Rosen A Newly Constructed Movie of Earthrise Alexis Madrigal AP Classes Are a Scam John Tierney Gentrification Hits Black Churches Hard Alessandra Ram Remembering Two Fearless Historians Benjamin Schwarz An Underwater Bike for Beautiful People Lindsay Abrams Slap a Pink Ribbon on It Madhulika Sikka The Moral Failings of Health Care Politics Ruth Faden Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by The Psychology of Big Wave Surfing Kasia Cieplak-Mayr von Baldegg The Genesis of 'Looper': Pitch Reel Kasia Cieplak-Mayr von Baldegg Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,27 +113,27 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report The Atlantic Election 2012  
-_The Atlantic_'s full coverage of the battles for the White House, Senate, and more. Read more › Just In Molly Ball 7:30 AM ET The GOP Grannies Who Love Paul Ryan 1350300636 Voices
+Special Report The Atlantic The Energy Puzzle  
+_The Atlantic_'s Alexis Madrigal talks with the entrepreneurs shaping our future. Read more › Just In Conor Friedersdorf 8:00 AM ET The Present Congress Isn't the Worst Ever, Or Even Lately 1350388800 Voices
 
-*   Jeffrey Goldberg A Cairo Riot 6:52 AM ET
-*   Robert Wright Very Nice Guy (and Important Psychologist) Dies Oct 14, 2012
+*   Ta-Nehisi Coates The Hyperlinked Ballad Of Eliza Icewalker 1:22 AM ET
+*   Derek Thompson Stock Market Performance Under Democratic… Oct 15, 2012
+*   Alexis C. Madrigal A 1,000-Page Reminder That Energy and Foreign… Oct 15, 2012
+*   Robert Wright Why Obama's in This Hole and How He Can Get Out Oct 15, 2012
+*   Jeffrey Goldberg Utterly Charming News About the Continued… Oct 15, 2012
 *   James Fallows Your Real-Time Cyber-Attack Map Oct 13, 2012
-*   Ta-Nehisi Coates Romney Rising (Still) Oct 13, 2012
 *   Garance Franke-Ruta Did Biden Hang the State Department Out to Dry at… Oct 12, 2012
 *   Clive Crook Biden Beats Ryan on Points Oct 12, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
-*   Alexis C. Madrigal Dark Social: We Have the Whole History of the Web… Oct 12, 2012
-*   Derek Thompson The 1 Way Mitt Romney Can Beat President Obama on… Oct 10, 2012
 
 Correspondents
 
-*   Andrew Cohen Would You Trust These State Justices to Review Your Case?
+*   Andrew Cohen It's Time For California To End Its Death Penalty
+*   John Tierney AP Classes Are a Scam
 *   Garrett Epps Conservative Justices Prepare to 'Gut' Affirmative Action
-*   John Tierney Pity the Recommendation Writer, Bard of the 'Great Bland Majority'
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos A Space Shuttle on the Streets of Los Angeles Oct 13, 2012 Video How to Catch a Monster Wave: The Psychology of Big Wave Surfing Trango Towers 'Yet Again': Grizzly Bear Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos 50 Years Ago: The Cuban Missile Crisis Oct 15, 2012 Video What Does Marijuana Actually Do to Your Brain? The Science of Procrastination How Orgasms Shut Down Our Brains Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -162,51 +162,51 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   'Economic Engineering' Earns Two Americans a Nobel Prize  
+*   How Lack of Sleep Is Killing You  
     
-*   Study: HPV Vaccine Doesn't Turn Girls into Sex Maniacs  
+*   Cuba Opens Its Doors a Little Bit Wider  
     
-*   14-Year-Old Taliban Victim Malala Yousafzai Is Moved to England  
-    
-
-Last Update: 7:49 AM
-
-*   'Hipster Is Not a Real Job'  
-    
-*   Bears Could Be Next Urban Menace  
-    
-*   Is This What an Urban 'Big Box Store' Looks Like?  
+*   Pussy Riot Is Heading to a Horrible Russian Prison Colony  
     
 
-Last Update: 3:00 PM Most Popular
+Last Update: 7:48 AM
+
+*   Felix Baumgartner's Space Jump: The LEGO Version  
+    
+*   Is Bangalore Reinventing Trash Management?  
+    
+*   Will Buenos Aires Ever Learn to Pick Up Its Poo?  
+    
+
+Last Update: 9:01 PM Most Popular
 
 1
 
-Dark Social: We Have the Whole History of the Web Wrong
+What an Academic Who Wrote Her Dissertation on Trolls Thinks of Violentacrez
 
 2
 
-Einstein Letter Calling Biblical Stories 'Pretty Childish' to Be Auctioned on eBay
+Why We Shouldn't Be Surprised Obama Is Falling Behind
 
 3
 
-AP Classes Are a Scam
+Dark Social: We Have the Whole History of the Web Wrong
 
 4
 
-A Space Shuttle on the Streets of Los Angeles
+Pointless Shame: The English-Speaking World's Issue With Women's Breasts
 
 5
 
-Why Conservatives Don't Really Want the U.S. to Run Like a Business
+A Space Shuttle on the Streets of Los Angeles
 
 6
 
-The Agony of Ending an Agonizing Boxing Fight
+AP Classes Are a Scam
 
 7
 
-How To Make Sure The Next Generation Is Better Off Than We Are
+50 Years Ago: The Cuban Missile Crisis
 
 8
 
@@ -214,11 +214,11 @@ Why Women Still Can’t Have It All
 
 9
 
-The Writing Revolution
+Gangnam Style, Dissected: The Subversive Message Within South Korea's Music Video Sensation
 
 10
 
-'The Walking Dead' Is Back, and It's Taking the Apocalypse Seriously
+The Writing Revolution
 
 *   Subscribe Help
 *   Faq
