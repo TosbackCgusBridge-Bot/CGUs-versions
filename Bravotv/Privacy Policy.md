@@ -2,7 +2,7 @@ Bravo
 
 *   Shows &. Schedules
     
-    *   The Real Housewives of New York City Where the Friendship went South Mondays @ 9/8C
+    *   Flipping Out Sleepover with Jeff and Jenni Tuesdays @ 10/9c
     
     Current
     
@@ -21,7 +21,6 @@ Bravo
     *   The Real Housewives of New Jersey
     *   The Real Housewives of New York City
     *   Top Chef
-    *   Top Chef Masters
     *   Watch What Happens Live
     
     What's On Tonight
@@ -30,7 +29,7 @@ Bravo
     *   New 11:00 PM Watch What Happens LiveLuAnn de Lesseps &. Lauren ConradSee All Shows » See Full Schedule »
 *   People &. Blogs
     
-    *   Read Carole Radziwill's Latest Post Carole Says Dream Big
+    *   Read The Dish's Latest Post Sonja Morgan: 'I Just Felt Unheard'
     
     Current Bravolebrities
     
@@ -64,9 +63,9 @@ Bravo
     *   Teresa Giudice
     
     Recent Blog Posts
-    *   LuAnn de Lesseps LuAnn's Lessons Learned
-    *   Heather Thomson No Good Deed for Sonja Goes Unpunished
-    *   Caroline Manzo RHONJ Reunion ChaosAll People » More Blog Posts »
+    *   Melissa Gorga The Teresa-Kim Set-Up
+    *   The Dish Foods Gail Simmons &. Eric Ripert Hate
+    *   Sonja Morgan Sonja Talks Toaster OvenAll People » More Blog Posts »
 *   Videos &. Full Episodes
     
     *   Watch What Happens Live Jill Zarin: “I Don’t Pay for my Friends”
@@ -285,28 +284,28 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   WATCH WHAT HAPPENS LIVE: MIAMI HOUSEWIVES REUNION
+*   FLIPPING OUT BAD MOVE
     
-    8:00 AM ET
+    5:00 PM ET
     
-*   THE REAL HOUSEWIVES OF MIAMI A TALE OF TWO MIAMIS
+*   THE REAL HOUSEWIVES OF NEW YORK CITY REUNION PART 1
     
-    9:00 AM ET
+    6:00 PM ET
     
 
-view complete schedule The Dish - Bravo's Daily News Kyle Richards Is 'Scared' of New Season
+view complete schedule The Dish - Bravo's Daily News Foods Gail Simmons &. Eric Ripert Hate
 
-C'mon, what could be so frightening about Beverly Hills?
+Exclusive: The hot foodies talk painful 'Top Chef' eliminations and more on set of Eric's 'On the Table'
 
-Read More 'Shahs of Sunset' Season 2 Is On!
+Read More Sonja Morgan: 'I Just Felt Unheard'
 
-Reza, MJ and the Persian posse will return on December 2.
+Thankfully, she and Heather Thomson were able to sort things out.
 
 Read More More Dish Get insider Bravo news in our weekly update!
 
 Must be 13 or older
 
-Sponsored Headlines What's Hot RHONJ Even More Reunion Outtakes! RHOM Lea Black Before She was a Housewife Start Ups: Silicon Valley Season 1 Sneak Peek RHONY Preview Reunion Part 2 Flipping Out Before and After: Spring Oak Life After Top Chef Tour Spike's Crib More Shows
+Sponsored Headlines What's Hot RHONJ Even More Reunion Outtakes! RHOM Lea Black Before She was a Housewife Start Ups: Silicon Valley Season 1 Sneak Peek RHONY Ramona's Premature Goodbye Flipping Out Before and After: Spring Oak Life After Top Chef Tour Spike's Crib More Shows
 
 *   The Real Housewives of Atlanta
 *   Life After Top Chef
