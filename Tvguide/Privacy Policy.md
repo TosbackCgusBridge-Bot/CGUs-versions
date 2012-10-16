@@ -73,11 +73,11 @@ What's Hot
 
 Fall TV Popularity Contest
 
-_Once_'s Angry Giant
+_DWTS_ Recap
 
-Baumgartner's Space Dive
+_Private Practice_: Meet Sam's Mom!
 
-_Arrow_ Pics: Deadshot! China White!
+_Arrow_ Scoop
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -137,11 +137,11 @@ more popular celebrities Most Popular Movies
 
 more popular movies Top Videos
 
-1.  Gossip Girl
-2.  The Vampire Diaries
+1.  The Vampire Diaries
+2.  Gossip Girl
 3.  Dexter
-4.  Supernatural
-5.  Arrow
+4.  Arrow
+5.  Hart of Dixie
 
 more top videos
 
