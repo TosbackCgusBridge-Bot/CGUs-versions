@@ -1,5 +1,5 @@
   
-Users Online Now: **1,939** (Who's On?) Visitors Today: **503,306** Pageviews Today: **738,528** Threads Today: **321** Posts Today: **3,273** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **2,100** (Who's On?) Visitors Today: **412,409** Pageviews Today: **681,109** Threads Today: **337** Posts Today: **4,556** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,16 @@ trinity@godlikeproductions.com
   
 News
 
+*   AT&T Starts Six-Strikes Anti-Piracy Plan Next Month, Will Block Websites
+*   New version of Flame virus uncovered: researchers
+*   Recent droughts could be new normal, may lead to massive tree death, study suggests
+*   2 Americans win Nobel econ prize for match-making
+*   Where Will The Next Pandemic Come From? And How Can We Stop It?
+*   Cops Beat Man Experiencing Diabetic Shock, Scream At Him To "Stop Resisting"
+*   Saturn’s Moon Titan Has A Soft, Crusty Surface, Like Freshly Frozen Snow
+*   Solar wind particles likely source of water locked inside lunar soils
+*   Softbank to buy 70 percent of Sprint for $20 bln
+*   Linux camp has key to Windows 8 boot lockout
 *   Cap and trade: California’s experiment to rein in climate change
 *   Lost, potentially hazerdous asteroid rediscovered
 *   Polar Bear Video Shows Dark Side of Drinking Soda — Will It Change Habits?
@@ -127,16 +137,6 @@ News
 *   FTC Close To Google Antitrust Case, Sources Say
 *   Report: Ukraine Trains Dolphins With Friggin’ Pistols on Their Heads
 *   Safer, more efficient, fusion-generated electricity is on the horizon
-*   A complex logic circuit made from bacterial genes
-*   Cops badly burn sleeping 12-year-old girl with stun grenade in SWAT raid
-*   How a man lived six months with no heart or pulse
-*   Netflix making 'Dreams' a nightmare for Obama
-*   George Clooney Calls First Amendment 'Unfortunate'
-*   Japan's TEPCO admits downplaying tsunami risk
-*   Pennsylvania Fracking Law Opens Up Drilling on College Campuses
-*   Curiosity Rover Finds Rock Type That’s Never Been Seen on Mars
-*   Trolls or criminals? Britain wrestles with social media
-*   Lawyer in Climate Science Case May Have Broken Ethics Rules
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.019s (0 queries)
+Page generated in 0.016s (0 queries)
