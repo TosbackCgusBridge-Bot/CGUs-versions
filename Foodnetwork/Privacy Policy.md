@@ -276,6 +276,8 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   Shake up a cocktail good enough to lure '007' away from the beer, with our top technique videos: t.co/j2N0HOHY #cocktails
+*   Recipe of the Day: Parmigiano Reggiano and Butternut Squash Soup t.co/F8VooJ4R
 *   @elkantina yay! @eatmypies will love hearing that!
 *   Tune in today at 12:30 &. 18:30 for all new Andy Bates American Street Feasts. It’s drool worthy. t.co/EZwQVOay #StreetFeastsUSA
 *   @mike03lwis that's good to hear. Take a pic and let us know how it goes. Good luck!
@@ -284,8 +286,6 @@ Your email address:
 *   We don't think so! Happy to have you :) RT @cheatingturtle9: @FoodNetwork\_UK I watch so much of the food network channel it's ridiculous!
 *   Recipe of the Day: Achaari Salmon Wraps courtesy of @PataksCurryClub t.co/Ns5qS17M #recipe
 *   @mike03lwis what's your favourite meal to eat?
-*   I hope you're doing the dance routines?!?! RT @sillyha: Why do you like soul food? Because it makes me happy @FoodNetwork\_UK
-*   @mike03lwis how about this sausage and mushroom lasagne: t.co/4Sivx29H
 
 Follow Us
 
