@@ -274,7 +274,7 @@ _Last Updated, March 1st 2011_
 *   Learn More
 *   Manage Your Account
 
-Save 10% today when you sign up to receive emailsOffer valid for new email subscribers.Thanks.A promo code to save 10% off will arrive in your inbox shortly.Nice to see you again.You’re already on our email list, so you’ll continue to hear first about our new products and special offers. Crate and Barrel Home|My Cart Terms of Use  |  Privacy Policy  |  ©2012 Crate and Barrel. All Rights Reserved.
+Thanks.You have been added to our list.Nice to see you again.You’re already on our email list, so you’ll continue to hear first about our new products and special offers. Crate and Barrel Home|My Cart Terms of Use  |  Privacy Policy  |  ©2012 Crate and Barrel. All Rights Reserved.
 
 We're here to help
 
