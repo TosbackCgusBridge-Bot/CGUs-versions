@@ -691,17 +691,17 @@ contactos Telemundo TV Ahora
     
     Más de 70 fotos de cheerleaders de la NFL.
     
-*   Señales de que él te engaña
+*   ¡La dieta del chocolate!
     
-    No se te va a escapar  
+    No podrás resistir el deseo de hacerla  
     
-*   ¡De México y con amor!
+*   Los hombres de Anahí
     
-    Una selección de las mujeres más bellas de México  
+    Las parejas de una verdadera rompecorazones  
     
-*   Katy Perry - Mujer del Año 2012
+*   Preparativos Día 1
     
-    Ella es la 'Mujer del Año' 2012
+    Mira el 1er día de ensayos de la gran fiesta grupera
     
 
 Más en Telemundo:
