@@ -1,9 +1,7 @@
-*   About Us
-*   Company Directory
-*   No Commercial Use
-*   Privacy Policy
-*   User Agreement
-*   What’s Up With Consumerist?
+*   What’s Up With Consumerist?
+*   RSS
+*   Twitter
+*   Facebook
 
 The Consumerist
 
@@ -126,11 +124,11 @@ Tell a friend:
 
 **Want Consumerist in your inbox?** Popular Posts
 
-*   Starbucks CEO Howard Schultz Gives Local Manager A Ring To Thank Her For Doing A Good Job
-*   Homeowner Has To Share House With Squatter Because Police Can't Do Anything
-*   Google Won't Replace Your Broken Nexus 7 Until You Put Up $200 Collateral
-*   4 Ways You Might Save By Ditching Your Mega Bank
-*   Disabled Vet Says Debt Collector Told Him "You Should Have Died"
+*   Here Is A Downloadable Template For Opting Out Of PayPal Arbitration Clause
+*   Tuna Cannery Worker Cooked To Death In Massive Steam Oven
+*   Insurance Company Tells Daughter She Should Pay To Fix The Car That Killed Her Mom
+*   EA Atones For Years Of Anti-Customer Behavior By Accidentally Giving Away Thousands Of Games For Free
+*   Noodles And Company Takes My Complaint Seriously, Then Sort Of Stalks Me
 
 About Consumerist
 
