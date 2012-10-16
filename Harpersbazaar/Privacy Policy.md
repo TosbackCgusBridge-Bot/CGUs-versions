@@ -15,6 +15,10 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
+My List: Vera Wang in 24 Hours
+
+The designer shares her schedule and beaut routine
+
 Street Style Star: Chic Coats
 
 Coat season is officially here, see how chic ladies wear their fall best on...
@@ -22,10 +26,6 @@ Coat season is officially here, see how chic ladies wear their fall best on...
 A Date with Chanel: Miroslava Duma
 
 Before heading off to a night under the stars, the ambassador to the brand ...
-
-Mr. Blasberg's Best-Dressed List: October 12th, 2012
-
-Mr. Blasberg chooses the top 10 chicest looks from the week.
 
 Beauty &. Hair  
 
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR Street Style Star: Chic Coats A Date with Chanel: Miroslava Duma Mr. Blasberg's Best-Dressed List: October 12th, 2012 The Most Anticipated Hair Trends For Spring 2013 Taking Your Hair to the DarkOr LightSide This Season Saving Face Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More! Vince and BAZAAR Toast A New Madison Avenue Store Shooting for the Stars: Chanel Fine Jewelry's 80th Anniversary Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR My List: Vera Wang in 24 Hours Street Style Star: Chic Coats A Date with Chanel: Miroslava Duma The Most Anticipated Hair Trends For Spring 2013 Taking Your Hair to the DarkOr LightSide This Season Saving Face Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More! Vince and BAZAAR Toast A New Madison Avenue Store Shooting for the Stars: Chanel Fine Jewelry's 80th Anniversary Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
@@ -80,11 +80,11 @@ SPECIAL OFFER
 
 Most Popular
 
-1.  Street Style Spring 2013: Paris Fashion Week
-2.  Nail It: Fall 2012's Top Manicure Trends
-3.  The Best Looks from Paris Fashion Week: Spring 2013
-4.  Paris Fashion Week Spring 2013: Parties &. Front Row
-5.  Top Hair Trends From The Fall 2012 Runways
+1.  Nail It: Fall 2012's Top Manicure Trends
+2.  Street Style Spring 2013: Paris Fashion Week
+3.  Top Hair Trends From The Fall 2012 Runways
+4.  How To Look Great Without Makeup
+5.  The Extras: Fall 2012 Accessories Report
 
 **TRY:** fall 2012 trends street style best mascara 2012 **About Harper's Bazaar**
 
