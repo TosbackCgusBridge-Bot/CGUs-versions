@@ -146,21 +146,19 @@ Tuesday: Top Deals
     
     Central Power Systems &. Services, Inc.
     
-2.  SEASONAL DRIVERS
-    
-    Kelly Services
+2.  OPERATING MANAGER
     
 3.  PROGRAM DIRECTOR
     
-4.  CAMPAIGN JOBS
-    
-    Grassroots Campaigns, Inc.
-    
-5.  SENIOR PIPE DESIGNER
+4.  SENIOR PIPE DESIGNER
     
     THOMAS RUSSELL CO.
     
-6.  Apartment Maintenance Helper
+5.  Apartment Maintenance Helper
+    
+6.  Certified Dietary Manager
+    
+    CROWN CARE CENTER
     
 
 View More The Most
@@ -168,16 +166,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Sprint-SoftBank merger could give wireless world a jolt
 *   Add confusion to list of Chiefs problems
-*   KU student robbed at gunpoint on campus
-*   Sprint shareholders can cash in big  but not all their shares
-*   Poll | Are the Chiefs the worst of the NFLs worst?
-*   Kansan’s comments on faith and politics stir up a storm
+*   Right-hander Kyle Lohse could be available for Royals to pursue
+*   Sprint-SoftBank merger could give wireless world a jolt
 *   Sunday rewind | MU's O-line gets revenge after dangerous tackle
+*   Kansas to roll out new driver’s license
+*   Polls don't matter, Electoral College does in determining the next president
+*   Poll | Are the Chiefs the worst of the NFLs worst?
+*   Dear Abby | Stepson is playing sex roulette
 *   Top-ranked guard Selden commits to Kansas
-*   KCK officer shoots driver after traffic stop. suspect critically hurt
-*   Source: No contract extension for Chiefs Pioli
+*   Thieves take ‘significant’ amount of jewelry during smash-and-grab burglary
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
