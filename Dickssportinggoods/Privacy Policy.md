@@ -453,11 +453,11 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   View All »
         
         MLB
-        *   Washington Nationals
-        *   Cincinnati Reds
-        *   New York Yankees
-        *   Oakland Athletics
+        *   Detroit Tigers
+        *   St. Louis Cardinals
         *   San Francisco Giants
+        *   New York Yankees
+        *   Washington Nationals
         *   View All »
     *   NCAA
         
