@@ -34,9 +34,9 @@ Exponential
 
 \>. News
 
-Exponential Interactive launches its third division in the UK. AppsnackTM, with Carat the first to savor bite-sized mobile advertising apps for Debenhams Oct 04, 2012
+Appsnack announced as finalist in iMedia’s Next Wave Challenge for top mobile start-ups Oct 15, 2012
 
-Owner of Tribal Fusion and Firefly Video will offer mini-app experiences launched from advertising inventory in mobile apps and across the mobile web
+Appsnack recognized for mobile campaign management and analysis capabilities in community voting phase. prepares to premiere mobile advertising platform at industry summit
 
 more news Careers
 
