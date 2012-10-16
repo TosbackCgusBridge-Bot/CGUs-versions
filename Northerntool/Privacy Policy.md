@@ -13,11 +13,11 @@ Northern Tool + Equipment, Generators, pressure washers, air compressors, power 
     *   Alternative + Renewable Energy
     *   Auto Repair
     *   Auto, SUV + Truck Accessories
+    *   Batteries, Chargers + Jump Starters
     *   Clothing + Work Wear
     *   Construction
     *   Electrical
     *   Engines
-    *   Fans
     *   Farm + Acreage
     *   Food Processing
     
@@ -28,21 +28,21 @@ Northern Tool + Equipment, Generators, pressure washers, air compressors, power 
     *   Hand Tools
     *   Heaters, Stoves + Fireplaces
     *   Hydraulics
-    *   Lawn Mowers
     *   Logging
     *   Material Handling
     *   Metal Fabrication
     *   Power Tools
-    
     *   Pressure Washers
+    
     *   Seats
+    *   Snow + Ice Removal
+    *   Snow Blowers
     *   Sprayers
     *   Storage + Organizers
     *   Tarps, Canopies + Shelters
     *   Tires + Wheels
     *   Tractors
     *   Trailers + Trailer Parts
-    *   Water Pumps
     *   Welding
     *   Winches
     *   See All Categories
