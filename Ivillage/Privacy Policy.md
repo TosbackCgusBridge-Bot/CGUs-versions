@@ -491,15 +491,15 @@ See All Newsletters   Advertisement Clip of the Day
 *   Beauty DIY Beautify DIY Beautify: Get Noticed with Bright Lips and Cheeks
 *   Entertainment iVillage 5 Whoa! Check Out Jen's Mega Engagement Ring
 *   Entertainment Likes or Yikes? Yikes! Dina and Lindsay Lohan's Crazy Week Continues
-*   Global iVoices OMG! Totally Embarrassing Mammogram Stories
-*   Entertainment Featured Brooke Shields: Why I Vote
+*   Global iVoices "Fajitas with Elmo" and Other Reasons Moms Hate PTA Duty
+*   Entertainment iVillage Interviews What JWOWW and Condoleezza Rice Have in Common? They Tell Us Why They Vote
 
   
   
 
-*   Parenting Halloween Get Them Now! Costumes For Tweens and Teens
-*   Global iVote Where Barack Obama and Mitt Romney Stand on Jobs
+*   Entertainment iVote Celebrities, Newsmakers &. Real Women Reveal "Why I Vote"
 *   Entertainment Celeb News Ask iVillage Guest Editor Alicia Keys a Question!
+*   Parenting Halloween Get Them Now! Costumes For Tweens and Teens
 *   Beauty DIY Beautify DIY Beautify: Get Noticed with Bright Lips and Cheeks
 *   Health Breast Cancer Awareness A Survivor Helms the Avon Walk for Breast Cancer
 
