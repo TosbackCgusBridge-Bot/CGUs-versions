@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Birthday Boy in Britain! »
+Hot Pics! Pippa's Looking Plum »
 
-Top Stories1.  Ashley Greene: "Twilight Has Ruined Me" »
-2.  Kim Kardashian Wears Tight See-Through Skirt, Bra Top on Date With Kanye »
-3.  Robert Pattinson, Kristen Stewart Cuddle at Hollywood Club »
+Top Stories1.  Kirstie Alley: I Wasn’t Crying After DWTS Cartwheel! »
+2.  Kristen Wiig Debuts Lighter Hair Color: "I Love It!" »
+3.  Bachelorette Wedding: Will You Watch Ashley, J.P. Get Married? »
 4.  Kate Gosselin on Her Face: I "De-Age" »
-5.  Reese Witherspoon Re-Emerges After Son Tennessee's Birth! »
+5.  Naked Sandra Bullock Bullies Chelsea Handler »
 
  
 
@@ -176,10 +176,10 @@ subscribe to Us Weekly Tori's Miracle Baby
 Inside Us Weekly
 
 *   Style Kim Kardashian Wears Tight See-Through Skirt,
-*   Beauty See Brad Pitt's Sensual Chanel No. 5 Commerci
-*   Moms PIC: Aww! Suri Cruise, 6, Makes Friends With
-*   Body Kate Gosselin on Her Face: I "De-Age"  
-*   Entertainment Tina Fey, Amy Poehler to Co-Host 2013 Golden  
+*   Beauty Brooklyn Decker Goes Brunette!
+*   Moms Tori Spelling's Miracle Baby Finn: See All th
+*   Body Nina Dobrev: "Starving to Be Skinny Isn't My  
+*   Entertainment Beyonce to Headline 2013 Super Bowl Halftime  
 
 *   US WEEKLY
 *   Celebrity News
