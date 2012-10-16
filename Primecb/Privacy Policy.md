@@ -1,35 +1,14 @@
-Employers: Post Jobs | Search Resumes    Already Registered? Sign In >>.    Help    Security
+Employers: Search Resumes | Post Jobs Sign in Career Resources and Advice for Experienced Workers
 
-*   My CareerBuilder
-    *   My CareerBuilder
-    *   Saved Jobs and Applications
-    *   Post Resume
-    *   Fraud Protection
-    *   hireINSIDER
-*   Find Jobs
-    *   Find Jobs
-    *   Setup Job Alert
-    *   Advanced Search
-    *   Company Search
-    *   Industry Search
-    *   CB Mobile
-    *   Relocation Search
-*   Job Recommendations
-*   Post Resumes
-    *   Post Resumes
-    *   Upgrade Resume
-    *   Resume Writing
-*   Advice &. Resources
-    *   Advice &. Resources
-    *   Career Resources
-    *   Education Center
-    *   Salary Calculator
-    *   Career Tests
-    *   Skills Training
-    *   hireINSIDER
-    *   CB Marketplace
+*   Home
+*   My PrimeCB
+*   Job Alerts
+*   Resume
+*   Jobs By Field
+*   Resources
+*   About Us
 
-Search Keywords Ex. Registered Nurse or Sales Location Ex. Chicago IL or 60607 Save a Search >>. Saved Searches Protect Your Privacy and Safety
+Protect Your Privacy and Safety
 
 Effective Date: September 15, 2010
 
@@ -162,67 +141,8 @@ You can direct questions regarding this Privacy Policy to CareerBuilder by email
 
   
   
-
-*   HELP
-*   CareerBuilder Job Seeker Customer Service: **(866) 438-1485**
-*   **Get Connected:**
-    *   Facebook
-    *   Twitter
-    *   YouTube
-    *   Blog
-
-CareerBuilder
-
-*   About Us
-*   Work at CareerBuilder
-*   Affiliate Program
-*   CareerBuilder API
-*   Advertising Info
-*   Our Partners
-*   Privacy
-*   Fraud
-*   Terms
-*   Text Only (508)
-*   Site Map
-*   Connect via Social Media
-
-Mobile Site
-
-Job Seeker Services
-
-*   Free Career Test
-*   Salary Calculator
-*   Skills Training
-*   College Degrees
-*   IT &. Engineering Jobs
-*   Candidate Screening
-*   CareerBuilder Mobile
-*   PrimeCB
-*   Entry-Level Jobs
-*   Internships
-*   Retail Jobs
-*   Restaurant Jobs
-*   Healthcare Jobs
-
-Employers
-
-*   Search Resumes
-*   Post Jobs
-*   CareerBuilder Talent Networks
-*   Resource Center
-*   Advice
-*   Empowering Employment
-
   
-CareerBuilder International
-
-International Jobs
-
+About PrimeCB.com  |   Feedback  |   CareerBuilder Job Seeker Customer Service: **(866) 438-1485**  |   Privacy  |   Fraud  |   Terms  
+**Channels:** Freelance &. Contract   |   Entry Level &. Internships   |   Retail Jobs   |   Career Test | Black Careers  |   Empleos  |   CBInstitute  
   
-Fun Stuff
-
-*   Monk-e-Mail
-*   Monk-e-Maker
-*   TV Commercial
-
-© 2012 CareerBuilder, LLC. All rights reserved. This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
+This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
