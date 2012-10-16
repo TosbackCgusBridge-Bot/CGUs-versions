@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   NFL
+*   Food
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 15, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: **U.S.**
+October 16, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 15, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
 *   FRONT PAGE
 *   Politics
     
-    *   Ambassador's Father: It Would Be 'Abhorrent' To Politicize Son's Death 10k
-    *   Obama Gains Big Lead Among Early Voters 27k
-    *   Former Pennsylvania Senator Arlen Specter Dies 1k
-    *   Billionaire Koch Brother Accused Of Imprisoning Employee 7k
-    *   Top Romney Adviser Challenged Over Studies Supporting Tax Plan 6k
+    *   Ambassador's Father: It Would Be 'Abhorrent' To Politicize Son's Death 17k
+    *   Obama's Battleground Edge Persists 28k
+    *   GOP Senate Candidate's Son: 'We Have The Opportunity' To Send Obama Back To Kenya 9k
+    *   Westboro Baptist Church Protest Stirs Violence 1k
+    *   Warren Nets Huge Haul 4k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 15, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Gay Voices
 *   Business
     
+    *   Notorious Bankrupt Company Blames Chinese Companies For Failure 1k
+    *   FedEx's $5,000 Gamble. Literally. 117
+    *   The Shocking Way The Super-Rich Are Selling Their Homes 165
+    *   Americans Win Nobel Prize For Economics 1k
     *   Exclusive: Inside Walmart's Secret Strike Plan 7k
-    *   62-Year-Old Cooked To Death At California Tuna Plant 468
-    *   Al Gore Making A Whole Lot Of Green Off Investing In Green 2k
-    *   FBI: 'Large Amount' Of Newly Designed $100 Bills Stolen At Philadelphia International Airport 1k
-    *   Ben Bernanke: Fed Policies Helping Not Hurting The Global Economy 144
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 15, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Crime
 *   Entertainment
     
-    *   Sarandon Assaulted As A Young Actress 272
-    *   The Reviews Are In For 'Flight' 467
-    *   Anne Hathaway, Best Actress? 202
-    *   Gwyneth Paltrow And Cameron Diaz Break It Down 85
-    *   Lindsay Lohan Is Voting For Romney 5k
+    *   Sarandon Assaulted As A Young Actress 2k
+    *   Does Adam Lambert Have The $48 Million Voice? 130
+    *   Leona Lewis: 'We Found Love' Was My Song 135
+    *   Tom Morello: Paul Ryan Is A 'Jackass' 1k
+    *   Rolling Stones To Tour For 50th Anniversary 291
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 15, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Moviefone
 *   Tech
     
-    *   Edge-Of-Space Leap Attracts Record Number Of YouTube Viewers 93
-    *   We Have So Many Questions About The iPad Mini 50
-    *   WATCH: SNL Mocks iPhone 5 Complaints 95
-    *   The 9 Most Popular Viral Videos Of The Week
-    *   The 13 Most Awkward Pets Of Facebook 21
+    *   WATCH: Stratospheric Skydiver Spins Out Of Control 665
+    *   Edge-Of-Space Leap Attracts Record Number Of YouTube Viewers 214
+    *   WATCH: Stunning Google Doodle Celebrates Legendary Cartoonist 76
+    *   WATCH: SNL Mocks iPhone 5 Complaints 235
+    *   We Have So Many Questions About The iPad Mini 97
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 15, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Joystiq
 *   Media
     
-    *   WATCH: Melissa Harris-Perry Calls Out Clarence Thomas 3k
-    *   'Million Muppet March' Planned To Protest Romney Over PBS 7k
-    *   IT'S BACK 116
-    *   WATCH: Stephen Colbert Meets The Press 124
-    *   PHOTOS: How Newspapers Covered Biden-Ryan Showdown 860
+    *   Obama, Romney Campaigns Raise Objections About Candy Crowley 8k
+    *   MSNBC's Felix Baumgartner Fail 332
+    *   Fox News Doctor Makes Unbelievable Claim About Joe Biden 3k
+    *   Romney Cancels On 'The View' 8k
+    *   Secret Presidential Debate Contract Released 2k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 15, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Moviefone
 *   World
     
-    *   Navy Sub And Cruiser Crash 831
-    *   Most Insane Photos Of The Week 12
-    *   24 Tons Of Drugs Up In Smoke 155
-    *   UAE Sends Medics To Evacuate Girl Shot By Taliban 278
-    *   Turkey Bars Syrian Planes From Air Space 92
+    *   Teen Shot By Taliban Airlifted To UK 1k
+    *   Mexico Says The Drug War Is Working, But Is It? 1k
+    *   50 Years Later, New Secrets Of The Cuban Missile Crisis Emerge 311
+    *   Navy Sub And Cruiser Crash 1k
+    *   Drunk Pilots Caused Plane Crash 52
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 15, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Religion
 *   Healthy Living
     
-    *   Eat Vegetarian, Live Longer? 569
-    *   The Best Natural Sources Of Vitamin D 63
-    *   You'll Never Guess What Joe Biden Ate Pre-Debate 250
-    *   Tom Lost 100 Pounds: 'It Has Been The Greatest Accomplishment Of My Life'
-    *   'Just Thinking About The Gym Makes Me Tired': Exercise E-Cards That Really Get Us Laughing
+    *   The Healthiest Salad Greens 44
+    *   'Just Thinking About The Gym Makes Me Tired': Exercise E-Cards That Really Get Us Laughing 12
+    *   The Best And Worst Nut Butters 13
+    *   Kay Lost Almost 140 Pounds: 'I Feel Like I've Been Given A Second Chance' 14
+    *   What's _Your_ Power Breakfast? 49
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 15, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Religion
 *   Style
     
+    *   PHOTOS: Kim Kardashian Goes Commando, Exposes Rear In Sheer Skirt With Kanye West 939
+    *   Supermodel's Ad Campaign Sparks Outcry 142
+    *   PHOTOS: Katy Perry Turns Heads In Plunging Dress 425
     *   PHOTO: Miley Cyrus Tries A Surprisingly Seductive Look On Jay Leno 1k
-    *   PHOTOS: Katy Perry Turns Heads In Plunging Dress 272
-    *   PHOTOS: Lady Gaga and Kate Hudson Made 56
-    *   PHOTOS: See Ralph Lauren's All-American Style Evolution 20
-    *   PHOTOS: Ramona Explains Why This Color Keeps Her Romance Alive 44
+    *   PHOTOS: Lady Gaga and Kate Hudson Made 77
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 15, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Post 50
 *   Comedy
     
-    *   42 Animals Who Are Watching You 10
+    *   42 Animals Who Are Watching You 32
+    *   WATCH: He Must Not Realize What This Looks Like 97
+    *   The Most Unfortunate Politician Names Of All Time 88
     *   SNL Takes On VP Debate 1k
-    *   21 Punny Halloween Costume Ideas 16
-    *   The Most Unfortunate Politician Names Of All Time 76
-    *   WATCH: Arianna Appears On 'SNL' 266
+    *   LOOK: Where Spiders Hang Out
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 15, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   College
     *   Arts
 *   LIVE
-    *   Next France's Sharp Left Turn
-    *   Next Pretty Slick
-    *   Coming Up Office Politics
-    *   Coming Up No Red Cities
-    *   Coming Up No Escaping The TalibanGo to HuffPost Live
+    *   Next The Millennial Vote
+    *   Next United U.S. Elections
+    *   Coming Up Punishment Or Abuse?
+    *   Coming Up State Of Emergency
+    *   Coming Up Police The PoliceGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
@@ -257,6 +257,7 @@ October 15, 2012 The Internet Newspaper: News, Blogs, Video, Community Edition: 
     *   Parents
     *   Divorce
     *   Huff/Post 50
+    *   Marlo Thomas
     
     **Tech &. Science**
     
