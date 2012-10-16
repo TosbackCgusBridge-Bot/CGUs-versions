@@ -1,4 +1,22 @@
-Quick Links My Location: Choose Service Location
+Menu
+
+*   Quick Links
+    *   MyGCI
+    *   Find A Store
+    *   Get Support
+    *   Check My Email
+    *   View My Usage
+    *   Pay My Bill
+
+*   GCI Services
+    *   Wireless
+    *   Internet
+    *   Phone
+    *   Video
+    *   Packages
+    *   Business &. Enterprise
+
+Location Choose Service Location Choose LocationAnchorageFairbanksJuneau----AdakAkhiokAkiachakAkiakAkutanAlakanukAleknagikAllakaketAmblerAnaktuvuk PassAnchor PointAnchorageAndersonAngoonAniakAnvikArctic VillageAtkaAtmautluakAtqasukAuke BayBarrowBeaverBethelBettlesBig LakeBirch CreekBirdBrevig MissionBucklandCantwellCentralChalkyitsikChefornakChenega BayChevakChickenChignick LagoonChignick LakeChignikChignik BayChignik LagoonChignik LakeChitinaChuathbalukChugiakCircleCircle Hot SpringsClark's PointClearCoffman CoveCold BayColdfootCooper CenterCopper CenterCordovaCraigDeadhorseDeeringDelta JunctionDillinghamDiomedeDot LakeDouglasEagleEagle RiverEekEgegikEielson AFBEkwokElimEmmonakEstherFairbanksFalse PassFort GreelyFort YukonFt. WainwrightGalenaGambellGirdwoodGlennallenGolovinGoodnews BayGraylingGustavusHainesHealyHoly CrossHomerHoonahHooper BayHopeHoustonHusliaIgiugigIliamnaIndianJoint Base Elmendorf-RichardsonJuneauKachemakKakeKaktovikKalskagKaltagKasaanKasiglukKasilofKayaKenaiKetchikanKianaKing CoveKing SalmonKipnukKivalinaKlawockKobukKodiakKokhanokKoliganekKongiganakKotlikKotzebueKoyukKoyukukKwethlukKwigillingokLarsen BayLevelockLime VillageLower KalskagManakotakMarshallMcCarthyMcGrathMekoryukMentastaMetlakatlaMintoMountain VillageNaknekNanwalekNapakiakNapaskiakNelson LagoonNenanaNew StuyahokNewhalenNewtokNightmuteNikiskiNikolaiNikolskiNinilchikNomeNondaltonNoorvikNorth KenaiNorth PoleNorthwayNuiqsutNulatoNunam IquaNunapitchukOld HarborOuzinkiePalmerPedro BayPelicanPerryvillePetersburgPilot PointPilot StationPitkas PointPlatinumPoint HopePoint LayPort AlexanderPort AlsworthPort GrahamPort HeidenPort LionsPrudhoe BayQuinhagakRampartRubyRussian MissionSalchaSand PointSavoongaSaxmanScammon BaySelawikSeldoviaSewardShagelukShaktoolikShishmarefShungnakSitkaSkagwaySleetmuteSoldotnaSouth NaknekSt. GeorgeSt. Mary'sSt. MichaelSt. PaulStebbinsSterlingStevens VillageSuttonTalkeetnaTananaTatitlekTellerTenakee SpringsTetlinThorne BayTogiakTokToksook BayTrapper CreekTuluksakTuntutuliakTununakTwin HillsTyonekUnalakleetUnalaskaUpper KalskagValdezVenetieWainwrightWalesWasillaWhite MountainWhittierWillowWrangellYakutatOther My Location: Choose Service Location
 
 *   MyGCI
 *   Find A Store
@@ -7,7 +25,7 @@ Quick Links My Location: Choose Service Location
 *   View My Usage
 *   Pay My Bill
 
-GCI Connecting Alaskans. GCI Services
+GCI Connecting Alaskans.
 
 *   Wireless
 *   Internet
