@@ -33,7 +33,7 @@ Register
     *   Mechanics (48)
     *   Artists (8652)
     *   Designers (17348)
-    *   Publishers (12709)
+    *   Publishers (12710)
     *   Random Game
     *   Gone Cardboard
     
