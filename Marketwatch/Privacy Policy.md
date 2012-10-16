@@ -198,93 +198,91 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 15, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 16, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:04a
+/news/latest1.  8:06a
     
-    Citigroup Q3 net 15c. $1.06 excluding items
+    4 charts challenging resistance
     
-2.  8:03a
+2.  8:06a
     
-    Gold futures retreat in catch-up move to dollar
+    Five bad bosses to work for
     
-3.  8:01a
+3.  8:04a
     
-    BREAKING
+    Murphy Oil paying $2.50 special dividend
     
-    Fed was not aggressive enough at first: Dudley
+4.  8:04a
     
-4.  8:01a
+    Murphy Oil spinning off unit to shareholders
     
-    QE3 a needed recalibration of Fed policy: Dudley
+5.  8:04a
     
-5.  8:01a
+    Murphy Oil to break out refining unit
     
-    Fed wasn't aggressive enough at first: Dudley
+6.  8:04a
     
-6.  8:01a
-    
-    Fed won't be hasty to stop QE3: Dudley
+    Murphy Oil OK's $1 bln share buyback
     
 7.  8:01a
     
-    Outlook for U.S. economy still cloudy: Dudley
+    Johnson &. Johnson up on sales momentum
     
-8.  7:56a
+8.  8:01a
     
-    Coming up: U.S. retail sales for September
+    Labor market is weaker than it looks
     
-9.  7:54a
+9.  8:01a
     
-    Radio update: Softbank to acquire stake in Sprint
+    Updates, advisories and surprises
     
-10.  7:52a
+10.  8:01a
     
-    Clearwire rallies 10% on Sprint-Softbank deal
+    Radio update: Investors study more earnings
     
-11.  7:44a
+11.  8:00a
     
-    Consol sees surprise Q3 loss amid mine idlings
+    Corn, soybean harvests over 70% complete: USDA
     
-12.  7:44a
+12.  8:00a
     
-    Four reasons why Softbank is buying Sprint
+    How the election outcome may affect bonds
     
-13.  7:43a
+13.  8:00a
     
-    Vanda: progress with 24-hour-disorder drug
+    Coming up: Consumer price inflation for September
     
-14.  7:42a
+14.  7:58a
     
-    Entergy sees profit shortfall due to costs, taxes
+    Goldman Sachs swings to profit, boosts dividend
     
-15.  7:41a
+15.  7:54a
     
-    Qatar views Glencore-Xstrata deal favorably
+    Omnicom Group profit and margin rise
     
-16.  7:40a
+16.  7:53a
     
-    EPL Oil &. Gas to sell $250M of Notes to fund deals
+    Domino's profit rises, foreign sales rise 5%
     
-17.  7:40a
+17.  7:52a
     
-    Goldman cuts 12-month copper outlook to $8,000/ton
+    Johnson &. Johnson Q3 net $1.25 vs. $1.24
     
-18.  7:38a
+18.  7:51a
     
-    Qatar: Mulling investment in MS commodities unit
+    Coca-Cola profit rises 3.9% on lower costs
     
-19.  7:37a
+19.  7:50a
     
-    Pharmacyclics gets $50M milestone payment from J&J
+    Big earnings to watch Tuesday: Goldman, Coca-Cola
     
-20.  7:20a
+20.  7:50a
     
-    Europe stocks rise after Chinese data. banks up
+    Coca-Cola profit up 4%
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,328.85 +2.46 +0.02% nasdaq /quotes/zigman/123127 3,044.11 -5.30 -0.17% s&p 500 /quotes/zigman/3870025 1,428.59 -4.25 -0.30% Kiosk
+dow /quotes/zigman/627449 13,424.23 +95.38 +0.72% nasdaq /quotes/zigman/123127 3,064.18 +20.07 +0.66% s&p 500 /quotes/zigman/3870025 1,440.13 +11.54 +0.81% Kiosk
 
 *   1339754400000 1340010000000
     
@@ -318,17 +316,6 @@ dow /quotes/zigman/627449 13,328.85 +2.46 +0.02% nasdaq /quotes/zigman/123127 3,
     .
     
     230657
-*   1341573300000 1341792900000
-    
-    Economy
-    
-    Another week of surprises Â For the second week in a row, the government reports jobs data too good to be true, consumer sentiment sees a rebound and Spain's factory output rises. /conga/kiosk/economy-politics.html 230517
-*   1343988600000 1344810900000
-    
-    U.S. Week Ahead
-    
-    Â  Financials, techs report  
-    MarketWatch'sÂ  Polya Lesova explains what investors can expect when some of the biggest U.S. companies report quarterly earnings. /conga/kiosk/video2.html 230670
 
 MarketWatch.com
 
