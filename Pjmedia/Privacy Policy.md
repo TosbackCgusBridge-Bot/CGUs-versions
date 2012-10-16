@@ -115,24 +115,24 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Now Up on the PJ Media Homepage
-*   Obama Loves Him Some Obama — Caption Contest
-*   Real Guts: Malala – Girl Shot in Head by Taliban – in Video Interview
+*   EPA Chief Questioned on Impartiality of Board to Review Agency’s Fracking Study
+*   Obama Claims to have Created More Jobs than Reagan. Let’s Look at Some Facts.
+*   Obama Hides Behind Yet Another Woman on Benghazi Security
 
 More  
 
+*   TUESDAY NEW RELEASES: A Fine Frenzy in the Shadow of Mumford
+*   6 Green Lies Threatening to Starve You
 *   How Tom Morello Ruined the Kennedy Center’s Woody Guthrie Tribute Concert
-*   Islam Vs Google
-*   7 Lies Women Need to Stop Telling Themselves
 
 More
 
-*   Gaming the Presidential Debate
-*   No, Hillary. Benghazi Will Not Go Away
-*   The Obama Breaking Point
+*   The Universe Is Not Only Stranger Than We Imagine...
+*   NBC Network Not Good with Counting, Basic Science
+*   'He Doesn't Need People'
 
-More   GAMING THE PRESIDENTIAL DEBATE. SCIENCE: How the Discovery of Penicillin Reshaped Modern Sexuality. “Regression analysis demonstrated that most measures of sexual behavior significantly increased immediately following the collapse of syphilis and most measures were significantly associated with the syphilis death rate. Together, the findings supported the notion that the discovery of penicillin decreased the cost of syphilis and thereby played an important role in shaping modern sexuality.” ... More Advertisement
+More   ARE YOU A DOWNSIDER? “Downsiders are not paranoid. Downsiders simply refuse to be bewildered, helpless or clueless. Downsiders are not excited about the downside, they just want to be cleareyed if such things happen.” OBAMA GETS READY TO RUMBLE: ALWAYS THE LAST TO KNOW: Former Aide on Obama: ‘Stunning that He’s in Politics, Because He Really Doesn’t Like People.’ More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
-Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb1
+Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb2
