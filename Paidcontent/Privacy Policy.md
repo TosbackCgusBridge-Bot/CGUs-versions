@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Amplification &. the changing role of media
+Switching consumers to digital books is hard enough — get ready for magazines
 
 Stay on top of tech news in your inbox
 
