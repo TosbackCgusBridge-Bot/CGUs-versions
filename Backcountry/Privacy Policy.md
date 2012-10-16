@@ -532,8 +532,6 @@ With more variety than wolf tees at a truck stop &. prices that would make your 
 
 Find out for yourself
 
-*   TAKE20
-
 Clothing &. Outdoor Gear Men's Clothing
 
 *   Men's Jackets
@@ -781,7 +779,7 @@ Other Liberty Media Companies: QVC - MotoSport
 
 *   **SiteId:** 1
 *   **SiteCode:** bcs
-*   **Profile:** 617917574
+*   **Profile:** 619088664
 *   **User Name:**
 *   **Navigation Last Category:**
 *   **Transient:** true
@@ -790,13 +788,13 @@ Other Liberty Media Companies: QVC - MotoSport
 *   **PriceList:** priceList:listPrices
 *   **SalePriceList:** priceList:salePrices
 *   **Is User Registered?** false
-*   **Session:** DEF21437981CEE42944F5E353E34E311.atgprod2-prod\_public\_8080
+*   **Session:** 1DBC9D26B91112DD35A83369EC516133.atgprod5-prod\_public\_8180
 *   **protocol:** http
 *   **port:** 80
 *   **storeServerUrl:** http:///Store/home.jsp
 *   **secureStoreServerUrl:** http://www.backcountry.com
 *   **remote ip:** (null)
-*   **x-forwarded-for:** 184.106.117.173, 69.22.154.211, 10.42.6.8
+*   **x-forwarded-for:** 184.106.117.173, 198.63.196.200, 23.61.195.171, 10.42.6.7
 *   Cart Empty  
     
 *   Template parameters
