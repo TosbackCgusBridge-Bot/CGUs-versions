@@ -1,34 +1,10 @@
-Play Games at Miniclip.com New games!
-
-Hit the homepage  
-Great new games out now
-
-Plague Inc. Android infection alert!
-
-Plague Inc.  
-Now on Android!
-
-Calling Pool Ninjas!
-
-New table in shop  
-Get your stealth on
-
-Cinderella Midnight Dash!
-
-Win the Awards  
-Go beat the clock
-
-Obama Game Martian Invasion!
-
-Obama - Video Game  
-President vs Aliens
-
-NeoMech New iPhone game!
-
-Try NeoMech online  
-Super shooting robots
-
-My Miniclip Credits
+Play Games at Miniclip.com New games! Hit the homepage  
+Great new games out now NeoMech New iPhone game! Try NeoMech online  
+Super shooting robots Plague Inc. Android infection alert! Plague Inc.  
+Now on Android! Calling Pool Ninjas! New table in shop  
+Get your stealth on Cinderella Midnight Dash! Win the Awards  
+Go beat the clock Obama Game Martian Invasion! Obama - Video Game  
+President vs Aliens My Miniclip Credits
 
 *   Signup
 *   Login
@@ -162,9 +138,9 @@ More Cool Stuff
 *   Free Website Games
 *   Sketch Star
 
+*   Miniclip Blog
 *   Help
 *   Internet Safety
-*   Forum
 *   Newsletter
 
 Connect With Miniclip
@@ -247,6 +223,7 @@ Click Here! Click Here!
 *   About Miniclip
 *   Company Information
 *   Careers
+*   Miniclip Blog
 *   Help
 
 *   Follow Miniclip
