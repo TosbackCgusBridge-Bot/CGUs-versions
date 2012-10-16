@@ -212,105 +212,105 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Dem warns FTC against suing GooglePoll: Romney surges ahead of Obama in the dozen swing statesAdvertisers launch $1 million campaign to combat privacy concernsPoll finds Akin with slight lead over McCaskillRyan fires up the faithful in Wisconsin homecoming
+Professors donate to Obama, opine about election in news articlesDem warns FTC against suing GoogleAdvertisers launch $1 million campaign to combat privacy concernsPoll: Romney surges ahead of Obama in the dozen swing statesReid vows fresh effort to pass stalled cybersecurity bill in November
 
 Emailed
 
-Rosie Perez takes aim at Romney in Web video satire Poll: Romney surges ahead of Obama in the dozen swing statesGOP demands Obama plan on debt ceilingUS ambassador: Internet fee proposal gaining momentumObama faces dilemma over gas prices as presidential campaign hits homestretch
+Bubba and the Boss go BuckeyeRosie Perez takes aim at Romney in Web video satire Poll: Romney surges ahead of Obama in the dozen swing statesProfessors donate to Obama, opine about election in news articlesSupreme Court allows early voting in Ohio
 
 Discussed
 
-Romney surrogate Sununu calls Obama 'lazy and detached'Obama shifts on birth control mandate after heavy criticismUS ambassador: Internet fee proposal gaining momentumMore bad news for Mitt Romney Geithner defends Obama as deficit again tops $1 trillion
+Cutter: Romney, Ryan 'entire reason' Libya attack is political issueActor Bill Murray to CNBC: 'I think we ought to be personally responsible'Romney surrogate Sununu calls Obama 'lazy and detached'Sharp barbs but no clear winner in testy Biden-Ryan vice presidential debateProfessors donate to Obama, opine about election in news articles
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Michelle Obama: 'I voted for my husband'
+*   DAY'S END ROUNDUP
+*   Rep. Jackson Jr. says he's 'not well'
 *   DOJ seeks dismissal of House GOP’s lawsuit over Fast and Furious
-*   Perot backs Romney, says US ‘can’t afford’ another Obama term
 
   
 More Briefing Room » Congress Blog
 
-*   Congress must help more foreign-born STEM graduates stay in US
-*   Let's call a terrorist attack a terrorist attack
-*   Syria's children: A damaged generation
+*   Arlen Specter: A tenacious public servant
+*   Arlen Specter: A valued mentor, advocate and constituent
+*   Agreeing on the debt
 
   
 More Congress Blog » Pundits Blog
 
+*   Bubba and the Boss go Buckeye
+*   Decadence of victimhood
 *   Romney, Obama and the mendacity of hope
-*   Black America, the new purveyors of ugly racism
-*   Joe Biden electrifies the Democratic base
 
   
 More Pundits Blog » Twitter Room
 
+*   NBA’s Spencer Hawes endorses Romney
+*   Rep. West singles out Stacey Dash as example of courage
 *   Fake Jake Gyllenhaal tweets Romney endorsement
-*   Axelrod: ‘Enough already about moderators’
-*   First lady votes for Obama via absentee ballot
 
   
 More Twitter Room » Hillicon Valley
 
-*   U.S., Israel ink telecom trade agreement
-*   GOP senator backs Reid's push to revive cybersecurity legislation
-*   Advertisers launch $1 million campaign to combat privacy concerns
+*   Internet providers set to crack down on illegal file-sharing
+*   Coburn blasts FCC's phone subsidy as 'massive entitlement'
+*   EU regulators call on Google to modify privacy policy
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Enviro groups intensify presence in Arizona Senate race, other campaigns
-*   Koch Industries defends election letter to employees as 'not unusual'
-*   Poll: Belief in global warming rising in both parties
+*   Obama parries Romney on latest green bankruptcy
+*   Romney pounces as stimulus-backed auto battery-maker goes bankrupt
+*   Poll finds voters favor Obama energy policies over Romney platform
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Warren, Brown battle to the end
-*   Professors donate to Obama, opine about election in the news
-*   Rep, Hurt pushes away from GOP in fiery debate for Va. seat
+*   Gallup's daily poll finds 50 percent of likely voters prefer Romney
+*   Crossroads GPS launches effort in Maine Senate race
+*   Debate recap: Candidates spar in five races
 
   
 More Ballot Box » On The Money
 
-*   Toomey: White House tax plan would hurt manufacturing
-*   New York lawmakers want 9/11 victim funds exempt from fiscal cliff
-*   GOP demands Obama plan on debt ceiling
+*   Romney adviser throws cold water on big bank breakups
+*   Homebuilder confidence hits 6-year high
+*   Retirees to get 1.7 percent cost-of-living hike in their Social Security benefits
 
   
 More On The Money » Healthwatch
 
-*   Poll: Female voters give Obama edge on contraception, abortion
-*   Poll: Obama's lead swells on Medicare
-*   Study: No link between HPV vaccine, sexual activity
+*   Analysis: Medicare plans saw quality increase
+*   Waxman to introduce bill to curb antibiotic use in livestock
+*   Planned Parenthood targets Romney with swing-state radio ad
 
   
 More Healthwatch » Floor Action
 
-*   Rep. Grimm vows to block higher NY bridge toll with legislation
-*   GOP lawmaker proposes less frequent reports on stimulus, TARP
-*   Schumer calls on Social Security to crack down on identity theft
+*   Akin hammers McCaskill for cheering reduced emissions during recession
+*   Coburn calls federal student loan program 'welfare for the wealthy'
+*   Republicans block Reps. Connolly, Carnahan in latest pro forma
 
   
 More Floor Action » Transportation
 
+*   Akin circulates video of McCaskill saying emissions reduction due to economy is 'good news'
+*   Heritage Foundation highlights Amtrak concession losses in federal spending report
 *   Aviation group wants candidates to focus on private jets in debate
-*   DC Metro preparing SmarTrip cards for Obama or Romney's inauguration
-*   Mediator cites 'progress' in port labor negotiations
 
   
 More Transportation » DEFCON Hill
 
-*   Report: Administration weighing military strike against Libya attackers
-*   Report: Weapons sent to Syrian rebels falling into terrorists' hands
-*   US opens door to military ties with Burma
+*   Report: Two Americans killed in latest Afghan 'insider attack'
+*   Sen. Graham demands answers on prior attacks on US Consulate in Libya
+*   Appeals court tosses conviction of former driver for bin Laden
 
   
 More DEFCON Hill » Global Affairs
 
-*   Tuesday's global agenda: Presidential candidates face off
-*   US warns Palestinians that statehood bid would harm peace talks with Israel
-*   EU cites 'serious and deepening concerns' for decision to deepen sanctions on Iran
+*   US dubious of Cuba's intention to repeal of travel restrictions
+*   Conservative group calls for Clinton's head after Biden's remarks on Libya
+*   Republicans unmoved by Clinton's contrition on Libya
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS Lanny Davis Debate advice for Obama A.B. Stoddard Democrats' happy sigh More Columnists »
