@@ -324,21 +324,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-Arctic Winds Blowing Trouble for US
+Excellent Idea of the Day: Cheap Classroom Polls
 
-Shuttle Endeavour in its Former Glory: DNews Nugget
+Planet Found in Quadruple Star System
 
-The Higgs Boson Can Make Beautiful Music
+Seven Masterpieces Stolen in Dutch Museum Heist
 
-Shuttle Endeavour Finally Rolls Home (UPDATED)
+Greenest Street In America Eats Smog
 
-Pandas on the Plate in Prehistory
+Alaskan Women Are Tough: Gotta-See Video
 
-Why 72 Is the New 30
+Electric Cadillac Coming in 2013: DNews Nugget
 
-Brains on Prayer Make God Real: Gotta-See Video
+Voters Swayed by Football, Sharks : DNews Nugget
 
-Curiosity Takes Second Mars Scoop for Dust Bath
+Laser-Guided Gas Mask Points the Way Out
 
   facebook share0 Tweet Privacy Policy  
 
@@ -545,32 +545,41 @@ Email: privacy\_policy@discovery.com
 Last Updated On: Wednesday, August 19, 2010
 
 facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 16,  
-7:00 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 16,  
-7:30 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 16,  
-8:00 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 16,  
-8:30 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 16,  
-9:00 am  
+4:00 pm  
 60 min(s)  
-**The FBI Files**  
-_Inside the Bureau_  
- When violent criminals strike, the FBI employs every creative res  
-**More Listings »**   Shop Discovery Store      
+**Alaska: Ice Cold Killers**  
+_Hunting Humans_  
+ Robert Hansen was a mild-mannered family man with a passion for h  
+Oct 16,  
+5:00 pm  
+60 min(s)  
+**Alaska: Ice Cold Killers**  
+_Frozen Terror_  
+ Environmentalist Louis Hastings decides he must blow up the Alask  
+Oct 16,  
+6:00 pm  
+60 min(s)  
+**Alaska: The Last Frontier**  
+_Snow, Cold and Darkness_  
+ The early winter storms have left the entire homestead unprepared  
+Oct 16,  
+7:00 pm  
+60 min(s)  
+**Alaska: The Last Frontier (Season 2)**  
+_Dead of Winter_  
+ The extended Kilcher family struggle to get through a record-brea  
+Oct 16,  
+8:00 pm  
+60 min(s)  
+**Alaska: The Last Frontier (Season 2)**  
+_Spring Has Sprung_  
+ Spring finally arrives on the homestead. Eivin mills lumber, buil  
+**More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
+$47.95  
+  **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
+$12.95   **Discovering Ardi DVD**  
+$19.95   **Discovery Channel Polymer Chemistry Set**  
+$19.95        
 
 our sites
 
