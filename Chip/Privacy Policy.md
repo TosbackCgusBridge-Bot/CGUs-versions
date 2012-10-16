@@ -258,6 +258,9 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 *   Newsletter
 *   CHIP-Kiosk
 
+Top News des Tages **iPad mini:**  
+Preise und weitere Details geleakt
+
 *   Download-Ticker
 *   Best of Downloads
 
@@ -265,25 +268,25 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 Rocks and Diamonds Portable 3.3.0.1 Rev.2 Englisch Freeware
-*   2 PortableApps Platform 11.2 Deutsch Freeware
-*   3 IObit Malware Fighter 1.6 Deutsch Freeware
-*   4 Adobe Reader 11.0 Deutsch Freeware
-*   5 Adobe Reader für Mac 11.0 Deutsch Freeware
+*   1 Facebook Privacy Watcher für Firefox 0.6.10 Beta Englisch Freeware
+*   2 Copy ShortURL für Firefox 1.5 Englisch Freeware
+*   3 AutoPager für Firefox 0.7.2.0 Englisch Freeware
+*   4 Reader for PC 2.0 Deutsch Freeware
+*   5 Network Meter 8.3 Englisch Freeware
 
 ...mehr
 
 **RSS-Feed** Download-Tipps der Redaktion
 
 *   1 Spiele-Vollversionen: Kostenlos zum Download
-*   2 Top 33: Die besten Herbst-Downloads
-*   3 Top 100: Die beliebtesten Downloads auf Deutsch
-*   4 Downloads des Verderbens: Vorsicht bei diesen Tools
-*   5 Tools, die kaum einer kennt: 33 geniale Gratis-Downloads
+*   2 Top 100: Die beliebtesten Downloads auf Deutsch
+*   3 Die besten kostenlosen Horror-Games
+*   4 Top 33: Die besten Herbst-Downloads
+*   5 Downloads des Verderbens: Vorsicht bei diesen Tools
 
 ...mehr
 
-CHIP Videos Windows 8 RT - Lenovo IdeaPad Yoga 11 Hackademy #1 - iOS-Attacke iPhone 5 gegen iPhone 4S  
+CHIP Videos Acer Iconia A700 im Test Windows 8 RT - Lenovo IdeaPad Yoga 11 Hackademy #1 - iOS-Attacke  
 
 Alle Videos bei CHIP Online
 
@@ -295,11 +298,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Test: Sony Vaio SVT-1311W1E/S (Notebook)
+*   Test: Samsung Galaxy Note 2 (Handy)
 *   Die besten kostenlosen Horror-Games
 *   Alt gegen Neu: Die Vorteile der Handy-Vorgänger One X, Note und Co.
 *   Praxis-Test: Lenovo IdeaPad Yoga 13 (Notebook)
-*   Test: LG Electronics 42LM670S (42-Zoll-LCD-TV)
-*   Test: Asus Zenbook UX32VD-R4002V (Notebook)
 
 ...mehr
 
@@ -312,7 +315,7 @@ Sponsored Links
 **RSS-Feed** Die beliebtesten Produkte
 
 *   Samsung Galaxy S3 GT-I9300 16GB  
-    ab 460,00 €
+    ab 465,00 €
     
     *   Test
 *   Samsung Galaxy Note 2 N7100  
@@ -341,10 +344,10 @@ Alle CHIP Online Feeds im Überblick
 Meistgelesene Themen
 
 *   Samsung SSDs gewinnen und alten Rechner neu lieben lernen
-*   Warum nur für Studenten?!
-*   Facebook knacken leicht gemacht...
 *   Tastatur umstellen Englisch/Deutsch
-*   Adamski TV funzt trotz aller Bemühungen eben nicht!!!!
+*   Facebook knacken leicht gemacht...
+*   POP3, IMAP, SMTP Einstellungen
+*   iPhone 5 bei Preis24.de gibt es n Hacken ?!
 
 ...mehr
 
@@ -378,9 +381,9 @@ Diesen Feed jetzt abonnieren
 
 Alle CHIP Online Feeds im Überblick
 
-*   1 iPhone 5 Praxis-Test  
+*   1 iPhone 5 gegen Galaxy S3  
     
-*   2 iPhone 5 gegen Galaxy S3  
+*   2 iPhone 5 Praxis-Test  
     
 *   3 Samsung Galaxy Note 2 - Praxis-Test  
     
