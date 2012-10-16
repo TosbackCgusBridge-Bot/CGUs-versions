@@ -288,19 +288,19 @@ On guardian.co.uk
 Last 24 hours
 
 1.  1.  **Sport:** Felix Baumgartner makes record-breaking skydive from space – video
-2.  2\. **Sport:** Felix Baumgartner's skydive spin as seen from camera on spacesuit - video
-3.  3\. **News:** Rebekah Brooks's News International severance deal worth 'about £7m'
-4.  4\. **Fashion:** Do you have any tattoos you regret?
-5.  5\. **Sport:** Felix Baumgartner skydive: the key questions answered
+2.  2\. **Comment:** What is people's problem with yummy mummies? | Rowan Davies
+3.  3\. **News:** Gary McKinnon extradition to US blocked by British government – live
+4.  4\. **Sport:** Felix Baumgartner's skydive spin as seen from camera on spacesuit - video
+5.  5\. **Fashion:** Brad Pitt's Chanel No 5 ad: the smell of disaster
 6.  More most viewed
 
 Last 24 hours
 
-1.  **News:** Gary McKinnon extradition statement due in Commons
-2.  **News:** Rebekah Brooks's News International severance deal worth 'about £7m'
-3.  **Business:** Eurozone crisis live: Spain hopes IMF would ease bailout pain
-4.  **TV &. radio:** The week in TV: Fresh Meat, Hunderby, Modern Family and Nurse Jackie - video
-5.  **Film:** Golden Globes: Tina Fey and Amy Poehler replace Ricky Gervais as hosts
+1.  **Comment:** A new generation of Auschwitz tattoos – Sounds Jewish podcast
+2.  **Sport:** Felix Baumgartner's greatest ever jumps - video
+3.  **News:** Gary McKinnon extradition to US blocked by British government – live
+4.  **Fashion:** Brad Pitt chosen as the face of Chanel No 5 - video
+5.  **TV &. radio:** The week in TV: Fresh Meat, Hunderby, Modern Family and Nurse Jackie - video
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -308,21 +308,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Science on Stage by Kirsten Shepherd-Barr - review
-2.  2\. Get ready for 3D printing | Spencer Thompson
-3.  3\. Goodbye to localism as government tightens grip on local councils
-4.  4\. Attorney general's Hillsborough statement: Politics live blog
-5.  5\. Eurozone crisis live: Spain hopes IMF would ease bailout pain
+1.  1.  World Cup 2014 qualifiers – live!
+2.  2\. US presidential debate: Obama and Romney set for round two – live
+3.  3\. Hilary Mantel wins Man Booker prize for second time
+4.  4\. Extract: Bring Up the Bodies by Hilary Mantel
+5.  5\. Benteke and Kompany break Scotland resistance and push Levein to brink
 6.  All today's stories
 
 On the Guardian today
 
 1.  Sport Felix Baumgartner makes record-breaking skydive from space – video
 2.  Sport Felix Baumgartner's skydive spin as seen from camera on spacesuit - video
-3.  Life and style Mapping the body: the temple
-4.  Media Felix Baumgartner jump: record 8m watch live on YouTube
-5.  Sport Felix Baumgartner skydive: the key questions answered
-6.  Sport Felix Baumgartner discusses his skydive from space - video
+3.  Football Poland v England – live!
+4.  World news Syria crisis: US concerned weapons reaching jihadis - Tuesday 16 October 2012
+5.  World news Gary McKinnon extradition to US blocked by British government – live
+6.  Football World Cup 2014 qualifiers – as it happened!
 
 *   License/buy our content
 |*   Privacy policy
