@@ -82,16 +82,15 @@ A NOTE FROM STEPHANIE LINK
     *   Chairman's Club
 
 *   HOT TOPICS:
-*   TheStreet Ratings' #1 Stock
-*   Cyber Security Webinar
-*   FDA Panels
-*   Cramer's Top 10
-*   Citigroup Earnings
-*   Analysts' Actions
-*   Kass
-*   Hep C
+*   Cramer's Eight-Point Plan
+*   Second Presidential Debate
+*   Romney Tax Plan
+*   NPS Pharma Blog
+*   Vikram Pandit Resigns
+*   New Mac Mini
+*   $20 Bike
 
-pjava02.dc.thestreet.com Privacy Policy
+pjava06.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -246,7 +245,7 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,424.23 95.38 0.72% NASDAQ 3,064.18 20.07 0.66% S&P 500 1,440.13 11.54 0.81% US 10 Yr 1.663% +0.000 Brokerage Partners Most Commented
+DOW 13,551.78 127.55 0.95% NASDAQ 3,101.17 36.99 1.21% S&P 500 1,454.92 14.79 1.03% US 10 Yr 1.720% +0.057 Brokerage Partners Most Commented
 
 *   Microsoft Will Lose a War With Apple. So Will Google
 *   10 Worst Cars of All Time
