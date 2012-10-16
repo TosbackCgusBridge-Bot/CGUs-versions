@@ -40,32 +40,32 @@ WINDOWS CATEGORIES:
 *   Undelete Plus \[SOF...
 7-DAY TOP DOWNLOAD # Program Adguard Web Filter  
 5.4.425.2526  
-122,166 downloads MSN Password  
+131,546 downloads MSN Password  
 Recovery  
 1.0.115.2012  
-121,538 downloads Null Logics Windows  
+130,907 downloads Null Logics Windows  
 Service Commander  
 1.0.600.2009  
-81,748 downloads Nokia PC Suite  
+91,680 downloads Nokia PC Suite  
 7.1.180.94  
-50,849 downloads Samsung PC Studio  
+55,898 downloads Samsung PC Studio  
 7.2.24.9  
-37,734 downloads Microsoft Office  
+41,643 downloads Microsoft Office  
 2013 15.0.4128.1014  
 Preview / 2010  
 14.0.6023.1000  
 Service Pack 1  
-36,164 downloads Nero 9 Free  
+39,812 downloads Nero 9 Free  
 9.4.12.3d  
-32,727 downloads Adobe Flash Player  
+35,982 downloads LibreOffice 3.6.2 /  
+3.6.3 RC 1  
+33,586 downloads Adobe Flash Player  
 11.4.402.287 /  
 11.5.500.90 Beta 3  
-30,328 downloads LibreOffice 3.6.2 /  
-3.6.3 RC 1  
-28,475 downloads Internet Download  
+33,540 downloads Internet Download  
 Manager 6.12 Build  
 22  
-26,556 downloads Home >. Privacy policy  
+29,065 downloads Home >. Privacy policy  
 Softpedia privacy policy  
 Written in accordance with the provisions of Law 677/2001, regarding individual protection about collecting and free circulation of personal data.  
   
