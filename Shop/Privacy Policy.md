@@ -450,5 +450,7 @@ Social
 *   Flickr
 *   Twitter
 *   Pinterest
+*   Tubmlr
+*   Instagram
 
 ©2012 Pacific Sunwear of California Inc. All rights reserved.
