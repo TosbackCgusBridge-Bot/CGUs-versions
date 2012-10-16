@@ -10,26 +10,26 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
     *   Tools
     *   Media
     *   Enterprise
-    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning With Its New Music App, Microsoft Pulled Off Something Even Apple Couldn't Do The Payout Given To Rupert Murdoch's Disgraced Right Hand Woman Was Much Bigger Than Originally Thought A Venture Capitalist Made $40 Million On Workday After His Firm Turned It Down Felix Baumgartner's Helmet Camera Shows Him Going Into An Uncontrolled Spin
+    *   ScienceDid Marissa Mayer Just Make A Horrible Mistake? Several Ex-Googlers Think So Did Marissa Mayer Just Make A Horrible Mistake? Several Ex-Googlers Think So With Its New Music App, Microsoft Pulled Off Something Even Apple Couldn't Do We're Giving Away A Ticket To IGNITION! A Venture Capitalist Made $40 Million On Workday After His Firm Turned It Down Felix Baumgartner's Helmet Camera Shows Him Going Into An Uncontrolled Spin
 *   Finance
     *   Clusterstock
     *   Your Money
-    *   Broker CenterMore Proof That Bush, Paulson, Geithner, Bernanke, And Obama NAILED It In Dealing With The Financial Crisis More Proof That Bush, Paulson, Geithner, Bernanke, And Obama NAILED It In Dealing With The Financial Crisis That Trusty Brokerage Firm Is Charging Way More Than It Should More Proof That Bush, Paulson, Geithner, Bernanke, And Obama NAILED It In Dealing With The Financial Crisis
-*   Markets In The Last Few Days, There's Been A Positive Shift In How People Are Talking About China
+    *   Broker CenterBARTIROMO: I Think President Obama's Bashing Contributed To Vikram Pandit Quitting BARTIROMO: I Think President Obama's Bashing Contributed To Vikram Pandit Quitting Why The Rich Keep Getting Richer BARTIROMO: I Think President Obama's Bashing Contributed To Vikram Pandit Quitting
+*   Markets STOCKS SURGE: Here's What You Need To Know
 *   Politics
     *   Politics
     *   Defense
-    *   Law &. OrderRand Paul Is Launching A New Ad Campaign To Help Todd Akin Rand Paul Is Launching A New Ad Campaign To Help Todd Akin The Navy's New BAMS Drone Sees Everything That's Happening In The Persian Gulf \[Presentation\] These Are The Most Disturbing Calls 9-1-1 Dispatchers Have Ever Gotten
+    *   Law &. OrderROMNEY TAKES BIGGEST LEAD YET IN NEW GALLUP POLL ROMNEY TAKES BIGGEST LEAD YET IN NEW GALLUP POLL The First 'Fast And Furious' Sentencing Shows Just How Backward The Operation Was FORMER PRISONER: My Only Choice Was To Join The Aryan Brotherhood
 *   Strategy
     *   Strategy
-    *   Careers'Inflection Points' Are Rare Moments That Can Completely Change Your Life 'Inflection Points' Are Rare Moments That Can Completely Change Your Life 7 Ways Hiring Is Like Competing In An Ironman
-*   Entertainment The World's Most Powerful TV Shows Of The Past 25 Years
-*   Advertising Here's Everything We Know About IFA, The iPhone Tracking Technology In Apple's iOS 6
-*   Retail Former American Apparel Worker Dishes On Recruiting Hot People And Partying On The Job
-*   Sports A Seahawks Player Taunted Tom Brady With This Photo After His Collapse In Seattle
+    *   Careers'The Icarus Paradox' Explains Why So Many CEOs Fail 'The Icarus Paradox' Explains Why So Many CEOs Fail 8 Things You Should Never Say To Your Interviewer
+*   Entertainment Inside The $32 Million Conservatorship That Controls Britney Spears' Money
+*   Advertising These Motorcycles Are Made Out Of Humans And Body Paint
+*   Retail Why Abercrombie Is Getting Creamed By Its Two Biggest Rivals
+*   Sports The Philadelphia Eagles Fired A Coach Who Had Nothing To Do With Their Real Problems
 *   Life
     *   The Life
-    *   TransportationThe 10 Best College Towns In America The 10 Best College Towns In America Nissan Gave The Pathfinder A Major Makeover For 2013
+    *   TransportationThe 50 Most Expensive Boarding Schools In America The 50 Most Expensive Boarding Schools In America TEST DRIVE: The 2013 Pathfinder Is Nothing Like The SUV You Once Knew
 *   More
     *   Latest
     *   Video
@@ -230,34 +230,34 @@ More:*   SAI Select (sample)
 *   Careers Select (sample)
 *   Military Select (sample)
 
-Advertisement Your Money NASDAQ Composite 3,064 +20.07 (+0.659%) S&P 500 1,440 +11.54 (+0.808%) NYSE Composite 8,293 +0 (+0%) Sponsored By
+Advertisement Your Money NASDAQ Composite 3,102 +38.25 (+1.248%) S&P 500 1,455 +14.69 (+1.02%) NYSE Composite 8,387 +93.1 (+1.123%) Sponsored By
 
 Ready To Invest? Find A Broker Here »
 
-The Future Of Mobile
+Sheila Bair And Wall Street
 
-*   HTML5 vs. Apps: Why The Debate Matters, And Who Will Win
-*   Why Mobile Video Is Set To Explode
-*   THE STATE OF THE INTERNET \[SLIDE DECK\]
+*   Here's How The Obama Administration Screwed Up The Wall Street Bailout
+*   Sheila Bair Talks About Her Relationship With Tim Geithner And Who She Wanted For Treasury Secretary
+*   Sheila Bair Breaks Down What We Still Need To Do To Keep Wall Street From Hurting Main Street
 
 Most Read Read  Commented  Recommended 
 
-*   This Is One Of The Most Remarkable Survival Stories You Will Ever Read 894,070 Views
+*   This Is One Of The Most Remarkable Survival Stories You Will Ever Read 966,321 Views
     
-*   Here Are The Charts That Should Get Obama Reelected... 355,048 Views
+*   Here Are The Charts That Should Get Obama Reelected... 387,381 Views
     
-*   People Are Going Crazy For Morgan Freeman's New Obama Ad 208,045 Views
+*   FORGET GOLD: Here's Where Die-Hard Skeptics Are Storing Their Wealth 260,438 Views
     
-*   Awesome Pictures Of Jets Breaking The Sound Barrier 191,606 Views
+*   The 10 Best College Towns In America 235,884 Views
     
 
-*   Romney's Tax Plan Actually Makes A Lot Of Sense 182 Comments
+*   Romney's Tax Plan Actually Makes A Lot Of Sense 183 Comments
     
-*   Here Are The Charts That Should Get Obama Reelected... 173 Comments
+*   Here Are The Charts That Should Get Obama Reelected... 180 Comments
     
-*   People Are Going Crazy For Morgan Freeman's New Obama Ad 116 Comments
+*   People Are Going Crazy For Morgan Freeman's New Obama Ad 135 Comments
     
-*   Paul Ryan Busted For Staged Photo-Op At Soup Kitchen Where He Pretended To Wash Dishes 94 Comments
+*   Paul Ryan Busted For Staged Photo-Op At Soup Kitchen Where He Pretended To Wash Dishes 132 Comments
     
 
 Loading, please wait...
@@ -276,25 +276,25 @@ See All Jobs Startup Document Center Templates To Jump Start Your Business Busin
 By-Laws Financial  
 Model See All » Read Me Henry Blodget
 
-| Here Are The Charts That Should Get Obama Reelected... 173
+| Here Are The Charts That Should Get Obama Reelected... 180
 
 Romney keeps saying that Obama "can't run on his record." What's Romney smoking?
 
 Joe Weisenthal
 
-| Ben Bernanke's New Speech Is For Everyone Who Has Ever Talked About 'Currency Wars' 16
+| Two Reasons The Paul Ryan VP Pick Turned Out To Be Totally Ingenious 41
+
+Wolf Richter
+
+| Millions Of Spanish Are Fleeing Or Trying To Secede 5
+
+Stan Abrams
+
+| Romney's Favorite Line About China Just Became Obsolete 5
 
 Robert Reich, Contributor
 
-| Democrats Have A Great Strategy For The Fiscal Cliff 36
-
-The Economist
-
-| Argentina's Debt Picture Looks Increasingly Disastrous 9
-
-Bruce Krasting
-
-| Americans Under 55 Are Letting Themselves Get Screwed On Social Security 85
+| Here's What Obama Needs To Do To Win Tonight's Debate 16
 
 Advertisement Thanks to our partners
 
