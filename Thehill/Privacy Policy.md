@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Sherman regrets laying hands on BermanGeithner defends Obama as deficit again tops $1 trillionAtlanta Mayor Reed jokes that Biden offered Ryan internship after debateSen. Portman: Romney could ‘probably’ win election without OhioUS ambassador: Internet fee proposal gaining momentum
+Dem warns FTC against suing GooglePoll: Romney surges ahead of Obama in the dozen swing statesAdvertisers launch $1 million campaign to combat privacy concernsPoll finds Akin with slight lead over McCaskillRyan fires up the faithful in Wisconsin homecoming
 
 Emailed
 
-Timeline of Libya Consulate attack reveals administration contradictionsUS ambassador: Internet fee proposal gaining momentumRomney’s plan to dump Bernanke sparking anxiety on Wall StreetReid vows fresh effort to pass stalled cybersecurity bill in NovemberJoe Biden electrifies the Democratic base
+Rosie Perez takes aim at Romney in Web video satire Poll: Romney surges ahead of Obama in the dozen swing statesGOP demands Obama plan on debt ceilingUS ambassador: Internet fee proposal gaining momentumObama faces dilemma over gas prices as presidential campaign hits homestretch
 
 Discussed
 
-Republican lawmakers say Romney campaign needs to change courseCutter: Romney, Ryan 'entire reason' Libya attack is political issueActor Bill Murray to CNBC: 'I think we ought to be personally responsible'Sharp barbs but no clear winner in testy Biden-Ryan vice presidential debateUS ambassador: Internet fee proposal gaining momentum
+Romney surrogate Sununu calls Obama 'lazy and detached'Obama shifts on birth control mandate after heavy criticismUS ambassador: Internet fee proposal gaining momentumMore bad news for Mitt Romney Geithner defends Obama as deficit again tops $1 trillion
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Romney to push 'debt and deficits,' Obama 'the real Romney' in upcoming week
-*   Former Sen. Arlen Specter dies at 82
-*   Obama pays tribute to ‘fighter’ Arlen Specter
+*   Michelle Obama: 'I voted for my husband'
+*   DOJ seeks dismissal of House GOP’s lawsuit over Fast and Furious
+*   Perot backs Romney, says US ‘can’t afford’ another Obama term
 
   
 More Briefing Room » Congress Blog
 
-*   Biden draws contrast, Obama must finish the job
-*   The vice presidential debate: 'Malarkey' v. 'Adorkable'
-*   In Florida, the choice is clear
+*   Congress must help more foreign-born STEM graduates stay in US
+*   Let's call a terrorist attack a terrorist attack
+*   Syria's children: A damaged generation
 
   
 More Congress Blog » Pundits Blog
 
+*   Romney, Obama and the mendacity of hope
+*   Black America, the new purveyors of ugly racism
 *   Joe Biden electrifies the Democratic base
-*   The gracious youngster versus the jerk
-*   Last night's debate recap
 
   
 More Pundits Blog » Twitter Room
 
-*   'Malarkey' is this week's 'Big Bird' on social media
-*   'Friday Night Lights' creator blasts Romney for using 'Clear eyes' slogan
-*   NRCC compares Biden to Kanye West
+*   Fake Jake Gyllenhaal tweets Romney endorsement
+*   Axelrod: ‘Enough already about moderators’
+*   First lady votes for Obama via absentee ballot
 
   
 More Twitter Room » Hillicon Valley
 
-*   Candidates turn to geo-targeting in ads
-*   Reid vows fresh effort to pass stalled cybersecurity bill in November
-*   US ambassador: Internet fee proposal gaining momentum
+*   U.S., Israel ink telecom trade agreement
+*   GOP senator backs Reid's push to revive cybersecurity legislation
+*   Advertisers launch $1 million campaign to combat privacy concerns
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   News bites: Romney’s push to roll back regs, coal ash protections delayed, and more
-*   Obama faces dilemma over gas prices as presidential campaign hits homestretch
-*   Ad blitz hits Obama on coal in swing states
+*   Enviro groups intensify presence in Arizona Senate race, other campaigns
+*   Koch Industries defends election letter to employees as 'not unusual'
+*   Poll: Belief in global warming rising in both parties
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Poll: Romney holds 2-point lead in NC
-*   Poll finds Obama with 49-46 national lead on eve of second debate
-*   DCCC outraises NRCC with record-breaking third quarter haul
+*   Warren, Brown battle to the end
+*   Professors donate to Obama, opine about election in the news
+*   Rep, Hurt pushes away from GOP in fiery debate for Va. seat
 
   
 More Ballot Box » On The Money
 
-*   News bites: Ryan speaks
-*   Romney’s plan to dump Bernanke sparking anxiety on Wall Street
-*   Ryan criticizes Obama on Chinese currency manipulation label
+*   Toomey: White House tax plan would hurt manufacturing
+*   New York lawmakers want 9/11 victim funds exempt from fiscal cliff
+*   GOP demands Obama plan on debt ceiling
 
   
 More On The Money » Healthwatch
 
-*   Top adviser Gillespie says Romney ‘will be a pro-life president’
-*   Abortion groups target swing-state voters
-*   Bloomberg's soda ban challenged in court
+*   Poll: Female voters give Obama edge on contraception, abortion
+*   Poll: Obama's lead swells on Medicare
+*   Study: No link between HPV vaccine, sexual activity
 
   
 More Healthwatch » Floor Action
 
-*   Graham, Gowdy ask Holder to leave South Carolina voter ID law alone
-*   Corker: Why is Biden misleading Americans on Libyan attack?
-*   Cantor: Biden threw CIA 'under the bus' by blaming Libya on intel failure
+*   Rep. Grimm vows to block higher NY bridge toll with legislation
+*   GOP lawmaker proposes less frequent reports on stimulus, TARP
+*   Schumer calls on Social Security to crack down on identity theft
 
   
 More Floor Action » Transportation
 
-*   Obama touts auto bailout as new car model year begins
-*   Bill Clinton: Romney is a car guy 'if having an elevator to stack them counts'
-*   Amtrak defenders surprised at omission from VP debate
+*   Aviation group wants candidates to focus on private jets in debate
+*   DC Metro preparing SmarTrip cards for Obama or Romney's inauguration
+*   Mediator cites 'progress' in port labor negotiations
 
   
 More Transportation » DEFCON Hill
 
-*   Iraq returns to spotlight in campaign
-*   Obama campaign paints Romney defense strategy as path to war
-*   Navy investigating collision of two vessels
+*   Report: Administration weighing military strike against Libya attackers
+*   Report: Weapons sent to Syrian rebels falling into terrorists' hands
+*   US opens door to military ties with Burma
 
   
 More DEFCON Hill » Global Affairs
 
-*   Graham: White House either ‘misleading’ or ‘incompetent’ on Libya
-*   Rep. Issa calls Libya a ‘mission accomplished’ moment for Obama
-*   Report: Slain official’s father: Libya should not be ‘campaign issue’
+*   Tuesday's global agenda: Presidential candidates face off
+*   US warns Palestinians that statehood bid would harm peace talks with Israel
+*   EU cites 'serious and deepening concerns' for decision to deepen sanctions on Iran
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Democrats' happy sigh Brent Budowsky The great USA comeback More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Lanny Davis Debate advice for Obama A.B. Stoddard Democrats' happy sigh More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
