@@ -155,8 +155,8 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
     Ride Lyrics
 *   One Direction  
     Live While We're Young Lyrics
-*   David Guetta  
-    Titanium Lyrics
+*   Maroon 5  
+    Payphone Lyrics
 
 *   Kanye West  
     White Dress Lyrics
@@ -166,8 +166,8 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
     Everything Has Changed Lyrics
 *   Katy Perry  
     Wide Awake Lyrics
-*   Adele  
-    Someone Like You Lyrics
+*   David Guetta  
+    Titanium Lyrics
 
 *   Wale  
     Arrival Lyrics
@@ -177,6 +177,8 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
     Skyfall 007 Theme Lyrics
 *   Flo Rida  
     Whistle Lyrics
+*   Adele  
+    Someone Like You Lyrics
 
 *   Ellie Goulding  
     I Need Your Love Lyrics
@@ -193,7 +195,7 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
     Heart Attack Lyrics
 *   Justin Bieber  
     As Long As You Love Me Lyrics
-*   Maroon 5  
-    Payphone Lyrics
+*   Gotye  
+    Somebody That I Used To Know Lyrics
 
 Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
