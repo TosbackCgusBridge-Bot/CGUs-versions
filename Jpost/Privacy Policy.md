@@ -1,4 +1,4 @@
-  Set as Homepage Mon, Oct 15, 2012   29 Tishri, 5773  
+  Set as Homepage Tue, Oct 16, 2012   30 Tishri, 5773  
 
 *   *   Breaking News
     *   Diplomacy &. Politics
@@ -178,7 +178,8 @@ We recommend that you read the full terms of service prior to posting any conten
                                     Israel Focus JPost2go  
 Don't have time to read The Jerusalem Post ? Now you can listen to it!   Send Flowers To Israel  
   Nefesh B'Nefesh Guided Aliyah  
-Already living in Israel? Enjoy the Benefits of Aliyah!   Bank Leumi USA  
+Already living in Israel? Enjoy the Benefits of Aliyah!   Watch Hadassah LIVE  
+See events from Hadassah Centennial in Jerusalem as they happen   Bank Leumi USA  
 Coast to Coast Financial Expertise   This New Year,  
 give a Meir Panim food card. Donate Now   Up to $ 250,000 Discount  
 Mishkenot Ha'uma the Most Desirable Address in Jerusalem   50,000 abortions in Israel  
@@ -193,7 +194,8 @@ Israeli's number one bank   Jerusalem Post Lite
 Light Edition of the Jerusalem Post for English improvement   Kosher English Magazine  
 English language weekly magazine - especially for religious people   JReport Kindle Edition  
 Now you can get the Jerusalem Report directly to your Kindle   JPost Premium Edition  
-The very best articles are available only in our Premium edition     Real Estate Real Estate Special Magazine  
+The very best articles are available only in our Premium edition     Real Estate Israel Real Estate Exhibition  
+New York, October 27 â 28. Free Entrance   Real Estate Special Magazine  
   Prosperity real estate  
 Finding your home in Jerusalem is Prosperity's business   Gorman Real Estate  
 Sales, rentals and property management of luxury Tel Aviv apartments.   Don't Look For a House!  
