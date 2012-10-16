@@ -271,7 +271,7 @@ Return to previous page
 *   Shipping &. Delivery
 *   Guarantee/Return Policy
 *   Privacy &. Security Policy
-*   About Blair
+*   About Blair/Career Opportunities
 
 *   Shopping Services
 *   My Account
