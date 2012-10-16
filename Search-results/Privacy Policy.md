@@ -1,4 +1,4 @@
-Overview Site Policies Contact Us Support Untitled DocumentPrivacy Policy for Search-results.com
+Overview Site Policies Contact Us Untitled DocumentPrivacy Policy for Search-results.com
 
 _Effective date: November 29, 2009_  
   
