@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Syria Denies Cluster Bomb Allegations
-*   'Good Recovery' Predicted for Pakistani Teen
+*   Obama Looks to Improve in Second Debate
+*   Military Spending Rises in Asia
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
@@ -32,7 +32,6 @@ VOA
 *   Entertainment
 *   Economy
 *   Programs
-    *   Television Radio
 
 **Audio menu** **Live streams** Africa Live Global Live Music Mix Latest Newscast Terms of Use/Privacy Policy Terms of Use and Privacy Notice
 
