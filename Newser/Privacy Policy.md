@@ -2,16 +2,16 @@
 
 *   What's New
 *   Hot Topics
-    *   entertainment
     *   Election 2012
     *   Obama 2012
     *   Mitt Romney 2012
-    *   celebrity
-    *   President Obama
-    *   Malala Yousufzai
-    *   Iran
+    *   entertainment
     *   Mitt Romney
-    *   Africa
+    *   President Obama
+    *   celebrity
+    *   presidential debate
+    *   Paul Ryan
+    *   Malala Yousufzai
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -119,63 +119,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Wisconsin at War
-*   Her Year of Living Biblically
-*   What Does Giant Panda Taste Like?
+*   Tonight's Town Hall Moderator Plans To Moderate After All
+*   The Other Sept. 11
+*   Monkey Bars Are a Menace
 
 More from Slate »
 
-*   SCI-FI SPEED DATING
-*   FIRED UP! Woman Lit Vending Machine On Fire After It Ate...
-*   Small Penis Contest Sees Stiff Competition
+*   GIANT FACIAL TUMOR
+*   Elephants Calm And Playful After Circus Truck Crash
+*   Woman Allegedly Dies After Being Injected With Soup
 
 More from HuffPost Weird »
 
-*   Scarlett Johansson Is Single, Boys
-*   Hulk Hogan To Sue Over Sex Tape
-*   Study Finds No Link Between HPV Vaccine And Promiscuity In...
+*   The Smartest Thing Youâll Read About Kate Middletonâs Boobs
+*   Oprah Winfrey Got The Terry Treatment â Where Do We Go From...
+*   Must Haves: 9 Perfect (And Colorful!) Pea Coats
 
 More from The Frisky »
 
-*   After their voracious appetite for bronto burgers made the...
-*   Private car owner opposes bus rapid transit lanes because...
-*   Cuba making it easier for Cubans to flee the country, to...
+*   China has a hot new tourist attraction: Really old people...
+*   People who discontinue treatment for attention deficit...
+*   CNN host throws American Family Association spokesman off...
 
 More from Fark »
 
-*   10 things you need to know today: October 16, 2012
-*   5 ways Mitt Romney can win Tuesday's debate
-*   Great(ly reduced) expectations
+*   Paul Ryan's soup kitchen snafu
+*   Is Mitt Romney's jobs plan a sham?
+*   The Democrats' cheeky attack on Mitt Romney's tax plan
 
 More from The Week »
 
-*   John Heilemann on Last Word: Sorry Cuomo, Democrats Want...
-*   Does Romney Give Wayward Staffers Time-outs?
-*   Michelle Obamaâs Motorcade Had a Motorcycle Fender Bender,...
+*   Did Liberal Hysteria Sink Obama?
+*   Rupert Murdochâs Twitter Way More Exciting Than Annual News...
+*   Anti-Semitic Elmo Chilling Out West, in the Land of Sashimi
 
 More from Daily Intel »
 
-*   30 Things I Know About Health Now That I'm 30
-*   Football Season Means ACL Tears
-*   Despite Advances, Pain Is Still a Pain to Deal With
+*   Soul-Talk: Are You Perpetuating Your Own Troubles?
+*   12 Expert Tips for Fall Fitness
+*   4 Time-Saving Tips (That Double as Time-Savoring Tips)
 
 More from HuffPost Health »
 
-*   Tom Cruise Dines with Ridley Scott, Brother of Late 'Top...
-*   'Dancing With the Stars' Contestant Kelly Monaco and Pro...
-*   Kim Kardashian, Pink, Bar Refaeli: Stars Before They Were...
+*   'Twilight' Star Kristen Stewart Drops $2.2M on L.A. Home â...
+*   Blake Lively and Ryan Reynolds' Wedding Planner Spills...
+*   Amanda Bynes Drama Continues: 'What I Like About You'...
 
 More from Celebuzz »
 
-*   5 Super Cute Alternatives to 'Mom Jeans'
-*   New Toys Encourage Babies to Play With REAL iPhones
-*   7 Ways Your Baby Will Turn You Into a Liar
+*   âXbox Romance Runawaysâ Remind Parents How Stupid Kids Can...
+*   Honey Boo Boo's Endorsement of Obama Means She's on the...
+*   Romney's Tax Plan Is So Bogus Even Fox News Called It Out...
 
 More from The Stir »
 
-*   Column: Comic Con Can Help You Sell... Everything
-*   Red Bull Triumphs With Baumgartner Jump by Getting Out of...
-*   Macy's Shifts Media Account to New Shop
+*   Fast Chat: Deutsch L.A.'s 'The Inventionist'
+*   The World's Shortest Free Fall, Brought to You by Slim Jim
+*   Maxipad Brand Goes for Blood in Brilliant Reply to Facebook...
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
