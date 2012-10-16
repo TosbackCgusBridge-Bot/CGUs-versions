@@ -11,9 +11,9 @@ search now
   
 Sponsored Links advertisement Decorating &. Ideas
 
+*   Thom Filicia's Lake House
 *   A Layered TriBeCa Apartment
 *   Happy Paint Colors
-*   Family-Friendly Decor
 
 More Decorating &. Ideas Kitchens &. Entertaining
 
@@ -36,8 +36,8 @@ More Photo Galleries Shopping &. Gifts
 More Shopping &. Gifts Most Popular
 
 *   Beautiful Bedrooms
-*   Designer Kitchens
 *   Fabulous Living Rooms
+*   Designer Kitchens
 
 More Most Popular What's New
 
