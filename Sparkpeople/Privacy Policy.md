@@ -143,7 +143,7 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Kids Healthy Lunch Ideas Resources
+*   How To Make Cayenne Pepper Tea Resources
 
   
 Stay in Touch With SparkPeople **'I Lost 16% Body Fat by Walking'**
@@ -152,17 +152,17 @@ Kiki credits walking for her 47-pound weight loss and reduction to 30% body fat 
 
 Read More
 
-*   Who Motivates you on Sparkpeople?
-*   Relationships and a Healthy Lifestyle
-*   What Do You Do For Emotional Eating ?
+*   Why the scale isn't a good indicator of health.
 *   Mindful baking?
-*   Specific Tips to get through the Weekend
+*   "New to me" foods
+*   Need Ideas for working out at home
+*   Relationships and a Healthy Lifestyle
 
 View Demo **Standing Advanced Hamstring Stretch**  
-Click on the picture to the left to find out more, and see an exercise demo **Strawberry, Spinach, &. Cottage Cheese Salad from Daisy® Brand**  
-Submitted By: **DAISY\_RECIPES**
+Click on the picture to the left to find out more, and see an exercise demo **Baked Anchovy Grape Crostini**  
+Submitted By: **CHEF\_MEG**
 
-A delicious summer salad! Full Recipe
+Don't pass up this recipe just because it's a little fishy. As the sweet grapes, creamy cheese, and hint of salty fish hit your mouth you will fall in love with this quick and easy appetizer. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
