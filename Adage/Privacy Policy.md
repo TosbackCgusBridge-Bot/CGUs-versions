@@ -132,25 +132,25 @@ News _from our Ad Age Partners_
 *   Honda's bundle of cash revives Tier 2 ad plans
 *   Lexus sedans pose risk for trunk entrapment, Consumer Reports says
 
+*   New VP-marketing at Navex Global sticks with proven plan
 *   Weaving together your content and merchandising strategies
 *   ID Wholesaler: Building 'clever' inbound links
 *   How can I use email to drive video views?
-*   Fall cleaning: Dust off your email list
 
-*   Romney tax plan: Two big unknowns
-*   Facebook 'likes' Republicans
-*   Romney, Ryan love North Face. Founder finds it 'ironic'
-*   Amazon to hire 50,000 seasonal workers
+*   GM to build an electric Cadillac, the ELR
+*   Microsoft Surface priced at iPad-like $499
+*   Apple announces likely iPad mini event on Oct. 23
+*   Bailout CEOs: 7 gone, 2 left
 
-*   Macy's Moves $500 Million Media Account to Carat
+*   Martha Stewart teams with Toyota
+*   Macy's moves $500M media account to Carat
 *   25th anniversary of Crain's 40 Under 40
 *   Online advertising jumps 14% to record $17B
-*   Fortune Group publisher tapped to oversee Time
 
-*   Voters doubt either candidate can help
-*   Why voters are right to be dubious about economy
-*   Koch brothers to workers: Vote for Romney or else
-*   Murdoch executive got $11 million payout - report
+*   Citi's Pandit denies being forced out as CEO
+*   Citigroup CEO Pandit abruptly resigns
+*   Stock market is good gauge of election
+*   Stocks higher as investors cheer latest earnings
 
 *   2013 FIAT 500
 *   2013 Scion FR-S
