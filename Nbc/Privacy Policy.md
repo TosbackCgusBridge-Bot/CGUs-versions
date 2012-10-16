@@ -13,8 +13,8 @@ NBC.com
 *   search
 *   Welcome to NBC Log In or Sign Up
 
-Chicago Fire  
-"TV's best new drama." - Cincinnati Enquirer. Watch the premiere now.  
+The Voice  
+Tonight 8/7c, the steals continue! Preview now.  
 More »
 
 Privacy Policy
@@ -116,34 +116,35 @@ Universal City, CA 91608
 
 **Terms of Service >**
 
-Recent Episodes Air Date: 10/12/12 Watch Until: 11/17/12
+Recent Episodes Air Date: 10/15/12 Watch Until: 11/27/12
 
-Grimm
+Revolution
 
-Ep 207: The Bottle Imp
+Ep 105: Soul Train
 
-After investigating a grisly murder, clues lead Nick and Hank to a seemingly unstable father who is on the run with his daughter. As they learn more about the case, they realize that the girl's father may be the least of their worries.
+Charlie and Miles are shocked to learn the Militia has leveraged a forgotten technology. Kim Raver and Jeff Fahey guest star.
 
 *   Watch Episode
 *   Read Recap
 
-Air Date: 10/12/12
+Air Date: 10/15/12 Watch Until: 1/17/13
+
+The Voice
+
+Ep 312: Battles, Part 3
+
+As more artists sing head-to-head, the coaches struggle to save or steal the very best.
+
+*   Watch Episode
+*   Read Recap
+
+Air Date: 10/15/12 Watch Until: 11/2/12
 
 Days of our Lives
 
-Ep 11938: Friday - 10/12/12
+Ep 11939: Monday - 10/15/12
 
-Jennifer is arrested for the murder of Nicole's baby.
-
-*   Read Recap
-
-Air Date: 10/11/12 Watch Until: 11/16/12
-
-Up All Night
-
-Ep 204: Jerry Duty
-
-Chris engages in a passive-aggressive war with an annoying friend from his past. Rob Huebel guest stars.
+Nicole and Rafe grieve the loss of "their" baby.
 
 *   Watch Episode
 *   Read Recap
