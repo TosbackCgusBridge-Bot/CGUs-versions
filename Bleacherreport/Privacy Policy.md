@@ -145,7 +145,7 @@ B/R on Twitter
 
 about 8 hours ago
 
-@BleacherReport: Michele Tafoya to Aaron Rodgers postgame: "What do you think you told the critics tonight?" Rodgers: "Shhhhhhhhh."
+@BleacherReport: The Philip Rivers struggle face http://t.co/4M4dIJSV
 
 Newsletters
 
@@ -195,8 +195,8 @@ Popular Topics
 *   2013 NBA Mock Draft
 *   NBA Trade Rumors
 *   NFL Power Rankings
-*   NFL Picks Week 6
-*   College Football Rankings
+*   NFL Picks Week 7
+*   NCAA Football Rankings
 *   Fantasy Football Waiver Wire
 *   Heisman Watch 2012
 *   MLB Playoff Schedule 2012
