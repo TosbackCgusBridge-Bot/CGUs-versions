@@ -114,8 +114,6 @@ Aktuális programok
 építészettörténe  
 ti kiállítás nyílt győrben
 
-fuga programok 2012. október 8-14.
-
 az árnyékolástechni  
 ka szerepe a környezettudatos és energiahatékony építészetben
 
