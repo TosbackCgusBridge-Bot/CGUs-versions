@@ -163,7 +163,7 @@ Can't find what you are looking for? Ask a Question Was this answer helpful? Rat
 *   Equifax Online Privacy Policy
 *   Correcting Errors on Your Credit File
 *   FCRA Summary of Rights
-*   Product and Equifax Website Terms of Use
+*   Product &. Site Terms of Use
 
 Go Back to Search Results
 
