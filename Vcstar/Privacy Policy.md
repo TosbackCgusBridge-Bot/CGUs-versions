@@ -382,6 +382,9 @@ Ventura County Star
 *   Cars
 *   Classified
 
+*   Presidential debate live stream starts at 6 p.m. |  Q&A about debate |  Ballot Initiatives |  Election Central
+    
+
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -618,9 +621,9 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos Clergy Profile: Father David None
+Videos Connecting pets and people None
 
-*   Clergy Profile: Father David Ojai artists open up their ... Adoptable: Marley On Campus: Nordhoff's Close Crew
+*   Connecting pets and people Ojai artists open up their ... Adoptable: Marley On Campus: Nordhoff's Close Crew
 *   Another dry year burdens water ... Simi Valley shopper nets $1,114 ...
 
   
@@ -635,24 +638,24 @@ Most Popular
 *   Emailed
 
 *   Officials confirm 1 of 2 killed in Oxnard police shootout was innocent bystander Updated 10/15/2012 at 7:32 p.m.
-*   CLU professor heads study of undocumented college students Published 10/14/2012 at 5:49 p.m. 55 comments
-*   2 dead after Oxnard police trade gunfire with men Updated 10/14/2012 at 8:00 p.m.
-*   Judge blocks Oxnard's SouthShore project Updated 10/15/2012 at 6:44 p.m. 15 comments
-*   Ann McFeatters: The pros and cons of Obama and Romney Published 10/14/2012 at 12:44 p.m. 42 comments
+*   Person falls off California Street overpass onto Highway 101 in Ventura Updated 10/15/2012 at 8:32 p.m.
+*   Judge blocks Oxnard's SouthShore project Updated 10/15/2012 at 6:44 p.m. 23 comments
+*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 46 comments
+*   Man arrested after getting on Ventura bus with paintball gun Updated 10/15/2012 at 7:52 p.m.
 
-Photo Galleries Ventura County's Most Wanted October… Chaotic shooting rattles La Colonia… Sailors brave choppy waters
+Photo Galleries Chaotic shooting rattles La Colonia… Ventura County's Most Wanted October… Sailors brave choppy waters
 
 *   Morning chat Published 10/12/2012 at 12:00 a.m. 157 comments
 *   Morning chat Published 10/15/2012 at 12:00 a.m. 62 comments
-*   Vice presidential candidates try to score points during only debate Published 10/11/2012 at 8:30 p.m. 192 comments
-*   CLU professor heads study of undocumented college students Published 10/14/2012 at 5:49 p.m. 55 comments
-*   Supervisor Linda Parks takes on new political role of fact-checker Published 10/12/2012 at 8:16 p.m. 68 comments
+*   CLU professor heads study of undocumented college students Published 10/14/2012 at 5:49 p.m. 57 comments
+*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 46 comments
+*   Ann McFeatters: The pros and cons of Obama and Romney Published 10/14/2012 at 12:44 p.m. 47 comments
 
 *   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 40 comments
 *   2 dead after Oxnard police trade gunfire with men Published 10/14/2012 at 2:57 p.m. 0 comments
+*   Norovirus outbreak hits Oak Park school Published 10/15/2012 at 5:56 p.m. 5 comments
 *   Seaward Avenue crash kills motorcyclist in Ventura Published 10/9/2012 at 5:25 p.m. 0 comments
 *   Authorities identify motorcylclist killed in Ventura crash Published 10/10/2012 at 8:38 a.m. 0 comments
-*   State plans to review Moorpark men's online poker site Published 10/8/2012 at 3:57 p.m. 8 comments
 
 Weather
 
@@ -660,23 +663,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 59° Fair Wind: E 5mph Today 77° 61° Tue 05:00 PM Sunny Temp: 74° Wed 05:00 AM Clear Temp: 63° Wed 05:00 PM Sunny Temp: 76°
+Currently 82° Fair Wind: W 9mph Today 77° 63° Wed 02:00 AM Clear Temp: 65° Wed 02:00 PM Sunny Temp: 79° Thu 02:00 AM Clear Temp: 65°
 
-Feels Like: 74°
+Feels Like: 65°
 
-Humidity: 66%
-
-Precip: 0%
-
-Feels Like: 63°
-
-Humidity: 93%
+Humidity: 87%
 
 Precip: 0%
 
-Feels Like: 76°
+Feels Like: 79°
 
-Humidity: 67%
+Humidity: 60%
+
+Precip: 0%
+
+Feels Like: 65°
+
+Humidity: 90%
 
 Precip: 0%
 
