@@ -56,6 +56,11 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Scutaro diagnosed with left hip muscle strain
+*   Westbrook (oblique) throws simulated game
+*   Berkman (knee) thinks he could play in WS
+*   McCann to undergo shoulder surgery Tuesday
+*   Giambi to interview for Rockies' manager job
 *   Giants tie up NLCS behind Vogelsong's effort
 *   Scutaro getting an MRI after negative X-rays
 *   Red Sox to interview Ausmus, Hale this week
@@ -63,11 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Beltran powers Cardinals to NLCS Game 1 win
 *   Report: Jeter (ankle) likely to need surgery
 *   Sanchez outduels Kuroda, Tigers win Game 2
-*   Jose Valverde will not be closer for Game 2
-*   Jeter breaks ankle, done for rest of playoffs
-*   Young plates winning run, Tigers take Game 1
-*   Valverde implodes, blows four-run lead in 9th
-*   A-Rod hitless as Yankees fall in ALCS Game 1
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Week 7 Top Pickups Oct 16
+*   No Free Fall for Felix Oct 16
+*   Silva: Season Pass Chat Oct 16
 *   Norv's Pain, Peyton's Gain Oct 16
 *   Matchup: Broncos @ Chargers Oct 15
 *   Rodgers Reasserts Rule Oct 15
 *   Down goes DeMarco Oct 15
 *   Best Available NFL Free Agents Oct 15
-*   Week 6 Live Blog Oct 14
-*   Updated Week 6 Rankings Oct 14
-*   Week 6 Injury Questions Oct 13
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Report: Browns GM thinks he's next to go
+*   McCarthy: RB Green can 'carry a full load'
+*   Kolb (ribs) expected to miss 'several' weeks
+*   Reid: Michael Vick still the starter for now
+*   Trent Richardson's Week 7 status is uncertain
+*   Ravens will activate Suggs from PUP this week
+*   DeMarco Murray (foot) ruled out of Week 7
+*   Mendenhall on Achilles: It was just irritated
+*   Eagles fire defensive coordinator Castillo
 *   Peyton leads Broncos comeback with 3 TDs
 *   Rivers with six turnovers in epic collapse
 *   Lloyd suffers bruised shoulder in Sunday loss
-*   Report: Browns LB Fujita's career in jeopardy
-*   McCarthy confirms ILB Smith done for 2012
-*   Lions rule out Jahvid Best for rest of season
-*   Malcom Floyd expected to play Monday night
-*   Titans to give Matt Hasselbeck another start
-*   DeMarco Murray is 'doubtful' to face Panthers
-*   MRI shows Garcon battling inflamed 2nd toe
-*   Webb officially done for '12 with torn ACL
-*   Ray Lewis' triceps fully torn. out for season
 
 NBA PAGES
 
@@ -156,6 +156,8 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Mario Chalmers (hamstring) iffy for opener
+*   Ronnie Brewer (knee) could practice this week
 *   Stephen Curry scores 25 on 10-of-15 shooting
 *   Delonte suspended for 'detrimental conduct'
 *   Dirk (knee) still waiting on surgery decision
@@ -166,8 +168,6 @@ FANTASY BASKETBALL NEWS
 *   Eric Gordon hoping to test knee soon
 *   Andrew Bynum getting Synvisc injection
 *   Andrew Bogut cleared for 1-on-1 contact
-*   Kendrick Perkins (wrist) uncertain for opener
-*   Danny Granger (knee) practices on Sunday
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Nathan MacKinnon starts atop ISS rankings
+*   Erik Condra signs with tier three German club
+*   NHL offers NHLPA 50/50 split in revenue
+*   Report: Max Pacioretty leaves Swiss team
+*   James Reimer in Vancouver starts rumors
+*   Dan Boyle worried lockout will hurt SC chance
 *   Taylor Hall to join AHL Oklahoma City Tuesday
 *   Cory Conacher is the AHL player of the week
 *   Report: Corey Tropp is done for the season
 *   Emmerton breaks his finger in finnish debut
 *   CBA talks might move towards main issues
 *   Tomas Kopecky signs with HK Dukla Trencin
-*   Sam Gagner to join Klagenfurt in Austria
-*   Giroux, Briere light it up for Eisbaren
-*   Tyler Myers to join Klagenfurter AC Tuesday
-*   Brayden Schenn scores twice, assists in win
-*   Malcolm Subban kicks aside 44 shots in win
-*   Prospect Anthony Mantha unstoppable in QMJHL
 
 NASCAR PAGES
 
@@ -268,6 +268,7 @@ GOLF PAGES
 
 COLUMNS
 
+*   Saint of Circumstances Oct 16
 *   Jonas, Brother! Oct 14
 *   California Dreamin' Oct 9
 *   Sinsational! Oct 7
@@ -275,7 +276,6 @@ COLUMNS
 *   Long-Term 101: Fall Series Sep 29
 *   Ryder Cup Preview Sep 25
 *   Life's Rich Pageant Sep 23
-*   Live Golf Chat at 12:00pm ET Sep 19
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Update: McCarron's mom denies meniscus tear
+*   Trojans will give freshman Tuerk time at LT
+*   71 percent of Ball's yards came after contact
+*   Lande: Scouts don't consider Wilson 2nd round
+*   Report: Mathieu received benefits from club
+*   Muschamp hoping 5 starters return for Gators
+*   Pauline: Nevada TE Sudfeld now a late-rounder
+*   Hoke more willing to give RB Toussaint a rest
 *   Iowa's top runner Weisman not on depth chart
 *   Longhorns QB Ash 'appears to be fine' (wrist)
 *   Beavers CB Poyer intercepts another vs BYU
 *   Damontre Moore adds 1.5 sacks versus LaTech
-*   Golson has 'mild concussion', likely to play
-*   Plan is for Mizzou QB Franklin to play vs UK
-*   Vols RB Neal doubtful for Alabama (ankle)
-*   LaTech WR Patton has 21/233/4 TDs vs A&M
-*   McCarron is 'fine', only has a bruised knee
-*   Tyler Wilson shreds Wildcats for five TDs
-*   Manuel completes 27-of-34 for 439 yds, 4 TDs
-*   Silas Redd runs over Huskies for 155 yards
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NBA:Dirk (knee) still waiting on surgery decision
-*   NFL:Peyton leads Broncos comeback with 3 TDs
-*   NFL:Rivers with six turnovers in epic collapse
-*   MLB:Giants tie up NLCS behind Vogelsong's effort
-*   MLB:Scutaro getting an MRI after negative X-rays
-*   NFL:Lloyd suffers bruised shoulder in Sunday loss
-*   NFL:Report: Browns LB Fujita's career in jeopardy
-*   NBA:Eric Gordon hoping to test knee soon
-*   NFL:Lions rule out Jahvid Best for rest of season
-*   NFL:Malcom Floyd expected to play Monday night
-*   NFL:Titans to give Matt Hasselbeck another start
-*   NBA:Andrew Bynum getting Synvisc injection
+*   MLB:Scutaro diagnosed with left hip muscle strain
+*   NFL:McCarthy: RB Green can 'carry a full load'
+*   MLB:Berkman (knee) thinks he could play in WS
+*   NFL:Kolb (ribs) expected to miss 'several' weeks
+*   NHL:NHL offers NHLPA 50/50 split in revenue
+*   NFL:Reid: Michael Vick still the starter for now
+*   NFL:Trent Richardson's Week 7 status is uncertain
+*   CFB:Report: Mathieu received benefits from club
+*   NFL:Ravens will activate Suggs from PUP this week
+*   NFL:DeMarco Murray (foot) ruled out of Week 7
+*   MLB:McCann to undergo shoulder surgery Tuesday
+*   CFB:Update: McCarron's mom denies meniscus tear
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1W. PowellNFL (9586)
-*   2J. BestNFL (9540)
-*   3H. NicksNFL (7634)
-*   4V. BallardNFL (7563)
-*   5A. HernandezNFL (6872)
+*   1W. PowellNFL (10082)
+*   2J. BestNFL (10039)
+*   3H. NicksNFL (8067)
+*   4V. BallardNFL (7998)
+*   5A. HernandezNFL (7088)
 
-*   6R. Griffin IIINFL (6613)
-*   7R. MendenhallNFL (6435)
-*   8A. GreenNFL (6210)
-*   9G. JenningsNFL (6124)
-*   10P. GarconNFL (5978)
+*   6R. MendenhallNFL (7085)
+*   7R. Griffin IIINFL (6823)
+*   8A. GreenNFL (6765)
+*   9G. JenningsNFL (6733)
+*   10D. MurrayNFL (6680)
 
   
 Video Center
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines Norv's Pain, Peyton's Gain  
-Oct 16 Patrick Daugherty breaks down the Chargers' latest collapse and Peyton Manning's latest triumph in Tuesday's Dose.  
+  Headlines Week 7 Top Pickups  
+Oct 16 Chris Wesseling breaks down the best players who still might be available in your league heading into Week 7.  
   
 More NFL Columns
 
+*   »Week 7 Top Pickups Oct 16
+*   »No Free Fall for Felix Oct 16
+*   »Silva: Season Pass Chat Oct 16
 *   »Norv's Pain, Peyton's Gain Oct 16
 *   »Matchup: Broncos @ Chargers Oct 15
 *   »Rodgers Reasserts Rule Oct 15
 *   »Down goes DeMarco Oct 15
 *   »Best Available NFL Free Agents Oct 15
-*   »Week 6 Live Blog Oct 14
-*   »Updated Week 6 Rankings Oct 14
-*   »Week 6 Injury Questions Oct 13
 
 NFL Headlines
 
+*   »Report: Browns GM thinks he's next to go
+*   »McCarthy: RB Green can 'carry a full load'
+*   »Kolb (ribs) expected to miss 'several' weeks
+*   »Reid: Michael Vick still the starter for now
+*   »Trent Richardson's Week 7 status is uncertain
+*   »Ravens will activate Suggs from PUP this week
+*   »DeMarco Murray (foot) ruled out of Week 7
+*   »Mendenhall on Achilles: It was just irritated
+*   »Eagles fire defensive coordinator Castillo
 *   »Peyton leads Broncos comeback with 3 TDs
 *   »Rivers with six turnovers in epic collapse
 *   »Lloyd suffers bruised shoulder in Sunday loss
-*   »Report: Browns LB Fujita's career in jeopardy
-*   »McCarthy confirms ILB Smith done for 2012
-*   »Lions rule out Jahvid Best for rest of season
-*   »Malcom Floyd expected to play Monday night
-*   »Titans to give Matt Hasselbeck another start
-*   »DeMarco Murray is 'doubtful' to face Panthers
-*   »MRI shows Garcon battling inflamed 2nd toe
-*   »Webb officially done for '12 with torn ACL
-*   »Ray Lewis' triceps fully torn. out for season
 
 NFL Links
 
