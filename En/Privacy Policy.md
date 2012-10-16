@@ -290,8 +290,6 @@ Searches:
     
     *   Upload and Manage your Software
     *   Promote your Software
-    *   Increase your downloads
-    *   Monetize your downloads
     *   Softonic Ads
 *   Partners
     
