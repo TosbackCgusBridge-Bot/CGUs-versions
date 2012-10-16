@@ -14,7 +14,7 @@ NBC.com
 *   Welcome to NBC Log In or Sign Up
 
 The Voice  
-Tonight 8/7c, the steals continue! Preview now.  
+New, Tonight 8/7c. The steals continue! Preview now.  
 More »
 
 Privacy Policy
@@ -116,7 +116,17 @@ Universal City, CA 91608
 
 **Terms of Service >**
 
-Recent Episodes Air Date: 10/15/12 Watch Until: 11/27/12
+Recent Episodes Air Date: 10/16/12
+
+Days of our Lives
+
+Ep 11940: Tuesday - 10/16/12
+
+EJ learns of the death of his child.
+
+*   Read Recap
+
+Air Date: 10/15/12 Watch Until: 11/27/12
 
 Revolution
 
@@ -134,17 +144,6 @@ The Voice
 Ep 312: Battles, Part 3
 
 As more artists sing head-to-head, the coaches struggle to save or steal the very best.
-
-*   Watch Episode
-*   Read Recap
-
-Air Date: 10/15/12 Watch Until: 11/2/12
-
-Days of our Lives
-
-Ep 11939: Monday - 10/15/12
-
-Nicole and Rafe grieve the loss of "their" baby.
 
 *   Watch Episode
 *   Read Recap
