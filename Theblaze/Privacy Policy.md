@@ -3,6 +3,11 @@
     *   Faith
     *   Tech
 *   TheBlaze TV
+    *   Radio
+    *   Pat &. Stu
+    *   Glenn Beck
+    *   Real News
+    *   Wilkow!
 *   Radio
 *   Magazine
 *   The Blog
