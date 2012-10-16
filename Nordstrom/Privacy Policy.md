@@ -197,8 +197,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   BP. Fashion Board Blog
     *   Denim Guide
     *   Fall Trend Guide
-    *   Dress to Impress
-    *   Haute Homecoming
+    *   Fall Dress Guide
     *   Top Trends
     
     *   New Arrivals
@@ -390,7 +389,6 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     
     *   Style Watch
     *   Topshop Topman Zine
-    *   Sweepstakes
     
     *   Topshop
     *   All Topshop
