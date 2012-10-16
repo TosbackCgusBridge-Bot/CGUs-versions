@@ -125,14 +125,11 @@ Slate **Slide Shows**
 
 Click here to load comments.
 
-*   The Absurd New Book That Blames Charles Darwin for the Holocaust  
-    
-*   You Do Not Need Fancy Steel-Cut Oats To Make a Great Bowl of Oatmeal  
-    
+*   Why Christian Bookstores Banned This Evangelical Blogger's Book About the Bible
+*   Help! I Had an Affair With My Students’ Mother.
 
-*   _Slate_’s TV Club on Last Night’s Episode of _Homeland_
-*   Who Are Your Favorite TV Characters Voting For?  
-    
+*   Monkey Bars Broke My Daughter's Arm. Is It Time To Get Rid of Them?
+*   Spitzer: The Koch Brothers Write a Letter to Employees Whining About President Obama
 
 Discover _Slate_ With Your Friends See what your friends are reading and automatically share how you're browsing _Slate_. You control what gets published to your Facebook News Feed. Social Reading is Turn ON Turn OFF Feedback <. newer | older >. To temporarily turn off Social Reading, toggle the social reading button to OFF at the top of this box or in the toolbar areas of this page. This will allow you to see what your friends have read but won't show your reading activity on _Slate_. Always notify me when I've shared an article. LOG INTO FACEBOOK  
 
@@ -140,70 +137,65 @@ To enable Social Reading on Slate, log into...
   
 \[  Cancel |  OK  \]
 
-*   1\. What Makes A Great Boss? A Surprising New Study.  
-    By Matthew Yglesias | October 12, 2012
-*   2\. Are You Drinking Too Much? Depends on Whether You Ask the CDC, NIAAA, or _Smashed_.  
-    By Jake Blumgart | October 12, 2012
-*   3\. Obama Plans To Be “Aggressive” in Debate  
-    By Daniel Politi | October 14, 2012
-*   4\. New Darwin Biography Is Horribly, Almost Comically Wrong  
-    By Mark Joseph Stern | October 11, 2012
-*   5\. Watch Skydiver Break Sound Barrier During Jump  
-    By Daniel Politi | October 14, 2012
+*   1\. Help! My Girlfriend Grows Hair on Her Chest.  
+    By Emily Yoffe | October 16, 2012
+*   2\. Help! I Had an Affair With My Students’ Mother.  
+    By Emily Yoffe | October 15, 2012
+*   3\. A Very Unusual Camera That Emphasizes Time Over Space  
+    By Judith B. Herman | October 15, 2012
+*   4\. An Evangelical Writer Spent a Year Living Biblically. Now a Major Christian Bookseller Won’t Carry Her Book.  
+    By Ruth Graham | October 15, 2012
+*   5\. Anxious? Blame the Predators in Your Primate Family History.  
+    By Rob Dunn | October 15, 2012
 
-*   1\. Daniel Lende: The Psychology of Constantly Checking Twitter  
-    By Robert Wright | October 14, 2012
-*   2\. How To Stop Apple's iOS6 From Tracking Your Activity for Advertisers  
-    By Elizabeth Weingarten | October 12, 2012
-*   3\. Cheney "Disturbed" by Biden's Debate Performance  
-    By Daniel Politi | October 13, 2012
-*   4\. What Makes A Great Boss? A Surprising New Study.  
+*   1\. A Very Unusual Camera That Emphasizes Time Over Space  
+    By Judith B. Herman | October 15, 2012
+*   2\. An Evangelical Writer Spent a Year Living Biblically. Now a Major Christian Bookseller Won’t Carry Her Book.  
+    By Ruth Graham | October 15, 2012
+*   3\. What Makes A Great Boss? A Surprising New Study.  
     By Matthew Yglesias | October 12, 2012
-*   5\. _Argo_, Blackwater, and “El Americano”: Great Stories About the CIA  
-    By Max Linsky | October 13, 2012
+*   4\. The Red Bull Stratos Jump Gets a Dramatic Lego Reenactment  
+    By Forrest Wickman | October 15, 2012
+*   5\. Daniel Lende: The Psychology of Constantly Checking Twitter  
+    By Robert Wright | October 14, 2012
 
 See More Stories on THE WEEK
 
-*   Everything you need to know about presidential debate history
-*   The Biden-Ryan debate fact-check: Who told the biggest whoppers?
 *   13 little-known punctuation marks we should be using
+*   Did global warming stop 16 years ago?
+*   5 ways Mitt Romney can win Tuesday's debate
 
 See More Stories on newser
 
+*   Christians Slam Anti-Bully Day Over 'Gay Agenda'
+*   Source of Huge Eyeball on Fla. Beach ID'd
 *   Malala Airlifted to UK for Treatment
-*   I'm a Lifelong Democrat, and I'm Voting for Romney
-*   Affirmative Action, Unfair? OK, Let's Make It Fair
 
 See More Stories on TIME
 
-*   The Lohan Effect: Will Romney Get a Boost from Low-Information Voters?
-*   Guinea-Bissau: How Cocaine Transformed a Tiny African Nation
-*   Where Turkey Is Already at War: Are Kurdish Militants Doing Syria's Bidding?
+*   What to Watch For in Tonight's Debate: A More Forceful Obama
+*   The Managed Democracy: A How-to Manual from Putin's Russia
+*   Hillary Clinton: 'I Take Responsibility' for Benghazi Security Lapse
 
 From The Root &. Foreign Policy
 
-*   Atheism: Why Not?
-*   How Many Slaves Landed in the US?
-*   Will Blacks Blindly Vote Obama in November?
-*   100 Amazing Facts About the Negro
-*   'Django Unchained': New Star-Studded Trailer
-*   Will Cash-Strapped HBCUs Survive?
+*   What Obama Doesn't Get About Debates
+*   Not All That It Can Be
+*   Red Lines in the Sand
+*   Shooting Spurs Criticism of Memphis Police
+*   Work More, Make More?
+*   Who You Calling Ratchet?
 
 *   MORE Slate User Agreement And Privacy Policy COLUMNS
 
 *   VIEW OUR COMPLETE **Slate User Agreement And Privacy Policy** ARCHIVE
 
-*   The Absurd New Book That Blames Charles Darwin for the Holocaust  
-    
-*   You Do Not Need Fancy Steel-Cut Oats To Make a Great Bowl of Oatmeal  
-    
-*   _Slate_’s TV Club on Last Night’s Episode of _Homeland_
-*   Who Are Your Favorite TV Characters Voting For?  
-    
-*   Some Creationists Say Earth Is 6,000 Years Old. Some Say 13,000. Where Do They Get Those Numbers?  
-    
-*   Boss Emily Bazelon Around  
-    
+*   Weigel: Republicans Are Giddy About Their Chances in Wisconsin. Will Dems Spoil the Fun?
+*   Why Christian Bookstores Banned This Evangelical Blogger's Book About the Bible
+*   How Come We Don’t Eat Pandas Anymore?
+*   Spitzer: The Koch Brothers Write a Letter to Employees Whining About President Obama
+*   Monkey Bars Broke My Daughter's Arm. Is It Time To Get Rid of Them?
+*   Why Don't Astronomers Ever Admit When They're Wrong?
 
 about us | contact us | User Agreement | Privacy Policy | _Slate_ on Facebook | ad choices  
 feedback | help | advertise | newsletters | mobile | make _Slate_ your homepage Slate is published by The Slate Group, a Division of the Washington Post Company  
