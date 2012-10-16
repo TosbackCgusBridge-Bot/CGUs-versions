@@ -1,6 +1,6 @@
-Access Hollywood  
+Access Hollywood
 
-*   **HOT NOW:** Clark Gregg To Reprise Role Of Agent Coulson For 'S.H.I.E.L.…
+*   **HOT NOW:** Andrew Lincoln Talks The Walking Dead’s Season Premiere
 
 *   WATCH
 *   NEWS
@@ -130,10 +130,10 @@ Access Style
 
  
 
-**Emmy’s Style!  
+**Celebrity Hair Transformations  
 **
 
-There was color color everywhere on the red carpet!
+Check out some of the best — and wildest — before &. after ‘do shots!
 
  
 
@@ -141,17 +141,15 @@ Access Hollywood Live
 
  
 
-**Gene Simmons Talks Daughter’s ‘X Factor’ Appearance  
-**
+**Sophia Bush Talks CBS’ Partners**
 
-What did Gene think of his daughter Sophie’s “X Factor” audtion? Plus, the singer dishes on married life.
+Plus, does she enjoy shooting the show in front of a live audience?
 
  
 
-**Scott Baio Talks Being A Republican In Hollywood  
-**
+**Stacy London: How My Struggles With Psoriasis Led To Fashion Career**
 
-The former “Happy Days” star doesn’t believe anyone should be bashed for their beliefs. explains why he’s voting for Mitt Romney.
+So, how did these traumatizing experiences lead her to a life working in the fashion industry?
 
  
 
@@ -162,7 +160,7 @@ The former “Happy Days” star doesn’t believe anyone should be bashed for t
 **Bristol Palin’s ‘DWTS’ Blog  
 **
 
-Bristol takes on the critics of her Week 2 performance to her “anthem,” “Redneck Woman.”
+In her new post, Bristol talks about her spat with Mark Ballas, and what lies ahead for their Rock ‘n’ Roll themed dance!
 
  
 
@@ -170,17 +168,17 @@ Healthy Hollywood
 
  
 
-**Joy Bauer Fights Supersize Portions!  
+**Get Movin’ Monday – Gwyneth’s Fitness Weapon!  
 **
 
-As part of NBC’s Healthy Week, nutrition expert and “Today” show contributor Joy Bauer took part in “Healthy Week’s Small Plate Movement.”
+Meet the woman who whips Gwyneth — and many other women — into tip-top shape!
 
         Also Check Out:  
 
 **‘American Idol’  
 **
 
-Stevie Nicks is apologizing after she lashed out at Nicki Minaj.
+Following up on the success of his hit single, “Home,” “American Idol” winner Phillip Phillips will release his debut album next month.
 
  
 
@@ -223,7 +221,7 @@ Urban Access
 
 **Urban Access**
 
-Former “Fresh Prince” star Alfonso Ribeiro married Angela Unkrich on Saturday!
+Rihanna’s love life is the source of endless headlines, but the 24-year-old pop star revealed she has not been on a date in a while.
 
  
 
