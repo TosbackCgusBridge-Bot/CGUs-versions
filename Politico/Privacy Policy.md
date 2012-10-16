@@ -113,117 +113,126 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/15/2012 7:02 AM ET
+Updated: 10/16/2012 7:02 AM ET
 
-1.  1 Battleground GOP analysis
-2.  2 Colbert apologizes to Bob Kerrey
-3.  3 The endless contradictions of Arlen Specter
-4.  4 PPP Ohio poll: Obama 51, Romney 46
-5.  5 Second Netanyahu ad hits Florida airwaves
-6.  6 Battleground Poll: Mitt more likable
-7.  7 PPP poll: Romney leads Obama 49 to 48 in Florida
-8.  8 Sarah PAC spending tops $774,000
-9.  9 Obama says debate prep 'going great'
-10.  10 Former Sen. Arlen Specter dead at 82
+1.  1 CPD: Crowley shouldn't reinterpret questions
+2.  2 Conservatives target Catholic voters
+3.  3 Allen West's smashmouth politics
+4.  4 Report: White House considering retaliatory Libya strike
+5.  5 Crowley: 'I'm not a fly on the wall'
+6.  6 Lobbyists expect comeback with Mitt
+7.  7 VP debate transcript
+8.  8 Hillary: 'I take responsibility' for Benghazi
+9.  9 McGovern 'coming to the end'
+10.  10 Boehner agenda put to test
 
-Updated: 10/15/2012 7:02 AM ET
+Updated: 10/16/2012 7:02 AM ET
 
-1.  1 PPP Ohio poll: Obama 51, Romney 46
-2.  2 Colbert apologizes to Bob Kerrey
-3.  3 Former Sen. Arlen Specter dead at 82
-4.  4 Maher, Coulter mix it up
-5.  5 Kerrey's last stand to fix Washington
-6.  6 Second Netanyahu ad hits Florida airwaves
-7.  7 Obama's slippery foreign oil promise
-8.  8 Battleground GOP analysis
-9.  9 The endless contradictions of Arlen Specter
-10.  10 Obama says debate prep 'going great'
+1.  1 CPD: Crowley shouldn't reinterpret questions
+2.  2 Crowley: 'I'm not a fly on the wall'
+3.  3 Conservatives target Catholic voters
+4.  4 Lobbyists expect comeback with Mitt
+5.  5 Report: White House considering retaliatory Libya strike
+6.  6 3 states that may decide the election
+7.  7 Inbox: Team Obama lays on guilt
+8.  8 VP debate transcript
+9.  9 Battleground Poll: Mitt more likable
+10.  10 Issa: State Dept. sitting on $2 billion-plus for embassy security
 
-Updated: 10/15/2012 7:02 AM ET
+Updated: 10/16/2012 7:02 AM ET
 
-1.  1 Maher, Coulter mix it up
-2.  2 Poll: Romney leads Obama in Maine congressional district
-3.  3 Rand Paul goes national
-4.  4 PPP Ohio poll: Obama 51, Romney 46
-5.  5 Debate fuels contraception-rule foes
-6.  6 Morgan Freeman cuts Obama ad
-7.  7 Colbert apologizes to Bob Kerrey
-8.  8 Trump talks up Biden performance
-9.  9 How Wall Street made Paul Ryan
-10.  10 Former Sen. Arlen Specter dead at 82
+1.  1 CPD: Crowley shouldn't reinterpret questions
+2.  2 Crowley: 'I'm not a fly on the wall'
+3.  3 Conservatives target Catholic voters
+4.  4 Lobbyists expect comeback with Mitt
+5.  5 Report: White House considering retaliatory Libya strike
+6.  6 3 states that may decide the election
+7.  7 VP debate transcript
+8.  8 Inbox: Team Obama lays on guilt
+9.  9 Battleground Poll: Mitt more likable
+10.  10 PPP Ohio poll: Obama 51, Romney 46
 
-Updated: 10/15/2012 7:02 AM ET
+Updated: 10/16/2012 7:02 AM ET
 
 1.  1 Twitter frowns on Joe Biden's laugh
 2.  2 Inside the campaign: The Romney rebellion
-3.  3 Debate Commission dismisses Raddatz-Obama connection
-4.  4 Battleground Tracking Poll: Dems less enthusiastic
+3.  3 CPD: Crowley shouldn't reinterpret questions
+4.  4 Debate Commission dismisses Raddatz-Obama connection
 5.  5 Angst grows among Obama backers
 6.  6 Paul Ryan pics spark dumbbell debate
 7.  7 Romney hits Obama on Big Bird focus
-8.  8 Unions struggle to help Obama
-9.  9 7 takeaways from the Danville debate
-10.  10 S.C. voter ID law delayed
+8.  8 Crowley: 'I'm not a fly on the wall'
+9.  9 Unions struggle to help Obama
+10.  10 Conservatives target Catholic voters
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/15/2012 7:02 AM ET
+Updated: 10/16/2012 7:02 AM ET
 
-1.  1 Battleground GOP analysis
-2.  2 Battleground Poll: Mitt more likable
-3.  3 The 3 states that may decide the election
+1.  1 Pundits: Obama must 'show life'
+2.  2 5 unmet Obama promises
+3.  3 5 things to watch at the debate
+4.  4 McGovern 'coming to the end'
+5.  5 Debate cheat sheet: Houses, milk
+6.  6 Allen West's smashmouth politics
+7.  7 Unions bolster liberal super PACs
 
-Updated: 10/15/2012 7:02 AM ET
+Updated: 10/16/2012 7:02 AM ET
 
-1.  1 Battleground GOP analysis
-2.  2 Battleground Poll: Mitt more likable
-3.  3 The 3 states that may decide the election
-4.  4 The endless contradictions of Arlen Specter
-5.  5 Former Sen. Arlen Specter dead at 82
+1.  1 Pundits: Obama must 'show life'
+2.  2 5 unmet Obama promises
+3.  3 5 things to watch at the debate
+4.  4 McGovern 'coming to the end'
+5.  5 Debate cheat sheet: Houses, milk
+6.  6 Allen West's smashmouth politics
+7.  7 Unions bolster liberal super PACs
+8.  8 Ex-GOP candidates still in debt
+9.  9 Romney latest GOPer to back USEC
+10.  10 Boehner agenda put to test
 
-Updated: 10/15/2012 7:02 AM ET
+Updated: 10/16/2012 7:02 AM ET
 
-1.  1 Battleground GOP analysis
-2.  2 Battleground Poll: Mitt more likable
-3.  3 The 3 states that may decide the election
-4.  4 The endless contradictions of Arlen Specter
-5.  5 Former Sen. Arlen Specter dead at 82
-6.  6 Obama's slippery foreign oil promise
-7.  7 Kerrey's last stand to fix Washington
-8.  8 Romney, Ryan hit Obama on China
-9.  9 Psaki's Williamsburg tips
-10.  10 Debate fuels contraception-rule foes
+1.  1 Pundits: Obama must 'show life'
+2.  2 5 unmet Obama promises
+3.  3 5 things to watch at the debate
+4.  4 McGovern 'coming to the end'
+5.  5 Debate cheat sheet: Houses, milk
+6.  6 Allen West's smashmouth politics
+7.  7 Unions bolster liberal super PACs
+8.  8 Ex-GOP candidates still in debt
+9.  9 Romney latest GOPer to back USEC
+10.  10 Boehner agenda put to test
 
-Updated: 10/15/2012 7:02 AM ET
+Updated: 10/16/2012 7:02 AM ET
 
-1.  1 Battleground GOP analysis
-2.  2 Battleground Poll: Mitt more likable
-3.  3 The 3 states that may decide the election
-4.  4 The endless contradictions of Arlen Specter
-5.  5 Former Sen. Arlen Specter dead at 82
-6.  6 Obama's slippery foreign oil promise
-7.  7 Kerrey's last stand to fix Washington
-8.  8 Romney, Ryan hit Obama on China
-9.  9 Psaki's Williamsburg tips
-10.  10 Debate fuels contraception-rule foes
+1.  1 Pundits: Obama must 'show life'
+2.  2 5 unmet Obama promises
+3.  3 5 things to watch at the debate
+4.  4 McGovern 'coming to the end'
+5.  5 Debate cheat sheet: Houses, milk
+6.  6 Allen West's smashmouth politics
+7.  7 Unions bolster liberal super PACs
+8.  8 Ex-GOP candidates still in debt
+9.  9 Romney latest GOPer to back USEC
+10.  10 Boehner agenda put to test
 
 Showing Last 7 Days
 
-Updated: 10/15/2012 7:02 AM ET
+Updated: 10/16/2012 7:02 AM ET
 
-1.  1 Obama's slippery foreign oil promise
-2.  2 Rand Paul goes national
-3.  3 7 takeaways from the Danville debate
-4.  4 Joltin' Joe Biden wins the bout
-5.  5 Twitter frowns on Joe Biden's laugh
-6.  6 Biden goes after Ryan in VP debate
-7.  7 5 things to watch in VP debate
-8.  8 Angst grows among Obama backers
-9.  9 Inside the campaign: The Romney rebellion
-10.  10 Mitt: Obama has made U.S. less safe
+1.  1 Crowley: 'I'm not a fly on the wall'
+2.  2 Obama's slippery foreign oil promise
+3.  3 Rand Paul goes national
+4.  4 7 takeaways from the Danville debate
+5.  5 Joltin' Joe Biden wins the bout
+6.  6 Twitter frowns on Joe Biden's laugh
+7.  7 Biden goes after Ryan in VP debate
+8.  8 5 things to watch in VP debate
+9.  9 Angst grows among Obama backers
+10.  10 Inside the campaign: The Romney rebellion
 
 News
 
