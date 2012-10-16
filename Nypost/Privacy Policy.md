@@ -1,4 +1,4 @@
-52 °
+56 °
 
 *   Today's Paper
 *   Newsletters
