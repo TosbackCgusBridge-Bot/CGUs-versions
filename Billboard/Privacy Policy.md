@@ -88,6 +88,10 @@ previous 14/14
     
     With "Die Young" gaining love from radio and new album "Warrior" set to hit in December, Ke$ha is back.
     
+*   Photos of the Week
+    
+    Bruno Mars hangs out with the Fonz, Usher parties at George Michael's birthday, Katy Perry and Carly Rae Jepsen perform at Comedy Central's Night of Too Many Stars, Rihanna covers Vogue, and more. See the week's best pics!
+    
 *   Jason Aldean Live Q&A
     
     One day before Jason Aldean unleashes his brand new album "Night Train," the country hitmaker was at Billboard for a Live Q&A to talk about the new music and answer your questions live on camera.
@@ -99,10 +103,6 @@ previous 14/14
 *   Treasure Island Festival Photos
     
     Public Enemy, the xx, Girl Talk, Best Coast, M83 and more performed this weekend at Treasure Island. See exclusive backstage photos from the San Francisco festival.
-    
-*   Photos of the Week
-    
-    Katy Perry and Carly Rae Jepsen perform at Comedy Central's Night of Too Many Stars, Rihanna covers Vogue, Nick Jonas and Justin Bieber visit "X Factor," Christina Aguilera and Lance Bass pose at the AMAs press conference, and more. See the week's best pics!
     
 *   Bruno, Kelly, Adele: Whose Single Is Best?
     
