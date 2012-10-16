@@ -147,49 +147,49 @@ Headlines of the Week
 **From the Fark Shop:**
 
 *     
-    BIE Black
+    Pedrobear
 *     
-    Indiana Bones and the Dead Who Consume
+    Flash - Mighty Wallet
 *     
-    Defrosty The Snowman Ice Cubes
+    Freeloader Fork
 *     
-    Hello Lazy Ramen
+    Holiday Hound - Dog Tie
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
 Two-Year-Old Girl Insults Kate Middle...  
-The Most Unrealistic Sports Scenes in...  
+Man Cooked to Death in Horrific Workp...  
 Is This What You Think it Is...?  
-Hilarious Wedding Bloopers Compilatio...  
+The Most Unrealistic Sports Scenes in...  
 More news at Scribol »  
   
   
+The Brink of Oblivion: Inside Nazi-Oc...  
 LIFE With First Ladies, From Eleanor...  
 Streisand: Early Photos of an Insecur...  
 Strangers to Reason: LIFE Inside a Ps...  
-GOP Women Party Hard, 1941  
 More news at Life »  
   
   
-This Week On X-Play: Borderlands 2 DL...  
-The Last Of Us Graphic Novel Announce...  
-Dishonored Achievement Tips -- Corvo,...  
-Halo 4 Leaked? Microsoft Investigating  
+We Show It ALL  
+Sexy Geeky Fun  
+Daredevil FAILS  
+Comic-Con Cuties  
+More news at truTV »  
+  
+  
+Fuse Gameplay Preview Video From New...  
+WWE '13 Gameplay Preview From X-Play:...  
+Halo 4: Infinity Multiplayer Behind-T...  
+Microsoft Permanently Banning Halo 4...  
 More news at G4TV »  
-  
-  
-Watercooler Stories  
-Jockstrip: The world as we know it.  
-Your Daily Horoscope  
-The almanac  
-More news at UPI »  
   
 
 Also on Fark
 
-Main Turns out Cleveland bus drivers are expertly trained in martial arts. Make sure you tip them. (video) ( channel955.com ) » (1 comment) Sports WHO will leave Phoenix as World Champion: Austin Aries or Jeff Hardy? HAS the "dead man's hand" finally been drawn for Aces &. Eights? DOES ANYONE care about Magnus vs Samoa Joe? THIS is YOUR TNA Bound For Glory 2012 Discussion Thread (8pm ET on PPV) ( impactwrestling.com ) » (392 comments) Business E-book price fixing settlement between Amazon and publishers nets subby about $20 in refunds. So, how should he spend this sudden windfall? ( paritynews.com ) » (71 comments) Geek PC Magazine ranks the Top 100 Classic Websites from 2007. FARK comes racing in at #26 ( pcmag.com ) » (14 comments) Entertainment Marvel announced at New York Comic-Con that Clark Gregg's S.H.I.E.L.D. Agent Phil Coulson is going to be returning in the pilot from the upcoming ABC ( enter10n.com ) » (1 comment) Politics The Romney/Ryan tax "plan" is so ridiculous that even Fox News is ripping on it ( livewire.talkingpointsmemo.com ) » (229 comments) Video Can you spot the thief stealing the wallet? ( liveleak.com ) » (59 comments)
+Main After their voracious appetite for bronto burgers made the dinosaurs go extinct, cavemen then had to start eating pandas ( mnn.com ) » (20 comments) Sports George lives in Nashua, NH. He has a job interview at a sports radio station. Before he goes, he decides to call into a show to go on a rant about Tom Brady being overrated. Radio station then tells "George from Nashua" to forget about that interview ( deadspin.com ) » (13 comments) Business Molasses truck spills all over the highway. Cops admit that the clean-up is going very slowly ( stuff.co.nz ) » (2 comments) Geek Every hour of TV shortens your life by 22 minutes. Numbers for FARK use still confidential ( news.com.au ) » (24 comments) Entertainment Rolling Stones choose Newark for their upcoming New York area 50th anniversary concert. Once again, Brooklyn can't get no satisfaction ( nydailynews.com ) » (2 comments) Politics Apparently 'Muppet-Gate' extends all the way to the UK ( dailymail.co.uk ) » (13 comments) Video A final recap of the Biden/Ryan debate with the best use of autotune, ever. (w/bonus geeky hot singing moderator) ( youtube.com ) » (7 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -199,5 +199,5 @@ Main Turns out Cleveland bus drivers are expertly trained in martial arts. Make 
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 15 2012 08:00:36  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 16 2012 08:00:33  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
