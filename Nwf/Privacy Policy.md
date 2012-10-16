@@ -39,8 +39,8 @@ About Us Support NWF's work to protect wildlife
 Send to a Friend  
 Your First Name:  
 Your Last Name:  
-  Your Email:  
-  Your Friend's Email:  
+Your Email:  
+Your Friend's Email:  
     Your Personal Message:  
       
 Yes, I would like to receive National Wildlife Federation emails.  
