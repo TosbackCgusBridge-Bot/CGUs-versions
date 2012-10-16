@@ -269,7 +269,7 @@ Answers may amend this policy from time to time by posting the new text on the S
   
 If you have any questions or suggestions regarding this privacy policy, please contact Answers: privacy\_at\_answers.com.  
   
-ADVERTISEMENT Answer these What is one committee that every senator serves on? In: US Senators and Representatives Answer it! What are all of the countries where Spanish is an official language? In: Spanish Language and Culture Answer it! Why misalliances expense treated as assets? In: Financial Statements Answer it! Who did john Henry live with? In: History Answer it! ADVERTISEMENT Answers Properties
+ADVERTISEMENT Answer these Do tarantulas throw a strong scent at their predators? In: Spiders Answer it! Do birds have fins? In: Birds Answer it! What was going on in the country and world that George Herbert walker bush had to deal with? In: US Presidents Answer it! Do the cost outweigh the benefits or the benefits outweigh the cost? In: Jobs &. Education Answer it! ADVERTISEMENT Answers Properties
 
 *   Wiki Answers
 *   Video Answers
