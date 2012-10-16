@@ -73,11 +73,11 @@ What's Hot
 
 Fall TV Popularity Contest
 
-A _Lost_ Reunion?
+_Once_'s Angry Giant
 
-VIDEO: Miley's _Men_ Debut
+Baumgartner's Space Dive
 
-Gary Collins Dies
+_Arrow_ Pics: Deadshot! China White!
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -130,18 +130,18 @@ more popular tv shows Most Popular Celebrities
 more popular celebrities Most Popular Movies
 
 1.  Taken 2
-2.  Hotel Transylvania
-3.  Looper
-4.  End Of Watch
-5.  Trouble With The Curve
+2.  Argo
+3.  Sinister
+4.  Hotel Transylvania
+5.  Here Comes The Boom
 
 more popular movies Top Videos
 
-1.  The Vampire Diaries
-2.  Gossip Girl
+1.  Gossip Girl
+2.  The Vampire Diaries
 3.  Dexter
-4.  Arrow
-5.  Supernatural
+4.  Supernatural
+5.  Arrow
 
 more top videos
 
