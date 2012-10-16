@@ -286,11 +286,11 @@ Prev Next
 *   Jonas Blixt
 *   LPGA Tour
 *   Ryder Cup
-*   Tiger Woods
-*   Davis Love III
-*   Justin Rose
 *   Champions Tour
 *   US Open Championship
+*   British Open Championship
+*   Davis Love III
+*   Justin Rose
 
 **Privacy Policy**
 
@@ -531,7 +531,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,055 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
+Social 233,081 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
