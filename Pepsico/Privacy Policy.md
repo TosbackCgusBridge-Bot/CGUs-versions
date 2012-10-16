@@ -1,6 +1,6 @@
 PepsiCo
 
-1.  PEP: 70.34 (+0.29)
+1.  PEP: 70.30 (-0.04)
 2.  Contact
 3.  Global Sites
     1.  Brazil
@@ -150,17 +150,17 @@ How to Contact Us
 
 If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us via one of the addresses or telephone numbers listed here.
 
-Stock Information PEP (NYSE): $70.34 +0.29 +0.41%
+Stock Information PEP (NYSE): $70.30 -0.04 -0.06%
 
 Minimum 20 Minute Delay
 
-**Intraday High** 70.39
+**Intraday High** 70.89
 
-**Intraday Low** 69.75
+**Intraday Low** 70.24
 
-**Volume** 4,700,699
+**Volume** 5,795,340
 
-**Last Trade** 70.05
+**Last Trade** 70.34
 
 Meet the Family
 
@@ -188,15 +188,15 @@ Follow Us
 
 Recent News
 
-1.  Chief Design Officer in Annual List of the 40 Under 40 Hottest Young Stars In Business - Fortune
-2.  LinkedIn Reveals The Companies Where Everyone Wants To Work, PepsiCo at #7 - Business Insider
-3.  Pepsi's Interactive Matching Vending Machine on "Weird Wall Street" - Bloomberg
+1.  Quaker thrives in China with traditional medicine cereal fortification - Bakery and Snacks
+2.  Chief Design Officer in Annual List of the 40 Under 40 Hottest Young Stars In Business - Fortune
+3.  LinkedIn Reveals The Companies Where Everyone Wants To Work, PepsiCo at #7 - Business Insider
 
 Recent Press Releases
 
-1.  Pepsi Scores Touchdown With New Ad
-2.  PepsiCo Lets Consumers Buy, Gift and Play Through New Interactive Vending Machine
-3.  Pepsi To Announce Its Newest "Pop Star"
+1.  Obama Re-Election Appears Likely Following Results Of Cheetos Brand Election Poll
+2.  Pepsi Scores Touchdown With New Ad
+3.  PepsiCo Lets Consumers Buy, Gift and Play Through New Interactive Vending Machine
 
 Downloads
 
