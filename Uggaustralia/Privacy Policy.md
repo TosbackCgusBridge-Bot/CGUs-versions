@@ -42,7 +42,6 @@ Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and mor
         *   Tech Accessories
         *   View All
     *   The I Do Collection
-    *   Sale
     
 *   Men|
     *   New Arrivals
