@@ -287,20 +287,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Technology:** Winsor McCay: Little Nemo in Slumberland Google Doodle celebrates a comics great
-2.  2\. **Society:** For better, for worse: my husband, the rapist
-3.  3\. **Sport:** Skydiver Baumgartner lands safely on Earth after supersonic record
-4.  4\. **Sport:** Felix Baumgartner makes record-breaking skydive from space – video
-5.  5\. **Politics:** Decriminalise drug use, say experts after six-year study
+1.  1.  **Sport:** Felix Baumgartner makes record-breaking skydive from space – video
+2.  2\. **Sport:** Felix Baumgartner's skydive spin as seen from camera on spacesuit - video
+3.  3\. **News:** Rebekah Brooks's News International severance deal worth 'about £7m'
+4.  4\. **Fashion:** Do you have any tattoos you regret?
+5.  5\. **Sport:** Felix Baumgartner skydive: the key questions answered
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Sport:** Skydiver Baumgartner lands safely on Earth after supersonic record
-2.  **Business:** Eurozone crisis live: Fresh speculation over Greece's future
-3.  **Sport:** Felix Baumgartner discusses his skydive from space - video
-4.  **Technology:** Winsor McCay: Little Nemo in Slumberland Google Doodle celebrates a comics great
-5.  **Politics:** Decriminalise drug use, say experts after six-year study
+1.  **News:** Gary McKinnon extradition statement due in Commons
+2.  **News:** Rebekah Brooks's News International severance deal worth 'about £7m'
+3.  **Business:** Eurozone crisis live: Spain hopes IMF would ease bailout pain
+4.  **TV &. radio:** The week in TV: Fresh Meat, Hunderby, Modern Family and Nurse Jackie - video
+5.  **Film:** Golden Globes: Tina Fey and Amy Poehler replace Ricky Gervais as hosts
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -308,21 +308,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Women on the front page: much to celebrate?
-2.  2\. Amphibious vehicles step up a gear with Quadski launch
-3.  3\. Alvin Roth and Lloyd Shapley win the Nobel prize for economics
-4.  4\. Douglas Hodge triumphs as Cyrano de Bergerac on Broadway
-5.  5\. Salmond and Cameron agree Scottish independence referendum deal: Politics live blog
+1.  1.  Science on Stage by Kirsten Shepherd-Barr - review
+2.  2\. Get ready for 3D printing | Spencer Thompson
+3.  3\. Goodbye to localism as government tightens grip on local councils
+4.  4\. Attorney general's Hillsborough statement: Politics live blog
+5.  5\. Eurozone crisis live: Spain hopes IMF would ease bailout pain
 6.  All today's stories
 
 On the Guardian today
 
 1.  Sport Felix Baumgartner makes record-breaking skydive from space – video
-2.  Life and style Mapping the body: the temple
-3.  Media Rupert Murdoch calls phone-hacking campaigners 'scumbag celebrities'
-4.  Society For better, for worse: my husband, the rapist
-5.  Technology Winsor McCay: Little Nemo in Slumberland Google Doodle celebrates a comics great
-6.  World news Las Vegas activists try to 'level the field' as casino moguls pump up Super Pacs
+2.  Sport Felix Baumgartner's skydive spin as seen from camera on spacesuit - video
+3.  Life and style Mapping the body: the temple
+4.  Media Felix Baumgartner jump: record 8m watch live on YouTube
+5.  Sport Felix Baumgartner skydive: the key questions answered
+6.  Sport Felix Baumgartner discusses his skydive from space - video
 
 *   License/buy our content
 |*   Privacy policy
