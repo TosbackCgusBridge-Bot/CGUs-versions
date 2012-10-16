@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Monday 15 October 2012
+Tuesday 16 October 2012
 
 *   Home
 *   News
@@ -138,13 +138,13 @@ In About us
 
 Editor's Choice »
 
-The muck and the top brass  
+Exemplary education without the fees  
 
-The fact that leading ex-servicemen were prepared to lobby the MoD on behalf of foreign arms companies is the latest example of the revolving door between Whitehall and the private sector, says **Andrew Gilligan**.
+Christ's Hospital school in West Sussex provides a lifeline – just as it has done since the 16th century, writes **Jessica Salter**.
 
 Comments
 
-Autism: one father's path to understanding Blood Brothers: Willy Russell interview Alan Hansen on England's chances in Brazil Water particles found on surface of moon Advertisement
+Great British Bake Off: big boys bake, too Hanna Rosin talks sex More films for grown-ups, please What was Boden thinking of? Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
