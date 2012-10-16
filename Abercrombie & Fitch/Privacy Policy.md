@@ -4,11 +4,13 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[anf-HomepageTopBannerEMS\] Sweatpants Sale - $30 &. Up!
+\[anf-HomepageTopBannerEMS\] 2 Days only - Members receive Free shipping over $75 when signed in!
 
-*   Shop Mens Sweatpants
+*   Sign In
 
-*   Shop Womens Sweatpants
+*   Shop Mens
+
+*   Shop Womens
 
 *   see details
 
