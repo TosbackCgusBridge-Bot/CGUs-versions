@@ -220,7 +220,8 @@ Auto  Insurance Health  Insurance Home  Insurance Life  Insurance Business �
 Discussion Topics Healthcare e-Guides Your Policy's Terms Questions &. Answers Search  
   
   
-Privacy | Terms | About Us | Support | Partnerships | Careers | Site Index | Search ©2012 **eInsurance** . All rights reserved by E-Insure® Services, Inc.                               ↑ Back to Top ↑  
+We're here to help.  
+Call (866) 941-3794 Privacy | Terms | About Us | Support | Partnerships | Careers | Site Index | Search ©2012 **eInsurance** . All rights reserved by E-Insure® Services, Inc.                               ↑ Back to Top ↑  
 Auto Insurance Quotes  
 Motorcycle Insurance Quotes  
 RV Insurance Quotes  
