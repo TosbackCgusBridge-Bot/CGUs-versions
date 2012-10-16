@@ -190,74 +190,70 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 82575 Arbeit 63697 Ausbildung 49262 Auto 89739 Beauty 67900 Beruf 76380 Beziehung 70625 Computer 529130 Computerspiele 63570 deutsch 66049 Englisch 51389 ErnÃ¤hrung 50112 essen 70297 Facebook 75798 Fernsehen 59608 Film 98587 Finanzen 58505 Freizeit 257725 FuÃball 50582 Games 122323 Geld 92183 Gesundheit 202916 Haare 81165 Handy 201023 Hilfe 145707 Internet 318363 iPhone 73893 Kinder 50360 KÃ¶rper 49012 Laptop 72270 Liebe 162342 Lied 53572 MÃ¤dchen 55160 Medizin 61982 Minecraft 66426 Musik 277059 PC 277990 PC-Spiele 47897 Problem 54150 PS3 59054 Recht 94094 Schule 231402 Software 56434 Spiele 135085 Sport 109347 Technik 118938 Tiere 64100 TV 53705 Video 51895 Youtube 81633 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 82669 Arbeit 63783 Ausbildung 49328 Auto 89838 Beauty 68107 Beruf 76513 Beziehung 70713 Computer 530082 Computerspiele 63638 deutsch 66100 Englisch 51456 ErnÃ¤hrung 50145 essen 70378 Facebook 75906 Fernsehen 59661 Film 98682 Finanzen 58566 Freizeit 258806 FuÃball 50623 Games 122508 Geld 92276 Gesundheit 203255 Haare 81260 Handy 201284 Hilfe 145903 Internet 318638 iPhone 73986 Kinder 50391 KÃ¶rper 49125 Laptop 72354 Liebe 162553 Lied 53648 MÃ¤dchen 55228 Medizin 62025 Minecraft 66514 Musik 277290 PC 278248 PC-Spiele 47937 Problem 54209 PS3 59128 Recht 94202 Schule 231655 Software 56471 Spiele 135216 Sport 109460 Technik 119034 Tiere 64161 TV 53758 Video 51946 Youtube 81743 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
 1.  sassbar
     
     Punkte:
     
-    988
+    1182
     
     Level:
     
     sassbar
     
-2.  Spannungsvoller
+2.  Locksmith
     
     Punkte:
     
-    973
+    728
     
-    Level:
-    
-    Spannungsvoller
-    
-3.  boooze
+3.  larry2010
     
     Punkte:
     
-    864
+    628
     
     Level:
     
-    boooze
+    larry2010
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.248.161 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.255.865 gute Fragen_
 
-*   16 KÃ¶nnen Blinde in Bildern trÃ¤umen?
-*   15 Ist das in irgendeiner Sicht normal?
-*   13 hÃ¶rt ein tauber wenn er chips kaut?
+*   21 Es kann der frÃ¶mmste nicht in frieden leben....
+*   16 Kann man im luftleeren Raum die Schallmauer durchbrechen ?
+*   12 verletzte krÃ¤he gefunden, was kann ich tun?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
-*   Das hilft gegen Dehnungsstreifen
-*   So wÃ¼rfelt man eine Zwiebel
-
-*   HimbeertÃ¶rtchen backen
 *   Anleitung - Schiebekarte basteln
+*   HimbeertÃ¶rtchen backen
+
+*   Glutenfrei backen: Schokokuchen
+*   Eine Hand zeichnen
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.926.541
+1.930.684
 
 Anzahl der Fragen
 
-8.247.487
+8.255.160
 
 Anzahl der Antworten
 
-35.894.951
+35.920.392
 
 Anzahl der Tipps
 
-74.095
+74.152
 
 Anzahl der Videos
 
-4.656
+4.663
 
 Blog
 
