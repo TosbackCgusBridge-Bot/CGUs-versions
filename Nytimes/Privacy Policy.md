@@ -258,32 +258,15 @@ This Privacy Policy may be amended from time to time. Any such changes will be p
 
 Search Help
 
-*   Home
-*   World
-*   U.S.
-*   N.Y. / Region
-*   Business
-*   Technology
-*   Science
-*   Health
-*   Sports
-*   Opinion
-*   Arts
-*   Style
-*   Travel
-*   Jobs
-*   Real Estate
-*   Autos
-*   Site Map
-
 *   © 2012 The New York Times Company
+*   Site Map
 *   Privacy
 *   Your Ad Choices
-*   Terms of Service
+*   Advertise
 *   Terms of Sale
-*   Corrections
+*   Terms of Service
+*   Work With Us
 *   RSS
 *   Help
 *   Contact Us
-*   Work With Us
-*   Advertise
+*   Site Feedback
