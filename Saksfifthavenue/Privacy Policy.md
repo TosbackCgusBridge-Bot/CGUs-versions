@@ -1,10 +1,26 @@
 *   Saks Fifth Avenue
 
+*   FRIENDS &. FAMILY 20% off with code: **FRNFAM2** Details &. Designer Exclusions
+
 CLOSE  
 
 From Thursday to Sunday, October 18 to 21, 2% of sales from Saks Fifth Avenue New York and Beverly Hills, OFF 5TH and saks.com up to $500,000 will be donated to our national beneficiary, the Entertainment Industry Foundation. Additionally, 100% of the Key to the Cure T-shirt sales from these locations will be donated to the Entertainment Industry Foundation.  
   
 For all other Saks Fifth Avenue locations, 2% of participating vendor sales from Thursday to Sunday, October 18 to 21, along with 100% of the Key to the Cure T-shirt sales will be donated to each store's designated charity participating in the Key to the Cure campaign.  
+  
+
+CLOSE Enjoy a special treat from Saks.com: **Friends &. Family**  
+ENJOY 20% OFF\*  
+15% off jewelry  
+Designer Exclusions Apply\*\*  
+  
+**Online only: October 16 - 17  
+Online and in Stores: October 18 - 21** Use code: FRNFAM2 at checkout.  
+**\*Saks Fifth Avenue OFF 5TH stores, SAKS FASHIONFIX merchandise, Fashion Star® merchandise, international orders and beauty and fragrance not included.** Offer valid on Saks.com purchases from Tuesday, October 16, 2012 at 12:01 AM (ET) through Sunday, October 21, 2012 at 11:59 PM (ET). Offer valid at Saks Fifth Avenue stores and catalog purchases from Thursday, October 18, 2012 to Sunday, October 21, 2012. To redeem online enter promotional code: **FRNFAM2** in Saks bag. Limit of five promo codes per order. Qualifying items will be designated on the site with an indication on their product page. Excluded from this event is pre-order merchandise at Saks.com, select designer collections, select leased departments, bridal salon, bridal sample sale, Martin Lawrence Art Gallery, The Fur Salon, select fine jewelry and watch collections, and jewelry and watch repairs. Discount may vary on Saks.com, in-store and catalog purchases. Cannot be combined with any other coupon in store, locator transactions, redeemed for cash or used toward payment on Saks Fifth Avenue credit card accounts. To receive this discount in-store, the invitation must be presented at point of sale each time a purchase is made. Not valid on previous purchases, shipping charges, gift card purchases, taxes, gift wrap, store restaurants and salons. Saks Fifth Avenue reserves the right to limit quantities. The Shops at Riverside and Tulsa stores are closed Sundays. All Saks Incorporated associates and those shopping on Saks accounts earning a discount are not eligible.  
+  
+\*\*Designer Exclusions: 3.1 Phillip Lim, A Detacher, A.L.C, Acne, Akris, Alberta Ferretti, Alexander McQueen, Alexander Wang, Alexandre Birman, Alezandre Vauthier, Altuzarra, Angel Sanchez, Ann Demeulemeester, Antonio Berardi, Anya Hindmarch, Aquilano Rimondi, Azzedine Alaia, Balenciaga, Bose, Bottega Veneta, Brian Atwood, Brioni apparel, Brunello Cucinelli, Bugaboo, Bvlgari, Canada Goose, Carmen Marc Valvo, Carolina Herrera, Cartier, Cartier Vintage, Carven, Catherine Regeher, Celine, Chado Ralph Rucci, CHANEL, Charbonnel et Walker, Charvet, Chloé shoes and handbags, Chloé Sevigny for Opening Ceremony, Chopard, Christian Cota, Christian Louboutin, Christopher Kane, Comme des Garcons, Comme des Garcons Play, Consignment Jewelry, Costume National, DSquared2 men's apparel, David Yurman, Deos Watches, Derek Lam, Dior, Dior Homme, Dolce &. Gabbana, Donna Karan shoes, DRK SHDW, Dries Van Noten, Drome, Dylan's Candy Bar, Edmundo Castillo, Elie Saab, Elisanero, Emilio Pucci apparel, Emporio Armani men's apparel, Erdem apparel, Ermenegildo Zegna, Etro apparel, Fendi, Ferragamo Shoes, Gareth Pugh, Georgina Goodman, Giambattista Valli, Giuseppe Zanotti, Givenchy, Graff, Gucci, H. Stern, Haider Ackermann, Hatt, Hermés, Isaac Mizrahi apparel, Isaia, Issey Miyake apparel, J Brand Collection, J Mendel, Jason Wu, Jerome C. Rousseau, Jerome Dreyfuss, Jil Sander, Jil Sander Navy, Jimmy Choo, Junya Watanabe, Katherine Kwei, Kaufman Franco, Kenzo, Kiton, Konstantino, Lanvin, Les Copains, Liancarlo, Libertine, Lila Castellaneta, Little Marc Jacobs, Lorena Sarbu, Loro Piana, Louis Vuitton, Lux Collections, MacKenzie-Childs, Maclaren, Maison Martin Margiela, Manolo Blahnik, Marc Jacobs Collection, Marchesa Couture, Maria La Rosa, Marios Schwab, Marni, Martin Grant, Marsell, Max Kibardin, Melinda Eng, Miu Miu, Moncler men's, kid's and outerwear, Monique Lhuillier, Montblanc, Moschino Shoes, Naeem Khan, Neil Barrett shoes and men's apparel, Nicholas Kirkwood, Nina Ricci, Norman Ambrose, Ohne Titel, Opening Ceremony, Oscar de la Renta, Pamella Roland, Paul Smith, Pauw, Penfield, Peter Pilotto, Peter Shoiket, Pierre Hardy, Pollini, Polo Black Label, Pomelatto, Prabal Gurung, Prada, Prada Sport, Proenza Schouler, Pucci, Rafael Cennamo, Ralph Lauren Black Label men's apparel, Ralph Lauren Collection, Ralph Lauren Purple Label, Reed Krakoff, Reem Acra, Rene Caovilla, Rick Owens, Rick Owens DRKSHDW, Rick Owens Lilies, Ritmo Mvndo, Robert Clergerie, Rochas, Roger Dubuis Watches, Roger Vivier, Roland Nivelais, Rupert Sanderson, Sacai Luck, Sergio Rossi, Sophie Theallet, Special Delivery to 10022-SHOE, Special Orders, Stella McCartney, Suno, T by Alexander Wang women's apparel,Tabitha Simmons shoes, Talbot Runhoff, Thakoon, Thakoon Addition, The Row, Thomas Taitt, Tod's, Toy Watch, UGG® Australia children's, UGG® Australia Collection, UGG® Australia women's shoes, Valentino, Vera Wang apparel, Versace handbags, Viktor &. Rolf, Vionnet, Wes Gordon, Yiquing Yin, Yohji Yamamoto, Yves Saint Laurent women's apparel, shoes and handbags, Zac Posen, Zegna Sport apparel, Zenith Watches, Zero + Maria Cornejo apparel, Zuhair. Designer exclusions may differ in stores and online.  
+  
+Saks.com only exclusions: Aperlai, Ippolita, Moncler, Peter Som, Rodarte Click here for additional shipping and tax information.  
   
 
 *   $9.99 USD Standard Shipping and $19.99 USD Express Shipping to the UK and Canada on orders of $99 USD and more with code: **UKCAN12** Details
@@ -111,7 +127,6 @@ CONTACT US 24/7
 SHIPPING, RETURNS &. TAXES
 
 *   Domestic
-*   International
 *   Order Status &. Tracking
 
 SAKS CARD
