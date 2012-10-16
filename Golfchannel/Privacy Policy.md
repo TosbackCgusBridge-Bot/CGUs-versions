@@ -282,15 +282,15 @@ Prev Next
 *   Grill Room
 
 *   PGA Tour
-*   Turkish Airlines World Golf Final
-*   European Tour
-*   Frys.com Open
-*   Las Vegas
-*   John Mallinger
+*   Morning Drive
+*   Jonas Blixt
+*   LPGA Tour
 *   Ryder Cup
 *   Tiger Woods
-*   Jonathan Byrd
-*   Vijay Singh
+*   Davis Love III
+*   Justin Rose
+*   Champions Tour
+*   US Open Championship
 
 **Privacy Policy**
 
@@ -531,13 +531,13 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 232,975 facebook.com/GolfChannel 119,642 twitter.com/GolfChannel Newsletter
+Social 233,055 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
 *   Tell a Friend
 
-Frys.com Open CordeValle Golf Club (Par/Yardage: 71/7,368) was both designed and remodeled by Robert Trent Jones Jr. It utilizes the elevation changes of its peaks and canyons in addition to streams, meadows, and rolling terrain within the course’s design. Visit GolfNow to book a tee time near you.
+The McGladrey Classic Sea Island Golf Club’s Seaside Course (Par/Yardage: 70/7,055) is an ocean-side, links course that was redesigned by Tom Fazio in 1998. Visit GolfNow to book a tee time near you.
 
 *   Partner Pavilion
 *   Press Releases
