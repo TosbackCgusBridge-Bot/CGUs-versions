@@ -618,10 +618,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos Ojai artists open up their studios Oct. 13-14 Open-door policies
+Videos Clergy Profile: Father David None
 
-*   Ojai artists open up their ... Adoptable: Marley On Campus: Nordhoff's Close Crew Another dry year burdens water ...
-*   Simi Valley shopper nets $1,114 ... On Campus: Seraphs Finally Return ...
+*   Clergy Profile: Father David Ojai artists open up their ... Adoptable: Marley On Campus: Nordhoff's Close Crew
+*   Another dry year burdens water ... Simi Valley shopper nets $1,114 ...
 
   
 
@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
+*   Officials confirm 1 of 2 killed in Oxnard police shootout was innocent bystander Updated 10/15/2012 at 7:32 p.m.
+*   CLU professor heads study of undocumented college students Published 10/14/2012 at 5:49 p.m. 55 comments
 *   2 dead after Oxnard police trade gunfire with men Updated 10/14/2012 at 8:00 p.m.
-*   Half of cities have lost a manager in Ventura County Published 10/13/2012 at 7:52 p.m. 33 comments
-*   Two killed when gunfire erupts as Oxnard police chase suspects Updated 10/14/2012 at 2:18 p.m.
-*   In 27th Senate District, it's a teacher vs. a colonel Updated 10/13/2012 at 6:56 p.m. 33 comments
-*   Supervisor Linda Parks takes on new political role of fact-checker Published 10/12/2012 at 8:16 p.m. 68 comments
+*   Judge blocks Oxnard's SouthShore project Updated 10/15/2012 at 6:44 p.m. 15 comments
+*   Ann McFeatters: The pros and cons of Obama and Romney Published 10/14/2012 at 12:44 p.m. 42 comments
 
-Photo Galleries Ventura County's Most Wanted October… Chaotic shooting rattles city Westlake vs Newbury Park
+Photo Galleries Ventura County's Most Wanted October… Chaotic shooting rattles La Colonia… Sailors brave choppy waters
 
-*   Vice presidential candidates try to score points during only debate Published 10/11/2012 at 8:30 p.m. 185 comments
-*   Morning chat Published 10/12/2012 at 12:00 a.m. 157 comments
-*   Supervisor Linda Parks takes on new political role of fact-checker Published 10/12/2012 at 8:16 p.m. 68 comments
-*   Vice presidential debate Published 10/12/2012 at 10:32 a.m. 35 comments
-*   In 27th Senate District, it's a teacher vs. a colonel Published 10/13/2012 at 5:56 p.m. 33 comments
+*   Morning chat Updated // at : 157 comments
+*   Morning chat Updated // at : 62 comments
+*   Vice presidential candidates try to score points during only debate Updated 10/11/2012 at 9:56 p.m. 192 comments
+*   CLU professor heads study of undocumented college students Updated // at : 55 comments
+*   Supervisor Linda Parks takes on new political role of fact-checker Updated // at : 68 comments
 
-*   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 40 comments
-*   Seaward Avenue crash kills motorcyclist in Ventura Published 10/9/2012 at 5:25 p.m. 0 comments
-*   Authorities identify motorcylclist killed in Ventura crash Published 10/10/2012 at 8:38 a.m. 0 comments
-*   State plans to review Moorpark men's online poker site Published 10/8/2012 at 3:57 p.m. 8 comments
-*   Asian citrus psyllid found in more cities Published 10/10/2012 at 10:17 a.m. 0 comments
+*   Port Hueneme city manager asked to resign Updated 10/9/2012 at 6:40 p.m. 40 comments
+*   2 dead after Oxnard police trade gunfire with men Updated 10/14/2012 at 8:00 p.m. 0 comments
+*   Seaward Avenue crash kills motorcyclist in Ventura Updated 10/9/2012 at 9:16 p.m. 0 comments
+*   Authorities identify motorcylclist killed in Ventura crash Updated 10/10/2012 at 6:24 p.m. 0 comments
+*   State plans to review Moorpark men's online poker site Updated // at : 8 comments
 
 Weather
 
@@ -660,23 +660,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 60° Fair Wind: Calm Today 81° 58° Mon 05:00 PM Sunny Temp: 78° Tue 05:00 AM Clear Temp: 60° Tue 05:00 PM Sunny Temp: 74°
-
-Feels Like: 78°
-
-Humidity: 50%
-
-Precip: 0%
-
-Feels Like: 60°
-
-Humidity: 86%
-
-Precip: 0%
+Currently 59° Fair Wind: E 5mph Today 77° 61° Tue 05:00 PM Sunny Temp: 74° Wed 05:00 AM Clear Temp: 63° Wed 05:00 PM Sunny Temp: 76°
 
 Feels Like: 74°
 
-Humidity: 60%
+Humidity: 66%
+
+Precip: 0%
+
+Feels Like: 63°
+
+Humidity: 93%
+
+Precip: 0%
+
+Feels Like: 76°
+
+Humidity: 67%
 
 Precip: 0%
 
@@ -714,8 +714,8 @@ Brian Dennert here
 
 Ingemusings
 
+*   Democrats may still reelect Jesse Jackson, Jr.
 *   References to Obama scrubbed from his Communist mentor's Wikipedia page
-*   In debate, Obama admits tax increases will reduce jobs
 
 More bloggers Wire
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Monday Oct 15
 *   Tuesday Oct 16
 *   Wednesday Oct 17
+*   Thursday Oct 18
 *   More BROWSE Icon
-
-*   CI Announces "Politics to the Extreme" CSUCI California State University 9 a.m.
-*   Open Door Day Zimmer Children's Museum 10 a.m.
-*   Open Door Day Zimmer Children's Museum 10 a.m.
-*   Election Discussion Round Table Pizza - Camarillo 7 p.m.
-*   Conejo Valley Unified School Board Candidates Forum Conejo Valley Unified School District 7 p.m.
-
-More Events »
 
 *   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
 *   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
@@ -750,6 +742,14 @@ More Events »
 *   Dan Walters a "Dean" of California Journalists Takes a No Nonsense Look at California Tower Club, Oxnard 11:30 a.m.
 *   People with Disabilities Peer Support Group Independent Living Resource 1:30 p.m.
 *   Introduction to International Importing and Exporting Economic Development Collaborative - Ventura County 3 p.m.
+
+More Events »
+
+*   The Beauty Myth: Understanding Unhealthy Eating Patterns Hyatt Westlake Plaza 9 a.m.
+*   Strictly Sail Long Beach Shoreline Village - 401 Shoreline Village Dr. Long Beach, CA 90802 noon
+*   The Nature of the Soul Weekly Study Group Meditation Mount 7 p.m.
+*   Thousand Oaks Reads Panel Discussion at CLU CLU California Lutheran University 7:30 p.m.
+*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
 
 More Events »
 
