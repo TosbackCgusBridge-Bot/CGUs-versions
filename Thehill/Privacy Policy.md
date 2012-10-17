@@ -212,21 +212,21 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Professors donate to Obama, opine about election in news articlesDem warns FTC against suing GoogleAdvertisers launch $1 million campaign to combat privacy concernsPoll: Romney surges ahead of Obama in the dozen swing statesReid vows fresh effort to pass stalled cybersecurity bill in November
+Professors donate to Obama, opine about election in news articlesDem warns FTC against suing GoogleCandy Crowley will disregard debate agreement on TuesdayCoburn blasts FCC's phone subsidy as 'massive entitlement'Adviser says Romney will ask Obama to 'man up' on Libya attack at debate
 
 Emailed
 
-Bubba and the Boss go BuckeyeRosie Perez takes aim at Romney in Web video satire Poll: Romney surges ahead of Obama in the dozen swing statesProfessors donate to Obama, opine about election in news articlesSupreme Court allows early voting in Ohio
+Bubba and the Boss go BuckeyeProfessors donate to Obama, opine about election in news articlesPoll: Romney surges ahead of Obama in the dozen swing statesSupreme Court allows early voting in OhioWarren, Brown battle to the end
 
 Discussed
 
-Cutter: Romney, Ryan 'entire reason' Libya attack is political issueActor Bill Murray to CNBC: 'I think we ought to be personally responsible'Romney surrogate Sununu calls Obama 'lazy and detached'Sharp barbs but no clear winner in testy Biden-Ryan vice presidential debateProfessors donate to Obama, opine about election in news articles
+Poll: Plurality say polls biased for ObamaProfessors donate to Obama, opine about election in news articlesUS ambassador: Internet fee proposal gaining momentumObama, Romney confrontational in second presidential debateClinton on Libya attack: ‘I take responsibility’
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   DAY'S END ROUNDUP
-*   Rep. Jackson Jr. says he's 'not well'
-*   DOJ seeks dismissal of House GOP’s lawsuit over Fast and Furious
+*   Paul Ryan doubles down on 'act of terror'
+*   Biden: Debate showed Romney trying to ‘politicize’ Libya deaths
+*   MORNING READ
 
   
 More Briefing Room » Congress Blog
@@ -238,51 +238,51 @@ More Briefing Room » Congress Blog
   
 More Congress Blog » Pundits Blog
 
+*   Draw
 *   Bubba and the Boss go Buckeye
 *   Decadence of victimhood
-*   Romney, Obama and the mendacity of hope
 
   
 More Pundits Blog » Twitter Room
 
-*   NBA’s Spencer Hawes endorses Romney
-*   Rep. West singles out Stacey Dash as example of courage
-*   Fake Jake Gyllenhaal tweets Romney endorsement
+*   Del. Norton misspells Obama in debate tweets
+*   Right hits Crowley for correcting Romney on Obama's 'acts of terror' remark
+*   Romney family eats together ahead of second debate
 
   
 More Twitter Room » Hillicon Valley
 
-*   Internet providers set to crack down on illegal file-sharing
-*   Coburn blasts FCC's phone subsidy as 'massive entitlement'
-*   EU regulators call on Google to modify privacy policy
+*   News bites: Google CEO speaks publicly on antitrust probes
+*   Obama, Romney trade barbs on bringing manufacturing jobs back to the US
+*   Obama accuses Romney of investing in Chinese spy companies
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Obama parries Romney on latest green bankruptcy
-*   Romney pounces as stimulus-backed auto battery-maker goes bankrupt
-*   Poll finds voters favor Obama energy policies over Romney platform
+*   Climate change a no-show again despite debate’s energy focus
+*   Romney battles Obama over energy in testy, face-to-face exchange
+*   DOE delays decision on natural-gas export license
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Gallup's daily poll finds 50 percent of likely voters prefer Romney
-*   Crossroads GPS launches effort in Maine Senate race
-*   Debate recap: Candidates spar in five races
+*   Obama, Romney woo women in debate
+*   The Hill’s 50 races to watch
+*   Romney breaks debate rule on not asking direct questions to opponent
 
   
 More Ballot Box » On The Money
 
-*   Romney adviser throws cold water on big bank breakups
-*   Homebuilder confidence hits 6-year high
-*   Retirees to get 1.7 percent cost-of-living hike in their Social Security benefits
+*   Obama saves attack on Romney's '47 percent' remarks for last
+*   Obama, Romney spar over China policy
+*   Romney: 'Mr. president, have you looked at your pension?'
 
   
 More On The Money » Healthwatch
 
-*   Analysis: Medicare plans saw quality increase
-*   Waxman to introduce bill to curb antibiotic use in livestock
-*   Planned Parenthood targets Romney with swing-state radio ad
+*   Romney bids for women's support with new abortion ad
+*   Medicare, Obama health law get short debate time
+*   'Binders full of women' goes viral
 
   
 More Healthwatch » Floor Action
@@ -294,23 +294,23 @@ More Healthwatch » Floor Action
   
 More Floor Action » Transportation
 
+*   Former Michigan Gov. Granholm glad Obama ‘called Mitt out on autos’
+*   Haley Barbour's lobbying firm representing Toyota
 *   Akin circulates video of McCaskill saying emissions reduction due to economy is 'good news'
-*   Heritage Foundation highlights Amtrak concession losses in federal spending report
-*   Aviation group wants candidates to focus on private jets in debate
 
   
 More Transportation » DEFCON Hill
 
-*   Report: Two Americans killed in latest Afghan 'insider attack'
-*   Sen. Graham demands answers on prior attacks on US Consulate in Libya
-*   Appeals court tosses conviction of former driver for bin Laden
+*   Candidates duck defense, national security in second debate
+*   Turnover threatens clubby atmosphere of House Armed Services Committee
+*   Study: Obama has more to gain than Romney from military endorsements
 
   
 More DEFCON Hill » Global Affairs
 
-*   US dubious of Cuba's intention to repeal of travel restrictions
-*   Conservative group calls for Clinton's head after Biden's remarks on Libya
-*   Republicans unmoved by Clinton's contrition on Libya
+*   Conservatives: Romney flubbed Libya
+*   Moderator Crowley helps Obama rebut Romney on Libya
+*   Report: US military overtures to Burma worry human-rights activists
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS Lanny Davis Debate advice for Obama A.B. Stoddard Democrats' happy sigh More Columnists »
