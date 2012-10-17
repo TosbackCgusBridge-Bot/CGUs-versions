@@ -84,6 +84,14 @@ Please make sure javascript is enabled in your browser homepage Billboard - Musi
 
 previous 14/14
 
+*   Eminem's 30 Biggest Billboard Hits
+    
+    Happy 40th Birthday, Eminem! And because 40 is the new 30, we're celebrating Em's birthday by ranking his 30 biggest Hot 100 hits.
+    
+*   Beyonce's Super Bowl Setlist Poll
+    
+    With Queen Bey set to rock the halftime show of Super Bowl XLVII, it's time to think about which smash singles she might perform. What would be the ideal setlist? Vote now!
+    
 *   Ke$ha: The Billboard Cover Story
     
     With "Die Young" gaining love from radio and new album "Warrior" set to hit in December, Ke$ha is back.
@@ -94,15 +102,7 @@ previous 14/14
     
 *   Jason Aldean Live Q&A
     
-    One day before Jason Aldean unleashes his brand new album "Night Train," the country hitmaker was at Billboard for a Live Q&A to talk about the new music and answer your questions live on camera.
-    
-*   Austin City Limits 2012
-    
-    Three days of mud, sweat and beer came to a close Sunday at Austin City Limits, after a weekend of performances by Weezer, Avicii, Avett Brothers, Red Hot Chili Peppers, Childish Gambino, and more. See our wrap-up of the whole festival weekend.
-    
-*   Treasure Island Festival Photos
-    
-    Public Enemy, the xx, Girl Talk, Best Coast, M83 and more performed this weekend at Treasure Island. See exclusive backstage photos from the San Francisco festival.
+    Right before Jason Aldean unleashes his brand new album "Night Train," the country hitmaker was at Billboard for a Live Q&A to talk about the new music and answer your questions live on camera.
     
 *   Bruno, Kelly, Adele: Whose Single Is Best?
     
