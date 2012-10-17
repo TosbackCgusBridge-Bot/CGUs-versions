@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   LGBT
+*   Election 2012
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -23,10 +23,10 @@ October 17, 2012 Edition: **U.S.**
 *   Politics
     
     *   LIVE UPDATES: Obama, Romney Face Off In Presidential Debate 43k
-    *   Obama Gets Aggressive In Rematch Against Mitt Romney 7k
+    *   Obama Gets Aggressive In Rematch Against Mitt Romney 10k
+    *   POLL: Who Won The Debate? 2k
     *   High Court Sides With Obama In Huge Election Win 15k
-    *   POLL: Who Won The Debate? 1k
-    *   WATCH LIVE: Presidential Debate Live Streaming Online 347
+    *   Obama Saves 47 Percent For Last 4k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 17, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   Volunteer On Ryan Soup Kitchen Visit: 'Phoniest Piece Of Baloney I've Ever Been Associated With' 7k
+    *   Volunteer On Ryan Soup Kitchen Visit: 'Phoniest Piece Of Baloney I've Ever Been Associated With' 8k
     *   PANDIT OUT 1k
-    *   The Shocking Way The Super-Rich Are Selling Their Homes 618
-    *   FedEx's $5,000 Gamble. Literally. 304
-    *   Notorious Bankrupt Company Blames Chinese Companies For Failure 2k
+    *   The Shocking Way The Super-Rich Are Selling Their Homes 633
+    *   Lots Of Smart People Say Romney's Tax Plan Math Doesn't Work 47
+    *   Taibbi: Romney, Ryan Tax Plan 'Should Be Slaughtered By The Press' 894
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 17, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   LOOK: Hollywood Tweets The Debate 50
+    *   LOOK: Hollywood Tweets The Debate 107
+    *   PHOTO: Beyonce Makes It Official 412
+    *   What Really Happened At The End Of 'The Dark Knight Rises'? 325
     *   Sarandon Assaulted As A Young Actress 2k
-    *   What Really Happened At The End Of 'The Dark Knight Rises'? 308
-    *   PHOTO: Beyonce Makes It Official 355
-    *   3 Hollywood Moguls Donate $90 Million To Charity 145
+    *   3 Hollywood Moguls Donate $90 Million To Charity 169
     
     Go to Entertainment **More in Entertainment**
     
@@ -87,10 +87,10 @@ October 17, 2012 Edition: **U.S.**
 *   Tech
     
     *   Hackers Identify Alleged Cyberbully Who Tormented Amanda Todd 3k
-    *   WATCH: Stratospheric Skydiver Spins Out Of Control 849
-    *   The New Boxee Could Straight-Up Kill Cable 208
-    *   Apple Sends Out Invitations For Event Next Week 224
-    *   WATCH: Stunning Google Doodle Celebrates Legendary Cartoonist 102
+    *   The New Boxee Could Straight-Up Kill Cable 423
+    *   WATCH: Stratospheric Skydiver Spins Out Of Control 853
+    *   Apple Sends Out Invitations For Event Next Week 238
+    *   9 Accessories To Complete Your iPhone 5
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 17, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   WATCH: Candy Crowley Fact Checks Mitt Romney On Libya 17k
-    *   WATCH: Mitt Romney Barrels Over Candy Crowley 3k
-    *   MSNBC's Felix Baumgartner Fail 540
-    *   Secret Presidential Debate Contract Released 3k
-    *   Regis Philbin Agrees With Romney 790
+    *   WATCH: Candy Crowley Fact Checks Mitt Romney On Libya 33k
+    *   WATCH: Mitt Romney Barrels Over Candy Crowley 6k
+    *   Regis Philbin Agrees With Romney 853
+    *   WATCH: CNN Anchor Kicks Off Anti-Gay Guest 706
+    *   MSNBC's Felix Baumgartner Fail 557
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 17, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   No, You Can't Read Prince Charles' Letters 114
+    *   No, You Can't Read Prince Charles' Letters 126
     *   Clinton: I'm Responsible For Consulate Security 7k
-    *   50 Years Later, New Secrets Of The Cuban Missile Crisis Emerge 751
-    *   Teenage Girl Publicly Whipped For Speaking To Men 788
-    *   Chinese Warships Put Japan On Edge 569
+    *   Teenage Girl Publicly Whipped For Speaking To Men 904
+    *   U.S. Arrests Daughter Of Notorious Mexican Drug Lord 125
+    *   Pussy Riot Doomed To Notorious Russian Prison 355
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 17, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Kay Lost Almost 140 Pounds: 'I Feel Like I've Been Given A Second Chance' 104
-    *   How Being A Woman Affects Your Workout 18
-    *   7 Reasons To Eat Breakfast 14
-    *   The Healthiest Salad Greens 88
-    *   Vitamin C Could Be Good For Bones 10
+    *   Kay Lost Almost 140 Pounds: 'I Feel Like I've Been Given A Second Chance' 106
+    *   How Being A Woman Affects Your Workout 19
+    *   7 Reasons To Eat Breakfast 19
+    *   The Healthiest Salad Greens 93
+    *   Vitamin C Could Be Good For Bones 11
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -173,10 +173,10 @@ October 17, 2012 Edition: **U.S.**
 *   Style
     
     *   PHOTOS: Kim Kardashian Goes Commando, Exposes Rear In Sheer Skirt With Kanye West 1k
+    *   WATCH: Chelsea Handler Points Out Jennifer Aniston's Nipples On TV 289
     *   Angela Lansbury Rocks Our Old Souls 47
-    *   WATCH: Chelsea Handler Points Out Jennifer Aniston's Nipples On TV 282
-    *   PHOTO: Lana Del Rey's Photoshop Nightmare 23
-    *   PHOTOS: Ann Romney &. Michelle Obama Wear Matching Pink Outfits To Debate 305
+    *   PHOTOS: We Totally Would've Crashed ELLE's Women In Hollywood Party
+    *   PHOTO: Gap Pulls Controversial T-Shirt After Huge Outcry 546
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 17, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
+    *   PHOTOS: The Coolest Pop Culture Jack-O-Lanterns
+    *   Sarah Silverman's Dad Fires Back At Rabbi's Scathing Letter 774
     *   Former SNL Star: 'If I Was Raped, I Would Have The Baby' 2k
-    *   Sarah Silverman's Dad Fires Back At Rabbi's Scathing Letter 637
-    *   EXCLUSIVE: Bill Maher's New Rule For 'Fox &. Friends' 1k
-    *   42 Animals Who Are Watching You 42
-    *   WATCH: Jon Stewart Skewers Fox News' Hysterical VP Debate Response 1k
+    *   EXCLUSIVE: Bill Maher's New Rule For 'Fox &. Friends' 2k
+    *   42 Animals Who Are Watching You 43
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 17, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next DEBATE: Big Moments
-    *   Next DEBATE: Foreign Policy
-    *   Coming Up DEBATE: Domestic Policy
-    *   Coming Up Veterans React To Debate
-    *   Coming Up Domestic Policy DebateGo to HuffPost Live
+    *   Now OtherVoices: Immigration
+    *   Next OtherVoices: Outsourcing
+    *   Coming Up OtherVoices: You Decide!
+    *   Coming Up Gaming The System
+    *   Coming Up The 51st State?Go to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
