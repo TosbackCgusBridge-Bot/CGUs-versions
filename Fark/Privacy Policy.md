@@ -147,49 +147,49 @@ Headlines of the Week
 **From the Fark Shop:**
 
 *     
-    Fark - Messenger Bag
+    Good Luck. We're All Counting on You.
 *     
-    Einsteinian Gluons Sticky Notes
+    Bump-N-Go Cybermat
 *     
-    Satan Knit Mask
+    Salty the Snowman
 *     
-    Ford GT (Silver/Black Stripes) Wireless Road Mice
+    Student Drinker
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
 Two-Year-Old Girl Insults Kate Middle...  
+11 Reasons to Get 'Pinterested'  
 Fancy Your Own Custom Horrow Bowling...  
-Hilarious Wedding Bloopers Compilatio...  
-Photographer Sues Apple For Using Her...  
+25 Bizarre Vintage Alcohol Ads  
 More news at Scribol »  
   
   
-Rainn Wilson's Reddit AMA  
-Joel McHale Watch: SOA Tonight  
-More Vin Diesel Facebook Page  
-Rolling Stones Songs You're Not Sick Of  
-More news at UPROXX »  
+Flavor Flav Arrested for Assault with...  
+Michelle Obama vs. Ann Romney: Who'd...  
+Britney Spears' Lawyers -- Sam Lutfi'...  
+Sarah Silverman's Dad -- UNLOADS on R...  
+More news at TMZ »  
   
   
-Bananas: Rachel Zoe's Life Being Turn...  
-Scott Brown Pays Homeless To Be His "...  
-Angelina Jolie On Malala Yousafzai, 1...  
-Hot Links: Did Hulk Hogan Leak His Ow...  
-More news at The Frisky »  
+We Show It ALL  
+5 Dumbest Moments of the 2nd Presiden...  
+Sexy Geeky Fun  
+Kathie Lee Drops Puppy  
+More news at truTV »  
   
   
-Pretty Reckless Singer Taylor Momsen...  
-Oops! Jennifer Lopez Has A Nip Slip O...  
-Beyonce To Headline Super Bowl XLVII...  
-Gwyneth Paltrow, 40, Stuns In A Black...  
-More news at Starpulse »  
+Forza Horizon's Rally Expansion Pack...  
+Astro Updates Its A40 Headset For 2013  
+Tonight 6:30/5:30c On X-Play: Halo 4...  
+Obsidian's Project Eternity Kickstart...  
+More news at G4TV »  
   
 
 Also on Fark
 
-Main Man taken to hospital with a gunshot wound A) Dies before getting in the door, B) Passes out due to the loss of blood, or C) Punches a doctor and nurse ( theoaklandpress.com ) » (10 comments) Sports Vikings set to invade England. This is not a repeat from 793 AD ( sports.yahoo.com ) » (7 comments) Business Larry Sloan, co-\_\_\_\_\_\_\_\_\_ of Mad Libs, \_\_\_\_\_\_\_\_\_ at age 89. He will be \_\_\_\_\_\_\_\_\_\_\_ ( latimes.com ) » (5 comments) Geek How to see Uranus this weekend: Step 1 is NOT "sit on a telescope" ( foxnews.com ) » (34 comments) Entertainment R. Kelly trapped in the closet again. You'd think by now he'd have a map ( huffingtonpost.com ) » (11 comments) Politics Jimmy Kimmel asks people who couldn't have watched the debate, "Who won the debate?" ( youtube.com ) » (16 comments) Video "Ultralights don't weigh much" claims aspiring news reporter covering accident that claimed two lives ( wtsp.com ) » (8 comments)
+Main Kate Gosselin fired from gig as blogger for CouponCabin after "outrageous demands", thus marking the "Puppet Show And Spinal Tap" phase of her 'career' ( radaronline.com ) » (41 comments) Sports To win their 41st AL Pennant, the Yankees must act like the Red Sox ( foxnews.com ) » (96 comments) Business East Hampton landlord claims that those cameras in the outdoor shower, air-conditioning vent and baseboard heater were only for security ( nypost.com ) » (5 comments) Geek 25 primates are now on the brink of extinction. Sadly, this can mean only one thing - McDonald's is about ready to bring back the McRib ( huffingtonpost.com ) » (9 comments) Entertainment Your favourite comedy franchise of the 80s is getting a reboot Okay, not that one. Or that one...actually yeah you're never going to get it ( shortlist.com ) » (26 comments) Politics Actual Headline: Split Decision on Debate... Check article... Yah, Obama won 46 to 39 ( politicalticker.blogs.cnn.com ) » (37 comments) Video Sandra Bullock gets naked in the shower with Chelsea Handler ( frogsoda.com ) » (11 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -199,5 +199,5 @@ Main Man taken to hospital with a gunshot wound A) Dies before getting in the do
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 17 2012 08:00:19  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 17 2012 13:00:31  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
