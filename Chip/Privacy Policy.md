@@ -259,7 +259,7 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 *   CHIP-Kiosk
 
 Top News des Tages **iPad mini:**  
-Preise und weitere Details geleakt
+Apple-Event am 23. Oktober
 
 *   Download-Ticker
 *   Best of Downloads
@@ -268,21 +268,21 @@ Preise und weitere Details geleakt
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 JonDoBrowser 0.2 Beta Deutsch Freeware
-*   2 Free Studio 5.7.6 Deutsch Freeware
-*   3 Dolphin Olympics 2 - Flipper meets Tony Hawk 2.0 Englisch Freeware
-*   4 Core Temp 1.0 RC4 Deutsch Freeware
-*   5 Schwarzbuch 2012 Deutsch Freeware
+*   1 CleverPrint 2013 Free 4.3.0 Deutsch Adware
+*   2 O&O DiskImage Pro 7.0 Final Deutsch Demo
+*   3 BEETmobile Hotspot 1.0.19.0 Deutsch Freeware
+*   4 BWMeter 6.3.0 Englisch Shareware
+*   5 SkipScreen für Firefox 0.7.0 Deutsch Freeware
 
 ...mehr
 
 **RSS-Feed** Download-Tipps der Redaktion
 
 *   1 Spiele-Vollversionen: Kostenlos zum Download
-*   2 Top 100: Die beliebtesten Downloads auf Deutsch
-*   3 Die besten kostenlosen Horror-Games
+*   2 Die besten kostenlosen Horror-Games
+*   3 Top 100: Die beliebtesten Downloads auf Deutsch
 *   4 Top 33: Die besten Herbst-Downloads
-*   5 Downloads des Verderbens: Vorsicht bei diesen Tools
+*   5 Tools, die kaum einer kennt: 33 geniale Gratis-Downloads
 
 ...mehr
 
@@ -315,21 +315,21 @@ Sponsored Links
 **RSS-Feed** Die beliebtesten Produkte
 
 *   Samsung Galaxy S3 GT-I9300 16GB  
-    ab 465,00 €
+    ab 450,00 €
     
     *   Test
-*   Samsung Galaxy Note 2 N7100  
+*   Samsung Galaxy Note 2 N7100 16GB  
     ab 557,98 €
     
 *   Samsung Galaxy S2 i9100  
-    ab 332,01 €
+    ab 318,88 €
     
     *   Test
 *   Samsung Galaxy S Duos  
     ab 245,90 €
     
 *   Samsung Galaxy Nexus I9250  
-    ab 309,00 €
+    ab 307,00 €
     
     *   Test
 
@@ -343,10 +343,10 @@ Alle CHIP Online Feeds im Überblick
 
 Meistgelesene Themen
 
-*   Samsung SSDs gewinnen und alten Rechner neu lieben lernen
+*   502 Bad Gateway was bedeutet das?
 *   Tastatur umstellen Englisch/Deutsch
+*   Samsung SSDs gewinnen und alten Rechner neu lieben lernen
 *   Facebook knacken leicht gemacht...
-*   iPhone 5 bei Preis24.de gibt es n Hacken ?!
 *   GVU 2.07 virus entfernen
 
 ...mehr
@@ -383,9 +383,9 @@ Alle CHIP Online Feeds im Überblick
 
 *   1 iPhone 5 gegen Galaxy S3  
     
-*   2 iPhone 5 Praxis-Test  
+*   2 Samsung Galaxy Note 2 - Praxis-Test  
     
-*   3 Samsung Galaxy Note 2 - Praxis-Test  
+*   3 iPhone 5 Praxis-Test  
     
 *   4 Fußball Live Stream mit SopCast  
     
