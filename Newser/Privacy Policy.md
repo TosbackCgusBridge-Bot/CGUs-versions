@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   Election 2012
+    *   Mitt Romney
     *   Obama 2012
     *   Mitt Romney 2012
-    *   Mitt Romney
     *   presidential debate
     *   President Obama
     *   entertainment
     *   Barack Obama
     *   celebrity
-    *   Romney 2012
+    *   timeless news
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -120,8 +120,8 @@ COMMUNITY
 NEWS FROM OUR PARTNERS
 
 *   Acts of Terrorâor an Error?
-*   The Hofstra Debate Through the Eyes of the Pundits
 *   Why Mitt Romneyâs Massachusetts Education Plan Backfired
+*   How Lance Armstrong Is Like Lehman Bros.
 
 More from Slate »
 
@@ -131,9 +131,9 @@ More from Slate »
 
 More from HuffPost Weird »
 
-*   A Well-Deserved Medal For Kicking Cancerâs Ass
-*   Hitched: Our Officiant Got Ordained Online
-*   Solve Chapped Lips Like A Surf Pro
+*   16 Strange. Weird And Wonderful Halloween Decorations
+*   5 Gross Things Men Do That Women (Kind Of) Donât Mind
+*   Who Wore It Better?: The First Lady Faces Off Against Ann...
 
 More from The Frisky »
 
@@ -149,9 +149,9 @@ More from Fark »
 
 More from The Week »
 
+*   Great Moments in âFailed Attempts at Not Looking Ridiculousâ
 *   Kristina OâNeill Replaces Deborah Needleman at WSJ.
 *   New York Observer Sides With Father-in-Law Donald Trump on...
-*   Frank Rich on the National Circus: Obama the Alpha Dog
 
 More from Daily Intel »
 
@@ -173,9 +173,9 @@ More from Celebuzz »
 
 More from The Stir »
 
+*   Lance Armstrong Gone from Nike, Livestrong
 *   Harper's Bazaar Editor Heads to WSJ.
 *   Dear God, Save Me From the Monsters in the Drambuie Ad
-*   Humans Get the Paint Job in Artsy Ads for Motorcycle Shows
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
