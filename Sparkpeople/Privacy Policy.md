@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   What Is The Recommended Calorie Intake Resources
+*   What Is Sour Salt Resources
 
   
-Stay in Touch With SparkPeople SPARKPEOPLE OFFER: **Sun Protection Tips for Healthy Skin**
+Stay in Touch With SparkPeople **4 Signs It's Time to Change Your Workout Routine**
 
-Did you know that a tan is actually a sign of skin damage? It's more important than ever to protect your skin from real and artificial sunlight. Here's how.
+Exercise shouldn't be a chore that you dread! To stay motivated, change your workout routine whenever these warning signs arise.
 
 Read More
 
-*   Please share your favorite "pumpkin" recipes!
-*   Self Control - Can it be taught?
 *   Why the scale isn't a good indicator of health.
-*   What Do You Do For Emotional Eating ?
 *   Need Ideas for working out at home
+*   What's your "go to" type of workout?
+*   Relationships and a Healthy Lifestyle
+*   Please share your favorite "pumpkin" recipes!
 
 View Demo **Lying Triceps Lifts**  
-Tone your triceps without the weights? After enough reps of these, we'll turn you into a believer! **Cheddar-Stuffed Black Bean and Mushroom Burgers**  
-Submitted By: **SP\_STEPF**
+Tone your triceps without the weights? After enough reps of these, we'll turn you into a believer! **Parmesan Chicken with Tomato-Basil Salad (Chef Meg's Makeover)**  
+Submitted By: **CHEF\_MEG**
 
-These burgers are rich and meaty, the kind of burger that vegetarians have been craving. Even meat eaters will appreciate these tasty and fiber-rich burgers. Full Recipe
+While Chicken Parmesan is traditionally fried, this lighter version is delightful atop a hearty green salad. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
