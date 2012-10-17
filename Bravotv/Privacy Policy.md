@@ -2,7 +2,7 @@ Bravo
 
 *   Shows &. Schedules
     
-    *   Flipping Out Sleepover with Jeff and Jenni Tuesdays @ 10/9c
+    *   Life After Top Chef Fabio's Mom is Worried Wednesdays 10/9c
     
     Current
     
@@ -29,7 +29,7 @@ Bravo
     *   New 11:00 PM Watch What Happens LiveGina Gershon &. Jackie WarnerSee All Shows » See Full Schedule »
 *   People &. Blogs
     
-    *   Read Jenni Pulos's Latest Post Zoila's Tear-Filled Therapy Session
+    *   Read The Dish's Latest Post Tips for Being a Bevery Hills Housewife
     
     Current Bravolebrities
     
@@ -63,18 +63,18 @@ Bravo
     *   Teresa Giudice
     
     Recent Blog Posts
-    *   The Dish Patti Questions Jen Aniston Engagement
-    *   The Dish Sonja Morgan: 'I Just Felt Unheard'
-    *   Melissa Gorga The Teresa-Kim Set-UpAll People » More Blog Posts »
+    *   Kathy Wakile Lessons from RHONJ
+    *   The Dish Getting Cat Crazy With 'LOLwork' Cast
+    *   The Dish Lea Black's Happy Marriage SecretsAll People » More Blog Posts »
 *   Videos &. Full Episodes
     
-    *   Watch What Happens Live After Show: Prank Call!
+    *   The Real Housewives of Beverly Hills How to be A Housewife: Brandi
     
     Recent Clips
     
-    *   Watch What Happens Live After Show: Most Embarrassing Moments
-    *   Watch What Happens Live Pin the Tail on the Pirate's Booty
-    *   Watch What Happens Live The Hills No Lies
+    *   The Real Housewives of Beverly Hills How to be A Housewife: Kim
+    *   The Real Housewives of Beverly Hills How to be A Housewife: Kyle
+    *   The Real Housewives of Beverly Hills How to be A Housewife: Taylor
     
     New Full Episodes
     *   The Real Housewives of New Jersey Episode 21: Reunion Part 1
@@ -284,22 +284,22 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   LIFE AFTER TOP CHEF NO FOOD DEED GOES UNPUNISHED
+*   TOP CHEF SERVE AND PROTECT - SAM TALBOT
     
-    7:00 AM ET
+    12:00 PM ET
     
-*   TOP CHEF TAILGATING - KOREN GRIEVESON
+*   TOP CHEF RESTAURANT WARS - JOSE ANDRES
     
-    8:00 AM ET
+    1:00 PM ET
     
 
-view complete schedule The Dish - Bravo's Daily News Patti Questions Jen Aniston Engagement
+view complete schedule The Dish - Bravo's Daily News Tips for Being a Bevery Hills Housewife
 
-Will the superstar couple really make it down the aisle?
+Exclusive Videos: Learn how to live like Kim, Kyle, Taylor and Brandi.
 
-Read More Foods Gail Simmons &. Eric Ripert Hate
+Read More Getting Cat Crazy With 'LOLwork' Cast
 
-Exclusive: The hot foodies talk painful 'Top Chef' eliminations and more on set of Eric's 'On the Table'
+The stars of our new show opine on all things feline.
 
 Read More More Dish Get insider Bravo news in our weekly update!
 
@@ -322,11 +322,11 @@ More Features
 
 Bravolebrities to Watch
 
+*   Adriana De Moura
 *   Aviva Drescher
 *   Carole Radziwill
 *   Caroline Manzo
 *   Jacqueline Laurita
-*   Kathy Wakile
 *   Kenya Moore
 *   Melissa Gorga
 *   Porsha Stewart
