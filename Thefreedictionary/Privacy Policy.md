@@ -1,4 +1,4 @@
-Printer Friendly Dictionary, Encyclopedia and Thesaurus - The Free Dictionary4,321,965,066 visitors served. forum Join the Word of the Day Mailing List For webmasters **TheFreeDictionary Google Bing** ? Word / Article Starts with Ends with Text Dictionary/  
+Printer Friendly Dictionary, Encyclopedia and Thesaurus - The Free Dictionary4,324,935,447 visitors served. forum Join the Word of the Day Mailing List For webmasters **TheFreeDictionary Google Bing** ? Word / Article Starts with Ends with Text Dictionary/  
 thesaurus Medical  
 dictionary Legal  
 dictionary Financial  
