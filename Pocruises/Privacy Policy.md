@@ -6,7 +6,7 @@ Skip header
 *   Contact us
 *   Find a travel agent
 
-Skip main navigation Main menu Control Time: 1:11:07 PM Skip main navigation
+Skip main navigation Main menu Control Time: 6:02:00 PM Skip main navigation
 
 *   Home1
 *   Find &. book cruises
@@ -355,11 +355,11 @@ Find us on
 
 This website uses cookies to give you the very best user experience. By using our website, you agree that we can place cookies on your device. For more information see the 'About Cookies' link at the bottom of this page.
 
-Server = NTWEB006B  
+Server = NTWEB006  
 Country In Session (from GeoIP Sniffer) = UK  
 Show AU Content setting = True  
 X\_Forwarded\_FOR = 184.106.117.173  
 User IP = 10.35.0.246  
-SessionID = 4btqkq551acduijw2zpwrb45  
-RenderTime = 00:00:00.3593750  
-Page rendered at 2012-10-17T13:11:07 Back to top of page
+SessionID = ephbpl45urcdhq45zoi21y45  
+RenderTime = 00:00:00.2656250  
+Page rendered at 2012-10-17T18:02:00 Back to top of page
