@@ -16,7 +16,7 @@ Skip to content
 *   Gift Center
 *   T-Shirts
 
-**Search** Double High Five! $5 OFF 2+ Ornaments! Today Only!   Use Code: FIVEOFFDEAL2   (details) Check out Zazzle Instant, our new app for making fun products! Ok Zazzle Privacy Policy Policies
+**Search** Digital High Five! $5 OFF Cases! Today Only!   Use Code: FIVEOFFDEAL3   (details) Check out Zazzle Instant, our new app for making fun products! Ok Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
