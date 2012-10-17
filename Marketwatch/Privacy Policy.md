@@ -1,8 +1,8 @@
-Bulletin Exxon to pay $3.14 bln for Canada's Celtic Exploration Investor Alert
+Bulletin Investor Alert
 
-New York Markets Open in:
+New York Markets Close in:
 
-Pre-Market Indications Analyst Ratings Oil News EarningsWatch
+After Hours Preview Winners and Losers Today's Schedule
 
 Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
@@ -198,91 +198,91 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 17, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 12:56 PM EDT October 17, 2012 /marketstate/country/us New York Open /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:01a
+/news/latest1.  12:52p
     
-    Fall TV shows spark NBC early but 3 dangers loom
+    Wednesdayâs biggest gaining and declining stocks
     
-2.  8:01a
+2.  12:49p
     
-    Updates, advisories and surprises
+    Intel, IBM spark corporate-demand jitters
     
-3.  8:00a
+3.  12:48p
     
-    Abbott Q3 net $1.21 vs. 19c
+    Is $250K a middle-class income?
     
-4.  8:00a
+4.  12:42p
     
-    Abbott Q3 sales $9.77 bln, down 0.4%
+    Los Angeles assessor nabbed for corruption
     
-5.  8:00a
+5.  12:41p
     
-    Abbott Q3 adj. net $1.30 vs $1.18
+    Gold climbs on softer dollar, demand prospects
     
-6.  8:00a
+6.  12:40p
     
-    Coming up: U.S. housing starts for September
+    SEC charges hedge fund with exaggerating returns
     
-7.  7:53a
+7.  12:34p
     
-    PepsiCo profit falls 4.9%
+    Radio Update: Stocks narrowly mixed
     
-8.  7:53a
+8.  12:33p
     
-    Northern Trust profit climbs by nearly 5%
+    Euro-zone hopes to tamp down Spain bailout fund
     
-9.  7:50a
+9.  12:28p
     
-    Spain boosts Europe stocks after Moodyâs rating
+    Euro rises, but donât credit the EU summit
     
-10.  7:50a
+10.  12:28p
     
-    Exxon Mobil to buy Canada's Celtic Exploration
+    Norilsk: Low nickel prices threaten global output
     
-11.  7:50a
+11.  12:28p
     
-    Big earnings to watch Wednesday: B. of A., AmEx
+    Post-AIG derivatives rules drafted by SEC
     
-12.  7:50a
+12.  12:25p
     
-    Dover profit rises 40%, but firm trims outlook
+    Bank of America seesaws as investors weigh results
     
-13.  7:48a
+13.  12:24p
     
-    Halliburton profit falls 12%
+    Kasikornbank 3rd-quarter profit climbs 18.7%
     
-14.  7:47a
+14.  12:22p
     
-    Diamond ETFs seen riskier than other commods Funds
+    Rosneft to meet with BP in London over TNK-BP
     
-15.  7:46a
+15.  12:20p
     
-    U.S. Bancorp profit rises on mortgage revenue
+    PepsiCo pours lower profit. shares dip
     
-16.  7:45a
+16.  12:20p
     
-    Northern Trust Corp. Q3 net 73c vs 70c
+    Siemens wins train contract for Kuala Lampur metro
     
-17.  7:45a
+17.  12:18p
     
-    Quest Diagnostics' quarterly profit falls 5.1%
+    U.S. stocks get housing lift, earnings lag
     
-18.  7:43a
+18.  12:17p
     
-    St. Jude Medical profit falls
+    Xstelos to vote against Nabi, Biota merger
     
-19.  7:39a
+19.  12:16p
     
-    Halliburton profit falls, sees higher U.S. costs
+    Turk Telekom quarterly profit climbs 77%
     
-20.  7:37a
+20.  12:15p
     
-    Radio update: Consumers gear up for the holidays
+    India, Pakistan say gas-pipeline project on track
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,551.78 +127.55 +0.95% nasdaq /quotes/zigman/123127 3,101.17 +36.99 +1.21% s&p 500 /quotes/zigman/3870025 1,454.92 +14.79 +1.03% Kiosk
+dow /quotes/zigman/627449 13,542.51 -9.27 -0.07% nasdaq /quotes/zigman/123127 3,110.30 +9.12 +0.29% s&p 500 /quotes/zigman/3870025 1,461.06 +6.14 +0.42% Kiosk
 
 *   1341573300000 1341592200000
     
@@ -291,27 +291,30 @@ dow /quotes/zigman/627449 13,551.78 +127.55 +0.95% nasdaq /quotes/zigman/123127 
     Â  Dave Ramsey  
     Cutting the family budget  
     When it comes to taking control of your money and living on a budget, you have to pick and choose what to spend and what to cut back on.Â  /conga/kiosk/marketfox.html 231105
-*   1339754400000 1340010000000
+*   1332374700000 1332461400000
     
-    Investing
+    The Trading Deck
     
-    Natural-gas cars flooring it  
-    Several stocks are showing up on Wall Streetâs radar as a way to cash in on cleaner fuel as more vehicles switch from gasoline and diesel to natural gas. /conga/kiosk/investing.html 230638
+    scott rothbort  
+    7 reasons to own CBS  
+    Back in 2006, Viacom split into two companies: Viacom and CBS. Is bigger (Viacom) better? I don't think so. I prefer CBS. Here are the reasons why.  
+    /conga/kiosk/trading-deck-5.html 231281
 *   1347087600000 1347213600000
     
-    Medicare
+    Personal Finance
     
-    Find the right drug plan  
-    There are plenty of changes, but the 49 million Americans who use Medicare should focus on prescription plans during open enrollment.  
-    /conga/kiosk/wildcard2.html 230634
+    Banking for preschoolers  
+    Why banks and money-management sites are vying for kidsâ cash. Think Mint.com for kindergartners.  
+    â¢ Why your kids need a Roth IRA  
+    /conga/kiosk/wildcard2.html 231268
 *   1309191300000 1309248000000
     
-    Food
+    Retirement
     
-    5 new food trends for 2013  
-    Hereâs what caught our attention at this yearâs Food Network New York City Wine &. Food Festival.  
-    â¢ Food festivals: the new trendsetters  
-    /conga/kiosk/wildcard3.html 231087
+    Price-cut war in your 401(k)  
+    Facing new cost-disclosure rules, some mutual funds are creating cheaper share classes for retirement plans.  
+    â¢ Retirement funds that offer stability  
+    /conga/kiosk/wildcard3.html 231271
 
 MarketWatch.com
 
