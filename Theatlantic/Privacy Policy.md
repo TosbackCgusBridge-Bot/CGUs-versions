@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Wednesday, October 17, 2012 Go Follow the Atla
 *   Magazine
 *   video
 
-Presented by The GOP Grannies Who Love Paul Ryan Molly Ball Koch Brothers Give Workers Vote Suggestions David A. Graham Top Dems: Obama Needs a Vision, Fast Ronald Brownstein Making a Better Future for Our Children Mohamed A. El-Erian Why We Don't Run America Like a Business Jordan Weissmann Where the World's Millionaires Live Derek Thompson Why MTV's Smart New Show Might Be Doomed Judy Berman What Funny Women Teach One Another Ashley Fetters The Golden Globes One-Up the Oscars Kevin Fallon The Global Risks of Iran's Sinking Economy Charles Recknagel Havana and the Other Cuba Lois Farrow Parshley How Mo Yan Is Transforming Chinese Literature Mei Fong 'SNL' Satirizes iPhone 5 Complaints Megan Garber Got Motion Sickness? NASA Has Your Back Megan Garber Energy and Foreign Affairs, Inseparable Alexis Madrigal A Coming Change in Teaching Technology Deborah Reck and Deb Sabin AP Classes Are a Scam John Tierney Should We Pay Kids to Read? James Warren Dr. Seuss's WWII Foray Into Public Health Lindsay Abrams The Sordid Sale of Screening Tests John Henning Schumann PMS and the Wandering Womb James Hamblin Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by The Psychology of Big Wave Surfing Kasia Cieplak-Mayr von Baldegg The Genesis of 'Looper': Pitch Reel Kasia Cieplak-Mayr von Baldegg Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
+Presented by The Amazing True Story of the Libya Attacks Garance Franke-Ruta Axelrod to Blame for Dem Climate-Change Silence? Climate Desk Obama's Ads Work. Romney's, Not So Much Molly Ball Making a Better Future for Our Children Mohamed A. El-Erian Why We Don't Run America Like a Business Jordan Weissmann Where the World's Millionaires Live Derek Thompson Why MTV's Smart New Show Might Be Doomed Judy Berman What Funny Women Teach One Another Ashley Fetters The Golden Globes One-Up the Oscars Kevin Fallon What the Chinese Worry About Most Lily Kuo &. Ritchie King What Diplomats Still Don't Get About Social Media Brian Fung Protesting Putin Can Land You in a Psych Ward Maryana Torocheshnikova and Claire Bigg Breathtaking Video of the Earth From Space Kasia Cieplak-Mayr von Baldegg A 100,000-Mile Tall Solar Explosion Rebecca J. Rosen Mansplaining, the Tumblr Megan Garber A Coming Change in Teaching Technology Deborah Reck and Deb Sabin AP Classes Are a Scam John Tierney Should We Pay Kids to Read? James Warren Just Vaccinate Our Kids Against HPV Lindsay Abrams PMS and the Wandering Womb James Hamblin Keeping the 'Mentally Incompetent' From Voting Kimberly Leonard Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by The Psychology of Big Wave Surfing Kasia Cieplak-Mayr von Baldegg The Genesis of 'Looper': Pitch Reel Kasia Cieplak-Mayr von Baldegg Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -114,26 +114,26 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 Washington, DC 20037
 
 Special Report The Atlantic The Energy Puzzle  
-_The Atlantic_'s Alexis Madrigal talks with the entrepreneurs shaping our future. Read more › Just In Brendan Hasenstab 8:01 AM ET Track of the Day: 'Stonehaven' 1350475269 Voices
+_The Atlantic_'s Alexis Madrigal talks with the entrepreneurs shaping our future. Read more › Just In John Tierney 12:30 PM ET Is Your Sign Talking to Me? 1350491439 Voices
 
+*   Alexis C. Madrigal Solving Solar's Biggest Problem Didn't Take… 12:16 PM ET
+*   Derek Thompson Real-Talk, Non-BS Answers to the Presidential… 10:55 AM ET
+*   Garance Franke-Ruta Binders Full of Women: A Meme That Means Something 9:02 AM ET
+*   Jeffrey Goldberg The Benghazi Embarrassment 8:43 AM ET
 *   Clive Crook Obama Returns to Form 2:02 AM ET
-*   Garance Franke-Ruta Obama Brings the Fight 12:49 AM ET
 *   James Fallows The Picture That Encapsulates the Debate Oct 16, 2012
 *   Robert Wright Obama's Triumph Oct 16, 2012
 *   Ta-Nehisi Coates Liveblogging the Second Presidential Debate Oct 16, 2012
-*   Derek Thompson What Obama Should Say Tonight—and What… Oct 16, 2012
-*   Jeffrey Goldberg So Who Exactly Is the Archetypal Long Island… Oct 16, 2012
-*   Alexis C. Madrigal JFK's Doodles From a Meeting at the Height of the… Oct 16, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 
 Correspondents
 
+*   Garrett Epps Why Obama and Romney Don't Talk About the Supreme Court
+*   Andrew Cohen This Month in Terror Law: Salim Hamdan Wins Again!
 *   James Warren Should We Pay Kids to Read?
-*   Wendy Kaminer The Danger of Banning Anti-Zionist Protests
-*   Andrew Cohen It's Time For California To End Its Death Penalty
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos A Trip to the Faroe Islands Oct 16, 2012 Video Watch a 1962 Newsreel Reporting the Cuban Missile Crisis in Progress How the CIA Found Missile Sites in Cuba Your Life Work: Photography (1946) Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos A Trip to the Faroe Islands Oct 16, 2012 Video A Smarter Way to Move Information: APIs Explained With Shipping Containers Visualizing the Language of the Debates The 24-Hour Book Launch Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -162,63 +162,63 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Fact Checking Mitt Romney's Women Binders  
+*   The End of Color Is the Social Media Bubble Bursting Before Our Eyes  
     
-*   'Binders Full of Women' Won the Debate  
+*   Report: Muammar Qaddafi May Have Been Executed By Rebels  
     
-*   The Green Party Tried and Failed to Participate in Tonight's Debate  
-    
-
-Last Update: 7:24 AM
-
-*   If Grannies Did Graffiti, It Might Look Like This  
-    
-*   How Cuba's Arts Schools Were Disgraced  
-    
-*   An Urban Moon Bounce for Paris  
+*   How Australia's Prime Minister Expanded the Meaning of Misogyny  
     
 
-Last Update: 6:46 PM Most Popular
+Last Update: 12:37 PM
+
+*   Fear of a Tiny Apartment  
+    
+*   The World's Weirdest Bikes  
+    
+*   Those New City Fees Are Likely Permanent  
+    
+
+Last Update: 4:55 PM Most Popular
 
 1
 
-Why We Shouldn't Be Surprised Obama Is Falling Behind
+Binders Full of Women: A Meme That Means Something
 
 2
 
-Obama's Triumph
+The Benghazi Embarrassment
 
 3
 
-The Picture That Encapsulates the Debate
+Why We Shouldn't Be Surprised Obama Is Falling Behind
 
 4
 
-A Trip to the Faroe Islands
+The Amazing Story of What Happened in Libya
 
 5
 
-AP Classes Are a Scam
+Why Obama and Romney Don't Talk About the Supreme Court
 
 6
 
-Pointless Shame: The English-Speaking World's Issue With Women's Breasts
+A Trip to the Faroe Islands
 
 7
 
-Dark Social: We Have the Whole History of the Web Wrong
+Real-Talk, Non-BS Answers to the Presidential Debate Questions
 
 8
 
-Have You Ever Tried to Sell a Stolen Painting?
+The Picture That Encapsulates the Debate
 
 9
 
-Liveblogging the Second Presidential Debate
+Solving Solar's Biggest Problem Didn't Take Technology Development
 
 10
 
-The Amazing Story of What Happened in Libya
+Obama Returns to Form
 
 *   Subscribe Help
 *   Faq
