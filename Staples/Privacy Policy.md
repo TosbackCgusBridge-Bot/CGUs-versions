@@ -70,6 +70,7 @@ Ink &. Toner Finder:
     *   Printer Model #
 
 *   Deals
+    *   Pre-order Windows 8
     *   Weekly Deals
     *   Coupons
     *   Ink &. Toner Deals
@@ -805,8 +806,9 @@ Customer Service
 *   Legal Terms &. Conditions
 *   Privacy Statement
 *   Warranty &. Recall Info
-*   Price Match Guarantee
 *   Staples® Service Plans
+*   Service Plan Registration
+*   Price Match Guarantee
 *   California Transparency in Supply Chains Act
 *   Site Feedback
 
