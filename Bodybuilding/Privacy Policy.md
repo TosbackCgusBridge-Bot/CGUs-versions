@@ -483,9 +483,9 @@ Email: webmaster@bodybuilding.com
   
 Related Articles
 
-*   Flash/False Report - Are We Getting Played?
-*   Bodybuilding.com's Deadliest Catch!
-*   Weider And Lorimer - A Friendship Built On A Passion For Bodybuilding!
+*   Show #23: Craig Titus &. Kelly Ryan Murder Speculation - 12/23/05.
+*   Show #24: Craig Titus &. Kelly Ryan Murder Case - 01/09/06.
+*   Show #33: Latest Developments In Pro Bodybuilding - 04/03/06.
 
 *   View All Gossip And News Articles
 
