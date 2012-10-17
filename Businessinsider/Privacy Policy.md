@@ -10,26 +10,26 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
     *   Tools
     *   Media
     *   Enterprise
-    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning With Its New Music App, Microsoft Pulled Off Something Even Apple Couldn't Do We're Giving Away A Ticket To IGNITION! Microsoft Exec Lets Loose At His Birthday Party With Rapper Too Short Researchers Discover An Earth-Sized Planet Circling Our Nearest Neighbor Star
+    *   ScienceAn Analyst Walked Into Best Buy, And Discovered Firsthand How Amazon Is Destroying It An Analyst Walked Into Best Buy, And Discovered Firsthand How Amazon Is Destroying It With Its New Music App, Microsoft Pulled Off Something Even Apple Couldn't Do The Guardian Denies Reports It Is Ending Its Print Publication Microsoft Exec Lets Loose At His Birthday Party With Rapper Too Short New Earth-Sized Planet Is The Closest Ever Found To Earth
 *   Finance
     *   Clusterstock
     *   Your Money
-    *   Broker Center10 Things You Need To Know Before The Opening Bell 10 Things You Need To Know Before The Opening Bell People Who Occasionally Work In Their PJs Are Earning More Money Than You 10 Things You Need To Know Before The Opening Bell
-*   Markets 10 Things You Need To Know Before The Opening Bell
+    *   Broker CenterJohn Mack: 'Unbelievably Generous' Wall Street Compensation Will Have To Come Down John Mack: 'Unbelievably Generous' Wall Street Compensation Will Have To Come Down Let's Examine The Rhetoric Behind The Decline Of The Middle Class John Mack: 'Unbelievably Generous' Wall Street Compensation Will Have To Come Down
+*   Markets Dylan Grice: Before You Know It, The Fed Is Going To Get What It Wished For — INFLATION
 *   Politics
     *   Politics
     *   Defense
-    *   Law &. OrderHow Mitt Romney Lost The Debate How Mitt Romney Lost The Debate The First 'Fast And Furious' Sentencing Shows Just How Backward The Operation Was FORMER PRISONER: My Only Choice Was To Join The Aryan Brotherhood
+    *   Law &. OrderThis Was The Most Important Moment Of The Presidential Debate This Was The Most Important Moment Of The Presidential Debate See How The University Of Maryland Almost Won $250K With This Human Powered Helicopter The 20 Biggest Legal Stars On Twitter
 *   Strategy
     *   Strategy
-    *   CareersMalcolm Gladwell On Why America Keeps Losing Wars Malcolm Gladwell On Why America Keeps Losing Wars 8 Things You Should Never Say To Your Interviewer
-*   Entertainment Inside The $32 Million Conservatorship That Controls Britney Spears' Money
-*   Advertising How These Photos Of 'Scared Bros At A Haunted House' Became The Biggest Viral Campaign Of The Season
-*   Retail Online Retail Sales Are Booming Because Men Don't Have To Shop At The Mall Anymore
-*   Sports Cardinals Quarterback Will Miss Several Weeks With A Horrifying Rib Injury
+    *   CareersEconomic Leaders Of The Future Will Create A Whole New Model For Investing Economic Leaders Of The Future Will Create A Whole New Model For Investing 8 Things You Should Never Say To Your Interviewer
+*   Entertainment Celebrities Called Out Romney On Twitter During Last Night's Debate
+*   Advertising See How Lance Armstrong Humiliated Nike In These Old Ads About Doping
+*   Retail An Analyst Walked Into Best Buy, And Discovered Firsthand How Amazon Is Destroying It
+*   Sports Here's The 'Insurmountable Evidence' That Made Nike Cut Ties With Lance Armstrong
 *   Life
     *   The Life
-    *   TransportationThe 50 Most Expensive Boarding Schools In America The 50 Most Expensive Boarding Schools In America TEST DRIVE: The 2013 Pathfinder Is Nothing Like The SUV You Once Knew
+    *   TransportationThe 50 Most Expensive Boarding Schools In America The 50 Most Expensive Boarding Schools In America Gorgeous Photographs Reveal The Eerie Side Of The Munich Subway System
 *   More
     *   Latest
     *   Video
@@ -226,7 +226,7 @@ More:*   SAI Select (sample)
 *   Careers Select (sample)
 *   Military Select (sample)
 
-Advertisement Your Money NASDAQ Composite 3,101 +36.99 (+1.207%) S&P 500 1,455 +14.79 (+1.027%) NYSE Composite 8,386 +0 (+0%) Sponsored By
+Advertisement Your Money NASDAQ Composite 3,112 +11.04 (+0.356%) S&P 500 1,461 +6.35 (+0.436%) NYSE Composite 8,449 +62.39 (+0.744%) Sponsored By
 
 Ready To Invest? Find A Broker Here »
 
@@ -238,22 +238,22 @@ Sheila Bair And Wall Street
 
 Most Read Read  Commented  Recommended 
 
-*   Here Are The Charts That Should Get Obama Reelected... 407,934 Views
+*   Here Are The Charts That Should Get Obama Reelected... 418,109 Views
     
-*   The 10 Best College Towns In America 327,942 Views
+*   The 10 Best College Towns In America 350,744 Views
     
-*   FORGET GOLD: Here's Where Die-Hard Skeptics Are Storing Their Wealth 289,914 Views
+*   FORGET GOLD: Here's Where Die-Hard Skeptics Are Storing Their Wealth 299,559 Views
     
-*   People Are Going Crazy For Morgan Freeman's New Obama Ad 225,445 Views
+*   People Are Going Crazy For Morgan Freeman's New Obama Ad 226,247 Views
     
 
-*   Here Are The Charts That Should Get Obama Reelected... 185 Comments
-    
-*   How Barack Obama Won The Presidential Debate 160 Comments
+*   How Barack Obama Won The Presidential Debate 170 Comments
     
 *   Paul Ryan Busted For Staged Photo-Op At Soup Kitchen Where He Pretended To Wash Dishes 144 Comments
     
-*   People Are Going Crazy For Morgan Freeman's New Obama Ad 143 Comments
+*   People Are Going Crazy For Morgan Freeman's New Obama Ad 133 Comments
+    
+*   Dear Folks Who Believe Mitt Romney Is Telling The Truth About His Tax Plan, Please Explain Why Bill Clinton Is Wrong... 77 Comments
     
 
 Loading, please wait...
@@ -272,27 +272,36 @@ See All Jobs Startup Document Center Templates To Jump Start Your Business Busin
 By-Laws Financial  
 Model See All » Read Me Henry Blodget
 
-| Here Are The Charts That Should Get Obama Reelected... 185
+| Yes, We're Better Off Than 4 Years Ago--Mostly \[CHARTS\] 18
 
-Romney keeps saying that Obama "can't run on his record." What's Romney smoking?
+But mostly because, four years ago, the world was ending.
 
-Joe Weisenthal
+Cullen Roche
 
-| Two Reasons The Paul Ryan VP Pick Turned Out To Be Totally Ingenious 41
+| You Have To Laugh At Anyone Who Talks About China Boycotting US Treasuries 19
 
 Wolf Richter
 
-| Millions Of Spanish Are Fleeing Or Trying To Secede 5
+| Japan Inc.'s Basic Strategy Is Backfiring Badly 2
 
-Stan Abrams
+Scott Annan
 
-| Romney's Favorite Line About China Just Became Obsolete 5
+| Economic Leaders Of The Future Will Create A Whole New Model For Investing 2
 
 Robert Reich, Contributor
 
-| Here's What Obama Needs To Do To Win Tonight's Debate 16
+| OBAMA IS BACK 17
 
-Advertisement Thanks to our partners
+The Hive About The Hive » What Smart People Are Reading Right Now
+
+*   Guardian 'seriously discussing' end to print edition - Telegraph 5
+*   Mind The Binder - Talking Politics 5
+*   Citi CEO Pandit exits abruptly after board clash | Reuters 3
+
+*   Housing starts surge in positive sign for economy | Reuters 2
+*   xkcd: Electoral Precedent 2
+
+More Less See All » Advertisement Thanks to our partners
 
 *   A-Z Index
 *   Companies
