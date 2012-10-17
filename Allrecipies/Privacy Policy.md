@@ -1,6 +1,6 @@
 More searches: Ingredient | Nutrition | Advanced Email or User Name Remember Me Password (forgot?)    
 
-*   *   *   *   Chef John’s Macaroni and Cheese See how to make Thomas Jefferson’s favorite comfort food. »
+*   *   *   *   Pumpkin Soup This creamy pumpkin soup is a favorite for Thanksgiving dinner. »
         
         *   *   Top Halloween Treats Best recipes for fright night. »
         
@@ -368,10 +368,10 @@ Follow us on Twitter!
 Most Popular Blogs
 
 *   Another Excellent Indiana Adventure!! October 13, 2012 8:39 PM
-*   What is your weapon of choice in the kitchen? October 9, 2012 11:22 AM
 *   The Politics of Food October 15, 2012 11:29 AM
 *   Welcoming Autumn October 12, 2012 12:50 PM
 *   Countdown to the Maui AllRecipeeps Roundup! October 14, 2012 8:09 AM
+*   Anniversaries... October 14, 2012 3:44 PM
 
 Read our allrecipes.com blog
 
