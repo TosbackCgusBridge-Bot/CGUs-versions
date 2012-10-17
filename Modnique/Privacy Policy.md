@@ -101,8 +101,8 @@ Loading Modnique - Boutique Events
     *   _more..._
     *   other
     *   Charriol Watches Made In Switzerland
-    *   Crystal Necklace Designed In 925 Sterling Silver
     *   Italian watches from $25
+    *   Ladies Bracelet Designed In 925 Sterling Silver
     *   Round Shaped Watches
     *   Tiffany &. Co.
     *   Tonino Lamborghini Watches
@@ -115,9 +115,12 @@ Loading Modnique - Boutique Events
     *   Designer Jewelry
     *   Louis Vuitton Handbags
     *   _more..._
+    *   men
+    *   _more..._
     *   other
     *   Animal Hats
     *   Calvin Klein Sunglasses
+    *   Venetian Masks
     *   _more..._
 *   shoes
     *   women
@@ -148,6 +151,7 @@ Loading Modnique - Boutique Events
     *   SMET Kids Apparel
     *   Tiffany &. Co.
     *   Tonino Lamborghini Watches
+    *   Venetian Masks
     *   and many more...
 *   gifts
 *   daily deal
