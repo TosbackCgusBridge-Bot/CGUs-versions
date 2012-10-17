@@ -11,7 +11,7 @@ Privacy Policy | Adweek Advertisement
 
 *   in Follow
 
-Reddit Hits the Road Adweek reports from a cross-country trip to save the open Internet Chanel-ing Brad Pitt Star featured in ridiculous new Chanel No. 5 spot Brands' New Role Advertisers need to be supporting players, not stars, argues exec
+PayPal's Paranoia Pitch Jeff Goldblum plays his twitchy self in new campaign A Waze We Go Startup crowdsourced app benefits from Apple's map flap Calling Media All-Stars! Submissions now being accepted for 2012 work
 
 *   The Press
 *   Television
@@ -85,7 +85,7 @@ terms@prometheusgm.com
 6\. Changes To The Privacy Policy  
 This Privacy Policy is effective as of June 2012. We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.
 
-Advertisement The Talent Gallery Veedo™ Security System Billy Boy Campaign HELL FIRE + Packaging Runway  
+Advertisement The Talent Gallery Tropicana Frutz - Bubbles Aroma Haus Veedo™ Security System Billy Boy Campaign  
 Advertisement Adweek.com
 
 *   About Us
