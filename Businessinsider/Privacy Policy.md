@@ -238,13 +238,13 @@ Sheila Bair And Wall Street
 
 Most Read Read  Commented  Recommended 
 
-*   Here Are The Charts That Should Get Obama Reelected... 418,109 Views
+*   Here Are The Charts That Should Get Obama Reelected... 418,991 Views
     
-*   The 10 Best College Towns In America 350,744 Views
+*   The 10 Best College Towns In America 352,354 Views
     
-*   FORGET GOLD: Here's Where Die-Hard Skeptics Are Storing Their Wealth 299,559 Views
+*   FORGET GOLD: Here's Where Die-Hard Skeptics Are Storing Their Wealth 300,038 Views
     
-*   People Are Going Crazy For Morgan Freeman's New Obama Ad 226,247 Views
+*   People Are Going Crazy For Morgan Freeman's New Obama Ad 226,299 Views
     
 
 *   How Barack Obama Won The Presidential Debate 170 Comments
