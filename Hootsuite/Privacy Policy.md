@@ -68,6 +68,11 @@ From the HootSuite Blog HootSuite to Launch Social Media Command Center. Master 
 Imagine the New York Stock Exchange without its big screen TVs, terminals and smartphones. Information...  
 Read More
 
+Hoo’s Hooting in Italy: @RaiTv, @La\_Stampa, @WiredItalia, @Tre\_It, @Radio105
+
+La Social Media Week si è conclusa da poco in Italia e per questo motivo...  
+Read More
+
 HootSuite for Agencies Webinar ~ Register Now!
 
 Join HootSuite Enterprise for our HootSuite for Agencies webinar to discover how your agency can develop a more effective...  
@@ -76,11 +81,6 @@ Read More
 5 Ways Your Competition is Not Leveraging Social, Yet ~ HootSuite University Lecture Series
 
 In today’s social age, you can’t just show up with a “sales message.” That kind...  
-Read More
-
-Hop on the #HootBus ~ HootSuite Adds More Languages for International Owls \[Video\]
-
-Owl Aboard! Grab some popcorn and enjoy the journey as we share HootSuite culture everywhere...  
 Read More
 
 About Company Leadership Careers Contact Us Product Features Mobile App Directory Downloads Pricing Services HootSuite University Help Desk Feedback FAQ Translation Project Media Media Kit Press Releases Events Partner Becoming a Partner Solution Partners Integration Partners Affiliates API Legal Terms &. Conditions Privacy Policy ©2012 HootSuite Media Inc. All Rights Reserved. Language: Chinese Traditional (繁體中文)EnglishFrench (Français)German (Deutsch)Indonesian (Bahasa Indonesia)Italian (Italiano)Japanese (日本語)Polish (Język polski)Português (Brasil)Spanish (Español)
