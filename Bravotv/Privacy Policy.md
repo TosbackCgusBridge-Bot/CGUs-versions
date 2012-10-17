@@ -284,13 +284,13 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   TOP CHEF SERVE AND PROTECT - SAM TALBOT
-    
-    12:00 PM ET
-    
 *   TOP CHEF RESTAURANT WARS - JOSE ANDRES
     
     1:00 PM ET
+    
+*   TOP CHEF HIGH STEAKS - RICK TRAMONTO
+    
+    2:00 PM ET
     
 
 view complete schedule The Dish - Bravo's Daily News Tips for Being a Bevery Hills Housewife
