@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Obama Looks to Improve in Second Debate
-*   Military Spending Rises in Asia
+*   Obama, Romney Square Off in Second Debate
+*   2 US Sailors Accused of Rape in Japan
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
@@ -155,5 +155,4 @@ Our Broadcasts
 
 *   Frequencies and Schedules
 *   Pronunciation Guide
-*   Radio Programs
-*   TV Shows
+*   Broadcast Programs
