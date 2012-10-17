@@ -138,13 +138,7 @@ In About us
 
 Editor's Choice »
 
-Mantel’s tale makes the past sing  
-
-Hilary Mantel’s Man Booker winner, 'Bring Up the Bodies’, has a vividness and urgency, says **Suzannah Lipscomb**.
-
-Comments
-
-Hilary Mantel wins Man Booker Prize Hilary Mantel on writing Cromwell Gaby Wood: Mantel wins again Booker Prize winners since 1990 Hanna Rosin interview: the end of men? The Great British Bake Off final, review Women's clubs: the perfect respite from men Forgotten heroes who rose above doping Advertisement
+In love with men from different cultures   Mantel’s tale makes the past sing Hanna Rosin interview: the end of men? The Great British Bake Off final, review When your two-year-old loses her hair Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
