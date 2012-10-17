@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   Election 2012
-    *   Obama 2012
     *   Mitt Romney 2012
-    *   entertainment
+    *   Obama 2012
     *   Mitt Romney
     *   President Obama
-    *   celebrity
+    *   entertainment
     *   presidential debate
-    *   Paul Ryan
-    *   Malala Yousufzai
+    *   celebrity
+    *   Barack Obama
+    *   timeless news
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -119,9 +119,9 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Tonight's Town Hall Moderator Plans To Moderate After All
-*   The Other Sept. 11
-*   Monkey Bars Are a Menace
+*   Five Bad Ideas in Tonight's Debate
+*   Why Mitt Romneyâs Massachusetts Education Plan Backfired
+*   The Town Hall Debate Was One Giant Rule Violation
 
 More from Slate »
 
@@ -131,27 +131,27 @@ More from Slate »
 
 More from HuffPost Weird »
 
-*   The Smartest Thing Youâll Read About Kate Middletonâs Boobs
-*   Oprah Winfrey Got The Terry Treatment â Where Do We Go From...
-*   Must Haves: 9 Perfect (And Colorful!) Pea Coats
+*   Bananas: Rachel Zoeâs Life Being Turned In Sitcom
+*   Scott Brown Pays Homeless To Be His âSupportersâ
+*   Angelina Jolie On Malala Yousafzai, 14-Year-Old Girl Shot...
 
 More from The Frisky »
 
-*   China has a hot new tourist attraction: Really old people...
-*   People who discontinue treatment for attention deficit...
-*   CNN host throws American Family Association spokesman off...
+*   Man taken to hospital with a gunshot wound A) Dies before...
+*   Cute 16-year-old student with nut allergy bullied by...
+*   Remember when your mom told you not to eat those mushrooms...
 
 More from Fark »
 
-*   Paul Ryan's soup kitchen snafu
-*   Is Mitt Romney's jobs plan a sham?
-*   The Democrats' cheeky attack on Mitt Romney's tax plan
+*   The sky won't fall
+*   The second presidential debate: Did the Benghazi whiff hurt...
+*   Obama rallies in the second debate: Will his poll numbers...
 
 More from The Week »
 
-*   Did Liberal Hysteria Sink Obama?
-*   Rupert Murdochâs Twitter Way More Exciting Than Annual News...
-*   Anti-Semitic Elmo Chilling Out West, in the Land of Sashimi
+*   Heilemann on Charlie Rose: Obama's Strategy for Draining...
+*   Meningitis Outbreak Now a Criminal Matter
+*   Video Recap: The Second Presidential Debate in Under Three...
 
 More from Daily Intel »
 
@@ -167,15 +167,15 @@ More from HuffPost Health »
 
 More from Celebuzz »
 
-*   âXbox Romance Runawaysâ Remind Parents How Stupid Kids Can...
-*   Honey Boo Boo's Endorsement of Obama Means She's on the...
-*   Romney's Tax Plan Is So Bogus Even Fox News Called It Out...
+*   15 Warning Signs Your Friend May Be a 'Frenemy'
+*   Young Justin Bieber Fans Donate Give Their Concert Tickets...
+*   6 Facebook Fails of Pregnant Women
 
 More from The Stir »
 
+*   Expedia Travels to New Territory
 *   Fast Chat: Deutsch L.A.'s 'The Inventionist'
 *   The World's Shortest Free Fall, Brought to You by Slim Jim
-*   Maxipad Brand Goes for Blood in Brilliant Reply to Facebook...
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
