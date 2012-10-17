@@ -297,10 +297,10 @@ Last 24 hours
 Last 24 hours
 
 1.  **News:** Second US presidential debate: Obama versus Romney – live coverage
-2.  **News:** Obama and Romney face off in second US presidential debate - video
-3.  **Politics:** David Cameron and Ed Miliband at PMQs: politics live blog
-4.  **Politics:** Prime minister's questions: 17 October 2012 - audio
-5.  **Environment:** Will a badger cull work?
+2.  **Fashion:** How to dress: Japanese florals - video
+3.  **News:** Obama and Romney face off in second US presidential debate - video
+4.  **Books:** Hilary Mantel on winning second Man Booker prize: 'I was absolutely astonished' - video
+5.  **Politics:** David Cameron and Ed Miliband at PMQs: politics live blog
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -308,21 +308,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Dozens of Spitfire planes to be evacuated in Burma
-2.  2\. Poland v England – live!
-3.  3\. Grim exhibition shows role of grave robbers in medical science
-4.  4\. Syria crisis: Brahimi pushes for truce - live updates
-5.  5\. Picture desk live: the day's best news images
+1.  1.  Mitra Tabrizian's best photograph: mosque students at breaktime
+2.  2\. Eurozone crisis as it happened: Relief as Spain avoids being downgraded on eve of EU summit
+3.  3\. Obama boosted by forceful Hofstra debate showing – US politics live
+4.  4\. Lance Armstrong case: Nike about-turn completes the disintegration
+5.  5\. England struggle to draw with Poland despite Wayne Rooney's opener
 6.  All today's stories
 
 On the Guardian today
 
 1.  Comment is free Self-assured Obama recovers with better balance of style and substance
-2.  World news Second US presidential debate: Obama versus Romney – live coverage
-3.  Sport Felix Baumgartner makes record-breaking skydive from space – video
-4.  Life and style Mapping the body: the temple
-5.  World news Mitt Romney describes 'binders full of women' during second debate - video
-6.  Football Poland v England – live!
+2.  Football Poland v England – as it happened
+3.  World news Second US presidential debate: Obama versus Romney – live coverage
+4.  Sport Felix Baumgartner makes record-breaking skydive from space – video
+5.  Life and style Mapping the body: the temple
+6.  World news Mitt Romney describes 'binders full of women' during second debate - video
 
 *   License/buy our content
 |*   Privacy policy
