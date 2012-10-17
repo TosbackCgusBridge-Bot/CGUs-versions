@@ -115,23 +115,23 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Now Up on the PJ Media Homepage
-*   From The Spin Room: Candy, Check The Transcript. The President Was WRONG!
-*   From The Spin Room: The Big Bird Groan
+*   More than a Week After Benghazi, WH Spox Jay Carney Admitted that Administration Had Not Called It a Terrorist Attack
+*   Years and Excuses
+*   President Obama is a Weapon of Mass Economic Destruction – He Must Be Decommissioned
 
 More  
 
+*   VIDEO: Honey Boo Boo For Obama
+*   4 Keys to _Harry Potter_‘s Success Missing From J.K. Rowling’s New Book
 *   What Happens When Abortions Become Free?
-*   TUESDAY NEW RELEASES: A Fine Frenzy in the Shadow of Mumford
-*   6 Green Lies Threatening to Starve You
 
 More
 
 *   Thanks, Candy Crowley. Now I Hate the Mainstream Media More than Ever.
-*   Take Two
-*   Drunkblogging the Second 2012 Presidential Debate
+*   Revisiting the Strangest Moment in Last Night's Debate (Update: Candy Retracts Her Backtrack)
+*   The Murders in Libya, The Presidential Debate, and The Pattern of Obama Foreign Policy
 
-More   TELECOM IN THE AGE OF OBAMA: “AT&T, Verizon, Comcast and other major Internet service providers are set to implement a copyright alert system aimed at cutting down on illegal peer-to-peer file sharing of copyrighted material “over the next several weeks,” according to the head of the organization overseeing the new anti-piracy program.” I’m surprised they weren’t asked to wait until after the election . . . . ... HIGHER EDUCATION BUBBLE UPDATE: How the Colleges Skew U.S. History. More Advertisement
+More   COL. HUNT SPEAKS: Col. Hunt On The Newest Libyan Revelations. ... SOME INTERESTING ANTI-OBAMA ADS RUNNING ON BET TV in Washington State and Ohio. At least, that’s what the email says. Anybody seen them there? AS ROMNEY BEGINS TO REACH WOMEN, YOU CAN SMELL THE LIBERALS’ DESPERATION:  The 2d presidential debate continued to show a Mitt Romney who cares about, respects and will actually help the lives of women.  According to the latest polls, his message of economic hope and prosperity is resonating, cutting into Obama’s previous advantage among women.  Latest evidence of progressive/liberal desperation as a result of the Romney surge?  A completely inane suggestion, within lamestream media types, that Romney’s comments about asking for and receiving “binders full of women” applicants for top government jobs while he was Governor is somehow sexist or out of touch.  Okay, I’m sorry, but that’s just utterly stupid, wrong, and well, desperate. ... More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
