@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Barefoot Contes... UP NEXT › Barefoot Contes...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Diners, Drive-I... UP NEXT › Amazing Eats wi...
 
 *   Channel  
     Guide
@@ -276,6 +276,7 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   Recipe of the Day: Honey and Vanilla Cheesecake from @eatmypies t.co/59XcY1y7 #recipe #StreetFeastsUSA
 *   Like the look of what Andy’s been cooking? Get all the recipes here: t.co/8Jh9KUCD #StreetFeastsUSA
 *   @twistedcubanmft ha! We like your efforts!
 *   Get the recipes here: t.co/bh8N4bmx RT @dosadeli: @eatmypies @FoodNetwork\_UK your programme has made me so hungry, great recipes
@@ -285,7 +286,6 @@ Your email address:
 *   Shake up a cocktail good enough to lure '007' away from the beer, with our top technique videos: t.co/j2N0HOHY #cocktails
 *   Recipe of the Day: Parmigiano Reggiano and Butternut Squash Soup t.co/F8VooJ4R
 *   @elkantina yay! @eatmypies will love hearing that!
-*   Tune in today at 12:30 &. 18:30 for all new Andy Bates American Street Feasts. It’s drool worthy. t.co/EZwQVOay #StreetFeastsUSA
 
 Follow Us
 
