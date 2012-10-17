@@ -1,6 +1,6 @@
 (skip this header)
 
-Wednesday Oct 17, 2012 9:55 AM PT
+Wednesday Oct 17, 2012 10:10 AM PT
 
 ° (change)
 
@@ -386,17 +386,17 @@ Ads by Yahoo! Photo Galleries
 *   Most Emailed
 
 1.  America's Cup boat flips in S.F. Bay
-2.  Obama Won Second Presidential Debate, 46 Percent Say in CNN Poll
-3.  CNN Poll: Obama wins overall, Romney wins many issues
-4.  Armstrong stepping down as Livestrong chairman
+2.  CNN Poll: Obama wins overall, Romney wins many issues
+3.  Armstrong stepping down as Livestrong chairman
+4.  Obama Won Second Presidential Debate, 46 Percent Say in CNN Poll
 5.  Mitt Romney has ‘binders full of women’
 6.  Sergio Romo, through the Bruce at-bat
 7.  Obama, Romney come out fighting in N.Y.
 
 1.  No soup for you: Ryan makes unauthorized stop at soup kitchen
-2.  GOP lacks incentive to provide details
-3.  And the winner is %u2026 Live analysis of the Hofstra presidential debate
-4.  Obama, Romney come out fighting in N.Y.
+2.  Obama, Romney come out fighting in N.Y.
+3.  GOP lacks incentive to provide details
+4.  And the winner is %u2026 Live analysis of the Hofstra presidential debate
 5.  5 hits and 5 misses from Obama-Romney Round 2
 6.  Obama out to seize momentum from Romney in debate
 7.  Dean aghast at Vegas bird beheading
@@ -404,9 +404,9 @@ Ads by Yahoo! Photo Galleries
 1.  America's Cup boat flips in S.F. Bay
 2.  Sergio Romo, through the Bruce at-bat
 3.  $7 million damage in West Portal blaze
-4.  Snoutless dog Kabang needs chemo
-5.  Faces of fear caught on haunted house camera
-6.  Boy in school flap over cystic fibrosis
+4.  Slain Libya ambassador honored in S.F.
+5.  Snoutless dog Kabang needs chemo
+6.  Towering America's Cup boat recovered
 7.  Residents criticize Warriors' arena plan
 
 loading... Latest News Videos From our homepage
