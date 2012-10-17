@@ -45,14 +45,14 @@ Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and mor
     
 *   Men|
     *   New Arrivals
+    *   Boots
+        *   Casual
+        *   Weather/Performance
+        *   View All
     *   Shoes
         *   Lace-ups &. Slip-ons
         *   Sneakers
         *   Outdoor Slippers
-        *   View All
-    *   Boots
-        *   Casual
-        *   Weather/Performance
         *   View All
     *   Slippers
     *   Sandals
