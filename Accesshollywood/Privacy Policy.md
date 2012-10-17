@@ -168,10 +168,10 @@ Healthy Hollywood
 
  
 
-**Try It On Tuesday – Kate Gosselin’s Stress Rx!  
+**Wellness Wednesday – Candy Crowley’s Calming Secret!  
 **
 
-If there’s one woman who is familiar with stress. it’s former reality TV star Kate Gosselin.
+What was moderator Candy Crowley’s secret to staying calm during the intense debate between Obama and Romney?
 
         Also Check Out:  
 
