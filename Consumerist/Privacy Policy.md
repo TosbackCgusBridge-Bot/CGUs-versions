@@ -124,11 +124,11 @@ Tell a friend:
 
 **Want Consumerist in your inbox?** Popular Posts
 
-*   Here Is A Downloadable Template For Opting Out Of PayPal Arbitration Clause
-*   Insurance Company Tells Daughter She Should Pay To Fix The Car That Killed Her Mom
-*   Tuna Cannery Worker Cooked To Death In Massive Steam Oven
-*   This Jug Of 20-Year-Old, Michael Jordan-Branded McDonald's BBQ Sauce Can Be Yours For $9,995
+*   Delta Learns That It's Not A Good PR Move To Upset Judy Blume
 *   I Have No Sandwich Delivery And Local Jimmy John's Loses Business Because Of Stupid Manager
+*   That Amazon Video You Bought? You May Not Actually Be Able To Watch It
+*   Here Is A Downloadable Template For Opting Out Of PayPal Arbitration Clause
+*   Man Successfully Reunited With $12,800 In Pot Plants After Calling Cops To Report Theft
 
 About Consumerist
 
