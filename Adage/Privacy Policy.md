@@ -127,30 +127,30 @@ Policy Last Updated: September 2012
 
 News _from our Ad Age Partners_
 
+*   L.A. auto show names new manager
 *   Akerson revamps marketing
 *   Dealers cautious about 2013 ad dollars
 *   Honda's bundle of cash revives Tier 2 ad plans
-*   Lexus sedans pose risk for trunk entrapment, Consumer Reports says
 
 *   New VP-marketing at Navex Global sticks with proven plan
 *   Weaving together your content and merchandising strategies
 *   ID Wholesaler: Building 'clever' inbound links
 *   How can I use email to drive video views?
 
-*   GM to build an electric Cadillac, the ELR
-*   Microsoft Surface priced at iPad-like $499
-*   Apple announces likely iPad mini event on Oct. 23
-*   Bailout CEOs: 7 gone, 2 left
+*   Can presidents change gas prices?
+*   The 5%: Romney defines 'rich'
+*   Tough talk on China
+*   Obama's housing scorecard
 
 *   Martha Stewart teams with Toyota
 *   Macy's moves $500M media account to Carat
 *   25th anniversary of Crain's 40 Under 40
 *   Online advertising jumps 14% to record $17B
 
-*   Citi's Pandit denies being forced out as CEO
-*   Citigroup CEO Pandit abruptly resigns
+*   Citi's Pandit denies being forced out
 *   Stock market is good gauge of election
-*   Stocks higher as investors cheer latest earnings
+*   Stocks rally strongly as earnings concerns ease
+*   Garbage industry digs around for new business
 
 *   2013 FIAT 500
 *   2013 Scion FR-S
