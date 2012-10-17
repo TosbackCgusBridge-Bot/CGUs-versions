@@ -114,17 +114,17 @@ Notification of Changes
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
 Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad **Exposure**  
-Sell online and in regional publications. Online ads have up to 24 color photos. Our network of magazines appear throughout the U.S. Testimonials **Don't just take our word for it...** " This is the third horse I have sold on Equine.com and I couldn't think of a better way. It's easy and it has helped me con..."  
-**Tiffany**  
-Buchanan, Michigan " Best place to buy and sell ponies. Poedarosa Pony Farm "  
-**Donna**  
-Clear Brook, Virginia " Thank you very much, for all your help. Your site is great. "  
-**lawrance**  
-Rupert , Idaho "another great experience using this webiste. I have sold and bought here and have come in contact with very respectable hors..."  
-**JoAnne**  
-Atco , New Jersey " Again a great experience. I've sold 6 horses using equine.com and recommend it to everyone trying to sell a horse. "  
-**Kim**  
-Troy, Missouri View More Testimonials
+Sell online and in regional publications. Online ads have up to 24 color photos. Our network of magazines appear throughout the U.S. Testimonials **Don't just take our word for it...** " i sold her in a week. this site was easy and reliable, and i will definatley continue using it for marketing my horses for..."  
+**Stephanie**  
+Chester , Maryland " We always have good experiences when using equine.com "  
+**Someone**  
+Chula Vista , California " Another flawless transaction using equine.com- I don't advertize anywhere else! "  
+**Jes**  
+Diamond, Missouri "Great experience. I got a lot of responses and my horse sold within three weeks of putting up the ad."  
+**Judy**  
+Stevens Point , Wisconsin " the experience was absolutely wonderful...we sold him within two weeks to a wonderful home and the response on him was over..."  
+**Sally**  
+Granville Summit , Pennsylvania View More Testimonials
 
 *   Advertise
 *   |
