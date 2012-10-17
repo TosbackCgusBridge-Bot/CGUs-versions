@@ -138,20 +138,20 @@ KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH
 
 Wednesday: Hen House, HyVee, Price Chopper Deals HyVee
 
-*   Hy-vee Fresh Ground Beef, 80/20, 1lb - $1.99
-*   Post Kids Cereal or Treats, 6.2 to 20oz - $1.77
-*   Gerber Graduates Grabbers or Organic Pouches, 3.5 to 4.32oz - $1.50
+*   Ocean Spray Fresh Cranberries, 12oz - $2.49
+*   Buddig SnackBuds or Thin Sliced Lunchmeat - $0.56
+*   Hy-vee Chili or Kidney Beans, 15 or 15.5oz - $0.39
 *   more...
 
 1.  Parts Project Coordinator
     
     Central Power Systems &. Services, Inc.
     
-2.  SEASONAL DRIVERS
+2.  OPERATING MANAGER
+    
+3.  SEASONAL DRIVERS
     
     Kelly Services
-    
-3.  SALES
     
 4.  PROGRAM DIRECTOR
     
@@ -168,15 +168,15 @@ View More The Most
 *   Commented
 
 *   In rematch, Obama and Romney get testy over jobs, energy and immigration
-*   Smithville woman dies after head-on crash
+*   St. Louis Zoo changes Halloween display after complaints
 *   Royals system brimming with depth at shortstop
 *   U.S. beats Guatemala 3-1 in World Cup qualifier
-*   Presidential debate: Shouting over the 'facts'
 *   Cassel practices, but Chiefs hold off on QB decision
-*   Park Hill school board member resigns
-*   Missouri butcher shop to pay $50,000 for cattle hearts in meat
-*   Right-hander Kyle Lohse could be available for Royals to pursue
-*   Busy night for U.S. team’s Bocanegra
+*   Smithville woman dies after head-on crash
+*   Kansas State looks for ways to slow West Virginia
+*   Armstrong stepping down as Livestrong chairman. Nike terminates contract
+*   Latest "K-State Mask" video takes aim at West Virginia
+*   Binders of women: How the debate played online
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
