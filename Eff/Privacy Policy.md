@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-How are you celebrating #AdaLovelaceDay? Let us know and we'll add it to our list of favorite articles for the day. https://eff.org/r.a7nG
+14 questions on civil liberties and Internet freedom Obama and Romney should be asked at tonight's #debate https://eff.org/r.2amU
 
-Oct 16 @ 1:07pm
+Oct 16 @ 4:13pm
 
-Canada-EU Trade Agreement (#CETA) replicates #ACTA’s notorious copyright provisions https://eff.org/r.3anE #TPP
+On #AdaLovelaceDay, we look at how dangerous patents can have a negative impact on women's health https://eff.org/r.a6nK #patentfail
 
-Oct 16 @ 12:43pm
+Oct 16 @ 3:30pm
 
 *   Twitter
 *   Facebook
