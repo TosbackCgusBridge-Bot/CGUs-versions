@@ -5,15 +5,15 @@ Register Sign in Welcome, Logout
 *   Hot Topics
     *   Hot Topics
         *   2012 Elections
-        *   Barack Obama
         *   Mitt Romney
-        *   Celebrity
+        *   Barack Obama
         *   2012 Presidential Debates
-        *   From the Wires
-        *   Sex
+        *   Books
+        *   Celebrity
         *   Paul Ryan
+        *   AlterNet
         *   united kingdom
-        *   voter suppression
+        *   Tina Fey
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -194,28 +194,28 @@ About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service 
 
 Take Salon on the go â download our free app now
 
-Current Stories Hilary Mantel wins second Man Booker Prize
+Current Stories Ladies' night
 
-News. The novelist won for Bring up the Bodies, sequel to Wolf Hall, which also won the award
+News. At last, the robust advocacy for women that Obama supporters were dreaming of in a debate
 
-Honey Boo Boo endorses Obama
+Obama to Romney: You're rich
 
-Politics. Do with that what you will
+Politics. The president proves class warfare can be very effective, when executed correctly
 
-The young boss: Bruce Springsteen in photos, 1977-79
+Hilary Mantel wins second Man Booker Prize
 
-Entertainment. A new book unveils classic Springsteen photos from the post-"Born to Run" era. We collect 12 of the best
+Entertainment. The novelist won for "Bring Up the Bodies," sequel to "Wolf Hall," which also won the award
 
-Amanda Todd's "jailbait" blackmailer exposed
+Obama: Romney has a one-point plan - make money
 
-Life. Anonymous unmasks a creep â and shows the how far bullying girls goes
+Life. Obama zings Romney on his five-point plan
 
 Most Read
 
 *   Ohio soup kitchen slams Ryan: "He did nothing" Jillian Rayfield
+*   Feminine hygiene company responds to viral rant Prachi Gupta
 *   National Dems boost Bachmann challenger Alex Seitz-Wald
-*   Infamous Reddit troll loses job after Gawker expose Prachi Gupta
-*   Is marijuana close to being legalized? Steven Wishnia, Alternet
+*   Five disturbing stories that reveal the real Mitt Lauren Kelley, Alternet
 *   Benghazi madness Joan Walsh
 
 Voices
