@@ -162,6 +162,7 @@ Enter Keyword or Item # Search
             *   Toddler (2T - 4T)
         *   School Uniforms
         *   Sale
+    
     *   Boys
         *   New Arrivals
         *   Outerwear
@@ -210,6 +211,7 @@ Enter Keyword or Item # Search
         *   Boys
         *   Home
         
+    
     *   Our Gift Shops
         *   Gifts Under $30
         *   Gifts Under $50
@@ -459,6 +461,7 @@ Get Exclusive Offers + News Enter Your Email Address Sign up   Connect With Us
 *   Customer Service
 *   Guaranteed. Period.®
 *   Contact Us
+*   FAQs
 
 Get Live Help
 
