@@ -144,3 +144,10 @@ Puzzle, Shooting, Physics, Adventure, Sports, Racing, Platform, Car, Driving, St
 Follow @followfog © Free Online Games × Log in to your FOG account! Username Password Facebook Login Login Signup Reset Password × Warn this user Send Cancel × Sign up for your FOG account! Username Email Password Signup Join using Facebook
 
 By signing up to FOG.com you agree to be bound by the Privacy Policy
+
+× Create a new group Group Name Private?
+
+Checking this box will mean only group members  
+can see this group
+
+Icon Close Create this group
