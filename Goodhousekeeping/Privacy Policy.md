@@ -51,7 +51,7 @@ Try: 7 Years Younger • Travel Mugs • Quick Dinners
     *   Diet &. Health Tools
 *   Beauty &. Anti-Aging
     
-    Top Beauty Buys Under $25
+    Top Beauty Buys **Under $25**
     
     Read More!
     *   Makeovers
@@ -137,7 +137,7 @@ In order to view the Privacy Policy you must enable javaScript. Print Share Late
 *   Beauty  
     &. Anti-Aging
     
-    Top Beauty Buys Under $25
+    Top Beauty Buys **Under $25**
     
     First-rate beauty bargains you'll actually _like_
     
@@ -211,7 +211,7 @@ Don't Miss These:
 *   The Great House at Greystone Estate
 *   Affordable Date-Night Ideas
 *   From Messy to Marvelous
-*   Design Secrets from the 2012 Kips Bay Showhouse
+*   America's Best Power Meals
 
 Product Reviews Top-Rated Toothbrushes
 
