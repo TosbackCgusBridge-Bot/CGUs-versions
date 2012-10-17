@@ -147,37 +147,23 @@ Headlines of the Week
 **From the Fark Shop:**
 
 *     
-    Come At Me Brew 2
+    Fark - Messenger Bag
 *     
-    Exterminate Me
+    Einsteinian Gluons Sticky Notes
 *     
-    Indiana Bones - Zombies Who Didn't Keep Their Eyes Shut
+    Satan Knit Mask
 *     
-    Resurrection of the Daleks Collector Set
+    Ford GT (Silver/Black Stripes) Wireless Road Mice
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
 Two-Year-Old Girl Insults Kate Middle...  
+Fancy Your Own Custom Horrow Bowling...  
 Hilarious Wedding Bloopers Compilatio...  
-Is This What You Think it Is...?  
-Man Cooked to Death in Horrific Workp...  
+Photographer Sues Apple For Using Her...  
 More news at Scribol »  
-  
-  
-The Smartest Thing You'll Read About...  
-Oprah Winfrey Got The Terry Treatment...  
-Must Haves: 9 Perfect (And Colorful!)...  
-Beyonce To Perform At The Super Bowl...  
-More news at The Frisky »  
-  
-  
-We Show It ALL  
-Sexy Geeky Fun  
-Kathie Lee Drops Puppy  
-Daredevil FAILS  
-More news at truTV »  
   
   
 Rainn Wilson's Reddit AMA  
@@ -186,10 +172,24 @@ More Vin Diesel Facebook Page
 Rolling Stones Songs You're Not Sick Of  
 More news at UPROXX »  
   
+  
+Bananas: Rachel Zoe's Life Being Turn...  
+Scott Brown Pays Homeless To Be His "...  
+Angelina Jolie On Malala Yousafzai, 1...  
+Hot Links: Did Hulk Hogan Leak His Ow...  
+More news at The Frisky »  
+  
+  
+Pretty Reckless Singer Taylor Momsen...  
+Oops! Jennifer Lopez Has A Nip Slip O...  
+Beyonce To Headline Super Bowl XLVII...  
+Gwyneth Paltrow, 40, Stuns In A Black...  
+More news at Starpulse »  
+  
 
 Also on Fark
 
-Main People who discontinue treatment for attention deficit hyperactivity disorder are ( abcnews.go.com ) » (37 comments) Sports Numerous game-changing bad calls go in the Yankees favor in the playoffs for years: "MLB doesn't need replay." One bad call goes against the Yankees that doesn't even change the outcome of the game: "ZOMFG WE MUST REPLACE UMPS WIHT ROBOTS111" ( msn.foxsports.com ) » (37 comments) Business What happens when Citigroup posts surprisingly strong quarterly results? Why the board forces the CEO out of course ( cnbc.com ) » (8 comments) Geek The Wii U Pro controller can collect dust for up to 80 hours on a single charge ( ign.com ) » (16 comments) Entertainment Trey Parker and Matt Stone sued for having the Lollipop King sodomized, choked, and otherwise belittled by a man who claims they based it off of his cartoon. Yes, almost five years after the episode aired ( huffingtonpost.com ) » (26 comments) Politics Amtrak lost $84,500,000 last year...from its snack bars alone. You'll get nothing and like it ( washingtonexaminer.com ) » (106 comments) Video Kitten: I fought the jar and the jar won ( courant.com ) » (6 comments)
+Main Man taken to hospital with a gunshot wound A) Dies before getting in the door, B) Passes out due to the loss of blood, or C) Punches a doctor and nurse ( theoaklandpress.com ) » (10 comments) Sports Vikings set to invade England. This is not a repeat from 793 AD ( sports.yahoo.com ) » (7 comments) Business Larry Sloan, co-\_\_\_\_\_\_\_\_\_ of Mad Libs, \_\_\_\_\_\_\_\_\_ at age 89. He will be \_\_\_\_\_\_\_\_\_\_\_ ( latimes.com ) » (5 comments) Geek How to see Uranus this weekend: Step 1 is NOT "sit on a telescope" ( foxnews.com ) » (34 comments) Entertainment R. Kelly trapped in the closet again. You'd think by now he'd have a map ( huffingtonpost.com ) » (11 comments) Politics Jimmy Kimmel asks people who couldn't have watched the debate, "Who won the debate?" ( youtube.com ) » (16 comments) Video "Ultralights don't weigh much" claims aspiring news reporter covering accident that claimed two lives ( wtsp.com ) » (8 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -199,5 +199,5 @@ Main People who discontinue treatment for attention deficit hyperactivity disord
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 16 2012 17:00:30  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 17 2012 08:00:19  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
