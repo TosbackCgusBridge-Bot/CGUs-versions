@@ -1,24 +1,3 @@
-NBC.com
-
-*   Shows
-
-*   Full Episodes
-
-*   Schedule
-
-*   News &. Sports
-
-*   Extras
-
-*   search
-*   Welcome to NBC Log In or Sign Up
-
-The Voice  
-New, Tonight 8/7c. The steals continue! Preview now.  
-More »
-
-Privacy Policy
-
 **This Privacy Policy was last updated on August 14, 2007.**  
   
 **Introduction:** These websites which are located at the domain nbc.com (the "Site") are operated by NBC Universal. ("NBC Universal" or "we" or "our" or "us"). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at NBCUniPrivacy@nbcuni.com or at the address at the end of this policy.
@@ -115,38 +94,3 @@ Bldg. 1360 2nd Floor,
 Universal City, CA 91608
 
 **Terms of Service >**
-
-Recent Episodes Air Date: 10/16/12 Watch Until: 1/17/13
-
-The Voice
-
-Ep 313: Battles, Part 4
-
-The coaches keep pushing their artists to their limits - and eyeing whom they want to steal.
-
-*   Watch Episode
-*   Read Recap
-
-Air Date: 10/16/12 Watch Until: 11/3/12
-
-Days of our Lives
-
-Ep 11940: Tuesday - 10/16/12
-
-EJ learns of the death of his child.
-
-*   Watch Episode
-*   Read Recap
-
-Air Date: 10/15/12 Watch Until: 11/27/12
-
-Revolution
-
-Ep 105: Soul Train
-
-Charlie and Miles are shocked to learn the Militia has leveraged a forgotten technology. Kim Raver and Jeff Fahey guest star.
-
-*   Watch Episode
-*   Read Recap
-
-Watch all episodes »
