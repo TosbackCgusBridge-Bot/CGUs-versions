@@ -156,12 +156,12 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! J.Lo Sparkles »
+Hot Pics! Heidi Says Cheerio »
 
-Top Stories1.  Exclusive Tori Spelling's Miracle Baby Finn: See All the Pictures »
-2.  Kate Gosselin on Her Face: I "De-Age" »
-3.  Kim Kardashian Wears Tight See-Through Skirt, Bra Top on Date With Kanye »
-4.  Chelsea Handler Mocks Jennifer Aniston's "Very Pronounced" Nipples »
+Top Stories1.  Kate Gosselin on Her Face: I "De-Age" »
+2.  Kim Kardashian Wears Tight See-Through Skirt, Bra Top on Date With Kanye »
+3.  Chelsea Handler Mocks Jennifer Aniston's "Very Pronounced" Nipples »
+4.  Exclusive Tori Spelling's Miracle Baby Finn: See All the Pictures »
 5.  Tyler Perry Unveils 30-Pound Weight Loss on Men's Health Cover »
 
  
@@ -175,11 +175,11 @@ subscribe to Us Weekly Tori's Miracle Baby
 
 Inside Us Weekly
 
-*   Style Lea Michele’s Sheer Dress-Bodysuit Combo: L
+*   Style Kim Kardashian Puts Herself on Worst-Dressed
 *   Beauty Watch Part 2 of Brad Pitt's Sexy Chanel No. 5
 *   Moms Tori Spelling's Miracle Baby Finn: See All th
 *   Body Jennie Garth: I Stay Skinny With "Me" Time  
-*   Entertainment Bristol Palin Eliminated on Dancing With the  
+*   Entertainment Nashville Sneak Peek: Hayden Panettiere Skinn  
 
 *   US WEEKLY
 *   Celebrity News
