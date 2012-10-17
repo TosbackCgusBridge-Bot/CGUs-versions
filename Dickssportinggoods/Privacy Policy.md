@@ -461,27 +461,27 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   View All »
     *   NCAA
         
-        *   Alabama Crimson Tide
-        *   Auburn Tigers
-        *   Duke Blue Devils
-        *   Florida Gators
-        *   Florida State Seminoles
+        *   Alabama
+        *   Arizona
+        *   Arizona State
+        *   Arkansas
+        *   Auburn
         *   View All »
         
-        NHL
-        *   Anaheim Ducks
-        *   Boston Bruins
-        *   Buffalo Sabres
-        *   Calgary Flames
-        *   Carolina Hurricanes
-        *   View All »
-    *   NBA
-        
+        NBA
         *   Atlanta Hawks
         *   Boston Celtics
         *   Brooklyn Nets
         *   Charlotte Bobcats
         *   Chicago Bulls
+        *   View All »
+    *   NHL
+        
+        *   Anaheim Ducks
+        *   Boston Bruins
+        *   Buffalo Sabres
+        *   Calgary Flames
+        *   Carolina Hurricanes
         *   View All »
         
         MLS
