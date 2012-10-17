@@ -213,14 +213,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
+    *   Tigers on the brink
+    *   Cain, Lohse on Game 3
+    *   Hall of Fame Hopefuls: Robinson Cano
+    *   Coach Speak: GB/STL Preview
     *   UFC on FUEL TV: Highlights - UFC 153
     *   Morosi: ALCS Game 3 recap
     *   Rosenthal: NLCS Game 2 Recap
-    *   Tigers on the brink
     *   Find out what you missed on FOX Soccer News last night
-    *   Cain, Lohse on Game 3
-    *   Tigers take command of ALCS
-    *   Hall of Fame Hopefuls: Robinson Cano
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -514,8 +514,8 @@ If you have questions about this Privacy Policy, please send an email to the app
 *   GEARBAG: New Men's Reflective Skull Switchbac...
 
 *   Tales from the Tape: Marshall as decoy
+*   VIDEO: Mora on Wednesday
 *   Fall Ball Preview: Hunter Renfroe
-*   Jones Excited About Expanded Role On Defense
 
 *   Rashad Evans: “Fighting Anderson Silva Would...
 *   Inside The Octagon:  New TUF Coaches J....
