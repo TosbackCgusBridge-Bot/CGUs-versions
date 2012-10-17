@@ -46,65 +46,63 @@ Loading Modnique - Boutique Events
     *   women
     *   Berek Women's Apparel
     *   Blumarine, Mariella Burani Handbags and Accessories
+    *   Boma jewelry
     *   Brand Too Hot to Mention: Designer Scarves
-    *   Cocktail Glam With Badgley Mischka
-    *   Earth Yoga Women's Apparel
-    *   Jewelry Box must-haves
+    *   Designer jewelry: Touch of Color
+    *   Elysa handbags
+    *   Golden Silver Women's Apparel
+    *   Jantie Women's Apparel Made In USA
     *   Kenneth Cole Women's Outerwear
     *   L'Adore Women's Apparel
-    *   Louis Vuitton Handbags
-    *   Moto Must Haves: Jackets and Boots
+    *   La Prairie Cosmetics
     *   Must-Have Booties
+    *   Sergio Rossi, Gianfranco Ferre, Gucci and more Shoes
+    *   Sexy Diva Dresses Made in USA
     *   Sparkle &. Shine: Jewelry Favorites
-    *   Sweaters By Free People and More
+    *   Zoppini &. Manuel Zed Jewelry
     *   _more..._
     *   men
-    *   Kenneth Cole Men's Outerwear
     *   Men's Shop : Report Collection, Lauren by Ralph Lauren
     *   Men's Shop: Carrera Shoes
+    *   Valentino Men's Scarves and Ties
     *   _more..._
     *   other
-    *   Aero Minerals ft. Spirit Spray
-    *   Calvin Klein Sunglasses
-    *   Italian watches from $25
-    *   Tiffany &. Co.
+    *   Rolex
     *   _more..._
 *   apparel
     *   women
     *   Berek Women's Apparel
-    *   Bonnie and Bill Cashmere sweaters
-    *   Clothing under $49
     *   Cocktail Glam With Badgley Mischka
     *   Earth Yoga Women's Apparel
-    *   Ed Hardy Dresses
+    *   Golden Silver Women's Apparel
+    *   Jantie Women's Apparel Made In USA
     *   Kenneth Cole Women's Outerwear
     *   L'Adore Women's Apparel
     *   Moto Must Haves: Jackets and Boots
+    *   Sexy Diva Dresses Made in USA
     *   Sweaters By Free People and More
     *   _more..._
     *   men
     *   Kenneth Cole Men's Outerwear
     *   Men's Shop : Report Collection, Lauren by Ralph Lauren
     *   _more..._
-    *   other
-    *   SMET Kids Apparel
-    *   _more..._
 *   Jewelry &. Watches
     *   women
     *   Affordable Jewelry
+    *   Boma jewelry
     *   Designer Jewelry
+    *   Designer jewelry: Touch of Color
     *   Fall Trend Report: Blue Shades
     *   Jewelry Box must-haves
-    *   Jewelry Essentials: hoops
     *   Sofragem Jewelry
     *   Sparkle &. Shine: Jewelry Favorites
+    *   Zoppini &. Manuel Zed Jewelry
     *   _more..._
     *   other
-    *   Charriol Watches Made In Switzerland
     *   Italian watches from $25
     *   Ladies Bracelet Designed In 925 Sterling Silver
+    *   Rolex
     *   Round Shaped Watches
-    *   Tiffany &. Co.
     *   Tonino Lamborghini Watches
     *   _more..._
 *   Handbags &. Accessories
@@ -113,20 +111,22 @@ Loading Modnique - Boutique Events
     *   Brand Too Hot to Mention: Designer Scarves
     *   Buco handbags
     *   Designer Jewelry
+    *   Elysa handbags
     *   Louis Vuitton Handbags
     *   _more..._
     *   men
+    *   Valentino Men's Scarves and Ties
     *   _more..._
     *   other
     *   Animal Hats
     *   Calvin Klein Sunglasses
-    *   Venetian Masks
     *   _more..._
 *   shoes
     *   women
     *   Flats under $19
     *   Moto Must Haves: Jackets and Boots
     *   Must-Have Booties
+    *   Sergio Rossi, Gianfranco Ferre, Gucci and more Shoes
     *   _more..._
     *   men
     *   Men's Shop: Carrera Shoes
@@ -134,6 +134,7 @@ Loading Modnique - Boutique Events
 *   beauty
     *   women
     *   Immoral Cosmetics Made in USA
+    *   La Prairie Cosmetics
     *   _more..._
     *   other
     *   Aero Minerals ft. Spirit Spray
@@ -142,16 +143,14 @@ Loading Modnique - Boutique Events
     *   Aero Minerals ft. Spirit Spray
     *   Animal Hats
     *   Calvin Klein Sunglasses
-    *   Charriol Watches Made In Switzerland
     *   Italian watches from $25
     *   Kenneth Cole Men's Outerwear
     *   Men's Shop : Report Collection, Lauren by Ralph Lauren
     *   Men's Shop: Carrera Shoes
+    *   Rolex
     *   Round Shaped Watches
-    *   SMET Kids Apparel
-    *   Tiffany &. Co.
     *   Tonino Lamborghini Watches
-    *   Venetian Masks
+    *   Valentino Men's Scarves and Ties
     *   and many more...
 *   gifts
 *   daily deal
