@@ -34,7 +34,7 @@ $6.99 FLAT-RATE SHIPPING | GET COUPONS NOW! Log In / register My Wishlist My Car
 
 *   Sale &. Clearance
     *   Clearance
-    *   Fall Super Sale
+    *   50% Off Sale
 *   Monthly Ad
 *   Shop by interest
     *   Automotive
@@ -400,7 +400,6 @@ $6.99 FLAT-RATE SHIPPING | GET COUPONS NOW! Log In / register My Wishlist My Car
         *   Moving Supplies
         *   Pneumatic Tires
         *   Rope
-        *   Material Handling
         *   Chain &. Hooks
         *   Casters-Rigid
         *   Wire
