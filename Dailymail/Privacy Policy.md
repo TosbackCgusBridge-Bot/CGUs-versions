@@ -265,8 +265,8 @@ MOST READ NEWS
 
 *   Boy tied to tree and burned alive on his eighth birthday...
 *   The internet vigilantes: Anonymous outs man, 32, 'who drove...
-*   Did Zumba teacher secretly film videos of her liaisons with...
 *   Pictured: Horrifically injured gun accident victim shows off...
+*   Did Zumba teacher secretly film videos of her liaisons with...
 *   Romney was RIGHT! Moderator Candy Crowley admits Mitt was...
 *   By gum! Man arrested for 1976 cold case murder thanks to DNA...
 *   Desperate and dirty! Obama goes for jugular in ugly clashes...
@@ -298,11 +298,12 @@ Bing Site Web Enter search term: Search     Femail Today
 
 *   **'I knew Tyra Banks was tall, but seriously?': Katie Couric tweets hilarious picture of leggy supermodel towering over her** Little and large
 *   **License to frill: Bond Girl Olga Kurylenko blows up the beach in tiny red bikini with boyfriend Danny Huston** The beauty, 32, was with the 50-year-old actor
-*   **PICTURE EXCLUSIVE: Ooh la la: C'est Madame Posh! Victoria Beckham is 'honored' to pose at Coco Chanel's house** Makes her mark on 31 Rue Cambon
-*   **Robert De Niro and wife Grace Hightower left homeless after blaze at New York home** The couple had to move out of the home in Central West Park
 *   **Fresh Prince of Bel-Air star Alfonso Ribeiro walks down the aisle with beautiful bride Angela Unkrich in first wedding picture** In Burbank, California
+*   **Robert De Niro and wife Grace Hightower left homeless after blaze at New York home** The couple had to move out of the home in Central West Park
+*   **PICTURE EXCLUSIVE: Ooh la la: C'est Madame Posh! Victoria Beckham is 'honored' to pose at Coco Chanel's house** Makes her mark on 31 Rue Cambon
 *   **'Courtney has had NO plastic surgery': Stodden revealed to be 100 per cent natural after examination by Beverly Hills doctor** Really Courtney?
 *   **Going after the women's vote? Michelle Obama and Ann Romney both choose Pepto pink for presidential debate** Who wore the bright shade better?
+*   **Ann Romney takes a style risk with pale blue manicure at the second presidential debate... but will it sell out like Michelle's?** A colorful choice for Ann
 *   **Bride is left devastated on wedding day after being told her growing baby bump is actually cancer - but vows to go ahead with ceremony and keep tumor a secret**
 *   **'I would love a girl': Giuliana Rancic reveals she is already planning for baby No2... seven weeks after birth of son** She just welcomed son Edward Duke
 *   **Can I have this dance? Ryan Gosling whisks Rooney Mara into his arms in romantic scene for hush-hush new film** Shooting the Untitled Terrence Malick Project
@@ -357,6 +358,10 @@ Bing Site Web Enter search term: Search     Femail Today
 *   **With huge statement skirts and tiny corseted waists, Vera Wang brings back the princess look at Bridal Fashion Week** The Fall 2013 collection
 *   **Green Day frontman Billie Joe Armstong could be in rehab until next year** His record label boss  has confirmed he needs to be in for some time  
     
+*   **How low can you go? Michelle Rodriguez steals the show at art dinner in a backless black gown with a daring plunging neckline** Ensured all eyes on her
+*   **That's cheeky! Leighton Meester pokes her tongue out as she hangs around between takes on the Gossip Girl set in New York** In a good mood
+*   **As statuesque as the Empire State Building! Leggy Petra Nemcova puts the famous New York landmark to shame** She was highlighting the charity Only Make Believe
+*   **Vampire Diaries' Ian Somerhalder opens up about THOSE Fifty Shades casting rumors as he works on smouldering gaze for Mr Porter**
 
     ADVERTORIAL FEATURES
 
