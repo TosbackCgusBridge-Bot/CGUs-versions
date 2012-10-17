@@ -83,14 +83,12 @@ A NOTE FROM STEPHANIE LINK
 
 *   HOT TOPICS:
 *   Cramer's Eight-Point Plan
-*   Second Presidential Debate
+*   Second Presidential Debate Blog
 *   Romney Tax Plan
-*   NPS Pharma Blog
 *   Vikram Pandit Resigns
 *   New Mac Mini
-*   $20 Bike
 
-pjava06.dc.thestreet.com Privacy Policy
+pjava05.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
