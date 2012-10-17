@@ -1,21 +1,4 @@
-46 °
-
-*   Today's Paper
-*   Newsletters
-*   Classifieds +
-    *   Cars &. Vehicles
-    *   Real Estate
-    *   For Rent
-    *   Jobs
-    *   Pets
-    *   Buy/Sell/Trade
-    *   Tickets &. Events
-    *   Services
-    *   Legal Notices
-*   Archives
-*   Subscribe
-
-Follow @newyorkpost Privacy Policy
+Privacy Policy
 
 _Effective as of November 11, 2011_
 
@@ -118,60 +101,3 @@ If you have questions about this Privacy Policy, please contact NY Post at:
 Email: Onlinehelp@nypost.com
 
 Mail: Privacy Office, New York Post, 1211 Avenue of the Americas, New York, New York 10036
-
-*   Explore NYPost.com
-    
-    *   *   News:
-        *   Business,
-        *   Opinion,
-        *   Columnists,
-        *   Local News
-    
-    *   *   Page Six:
-        *   Celeb Photos,
-        *   Cindy Adams,
-        *   Magazine
-    
-    *   *   Sports:
-        *   Columnists,
-        *   Scores,
-        *   Post Tickets
-    
-    *   *   Entertainment:
-        *   TV,
-        *   Movies,
-        *   Music
-    
-    *   *   Multimedia:
-        *   Photos,
-        *   Video
-*   Customer Care
-    *   Contact Us
-    *   FAQ
-    *   Today's Paper
-    *   Archives
-    *   Covers
-    *   Reprints
-    *   Sitemap
-*   Subscribe
-    *   Home Delivery
-    *   Email Newsletters
-    *   iPad
-    *   iPhone
-    *   Android
-    *   Kindle
-    *   Nook
-    *   E-Edition
-    *   RSS
-*   Advertising/Partners
-    *   Media Kit
-    *   Coupons
-    *   Contests/Sweepstakes
-
-NEW YORK POST is a registered trademark of NYP Holdings, Inc.
-
-nypost.com, nypostonline.com, and newyorkpost.com are trademarks of NYP Holdings, Inc.
-
-© Copyright 2012 NYP Holdings, Inc. All rights reserved. Privacy | Terms of Use | Ad Choices
-
-Follow @newyorkpost
