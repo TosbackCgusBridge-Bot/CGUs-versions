@@ -1,6 +1,6 @@
 (skip this header)
 
-Tuesday Oct 16, 2012 2:12 PM PT
+Wednesday Oct 17, 2012 5:06 AM PT
 
 ° (change)
 
@@ -60,10 +60,10 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   'Wreck-It Ralph' Muni photo booths
-*   'Evil Elmo' sighting in S.F.
-*   Travel with a 'quest'
-*   Poehler, Fey to host Globes
+*   Foreclosure bus tours
+*   Apple confirms Oct. 23 event
+*   Berlin Wall pieces' new home
+*   Levi’s Waste Less denim
 *   Giants playoff gear!
 
 *   Bay Area &. State
@@ -338,77 +338,95 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
-*   Aziza
-*   56th BFI London Film Festival
-*   Gwyneth Paltrow through the years
-*   San Francisco Opera's 'Moby-Dick' premiere party
-*   VP debate memes
-*   Palo Alto families earn 3rd highest median income in country
-*   Giants oust the Reds, advance to NLCS
-*   Round one of Frys.com Open
-*   A's fans
-*   International Day of the Girl Child
+*   $38 million SF fixer in escrow
 *   Nation in Focus
-*   A's vs. Tigers: Game 5
+*   World in Focus
+*   2012 presidential town hall debate
+*   2012 presidential town hall debate
+*   Marco Scutaro in the NLCS
+*   Ross Perot
+*   presidential debate
+*   ELLE's 19th Annual Women in Hollywood Celebration
+*   Day in Pictures, Oct. 16, 2012
+*   Giants vs. Cardinals Game 2 NLCS
+*   Foreclosure bus tour
+*   Nation in Focus
+*   World in Focus
+*   'Citizen Hearst' screening &. Hearst 125th anniversary celebration
+*   Presidential Debate Oct 3, 2012
+*   'American Horror Story: Asylum' premiere screening
+*   Comedy Central's Night of Too Many Stars
+*   Musicians vs Politicans
+*   Celebrity good Samaritans
+*   Day in Pictures, Oct. 15, 2012
+*   Vintage Halloween ads
+*   Amber Dhara
+*   Sonoma - $9.9 million
+*   Nation in Focus
+*   World in Focus
+*   Nation in Focus
+*   World in Focus
+*   Alex Smith
+*   Week 6: 49ers vs. Giants
+*   Giants vs. Cardinals: Game 1
+*   Treasure Island Music Festival
+*   49ers fans tailgate before the Giants game
+*   Naked Castro
+*   Japanese American internment, 1942
+*   Space Shuttle Endeavour on the move in Los Angeles
+*   Nation in Focus
+*   World in Focus
+*   First snow of 2012-2013 season
 *   Jim Harbaugh
-*   Vice Presidential Debate
-*   World in Focus
-*   2012 Vice presidential debate
-*   2012 Vice presidential debate
-*   Slutty Sesame Street costumes for adults: How low will the Halloween industry go?
-*   Paul Ryan
-*   Day in Pictures, Oct. 11, 2012
-*   'It's Always Sunny in Philadelphia'/'The League' premiere
-*   Giants at Reds: Game 5
-*   City of Hope gala
-*   London Film Festival
-*   20th annual TNDC Celebrity Pool Toss
-*   Candidates eat
-*   Vice Presidents: The good, the bad and the powerful
-*   Vice Presidents: The good, the bad and the powerful
-*   Texas Chute Out imploded
-*   Cow Palace
-*   Cheapest 5 cities
-*   A's fall to Tigers in Game 5 of ALDS
-*   Bargain Bites 2012
-*   A's beat the Tigers in the bottom of the 9th
-*   Giants win game 4 of the NLDS playoffs
-*   World in Focus
-*   Nation in Focus
-*   Mira Mira
-*   Giants at Reds: Game 4
-*   Day in Pictures, Oct. 10, 2012
 
+*   Most Read
+*   |
 *   Most Commented
 *   |
 *   Most Emailed
 
-1.  Dean aghast at Vegas bird beheading
-2.  No soup for you: Ryan makes unauthorized stop at soup kitchen
-3.  Port official blows $4,500 at strip club
-4.  Victims' advocates decry Mirkarimi outcome
-5.  GOP lacks incentive to provide details
-6.  Clinton says consulate security her responsibility
-7.  Payback is sweet as Giants even series
+1.  Obama Won Second Presidential Debate, 46 Percent Say in CNN Poll
+2.  America's Cup boat flips in S.F. Bay
+3.  Faces of fear caught on haunted house camera
+4.  5 hits and 5 misses from Obama-Romney Round 2
+5.  UPDATE: Marco Scutaro jokes he’ll kick Matt Holliday’s butt
+6.  Mitt Romney has ‘binders full of women’
+7.  SF, 2 others finalists to host Super Bowl
 
-1.  Faces of fear caught on haunted house camera
-2.  UC law students held in bird beheading
-3.  Warriors SF arena framework taking shape
-4.  Scutaro lauded for grit as well as play
-5.  Put a fresh twist on French classics
-6.  Picasso, Monets stolen in Dutch heist
-7.  3-D printer turns out plastic guitar
+1.  No soup for you: Ryan makes unauthorized stop at soup kitchen
+2.  GOP lacks incentive to provide details
+3.  And the winner is %u2026 Live analysis of the Hofstra presidential debate
+4.  Obama out to seize momentum from Romney in debate
+5.  Dean aghast at Vegas bird beheading
+6.  Clinton says consulate security her responsibility
+7.  Can Obama bounce back? Past presidents often didn%u2019t improve in second debate
+
+1.  America's Cup boat flips in S.F. Bay
+2.  Faces of fear caught on haunted house camera
+3.  Snoutless dog Kabang needs chemo
+4.  Put a fresh twist on French classics
+5.  Obama Won Second Presidential Debate, 46 Percent Say in CNN Poll
+6.  Sergio Romo, through the Bruce at-bat
+7.  Praise, skepticism as Cuba eases travel rules
 
 loading... Latest News Videos From our homepage
 
 *     
+    John Moore / 2012 Getty Images
+    
+    Candidates come out fighting
+    
+    Town hall marked by crackling debate on Libya, domestic issues.
+    
+*   Obama's lost opportunity?
+
+*     
     Brant Ward, The Chronicle / SF
     
-    Giants get Game 2 payback
+    72-footer snaps, flips
     
-    Huge collision motivates Giants to even up NLCS at 1-1. Photos
+    Huge America's Cup yacht in spectacular crash near Golden Gate Bridge. Photos
     
-*   Scutaro MRI | Will Clark on slide
 
 *     
     Nightmares Fear Factory / CT
@@ -417,15 +435,6 @@ loading... Latest News Videos From our homepage
     
     Here's the haunted house that scares the daylights out of visitors, then photographs them.
     
-
-*     
-    Ben Margot, Associated Press / SF
-    
-    Payback for Scutaro
-    
-    Baseball gods give him something to smile about after 'illegal' slide.
-    
-*   Clark: Slide legal | S.F. wins
 
 *   Home
 *   News
