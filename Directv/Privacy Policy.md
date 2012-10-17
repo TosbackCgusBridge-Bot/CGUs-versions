@@ -1,8 +1,8 @@
 Privacy Policy JavaScript is disabled in your browser. We recommend that you enable JavaScript to optimize your experience on DIRECTV.com. Learn More
 
-*   PXDTPW02A
-*   2985962185
-*   3037602141
+*   PXDTPW08D
+*   2986210703
+*   3037926242
 *   false
 *   false
 *   false
@@ -13,7 +13,7 @@ Privacy Policy JavaScript is disabled in your browser. We recommend that you ena
 *   false
 *   guest
 
-DVR Scheduler: Record any show anytime from your PC or mobile phone. Order Now 1-888-777-2454  |  30 million customers strong!**\*** Based on total number of DIRECTV  
+DIRECTV iPhone App: Set your DVR from your iPhone or iPod touch! Order Now 1-888-777-2454  |  30 million customers strong!**\*** Based on total number of DIRECTV  
 customers in the US and Latin America. DIRECTV SATELLITE TELEVISION { "email": "", "securedCustomer": false, "autoLoggedIn": false, "pgwsAuthorized": false } Sign In   Create Account
 
 *   Get DIRECTV for:
