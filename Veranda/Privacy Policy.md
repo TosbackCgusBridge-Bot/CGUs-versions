@@ -11,11 +11,11 @@ Most Viewed
 
 Most Searched
 
-1.  living rooms
-2.  bedrooms
-3.  designer inspiration
-4.  kitchens
-5.  jewelry
+1.  designer inspiration
+2.  jewelry
+3.  living rooms
+4.  books
+5.  kitchens
 
 Magazine | RSS
 
@@ -38,9 +38,9 @@ From Town &. Country Travel • Best Waterfront Makeover: Capri's Il Riccio
 • Best Exotic Retreat: Six Senses Destination Spa Phuket  
 • The Best City Resort: Aman New Delhi  
 **More from Town &. Country Travel**  
-From The Daily Green • Why Leaves Change Color  
-• Loggerhead Turtle Hatchlings  
-• Caulk Now, Before Winter's Chill  
+From The Daily Green • Amazing Wildlife Photos (caterpillar) Square Tout  
+• Seal Those Ducts  
+• Wild Rice with Almonds  
 **More from The Daily Green**  
 From Harper's Bazaar • Celebrity Fashion  
 • Fashion Accessories  
