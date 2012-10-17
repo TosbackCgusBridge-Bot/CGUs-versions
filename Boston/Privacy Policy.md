@@ -1,4 +1,4 @@
-  Sweetness | Jimmy Eat World Listen Live Boston.com
+  LIVE IN THE LAB | The Wombats Listen Live Boston.com
 
 *   Home
 *   Today's Globe
