@@ -150,7 +150,6 @@ Facebook
 Google+  
 Twitter  
 Blog  
-RSS  
 Newsletter How to Get  
 **Cash  
 Back?** Get a **$5 bonus** for downloading our browser app » Continue
