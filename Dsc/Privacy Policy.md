@@ -324,21 +324,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
+This RC Car Chase is Epic: Gotta-See Video
+
+Rare Quake Rattles New England: DNews England
+
+No, Global Warming Hasn't 'Stopped'
+
+Complex Body Parts Could Soon Be Lab-Grown
+
+Trampoline Bridge Proposed: DNews Nugget
+
 Organic Farming Increases Soil Quality
 
 Eight-Eyed Spiders Watch Videos and People
 
 Geoengineering Nut Dumps Tons of Iron Into Ocean
-
-Earth-Sized World Found Next Door
-
-Excellent Idea of the Day: Cheap Classroom Polls
-
-Planet Found in Quadruple Star System
-
-Seven Masterpieces Stolen in Dutch Museum Heist
-
-Greenest Street In America Eats Smog
 
   facebook share0 Tweet Privacy Policy  
 
@@ -545,32 +545,38 @@ Email: privacy\_policy@discovery.com
 Last Updated On: Wednesday, August 19, 2010
 
 facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 17,  
-7:00 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 17,  
-7:30 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 17,  
-8:00 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 17,  
-8:30 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 17,  
-9:00 am  
+12:00 pm  
 60 min(s)  
-**The FBI Files**  
-_Dangerous Gamble_  
- Two masked robbers armed with semi-automatic weapons robbed armor  
-**More Listings »**   Shop Discovery Store      
+**The New Detectives**  
+_M.E.'s Casebook_  
+ In the Florida panhandle, a passerby discovers a killer's dumping  
+Oct 17,  
+1:00 pm  
+60 min(s)  
+**Killing bin Laden**  
+ An intimate account of the bin Laden operation - from the time th  
+Oct 17,  
+2:00 pm  
+60 min(s)  
+**Secrets of Bin Laden's Lair**  
+ When SEAL Team Six killed Osama Bin Laden in 2011, they scooped u  
+Oct 17,  
+3:00 pm  
+60 min(s)  
+**Secrets of Seal Team 6**  
+ For three decades, the elite government operatives of SEAL TEAM V  
+Oct 17,  
+4:00 pm  
+60 min(s)  
+**Sons of Guns (Season 3)**  
+_Total Recall Vector Submachine Gun_  
+ Inspired by the new "Total Recall", Kris builds a Red Jacket vers  
+**More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
+$47.95  
+  **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
+$12.95   **Discovering Ardi DVD**  
+$19.95   **Discovery Channel Polymer Chemistry Set**  
+$19.95        
 
 our sites
 
