@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Biden heads West, to Colorado and...**  
-        Election 2012 | Krissah Thompson
+    *   **MassGAP responds to Mitt Romney...**  
+        Election 2012 | Rachel Weiner
     
-    *   **Fact checking the second presidential...**  
+    *   **Fact checking the second debate**  
         The Fact Checker | Glenn Kessler
     
-    *   **Mitt Romneyâs âbinders full of...**  
-        She The People | Suzi Parker
+    *   **Pushing N.C. early voting with...**  
+        She The People | Mary C. Curtis
     
-    *   **Romneyâs missed opportunity on...**  
-        The Fix | Aaron Blake
+    *   **Tracking the big debate moments...**  
+        The Fix | Chris Cillizza
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **A debate of wording and binders**  
+    *   **Earth has a new neighbor**  
         ComPost | Alexandra Petri
     
-    *   **Obama turns it around**  
+    *   **Obama should make strong case that...**  
         The Plum Line | Greg Sargent
     
-    *   **Obama won, but he was not great...**  
-        PostPartisan | Stephen Stromberg
+    *   **Whereâs Obamaâs vision?**  
+        PostPartisan | Michael Gerson
     
-    *   **Morning Bits**  
+    *   **Deception on Libya**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Very nice through...**  
-        Capital Weather Gang | Dan Stillman
+    *   **Fireball seen over D.C., Maryland...**  
+        Capital Weather Gang | Jason Samenow
     
-    *   **Beer news: Great American Beer...**  
+    *   **Win tickets to spend Friday night...**  
         Going Out Gurus | Fritz Hahn
     
-    *   **D.C. police look for gunman who...**  
-        Crime Scene | Maggie Fazeli Fard
+    *   **Most serious charges dismissed...**  
+        Crime Scene | Matt Zapotosky
     
-    *   **Upstart Senate candidate to debate...**  
-        Maryland Politics | Fredrick Kunkle
+    *   **OâMalley: Obama hit Romney âsquare...**  
+        Maryland Politics | John Wagner
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -97,16 +97,16 @@
     
     Blogs &. Columns
     
-    *   **NHL includes 50-50 revenue split...**  
+    *   **All eyes on the NHLPA**  
         Capitals Insider | Katie Carrera
     
-    *   **Drew Storen vs. Yadier Molina**  
+    *   **ESPN.comâs RGIII âBandwagonâ game**  
         DC Sports Bog | Dan Steinberg
     
-    *   **Biggest disappointment and most...**  
-        The Insider | Keith McMillan
+    *   **Five areas to monitor as the Redskins...**  
+        The Insider | Mike Jones
     
-    *   **Bryce Harper no longer a teenager**  
+    *   **Adam LaRocheâs parents thank the...**  
         Nationals Journal | James Wagner
 *   National In National
     
@@ -126,7 +126,7 @@
     *   **âIron Manâ-style exoskeleton could...**  
         Ideas@Innovations | Emi Kolawole
     
-    *   **The timing of Vikram Panditâs departure**  
+    *   **Those revelatory âbinders full...**  
         PostLeadership | Jena McGregor
     
     *   **Colo. bishop to Biden: No Communion**  
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **The geopolitical implications of...**  
+    *   **Four reasons Scotland might decline...**  
         WorldViews | Max Fisher
     
-    *   **Why do people steal art?**  
+    *   **Chinese debate-watchers shrug at...**  
+        WorldViews | Max Fisher
+    
+    *   **Why the Taliban hates polio vaccines**  
         WorldViews | Olga Khazan
     
-    *   **The Cuban Missile Misunderstanding...**  
-        WorldViews | Max Fisher
-    
-    *   **The presidential debates: The unspoken...**  
+    *   **Six crucial Libya questions that...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -173,14 +173,14 @@
     *   **Complaints may presage student...**  
         The Color of Money | Michelle Singletary
     
-    *   **E.U. privacy regulators say Googleâs...**  
+    *   **Chamber comments on robocall summit...**  
         Post Tech | Hayley Tsukayama
     
     *   **The judicial jihad against the...**  
         Steven Pearlstein
     
-    *   **Wonkbook: Everything you need to...**  
-        Wonkblog | Evan Soltas
+    *   **FranÃ§ois Hollande wants to abolish...**  
+        Wonkblog | Dylan Matthews
 *   Tech In Technology
     
     *   Policy
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Everything you need to know about...**  
+    *   **Apple gets mention in presidential...**  
         Hayley Tsukayama
     
-    *   **E.U. privacy regulators say Googleâs...**  
+    *   **Chamber comments on robocall summit...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Two homebrewers to take their beer...**  
-        All We Can Eat | Greg Kitsock
+    *   **Bubble, bubble, itâs no trouble**  
+        All We Can Eat | Jane Touzalin
     
     *   **âBinders Full of Womenâ Romney...**  
-        The Style Blog | Maura Judkis
+        The Style Blog | Maura Judkis and Michael Cavna
     
-    *   **Childhood environment affects brain...**  
+    *   **Candidates need binders full ...**  
         On Parenting | Janice D'Arcy
     
-    *   **Bill Clinton tops guest list at...**  
+    *   **Reliable Source live discussion...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,7 +240,7 @@
     *   **Art: Two Lichtenstein retrospectives**  
         Classical Beat | Anne Midgette
     
-    *   **BeyoncÃ© to the Super Bowl**  
+    *   **Romney still riding âFriday Night...**  
         Celebritology 2.0 | Jen Chaney
     
     *   **Yes, Khloe Kardashian and Mario...**  
@@ -267,10 +267,10 @@
 In the News
 
 *   Lance Armstrong
-*   âMillion Puppet Marchâ
-*   U.S. Embassy evacuated
-*   Earthquake
-*   Yankees
+*   Candy Crowley
+*   Trayvon Martin
+*   NHL lockout
+*   McJordan sauce
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -319,69 +319,61 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Mitt Romney's 'binders full of women' Second debate: Winners and losers With stakes high, Obama hits back at Romney in a fiery second debate
+About those 'binders full of women' ... Second debate: Winners and losers Fact checking the second presidential debate
+
+Glenn Kessler 
+
+With stakes high, Obama hits back at Romney in a fiery second debate
 
 Karen Tumulty 
 
-Who won the debate?
+Obama supporters in Ohio encouraged by presidentâs debate performance
 
-David Beard 
+Rosalind S. Helderman 
+
+Who won the debate? Oddsmakers weigh in
+
+Peter Whoriskey 
 
 Obama turns it around
 
 Greg Sargent 
 
-Green Party candidate arrested outside debate site Fact checking the second presidential debate
+Green Party candidate arrested outside debate site Carolyn Hax: When to disclose you have herpes
 
-Glenn Kessler 
-
-2012 presidential debate: President Obama and Mitt Romneyâs remarks at Hofstra University on Oct. 16 (running transcript)
-
-::unspecified:: 
-
-Obama won the second presidential debate, but he wasnât great.
-
-Stephen Stromberg 
-
-Presidential debate: Did conservative media hurt Romney on Libya?
-
-Erik Wemple 
-
-No contest, Obama won Hofstra debate
-
-Jonathan Capehart 
-
-Romney vs. Obama, round two
-
-Jennifer Rubin 
+Carolyn Hax 
 
 The feedback loop catches up with Romney
 
 Jonathan Bernstein 
 
-Bin Laden driverâs conviction overturned by U.S. appeals court
-
-Del Quentin Wilber 
-
-In Pakistanâs Swat Valley, a girlsâ school is gripped by fear
-
-Richard Leiby 
-
-The second debate: 90 minutes of cross talk
-
-Editorial Board 
-
 Presidential fight likely to be bitter until the bitter end
 
 Dan Balz 
+
+2012 presidential debate: President Obama and Mitt Romneyâs remarks at Hofstra University on Oct. 16 (running transcript)
+
+::unspecified:: 
+
+No contest, Obama won Hofstra debate
+
+Jonathan Capehart 
+
+Romney's missed opportunity on Libya Presidential debate: Did conservative media hurt Romney on Libya?
+
+Erik Wemple 
+
+Wonkbook: Everything you need to know about the second presidential debate US Embassy evacuated in Stockholm after receiving letter containing âpowderâ
+
+Associated Press 
 
 From video to terrorist attack: a definitive timeline of administration statements on the Libya attack
 
 Glenn Kessler 
 
-Earthquake in southern Maine rattles New England but causes no immediate damage or injuries
+âBinders Full of Womenâ Romney quip goes viral
 
-Associated Press 
+Maura Judkis 
 
 Watch presidential debate online: Mitt Romney and President Obama at Hofstra University
 
@@ -390,23 +382,23 @@ The Washington Post 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Mitt Romney's 'binders full of women'
+    1.  About those 'binders full of women' ...
     2.  Second debate: Winners and losers
-    3.  With stakes high, Obama hits back at Romney in a fiery second debate
-    4.  Who won the debate?
-    5.  Obama turns it around
+    3.  Fact checking the second debate
+    4.  With stakes high, Obama hits back at Romney in a fiery second debate
+    5.  Obama supporters in Ohio encouraged by president's debate performance
 *   Top Videos
-    1.  Romney on searching for female cabinet members: They brought us 'binders full of women'
-    2.  2012 town hall Presidential Debate in two minutes
-    3.  Romney and Obama on jobs - Town hall debate 2012
-    4.  Obama, Romney debate gun control -Town hall debate 2012
-    5.  At town hall debate, Obama says Romney has a "one-point plan"
+    1.  2012 town hall Presidential Debate in two minutes
+    2.  Full 2012 town hall Presidential Debate
+    3.  Obama, Romney debate gun control -Town hall debate 2012
+    4.  Romney on searching for female cabinet members: They brought us 'binders full of women'
+    5.  Romney and Obama on jobs - Town hall debate 2012
 *   Top Galleries
     1.  NFL power rankings Week 7
-    2.  Oorah! U.S. Marines in action
-    3.  The life and career of Ann Richards
-    4.  Tina Fey and Amy Poehler to host Golden Globes
-    5.  President Obama and Mitt Romney aggressive in second presidential debate
+    2.  Obama and Romney aggressive in second presidential debate
+    3.  Oorah! U.S. Marines in action
+    4.  The world's most unusual protests
+    5.  Eat like the Obamas
 
 Today's Paper
 
@@ -422,7 +414,7 @@ Live Q&A: Wednesday, Noon ET
 
 Associate editor Robert Kaiser live chats with readers to take questions on the second presidential debate.
 
-**11:00 AM** **Ask Tom: Rants, raves and questions on the DC dining scene** **12:00 PM** **Business RX: Advice on improving or starting a business** **12:00 PM** **Free Range on Food: The Pig to Table Project, quinoa, Vietnamese jerky and more** **12:00 PM** **The Reliable Source Live** **12:00 PM** **The second presidential debate: Who won?** **1:00 PM** **Brad Hirschfield Live: Values and ethics issues of the presidential debate** **2:00 PM** **The Web Hostess: What you're missing (or not) on the internet**
+**11:00 AM** **Ask Tom: Rants, raves and questions on the DC dining scene**   LIVE NOW **12:00 PM** **Business RX: Advice on improving or starting a business**   LIVE NOW **12:00 PM** **Free Range on Food: The Pig to Table Project, quinoa, Vietnamese jerky and more**   LIVE NOW **12:00 PM** **The Reliable Source Live**   LIVE NOW **12:00 PM** **The second presidential debate: Who won?**   LIVE NOW **1:00 PM** **Brad Hirschfield Live: In the debate, which candidate spoke to your ethics and values?** **2:00 PM** **The Web Hostess: What you're missing (or not) on the internet**
 
 **Weekly schedule, past shows**
 
