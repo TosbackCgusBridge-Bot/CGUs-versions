@@ -174,9 +174,6 @@ Record Searchlight
 *   Cars
 *   Classified
 
-*   Join the LIVE Presidential debate coverage. Starting tonight at 6:00 pm
-    
-
 Privacy Policy Redding.com Privacy Policy
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
@@ -270,25 +267,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Two women shot in Shingletown. detectives tight-lipped over case's "sensitivity" Updated 10/15/2012 at 4:51 p.m. 18 comments
-*   Former Redding man accused of killing exotic bird in Las Vegas Updated 10/15/2012 at 6:34 p.m. 47 comments
-*   Jim Jones: Gas prices are just the start Published 10/15/2012 at 12:00 a.m. 169 comments
-*   Worker cooked at tuna plant Published 10/16/2012 at 12:49 a.m. 27 comments
-*   UPDATED: Double shooting investigated in Shingletown Updated 10/16/2012 at 8:09 a.m. 17 comments
+*   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Updated 10/16/2012 at 2:43 p.m. 95 comments
+*   UPDATED: Boy, 16, hit by vehicle outside school Updated 10/16/2012 at 8:51 p.m. 21 comments
+*   Worker cooked at tuna plant Published 10/16/2012 at 12:49 a.m. 30 comments
+*   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 88 comments
+*   Social Security benefits to go up by 1.7 percent next year Published 10/16/2012 at 8:28 a.m. 63 comments
 
-Photo Galleries Enterprise beats Foothill Historic skydive from the edge of space Supersonic skydiving record attempt
+Photo Galleries Enterprise beats Foothill Red Bluff men get marijuana back Historic skydive from the edge of space
 
-*   Jim Jones: Gas prices are just the start Updated // at : 169 comments
-*   Redding police arrest alleged Stockton gang member, friends after shooting Updated // at : 87 comments
-*   Ken Pereira: Nation needs more than Obama's smile Updated // at : 177 comments
-*   Richard Wrathall: We need more producers, fewer takers Updated // at : 78 comments
-*   Fewer qualms for gun-rights groups over Romney now Updated // at : 63 comments
+*   Jim Jones: Gas prices are just the start Published 10/15/2012 at 12:00 a.m. 172 comments
+*   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Published 10/15/2012 at 11:42 p.m. 95 comments
+*   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 88 comments
+*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 87 comments
+*   Richard Wrathall: We need more producers, fewer takers Published 10/15/2012 at 12:00 a.m. 78 comments
 
-*   Former Redding man accused of killing exotic bird in Las Vegas Updated 10/15/2012 at 6:34 p.m. 47 comments
-*   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Updated // at : 54 comments
-*   Redding police arrest alleged Stockton gang member, friends after shooting Updated // at : 87 comments
-*   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Updated 10/13/2012 at 2:28 p.m. 34 comments
-*   UPDATED: Sheriff: Teens burglarize Palo Cedro bank twice with tricks picked up from heist movies Updated 10/7/2012 at 10:17 a.m. 64 comments
+*   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
+*   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 54 comments
+*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 87 comments
+*   Dog trainer teaches empathy at Tehama juvenile hall Published 10/15/2012 at 11:40 p.m. 9 comments
+*   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Published 10/13/2012 at 10:14 a.m. 34 comments
 
 Weather
 
@@ -296,23 +293,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 84° Fair Wind: Calm Today 84° 52° Wed 02:00 AM Clear Temp: 57° Wed 02:00 PM Sunny Temp: 87° Thu 02:00 AM Clear Temp: 58°
+Currently 65° Fair Wind: N 13mph Today 92° 59° Wed 05:00 PM Sunny Temp: 89° Thu 05:00 AM Clear Temp: 58° Thu 05:00 PM Sunny Temp: 86°
 
-Feels Like: 57°
+Feels Like: 85°
 
-Humidity: 42%
-
-Precip: 0%
-
-Feels Like: 83°
-
-Humidity: 11%
+Humidity: 10%
 
 Precip: 0%
 
 Feels Like: 58°
 
-Humidity: 37%
+Humidity: 33%
+
+Precip: 0%
+
+Feels Like: 83°
+
+Humidity: 14%
 
 Precip: 0%
 
@@ -330,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Tuesday Oct 16
 *   Wednesday Oct 17
 *   Thursday Oct 18
+*   Friday Oct 19
 *   More BROWSE Icon
-
-*   Basic Physics Shasta Builder's Exchange 6 p.m.
-*   Foreclosure Alternatives Starbucks 6 p.m.
-*   Junior Fly Tying Classes See Description 6:30 p.m.
-*   Junior Fly Tying Classes See Description 6:30 p.m.
-*   Suicide Loss Support Group St James Church 7 p.m.
-
-More Events »
 
 *   Social Media for Small Business See Description 5:30 p.m.
 *   Candidates Forum, Shasta County Supervisors, District 4 Redding Library 6 p.m.
@@ -359,29 +348,50 @@ More Events »
 
 More Events »
 
+*   Fill a Bag, Feed a Family Food Drive See Description 7 a.m.
+*   Prevailing Wage/ Certified Payroll Shasta Builder's Exchange 9 a.m.
+*   Fantasy Fountain Painting Days Enterprise Park 10 a.m.
+*   Soroptimist International of Redding's 15th Annual Breast Cancer Awareness Luncheon Redding Civic Auditorium 11 a.m.
+*   Halloween Haunt Night and Spooky Lagoon Redding Aquatic Center 6 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Weather Radio
+*   Join the Live Debate Coverage
     
-    We have you covered with our **iPhone** Storm Shield.**Now available for Android!**
+    Presidential debate.  
+    Tonight at 6:00 pm
+    
+    Fantasy Fountain
+    
+    The community painting project starts Friday! Have you registered yet?
     
     20 Under 40
     
     Nominate young leaders in the North State!
     
-    The results are in!
+*   The results are in!
     
     See who our readers picked as the Best of the North State.
     
-*   News on Facebook
+    Weather Radio
     
-    Become a fan, get updates and breaking news.
+    We have you covered with our **iPhone** Storm Shield.**Now available for Android!**
     
     Download Our Apps
     
     Make your smartphone even smarter. Local news is more accessible than ever.
+    
+*   Looking for a new pet?
+    
+    Search our online classifieds for pets and supplies
+    
+    News on Facebook
+    
+    Become a fan, get updates and breaking news.
     
     News Alerts
     
