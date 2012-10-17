@@ -6,7 +6,7 @@ Skip header
 *   Contact us
 *   Find a travel agent
 
-Skip main navigation Main menu Control Time: 10:17:12 PM Skip main navigation
+Skip main navigation Main menu Control Time: 1:11:07 PM Skip main navigation
 
 *   Home1
 *   Find &. book cruises
@@ -136,6 +136,7 @@ Skip main navigation Main menu Control Time: 10:17:12 PM Skip main navigation
     *   Our 175 year heritage
     *   The Peninsular Club
     *   Vantage fares &. Price Promise
+    *   On board shopping
     
     Special occasions
     
@@ -359,6 +360,6 @@ Country In Session (from GeoIP Sniffer) = UK
 Show AU Content setting = True  
 X\_Forwarded\_FOR = 184.106.117.173  
 User IP = 10.35.0.246  
-SessionID = o5fgvoekr1dwma55qzq45s55  
-RenderTime = 00:00:00.5156217  
-Page rendered at 2012-10-16T22:17:12 Back to top of page
+SessionID = 4btqkq551acduijw2zpwrb45  
+RenderTime = 00:00:00.3593750  
+Page rendered at 2012-10-17T13:11:07 Back to top of page
