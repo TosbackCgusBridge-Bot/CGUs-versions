@@ -287,20 +287,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Sport:** Felix Baumgartner makes record-breaking skydive from space – video
-2.  2\. **Comment:** What is people's problem with yummy mummies? | Rowan Davies
-3.  3\. **News:** Gary McKinnon extradition to US blocked by British government – live
-4.  4\. **Sport:** Felix Baumgartner's skydive spin as seen from camera on spacesuit - video
-5.  5\. **Fashion:** Brad Pitt's Chanel No 5 ad: the smell of disaster
+1.  1.  **News:** Second US presidential debate: Obama versus Romney – live coverage
+2.  2\. **News:** Mitt Romney's binders full of women just don't stack up
+3.  3\. **News:** Obama regains the initiative to win second presidential debate
+4.  4\. **Football:** Farce as Poland-England qualifier is postponed after torrential rain
+5.  5\. **Football:** Sweden come back from four down to secure historic draw in Germany
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Comment:** A new generation of Auschwitz tattoos – Sounds Jewish podcast
-2.  **Sport:** Felix Baumgartner's greatest ever jumps - video
-3.  **News:** Gary McKinnon extradition to US blocked by British government – live
-4.  **Fashion:** Brad Pitt chosen as the face of Chanel No 5 - video
-5.  **TV &. radio:** The week in TV: Fresh Meat, Hunderby, Modern Family and Nurse Jackie - video
+1.  **News:** Second US presidential debate: Obama versus Romney – live coverage
+2.  **News:** Obama and Romney face off in second US presidential debate - video
+3.  **News:** Obama regains the initiative to win second presidential debate
+4.  **News:** Mitt Romney describes 'binders full of women' during second debate - video
+5.  **Society:** 450,000 disabled people to lose out under universal credit, study finds
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -308,21 +308,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  World Cup 2014 qualifiers – live!
-2.  2\. US presidential debate: Obama and Romney set for round two – live
-3.  3\. Hilary Mantel wins Man Booker prize for second time
-4.  4\. Extract: Bring Up the Bodies by Hilary Mantel
-5.  5\. Benteke and Kompany break Scotland resistance and push Levein to brink
+1.  1.  England to play Poland with roof closed – as Warsaw basks in sunshine
+2.  2\. Unemployment falls to 15-month low
+3.  3\. Eurozone crisis live: Relief as Spain avoids being downgraded on eve of EU summit
+4.  4\. Cover story: 20 years of G2 fronts
+5.  5\. Will a badger cull work?
 6.  All today's stories
 
 On the Guardian today
 
-1.  Sport Felix Baumgartner makes record-breaking skydive from space – video
-2.  Sport Felix Baumgartner's skydive spin as seen from camera on spacesuit - video
-3.  Football Poland v England – live!
-4.  World news Syria crisis: US concerned weapons reaching jihadis - Tuesday 16 October 2012
-5.  World news Gary McKinnon extradition to US blocked by British government – live
-6.  Football World Cup 2014 qualifiers – as it happened!
+1.  World news Second US presidential debate: Obama versus Romney – live coverage
+2.  Comment is free Self-assured Obama recovers with better balance of style and substance
+3.  Life and style Mapping the body: the temple
+4.  Sport Felix Baumgartner makes record-breaking skydive from space – video
+5.  World news Mitt Romney describes 'binders full of women' during second debate - video
+6.  Art and design Rotterdam art thieves take valuable paintings in dawn heist
 
 *   License/buy our content
 |*   Privacy policy
