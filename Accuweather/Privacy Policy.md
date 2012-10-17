@@ -1,3 +1,4 @@
+*   New York, NY on Premium - FREE!
 *   New York, NY
 *   Miami, FL
 *   Los Angeles, CA
@@ -186,9 +187,9 @@ To provide location-based services, AccuWeather and its partners and licensees u
 
 Version date: August 25, 2011
 
+*   Premium FREE Today Only!
 *   AccuWeather for iPad
 *   AccuWeather for Android
-*   AccuWeather Premium
 *   AccuWeather Professional
 *   SkyGuard Warnings
 *   Weather Data Portal
@@ -253,7 +254,7 @@ Health Flu Fighters Travel World's Best Airport Hotels Home &. Garden How to Ins
 
 Facebook Twitter Google+ AccuWeather.com Follow @breakingweather Hunting &. Fishing Home 7 Essential Foods That You Can't Camp Without Fall Bass Fishing Quiz: Test Your Skills Against Pro Angler Dave Wolak Catching a Trophy Musky Fishing Wives' Tales: How True are They?
 
-*   AccuWeather.com Premium
+*   AccuWeather.com Premium - FREE TODAY!
 *   AccuWeather.com Professional
 *   AccuWeather.com RadarPlus
 *   AccuWeather.com LightningPlus
