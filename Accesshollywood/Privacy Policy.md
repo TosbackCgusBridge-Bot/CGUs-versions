@@ -1,6 +1,6 @@
 Access Hollywood
 
-*   **HOT NOW:** The X Factor Names Hosts
+*   **HOT NOW:** Meet The New 'Skyfall' Bond Babes!
 
 *   WATCH
 *   NEWS
