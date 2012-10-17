@@ -83,12 +83,14 @@ A NOTE FROM STEPHANIE LINK
 
 *   HOT TOPICS:
 *   Cramer's Eight-Point Plan
-*   Second Presidential Debate Blog
-*   Romney Tax Plan
-*   Vikram Pandit Resigns
-*   New Mac Mini
+*   Who Won the Presidential Debate?
+*   Lance Armstrong
+*   Biotech Stock Bubble
+*   Options Webinar
+*   FDA Blog
+*   Doug Kass
 
-pjava05.dc.thestreet.com Privacy Policy
+pjava06.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -243,13 +245,13 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,551.78 127.55 0.95% NASDAQ 3,101.17 36.99 1.21% S&P 500 1,454.92 14.79 1.03% US 10 Yr 1.720% +0.057 Brokerage Partners Most Commented
+DOW 13,542.45 -9.33 -0.07% NASDAQ 3,110.65 9.48 0.31% S&P 500 1,461.13 6.21 0.43% US 10 Yr 1.792% +0.072 Brokerage Partners Most Commented
 
 *   Microsoft Will Lose a War With Apple. So Will Google
 *   10 Worst Cars of All Time
 *   10 Cult TV Shows Netflix Should Revive
 *   The Sad Story of Jack Welch in Retirement: Opinion
-*   Apple Bulls Having Love Fest: Please, Get a Room
+*   Apple, Microsoft Need to Innovate, If They Can
 
 Articles From Advertising Partners Free Newsletters from TheStreet
 
