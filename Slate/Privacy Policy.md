@@ -127,12 +127,15 @@ Slate **Slide Shows**
 
 Click here to load comments.
 
-*   Monkey Bars Broke My Daughter's Arm. Is It Time To Get Rid of Them?
-*   Why Christian Bookstores Banned This Evangelical Blogger's Book About the Bible
-
-*   Candy Crowley Says She Will Ask Follow-Up Questions Tonight Despite the Rules  
+*   The GOP Goes After Candy Crowley for Sticking Up for Obama  
     
-*   Eating Horses Isn't Just Mean to Horses. It's Bad for You.
+*   Romney Stumbles on Foreign Policy Again—This Time Worse Than Usual  
+    
+
+*   Five Bad Ideas From the Debate—Not All of Them Romney's  
+    
+*   The Debate Was One Giant Rule Violation  
+    
 
 Discover _Slate_ With Your Friends See what your friends are reading and automatically share how you're browsing _Slate_. You control what gets published to your Facebook News Feed. Social Reading is Turn ON Turn OFF Feedback <. newer | older >. To temporarily turn off Social Reading, toggle the social reading button to OFF at the top of this box or in the toolbar areas of this page. This will allow you to see what your friends have read but won't show your reading activity on _Slate_. Always notify me when I've shared an article. LOG INTO FACEBOOK  
 
@@ -140,45 +143,45 @@ To enable Social Reading on Slate, log into...
   
 \[  Cancel |  OK  \]
 
-*   1\. Why Obama Is Taking a Big Gamble Three Weeks Before Election Day  
-    By John Dickerson | October 16, 2012
-*   2\. Are Your Favorite TV Characters Democrat or Republican? We Have the Answers.  
-    By Holly Allen | October 15, 2012
-*   3\. Help! My Girlfriend Grows Hair on Her Chest.  
-    By Emily Yoffe | October 16, 2012
-*   4\. Help! I Had an Affair With My Students’ Mother.  
-    By Emily Yoffe | October 15, 2012
-*   5\. An Evangelical Writer Spent a Year Living Biblically. Now a Major Christian Bookseller Won’t Carry Her Book.  
-    By Ruth Graham | October 15, 2012
+*   1\. Pundits: Obama Rebounds With Strong Performance  
+    By Daniel Politi | October 17, 2012
+*   2\. Counting the Rule Violations at the Town Hall Debate  
+    By Josh Voorhees | October 17, 2012
+*   3\. Obama Won Tuesday Night’s Slugfest, but Both Candidates Got Bloody  
+    By John Dickerson | October 17, 2012
+*   4\. Binders Full of Women Aren't Enough To Solve Pay Inequality  
+    By Amanda Marcotte | October 17, 2012
+*   5\. How Did Romney Blow His Chance To Attack Obama on Libya?  
+    By David Weigel | October 17, 2012
 
-*   1\. A Very Unusual Camera That Emphasizes Time Over Space  
+*   1\. What Conservatives and Liberals Are Saying About the Town Hall Debate on Twitter  
+    October 16, 2012
+*   2\. Binders Full of Women Aren't Enough To Solve Pay Inequality  
+    By Amanda Marcotte | October 17, 2012
+*   3\. A Very Unusual Camera That Emphasizes Time Over Space  
     By Judith B. Herman | October 15, 2012
-*   2\. Anxious? Blame the Predators in Your Primate Family History.  
-    By Rob Dunn | October 15, 2012
-*   3\. Is the Supreme Court About To Swing Another Presidential Election?  
-    By Richard L. Hasen | October 15, 2012
-*   4\. An Evangelical Writer Spent a Year Living Biblically. Now a Major Christian Bookseller Won’t Carry Her Book.  
-    By Ruth Graham | October 15, 2012
-*   5\. The Ghostbusters, Gangnam-Style  
-    By David Haglund | October 15, 2012
+*   4\. Romney's 12 Million Jobs Pledge Based on Totally Bogus Math  
+    By Matthew Yglesias | October 16, 2012
+*   5\. Five Bad Ideas in Tonight's Debate  
+    By Matthew Yglesias | October 16, 2012
 
 See More Stories on THE WEEK
 
+*   WATCH LIVE: The second presidential debate
 *   13 little-known punctuation marks we should be using
-*   6 brutal takedowns of undecided voters
 *   Did Anonymous just unmask a man who allegedly drove a teen to suicide?
 
 See More Stories on newser
 
-*   Maxi Pad Maker to Ranter: You're Right, Periods Suck
-*   Report: Pandit Clashed With Citi Board
-*   Town-Hall Challenge: Can Romney, Obama Look Human?
+*   Ancient City Lined Up With Sun on King's Birthday
+*   Hikers' Skills Helped Them Survive in Montana Park
+*   Cops: Woman Locked Out of Car Calls 911, Lies About Trapped Baby
 
 See More Stories on TIME
 
-*   Romney's '12 Million Jobs' Pledge: A Cardboard Cutout of a Campaign Promise
-*   Malala Yousafzai: The Activist Father Who Inspired Her
-*   The Romney-Ryan Medicare Plan: How It Affects Seniors
+*   Live Blog: Obama and Romney Meet in Second Presidential Debate
+*   Online Abuse: The Tragic Case of Amanda Todd
+*   Malala Yousafzai: Inspired by Her Activist Father
 
 From The Root &. Foreign Policy
 
@@ -187,20 +190,22 @@ From The Root &. Foreign Policy
 *   An Army of One
 *   Ohio Early-Voting Victory for Obama Camp
 *   Brown and Rihanna Beating, in Blackface
-*   Coming Out: Is It All About You?
+*   Debate 2.0: Live Talk From TWIB, The Root
 
 *   MORE Slate User Agreement And Privacy Policy COLUMNS
 
 *   VIEW OUR COMPLETE **Slate User Agreement And Privacy Policy** ARCHIVE
 
-*   Candy Crowley Says She Will Ask Follow-Up Questions Tonight Despite the Rules  
+*   Five Bad Ideas From the Debate—Not All of Them Romney's  
     
-*   Dick Cheney Probably Shouldn't Criticize People for Not Being Prepared for Terrorist Attacks  
+*   Mitt Romney Is So Proud of His Massachusetts Scholarship Plan. Too Bad It Didn’t Work.
+*   The Debate Was One Giant Rule Violation  
     
-*   Monkey Bars Broke My Daughter's Arm. Is It Time To Get Rid of Them?
-*   Why Christian Bookstores Banned This Evangelical Blogger's Book About the Bible
-*   Eating Horses Isn't Just Mean to Horses. It's Bad for You.
-*   Advice for Tina Fey and Amy Poehler on Hosting the Golden Globes  
+*   _American Horror Story_ Returns, With New Characters, New Setting, Same Giddy Blasphemy  
+    
+*   Romney Stumbles on Foreign Policy Again—This Time Worse Than Usual  
+    
+*   The GOP Goes After Candy Crowley for Sticking Up for Obama  
     
 
 about us | contact us | User Agreement | Privacy Policy | _Slate_ on Facebook | ad choices  
