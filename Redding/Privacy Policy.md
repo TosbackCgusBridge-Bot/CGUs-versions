@@ -267,18 +267,18 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Updated 10/16/2012 at 2:43 p.m. 95 comments
-*   UPDATED: Boy, 16, hit by vehicle outside school Updated 10/16/2012 at 8:51 p.m. 21 comments
-*   Worker cooked at tuna plant Published 10/16/2012 at 12:49 a.m. 30 comments
-*   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 88 comments
-*   Social Security benefits to go up by 1.7 percent next year Published 10/16/2012 at 8:28 a.m. 63 comments
+*   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Updated 10/16/2012 at 2:43 p.m. 97 comments
+*   UPDATED: Boy, 16, hit by vehicle outside school Updated 10/16/2012 at 8:51 p.m. 24 comments
+*   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 101 comments
+*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 120 comments
+*   Families dispute eviction to make room for Win-River Casino road widening Published 10/16/2012 at 4:30 p.m. 21 comments
 
 Photo Galleries Enterprise beats Foothill Red Bluff men get marijuana back Historic skydive from the edge of space
 
-*   Jim Jones: Gas prices are just the start Published 10/15/2012 at 12:00 a.m. 172 comments
-*   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Published 10/15/2012 at 11:42 p.m. 95 comments
-*   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 88 comments
-*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 87 comments
+*   Jim Jones: Gas prices are just the start Published 10/15/2012 at 12:00 a.m. 173 comments
+*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 120 comments
+*   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Published 10/15/2012 at 11:42 p.m. 97 comments
+*   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 101 comments
 *   Richard Wrathall: We need more producers, fewer takers Published 10/15/2012 at 12:00 a.m. 78 comments
 
 *   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
@@ -293,23 +293,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 65° Fair Wind: N 13mph Today 92° 59° Wed 05:00 PM Sunny Temp: 89° Thu 05:00 AM Clear Temp: 58° Thu 05:00 PM Sunny Temp: 86°
+Currently 67° Fair Wind: N 17mph Today 92° 56° Wed 10:00 PM Clear Temp: 67° Thu 10:00 AM Sunny Temp: 76° Thu 10:00 PM Mostly Clear Temp: 62°
 
-Feels Like: 85°
+Feels Like: 67°
 
-Humidity: 10%
-
-Precip: 0%
-
-Feels Like: 58°
-
-Humidity: 33%
+Humidity: 26%
 
 Precip: 0%
 
-Feels Like: 83°
+Feels Like: 76°
 
-Humidity: 14%
+Humidity: 17%
+
+Precip: 0%
+
+Feels Like: 62°
+
+Humidity: 41%
 
 Precip: 0%
 
@@ -360,10 +360,9 @@ Loading...
 
 More Events » Features
 
-*   Join the Live Debate Coverage
+*   Missed the Presidential Debate Last Night?
     
-    Presidential debate.  
-    Tonight at 6:00 pm
+    Catch up and watch it here.
     
     Fantasy Fountain
     
