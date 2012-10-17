@@ -42,7 +42,7 @@ AllThingsD
 
 *   View by Writer
 
-**Trending –** The $56 Million Man: Yahoo Confirms Hiring of Google’s De Castro as COO  
+**Walt Mossberg –** Windows Pushes Into the Tablet Age  
 
 Follow on Twitter »Subscribe on Facebook »Like on Facebook »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
 
