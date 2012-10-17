@@ -300,10 +300,10 @@ Women's
 *   Tees, Fleece &. L/S
 *   Fashion Tops
 *   Dresses &. Skirts
-*   Branded Fashion Denim
+*   Branded &. Basic Denim
+*   Bullhead Black Denim
 *   Essential Tops
 *   Body Con Skirts
-*   Shorts
 
 Don't miss Brands
 
