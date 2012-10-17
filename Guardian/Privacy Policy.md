@@ -290,17 +290,17 @@ Last 24 hours
 1.  1.  **News:** Second US presidential debate: Obama versus Romney – live coverage
 2.  2\. **News:** Mitt Romney's binders full of women just don't stack up
 3.  3\. **News:** Obama regains the initiative to win second presidential debate
-4.  4\. **Football:** Farce as Poland-England qualifier is postponed after torrential rain
-5.  5\. **Football:** Sweden come back from four down to secure historic draw in Germany
+4.  4\. **Football:** Sweden come back from four down to secure historic draw in Germany
+5.  5\. **Football:** Farce as Poland-England qualifier is postponed after torrential rain
 6.  More most viewed
 
 Last 24 hours
 
 1.  **News:** Second US presidential debate: Obama versus Romney – live coverage
 2.  **News:** Obama and Romney face off in second US presidential debate - video
-3.  **News:** Obama regains the initiative to win second presidential debate
-4.  **News:** Mitt Romney describes 'binders full of women' during second debate - video
-5.  **Society:** 450,000 disabled people to lose out under universal credit, study finds
+3.  **Politics:** David Cameron and Ed Miliband at PMQs: politics live blog
+4.  **Politics:** Prime minister's questions: 17 October 2012 - audio
+5.  **Environment:** Will a badger cull work?
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -308,21 +308,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  England to play Poland with roof closed – as Warsaw basks in sunshine
-2.  2\. Unemployment falls to 15-month low
-3.  3\. Eurozone crisis live: Relief as Spain avoids being downgraded on eve of EU summit
-4.  4\. Cover story: 20 years of G2 fronts
-5.  5\. Will a badger cull work?
+1.  1.  Dozens of Spitfire planes to be evacuated in Burma
+2.  2\. Poland v England – live!
+3.  3\. Grim exhibition shows role of grave robbers in medical science
+4.  4\. Syria crisis: Brahimi pushes for truce - live updates
+5.  5\. Picture desk live: the day's best news images
 6.  All today's stories
 
 On the Guardian today
 
-1.  World news Second US presidential debate: Obama versus Romney – live coverage
-2.  Comment is free Self-assured Obama recovers with better balance of style and substance
-3.  Life and style Mapping the body: the temple
-4.  Sport Felix Baumgartner makes record-breaking skydive from space – video
+1.  Comment is free Self-assured Obama recovers with better balance of style and substance
+2.  World news Second US presidential debate: Obama versus Romney – live coverage
+3.  Sport Felix Baumgartner makes record-breaking skydive from space – video
+4.  Life and style Mapping the body: the temple
 5.  World news Mitt Romney describes 'binders full of women' during second debate - video
-6.  Art and design Rotterdam art thieves take valuable paintings in dawn heist
+6.  Football Poland v England – live!
 
 *   License/buy our content
 |*   Privacy policy
