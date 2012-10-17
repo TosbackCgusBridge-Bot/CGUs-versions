@@ -116,7 +116,18 @@ Universal City, CA 91608
 
 **Terms of Service >**
 
-Recent Episodes Air Date: 10/16/12
+Recent Episodes Air Date: 10/16/12 Watch Until: 1/17/13
+
+The Voice
+
+Ep 313: Battles, Part 4
+
+The coaches keep pushing their artists to their limits - and eyeing whom they want to steal.
+
+*   Watch Episode
+*   Read Recap
+
+Air Date: 10/16/12 Watch Until: 11/3/12
 
 Days of our Lives
 
@@ -124,6 +135,7 @@ Ep 11940: Tuesday - 10/16/12
 
 EJ learns of the death of his child.
 
+*   Watch Episode
 *   Read Recap
 
 Air Date: 10/15/12 Watch Until: 11/27/12
@@ -133,17 +145,6 @@ Revolution
 Ep 105: Soul Train
 
 Charlie and Miles are shocked to learn the Militia has leveraged a forgotten technology. Kim Raver and Jeff Fahey guest star.
-
-*   Watch Episode
-*   Read Recap
-
-Air Date: 10/15/12 Watch Until: 1/17/13
-
-The Voice
-
-Ep 312: Battles, Part 3
-
-As more artists sing head-to-head, the coaches struggle to save or steal the very best.
 
 *   Watch Episode
 *   Read Recap
