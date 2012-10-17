@@ -142,7 +142,7 @@ Examples of information you can access easily at Amazon.com include up-to-date i
 
 *   Track or Manage Purchases
 *   Manage Payment Options
-*   Return Items
+*   Returns and Replacements
 *   Change Name, E-mail, or Password
 *   Manage Address Book
 *   Manage Your Kindle
