@@ -1,37 +1,4 @@
-1.  Search
-2.  Images
-3.  Maps
-4.  Play
-5.  YouTube
-6.  News
-7.  Gmail
-8.  Documents
-9.  More
-    1.  Calendar
-    2.  Translate
-    3.  Mobile
-    4.  Books
-    5.  Offers
-    6.  Wallet
-    7.  Shopping
-    8.  Blogger
-    9.  Reader
-    10.  Finance
-    11.  Photos
-    12.  Videos
-    
-    14.  Even more »
-
-Account Options
-
-1.  Sign in
-
-Sign In Upload
-
-*   Video Manager
-*   Analytics
-
-Search
+Sign In Browse|Movies |Upload Search
 
 *   About
 *   Press &. Blogs
