@@ -1,4 +1,4 @@
-About Us| Newsletter October 16, 2012
+About Us| Newsletter October 17, 2012
 
 *   Like Us
 *   Follow Us
@@ -60,7 +60,7 @@ A reddish, scaly rash often located over the surfaces of the elbows, knees, scal
 
 View Image Gallery »
 
-See All Quizzes (107)
+See All Quizzes (108)
 
 1.  **Happiness** - Test your emotional IQ
 2.  **Superfoods** - Are you eating enough?
