@@ -382,6 +382,11 @@ Ventura County Star
 *   Cars
 *   Classified
 
+*   Today
+    
+    S.P. meets on delay |  CLU prof. to talk |  Seafood event |  10 to know
+    
+
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -634,25 +639,25 @@ Most Popular
 *   Commented
 *   Emailed
 
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 116 comments
 *   Oxnard police chief calls shootout that killed bystander a tragedy Updated 10/16/2012 at 7:12 p.m.
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 75 comments
-*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 55 comments
-*   Officials confirm 1 of 2 killed in Oxnard police shootout was innocent bystander Updated 10/15/2012 at 7:32 p.m.
 *   Investigation continues involving woman's fall onto highway Updated 10/16/2012 at 5:24 p.m.
+*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 57 comments
+*   Officials confirm 1 of 2 killed in Oxnard police shootout was innocent bystander Updated 10/15/2012 at 7:32 p.m.
 
-Photo Galleries Chaotic shooting rattles La Colonia… Ventura County's Most Wanted October… Sailors brave choppy waters
+Photo Galleries Chaotic shooting rattles La Colonia… Ventura County's Most Wanted October… Top-flight building spices up…
 
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 75 comments
-*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 55 comments
-*   CLU professor heads study of undocumented college students Published 10/14/2012 at 5:49 p.m. 63 comments
-*   Morning chat Published 10/15/2012 at 12:00 a.m. 62 comments
-*   Morning chat Published 10/16/2012 at 12:00 a.m. 55 comments
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 116 comments
+*   Murdock: Inconvenient truths about Benghazi Updated // at : 57 comments
+*   CLU professor heads study of undocumented college students Updated // at : 64 comments
+*   Morning chat Updated // at : 62 comments
+*   Morning chat Updated // at : 55 comments
 
-*   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 40 comments
-*   Norovirus outbreak hits Oak Park school Published 10/15/2012 at 5:56 p.m. 8 comments
-*   2 dead after Oxnard police trade gunfire with men Published 10/14/2012 at 2:57 p.m. 0 comments
-*   Seaward Avenue crash kills motorcyclist in Ventura Published 10/9/2012 at 5:25 p.m. 0 comments
-*   Authorities identify motorcylclist killed in Ventura crash Published 10/10/2012 at 8:38 a.m. 0 comments
+*   Port Hueneme city manager asked to resign Updated 10/9/2012 at 6:40 p.m. 40 comments
+*   Norovirus outbreak hits Oak Park school Updated 10/15/2012 at 6:04 p.m. 8 comments
+*   2 dead after Oxnard police trade gunfire with men Updated 10/14/2012 at 8:00 p.m. 0 comments
+*   Seaward Avenue crash kills motorcyclist in Ventura Updated 10/9/2012 at 9:16 p.m. 0 comments
+*   Authorities identify motorcylclist killed in Ventura crash Updated 10/10/2012 at 6:24 p.m. 0 comments
 
 Weather
 
@@ -660,25 +665,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 60° Fair Wind: W 4mph Today 81° 61° Wed 05:00 PM Sunny Temp: 77° Thu 05:00 AM Clear Temp: 61° Thu 05:00 PM Sunny Temp: 71°
+Currently 70° Fair Wind: W 5mph Today 81° 61° Wed 10:00 PM Clear Temp: 67° Thu 10:00 AM Sunny Temp: 72° Thu 10:00 PM Mostly Clear Temp: 63°
 
-Feels Like: 77°
+Feels Like: 67°
 
-Humidity: 58%
-
-Precip: 0%
-
-Feels Like: 61°
-
-Humidity: 100%
+Humidity: 81%
 
 Precip: 0%
 
-Feels Like: 71°
+Feels Like: 72°
 
-Humidity: 71%
+Humidity: 68%
 
 Precip: 0%
+
+Feels Like: 63°
+
+Humidity: 90%
+
+Precip: 7%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
