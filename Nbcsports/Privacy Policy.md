@@ -23,7 +23,7 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     Sports Talk: Erik Kuselias and Chris Mannix of Sports Illustrated give you their over/under prediction for a few NBA teams that are expected to do well. Who do they think will be the team to beat?
     
-    Winderman: Fun police going after handshakes? PBT: Marcus Camby not near Knicks return PBT: Bynum back Oct. 24, but he's out of shape PBT: Celtics' Terry already hates Heat, Lakers PBT: Lakers may sign Derek Fisher on Wednesday PBT: Preseason showing that Lakers lack depth PBT: Mavs suspend West after lockerroom outburst PBT: Dirk still has no plans for surgery Ad
+    Winderman: Fun police going after handshakes? PBT: LeBron practices his skyhook (video) PBT: Marcus Camby not near Knicks return PBT: Bynum back Oct. 24, but he's out of shape PBT: Celtics' Terry already hates Heat, Lakers PBT: Lakers may sign Derek Fisher on Wednesday PBT: Preseason showing that Lakers lack depth PBT: Mavs suspend West after lockerroom outburst Ad
 *   NCAA FB
     SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Scott Cunningham / Getty Images Richt 'not counting' Jones out yet
     
@@ -43,11 +43,11 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     NBC Sports Group gets US Formula One rights Ferrari extends Massa's contract through 2013 Red Bull driver Vettel wins Korean GP NASCAR dumps top 35 rule, cuts Nationwide field Earnhardt visits concussion specialist in Pa. NASCAR dumps top 35 rule, cuts Nationwide field Allmendinger to drive for Phoenix again at Kansas NASCAR and Fox sign 8-year extension through 2022 Ad
 *   NCAA BK
-    SectionsCollegeBasketballTalk Bracket contest Men's scores Women's scores Video Standings Schedules Stats Rosters Teams Odds Matchups Tickets Shop Headlines Nick Wass / AP Georgetown young but versatile
+    SectionsCollegeBasketballTalk Bracket contest Men's scores Women's scores Video Standings Schedules Stats Rosters Teams Odds Matchups Tickets Shop Headlines James Crisp / AP Impact transfers for this season
     
-    CBT: Since John Thompson III took over at Georgetown, his best teams have had a steady, veteran presence in the back court and versatile, playmaking big men. This season, those roles are two big question marks.
+    CBT: Ryan Harrow gives Kentucky yet another blue chip player at point guard. Who will be the other players that affect the college hoops landscape?
     
-    CBT: Minnesota's Mbakwe has more legal issues CBT: Knight to auction title rings, gold medal Column: Knight not living in past, will auction it CBT: 15 players with breakout potential NC State tabbed as ACC preseason favorites CBT: NCAA reportedly passes $500 million in net assets CBT: Louis Orr’s house tagged with racial graffiti CBT: Duke's Marshall Plumlee out 6-8 weeks Ad
+    CBT: Georgetown is young but versatile CBT: Minnesota's Mbakwe has more legal issues CBT: Knight to auction title rings, gold medal Column: Knight not living in past, will auction it CBT: 15 players with breakout potential NC State tabbed as ACC preseason favorites CBT: NCAA reportedly passes $500 million in net assets CBT: Louis Orr’s house tagged with racial graffiti Ad
 *   Soccer
     SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Reed Hoffmann / AP Promises fulfilled: US attacking clicks
     
@@ -65,7 +65,7 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     Lance Armstrong stepped down as chairman of his Livestrong cancer-fighting charity and Nike severed ties with him as fallout from the doping scandal swirling around the famed cyclist escalated Wednesday.
     
-    Omerta has to be broken, says Hamilton Cyclist Leipheimer fired for doping admission The Week in Sports Pictures America's Cup catamaran capsizes on SF Bay Fever are 'here for real' with 1-0 lead on Lynx Peewee coach slaps ref Skull vehicle beats out rivals at soapbox race NJ plans to start licensing sports bets in January Ad
+    Omerta has to be broken, says Hamilton Cyclist Leipheimer fired for doping admission The Week in Sports Pictures America's Cup champ assessing damage after capsize Fever are 'here for real' with 1-0 lead on Lynx Peewee coach slaps ref Skull vehicle beats out rivals at soapbox race NJ plans to start licensing sports bets in January Ad
 
 *   Scores
 *   Odds
