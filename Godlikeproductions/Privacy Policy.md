@@ -1,5 +1,5 @@
   
-Users Online Now: **3,139** (Who's On?) Visitors Today: **914,435** Pageviews Today: **1,670,235** Threads Today: **857** Posts Today: **13,200** 05:19 PM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,931** (Who's On?) Visitors Today: **481,208** Pageviews Today: **746,516** Threads Today: **356** Posts Today: **4,580** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -138,8 +138,6 @@ News
 *   Report: Ukraine Trains Dolphins With Friggin’ Pistols on Their Heads
 *   Safer, more efficient, fusion-generated electricity is on the horizon
 
-  
-  
   
   
   
