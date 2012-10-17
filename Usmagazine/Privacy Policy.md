@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Pippa's Looking Plum »
+Hot Pics! J.Lo Sparkles »
 
-Top Stories1.  Kirstie Alley: I Wasn’t Crying After DWTS Cartwheel! »
-2.  Kristen Wiig Debuts Lighter Hair Color: "I Love It!" »
-3.  Bachelorette Wedding: Will You Watch Ashley, J.P. Get Married? »
-4.  Kate Gosselin on Her Face: I "De-Age" »
-5.  Naked Sandra Bullock Bullies Chelsea Handler »
+Top Stories1.  Exclusive Tori Spelling's Miracle Baby Finn: See All the Pictures »
+2.  Kate Gosselin on Her Face: I "De-Age" »
+3.  Kim Kardashian Wears Tight See-Through Skirt, Bra Top on Date With Kanye »
+4.  Chelsea Handler Mocks Jennifer Aniston's "Very Pronounced" Nipples »
+5.  Tyler Perry Unveils 30-Pound Weight Loss on Men's Health Cover »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Tori's Miracle Baby
 
 Inside Us Weekly
 
-*   Style Kim Kardashian Wears Tight See-Through Skirt,
-*   Beauty Brooklyn Decker Goes Brunette!
+*   Style Lea Michele’s Sheer Dress-Bodysuit Combo: L
+*   Beauty Watch Part 2 of Brad Pitt's Sexy Chanel No. 5
 *   Moms Tori Spelling's Miracle Baby Finn: See All th
-*   Body Nina Dobrev: "Starving to Be Skinny Isn't My  
-*   Entertainment Beyonce to Headline 2013 Super Bowl Halftime  
+*   Body Jennie Garth: I Stay Skinny With "Me" Time  
+*   Entertainment Bristol Palin Eliminated on Dancing With the  
 
 *   US WEEKLY
 *   Celebrity News
