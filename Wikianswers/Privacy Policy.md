@@ -269,7 +269,7 @@ Answers may amend this policy from time to time by posting the new text on the S
   
 If you have any questions or suggestions regarding this privacy policy, please contact Answers: privacy\_at\_answers.com.  
   
-ADVERTISEMENT Answer these When did the bubble out television came out? In: Television and Video Answer it! What are the sedimentary rocks that becomes metamorphic rocks? In: Geology Answer it! How many cores does a loop has? In: Intel Core 2 Answer it! How air pollutants harm the environment? In: Pollution Answer it! ADVERTISEMENT Answers Properties
+ADVERTISEMENT Answer these When you have sputum specimen what is the cells you suppose to see when you stain the specimen by pap stain? In: Biology Answer it! What is the impact factor of International Journal of Computer and Information Technology? In: Computer Terminology Answer it! What are some moral and ethical issues that face defense attorneys? In: Ethics Answer it! What is iron minus lithium? In: Periodic Table Answer it! ADVERTISEMENT Answers Properties
 
 *   Wiki Answers
 *   Video Answers
