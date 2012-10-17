@@ -15,10 +15,10 @@
 Featured:
 
 *   Debates
-*   The Hero Project
+*   Hero Project
 *   Andrew Sullivan's The Dish
 *   Howard Kurtz
-*   David Frum
+*   Frum
 
 Privacy Policy   Content Section
 
@@ -145,37 +145,37 @@ Stories We Like
   Most Popular
 
 1.  Mitt’s ‘Binders Full of Women’ Slip
-2.  7 Best Moments from the Second Presidential Debate
-3.  My Proof of Heaven
-4.  The Great Deformer
-5.  Obama Seizes the Upper Hand
+2.  Obama Seizes the Upper Hand
+3.  7 Best Moments from the Second Presidential Debate
+4.  Candy’s Fact-Check
+5.  The Great Deformer
 
   Other News Entertainment
 
 *   Week in Photos for Oct. 19, 2012
-*   BING: Celebs in Halloween Costumes
-*   Celebs Who Own Sports Teams
+*   Glum-Faced John Mayer Marks Birthday With Katy Perry, Bow Tie
+*   The Shortlist for Oct. 17
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   Beyonce’s Super Bowl halftime show: Who should guest star with her?
-*   ‘Sons of Anarchy’ recap: The table’s divided, and it’s a small world after all
-*   ‘Dancing With the Stars’: Hidden Gems of Week 4
+*   Moderator Candy Crowley talks about debate on ‘The View’
+*   John Mayer celebrates 35th birthday with Katy Perry
+*   Weird Idea Jeans: Glenn Beck protests ‘socialist’ Levi’s by selling ‘all-American’ dungarees
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Where Barack Obama Won The Debate
-*   Spin Alley Reacts To "Binders Full Of Women"
-*   Romney Campaign Will Litigate Libya
+*   Team Obama Celebrates Romney's "Binders Of Women" Line
+*   You Need To Hear The New Godspeed You! Black Emperor Album
+*   Lance Armstrong Steps Down At Livestrong, Loses Nike Sponsorship
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   More Reaction to the Second Presidential Debate
-*   Reaction to the Second Presidential Debate
-*   The Second Presidential Debate
+*   What They're Reading in Chicago
+*   Who Won the Debate - Before it Happened?
+*   Four States
 *   **Get More from Political Wire**
 
 The Daily Beast
@@ -207,10 +207,10 @@ Sections:
 Featured:
 
 *   Debates
-*   The Hero Project
+*   Hero Project
 *   Andrew Sullivan's The Dish
 *   Howard Kurtz
-*   David Frum
+*   Frum
 
 Partners:
 
