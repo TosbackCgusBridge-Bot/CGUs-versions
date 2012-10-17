@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Zumba scandal: 21 names released in Maine prostitution case (+video)
-2.  Dutch art heist 'a nightmare for any museum director' (+video)
-3.  Sharper, more aggressive Obama shows up to second presidential debate (+video)
-4.  Round 2: President Obama turns up the heat in combative town-hall debate
-5.  End of the exit visa in Cuba? (+video)
+1.  'Binders full of women': What's the social media buzz about?
+2.  Zumba scandal: 21 names released in Maine prostitution case (+video)
+3.  Round 2: President Obama turns up the heat in combative debate (+video)
+4.  Maine earthquake felt across New England
+5.  Has Obama reenergized Democrats with debate performance?
 
 About these ads
 
@@ -112,14 +112,14 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 Editors' Picks:
 
 *   Focus  
-    As sanctions crush rial's value, Iranians point fingers at Ahmadinejad
+    Election 2012: Ballot initiatives reflect nation's mood
     
-    Western leaders may finally be seeing the result of stringent sanctions as Iranians blame their government, not the US and EU, for the precipitous economic decline of the oil-rich country.
+    The 174 propositions on state ballots point to evolving opinions on marijuana, same-sex marriage, health care, and more. Do the initiatives show the power of direct democracy or lack of legislative leadership?
     
+*   Global News Blog: Iran sees conspiracy in box office success of Ben Affleck's 'Argo'
+*   The Vote: Viewing the Romney-Obama debate in battleground Ohio: a tribal experience
 *   Cuban Missile Crisis: the 3 most surprising things you didn't know
 *   Global News Blog: Britain nixes extradition of NASA hacker Gary McKinnon to US
-*   Backchannels: A senior Iraqi official ponders if his government is a client of Iran's
-*   Decoder Wire: With race tight, celebrities make the pitch for Obama
 
 _Photos of the day_ 10.16.12 » Photos of the Day 10/16
 
@@ -143,17 +143,18 @@ When she found herself suddenly wealthy, the Indian philanthropist founded Prath
 
 Become part of the Monitor community
 
-*   USA » Can the Yankees dig out of 0-2 hole and win against the Tigers?
+*   The Culture » Baby Jessica rescue: Was it the birth of helicopter parenting? (+video)
+*   USA » With race tight, celebrities make the pitch for Obama
+*   World » Focus: As sanctions crush rial's value, Iranians point fingers at Ahmadinejad
 *   Science » Water on the moon? Maybe a lot more than we thought ... thanks to the sun.
 *   The Culture » Jessica Ridgeway abduction: Getting a grip on the parenting overreaction
 *   Business » Presidents and the economy: Who was best, worst? Take our quiz.
 *   Business » Peanut butter recall expands again. Now included: peanuts (+video)
-*   Books » Sarah Palin says she will release a book on fitness and proper diet
 *   Making a Difference Rohini Nilekani pours her wealth into getting books to India's poorest children
+*   Books » Sarah Palin says she will release a book on fitness and proper diet
 *   World » Focus: Vladimir Putin 2.0: A harder, eastward-looking presidency
 *   USA » Focus: Obama's new program for young illegal immigrants: How is it going?
 *   The Culture » 'Call Me Maybe': Being happy in a minor key
-*   Energy/Environment » Coyotes, bears, and lions: the new urban pioneers?
 
 About these ads
 
