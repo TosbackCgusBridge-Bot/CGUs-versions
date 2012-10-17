@@ -4,7 +4,7 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] 2 Days only - Members get Free shipping over $50 when signed in!
+\[hol-HomepageTopBannerEMS\] Last Day - Members get Free shipping over $50 when signed in!
 
 *   Sign In
 
