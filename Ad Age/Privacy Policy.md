@@ -132,25 +132,25 @@ News _from our Ad Age Partners_
 *   Dealers cautious about 2013 ad dollars
 *   Honda's bundle of cash revives Tier 2 ad plans
 
+*   'Where does data gathering end and data analysis begin?'
+*   CMO Close-Up with D. Jeffry Benoliel, VP-global strategy, Quaker Chemical Corp.
 *   New VP-marketing at Navex Global sticks with proven plan
 *   Weaving together your content and merchandising strategies
-*   ID Wholesaler: Building 'clever' inbound links
-*   How can I use email to drive video views?
 
-*   Can presidents change gas prices?
-*   The 5%: Romney defines 'rich'
-*   Tough talk on China
-*   Obama's housing scorecard
+*   Postal Service barred from borrowing more
+*   Bindersfullofwomen.com snapped up in 90 seconds
+*   Stocks stuck in neutral as earnings roll in
+*   EU leaders meet to chart eurozone future
 
 *   Martha Stewart teams with Toyota
 *   Macy's moves $500M media account to Carat
 *   25th anniversary of Crain's 40 Under 40
 *   Online advertising jumps 14% to record $17B
 
-*   Citi's Pandit denies being forced out
-*   Stock market is good gauge of election
-*   Stocks rally strongly as earnings concerns ease
-*   Garbage industry digs around for new business
+*   Housing starts hit fastest pace in 4 years
+*   Armstrong loses Nike contract, steps down from charity
+*   Confession time: Panty liner ads aren't real
+*   Tips to help small businesses survive hard times
 
 *   2013 FIAT 500
 *   2013 Scion FR-S
