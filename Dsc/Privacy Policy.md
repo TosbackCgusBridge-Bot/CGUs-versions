@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Alaska: The Last Frontier (Season 2)Dead of Winter 8:00PM Alaska: The Last Frontier (Season 2)Spring Has Sprung 9:00PM Alaska: The Last Frontier (Season 2)Cattle Drive TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Sons of Guns (Season 3)Shotgun Superstars vs. Red Jacket 8:00PM Sons of Guns: Osama Takedown Gun Reloaded  9:00PM Sons of Guns (Season 3)Nine Guns and a Shootout TV SHOWS
 
 American Chopper
 
@@ -324,6 +324,14 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
+Organic Farming Increases Soil Quality
+
+Eight-Eyed Spiders Watch Videos and People
+
+Geoengineering Nut Dumps Tons of Iron Into Ocean
+
+Earth-Sized World Found Next Door
+
 Excellent Idea of the Day: Cheap Classroom Polls
 
 Planet Found in Quadruple Star System
@@ -331,14 +339,6 @@ Planet Found in Quadruple Star System
 Seven Masterpieces Stolen in Dutch Museum Heist
 
 Greenest Street In America Eats Smog
-
-Alaskan Women Are Tough: Gotta-See Video
-
-Electric Cadillac Coming in 2013: DNews Nugget
-
-Voters Swayed by Football, Sharks : DNews Nugget
-
-Laser-Guided Gas Mask Points the Way Out
 
   facebook share0 Tweet Privacy Policy  
 
@@ -544,42 +544,33 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 16,  
-4:00 pm  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 17,  
+7:00 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 17,  
+7:30 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 17,  
+8:00 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 17,  
+8:30 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 17,  
+9:00 am  
 60 min(s)  
-**Alaska: Ice Cold Killers**  
-_Hunting Humans_  
- Robert Hansen was a mild-mannered family man with a passion for h  
-Oct 16,  
-5:00 pm  
-60 min(s)  
-**Alaska: Ice Cold Killers**  
-_Frozen Terror_  
- Environmentalist Louis Hastings decides he must blow up the Alask  
-Oct 16,  
-6:00 pm  
-60 min(s)  
-**Alaska: The Last Frontier**  
-_Snow, Cold and Darkness_  
- The early winter storms have left the entire homestead unprepared  
-Oct 16,  
-7:00 pm  
-60 min(s)  
-**Alaska: The Last Frontier (Season 2)**  
-_Dead of Winter_  
- The extended Kilcher family struggle to get through a record-brea  
-Oct 16,  
-8:00 pm  
-60 min(s)  
-**Alaska: The Last Frontier (Season 2)**  
-_Spring Has Sprung_  
- Spring finally arrives on the homestead. Eivin mills lumber, buil  
-**More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
-$47.95  
-  **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
-$12.95   **Discovering Ardi DVD**  
-$19.95   **Discovery Channel Polymer Chemistry Set**  
-$19.95        
+**The FBI Files**  
+_Dangerous Gamble_  
+ Two masked robbers armed with semi-automatic weapons robbed armor  
+**More Listings »**   Shop Discovery Store      
 
 our sites
 
