@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 12 hours ago
+28 minutes ago
 
-@BleacherReport: Clint Dempsey is not impressed with Clint Dempsey http://t.co/RaBx21q4
+@BleacherReport: Indiana is No.1 in the USA Today college basketball preseason coaches poll. (2) L'ville (3) Kentucky (4) OSU (5) Mich http://t.co/fFxJexxu
 
 Newsletters
 
