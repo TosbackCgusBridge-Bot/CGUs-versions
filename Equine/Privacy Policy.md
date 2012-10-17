@@ -113,18 +113,17 @@ Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad **Exposure**  
-Sell online and in regional publications. Online ads have up to 24 color photos. Our network of magazines appear throughout the U.S. Testimonials **Don't just take our word for it...** " Equine.com sent dozens of potential buyers my way, and I had multiple people coming out to try my mare every week. I was ab..."  
-**Ali**  
-Lebanon , Ohio " We get so many serious buyers from this website!!!! "  
-**Wes**  
-Purcell, Oklahoma " This gelding has 2 serious buyers and one that bought him within a week...Job well done Equine.com "  
-**Houston**  
-Blanchard , Oklahoma "Thank you for another great experience! So convenient, and so much exposure to great buyers!!! Another success on equine.co..."  
-**Jennifer**  
-Eau Claire, Wisconsin " Nice people, good communication, good home for our Gallagher. "  
-**Jennifer**  
-Waldron , Indiana View More Testimonials
+Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad Equine.com is the Official Classifieds Site for our 25+ partner sites including: Testimonials **Don't just take our word for it...** "Lots of interest and equine.com got my horse sold. Thanks so much."  
+**Melinda**  
+Lebanon , Kentucky " Another great selling experience with equine.com If you tried the rest do what I did and sell with the best! "  
+**Someone**  
+REINHOLDS, Pennsylvania "Equine.com is fabulous as usual - love your site for selling horses - so easy to use :-)"  
+**Sandy**  
+Tottenham, Oklahoma " They heard about her and looked her up on equine.com and loved her! "  
+**Someone**  
+Jemison , Alabama " Thanks for your wonderful service. This is the second horse I have placed with the same family who seen our ad on equine.c..."  
+**Melanie**  
+Comer , Georgia View More Testimonials
 
 *   Advertise
 *   |
