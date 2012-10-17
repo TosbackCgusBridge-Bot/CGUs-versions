@@ -1,118 +1,116 @@
 PGA Tour
 
 *   PGA Tour
-    *   Frys.com Open
+    *   The McGladrey Classic
 *   European Tour
-    *   Portugal Masters
+    *   ISPS Handa Perth International
 *   LPGA
-    *   Sime Darby LPGA Malaysia
-*   Champions Tour
-    *   Greater Hickory Classic at Rock ...
+    *   LPGA KEB - HanaBank Championship
 *   Web.com Tour
-    *   Miccosukee Championship
+    *   Winn-Dixie Jacksonville Open Pre...
 *   Titleist On Tour
 
-Frys.com Open View Leaderboard >.
+The McGladrey Classic View Tee Times >.
 
-*   1
+*   12:15 PM ET
+*   B.Adams
+*   \-
+*   \-
+
+*   12:35 PM ET
+*   R.Allenby
+*   \-
+*   \-
+
+*   8:25 AM ET
+*   S.Ames
+*   \-
+*   \-
+
+*   1:25 PM ET
+*   M.Anderson
+*   \-
+*   \-
+
+*   8:25 AM ET
+*   S.Appleby
+*   \-
+*   \-
+
+*   8:25 AM ET
+*   A.Atwal
+*   \-
+*   \-
+
+*   12:05 PM ET
+*   R.Barnes
+*   \-
+*   \-
+
+*   12:55 PM ET
+*   C.Beckman
+*   \-
+*   \-
+
+*   1:45 PM ET
+*   C.Beljan
+*   \-
+*   \-
+
+*   7:45 AM ET
+*   S.Bertsch
+*   \-
+*   \-
+
+*   12:55 PM ET
+*   M.Bettencourt
+*   \-
+*   \-
+
+*   1:35 PM ET
+*   T.Biershenk
+*   \-
+*   \-
+
+*   8:15 AM ET
 *   J.Blixt
-*   \-16
-*   F
+*   \-
+*   \-
 
-*   T2
-*   J.Kokrak
-*   \-15
-*   F
+*   8:35 AM ET
+*   J.Bohn
+*   \-
+*   \-
 
-*   T2
-*   T.Petrovic
-*   \-15
-*   F
-
-*   T4
-*   J.Mallinger
-*   \-14
-*   F
-
-*   T4
-*   A.Rocha
-*   \-14
-*   F
-
-*   T4
-*   V.Singh
-*   \-14
-*   F
-
-*   T4
-*   J.Walker
-*   \-14
-*   F
-
-*   8
-*   J.Overton
-*   \-13
-*   F
-
-*   T9
-*   R.Knox
-*   \-12
-*   F
-
-*   T9
-*   G.Woodland
-*   \-12
-*   F
-
-*   T11
-*   M.Flores
-*   \-11
-*   F
-
-*   T11
-*   C.Howell III
-*   \-11
-*   F
-
-*   T11
-*   Z.Miller
-*   \-11
-*   F
-
-*   T11
-*   B.Molder
-*   \-11
-*   F
-
-*   T11
-*   P.Reed
-*   \-11
-*   F
-
-*   T16
+*   1:25 PM ET
 *   S.Bowditch
-*   \-10
-*   F
+*   \-
+*   \-
 
-*   T16
-*   S.Dunlap
-*   \-10
-*   F
+*   8:25 AM ET
+*   M.Bradley
+*   \-
+*   \-
 
-*   T16
-*   E.Els
-*   \-10
-*   F
+*   9:15 AM ET
+*   S.Brown
+*   \-
+*   \-
 
-*   T16
-*   D.Lee
-*   \-10
-*   F
+*   7:45 AM ET
+*   B.Bryant
+*   \-
+*   \-
 
-*   T16
-*   J.Maggert
-*   \-10
-*   F
+*   8:35 AM ET
+*   A.Cabrera
+*   \-
+*   \-
+
+*   1:15 PM ET
+*   C.Campbell
+*   \-
+*   \-
 
 *   **FULL LEADERBOARD**
 
@@ -120,11 +118,10 @@ Prev Next
 
 *   Scores View all tours &. Tournaments Tournaments
     
-    *   Frys.com Open
-    *   Portugal Masters
-    *   Sime Darby LPGA Malaysia
-    *   Greater Hickory Classic at Rock Barn
-    *   Miccosukee Championship
+    *   The McGladrey Classic
+    *   ISPS Handa Perth International
+    *   LPGA KEB - HanaBank Championship
+    *   Winn-Dixie Jacksonville Open Presented by Planters
     
     Tours
     *   PGA Tour
@@ -287,8 +284,8 @@ Prev Next
 *   The McGladrey Classic
 *   Web.com Tour
 *   Davis Love III
-*   Fred Funk
 *   Jonas Blixt
+*   Fred Funk
 *   Champions Tour
 *   Rory McIlroy
 
@@ -531,7 +528,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,116 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
+Social 233,124 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
