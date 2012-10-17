@@ -25,32 +25,40 @@ Login Become a Member My Account   ▾ Invite Friends
 *   Logout
 *   Login
 
-*   New York City
-*   Miami
-*   Napa &. Sonoma
-*   The Caribbean
-*   Paris
+Flash Sales View All
 
+Destinations
+
+*   New York City
 *   Las Vegas
 *   Chicago
-*   Los Angeles
-*   Southeast Asia
-*   Rome
-
-*   Hawaii
 *   San Francisco
-*   Mexico
-*   South America
-*   London
+*   Los Angeles
 
-*   Tropical, Temple &. Tuk…
+*   The Caribbean
+*   Mexico
+*   Miami
+*   Hawaii
+*   Southeast Asia
+
+*   California Wine Country
+*   London
+*   Paris
+*   Rome
+*   South America
+
+Looking for more about your trip? Checkout New York City and The Caribbean spotlights
+
+Collections Travel Ideas
+
+*   Extend Your Business T…
 *   Secret Five-Star Stunners
 *   Family Playcations
 *   Steals on Ski Stays
 
-*   Personal Travel Planning
-*   Honeymoon Packages
 *   Jetsetter Journeys
+*   Honeymoon Planning
+*   Vacation Planning
 *   Vacation Homes
 
 **Privacy Notice**
