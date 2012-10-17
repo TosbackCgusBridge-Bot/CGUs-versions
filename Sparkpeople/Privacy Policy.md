@@ -143,7 +143,7 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   What Is Sour Salt Resources
+*   Weight Protein Resources
 
   
 Stay in Touch With SparkPeople **4 Signs It's Time to Change Your Workout Routine**
@@ -152,17 +152,18 @@ Exercise shouldn't be a chore that you dread! To stay motivated, change your wor
 
 Read More
 
-*   Why the scale isn't a good indicator of health.
-*   Need Ideas for working out at home
+*   "New to me" foods
 *   What's your "go to" type of workout?
-*   Relationships and a Healthy Lifestyle
-*   Please share your favorite "pumpkin" recipes!
+*   Healthy Halloween snacks
+*   Mindful baking?
+*   Specific Tips to get through the Weekend
 
 View Demo **Lying Triceps Lifts**  
-Tone your triceps without the weights? After enough reps of these, we'll turn you into a believer! **Parmesan Chicken with Tomato-Basil Salad (Chef Meg's Makeover)**  
+Tone your triceps without the weights? After enough reps of these, we'll turn you into a believer! **Chef Meg's Pumpkin Smoothie**  
 Submitted By: **CHEF\_MEG**
 
-While Chicken Parmesan is traditionally fried, this lighter version is delightful atop a hearty green salad. Full Recipe
+Think outside the pie! This pumpkin smoothie is a sweet and healthy treat that kids will love.  
+Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
