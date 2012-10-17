@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 2 hours ago
+about 12 hours ago
 
-@BleacherReport: This is an awkward place to have a "British Gas" logo (via @Buzzfeed) http://t.co/Sci20KhZ
+@BleacherReport: Clint Dempsey is not impressed with Clint Dempsey http://t.co/RaBx21q4
 
 Newsletters
 
