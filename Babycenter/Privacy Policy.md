@@ -1,4 +1,4 @@
-You seem to have disabled JavaScript. To take full advantage of our site and functionality, we recommend you enable Javascript.   How? Log in |Sign up Follow us Considering child modeling?|5 rules preemies break Mobile Apps  
+You seem to have disabled JavaScript. To take full advantage of our site and functionality, we recommend you enable Javascript.   How? Log in |Sign up Follow us Diagnosis: Fever|My Baby Today app Mobile Apps  
 SECTIONS
 
 *   Getting Pregnant
