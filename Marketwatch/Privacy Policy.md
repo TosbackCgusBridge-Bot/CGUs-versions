@@ -198,91 +198,91 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 12:56 PM EDT October 17, 2012 /marketstate/country/us New York Open /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 1:10 PM EDT October 17, 2012 /marketstate/country/us New York Open /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  12:52p
+/news/latest1.  1:08p
+    
+    Medicaid program exit boosts Centeneâs shares
+    
+2.  1:07p
+    
+    Keep emotion out of the market
+    
+3.  1:07p
+    
+    Euro hits 1-month high as Moodyâs affirms Spain
+    
+4.  12:59p
+    
+    âThe Officeâ star finds hope in bleakness
+    
+5.  12:55p
+    
+    Can Nokia weather a Lumia 'pause'?
+    
+6.  12:52p
     
     Wednesdayâs biggest gaining and declining stocks
     
-2.  12:49p
+7.  12:49p
     
     Intel, IBM spark corporate-demand jitters
     
-3.  12:48p
+8.  12:48p
     
     Is $250K a middle-class income?
     
-4.  12:42p
+9.  12:42p
     
     Los Angeles assessor nabbed for corruption
     
-5.  12:41p
+10.  12:41p
     
     Gold climbs on softer dollar, demand prospects
     
-6.  12:40p
+11.  12:40p
     
     SEC charges hedge fund with exaggerating returns
     
-7.  12:34p
+12.  12:34p
     
     Radio Update: Stocks narrowly mixed
     
-8.  12:33p
+13.  12:33p
     
     Euro-zone hopes to tamp down Spain bailout fund
     
-9.  12:28p
+14.  12:28p
     
     Euro rises, but donât credit the EU summit
     
-10.  12:28p
+15.  12:28p
     
     Norilsk: Low nickel prices threaten global output
     
-11.  12:28p
+16.  12:28p
     
     Post-AIG derivatives rules drafted by SEC
     
-12.  12:25p
+17.  12:25p
     
     Bank of America seesaws as investors weigh results
     
-13.  12:24p
+18.  12:24p
     
     Kasikornbank 3rd-quarter profit climbs 18.7%
     
-14.  12:22p
+19.  12:22p
     
     Rosneft to meet with BP in London over TNK-BP
     
-15.  12:20p
+20.  12:20p
     
     PepsiCo pours lower profit. shares dip
     
-16.  12:20p
-    
-    Siemens wins train contract for Kuala Lampur metro
-    
-17.  12:18p
-    
-    U.S. stocks get housing lift, earnings lag
-    
-18.  12:17p
-    
-    Xstelos to vote against Nabi, Biota merger
-    
-19.  12:16p
-    
-    Turk Telekom quarterly profit climbs 77%
-    
-20.  12:15p
-    
-    India, Pakistan say gas-pipeline project on track
-    
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,542.51 -9.27 -0.07% nasdaq /quotes/zigman/123127 3,110.30 +9.12 +0.29% s&p 500 /quotes/zigman/3870025 1,461.06 +6.14 +0.42% Kiosk
+dow /quotes/zigman/627449 13,539.73 -12.05 -0.09% nasdaq /quotes/zigman/123127 3,108.88 +7.71 +0.25% s&p 500 /quotes/zigman/3870025 1,461.06 +6.14 +0.42% Kiosk
 
 *   1341573300000 1341592200000
     
