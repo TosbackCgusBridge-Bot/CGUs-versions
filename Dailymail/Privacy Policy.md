@@ -29,7 +29,7 @@
 
 *   Login
 
-Find a Job M&S Wine Our Papers Feedback **Tuesday, Oct 16 2012** 9PM  **59°F** 12AM **57°F** 5-Day Forecast Privacy policy &. cookies  
+Find a Job M&S Wine Our Papers Feedback **Wednesday, Oct 17 2012** 12PM  **55°F** 3PM **57°F** 5-Day Forecast Privacy policy &. cookies  
 
   
 
@@ -263,18 +263,18 @@ MOST READ NEWS
 *   3
 *   Next
 
-*   Revealed: Fathers, husbands, lawyers and realtors among 21...
-*   You've missed a spot: Fake tan blunder for bodybuilding...
-*   The most inappropriate show of support: Madonna dedicates...
-*   The internet vigilantes: Anonymous outs man, 32, 'who drove...
-*   Stephen Colbert breaks character and says that he's glad...
-*   Dog rescued from animal shelter saves life of family baby...
-*   How did they spend it all? Popcorn lung couple who won $20m...
-*   Obama 'could drive a stake through the heart of his own...
-*   Homeless and hungry: Sobering images of Camden, New Jersey,...
-*   Director of soup kitchen furious after Paul Ryan 'shows up...
 *   Boy tied to tree and burned alive on his eighth birthday...
-*   Internet troll behind Reddit 'Creepshot' forum where users...
+*   The internet vigilantes: Anonymous outs man, 32, 'who drove...
+*   Did Zumba teacher secretly film videos of her liaisons with...
+*   By gum! Man arrested for 1976 cold case murder thanks to DNA...
+*   Desperate and dirty! Obama goes for jugular in ugly clashes...
+*   Baby Jessica ordeal at 25: Famous toddler in 1987 well...
+*   Candy Crowley sides with Obama: Outrage as moderator says...
+*   The former mayor, high-powered lawyer, finance director and...
+*   Going after the women's vote? Michelle Obama and Ann Romney...
+*   Can the President woo back his women voters? Poll shows...
+*   Revealed: Deaf paraplegic blogger who won the hearts of...
+*   Now that's what I call Special Brew! One £80 glass is as...
 
   Share this article:
 
@@ -296,72 +296,65 @@ Sorry we are unable to accept comments for legal reasons.
 
 Bing Site Web Enter search term: Search     Femail Today
 
-*   **That must weigh down her hand! Blake Lively shows off '12-carat wedding ring' on Gossip Girl set in New York** She married Ryan Reynolds last month
-*   **The new workout plan: Kim Kardashian has put on 28lbs after finding love with Kanye West** Kim, 31, has slowed down her hardcore exercise regime 
-*   **'I destroyed my confidence': Lauren Conrad on her failed attempt to be sexy as she appears in beach photo shoot** Starred in The Hills
+*   **Piping hot! Hayden Panettiere displays her cleavage in a flirty denim dress as she picks up a pizza** Showed just enough of her decolletage
+*   **PICTURE EXCLUSIVE: Ooh la la: C'est Madame Posh! Victoria Beckham is 'honored' to pose at Coco Chanel's house** Makes her mark on 31 Rue Cambon
+*   **'I didn't even win!' Christina Aguilera cringes as footage of her performing on Star Search, aged 10, is unearthed** Star came in second
+*   **'Courtney has had no plastic surgery': Stodden revealed to be 100 per cent natural after examination by Beverly Hills doctor** Really Courtney?
+*   **She's got it licked! Real Housewives star Joanna Krupa puts on a show with her ice-cream cone in Hollywood** Spotted eating the treat suggestively
+*   **'I did the best I could': Bristol Palin puts on a brave face after being eliminated from Dancing with the Stars** She was commended by the judges
+*   **She's just im-mac-ulate: Lauren Conrad shows off her legs in a stylish mini trench coat** The reality television star didn't disappoint her fashion fans
+*   **Going after the women's vote? Michelle Obama and Ann Romney both turn up to debate wearing identical hot pink** Who did it better?
+*   **Obama's Golden Girls: Actresses Scarlett Johansson, Eva Longoria, and Kerry Washington condemn Romney in new vid** Watch it here
+*   **'You remind me of ME!' Christina Aguilera steals Alessandra from Adam after recalling her own awkward Mickey Mouse Club years** Both classically trained 
+*   **'You need to be taller and thinner to pull this off': Kim Kardashian FINALLY admits to a style mishap (but at least she's lost six pounds)**
+*   **Make-up free: Shannen Doherty looks a far cry from her normal glammed up self as she steps out barefaced for grocery shopping** It was a 9021-NO no
+*   **How Gwyneth stopped the clock ten years ago: Star doesn't appear to have aged as she dazzles at awards ceremony** Looks almost identical
+*   **Missing Chris? Rihanna cuts a downcast figure as she heads to a recording studio alone after 'putting relationship with Brown on hold for work'**
+*   **Not such a Happy Birthday? John Mayer fails to raise a smile as he and Katy Perry step out to dinner to celebrate his 35th** On-off couple
+*   **Mel Gibson falls for a tough girl: His 'new love' is a stuntwoman with a brown belt in karate** Doubled for several big stars, including Jennifer Aniston
+*   **'They're fascinated by each other': Ted Kennedy reveals bond between his grandmother Ethel and Taylor Swift** Wooed family matriarch
+*   **The moment Journey's Neal Schon popped the question to Real Housewife Michaele Salahi... and the $1m ring** Choked with emotion
+*   **We officially get old at 28 - when our careers become more important than our sex lives - and we'd rather watch Dancing With The Stars** That is Katy Perry's age 
+*   **That's so sweet: Cate Blanchett gets some ice cream as her son very reluctantly shares his scoop** Learning to share with mommy 
+*   **Shameless! Brad Pitt's Chanel No.5 advert shows images of an Angelina-esque brunette and a golden girl just like Jen... as he waffles about love and fate**
+*   **The action man with a soft side: Jason Statham enjoys intimate dinner with girlfriend Rosie Huntington-Whiteley** British love birds
+*   **He really is addicted to ink! One Direction's Harry Styles shows off more new random tattoos** But what do they actually mean? 
+*   **Namaste! Holly Madison displays her growing pregnancy figure as she indulges in some pre-natal yoga** She showed her bump in all of it's glory
+*   **That $2.5m bra is going to have a hard time competing for attention with those pins! Alessandra Ambrosio displays her toned legs in Daisy Dukes**
+*   **Frock horror! 24 beauty Elisha Cuthbert misfires in shapeless navy dress** Whatever the actress wears, she always looks beautiful in, but was this a bad choice? 
+*   **It's all in the jeans: Lucy Hale is stunning in low key denim and boots as she steps out at Pretty Little Liars screening** Looked amazing
+*   **She's not giving up! Kristen Stewart 'buys $2.2million Los Angeles home... 1.5 miles from Robert Pattinson'** They used to share a place before the scandal
+*   **Kim Kardashian tweets her happiness as little sister Khloe confirms new hosting gig on The X Factor** She's a very supportive sister
+*   **Honey Boo Boo joins the Real Housewives of Beverly Hills set... at Lisa Vanderpump's restaurant** She serves up pasta, butter and ketchup
 *   **PICTURED: Kristen Stewart and Robert Pattinson together for the first time since Rupert Sanders scandal, as they enjoy lunch with friends in Hollywood**
-*   **Just good lighting? Hayden Panettiere shows off her fuller curves in a plunging blouse** Nashville star was on Good Morning America
-*   **Fidgeting Honey Boo Boo endorses 'Marack Obama' in hilarious Jimmy Kimmel appearance** Watch the reality stars on the chat show here 
+*   **Ready to tie the knot? Evan Rachel Wood and Jamie Bell spotted 'picking up marriage license'** Wedding bells on horizon
+*   **That's a snug fit! Ex-Real Housewives star Kelly Bensimon steps out in very tight workout pants** Mother-of-two, 44, looked ready to hit the gym 
+*   **'It was a very difficult and heartbreaking decision': Bachelorette star Emily Maynard confirms split from fiancé Jef Holm** Revealed her pain
+*   **The most inspiring CoverGirl ever? Make-up blogger, 13, fighting two types of cancer becomes honorary face of beauty giant** She has neuroblastoma
+*   **Soaked in the City! AnnaSophia Robb gets into a water fight with on-screen father as they film The Carrie Diaries** Recorded scenes for the prequel series
+*   **Frances Bean Cobain's 'house intruder caught doing his laundry' pleads not guilty** He is confident that he has ironed out a strong defense
+*   **Got To Have Faith! Halle Berry wears statement T-shirt as 'judge in her custody case is almost ready to rule whether she can take Nahla to France**
+*   **'We are all Malala': Why Angelina Jolie felt compelled to tell her children about brave 14-year-old Pakistani activist's tragic shooting** She wrote essay about it
+*   **Legs eleven! Taylor Momsen shows off her endless slim pins in a tight fitting gold dress and skyscraper heels** Out in New York City in a gold mini dress
+*   **'I knew Tyra Banks was tall, but seriously?': Katie Couric tweets hilarious picture of leggy supermodel towering over her** Little and large
+*   **That's cheeky! Leighton Meester pokes her tongue out as she hangs around between takes on the Gossip Girl set in New York** In a good mood
 *   **Out of control! Kourtney Kardashian suffers a bad hair day... but still looks great in black mini dress** She looked as glamorous as usual
+*   **With huge statement skirts and tiny corseted waists, Vera Wang brings back the princess look at Bridal Fashion Week** The Fall 2013 collection
+*   **Fidgeting Honey Boo Boo endorses 'Marack Obama' in hilarious Jimmy Kimmel appearance** Watch the reality stars on the chat show here 
+*   **How low can you go? Michelle Rodriguez steals the show at art dinner in a backless black gown with a daring plunging neckline** Ensured all eyes on her
+*   **As statuesque as the Empire State Building! Leggy Petra Nemcova puts the famous New York landmark to shame** She was highlighting the charity Only Make Believe
 *   **Bruce Willis and wife Emma Heming enjoy some rare alone time as they take a romantic stroll around Paris** He's 57-years-old and she's 34
+*   **'Helping other people makes me happy': Kirk Douglas, 95, shows no sign of slowing down as he reveals his passion for philanthropy** Still on the go
+*   **Green Day frontman Billie Joe Armstong could be in rehab until next year** His record label boss  has confirmed he needs to be in for some time  
+    
+*   **Coming up roses: Paris Hilton sports pretty floral dress as she steps out with her model toyboy beau** Looked pretty in a strapless number
+*   **Should have got an extra espresso shot! Julianne Moore cannot stop yawning during morning coffee date with friends** Looking tired
 *   **She keeps him young! Smiling Jeff Goldblum takes a stroll with 29-year-old gymnast girlfriend just days before 60th birthday ** Hes a man in love
 *   **'I was worried. I was in total mother mode': New mom Alessandra Ambrosio's race to get in shape to model Victoria's Secret's $2.5m Fantasy Bra**
-*   **Keith must be proud: Rolling Stones rocker Richards' stunning wife and daughters paint it black at fashion gala** At Michael Kors' Golden Heart Gala in New York
-*   **Her lucky hat? Katy Perry wears favourite fedora on a low key lunch date with John Mayer** The couple went out in New York's West Village
-*   **Britney Spears' former nanny 'to testify in Sam Lufti trial that star has been emotionally manipulated' by her handlers** Former manager's trial
-*   **Stern Suri Cruise looks serious as she heads to school, hand-in-hand with mother Katie Holmes** The youngster carried her book bag in NYC
-*   **Katie Holmes rediscovers her playful side as she prepares for her Broadway comeback in new video** Dead Accounts is her first role since divorce
-*   **Natalie Portman's little man gets an ice cream mustache as she feeds him sweet treat on family outing** Actress had a family outing in Austin, Texas
-*   **'This is disgusting': Sandra Bullock turns naked and nasty as she chides Chelsea Handler in comedy shower skit** Told her: 'Stop sleeping with your guests'
-*   **Dita Von Teese admits she looks better at 40 than she did in her 20s, and owes her 18in waist to wearing corsets since the age of 18 (and parsley smoothies)**
-*   **Hulk Hogan branded 'ultimate, lying showman' as former best friend accuses wrestler of being behind leak of sex tape** The drama escalates
-*   **Wetting the baby's head? New father James Gandolfini looks slightly worse for wear after a night on the town** Sopranos star wasted no time in celebrating
-*   **'English guys are very restrained': Emma Watson doubts she will ever date a British man again** Has spent the last year in love with an American
-*   **No time to waste! A very casual Gwyneth Paltrow heads straight to the gym after showing off slender figure at New York party** In Manhattan
-*   **'Oh jeez': Jennifer Aniston left red-faced as close friend Chelsea Handler calls her out on TV for showing her nipples** She just had to ask
-*   **No Daisy Dukes? Catherine Bach ditches the cut-offs for full-length jeans at Motorhome Show** Starred in TV series The Dukes Of Hazzard
-*   **Make your own clothes, don't touch your husband and sleep outside: How one woman spent a year living according to the Bible**
-*   **You betcha! Halle Berry reveals that she is related to Sarah Palin** Actress was sent her ancestral data that shows she is a distant relative of Palin
-*   **Hob-nobbing: Rosie Huntington-Whiteley snacks on the set of boyfriend Jason Statham's new film with James Franco** Needed a coffee break
-*   **Cameron Diaz is laden down with designer goods as she goes make-up free on retail therapy splurge** At  Maison Martin Margiela in Beverly Hills
-*   **Legs eleven: Jennifer Lopez shows off her toned pins in tiny dress to celebrate sister's Parisian birthday party** Took some time off her tour for the party 
-*   **Move over Madonna! Beyoncé to perform at next year's Super Bowl halftime show** Madonna was watched by 114 million viewers this year
-*   **REVEALED: Lana del Rey poses in sultry images for H&M fashion campaign** Dressed in cosy knits and winter wear, she posed against a classic
-*   **Shouldn't she be the one turning heads? Emma Stone gets starstruck as she plays iCarly super fan on Nickelodeon show** In a guest appearance
-*   **Well it is a style capital! Jennifer Garner tops up her winter wardrobe at designer stores in Paris** Parisians are recognized for their impeccable sense of style
-*   **Justin Bieber gets a sporting chance at fashion modeling as he signs two-year deal with Adidas** Teamed up with the  company's NEO Label 
-*   **Agyness Deyn retires from the modeling industry at the ripe old age of 29... to become a film star instead** She's married to actor Giovanni Ribisi
-*   **'Sad news': Danielle Spencer's father and dancing partner speak out amidst her 'split' from Russell Crowe** 'Living apart for months according to pals'
-*   **Is that why she's so thin? Liberty Ross sips on iced tea as she picks up her children from school in tiny shorts** The wife of Rupert Sanders was in LA
-*   **Sheer cheek: Lea Michele leaves little to the imagination in daring see-through frock at Elle Women Celebration** The Glee star opted for a diaphanous black dress 
-*   **Table for two: Ben Affleck whisks Jennifer Garner to a romantic dinner in Paris** He had taken his wife on a Chanel shopping spree earlier too
-*   **Robert Pattinson shows his love for the ladies at star-studded Elle Women Celebration... but leaves Kristen Stewart at home** Pair pictured on Sunday
-*   **Reese Witherspoon leaves newborn Tennessee James at home as she makes her first outing since giving birth** Spotted in Santa Monica 
-*   **Jennifer Love Hewitt fails to flatter her curves in baggy jumpsuit as she steps out with a bandaged arm** The injured actress  stepped out in LA
-*   **Mad Men's Elisabeth Moss goes back to the dark side as she loses peroxide blonde look** She plays coiffed secretary turned copywriter Peggy Olson 
-*   **Amanda Bynes pleads not guilty to driving on a suspended license** The actress wasn't in court but her lawyer entered the plea on her behalf
-*   **Russian doll: The blonde beauty filmed kissing Vinnie Jones shows her racy side in new pictures** Singer Lama Safonova is obviously not shy
-*   **GOSSIP GIRL SPOILER ALERT: So are Blair and Chuck set for wedded bliss?** Leighton Meester and Ed Westwick sport matching finery on Gossip Girl set  
-*   **Oprah embraces 'mother role' as she watches first class graduate from school she founded in South Africa** Handpicked 72 girls
-*   **She sure knows how to party! Rebel Rihanna's backstage antics revealed as she puffs on a Hookah pipe** Singer was backstage in Azerbaijan 
-*   **The lady and the vamp: Khloe Kardashian is sultry in a revealing dress and red lipstick... while sister Kourtney plays it safe in a mumsy shirt**
-*   **'She wasn't a monster. She was just a girl': A bloodied Chole Moretz burns down the town in Carrie teaser trailer** Watch the trailer for the remake here 
-*   **She's got it covered: Minka Kelly makes sure she doesn't flash too much skin as she steps out in white vest** She arrived home in casual gear
-*   **'It's the end of her career!' Judges Adam Levine and Blake Shelton in war of words as they vie to 'steal' The Voice contestant Jocelyn in battle rounds**
-*   **The Girl With The High Waisted Jeans: Noomi Rapace showcases bold new look... as she is joined by Gillian Anderson at BFI bash** Ravishing in red 
-*   **The Saturdays live the dream by attending a less than glamorous Hello Kitty party with zero A-list attendees** But the pop stars didn't seem to mind 
-*   **'I did not do this': Adrienne Maloof's husband Dr. Paul Nassif says he isn't responsible for ex-wife's bruised body** After their bitter split
-*   **Where's Taylor? Conor Kennedy goes solo at Ethel premiere while Swift promotes her new  single** The Kennedy clan was out in full force
-*   **Simon's secret weapons: Khloe Kardashian and Mario Lopez sign on to host The X Factor** 'Deals are now done'
-*   **'They were invented to make you feel bad about yourself': W cover girl Keira Knightley reveals she hates skinny jeans** She is world renowned for the slender frame 
-*   **Putting the zoo in Zooey! New Girl star Deschanel films show in Los Angeles animal park** The quirky actress looked pretty in her red and white ensemble
-*   **Battle of the guns! Derek Hough and Apolo Ohno flaunt their bodies... while Bristol Palin bares her legs ahead of DWTS live show**
-*   **Aging gracefully: Kirsten Dunst shows off a very mature look on set of new film Two Faces Of January** The actress wore a lemon yellow ensemble
-*   **Journey's Neal Schon celebrates his engagement to Real Housewife Michaele Salahi... with a 12 carat diamond ring** Their love is now official
-*   **'Some moms snap back into shape - they are freaks of nature!' Hilary Duff on her battle to lose the baby weight** Also spoke about joys of being a new mother
-*   **Check them out! January Jones dresses cherubic son Xander in plaid shirt as they take a sunny stroll together** The Mad Men actress looked cool and casual 
-*   **Lithe legs in leather: Catherine Zeta Jones shows off her trim pins in a pair of clinging black trousers** The Chicago star is still fabulous at 43-years-old
-*   **What a diplomat! Obama weighs in on feud between Nicki Minaj and Mariah Carey saying he's sure they'll work it out** American Idol feud
+*   **No wonder she has so many fans! Fergie waves to a screaming crowd as she shows off her toned legs in leather mini shorts** Looked great
+*   **'The sexiest thing is to be smart': Vampire Diaries' Nina Dobrev shrugs off sex symbol status in wholesome photoshoot for SELF** Not another vapid starlet
+*   **Girls' day out: Working mother Jessica Alba and her four-year-old daughter Honor bond over a manicure** Like mother like daughter
+*   **She didn't make the cut! Kate Gosselin is axed as coupon website celebrity expert** She was unveiled as a blogger for the internet service last November
 
     ADVERTORIAL FEATURES
 
