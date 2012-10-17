@@ -10,23 +10,23 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
     *   Tools
     *   Media
     *   Enterprise
-    *   ScienceDid Marissa Mayer Just Make A Horrible Mistake? Several Ex-Googlers Think So Did Marissa Mayer Just Make A Horrible Mistake? Several Ex-Googlers Think So With Its New Music App, Microsoft Pulled Off Something Even Apple Couldn't Do We're Giving Away A Ticket To IGNITION! A Venture Capitalist Made $40 Million On Workday After His Firm Turned It Down Felix Baumgartner's Helmet Camera Shows Him Going Into An Uncontrolled Spin
+    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning With Its New Music App, Microsoft Pulled Off Something Even Apple Couldn't Do We're Giving Away A Ticket To IGNITION! Microsoft Exec Lets Loose At His Birthday Party With Rapper Too Short Researchers Discover An Earth-Sized Planet Circling Our Nearest Neighbor Star
 *   Finance
     *   Clusterstock
     *   Your Money
-    *   Broker CenterBARTIROMO: I Think President Obama's Bashing Contributed To Vikram Pandit Quitting BARTIROMO: I Think President Obama's Bashing Contributed To Vikram Pandit Quitting Why The Rich Keep Getting Richer BARTIROMO: I Think President Obama's Bashing Contributed To Vikram Pandit Quitting
-*   Markets STOCKS SURGE: Here's What You Need To Know
+    *   Broker Center10 Things You Need To Know Before The Opening Bell 10 Things You Need To Know Before The Opening Bell People Who Occasionally Work In Their PJs Are Earning More Money Than You 10 Things You Need To Know Before The Opening Bell
+*   Markets 10 Things You Need To Know Before The Opening Bell
 *   Politics
     *   Politics
     *   Defense
-    *   Law &. OrderROMNEY TAKES BIGGEST LEAD YET IN NEW GALLUP POLL ROMNEY TAKES BIGGEST LEAD YET IN NEW GALLUP POLL The First 'Fast And Furious' Sentencing Shows Just How Backward The Operation Was FORMER PRISONER: My Only Choice Was To Join The Aryan Brotherhood
+    *   Law &. OrderHow Mitt Romney Lost The Debate How Mitt Romney Lost The Debate The First 'Fast And Furious' Sentencing Shows Just How Backward The Operation Was FORMER PRISONER: My Only Choice Was To Join The Aryan Brotherhood
 *   Strategy
     *   Strategy
-    *   Careers'The Icarus Paradox' Explains Why So Many CEOs Fail 'The Icarus Paradox' Explains Why So Many CEOs Fail 8 Things You Should Never Say To Your Interviewer
+    *   CareersMalcolm Gladwell On Why America Keeps Losing Wars Malcolm Gladwell On Why America Keeps Losing Wars 8 Things You Should Never Say To Your Interviewer
 *   Entertainment Inside The $32 Million Conservatorship That Controls Britney Spears' Money
-*   Advertising These Motorcycles Are Made Out Of Humans And Body Paint
-*   Retail Why Abercrombie Is Getting Creamed By Its Two Biggest Rivals
-*   Sports The Philadelphia Eagles Fired A Coach Who Had Nothing To Do With Their Real Problems
+*   Advertising How These Photos Of 'Scared Bros At A Haunted House' Became The Biggest Viral Campaign Of The Season
+*   Retail Online Retail Sales Are Booming Because Men Don't Have To Shop At The Mall Anymore
+*   Sports Cardinals Quarterback Will Miss Several Weeks With A Horrifying Rib Injury
 *   Life
     *   The Life
     *   TransportationThe 50 Most Expensive Boarding Schools In America The 50 Most Expensive Boarding Schools In America TEST DRIVE: The 2013 Pathfinder Is Nothing Like The SUV You Once Knew
@@ -54,11 +54,7 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
 
 *   Follow us on Facebook and get updates from Business Insider posted directly to your news feed  
 
-Continue to Business Insider »
-
-You will be redirected in seconds.
-
-Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,478
+Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,491
 
 *   Email
 *   More Share on Tumblr
@@ -230,7 +226,7 @@ More:*   SAI Select (sample)
 *   Careers Select (sample)
 *   Military Select (sample)
 
-Advertisement Your Money NASDAQ Composite 3,102 +38.25 (+1.248%) S&P 500 1,455 +14.69 (+1.02%) NYSE Composite 8,387 +93.1 (+1.123%) Sponsored By
+Advertisement Your Money NASDAQ Composite 3,101 +36.99 (+1.207%) S&P 500 1,455 +14.79 (+1.027%) NYSE Composite 8,386 +0 (+0%) Sponsored By
 
 Ready To Invest? Find A Broker Here »
 
@@ -242,22 +238,22 @@ Sheila Bair And Wall Street
 
 Most Read Read  Commented  Recommended 
 
-*   This Is One Of The Most Remarkable Survival Stories You Will Ever Read 966,321 Views
+*   Here Are The Charts That Should Get Obama Reelected... 407,934 Views
     
-*   Here Are The Charts That Should Get Obama Reelected... 387,381 Views
+*   The 10 Best College Towns In America 327,942 Views
     
-*   FORGET GOLD: Here's Where Die-Hard Skeptics Are Storing Their Wealth 260,438 Views
+*   FORGET GOLD: Here's Where Die-Hard Skeptics Are Storing Their Wealth 289,914 Views
     
-*   The 10 Best College Towns In America 235,884 Views
+*   People Are Going Crazy For Morgan Freeman's New Obama Ad 225,445 Views
     
 
-*   Romney's Tax Plan Actually Makes A Lot Of Sense 183 Comments
+*   Here Are The Charts That Should Get Obama Reelected... 185 Comments
     
-*   Here Are The Charts That Should Get Obama Reelected... 180 Comments
+*   How Barack Obama Won The Presidential Debate 160 Comments
     
-*   People Are Going Crazy For Morgan Freeman's New Obama Ad 135 Comments
+*   Paul Ryan Busted For Staged Photo-Op At Soup Kitchen Where He Pretended To Wash Dishes 144 Comments
     
-*   Paul Ryan Busted For Staged Photo-Op At Soup Kitchen Where He Pretended To Wash Dishes 132 Comments
+*   People Are Going Crazy For Morgan Freeman's New Obama Ad 143 Comments
     
 
 Loading, please wait...
@@ -276,7 +272,7 @@ See All Jobs Startup Document Center Templates To Jump Start Your Business Busin
 By-Laws Financial  
 Model See All » Read Me Henry Blodget
 
-| Here Are The Charts That Should Get Obama Reelected... 180
+| Here Are The Charts That Should Get Obama Reelected... 185
 
 Romney keeps saying that Obama "can't run on his record." What's Romney smoking?
 
