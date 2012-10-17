@@ -1,5 +1,5 @@
   
-Users Online Now: **1,931** (Who's On?) Visitors Today: **481,208** Pageviews Today: **746,516** Threads Today: **356** Posts Today: **4,580** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **2,725** (Who's On?) Visitors Today: **792,906** Pageviews Today: **1,306,857** Threads Today: **638** Posts Today: **8,711** 01:04 PM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,20 @@ trinity@godlikeproductions.com
   
 News
 
+*   Farmer Tackling Monsanto's Seed Policy Gets A Day In Supreme Court
+*   Peanut Butter Recall Now Includes Raw And Roasted Nuts
+*   When They Can't Find Something To Charge You With, They Make It Up
+*   Repost Undercover Cop's Public Facebook Photo, Get Charged With Felony
+*   Google opens window into secretive data centers
+*   Earth-sized planet found just outside solar system
+*   Patent could shackle 3D printers with DRM
+*   9 Supermarket Secrets: What Your Grocer Won’t Tell You
+*   The Next Food Crisis Will Be Caused By Globalist Land-Grabs and Privatization
+*   Obama Administration Knows They're Arming Al Qaeda in Syria
+*   USPS to raise stamps by 1 cent in 2013
+*   America Will Experience Weimar-Style Hyperinflation
+*   Policeman mistakes blind man's stick for Samurai sword
+*   Hollywood's Hysterical "Cancer Screening" Lie for Obama
 *   AT&T Starts Six-Strikes Anti-Piracy Plan Next Month, Will Block Websites
 *   New version of Flame virus uncovered: researchers
 *   Recent droughts could be new normal, may lead to massive tree death, study suggests
@@ -123,21 +137,9 @@ News
 *   Softbank to buy 70 percent of Sprint for $20 bln
 *   Linux camp has key to Windows 8 boot lockout
 *   Cap and trade: California’s experiment to rein in climate change
-*   Lost, potentially hazerdous asteroid rediscovered
-*   Polar Bear Video Shows Dark Side of Drinking Soda — Will It Change Habits?
-*   First cloud operating system could lighten your laptop
-*   CEO tells employees jobs will be lost if Obama wins
-*   Why a Bible belt conservative spent a year pretending to be gay
-*   Global warming stopped 16 years ago, reveals Met Office report quietly released
-*   More than 300 PA National Guard troops prepare for deployment
-*   Ad Industry's Assault on "Do Not Track" Continues at the W3C Amsterdam Meeting
-*   China calls on U.S. and Japan to fix their finances
-*   Do Chinese Tech Firms Pose U.S. Security Threat?
-*   FBI reports 'large amount' of next version of $100 bills stolen
-*   FTC Close To Google Antitrust Case, Sources Say
-*   Report: Ukraine Trains Dolphins With Friggin’ Pistols on Their Heads
-*   Safer, more efficient, fusion-generated electricity is on the horizon
 
+  
+  
   
   
   
@@ -147,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.023s (0 queries)
+Page generated in 0.017s (0 queries)
