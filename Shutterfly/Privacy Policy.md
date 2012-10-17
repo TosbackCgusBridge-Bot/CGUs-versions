@@ -1,21 +1,3 @@
-*   Wedding invitations and stationery for every step of the planning process.
-*   Personalized greeting cards that really stand out.
-*   Premium cards and stationery for all life's occasions.
-*   Where your photos come to life in photo books, cards and gifts.
-
-Sign in | Sign up
-
-*   MY SHUTTERFLY
-*   MY PICTURES
-*   SHARE
-*   STORYTELLING
-*   STORE
-
-Go Help |  
-  
-  
-Help _|  Privacy policy_  
-  
   
 
 **Shutterfly Online Privacy and Security**
@@ -135,57 +117,3 @@ If you have questions about this Privacy Policy, you can contact us at the numbe
   
 
 Go to top
-
-  
-Help Center topicsOrder statusHow to orderAdding picturesPictures &. printsShutterfly StoreYour accountSharing pictures onlineViewing picturesEnhancing picturesShutterfly policies  
-   
-
-*   Get Help
-*   Customer Service
-*   Order Status
-*   Site Map
-*   Contact us
-*   Photo Upload Tools
-*   Mobile Tools and TV
-
- 
-
-*   About Shutterfly
-*   Learn More
-*   Satisfaction Guarantee
-*   Pricing
-*   Terms
-*   Privacy Policy
-*   Gift Certificates
-
- 
-
-*   Our Photo Products
-*   Photo Books
-*   Cards &. Stationery
-*   Prints &. Posters
-*   Calendars
-*   Photo Gifts
-*   FREE Photo Sharing
-
- 
-
-*   Businesses
-*   Business Solutions
-*   Professional Photographers
-*   Affiliate Program
-*   Sports Team Websites
-*   Volume Discounts
-
- 
-
-*   Corporate
-*   About Us
-*   Careers
-*   Press Center
-*   Investor Relations
-*   Advertise With Us
-
-  
-© 1999-2012 Shutterfly, Inc. All rights reserved. 10/17/12 5:06 AM  
-app005
