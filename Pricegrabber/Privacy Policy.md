@@ -22,8 +22,8 @@ My Account
     *   Office Max
     *   Iphone
     *   Money
-    *   Digital Cameras
     *   Coffee Makers
+    *   Digital Cameras
     *   Camcorders
     *   At
     *   Discount Tires
@@ -31,15 +31,15 @@ My Account
     *   Se
     *   Sears
     *   T Mobile
+    *   Truck
     *   Www.yahoo.com
     *   Tax
-    *   Truck
     *   Ipod
     *   Att
     *   Contact
+    *   Flowers
     *   Leappad
     *   Costco
-    *   Flowers
     *   Mp3 Players
     *   Android Tablets
     *   Pressure Cookers
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1514 Local Deals
+*   1509 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
