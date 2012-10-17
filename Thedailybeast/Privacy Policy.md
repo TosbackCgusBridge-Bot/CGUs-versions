@@ -144,38 +144,38 @@ Stories We Like
 
   Most Popular
 
-1.  The Great Deformer
-2.  My Proof of Heaven
-3.  Angelina Jolie: We All Are Malala
-4.  Taliban Declare War on Media
-5.  Citi CEO Conspiracy Theories
+1.  Mitt’s ‘Binders Full of Women’ Slip
+2.  7 Best Moments from the Second Presidential Debate
+3.  My Proof of Heaven
+4.  The Great Deformer
+5.  Obama Seizes the Upper Hand
 
   Other News Entertainment
 
-*   Gray Hairs, Wrinkles and More Celeb Quotes
-*   Tori Spelling's Miracle Baby Finn: See the Family Photo Album
-*   Heartwarming Story of the Day: Justin Bieber Visits Cancer-Stricken Fan
+*   Week in Photos for Oct. 19, 2012
+*   BING: Celebs in Halloween Costumes
+*   Celebs Who Own Sports Teams
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   At long last, David Letterman to appear on ‘Jimmy Kimmel Live!’
-*   Sarah Silverman’s dad takes down critical rabbi: ‘You don’t f— with my family’
-*   Guy uses Taylor Swift lyrics to pick up girls — VIDEO
+*   Beyonce’s Super Bowl halftime show: Who should guest star with her?
+*   ‘Sons of Anarchy’ recap: The table’s divided, and it’s a small world after all
+*   ‘Dancing With the Stars’: Hidden Gems of Week 4
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Ohio To Allow Early Voting After Supreme Court Move
-*   What I Learned From Having a Stylist
-*   Other Woman In Dinesh D'Souza Affair Is A D'Souza Fan
+*   Where Barack Obama Won The Debate
+*   Spin Alley Reacts To "Binders Full Of Women"
+*   Romney Campaign Will Litigate Libya
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Go Bold or Go Home
-*   Obama Rebound Is Possible
-*   Lawmaker Says Officials Should be Shot
+*   More Reaction to the Second Presidential Debate
+*   Reaction to the Second Presidential Debate
+*   The Second Presidential Debate
 *   **Get More from Political Wire**
 
 The Daily Beast
