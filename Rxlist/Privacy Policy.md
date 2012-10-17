@@ -295,11 +295,11 @@ Featured Topics
 
 New &. Updated
 
-*   Dexilant
-*   Imitrex
-*   Quillivant XR
-*   Tribenzor
-*   Zortress
+*   Diovan
+*   Diovan HCT
+*   Edarbi
+*   Edarbyclor
+*   Jevtana
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
