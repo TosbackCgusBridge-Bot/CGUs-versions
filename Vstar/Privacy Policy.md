@@ -639,15 +639,15 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 116 comments
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 118 comments
 *   Oxnard police chief calls shootout that killed bystander a tragedy Updated 10/16/2012 at 7:12 p.m.
 *   Investigation continues involving woman's fall onto highway Updated 10/16/2012 at 5:24 p.m.
 *   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 57 comments
-*   Officials confirm 1 of 2 killed in Oxnard police shootout was innocent bystander Updated 10/15/2012 at 7:32 p.m.
+*   Train hits and kills man near La Conchita Updated 10/16/2012 at 6:28 p.m.
 
 Photo Galleries Chaotic shooting rattles La Colonia… Ventura County's Most Wanted October… Top-flight building spices up…
 
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 116 comments
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 118 comments
 *   Murdock: Inconvenient truths about Benghazi Updated // at : 57 comments
 *   CLU professor heads study of undocumented college students Updated // at : 64 comments
 *   Morning chat Updated // at : 62 comments
@@ -665,7 +665,7 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 70° Fair Wind: W 5mph Today 81° 61° Wed 10:00 PM Clear Temp: 67° Thu 10:00 AM Sunny Temp: 72° Thu 10:00 PM Mostly Clear Temp: 63°
+Currently 76° Fair Wind: SW 7mph Today 81° 61° Wed 10:00 PM Clear Temp: 67° Thu 10:00 AM Sunny Temp: 72° Thu 10:00 PM Mostly Clear Temp: 63°
 
 Feels Like: 67°
 
