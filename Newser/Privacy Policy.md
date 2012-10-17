@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   Election 2012
-    *   Mitt Romney 2012
     *   Obama 2012
+    *   Mitt Romney 2012
     *   Mitt Romney
+    *   presidential debate
     *   President Obama
     *   entertainment
-    *   presidential debate
-    *   celebrity
     *   Barack Obama
-    *   timeless news
+    *   celebrity
+    *   Romney 2012
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -119,63 +119,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Five Bad Ideas in Tonight's Debate
+*   Acts of Terrorâor an Error?
+*   The Hofstra Debate Through the Eyes of the Pundits
 *   Why Mitt Romneyâs Massachusetts Education Plan Backfired
-*   The Town Hall Debate Was One Giant Rule Violation
 
 More from Slate »
 
-*   GIANT FACIAL TUMOR
-*   Elephants Calm And Playful After Circus Truck Crash
-*   Woman Allegedly Dies After Being Injected With Soup
+*   REAL LIFE GHOST STORIES
+*   Darth Vader's Wife Punched In The Face
+*   Alanis Morissette Music Leads To A Plate In The Face: Cops
 
 More from HuffPost Weird »
 
-*   Bananas: Rachel Zoeâs Life Being Turned In Sitcom
-*   Scott Brown Pays Homeless To Be His âSupportersâ
-*   Angelina Jolie On Malala Yousafzai, 14-Year-Old Girl Shot...
+*   A Well-Deserved Medal For Kicking Cancerâs Ass
+*   Hitched: Our Officiant Got Ordained Online
+*   Solve Chapped Lips Like A Surf Pro
 
 More from The Frisky »
 
-*   Man taken to hospital with a gunshot wound A) Dies before...
-*   Cute 16-year-old student with nut allergy bullied by...
-*   Remember when your mom told you not to eat those mushrooms...
+*   Kate Gosselin fired from gig as blogger for CouponCabin...
+*   News: Police taser man with sword. Lite-Fark: Sword turns...
+*   Orphaned baby elephant raised by human mom, which could...
 
 More from Fark »
 
-*   The sky won't fall
-*   The second presidential debate: Did the Benghazi whiff hurt...
-*   Obama rallies in the second debate: Will his poll numbers...
+*   The second presidential debate: 3 stylistic tics that hurt...
+*   Fact-checking the second Obama-Romney debate: Who told the...
+*   Mitt Romney's 'binders full of women': The fallout
 
 More from The Week »
 
-*   Heilemann on Charlie Rose: Obama's Strategy for Draining...
-*   Meningitis Outbreak Now a Criminal Matter
-*   Video Recap: The Second Presidential Debate in Under Three...
+*   Kristina OâNeill Replaces Deborah Needleman at WSJ.
+*   New York Observer Sides With Father-in-Law Donald Trump on...
+*   Frank Rich on the National Circus: Obama the Alpha Dog
 
 More from Daily Intel »
 
-*   Soul-Talk: Are You Perpetuating Your Own Troubles?
-*   12 Expert Tips for Fall Fitness
-*   4 Time-Saving Tips (That Double as Time-Savoring Tips)
+*   Kicking Butt! 10 Celebrities Who Have Quit Smoking
+*   How Does Sleep Affect Mental Wellness?
+*   Why I Can't Quite Be Okay With 'Okay at Any Size'
 
 More from HuffPost Health »
 
-*   'Twilight' Star Kristen Stewart Drops $2.2M on L.A. Home â...
-*   Blake Lively and Ryan Reynolds' Wedding Planner Spills...
-*   Amanda Bynes Drama Continues: 'What I Like About You'...
+*   One Direction's Harry Styles Shows Off More Fresh Ink,...
+*   Lance Armstrong Steps Down as Livestrong Chairman, Dropped...
+*   Jessica Alba, Taylor Swift, Emma Stone are Mad for Plaid:...
 
 More from Celebuzz »
 
-*   15 Warning Signs Your Friend May Be a 'Frenemy'
-*   Young Justin Bieber Fans Donate Give Their Concert Tickets...
-*   6 Facebook Fails of Pregnant Women
+*   âAmericaâs Next Top Modelâ Adds Hot Male Models to the Mix...
+*   Ice Cream Recall Puts Favorite Flavor at Risk: Here's the...
+*   Emily Maynard and Jef Holm's Official Break-Up Statement Is...
 
 More from The Stir »
 
-*   Expedia Travels to New Territory
-*   Fast Chat: Deutsch L.A.'s 'The Inventionist'
-*   The World's Shortest Free Fall, Brought to You by Slim Jim
+*   Harper's Bazaar Editor Heads to WSJ.
+*   Dear God, Save Me From the Monsters in the Drambuie Ad
+*   Humans Get the Paint Job in Artsy Ads for Motorcycle Shows
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
