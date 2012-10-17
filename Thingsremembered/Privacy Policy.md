@@ -6,7 +6,6 @@ Store Locator
 
 *   Occasions
     
-    *   Boss's Day
     *   Sweetest Day
     *   Veteran's Day
     *   Christmas
@@ -16,8 +15,8 @@ Store Locator
     *   New Baby/Baby Shower
     *   Birthday for Him
     *   Birthday for Her
-    
     *   Housewarming
+    
     *   New Job
     *   Performance Recognition
     *   Service &. Retirement
