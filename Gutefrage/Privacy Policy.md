@@ -190,74 +190,87 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 82767 Arbeit 63865 Ausbildung 49406 Auto 89945 Beauty 68236 Beruf 76600 Beziehung 70813 Computer 531092 Computerspiele 63715 deutsch 66161 Englisch 51506 ErnÃ¤hrung 50181 essen 70453 Facebook 76019 Fernsehen 59719 Film 98767 Finanzen 58590 Freizeit 259820 FuÃball 50673 Games 122695 Geld 92371 Gesundheit 203524 Haare 81387 Handy 201534 Hilfe 146090 Internet 318872 iPhone 74085 Kinder 50435 KÃ¶rper 49211 Laptop 72430 Liebe 162766 Lied 53701 MÃ¤dchen 55321 Medizin 62085 Minecraft 66608 Musik 277520 PC 278579 PC-Spiele 47992 Problem 54270 PS3 59203 Recht 94340 Schule 232092 Software 56512 Spiele 135373 Sport 109569 Technik 119154 Tiere 64222 TV 53813 Video 52018 Youtube 81843 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Themen der Woche
 
-1.  Rheagar
+1.  Arbeitsrecht
+2.  Fifa
+3.  Halloween
+4.  Online-Shop
+5.  Periode
+6.  Pickel
+7.  Piercing
+8.  Pokemon
+9.  rauchen
+10.  Skype
+
+Top-50 Themen Thema Anzahl Apple 82788 Arbeit 63879 Ausbildung 49421 Auto 89963 Beauty 68267 Beruf 76635 Beziehung 70825 Computer 531316 Computerspiele 63723 deutsch 66180 Englisch 51512 ErnÃ¤hrung 50188 essen 70474 Facebook 76025 Fernsehen 59727 Film 98778 Finanzen 58595 Freizeit 260049 FuÃball 50681 Games 122731 Geld 92386 Gesundheit 203598 Haare 81403 Handy 201571 Hilfe 146120 Internet 318904 iPhone 74103 Kinder 50441 KÃ¶rper 49222 Laptop 72448 Liebe 162786 Lied 53712 MÃ¤dchen 55330 Medizin 62092 Minecraft 66631 Musik 277543 PC 278623 PC-Spiele 48000 Problem 54284 PS3 59223 Recht 94346 Schule 232127 Software 56522 Spiele 135398 Sport 109595 Technik 119172 Tiere 64227 TV 53818 Video 52028 Youtube 81854 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+
+1.  AlphaCarinae
     
     Punkte:
     
-    1165
+    1948
     
     Level:
     
-    Rheagar
+    AlphaCarinae
     
 2.  Chimaer
     
     Punkte:
     
-    1073
+    1833
     
     Level:
     
     Chimaer
     
-3.  asogama
+3.  maxifipsi
     
     Punkte:
     
-    696
+    1183
     
     Level:
     
-    asogama
+    maxifipsi
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.263.952 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.267.249 gute Fragen_
 
-*   18 Habe ich einen MÃ¶nch provoziert?
+*   28 Habe ich einen MÃ¶nch provoziert?
 *   16 Wie sollte man mit den Menschen umgehen?
-*   13 rassistische Eltern
+*   15 rassistische Eltern
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Anleitung - Schiebekarte basteln
 *   Glutenfrei backen: Schokokuchen
 
-*   Eine Hand zeichnen
 *   KÃ¼rbis-Pfannkuchen zubereiten
+*   Eine Hand zeichnen
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.935.163
+1.935.813
 
 Anzahl der Fragen
 
-8.263.291
+8.264.568
 
 Anzahl der Antworten
 
-35.948.381
+35.952.867
 
 Anzahl der Tipps
 
-74.203
+74.212
 
 Anzahl der Videos
 
-4.671
+4.673
 
 Blog
 
