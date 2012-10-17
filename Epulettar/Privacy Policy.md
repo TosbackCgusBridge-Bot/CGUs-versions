@@ -121,12 +121,11 @@ praktikum és babaszoba design kiállítás
 
 épülettár apró
 
-galériaépítés, masszív galériaágyak - országosan, garanciával. www.galeria.hu
+köki terminál, metró közelében eladó családi ház
 
-bamboo-bambusz faiskola
+új építésű raktár, műhely, telephely eladó!
 
-mosógépjavítás xxii.ker.-budafo  
-k, budatétény, nagytétény, xi.ker.
+parlament szomszédságában kiadó irodák!
 
 még több
 
