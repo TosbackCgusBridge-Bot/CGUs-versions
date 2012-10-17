@@ -16,6 +16,7 @@
     *   Outdoor &. Garden
     *   Clothing &. Accessories
     *   Etc
+    *   Clearance
     *   $14.99 Store
     
     *   New Best Sellers
