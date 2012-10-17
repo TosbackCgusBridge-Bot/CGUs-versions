@@ -649,7 +649,6 @@ Y*   Books + Media
         *   Office Essentials
         *   Photo Albums and Scrapbooking
         *   Arts and Craft Kits
-        *   Giftwrap
         *   Greeting Cards
     *   open Toys + Sports
         *   open More
@@ -1372,7 +1371,7 @@ _Our Guarantee!_ If you are not completely satisfied with all or part of your or
     The Lakeside Collection?  
     2800 Lakeside Dr  
     Bannockburn, IL 60015 Returns Department  
-    The Lakeside Collection®  
+    The Lakeside Collection?  
     PO Box 94835  
     Palatine, IL 60094-4835  *   FAQs
         
