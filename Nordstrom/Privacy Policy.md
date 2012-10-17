@@ -195,9 +195,9 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     
     *   Style Watch
     *   BP. Fashion Board Blog
-    *   Denim Guide
+    *   Dress Guide
     *   Fall Trend Guide
-    *   Fall Dress Guide
+    *   Denim Guide
     *   Top Trends
     
     *   New Arrivals
