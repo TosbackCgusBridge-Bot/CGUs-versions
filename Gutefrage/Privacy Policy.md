@@ -190,74 +190,74 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 82724 Arbeit 63831 Ausbildung 49378 Auto 89894 Beauty 68172 Beruf 76563 Beziehung 70763 Computer 530513 Computerspiele 63687 deutsch 66143 Englisch 51493 ErnÃ¤hrung 50158 essen 70415 Facebook 75972 Fernsehen 59690 Film 98724 Finanzen 58579 Freizeit 259223 FuÃball 50649 Games 122621 Geld 92332 Gesundheit 203375 Haare 81347 Handy 201438 Hilfe 146021 Internet 318774 iPhone 74048 Kinder 50419 KÃ¶rper 49174 Laptop 72393 Liebe 162653 Lied 53675 MÃ¤dchen 55275 Medizin 62055 Minecraft 66574 Musik 277414 PC 278452 PC-Spiele 47971 Problem 54245 PS3 59173 Recht 94264 Schule 231927 Software 56496 Spiele 135321 Sport 109517 Technik 119100 Tiere 64201 TV 53788 Video 51992 Youtube 81805 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 82767 Arbeit 63865 Ausbildung 49406 Auto 89945 Beauty 68236 Beruf 76600 Beziehung 70813 Computer 531092 Computerspiele 63715 deutsch 66161 Englisch 51506 ErnÃ¤hrung 50181 essen 70453 Facebook 76019 Fernsehen 59719 Film 98767 Finanzen 58590 Freizeit 259820 FuÃball 50673 Games 122695 Geld 92371 Gesundheit 203524 Haare 81387 Handy 201534 Hilfe 146090 Internet 318872 iPhone 74085 Kinder 50435 KÃ¶rper 49211 Laptop 72430 Liebe 162766 Lied 53701 MÃ¤dchen 55321 Medizin 62085 Minecraft 66608 Musik 277520 PC 278579 PC-Spiele 47992 Problem 54270 PS3 59203 Recht 94340 Schule 232092 Software 56512 Spiele 135373 Sport 109569 Technik 119154 Tiere 64222 TV 53813 Video 52018 Youtube 81843 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  Locksmith
+1.  Rheagar
     
     Punkte:
     
-    1592
+    1165
     
     Level:
     
-    Locksmith
+    Rheagar
     
-2.  Silbertuerkis
+2.  Chimaer
     
     Punkte:
     
-    1435
+    1073
     
     Level:
     
-    Silbertuerkis
+    Chimaer
     
-3.  coeleste
+3.  asogama
     
     Punkte:
     
-    1201
+    696
     
     Level:
     
-    coeleste
+    asogama
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.261.818 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.263.952 gute Fragen_
 
-*   32 Es kann der frÃ¶mmste nicht in frieden leben....
-*   23 Kann man im luftleeren Raum die Schallmauer durchbrechen ?
-*   18 verletzte krÃ¤he gefunden, was kann ich tun?
+*   18 Habe ich einen MÃ¶nch provoziert?
+*   16 Wie sollte man mit den Menschen umgehen?
+*   13 rassistische Eltern
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Anleitung - Schiebekarte basteln
-*   HimbeertÃ¶rtchen backen
-
 *   Glutenfrei backen: Schokokuchen
+
 *   Eine Hand zeichnen
+*   KÃ¼rbis-Pfannkuchen zubereiten
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.932.541
+1.935.163
 
 Anzahl der Fragen
 
-8.259.947
+8.263.291
 
 Anzahl der Antworten
 
-35.935.073
+35.948.381
 
 Anzahl der Tipps
 
-74.179
+74.203
 
 Anzahl der Videos
 
-4.670
+4.671
 
 Blog
 
