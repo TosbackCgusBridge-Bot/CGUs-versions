@@ -270,13 +270,13 @@ Most Popular
 *   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Updated 10/16/2012 at 2:43 p.m. 97 comments
 *   UPDATED: Boy, 16, hit by vehicle outside school Updated 10/16/2012 at 8:51 p.m. 24 comments
 *   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 101 comments
-*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 120 comments
+*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 122 comments
 *   Families dispute eviction to make room for Win-River Casino road widening Published 10/16/2012 at 4:30 p.m. 21 comments
 
-Photo Galleries Enterprise beats Foothill Red Bluff men get marijuana back Historic skydive from the edge of space
+Photo Galleries Enterprise beats Foothill Red Bluff men get marijuana back Google data center
 
 *   Jim Jones: Gas prices are just the start Published 10/15/2012 at 12:00 a.m. 173 comments
-*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 120 comments
+*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 122 comments
 *   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Published 10/15/2012 at 11:42 p.m. 97 comments
 *   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 101 comments
 *   Richard Wrathall: We need more producers, fewer takers Published 10/15/2012 at 12:00 a.m. 78 comments
@@ -293,7 +293,7 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 67° Fair Wind: N 17mph Today 92° 56° Wed 10:00 PM Clear Temp: 67° Thu 10:00 AM Sunny Temp: 76° Thu 10:00 PM Mostly Clear Temp: 62°
+Currently 70° Fair Wind: N 16mph Today 92° 56° Wed 10:00 PM Clear Temp: 67° Thu 10:00 AM Sunny Temp: 76° Thu 10:00 PM Mostly Clear Temp: 62°
 
 Feels Like: 67°
 
