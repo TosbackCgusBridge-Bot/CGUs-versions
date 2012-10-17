@@ -1,59 +1,59 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Al-Qaida, Taliban struggle to justify attack on Malala
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Top cats snap: Fur flies outside UK PM's home
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Brian Bahr / Getty Images No Super hangover for Giants
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Pablo Martinez Monsivais / AP Rookie QB rules no longer apply
     
-    Trash Talk: Do the New York Giants simply want it more than the rest of the NFL? That seems to be the case, which isn't normal for a typical Super Bowl champ.
+    Kacsmar: This could be the year the book was rewritten on rookie expectations. When you look at all rookie quarterbacks since 1960 through their first six games, these five from 2012 are among the most prolific ever.
     
-    Broncos storm back from 24-0 to stun Chargers PFT: Peyton ties rally record  |  Norv under fire PFT: QBs made all the difference on MNF PFT: Reid fires Castillo, and that might not be all PFT: Samuel throws jab at ex-coach Reid PFT: Banner in, Holmgren out as Browns' boss PFT: Dez admits he should've caught 2-point pass PFT: 49ers LB Willis fires back at analyst Millen Ad
+    PFT: Reid fires Castillo, and that might not be all CSN: Five reasons behind Castillo's firing More moves coming for Eagles? PFT: Samuel throws jab at ex-coach Reid PFT: Rodgers on injury report? 'Probably. Maybe' PFT: Holmgren out as Browns' boss  |  What's next? PFT: Dez admits he should've caught 2-point pass PFT: Would Polamalu shave head for SB win? Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Thearon W. Henderson / Getty Verlander vs. Yankees, it's not fair
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Gregory Shamus / Getty Images Tigers 1 win from World Series
     
-    HBT: The Tigers are up 2-0 in the ALCS. They're back home. The Yankees' offense is anemic. And Detroit is throwing Justin Verlander. Why even play?
+    Justin Verlander took a shutout into the ninth inning and the Detroit Tigers held on to beat the New York Yankees 2-1 Tuesday night for a 3-0 lead in the AL championship series.
     
-    Yanks big underdogs  |  Trump: A-Rod a '$30M/yr rip off' Yankees' slump defies explanation Baseball playoffs full of momentum swings Giants strike back, even NLCS vs. Cardinals HBT: X-rays negative on Scutaro's  |  'Bush play' HBT: Vogelsong holds St. Louis in check CSN's Ratto: Giants played like Giants in Game 2 HBT: Giants leaning toward Lincecum for Game 4 Ad
+    HBT: Girardi goes down with his hand-picked 9 HBT: Decision to pull Verlander pays off for Leyland In praise of Tigers' smart rotation Baseball playoffs full of momentum swings Ozzie Smith to auction Gold Gloves HBT: Vogelsong holds St. Louis in check HBT: X-rays negative on Scutaro's  |  'Bush play' This wasn't Holliday's first rough slide into 2nd Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Keith Srakocic / AP Owners offer 50-50 revenue split
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines NBC Sports Explaining proposed NHL deal
     
-    PHT: The NHL has made a new proposal to the NHLPA, offering the players a 50/50 split of hockey-related revenue.
+    Sports Talk: Erik Kuselias talks with Mike Halford of NBC's Pro Hockey Talk to make sense of the NHL's offer of a 50-50 revenue split. Halford says the NHLPA is unlikely to accept the offer, but it's a step in the right direction.
     
-    PHT: NHL proposes 5-year maximum contracts PHT: Pressure's now on NHLPA for resolution PHT: Leave if you don't like it, LaFleur tells players PHT: Crosby's agent eyes world tour of stars Final OKs given for Seattle arena deal PHT: Could NHL learn from baseball's example? NHL.com: Sabres unveil French Connection statue No lockout here: Ice age starting in central PA Ad
+    PHT: Lockout to end? Owners offer 50-50 split PHT: NHL proposes 5-year maximum contracts PHT: Pressure's now on NHLPA for resolution PHT: Leave if you don't like it, LaFleur tells players PHT: Crosby's agent eyes world tour of stars Final OKs given for Seattle arena deal CSN: Olczyk emotional during hockey hall induction PHT: Could NHL learn from baseball's example? Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Bill Baptist / Getty Images Contributor Why the NY animosity toward Lin?
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines NBC Sports Could the Lakers win 60 games?
     
-    PBT: There’s been this ridiculous “let’s slam Jeremy Lin anonymously” thing coming out of New York lately, some kind of attempt to spin the frustration of some fans that Lin is now gone to Houston.
+    Sports Talk: Erik Kuselias and Chris Mannix of Sports Illustrated give you their over/under prediction for a few NBA teams that are expected to do well. Who do they think will be the team to beat?
     
-    PBT: Bynum back Oct. 24, but he's out of shape PBT: Celtics' Terry already hates Heat, Lakers PBT: Lakers may sign Derek Fisher on Wednesday PBT: Mavs suspend West after lockerroom outburst PBT: Dirk still has no plans for surgery Mailbag: Is Dirk's knee the D-Will smoking gun? PBT: Marvel's LeBron comic book is out there PBT: Just stop — Calderon not headed to Lakers Ad
+    PBT: Marcus Camby not near Knicks return PBT: Bynum back Oct. 24, but he's out of shape PBT: Celtics' Terry already hates Heat, Lakers PBT: Lakers may sign Derek Fisher on Wednesday PBT: Preseason showing that Lakers lack depth PBT: Mavs suspend West after lockerroom outburst PBT: Dirk still has no plans for surgery Mailbag: Is Dirk's knee the D-Will smoking gun? Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Darron Cummings / AP Manti Te'o gets into the mix
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Scott Cunningham / Getty Images Richt 'not counting' Jones out yet
     
-    Special feature: Notre Dame's star linebacker is too good to ignore this week, especially when West Virginia's Geno Smith struggled. Rank your picks.
+    CFT: An injury has limited All-American Jarvis Jones in recent weeks, but Mark Richt expects him to play vs. S.C.
     
-    CFT: Curley officially out as Penn State A.D. CFT: Saban says quarterback McCarron is OK CFT: Kill to resume Gopher activities today CFT: W.Va. was 'cockiest… team I have ever seen' CFT: First BCS rankings have SEC flavor CFT: Tide unanimous No. 1 in both major polls CFT: Willingham a Stanford assistant golf coach CFT: Texas takes a big step back with lopsided loss Ad
+    CFT: Curley officially out as Penn State A.D. CFT: Florida healing heading into S.C. showdown Who ya got? Week 8 Miami waiting to see if Morris can play CFT: Saban says quarterback McCarron is OK Special feature: Heisman Hopefuls CFT: Kill to resume Gopher activities today Gophers cancel games with North Carolina for $800K Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines The last walk: My entry into the world of disabled golfers
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Everybody loves a good cliché: Looking back on 2012
     
-    Golf isn't just for the able-bodied. it's for those able to love the game. Our new series, 'The Challenged Tour,' showcases the disabled golfer.
+    Everyone loves a good cliché. Here’s a look back at some notable moments this year and the lessons we’ve learned.
     
-    Lefty's $1M charity shot sails long during MNF McIlroy says he will play fewer events in '13 First-round tee times for McGladrey Classic Lincicome, Christina Kim engage in Twitter feud Debate: Is it a good idea for athletes to tweet? USGA plans to make long-putter ruling in 2012 What We Learned: Rose coming into bloom Magic on the European Tour Quotes of the Week Getting the most out of your work with the putter Ad
+    Lefty's $1M charity shot sails long during MNF McIlroy says he will play fewer events in '13 Featured groups: McGladrey Classic Advice for PGA Tour players: Play slower, it helps Notes: Tseng presses on through horrendous slump Lincicome, Christina Kim engage in Twitter feud Debate: Is it a good idea for athletes to tweet? USGA plans to make long-putter ruling in 2012 Quotes of the Week Getting the most out of your work with the putter Ad
 *   Motors
     SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Kim Hong-Ji / Reuters Will Hamilton feel the love?
     
     McLaren has left Lewis Hamilton in no doubt that he will feel the love when he goes back to the Formula One team's factory this week for the first time since his move to Mercedes was announced last month.
     
-    NBC Sports Group gets US Formula One rights Ferrari extends Massa's contract through 2013 Red Bull driver Vettel wins Korean GP Earnhardt visits concussion specialist in Pa. NASCAR dumps top 35 rule, cuts Nationwide field Allmendinger to drive for Phoenix again at Kansas NASCAR and Fox sign 8-year extension through 2022 Bowyer wins on disastrous night for Keselowski Ad
+    NBC Sports Group gets US Formula One rights Ferrari extends Massa's contract through 2013 Red Bull driver Vettel wins Korean GP NASCAR dumps top 35 rule, cuts Nationwide field Earnhardt visits concussion specialist in Pa. NASCAR dumps top 35 rule, cuts Nationwide field Allmendinger to drive for Phoenix again at Kansas NASCAR and Fox sign 8-year extension through 2022 Ad
 *   NCAA BK
     SectionsCollegeBasketballTalk Bracket contest Men's scores Women's scores Video Standings Schedules Stats Rosters Teams Odds Matchups Tickets Shop Headlines Nick Wass / AP Georgetown young but versatile
     
     CBT: Since John Thompson III took over at Georgetown, his best teams have had a steady, veteran presence in the back court and versatile, playmaking big men. This season, those roles are two big question marks.
     
-    CBT: Knight to auction title rings, gold medal Column: Knight not living in past, will auction it CBT: 15 players with breakout potential NC State tabbed as ACC preseason favorites CBT: NCAA reportedly passes $500 million in net assets CBT: Louis Orr’s house tagged with racial graffiti CBT: Duke's Marshall Plumlee out 6-8 weeks CBT: Top 20 forward Selden commits to Kansas Ad
+    CBT: Minnesota's Mbakwe has more legal issues CBT: Knight to auction title rings, gold medal Column: Knight not living in past, will auction it CBT: 15 players with breakout potential NC State tabbed as ACC preseason favorites CBT: NCAA reportedly passes $500 million in net assets CBT: Louis Orr’s house tagged with racial graffiti CBT: Duke's Marshall Plumlee out 6-8 weeks Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Wilfredo Lee / AP Disaster would shut US out of World Cup
+    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Reed Hoffmann / AP US can relax now (a little)
     
-    PST: The United States could pay the ultimate price for a slip tonight against Guatemala in the final match of semifinal round CONCACAF qualifying.
+    PST: After a tougher-than expected second round, the U.S. men's team sorted out enough issues for the win, but things still aren't perfect.
     
-    PST: Play for tie tonight? No way, Klinsmann says PST: Jones' suspension a blessing in disguise? PST: Whom could US use at left back Tuesday? PST: Ranking US men's central defenders PST: Howard's free advice for free kicks PST: 3 questions for US midfielder Kljestan Australia, Uzbekistan, Oman win WCup qualifiers Rooney's brother to leave Orlando for Barnsley Ad
+    PST: Dempsey easy call for Man of Match PST: Germany, Spain shocked in Cup qualifiers Complete rundown of World Cup qualifiers From racist abuse to diving, Suarez feels the heat PST: Jones' suspension a blessing in disguise? Canada's hopes die in rout. joy for Jamaica Paraguay edges Peru 1-0 in South America qualifier PST: Howard's free advice for free kicks Ad
 *   Olympics
     SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Rick Stewart / Getty Images Wambach gets Chipotle for life
     
@@ -61,11 +61,11 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     OlympicTalk: BMX rider Bennett dies in car crash OlympicTalk: Is baseball back in 2020? Usain Bolt goes for the gold (hair) on 'SNL' World record marathoner Radcliffe loses funding Rogge says London could host Games again soon OlympicTalk: Vonn's possible male competitiors speak Olympic champ Maroney still on crutches OlympicTalk: IOC won't strip Lance of Sydney bronze, yet Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Kelly Cestari / Zuma Press The Week in Sports Pictures
+    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines David Zalubowski / AP Cyclist says fans will 'forgive' Lance
     
-    A Giant victory, a Titan's bad hands, a Tiger on the run, surf 'n sun and more.
+    Professional cycling has long been crippled by doping and the sport will only begin to heal when its omerta, or 'Code of Silence', has been broken by those still in denial, according to Tyler Hamilton.
     
-    Fever are 'here for real' with 1-0 lead on Lynx Cyclist Leipheimer fired for doping admission Peewee coach slaps ref Skull vehicle beats out rivals at soapbox race NJ plans to start licensing sports bets in January Skydiver breaks sound barrier in record jump State government says Armstrong was worth it Armstrong could take lie test over doping Ad
+    Cyclist Leipheimer fired for doping admission The Week in Sports Pictures America's Cup catamaran capsizes on SF Bay Fever are 'here for real' with 1-0 lead on Lynx Peewee coach slaps ref Skull vehicle beats out rivals at soapbox race NJ plans to start licensing sports bets in January Skydiver breaks sound barrier in record jump Ad
 
 *   Scores
 *   Odds
