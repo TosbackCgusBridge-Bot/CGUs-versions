@@ -105,6 +105,7 @@ Advertisement Take Deepak Chopra's FREE 21-Day Meditation Challenge! Discover ne
 *   What Do You Believe?
 *   LIFECLASSERS- HAVE A QUESTION FOR IYANLA VANZANT?
 *   Where do you find beauty in the world?
+*   HAVE A QUESTION FOR OPRAH?S LIFECLASS?
 
 See more » Advertisement Hot Topics
 
