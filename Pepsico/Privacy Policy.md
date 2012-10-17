@@ -158,7 +158,7 @@ Minimum 20 Minute Delay
 
 **Intraday Low** 70.24
 
-**Volume** 5,795,340
+**Volume** 5,802,944
 
 **Last Trade** 70.34
 
@@ -194,9 +194,9 @@ Recent News
 
 Recent Press Releases
 
-1.  Obama Re-Election Appears Likely Following Results Of Cheetos Brand Election Poll
-2.  Pepsi Scores Touchdown With New Ad
-3.  PepsiCo Lets Consumers Buy, Gift and Play Through New Interactive Vending Machine
+1.  PepsiCo Reports Third Quarter 2012 Results
+2.  2.3.13 - ARE YOU READY FOR BEYONCE ?!!!
+3.  Obama Re-Election Appears Likely Following Results Of Cheetos Brand Election Poll
 
 Downloads
 
