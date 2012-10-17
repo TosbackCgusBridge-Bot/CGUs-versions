@@ -143,7 +143,7 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-28 minutes ago
+42 minutes ago
 
 @BleacherReport: Indiana is No.1 in the USA Today college basketball preseason coaches poll. (2) L'ville (3) Kentucky (4) OSU (5) Mich http://t.co/fFxJexxu
 
