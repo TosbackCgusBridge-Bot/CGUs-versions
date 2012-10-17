@@ -1,3 +1,4 @@
+*   Beta New
 *   Tour
     *   Take a Tour
     *   Who Uses SugarSync
@@ -11,7 +12,7 @@
     *   Remote Access
     *   Folder &. File Sharing
     *   Compare
-*   Login
+*   Log In
 
 Privacy Policy
 
