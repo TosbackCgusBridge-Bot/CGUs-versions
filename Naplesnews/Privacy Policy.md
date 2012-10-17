@@ -440,17 +440,17 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 251 comments
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 11:21 p.m. 102 comments
-*   Paul Ryan schedules rally Thursday night at Fort Myers sports complex Updated 10/16/2012 at 5:22 p.m. 27 comments
-*   Naples Police Chief says no need to step up patrol of Pier Published 10/16/2012 at 6:00 a.m. 20 comments
-*   Govt to let Cubans travel freely Published 10/16/2012 at 11:24 a.m. 15 comments
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 11:21 p.m. 187 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 268 comments
+*   Paul Ryan schedules rally Thursday night at Fort Myers sports complex Updated 10/16/2012 at 5:22 p.m. 29 comments
+*   Earth-sized planet found just outside solar system Published 10/16/2012 at 8:15 p.m. 19 comments
+*   Lee sergeant fired. directed subordinates to do bare minimum after not receiving bonus Updated 10/16/2012 at 7:24 p.m. 20 comments
 
-Photo Galleries Historic Photos: Fort Jefferson at… Catch of the Day: Oct. 3, 2012 Barktoberfest 2012
+Photo Galleries Historic Photos: Fort Jefferson at… Catch of the Day: Oct. 3, 2012 Editorial Cartoons: Oct. 17, 2012
 
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 251 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 268 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 187 comments
 *   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 209 comments
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 102 comments
 *   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 76 comments
 *   Swing state: Voter turnout the key to Obama, Romney victory Published 10/15/2012 at 5:30 a.m. 78 comments
 
@@ -458,7 +458,7 @@ Photo Galleries Historic Photos: Fort Jefferson at… Catch of the Day: Oct. 3, 
 *   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 10 comments
 *   Stan's gone but his Goodland restaurant opens for season Published 10/8/2012 at 5:00 a.m. 6 comments
 *   Teachers take on kids' nutrition with a book set in Naples Published 10/9/2012 at 4:00 a.m. 0 comments
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 251 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 268 comments
 
 Weather
 
@@ -466,23 +466,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 73° Fair Wind: Calm Today 83° 72° Wed 08:00 PM Mostly Cloudy Showers Temp: 78° Thu 08:00 AM Partly Sunny Showers Temp: 74° Thu 08:00 PM Partly Cloudy Temp: 78°
+Currently 82° Partly Cloudy Wind: SW 6mph Today 83° 73° Thu 01:00 AM Partly Cloudy Showers Temp: 75° Thu 01:00 PM Mostly Cloudy Thunderstorms Temp: 84° Fri 01:00 AM Partly Cloudy Showers Temp: 74°
 
-Feels Like: 78°
+Feels Like: 75°
 
-Humidity: 82%
-
-Precip: 50%
-
-Feels Like: 74°
-
-Humidity: 94%
+Humidity: 91%
 
 Precip: 30%
 
-Feels Like: 78°
+Feels Like: 89°
 
-Humidity: 79%
+Humidity: 65%
+
+Precip: 20%
+
+Feels Like: 74°
+
+Humidity: 90%
 
 Precip: 20%
 
