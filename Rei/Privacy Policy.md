@@ -908,7 +908,7 @@ Company Info
 *   Jobs at REI
 *   100% Satisfaction Guarantee
 *   Corporate &. Group Sales
-*   Privacy Policy - UPDATED
+*   Privacy Policy
 *   Terms of Use
 *   Site Rules
 *   California Transparency in Supply Chains Act - REI's Disclosure
