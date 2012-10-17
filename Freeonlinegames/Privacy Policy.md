@@ -39,7 +39,7 @@ Welcome to Free Online Games New Free Online Games 1 / 2 Family Barn Survivor De
 *   Fighting Games (213)
 *   RPG Games (188)
 *   Action Games (170)
-*   3D Games (159)
+*   3D Games (160)
 *   Girl Games (149)
 *   Simulation Games (144)
 *   Point and Click Games (126)
