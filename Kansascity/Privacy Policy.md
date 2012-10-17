@@ -134,31 +134,32 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Get up to 7 Carpeted Areas of Your Home Cleaned for only $99. a $320 value from Spots Be Gone $99 Value: Discount: You Save: $320 69% $221
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day 4 VISIT PACKAGE FROM BLO SALON STUDIO INCLUDES HAIRCUT, HIGHLIGHTS, BROW WAX, MANI/PEDI, MASSAGE ALL FOR $65! A $300 VALUE! $65 Value: Discount: You Save: $300 78% $235
 
-Tuesday: Top Deals
+Wednesday: Hen House, HyVee, Price Chopper Deals HyVee
 
-1.  On the Border – Head to their Facebook page to get a coupon for free queso and sopapillas.  The coupon is good through September 13th.
-2.  Garnier Fructis – Request a free sample of Garnier Fructis Fall Flight courtesy of Target.
-3.  Biore – Sign up to see if you qualify to get 3 free sample sent to you.
+*   Hy-vee Fresh Ground Beef, 80/20, 1lb - $1.99
+*   Post Kids Cereal or Treats, 6.2 to 20oz - $1.77
+*   Gerber Graduates Grabbers or Organic Pouches, 3.5 to 4.32oz - $1.50
+*   more...
 
 1.  Parts Project Coordinator
     
     Central Power Systems &. Services, Inc.
     
-2.  OPERATING MANAGER
+2.  SEASONAL DRIVERS
     
-3.  PROGRAM DIRECTOR
+    Kelly Services
     
-4.  SENIOR PIPE DESIGNER
+3.  SALES
+    
+4.  PROGRAM DIRECTOR
+    
+5.  SENIOR PIPE DESIGNER
     
     THOMAS RUSSELL CO.
     
-5.  Apartment Maintenance Helper
-    
-6.  Certified Dietary Manager
-    
-    CROWN CARE CENTER
+6.  Apartment Maintenance Helper
     
 
 View More The Most
@@ -166,16 +167,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Add confusion to list of Chiefs problems
+*   In rematch, Obama and Romney get testy over jobs, energy and immigration
+*   Smithville woman dies after head-on crash
+*   Royals system brimming with depth at shortstop
+*   U.S. beats Guatemala 3-1 in World Cup qualifier
+*   Presidential debate: Shouting over the 'facts'
+*   Cassel practices, but Chiefs hold off on QB decision
+*   Park Hill school board member resigns
+*   Missouri butcher shop to pay $50,000 for cattle hearts in meat
 *   Right-hander Kyle Lohse could be available for Royals to pursue
-*   Sprint-SoftBank merger could give wireless world a jolt
-*   Sunday rewind | MU's O-line gets revenge after dangerous tackle
-*   Kansas to roll out new driver’s license
-*   Polls don't matter, Electoral College does in determining the next president
-*   Poll | Are the Chiefs the worst of the NFLs worst?
-*   Dear Abby | Stepson is playing sex roulette
-*   Top-ranked guard Selden commits to Kansas
-*   Thieves take ‘significant’ amount of jewelry during smash-and-grab burglary
+*   Busy night for U.S. team’s Bocanegra
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
