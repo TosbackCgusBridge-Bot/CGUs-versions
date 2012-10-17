@@ -37,21 +37,21 @@ Style Six Actual Binders Full of Style  Not Women
 
 Mitt Romney and the Internet have brought attention to that oft-overlooked accessory. Maybe you could use one.
 
-*   The Debate Ties: Something We Can Agree On
+*   The Debate Ties: Something We Can Agree Upon (and Even Buy!)
 
 *   15 Cardigans to Buy Online Now
 
 *   A Secret History of Your Pants
 
-News &. Politics MIke Sager on Jeff Flake's Arizona Senate Race
+News &. Politics Charles P. Pierce: Romney Beyond the Binders
 
-The Republican congressman, a conservative with deep roots in the state, wants to be its next senator. But these days, n...
+Because of the nature of the Republican primary, Romney has gone way right, especially on ladyparts. From the debate spi...
+
+*   MIke Sager on Jeff Flake's Arizona Senate Race
 
 *   Stephen Marche on the Election's Generation War
 
 *   Charles P. Pierce on Last Night's Debate
-
-*   Romney's Vision for Etch-A-Sketch America Takes Hold
 
 Food &. Drink The Marilyn Monroe Diet, with Lots of Protein
 
