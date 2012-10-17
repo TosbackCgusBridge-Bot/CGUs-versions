@@ -571,12 +571,7 @@ Oct 17,
 **Sons of Guns (Season 3)**  
 _Total Recall Vector Submachine Gun_  
  Inspired by the new "Total Recall", Kris builds a Red Jacket vers  
-**More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
-$47.95  
-  **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
-$12.95   **Discovering Ardi DVD**  
-$19.95   **Discovery Channel Polymer Chemistry Set**  
-$19.95        
+**More Listings »**   Shop Discovery Store      
 
 our sites
 
