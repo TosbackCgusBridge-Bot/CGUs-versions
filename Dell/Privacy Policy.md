@@ -1,30 +1,4 @@
-      Choose A Country/Region      English     Buy Online or Call 1-800-WWW-DELL For  
-Home  
-For Small  
-&. Home  
-Office For Small  
-&. Medium  
-Business For Education,  
-Government  
-&. Healthcare For  
-Large  
-Enterprise   Search Dell|About Dell Best-Selling Computer Deals Laptops &. Ultrabooks Desktops &. All-in-Ones Alienware HDTVs &. Home Theater Electronics, Software, Printers &. Ink Monitors Employee &. Student Purchase Program Consumer Services Store Technical Support, Drivers &. Parts My Account  |  Premier Login  |  Technical Support  |  Order Support    
-For  
-Home  
-Best-Selling Computer Deals Laptops &. Ultrabooks Desktops &. All-in-Ones Alienware HDTVs &. Home Theater Electronics, Software, Printers &. Ink Monitors Employee &. Student Purchase Program Consumer Services Store Technical Support, Drivers &. Parts For Small  
-&. Home  
-Office Best-Selling Computer Deals Laptops, Ultrabooks &. Tablets Desktops, Workstations &. Thin Clients Servers, Storage &. Networking Monitors Printers, Ink &. Toner Electronics, Software &. Accessories Services Technical Support, Drivers &. Parts For Small  
-&. Medium  
-Business Best Selling Systems Laptops &. Tablets Desktops, Workstations &. Thin Clients Servers, Storage, Networking &. Security Printers, Ink &. Toner Electronics, Software &. Accessories Services Solutions Technical Support, Drivers &. Parts For Education,  
-Government  
-&. Healthcare K-12 Education Higher Education State &. Local Government Federal Government Healthcare &. Life Sciences Employee Purchases Support &. Drivers Special Offers For  
-Large  
-Enterprise Services Solutions Industries Laptops &. Tablets Mobile Devices Desktops, Workstations &. Thin Clients Servers, Storage, Networking &. Security Software &. Peripherals Support &. Drivers Appliances &. OEM Capabilities Dell Terms of Sale, License Agreements &. Policies Terms of Sale  
-Terms and Conditions of Sale View Service Contracts Warranties Return Policy License Agreements  
-Dell Software License Agreement Dell Services License Agreement &. Acceptable Use Policy (AUP) Privacy  
-About Our Ads and Emails Mailing List Removal/Change of Address How We and Our Partners Use Cookies and Web Beacons Privacy Policy Security Legal  
-Site Terms Copyright Legal Notices Piracy Statement Usability/Accessibility at Dell Other Policies  
-Global Social Media Policy Encryption Privacy Policy
+Privacy Policy
 
 Privacy Statement Regarding Customer and Online User Information
 
@@ -146,13 +120,3 @@ USA
 You may also email us at privacy@dell.com.
 
 **Privacy Statement Regarding Customer and Online User Information Effective Date: December 30, 2010.**
-
-Shop Solutions Services Systems Software &. Peripherals Support Home Users Small Businesses Enterprise IT Community Join the Discussion Share Your Ideas Read our Blog Ratings &. Reviews Community Home Company Information About Dell Corporate Responsibility Careers Investors Newsroom My Account Sign-in / Register Order Status
-
-Laptops | Desktop Computers | Gaming Laptops | Gaming Desktops | Servers | Data Storage | Tablets | Refurbished Laptops | Dell Coupons | Dell Reviews | New Products | Top Searches  
-Monitors | Printers | Projectors | TVs | Home Theater Systems | Digital Cameras | Video Games | Laptop Accessories | Desktop Accessories | Home Ink &. Toner | Business Ink &. Toner  
-Cloud Computing | EMR | HPC | Virtualization | Thin Client | Business Intelligence | Information Security  
-© 2012 Dell | About Dell | Legal &. Regulatory Compliance | Privacy Statement | Ads and Emails | Regulatory Compliance | Site Terms of Use | Terms &. Conditions | Unresolved Issues | Dell Recycling | Contact | Video Sitemap | Site Map | Feedback  
-AT | AU | BE | BR | CA | CH | CL | CN | CO | DE | DK | ES | FR | HK | IE | IN | IT | JP | KR | MX | MY | NL | NO | PR | RU | SE | SG | UK | ALL
-
-Large Text snWW13
