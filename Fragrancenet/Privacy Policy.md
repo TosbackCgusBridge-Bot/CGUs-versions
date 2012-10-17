@@ -286,7 +286,7 @@ friend
 *   Privacy Statement
 *   Contact FragranceNet.com
 
-Customer Service Code: 83B
+Customer Service Code: 83A
 
 More about FragranceNet.com
 
@@ -496,7 +496,7 @@ Standard Ground U.S. Shipping (2-8 business days)
 U.S. orders will be shipped via UPS, FedEx, DHL, or U.S. Postal Service Priority Mail. Most packages arrive within 2-8 business days. (not a guaranteed service)
 
   
-**FREE for orders over $70.00.**  
+**FREE standard shipping for orders over $70.00.**  
 
 \*Free shipping offer valid for orders shipping within the 48 contiguous states.
 
@@ -504,7 +504,8 @@ U.S. orders will be shipped via UPS, FedEx, DHL, or U.S. Postal Service Priority
 
   
 
-$5.95 charge for orders under $70.00.
+$5.95 charge for all U.S. orders under $70.00 (48 contiguous states).  
+$8.95 charge for all U.S. orders shipping outside the 48 contiguous states.
 
   
 Express U.S. Shipping (2-3 business days guaranteed)  
