@@ -63,6 +63,8 @@ Welcome Imagine it, create it, share it. Learn more Upload Upload from your comp
     
     Photo Ornaments
     
+    Stocking Stuffers
+    
     Featured
     
     New Baby Cards &. Gifts
@@ -112,19 +114,84 @@ Welcome Imagine it, create it, share it. Learn more Upload Upload from your comp
     See All Photo Products
     
 *   |
-*   Prints
+*   Prints▼ Prints  
+    Print at Home  
+    
 *   |
 *   Photo Books
 *   |
-*   Cards
+*   Cards▼ Holidays
+    
+    Thanksgiving
+    
+    Christmas
+    
+    Season's Greetings
+    
+    Hanukkah
+    
+    Kwanzaa
+    
+    New Year's
+    
+    See All Holidays
+    
+    Invitations
+    
+    Thanksgiving Invitations
+    
+    Birthday Invitations
+    
+    Dinner Party Invitations
+    
+    Baby Shower Invitations
+    
+    Bridal Shower Invitations
+    
+    Cocktail Party invitations
+    
+    See All Invitations
+    
+    Announcements
+    
+    Birth Announcements
+    
+    Save the Date
+    
+    Moving Announcements
+    
+    Bar/Bat Mitzvah
+    
+    Baptism &. Christenings
+    
+    See All Announcements
+    
+    Greeting Cards
+    
+    Birthday
+    
+    Thank you
+    
+    Love
+    
+    Congratulations
+    
+    American Greetings Store
+    
+    See All Greeting Cards
+    
 *   |
 *   Home Décor▼ Canvases
     
     Gallery Wrap Canvas
     
+    Museum Wrap Canvas
+    
     Collage Photo Canvas
     
     Framed Gallery Wrap
+    
+    Framed Museum Wrap
     
     Framed Collage Canvas
     
@@ -170,9 +237,9 @@ Welcome Imagine it, create it, share it. Learn more Upload Upload from your comp
     
     Gallery Wrap Canvas
     
-    Collage Canvas
+    Museum Wrap Canvas
     
-    Canvas with Designs
+    Collage Canvas
     
     See All Frames
     
