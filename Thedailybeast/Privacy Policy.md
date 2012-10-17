@@ -145,23 +145,23 @@ Stories We Like
   Most Popular
 
 1.  Mitt’s ‘Binders Full of Women’ Slip
-2.  Obama Seizes the Upper Hand
-3.  7 Best Moments from the Second Presidential Debate
+2.  7 Best Moments from the Second Presidential Debate
+3.  Obama Seizes the Upper Hand
 4.  Candy’s Fact-Check
 5.  The Great Deformer
 
   Other News Entertainment
 
+*   Bing: Celebs Who Lost Endorsements
 *   Week in Photos for Oct. 19, 2012
 *   Glum-Faced John Mayer Marks Birthday With Katy Perry, Bow Tie
-*   The Shortlist for Oct. 17
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   Moderator Candy Crowley talks about debate on ‘The View’
-*   John Mayer celebrates 35th birthday with Katy Perry
-*   Weird Idea Jeans: Glenn Beck protests ‘socialist’ Levi’s by selling ‘all-American’ dungarees
+*   ‘The Unfinished Swan’: Behind-the-scenes of the intriguing new indie game — EXCLUSIVE VIDEO
+*   Matthew Fox denies hitting woman: It’s ‘a pile of bulls—’
+*   ‘Arrested Development’: A charitable way to attend the season 4 premiere party
 *   **Get More from EW.com**
 
 Entertainment
@@ -173,9 +173,9 @@ Entertainment
 
 Politics
 
+*   Quote of the Day
 *   What They're Reading in Chicago
 *   Who Won the Debate - Before it Happened?
-*   Four States
 *   **Get More from Political Wire**
 
 The Daily Beast
