@@ -100,8 +100,8 @@
     *   **All eyes on the NHLPA**  
         Capitals Insider | Katie Carrera
     
-    *   **ESPN.comâs RGIII âBandwagonâ game**  
-        DC Sports Bog | Dan Steinberg
+    *   **Niles Paul almost recovered a Vikings...**  
+        DC Sports Bog | Sarah Kogod
     
     *   **Five areas to monitor as the Redskins...**  
         The Insider | Mike Jones
@@ -240,7 +240,7 @@
     *   **Art: Two Lichtenstein retrospectives**  
         Classical Beat | Anne Midgette
     
-    *   **Romney still riding âFriday Night...**  
+    *   **R. Kellyâs new âTrapped in the...**  
         Celebritology 2.0 | Jen Chaney
     
     *   **Yes, Khloe Kardashian and Mario...**  
@@ -414,7 +414,10 @@ Live Q&A: Wednesday, Noon ET
 
 Associate editor Robert Kaiser live chats with readers to take questions on the second presidential debate.
 
-**11:00 AM** **Ask Tom: Rants, raves and questions on the DC dining scene**   LIVE NOW **12:00 PM** **Business RX: Advice on improving or starting a business**   LIVE NOW **12:00 PM** **Free Range on Food: The Pig to Table Project, quinoa, Vietnamese jerky and more**   LIVE NOW **12:00 PM** **The Reliable Source Live**   LIVE NOW **12:00 PM** **The second presidential debate: Who won?**   LIVE NOW **1:00 PM** **Brad Hirschfield Live: In the debate, which candidate spoke to your ethics and values?** **2:00 PM** **The Web Hostess: What you're missing (or not) on the internet**
+**11:00 AM** **Ask Tom: Rants, raves and questions on the DC dining scene**   LIVE NOW **12:00 PM** **Free Range on Food: The Pig to Table Project, quinoa, Vietnamese jerky and more**   LIVE NOW **12:00 PM** **The Reliable Source Live**   LIVE NOW **1:00 PM** **Brad Hirschfield Live: In the debate, which candidate spoke to your ethics and values?**   LIVE NOW **2:00 PM** **The Web Hostess: What you're missing (or not) on the internet**
+
+*   Earlier Today
+    *   **12:00 PM** **Business RX: Advice on improving or starting a business** **12:00 PM** **The second presidential debate: Who won?**
 
 **Weekly schedule, past shows**
 
