@@ -1,8 +1,8 @@
-Print Close Everyday Health, Inc. Privacy Policy
+Print Close Everyday Health, LLC Privacy Policy
 
 This Policy was last changed on November 23, 2011
 
-Everyday Health, Inc. and its subsidiaries ("Everyday Health," “us” or “we”) operates this website (the "Site"), and other health, wellness, diet and fitness websites that are part of the Everyday Health portfolio of websites (collectively, the "Sites") and the services related to or offered on the Sites (hereinafter, the "Services"). Some of the Sites are websites that we operate on behalf of third party licensors, for example, JillianMichaels.com, PDRHealth.com and SouthBeachDiet.com (collectively, "Licensors"). Everyday Health's Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Sites or provided through the Sites.
+Everyday Health, LLC and its subsidiaries ("Everyday Health," “us” or “we”) operates this website (the "Site"), and other health, wellness, diet and fitness websites that are part of the Everyday Health portfolio of websites (collectively, the "Sites") and the services related to or offered on the Sites (hereinafter, the "Services"). Some of the Sites are websites that we operate on behalf of third party licensors, for example, JillianMichaels.com, PDRHealth.com and SouthBeachDiet.com (collectively, "Licensors"). Everyday Health's Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Sites or provided through the Sites.
 
 We provide you this privacy policy (the "Policy") to help you understand the kinds of information we may gather about you when you visit the Site or use any of our Services, how we may use and disclose the information, and how you can control, correct and/or update the information.
 
@@ -22,10 +22,10 @@ We collect information about you in the following ways:
 
 We collect and maintain information that you voluntarily submit to us during your use of the Sites and Services. For example:
 
-*   when you register for a Site, you may provide us certain information including your name, email address, screen name, password, demographic information and the health topics that interest you.
-*   to engage a Site's social networking function, you may add to your profile by providing information about your interests or health topics. For example, your profile may list your favorite healthy foods or movie.
-*   if you are registering for a customized weight loss program, you may provide us answers to questions we use to provide you the program, like your actual and goal weights, your preferred method of exercise, or your caloric intake.
-*   if you sign up to receive a newsletter, enter a contest or participate in social networking activities, you may provide us contact information (e.g., email or physical address).
+*   when you register for a Site, you may provide us certain information including your name, email address, screen name, password, demographic information and the health topics that interest you;
+*   to engage a Site's social networking function, you may add to your profile by providing information about your interests or health topics. For example, your profile may list your favorite healthy foods or movie;
+*   if you are registering for a customized weight loss program, you may provide us answers to questions we use to provide you the program, like your actual and goal weights, your preferred method of exercise, or your caloric intake;
+*   if you sign up to receive a newsletter, enter a contest or participate in social networking activities, you may provide us contact information (e.g., email or physical address);
 *   if you purchase a product or service, you may provide us your credit card information. and
 *   you may provide us with Personal Information in the course of email, customer support interactions and surveys.
 
@@ -53,13 +53,13 @@ You can limit the way that we tailor advertising based on your self-reported int
 
 In general, we use your Personal Information as necessary or appropriate for purposes including to:
 
-*   administer your account.
-*   register you and provide you access to the Site or Services.
-*   respond to inquiries or requests that you direct to us.
-*   fulfill your requests for products or services.
-*   send communications and administrative emails about the Sites or Services.
-*   personalize and better tailor the features, performance and support of the Sites and Services for your use.
-*   send you promotional/marketing information, newsletters, offers or other information regarding opportunities and functionality that we think would be of particular interest to you.
+*   administer your account;
+*   register you and provide you access to the Site or Services;
+*   respond to inquiries or requests that you direct to us;
+*   fulfill your requests for products or services;
+*   send communications and administrative emails about the Sites or Services;
+*   personalize and better tailor the features, performance and support of the Sites and Services for your use;
+*   send you promotional/marketing information, newsletters, offers or other information regarding opportunities and functionality that we think would be of particular interest to you;
 *   improve the quality of the Site and the Services, and
 *   analyze, benchmark and conduct research on user data and user interactions with the Site and Services.
 
@@ -150,7 +150,7 @@ Telephone: 888-795-4719
 
 Email: privacy@everydayhealth.com
 
-Address: Everyday Health, Inc. 345 Hudson Street, 16th Floor New York, NY 10014
+Address: Everyday Health, LLC 345 Hudson Street, 16th Floor New York, NY 10014
 
 **12\. Privacy Policy Changes**
 
