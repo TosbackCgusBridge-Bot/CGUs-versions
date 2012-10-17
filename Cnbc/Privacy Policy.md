@@ -1,7 +1,4 @@
-Skip navigation **Tonight on ‘Kudlow’ 7p ET  
-**The Great Re-Match  
-Will Romney Trounce Obama, Again?  
-Larry Kicks Off CNBC's All-Star Coverage Symbol Lookup  
+Skip navigation Symbol Lookup  
   
 RegisterSign In Member CenterSign Out Register HOME NEWS MARKETS EARNINGS INVESTING SMALL BUSINESS VIDEO CNBC TV CNBC PRO U.S. Asia-Pacific Europe Economy Inside Wealth Politics Technology Blogs Slideshows Special Reports
 
@@ -126,7 +123,7 @@ RegisterSign In Member CenterSign Out Register HOME NEWS MARKETS EARNINGS INVEST
 >   
 
 U.S. Asia-Pacific Europe Economy Energy Green Inside Wealth Politics Technology Blogs Wires Slideshows Special Reports Corrections Pre-Markets World Markets Latin America Stocks Dow 30 Commodities Currencies Bonds Funds Calendar Surprises Highlights Ideas Franchising Financing Management Video Stock Blog Personal Finance CNBC Explains Portfolio Watchlist Stock Screener Fund Screener Earnings Screener Latest Video Top Video US Video Europe Video Asia Video CNBC Explains CNBC PRO CEO Interviews Analyst Interviews CNBC U.S. CNBC Asia Pacific CNBC Europe CNBC World  
-Current DateTime: 02:11:25 16 Oct 2012  
+Current DateTime: 05:00:45 17 Oct 2012  
 LinksList Documentid: 29778429
 
 *   CNBC NEWS
@@ -145,7 +142,7 @@ LinksList Documentid: 29778429
 *   Corrections
 
   
-Current DateTime: 12:34:51 16 Oct 2012  
+Current DateTime: 05:01:59 17 Oct 2012  
 LinksList Documentid: 29778428
 
 *   MARKETS
@@ -159,7 +156,7 @@ LinksList Documentid: 29778428
 *   Funds
 
   
-Current DateTime: 02:07:16 16 Oct 2012  
+Current DateTime: 01:15:02 17 Oct 2012  
 LinksList Documentid: 29779196
 
 *   EARNINGS
@@ -169,7 +166,7 @@ LinksList Documentid: 29779196
 *   Ideas
 
   
-Current DateTime: 02:17:16 16 Oct 2012  
+Current DateTime: 03:02:31 17 Oct 2012  
 LinksList Documentid: 29779197
 
 *   INVESTING
@@ -182,7 +179,7 @@ LinksList Documentid: 29779197
 *   Earnings Screener
 
   
-Current DateTime: 01:00:10 16 Oct 2012  
+Current DateTime: 01:15:01 17 Oct 2012  
 LinksList Documentid: 29779200
 
 *   VIDEO
@@ -196,7 +193,7 @@ LinksList Documentid: 29779200
 *   CNBC Pro
 
   
-Current DateTime: 02:14:56 16 Oct 2012  
+Current DateTime: 03:14:18 17 Oct 2012  
 LinksList Documentid: 29779199
 
 *   CNBC TV
@@ -208,7 +205,7 @@ LinksList Documentid: 29779199
 *   Channel Finder
 
   
-Current DateTime: 01:29:51 16 Oct 2012  
+Current DateTime: 01:15:02 17 Oct 2012  
 LinksList Documentid: 29779198
 
 *   MORE
