@@ -13,7 +13,7 @@ HP.com Home
         *   Other questions / feedback
     *      HP office locations
     *      All HP Contacts
-*   Online Communities Online Communities Loading... Failed to load community discussions. Please, try to refresh the page. See All Communities
+*   Online Communities Online Communities Loading... Failed to load community discussions. Please, try to refresh the page.
 
 Search
 
