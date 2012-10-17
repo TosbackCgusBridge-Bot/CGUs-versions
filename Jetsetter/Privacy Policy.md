@@ -220,21 +220,21 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Icon Hotel &. Lounge - Prague
-    
-    Starting Wednesday 10/17 at 3pm EDT
-    
-*   Little Good Harbour - Barbados
-    
-    Starting Wednesday 10/17 at 3pm EDT
-    
 *   Soneva Kiri - Thailand
     
-    Starting Wednesday 10/17 at 3pm EDT
+    Starting Today 10/17 at 3pm EDT
     
 *   The Alex - New York City
     
-    Starting Wednesday 10/17 at 3pm EDT
+    Starting Today 10/17 at 3pm EDT
+    
+*   Little Good Harbour - Barbados
+    
+    Starting Today 10/17 at 3pm EDT
+    
+*   Icon Hotel &. Lounge - Prague
+    
+    Starting Today 10/17 at 3pm EDT
     
 *   Hotel Lutetia - Paris
     
