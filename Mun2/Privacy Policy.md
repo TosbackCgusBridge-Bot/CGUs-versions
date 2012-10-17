@@ -23,9 +23,8 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 17 09:00 AM · MORNING BREATH coming up next:
+schedule right now: October 17 10:00 AM · L'CREME coming up next:
 
-*   10:00 AM · L'CREME
 *   11:00 AM · MORNING BREATH
 *   12:00 PM · L'CREME
 *   1:00 PM · AL CIEN 100%
@@ -40,6 +39,7 @@ schedule right now: October 17 09:00 AM · MORNING BREATH coming up next:
 *   12:00 AM · LARRYMANIA
 *   1:00 AM · DECISIONES
 *   2:00 AM · L'CREME
+*   3:00 AM · MORNING BREATH
 
 see full schedule >>.
 
