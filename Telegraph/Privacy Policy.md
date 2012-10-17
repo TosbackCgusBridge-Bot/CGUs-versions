@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Tuesday 16 October 2012
+Wednesday 17 October 2012
 
 *   Home
 *   News
@@ -138,13 +138,13 @@ In About us
 
 Editor's Choice »
 
-Exemplary education without the fees  
+Mantel’s tale makes the past sing  
 
-Christ's Hospital school in West Sussex provides a lifeline – just as it has done since the 16th century, writes **Jessica Salter**.
+Hilary Mantel’s Man Booker winner, 'Bring Up the Bodies’, has a vividness and urgency, says **Suzannah Lipscomb**.
 
 Comments
 
-May defies expectations over McKinnon 'Time to stop wasting billions on projects' Great British Bake Off: big boys bake, too Hanna Rosin talks sex Advertisement
+Hilary Mantel wins Man Booker Prize Hilary Mantel on writing Cromwell Gaby Wood: Mantel wins again Booker Prize winners since 1990 Hanna Rosin interview: the end of men? The Great British Bake Off final, review Women's clubs: the perfect respite from men Forgotten heroes who rose above doping Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
