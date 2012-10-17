@@ -268,7 +268,8 @@ Search iVillage.com Search
             *   Tools
     *   Boards
     *   Videos
-    *   Menopause Conversations
+        *   *   Menopause Conversations
+            *   iVoices
 *   Entertainment
     *   Celebrity News
     *   Photos
@@ -279,6 +280,10 @@ Search iVillage.com Search
     *   Awards
     *   Games
     *   Videos
+        *   *   iVillage 5
+            *   Likes or Yikes
+            *   DIY Beautify
+            *   Interviews
     *   Fall Entertainment Guide
 *   Beauty &. Style
     *   Beauty
@@ -487,7 +492,7 @@ Would you like to receive special offers, promotions, coupons, and free samples 
 
 See All Newsletters   Advertisement Clip of the Day
 
-*   Homeandgarden My Best Idea Turn Your Trunk Into a Gift Wrapping Station -- Instantly!
+*   Homeandgarden My Best Idea The Best Gift for a New Mom? A Midnight Baby Basket!
 *   Beauty DIY Beautify DIY Beautify: Get Noticed with Bright Lips and Cheeks
 *   Entertainment iVillage 5 Whoa! Check Out Jen's Mega Engagement Ring
 *   Entertainment Likes or Yikes? Yikes! Dina and Lindsay Lohan's Crazy Week Continues
