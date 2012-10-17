@@ -268,11 +268,11 @@ Apple-Event am 23. Oktober
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 CleverPrint 2013 Free 4.3.0 Deutsch Adware
-*   2 O&O DiskImage Pro 7.0 Final Deutsch Demo
-*   3 BEETmobile Hotspot 1.0.19.0 Deutsch Freeware
-*   4 BWMeter 6.3.0 Englisch Shareware
-*   5 SkipScreen für Firefox 0.7.0 Deutsch Freeware
+*   1 iFunBox für Windows 2.0 Final Deutsch Adware
+*   2 Win8Starter 1.0.12 Deutsch Freeware
+*   3 NirLauncher 1.17.02 Englisch Freeware
+*   4 Robot Unicorn Attack: Follow Your Dream Englisch Freeware
+*   5 EvilLyrics 0.1.91 Englisch Freeware
 
 ...mehr
 
@@ -286,7 +286,7 @@ Apple-Event am 23. Oktober
 
 ...mehr
 
-CHIP Videos Acer Iconia A700 im Test Windows 8 RT - Lenovo IdeaPad Yoga 11 Hackademy #1 - iOS-Attacke  
+CHIP Videos Apple iPod touch 5G Acer Iconia A700 im Test Windows 8 RT - Lenovo IdeaPad Yoga 11  
 
 Alle Videos bei CHIP Online
 
@@ -298,11 +298,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Praxis-Test: Apple iPod touch 5G (64 GByte)
+*   Günstige Internet-Tarife im Vergleich: (V)DSL bis LTE
+*   PhysX: Coole Effekte in Borderlands 2 und die besten Geforce-Karten
 *   Test: Panasonic TX-L47WT50E (47-Zoll-LCD-TV)
 *   Test: Sony Vaio SVT-1311W1E/S (Notebook)
-*   Test: Samsung Galaxy Note 2 (Handy)
-*   Die besten kostenlosen Horror-Games
-*   Alt gegen Neu: Die Vorteile der Handy-Vorgänger One X, Note und Co.
 
 ...mehr
 
@@ -344,10 +344,10 @@ Alle CHIP Online Feeds im Überblick
 Meistgelesene Themen
 
 *   502 Bad Gateway was bedeutet das?
-*   Tastatur umstellen Englisch/Deutsch
-*   Samsung SSDs gewinnen und alten Rechner neu lieben lernen
+*   Facebook: Brauchen wir den Klarnamenzwang?
 *   Facebook knacken leicht gemacht...
-*   GVU 2.07 virus entfernen
+*   Tastatur umstellen Englisch/Deutsch
+*   \[GELÖST\] jucheck.exe
 
 ...mehr
 
