@@ -158,11 +158,11 @@ ADVERTISEMENT
 
 Hot Pics! Heidi Says Cheerio »
 
-Top Stories1.  Kate Gosselin on Her Face: I "De-Age" »
-2.  Kim Kardashian Wears Tight See-Through Skirt, Bra Top on Date With Kanye »
-3.  Chelsea Handler Mocks Jennifer Aniston's "Very Pronounced" Nipples »
-4.  Exclusive Tori Spelling's Miracle Baby Finn: See All the Pictures »
-5.  Tyler Perry Unveils 30-Pound Weight Loss on Men's Health Cover »
+Top Stories1.  Kim Kardashian Wears Tight See-Through Skirt, Bra Top on Date With Kanye »
+2.  Kate Gosselin on Her Face: I "De-Age" »
+3.  Exclusive Tori Spelling's Miracle Baby Finn: See All the Pictures »
+4.  Chelsea Handler Mocks Jennifer Aniston's "Very Pronounced" Nipples »
+5.  Jennie Garth: I Stay Skinny With "Me" Time »
 
  
 
@@ -175,7 +175,7 @@ subscribe to Us Weekly Tori's Miracle Baby
 
 Inside Us Weekly
 
-*   Style Kim Kardashian Puts Herself on Worst-Dressed
+*   Style Michelle Obama and Ann Romney: Who Wore Her P
 *   Beauty Watch Part 2 of Brad Pitt's Sexy Chanel No. 5
 *   Moms Tori Spelling's Miracle Baby Finn: See All th
 *   Body Jennie Garth: I Stay Skinny With "Me" Time  
