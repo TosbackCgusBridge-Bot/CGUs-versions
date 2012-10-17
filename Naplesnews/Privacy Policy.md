@@ -143,9 +143,9 @@ Naples Daily News
 *   Cars
 *   Classified
 
-*   2012 Presidential Debate
+*   2012 Election
     
-    Participate in live chat &. watch live video of second presidential debate at 9 p.m. | Election 2012 »
+    Participate in live chat &. watch live video of Bill Nelson, Connie Mack debate at 7 p.m. | Preview | More »
     
 
 Privacy Policy
@@ -440,17 +440,17 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 218 comments
-*   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 76 comments
-*   Watch the YouTube video: Youth football coach Dion Robinson punches referee Published 10/15/2012 at 10:42 p.m. 10 comments
-*   Naples Police Chief says no need to step up patrol of Pier Published 10/16/2012 at 6:00 a.m. 13 comments
-*   Republican VP candidate Paul Ryan to attend Naples fundraiser Thursday Published 10/15/2012 at 10:23 p.m. 20 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 251 comments
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 11:21 p.m. 102 comments
+*   Paul Ryan schedules rally Thursday night at Fort Myers sports complex Updated 10/16/2012 at 5:22 p.m. 27 comments
+*   Naples Police Chief says no need to step up patrol of Pier Published 10/16/2012 at 6:00 a.m. 20 comments
+*   Govt to let Cubans travel freely Published 10/16/2012 at 11:24 a.m. 15 comments
 
 Photo Galleries Historic Photos: Fort Jefferson at… Catch of the Day: Oct. 3, 2012 Barktoberfest 2012
 
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 218 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 251 comments
 *   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 209 comments
-*   FACT CHECK: Slips in vice president's debate Published 10/11/2012 at 10:53 p.m. 357 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 102 comments
 *   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 76 comments
 *   Swing state: Voter turnout the key to Obama, Romney victory Published 10/15/2012 at 5:30 a.m. 78 comments
 
@@ -458,7 +458,7 @@ Photo Galleries Historic Photos: Fort Jefferson at… Catch of the Day: Oct. 3, 
 *   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 10 comments
 *   Stan's gone but his Goodland restaurant opens for season Published 10/8/2012 at 5:00 a.m. 6 comments
 *   Teachers take on kids' nutrition with a book set in Naples Published 10/9/2012 at 4:00 a.m. 0 comments
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 218 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 251 comments
 
 Weather
 
@@ -466,40 +466,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 85° Partly Cloudy Wind: W 9mph Today 88° 72° Wed 05:00 AM Partly Cloudy Temp: 75° Wed 05:00 PM Thunderstorms Temp: 81° Thu 05:00 AM Partly Cloudy Showers Temp: 74°
+Currently 73° Fair Wind: Calm Today 83° 72° Wed 08:00 PM Mostly Cloudy Showers Temp: 78° Thu 08:00 AM Partly Sunny Showers Temp: 74° Thu 08:00 PM Partly Cloudy Temp: 78°
 
-Feels Like: 75°
+Feels Like: 78°
 
-Humidity: 79%
+Humidity: 82%
 
-Precip: 10%
-
-Feels Like: 83°
-
-Humidity: 62%
-
-Precip: 30%
+Precip: 50%
 
 Feels Like: 74°
 
-Humidity: 84%
+Humidity: 94%
+
+Precip: 30%
+
+Feels Like: 78°
+
+Humidity: 79%
 
 Precip: 20%
 
 More Weather » Calendar
 
-*   Tuesday Oct 16
 *   Wednesday Oct 17
 *   Thursday Oct 18
+*   Friday Oct 19
 *   More BROWSE Icon
-
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
-*   Barrier Islands Guided Walk Bowditch Point Recreational Park 9:30 a.m.
-*   iPad for Beginners Commons Club at the Brooks, 9930 Coconut Rd, Bonita Springs 9:30 a.m.
-
-More Events »
 
 *   Women Business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
 *   Women business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
@@ -517,13 +509,21 @@ More Events »
 
 More Events »
 
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   CREW Stanley Hole Benefit Golf Tournament Old Corkscrew Golf Club 8 a.m.
+*   Baby boot camp Miromar Outlets 9 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Ten Thousand Islands Kayak with Up A Creek KAyak Tours Goodland County Boat Park 9 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Presidential Debate
+*   Hot Home Sales
     
-    Participate in live chat &. watch live video of second presidential debate at 9 p.m.
+    Pictures, info about recently sold single-family homes in Collier and Lee.
     
     NewsMakers
     
@@ -533,9 +533,9 @@ More Events » Features
     
     Search for local Halloween events &. enter our costume contest.
     
-*   Hot Home Sales
+*   Presidential Debate
     
-    Pictures, info about recently sold single-family homes in Collier and Lee.
+    An aggressive President Barack Obama ripped into Mitt Romney's economic blueprint.
     
     Mugshots
     
