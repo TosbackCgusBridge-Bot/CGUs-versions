@@ -233,6 +233,6 @@ Contact Sales To discuss pricing, security, and to request additional materials,
 *   Phone Number\*
 *   Comments\*
 
-*   Name This field is for validation purposes and should be left unchanged.
+*   Phone This field is for validation purposes and should be left unchanged.
 
 ×
