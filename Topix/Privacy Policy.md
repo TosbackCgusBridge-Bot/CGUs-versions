@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
-Mitt Romney
+Libya
 
-Romney shuns Bush a " Obama defends
+Deception on Libya
 
-Syria
+China
 
-Peace envoy to Syria set to visit Damascus on Wednesday
+Candidates on China
 
 Politix
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 114,645 • Total comments across all topics: 188,294,896
+Comments made yesterday: 114,953 • Total comments across all topics: 188,316,297
 
 Copyright ©2012 Topix LLC
 
