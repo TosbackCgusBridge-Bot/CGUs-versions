@@ -1,27 +1,27 @@
 *   SAM JACKSON PARTNER Sam Jackson Quotes
-*   VIDEO Cheetah Holds Tourists Hostage
-*   VIDEO Quick Thinking Officers Dodge Crash
 *   BEST OF HAZING BLOG Fraternity Hazing is Retarded.
 *   PARTNER REAL OR FAKE
-*   VIDEO Super Strong Boy in China
-*   HALLOWEEN CRAP BLOG Halloween...
-*   VIDEO Amazing Catch by Pablo Sandoval
+*   VIDEO Smart Car T-BONES Patrol Car
+*   VIDEO Gary Johnson for President
 *   VIDEO Justin Bieber Hurls On Stage!!!!
-*   VIDEO Superstar In The Making
-*   VIDEO Dead Deer Found Inside Restaurant Kitchen
-*   VIDEO Kid Face Plants HARD
-*   MARIO COURT PARTNER Super Mario Attorney at Law
-*   VIDEO Deer VS Skater
-*   VIDEO Awkward Guy After 49ers vs Lions Game
-*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
+*   VIDEO Man Arrested for Staging Terror Threat
+*   VIDEO Travis Snider Makes Amazing Catch
+*   VIDEO Street Luge Bail
+*   VIDEO DON'T DRIVE IN RUSSIA!
+*   HALLOWEEN CRAP BLOG Halloween...
+*   VIDEO Blue Laser Cigarette Lighter
 *   PIG'S NIGHTMARE PARTNER Angry Birds IRL
-*   VIDEO Sick Swing Set Headplant
-*   VIDEO Kid Rock &. Pam Anderson Yell at Paparazzi
-*   CHER IS NUTS BLOG Cher's Twitter
+*   VIDEO City Rising by Tom Ryaboi
+*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
+*   VIDEO Dead Deer Found Inside Restaurant Kitchen
+*   MARIO COURT PARTNER Super Mario Attorney at Law
+*   VIDEO Pedestrian Nearly Has Legs Crushed
+*   VIDEO Car Flipped on Highway
 *   CUBE MAPPING PARTNER 3D Cube Mapping Demo
-*   VIDEO How To Burn Up A Brand New Lamborghini
+*   VIDEO Peacocks Fly Down to Bird Keeper's Whistle
+*   CHER IS NUTS BLOG Cher's Twitter
+*   VIDEO Cone Crust Pizza
 *   GUESS WHO DIED PICTURE Guess Who: Serial Killer Edition
-*   VIDEO Cute Kitten in a Little Hat
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
@@ -111,15 +111,15 @@ Last updated: March 31, 2011.
 
 EBAUM'S PICKS OSU Marching Band - Video Game Tribute Psh Prank With Edbassmaster Naughty Home Alone Dog Insane Dodge Ball Kill! Top 5
 
-*   *   99,602
+*   *   101,088
     *   How To Kill a Starfish
-*   *   92,049
+*   *   93,392
     *   Facebook Wins and Fails
-*   *   81,151
+*   *   82,389
     *   Monday Morning Randomness
-*   *   79,842
+*   *   80,545
     *   Best Viral Pics of The Week Compilation
-*   *   69,834
+*   *   71,770
     *   Coach Knocks Out Student
 
 POPULAR GALLERIES The Best of Internet Memes Best Viral Pics of The Week Compilation POPULAR GAMES Into Space 2 Slender - Bones of Children Infectionator 2 Decision 2
