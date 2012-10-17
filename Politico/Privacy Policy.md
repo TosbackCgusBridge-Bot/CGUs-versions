@@ -113,118 +113,118 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/17/2012 7:02 AM ET
+Updated: 10/17/2012 12:17 PM ET
 
 1.  1 Obama gets more time
-2.  2 Fight night on Long Island
-3.  3 Who won the debate?
-4.  4 FLOTUS: 'Barack doesn't have a big ego'
-5.  5 6 takeaways from the debate
-6.  6 Candy Crowley to defy debate contract
-7.  7 Debate returns focus to fundamentals
-8.  8 'Binders full of women' spreads
-9.  9 Polls raise presidential tie scenarios
+2.  2 6 takeaways from the debate
+3.  3 'Binders full of women' spreads
+4.  4 Who won the debate?
+5.  5 Debate gets to the guts of the race
+6.  6 FLOTUS: 'Barack doesn't have a big ego'
+7.  7 Fact-checking the debate
+8.  8 Obama snaps back hard
+9.  9 TKO: Crowley calls Libya for Obama
 10.  10 Instant polls: Obama won
 
-Updated: 10/17/2012 7:02 AM ET
+Updated: 10/17/2012 12:17 PM ET
 
 1.  1 Candy Crowley to defy debate contract
 2.  2 Obama gets more time
 3.  3 Fight night on Long Island
 4.  4 Who won the debate?
-5.  5 CPD: Crowley shouldn't reinterpret questions
+5.  5 6 takeaways from the debate
 6.  6 FLOTUS: 'Barack doesn't have a big ego'
-7.  7 5 unmet Obama promises
-8.  8 5 things to watch at the debate
-9.  9 Crowley: 'I'm not a fly on the wall'
-10.  10 VP debate transcript
+7.  7 CPD: Crowley shouldn't reinterpret questions
+8.  8 'Binders full of women' spreads
+9.  9 5 unmet Obama promises
+10.  10 5 things to watch at the debate
 
-Updated: 10/17/2012 7:02 AM ET
+Updated: 10/17/2012 12:17 PM ET
 
 1.  1 CPD: Crowley shouldn't reinterpret questions
 2.  2 Candy Crowley to defy debate contract
-3.  3 Crowley: 'I'm not a fly on the wall'
-4.  4 Obama gets more time
-5.  5 Conservatives target Catholic voters
-6.  6 Fight night on Long Island
-7.  7 Lobbyists expect comeback with Mitt
+3.  3 Obama gets more time
+4.  4 Crowley: 'I'm not a fly on the wall'
+5.  5 Fight night on Long Island
+6.  6 Conservatives target Catholic voters
+7.  7 Who won the debate?
 8.  8 VP debate transcript
-9.  9 Who won the debate?
-10.  10 Report: White House considering retaliatory Libya strike
+9.  9 Lobbyists expect comeback with Mitt
+10.  10 6 takeaways from the debate
 
-Updated: 10/17/2012 7:02 AM ET
+Updated: 10/17/2012 12:17 PM ET
 
 1.  1 Twitter frowns on Joe Biden's laugh
 2.  2 CPD: Crowley shouldn't reinterpret questions
 3.  3 Debate Commission dismisses Raddatz-Obama connection
 4.  4 Candy Crowley to defy debate contract
-5.  5 Paul Ryan pics spark dumbbell debate
-6.  6 Angst grows among Obama backers
+5.  5 Obama gets more time
+6.  6 Paul Ryan pics spark dumbbell debate
 7.  7 Crowley: 'I'm not a fly on the wall'
-8.  8 Obama gets more time
+8.  8 VP debate transcript
 9.  9 Unions struggle to help Obama
-10.  10 VP debate transcript
+10.  10 Fight night on Long Island
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/17/2012 7:02 AM ET
+Updated: 10/17/2012 12:17 PM ET
 
-1.  1 BLS in a partisan squabble
-2.  2 Debate returns focus to fundamentals
-3.  3 6 takeaways from the debate
-4.  4 The pro-growth consensus
-5.  5 Crowley fact-checks Mitt
-6.  6 Obama snaps back hard
-7.  7 Allen West plagued by scam PACs
-8.  8 Obama fights back
-9.  9 Tight race? Avoid tea party label
-10.  10 Left relieved by Obama performance
+1.  1 Debate questioner voting for Obama
+2.  2 Ryan explains 'binders full of women'
+3.  3 Kerry: I need 'exorcism' after debates
+4.  4 DVD takes swipe at 'Obamacare'
+5.  5 Is LaHood preparing for departure?
+6.  6 BLS in a partisan squabble
+7.  7 Mayors see sequester cutting jobs
+8.  8 Debate gets to the guts of the race
+9.  9 6 takeaways from the debate
+10.  10 The pro-growth consensus
 
-Updated: 10/17/2012 7:02 AM ET
+Updated: 10/17/2012 12:17 PM ET
 
-1.  1 BLS in a partisan squabble
-2.  2 Debate returns focus to fundamentals
-3.  3 6 takeaways from the debate
-4.  4 The pro-growth consensus
-5.  5 Crowley fact-checks Mitt
-6.  6 Obama snaps back hard
-7.  7 Allen West plagued by scam PACs
-8.  8 Obama fights back
-9.  9 Tight race? Avoid tea party label
-10.  10 Left relieved by Obama performance
+1.  1 Debate questioner voting for Obama
+2.  2 Ryan explains 'binders full of women'
+3.  3 Kerry: I need 'exorcism' after debates
+4.  4 DVD takes swipe at 'Obamacare'
+5.  5 Is LaHood preparing for departure?
+6.  6 BLS in a partisan squabble
+7.  7 Mayors see sequester cutting jobs
+8.  8 Debate gets to the guts of the race
+9.  9 6 takeaways from the debate
+10.  10 The pro-growth consensus
 
-Updated: 10/17/2012 7:02 AM ET
+Updated: 10/17/2012 12:17 PM ET
 
-1.  1 BLS in a partisan squabble
-2.  2 Debate returns focus to fundamentals
-3.  3 6 takeaways from the debate
-4.  4 The pro-growth consensus
-5.  5 Crowley fact-checks Mitt
-6.  6 Obama snaps back hard
-7.  7 Allen West plagued by scam PACs
-8.  8 Obama fights back
-9.  9 Tight race? Avoid tea party label
-10.  10 Left relieved by Obama performance
+1.  1 Debate questioner voting for Obama
+2.  2 Ryan explains 'binders full of women'
+3.  3 Kerry: I need 'exorcism' after debates
+4.  4 DVD takes swipe at 'Obamacare'
+5.  5 Is LaHood preparing for departure?
+6.  6 BLS in a partisan squabble
+7.  7 Mayors see sequester cutting jobs
+8.  8 Debate gets to the guts of the race
+9.  9 6 takeaways from the debate
+10.  10 The pro-growth consensus
 
-Updated: 10/17/2012 7:02 AM ET
+Updated: 10/17/2012 12:17 PM ET
 
-1.  1 BLS in a partisan squabble
-2.  2 Debate returns focus to fundamentals
-3.  3 6 takeaways from the debate
-4.  4 The pro-growth consensus
-5.  5 Crowley fact-checks Mitt
-6.  6 Obama snaps back hard
-7.  7 Allen West plagued by scam PACs
-8.  8 Obama fights back
-9.  9 Tight race? Avoid tea party label
-10.  10 Left relieved by Obama performance
+1.  1 Debate questioner voting for Obama
+2.  2 Ryan explains 'binders full of women'
+3.  3 Kerry: I need 'exorcism' after debates
+4.  4 DVD takes swipe at 'Obamacare'
+5.  5 Is LaHood preparing for departure?
+6.  6 BLS in a partisan squabble
+7.  7 Mayors see sequester cutting jobs
+8.  8 Debate gets to the guts of the race
+9.  9 6 takeaways from the debate
+10.  10 The pro-growth consensus
 
 Showing Last 7 Days
 
-Updated: 10/17/2012 7:02 AM ET
+Updated: 10/17/2012 12:17 PM ET
 
 1.  1 Fight night on Long Island
 2.  2 5 unmet Obama promises
