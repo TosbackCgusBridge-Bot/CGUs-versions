@@ -687,13 +687,13 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡Caliente!
+*   ¡Qué mentirosa!
     
-    Tu temperatura sube con estas imágenes sexy.
+    Descubre lo que se oculta en Rosa Diamante.  
     
-*   ¡La moda colorida!
+*   ¡Luce tu mejor piel!
     
-    Combínate este otoño y añade color a tu estilo  
+    Este otoño deja las manchas del verano atrás  
     
 *   ¡Ensayo caliente!
     
