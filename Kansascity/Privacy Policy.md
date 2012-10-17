@@ -136,11 +136,11 @@ If you have any questions or comments about our policies, we may be reached at K
 
 KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day 4 VISIT PACKAGE FROM BLO SALON STUDIO INCLUDES HAIRCUT, HIGHLIGHTS, BROW WAX, MANI/PEDI, MASSAGE ALL FOR $65! A $300 VALUE! $65 Value: Discount: You Save: $300 78% $235
 
-Wednesday: Hen House, HyVee, Price Chopper Deals HyVee
+Wednesday: Hen House, HyVee, Price Chopper Deals Hen House
 
-*   Ocean Spray Fresh Cranberries, 12oz - $2.49
-*   Buddig SnackBuds or Thin Sliced Lunchmeat - $0.56
-*   Hy-vee Chili or Kidney Beans, 15 or 15.5oz - $0.39
+*   Campbell’s Condensed Soup 10.5-15.4-oz. - 10/$10 or $1 each
+*   Pepsi Products 2-Liter Bottles - $0.78
+*   Hunt's Canned Pasta Sauce 24-oz. - 10/$10 or $1 each
 *   more...
 
 1.  Parts Project Coordinator
@@ -149,17 +149,19 @@ Wednesday: Hen House, HyVee, Price Chopper Deals HyVee
     
 2.  OPERATING MANAGER
     
-3.  SEASONAL DRIVERS
+3.  SALES
     
-    Kelly Services
+4.  CAMPAIGN JOBS
     
-4.  PROGRAM DIRECTOR
+    Grassroots Campaigns, Inc.
     
 5.  SENIOR PIPE DESIGNER
     
     THOMAS RUSSELL CO.
     
-6.  Apartment Maintenance Helper
+6.  Certified Dietary Manager
+    
+    CROWN CARE CENTER
     
 
 View More The Most
