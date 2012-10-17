@@ -1,7 +1,7 @@
 *   Cdiscount
 *   Cdiscount
 *   Abo Magazines
-*   Tirage Photo
+*   Service Photo
 *   Voyages
 *   Carte Cdiscount
 *   Carte Cadeau
@@ -216,6 +216,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         9.  SSD
         10.  MÃ©moires PC et portables
         11.  Voir les Deals Groupon
+        12.  surfez sur grand Ã©cran !
     *   *   GAMING ZONE
         *   Revendez votre PC Portable!
         *   Venez dÃ©couvrir Windows 8 !
