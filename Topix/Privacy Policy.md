@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Town Hall Meetings
+Mitt Romney
 
-How the town hall debate will work
+Romney shuns Bush a " Obama defends
 
-Microsoft
+Syria
 
-How Microsoft's Surface Tablet Price Compares
+Peace envoy to Syria set to visit Damascus on Wednesday
 
 Politix
 
-Has the Libya scandal changed your opinion of the presidential...
+Who won the second presidential debate?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 115,598 • Total comments across all topics: 188,234,603
+Comments made yesterday: 114,645 • Total comments across all topics: 188,294,896
 
 Copyright ©2012 Topix LLC
 
