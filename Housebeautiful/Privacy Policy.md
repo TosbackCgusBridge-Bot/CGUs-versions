@@ -11,9 +11,9 @@ search now
   
 Sponsored Links advertisement Decorating &. Ideas
 
-*   Thom Filicia's Lake House
+*   Black Magic
 *   A Layered TriBeCa Apartment
-*   Happy Paint Colors
+*   Thom Filicia's Lake House
 
 More Decorating &. Ideas Kitchens &. Entertaining
 
@@ -41,9 +41,9 @@ More Shopping &. Gifts Most Popular
 
 More Most Popular What's New
 
+*   Black Magic
 *   Spooky Chic Halloween Decor
 *   Do-It-Now Ideas
-*   9 Fabulous Bedrooms
 
 More What's New Featured
 
