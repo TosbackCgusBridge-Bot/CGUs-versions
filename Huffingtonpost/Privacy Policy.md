@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Polling
+*   LGBT
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 16, 2012 Edition: **U.S.**
+October 17, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 16, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   High Court Sides With Obama In Huge Election Win 10k
-    *   Westboro Baptist Church Protest Stirs Violence 2k
-    *   Obama's Battleground Edge Persists 30k
-    *   Warren Nets Huge Haul 5k
-    *   Ambassador's Father: It Would Be 'Abhorrent' To Politicize Son's Death 17k
+    *   LIVE UPDATES: Obama, Romney Face Off In Presidential Debate 43k
+    *   Obama Gets Aggressive In Rematch Against Mitt Romney 7k
+    *   High Court Sides With Obama In Huge Election Win 15k
+    *   POLL: Who Won The Debate? 1k
+    *   WATCH LIVE: Presidential Debate Live Streaming Online 347
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 16, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
+    *   Volunteer On Ryan Soup Kitchen Visit: 'Phoniest Piece Of Baloney I've Ever Been Associated With' 7k
     *   PANDIT OUT 1k
-    *   Volunteer On Ryan Soup Kitchen Visit: 'Phoniest Piece Of Baloney I've Ever Been Associated With' 4k
+    *   The Shocking Way The Super-Rich Are Selling Their Homes 618
+    *   FedEx's $5,000 Gamble. Literally. 304
     *   Notorious Bankrupt Company Blames Chinese Companies For Failure 2k
-    *   The Shocking Way The Super-Rich Are Selling Their Homes 554
-    *   FedEx's $5,000 Gamble. Literally. 282
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 16, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
+    *   LOOK: Hollywood Tweets The Debate 50
     *   Sarandon Assaulted As A Young Actress 2k
-    *   Does Adam Lambert Have The $48 Million Voice? 185
-    *   Tina Fey &. Amy Poehler Named Golden Globes Hosts 197
-    *   Madonna Strips ... For 14-Year-Old Shot By Taliban? 428
-    *   What Really Happened At The End Of 'The Dark Knight Rises'? 140
+    *   What Really Happened At The End Of 'The Dark Knight Rises'? 308
+    *   PHOTO: Beyonce Makes It Official 355
+    *   3 Hollywood Moguls Donate $90 Million To Charity 145
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 16, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   WATCH: Stratospheric Skydiver Spins Out Of Control 810
-    *   Hackers Identify Alleged Cyberbully Who Tormented Amanda Todd 1k
-    *   Edge-Of-Space Leap Attracts Record Number Of YouTube Viewers 235
-    *   WATCH: Stunning Google Doodle Celebrates Legendary Cartoonist 99
-    *   WATCH: SNL Mocks iPhone 5 Complaints 274
+    *   Hackers Identify Alleged Cyberbully Who Tormented Amanda Todd 3k
+    *   WATCH: Stratospheric Skydiver Spins Out Of Control 849
+    *   The New Boxee Could Straight-Up Kill Cable 208
+    *   Apple Sends Out Invitations For Event Next Week 224
+    *   WATCH: Stunning Google Doodle Celebrates Legendary Cartoonist 102
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 16, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   MSNBC's Felix Baumgartner Fail 463
-    *   Fox News Doctor Makes Unbelievable Claim About Joe Biden 3k
+    *   WATCH: Candy Crowley Fact Checks Mitt Romney On Libya 17k
+    *   WATCH: Mitt Romney Barrels Over Candy Crowley 3k
+    *   MSNBC's Felix Baumgartner Fail 540
     *   Secret Presidential Debate Contract Released 3k
-    *   Obama, Romney Campaigns Raise Objections About Candy Crowley 8k
-    *   Romney Cancels On 'The View' 9k
+    *   Regis Philbin Agrees With Romney 790
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 16, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   No, You Can't Read Prince Charles' Letters 51
-    *   50 Years Later, New Secrets Of The Cuban Missile Crisis Emerge 644
-    *   Clinton: I'm Responsible For Consulate Security 6k
-    *   Mexico Says The Drug War Is Working, But Is It? 2k
-    *   Teen Shot By Taliban Airlifted To UK 1k
+    *   No, You Can't Read Prince Charles' Letters 114
+    *   Clinton: I'm Responsible For Consulate Security 7k
+    *   50 Years Later, New Secrets Of The Cuban Missile Crisis Emerge 751
+    *   Teenage Girl Publicly Whipped For Speaking To Men 788
+    *   Chinese Warships Put Japan On Edge 569
     
     Go to World **More in World**
     
@@ -151,10 +151,10 @@ October 16, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Kay Lost Almost 140 Pounds: 'I Feel Like I've Been Given A Second Chance' 67
-    *   The Healthiest Salad Greens 81
-    *   'Just Thinking About The Gym Makes Me Tired': Exercise E-Cards That Really Get Us Laughing 12
-    *   The Best And Worst Nut Butters 18
+    *   Kay Lost Almost 140 Pounds: 'I Feel Like I've Been Given A Second Chance' 104
+    *   How Being A Woman Affects Your Workout 18
+    *   7 Reasons To Eat Breakfast 14
+    *   The Healthiest Salad Greens 88
     *   Vitamin C Could Be Good For Bones 10
     
     Go to Healthy Living **More in Healthy Living**
@@ -173,10 +173,10 @@ October 16, 2012 Edition: **U.S.**
 *   Style
     
     *   PHOTOS: Kim Kardashian Goes Commando, Exposes Rear In Sheer Skirt With Kanye West 1k
-    *   Angela Lansbury Rocks Our Old Souls 40
-    *   Supermodel's Ad Campaign Sparks Outcry 178
-    *   WATCH: Chelsea Handler Points Out Jennifer Aniston's Nipples On TV 202
-    *   PHOTO: Lana Del Rey's Photoshop Nightmare 20
+    *   Angela Lansbury Rocks Our Old Souls 47
+    *   WATCH: Chelsea Handler Points Out Jennifer Aniston's Nipples On TV 282
+    *   PHOTO: Lana Del Rey's Photoshop Nightmare 23
+    *   PHOTOS: Ann Romney &. Michelle Obama Wear Matching Pink Outfits To Debate 305
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 16, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
+    *   Former SNL Star: 'If I Was Raped, I Would Have The Baby' 2k
+    *   Sarah Silverman's Dad Fires Back At Rabbi's Scathing Letter 637
+    *   EXCLUSIVE: Bill Maher's New Rule For 'Fox &. Friends' 1k
     *   42 Animals Who Are Watching You 42
-    *   Bill Murray Crashes NYC Kickball Game 33
-    *   Best 'I'm With Stupid' Sign Ever 85
     *   WATCH: Jon Stewart Skewers Fox News' Hysterical VP Debate Response 1k
-    *   WATCH: He Must Not Realize What This Looks Like 97
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 16, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Now The App Is In
-    *   Next Millennials &. The Future
-    *   Coming Up The International Vote
-    *   Coming Up Hot On HuffPost Pollster
-    *   Coming Up The Splendid CapitalGo to HuffPost Live
+    *   Next DEBATE: Big Moments
+    *   Next DEBATE: Foreign Policy
+    *   Coming Up DEBATE: Domestic Policy
+    *   Coming Up Veterans React To Debate
+    *   Coming Up Domestic Policy DebateGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
