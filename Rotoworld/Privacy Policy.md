@@ -56,10 +56,11 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Sctuaro (hip) in lineup for Game 3 vs. Cards
+*   X-rays negative on Omar Infante's thumb
 *   Tigers go up 3-0 behind another Verlander gem
 *   McCann (shoulder) needs six months of rehab
 *   Phil Hughes departs Game 3 with back injury
-*   Scutaro has 'good chance' to play in Game 3
 *   A-Rod, Swisher out of Yankees' Game 3 lineup
 *   Westbrook (oblique) throws simulated game
 *   Berkman (knee) thinks he could play in WS
@@ -67,7 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Giambi to interview for Rockies' manager job
 *   Giants tie up NLCS behind Vogelsong's effort
 *   Red Sox to interview Ausmus, Hale this week
-*   Reds sign Dusty Baker to two-year extension
 
 NFL PAGES
 
@@ -84,6 +84,7 @@ NFL PAGES
 
 COLUMNS
 
+*   Getting Defensive: Week 7 Oct 17
 *   Week 7 Target Watch: NFC Oct 17
 *   Will Vick Stick? Oct 17
 *   Week 7 Top Pickups Oct 16
@@ -91,7 +92,6 @@ COLUMNS
 *   Silva: Season Pass Chat Oct 16
 *   Norv's Pain, Peyton's Gain Oct 16
 *   Best Available NFL Free Agents Oct 16
-*   Matchup: Broncos @ Chargers Oct 15
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Nicks gets in 1st Wednesday practice of year
+*   Brandon Lloyd says he's 'fine' despite scare
+*   Trent Richardson is practicing on Wednesday
+*   Ahmad Bradshaw's foot issues pop up yet again
+*   Martellus Bennett not on Week 7 injury report
+*   Spiller, Jackson to rotate every two series
 *   Report: TE Graham will be active for Week 7
 *   Report: Murray aiming for Giants in Week 8
 *   Report: Injuries to sideline QB Kolb 6 weeks
 *   Report: Browns GM thinks he's next to go
 *   McCarthy: RB Green can 'carry a full load'
 *   Reid: Michael Vick still the starter for now
-*   Trent Richardson's Week 7 status is uncertain
-*   Ravens will activate Suggs from PUP this week
-*   Mendenhall on Achilles: It was just irritated
-*   Eagles fire defensive coordinator Castillo
-*   Peyton leads Broncos comeback with 3 TDs
-*   Rivers with six turnovers in epic collapse
 
 NBA PAGES
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Report: C.J. Miles has starting gig locked up
+*   James Harden 'coming along' from groin injury
+*   Wall (knee) increasing basketball activity
+*   Kyle Lowry (groin) cleared to play Wednesday
+*   Ronnie Brewer (knee) practicing on Wednesday
+*   Dwyane Wade (knee) feeling ahead of schedule
 *   Delonte West's suspension lifted
 *   Damian Lillard (bruised foot) out Wednesday
 *   Mario Chalmers (hamstring) iffy for opener
-*   Ronnie Brewer (knee) could practice this week
 *   Stephen Curry scores 25 on 10-of-15 shooting
 *   Dirk (knee) still waiting on surgery decision
 *   Big Baby goes for 27 and 8 against the Cavs
-*   Harden (groin) will not play on Tuesday
-*   Jeremy Lin (knee) given prescribed rest
-*   Granger (knee) to play final preseason games
-*   Eric Gordon hoping to test knee soon
-*   Andrew Bynum getting Synvisc injection
 
 NHL PAGES
 
@@ -207,6 +207,9 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Montador: Still a long way to go in CBA talks
+*   Charity game will reunite SC-winning Hawks
+*   M. Stajan remains guarded after NHL proposal
 *   Nathan MacKinnon starts atop ISS rankings
 *   Erik Condra signs with tier three German club
 *   NHL offers NHLPA 50/50 split in revenue
@@ -216,9 +219,6 @@ FANTASY HOCKEY NEWS
 *   Taylor Hall to join AHL Oklahoma City Tuesday
 *   Cory Conacher is the AHL player of the week
 *   Report: Corey Tropp is done for the season
-*   Emmerton breaks his finger in finnish debut
-*   CBA talks might move towards main issues
-*   Tomas Kopecky signs with HK Dukla Trencin
 
 NASCAR PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   The Forgotten One Oct 17
 *   Kenny Vaccaro: Spread Stopper Oct 15
 *   Senior Prospect Rankings Oct 14
 *   Week Seven Matchup Preview Oct 12
@@ -318,7 +319,6 @@ COLUMNS
 *   Banks-y, Cover Artist Oct 9
 *   Prospect Snapshots: Weeks 5-6 Oct 8
 *   Week Six Matchup Preview Oct 5
-*   Under Pressure Oct 3
 
 PARTNERS
 
@@ -327,6 +327,10 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Everett Golson cleared to practice Wednesday
+*   Qurales' punishment likely includes game time
+*   Hurricanes QB Morris practicing Wednesday
+*   Ricky Wagner likely out vs Minn (right knee)
 *   Update: McCarron's mom denies meniscus tear
 *   Trojans will give freshman Tuerk time at LT
 *   71 percent of Ball's yards came after contact
@@ -335,10 +339,6 @@ NFL DRAFT NEWS
 *   Muschamp hoping 5 starters return for Gators
 *   Pauline: Nevada TE Sudfeld now a late-rounder
 *   Hoke more willing to give RB Toussaint a rest
-*   Iowa's top runner Weisman not on depth chart
-*   Longhorns QB Ash 'appears to be fine' (wrist)
-*   Beavers CB Poyer intercepts another vs BYU
-*   Damontre Moore adds 1.5 sacks versus LaTech
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
+*   NFL:Nicks gets in 1st Wednesday practice of year
+*   NFL:Brandon Lloyd says he's 'fine' despite scare
+*   MLB:Sctuaro (hip) in lineup for Game 3 vs. Cards
+*   NFL:Trent Richardson is practicing on Wednesday
+*   NFL:Ahmad Bradshaw's foot issues pop up yet again
+*   NFL:Martellus Bennett not on Week 7 injury report
+*   MLB:X-rays negative on Omar Infante's thumb
+*   NFL:Spiller, Jackson to rotate every two series
+*   NBA:Dwyane Wade (knee) feeling ahead of schedule
 *   MLB:Tigers go up 3-0 behind another Verlander gem
 *   MLB:Phil Hughes departs Game 3 with back injury
 *   NFL:Report: TE Graham will be active for Week 7
-*   MLB:McCann (shoulder) needs six months of rehab
-*   MLB:Scutaro has 'good chance' to play in Game 3
-*   NFL:Report: Murray aiming for Giants in Week 8
-*   NFL:Report: Injuries to sideline QB Kolb 6 weeks
-*   MLB:A-Rod, Swisher out of Yankees' Game 3 lineup
-*   NFL:McCarthy: RB Green can 'carry a full load'
-*   NHL:NHL offers NHLPA 50/50 split in revenue
-*   MLB:Berkman (knee) thinks he could play in WS
-*   NBA:Delonte West's suspension lifted
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1J. BestNFL (8349)
-*   2W. PowellNFL (7369)
-*   3H. NicksNFL (7227)
-*   4D. MurrayNFL (7166)
-*   5R. MendenhallNFL (6900)
+*   1J. BestNFL (8542)
+*   2W. PowellNFL (7644)
+*   3H. NicksNFL (7498)
+*   4D. MurrayNFL (7422)
+*   5R. MendenhallNFL (7182)
 
-*   6P. GarconNFL (6253)
-*   7V. BallardNFL (6100)
-*   8G. JenningsNFL (6011)
-*   9A. HernandezNFL (6009)
-*   10J. GordonNFL (5881)
+*   6P. GarconNFL (6525)
+*   7G. JenningsNFL (6413)
+*   8V. BallardNFL (6335)
+*   9T. RichardsonNFL (6305)
+*   10J. GordonNFL (6201)
 
   
 Video Center
@@ -544,11 +544,12 @@ Video Center
 
   
   
-  Headlines Week 7 Target Watch: NFC  
-Oct 17 Which players got all the targets in Week 6? Chet Gresham analyzes every NFC team.  
+  Headlines Getting Defensive: Week 7  
+Oct 17 Looking for a plug-and-play D/ST? Jeff Ratcliffe breaks down the best matchups for Week 7, and gives you his top-12 kickers.  
   
 More NFL Columns
 
+*   »Getting Defensive: Week 7 Oct 17
 *   »Week 7 Target Watch: NFC Oct 17
 *   »Will Vick Stick? Oct 17
 *   »Week 7 Top Pickups Oct 16
@@ -556,22 +557,21 @@ More NFL Columns
 *   »Silva: Season Pass Chat Oct 16
 *   »Norv's Pain, Peyton's Gain Oct 16
 *   »Best Available NFL Free Agents Oct 16
-*   »Matchup: Broncos @ Chargers Oct 15
 
 NFL Headlines
 
+*   »Nicks gets in 1st Wednesday practice of year
+*   »Brandon Lloyd says he's 'fine' despite scare
+*   »Trent Richardson is practicing on Wednesday
+*   »Ahmad Bradshaw's foot issues pop up yet again
+*   »Martellus Bennett not on Week 7 injury report
+*   »Spiller, Jackson to rotate every two series
 *   »Report: TE Graham will be active for Week 7
 *   »Report: Murray aiming for Giants in Week 8
 *   »Report: Injuries to sideline QB Kolb 6 weeks
 *   »Report: Browns GM thinks he's next to go
 *   »McCarthy: RB Green can 'carry a full load'
 *   »Reid: Michael Vick still the starter for now
-*   »Trent Richardson's Week 7 status is uncertain
-*   »Ravens will activate Suggs from PUP this week
-*   »Mendenhall on Achilles: It was just irritated
-*   »Eagles fire defensive coordinator Castillo
-*   »Peyton leads Broncos comeback with 3 TDs
-*   »Rivers with six turnovers in epic collapse
 
 NFL Links
 
