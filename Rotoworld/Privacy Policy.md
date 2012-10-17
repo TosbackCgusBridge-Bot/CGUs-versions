@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
-*   Scutaro diagnosed with left hip muscle strain
+*   Tigers go up 3-0 behind another Verlander gem
+*   McCann (shoulder) needs six months of rehab
+*   Phil Hughes departs Game 3 with back injury
+*   Scutaro has 'good chance' to play in Game 3
+*   A-Rod, Swisher out of Yankees' Game 3 lineup
 *   Westbrook (oblique) throws simulated game
 *   Berkman (knee) thinks he could play in WS
 *   McCann to undergo shoulder surgery Tuesday
 *   Giambi to interview for Rockies' manager job
 *   Giants tie up NLCS behind Vogelsong's effort
-*   Scutaro getting an MRI after negative X-rays
 *   Red Sox to interview Ausmus, Hale this week
 *   Reds sign Dusty Baker to two-year extension
-*   Beltran powers Cardinals to NLCS Game 1 win
-*   Report: Jeter (ankle) likely to need surgery
-*   Sanchez outduels Kuroda, Tigers win Game 2
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Week 7 Target Watch: NFC Oct 17
+*   Will Vick Stick? Oct 17
 *   Week 7 Top Pickups Oct 16
 *   No Free Fall for Felix Oct 16
 *   Silva: Season Pass Chat Oct 16
 *   Norv's Pain, Peyton's Gain Oct 16
+*   Best Available NFL Free Agents Oct 16
 *   Matchup: Broncos @ Chargers Oct 15
-*   Rodgers Reasserts Rule Oct 15
-*   Down goes DeMarco Oct 15
-*   Best Available NFL Free Agents Oct 15
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Report: TE Graham will be active for Week 7
+*   Report: Murray aiming for Giants in Week 8
+*   Report: Injuries to sideline QB Kolb 6 weeks
 *   Report: Browns GM thinks he's next to go
 *   McCarthy: RB Green can 'carry a full load'
-*   Kolb (ribs) expected to miss 'several' weeks
 *   Reid: Michael Vick still the starter for now
 *   Trent Richardson's Week 7 status is uncertain
 *   Ravens will activate Suggs from PUP this week
-*   DeMarco Murray (foot) ruled out of Week 7
 *   Mendenhall on Achilles: It was just irritated
 *   Eagles fire defensive coordinator Castillo
 *   Peyton leads Broncos comeback with 3 TDs
 *   Rivers with six turnovers in epic collapse
-*   Lloyd suffers bruised shoulder in Sunday loss
 
 NBA PAGES
 
@@ -134,6 +134,7 @@ NBA PAGES
 
 COLUMNS
 
+*   Roto Auction Recap Oct 17
 *   Top 10, Busts and Sleepers Oct 12
 *   Pre-Preseason Mock Draft Oct 9
 *   2012 NBA Draft Guide Oct 2
@@ -141,7 +142,6 @@ COLUMNS
 *   Point Guard Depth Sep 13
 *   The Calm Before the Storm Sep 2
 *   July &. August NBA transactions Aug 22
-*   21 NBA Draft Targets Aug 9
 
 PREMIUM CONTENT
 
@@ -156,10 +156,11 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Delonte West's suspension lifted
+*   Damian Lillard (bruised foot) out Wednesday
 *   Mario Chalmers (hamstring) iffy for opener
 *   Ronnie Brewer (knee) could practice this week
 *   Stephen Curry scores 25 on 10-of-15 shooting
-*   Delonte suspended for 'detrimental conduct'
 *   Dirk (knee) still waiting on surgery decision
 *   Big Baby goes for 27 and 8 against the Cavs
 *   Harden (groin) will not play on Tuesday
@@ -167,7 +168,6 @@ FANTASY BASKETBALL NEWS
 *   Granger (knee) to play final preseason games
 *   Eric Gordon hoping to test knee soon
 *   Andrew Bynum getting Synvisc injection
-*   Andrew Bogut cleared for 1-on-1 contact
 
 NHL PAGES
 
@@ -185,6 +185,7 @@ NHL PAGES
 
 COLUMNS
 
+*   Subban &. Brassard Net Gains Oct 16
 *   European League/KHL Update Oct 13
 *   Early CHL Standouts Oct 9
 *   CHL Quick Starters Oct 4
@@ -192,7 +193,6 @@ COLUMNS
 *   Chillin' in the CHL Sep 19
 *   The Mock Draft Sep 15
 *   Injury Update Sep 12
-*   Role Changes and Values Sep 7
 
 PREMIUM CONTENT
 
@@ -229,6 +229,7 @@ NASCAR PAGES
 
 COLUMNS
 
+*   The Hollywood Casino 400 Oct 16
 *   Wrap-up: Charlotte Oct 14
 *   Mid-Pack: Bank of America 500 Oct 11
 *   The Bank of America 500 Oct 9
@@ -236,7 +237,6 @@ COLUMNS
 *   Mid-Pack: Good Sam 500 Oct 4
 *   The Good Sam 500 Oct 3
 *   Wrap-up: Dover and Las Vegas Sep 30
-*   Mid-Pack: AAA 400 Sep 27
 
 PARTNERS
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Kansas Speedway notes on Juan Pablo Montoya
+*   Jamie McMurray at Kansas
+*   Double-duty at Kansas for Danica Patrick
+*   Marcos Ambrose at Kansas Speedway
+*   No place like home for Carl Edwards
+*   Matt Kenseth's Kansas fast facts
+*   Sam Hornish Jr. Kansas Speedway advance
 *   Greg Biffle’s team wins Charlotte race awards
 *   Clint Bowyer’s crew chief won DIRECTV award
 *   Carl Edwards’ crew chief wins Moog award
 *   Tony Stewart won USG Improving Finish award
 *   Denny Hamlin wins Mobil 1 driver award
-*   Keselowski lap leader in Bank of America 500
-*   Clint Bowyer wins Bank of America 500
-*   Logano’s NNS team wins Charlotte race awards
-*   Sadler wins two race awards at Charlotte
-*   Jeremy Clements big Nationwide Series gainer
-*   Dillon top Nationwide ROTY at Charlotte
-*   Joey Logano makes it eight NNS wins in 2012
 
 GOLF PAGES
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   MLB:Scutaro diagnosed with left hip muscle strain
+*   MLB:Tigers go up 3-0 behind another Verlander gem
+*   MLB:Phil Hughes departs Game 3 with back injury
+*   NFL:Report: TE Graham will be active for Week 7
+*   MLB:McCann (shoulder) needs six months of rehab
+*   MLB:Scutaro has 'good chance' to play in Game 3
+*   NFL:Report: Murray aiming for Giants in Week 8
+*   NFL:Report: Injuries to sideline QB Kolb 6 weeks
+*   MLB:A-Rod, Swisher out of Yankees' Game 3 lineup
 *   NFL:McCarthy: RB Green can 'carry a full load'
-*   MLB:Berkman (knee) thinks he could play in WS
-*   NFL:Kolb (ribs) expected to miss 'several' weeks
 *   NHL:NHL offers NHLPA 50/50 split in revenue
-*   NFL:Reid: Michael Vick still the starter for now
-*   NFL:Trent Richardson's Week 7 status is uncertain
-*   CFB:Report: Mathieu received benefits from club
-*   NFL:Ravens will activate Suggs from PUP this week
-*   NFL:DeMarco Murray (foot) ruled out of Week 7
-*   MLB:McCann to undergo shoulder surgery Tuesday
-*   CFB:Update: McCarron's mom denies meniscus tear
+*   MLB:Berkman (knee) thinks he could play in WS
+*   NBA:Delonte West's suspension lifted
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1W. PowellNFL (10082)
-*   2J. BestNFL (10039)
-*   3H. NicksNFL (8067)
-*   4V. BallardNFL (7998)
-*   5A. HernandezNFL (7088)
+*   1J. BestNFL (8349)
+*   2W. PowellNFL (7369)
+*   3H. NicksNFL (7227)
+*   4D. MurrayNFL (7166)
+*   5R. MendenhallNFL (6900)
 
-*   6R. MendenhallNFL (7085)
-*   7R. Griffin IIINFL (6823)
-*   8A. GreenNFL (6765)
-*   9G. JenningsNFL (6733)
-*   10D. MurrayNFL (6680)
+*   6P. GarconNFL (6253)
+*   7V. BallardNFL (6100)
+*   8G. JenningsNFL (6011)
+*   9A. HernandezNFL (6009)
+*   10J. GordonNFL (5881)
 
   
 Video Center
@@ -525,6 +525,8 @@ Video Center
 *   4
 *   »
 
+*      
+    SportsTalk: Bye Week help
 *      
     Start &. Sit: DEN @ SD
 *      
@@ -539,39 +541,37 @@ Video Center
     Week 6 Starts &. Sits 4 p.m.
 *      
     Week 6 Starts &. Sits 1 p.m.
-*      
-    Start &. Sit: Steelers - Titans
 
   
   
-  Headlines Week 7 Top Pickups  
-Oct 16 Chris Wesseling breaks down the best players who still might be available in your league heading into Week 7.  
+  Headlines Week 7 Target Watch: NFC  
+Oct 17 Which players got all the targets in Week 6? Chet Gresham analyzes every NFC team.  
   
 More NFL Columns
 
+*   »Week 7 Target Watch: NFC Oct 17
+*   »Will Vick Stick? Oct 17
 *   »Week 7 Top Pickups Oct 16
 *   »No Free Fall for Felix Oct 16
 *   »Silva: Season Pass Chat Oct 16
 *   »Norv's Pain, Peyton's Gain Oct 16
+*   »Best Available NFL Free Agents Oct 16
 *   »Matchup: Broncos @ Chargers Oct 15
-*   »Rodgers Reasserts Rule Oct 15
-*   »Down goes DeMarco Oct 15
-*   »Best Available NFL Free Agents Oct 15
 
 NFL Headlines
 
+*   »Report: TE Graham will be active for Week 7
+*   »Report: Murray aiming for Giants in Week 8
+*   »Report: Injuries to sideline QB Kolb 6 weeks
 *   »Report: Browns GM thinks he's next to go
 *   »McCarthy: RB Green can 'carry a full load'
-*   »Kolb (ribs) expected to miss 'several' weeks
 *   »Reid: Michael Vick still the starter for now
 *   »Trent Richardson's Week 7 status is uncertain
 *   »Ravens will activate Suggs from PUP this week
-*   »DeMarco Murray (foot) ruled out of Week 7
 *   »Mendenhall on Achilles: It was just irritated
 *   »Eagles fire defensive coordinator Castillo
 *   »Peyton leads Broncos comeback with 3 TDs
 *   »Rivers with six turnovers in epic collapse
-*   »Lloyd suffers bruised shoulder in Sunday loss
 
 NFL Links
 
