@@ -9,6 +9,7 @@ Skip Navigation
     *   Sencha GXT
     *   Sencha Animator
     *   Sencha.io
+    *   Sencha CMD
 *   Support
     *   Sencha Care
     *   Sencha Services
@@ -166,6 +167,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   Sencha GXT
     *   Sencha Animator
     *   Sencha.io
+    *   Sencha CMD
 
 *   Support
     *   Sencha Services
