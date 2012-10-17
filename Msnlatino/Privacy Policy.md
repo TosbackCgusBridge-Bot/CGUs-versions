@@ -695,13 +695,13 @@ contactos Telemundo TV Ahora
     
     Combínate este otoño y añade color a tu estilo  
     
-*   Los hombres de Anahí
+*   ¡Ensayo caliente!
     
-    Las parejas de una verdadera rompecorazones  
+    Horacio Palencia y El Dasa incendiaron el escenario. Formaron un dúo impresionante y subieron la temperatura con actuaciones cargadas de sensualidad. Mira las imágenes aquí.
     
-*   Preparativos Día 1
+*   Unieron Sus Voces
     
-    Mira el 1er día de ensayos de la gran fiesta grupera
+    Esta presentación es una mezcla de artistas talentosos.
     
 
 Más en Telemundo:
