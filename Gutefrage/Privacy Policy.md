@@ -236,9 +236,9 @@ Top-50 Themen Thema Anzahl Apple 82788 Arbeit 63879 Ausbildung 49421 Auto 89963 
     maxifipsi
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.267.249 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.267.350 gute Fragen_
 
-*   28 Habe ich einen MÃ¶nch provoziert?
+*   29 Habe ich einen MÃ¶nch provoziert?
 *   16 Wie sollte man mit den Menschen umgehen?
 *   15 rassistische Eltern
 
