@@ -115,9 +115,9 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
+*   There Is At Least One Florida Nursing Home Where You Must Be Alive To Vote
 *   More than a Week After Benghazi, WH Spox Jay Carney Admitted that Administration Had Not Called It a Terrorist Attack
 *   Years and Excuses
-*   President Obama is a Weapon of Mass Economic Destruction – He Must Be Decommissioned
 
 More  
 
@@ -129,9 +129,9 @@ More
 
 *   Thanks, Candy Crowley. Now I Hate the Mainstream Media More than Ever.
 *   Revisiting the Strangest Moment in Last Night's Debate (Update: Candy Retracts Her Backtrack)
-*   The Murders in Libya, The Presidential Debate, and The Pattern of Obama Foreign Policy
+*   Take Two
 
-More   COL. HUNT SPEAKS: Col. Hunt On The Newest Libyan Revelations. ... SOME INTERESTING ANTI-OBAMA ADS RUNNING ON BET TV in Washington State and Ohio. At least, that’s what the email says. Anybody seen them there? AS ROMNEY BEGINS TO REACH WOMEN, YOU CAN SMELL THE LIBERALS’ DESPERATION:  The 2d presidential debate continued to show a Mitt Romney who cares about, respects and will actually help the lives of women.  According to the latest polls, his message of economic hope and prosperity is resonating, cutting into Obama’s previous advantage among women.  Latest evidence of progressive/liberal desperation as a result of the Romney surge?  A completely inane suggestion, within lamestream media types, that Romney’s comments about asking for and receiving “binders full of women” applicants for top government jobs while he was Governor is somehow sexist or out of touch.  Okay, I’m sorry, but that’s just utterly stupid, wrong, and well, desperate. ... More Advertisement
+More   WHY SHOULD BRITISH VIEWERS TRUST THE BBC? First, bias by omission: ... TRACY QUAN: _Taken 2′_s Bizarre Take On Sexual Politics. WHEN I FIRST SAW THIS HEADLINE, I THOUGHT IT WAS ABOUT OBAMA, THE PRESS, AND THE DEBATE: Best Face Transplant Ever. More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
