@@ -1,4 +1,4 @@
-**TRENDING** MITT ROMNEY | PRESIDENTIAL DEBATES | BILL CLINTON | GEORGE MCGOVERN | CLAIRE MCCASKILL | ARLEN SPECTER
+**TRENDING** MITT ROMNEY | BILL CLINTON | PRESIDENTIAL DEBATES | CLAIRE MCCASKILL | BANK OF NEW YORK MELLON | NICKI MINAJ
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  MSNBC panel second-guesses Obama's shot at re-election \[VIDEO\] DOJ tells off court system in request to dismiss Fast and Furious lawsuit 'This is outrageous!' Women's groups slam candidates for push to silence Candy Crowley    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  Crowley was out of line Obama touts fair pay for women, despite record showing women paid less in White House \[VIDEO\] Former Obama aide says president 'doesn't really like people'    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-Tea Party Victory Fund chair Ken Blackwell on the ‘Obama gave us a phone’ video 12:57 PM 10/16/2012 Obama won’t comment on whether or not Hillary is to blame for Benghazi \[VIDEO\] 12:21 PM 10/16/2012 Romney or Winfrey? 7:04 AM 10/16/2012 Obama Libya story changes subtly 5:14 AM 10/15/2012 Never mind: Obama is “responsible” for Benghazi (for now) 4:37 PM 10/16/2012 Joe Biden is lying about his college football career, in that he claims he had one 12:34 PM 10/16/2012 The great many facial expressions of Joe Biden \[SLIDESHOW\] 4:28 PM 10/11/2012 Meet the one percent of American colleges and universities \[SLIDESHOW\] 6:56 PM 10/10/2012 Study: Female GOP politicians are better looking than liberal politicians \[SLIDESHOW\] 2:19 AM 10/10/2012 10 women hotter than Mila Kunis \[SLIDESHOW\] 3:20 PM 10/08/2012 See More Got racism? 6:58 PM 10/10/2012 MSNBC’s motto: ‘Lean racist’ 5:13 PM 10/03/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Leaders with Ginni Thomas: Newt Gingrich 8:41 PM 10/14/2012 Gingrich calls out Rove super PAC, NRSC for abandoning Akin 5:58 AM 10/14/2012 Videos Sections
+Who won the debate? 10:17 PM 10/16/2012 Tea Party Victory Fund chair Ken Blackwell on the ‘Obama gave us a phone’ video 12:57 PM 10/16/2012 Crowley was out of line 11:36 PM 10/16/2012 Romney or Winfrey? 7:04 AM 10/16/2012 Never mind: Obama is “responsible” for Benghazi (for now) 4:37 PM 10/16/2012 Joe Biden is lying about his college football career, in that he claims he had one 12:34 PM 10/16/2012 The great many facial expressions of Joe Biden \[SLIDESHOW\] 4:28 PM 10/11/2012 Meet the one percent of American colleges and universities \[SLIDESHOW\] 6:56 PM 10/10/2012 Study: Female GOP politicians are better looking than liberal politicians \[SLIDESHOW\] 2:19 AM 10/10/2012 10 women hotter than Mila Kunis \[SLIDESHOW\] 3:20 PM 10/08/2012 See More Got racism? 6:58 PM 10/10/2012 MSNBC’s motto: ‘Lean racist’ 5:13 PM 10/03/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Leaders with Ginni Thomas: Newt Gingrich 8:41 PM 10/14/2012 Gingrich calls out Rove super PAC, NRSC for abandoning Akin 5:58 AM 10/14/2012 Videos Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   The mullahs will never succumb to sanctions
-*   And here’s another YouTube clip that should anger Muslims
-*   How campus censorship makes us all a little bit dumber
+*   Romney spotlights Obama’s overseas investments, including in China \[VIDEO\]
+*   Who won tonight’s presidential debate between Barack Obama and Mitt Romney?
+*   Romney assails Obama for state of economy: ‘I think you know better’ \[VIDEO\]
 
 Corporate
 
