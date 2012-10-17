@@ -228,19 +228,19 @@ Channels
 
 Users
 
-Previous Section Salem
+Previous Section Medieval Shark
 
-I arrived in a large city, densely packed with ancient cathedrals and churches...
+Prepare to have your ass exploded! Death, kill, evaporate. The end is here.
 
-4.31 / 5.00 65,165 Views Deep Sleep
+4.42 / 5.00 124,032 Views Death vs Monstars 2
 
-Find a way out of this deadly nightmare dream!
+Death is back with more mayhem and destruction in this manic shooter
 
-4.21 / 5.00 90,948 Views Talk Head
+4.00 / 5.00 10,834 Views Shadow Tag
 
-Lip-Sync any audio track from around NG and the web!
+The children are out at night, and they want to play...
 
-4.06 / 5.00 57,860 Views Next Section 212:90:0 bottom-superbanner:728x90
+3.99 / 5.00 25,479 Views Next Section 212:90:0 bottom-superbanner:728x90
 
 **© Copyright 1995-2012 Newgrounds, Inc. All rights reserved. Privacy Policy | Terms of Use**
 
