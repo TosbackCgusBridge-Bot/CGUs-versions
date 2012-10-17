@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Tuesday, October 16, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Wednesday, October 17, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -114,16 +114,16 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 Washington, DC 20037
 
 Special Report The Atlantic The Energy Puzzle  
-_The Atlantic_'s Alexis Madrigal talks with the entrepreneurs shaping our future. Read more › Just In Jeffrey Goldberg 4:42 PM ET So Who Exactly Is the Archetypal Long Island Voter? 1350420121 Voices
+_The Atlantic_'s Alexis Madrigal talks with the entrepreneurs shaping our future. Read more › Just In Brendan Hasenstab 8:01 AM ET Track of the Day: 'Stonehaven' 1350475269 Voices
 
-*   Jeffrey Goldberg So Who Exactly Is the Archetypal Long Island… 4:42 PM ET
-*   Ta-Nehisi Coates Your Cops on Drugs, Cont. 3:05 PM ET
-*   Alexis C. Madrigal JFK's Doodles From a Meeting at the Height of the… 12:08 PM ET
-*   Garance Franke-Ruta The Amazing Story of What Happened in Libya 11:40 AM ET
-*   Derek Thompson Stock Market Performance Under Democratic… Oct 15, 2012
-*   Robert Wright Why Obama's in This Hole and How He Can Get Out Oct 15, 2012
-*   James Fallows Your Real-Time Cyber-Attack Map Oct 13, 2012
-*   Clive Crook Biden Beats Ryan on Points Oct 12, 2012
+*   Clive Crook Obama Returns to Form 2:02 AM ET
+*   Garance Franke-Ruta Obama Brings the Fight 12:49 AM ET
+*   James Fallows The Picture That Encapsulates the Debate Oct 16, 2012
+*   Robert Wright Obama's Triumph Oct 16, 2012
+*   Ta-Nehisi Coates Liveblogging the Second Presidential Debate Oct 16, 2012
+*   Derek Thompson What Obama Should Say Tonight—and What… Oct 16, 2012
+*   Jeffrey Goldberg So Who Exactly Is the Archetypal Long Island… Oct 16, 2012
+*   Alexis C. Madrigal JFK's Doodles From a Meeting at the Height of the… Oct 16, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 
 Correspondents
@@ -162,14 +162,14 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Holden Caulfield, It's Time We Let Go  
+*   Fact Checking Mitt Romney's Women Binders  
     
-*   17-Year-Old Former Conservative Boy Wonder Couldn't Get Along with Vice  
+*   'Binders Full of Women' Won the Debate  
     
-*   Is Mix It Up at Lunch Day as Scary as Cyanide-Laced Candy?  
+*   The Green Party Tried and Failed to Participate in Tonight's Debate  
     
 
-Last Update: 4:25 PM
+Last Update: 7:24 AM
 
 *   If Grannies Did Graffiti, It Might Look Like This  
     
@@ -182,23 +182,23 @@ Last Update: 6:46 PM Most Popular
 
 1
 
-The Amazing Story of What Happened in Libya
+Why We Shouldn't Be Surprised Obama Is Falling Behind
 
 2
 
-Have You Ever Tried to Sell a Stolen Painting?
+Obama's Triumph
 
 3
 
-A Trip to the Faroe Islands
+The Picture That Encapsulates the Debate
 
 4
 
-Dark Social: We Have the Whole History of the Web Wrong
+A Trip to the Faroe Islands
 
 5
 
-What an Academic Who Wrote Her Dissertation on Trolls Thinks of Violentacrez
+AP Classes Are a Scam
 
 6
 
@@ -206,19 +206,19 @@ Pointless Shame: The English-Speaking World's Issue With Women's Breasts
 
 7
 
-What Was Reddit Troll Violentacrez Thinking?
+Dark Social: We Have the Whole History of the Web Wrong
 
 8
 
-Don't Pity the Rich: The Great Recession Was Worst on the Poor
+Have You Ever Tried to Sell a Stolen Painting?
 
 9
 
-Why We Shouldn't Be Surprised Obama Is Falling Behind
+Liveblogging the Second Presidential Debate
 
 10
 
-What Does Marijuana Actually Do to Your Brain?
+The Amazing Story of What Happened in Libya
 
 *   Subscribe Help
 *   Faq
