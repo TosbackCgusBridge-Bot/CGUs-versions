@@ -33,11 +33,12 @@ become a fan AG twitters!
     Innovative ecards to send, share or post
     
     *   **Holidays**
-    *   boss's day
     *   sweetest day
     *   halloween
     *   election day
     *   veterans day
+    *   diwali
+    *   thanksgiving
     *   view all holidays >
     
     *   **Occasions**
@@ -68,7 +69,6 @@ become a fan AG twitters!
     Create and print cards from your home computer.
     
     *   **Holiday**
-    *   boss's day
     *   halloween
     *   veterans day
     *   thanksgiving
@@ -407,7 +407,6 @@ As always, if you have any questions, please feel free to review our FAQ or cont
 *   iPhone App
 *   justWink
 *   Wallpapers &. Screensavers
-*   Invites
 *   American Greetings Card Calendar
 *   American Greetings Birthday Calendar
 
