@@ -100,10 +100,10 @@ You may also send a letter to:
 Most viewed
 
 1.  Zumba scandal: 21 names released in Maine prostitution case (+video)
-2.  Guantánamo trial boycott? Judge says defendants don't have to attend (+video)
-3.  Amanda Todd: Bullied teen shared story, then committed suicide
-4.  Focus: As sanctions crush rial's value, Iranians point fingers at Ahmadinejad
-5.  As Obama and Romney ready for second debate, where do polls stand? (+video)
+2.  Dutch art heist 'a nightmare for any museum director' (+video)
+3.  Sharper, more aggressive Obama shows up to second presidential debate (+video)
+4.  Round 2: President Obama turns up the heat in combative town-hall debate
+5.  End of the exit visa in Cuba? (+video)
 
 About these ads
 
@@ -116,12 +116,12 @@ Editors' Picks:
     
     Western leaders may finally be seeing the result of stringent sanctions as Iranians blame their government, not the US and EU, for the precipitous economic decline of the oil-rich country.
     
+*   Cuban Missile Crisis: the 3 most surprising things you didn't know
 *   Global News Blog: Britain nixes extradition of NASA hacker Gary McKinnon to US
 *   Backchannels: A senior Iraqi official ponders if his government is a client of Iran's
 *   Decoder Wire: With race tight, celebrities make the pitch for Obama
-*   Terrorism &. Security: Former Serb leader Karadzic: I deserve reward, not punishment
 
-_Photos of the day_ 10.15.12 » Photos of the day, 10/15
+_Photos of the day_ 10.16.12 » Photos of the Day 10/16
 
 **CSMonitor.com** on Facebook
 
