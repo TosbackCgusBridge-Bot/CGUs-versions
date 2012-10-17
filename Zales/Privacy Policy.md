@@ -118,6 +118,7 @@ shop zales outlet ZalesZales Outlet
     *   Gender
         *   Child's
         *   Ladies'
+        *   Men's
         *   Unisex
     *   Price
         *   Under $50
@@ -209,7 +210,7 @@ shop zales outlet ZalesZales Outlet
     *   EXCLUSIVE COLLECTIONS
         *   Vera Wang LOVE
         *   Celebration Diamond
-        *   Candy Colored Diamonds &. Gemstones
+        *   Candy Colored Diamonds
         *   Persona Beads
         *   Sirena
         *   Effy
