@@ -382,6 +382,11 @@ Ventura County Star
 *   Cars
 *   Classified
 
+*   Today
+    
+    S.P. meets on delay |  CLU prof. to talk |  Seafood event |  10 to know
+    
+
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -634,17 +639,17 @@ Most Popular
 *   Commented
 *   Emailed
 
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 116 comments
 *   Oxnard police chief calls shootout that killed bystander a tragedy Updated 10/16/2012 at 7:12 p.m.
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 75 comments
-*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 55 comments
-*   Officials confirm 1 of 2 killed in Oxnard police shootout was innocent bystander Updated 10/15/2012 at 7:32 p.m.
 *   Investigation continues involving woman's fall onto highway Updated 10/16/2012 at 5:24 p.m.
+*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 57 comments
+*   Train hits and kills man near La Conchita Updated 10/16/2012 at 6:28 p.m.
 
-Photo Galleries Chaotic shooting rattles La Colonia… Ventura County's Most Wanted October… Sailors brave choppy waters
+Photo Galleries Chaotic shooting rattles La Colonia… Ventura County's Most Wanted October… Top-flight building spices up…
 
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 75 comments
-*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 55 comments
-*   CLU professor heads study of undocumented college students Published 10/14/2012 at 5:49 p.m. 63 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 116 comments
+*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 57 comments
+*   CLU professor heads study of undocumented college students Published 10/14/2012 at 5:49 p.m. 64 comments
 *   Morning chat Published 10/15/2012 at 12:00 a.m. 62 comments
 *   Morning chat Published 10/16/2012 at 12:00 a.m. 55 comments
 
@@ -660,25 +665,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 60° Fair Wind: Calm Today 81° 61° Wed 05:00 PM Sunny Temp: 77° Thu 05:00 AM Clear Temp: 61° Thu 05:00 PM Sunny Temp: 71°
+Currently 70° Fair Wind: W 5mph Today 81° 61° Wed 10:00 PM Clear Temp: 67° Thu 10:00 AM Sunny Temp: 72° Thu 10:00 PM Mostly Clear Temp: 63°
 
-Feels Like: 77°
+Feels Like: 67°
 
-Humidity: 58%
-
-Precip: 0%
-
-Feels Like: 61°
-
-Humidity: 100%
+Humidity: 81%
 
 Precip: 0%
 
-Feels Like: 71°
+Feels Like: 72°
 
-Humidity: 71%
+Humidity: 68%
 
 Precip: 0%
+
+Feels Like: 63°
+
+Humidity: 90%
+
+Precip: 7%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
