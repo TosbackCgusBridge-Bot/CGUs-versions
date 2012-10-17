@@ -212,42 +212,42 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Professors donate to Obama, opine about election in news articlesDem warns FTC against suing GoogleCandy Crowley will disregard debate agreement on TuesdayCoburn blasts FCC's phone subsidy as 'massive entitlement'Adviser says Romney will ask Obama to 'man up' on Libya attack at debate
+The Hill’s 50 races to watchModerator Crowley helps Obama rebut Romney on LibyaProfessors donate to Obama, opine about election in news articles'Binders full of women' goes viralRight hits Crowley for correcting Romney on Obama's 'acts of terror' remark
 
 Emailed
 
-Bubba and the Boss go BuckeyeProfessors donate to Obama, opine about election in news articlesPoll: Romney surges ahead of Obama in the dozen swing statesSupreme Court allows early voting in OhioWarren, Brown battle to the end
+Professors donate to Obama, opine about election in news articlesSupreme Court allows early voting in OhioThe Hill’s 50 races to watchJohn Kerry nails Mitt Romney on ‘Morning Joe’Moderator Crowley helps Obama rebut Romney on Libya
 
 Discussed
 
-Poll: Plurality say polls biased for ObamaProfessors donate to Obama, opine about election in news articlesUS ambassador: Internet fee proposal gaining momentumObama, Romney confrontational in second presidential debateClinton on Libya attack: ‘I take responsibility’
+Poll: Plurality say polls biased for ObamaProfessors donate to Obama, opine about election in news articlesMore bad news for Mitt Romney US ambassador: Internet fee proposal gaining momentumObama, Romney confrontational in second presidential debate
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Paul Ryan doubles down on 'act of terror'
-*   Biden: Debate showed Romney trying to ‘politicize’ Libya deaths
 *   MORNING READ
+*   Ann Romney calls it mostly ‘myth’ that Mitt changes position
+*   DAY'S END ROUNDUP
 
   
 More Briefing Room » Congress Blog
 
-*   Arlen Specter: A tenacious public servant
-*   Arlen Specter: A valued mentor, advocate and constituent
-*   Agreeing on the debt
+*   Debate fact-checking long overdue - Hooray for Candy!
+*   Obama rebounds, Romney stumbles
+*   Online privacy - We must protect our children
 
   
 More Congress Blog » Pundits Blog
 
-*   Draw
-*   Bubba and the Boss go Buckeye
-*   Decadence of victimhood
+*   Obama muddies the water on Libya
+*   The next debate
+*   John Kerry nails Mitt Romney on ‘Morning Joe’
 
   
 More Pundits Blog » Twitter Room
 
+*   'Binders full of women' tops social-media buzz for debate
 *   Del. Norton misspells Obama in debate tweets
 *   Right hits Crowley for correcting Romney on Obama's 'acts of terror' remark
-*   Romney family eats together ahead of second debate
 
   
 More Twitter Room » Hillicon Valley
@@ -259,61 +259,61 @@ More Twitter Room » Hillicon Valley
   
 More Hillicon Valley » E2\-Wire (Energy)
 
+*   White House energy aide hopes for ‘reset button’ with Congress
+*   News bites: California legal battles over climate, drilling
 *   Climate change a no-show again despite debate’s energy focus
-*   Romney battles Obama over energy in testy, face-to-face exchange
-*   DOE delays decision on natural-gas export license
 
   
 More E2\-Wire (Energy) » Ballot Box
 
+*   McMahon and Murphy in statistical dead heat in Conn. Senate race
+*   Dem super-PACs launch blitz targeting House, Senate races
 *   Obama, Romney woo women in debate
-*   The Hill’s 50 races to watch
-*   Romney breaks debate rule on not asking direct questions to opponent
 
   
 More Ballot Box » On The Money
 
-*   Obama saves attack on Romney's '47 percent' remarks for last
-*   Obama, Romney spar over China policy
-*   Romney: 'Mr. president, have you looked at your pension?'
+*   Senators push regulators for bigger bank cushions
+*   Housing construction hits 4-year high
+*   News bites: Shifting landscape
 
   
 More On The Money » Healthwatch
 
-*   Romney bids for women's support with new abortion ad
+*   Republicans press HHS on malpractice reform
+*   News bites: More from the showdown
 *   Medicare, Obama health law get short debate time
-*   'Binders full of women' goes viral
 
   
 More Healthwatch » Floor Action
 
-*   Akin hammers McCaskill for cheering reduced emissions during recession
-*   Coburn calls federal student loan program 'welfare for the wealthy'
-*   Republicans block Reps. Connolly, Carnahan in latest pro forma
+*   Durbin visits 'Bainport' protesters ahead of presidential election
+*   Alaska's Young tells younger candidates: Wait in line for my seat
+*   Blumenthal calls for better benefits for volunteer firefighters
 
   
 More Floor Action » Transportation
 
+*   Enviros argue European airline emissions trading is working
 *   Former Michigan Gov. Granholm glad Obama ‘called Mitt out on autos’
 *   Haley Barbour's lobbying firm representing Toyota
-*   Akin circulates video of McCaskill saying emissions reduction due to economy is 'good news'
 
   
 More Transportation » DEFCON Hill
 
+*   Report: CIA agent among US dead in latest 'insider attack'
+*   Defense industry group upset ‘fiscal cliff’ wasn’t debated
 *   Candidates duck defense, national security in second debate
-*   Turnover threatens clubby atmosphere of House Armed Services Committee
-*   Study: Obama has more to gain than Romney from military endorsements
 
   
 More DEFCON Hill » Global Affairs
 
-*   Conservatives: Romney flubbed Libya
-*   Moderator Crowley helps Obama rebut Romney on Libya
-*   Report: US military overtures to Burma worry human-rights activists
+*   Obama, Romney campaigns battle for post-debate edge over Libya
+*   National Foreign Trade Council President Bill Reinsch: Opportunity for course correction in Ecuador
+*   Wednesday's global agenda: Libya debate postmortem
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Lanny Davis Debate advice for Obama A.B. Stoddard Democrats' happy sigh More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris Mitt should expand map Markos Moulitsas Scott Brown's blunder More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
