@@ -33,25 +33,25 @@ Because she is one. Or so the sexy and French actress claims.
 
 *   Joke from a Beautiful Woman with Hannah Ware from _Boss_ (and Not One but Two Videos!)
 
-Style The Debate Ties: Something We Can Agree On
+Style Six Actual Binders Full of Style  Not Women
 
-They were pretty sharp. Herein, options you can buy right now.
+Mitt Romney and the Internet have brought attention to that oft-overlooked accessory. Maybe you could use one.
 
-*   15 Cardigans to Buy Online Now, at Any Price
+*   The Debate Ties: Something We Can Agree On
 
-*   Secret History of Your Pants
+*   15 Cardigans to Buy Online Now
 
-*   Can We Interest You in Soap... Made from Beer?
+*   A Secret History of Your Pants
 
-News &. Politics Charles P. Pierce on Last Night's Debate
+News &. Politics MIke Sager on Jeff Flake's Arizona Senate Race
 
-If anything could blunt Romney's momentum, it was a look at the real Romney. A report from Hempstead.
+The Republican congressman, a conservative with deep roots in the state, wants to be its next senator. But these days, n...
+
+*   Stephen Marche on the Election's Generation War
+
+*   Charles P. Pierce on Last Night's Debate
 
 *   Romney's Vision for Etch-A-Sketch America Takes Hold
-
-*   The Power of Jay-Z's Obama Ad
-
-*   The Fate of the 2012 Senate Races
 
 Food &. Drink The Marilyn Monroe Diet, with Lots of Protein
 
