@@ -67,13 +67,13 @@ Adotas.com RSS Feeds Follow Adotas.com on Twitter Follow Adotas on Facebook Adot
 
 Latest News
 
+*   Appinions Names Top Five Most Powerful CMOs with Release of CMO Influence Study _October 17th 2012_ NEW YORK (October 12, 2012) – Which CMOs wield the \[...\] more »
 *   ‘Tis the Season for Brand Safety _October 17th 2012_ Think of this as the “season before the season.” Before \[...\] more »
 *   Adblade for Lead Gen Enables Marketers to Reach, Engage and Convert Consumers _October 16th 2012_ NEW YORK (October 16, 2012) – Adblade, the ultra-premium ad \[...\] more »
 *   AutoTrader Turns to Skyword for Content Marketing Roll-Out _October 16th 2012_ BOSTON (October 16, 2012) – Skyword, a leading content production platform, today \[...\] more »
 *   Social on Heavy Rotation: Major Record Label Unveils New Interactive Website _October 16th 2012_ Music is all about reaching people through vibrations, words and \[...\] more »
 *   The Report Every Interactive Marketer Should Have _October 15th 2012_ By now you might have heard the mainstream media’s reduction \[...\] more »
 *   BBN Selects Visible Intelligence Platform to Power Social Media Listening Solution for B2B Marketers _October 15th 2012_ LAS VEGAS/DMA (October 15, 2012) — Visible Technologies®, a leader \[...\] more »
-*   Digitas Health Wins in Five MM&M Awards Categories _October 15th 2012_ PHILADELPHIA (October 10, 2012) – Digitas Health earned five awards \[...\] more »
 
 News Archive
 
@@ -101,10 +101,10 @@ Reader Favorites Classifieds
 
 Recent Comments
 
-*   **Techniques For Mounting A Successful Mobile Marketing Campaign | Tablet Computers:** \[...\] decide between Apps vs. Mobile Websites Schifino Lee – Tampa Advertising and Branding AgencyBizo
-*   **Bizo Launches Digital Marketing Remix, a Daily Resource for B2B Digital … – ADOTAS | Business Conception:** \[...\] Bizo Launches Digital Marketing Remix, a Daily Resource for B2B Digital …ADOTASSAN FRANCISCO (October
-*   **Bizo Launches Digital Marketing Remix, a Daily Resource for B2B Digital … – ADOTAS | BizLocal:** \[...\] Bizo Launches Digital Marketing Remix, a Daily Resource for B2B Digital …ADOTASThe site aims
-*   **Mediasmith - Study: Luxury Brands Plan To Spend More On Digital » Mediasmith -:** \[...\] David L. Smith, CEO and founder of Mediasmith stated, “We are always happy to
+*   **Jonathan Ellis:** What works the best maybe when the mobile is not used by advertisers / agencies
+*   **BBN Selects Visible Intelligence Platform to Power Social Media Listening ... - ADOTAS | Strategy and Competitive Intelligence | Scoop.it:** \[...\] The collaboration of BBN, Visible Technologies and LexisNexis provides B2B markets with an innovative
+*   **Abu Dhabi's Post-Formula 1 Yasalam Concerts Draw Biggest Names In Music | rap, hip hop, r&b music, news, reviews:** \[...\] Social on Heavy Rotation: Major Record Label Unveils New Interactive Website Interscope Geffen A&M,
+*   **Is Social Media to Blame for the Rise in Narcissism? | Open Knowledge:** \[...\] LAS VEGAS/DMA (October 15, 2012) — Visible Technologies®, a leader in social media monitoring
 
 Click Footer
 
