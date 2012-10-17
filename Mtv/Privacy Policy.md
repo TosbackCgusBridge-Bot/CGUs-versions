@@ -84,7 +84,6 @@ mtv MTV Home
         *   2012 EMA
         *   Art Breaks
         *   Avengers VS X-Men
-        *   House Of Style: Music, Models and MTV
         *   Inocente
         *   It Gets Better 2
         *   Movie Awards
