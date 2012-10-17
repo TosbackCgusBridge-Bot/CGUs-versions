@@ -32,7 +32,6 @@ Close Panel
     *   1.800.227.7776
     *   My Cart
 
-*   Tracker Marine
 *   Freshwater Fishing
     *   Fishing Reels
     *   Fishing Rods
