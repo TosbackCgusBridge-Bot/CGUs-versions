@@ -24,12 +24,12 @@ Bravo
     *   Watch What Happens Live
     
     What's On Tonight
-    *   9:00 PM The Real Housewives of New JerseyEp 23: Reunion Part 3
-    *   New 10:00 PM Flipping OutEp 7: Cleaning House
-    *   New 11:00 PM Watch What Happens LiveLuAnn de Lesseps &. Lauren ConradSee All Shows » See Full Schedule »
+    *   9:00 PM The Real Housewives of New York CityEp 20: Reunion Part II
+    *   New 10:00 PM Life After Top ChefEp 3: Duck Hearts and French Baguettes
+    *   New 11:00 PM Watch What Happens LiveGina Gershon &. Jackie WarnerSee All Shows » See Full Schedule »
 *   People &. Blogs
     
-    *   Read The Dish's Latest Post Sonja Morgan: 'I Just Felt Unheard'
+    *   Read Jenni Pulos's Latest Post Zoila's Tear-Filled Therapy Session
     
     Current Bravolebrities
     
@@ -63,18 +63,18 @@ Bravo
     *   Teresa Giudice
     
     Recent Blog Posts
-    *   Melissa Gorga The Teresa-Kim Set-Up
-    *   The Dish Foods Gail Simmons &. Eric Ripert Hate
-    *   Sonja Morgan Sonja Talks Toaster OvenAll People » More Blog Posts »
+    *   The Dish Patti Questions Jen Aniston Engagement
+    *   The Dish Sonja Morgan: 'I Just Felt Unheard'
+    *   Melissa Gorga The Teresa-Kim Set-UpAll People » More Blog Posts »
 *   Videos &. Full Episodes
     
-    *   Watch What Happens Live Jill Zarin: “I Don’t Pay for my Friends”
+    *   Watch What Happens Live After Show: Prank Call!
     
     Recent Clips
     
-    *   Watch What Happens Live Jill's Beef with Bethenny
-    *   Watch What Happens Live Jill Zarin Disses the New RHONY
-    *   Watch What Happens Live Jill Zarin: "Why Was I Fired?"
+    *   Watch What Happens Live After Show: Most Embarrassing Moments
+    *   Watch What Happens Live Pin the Tail on the Pirate's Booty
+    *   Watch What Happens Live The Hills No Lies
     
     New Full Episodes
     *   The Real Housewives of New Jersey Episode 21: Reunion Part 1
@@ -284,22 +284,22 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   FLIPPING OUT BAD MOVE
+*   LIFE AFTER TOP CHEF NO FOOD DEED GOES UNPUNISHED
     
-    5:00 PM ET
+    7:00 AM ET
     
-*   THE REAL HOUSEWIVES OF NEW YORK CITY REUNION PART 1
+*   TOP CHEF TAILGATING - KOREN GRIEVESON
     
-    6:00 PM ET
+    8:00 AM ET
     
 
-view complete schedule The Dish - Bravo's Daily News Foods Gail Simmons &. Eric Ripert Hate
+view complete schedule The Dish - Bravo's Daily News Patti Questions Jen Aniston Engagement
+
+Will the superstar couple really make it down the aisle?
+
+Read More Foods Gail Simmons &. Eric Ripert Hate
 
 Exclusive: The hot foodies talk painful 'Top Chef' eliminations and more on set of Eric's 'On the Table'
-
-Read More Sonja Morgan: 'I Just Felt Unheard'
-
-Thankfully, she and Heather Thomson were able to sort things out.
 
 Read More More Dish Get insider Bravo news in our weekly update!
 
