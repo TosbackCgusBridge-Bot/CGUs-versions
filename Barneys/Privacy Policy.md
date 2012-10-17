@@ -2,7 +2,7 @@ COMPLIMENTARY SHIPPING ON ALL US ORDERS
 
 See Details
 
-Log In Favorites Favorites My favorites (3) Most Loved Alexander Wang Ponyhair Compact Wallet Barneys New York Search
+Log In Favorites Favorites My favorites (3) Most Loved Lanvin Happy GM Quilted Shoulder Bag Barneys New York Search
 
 *   New Arrivals
     *   All New Arrivals
@@ -110,7 +110,7 @@ Log In Favorites Favorites My favorites (3) Most Loved Alexander Wang Ponyhair C
     Lanvin Printed Python Platform _$855_ $339 _Sale_
 *   The window Insider Fashion Access Video
     
-    Marcia Patmos Masters The Modern Wardrobe
+    Step Lively: Manolo Blahnik Picks His 10 Favorite Shoes For Fall
     
 *   Trends
     
