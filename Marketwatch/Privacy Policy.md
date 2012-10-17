@@ -1,8 +1,8 @@
-Bulletin Investor Alert
+Bulletin Exxon to pay $3.14 bln for Canada's Celtic Exploration Investor Alert
 
-New York Markets After Hours
+New York Markets Open in:
 
-After Hours EarningsWatch Evening Winners and Losers
+Pre-Market Indications Analyst Ratings Oil News EarningsWatch
 
 Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
@@ -198,89 +198,87 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 5:13 PM EDT October 16, 2012 /marketstate/country/us New York After /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 17, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  5:10p
+/news/latest1.  8:01a
     
-    Intel hit by weak PCs, scaling back output
+    Fall TV shows spark NBC early but 3 dangers loom
     
-2.  5:09p
-    
-    Fortinet Q3 profit falls 4% amid charges
-    
-3.  5:02p
-    
-    Linear Tech Q1 revenue $335.1 mln vs $329.9 mln
-    
-4.  5:01p
-    
-    Stocks surge. Dow gain is biggest since Sept. 13
-    
-5.  5:01p
-    
-    BREAKING
-    
-    Linear Technology Q1 net income 45c vs 47c
-    
-6.  5:01p
+2.  8:01a
     
     Updates, advisories and surprises
     
-7.  5:00p
+3.  8:00a
     
-    Intel, IBM shares turn red after hours
+    Abbott Q3 net $1.21 vs. 19c
     
-8.  4:54p
+4.  8:00a
     
-    Will Softbank cut Sprintâs prices?
+    Abbott Q3 sales $9.77 bln, down 0.4%
     
-9.  4:54p
+5.  8:00a
     
-    API posts bigger-than-expected rise in oil supply
+    Abbott Q3 adj. net $1.30 vs $1.18
     
-10.  4:49p
+6.  8:00a
     
-    IBM profit slips as hardware sales decline
+    Coming up: U.S. housing starts for September
     
-11.  4:47p
+7.  7:53a
     
-    Intel, IBM shares turn red after hours
+    PepsiCo profit falls 4.9%
     
-12.  4:41p
+8.  7:53a
     
-    Obama refi effort to help 1 million in 2012: FHFA
+    Northern Trust profit climbs by nearly 5%
     
-13.  4:38p
+9.  7:50a
     
-    Apollo shares fall 9% on results, outlook
+    Spain boosts Europe stocks after Moodyâs rating
     
-14.  4:37p
+10.  7:50a
     
-    Spain, earnings support stocks, euro, gold
+    Exxon Mobil to buy Canada's Celtic Exploration
     
-15.  4:36p
+11.  7:50a
     
-    A123 files for bankruptcy after getting U.S. grant
+    Big earnings to watch Wednesday: B. of A., AmEx
     
-16.  4:36p
+12.  7:50a
     
-    U.S. crude-oil stocks up 3.7 million barrels: API
+    Dover profit rises 40%, but firm trims outlook
     
-17.  4:28p
+13.  7:48a
     
-    Radio Update: Wall Street a winner at closing bell
+    Halliburton profit falls 12%
     
-18.  4:25p
+14.  7:47a
     
-    Intuitive Surgical posts sharply higher profit
+    Diamond ETFs seen riskier than other commods Funds
     
-19.  4:25p
+15.  7:46a
     
-    Citi recovers. Street views Corbat a positive
+    U.S. Bancorp profit rises on mortgage revenue
     
-20.  12:15p
+16.  7:45a
     
-    Feds look to unload Fannie, Freddie loans
+    Northern Trust Corp. Q3 net 73c vs 70c
+    
+17.  7:45a
+    
+    Quest Diagnostics' quarterly profit falls 5.1%
+    
+18.  7:43a
+    
+    St. Jude Medical profit falls
+    
+19.  7:39a
+    
+    Halliburton profit falls, sees higher U.S. costs
+    
+20.  7:37a
+    
+    Radio update: Consumers gear up for the holidays
     
 21.  Loading more headlines...
 
