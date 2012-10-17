@@ -483,9 +483,9 @@ Email: webmaster@bodybuilding.com
   
 Related Articles
 
-*   Pro Bodybuilding Worldwide Radio
-*   One Wild Night - Who Will Gatecrash The 2005 Olympia Party?
-*   Arnold Bodybuilding Encylopedia Review!
+*   Flash/False Report - Are We Getting Played?
+*   Bodybuilding.com's Deadliest Catch!
+*   Weider And Lorimer - A Friendship Built On A Passion For Bodybuilding!
 
 *   View All Gossip And News Articles
 
