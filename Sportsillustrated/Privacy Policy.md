@@ -142,19 +142,19 @@ The Privacy Statement posted on this site was updated in March, 2011.
 
 More from SI.com Latest News
 
-*   **Andy Staples:** 'Bama, Oregon among teams that control destiny at halfway point
+*   **Joe Lemire:** Verlander leads Tigers past Yanks for 3-0 ALCS lead
+*   Dempsey, U.S. top Guatemala, advance
 *   NHL makes major new CBA proposal
-*   Eagles fire defensive coordinator Castillo
 
 Video The MLB Postseason Show Underdogs: Call of Duty SI Writers
 
-*   **Long:** Charlotte Power Rankings
-*   **Jonathan Wilson:** Dzeko, child of Sarajevo, grows into humble star for rising Bosnia
-*   New NHL offer designed to save season
+*   **Joe Lemire:** Verlander dominates predictably as Tigers inch closer to World Series
+*   **Grant Wahl:** Johnson's comeback continues with gem in U.S.' win over Guatemala
+*   **Avi Creditor:** U.S.-Guatemala player ratings:
 
-SI Photos NFL Cheerleaders: Week 6 Roger Federer vs. Rafael Nadal Classic Photos of Alex Morgan  
+SI Photos Tennis Players Smashing Rackets NFL Cheerleaders: Week 6 Roger Federer vs. Rafael Nadal  
 
-Hot Topics: Peyton Manning Peter King: Monday Morning QB MLB Playoffs Brooklyn Nets Heisman Watch Swimsuit
+Hot Topics: Justin Verlander U.S. Soccer Retooled Ravens Fantasy Football NHL Lockout Swimsuit
 
 *   SUBSCRIBE TO SI
 *   DIGITAL EDITION
