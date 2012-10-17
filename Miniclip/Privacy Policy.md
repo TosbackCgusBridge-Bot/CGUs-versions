@@ -1,10 +1,10 @@
 Play Games at Miniclip.com New games! Hit the homepage  
-Great new games out now NeoMech New iPhone game! Try NeoMech online  
-Super shooting robots Plague Inc. Android infection alert! Plague Inc.  
+Great new games out now Plague Inc. Android infection alert! Plague Inc.  
 Now on Android! Calling Pool Ninjas! New table in shop  
-Get your stealth on Midnight Dash Midnight Dash! Win the Awards  
+Get your stealth on Cinderella Midnight Dash! Win the Awards  
 Go beat the clock Obama Game Martian Invasion! Obama - Video Game  
-President vs Aliens My Miniclip Credits
+President vs Aliens NeoMech New iPhone game! Try NeoMech online  
+Super shooting robots My Miniclip Credits
 
 *   Signup
 *   Login
@@ -35,12 +35,13 @@ More Languages ›
 *   Miniclip Home
 *   Action
 *   Sports
-*   Play with Friends
+*   Multiplayer
 *   Puzzle
 *   iPhone
 *   Halloween
 *   Sketch Star
 *   Android
+*   3D
 *   More Categories
 
 Game Categories
@@ -55,8 +56,8 @@ Game Categories
 *   Award
 *   Back To School
 *   Bonus
-*   Brain Training
 
+*   Brain Training
 *   Buzz
 *   Card
 *   Christmas
@@ -66,9 +67,9 @@ Game Categories
 *   Destruction
 *   Downloadable Games
 *   E-Rated (Everyone)
+
 *   Education
 *   Extreme Sports
-
 *   Fighting
 *   Flying
 *   Games for Girls
@@ -77,10 +78,10 @@ Game Categories
 *   Halloween
 *   Hidden Object
 *   Hot Games
+
 *   iPhone
 *   Kids
 *   Latest
-
 *   Learning
 *   Live Players
 *   London Olympics 2012
@@ -88,35 +89,34 @@ Game Categories
 *   MMO
 *   Moms
 *   Monster
+
 *   Motocross
 *   Motorsports
 *   Multiplayer
 *   My Friends League
-
 *   New
 *   Nintendo Wii
 *   Platform
-*   Play with Friends
 *   Political
 *   Pool
 *   Puzzle
+
 *   Racing
 *   Retro
 *   Shoot 'Em Up
 *   Soccer
-
 *   Social
 *   Sports
 *   Spring
 *   Staff Favorites
 *   Strategy
 *   Stunt
+
 *   Summer
 *   Tennis
 *   Top 100
 *   Tower Defense
 *   Virtual Worlds
-
 *   Web Toys
 *   Windows Phone
 *   Winter
@@ -126,6 +126,7 @@ Game Categories
 Hub Pages
 
 *   BAFTA Young Game Designers
+*   Gravity Falls
 *   Insider's Guide Book
 *   Madagascar III
 
