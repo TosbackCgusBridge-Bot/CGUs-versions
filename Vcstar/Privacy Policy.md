@@ -382,9 +382,6 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   Presidential debate live stream starts at 6 p.m. |  Q&A about debate |  Ballot Initiatives |  Election Central
-    
-
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -621,10 +618,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos Connecting pets and people None
+Videos Oxnard Police Chief addresses La Colonia police shootout Authorities address shootout
 
-*   Connecting pets and people Ojai artists open up their ... Adoptable: Marley On Campus: Nordhoff's Close Crew
-*   Another dry year burdens water ... Simi Valley shopper nets $1,114 ...
+*   Oxnard Police Chief addresses La ... Connecting pets and people Ojai artists open up their ... Adoptable: Marley
+*   On Campus: Nordhoff's Close Crew Another dry year burdens water ...
 
   
 
@@ -637,23 +634,23 @@ Most Popular
 *   Commented
 *   Emailed
 
+*   Oxnard police chief calls shootout that killed bystander a tragedy Updated 10/16/2012 at 7:12 p.m.
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 75 comments
+*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 55 comments
 *   Officials confirm 1 of 2 killed in Oxnard police shootout was innocent bystander Updated 10/15/2012 at 7:32 p.m.
-*   Person falls off California Street overpass onto Highway 101 in Ventura Updated 10/15/2012 at 8:32 p.m.
-*   Judge blocks Oxnard's SouthShore project Updated 10/15/2012 at 6:44 p.m. 23 comments
-*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 46 comments
-*   Man arrested after getting on Ventura bus with paintball gun Updated 10/15/2012 at 7:52 p.m.
+*   Investigation continues involving woman's fall onto highway Updated 10/16/2012 at 5:24 p.m.
 
 Photo Galleries Chaotic shooting rattles La Colonia… Ventura County's Most Wanted October… Sailors brave choppy waters
 
-*   Morning chat Published 10/12/2012 at 12:00 a.m. 157 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 75 comments
+*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 55 comments
+*   CLU professor heads study of undocumented college students Published 10/14/2012 at 5:49 p.m. 63 comments
 *   Morning chat Published 10/15/2012 at 12:00 a.m. 62 comments
-*   CLU professor heads study of undocumented college students Published 10/14/2012 at 5:49 p.m. 57 comments
-*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 46 comments
-*   Ann McFeatters: The pros and cons of Obama and Romney Published 10/14/2012 at 12:44 p.m. 47 comments
+*   Morning chat Published 10/16/2012 at 12:00 a.m. 55 comments
 
 *   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 40 comments
+*   Norovirus outbreak hits Oak Park school Published 10/15/2012 at 5:56 p.m. 8 comments
 *   2 dead after Oxnard police trade gunfire with men Published 10/14/2012 at 2:57 p.m. 0 comments
-*   Norovirus outbreak hits Oak Park school Published 10/15/2012 at 5:56 p.m. 5 comments
 *   Seaward Avenue crash kills motorcyclist in Ventura Published 10/9/2012 at 5:25 p.m. 0 comments
 *   Authorities identify motorcylclist killed in Ventura crash Published 10/10/2012 at 8:38 a.m. 0 comments
 
@@ -663,23 +660,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 82° Fair Wind: W 9mph Today 77° 63° Wed 02:00 AM Clear Temp: 65° Wed 02:00 PM Sunny Temp: 79° Thu 02:00 AM Clear Temp: 65°
+Currently 60° Fair Wind: Calm Today 81° 61° Wed 05:00 PM Sunny Temp: 77° Thu 05:00 AM Clear Temp: 61° Thu 05:00 PM Sunny Temp: 71°
 
-Feels Like: 65°
+Feels Like: 77°
 
-Humidity: 87%
-
-Precip: 0%
-
-Feels Like: 79°
-
-Humidity: 60%
+Humidity: 58%
 
 Precip: 0%
 
-Feels Like: 65°
+Feels Like: 61°
 
-Humidity: 90%
+Humidity: 100%
+
+Precip: 0%
+
+Feels Like: 71°
+
+Humidity: 71%
 
 Precip: 0%
 
@@ -727,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Tuesday Oct 16
 *   Wednesday Oct 17
 *   Thursday Oct 18
+*   Friday Oct 19
 *   More BROWSE Icon
-
-*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
-*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
-*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
-*   Leads Club - Networking Meeting Pirates Grub 'n' Grog Restaurant &. Sports Bar 12:30 p.m.
-*   Certified Farmers' Market Simi Valley Town Center 3 p.m.
-
-More Events »
 
 *   Soroptimist International of Oxnard October Program Speaker Courtyard by Marriott - Oxnard 7:30 a.m.
 *   Pet Adoption at The Bonaventure The Bonaventure 10 a.m.
@@ -748,11 +737,19 @@ More Events »
 
 More Events »
 
+*   Coffee with Chuck East Coast Bagel, Westlake Village 7:30 a.m.
 *   The Beauty Myth: Understanding Unhealthy Eating Patterns Hyatt Westlake Plaza 9 a.m.
 *   Strictly Sail Long Beach Shoreline Village - 401 Shoreline Village Dr. Long Beach, CA 90802 noon
 *   The Nature of the Soul Weekly Study Group Meditation Mount 7 p.m.
 *   Thousand Oaks Reads Panel Discussion at CLU CLU California Lutheran University 7:30 p.m.
-*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
+
+More Events »
+
+*   Consultant Support Group Economic Development Collaborative - Ventura County 8:30 a.m.
+*   Rise &. Shine Gathering Hummingbird Nest Ranch 10 a.m.
+*   Woman's Advocate Speaks on ObamaCare Los Robles Golf Course Banquet Center 11 a.m.
+*   Grand Ole Party: Simi Valley Republican Women Federated October 19, Meeting: The Junkyard Restaurant: 2585 Cochran Street, Simi Valley, Ca. 93065 11 a.m.
+*   Costa Mesa Gem Faire OC Fair &. Event Center noon
 
 More Events »
 
