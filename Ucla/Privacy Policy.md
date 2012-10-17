@@ -2,7 +2,7 @@
 *   Skip to Search
 *   Skip to Main Content
 
-73° and Sunny
+80° and Sunny
 
 *   Prospective Students
 *   Current Students
