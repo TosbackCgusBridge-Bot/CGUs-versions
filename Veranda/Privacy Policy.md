@@ -29,7 +29,7 @@ Sign up for RSS feeds and start receiving the day's headlines from the topics yo
 Dering Hall
 
 » See all Events  
-Rocky Mountain Hardware
+Centurion Jewelry Show
 
 » See all Events  
 
