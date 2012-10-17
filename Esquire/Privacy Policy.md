@@ -33,35 +33,35 @@ Because she is one. Or so the sexy and French actress claims.
 
 *   Joke from a Beautiful Woman with Hannah Ware from _Boss_ (and Not One but Two Videos!)
 
-Style Secret History of Your Pants
+Style The Debate Ties: Something We Can Agree On
 
-Inside the Dockers vault at Levi's headquarters lie the foundations of khaki greatness
+They were pretty sharp. Herein, options you can buy right now.
+
+*   15 Cardigans to Buy Online Now, at Any Price
+
+*   Secret History of Your Pants
 
 *   Can We Interest You in Soap... Made from Beer?
 
-*   How to Dress Like the Stones, Because They're on Tour Now
+News &. Politics Charles P. Pierce on Last Night's Debate
 
-*   Four Under-$500 Buys at This Weekend's Big New Online Store
+If anything could blunt Romney's momentum, it was a look at the real Romney. A report from Hempstead.
 
-News &. Politics Romney's Vision for Etch-A-Sketch America Takes Hold
+*   Romney's Vision for Etch-A-Sketch America Takes Hold
 
-This is more than moderate Mitt, writes Charles P. Pierce. This is vague and radical ideas winning the race.
-
-*   The Not-So-Subtle Power of Jay-Z's Obama Ad
+*   The Power of Jay-Z's Obama Ad
 
 *   The Fate of the 2012 Senate Races
 
-*   Chris Connelly: Steve Smith Doesn't Hate Cam
+Food &. Drink The Marilyn Monroe Diet, with Lots of Protein
 
-Food &. Drink New Refreshing Beer Cocktail
+It was surprisingly beefy
 
-An update on a little classic known as the Gold Rush
+*   New Refreshing Beer Cocktail
 
 *   Introducing KFC's 'Dude Food Etiquette'
 
 *   The New Food Source You May Want to Check Out
-
-*   The New Rules of the Office Vending Machine
 
 Women
 
