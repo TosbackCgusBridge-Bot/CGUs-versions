@@ -127,8 +127,8 @@ Tell a friend:
 *   Delta Learns That It's Not A Good PR Move To Upset Judy Blume
 *   I Have No Sandwich Delivery And Local Jimmy John's Loses Business Because Of Stupid Manager
 *   I Can't Believe My Sister Is Dead, And Neither Can T-Mobile
-*   That Amazon Video You Bought? You May Not Actually Be Able To Watch It
 *   Man Successfully Reunited With $12,800 In Pot Plants After Calling Cops To Report Theft
+*   That Amazon Video You Bought? You May Not Actually Be Able To Watch It
 
 About Consumerist
 
