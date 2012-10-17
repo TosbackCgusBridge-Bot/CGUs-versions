@@ -284,10 +284,10 @@ Prev Next
 *   The McGladrey Classic
 *   Web.com Tour
 *   Davis Love III
+*   Champions Tour
 *   Jonas Blixt
 *   Fred Funk
-*   Champions Tour
-*   Rory McIlroy
+*   FedEx Cup
 
 **Privacy Policy**
 
@@ -528,7 +528,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,124 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
+Social 233,125 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
