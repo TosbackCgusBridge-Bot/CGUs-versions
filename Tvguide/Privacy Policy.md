@@ -73,11 +73,11 @@ What's Hot
 
 Fall TV Popularity Contest
 
-_DWTS_ Recap
+_DWTS_: Who's Out?
 
-_Private Practice_: Meet Sam's Mom!
+_X Factor_ Hosts
 
-_Arrow_ Scoop
+Who's Performing at the Super Bowl?
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -138,10 +138,10 @@ more popular celebrities Most Popular Movies
 more popular movies Top Videos
 
 1.  The Vampire Diaries
-2.  Gossip Girl
-3.  Dexter
-4.  Arrow
-5.  Hart of Dixie
+2.  Dexter
+3.  Gossip Girl
+4.  Hart of Dixie
+5.  Supernatural
 
 more top videos
 
