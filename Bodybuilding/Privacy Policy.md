@@ -483,9 +483,9 @@ Email: webmaster@bodybuilding.com
   
 Related Articles
 
-*   Show #23: Craig Titus &. Kelly Ryan Murder Speculation - 12/23/05.
-*   Show #24: Craig Titus &. Kelly Ryan Murder Case - 01/09/06.
-*   Show #33: Latest Developments In Pro Bodybuilding - 04/03/06.
+*   When In Venice, Visit Jay Cutler's Max Muscle!
+*   The Colorado Connection, Pt. 2: An Inside Look At The Competitors &. Competition Scene.
+*   Milos Sarcev's Seminar At The Koloseum Gym.
 
 *   View All Gossip And News Articles
 
