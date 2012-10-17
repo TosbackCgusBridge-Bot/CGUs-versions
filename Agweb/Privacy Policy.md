@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Oct 16, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Oct 17, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -167,8 +167,14 @@ Legacy Project
 Pro Farmer  
 Top Producer Blog  
 Multimedia  
-News Agriculture News Read the latest agriculture news for crops, livestock, marketing and more. YEAR: All201220112010MONTH: AllJanFebMarAprMayJunJulAugSeptOctNovDec DAY: All 1 2 3 4 5 Next 255075100 10/16/2012  
+News Agriculture News Read the latest agriculture news for crops, livestock, marketing and more. YEAR: All201220112010MONTH: AllJanFebMarAprMayJunJulAugSeptOctNovDec DAY: All 1 2 3 4 5 Next 255075100 10/17/2012  
+Too Much Is No Good Read Full Story 10/17/2012  
+2013 Cash-Rent Rate Scenarios for Corn, Soybeans Read Full Story 10/16/2012  
+Understand the Limits of Fecal Egg Count Reduction Tests Read Full Story 10/16/2012  
+Rabobank: The Strong Will Survive Read Full Story 10/16/2012  
+U.S. Dairy Exports Face Marketing Challenges Created by Drought Read Full Story 10/16/2012  
 AgWeb Radio: Weekly National Posted Prices for Peanuts 10-16-12 Read Full Story 10/16/2012  
+Global Feed Production to Contract in 2013 Read Full Story 10/16/2012  
 It's Never Too Early to Think About Profits Read Full Story 10/16/2012  
 AgWeb Radio: Closing Commentary 10-16-12 Read Full Story 10/16/2012  
 Feed Demand for Wheat to Soar Read Full Story 10/16/2012  
@@ -186,21 +192,15 @@ AEM Releases September 2012 Flash Report Read Full Story 10/15/2012
 Dairy Margins Continue to Squeeze Producers Read Full Story 10/15/2012  
 Higher Milk Production in 2013? Read Full Story 10/15/2012  
 AgWeb Radio: Closing Commentary 10-15-12 Read Full Story 10/15/2012  
-Re-think MLV IBR Vaccines Read Full Story 10/15/2012  
-AgWeb Radio: Midday Commentary 10-15-12 Read Full Story 10/15/2012  
-California Dairy Farmers to Protest at State Capitol on Thursday Read Full Story 10/15/2012  
-Analyzing the October Corn, Soybeans Production Forecasts Read Full Story 10/15/2012  
-AgWeb Radio: Opening Commentary 10-15-12 Read Full Story 10/15/2012  
-Optimize Gain in Cattle Read Full Story 10/15/2012  
-(2 Comments) Harvest Prices and Insurance Payments Read Full Story
+Re-think MLV IBR Vaccines Read Full Story
 
 1 2 3 4 5 Next RSS AgWeb News Wire
 
+*   Dairy Crisis Looms without Farm Law: Milk prices could more than double
+*   Texas: No Silver Lining in the Drought for Livestock Producers
+*   A Bit of Relief for U.S. Farmers Hit by Drought. Soybean harvest forecast is revised up, but corn production cut further
 *   New Zealand: Dairy and Beef Price Rises Likely
 *   Stanford Study Unlikely to Slow Momentum of Marin's Organic Food Movement
-*   Wisconsin Classified as Abnormally Dry | Rain not enough to restore moisture
-*   Op Ed by Sen. Mike Johanns: Drought Struggles Continue
-*   Some Dairies Feel Drought's Effect Most Sharply
 
   
 MARKETS CROPSLIVESTOCKFINANCEENERGYMETALS Market Data provided by Barchart.com Enter Zip Code below to view live local results: Cash Bids: LDP Quotes: Meet/follow our Twitter partners here.       AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN The Homepage of Agriculture About Farm Journal Media|About Our Magazines|Contact Us|Advertise|Lite Version|RSS|Twitter|Facebook|YouTube © 2012 Farm Journal, Inc. All Rights Reserved|Web site design and development by AmericanEagle.com|Site Map|Privacy Policy|Terms &. Conditions
