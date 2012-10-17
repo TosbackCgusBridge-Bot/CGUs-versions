@@ -283,14 +283,14 @@ Prev Next
 
 *   PGA Tour
 *   Morning Drive
-*   Jonas Blixt
-*   LPGA Tour
-*   Ryder Cup
-*   Champions Tour
-*   US Open Championship
-*   British Open Championship
+*   Phil Mickelson
+*   The McGladrey Classic
+*   Web.com Tour
 *   Davis Love III
-*   Justin Rose
+*   Fred Funk
+*   Jonas Blixt
+*   Champions Tour
+*   Rory McIlroy
 
 **Privacy Policy**
 
@@ -531,7 +531,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,081 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
+Social 233,116 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
