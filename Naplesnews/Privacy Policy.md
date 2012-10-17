@@ -440,16 +440,16 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 11:21 p.m. 187 comments
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 11:21 p.m. 193 comments
 *   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 268 comments
 *   Paul Ryan schedules rally Thursday night at Fort Myers sports complex Updated 10/16/2012 at 5:22 p.m. 29 comments
 *   Earth-sized planet found just outside solar system Published 10/16/2012 at 8:15 p.m. 19 comments
-*   Lee sergeant fired. directed subordinates to do bare minimum after not receiving bonus Updated 10/16/2012 at 7:24 p.m. 20 comments
+*   Naples couple entwined in product lawsuits over fizzling home soda machine Published 10/17/2012 at 7:00 a.m. 0 comments
 
 Photo Galleries Historic Photos: Fort Jefferson at… Catch of the Day: Oct. 3, 2012 Editorial Cartoons: Oct. 17, 2012
 
 *   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 268 comments
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 187 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 193 comments
 *   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 209 comments
 *   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 76 comments
 *   Swing state: Voter turnout the key to Obama, Romney victory Published 10/15/2012 at 5:30 a.m. 78 comments
