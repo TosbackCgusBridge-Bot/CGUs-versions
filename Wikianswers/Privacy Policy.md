@@ -269,7 +269,7 @@ Answers may amend this policy from time to time by posting the new text on the S
   
 If you have any questions or suggestions regarding this privacy policy, please contact Answers: privacy\_at\_answers.com.  
   
-ADVERTISEMENT Answer these Do tarantulas throw a strong scent at their predators? In: Spiders Answer it! Do birds have fins? In: Birds Answer it! What was going on in the country and world that George Herbert walker bush had to deal with? In: US Presidents Answer it! Do the cost outweigh the benefits or the benefits outweigh the cost? In: Jobs &. Education Answer it! ADVERTISEMENT Answers Properties
+ADVERTISEMENT Answer these When did the bubble out television came out? In: Television and Video Answer it! What are the sedimentary rocks that becomes metamorphic rocks? In: Geology Answer it! How many cores does a loop has? In: Intel Core 2 Answer it! How air pollutants harm the environment? In: Pollution Answer it! ADVERTISEMENT Answers Properties
 
 *   Wiki Answers
 *   Video Answers
