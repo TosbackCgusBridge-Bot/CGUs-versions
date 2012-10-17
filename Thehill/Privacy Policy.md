@@ -231,9 +231,9 @@ Home/News » Most Viewed RSS Feed » Briefing Room
   
 More Briefing Room » Congress Blog
 
+*   Obama-Romney debate: Binders full of questions
 *   Debate fact-checking long overdue - Hooray for Candy!
 *   Obama rebounds, Romney stumbles
-*   Online privacy - We must protect our children
 
   
 More Congress Blog » Pundits Blog
@@ -252,9 +252,9 @@ More Pundits Blog » Twitter Room
   
 More Twitter Room » Hillicon Valley
 
+*   Fewer tweets during second debate
 *   News bites: Google CEO speaks publicly on antitrust probes
 *   Obama, Romney trade barbs on bringing manufacturing jobs back to the US
-*   Obama accuses Romney of investing in Chinese spy companies
 
   
 More Hillicon Valley » E2\-Wire (Energy)
@@ -266,16 +266,16 @@ More Hillicon Valley » E2\-Wire (Energy)
   
 More E2\-Wire (Energy) » Ballot Box
 
+*   Ad attacks McCaskill on sending 'taxypayer money' overseas
 *   McMahon and Murphy in statistical dead heat in Conn. Senate race
 *   Dem super-PACs launch blitz targeting House, Senate races
-*   Obama, Romney woo women in debate
 
   
 More Ballot Box » On The Money
 
+*   China bristles at Obama, Romney attacks during debate
 *   Senators push regulators for bigger bank cushions
 *   Housing construction hits 4-year high
-*   News bites: Shifting landscape
 
   
 More On The Money » Healthwatch
