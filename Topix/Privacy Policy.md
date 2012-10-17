@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
+Mitt Romney
+
+Romney turns debate attacks into TV spot
+
 Libya
 
 Deception on Libya
-
-China
-
-Candidates on China
 
 Politix
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 114,953 • Total comments across all topics: 188,316,297
+Comments made yesterday: 115,096 • Total comments across all topics: 188,317,456
 
 Copyright ©2012 Topix LLC
 
