@@ -95,13 +95,13 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Country Living advertisement
 
+*   **cake**
+
 *   **chicken**
 
-*   **soup**
+*   **low fat recipes**
 
-*   **mushroom /**
-
-*   **easy dessert**
+*   **Beef recipes**
 
 *   **soups**
 
