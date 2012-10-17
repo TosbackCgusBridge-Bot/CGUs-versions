@@ -422,7 +422,7 @@ Rechercher sur OverBlog Annuaire
 *   Pro
 *   Art
 *   Peinture
-*   Creation
+*   Création
 *   Dessin
 *   Voyage
 *   Cinema
