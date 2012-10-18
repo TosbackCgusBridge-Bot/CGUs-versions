@@ -1,6 +1,6 @@
 (skip this header)
 
-Wednesday Oct 17, 2012 10:10 AM PT
+Thursday Oct 18, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,10 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Foreclosure bus tours
-*   Apple confirms Oct. 23 event
-*   Berlin Wall pieces' new home
-*   Levi’s Waste Less denim
+*   Those zany French sex parties
+*   Twitter as TV channel
+*   Stir over school skit
+*   A16 opening in Rockridge
+*   LinkedIn revamp
 *   Giants playoff gear!
 
 *   Bay Area &. State
@@ -338,11 +339,24 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Kiss
+*   Awesome displays of Halloween spirit
+*   Halloween candy: Then and now
+*   Nation in Focus
+*   World in Focus
+*   Giants at Cardinals: Game 3
+*   Romney's 'Binders full of women'
+*   Celebrity wardrobe malfunctions
+*   Abandoned Bear Cub
+*   Day in Pictures, Oct. 17, 2012
+*   America's Cup boat capsizes
 *   2012 presidential town hall debate
+*   2012 presidential town hall debate
+*   Giants practice in St. Louis
+*   Bay Area Michelin Bib Gourmands 2012
 *   $38 million SF fixer in escrow
 *   Nation in Focus
 *   World in Focus
-*   2012 presidential town hall debate
 *   Marco Scutaro in the NLCS
 *   Ross Perot
 *   presidential debate
@@ -365,19 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   Nation in Focus
 *   World in Focus
 *   Nation in Focus
-*   World in Focus
-*   Alex Smith
-*   Week 6: 49ers vs. Giants
-*   Giants vs. Cardinals: Game 1
-*   Treasure Island Music Festival
-*   49ers fans tailgate before the Giants game
-*   Naked Castro
-*   Japanese American internment, 1942
-*   Space Shuttle Endeavour on the move in Los Angeles
-*   Nation in Focus
-*   World in Focus
-*   First snow of 2012-2013 season
-*   Jim Harbaugh
 
 *   Most Read
 *   |
@@ -385,55 +386,52 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  America's Cup boat flips in S.F. Bay
-2.  CNN Poll: Obama wins overall, Romney wins many issues
-3.  Armstrong stepping down as Livestrong chairman
-4.  Obama Won Second Presidential Debate, 46 Percent Say in CNN Poll
-5.  Mitt Romney has ‘binders full of women’
-6.  Sergio Romo, through the Bruce at-bat
-7.  Obama, Romney come out fighting in N.Y.
+1.  "Binders full of women' sweeps social media
+2.  Likely meteor seen, heard in Bay Area
+3.  Towering America's Cup boat recovered
+4.  Oakland cops release video of deadly parking spat
+5.  Matt Carpenter's HR hammers SF Giants
+6.  Livestrong exile humbles Armstrong
+7.  Comedian Bill Maher keeps it 'Real'
 
-1.  No soup for you: Ryan makes unauthorized stop at soup kitchen
-2.  Obama, Romney come out fighting in N.Y.
-3.  GOP lacks incentive to provide details
-4.  And the winner is %u2026 Live analysis of the Hofstra presidential debate
-5.  5 hits and 5 misses from Obama-Romney Round 2
-6.  Obama out to seize momentum from Romney in debate
-7.  Dean aghast at Vegas bird beheading
+1.  Obama, Romney come out fighting in N.Y.
+2.  Romney%u2019s binder blunder, is it even true? Does it matter?
+3.  Mitt Romney has %u2018binders full of women%u2019
+4.  Romney's 'binders of women' sets social media on fire
+5.  Residents criticize Warriors' arena plan
+6.  Armstrong stepping down as Livestrong chairman
+7.  Feds: 1 arrested in plot to attack Federal Reserve
 
-1.  America's Cup boat flips in S.F. Bay
-2.  Sergio Romo, through the Bruce at-bat
-3.  $7 million damage in West Portal blaze
-4.  Slain Libya ambassador honored in S.F.
-5.  Snoutless dog Kabang needs chemo
-6.  Towering America's Cup boat recovered
-7.  Residents criticize Warriors' arena plan
+1.  Towering America's Cup boat recovered
+2.  "Binders full of women' sweeps social media
+3.  CityTarget coming to Richmond District
+4.  Cal's Sebastian is quiet, yet fierce
+5.  SF polling site gets the boot
+6.  Most expired drugs work fine, study says
+7.  3 decades of creativity from Lines Ballet
 
 loading... Latest News Videos From our homepage
 
 *     
-    Bradley C Bower / AP
-    
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 9:30 a.m., Wednesday, October 17, 2012 Lance resigns as chairman
-    
-    Livestrong announcement comes just minutes before Nike says it is terminating its contract with him.
-    
-
-*     
     Michael Macor, The Chronicle / SF
     
-    Sergio Romo, pitch by pitch
+    Stranded in Game 3 storm
     
-    Reliever's life mirrors his battle with Reds' Jay Bruce.
+    Giants frustrated by St. Louis pitching, rain in key NLCS loss.
     
-*   Pagan shines bright for Giants
+*   Zito, not Bumgarner, in Game 5
 
 *     
-    Thomas Grubba / SF
+    Guilain Grenier, Associated Press / SF
     
-    Warmth of wood
+    Mangled Cup boat recovered
     
-    Contemporary Montclair home features oak floors and Douglas fir ceilings. Asking $1.178M
+    The $8M Oracle catamaran that flipped, ended up outside the GG Bridge is back at S.F. base. Photos
+    
+
+*   $38M fixer on Broadway
+    
+    This Gold Coast home could sell for a record price for S.F. and may need another $8-16M in work.
     
 
 *   Home
