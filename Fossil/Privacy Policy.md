@@ -89,12 +89,12 @@ Shop^
         *   View All  Watch Styles
     *   Clothing
         
-        *   Blouses
-        *   Dresses &. Skirts
-        *   Denim
-        *   Knits &. Tees
-        *   Sweaters
         *   Jackets &. Outerwear
+        *   Sweaters
+        *   Blouses
+        *   Denim
+        *   Dresses &. Skirts
+        *   Knits &. Tees
         *   Bottoms
         *   Belts
         
@@ -200,10 +200,10 @@ Shop^
             *   View All  Watch Styles
         *   Clothing
             
+            *   Outerwear &. Sweaters
             *   Shirts &. Tees
             *   Denim
             *   Bottoms
-            *   Outerwear &. Sweaters
             *   Ties &. Belts
             
             *   View All  Clothing
