@@ -119,6 +119,8 @@ ka szerepe a környezettudatos és energiahatékony építészetben
 
 praktikum és babaszoba design kiállítás
 
+jánossy györgy emlékkiállítása a hap galériában
+
 épülettár apró
 
 köki terminál, metró közelében eladó családi ház
@@ -191,7 +193,7 @@ Belsőépítészet \[110\]
 
 Építőipar és geodézia mérő műszerek \[9\]
 
-Kivitelezés \[1006\]
+Kivitelezés \[1007\]
 
 Lakberendezés \[92\]
 
@@ -199,9 +201,9 @@ Lakberendezés \[92\]
 
 Beruházás \[49\]
 
-Tervezés, építész \[1642\]
+Tervezés, építész \[1643\]
 
-Ingatlanfejlesztés \[317\]
+Ingatlanfejlesztés \[318\]
 
 Partnerek programajánlói
 
@@ -211,7 +213,7 @@ work for all - 8th international soft assembly on work and social inclusion for 
 
 munkajogi reggeli: munkaügyi ellenőrzés
 
-mobil weekend
+lekvár hétvége a skanzenben
 
 állásajánlatok
 
@@ -221,7 +223,7 @@ Development Manager- Real estate sector
 
 Portfolio Director (Real Estate)
 
-TEHERAUTÓ-SZERELŐ NÉMET NYELVTUDÁSSAL
+Gazdasági tanácsadó képzés és munka
 
 még több
 
