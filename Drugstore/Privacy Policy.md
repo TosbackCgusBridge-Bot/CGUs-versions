@@ -80,6 +80,7 @@ pharmacy photo contact lenses
 *   natural &. organic »
 *   teeth whitening »
 *   tools &. accessories »
+*   International beauty »
 
 *   diapers »
 *   wipes &. changing »
