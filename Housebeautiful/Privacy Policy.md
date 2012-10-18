@@ -29,9 +29,9 @@ More Kitchens &. Entertaining Photo Galleries
 
 More Photo Galleries Shopping &. Gifts
 
+*   The Salon: Art &. Design
 *   Top 5 Organizational Apps
 *   Spooky Chic Halloween Decor
-*   Cell Phone Photography
 
 More Shopping &. Gifts Most Popular
 
