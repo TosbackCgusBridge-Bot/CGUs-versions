@@ -192,7 +192,7 @@ Registrieren Login
 
 **Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Themen der Woche
 
-1.  Arbeitsrecht
+1.  Bahn
 2.  Fifa
 3.  Halloween
 4.  Online-Shop
@@ -203,74 +203,74 @@ Registrieren Login
 9.  rauchen
 10.  Skype
 
-Top-50 Themen Thema Anzahl Apple 82788 Arbeit 63879 Ausbildung 49421 Auto 89963 Beauty 68267 Beruf 76635 Beziehung 70825 Computer 531316 Computerspiele 63723 deutsch 66180 Englisch 51512 ErnÃ¤hrung 50188 essen 70474 Facebook 76025 Fernsehen 59727 Film 98778 Finanzen 58595 Freizeit 260049 FuÃball 50681 Games 122731 Geld 92386 Gesundheit 203598 Haare 81403 Handy 201571 Hilfe 146120 Internet 318904 iPhone 74103 Kinder 50441 KÃ¶rper 49222 Laptop 72448 Liebe 162786 Lied 53712 MÃ¤dchen 55330 Medizin 62092 Minecraft 66631 Musik 277543 PC 278623 PC-Spiele 48000 Problem 54284 PS3 59223 Recht 94346 Schule 232127 Software 56522 Spiele 135398 Sport 109595 Technik 119172 Tiere 64227 TV 53818 Video 52028 Youtube 81854 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 82865 Arbeit 63942 Ausbildung 49476 Auto 90020 Beauty 68326 Beruf 76695 Beziehung 70909 Computer 531621 Computerspiele 63784 deutsch 66256 Englisch 51568 ErnÃ¤hrung 50224 essen 70517 Facebook 76139 Fernsehen 59774 Film 98859 Finanzen 58638 Freizeit 260223 FuÃball 50718 Games 122848 Geld 92452 Gesundheit 203727 Haare 81476 Handy 201800 Hilfe 146294 Internet 319162 iPhone 74188 Kinder 50468 KÃ¶rper 49314 Laptop 72509 Liebe 162998 Lied 53755 MÃ¤dchen 55390 Medizin 62147 Minecraft 66732 Musik 277718 PC 278859 PC-Spiele 48039 Problem 54338 PS3 59297 Recht 94409 Schule 232398 Software 56555 Spiele 135516 Sport 109681 Technik 119259 Tiere 64273 TV 53860 Video 52072 Youtube 81944 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  AlphaCarinae
+1.  Tomsky100
     
     Punkte:
     
-    1948
+    731
     
     Level:
     
-    AlphaCarinae
+    Tomsky100
     
-2.  Chimaer
+2.  Heidekraut12
     
     Punkte:
     
-    1833
+    637
     
     Level:
     
-    Chimaer
+    Heidekraut12
     
-3.  maxifipsi
+3.  asogama
     
     Punkte:
     
-    1183
+    587
     
     Level:
     
-    maxifipsi
+    asogama
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.267.350 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.272.335 gute Fragen_
 
-*   29 Habe ich einen MÃ¶nch provoziert?
-*   16 Wie sollte man mit den Menschen umgehen?
-*   15 rassistische Eltern
+*   25 Meine Katze schenkt gerade unserem Hund eine lebendige Maus....
+*   22 Schulverweis Suspendierung wegen Facebook! Bitte sofortige Hilfe!!!!!!
+*   14 Eltern haben sich wegen mir getrennt - Mutter hasst mich
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
-*   Anleitung - Schiebekarte basteln
-*   Glutenfrei backen: Schokokuchen
-
-*   KÃ¼rbis-Pfannkuchen zubereiten
 *   Eine Hand zeichnen
+*   KÃ¼rbis-Pfannkuchen zubereiten
+
+*   Glutenfrei backen: Schokokuchen
+*   Kaninchen Zeichnen
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.935.813
+1.937.478
 
 Anzahl der Fragen
 
-8.264.568
+8.271.606
 
 Anzahl der Antworten
 
-35.952.867
+35.977.255
 
 Anzahl der Tipps
 
-74.212
+74.285
 
 Anzahl der Videos
 
-4.673
+4.677
 
 Blog
 
