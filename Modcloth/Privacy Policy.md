@@ -222,9 +222,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Best Job Ever: Lexicographer Erin McKean of Wordnik.com
-    *   Weâre Listening to The Luyas!
-    *   Itâs the Mash! Itâs the Modster Mash!
+    latest blog posts*   Meet Mandy of Miss Indie
+    *   Our Contest on Pinterest is Servinâ Up Style!
+    *   Best Job Ever: Lexicographer Erin McKean of Wordnik.com
     
     *   modcloth blog
     *   In Other Words
@@ -399,6 +399,7 @@ Our Story ModCloth on Facebook
 *   Be the Buyer
 *   Vintage
 *   Sale
+*   Gift Certificates
 *   Blog
 
 *   My Account
