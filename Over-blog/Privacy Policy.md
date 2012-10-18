@@ -9,7 +9,7 @@ OverBlog Le portail de tous les blogs Connexion
     *   Culture
     *   Musique
     *   Politique
-    *   cuisine
+    *   Cuisine
     *   Littérature
     *   Sport
     *   Humour
@@ -391,7 +391,7 @@ Rechercher sur OverBlog Annuaire
 *   Histoire
 *   écriture
 *   Societe
-*   Video
+*   Vidéo
 
 *   Voyages
 *   Divers
@@ -422,7 +422,7 @@ Rechercher sur OverBlog Annuaire
 *   Pro
 *   Art
 *   Peinture
-*   Création
+*   Creation
 *   Dessin
 *   Voyage
 *   Cinema
