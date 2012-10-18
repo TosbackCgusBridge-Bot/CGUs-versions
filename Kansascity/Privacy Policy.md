@@ -134,13 +134,10 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day 4 VISIT PACKAGE FROM BLO SALON STUDIO INCLUDES HAIRCUT, HIGHLIGHTS, BROW WAX, MANI/PEDI, MASSAGE ALL FOR $65! A $300 VALUE! $65 Value: Discount: You Save: $300 78% $235
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Buy 1 Get 1 Symphony Fall Home Showcase Tickets ($10 for $20 value) $10 Value: Discount: You Save: $20 50% $10
 
-Wednesday: Hen House, HyVee, Price Chopper Deals Hen House
+Thursday: Wal Mart, Sunfresh Deals Wal Mart
 
-*   Campbell’s Condensed Soup 10.5-15.4-oz. - 10/$10 or $1 each
-*   Pepsi Products 2-Liter Bottles - $0.78
-*   Hunt's Canned Pasta Sauce 24-oz. - 10/$10 or $1 each
 *   more...
 
 1.  Parts Project Coordinator
@@ -155,9 +152,7 @@ Wednesday: Hen House, HyVee, Price Chopper Deals Hen House
     
     Grassroots Campaigns, Inc.
     
-5.  SENIOR PIPE DESIGNER
-    
-    THOMAS RUSSELL CO.
+5.  Apartment Maintenance Helper
     
 6.  Certified Dietary Manager
     
@@ -169,16 +164,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   In rematch, Obama and Romney get testy over jobs, energy and immigration
-*   St. Louis Zoo changes Halloween display after complaints
-*   Royals system brimming with depth at shortstop
-*   U.S. beats Guatemala 3-1 in World Cup qualifier
-*   Cassel practices, but Chiefs hold off on QB decision
-*   Smithville woman dies after head-on crash
-*   Kansas State looks for ways to slow West Virginia
-*   Armstrong stepping down as Livestrong chairman. Nike terminates contract
-*   Latest "K-State Mask" video takes aim at West Virginia
-*   Binders of women: How the debate played online
+*   Chiefs GM Pioli: We all need to do our jobs better, starting with me
+*   Laxative-laced soft drink bubbles into a lawsuit
+*   Child’s death in Holt, Mo., considered homicide
+*   This time, Weber is ready to deal with Selfs shadow
+*   Self shows no sign of slowing down entering 10th season at KU
+*   One dead in shooting on KCs East Side
+*   New asphalt at Kansas Speedway impresses NASCAR drivers
+*   Appeals court reverses ruling on Lees Summit students over website
+*   Man assaults Kansas City police officer
+*   K-State seeks more respect in national title discussion
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
