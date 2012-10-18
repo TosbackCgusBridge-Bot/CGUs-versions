@@ -143,11 +143,6 @@ Naples Daily News
 *   Cars
 *   Classified
 
-*   2012 Election
-    
-    Participate in live chat &. watch live video of Bill Nelson, Connie Mack debate at 7 p.m. | Preview | More »
-    
-
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -440,25 +435,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 11:21 p.m. 193 comments
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 268 comments
-*   Paul Ryan schedules rally Thursday night at Fort Myers sports complex Updated 10/16/2012 at 5:22 p.m. 29 comments
-*   Earth-sized planet found just outside solar system Published 10/16/2012 at 8:15 p.m. 19 comments
-*   Naples couple entwined in product lawsuits over fizzling home soda machine Published 10/17/2012 at 7:00 a.m. 0 comments
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 11:21 p.m. 369 comments
+*   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 25 comments
+*   Naples couple entwined in product lawsuits over fizzling home soda machine Published 10/17/2012 at 7:00 a.m. 4 comments
+*   Senate debate: Mack and Nelson square off Published 10/17/2012 at 6:03 a.m. 31 comments
+*   Schools celebrate new lunch guidelines. some parents and students don't Published 10/17/2012 at 5:05 a.m. 32 comments
 
-Photo Galleries Historic Photos: Fort Jefferson at… Catch of the Day: Oct. 3, 2012 Editorial Cartoons: Oct. 17, 2012
+Photo Galleries Editorial Cartoons: Oct. 17, 2012 Historic Photos: Fort Jefferson at… Catch of the Day: Oct. 3, 2012
 
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 268 comments
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 193 comments
-*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 209 comments
-*   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 76 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 369 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 283 comments
 *   Swing state: Voter turnout the key to Obama, Romney victory Published 10/15/2012 at 5:30 a.m. 78 comments
+*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 209 comments
+*   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 77 comments
 
 *   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
 *   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 10 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 283 comments
 *   Stan's gone but his Goodland restaurant opens for season Published 10/8/2012 at 5:00 a.m. 6 comments
 *   Teachers take on kids' nutrition with a book set in Naples Published 10/9/2012 at 4:00 a.m. 0 comments
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 268 comments
 
 Weather
 
@@ -466,40 +461,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 82° Partly Cloudy Wind: SW 6mph Today 83° 73° Thu 01:00 AM Partly Cloudy Showers Temp: 75° Thu 01:00 PM Mostly Cloudy Thunderstorms Temp: 84° Fri 01:00 AM Partly Cloudy Showers Temp: 74°
+Currently 73° Overcast Wind: E 6mph Today 87° 72° Thu 08:00 PM Partly Cloudy Showers Temp: 79° Fri 08:00 AM Partly Sunny Temp: 73° Fri 08:00 PM Partly Cloudy Showers Temp: 79°
 
-Feels Like: 75°
+Feels Like: 79°
 
-Humidity: 91%
+Humidity: 77%
 
 Precip: 30%
 
-Feels Like: 89°
-
-Humidity: 65%
-
-Precip: 20%
-
-Feels Like: 74°
+Feels Like: 73°
 
 Humidity: 90%
 
 Precip: 20%
 
+Feels Like: 79°
+
+Humidity: 76%
+
+Precip: 20%
+
 More Weather » Calendar
 
-*   Wednesday Oct 17
 *   Thursday Oct 18
 *   Friday Oct 19
+*   Saturday Oct 20
 *   More BROWSE Icon
-
-*   Women Business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
-*   Women business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   GIS Symposium: Inspiration Through Networking and Technology Rookery Bay Environmental Learning Center 8 a.m.
-*   Yoga at the Center for the Arts Center for the Arts of Bonita Springs 8 a.m.
-
-More Events »
 
 *   Networking breakfast Calistoga Bakery Cafe - North Naples 7:30 a.m.
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
@@ -517,10 +504,30 @@ More Events »
 
 More Events »
 
+*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
+*   Estero Community Park Yard Sale Estero Community Park &. Recreation Center 7:30 a.m.
+*   Third Street South Farmers Market Third Street South 7:30 a.m.
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Paddleboard Yoga and Fitness 1st Ave South Naples, FL 8:30 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
+*   2012 Halloween
+    
+    Search for local Halloween events &. enter our costume contest.
+    
+    Editorial Cartoons
+    
+    Check out our galleries of editorial cartoons about current events or personalities.
+    
+    Interactive map
+    
+    Search for local farmers markets in Collier and Lee counties.
+    
 *   Hot Home Sales
     
     Pictures, info about recently sold single-family homes in Collier and Lee.
@@ -529,15 +536,11 @@ More Events » Features
     
     Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
     
-    2012 Halloween
-    
-    Search for local Halloween events &. enter our costume contest.
-    
-*   Presidential Debate
+    Presidential Debate
     
     An aggressive President Barack Obama ripped into Mitt Romney's economic blueprint.
     
-    Mugshots
+*   Mugshots
     
     Looking for daily arrest mugshots? You can find them here in our special section.
     
@@ -545,11 +548,11 @@ More Events » Features
     
     They put others before themselves. see problems &. solve them. Your nomination »
     
-*   Football Rivalries
+    Football Rivalries
     
     Some high school football games are played for pride and bragging rights.
     
-    Swing State
+*   Swing State
     
     On Nov. 6, voters will decide whether Florida will swing Red or Blue. Learn about project »
     
@@ -557,16 +560,7 @@ More Events » Features
     
     See photos from local anglers with their biggest catch of the day. Submit your photos.
     
-    f
-*   Interactive map
-    
-    Search for local farmers markets in Collier and Lee counties.
-    
-    Editorial Cartoons
-    
-    Check out our galleries of editorial cartoons about current events or personalities.
-    
-    Our World
+    f Our World
     
     Column looks at SW Florida through eyes of Daily News photojournalists.
     
