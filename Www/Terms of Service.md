@@ -2,7 +2,7 @@ Close Window Print
   Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: September 28, 2012**
+**Last Revised: October 17, 2012**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -64,6 +64,8 @@ You acknowledge and agree that:
 8.  You will not use this Site or the Services found at this Site, including any of Go Daddy’s related technologies, for any commercial use without Go Daddy’s express prior written consent.
 9.  You agree to provide government-issued photo identification and/or government-issued business identification as required for verification of identity when requested.
     
+10.  You are aware that Go Daddy may from time-to-time call you about your account, and that, for the purposes of any and all such call(s), you do not have any reasonable expectation of privacy during those calls. indeed you hereby consent to allow Go Daddy, in its sole discretion, to record the entirety of such calls regardless of whether Go Daddy asks you on any particular call for consent to record such call.  You further acknowledge and agree that, to the extent permitted by applicable law, any such recording(s) may be submitted in evidence any legal proceeding in which Go Daddy is a party.
+    
 
 Go Daddy reserves the right to modify, change, or discontinue any aspect of this Site or the Services found at this Site, including without limitation prices and fees for the same, at any time.
 
@@ -104,9 +106,11 @@ Go Daddy generally does not pre-screen User Content (whether posted to a website
 
 ****8**. ADDITIONAL RESERVATION OF RIGHTS**
 
-Go Daddy expressly reserves the right to deny, cancel, terminate, suspend, lock, or modify access to (or control of) any Account or Services (including the right to cancel or transfer any domain name registration) for any reason (as determined by Go Daddy in its sole and absolute discretion), including but not limited to the following: (i) to correct mistakes made by Go Daddy in offering or delivering any Services (including any domain name registration), (ii) to protect the integrity and stability of, and correct mistakes made by, any domain name registry, (iii) to assist with our fraud and abuse detection and prevention efforts, (iv) to comply with applicable local, state, national and international laws, rules and regulations, (v) to comply with requests of law enforcement, including subpoena requests, (vi) to comply with any dispute resolution process, (vii) to defend any legal action or threatened legal action without consideration for whether such legal action or threatened legal action is eventually determined to be with or without merit, or (viii) to avoid any civil or criminal liability on the part of Go Daddy, its officers, directors, employees and agents, as well as Go Daddy’s affiliates.
+Go Daddy expressly reserves the right to deny, cancel, terminate, suspend, lock, or modify access to (or control of) any Account or Services (including the right to cancel or transfer any domain name registration) for any reason (as determined by Go Daddy in its sole and absolute discretion), including but not limited to the following: (i) to correct mistakes made by Go Daddy in offering or delivering any Services (including any domain name registration), (ii) to protect the integrity and stability of, and correct mistakes made by, any domain name registry, (iii) to assist with our fraud and abuse detection and prevention efforts, (iv) to comply with court orders against you and/or your domain name or website and applicable local, state, national and international laws, rules and regulations, (v) to comply with requests of law enforcement, including subpoena requests, (vi) to comply with any dispute resolution process, (vii) to defend any legal action or threatened legal action without consideration for whether such legal action or threatened legal action is eventually determined to be with or without merit, or (viii) to avoid any civil or criminal liability on the part of Go Daddy, its officers, directors, employees and agents, as well as Go Daddy’s affiliates, including, but not limited to, instances where you have sued or threatened to sue Go Daddy.
 
 Go Daddy expressly reserves the right to review every Account for excessive space and bandwidth utilization, and to terminate or apply additional fees to those Accounts that exceed allowed levels.
+
+Go Daddy expressly reserves the right to terminate, without notice to you, any and all Services where, in Go Daddy's sole discretion, you are harassing or threatening Go Daddy and/or any of Go Daddy's employees.
 
 ****9**. NO SPAM. LIQUIDATED DAMAGES**
 
@@ -687,5 +691,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 9/28/2012  
+Revised: 10/17/2012  
 Copyright © 2005-2012 GoDaddy.com, LLC All Rights Reserved. close **Este Acuerdo traducido se proporciona solamente como una comodidad y no más para facilitar la lectura y la comprensión de la versión en ingles. El propósito de proporcionar el Acuerdo en idioma extranjero no es para crear un acuerdo jurídicamente vinculante, ni es un substituto para la validez legal de la versión en ingles. En caso de cualquier controversia o conflicto, la versión en ingles de este Acuerdo en todos los casos gobernará nuestra relación y prevalecerá sobre los términos en cualesquier otro idioma.** Close
