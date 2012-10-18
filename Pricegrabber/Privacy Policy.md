@@ -12,10 +12,10 @@ My Account
     *   Target
     *   Kohls
     *   Toys R Us
+    *   Hsn
     *   Webkinz
     *   Kmart
     *   Walmart
-    *   Hsn
     *   Counseling
     *   Windows 7
     *   Qvc
@@ -37,12 +37,12 @@ My Account
     *   Ipod
     *   Att
     *   Contact
-    *   Flowers
     *   Leappad
     *   Costco
+    *   Pressure Cookers
     *   Mp3 Players
     *   Android Tablets
-    *   Pressure Cookers
+    *   Flowers
     *   Barnes And Noble
     *   Coupons
     *   More Top Searches
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1504 Local Deals
+*   1517 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
