@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-42 minutes ago
+about 9 hours ago
 
-@BleacherReport: Indiana is No.1 in the USA Today college basketball preseason coaches poll. (2) L'ville (3) Kentucky (4) OSU (5) Mich http://t.co/fFxJexxu
+@BleacherReport: 3 hour and 28 minute rain delay? No problem for St. Louis. The Cardinals defeat the Giants 3-1 in Game 3 to take a 2-1 series lead #NLCS
 
 Newsletters
 
