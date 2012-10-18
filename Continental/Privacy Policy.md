@@ -2,7 +2,7 @@ United States - English Change CountryClose
 
 Please select your location or where you receive credit card billing statements to see pricing in your local currency.
 
-Antigua &. BarbudaArgentinaArubaAustraliaBahamasBahrainBarbadosBelgiumBelizeBermudaBrazilCanadaCayman IslandsChinaColombiaCosta RicaDenmarkDominican RepublicEcuadorEl SalvadorFranceGermanyGreeceGuamGuatemalaHondurasHong KongIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKorea, Republic of (South)KuwaitMarshall IslandsMexicoMicronesiaNetherlandsNetherlands AntillesNew ZealandNicaraguaNorthern Mariana IslandsNorwayPalauPanamaPeruPhilippinesPortugalPuerto RicoRussiaSingaporeSpain &. Canary IslandsSwedenSwitzerlandTaiwanThailandTrinidad and TobagoUnited Arab EmiratesUnited KingdomUnited StatesVenezuela
+Antigua &. BarbudaArgentinaArubaAustraliaBahamasBahrainBarbadosBelgiumBelizeBermudaBrazilCanadaCayman IslandsChileChinaColombiaCosta RicaDenmarkDominican RepublicEcuadorEl SalvadorFranceGermanyGreeceGuamGuatemalaHondurasHong KongIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKorea, Republic of (South)KuwaitMarshall IslandsMexicoMicronesiaNetherlandsNetherlands AntillesNew ZealandNicaraguaNorthern Mariana IslandsNorwayPalauPanamaPeruPhilippinesPortugalPuerto RicoRussiaSingaporeSpain &. Canary IslandsSwedenSwitzerlandTaiwanThailandTrinidad and TobagoUnited Arab EmiratesUnited KingdomUnited StatesVenezuela
 
 Available Languages: English EspaÃ±ol
 
@@ -117,7 +117,7 @@ Confirmation **or** MileagePlus Number:
 **More Check-in options**  
 Check-in is available within 24 hours of departure Flight Number:  
 Departure Date:  
-Tue., Oct. 16Wed., Oct. 17Thu., Oct. 18Fri., Oct. 19 Don't know the flight number? To: City or airport: City or airport:  
+Wed., Oct. 17Thu., Oct. 18Fri., Oct. 19Sat., Oct. 20 Don't know the flight number? To: City or airport: City or airport:  
 Change or View Reservations See More Find a Reservation by Confirmation Number Reservation Type: Flight Car Confirmation:  
 Last Name:  
 MileagePlus Sign In MileagePlus number:  
