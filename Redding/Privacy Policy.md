@@ -267,19 +267,19 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Updated 10/16/2012 at 2:43 p.m. 97 comments
-*   UPDATED: Boy, 16, hit by vehicle outside school Updated 10/16/2012 at 8:51 p.m. 24 comments
-*   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 101 comments
-*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 122 comments
-*   Families dispute eviction to make room for Win-River Casino road widening Published 10/16/2012 at 4:30 p.m. 21 comments
+*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 295 comments
+*   UPDATED: Duenas preliminary hearing confirmed Updated 10/17/2012 at 9:52 a.m. 50 comments
+*   Robert Huerta: American cannot leave God behind Published 10/17/2012 at 12:00 a.m. 95 comments
+*   UPDATED: Two injured after truck hits tree on Old Oregon Trail in north Redding Updated 10/17/2012 at 2:04 p.m. 12 comments
+*   Six arrested in Tehama County marijuana raid, deputies say Published 10/17/2012 at 2:59 p.m. 26 comments
 
-Photo Galleries Enterprise beats Foothill Red Bluff men get marijuana back Google data center
+Photo Galleries Google data center Red Bluff men get marijuana back West Valley beats Shasta
 
+*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 295 comments
 *   Jim Jones: Gas prices are just the start Published 10/15/2012 at 12:00 a.m. 173 comments
-*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 122 comments
-*   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Published 10/15/2012 at 11:42 p.m. 97 comments
-*   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 101 comments
-*   Richard Wrathall: We need more producers, fewer takers Published 10/15/2012 at 12:00 a.m. 78 comments
+*   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Published 10/15/2012 at 11:42 p.m. 121 comments
+*   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 114 comments
+*   Robert Huerta: American cannot leave God behind Published 10/17/2012 at 12:00 a.m. 95 comments
 
 *   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
 *   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 54 comments
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 70° Fair Wind: N 16mph Today 92° 56° Wed 10:00 PM Clear Temp: 67° Thu 10:00 AM Sunny Temp: 76° Thu 10:00 PM Mostly Clear Temp: 62°
+Currently 58° Fair Wind: Calm Today 87° 54° Thu 05:00 PM Sunny Temp: 84° Fri 05:00 AM Mostly Clear Temp: 56° Fri 05:00 PM Partly Sunny Temp: 79°
 
-Feels Like: 67°
+Feels Like: 81°
 
-Humidity: 26%
-
-Precip: 0%
-
-Feels Like: 76°
-
-Humidity: 17%
+Humidity: 15%
 
 Precip: 0%
 
-Feels Like: 62°
+Feels Like: 56°
 
-Humidity: 41%
+Humidity: 51%
 
 Precip: 0%
+
+Feels Like: 79°
+
+Humidity: 24%
+
+Precip: 1%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Wednesday Oct 17
 *   Thursday Oct 18
 *   Friday Oct 19
+*   Saturday Oct 20
 *   More BROWSE Icon
-
-*   Social Media for Small Business See Description 5:30 p.m.
-*   Candidates Forum, Shasta County Supervisors, District 4 Redding Library 6 p.m.
-*   NAMI Shasta County Family Support Group See Description 6:30 p.m.
-*   Parents Families and Friends of Lesbians and Gays (PFLAG) First United Methodist Church, Redding 6:30 p.m.
-*   Beginning Hula and Story telling See Description 7 p.m.
-
-More Events »
 
 *   Nor-Cal Think Pink Day MD Imaging, and Churn Creek Post Office 7 a.m.
 *   Wintu Audubon's Local Weekday Birdwalk at Kapusta Redding Convention Center 8 a.m.
@@ -353,6 +345,14 @@ More Events »
 *   Fantasy Fountain Painting Days Enterprise Park 10 a.m.
 *   Soroptimist International of Redding's 15th Annual Breast Cancer Awareness Luncheon Redding Civic Auditorium 11 a.m.
 *   Halloween Haunt Night and Spooky Lagoon Redding Aquatic Center 6 p.m.
+
+More Events »
+
+*   Dunsmuir Run for the Arts See Description 8 a.m.
+*   Trail Obstacle Challenge Cottonwood Creek Equestrian Center 8:30 a.m.
+*   Kids Fly Free at Young Eagles Event on Saturday, October 20th. Benton Airport 8:30 a.m.
+*   Free gem and mineral show Shasta District Fair grounds 9 a.m.
+*   Fun Run/Walk for Burney High Athletics See Description 9 a.m.
 
 More Events »
 
