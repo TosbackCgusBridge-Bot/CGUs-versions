@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Wednesday, October 17, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Thursday, October 18, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Wednesday, October 17, 2012 Go Follow the Atla
 *   Magazine
 *   video
 
-Presented by The Amazing True Story of the Libya Attacks Garance Franke-Ruta Axelrod to Blame for Dem Climate-Change Silence? Climate Desk Obama's Ads Work. Romney's, Not So Much Molly Ball Making a Better Future for Our Children Mohamed A. El-Erian Why We Don't Run America Like a Business Jordan Weissmann Where the World's Millionaires Live Derek Thompson Why MTV's Smart New Show Might Be Doomed Judy Berman What Funny Women Teach One Another Ashley Fetters The Golden Globes One-Up the Oscars Kevin Fallon What the Chinese Worry About Most Lily Kuo &. Ritchie King What Diplomats Still Don't Get About Social Media Brian Fung Protesting Putin Can Land You in a Psych Ward Maryana Torocheshnikova and Claire Bigg Breathtaking Video of the Earth From Space Kasia Cieplak-Mayr von Baldegg A 100,000-Mile Tall Solar Explosion Rebecca J. Rosen Mansplaining, the Tumblr Megan Garber Salim Hamdan Wins Again! Andrew Cohen A Coming Change in Teaching Technology Deborah Reck and Deb Sabin Should We Pay Kids to Read? James Warren Just Vaccinate Our Kids Against HPV Lindsay Abrams PMS and the Wandering Womb James Hamblin Keeping the 'Mentally Incompetent' From Voting Kimberly Leonard Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by The Psychology of Big Wave Surfing Kasia Cieplak-Mayr von Baldegg The Genesis of 'Looper': Pitch Reel Kasia Cieplak-Mayr von Baldegg Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
+Presented by The Amazing True Story of the Libya Attacks Garance Franke-Ruta Axelrod to Blame for Dem Climate-Change Silence? Climate Desk Obama's Ads Work. Romney's, Not So Much Molly Ball Making a Better Future for Our Children Mohamed A. El-Erian Why We Don't Run America Like a Business Jordan Weissmann Where the World's Millionaires Live Derek Thompson The Return of Bland Brandy: A Sad Story Noah Berlatsky Bieber's Fake-Mustache Industrial Complex Mark Dee Affleck &. Damon: From Hollywood to the Hill? Noah Gittell What the Chinese Worry About Most Lily Kuo &. Ritchie King What Diplomats Still Don't Get About Social Media Brian Fung Protesting Putin Can Land You in a Psych Ward Maryana Torocheshnikova and Claire Bigg Breathtaking Video of the Earth From Space Kasia Cieplak-Mayr von Baldegg A 100,000-Mile Tall Solar Explosion Rebecca J. Rosen Mansplaining, the Tumblr Megan Garber Salim Hamdan Wins Again! Andrew Cohen A Coming Change in Teaching Technology Deborah Reck and Deb Sabin Should We Pay Kids to Read? James Warren Just Vaccinate Our Kids Against HPV Lindsay Abrams PMS and the Wandering Womb James Hamblin Keeping the 'Mentally Incompetent' From Voting Kimberly Leonard Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by The Psychology of Big Wave Surfing Kasia Cieplak-Mayr von Baldegg The Genesis of 'Looper': Pitch Reel Kasia Cieplak-Mayr von Baldegg Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,27 +113,27 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report The Atlantic Election 2012  
-_The Atlantic_'s full coverage of the battles for the White House, Senate, and more. Read more › Just In Zvika Krieger 1:12 PM ET In Praise of the Blackberry 1350493931 Voices
+Special Report The Atlantic The Energy Puzzle  
+_The Atlantic_'s Alexis Madrigal talks with the entrepreneurs shaping our future. Read more › Just In Brendan Hasenstab 8:01 AM ET Track of the Day: 'On and On' 1350561698 Voices
 
-*   Alexis C. Madrigal Solving Solar's Biggest Problem Didn't Take… 12:16 PM ET
-*   Derek Thompson Real-Talk, Non-BS Answers to the Presidential… 10:55 AM ET
-*   Garance Franke-Ruta Binders Full of Women: A Meme That Means Something 9:02 AM ET
-*   Jeffrey Goldberg The Benghazi Embarrassment 8:43 AM ET
-*   Clive Crook Obama Returns to Form 2:02 AM ET
-*   James Fallows The Picture That Encapsulates the Debate Oct 16, 2012
-*   Robert Wright Obama's Triumph Oct 16, 2012
-*   Ta-Nehisi Coates Liveblogging the Second Presidential Debate Oct 16, 2012
+*   Ta-Nehisi Coates It's Funny Because We're White 7:42 AM ET
+*   James Fallows Inside Foxconn 6:11 AM ET
+*   Robert Wright New Evidence That Racism Isn't 'Natural' Oct 17, 2012
+*   Derek Thompson This Is the Strangest Newspaper-Business Story I… Oct 17, 2012
+*   Alexis C. Madrigal Google Has a Stormtrooper Guarding Its Data Center Oct 17, 2012
+*   Garance Franke-Ruta Binders Full of Women: A Meme That Means Something Oct 17, 2012
+*   Jeffrey Goldberg The Benghazi Embarrassment Oct 17, 2012
+*   Clive Crook Obama Returns to Form Oct 17, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 
 Correspondents
 
+*   Garrett Epps George Washington Didn't Have 'Too Much Influence'—the Koch Brothers Do
+*   Zvika Krieger In Praise of the Blackberry
 *   John Tierney Is Your Sign Talking to Me?
-*   Garrett Epps Why Obama and Romney Don't Talk About the Supreme Court
-*   Andrew Cohen This Month in Terror Law: Salim Hamdan Wins Again!
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos A Trip to the Faroe Islands Oct 16, 2012 Video A Smarter Way to Move Information: APIs Explained With Shipping Containers Visualizing the Language of the Debates The 24-Hour Book Launch Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Robots at Work and Play Oct 17, 2012 Video A Smarter Way to Move Information: APIs Explained With Shipping Containers Tiny Drones Play Catch Visualizing the Language of the Debates Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -162,63 +162,63 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Who Has the Greatest News Clout on Twitter?  
+*   Newsweek Is Shutting Down Its Print Edition  
     
-*   Watching the Debates in the Twitter Democracy  
+*   Apple Loses Another Round In Its Patent Battle with Samsung  
     
-*   The End of Color Is the Social Media Bubble Bursting Before Our Eyes  
-    
-
-Last Update: 1:05 PM
-
-*   Fear of a Tiny Apartment  
-    
-*   The World's Weirdest Bikes  
-    
-*   Those New City Fees Are Likely Permanent  
+*   Young Blood Reverses the Signs of Aging  
     
 
-Last Update: 4:55 PM Most Popular
+Last Update: 7:13 AM
+
+*   London Tube Commuters Hunted by Spotlight  
+    
+*   Why People Still Post Yard Signs  
+    
+*   This Is What Google Really Looks Like  
+    
+
+Last Update: 9:27 PM Most Popular
 
 1
 
-Binders Full of Women: A Meme That Means Something
+What the 'Walmart Moms' Thought of the Debate
 
 2
 
-Why We Shouldn't Be Surprised Obama Is Falling Behind
+How the Moon Was Born
 
 3
 
-The Amazing Story of What Happened in Libya
+It's Funny Because We're White
 
 4
 
-The Benghazi Embarrassment
+Dark Social: We Have the Whole History of the Web Wrong
 
 5
 
-Why Obama and Romney Don't Talk About the Supreme Court
+The Amazing Story of What Happened in Libya
 
 6
 
-Real-Talk, Non-BS Answers to the Presidential Debate Questions
+In Praise of the BlackBerry
 
 7
 
-A Trip to the Faroe Islands
+Inside Foxconn
 
 8
 
-The Picture That Encapsulates the Debate
+A Trip to the Faroe Islands
 
 9
 
-Solving Solar's Biggest Problem Didn't Take Technology Development
+Robots at Work and Play
 
 10
 
-Obama Returns to Form
+You'll Never Guess What Barack Obama Said About John Roberts
 
 *   Subscribe Help
 *   Faq
