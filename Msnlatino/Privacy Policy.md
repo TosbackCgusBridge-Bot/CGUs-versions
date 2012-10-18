@@ -695,13 +695,13 @@ contactos Telemundo TV Ahora
     
     Este otoño deja las manchas del verano atrás  
     
-*   ¡Ensayo caliente!
+*   La diosa mexicana
     
-    Horacio Palencia y El Dasa incendiaron el escenario. Formaron un dúo impresionante y subieron la temperatura con actuaciones cargadas de sensualidad. Mira las imágenes aquí.
+    ¿Cuál de ellas es tu mexicana favorita?  
     
-*   Unieron Sus Voces
+*   Portraits del Backstage
     
-    Esta presentación es una mezcla de artistas talentosos.
+    Fotos exclusivas del backstage
     
 
 Más en Telemundo:
