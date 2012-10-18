@@ -23,7 +23,7 @@ Advanced Search
 *   Mobile App
 
 *   Events
-    *   Digital Conference: San FranciscoSocial Engagement / Social TV ConferenceMulti-City Happy HourMedia Mavens Luncheon 2012
+    *   Multi-City Happy HourMedia Mavens Luncheon 2012
 *   Webcasts
     *   Using Social Business Technology to Improve Knowledge Sharing, Collaboration and Business ResultsVideo Screen Equality - Are All Screens Created Equal?Optimizing Your Digital Content for Global, Mobile and Social UsersTargeting the Dynamic Customer: Understanding the Next Phase of Enterprise Brand MarketingWhat Consumers Think about Data Privacy and What Advertisers Need to Do About ItHow to Optimize Your Marketing Mix to Keep Pace with the Ever-Changing Consumer
 *   Branded Content
@@ -137,20 +137,20 @@ News _from our Ad Age Partners_
 *   New VP-marketing at Navex Global sticks with proven plan
 *   Weaving together your content and merchandising strategies
 
-*   Postal Service barred from borrowing more
-*   Bindersfullofwomen.com snapped up in 90 seconds
-*   Stocks stuck in neutral as earnings roll in
-*   EU leaders meet to chart eurozone future
+*   AOL unveils Alto, an email service that syncs 5 accounts
+*   Average student loan debt nears $27,000
+*   Toys R Us: Free layaway till December
+*   China's GDP growth slides to 7.4%
 
+*   Google helps small firms cross the digital divide
 *   Martha Stewart teams with Toyota
 *   Macy's moves $500M media account to Carat
 *   25th anniversary of Crain's 40 Under 40
-*   Online advertising jumps 14% to record $17B
 
+*   Presidents have little control over gas prices
+*   Warehouse operator faces new labor complaint
 *   Housing starts hit fastest pace in 4 years
-*   Armstrong loses Nike contract, steps down from charity
-*   Confession time: Panty liner ads aren't real
-*   Tips to help small businesses survive hard times
+*   Armstrong loses Nike contract, announces resignation
 
 *   2013 FIAT 500
 *   2013 Scion FR-S
