@@ -23,23 +23,23 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 17 10:00 AM · L'CREME coming up next:
+schedule right now: October 18 01:00 AM · DECISIONES coming up next:
 
-*   11:00 AM · MORNING BREATH
-*   12:00 PM · L'CREME
-*   1:00 PM · AL CIEN 100%
-*   2:00 PM · L'CREME
-*   3:00 PM · DELICIOUS
-*   4:00 PM · L'CREME
-*   5:00 PM · CHIQUIS 'N CONTROL
-*   6:00 PM · 12 CORAZONES
-*   7:00 PM · WWE RAW
-*   10:00 PM · OJO POR OJO
-*   11:00 PM · OJO POR OJO
-*   12:00 AM · LARRYMANIA
-*   1:00 AM · DECISIONES
 *   2:00 AM · L'CREME
 *   3:00 AM · MORNING BREATH
+*   4:00 AM · MORNING BREATH
+*   5:00 AM · MORNING BREATH
+*   6:00 AM · SMB
+*   8:00 AM · MORNING BREATH
+*   9:00 AM · MORNING BREATH
+*   10:00 AM · L'CREME
+*   11:00 AM · MORNING BREATH
+*   12:00 PM · L'CREME
+*   1:00 PM · REVENTON
+*   2:00 PM · L'CREME
+*   3:00 PM · L'CREME
+*   4:00 PM · AL CIEN 100%
+*   5:00 PM · L'CREME
 
 see full schedule >>.
 
