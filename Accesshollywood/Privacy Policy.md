@@ -1,6 +1,6 @@
 Access Hollywood
 
-*   **HOT NOW:** Meet The New 'Skyfall' Bond Babes!
+*   **HOT NOW:** Megan Fox &. Brian Austin Green Welcome Baby Boy
 
 *   WATCH
 *   NEWS
@@ -141,15 +141,15 @@ Access Hollywood Live
 
  
 
-**Honey Boo Boo Talks Paparazzi, Favorite Stars**
+**Robert Patrick Reacts To Arnold Schwarzenegger’s Infidelity Scandal**
 
-Plus, she sings an original song about her father, “Sugar Bear!”
+Plus, does Patrick plan to read Arnold’s autobiography, “Total Recall”?
 
  
 
-**Superfoods To Help Fight Breast Cancer!**
+**NBC News’ Andrea Mitchell Breaks Down Obama Vs. Romney Town Hall Debate**
 
-Dr. Nalini Chilkov, founder of Integrative Cancer, visits Access Hollywood Live to share tips on diet changes to lessen the risks of breast cancer.
+so what did she think about the clear tension between President Barack Obama &. Gov. Mitt Romney?
 
  
 
@@ -221,7 +221,7 @@ Urban Access
 
 **Urban Access**
 
-Rihanna’s love life is the source of endless headlines, but the 24-year-old pop star revealed she has not been on a date in a while.
+Flavor Flav is jailed on felony charges in Las Vegas.
 
  
 
