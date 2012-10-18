@@ -147,30 +147,30 @@ Headlines of the Week
 **From the Fark Shop:**
 
 *     
-    Good Luck. We're All Counting on You.
+    Eeek! A pervert!
 *     
-    Bump-N-Go Cybermat
+    I'm Giving Her All She's Got
 *     
-    Salty the Snowman
+    Swine Flu: Bacon's Revenge
 *     
-    Student Drinker
+    Ray Gun - Acme Pen
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
 Two-Year-Old Girl Insults Kate Middle...  
-11 Reasons to Get 'Pinterested'  
+Hugh Jackman Makes 'Gangnam Style' Se...  
 Fancy Your Own Custom Horrow Bowling...  
-25 Bizarre Vintage Alcohol Ads  
+20 Criminally Terrible Website Designs  
 More news at Scribol »  
   
   
-Flavor Flav Arrested for Assault with...  
-Michelle Obama vs. Ann Romney: Who'd...  
-Britney Spears' Lawyers -- Sam Lutfi'...  
-Sarah Silverman's Dad -- UNLOADS on R...  
-More news at TMZ »  
+Frugal Ashley Greene Won't Fly First...  
+Sandra Bullock Goes Topless And Showe...  
+Scarlett Johansson: I've Never Met A...  
+Lauren Conrad Gets Sexy In The Novemb...  
+More news at Starpulse »  
   
   
 We Show It ALL  
@@ -180,16 +180,16 @@ Kathie Lee Drops Puppy
 More news at truTV »  
   
   
-Forza Horizon's Rally Expansion Pack...  
-Astro Updates Its A40 Headset For 2013  
-Tonight 6:30/5:30c On X-Play: Halo 4...  
-Obsidian's Project Eternity Kickstart...  
-More news at G4TV »  
+19 Minor Changes That Would Make Famo...  
+5 Movies That Prove the Action Genre...  
+5 Awful Things You Learn About Yourse...  
+5 Insignificant Things That Determine...  
+More news at Cracked »  
   
 
 Also on Fark
 
-Main Kate Gosselin fired from gig as blogger for CouponCabin after "outrageous demands", thus marking the "Puppet Show And Spinal Tap" phase of her 'career' ( radaronline.com ) » (41 comments) Sports To win their 41st AL Pennant, the Yankees must act like the Red Sox ( foxnews.com ) » (96 comments) Business East Hampton landlord claims that those cameras in the outdoor shower, air-conditioning vent and baseboard heater were only for security ( nypost.com ) » (5 comments) Geek 25 primates are now on the brink of extinction. Sadly, this can mean only one thing - McDonald's is about ready to bring back the McRib ( huffingtonpost.com ) » (9 comments) Entertainment Your favourite comedy franchise of the 80s is getting a reboot Okay, not that one. Or that one...actually yeah you're never going to get it ( shortlist.com ) » (26 comments) Politics Actual Headline: Split Decision on Debate... Check article... Yah, Obama won 46 to 39 ( politicalticker.blogs.cnn.com ) » (37 comments) Video Sandra Bullock gets naked in the shower with Chelsea Handler ( frogsoda.com ) » (11 comments)
+Main Thursday GJTB thread. Haters gonna hate, but donaters gonna donate ( indiegogo.com ) » (20 comments) Sports What's the biggest problem in the NBA right now? Super teams ruining competitive balance? A regular season that's 20 games too long? No JaVale McGee reality show? No, clearly it's the player introductions ( cbssports.com ) » (10 comments) Business 2012: Apple Inc. is fresh, hip and spiffy. 1996: See for yourself ( youtube.com ) » (36 comments) Geek Do you know your state rock? ( neatorama.com ) » (48 comments) Entertainment Fonzie rescues Joanie. This is not a repeat from 1976 ( dailymail.co.uk ) » (15 comments) Politics From the state that gave us hanging chads, we now have "flawed ballots" ( palmbeachpost.com ) » (22 comments) Video Batman does an interview in Canada ( sunnewsnetwork.ca ) » (14 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -199,5 +199,5 @@ Main Kate Gosselin fired from gig as blogger for CouponCabin after "outrageous d
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 17 2012 13:00:31  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 18 2012 08:00:29  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
