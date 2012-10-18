@@ -29,7 +29,7 @@
 
 *   Login
 
-Find a Job M&S Wine Our Papers Feedback **Wednesday, Oct 17 2012** 6PM  **60°F** 9PM **59°F** 5-Day Forecast Privacy policy &. cookies  
+Find a Job M&S Wine Our Papers Feedback **Thursday, Oct 18 2012** 3PM  **50°F** 6PM **53°F** 5-Day Forecast Privacy policy &. cookies  
 
   
 
@@ -264,17 +264,17 @@ MOST READ NEWS
 *   Next
 
 *   Boy tied to tree and burned alive on his eighth birthday...
-*   The internet vigilantes: Anonymous outs man, 32, 'who drove...
 *   Pictured: Horrifically injured gun accident victim shows off...
-*   Did Zumba teacher secretly film videos of her liaisons with...
-*   Romney was RIGHT! Moderator Candy Crowley admits Mitt was...
-*   By gum! Man arrested for 1976 cold case murder thanks to DNA...
-*   Desperate and dirty! Obama goes for jugular in ugly clashes...
-*   Baby Jessica ordeal at 25: Famous toddler in 1987 well...
-*   Teacher bullied student with nut allergy by refusing to stop...
-*   The former mayor, high-powered lawyer, finance director and...
-*   Going after the women's vote? Michelle Obama and Ann Romney...
-*   Now that's what I call Special Brew! One £80 glass is as...
+*   The internet vigilantes: Anonymous outs man, 32, 'who drove...
+*   OJ Simpson 'kept the knife he used to kill his wife Nicole...
+*   Couple ‘had sex on restaurant table in front of...
+*   Romney was RIGHT! Candy Crowley admits Mitt was correct to...
+*   Why did Hitler's PERSONAL photographer turn his focus on the...
+*   The moment a man knocked on the door expecting to have sex...
+*   Teacher fired after former student 'brags about sexual...
+*   So that's why his eye wasn't on the ball: The bikini model...
+*   Federal Reserve 'bomber' plotted to kill Obama: Foreign...
+*   Missing murdered UNH student, 19, 'had sex with her S&M...
 
   Share this article:
 
@@ -296,72 +296,70 @@ Sorry we are unable to accept comments for legal reasons.
 
 Bing Site Web Enter search term: Search     Femail Today
 
-*   **'I knew Tyra Banks was tall, but seriously?': Katie Couric tweets hilarious picture of leggy supermodel towering over her** Little and large
-*   **License to frill: Bond Girl Olga Kurylenko blows up the beach in tiny red bikini with boyfriend Danny Huston** The beauty, 32, was with the 50-year-old actor
-*   **Fresh Prince of Bel-Air star Alfonso Ribeiro walks down the aisle with beautiful bride Angela Unkrich in first wedding picture** In Burbank, California
-*   **Robert De Niro and wife Grace Hightower left homeless after blaze at New York home** The couple had to move out of the home in Central West Park
-*   **PICTURE EXCLUSIVE: Ooh la la: C'est Madame Posh! Victoria Beckham is 'honored' to pose at Coco Chanel's house** Makes her mark on 31 Rue Cambon
-*   **'Courtney has had NO plastic surgery': Stodden revealed to be 100 per cent natural after examination by Beverly Hills doctor** Really Courtney?
-*   **Going after the women's vote? Michelle Obama and Ann Romney both choose Pepto pink for presidential debate** Who wore the bright shade better?
-*   **Ann Romney takes a style risk with pale blue manicure at the second presidential debate... but will it sell out like Michelle's?** A colorful choice for Ann
-*   **Bride is left devastated on wedding day after being told her growing baby bump is actually cancer - but vows to go ahead with ceremony and keep tumor a secret**
-*   **'I would love a girl': Giuliana Rancic reveals she is already planning for baby No2... seven weeks after birth of son** She just welcomed son Edward Duke
-*   **Can I have this dance? Ryan Gosling whisks Rooney Mara into his arms in romantic scene for hush-hush new film** Shooting the Untitled Terrence Malick Project
-*   **Piping hot! Hayden Panettiere displays her cleavage in a flirty denim dress as she picks up a pizza** Showed just enough of her decolletage
-*   **Make-up free: Shannen Doherty looks a far cry from her normal glammed up self as she steps out barefaced for grocery shopping** It was a 9021-NO no
-*   **'The heroin chic look isn't my cup of tea': Plus-size model Robyn Lawley slams the size-obsessed fashion industry** This model is a size 12
-*   **Can first date sex EVER lead to long-lasting love? MailOnline's new sex columnist Tracey Cox gives her expert view** What the sexpert says...
-*   **How Gwyneth stopped the clock ten years ago: Star doesn't appear to have aged as she dazzles at awards ceremony** Looks almost identical
-*   **Namaste! Holly Madison displays her growing pregnancy figure as she indulges in some pre-natal yoga** She showed her bump in all of it's glory
-*   **Sealed with a kiss: Kirsten Dunst and Viggo Mortensen pucker up in Greece on set of The Two Faces of January** Filmed at  the Acropolis of Athens in Greece
-*   **'I didn't even win!' Christina Aguilera cringes as footage of her performing on Star Search, aged 10, is unearthed** Star came in second
-*   **That's a snug fit! Ex-Real Housewives star Kelly Bensimon steps out in very tight workout pants** Mother-of-two, 44, looked ready to hit the gym 
-*   **She's got it licked! Real Housewives star Joanna Krupa puts on a show with her ice-cream cone in Hollywood** Spotted eating the treat suggestively
-*   **'You need to be taller and thinner to pull this off': Kim Kardashian FINALLY admits to a style mishap (but at least she's lost six pounds)**
-*   **'I did the best I could': Bristol Palin puts on a brave face after being eliminated from Dancing with the Stars** She was commended by the judges
-*   **Obama's Golden Girls: Actresses Scarlett Johansson, Eva Longoria, and Kerry Washington condemn Romney in new vid** Watch it here
-*   **Strum it like Beckham: Brooklyn leaves music class as father David buys him a brand new guitar** Well, his mother was a Spice Girl!
-*   **'I'm not the other man': Damian Whitewood denies he is the reason Danielle Spencer has split from Russell Crowe** They danced together on a reality TV show
-*   **He's insatiable: Russell Brand seen taking romantic sunset stroll with ANOTHER beautiful woman** Spotted in West Hollywood, California
-*   **Feeling dotty this morning? Leggy Ke$ha puts eccentric style on display as she steps out in mismatching prints** She wore polka dots and leopard spots
-*   **She's just im-mac-ulate: Lauren Conrad shows off her legs in a stylish mini trench coat** The reality television star didn't disappoint her fashion fans
-*   **'You remind me of ME!' Christina Aguilera steals Alessandra from Adam after recalling her own awkward Mickey Mouse Club years** Both classically trained 
-*   **Barefaced and beautiful Jennifer Lopez hides her weary eyes behind sunglasses... the morning after partying in Paris** Star cut a casual figure 
-*   **Flawless Mischa Barton is a cover girl once more as she poses in stunning new black and white shots** Appears on the front of VOLT magazine
-*   **Missing Chris? Rihanna cuts a downcast figure as she heads to a recording studio alone after 'putting relationship with Brown on hold for work'**
-*   **Buy now, cringe later: Shakira and Kim love theirs (plus they're Fall's hottest trend), but leather trousers still top the list of clothes we're embarrassed to own**
-*   **Not such a Happy Birthday? John Mayer fails to raise a smile as he and Katy Perry step out to dinner to celebrate his 35th** On-off couple
-*   **Mel B spices up her life with a grueling workout... and then shows off the results at dinner date with husband** Sydney fitness session
-*   **She's gone to the dark side! Dakota Fanning dyes trademark blonde locks** Actress has been mainly blonde throughout her 13-year career
-*   **'It was a very difficult and heartbreaking decision': Bachelorette star Emily Maynard confirms split from fiancé Jef Holm** Revealed her pain
-*   **Just The Two Of Us: Willow Smith and mother Jada enjoy lunch date together** The mother and daughter went for a spot of Italian in Malibu
-*   **Mel Gibson falls for a tough girl: His 'new love' is a stuntwoman with a brown belt in karate** Doubled for several big stars, including Jennifer Aniston
-*   **Windswept Amy Adams has a hair-raising moment as gust wreaks havoc with her locks** She stepped into a wind tunnel in Los Angeles
-*   **'They're fascinated by each other': Ted Kennedy reveals bond between his grandmother Ethel and Taylor Swift** Wooed family matriarch
-*   **We officially get old at 28 - when our careers become more important than our sex lives - and we'd rather watch Dancing With The Stars** That is Katy Perry's age 
-*   **That's so sweet: Cate Blanchett gets some ice cream as her son very reluctantly shares his scoop** Learning to share with mommy 
-*   **Shameless! Brad Pitt's Chanel No.5 advert shows images of an Angelina-esque brunette and a golden girl just like Jen... as he waffles about love and fate**
-*   **The action man with a soft side: Jason Statham enjoys intimate dinner with girlfriend Rosie Huntington-Whiteley** British love birds
-*   **That $2.5m bra is going to have a hard time competing for attention with those pins! Alessandra Ambrosio displays her toned legs in Daisy Dukes**
-*   **Frock horror! 24 beauty Elisha Cuthbert misfires in shapeless navy dress** Whatever the actress wears, she always looks beautiful in, but was this a bad choice? 
-*   **Portrait of a family: Liev Schreiber and Naomi Watts pick up their sons and ride around town on their bicycles** After school in New York
-*   **Kim Kardashian tweets her happiness as little sister Khloe confirms new hosting gig on The X Factor** She's a very supportive sister
-*   **Honey Boo Boo joins the Real Housewives of Beverly Hills set... at Lisa Vanderpump's restaurant** She serves up pasta, butter and ketchup
-*   **Ready to tie the knot? Evan Rachel Wood and Jamie Bell spotted 'picking up marriage license'** Wedding bells on horizon
-*   **The most inspiring CoverGirl ever? Make-up blogger, 13, fighting two types of cancer becomes honorary face of beauty giant** She has neuroblastoma
-*   **Soaked in the City! AnnaSophia Robb gets into a water fight with on-screen father as they film The Carrie Diaries** Recorded scenes for the prequel series
-*   **Frances Bean Cobain's 'house intruder caught doing his laundry' pleads not guilty** He is confident that he has ironed out a strong defense
-*   **Got To Have Faith! Halle Berry wears statement T-shirt as 'judge in her custody case is almost ready to rule whether she can take Nahla to France**
-*   **'We are all Malala': Why Angelina Jolie felt compelled to tell her children about brave 14-year-old Pakistani activist's tragic shooting** She wrote essay about it
-*   **Legs eleven! Taylor Momsen shows off her endless slim pins in a tight fitting gold dress and skyscraper heels** Out in New York City in a gold mini dress
-*   **Too good to be true? Coca Cola claims new beauty drink will 'strengthen hair and nails, improve skin AND help you lose weight'** called Beautific Oenobiol
-*   **With huge statement skirts and tiny corseted waists, Vera Wang brings back the princess look at Bridal Fashion Week** The Fall 2013 collection
-*   **Green Day frontman Billie Joe Armstong could be in rehab until next year** His record label boss  has confirmed he needs to be in for some time  
+*   **Ashton who? A healthier-looking Demi Moore dismisses claims she's 'struggling to cope' with split from Kutcher as she glows at charity gala**
+*   **Doing an Angelina! Alessandra Ambrosio shows off her perfect leg in black side split frock at Mario Testino show** Influenced by Miss Jolie 
+*   **Here come the girls: Khloe Kardashian takes Kris, Kylie and Kendall Jenner to watch husband Lamar Odom's new team** Team Kardashian 
+*   **Get a room! Scantily clad Parenthood stars put on steamy display as they film beach scenes in Los Angeles** Mae Whitman embraced Matt Lauria passionately
+*   **Hair fright night: Halloween comes early for wild-looking Mila Kunis as she stocks up on pumpkins** Spotted shopping in West Hollywood  
     
-*   **How low can you go? Michelle Rodriguez steals the show at art dinner in a backless black gown with a daring plunging neckline** Ensured all eyes on her
-*   **That's cheeky! Leighton Meester pokes her tongue out as she hangs around between takes on the Gossip Girl set in New York** In a good mood
-*   **As statuesque as the Empire State Building! Leggy Petra Nemcova puts the famous New York landmark to shame** She was highlighting the charity Only Make Believe
-*   **Vampire Diaries' Ian Somerhalder opens up about THOSE Fifty Shades casting rumors as he works on smouldering gaze for Mr Porter**
+*   **Lollipops AND ice cream! After whirlwind Paris trip Jennifer Garner indulges daughters Violet and Seraphina** Gave her kids a treat
+*   **Aren't you hot in that? Curvy Kim Kardashian jets out of sweltering Miami in leather pants, plunging blouse and fur** It was 90 degrees, but that didn't stop Kim
+*   **'I look and feel 26!' Buff Wyclef Jean celebrates his 43rd birthday by straddling his motorcycle wearing just a pair of briefs** Looked oiled up
+*   **'Only we can make insanity look this sexy': Adam Levine makes his racy acting debut in American Horror Story: Asylum** With Jenna Dewan
+*   **Sexy shades of gray! AnnaLynne McCord gives the illusion of extra curves in a slinky storm-colored gown** 90210 star's skimming attire clung to her figure
+*   **That's our Carrie! AnnaSophia Robb covers herself in mustard as she films Sex And The City prequel** Back on streets of NYC
+*   **Trying to make him look taller... Mena Suvari puts some distance between herself and her lilliputian beau Salvador Sanchez** In West Hollywood
+*    **Delighted Megan Fox and Brian Austin Green welcome baby boy Noah Shannon Green** 'He's healthy, happy and perfect', the actress announced on Facebook
+*   **New mother Vanessa Lachey is back in her fitted jeans as she leaves baby Camden at home** Took a break and went for lunch
+*   **Wrapped up in each other: Matthew Morrison and model girlfriend Renee put on gleeful display in his and hers scarves** In Soho, New York
+*   **A dapper Ben Affleck leads the way at afterparty as he celebrates UK premiere of his new movie Argo** He led the celebrations in London 
+*   **'One of the greatest feelings in my entire life!' Drake graduates from high school at 25** Rapper's sold over 5million albums but ranks it right up there
+*   **Day to night outfits.. the Rachel Zoe way: Celebrity stylist swaps casual jumpsuit for glamorous lace dress at launch** She looked lovely in lace 
+*   **'This show is a joke!' Comic Will Ferrell blasts Chelsea Handler's talk show as he drives on set in a buggy** He's known to shock and cause uproar 
+*   **Sheer daring! Hilary Duff displays her black bra in a transparent top as she and little Luca head to baby class** Teamed beige vest with a pair of skinny jeans
+*   **Will the real Tom Hanks please stand up? Actor's identical son Colin joins the actor** Tom was honored by the Elie Wiesel Foundation for Humanity
+*   **Style sisters: Sophia Bush and friend Brittany Snow sport same party look in tight metallic dresses and bright red lips** Both wore it well
+*   **Susan Sarandon makes her first public appearance since revealing she was the victim of the casting couch** Attended a charity event
+*   **'It's about creating a fantasy' Victoria's Secret Angel Erin Heatherton defends airbrushing (but what about those Photoshop fails)**
+*   **Jessica Biel and Justin Timberlake 'set to marry in Italy this week as pre-wedding celebrations get underway'** Kept plans 'top-secret'
+*   **Ten weeks and counting: Tom Cruise 'is missing Suri' but hasn't seen six-year-old in months... despite the private jet on standby ** He's in London
+*   **SPOILER ALERT: X Factor shunted off TV to make way for delayed baseball game... but not before Britney's final four are revealed** Fans not happy
+*   **What would Regis say? Kelly Ripa gets a piggyback from hunky new co-host Michael Strahan as they compete in a wife carrying contest**
+*   **Olympian Gabby Douglas glitters in gold as she is named sportswoman of the year at star studded ceremony** Shined in NYC
+*   **Naomi Watts and Liev Schreiber get their sons moving during an action packed trip to the park** It was family fun as they played soccer and danced with hula hoops
+*   **Not her usual accessory! Punk rocker Gwen Stefani still manages to look cool while carrying cute puppy** Can pull off anything
+*   **Careful with those claws! South Korean sensation Psy shows Wolverine how to dance Gangnam Style** Hugh Jackman was in his X Men attire
+*   **What a name! Uma Thurman introduces Rosalind Arusha Arkadina Altalune Florence Thurman-Busson... or Luna to friends**
+*   **Hey, let's just hang on the pavement while our dog gets a bath because we're so hip: Amanda Seyfried and boyfriend Desmond Harrington take a load off**
+*   **'The joys of folding underwear!' Lourdes gets no special treatment as she takes summer job on Madonna's tour** Must be embarrassing
+*   **What a homecoming! Co-ordinated Cheryl Cole and Tre Holloway mark the end of her debut solo tour at Newcastle party** The pop star was with her new boyfriend
+*   **Look away now, Selena! Justin Bieber cavorts on stage with Carly Rae Jepsen... as she saves him from embarrassing fall** In Canada
+*   **Dancing With The Stars professionals Anna Trebunskaya and Jonathan Roberts to divorce** Been together more than a decade
+*   **Gisele Bundchen flatters her baby bump in sleek black ensemble at Mario Testino exhibit launch** The supermodel and mother is glowing
+*   **Now Rihanna goes punk.... as she wears bondage style combats for late night recording session** Ready to build some good tracks?
+*   **Fresh Prince of Bel-Air star Alfonso Ribeiro walks down the aisle with beautiful bride Angela Unkrich in first wedding picture** In Burbank, California
+*   **Hardly a Hell's Angel! David Beckham takes a spin on his motorbike after picking up a healthy green smoothie** Doesn't quit go with the biker image David
+*   **'It's a kick a\*\* work out': Tyler Perry reveals that he lost 30 pounds with the help of Israeli martial arts for new action film role** Practiced Krav Maga
+*   **Kourtney Kardashian continues her very short dress theme... as she puts her legs on display in white ensemble** Once again opted for a leg-baring outfit
+*   **Ann Romney takes a style risk with pale blue manicure at the second presidential debate... but will it sell out like Michelle's?** A colorful choice for Ann
+*   **Uncork the champagne! Lauren Conrad promotes new book as 'boyfriend prepares to pop the question'** Living the great life 
+*   **Forget the marriage split... Russell Crowe has animals to save! First look at the bearded Oscar winner as Noah** Actor is filming in Long Island
+*   **And they went two by two: First look at Jennifer Connelly as the gray-haired wife of Russell Crowe's Noah...** Pair starred in A Beautiful Mind together
+*   **Carrie Underwood proves she's an American Idol as she shows off her legs in plunging feathered ball gown** Looked incredible
+*   **Shouldn't you BOTH be on screen? Helena Christensen stays behind the camera to shoot Liv Tyler for fashion film** Watch the film here
+*   **So that's why his eye wasn't on the ball: The bikini model A-Rod tried to chat up as he was pulled from Yankees game** Star's been dropped
+*   **Can first date sex EVER lead to long-lasting love? MailOnline's new sex columnist Tracey Cox gives her expert view** What the sexpert says...
+*   **Bare-faced chic! Make up free Kate Bosworth shows off her toned legs in tiny shorts on the set of new film** Actress was sorking on the Homefront set
+*   **X Factor mogul Simon Cowell takes his muscle truck for a spin.... and makes a pitstop for a nice frozen yogurt** Even millionaires love a simple treat
+*   **America's Next Top Model to accept MALE contestants for the first time (but will the boys be able to handle Tyra?)** Getting an injection of testosterone
+*   **Happy Days will be here again! Henry Winkler 'helping down and out co-star Erin Moran get a role on his TV series Arrested Development'**
+*   **Hungry Boo Boo! Honey sticks her head straight into a cupcake ATM for an even faster delivery** Reality star was on a mission to find sugar from a hole in the wall! 
+*   **He's not making another film about his daughter being Taken, that's his girlfriend: Liam Neeson goes on romantic stroll with Freya St Johnston**
+*   **Public Enemy's Flavor Flav arrested after 'threatening fiancé's son with a knife'** His girlfriend of eight years, Elizabeth Trujillo, called 911
+*   **Supermodels Karlie Kloss and Joan Smalls take us behind the scenes at Paris Fashion Week as they make House of Style debut** Their new TV role
+*   **Racy Brandy leaves little to the imagination as she reveals her behind in tiny shorts** Her image isn't as wholesome as she's eager to prove
+*   **Mel Gibson falls for a tough girl: His 'new love' is a stuntwoman with a brown belt in karate** Doubled for several big stars, including Jennifer Aniston
+*   **Only she could upstage a supermodel! Helena Bonham Carter steals the limelight from Kate Moss at photography exhibition** Wore wacky headpiece
 
     ADVERTORIAL FEATURES
 
