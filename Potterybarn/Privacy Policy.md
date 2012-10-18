@@ -266,13 +266,12 @@ Skip Navigation
     Great Deals
     
     *   8 x 10' Rugs $499 &. Under
-    *   Drape Event
     *   Rug Event
     *   Sale
     
-    Drape Event
+    Rug Event
     
-    Save 15-25% on all drapes through October 17th.
+    Save 15% on all wool rugs for a limited time.
     
     Shop Now 
     
@@ -636,7 +635,7 @@ Skip Navigation
     
     Host &. Hostess Gifts
     
-    Show gratitude with over 80 items starting at $15.
+    Show gratitude with over 80 items starting at $10.
     
     Shop Now 
     
@@ -651,7 +650,6 @@ Skip Navigation
     *   Fall Dining Sale
     *   Lighting Sale
     *   Rug Event
-    *   Drape Event
     *   Free Shipping
     
     Shop By Category
@@ -664,6 +662,7 @@ Skip Navigation
     *   Lighting
     *   Decor &. Pillows
     *   Tabletop
+    *   Holiday
     *   Clearance
     
     Shop By Room
