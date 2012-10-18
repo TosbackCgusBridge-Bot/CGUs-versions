@@ -10,26 +10,26 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
     *   Tools
     *   Media
     *   Enterprise
-    *   ScienceAn Analyst Walked Into Best Buy, And Discovered Firsthand How Amazon Is Destroying It An Analyst Walked Into Best Buy, And Discovered Firsthand How Amazon Is Destroying It With Its New Music App, Microsoft Pulled Off Something Even Apple Couldn't Do The Guardian Denies Reports It Is Ending Its Print Publication Microsoft Exec Lets Loose At His Birthday Party With Rapper Too Short New Earth-Sized Planet Is The Closest Ever Found To Earth
+    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning With Its New Music App, Microsoft Pulled Off Something Even Apple Couldn't Do The Guardian Denies Reports It Is Ending Its Print Publication SAP Brings Its Lightning-Fast Database, Hana, To Amazon's Cloud New Earth-Sized Planet Is The Closest Ever Found To Earth
 *   Finance
     *   Clusterstock
     *   Your Money
-    *   Broker CenterJohn Mack: 'Unbelievably Generous' Wall Street Compensation Will Have To Come Down John Mack: 'Unbelievably Generous' Wall Street Compensation Will Have To Come Down Let's Examine The Rhetoric Behind The Decline Of The Middle Class John Mack: 'Unbelievably Generous' Wall Street Compensation Will Have To Come Down
-*   Markets Dylan Grice: Before You Know It, The Fed Is Going To Get What It Wished For — INFLATION
+    *   Broker Center10 Things You Need To Know Before The Opening Bell 10 Things You Need To Know Before The Opening Bell ASK AN EXPERT: Am I Covered In A U-Haul Truck? 10 Things You Need To Know Before The Opening Bell
+*   Markets 10 Things You Need To Know Before The Opening Bell
 *   Politics
     *   Politics
     *   Defense
-    *   Law &. OrderThis Was The Most Important Moment Of The Presidential Debate This Was The Most Important Moment Of The Presidential Debate See How The University Of Maryland Almost Won $250K With This Human Powered Helicopter The 20 Biggest Legal Stars On Twitter
+    *   Law &. OrderGALLUP: Mitt Romney Now Has A Gigantic 6-Point Lead Over Obama GALLUP: Mitt Romney Now Has A Gigantic 6-Point Lead Over Obama The UN Is Demanding To Know What Happened To The Peacekeeper Murdered Yesterday In Darfur The 20 Biggest Legal Stars On Twitter
 *   Strategy
     *   Strategy
-    *   CareersEconomic Leaders Of The Future Will Create A Whole New Model For Investing Economic Leaders Of The Future Will Create A Whole New Model For Investing 8 Things You Should Never Say To Your Interviewer
-*   Entertainment Celebrities Called Out Romney On Twitter During Last Night's Debate
-*   Advertising See How Lance Armstrong Humiliated Nike In These Old Ads About Doping
+    *   Careers'False Consensus' Theory Explains Why We Trust The Wrong People 'False Consensus' Theory Explains Why We Trust The Wrong People 5 Ways to Manage Different Personality Types
+*   Entertainment Jeff Zucker Likely Leaving 'Katie' As He Eyes CNN President Position
+*   Advertising Restaurants Are Starting To Make Instagram Menus \[Photos\]
 *   Retail An Analyst Walked Into Best Buy, And Discovered Firsthand How Amazon Is Destroying It
-*   Sports Here's The 'Insurmountable Evidence' That Made Nike Cut Ties With Lance Armstrong
+*   Sports The Real Reason Nike Canned Lance Armstrong Has Nothing To Do With Doping
 *   Life
     *   The Life
-    *   TransportationThe 50 Most Expensive Boarding Schools In America The 50 Most Expensive Boarding Schools In America Gorgeous Photographs Reveal The Eerie Side Of The Munich Subway System
+    *   TransportationTake A Tour Of The New Most Expensive Zip Code In America Take A Tour Of The New Most Expensive Zip Code In America Gorgeous Photos Show The Eerie Side Of Munich's Subway System
 *   More
     *   Latest
     *   Video
@@ -54,7 +54,7 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
 
 *   Follow us on Facebook and get updates from Business Insider posted directly to your news feed  
 
-Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,491
+Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,496
 
 *   Email
 *   More Share on Tumblr
@@ -164,7 +164,7 @@ Recommended For You
 
 Please follow Business Insider on Twitter and Facebook.
 
-Short URL Share:
+Advertisement: Short URL Share:
 
 *   _Twitter_
 *   _Facebook_
@@ -226,34 +226,34 @@ More:*   SAI Select (sample)
 *   Careers Select (sample)
 *   Military Select (sample)
 
-Advertisement Your Money NASDAQ Composite 3,112 +11.04 (+0.356%) S&P 500 1,461 +6.35 (+0.436%) NYSE Composite 8,449 +62.39 (+0.744%) Sponsored By
+Advertisement Your Money NASDAQ Composite 3,104 +2.95 (+0.095%) S&P 500 1,461 +5.99 (+0.412%) NYSE Composite 8,447 +0 (+0%) Sponsored By
 
 Ready To Invest? Find A Broker Here »
 
-Sheila Bair And Wall Street
+NFL Fever
 
-*   Here's How The Obama Administration Screwed Up The Wall Street Bailout
-*   Sheila Bair Talks About Her Relationship With Tim Geithner And Who She Wanted For Treasury Secretary
-*   Sheila Bair Breaks Down What We Still Need To Do To Keep Wall Street From Hurting Main Street
+*   10 Trends That Are Changing The Face Of The NFL As We Know It
+*   The Seahawks Exposed The One Glaring Flaw That Could Doom The Patriots This Season
+*   NFL POWER RANKINGS Going Into Week Seven
 
 Most Read Read  Commented  Recommended 
 
-*   Here Are The Charts That Should Get Obama Reelected... 418,991 Views
+*   The 50 Most Expensive Boarding Schools In America 535,335 Views
     
-*   The 10 Best College Towns In America 352,354 Views
+*   The 10 Best College Towns In America 404,455 Views
     
-*   FORGET GOLD: Here's Where Die-Hard Skeptics Are Storing Their Wealth 300,038 Views
+*   FORGET GOLD: Here's Where Die-Hard Skeptics Are Storing Their Wealth 324,189 Views
     
-*   People Are Going Crazy For Morgan Freeman's New Obama Ad 226,299 Views
+*   19 Crazy Things That Only Happen In China 283,876 Views
     
 
-*   How Barack Obama Won The Presidential Debate 170 Comments
+*   GALLUP: Mitt Romney Now Has A Gigantic 6-Point Lead Over Obama 197 Comments
     
-*   Paul Ryan Busted For Staged Photo-Op At Soup Kitchen Where He Pretended To Wash Dishes 144 Comments
+*   How Barack Obama Won The Presidential Debate 184 Comments
+    
+*   Paul Ryan Busted For Staged Photo-Op At Soup Kitchen Where He Pretended To Wash Dishes 146 Comments
     
 *   People Are Going Crazy For Morgan Freeman's New Obama Ad 133 Comments
-    
-*   Dear Folks Who Believe Mitt Romney Is Telling The Truth About His Tax Plan, Please Explain Why Bill Clinton Is Wrong... 77 Comments
     
 
 Loading, please wait...
@@ -272,34 +272,34 @@ See All Jobs Startup Document Center Templates To Jump Start Your Business Busin
 By-Laws Financial  
 Model See All » Read Me Henry Blodget
 
-| Yes, We're Better Off Than 4 Years Ago--Mostly \[CHARTS\] 18
+| Yes, We're Better Off Than 4 Years Ago--Mostly \[CHARTS\] 34
 
 But mostly because, four years ago, the world was ending.
 
 Cullen Roche
 
-| You Have To Laugh At Anyone Who Talks About China Boycotting US Treasuries 19
+| You Have To Laugh At Anyone Who Talks About China Boycotting US Treasuries 21
 
 Wolf Richter
 
-| Japan Inc.'s Basic Strategy Is Backfiring Badly 2
+| Japan Inc.'s Basic Strategy Is Backfiring Badly 3
 
 Scott Annan
 
-| Economic Leaders Of The Future Will Create A Whole New Model For Investing 2
+| Business Leaders Of The Future Need A Totally New Value System 6
 
 Robert Reich, Contributor
 
-| OBAMA IS BACK 17
+| OBAMA IS BACK 18
 
 The Hive About The Hive » What Smart People Are Reading Right Now
 
+*   A Turn of the Page for Newsweek 9
 *   Guardian 'seriously discussing' end to print edition - Telegraph 5
-*   Mind The Binder - Talking Politics 5
-*   Citi CEO Pandit exits abruptly after board clash | Reuters 3
+*   Let's reconsider our "users" - Jack's 3
 
-*   Housing starts surge in positive sign for economy | Reuters 2
-*   xkcd: Electoral Precedent 2
+*   Charge Your Phone by Moving Your Body \[VIDEO\] 2
+*   News from The Associated Press 2
 
 More Less See All » Advertisement Thanks to our partners
 
