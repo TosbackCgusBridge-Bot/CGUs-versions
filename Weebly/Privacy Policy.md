@@ -115,7 +115,7 @@ Weebly is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an indepen
   
 If you have questions or concerns regarding this statement, you should first contact us at support@weebly.com. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog\_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-**Last updated on October 16th 2012.**
+**Last updated on October 17th 2012.**
 
   Weebly
 
