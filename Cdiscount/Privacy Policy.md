@@ -488,8 +488,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         7.  Tables basses
         8.  Meubles TV / LCD
         9.  Rangement
-        10.  Meubles Ã  prix discount
-        11.  TÃ©lÃ©surveillance: meilleur prix!
+        10.  TÃ©lÃ©surveillance: meilleur prix!
         
         1.  LITERIE - LINGE DE MAISON
         2.  Lits - Matelas
