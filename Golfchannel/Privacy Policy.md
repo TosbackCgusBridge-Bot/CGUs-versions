@@ -10,7 +10,67 @@ PGA Tour
     *   Winn-Dixie Jacksonville Open Pre...
 *   Titleist On Tour
 
-The McGladrey Classic View Tee Times >.
+The McGladrey Classic View Leaderboard >.
+
+*   T1
+*   G.Christian
+*   \-1
+*   2
+
+*   T1
+*   B.Bryant
+*   \-1
+*   1
+
+*   T1
+*   M.Goggin
+*   \-1
+*   1
+
+*   T4
+*   R.Thatcher
+*   E
+*   2
+
+*   T4
+*   K.Chappell
+*   E
+*   1
+
+*   T4
+*   H.English
+*   E
+*   1
+
+*   T4
+*   T.Pernice Jr.
+*   E
+*   1
+
+*   T8
+*   J.Daly
+*   +1
+*   2
+
+*   T8
+*   S.Bertsch
+*   +1
+*   1
+
+*   T8
+*   T.Gainey
+*   +1
+*   1
+
+*   T8
+*   C.Tringale
+*   +1
+*   1
+
+*   T8
+*   D.Wilson
+*   +1
+*   1
 
 *   12:15 PM ET
 *   B.Adams
@@ -49,66 +109,6 @@ The McGladrey Classic View Tee Times >.
 
 *   12:55 PM ET
 *   C.Beckman
-*   \-
-*   \-
-
-*   1:45 PM ET
-*   C.Beljan
-*   \-
-*   \-
-
-*   7:45 AM ET
-*   S.Bertsch
-*   \-
-*   \-
-
-*   12:55 PM ET
-*   M.Bettencourt
-*   \-
-*   \-
-
-*   1:35 PM ET
-*   T.Biershenk
-*   \-
-*   \-
-
-*   8:15 AM ET
-*   J.Blixt
-*   \-
-*   \-
-
-*   8:35 AM ET
-*   J.Bohn
-*   \-
-*   \-
-
-*   1:25 PM ET
-*   S.Bowditch
-*   \-
-*   \-
-
-*   8:25 AM ET
-*   M.Bradley
-*   \-
-*   \-
-
-*   9:15 AM ET
-*   S.Brown
-*   \-
-*   \-
-
-*   7:45 AM ET
-*   B.Bryant
-*   \-
-*   \-
-
-*   8:35 AM ET
-*   A.Cabrera
-*   \-
-*   \-
-
-*   1:15 PM ET
-*   C.Campbell
 *   \-
 *   \-
 
@@ -279,15 +279,15 @@ Prev Next
 *   Grill Room
 
 *   PGA Tour
-*   Morning Drive
-*   Phil Mickelson
-*   The McGladrey Classic
-*   Web.com Tour
 *   Davis Love III
-*   Champions Tour
-*   Jonas Blixt
-*   Fred Funk
-*   FedEx Cup
+*   Ryder Cup
+*   The McGladrey Classic
+*   Morning Drive
+*   Tiger Woods
+*   US Open Championship
+*   Seaside Course at Sea Island
+*   School of Golf
+*   Jim Furyk
 
 **Privacy Policy**
 
@@ -528,7 +528,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,125 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
+Social 233,165 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
