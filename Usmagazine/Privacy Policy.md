@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Heidi Says Cheerio »
+Hot Pics! Post-Baby Pretty »
 
-Top Stories1.  Kim Kardashian Wears Tight See-Through Skirt, Bra Top on Date With Kanye »
-2.  Kate Gosselin on Her Face: I "De-Age" »
-3.  Exclusive Tori Spelling's Miracle Baby Finn: See All the Pictures »
-4.  Chelsea Handler Mocks Jennifer Aniston's "Very Pronounced" Nipples »
-5.  Jennie Garth: I Stay Skinny With "Me" Time »
+Top Stories1.  Breaking Megan Fox, Brian Austin Green Welcome Son Noah Shannon! »
+2.  Kim Kardashian Puts Herself on Worst-Dressed List for Bright Yellow Top »
+3.  See Blake Lively in a Wedding Dress! »
+4.  Michelle Obama and Ann Romney: Who Wore Her Pink Dress Best? »
+5.  Kim Kardashian Wears Tight See-Through Skirt, Bra Top on Date With Kanye »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Tori's Miracle Baby
 
 Inside Us Weekly
 
-*   Style Michelle Obama and Ann Romney: Who Wore Her P
-*   Beauty Watch Part 2 of Brad Pitt's Sexy Chanel No. 5
-*   Moms Tori Spelling's Miracle Baby Finn: See All th
+*   Style Ann Romney Wears $1,690 Oscar de la Renta Dre
+*   Beauty Brooklyn Decker vs. Dakota Fanning: Who Looks
+*   Moms Uma Thurman Reveals Daughter's Long Full Name
 *   Body Jennie Garth: I Stay Skinny With "Me" Time  
-*   Entertainment Nashville Sneak Peek: Hayden Panettiere Skinn  
+*   Entertainment LOL! See Krysten Ritter's Nude Mugshot  
 
 *   US WEEKLY
 *   Celebrity News
