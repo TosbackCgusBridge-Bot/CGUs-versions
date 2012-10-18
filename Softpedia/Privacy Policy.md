@@ -38,34 +38,34 @@ WINDOWS CATEGORIES:
 *   Parallels Workstat...
 *   Glary Utilities Pr...
 *   Undelete Plus \[SOF...
-7-DAY TOP DOWNLOAD # Program Adguard Web Filter  
-5.4.425.2526  
-121,838 downloads MSN Password  
-Recovery  
-1.0.115.2012  
-121,309 downloads Null Logics Windows  
+7-DAY TOP DOWNLOAD # Program Null Logics Windows  
 Service Commander  
 1.0.600.2009  
-102,901 downloads Nokia PC Suite  
+124,511 downloads Adguard Web Filter  
+5.4.425.2526  
+122,804 downloads MSN Password  
+Recovery  
+1.0.115.2012  
+122,330 downloads Nokia PC Suite  
 7.1.180.94  
-51,035 downloads Samsung PC Studio  
+51,307 downloads Samsung PC Studio  
 7.2.24.9  
-37,975 downloads Microsoft Office  
+37,998 downloads Microsoft Office  
 2013 15.0.4128.1014  
 Preview / 2010  
 14.0.6023.1000  
 Service Pack 1  
-36,496 downloads LibreOffice 3.6.2 /  
-3.6.3 RC 1  
-32,988 downloads Nero 9 Free  
+36,549 downloads Nero 9 Free  
 9.4.12.3d  
-32,820 downloads Adobe Flash Player  
+32,857 downloads Adobe Flash Player  
 11.4.402.287 /  
-11.5.500.90 Beta 3  
-30,456 downloads Internet Download  
+11.5.500.97 Beta 4  
+29,679 downloads LibreOffice 3.6.2 /  
+3.6.3 RC 1  
+29,203 downloads Internet Download  
 Manager 6.12 Build  
 22  
-26,573 downloads Home >. Privacy policy  
+26,557 downloads Home >. Privacy policy  
 Softpedia privacy policy  
 Written in accordance with the provisions of Law 677/2001, regarding individual protection about collecting and free circulation of personal data.  
   
