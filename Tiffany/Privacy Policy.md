@@ -19,6 +19,7 @@ Skip to main content
     
     *   Silver Jewelry
     *   Tiffany CelebrationÂ® Rings
+    *   Tiffany Pink Diamonds
     *   Tiffany Yellow Diamonds
     *   Statement Jewelry
     *   Solitaire Jewelry
