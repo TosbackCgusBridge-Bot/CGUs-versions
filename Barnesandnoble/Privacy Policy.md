@@ -36,13 +36,9 @@ _BORDERS Customer_ Continue your shopping at BN.com. Learn More Screen Reader Li
         *   Subjects BusinessComputerEducationHistoryMedicinePhilosophyPolitics &. Current AffairsPsychologyScienceSee More
         *   NOOK Study OverviewDownload for FreeReviewsFor ProfessorsSupport
     *   Newsstand
-        
         *   NOOK Newsstand NOOK MagazinesNOOK NewspapersAll NOOK PeriodicalsTop Free TrialsHot New TitlesSpecial Issues
         *   Print Newsstand Over 900 Print SubscriptionsDozens of CategoriesBestselling SubscriptionsSubscriptions Under $10
-        *   NOOK Favorites Women's MagazinesMen's MagazinesBusiness Publications Print Favorites Women's MagazinesMen's Magazines  
-        
-        Special OfferSubscribe and Get  
-        4 FREE eBooksLearn More
+        *   NOOK Favorites Women's MagazinesMen's MagazinesBusiness Publications Print Favorites Women's MagazinesMen's Magazines  Free for 14 Days!Try any NOOK Periodical FREE for 2 Weeks.Learn More
     *   Teens
         *   Customer Favorites BestsellersMust-ReadsNew ReleasesComing SoonNOOK BooksBest Books of 2011 Popular Authors Sarah DessenEllen HopkinsMichael ScottCassandra ClareScott Westerfeld
         *   Subjects Edgy Stories for TeensFantasy &. AdventureGirls &. Young WomenParanormal RomanceReference &. Study GuidesRomance &. FriendshipSee More Award Winners Michael L. Printz AwardsNational Book AwardsAgatha AwardsEdgar Awards
