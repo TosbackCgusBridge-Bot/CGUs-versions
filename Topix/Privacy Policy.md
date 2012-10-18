@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Mitt Romney
+Lance Armstrong
 
-Romney turns debate attacks into TV spot
+Lance Armstrong's former manager fears defense of doping charg...
 
-Libya
+China
 
-Deception on Libya
+China Firm Says U.S. Discriminates
 
 Politix
 
-Who won the second presidential debate?
+What would improve the presidential debates?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 115,096 • Total comments across all topics: 188,317,456
+Comments made yesterday: 113,412 • Total comments across all topics: 188,396,922
 
 Copyright ©2012 Topix LLC
 
