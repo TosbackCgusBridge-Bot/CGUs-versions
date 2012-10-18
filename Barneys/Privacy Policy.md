@@ -1,8 +1,12 @@
+For Every $250 You Spend, Receive A $25 Gift Card
+
+See Details.
+
 COMPLIMENTARY SHIPPING ON ALL US ORDERS
 
 See Details
 
-Log In Favorites Favorites My favorites (3) Most Loved Yves Saint Laurent Maryna 105 Pump Barneys New York Search
+Log In Favorites Favorites My favorites (3) Most Loved Alexander Wang Donna Hobo Barneys New York Search
 
 *   New Arrivals
     *   All New Arrivals
@@ -110,7 +114,7 @@ Log In Favorites Favorites My favorites (3) Most Loved Yves Saint Laurent Maryna
     Lanvin Printed Python Platform _$855_ $339 _Sale_
 *   The window Insider Fashion Access Video
     
-    Step Lively: Manolo Blahnik Picks His 10 Favorite Shoes For Fall
+    Make a Splash: Kelly Klein Celebrates ‘Pools: Reflections’ in L.A. and New York
     
 *   Trends
     
