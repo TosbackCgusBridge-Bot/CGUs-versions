@@ -449,7 +449,7 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Denver Broncos
         *   Green Bay Packers
         *   Washington Redskins
-        *   Dallas Cowboys
+        *   New England Patriots
         *   View All »
         
         MLB
