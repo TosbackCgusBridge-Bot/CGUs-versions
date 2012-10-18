@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Switching consumers to digital books is hard enough — get ready for magazines
+BuzzFeed lawsuit over celeb snaps raises copyright questions
 
 Stay on top of tech news in your inbox
 
