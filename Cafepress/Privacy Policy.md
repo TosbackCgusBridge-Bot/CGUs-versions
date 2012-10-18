@@ -9,6 +9,13 @@
 *   Track Your Order
 *   Need Help?
 
+Australia  
+Canada  
+France  
+Germany  
+Spain  
+United Kingdom  
+United States  
 Name anything in the world, and we'll show you hundreds of products that celebrate it. all Department View Cart  
 
 *   Shop by Product ▲▼
@@ -74,7 +81,7 @@ Name anything in the world, and we'll show you hundreds of products that celebra
         Stationery
         
         3D &. Animated Cards Birth Announcements Business Cards Calendars Greeting Cards Invitations  
-        &. Announcements Journals Notepads Postcards Puzzles Custom Stamps Thank You Cards  
+        &. Announcements Journals Labels Notepads Postcards Puzzles Custom Stamps Thank You Cards  
         &. Note Cards  
         All Stationery »
 *   Shop by Interest ▲▼
@@ -197,7 +204,7 @@ Name anything in the world, and we'll show you hundreds of products that celebra
         
         Design Your Own
         
-        T-shirts (hot!) Baby Clothes &. Gear Mugs (hot!) Drinking Glasses Water Bottles Flip Flops Bags iPhone Cases (hot!)
+        T-shirts (hot!) Baby Clothes &. Gear Mugs (hot!) Drinking Glasses Water Bottles Flip Flops Bags iPhone Cases (hot!) Photo Books (new!)
         
         Hoodies &. Sweatshirts (hot!) Photo Gifts Stickers Groups &. Teams (new!) Custom Embroidery (new!) Embroidered Jackets (new!) Your Photo on Canvas Your Photo on Metal 3D Photo Gifts  
         View All Personalized Gifts »
@@ -205,7 +212,7 @@ Name anything in the world, and we'll show you hundreds of products that celebra
         
         Photo Gifts
         
-        Photo on Metal Photo on Canvas Photo T-Shirts Photo Baby Gifts Photo Clocks Photo Mugs Photo Calendars Photo Bags Photo Buttons Photo Ornaments 3D Photo Gifts coming soon: Photo Books
+        Photo on Metal Photo on Canvas Photo T-Shirts Photo Baby Gifts Photo Clocks Photo Mugs Photo Calendars Photo Bags Photo Buttons Photo Ornaments 3D Photo Gifts Photo Books
 *   **press**boardsTM • Buy a Gift • Sell • Blog
 
 Home >. Customer Service >. Privacy Policy Privacy Policy **Effective Date: June 23, 2011**
@@ -384,4 +391,4 @@ OUR BRANDS CafePress  \[+\] Canvas on Demand  \[+\] Great Big Canvas  \[+\
 
 All Content Copyright © 1999-CafePress Inc. Use of this web site constitutes acceptance of the Terms of Service.
 
-{"cache hit":68}
+{"SumOfAllMeasurementsBelowReportingThreshold":0}
