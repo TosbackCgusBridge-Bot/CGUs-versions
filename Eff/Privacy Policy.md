@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-14 questions on civil liberties and Internet freedom Obama and Romney should be asked at tonight's #debate https://eff.org/r.2amU
+EFF joins international experts in Uruguay next week to talk about defending #privacy globally. https://eff.org/r.a6nV
 
-Oct 16 @ 4:13pm
+Oct 17 @ 4:33pm
 
-On #AdaLovelaceDay, we look at how dangerous patents can have a negative impact on women's health https://eff.org/r.a6nK #patentfail
+Why are EU regulators getting tough with Google on #privacy? Here's our take: https://eff.org/r.2anS
 
-Oct 16 @ 3:30pm
+Oct 17 @ 4:02pm
 
 *   Twitter
 *   Facebook
