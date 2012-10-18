@@ -382,11 +382,6 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   Today
-    
-    S.P. meets on delay |  CLU prof. to talk |  Seafood event |  10 to know
-    
-
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -623,10 +618,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos Oxnard Police Chief addresses La Colonia police shootout Authorities address shootout
+Videos On Campus: Bulldogs Bite Back Buena back on top
 
-*   Oxnard Police Chief addresses La ... Connecting pets and people Ojai artists open up their ... Adoptable: Marley
-*   On Campus: Nordhoff's Close Crew Another dry year burdens water ...
+*   On Campus: Bulldogs Bite Back Oxnard Police Chief addresses La ... Connecting pets and people Ojai artists open up their ...
+*   Adoptable: Marley On Campus: Nordhoff's Close Crew
 
   
 
@@ -639,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 120 comments
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 224 comments
+*   Villanova cancels remainder of football season Published 10/17/2012 at 2:37 p.m. 6 comments
+*   If Proposition 30 fails, Oxnard College athletics could be on chopping block Updated 10/17/2012 at 8:13 p.m. 33 comments
+*   Top-flight building spices up downtown Ventura Published 10/16/2012 at 8:19 p.m. 5 comments
 *   Oxnard police chief calls shootout that killed bystander a tragedy Updated 10/16/2012 at 7:12 p.m.
-*   Investigation continues involving woman's fall onto highway Updated 10/16/2012 at 5:24 p.m.
-*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 57 comments
-*   Train hits and kills man near La Conchita Updated 10/16/2012 at 6:28 p.m.
 
-Photo Galleries Chaotic shooting rattles La Colonia… Ventura County's Most Wanted October… Top-flight building spices up…
+Photo Galleries Chaotic shooting rattles La Colonia… Top-flight building spices up… Ventura County's Most Wanted October…
 
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 120 comments
-*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 57 comments
-*   CLU professor heads study of undocumented college students Published 10/14/2012 at 5:49 p.m. 64 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 224 comments
+*   Morning chat Published 10/17/2012 at 12:00 a.m. 112 comments
+*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 58 comments
+*   CLU professor heads study of undocumented college students Published 10/14/2012 at 5:49 p.m. 66 comments
 *   Morning chat Published 10/15/2012 at 12:00 a.m. 62 comments
-*   Morning chat Published 10/16/2012 at 12:00 a.m. 55 comments
 
-*   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 40 comments
 *   Norovirus outbreak hits Oak Park school Published 10/15/2012 at 5:56 p.m. 8 comments
+*   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 40 comments
 *   2 dead after Oxnard police trade gunfire with men Published 10/14/2012 at 2:57 p.m. 0 comments
+*   Fire near Santa Barbara is 45 percent contained. evacuation orders lifted Published 10/17/2012 at 10:01 a.m. 0 comments
 *   Seaward Avenue crash kills motorcyclist in Ventura Published 10/9/2012 at 5:25 p.m. 0 comments
-*   Authorities identify motorcylclist killed in Ventura crash Published 10/10/2012 at 8:38 a.m. 0 comments
 
 Weather
 
@@ -665,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 76° Fair Wind: SW 7mph Today 81° 61° Wed 10:00 PM Clear Temp: 67° Thu 10:00 AM Sunny Temp: 72° Thu 10:00 PM Mostly Clear Temp: 63°
-
-Feels Like: 67°
-
-Humidity: 81%
-
-Precip: 0%
+Currently 71° Fair Wind: E 5mph Today 75° 63° Thu 05:00 PM Fog Temp: 72° Fri 05:00 AM Fog Temp: 61° Fri 05:00 PM Mostly Cloudy Temp: 70°
 
 Feels Like: 72°
 
-Humidity: 68%
+Humidity: 76%
 
 Precip: 0%
 
-Feels Like: 63°
+Feels Like: 61°
 
-Humidity: 90%
+Humidity: 96%
 
-Precip: 7%
+Precip: 3%
+
+Feels Like: 70°
+
+Humidity: 78%
+
+Precip: 3%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -707,10 +702,10 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   Tension escalates in 27th Senate District
 *   Against 'wasteful,' but for 'anonymous'
 *   So this is what democracy is supposed to look like
 *   Lee Rogers' guerilla campaign in CD 25
-*   The tale of a tiger
 
 Brian Dennert here
 
@@ -729,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Wednesday Oct 17
 *   Thursday Oct 18
 *   Friday Oct 19
+*   Saturday Oct 20
 *   More BROWSE Icon
-
-*   Soroptimist International of Oxnard October Program Speaker Courtyard by Marriott - Oxnard 7:30 a.m.
-*   Pet Adoption at The Bonaventure The Bonaventure 10 a.m.
-*   Dan Walters a "Dean" of California Journalists Takes a No Nonsense Look at California Tower Club, Oxnard 11:30 a.m.
-*   People with Disabilities Peer Support Group Independent Living Resource 1:30 p.m.
-*   Introduction to International Importing and Exporting Economic Development Collaborative - Ventura County 3 p.m.
-
-More Events »
 
 *   Coffee with Chuck East Coast Bagel, Westlake Village 7:30 a.m.
 *   The Beauty Myth: Understanding Unhealthy Eating Patterns Hyatt Westlake Plaza 9 a.m.
@@ -755,6 +742,14 @@ More Events »
 *   Woman's Advocate Speaks on ObamaCare Los Robles Golf Course Banquet Center 11 a.m.
 *   Grand Ole Party: Simi Valley Republican Women Federated October 19, Meeting: The Junkyard Restaurant: 2585 Cochran Street, Simi Valley, Ca. 93065 11 a.m.
 *   Costa Mesa Gem Faire OC Fair &. Event Center noon
+
+More Events »
+
+*   GENEALOGY SOCIETY FALL SEMINAR Church of Jesus Christ of Latter-Day Saints - Ventura 8 a.m.
+*   The Power of Pink: How to Cheat, Treat &. Beat Breast Cancer Ronald Reagan Presidential Library and Museum 8 a.m.
+*   Ventura County Heart Walk Conejo Creek North Park / Creekside Pavillion 9 a.m.
+*   “Learn How to Fly,” a series of informational seminars for 16-year-olds and older Camarillo Airport 9 a.m.
+*   “Learn How to Fly,” a series of informational seminars for 16-year-olds and older Camarillo Airport 9 a.m.
 
 More Events »
 
@@ -790,7 +785,7 @@ More Events » Features
     
     Play our pro football picks contest for a shot at $500 and other prizes.
     
-    #Ojai: How I See It
+    #Ojai: How You See It
     
     Your photos, your tweets, your Facebook posts about Ojai.
     
