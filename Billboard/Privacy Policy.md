@@ -92,13 +92,13 @@ previous 14/14
     
     With Queen Bey set to rock the halftime show of Super Bowl XLVII, it's time to think about which smash singles she might perform. What would be the ideal setlist? Vote now!
     
+*   Photos of the Week
+    
+    PSY and Hugh Jackman learn to dance "Gangnam Style" the Wolverine way, Bruno Mars hangs out with the Fonz, Usher parties at George Michael's birthday, Rihanna covers Vogue, and more. See the week's best pics!
+    
 *   Ke$ha: The Billboard Cover Story
     
     With "Die Young" gaining love from radio and new album "Warrior" set to hit in December, Ke$ha is back.
-    
-*   Photos of the Week
-    
-    Bruno Mars hangs out with the Fonz, Usher parties at George Michael's birthday, Katy Perry and Carly Rae Jepsen perform at Comedy Central's Night of Too Many Stars, Rihanna covers Vogue, and more. See the week's best pics!
     
 *   Jason Aldean Live Q&A
     
