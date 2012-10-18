@@ -731,8 +731,8 @@ Collections*   Summit Series®
 *   Flight Series®
 *   All Collections
 
-Equipment Patrol 24 ABS Pack
+Equipment Prophet 40 Pack
 
-The ultimate ski/board pack with built-in ABS Avalanche Airbag System to significantly increase your safety margin in the backcountry.
+Light, sleek and uncompromising – perfect for an epic day on the mountain. New Summit Series® technical pack available in two volumes.
 
 Shop Now
