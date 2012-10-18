@@ -1,4 +1,4 @@
-*   TRICK OR TREAT! SAVINGS UP TO 60%  
+*   FRIENDS &. FAMILY: 30% OFF ENTIRE SITE!  
     Shop Now >.
 *   Save $20 On Your First Purchase of $100 Or More\*  
     Sign Up for JNY.com Emails >.
