@@ -124,11 +124,11 @@ Tell a friend:
 
 **Want Consumerist in your inbox?** Popular Posts
 
-*   Delta Learns That It's Not A Good PR Move To Upset Judy Blume
-*   I Have No Sandwich Delivery And Local Jimmy John's Loses Business Because Of Stupid Manager
-*   I Can't Believe My Sister Is Dead, And Neither Can T-Mobile
-*   Man Successfully Reunited With $12,800 In Pot Plants After Calling Cops To Report Theft
-*   That Amazon Video You Bought? You May Not Actually Be Able To Watch It
+*   Air Canada Pilot To Passengers: Just Gonna Bring The Plane Down Low So We Can Look For A Missing Yacht
+*   Man On 50-Day Drinking Binge Makes Unwise Decision To Open Plane Door During Landing
+*   Maxi Pad Company Apologizes For Fooling Man Into Thinking Periods Are Fun In Any Way
+*   Gap Should Probably Have Looked At Wikipedia Before Putting "Manifest Destiny" On T-Shirt
+*   A Screen Capture Is Not Legally Binding Proof Of An Online Description Change
 
 About Consumerist
 
