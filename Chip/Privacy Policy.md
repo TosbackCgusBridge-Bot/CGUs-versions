@@ -258,9 +258,6 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 *   Newsletter
 *   CHIP-Kiosk
 
-Top News des Tages **iPad mini:**  
-Apple-Event am 23. Oktober
-
 *   Download-Ticker
 *   Best of Downloads
 
@@ -268,11 +265,11 @@ Apple-Event am 23. Oktober
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 iFunBox für Windows 2.0 Final Deutsch Adware
-*   2 Win8Starter 1.0.12 Deutsch Freeware
-*   3 NirLauncher 1.17.02 Englisch Freeware
-*   4 Robot Unicorn Attack: Follow Your Dream Englisch Freeware
-*   5 EvilLyrics 0.1.91 Englisch Freeware
+*   1 Freemake Video Downloader 3.3.0.1 Deutsch Freeware
+*   2 Orphalese Tarot 8.12.4.1 Englisch Demo
+*   3 iPod touch - PDF-Handbuch 6.0 Deutsch Freeware
+*   4 UltraDefrag (64 Bit) 5.1.0 Deutsch Freeware
+*   5 UltraDefrag 5.1.0 Deutsch Freeware
 
 ...mehr
 
@@ -298,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Media Markt Online Shop: Alle Angebote im Check
 *   Praxis-Test: Apple iPod touch 5G (64 GByte)
 *   Günstige Internet-Tarife im Vergleich: (V)DSL bis LTE
 *   PhysX: Coole Effekte in Borderlands 2 und die besten Geforce-Karten
 *   Test: Panasonic TX-L47WT50E (47-Zoll-LCD-TV)
-*   Test: Sony Vaio SVT-1311W1E/S (Notebook)
 
 ...mehr
 
@@ -315,14 +312,15 @@ Sponsored Links
 **RSS-Feed** Die beliebtesten Produkte
 
 *   Samsung Galaxy S3 GT-I9300 16GB  
-    ab 450,00 €
+    ab 458,88 €
+    
+    *   Test
+*   Samsung Galaxy S2 i9100  
+    ab 317,99 €
     
     *   Test
 *   Samsung Galaxy Note 2 N7100 16GB  
-    ab 557,98 €
-    
-*   Samsung Galaxy S2 i9100  
-    ab 318,88 €
+    ab 555,00 €
     
     *   Test
 *   Samsung Galaxy S Duos  
@@ -345,9 +343,9 @@ Meistgelesene Themen
 
 *   502 Bad Gateway was bedeutet das?
 *   Facebook: Brauchen wir den Klarnamenzwang?
+*   \[GELÖST\] jucheck.exe
 *   Facebook knacken leicht gemacht...
 *   Tastatur umstellen Englisch/Deutsch
-*   \[GELÖST\] jucheck.exe
 
 ...mehr
 
