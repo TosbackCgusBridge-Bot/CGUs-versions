@@ -731,14 +731,6 @@
 *   see all new items in occasions
 *   uncommongoods on sale for 30 - 70% off!
 *   see all sale items in occasions
-*   all homepage
-
-*   bestselling gifts
-
-*   handmade
-
-*   recycled
-*   best selling
 *   all by price
 
 *   gifts over $100
@@ -789,6 +781,14 @@
 *   see all new items in gifts
 *   uncommongoods on sale for 30 - 70% off!
 *   see all sale items in gifts
+*   all homepage
+
+*   bestselling gifts
+
+*   handmade
+
+*   recycled
+*   best selling
 *   all birthday gifts
 
 *   birthstones &. zodiac signs
@@ -928,14 +928,14 @@
 *   this just in
 *   sale
 
-*   homepage
-
 *   by price
 *   by recipient
 *   collections
 *   gift certificates
 *   this just in
 *   sale
+
+*   homepage
 
 *   birthday gifts
 *   this just in
