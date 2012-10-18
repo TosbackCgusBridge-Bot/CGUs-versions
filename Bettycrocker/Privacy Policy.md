@@ -93,9 +93,8 @@ Recipe
         *   See all
     *   Seasonal Ideas
         *   Fall
-        *   Winter Gatherings
-        *   Spring Celebrations
-        *   Grilling
+        *   Winter
+        *   Spring
         *   Summer
     *   Holidays
         *   Halloween
@@ -110,8 +109,8 @@ Recipe
         *   Game Day
         *   Betty's Brew House
         *   Potlucks
-        *   Brunches and Lunches
-        *   Casual Dinners
+        *   Favorite Parties
+        *   Weddings
         *   See all
 *   How-Tos
     *   Technique, Prep &. Storage
