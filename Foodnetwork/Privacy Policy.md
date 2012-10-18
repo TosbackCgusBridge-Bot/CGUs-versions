@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Diners, Drive-I... UP NEXT › Amazing Eats wi...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Barefoot Contes... UP NEXT › Barefoot Contes...
 
 *   Channel  
     Guide
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
-*   Recipe of the Day: Honey and Vanilla Cheesecake from @eatmypies t.co/59XcY1y7 #recipe #StreetFeastsUSA
-*   Like the look of what Andy’s been cooking? Get all the recipes here: t.co/8Jh9KUCD #StreetFeastsUSA
-*   @twistedcubanmft ha! We like your efforts!
-*   Get the recipes here: t.co/bh8N4bmx RT @dosadeli: @eatmypies @FoodNetwork\_UK your programme has made me so hungry, great recipes
-*   @ginmonkeyuk thanks! We've got some cool cocktail videos on our site too: t.co/asqE2S26
-*   @cocktaillovers we agree! Have you seen some of the cocktail videos we have? Well worth a look: t.co/4NOLecid
-*   @mike03lwis you can find the recipe here t.co/vypFFmdA Hope this helps!
-*   Shake up a cocktail good enough to lure '007' away from the beer, with our top technique videos: t.co/j2N0HOHY #cocktails
-*   Recipe of the Day: Parmigiano Reggiano and Butternut Squash Soup t.co/F8VooJ4R
-*   @elkantina yay! @eatmypies will love hearing that!
+*   RT @msnfood: Street food pro Andy Bates @eatmypies talks pies and British food: t.co/oW7sV7GY @FoodNetwork\_UK
+*   Missed an episode of Andy Bates American Street Feasts? Don’t panic! You can catch up here: t.co/EZwQVOay #StreetFeastsUSA
+*   Will you be making it? RT @mojomums: I've suddenly become more interested in Halloween... @FoodNetwork\_UK t.co/IgpruMAA
+*   @hobartkevin just keep telling everyone you're with and hopefully it will just magically turn up!
+*   Ha! They've actually all nearly gone now. RT @pots\_pans: @FoodNetwork\_UK Our office is very jealous #biscuitoclock #biscuitenvy
+*   @melissacole hope that bacon butty comes your way soon!
+*   This is what happens when you start talking about biscuits in our office! #biscuitoclock #whatimeating t.co/dLgTD6O6
+*   Couple of you asking - pudding is a creme brûlée tart, chocolate brownie, vanilla cheesecake, and salted caramel ice cream #inheaven
+*   What can I say?! I'm generous :) RT @JoYumdimsum: @FoodNetwork\_UK Share? SHARE?!
+*   Had to share pudding. Who wants to help? t.co/yCaIeO0W
 
 Follow Us
 
