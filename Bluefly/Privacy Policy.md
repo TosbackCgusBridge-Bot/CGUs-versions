@@ -174,9 +174,10 @@ coupon code: SHIP100
     *   Z
     *   ALL
 
-my fly Friends &. Family Sale! 20% - 40% off with code FAMILY
+my fly Shoe Sale! Now up to 75% off
 
-*   Shop Now
+*   Shop Women
+*   Shop Men
 
 Privacy Notice
 
