@@ -73,7 +73,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 *   Printer-friendly version
 *   Send by email
 
-*   Email Is The New Pony Express--And It's Time To Put It Down
+*   Nike Cuts Lance Armstrong, Sticks With Livestrong--Which Is Sticking By Armstrong
 
 ADVERTISEMENT
 
