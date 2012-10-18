@@ -143,27 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Weight Protein Resources
+*   Pedometer For Free Resources
 
   
-Stay in Touch With SparkPeople **4 Signs It's Time to Change Your Workout Routine**
+Stay in Touch With SparkPeople **Put Yourself First**
 
-Exercise shouldn't be a chore that you dread! To stay motivated, change your workout routine whenever these warning signs arise.
+Too often we do everything for others, but very little for ourselves. But you MUST take care of your own basic needs (and health) before you can attend to the needs of others. Here's how.
 
 Read More
 
-*   "New to me" foods
-*   What's your "go to" type of workout?
-*   Healthy Halloween snacks
 *   Mindful baking?
-*   Specific Tips to get through the Weekend
+*   Why the scale isn't a good indicator of health.
+*   Who Motivates you on Sparkpeople?
+*   Please share your favorite "pumpkin" recipes!
+*   Healthy Halloween snacks
 
-View Demo **Lying Triceps Lifts**  
-Tone your triceps without the weights? After enough reps of these, we'll turn you into a believer! **Chef Meg's Pumpkin Smoothie**  
+View Demo **Isometric Biceps Hold with Towel**  
+A towel provides resistance when you don't have any equipment. **Slow Cooker Marinara Chicken and Vegetables**  
 Submitted By: **CHEF\_MEG**
 
-Think outside the pie! This pumpkin smoothie is a sweet and healthy treat that kids will love.  
-Full Recipe
+Chef Meg made over a versatile member recipe by adding extra vegetables and reducing the sodium. Serve with a side salad or over whole wheat pasta or brown rice. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
