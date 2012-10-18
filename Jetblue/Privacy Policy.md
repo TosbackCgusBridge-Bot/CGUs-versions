@@ -133,7 +133,7 @@ Effective since January 28, 2004_
     
 *   Visit us on YouTube 1,907,543 total views
     
-*   BlueTales Blog  Your destination for all things JetBlue and beyond
+*   BlueTales Blog Your destination for all things JetBlue and beyond
     
 
 *   Get to know us
