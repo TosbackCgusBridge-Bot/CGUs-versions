@@ -24,12 +24,12 @@ Bravo
     *   Watch What Happens Live
     
     What's On Tonight
-    *   9:00 PM The Real Housewives of New York CityEp 20: Reunion Part II
-    *   New 10:00 PM Life After Top ChefEp 3: Duck Hearts and French Baguettes
-    *   New 11:00 PM Watch What Happens LiveGina Gershon &. Jackie WarnerSee All Shows » See Full Schedule »
+    *   New 9:00 PM The Real Housewives of MiamiEp 6: Sexting Candles
+    *   10:00 PM The Real Housewives of MiamiEp 6: Sexting Candles
+    *   New 11:00 PM Watch What Happens LiveBrandy &. Lisa HochsteinSee All Shows » See Full Schedule »
 *   People &. Blogs
     
-    *   Read The Dish's Latest Post Tips for Being a Bevery Hills Housewife
+    *   Read The Dish's Latest Post Get Inside Bravo Scoop With Zeebox
     
     Current Bravolebrities
     
@@ -63,18 +63,18 @@ Bravo
     *   Teresa Giudice
     
     Recent Blog Posts
-    *   Kathy Wakile Lessons from RHONJ
-    *   The Dish Getting Cat Crazy With 'LOLwork' Cast
-    *   The Dish Lea Black's Happy Marriage SecretsAll People » More Blog Posts »
+    *   The Dish Get Inside Bravo Scoop With Zeebox
+    *   Fabio Viviani Fabio: Mama's Boy
+    *   The Dish First Look Inside 'Top Chef Kitchen'All People » More Blog Posts »
 *   Videos &. Full Episodes
     
-    *   The Real Housewives of Beverly Hills How to be A Housewife: Brandi
+    *   Watch What Happens Live After Show: The Write Stuff
     
     Recent Clips
     
-    *   The Real Housewives of Beverly Hills How to be A Housewife: Kim
-    *   The Real Housewives of Beverly Hills How to be A Housewife: Kyle
-    *   The Real Housewives of Beverly Hills How to be A Housewife: Taylor
+    *   Watch What Happens Live After Show: The Write Stuff
+    *   Watch What Happens Live After Show: Gina Gershon's Mini Doll
+    *   Watch What Happens Live The Sweet Smell of Tom Cruise
     
     New Full Episodes
     *   The Real Housewives of New Jersey Episode 21: Reunion Part 1
@@ -284,22 +284,22 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   TOP CHEF RESTAURANT WARS - JOSE ANDRES
+*   BRAVO'S BIG PICTURE BUBBLE BOY
     
-    1:00 PM ET
+    6:00 AM ET
     
-*   TOP CHEF HIGH STEAKS - RICK TRAMONTO
+*   BETHENNY EVER AFTER IT'S MY BAPTISM AND I'LL CRY IF I WANT TO
     
-    2:00 PM ET
+    8:00 AM ET
     
 
-view complete schedule The Dish - Bravo's Daily News Tips for Being a Bevery Hills Housewife
+view complete schedule The Dish - Bravo's Daily News Get Inside Bravo Scoop With Zeebox
 
-Exclusive Videos: Learn how to live like Kim, Kyle, Taylor and Brandi.
+Download the app to get fun behind-the-scenes facts on your favorite shows.
 
-Read More Getting Cat Crazy With 'LOLwork' Cast
+Read More First Look Inside 'Top Chef Kitchen'
 
-The stars of our new show opine on all things feline.
+See pics of the show-inspired restaurant's first week.
 
 Read More More Dish Get insider Bravo news in our weekly update!
 
