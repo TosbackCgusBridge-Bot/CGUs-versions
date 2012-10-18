@@ -152,38 +152,36 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 *   One Direction  
     Over Again Lyrics
 *   One Direction  
-    C'mon, C'mon Lyrics
+    Heart Attack Lyrics
 *   One Direction  
     Live While We're Young Lyrics
-*   Maroon 5  
-    Payphone Lyrics
+*   David Guetta  
+    Titanium Lyrics
 
 *   Kanye West  
     White Dress Lyrics
-*   Tristan Prettyman  
-    My Oh My Lyrics
+*   One Direction  
+    Kiss You Lyrics
 *   Lana Del Rey  
     Ride Lyrics
 *   Katy Perry  
     Wide Awake Lyrics
-*   David Guetta  
-    Titanium Lyrics
+*   Adele  
+    Someone Like You Lyrics
 
 *   Jonas Brothers  
     Wedding Bells Lyrics
 *   One Direction  
-    Kiss You Lyrics
+    Change My Mind Lyrics
 *   Adele  
     Skyfall 007 Theme Lyrics
 *   Flo Rida  
     Whistle Lyrics
-*   Adele  
-    Someone Like You Lyrics
 
 *   Wale  
     Arrival Lyrics
 *   One Direction  
-    Heart Attack Lyrics
+    C'mon, C'mon Lyrics
 *   Ed Sheeran  
     A Team Lyrics
 *   Gotye  
@@ -191,8 +189,8 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 
 *   Ellie Goulding  
     I Need Your Love Lyrics
-*   One Direction  
-    Change My Mind Lyrics
+*   Tristan Prettyman  
+    My Oh My Lyrics
 *   Justin Bieber  
     As Long As You Love Me Lyrics
 *   Carly Rae Jepsen  
