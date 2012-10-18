@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Soneva Kiri - Thailand
-    
-    Starting Today 10/17 at 3pm EDT
-    
-*   The Alex - New York City
-    
-    Starting Today 10/17 at 3pm EDT
-    
-*   Little Good Harbour - Barbados
-    
-    Starting Today 10/17 at 3pm EDT
-    
-*   Icon Hotel &. Lounge - Prague
-    
-    Starting Today 10/17 at 3pm EDT
-    
-*   Hotel Lutetia - Paris
-    
-    Starting Thursday 10/18 at 3pm EDT
-    
-*   Aqua Wellness - Nicaragua
-    
-    Starting Thursday 10/18 at 3pm EDT
-    
 *   St Julien - Boulder
     
-    Starting Thursday 10/18 at 3pm EDT
+    Starting Today 10/18 at 3pm EDT
     
 *   Vineyard Square Hotel - MA
     
-    Starting Thursday 10/18 at 3pm EDT
+    Starting Today 10/18 at 3pm EDT
+    
+*   Aqua Wellness - Nicaragua
+    
+    Starting Today 10/18 at 3pm EDT
+    
+*   Hotel Lutetia - Paris
+    
+    Starting Today 10/18 at 3pm EDT
+    
+*   Eight Days in Bali &. Lombok
+    
+    Starting Friday 10/19 at 11am EDT
+    
+*   Anse Chastanet + Jade Mountain The Five-Night St. Lucia Honeymoon
+    
+    Starting Friday 10/19 at 11am EDT
+    
+*   c/o The Maidstone - Hamptons
+    
+    Starting Friday 10/19 at 11am EDT
+    
+*   Vuyani Lodge - South Africa A Five-night Honeymoon Safari
+    
+    Starting Friday 10/19 at 11am EDT
     
 
 View All Upcoming Sales → Jetsetter
