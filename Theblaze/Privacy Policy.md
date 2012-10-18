@@ -25,11 +25,7 @@ Sign In Sign Up
 *   Arab Crisis
 *   Campaign 2012
 
-Take Action
-
-Live BlazeCast Now: Your Answers to Questions About Obama’s Communist ‘Founding Father’
-
-About TheBlaze
+Take Action About TheBlaze
 
 **THEBLAZE.Com LLC – PRIVACY POLICY**
 
