@@ -2,7 +2,7 @@
 *   Skip to Search
 *   Skip to Main Content
 
-80° and Sunny
+71° and Sunny
 
 *   Prospective Students
 *   Current Students
@@ -92,6 +92,7 @@ UCLA Mobile Menu
 *   ATHLETICS
 
 *   Visit
+*   Apply
 *   Give
 
 Terms of Use
