@@ -1,8 +1,8 @@
 Bulletin Investor Alert
 
-New York Markets Close in:
+New York Markets Open in:
 
-After Hours Preview Winners and Losers Today's Schedule
+Pre-Market Indications Analyst Ratings Oil News EarningsWatch
 
 Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
@@ -198,91 +198,95 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 1:10 PM EDT October 17, 2012 /marketstate/country/us New York Open /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 18, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  1:08p
+/news/latest1.  8:06a
     
-    Medicaid program exit boosts Centeneâs shares
+    Juniper Networks shares jump 6% in preopen
     
-2.  1:07p
+2.  8:05a
     
-    Keep emotion out of the market
+    Union Pacfiic Q3 net $2.19 vs. $1.85
     
-3.  1:07p
+3.  8:03a
     
-    Euro hits 1-month high as Moodyâs affirms Spain
+    CORRECTED
     
-4.  12:59p
+    Big earnings to watch Thursday: Microsoft, Google
     
-    âThe Officeâ star finds hope in bleakness
+4.  8:01a
     
-5.  12:55p
+    Updates, advisories and surprises
     
-    Can Nokia weather a Lumia 'pause'?
+5.  8:00a
     
-6.  12:52p
+    Coming up: U.S. weekly jobless claims
     
-    Wednesdayâs biggest gaining and declining stocks
+6.  7:54a
     
-7.  12:49p
+    Dollar edges up as risk rally takes a breather
     
-    Intel, IBM spark corporate-demand jitters
+7.  7:51a
     
-8.  12:48p
+    Baxter sees adj Q4 of $1.24-$1.27 vs. $1.26 est
     
-    Is $250K a middle-class income?
+8.  7:47a
     
-9.  12:42p
+    Fairchild Semi profit drops, revenue to fall short
     
-    Los Angeles assessor nabbed for corruption
+9.  7:44a
     
-10.  12:41p
+    BREAKING
     
-    Gold climbs on softer dollar, demand prospects
+    Philip Morris profit falls
     
-11.  12:40p
+10.  7:43a
     
-    SEC charges hedge fund with exaggerating returns
+    Morgan Stanley swings to third-quarter loss
     
-12.  12:34p
+11.  7:42a
     
-    Radio Update: Stocks narrowly mixed
+    Stock futures flat. Verizon, jobless claims eyed
     
-13.  12:33p
+12.  7:42a
     
-    Euro-zone hopes to tamp down Spain bailout fund
+    Philip Morris net off 6.3% on forex, volumes
     
-14.  12:28p
+13.  7:41a
     
-    Euro rises, but donât credit the EU summit
+    Apple's iPhone shipment target lowered by BMO
     
-15.  12:28p
+14.  7:38a
     
-    Norilsk: Low nickel prices threaten global output
+    Travelers profit jumps as disaster costs fall
     
-16.  12:28p
+15.  7:35a
     
-    Post-AIG derivatives rules drafted by SEC
+    Fairchild Semi Q3 net 19c vs. 28c
     
-17.  12:25p
+16.  7:35a
     
-    Bank of America seesaws as investors weigh results
+    Fairchild Semi adj Q3 net 25c
     
-18.  12:24p
+17.  7:35a
     
-    Kasikornbank 3rd-quarter profit climbs 18.7%
+    Nokia swings to adjusted operating profit in Q3
     
-19.  12:22p
+18.  7:31a
     
-    Rosneft to meet with BP in London over TNK-BP
+    Radio update: Verizon matches earnings forecasts
     
-20.  12:20p
+19.  7:29a
     
-    PepsiCo pours lower profit. shares dip
+    Morgan Stanley swings to billion-dollar loss
+    
+20.  7:27a
+    
+    Rosneft makes offer for BP's TNK-BP stake
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,539.73 -12.05 -0.09% nasdaq /quotes/zigman/123127 3,108.88 +7.71 +0.25% s&p 500 /quotes/zigman/3870025 1,461.06 +6.14 +0.42% Kiosk
+dow /quotes/zigman/627449 13,557.00 +5.22 +0.04% nasdaq /quotes/zigman/123127 3,104.12 +2.95 +0.10% s&p 500 /quotes/zigman/3870025 1,460.91 +5.99 +0.41% Kiosk
 
 *   1341573300000 1341592200000
     
