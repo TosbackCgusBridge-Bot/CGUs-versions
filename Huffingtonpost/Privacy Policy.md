@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Election 2012
+*   Amusement Parks
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 17, 2012 Edition: **U.S.**
+October 18, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 17, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   LIVE UPDATES: Obama, Romney Face Off In Presidential Debate 43k
-    *   Obama Gets Aggressive In Rematch Against Mitt Romney 10k
-    *   Obama Wins Debate On Points 27k
-    *   POLL: Who Won The Debate? 2k
-    *   Mitt Romney's 'Binders Full Of Women' 6k
+    *   Obama Wins Debate On Points 45k
+    *   Mitt Romney's 'Binders Full Of Women' 9k
+    *   POLL: Who Won The Debate? 4k
+    *   Romney's 'Binders Full Of Women' Claim Empty 3k
+    *   Debate Questioners Remain Undecided 4k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 17, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   Volunteer On Ryan Soup Kitchen Visit: 'Phoniest Piece Of Baloney I've Ever Been Associated With' 8k
-    *   Obama 'Good-Paying' Jobs Claim At Odds With His Record 1k
-    *   PANDIT OUT 1k
-    *   The Shocking Way The Super-Rich Are Selling Their Homes 633
-    *   'Find Some Women That Are Qualified' 475
+    *   Meet The World's Richest Man 1k
+    *   Obama 'Good-Paying' Jobs Claim At Odds With His Record 9k
+    *   U.S. Postal Service Hits $15 Billion Borrowing Limit For First Time 1k
+    *   At Bain, Romney Had No 'Binders Full Of Women,' And No Women 1k
+    *   Great Sign For The Housing Market 507
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 17, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   LOOK: Hollywood Tweets The Debate 114
-    *   PHOTO: Beyonce Makes It Official 414
-    *   What Really Happened At The End Of 'The Dark Knight Rises'? 327
-    *   Sarandon Assaulted As A Young Actress 2k
-    *   3 Hollywood Moguls Donate $90 Million To Charity 169
+    *   LOOK: Hollywood Tweets The Debate 344
+    *   Why Did Guillermo Del Toro Leave 'The Hobbit'? 245
+    *   Happy Birthday, Eminem! 111
+    *   A Van Halen &. One Direction Feud? 551
+    *   Tom Hanks Is Tired Of Boring Movies 48
     
     Go to Entertainment **More in Entertainment**
     
@@ -87,10 +87,10 @@ October 17, 2012 Edition: **U.S.**
 *   Tech
     
     *   Hackers Identify Alleged Cyberbully Who Tormented Amanda Todd 3k
-    *   The New Boxee Could Straight-Up Kill Cable 423
-    *   WATCH: Stratospheric Skydiver Spins Out Of Control 853
-    *   Apple Sends Out Invitations For Event Next Week 238
-    *   9 Accessories To Complete Your iPhone 5
+    *   Verizon Stirs Up Privacy Controversy 244
+    *   The New Boxee Could Straight-Up Kill Cable 691
+    *   Google Lets Us Look At Its Energy-Sucking Data Centers 143
+    *   Best Buy Wants To Replace Your Kindle 62
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 17, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   WATCH: Candy Crowley Fact Checks Mitt Romney On Libya 34k
-    *   WATCH: Mitt Romney Barrels Over Candy Crowley 6k
-    *   Regis Philbin Agrees With Romney 853
-    *   WATCH: CNN Anchor Kicks Off Anti-Gay Guest 716
-    *   MSNBC's Felix Baumgartner Fail 557
+    *   WATCH: Candy Crowley Fact Checks Mitt Romney On Libya 52k
+    *   WATCH: Candy Crowley Responds To Fact Check Frenzy 14k
+    *   WATCH: Mitt Romney Barrels Over Candy Crowley 7k
+    *   WATCH: Scarborough Hammers Romney Over Debate 1k
+    *   PHOTOS: How Newspapers Covered Round 2 107
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 17, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   No, You Can't Read Prince Charles' Letters 126
-    *   Clinton: I'm Responsible For Consulate Security 7k
-    *   Teenage Girl Publicly Whipped For Speaking To Men 904
-    *   U.S. Arrests Daughter Of Notorious Mexican Drug Lord 125
-    *   Pussy Riot Doomed To Notorious Russian Prison 355
+    *   U.S. Servicemen Arrested For Allegedly Raping Japanese Woman 816
+    *   TOP SECRET! Gitmo Prisoner's Opinion On LeBron James 39
+    *   CIA Agent Among Dead In Afghanistan 'Insider Attack' 421
+    *   Teenage Girl Publicly Whipped For Speaking To Men 1k
+    *   U.S. Embassy In Stockholm Evacuated From Letter Threat 261
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 17, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Kay Lost Almost 140 Pounds: 'I Feel Like I've Been Given A Second Chance' 106
-    *   How Being A Woman Affects Your Workout 19
-    *   7 Reasons To Eat Breakfast 19
-    *   The Healthiest Salad Greens 94
-    *   Vitamin C Could Be Good For Bones 11
+    *   Kicking Butt! 10 Celebrities Who Have Quit Smoking 103
+    *   7 Reasons To Eat Breakfast 44
+    *   Kay Lost Almost 140 Pounds: 'I Feel Like I've Been Given A Second Chance' 112
+    *   What Will You Be For Halloween? Fitness-Themed Costume Ideas To Get You Inspired
+    *   How Being A Woman Affects Your Workout 26
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 17, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
+    *   PHOTOS: Ann Romney &. Michelle Obama Wear Matching Pink Outfits To Debate 1k
+    *   Is Ann Romney Trying To Be Edgy With Blue Nails? 1k
+    *   PHOTO: Kim Kardashian Admits Her Fashion Mistake 519
     *   PHOTOS: Kim Kardashian Goes Commando, Exposes Rear In Sheer Skirt With Kanye West 1k
-    *   PHOTOS: Ann Romney &. Michelle Obama Wear Matching Pink Outfits To Debate 983
-    *   WATCH: Chelsea Handler Points Out Jennifer Aniston's Nipples On TV 289
-    *   Angela Lansbury Rocks Our Old Souls 47
-    *   PHOTOS: We Totally Would've Crashed ELLE's Women In Hollywood Party
+    *   PHOTO: Pippa Middleton Hits Up London In A Sophisticated Look 27
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 17, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
+    *   Sarah Silverman's Dad Fires Back At Rabbi's Scathing Letter 1k
+    *   Binders Full Of What Now? The Funniest Debate Tweets 93
+    *   'We're So F\*cking Dumb' 3k
     *   PHOTOS: The Coolest Pop Culture Jack-O-Lanterns
-    *   Sarah Silverman's Dad Fires Back At Rabbi's Scathing Letter 789
-    *   Former SNL Star: 'If I Was Raped, I Would Have The Baby' 2k
-    *   EXCLUSIVE: Bill Maher's New Rule For 'Fox &. Friends' 2k
-    *   42 Animals Who Are Watching You 43
+    *   REMIX: He's Got 47 Problems &. A Binder Ain't One 203
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 17, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Now OtherVoices: Outsourcing
-    *   Next OtherVoices: You Decide!
-    *   Coming Up Gaming The System
-    *   Coming Up The 51st State?
-    *   Coming Up Online Dating TakeoverGo to HuffPost Live
+    *   Next No Hard Knock Life
+    *   Next Pro-Diversity, Anti-Gay?
+    *   Coming Up Romney's Gun Solution
+    *   Coming Up The Modern 'fArms' Race
+    *   Coming Up Tech Game ChangersGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
