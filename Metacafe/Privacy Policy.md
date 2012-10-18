@@ -214,6 +214,7 @@ Last updated: October 3, 2012
     *   Copyright
     *   Privacy (updated)
     *   Behavioral Targeting
+    *   AdChoices
 3.  Work With Us
     *   Advertisers
     *   Contact Us
