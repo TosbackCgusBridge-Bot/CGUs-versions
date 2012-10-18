@@ -67,21 +67,21 @@ Adotas.com RSS Feeds Follow Adotas.com on Twitter Follow Adotas on Facebook Adot
 
 Latest News
 
-*   Appinions Names Top Five Most Powerful CMOs with Release of CMO Influence Study _October 17th 2012_ NEW YORK (October 12, 2012) – Which CMOs wield the \[...\] more »
-*   ‘Tis the Season for Brand Safety _October 17th 2012_ Think of this as the “season before the season.” Before \[...\] more »
-*   Adblade for Lead Gen Enables Marketers to Reach, Engage and Convert Consumers _October 16th 2012_ NEW YORK (October 16, 2012) – Adblade, the ultra-premium ad \[...\] more »
-*   AutoTrader Turns to Skyword for Content Marketing Roll-Out _October 16th 2012_ BOSTON (October 16, 2012) – Skyword, a leading content production platform, today \[...\] more »
-*   Social on Heavy Rotation: Major Record Label Unveils New Interactive Website _October 16th 2012_ Music is all about reaching people through vibrations, words and \[...\] more »
-*   The Report Every Interactive Marketer Should Have _October 15th 2012_ By now you might have heard the mainstream media’s reduction \[...\] more »
-*   BBN Selects Visible Intelligence Platform to Power Social Media Listening Solution for B2B Marketers _October 15th 2012_ LAS VEGAS/DMA (October 15, 2012) — Visible Technologies®, a leader \[...\] more »
+*   Webcollage Launches Content Publishing for SMB Market _October 17th 2012_ NEW YORK (October 17, 2012) –  Webcollage \[...\] more »
+*   Demandbase Launches Company-Ta​rgeted B2B Advertisin​g Solution _October 17th 2012_ SAN FRANCISCO (October 17, 2012) — Demandbase, Inc., the real-time \[...\] more »
+*   Upcoming Industry Event Calendar _October 17th 2012_ Here’s a snapshot of upcoming industry events. Further information on \[...\] more »
+*   Ex-Forrester Sr. Analyst Michael Greene Joins AudienceScience as Director of Research and Marketing Strategy _October 17th 2012_ NEW YORK (October 17, 2012) -  Today, AudienceScience®, a global \[...\] more »
+*   L.A. Entertainm​ent Studio Simplifies Transmedia Storybuild​ing with New Platform _October 17th 2012_ LOS ANGELES (October 17, 2012) – The Shadow Gang, a \[...\] more »
+*   Mercedes-Benz USA Offers Mobile Users Customized, Luxury Brand Experience On-The-Go _October 17th 2012_ MONTVALE, NJ (October 16, 2012) – Mercedes-Benz USA (MBUSA) has \[...\] more »
+*   New Report From C3 Metrics Examines ‘Viewable Conversions: The Missing Link In Viewable Impressions’ _October 17th 2012_ NEW YORK (October 16, 2012) – C3 Metrics today \[...\] more »
 
 News Archive
 
 Features
 
-*   ‘Tis the Season for Brand Safety _October 17th 2012_
+*   Mobile Ad Tactics: What Works? What Doesn’t? _October 17th 2012_
 *   Social on Heavy Rotation: Major Record Label Unveils New Interactive Website _October 16th 2012_
-*   Mobile Ad Tactics: What Works? What Doesn’t? _October 15th 2012_
+*   ‘Tis the Season for Brand Safety _October 16th 2012_
 *   Three Keys for Facebook’s Longevity _October 11th 2012_
 *   Introducing The New MySpace: An Elegant Mashup of Spotify, Pinterest &. Facebook _October 9th 2012_
 
