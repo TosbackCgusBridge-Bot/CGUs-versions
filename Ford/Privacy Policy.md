@@ -241,7 +241,7 @@ Build &. Price Request a Local Quote Previous Model Year   SUPER DUTY
 
 Starting MSRP:
 
-$29,8351
+$29,5451
 
 Seating for:
 
@@ -249,7 +249,7 @@ Seating for:
 
 Tow up to:
 
-24500 lbs3
+24700 lbs3
 
 Build &. Price Request a Local Quote Previous Model Year Commercial Trucks
 
@@ -313,7 +313,7 @@ Max. GVWR:
 
 Starting MSRP:
 
-$29,8351
+$29,5451
 
 Max. GVWR:
 
@@ -688,7 +688,7 @@ When do you plan to acquire your new vehicle?
 
 Get information about your preferred vehicles (select up to three).
 
-C-MAX Edge Escape Escape Hybrid E-Series Wagon Expedition Explorer F-150 Fiesta Flex Focus Focus ST Focus Electric Fusion Fusion Hybrid Mustang Super Duty Taurus Transit Connect Future Vehicles 2013 Fusion Energi 2013 Fusion Hybrid 2014 Transit 2014 Transit Connect Commercial Vehicles Transit Connect E-Series Van E-Series Wagon E-Series Cutaway Super Duty Pickup Chassis Cab F-650/F-750 Stripped Chassis Ford Truck Commercial Connection Our Privacy Pledge
+C-MAX Edge Escape Escape Hybrid E-Series Wagon Expedition Explorer F-150 Fiesta Flex Focus Focus ST Focus Electric Fusion Fusion Hybrid Mustang Super Duty Taurus Transit Connect Future Vehicles 2013 Fusion Energi 2014 Transit 2014 Transit Connect Commercial Vehicles Transit Connect E-Series Van E-Series Wagon E-Series Cutaway Super Duty Pickup Chassis Cab F-650/F-750 Stripped Chassis Ford Truck Commercial Connection Our Privacy Pledge
 
 We will never share your personal information with non-affiliated third parties. For information on how we protect your privacy, please read our Privacy Policy
 
@@ -1341,10 +1341,6 @@ EPA-estimated. Actual mileage will vary. Class is Small Electric Cars.
 153
 
 EPA estimated 47 city/47 hwy/47 combined mpg. Actual mileage will vary. Class is Midsize Hybrid Sedans vs. 2012/2013 competitors.
-
-153
-
-EPA-estimated 47 city/47 hwy/47 combined mpg. Actual mileage will vary.
 
 154
 
