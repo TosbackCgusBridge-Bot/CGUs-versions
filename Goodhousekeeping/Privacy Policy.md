@@ -91,7 +91,7 @@ Try: 7 Years Younger • Travel Mugs • Quick Dinners
     *   Gift Ideas
 *   Product Reviews
     
-    Best Multi-Purpose Cleaners
+    Best Cranberry Sauce
     
     Read More!
     *   Appliances
@@ -157,9 +157,9 @@ In order to view the Privacy Policy you must enable javaScript. Print Share Late
 *   Product  
     Reviews
     
-    Best Multi-Purpose Cleaners
+    Best Cranberry Sauce
     
-    The combination cleansers were the best at vanquishing messes
+    To suss out the best match for the bird, our testers sampled 17 condiments on roast turkey.
     
 
 Other Stories You Might Like
