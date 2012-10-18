@@ -95,15 +95,15 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Country Living advertisement
 
-*   **cake**
+*   **halloween**
 
-*   **chicken**
+*   **kitchens**
 
-*   **low fat recipes**
+*   **living rooms**
 
-*   **Beef recipes**
+*   **halloween decorations**
 
-*   **soups**
+*   **bedrooms**
 
 Home &. Decorating
 
