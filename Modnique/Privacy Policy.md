@@ -100,7 +100,7 @@ Loading Modnique - Boutique Events
     *   _more..._
     *   other
     *   Italian watches from $25
-    *   Ladies Bracelet Designed In 925 Sterling Silver
+    *   PILGRIM SKANDERBORG, DENMARK Ladies Crystal Bracelet
     *   Rolex
     *   Round Shaped Watches
     *   Tonino Lamborghini Watches
