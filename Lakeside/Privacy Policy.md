@@ -963,7 +963,6 @@ Y*   Books + Media
             *   Kitchen and Dining
             *   Tables, Stands
         *   open Storage
-            *   Cabinet Storage
             *   Household
             *   Closet
         *   Slipcovers
@@ -994,7 +993,6 @@ Y*   Books + Media
         *   Outdoor Lighting
         *   Outdoor Decor
     *   open Storage
-        *   Cabinet Storage
         *   Closet
         *   Household
     *   open Gifts
@@ -1015,7 +1013,6 @@ Y*   Books + Media
             *   Cutlery and Flatware
         *   Tools + Gadgets
         *   open Storage + Organization
-            *   Cabinet
             *   Countertop Accessories
             *   Household Organization
             *   Bowls
@@ -1051,7 +1048,6 @@ Y*   Books + Media
         *   Kitchen and Dining
     *   open Storage
         *   Seasonal
-        *   Cabinet Storage
         *   Bathroom
         *   Furniture
         *   Household
@@ -1139,7 +1135,6 @@ Y*   Books + Media
     *   open Storage + Organization
         *   Bowls
         *   Household Organization
-        *   Cabinet
         *   Countertop Accessories
     *   Appliances
     *   open Baking + Cooking
@@ -1216,7 +1211,6 @@ Y*   Books + Media
     *   Lunch Totes
 *   Electronics
 *   open Storage
-    *   Cabinet Storage
     *   Bathroom
     *   Furniture
     *   Closet
