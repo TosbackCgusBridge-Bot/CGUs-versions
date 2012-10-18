@@ -1,4 +1,4 @@
-  loading article | sponsored by loading article Login Sign Up Search Type your search Facebook Twitter Follow @sbnation Menu Items
+  Login Sign Up Search Type your search Facebook Twitter Follow @sbnation Menu Items
 
 *   NFL
 *   NBA
@@ -129,4 +129,4 @@ Your privacy is important to us and we have prepared this Privacy Policy to expl
 *   Browse Blogs
 *   Contact Us
 
-Guiding Principles - Terms of Use - Privacy Policy 2012 Vox Media, Inc. All Rights Reserved
+SBNU v1.0.3, October 17, 2012 Guiding Principles - Terms of Use - Privacy Policy 2012 Vox Media, Inc. All Rights Reserved
