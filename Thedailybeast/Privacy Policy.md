@@ -16,9 +16,9 @@ Featured:
 
 *   Debates
 *   Hero Project
-*   Andrew Sullivan's The Dish
+*   The Dish
 *   Howard Kurtz
-*   Frum
+*   David Frum
 
 Privacy Policy   Content Section
 
@@ -132,50 +132,50 @@ If you have any questions or concerns about this privacy policy, you may contact
 
 Stories We Like
 
-1.  Us Weekly Photos: Partying with Robert Pattinson
-2.  Huffington Post Politics Marco Rubio Throws Cold Water on Romney's Tax Plan
-3.  Buzzfeed 30 DIY Halloween Costume Ideas
-4.  Ask Men A Sneak Peek at New James Bond: 'Skyfall'
-5.  Us Weekly Beyonce to Headline 2013 Super Bowl Halftime Show
-6.  Pop Sugar Scary Movies With a Dash of Romance for Halloween Date Night
-7.  Mental Floss 11 Creative Breakthroughs People Had in Their Sleep
-8.  Us Weekly See Blake Lively's Engagement Ring
-9.  Buzzfeed 11 Ways to Cook Bacon That Will Probably Kill You
+1.  Us Weekly Taylor Swift, Ethel Kennedy 'Fascinated by Each Other'
+2.  Huffington Post Politics Mitt's Bizarre Debate Claim Falls Apart
+3.  Pop Sugar Ben Affleck and His Leading Men Premiere Argo in London
+4.  Us Weekly Ryan Gosling, Rooney Mara Share a Sexy Slow Dance on Set
+5.  Buzzfeed 13 Excruciatingly Cute Pictures of an Orphaned Baby Elephant Being Raised by Humans
+6.  Ask Men The Best Boots at Every Price Point
+7.  Huffington Post Politics Plagued Workers Plead With Mitt Over Big Loss
+8.  Us Weekly A Look Back at John Mayer's Famous Girlfriends
+9.  Tres Sugar Celebrities Tweet About Debate and Binders Full of Women
 
   Most Popular
 
-1.  Mitt’s ‘Binders Full of Women’ Slip
-2.  7 Best Moments from the Second Presidential Debate
-3.  Obama Seizes the Upper Hand
-4.  Candy’s Fact-Check
-5.  The Great Deformer
+1.  A Turn of the Page for Newsweek
+2.  My Proof of Heaven
+3.  Taliban Declare War on Media
+4.  The Great Deformer
+5.  Obama’s Risky Bet On Single Women
 
   Other News Entertainment
 
-*   Bing: Celebs Who Lost Endorsements
+*   Who Should Zooey Date?
 *   Week in Photos for Oct. 19, 2012
-*   Glum-Faced John Mayer Marks Birthday With Katy Perry, Bow Tie
+*   Reveal: Celebs Wearing Crazy Boots
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘The Unfinished Swan’: Behind-the-scenes of the intriguing new indie game — EXCLUSIVE VIDEO
-*   Matthew Fox denies hitting woman: It’s ‘a pile of bulls—’
-*   ‘Arrested Development’: A charitable way to attend the season 4 premiere party
+*   ‘Modern Family’ react: The all-too-familiar plot disappoints
+*   ‘Supernatural’ recap: Heart of the matter
+*   Ashton Kutcher is highest-paid TV actor, followed by Hugh Laurie and Ray Romano
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Team Obama Celebrates Romney's "Binders Of Women" Line
-*   You Need To Hear The New Godspeed You! Black Emperor Album
-*   Lance Armstrong Steps Down At Livestrong, Loses Nike Sponsorship
+*   How To Make 5 Perfect Dinners For $10 Each
+*   Romney Son Wanted To "Take A Swing" At Obama During Debate
+*   Career Confidential: The Sex Educator In Rural Georgia
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Quote of the Day
-*   What They're Reading in Chicago
-*   Who Won the Debate - Before it Happened?
+*   Obama to Hold Election Night Rally Inside
+*   Obama Ready to Play Hardball on Fiscal Cliff
+*   Little Talk of Second Term Agenda
 *   **Get More from Political Wire**
 
 The Daily Beast
@@ -208,9 +208,9 @@ Featured:
 
 *   Debates
 *   Hero Project
-*   Andrew Sullivan's The Dish
+*   The Dish
 *   Howard Kurtz
-*   Frum
+*   David Frum
 
 Partners:
 
