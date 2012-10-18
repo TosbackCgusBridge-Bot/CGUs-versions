@@ -277,6 +277,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Saeco
     *   Starbucks
     *   Technivorm
+    *   Vitamix
     
     Featured
     
@@ -382,7 +383,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Galaxy Pastries
     *   Mohr-Fry Ranches
     *   Perfect Endings
-    *   Tatte
+    *   Tatte Fine Cookies &. Cakes
     *   Williams-Sonoma Spice Collection
     
     Featured
@@ -596,7 +597,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     Sale &. Offers
     
     *   Sale
-    *   Lighting Event
     *   Free Shipping
     
     Learn More
