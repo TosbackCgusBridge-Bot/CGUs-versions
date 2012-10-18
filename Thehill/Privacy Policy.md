@@ -212,105 +212,105 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-The Hill’s 50 races to watchModerator Crowley helps Obama rebut Romney on LibyaProfessors donate to Obama, opine about election in news articles'Binders full of women' goes viralRight hits Crowley for correcting Romney on Obama's 'acts of terror' remark
+The Hill’s 50 races to watchGallup: Romney's lead among likely voters expands to six pointsTeam Romney won't rein in GOP nominee during third debateRyan presses Obama on 'act of terror' remarkObama campaign ‘absolutely not’ giving up in Fla., NC, Va.
 
 Emailed
 
-Professors donate to Obama, opine about election in news articlesSupreme Court allows early voting in OhioThe Hill’s 50 races to watchJohn Kerry nails Mitt Romney on ‘Morning Joe’Moderator Crowley helps Obama rebut Romney on Libya
+Gallup: Romney's lead among likely voters expands to six pointsThe Hill’s 50 races to watchJohn Kerry nails Mitt Romney on ‘Morning Joe’Senators push regulators for bigger bank cushionsRetirees to get 1.7 percent cost-of-living hike in their Social Security benefits
 
 Discussed
 
-Poll: Plurality say polls biased for ObamaProfessors donate to Obama, opine about election in news articlesMore bad news for Mitt Romney US ambassador: Internet fee proposal gaining momentumObama, Romney confrontational in second presidential debate
+Professors donate to Obama, opine about election in news articlesModerator Crowley helps Obama rebut Romney on LibyaUS ambassador: Internet fee proposal gaining momentumObama, Romney confrontational in second presidential debateClinton on Libya attack: ‘I take responsibility’
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   MORNING READ
-*   Ann Romney calls it mostly ‘myth’ that Mitt changes position
-*   DAY'S END ROUNDUP
+*   Tagg Romney: Obama made me want to rush stage, 'take a swing at him'
+*   First lady: President 'didn't point fingers, didn't place blame'
+*   Report: Family says former Sen. McGovern ‘no longer responsive’
 
   
 More Briefing Room » Congress Blog
 
-*   Obama-Romney debate: Binders full of questions
-*   Debate fact-checking long overdue - Hooray for Candy!
-*   Obama rebounds, Romney stumbles
+*   Romney's pivots raise the character issue
+*   Romney - A man without a plan
+*   Politicizing the Benghazi attacks
 
   
 More Congress Blog » Pundits Blog
 
+*   The debate aftermath: Mitt Romney doesn’t get it
 *   Obama muddies the water on Libya
 *   The next debate
-*   John Kerry nails Mitt Romney on ‘Morning Joe’
 
   
 More Pundits Blog » Twitter Room
 
+*   GOP Rep. Issa wants to have dinner with Bill Clinton
 *   'Binders full of women' tops social-media buzz for debate
 *   Del. Norton misspells Obama in debate tweets
-*   Right hits Crowley for correcting Romney on Obama's 'acts of terror' remark
 
   
 More Twitter Room » Hillicon Valley
 
-*   Fewer tweets during second debate
-*   News bites: Google CEO speaks publicly on antitrust probes
-*   Obama, Romney trade barbs on bringing manufacturing jobs back to the US
+*   White House denies Huawei investigation report
+*   US delegation members for international telecom treaty talks revealed
+*   Cellphone carriers begin warning about extra fees
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   White House energy aide hopes for ‘reset button’ with Congress
-*   News bites: California legal battles over climate, drilling
-*   Climate change a no-show again despite debate’s energy focus
+*   Obama campaign defends debate silence on climate change
+*   Enviros say debate a 'missed opportunity' for Obama to discuss climate change
+*   Insurance giant cites climate in rising North American disaster costs
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Ad attacks McCaskill on sending 'taxypayer money' overseas
-*   McMahon and Murphy in statistical dead heat in Conn. Senate race
-*   Dem super-PACs launch blitz targeting House, Senate races
+*   Senate candidates in tough races raise $57M
+*   In lively third debate, Tierney labels Tisei a 'Tea Party Republican'
+*   OVERNIGHT CAMPAIGN: Debate fallout edition
 
   
 More Ballot Box » On The Money
 
-*   China bristles at Obama, Romney attacks during debate
-*   Senators push regulators for bigger bank cushions
-*   Housing construction hits 4-year high
+*   Romney campaign calls tax group analysis 'deceitful'
+*   Consumers say economy will influence their votes for president
+*   Tax group questions the math in latest Romney proposals
 
   
 More On The Money » Healthwatch
 
-*   Republicans press HHS on malpractice reform
-*   News bites: More from the showdown
-*   Medicare, Obama health law get short debate time
+*   Critics slam Mitt Romney on equal pay
+*   DCCC mounts healthcare attacks in new TV ads
+*   Obama touts contraception policy amid post-debate focus on women
 
   
 More Healthwatch » Floor Action
 
-*   Durbin visits 'Bainport' protesters ahead of presidential election
-*   Alaska's Young tells younger candidates: Wait in line for my seat
-*   Blumenthal calls for better benefits for volunteer firefighters
+*   Levin recommends closing offshore tax loopholes to reduce the deficit
+*   Rockefeller assists government efforts to crack down on scams by online moving companies
+*   Sen. Paul's PAC airs ads attacking vulnerable Dems on vote not to end foreign aid
 
   
 More Floor Action » Transportation
 
-*   Enviros argue European airline emissions trading is working
-*   Former Michigan Gov. Granholm glad Obama ‘called Mitt out on autos’
-*   Haley Barbour's lobbying firm representing Toyota
+*   Obama in Iowa: 'We said thanks but no thanks' to Romney's advice on auto bailout
+*   Spirit Airlines offers 'binders full of sales'
+*   Enviros argue emissions trading is working in Europe
 
   
 More Transportation » DEFCON Hill
 
-*   Report: CIA agent among US dead in latest 'insider attack'
-*   Defense industry group upset ‘fiscal cliff’ wasn’t debated
-*   Candidates duck defense, national security in second debate
+*   DOD, State Department strike deal with Pakistan to counter roadside bombs
+*   Accused 9/11 mastermind wears camo at Guantánamo hearing
+*   US, Israel to kick off largest joint military exercise
 
   
 More DEFCON Hill » Global Affairs
 
+*   Obama, Romney sharpen arguments for rematch over Libya
+*   Dems slam European Union for planned delegation to Iran
 *   Obama, Romney campaigns battle for post-debate edge over Libya
-*   National Foreign Trade Council President Bill Reinsch: Opportunity for course correction in Ecuador
-*   Wednesday's global agenda: Libya debate postmortem
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris Mitt should expand map Markos Moulitsas Scott Brown's blunder More Columnists »
