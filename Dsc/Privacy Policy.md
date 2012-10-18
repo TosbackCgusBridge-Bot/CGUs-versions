@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Sons of Guns (Season 3)Shotgun Superstars vs. Red Jacket 8:00PM Sons of Guns: Osama Takedown Gun Reloaded  9:00PM Sons of Guns (Season 3)Nine Guns and a Shootout TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Fast N' LoudAmazing Impala 8:00PM Fast N' LoudRamshackle Rambler 9:00PM Fast N' LoudFast &. Furious Fairmont TV SHOWS
 
 American Chopper
 
@@ -324,21 +324,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-This RC Car Chase is Epic: Gotta-See Video
+Ancient Tomb Found Near Sweden's 'Stonehenge'
 
-Rare Quake Rattles New England: DNews England
+Ancient Tomb Found Near Sweden's 'Stonehenge'
 
-No, Global Warming Hasn't 'Stopped'
+Dome-Headed Dinos Battled With Their Heads
 
-Complex Body Parts Could Soon Be Lab-Grown
+Excellent Idea of the Day: Robonaut Exoskeleton
 
-Trampoline Bridge Proposed: DNews Nugget
+Hands Do the Talking on Squeezable Smartphones
 
-Organic Farming Increases Soil Quality
+Parasite Eats From Inside, Out: Gotta-See Video
 
-Eight-Eyed Spiders Watch Videos and People
+Robot Paints Your Sleep Pattern
 
-Geoengineering Nut Dumps Tons of Iron Into Ocean
+Armstrong Dropped by Nike, Leaves Livestrong
 
   facebook share0 Tweet Privacy Policy  
 
@@ -544,33 +544,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 17,  
-12:00 pm  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 18,  
+7:00 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 18,  
+7:30 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 18,  
+8:00 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 18,  
+8:30 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 18,  
+9:00 am  
 60 min(s)  
-**The New Detectives**  
-_M.E.'s Casebook_  
- In the Florida panhandle, a passerby discovers a killer's dumping  
-Oct 17,  
-1:00 pm  
-60 min(s)  
-**Killing bin Laden**  
- An intimate account of the bin Laden operation - from the time th  
-Oct 17,  
-2:00 pm  
-60 min(s)  
-**Secrets of Bin Laden's Lair**  
- When SEAL Team Six killed Osama Bin Laden in 2011, they scooped u  
-Oct 17,  
-3:00 pm  
-60 min(s)  
-**Secrets of Seal Team 6**  
- For three decades, the elite government operatives of SEAL TEAM V  
-Oct 17,  
-4:00 pm  
-60 min(s)  
-**Sons of Guns (Season 3)**  
-_Total Recall Vector Submachine Gun_  
- Inspired by the new "Total Recall", Kris builds a Red Jacket vers  
+**The FBI Files**  
+_No Place to Hide_  
+ In the spring of 1997, a killer who preyed on senior citizens was  
 **More Listings »**   Shop Discovery Store      
 
 our sites
