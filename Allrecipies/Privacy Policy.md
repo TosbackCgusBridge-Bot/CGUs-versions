@@ -1,6 +1,6 @@
 More searches: Ingredient | Nutrition | Advanced Email or User Name Remember Me Password (forgot?)    
 
-*   *   *   *   Pumpkin Soup This creamy pumpkin soup is a favorite for Thanksgiving dinner. »
+*   *   *   *   Absolute Mexican Cornbread See how to make moist and tasty cornbread with a kick. »
         
         *   *   Top Halloween Treats Best recipes for fright night. »
         
@@ -139,7 +139,6 @@ More searches: Ingredient | Nutrition | Advanced Email or User Name Remember Me 
             *   Membership
             *   Free Membership
             *   Supporting Membership
-            *   Gift Membership
             *   Newsletters
             
             *   Allrecipes Everywhere
@@ -170,7 +169,7 @@ More searches: Ingredient | Nutrition | Advanced Email or User Name Remember Me 
 
 **Important changes for Allrecipes users:** we’ve updated our privacy policy to reflect recent site improvements including email, alerts, other communication methods, and international use. You may read our entire Privacy Policy below and our Terms and Conditions here.  
   
-_Last updated:_ **February 2, 2011**  
+_Last updated:_ **October 17, 2012**  
   
 
 *   About the Privacy Policy
@@ -180,7 +179,6 @@ _Last updated:_ **February 2, 2011**
 *   E-mail and Newsletters
 *   E-mail-A-Friend or Invite a Friend
 *   E-mail Change and Unsubscribing
-*   Gift Recipient Email Notification
 *   Public Forums: Message Board, Blogs
 *   Contests, Promotions, Offers and Surveys
 *   Customer Service
@@ -244,11 +242,6 @@ TOP Invite-A-Friend
 
 **When You Use “Invite-A-Friend” or other referral services**  
 If you elect to use any of our referral services for informing a friend about our Site or any portion thereof, you will be asked to provide your friend’s name and e-mail address. We will then automatically send the friend a one-time e-mail (usually including your name and email address) inviting them to visit the Site. We ask for this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program.
-
-  
-
-**Gift Recipient Email notification**  
-If you purchase a Supporting Membership for someone else we will send them an email (usually including your name and email address) notifying them that they were given a gift membership. We ask for this information for the sole purpose of sending this one-time e-mail and for gift redemption.
 
   
 
