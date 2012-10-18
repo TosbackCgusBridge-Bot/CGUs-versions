@@ -4,14 +4,14 @@
 *   Hot Topics
     *   Election 2012
     *   Mitt Romney
-    *   Obama 2012
-    *   Mitt Romney 2012
-    *   presidential debate
-    *   President Obama
     *   entertainment
-    *   Barack Obama
+    *   presidential debate
+    *   Mitt Romney 2012
+    *   Obama 2012
+    *   strange stuff
+    *   President Obama
     *   celebrity
-    *   timeless news
+    *   Barack Obama
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -119,63 +119,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Acts of Terrorâor an Error?
-*   Why Mitt Romneyâs Massachusetts Education Plan Backfired
-*   How Lance Armstrong Is Like Lehman Bros.
+*   Stop Talking About Small Business and Income Tax Rates!
+*   The Drones Are Coming to Libya
+*   Should You Go to the Drugstore for Your Flu Shots?
 
 More from Slate »
 
-*   REAL LIFE GHOST STORIES
-*   Darth Vader's Wife Punched In The Face
+*   WOMAN BREASTFEEDS DOG
 *   Alanis Morissette Music Leads To A Plate In The Face: Cops
+*   Darth Vader's Wife Punched In The Face
 
 More from HuffPost Weird »
 
-*   16 Strange. Weird And Wonderful Halloween Decorations
-*   5 Gross Things Men Do That Women (Kind Of) Donât Mind
-*   Who Wore It Better?: The First Lady Faces Off Against Ann...
+*   Woo Hoo! Next Season Of âANTMâ Will Include Male Models!
+*   Australian Dictionary Fiddles With The Definition Of...
+*   October 17: What Are We Wearing Today?
 
 More from The Frisky »
 
-*   Kate Gosselin fired from gig as blogger for CouponCabin...
-*   News: Police taser man with sword. Lite-Fark: Sword turns...
-*   Orphaned baby elephant raised by human mom, which could...
+*   Thursday GJTB thread. Haters gonna hate, but donaters gonna...
+*   Not guilty verdict in father/daughter vibrator case leaves...
+*   Woman caught with a shopping cart full of unpaid sports...
 
 More from Fark »
 
-*   The second presidential debate: 3 stylistic tics that hurt...
-*   Fact-checking the second Obama-Romney debate: Who told the...
-*   Mitt Romney's 'binders full of women': The fallout
+*   5 ways Mitt Romney can win the final presidential debate
+*   The evolution of SEAL Team Six
+*   Miss Bush? Vote Romney!
 
 More from The Week »
 
-*   Great Moments in âFailed Attempts at Not Looking Ridiculousâ
-*   Kristina OâNeill Replaces Deborah Needleman at WSJ.
-*   New York Observer Sides With Father-in-Law Donald Trump on...
+*   Jonathan Chait on Piers Morgan: Focus on Romneyâs âBindersâ...
+*   Mayor Bloomberg Now Has His Own PAC
+*   Bruce Springsteen Is Obamaâs Secretary of Explaining Stuff...
 
 More from Daily Intel »
 
 *   Kicking Butt! 10 Celebrities Who Have Quit Smoking
+*   National Disability Awareness Month: The Best Compliment Is...
 *   How Does Sleep Affect Mental Wellness?
-*   Why I Can't Quite Be Okay With 'Okay at Any Size'
 
 More from HuffPost Health »
 
-*   One Direction's Harry Styles Shows Off More Fresh Ink,...
-*   Lance Armstrong Steps Down as Livestrong Chairman, Dropped...
-*   Jessica Alba, Taylor Swift, Emma Stone are Mad for Plaid:...
+*   Kate Upton Flaunts Major Cleavage in Vogue's November Issue...
+*   Lance Armstrong's Fall From Grace: What Does it Mean for...
+*   Kristen Stewart, Robert Pattinson Romance: 70% of Readers...
 
 More from Celebuzz »
 
-*   âAmericaâs Next Top Modelâ Adds Hot Male Models to the Mix...
-*   Ice Cream Recall Puts Favorite Flavor at Risk: Here's the...
-*   Emily Maynard and Jef Holm's Official Break-Up Statement Is...
+*   Look Before You Leap When Buying Toys for Kids
+*   10 Seriously Awesome Family Costume Ideas
+*   'Paranormal Activity 4' Is So Scary Even the Trailer Gives...
 
 More from The Stir »
 
-*   Lance Armstrong Gone from Nike, Livestrong
-*   Harper's Bazaar Editor Heads to WSJ.
-*   Dear God, Save Me From the Monsters in the Drambuie Ad
+*   Portrait: The Hive
+*   Perspective: Testimonial Dinners
+*   DDB Seeks New U.S. CD on McDonald's
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
