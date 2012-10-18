@@ -230,6 +230,10 @@ Search iVillage.com Search
     *   News
     *   Boards
     *   Videos
+        *   *   iVoices
+            *   The Conversation Thread
+            *   My Best Idea
+            *   iVillage 5
 *   Health
     *   Look It Up
         *   *   Conditions
@@ -304,6 +308,7 @@ Search iVillage.com Search
     *   Deals
     *   Boards
     *   Videos
+        *   *   DIY Beautify
 *   Food
     *   Recipes
         *   *   Halloween
@@ -314,6 +319,7 @@ Search iVillage.com Search
     *   News
     *   Boards
     *   Videos
+        *   *   My Best Idea
     *   Fall Recipe Guide
 *   Home &. Garden
     *   Decorate
@@ -325,6 +331,7 @@ Search iVillage.com Search
     *   Blogs
     *   Boards
     *   Videos
+        *   *   My Best Idea
 *   Love &. Sex
     
 *   Boards
@@ -490,7 +497,7 @@ Would you like to receive special offers, promotions, coupons, and free samples 
 *   Today's Big Story (SAMPLE)
     
 
-See All Newsletters   Advertisement Clip of the Day
+See All Newsletters  
 
 *   Homeandgarden My Best Idea The Best Gift for a New Mom? A Midnight Baby Basket!
 *   Beauty DIY Beautify DIY Beautify: Get Noticed with Bright Lips and Cheeks
