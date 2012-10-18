@@ -23,6 +23,7 @@ A NOTE FROM STEPHANIE LINK
     *   Automotive News
     *   Small Business News
     *   Political News
+    *   Election 2012
     *   Opinion
 
 *   **How to Invest**
@@ -71,9 +72,10 @@ A NOTE FROM STEPHANIE LINK
 *   **PREMIUM SERVICES**
     *   Action Alerts PLUS
     *   Real Money
-    *   Stocks Under $10
+    *   Stocks Under $10  
+        \*\*\*Special Offer\*\*\*
     *   Breakout Stocks
-    *   OptionsProfits
+    *   Options Profits
     *   Top Stocks
     *   Daily Swing Trade
     *   Portfolio PLUS
@@ -83,14 +85,15 @@ A NOTE FROM STEPHANIE LINK
 
 *   HOT TOPICS:
 *   Cramer's Eight-Point Plan
-*   Who Won the Presidential Debate?
+*   Who Won the Debate?
 *   Lance Armstrong
 *   Biotech Stock Bubble
 *   Options Webinar
 *   FDA Blog
-*   Doug Kass
+*   Kass
+*   Election 2012
 
-pjava01.dc.thestreet.com Privacy Policy
+pjava02.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -245,13 +248,13 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,538.21 -13.57 -0.10% NASDAQ 3,109.00 7.83 0.25% S&P 500 1,460.95 6.03 0.41% US 10 Yr 1.790% +0.070 Brokerage Partners Most Commented
+DOW 13,557.00 5.22 0.04% NASDAQ 3,104.12 2.95 0.10% S&P 500 1,460.91 5.99 0.41% US 10 Yr 1.811% +0.091 Brokerage Partners Most Commented
 
 *   Microsoft Will Lose a War With Apple. So Will Google
 *   10 Worst Cars of All Time
-*   10 Cult TV Shows Netflix Should Revive
-*   The Sad Story of Jack Welch in Retirement: Opinion
 *   Apple, Microsoft Need to Innovate, If They Can
+*   10 Cult TV Shows Netflix Should Revive
+*   6 Tech Toys Better Than What Apple Sells
 
 Articles From Advertising Partners Free Newsletters from TheStreet
 
