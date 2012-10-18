@@ -2,20 +2,21 @@
 *   |
 *   Sign In
 
-ship to: United States | change $8.95 flat-rate shipping &. free shipping on orders of $175+
+ship to: United States | change
 
 *   Women
 *   Men
 *   kids
-*   handbag &. shoe shop
+*   Bags
 *   Jewelry
+*   Shoes
 *   Wedding
 *   sale
 *   FACTORY
 
 *   Shopping Bag
 
-SALE SCOOP: ENJOY 25% OFF WOMEN'S SWEATERS. PRICES AS MARKED. \*details CLOSE X \*Prices as marked. Offer valid on women's sweaters only. Offer excludes third-party branded items. Offer cannot be redeemed for cash or applied to previous purchases. Offer valid at jcrew.com and J.Crew retail stores only. Offer is not valid at J.Crew Factory stores or on J.Crew Factory items. Discount taken at register in stores. Offer valid through Wednesday, October 17, 2012, 11:59pm ET. Offer not valid on phone orders. Terms of offer are subject to change at any time. Discount cannot be combined with any other offer.
+FREE SHIPPING ON ALL ORDERS WITH CODE FREESHIP. \*details CLOSE X \*Previous purchases are not eligible for this discount. Offer valid in the U.S. and Canada only. Free shipping offer is valid through Sunday, October 21, 2012, 11:59pm ET on Internet orders shipped via regular shipping (3 to 6 business days). Free shipping applies to online-only orders before shipping, handling and taxes are added. Free ground shipping is applied at checkout with promo code FREESHIP. Offer not valid on telephone orders. This offer cannot be combined with any other promotion.
 
 *   CHECK ORDER STATUS
 *   REGISTRATION Q&A
