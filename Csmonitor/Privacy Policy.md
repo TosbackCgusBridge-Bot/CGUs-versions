@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  'Binders full of women': What's the social media buzz about?
-2.  Zumba scandal: 21 names released in Maine prostitution case (+video)
-3.  Round 2: President Obama turns up the heat in combative debate (+video)
-4.  Maine earthquake felt across New England
-5.  Has Obama reenergized Democrats with debate performance?
+1.  Presidential debate 101: Does Romney’s tax math add up?
+2.  Actress Megan Fox has new baby – it's a boy
+3.  A 4th presidential debate? Larry King to moderate third-party candidate forum.
+4.  'Binders full of women': a revealing remark from Romney, or a sideshow?
+5.  Presidential debate 101: Did Mitt Romney want Detroit to go bankrupt?
 
 About these ads
 
@@ -116,12 +116,12 @@ Editors' Picks:
     
     The 174 propositions on state ballots point to evolving opinions on marijuana, same-sex marriage, health care, and more. Do the initiatives show the power of direct democracy or lack of legislative leadership?
     
-*   Global News Blog: Iran sees conspiracy in box office success of Ben Affleck's 'Argo'
-*   The Vote: Viewing the Romney-Obama debate in battleground Ohio: a tribal experience
-*   Cuban Missile Crisis: the 3 most surprising things you didn't know
-*   Global News Blog: Britain nixes extradition of NASA hacker Gary McKinnon to US
+*   Earth-size planet found just next door, in Alpha Centauri system
+*   Global News Blog: Australia marches ahead with India ties - despite a few trip ups
+*   Decoder Wire: 'Binders full of women': a revealing remark from Romney, or a sideshow?
+*   Global News Blog: Iran sees conspiracy in box office success of Ben Affleck's 'Argo' (+video)
 
-_Photos of the day_ 10.16.12 » Photos of the Day 10/16
+_Photos of the day_ 10.17.12 » Photos of the Day 10/17
 
 **CSMonitor.com** on Facebook
 
@@ -143,18 +143,18 @@ When she found herself suddenly wealthy, the Indian philanthropist founded Prath
 
 Become part of the Monitor community
 
-*   The Culture » Baby Jessica rescue: Was it the birth of helicopter parenting? (+video)
-*   USA » With race tight, celebrities make the pitch for Obama
-*   World » Focus: As sanctions crush rial's value, Iranians point fingers at Ahmadinejad
-*   Science » Water on the moon? Maybe a lot more than we thought ... thanks to the sun.
-*   The Culture » Jessica Ridgeway abduction: Getting a grip on the parenting overreaction
-*   Business » Presidents and the economy: Who was best, worst? Take our quiz.
-*   Business » Peanut butter recall expands again. Now included: peanuts (+video)
+*   Innovation Apple promises 'a little more' on Oct. 23. iPad Mini incoming?
+*   The Culture Baby Jessica rescue: Was it the birth of helicopter parenting? (+video)
+*   USA With race tight, celebrities make the pitch for Obama
+*   World Focus: As sanctions crush rial's value, Iranians point fingers at Ahmadinejad
+*   Science Water on the moon? Maybe a lot more than we thought ... thanks to the sun.
+*   The Culture Jessica Ridgeway abduction: Getting a grip on the parenting overreaction
 *   Making a Difference Rohini Nilekani pours her wealth into getting books to India's poorest children
-*   Books » Sarah Palin says she will release a book on fitness and proper diet
-*   World » Focus: Vladimir Putin 2.0: A harder, eastward-looking presidency
-*   USA » Focus: Obama's new program for young illegal immigrants: How is it going?
-*   The Culture » 'Call Me Maybe': Being happy in a minor key
+*   Business Presidents and the economy: Who was best, worst? Take our quiz.
+*   Business Peanut butter recall expands again. Now included: peanuts (+video)
+*   Books Sarah Palin says she will release a book on fitness and proper diet
+*   World Focus: Vladimir Putin 2.0: A harder, eastward-looking presidency
+*   USA Focus: Obama's new program for young illegal immigrants: How is it going?
 
 About these ads
 
