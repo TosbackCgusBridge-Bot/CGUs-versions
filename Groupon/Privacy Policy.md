@@ -8,8 +8,7 @@ Groupon: Collective Buying Power
 *   All Deals
 *   Getaways
 *   Goods New
-*   Sweet Deals
-*   How It Works
+*   Favorite Deals
 
 *   Sign In
 *   Sign Up
@@ -249,9 +248,11 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
     
     Get the app now
     
-*   Grow Your Business with Us
+*   Grow Your Business
     
-    Learn how to get your business featured on Groupon. Get started
+    Get new customers and grow your business by Selling on Groupon
+    
+    See why thousands of businesses have succeeded advertising on Groupon
     
 *   Help Your Community
     
@@ -286,9 +287,13 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
     
     Privacy Statement - Updated
     
-*   Work With Us
+*   Work With Groupon
     
-    Merchant Rewards
+    Advertise with Groupon
+    
+    Run a Groupon Deal
+    
+    Accept Groupon Payments
     
     Affiliate Program
     
@@ -301,6 +306,8 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
     Help Your Community
     
 *   More...
+    
+    Gifts
     
     Gift Cards
     
