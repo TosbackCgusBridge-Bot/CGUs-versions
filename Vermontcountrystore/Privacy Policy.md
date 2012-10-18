@@ -13,7 +13,6 @@ Skip to Navigation Skip to Main Content
     *   Pants &. Shorts
     *   Dresses &. Skirts
     *   Muumuus
-    *   Denim
     *   Swimwear &. Cover Ups
     *   Sweaters &. Jackets
     *   Outerwear
