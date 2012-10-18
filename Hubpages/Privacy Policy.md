@@ -1,7 +1,6 @@
 HubPages
 
 *   explore
-    *   topics
     *   hubs
     *   answers
     *   forums
@@ -117,6 +116,6 @@ Other product and company names shown may be trademarks of their respective owne
 
 HubPages® is a registered Service Mark of HubPages, Inc.
 
-terms of use privacy policy (0.05 sec)
+terms of use privacy policy (0.06 sec)
 
 working
