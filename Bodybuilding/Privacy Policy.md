@@ -483,9 +483,9 @@ Email: webmaster@bodybuilding.com
   
 Related Articles
 
-*   When In Venice, Visit Jay Cutler's Max Muscle!
-*   The Colorado Connection, Pt. 2: An Inside Look At The Competitors &. Competition Scene.
-*   Milos Sarcev's Seminar At The Koloseum Gym.
+*   Celebrity Fit Club's Dr. Ian Smith Stops By Bodybuilding.com!
+*   Jay Cutler Signs With Pro Bodybuilding Weekly!
+*   Bodybuilding.com Brings The Biggest Bodybuilding And Fitness Stars To Boise, Idaho!
 
 *   View All Gossip And News Articles
 
