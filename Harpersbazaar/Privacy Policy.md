@@ -37,25 +37,25 @@ Beauty &. Hair  
 *   Beauty at Every Age
 *   Health &. Wellness
 
+The Best Makeup Looks From Spring 2013 Fashion Week
+
+The top 6 makeup trends you need to know for next season.
+
 Are Your Hands Aging You?
 
 The latest anti-aging treatments for your hands.
 
-The Most Anticipated Hair Trends For Spring 2013
+CELEBRITY STYLE &. PARTIES   Last Night's Parties: Target's 50th Anniversary, Barneys New York Hosts Kelly Klein's "Pools" Launch, Plus More!
 
-This season, there was no question that wearable looks had a major presence...
+See who was on the New York scene.
 
-CELEBRITY STYLE &. PARTIES   Last Night's Parties: The Golden Heart Awards &. Acne Paper #14 Launch
+Last Night's Parties: The Golden Heart Awards &. Acne Paper #14 Launch
 
 See who was on the New York scene.
 
 Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More!
 
 See who was on the scene.
-
-Vince and BAZAAR Toast A New Madison Avenue Store
-
-See pics from the dinner at the new store, hosted by Joanna Hillman.
 
 *   Red Carpet Style
 *   Cover Stories
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR My List: Vera Wang in 24 Hours Street Style Star: Chic Coats A Date with Chanel: Miroslava Duma Are Your Hands Aging You? The Most Anticipated Hair Trends For Spring 2013 Taking Your Hair to the DarkOr LightSide This Season Last Night's Parties: The Golden Heart Awards &. Acne Paper #14 Launch Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More! Vince and BAZAAR Toast A New Madison Avenue Store Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR My List: Vera Wang in 24 Hours Street Style Star: Chic Coats A Date with Chanel: Miroslava Duma The Best Makeup Looks From Spring 2013 Fashion Week Are Your Hands Aging You? The Most Anticipated Hair Trends For Spring 2013 Last Night's Parties: Target's 50th Anniversary, Barneys New York Hosts Kelly Klein's "Pools&qu... Last Night's Parties: The Golden Heart Awards &. Acne Paper #14 Launch Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More! Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
