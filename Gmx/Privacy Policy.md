@@ -23,7 +23,7 @@ Hilfe| Accesskey-Übersicht
     *   Internet-Handy-Flat
     *   Internet-Telefon-Flat
     *   Analog/ISDN
-    *   FreePhone
+    *   Mobilfunk
     *   MailDomain
     *   ADAC bei GMX
     *   GMX Mobile
@@ -34,6 +34,7 @@ Hilfe| Accesskey-Übersicht
     *   GMX MailCheck
     *   MediaCenter
     *   SMS &. Co.
+    *   Fax
     *   MMS
     *   Voice
     *   Grünes Postfach
