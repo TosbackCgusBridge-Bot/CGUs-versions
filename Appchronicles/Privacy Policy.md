@@ -21,17 +21,17 @@
     *   Best iPhone Apps
 *   Walkthrough
 
-  Best Free Apps of the Day!
+  Best Free Apps of the Day
 
-Free Today! Priority Matrix
+Tubebox &. more!
 
-  New and Upcoming MMORPG's
+  Rayman Jungle Run
+
+Review
+
+    New and Upcoming MMORPG's
 
 Arcane Legends, Armed Heroes, &. More!
-
-    Hot, New Games This Week!
-
-Crazi Taxi, Topia, &. More!
 
   Our Top Rated iPad Apps Rayman Jungle Run  
   
