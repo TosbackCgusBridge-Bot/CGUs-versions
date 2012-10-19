@@ -116,22 +116,22 @@ _Privacy Statement last updated February 15, 2010._
 Advertisement  
 
 *   Now Up on the PJ Media Homepage
-*   NatGeo Plans Bin Laden Death Film for Nov 4. Muslims Plan Mayhem
-*   Buzz Ballad: Al Qaeda’s on the Run
+*   Buzz Ballad: “Optimal”
+*   Romney/Ryan Signs Spotted in LA
 
 More  
 
-*   5 Deep Insights Gained From Watching _Hoarders_
-*   What Happens After you Master 20,000 Hours at Your Life’s Work?
-*   Did Hulk Hogan Leak His Own Sex Tape?
+*   _Ghostbusters 3_ Starts Shooting in Summer
+*   How Education Savings Accounts Will Revolutionize K-12 Schools
+*   VIDEO: Israeli Inventor Introduces $20 Cardboard Bike
 
 More
 
-*   National Treasure
-*   Big Brother Reads _Minority Report_
-*   Ohio: The (Electoral) Heart of It All
+*   It's Not Just Obama's Lies — It's the Premise of Obama's Lies
+*   Through a Gimlet Eye: Studying the _Washington Post_ Kremlinologist-Style
+*   Twilight of the Sort-Of Gods
 
-More   TAX $$$$ FOR HOLOCAUST DENIAL:  Ah, sweet progressive tolerance, promotion of  human rights, and peace– all best embodied by the U.N.  Makes a liberal/progressive feel all warm and fuzzy inside. ... _ROLL CALL:_ List of House Goners Not What We Expected. “It is three weeks before Election Day and a handful of incumbents are already seeing the writing on the wall. They won’t be coming back to Congress. It’s time to look for other gainful employment or merely enjoy the quiet pleasures of forced retirement.” ... EAT MY DUST–OKAY, YUM!:  Apparently a lot of people eat dirt.  Here’s why. More Advertisement
+More   OF COURSE: AARP urges Congress not to extend payroll tax break another year. “The nation’s largest seniors lobby on Thursday urged Congress and the White House not to extend a temporary payroll tax holiday beyond January. Social Security is funded by the payroll tax, and AARP worries that continuing the break to stimulate the economy will do long-term damage to the retirement program.” ... AMERICA’S “MORMON MOMENT?” Joel Kotkin: It’s Mormon In America. “Whether or not Mitt Romney makes it to the White House, his candidacy signals that Mormons have arrived in American political life. Just as President Obama’s nomination and election marked a sea change in the country’s tortured racial history, so Romney’s nomination has changed religious boundaries that have persisted for more than 160 years. No religious group has been more persecuted by the U.S. government, or more derided by other faiths present in the country, than the Church of Jesus Christ of Latter-day Saints (or the LDS Church, as many Mormons refer to it). . . . Today, some religious fundamentalists continue to rail against Mormons, while coastal sophisticates scoff at their earnest approach to life, religion, and family. Yet the methodical Mormon way, which stresses education, ambition, and charitable giving, has succeeded in ways equaled by few religious groups.” ... OLD PICTURE OF THE DAY: DECORATING IN THE WEIMAR REPUBLIC. “Well, the more money the Weimar Republic printed, the more useless it became. The more useless it became, the more they thought that they had just not printed enough money. It finally got to the point that people started finding all types of creative things to do with the currency. This guy is wallpapering his house with it. So, I guess you can never say a currency is useless, as you can always use it to decorate your house.” ... More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
