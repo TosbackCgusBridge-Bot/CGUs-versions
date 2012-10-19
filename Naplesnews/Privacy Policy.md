@@ -143,6 +143,11 @@ Naples Daily News
 *   Cars
 *   Classified
 
+*   PrepZone: Football
+    
+    Live chat begins at 7 p.m. | Preview | Local Rivalries | Blog | Twitter | Send Us Your Fan Photos | More »
+    
+
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -435,24 +440,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 11:21 p.m. 369 comments
-*   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 25 comments
-*   Naples couple entwined in product lawsuits over fizzling home soda machine Published 10/17/2012 at 7:00 a.m. 4 comments
-*   Senate debate: Mack and Nelson square off Published 10/17/2012 at 6:03 a.m. 31 comments
-*   Schools celebrate new lunch guidelines. some parents and students don't Published 10/17/2012 at 5:05 a.m. 32 comments
+*   Ryan: Florida to decide 'what kind of country we're going to have' Updated 10/18/2012 at 9:50 p.m. 101 comments
+*   Planned North Naples resort community more proof local economy on rebound, some say Updated 10/18/2012 at 6:59 a.m. 51 comments
+*   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 52 comments
+*   North Naples residents weigh in on proposed Hyundai dealership at King Richard's site Published 10/18/2012 at 5:00 a.m. 29 comments
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 11:21 p.m. 407 comments
 
-Photo Galleries Editorial Cartoons: Oct. 17, 2012 Historic Photos: Fort Jefferson at… Catch of the Day: Oct. 3, 2012
+Photo Galleries Catch of the Day: Oct. 18, 2012 Editorial Cartoons: Oct. 17, 2012 Paul Ryan rallies in Fort Myers
 
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 369 comments
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 283 comments
-*   Swing state: Voter turnout the key to Obama, Romney victory Published 10/15/2012 at 5:30 a.m. 78 comments
-*   The great debate with 3 weeks to go: Who's going to win this, Romney or Obama? Published 10/13/2012 at 12:51 p.m. 209 comments
-*   Deputy reprimanded for using badge to intimidate former son-in-law Published 10/14/2012 at 5:30 a.m. 77 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 407 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 285 comments
+*   Ryan: Florida to decide 'what kind of country we're going to have' Published 10/18/2012 at 1:01 p.m. 101 comments
+*   Obama, Romney seek support from women after debate Published 10/17/2012 at 8:59 p.m. 88 comments
+*   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 52 comments
 
 *   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
+*   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 51 comments
 *   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 10 comments
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 283 comments
-*   Stan's gone but his Goodland restaurant opens for season Published 10/8/2012 at 5:00 a.m. 6 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 285 comments
 *   Teachers take on kids' nutrition with a book set in Naples Published 10/9/2012 at 4:00 a.m. 0 comments
 
 Weather
@@ -461,40 +466,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 73° Overcast Wind: E 6mph Today 87° 72° Thu 08:00 PM Partly Cloudy Showers Temp: 79° Fri 08:00 AM Partly Sunny Temp: 73° Fri 08:00 PM Partly Cloudy Showers Temp: 79°
+Currently 75° Mostly Cloudy Wind: Calm Today 84° 72° Fri 08:00 PM Partly Cloudy Showers Temp: 79° Sat 08:00 AM Mostly Sunny Temp: 74° Sat 08:00 PM Clear Temp: 78°
 
 Feels Like: 79°
 
 Humidity: 77%
 
-Precip: 30%
+Precip: 20%
 
-Feels Like: 73°
+Feels Like: 74°
 
-Humidity: 90%
+Humidity: 82%
 
 Precip: 20%
 
-Feels Like: 79°
+Feels Like: 78°
 
-Humidity: 76%
+Humidity: 63%
 
-Precip: 20%
+Precip: 10%
 
 More Weather » Calendar
 
-*   Thursday Oct 18
 *   Friday Oct 19
 *   Saturday Oct 20
+*   Sunday Oct 21
 *   More BROWSE Icon
-
-*   Networking breakfast Calistoga Bakery Cafe - North Naples 7:30 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Alumni Hector Manley will speak at Seacrest Country Day School Seacrest Country Day School 8:30 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Macro Photography Class and Excursion Understand Photography Studio 9 a.m.
-
-More Events »
 
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   CREW Stanley Hole Benefit Golf Tournament Old Corkscrew Golf Club 8 a.m.
@@ -509,6 +506,14 @@ More Events »
 *   Third Street South Farmers Market Third Street South 7:30 a.m.
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   Paddleboard Yoga and Fitness 1st Ave South Naples, FL 8:30 a.m.
+
+More Events »
+
+*   Rocktoberfest 10 Mile Run North Collier Regional Park 7 a.m.
+*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Laughter Yoga Bija Yoga 9 a.m.
+*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
 
 More Events »
 
