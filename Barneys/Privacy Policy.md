@@ -6,7 +6,7 @@ COMPLIMENTARY SHIPPING ON ALL US ORDERS
 
 See Details
 
-Log In Favorites Favorites My favorites (3) Most Loved Alexander Wang Kirsten Clutch Barneys New York Search
+Log In Favorites Favorites My favorites (3) Most Loved Alexander Wang Donna Hobo Barneys New York Search
 
 *   New Arrivals
     *   All New Arrivals
