@@ -176,9 +176,7 @@ Welcome Imagine it, create it, share it. Learn more Upload Upload from your comp
     
     Congratulations
     
-    American Greetings Store
-    
-    See All Greeting Cards
+    Get Well
     
 *   |
 *   Home Décor▼ Canvases
