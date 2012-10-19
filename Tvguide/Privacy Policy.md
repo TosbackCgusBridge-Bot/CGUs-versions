@@ -73,11 +73,11 @@ What's Hot
 
 Fall TV Popularity Contest
 
-_Apt. 23/Happy Endings_ Crossover
+Who Won _Project Runway_?
 
-Mega Buzz
+_Animal Practice_ Pulled
 
-_Supernatural_: RIP, Wincest?
+TV Viewing Trends
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -139,9 +139,9 @@ more popular movies Top Videos
 
 1.  The Vampire Diaries
 2.  Arrow
-3.  Supernatural
-4.  Dexter
-5.  Gossip Girl
+3.  Dexter
+4.  Arrow
+5.  Supernatural
 
 more top videos
 
