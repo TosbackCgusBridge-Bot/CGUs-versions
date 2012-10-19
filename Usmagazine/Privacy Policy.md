@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! On-Set Cravings? »
+Hot Pics! Louis Gets a Lift »
 
-Top Stories1.  PIC: Demi Moore Thin, Radiant at Rare Post-Rehab Appearance in NYC »
-2.  Kim Kardashian Wears Tight Leather Pants, Fur in 90-Degree Miami Heat »
-3.  See Vanessa Minnillo's Incredible Post-Baby Body »
-4.  Pink Flaunts 55-Pound Weight Loss, Amazing Abs on Shape Cover »
-5.  PIC: See Rupert Sanders, Liberty Ross Reconcile With Hug, Kiss »
+Top Stories1.  Freddie Prinze, Jr. Steps Out Three Weeks After Son's Birth! »
+2.  PIC: Demi Moore Thin, Radiant at Rare Post-Rehab Appearance in NYC »
+3.  Kim Kardashian Wears Tight Leather Pants, Fur in 90-Degree Miami Heat »
+4.  See Vanessa Minnillo's Incredible Post-Baby Body »
+5.  Pink Flaunts 55-Pound Weight Loss, Amazing Abs on Shape Cover »
 
  
 
@@ -177,9 +177,9 @@ Inside Us Weekly
 
 *   Style Pretty Kate Hudson Models Ann Taylor Looks in
 *   Beauty Elisabeth Moss Is a Brunette Again!
-*   Moms Freddie Prinze, Jr. Steps Out Three Weeks Aft
+*   Moms Rachel Zoe: Son Skyler "Gets Cuter Every Seco
 *   Body Whoa! Kate Bosworth Shows Off Tiny Waist, Fla  
-*   Entertainment Lauren Conrad's Craziest Fan Encounter: A Fan  
+*   Entertainment Project Runway: Dmitry Sholokhov Wins Season  
 
 *   US WEEKLY
 *   Celebrity News
