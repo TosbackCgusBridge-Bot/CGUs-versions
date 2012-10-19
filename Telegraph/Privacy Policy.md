@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Thursday 18 October 2012
+Friday 19 October 2012
 
 *   Home
 *   News
@@ -138,13 +138,11 @@ In About us
 
 Editor's Choice »
 
-'It’s not a crisis at BBC. Not yet, anyway’  
+The world's greatest racehorse  
 
-Staff at corporation are frustrated at way the management has handled Jimmy Savile allegations, says **Neil Midgley**
+**Brian Viner** talks to Frankel's trainer, and others who know the world's greatest racehorse.
 
-Comments
-
-Daido Moriyama: Low life in Tokyo When it’s time to say goodbye to your kids Paul Hayward: an open letter to Platini To QE or not to QE? That is the question Advertisement
+Rooney: 10 of his best Energy prices: Turning up the political heat Is America ready for David Morrissey? Halo 4, preview Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
@@ -154,13 +152,13 @@ Back to top
 
 Hot Topics
 
-*   Defence
 *   Jimmy Savile
-*   Syria
 *   US Election
+*   Syria
 *   Weather
-*   Wonder Women
+*   Football
 *   Cycling
+*   Wonder Women
 *   More...
 
 *   News
