@@ -1,5 +1,5 @@
   
-Users Online Now: **1,971** (Who's On?) Visitors Today: **420,224** Pageviews Today: **621,644** Threads Today: **331** Posts Today: **2,542** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,773** (Who's On?) Visitors Today: **404,003** Pageviews Today: **655,541** Threads Today: **368** Posts Today: **4,618** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,15 @@ trinity@godlikeproductions.com
   
 News
 
+*   New DHS Program Wants to See If Your Hand Sanitizer Explodes
+*   Federal Gov’t Funding Police Spotters on Overpasses in Two States
+*   The Search for Sasquatch Continues — With a Silent Airship
+*   FBI yet again foils their own fake terrorist plot, this time targeting the NY Federal Reserve
+*   Cops Taser Disabled Man After Mistaking Walking Stick For Samurai Sword
+*   Jail Guards Accuse Man Begging For Help Of Faking Allergic Reaction, Man Dies
+*   US military gets into the 3D printing business
+*   Google threatens to drop links to French media
+*   Tropical collapse caused by lethal heat: Extreme temperatures blamed for 'dead zone'
 *   Farmer Tackling Monsanto's Seed Policy Gets A Day In Supreme Court
 *   Peanut Butter Recall Now Includes Raw And Roasted Nuts
 *   When They Can't Find Something To Charge You With, They Make It Up
@@ -128,18 +137,7 @@ News
 *   Hollywood's Hysterical "Cancer Screening" Lie for Obama
 *   AT&T Starts Six-Strikes Anti-Piracy Plan Next Month, Will Block Websites
 *   New version of Flame virus uncovered: researchers
-*   Recent droughts could be new normal, may lead to massive tree death, study suggests
-*   2 Americans win Nobel econ prize for match-making
-*   Where Will The Next Pandemic Come From? And How Can We Stop It?
-*   Cops Beat Man Experiencing Diabetic Shock, Scream At Him To "Stop Resisting"
-*   Saturn’s Moon Titan Has A Soft, Crusty Surface, Like Freshly Frozen Snow
-*   Solar wind particles likely source of water locked inside lunar soils
-*   Softbank to buy 70 percent of Sprint for $20 bln
-*   Linux camp has key to Windows 8 boot lockout
-*   Cap and trade: California’s experiment to rein in climate change
 
-  
-  
   
   
   
@@ -149,4 +147,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.017s (0 queries)
+Page generated in 0.019s (0 queries)
