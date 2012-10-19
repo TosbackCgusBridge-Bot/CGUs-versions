@@ -168,10 +168,10 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
     *   Men's Footwear
         *   Running
         *   Basketball
-        *   Hiking
         *   Hunting Boots
-        *   Outdoor Multisport
         *   Winter Boots
+        *   Hiking
+        *   Outdoor Multisport
         *   Cross Training
         *   Casual
         *   Barefoot Shoes
@@ -182,10 +182,10 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
     *   Women's Footwear
         *   Running
         *   Basketball
+        *   Winter Boots
+        *   Hunting Boots
         *   Hiking
         *   Outdoor Multisport
-        *   Hunting Boots
-        *   Winter Boots
         *   Cross Training
         *   Casual
         *   Barefoot Shoes
