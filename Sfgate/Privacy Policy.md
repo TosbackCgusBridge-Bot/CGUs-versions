@@ -1,6 +1,6 @@
 (skip this header)
 
-Thursday Oct 18, 2012 5:05 AM PT
+Friday Oct 19, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Those zany French sex parties
-*   Twitter as TV channel
-*   Stir over school skit
-*   A16 opening in Rockridge
-*   LinkedIn revamp
+*   'Emmanuelle' star dies
+*   O.J. selling ‘murder knife’?
+*   Best Halloween 'hoods in S.F.
+*   United fare sale
+*   7 mistakes of older job seekers
 *   Giants playoff gear!
 
 *   Bay Area &. State
@@ -339,12 +339,26 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Greeks protest nationwide against cuts
+*   Nation in Focus
+*   World in Focus
+*   Week 7: 49ers vs. Seahawks
+*   Game 4: Giants vs. Cardinals
+*   49ers fans tailgate on Thursday night
+*   Giants at Cardinals: Game 3
+*   Hofstra Debate
+*   Mario Testino exhibition reception
+*   Obama celebrity supporters
+*   Athletes get political
+*   Day in Pictures, Oct. 18, 2012
+*   On the way to LA
 *   Kiss
 *   Awesome displays of Halloween spirit
 *   Halloween candy: Then and now
+*   Matt Carpenter’s HR hammers SF Giants
 *   Nation in Focus
 *   World in Focus
-*   Giants at Cardinals: Game 3
+*   Star power: Celebs and their picks for president
 *   Romney's 'Binders full of women'
 *   Celebrity wardrobe malfunctions
 *   Abandoned Bear Cub
@@ -358,27 +372,13 @@ Ads by Yahoo! Photo Galleries
 *   Nation in Focus
 *   World in Focus
 *   Marco Scutaro in the NLCS
+*   'Skyhook' and other CIA spyware
 *   Ross Perot
 *   presidential debate
 *   ELLE's 19th Annual Women in Hollywood Celebration
 *   Day in Pictures, Oct. 16, 2012
 *   Giants vs. Cardinals Game 2 NLCS
 *   Foreclosure bus tour
-*   Nation in Focus
-*   World in Focus
-*   'Citizen Hearst' screening &. Hearst 125th anniversary celebration
-*   Presidential Debate Oct 3, 2012
-*   'American Horror Story: Asylum' premiere screening
-*   Comedy Central's Night of Too Many Stars
-*   Musicians vs Politicans
-*   Celebrity good Samaritans
-*   Day in Pictures, Oct. 15, 2012
-*   Vintage Halloween ads
-*   Amber Dhara
-*   Sonoma - $9.9 million
-*   Nation in Focus
-*   World in Focus
-*   Nation in Focus
 
 *   Most Read
 *   |
@@ -386,52 +386,55 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  "Binders full of women' sweeps social media
-2.  Likely meteor seen, heard in Bay Area
-3.  Towering America's Cup boat recovered
-4.  Oakland cops release video of deadly parking spat
-5.  Matt Carpenter's HR hammers SF Giants
-6.  Livestrong exile humbles Armstrong
-7.  Comedian Bill Maher keeps it 'Real'
+1.  Frank Gore unleashed in 49ers' win
+2.  Decades of abuse of Boy Scouts detailed
+3.  Cardinals push Giants back to the brink
+4.  A streak, a boom, and now meteor debris?
+5.  Coroner: Reid died from accidental heroin overdose
+6.  Heidi Montag: ‘I got carried away by surgeon’s suggestions’
+7.  Civil trial opens against Britney Spears' parents
 
-1.  Obama, Romney come out fighting in N.Y.
-2.  Romney%u2019s binder blunder, is it even true? Does it matter?
-3.  Mitt Romney has %u2018binders full of women%u2019
-4.  Romney's 'binders of women' sets social media on fire
-5.  Residents criticize Warriors' arena plan
-6.  Armstrong stepping down as Livestrong chairman
-7.  Feds: 1 arrested in plot to attack Federal Reserve
+1.  Romney's 'binders of women' sets social media on fire
+2.  Gunman robs Oakland council candidate
+3.  Oakland crime up 20%
+4.  O.J. Simpson selling %u2018murder knife%u2019 for $5 million
+5.  Springsteen explains why he's supporting Obama
+6.  The next last dog we will ever have
+7.  Cardinals push Giants back to the brink
 
-1.  Towering America's Cup boat recovered
-2.  "Binders full of women' sweeps social media
-3.  CityTarget coming to Richmond District
-4.  Cal's Sebastian is quiet, yet fierce
-5.  SF polling site gets the boot
-6.  Most expired drugs work fine, study says
-7.  3 decades of creativity from Lines Ballet
+1.  Ga. congressman draws Darwin as write-in opponent
+2.  Towering America's Cup boat recovered
+3.  Rents rise in S.F., Oakland, San Jose
+4.  Texas Tech horse mascot has leg injury, retiring
+5.  A streak, a boom, and now meteor debris?
+6.  Inventor Maurice Kanbar's life of ideas
+7.  Nacio Jan Brown: 1969 Telegraph Ave.
 
 loading... Latest News Videos From our homepage
 
 *     
-    Michael Macor, The Chronicle / SF
+    Stephen Lam, Special To The Chronicle / SF
     
-    Stranded in Game 3 storm
+    Gore paves way to victory
     
-    Giants frustrated by St. Louis pitching, rain in key NLCS loss.
+    Niners RB rushes for season-high 131 yards as S.F. beats Seattle.
     
-*   Zito, not Bumgarner, in Game 5
+*   Photos: 49er fans tailgating
 
 *     
-    Guilain Grenier, Associated Press / SF
+    Olga Soboleva / SF
     
-    Mangled Cup boat recovered
+    Remodeled S.F. Victorian
     
-    The $8M Oracle catamaran that flipped, ended up outside the GG Bridge is back at S.F. base. Photos
+    Built in 1900, this updated home near the Haight has 4 bdrms on a deep lot. Asking $1.75M.
     
 
-*   $38M fixer on Broadway
+*     
+    Bob Moreno / SF
     
-    This Gold Coast home could sell for a record price for S.F. and may need another $8-16M in work.
+    Big boom over Martinez
+    
+    Did you see it? Meteor may have been the size of a small car when it hit the atmosphere. Video
     
 
 *   Home
