@@ -18,6 +18,7 @@ Search: Password Login Turn on javascript (or enable it for Fark) for a better u
 *   Entertainment
 *   Politics
 *   Video
+*   FarkUs
 
 > Fark Frequently Asked Questions (FAQ): Legal Stuff Back to top of FAQ  
 > 
@@ -147,51 +148,51 @@ Headlines of the Week
 **From the Fark Shop:**
 
 *     
-    Eeek! A pervert!
+    Vitruvian Squirrel
 *     
-    I'm Giving Her All She's Got
+    E.T. - The Extra-Terrorestrial
 *     
-    Swine Flu: Bacon's Revenge
+    Sasquatch Seltzer Water Bottle
 *     
-    Ray Gun - Acme Pen
+    Hooked
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
+Christian Bale's Wild Body Transforma...  
 Two-Year-Old Girl Insults Kate Middle...  
-Hugh Jackman Makes 'Gangnam Style' Se...  
-Fancy Your Own Custom Horrow Bowling...  
-20 Criminally Terrible Website Designs  
+The Truth Behind NFL Logos  
+11 Most Memorable Dunks In White Guy...  
 More news at Scribol »  
   
   
-Frugal Ashley Greene Won't Fly First...  
-Sandra Bullock Goes Topless And Showe...  
-Scarlett Johansson: I've Never Met A...  
-Lauren Conrad Gets Sexy In The Novemb...  
-More news at Starpulse »  
+Body in Dumpster May Be Missing Real...  
+DA: Restaurateur Researched 'Evil Way...  
+Woman in Wheelchair Dies After Fall F...  
+LAPD Probing Manson Family Link to 12...  
+More news at KTLA »  
   
   
-We Show It ALL  
-5 Dumbest Moments of the 2nd Presiden...  
-Sexy Geeky Fun  
-Kathie Lee Drops Puppy  
-More news at truTV »  
-  
-  
-19 Minor Changes That Would Make Famo...  
-5 Movies That Prove the Action Genre...  
-5 Awful Things You Learn About Yourse...  
-5 Insignificant Things That Determine...  
+The 5 Most Common Errors of First Tim...  
+So Your Clone Is Trying to Murder You  
+The 10 Dumbest Things on TV So Far Th...  
+The 6 Most Hilariously Insane Overrea...  
 More news at Cracked »  
+  
+  
+W. Eugene Smith's Landmark Photo Essa...  
+The Brink of Oblivion: Inside Nazi-Oc...  
+Taylor and Clift: Photos From the Set...  
+Frank Lloyd Wright: The Natural  
+More news at Life »  
   
 
 Also on Fark
 
-Main Thursday GJTB thread. Haters gonna hate, but donaters gonna donate ( indiegogo.com ) » (20 comments) Sports What's the biggest problem in the NBA right now? Super teams ruining competitive balance? A regular season that's 20 games too long? No JaVale McGee reality show? No, clearly it's the player introductions ( cbssports.com ) » (10 comments) Business 2012: Apple Inc. is fresh, hip and spiffy. 1996: See for yourself ( youtube.com ) » (36 comments) Geek Do you know your state rock? ( neatorama.com ) » (48 comments) Entertainment Fonzie rescues Joanie. This is not a repeat from 1976 ( dailymail.co.uk ) » (15 comments) Politics From the state that gave us hanging chads, we now have "flawed ballots" ( palmbeachpost.com ) » (22 comments) Video Batman does an interview in Canada ( sunnewsnetwork.ca ) » (14 comments)
+Main This just in: Flamin' Hot Cheetos can cause some problems when the oil hits the anus ( cbsnews.com ) » (45 comments) Sports Is #3 Oregon legit or will they fall to America's largest community college? Tonight the Ducks try to quackout the blackout in Tempe. It's your Thursday night college football thread ( azfamily.com ) » (98 comments) Business FTC throws down robocall gauntlet: $50,000 for best way to stop annoying asshole calls ( networkworld.com ) » (46 comments) Geek Adorable 8-year-old girl gets into spirit of historical research by going to school dressed like different famous woman every day: Billie Holiday, Grace Kelly, Aung San Suu Kyi, Joan Baez, Rosa Parks, and so on ( omaha.com ) » (44 comments) Entertainment Sarah Jessica Parker has unbridled enthusiasm about Sex in the City 3. Cynthia Nixon says neigh ( news.com.au ) » (5 comments) Politics It's never optimal to have an ambassador get killed when you're running for reelection but it is a bump in the road ( dailymail.co.uk ) » (261 comments) Video Arrested Development Documentary - Funke-y ( buzzfeed.com ) » (11 comments) FarkUs Alien killers, time-storms, mutated viruses and future cannibals. I write Sci Fi-horror ( rpatrickwidner.com ) » (3 comments)
 
-*   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video
+*   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
 *   FArQ :: About Us | Quick Answers | FarkIt | Posting Rules | Farkisms
 *   Contests :: Photoshop | Farktography | VideoEdit | Caption
@@ -199,5 +200,5 @@ Main Thursday GJTB thread. Haters gonna hate, but donaters gonna donate ( indieg
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 18 2012 08:00:29  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 19 2012 08:00:48  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
