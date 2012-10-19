@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Fast N' LoudAmazing Impala 8:00PM Fast N' LoudRamshackle Rambler 9:00PM Fast N' LoudFast &. Furious Fairmont TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Gold RushRevelations 8:00PM Gold Rush (Season 3 Specials)The Long Road 9:00PM Yukon Men: Last Chance (S1 Finale)  TV SHOWS
 
 American Chopper
 
@@ -324,21 +324,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-Ancient Tomb Found Near Sweden's 'Stonehenge'
+Digging into a Weird Stellar Spiral
 
-Ancient Tomb Found Near Sweden's 'Stonehenge'
+Satellite Photos Reveal Heavy Guns In Syria
 
-Dome-Headed Dinos Battled With Their Heads
+The Virgin Mary At A Car Wash: DNews Nuggets
 
-Excellent Idea of the Day: Robonaut Exoskeleton
+Digital Fingerprints for Art Could Thwart Heists
 
-Hands Do the Talking on Squeezable Smartphones
+History of Mummification: Gotta-See Video
 
-Parasite Eats From Inside, Out: Gotta-See Video
+Witness to Lincoln Shooting: Gotta-See Video
 
-Robot Paints Your Sleep Pattern
+Excellent Idea of the Day: Silk for Implants
 
-Armstrong Dropped by Nike, Leaves Livestrong
+Costa Concordia: World's Biggest Ship Salvage
 
   facebook share0 Tweet Privacy Policy  
 
@@ -544,32 +544,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 18,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 19,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 18,  
+Oct 19,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 18,  
+Oct 19,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 18,  
+Oct 19,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 18,  
+Oct 19,  
 9:00 am  
 60 min(s)  
 **The FBI Files**  
-_No Place to Hide_  
- In the spring of 1997, a killer who preyed on senior citizens was  
+_Killer Instinct_  
+ After a series of violent carjackings in 1992 in the Washington,  
 **More Listings »**   Shop Discovery Store      
 
 our sites
