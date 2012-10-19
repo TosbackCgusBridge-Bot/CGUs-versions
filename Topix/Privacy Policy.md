@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Syria
+Microsoft
 
-Turkey, Germany Call for Truce in Syria
+Weak earnings reports from McDonald's, Microsoft and others dr...
 
-China
+Fort Hood
 
-Truck driver's death prompts riot and questions in China
+Victims want Fort Hood shooting deemed terror act
 
 Politix
 
-What would improve the presidential debates?
+Who will win Ohio?
 
 *   Home
 *   Forums
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
- 
+  Ads by Glam
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 114,155 • Total comments across all topics: 188,500,205
+Comments made yesterday: 114,768 • Total comments across all topics: 188,511,033
 
 Copyright ©2012 Topix LLC
 
