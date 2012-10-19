@@ -98,7 +98,7 @@ security/privacy  | site map
 \-31px
 
 *   new arrivals
-*   women's fall looks
+*   women's looks
 *   create your own duffle
 *   coach for a cause
 *   frye collaboration
@@ -147,6 +147,7 @@ security/privacy  | site map
 *   flats
 *   sneakers
 *   rainboots
+*   sandals &. flip flops
 *   online exclusives
 *   shoe sale
 
