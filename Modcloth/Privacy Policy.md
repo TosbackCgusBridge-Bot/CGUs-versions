@@ -222,9 +222,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Meet Mandy of Miss Indie
+    latest blog posts*   Todayâs Special: The Small and Mighty Kumquat
+    *   Meet Mandy of Miss Indie
     *   Our Contest on Pinterest is Servinâ Up Style!
-    *   Best Job Ever: Lexicographer Erin McKean of Wordnik.com
     
     *   modcloth blog
     *   In Other Words
