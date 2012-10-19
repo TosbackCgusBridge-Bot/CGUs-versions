@@ -10,26 +10,26 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
     *   Tools
     *   Media
     *   Enterprise
-    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning With Its New Music App, Microsoft Pulled Off Something Even Apple Couldn't Do The Guardian Denies Reports It Is Ending Its Print Publication SAP Brings Its Lightning-Fast Database, Hana, To Amazon's Cloud New Earth-Sized Planet Is The Closest Ever Found To Earth
+    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning With Its New Music App, Microsoft Pulled Off Something Even Apple Couldn't Do We're Giving Away A Ticket To IGNITION! A Rare Look Inside Huawei, The Shadowy Chinese Tech Company Accused Of Spying On America America's Best Forecasters Give 5 Predictions For This Winter
 *   Finance
     *   Clusterstock
     *   Your Money
-    *   Broker Center10 Things You Need To Know Before The Opening Bell 10 Things You Need To Know Before The Opening Bell ASK AN EXPERT: Am I Covered In A U-Haul Truck? 10 Things You Need To Know Before The Opening Bell
+    *   Broker Center10 Things You Need To Know Before The Opening Bell 10 Things You Need To Know Before The Opening Bell After I Dissed North Dakota, The State Flew Me To Fargo To Prove Me Wrong 10 Things You Need To Know Before The Opening Bell
 *   Markets 10 Things You Need To Know Before The Opening Bell
 *   Politics
     *   Politics
     *   Defense
-    *   Law &. OrderGALLUP: Mitt Romney Now Has A Gigantic 6-Point Lead Over Obama GALLUP: Mitt Romney Now Has A Gigantic 6-Point Lead Over Obama The UN Is Demanding To Know What Happened To The Peacekeeper Murdered Yesterday In Darfur The 20 Biggest Legal Stars On Twitter
+    *   Law &. OrderNATE SILVER: Here's The Truth About That Gallup Poll That Shows A Huge Lead For Mitt Romney NATE SILVER: Here's The Truth About That Gallup Poll That Shows A Huge Lead For Mitt Romney British Explorer Prepares To Dig Up 140 Mint Condition Spitfires That Were Buried In 1945 The 20 Biggest Legal Stars On Twitter
 *   Strategy
     *   Strategy
-    *   Careers'False Consensus' Theory Explains Why We Trust The Wrong People 'False Consensus' Theory Explains Why We Trust The Wrong People 5 Ways to Manage Different Personality Types
-*   Entertainment Jeff Zucker Likely Leaving 'Katie' As He Eyes CNN President Position
-*   Advertising Restaurants Are Starting To Make Instagram Menus \[Photos\]
-*   Retail An Analyst Walked Into Best Buy, And Discovered Firsthand How Amazon Is Destroying It
-*   Sports The Real Reason Nike Canned Lance Armstrong Has Nothing To Do With Doping
+    *   CareersCEOs Of The Future Will Need A Different Kind Of Intelligence CEOs Of The Future Will Need A Different Kind Of Intelligence 12 Signs Your Boss Is Thinking About Firing You
+*   Entertainment Here's How Much The Top 15 Media CEOs Spend On Private Jets \[Ranked\]
+*   Advertising Yes, Google CEO Larry Page Talked About 'Gangnam Style' On His Earnings Call
+*   Retail Chipotle CEO Shreds Unnamed Competitor For Not Having Grills, Knives Or Cutting Boards
+*   Sports There's An Interesting Reason Why NFL Kickers Squeeze The Ball So Hard Before They Kick Off
 *   Life
     *   The Life
-    *   TransportationTake A Tour Of The New Most Expensive Zip Code In America Take A Tour Of The New Most Expensive Zip Code In America Gorgeous Photos Show The Eerie Side Of Munich's Subway System
+    *   TransportationThe 20 Most Expensive Hotel Rooms In America The 20 Most Expensive Hotel Rooms In America Lexus' Latest Hybrid Concept Gets More Power For Sydney Debut
 *   More
     *   Latest
     *   Video
@@ -54,7 +54,7 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
 
 *   Follow us on Facebook and get updates from Business Insider posted directly to your news feed  
 
-Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,496
+Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,516
 
 *   Email
 *   More Share on Tumblr
@@ -164,7 +164,7 @@ Recommended For You
 
 Please follow Business Insider on Twitter and Facebook.
 
-Advertisement: Short URL Share:
+Short URL Share:
 
 *   _Twitter_
 *   _Facebook_
@@ -226,34 +226,34 @@ More:*   SAI Select (sample)
 *   Careers Select (sample)
 *   Military Select (sample)
 
-Advertisement Your Money NASDAQ Composite 3,104 +2.95 (+0.095%) S&P 500 1,461 +5.99 (+0.412%) NYSE Composite 8,447 +0 (+0%) Sponsored By
+Advertisement Your Money NASDAQ Composite 3,073 -31.25 (-1.007%) S&P 500 1,457 -3.57 (-0.244%) NYSE Composite 8,443 +0 (+0%) Sponsored By
 
 Ready To Invest? Find A Broker Here »
 
-NFL Fever
+The Future Of Mobile
 
-*   10 Trends That Are Changing The Face Of The NFL As We Know It
-*   The Seahawks Exposed The One Glaring Flaw That Could Doom The Patriots This Season
-*   NFL POWER RANKINGS Going Into Week Seven
+*   How Content Is Being Consumed On Mobile Devices
+*   Why HTML5 Is Still Not Ready For Prime Time
+*   The State of Mobile Advertising
 
 Most Read Read  Commented  Recommended 
 
-*   The 50 Most Expensive Boarding Schools In America 535,335 Views
+*   The 50 Most Expensive Boarding Schools In America 900,840 Views
     
-*   The 10 Best College Towns In America 404,455 Views
+*   These Pictures May Give You Nightmares About The Canada Oil Sands 850,859 Views
     
-*   FORGET GOLD: Here's Where Die-Hard Skeptics Are Storing Their Wealth 324,189 Views
+*   19 Crazy Things That Only Happen In China 343,960 Views
     
-*   19 Crazy Things That Only Happen In China 283,876 Views
+*   This Story Of A Seven-Month Afghanistan Deployment Is The Grittiest You Will Ever Read 295,423 Views
     
 
-*   GALLUP: Mitt Romney Now Has A Gigantic 6-Point Lead Over Obama 197 Comments
+*   GALLUP: Mitt Romney Now Has A Gigantic 6-Point Lead Over Obama 207 Comments
     
-*   How Barack Obama Won The Presidential Debate 184 Comments
+*   How Barack Obama Won The Presidential Debate 186 Comments
     
-*   Paul Ryan Busted For Staged Photo-Op At Soup Kitchen Where He Pretended To Wash Dishes 146 Comments
+*   ROMNEY STORMS TO HUGE 7-POINT LEAD IN NEW GALLUP POLL 114 Comments
     
-*   People Are Going Crazy For Morgan Freeman's New Obama Ad 133 Comments
+*   These Pictures May Give You Nightmares About The Canada Oil Sands 103 Comments
     
 
 Loading, please wait...
@@ -272,34 +272,34 @@ See All Jobs Startup Document Center Templates To Jump Start Your Business Busin
 By-Laws Financial  
 Model See All » Read Me Henry Blodget
 
-| Yes, We're Better Off Than 4 Years Ago--Mostly \[CHARTS\] 34
+| Yes, We're Better Off Than 4 Years Ago--Mostly \[CHARTS\] 38
 
 But mostly because, four years ago, the world was ending.
 
+Joe Weisenthal
+
+| This Is The Biggest Economic Story In The World 65
+
 Cullen Roche
 
-| You Have To Laugh At Anyone Who Talks About China Boycotting US Treasuries 21
+| You Have To Laugh At Anyone Who Talks About China Boycotting US Treasuries 25
+
+Gail Tverberg
+
+| Natural Gas Isn’t Going To Solve Our Energy Problems 3
 
 Wolf Richter
 
-| Japan Inc.'s Basic Strategy Is Backfiring Badly 3
-
-Scott Annan
-
-| Business Leaders Of The Future Need A Totally New Value System 6
-
-Robert Reich, Contributor
-
-| OBAMA IS BACK 18
+| Japan Inc.'s Basic Strategy Is Backfiring Badly 4
 
 The Hive About The Hive » What Smart People Are Reading Right Now
 
-*   A Turn of the Page for Newsweek 9
-*   Guardian 'seriously discussing' end to print edition - Telegraph 5
-*   Let's reconsider our "users" - Jack's 3
+*   There's Less "Dark Social" Than Meets The Eye 4
+*   Exclusive: Och-Ziff hedge fund looks to exit landlord business 3
+*   Inside Foxconn - James Fallows 3
 
-*   Charge Your Phone by Moving Your Body \[VIDEO\] 2
-*   News from The Associated Press 2
+*   CNN.com - Breaking News, U.S., World, Weather, Entertainment &. Video News 2
+*   MediaShift . Why I Left American Public Media to Start GroundTruth 2
 
 More Less See All » Advertisement Thanks to our partners
 
