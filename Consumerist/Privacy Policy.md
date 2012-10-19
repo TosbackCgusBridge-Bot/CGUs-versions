@@ -124,11 +124,11 @@ Tell a friend:
 
 **Want Consumerist in your inbox?** Popular Posts
 
-*   Air Canada Pilot To Passengers: Just Gonna Bring The Plane Down Low So We Can Look For A Missing Yacht
-*   Man On 50-Day Drinking Binge Makes Unwise Decision To Open Plane Door During Landing
-*   Maxi Pad Company Apologizes For Fooling Man Into Thinking Periods Are Fun In Any Way
-*   Gap Should Probably Have Looked At Wikipedia Before Putting "Manifest Destiny" On T-Shirt
-*   A Screen Capture Is Not Legally Binding Proof Of An Online Description Change
+*   T.G.I. Friday's Customer Attempts To Pick Up Waiter With Quite A Subtle, Classy Line
+*   Only Bad Things Can Happen When You Abandon Thousands Of Bottles Of Counterfeit Ketchup In A Warehouse
+*   Yelp Conducts Sting To Catch Businesses Who Buy Reviews
+*   Raiders Of The Lost Walmart Can Get You VHS Tapes And The Greatest Hits Of 2007
+*   Pranking Coworker With Laxative-Laced Soda Not So Hilarious When Customer Buys The Drink
 
 About Consumerist
 
