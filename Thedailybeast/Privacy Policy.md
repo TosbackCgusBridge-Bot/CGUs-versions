@@ -144,11 +144,11 @@ Stories We Like
 
   Most Popular
 
-1.  A Turn of the Page for Newsweek
-2.  My Proof of Heaven
-3.  Undercover Muslim Agents Get Job Done
-4.  Obama’s Sober Night of Comedy
-5.  The Great Deformer
+1.  Ground Game: Advantage Obama?
+2.  Obama’s Sober Night of Comedy
+3.  My Proof of Heaven
+4.  The Great Deformer
+5.  A Turn of the Page for Newsweek
 
   Other News Entertainment
 
@@ -159,23 +159,23 @@ Stories We Like
 
 Entertainment
 
-*   President Obama on ‘Daily Show’ talks debates and Libya — but not ’50 Shades of Grey’
-*   ‘Big Bang Theory’ react: Girls vs. guys games will leave you exploding with laughter
-*   ‘Two and a Half Men’ react: Miley Cyrus brings sexy back
+*   EW’s Morning Bite: And the best sound bite from last night is…
+*   Tom Hanks drops an F-bomb on ‘Good Morning America’
+*   President Obama on ‘Daily Show’ talks debates and Libya, but not ’50 Shades of Grey’ — VIDEO
 *   **Get More from EW.com**
 
 Entertainment
 
 *   Romney's Pro-Palestinian Wing Riles Israel Supporters
+*   There's Less "Dark Social" Than Meets The Eye
 *   Obama Discovers Morning In America
-*   No Mention Of "Legitimate Rape" In Missouri Debate
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Why the Pennsylvania Senate Race is Close
-*   Quote of the Day
-*   Castro Suffers Massive Stroke
+*   Latest National Polls
+*   RNC Official Arrested for Trashing Registration Forms
+*   We're Not Where We Want to Be
 *   **Get More from Political Wire**
 
 The Daily Beast
