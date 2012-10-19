@@ -115,23 +115,23 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Now Up on the PJ Media Homepage
-*   Buzz Ballad: “Optimal”
-*   Romney/Ryan Signs Spotted in LA
+*   Should President Obama Address Rumors of Election Unrest Before the Election?
+*   Today’s Ras: Romney 50/Obama 47 in Virginia
+*   Prime Suspect in Benghazi Attack Turns Up, Chillin’ with a Strawberry Frappe
 
 More  
 
+*   The 5 Best Generation X Filmmakers
 *   _Ghostbusters 3_ Starts Shooting in Summer
 *   How Education Savings Accounts Will Revolutionize K-12 Schools
-*   VIDEO: Israeli Inventor Introduces $20 Cardboard Bike
 
 More
 
-*   It's Not Just Obama's Lies — It's the Premise of Obama's Lies
-*   Through a Gimlet Eye: Studying the _Washington Post_ Kremlinologist-Style
 *   Twilight of the Sort-Of Gods
+*   It's Not Just Obama's Lies — It's the Premise of Obama's Lies
+*   McCarthyism I can support
 
-More   OF COURSE: AARP urges Congress not to extend payroll tax break another year. “The nation’s largest seniors lobby on Thursday urged Congress and the White House not to extend a temporary payroll tax holiday beyond January. Social Security is funded by the payroll tax, and AARP worries that continuing the break to stimulate the economy will do long-term damage to the retirement program.” ... AMERICA’S “MORMON MOMENT?” Joel Kotkin: It’s Mormon In America. “Whether or not Mitt Romney makes it to the White House, his candidacy signals that Mormons have arrived in American political life. Just as President Obama’s nomination and election marked a sea change in the country’s tortured racial history, so Romney’s nomination has changed religious boundaries that have persisted for more than 160 years. No religious group has been more persecuted by the U.S. government, or more derided by other faiths present in the country, than the Church of Jesus Christ of Latter-day Saints (or the LDS Church, as many Mormons refer to it). . . . Today, some religious fundamentalists continue to rail against Mormons, while coastal sophisticates scoff at their earnest approach to life, religion, and family. Yet the methodical Mormon way, which stresses education, ambition, and charitable giving, has succeeded in ways equaled by few religious groups.” ... OLD PICTURE OF THE DAY: DECORATING IN THE WEIMAR REPUBLIC. “Well, the more money the Weimar Republic printed, the more useless it became. The more useless it became, the more they thought that they had just not printed enough money. It finally got to the point that people started finding all types of creative things to do with the currency. This guy is wallpapering his house with it. So, I guess you can never say a currency is useless, as you can always use it to decorate your house.” ... More Advertisement
+More   WEALTH AND ITS CONSEQUENCES: China: What Flows in, Must Flow out ... HOW ABOUT $300 MILLION IN PUBLIC FUNDING FOR CLEAN ENERGY FIRM WORKERS TO SIT AND PLAY CARDS? That’s what is happening at LG Chem, another of those electric car battery makers that got major federal funding, according to a local Michigan television news operation. Only problem is there’s almost no demand for what LG Chem makes. ... NEWS FROM THE PROGRESSIVE WORLD: “We are the coming civilization. We are the flood.” More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
