@@ -483,9 +483,9 @@ Email: webmaster@bodybuilding.com
   
 Related Articles
 
-*   IFBB Pro Undercover #18.
-*   IFBB Pro Undercover #19.
-*   IFBB Pro Undercover #20.
+*   IFBB Pro Undercover #4.
+*   IFBB Pro Undercover #5.
+*   IFBB Pro Undercover #6.
 
 *   View All Gossip And News Articles
 
