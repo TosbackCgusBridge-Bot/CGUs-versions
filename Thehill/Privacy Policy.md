@@ -212,35 +212,35 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Romney has edge in key national poll, but swing states remain closeFirst lady: President 'didn't point fingers, didn't place blame'Obama campaign ‘absolutely not’ giving up in Fla., NC, Va.Ann Romney: Mitt 'absolutely' done with politics if he loses election on Nov. 6Top House committee pushes FDA on meningitis outbreak
+Romney has edge in key national poll, but swing states remain closeObama spinning toward a lossFirst lady: President 'didn't point fingers, didn't place blame'Obama campaign ‘absolutely not’ giving up in Fla., NC, Va.Obama on Libya: 'If four Americans get killed, it's not optimal'
 
 Emailed
 
-Romney has edge in key national poll, but swing states remain closeReagan 1984, Obama 2012First lady: President 'didn't point fingers, didn't place blame'American Crossroads video charges Obama misled public on BenghaziDemocratic Senate hopefuls in red states wrestle with threat from Obama
+Romney has edge in key national poll, but swing states remain closeReagan 1984, Obama 2012Obama spinning toward a lossAmerican Crossroads video charges Obama misled public on BenghaziFirst lady: President 'didn't point fingers, didn't place blame'
 
 Discussed
 
-Professors donate to Obama, opine about election in news articlesFirst lady: President 'didn't point fingers, didn't place blame'More bad news for Mitt Romney Moderator Crowley helps Obama rebut Romney on LibyaRomney has edge in key national poll, but swing states remain close
+Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'Professors donate to Obama, opine about election in news articlesFirst lady: President 'didn't point fingers, didn't place blame'More bad news for Mitt Romney Moderator Crowley helps Obama rebut Romney on Libya
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
+*   New York Mayor Bloomberg suggests super-PAC is just the beginning
 *   Team Obama: We're winning Ohio among early voters
 *   MORNING READ
-*   Clinton denies presidential interest
 
   
 More Briefing Room » Congress Blog
 
+*   Labor law change would threaten U.S. businesses
+*   The reality of freedom of expression in the Muslim world
 *   Belligerence is not a strategy for the Middle East
-*   Uncertainty over sequestration needs to end
-*   Five metaphors to explain Romney's tax plan
 
   
 More Congress Blog » Pundits Blog
 
+*   Assigning responsibility
 *   Binders and blinders
 *   War on women
-*   The debate aftermath: Mitt Romney doesn’t get it
 
   
 More Pundits Blog » Twitter Room
@@ -252,9 +252,9 @@ More Pundits Blog » Twitter Room
   
 More Twitter Room » Hillicon Valley
 
+*   News bites: Softbank CEO not ruling out further deals in U.S.
 *   FTC offers $50,000 for best technology to combat illegal calls
 *   MPAA 'skeptical' of Megaupload founder's new service
-*   Google stock trading halted after results released early
 
   
 More Hillicon Valley » E2\-Wire (Energy)
@@ -266,30 +266,30 @@ More Hillicon Valley » E2\-Wire (Energy)
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Romney's strategy of winning Va.: Ripping Obama on defense cuts
-*   Boehner becomes boogeyman in Connecticut House race
-*   Poll finds Obama leads Romney in Wisconsin, Iowa
+*   Pelosi raises $7.2 million in September
+*   Casey leads by double digits in internal poll
+*   Debate recap: Candidates clash over women's issues, foreign aid
 
   
 More Ballot Box » On The Money
 
+*   News bites: Where are the jobs?
 *   US wins trade case over steel exports to China
 *   Bipartisan Policy Center floats fiscal cliff solution
-*   Hatch calls for more details on China currency
 
   
 More On The Money » Healthwatch
 
-*   Obama ad highlights Romney ‘delighted’ remark on abortion ban
-*   Top House committee pushes FDA on meningitis outbreak
-*   News bites: Back to Medicare
+*   New Texas rules ban links to abortion providers
+*   News bites: 'Anxious about the future'
+*   Rep. Joe Walsh: Abortion never necessary to save women's lives
 
   
 More Healthwatch » Floor Action
 
+*   GOP again shuts down Dems' attempt to speak at pro forma session
+*   GOP hints at student visa reforms in wake of foiled attack on NY Fed
 *   Female senators express outrage over Taliban attack on Pakistani girl
-*   Blumenthal demands crackdown on 'misleading' scooter chair ads
-*   Rep. King says Congress should retroactively kill estate tax if no deal this year
 
   
 More Floor Action » Transportation
@@ -301,9 +301,9 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
+*   Report: CIA seeks expanded drone fleet
 *   McKeon wants DOD review of key weapons system for Afghanistan
 *   White House throws weight behind Filipino WWII vets
-*   Report: Top Libyan militant present at Benghazi attack
 
   
 More DEFCON Hill » Global Affairs
