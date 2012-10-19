@@ -1,27 +1,27 @@
-*   CELEBRIDEAD GALLERY Celebrity Life Update
-*   VIDEO Yankees Ichiro Eludes Tag At Home Plate
-*   VIDEO Ravens Fans Vulgar Chant
-*   VIDEO Sick Swing Set Headplant
+*   VIDEO Superstar In The Making
+*   WAYS TO SAVE BLOG 5 Ways to Save a Buttload of Money!
+*   VIDEO Slow Mo: Molotov Cocktail Against House
+*   GET GROUCHY PARTNER Grouch Gallery
 *   PARTNER REAL OR FAKE
-*   VIDEO Blue Laser Cigarette Lighter
-*   VIDEO Jumping Over Car Fail
-*   VIDEO Eye Controlled Computer
-*   BEST OF HAZING BLOG Fraternity Hazing is Retarded.
+*   VIDEO Shotgun Hits Face
 *   VIDEO Eye Of The Pig Caller
+*   VIDEO DON'T DRIVE IN RUSSIA!
+*   VIDEO SDSU Student Hits Half Court Shot
+*   VIDEO Log Crossing Epic Fail
+*   VIDEO Reporter Gets A Face Full Of Water
+*   CELEBRIDEAD GALLERY Celebrity Life Update
+*   VIDEO Cartoon Network 20 Year Tribute
+*   VIDEO Clutch Fail!
+*   BEST OF HAZING BLOG Fraternity Hazing is Retarded.
 *   SAM JACKSON PARTNER Sam Jackson Quotes
-*   VIDEO Smart Car T-BONES Patrol Car
-*   VIDEO Highbar Back Flip FAIL
-*   VIDEO Cat Jump Fail
-*   HALLOWEEN CRAP BLOG Halloween...
-*   VIDEO Kid Narrowly Avoids Death By Motorcycle
+*   VIDEO Dog Wants This Root
 *   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
-*   VIDEO Ghetto Stuntman Breaks Wrist
+*   VIDEO Assistant Coach Caught Air Humping
+*   VIDEO Restore Your Faith in Time Lapse
+*   HALLOWEEN CRAP BLOG Halloween...
+*   VIDEO Street Luge Bail
 *   CUBE MAPPING PARTNER 3D Cube Mapping Demo
-*   VIDEO How NOT to Play Soccer With Your Kid
-*   VIDEO Guinness World Record Human Tower Fail
-*   MARIO COURT PARTNER Super Mario Attorney at Law
-*   VIDEO Rampaging Squirrel Escapes Like a BOSS!!
-*   PIG'S NIGHTMARE PARTNER Angry Birds IRL
+*   VIDEO Kid Narrowly Avoids Death By Motorcycle
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
@@ -111,15 +111,15 @@ Last updated: March 31, 2011.
 
 EBAUM'S PICKS OSU Marching Band - Video Game Tribute Psh Prank With Edbassmaster Naughty Home Alone Dog Insane Dodge Ball Kill! Top 5
 
-*   *   106,760
+*   *   112,852
     *   How To Kill a Starfish
-*   *   98,645
+*   *   104,473
     *   Facebook Wins and Fails
-*   *   86,395
+*   *   89,954
     *   Monday Morning Randomness
-*   *   82,996
+*   *   85,333
     *   Best Viral Pics of The Week Compilation
-*   *   78,400
+*   *   84,391
     *   Coach Knocks Out Student
 
 POPULAR GALLERIES The Best of Internet Memes Best Viral Pics of The Week Compilation POPULAR GAMES Into Space 2 Slender - Bones of Children Infectionator 2 Decision 2
