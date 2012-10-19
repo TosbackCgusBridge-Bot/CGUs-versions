@@ -130,18 +130,18 @@ more popular tv shows Most Popular Celebrities
 more popular celebrities Most Popular Movies
 
 1.  Taken 2
-2.  Hotel Transylvania
-3.  Looper
-4.  End Of Watch
-5.  Trouble With The Curve
+2.  Argo
+3.  Sinister
+4.  Hotel Transylvania
+5.  Here Comes The Boom
 
 more popular movies Top Videos
 
 1.  The Vampire Diaries
 2.  Arrow
 3.  Dexter
-4.  Arrow
-5.  Supernatural
+4.  Supernatural
+5.  Hart of Dixie
 
 more top videos
 
