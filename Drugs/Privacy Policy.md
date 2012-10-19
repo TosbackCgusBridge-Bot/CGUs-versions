@@ -1,50 +1,13 @@
 Skip to Content Browse all medications  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z    Advanced Search   Phonetic Search Search:
 
 *   Drugs A-Z
-    *   Complete A - Z Drug Index
-    *   Drugs by Condition
-    *   Drugs by Class
-    *   Drug Side Effects
-    *   Drug Dosage
-    *   Pregnancy Warnings
-    *   Breastfeeding Information
-    *   International Drugs
-    *   Generic Drugs
-    *   Over the Counter Drugs
-    *   Veterinary Drugs
-    *   Natural Products
-    *   Harvard Health Topics
-    *   Medical Encyclopedia
-    *   Pharmaceutical Company Directory
 *   Pill Identifier
 *   Interactions Checker
 *   News
-    *   News &. Alerts Center
-    *   FDA Medwatch Drug Alerts
-    *   FDA Labeling Changes
-    *   Daily MedNews for Consumers
-    *   Pharmaceutical Industry News
-    *   Clinical Trial News
-    *   New Drug Approvals
-    *   New Drug Applications (Pipeline)
-    *   Get News via Twitter
-    *   Drugs.com Blog
 *   Health Professionals
-    *   Professional Resource Center
-    *   FDA Prescribing Information
-    *   AHFS DI Monographs
-    *   A-Z Drug Facts for the Professional
-    *   Drug Interactions Checker
-    *   Patient CareNotes for the Professional
-    *   Natural Products Database
-    *   Medical Conferences
-    *   Medical Dictionary
-*   Community
-    *   Ask Medical Questions
-    *   Join Support Groups
-    *   Forum - Discussion Boards
+*   Q &. A
 *   Mednotes
-*   Apps
+*   Mobile Apps
 
 Home → Support → **Privacy Policy** Privacy Policy
 
@@ -210,4 +173,4 @@ Advertisement Close Recommended
 
 *   Symptom Checker
 
-(web3)
+(web6)
