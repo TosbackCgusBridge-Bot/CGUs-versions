@@ -117,7 +117,7 @@
     *   Weekly Special Gifts
     *   Spooky Halloween Specials
 
-Signature Gifts | Buy More Save More | Gifts Under $20 FAQContact UsFigis GuaranteeShipping InformationLow PaymentsFree GiftsSafe &. SecureReturns PolicyPrivacy PolicyCredit DetailsTerms of UseEmail Us Internet Privacy Policy
+Halloween | Breast Cancer Awareness | Gifts Under $20 FAQContact UsFigis GuaranteeShipping InformationLow PaymentsFree GiftsSafe &. SecureReturns PolicyPrivacy PolicyCredit DetailsTerms of UseEmail Us Internet Privacy Policy
 
 *   What is your Internet Privacy Policy?
 *   What information do you collect when I visit your Web sites?
