@@ -73,14 +73,18 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 *   Ashley Greene: Look At Me Now
 *   Ashley Greene's Cover Shoot Style
 *   Project Runway's New York
-*   Gwen Stefani: Rock 'n' Rule
 *   Gwen Stefani's Cover Shoot Style
 *   Gwen Stefani's Style Evolution
+*   Gwen Stefani: Rock 'n' Rule
 *   Chelsea Everywhere
 *   Big Shots
 
 Latest blog entries
 
+*   Ryan Reynolds' Favorite iPhone Apps
+    
+    The actor shares his eight most-used apps, from one that helps him read scripts to another that shows him how to restore old motorcycles. 10/17/12
+    
 *   Pills and Pocketbooks: Why Obama's Debate Pitch to Women Matters
     
     These are not just women's issues, said a much feistier Obama during last nights presidential debate. These are family issues. These are economic issues. 10/17/12
@@ -96,10 +100,6 @@ Latest blog entries
 *   Cuts Against Cancer
     
     Need a trimfor free? In celebration of breast cancer awareness month, ULTA Beautys got you covered 10/12/12
-    
-*   Five Lady Candidates to Watch: Election Countdown Edition
-    
-    Last month, we gave you a list of 11 female congressional candidates hitting the campaign trail this season. Now, with less than a month to election day, were checking in with some of the most fascinating candidates and closest races. 10/11/12
     
 *   See all blogs
 
