@@ -23,13 +23,8 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 19 01:00 AM · DECISIONES coming up next:
+schedule right now: October 19 06:00 AM · SMB coming up next:
 
-*   2:00 AM · DELICIOUS
-*   3:00 AM · MORNING BREATH
-*   4:00 AM · MORNING BREATH
-*   5:00 AM · MORNING BREATH
-*   6:00 AM · SMB
 *   8:00 AM · REVENTON
 *   9:00 AM · MORNING BREATH
 *   10:00 AM · L'CREME
@@ -40,6 +35,11 @@ schedule right now: October 19 01:00 AM · DECISIONES coming up next:
 *   4:00 PM · CHIQUIS 'N CONTROL
 *   5:00 PM · PARTY MIX
 *   6:00 PM · AL CIEN 100%
+*   7:00 PM · OPERACION REPO
+*   7:30 PM · OPERACION REPO
+*   8:00 PM · PREMIOS BILLBOARD DE LA MUSICA MEXICANA
+*   11:00 PM · BELLATOR FIGHTING CHAMPIONSHIPS
+*   1:00 AM · I LOVE JENNI
 
 see full schedule >>.
 
