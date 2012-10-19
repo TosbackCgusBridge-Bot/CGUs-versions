@@ -12,7 +12,7 @@ Loading Results... Skip to content
 *   Customer Service
 *   1.800­.GO.DEPOT (1.800.­463.3768) Close X
     
-    **Session:** 0000ArE9VnZCa7u-zX6FFBXiGBi  
+    **Session:** 0000Rm-jEhY7if927g1YMt5ByWS  
     **Clone:** 1659q38ci
     
 
@@ -584,7 +584,7 @@ Learn more about how to protect your child online. Read the helpful information 
 
 Your choices about our marketing and tracking tools.
 
-**You can opt out of marketing emails and texts.** To stop receiving our promotional emails, please email us (mailoptout@officedepot.com) or call us at 1-800-915-4624. Please indicate whether you wish to continue to receive Office Depot's catalogs and other postal mailings. To stop receiving marketing text messages, text STOP to 33768 (Depot), a confirmation text will be sent. If you have an account on our website, you can manage your preferences here.
+**You can opt out of marketing emails and texts.** To stop receiving our promotional emails, please email us (mailoptout@officedepot.com) or call us at 1-800-915-4624. Please indicate whether you wish to continue to receive Office Depot's catalogs and other postal mailings. To stop receiving marketing text messages, text **STOP** to 33768 (Depot), a confirmation text will be sent. If you have an account on our website, you can manage your preferences here.
 
 You can control if we share information with third parties for their marketing purposes. To opt out of having us share your information with third parties for their promotional purposes, please email us (mailoptout@officedepot.com) or call us at 1-800-915-4624. If you accept an offer from one of them after you opt out, we will share your information with that specific party.
 
