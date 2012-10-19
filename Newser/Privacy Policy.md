@@ -5,13 +5,13 @@
     *   Election 2012
     *   Mitt Romney
     *   entertainment
-    *   presidential debate
+    *   celebrity
     *   Mitt Romney 2012
-    *   Obama 2012
+    *   Barack Obama
+    *   timeless news
     *   strange stuff
     *   President Obama
-    *   celebrity
-    *   Barack Obama
+    *   Obama 2012
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -119,63 +119,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Stop Talking About Small Business and Income Tax Rates!
-*   The Drones Are Coming to Libya
-*   Should You Go to the Drugstore for Your Flu Shots?
+*   Malapropisms: the Pineapple of Linguistic Errors
+*   The Sessions
+*   Play the Slate News Quiz
 
 More from Slate »
 
-*   WOMAN BREASTFEEDS DOG
-*   Alanis Morissette Music Leads To A Plate In The Face: Cops
-*   Darth Vader's Wife Punched In The Face
+*   DEEP IMPACT
+*   God vs. Space Aliens
+*   More (Real) Signs Of The ZOMBIE APOCALYPSE
 
 More from HuffPost Weird »
 
-*   Woo Hoo! Next Season Of âANTMâ Will Include Male Models!
-*   Australian Dictionary Fiddles With The Definition Of...
-*   October 17: What Are We Wearing Today?
+*   âSesame Streetâ Sends Cease-And-Desist To Sexy Big Bid
+*   Hillary Clinton: Stop âWhiningâ About Not Having It All
+*   The âSecretâ Justin &. Jessica Wedding Is On, Shh!
 
 More from The Frisky »
 
-*   Thursday GJTB thread. Haters gonna hate, but donaters gonna...
-*   Not guilty verdict in father/daughter vibrator case leaves...
-*   Woman caught with a shopping cart full of unpaid sports...
+*   This just in: Flamin' Hot Cheetos can cause some problems...
+*   Terminal cancer patient becomes honorary CoverGirl model,...
+*   Student banned from homecoming for: A) looking too slutty;...
 
 More from Fark »
 
-*   5 ways Mitt Romney can win the final presidential debate
-*   The evolution of SEAL Team Six
-*   Miss Bush? Vote Romney!
+*   5 ways Obama can win the final presidential debate
+*   Not an October surprise
+*   Is North Carolina already out of reach for President Obama?
 
 More from The Week »
 
-*   Jonathan Chait on Piers Morgan: Focus on Romneyâs âBindersâ...
-*   Mayor Bloomberg Now Has His Own PAC
-*   Bruce Springsteen Is Obamaâs Secretary of Explaining Stuff...
+*   Matthew Fox Previews His Romney Biopic on Kimmel
+*   Romney &. Obama Roast Each Other at Charity Dinner
+*   In Debate, McCaskill Avoids Attacking Akin on âLegitimate...
 
 More from Daily Intel »
 
-*   Kicking Butt! 10 Celebrities Who Have Quit Smoking
-*   National Disability Awareness Month: The Best Compliment Is...
-*   How Does Sleep Affect Mental Wellness?
+*   35 Diet And Nutrition Experts You Should _Already_...
+*   180 Kilometers of Motivation
+*   You Don't Need a Lump to Have Breast Cancer
 
 More from HuffPost Health »
 
-*   Kate Upton Flaunts Major Cleavage in Vogue's November Issue...
-*   Lance Armstrong's Fall From Grace: What Does it Mean for...
-*   Kristen Stewart, Robert Pattinson Romance: 70% of Readers...
+*   Miley Cyrus Says It's 'Pretty Blatant' Jonas Brothers' New...
+*   Drake Graduates from High School at 25: Celebs Who've...
+*   Bruce Springsteen Pens Support Letter for Barack Obama: The...
 
 More from Celebuzz »
 
-*   Look Before You Leap When Buying Toys for Kids
-*   10 Seriously Awesome Family Costume Ideas
-*   'Paranormal Activity 4' Is So Scary Even the Trailer Gives...
+*   Kim Kardashianâs Insane Wardrobe Choices Probably Help Her...
+*   5 No-Fail Ways to Stop Coughing Now
+*   'Jersey Shore' Recap: Deena's Mess of a Meatball Day Ends...
 
 More from The Stir »
 
-*   Portrait: The Hive
-*   Perspective: Testimonial Dinners
-*   DDB Seeks New U.S. CD on McDonald's
+*   Will Ferrell Now Making Old Milwaukee Ads for Swedish TV
+*   Baba Shetty Addresses the Skeptics
+*   Bolthouse Farms Is Fine With You Shaking Your Carrots in...
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
