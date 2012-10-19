@@ -1,6 +1,6 @@
 Access Hollywood
 
-*   **HOT NOW:** Jessica Biel &. Justin Timberlake's Pre-Wedding Party
+*   **HOT NOW:** Tori Spelling Talks Life-Threatening Pregnancy
 
 *   WATCH
 *   NEWS
