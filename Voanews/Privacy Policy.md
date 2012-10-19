@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Truck Driver's Death Starts Riots in China
-*   FBI Arrests Bangladeshi Man in Bombing Plot
+*   Turkey Calls for Syria Cease-Fire
+*   Obama, Romney Trade Jokes, Jabs
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
