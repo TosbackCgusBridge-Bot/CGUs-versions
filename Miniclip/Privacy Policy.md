@@ -1,9 +1,9 @@
 Play Games at Miniclip.com New games! Hit the homepage  
-Great new games out now NeoMech New iPhone game! Try NeoMech online  
+Great new games out now TMNT Choose your destiny Ninja Turtles are back  
+To fight mutant vermin NeoMech New iPhone game! Try NeoMech online  
 Super shooting robots Plague Inc. Android infection alert! Plague Inc.  
 Now on Android! Calling Pool Ninjas! New table in shop  
-Get your stealth on Midnight Dash Midnight Dash! Win the Awards  
-Go beat the clock Obama Game Martian Invasion! Obama - Video Game  
+Get your stealth on Obama Game Martian Invasion! Obama - Video Game  
 President vs Aliens My Miniclip Credits
 
 *   Signup
