@@ -3,7 +3,7 @@ Want service for a device you already own? All you need is a SIM card and a plan
   
 Act now! Offer ends on 10/31. New 2-year agmt. on qualifying rate plan required.
 
-*   Limited time: FREE activation on all SIM cards Details
+*   Limited time: FREE activation on all SIM cards, a $35 savings Details
 
   
 Privacy Policy: Highlights
