@@ -42,7 +42,6 @@
         *   Jackets
         *   Jerseys
         *   Livestrong
-        *   Long Sleeve
         *   Pants
         *   Shorts
         *   Socks
