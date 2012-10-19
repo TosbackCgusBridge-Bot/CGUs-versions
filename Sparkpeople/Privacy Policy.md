@@ -143,26 +143,25 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Pedometer For Free Resources
+*   Hypothyroidism Weight Resources
 
   
-Stay in Touch With SparkPeople **Put Yourself First**
+Stay in Touch With SparkPeople **The Crunch Test**
 
-Too often we do everything for others, but very little for ourselves. But you MUST take care of your own basic needs (and health) before you can attend to the needs of others. Here's how.
+How many crunches can you do? Find out what your number says about your fitness level.
 
 Read More
 
-*   Mindful baking?
-*   Why the scale isn't a good indicator of health.
-*   Who Motivates you on Sparkpeople?
 *   Please share your favorite "pumpkin" recipes!
-*   Healthy Halloween snacks
+*   Mindful baking?
+*   Specific Tips to get through the Weekend
+*   Need Ideas for working out at home
+*   How do you maintain your exercise long-term?
 
-View Demo **Isometric Biceps Hold with Towel**  
-A towel provides resistance when you don't have any equipment. **Slow Cooker Marinara Chicken and Vegetables**  
-Submitted By: **CHEF\_MEG**
+View Demo **Reverse Grip Triceps Pulldown on Cable Cross Machine**  
+A reverse grip adds challenge to this exercise. **Caramelized Pears with Toasted Almonds and Yogurt**
 
-Chef Meg made over a versatile member recipe by adding extra vegetables and reducing the sodium. Serve with a side salad or over whole wheat pasta or brown rice. Full Recipe
+Not only will this taste yummy, but it is a gorgeous presentation as well. You'll impress everyone! Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
