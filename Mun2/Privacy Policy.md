@@ -23,23 +23,23 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 18 01:00 AM · DECISIONES coming up next:
+schedule right now: October 19 01:00 AM · DECISIONES coming up next:
 
-*   2:00 AM · L'CREME
+*   2:00 AM · DELICIOUS
 *   3:00 AM · MORNING BREATH
 *   4:00 AM · MORNING BREATH
 *   5:00 AM · MORNING BREATH
 *   6:00 AM · SMB
-*   8:00 AM · MORNING BREATH
+*   8:00 AM · REVENTON
 *   9:00 AM · MORNING BREATH
 *   10:00 AM · L'CREME
-*   11:00 AM · MORNING BREATH
-*   12:00 PM · L'CREME
-*   1:00 PM · REVENTON
-*   2:00 PM · L'CREME
-*   3:00 PM · L'CREME
-*   4:00 PM · AL CIEN 100%
-*   5:00 PM · L'CREME
+*   11:00 AM · L'CREME
+*   12:00 PM · DELICIOUS
+*   1:00 PM · AL CIEN 100%
+*   2:30 PM · 18 &. OVER
+*   4:00 PM · CHIQUIS 'N CONTROL
+*   5:00 PM · PARTY MIX
+*   6:00 PM · AL CIEN 100%
 
 see full schedule >>.
 
