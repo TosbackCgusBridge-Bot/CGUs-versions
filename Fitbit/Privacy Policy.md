@@ -185,6 +185,7 @@ Help
 Device Help
 
 *   Fitbit Zip Help
+*   Fitbit One Help
 *   Fitbit Ultra Help
 *   Fitbit Aria Help
 
@@ -215,7 +216,62 @@ Products
 *   Aria™  
     Wi-Fi Smart Scale
 
-Shop Devices Zip 101 Zip Basics How it works Features Prev Next Get Started Wearability
+Shop Devices OneTM 101 One Basics How it works Syncing Prev Next Go to dashboard Wearability
+
+Wear your Fitbit One somewhere near your torso during the day. Some recommended places to wear it are:
+
+*   clipped to your bra
+*   clipped to your waistband or pocket
+*   inside your pocket
+
+Press to change display
+
+Your Fitbit One is always tracking, even when the display is asleep. Press the button to view your stats.
+
+*   Your flower will grow and shrink, depending on how active you've been recently.
+*   Calories burned includes resting calories and calories from activity.
+*   The activity stats shown on your tracker reset at midnight.
+
+Steps Stairs Climbed Distance Calories Burned Track Sleep
+
+To track your sleep, press and hold the button on your tracker until you see the stopwatch.
+
+*   Press and hold the same button when you are awake to end your sleep recording.
+*   Sleep records will show up on your Fitbit dashboard the next time you sync your tracker.
+
+Silent Alarms
+
+Use Silent Alarms to wake from sleep without disturbing your partner.
+
+*   Your One gently vibrates on your wrist to silently wake you.
+*   Set repeating or one-time alarms from the Fitbit mobile app or website.
+*   Your upcoming alarm will show on your tracker.
+
+Charging
+
+Your Fitbit One contains a rechargeable battery.
+
+*   When plugged into the Charging Cable, it takes about 2 hours for your tracker to be fully charged.
+*   The battery will typically last 5–7 days.
+
+Sync with your computer
+
+Your activity information is sent to your computer when your tracker is within 20 feet of the plugged-in Wireless Sync Dongle
+
+*   Syncing happens automatically. There are no buttons to push.
+*   After syncing, you can view your activity details online at Fitbit.com or on the free Fitbit iPhone and Android apps.
+
+Sync on the go
+
+Have one of these devices? Download the Fitbit App from the App Store to sync your tracker throughout the day. No need for a computer.
+
+*   **iPhone 4s** (and later)
+*   **iPad 3rd generation** (and later)
+*   **iPod Touch 5th generation** (and later)
+
+Don't have one of the devices above? Get the Fitbit App to view the data from your most recent sync with your computer.
+
+Zip 101 Zip Basics How it works Features Prev Next Get Started Wearability
 
 Wear your zip somewhere near your torso. Some recommended places to wear it are:
 
