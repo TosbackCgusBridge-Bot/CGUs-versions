@@ -190,87 +190,74 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Themen der Woche
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 82963 Arbeit 64028 Ausbildung 49532 Auto 90100 Beauty 68381 Beruf 76758 Beziehung 70997 Computer 531999 Computerspiele 63839 deutsch 66338 Englisch 51621 ErnÃ¤hrung 50267 essen 70566 Facebook 76250 Fernsehen 59824 Film 98951 Finanzen 58666 Freizeit 260424 FuÃball 50740 Games 123005 Geld 92527 Gesundheit 203854 Haare 81547 Handy 202053 Hilfe 146503 Internet 319410 iPhone 74289 Kinder 50506 KÃ¶rper 49386 Laptop 72584 Liebe 163213 Lied 53810 MÃ¤dchen 55471 Medizin 62191 Minecraft 66808 Musik 277979 PC 279146 PC-Spiele 48087 Problem 54403 PS3 59378 Recht 94476 Schule 232656 Software 56588 Spiele 135671 Sport 109760 Technik 119367 Tiere 64321 TV 53899 Video 52113 Youtube 82045 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  Bahn
-2.  Fifa
-3.  Halloween
-4.  Online-Shop
-5.  Periode
-6.  Pickel
-7.  Piercing
-8.  Pokemon
-9.  rauchen
-10.  Skype
-
-Top-50 Themen Thema Anzahl Apple 82865 Arbeit 63942 Ausbildung 49476 Auto 90020 Beauty 68326 Beruf 76695 Beziehung 70909 Computer 531621 Computerspiele 63784 deutsch 66256 Englisch 51568 ErnÃ¤hrung 50224 essen 70517 Facebook 76139 Fernsehen 59774 Film 98859 Finanzen 58638 Freizeit 260223 FuÃball 50718 Games 122848 Geld 92452 Gesundheit 203727 Haare 81476 Handy 201800 Hilfe 146294 Internet 319162 iPhone 74188 Kinder 50468 KÃ¶rper 49314 Laptop 72509 Liebe 162998 Lied 53755 MÃ¤dchen 55390 Medizin 62147 Minecraft 66732 Musik 277718 PC 278859 PC-Spiele 48039 Problem 54338 PS3 59297 Recht 94409 Schule 232398 Software 56555 Spiele 135516 Sport 109681 Technik 119259 Tiere 64273 TV 53860 Video 52072 Youtube 81944 Themen von A-Z Suchbegriff Top-Nutzer des Tages
-
-1.  Tomsky100
+1.  AlphaCarinae
     
     Punkte:
     
-    731
+    795
     
     Level:
     
-    Tomsky100
+    AlphaCarinae
     
 2.  Heidekraut12
     
     Punkte:
     
-    637
+    707
     
     Level:
     
     Heidekraut12
     
-3.  asogama
+3.  sassbar
     
     Punkte:
     
-    587
+    701
     
     Level:
     
-    asogama
+    sassbar
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.272.335 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.279.890 gute Fragen_
 
-*   25 Meine Katze schenkt gerade unserem Hund eine lebendige Maus....
-*   22 Schulverweis Suspendierung wegen Facebook! Bitte sofortige Hilfe!!!!!!
-*   14 Eltern haben sich wegen mir getrennt - Mutter hasst mich
+*   21 Kann ich ihm Ordnung beibringen?
+*   20 Ich schÃ¤me mich autistisch zu sein
+*   17 Wenn Frauen sagen "ich bin zu dick"
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
-*   Eine Hand zeichnen
 *   KÃ¼rbis-Pfannkuchen zubereiten
+*   Richtig trainieren auf dem Crosstrainer
 
-*   Glutenfrei backen: Schokokuchen
-*   Kaninchen Zeichnen
+*   Anleitung: Antistress-Ball basteln
+*   Vogel zeichnen lernen
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.937.478
+1.939.312
 
 Anzahl der Fragen
 
-8.271.606
+8.279.310
 
 Anzahl der Antworten
 
-35.977.255
+36.004.275
 
 Anzahl der Tipps
 
-74.285
+74.362
 
 Anzahl der Videos
 
-4.677
+4.687
 
 Blog
 
