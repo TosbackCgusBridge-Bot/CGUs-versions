@@ -108,14 +108,6 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-Watch EFF's @TrevorTimm discuss the ins and outs Twitter's country-by-country censorship policy on @HuffPostLive: https://eff.org/r.2apa
-
-Oct 18 @ 5:34pm
-
-In San Francisco? Come hang with EFF techs &. activists this Saturday at Hackmeet: https://hackmeet.org/
-
-Oct 18 @ 4:27pm
-
 *   Twitter
 *   Facebook
 *   Identi.ca
