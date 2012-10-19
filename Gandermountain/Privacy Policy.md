@@ -104,7 +104,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   The North Face
     *   Under Armour
     
-    *   Summer Blowout SaleOther Ways to Shop: New for 2012   |  Apparel on Sale   |  Apparel Outlet   |  Bestselling
+    *   Summer Blowout SaleOther Ways to Shop: New for 2012   | Apparel Outlet   | Bestselling
 *   Footwear
     
     *   Hunting Footwear
@@ -159,7 +159,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   LaCrosse
     *   Columbia
     *   Rocky
-    *   Irish SetterOther Ways to Shop: New for 2012   |  Footwear on Sale   |  Footwear Outlet   |  5-Star Rated
+    *   Irish SetterOther Ways to Shop: New for 2012   | Footwear Outlet   | 5-Star Rated
 *   Firearms
     
     *   New Firearms
@@ -216,7 +216,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Winchester
     *   Benelli
     *   Springfield
-    *   MossbergOther Ways to Shop: Firearms on Sale   |  Firearms Rebates
+    *   MossbergOther Ways to Shop: Firearms Outlet   | Firearms Rebates
 *   Shooting
     
     *   Optics
@@ -300,7 +300,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   New for 2012
     
     *   Nikon Store
-    *   Bushnell StoreOther Ways to Shop: New for 2012   |  Shooting on Sale   |  5-Star Rated
+    *   Bushnell StoreOther Ways to Shop: New for 2012   | Shooting Outlet   | 5-Star Rated
 *   Hunting
     
     *   Optics
@@ -396,7 +396,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   New for 2012
     
     *   Nikon Store
-    *   Bushnell StoreOther Ways to Shop: New for 2012   |  Hunting Outlet   |  Hunting Checklists
+    *   Bushnell StoreOther Ways to Shop: New for 2012   | Hunting Outlet   | Hunting Checklists
 *   Archery
     
     *   Bows &. Crossbows
@@ -435,7 +435,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Target Accessories
     *   Bowfishing
     
-    *   New for 2012Other Ways to Shop: New for 2012   |  On Sale   |  5-Star Rated
+    *   New for 2012Other Ways to Shop: New for 2012   | Archery Outlet   | 5-Star Rated
 *   Camping
     
     *   Tents &. Shelters
@@ -533,7 +533,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Lodge Cast Iron
     *   Masterbilt
     *   Smoke Hollow
-    *   YetiOther Ways to Shop: New Items in Camping   |  Camping Outlet   |  Camping Rebates   |  Camping Checklists
+    *   YetiOther Ways to Shop: New Items in Camping   | Camping Outlet   | Camping Rebates   | Camping Checklists
 *   Fishing
     
     *   Rods
@@ -626,7 +626,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Rapala
     *   Shimano
     *   St. Croix
-    *   Ugly StikOther Ways to Shop: New Fishing Items   |  Fishing Outlet   |  Trolling Motor Selector   |  Fishing Rebates
+    *   Ugly StikOther Ways to Shop: New Fishing Items   | Fishing Outlet   | Trolling Motor Selector   | Fishing Rebates
 *   Boating
     
     *   Marine Electronics
@@ -727,7 +727,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Shop by Activity
     *   Watersports
     *   Maintenance
-    *   FishingOther Ways to Shop: Boating on Sale   |  Trolling Motor Selector   |  Boat Cover Selector
+    *   FishingOther Ways to Shop: Boating Outlet   | Trolling Motor Selector   | Boat Cover Selector
 *   Auto &. ATV
     
     *   GPS &. Electronics
@@ -798,7 +798,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Lund
     *   Raider
     *   SPG
-    *   WeatherTechOther Ways to Shop: New For 2012   |  Auto &. ATV on Sale   |  Auto &. ATV Outlet
+    *   WeatherTechOther Ways to Shop: New For 2012   | Auto &. ATV Outlet
 *   Home &. Gifts
     
     *   Gifts
@@ -860,7 +860,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Training DVDs
     *   Vest &. Skid Plates
     
-    *   New Kenny CostasPopular Categories: Yard Games   |  Sunglasses   |  Watersports   | 
+    *   New Kenny CostasPopular Categories: Yard Games   | Sunglasses   | Watersports
 *   Outlet
     
     *   Apparel
@@ -894,7 +894,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Gander Mountain
     *   Guide Series
     
-    *   Summer Blowout SaleOther Ways to Shop: On Sale   |  Rebates   |  Promos
+    *   Summer Blowout SaleOther Ways to Shop: On Sale   | Rebates   | Promos
 
   
 
