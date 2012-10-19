@@ -15,6 +15,10 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
+Good Jeans: Fall's Best Denim
+
+See the best in fall denim.
+
 My List: Vera Wang in 24 Hours
 
 The designer shares her schedule and beaut routine
@@ -22,10 +26,6 @@ The designer shares her schedule and beaut routine
 Street Style Star: Chic Coats
 
 Coat season is officially here, see how chic ladies wear their fall best on...
-
-A Date with Chanel: Miroslava Duma
-
-Before heading off to a night under the stars, the ambassador to the brand ...
 
 Beauty &. Hair  
 
@@ -37,25 +37,25 @@ Beauty &. Hair  
 *   Beauty at Every Age
 *   Health &. Wellness
 
-The Best Makeup Looks From Spring 2013 Fashion Week
+The Power of Perfume
 
-The top 6 makeup trends you need to know for next season.
+An alluring mystique is created by a woman's choice of scent.
 
-Are Your Hands Aging You?
+35 More Fall Fragrances
 
-The latest anti-aging treatments for your hands.
+Shop more fragrances for Fall 2012.
 
-CELEBRITY STYLE &. PARTIES   Last Night's Parties: Target's 50th Anniversary, Barneys New York Hosts Kelly Klein's "Pools" Launch, Plus More!
+CELEBRITY STYLE &. PARTIES   Last Night's Parties: Urban Zen's Connecting the Dots Exhibiton &. Mario Testino's First U.S. Photo Exhibit
+
+See who came out to celebrate the arts in New York and Boston.
+
+Last Night's Parties: Target's 50th Anniversary, Barneys New York Hosts Kelly Klein's "Pools" Launch, Plus More!
 
 See who was on the New York scene.
 
 Last Night's Parties: The Golden Heart Awards &. Acne Paper #14 Launch
 
 See who was on the New York scene.
-
-Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More!
-
-See who was on the scene.
 
 *   Red Carpet Style
 *   Cover Stories
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR My List: Vera Wang in 24 Hours Street Style Star: Chic Coats A Date with Chanel: Miroslava Duma The Best Makeup Looks From Spring 2013 Fashion Week Are Your Hands Aging You? The Most Anticipated Hair Trends For Spring 2013 Last Night's Parties: Target's 50th Anniversary, Barneys New York Hosts Kelly Klein's "Pools&qu... Last Night's Parties: The Golden Heart Awards &. Acne Paper #14 Launch Last Night's Parties: Maje's Fall Campaign Party, Massimo Dutti's Flagship Opening, Plus More! Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR Good Jeans: Fall's Best Denim My List: Vera Wang in 24 Hours Street Style Star: Chic Coats The Power of Perfume 35 More Fall Fragrances Find Your Perfect Scent Last Night's Parties: Urban Zen's Connecting the Dots Exhibiton &. Mario Testino's First U.S. Photo E... Last Night's Parties: Target's 50th Anniversary, Barneys New York Hosts Kelly Klein's "Pools&qu... Last Night's Parties: The Golden Heart Awards &. Acne Paper #14 Launch Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
