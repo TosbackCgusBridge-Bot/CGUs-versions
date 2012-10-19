@@ -142,9 +142,7 @@ Friday: Five things to do
     
     Central Power Systems &. Services, Inc.
     
-2.  SEASONAL DRIVERS
-    
-    Kelly Services
+2.  SALES
     
 3.  PROGRAM DIRECTOR
     
@@ -165,15 +163,15 @@ View More The Most
 *   Commented
 
 *   Romney's case to women fails to convince
-*   Lawsuit: Employee rift led to KC store selling laxative-tainted Coke
-*   Letters | Mitt Romney, Bill Clinton, drugs
-*   Boy Scouts’ secret child abuse files are released
 *   Pendergast photos offer proof of a KC legend
-*   Dust storm shuts down Interstate 35 near Kansas-Oklahoma state line
 *   Terminal A is the likely destination of the new KCI
+*   Dust storm shuts down Interstate 35 near Kansas-Oklahoma state line
 *   Kansas girl files lawsuit to force CO2 restrictions
-*   Shawnee Mission West graduate was among the victims in Denver bar killings
+*   Lawsuit: Employee rift led to KC store selling laxative-tainted Coke
 *   MU learns 2013 football schedule, extends Braggin Rights hoops series
+*   Memphis power forward picks Mizzou
+*   Shawnee Mission West graduate was among the victims in Denver bar killings
+*   Klein-Smith is terrific subplot to Kansas State-West Virginia
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
