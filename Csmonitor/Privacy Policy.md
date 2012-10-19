@@ -101,9 +101,9 @@ Most viewed
 
 1.  Gay marriage to Supreme Court? More likely after latest rejection of DOMA.
 2.  2014 Corvette so different, GM will shut down plant to retool
-3.  Presidential debate 101: Does Romney’s tax math add up?
-4.  Syria: Airstrikes leave dozens dead
-5.  Boy Scouts child abuse files: Can the organization withstand their release? (+video)
+3.  China's naval exercises in East China Sea send warning to regional rivals
+4.  Presidential debate 101: Does Romney’s tax math add up?
+5.  Syria: Airstrikes leave dozens dead
 
 About these ads
 
@@ -111,14 +111,15 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Boy Scouts child abuse files: Can the organization withstand their release? (+video)
+*   Difference Maker  
+    Steven Amstrup says it's not too late to save polar bears – and ourselves
     
-    In recent years, the Boy Scouts of America has implemented many new guidelines to protect against new abuse. Even though morale inside the BSA remains high, some experts say the group is fighting a losing battle.
+    'We know the answer to what it takes to save' polar bears, says environmental prize winner Steven Amstrup, who has gone to the Arctic to study the bears for 30 years.
     
+*   Terrorism &. Security: China's naval exercises in East China Sea send warning to regional rivals
+*   How will FARC peace talks play out in rural Colombia?
 *   For Mars rover Curiosity, at last, it's dinnertime. On the menu: dirt.
-*   No surprise to students: College debt is up 5 percent for Class of 2011
-*   Decoder Wire: Bruce Springsteen's letter: supporting Obama, despite 'rough ride' (+video)
-*   Global News Blog: Putin joins pajama workforce, decides to work from home
+*   Pakistanis debate real enemy: girl-shooting Taliban or drone-firing US
 
 _Photos of the day_ 10.18.12 » Photos of the Day 10/18
 
@@ -132,28 +133,22 @@ Give Good
 
 What happens when ordinary people decide to pay it forward? Extraordinary change...
 
-Rohini Nilekani, a philanthropist who founded Pratham Books, which produces low-cost children’s books, sits in her home in Bangalore, India.
+Polar bears are threatened by climate change.
 
-Rohini Nilekani pours her wealth into getting books to India's poorest children
+Steven Amstrup says it's not too late to save polar bears – and ourselves
 
-When she found herself suddenly wealthy, the Indian philanthropist founded Pratham Books, a nonprofit publisher that uses innovative ways to put low-cost books in the hands of millions of kids.
+'We know the answer to what it takes to save' polar bears, says environmental prize winner Steven Amstrup, who has gone to the Arctic to study the bears for 30 years.
 
    
 
 Become part of the Monitor community
 
+*   Energy/Environment Clean Water Act at 40: Is it failing to meet new pollution challenges?
+*   Making a Difference Steven Amstrup says it's not too late to save polar bears – and ourselves
+*   Science For Mars rover Curiosity, at last, it's dinnertime. On the menu: dirt.
 *   USA Presidential debate: How would you rate this musical parody? (+video)
 *   Innovation Apple promises 'a little more' on Oct. 23. iPad Mini incoming?
 *   USA With race tight, celebrities make the pitch for Obama
-*   Innovation Herman Melville books: Remembering the author of 'Moby Dick'
-*   World Focus: As sanctions crush rial's value, Iranians point fingers at Ahmadinejad
-*   The Culture Baby Jessica rescue: Was it the birth of helicopter parenting? (+video)
-*   Making a Difference Rohini Nilekani pours her wealth into getting books to India's poorest children
-*   Science Water on the moon? Maybe a lot more than we thought ... thanks to the sun.
-*   The Culture Jessica Ridgeway abduction: Getting a grip on the parenting overreaction
-*   Business Presidents and the economy: Who was best, worst? Take our quiz.
-*   Business Peanut butter recall expands again. Now included: peanuts (+video)
-*   Books Sarah Palin says she will release a book on fitness and proper diet
 
 About these ads
 
