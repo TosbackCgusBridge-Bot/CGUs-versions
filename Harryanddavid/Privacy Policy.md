@@ -203,7 +203,7 @@ This Website is owned by Harry &. David. For questions, comments, or assistance,
 
 ©2012, Harry and David, LLC. All rights reserved.
 
-\[espotFooterBanner\]
+\[espotFooterBanner\] **Need help?**   877 322 1200 | Every Harry &. David gift is backed by the strongest guarantee in the business.
 
 *   Customer Services
     *   Order Tracking
