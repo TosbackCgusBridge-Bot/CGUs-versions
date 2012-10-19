@@ -21,7 +21,7 @@ Trending
 *   |
 *   Meet Tori's Baby Boy
 *   |
-*   Matt's Scary Slimdown
+*   Love Lives
 *   |
 *   Subscribe
 
@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Post-Baby Pretty »
+Hot Pics! On-Set Cravings? »
 
-Top Stories1.  Breaking Megan Fox, Brian Austin Green Welcome Son Noah Shannon! »
-2.  Kim Kardashian Puts Herself on Worst-Dressed List for Bright Yellow Top »
-3.  See Blake Lively in a Wedding Dress! »
-4.  Michelle Obama and Ann Romney: Who Wore Her Pink Dress Best? »
-5.  Kim Kardashian Wears Tight See-Through Skirt, Bra Top on Date With Kanye »
+Top Stories1.  PIC: Demi Moore Thin, Radiant at Rare Post-Rehab Appearance in NYC »
+2.  Kim Kardashian Wears Tight Leather Pants, Fur in 90-Degree Miami Heat »
+3.  See Vanessa Minnillo's Incredible Post-Baby Body »
+4.  Pink Flaunts 55-Pound Weight Loss, Amazing Abs on Shape Cover »
+5.  PIC: See Rupert Sanders, Liberty Ross Reconcile With Hug, Kiss »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Tori's Miracle Baby
 
 Inside Us Weekly
 
-*   Style Ann Romney Wears $1,690 Oscar de la Renta Dre
-*   Beauty Brooklyn Decker vs. Dakota Fanning: Who Looks
-*   Moms Uma Thurman Reveals Daughter's Long Full Name
-*   Body Jennie Garth: I Stay Skinny With "Me" Time  
-*   Entertainment LOL! See Krysten Ritter's Nude Mugshot  
+*   Style Pretty Kate Hudson Models Ann Taylor Looks in
+*   Beauty Elisabeth Moss Is a Brunette Again!
+*   Moms Freddie Prinze, Jr. Steps Out Three Weeks Aft
+*   Body Whoa! Kate Bosworth Shows Off Tiny Waist, Fla  
+*   Entertainment Lauren Conrad's Craziest Fan Encounter: A Fan  
 
 *   US WEEKLY
 *   Celebrity News
