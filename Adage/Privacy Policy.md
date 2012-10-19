@@ -127,30 +127,30 @@ Policy Last Updated: September 2012
 
 News _from our Ad Age Partners_
 
+*   Suit against GM for using Einstein image dismissed by U.S. judge
 *   L.A. auto show names new manager
 *   Akerson revamps marketing
 *   Dealers cautious about 2013 ad dollars
-*   Honda's bundle of cash revives Tier 2 ad plans
 
 *   'Where does data gathering end and data analysis begin?'
 *   CMO Close-Up with D. Jeffry Benoliel, VP-global strategy, Quaker Chemical Corp.
 *   New VP-marketing at Navex Global sticks with proven plan
 *   Weaving together your content and merchandising strategies
 
-*   AOL unveils Alto, an email service that syncs 5 accounts
-*   Average student loan debt nears $27,000
-*   Toys R Us: Free layaway till December
-*   China's GDP growth slides to 7.4%
+*   Year of the electric car blows a fuse
+*   Isis mobile wallet will finally launch next week
+*   Former GE execs get prison terms in bid-rigging case
+*   Ahead of Windows 8, Microsoft posts flat sales
 
+*   Cancer groups to improve disclosures on pink wares
+*   Newsweek ending print edition, job cuts expected
 *   Google helps small firms cross the digital divide
 *   Martha Stewart teams with Toyota
-*   Macy's moves $500M media account to Carat
-*   25th anniversary of Crain's 40 Under 40
 
-*   Presidents have little control over gas prices
-*   Warehouse operator faces new labor complaint
-*   Housing starts hit fastest pace in 4 years
-*   Armstrong loses Nike contract, announces resignation
+*   Google's 'oops' heard around the world
+*   Google error triggers 'Pending Larry' Twitter meme
+*   Google snafu drags Wall Street lower
+*   Newsweek ends print edition, goes all-digital
 
 *   2013 FIAT 500
 *   2013 Scion FR-S
