@@ -483,9 +483,9 @@ Email: webmaster@bodybuilding.com
   
 Related Articles
 
-*   Celebrity Fit Club's Dr. Ian Smith Stops By Bodybuilding.com!
-*   Jay Cutler Signs With Pro Bodybuilding Weekly!
-*   Bodybuilding.com Brings The Biggest Bodybuilding And Fitness Stars To Boise, Idaho!
+*   IFBB Pro Undercover #18.
+*   IFBB Pro Undercover #19.
+*   IFBB Pro Undercover #20.
 
 *   View All Gossip And News Articles
 
