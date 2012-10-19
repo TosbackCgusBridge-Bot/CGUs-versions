@@ -21,7 +21,7 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   Presidential Debates
+*   Obama's Founding Fathers
 *   Arab Crisis
 *   Campaign 2012
 
@@ -250,7 +250,7 @@ Sections
 
 Hot Topics
 
-*   Presidential Debates
+*   Obama's Founding Fathers
 *   Arab Crisis
 *   Campaign 2012
 
