@@ -284,13 +284,13 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   BRAVO'S BIG PICTURE MILK
+*   PROJECT RUNWAY EVEN DESIGNERS GET THE BLUES
     
-    6:30 AM ET
+    10:00 AM ET
     
-*   PROJECT RUNWAY ON GARDE!
+*   PROJECT RUNWAY RAW TALENT
     
-    9:00 AM ET
+    11:00 AM ET
     
 
 view complete schedule The Dish - Bravo's Daily News Gail Simmons Rocks Eric Ripert's World
