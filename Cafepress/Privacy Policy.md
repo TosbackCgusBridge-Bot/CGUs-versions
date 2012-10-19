@@ -61,7 +61,7 @@ Name anything in the world, and we'll show you hundreds of products that celebra
         Home
         
         Shower Curtains Pillows Bedding Throw Blankets  
-        Serving Trays Plates and Platters Coasters Picture Frames Clocks Keepsake Boxes Mousepads Office Accessories Calendars Stationery  
+        Serving Trays Kitchen Accessories Plates and Platters Coasters Picture Frames Clocks Keepsake Boxes Mousepads Office Accessories Calendars Stationery  
         Home Décor Yoga Mats Pet Stuff Pet Tags Ornaments All Home Accents »
     *   Cases
         
@@ -206,7 +206,7 @@ Name anything in the world, and we'll show you hundreds of products that celebra
         
         T-shirts (hot!) Baby Clothes &. Gear Mugs (hot!) Drinking Glasses Water Bottles Flip Flops Bags iPhone Cases (hot!) Photo Books (new!)
         
-        Hoodies &. Sweatshirts (hot!) Photo Gifts Stickers Groups &. Teams (new!) Custom Embroidery (new!) Embroidered Jackets (new!) Your Photo on Canvas Your Photo on Metal 3D Photo Gifts  
+        Hoodies &. Sweatshirts (hot!) Photo Gifts Stickers Groups &. Teams (new!) Custom Embroidery (new!) Embroidered Jackets (new!) Custom Workwear (new!) Your Photo on Canvas Your Photo on Metal 3D Photo Gifts  
         View All Personalized Gifts »
     *   Photo Gifts
         
@@ -391,4 +391,4 @@ OUR BRANDS CafePress  \[+\] Canvas on Demand  \[+\] Great Big Canvas  \[+\
 
 All Content Copyright © 1999-CafePress Inc. Use of this web site constitutes acceptance of the Terms of Service.
 
-{"SumOfAllMeasurementsBelowReportingThreshold":0}
+{"SumOfAllMeasurementsBelowReportingThreshold":3}
