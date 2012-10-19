@@ -134,29 +134,29 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Buy 1 Get 1 Symphony Fall Home Showcase Tickets ($10 for $20 value) $10 Value: Discount: You Save: $20 50% $10
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $12.50 for $25 worth of Shooting (50 Sporting Clays) $12.50 Value: Discount: You Save: $25 50% $12.5
 
-Thursday: Wal Mart, Sunfresh Deals Wal Mart
-
-*   more...
+Friday: Five things to do
 
 1.  Parts Project Coordinator
     
     Central Power Systems &. Services, Inc.
     
-2.  OPERATING MANAGER
+2.  SEASONAL DRIVERS
     
-3.  SALES
+    Kelly Services
+    
+3.  PROGRAM DIRECTOR
     
 4.  CAMPAIGN JOBS
     
     Grassroots Campaigns, Inc.
     
-5.  Apartment Maintenance Helper
+5.  SENIOR PIPE DESIGNER
     
-6.  Certified Dietary Manager
+    THOMAS RUSSELL CO.
     
-    CROWN CARE CENTER
+6.  Apartment Maintenance Helper
     
 
 View More The Most
@@ -164,16 +164,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Chiefs GM Pioli: We all need to do our jobs better, starting with me
-*   Laxative-laced soft drink bubbles into a lawsuit
-*   Child’s death in Holt, Mo., considered homicide
-*   This time, Weber is ready to deal with Selfs shadow
-*   Self shows no sign of slowing down entering 10th season at KU
-*   One dead in shooting on KCs East Side
-*   New asphalt at Kansas Speedway impresses NASCAR drivers
-*   Appeals court reverses ruling on Lees Summit students over website
-*   Man assaults Kansas City police officer
-*   K-State seeks more respect in national title discussion
+*   Romney's case to women fails to convince
+*   Lawsuit: Employee rift led to KC store selling laxative-tainted Coke
+*   Letters | Mitt Romney, Bill Clinton, drugs
+*   Boy Scouts’ secret child abuse files are released
+*   Pendergast photos offer proof of a KC legend
+*   Dust storm shuts down Interstate 35 near Kansas-Oklahoma state line
+*   Terminal A is the likely destination of the new KCI
+*   Kansas girl files lawsuit to force CO2 restrictions
+*   Shawnee Mission West graduate was among the victims in Denver bar killings
+*   MU learns 2013 football schedule, extends Braggin Rights hoops series
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
