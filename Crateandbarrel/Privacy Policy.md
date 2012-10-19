@@ -1,4 +1,4 @@
-**Ship it for just $4.95**Select purchases ship to a single address for one low flat fee. Terms and conditions apply. See details Visit our other sites: CB2   The Land of Nod
+**Ship it for just $4.95**or choose FREE Store Pickup. See details Visit our other sites: CB2   The Land of Nod
 
 *   Shipping to: **United States** Change destination or currency
 
