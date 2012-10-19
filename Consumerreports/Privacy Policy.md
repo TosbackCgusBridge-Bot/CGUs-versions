@@ -283,12 +283,12 @@ Any disputes regarding this Privacy Policy are subject to our User Agreement and
      
 E-mail Newsletters **FREE** e-mail Newsletters!  
 Choose from safety, health, cars, and more! **Already signed-up?**  
-Manage your newsletters here too. Consumer News BILL SHOCK  
+Manage your newsletters here too. Consumer News LAUNDRY DETERGENT REVIEWS  
+Pods are an emerging public-health hazard, CDC says In one month, 48% of detergent-related poison-control calls involved pods. BILL SHOCK  
 Wireless carriers on track to provide overage alerts The alerts can help you avoid exceeding voice, text, or data limits. COFFEEMAKER REVIEWS  
 Does the new Verismo deliver Starbucks flavor at home? The single-serve machine can make coffee, espresso, and lattes. TIRE REVIEWS  
 Find the best studded and studless winter tires Studded models do indeed grip well on ice, but they are noisier on pavement. MONEY &. SHOPPING  
-5 tricks for scaring up Halloween bargains Consumers will spend $8 billion on candy, costumes, and decorations. GPS NAVIGATOR REVIEWS  
-TomTom proves that a bad mount can spoil a good GPS Some of the company's mounts tend to pop off the device and windshield. Read More Connect Discuss products and safety with  
+5 tricks for scaring up Halloween bargains Consumers will spend $8 billion on candy, costumes, and decorations. Read More Connect Discuss products and safety with  
 subscribers and fans Follow us on: Mobile
 
 Get Ratings on the go and compare  
