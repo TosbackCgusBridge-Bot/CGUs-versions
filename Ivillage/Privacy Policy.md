@@ -501,10 +501,10 @@ See All Newsletters  
 
 *   Homeandgarden My Best Idea The Best Gift for a New Mom? A Midnight Baby Basket!
 *   Beauty DIY Beautify DIY Beautify: Get Noticed with Bright Lips and Cheeks
-*   Entertainment iVillage 5 Whoa! Check Out Jen's Mega Engagement Ring
-*   Entertainment Likes or Yikes? Yikes! Dina and Lindsay Lohan's Crazy Week Continues
+*   Entertainment iVillage 5 Will Jay-Z Join Beyonce at the Super Bowl?
+*   Entertainment Likes or Yikes? Best Week Ever! Tina Fey and Amy Poehler to Host Golden Globes
 *   Global iVoices "Fajitas with Elmo" and Other Reasons Moms Hate PTA Duty
-*   Entertainment iVillage Interviews What JWOWW and Condoleezza Rice Have in Common? They Tell Us Why They Vote
+*   Entertainment iVillage Interviews What JWOWW and Katie Couric Have in Common? They Tell Us Why They Vote
 
   
   
