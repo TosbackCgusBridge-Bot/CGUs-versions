@@ -67,13 +67,13 @@ Adotas.com RSS Feeds Follow Adotas.com on Twitter Follow Adotas on Facebook Adot
 
 Latest News
 
+*   Lyris Reports Strong Adoption of Digital Marketing Platform in Latin America _October 19th 2012_ EMERYVILLE, CALIF. (October 16, 2012) – Lyris, Inc. (OTCBB: LYRI), \[...\] more »
 *   Don’t Make the Same Mistake as Facebook: Why Brands Cannot Rely on HTML5 _October 19th 2012_ As smartphone and tablet consumers are increasingly accessing information, games \[...\] more »
 *   Study: Most Brands Use Social for Customer Service, But $pend Relatively Little On It _October 18th 2012_ While 71.2 percent of brands say they use social for their \[...\] more »
 *   Binder? I Hardly Know Her! _October 18th 2012_ In the aftermath of the second Presidential debate, Appinions, the \[...\] more »
 *   Report: Newsweek to Go All-Digital in 2013 _October 18th 2012_ Newsweek, the weekly magazine that for decades summarized the news \[...\] more »
 *   Rocket Fuel Enters Japanese Market via Strategic Alliance with Dentsu Subsidiary _October 18th 2012_ REDWOOD CITY, CA (October 18, 2012) – Rocket Fuel, the \[...\] more »
 *   Kontera Delivers New Content Insights and Curation Suite as Part of Its Content Activation Platform _October 18th 2012_ NEW YORK (October 17, 2012) — Brands can now understand \[...\] more »
-*   Webcollage Launches Content Publishing for SMB Market _October 17th 2012_ NEW YORK (October 17, 2012) –  Webcollage \[...\] more »
 
 News Archive
 
@@ -101,10 +101,10 @@ Reader Favorites Classifieds
 
 Recent Comments
 
-*   **Rose:** Thanks, he's got a great look!
-*   **Mike Daly:** He's an actor in the sample video we linked to in the article.
-*   **Rose:** Who's the guy in the pic for the Galahad article???
-*   **Jonathan Ellis:** What works the best maybe when the mobile is not used by advertisers / agencies
+*   **Vital Online Marketing Hints that Work « Detour. Creative Content.:** \[...\] about Online Marketing: Online Marketing Blog Online Marketing Online Marketing Posted in
+*   **plus.Google.Com:** We stumbled over here by a different website and thought I might as well check
+*   **Kontera Delivers New Content Insights and Curation Suite as Part of Its ... - ADOTAS | online PR | Scoop.it:** \[...\] Kontera Delivers New Content Insights and Curation Suite as Part of Its ...ADOTASNEW YORK
+*   **Immigration Adviser Rochester:** I am sure this article has touched all the internet visitors, its really really good
 
 Click Footer
 
