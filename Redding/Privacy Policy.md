@@ -267,19 +267,19 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Police: Redding gas station clerk uses shovel to fend off early morning robbery attempt Updated 10/18/2012 at 8:41 a.m. 43 comments
+*   UPDATED: Police: Redding gas station clerk uses shovel to fend off early morning robbery attempt Updated 10/18/2012 at 8:41 a.m. 45 comments
 *   UPDATED: Montague woman, 30, killed by husband, deputies say Updated 10/18/2012 at 4:39 p.m. 12 comments
-*   Federal appeals court in New York nixes Defense of Marriage Act Published 10/18/2012 at 9:08 a.m. 66 comments
-*   Does character matter in a presidential candidate? Take our survey Published 10/18/2012 at 8:17 a.m. 66 comments
-*   Bethel teaches languages from Arabic to Chinese to Portuguese Published 10/17/2012 at 10:48 p.m. 46 comments
+*   Federal appeals court in New York nixes Defense of Marriage Act Published 10/18/2012 at 9:08 a.m. 69 comments
+*   Does character matter in a presidential candidate? Take our survey Published 10/18/2012 at 8:17 a.m. 67 comments
+*   Bethel teaches languages from Arabic to Chinese to Portuguese Published 10/17/2012 at 10:48 p.m. 51 comments
 
-Photo Galleries Clarizio's Deli Red Bluff men get marijuana back Google data center
+Photo Galleries Clarizio's Deli Red Bluff men get marijuana back Think Pink
 
-*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 364 comments
+*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 365 comments
 *   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Published 10/15/2012 at 11:42 p.m. 121 comments
 *   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 114 comments
 *   Robert Huerta: American cannot leave God behind Published 10/17/2012 at 12:00 a.m. 103 comments
-*   Does character matter in a presidential candidate? Take our survey Published 10/18/2012 at 8:17 a.m. 66 comments
+*   Federal appeals court in New York nixes Defense of Marriage Act Published 10/18/2012 at 9:08 a.m. 69 comments
 
 *   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
 *   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 54 comments
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 53° Fair Wind: Calm Today 79° 53° Fri 05:00 PM Partly Sunny Temp: 78° Sat 05:00 AM Mostly Clear Temp: 57° Sat 05:00 PM Partly Sunny Temp: 75°
+Currently 51° Fair Wind: Calm Today 79° 55° Fri 08:00 PM Partly Cloudy Temp: 67° Sat 08:00 AM Mostly Sunny Temp: 55° Sat 08:00 PM Partly Cloudy Temp: 63°
 
-Feels Like: 78°
+Feels Like: 67°
 
-Humidity: 26%
-
-Precip: 0%
-
-Feels Like: 57°
-
-Humidity: 69%
+Humidity: 44%
 
 Precip: 10%
 
-Feels Like: 75°
+Feels Like: 55°
 
-Humidity: 25%
+Humidity: 77%
 
 Precip: 9%
+
+Feels Like: 63°
+
+Humidity: 38%
+
+Precip: 4%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
