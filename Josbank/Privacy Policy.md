@@ -478,4 +478,17 @@ Error messages:
     Current Promotions
     
 
+**Clearance Center** Current Promotions Deal of the Day Gift Cards Customer Service Center International Shipping Privacy Policy Site Map Contact Us Company Information Store Locator Order Status Join Email List
+
+1-800-285-2265   ©Jos. A. Bank Clothiers, Inc.
+
+  
+  
+
+**_California Transparency In Supply Chains Disclosure_**
+
+**Clearance Center**  |  Gift Card Balance  |  Customer Service Center  |  Privacy Policy  |  Site Map  |  Company Information
+
+1-800-285-2265   ©Jos. A. Bank Clothiers, Inc.
+
 if(!dc\_user){ if(document.location.href.indexOf("Home\_")!=-1){ location.protocol=='http:'?'':''. } } if(!dc\_user) { if (intCookie == 'FALSE') { } else if ((document.location.href.indexOf("CheckoutShippingView")!= -1)|| (document.location.href.indexOf("CheckoutPaymentView")!= -1)||(document.location.href.indexOf("OrderOKView")!=-1)) { } }
