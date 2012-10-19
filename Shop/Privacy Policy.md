@@ -301,8 +301,8 @@ Women's
 *   Dresses &. Skirts
 *   Branded &. Basic Denim
 *   Bullhead Black Denim
-*   Body Con Skirts
 *   Shorts
+*   Camis
 
 Don't miss Brands
 
