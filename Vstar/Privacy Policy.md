@@ -618,10 +618,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos On Campus: Bulldogs Bite Back Buena back on top
+Videos Ventura fourth-graders pumped up with fire safety Fire safety education
 
-*   On Campus: Bulldogs Bite Back Oxnard Police Chief addresses La ... Connecting pets and people Ojai artists open up their ...
-*   Adoptable: Marley On Campus: Nordhoff's Close Crew
+*   Ventura fourth-graders pumped up with ... Scores of dogs seized from ... On Campus: Bulldogs Bite Back Oxnard Police Chief addresses La ...
+*   Connecting pets and people Ojai artists open up their ...
 
   
 
@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 224 comments
-*   Villanova cancels remainder of football season Published 10/17/2012 at 2:37 p.m. 6 comments
-*   If Proposition 30 fails, Oxnard College athletics could be on chopping block Updated 10/17/2012 at 8:13 p.m. 33 comments
-*   Top-flight building spices up downtown Ventura Published 10/16/2012 at 8:19 p.m. 5 comments
-*   Oxnard police chief calls shootout that killed bystander a tragedy Updated 10/16/2012 at 7:12 p.m.
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 292 comments
+*   If Proposition 30 fails, Oxnard College athletics could be on chopping block Updated 10/17/2012 at 8:13 p.m. 75 comments
+*   Scores of dogs seized from Simi Valley home now up for adoption Updated 10/17/2012 at 7:16 p.m. 13 comments
+*   County agrees to $3.2 million settlement in case involving speeding deputy Published 10/18/2012 at 6:42 p.m. 13 comments
+*   Villanova cancels remainder of football season Published 10/17/2012 at 2:37 p.m. 13 comments
 
-Photo Galleries Chaotic shooting rattles La Colonia… Top-flight building spices up… Ventura County's Most Wanted October…
+Photo Galleries Chaotic shooting rattles La Colonia… Scores of dogs seized from Simi… High school bands battle it out
 
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 224 comments
-*   Morning chat Published 10/17/2012 at 12:00 a.m. 112 comments
-*   Murdock: Inconvenient truths about Benghazi Published 10/15/2012 at 2:59 p.m. 58 comments
-*   CLU professor heads study of undocumented college students Published 10/14/2012 at 5:49 p.m. 66 comments
-*   Morning chat Published 10/15/2012 at 12:00 a.m. 62 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 292 comments
+*   Morning chat Published 10/17/2012 at 12:00 a.m. 111 comments
+*   Morning chat Published 10/18/2012 at 12:00 a.m. 79 comments
+*   If Proposition 30 fails, Oxnard College athletics could be on chopping block Published 10/17/2012 at 5:19 p.m. 75 comments
+*   Morning chat Published 10/16/2012 at 12:00 a.m. 55 comments
 
 *   Norovirus outbreak hits Oak Park school Published 10/15/2012 at 5:56 p.m. 8 comments
 *   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 40 comments
 *   2 dead after Oxnard police trade gunfire with men Published 10/14/2012 at 2:57 p.m. 0 comments
-*   Fire near Santa Barbara is 45 percent contained. evacuation orders lifted Published 10/17/2012 at 10:01 a.m. 0 comments
-*   Seaward Avenue crash kills motorcyclist in Ventura Published 10/9/2012 at 5:25 p.m. 0 comments
+*   Firefighters battle Lookout Fire near Santa Barbara that threatened about 100 homes Published 10/17/2012 at 10:01 a.m. 0 comments
+*   Chumash looking to acquire portion of Santa Susana Field Lab Published 10/15/2012 at 6:17 p.m. 19 comments
 
 Weather
 
@@ -660,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 71° Fair Wind: E 5mph Today 75° 63° Thu 05:00 PM Fog Temp: 72° Fri 05:00 AM Fog Temp: 61° Fri 05:00 PM Mostly Cloudy Temp: 70°
-
-Feels Like: 72°
-
-Humidity: 76%
-
-Precip: 0%
-
-Feels Like: 61°
-
-Humidity: 96%
-
-Precip: 3%
+Currently 61° Fair Wind: N 4mph Today 74° 60° Fri 05:00 PM Fog Temp: 70° Sat 05:00 AM Dreary Temp: 58° Sat 05:00 PM Fog Temp: 65°
 
 Feels Like: 70°
 
-Humidity: 78%
+Humidity: 81%
 
 Precip: 3%
+
+Feels Like: 58°
+
+Humidity: 100%
+
+Precip: 11%
+
+Feels Like: 65°
+
+Humidity: 94%
+
+Precip: 11%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -702,10 +702,10 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   Lots of evidence that crunch time is upon us
 *   Tension escalates in 27th Senate District
 *   Against 'wasteful,' but for 'anonymous'
 *   So this is what democracy is supposed to look like
-*   Lee Rogers' guerilla campaign in CD 25
 
 Brian Dennert here
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Thursday Oct 18
 *   Friday Oct 19
 *   Saturday Oct 20
+*   Sunday Oct 21
 *   More BROWSE Icon
-
-*   Coffee with Chuck East Coast Bagel, Westlake Village 7:30 a.m.
-*   The Beauty Myth: Understanding Unhealthy Eating Patterns Hyatt Westlake Plaza 9 a.m.
-*   Strictly Sail Long Beach Shoreline Village - 401 Shoreline Village Dr. Long Beach, CA 90802 noon
-*   The Nature of the Soul Weekly Study Group Meditation Mount 7 p.m.
-*   Thousand Oaks Reads Panel Discussion at CLU CLU California Lutheran University 7:30 p.m.
-
-More Events »
 
 *   Consultant Support Group Economic Development Collaborative - Ventura County 8:30 a.m.
 *   Rise &. Shine Gathering Hummingbird Nest Ranch 10 a.m.
@@ -753,6 +745,14 @@ More Events »
 
 More Events »
 
+*   21st Annual Rotary Club of Thousand Oaks Street Fair Moorpark Road, just north of Highway 101 between Hillcrest and Wilbur Roads. 9 a.m.
+*   Gold Coast Health Plan Community Resource Fair Del Sol Park, 1500 Camino Del Sol, Oxnard, CA 93030 10 a.m.
+*   Gold Coast Health Plan Community Resource Fair Del Sol Park 1500 Camino Del Sol, Oxnard, CA 93030 10 a.m.
+*   Strictly Sail Long Beach Shoreline Village - 401 Shoreline Village Dr. Long Beach, CA 90802 10 a.m.
+*   Triunfo YMCA Winter Flag Football League Signup Day: October 21 Chumash Park 10 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
@@ -761,15 +761,19 @@ More Events » Features
     
     Get prepared for November with candidate profiles and answers to your questions.
     
+    Presidential Donations
+    
+    See who's supporting who and with how much.
+    
     On Campus
     
     Video profiles of high school football programs.
     
-    Local haunts
+*   Local haunts
     
     Check out and add to our map of local Halloween haunts and events!
     
-*   95 percent accurate
+    95 percent accurate
     
     Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
@@ -777,21 +781,17 @@ More Events » Features
     
     Follow Loren Ledin's picks and choose your own leaderboard.
     
-    Storm Shield
+*   Storm Shield
     
     A sophisticated weather radio on your iPhone and Android.
     
-*   Pigskin Picks
+    Pigskin Picks
     
     Play our pro football picks contest for a shot at $500 and other prizes.
     
     #Ojai: How You See It
     
     Your photos, your tweets, your Facebook posts about Ojai.
-    
-    Morning Chat
-    
-    Come on in and chat freely without all those pesky stories getting in the way.
     
 
 On this site:
