@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Thursday, October 18, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Friday, October 19, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Thursday, October 18, 2012 Go Follow the Atlan
 *   Magazine
 *   video
 
-Presented by The Amazing True Story of the Libya Attacks Garance Franke-Ruta Axelrod to Blame for Dem Climate-Change Silence? Climate Desk Obama's Ads Work. Romney's, Not So Much Molly Ball Making a Better Future for Our Children Mohamed A. El-Erian Why We Don't Run America Like a Business Jordan Weissmann Where the World's Millionaires Live Derek Thompson The Return of Bland Brandy: A Sad Story Noah Berlatsky Bieber's Fake-Mustache Industrial Complex Mark Dee Affleck &. Damon: From Hollywood to the Hill? Noah Gittell What the Chinese Worry About Most Lily Kuo &. Ritchie King What Diplomats Still Don't Get About Social Media Brian Fung Protesting Putin Can Land You in a Psych Ward Maryana Torocheshnikova and Claire Bigg Breathtaking Video of the Earth From Space Kasia Cieplak-Mayr von Baldegg A 100,000-Mile Tall Solar Explosion Rebecca J. Rosen Mansplaining, the Tumblr Megan Garber Salim Hamdan Wins Again! Andrew Cohen A Coming Change in Teaching Technology Deborah Reck and Deb Sabin Should We Pay Kids to Read? James Warren Just Vaccinate Our Kids Against HPV Lindsay Abrams PMS and the Wandering Womb James Hamblin Keeping the 'Mentally Incompetent' From Voting Kimberly Leonard Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by The Psychology of Big Wave Surfing Kasia Cieplak-Mayr von Baldegg The Genesis of 'Looper': Pitch Reel Kasia Cieplak-Mayr von Baldegg Joseph Kittinger's 19.5-Mile Jump From Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
+Binders Full of Women: What It Really Means Garance Franke-Ruta Obama's Triumphant Debate Robert Wright What Did Obama Say About Roberts in 2008? Conor Friedersdorf Housing Is Recovering -- What Happens Next? Glenn Kelman A Bizarre Newspaper-Business Story Derek Thompson Why Are Women Paid Less Than Men? Jordan Weissmann 'Dal Tokyo': Dallas Met Tokyo Met Mars Steven Heller How 'The Sessions' Tells the Truth About Sex Alan Zilberman Bieber's Fake-Mustache Industrial Complex Mark Dee A Rare Look Inside Foxconn James Fallows The Saddest Dinosaur Cartoon in Soviet History Andy Heil Tweet Me to Your Leader Matthias Lüfkens Endeavour in Los Angeles, in Timelapse Rebecca J. Rosen Sergei Udaltsov Live Tweets His Detention Megan Garber Twitter Blocks Neo-Nazi Account in Germany Rebecca J. Rosen California's Strange and Costly Food Fight Ari LeVaux Salim Hamdan Wins Again! Andrew Cohen A Coming Change in Teaching Technology Deborah Reck and Deb Sabin Oh to Be 'Less Dissatisfied' in Marriage James Hamblin The Yelpification of Health Care Lindsay Abrams Rise of the Stay-at-Home Phone Sex Operator Melanie Berliet Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Tiny Drones Play Catch Kasia Cieplak-Mayr von Baldegg The Science Behind Joy Division's Iconic Album Cover Abdullah Saeed 1950s Video: Dealing With Women in the Workplace Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -114,26 +114,26 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 Washington, DC 20037
 
 Special Report The Atlantic The Energy Puzzle  
-_The Atlantic_'s Alexis Madrigal talks with the entrepreneurs shaping our future. Read more › Just In Brendan Hasenstab 8:01 AM ET Track of the Day: 'On and On' 1350561698 Voices
+_The Atlantic_'s Alexis Madrigal talks with the entrepreneurs shaping our future. Read more › Just In Brendan Hasenstab 8:01 AM ET Track of the Day: 'Promises' 1350648072 Voices
 
-*   Ta-Nehisi Coates It's Funny Because We're White 7:42 AM ET
-*   James Fallows Inside Foxconn 6:11 AM ET
+*   Clive Crook How the Democratic Base Could Lose This Election… 1:59 AM ET
+*   Derek Thompson Google and Facebook Have the Same Big Problem:… Oct 18, 2012
+*   Garance Franke-Ruta Hillary Clinton Wants None of Your 'Whining'… Oct 18, 2012
+*   Ta-Nehisi Coates The Lost Battalion Oct 18, 2012
+*   Alexis C. Madrigal Why Google's Stock Just Plummeted Oct 18, 2012
+*   James Fallows Inside Foxconn Oct 18, 2012
 *   Robert Wright New Evidence That Racism Isn't 'Natural' Oct 17, 2012
-*   Derek Thompson This Is the Strangest Newspaper-Business Story I… Oct 17, 2012
-*   Alexis C. Madrigal Google Has a Stormtrooper Guarding Its Data Center Oct 17, 2012
-*   Garance Franke-Ruta Binders Full of Women: A Meme That Means Something Oct 17, 2012
 *   Jeffrey Goldberg The Benghazi Embarrassment Oct 17, 2012
-*   Clive Crook Obama Returns to Form Oct 17, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 
 Correspondents
 
+*   Andrew Cohen The Case Against the Protest Vote (Remember Ralph Nader)
 *   Garrett Epps George Washington Didn't Have 'Too Much Influence'—the Koch Brothers Do
 *   Zvika Krieger In Praise of the Blackberry
-*   John Tierney Is Your Sign Talking to Me?
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Robots at Work and Play Oct 17, 2012 Video A Smarter Way to Move Information: APIs Explained With Shipping Containers Tiny Drones Play Catch Visualizing the Language of the Debates Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Robots at Work and Play Oct 17, 2012 Video Trouble With Women in the Workplace? This 1950s Film Is Here to Help The Cuban Missile Crisis (1962) Indie Video Games Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -162,55 +162,55 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Newsweek Is Shutting Down Its Print Edition  
+*   Orlando Sentinel Back Romney, After Endorsing Obama in 2008  
     
-*   Apple Loses Another Round In Its Patent Battle with Samsung  
+*   Romney and Obama Tried Out Their Zingers On Each Other Last Night  
     
-*   Young Blood Reverses the Signs of Aging  
-    
-
-Last Update: 7:13 AM
-
-*   London Tube Commuters Hunted by Spotlight  
-    
-*   Why People Still Post Yard Signs  
-    
-*   This Is What Google Really Looks Like  
+*   Kim Jong-Il's Grandson Seems Normal and Well-Adjusted  
     
 
-Last Update: 9:27 PM Most Popular
+Last Update: 7:07 AM
+
+*   Redskins Now Known as the Pigskins, to Some  
+    
+*   Uncover the Secret Oases of San Francisco  
+    
+*   Brooklyn's Barclays Center Sponsors 2012 Urinebowl  
+    
+
+Last Update: 9:25 PM Most Popular
 
 1
 
-What the 'Walmart Moms' Thought of the Debate
+A Guy Who \*Saw\* Lincoln Get Shot Was on a TV Show in 1956 That Is Now on YouTube
 
 2
 
-How the Moon Was Born
+The Burden of a Black President
 
 3
 
-It's Funny Because We're White
+Who's Really to Blame for the Death of Newsweek?
 
 4
 
-Dark Social: We Have the Whole History of the Web Wrong
+Why Women Still Can’t Have It All
 
 5
 
-The Amazing Story of What Happened in Libya
+How the Democratic Base Could Lose This Election for Obama
 
 6
 
-In Praise of the BlackBerry
+Inside Russia's Prison System
 
 7
 
-Inside Foxconn
+How 'The Sessions' Tells the Sweet, Awkward Truth About Sex
 
 8
 
-A Trip to the Faroe Islands
+Dark Social: We Have the Whole History of the Web Wrong
 
 9
 
@@ -218,7 +218,7 @@ Robots at Work and Play
 
 10
 
-You'll Never Guess What Barack Obama Said About John Roberts
+The Amazing Story of What Happened in Libya
 
 *   Subscribe Help
 *   Faq
