@@ -235,4 +235,53 @@ Revised and effective: July 1, 2012
 
 View full agreement (PDF)
 
-©2012 Comcast | Investor Relations | Press Room | Corporate Blog | Privacy Statement | Visitor Agreement | Website Feedback | Site Map
+*   Comcast
+*   Follow us for exclusive deals
+*   Find tutorials and demos
+*   Reach out on Facebook
+
+*   Shop 
+    *   Bundles &. Promotions
+    *   TV
+    *   Internet
+    *   Voice
+    *   Home
+    *   Signature Support
+*    
+    *   Why XFINITY?
+    *   Customer Guarantee
+    *   Compare the Competition
+*   My Account 
+    *   Pay Bill
+    *   Manage My Account
+    *   Manage Users &. Alerts
+    *   Move Your Services
+    *   Constant Guard
+    *   Customer Agreement Policy
+*   My Services 
+    *   Watch TV Online
+    *   Check TV Listings
+    *   Manage My DVR
+    *   Check Email
+    *   Check Voicemail
+*   Support 
+    *   Support Home
+    *   Bill &. Payments
+    *   TV
+    *   Internet
+    *   Voice
+    *   Home
+*    
+    *   Find a Service Center
+    *   Contact Us
+    *   Support Forums
+    *   Signature Support
+*   Info 
+    *   Sitemap
+    *   About Comcast
+    *   Corporate Blog
+    *   Press Room
+    *   Privacy Statement
+    *   Visitor Agreement
+
+© Comcast 2012 Website Feedback
