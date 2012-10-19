@@ -530,7 +530,6 @@ Enjoy special discounts and offers.
 
 *   Size Expertise
 *   Size Chart
-*   Fashion Glossary
 *   Denim Guide
 
 *   Customer Service
