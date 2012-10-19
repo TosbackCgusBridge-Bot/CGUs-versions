@@ -126,9 +126,9 @@ Tell a friend:
 
 *   T.G.I. Friday's Customer Attempts To Pick Up Waiter With Quite A Subtle, Classy Line
 *   Only Bad Things Can Happen When You Abandon Thousands Of Bottles Of Counterfeit Ketchup In A Warehouse
-*   Yelp Conducts Sting To Catch Businesses Who Buy Reviews
-*   Raiders Of The Lost Walmart Can Get You VHS Tapes And The Greatest Hits Of 2007
 *   Pranking Coworker With Laxative-Laced Soda Not So Hilarious When Customer Buys The Drink
+*   Raiders Of The Lost Walmart Can Get You VHS Tapes And The Greatest Hits Of 2007
+*   Yelp Conducts Sting To Catch Businesses Who Buy Reviews
 
 About Consumerist
 
