@@ -154,6 +154,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         6.  Compilation
         7.  SpÃ©cial Artistes
         8.  Gagnez un Iphone 5
+        9.  Les derniÃ¨res actus musicales
         
         1.  LIBRAIRIE / COFFRETS CADEAUX
         2.  Les Coffrets Cadeaux
@@ -216,7 +217,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         9.  SSD
         10.  MÃ©moires PC et portables
         11.  Voir les Deals Groupon
-        12.  surfez sur grand Ã©cran !
+        12.  Surfez sur grand Ã©cran !
     *   *   GAMING ZONE
         *   Revendez votre PC Portable!
         *   Venez dÃ©couvrir Windows 8 !
@@ -511,7 +512,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         7.  Lampadaires
         8.  Poubelles - Buanderie - Salle de Bain
         9.  Stickers dÃ©co -30%
-        10.  Mobilier Ã  -80%
+        10.  CanapÃ© Design -80% !
         
         1.  CUISSON - ART DE LA TABLE
         2.  Cuisson - Ustensiles de cuisine
@@ -777,6 +778,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         8.  Natation
         9.  Golf
         10.  500â¬ Ã  gagner !
+        11.  Lâactu sportive Ã  prix mini !
         
         1.  SPORTSWEAR
         2.  Sportswear
