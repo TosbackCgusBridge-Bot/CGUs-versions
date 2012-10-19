@@ -116,6 +116,6 @@ Links
 *   Terms of Use
 *   \[+\] Rate This Page
 
-Get Businessweek Delivered Are You Better Off? Subscribe
+Get Businessweek Delivered The Battle for Best Buy Subscribe
 
 ©2012 Bloomberg L.P. All Rights Reserved. Made in NYC Ad Choices
