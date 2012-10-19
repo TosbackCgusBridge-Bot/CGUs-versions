@@ -2,7 +2,7 @@ Bravo
 
 *   Shows &. Schedules
     
-    *   Life After Top Chef Fabio's Mom is Worried Wednesdays 10/9c
+    *   The Real Housewives of Miami Emails Joanna Didn't Want to See Thursdays 9/8c
     
     Current
     
@@ -24,12 +24,12 @@ Bravo
     *   Watch What Happens Live
     
     What's On Tonight
-    *   New 9:00 PM The Real Housewives of MiamiEp 6: Sexting Candles
-    *   10:00 PM The Real Housewives of MiamiEp 6: Sexting Candles
-    *   New 11:00 PM Watch What Happens LiveBrandy &. Lisa HochsteinSee All Shows » See Full Schedule »
+    *   9:00 PM BRAVO'S BIG PICTUREBREAK-UP, THE
+    *   11:00 PM BRAVO'S BIG PICTUREBREAK-UP, THE
+    *   1:00 AM BRAVO'S BIG PICTUREMAD MONEYSee All Shows » See Full Schedule »
 *   People &. Blogs
     
-    *   Read The Dish's Latest Post Get Inside Bravo Scoop With Zeebox
+    *   Read Alexia Echevarria's Latest Post Lisa and Karent's Cattiness
     
     Current Bravolebrities
     
@@ -63,18 +63,18 @@ Bravo
     *   Teresa Giudice
     
     Recent Blog Posts
-    *   The Dish Get Inside Bravo Scoop With Zeebox
-    *   Fabio Viviani Fabio: Mama's Boy
-    *   The Dish First Look Inside 'Top Chef Kitchen'All People » More Blog Posts »
+    *   Alexia Echevarria Lisa and Karent's Cattiness
+    *   Adriana De Moura Honey Boo Boo Housewife
+    *   Joanna Krupa RHOM Meets Mean GirlsAll People » More Blog Posts »
 *   Videos &. Full Episodes
     
-    *   Watch What Happens Live After Show: The Write Stuff
+    *   Watch What Happens Live After Show: Brandy Pleads the Fifth!
     
     Recent Clips
     
-    *   Watch What Happens Live After Show: The Write Stuff
-    *   Watch What Happens Live After Show: Gina Gershon's Mini Doll
-    *   Watch What Happens Live The Sweet Smell of Tom Cruise
+    *   Watch What Happens Live After Show: Brandy Pleads the Fifth!
+    *   Watch What Happens Live After Show: Scared of Lea Black?
+    *   Watch What Happens Live Match That Ass!
     
     New Full Episodes
     *   The Real Housewives of New Jersey Episode 21: Reunion Part 1
@@ -284,33 +284,33 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   BRAVO'S BIG PICTURE BUBBLE BOY
+*   BRAVO'S BIG PICTURE MILK
     
-    6:00 AM ET
+    6:30 AM ET
     
-*   BETHENNY EVER AFTER IT'S MY BAPTISM AND I'LL CRY IF I WANT TO
+*   PROJECT RUNWAY ON GARDE!
     
-    8:00 AM ET
+    9:00 AM ET
     
 
-view complete schedule The Dish - Bravo's Daily News Get Inside Bravo Scoop With Zeebox
+view complete schedule The Dish - Bravo's Daily News Gail Simmons Rocks Eric Ripert's World
 
-Download the app to get fun behind-the-scenes facts on your favorite shows.
+The Top Chef judge stuns the legendary chef with some good old hangover food.
 
-Read More First Look Inside 'Top Chef Kitchen'
+Read More How Rosie Pope’s Balancing a Book Tour and Babies
 
-See pics of the show-inspired restaurant's first week.
+Think tiny travel buddies and Diet Cokes.
 
 Read More More Dish Get insider Bravo news in our weekly update!
 
 Must be 13 or older
 
-Sponsored Headlines What's Hot RHONJ Even More Reunion Outtakes! RHOM Lea Black Before She was a Housewife Start Ups: Silicon Valley Season 1 Sneak Peek RHONY Ramona's Premature Goodbye Flipping Out Before and After: Spring Oak Life After Top Chef Tour Spike's Crib More Shows
+Sponsored Headlines What's Hot RHONJ Even More Reunion Outtakes! RHOM Elsa Through the Years Top Chef Preview the New Season RHONY Ramona's Premature Goodbye Flipping Out Before and After: Spring Oak Life After Top Chef Tour Spike's Crib More Shows
 
 *   The Real Housewives of Atlanta
-*   Life After Top Chef
+*   Top Chef
 *   The Real Housewives of Beverly Hills
-*   Flipping Out
+*   LOLwork
 
 More Features
 
@@ -357,6 +357,7 @@ Get Involved
 *   Privacy Policy
 *   Terms and Conditions
 *   Independent Programming Report
+*   Closed Captioning
 *   Site Map
 *   XML Map
 
