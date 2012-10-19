@@ -145,7 +145,7 @@ B/R on Twitter
 
 about 9 hours ago
 
-@BleacherReport: 3 hour and 28 minute rain delay? No problem for St. Louis. The Cardinals defeat the Giants 3-1 in Game 3 to take a 2-1 series lead #NLCS
+@BleacherReport: Jim Harbaugh is possessed. http://t.co/ctlt1RsF
 
 Newsletters
 
@@ -197,7 +197,7 @@ Popular Topics
 *   NFL Power Rankings
 *   NFL Picks Week 7
 *   NCAA Football Rankings
-*   Fantasy Football Waiver Wire
+*   Fantasy Football Projections
 *   Heisman Trophy 2012
 *   MLB Playoff Schedule 2012
 *   BCS Standings
