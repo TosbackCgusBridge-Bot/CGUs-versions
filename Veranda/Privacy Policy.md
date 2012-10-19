@@ -3,11 +3,11 @@ TRY: Gardening | Jewelry | Designer Inspiration | Chefs Privacy Policy Email Pri
 
 Most Viewed
 
-1.  French Design Inspiration: Axel Vervoordt's Chateau de Tertre
-2.  Glittering Heights: Victoria Hagan's NYC Apartment
-3.  Designers' Top Decorating Advice
-4.  On the Hunt with Elizabeth Nichols: Reminiscing at Paris CDG
-5.  Rustic Design Ideas: Richard Keith Langham's Country House
+1.  2012 Designer Visions: One Glamorous New York Apartment
+2.  Video: The Making of Designer Visions 2012
+3.  French Design Inspiration: Axel Vervoordt's Chateau de Tertre
+4.  Glittering Heights: Victoria Hagan's NYC Apartment
+5.  Designers' Top Decorating Advice
 
 Most Searched
 
@@ -29,7 +29,7 @@ Sign up for RSS feeds and start receiving the day's headlines from the topics yo
 Dering Hall
 
 » See all Events  
-Rocky Mountain Hardware
+Sub-Zero
 
 » See all Events  
 
