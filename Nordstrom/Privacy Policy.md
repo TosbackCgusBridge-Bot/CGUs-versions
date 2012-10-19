@@ -211,9 +211,11 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Virtual Gift Cards
     
     *   Clothing
+    *   Coats
     *   Dresses
     *   Tops &. Tees
     *   Jeans
+    *   Leggings
     *   Pants &. Shorts
     *   Sweaters
     *   Skirts
