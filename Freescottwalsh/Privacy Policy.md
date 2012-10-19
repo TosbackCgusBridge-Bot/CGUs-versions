@@ -1,3 +1,8 @@
+  
+:::::::::::::::::::::Get the APP. Special price and bonuses if before HOLLOWEEN 2012.  
+  
+Thank you for being here. It is appreciated. Truly.  
+  
 YOU MUST BE LOGGED IN TO ACCESS _**THE REALLY GOOD STUFF**_ ON THIS WEBSITE!!! We treat members right!  
 Subscribe To Our New Hollywood All-Stars Mailing List  
 Web This Site Click Here For _**Stagehand.Postano.Com**_  
