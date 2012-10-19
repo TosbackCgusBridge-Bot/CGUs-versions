@@ -1,6 +1,6 @@
 (skip this header)
 
-Friday Oct 19, 2012 5:05 AM PT
+Friday Oct 19, 2012 7:50 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   'Emmanuelle' star dies
-*   O.J. selling ‘murder knife’?
-*   Best Halloween 'hoods in S.F.
+*   San Mateo Bridge closure
+*   Is that a bird in your pocket?
+*   'The House I Live In'
 *   United fare sale
-*   7 mistakes of older job seekers
+*   Homeric epic hits home
 *   Giants playoff gear!
 
 *   Bay Area &. State
@@ -339,6 +339,7 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Favorite stops in Los Angeles
 *   Greeks protest nationwide against cuts
 *   Nation in Focus
 *   World in Focus
@@ -378,7 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   ELLE's 19th Annual Women in Hollywood Celebration
 *   Day in Pictures, Oct. 16, 2012
 *   Giants vs. Cardinals Game 2 NLCS
-*   Foreclosure bus tour
 
 *   Most Read
 *   |
@@ -387,37 +387,37 @@ Ads by Yahoo! Photo Galleries
 *   Most Emailed
 
 1.  Frank Gore unleashed in 49ers' win
-2.  Decades of abuse of Boy Scouts detailed
-3.  Cardinals push Giants back to the brink
-4.  A streak, a boom, and now meteor debris?
-5.  Coroner: Reid died from accidental heroin overdose
+2.  Cardinals push Giants back to the brink
+3.  Decades of abuse of Boy Scouts detailed
+4.  Rents rise in S.F., Oakland, San Jose
+5.  Stark drops another election bombshell
 6.  Heidi Montag: ‘I got carried away by surgeon’s suggestions’
 7.  Civil trial opens against Britney Spears' parents
 
 1.  Romney's 'binders of women' sets social media on fire
 2.  Gunman robs Oakland council candidate
-3.  Oakland crime up 20%
-4.  O.J. Simpson selling %u2018murder knife%u2019 for $5 million
-5.  Springsteen explains why he's supporting Obama
-6.  The next last dog we will ever have
-7.  Cardinals push Giants back to the brink
+3.  Cardinals push Giants back to the brink
+4.  Oakland crime up 20%
+5.  O.J. Simpson selling %u2018murder knife%u2019 for $5 million
+6.  Springsteen explains why he's supporting Obama
+7.  The next last dog we will ever have
 
-1.  Ga. congressman draws Darwin as write-in opponent
-2.  Towering America's Cup boat recovered
-3.  Rents rise in S.F., Oakland, San Jose
-4.  Texas Tech horse mascot has leg injury, retiring
-5.  A streak, a boom, and now meteor debris?
-6.  Inventor Maurice Kanbar's life of ideas
-7.  Nacio Jan Brown: 1969 Telegraph Ave.
+1.  Rents rise in S.F., Oakland, San Jose
+2.  A streak, a boom, and now meteor debris?
+3.  Gunman robs Oakland council candidate
+4.  Police use of drones concerns activists
+5.  World Wine Shortage of 1.3 Billion Bottles Seen as Output Slumps
+6.  Ga. congressman draws Darwin as write-in opponent
+7.  Stark drops another election bombshell
 
 loading... Latest News Videos From our homepage
 
 *     
-    Stephen Lam, Special To The Chronicle / SF
+    Brant Ward, The Chronicle / SF
     
-    Gore paves way to victory
+    Smashmouth win for 49ers
     
-    Niners RB rushes for season-high 131 yards as S.F. beats Seattle.
+    'D' pounds the Seahawks and Gore grinds out offense in 13-6 win.
     
 *   Photos: 49er fans tailgating
 
@@ -430,11 +430,11 @@ loading... Latest News Videos From our homepage
     
 
 *     
-    Bob Moreno / SF
+    Ted S. Warren, Associated Press / SF
     
-    Big boom over Martinez
+    Decades of abuse of Scouts
     
-    Did you see it? Meteor may have been the size of a small car when it hit the atmosphere. Video
+    Report finds abuse by hundreds of Boy Scout leaders, many never reported to authorities.
     
 
 *   Home
