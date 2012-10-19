@@ -174,7 +174,7 @@ coupon code: SHIP100
     *   Z
     *   ALL
 
-my fly Shoe Sale! Now up to 75% off
+my fly Cold Weather Shop! Extra 20% off
 
 *   Shop Women
 *   Shop Men
