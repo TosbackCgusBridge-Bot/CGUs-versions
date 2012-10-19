@@ -23,9 +23,9 @@ Try: DIY Projects   Beautiful Kitchens   Homemade Cakes
 *   Products &. Accessories
 *   Renovation &. Remodeling
 
-2013 Color Trends
+2012 House of the Year
 
-The hot new hues for 2013 and how to use them in your home.
+We built three tiny cottages, bursting at the seams with small-space decorating ideas. Tour each one, watch videos, and more!
 
 Read More
 
@@ -97,9 +97,9 @@ In order to view the Privacy Policy you must enable javaScript. Connect with Cou
 
 *   **halloween**
 
-*   **kitchens**
-
 *   **living rooms**
+
+*   **kitchens**
 
 *   **halloween decorations**
 
