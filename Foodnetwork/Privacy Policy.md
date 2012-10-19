@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
-*   RT @msnfood: Street food pro Andy Bates @eatmypies talks pies and British food: t.co/oW7sV7GY @FoodNetwork\_UK
-*   Missed an episode of Andy Bates American Street Feasts? Don’t panic! You can catch up here: t.co/EZwQVOay #StreetFeastsUSA
-*   Will you be making it? RT @mojomums: I've suddenly become more interested in Halloween... @FoodNetwork\_UK t.co/IgpruMAA
-*   @hobartkevin just keep telling everyone you're with and hopefully it will just magically turn up!
-*   Ha! They've actually all nearly gone now. RT @pots\_pans: @FoodNetwork\_UK Our office is very jealous #biscuitoclock #biscuitenvy
-*   @melissacole hope that bacon butty comes your way soon!
-*   This is what happens when you start talking about biscuits in our office! #biscuitoclock #whatimeating t.co/dLgTD6O6
-*   Couple of you asking - pudding is a creme brûlée tart, chocolate brownie, vanilla cheesecake, and salted caramel ice cream #inheaven
-*   What can I say?! I'm generous :) RT @JoYumdimsum: @FoodNetwork\_UK Share? SHARE?!
-*   Had to share pudding. Who wants to help? t.co/yCaIeO0W
+*   Whether you’re after burgers or brownies, we’ve got the latest recipes from Andy Bates t.co/IIR7r2F9 #StreetFeastsUSA
+*   @katekatekoala thank you, it was at Avista, Grosvenor Sq.
+*   Plum tart, vanilla ice cream, sesame tuile and plum compote #excusethebadlight t.co/O7K1CugC
+*   Bit stuffed from the @nibblr #nibblrlaunch. Food was a-maz-ing.
+*   Same to you @StephsBubble @lisaeatswell. Great to see you again @slowfoodLondon
+*   @unuscanislupus welcome to the club! #truefans
+*   On my way to the @nibblr launch tonight. Exciting!
+*   Recipe of the Day: Home-Smoked Wild Alaska Pacific Cod Risotto by @alaskaseafooduk t.co/HTyjTEp5 #recipe
+*   Wahoo! Very proud. :) RT @celebritybake: @FoodNetwork\_UK @kinsellatrust @brookekinsella look what I saw in W H Smith! t.co/lo3ucG3n
+*   RT @asparagusdirect: The Asparagus Times is out! t.co/zTKBxLxm ▸ Top stories today via @FoodNetwork\_UK @Nat\_Roberts @thecotswoldchef
 
 Follow Us
 
