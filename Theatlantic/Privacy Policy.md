@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Friday, October 19, 2012 Go Follow the Atlanti
 *   Magazine
 *   video
 
-Binders Full of Women: What It Really Means Garance Franke-Ruta Obama's Triumphant Debate Robert Wright What Did Obama Say About Roberts in 2008? Conor Friedersdorf Housing Is Recovering -- What Happens Next? Glenn Kelman A Bizarre Newspaper-Business Story Derek Thompson Why Are Women Paid Less Than Men? Jordan Weissmann 'Dal Tokyo': Dallas Met Tokyo Met Mars Steven Heller How 'The Sessions' Tells the Truth About Sex Alan Zilberman Bieber's Fake-Mustache Industrial Complex Mark Dee A Rare Look Inside Foxconn James Fallows The Saddest Dinosaur Cartoon in Soviet History Andy Heil Tweet Me to Your Leader Matthias Lüfkens Endeavour in Los Angeles, in Timelapse Rebecca J. Rosen Sergei Udaltsov Live Tweets His Detention Megan Garber Twitter Blocks Neo-Nazi Account in Germany Rebecca J. Rosen California's Strange and Costly Food Fight Ari LeVaux Salim Hamdan Wins Again! Andrew Cohen A Coming Change in Teaching Technology Deborah Reck and Deb Sabin Oh to Be 'Less Dissatisfied' in Marriage James Hamblin The Yelpification of Health Care Lindsay Abrams Rise of the Stay-at-Home Phone Sex Operator Melanie Berliet Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Tiny Drones Play Catch Kasia Cieplak-Mayr von Baldegg The Science Behind Joy Division's Iconic Album Cover Abdullah Saeed 1950s Video: Dealing With Women in the Workplace Kasia Cieplak-Mayr von Baldegg Privacy Policy
+It's Funny Because We're White Ta-Nehisi Coates The Case Against Protest Voting Andrew Cohen New York's Terrible '50 Shades' Debate Question David A. Graham Housing Is Recovering -- What Happens Next? Glenn Kelman A Bizarre Newspaper-Business Story Derek Thompson Why Are Women Paid Less Than Men? Jordan Weissmann 'Dal Tokyo': Dallas Met Tokyo Met Mars Steven Heller How 'The Sessions' Tells the Truth About Sex Alan Zilberman Bieber's Fake-Mustache Industrial Complex Mark Dee A Spree of Attacks on Afghan Women Frud Bezhan and Shahpur Saber The Security Contractor Guarding Americans in Libya Garance Franke-Ruta Inside Russia Prison System Armin Rosen Endeavour in Los Angeles, in Timelapse Rebecca J. Rosen Sergei Udaltsov Live Tweets His Detention Megan Garber Twitter Blocks Neo-Nazi Account in Germany Rebecca J. Rosen A Forgotton Law That Could Save Lives Julie Turkewitz California's Strange and Costly Food Fight Ari LeVaux Salim Hamdan Wins Again! Andrew Cohen Oh to Be 'Less Dissatisfied' in Marriage James Hamblin The Yelpification of Health Care Lindsay Abrams Rise of the Stay-at-Home Phone Sex Operator Melanie Berliet Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Tiny Drones Play Catch Kasia Cieplak-Mayr von Baldegg The Science Behind Joy Division's Iconic Album Cover Abdullah Saeed 1950s Video: Dealing With Women in the Workplace Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,17 +113,17 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report The Atlantic The Energy Puzzle  
-_The Atlantic_'s Alexis Madrigal talks with the entrepreneurs shaping our future. Read more › Just In Brendan Hasenstab 8:01 AM ET Track of the Day: 'Promises' 1350648072 Voices
+Special Report The Atlantic Election 2012  
+_The Atlantic_'s full coverage of the battles for the White House, Senate, and more. Read more › Just In Alexis C. Madrigal 10:50 AM ET The Day Goddard Dreamed of Taking a Rocket to Mars 1350658214 Voices
 
+*   Alexis C. Madrigal The Day Goddard Dreamed of Taking a Rocket to Mars 10:50 AM ET
+*   Ta-Nehisi Coates The South Rises Again 10:10 AM ET
+*   Jeffrey Goldberg Did Joe Biden Just Go Soft on Iran? 9:17 AM ET
 *   Clive Crook How the Democratic Base Could Lose This Election… 1:59 AM ET
 *   Derek Thompson Google and Facebook Have the Same Big Problem:… Oct 18, 2012
 *   Garance Franke-Ruta Hillary Clinton Wants None of Your 'Whining'… Oct 18, 2012
-*   Ta-Nehisi Coates The Lost Battalion Oct 18, 2012
-*   Alexis C. Madrigal Why Google's Stock Just Plummeted Oct 18, 2012
 *   James Fallows Inside Foxconn Oct 18, 2012
 *   Robert Wright New Evidence That Racism Isn't 'Natural' Oct 17, 2012
-*   Jeffrey Goldberg The Benghazi Embarrassment Oct 17, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 
 Correspondents
@@ -162,23 +162,23 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Orlando Sentinel Back Romney, After Endorsing Obama in 2008  
+*   Bethenny's Big Bravo Diss  
     
-*   Romney and Obama Tried Out Their Zingers On Each Other Last Night  
+*   Five Best Friday Columns  
     
-*   Kim Jong-Il's Grandson Seems Normal and Well-Adjusted  
-    
-
-Last Update: 7:07 AM
-
-*   Redskins Now Known as the Pigskins, to Some  
-    
-*   Uncover the Secret Oases of San Francisco  
-    
-*   Brooklyn's Barclays Center Sponsors 2012 Urinebowl  
+*   The Double Standard Against Naked Men in Art  
     
 
-Last Update: 9:25 PM Most Popular
+Last Update: 10:44 AM
+
+*   San Francisco Looks Creepy Without Any People In It  
+    
+*   The Next Phase of Chicago's Riverwalk  
+    
+*   Is Your City Productive or Just Populated?  
+    
+
+Last Update: 1:00 PM Most Popular
 
 1
 
@@ -186,11 +186,11 @@ A Guy Who \*Saw\* Lincoln Get Shot Was on a TV Show in 1956 That Is Now on YouTu
 
 2
 
-The Burden of a Black President
+On War and Peace, George McGovern Will Die Vindicated
 
 3
 
-Who's Really to Blame for the Death of Newsweek?
+How the Democratic Base Could Lose This Election for Obama
 
 4
 
@@ -198,27 +198,27 @@ Why Women Still Can’t Have It All
 
 5
 
-How the Democratic Base Could Lose This Election for Obama
+Dark Social: We Have the Whole History of the Web Wrong
 
 6
 
-Inside Russia's Prison System
+The Burden of a Black President
 
 7
 
-How 'The Sessions' Tells the Sweet, Awkward Truth About Sex
+Ben Stein Apologizes Profusely for Being Truthful About Taxes on Fox News
 
 8
 
-Dark Social: We Have the Whole History of the Web Wrong
+Bush-Gore Redux? An Electoral-Popular Vote Split Is a Real Possibility
 
 9
 
-Robots at Work and Play
+Study: Writers Are Twice as Likely to Commit Suicide
 
 10
 
-The Amazing Story of What Happened in Libya
+The South Rises Again
 
 *   Subscribe Help
 *   Faq
