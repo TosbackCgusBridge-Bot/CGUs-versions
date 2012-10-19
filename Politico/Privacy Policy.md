@@ -113,20 +113,20 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/19/2012 7:02 AM ET
+Updated: 10/19/2012 10:18 AM ET
 
 1.  1 Clinton trashes whiners
-2.  2 Mitchell: Men at MSNBC make more money
+2.  2 Playing to donors, GOP groups spill secrets
 3.  3 Beckel: 'It is over' for Obama if poll is true
-4.  4 Tiny N.H. could punch above weight
-5.  5 Soledad O'Brien: Obama 'up 15' in Virginia
+4.  4 Mitchell: Men at MSNBC make more money
+5.  5 Obama, Romney best Al Smith jokes
 6.  6 Romney and Obama yuk it up
-7.  7 Ann corrects Whoopi on LDS
-8.  8 Obama cedes the future to Romney
-9.  9 GOP's problems exposed in Senate
-10.  10 Obama on Libya: 'We weren't confused,' deaths weren't 'optimal'
+7.  7 Soledad O'Brien: Obama 'up 15' in Virginia
+8.  8 Tiny N.H. could punch above weight
+9.  9 Obama, Romney win laughs at dinner
+10.  10 Ann Romney corrects Whoopi on LDS
 
-Updated: 10/19/2012 7:02 AM ET
+Updated: 10/19/2012 10:18 AM ET
 
 1.  1 Clinton trashes whiners
 2.  2 GOP's problems exposed in Senate
@@ -134,12 +134,12 @@ Updated: 10/19/2012 7:02 AM ET
 4.  4 Mitchell: Men at MSNBC make more money
 5.  5 Obama's daughters' school evacuated
 6.  6 Obama cedes the future to Romney
-7.  7 Tagg jokes about 'swing' at Obama
-8.  8 Ann corrects Whoopi on LDS
-9.  9 Beckel: 'It is over' for Obama if poll is true
-10.  10 Tiny N.H. could punch above weight
+7.  7 Ann Romney corrects Whoopi on LDS
+8.  8 Beckel: 'It is over' for Obama if poll is true
+9.  9 Tagg jokes about 'swing' at Obama
+10.  10 Playing to donors, GOP groups spill secrets
 
-Updated: 10/19/2012 7:02 AM ET
+Updated: 10/19/2012 10:18 AM ET
 
 1.  1 Clinton trashes whiners
 2.  2 Obama gets more time
@@ -152,75 +152,79 @@ Updated: 10/19/2012 7:02 AM ET
 9.  9 'Binders full of women' spreads
 10.  10 Allen West plagued by scam PACs
 
-Updated: 10/19/2012 7:02 AM ET
+Updated: 10/19/2012 10:18 AM ET
 
-1.  1 CPD: Crowley shouldn't reinterpret questions
-2.  2 Clinton trashes whiners
+1.  1 Clinton trashes whiners
+2.  2 CPD: Crowley shouldn't reinterpret questions
 3.  3 Obama gets more time
 4.  4 Candy Crowley to defy debate contract
-5.  5 Twitter frowns on Joe Biden's laugh
-6.  6 Crowley: 'I'm not a fly on the wall'
-7.  7 6 takeaways from the debate
-8.  8 VP debate transcript
-9.  9 GOP's problems exposed in Senate
-10.  10 Soledad O'Brien: Obama 'up 15' in Virginia
+5.  5 Crowley: 'I'm not a fly on the wall'
+6.  6 6 takeaways from the debate
+7.  7 VP debate transcript
+8.  8 GOP's problems exposed in Senate
+9.  9 Soledad O'Brien: Obama 'up 15' in Virginia
+10.  10 Fight night on Long Island
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/19/2012 7:02 AM ET
+Updated: 10/19/2012 10:18 AM ET
 
-1.  1 Clean Water Act still essential
-2.  2 POLITICO's political puppetry
-3.  3 Playing to donors, GOP groups spill secrets
-4.  4 Obama, Romney win laughs at dinner
-5.  5 Akin, McCaskill testy in final debate
-6.  6 Romney and Obama yuk it up
+1.  1 Obama, Romney best Al Smith jokes
+2.  2 Walsh: Abortion never saves mother
+3.  3 Big Oil's tax breaks on table?
+4.  4 DSCC raises record haul
+5.  5 Clean Water Act still essential
+6.  6 Why risk Mexico trade war?
+7.  7 Latino ads: Bullseye, ricochet
+8.  8 POLITICO's political puppetry
+9.  9 Playing to donors, GOP groups spill secrets
+10.  10 Obama, Romney win laughs at dinner
 
-Updated: 10/19/2012 7:02 AM ET
+Updated: 10/19/2012 10:18 AM ET
 
-1.  1 Clean Water Act still essential
-2.  2 POLITICO's political puppetry
-3.  3 Playing to donors, GOP groups spill secrets
-4.  4 Obama, Romney win laughs at dinner
-5.  5 Akin, McCaskill testy in final debate
-6.  6 Romney and Obama yuk it up
-7.  7 Tiny N.H. could punch above weight
-8.  8 Beckel: 'It is over' for Obama if poll is true
-9.  9 Grant to help catch texting drivers
-10.  10 Molotov cocktail tossed at Va. mall
+1.  1 Obama, Romney best Al Smith jokes
+2.  2 Walsh: Abortion never saves mother
+3.  3 Big Oil's tax breaks on table?
+4.  4 DSCC raises record haul
+5.  5 Clean Water Act still essential
+6.  6 Why risk Mexico trade war?
+7.  7 Latino ads: Bullseye, ricochet
+8.  8 POLITICO's political puppetry
+9.  9 Playing to donors, GOP groups spill secrets
+10.  10 Obama, Romney win laughs at dinner
 
-Updated: 10/19/2012 7:02 AM ET
+Updated: 10/19/2012 10:18 AM ET
 
-1.  1 Clean Water Act still essential
-2.  2 POLITICO's political puppetry
-3.  3 Playing to donors, GOP groups spill secrets
-4.  4 Obama, Romney win laughs at dinner
-5.  5 Akin, McCaskill testy in final debate
-6.  6 Romney and Obama yuk it up
-7.  7 Tiny N.H. could punch above weight
-8.  8 Beckel: 'It is over' for Obama if poll is true
-9.  9 Grant to help catch texting drivers
-10.  10 Molotov cocktail tossed at Va. mall
+1.  1 Obama, Romney best Al Smith jokes
+2.  2 Walsh: Abortion never saves mother
+3.  3 Big Oil's tax breaks on table?
+4.  4 DSCC raises record haul
+5.  5 Clean Water Act still essential
+6.  6 Why risk Mexico trade war?
+7.  7 Latino ads: Bullseye, ricochet
+8.  8 POLITICO's political puppetry
+9.  9 Playing to donors, GOP groups spill secrets
+10.  10 Obama, Romney win laughs at dinner
 
-Updated: 10/19/2012 7:02 AM ET
+Updated: 10/19/2012 10:18 AM ET
 
-1.  1 Clean Water Act still essential
-2.  2 POLITICO's political puppetry
-3.  3 Playing to donors, GOP groups spill secrets
-4.  4 Obama, Romney win laughs at dinner
-5.  5 Akin, McCaskill testy in final debate
-6.  6 Romney and Obama yuk it up
-7.  7 Tiny N.H. could punch above weight
-8.  8 Beckel: 'It is over' for Obama if poll is true
-9.  9 Grant to help catch texting drivers
-10.  10 Molotov cocktail tossed at Va. mall
+1.  1 Obama, Romney best Al Smith jokes
+2.  2 Walsh: Abortion never saves mother
+3.  3 Big Oil's tax breaks on table?
+4.  4 DSCC raises record haul
+5.  5 Clean Water Act still essential
+6.  6 Why risk Mexico trade war?
+7.  7 Latino ads: Bullseye, ricochet
+8.  8 POLITICO's political puppetry
+9.  9 Playing to donors, GOP groups spill secrets
+10.  10 Obama, Romney win laughs at dinner
 
 Showing Last 7 Days
 
-Updated: 10/19/2012 7:02 AM ET
+Updated: 10/19/2012 10:18 AM ET
 
 1.  1 GOP's problems exposed in Senate
 2.  2 The campaign for debate spin win
