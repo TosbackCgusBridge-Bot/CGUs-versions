@@ -265,11 +265,11 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 VirtualBox 4.2.2 Deutsch Freeware
-*   2 VirtualBox für Mac OS 4.2.2 Deutsch Freeware
-*   3 BootRacer 4.0 Englisch Freeware
-*   4 EarthView 4.0.2 Deutsch Demo
-*   5 Miranda IM (32 Bit) 0.10.5 Englisch Freeware
+*   1 Critical Strike Portable - Android App 2.590 Englisch Freeware
+*   2 Windows 7 Firewall Control 5.1 Deutsch Freeware
+*   3 VirtualBox 4.2.2 Deutsch Freeware
+*   4 VirtualBox für Mac OS 4.2.2 Deutsch Freeware
+*   5 BootRacer 4.0 Englisch Freeware
 
 ...mehr
 
@@ -283,7 +283,7 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 ...mehr
 
-CHIP Videos Apple iPod touch 5G Acer Iconia A700 im Test Windows 8 RT - Lenovo IdeaPad Yoga 11  
+CHIP Videos Acer K750 Full-HD Hybrid-Projektor Apple iPod touch 5G Acer Iconia A700 im Test  
 
 Alle Videos bei CHIP Online
 
@@ -295,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Test: Canon PowerShot G15 (Digitalkamera)
+*   Im Test: Die besten TVs in allen Kategorien und Größen ab 430 Euro
 *   Test: Philips 40PFL8007K (40-Zoll-LCD-TV)
+*   Handy mit HD Display: Scharfe Smartphones von Sony, Samsung, HTC
 *   Media Markt Online Shop: Alle Angebote im Check
-*   Test: Sony Xperia T (Handy)
-*   Praxis-Test: Apple iPod touch 5G (64 GByte)
-*   Praxis-Test: Ubuntu 12.10 Quantal Quetzal
 
 ...mehr
 
