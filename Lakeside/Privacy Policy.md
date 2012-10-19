@@ -1089,7 +1089,6 @@ Y*   Books + Media
         *   Shirts
         *   Shorts, Swim Trunks
         *   Sleepwear, Loungewear
-        *   Sweaters
         *   Sweatshirts
         *   T Shirts
         *   Underwear
@@ -1380,7 +1379,7 @@ _Our Guarantee!_ If you are not completely satisfied with all or part of your or
         
     Product Safety
     
-    The Lakeside Collection® carefully selects its products from a large number of vendors located in both the USA and abroad. Our dedication to finding you the very best in housewares, clothing, furniture, toys, holiday accents and more includes thorough product testing that strives to exceed industry standards. This helps to ensure our merchandise is both high in quality and competitively priced. Most of all, it assures us that the safety and satisfaction of our most important asset - our customers - will always be met.
+    The Lakeside Collection? carefully selects its products from a large number of vendors located in both the USA and abroad. Our dedication to finding you the very best in housewares, clothing, furniture, toys, holiday accents and more includes thorough product testing that strives to exceed industry standards. This helps to ensure our merchandise is both high in quality and competitively priced. Most of all, it assures us that the safety and satisfaction of our most important asset - our customers - will always be met.
     
      *   Career Center
         
@@ -1579,13 +1578,13 @@ Frequently Asked Questions Select A Category:
 Question: How do I request a catalog?  
 Answer:
 
-If you are looking to receive a free print catalog, simply click on Send Me Free Catalogs &. E-mail Offers and you will receive our most recent catalog in 3 to 4 weeks. You can also request one through an agent by calling (847) 444-3150 24 hours a day 7 days a week. Our entire catalog is also available online, so shop today!
+If you are looking to receive a free print catalog, simply click on Send Me Free Catalogs &. E-mail Offers and you will receive our most recent catalog in 2 to 3 weeks. You can also request one through an agent by calling (847) 444-3150 24 hours a day 7 days a week. Our entire catalog is also available online, so shop today!
 
   
 Back To Questions Question: Was the catalog I requested sent?  
 Answer:
 
-Please allow approximately 3 to 6 weeks from the day that you request the catalog. In the meantime, you will find our catalogs up on our web site for your review and may place an order through our web site at any time.
+Please allow approximately 2 to 3 weeks from the day that you request the catalog. In the meantime, you will find our catalogs up on our web site for your review and may place an order through our web site at any time.
 
   
 Back To Questions Question: When does a catalog expire?  
