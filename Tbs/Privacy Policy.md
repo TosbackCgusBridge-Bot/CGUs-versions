@@ -180,7 +180,7 @@ How to Contact Us If you have any questions or concerns about the online privacy
 Updates &. Effective Date From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our site. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it.  
   
 The Privacy Statement posted on this site was updated in February, 2011. home | shows | movies | video | schedule | games | sweepstakes | full episodes | shop | mobile  
-advertise with us | sitemap | terms of use | press room | privacy policy | ad choices | FAQ | tv parental controls | dvs offerings | newsletter  
+advertise with us | sitemap | terms of use | press room | privacy policy | ad choices | FAQ | tv parental controls | dvs offerings | closed captioning | newsletter  
 very funny ads | TNT | TCM | truTV  
   
 ©2012 Turner Broadcasting System, Inc. A Time Warner Company. All Rights Reserved.  
