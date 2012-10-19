@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-BuzzFeed lawsuit over celeb snaps raises copyright questions
+Update: Google announces disappointing results early, stock halted
 
 Stay on top of tech news in your inbox
 
