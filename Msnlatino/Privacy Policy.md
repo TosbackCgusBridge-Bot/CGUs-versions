@@ -142,6 +142,7 @@ Buscar
         *   Las Pistas de Amador
         *   La Casa de al Lado
         *   La Diosa Coronada
+        *   La Patrona
         *   La Playa Sound Radio
         *   La Reina Del Sur
         *   La Viuda de Blanco
@@ -687,21 +688,21 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡Qué mentirosa!
+*   ¡Enamorados!
     
-    Descubre lo que se oculta en Rosa Diamante.  
+    Fabiola y Miguel se juran amor eterno en Corazón.  
     
-*   ¡Luce tu mejor piel!
+*   Gloria Trevi
     
-    Este otoño deja las manchas del verano atrás  
+    La estrella con un look inconfundible   
     
-*   La diosa mexicana
+*   Vota por el mejor presentador
     
-    ¿Cuál de ellas es tu mexicana favorita?  
+    de los Premios Billboard de la música mexicana 2012  
     
-*   Portraits del Backstage
+*   Secretos de belleza
     
-    Fotos exclusivas del backstage
+    La bella Aylín Mujica nos revela sus trucos
     
 
 Más en Telemundo:
