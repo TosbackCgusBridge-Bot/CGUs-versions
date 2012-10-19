@@ -17,7 +17,7 @@ Try: Cool Nails Dating Advice Homecoming Dresses
 *   Traumarama
 *   Share Your Thoughts
 
-What's Your One Direction Theme Song?
+Who's Your Celeb Shopping Buddy?
 
 *   Shopping
 *   Celeb Makeovers
@@ -52,7 +52,7 @@ Latina Beauty Guide
 *   Celebrity Quizzes
 *   Celebrity Videos
 
-Celeb BFF Breakups &. Makeups
+Watch One Direction's New Music Video!
 
 *   Hot Guy Panel
 *   Boyfriend Battle
@@ -101,7 +101,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     Love Advice From Movies
 *   fashion
     
-    Lea Michele's Fave Trends for Fall
+    Cute Coats
 *   love
     
     Crush of the Week: Ryan Wieber
