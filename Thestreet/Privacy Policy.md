@@ -85,15 +85,14 @@ A NOTE FROM STEPHANIE LINK
 
 *   HOT TOPICS:
 *   Cramer's Eight-Point Plan
-*   Who Won the Debate?
+*   Google $249 Laptop
 *   Lance Armstrong
-*   Biotech Stock Bubble
-*   Options Webinar
-*   FDA Blog
-*   Kass
-*   Election 2012
+*   CyberSecurity Webinar
+*   Microsoft
+*   Google Earnings Leak
+*   GE Dividend
 
-pjava02.dc.thestreet.com Privacy Policy
+pjava04.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -248,13 +247,13 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,557.00 5.22 0.04% NASDAQ 3,104.12 2.95 0.10% S&P 500 1,460.91 5.99 0.41% US 10 Yr 1.811% +0.091 Brokerage Partners Most Commented
+DOW 13,548.94 -8.06 -0.06% NASDAQ 3,072.87 -31.25 -1.01% S&P 500 1,457.34 -3.57 -0.24% US 10 Yr 1.826% +0.015 Brokerage Partners Most Commented
 
-*   Microsoft Will Lose a War With Apple. So Will Google
 *   10 Worst Cars of All Time
+*   Google Drops the Neutron Bomb: $249 Laptop
 *   Apple, Microsoft Need to Innovate, If They Can
 *   10 Cult TV Shows Netflix Should Revive
-*   6 Tech Toys Better Than What Apple Sells
+*   Microsoft Will Lose a War With Apple. So Will Google
 
 Articles From Advertising Partners Free Newsletters from TheStreet
 
