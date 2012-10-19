@@ -158,10 +158,16 @@ Status Recently Viewed   Items: 0 Subtotal: $0.00   Thank you for visiting Eas
     *   Wrestling
     *   Sandals
     
-    *   Big Kids' Shoes
-    *   Little Kids Shoes
-    *   Toddler Shoes
-    *   Infant Shoes     
+    *   Boys' Shoes
+    *   Grade School
+    *   Preschool
+    *   Toddler
+    *   Infant
+    *   Girls' Shoes
+    *   Grade School
+    *   Preschool
+    *   Toddler
+    *   Infant     
 *   CLOTHING Shop All Clothing
     
     *   Men's Clothing
@@ -211,7 +217,8 @@ Status Recently Viewed   Items: 0 Subtotal: $0.00   Thank you for visiting Eas
     *   Training
     *   Wrestling
     
-    *   Big Kids' Clothing     
+    *   Boys' Clothing
+    *   Girls' Clothing     
 *   Sports Equipment
     
     *   BASEBALL
