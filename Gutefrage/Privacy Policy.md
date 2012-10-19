@@ -196,7 +196,7 @@ Registrieren Login
     
     Punkte:
     
-    795
+    1440
     
     Level:
     
@@ -206,35 +206,31 @@ Registrieren Login
     
     Punkte:
     
-    707
+    868
     
     Level:
     
     Heidekraut12
     
-3.  sassbar
+3.  Nille87
     
     Punkte:
     
-    701
-    
-    Level:
-    
-    sassbar
+    761
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.279.890 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.281.195 gute Fragen_
 
+*   32 Ich schÃ¤me mich autistisch zu sein
+*   21 Wenn Frauen sagen "ich bin zu dick"
 *   21 Kann ich ihm Ordnung beibringen?
-*   20 Ich schÃ¤me mich autistisch zu sein
-*   17 Wenn Frauen sagen "ich bin zu dick"
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   KÃ¼rbis-Pfannkuchen zubereiten
 *   Richtig trainieren auf dem Crosstrainer
 
-*   Anleitung: Antistress-Ball basteln
+*   Anime Zeichnung
 *   Vogel zeichnen lernen
 
 gutefrage.net in Zahlen
