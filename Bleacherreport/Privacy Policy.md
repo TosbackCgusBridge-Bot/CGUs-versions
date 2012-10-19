@@ -143,7 +143,7 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 9 hours ago
+about 12 hours ago
 
 @BleacherReport: Jim Harbaugh is possessed. http://t.co/ctlt1RsF
 
