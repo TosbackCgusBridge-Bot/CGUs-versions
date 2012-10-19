@@ -132,50 +132,50 @@ If you have any questions or concerns about this privacy policy, you may contact
 
 Stories We Like
 
-1.  Us Weekly Taylor Swift, Ethel Kennedy 'Fascinated by Each Other'
-2.  Huffington Post Politics Mitt's Bizarre Debate Claim Falls Apart
-3.  Pop Sugar Ben Affleck and His Leading Men Premiere Argo in London
-4.  Us Weekly Ryan Gosling, Rooney Mara Share a Sexy Slow Dance on Set
-5.  Buzzfeed 13 Excruciatingly Cute Pictures of an Orphaned Baby Elephant Being Raised by Humans
-6.  Ask Men The Best Boots at Every Price Point
-7.  Huffington Post Politics Plagued Workers Plead With Mitt Over Big Loss
-8.  Us Weekly A Look Back at John Mayer's Famous Girlfriends
-9.  Tres Sugar Celebrities Tweet About Debate and Binders Full of Women
+1.  Us Weekly Hollywood's Trendiest Kids
+2.  Your Tango What Your Favorite Food Says About Your Sex Life
+3.  Huffington Post Politics Court Smacks Down Anti-Gay Marriage Law
+4.  Ask Men How to Use the Toilet When Your Girl's Around
+5.  Buzzfeed Scientists Invent Dissolvable Strips That Instantly Relieve Burns From Eating Hot Food
+6.  Pop Sugar Alessandra is the 'Luckiest Girl in the World' to Model VS Fantasy Bra
+7.  Us Weekly Demi Moore Looks Thin, Radiant at Rare Post-Rehab Appearance in NYC
+8.  Huffington Post Politics Scott Brown Apologizes After Backlash Over 'Shameful' Remarks
+9.  Buzzfeed How Straight Women and Gay Guys Approach Halloween
 
   Most Popular
 
 1.  A Turn of the Page for Newsweek
 2.  My Proof of Heaven
-3.  Taliban Declare War on Media
-4.  The Great Deformer
-5.  Obama’s Risky Bet On Single Women
+3.  Undercover Muslim Agents Get Job Done
+4.  Obama’s Sober Night of Comedy
+5.  The Great Deformer
 
   Other News Entertainment
 
-*   Who Should Zooey Date?
-*   Week in Photos for Oct. 19, 2012
-*   Reveal: Celebs Wearing Crazy Boots
+*   Stars Wearing Peplum
+*   Fashion Voting: Would You Wear This Trend?
+*   Fashion Face-Off: Kim Kardashian vs. The World
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘Modern Family’ react: The all-too-familiar plot disappoints
-*   ‘Supernatural’ recap: Heart of the matter
-*   Ashton Kutcher is highest-paid TV actor, followed by Hugh Laurie and Ray Romano
+*   President Obama on ‘Daily Show’ talks debates and Libya — but not ’50 Shades of Grey’
+*   ‘Big Bang Theory’ react: Girls vs. guys games will leave you exploding with laughter
+*   ‘Two and a Half Men’ react: Miley Cyrus brings sexy back
 *   **Get More from EW.com**
 
 Entertainment
 
-*   How To Make 5 Perfect Dinners For $10 Each
-*   Romney Son Wanted To "Take A Swing" At Obama During Debate
-*   Career Confidential: The Sex Educator In Rural Georgia
+*   Romney's Pro-Palestinian Wing Riles Israel Supporters
+*   Obama Discovers Morning In America
+*   No Mention Of "Legitimate Rape" In Missouri Debate
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Obama to Hold Election Night Rally Inside
-*   Obama Ready to Play Hardball on Fiscal Cliff
-*   Little Talk of Second Term Agenda
+*   Why the Pennsylvania Senate Race is Close
+*   Quote of the Day
+*   Castro Suffers Massive Stroke
 *   **Get More from Political Wire**
 
 The Daily Beast
