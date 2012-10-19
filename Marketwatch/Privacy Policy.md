@@ -198,95 +198,91 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 18, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 19, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:06a
+/news/latest1.  8:03a
     
-    Juniper Networks shares jump 6% in preopen
+    FTSE 100 retreats from 7-month high
     
-2.  8:05a
+2.  8:01a
     
-    Union Pacfiic Q3 net $2.19 vs. $1.85
+    McDonald's sees pressure on future profit
     
-3.  8:03a
+3.  8:01a
     
-    CORRECTED
-    
-    Big earnings to watch Thursday: Microsoft, Google
+    McDonald's Oct. same-store sales trending negative
     
 4.  8:01a
     
+    McDonald's foreign currency impact 8c in Q3
+    
+5.  8:01a
+    
     Updates, advisories and surprises
     
-5.  8:00a
+6.  8:00a
     
-    Coming up: U.S. weekly jobless claims
+    What strikes in South Africa really mean to metals
     
-6.  7:54a
+7.  8:00a
     
-    Dollar edges up as risk rally takes a breather
+    Big earnings to watch Friday: GE, McDonaldâs
     
-7.  7:51a
+8.  8:00a
     
-    Baxter sees adj Q4 of $1.24-$1.27 vs. $1.26 est
+    McDonald's Q3 net $1.43 vs $1.45
     
-8.  7:47a
+9.  8:00a
     
-    Fairchild Semi profit drops, revenue to fall short
+    McDonald's Q3 revenue $7.15 bln vs $7.17 bln
     
-9.  7:44a
+10.  7:52a
     
-    BREAKING
+    Parker-Hannifin profit falls, firm cuts outlook
     
-    Philip Morris profit falls
+11.  7:50a
     
-10.  7:43a
+    Asia stocks finish lower, but up for week
     
-    Morgan Stanley swings to third-quarter loss
+12.  7:44a
     
-11.  7:42a
+    Parker Hannifin Q1 net $1.57 vs $1.91
     
-    Stock futures flat. Verizon, jobless claims eyed
+13.  7:44a
     
-12.  7:42a
+    Parker Hannifin sees softness in N. America
     
-    Philip Morris net off 6.3% on forex, volumes
+14.  7:44a
     
-13.  7:41a
+    Parker Hannifin cites weak overseas markets
     
-    Apple's iPhone shipment target lowered by BMO
+15.  7:43a
     
-14.  7:38a
+    ManpowerGroup profit falls 21%
     
-    Travelers profit jumps as disaster costs fall
+16.  7:41a
     
-15.  7:35a
+    Radio update: Peanut butter prices may drop
     
-    Fairchild Semi Q3 net 19c vs. 28c
+17.  7:36a
     
-16.  7:35a
+    Ingersoll-Rand profit rises
     
-    Fairchild Semi adj Q3 net 25c
+18.  7:34a
     
-17.  7:35a
+    ManpowerGroup Q3 net 79c vs 97c
     
-    Nokia swings to adjusted operating profit in Q3
+19.  7:34a
     
-18.  7:31a
+    ManpowerGroup sees Q4 net of 72c-80c
     
-    Radio update: Verizon matches earnings forecasts
+20.  7:26a
     
-19.  7:29a
-    
-    Morgan Stanley swings to billion-dollar loss
-    
-20.  7:27a
-    
-    Rosneft makes offer for BP's TNK-BP stake
+    First Horizon profit falls
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,557.00 +5.22 +0.04% nasdaq /quotes/zigman/123127 3,104.12 +2.95 +0.10% s&p 500 /quotes/zigman/3870025 1,460.91 +5.99 +0.41% Kiosk
+dow /quotes/zigman/627449 13,548.94 -8.06 -0.06% nasdaq /quotes/zigman/123127 3,072.87 -31.26 -1.01% s&p 500 /quotes/zigman/3870025 1,457.34 -3.57 -0.24% Kiosk
 
 *   1341573300000 1341592200000
     
@@ -295,14 +291,20 @@ dow /quotes/zigman/627449 13,557.00 +5.22 +0.04% nasdaq /quotes/zigman/123127 3,
     Â  Dave Ramsey  
     Cutting the family budget  
     When it comes to taking control of your money and living on a budget, you have to pick and choose what to spend and what to cut back on.Â  /conga/kiosk/marketfox.html 231105
-*   1332374700000 1332461400000
+*   1309370400000 1309428000000
+    
+    Commentary
+    
+    The truth about Panditâs pay  
+    The departed Citigroup CEO didnât make out as well as many of his executive peers, writes Brett Arends.  
+    â¢ 'Same old Citi' with new CEO /conga/kiosk/wildcard4.html 231499
+*   1326931500000 1327018200000
     
     The Trading Deck
     
-    scott rothbort  
-    7 reasons to own CBS  
-    Back in 2006, Viacom split into two companies: Viacom and CBS. Is bigger (Viacom) better? I don't think so. I prefer CBS. Here are the reasons why.  
-    /conga/kiosk/trading-deck-5.html 231281
+    kevin marder  
+    Stocks: It could be much worse  
+    Stateside, the best thing the economy (and the market) has going for it is the smart rebound in the housing sector. /conga/kiosk/trading-deck-3.html 231492
 *   1347087600000 1347213600000
     
     Personal Finance
@@ -311,14 +313,6 @@ dow /quotes/zigman/627449 13,557.00 +5.22 +0.04% nasdaq /quotes/zigman/123127 3,
     Why banks and money-management sites are vying for kidsâ cash. Think Mint.com for kindergartners.  
     â¢ Why your kids need a Roth IRA  
     /conga/kiosk/wildcard2.html 231268
-*   1309191300000 1309248000000
-    
-    Retirement
-    
-    Price-cut war in your 401(k)  
-    Facing new cost-disclosure rules, some mutual funds are creating cheaper share classes for retirement plans.  
-    â¢ Retirement funds that offer stability  
-    /conga/kiosk/wildcard3.html 231271
 
 MarketWatch.com
 
