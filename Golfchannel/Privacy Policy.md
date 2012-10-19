@@ -12,105 +12,105 @@ PGA Tour
 
 The McGladrey Classic View Leaderboard >.
 
-*   T1
+*   1
+*   M.Flores
+*   \-8
+*   8
+
+*   T2
+*   M.Thompson
+*   \-7
+*   12
+
+*   T2
 *   B.Cauley
-*   \-8
-*   \-
+*   \-7
+*   9
 
-*   T1
-*   M.Dawson
-*   \-8
-*   \-
+*   T4
+*   B.Gay
+*   \-6
+*   10
 
-*   T3
+*   T4
+*   C.Campbell
+*   \-6
+*   7
+
+*   T4
 *   G.Owen
 *   \-6
 *   \-
 
-*   T3
-*   R.Pampling
-*   \-6
-*   \-
-
-*   T3
-*   B.Weekley
-*   \-6
-*   \-
-
-*   T6
-*   J.Durant
+*   T7
+*   V.Singh
 *   \-5
-*   1
+*   10
 
-*   T6
-*   M.Flores
+*   T7
+*   M.Dawson
 *   \-5
-*   \-
+*   8
 
-*   T6
-*   B.Gay
+*   T7
+*   D.Trahan
 *   \-5
-*   \-
+*   8
 
-*   T6
+*   T7
+*   S.Bowditch
+*   \-5
+*   7
+
+*   T7
+*   J.Killeen
+*   \-5
+*   7
+
+*   T7
 *   Z.Johnson
 *   \-5
 *   \-
 
-*   T6
+*   T7
 *   D.Lee
 *   \-5
 *   \-
 
-*   T6
+*   T7
 *   D.Love III
 *   \-5
 *   \-
 
-*   T6
-*   M.Thompson
-*   \-5
-*   \-
-
-*   T6
+*   T7
 *   D.Toms
 *   \-5
 *   \-
 
-*   T6
-*   C.Villegas
-*   \-5
-*   \-
-
-*   T15
-*   C.Beckman
+*   T16
+*   K.Duke
 *   \-4
-*   \-
+*   14
 
-*   T15
-*   C.Beljan
+*   T16
+*   B.Adams
 *   \-4
-*   \-
+*   12
 
-*   T15
-*   C.Campbell
+*   T16
+*   R.Castro
 *   \-4
-*   \-
+*   12
 
-*   T15
-*   B.de Jonge
+*   T16
+*   B.Weekley
 *   \-4
-*   \-
+*   12
 
-*   T15
-*   J.Furyk
+*   T16
+*   H.Stenson
 *   \-4
-*   \-
-
-*   T15
-*   D.Hearn
-*   \-4
-*   \-
+*   11
 
 *   **FULL LEADERBOARD**
 
@@ -281,13 +281,13 @@ Prev Next
 
 *   Davis Love III
 *   The McGladrey Classic
-*   Morning Drive
 *   Seaside Course at Sea Island
-*   Tiger Woods
+*   Morning Drive
 *   Adam Scott
+*   Tiger Woods
+*   Ryder Cup
 *   European Tour
 *   Jonas Blixt
-*   FedEx Cup
 
 **Privacy Policy**
 
@@ -528,7 +528,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,268 facebook.com/GolfChannel 120,006 twitter.com/GolfChannel Newsletter
+Social 233,274 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
