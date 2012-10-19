@@ -11,7 +11,11 @@ Most Viewed
 
 Most Searched
 
-1.  Sorry, there are no search terms at this time
+1.  living rooms
+2.  bedrooms
+3.  kitchens
+4.  designer inspiration
+5.  jewelry
 
 Magazine | RSS
 
@@ -25,7 +29,7 @@ Sign up for RSS feeds and start receiving the day's headlines from the topics yo
 Dering Hall
 
 » See all Events  
-WFCA
+Rocky Mountain Hardware
 
 » See all Events  
 
