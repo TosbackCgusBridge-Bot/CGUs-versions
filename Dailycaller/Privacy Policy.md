@@ -1,4 +1,4 @@
-**TRENDING** MITT ROMNEY | MEGAN FOX | LANCE ARMSTRONG | MSNBC | JAMES HOLMES | PRESIDENTIAL DEBATES
+**TRENDING** MITT ROMNEY | MSNBC | CLAIRE MCCASKILL | BRUCE SPRINGSTEEN | POLITICO | LANCE ARMSTRONG
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  Mark Levin takes issue with George Will, Krauthammer debate analyses \[VIDEO\] 'ASTOUNDING' Spokesman for Democratic Rep. melts down, confronts TheDC: 'You act like Jerry Springer'    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  MEAL DEAL Calif. official whose agency under-reported unemployment stats was Obama campaign donor Ohio doctor running newspaper ads criticizing Obamacare ahead of election    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-Space invaders: Why intimidation politics is a dangerous trend 1:50 PM 10/17/2012 Obama on manufacturing: ‘There are some jobs that are not going to come back’ 11:21 AM 10/17/2012 You can always trust Tina Brown! 7:32 AM 10/18/2012 Alpha Test 6:40 AM 10/18/2012 Not All Muslims try to blow up the Federal Reserve 5:02 PM 10/17/2012 Hey guys, Romney said “binders”! 3:55 PM 10/17/2012 Report: Welfare government’s single largest budget item in FY 2011 at approx. $1.03 trillion 12:00 AM 10/18/2012 10 dogs that are definitely in the spirit of fall \[SLIDESHOW\] 6:05 PM 10/17/2012 Let’s pretend: The best Romney-Obama passive-aggressive moments from Tuesday’s debate \[SLIDESHOW\] 10:34 AM 10/17/2012 The great many facial expressions of Joe Biden \[SLIDESHOW\] 4:28 PM 10/11/2012 See More Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Got racism? 6:58 PM 10/10/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Leaders with Ginni Thomas: Newt Gingrich 8:41 PM 10/14/2012 Gingrich calls out Rove super PAC, NRSC for abandoning Akin 5:58 AM 10/14/2012 Videos Sections
+How the Daily Caller got its name (a true story) 3:35 PM 10/18/2012 Bill Clinton concedes Obama hasn’t ‘fixed’ the country 1:51 PM 10/18/2012 You can always trust Tina Brown! 7:32 AM 10/18/2012 Alpha Test 6:40 AM 10/18/2012 Caption this: The #1 threat to women in America 3:23 PM 10/18/2012 Vote for Obama because he hasn’t fixed things, says Bill Clinton 3:00 PM 10/18/2012 10 Bruce Springsteen lyrics that make absolutely no sense \[SLIDESHOW\] 11:40 PM 10/18/2012 Report: Welfare government’s single largest budget item in FY 2011 at approx. $1.03 trillion 12:00 AM 10/18/2012 10 dogs that are definitely in the spirit of fall \[SLIDESHOW\] 6:05 PM 10/17/2012 Let’s pretend: The best Romney-Obama passive-aggressive moments from Tuesday’s debate \[SLIDESHOW\] 10:34 AM 10/17/2012 See More Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Got racism? 6:58 PM 10/10/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Leaders with Ginni Thomas: Newt Gingrich 8:41 PM 10/14/2012 Gingrich calls out Rove super PAC, NRSC for abandoning Akin 5:58 AM 10/14/2012 Videos Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   A centrist Barack Obama finally emerges, but too little too late
-*   Obama at Hofstra: Relatively alert, ergo big winner
-*   10 dogs that are definitely in the spirit of fall \[SLIDESHOW\]
+*   Calif. official whose agency under-reported unemployment stats was Obama campaign donor
+*   Whistle-blower audio: Sen. Claire McCaskill’s husband cut business deals in Senate Dining Room
+*   Government reporting tricks don’t create jobs, reducing tax and regulatory burdens will
 
 Corporate
 
@@ -199,7 +199,7 @@ Corporate
 *   Advertise With Us
 *   Make The Daily Caller Your Homepage
 
-Version 2.1.3    Sign up for free Daily Caller News Emails
+Version 2.02    Sign up for free Daily Caller News Emails
 
 *   TheDC Links Quick links to the day’s top news on The Daily Caller and around the web
 *   TheDC Morning An unvarnished take of what’s really happening in politics each day
