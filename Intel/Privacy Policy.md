@@ -398,36 +398,28 @@ Intel® Online Privacy Notice Intel is committed to respecting your privacy. Our
     
     **Last updated:** April 2009
     
-    Videos
-    
-    *   **Medicine Reaches Out, Mexico's Better Future**
-        
-        Soon all of Mexico will be connected through tele-medicine to Mexico's better future, powered by Intel technology.
-        
-    
     Related Materials View More
     
     *   Related Content
     *   Related Topics
     *   Related Products
     
-    *   Intel® Online Privacy...
+    *   Intel Human Rights...
         
-        The full Intel Online Privacy Notice and this summary apply to Intel Corporate web sites worldwide.
+        Summarizes Intel's position on key human rights issues and embodies common principles laid out by...  
+        Preview | Download
         
     *   Intel® Cookie Notice
         
         Intel's cookie practices on Intel websites.
         
-    *   Intel Public Policy:...
+    *   FAQs: Online Privacy
         
-        Intel works with governments worldwide to help shape progressive, practical environment and energy...  
-        Preview | Download
+        Intel® Online Privacy Notice Frequently Asked Questions (FAQs)
         
-    *   Intel Public Policy:...
+    *   Intel Export Compliance
         
-        Trade agreements, rules that facilitate commerce between countries, expand access of technology industry.  
-        Preview | Download
+        Intel export compliance adheres with business, laws, and regulations that govern trade.
         
     
     *   Technology for the Home
