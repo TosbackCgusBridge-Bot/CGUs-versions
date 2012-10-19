@@ -262,7 +262,11 @@ Contact us
 *   *   Advertising guide
     *   License/buy our content
 
-Article history About this article Privacy policy This article was published on guardian.co.uk at 13.00 EDT on Saturday 23 July 2011. It was last modified at 09.57 EDT on Friday 14 September 2012. It was first published at 11.35 EDT on Thursday 18 March 2010. Information
+Article history About this article
+
+**Privacy policy**
+
+This article was published on guardian.co.uk at 13.00 EDT on Saturday 23 July 2011. It was last modified at 09.57 EDT on Friday 14 September 2012. It was first published at 11.35 EDT on Thursday 18 March 2010. Information
 
 *   Privacy
 
@@ -288,19 +292,19 @@ On guardian.co.uk
 Last 24 hours
 
 1.  1.  **Politics:** Nick Griffin posts address of B&B case gay couple online
-2.  2\. **Technology:** Google shares suspended after accidental email wipes $22bn off value
-3.  3\. **Fashion:** Abercrombie &. Fitch boss's jet rules: wear flip-flops and play Phil Collins
-4.  4\. **Politics:** George Galloway's PA, her police officer husband and claims of 'dirty tricks'
-5.  5\. **Society:** Couple who helped Kenyan village with cannabis profits jailed
+2.  2\. **Media:** Kerry Katona: traumatised by Jimmy Savile looking at her 'in a pervy way'
+3.  3\. **Technology:** Google shares suspended after accidental email wipes $22bn off value
+4.  4\. **Football:** Serbian FA appears to post video accusing Danny Rose of lying
+5.  5\. **Fashion:** Abercrombie &. Fitch boss's jet rules: wear flip-flops and play Phil Collins
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Money:** Energy firms to be forced to tell customers of cheapest tariff
-2.  **Business:** Eurozone crisis: EU summit day two - live
-3.  **Technology:** Google and Samsung launch Chromebook laptop
-4.  **Travel:** James Bond on location: 007 holiday destinations– in pictures
-5.  **Politics:** MPs' expenses: Commons Speaker warns against naming landlords - video
+1.  **Comment:** The stats quiz that tests your vulnerability to spin
+2.  **Stage:** Dara Ó Briain – review
+3.  **Travel:** James Bond on location: 007 holiday destinations– in pictures
+4.  **Science:** Meteor breaks up over San Jose - video
+5.  **Money:** Energy firms to be forced to tell customers of cheapest tariff
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -308,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Reading group: Transported by Saint-Exupéry
-2.  2\. Syria conflict: Brahimi takes ceasefire plan to Damascus - live updates
-3.  3\. Government borrowing lower than expected
-4.  4\. Picture desk live: the best news pictures of the day
-5.  5\. Removed video
+1.  1.  Nato debate at SNP conference: Politics live blog
+2.  2\. Anniversary of Gaddafi's death: Is Libya better or worse off? Open thread
+3.  3\. David Cameron begins battle over Britain's relationship with EU
+4.  4\. Queens Park Rangers v Everton: Squad sheets
+5.  5\. Picture desk live: the best news pictures of the day
 6.  All today's stories
 
 On the Guardian today
 
-1.  Comment is free 'Binders full of women' reconsider voting for Mitt Romney
-2.  World news Mitt Romney tells business leaders: put pressure on employees - US politics live
-3.  Comment is free Billy Graham's lurch towards Mitt Romney risks his legacy
-4.  World news Greek poverty so bad families 'can no longer afford to bury their dead'
-5.  Life and style Mapping the body: the temple
-6.  Film Emmanuelle actor Sylvia Kristel dies
+1.  Life and style Mapping the body: the temple
+2.  World news Koch-backed activists use power of data in bid to oust Obama from White House
+3.  World news Greek poverty so bad families 'can no longer afford to bury their dead'
+4.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+5.  Film Sylvia Kristel obituary
+6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
 
 *   License/buy our content
 |*   Privacy policy
