@@ -287,20 +287,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Culture:** Much Ado About Nothing – review
-2.  2\. **News:** Obama steps up criticism of Romney in battle for women voters
-3.  3\. **News:** Dozens of Spitfire planes to be excavated in Burma
-4.  4\. **News:** Police Taser blind man mistaking his white stick for a samurai sword
-5.  5\. **Life &. style:** How to cook perfect hash browns
+1.  1.  **Politics:** Nick Griffin posts address of B&B case gay couple online
+2.  2\. **Technology:** Google shares suspended after accidental email wipes $22bn off value
+3.  3\. **Fashion:** Abercrombie &. Fitch boss's jet rules: wear flip-flops and play Phil Collins
+4.  4\. **Politics:** George Galloway's PA, her police officer husband and claims of 'dirty tricks'
+5.  5\. **Society:** Couple who helped Kenyan village with cannabis profits jailed
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Business:** Clashes at Greek general strike as EU leaders gather for Brussels summit - live
-2.  **Law:** Human trafficking to UK is rising
-3.  **Politics:** Energy price row and MPs' expenses - politics live
-4.  **Art &. design:** The most endangered buildings in England and Wales - in pictures
-5.  **Life &. style:** How to cook perfect hash browns
+1.  **Money:** Energy firms to be forced to tell customers of cheapest tariff
+2.  **Business:** Eurozone crisis: EU summit day two - live
+3.  **Technology:** Google and Samsung launch Chromebook laptop
+4.  **Travel:** James Bond on location: 007 holiday destinations– in pictures
+5.  **Politics:** MPs' expenses: Commons Speaker warns against naming landlords - video
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -308,21 +308,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Portrait photographs of the 100-up club
-2.  2\. The Guinea Pig Club – review
-3.  3\. Bahrain charges four men with insulting king
-4.  4\. Restoring the balance of power over online data privacy
-5.  5\. Clashes at Greek general strike as EU leaders gather for Brussels summit - live
+1.  1.  Reading group: Transported by Saint-Exupéry
+2.  2\. Syria conflict: Brahimi takes ceasefire plan to Damascus - live updates
+3.  3\. Government borrowing lower than expected
+4.  4\. Picture desk live: the best news pictures of the day
+5.  5\. Removed video
 6.  All today's stories
 
 On the Guardian today
 
-1.  Life and style Mapping the body: the temple
-2.  Comment is free 'Binders full of women' reconsider voting for Mitt Romney
-3.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-4.  Comment is free Iran sanctions now causing food insecurity, mass suffering
-5.  Football Barcelona and Real Madrid draw El Clásico thriller at Camp Nou
-6.  Sport Nike drops deal with Lance Armstrong after he 'misled us for a decade'
+1.  Comment is free 'Binders full of women' reconsider voting for Mitt Romney
+2.  World news Mitt Romney tells business leaders: put pressure on employees - US politics live
+3.  Comment is free Billy Graham's lurch towards Mitt Romney risks his legacy
+4.  World news Greek poverty so bad families 'can no longer afford to bury their dead'
+5.  Life and style Mapping the body: the temple
+6.  Film Emmanuelle actor Sylvia Kristel dies
 
 *   License/buy our content
 |*   Privacy policy
