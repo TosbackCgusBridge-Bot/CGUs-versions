@@ -66,17 +66,21 @@ Yukon Men
 
 VIDEO FULL EPISODES play
 
+Jungle Gold
+
+Sneak Peek
+
 Gold Rush
 
-Revelations
+The Long Road
 
 Yukon Men
 
-Logjam
+Wheel of Misfortune
 
 American Chopper
 
-Uncharted Territory
+Junior's Surprise
 
 MORE VIDEO
 
@@ -324,21 +328,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
+What Makes Earth So Perfect for Life?
+
+Yum! Curiosity Eats Mars Dirt
+
+Shot Pakistani Girl Stands: DNews Nugget
+
+Old Dams Hold a Toxic Legacy
+
+Redefining Misogyny: DNews Nugget
+
 Digging into a Weird Stellar Spiral
 
 Satellite Photos Reveal Heavy Guns In Syria
 
 The Virgin Mary At A Car Wash: DNews Nuggets
-
-Digital Fingerprints for Art Could Thwart Heists
-
-History of Mummification: Gotta-See Video
-
-Witness to Lincoln Shooting: Gotta-See Video
-
-Excellent Idea of the Day: Silk for Implants
-
-Costa Concordia: World's Biggest Ship Salvage
 
   facebook share0 Tweet Privacy Policy  
 
@@ -545,31 +549,35 @@ Email: privacy\_policy@discovery.com
 Last Updated On: Wednesday, August 19, 2010
 
 facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 19,  
-7:00 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 19,  
-7:30 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 19,  
-8:00 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 19,  
-8:30 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 19,  
 9:00 am  
 60 min(s)  
 **The FBI Files**  
 _Killer Instinct_  
  After a series of violent carjackings in 1992 in the Washington,  
+Oct 19,  
+10:00 am  
+60 min(s)  
+**The FBI Files**  
+_Brotherhood of Hate_  
+ In 1984, a state trooper pulled a van over and was shot dead by t  
+Oct 19,  
+11:00 am  
+60 min(s)  
+**The New Detectives**  
+_Crimes of Passion_  
+ Some murderers kill for money. others simply to dominate. But wh  
+Oct 19,  
+12:00 pm  
+60 min(s)  
+**The New Detectives**  
+_Lethal Encounter_  
+ In most cases, the killer and victim share a personal history. B  
+Oct 19,  
+1:00 pm  
+60 min(s)  
+**Yukon Men**  
+_Going for Broke_  
+ It's the end of trapping season and the final push is on. Charlie  
 **More Listings »**   Shop Discovery Store      
 
 our sites
