@@ -1,5 +1,5 @@
   
-Users Online Now: **1,773** (Who's On?) Visitors Today: **404,003** Pageviews Today: **655,541** Threads Today: **368** Posts Today: **4,618** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **2,290** (Who's On?) Visitors Today: **516,812** Pageviews Today: **887,653** Threads Today: **492** Posts Today: **7,096** 11:00 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,7 @@ trinity@godlikeproductions.com
   
 News
 
+*   Pa man calls police: BigFoot smashed windows and tail lights on his motor home
 *   New DHS Program Wants to See If Your Hand Sanitizer Explodes
 *   Federal Gov’t Funding Police Spotters on Overpasses in Two States
 *   The Search for Sasquatch Continues — With a Silent Airship
@@ -136,7 +137,6 @@ News
 *   Policeman mistakes blind man's stick for Samurai sword
 *   Hollywood's Hysterical "Cancer Screening" Lie for Obama
 *   AT&T Starts Six-Strikes Anti-Piracy Plan Next Month, Will Block Websites
-*   New version of Flame virus uncovered: researchers
 
   
   
@@ -147,4 +147,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.019s (0 queries)
+Page generated in 0.015s (0 queries)
