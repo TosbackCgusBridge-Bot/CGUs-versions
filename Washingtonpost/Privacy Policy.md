@@ -23,8 +23,8 @@
     
     Blogs &. Columns
     
-    *   **Spin cycle on in Ohio for Obama...**  
-        Election 2012 | Amy Gardner
+    *   **Ad watch: Mitt Romney touts bipartisanship**  
+        Election 2012 | Rachel Weiner
     
     *   **Obamaâs claim that Romney wants...**  
         The Fact Checker | Glenn Kessler
@@ -49,13 +49,13 @@
     *   **Against the undecided voter**  
         ComPost | Alexandra Petri
     
-    *   **Happy Hour Roundup**  
-        The Plum Line | Jonathan Bernstein
+    *   **The Morning Plum**  
+        The Plum Line | Greg Sargent
     
-    *   **Fridayâs p-Op quiz**  
+    *   **DOMA is doomed**  
         PostPartisan | Jonathan Capehart
     
-    *   **Morning Bits**  
+    *   **Exclusive Interview: Beth Myers**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,14 +72,14 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Warm with showers...**  
-        Capital Weather Gang | A. Camden Walker
+    *   **Bits of Comet Halley: This yearâs...**  
+        Capital Weather Gang | Blaine Friedlander
     
-    *   **âAlex Crossâ and more new movies**  
-        Going Out Gurus | Jess Righthand
+    *   **Inside Toki Underground with chef...**  
+        Going Out Gurus | Justin Rude
     
-    *   **Prince Georgeâs police officer...**  
-        Crime Scene | Matt Zapotosky
+    *   **Minor injuries for 10 after morning...**  
+        Crime Scene | Justin Jouvenal
     
     *   **Allen, Kaine face off in last debate**  
         Virginia Politics | Washington Post Staff
@@ -103,8 +103,8 @@
     *   **Adam Carriker dresses like Goldberg...**  
         DC Sports Bog | Sarah Kogod
     
-    *   **Stats show Robert Griffin III at...**  
-        The Insider | Mike Jones
+    *   **Redskins fans, do you fear the...**  
+        The Insider | Keith McMillan
     
     *   **Nationals bench coach Randy Knorr...**  
         Nationals Journal | Adam Kilgore
@@ -145,7 +145,10 @@
     
     Blogs &. Columns
     
-    *   **Visual music: How âGangnam Styleâ...**  
+    *   **Who Smokes Most: A surprising map...**  
+        WorldViews | Max Fisher
+    
+    *   **How âGangnam Styleâ exploited K-popâs...**  
         WorldViews | Max Fisher
     
     *   **A Syrian air force pilot explains...**  
@@ -153,9 +156,6 @@
     
     *   **Benghaziâs overlooked lesson: The...**  
         WorldViews | Max Fisher
-    
-    *   **Salafists destroy ancient carvings...**  
-        WorldViews | Olga Khazan
 *   Business In Business
     
     *   Economy
@@ -179,8 +179,8 @@
     *   **The judicial jihad against the...**  
         Steven Pearlstein
     
-    *   **Wonkbook: Whatâs $125 billion in...**  
-        Wonkblog | Ezra Klein
+    *   **What the election means for health...**  
+        Wonkblog | Sarah Kliff
 *   Tech In Technology
     
     *   Policy
@@ -191,8 +191,8 @@
     
     Blogs &. Columns
     
-    *   **Google stock falls after earnings...**  
-        Craig Timberg and Hayley Tsukayama
+    *   **Apple âiPad miniâ: Place your bets...**  
+        Hayley Tsukayama
     
     *   **Apple, Samsung continue worldwide...**  
         Post Tech | Hayley Tsukayama
@@ -211,8 +211,8 @@
     
     Blogs &. Columns
     
-    *   **Sidwell Friends senior on âChoppedâ**  
-        All We Can Eat | Megan McDonough
+    *   **Asian eggplant in hand, recipe...**  
+        All We Can Eat | Edward Schneider
     
     *   **âHello Dollyâ casting announced...**  
         The Style Blog | Peter Marks
@@ -240,10 +240,10 @@
     *   **Art: Two Lichtenstein retrospectives**  
         Classical Beat | Anne Midgette
     
-    *   **Did Joaquin Phoenix knock himself...**  
+    *   **Civil lawsuit against Britney Spearsâs...**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **First Lady visits âLive with Kelly...**  
+    *   **Michelle Obama answers âboxers...**  
         The TV Column | Lisa de Moraes
     
     *   **Obama v. Romney, Round 2**  
@@ -266,8 +266,8 @@
 
 In the News
 
-*   Euro banks regulator
-*   Newsweek
+*   Tom Hanks
+*   iPad mini
 *   Tigers in Series
 *   Obama on âDaily Showâ
 
@@ -322,82 +322,78 @@ The great gaffe
 
 Charles Krauthammer 
 
-Obama, Romney playfully roast each other at Alfred E. Smith Dinner Rick Santorum, with 'tingles down my spine,' can smell a GOP sweep CIA seeks to expand drone fleet, officials say
+Candidates take a break to trade jokes Mitt Romney doesn't have a woman problem â at least not yet About that Gallup poll: Is Romney really up by 7? And will Obama win the election anyway? Obamaâs claim that Romney wants to boost defense spending by $2 trillion
+
+Glenn Kessler 
+
+CIA seeks to expand drone fleet, officials say
 
 Greg Miller 
 
-Fact checking Romneyâs âbinders full of womenâ anecdote
-
-Josh Hicks 
-
-Ann Romney: If Mitt loses, we're done On âDaily Show with Jon Stewart,â Obama defends Libya response, jokes about Biden
+On âDaily Show with Jon Stewart,â Obama defends Libya response, jokes about Biden
 
 David Nakamura 
 
-Todd Akin's third quarter fundraising pace lags behind Claire McCaskill's Officials: Obama ready to veto a bill blocking âfiscal cliffâ without tax hike for rich
-
-Lori Montgomery 
-
-Mitt Romney doesn't have a woman problem â at least not yet President Obama tells Jon Stewart that first debate was an âoff nightâ
-
-Lisa De Moraes 
-
-Shiite protests pose major challenge for Saudi Arabia
-
-Kevin Sullivan 
-
-CEOs warn Obama, Congress to avoid âfiscal cliffâ
+Rick Santorum, with 'tingles down my spine,' can smell a GOP sweep Ann Romney: If Mitt loses, we're done CEOs warn Obama, Congress to avoid âfiscal cliffâ
 
 Zachary A. Goldfarb 
-
-Ann Romney discusses abortion views on âThe Viewâ
-
-Lisa De Moraes 
 
 Why the chill on climate change?
 
 Eugene Robinson 
 
+Truly Good Mothers and a Fifties Dad
+
+Ruth Marcus 
+
 Mr. Romneyâs defense budget: It doesnât add up
 
 Editorial Board 
 
-Truly Good Mothers and a Fifties Dad
+Shiite protests pose major challenge for Saudi Arabia
 
-Ruth Marcus 
+Kevin Sullivan 
+
+Why you should pay attention to the Bureau of Labor Statistics today DOMA is doomed
+
+Jonathan Capehart 
 
 Liberalismâs shrinking agenda
 
 Michael Gerson 
 
-Find a way to block ârobo-callsâ and win $50K from the FTC
+Redskins 1987 replacement star Tony Robinson just happy to be out of jail
 
-Craig Timberg 
+Desmond Bieler 
 
-Boy Scout âperversion filesâ released
+For Obama and Romney, small New Hampshire could have a big impact
 
-Paul Duggan 
+Dan Balz 
+
+Officials: Obama ready to veto a bill blocking âfiscal cliffâ without tax hike for rich
+
+Lori Montgomery 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
     1.  The great gaffe
-    2.  Obama, Romney playfully roast each other at Alfred E. Smith Dinner
-    3.  Rick Santorum, with 'tingles down my spine,' can smell a GOP sweep
-    4.  CIA seeks to expand drone fleet, officials say
-    5.  Romney's 'binders full of women' story
+    2.  Candidates take a break to trade jokes
+    3.  Mitt Romney doesn't have a woman problem â at least not yet
+    4.  About that Gallup poll: Is Romney really up by 7? And will Obama win the election anyway?
+    5.  Obama's claim that Romney wants to boost defense spending by $2 trillion
 *   Top Videos
     1.  Bruce Springsteen endorses Obama with song
     2.  Bill Clinton: Mitt Romney 'thinks we're dumb'
     3.  iPad Mini: The Sasquatch of the tech world?
     4.  Lance Armstrong resigns from Livestrong
-    5.  Another Romney binder
+    5.  President Obama: Mitt Romney 'whiffed' on explaining tax plan
 *   Top Galleries
     1.  Newsweek covers through the years
     2.  Body of late King Norodom Sihanouk returns from China
     3.  Creative costumes for kids
     4.  A first look at the Cuban missile crisis
-    5.  Obama campaigns after the second debate
+    5.  Romney campaigns after the second debate
 
 Today's Paper
 
