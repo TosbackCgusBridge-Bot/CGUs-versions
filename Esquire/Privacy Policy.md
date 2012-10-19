@@ -33,35 +33,36 @@ We talk to the lovely former Cheryl David
 
 *   _Walking Dead_'s New Hero on What's Ahead for Season 3
 
-Style The Man Who Re-Invented the Trench Goes for Watches
+Style The Varsity Jacket Meets the Navy Blazer
 
-A profile of Burberry designer Christopher Bailey
+Get this collaboration between one of our favorite stores and the Japanese brand SHIPS while it lasts
 
-*   Binders Full of Style, Not Women
+*   The State of Plaid, with Nick Sullivan
 
-*   The Debate Ties: Something We Can Agree Upon, and Even Buy
+*   The Man Who Re-Invented the Trench Goes for Watches
 
-*   Cardigans to Buy Online Now
+*   Actual Binders Full of Actual  
+    Style  Not Full of Women
 
-News &. Politics Stephen Marche on the Rise of the Postracial Elite
+News &. Politics Mark Warren on Dinesh D'Souza, Lady's Man
 
-The most influential, wealthiest, American families are no longer white. They are "all of the above."
+The famous moralist and overall terrible person is forced to resign amid scandal. Thank God.
 
-*   Tom Cruise as Jack Reacher: Trailer Review
+*   This Week in the Laboratories of Democracy
 
-*   Charles P. Pierce: Why the Debates Ignored Climate Change
+*   Charles P. Pierce on Today's Yemen Drone Strike
 
-*   Pierce in the Debate Spin Room: Romney, Beyond the Binders
+*   Stephen Marche on Why We Need Nate Silver So Badly This Election
 
-Food &. Drink Obama Wins Election According to Food
+Food &. Drink The Gut-Bust-o-Matic, with Velveeta-Stuffed Donuts
 
-Results of the ridiculous 7-Eleven poll and others
+Take it for a spin
 
-*   The Marilyn Monroe Diet, with Lots of Protein
+*   What's New in Beer at the Great American Beer Fest
 
-*   New Refreshing Beer Cocktail
+*   The Yelp Fake Review-Shaming Sting
 
-*   Introducing KFC's 'Dude Food Etiquette'
+*   The Eat Like a Man Poll Results Are In: Your Favorite Pizza Is...
 
 Women
 
