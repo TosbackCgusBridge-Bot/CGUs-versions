@@ -382,6 +382,11 @@ Ventura County Star
 *   Cars
 *   Classified
 
+*   Today
+    
+    Multi-sensory play |  10 to Know |  **Your Community, the way you see it** |  Matchup videos
+    
+
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -634,17 +639,17 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 292 comments
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 296 comments
+*   County agrees to $3.2 million settlement in case involving speeding deputy Published 10/18/2012 at 6:42 p.m. 24 comments
 *   If Proposition 30 fails, Oxnard College athletics could be on chopping block Updated 10/17/2012 at 8:13 p.m. 75 comments
-*   Scores of dogs seized from Simi Valley home now up for adoption Updated 10/17/2012 at 7:16 p.m. 13 comments
-*   County agrees to $3.2 million settlement in case involving speeding deputy Published 10/18/2012 at 6:42 p.m. 13 comments
-*   Villanova cancels remainder of football season Published 10/17/2012 at 2:37 p.m. 13 comments
+*   Scores of dogs seized from Simi Valley home now up for adoption Updated 10/17/2012 at 7:16 p.m. 14 comments
+*   Oaks Christian might have broken football recruitment rules – Video Published 10/18/2012 at 2:53 p.m.
 
 Photo Galleries Chaotic shooting rattles La Colonia… Scores of dogs seized from Simi… High school bands battle it out
 
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 292 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 296 comments
 *   Morning chat Published 10/17/2012 at 12:00 a.m. 111 comments
-*   Morning chat Published 10/18/2012 at 12:00 a.m. 79 comments
+*   Morning chat Published 10/18/2012 at 12:00 a.m. 84 comments
 *   If Proposition 30 fails, Oxnard College athletics could be on chopping block Published 10/17/2012 at 5:19 p.m. 75 comments
 *   Morning chat Published 10/16/2012 at 12:00 a.m. 55 comments
 
@@ -652,7 +657,7 @@ Photo Galleries Chaotic shooting rattles La Colonia… Scores of dogs seized fro
 *   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 40 comments
 *   2 dead after Oxnard police trade gunfire with men Published 10/14/2012 at 2:57 p.m. 0 comments
 *   Firefighters battle Lookout Fire near Santa Barbara that threatened about 100 homes Published 10/17/2012 at 10:01 a.m. 0 comments
-*   Chumash looking to acquire portion of Santa Susana Field Lab Published 10/15/2012 at 6:17 p.m. 19 comments
+*   Scores of dogs seized from Simi Valley home now up for adoption Published 10/17/2012 at 5:35 p.m. 14 comments
 
 Weather
 
@@ -660,23 +665,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 61° Fair Wind: N 4mph Today 74° 60° Fri 05:00 PM Fog Temp: 70° Sat 05:00 AM Dreary Temp: 58° Sat 05:00 PM Fog Temp: 65°
+Currently 60° Fair Wind: NW 5mph Today 74° 58° Fri 08:00 PM Fog Temp: 64° Sat 08:00 AM Dreary Temp: 59° Sat 08:00 PM Fog Temp: 61°
 
-Feels Like: 70°
+Feels Like: 64°
 
-Humidity: 81%
-
-Precip: 3%
-
-Feels Like: 58°
-
-Humidity: 100%
+Humidity: 97%
 
 Precip: 11%
 
-Feels Like: 65°
+Feels Like: 59°
 
-Humidity: 94%
+Humidity: 96%
+
+Precip: 11%
+
+Feels Like: 61°
+
+Humidity: 100%
 
 Precip: 11%
 
