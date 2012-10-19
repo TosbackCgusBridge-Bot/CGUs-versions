@@ -113,129 +113,125 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/18/2012 7:02 AM ET
+Updated: 10/19/2012 7:02 AM ET
 
-1.  1 Obama, Romney campaign for debate spin win
-2.  2 Allen West plagued by scam PACs
-3.  3 Obama gets more time
-4.  4 VP debate transcript
-5.  5 Obama cedes the future to Romney
-6.  6 Ryan explains 'binders full of women'
-7.  7 DNC tax hit draws nearly 2 million
-8.  8 6 takeaways from the debate
-9.  9 Debate questioner: Obama gave me private Libya answer
-10.  10 GOP's problems exposed in Senate struggle
+1.  1 Clinton trashes whiners
+2.  2 Mitchell: Men at MSNBC make more money
+3.  3 Beckel: 'It is over' for Obama if poll is true
+4.  4 Tiny N.H. could punch above weight
+5.  5 Soledad O'Brien: Obama 'up 15' in Virginia
+6.  6 Romney and Obama yuk it up
+7.  7 Ann corrects Whoopi on LDS
+8.  8 Obama cedes the future to Romney
+9.  9 GOP's problems exposed in Senate
+10.  10 Obama on Libya: 'We weren't confused,' deaths weren't 'optimal'
 
-Updated: 10/18/2012 7:02 AM ET
+Updated: 10/19/2012 7:02 AM ET
 
-1.  1 Obama gets more time
-2.  2 6 takeaways from the debate
-3.  3 'Binders full of women' spreads
-4.  4 Debate gets to the guts of the race
-5.  5 Fact-checking the debate
-6.  6 Allen West plagued by scam PACs
-7.  7 Who won the debate?
-8.  8 Ryan explains 'binders full of women'
-9.  9 FLOTUS: 'Barack doesn't have a big ego'
-10.  10 Hofstra debate transcript
+1.  1 Clinton trashes whiners
+2.  2 GOP's problems exposed in Senate
+3.  3 Soledad O'Brien: Obama 'up 15' in Virginia
+4.  4 Mitchell: Men at MSNBC make more money
+5.  5 Obama's daughters' school evacuated
+6.  6 Obama cedes the future to Romney
+7.  7 Tagg jokes about 'swing' at Obama
+8.  8 Ann corrects Whoopi on LDS
+9.  9 Beckel: 'It is over' for Obama if poll is true
+10.  10 Tiny N.H. could punch above weight
 
-Updated: 10/18/2012 7:02 AM ET
+Updated: 10/19/2012 7:02 AM ET
 
-1.  1 Obama gets more time
-2.  2 Candy Crowley to defy debate contract
+1.  1 Clinton trashes whiners
+2.  2 Obama gets more time
 3.  3 6 takeaways from the debate
-4.  4 Fight night on Long Island
-5.  5 Who won the debate?
-6.  6 FLOTUS: 'Barack doesn't have a big ego'
-7.  7 'Binders full of women' spreads
-8.  8 CPD: Crowley shouldn't reinterpret questions
-9.  9 Debate gets to the guts of the race
-10.  10 VP debate transcript
+4.  4 GOP's problems exposed in Senate
+5.  5 Soledad O'Brien: Obama 'up 15' in Virginia
+6.  6 Mitchell: Men at MSNBC make more money
+7.  7 Obama's daughters' school evacuated
+8.  8 Obama cedes the future to Romney
+9.  9 'Binders full of women' spreads
+10.  10 Allen West plagued by scam PACs
 
-Updated: 10/18/2012 7:02 AM ET
+Updated: 10/19/2012 7:02 AM ET
 
-1.  1 Twitter frowns on Joe Biden's laugh
-2.  2 CPD: Crowley shouldn't reinterpret questions
+1.  1 CPD: Crowley shouldn't reinterpret questions
+2.  2 Clinton trashes whiners
 3.  3 Obama gets more time
 4.  4 Candy Crowley to defy debate contract
-5.  5 Paul Ryan pics spark dumbbell debate
+5.  5 Twitter frowns on Joe Biden's laugh
 6.  6 Crowley: 'I'm not a fly on the wall'
-7.  7 VP debate transcript
-8.  8 6 takeaways from the debate
-9.  9 Fight night on Long Island
-10.  10 Conservatives target Catholic voters
+7.  7 6 takeaways from the debate
+8.  8 VP debate transcript
+9.  9 GOP's problems exposed in Senate
+10.  10 Soledad O'Brien: Obama 'up 15' in Virginia
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/18/2012 7:02 AM ET
+Updated: 10/19/2012 7:02 AM ET
 
-1.  1 Tagg jokes about 'swing' at Obama
-2.  2 Time for a new approach on Cuba
-3.  3 Obama cedes the future to Romney
-4.  4 GOP's problems exposed in Senate struggle
-5.  5 McGovern 'no longer responsive'
-6.  6 Debt up for new college grads
-7.  7 Discrimination, harassment claims spike on Hill
-8.  8 Capitol a calamity for the disabled
-9.  9 Roberts: Top court not ideological
-10.  10 Obama, Romney campaign for debate spin win
+1.  1 Clean Water Act still essential
+2.  2 POLITICO's political puppetry
+3.  3 Playing to donors, GOP groups spill secrets
+4.  4 Obama, Romney win laughs at dinner
+5.  5 Akin, McCaskill testy in final debate
+6.  6 Romney and Obama yuk it up
 
-Updated: 10/18/2012 7:02 AM ET
+Updated: 10/19/2012 7:02 AM ET
 
-1.  1 Tagg jokes about 'swing' at Obama
-2.  2 Time for a new approach on Cuba
-3.  3 Obama cedes the future to Romney
-4.  4 GOP's problems exposed in Senate struggle
-5.  5 McGovern 'no longer responsive'
-6.  6 Debt up for new college grads
-7.  7 Discrimination, harassment claims spike on Hill
-8.  8 Capitol a calamity for the disabled
-9.  9 Roberts: Top court not ideological
-10.  10 Obama, Romney campaign for debate spin win
+1.  1 Clean Water Act still essential
+2.  2 POLITICO's political puppetry
+3.  3 Playing to donors, GOP groups spill secrets
+4.  4 Obama, Romney win laughs at dinner
+5.  5 Akin, McCaskill testy in final debate
+6.  6 Romney and Obama yuk it up
+7.  7 Tiny N.H. could punch above weight
+8.  8 Beckel: 'It is over' for Obama if poll is true
+9.  9 Grant to help catch texting drivers
+10.  10 Molotov cocktail tossed at Va. mall
 
-Updated: 10/18/2012 7:02 AM ET
+Updated: 10/19/2012 7:02 AM ET
 
-1.  1 Tagg jokes about 'swing' at Obama
-2.  2 Time for a new approach on Cuba
-3.  3 Obama cedes the future to Romney
-4.  4 GOP's problems exposed in Senate struggle
-5.  5 McGovern 'no longer responsive'
-6.  6 Debt up for new college grads
-7.  7 Discrimination, harassment claims spike on Hill
-8.  8 Capitol a calamity for the disabled
-9.  9 Roberts: Top court not ideological
-10.  10 Obama, Romney campaign for debate spin win
+1.  1 Clean Water Act still essential
+2.  2 POLITICO's political puppetry
+3.  3 Playing to donors, GOP groups spill secrets
+4.  4 Obama, Romney win laughs at dinner
+5.  5 Akin, McCaskill testy in final debate
+6.  6 Romney and Obama yuk it up
+7.  7 Tiny N.H. could punch above weight
+8.  8 Beckel: 'It is over' for Obama if poll is true
+9.  9 Grant to help catch texting drivers
+10.  10 Molotov cocktail tossed at Va. mall
 
-Updated: 10/18/2012 7:02 AM ET
+Updated: 10/19/2012 7:02 AM ET
 
-1.  1 Tagg jokes about 'swing' at Obama
-2.  2 Time for a new approach on Cuba
-3.  3 Obama cedes the future to Romney
-4.  4 GOP's problems exposed in Senate struggle
-5.  5 McGovern 'no longer responsive'
-6.  6 Debt up for new college grads
-7.  7 Discrimination, harassment claims spike on Hill
-8.  8 Capitol a calamity for the disabled
-9.  9 Roberts: Top court not ideological
-10.  10 Obama, Romney campaign for debate spin win
+1.  1 Clean Water Act still essential
+2.  2 POLITICO's political puppetry
+3.  3 Playing to donors, GOP groups spill secrets
+4.  4 Obama, Romney win laughs at dinner
+5.  5 Akin, McCaskill testy in final debate
+6.  6 Romney and Obama yuk it up
+7.  7 Tiny N.H. could punch above weight
+8.  8 Beckel: 'It is over' for Obama if poll is true
+9.  9 Grant to help catch texting drivers
+10.  10 Molotov cocktail tossed at Va. mall
 
 Showing Last 7 Days
 
-Updated: 10/18/2012 7:02 AM ET
+Updated: 10/19/2012 7:02 AM ET
 
-1.  1 6 takeaways from the debate
-2.  2 Fight night on Long Island
-3.  3 5 unmet Obama promises
-4.  4 5 things to watch at the debate
-5.  5 Crowley: 'I'm not a fly on the wall'
-6.  6 Obama's slippery foreign oil promise
-7.  7 Rand Paul goes national
-8.  8 7 takeaways from the Danville debate
-9.  9 Joltin' Joe Biden wins the bout
-10.  10 5 things to watch in VP debate
+1.  1 GOP's problems exposed in Senate
+2.  2 The campaign for debate spin win
+3.  3 6 takeaways from the debate
+4.  4 Fight night on Long Island
+5.  5 5 unmet Obama promises
+6.  6 5 things to watch at the debate
+7.  7 Crowley: 'I'm not a fly on the wall'
+8.  8 Obama's slippery foreign oil promise
+9.  9 Rand Paul goes national
+10.  10 7 takeaways from the Danville debate
 
 News
 
