@@ -49,7 +49,6 @@ Search
 *   Welcome
 *   About Me
 *   Write a Review
-*   Find Reviews
 *   Find Friends
 *   Messaging
 *   Talk
