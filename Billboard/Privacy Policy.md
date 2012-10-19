@@ -29,11 +29,15 @@ All Charts Previous
     
     Mumford &. Sons top again
     
-*   R&B Songs 
+*   Dance/Club Songs 
     
-    Rihanna shines bright
+    Mariah Carey is 'Triumphant'
     
-*   Country Songs 
+*   R&B/Hip-Hop Airplay 
+    
+    Miguel takes the lead
+    
+*   Digital Songs 
     
     Taylor Swift rocks
     
@@ -41,25 +45,21 @@ All Charts Previous
     
     PSY rules with 'Style'
     
-*   Rap Albums 
+*   R&B Songs 
     
-    Kanye's GOOD Music tops
+    Rihanna shines bright
     
-*   Adult Pop Songs 
+*   Digital Albums 
     
-    P!nk's 'Blow Me' is No. 1
-    
-*   R&B/Hip-Hop Albums 
-    
-    Miguel takes the lead
-    
-*   Digital Songs 
-    
-    One Direction debuts
+    Macklemore &. Ryan Lewis debut
     
 *   Dance/Electronic Albums 
     
     Deadmau5's album 'Goes Here'
+    
+*   Ringtones 
+    
+    Flo Rida whistles to No. 1
     
 
 Next Subscribe Site Feedback Follow @billboard
@@ -84,29 +84,29 @@ Please make sure javascript is enabled in your browser homepage Billboard - Musi
 
 previous 14/14
 
+*   3BallMTY Dominate Billboard Mexican Music Awards
+    
+    Along with Artist of the Year Gerardo Ortiz, the edgy trio owned this year's ceremony, which aired live on Thursday night. Read all about 3BallMTY's nine wins and more from the Billboard event.
+    
+*   Taylor Swift's Top 10 Career Moments
+    
+    On the eve of "Red's" release, Billboard takes a look back at the defining moments of Taylor Swift's career, from her first single to her biggest sales week. She has had a career full of unforgettable highlights -- here are 10 of the biggest.
+    
 *   Eminem's 30 Biggest Billboard Hits
     
     Happy 40th Birthday, Eminem! And because 40 is the new 30, we're celebrating Em's birthday by ranking his 30 biggest Hot 100 hits.
+    
+*   Photos of the Week
+    
+    Katy Perry hangs out with John Mayer, PSY and Hugh Jackman learn to dance "Gangnam Style" the Wolverine way, Bruno Mars poses with the Fonz, Usher parties at George Michael's birthday, Rihanna covers Vogue, and more. See the week's best pics!
     
 *   Beyonce's Super Bowl Setlist Poll
     
     With Queen Bey set to rock the halftime show of Super Bowl XLVII, it's time to think about which smash singles she might perform. What would be the ideal setlist? Vote now!
     
-*   Photos of the Week
-    
-    PSY and Hugh Jackman learn to dance "Gangnam Style" the Wolverine way, Bruno Mars hangs out with the Fonz, Usher parties at George Michael's birthday, Rihanna covers Vogue, and more. See the week's best pics!
-    
 *   Ke$ha: The Billboard Cover Story
     
     With "Die Young" gaining love from radio and new album "Warrior" set to hit in December, Ke$ha is back.
-    
-*   Jason Aldean Live Q&A
-    
-    Right before Jason Aldean unleashes his brand new album "Night Train," the country hitmaker was at Billboard for a Live Q&A to talk about the new music and answer your questions live on camera.
-    
-*   Bruno, Kelly, Adele: Whose Single Is Best?
-    
-    The past two weeks have seen Bruno Mars, Kelly Clarkson and Adele unveil high-profile pop singles. But which tune is the cream of the fourth-quarter crop? Vote now and sound off on this pop battle!
     
 
 Video
