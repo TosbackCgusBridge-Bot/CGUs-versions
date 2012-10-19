@@ -13,103 +13,103 @@ PGA Tour
 The McGladrey Classic View Leaderboard >.
 
 *   T1
-*   G.Christian
-*   \-1
-*   2
+*   B.Cauley
+*   \-8
+*   \-
 
 *   T1
-*   B.Bryant
-*   \-1
+*   M.Dawson
+*   \-8
+*   \-
+
+*   T3
+*   G.Owen
+*   \-6
+*   \-
+
+*   T3
+*   R.Pampling
+*   \-6
+*   \-
+
+*   T3
+*   B.Weekley
+*   \-6
+*   \-
+
+*   T6
+*   J.Durant
+*   \-5
 *   1
 
-*   T1
-*   M.Goggin
-*   \-1
-*   1
-
-*   T4
-*   R.Thatcher
-*   E
-*   2
-
-*   T4
-*   K.Chappell
-*   E
-*   1
-
-*   T4
-*   H.English
-*   E
-*   1
-
-*   T4
-*   T.Pernice Jr.
-*   E
-*   1
-
-*   T8
-*   J.Daly
-*   +1
-*   2
-
-*   T8
-*   S.Bertsch
-*   +1
-*   1
-
-*   T8
-*   T.Gainey
-*   +1
-*   1
-
-*   T8
-*   C.Tringale
-*   +1
-*   1
-
-*   T8
-*   D.Wilson
-*   +1
-*   1
-
-*   12:15 PM ET
-*   B.Adams
-*   \-
+*   T6
+*   M.Flores
+*   \-5
 *   \-
 
-*   12:35 PM ET
-*   R.Allenby
-*   \-
-*   \-
-
-*   8:25 AM ET
-*   S.Ames
-*   \-
+*   T6
+*   B.Gay
+*   \-5
 *   \-
 
-*   1:25 PM ET
-*   M.Anderson
-*   \-
-*   \-
-
-*   8:25 AM ET
-*   S.Appleby
-*   \-
+*   T6
+*   Z.Johnson
+*   \-5
 *   \-
 
-*   8:25 AM ET
-*   A.Atwal
-*   \-
-*   \-
-
-*   12:05 PM ET
-*   R.Barnes
-*   \-
+*   T6
+*   D.Lee
+*   \-5
 *   \-
 
-*   12:55 PM ET
+*   T6
+*   D.Love III
+*   \-5
+*   \-
+
+*   T6
+*   M.Thompson
+*   \-5
+*   \-
+
+*   T6
+*   D.Toms
+*   \-5
+*   \-
+
+*   T6
+*   C.Villegas
+*   \-5
+*   \-
+
+*   T15
 *   C.Beckman
+*   \-4
 *   \-
+
+*   T15
+*   C.Beljan
+*   \-4
+*   \-
+
+*   T15
+*   C.Campbell
+*   \-4
+*   \-
+
+*   T15
+*   B.de Jonge
+*   \-4
+*   \-
+
+*   T15
+*   J.Furyk
+*   \-4
+*   \-
+
+*   T15
+*   D.Hearn
+*   \-4
 *   \-
 
 *   **FULL LEADERBOARD**
@@ -148,6 +148,7 @@ Prev Next
     *   Jay Coffin
     *   Ryan Lavner
     *   Damon Hack
+    *   Al Tays
     *   John Hawkins
     *   John Feinstein
     *   Mercer Baggs
@@ -278,16 +279,15 @@ Prev Next
 
 *   Grill Room
 
-*   PGA Tour
 *   Davis Love III
-*   Ryder Cup
 *   The McGladrey Classic
 *   Morning Drive
-*   Tiger Woods
-*   US Open Championship
 *   Seaside Course at Sea Island
-*   School of Golf
-*   Jim Furyk
+*   Tiger Woods
+*   Adam Scott
+*   European Tour
+*   Jonas Blixt
+*   FedEx Cup
 
 **Privacy Policy**
 
@@ -528,7 +528,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,165 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
+Social 233,268 facebook.com/GolfChannel 120,006 twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
