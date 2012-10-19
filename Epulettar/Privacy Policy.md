@@ -97,6 +97,8 @@ még több
 
 dossziék
 
+Dosszié: Hidak
+
 Dosszié: Széchenyi terv
 
 Dosszié: Villamos
@@ -104,8 +106,6 @@ Dosszié: Villamos
 Dosszié: Vasút
 
 Dosszié: Média Építészeti Díja
-
-Dosszié: Út
 
 még több
 
@@ -123,11 +123,11 @@ jánossy györgy emlékkiállítása a hap galériában
 
 épülettár apró
 
+bamboo-bambusz faiskola
+
 köki terminál, metró közelében eladó családi ház
 
 új építésű raktár, műhely, telephely eladó!
-
-parlament szomszédságában kiadó irodák!
 
 még több
 
@@ -229,8 +229,8 @@ még több
 
 Gépház üzen
 
-epulettar.hu nem támogatja az Internet Explorer 7-es és annál régebbi verziókat
+Épülettár is csatlakozott a 404-es hibaoldal hasznosításához.
 
-Új hírlevél fel- és leiratkozó form
+epulettar.hu nem támogatja az Internet Explorer 7-es és annál régebbi verziókat
 
 még több
