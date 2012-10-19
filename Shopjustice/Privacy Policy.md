@@ -42,12 +42,6 @@ provided until after midnight ET of the day your package ships.
     *   socks
     *   shoe laces
     *   all shoes
-*   pjs, bras &. panties
-    *   pajamas
-    *   robes &. ponchos
-    *   panties
-    *   bras
-    *   slippers &. socks
 *   accessories
     *   winter accessories
     *   quilted bags
@@ -60,6 +54,12 @@ provided until after midnight ET of the day your package ships.
     *   sunglasses &. cases
     *   backpacks &. school supplies
     *   all accessories
+*   pjs, bras &. panties
+    *   pajamas
+    *   robes &. ponchos
+    *   panties
+    *   bras
+    *   slippers &. socks
 *   swimwear
     *   swimsuits
     *   cover-ups
