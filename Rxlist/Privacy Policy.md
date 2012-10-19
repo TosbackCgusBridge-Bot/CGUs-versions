@@ -1,7 +1,7 @@
 *   Like Us
 *   Follow Us
 
-Pill Identifier Search October 18, 2012
+Pill Identifier Search October 19, 2012
 
 *   Home
 *   Drugs A-Z
@@ -295,11 +295,11 @@ Featured Topics
 
 New &. Updated
 
-*   Diovan
-*   Diovan HCT
-*   Edarbi
-*   Edarbyclor
-*   Jevtana
+*   Aricept
+*   Foradil Aerolizer
+*   Humira
+*   Nexium
+*   Prevacid
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
