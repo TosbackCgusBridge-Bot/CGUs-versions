@@ -12,7 +12,7 @@ JetBlue
     *   Hotels
     *   Cars
     *   Cruises
-    *   Timetables Fare alerts
+    *   Timetables Fare alerts Best Fare Finder
 *   Manage flight
 *   Where we jet
 *   Flying on JetBlue
