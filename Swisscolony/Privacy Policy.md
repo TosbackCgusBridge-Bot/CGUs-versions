@@ -98,7 +98,7 @@ Our Partner Sites:
 *   Seventh Avenue
 *   Ginny's
   
-*   Monroe &. Main
+*   Monroe and Main
 *   Midnight Velvet
 *   Tender Filet
 
