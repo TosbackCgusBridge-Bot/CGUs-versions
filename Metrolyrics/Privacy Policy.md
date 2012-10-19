@@ -151,49 +151,45 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
     First Time Lyrics
 *   One Direction  
     Over Again Lyrics
-*   One Direction  
-    Heart Attack Lyrics
-*   One Direction  
-    Live While We're Young Lyrics
-*   David Guetta  
-    Titanium Lyrics
-
-*   Kanye West  
-    White Dress Lyrics
-*   One Direction  
-    Kiss You Lyrics
-*   Lana Del Rey  
-    Ride Lyrics
-*   Katy Perry  
-    Wide Awake Lyrics
-*   Adele  
-    Someone Like You Lyrics
-
-*   Jonas Brothers  
-    Wedding Bells Lyrics
-*   One Direction  
-    Change My Mind Lyrics
-*   Adele  
-    Skyfall 007 Theme Lyrics
-*   Flo Rida  
-    Whistle Lyrics
-
-*   Wale  
-    Arrival Lyrics
-*   One Direction  
-    C'mon, C'mon Lyrics
 *   Ed Sheeran  
     A Team Lyrics
 *   Gotye  
     Somebody That I Used To Know Lyrics
 
-*   Ellie Goulding  
-    I Need Your Love Lyrics
-*   Tristan Prettyman  
-    My Oh My Lyrics
+*   Jonas Brothers  
+    Wedding Bells Lyrics
+*   One Direction  
+    Change My Mind Lyrics
 *   Justin Bieber  
     As Long As You Love Me Lyrics
 *   Carly Rae Jepsen  
     Call Me Maybe Lyrics
+
+*   Kanye West  
+    White Dress Lyrics
+*   One Direction  
+    Kiss You Lyrics
+*   Kesha  
+    Die Young Lyrics
+*   David Guetta  
+    Titanium Lyrics
+
+*   Wale  
+    Arrival Lyrics
+*   Tristan Prettyman  
+    My Oh My Lyrics
+*   Flo Rida  
+    Whistle Lyrics
+*   Adele  
+    Someone Like You Lyrics
+
+*   Ellie Goulding  
+    I Need Your Love Lyrics
+*   Lana Del Rey  
+    Ride Lyrics
+*   Katy Perry  
+    Wide Awake Lyrics
+*   Alex Clare  
+    Too Close Lyrics
 
 Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
