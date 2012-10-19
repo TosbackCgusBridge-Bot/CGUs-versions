@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-EFF joins international experts in Uruguay next week to talk about defending #privacy globally. https://eff.org/r.a6nV
+Watch EFF's @TrevorTimm discuss the ins and outs Twitter's country-by-country censorship policy on @HuffPostLive: https://eff.org/r.2apa
 
-Oct 17 @ 4:33pm
+Oct 18 @ 5:34pm
 
-Why are EU regulators getting tough with Google on #privacy? Here's our take: https://eff.org/r.2anS
+In San Francisco? Come hang with EFF techs &. activists this Saturday at Hackmeet: https://hackmeet.org/
 
-Oct 17 @ 4:02pm
+Oct 18 @ 4:27pm
 
 *   Twitter
 *   Facebook
