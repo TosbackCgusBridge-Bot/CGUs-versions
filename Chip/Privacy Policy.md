@@ -265,11 +265,11 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 Freemake Video Downloader 3.3.0.1 Deutsch Freeware
-*   2 Orphalese Tarot 8.12.4.1 Englisch Demo
-*   3 iPod touch - PDF-Handbuch 6.0 Deutsch Freeware
-*   4 UltraDefrag (64 Bit) 5.1.0 Deutsch Freeware
-*   5 UltraDefrag 5.1.0 Deutsch Freeware
+*   1 VirtualBox 4.2.2 Deutsch Freeware
+*   2 VirtualBox für Mac OS 4.2.2 Deutsch Freeware
+*   3 BootRacer 4.0 Englisch Freeware
+*   4 EarthView 4.0.2 Deutsch Demo
+*   5 Miranda IM (32 Bit) 0.10.5 Englisch Freeware
 
 ...mehr
 
@@ -295,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Test: Philips 40PFL8007K (40-Zoll-LCD-TV)
 *   Media Markt Online Shop: Alle Angebote im Check
+*   Test: Sony Xperia T (Handy)
 *   Praxis-Test: Apple iPod touch 5G (64 GByte)
-*   Günstige Internet-Tarife im Vergleich: (V)DSL bis LTE
-*   PhysX: Coole Effekte in Borderlands 2 und die besten Geforce-Karten
-*   Test: Panasonic TX-L47WT50E (47-Zoll-LCD-TV)
+*   Praxis-Test: Ubuntu 12.10 Quantal Quetzal
 
 ...mehr
 
@@ -316,11 +316,11 @@ Sponsored Links
     
     *   Test
 *   Samsung Galaxy S2 i9100  
-    ab 317,99 €
+    ab 318,88 €
     
     *   Test
 *   Samsung Galaxy Note 2 N7100 16GB  
-    ab 555,00 €
+    ab 553,35 €
     
     *   Test
 *   Samsung Galaxy S Duos  
@@ -342,10 +342,10 @@ Alle CHIP Online Feeds im Überblick
 Meistgelesene Themen
 
 *   502 Bad Gateway was bedeutet das?
-*   Facebook: Brauchen wir den Klarnamenzwang?
 *   \[GELÖST\] jucheck.exe
-*   Facebook knacken leicht gemacht...
 *   Tastatur umstellen Englisch/Deutsch
+*   Facebook knacken leicht gemacht...
+*   GVU 2.07 virus entfernen
 
 ...mehr
 
@@ -366,9 +366,9 @@ Alle CHIP Online Feeds im Überblick
     
 *   3 Playboy - Playmate des Jahres  
     
-*   4 10 interessante Angebote, 10 tolle Alternativen  
+*   4 Sexy Headphone Babes  
     
-*   5 Der Software Pranger - Diese 50 Tools nerven richtig  
+*   5 12 Media-Markt-Angebote, 12 starke Alternativen  
     
 
 ...mehr
