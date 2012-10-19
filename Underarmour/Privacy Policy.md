@@ -23,13 +23,28 @@ VIEW CART &. CHECKOUT
 *   Men
     
     *   Shirts &. Tops
+    *   Shortsleeves
+    *   Longsleeves
+    *   Hoodies &. Sweatshirts
+    *   Polos
+    *   Graphic T's
+    *   Sleeveless &. Tanks
+    *   All Men's Shirts &. Tops ►
+    
     *   Bottoms
+    *   Shorts
+    *   Pants
+    *   Leggings &. Tights
+    *   All Men's Bottoms ►
+    
     *   Footwear
-    *   Underwear
-    *   Baselayer
-    *   Outerwear
-    *   Accessories
-    *   Footwear
+    *   Running &. Training
+    *   Cleats
+    *   Basketball Shoes
+    *   Trail &. Hiking
+    *   Boots
+    *   Slides &. Sandals
+    *   All Men's Footwear ►
     
     *   Sports
     *   Football
@@ -39,69 +54,95 @@ VIEW CART &. CHECKOUT
     *   Basketball
     *   Soccer
     *   Tough Mudder
-    *   Training
-    *   MTN
-    *   Baseball
     *   All Men's Sports ►
+    
+    *   Underwear
+    *   Underwear Bottoms
+    *   Undershirts
+    *   All Men's Underwear ►
+    
+    *   Outerwear
+    *   Jackets &. Vests
+    *   Pants
+    *   Warm-Ups
+    *   All Men's Outerwear ►
+    
+    *   Accessories
+    *   Gloves
+    *   Socks
+    *   Headwear
+    *   Backpacks &. Bags
+    *   Eyewear
+    *   All Men's Accessories ►
     
     *   Featured
     *   New Arrivals
     *   Best Sellers
-    *   Extended Sizes
-    *   Tactical/Military
     *   Tottenham Hotspur
-    *   Collegiate Fan Gear
-    *   Storm
-    *   Shop All Men's ►
-    
-    *   Temperature Guide ►
-    
-    *   Fit
-    *   Compression
-    *   Fitted
-    *   Regular
-    *   Loose
-    *   Fit Guide ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
+    *   Tactical/Military
+    *   Extended Sizes
+    *   HeatGear®
+    *   ColdGear®
+    *   Shop All Men's ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
 *   Women
     
     *   Shirts &. Tops
+    *   Shortsleeves
+    *   Longsleeves
+    *   Hoodies &. Sweatshirts
+    *   Graphic T's
+    *   Sleeveless &. Tanks
+    *   All Women's Tops ►
+    
     *   Bottoms
+    *   Shorts
+    *   Capris
+    *   Pants
+    *   Leggings &. Tights
+    *   All Women's Bottoms►
+    
     *   Footwear
-    *   Underwear
-    *   Baselayer
-    *   Outerwear
-    *   Accessories
-    *   Footwear
+    *   Running &. Training
+    *   Cleats
+    *   Slides &. Sandals
+    *   All Women's Footwear ►
     
     *   Sports
     *   Training
     *   Studio Fitness
     *   Running
     *   Soccer
-    *   MTN
-    *   Volleyball
-    *   Hunting
     *   Tough Mudder
-    *   Field Hockey
     *   All Women's Sports ►
+    
+    *   Underwear
+    *   Underwear Bottoms
+    *   Sports Bras
+    *   Armour Bra™
+    *   Women's Underwear ►
+    
+    *   Outerwear
+    *   Jackets &. Vests
+    *   Warm-Ups
+    *   Women's Outerwear ►
+    
+    *   Accessories
+    *   Gloves
+    *   Socks
+    *   Headwear
+    *   Backpacks &. Bags
+    *   Eyewear
+    *   Women's Accessories ►
     
     *   Featured
     *   New Arrivals
     *   Best Sellers
-    *   Alternate Lengths
-    *   Collegiate Fan Gear
     *   Storm
-    *   Charged Cotton
-    *   Shop All Women's ►
-    
-    *   Temperature Guide ►
-    
-    *   Fit
-    *   Compression
-    *   Fitted
-    *   Semi-Fitted
-    *   Loose
-    *   Fit Guide ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
+    *   Charged Cotton®
+    *   Alternative Lengths
+    *   HeatGear®
+    *   ColdGear®
+    *   Shop All Women's ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
 *   Boys
     
     *   Boys  
