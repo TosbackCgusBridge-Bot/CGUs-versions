@@ -1,4 +1,4 @@
-Search  
+Search \*
 
 *   Español
 *   Contact Us
