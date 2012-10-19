@@ -143,6 +143,10 @@ Naples Daily News
 *   Cars
 *   Classified
 
+*   Breaking News
+    
+    Shooting reported at 7-11. man shot multiple times |
+    
 *   PrepZone: Football
     
     Live chat begins at 7 p.m. | Preview | Local Rivalries | Blog | Twitter | Send Us Your Fan Photos | More »
@@ -440,22 +444,22 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Ryan: Florida to decide 'what kind of country we're going to have' Updated 10/18/2012 at 9:50 p.m. 101 comments
-*   Planned North Naples resort community more proof local economy on rebound, some say Updated 10/18/2012 at 6:59 a.m. 51 comments
-*   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 52 comments
-*   North Naples residents weigh in on proposed Hyundai dealership at King Richard's site Published 10/18/2012 at 5:00 a.m. 29 comments
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 11:21 p.m. 407 comments
+*   Ryan: Florida to decide 'what kind of country we're going to have' Updated 10/18/2012 at 9:50 p.m. 119 comments
+*   Planned North Naples resort community more proof local economy on rebound, some say Updated 10/18/2012 at 6:59 a.m. 52 comments
+*   Witnesses: Deputy shot man outside of 7-Eleven in East Naples Updated 10/19/2012 at 10:49 a.m. 10 comments
+*   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 53 comments
+*   Deputies: Intoxicated man causes disturbance, urinates on jail floor Published 10/18/2012 at 7:06 p.m. 24 comments
 
-Photo Galleries Catch of the Day: Oct. 18, 2012 Editorial Cartoons: Oct. 17, 2012 Paul Ryan rallies in Fort Myers
+Photo Galleries Editorial Cartoons: Oct. 17, 2012 Catch of the Day: Oct. 18, 2012 Paul Ryan rallies in Fort Myers
 
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 407 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 408 comments
 *   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 285 comments
-*   Ryan: Florida to decide 'what kind of country we're going to have' Published 10/18/2012 at 1:01 p.m. 101 comments
+*   Ryan: Florida to decide 'what kind of country we're going to have' Published 10/18/2012 at 1:01 p.m. 119 comments
 *   Obama, Romney seek support from women after debate Published 10/17/2012 at 8:59 p.m. 88 comments
-*   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 52 comments
+*   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 53 comments
 
 *   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
-*   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 51 comments
+*   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 52 comments
 *   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 10 comments
 *   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 285 comments
 *   Teachers take on kids' nutrition with a book set in Naples Published 10/9/2012 at 4:00 a.m. 0 comments
@@ -466,23 +470,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 75° Mostly Cloudy Wind: Calm Today 84° 72° Fri 08:00 PM Partly Cloudy Showers Temp: 79° Sat 08:00 AM Mostly Sunny Temp: 74° Sat 08:00 PM Clear Temp: 78°
-
-Feels Like: 79°
-
-Humidity: 77%
-
-Precip: 20%
-
-Feels Like: 74°
-
-Humidity: 82%
-
-Precip: 20%
+Currently 77° Partly Cloudy Wind: Calm Today 84° 73° Fri 11:00 PM Partly Cloudy Showers Temp: 78° Sat 11:00 AM Mostly Sunny Temp: 82° Sat 11:00 PM Clear Temp: 75°
 
 Feels Like: 78°
 
-Humidity: 63%
+Humidity: 79%
+
+Precip: 20%
+
+Feels Like: 84°
+
+Humidity: 60%
+
+Precip: 10%
+
+Feels Like: 75°
+
+Humidity: 66%
 
 Precip: 10%
 
