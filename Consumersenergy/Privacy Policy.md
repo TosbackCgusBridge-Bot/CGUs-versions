@@ -55,7 +55,6 @@ Search
     *   eServices
         *   Payment Options
         *   eServices FAQ's
-        *   Your Meter Read
     *   Frequently Asked Questions
     *   Paying Your Bill
     *   Install or Start Service
