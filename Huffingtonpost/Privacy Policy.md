@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Amusement Parks
+*   Twitter
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 18, 2012 Edition: **U.S.**
+October 19, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 18, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Obama Wins Debate On Points 45k
-    *   Mitt Romney's 'Binders Full Of Women' 9k
-    *   POLL: Who Won The Debate? 4k
-    *   Romney's 'Binders Full Of Women' Claim Empty 3k
-    *   Debate Questioners Remain Undecided 4k
+    *   Romney Has Lead Over Obama 16k
+    *   Why Is Gallup So Different? 24k
+    *   On Libya Response, Obama Tells Jon Stewart: 'We Weren't Confused' 15k
+    *   Soup Kitchen In Paul Ryan Flap Facing Donor Backlash 7k
+    *   Court Smacks Down Anti-Gay Marriage Law 17k
     
     Go to Politics **More in Politics**
     
@@ -45,10 +45,10 @@ October 18, 2012 Edition: **U.S.**
 *   Business
     
     *   Meet The World's Richest Man 1k
-    *   Obama 'Good-Paying' Jobs Claim At Odds With His Record 9k
-    *   U.S. Postal Service Hits $15 Billion Borrowing Limit For First Time 1k
-    *   At Bain, Romney Had No 'Binders Full Of Women,' And No Women 1k
-    *   Great Sign For The Housing Market 507
+    *   'Robosquirrel' Cutest Example Of Rampant Government Waste 476
+    *   'James Bond' Debt Collector Allegedly Murders One-Time Maxim Model 46
+    *   U.S. Postal Service Hits $15 Billion Borrowing Limit For First Time 2k
+    *   Oklahoma Walmart Workers Join Strike Movement In Spite Of Alleged Intimidation From Management 1k
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 18, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   LOOK: Hollywood Tweets The Debate 344
-    *   Why Did Guillermo Del Toro Leave 'The Hobbit'? 245
-    *   Happy Birthday, Eminem! 111
-    *   A Van Halen &. One Direction Feud? 551
-    *   Tom Hanks Is Tired Of Boring Movies 48
+    *   19 Biggest Movie Plot Holes 69
+    *   Why Did Guillermo Del Toro Leave 'The Hobbit'? 501
+    *   LOOK: Hollywood Tweets The Debate 422
+    *   Michael Bay On Complaining Actors: 'Be Happy You Even Have A Job' 439
+    *   Joaquin Phoenix: Oscars Are 'Bullsh-t' 277
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 18, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   Hackers Identify Alleged Cyberbully Who Tormented Amanda Todd 3k
-    *   Verizon Stirs Up Privacy Controversy 244
-    *   The New Boxee Could Straight-Up Kill Cable 691
-    *   Google Lets Us Look At Its Energy-Sucking Data Centers 143
-    *   Best Buy Wants To Replace Your Kindle 62
+    *   WATCH: Is Online Dating A Mechanism For Rejection? 809
+    *   Judge Forces Apple To Apologize To Samsung 487
+    *   Hackers Identify Alleged Cyberbully Who Tormented Amanda Todd 4k
+    *   Verizon Stirs Up Privacy Controversy 293
+    *   Google Stock Plummets After Earnings Leak 507
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 18, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   WATCH: Candy Crowley Fact Checks Mitt Romney On Libya 52k
-    *   WATCH: Candy Crowley Responds To Fact Check Frenzy 14k
-    *   WATCH: Mitt Romney Barrels Over Candy Crowley 7k
-    *   WATCH: Scarborough Hammers Romney Over Debate 1k
-    *   PHOTOS: How Newspapers Covered Round 2 107
+    *   WATCH: Candy Crowley Responds To Fact Check Frenzy 22k
+    *   Newsweek To Stop Printing, Go All-Digital 2k
+    *   WATCH: Whoopi Goldberg's Uncomfortable Question To Ann Romney 16k
+    *   CNN: Crowley's Critics Are Sore Losers 1k
+    *   WATCH: Maddow Flips Out 2k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 18, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   U.S. Servicemen Arrested For Allegedly Raping Japanese Woman 816
-    *   TOP SECRET! Gitmo Prisoner's Opinion On LeBron James 39
-    *   CIA Agent Among Dead In Afghanistan 'Insider Attack' 421
-    *   Teenage Girl Publicly Whipped For Speaking To Men 1k
-    *   U.S. Embassy In Stockholm Evacuated From Letter Threat 261
+    *   American Hiker Imprisoned In Iran Finds California Cells Worse 1k
+    *   TOP SECRET! Gitmo Prisoner's Opinion On LeBron James 107
+    *   Alleged 9/11 Mastermind Blasts U.S. For Killings 1k
+    *   Drone Strikes Kill 7 Militants In Yemen 357
+    *   How This World Leader Changed The Dictionary 78
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 18, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Kicking Butt! 10 Celebrities Who Have Quit Smoking 103
-    *   7 Reasons To Eat Breakfast 44
-    *   Kay Lost Almost 140 Pounds: 'I Feel Like I've Been Given A Second Chance' 112
-    *   What Will You Be For Halloween? Fitness-Themed Costume Ideas To Get You Inspired
-    *   How Being A Woman Affects Your Workout 26
+    *   Kicking Butt! 10 Celebrities Who Have Quit Smoking 193
+    *   35 Diet And Nutrition Experts You Should _Already_ Be Following 16
+    *   Rare Condition Causes Man's Scalp To Look Like A Brain 175
+    *   Fool-Proof Tricks For Sticking To A Morning Exercise Routine 15
+    *   7 Reasons To Eat Breakfast 65
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 18, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
-    *   PHOTOS: Ann Romney &. Michelle Obama Wear Matching Pink Outfits To Debate 1k
+    *   PHOTOS: Katy Perry Has A Drastic New Look With John Mayer 161
     *   Is Ann Romney Trying To Be Edgy With Blue Nails? 1k
-    *   PHOTO: Kim Kardashian Admits Her Fashion Mistake 519
-    *   PHOTOS: Kim Kardashian Goes Commando, Exposes Rear In Sheer Skirt With Kanye West 1k
-    *   PHOTO: Pippa Middleton Hits Up London In A Sophisticated Look 27
+    *   PHOTOS: Ann Romney &. Michelle Obama Wear Matching Pink Outfits To Debate 1k
+    *   Here's What A $2.5 Million Bra Looks Like 136
+    *   PHOTO: Kim Kardashian Admits Her Fashion Mistake 535
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 18, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   Sarah Silverman's Dad Fires Back At Rabbi's Scathing Letter 1k
-    *   Binders Full Of What Now? The Funniest Debate Tweets 93
-    *   'We're So F\*cking Dumb' 3k
-    *   PHOTOS: The Coolest Pop Culture Jack-O-Lanterns
-    *   REMIX: He's Got 47 Problems &. A Binder Ain't One 203
+    *   PHOTOS: The Funniest Haunted House Reactions 14
+    *   'Binder Of Women, Book Of Broads, Notebook Of Nipples, Whatever...' 1k
+    *   WATCH: One Of The Best Things You Will Ever See 146
+    *   Menacing Josh Romney Means Business 27
+    *   Binders Full Of What Now? The Funniest Debate Tweets 102
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 18, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next No Hard Knock Life
-    *   Next Pro-Diversity, Anti-Gay?
-    *   Coming Up Romney's Gun Solution
-    *   Coming Up The Modern 'fArms' Race
-    *   Coming Up Tech Game ChangersGo to HuffPost Live
+    *   Next Monopoly: Google Edition
+    *   Next Bridge To Nowhere
+    *   Coming Up Overcoming Autism
+    *   Coming Up Gay And Disowned
+    *   Coming Up Skinny MinnieGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
