@@ -63,7 +63,7 @@ Metering is ON
 
 suntimes
 
-Thursday, October 18, 2012
+Friday, October 19, 2012
 
 Search Search Site All Papers YAHOO!
 
@@ -245,7 +245,6 @@ Search Search Site All Papers YAHOO!
         *   Soccer
     
     *   Columns
-        *   Joe Cowley
         *   Fantasy Football
         *   Inside the Bears
         *   Inside the Blackhawks
@@ -335,7 +334,6 @@ Search Search Site All Papers YAHOO!
         *   Dear Abby
         *   Laura Berman
         *   Ask Dog Lady
-        *   Betsy Hart
         *   Dave Hoekstra
         *   Parties with Elizabeth Hamel
         *   Cheryl Lavin
@@ -374,7 +372,6 @@ Search Search Site All Papers YAHOO!
     *   Columns &. blogs
         *   Thomas Conner
         *   Our Town
-        *   Cindy Pearlman
         *   Lori Rackl
         *   Hedy Weiss
         *   Bill Zwecker
