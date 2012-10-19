@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Tagg Romney joked that he wanted...**  
-        Election 2012 | Vanessa Williams
+    *   **Spin cycle on in Ohio for Obama...**  
+        Election 2012 | Amy Gardner
     
-    *   **The Obama-Romney clash over Libya**  
+    *   **Obamaâs claim that Romney wants...**  
         The Fact Checker | Glenn Kessler
     
-    *   **In quasi-defense of Mittâs binders...**  
-        She The People | Melinda Henneberger
+    *   **Rick Santorum, with âtingles down...**  
+        She The People | Mary C. Curtis
     
-    *   **Mitt Romney is winning the white...**  
-        The Fix | Aaron Blake
+    *   **Why you should pay attention to...**  
+        The Fix | Chris Cillizza and Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,14 +46,14 @@
     
     Featured Blogs
     
-    *   **Beyond Romneyâs binders**  
+    *   **Against the undecided voter**  
         ComPost | Alexandra Petri
     
     *   **Happy Hour Roundup**  
-        The Plum Line | Greg Sargent
+        The Plum Line | Jonathan Bernstein
     
-    *   **PostScript: Responding to the debateâs...**  
-        PostPartisan | Rachel Manteuffel
+    *   **Fridayâs p-Op quiz**  
+        PostPartisan | Jonathan Capehart
     
     *   **Morning Bits**  
         Right Turn | Jennifer Rubin
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **Forecast: Mild today with possible...**  
-        Capital Weather Gang | David Streit
+    *   **D.C. area forecast: Warm with showers...**  
+        Capital Weather Gang | A. Camden Walker
     
-    *   **Michel Richard to open at the Palace...**  
-        Going Out Gurus | Tom Sietsema
+    *   **âAlex Crossâ and more new movies**  
+        Going Out Gurus | Jess Righthand
     
-    *   **Pedestrian fatality in Fairfax...**  
-        Crime Scene | Maggie Fazeli Fard
+    *   **Prince Georgeâs police officer...**  
+        Crime Scene | Matt Zapotosky
     
-    *   **Former boxing champ seeks votes...**  
-        Maryland Politics | John Wagner
+    *   **Allen, Kaine face off in last debate**  
+        Virginia Politics | Washington Post Staff
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -97,17 +97,17 @@
     
     Blogs &. Columns
     
-    *   **A look at the Dynamo Moscow experience**  
+    *   **Gary Bettman: NHL labor negotiations...**  
         Capitals Insider | Katie Carrera
     
-    *   **A letter of Gratitude from the...**  
-        DC Sports Bog | Dan Steinberg
+    *   **Adam Carriker dresses like Goldberg...**  
+        DC Sports Bog | Sarah Kogod
     
-    *   **Can the Redskins win the NFC East?**  
-        The Insider | Keith McMillan
+    *   **Stats show Robert Griffin III at...**  
+        The Insider | Mike Jones
     
-    *   **Adam Wainwright wanted no part...**  
-        Nationals Journal | Barry Svrluga
+    *   **Nationals bench coach Randy Knorr...**  
+        Nationals Journal | Adam Kilgore
 *   National In National
     
     *   Energy &. Environment
@@ -123,14 +123,14 @@
     
     Blogs &. Columns
     
-    *   **âIron Manâ-style exoskeleton could...**  
-        Ideas@Innovations | Emi Kolawole
+    *   **Is U.S. mobile innovation going...**  
+        Ideas@Innovations | Dominic Basulto
     
-    *   **Those revelatory âbinders full...**  
+    *   **Leadership profiles of Romney**  
         PostLeadership | Jena McGregor
     
-    *   **Colo. bishop to Biden: No Communion**  
-        Under God | Georgetown/On Faith
+    *   **Scholar: Obamaâs strategy is to...**  
+        Under God | Georgetown/ On Faith
 *   World In World
     
     *   Africa
@@ -145,17 +145,17 @@
     
     Blogs &. Columns
     
-    *   **If Italian corruption were its...**  
+    *   **Visual music: How âGangnam Styleâ...**  
         WorldViews | Max Fisher
     
-    *   **Hereâs the speech that prompted...**  
+    *   **A Syrian air force pilot explains...**  
+        WorldViews | Max Fisher
+    
+    *   **Benghaziâs overlooked lesson: The...**  
+        WorldViews | Max Fisher
+    
+    *   **Salafists destroy ancient carvings...**  
         WorldViews | Olga Khazan
-    
-    *   **Hunted: A first-hand account of...**  
-        WorldViews | Max Fisher
-    
-    *   **Four reasons Scotland might decline...**  
-        WorldViews | Max Fisher
 *   Business In Business
     
     *   Economy
@@ -170,16 +170,16 @@
     
     Blogs &. Columns
     
-    *   **Complaints may presage student...**  
+    *   **Color of Money**  
         The Color of Money | Michelle Singletary
     
-    *   **AT&T approved for wireless spectrum**  
-        Post Tech | Cecilia Kang
+    *   **Apple, Samsung continue worldwide...**  
+        Post Tech | Hayley Tsukayama
     
     *   **The judicial jihad against the...**  
         Steven Pearlstein
     
-    *   **Wonkbook: Is the housing market...**  
+    *   **Wonkbook: Whatâs $125 billion in...**  
         Wonkblog | Ezra Klein
 *   Tech In Technology
     
@@ -191,11 +191,11 @@
     
     Blogs &. Columns
     
-    *   **Microsoft, Google eye mobile holiday...**  
-        Hayley Tsukayama
+    *   **Google stock falls after earnings...**  
+        Craig Timberg and Hayley Tsukayama
     
-    *   **AT&T approved for wireless spectrum**  
-        Post Tech | Cecilia Kang
+    *   **Apple, Samsung continue worldwide...**  
+        Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
     *   Advice
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Adam Sobelâs excellent adÂ­venÂ­ture...**  
-        All We Can Eat | Adam Sobel
+    *   **Sidwell Friends senior on âChoppedâ**  
+        All We Can Eat | Megan McDonough
     
-    *   **âBinders Full of Womenâ Romney...**  
-        The Style Blog | Maura Judkis and Michael Cavna
+    *   **âHello Dollyâ casting announced...**  
+        The Style Blog | Peter Marks
     
-    *   **Candidates need binders full ...**  
-        On Parenting | Janice D'Arcy
+    *   **Updating IEPs in a new school year**  
+        On Parenting | Mari-Jane Williams
     
-    *   **Photo ops from Reagan to Ryan**  
+    *   **Who does David Axelrod look like?**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,10 +240,10 @@
     *   **Art: Two Lichtenstein retrospectives**  
         Classical Beat | Anne Midgette
     
-    *   **âAmerican Horror Story: Asylumâ...**  
+    *   **Did Joaquin Phoenix knock himself...**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **âX Factorâ: Who makes it to live...**  
+    *   **First Lady visits âLive with Kelly...**  
         The TV Column | Lisa de Moraes
     
     *   **Obama v. Romney, Round 2**  
@@ -266,10 +266,10 @@
 
 In the News
 
-*   George McGovern
-*   Lance Armstrong
-*   NYC terrorist plot
-*   Fiscal cliff
+*   Euro banks regulator
+*   Newsweek
+*   Tigers in Series
+*   Obama on âDaily Showâ
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -318,94 +318,86 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-More evidence of deception
+The great gaffe
 
-Jennifer Rubin 
+Charles Krauthammer 
 
-Romneyâs facts are curious things
+Obama, Romney playfully roast each other at Alfred E. Smith Dinner Rick Santorum, with 'tingles down my spine,' can smell a GOP sweep CIA seeks to expand drone fleet, officials say
 
-Dana Milbank 
+Greg Miller 
 
-Officials: Obama ready to veto a bill blocking âfiscal cliffâ without tax hike for rich
+Fact checking Romneyâs âbinders full of womenâ anecdote
+
+Josh Hicks 
+
+Ann Romney: If Mitt loses, we're done On âDaily Show with Jon Stewart,â Obama defends Libya response, jokes about Biden
+
+David Nakamura 
+
+Todd Akin's third quarter fundraising pace lags behind Claire McCaskill's Officials: Obama ready to veto a bill blocking âfiscal cliffâ without tax hike for rich
 
 Lori Montgomery 
 
-Presidential debate: Libya questioner says Obama didnât answer
+Mitt Romney doesn't have a woman problem â at least not yet President Obama tells Jon Stewart that first debate was an âoff nightâ
 
-Erik Wemple 
+Lisa De Moraes 
 
-Romney goes from Etch a Sketch to sketchy
+Shiite protests pose major challenge for Saudi Arabia
 
-E.J. Dionne Jr. 
+Kevin Sullivan 
 
-In Obama-Romney rematch, who won the battle of body language?
+CEOs warn Obama, Congress to avoid âfiscal cliffâ
 
-Sarah Kaufman 
+Zachary A. Goldfarb 
 
-Hunted: A first-hand account of Gaddafi's desperate last days The Fedâs mission creep
+Ann Romney discusses abortion views on âThe Viewâ
 
-George F. Will 
+Lisa De Moraes 
 
-Carolyn Hax: History of bad partners. adulterer in their midst
+Why the chill on climate change?
 
-Carolyn Hax 
+Eugene Robinson 
 
-What you should know about Microsoft Surface pre-orders
+Mr. Romneyâs defense budget: It doesnât add up
 
-Hayley Tsukayama 
+Editorial Board 
 
-Family says ex-Sen. George McGovern âno longer responsive,â daughter says heâs âpeacefulâ
+Truly Good Mothers and a Fifties Dad
 
-Associated Press 
+Ruth Marcus 
 
-Tensions among Alawites pose new challenge for Assad
+Liberalismâs shrinking agenda
 
-Liz Sly 
+Michael Gerson 
 
-Romney up by six in Gallup poll Romneyâs first step into political arena, vs. Ted Kennedy in 1994, was a cautious one
+Find a way to block ârobo-callsâ and win $50K from the FTC
 
-Jason Horowitz 
+Craig Timberg 
 
-Bank of America says housing has âbegun to turn,â but mortgages still bring banks headaches
+Boy Scout âperversion filesâ released
 
-Associated Press 
-
-Eddie Yost, the Washington Senatorsâ âWalking Manâ of the 1950s, dies at 86
-
-Matt Schudel 
-
-Man arrested in purported plot to bomb New York Federal Reserve
-
-Sari Horwitz 
-
-Obama: We don't need 'a bunch of binders' George Allen shows a more cautious, humbler side
-
-Marc Fisher 
-
-Griffin, Crawford help Clippers beat Jazz 96-94 in 1st game back from China trip
-
-Associated Press 
+Paul Duggan 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Deception on Libya
-    2.  Romney's facts are curious things
-    3.  Officials: Obama ready to veto a bill blocking 'fiscal cliff' without tax hike for rich
-    4.  Hold on: Obama never answered Libya question!
-    5.  Romney goes from Etch a Sketch to sketchy
+    1.  The great gaffe
+    2.  Obama, Romney playfully roast each other at Alfred E. Smith Dinner
+    3.  Rick Santorum, with 'tingles down my spine,' can smell a GOP sweep
+    4.  CIA seeks to expand drone fleet, officials say
+    5.  Romney's 'binders full of women' story
 *   Top Videos
-    1.  Missing 13-year-old found driving car on highway
-    2.  2012 town hall Presidential Debate in two minutes
-    3.  Romney and Obama on jobs - Town hall debate 2012
-    4.  Daniel Craig, Judi Dench talk about the newest Bond
-    5.  Full 2012 town hall Presidential Debate
+    1.  Bruce Springsteen endorses Obama with song
+    2.  Bill Clinton: Mitt Romney 'thinks we're dumb'
+    3.  iPad Mini: The Sasquatch of the tech world?
+    4.  Lance Armstrong resigns from Livestrong
+    5.  Another Romney binder
 *   Top Galleries
-    1.  Raising Moses
-    2.  Creative costumes for kids
-    3.  Romney campaigns in Virginia
-    4.  Body of late King Norodom Sihanouk returns from China
-    5.  Obama and Romney aggressive in second presidential debate
+    1.  Newsweek covers through the years
+    2.  Body of late King Norodom Sihanouk returns from China
+    3.  Creative costumes for kids
+    4.  A first look at the Cuban missile crisis
+    5.  Obama campaigns after the second debate
 
 Today's Paper
 
@@ -415,13 +407,13 @@ Today's Paper
 
 Live Discussions
 
-Amanda Toddâs suicide: Should Anonymous have outed her alleged tormenter online?
+Gardening Advice from Adrian Higgins
 
-Live Q&A transcript
+Live Q&A, Noon ET
 
-Monica Hesse discussed this subject and more in her latest chat about news around the Web.
+How to start or improve your garden in the fall.
 
-**11:00 AM** **Tracee Hamilton discusses local and national sports -- and whatever else you want to talk about.** **11:00 AM** **Designing children's rooms with Nancy Twomey | Home Front** **12:00 PM** **Gardening advice from Adrian Higgins** **1:00 PM** **Got Plans: Advice from the Going Out Gurus** **2:00 PM** **Celebritology Live**
+**11:00 AM** **Real Wheels Live** **11:00 AM** **The Fix Live** **12:00 PM** **Carolyn Hax Live: Advice columnist tackles your problems (Friday, October 19)** **1:00 PM** **The Latest in TV with Lisa de Moraes**
 
 **Weekly schedule, past shows**
 
