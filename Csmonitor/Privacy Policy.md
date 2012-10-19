@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Presidential debate 101: Does Romney’s tax math add up?
-2.  Actress Megan Fox has new baby – it's a boy
-3.  A 4th presidential debate? Larry King to moderate third-party candidate forum.
-4.  'Binders full of women': a revealing remark from Romney, or a sideshow?
-5.  Presidential debate 101: Did Mitt Romney want Detroit to go bankrupt?
+1.  Gay marriage to Supreme Court? More likely after latest rejection of DOMA.
+2.  2014 Corvette so different, GM will shut down plant to retool
+3.  Presidential debate 101: Does Romney’s tax math add up?
+4.  Syria: Airstrikes leave dozens dead
+5.  Boy Scouts child abuse files: Can the organization withstand their release? (+video)
 
 About these ads
 
@@ -111,17 +111,16 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Focus  
-    Election 2012: Ballot initiatives reflect nation's mood
+*   Boy Scouts child abuse files: Can the organization withstand their release? (+video)
     
-    The 174 propositions on state ballots point to evolving opinions on marijuana, same-sex marriage, health care, and more. Do the initiatives show the power of direct democracy or lack of legislative leadership?
+    In recent years, the Boy Scouts of America has implemented many new guidelines to protect against new abuse. Even though morale inside the BSA remains high, some experts say the group is fighting a losing battle.
     
-*   Earth-size planet found just next door, in Alpha Centauri system
-*   Global News Blog: Australia marches ahead with India ties - despite a few trip ups
-*   Decoder Wire: 'Binders full of women': a revealing remark from Romney, or a sideshow?
-*   Global News Blog: Iran sees conspiracy in box office success of Ben Affleck's 'Argo' (+video)
+*   For Mars rover Curiosity, at last, it's dinnertime. On the menu: dirt.
+*   No surprise to students: College debt is up 5 percent for Class of 2011
+*   Decoder Wire: Bruce Springsteen's letter: supporting Obama, despite 'rough ride' (+video)
+*   Global News Blog: Putin joins pajama workforce, decides to work from home
 
-_Photos of the day_ 10.17.12 » Photos of the Day 10/17
+_Photos of the day_ 10.18.12 » Photos of the Day 10/18
 
 **CSMonitor.com** on Facebook
 
@@ -143,18 +142,18 @@ When she found herself suddenly wealthy, the Indian philanthropist founded Prath
 
 Become part of the Monitor community
 
+*   USA Presidential debate: How would you rate this musical parody? (+video)
 *   Innovation Apple promises 'a little more' on Oct. 23. iPad Mini incoming?
-*   The Culture Baby Jessica rescue: Was it the birth of helicopter parenting? (+video)
 *   USA With race tight, celebrities make the pitch for Obama
+*   Innovation Herman Melville books: Remembering the author of 'Moby Dick'
 *   World Focus: As sanctions crush rial's value, Iranians point fingers at Ahmadinejad
+*   The Culture Baby Jessica rescue: Was it the birth of helicopter parenting? (+video)
+*   Making a Difference Rohini Nilekani pours her wealth into getting books to India's poorest children
 *   Science Water on the moon? Maybe a lot more than we thought ... thanks to the sun.
 *   The Culture Jessica Ridgeway abduction: Getting a grip on the parenting overreaction
-*   Making a Difference Rohini Nilekani pours her wealth into getting books to India's poorest children
 *   Business Presidents and the economy: Who was best, worst? Take our quiz.
 *   Business Peanut butter recall expands again. Now included: peanuts (+video)
 *   Books Sarah Palin says she will release a book on fitness and proper diet
-*   World Focus: Vladimir Putin 2.0: A harder, eastward-looking presidency
-*   USA Focus: Obama's new program for young illegal immigrants: How is it going?
 
 About these ads
 
