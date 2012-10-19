@@ -5,13 +5,13 @@
     *   Election 2012
     *   Mitt Romney
     *   entertainment
-    *   celebrity
     *   Mitt Romney 2012
     *   Barack Obama
-    *   timeless news
+    *   celebrity
     *   strange stuff
-    *   President Obama
     *   Obama 2012
+    *   President Obama
+    *   timeless news
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -125,37 +125,37 @@ NEWS FROM OUR PARTNERS
 
 More from Slate »
 
-*   DEEP IMPACT
+*   COVER IT UP!
+*   Dildo Removed From Man's Intestines
 *   God vs. Space Aliens
-*   More (Real) Signs Of The ZOMBIE APOCALYPSE
 
 More from HuffPost Weird »
 
-*   âSesame Streetâ Sends Cease-And-Desist To Sexy Big Bid
-*   Hillary Clinton: Stop âWhiningâ About Not Having It All
-*   The âSecretâ Justin &. Jessica Wedding Is On, Shh!
+*   A Mensch For Every Month
+*   Amy Adams Is The New Spokes-celeb For Band Of Outsiders
+*   What We Missed: Dating Advice For Amelia &. Some Strong...
 
 More from The Frisky »
 
-*   This just in: Flamin' Hot Cheetos can cause some problems...
-*   Terminal cancer patient becomes honorary CoverGirl model,...
-*   Student banned from homecoming for: A) looking too slutty;...
+*   Icelander says the best-tasting puffin is soaked overnight...
+*   Feeling left out of all the fun of bombing people in the...
+*   Wisconsin man claims speeding ticket violates his religious...
 
 More from Fark »
 
-*   5 ways Obama can win the final presidential debate
-*   Not an October surprise
-*   Is North Carolina already out of reach for President Obama?
+*   New Benghazi revelations: Should Republicans lay off Susan...
+*   Missouri Senate: The race at a glance
+*   Obama's new 'Morning in America' strategy: Will it work?
 
 More from The Week »
 
-*   Matthew Fox Previews His Romney Biopic on Kimmel
-*   Romney &. Obama Roast Each Other at Charity Dinner
-*   In Debate, McCaskill Avoids Attacking Akin on âLegitimate...
+*   Fidel Castro Had a Stroke
+*   Congressman Joe Walsh Is the Latest Republican to Say...
+*   Andrew Cuomo Knows What You’re Thinking About His...
 
 More from Daily Intel »
 
-*   35 Diet And Nutrition Experts You Should _Already_...
+*   The Baker, The Free Food Fiend, The Food Bully: Which...
 *   180 Kilometers of Motivation
 *   You Don't Need a Lump to Have Breast Cancer
 
@@ -167,15 +167,15 @@ More from HuffPost Health »
 
 More from Celebuzz »
 
-*   Kim Kardashianâs Insane Wardrobe Choices Probably Help Her...
-*   5 No-Fail Ways to Stop Coughing Now
-*   'Jersey Shore' Recap: Deena's Mess of a Meatball Day Ends...
+*   Emily Maynard Will Be 'Bachelorette' Again if ABC Gets...
+*   Puppies Keep Boy Lost in the Woods Safe Until Rescuers Find...
+*   Latest on Missing Starbucks Barista Points to Something...
 
 More from The Stir »
 
-*   Will Ferrell Now Making Old Milwaukee Ads for Swedish TV
-*   Baba Shetty Addresses the Skeptics
-*   Bolthouse Farms Is Fine With You Shaking Your Carrots in...
+*   Cutwater, S.F., Wins Fashion Account
+*   Designer Creating Visual Brands for All 44 U.S. Presidents
+*   Fast Chat: Media Storm's Andrea Kerr Redniss
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
