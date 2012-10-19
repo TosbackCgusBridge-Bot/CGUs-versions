@@ -153,6 +153,7 @@
     *   Bird
     *   Reptile
     *   Small Pet
+    
 
 Cart Cart
 
@@ -317,4 +318,4 @@ By using this Website, you agree to our Conditions of Use, Legal Notices, and Pr
 
 Sale prices valid in stores and online September 24 - October 22, 2012 unless otherwise noted.
 
-Any discount or special offer on this website, including PetPerks offers, are not valid in Puerto Rico unless an offer specifically includes Puerto Rico. Cualquier descuento u oferta especial en esta pagina, incluyendo las ofertas de PetPerks, no son validas en Puerto Rico a menos que alguna oferta en especifico indique lo contrario.
+Any discount or special offer on this website, including PetPerks offers, are not valid in Puerto Rico unless an offer specifically includes Puerto Rico. Cualquier descuento u oferta especial en esta página, incluyendo las ofertas de PetPerks, no son válidas en Puerto Rico a menos que alguna oferta en específico indique lo contrario.
