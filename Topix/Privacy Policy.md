@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
-Lance Armstrong
+Syria
 
-Lance Armstrong's former manager fears defense of doping charg...
+Turkey, Germany Call for Truce in Syria
 
 China
 
-China Firm Says U.S. Discriminates
+Truck driver's death prompts riot and questions in China
 
 Politix
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 113,412 • Total comments across all topics: 188,396,922
+Comments made yesterday: 114,155 • Total comments across all topics: 188,500,205
 
 Copyright ©2012 Topix LLC
 
