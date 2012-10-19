@@ -33,16 +33,15 @@ We talk to the lovely former Cheryl David
 
 *   _Walking Dead_'s New Hero on What's Ahead for Season 3
 
-Style The Varsity Jacket Meets the Navy Blazer
+Style You Can Make Your Own Chuck Taylors Now
 
-Get this collaboration between one of our favorite stores and the Japanese brand SHIPS while it lasts
+Converse introduces a made-to-order shop on their website, and it's fantastic
+
+*   The Varsity Jacket Meets the Navy Blazer
 
 *   The State of Plaid, with Nick Sullivan
 
 *   The Man Who Re-Invented the Trench Goes for Watches
-
-*   Actual Binders Full of Actual  
-    Style  Not Full of Women
 
 News &. Politics Mark Warren on Dinesh D'Souza, Lady's Man
 
