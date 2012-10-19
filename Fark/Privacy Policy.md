@@ -148,37 +148,23 @@ Headlines of the Week
 **From the Fark Shop:**
 
 *     
-    Vitruvian Squirrel
+    Warning A-holes
 *     
-    E.T. - The Extra-Terrorestrial
+    From Rotten with Love
 *     
-    Sasquatch Seltzer Water Bottle
+    I Love Ninjas - Knit Beanie
 *     
-    Hooked
+    Zombie Wars - Episode II: Attack of the Undead
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
 Christian Bale's Wild Body Transforma...  
+6 of the Most Bizarre Celebrity Deaths  
 Two-Year-Old Girl Insults Kate Middle...  
-The Truth Behind NFL Logos  
-11 Most Memorable Dunks In White Guy...  
+Best of the Worst EVER Gameshow Answers!  
 More news at Scribol »  
-  
-  
-Body in Dumpster May Be Missing Real...  
-DA: Restaurateur Researched 'Evil Way...  
-Woman in Wheelchair Dies After Fall F...  
-LAPD Probing Manson Family Link to 12...  
-More news at KTLA »  
-  
-  
-The 5 Most Common Errors of First Tim...  
-So Your Clone Is Trying to Murder You  
-The 10 Dumbest Things on TV So Far Th...  
-The 6 Most Hilariously Insane Overrea...  
-More news at Cracked »  
   
   
 W. Eugene Smith's Landmark Photo Essa...  
@@ -187,10 +173,24 @@ Taylor and Clift: Photos From the Set...
 Frank Lloyd Wright: The Natural  
 More news at Life »  
   
+  
+X Factor Vs The St. Louis Cardinals  
+Painfully Earnest Celebrity Endorsements  
+WWE Diva Eve Torres  
+Memes Re-Cast With Arrested Development  
+More news at UPROXX »  
+  
+  
+Body in Dumpster May Be Missing Real...  
+DA: Restaurateur Researched 'Evil Way...  
+LAPD Probing Manson Family Link to 12...  
+Woman in Wheelchair Dies After Fall F...  
+More news at KTLA »  
+  
 
 Also on Fark
 
-Main This just in: Flamin' Hot Cheetos can cause some problems when the oil hits the anus ( cbsnews.com ) » (45 comments) Sports Is #3 Oregon legit or will they fall to America's largest community college? Tonight the Ducks try to quackout the blackout in Tempe. It's your Thursday night college football thread ( azfamily.com ) » (98 comments) Business FTC throws down robocall gauntlet: $50,000 for best way to stop annoying asshole calls ( networkworld.com ) » (46 comments) Geek Adorable 8-year-old girl gets into spirit of historical research by going to school dressed like different famous woman every day: Billie Holiday, Grace Kelly, Aung San Suu Kyi, Joan Baez, Rosa Parks, and so on ( omaha.com ) » (44 comments) Entertainment Sarah Jessica Parker has unbridled enthusiasm about Sex in the City 3. Cynthia Nixon says neigh ( news.com.au ) » (5 comments) Politics It's never optimal to have an ambassador get killed when you're running for reelection but it is a bump in the road ( dailymail.co.uk ) » (261 comments) Video Arrested Development Documentary - Funke-y ( buzzfeed.com ) » (11 comments) FarkUs Alien killers, time-storms, mutated viruses and future cannibals. I write Sci Fi-horror ( rpatrickwidner.com ) » (3 comments)
+Main Team mascot steps in to throw two fourth quarter touchdowns in upset win. BONUS: Coached by Derrick Thomas ( kentucky.com ) » (5 comments) Sports Team mascot steps in to throw two fourth quarter touchdowns in upset win. BONUS: Coached by Derrick Thomas ( kentucky.com ) » (5 comments) Business Levi's introduces new hipster line of polyester jeans ( news.cnet.com ) » (1 comment) Geek Chris Roberts (Wing Commander series, Privateer) has decided that technology has finally caught up to where he needs it to be for his gaming masterpiece. Let's get him the funding he needs to complete it. (w/ vids) ( tomshardware.com ) » (17 comments) Entertainment A bad day for the Swishers continues as Joanna Garcia's comedy "Animal Practice" is put to sleep in a much more humane manner than Nick's Yankees were ( hollywoodreporter.com ) » (9 comments) Politics Both presidential candidates believe in climate change. Let's educate the American people ( washingtonpost.com ) » (17 comments) Video Gangnam Style covers transcend time and space as Hitler makes his mark on history ( youtube.com ) » (5 comments) FarkUs Farker attempts to play game developed by NASA, ends up praising John Madden and rocking out to the Imperial March ( youtube.com ) » (0 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main This just in: Flamin' Hot Cheetos can cause some problems when the oil hits
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 19 2012 08:00:48  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 19 2012 11:00:38  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
