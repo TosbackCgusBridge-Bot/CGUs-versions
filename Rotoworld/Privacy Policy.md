@@ -56,6 +56,7 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   CC Sabathia will have elbow checked out
 *   Wainwright rebounds, gives Cardinals 3-1 lead
 *   Alex Rodriguez won't waive no-trade clause
 *   Peralta homers twice as Tigers advance to WS
@@ -67,7 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Dickey undergoes surgery for abdominal tear
 *   Report: Alex Rodriguez would not block trade
 *   Hughes (back) may be available in ALCS Gm. 4
-*   Red Sox talking compensation for John Farrell
 
 NFL PAGES
 
@@ -106,7 +106,7 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Gore gets X-rays after win. has bruised ribs
+*   Gore is fine after X-rays reveal bruised ribs
 *   Lynch runs for 103 yards in Week 7 loss at SF
 *   Gore shreds Seahawks for 182 yards in TNF win
 *   Report: Vick, Mornhinweg will remain in place
@@ -156,6 +156,9 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   James Harden (groin) scrimmages on Thursday
+*   Report: Dion Waiters favorite to start at SG
+*   Paul Pierce seen limping after ankle injury
 *   Dwight Howard (back) to return on Sunday
 *   Wade (knee) looks explosive vs. Pistons
 *   Eric Gordon misses fifth game with bad knee
@@ -165,9 +168,6 @@ FANTASY BASKETBALL NEWS
 *   J.R. Smith in walking boot w/ Achilles injury
 *   Andrew Bogut (ankle) not close to playing
 *   Andrea Bargnani suffers a calf contusion
-*   Report: C.J. Miles has starting gig locked up
-*   James Harden 'coming along' from groin injury
-*   Wall (knee) increasing basketball activity
 
 NHL PAGES
 
@@ -207,6 +207,9 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Gary Bettman: The Winter Classic is in danger
+*   Players want to be eased into a 50-50 split
+*   Sidney Crosby will now explore Europe options
 *   Mark Scheifele lights up Ottawa in OHL win
 *   Gary Bettman disappointed with PA proposals
 *   Report: N. Backstrom to join Ovechkin in KHL
@@ -216,9 +219,6 @@ FANTASY HOCKEY NEWS
 *   Patrick Kane was close to signing in Europe
 *   Sidney Crosby not sorry about Giroux's wrists
 *   Montador: Still a long way to go in CBA talks
-*   Charity game will reunite SC-winning Hawks
-*   M. Stajan remains guarded after NHL proposal
-*   Nathan MacKinnon starts atop ISS rankings
 
 NASCAR PAGES
 
@@ -327,6 +327,11 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Mannion will dress for Beavers, could play
+*   Dion Jordan collects two sacks vs Sun Devils
+*   Ducks RB Barner gashes Sun Devils defense
+*   Lattimore won't start, will play vs Gators
+*   Kelly: QB Golson will be a gametime decision
 *   Devils DT Sutton out for game (right knee)
 *   Spurrier suspends DT Quarles for Florida game
 *   Stephen Morris doubtful for game vs Noles
@@ -334,11 +339,6 @@ NFL DRAFT NEWS
 *   Scouts: Longhorns DC Manny Diaz 'is a fraud'
 *   Zierlein: Scouts comparing Millard to Alstott
 *   Mountaineers WR Bailey 'day-to-day' this week
-*   Spurrier unsure if Lattimore will play vs UF
-*   Gameplan vs Vols limits Hunter's production
-*   Saban: MRI showed a bruised knee for McCarron
-*   Marcus Lattimore not practicing Wednesday
-*   Mississippi St plus-15 in turnovers this year
 
 FEATURED BLOGS
 
@@ -487,7 +487,10 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Gore gets X-rays after win. has bruised ribs
+*   NHL:Gary Bettman: The Winter Classic is in danger
+*   MLB:CC Sabathia will have elbow checked out
+*   NHL:Sidney Crosby will now explore Europe options
+*   NFL:Gore is fine after X-rays reveal bruised ribs
 *   MLB:Wainwright rebounds, gives Cardinals 3-1 lead
 *   NFL:Gore shreds Seahawks for 182 yards in TNF win
 *   MLB:Alex Rodriguez won't waive no-trade clause
@@ -496,24 +499,21 @@ Top Headlines
 *   NFL:Manningham out, Jacobs in versus Seahawks
 *   MLB:Jaime Garcia not having shoulder surgery
 *   NBA:Kevin Love could be back in five weeks
-*   MLB:Belt not in lineup for Game 4 vs. Cardinals
-*   MLB:Pence dropped in lineup for Game 4 of NLCS
-*   NBA:Dwight Howard (back) to return on Sunday
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. MurrayNFL (8354)
-*   2T. RichardsonNFL (7906)
-*   3R. MendenhallNFL (7072)
-*   4J. GordonNFL (6879)
-*   5H. NicksNFL (6878)
+*   1D. MurrayNFL (8449)
+*   2T. RichardsonNFL (8041)
+*   3R. MendenhallNFL (7217)
+*   4H. NicksNFL (6994)
+*   5J. GordonNFL (6986)
 
-*   6P. GarconNFL (6673)
-*   7J. BestNFL (6562)
-*   8G. JenningsNFL (6277)
-*   9W. PowellNFL (6191)
-*   10J. GrahamNFL (6158)
+*   6P. GarconNFL (6751)
+*   7J. BestNFL (6618)
+*   8G. JenningsNFL (6394)
+*   9J. GrahamNFL (6306)
+*   10W. PowellNFL (6292)
 
   
 Video Center
@@ -560,7 +560,7 @@ More NFL Columns
 
 NFL Headlines
 
-*   »Gore gets X-rays after win. has bruised ribs
+*   »Gore is fine after X-rays reveal bruised ribs
 *   »Lynch runs for 103 yards in Week 7 loss at SF
 *   »Gore shreds Seahawks for 182 yards in TNF win
 *   »Report: Vick, Mornhinweg will remain in place
