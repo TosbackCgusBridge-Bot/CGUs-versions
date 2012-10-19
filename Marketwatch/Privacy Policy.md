@@ -1,8 +1,8 @@
 Bulletin Investor Alert
 
-New York Markets Open in:
+London Markets Close in:
 
-Pre-Market Indications Analyst Ratings Oil News EarningsWatch
+Currencies Futures Metals Stocks
 
 Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
@@ -198,91 +198,93 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 19, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 10:51 AM EDT October 19, 2012 /marketstate/country/us New York Open /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:03a
+/news/latest1.  10:46a
     
-    FTSE 100 retreats from 7-month high
+    Gold prices down further on dollar gains
     
-2.  8:01a
+2.  10:43a
     
-    McDonald's sees pressure on future profit
+    Critics say SEC rule enshrines failed model
     
-3.  8:01a
+3.  10:36a
     
-    McDonald's Oct. same-store sales trending negative
+    U.S. stocks drop sharply on earnings news
     
-4.  8:01a
+4.  10:32a
     
-    McDonald's foreign currency impact 8c in Q3
+    Oil futures turns slightly lower, fall below $92
     
-5.  8:01a
+5.  10:32a
+    
+    Nov. crude oil down 28 cents at $91.82/bbl
+    
+6.  10:31a
+    
+    McDonald's earnings disappointing, not disasterous
+    
+7.  10:31a
     
     Updates, advisories and surprises
     
-6.  8:00a
+8.  10:28a
     
-    What strikes in South Africa really mean to metals
+    Dollar gains as investors seek a safe haven
     
-7.  8:00a
+9.  10:27a
     
-    Big earnings to watch Friday: GE, McDonaldâs
+    SanDisk climbs 7% as Piper analyst raises rating
     
-8.  8:00a
+10.  10:23a
     
-    McDonald's Q3 net $1.43 vs $1.45
+    Starbucks opens first outlet in India
     
-9.  8:00a
+11.  10:18a
     
-    McDonald's Q3 revenue $7.15 bln vs $7.17 bln
+    Speculating in the mortgage-services space
     
-10.  7:52a
+12.  10:18a
     
-    Parker-Hannifin profit falls, firm cuts outlook
+    Sales of existing homes drop in September
     
-11.  7:50a
+13.  10:16a
     
-    Asia stocks finish lower, but up for week
+    Pimco says U.S. downgrade imminent
     
-12.  7:44a
+14.  10:15a
     
-    Parker Hannifin Q1 net $1.57 vs $1.91
+    AMD falls on disappointing results, downgrade
     
-13.  7:44a
+15.  10:13a
     
-    Parker Hannifin sees softness in N. America
+    BREAKING
     
-14.  7:44a
+    U.S. stocks retain stiff losses as home-sales dip
     
-    Parker Hannifin cites weak overseas markets
+16.  10:08a
     
-15.  7:43a
+    D.C. revolving door didnât protect hedge fund
     
-    ManpowerGroup profit falls 21%
+17.  10:06a
     
-16.  7:41a
+    Marvell Technology crushed by downgrades
     
-    Radio update: Peanut butter prices may drop
+18.  10:06a
     
-17.  7:36a
+    Chipotle shares slammed on outlook
     
-    Ingersoll-Rand profit rises
+19.  10:04a
     
-18.  7:34a
+    Gold continues lower following home sales data
     
-    ManpowerGroup Q3 net 79c vs 97c
+20.  10:00a
     
-19.  7:34a
-    
-    ManpowerGroup sees Q4 net of 72c-80c
-    
-20.  7:26a
-    
-    First Horizon profit falls
+    Power 30: health-care honchos
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,548.94 -8.06 -0.06% nasdaq /quotes/zigman/123127 3,072.87 -31.26 -1.01% s&p 500 /quotes/zigman/3870025 1,457.34 -3.57 -0.24% Kiosk
+dow /quotes/zigman/627449 13,446.07 -102.87 -0.76% nasdaq /quotes/zigman/123127 3,042.81 -30.06 -0.98% s&p 500 /quotes/zigman/3870025 1,447.15 -10.19 -0.70% Kiosk
 
 *   1341573300000 1341592200000
     
