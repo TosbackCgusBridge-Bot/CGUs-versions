@@ -137,20 +137,20 @@ News _from our Ad Age Partners_
 *   New VP-marketing at Navex Global sticks with proven plan
 *   Weaving together your content and merchandising strategies
 
-*   Year of the electric car blows a fuse
-*   Isis mobile wallet will finally launch next week
-*   Former GE execs get prison terms in bid-rigging case
-*   Ahead of Windows 8, Microsoft posts flat sales
+*   Eyeing huge market, Starbucks opens first India store
+*   Holiday deals shaping up to be best in years
+*   Stocks to open lower
+*   From rock and roll to real estate
 
 *   Cancer groups to improve disclosures on pink wares
 *   Newsweek ending print edition, job cuts expected
 *   Google helps small firms cross the digital divide
 *   Martha Stewart teams with Toyota
 
+*   Amazon vs. retailers. shoppers in the middle
+*   Feds don't do enough to protect your data
+*   Social Security’s rate of return is tough to beat
 *   Google's 'oops' heard around the world
-*   Google error triggers 'Pending Larry' Twitter meme
-*   Google snafu drags Wall Street lower
-*   Newsweek ends print edition, goes all-digital
 
 *   2013 FIAT 500
 *   2013 Scion FR-S
