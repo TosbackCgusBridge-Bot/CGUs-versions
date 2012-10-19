@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   St Julien - Boulder
-    
-    Starting Today 10/18 at 3pm EDT
-    
-*   Vineyard Square Hotel - MA
-    
-    Starting Today 10/18 at 3pm EDT
-    
-*   Aqua Wellness - Nicaragua
-    
-    Starting Today 10/18 at 3pm EDT
-    
-*   Hotel Lutetia - Paris
-    
-    Starting Today 10/18 at 3pm EDT
-    
-*   Eight Days in Bali &. Lombok
-    
-    Starting Friday 10/19 at 11am EDT
-    
 *   Anse Chastanet + Jade Mountain The Five-Night St. Lucia Honeymoon
     
-    Starting Friday 10/19 at 11am EDT
+    Starting Today 10/19 at 11am EDT
     
 *   c/o The Maidstone - Hamptons
     
-    Starting Friday 10/19 at 11am EDT
+    Starting Today 10/19 at 11am EDT
+    
+*   La Maltese Estate - Santorini Honeymoon on Santorini
+    
+    Starting Today 10/19 at 11am EDT
     
 *   Vuyani Lodge - South Africa A Five-night Honeymoon Safari
     
-    Starting Friday 10/19 at 11am EDT
+    Starting Today 10/19 at 11am EDT
+    
+*   Esencia Estate - Riviera Maya
+    
+    Starting Today 10/19 at 11am EDT
+    
+*   Eight Days in Bali &. Lombok
+    
+    Starting Today 10/19 at 11am EDT
+    
+*   SLS Hotel South Beach
+    
+    Starting Tonight 10/19 at Midnight EDT
+    
+*   The Shores - Daytona Beach
+    
+    Starting Saturday 10/20 at Noon EDT
     
 
 View All Upcoming Sales → Jetsetter
