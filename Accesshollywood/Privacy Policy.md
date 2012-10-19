@@ -1,6 +1,6 @@
 Access Hollywood
 
-*   **HOT NOW:** Megan Fox &. Brian Austin Green Welcome Baby Boy
+*   **HOT NOW:** Jessica Biel &. Justin Timberlake's Pre-Wedding Party
 
 *   WATCH
 *   NEWS
@@ -141,37 +141,37 @@ Access Hollywood Live
 
  
 
-**Robert Patrick Reacts To Arnold Schwarzenegger’s Infidelity Scandal**
+**Does Heidi Montag Regret Her Extreme Plastic Surgeries?**
 
-Plus, does Patrick plan to read Arnold’s autobiography, “Total Recall”?
-
- 
-
-**NBC News’ Andrea Mitchell Breaks Down Obama Vs. Romney Town Hall Debate**
-
-so what did she think about the clear tension between President Barack Obama &. Gov. Mitt Romney?
+Heidi explains where she was mentally and emotionally at the time of the surgery.
 
  
 
-‘Dancing With The Stars: All-Stars’
+**Marlon Wayans Lampoons Paranormal Activity With A Haunted House**
+
+Plus, is he still involved with the “Scary Movie” franchise?
 
  
 
-**Bristol Palin’s ‘DWTS’ Blog  
+Hollywood Moms &. Dads
+
+ 
+
+**Kate Gosselin Talks Dating &. Keeping Her Kids Off Of Google  
 **
 
-In her new post, Bristol talks about her spat with Mark Ballas, and what lies ahead for their Rock ‘n’ Roll themed dance!
+The mother of eight dishes on her love life and reveals how she’s learned to manage stress while protecting her children’s emotions.
 
  
 
-Healthy Hollywood
+Access Originals
 
  
 
-**Wellness Wednesday – Candy Crowley’s Calming Secret!  
+**Dish Of Salt  
 **
 
-What was moderator Candy Crowley’s secret to staying calm during the intense debate between Obama and Romney?
+Laura Saltman chats with the stars of NBC’s new hit ‘Revolution’ — Tracy Spiridakos &. Billy Burke.
 
         Also Check Out:  
 
@@ -232,7 +232,7 @@ Gay &. Lesbian Hollywood
 **Gay &. Lesbian Hollywood  
 **
 
-After suffering a heart attack in August, Rosie O’Donnell said she is now doing much better after a trying year, thanks in part to wife Michelle Rounds.
+Anne Hathaway will donate a portion of the profits from the sale of her wedding photos in support of marriage equality.
 
  
 
