@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Ark., Miss. tornadoes leave thousands without power
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: After the fire: Resident returns to devastated ND town
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Jeff Gross, Don Wright, Mike Stone / Getty Images, AP, Reuters Axe could claim several coaches
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Marcio Jose Sanchez / AP Gore carries 49ers past Seahawks
     
-    Ventre: Norv Turner, Andy Reid, Jason Garrett — and even the Falcons' Mike Smith — could wind up unemployed after this season.
+    PFT: As QB Alex Smith struggles, running back racks up 131 rushing yards and ensures defense has enough cushion to hold off NFC West rival, 13-6.
     
-    PFT: Rex Ryan says Belichick best coach PFT: Richardson expects to play on Sunday PFT: Giants' Bradshaw bothered by foot issue Kacsmar: Rookie QBs off to unprecedented start PFT: Ravens put Lewis on IR. could still return PFT: Garrett unhappy with Jones' title talk One-on-one with Mario Williams PFT Live: Jerry Jones' goals too optimistic? Ad
+    CSN: Eagles sticking with Vick, offensive coordinator PFT: Ed Reed says he's fine, 'ya'll don't know nothing' PFT's picks: Can Bengals escape Steelers? Kacsmar: Don't believe hype with Steelers' defense Odds that Suggs plays this week PFT: Rex Ryan says Belichick best coach PFT: NFL didn't always mind teammates paying for hits How bad does Bowe want out of KC? Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Chris Lee / AP Cardinals chase rain, then Giants
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Dilip Vishwanat / Getty Images Can Cardinals close it out?
     
-    Matt Carpenter hit a two-run homer after subbing for an injured Carlos Beltran and the St. Louis Cardinals chased Matt Cain before a 3 1/2 hour rain delay in the seventh inning of a 3-1 victory over the San Francisco Giants for a 2-1 series lead Wednesday night.
+    HBT: St. Louis just one victory from World Series, but it has to face San Francisco's good luck charm, Barry Zito. What happens in Game 5? Here's our guess.
     
-    HBT: Beltran could play in Game 4 HBT: Giants to start Lincecum in Game 4 Rain washes out Yankees-Tigers HBT: Rainout really hurts the Yankees HBT: Jeter to miss 4-5 months after surgery A-Rod, Granderson sit for Game 4 HBT: Girardi benched A-Rod for flirting? Really? CSN: Top catcher? Bengie picks Yadier over Buster Ad
+    St. Louis rolls in Game 4   |  Jay hot at home HBT: Bochy's Giants catcher switch goes bust Tigers sweep Yanks   |  Sheer dominance HBT: Most to blame for Yanks' ALCS flop? DeMarco: Tigers in terrific shape to win it all Sports Talk: Writing on the wall for A-Rod? HBT: Jeter to miss 4-5 months after surgery DeMarco: Tigers' rotation wise mix of ace, castoffs Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Chris Young / AP Fehr has issues with NHL's new offer
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Bruce Bennett / Getty Images Talks take 'step backward'
     
-    PHT: Despite the public’s positive reaction and the general renewal of optimism that the NHL’s season may be saved, nobody really expected the NHLPA to fall madly in love with the league’s new offer.
+    PHT: Prospects for a full 82-game schedule took a serious hit Thursday as NHL commissioner Gary Bettman announced that the league had rejected three proposals by the NHLPA. Bettman said he was 'thoroughly disappointed' with the union's offers.
     
-    Two days after NHL offer, union set to have a say NHL releases details of latest offer to NHLPA PHT: Escrow issue could submarine talks PHT: Toews says owners' offer 'just a ploy' PHT: Crosby takes jab at Giroux PHT: Edmonton officials end arena talks with Oilers SportsTalk: Explaining the proposed NHL deal PHT: Lockout to end? Owners offer 50-50 split Ad
+    PHT: Fehr says 'today is not a good day' PHT: Crosby says NHL not 'willing to negotiate' Breaking down NHL, NHLPA talks PHT: Daly says players' 50-50 offer not truly 50-50 PHT: Doan compares NHL offer to getting held up PHT: After signing bid deal, Parise mad at owners PHT: Who might start strong Nov. 2, hypothetically NHL releases details of latest offer to NHLPA Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Stacy Bengs / AP Love breaks hand in workout
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Issac Baldizon / NBAE/Getty Images Rumors 'not going to worry' LeBron
     
-    PBT: Minnesota's Kevin Love breaks hand in workout, expected to be out 6-8 weeks.
+    PBT: Is L.A. clearing cap space for James in 2014? Doesn't matter, because he's just trying to focus on this season.
     
-    Sports Talk: Could the Lakers win 60 games? PBT: LeBron practices his skyhook (video) PBT: Kobe to A-Rod: Don't forget you're 'the best' PBT: Celtics sign Barbosa to backup Rondo PBT: Marcus Camby not near Knicks return PBT: Bynum back Oct. 24, but he's out of shape PBT: Celtics' Terry already hates Heat, Lakers PBT: Lakers may sign Derek Fisher on Wednesday Ad
+    PBT: Howard making Lakers' debut on Sunday? Sports Talk: Could the Lakers win 60 games? PBT: Wall doesn't know who Bon Jovi is Wade's knee looking just fine Hall of Fame guard Slater Martin dies PBT: LeBron practices his skyhook (video) PBT: Kobe to A-Rod: Don't forget you're 'the best' PBT: Celtics sign Barbosa to backup Rondo Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines NBC Sports Can K-State run the table?
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Christian Petersen / Getty Images Oregon runs all over Arizona St.
     
-    Sports Talk: Erik Kuselias talks with Pat Forde about this weekend's biggest games. If the No. 4 Wildcats win at No. 17 West Virginia, are they in good position to go undefeated?
+    CFT: No. 2 Ducks put on very impressive display in 43-21 laugher over Sun Devils on Thursday.
     
-    K-State gets blueprint for beating West Virginia CFT's Predictions 101: No. 4 K-State to win at WVU No. 2 Oregon, ASU hoping to make a big statement Mariota stays cool as starting QB for Oregon CFT: Lattimore might not play against Florida For some SEC teams, coaching seat heating up Sports Talk: Mathieu still an elite player? Texas A&M has won ugly, but here comes LSU Ad
+    SMU returns 3 INTs for TDs in 72-42 win Pasqualoni return to 'Cuse has UConn hyped SportsTalk: Can K-State run the table? CFT's Predictions 101: No. 4 K-State to win at WVU CFT: Spare us — Sandusky seeking new trial Spurrier wants Gamecocks focused on No. 3 UF CFT: South Carolina DT suspended for UF game CFT: Ohio St. upset after Vandy cancels game Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Alex Grimm / Bongarts via Getty Images file Wolff 4th female to drive F1 car
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Wally Santana / AP Schumacher riding into the sunset
     
-    Susie Wolff is dedicating her first experience to Maria de Villota, who lost the sight in her right eye in a crash in July.
+    Michael Schumacher could literally ride off into the sunset when he retires from Formula One next month after revealing a plan to take up competitive cowboy-style riding.
     
-    McLaren want Hamilton to feel the love NBC Sports Group gets US Formula One rights Ferrari extends Massa's contract through 2013 Sister: Earnhardt could be back next weekend Keselowski not backing down as he heads to Kansas Rain shortens Kansas Speedway test NASCAR dumps top 35 rule, cuts Nationwide field NASCAR dumps top 35 rule, cuts Nationwide field Ad
+    Wolff becomes 4th female to drive an F1 car McLaren want Hamilton to feel the love NBC Sports Group gets US Formula One rights Ferrari extends Massa's contract through 2013 Hamlin crashes during testing at Kansas Speedway Go Daddy says Danica Patrick is still their girl Loeb leads after opening day of Rally Italia Sister: Earnhardt could be back next weekend Ad
 *   NCAA BK
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines James Crisp / AP Impact transfers for this season
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines NBC Sports Don't overlook Kansas this season
     
-    CBT: Ryan Harrow gives Kentucky yet another blue chip player at point guard. Who will be the other players that affect the college hoops landscape?
+    SportsTalk: Erik Kuselias talks with college basketball insider Vin Parise about the war of words between Rick Pitino and Jim Boeheim, if Kansas has the tools to return to the National Championship Game, and more.
     
-    CBT: NCAA clears top Kentucky recruit Noel CBT: Indiana is No. 1 in coaches' Top 25 CBT: Pitino, Boeheim say each other are 'full of s---' Sports Talk: Can Kansas win it all? Off the Bench: Coach's Midnight Madness proposal CBT: Brey thinks Irish have 2 more years in Big East CBT: Get ready to see an improved Pac-12 Judge dismisses Nelson's lawsuit against SI Ad
+    CBT: Did Siva get a girt and a curse? CBT: Mbakwe’s sentence gets decided on Friday CAA officials 'hope' Charleston accepts invite CBT: Why UNC’s trip west got $120,000 more expensive CBT's A-10 preview: This league is LOADED Impact transfers for this season CBT: NCAA clears top Kentucky recruit Noel CBT: Indiana is No. 1 in coaches' Top 25 Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Love still dealing with Ryder Cup loss
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines AskLav: Too early to look ahead?
     
-    As he prepares to host/play in his hometown event in Sea Island, Ga., Davis Love admits he's still trying to get over the Ryder Cup loss.
+    In this week's #AskLav, we look into golf's future with questions and answers on the 2013 majors and potential break-out stars.
     
-    USGA's Davis gives putter talk to Tour players McIlroy, Woods commit to Abu Dhabi again Woods pressed on whether he will join Euro Tour Woods' World Challenge features 13 Ryder Cuppers Furyk looking to salvage disappointing 2012 in Sea Island Featured groups: McGladrey Classic Squads skip traditional Ryder Cup party after U.S. collapse The Last Q-School Rose on Race to Dubai: 'That's my challenge now' Notes: Tseng presses on through horrendous slump Better wedge play is the key to improving your scores Ad
+    Cauley, Dawson share lead in Sea Island USGA's Davis gives putter talk to Tour players McIlroy, Woods commit to Abu Dhabi again Love comments on Toms being next Ryder Cup captain Tseng begins two-week run as defending champion Woods pressed on whether he will join Euro Tour PGA Tour to assume control of Canadian Tour Woods' World Challenge features 13 Ryder Cuppers Ex-Stanford standout stays atop Q-School School of Golf: Tips for disabled golfers Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Reed Hoffmann / AP Promises fulfilled: US attack clicks
+    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Mike Ehrmann / Getty Images US men whose stock's gone up
     
-    PST: For a few minutes on Tuesday, it finally came together. And by a few minutes, I mean almost a full half. Fourteen months of promises that we’d see a different kind of soccer started to manifest into real, tangible results.
+    PST: Johnson, Bradley, Dempsey and Zusi all acquitted themselves well in the past two World Cup qualifiers.
     
-    PST: CONCACAF World Cup qualifying group set RSL unable to capitalize in 0-0 draw with Seattle Highlights of Real Salt Lake-Seattle draw PST: Gspurning to the rescue  |  Great saves! PST: So much for Canada's rivalry with US PST: How's Bob Bradley faring with Egypt? PST: US can relax after 3-1 win vs. Guatemala PST: Dempsey easy call for Man of Match Ad
+    PST: US men whose stock has stayed solid PST: Promises fulfilled — US attacking clicks PST: CONCACAF World Cup qualifying group set PST: Soler canned over bad performance reviews Johnson back in Seattle after shining for US Brazilian player hospitalized with head injury England's Cole fined $145,000 for Twitter post Terry won't appeal against ban for racial abuse Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Toby Melville / Reuters Phelps named 'Fittest Man' ever
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Joe Kohen / Getty Images Contributor Gabby named Sportswoman of the Year
     
-    OlympicTalk: Men’s Health names 18-time gold medal swimmer Michael Phelps the “Fittest Man of All-time."
+    OlympicTalk: Another honor for two-time gold medalist gymnast and teenager Gabby Douglas.
     
-    OlympicTalk: Wambach gets Chipotle for life OlympicTalk: BMX rider Bennett dies in car crash OlympicTalk: Is baseball coming back in 2020? Usain Bolt goes for the gold (hair) on 'SNL' World record marathoner Radcliffe loses funding Rogge says London could host Games again soon OlympicTalk: Vonn's possible male competitiors speak Olympic champ Maroney still on crutches Ad
+    Sprint champ Randall kicking up training OlympicTalk: Phelps named 'Fittest Man' ever US skating champ hopes to build on breakout season OlympicTalk: Wambach gets Chipotle for life OlympicTalk: BMX rider Bennett dies in car crash OlympicTalk: Is baseball coming back in 2020? Usain Bolt goes for the gold (hair) on 'SNL' World record marathoner Radcliffe loses funding Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Charles Platiau / Reuters Armstrong quitting Livestrong
+    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Benoit Tessier / Reuters Is Armstrong's fall worst ever?
     
-    Lance Armstrong stepped down as chairman of his cancer-fighting charity and Nike severed ties with him as fallout from the doping scandal swirls around him.
+    VeloNews: Nike, RadioShack, Giro, Trek, Honey Stinger and Anheuser-Busch have ditched the disgraced cyclist amid his doping scandal.
     
-    Making sense of the Armstrong situation Slideshow: Armstrong, on and off the bike Armstrong leaves foundation to ride rocky road Are reporters to blame for Armstrong myth? Tennis.com: Big 4 are under no threat Lynx draws even in WNBA Finals The Week in Sports Pictures Sports backgrounds for Obama, Romney Ad
+    Erasing Lance's wins messy but necessary Ratto: Lance will resurface, and we'll let him Slideshow: Armstrong, on and off the bike Gay boxer set for first fight since coming out Team penalized because band was too loud Judge rules for cheerleaders in Bible banner suit Fever coach critical of Lynx counterpart The Week in Sports Pictures Ad
 
 *   Scores
 *   Odds
@@ -184,9 +184,9 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com NFL: Nothing rookie about these QBs  |  RG3 'different'  
+Tweet Also on NBCSports.com DeMarco: Tigers in terrific shape to win it all  
+NFL: Nothing rookie about these QBs  |  RG3 'different'  
 CFT's Predictions 101: Yes, K-State can win at WVU  
-PBT: Kobe to A-Rod: Don't forget you're the best. I don't.  
 CBT: Kentucky's Harrow one of our impact hoops transfers  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
