@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (8.8 MB) Top PC Downloads 1 Diner Dash 2 Diner Dash 2 Restaurant Rescue 3 Wedding Dash 4 - Ever 4 Diner Dash: Hometown Hero 5 Wedding Dash 6 Hotel Dash: Suite Success 7 Cooking Dash 8 SpongeBob SquarePants Diner Dash 9 Diner Dash Flo on the Go 10 Diner Dash 5: BOOM » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (8.8 MB) Top PC Downloads 1 Diner Dash 2 Hotel Dash: Suite Success 3 Diner Dash 2 Restaurant Rescue 4 Wedding Dash 4 - Ever 5 Diner Dash: Hometown Hero 6 Wedding Dash 7 Cooking Dash 8 SpongeBob SquarePants Diner Dash 9 Diner Dash 5: BOOM 10 Diner Dash Flo on the Go » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -249,7 +249,11 @@ Diner Dash DASH™ &. Time Mgmt Games
 
 Ditch your desk job and serve up some grub!
 
-**Play Free!** (8.8 MB) Try It Diner Dash 2 Restaurant Rescue DASH™ &. Time Mgmt Games
+**Play Free!** (8.8 MB) Try It Hotel Dash: Suite Success DASH™ &. Time Mgmt Games
+
+Flo's going into the hotel business!
+
+**Play Free!** (33.7 MB) Try It Diner Dash 2 Restaurant Rescue DASH™ &. Time Mgmt Games
 
 Sling grits, earn tips - help Flosave her friends!
 
@@ -265,11 +269,7 @@ Restore Flo's hometown!
 
 Help Quinn make wedding bells ring!
 
-**Play Free!** (18.7 MB) Try It Hotel Dash: Suite Success DASH™ &. Time Mgmt Games
-
-Flo's going into the hotel business!
-
-**Play Free!** (33.7 MB) Try It Cooking Dash DASH™ &. Time Mgmt Games
+**Play Free!** (18.7 MB) Try It Cooking Dash DASH™ &. Time Mgmt Games
 
 Help Flo cook and deliver food from four DinerTown restaurants while Cookie the Chef courts culinary celebrity!
 
@@ -277,15 +277,15 @@ Help Flo cook and deliver food from four DinerTown restaurants while Cookie the 
 
 Soak up five-star feeding fun with everyone's favorite sponge!
 
-**Play Free!** (10.2 MB) Try It Diner Dash Flo on the Go DASH™ &. Time Mgmt Games
-
-Flo trades in her apron for a passport to paradise!
-
-**Play Free!** (11.8 MB) Try It Diner Dash 5: BOOM DASH™ &. Time Mgmt Games
+**Play Free!** (10.2 MB) Try It Diner Dash 5: BOOM DASH™ &. Time Mgmt Games
 
 Rebuild Flo's Diner from scratch!
 
-**Play Free!** (65.4 MB) Try It Log In New to PlayFirst?
+**Play Free!** (65.4 MB) Try It Diner Dash Flo on the Go DASH™ &. Time Mgmt Games
+
+Flo trades in her apron for a passport to paradise!
+
+**Play Free!** (11.8 MB) Try It Log In New to PlayFirst?
 
 Sign up below to create a new PlayFirst account.
 
