@@ -143,7 +143,7 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Hypothyroidism Weight Resources
+*   Weight Loss Programs For Men Resources
 
   
 Stay in Touch With SparkPeople **The Crunch Test**
@@ -152,16 +152,16 @@ How many crunches can you do? Find out what your number says about your fitness 
 
 Read More
 
-*   Please share your favorite "pumpkin" recipes!
-*   Mindful baking?
+*   What's your "go to" type of workout?
 *   Specific Tips to get through the Weekend
-*   Need Ideas for working out at home
-*   How do you maintain your exercise long-term?
+*   "New to me" foods
+*   Mindful baking?
+*   Healthy Halloween snacks
 
 View Demo **Reverse Grip Triceps Pulldown on Cable Cross Machine**  
-A reverse grip adds challenge to this exercise. **Caramelized Pears with Toasted Almonds and Yogurt**
+A reverse grip adds challenge to this exercise. **Chicken Oregano with Sweet Peppers**
 
-Not only will this taste yummy, but it is a gorgeous presentation as well. You'll impress everyone! Full Recipe
+Serve this on top of a bed of brown rice. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
