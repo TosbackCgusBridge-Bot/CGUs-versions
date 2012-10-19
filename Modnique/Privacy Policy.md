@@ -44,112 +44,105 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
-    *   Berek Women's Apparel
-    *   Blumarine, Mariella Burani Handbags and Accessories
+    *   100 best season jewelry styles
+    *   Antique Rivets Denim for Him and Her
     *   Boma jewelry
     *   Brand Too Hot to Mention: Designer Scarves
-    *   Designer jewelry: Touch of Color
-    *   Elysa handbags
+    *   FPJ jewelry
+    *   French designers handbags
     *   Golden Silver Women's Apparel
     *   Jantie Women's Apparel Made In USA
-    *   Kenneth Cole Women's Outerwear
-    *   L'Adore Women's Apparel
+    *   Kenneth Cole Accessories
     *   La Prairie Cosmetics
-    *   Must-Have Booties
+    *   Mary-Jane Pumps
+    *   RED Valentino Featuring Shoes &. Apparel
+    *   Red Ginger Cosmetics
     *   Sergio Rossi, Gianfranco Ferre, Gucci and more Shoes
     *   Sexy Diva Dresses Made in USA
-    *   Sparkle &. Shine: Jewelry Favorites
+    *   The Fashion Room from $19
     *   Zoppini &. Manuel Zed Jewelry
     *   _more..._
     *   men
-    *   Men's Shop : Report Collection, Lauren by Ralph Lauren
-    *   Men's Shop: Carrera Shoes
-    *   Valentino Men's Scarves and Ties
+    *   Uomini Italiani Men's Apparel
     *   _more..._
     *   other
+    *   100 best season watch styles
     *   Rolex
     *   _more..._
 *   apparel
     *   women
+    *   Antique Rivets Denim for Him and Her
     *   Berek Women's Apparel
     *   Cocktail Glam With Badgley Mischka
     *   Earth Yoga Women's Apparel
     *   Golden Silver Women's Apparel
     *   Jantie Women's Apparel Made In USA
-    *   Kenneth Cole Women's Outerwear
-    *   L'Adore Women's Apparel
     *   Moto Must Haves: Jackets and Boots
+    *   RED Valentino Featuring Shoes &. Apparel
     *   Sexy Diva Dresses Made in USA
-    *   Sweaters By Free People and More
+    *   The Fashion Room from $19
     *   _more..._
     *   men
-    *   Kenneth Cole Men's Outerwear
-    *   Men's Shop : Report Collection, Lauren by Ralph Lauren
+    *   Uomini Italiani Men's Apparel
+    *   _more..._
+    *   other
     *   _more..._
 *   Jewelry &. Watches
     *   women
+    *   100 best season jewelry styles
     *   Affordable Jewelry
     *   Boma jewelry
-    *   Designer Jewelry
     *   Designer jewelry: Touch of Color
-    *   Fall Trend Report: Blue Shades
+    *   FPJ jewelry
     *   Jewelry Box must-haves
     *   Sofragem Jewelry
     *   Sparkle &. Shine: Jewelry Favorites
     *   Zoppini &. Manuel Zed Jewelry
     *   _more..._
     *   other
+    *   100 best season watch styles
     *   Italian watches from $25
-    *   PILGRIM SKANDERBORG, DENMARK Ladies Crystal Bracelet
     *   Rolex
-    *   Round Shaped Watches
     *   Tonino Lamborghini Watches
     *   _more..._
 *   Handbags &. Accessories
     *   women
     *   Blumarine, Mariella Burani Handbags and Accessories
     *   Brand Too Hot to Mention: Designer Scarves
-    *   Buco handbags
-    *   Designer Jewelry
     *   Elysa handbags
-    *   Louis Vuitton Handbags
+    *   French designers handbags
+    *   Kenneth Cole Accessories
     *   _more..._
     *   men
     *   Valentino Men's Scarves and Ties
     *   _more..._
     *   other
-    *   Animal Hats
     *   Calvin Klein Sunglasses
     *   _more..._
 *   shoes
     *   women
-    *   Flats under $19
+    *   Mary-Jane Pumps
     *   Moto Must Haves: Jackets and Boots
     *   Must-Have Booties
+    *   RED Valentino Featuring Shoes &. Apparel
     *   Sergio Rossi, Gianfranco Ferre, Gucci and more Shoes
-    *   _more..._
-    *   men
-    *   Men's Shop: Carrera Shoes
     *   _more..._
 *   beauty
     *   women
-    *   Immoral Cosmetics Made in USA
     *   La Prairie Cosmetics
+    *   Red Ginger Cosmetics
     *   _more..._
     *   other
     *   Aero Minerals ft. Spirit Spray
     *   _more..._
 *   men
+    *   100 best season watch styles
     *   Aero Minerals ft. Spirit Spray
-    *   Animal Hats
     *   Calvin Klein Sunglasses
     *   Italian watches from $25
-    *   Kenneth Cole Men's Outerwear
-    *   Men's Shop : Report Collection, Lauren by Ralph Lauren
-    *   Men's Shop: Carrera Shoes
     *   Rolex
-    *   Round Shaped Watches
     *   Tonino Lamborghini Watches
+    *   Uomini Italiani Men's Apparel
     *   Valentino Men's Scarves and Ties
     *   and many more...
 *   gifts
