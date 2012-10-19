@@ -102,15 +102,15 @@ Recipe
         *   Christmas
         *   New Year's
         *   Valentine's Day
-        *   Mardi Gras
+        *   St. Patrick's Day
         *   See all
     *   Special Occasions
         *   Birthdays
         *   Game Day
-        *   Betty's Brew House
         *   Potlucks
         *   Favorite Parties
-        *   Weddings
+        *   Showers &. Parties
+        *   Cookie Exchanges
         *   See all
 *   How-Tos
     *   Technique, Prep &. Storage
