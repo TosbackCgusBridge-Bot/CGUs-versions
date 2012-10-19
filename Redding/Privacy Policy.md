@@ -267,23 +267,23 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 295 comments
-*   UPDATED: Duenas preliminary hearing confirmed Updated 10/17/2012 at 9:52 a.m. 50 comments
-*   Robert Huerta: American cannot leave God behind Published 10/17/2012 at 12:00 a.m. 95 comments
-*   UPDATED: Two injured after truck hits tree on Old Oregon Trail in north Redding Updated 10/17/2012 at 2:04 p.m. 12 comments
-*   Six arrested in Tehama County marijuana raid, deputies say Published 10/17/2012 at 2:59 p.m. 26 comments
+*   UPDATED: Police: Redding gas station clerk uses shovel to fend off early morning robbery attempt Updated 10/18/2012 at 8:41 a.m. 43 comments
+*   UPDATED: Montague woman, 30, killed by husband, deputies say Updated 10/18/2012 at 4:39 p.m. 12 comments
+*   Federal appeals court in New York nixes Defense of Marriage Act Published 10/18/2012 at 9:08 a.m. 66 comments
+*   Does character matter in a presidential candidate? Take our survey Published 10/18/2012 at 8:17 a.m. 66 comments
+*   Bethel teaches languages from Arabic to Chinese to Portuguese Published 10/17/2012 at 10:48 p.m. 46 comments
 
-Photo Galleries Google data center Red Bluff men get marijuana back West Valley beats Shasta
+Photo Galleries Clarizio's Deli Red Bluff men get marijuana back Google data center
 
-*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 295 comments
-*   Jim Jones: Gas prices are just the start Published 10/15/2012 at 12:00 a.m. 173 comments
+*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 364 comments
 *   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Published 10/15/2012 at 11:42 p.m. 121 comments
 *   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 114 comments
-*   Robert Huerta: American cannot leave God behind Published 10/17/2012 at 12:00 a.m. 95 comments
+*   Robert Huerta: American cannot leave God behind Published 10/17/2012 at 12:00 a.m. 103 comments
+*   Does character matter in a presidential candidate? Take our survey Published 10/18/2012 at 8:17 a.m. 66 comments
 
 *   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
 *   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 54 comments
-*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 87 comments
+*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 89 comments
 *   Dog trainer teaches empathy at Tehama juvenile hall Published 10/15/2012 at 11:40 p.m. 9 comments
 *   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Published 10/13/2012 at 10:14 a.m. 34 comments
 
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 58° Fair Wind: Calm Today 87° 54° Thu 05:00 PM Sunny Temp: 84° Fri 05:00 AM Mostly Clear Temp: 56° Fri 05:00 PM Partly Sunny Temp: 79°
+Currently 53° Fair Wind: Calm Today 79° 53° Fri 05:00 PM Partly Sunny Temp: 78° Sat 05:00 AM Mostly Clear Temp: 57° Sat 05:00 PM Partly Sunny Temp: 75°
 
-Feels Like: 81°
+Feels Like: 78°
 
-Humidity: 15%
-
-Precip: 0%
-
-Feels Like: 56°
-
-Humidity: 51%
+Humidity: 26%
 
 Precip: 0%
 
-Feels Like: 79°
+Feels Like: 57°
 
-Humidity: 24%
+Humidity: 69%
 
-Precip: 1%
+Precip: 10%
+
+Feels Like: 75°
+
+Humidity: 25%
+
+Precip: 9%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Thursday Oct 18
 *   Friday Oct 19
 *   Saturday Oct 20
+*   Sunday Oct 21
 *   More BROWSE Icon
-
-*   Nor-Cal Think Pink Day MD Imaging, and Churn Creek Post Office 7 a.m.
-*   Wintu Audubon's Local Weekday Birdwalk at Kapusta Redding Convention Center 8 a.m.
-*   AARP Driver Safety Class Redding Library 1 p.m.
-*   The Spa Shoppes Fall Open House The Spa Shoppes 5 p.m.
-*   Pink Sundial Bridge Lighting Event Sundial Bridge 6 p.m.
-
-More Events »
 
 *   Fill a Bag, Feed a Family Food Drive See Description 7 a.m.
 *   Prevailing Wage/ Certified Payroll Shasta Builder's Exchange 9 a.m.
@@ -356,13 +348,21 @@ More Events »
 
 More Events »
 
+*   Free gem and mineral show Shasta District Fair grounds 10 a.m.
+*   Road Tour of the Ponderosa (Manton) Fire See Description 11 a.m.
+*   Rivercity Jazz Society, Straight Ahead Big Band concert and dance Elks Lodge 1 p.m.
+*   Yarns at the Redding Library Redding Library 1 p.m.
+*   Zumbathon Sequoia Middle School 1:30 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Missed the Presidential Debate Last Night?
+*   Does character matter?
     
-    Catch up and watch it here.
+    Take our Presidential candidate character survey.
     
     Fantasy Fountain
     
