@@ -688,13 +688,13 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡Enamorados!
+*   ¡No te las pierdas!
     
-    Fabiola y Miguel se juran amor eterno en Corazón.  
+    Conoce aquí lo mejor de tus novelas.  
     
-*   Gloria Trevi
+*   ¿Se desnudó?
     
-    La estrella con un look inconfundible   
+    No lo dejes ir... Atrápalo así  
     
 *   Vota por el mejor presentador
     
