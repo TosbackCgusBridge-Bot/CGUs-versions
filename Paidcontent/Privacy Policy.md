@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Update: Google announces disappointing results early, stock halted
+Polar Mobile arms publishers with MediaEverywhere HTML5 tool
 
 Stay on top of tech news in your inbox
 
