@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Diners, Drive-I... UP NEXT › Diners, Drive-I...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Nigella Kitchen UP NEXT › Nigella Kitchen
 
 *   Channel  
     Guide
@@ -276,6 +276,8 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   All your favourite Andy Bates recipes in one place: t.co/watroAxH #StreetFeastsUSA
+*   Enter our competition for your chance to win 1 of 100 @alaskaseafooduk cookbooks: t.co/xWQo8zjs #competition
 *   @dalepakfoods our thoughts exactly!! ;)
 *   Thanks! @eatmypies will love that! RT @tiffanyharelik: @FoodNetwork\_UK love to Andy from Austin and @trailerfood
 *   @drinkfoodfun shall we?
@@ -284,8 +286,6 @@ Your email address:
 *   @katekatekoala thank you, it was at Avista, Grosvenor Sq.
 *   Plum tart, vanilla ice cream, sesame tuile and plum compote #excusethebadlight t.co/O7K1CugC
 *   Bit stuffed from the @nibblr #nibblrlaunch. Food was a-maz-ing.
-*   Same to you @StephsBubble @lisaeatswell. Great to see you again @slowfoodLondon
-*   @unuscanislupus welcome to the club! #truefans
 
 Follow Us
 
