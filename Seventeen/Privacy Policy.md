@@ -39,7 +39,7 @@ Who's Your Celeb Shopping Buddy?
 *   Beauty Videos
 *   Get Beauty Advice
 
-Latina Beauty Guide
+Fall Beauty Must-Haves
 
 *   Celebrity News
 *   One Direction News
@@ -52,7 +52,7 @@ Latina Beauty Guide
 *   Celebrity Quizzes
 *   Celebrity Videos
 
-Watch One Direction's New Music Video!
+Willa Holland Spills About _Arrow_!
 
 *   Hot Guy Panel
 *   Boyfriend Battle
@@ -61,7 +61,7 @@ Watch One Direction's New Music Video!
 *   Hot Guy Videos
 *   Get Guy Advice
 
-Love Advice in 140 Characters or Less!
+Avoid These Major Flirting Fails!
 
 *   Fitness Blog
 *   Sex Q&A
@@ -71,7 +71,7 @@ Love Advice in 140 Characters or Less!
 *   Health &. Fitness Videos
 *   Get Health Advice
 
-Healthy Halloween Swaps
+Make Peace with Your Body
 
 *   Freshman 15
 *   Dorm Room Battle
@@ -80,7 +80,7 @@ Healthy Halloween Swaps
 *   Get College Advice
 *   Electionista Blog
 
-See Pics of The Freshman 15
+The 10 Coolest College Classes
 
 *   Prom
 *   Quinceaneras
@@ -95,20 +95,20 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
 
 *   college
     
-    The 10 Coolest College Classes
+    Should You Rush?
 *   entertainment
     
     Love Advice From Movies
 *   fashion
     
-    Cute Coats
+    Cute Winter Coats
 *   love
     
-    Crush of the Week: Ryan Wieber
+    Crush of the Week: Leroy Sanchez
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win Catwalk Salt Spray to give hair texture and waves. Type in the Freebie Phrase of the Day, found in the October Issue!
+**1 Winner!** Enter for a chance to win Sugar Shock and Totally Baked volumizer. Type in the Freebie Phrase of the Day, found in the October Issue!
 
  enter now 
 
