@@ -1,27 +1,27 @@
-*   VIDEO Spanish News Channel Fail
-*   VIDEO Shotgun Hits Face
-*   VIDEO Alberta Cop Kicks Man In Face
-*   VIDEO Commentators Mock Injured Rallycross Driver
-*   VIDEO Dead Deer Found Inside Restaurant Kitchen
+*   VIDEO Woman Gives Birth On A Jail Floor
+*   VIDEO Kid Gets Punished By Girl
 *   STAR WEIRDS BLOG 5...
-*   VIDEO Guy Dunks Head In Piss Bucket
-*   VIDEO Dance Recitle Distraction
-*   VIDEO Pocket Like It's Hot
+*   VIDEO Truck Loses It's Load
+*   VIDEO Behind The Back Touchdown
+*   VIDEO Man Arrested for Staging Terror Threat
 *   WAYS TO SAVE BLOG 5 Ways to Save a Buttload of Money!
-*   VIDEO Baby Stops Crying When 2 Chainz Comes On
-*   VIDEO Tilt-Shift San Francisco
-*   VIDEO Cone Crust Pizza
-*   VIDEO Kid Licks Subway Railing For 1 Dollar
-*   VIDEO Karate Kid Fail
+*   VIDEO Jalen Rose Explains Kobe's 81 Point Game
+*   VIDEO Ravens Fans Vulgar Chant
+*   VIDEO Slow Mo: Molotov Cocktail Against House
+*   BLOG Seven Psychocats
+*   VIDEO Eye Controlled Computer
+*   VIDEO Kid Rock &. Pam Anderson Yell at Paparazzi
+*   VIDEO Cartoon Network 20 Year Tribute
 *   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
-*   VIDEO Eye Of The Pig Caller
 *   CELEBRIDEAD GALLERY Celebrity Life Update
+*   GAME Infectionator 2
+*   VIDEO Guy Dunks Head In Piss Bucket
 *   VIDEO Kid Narrowly Avoids Death By Motorcycle
-*   SAM JACKSON PARTNER Sam Jackson Quotes
-*   VIDEO Obama Is A Communist - Remix
-*   CUBE MAPPING PARTNER 3D Cube Mapping Demo
+*   VIDEO Woman Hoards "30" Obama Phones
 *   BEST OF HAZING BLOG Fraternity Hazing is Retarded.
-*   VIDEO Log Crossing Epic Fail
+*   VIDEO Cute Kitten in a Little Hat
+*   SAM JACKSON PARTNER Sam Jackson Quotes
+*   CUBE MAPPING PARTNER 3D Cube Mapping Demo
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
