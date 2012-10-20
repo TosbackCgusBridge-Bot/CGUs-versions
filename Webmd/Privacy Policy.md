@@ -42,9 +42,9 @@ Skip to content Enter Search Keywords. Use the arrow keys to navigate suggestion
     *   **WebMD Communities:** Connect with people like you, and get expert guidance on living a healthy life.
     *   **WebMD Physician Directory:** Find a doctor in your area.
     
-    WebMD Apps
+    WebMD Pain Coach
     
-    WebMD apps on the go via your smart phone or tablet.
+    Track your pain levels, triggers, and treatments. Set goals and get tips with our app for iPhone.
 *   Drugs &. Supplements
     
     Find Information About:
