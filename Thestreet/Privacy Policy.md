@@ -85,15 +85,13 @@ A NOTE FROM STEPHANIE LINK
 
 *   HOT TOPICS:
 *   Cramer's Eight-Point Plan
-*   Tax Fairness
-*   GE Revenue Miss
+*   $249 Google Laptop vs. $499+ Windows 8
 *   CyberSecurity Webinar
-*   Tweeps to Follow
+*   Last Presidential Debate
 *   5 Dumbest
-*   Analysts' Actions
-*   Chipotle
+*   Kass
 
-pjava01.dc.thestreet.com Privacy Policy
+pjava04.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -248,13 +246,13 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,443.37 -105.57 -0.78% NASDAQ 3,046.51 -26.36 -0.86% S&P 500 1,448.81 -8.53 -0.59% US 10 Yr 1.798% -0.028 Brokerage Partners Most Commented
+DOW 13,343.51 -205.43 -1.52% NASDAQ 3,005.62 -67.25 -2.19% S&P 500 1,433.19 -24.15 -1.66% US 10 Yr 1.768% -0.058 Brokerage Partners Most Commented
 
-*   10 Worst Cars of All Time
 *   Google Drops the Neutron Bomb: $249 Laptop
-*   10 Cult TV Shows Netflix Should Revive
+*   10 Worst Cars of All Time
 *   Apple, Microsoft Need to Innovate, If They Can
-*   Microsoft Will Lose a War With Apple. So Will Google
+*   10 Cult TV Shows Netflix Should Revive
+*   6 Tech Toys Better Than What Apple Sells
 
 Articles From Advertising Partners Free Newsletters from TheStreet
 
