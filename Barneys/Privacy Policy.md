@@ -6,7 +6,7 @@ COMPLIMENTARY SHIPPING ON ALL US ORDERS
 
 See Details
 
-Log In Favorites Favorites My favorites (3) Most Loved Alexander Wang Donna Hobo Barneys New York Search
+Log In Favorites Favorites My favorites (3) Most Loved Carven Poppy Printed Skirt Barneys New York Search
 
 *   New Arrivals
     *   All New Arrivals
@@ -114,7 +114,7 @@ Log In Favorites Favorites My favorites (3) Most Loved Alexander Wang Donna Hobo
     Lanvin Printed Python Platform _$855_ $339 _Sale_
 *   The window Insider Fashion Access Video
     
-    Enter To Win a $2,500 Barneys New York Gift Card…
+    Laurie Trott of Who What Wear Says ‘Show Some Skin’
     
 *   Trends
     
