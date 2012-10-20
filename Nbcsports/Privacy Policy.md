@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: 8 killed in huge bomb blast in Beirut
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: 1 dead, 4 seriously hurt in Ariz. tour bus crash
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Marcio Jose Sanchez / AP Gore carries 49ers past Seahawks
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Justin K. Aller / Getty Images Don't believe hype with Steelers' 'D'
     
-    PFT: As QB Alex Smith struggles, running back racks up 131 rushing yards and ensures defense has enough cushion to hold off NFC West rival, 13-6.
+    Kacsmar: Known as the father of the zone blitz, which creates illusions of pressure, Dick LeBeau has also created an illusion that his long career is full of defensive coaching success. That's not the case.
     
-    CSN: Eagles sticking with Vick, offensive coordinator PFT: Ed Reed says he's fine, 'ya'll don't know nothing' PFT's picks: Can Bengals escape Steelers? Kacsmar: Don't believe hype with Steelers' defense Odds that Suggs plays this week PFT: Rex Ryan says Belichick best coach PFT: NFL didn't always mind teammates paying for hits How bad does Bowe want out of KC? Ad
+    PFT's picks: Can Bengals escape Steelers? PFT: Roethlisberger expected to play Sunday PFT: Goodell passes baton to Tags in bounty case PFT: Tebow obtains 'Tebowing' trademark PFT: 'Skins, Bills fined $20K each for injury reports Clock running out on Tebow Time? PFT: 49ers complain about Seahawks CBs PFT: Dolphins' Misi avoids jail in battery case Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Dilip Vishwanat / Getty Images Can Cardinals close it out?
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Elsa / AP Zito deals zeroes, keeps SF alive
     
-    HBT: St. Louis just one victory from World Series, but it has to face San Francisco's good luck charm, Barry Zito. What happens in Game 5? Here's our guess.
+    Despite never throwing a pitch that topped 86 mph, San Francisco's Barry Zito shut down the Cardinals for 7 2/3 innings Friday night, keeping the Giants alive in the National League Championship Series, 5-0.
     
-    St. Louis rolls in Game 4   |  Jay hot at home HBT: Giants season comes down to Zito HBT: Bochy's Giants catcher switch goes bust Tigers sweep Yanks   |  Sheer dominance DeMarco: Tigers in terrific shape to win it all CSN: Welcome to rock bottom, Yankees HBT: Most to blame for Yanks' ALCS flop? Sports Talk: Writing on the wall for A-Rod? Ad
+    HBT:Overaggressive Cards come up empty in Game 5 HBT: Barry Zito turns back the clock HBT: Steinbrenner: A-Rod getting too much blame HBT: Bochy's Giants catcher switch goes bust HBT: Tigers to play minor leaguers to stay sharp St. Louis rolls in Game 4   |  Jay hot at home Tigers sweep Yanks   |  Sheer dominance DeMarco: Tigers in terrific shape to win it all Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Bruce Bennett / Getty Images Talks take 'step backward'
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Chris Young / AP Breaking down the talks
     
-    PHT: Prospects for a full 82-game schedule took a serious hit Thursday as NHL commissioner Gary Bettman announced that the league had rejected three proposals by the NHLPA. Bettman said he was 'thoroughly disappointed' with the union's offers.
+    Sports Talk: Kevin Dupont gives a rundown of where things stand in the labor negotitations between the NHL and the NHLPA. Is there hope for a settlement in the near future?
     
-    PHT: Fehr says 'today is not a good day' PHT: Crosby says NHL not 'willing to negotiate' Breaking down NHL, NHLPA talks PHT: Daly says players' 50-50 offer not truly 50-50 PHT: Doan compares NHL offer to getting held up PHT: After signing bid deal, Parise mad at owners PHT: Who might start strong Nov. 2, hypothetically NHL releases details of latest offer to NHLPA Ad
+    PHT: NHL slashes games through Nov. 1 PHT: Five best canceled games we're missing PHT: Crosby looking 'a little harder' at Europe PHT: Crosby says NHL not 'willing to negotiate' PHT: Bettman says talks take 'step backward' PHT: Fehr says 'today is not a good day' PHT: Daly says players' 50-50 offer not truly 50-50 PHT: Doan compares NHL offer to getting held up Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Issac Baldizon / NBAE/Getty Images Rumors 'not going to worry' LeBron
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Markus Schreiber / AP Nowitzki out 6 weeks after surgery
     
-    PBT: Is L.A. clearing cap space for James in 2014? Doesn't matter, because he's just trying to focus on this season.
+    PBT: Dirk Nowitzki underwent arthroscopic surgery to his right knee Friday morning and will be out for about six weeks, the team announced Friday.
     
-    PBT: Howard making Lakers' debut on Sunday? Sports Talk: Could the Lakers win 60 games? PBT: Wall doesn't know who Bon Jovi is Wade's knee looking just fine Hall of Fame guard Slater Martin dies PBT: LeBron practices his skyhook (video) PBT: Kobe to A-Rod: Don't forget you're 'the best' PBT: Celtics sign Barbosa to backup Rondo Ad
+    Fantasy Fix: Can rookies prove worthwhile? Winless Lakers stay that way against Kings PBT: Rumors 'not going to worry' LeBron PBT: Howard making Lakers' debut on Sunday? Sports Talk: Could the Lakers win 60 games? PBT: Wall doesn't know who Bon Jovi is Hall of Fame guard Slater Martin dies PBT: LeBron practices his skyhook (video) Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Christian Petersen / Getty Images Oregon runs all over Arizona St.
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Frederick Breedon / Getty Images Go with the Gators
     
-    CFT: No. 2 Ducks put on very impressive display in 43-21 laugher over Sun Devils on Thursday.
+    CFT's Predictions 101: Jeff Driskel should find enough room to run to lead No. 3 Florida past No. 9 South Carolina.
     
-    SMU returns 3 INTs for TDs in 72-42 win Pasqualoni return to 'Cuse has UConn hyped SportsTalk: Can K-State run the table? CFT's Predictions 101: No. 4 K-State to win at WVU CFT: Spare us — Sandusky seeking new trial Spurrier wants Gamecocks focused on No. 3 UF CFT: South Carolina DT suspended for UF game No. 1 Alabama heads into Tennessee heavy favorites Ad
+    Spurrier wants Gamecocks focused on No. 3 UF SportsTalk: Can K-State run the table? No. 4 K-State, No. 17 WVU in top Big 12 battle No. 1 'Bama heads into Tennessee heavy favorites LSU and A&M need win to keep pace in SEC West No. 10 Oklahoma aims for more after Texas blowout Pasqualoni returns to SU. his Huskies get whipped Notre Dame Central: Special section on Irish Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Wally Santana / AP Schumacher riding into the sunset
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Chuck Burton / AP Patrick can't get it rolling
     
-    Michael Schumacher could literally ride off into the sunset when he retires from Formula One next month after revealing a plan to take up competitive cowboy-style riding.
+    Trouble in practice, difficulty qualifying, late-race wrecks and even a shoe — yes, a shoe — that she ran over while leading have defined Danica Patrick's first full Nationwide season.
     
-    GP of America in NJ postponed until 2014 Wolff becomes 4th female to drive an F1 car McLaren want Hamilton to feel the love NBC Sports Group gets US Formula One rights Ferrari extends Massa's contract through 2013 Hamlin crashes during testing at Kansas Speedway Go Daddy says Danica Patrick is still their girl Loeb leads after opening day of Rally Italia Ad
+    Kahne qualifies on pole for Cup race at Kansas Schumacher riding into the sunset GP of America in NJ postponed until 2014 Bowman wins ARCA finale, Buescher takes title Wolff becomes 4th female to drive an F1 car McLaren want Hamilton to feel the love NBC Sports Group gets US Formula One rights Ferrari extends Massa's contract through 2013 Ad
 *   NCAA BK
     SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines NBC Sports Don't overlook Kansas this season
     
     SportsTalk: Erik Kuselias talks with college basketball insider Vin Parise about the war of words between Rick Pitino and Jim Boeheim, if Kansas has the tools to return to the National Championship Game, and more.
     
-    CBT: Did Siva get a girt and a curse? CBT: Mbakwe’s sentence gets decided on Friday CAA officials 'hope' Charleston accepts invite CBT: Why UNC’s trip west got $120,000 more expensive CBT's A-10 preview: This league is LOADED Impact transfers for this season CBT: NCAA clears top Kentucky recruit Noel CBT: Indiana is No. 1 in coaches' Top 25 Ad
+    Minnesota's Mbakwe sentenced to probation CBT: Okla. St.'s Williams reportedly out for season CBT: Did Siva get a gift and a curse? CAA officials 'hope' Charleston accepts invite CBT: Why UNC’s trip west got $120,000 more expensive Identifying this year's X-Factors CBT's A-10 preview: This league is LOADED Impact transfers for this season Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines AskLav: Too early to look ahead?
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Cut Line: Do what you Love
     
-    In this week's #AskLav, we look into golf's future with questions and answers on the 2013 majors and potential break-out stars.
+    Davis Love may not be over his team's Ryder Cup collapse, but he certainly isn't dwelling on it as he hosts this week's McGladrey Classic.
     
-    Cauley, Dawson share lead in Sea Island USGA's Davis gives putter talk to Tour players McIlroy, Woods commit to Abu Dhabi again Love comments on Toms being next Ryder Cup captain Tseng begins two-week run as defending champion Woods pressed on whether he will join Euro Tour PGA Tour to assume control of Canadian Tour Woods' World Challenge features 13 Ryder Cuppers Ex-Stanford standout stays atop Q-School School of Golf: Tips for disabled golfers Ad
+    Love, Toms, Furyk chasing McGladrey lead 'Bubble boys' fighting for Tour card at McGladrey Bradley describes Ryder Cup strategy, golf with Jordan Leadbetter: Wie's performance remains a 'mystery' Love comments on Toms being next Ryder Cup captain McIlroy, Woods commit to Abu Dhabi again Stenson hopes for farewell round with Sunesson PGA Tour to assume control of Canadian Tour Woods pressed on whether he will join Euro Tour Ex-Stanford standout stays atop Q-School Ad
 *   Soccer
     SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Mike Ehrmann / Getty Images US men whose stock's gone up
     
     PST: Johnson, Bradley, Dempsey and Zusi all acquitted themselves well in the past two World Cup qualifiers.
     
-    PST: US men whose stock has stayed solid PST: Promises fulfilled — US attacking clicks PST: CONCACAF World Cup qualifying group set PST: Soler canned over bad performance reviews Arsenal goalkeeper Fabianski out for 3 months Dynamo Moscow players shot at from paintball guns Johnson back in Seattle after shining for US Brazilian player hospitalized with head injury Ad
+    Quick primer on MLS weekend ahead Fan runs onto pitch, attacks Kirkland WCup veteran Juninho escapes doping suspension PST: US men whose stock has stayed solid PST: Promises fulfilled — US attacking clicks PST: CONCACAF World Cup qualifying group set PST: Soler canned over bad performance reviews Arsenal goalkeeper Fabianski out for 3 months Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Joe Kohen / Getty Images Contributor Gabby named Sportswoman of the Year
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Leonhard Foeger / Reuters Vonn aiming to face men in Kitzbuehel
     
-    OlympicTalk: Another honor for two-time gold medalist gymnast and teenager Gabby Douglas.
+    OlympicTalk: Lindsey Vonn is still very much interested in going head-to-head with the boys at a World Cup race in Lake Louise next month, but now the four-time champ is turning up the dial.
     
-    Vonn eyes start at men's DH at Kitzbuehel Sprint champ Randall kicking up training OlympicTalk: Phelps named 'Fittest Man' ever US skating champ hopes to build on breakout season OlympicTalk: Wambach gets Chipotle for life OlympicTalk: BMX rider Bennett dies in car crash OlympicTalk: Is baseball coming back in 2020? Usain Bolt goes for the gold (hair) on 'SNL' Ad
+    OlympicTalk: Gabby named Sportswoman of the Year OlympicTalk: Could Games return to Salt Lake City? Hanyu dominates short program at Skate America Maltais sets world record in short-track 1,000 Sweden's Norden wins Triathlon world championships Sprint champ Randall kicking up training OlympicTalk: Phelps named 'Fittest Man' ever US skating champ hopes to build on breakout season Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Benoit Tessier / Reuters Is Armstrong's fall worst ever?
+    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Scott Miller / Reuters Cruz wins 1st bout since coming out
     
-    VeloNews: Nike, RadioShack, Giro, Trek, Honey Stinger and Anheuser-Busch have ditched the disgraced cyclist amid his doping scandal.
+    Orlando Cruz won his first fight since publicly declaring his homosexuality. He retained his light featherweight title Friday night in a 12-round unanimous decision over Jorge Pazos.
     
-    Erasing Lance's wins messy but necessary Ratto: Lance will resurface, and we'll let him Slideshow: Armstrong, on and off the bike Gay boxer set for first fight since coming out Team penalized because band was too loud Judge rules for cheerleaders in Bible banner suit Fever coach critical of Lynx counterpart The Week in Sports Pictures Ad
+    Fever rout Lynx, take 2-1 Finals lead UCI to rule on Armstrong case Monday More riders linked to Armstrong's doctor High school kicker boots 67-yard field goal Sports backgrounds for Obama, Romney WNBA fines Lynx coach after outburst New York bans "Broadway Bomb" skateboard race High school kicker boots it 67 yards Ad
 
 *   Scores
 *   Odds
