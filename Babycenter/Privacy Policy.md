@@ -1,4 +1,4 @@
-You seem to have disabled JavaScript. To take full advantage of our site and functionality, we recommend you enable Javascript.   How? Log in |Sign up Follow us Can babies watch TV?|Easy Halloween crafts Mobile Apps  
+You seem to have disabled JavaScript. To take full advantage of our site and functionality, we recommend you enable Javascript.   How? Log in |Sign up Follow us Highchairs recalled|11 amazing kids' rooms Mobile Apps  
 SECTIONS
 
 *   Getting Pregnant
@@ -22,7 +22,7 @@ SECTIONS
     *   Pregnancy Products
     *   Childbirth Class
     *   Milestones
-    *   Mobile App
+    *   Pregnancy App
     *   News
     *   BabyCenter Blog
     *   Expert Answers
@@ -39,6 +39,7 @@ SECTIONS
     *   Videos
     *   Photos
     *   Baby Products
+    *   Baby App
     *   News
     *   BabyCenter Blog
     *   Expert Questions
