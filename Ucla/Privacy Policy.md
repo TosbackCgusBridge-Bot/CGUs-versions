@@ -2,7 +2,7 @@
 *   Skip to Search
 *   Skip to Main Content
 
-66° and Overcast
+68° and Overcast
 
 *   Prospective Students
 *   Current Students
