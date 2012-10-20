@@ -1,4 +1,4 @@
-**Universal Time:**  Friday, 19 Oct 2012, 15:00    National News
+**Universal Time:**  Saturday, 20 Oct 2012, 12:13    National News
 
 *   Local
     *   Weather Report
@@ -316,7 +316,7 @@ Weather Center Weather Alerts
 Current National Weather Service Watches and Warnings by type and state throughout the United States. Ski &. Snow  
 The Ski &. Snow Section is where you can get the latest ski resort conditions and snow forecasts. Search the Web:Powered by Local | National | Global | Storms | Health | Travel | Community About Us | Weather on your Site | Advertise with Us | Contact Us | Members | Help | Site Map | News Professional Weather Solutions: Aviation | Energy | Media Intellicast.com: The Authority in Expert Weather  
 Your use of this site constitutes your acceptance of the Terms of Use and Privacy Policy  
-2012 WSI Corporation - v4.5.001:ICAST-WEB2 Send this page to a friend Your Name: Your E-mail Address: Friend's E-mail Address: Thank you!  
+2012 WSI Corporation - v4.5.001:ICAST-WEB4 Send this page to a friend Your Name: Your E-mail Address: Friend's E-mail Address: Thank you!  
   
 Your referral has been sent.  
   
