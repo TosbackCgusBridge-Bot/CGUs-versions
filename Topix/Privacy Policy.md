@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
+Syria
+
+The long, tumultuous history of Syria's military and political...
+
 Mitt Romney
 
 For Obama, Romney, last debate is key
-
-Libya
-
-Former Gadhafi spokesman captured in Libya
 
 Politix
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 100,339 • Total comments across all topics: 188,618,263
+Comments made yesterday: 100,326 • Total comments across all topics: 188,619,465
 
 Copyright ©2012 Topix LLC
 
