@@ -143,25 +143,28 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Weight Loss Programs For Men Resources
+*   Sleep Problems Resources
 
   
-Stay in Touch With SparkPeople **The Crunch Test**
+Stay in Touch With SparkPeople **Beat the Flu! Here's How**
 
-How many crunches can you do? Find out what your number says about your fitness level.
+Here's how to prevent an illness from occurring, plus seven tips to get well faster.
 
 Read More
 
-*   What's your "go to" type of workout?
-*   Specific Tips to get through the Weekend
+*   Who Motivates you on Sparkpeople?
+*   Why the scale isn't a good indicator of health.
 *   "New to me" foods
-*   Mindful baking?
-*   Healthy Halloween snacks
+*   What does it mean to eat healthy?
+*   Please share your favorite "pumpkin" recipes!
 
-View Demo **Reverse Grip Triceps Pulldown on Cable Cross Machine**  
-A reverse grip adds challenge to this exercise. **Chicken Oregano with Sweet Peppers**
+View Demo **Low Mount Abduction with Band**  
+This exercise targets 2 common problem areas: outer thighs and hips. **Chef Meg's Spring Rolls**  
+Submitted By: **CHEF\_MEG**
 
-Serve this on top of a bed of brown rice. Full Recipe
+This recipe is really easy. it's really more of a process than a recipe. Rice paper wrappers, which are available in the ethnic sections of most larger supermarkets these days, are a great way to wrap your veggies and protein for a quick snack or light lunch.  
+  
+Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
