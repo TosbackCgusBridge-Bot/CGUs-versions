@@ -353,12 +353,6 @@ MY CART 0 Items0
 
 *   Win Daily Prizes
 
-FREE SHIPPING on select styles\*
-
-We offer FREE SHIPPING on thousands of items every day! Look for the "Free Shipping" indicator on all eligible merchandise. Shipping will automatically be deducted at checkout.
-
-Please note: This offer is valid only on eligible items, and does not apply to in-store orders. Offer is limited to standard ground delivery within the 48 contiguous United States and APO/FPO addresses. Exludes bulk orders and drop ships. Entire order must ship to a single address. Does not apply to prior purchases or open orders. Customer is responsible for shipping costs on returned merchandise. May not be used toward purchase of Gift Cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply.
-
 *   My Account
 *   Order Information
 *   Shipping Information
