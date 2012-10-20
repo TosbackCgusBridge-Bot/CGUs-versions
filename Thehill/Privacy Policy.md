@@ -212,7 +212,7 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-GOP sees food fight as kids trash USDA fruit, vegetable guidelines Obama under pressure to spell out his agenda for a second termObama spinning toward a lossReport: White House adds intelligence-sharing measure to draft cyber orderIn Florida, Romney slams Obama's 'incredible shrinking campaign'
+GOP sees food fight as kids trash USDA fruit, vegetable guidelines Obama under pressure to spell out his agenda for a second termObama spinning toward a lossIn Florida, Romney slams Obama's 'incredible shrinking campaign'Report: White House adds intelligence-sharing measure to draft cyber order
 
 Emailed
 
@@ -220,13 +220,13 @@ GOP sees food fight as kids trash USDA fruit, vegetable guidelines Reagan 1984, 
 
 Discussed
 
-Sen. Graham: Obama move on defense layoff notices 'patently illegal'Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'First lady: President 'didn't point fingers, didn't place blame'Obama spinning toward a lossMore bad news for Mitt Romney
+Sen. Graham: Obama move on defense layoff notices 'patently illegal'Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'First lady: President 'didn't point fingers, didn't place blame'Obama spinning toward a lossObama under pressure to spell out his agenda for a second term
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
+*   Contributions up, spending down for conservative super-Pac
 *   King calls for Benghazi intelligence reports
 *   Report: Rep. Jesse Jackson Jr. returning to Mayo Clinic for treatment
-*   In GOP address, Flake hammers Obama on deficit, unemployment
 
   
 More Briefing Room » Congress Blog
