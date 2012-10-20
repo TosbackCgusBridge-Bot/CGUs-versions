@@ -335,11 +335,13 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Projectiles &. Ignition
     *   Wildlife Management
     *   Game Cameras
+    *   Game Cameras
     *   Food Plots &. Accessories
     *   ATV/UTV Sprayers
     *   Feeders &. Accessories
     *   Feed, Minerals &. Attractants
     *   Traps &. Animal Control
+    *   Treestands &. Blinds
     *   Treestands &. Blinds
     *   Treestands
     *   Climbing Sticks &. Tree Steps
@@ -537,9 +539,11 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
 *   Fishing
     
     *   Rods
+    *   Rods
     *   Spinning Rods
     *   Baitcasting Rods
     *   Specialty Rods
+    *   Reels
     *   Reels
     *   Spinning Reels
     *   Baitcasting Reels
