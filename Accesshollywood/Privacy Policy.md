@@ -1,6 +1,6 @@
 Access Hollywood
 
-*   **HOT NOW:** Tori Spelling Talks Life-Threatening Pregnancy
+*   **HOT NOW:** Justin &. Jessica Wed In Italy!
 
 *   WATCH
 *   NEWS
@@ -141,15 +141,16 @@ Access Hollywood Live
 
  
 
-**Does Heidi Montag Regret Her Extreme Plastic Surgeries?**
+**Tippi Hedren Talks Working With Alfred Hitchcock**
 
-Heidi explains where she was mentally and emotionally at the time of the surgery.
+So, how did Hitchcock’s obsession lead to him ruining her career?
 
  
 
-**Marlon Wayans Lampoons Paranormal Activity With A Haunted House**
+**Recipes: Buca Di Beppo’s Healthy Pasta Dishes  
+**
 
-Plus, is he still involved with the “Scary Movie” franchise?
+In honor of World Pasta Day, the restaurant shares some of their mouth-watering, healthy dishes!
 
  
 
@@ -174,6 +175,17 @@ Access Originals
 Laura Saltman chats with the stars of NBC’s new hit ‘Revolution’ — Tracy Spiridakos &. Billy Burke.
 
         Also Check Out:  
+
+Access Recipes
+
+ 
+
+**Access Recipe Book  
+**
+
+Miss any of the tasty recipes from Access or Access Hollywood Live? You can find them here!
+
+ 
 
 **‘American Idol’  
 **
@@ -221,7 +233,7 @@ Urban Access
 
 **Urban Access**
 
-Flavor Flav is jailed on felony charges in Las Vegas.
+A day after earning his high school diploma, an excited Drake performed hit songs for a few hundred people at an event for Tyra Banks.
 
  
 
@@ -233,17 +245,6 @@ Gay &. Lesbian Hollywood
 **
 
 Anne Hathaway will donate a portion of the profits from the sale of her wedding photos in support of marriage equality.
-
- 
-
-Justin Bieber Fever!
-
- 
-
-**Justin Bieber  
-**
-
-A rep for Justin says his stolen laptop ordeal was no publicity stunt.
 
 *   About
 *   Contact
