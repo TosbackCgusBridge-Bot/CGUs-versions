@@ -572,6 +572,7 @@ Skip Navigation
     Great Deals
     
     *   Free Shipping
+    *   Sale
     
     Holiday Favorites
     
@@ -647,6 +648,7 @@ Skip Navigation
     *   Top Registry Ideas
 *   Sale Limited Time Offers
     
+    *   Warehouse Sale
     *   Fall Dining Sale
     *   Lighting Sale
     *   Rug Event
