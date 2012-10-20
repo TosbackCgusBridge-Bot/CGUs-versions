@@ -8,12 +8,12 @@ Register Sign in Welcome, Logout
         *   Mitt Romney
         *   Barack Obama
         *   2012 Presidential Debates
-        *   Terrorism
         *   Elections 2012
+        *   Terrorism
         *   Television
-        *   Movies
+        *   Science
         *   Music
-        *   AlterNet
+        *   The American Prospect
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -212,11 +212,11 @@ Life. How do we understand what words really mean? New science suggests we make 
 
 Most Read
 
-*   The war on 12-year-old girls Mary Elizabeth Williams
 *   GOP voter registration scandal widens Brad Friedman
+*   The war on 12-year-old girls Mary Elizabeth Williams
 *   Tagg Romney: Mr. White Privilege David Sirota
-*   Lance Armstrong: Biggest sports fraud ever? Tom Carson, The American Prospect
 *   Fox News cost Mitt the debate Jonathan Bernstein
+*   Lance Armstrong: Biggest sports fraud ever? Tom Carson, The American Prospect
 
 Voices
 
