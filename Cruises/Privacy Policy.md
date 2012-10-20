@@ -34,4 +34,4 @@ By using Cruises.co.uk you agree to our cookies and privacy policy
 *   Top
 
 Copyright cruises.co.uk 2011  
-All times are GMT +1. The time now is 01:13 PM.
+All times are GMT +1. The time now is 07:08 PM.
