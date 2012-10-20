@@ -212,21 +212,21 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-GOP sees food fight as kids trash USDA fruit, vegetable guidelines Obama spinning toward a lossObama under pressure to spell out his agenda for a second termReport: White House adds intelligence-sharing measure to draft cyber orderGallup daily: Romney's lead loses a point
+GOP sees food fight as kids trash USDA fruit, vegetable guidelines Obama under pressure to spell out his agenda for a second termObama spinning toward a lossReport: White House adds intelligence-sharing measure to draft cyber orderIn Florida, Romney slams Obama's 'incredible shrinking campaign'
 
 Emailed
 
-Obama spinning toward a lossReagan 1984, Obama 2012GOP sees food fight as kids trash USDA fruit, vegetable guidelines Women, Ohio and the Clintons will make the difference for DemocratsIssa takes aim at President Obama with investigation of Libya attack
+GOP sees food fight as kids trash USDA fruit, vegetable guidelines Reagan 1984, Obama 2012 Obama racks up newspaper endorsementsInternational monitors at US polling places draw criticism Women, Ohio and the Clintons will make the difference for Democrats
 
 Discussed
 
-Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'Professors donate to Obama, opine about election in news articlesFirst lady: President 'didn't point fingers, didn't place blame'Obama spinning toward a lossMore bad news for Mitt Romney
+Sen. Graham: Obama move on defense layoff notices 'patently illegal'Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'First lady: President 'didn't point fingers, didn't place blame'Obama spinning toward a lossMore bad news for Mitt Romney
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
+*   King calls for Benghazi intelligence reports
+*   Report: Rep. Jesse Jackson Jr. returning to Mayo Clinic for treatment
 *   In GOP address, Flake hammers Obama on deficit, unemployment
-*   New Obama ad labels Romney 'not one of us'
-*   DAY'S END ROUNDUP
 
   
 More Briefing Room » Congress Blog
@@ -266,16 +266,16 @@ More Hillicon Valley » E2\-Wire (Energy)
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Since rape comments, silence and small expenditures from some Akin backers
-*   NRSC raises $12.9M for September, falls short of DSCC
-*   Poll: Obama within 1 point in crucial battleground Florida
+*   Poll: Obama up by 2 points in Virginia
+*   Obama plans ‘around the clock' blitz
+*   In Florida, Romney slams Obama's 'incredible shrinking campaign'
 
   
 More Ballot Box » On The Money
 
-*   Senior House Democrate revives discussion of payroll tax cut extension
+*   Stephen Colbert may be waiting for his own 'October surprise'
+*   Senior House Democrat revives discussion of payroll tax cut extension
 *   Existing home sales fall slightly in September
-*   Unemployment falls in battleground states ahead of election
 
   
 More On The Money » Healthwatch
@@ -301,14 +301,14 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
+*   Military voters still face trouble at the polls
 *   Rubio renews intelligence leak debate, ties threat to Libya
 *   Lieberman asks State, DOD for documents in Libya investigation
-*   Report: CIA tagged Libya raid a terrorist strike hours after attack
 
   
 More DEFCON Hill » Global Affairs
 
-*   Republicans hit Obama from all sides on Benghazi response
+*   Republicans hit Obama from all sides on response to Benghazi attack
 *   Issa takes aim at President Obama with investigation of Libya attack
 *   Friday's global agenda: Obama seeks to make up lost foreign policy edge ahead of final debate
 
