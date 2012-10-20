@@ -1,8 +1,8 @@
 Privacy Policy JavaScript is disabled in your browser. We recommend that you enable JavaScript to optimize your experience on DIRECTV.com. Learn More
 
-*   DXDTPW13B
-*   2988737719
-*   3041044295
+*   DXDTPW17D
+*   2989988285
+*   3042575954
 *   false
 *   false
 *   false
@@ -119,7 +119,6 @@ Order Now "/DTVAPP/new\_customer/lightbox/lightboxGettingStarted.jsp"
 *   International
     *   Spanish
     *   Brazilian
-    *   Cantonese
     *   Filipino
     *   Korean
     *   Mandarin
