@@ -265,11 +265,11 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 Critical Strike Portable - Android App 2.590 Englisch Freeware
-*   2 Windows 7 Firewall Control 5.1 Deutsch Freeware
-*   3 VirtualBox 4.2.2 Deutsch Freeware
-*   4 VirtualBox für Mac OS 4.2.2 Deutsch Freeware
-*   5 BootRacer 4.0 Englisch Freeware
+*   1 FormatFactory 3.0 Deutsch Freeware
+*   2 Microsoft Gratis-eBook: Windows 8 Auf einen Blick Deutsch Freeware
+*   3 BootRacer 4.0 Englisch Freeware
+*   4 Boot to Gecko für Firefox 0.3 Englisch Freeware
+*   5 Windows 7 Firewall Control 5.1 Deutsch Freeware
 
 ...mehr
 
@@ -278,8 +278,8 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 *   1 Spiele-Vollversionen: Kostenlos zum Download
 *   2 Die besten kostenlosen Horror-Games
 *   3 Top 100: Die beliebtesten Downloads auf Deutsch
-*   4 Top 33: Die besten Herbst-Downloads
-*   5 Tools, die kaum einer kennt: 33 geniale Gratis-Downloads
+*   4 Tools, die kaum einer kennt: 33 geniale Gratis-Downloads
+*   5 Kostenlose Spiele zum Download: Die besten Gratis-Games
 
 ...mehr
 
@@ -295,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Apple iPod nano 7G: Der Baby-Touch im Praxis-Test
+*   Alles für Windows 8: 50 neue Notebooks, Tablets, PCs &. Co.
 *   Test: Canon PowerShot G15 (Digitalkamera)
 *   Im Test: Die besten TVs in allen Kategorien und Größen ab 430 Euro
 *   Test: Philips 40PFL8007K (40-Zoll-LCD-TV)
-*   Handy mit HD Display: Scharfe Smartphones von Sony, Samsung, HTC
-*   Media Markt Online Shop: Alle Angebote im Check
 
 ...mehr
 
@@ -341,11 +341,11 @@ Alle CHIP Online Feeds im Überblick
 
 Meistgelesene Themen
 
-*   502 Bad Gateway was bedeutet das?
 *   \[GELÖST\] jucheck.exe
-*   Tastatur umstellen Englisch/Deutsch
 *   Facebook knacken leicht gemacht...
-*   GVU 2.07 virus entfernen
+*   Tastatur umstellen Englisch/Deutsch
+*   Community-Tagebuch
+*   Free YouTube to MP3 Converter legal ?
 
 ...mehr
 
@@ -362,11 +362,11 @@ Alle CHIP Online Feeds im Überblick
 
 *   1 Die besten Spiele-Vollversionen zum Download  
     
-*   2 Die 100 beliebtesten deutschsprachigen Freeware-Tools  
+*   2 Sexy Headphone Babes  
     
-*   3 Playboy - Playmate des Jahres  
+*   3 Die 100 beliebtesten deutschsprachigen Freeware-Tools  
     
-*   4 Sexy Headphone Babes  
+*   4 Playboy - Playmate des Jahres  
     
 *   5 12 Media-Markt-Angebote, 12 starke Alternativen  
     
@@ -383,11 +383,11 @@ Alle CHIP Online Feeds im Überblick
     
 *   2 Samsung Galaxy Note 2 - Praxis-Test  
     
-*   3 iPhone 5 Praxis-Test  
+*   3 Fußball Live Stream mit SopCast  
     
-*   4 Fußball Live Stream mit SopCast  
+*   4 iPhone 5 Praxis-Test  
     
-*   5 Canon EOS 6D - Praxis-Test  
+*   5 Samsung Galaxy S3 LTE - Test  
     
 
 ...mehr
