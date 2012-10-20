@@ -116,9 +116,9 @@ Masthead
 
 more ›
 
+*   Want Proof That Market Fit Is Everything? Test Your App In The Slums Of Sao Paulo
 *   How A Quaint California Town Put Us On Mars
-*   What Teddy Bears, Picture Frames, And Condoms Have In Common
-*   How Pandora Soothed The Savage Beast
+*   Email Is The New Pony Express--And It's Time To Put It Down
 
 *   Advertise
 *   About Us
