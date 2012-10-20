@@ -112,6 +112,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         9.  Jeux PS2
         10.  Jeux PC
         11.  EnchÃ¨re Sony PS3 Ultra Slim
+        12.  Toute lâactu jeux vidÃ©o/info !
     *   *   Jeux Ã  TÃ©lÃ©charger
         *   Boutique Sims
         *   Nintendo Shop
@@ -131,8 +132,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         7.  DVD Enfants - Walt Disney
         8.  DVD Manga - Animation
         9.  DVD Meilleures Ventes
-        10.  500â¬ Ã  gagner !
-        11.  EnchÃ¨re TV LED 150cm
+        10.  EnchÃ¨re TV LED 150cm
         
         1.  DVD â BLU-RAY
         2.  Blockbusters 2012
@@ -238,7 +238,6 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         3.  RÃ©cepteurs TNT - Satellite
         4.  Accessoires
         5.  Gagnez votre TV LED
-        6.  500â¬ Ã  gagner !
         
         1.  CINÉMA À LA MAISON
         2.  Home cinÃ©ma
@@ -598,7 +597,6 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
             *   Chaussures BÃ©bÃ© (du 16 au 27)
         3.  Accessoires Chaussures
         4.  Abo Magazines mode
-        5.  500â¬ Ã  gagner !
         
         1.  VÊTEMENTS HOMME
         2.  Tous les vÃªtements Homme
@@ -777,8 +775,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         7.  Sports de Raquettes
         8.  Natation
         9.  Golf
-        10.  500â¬ Ã  gagner !
-        11.  Lâactu sportive Ã  prix mini !
+        10.  Lâactu sportive Ã  prix mini !
         
         1.  SPORTSWEAR
         2.  Sportswear
