@@ -137,9 +137,9 @@ More from HuffPost Weird »
 
 More from The Frisky »
 
+*   The End of Cable: What happens if TV goes the way of Music...
 *   When seeking medical attention after inhaling toxic...
 *   1st Native American approved for sainthood after Vatican...
-*   Anyone for a FARK party in Baltimore? Discuss \[FarkParty\]
 
 More from Fark »
 
