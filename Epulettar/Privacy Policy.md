@@ -114,9 +114,6 @@ Aktuális programok
 építészettörténe  
 ti kiállítás nyílt győrben
 
-az árnyékolástechni  
-ka szerepe a környezettudatos és energiahatékony építészetben
-
 praktikum és babaszoba design kiállítás
 
 jánossy györgy emlékkiállítása a hap galériában
