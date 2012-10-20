@@ -382,11 +382,6 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   Today
-    
-    Multi-sensory play |  10 to Know |  **Your Community, the way you see it** |  Matchup videos
-    
-
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -623,10 +618,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos Ventura fourth-graders pumped up with fire safety Fire safety education
+Videos On Campus: Ventura - Buena Rivalry Cougars and Bulldogs clash
 
-*   Ventura fourth-graders pumped up with ... Scores of dogs seized from ... On Campus: Bulldogs Bite Back Oxnard Police Chief addresses La ...
-*   Connecting pets and people Ojai artists open up their ...
+*   On Campus: Ventura - Buena ... Ventura fourth-graders pumped up with ... Scores of dogs seized from ... On Campus: Bulldogs Bite Back
+*   Oxnard Police Chief addresses La ... Connecting pets and people
 
   
 
@@ -639,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 296 comments
-*   County agrees to $3.2 million settlement in case involving speeding deputy Published 10/18/2012 at 6:42 p.m. 24 comments
-*   If Proposition 30 fails, Oxnard College athletics could be on chopping block Updated 10/17/2012 at 8:13 p.m. 75 comments
-*   Scores of dogs seized from Simi Valley home now up for adoption Updated 10/17/2012 at 7:16 p.m. 14 comments
-*   Oaks Christian might have broken football recruitment rules – Video Published 10/18/2012 at 2:53 p.m.
+*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 74 comments
+*   Oxnard police say they mistook bystander for suspect, fatally shot him Updated 10/19/2012 at 9:40 a.m.
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 334 comments
+*   Krauthammer: The worst gaffe in debates so far Published 10/18/2012 at 2:51 p.m. 41 comments
+*   Initial victim becomes suspect in Ventura gunfire case Updated 10/19/2012 at 10:07 a.m.
 
-Photo Galleries Chaotic shooting rattles La Colonia… Scores of dogs seized from Simi… High school bands battle it out
+Photo Galleries Ventura County's Most Wanted October… Chaotic shooting rattles La Colonia… Football: Ventura vs. Buena
 
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 296 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 334 comments
 *   Morning chat Published 10/17/2012 at 12:00 a.m. 111 comments
-*   Morning chat Published 10/18/2012 at 12:00 a.m. 84 comments
-*   If Proposition 30 fails, Oxnard College athletics could be on chopping block Published 10/17/2012 at 5:19 p.m. 75 comments
-*   Morning chat Published 10/16/2012 at 12:00 a.m. 55 comments
+*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 74 comments
+*   Morning chat Published 10/18/2012 at 12:00 a.m. 85 comments
+*   Morning chat Published 10/19/2012 at 12:00 a.m. 82 comments
 
 *   Norovirus outbreak hits Oak Park school Published 10/15/2012 at 5:56 p.m. 8 comments
-*   Port Hueneme city manager asked to resign Published 10/9/2012 at 9:53 a.m. 40 comments
 *   2 dead after Oxnard police trade gunfire with men Published 10/14/2012 at 2:57 p.m. 0 comments
-*   Firefighters battle Lookout Fire near Santa Barbara that threatened about 100 homes Published 10/17/2012 at 10:01 a.m. 0 comments
-*   Scores of dogs seized from Simi Valley home now up for adoption Published 10/17/2012 at 5:35 p.m. 14 comments
+*   Oaks Christian might have broken football recruitment rules – Video Published 10/18/2012 at 2:53 p.m. 0 comments
+*   Scores of dogs seized from Simi Valley home now up for adoption Published 10/17/2012 at 5:35 p.m. 15 comments
+*   Chumash looking to acquire portion of Santa Susana Field Lab Published 10/15/2012 at 6:17 p.m. 20 comments
 
 Weather
 
@@ -665,23 +660,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 60° Fair Wind: NW 5mph Today 74° 58° Fri 08:00 PM Fog Temp: 64° Sat 08:00 AM Dreary Temp: 59° Sat 08:00 PM Fog Temp: 61°
+Currently 64° Fog/Mist Wind: Calm Today 68° 60° Sat 05:00 PM Cloudy Temp: 66° Sun 05:00 AM Dreary Temp: 57° Sun 05:00 PM Mostly Cloudy Temp: 63°
 
-Feels Like: 64°
+Feels Like: 66°
 
-Humidity: 97%
-
-Precip: 11%
-
-Feels Like: 59°
-
-Humidity: 96%
+Humidity: 84%
 
 Precip: 11%
 
-Feels Like: 61°
+Feels Like: 57°
 
 Humidity: 100%
+
+Precip: 11%
+
+Feels Like: 63°
+
+Humidity: 87%
 
 Precip: 11%
 
@@ -707,10 +702,10 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   Democratic group hits Strickland on stem-cell research
 *   Lots of evidence that crunch time is upon us
 *   Tension escalates in 27th Senate District
 *   Against 'wasteful,' but for 'anonymous'
-*   So this is what democracy is supposed to look like
 
 Brian Dennert here
 
@@ -729,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Friday Oct 19
 *   Saturday Oct 20
 *   Sunday Oct 21
+*   Monday Oct 22
 *   More BROWSE Icon
-
-*   Consultant Support Group Economic Development Collaborative - Ventura County 8:30 a.m.
-*   Rise &. Shine Gathering Hummingbird Nest Ranch 10 a.m.
-*   Woman's Advocate Speaks on ObamaCare Los Robles Golf Course Banquet Center 11 a.m.
-*   Grand Ole Party: Simi Valley Republican Women Federated October 19, Meeting: The Junkyard Restaurant: 2585 Cochran Street, Simi Valley, Ca. 93065 11 a.m.
-*   Costa Mesa Gem Faire OC Fair &. Event Center noon
-
-More Events »
 
 *   GENEALOGY SOCIETY FALL SEMINAR Church of Jesus Christ of Latter-Day Saints - Ventura 8 a.m.
 *   The Power of Pink: How to Cheat, Treat &. Beat Breast Cancer Ronald Reagan Presidential Library and Museum 8 a.m.
@@ -755,6 +742,14 @@ More Events »
 *   Gold Coast Health Plan Community Resource Fair Del Sol Park 1500 Camino Del Sol, Oxnard, CA 93030 10 a.m.
 *   Strictly Sail Long Beach Shoreline Village - 401 Shoreline Village Dr. Long Beach, CA 90802 10 a.m.
 *   Triunfo YMCA Winter Flag Football League Signup Day: October 21 Chumash Park 10 a.m.
+
+More Events »
+
+*   Zentangle®­ Art 4 Week Class Port Hueneme Community Center 10 a.m.
+*   Thousand Oaks Reads Book Discussion Newbury Park Branch Library 6:30 p.m.
+*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
 
 More Events »
 
@@ -778,13 +773,13 @@ More Events » Features
     
     Check out and add to our map of local Halloween haunts and events!
     
-    95 percent accurate
-    
-    Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
-    
     Football Contest
     
     Follow Loren Ledin's picks and choose your own leaderboard.
+    
+    95 percent accurate
+    
+    Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
 *   Storm Shield
     
