@@ -1,200 +1,49 @@
-Billboard requires a JavaScript enabled browser to get the full experience
+Privacy Policy
 
-*   Hot 100
-*   Billboard 200
-*   Digital Songs
-*   Radio Songs
-*   R&B/Hip-Hop Songs
-*   Country Songs
-*   Rock Songs
-*   Latin Songs
-*   Pop Songs
-*   Dance/Club Play Songs
-*   Social 50
-*   On-demand songs
-*   UK Songs
-*   Pop 100
-*   Heatseakers Albums
-*   uncharted
-*   Youtube
-*   Summer songs chart
+Effective Date: June 30, 2012  
+  
+This Privacy Policy is applicable to www.prometheusgm.com, www.billboard.com, www.billboard.biz, www.adweek.com, www.backstage.com, www.hollywoodreporter.com, www.clioawards.com, www.filmjournal.com and any other site that may be operated by or for Prometheus Global Media (together, the "Websites"). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our Terms of Use , which govern the basic operation of the Websites.
 
-All Charts Previous
+**1\. The Information We Collect and Use**  
+**A.** Non-Personally Identifiable Information. When you visit a Website, we may collect certain data that does not tell us specifically who you are. This is "Non-Personally Identifiable Information." It includes things like your Internet Protocol (IP) address, browser type, and the last domain you visited before coming to our Website or the domain you go to when you leave. It also includes various statistical data such as which pages you visit on our Websites, how long you stay on them, and what you click.  
+  
+We may place a "cookie" on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a website's computers and stored on your computer's hard drive. We may use cookies to keep track of your choice of language and home page preference. to understand your exposure to certain Internet advertisements as you use the Websites, and to gather usage data that will help us generally improve the quality of the Websites. There is a simple procedure in most browsers that allows you to deny or accept cookies. You should note that cookies may be necessary to provide you with certain features on the Websites.  
+  
+We also may use a small piece of code (sometimes referred to as "1x1 clear pixel," "web beacon" or "clear GIF") placed in the pages of the Websites to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site.  
+  
+No Personally Identifiable Information (see below) is collected through our cookies or web beacons nor do we allow third-party companies to collect such information from cookies or web beacons on our Website. We may, however, from time to time, allow third-party companies to serve ads and/or collect certain Non-Personally Identifiable Information when you visit our Website. These companies may use Non-Personally Identifiable Information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use cookies or third party web beacons to collect this information. To learn more about this behavioral advertising practice or to opt out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt\_out.asp.
 
-*   Hot 100 
-    
-    Maroon 5 stays on top
-    
-*   Billboard 200 
-    
-    Mumford &. Sons top again
-    
-*   Dance/Club Songs 
-    
-    Mariah Carey is 'Triumphant'
-    
-*   R&B/Hip-Hop Airplay 
-    
-    Miguel takes the lead
-    
-*   Digital Songs 
-    
-    Taylor Swift rocks
-    
-*   Rap Songs 
-    
-    PSY rules with 'Style'
-    
-*   R&B Songs 
-    
-    Rihanna shines bright
-    
-*   Digital Albums 
-    
-    Macklemore &. Ryan Lewis debut
-    
-*   Dance/Electronic Albums 
-    
-    Deadmau5's album 'Goes Here'
-    
-*   Ringtones 
-    
-    Flo Rida whistles to No. 1
-    
+**B.** Personally Identifiable Information. We also may collect information that can be used to identify you ("Personally Identifiable Information"). We only collect Personally Identifiable Information when you specifically provide it to us. For example, in connection with your use of certain features of the Websites you may be asked to create a user account and provide certain information including your name, email addresses, address, and telephone number. You may also provide User Uploaded Information to the Websites, as described in the Terms of Use \[make link\], or you may provide information such as your credit card number in connection with the purchase of services or content available through the Websites. When you create a user account with a Prometheus Global Media website and sign in to your account on the Websites or post User Uploaded Information, you are not anonymous to us.  
+  
+We may use Personally Identifiable Information to fulfill your requests, respond to your inquiries and provide other services, and to alert you to information, offers, or publications in which we think you may be interested. The emails that we send contain links that enable you to "unsubscribe" from such mailings.  
+  
+We do not sell Personally Identifiable Information or other information you make available to the Websites, or share such information with third parties, except as described below.  
+  
+From time to time, we may partner with unaffiliated companies or individuals for market research, product development or similar purposes. These companies or individuals may be provided with access to Personally Identifiable Information and Non-Personally Identifiable Information, but we will require by contract that they agree to maintain the confidentiality, security and integrity of such information. We also may subcontract with other companies and individuals to do work on our behalf. they may be provided with access to Personally Identifiable and Non-Personally Identifiable Information, but only as needed to perform their functions.  
+  
+We may share Personally Identifiable Information with third parties, who may contact you to offer products and services. At any time, you can contact Prometheus Global Media at 1-800-658-8372 and terms@prometheusgm.com to request that we not share your Personally Identifiable Information with third parties.  
+  
+We may disclose your Personally Identifiable Information to third parties in connection with a corporate transaction where all or a portion of our business (e.g., a portion that includes our customer lists) is sold or transferred. We also may disclose your Personally Identifiable Information if disclosure is required by law or as part of a lawsuit or government investigation or proceeding, or in order to permit us to exercise or preserve our legal rights or take action regarding potentially illegal activities or to protect the safety of any person.
 
-Next Subscribe Site Feedback Follow @billboard
+**2.** Data Security  
+Prometheus Global Media cannot ensure or warrant the security or privacy of any information you transmit to us. We attempt to follow policies and procedures that will protect against unauthorized access to your Personally Identifiable Information. But we can make no guarantees or promises in this regard, and you provide information to us at your own risk.  
+  
+We may store the Personally Identifiable Information we hold about you indefinitely. We may store this information in the United States or we may transfer it to any other country. The data protection laws of the countries where we store your personal data may or may not provide a level of protection equivalent to the laws in your home country. Wherever we hold the data, we will apply the terms of this Privacy Policy.
 
-*   Welcome, UNKNOWN USER
-*   Settings
-*   Log Out
+**3.** Children  
+This site is not directed at children under the age of 13 and we endeavor not to knowingly collect any Personally Identifiable Information from children under the age of 13. If a parent or guardian believes that this site has collected the Personally Identifiable Information of a child under the age of 13, please contact terms@prometheusgm.com.
 
-*   Join Billboard
-*   Log In
+**4.** Access to your information  
+You may contact us at terms@prometheusgm.com if at any time you would like to see the Personally Identifiable Information we hold about you, or to ask us to correct or update this information, or to ask us to delete it. Please contact us if you have questions or wish to take any action with respect to information to which this Privacy Policy applies (see below for contact information).
 
-Billboard.com
+**5.** How to Contact Us  
+You may contact Prometheus Global Media regarding our privacy practices at the following address:  
+Prometheus Global Media  
+770 Broadway Ave  
+7th Floor  
+New York, NY 10003  
+terms@prometheusgm.com  
+1-800-658-8372
 
-*   Charts
-*   News
-*   Video
-*   New Releases
-*   Live
-*   Photos
-
-Please make sure javascript is enabled in your browser homepage Billboard - Music Charts, Music News, Artist Photo Gallery &. Free Video home From the latest music news and music reviews, to Billboard music charts, music articles and more, you'll find the free music information you want at Billboard.com. Experience the most in-depth music news online and get access to exclusive videos and digital music, as well as the hottest new releases, music videos and more. Visit Billboard.com each day to see what's happening. unknown unknown prod billboard.homepage next
-
-previous 14/14
-
-*   Justin &. Jessica's Wedding Playlist
-    
-    Justin Timberlake and Jessica Biel married this week at a top-secret ceremony in southern Italy. In honor of the former 'N Sync frontman's nuptials, we've put together a playlist of songs for the happy couple.
-    
-*   Taylor Swift's Top 10 Star-Making Moments
-    
-    On the eve of "Red's" release, Billboard takes a look back at the defining moments of Taylor Swift's career, from her first single to her biggest sales week. She has had a career full of unforgettable highlights -- here are 10 of the biggest.
-    
-*   3BallMTY Dominate Billboard Mexican Music Awards
-    
-    Along with Artist of the Year Gerardo Ortiz, the edgy trio owned this year's ceremony, which aired live on Thursday night. Read all about 3BallMTY's nine wins and more from the Billboard event.
-    
-*   Eminem's 30 Biggest Billboard Hits
-    
-    Happy 40th Birthday, Eminem! And because 40 is the new 30, we're celebrating Em's birthday by ranking his 30 biggest Hot 100 hits.
-    
-*   Photos of the Week
-    
-    Katy Perry hangs out with John Mayer, PSY and Hugh Jackman learn to dance "Gangnam Style" the Wolverine way, Bruno Mars poses with the Fonz, Usher parties at George Michael's birthday, Rihanna covers Vogue, and more. See the week's best pics!
-    
-*   Beyonce's Super Bowl Setlist Poll
-    
-    With Queen Bey set to rock the halftime show of Super Bowl XLVII, it's time to think about which smash singles she might perform. What would be the ideal setlist? Vote now!
-    
-
-Video
-
-Connect with
-
-*   Twitter
-*   Facebook
-*   Email
-
-*   About Billboard
-*   Billboard Magazine
-*   Mobile
-*   Events
-*   RSS Feeds
-*   Advertising
-*   Developers
-*   Privacy Policy
-
-*   Terms of Use
-*   Contact Us
-*   Reprints
-*   Follow Us on Twitter
-*   Sitemap
-*   FAQ
-*   Newsletter
-*   Shop
-*   Lyrics
-
-© Billboard. All rights reserved.
-
-Portions of content provided by Rovi Corporation. © Rovi Corporation.
-
-From the latest music news and music reviews, to Billboard music charts, music articles and more, you'll find the free music information you want at Billboard.com. Experience the most in-depth music news online and get access to exclusive videos and digital music, as well as the hottest new releases, music videos and more. Visit Billboard.com each day to see what's happening.
-
-Thanks For Joining Billboard
-
-Log in to create your profile, speak your mind and connect with listeners like you.
-
-Why Join ?
-
-Don't just hear it. Live it. Go deeper than a casual listen: Voice your feelings, build a profile around your favorite music, connect with people who share your passions and discover new ones. Sign up for free. Join Complete Your Registration at Billboard.com!
-
-Email Address
-
-Username
-
-Password
-
-Confirm Password
-
-I agree with the terms of service
-
-Billboard.com News and Offers  
-I'd like to receive music updates, newsletters, and special offers from Billboard.com
-
-Already a member? Sign in now, or log in with your Facebook account. Haven't Joined Yet ?
-
-For the full Billboard experience, you need to be a member. Sign up. It's free.
-
-Join Billboard Forgot your password?
-
-Enter the e-mail address you used to sign up and we will email you the password .
-
-Email Address:
-
-Email Sent !
-
-Your password has been sent to the email address you provided. Please sign in below :
-
-Log In
-
-Email Address:
-
-Password:
-
-Forget your password ?
-
-Log in through Facebook instead.
-
-Action Successful
-
-Topic I'd Like to Report a BugI Have a Feature RequestChartsNewsMusic Player / PurchasingSoundtrack of My LifeCharts AppCharts App Other
-
-Comments
-
-We'd love to hear your feedback on the new Billboard.com! Whether it's a feature request or a bug
-
-We want to hear from you. Please use this form to anonymously give us your input.
-
-Getting info...
+**6.** Changes To The Privacy Policy  
+This Privacy Policy is effective as of June, 2011. We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.
