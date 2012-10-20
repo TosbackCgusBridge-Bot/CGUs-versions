@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Mommy Loves You! »
+Hot Pics! Dinner and a Show »
 
 Top Stories1.  Exclusive How Kourtney Kardashian Slimmed Down After Giving Birth »
-2.  PICTURE: Miley Cyrus Kisses Angus T. Jones on Two and a Half Men »
-3.  Freddie Prinze, Jr. Steps Out Three Weeks After Son's Birth! »
-4.  PIC: Sarah Michelle Gellar Shows Off Post-Baby Body in L.A. »
-5.  Breaking Justin Timberlake, Jessica Biel Marry in Italy! »
+2.  PIC: Sarah Michelle Gellar Shows Off Post-Baby Body in L.A. »
+3.  PICTURE: Miley Cyrus Kisses Angus T. Jones on Two and a Half Men »
+4.  Freddie Prinze, Jr. Steps Out Three Weeks After Son's Birth! »
+5.  PIC: Demi Moore Thin, Radiant at Rare Post-Rehab Appearance in NYC »
 
  
 
@@ -177,9 +177,9 @@ Inside Us Weekly
 
 *   Style Pretty Kate Hudson Models Ann Taylor Looks in
 *   Beauty Elisabeth Moss Is a Brunette Again!
-*   Moms How Kourtney Kardashian Slimmed Down After Gi
+*   Moms Kristin Cavallari: "Having a Baby Is So Much
 *   Body Slimmer Tyler Perry: "I'm Laying Off the Donu  
-*   Entertainment Celebrity Halloween Costumes: Top 5 Do It You  
+*   Entertainment Private Practice Ending After 6 Seasons  
 
 *   US WEEKLY
 *   Celebrity News
