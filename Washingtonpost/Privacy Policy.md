@@ -23,14 +23,14 @@
     
     Blogs &. Columns
     
-    *   **In Boca Raton, Paul Ryan raises...**  
+    *   **As Obama and Romney prepare for...**  
         Election 2012 | Felicia Sonmez
     
     *   **Obamaâs claim that Romney wants...**  
         The Fact Checker | Glenn Kessler
     
-    *   **McCaskill, Akin duel over guns...**  
-        She The People | Diana Reese
+    *   **Is Jill Stein crazy, or are we?**  
+        She The People | Melinda Henneberger
     
     *   **Senate Democratsâ campaign arm...**  
         The Fix | Sean Sullivan
@@ -49,7 +49,7 @@
     *   **How to dump a candidate**  
         ComPost | Alexandra Petri
     
-    *   **Happy Hour Roundup**  
+    *   **Open Thread**  
         The Plum Line | Greg Sargent
     
     *   **A split or a tie in the election?**  
@@ -176,11 +176,11 @@
     *   **Google, Microsoft earnings illustrate...**  
         Post Tech | Hayley Tsukayama
     
-    *   **The judicial jihad against the...**  
+    *   **Why the economy may be better than...**  
         Steven Pearlstein
     
-    *   **The 2012 Election by the Numbers...**  
-        Wonkblog | Dylan Matthews
+    *   **Chuck Schumer: Democrats have tax...**  
+        Wonkblog | Ezra Klein
 *   Tech In Technology
     
     *   Policy
@@ -214,13 +214,13 @@
     *   **Asian eggplant in hand, recipe...**  
         All We Can Eat | Edward Schneider
     
-    *   **Halloween costume ideas: Memes**  
-        The Style Blog | Maura Judkis
+    *   **A monstrous remake of âMadelineâ**  
+        The Style Blog | Ron Charles
     
     *   **Take the kids this weekend: Croydon...**  
         On Parenting | On Parenting
     
-    *   **Chris Cooley puts mansion on market**  
+    *   **Read this: Drake, DeGeneres, White...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -267,10 +267,10 @@
 In the News
 
 *   âRomnesiaâ
-*   Beirut
 *   Big Tex
-*   U-Md. beating case
 *   O.J. Simpson
+*   NLCS
+*   College football scores
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -323,90 +323,90 @@ CIA documents supported Susan Riceâs description of Benghazi attacks
 
 David Ignatius 
 
-CIA seeks to expand drone fleet, officials say
+The tea party is helping Democrats
 
-Greg Miller 
+Dana Milbank 
 
 Joe Biden is just being Joe, and the edginess works for some
 
 Krissah Thompson 
 
-Obama fires up crowd in Virginia with âRomnesiaâ speech
-
-Jerry Markon 
-
-Who Smokes Most: A surprising map of smoking rates by country Clinton tells Wisconsin voters that economy is recovering even if âpeople donât feel it yetâ
+Mitt Romney is winning the white vote Lebanonâs prime minister says deadly Beirut car bombing has links to the crisis in Syria
 
 Associated Press 
-
-âRomnesiaâ and the weasel factor
-
-Greg Sargent 
-
-The tea party is helping Democrats
-
-Dana Milbank 
-
-Could these four be comedyâs next big things?
-
-Lavanya Ramanathan 
 
 Five myths about the bin Laden raid
 
 Mark Bowden 
 
-Mobile trend trips tech titans
+Obama fires up crowd in Virginia with âRomnesiaâ speech
+
+Jerry Markon 
+
+Beirut assassination heightens fears of Syrian violence embroiling Lebanon
+
+Liz Sly 
+
+âBindersâ are whatâs wrong with politics today
+
+Kathleen Parker 
+
+About that Gallup poll: Is Romney really up by 7? And will Obama win the election anyway? Mobile trend trips tech titans
 
 Craig Timberg 
 
-Moderate weight loss alone doesnât lower heart disease risk in diabetics, study shows
+Date Lab: After experiencing a loss, will dating be a gain?
 
-David Brown 
+Christina Breda Antoniades 
+
+Carolyn Hax: When to stop waiting to hear those three little words
+
+Carolyn Hax 
 
 Facebook privacy targeted by Austrian law student
 
 Craig Timberg 
 
-Police: Tour bus crash in NW Arizona leaves driver dead, at least 4 passengers seriously hurt
+CIA seeks to expand drone fleet, officials say
 
-Associated Press 
-
-U.S. steps up support of Turkey amid Syrian conflict
-
-Craig Whitlock 
-
-About that Gallup poll: Is Romney really up by 7? And will Obama win the election anyway? Beirut assassination heightens fears of Syrian violence embroiling Lebanon
-
-Liz Sly 
-
-Why Wissam al-Hassan matters for the Middle East The great gaffe
-
-Charles Krauthammer 
+Greg Miller 
 
 Seeds of our dysfunction
 
 George F. Will 
 
+U.S.: Evidence doesnât show planning in Libyan attack
+
+Greg Miller 
+
+Pay gap widens for federal workers, panel says
+
+Eric Yoder 
+
+The 60 most important House races Can a businessman help the economy? For presidents, the answer has been no.
+
+Robert S. McElvaine 
+
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
     1.  CIA documents supported Susan Rice's description of Benghazi attacks
-    2.  CIA seeks to expand drone fleet, officials say
+    2.  The tea party is helping Democrats
     3.  Joe Biden is just being Joe, and the edginess works for some
-    4.  Obama fires up crowd in Virginia with 'Romnesia' speech
-    5.  Who Smokes Most: A surprising map of smoking rates by country
+    4.  Mitt Romney is winning the white vote
+    5.  Lebanon's prime minister says deadly Beirut car bombing has links to the crisis in Syria
 *   Top Videos
-    1.  Obama coins 'Romnesia' at Virginia rally
-    2.  Get to know D.C.'s new comics
-    3.  High school kicker makes 67-Yard field goal in overtime
-    4.  From 2010: Officers strike student after U-Md. basketball game
-    5.  Three signs of movement in a tight presidential race
+    1.  Romney son makes birther joke
+    2.  Obama coins 'Romnesia' at Virginia rally
+    3.  From 2010: Officers strike student after U-Md. basketball game
+    4.  Get to know D.C.'s new comics
+    5.  Another Romney binder
 *   Top Galleries
-    1.  Endorsements that Romney, Obama may not want
-    2.  Newsweek covers through the years
-    3.  Taylor Swift through the years
-    4.  Political photo ops through the years
-    5.  Hillary Rodham Clinton: A political life
+    1.  Newsweek covers through the years
+    2.  Endorsements that Romney, Obama may not want
+    3.  Political photo ops through the years
+    4.  Historic Home Contest winner and runners-up
+    5.  Taylor Swift through the years
 
 Today's Paper
 
