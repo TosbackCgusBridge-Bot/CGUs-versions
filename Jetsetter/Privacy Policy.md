@@ -1,12 +1,3 @@
-*   Women
-*   Men
-*   Baby &. Kids
-*   Home
-*   Food &. Wine
-*   City
-*   Jetsetter
-*   Park &. Bond
-
 Jetsetter
 
 The world’s greatest vacations. Members-only prices.
@@ -51,10 +42,10 @@ Looking for more about your trip? Checkout New York City and The Caribbean spotl
 
 Collections Travel Ideas
 
+*   Romantic Vacations You…
 *   Extend Your Business T…
 *   Secret Five-Star Stunners
 *   Family Playcations
-*   Steals on Ski Stays
 
 *   Jetsetter Journeys
 *   Honeymoon Planning
@@ -228,37 +219,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Anse Chastanet + Jade Mountain The Five-Night St. Lucia Honeymoon
-    
-    Starting Today 10/19 at 11am EDT
-    
-*   c/o The Maidstone - Hamptons
-    
-    Starting Today 10/19 at 11am EDT
-    
-*   La Maltese Estate - Santorini Honeymoon on Santorini
-    
-    Starting Today 10/19 at 11am EDT
-    
-*   Vuyani Lodge - South Africa A Five-night Honeymoon Safari
-    
-    Starting Today 10/19 at 11am EDT
-    
-*   Esencia Estate - Riviera Maya
-    
-    Starting Today 10/19 at 11am EDT
-    
-*   Eight Days in Bali &. Lombok
-    
-    Starting Today 10/19 at 11am EDT
-    
-*   SLS Hotel South Beach
-    
-    Starting Tonight 10/19 at Midnight EDT
-    
 *   The Shores - Daytona Beach
     
-    Starting Saturday 10/20 at Noon EDT
+    Starting Today at Noon EDT
+    
+*   Hotel Sofitel Philadelphia
+    
+    Starting Sunday 10/21 at 3pm EDT
+    
+*   Rendezvous St. Lucia
+    
+    Starting Sunday 10/21 at 3pm EDT
+    
+*   Newstead Resort - Bermuda
+    
+    Starting Sunday 10/21 at 3pm EDT
+    
+*   Sofitel Montreal Golden Mile
+    
+    Starting Sunday 10/21 at 3pm EDT
+    
+*   Hawthorn at The Porches Steamboat Springs, Colorado
+    
+    Starting Monday 10/22 at Noon EDT
+    
+*   A Tokyo Mystery Hotel
+    
+    Starting Monday 10/22 at 3pm EDT
+    
+*   Amalfi Hotel Chicago
+    
+    Starting Monday 10/22 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
