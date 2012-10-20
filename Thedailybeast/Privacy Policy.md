@@ -145,37 +145,37 @@ Stories We Like
   Most Popular
 
 1.  Why Fox News Chairman Roger Ailes Won't Walk Away From His TV Empire
-2.  My Proof of Heaven
-3.  Ground Game: Advantage Obama?
-4.  Kim Kardashian's Not a Fan of Underwear, Shows Off Crack
-5.  The Week in Viral Videos
+2.  The Man Who Could Beat Bachmann
+3.  My Proof of Heaven
+4.  The Week’s Best Reads
+5.  The Great Deformer
 
   Other News Entertainment
 
+*   Week in Photos for Oct. 19, 2012
 *   Reveal: Gnarly Celeb Feet
 *   Christina Hendricks Chats Sex Appeal, Waiting to Start a Family, and More!
-*   Lisa and Giggy Strike a Pose &. More Celebs With Their Pets
 *   **Get More from Wonderwall**
 
 Entertainment
 
+*   ‘Medal of Honor: Warfighter’ — EXCLUSIVE gameplay preview and mission reveal
 *   Willow Smith covers Adele’s ‘Skyfall’ — VIDEO
 *   Happy Spirit Day! Celebs celebrate anti-bullying event by wearing purple
-*   ‘Supernatural’ angel Misha Collins on the Greatest (and oddest) International Scavenger Hunt ever
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Embattled GOP Consultant Had Close Ties To Romney Campaign
-*   This Couple Has Been Married 26 Times Around The World And They're Not Done Yet
-*   Fantasy Football Dos And Don'ts Week 7
+*   Richard Nixon's 1972 Condolence Call To Joe Biden
+*   The Vertical Back
+*   In Daytona, Romney Tries To Rise Above "Romnesia"
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Latest Swing State Polls
-*   The Onion Endorses John Edwards
-*   Salt Lake Tribune Endorses Obama
+*   Nevada Democrats Finish with Registration Edge
+*   CIA Documents Support Obama on Libya Attack
+*   The Killing of Osama bin Laden
 *   **Get More from Political Wire**
 
 The Daily Beast
