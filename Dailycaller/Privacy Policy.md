@@ -1,4 +1,4 @@
-**TRENDING** MITT ROMNEY | LANCE ARMSTRONG | ANN ROMNEY | BRUCE SPRINGSTEEN | POLITICO | RICHARD LUGAR
+**TRENDING** MITT ROMNEY | RICHARD LUGAR | BARACK OBAMA | BRUCE SPRINGSTEEN | GOOGLE | MSNBC
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  Calif. official whose agency under-reported unemployment stats was Obama campaign donor MEAL DEAL Ohio doctor running newspaper ads criticizing Obamacare ahead of election    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  MEAL DEAL Nate Silver vs. the world Krauthammer: White House 'lied' on Libya because they had 'the media in their pocket' \[VIDEO\]    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-Gary Johnson asks DC federal court to intervene in 3rd presidential debate 10:03 AM 10/19/2012 How the Daily Caller got its name (a true story) 3:35 PM 10/18/2012 You can always trust Tina Brown! 7:32 AM 10/18/2012 Alpha Test 6:40 AM 10/18/2012 What’s the big deal about Benghazi, anyway? 10:04 AM 10/19/2012 Caption this: The #1 threat to women in America 3:23 PM 10/18/2012 10 Bruce Springsteen lyrics that make absolutely no sense \[SLIDESHOW\] 11:40 PM 10/18/2012 Report: Welfare government’s single largest budget item in FY 2011 at approx. $1.03 trillion 12:00 AM 10/18/2012 10 dogs that are definitely in the spirit of fall \[SLIDESHOW\] 6:05 PM 10/17/2012 Let’s pretend: The best Romney-Obama passive-aggressive moments from Tuesday’s debate \[SLIDESHOW\] 10:34 AM 10/17/2012 See More Photo of the Day Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Got racism? 6:58 PM 10/10/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Leaders with Ginni Thomas: Newt Gingrich 8:41 PM 10/14/2012 Gingrich calls out Rove super PAC, NRSC for abandoning Akin 5:58 AM 10/14/2012 Videos Sections
+Nate Silver vs. the world, ctd 8:55 PM 10/19/2012 If you thought Tuesday night’s debate got tense … 2:31 PM 10/19/2012 You can always trust Tina Brown! 7:32 AM 10/18/2012 Alpha Test 6:40 AM 10/18/2012 Biden livens up woman’s cancer survival story with his “inappropriate laughter” shtick 4:49 PM 10/19/2012 Libyan Ambassador Christopher Stevens warned the State Department about security problems… the day he was murdered 3:16 PM 10/19/2012 Fat cats in tiny places \[SLIDESHOW\] 3:55 AM 10/20/2012 Top 10 most punchable faces in media \[SLIDESHOW\] 2:28 PM 10/19/2012 America’s prettiest college campuses \[SLIDESHOW\] 9:50 AM 10/19/2012 10 Bruce Springsteen lyrics that make absolutely no sense \[SLIDESHOW\] 11:40 PM 10/18/2012 See More Photo of the Day Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Got racism? 6:58 PM 10/10/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Bishop Jackson: Black churchgoers shaken by Obama backing gay marriage \[VIDEO\] 3:48 AM 10/20/2012 Leaders with Ginni Thomas: Newt Gingrich 8:41 PM 10/14/2012 Videos Contests Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   Calif. official whose agency under-reported unemployment stats was Obama campaign donor
-*   Whistle-blower audio: Sen. Claire McCaskill’s husband cut business deals in Senate Dining Room
-*   Government reporting tricks don’t create jobs, reducing tax and regulatory burdens will
+*   Nate Silver vs. the world, ctd
+*   Conservative group on reports McCaskill’s husband used Senate Dining Room for business deals: She’s ‘Clairogant!’
+*   Rep. John Lewis wants you to vote Gangnam Style
 
 Corporate
 
@@ -199,7 +199,7 @@ Corporate
 *   Advertise With Us
 *   Make The Daily Caller Your Homepage
 
-Version 2.02    Sign up for free Daily Caller News Emails
+Version 2.2.1    Sign up for free Daily Caller News Emails
 
 *   TheDC Links Quick links to the day’s top news on The Daily Caller and around the web
 *   TheDC Morning An unvarnished take of what’s really happening in politics each day
