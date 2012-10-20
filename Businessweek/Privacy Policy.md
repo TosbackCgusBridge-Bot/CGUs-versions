@@ -8,7 +8,7 @@ Don't have an account? Sign up.
 
 Help! I can't access my account.
 
-Bloomberg Businessweek
+This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. X Bloomberg Businessweek
 
 *   Global Economics
 *   Companies &. Industries
