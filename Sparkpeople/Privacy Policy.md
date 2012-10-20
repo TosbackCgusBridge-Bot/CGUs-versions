@@ -143,7 +143,7 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Sleep Problems Resources
+*   Noni Tahitian International Resources
 
   
 Stay in Touch With SparkPeople **Beat the Flu! Here's How**
@@ -152,19 +152,17 @@ Here's how to prevent an illness from occurring, plus seven tips to get well fas
 
 Read More
 
-*   Who Motivates you on Sparkpeople?
+*   Specific Tips to get through the Weekend
+*   What's your "go to" type of workout?
 *   Why the scale isn't a good indicator of health.
-*   "New to me" foods
-*   What does it mean to eat healthy?
 *   Please share your favorite "pumpkin" recipes!
+*   Who Motivates you on Sparkpeople?
 
 View Demo **Low Mount Abduction with Band**  
-This exercise targets 2 common problem areas: outer thighs and hips. **Chef Meg's Spring Rolls**  
-Submitted By: **CHEF\_MEG**
+This exercise targets 2 common problem areas: outer thighs and hips. **Black Bean Chicken**  
+Submitted By: **LOSER1231**
 
-This recipe is really easy. it's really more of a process than a recipe. Rice paper wrappers, which are available in the ethnic sections of most larger supermarkets these days, are a great way to wrap your veggies and protein for a quick snack or light lunch.  
-  
-Full Recipe
+An easy slow cooker recipe that the family will enjoy! Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
