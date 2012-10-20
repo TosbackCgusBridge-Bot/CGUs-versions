@@ -106,9 +106,9 @@ ReadWrite Hack
 
 ReadWrite Enterprise
 
+*   Forget Bring Your Own Device - Try Corporate Owned, Personally Enabled
 *   How Is Windows 8 Going To Do? Microsoft Doesn't Want To Talk About It
 *   Did The EPEAT Environmental Registry Cave On Apple's Retina MacBook Pro?
-*   Cadillac ATS Delivers American Automotive Innovation
 *   More +
 
 ReadWrite Mobile
