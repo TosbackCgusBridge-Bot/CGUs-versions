@@ -2,7 +2,7 @@
 *   Skip to Search
 *   Skip to Main Content
 
-62° and Partly Cloudy
+66° and Overcast
 
 *   Prospective Students
 *   Current Students
