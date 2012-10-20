@@ -123,7 +123,6 @@ Close Email A Friend Your email has been sent.
 *   NCAA BK NCAA BK
     
     *   NCAA Basketball
-    *   Bracket
     *   Scores
     *   Standings
     *   Schedules
@@ -213,14 +212,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
-    *   Morosi: ALCS Game 4 Recap
-    *   Relationship rebuild?
-    *   Yankees swept
-    *   Hammond: Kansas crash for Hamlin
-    *   NLCS on FOX: Wainwright shines
-    *   Jeter fractures ankle in Game 1 loss
-    *   Pick Nation: Week 7 NFL picks
+    *   NLCS on FOX: Zito blanks Cardinals
+    *   Fearless Predictions: MSU/MICH
+    *   Rosenthal: NLCS Game 6 preview
+    *   Fearless Predictions: SC/FLA
     *   UFC on FUEL TV: Highlights - UFC 153
+    *   Fearless Predictions: (15) Texas - (13) Oklahoma
+    *   Pick Nation: Week 8 CFB picks
+    *   NLCS on FOX: Giants roll past Cardinals
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -265,6 +264,7 @@ Close Email A Friend Your email has been sent.
     *   MORE NEWS »
     
     *   FANTASY GAMES
+    *   BASKETBALL HOT STREAK
     *   FANTASY FOOTBALL
     *   SURVIVOR FOOTBALL
     *   PRO FOOTBALL PICK'EM
@@ -345,7 +345,7 @@ Close Email A Friend Your email has been sent.
     *   Video
 *   Living
     *   style
-    *   décor
+    *   d??cor
     *   sex &. relationships
     *   family
     *   inspire
@@ -505,33 +505,33 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   Gophers eager to bring home Bunyan's Axe
-*   Wisconsin-Minnesota has a familiar look
-*   Ex-Minneapolis Laker Slater dies at 86
+*   Wolves waive shooting guard Taylor
+*   Bulls win in Wolves' first game without Love
+*   Tech attacks Gophers early in 5-3 upset
 
-*   PHOTOS: MotoGP - Sepang
-*   SPENCER: Fix For Fuel-Mileage Races
-*   F1: Domenicali - Ferrari Needs To Find Two...
+*   MOTOGP: Difficult Day For Ducati
+*   MOTOGP: Dovi On Row 1
+*   MOTOGP: Sepang QP Ticker
 
-*   Webb-n-DetNews: Last Chance on Derrick Green
-*   Duke, UNC in Primetime
-*   Breakdown: Minnesota
+*   Gameday Thread: LSU-Texas A&M
+*   Vikings-Cardinals: Pretenders or contenders?
+*   Oak Mountain Grinds Prattville
 
+*   Cooking For The Coaches
+*   Teaser: Fighter Trivia
 *   UFC On FUEL TV 6: Franklin vs. Le Teaser
-*   FUEL TV 6 Fight Preview
-*   Chris Weidman: “Anderson Silva Is Ducking Me”
 
-*   Yankees bothered by booing fans
-*   Tallest man in U.S. gets $24K in shoes
-*   High school kicker makes 67-yard FG
+*   DC papers not using 'Redskins' name?
+*   Luongo headed to Toronto?
+*   Fitzgerald blasts Vandy for canceling
 
-*   Rafa Márquez le baja aires a CR7
-*   Morales niega haber dado positivo
-*   Multan a Ballack por exceder velocidad
+*   Cruz Azul rescata empate en Tijuana
+*   Rodney y Posey, Regresos del Año
+*   Cruz gana pelea tras declararse gay
 
-*   Diouf blasts 'egotistical' Gerrard
-*   France duo dropped by Rennes
-*   Casillas unconcerned by criticism
+*   Premier League: Tottenham vs. Chelsea
+*   Terry remains Chelsea captain
+*   Man City to make huge Falcao bid
 
 *   *   NFL
     *   NFL Home
