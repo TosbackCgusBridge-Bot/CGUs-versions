@@ -265,11 +265,11 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 FormatFactory 3.0 Deutsch Freeware
-*   2 Microsoft Gratis-eBook: Windows 8 Auf einen Blick Deutsch Freeware
-*   3 BootRacer 4.0 Englisch Freeware
-*   4 Boot to Gecko für Firefox 0.3 Englisch Freeware
-*   5 Windows 7 Firewall Control 5.1 Deutsch Freeware
+*   1 Apokalypse am 21.12.: Die beste Software für den Weltuntergang
+*   2 SlimCleaner 4.0.24141 Englisch Freeware
+*   3 Right Click Enhancer 3.1.1 Englisch Freeware
+*   4 Universal USB Installer 1.9.1.3 Englisch Freeware
+*   5 FormatFactory 3.0 Deutsch Freeware
 
 ...mehr
 
@@ -295,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Minecraft 1.4: Brandneue Version schon jetzt zocken
 *   Apple iPod nano 7G: Der Baby-Touch im Praxis-Test
 *   Alles für Windows 8: 50 neue Notebooks, Tablets, PCs &. Co.
 *   Test: Canon PowerShot G15 (Digitalkamera)
 *   Im Test: Die besten TVs in allen Kategorien und Größen ab 430 Euro
-*   Test: Philips 40PFL8007K (40-Zoll-LCD-TV)
 
 ...mehr
 
@@ -344,8 +344,8 @@ Meistgelesene Themen
 *   \[GELÖST\] jucheck.exe
 *   Facebook knacken leicht gemacht...
 *   Tastatur umstellen Englisch/Deutsch
-*   Community-Tagebuch
 *   Free YouTube to MP3 Converter legal ?
+*   Community-Tagebuch
 
 ...mehr
 
