@@ -113,129 +113,121 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/19/2012 10:18 AM ET
+Updated: 10/20/2012 7:02 AM ET
+
+1.  1 Obama diagnoses GOP nominee with 'Romnesia' (Updated)
+2.  2 Obama's 'Romnesia' remedy
+3.  3 O'Donnell taunts Tagg Romney
+4.  4 VP debate transcript
+5.  5 Carmona apologizes for calling male debate moderator 'prettier' than Crowley
+6.  6 Leadership elections spark Pelosi speculation
+7.  7 GOP seizes Obama 'optimal' moment
+8.  8 Romney: Obama camp going small
+9.  9 Pol who needed abortion rips Walsh
+10.  10 Obama: Mitt has 'Romnesia'
+
+Updated: 10/20/2012 7:02 AM ET
 
 1.  1 Clinton trashes whiners
-2.  2 Playing to donors, GOP groups spill secrets
-3.  3 Beckel: 'It is over' for Obama if poll is true
-4.  4 Mitchell: Men at MSNBC make more money
-5.  5 Obama, Romney best Al Smith jokes
-6.  6 Romney and Obama yuk it up
-7.  7 Soledad O'Brien: Obama 'up 15' in Virginia
-8.  8 Tiny N.H. could punch above weight
-9.  9 Obama, Romney win laughs at dinner
-10.  10 Ann Romney corrects Whoopi on LDS
+2.  2 GOP seizes Obama 'optimal' moment
+3.  3 GOP groups spill secrets
+4.  4 Obama diagnoses GOP nominee with 'Romnesia' (Updated)
+5.  5 O'Donnell taunts Tagg Romney
+6.  6 Obama, Romney best Al Smith jokes
+7.  7 Beckel: 'Over' for Obama if poll is true
+8.  8 Obama: Mitt has 'Romnesia'
+9.  9 Obama's 'Romnesia' remedy
+10.  10 Obama, Romney win laughs at dinner
 
-Updated: 10/19/2012 10:18 AM ET
-
-1.  1 Clinton trashes whiners
-2.  2 GOP's problems exposed in Senate
-3.  3 Soledad O'Brien: Obama 'up 15' in Virginia
-4.  4 Mitchell: Men at MSNBC make more money
-5.  5 Obama's daughters' school evacuated
-6.  6 Obama cedes the future to Romney
-7.  7 Ann Romney corrects Whoopi on LDS
-8.  8 Beckel: 'It is over' for Obama if poll is true
-9.  9 Tagg jokes about 'swing' at Obama
-10.  10 Playing to donors, GOP groups spill secrets
-
-Updated: 10/19/2012 10:18 AM ET
+Updated: 10/20/2012 7:02 AM ET
 
 1.  1 Clinton trashes whiners
-2.  2 Obama gets more time
-3.  3 6 takeaways from the debate
-4.  4 GOP's problems exposed in Senate
-5.  5 Soledad O'Brien: Obama 'up 15' in Virginia
+2.  2 Soledad O'Brien: Obama 'up 15' in Virginia
+3.  3 GOP's problems exposed in Senate
+4.  4 GOP seizes Obama 'optimal' moment
+5.  5 GOP groups spill secrets
 6.  6 Mitchell: Men at MSNBC make more money
 7.  7 Obama's daughters' school evacuated
-8.  8 Obama cedes the future to Romney
-9.  9 'Binders full of women' spreads
-10.  10 Allen West plagued by scam PACs
+8.  8 Obama diagnoses GOP nominee with 'Romnesia' (Updated)
+9.  9 Beckel: 'Over' for Obama if poll is true
+10.  10 O'Donnell taunts Tagg Romney
 
-Updated: 10/19/2012 10:18 AM ET
+Updated: 10/20/2012 7:02 AM ET
 
 1.  1 Clinton trashes whiners
 2.  2 CPD: Crowley shouldn't reinterpret questions
 3.  3 Obama gets more time
 4.  4 Candy Crowley to defy debate contract
 5.  5 Crowley: 'I'm not a fly on the wall'
-6.  6 6 takeaways from the debate
-7.  7 VP debate transcript
-8.  8 GOP's problems exposed in Senate
-9.  9 Soledad O'Brien: Obama 'up 15' in Virginia
-10.  10 Fight night on Long Island
+6.  6 VP debate transcript
+7.  7 6 takeaways from the debate
+8.  8 Soledad O'Brien: Obama 'up 15' in Virginia
+9.  9 GOP's problems exposed in Senate
+10.  10 GOP seizes Obama 'optimal' moment
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/19/2012 10:18 AM ET
+Updated: 10/20/2012 7:02 AM ET
 
-1.  1 Obama, Romney best Al Smith jokes
-2.  2 Walsh: Abortion never saves mother
-3.  3 Big Oil's tax breaks on table?
-4.  4 DSCC raises record haul
-5.  5 Clean Water Act still essential
-6.  6 Why risk Mexico trade war?
-7.  7 Latino ads: Bullseye, ricochet
-8.  8 POLITICO's political puppetry
-9.  9 Playing to donors, GOP groups spill secrets
-10.  10 Obama, Romney win laughs at dinner
+1.  1 Romney: Obama camp going small
+2.  2 Leadership elections spark Pelosi speculation
 
-Updated: 10/19/2012 10:18 AM ET
+Updated: 10/20/2012 7:02 AM ET
 
-1.  1 Obama, Romney best Al Smith jokes
-2.  2 Walsh: Abortion never saves mother
-3.  3 Big Oil's tax breaks on table?
-4.  4 DSCC raises record haul
-5.  5 Clean Water Act still essential
-6.  6 Why risk Mexico trade war?
-7.  7 Latino ads: Bullseye, ricochet
-8.  8 POLITICO's political puppetry
-9.  9 Playing to donors, GOP groups spill secrets
-10.  10 Obama, Romney win laughs at dinner
+1.  1 Romney: Obama camp going small
+2.  2 Leadership elections spark Pelosi speculation
+3.  3 Obama's 'Romnesia' remedy
+4.  4 Pol who needed abortion rips Walsh
+5.  5 Arson charge after Molotov cocktail
+6.  6 Big donations for Romney super PAC
+7.  7 GOP candidates accused of abusing courts
+8.  8 RNC has $83M in bank
+9.  9 Romnesia's rise from Twitter to Obama
+10.  10 Writer complains about Clinton aides
 
-Updated: 10/19/2012 10:18 AM ET
+Updated: 10/20/2012 7:02 AM ET
 
-1.  1 Obama, Romney best Al Smith jokes
-2.  2 Walsh: Abortion never saves mother
-3.  3 Big Oil's tax breaks on table?
-4.  4 DSCC raises record haul
-5.  5 Clean Water Act still essential
-6.  6 Why risk Mexico trade war?
-7.  7 Latino ads: Bullseye, ricochet
-8.  8 POLITICO's political puppetry
-9.  9 Playing to donors, GOP groups spill secrets
-10.  10 Obama, Romney win laughs at dinner
+1.  1 Romney: Obama camp going small
+2.  2 Leadership elections spark Pelosi speculation
+3.  3 Obama's 'Romnesia' remedy
+4.  4 Pol who needed abortion rips Walsh
+5.  5 Arson charge after Molotov cocktail
+6.  6 Big donations for Romney super PAC
+7.  7 GOP candidates accused of abusing courts
+8.  8 RNC has $83M in bank
+9.  9 Romnesia's rise from Twitter to Obama
+10.  10 Writer complains about Clinton aides
 
-Updated: 10/19/2012 10:18 AM ET
+Updated: 10/20/2012 7:02 AM ET
 
-1.  1 Obama, Romney best Al Smith jokes
-2.  2 Walsh: Abortion never saves mother
-3.  3 Big Oil's tax breaks on table?
-4.  4 DSCC raises record haul
-5.  5 Clean Water Act still essential
-6.  6 Why risk Mexico trade war?
-7.  7 Latino ads: Bullseye, ricochet
-8.  8 POLITICO's political puppetry
-9.  9 Playing to donors, GOP groups spill secrets
-10.  10 Obama, Romney win laughs at dinner
+1.  1 Romney: Obama camp going small
+2.  2 Leadership elections spark Pelosi speculation
+3.  3 Obama's 'Romnesia' remedy
+4.  4 Pol who needed abortion rips Walsh
+5.  5 Arson charge after Molotov cocktail
+6.  6 Big donations for Romney super PAC
+7.  7 GOP candidates accused of abusing courts
+8.  8 RNC has $83M in bank
+9.  9 Romnesia's rise from Twitter to Obama
+10.  10 Writer complains about Clinton aides
 
 Showing Last 7 Days
 
-Updated: 10/19/2012 10:18 AM ET
+Updated: 10/20/2012 7:02 AM ET
 
-1.  1 GOP's problems exposed in Senate
-2.  2 The campaign for debate spin win
-3.  3 6 takeaways from the debate
-4.  4 Fight night on Long Island
-5.  5 5 unmet Obama promises
-6.  6 5 things to watch at the debate
-7.  7 Crowley: 'I'm not a fly on the wall'
-8.  8 Obama's slippery foreign oil promise
-9.  9 Rand Paul goes national
-10.  10 7 takeaways from the Danville debate
+1.  1 O'Donnell taunts Tagg Romney
+2.  2 GOP groups spill secrets
+3.  3 GOP's problems exposed in Senate
+4.  4 6 takeaways from the debate
+5.  5 Fight night on Long Island
+6.  6 5 unmet Obama promises
+7.  7 5 things to watch at the debate
+8.  8 Crowley: 'I'm not a fly on the wall'
+9.  9 Obama's slippery foreign oil promise
+10.  10 Rand Paul goes national
 
 News
 
