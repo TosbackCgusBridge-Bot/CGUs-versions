@@ -168,6 +168,7 @@ Pro Farmer
 Top Producer Blog  
 Multimedia  
 News Agriculture News Read the latest agriculture news for crops, livestock, marketing and more. YEAR: All201220112010MONTH: AllJanFebMarAprMayJunJulAugSeptOctNovDec DAY: All 1 2 3 4 5 Next 255075100 10/20/2012  
+Attend Top Producerâs Young Farmer Conference Read Full Story 10/20/2012  
 Span-tastic Product Avoids Field Interference Read Full Story 10/20/2012  
 Rally Time for Old-Crop Prices Read Full Story 10/19/2012  
 Price Rallies Likely as Rationing Continues Read Full Story 10/19/2012  
@@ -188,11 +189,10 @@ Opportunity Knocks Read Full Story 10/19/2012
 Rain Generates Springlike Pasture Regrowth this Fall Read Full Story 10/19/2012  
 Consumer Ag Connection: Rooted in Agriculture Read Full Story 10/19/2012  
 Program Information for October 20-21, 2012 Read Full Story 10/19/2012  
-(1 Comment) Presidential Candidates Talk Farm Issues Read Full Story 10/19/2012  
+(4 Comments) Presidential Candidates Talk Farm Issues Read Full Story 10/19/2012  
 Attend Top Producerâs Executive Women in Agriculture Conference Read Full Story 10/18/2012  
 How Many Acres Do You Have Left to Harvest? Read Full Story 10/18/2012  
-AgDay: Surprising Harvest in Eastern Iowa Read Full Story 10/18/2012  
-Irrigation Device Enables Wireless Pivot Control Read Full Story
+AgDay: Surprising Harvest in Eastern Iowa Read Full Story
 
 1 2 3 4 5 Next RSS AgWeb News Wire
 
