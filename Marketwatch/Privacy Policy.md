@@ -1,10 +1,4 @@
-Bulletin Investor Alert
-
-London Markets Close in:
-
-Currencies Futures Metals Stocks
-
-Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
+Bulletin Investor Alert Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
@@ -198,123 +192,120 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 10:51 AM EDT October 19, 2012 /marketstate/country/us New York Open /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 20, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  10:46a
+/news/latest1.  8:00a
     
-    Gold prices down further on dollar gains
+    At the NYSE, Larry Kofsky looks at the Fed meeting
     
-2.  10:43a
+2.  6:01a
     
-    Critics say SEC rule enshrines failed model
+    Hondaâs renaissance of radical reasonableness
     
-3.  10:36a
+3.  6:01a
     
-    U.S. stocks drop sharply on earnings news
+    Power negotiating after the car warranty expires
     
-4.  10:32a
+4.  6:01a
     
-    Oil futures turns slightly lower, fall below $92
+    Apple, tech earnings in investorsâ sights
     
-5.  10:32a
-    
-    Nov. crude oil down 28 cents at $91.82/bbl
-    
-6.  10:31a
-    
-    McDonald's earnings disappointing, not disasterous
-    
-7.  10:31a
-    
-    Updates, advisories and surprises
-    
-8.  10:28a
-    
-    Dollar gains as investors seek a safe haven
-    
-9.  10:27a
-    
-    SanDisk climbs 7% as Piper analyst raises rating
-    
-10.  10:23a
-    
-    Starbucks opens first outlet in India
-    
-11.  10:18a
-    
-    Speculating in the mortgage-services space
-    
-12.  10:18a
-    
-    Sales of existing homes drop in September
-    
-13.  10:16a
-    
-    Pimco says U.S. downgrade imminent
-    
-14.  10:15a
-    
-    AMD falls on disappointing results, downgrade
-    
-15.  10:13a
-    
-    BREAKING
-    
-    U.S. stocks retain stiff losses as home-sales dip
-    
-16.  10:08a
-    
-    D.C. revolving door didnât protect hedge fund
-    
-17.  10:06a
-    
-    Marvell Technology crushed by downgrades
-    
-18.  10:06a
-    
-    Chipotle shares slammed on outlook
-    
-19.  10:04a
-    
-    Gold continues lower following home sales data
-    
-20.  10:00a
+5.  11:04p
     
     Power 30: health-care honchos
     
+6.  7:35p
+    
+    Two bank failures take U.S. tally to 46, FDIC says
+    
+7.  7:33p
+    
+    Two bank failures take U.S. tally to 46, FDIC says
+    
+8.  7:02p
+    
+    When and where meteor shower will peak on weekend
+    
+9.  6:32p
+    
+    2 days to vote in Round 2 of our columnist contest
+    
+10.  6:28p
+    
+    Radio Update: Stocks suffer worst day since June
+    
+11.  5:52p
+    
+    Microsoftâs benefit of the doubt is done
+    
+12.  5:43p
+    
+    Fridayâs biggest gaining and declining stocks
+    
+13.  5:39p
+    
+    Capital One shines as credit quality improves
+    
+14.  5:31p
+    
+    GulfSouth Private Bank of Fla. fails, 44th of year
+    
+15.  5:18p
+    
+    Marvell active after hours following dayside rout
+    
+16.  5:00p
+    
+    U.S. stocks slammed on worst day since June
+    
+17.  4:51p
+    
+    Stocks, gold, oil tank on earnings. Dollar, Treasurys gain
+    
+18.  4:48p
+    
+    MarketWatchâs top 10 stories, Oct. 15 - 19
+    
+19.  4:44p
+    
+    Ratings note doesnât help Abbott in sell-off
+    
+20.  4:30p
+    
+    Radio Update: Wall Street tumbles at closing bell
+    
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,446.07 -102.87 -0.76% nasdaq /quotes/zigman/123127 3,042.81 -30.06 -0.98% s&p 500 /quotes/zigman/3870025 1,447.15 -10.19 -0.70% Kiosk
+dow /quotes/zigman/627449 13,343.51 -205.43 -1.52% nasdaq /quotes/zigman/123127 3,005.62 -67.24 -2.19% s&p 500 /quotes/zigman/3870025 1,433.19 -24.15 -1.66% Kiosk
 
 *   1341573300000 1341592200000
     
     From Fox Business
     
-    Â  Dave Ramsey  
-    Cutting the family budget  
-    When it comes to taking control of your money and living on a budget, you have to pick and choose what to spend and what to cut back on.Â  /conga/kiosk/marketfox.html 231105
-*   1309370400000 1309428000000
+    Â  Nancy Colasurdo  
+    Challenges can be connectors  
+    When trouble comes, it's important to remember that our challenges define us and can make us extraordinary, writes Nancy Colasurdo.Â  /conga/kiosk/marketfox.html 231678
+*   1326931500000 1327018200000
     
     Commentary
     
-    The truth about Panditâs pay  
-    The departed Citigroup CEO didnât make out as well as many of his executive peers, writes Brett Arends.  
-    â¢ 'Same old Citi' with new CEO /conga/kiosk/wildcard4.html 231499
-*   1326931500000 1327018200000
-    
-    The Trading Deck
-    
-    kevin marder  
-    Stocks: It could be much worse  
-    Stateside, the best thing the economy (and the market) has going for it is the smart rebound in the housing sector. /conga/kiosk/trading-deck-3.html 231492
+    Best time to buy is after a crash  
+    Buying stocks after a crash takes steel nerves most investors donât have, writes Jonathan Burton. So how do you take the plunge after a plunge?  
+    â¢ 1987 market crash: Could it happen again? /conga/kiosk/trading-deck-3.html 231707
 *   1347087600000 1347213600000
     
-    Personal Finance
+    Commodities Corner
     
-    Banking for preschoolers  
-    Why banks and money-management sites are vying for kidsâ cash. Think Mint.com for kindergartners.  
-    â¢ Why your kids need a Roth IRA  
-    /conga/kiosk/wildcard2.html 231268
+    What South African strikes  
+    really mean to metals  
+    As labor unrest in South Africa grows, so has concern over the nationâs production of metals, writes Myra P. Saefong.  
+    /conga/kiosk/wildcard2.html 231666
+*   1341573300000 1341792900000
+    
+    Economy
+    
+    Â  What Google, GE reveal  
+    A review of the data over the past week: From Google sales to housing data to China GDP, see what the freshest indicators say about the global economy. /conga/kiosk/economy-politics.html 231696
 
 MarketWatch.com
 
