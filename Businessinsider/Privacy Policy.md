@@ -164,7 +164,7 @@ Recommended For You
 
 Please follow Business Insider on Twitter and Facebook.
 
-Short URL Share:
+Advertisement: Short URL Share:
 
 *   _Twitter_
 *   _Facebook_
@@ -238,13 +238,13 @@ Small Business: Big Results
 
 Most Read Read  Commented  Recommended 
 
-*   These Pictures May Give You Nightmares About The Canada Oil Sands 1,092,919 Views
+*   These Pictures May Give You Nightmares About The Canada Oil Sands 1,094,070 Views
     
-*   There Is Simply No Other Plane In The World Like Air Force One 404,957 Views
+*   There Is Simply No Other Plane In The World Like Air Force One 417,300 Views
     
-*   This Story Of A Seven-Month Afghanistan Deployment Is The Grittiest You Will Ever Read 362,562 Views
+*   This Story Of A Seven-Month Afghanistan Deployment Is The Grittiest You Will Ever Read 362,773 Views
     
-*   Meet Alto, The Gmail Replacement You Won't Believe Was Made By AOL 253,824 Views
+*   Meet Alto, The Gmail Replacement You Won't Believe Was Made By AOL 255,114 Views
     
 
 *   ROMNEY STORMS TO HUGE 7-POINT LEAD IN NEW GALLUP POLL 118 Comments
