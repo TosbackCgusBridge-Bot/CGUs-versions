@@ -84,13 +84,17 @@ Please make sure javascript is enabled in your browser homepage Billboard - Musi
 
 previous 14/14
 
+*   Justin &. Jessica's Wedding Playlist
+    
+    Justin Timberlake and Jessica Biel married this week at a top-secret ceremony in southern Italy. In honor of the former 'N Sync frontman's nuptials, we've put together a playlist of songs for the happy couple.
+    
+*   Taylor Swift's Top 10 Star-Making Moments
+    
+    On the eve of "Red's" release, Billboard takes a look back at the defining moments of Taylor Swift's career, from her first single to her biggest sales week. She has had a career full of unforgettable highlights -- here are 10 of the biggest.
+    
 *   3BallMTY Dominate Billboard Mexican Music Awards
     
     Along with Artist of the Year Gerardo Ortiz, the edgy trio owned this year's ceremony, which aired live on Thursday night. Read all about 3BallMTY's nine wins and more from the Billboard event.
-    
-*   Taylor Swift's Top 10 Career Moments
-    
-    On the eve of "Red's" release, Billboard takes a look back at the defining moments of Taylor Swift's career, from her first single to her biggest sales week. She has had a career full of unforgettable highlights -- here are 10 of the biggest.
     
 *   Eminem's 30 Biggest Billboard Hits
     
@@ -103,10 +107,6 @@ previous 14/14
 *   Beyonce's Super Bowl Setlist Poll
     
     With Queen Bey set to rock the halftime show of Super Bowl XLVII, it's time to think about which smash singles she might perform. What would be the ideal setlist? Vote now!
-    
-*   Ke$ha: The Billboard Cover Story
-    
-    With "Die Young" gaining love from radio and new album "Warrior" set to hit in December, Ke$ha is back.
     
 
 Video
