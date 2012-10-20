@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   Election 2012
-    *   entertainment
     *   Mitt Romney 2012
     *   Mitt Romney
+    *   entertainment
     *   Barack Obama
     *   celebrity
-    *   Benghazi
+    *   strange stuff
     *   timeless news
-    *   President Obama
-    *   Florida
+    *   Benghazi
+    *   Syrian uprising
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -121,61 +121,61 @@ NEWS FROM OUR PARTNERS
 
 *   Talking to Justice Ruth Bader Ginsburg
 *   If All the Previous U.S. Presidents Were Alive and Running...
-*   Boss Dana Stevens Around
+*   Call Me Melancholy
 
 More from Slate »
 
-*   THE FUTURE OF PORN? (NSFW)
+*   CELEBRITY SPERM BANK HOAX
+*   Hamster Taken Into 'Protective Custody' When Owner Arrested
 *   BEST CALL EVER: Woman Thinks Deer X-ing Signs 'Encourage'...
-*   'OH SH-T': Man Allegedly Punched Cops, Pooped His Pants
 
 More from HuffPost Weird »
 
-*   Fireworks, Andy Samberg, Wine: More Deets On Justin...
-*   Michelle Obama Likes The President Commando &. What Is...
-*   Study: Female Genital Mutilation Ruins Sex Lives
+*   This Week In Style: Too-Skinny Minnie Makes Waves
+*   Why My Boyfriend Loves My Girl Crush On Tina Fey &. Amy...
+*   Sneak Peek: Target And Neiman Marcusâs Designer Holiday...
 
 More from The Frisky »
 
-*   Chicks who like cats = crazy cat lady. Cats who like chicks...
-*   Omaha Fark Party at the Upstream Brewery Oct 20th at 7pm...
-*   The somewhat forgotten Trayvon Martin case has taken a few...
+*   When seeking medical attention after inhaling toxic...
+*   1st Native American approved for sainthood after Vatican...
+*   Anyone for a FARK party in Baltimore? Discuss \[FarkParty\]
 
 More from Fark »
 
+*   The world's silliest territorial dispute
+*   10 things you need to know today: October 20, 2012
 *   5 smart reads for the weekend
-*   The boy kicked out of school for carrying a cystic fibrosis...
-*   2012 race: Will the popular-vote winner lose the Electoral...
 
 More from The Week »
 
-*   How Screwed Is This Bank? Morgan Stanley Edition
-*   Tucker Carlson Makes âMost Punchable Faces in Mediaâ List
-*   Congressman John Lewis Dances Gangnam Style, for Democracy
+*   Democrat Social Media Users Are 'Likers'. Republicans Are...
+*   Mitt Romney Actually Doesn't Like Firing People That Much
+*   Is 'Romnesia' a True Public Health Threat, or Just Another...
 
 More from Daily Intel »
 
 *   A Brain Booster.. A Natural Fat Blaster.. A Cancer Fighter:...
-*   Teen Star Kenton Duty on Food Allergies and Bullying
-*   Googling Often Doesn't Get It Right When It Comes to Infant...
+*   Say 'No' to Too Much Food
+*   When Bad Meditation Inspires Better Writing
 
 More from HuffPost Health »
 
-*   Justin Timberlake, Jessica Biel Are Married (EXCLUSIVE...
-*   Jessica Biel's Wedding Dress: Did She Go Glam, Sexy or...
-*   Kim Kardashian and Kanye West: See Their Most Intimate...
+*   Lindsay Lohan Fires Back at Michael Lohan Following Failed...
+*   Alicia Keys Unveils New Music Video for âGirl on Fireâ...
+*   Heidi Montag Flaunts Curves at Las Vegas Gentlemenâs Club...
 
 More from Celebuzz »
 
-*   Mummy Hot Dogs Recipe Is Scary Good
-*   5 Things Vegetarians Say That Drive Meat-Eaters Crazy
-*   Britney Spears Meth Abuse Accusations Don't Add Up
+*   Beautiful Nursery Lets Moms Pamper Themselves While Taking...
+*   Justin Timberlake and Jessica Biel Get Married: Who Was...
+*   Missing Woman Whitney Heichel's Body Found and Her Neighbor...
 
 More from The Stir »
 
+*   The Week on AdFreak: Oct. 12-19, 2012
 *   Trailer Mash 10-19-12
 *   Ad of the Day: DnB
-*   Think Twice Before Foursquaring That Stranger, Say AIDS Ads
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
