@@ -267,25 +267,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Gun industry thrives during Obama's term in office Published 10/19/2012 at 4:00 a.m. 134 comments
-*   Two arrested in early morning knife slashing in Anderson, police say Published 10/19/2012 at 8:33 a.m. 31 comments
-*   Duenas back in court in connection with his wife's death Updated 10/19/2012 at 11:58 a.m. 21 comments
-*   Charles Krauthammer: Obama's great gaffe Published 10/19/2012 at 12:00 a.m. 93 comments
-*   Redding police looking for man who threatened to stab gas station clerk while stealing from mini-mart Published 10/19/2012 at 6:19 a.m. 23 comments
+*   Duenas back in court in connection with his wife's death Updated 10/19/2012 at 11:58 a.m. 22 comments
+*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 89 comments
+*   Two arrested in early morning knife slashing in Anderson, police say Published 10/19/2012 at 8:33 a.m. 35 comments
+*   Gun industry thrives during Obama's term in office Published 10/19/2012 at 4:00 a.m. 137 comments
+*   Charles Krauthammer: Obama's great gaffe Published 10/19/2012 at 12:00 a.m. 107 comments
 
-Photo Galleries Think Pink Clarizio's Deli Red Bluff men get marijuana back
+Photo Galleries Think Pink Foothill vs. Chico Red Bluff men get marijuana back
 
 *   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 374 comments
-*   Gun industry thrives during Obama's term in office Published 10/19/2012 at 4:00 a.m. 134 comments
-*   Robert Huerta: American cannot leave God behind Published 10/17/2012 at 12:00 a.m. 104 comments
-*   Charles Krauthammer: Obama's great gaffe Published 10/19/2012 at 12:00 a.m. 93 comments
+*   Gun industry thrives during Obama's term in office Published 10/19/2012 at 4:00 a.m. 137 comments
+*   Charles Krauthammer: Obama's great gaffe Published 10/19/2012 at 12:00 a.m. 107 comments
+*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 89 comments
 *   Federal appeals court in New York nixes Defense of Marriage Act Published 10/18/2012 at 9:08 a.m. 76 comments
 
 *   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
-*   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 54 comments
 *   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 89 comments
 *   Dog trainer teaches empathy at Tehama juvenile hall Published 10/15/2012 at 11:40 p.m. 9 comments
 *   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Published 10/13/2012 at 10:14 a.m. 34 comments
+*   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 54 comments
 
 Weather
 
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 55° Fair Wind: Calm Today 76° 54° Sat 05:00 PM Partly Sunny Temp: 74° Sun 05:00 AM Partly Cloudy Temp: 48° Sun 05:00 PM Cloudy Temp: 68°
+Currently 65° Fair Wind: Calm Today 76° 46° Sat 11:00 PM Partly Cloudy Temp: 55° Sun 11:00 AM Partly Sunny Temp: 60° Sun 11:00 PM Mostly Cloudy Showers Temp: 56°
 
-Feels Like: 74°
+Feels Like: 55°
 
-Humidity: 27%
-
-Precip: 4%
-
-Feels Like: 48°
-
-Humidity: 56%
+Humidity: 44%
 
 Precip: 0%
 
-Feels Like: 68°
+Feels Like: 60°
 
-Humidity: 25%
+Humidity: 39%
 
 Precip: 9%
+
+Feels Like: 56°
+
+Humidity: 59%
+
+Precip: 73%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
