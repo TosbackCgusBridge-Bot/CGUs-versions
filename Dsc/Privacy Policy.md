@@ -330,7 +330,11 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-Strips Heal the Roof of Your Burned Mouth
+TWiDN: Can We Grow Our Organs On A New Planet?
+
+Orionid Meteor Shower Peaks Tonight: How to Watch
+
+Tech Takes Sting Out Of Swing
 
 Excellent Idea of the Day: Strips to Heal Pizza Burn
 
@@ -341,10 +345,6 @@ The Psychology of Love Can Kill: Gotta-See Video
 No life found in Antarctica's buried Lake Vostok
 
 Air Canada Flight Finds Lost Boat: DNews Nugget
-
-The Shuttle's Last Mission: LA: Gotta-See video
-
-Man Fails to Break Ice. Ouch.: Gotta-See Video
 
   facebook share0 Tweet Privacy Policy  
 
@@ -551,31 +551,34 @@ Email: privacy\_policy@discovery.com
 Last Updated On: Wednesday, August 19, 2010
 
 facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 20,  
-7:00 am  
-30 min(s)  
-**Paid Programming**  
- …  
+12:00 pm  
+120 min(s)  
+**Yukon Men: Last Chance (S1 Finale)**  
+ The villagers of Tanana have just 18 hours to get a year's worth  
 Oct 20,  
-7:30 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 20,  
-8:00 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 20,  
-8:30 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Oct 20,  
-9:00 am  
+2:00 pm  
 60 min(s)  
-**Alaska: The Last Frontier**  
-_Fueling the Fire_  
- The first storm of the winter is fast approaching so the entire K  
+**Gold Rush: Alaska**  
+_Gold Fever_  
+ After 80 days, the miners are behind schedule and out of money. T  
+Oct 20,  
+3:00 pm  
+60 min(s)  
+**Gold Rush: Alaska**  
+_Going For Broke_  
+ With winter weather closing in, a gold recovery expert comes to h  
+Oct 20,  
+4:00 pm  
+60 min(s)  
+**Gold Rush: Alaska**  
+_Bad Blood_  
+ The crew remains in deep financial hole. Veteran miner "Dakota" F  
+Oct 20,  
+5:00 pm  
+60 min(s)  
+**Gold Rush: Alaska**  
+_Bedrock or Bust_  
+ Desperate to get to bedrock and large quantities of gold, Todd an  
 **More Listings »**   Shop Discovery Store      
 
 our sites
