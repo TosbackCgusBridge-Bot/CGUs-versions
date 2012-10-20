@@ -129,7 +129,7 @@ More
 
 *   It's Romney's Race to Lose
 *   Why People Now Ignore Paul Krugman
-*   Car Bomb In Lebanon
+*   Name 5 Reasons a Man Should Get Married
 
 More   CONVENIENT NEW REVELATIONS: CIA documents supported Susan Rice’s description of Benghazi attacks. What the CIA reportedly said on September 15: “The currently available information suggests that the demonstrations in Benghazi were spontaneously inspired by the protests at the U.S. Embassy in Cairo and evolved into a direct assault against the U.S. Consulate and subsequently its annex. There are indications that extremists participated in the violent demonstrations.” ... ISRAELIS AND LEBANESE are both angry—for very different reasons—that an episode of Showtime’s _Homeland_ that took place in Beirut was filmed in Israel. _NATIONAL JOURNAL:_ Polls: Romney Moves Up in Florida, Obama Down a Bit in Ohio. More Advertisement
 
