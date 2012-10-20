@@ -255,7 +255,7 @@ Status Recently Viewed   Items: 0 Subtotal: $0.00   Thank you for visiting Eas
     *   Shirts
     *   Shorts
     *   Sweaters &. Cardigans
-    *   Fall Lookbook
+    *   Lookbook
     
     *   Accessories
     *   Bags
