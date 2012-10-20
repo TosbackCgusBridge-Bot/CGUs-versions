@@ -15,6 +15,10 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
+Mr. Blasberg's Best Dressed List: October 19th, 2012
+
+Mr. Blasberg chooses the top 10 chicest looks from the week.
+
 Good Jeans: Fall's Best Denim
 
 See the best in fall denim.
@@ -22,10 +26,6 @@ See the best in fall denim.
 My List: Vera Wang in 24 Hours
 
 The designer shares her schedule and beaut routine
-
-Street Style Star: Chic Coats
-
-Coat season is officially here, see how chic ladies wear their fall best on...
 
 Beauty &. Hair  
 
@@ -45,15 +45,15 @@ An alluring mystique is created by a woman's choice of scent.
 
 Shop more fragrances for Fall 2012.
 
-CELEBRITY STYLE &. PARTIES   Last Night's Parties: Urban Zen's Connecting the Dots Exhibiton &. Mario Testino's First U.S. Photo Exhibit
+CELEBRITY STYLE &. PARTIES   Bergdorf Goodman Celebrates 111 Years
+
+Click through to see who attended the anniversary gala.
+
+Last Night's Parties: Urban Zen's Connecting the Dots Exhibiton &. Mario Testino's First U.S. Photo Exhibit
 
 See who came out to celebrate the arts in New York and Boston.
 
 Last Night's Parties: Target's 50th Anniversary, Barneys New York Hosts Kelly Klein's "Pools" Launch, Plus More!
-
-See who was on the New York scene.
-
-Last Night's Parties: The Golden Heart Awards &. Acne Paper #14 Launch
 
 See who was on the New York scene.
 
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR Good Jeans: Fall's Best Denim My List: Vera Wang in 24 Hours Street Style Star: Chic Coats The Power of Perfume 35 More Fall Fragrances Find Your Perfect Scent Last Night's Parties: Urban Zen's Connecting the Dots Exhibiton &. Mario Testino's First U.S. Photo E... Last Night's Parties: Target's 50th Anniversary, Barneys New York Hosts Kelly Klein's "Pools&qu... Last Night's Parties: The Golden Heart Awards &. Acne Paper #14 Launch Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR Mr. Blasberg's Best Dressed List: October 19th, 2012 Good Jeans: Fall's Best Denim My List: Vera Wang in 24 Hours The Power of Perfume 35 More Fall Fragrances Find Your Perfect Scent Bergdorf Goodman Celebrates 111 Years Last Night's Parties: Urban Zen's Connecting the Dots Exhibiton &. Mario Testino's First U.S. Photo E... Last Night's Parties: Target's 50th Anniversary, Barneys New York Hosts Kelly Klein's "Pools&qu... Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
