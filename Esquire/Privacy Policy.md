@@ -33,35 +33,35 @@ We talk to the lovely former Cheryl David
 
 *   _Walking Dead_'s New Hero on What's Ahead for Season 3
 
-Style You Can Make Your Own Chuck Taylors Now
+Style 10 Ways to Re-Stock Your Underwear Drawer
 
-Converse introduces a made-to-order shop on their website, and it's fantastic
+Because, every once in a while, you need to refresh the top drawer
+
+*   Design Your Own Chuck Taylors
 
 *   The Varsity Jacket Meets the Navy Blazer
 
 *   The State of Plaid, with Nick Sullivan
 
-*   The Man Who Re-Invented the Trench Goes for Watches
+News &. Politics Out on the Weekend, with Tebow!
 
-News &. Politics Mark Warren on Dinesh D'Souza, Lady's Man
+And A-Rod! And books! And Homeland! Charles P. Pierce bids farewell to the week that was.
 
-The famous moralist and overall terrible person is forced to resign amid scandal. Thank God.
+*   _Paranormal Activity_'s Box-Office Cash Grab
 
-*   This Week in the Laboratories of Democracy
+*   New _Paranormal_ or _Alex Cross_? Neither? 30-Second Reviews
 
-*   Charles P. Pierce on Today's Yemen Drone Strike
+*   Charles P. Pierce on the State of the Race
 
-*   Stephen Marche on Why We Need Nate Silver So Badly This Election
+Food &. Drink Will Ferrell Beer Commercials: Now in Swedish... on a Boat
 
-Food &. Drink The Gut-Bust-o-Matic, with Velveeta-Stuffed Donuts
+No, really.
 
-Take it for a spin
+*   The Gut-Bust-o-Matic, with Velveeta-Stuffed Donuts
 
 *   What's New in Beer at the Great American Beer Fest
 
 *   The Yelp Fake Review-Shaming Sting
-
-*   The Eat Like a Man Poll Results Are In: Your Favorite Pizza Is...
 
 Women
 
