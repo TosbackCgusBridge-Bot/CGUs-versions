@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** Obama heads to Camp David to prepare for crucial final debate
+1.  1.  **Environment:** Underground river 'Rio Hamza' discovered 4km beneath the Amazon
 2.  2\. **Media:** David Mitchell: goodbye lonely nerd
-3.  3\. **Football:** Sheffield Wednesday's Chris Kirkland attacked by Leeds fan in draw
-4.  4\. **Football:** Sheffield Wednesday's Dave Jones calls for away ban on Leeds fans
-5.  5\. **Politics:** George Osborne raises standard in first-class train row
+3.  3\. **News:** Obama heads to Camp David to prepare for crucial final debate
+4.  4\. **Football:** Tottenham Hotspur v Chelsea – as it happened
+5.  5\. **Life &. style:** Across the barricades: love over the class divide
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Media:** Channel 4 consigns Time Team to TV history
-2.  **Life &. style:** Sudoku 2,323 hard
-3.  **Books:** Days 1-6: creating your preliminary outline with characters, setting and plot
-4.  **Culture:** Destination Star Trek London at the ExCeL - in pictures
-5.  **Sport:** Lance Armstrong dodges doping allegations at Livestrong anniversary
+1.  **Culture:** The 10 best Channel 4 moments
+2.  **Football:** Tottenham Hotspur v Chelsea – as it happened
+3.  **Society:** Trade unions march against cuts
+4.  **Politics:** Alex Salmond's speech at SNP conference: Politics live blog
+5.  **Comment:** The 'plebs' row is a mere sideshow to destructive Tory incompetence | Polly Toynbee
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Tottenham Hotspur v Chelsea – live!
-2.  2\. Trade unions march against cuts
-3.  3\. Alex Salmond's speech at SNP conference: Politics live blog
-4.  4\. The 'plebs' row is a mere sideshow to destructive Tory incompetence | Polly Toynbee
-5.  5\. Gaza-bound ship Estelle intercepted by Israeli forces
+1.  1.  Strictly Come Dancing 2012 live blog: third live show
+2.  2\. Norwich City v Arsenal – live!
+3.  3\. Football League: your thoughts
+4.  4\. Frankel must now prove his worth from scratch in an entirely new field
+5.  5\. Mike Ross powers Leinster to workaday Heineken Cup victory at Scarlets
 6.  All today's stories
 
 On the Guardian today
 
-1.  Life and style Mapping the body: the temple
-2.  World news Koch-backed activists use power of data in bid to oust Obama from White House
-3.  World news Greek poverty so bad families 'can no longer afford to bury their dead'
-4.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-5.  Film Sylvia Kristel obituary
-6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+1.  Football Tottenham Hotspur v Chelsea – as it happened
+2.  World news Obama heads to Camp David to prepare for crucial final debate
+3.  Football Saturday football clockwatch - as it happened
+4.  Life and style Mapping the body: the temple
+5.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+6.  Education Gangnam Style parody: Eton Style - video
 
 *   License/buy our content
 |*   Privacy policy
