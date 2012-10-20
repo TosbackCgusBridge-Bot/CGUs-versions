@@ -94,12 +94,13 @@ Warehouse Prices with low price guarantee Free Shipping on orders above $50 or m
     *   Wheel Hubs, Bearings, and Components
 *   **Brakes, Suspension &. Steering** Popular
     
-    *   Axles, Driveshaft &. 4WD
     *   Brake Discs, Pads &. Calipers
     *   Control Arms, Thrust Arms &. Components
+    *   OE Replica Wheels
     *   Shocks, Struts &. Components
     *   Wheel Hubs, Bearings, and Components
     
+    *   Axles, Driveshaft &. 4WD
     *   Ball Joints &. Components
     *   Brake Drums, Shoes &. Components
     *   Brake Hoses, Lines &. Components
@@ -108,7 +109,6 @@ Warehouse Prices with low price guarantee Free Shipping on orders above $50 or m
     *   Leaf Springs &. Components
     *   Lowering, Leveling &. Lifting Kits
     *   Lug Nuts &. Bolts
-    *   OE Replica Wheels
     *   Parking Brake, ABS &. Other Components
     
     *   Power Steering Pumps &. Components
@@ -149,20 +149,20 @@ Warehouse Prices with low price guarantee Free Shipping on orders above $50 or m
 *   **Exterior Accessories** Popular
     
     *   Bumpers &. Components
+    *   Car Covers
     *   Door Handles, Locks &. Accessories
-    *   Fog Lights, Driving Lights, Components &. Accessories
     *   Grilles &. Components
     *   Hoods &. Components
     
     *   Antitheft Devices
     *   Auto Body Styling &. Accessories
-    *   Car Covers
     *   Convertible Tops, Soft Tops &. Components
     *   Decals &. Graphics
     *   Deflectors, Bras &. Shields
     *   Door Sheet Metal
     *   Emblems
     *   Fender Flares, Vents &. Accessories
+    *   Fog Lights, Driving Lights, Components &. Accessories
     *   Gas Caps, Fuel Doors &. Components
     
     *   Grille Guards &. Bull Bars
