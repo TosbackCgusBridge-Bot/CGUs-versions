@@ -108,6 +108,14 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
+Bay Area friends - don't forget, tomorrow is Hackmeet. Spend a few hours with us exploring activism and technology: https://hackmeet.org
+
+Oct 19 @ 6:24pm
+
+Bay Area sheriff seeks drone for thermal imaging and surveillance, new documents show https://eff.org/r.5apb via @MuckRockNews
+
+Oct 19 @ 10:40am
+
 *   Twitter
 *   Facebook
 *   Identi.ca
