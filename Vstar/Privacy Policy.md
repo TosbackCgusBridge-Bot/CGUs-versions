@@ -634,17 +634,17 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 85 comments
+*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 86 comments
 *   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 341 comments
 *   Krauthammer: The worst gaffe in debates so far Published 10/18/2012 at 2:51 p.m. 45 comments
 *   Oxnard police say they mistook bystander for suspect, fatally shot him Updated 10/19/2012 at 9:40 a.m.
-*   Community divided over dueling education propositions Published 10/19/2012 at 5:53 p.m. 29 comments
+*   Community divided over dueling education propositions Published 10/19/2012 at 5:53 p.m. 31 comments
 
 Photo Galleries Chaotic shooting rattles La Colonia… Ventura County's Most Wanted October… Football: Ventura vs. Buena
 
 *   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 341 comments
 *   Morning chat Published 10/17/2012 at 12:00 a.m. 111 comments
-*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 85 comments
+*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 86 comments
 *   Morning chat Published 10/19/2012 at 12:00 a.m. 91 comments
 *   Morning chat Published 10/18/2012 at 12:00 a.m. 85 comments
 
@@ -660,7 +660,7 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 66° Overcast Wind: N 5mph Today 68° 57° Sat 11:00 PM Dreary Temp: 59° Sun 11:00 AM Mostly Cloudy Temp: 65° Sun 11:00 PM Mostly Clear Temp: 56°
+Currently 68° Overcast Wind: Calm Today 68° 57° Sat 11:00 PM Dreary Temp: 59° Sun 11:00 AM Mostly Cloudy Temp: 65° Sun 11:00 PM Mostly Clear Temp: 56°
 
 Feels Like: 59°
 
