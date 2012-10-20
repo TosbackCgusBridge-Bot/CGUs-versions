@@ -63,7 +63,7 @@ Metering is ON
 
 suntimes
 
-Friday, October 19, 2012
+Saturday, October 20, 2012
 
 Search Search Site All Papers YAHOO!
 
@@ -370,6 +370,7 @@ Search Search Site All Papers YAHOO!
     *   Weekend
     
     *   Columns &. blogs
+        *   Daily Sizzle blog
         *   Thomas Conner
         *   Our Town
         *   Lori Rackl
