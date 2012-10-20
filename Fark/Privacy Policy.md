@@ -1,4 +1,4 @@
-It's Not News It's Fark.com Real news. Real funny
+It's Not News It's Fark.com Report Real news. Real funny
 
 *   Fark
 *   TotalFark
@@ -118,7 +118,7 @@ Search: Password Login Turn on javascript (or enable it for Fark) for a better u
 > 
 > Note: This policy also covers the personal information you provide to Fark Customer Support.
 
-Submit a Link »   Like Fark! +1 Fark! Follow @fark on Twitter Fark via RSS  
+Submit a Link » Report   Like Fark! +1 Fark! Follow @fark on Twitter Fark via RSS  
 
 *   Top Links
 *   Top Comments
@@ -145,52 +145,52 @@ Headlines of the Week
 *   Farktography Forum
 *   Fark Quiz
 
-**From the Fark Shop:**
+Report **From the Fark Shop:**
 
 *     
-    Warning A-holes
+    Come At Me Bra
 *     
-    From Rotten with Love
+    Maze Cafe - Cup and Saucer Set
 *     
-    I Love Ninjas - Knit Beanie
+    Save The Earth, It's The Only One with Chocolate
 *     
-    Zombie Wars - Episode II: Attack of the Undead
+    Mummy Dearest Apron
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
+25 of the Unhappiest Mugshots Known t...  
 Christian Bale's Wild Body Transforma...  
-6 of the Most Bizarre Celebrity Deaths  
-Two-Year-Old Girl Insults Kate Middle...  
-Best of the Worst EVER Gameshow Answers!  
+The 10 Worst Video Game Weapons Ever  
+The Ultimate Speedboat Fail  
 More news at Scribol »  
   
   
-W. Eugene Smith's Landmark Photo Essa...  
-The Brink of Oblivion: Inside Nazi-Oc...  
-Taylor and Clift: Photos From the Set...  
-Frank Lloyd Wright: The Natural  
-More news at Life »  
+Pre-Labor Day Pregnant Bikini Contest  
+The State Fair Food That Will Cause Y...  
+The 20 Worst Hipster Bands: The Compl...  
+Internet Cat Video Film Festival Exists  
+More news at Village Voice »  
   
   
-X Factor Vs The St. Louis Cardinals  
-Painfully Earnest Celebrity Endorsements  
-WWE Diva Eve Torres  
-Memes Re-Cast With Arrested Development  
-More news at UPROXX »  
+THE FUTURE OF PORN? (NSFW)  
+BEST CALL EVER: Woman Thinks Deer X-i...  
+'OH SH-T': Man Allegedly Punched Cops...  
+Would-Be Identity Thief Hangs Head In...  
+More news at HuffPostWeirdNews »  
   
   
-Body in Dumpster May Be Missing Real...  
-DA: Restaurateur Researched 'Evil Way...  
-LAPD Probing Manson Family Link to 12...  
-Woman in Wheelchair Dies After Fall F...  
-More news at KTLA »  
+Your Daily Horoscope  
+The almanac  
+Political ad features woman on toilet  
+Reebok makes shoes for tallest man in...  
+More news at UPI »  
   
 
 Also on Fark
 
-Main Team mascot steps in to throw two fourth quarter touchdowns in upset win. BONUS: Coached by Derrick Thomas ( kentucky.com ) » (5 comments) Sports Team mascot steps in to throw two fourth quarter touchdowns in upset win. BONUS: Coached by Derrick Thomas ( kentucky.com ) » (5 comments) Business Levi's introduces new hipster line of polyester jeans ( news.cnet.com ) » (1 comment) Geek Chris Roberts (Wing Commander series, Privateer) has decided that technology has finally caught up to where he needs it to be for his gaming masterpiece. Let's get him the funding he needs to complete it. (w/ vids) ( tomshardware.com ) » (17 comments) Entertainment A bad day for the Swishers continues as Joanna Garcia's comedy "Animal Practice" is put to sleep in a much more humane manner than Nick's Yankees were ( hollywoodreporter.com ) » (9 comments) Politics Both presidential candidates believe in climate change. Let's educate the American people ( washingtonpost.com ) » (17 comments) Video Gangnam Style covers transcend time and space as Hitler makes his mark on history ( youtube.com ) » (5 comments) FarkUs Farker attempts to play game developed by NASA, ends up praising John Madden and rocking out to the Imperial March ( youtube.com ) » (0 comments)
+Main The somewhat forgotten Trayvon Martin case has taken a few unusual turns in favor of the defense ( nytimes.com ) » (8 comments) Sports Chelsea take on a team in all-white without Terry. Elsewhere, the Canaries might get Gunned down, Mackems take on the Toon and Liverpool will draw with Reading ( guardian.co.uk ) » (6 comments) Business In a shock to absolutely no one, CVS has been refilling your prescriptions without asking you and kindly billing your insurance company ( latimes.com ) » (27 comments) Geek NBC news asked the questions everyone but mad scientists are afraid to ask. Why aren't insects human sized? ( msnbc.msn.com ) » (45 comments) Entertainment Denver audience to Madonna: Too Soon ( denver.cbslocal.com ) » (42 comments) Politics Unemployment rates fall in 41 states, including most swing states. This is bad news...for Fox ( money.cnn.com ) » (112 comments) Video Nothing to see, just another high school sports record. Wait ... a 67 yard field goal? ( youtube.com ) » (62 comments) FarkUs It's a fantasy trope deconstruction, a mystery, and a humorous adventure novel I wrote. Check it out ( amazon.com ) » (0 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main Team mascot steps in to throw two fourth quarter touchdowns in upset win. B
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 19 2012 11:00:38  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 20 2012 08:00:35  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
