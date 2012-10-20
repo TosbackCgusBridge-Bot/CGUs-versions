@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Iran
+*   Mitt Romney
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -22,11 +22,11 @@ October 20, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Crazy Polls Show Close Race, Continuing Obama Edge In Battlegrounds 22k
-    *   Obama Hits 'Romnesia' 38k
+    *   Crazy Polls Show Close Race, Continuing Obama Edge In Battlegrounds 25k
+    *   Obama Hits 'Romnesia' 45k
+    *   Prominent Democratic Strategists Relieved At Survey On Obama Economic Message 12k
+    *   Battleground State Newspaper Dumps Obama For Romney 10k
     *   Soup Kitchen In Paul Ryan Flap Facing Donor Backlash 11k
-    *   Battleground State Newspaper Dumps Obama For Romney 9k
-    *   Obama, Romney Trade Zingers At Al Smith Dinner 8k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 20, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   'James Bond' Debt Collector Allegedly Murders One-Time Maxim Model 229
-    *   Abercrombie &. Fitch's Corporate Jet Takes Cultish To a Whole New Level 374
+    *   'James Bond' Debt Collector Allegedly Murders One-Time Maxim Model 318
+    *   Abercrombie &. Fitch's Corporate Jet Takes Cultish To a Whole New Level 390
     *   White McDonald's Customer Alleges Racism After She's Denied Biscuits 1k
-    *   The Most Dangerous City In America Is... 197
-    *   Obama's Jobs Joke: 'I Don't Have A Joke Here' 3k
+    *   The Most Dangerous City In America Is... 218
+    *   Dow Has Worst Day In Months 534
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 20, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   Clint Eastwood's Daughter Says She's Not Voting For Romney 1k
-    *   19 Biggest Movie Plot Holes 239
-    *   Dr. Ruth Demands That Helen Hunt Start Using Contraceptives 55
-    *   Lady Gaga Fights Back 373
-    *   WATCH: Willow Smith Covers Adele's 'Skyfall' 160
+    *   Clint Eastwood's Daughter Says She's Not Voting For Romney 2k
+    *   19 Biggest Movie Plot Holes 262
+    *   Sheen, Harrelson Set To Star In 9/11 'Truther' Film 2k
+    *   WATCH: Willow Smith Covers Adele's 'Skyfall' 226
+    *   Dr. Ruth Demands That Helen Hunt Start Using Contraceptives 63
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 20, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   Facebook Is 'Going Purple'... And So Can You 70
+    *   This Doesn't Bode Well... 560
     *   Google Designs From The '90s Unearthed: Potential Designs Include 'Kermit The Frog'-Type Suggestion
-    *   WATCH: Tech Execs Come Out Strong For Obama 148
-    *   WATCH: Notorious Internet Troll Apologizes For Shocking, Offensive Posts 139
-    *   Judge Forces Apple To Apologize To Samsung 540
+    *   WATCH: Tech Execs Come Out Strong For Obama 153
+    *   Facebook Is 'Going Purple'... And So Can You 76
+    *   Google Still Searching for Answers To Its 'Mobile Problem' 112
     
     Go to Tech **More in Tech**
     
@@ -109,10 +109,10 @@ October 20, 2012 Edition: **U.S.**
 *   Media
     
     *   WATCH: Obama Takes A Jab At Chris Matthews 3k
-    *   WATCH: Whoopi Goldberg's Uncomfortable Question To Ann Romney 21k
     *   Fox News Chief Signs Big New Contract 1k
-    *   WATCH: Tom Hanks Drops F-Bomb 195
-    *   WATCH: Lawrence O'Donnell Flips Out On Tagg Romney 2k
+    *   WATCH: Whoopi Goldberg's Uncomfortable Question To Ann Romney 21k
+    *   PHOTO: New Yorker Cover Hits Romney 624
+    *   WATCH: Tom Hanks Drops F-Bomb 205
     
     Go to Media **More in Media**
     
@@ -130,10 +130,10 @@ October 20, 2012 Edition: **U.S.**
 *   World
     
     *   Austria Probes Gruesome Nazi Abuse 2k
-    *   CIA Found Militant Links Just 1 Day After Libya Attack 6k
+    *   CIA Found Militant Links Just 1 Day After Libya Attack 8k
     *   Huge Explosion Rocks Beirut 1k
-    *   Stray Cat Discovers Secret 2,000-Year-Old Tomb 203
-    *   Top Lebanese Security Official Reportedly Killed In Blast 237
+    *   Report: GOP Document Dump Exposes Libyans Working With U.S. 4k
+    *   Top Lebanese Security Official Reportedly Killed In Blast 276
     
     Go to World **More in World**
     
@@ -152,10 +152,10 @@ October 20, 2012 Edition: **U.S.**
 *   Healthy Living
     
     *   35 Diet And Nutrition Experts You Should _Already_ Be Following 25
-    *   Jennifer Lost 200 Pounds: 'I Ate Because I Was Bored. I Ate Because I Was Lonely. I Ate Because I Could’ 20
-    *   Kicking Butt! 10 Celebrities Who Have Quit Smoking 205
-    *   Happy Reads: 10 Books That Make Us Smile
-    *   The Baker, The Free Food Fiend, The Food Bully: Which Workplace Diet Saboteur Is Your Biggest Weakness? 30
+    *   Jennifer Lost 200 Pounds: 'I Ate Because I Was Bored. I Ate Because I Was Lonely. I Ate Because I Could’ 24
+    *   Happy Reads: 10 Books That Make Us Smile 14
+    *   Banana Boat Recalls Sunscreen After 5 People Catch On Fire 168
+    *   The Baker, The Free Food Fiend, The Food Bully: Which Workplace Diet Saboteur Is Your Biggest Weakness? 31
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -173,10 +173,10 @@ October 20, 2012 Edition: **U.S.**
 *   Style
     
     *   PHOTOS: See Who Turned Out For Bergdorf's 111th Birthday Party
-    *   PHOTOS: Kim Kardashian Channels... Gumby? 33
-    *   WATCH: Ed Burns Reveals How He Landed Christy Turlington
-    *   Michelle Obama Has A Surprise Answer For The Eternal 'Boxers Or Briefs?' Question 357
-    *   PHOTOS: There's A Royal Wedding This Weekend! 68
+    *   WATCH: Ed Burns Reveals How He Landed Christy Turlington 14
+    *   Michelle Obama Has A Surprise Answer For The Eternal 'Boxers Or Briefs?' Question 474
+    *   PHOTOS: Kim Kardashian Channels... Gumby? 37
+    *   PHOTOS: See How Kanye Upgraded Kim's Closet
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 20, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   PHOTOS: The Funniest Haunted House Reactions 184
-    *   WATCH: One Of The Best Things You Will Ever See 611
-    *   WATCH: Jon Mocks Obama's Debate Performance To His Face 3k
-    *   WATCH: Romney's Horrifying Google History LEAKED 166
-    *   WATCH: An Unexpected, Disgusting Guest 80
+    *   PHOTOS: The Funniest Haunted House Reactions 207
+    *   WATCH: Jon Mocks Obama's Debate Performance To His Face 4k
+    *   WATCH: Romney's Horrifying Google History LEAKED 238
+    *   WATCH: An Unexpected, Disgusting Guest 102
+    *   WATCH: Kitten vs. Doberman... In Bed 65
     
     Go to Comedy **More in Comedy**
     
