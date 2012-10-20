@@ -78,7 +78,8 @@ Navigation
         5.  Frappuccino® Blended Beverages
         6.  Kids’ Drinks &. Others
         7.  Smoothies
-        8.  Tazo® Teas
+        8.  Starbucks Refreshers™ Beverages
+        9.  Tazo® Teas
     2.  Food
         
         1.  Bakery
@@ -427,6 +428,7 @@ Search Online Policies
     3.  Foodservice
     4.  Licensed Stores
     5.  Starbucks Card Corporate Sales
+    6.  Landlord-Related FAQs
 4.  Online Community
     1.  Twitter
     2.  Facebook
@@ -441,7 +443,7 @@ Search Online Policies
 
 Change Region
 
-© 2012 Starbucks Corporation. All rights reserved.
+© 2011 Starbucks Corporation. All rights reserved.
 
 *   .Responsibility
 *   .Web Accessibility
