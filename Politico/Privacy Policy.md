@@ -113,46 +113,46 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/20/2012 7:02 AM ET
+Updated: 10/20/2012 1:17 PM ET
 
-1.  1 Obama diagnoses GOP nominee with 'Romnesia' (Updated)
-2.  2 Obama's 'Romnesia' remedy
+1.  1 VP debate transcript
+2.  2 Romney keeps distance from Scott in Fla.
 3.  3 O'Donnell taunts Tagg Romney
-4.  4 VP debate transcript
-5.  5 Carmona apologizes for calling male debate moderator 'prettier' than Crowley
-6.  6 Leadership elections spark Pelosi speculation
-7.  7 GOP seizes Obama 'optimal' moment
-8.  8 Romney: Obama camp going small
-9.  9 Pol who needed abortion rips Walsh
-10.  10 Obama: Mitt has 'Romnesia'
+4.  4 Ann Romney corrects Whoopi
+5.  5 Obama's 'Romnesia' remedy
+6.  6 Conservative pro-Israel groups' relevance at risk in 2012
+7.  7 Obama's September haul: $126M
+8.  8 Leadership elections spark Pelosi speculation
+9.  9 Romney: Obama camp going small
+10.  10 Obama diagnoses GOP nominee with 'Romnesia' (Updated)
 
-Updated: 10/20/2012 7:02 AM ET
+Updated: 10/20/2012 1:17 PM ET
 
 1.  1 Clinton trashes whiners
 2.  2 GOP seizes Obama 'optimal' moment
 3.  3 GOP groups spill secrets
-4.  4 Obama diagnoses GOP nominee with 'Romnesia' (Updated)
-5.  5 O'Donnell taunts Tagg Romney
+4.  4 O'Donnell taunts Tagg Romney
+5.  5 Obama diagnoses GOP nominee with 'Romnesia' (Updated)
 6.  6 Obama, Romney best Al Smith jokes
 7.  7 Beckel: 'Over' for Obama if poll is true
 8.  8 Obama: Mitt has 'Romnesia'
 9.  9 Obama's 'Romnesia' remedy
-10.  10 Obama, Romney win laughs at dinner
+10.  10 Ann Romney corrects Whoopi
 
-Updated: 10/20/2012 7:02 AM ET
+Updated: 10/20/2012 1:17 PM ET
 
 1.  1 Clinton trashes whiners
 2.  2 Soledad O'Brien: Obama 'up 15' in Virginia
-3.  3 GOP's problems exposed in Senate
-4.  4 GOP seizes Obama 'optimal' moment
+3.  3 GOP seizes Obama 'optimal' moment
+4.  4 GOP's problems exposed in Senate
 5.  5 GOP groups spill secrets
 6.  6 Mitchell: Men at MSNBC make more money
-7.  7 Obama's daughters' school evacuated
+7.  7 O'Donnell taunts Tagg Romney
 8.  8 Obama diagnoses GOP nominee with 'Romnesia' (Updated)
-9.  9 Beckel: 'Over' for Obama if poll is true
-10.  10 O'Donnell taunts Tagg Romney
+9.  9 Obama's daughters' school evacuated
+10.  10 Beckel: 'Over' for Obama if poll is true
 
-Updated: 10/20/2012 7:02 AM ET
+Updated: 10/20/2012 1:17 PM ET
 
 1.  1 Clinton trashes whiners
 2.  2 CPD: Crowley shouldn't reinterpret questions
@@ -162,72 +162,74 @@ Updated: 10/20/2012 7:02 AM ET
 6.  6 VP debate transcript
 7.  7 6 takeaways from the debate
 8.  8 Soledad O'Brien: Obama 'up 15' in Virginia
-9.  9 GOP's problems exposed in Senate
-10.  10 GOP seizes Obama 'optimal' moment
+9.  9 GOP seizes Obama 'optimal' moment
+10.  10 GOP's problems exposed in Senate
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/20/2012 7:02 AM ET
+Updated: 10/20/2012 1:17 PM ET
 
-1.  1 Romney: Obama camp going small
-2.  2 Leadership elections spark Pelosi speculation
+1.  1 Maher scolds GOP on voter ID laws
+2.  2 Voters know more about the world than you think
+3.  3 Romney keeps distance from Scott in Fla.
+4.  4 Conservative pro-Israel groups' relevance at risk in 2012
 
-Updated: 10/20/2012 7:02 AM ET
+Updated: 10/20/2012 1:17 PM ET
 
-1.  1 Romney: Obama camp going small
-2.  2 Leadership elections spark Pelosi speculation
-3.  3 Obama's 'Romnesia' remedy
-4.  4 Pol who needed abortion rips Walsh
-5.  5 Arson charge after Molotov cocktail
-6.  6 Big donations for Romney super PAC
-7.  7 GOP candidates accused of abusing courts
-8.  8 RNC has $83M in bank
-9.  9 Romnesia's rise from Twitter to Obama
-10.  10 Writer complains about Clinton aides
+1.  1 Maher scolds GOP on voter ID laws
+2.  2 Voters know more about the world than you think
+3.  3 Romney keeps distance from Scott in Fla.
+4.  4 Conservative pro-Israel groups' relevance at risk in 2012
+5.  5 Obama's September haul: $126M
+6.  6 Romney: Obama camp going small
+7.  7 Leadership elections spark Pelosi speculation
+8.  8 Obama's 'Romnesia' remedy
+9.  9 Pol who needed abortion rips Walsh
+10.  10 Arson charge after Molotov cocktail
 
-Updated: 10/20/2012 7:02 AM ET
+Updated: 10/20/2012 1:17 PM ET
 
-1.  1 Romney: Obama camp going small
-2.  2 Leadership elections spark Pelosi speculation
-3.  3 Obama's 'Romnesia' remedy
-4.  4 Pol who needed abortion rips Walsh
-5.  5 Arson charge after Molotov cocktail
-6.  6 Big donations for Romney super PAC
-7.  7 GOP candidates accused of abusing courts
-8.  8 RNC has $83M in bank
-9.  9 Romnesia's rise from Twitter to Obama
-10.  10 Writer complains about Clinton aides
+1.  1 Maher scolds GOP on voter ID laws
+2.  2 Voters know more about the world than you think
+3.  3 Romney keeps distance from Scott in Fla.
+4.  4 Conservative pro-Israel groups' relevance at risk in 2012
+5.  5 Obama's September haul: $126M
+6.  6 Romney: Obama camp going small
+7.  7 Leadership elections spark Pelosi speculation
+8.  8 Obama's 'Romnesia' remedy
+9.  9 Pol who needed abortion rips Walsh
+10.  10 Arson charge after Molotov cocktail
 
-Updated: 10/20/2012 7:02 AM ET
+Updated: 10/20/2012 1:17 PM ET
 
-1.  1 Romney: Obama camp going small
-2.  2 Leadership elections spark Pelosi speculation
-3.  3 Obama's 'Romnesia' remedy
-4.  4 Pol who needed abortion rips Walsh
-5.  5 Arson charge after Molotov cocktail
-6.  6 Big donations for Romney super PAC
-7.  7 GOP candidates accused of abusing courts
-8.  8 RNC has $83M in bank
-9.  9 Romnesia's rise from Twitter to Obama
-10.  10 Writer complains about Clinton aides
+1.  1 Maher scolds GOP on voter ID laws
+2.  2 Voters know more about the world than you think
+3.  3 Romney keeps distance from Scott in Fla.
+4.  4 Conservative pro-Israel groups' relevance at risk in 2012
+5.  5 Obama's September haul: $126M
+6.  6 Romney: Obama camp going small
+7.  7 Leadership elections spark Pelosi speculation
+8.  8 Obama's 'Romnesia' remedy
+9.  9 Pol who needed abortion rips Walsh
+10.  10 Arson charge after Molotov cocktail
 
 Showing Last 7 Days
 
-Updated: 10/20/2012 7:02 AM ET
+Updated: 10/20/2012 1:17 PM ET
 
-1.  1 O'Donnell taunts Tagg Romney
-2.  2 GOP groups spill secrets
-3.  3 GOP's problems exposed in Senate
-4.  4 6 takeaways from the debate
-5.  5 Fight night on Long Island
-6.  6 5 unmet Obama promises
-7.  7 5 things to watch at the debate
-8.  8 Crowley: 'I'm not a fly on the wall'
-9.  9 Obama's slippery foreign oil promise
-10.  10 Rand Paul goes national
+1.  1 Obama: Mitt has 'Romnesia'
+2.  2 O'Donnell taunts Tagg Romney
+3.  3 GOP groups spill secrets
+4.  4 GOP's problems exposed in Senate
+5.  5 6 takeaways from the debate
+6.  6 Fight night on Long Island
+7.  7 5 unmet Obama promises
+8.  8 5 things to watch at the debate
+9.  9 Crowley: 'I'm not a fly on the wall'
+10.  10 Obama's slippery foreign oil promise
 
 News
 
