@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 1 hour ago
+9 minutes ago
 
-@BleacherReport: Virginia Tech’s Michael Cole intercepted Clemson QB Tajh Boyd while sitting down http://t.co/0OLhcLkx
+@BleacherReport: LSU WR Kadron Boone makes a sick TD grab in super slow motion. GIF: http://t.co/6f5Ohdpq
 
 Newsletters
 
