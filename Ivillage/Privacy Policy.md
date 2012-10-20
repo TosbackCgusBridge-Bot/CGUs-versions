@@ -325,6 +325,7 @@ Search iVillage.com Search
     *   Decorate
         *   *   Halloween
     *   Clean &. Organize
+        *   *   The Smart Home
     *   Garden
     *   Family Finance
     *   Green
@@ -509,11 +510,11 @@ See All Newsletters  
   
   
 
+*   Parenting Halloween Halloween Costume Themes for the Whole Family
+*   Entertainment iVillage Celebrity Blog Jewel on Redefining Her Marriage After Her Son
+*   Health Slideshow 15 Most Dangerous Machines at the Gym
 *   Entertainment iVote Celebrities, Newsmakers &. Real Women Reveal "Why I Vote"
-*   Entertainment Celeb News Ask iVillage Guest Editor Alicia Keys a Question!
-*   Parenting Halloween Get Them Now! Costumes For Tweens and Teens
 *   Beauty DIY Beautify DIY Beautify: Get Noticed with Bright Lips and Cheeks
-*   Health Breast Cancer Awareness A Survivor Helms the Avon Walk for Breast Cancer
 
 *   Join iVillage
 *   Message Boards
