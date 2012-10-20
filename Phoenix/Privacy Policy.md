@@ -78,7 +78,7 @@ http://www.phoenix.edu
 
 Privacy Policy University of Phoenix PRIVACY POLICY – SUMMARY
 
-**Updated:** August 15, 2012
+**Updated:** October 18, 2012
 
 Summarized below are key elements of our Privacy Policy. To read our full Privacy Policy ("Policy") click here.  
 
@@ -162,7 +162,7 @@ Phoenix, AZ 85040 USA
 
 Apollo Group- University of Phoenix PRIVACY POLICY – FULL VERSION
 
-**Updated:** August 15, 2012  
+**Updated:** October 18, 2012  
 
 **Scope**
 
@@ -195,7 +195,7 @@ Apollo may amend or otherwise modify this Privacy Policy at any time, so please 
 
 As used in this Privacy Policy, the following terms have the following meanings:
 
-"Business Associates" means third party service providers which Apollo Group, Inc. or the  University may contract with to provide services on our behalf including those related to the Sites or for transactions occurring on the Sites including, but not limited to, Social Networking, hosting, web analytics, Online Behavioral Advertising, lead generation, academic, business, career, or financial services.
+"Business Associates" means third party service providers which Apollo Group, Inc. or the  University may contract with to provide services on our behalf including but not limited to, Social Networking, hosting, web analytics, Online Behavioral Advertising, lead generation, academic, business, career, or financial services.
 
 "Educational Partners" means a.) Apollo Group, Inc., University of Phoenix, and their subsidiaries and affiliates including educational companies or institutions that Apollo Group, Inc. or its subsidiaries may be providing educational or other related services to under contract and b.) third party companies who may participate in Apollo Group, Inc. or University of Phoenix career initiatives (e.g. potential employers).  
 
