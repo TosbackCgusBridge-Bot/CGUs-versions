@@ -142,7 +142,7 @@ LinksList Documentid: 29778429
 *   Corrections
 
   
-Current DateTime: 01:05:10 20 Oct 2012  
+Current DateTime: 01:00:13 20 Oct 2012  
 LinksList Documentid: 29778428
 
 *   MARKETS
@@ -156,7 +156,7 @@ LinksList Documentid: 29778428
 *   Funds
 
   
-Current DateTime: 01:05:10 20 Oct 2012  
+Current DateTime: 01:00:13 20 Oct 2012  
 LinksList Documentid: 29779196
 
 *   EARNINGS
@@ -166,7 +166,7 @@ LinksList Documentid: 29779196
 *   Ideas
 
   
-Current DateTime: 01:05:10 20 Oct 2012  
+Current DateTime: 01:00:13 20 Oct 2012  
 LinksList Documentid: 29779197
 
 *   INVESTING
@@ -179,7 +179,7 @@ LinksList Documentid: 29779197
 *   Earnings Screener
 
   
-Current DateTime: 01:05:10 20 Oct 2012  
+Current DateTime: 01:00:13 20 Oct 2012  
 LinksList Documentid: 29779200
 
 *   VIDEO
@@ -205,7 +205,7 @@ LinksList Documentid: 29779199
 *   Channel Finder
 
   
-Current DateTime: 01:05:10 20 Oct 2012  
+Current DateTime: 01:00:14 20 Oct 2012  
 LinksList Documentid: 29779198
 
 *   MORE
