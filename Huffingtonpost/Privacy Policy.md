@@ -24,9 +24,9 @@ October 20, 2012 Edition: **U.S.**
     
     *   Crazy Polls Show Close Race, Continuing Obama Edge In Battlegrounds 25k
     *   Obama Hits 'Romnesia' 45k
-    *   Prominent Democratic Strategists Relieved At Survey On Obama Economic Message 12k
     *   Battleground State Newspaper Dumps Obama For Romney 10k
     *   Soup Kitchen In Paul Ryan Flap Facing Donor Backlash 11k
+    *   Obama, Romney Trade Zingers At Al Smith Dinner 8k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 20, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   'James Bond' Debt Collector Allegedly Murders One-Time Maxim Model 318
-    *   Abercrombie &. Fitch's Corporate Jet Takes Cultish To a Whole New Level 390
+    *   'James Bond' Debt Collector Allegedly Murders One-Time Maxim Model 324
+    *   Abercrombie &. Fitch's Corporate Jet Takes Cultish To a Whole New Level 392
     *   White McDonald's Customer Alleges Racism After She's Denied Biscuits 1k
-    *   The Most Dangerous City In America Is... 218
-    *   Dow Has Worst Day In Months 534
+    *   The Most Dangerous City In America Is... 220
+    *   Dow Has Worst Day In Months 536
     
     Go to Business **More in Business**
     
@@ -68,8 +68,8 @@ October 20, 2012 Edition: **U.S.**
     *   Clint Eastwood's Daughter Says She's Not Voting For Romney 2k
     *   19 Biggest Movie Plot Holes 262
     *   Sheen, Harrelson Set To Star In 9/11 'Truther' Film 2k
-    *   WATCH: Willow Smith Covers Adele's 'Skyfall' 226
-    *   Dr. Ruth Demands That Helen Hunt Start Using Contraceptives 63
+    *   WATCH: Willow Smith Covers Adele's 'Skyfall' 227
+    *   Dr. Ruth Demands That Helen Hunt Start Using Contraceptives 64
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 20, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   This Doesn't Bode Well... 560
+    *   This Doesn't Bode Well... 580
     *   Google Designs From The '90s Unearthed: Potential Designs Include 'Kermit The Frog'-Type Suggestion
-    *   WATCH: Tech Execs Come Out Strong For Obama 153
+    *   WATCH: Tech Execs Come Out Strong For Obama 155
     *   Facebook Is 'Going Purple'... And So Can You 76
-    *   Google Still Searching for Answers To Its 'Mobile Problem' 112
+    *   Judge Forces Apple To Apologize To Samsung 545
     
     Go to Tech **More in Tech**
     
@@ -111,8 +111,8 @@ October 20, 2012 Edition: **U.S.**
     *   WATCH: Obama Takes A Jab At Chris Matthews 3k
     *   Fox News Chief Signs Big New Contract 1k
     *   WATCH: Whoopi Goldberg's Uncomfortable Question To Ann Romney 21k
-    *   PHOTO: New Yorker Cover Hits Romney 624
-    *   WATCH: Tom Hanks Drops F-Bomb 205
+    *   PHOTO: New Yorker Cover Hits Romney 657
+    *   WATCH: Tom Hanks Drops F-Bomb 206
     
     Go to Media **More in Media**
     
@@ -132,8 +132,8 @@ October 20, 2012 Edition: **U.S.**
     *   Austria Probes Gruesome Nazi Abuse 2k
     *   CIA Found Militant Links Just 1 Day After Libya Attack 8k
     *   Huge Explosion Rocks Beirut 1k
-    *   Report: GOP Document Dump Exposes Libyans Working With U.S. 4k
-    *   Top Lebanese Security Official Reportedly Killed In Blast 276
+    *   Top Lebanese Security Official Reportedly Killed In Blast 277
+    *   Stray Cat Discovers Secret 2,000-Year-Old Tomb 228
     
     Go to World **More in World**
     
@@ -152,9 +152,9 @@ October 20, 2012 Edition: **U.S.**
 *   Healthy Living
     
     *   35 Diet And Nutrition Experts You Should _Already_ Be Following 25
-    *   Jennifer Lost 200 Pounds: 'I Ate Because I Was Bored. I Ate Because I Was Lonely. I Ate Because I Could’ 24
+    *   Jennifer Lost 200 Pounds: 'I Ate Because I Was Bored. I Ate Because I Was Lonely. I Ate Because I Could’ 26
     *   Happy Reads: 10 Books That Make Us Smile 14
-    *   Banana Boat Recalls Sunscreen After 5 People Catch On Fire 168
+    *   Banana Boat Recalls Sunscreen After 5 People Catch On Fire 170
     *   The Baker, The Free Food Fiend, The Food Bully: Which Workplace Diet Saboteur Is Your Biggest Weakness? 31
     
     Go to Healthy Living **More in Healthy Living**
@@ -174,7 +174,7 @@ October 20, 2012 Edition: **U.S.**
     
     *   PHOTOS: See Who Turned Out For Bergdorf's 111th Birthday Party
     *   WATCH: Ed Burns Reveals How He Landed Christy Turlington 14
-    *   Michelle Obama Has A Surprise Answer For The Eternal 'Boxers Or Briefs?' Question 474
+    *   Michelle Obama Has A Surprise Answer For The Eternal 'Boxers Or Briefs?' Question 489
     *   PHOTOS: Kim Kardashian Channels... Gumby? 37
     *   PHOTOS: See How Kanye Upgraded Kim's Closet
     
@@ -194,10 +194,10 @@ October 20, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   PHOTOS: The Funniest Haunted House Reactions 207
+    *   PHOTOS: The Funniest Haunted House Reactions 217
     *   WATCH: Jon Mocks Obama's Debate Performance To His Face 4k
-    *   WATCH: Romney's Horrifying Google History LEAKED 238
-    *   WATCH: An Unexpected, Disgusting Guest 102
+    *   WATCH: Romney's Horrifying Google History LEAKED 242
+    *   WATCH: An Unexpected, Disgusting Guest 108
     *   WATCH: Kitten vs. Doberman... In Bed 65
     
     Go to Comedy **More in Comedy**
