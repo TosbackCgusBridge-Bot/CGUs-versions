@@ -73,11 +73,11 @@ What's Hot
 
 Fall TV Popularity Contest
 
+This Weekend's Football
+
+_Private Practice_ Ending
+
 _Once_ Burning Questions
-
-_Vampire Diaries_ Scoop
-
-_Scandal_ Postmortem
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -139,8 +139,8 @@ more popular movies Top Videos
 
 1.  The Vampire Diaries
 2.  Arrow
-3.  Dexter
-4.  Supernatural
+3.  Supernatural
+4.  Dexter
 5.  Hart of Dixie
 
 more top videos
