@@ -134,25 +134,30 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $12.50 for $25 worth of Shooting (50 Sporting Clays) $12.50 Value: Discount: You Save: $25 50% $12.5
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $0 Value: Discount: You Save: $0 100% $0
 
-Friday: Five things to do
+Saturday: CVS, Walgreens Deals CVS
+
+*   Bumble Bee Chunk White Albacore, 5oz - $1.00
+*   DenTek Floss Picks, 150ct - $2.99
+*   VO5 Shampoo or Conditioner, 15oz - $0.75
+*   more...
 
 1.  Parts Project Coordinator
     
     Central Power Systems &. Services, Inc.
     
-2.  SALES
+2.  OPERATING MANAGER
     
-3.  PROGRAM DIRECTOR
+3.  SEASONAL DRIVERS
     
-4.  CAMPAIGN JOBS
+    Kelly Services
+    
+4.  SALES
+    
+5.  CAMPAIGN JOBS
     
     Grassroots Campaigns, Inc.
-    
-5.  SENIOR PIPE DESIGNER
-    
-    THOMAS RUSSELL CO.
     
 6.  Apartment Maintenance Helper
     
@@ -162,16 +167,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Romney's case to women fails to convince
-*   Pendergast photos offer proof of a KC legend
-*   Terminal A is the likely destination of the new KCI
-*   Dust storm shuts down Interstate 35 near Kansas-Oklahoma state line
-*   Kansas girl files lawsuit to force CO2 restrictions
-*   Lawsuit: Employee rift led to KC store selling laxative-tainted Coke
-*   MU learns 2013 football schedule, extends Braggin Rights hoops series
-*   Memphis power forward picks Mizzou
-*   Shawnee Mission West graduate was among the victims in Denver bar killings
-*   Klein-Smith is terrific subplot to Kansas State-West Virginia
+*   Bill Snyder saved a town and a football team  twice
+*   Semi crash into restaurant kills one in Nevada, Mo.
+*   KC mayor’s brother sentenced to 7 years
+*   Kansas City police officer suspended, accused of insurance fraud
+*   Billy Grahams website scrubs Mormon cult reference
+*   Former KU coach Mark Mangino could seek return to football
+*   Latest O.J. furor: He is reportedly selling the knife
+*   TV review | How Tippi Hedren ran afoul of Alfred Hitchcocks blond fixation and paid the price
+*   Kansas Senate's Democratic leader gets GOP backing
+*   Missing Ore. woman's body found, man arrested
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
