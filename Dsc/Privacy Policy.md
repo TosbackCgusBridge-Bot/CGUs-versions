@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Gold RushRevelations 8:00PM Gold Rush (Season 3 Specials)The Long Road 9:00PM Yukon Men: Last Chance (S1 Finale)  TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Alaska: The Last Frontier (Season 2)Dead of Winter 8:00PM Alaska: The Last Frontier (Season 2)Spring Has Sprung 9:00PM Alaska: The Last Frontier (Season 2)Cattle Drive TV SHOWS
 
 American Chopper
 
@@ -34,6 +34,8 @@ How Booze Built America
 
 Human Planet
 
+Jungle Gold
+
 Life
 
 Man vs. Wild
@@ -66,10 +68,6 @@ Yukon Men
 
 VIDEO FULL EPISODES play
 
-Jungle Gold
-
-Sneak Peek
-
 Gold Rush
 
 The Long Road
@@ -81,6 +79,10 @@ Wheel of Misfortune
 American Chopper
 
 Junior's Surprise
+
+Jungle Gold
+
+Extended Sneak Peek
 
 MORE VIDEO
 
@@ -112,6 +114,8 @@ Gold Rush
 
 How Booze Built America
 
+Jungle Gold
+
 Man vs. Wild
 
 MythBusters
@@ -129,8 +133,6 @@ Texas Car Wars
 The Devils Ride
 
 Winged Planet
-
-Yukon Men
 
 GAMES SHOW GAMES
 
@@ -328,21 +330,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-What Makes Earth So Perfect for Life?
+Strips Heal the Roof of Your Burned Mouth
 
-Yum! Curiosity Eats Mars Dirt
+Excellent Idea of the Day: Strips to Heal Pizza Burn
 
-Shot Pakistani Girl Stands: DNews Nugget
+First Human Ancestor Looked Like a Squirrel
 
-Old Dams Hold a Toxic Legacy
+The Psychology of Love Can Kill: Gotta-See Video
 
-Redefining Misogyny: DNews Nugget
+No life found in Antarctica's buried Lake Vostok
 
-Digging into a Weird Stellar Spiral
+Air Canada Flight Finds Lost Boat: DNews Nugget
 
-Satellite Photos Reveal Heavy Guns In Syria
+The Shuttle's Last Mission: LA: Gotta-See video
 
-The Virgin Mary At A Car Wash: DNews Nuggets
+Man Fails to Break Ice. Ouch.: Gotta-See Video
 
   facebook share0 Tweet Privacy Policy  
 
@@ -548,36 +550,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 19,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 20,  
+7:00 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 20,  
+7:30 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 20,  
+8:00 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 20,  
+8:30 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 20,  
 9:00 am  
 60 min(s)  
-**The FBI Files**  
-_Killer Instinct_  
- After a series of violent carjackings in 1992 in the Washington,  
-Oct 19,  
-10:00 am  
-60 min(s)  
-**The FBI Files**  
-_Brotherhood of Hate_  
- In 1984, a state trooper pulled a van over and was shot dead by t  
-Oct 19,  
-11:00 am  
-60 min(s)  
-**The New Detectives**  
-_Crimes of Passion_  
- Some murderers kill for money. others simply to dominate. But wh  
-Oct 19,  
-12:00 pm  
-60 min(s)  
-**The New Detectives**  
-_Lethal Encounter_  
- In most cases, the killer and victim share a personal history. B  
-Oct 19,  
-1:00 pm  
-60 min(s)  
-**Yukon Men**  
-_Going for Broke_  
- It's the end of trapping season and the final push is on. Charlie  
+**Alaska: The Last Frontier**  
+_Fueling the Fire_  
+ The first storm of the winter is fast approaching so the entire K  
 **More Listings »**   Shop Discovery Store      
 
 our sites
