@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Ad watch: Mitt Romney touts bipartisanship**  
-        Election 2012 | Rachel Weiner
+    *   **In Boca Raton, Paul Ryan raises...**  
+        Election 2012 | Felicia Sonmez
     
     *   **Obamaâs claim that Romney wants...**  
         The Fact Checker | Glenn Kessler
     
-    *   **Rick Santorum, with âtingles down...**  
-        She The People | Mary C. Curtis
+    *   **McCaskill, Akin duel over guns...**  
+        She The People | Diana Reese
     
-    *   **Why you should pay attention to...**  
-        The Fix | Chris Cillizza and Aaron Blake
+    *   **Senate Democratsâ campaign arm...**  
+        The Fix | Sean Sullivan
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **Against the undecided voter**  
+    *   **How to dump a candidate**  
         ComPost | Alexandra Petri
     
-    *   **The Morning Plum**  
+    *   **Happy Hour Roundup**  
         The Plum Line | Greg Sargent
     
-    *   **DOMA is doomed**  
-        PostPartisan | Jonathan Capehart
+    *   **A split or a tie in the election?**  
+        PostPartisan | Jonathan Bernstein
     
-    *   **Exclusive Interview: Beth Myers**  
+    *   **Friday question**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **Bits of Comet Halley: This yearâs...**  
-        Capital Weather Gang | Blaine Friedlander
+    *   **D.C. area forecast: Slight weekend...**  
+        Capital Weather Gang | Ian Livingston
     
-    *   **Inside Toki Underground with chef...**  
-        Going Out Gurus | Justin Rude
+    *   **Curry Mantra expands from Fairfax...**  
+        Going Out Gurus | Tom Sietsema
     
-    *   **Minor injuries for 10 after morning...**  
-        Crime Scene | Justin Jouvenal
+    *   **Police chase car from Md. into...**  
+        Crime Scene | Peter Hermann
     
-    *   **Allen, Kaine face off in last debate**  
-        Virginia Politics | Washington Post Staff
+    *   **Wells hints he might back Cooper**  
+        D.C. Wire | Tim Craig
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -97,17 +97,17 @@
     
     Blogs &. Columns
     
-    *   **Gary Bettman: NHL labor negotiations...**  
+    *   **NHL cancels games through November...**  
         Capitals Insider | Katie Carrera
     
-    *   **Adam Carriker dresses like Goldberg...**  
+    *   **Giants rookie compares himself...**  
         DC Sports Bog | Sarah Kogod
     
-    *   **Redskins fans, do you fear the...**  
-        The Insider | Keith McMillan
+    *   **Redskins fined $20,000 for Robert...**  
+        The Insider | Mark Maske
     
-    *   **Nationals bench coach Randy Knorr...**  
-        Nationals Journal | Adam Kilgore
+    *   **How teams with the best record...**  
+        Nationals Journal | James Wagner
 *   National In National
     
     *   Energy &. Environment
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **Who Smokes Most: A surprising map...**  
+    *   **A charming video captures moments...**  
         WorldViews | Max Fisher
     
-    *   **How âGangnam Styleâ exploited K-popâs...**  
+    *   **Why Wissam al-Hassan matters for...**  
         WorldViews | Max Fisher
     
-    *   **A Syrian air force pilot explains...**  
-        WorldViews | Max Fisher
+    *   **Kim Jong Ilâs grandson calls his...**  
+        WorldViews | Olga Khazan
     
-    *   **Benghaziâs overlooked lesson: The...**  
+    *   **Of course this Congolese rebel...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -173,14 +173,14 @@
     *   **Color of Money**  
         The Color of Money | Michelle Singletary
     
-    *   **Apple, Samsung continue worldwide...**  
+    *   **Google, Microsoft earnings illustrate...**  
         Post Tech | Hayley Tsukayama
     
     *   **The judicial jihad against the...**  
         Steven Pearlstein
     
-    *   **What the election means for health...**  
-        Wonkblog | Sarah Kliff
+    *   **The 2012 Election by the Numbers...**  
+        Wonkblog | Dylan Matthews
 *   Tech In Technology
     
     *   Policy
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Apple âiPad miniâ: Place your bets...**  
+    *   **Google, Samsung offer new Chromebooks**  
         Hayley Tsukayama
     
-    *   **Apple, Samsung continue worldwide...**  
+    *   **Google, Microsoft earnings illustrate...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -214,13 +214,13 @@
     *   **Asian eggplant in hand, recipe...**  
         All We Can Eat | Edward Schneider
     
-    *   **âHello Dollyâ casting announced...**  
-        The Style Blog | Peter Marks
+    *   **Halloween costume ideas: Memes**  
+        The Style Blog | Maura Judkis
     
-    *   **Updating IEPs in a new school year**  
-        On Parenting | Mari-Jane Williams
+    *   **Take the kids this weekend: Croydon...**  
+        On Parenting | On Parenting
     
-    *   **Who does David Axelrod look like?**  
+    *   **Chris Cooley puts mansion on market**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,13 +240,13 @@
     *   **Art: Two Lichtenstein retrospectives**  
         Classical Beat | Anne Midgette
     
-    *   **Civil lawsuit against Britney Spearsâs...**  
+    *   **Justin Timberlake and Jessica Biel...**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **Michelle Obama answers âboxers...**  
+    *   **Michael Goldrick new news veep...**  
         The TV Column | Lisa de Moraes
     
-    *   **Obama v. Romney, Round 2**  
+    *   **A Newsweek appreciation**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -266,10 +266,11 @@
 
 In the News
 
-*   Tom Hanks
-*   iPad mini
-*   Tigers in Series
-*   Obama on âDaily Showâ
+*   âRomnesiaâ
+*   Beirut
+*   Big Tex
+*   U-Md. beating case
+*   O.J. Simpson
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -318,82 +319,94 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-The great gaffe
+CIA documents supported Susan Riceâs description of Benghazi attacks
 
-Charles Krauthammer 
-
-Candidates take a break to trade jokes Mitt Romney doesn't have a woman problem â at least not yet About that Gallup poll: Is Romney really up by 7? And will Obama win the election anyway? Obamaâs claim that Romney wants to boost defense spending by $2 trillion
-
-Glenn Kessler 
+David Ignatius 
 
 CIA seeks to expand drone fleet, officials say
 
 Greg Miller 
 
-On âDaily Show with Jon Stewart,â Obama defends Libya response, jokes about Biden
+Joe Biden is just being Joe, and the edginess works for some
 
-David Nakamura 
+Krissah Thompson 
 
-Rick Santorum, with 'tingles down my spine,' can smell a GOP sweep Ann Romney: If Mitt loses, we're done CEOs warn Obama, Congress to avoid âfiscal cliffâ
+Obama fires up crowd in Virginia with âRomnesiaâ speech
 
-Zachary A. Goldfarb 
+Jerry Markon 
 
-Why the chill on climate change?
+Who Smokes Most: A surprising map of smoking rates by country Clinton tells Wisconsin voters that economy is recovering even if âpeople donât feel it yetâ
 
-Eugene Robinson 
+Associated Press 
 
-Truly Good Mothers and a Fifties Dad
+âRomnesiaâ and the weasel factor
 
-Ruth Marcus 
+Greg Sargent 
 
-Mr. Romneyâs defense budget: It doesnât add up
+The tea party is helping Democrats
 
-Editorial Board 
+Dana Milbank 
 
-Shiite protests pose major challenge for Saudi Arabia
+Could these four be comedyâs next big things?
 
-Kevin Sullivan 
+Lavanya Ramanathan 
 
-Why you should pay attention to the Bureau of Labor Statistics today DOMA is doomed
+Five myths about the bin Laden raid
 
-Jonathan Capehart 
+Mark Bowden 
 
-Liberalismâs shrinking agenda
+Mobile trend trips tech titans
 
-Michael Gerson 
+Craig Timberg 
 
-Redskins 1987 replacement star Tony Robinson just happy to be out of jail
+Moderate weight loss alone doesnât lower heart disease risk in diabetics, study shows
 
-Desmond Bieler 
+David Brown 
 
-For Obama and Romney, small New Hampshire could have a big impact
+Facebook privacy targeted by Austrian law student
 
-Dan Balz 
+Craig Timberg 
 
-Officials: Obama ready to veto a bill blocking âfiscal cliffâ without tax hike for rich
+Police: Tour bus crash in NW Arizona leaves driver dead, at least 4 passengers seriously hurt
 
-Lori Montgomery 
+Associated Press 
+
+U.S. steps up support of Turkey amid Syrian conflict
+
+Craig Whitlock 
+
+About that Gallup poll: Is Romney really up by 7? And will Obama win the election anyway? Beirut assassination heightens fears of Syrian violence embroiling Lebanon
+
+Liz Sly 
+
+Why Wissam al-Hassan matters for the Middle East The great gaffe
+
+Charles Krauthammer 
+
+Seeds of our dysfunction
+
+George F. Will 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  The great gaffe
-    2.  Candidates take a break to trade jokes
-    3.  Mitt Romney doesn't have a woman problem â at least not yet
-    4.  About that Gallup poll: Is Romney really up by 7? And will Obama win the election anyway?
-    5.  Obama's claim that Romney wants to boost defense spending by $2 trillion
+    1.  CIA documents supported Susan Rice's description of Benghazi attacks
+    2.  CIA seeks to expand drone fleet, officials say
+    3.  Joe Biden is just being Joe, and the edginess works for some
+    4.  Obama fires up crowd in Virginia with 'Romnesia' speech
+    5.  Who Smokes Most: A surprising map of smoking rates by country
 *   Top Videos
-    1.  Bruce Springsteen endorses Obama with song
-    2.  Bill Clinton: Mitt Romney 'thinks we're dumb'
-    3.  iPad Mini: The Sasquatch of the tech world?
-    4.  Lance Armstrong resigns from Livestrong
-    5.  President Obama: Mitt Romney 'whiffed' on explaining tax plan
+    1.  Obama coins 'Romnesia' at Virginia rally
+    2.  Get to know D.C.'s new comics
+    3.  High school kicker makes 67-Yard field goal in overtime
+    4.  From 2010: Officers strike student after U-Md. basketball game
+    5.  Three signs of movement in a tight presidential race
 *   Top Galleries
-    1.  Newsweek covers through the years
-    2.  Body of late King Norodom Sihanouk returns from China
-    3.  Creative costumes for kids
-    4.  A first look at the Cuban missile crisis
-    5.  Romney campaigns after the second debate
+    1.  Endorsements that Romney, Obama may not want
+    2.  Newsweek covers through the years
+    3.  Taylor Swift through the years
+    4.  Political photo ops through the years
+    5.  Hillary Rodham Clinton: A political life
 
 Today's Paper
 
@@ -403,13 +416,13 @@ Today's Paper
 
 Live Discussions
 
-Gardening Advice from Adrian Higgins
+There are no discussions scheduled today.
 
-Live Q&A, Noon ET
+The latest in TV with Lisa de Moraes
 
-How to start or improve your garden in the fall.
+Live Q&A, 1 p.m. ET
 
-**11:00 AM** **Real Wheels Live** **11:00 AM** **The Fix Live** **12:00 PM** **Carolyn Hax Live: Advice columnist tackles your problems (Friday, October 19)** **1:00 PM** **The Latest in TV with Lisa de Moraes**
+Post TV columnist Lisa de Moraes discusses all the latest in TV news - on and off the screen.
 
 **Weekly schedule, past shows**
 
