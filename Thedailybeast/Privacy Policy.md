@@ -144,38 +144,38 @@ Stories We Like
 
   Most Popular
 
-1.  Ground Game: Advantage Obama?
-2.  Obama’s Sober Night of Comedy
-3.  My Proof of Heaven
-4.  The Great Deformer
-5.  A Turn of the Page for Newsweek
+1.  Why Fox News Chairman Roger Ailes Won't Walk Away From His TV Empire
+2.  My Proof of Heaven
+3.  Ground Game: Advantage Obama?
+4.  Kim Kardashian's Not a Fan of Underwear, Shows Off Crack
+5.  The Week in Viral Videos
 
   Other News Entertainment
 
-*   Stars Wearing Peplum
-*   Fashion Voting: Would You Wear This Trend?
-*   Fashion Face-Off: Kim Kardashian vs. The World
+*   Reveal: Gnarly Celeb Feet
+*   Christina Hendricks Chats Sex Appeal, Waiting to Start a Family, and More!
+*   Lisa and Giggy Strike a Pose &. More Celebs With Their Pets
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   EW’s Morning Bite: And the best sound bite from last night is…
-*   Tom Hanks drops an F-bomb on ‘Good Morning America’
-*   President Obama on ‘Daily Show’ talks debates and Libya, but not ’50 Shades of Grey’ — VIDEO
+*   Willow Smith covers Adele’s ‘Skyfall’ — VIDEO
+*   Happy Spirit Day! Celebs celebrate anti-bullying event by wearing purple
+*   ‘Supernatural’ angel Misha Collins on the Greatest (and oddest) International Scavenger Hunt ever
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Romney's Pro-Palestinian Wing Riles Israel Supporters
-*   There's Less "Dark Social" Than Meets The Eye
-*   Obama Discovers Morning In America
+*   Embattled GOP Consultant Had Close Ties To Romney Campaign
+*   This Couple Has Been Married 26 Times Around The World And They're Not Done Yet
+*   Fantasy Football Dos And Don'ts Week 7
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Latest National Polls
-*   RNC Official Arrested for Trashing Registration Forms
-*   We're Not Where We Want to Be
+*   Latest Swing State Polls
+*   The Onion Endorses John Edwards
+*   Salt Lake Tribune Endorses Obama
 *   **Get More from Political Wire**
 
 The Daily Beast
