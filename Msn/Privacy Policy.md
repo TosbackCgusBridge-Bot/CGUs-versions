@@ -505,17 +505,17 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
+*   QB Nelson getting surprise start for Gophers
 *   Wolves waive shooting guard Taylor
 *   Bulls win in Wolves' first game without Love
-*   Tech attacks Gophers early in 5-3 upset
 
 *   F1: Ferrari Chose Massa For 'Speed And Harmon...
 *   F1: Grand Prix News Briefs (Update 1)
 *   CUP: Biffle Tops Practice Chart Again
 
+*   HALFTIME: Clemson 17 Va. Tech 10
+*   Live: 115th Big Game between Cal and Stanford
 *   GAMEDAY
-*   Game Preview: Alabama at Tennessee
-*   11th Annual Blue/Orange Scrimmage &. BBQ
 
 *   Cooking For The Coaches
 *   Teaser: Fighter Trivia
