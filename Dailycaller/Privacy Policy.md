@@ -1,4 +1,4 @@
-**TRENDING** MITT ROMNEY | RICHARD LUGAR | BARACK OBAMA | BRUCE SPRINGSTEEN | GOOGLE | MSNBC
+**TRENDING** MITT ROMNEY | PRESIDENTIAL DEBATES | GOOGLE | BARACK OBAMA | LANCE ARMSTRONG | BILL CLINTON
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  MEAL DEAL Nate Silver vs. the world Krauthammer: White House 'lied' on Libya because they had 'the media in their pocket' \[VIDEO\]    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  MEAL DEAL **BLIND TRUST** Ohio doctor running newspaper ads criticizing Obamacare ahead of election    
 
 *   Social: Active  
     *   Active
