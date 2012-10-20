@@ -1,60 +1,3 @@
-*   HOME  
-*   ACTION
-    *   Battlestar Galactica Online
-    *   DarkOrbit
-    *   Seafight
-    *   All Action Games 
-*   CASUAL
-    *   Skyrama
-    *   FantasyRama
-    *   FARMERAMA
-    *   All Casual Games 
-*   MMORPG
-    *   Drakensang Online
-    *   Pirate Storm: Death or Glory
-    *   War of Titans
-    *   All MMORPGs 
-*   STRATEGY
-    *   Rising Cities
-    *   All Strategy Games 
-*   COMING SOON
-    *   Gameglobe
-    *   Universal Monsters Online
-    *   All Coming Soon Games 
-*   GAME FINDER
-
-    REGISTER  
-FOR FREE LOGIN Find your game English
-
-*   Deutsch
-*   FranÃ§ais
-*   EspaÃ±ol
-*   Italiano
-*   Svenska
-*   Ð ÑÑÑÐºÐ¸Ð¹
-*   Äesky
-*   TÃ¼rkÃ§e
-*   Polski
-*   Dansk
-*   Suomi
-*   PortuguÃªs
-*   PortuguÃªs BR
-*   Norsk
-*   Nederlands
-*   Slovensky
-*   ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
-*   ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
-*   RomÃ¢nÄ
-*   Magyar
-*   Espanol MX
-
-LOGIN Connect Username Password Forgot your password?
-
-*   Bigpoint
-*   Legal information
-
-Registered: 294,804,312 LEGAL
-
 *   Legal information
 *   Data privacy
 *   Terms &. Conditions
@@ -461,15 +404,3 @@ www.bigpoint.com
 This policy can be viewed on the Bigpoint Inc. web page.  
   
 EFFECTIVE DATE: June 16, 2008
-
-  
-  
-
-*   Legal information
-*   Data privacy
-*   Terms &. Conditions
-*   Developer
-*   Company homepage
-*   Support
-
-© 2012 BIGPOINT
