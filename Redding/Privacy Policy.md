@@ -268,7 +268,7 @@ Most Popular
 *   Emailed
 
 *   Duenas back in court in connection with his wife's death Updated 10/19/2012 at 11:58 a.m. 22 comments
-*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 89 comments
+*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 96 comments
 *   Two arrested in early morning knife slashing in Anderson, police say Published 10/19/2012 at 8:33 a.m. 35 comments
 *   Gun industry thrives during Obama's term in office Published 10/19/2012 at 4:00 a.m. 137 comments
 *   Charles Krauthammer: Obama's great gaffe Published 10/19/2012 at 12:00 a.m. 107 comments
@@ -278,7 +278,7 @@ Photo Galleries Think Pink Foothill vs. Chico Red Bluff men get marijuana back
 *   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 374 comments
 *   Gun industry thrives during Obama's term in office Published 10/19/2012 at 4:00 a.m. 137 comments
 *   Charles Krauthammer: Obama's great gaffe Published 10/19/2012 at 12:00 a.m. 107 comments
-*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 89 comments
+*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 96 comments
 *   Federal appeals court in New York nixes Defense of Marriage Act Published 10/18/2012 at 9:08 a.m. 76 comments
 
 *   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
@@ -293,7 +293,7 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 65° Fair Wind: Calm Today 76° 46° Sat 11:00 PM Partly Cloudy Temp: 55° Sun 11:00 AM Partly Sunny Temp: 60° Sun 11:00 PM Mostly Cloudy Showers Temp: 56°
+Currently 71° Fair Wind: Variable 4mph Today 76° 46° Sat 11:00 PM Partly Cloudy Temp: 55° Sun 11:00 AM Partly Sunny Temp: 60° Sun 11:00 PM Mostly Cloudy Showers Temp: 56°
 
 Feels Like: 55°
 
