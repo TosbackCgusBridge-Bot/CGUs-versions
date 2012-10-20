@@ -11,7 +11,7 @@ Privacy Policy | Adweek Advertisement
 
 *   in Follow
 
-Putting Meow in the Mix Iams turns to its end users for feedback on taste of cat food The Mobile Election What can your smartphone say about how you'll vote? Calling Media All-Stars! Submissions now being accepted for 2012 work
+Putting Meow in the Mix Iams turns to its end users for feedback on taste of cat food The Mobile Election What can your smartphone say about how you'll vote? Subscribe to Adweek The voice of media, advertising and technology
 
 *   The Press
 *   Television
@@ -85,7 +85,7 @@ terms@prometheusgm.com
 6\. Changes To The Privacy Policy  
 This Privacy Policy is effective as of June 2012. We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.
 
-Advertisement The Talent Gallery Animated Stills / Cinemagraphs AnamedCorp | Brand Identity Dilmunia strategic rebrand QUIKSIILVER WATERMAN COLLECTION 2012 CAMPAIGN  
+Advertisement The Talent Gallery Fireworks Advertising (U) Website re-design Is Your Small Business in Need of Reinvention? Animated Stills / Cinemagraphs AnamedCorp | Brand Identity  
 Advertisement Adweek.com
 
 *   About Us
