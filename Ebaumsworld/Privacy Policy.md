@@ -1,27 +1,27 @@
-*   STAR WEIRDS BLOG 5...
-*   VIDEO Travis Snider Makes Amazing Catch
-*   VIDEO Zombie Snails
-*   VIDEO Ravens Fans Vulgar Chant
-*   VIDEO Painful Stone Parkour Fail
-*   VIDEO Blue Laser Cigarette Lighter
-*   VIDEO Dog Wants This Root
+*   VIDEO Spanish News Channel Fail
 *   VIDEO Shotgun Hits Face
-*   VIDEO Superstar In The Making
+*   VIDEO Alberta Cop Kicks Man In Face
+*   VIDEO Commentators Mock Injured Rallycross Driver
+*   VIDEO Dead Deer Found Inside Restaurant Kitchen
+*   STAR WEIRDS BLOG 5...
+*   VIDEO Guy Dunks Head In Piss Bucket
+*   VIDEO Dance Recitle Distraction
+*   VIDEO Pocket Like It's Hot
 *   WAYS TO SAVE BLOG 5 Ways to Save a Buttload of Money!
-*   VIDEO I'm A Prefect!
-*   VIDEO Awesome Karaoke Phillipino Kid
-*   VIDEO Karate Kid Fail
-*   CELEBRIDEAD GALLERY Celebrity Life Update
-*   VIDEO Deer VS Skater
-*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
-*   VIDEO Guy Eats Spider
-*   VIDEO Eye Of The Pig Caller
-*   VIDEO 'QUIK'
-*   SAM JACKSON PARTNER Sam Jackson Quotes
-*   BEST OF HAZING BLOG Fraternity Hazing is Retarded.
-*   VIDEO The Anger Room
-*   CUBE MAPPING PARTNER 3D Cube Mapping Demo
+*   VIDEO Baby Stops Crying When 2 Chainz Comes On
 *   VIDEO Tilt-Shift San Francisco
+*   VIDEO Cone Crust Pizza
+*   VIDEO Kid Licks Subway Railing For 1 Dollar
+*   VIDEO Karate Kid Fail
+*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
+*   VIDEO Eye Of The Pig Caller
+*   CELEBRIDEAD GALLERY Celebrity Life Update
+*   VIDEO Kid Narrowly Avoids Death By Motorcycle
+*   SAM JACKSON PARTNER Sam Jackson Quotes
+*   VIDEO Obama Is A Communist - Remix
+*   CUBE MAPPING PARTNER 3D Cube Mapping Demo
+*   BEST OF HAZING BLOG Fraternity Hazing is Retarded.
+*   VIDEO Log Crossing Epic Fail
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
@@ -111,15 +111,15 @@ Last updated: March 31, 2011.
 
 EBAUM'S PICKS Cool Wolf Costume Car Flipped on Highway Bottles Beware! Spiders In A Box Projected Onto Windows Top 5
 
-*   *   118,291
+*   *   119,332
     *   How To Kill a Starfish
-*   *   110,289
+*   *   111,501
     *   Facebook Wins and Fails
-*   *   92,924
+*   *   93,489
     *   Monday Morning Randomness
-*   *   89,791
+*   *   90,829
     *   Coach Knocks Out Student
-*   *   87,424
+*   *   87,848
     *   Best Viral Pics of The Week Compilation
 
 POPULAR GALLERIES Facebook Wins and Fails A Cultural Collection POPULAR GAMES Cloud Wars Into Space 2 Slender - Bones of Children Infectionator 2
