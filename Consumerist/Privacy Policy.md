@@ -125,10 +125,10 @@ Tell a friend:
 **Want Consumerist in your inbox?** Popular Posts
 
 *   T.G.I. Friday's Customer Attempts To Pick Up Waiter With Quite A Subtle, Classy Line
-*   Only Bad Things Can Happen When You Abandon Thousands Of Bottles Of Counterfeit Ketchup In A Warehouse
-*   Pranking Coworker With Laxative-Laced Soda Not So Hilarious When Customer Buys The Drink
+*   Is Microsoft About To Unleash A Kraken Of Suck On Consumers?
 *   Raiders Of The Lost Walmart Can Get You VHS Tapes And The Greatest Hits Of 2007
-*   Yelp Conducts Sting To Catch Businesses Who Buy Reviews
+*   Only Bad Things Can Happen When You Abandon Thousands Of Bottles Of Counterfeit Ketchup In A Warehouse
+*   Complaint About Disappointing Noodle Bowl Results In Bounty Of Noodles For Customer
 
 About Consumerist
 
