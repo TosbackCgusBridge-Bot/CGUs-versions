@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Jimmy Graham downgraded to out in Week 7
 *   Dwyer to lead committee attack at Cincinnati
 *   Ravens activate Suggs (Achilles) off PUP list
-*   Report: Jimmy Graham not traveling to Tampa
 *   Cowboys WR Bryant expected to play Sunday
 *   Alex Smith's struggles due to injured finger?
-*   Jimmy Graham questionable, game-day decision
 *   Mendenhall, Redman out for Week 7 at Cincy
 *   Bradshaw sits out, questionable for Sunday
 *   V-Jax leaves practice, still expected to play
 *   Gore is fine after X-rays reveal bruised ribs
 *   Lynch runs for 103 yards in Week 7 loss at SF
 *   Gore shreds Seahawks for 182 yards in TNF win
+*   Report: Vick, Mornhinweg will remain in place
 
 NBA PAGES
 
@@ -487,9 +487,10 @@ Stamford, CT 06901
   
 Top Headlines
 
+*   NFL:Dwyer to lead committee attack at Cincinnati
+*   NFL:Jimmy Graham downgraded to out in Week 7
 *   NFL:Ravens activate Suggs (Achilles) off PUP list
 *   MLB:Jeter undergoes ankle surgery, out 4-5 months
-*   NFL:Graham (ankle) will not make trip to Tampa
 *   NAS:Logano sets Nationwide pole record in Kansas
 *   CFB:Jarvis Jones will not play Saturday vs UK
 *   NFL:Cowboys WR Bryant expected to play Sunday
@@ -498,22 +499,21 @@ Top Headlines
 *   NAS:Kahne sets record pole for Kansas Cup race
 *   MLB:Yanks intend to pick up option on Granderson
 *   NHL:NHL slashes all games through November 1
-*   CFB:Spurrier: Hope Lattimore plays in late 1st Q
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. MurrayNFL (9002)
-*   2T. RichardsonNFL (8966)
-*   3R. MendenhallNFL (7628)
-*   4J. GordonNFL (7310)
-*   5J. GrahamNFL (7244)
+*   1D. MurrayNFL (9005)
+*   2T. RichardsonNFL (8973)
+*   3R. MendenhallNFL (7635)
+*   4J. GordonNFL (7315)
+*   5J. GrahamNFL (7271)
 
-*   6H. NicksNFL (6905)
-*   7A. BradshawNFL (6878)
-*   8F. JonesNFL (6731)
-*   9P. GarconNFL (6636)
-*   10G. JenningsNFL (6612)
+*   6H. NicksNFL (6913)
+*   7A. BradshawNFL (6886)
+*   8F. JonesNFL (6737)
+*   9P. GarconNFL (6643)
+*   10G. JenningsNFL (6620)
 
   
 Video Center
@@ -560,11 +560,11 @@ More NFL Columns
 
 NFL Headlines
 
+*   »Jimmy Graham downgraded to out in Week 7
+*   »Dwyer to lead committee attack at Cincinnati
 *   »Ravens activate Suggs (Achilles) off PUP list
-*   »Graham (ankle) will not make trip to Tampa
 *   »Cowboys WR Bryant expected to play Sunday
 *   »Alex Smith's struggles due to injured finger?
-*   »Jimmy Graham questionable, game-day decision
 *   »Mendenhall, Redman out for Week 7 at Cincy
 *   »Bradshaw sits out, questionable for Sunday
 *   »V-Jax leaves practice, still expected to play
