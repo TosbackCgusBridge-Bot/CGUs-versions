@@ -56,6 +56,9 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Zito dazzles in NLCS Game 5 win vs. Cardinals
+*   Carlos Beltran in Cardinals lineup for Game 5
+*   Yanks intend to pick up option on Granderson
 *   CC Sabathia will have elbow checked out
 *   Wainwright rebounds, gives Cardinals 3-1 lead
 *   Alex Rodriguez won't waive no-trade clause
@@ -65,9 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Belt not in lineup for Game 4 vs. Cardinals
 *   Pence dropped in lineup for Game 4 of NLCS
 *   Beltran (knee) not in lineup for Game 4
-*   Dickey undergoes surgery for abdominal tear
-*   Report: Alex Rodriguez would not block trade
-*   Hughes (back) may be available in ALCS Gm. 4
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Friday Rundown Oct 19
+*   Matchups: Run, DMC Oct 19
+*   Week 7 Chat Recap Oct 19
 *   Beasting On? Oct 19
-*   Week 7 Chat Oct 18
 *   Week 7 Rankings Oct 18
 *   Week 7 Target Watch: AFC Oct 18
 *   Bullet Proof? Oct 18
 *   Best Available NFL Free Agents Oct 18
-*   Matchup: Seahawks @ Niners Oct 18
-*   Getting Defensive: Week 7 Oct 17
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Alex Smith's struggles due to injured finger?
+*   Report: Dez Bryant's groin injury is not new
+*   Jimmy Graham questionable, game-day decision
+*   Mendenhall, Redman out for Week 7 at Cincy
+*   Bradshaw sits out, questionable for Sunday
+*   V-Jax leaves practice, still expected to play
 *   Gore is fine after X-rays reveal bruised ribs
 *   Lynch runs for 103 yards in Week 7 loss at SF
 *   Gore shreds Seahawks for 182 yards in TNF win
 *   Report: Vick, Mornhinweg will remain in place
 *   Ngata: Lewis 'vows' to play 18th NFL season
 *   Manningham out, Jacobs in versus Seahawks
-*   Mendenhall, Redman sit again on Thursday
-*   Jimmy Graham returns to a limited practice
-*   Bradshaw: Injury unrelated to stress fracture
-*   Peterson sits Thursday, but expected to play
-*   Greg Jennings is still not back at practice
-*   Bradshaw, Nicks are both practicing Thursday
 
 NBA PAGES
 
@@ -134,6 +134,7 @@ NBA PAGES
 
 COLUMNS
 
+*   Players to Target Oct 20
 *   Poor Timing On Love's Injury Oct 18
 *   Roto Auction Recap Oct 17
 *   Top 10, Busts and Sleepers Oct 12
@@ -141,7 +142,6 @@ COLUMNS
 *   2012 NBA Draft Guide Oct 2
 *   Preseason Position Battles Sep 20
 *   Point Guard Depth Sep 13
-*   The Calm Before the Storm Sep 2
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Brook Lopez keeps it rolling with 23 &. 9
+*   Thad Young scores 24 points in start at PF
+*   Dorell Wright goes for 18 &. 11 vs. Nets
+*   Bargnani (calf) returns to action. scores 20
+*   Team Sources: Curry ankle injury not serious
+*   Andrew Bogut (ankle) to see doctor on Monday
+*   Nowitzki (knee surgery) out at least 6 weeks
 *   James Harden (groin) scrimmages on Thursday
 *   Report: Dion Waiters favorite to start at SG
 *   Paul Pierce seen limping after ankle injury
 *   Dwight Howard (back) to return on Sunday
 *   Wade (knee) looks explosive vs. Pistons
-*   Eric Gordon misses fifth game with bad knee
-*   Anthony Davis goes for 19 and 7 vs. Hawks
-*   LeBron James to Lakers in 2014?
-*   Kevin Love could be back in five weeks
-*   J.R. Smith in walking boot w/ Achilles injury
-*   Andrew Bogut (ankle) not close to playing
-*   Andrea Bargnani suffers a calf contusion
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Nicklas Backstrom arrives in Russia
+*   Lehner allows three goals in first 12-13 loss
+*   Jordan Caron leads P-Bruins with a hat trick
+*   NHL slashes all games through November 1
+*   Niedermayer enters the Canadian Sports HoF
 *   Gary Bettman: The Winter Classic is in danger
-*   Players want to be eased into a 50-50 split
 *   Sidney Crosby will now explore Europe options
 *   Mark Scheifele lights up Ottawa in OHL win
 *   Gary Bettman disappointed with PA proposals
 *   Report: N. Backstrom to join Ovechkin in KHL
 *   Taylor Hall can participate in contact drills
 *   Is the All-Star Game hanging in the balance?
-*   Jonathan Toews not excited by the NHL's offer
-*   Patrick Kane was close to signing in Europe
-*   Sidney Crosby not sorry about Giroux's wrists
-*   Montador: Still a long way to go in CBA talks
 
 NASCAR PAGES
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Stremme not in Hollywood Casino 400 field
+*   Josh Wise misses Hollywood Casino 400 field
+*   Cole Whitt not in Kansas Cup field
+*   Kelly Bires gets last Cup slot at Kansas
+*   McDowell top Kansas Cup go-or-go-homer
+*   Kahne sets record pole for Kansas Cup race
+*   Joey Logano leads Nationwide Happy Hour
+*   Annett has best 10-laps in 2nd NNS practice
+*   Austin Dillon leads 2nd Nationwide practice
+*   Greg Biffle leads first Kansas Cup practice
 *   Ryan Newman marks milestone start in Kansas
 *   Kyle Busch top 10-laps in 1st NNS practice
-*   Kevin Harvick leads first Nationwide practice
-*   Denny Hamlin HotPass on DIRECTV notes
-*   Greg Biffle HotPass on DIRECTV notes
-*   Jimmie Johnson HotPass on DIRECTV notes
-*   Martin Truex Jr. HotPass on DIRECTV notes
-*   Scott Lagasse Jr. entered at Kansas Speedway
-*   Buescher back to site of first truck victory
-*   Brad Sweet brings top-15 car to Kansas race
-*   Justin Allgaier at Kansas Speedway
-*   Kurt Busch looks for improvement at Kansas
 
 GOLF PAGES
 
@@ -285,6 +285,8 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Atwal in charge at the McGladrey midpoint
+*   Ill Mark Anderson survives. 54-hole cut looms
 *   Dawson buries 9 birdies en route to co-lead
 *   Cauley ties the course record at Sea Island
 *   McIlroy plans to curb his schedule next year
@@ -295,8 +297,6 @@ FANTASY GOLF NEWS
 *   Eagle hole-out fuels Lowry's first pro win
 *   Mallinger heads to Frys.com finale with lead
 *   Dunlap, 49, cards career low in 202nd start
-*   O'Hern steals the lead. matches course record
-*   Fowler shelved indefinitely with 'back issue'
 
 NFL DRAFT PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Week Eight Matchup Preview Oct 19
 *   The Forgotten One Oct 17
 *   Kenny Vaccaro: Spread Stopper Oct 15
 *   Senior Prospect Rankings Oct 14
@@ -318,7 +319,6 @@ COLUMNS
 *   The Human Genome Oct 10
 *   Banks-y, Cover Artist Oct 9
 *   Prospect Snapshots: Weeks 5-6 Oct 8
-*   Week Six Matchup Preview Oct 5
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Brooks: 'Word is' Glennon may be 2nd QB
+*   Devils DT Sutton received a 'good prognosis'
+*   McShay: Gillislee, from after thought to 4th
+*   McShay: McCarron may be most underrated QB
+*   McShay: Denard Robinson will go in top 3 rds
+*   Margus Hunt records two sacks vs Houston
+*   Former Vol Ainge advocates to hurt McCarron
+*   McShay: Best situation for Thomas is 2nd/3rd
 *   Mannion will dress for Beavers, could play
 *   Dion Jordan collects two sacks vs Sun Devils
 *   Ducks RB Barner gashes Sun Devils defense
 *   Lattimore won't start, will play vs Gators
-*   Kelly: QB Golson will be a gametime decision
-*   Devils DT Sutton out for game (right knee)
-*   Spurrier suspends DT Quarles for Florida game
-*   Stephen Morris doubtful for game vs Noles
-*   Penn State TE Kyle Carter is 'turning heads'
-*   Scouts: Longhorns DC Manny Diaz 'is a fraud'
-*   Zierlein: Scouts comparing Millard to Alstott
-*   Mountaineers WR Bailey 'day-to-day' this week
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NHL:Gary Bettman: The Winter Classic is in danger
-*   MLB:CC Sabathia will have elbow checked out
-*   NHL:Sidney Crosby will now explore Europe options
-*   NFL:Gore is fine after X-rays reveal bruised ribs
-*   MLB:Wainwright rebounds, gives Cardinals 3-1 lead
-*   NFL:Gore shreds Seahawks for 182 yards in TNF win
-*   MLB:Alex Rodriguez won't waive no-trade clause
-*   MLB:Peralta homers twice as Tigers advance to WS
+*   MLB:Zito dazzles in NLCS Game 5 win vs. Cardinals
+*   NAS:Kahne sets record pole for Kansas Cup race
+*   MLB:Yanks intend to pick up option on Granderson
+*   NFL:Report: Dez Bryant's groin injury is not new
+*   NHL:NHL slashes all games through November 1
+*   NFL:Jimmy Graham questionable, game-day decision
+*   NFL:V-Jax leaves practice, still expected to play
+*   NFL:Bradshaw sits out, questionable for Sunday
+*   NFL:Mendenhall, Redman out for Week 7 at Cincy
+*   NBA:Nowitzki (knee surgery) out at least 6 weeks
 *   NFL:Report: Vick, Mornhinweg will remain in place
-*   NFL:Manningham out, Jacobs in versus Seahawks
-*   MLB:Jaime Garcia not having shoulder surgery
-*   NBA:Kevin Love could be back in five weeks
+*   NBA:Brook Lopez keeps it rolling with 23 &. 9
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. MurrayNFL (8449)
-*   2T. RichardsonNFL (8041)
-*   3R. MendenhallNFL (7217)
-*   4H. NicksNFL (6994)
-*   5J. GordonNFL (6986)
+*   1D. MurrayNFL (8821)
+*   2T. RichardsonNFL (8748)
+*   3R. MendenhallNFL (7433)
+*   4J. GordonNFL (7159)
+*   5J. GrahamNFL (6995)
 
-*   6P. GarconNFL (6751)
-*   7J. BestNFL (6618)
-*   8G. JenningsNFL (6394)
-*   9J. GrahamNFL (6306)
-*   10W. PowellNFL (6292)
+*   6H. NicksNFL (6760)
+*   7F. JonesNFL (6615)
+*   8A. BradshawNFL (6572)
+*   9P. GarconNFL (6500)
+*   10G. JenningsNFL (6456)
 
   
 Video Center
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines Beasting On?  
-Oct 19 Marshawn Lynch went over 100 yards again. Adam Levitan discusses his value going forward and recaps all of Thursday's news in the Dose.  
+  Headlines Friday Rundown  
+Oct 19 Frank DuPont takes his weekly trip through the stats to talk about potential trade targets.  
   
 More NFL Columns
 
+*   »Friday Rundown Oct 19
+*   »Matchups: Run, DMC Oct 19
+*   »Week 7 Chat Recap Oct 19
 *   »Beasting On? Oct 19
-*   »Week 7 Chat Oct 18
 *   »Week 7 Rankings Oct 18
 *   »Week 7 Target Watch: AFC Oct 18
 *   »Bullet Proof? Oct 18
 *   »Best Available NFL Free Agents Oct 18
-*   »Matchup: Seahawks @ Niners Oct 18
-*   »Getting Defensive: Week 7 Oct 17
 
 NFL Headlines
 
+*   »Alex Smith's struggles due to injured finger?
+*   »Report: Dez Bryant's groin injury is not new
+*   »Jimmy Graham questionable, game-day decision
+*   »Mendenhall, Redman out for Week 7 at Cincy
+*   »Bradshaw sits out, questionable for Sunday
+*   »V-Jax leaves practice, still expected to play
 *   »Gore is fine after X-rays reveal bruised ribs
 *   »Lynch runs for 103 yards in Week 7 loss at SF
 *   »Gore shreds Seahawks for 182 yards in TNF win
 *   »Report: Vick, Mornhinweg will remain in place
 *   »Ngata: Lewis 'vows' to play 18th NFL season
 *   »Manningham out, Jacobs in versus Seahawks
-*   »Mendenhall, Redman sit again on Thursday
-*   »Jimmy Graham returns to a limited practice
-*   »Bradshaw: Injury unrelated to stress fracture
-*   »Peterson sits Thursday, but expected to play
-*   »Greg Jennings is still not back at practice
-*   »Bradshaw, Nicks are both practicing Thursday
 
 NFL Links
 
