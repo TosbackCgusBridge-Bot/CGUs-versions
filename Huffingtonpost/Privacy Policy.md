@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Twitter
+*   Iran
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 19, 2012 Edition: **U.S.**
+October 20, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 19, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Romney Has Lead Over Obama 16k
-    *   Why Is Gallup So Different? 26k
-    *   On Libya Response, Obama Tells Jon Stewart: 'We Weren't Confused' 17k
-    *   Soup Kitchen In Paul Ryan Flap Facing Donor Backlash 8k
-    *   Court Smacks Down Anti-Gay Marriage Law 17k
+    *   Crazy Polls Show Close Race, Continuing Obama Edge In Battlegrounds 22k
+    *   Obama Hits 'Romnesia' 38k
+    *   Soup Kitchen In Paul Ryan Flap Facing Donor Backlash 11k
+    *   Battleground State Newspaper Dumps Obama For Romney 9k
+    *   Obama, Romney Trade Zingers At Al Smith Dinner 8k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 19, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   Meet The World's Richest Man 1k
-    *   'Robosquirrel' Cutest Example Of Rampant Government Waste 510
-    *   'James Bond' Debt Collector Allegedly Murders One-Time Maxim Model 60
-    *   U.S. Postal Service Hits $15 Billion Borrowing Limit For First Time 2k
-    *   Oklahoma Walmart Workers Join Strike Movement In Spite Of Alleged Intimidation From Management 1k
+    *   'James Bond' Debt Collector Allegedly Murders One-Time Maxim Model 229
+    *   Abercrombie &. Fitch's Corporate Jet Takes Cultish To a Whole New Level 374
+    *   White McDonald's Customer Alleges Racism After She's Denied Biscuits 1k
+    *   The Most Dangerous City In America Is... 197
+    *   Obama's Jobs Joke: 'I Don't Have A Joke Here' 3k
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 19, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   19 Biggest Movie Plot Holes 98
-    *   Why Did Guillermo Del Toro Leave 'The Hobbit'? 506
-    *   LOOK: Hollywood Tweets The Debate 425
-    *   Michael Bay On Complaining Actors: 'Be Happy You Even Have A Job' 462
-    *   Joaquin Phoenix: Oscars Are 'Bullsh-t' 305
+    *   Clint Eastwood's Daughter Says She's Not Voting For Romney 1k
+    *   19 Biggest Movie Plot Holes 239
+    *   Dr. Ruth Demands That Helen Hunt Start Using Contraceptives 55
+    *   Lady Gaga Fights Back 373
+    *   WATCH: Willow Smith Covers Adele's 'Skyfall' 160
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 19, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   WATCH: Is Online Dating A Mechanism For Rejection? 820
-    *   Judge Forces Apple To Apologize To Samsung 505
-    *   Verizon Stirs Up Privacy Controversy 294
-    *   Google Stock Plummets After Earnings Leak 515
-    *   Twitter Censors An Account For The First Time 75
+    *   Facebook Is 'Going Purple'... And So Can You 70
+    *   Google Designs From The '90s Unearthed: Potential Designs Include 'Kermit The Frog'-Type Suggestion
+    *   WATCH: Tech Execs Come Out Strong For Obama 148
+    *   WATCH: Notorious Internet Troll Apologizes For Shocking, Offensive Posts 139
+    *   Judge Forces Apple To Apologize To Samsung 540
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 19, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   WATCH: Candy Crowley Responds To Fact Check Frenzy 22k
-    *   Newsweek To Stop Printing, Go All-Digital 2k
-    *   WATCH: Whoopi Goldberg's Uncomfortable Question To Ann Romney 17k
-    *   CNN: Crowley's Critics Are Sore Losers 1k
-    *   WATCH: Maddow Flips Out 2k
+    *   WATCH: Obama Takes A Jab At Chris Matthews 3k
+    *   WATCH: Whoopi Goldberg's Uncomfortable Question To Ann Romney 21k
+    *   Fox News Chief Signs Big New Contract 1k
+    *   WATCH: Tom Hanks Drops F-Bomb 195
+    *   WATCH: Lawrence O'Donnell Flips Out On Tagg Romney 2k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 19, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   American Hiker Imprisoned In Iran Finds California Cells Worse 1k
-    *   TOP SECRET! Gitmo Prisoner's Opinion On LeBron James 108
-    *   Alleged 9/11 Mastermind Blasts U.S. For Killings 1k
-    *   Drone Strikes Kill 7 Militants In Yemen 384
-    *   How This World Leader Changed The Dictionary 95
+    *   Austria Probes Gruesome Nazi Abuse 2k
+    *   CIA Found Militant Links Just 1 Day After Libya Attack 6k
+    *   Huge Explosion Rocks Beirut 1k
+    *   Stray Cat Discovers Secret 2,000-Year-Old Tomb 203
+    *   Top Lebanese Security Official Reportedly Killed In Blast 237
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 19, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Kicking Butt! 10 Celebrities Who Have Quit Smoking 200
-    *   35 Diet And Nutrition Experts You Should _Already_ Be Following 17
-    *   Rare Condition Causes Man's Scalp To Look Like A Brain 179
-    *   Fool-Proof Tricks For Sticking To A Morning Exercise Routine 16
-    *   What Will You Be For Halloween? Fitness-Themed Costume Ideas To Get You Inspired
+    *   35 Diet And Nutrition Experts You Should _Already_ Be Following 25
+    *   Jennifer Lost 200 Pounds: 'I Ate Because I Was Bored. I Ate Because I Was Lonely. I Ate Because I Could’ 20
+    *   Kicking Butt! 10 Celebrities Who Have Quit Smoking 205
+    *   Happy Reads: 10 Books That Make Us Smile
+    *   The Baker, The Free Food Fiend, The Food Bully: Which Workplace Diet Saboteur Is Your Biggest Weakness? 30
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 19, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
-    *   PHOTOS: Katy Perry Has A Drastic New Look With John Mayer 163
-    *   Is Ann Romney Trying To Be Edgy With Blue Nails? 1k
-    *   PHOTOS: Ann Romney &. Michelle Obama Wear Matching Pink Outfits To Debate 1k
-    *   Here's What A $2.5 Million Bra Looks Like 146
-    *   PHOTO: Kim Kardashian Admits Her Fashion Mistake 536
+    *   PHOTOS: See Who Turned Out For Bergdorf's 111th Birthday Party
+    *   PHOTOS: Kim Kardashian Channels... Gumby? 33
+    *   WATCH: Ed Burns Reveals How He Landed Christy Turlington
+    *   Michelle Obama Has A Surprise Answer For The Eternal 'Boxers Or Briefs?' Question 357
+    *   PHOTOS: There's A Royal Wedding This Weekend! 68
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 19, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   PHOTOS: The Funniest Haunted House Reactions 45
-    *   'Binder Of Women, Book Of Broads, Notebook Of Nipples, Whatever...' 1k
-    *   WATCH: One Of The Best Things You Will Ever See 180
-    *   Menacing Josh Romney Means Business 42
-    *   Binders Full Of What Now? The Funniest Debate Tweets 103
+    *   PHOTOS: The Funniest Haunted House Reactions 184
+    *   WATCH: One Of The Best Things You Will Ever See 611
+    *   WATCH: Jon Mocks Obama's Debate Performance To His Face 3k
+    *   WATCH: Romney's Horrifying Google History LEAKED 166
+    *   WATCH: An Unexpected, Disgusting Guest 80
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 19, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Now Flip-Flop? Or Democracy?
-    *   Next Monopoly: Google Edition
-    *   Coming Up Bridge To Nowhere
-    *   Coming Up Gay And Disowned
-    *   Coming Up Skinny MinnieGo to HuffPost Live
+    *   Next Are We There Yet?
+    *   Next GOTV
+    *   Later The GOP's Lost Plank
+    *   Later Swung By Hollywood
+    *   Later Interracial Dating GameGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
