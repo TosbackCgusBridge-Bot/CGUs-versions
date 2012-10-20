@@ -138,9 +138,9 @@ KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH
 
 Saturday: CVS, Walgreens Deals CVS
 
-*   Get $2.49 Extra Bucks WYB Pumpkin Masters 4-in-1 Carving Tool - $2.49
+*   Zantac 150, 24ct, or Zantac 75, 30ct - $8.99
 *   Get $1 Extra Bucks WYB (3) Stride ID or Spark Gum, 14ct - $1.00
-*   Di-Gel Liquid, 12oz - $5.00
+*   Get $2.49 Extra Bucks WYB Pumpkin Masters 4-in-1 Carving Tool - $2.49
 *   more...
 
 1.  Parts Project Coordinator
@@ -155,9 +155,7 @@ Saturday: CVS, Walgreens Deals CVS
     
 4.  SALES
     
-5.  CAMPAIGN JOBS
-    
-    Grassroots Campaigns, Inc.
+5.  PROGRAM DIRECTOR
     
 6.  Apartment Maintenance Helper
     
