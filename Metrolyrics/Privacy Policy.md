@@ -150,23 +150,14 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 *   Jonas Brothers  
     First Time Lyrics
 *   One Direction  
-    Over Again Lyrics
-*   Ed Sheeran  
-    A Team Lyrics
-*   Gotye  
-    Somebody That I Used To Know Lyrics
-
-*   Jonas Brothers  
-    Wedding Bells Lyrics
-*   One Direction  
     Change My Mind Lyrics
 *   Justin Bieber  
     As Long As You Love Me Lyrics
 *   Carly Rae Jepsen  
     Call Me Maybe Lyrics
 
-*   Kanye West  
-    White Dress Lyrics
+*   Jonas Brothers  
+    Wedding Bells Lyrics
 *   One Direction  
     Kiss You Lyrics
 *   Kesha  
@@ -174,22 +165,29 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 *   David Guetta  
     Titanium Lyrics
 
-*   Wale  
-    Arrival Lyrics
+*   Kanye West  
+    White Dress Lyrics
 *   Tristan Prettyman  
     My Oh My Lyrics
-*   Flo Rida  
-    Whistle Lyrics
+*   Katy Perry  
+    Wide Awake Lyrics
 *   Adele  
     Someone Like You Lyrics
 
-*   Ellie Goulding  
-    I Need Your Love Lyrics
+*   Wale  
+    Arrival Lyrics
 *   Lana Del Rey  
     Ride Lyrics
-*   Katy Perry  
-    Wide Awake Lyrics
+*   Flo Rida  
+    Whistle Lyrics
 *   Alex Clare  
     Too Close Lyrics
+
+*   Ellie Goulding  
+    I Need Your Love Lyrics
+*   Ed Sheeran  
+    A Team Lyrics
+*   Gotye  
+    Somebody That I Used To Know Lyrics
 
 Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
