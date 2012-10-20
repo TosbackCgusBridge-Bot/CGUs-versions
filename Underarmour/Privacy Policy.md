@@ -24,10 +24,9 @@ VIEW CART &. CHECKOUT
     
     *   Shirts &. Tops
     *   Bottoms
-    *   Footwear
-    *   Underwear
-    *   Baselayer
     *   Outerwear
+    *   Baselayer
+    *   Underwear
     *   Accessories
     *   Footwear
     
@@ -51,25 +50,20 @@ VIEW CART &. CHECKOUT
     *   Tactical/Military
     *   Tottenham Hotspur
     *   Collegiate Fan Gear
+    *   HeatGear®
+    *   ColdGear®
     *   Storm
     *   Shop All Men's ►
     
-    *   Temperature Guide ►
-    
-    *   Fit
-    *   Compression
-    *   Fitted
-    *   Regular
-    *   Loose
-    *   Fit Guide ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
+    FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00.  
+    NO CODE. NO SWEAT.
 *   Women
     
     *   Shirts &. Tops
     *   Bottoms
-    *   Footwear
-    *   Underwear
-    *   Baselayer
     *   Outerwear
+    *   Baselayer
+    *   Underwear
     *   Accessories
     *   Footwear
     
@@ -91,17 +85,13 @@ VIEW CART &. CHECKOUT
     *   Alternate Lengths
     *   Collegiate Fan Gear
     *   Storm
+    *   HeatGear®
+    *   ColdGear®
     *   Charged Cotton
     *   Shop All Women's ►
     
-    *   Temperature Guide ►
-    
-    *   Fit
-    *   Compression
-    *   Fitted
-    *   Semi-Fitted
-    *   Loose
-    *   Fit Guide ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
+    FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00.  
+    NO CODE. NO SWEAT.
 *   Boys
     
     *   Boys  
