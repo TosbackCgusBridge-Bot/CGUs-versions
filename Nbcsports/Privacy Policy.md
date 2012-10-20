@@ -7,11 +7,11 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     PFT's picks: Can Bengals escape Steelers? PFT: Roethlisberger expected to play Sunday PFT: Goodell passes baton to Tags in bounty case PFT: Tebow obtains 'Tebowing' trademark PFT: 'Skins, Bills fined $20K each for injury reports Clock running out on Tebow Time? PFT: 49ers complain about Seahawks CBs PFT: Dolphins' Misi avoids jail in battery case Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Elsa / AP Zito deals zeroes, keeps SF alive
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Christian Petersen / Getty Images Giants, Cards prepare for Game 6
     
-    Despite never throwing a pitch that topped 86 mph, San Francisco's Barry Zito shut down the Cardinals for 7 2/3 innings Friday night, keeping the Giants alive in the National League Championship Series, 5-0.
+    HBT: St. Louis, with Chris Carpenter on the mound, hopes to close out the NLCS on Sunday when the series moves to S.F. Ryan Vogelsong will get the start for the Giants.
     
-    HBT: Giants, Cards prepare for Game 6 HBT:Overaggressive Cards come up empty in Game 5 HBT: Barry Zito turns back the clock HBT: Steinbrenner: A-Rod getting too much blame HBT: Bochy's Giants catcher switch goes bust HBT: Tigers to play minor leaguers to stay sharp St. Louis rolls in Game 4   |  Jay hot at home Tigers sweep Yanks   |  Sheer dominance Ad
+    HBT: Jeter undergoes ankle surgery Zito deals zeroes, keeps SF alive HBT:Overaggressive Cards come up empty in Game 5 HBT: Barry Zito turns back the clock HBT: Steinbrenner: A-Rod getting too much blame HBT: Bochy's Giants catcher switch goes bust HBT: Tigers to play minor leaguers to stay sharp St. Louis rolls in Game 4   |  Jay hot at home Ad
 *   NHL
     SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Chris Young / AP Breaking down the talks
     
