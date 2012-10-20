@@ -190,10 +190,10 @@ Ce document intitulé « Conditions générales d'utilisation » issu de **Com
 *     CONDITION d'utilisation
 *     Condition generale
 *     Conditions générales de vente » Forum
+*     Modèle de conditions générales de vente » Forum
 *     Les conditions générales de vente pour un site d'e-commerce » Fiches pratiques
-*     Le nouveau contrat de microsoft (Résolu) » Forum
-*     Resilier contrat orange!!! (Résolu) » Forum
-*     Résiliation bouygues télécom » Forum
+*     Iphone probléme app store (Résolu) » Forum
+*     Resiliation abonnement bouygues telecom » Forum
 
 Plus Dossier à la une
 
