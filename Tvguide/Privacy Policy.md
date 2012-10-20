@@ -73,11 +73,11 @@ What's Hot
 
 Fall TV Popularity Contest
 
-Who Won _Project Runway_?
+_Once_ Burning Questions
 
-_Animal Practice_ Pulled
+_Vampire Diaries_ Scoop
 
-TV Viewing Trends
+_Scandal_ Postmortem
 
 Privacy Policy Last Revised July 25, 2011  
   
