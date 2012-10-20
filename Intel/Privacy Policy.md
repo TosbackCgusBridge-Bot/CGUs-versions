@@ -403,3 +403,122 @@ Intel® Online Privacy Notice Intel is committed to respecting your privacy. Our
     *   Related Content
     *   Related Topics
     *   Related Products
+    
+    *   Intel Export Compliance
+        
+        Intel export compliance adheres with business, laws, and regulations that govern trade.
+        
+    *   Intel Social Media...
+        
+        Guide for Intel sponsored, seeded, or incentivized social media practitioners.
+        
+    *   Privacy: Thank You
+        
+        Privacy: Thank You
+        
+    *   Intel Social Media...
+        
+        Intel Social Media Guidelines for Intel employees or contractors contributing on or off Intel.com.
+        
+    
+    *   Technology for the Home
+    *   Smart TV
+    
+    *   Intel® Core™ i7 Processor
+        
+        Whether it's HD or 3D, multitasking or multimedia, 3rd generation Intel® Core™ i7 processors deliver top-of-the-line adaptable speed and responsiveness.
+        
+    *   Intel® Core™ i5 Processor
+        
+        The smart performance of the Intel® Core™ i5 processor automatically delivers a boost of speed, right when you need it.
+        
+    *   Intel® Core™ i3 Processor
+        
+        As the first level of Intel's latest processor family, the 3rd generation Intel® Core™ i3 processor delivers a fast, responsive, and visually immersive PC experience.
+        
+
+*   Newsroom
+*   USA (English)
+
+*   Asia Pacific
+*   Asia Pacific (English)
+*   Australia (English)
+*   China (简体中文)
+*   Hong Kong (English)
+*   India (English)
+*   Indonesia (Bahasa Indonesia)
+*   Japan (日本語)
+*   Korea (한국어)
+*   Malaysia (English)
+*   New Zealand (English)
+*   Pakistan (English)
+*   Philippines (English)
+*   Singapore (English)
+*   Taiwan (繁體中文)
+*   Thailand (ไทย)
+*   Vietnam (Tiếng Việt)
+
+*   Europe
+*   Austria (Deutsch)
+*   Belgium (Français)
+*   Belgium (Nederlands)
+*   Czech Republic (English)
+*   France (Français)
+*   Germany (Deutsch)
+*   Europe (English)
+*   Ireland (English)
+*   Italy (Italiano)
+*   Kazakhstan (Русский)
+*   Netherlands (Nederlands)
+*   Poland (Polski)
+*   Russia (Русский)
+*   Spain (Español)
+*   Sweden (Svenska)
+*   Switzerland (Deutsch)
+*   Turkey (Türkçe)
+*   Ukraine (Українська)
+*   United Kingdom (English)
+
+*   Latin America
+*   Argentina (Español)
+*   Bolivia (Español)
+*   Brazil (Português)
+*   Chile (Español)
+*   Colombia (Español)
+*   Costa Rica (Español)
+*   Latin America (Español)
+*   Mexico (Español)
+*   Peru (Español)
+*   Uruguay (Español)
+*   Venezuela (Español)
+
+*   Middle East/Africa
+*   Egypt (English)
+*   Egypt (ة العربية)
+*   Israel (עברית)
+*   Middle East (English)
+*   Middle East (اللغة العربية)
+*   Saudi Arabia (English)
+*   Saudi Arabia (اللغة العربية)
+*   South Africa (English)
+*   United Arab Emirates (English)
+*   United Arab Emirates (اللغة العربية)
+*     
+    North America
+*   United States (English)
+*   Canada (English)
+*   Canada (Français)
+
+Tools
+
+*   © Intel Corporation
+*   Company Information
+*   Support
+*   Contact Us
+*   Jobs
+*   Investor Relations
+*   Site Map
+*   Terms of Use
+*   \*Trademarks
+*   Privacy
+*   Cookies
