@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Peace Envoy Arrives in Syria
-*   Obama, Romney Trade Jokes, Jabs
+*   Peace Envoy Holds Talks in Damascus
+*   Lebanese Cabinet Holds Emergency Meeting
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
