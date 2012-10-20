@@ -95,15 +95,15 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Country Living advertisement
 
-*   **soup**
+*   **chocolate cake**
 
-*   **chicken**
+*   **Cake**
 
-*   **easy dessert**
+*   **soups**
 
-*   **halloween cookies**
+*   **Soup**
 
-*   **muffins**
+*   **pumpkin**
 
 Home &. Decorating
 
