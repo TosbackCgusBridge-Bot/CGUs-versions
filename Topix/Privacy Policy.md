@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Microsoft
+Mitt Romney
 
-Weak earnings reports from McDonald's, Microsoft and others dr...
+Romney ad envisions second Obama term
 
-Fort Hood
+Libya
 
-Victims want Fort Hood shooting deemed terror act
+Could U.S. military have helped during Libya attack?
 
 Politix
 
-Who will win Ohio?
+Should we lower the drinking age to 18?
 
 *   Home
 *   Forums
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
-  Ads by Glam
+ 
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 114,768 • Total comments across all topics: 188,511,033
+Comments made yesterday: 105,371 • Total comments across all topics: 188,595,737
 
 Copyright ©2012 Topix LLC
 
