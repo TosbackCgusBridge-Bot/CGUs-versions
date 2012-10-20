@@ -138,9 +138,9 @@ KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH
 
 Saturday: CVS, Walgreens Deals CVS
 
-*   Bumble Bee Chunk White Albacore, 5oz - $1.00
-*   DenTek Floss Picks, 150ct - $2.99
-*   VO5 Shampoo or Conditioner, 15oz - $0.75
+*   Get $2.49 Extra Bucks WYB Pumpkin Masters 4-in-1 Carving Tool - $2.49
+*   Get $1 Extra Bucks WYB (3) Stride ID or Spark Gum, 14ct - $1.00
+*   Di-Gel Liquid, 12oz - $5.00
 *   more...
 
 1.  Parts Project Coordinator
@@ -171,12 +171,12 @@ View More The Most
 *   Semi crash into restaurant kills one in Nevada, Mo.
 *   KC mayor’s brother sentenced to 7 years
 *   Kansas City police officer suspended, accused of insurance fraud
-*   Billy Grahams website scrubs Mormon cult reference
 *   Former KU coach Mark Mangino could seek return to football
 *   Latest O.J. furor: He is reportedly selling the knife
-*   TV review | How Tippi Hedren ran afoul of Alfred Hitchcocks blond fixation and paid the price
+*   Billy Grahams website scrubs Mormon cult reference
 *   Kansas Senate's Democratic leader gets GOP backing
-*   Missing Ore. woman's body found, man arrested
+*   TV review | How Tippi Hedren ran afoul of Alfred Hitchcocks blond fixation and paid the price
+*   Black Jack Battlefield named a national landmark
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
