@@ -443,6 +443,7 @@ SHOP BY BENEFIT
 *   Insulated
 *   bluesign®
 *   Recycled Content
+*   Zip/Snap-in Compatible
 *   All Benefits
 
 SHOP BY TECHNOLOGY
