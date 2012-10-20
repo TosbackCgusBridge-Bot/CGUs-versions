@@ -16,7 +16,7 @@ Skip to content
 *   Gift Center
 *   T-Shirts
 
-**Search** Double High Five! $5 OFF 2+ Mugs! Today Only!   Use Code: FIVEOFFDEAL5   (details) Check out Zazzle Instant, our new app for making fun products! Ok Zazzle Privacy Policy Policies
+**Search** 50% Off Posters &. Canvas! Showcase Your Sweethearts For Sweetest Day!   Use Code: SWEETSAVINGS   Ends Tomorrow! (details) Check out Zazzle Instant, our new app for making fun products! Ok Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
