@@ -1,6 +1,6 @@
 (skip this header)
 
-Friday Oct 19, 2012 7:50 AM PT
+Saturday Oct 20, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   San Mateo Bridge closure
-*   Is that a bird in your pocket?
-*   'The House I Live In'
-*   United fare sale
-*   Homeric epic hits home
+*   Chronicle endorsements
+*   Glenn Beck jeans
+*   7 mistakes of older job seekers
+*   Radcliffe, girlfriend split
+*   Bridge closure
 *   Giants playoff gear!
 
 *   Bay Area &. State
@@ -339,11 +339,19 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Nation in Focus
+*   World in Focus
+*   Tyra Banks' Flawsome Ball
+*   Justin Timberlake &. Jessica Biel
+*   Derek Jeter unloads NYC penthouse for $15.5 million
+*   10th annual Arthritis Auxiliary Benefit &. Fashion Show
+*   Day in Pictures, Oct. 19, 2012
+*   Starbucks in India
 *   Favorite stops in Los Angeles
 *   Greeks protest nationwide against cuts
 *   Nation in Focus
-*   World in Focus
 *   Week 7: 49ers vs. Seahawks
+*   World in Focus
 *   Game 4: Giants vs. Cardinals
 *   49ers fans tailgate on Thursday night
 *   Giants at Cardinals: Game 3
@@ -371,14 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   Bay Area Michelin Bib Gourmands 2012
 *   $38 million SF fixer in escrow
 *   Nation in Focus
-*   World in Focus
-*   Marco Scutaro in the NLCS
-*   'Skyhook' and other CIA spyware
-*   Ross Perot
-*   presidential debate
-*   ELLE's 19th Annual Women in Hollywood Celebration
-*   Day in Pictures, Oct. 16, 2012
-*   Giants vs. Cardinals Game 2 NLCS
 
 *   Most Read
 *   |
@@ -386,55 +386,56 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Frank Gore unleashed in 49ers' win
-2.  Cardinals push Giants back to the brink
-3.  Decades of abuse of Boy Scouts detailed
-4.  Rents rise in S.F., Oakland, San Jose
-5.  Stark drops another election bombshell
-6.  Heidi Montag: ‘I got carried away by surgeon’s suggestions’
-7.  Civil trial opens against Britney Spears' parents
+1.  Barry much in it: Giants win Game 5
+2.  Zito redeems himself, saves Giants
+3.  Harbaugh move stuns Vegas, and ignites Twitter
+4.  Ortega sentenced for 32 years in Richmond High rape case
+5.  Star power: Celebs and their picks for president
+6.  Dirty diaper smell leads driver to kick mom and baby off a bus
+7.  Bribery allegations add to Armstrong’s bad week
 
-1.  Romney's 'binders of women' sets social media on fire
-2.  Gunman robs Oakland council candidate
-3.  Cardinals push Giants back to the brink
-4.  Oakland crime up 20%
-5.  O.J. Simpson selling %u2018murder knife%u2019 for $5 million
-6.  Springsteen explains why he's supporting Obama
-7.  The next last dog we will ever have
+1.  Obama Says His Opponent Has a Case of %u2018Romnesia%u2019 Ahead of Debate
+2.  CIA found militant links a day after Libya attack
+3.  Dew Tour - fun, or an extreme mess?
+4.  Apartment rents rise in Oakland, San Francisco, San Jose
+5.  Police use of drones concerns activists
+6.  Decades of abuse of Boy Scouts detailed
+7.  Barry much in it: Giants win Game 5
 
-1.  Rents rise in S.F., Oakland, San Jose
-2.  A streak, a boom, and now meteor debris?
-3.  Gunman robs Oakland council candidate
-4.  Police use of drones concerns activists
-5.  World Wine Shortage of 1.3 Billion Bottles Seen as Output Slumps
-6.  Ga. congressman draws Darwin as write-in opponent
-7.  Stark drops another election bombshell
+1.  Giants ride wave of emotion into Game 6
+2.  Zito redeems himself, saves Giants
+3.  America's Cup boat flips in S.F. Bay
+4.  Time to restore civic learning
+5.  FBI must pay S.F. journalist $470,000
+6.  Porn company sued over penis injections
+7.  UC law students held in bird beheading
 
 loading... Latest News Videos From our homepage
 
 *     
-    Brant Ward, The Chronicle / SF
+    Charles Sykes / AP
     
-    Smashmouth win for 49ers
+    Politics is in the stars
     
-    'D' pounds the Seahawks and Gore grinds out offense in 13-6 win.
+    Obama or Romney? Celebrities make their picks for president.
     
-*   Photos: 49er fans tailgating
+*   When athletes get political
 
 *     
-    Olga Soboleva / SF
+    Michael Macor, The Chronicle / SF
     
-    Remodeled S.F. Victorian
+    Barry good
     
-    Built in 1900, this updated home near the Haight has 4 bdrms on a deep lot. Asking $1.75M.
+    Zito shuts down Cardinals as S.F. wins to bring NLCS back home.
     
+*   Giants ride wave of emotion
 
 *     
-    Ted S. Warren, Associated Press / SF
+    Michael Short, Special To The Chronicle / SF
     
-    Decades of abuse of Scouts
+    Dew Tour extreme nuisance?
     
-    Report finds abuse by hundreds of Boy Scout leaders, many never reported to authorities.
+    Civic Center is dirtied up for free BMX bike/skateboard event. Some locals are grumbling.
     
 
 *   Home
