@@ -219,10 +219,6 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   The Shores - Daytona Beach
-    
-    Starting Today at Noon EDT
-    
 *   Hotel Sofitel Philadelphia
     
     Starting Sunday 10/21 at 3pm EDT
@@ -248,6 +244,10 @@ Upcoming Sales
     Starting Monday 10/22 at 3pm EDT
     
 *   Amalfi Hotel Chicago
+    
+    Starting Monday 10/22 at 3pm EDT
+    
+*   Villagio Inn &. Spa - Napa
     
     Starting Monday 10/22 at 3pm EDT
     
