@@ -1,6 +1,6 @@
 (skip this header)
 
-Saturday Oct 20, 2012 5:05 AM PT
+Saturday Oct 20, 2012 10:59 AM PT
 
 ° (change)
 
@@ -60,10 +60,9 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Chronicle endorsements
-*   Glenn Beck jeans
+*   Weekend events for bike lovers
+*   Flammable sunscreen recall
 *   7 mistakes of older job seekers
-*   Radcliffe, girlfriend split
 *   Bridge closure
 *   Giants playoff gear!
 
@@ -339,6 +338,7 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Spooky spots in the Bay Area
 *   Nation in Focus
 *   World in Focus
 *   Tyra Banks' Flawsome Ball
@@ -378,7 +378,6 @@ Ads by Yahoo! Photo Galleries
 *   Giants practice in St. Louis
 *   Bay Area Michelin Bib Gourmands 2012
 *   $38 million SF fixer in escrow
-*   Nation in Focus
 
 *   Most Read
 *   |
@@ -387,30 +386,47 @@ Ads by Yahoo! Photo Galleries
 *   Most Emailed
 
 1.  Barry much in it: Giants win Game 5
-2.  Zito redeems himself, saves Giants
-3.  Harbaugh move stuns Vegas, and ignites Twitter
-4.  Ortega sentenced for 32 years in Richmond High rape case
+2.  Point Reyes declared Drake landing site
+3.  Early Big Game irks Stanford, Cal
+4.  Zito redeems himself, saves Giants
 5.  Star power: Celebs and their picks for president
-6.  Dirty diaper smell leads driver to kick mom and baby off a bus
-7.  Bribery allegations add to Armstrong’s bad week
+6.  Giants ride wave of emotion into Game 6
+7.  3 killed in Highway 101 crash in San Jose
 
-1.  Obama Says His Opponent Has a Case of %u2018Romnesia%u2019 Ahead of Debate
-2.  CIA found militant links a day after Libya attack
-3.  Dew Tour - fun, or an extreme mess?
+1.  CIA found militant links a day after Libya attack
+2.  Obama Says His Opponent Has a Case of %u2018Romnesia%u2019 Ahead of Debate
+3.  Barry much in it: Giants win Game 5
 4.  Apartment rents rise in Oakland, San Francisco, San Jose
 5.  Police use of drones concerns activists
-6.  Decades of abuse of Boy Scouts detailed
-7.  Barry much in it: Giants win Game 5
+6.  Dew Tour - fun, or an extreme mess?
+7.  Decades of abuse of Boy Scouts detailed
 
-1.  Giants ride wave of emotion into Game 6
-2.  Zito redeems himself, saves Giants
-3.  America's Cup boat flips in S.F. Bay
-4.  Time to restore civic learning
-5.  FBI must pay S.F. journalist $470,000
-6.  Porn company sued over penis injections
-7.  UC law students held in bird beheading
+1.  Point Reyes declared Drake landing site
+2.  Meteor debris spread over wine country
+3.  Early Big Game irks Stanford, Cal
+4.  Rents rise in S.F., Oakland, San Jose
+5.  Barry much in it: Giants win Game 5
+6.  Comfy chicken dish with rice and ginger
+7.  Zito redeems himself, saves Giants
 
 loading... Latest News Videos From our homepage
+
+*     
+    Lance Iversen, The Chronicle / SF
+    
+    Sir Francis Drake landed here
+    
+    The federal goverment tries to put to an end a 433-year-old historical controversy.
+    
+
+*     
+    Michael Macor, The Chronicle / SF
+    
+    Bringing it home
+    
+    The 5-0 win over the Cardinals sends series back to S.F.
+    
+*   Zito rises up | Wave of emotion
 
 *     
     Charles Sykes / AP
@@ -420,23 +436,6 @@ loading... Latest News Videos From our homepage
     Obama or Romney? Celebrities make their picks for president.
     
 *   When athletes get political
-
-*     
-    Michael Macor, The Chronicle / SF
-    
-    Barry good
-    
-    Zito shuts down Cardinals as S.F. wins to bring NLCS back home.
-    
-*   Giants ride wave of emotion
-
-*     
-    Michael Short, Special To The Chronicle / SF
-    
-    Dew Tour extreme nuisance?
-    
-    Civic Center is dirtied up for free BMX bike/skateboard event. Some locals are grumbling.
-    
 
 *   Home
 *   News
