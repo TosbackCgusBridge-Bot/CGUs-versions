@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  MEAL DEAL **BLIND TRUST** Ohio doctor running newspaper ads criticizing Obamacare ahead of election    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  MEAL DEAL **BLIND TRUST** Top 10 wasteful government programs    
 
 *   Social: Active  
     *   Active
