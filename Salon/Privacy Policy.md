@@ -9,11 +9,11 @@ Register Sign in Welcome, Logout
         *   Barack Obama
         *   2012 Presidential Debates
         *   Terrorism
+        *   Elections 2012
         *   Television
-        *   Election 2012
-        *   TV
         *   Movies
-        *   Sex
+        *   Music
+        *   AlterNet
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -198,17 +198,17 @@ Current Stories Ann: Mormon missions are just like military service!
 
 News. Her sons didn't serve, but they did spend a two-year tour proselytizing. For Ann, that's pretty much the same thing
 
-Fox News cost Mitt the debate
+Why President Romney would let down the right
 
-Politics. Romney stumbled on Libya because the GOP is reliant on a right-wing media machine that has no ideas, just scandals
+Politics. If Mitt Romney wins, conservatives will demand sweeping change. As usual, they'll be disappointed
 
-Guy Fieri and the butching up of the American kitchen
+From binders to Benghazi, memes are killing politics
 
-Entertainment. The celebrity chef's out to make the kitchen into a man cave. Stop him now, or everything will be buffalo-flavored
+Entertainment. Irrelevant details dominate the way we talk about the campaign. This might not be new, but it is getting worse
 
-For white chicks in afro wigs
+Where does language come from?
 
-Life. A blogger takes flak for her silly race experiment, but I'm reminded of the complicated power of black women's hair
+Life. How do we understand what words really mean? New science suggests we make meaning by creating mental simulations
 
 Most Read
 
@@ -216,7 +216,7 @@ Most Read
 *   GOP voter registration scandal widens Brad Friedman
 *   Tagg Romney: Mr. White Privilege David Sirota
 *   Lance Armstrong: Biggest sports fraud ever? Tom Carson, The American Prospect
-*   Clinging to a lead Steve Kornacki
+*   Fox News cost Mitt the debate Jonathan Bernstein
 
 Voices
 
