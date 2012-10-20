@@ -113,12 +113,12 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report woodleywonderworks/Flickr Why American Students Can't Write  
-An _Atlantic_ debate about how to teach writing, and why it matters Read more › Just In Philip K. Howard 8:00 AM ET Rules Can't Think: Why Government Needs Radical Simplification 1350734442 Voices
+Special Report The Atlantic Election 2012  
+_The Atlantic_'s full coverage of the battles for the White House, Senate, and more. Read more › Just In James Fallows 11:55 AM ET Inside Foxconn #3: Some Dormitories 1350748520 Voices
 
+*   James Fallows Inside Foxconn #3: Some Dormitories 11:55 AM ET
 *   Derek Thompson What Happens If TV Goes the Way of Music and… Oct 19, 2012
 *   Alexis C. Madrigal An Energy Entrepreneur Turns to Inflatable Robots Oct 19, 2012
-*   James Fallows Inside Foxconn #2: Strolling Oct 19, 2012
 *   Ta-Nehisi Coates The Past Ain't Even the Past Oct 19, 2012
 *   Jeffrey Goldberg Did Joe Biden Just Go Soft on Iran? Oct 19, 2012
 *   Clive Crook How the Democratic Base Could Lose This Election… Oct 19, 2012
@@ -162,14 +162,14 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   The Logic of a Cord-Cutter Who Still Subscribes to Newspapers  
+*   Where Will You Party on Election Night?  
     
-*   A Superbug Hops from Hospitals to Rabbits. Beam Me Up, Science  
+*   Romney: More a Michael Scott than Donald Trump  
     
-*   Why You Shouldn't Trust Gadget Rumors  
+*   Rupert Murdoch Is Going Shopping  
     
 
-Last Update: 7:02 PM
+Last Update: 1:13 PM
 
 *   San Francisco Looks Creepy Without Any People In It  
     
@@ -182,11 +182,11 @@ Last Update: 2:10 PM Most Popular
 
 1
 
-Um, What's That Bright, Shiny Thing Curiosity Just Found on Mars?
+The Revenge of the Soccer Moms
 
 2
 
-Robots at Work and Play
+Can Your Boss Threaten to Fire You if You Don't Vote for Romney?
 
 3
 
@@ -194,23 +194,23 @@ A Guy Who \*Saw\* Lincoln Get Shot Was on a TV Show in 1956 That Is Now on YouTu
 
 4
 
-All the Small Places in North Dakota
+What Happens If TV Goes the Way of Music and Newspapers?
 
 5
 
-A Trip to the Faroe Islands
+All the Small Places in North Dakota
 
 6
 
-Dark Social: We Have the Whole History of the Web Wrong
+'Sex Addiction' Redefined
 
 7
 
-What Happens If TV Goes the Way of Music and Newspapers?
+Robots at Work and Play
 
 8
 
-The Man Who Volunteered for Auschwitz
+Inside Foxconn #3: Some Dormitories
 
 9
 
@@ -218,7 +218,7 @@ Why Women Still Can’t Have It All
 
 10
 
-Gangnam Style, Dissected: The Subversive Message Within South Korea's Music Video Sensation
+A Trip to the Faroe Islands
 
 *   Subscribe Help
 *   Faq
