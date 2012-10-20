@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 12 hours ago
+about 9 hours ago
 
-@BleacherReport: Jim Harbaugh is possessed. http://t.co/ctlt1RsF
+@BleacherReport: Back to San Francisco they go. Barry Zito &. the Giants shut out the Cardinals 5-0 in Game 5 of the #NLCS.
 
 Newsletters
 
@@ -187,7 +187,6 @@ Explore B/R
 *   Writer Directory
 *   Article Archives
 *   Shop
-*   Tickets
 
 Popular Topics
 
