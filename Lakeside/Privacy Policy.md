@@ -731,7 +731,6 @@ Y*   Books + Media
         *   Baby
         *   open Men
             *   Coats, Jackets
-            *   Shirts
             *   Sleepwear, Loungewear
         *   open Women
             *   Beachwear
