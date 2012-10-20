@@ -31,8 +31,8 @@ Register
     *   Families (1717)
     *   Categories (80)
     *   Mechanics (48)
-    *   Artists (8681)
-    *   Designers (17365)
+    *   Artists (8682)
+    *   Designers (17364)
     *   Publishers (12721)
     *   Random Game
     *   Gone Cardboard
