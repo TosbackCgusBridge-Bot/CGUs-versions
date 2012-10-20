@@ -267,19 +267,19 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Police: Redding gas station clerk uses shovel to fend off early morning robbery attempt Updated 10/18/2012 at 8:41 a.m. 45 comments
-*   UPDATED: Montague woman, 30, killed by husband, deputies say Updated 10/18/2012 at 4:39 p.m. 12 comments
-*   Federal appeals court in New York nixes Defense of Marriage Act Published 10/18/2012 at 9:08 a.m. 69 comments
-*   Does character matter in a presidential candidate? Take our survey Published 10/18/2012 at 8:17 a.m. 67 comments
-*   Bethel teaches languages from Arabic to Chinese to Portuguese Published 10/17/2012 at 10:48 p.m. 51 comments
+*   Gun industry thrives during Obama's term in office Published 10/19/2012 at 4:00 a.m. 134 comments
+*   Two arrested in early morning knife slashing in Anderson, police say Published 10/19/2012 at 8:33 a.m. 31 comments
+*   Duenas back in court in connection with his wife's death Updated 10/19/2012 at 11:58 a.m. 21 comments
+*   Charles Krauthammer: Obama's great gaffe Published 10/19/2012 at 12:00 a.m. 93 comments
+*   Redding police looking for man who threatened to stab gas station clerk while stealing from mini-mart Published 10/19/2012 at 6:19 a.m. 23 comments
 
-Photo Galleries Clarizio's Deli Red Bluff men get marijuana back Think Pink
+Photo Galleries Think Pink Clarizio's Deli Red Bluff men get marijuana back
 
-*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 365 comments
-*   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Published 10/15/2012 at 11:42 p.m. 121 comments
-*   FACT CHECK: Stumbles in latest presidential debate Published 10/16/2012 at 7:37 p.m. 114 comments
-*   Robert Huerta: American cannot leave God behind Published 10/17/2012 at 12:00 a.m. 103 comments
-*   Federal appeals court in New York nixes Defense of Marriage Act Published 10/18/2012 at 9:08 a.m. 69 comments
+*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 374 comments
+*   Gun industry thrives during Obama's term in office Published 10/19/2012 at 4:00 a.m. 134 comments
+*   Robert Huerta: American cannot leave God behind Published 10/17/2012 at 12:00 a.m. 104 comments
+*   Charles Krauthammer: Obama's great gaffe Published 10/19/2012 at 12:00 a.m. 93 comments
+*   Federal appeals court in New York nixes Defense of Marriage Act Published 10/18/2012 at 9:08 a.m. 76 comments
 
 *   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
 *   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 54 comments
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 51° Fair Wind: Calm Today 79° 55° Fri 08:00 PM Partly Cloudy Temp: 67° Sat 08:00 AM Mostly Sunny Temp: 55° Sat 08:00 PM Partly Cloudy Temp: 63°
+Currently 55° Fair Wind: Calm Today 76° 54° Sat 05:00 PM Partly Sunny Temp: 74° Sun 05:00 AM Partly Cloudy Temp: 48° Sun 05:00 PM Cloudy Temp: 68°
 
-Feels Like: 67°
+Feels Like: 74°
 
-Humidity: 44%
-
-Precip: 10%
-
-Feels Like: 55°
-
-Humidity: 77%
-
-Precip: 9%
-
-Feels Like: 63°
-
-Humidity: 38%
+Humidity: 27%
 
 Precip: 4%
+
+Feels Like: 48°
+
+Humidity: 56%
+
+Precip: 0%
+
+Feels Like: 68°
+
+Humidity: 25%
+
+Precip: 9%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Friday Oct 19
 *   Saturday Oct 20
 *   Sunday Oct 21
+*   Monday Oct 22
 *   More BROWSE Icon
-
-*   Fill a Bag, Feed a Family Food Drive See Description 7 a.m.
-*   Prevailing Wage/ Certified Payroll Shasta Builder's Exchange 9 a.m.
-*   Fantasy Fountain Painting Days Enterprise Park 10 a.m.
-*   Soroptimist International of Redding's 15th Annual Breast Cancer Awareness Luncheon Redding Civic Auditorium 11 a.m.
-*   Halloween Haunt Night and Spooky Lagoon Redding Aquatic Center 6 p.m.
-
-More Events »
 
 *   Dunsmuir Run for the Arts See Description 8 a.m.
 *   Trail Obstacle Challenge Cottonwood Creek Equestrian Center 8:30 a.m.
@@ -356,23 +348,35 @@ More Events »
 
 More Events »
 
+*   The Sacred Drumming Circle 2001 Park Marina Drive, Redding 6:30 p.m.
+*   Free classes for seniors Senior Citizens Hall
+*   Zumba Classes Teen Center 6 p.m.
+*   Redding Chess Club See Description 5 p.m.
+*   Redding Duplicate Bridge Club meetings Senior Citizens Hall noon
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Does character matter?
+*   Fantasy Fountain
     
-    Take our Presidential candidate character survey.
-    
-    Fantasy Fountain
-    
-    The community painting project starts Friday! Have you registered yet?
+    The community painting project starts October 19th! Have you registered yet?
     
     20 Under 40
     
-    Nominate young leaders in the North State!
+    Nominate young leaders in the North State! Nomination deadline November. 6th
     
-*   The results are in!
+    Does character matter?
+    
+    Take our Presidential candidate character survey.
+    
+*   Election Coverage
+    
+    Voter resources, stories, photos, videos and more.
+    
+    The results are in!
     
     See who our readers picked as the Best of the North State.
     
@@ -380,13 +384,9 @@ More Events » Features
     
     We have you covered with our **iPhone** Storm Shield.**Now available for Android!**
     
-    Download Our Apps
+*   Download Our Apps
     
     Make your smartphone even smarter. Local news is more accessible than ever.
-    
-*   Looking for a new pet?
-    
-    Search our online classifieds for pets and supplies
     
     News on Facebook
     
