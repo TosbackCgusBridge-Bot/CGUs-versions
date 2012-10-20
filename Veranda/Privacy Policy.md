@@ -11,7 +11,11 @@ Most Viewed
 
 Most Searched
 
-1.  Sorry, there are no search terms at this time
+1.  living rooms
+2.  kitchens
+3.  bedrooms
+4.  designer inspiration
+5.  october 2011
 
 Magazine | RSS
 
