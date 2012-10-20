@@ -56,6 +56,9 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Jeter undergoes ankle surgery, out 4-5 months
+*   Diamondbacks pick up 2013 option on Putz
+*   Soriano expected to opt-out with Yankees
 *   Zito dazzles in NLCS Game 5 win vs. Cardinals
 *   Carlos Beltran in Cardinals lineup for Game 5
 *   Yanks intend to pick up option on Granderson
@@ -65,9 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Peralta homers twice as Tigers advance to WS
 *   Jaime Garcia not having shoulder surgery
 *   Lance Lynn to start Game 5 of NLCS vs. Giants
-*   Belt not in lineup for Game 4 vs. Cardinals
-*   Pence dropped in lineup for Game 4 of NLCS
-*   Beltran (knee) not in lineup for Game 4
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Week 7 Injury Questions Oct 20
+*   Week 7 Starts and Sits Oct 20
 *   Friday Rundown Oct 19
 *   Matchups: Run, DMC Oct 19
 *   Week 7 Chat Recap Oct 19
 *   Beasting On? Oct 19
 *   Week 7 Rankings Oct 18
 *   Week 7 Target Watch: AFC Oct 18
-*   Bullet Proof? Oct 18
-*   Best Available NFL Free Agents Oct 18
 
 PREMIUM CONTENT
 
@@ -106,8 +106,11 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Dwyer to lead committee attack at Cincinnati
+*   Ravens activate Suggs (Achilles) off PUP list
+*   Report: Jimmy Graham not traveling to Tampa
+*   Cowboys WR Bryant expected to play Sunday
 *   Alex Smith's struggles due to injured finger?
-*   Report: Dez Bryant's groin injury is not new
 *   Jimmy Graham questionable, game-day decision
 *   Mendenhall, Redman out for Week 7 at Cincy
 *   Bradshaw sits out, questionable for Sunday
@@ -115,9 +118,6 @@ FANTASY FOOTBALL HEADLINES
 *   Gore is fine after X-rays reveal bruised ribs
 *   Lynch runs for 103 yards in Week 7 loss at SF
 *   Gore shreds Seahawks for 182 yards in TNF win
-*   Report: Vick, Mornhinweg will remain in place
-*   Ngata: Lewis 'vows' to play 18th NFL season
-*   Manningham out, Jacobs in versus Seahawks
 
 NBA PAGES
 
@@ -156,6 +156,7 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Maggette to have MRI on strained left calf
 *   Brook Lopez keeps it rolling with 23 &. 9
 *   Thad Young scores 24 points in start at PF
 *   Dorell Wright goes for 18 &. 11 vs. Nets
@@ -167,7 +168,6 @@ FANTASY BASKETBALL NEWS
 *   Report: Dion Waiters favorite to start at SG
 *   Paul Pierce seen limping after ankle injury
 *   Dwight Howard (back) to return on Sunday
-*   Wade (knee) looks explosive vs. Pistons
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   M.Ryan stars in Assat's win in Finnish League
+*   S. Kostitsyn scores shootout winner Saturday
+*   Anton Khudobin takes 4-1 loss in KHL game
+*   Ovechkin scores in KHL win Saturday
+*   Nino Niederreiter off to sound start in AHL
+*   Adam Henrique off to slow start in Albany
+*   Cody Hodgson setting up goals in AHL
+*   Marcus Foligno off to nice AHL start
+*   Oliver Ekman-Larsson has two goal game
 *   Nicklas Backstrom arrives in Russia
 *   Lehner allows three goals in first 12-13 loss
 *   Jordan Caron leads P-Bruins with a hat trick
-*   NHL slashes all games through November 1
-*   Niedermayer enters the Canadian Sports HoF
-*   Gary Bettman: The Winter Classic is in danger
-*   Sidney Crosby will now explore Europe options
-*   Mark Scheifele lights up Ottawa in OHL win
-*   Gary Bettman disappointed with PA proposals
-*   Report: N. Backstrom to join Ovechkin in KHL
-*   Taylor Hall can participate in contact drills
-*   Is the All-Star Game hanging in the balance?
 
 NASCAR PAGES
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Johnson has best 10-laps in 2nd Cup practice
+*   Greg Biffle tops second Kansas practice
+*   Josh Wise misses Kansas Nationwide field
+*   Morgan Shepherd last in Kansas NNS field
+*   Jeff Green best NNS go-or-go-homer starter
+*   Austin Dillon top ROTY in NNS Kansas field
+*   Logano sets Nationwide pole record in Kansas
 *   Stremme not in Hollywood Casino 400 field
 *   Josh Wise misses Hollywood Casino 400 field
 *   Cole Whitt not in Kansas Cup field
 *   Kelly Bires gets last Cup slot at Kansas
 *   McDowell top Kansas Cup go-or-go-homer
-*   Kahne sets record pole for Kansas Cup race
-*   Joey Logano leads Nationwide Happy Hour
-*   Annett has best 10-laps in 2nd NNS practice
-*   Austin Dillon leads 2nd Nationwide practice
-*   Greg Biffle leads first Kansas Cup practice
-*   Ryan Newman marks milestone start in Kansas
-*   Kyle Busch top 10-laps in 1st NNS practice
 
 GOLF PAGES
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Spurrier: Hope Lattimore plays in late 1st Q
+*   Jarvis Jones will not play Saturday vs UK
+*   Tommy Rees will start at QB for Irish vs BYU
+*   Lutzenkirchen out vs Vandy, season in doubt
+*   Cincy DE Stewart out vs Toledo, maybe longer
+*   Cavs starting RT Moses questionable vs WF
 *   Brooks: 'Word is' Glennon may be 2nd QB
 *   Devils DT Sutton received a 'good prognosis'
 *   McShay: Gillislee, from after thought to 4th
 *   McShay: McCarron may be most underrated QB
 *   McShay: Denard Robinson will go in top 3 rds
 *   Margus Hunt records two sacks vs Houston
-*   Former Vol Ainge advocates to hurt McCarron
-*   McShay: Best situation for Thomas is 2nd/3rd
-*   Mannion will dress for Beavers, could play
-*   Dion Jordan collects two sacks vs Sun Devils
-*   Ducks RB Barner gashes Sun Devils defense
-*   Lattimore won't start, will play vs Gators
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
+*   NFL:Ravens activate Suggs (Achilles) off PUP list
+*   MLB:Jeter undergoes ankle surgery, out 4-5 months
+*   NFL:Graham (ankle) will not make trip to Tampa
+*   NAS:Logano sets Nationwide pole record in Kansas
+*   CFB:Jarvis Jones will not play Saturday vs UK
+*   NFL:Cowboys WR Bryant expected to play Sunday
+*   CFB:Tommy Rees will start at QB for Irish vs BYU
 *   MLB:Zito dazzles in NLCS Game 5 win vs. Cardinals
 *   NAS:Kahne sets record pole for Kansas Cup race
 *   MLB:Yanks intend to pick up option on Granderson
-*   NFL:Report: Dez Bryant's groin injury is not new
 *   NHL:NHL slashes all games through November 1
-*   NFL:Jimmy Graham questionable, game-day decision
-*   NFL:V-Jax leaves practice, still expected to play
-*   NFL:Bradshaw sits out, questionable for Sunday
-*   NFL:Mendenhall, Redman out for Week 7 at Cincy
-*   NBA:Nowitzki (knee surgery) out at least 6 weeks
-*   NFL:Report: Vick, Mornhinweg will remain in place
-*   NBA:Brook Lopez keeps it rolling with 23 &. 9
+*   CFB:Spurrier: Hope Lattimore plays in late 1st Q
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. MurrayNFL (8821)
-*   2T. RichardsonNFL (8748)
-*   3R. MendenhallNFL (7433)
-*   4J. GordonNFL (7159)
-*   5J. GrahamNFL (6995)
+*   1D. MurrayNFL (9002)
+*   2T. RichardsonNFL (8966)
+*   3R. MendenhallNFL (7628)
+*   4J. GordonNFL (7310)
+*   5J. GrahamNFL (7244)
 
-*   6H. NicksNFL (6760)
-*   7F. JonesNFL (6615)
-*   8A. BradshawNFL (6572)
-*   9P. GarconNFL (6500)
-*   10G. JenningsNFL (6456)
+*   6H. NicksNFL (6905)
+*   7A. BradshawNFL (6878)
+*   8F. JonesNFL (6731)
+*   9P. GarconNFL (6636)
+*   10G. JenningsNFL (6612)
 
   
 Video Center
@@ -525,6 +525,8 @@ Video Center
 *   4
 *   »
 
+*      
+    SportsTalk: Week 7 Fear Factor
 *      
     Week 7 Starts &. Sits 4 p.m.
 *      
@@ -539,29 +541,29 @@ Video Center
     Start &. Sit: DEN @ SD
 *      
     Start &. Sit: Packers - Texans
-*      
-    SportsTalk: Last Chances
 
   
   
-  Headlines Friday Rundown  
-Oct 19 Frank DuPont takes his weekly trip through the stats to talk about potential trade targets.  
+  Headlines Week 7 Injury Questions  
+Oct 20 Get caught up on all the hurt folks as we get set for Week 7.  
   
 More NFL Columns
 
+*   »Week 7 Injury Questions Oct 20
+*   »Week 7 Starts and Sits Oct 20
 *   »Friday Rundown Oct 19
 *   »Matchups: Run, DMC Oct 19
 *   »Week 7 Chat Recap Oct 19
 *   »Beasting On? Oct 19
 *   »Week 7 Rankings Oct 18
 *   »Week 7 Target Watch: AFC Oct 18
-*   »Bullet Proof? Oct 18
-*   »Best Available NFL Free Agents Oct 18
 
 NFL Headlines
 
+*   »Ravens activate Suggs (Achilles) off PUP list
+*   »Graham (ankle) will not make trip to Tampa
+*   »Cowboys WR Bryant expected to play Sunday
 *   »Alex Smith's struggles due to injured finger?
-*   »Report: Dez Bryant's groin injury is not new
 *   »Jimmy Graham questionable, game-day decision
 *   »Mendenhall, Redman out for Week 7 at Cincy
 *   »Bradshaw sits out, questionable for Sunday
@@ -570,8 +572,6 @@ NFL Headlines
 *   »Lynch runs for 103 yards in Week 7 loss at SF
 *   »Gore shreds Seahawks for 182 yards in TNF win
 *   »Report: Vick, Mornhinweg will remain in place
-*   »Ngata: Lewis 'vows' to play 18th NFL season
-*   »Manningham out, Jacobs in versus Seahawks
 
 NFL Links
 
