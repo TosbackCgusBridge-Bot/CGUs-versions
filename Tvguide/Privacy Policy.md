@@ -139,9 +139,9 @@ more popular movies Top Videos
 
 1.  The Vampire Diaries
 2.  Arrow
-3.  Supernatural
-4.  Dexter
-5.  Hart of Dixie
+3.  Dexter
+4.  Supernatural
+5.  The Vampire Diaries
 
 more top videos
 
