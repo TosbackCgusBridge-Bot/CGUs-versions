@@ -123,7 +123,7 @@ RegisterSign In Member CenterSign Out Register HOME NEWS MARKETS EARNINGS INVEST
 >   
 
 U.S. Asia-Pacific Europe Economy Energy Green Inside Wealth Politics Technology Blogs Wires Slideshows Special Reports Corrections Pre-Markets World Markets Latin America Stocks Dow 30 Commodities Currencies Bonds Funds Calendar Surprises Highlights Ideas Franchising Financing Management Video Stock Blog Personal Finance CNBC Explains Portfolio Watchlist Stock Screener Fund Screener Earnings Screener Latest Video Top Video US Video Europe Video Asia Video CNBC Explains CNBC PRO CEO Interviews Analyst Interviews CNBC U.S. CNBC Asia Pacific CNBC Europe CNBC World  
-Current DateTime: 07:56:04 19 Oct 2012  
+Current DateTime: 01:05:09 20 Oct 2012  
 LinksList Documentid: 29778429
 
 *   CNBC NEWS
@@ -142,7 +142,7 @@ LinksList Documentid: 29778429
 *   Corrections
 
   
-Current DateTime: 06:23:27 19 Oct 2012  
+Current DateTime: 01:05:10 20 Oct 2012  
 LinksList Documentid: 29778428
 
 *   MARKETS
@@ -156,7 +156,7 @@ LinksList Documentid: 29778428
 *   Funds
 
   
-Current DateTime: 01:05:13 19 Oct 2012  
+Current DateTime: 01:05:10 20 Oct 2012  
 LinksList Documentid: 29779196
 
 *   EARNINGS
@@ -166,7 +166,7 @@ LinksList Documentid: 29779196
 *   Ideas
 
   
-Current DateTime: 07:31:18 19 Oct 2012  
+Current DateTime: 01:05:10 20 Oct 2012  
 LinksList Documentid: 29779197
 
 *   INVESTING
@@ -179,7 +179,7 @@ LinksList Documentid: 29779197
 *   Earnings Screener
 
   
-Current DateTime: 01:05:13 19 Oct 2012  
+Current DateTime: 01:05:10 20 Oct 2012  
 LinksList Documentid: 29779200
 
 *   VIDEO
@@ -193,7 +193,7 @@ LinksList Documentid: 29779200
 *   CNBC Pro
 
   
-Current DateTime: 07:53:44 19 Oct 2012  
+Current DateTime: 01:05:10 20 Oct 2012  
 LinksList Documentid: 29779199
 
 *   CNBC TV
@@ -205,7 +205,7 @@ LinksList Documentid: 29779199
 *   Channel Finder
 
   
-Current DateTime: 07:04:26 19 Oct 2012  
+Current DateTime: 01:05:10 20 Oct 2012  
 LinksList Documentid: 29779198
 
 *   MORE
