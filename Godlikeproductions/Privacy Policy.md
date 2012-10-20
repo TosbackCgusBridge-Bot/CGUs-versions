@@ -1,5 +1,5 @@
   
-Users Online Now: **1,563** (Who's On?) Visitors Today: **336,306** Pageviews Today: **567,209** Threads Today: **343** Posts Today: **4,376** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **2,282** (Who's On?) Visitors Today: **579,599** Pageviews Today: **1,050,110** Threads Today: **619** Posts Today: **8,839** 02:07 PM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,19 @@ trinity@godlikeproductions.com
   
 News
 
+*   Antidepressants Could Make Your Brain Bleed, Cause Hemorrhagic Strokes
+*   RNC up $83 million, DNC taking out loans
+*   1 In 10 People Believes The World Will End In 2012
+*   Mouth burns soon to be healed with an oral strip
+*   Why Is Counterfeit Ketchup Exploding in New Jersey?
+*   Galaxy dance of death creates starburst shockwave
+*   State of Minnesota goes after company for offering free online college courses
+*   Genetically Engineered Gardasil Vaccine May Contain A New Chemical With Untested Toxicity
+*   Orionid Meteor Shower Peaks Tonight: How to Watch Online
+*   Sun Unleashes Huge Solar Plasma Wave
+*   FBI shows up at teenager's home to ask about his Ron Paul school report
+*   Meteorite Impacts Earth in Minden, Louisiana - Media and Government Cover It Up
+*   Inflation-adjusted study shows African king was richest person ever
 *   Pa man calls police: BigFoot smashed windows and tail lights on his motor home
 *   New DHS Program Wants to See If Your Hand Sanitizer Explodes
 *   Federal Gov’t Funding Police Spotters on Overpasses in Two States
@@ -124,19 +137,6 @@ News
 *   Tropical collapse caused by lethal heat: Extreme temperatures blamed for 'dead zone'
 *   Farmer Tackling Monsanto's Seed Policy Gets A Day In Supreme Court
 *   Peanut Butter Recall Now Includes Raw And Roasted Nuts
-*   When They Can't Find Something To Charge You With, They Make It Up
-*   Repost Undercover Cop's Public Facebook Photo, Get Charged With Felony
-*   Google opens window into secretive data centers
-*   Earth-sized planet found just outside solar system
-*   Patent could shackle 3D printers with DRM
-*   9 Supermarket Secrets: What Your Grocer Won’t Tell You
-*   The Next Food Crisis Will Be Caused By Globalist Land-Grabs and Privatization
-*   Obama Administration Knows They're Arming Al Qaeda in Syria
-*   USPS to raise stamps by 1 cent in 2013
-*   America Will Experience Weimar-Style Hyperinflation
-*   Policeman mistakes blind man's stick for Samurai sword
-*   Hollywood's Hysterical "Cancer Screening" Lie for Obama
-*   AT&T Starts Six-Strikes Anti-Piracy Plan Next Month, Will Block Websites
 
   
   
