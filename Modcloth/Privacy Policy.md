@@ -222,9 +222,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Todayâs Special: The Small and Mighty Kumquat
-    *   Meet Mandy of Miss Indie
-    *   Our Contest on Pinterest is Servinâ Up Style!
+    latest blog posts*   Fave Finds: Kristinaâs Darling Dotted Dress &. Silver Pumps
+    *   Video of the Day: The Best of The Supremes on The Ed Sullivan Show
+    *   Todayâs Special: The Small and Mighty Kumquat
     
     *   modcloth blog
     *   In Other Words
