@@ -1,6 +1,6 @@
 RetailMeNot Score the Savings You Want™ Search for savings from your favorite stores Search!
 
-e.g. halloweenfall savingsmacy'skohl'swalgreenstargetamazon
+e.g. halloweenfall savingsmacy'skohl'stargetamazonold navy
 
 *   Coupon Codes
 *   Free Shipping
