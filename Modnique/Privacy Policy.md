@@ -65,23 +65,20 @@ Loading Modnique - Boutique Events
     *   Uomini Italiani Men's Apparel
     *   _more..._
     *   other
-    *   100 best season watch styles
     *   Bottega, Hogan, Jimmy Choo sunglasses
+    *   Rolex
     *   Time for luxury style: designer watches
     *   _more..._
 *   apparel
     *   women
     *   Antique Rivets Denim for Him and Her
-    *   Berek Women's Apparel
     *   Cocktail Glam With Badgley Mischka
-    *   Earth Yoga Women's Apparel
     *   Ellen Tracy Outwear
     *   Golden Silver Women's Apparel
     *   Jantie Women's Apparel Made In USA
     *   John Meyer Missy Women's Suits
     *   Josh Brody mixed apparel
     *   Look of The Day
-    *   Moto Must Haves: Jackets and Boots
     *   RED Valentino Featuring Shoes &. Apparel
     *   Sexy Diva Dresses Made in USA
     *   The Fashion Room from $19
@@ -94,30 +91,28 @@ Loading Modnique - Boutique Events
     *   100 best season jewelry styles
     *   Affordable Jewelry
     *   Boma jewelry
+    *   Designer Jewelry
     *   Designer jewelry: Touch of Color
     *   Dolce &. Gabanna jewelry and Accessories
     *   Dv Italy jewelry
     *   Elegant evening jewelry deals
     *   FPJ jewelry
-    *   Jewelry Box must-haves
     *   Look of The Day
-    *   Sofragem Jewelry
     *   Sparkle &. Shine: Jewelry Favorites
     *   Zoppini &. Manuel Zed Jewelry
     *   _more..._
     *   other
     *   100 best season watch styles
     *   Italian watches from $25
-    *   Ladies Freshwater Pearl Bracelet
+    *   Ladies Simulated Gems Jewelry Set Enamel
     *   Rolex
     *   Time for luxury style: designer watches
-    *   Tonino Lamborghini Watches
     *   _more..._
 *   Handbags &. Accessories
     *   women
-    *   Blumarine, Mariella Burani Handbags and Accessories
     *   Brand Too Hot to Mention: Designer Scarves
     *   Coach handbags
+    *   Designer Jewelry
     *   Dolce &. Gabanna jewelry and Accessories
     *   Elysa handbags
     *   French designers handbags
@@ -130,12 +125,10 @@ Loading Modnique - Boutique Events
     *   _more..._
     *   other
     *   Bottega, Hogan, Jimmy Choo sunglasses
-    *   Calvin Klein Sunglasses
     *   _more..._
 *   shoes
     *   women
     *   Mary-Jane Pumps
-    *   Moto Must Haves: Jackets and Boots
     *   Must-Have Booties
     *   Pointy-Toe Flats
     *   RED Valentino Featuring Shoes &. Apparel
@@ -147,18 +140,12 @@ Loading Modnique - Boutique Events
     *   Red Ginger Cosmetics
     *   Women's Fragrances: Bvlgari, Lanvin, Gucci, Burberry
     *   _more..._
-    *   other
-    *   Aero Minerals ft. Spirit Spray
-    *   _more..._
 *   men
     *   100 best season watch styles
-    *   Aero Minerals ft. Spirit Spray
     *   Bottega, Hogan, Jimmy Choo sunglasses
-    *   Calvin Klein Sunglasses
     *   Italian watches from $25
     *   Rolex
     *   Time for luxury style: designer watches
-    *   Tonino Lamborghini Watches
     *   Uomini Italiani Men's Apparel
     *   Valentino Men's Scarves and Ties
     *   and many more...
