@@ -1,5 +1,5 @@
   
-Users Online Now: **2,290** (Who's On?) Visitors Today: **516,812** Pageviews Today: **887,653** Threads Today: **492** Posts Today: **7,096** 11:00 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,563** (Who's On?) Visitors Today: **336,306** Pageviews Today: **567,209** Threads Today: **343** Posts Today: **4,376** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -138,6 +138,8 @@ News
 *   Hollywood's Hysterical "Cancer Screening" Lie for Obama
 *   AT&T Starts Six-Strikes Anti-Piracy Plan Next Month, Will Block Websites
 
+  
+  
   
   
   
