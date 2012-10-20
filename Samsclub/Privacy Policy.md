@@ -1161,7 +1161,7 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
             **See All**
     *   Holiday
     *   See All
-        *   Apparel &. Shoes Appliances Auto &. Tires Baby Books Child Care &. Schools Cigarettes &. Tobacco Computers Construction &. Repair Convenience Stores Electronics Flowers Furniture Gift Cards Grocery Health Holiday Home Home Improvement Hotel &. Hospitality In Clubs Janitorial &. Cleaning Jewelry New Items Office Outdoor Pet Care Pharmacy Photo Religious Organizations Restaurant Supplies Salons &. Barber Shops Seasonal &. Occasions Sports Toys &. Video Games Vending &. Concession
+        *   Apparel &. Shoes Appliances Auto &. Tires Baby Books Child Care &. Schools Cigarettes &. Tobacco Computers Construction &. Repair Convenience Stores Electronics Flowers Furniture Gift Cards Grocery Health Holiday Holiday Home Home Improvement Hotel &. Hospitality In Clubs Janitorial &. Cleaning Jewelry New Items Office Outdoor Pet Care Pharmacy Photo Religious Organizations Restaurant Supplies Salons &. Barber Shops Seasonal &. Occasions Sports Toys &. Video Games Vending &. Concession
 
 **Club(s) within 50 miles**
 
@@ -1169,7 +1169,7 @@ New Search
 
 **Shop:** All ItemsOnline OnlySpecific Club Location
 
-  All SamsclubAll ProductsApparel &. ShoesAppliancesAuto &. TiresBabyBooksChild Care &. SchoolsCigarettes &. TobaccoComputersConstruction &. RepairConvenience StoresElectronicsFlowersFurnitureGift CardsGroceryHealthHolidayHomeHome ImprovementHotel &. HospitalityIn ClubsJanitorial &. CleaningJewelryNew ItemsOfficeOutdoorPet CarePharmacyPhotoReligious OrganizationsRestaurant SuppliesSalons &. Barber ShopsSeasonal &. OccasionsSportsToys &. Video GamesVending &. Concession   Privacy Policy
+  All SamsclubAll ProductsApparel &. ShoesAppliancesAuto &. TiresBabyBooksChild Care &. SchoolsCigarettes &. TobaccoComputersConstruction &. RepairConvenience StoresElectronicsFlowersFurnitureGift CardsGroceryHealthHolidayHolidayHomeHome ImprovementHotel &. HospitalityIn ClubsJanitorial &. CleaningJewelryNew ItemsOfficeOutdoorPet CarePharmacyPhotoReligious OrganizationsRestaurant SuppliesSalons &. Barber ShopsSeasonal &. OccasionsSportsToys &. Video GamesVending &. Concession   Privacy Policy
 
 *   Highlights
 
