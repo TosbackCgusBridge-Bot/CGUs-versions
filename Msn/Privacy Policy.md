@@ -213,13 +213,13 @@ Close Email A Friend Your email has been sent.
     
     *   MOST WATCHED THIS HOUR
     *   NLCS on FOX: Zito blanks Cardinals
-    *   Fearless Predictions: MSU/MICH
     *   Rosenthal: NLCS Game 6 preview
-    *   Fearless Predictions: SC/FLA
-    *   UFC on FUEL TV: Highlights - UFC 153
-    *   Fearless Predictions: (15) Texas - (13) Oklahoma
     *   Pick Nation: Week 8 CFB picks
+    *   Fearless Predictions: MSU/MICH
+    *   Davis: Week 8 Player Watch
     *   NLCS on FOX: Giants roll past Cardinals
+    *   Pick Nation: Week 7 NFL picks
+    *   Fearless Predictions: SC/FLA
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -509,29 +509,29 @@ If you have questions about this Privacy Policy, please send an email to the app
 *   Bulls win in Wolves' first game without Love
 *   Tech attacks Gophers early in 5-3 upset
 
-*   MOTOGP: Difficult Day For Ducati
-*   MOTOGP: Dovi On Row 1
-*   MOTOGP: Sepang QP Ticker
+*   F1: Ferrari Chose Massa For 'Speed And Harmon...
+*   F1: Grand Prix News Briefs (Update 1)
+*   CUP: Biffle Tops Practice Chart Again
 
-*   Gameday Thread: LSU-Texas A&M
-*   Vikings-Cardinals: Pretenders or contenders?
-*   Oak Mountain Grinds Prattville
+*   GAMEDAY
+*   Game Preview: Alabama at Tennessee
+*   11th Annual Blue/Orange Scrimmage &. BBQ
 
 *   Cooking For The Coaches
 *   Teaser: Fighter Trivia
 *   UFC On FUEL TV 6: Franklin vs. Le Teaser
 
+*   Megatron says Asomugha flopped
 *   DC papers not using 'Redskins' name?
 *   Luongo headed to Toronto?
-*   Fitzgerald blasts Vandy for canceling
 
-*   Cruz Azul rescata empate en Tijuana
-*   Rodney y Posey, Regresos del Año
-*   Cruz gana pelea tras declararse gay
+*   Arsenal se mide al Norwich
+*   El Madrid con bajas recibe al Celta
+*   Juventus vs Napoli: duelo de líderes
 
-*   Premier League: Tottenham vs. Chelsea
-*   Terry remains Chelsea captain
-*   Man City to make huge Falcao bid
+*   Premier League: Norwich City vs. Arsenal
+*   La Liga: Real Madrid vs. Celta da Vigo
+*   Manchester United triumph at home
 
 *   *   NFL
     *   NFL Home
