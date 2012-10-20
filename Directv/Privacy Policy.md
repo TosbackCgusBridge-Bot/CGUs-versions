@@ -1,8 +1,8 @@
 Privacy Policy JavaScript is disabled in your browser. We recommend that you enable JavaScript to optimize your experience on DIRECTV.com. Learn More
 
-*   DXDTPW12A
-*   2990344567
-*   3043043967
+*   DXDTPW13B
+*   2990370342
+*   3043136702
 *   false
 *   false
 *   false
@@ -13,8 +13,7 @@ Privacy Policy JavaScript is disabled in your browser. We recommend that you ena
 *   false
 *   guest
 
-Bundle Internet and phone with DIRECTV. Bundles start at only $79.94**\*** \*After rebate with 24-mo. agreement. ENTERTAINMENT package.  
-Price may vary based on your location. Taxes and fees may apply. Call 1-855-567-1567 Order Now 1-888-777-2454  |  30 million customers strong!**\*** Based on total number of DIRECTV  
+DIRECTV has the most HD channels — now over 170 of your favorite channels in crystal-clear HD. Order Now 1-888-777-2454  |  30 million customers strong!**\*** Based on total number of DIRECTV  
 customers in the US and Latin America. DIRECTV SATELLITE TELEVISION { "email": "", "securedCustomer": false, "autoLoggedIn": false, "pgwsAuthorized": false } Sign In   Create Account
 
 *   Get DIRECTV for:
