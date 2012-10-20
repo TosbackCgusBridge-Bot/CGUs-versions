@@ -23,23 +23,23 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 19 06:00 AM · SMB coming up next:
+schedule right now: October 19 coming up next:
 
-*   8:00 AM · REVENTON
-*   9:00 AM · MORNING BREATH
-*   10:00 AM · L'CREME
-*   11:00 AM · L'CREME
-*   12:00 PM · DELICIOUS
-*   1:00 PM · AL CIEN 100%
-*   2:30 PM · 18 &. OVER
-*   4:00 PM · CHIQUIS 'N CONTROL
-*   5:00 PM · PARTY MIX
-*   6:00 PM · AL CIEN 100%
-*   7:00 PM · OPERACION REPO
-*   7:30 PM · OPERACION REPO
-*   8:00 PM · PREMIOS BILLBOARD DE LA MUSICA MEXICANA
-*   11:00 PM · BELLATOR FIGHTING CHAMPIONSHIPS
 *   1:00 AM · I LOVE JENNI
+*   2:00 AM · PARTY MIX
+*   3:00 AM · MORNING BREATH
+*   4:00 AM · MORNING BREATH
+*   5:00 AM · MORNING BREATH
+*   6:00 AM · SMB
+*   8:00 AM · MORNING BREATH
+*   9:00 AM · LA BARBACOA
+*   10:30 AM · JENNI RIVERA PRESENTS: CHIQUIS &. RAQ-C
+*   11:30 AM · 18 &. OVER
+*   1:00 PM · REVENTON
+*   2:00 PM · I LOVE JENNI
+*   3:00 PM · CHIQUIS 'N CONTROL
+*   4:00 PM · mun2 PRESENTS: BELINDA
+*   5:00 PM · YO ME LLAMO
 
 see full schedule >>.
 
