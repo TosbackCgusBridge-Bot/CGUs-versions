@@ -192,87 +192,87 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 20, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 1:59 PM EDT October 20, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:00a
+/news/latest1.  12:06p
     
-    At the NYSE, Larry Kofsky looks at the Fed meeting
+    Stocks to watch Monday: Caterpillar, Yahoo
     
-2.  6:01a
+2.  12:03p
     
-    Hondaâs renaissance of radical reasonableness
+    China land price rises slow
     
-3.  6:01a
-    
-    Power negotiating after the car warranty expires
-    
-4.  6:01a
-    
-    Apple, tech earnings in investorsâ sights
-    
-5.  11:04p
-    
-    Power 30: health-care honchos
-    
-6.  7:35p
-    
-    Two bank failures take U.S. tally to 46, FDIC says
-    
-7.  7:33p
-    
-    Two bank failures take U.S. tally to 46, FDIC says
-    
-8.  7:02p
-    
-    When and where meteor shower will peak on weekend
-    
-9.  6:32p
-    
-    2 days to vote in Round 2 of our columnist contest
-    
-10.  6:28p
-    
-    Radio Update: Stocks suffer worst day since June
-    
-11.  5:52p
-    
-    Microsoftâs benefit of the doubt is done
-    
-12.  5:43p
-    
-    Fridayâs biggest gaining and declining stocks
-    
-13.  5:39p
-    
-    Capital One shines as credit quality improves
-    
-14.  5:31p
-    
-    GulfSouth Private Bank of Fla. fails, 44th of year
-    
-15.  5:18p
-    
-    Marvell active after hours following dayside rout
-    
-16.  5:00p
+3.  12:00p
     
     U.S. stocks slammed on worst day since June
     
-17.  4:51p
+4.  10:49a
     
-    Stocks, gold, oil tank on earnings. Dollar, Treasurys gain
+    Canada rejects Petronas' $5.2B Progress Energy bid
     
-18.  4:48p
+5.  10:01a
     
-    MarketWatchâs top 10 stories, Oct. 15 - 19
+    401(k) plan perks grow, but savings still lag
     
-19.  4:44p
+6.  10:00a
     
-    Ratings note doesnât help Abbott in sell-off
+    A bicycle built for the 2%
     
-20.  4:30p
+7.  9:07a
     
-    Radio Update: Wall Street tumbles at closing bell
+    Banana Boat sunscreen recalled after burn injuries
+    
+8.  9:02a
+    
+    6 Wall Street blogs you should be reading
+    
+9.  9:01a
+    
+    10 nations that control the worldâs gold
+    
+10.  9:01a
+    
+    Individual investors are destroying their wealth
+    
+11.  9:00a
+    
+    U.S. stocks slammed on worst day since June
+    
+12.  8:08a
+    
+    Schemes that fleece unsuspecting renters
+    
+13.  8:00a
+    
+    At the NYSE, Larry Kofsky looks at the Fed meeting
+    
+14.  6:01a
+    
+    Hondaâs renaissance of radical reasonableness
+    
+15.  6:01a
+    
+    Power negotiating after the car warranty expires
+    
+16.  6:01a
+    
+    Apple, tech earnings in investorsâ sights
+    
+17.  11:04p
+    
+    Power 30: health-care honchos
+    
+18.  7:35p
+    
+    Two bank failures take U.S. tally to 46, FDIC says
+    
+19.  7:33p
+    
+    Two bank failures take U.S. tally to 46, FDIC says
+    
+20.  7:02p
+    
+    When and where meteor shower will peak on weekend
     
 21.  Loading more headlines...
 
@@ -296,10 +296,9 @@ dow /quotes/zigman/627449 13,343.51 -205.43 -1.52% nasdaq /quotes/zigman/123127 
     
     Commodities Corner
     
-    What South African strikes  
-    really mean to metals  
-    As labor unrest in South Africa grows, so has concern over the nationâs production of metals, writes Myra P. Saefong.  
-    /conga/kiosk/wildcard2.html 231666
+    S. African strikes' effect  
+    As labor unrest in South Africa continues to grow, so has the world's concern over the nationâs production of metals, writes Myra P. Saefong.  
+    /conga/kiosk/wildcard2.html 231738
 *   1341573300000 1341792900000
     
     Economy
