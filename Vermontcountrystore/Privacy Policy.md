@@ -41,6 +41,7 @@ Skip to Navigation Skip to Main Content
 *   Sleepwear
     
     *   Women's Sleepwear
+    *   Flannel Sleepwear
     *   New This Season
     *   Eileen West
     *   Lanz of Salzburg
@@ -52,7 +53,6 @@ Skip to Navigation Skip to Main Content
     *   Long Underwear
     *   Slips &. Camisoles
     *   Socks &. Hosiery
-    *   Flannel Sleepwear
     *   Women's Sleepwear Favorites
     *   Nightgowns $39.99 and Less
     *   Robes $49.99 and Less
