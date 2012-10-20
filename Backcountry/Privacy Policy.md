@@ -21,7 +21,9 @@ Backcountry.com
 
 X
 
-*   Men Jackets
+*   Men Our favorite brands
+    
+    Jackets
     
     *   Down Jackets
     *   Men's Fleece Jackets
@@ -91,7 +93,9 @@ X
     *   Skate Shoes
     *   Sandals
     *   More...
-*   Women Jackets
+*   Women Our favorite brands
+    
+    Jackets
     
     *   Fleece Jackets
     *   Down Jackets
@@ -181,7 +185,9 @@ X
     *   Running Shoes
     *   Hiking &. Backpacking Footwear
     *   More...
-*   Kids Boys
+*   Kids Our favorite brands
+    
+    Boys
     
     *   Jackets
     *   Long Underwear &. Baselayers
@@ -221,7 +227,9 @@ X
     *   Kids Socks
     *   Kids' Hats
     *   Infant &. Toddler HatsStrollers and Joggers
-*   Ski Skiing
+*   Ski Our favorite brands
+    
+    Skiing
     
     *   Skis
     *   Women's Skis
@@ -289,7 +297,9 @@ X
     *   Women's
     *   Kids'
     *   Toddlers &. Infants
-*   Hike &. Camp Sleeping Bags
+*   Hike &. Camp Our favorite brands
+    
+    Sleeping Bags
     
     *   Down Sleeping Bags
     *   Synthetic Sleeping Bags
@@ -364,7 +374,9 @@ X
     *   Compasses
     *   GPS
     *   More...
-*   Shoes Socks
+*   Shoes Our favorite brands
+    
+    Socks
     
     *   Hiking Socks
     *   Running Socks
@@ -402,7 +414,9 @@ X
     *   Girls' Boots &. Shoes
     *   Toddler Shoes &. Boots
     *   Infant Shoes &. Boots
-*   Bike Bikes
+*   Bike Our favorite brands
+    
+    Bikes
     
     *   Road
     *   Mountain
@@ -453,7 +467,9 @@ X
     *   GPS/Computers
     *   Sunglasses
     *   More...
-*   More... Accessories
+*   More... Our favorite brands
+    
+    Accessories
     
     *   Sunglasses
     *   Goggles &. Accessories
@@ -766,7 +782,7 @@ Other Liberty Media Companies: QVC - MotoSport
 
 *   **SiteId:** 1
 *   **SiteCode:** bcs
-*   **Profile:** 622283624
+*   **Profile:** 623178412
 *   **User Name:**
 *   **Navigation Last Category:**
 *   **Transient:** true
@@ -775,13 +791,13 @@ Other Liberty Media Companies: QVC - MotoSport
 *   **PriceList:** priceList:listPrices
 *   **SalePriceList:** priceList:salePrices
 *   **Is User Registered?** false
-*   **Session:** A6B327E466383309848D2207EA607C24.atgprod5-prod\_public\_8180
+*   **Session:** 8FBA6A93486DCF3BCD4538C7F067D439.atgprod4-prod\_public\_8180
 *   **protocol:** http
 *   **port:** 80
 *   **storeServerUrl:** http:///Store/home.jsp
 *   **secureStoreServerUrl:** http://www.backcountry.com
 *   **remote ip:** (null)
-*   **x-forwarded-for:** 184.106.117.173, 69.22.154.221, 10.42.6.7
+*   **x-forwarded-for:** 184.106.117.173, 131.103.137.106, 23.61.195.171, 10.42.6.8
 *   Cart Empty  
     
 *   Template parameters
