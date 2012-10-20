@@ -1,4 +1,4 @@
-  Set as Homepage Fri, Oct 19, 2012   3 Heshvan, 5773  
+  Set as Homepage Thu, Oct 18, 2012   2 Heshvan, 5773  
 
 *   *   Breaking News
     *   Diplomacy &. Politics
@@ -180,8 +180,8 @@ Don't have time to read The Jerusalem Post ? Now you can listen to it!   Send F
   Nefesh B'Nefesh Guided Aliyah  
 Already living in Israel? Enjoy the Benefits of Aliyah!   Watch Hadassah LIVE  
 See events from Hadassah Centennial in Jerusalem as they happen   Bank Leumi USA  
-Coast to Coast Financial Expertise   STOP HUNGER  
-For thousands of desperate Israelis who go to bed hungry every night   Up to $ 250,000 Discount  
+Coast to Coast Financial Expertise   This New Year,  
+give a Meir Panim food card. Donate Now   Up to $ 250,000 Discount  
 Mishkenot Ha'uma the Most Desirable Address in Jerusalem   50,000 abortions in Israel  
 every year! EFRAT: Saving Lives of Children   THE ULTIMATE MISSION TO ISRAEL  
 Nov 5-12.2012   Learn Hebrew in 10 days!  
