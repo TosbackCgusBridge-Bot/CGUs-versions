@@ -44,36 +44,36 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
-    *   Antique Rivets Denim for Him and Her
+    *   Bella Pearls
     *   Coach handbags
     *   Dolce &. Gabanna jewelry and Accessories
-    *   Dv Italy jewelry
-    *   Elegant evening jewelry deals
     *   Ellen Tracy Outwear
-    *   French designers handbags
+    *   Fall essentials blowout for her
+    *   Iris Tyler handbags
     *   John Meyer Missy Women's Suits
     *   Josh Brody mixed apparel
-    *   Kenneth Cole Accessories
     *   Kontessa Winter Accssesories Made In Italy
-    *   Look of The Day
-    *   Pointy-Toe Flats
-    *   Red Ginger Cosmetics
+    *   Silver jewelry sale: necklaces &. bracelets
+    *   Teez Her Active Wear
     *   The Fashion Room from $19
     *   Women's Fragrances: Bvlgari, Lanvin, Gucci, Burberry
     *   _more..._
     *   men
-    *   Uomini Italiani Men's Apparel
+    *   Fall essentials blowout for him
     *   _more..._
     *   other
     *   Bottega, Hogan, Jimmy Choo sunglasses
+    *   Designer Watches for Less
+    *   Gemstone jewelry blowout
     *   Rolex
-    *   Time for luxury style: designer watches
+    *   iCanvas Banksy Art
+    *   iPhone Cases
     *   _more..._
 *   apparel
     *   women
     *   Antique Rivets Denim for Him and Her
-    *   Cocktail Glam With Badgley Mischka
     *   Ellen Tracy Outwear
+    *   Fall essentials blowout for her
     *   Golden Silver Women's Apparel
     *   Jantie Women's Apparel Made In USA
     *   John Meyer Missy Women's Suits
@@ -81,15 +81,19 @@ Loading Modnique - Boutique Events
     *   Look of The Day
     *   RED Valentino Featuring Shoes &. Apparel
     *   Sexy Diva Dresses Made in USA
+    *   Teez Her Active Wear
     *   The Fashion Room from $19
+    *   Week in Rewind
     *   _more..._
     *   men
+    *   Fall essentials blowout for him
     *   Uomini Italiani Men's Apparel
     *   _more..._
 *   Jewelry &. Watches
     *   women
     *   100 best season jewelry styles
     *   Affordable Jewelry
+    *   Bella Pearls
     *   Boma jewelry
     *   Designer Jewelry
     *   Designer jewelry: Touch of Color
@@ -98,12 +102,13 @@ Loading Modnique - Boutique Events
     *   Elegant evening jewelry deals
     *   FPJ jewelry
     *   Look of The Day
-    *   Sparkle &. Shine: Jewelry Favorites
+    *   Silver jewelry sale: necklaces &. bracelets
     *   Zoppini &. Manuel Zed Jewelry
     *   _more..._
     *   other
     *   100 best season watch styles
-    *   Italian watches from $25
+    *   Designer Watches for Less
+    *   Gemstone jewelry blowout
     *   Ladies Simulated Gems Jewelry Set Enamel
     *   Rolex
     *   Time for luxury style: designer watches
@@ -116,6 +121,7 @@ Loading Modnique - Boutique Events
     *   Dolce &. Gabanna jewelry and Accessories
     *   Elysa handbags
     *   French designers handbags
+    *   Iris Tyler handbags
     *   Kenneth Cole Accessories
     *   Kontessa Winter Accssesories Made In Italy
     *   Look of The Day
@@ -125,6 +131,7 @@ Loading Modnique - Boutique Events
     *   _more..._
     *   other
     *   Bottega, Hogan, Jimmy Choo sunglasses
+    *   iPhone Cases
     *   _more..._
 *   shoes
     *   women
@@ -143,7 +150,9 @@ Loading Modnique - Boutique Events
 *   men
     *   100 best season watch styles
     *   Bottega, Hogan, Jimmy Choo sunglasses
-    *   Italian watches from $25
+    *   Designer Watches for Less
+    *   Fall essentials blowout for him
+    *   Gemstone jewelry blowout
     *   Rolex
     *   Time for luxury style: designer watches
     *   Uomini Italiani Men's Apparel
