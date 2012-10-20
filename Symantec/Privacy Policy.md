@@ -672,6 +672,9 @@ U.S.A
 **Email:**  
 privacy@symantec.com
 
+**Online:**  
+Norton Support Team Help
+
   
 
 If for any reason you are not satisfied with the response from Symantec to your inquiries regarding your right to privacy, you can contact TRUSTe.
