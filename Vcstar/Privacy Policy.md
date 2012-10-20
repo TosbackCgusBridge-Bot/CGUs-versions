@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 74 comments
+*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 86 comments
+*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 341 comments
+*   Krauthammer: The worst gaffe in debates so far Published 10/18/2012 at 2:51 p.m. 45 comments
 *   Oxnard police say they mistook bystander for suspect, fatally shot him Updated 10/19/2012 at 9:40 a.m.
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 334 comments
-*   Krauthammer: The worst gaffe in debates so far Published 10/18/2012 at 2:51 p.m. 41 comments
-*   Initial victim becomes suspect in Ventura gunfire case Updated 10/19/2012 at 10:07 a.m.
+*   Community divided over dueling education propositions Published 10/19/2012 at 5:53 p.m. 30 comments
 
-Photo Galleries Ventura County's Most Wanted October… Chaotic shooting rattles La Colonia… Football: Ventura vs. Buena
+Photo Galleries Chaotic shooting rattles La Colonia… Ventura County's Most Wanted October… Football: Ventura vs. Buena
 
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 334 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 341 comments
 *   Morning chat Published 10/17/2012 at 12:00 a.m. 111 comments
-*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 74 comments
+*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 86 comments
+*   Morning chat Published 10/19/2012 at 12:00 a.m. 91 comments
 *   Morning chat Published 10/18/2012 at 12:00 a.m. 85 comments
-*   Morning chat Published 10/19/2012 at 12:00 a.m. 82 comments
 
 *   Norovirus outbreak hits Oak Park school Published 10/15/2012 at 5:56 p.m. 8 comments
-*   2 dead after Oxnard police trade gunfire with men Published 10/14/2012 at 2:57 p.m. 0 comments
 *   Oaks Christian might have broken football recruitment rules – Video Published 10/18/2012 at 2:53 p.m. 0 comments
+*   2 dead after Oxnard police trade gunfire with men Published 10/14/2012 at 2:57 p.m. 0 comments
+*   Firefighters battle Lookout Fire near Santa Barbara that threatened about 100 homes Published 10/17/2012 at 10:01 a.m. 0 comments
 *   Scores of dogs seized from Simi Valley home now up for adoption Published 10/17/2012 at 5:35 p.m. 15 comments
-*   Chumash looking to acquire portion of Santa Susana Field Lab Published 10/15/2012 at 6:17 p.m. 20 comments
 
 Weather
 
@@ -660,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 64° Fog/Mist Wind: Calm Today 68° 60° Sat 05:00 PM Cloudy Temp: 66° Sun 05:00 AM Dreary Temp: 57° Sun 05:00 PM Mostly Cloudy Temp: 63°
+Currently 68° Overcast Wind: Calm Today 68° 57° Sat 11:00 PM Dreary Temp: 59° Sun 11:00 AM Mostly Cloudy Temp: 65° Sun 11:00 PM Mostly Clear Temp: 56°
 
-Feels Like: 66°
-
-Humidity: 84%
-
-Precip: 11%
-
-Feels Like: 57°
+Feels Like: 59°
 
 Humidity: 100%
 
 Precip: 11%
 
-Feels Like: 63°
+Feels Like: 65°
 
-Humidity: 87%
+Humidity: 81%
 
 Precip: 11%
+
+Feels Like: 56°
+
+Humidity: 100%
+
+Precip: 6%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
