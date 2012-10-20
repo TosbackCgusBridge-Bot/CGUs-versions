@@ -304,7 +304,7 @@ Last 24 hours
 2.  **Football:** Tottenham Hotspur v Chelsea – as it happened
 3.  **Society:** Trade unions march against cuts
 4.  **Politics:** Alex Salmond's speech at SNP conference: Politics live blog
-5.  **Comment:** The 'plebs' row is a mere sideshow to destructive Tory incompetence | Polly Toynbee
+5.  **News:** Eyewitness: Anti-austerity march, London
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,11 +312,11 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Strictly Come Dancing 2012 live blog: third live show
-2.  2\. Norwich City v Arsenal – live!
-3.  3\. Football League: your thoughts
-4.  4\. Frankel must now prove his worth from scratch in an entirely new field
-5.  5\. Mike Ross powers Leinster to workaday Heineken Cup victory at Scarlets
+1.  1.  Norwich City v Arsenal – live!
+2.  2\. Strictly Come Dancing 2012 live blog: third live show
+3.  3\. SPL round-up: Murray Davidson scores as Saints move up to second place
+4.  4\. Football League: your thoughts
+5.  5\. Frankel must now prove his worth from scratch in an entirely new field
 6.  All today's stories
 
 On the Guardian today
