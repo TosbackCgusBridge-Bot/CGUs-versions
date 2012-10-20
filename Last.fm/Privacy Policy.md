@@ -227,7 +227,7 @@ This Privacy Policy is effective as of 26 June 2012.
     Music Manager
     
 
-> “Last.fm Is Our Middle Name.”
+> “Bet You Can't Eat Last.fm.”
 
 BNET | CBS Cares | CBS Films | CBS Radio | CBS.com | CBSInteractive | CBSNews.com | CBSSports.com | CHOW | CNET | College Network | Find Articles | GameSpot | Help.com | Last.fm | MaxPreps | Metacritic.com | Moneywatch | mySimon | Radio.com | Search.com | Shopper.com | Showtime | SmartPlanet | TechRepublic | The Insider | TV.com | UrbanBaby.com | ZDNet © 2012 Last.fm Ltd. All rights reserved. | Terms of Use, Privacy Policy and Cookie Policy | Updated July 4, 2012  
 
