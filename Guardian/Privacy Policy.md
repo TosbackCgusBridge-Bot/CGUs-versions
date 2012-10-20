@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Politics:** Nick Griffin posts address of B&B case gay couple online
-2.  2\. **Media:** Kerry Katona: traumatised by Jimmy Savile looking at her 'in a pervy way'
-3.  3\. **Technology:** Google shares suspended after accidental email wipes $22bn off value
-4.  4\. **Football:** Serbian FA appears to post video accusing Danny Rose of lying
-5.  5\. **Fashion:** Abercrombie &. Fitch boss's jet rules: wear flip-flops and play Phil Collins
+1.  1.  **News:** Obama heads to Camp David to prepare for crucial final debate
+2.  2\. **Media:** David Mitchell: goodbye lonely nerd
+3.  3\. **Football:** Sheffield Wednesday's Chris Kirkland attacked by Leeds fan in draw
+4.  4\. **Football:** Sheffield Wednesday's Dave Jones calls for away ban on Leeds fans
+5.  5\. **Politics:** George Osborne raises standard in first-class train row
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Comment:** The stats quiz that tests your vulnerability to spin
-2.  **Stage:** Dara Ó Briain – review
-3.  **Travel:** James Bond on location: 007 holiday destinations– in pictures
-4.  **Science:** Meteor breaks up over San Jose - video
-5.  **Money:** Energy firms to be forced to tell customers of cheapest tariff
+1.  **Media:** Channel 4 consigns Time Team to TV history
+2.  **Life &. style:** Sudoku 2,323 hard
+3.  **Books:** Days 1-6: creating your preliminary outline with characters, setting and plot
+4.  **Culture:** Destination Star Trek London at the ExCeL - in pictures
+5.  **Sport:** Lance Armstrong dodges doping allegations at Livestrong anniversary
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,11 +312,11 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Nato debate at SNP conference: Politics live blog
-2.  2\. Anniversary of Gaddafi's death: Is Libya better or worse off? Open thread
-3.  3\. David Cameron begins battle over Britain's relationship with EU
-4.  4\. Queens Park Rangers v Everton: Squad sheets
-5.  5\. Picture desk live: the best news pictures of the day
+1.  1.  Tottenham Hotspur v Chelsea – live!
+2.  2\. Trade unions march against cuts
+3.  3\. Alex Salmond's speech at SNP conference: Politics live blog
+4.  4\. The 'plebs' row is a mere sideshow to destructive Tory incompetence | Polly Toynbee
+5.  5\. Gaza-bound ship Estelle intercepted by Israeli forces
 6.  All today's stories
 
 On the Guardian today
