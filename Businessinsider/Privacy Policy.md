@@ -10,19 +10,19 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
     *   Tools
     *   Media
     *   Enterprise
-    *   ScienceMarc Benioff: Windows 8 Is Going To Be 'The End Of Windows' Marc Benioff: Windows 8 Is Going To Be 'The End Of Windows' Meet Alto, The Gmail Replacement You Won't Believe Was Made By AOL REPORT: Murdoch Is Thinking About Buying LA Times And Chicago Tribune A Rare Look Inside Huawei, The Shadowy Chinese Tech Company Accused Of Spying On America The Orionid Meteor Shower Is Coming—Expect To See Explosions
+    *   ScienceNew Pictures Of The 13-Inch Retina MacBook Pro Apple Is Announcing Next Week New Pictures Of The 13-Inch Retina MacBook Pro Apple Is Announcing Next Week Meet Alto, The Gmail Replacement You Won't Believe Was Made By AOL REPORT: Murdoch Is Thinking About Buying LA Times And Chicago Tribune A Rare Look Inside Huawei, The Shadowy Chinese Tech Company Accused Of Spying On America The Orionid Meteor Shower Is Coming—Expect To See Explosions
 *   Finance
     *   Clusterstock
     *   Your Money
-    *   Broker CenterGoldman Sachs Burns The New York Times In One Of The Best Corporate Tweets Of All Time Goldman Sachs Burns The New York Times In One Of The Best Corporate Tweets Of All Time After I Dissed North Dakota, The State Flew Me To Fargo To Prove Me Wrong Goldman Sachs Burns The New York Times In One Of The Best Corporate Tweets Of All Time
-*   Markets STOCKS GET CRUSHED: Here's What You Need To Know
+    *   Broker CenterPeople Are Talking About A National Debt Solution That Might Actually Make Your Brain Hurt People Are Talking About A National Debt Solution That Might Actually Make Your Brain Hurt After I Dissed North Dakota, The State Flew Me To Fargo To Prove Me Wrong People Are Talking About A National Debt Solution That Might Actually Make Your Brain Hurt
+*   Markets People Are Talking About A National Debt Solution That Might Actually Make Your Brain Hurt
 *   Politics
     *   Politics
     *   Defense
-    *   Law &. OrderWhat Barack Obama Looks Like When He's Back On His Game What Barack Obama Looks Like When He's Back On His Game British Explorer Prepares To Dig Up 140 Mint Condition Spitfires That Were Buried In 1945 25 Adorable Pictures Of Inmates Training Shelter Dogs
+    *   Law &. OrderWhat Barack Obama Looks Like When He's Back On His Game What Barack Obama Looks Like When He's Back On His Game This F-15 Aerial Dogfighting Video Was Shot Entirely By Pilots 25 Adorable Pictures Of Inmates Training Shelter Dogs
 *   Strategy
     *   Strategy
-    *   CareersJeff Bezos: People Who Are Right Are People That Change Their Mind A Lot Jeff Bezos: People Who Are Right Are People That Change Their Mind A Lot HEADHUNTER: This Is How We Poach People And How You Can Get On Our Radar
+    *   CareersThe Best Leaders Know How To Respond To Uncertainty The Best Leaders Know How To Respond To Uncertainty HEADHUNTER: This Is How We Poach People And How You Can Get On Our Radar
 *   Entertainment 'Heil Honey I’m Home': The Nazi-Themed Sitcom Canceled After One Episode
 *   Advertising These Cats That Look Like Pinup Girls Are Actually Extremely Clever Ads
 *   Retail Chipotle's Former Chairman Got Pretty Mad When We Asked Him About David Einhorn
@@ -54,7 +54,7 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
 
 *   Follow us on Facebook and get updates from Business Insider posted directly to your news feed  
 
-Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,527
+Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,528
 
 *   Email
 *   More Share on Tumblr
@@ -238,22 +238,22 @@ Small Business: Big Results
 
 Most Read Read  Commented  Recommended 
 
-*   These Pictures May Give You Nightmares About The Canada Oil Sands 1,062,596 Views
+*   These Pictures May Give You Nightmares About The Canada Oil Sands 1,092,919 Views
     
-*   This Story Of A Seven-Month Afghanistan Deployment Is The Grittiest You Will Ever Read 355,947 Views
+*   There Is Simply No Other Plane In The World Like Air Force One 404,957 Views
     
-*   There Is Simply No Other Plane In The World Like Air Force One 251,203 Views
+*   This Story Of A Seven-Month Afghanistan Deployment Is The Grittiest You Will Ever Read 362,562 Views
     
-*   Take A Tour Of The New Most Expensive Zip Code In America 245,781 Views
+*   Meet Alto, The Gmail Replacement You Won't Believe Was Made By AOL 253,824 Views
     
 
-*   GALLUP: Mitt Romney Now Has A Gigantic 6-Point Lead Over Obama 209 Comments
-    
 *   ROMNEY STORMS TO HUGE 7-POINT LEAD IN NEW GALLUP POLL 118 Comments
     
-*   These Pictures May Give You Nightmares About The Canada Oil Sands 113 Comments
+*   These Pictures May Give You Nightmares About The Canada Oil Sands 114 Comments
     
-*   WAIT! Obama Has Re-Taken The Lead In An Average Of National Polls 105 Comments
+*   WAIT! Obama Has Re-Taken The Lead In An Average Of National Polls 107 Comments
+    
+*   Things Are Shaping Up Beautifully For President Romney's First Year 99 Comments
     
 
 Loading, please wait...
@@ -272,9 +272,9 @@ See All Jobs Startup Document Center Templates To Jump Start Your Business Busin
 By-Laws Financial  
 Model See All » Read Me Henry Blodget
 
-| Here's Why Google's Stock Tanked \[ANALYSIS\] 28
+| For Whom The Bell Tolls? It Tolls For TV... 28
 
-Small miss at Google, big miss at the dying elephant known as Motorola.
+Go ahead and keep your head stuffed in the sand if you like, but viewing habits have started to change.
 
 Joe Weisenthal
 
@@ -290,16 +290,16 @@ Michael
 
 Wolf Richter
 
-| Nigeria’s Oil And Gas Nightmare Keeps Getting Worse
+| Nigeria’s Oil And Gas Nightmare Keeps Getting Worse 1
 
 The Hive About The Hive » What Smart People Are Reading Right Now
 
 *   The Critic Wall Street Loves To Lunch With Republic 7
+*   Why Roger Ailes Won't Walk Away 3
 *   Cover Story: Mitt Romney's Tattoos, After Norman Rockwell : The New Yorker 3
-*   Obama for president - Tampa Bay Times 3
 
+*   Obama for president - Tampa Bay Times 3
 *   Made in Ohio - Obama for America TV Ad 3
-*   Endorsement: Barack Obama for president Post 3
 
 More Less See All » Advertisement Thanks to our partners
 
