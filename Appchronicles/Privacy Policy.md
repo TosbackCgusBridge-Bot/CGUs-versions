@@ -21,17 +21,17 @@
     *   Best iPhone Apps
 *   Walkthrough
 
-  Best Free Apps of the Day
+  Best Free Apps of the Day!
 
-Tubebox &. more!
+Extreme Fx, &. More!
 
-  Rayman Jungle Run
+  Hot New Games This Week!
+
+True Skate &. More!
+
+    Rayman Jungle Run
 
 Review
-
-    New and Upcoming MMORPG's
-
-Arcane Legends, Armed Heroes, &. More!
 
   Our Top Rated iPad Apps Rayman Jungle Run  
   
@@ -88,9 +88,9 @@ Related Posts
 
 None
 
-  Phantasy Star Online 2
+  New and Upcoming MMORPG's
 
-New Details Emerges
+Arcane Legends, Armed Heroes, &. More!
 
     Lili Review
 
