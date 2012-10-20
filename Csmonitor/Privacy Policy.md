@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  iPad Mini set to debut Oct. 23, arrive on doorsteps Nov. 2: report
-2.  China's naval exercises in East China Sea send warning to regional rivals
-3.  2014 Corvette so different, GM will shut down plant to retool
-4.  Google could disappear in five years. Here's why.
-5.  Presidential debate 101: Where did Romney get those 'binders full of women'?
+1.  George Zimmerman judge OKs question: Who was the real Trayvon Martin?
+2.  2014 Corvette so different, GM will shut down plant to retool
+3.  China's naval exercises in East China Sea send warning to regional rivals
+4.  Romney’s wavering path on abortion. Do voters care?
+5.  iPad Mini set to debut Oct. 23, arrive on doorsteps Nov. 2: report
 
 About these ads
 
@@ -111,15 +111,15 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Difference Maker  
-    Steven Amstrup says it's not too late to save polar bears – and ourselves
+*   Progress Watch  
+    Why teen drinking and driving has been cut in half in past 20 years
     
-    'We know the answer to what it takes to save' polar bears, says environmental prize winner Steven Amstrup, who has gone to the Arctic to study the bears for 30 years.
+    Nine out of 10 high-schoolers chose not to drink and drive in 2011, according to the CDC. Safety advocacy groups and government agencies have worked with youths and parents on the issue.
     
+*   Difference Maker: Steven Amstrup says it's not too late to save polar bears – and ourselves
 *   Orionid meteor shower: Watch for fireballs during weekend peak
 *   Can Republicans increase their ranks of governors? Four races to watch.
 *   Opinion: Millennial generation could kill the NFL
-*   Global News Blog: Good reads: a 'hidden' nuclear crisis, how China sees the US, and 'Chilecon Valley'
 
 _Photos of the day_ 10.19.12 » Photos of the Day 10/19
 
@@ -143,6 +143,7 @@ Steven Amstrup says it's not too late to save polar bears – and ourselves
 
 Become part of the Monitor community
 
+*   Science ‘Beetlejuice’ sparks? Meteor shower brings 'shooting stars' and 'earthgrazers'
 *   The Culture Helen Hunt stars in 'The Sessions' (+trailer)
 *   USA Presidential debate: How would you rate this musical parody? (+video)
 *   The Culture A middle school turns out chess champions in 'Brooklyn Castle'
