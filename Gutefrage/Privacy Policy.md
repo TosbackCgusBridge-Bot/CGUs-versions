@@ -196,7 +196,7 @@ Registrieren Login
     
     Punkte:
     
-    1605
+    4091
     
     Level:
     
@@ -206,36 +206,36 @@ Registrieren Login
     
     Punkte:
     
-    769
+    1391
     
     Level:
     
     sassbar
     
-3.  y45dada
+3.  PeAcMaKeR
     
     Punkte:
     
-    756
+    1336
     
     Level:
     
-    y45dada
+    PeAcMaKeR
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.287.463 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.290.659 gute Fragen_
 
-*   29 Hass gegenueber meinen Mitmenschen.........
-*   22 Gute Musik die sozusagen unter die Haut geht?
-*   20 Alkohol zerstÃ¶rt Ehe
+*   35 Hass gegenueber meinen Mitmenschen.........
+*   31 Gute Musik die sozusagen unter die Haut geht?
+*   23 Alkohol zerstÃ¶rt Ehe
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
-*   KÃ¼rbis-Pfannkuchen zubereiten
 *   Anime Zeichnung
+*   KÃ¼rbis-Pfannkuchen zubereiten
 
 *   Anleitung: Antistress-Ball basteln
-*   HaferflockenplÃ¤tzchen backen
+*   Basteln im Herbst: SchÃ¶ne Fenster-Deko selber machen
 
 gutefrage.net in Zahlen
 
