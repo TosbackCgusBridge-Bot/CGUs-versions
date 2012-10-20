@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Nigella Kitchen UP NEXT › Nigella Kitchen
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Man v Food Nati... UP NEXT › Man v Food Nati...
 
 *   Channel  
     Guide
@@ -276,6 +276,7 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   Recipe of the Day: Blueberry Bakewell with Raspberry Chantilly from @eatmypies t.co/Uj5laZlY #recipe
 *   All your favourite Andy Bates recipes in one place: t.co/watroAxH #StreetFeastsUSA
 *   Enter our competition for your chance to win 1 of 100 @alaskaseafooduk cookbooks: t.co/xWQo8zjs #competition
 *   @dalepakfoods our thoughts exactly!! ;)
@@ -285,7 +286,6 @@ Your email address:
 *   Whether you’re after burgers or brownies, we’ve got the latest recipes from Andy Bates t.co/IIR7r2F9 #StreetFeastsUSA
 *   @katekatekoala thank you, it was at Avista, Grosvenor Sq.
 *   Plum tart, vanilla ice cream, sesame tuile and plum compote #excusethebadlight t.co/O7K1CugC
-*   Bit stuffed from the @nibblr #nibblrlaunch. Food was a-maz-ing.
 
 Follow Us
 
