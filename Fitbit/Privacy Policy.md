@@ -184,10 +184,10 @@ Help
 
 Device Help
 
-*   Fitbit Zip Help
-*   Fitbit One Help
-*   Fitbit Ultra Help
-*   Fitbit Aria Help
+*   Zip Tracker Help
+*   One Tracker Help
+*   Ultra Tracker Help
+*   Aria Scale Help
 
 Services
 
