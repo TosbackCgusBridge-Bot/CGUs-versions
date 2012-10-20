@@ -12,11 +12,11 @@ Sign In
 
 Mitt Romney
 
-Romney ad envisions second Obama term
+For Obama, Romney, last debate is key
 
 Libya
 
-Could U.S. military have helped during Libya attack?
+Former Gadhafi spokesman captured in Libya
 
 Politix
 
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
- 
+  Ads by Glam
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 105,371 • Total comments across all topics: 188,595,737
+Comments made yesterday: 100,339 • Total comments across all topics: 188,618,263
 
 Copyright ©2012 Topix LLC
 
