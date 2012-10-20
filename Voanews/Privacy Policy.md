@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Peace Envoy Holds Talks in Damascus
-*   Lebanese Cabinet Holds Emergency Meeting
+*   International Peace Envoy in Damascus
+*   Tensions High in Lebanon
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
