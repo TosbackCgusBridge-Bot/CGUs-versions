@@ -113,8 +113,8 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report The Atlantic Election 2012  
-_The Atlantic_'s full coverage of the battles for the White House, Senate, and more. Read more › Just In James Fallows 11:55 AM ET Inside Foxconn #3: Some Dormitories 1350748520 Voices
+Special Report woodleywonderworks/Flickr Why American Students Can't Write  
+An _Atlantic_ debate about how to teach writing, and why it matters Read more › Just In James Fallows 11:55 AM ET Inside Foxconn #3: Some Dormitories 1350748520 Voices
 
 *   James Fallows Inside Foxconn #3: Some Dormitories 11:55 AM ET
 *   Derek Thompson What Happens If TV Goes the Way of Music and… Oct 19, 2012
@@ -190,11 +190,11 @@ Can Your Boss Threaten to Fire You if You Don't Vote for Romney?
 
 3
 
-A Guy Who \*Saw\* Lincoln Get Shot Was on a TV Show in 1956 That Is Now on YouTube
+What Happens If TV Goes the Way of Music and Newspapers?
 
 4
 
-What Happens If TV Goes the Way of Music and Newspapers?
+A Guy Who \*Saw\* Lincoln Get Shot Was on a TV Show in 1956 That Is Now on YouTube
 
 5
 
@@ -202,11 +202,11 @@ All the Small Places in North Dakota
 
 6
 
-'Sex Addiction' Redefined
+Robots at Work and Play
 
 7
 
-Robots at Work and Play
+'Sex Addiction' Redefined
 
 8
 
@@ -218,7 +218,7 @@ Why Women Still Can’t Have It All
 
 10
 
-A Trip to the Faroe Islands
+Um, What's That Bright, Shiny Thing Curiosity Just Found on Mars?
 
 *   Subscribe Help
 *   Faq
