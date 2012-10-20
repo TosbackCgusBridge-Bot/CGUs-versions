@@ -143,13 +143,21 @@ Naples Daily News
 *   Cars
 *   Classified
 
-*   Breaking News
-    
-    Shooting reported at 7-11. man shot multiple times |
-    
 *   PrepZone: Football
     
-    Live chat begins at 7 p.m. | Preview | Local Rivalries | Blog | Twitter | Send Us Your Fan Photos | More »
+    Scores &. Chat Archive | Naples vs. Palmetto Ridge | Barron Collier vs. Immokalee | Cypress Lake vs. Estero
+    
+*   PrepZone: Game Photos
+    
+    Lely vs. Golden Gate | Port Charlotte vs. Gulf Coast | Send Us Your Photos »
+    
+*   PrepZone: Game Videos
+    
+    Lely vs. Golden Gate | Naples vs. Palmetto Ridge | South Fort Myers vs. Island Coast
+    
+*   PrepZone: Game Videos
+    
+    Port Charlotte vs. Gulf Coast | Estero vs. Cypress Lake | More Videos »
     
 
 Privacy Policy
@@ -444,25 +452,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Ryan: Florida to decide 'what kind of country we're going to have' Updated 10/18/2012 at 9:50 p.m. 119 comments
-*   Planned North Naples resort community more proof local economy on rebound, some say Updated 10/18/2012 at 6:59 a.m. 52 comments
-*   Witnesses: Deputy shot man outside of 7-Eleven in East Naples Updated 10/19/2012 at 10:49 a.m. 10 comments
-*   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 53 comments
-*   Deputies: Intoxicated man causes disturbance, urinates on jail floor Published 10/18/2012 at 7:06 p.m. 24 comments
+*   Witnesses: Deputy shot man outside of 7-Eleven in East Naples Updated 10/19/2012 at 11:34 a.m.
+*   Collier deputy shoots man who had fake gun Published 10/19/2012 at 2:59 p.m.
+*   Obama declares Collier County and 10 other Fla. counties disaster areas Published 10/19/2012 at 9:43 a.m. 29 comments
+*   Prep Football: Chat, scores, videos, photos and stories from Week 8 Updated 10/19/2012 at 11:33 p.m. 0 comments
+*   Ryan: Florida to decide 'what kind of country we're going to have' Updated 10/18/2012 at 9:50 p.m. 195 comments
 
-Photo Galleries Editorial Cartoons: Oct. 17, 2012 Catch of the Day: Oct. 18, 2012 Paul Ryan rallies in Fort Myers
+Photo Galleries 7-Eleven Shooting Editorial Cartoons: Oct. 17, 2012 Prep Football: Naples vs. Palmetto Ridge
 
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 408 comments
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 285 comments
-*   Ryan: Florida to decide 'what kind of country we're going to have' Published 10/18/2012 at 1:01 p.m. 119 comments
-*   Obama, Romney seek support from women after debate Published 10/17/2012 at 8:59 p.m. 88 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 409 comments
+*   Ryan: Florida to decide 'what kind of country we're going to have' Published 10/18/2012 at 1:01 p.m. 195 comments
+*   Obama, Romney seek support from women after debate Published 10/17/2012 at 8:59 p.m. 89 comments
+*   Witnesses: Deputy shot man outside of 7-Eleven in East Naples Published 10/19/2012 at 9:27 a.m.
 *   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 53 comments
 
 *   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
-*   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 52 comments
+*   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 54 comments
 *   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 10 comments
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 285 comments
-*   Teachers take on kids' nutrition with a book set in Naples Published 10/9/2012 at 4:00 a.m. 0 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 288 comments
+*   In the Know: What can and can't be recycled in Collier County? Published 10/15/2012 at 5:00 a.m. 12 comments
 
 Weather
 
@@ -470,40 +478,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 77° Partly Cloudy Wind: Calm Today 84° 73° Fri 11:00 PM Partly Cloudy Showers Temp: 78° Sat 11:00 AM Mostly Sunny Temp: 82° Sat 11:00 PM Clear Temp: 75°
+Currently 75° A Few Clouds Wind: Calm Today 85° 73° Sat 08:00 PM Mostly Clear Temp: 78° Sun 08:00 AM Mostly Sunny Temp: 68° Sun 08:00 PM Mostly Clear Temp: 77°
 
 Feels Like: 78°
 
-Humidity: 79%
-
-Precip: 20%
-
-Feels Like: 84°
-
-Humidity: 60%
+Humidity: 67%
 
 Precip: 10%
 
-Feels Like: 75°
+Feels Like: 68°
 
-Humidity: 66%
+Humidity: 73%
 
-Precip: 10%
+Precip: 2%
+
+Feels Like: 77°
+
+Humidity: 54%
+
+Precip: 5%
 
 More Weather » Calendar
 
-*   Friday Oct 19
 *   Saturday Oct 20
 *   Sunday Oct 21
+*   Monday Oct 22
 *   More BROWSE Icon
-
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   CREW Stanley Hole Benefit Golf Tournament Old Corkscrew Golf Club 8 a.m.
-*   Baby boot camp Miromar Outlets 9 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Ten Thousand Islands Kayak with Up A Creek KAyak Tours Goodland County Boat Park 9 a.m.
-
-More Events »
 
 *   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
 *   Estero Community Park Yard Sale Estero Community Park &. Recreation Center 7:30 a.m.
@@ -521,6 +521,14 @@ More Events »
 
 More Events »
 
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Baby boot camp Miromar Outlets 9 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Mangrove Estuary Kayak Tour with Up A Creek Kayak Tours Waters of Rookery Bay Reserve 9 a.m.
+*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
@@ -529,39 +537,43 @@ More Events » Features
     
     Search for local Halloween events &. enter our costume contest.
     
-    Editorial Cartoons
+    Our World
     
-    Check out our galleries of editorial cartoons about current events or personalities.
+    Column looks at SW Florida through eyes of Daily News photojournalists.
+    
+    Prep football
+    
+    Find videos, photos from Friday's high school football games.
+    
+*   At the Movies
+    
+    Find movie showtimes, trailers, box office results and read the latest reviews.
     
     Interactive map
     
     Search for local farmers markets in Collier and Lee counties.
     
-*   Hot Home Sales
+    Hot Home Sales
     
     Pictures, info about recently sold single-family homes in Collier and Lee.
+    
+*   Football Rivalries
+    
+    Some high school football games are played for pride and bragging rights.
     
     NewsMakers
     
     Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
     
-    Presidential Debate
-    
-    An aggressive President Barack Obama ripped into Mitt Romney's economic blueprint.
-    
-*   Mugshots
+    Mugshots
     
     Looking for daily arrest mugshots? You can find them here in our special section.
     
-    Here's to our Heroes
+*   Here's to our Heroes
     
     They put others before themselves. see problems &. solve them. Your nomination »
     
-    Football Rivalries
-    
-    Some high school football games are played for pride and bragging rights.
-    
-*   Swing State
+    Swing State
     
     On Nov. 6, voters will decide whether Florida will swing Red or Blue. Learn about project »
     
@@ -569,10 +581,7 @@ More Events » Features
     
     See photos from local anglers with their biggest catch of the day. Submit your photos.
     
-    f Our World
-    
-    Column looks at SW Florida through eyes of Daily News photojournalists.
-    
+    f
 
 Useful Links:
 
