@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Friday 19 October 2012
+Saturday 20 October 2012
 
 *   Home
 *   News
@@ -138,11 +138,13 @@ In About us
 
 Editor's Choice »
 
-The world's greatest racehorse  
+Hollywood Costume, V&A, review  
 
-**Brian Viner** talks to Frankel's trainer, and others who know the world's greatest racehorse.
+The Hollywood Costume exhibition provides a sometimes crumpled insight into iconic celluloid moments, writes **Sarah Crompton.**
 
-Rooney: 10 of his best Energy prices: Turning up the political heat Is America ready for David Morrissey? Halo 4, preview Advertisement
+Comments
+
+Xanthe Clay meets Madhur Jaffrey London's rooftop gardens from the air 10 homes with a James Bond connection California and the vin de garage Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
