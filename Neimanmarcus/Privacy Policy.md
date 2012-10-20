@@ -174,9 +174,7 @@ Dallas, TX 75265-0589**
     *   Accessories
     *   Sandals
     *   Skirts
-*   *   Evening Dresses
-    *   Women's Sweaters
-    *   Designer Jewelry
+*   *   Designer Jewelry
     *   Pumps
     *   Men's Suits
     *   Women's Boots
