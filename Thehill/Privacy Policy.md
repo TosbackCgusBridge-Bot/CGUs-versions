@@ -212,105 +212,105 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Romney has edge in key national poll, but swing states remain closeObama spinning toward a lossFirst lady: President 'didn't point fingers, didn't place blame'Obama campaign ‘absolutely not’ giving up in Fla., NC, Va.Obama on Libya: 'If four Americans get killed, it's not optimal'
+GOP sees food fight as kids trash USDA fruit, vegetable guidelines Obama spinning toward a lossObama under pressure to spell out his agenda for a second termReport: White House adds intelligence-sharing measure to draft cyber orderGallup daily: Romney's lead loses a point
 
 Emailed
 
-Romney has edge in key national poll, but swing states remain closeReagan 1984, Obama 2012Obama spinning toward a lossAmerican Crossroads video charges Obama misled public on BenghaziFirst lady: President 'didn't point fingers, didn't place blame'
+Obama spinning toward a lossReagan 1984, Obama 2012GOP sees food fight as kids trash USDA fruit, vegetable guidelines Women, Ohio and the Clintons will make the difference for DemocratsIssa takes aim at President Obama with investigation of Libya attack
 
 Discussed
 
-Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'Professors donate to Obama, opine about election in news articlesFirst lady: President 'didn't point fingers, didn't place blame'More bad news for Mitt Romney Moderator Crowley helps Obama rebut Romney on Libya
+Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'Professors donate to Obama, opine about election in news articlesFirst lady: President 'didn't point fingers, didn't place blame'Obama spinning toward a lossMore bad news for Mitt Romney
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   New York Mayor Bloomberg suggests super-PAC is just the beginning
-*   Team Obama: We're winning Ohio among early voters
-*   MORNING READ
+*   In GOP address, Flake hammers Obama on deficit, unemployment
+*   New Obama ad labels Romney 'not one of us'
+*   DAY'S END ROUNDUP
 
   
 More Briefing Room » Congress Blog
 
-*   Labor law change would threaten U.S. businesses
-*   The reality of freedom of expression in the Muslim world
-*   Belligerence is not a strategy for the Middle East
+*   Mitt Romney: The amazing 'Zelig' candidacy
+*   Obama's hold on Latino vote not so cut and dry
+*   States undercuttng historic mortgage settlement
 
   
 More Congress Blog » Pundits Blog
 
+*   Romney recruits qualified women, gets slammed
+*   Women, Ohio and the Clintons will make the difference for Democrats
 *   Assigning responsibility
-*   Binders and blinders
-*   War on women
 
   
 More Pundits Blog » Twitter Room
 
-*   NRCC runs contest for anti-Pelosi slogans
-*   Michelle Obama promotes voting-themed Pinterest contest
-*   Pelosi averts 'post-apocalyptic' moment for NPR host
+*   White House, Dems 'go purple' for Spirit Day
+*   Rep. Schweikert votes for Snickers
+*   ‘Romnesia’ takes off on Twitter
 
   
 More Twitter Room » Hillicon Valley
 
-*   News bites: Softbank CEO not ruling out further deals in U.S.
-*   FTC offers $50,000 for best technology to combat illegal calls
-*   MPAA 'skeptical' of Megaupload founder's new service
+*   Report: White House adds intelligence-sharing measure to draft cyber order
+*   Study: Two-thirds of social media users are engaged in political activity
+*   Google finds debate viewers turn to phones for info
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   News bites: Gulf oil sheen from BP containment dome
-*   Military vets press GOP on wind credit
-*   Clinton: Rules of road needed to prevent Arctic ‘catastrophe’
+*   Lawyer who led GOP's Solyndra probe returns to lobby firm
+*   Swing-state paper cites energy plans in Obama endorsement
+*   Wind credit uncertainty dents GE revenues
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Pelosi raises $7.2 million in September
-*   Casey leads by double digits in internal poll
-*   Debate recap: Candidates clash over women's issues, foreign aid
+*   Since rape comments, silence and small expenditures from some Akin backers
+*   NRSC raises $12.9M for September, falls short of DSCC
+*   Poll: Obama within 1 point in crucial battleground Florida
 
   
 More Ballot Box » On The Money
 
-*   News bites: Where are the jobs?
-*   US wins trade case over steel exports to China
-*   Bipartisan Policy Center floats fiscal cliff solution
+*   Senior House Democrate revives discussion of payroll tax cut extension
+*   Existing home sales fall slightly in September
+*   Unemployment falls in battleground states ahead of election
 
   
 More On The Money » Healthwatch
 
-*   New Texas rules ban links to abortion providers
-*   News bites: 'Anxious about the future'
-*   Rep. Joe Walsh: Abortion never necessary to save women's lives
+*   Rep. Joe Walsh edges away from controversial remark about abortion
+*   Grassley hits back on Dem healthcare ads
+*   Hatch seeks records on federal exchange contractors
 
   
 More Healthwatch » Floor Action
 
-*   GOP again shuts down Dems' attempt to speak at pro forma session
-*   GOP hints at student visa reforms in wake of foiled attack on NY Fed
-*   Female senators express outrage over Taliban attack on Pakistani girl
+*   Sen. Johnson calls for more scrutiny of Secret Service prostitution scandal
+*   GOP sees food fight as kids trash USDA fruit, vegetable guidelines
+*   Grassley demands job creation numbers for Obama’s electric car grants
 
   
 More Floor Action » Transportation
 
-*   Report claims Romney profited from auto bailout
-*   Obama, Clinton knock Romney on auto bailout
-*   Obama in Iowa: 'We said thanks but no thanks' to Romney's advice on auto bailout
+*   Amtrak wins praise for 110 mph train test
+*   TSA moves to fire 25 employees at Newark Airport
+*   Democrats bail on 'bailout' label for autos
 
   
 More Transportation » DEFCON Hill
 
-*   Report: CIA seeks expanded drone fleet
-*   McKeon wants DOD review of key weapons system for Afghanistan
-*   White House throws weight behind Filipino WWII vets
+*   Rubio renews intelligence leak debate, ties threat to Libya
+*   Lieberman asks State, DOD for documents in Libya investigation
+*   Report: CIA tagged Libya raid a terrorist strike hours after attack
 
   
 More DEFCON Hill » Global Affairs
 
+*   Republicans hit Obama from all sides on Benghazi response
+*   Issa takes aim at President Obama with investigation of Libya attack
 *   Friday's global agenda: Obama seeks to make up lost foreign policy edge ahead of final debate
-*   US allies elected to UN Security Council
-*   Romney all but erases Obama's polling lead on foreign policy
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Obama spins toward loss Brent Budowsky Reagan 1984, Obama 2012 More Columnists »
