@@ -127,30 +127,30 @@ Policy Last Updated: September 2012
 
 News _from our Ad Age Partners_
 
+*   Honda cranks up social media storytelling
 *   Suit against GM for using Einstein image dismissed by U.S. judge
 *   L.A. auto show names new manager
 *   Akerson revamps marketing
-*   Dealers cautious about 2013 ad dollars
 
 *   'Where does data gathering end and data analysis begin?'
 *   CMO Close-Up with D. Jeffry Benoliel, VP-global strategy, Quaker Chemical Corp.
 *   New VP-marketing at Navex Global sticks with proven plan
 *   Weaving together your content and merchandising strategies
 
-*   Eyeing huge market, Starbucks opens first India store
-*   Holiday deals shaping up to be best in years
-*   Stocks to open lower
-*   From rock and roll to real estate
+*   Recall: Sunscreen could burst into flames on skin
+*   Maxed out my 401(k). What next?
+*   Bankrupt car battery maker spurs China-U.S. bidding war
+*   EU leaders punt on thorny issues
 
 *   Cancer groups to improve disclosures on pink wares
 *   Newsweek ending print edition, job cuts expected
 *   Google helps small firms cross the digital divide
 *   Martha Stewart teams with Toyota
 
+*   Jobs in battleground states key to election
+*   CEOs' rosy spin downplays weak earnings
+*   Dow closes down 200 points on earnings fears
 *   Amazon vs. retailers. shoppers in the middle
-*   Feds don't do enough to protect your data
-*   Social Security’s rate of return is tough to beat
-*   Google's 'oops' heard around the world
 
 *   2013 FIAT 500
 *   2013 Scion FR-S
