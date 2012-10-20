@@ -97,5 +97,6 @@ If you have any additional questions about this Policy, you are encouraged to co
 *   Privacy
 *   Lisa's Blog
 *   Add Link
+*   Advertising
 
 © 2011 TwoWayLove.com Dating Directory - All rights reserved   |   Made in Switzerland Designed by Roger
