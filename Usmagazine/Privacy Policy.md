@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Louis Gets a Lift »
+Hot Pics! Mommy Loves You! »
 
-Top Stories1.  Freddie Prinze, Jr. Steps Out Three Weeks After Son's Birth! »
-2.  PIC: Demi Moore Thin, Radiant at Rare Post-Rehab Appearance in NYC »
-3.  Kim Kardashian Wears Tight Leather Pants, Fur in 90-Degree Miami Heat »
-4.  See Vanessa Minnillo's Incredible Post-Baby Body »
-5.  Pink Flaunts 55-Pound Weight Loss, Amazing Abs on Shape Cover »
+Top Stories1.  Exclusive How Kourtney Kardashian Slimmed Down After Giving Birth »
+2.  PICTURE: Miley Cyrus Kisses Angus T. Jones on Two and a Half Men »
+3.  Freddie Prinze, Jr. Steps Out Three Weeks After Son's Birth! »
+4.  PIC: Sarah Michelle Gellar Shows Off Post-Baby Body in L.A. »
+5.  Breaking Justin Timberlake, Jessica Biel Marry in Italy! »
 
  
 
@@ -177,9 +177,9 @@ Inside Us Weekly
 
 *   Style Pretty Kate Hudson Models Ann Taylor Looks in
 *   Beauty Elisabeth Moss Is a Brunette Again!
-*   Moms Rachel Zoe: Son Skyler "Gets Cuter Every Seco
-*   Body Whoa! Kate Bosworth Shows Off Tiny Waist, Fla  
-*   Entertainment Project Runway: Dmitry Sholokhov Wins Season  
+*   Moms How Kourtney Kardashian Slimmed Down After Gi
+*   Body Slimmer Tyler Perry: "I'm Laying Off the Donu  
+*   Entertainment Celebrity Halloween Costumes: Top 5 Do It You  
 
 *   US WEEKLY
 *   Celebrity News
