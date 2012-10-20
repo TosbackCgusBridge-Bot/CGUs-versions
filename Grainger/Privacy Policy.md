@@ -195,4 +195,4 @@ Will Call order online?** **Customer Service, 24/7** ** Questions on ordering, 
 
 *   **Connect With Us**
 
-Home  |   Terms of Access  |  Terms of Sale  |  Return Policy  |  Privacy Policy   (Rev. December, 2011)  |  Sitemap © 1994 - 2012 W.W. Grainger, Inc. All rights reserved. false false 0 false -912
+Home  |   Terms of Access  |  Terms of Sale  |  Return Policy  |  Privacy Policy   (Rev. December, 2011)  |  Sitemap © 1994 - 2012 W.W. Grainger, Inc. All rights reserved. false false 0 false -13523
