@@ -118,7 +118,7 @@ Wikia Inc Navigation
 *   Privacy Policy
 *   Content is available under CC-BY-SA.
 
-*   Want to improve your wiki's main page? Learn how by joining us for a webinar tomorrow at 3pm PDT! Register here.
+*   Did you miss our recent webinar on main pages? Watch a recording of it now.
     
 
 Politics Halloween @WikiaLifestyle
