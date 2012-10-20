@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Gay marriage to Supreme Court? More likely after latest rejection of DOMA.
-2.  2014 Corvette so different, GM will shut down plant to retool
-3.  China's naval exercises in East China Sea send warning to regional rivals
-4.  Presidential debate 101: Does Romney’s tax math add up?
-5.  Syria: Airstrikes leave dozens dead
+1.  iPad Mini set to debut Oct. 23, arrive on doorsteps Nov. 2: report
+2.  China's naval exercises in East China Sea send warning to regional rivals
+3.  2014 Corvette so different, GM will shut down plant to retool
+4.  Google could disappear in five years. Here's why.
+5.  Presidential debate 101: Where did Romney get those 'binders full of women'?
 
 About these ads
 
@@ -116,12 +116,12 @@ Editors' Picks:
     
     'We know the answer to what it takes to save' polar bears, says environmental prize winner Steven Amstrup, who has gone to the Arctic to study the bears for 30 years.
     
-*   Terrorism &. Security: China's naval exercises in East China Sea send warning to regional rivals
-*   How will FARC peace talks play out in rural Colombia?
-*   For Mars rover Curiosity, at last, it's dinnertime. On the menu: dirt.
-*   Pakistanis debate real enemy: girl-shooting Taliban or drone-firing US
+*   Orionid meteor shower: Watch for fireballs during weekend peak
+*   Can Republicans increase their ranks of governors? Four races to watch.
+*   Opinion: Millennial generation could kill the NFL
+*   Global News Blog: Good reads: a 'hidden' nuclear crisis, how China sees the US, and 'Chilecon Valley'
 
-_Photos of the day_ 10.18.12 » Photos of the Day 10/18
+_Photos of the day_ 10.19.12 » Photos of the Day 10/19
 
 **CSMonitor.com** on Facebook
 
@@ -143,12 +143,11 @@ Steven Amstrup says it's not too late to save polar bears – and ourselves
 
 Become part of the Monitor community
 
-*   Energy/Environment Clean Water Act at 40: Is it failing to meet new pollution challenges?
-*   Making a Difference Steven Amstrup says it's not too late to save polar bears – and ourselves
-*   Science For Mars rover Curiosity, at last, it's dinnertime. On the menu: dirt.
+*   The Culture Helen Hunt stars in 'The Sessions' (+trailer)
 *   USA Presidential debate: How would you rate this musical parody? (+video)
-*   Innovation Apple promises 'a little more' on Oct. 23. iPad Mini incoming?
-*   USA With race tight, celebrities make the pitch for Obama
+*   The Culture A middle school turns out chess champions in 'Brooklyn Castle'
+*   Science For Mars rover Curiosity, at last, it's dinnertime. On the menu: dirt.
+*   Making a Difference Steven Amstrup says it's not too late to save polar bears – and ourselves
 
 About these ads
 
