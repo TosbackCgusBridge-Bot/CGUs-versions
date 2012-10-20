@@ -15,67 +15,67 @@ The McGladrey Classic View Leaderboard >.
 *   1
 *   J.Furyk
 *   \-12
-*   7
+*   8
 
-*   T2
+*   2
+*   D.Love III
+*   \-11
+*   8
+
+*   T3
+*   A.Atwal
+*   \-10
+*   8
+
+*   T3
 *   B.Cauley
 *   \-10
 *   8
 
-*   T2
-*   A.Atwal
-*   \-10
-*   7
-
-*   T2
-*   D.Love III
-*   \-10
-*   7
+*   T5
+*   M.Flores
+*   \-9
+*   11
 
 *   T5
+*   P.Tomasulo
+*   \-9
+*   11
+
+*   T5
+*   C.Campbell
+*   \-9
+*   10
+
+*   T8
 *   J.Durant
 *   \-8
 *   13
 
-*   T5
-*   P.Tomasulo
-*   \-8
-*   11
-
-*   T5
-*   M.Flores
+*   T8
+*   M.Goggin
 *   \-8
 *   10
 
-*   T5
+*   T8
 *   C.Howell III
 *   \-8
 *   10
 
-*   T5
+*   T8
 *   V.Singh
 *   \-8
 *   10
 
-*   T5
-*   C.Campbell
+*   T8
+*   B.Gay
 *   \-8
 *   9
-
-*   T5
-*   M.Goggin
-*   \-8
-*   9
-
-*   T5
-*   G.Coles
-*   \-8
-*   8
 
 *   T13
 *   B.Horschel
 *   \-7
-*   15
+*   16
 
 *   T13
 *   W.Claxton
@@ -83,12 +83,22 @@ The McGladrey Classic View Leaderboard >.
 *   14
 
 *   T13
-*   R.Sabbatini
+*   D.Mathis
 *   \-7
-*   10
+*   14
 
 *   T13
-*   B.Gay
+*   R.Sabbatini
+*   \-7
+*   11
+
+*   T13
+*   D.Trahan
+*   \-7
+*   9
+
+*   T13
+*   G.Coles
 *   \-7
 *   8
 
@@ -97,20 +107,10 @@ The McGladrey Classic View Leaderboard >.
 *   \-7
 *   8
 
-*   T13
-*   D.Trahan
-*   \-7
-*   8
-
-*   T19
+*   T20
 *   C.Beljan
 *   \-6
-*   15
-
-*   T19
-*   K.Chappell
-*   \-6
-*   15
+*   16
 
 *   **FULL LEADERBOARD**
 
@@ -528,7 +528,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,382 facebook.com/GolfChannel 120,138 twitter.com/GolfChannel Newsletter
+Social 233,385 facebook.com/GolfChannel 120,145 twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
