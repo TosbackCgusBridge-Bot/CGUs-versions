@@ -190,70 +190,74 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 82963 Arbeit 64028 Ausbildung 49532 Auto 90100 Beauty 68381 Beruf 76758 Beziehung 70997 Computer 531999 Computerspiele 63839 deutsch 66338 Englisch 51621 ErnÃ¤hrung 50267 essen 70566 Facebook 76250 Fernsehen 59824 Film 98951 Finanzen 58666 Freizeit 260424 FuÃball 50740 Games 123005 Geld 92527 Gesundheit 203854 Haare 81547 Handy 202053 Hilfe 146503 Internet 319410 iPhone 74289 Kinder 50506 KÃ¶rper 49386 Laptop 72584 Liebe 163213 Lied 53810 MÃ¤dchen 55471 Medizin 62191 Minecraft 66808 Musik 277979 PC 279146 PC-Spiele 48087 Problem 54403 PS3 59378 Recht 94476 Schule 232656 Software 56588 Spiele 135671 Sport 109760 Technik 119367 Tiere 64321 TV 53899 Video 52113 Youtube 82045 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 83062 Arbeit 64082 Ausbildung 49577 Auto 90164 Beauty 68468 Beruf 76801 Beziehung 71074 Computer 532380 Computerspiele 63907 deutsch 66381 Englisch 51653 ErnÃ¤hrung 50309 essen 70612 Facebook 76378 Fernsehen 59869 Film 99057 Finanzen 58683 Freizeit 260589 FuÃball 50776 Games 123155 Geld 92606 Gesundheit 203981 Haare 81660 Handy 202292 Hilfe 146691 Internet 319685 iPhone 74371 Kinder 50543 KÃ¶rper 49487 Laptop 72658 Liebe 163376 Lied 53880 MÃ¤dchen 55545 Medizin 62242 Minecraft 66906 Musik 278233 PC 279413 PC-Spiele 48126 Problem 54484 PS3 59447 Recht 94546 Schule 232844 Software 56637 Spiele 135797 Sport 109859 Technik 119473 Tiere 64369 TV 53938 Video 52179 Youtube 82162 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  AlphaCarinae
+1.  Yellowstone
     
     Punkte:
     
-    1440
+    1605
     
     Level:
     
-    AlphaCarinae
+    Yellowstone
     
-2.  Heidekraut12
+2.  sassbar
     
     Punkte:
     
-    868
+    769
     
     Level:
     
-    Heidekraut12
+    sassbar
     
-3.  Nille87
+3.  y45dada
     
     Punkte:
     
-    761
+    756
+    
+    Level:
+    
+    y45dada
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.281.195 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.287.463 gute Fragen_
 
-*   32 Ich schÃ¤me mich autistisch zu sein
-*   21 Wenn Frauen sagen "ich bin zu dick"
-*   21 Kann ich ihm Ordnung beibringen?
+*   29 Hass gegenueber meinen Mitmenschen.........
+*   22 Gute Musik die sozusagen unter die Haut geht?
+*   20 Alkohol zerstÃ¶rt Ehe
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   KÃ¼rbis-Pfannkuchen zubereiten
-*   Richtig trainieren auf dem Crosstrainer
-
 *   Anime Zeichnung
-*   Vogel zeichnen lernen
+
+*   Anleitung: Antistress-Ball basteln
+*   HaferflockenplÃ¤tzchen backen
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.939.312
+1.940.818
 
 Anzahl der Fragen
 
-8.279.310
+8.286.575
 
 Anzahl der Antworten
 
-36.004.275
+36.029.041
 
 Anzahl der Tipps
 
-74.362
+74.410
 
 Anzahl der Videos
 
-4.687
+4.692
 
 Blog
 
