@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   Election 2012
-    *   Mitt Romney
     *   entertainment
     *   Mitt Romney 2012
+    *   Mitt Romney
     *   Barack Obama
     *   celebrity
-    *   strange stuff
-    *   Obama 2012
-    *   President Obama
+    *   Benghazi
     *   timeless news
+    *   President Obama
+    *   Florida
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -119,63 +119,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Malapropisms: the Pineapple of Linguistic Errors
-*   The Sessions
-*   Play the Slate News Quiz
+*   Talking to Justice Ruth Bader Ginsburg
+*   If All the Previous U.S. Presidents Were Alive and Running...
+*   Boss Dana Stevens Around
 
 More from Slate »
 
-*   COVER IT UP!
-*   Dildo Removed From Man's Intestines
-*   God vs. Space Aliens
+*   THE FUTURE OF PORN? (NSFW)
+*   BEST CALL EVER: Woman Thinks Deer X-ing Signs 'Encourage'...
+*   'OH SH-T': Man Allegedly Punched Cops, Pooped His Pants
 
 More from HuffPost Weird »
 
-*   A Mensch For Every Month
-*   Amy Adams Is The New Spokes-celeb For Band Of Outsiders
-*   What We Missed: Dating Advice For Amelia &. Some Strong...
+*   Fireworks, Andy Samberg, Wine: More Deets On Justin...
+*   Michelle Obama Likes The President Commando &. What Is...
+*   Study: Female Genital Mutilation Ruins Sex Lives
 
 More from The Frisky »
 
-*   Icelander says the best-tasting puffin is soaked overnight...
-*   Feeling left out of all the fun of bombing people in the...
-*   Wisconsin man claims speeding ticket violates his religious...
+*   Chicks who like cats = crazy cat lady. Cats who like chicks...
+*   Omaha Fark Party at the Upstream Brewery Oct 20th at 7pm...
+*   The somewhat forgotten Trayvon Martin case has taken a few...
 
 More from Fark »
 
-*   New Benghazi revelations: Should Republicans lay off Susan...
-*   Missouri Senate: The race at a glance
-*   Obama's new 'Morning in America' strategy: Will it work?
+*   5 smart reads for the weekend
+*   The boy kicked out of school for carrying a cystic fibrosis...
+*   2012 race: Will the popular-vote winner lose the Electoral...
 
 More from The Week »
 
-*   Fidel Castro Had a Stroke
-*   Congressman Joe Walsh Is the Latest Republican to Say...
-*   Andrew Cuomo Knows What You’re Thinking About His...
+*   How Screwed Is This Bank? Morgan Stanley Edition
+*   Tucker Carlson Makes âMost Punchable Faces in Mediaâ List
+*   Congressman John Lewis Dances Gangnam Style, for Democracy
 
 More from Daily Intel »
 
-*   The Baker, The Free Food Fiend, The Food Bully: Which...
-*   180 Kilometers of Motivation
-*   You Don't Need a Lump to Have Breast Cancer
+*   A Brain Booster.. A Natural Fat Blaster.. A Cancer Fighter:...
+*   Teen Star Kenton Duty on Food Allergies and Bullying
+*   Googling Often Doesn't Get It Right When It Comes to Infant...
 
 More from HuffPost Health »
 
-*   Miley Cyrus Says It's 'Pretty Blatant' Jonas Brothers' New...
-*   Drake Graduates from High School at 25: Celebs Who've...
-*   Bruce Springsteen Pens Support Letter for Barack Obama: The...
+*   Justin Timberlake, Jessica Biel Are Married (EXCLUSIVE...
+*   Jessica Biel's Wedding Dress: Did She Go Glam, Sexy or...
+*   Kim Kardashian and Kanye West: See Their Most Intimate...
 
 More from Celebuzz »
 
-*   Emily Maynard Will Be 'Bachelorette' Again if ABC Gets...
-*   Puppies Keep Boy Lost in the Woods Safe Until Rescuers Find...
-*   Latest on Missing Starbucks Barista Points to Something...
+*   Mummy Hot Dogs Recipe Is Scary Good
+*   5 Things Vegetarians Say That Drive Meat-Eaters Crazy
+*   Britney Spears Meth Abuse Accusations Don't Add Up
 
 More from The Stir »
 
-*   Cutwater, S.F., Wins Fashion Account
-*   Designer Creating Visual Brands for All 44 U.S. Presidents
-*   Fast Chat: Media Storm's Andrea Kerr Redniss
+*   Trailer Mash 10-19-12
+*   Ad of the Day: DnB
+*   Think Twice Before Foursquaring That Stranger, Say AIDS Ads
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
