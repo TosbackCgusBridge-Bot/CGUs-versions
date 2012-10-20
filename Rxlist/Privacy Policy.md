@@ -1,7 +1,7 @@
 *   Like Us
 *   Follow Us
 
-Pill Identifier Search October 19, 2012
+Pill Identifier Search October 20, 2012
 
 *   Home
 *   Drugs A-Z
@@ -284,6 +284,7 @@ Health Solutions From Our Sponsors
 
 *   Birth Control for Moms
 *   Bipolar Disorder Facts
+*   Treating Depression
 
   
 Featured Topics
@@ -295,11 +296,11 @@ Featured Topics
 
 New &. Updated
 
-*   Aricept
-*   Foradil Aerolizer
-*   Humira
-*   Nexium
-*   Prevacid
+*   Caprelsa
+*   Gelnique
+*   Lunesta
+*   Oxytrol
+*   Vimovo
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
