@@ -23,23 +23,23 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 19 coming up next:
+schedule right now: October 20 10:30 AM · JENNI RIVERA PRESENTS: CHIQUIS &. RAQ-C coming up next:
 
-*   1:00 AM · I LOVE JENNI
-*   2:00 AM · PARTY MIX
-*   3:00 AM · MORNING BREATH
-*   4:00 AM · MORNING BREATH
-*   5:00 AM · MORNING BREATH
-*   6:00 AM · SMB
-*   8:00 AM · MORNING BREATH
-*   9:00 AM · LA BARBACOA
-*   10:30 AM · JENNI RIVERA PRESENTS: CHIQUIS &. RAQ-C
 *   11:30 AM · 18 &. OVER
 *   1:00 PM · REVENTON
 *   2:00 PM · I LOVE JENNI
 *   3:00 PM · CHIQUIS 'N CONTROL
 *   4:00 PM · mun2 PRESENTS: BELINDA
 *   5:00 PM · YO ME LLAMO
+*   7:00 PM · CINE CLASICO Y COOL: PEPE
+*   9:00 PM · WWE SMACKDOWN
+*   11:00 PM · WWE SMACKDOWN
+*   1:00 AM · FUGITIVOS DE LA LEY
+*   2:00 AM · PARTY MIX
+*   4:00 AM · MORNING BREATH
+*   6:00 AM · MORNING BREATH
+*   7:00 AM · WWE RAW EN ESPAÑOL
+*   10:00 AM · mun2 CINCO
 
 see full schedule >>.
 
