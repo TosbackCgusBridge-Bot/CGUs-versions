@@ -257,6 +257,7 @@ Call us at 1-877-ADVANCE (238-2623) Corporate Information
 *   About Us
 *   Events and Promotions
 *   Press
+*   Card Skimming in 2 Miami, FL Stores
 *   Investor Relations
 *   Privacy Policy
 *   Your California Privacy Rights
