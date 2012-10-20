@@ -21,15 +21,11 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
+*   Libya Attacks
 *   Obama's Founding Fathers
-*   Arab Crisis
 *   Campaign 2012
 
-Take Action
-
-The One Article Becks Says Confirms His Libya Theory — Read it Here
-
-About TheBlaze
+Take Action About TheBlaze
 
 **THEBLAZE.Com LLC – PRIVACY POLICY**
 
@@ -237,12 +233,6 @@ Editorial Staff
     Assistant Editor  
     Email
 
-*   Israel
-*   Business
-*   Jobs
-*   Military
-*   Economy
-
 Sections
 
 *   The Stories
@@ -254,8 +244,8 @@ Sections
 
 Hot Topics
 
+*   Libya Attacks
 *   Obama's Founding Fathers
-*   Arab Crisis
 *   Campaign 2012
 
 More from TheBlaze
