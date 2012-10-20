@@ -452,24 +452,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Witnesses: Deputy shot man outside of 7-Eleven in East Naples Updated 10/19/2012 at 11:34 a.m.
 *   Collier deputy shoots man who had fake gun Published 10/19/2012 at 2:59 p.m.
-*   Obama declares Collier County and 10 other Fla. counties disaster areas Published 10/19/2012 at 9:43 a.m. 29 comments
 *   Prep Football: Chat, scores, videos, photos and stories from Week 8 Updated 10/19/2012 at 11:33 p.m. 0 comments
-*   Ryan: Florida to decide 'what kind of country we're going to have' Updated 10/18/2012 at 9:50 p.m. 195 comments
+*   Sheriff’s Office investigating deputy-involved shooting of man with fake gun Published 10/19/2012 at 9:11 p.m.
+*   Ryan: Florida to decide 'what kind of country we're going to have' Updated 10/18/2012 at 9:50 p.m. 224 comments
+*   Witnesses: Deputy shot man outside of 7-Eleven in East Naples Updated 10/19/2012 at 11:34 a.m.
 
-Photo Galleries 7-Eleven Shooting Editorial Cartoons: Oct. 17, 2012 Prep Football: Naples vs. Palmetto Ridge
+Photo Galleries 7-Eleven Shooting Prep Football: Naples vs. Palmetto Ridge Prep Football: Barron Collier vs…
 
+*   Ryan: Florida to decide 'what kind of country we're going to have' Published 10/18/2012 at 1:01 p.m. 224 comments
 *   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 409 comments
-*   Ryan: Florida to decide 'what kind of country we're going to have' Published 10/18/2012 at 1:01 p.m. 195 comments
-*   Obama, Romney seek support from women after debate Published 10/17/2012 at 8:59 p.m. 89 comments
+*   Obama, Romney seek support from women after debate Published 10/17/2012 at 8:59 p.m. 90 comments
 *   Witnesses: Deputy shot man outside of 7-Eleven in East Naples Published 10/19/2012 at 9:27 a.m.
 *   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 53 comments
 
 *   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
 *   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 54 comments
 *   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 10 comments
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 288 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 289 comments
 *   In the Know: What can and can't be recycled in Collier County? Published 10/15/2012 at 5:00 a.m. 12 comments
 
 Weather
@@ -478,25 +478,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 75° A Few Clouds Wind: Calm Today 85° 73° Sat 08:00 PM Mostly Clear Temp: 78° Sun 08:00 AM Mostly Sunny Temp: 68° Sun 08:00 PM Mostly Clear Temp: 77°
+Currently 84° Partly Cloudy Wind: W 7mph Today 85° 67° Sun 02:00 AM Mostly Clear Temp: 72° Sun 02:00 PM Mostly Sunny Temp: 84° Mon 02:00 AM Mostly Clear Temp: 68°
 
-Feels Like: 78°
+Feels Like: 72°
 
-Humidity: 67%
+Humidity: 76%
 
 Precip: 10%
 
-Feels Like: 68°
+Feels Like: 83°
 
-Humidity: 73%
-
-Precip: 2%
-
-Feels Like: 77°
-
-Humidity: 54%
+Humidity: 37%
 
 Precip: 5%
+
+Feels Like: 68°
+
+Humidity: 81%
+
+Precip: 2%
 
 More Weather » Calendar
 
