@@ -123,7 +123,7 @@ RegisterSign In Member CenterSign Out Register HOME NEWS MARKETS EARNINGS INVEST
 >   
 
 U.S. Asia-Pacific Europe Economy Energy Green Inside Wealth Politics Technology Blogs Wires Slideshows Special Reports Corrections Pre-Markets World Markets Latin America Stocks Dow 30 Commodities Currencies Bonds Funds Calendar Surprises Highlights Ideas Franchising Financing Management Video Stock Blog Personal Finance CNBC Explains Portfolio Watchlist Stock Screener Fund Screener Earnings Screener Latest Video Top Video US Video Europe Video Asia Video CNBC Explains CNBC PRO CEO Interviews Analyst Interviews CNBC U.S. CNBC Asia Pacific CNBC Europe CNBC World  
-Current DateTime: 01:05:09 20 Oct 2012  
+Current DateTime: 05:44:27 20 Oct 2012  
 LinksList Documentid: 29778429
 
 *   CNBC NEWS
@@ -193,7 +193,7 @@ LinksList Documentid: 29779200
 *   CNBC Pro
 
   
-Current DateTime: 01:05:10 20 Oct 2012  
+Current DateTime: 09:29:49 20 Oct 2012  
 LinksList Documentid: 29779199
 
 *   CNBC TV
