@@ -113,23 +113,18 @@ Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad  
-**Why Equine.com?**  
-\- Equine.com helps more people sell horses  
-than any other source! - We've helped sell over 130,000 horses.  
-\- We've been the #1 choice for over 12 years!  
-\- 1 million viewers per month can see your ad.  
-Half a million pages are viewed each day! Testimonials **Don't just take our word for it...** "I love using Equine.com. Whether I need to sell a horse or I am looking to buy, Equine is the only way to go. "  
-**alysia**  
-Mandeville , Louisiana " Great!!! So many people emailed me and called about her that I was having groups come out to see her!!! Sold FAST!!! "  
-**Alicia**  
-Waverly, Missouri " This was a fairly quick and pleasant transaction, I never had to renew my ad! "  
-**Marie**  
-Monte Vista, Colorado "Extremely beneficial in getting my horse sold"  
-**Christine**  
-Garner, Iowa " This is the 5th horse I have sold on Equine.com changes in lifestyle required the sale. I would recommend using this si..."  
-**Dawn Warren**  
-Hermann , Missouri View More Testimonials
+Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad **Exposure**  
+Sell online and in regional publications. Online ads have up to 24 color photos. Our network of magazines appear throughout the U.S. Testimonials **Don't just take our word for it...** " Great website! I got the most interest from Equine.com "  
+**Audra**  
+Lockport, Illinois "This experience was EXCELLENT!!! The process was fast, easy and the response was amazing!! Thanks so much!!"  
+**Michelle**  
+Kettering, Ohio " I had many responses using Equine.com. Would certainly use it again! "  
+**Someone**  
+Milford, New Jersey "excellent response and value for money. far exceeded other resources. thank you"  
+**KAREN**  
+BROWNSBURG , Virginia " Fast results with lots of exposure. Second horse we've sold on Equine.com this year. Far better results then local adverti..."  
+**Someone**  
+Murray, Kentucky View More Testimonials
 
 *   Advertise
 *   |
