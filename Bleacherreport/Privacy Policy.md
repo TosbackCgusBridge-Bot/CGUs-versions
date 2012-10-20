@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 9 hours ago
+about 1 hour ago
 
-@BleacherReport: Back to San Francisco they go. Barry Zito &. the Giants shut out the Cardinals 5-0 in Game 5 of the #NLCS.
+@BleacherReport: Virginia Tech’s Michael Cole intercepted Clemson QB Tajh Boyd while sitting down http://t.co/0OLhcLkx
 
 Newsletters
 
