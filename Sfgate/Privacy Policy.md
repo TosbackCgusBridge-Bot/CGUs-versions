@@ -1,6 +1,6 @@
 (skip this header)
 
-Saturday Oct 20, 2012 10:59 AM PT
+Saturday Oct 20, 2012 11:15 AM PT
 
 ° (change)
 
@@ -396,8 +396,8 @@ Ads by Yahoo! Photo Galleries
 1.  CIA found militant links a day after Libya attack
 2.  Obama Says His Opponent Has a Case of %u2018Romnesia%u2019 Ahead of Debate
 3.  Barry much in it: Giants win Game 5
-4.  Apartment rents rise in Oakland, San Francisco, San Jose
-5.  Police use of drones concerns activists
+4.  Police use of drones concerns activists
+5.  Apartment rents rise in Oakland, San Francisco, San Jose
 6.  Dew Tour - fun, or an extreme mess?
 7.  Decades of abuse of Boy Scouts detailed
 
