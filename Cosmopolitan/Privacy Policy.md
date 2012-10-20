@@ -112,6 +112,8 @@ Try: date night : sexy long hair : hot bangs : great gifts
 
 Privacy Policy In order to view the Privacy Policy you must enable javaScript. Connect with Cosmo Connect with Facebook Cosmopolitan Magazine on Twitter @Cosmopolitan Cosmopolitan Magazine on Pinterest Follow our boards on Pinterest Sign up for Cosmopolitan's Free Newsletter! Advertising
 
+The Caesar's Atlantic City Sweepstakes
+
 See More Sweepstakes
 
 These days theres more than one way to feed your Cosmo fix. You can get your subscription to the print magazine as you always have, or if youd prefer to get it sent to you as a digital edition to read on your iPad, tablet, or Nook, weve got you covered. And, when you just cant get enough Cosmo, well give you even morecheck out our Sex Position of the Day app for your iPhone or Android-enabled device. Now hows that for a turn-on?
