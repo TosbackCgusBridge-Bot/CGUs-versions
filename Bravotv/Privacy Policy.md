@@ -2,7 +2,7 @@ Bravo
 
 *   Shows &. Schedules
     
-    *   The Real Housewives of Miami Emails Joanna Didn't Want to See Thursdays 9/8c
+    *   The Real Housewives of New Jersey Milania Steals the Show Sundays @ 10/9C
     
     Current
     
@@ -24,12 +24,12 @@ Bravo
     *   Watch What Happens Live
     
     What's On Tonight
-    *   9:00 PM BRAVO'S BIG PICTUREBREAK-UP, THE
-    *   11:00 PM BRAVO'S BIG PICTUREBREAK-UP, THE
-    *   1:00 AM BRAVO'S BIG PICTUREMAD MONEYSee All Shows » See Full Schedule »
+    *   9:00 PM BRAVO'S BIG PICTURENEXT FRIDAY
+    *   11:00 PM BRAVO'S BIG PICTURENEXT FRIDAY
+    *   1:00 AM BRAVO'S BIG PICTUREHOUSE PARTYSee All Shows » See Full Schedule »
 *   People &. Blogs
     
-    *   Read Alexia Echevarria's Latest Post Lisa and Karent's Cattiness
+    *   Read Spice Up Your 'Wives's Latest Post Don't Mess with Elsa - Ep 6
     
     Current Bravolebrities
     
@@ -63,9 +63,9 @@ Bravo
     *   Teresa Giudice
     
     Recent Blog Posts
-    *   Alexia Echevarria Lisa and Karent's Cattiness
-    *   Adriana De Moura Honey Boo Boo Housewife
-    *   Joanna Krupa RHOM Meets Mean GirlsAll People » More Blog Posts »
+    *   Spice Up Your 'Wives Don't Mess with Elsa - Ep 6
+    *   Lisa Hochstein The I Hate Karent Sierra Club
+    *   Alexia Echevarria Lisa and Karent's CattinessAll People » More Blog Posts »
 *   Videos &. Full Episodes
     
     *   Watch What Happens Live After Show: Brandy Pleads the Fifth!
@@ -284,28 +284,28 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Schedule by Bravo
 
-*   PROJECT RUNWAY EVEN DESIGNERS GET THE BLUES
+*   BRAVO'S BIG PICTURE GROUNDHOG DAY
+    
+    8:00 AM ET
+    
+*   GIULIANA &. BILL (S5) THE COUNTDOWN BEGINS
     
     10:00 AM ET
     
-*   PROJECT RUNWAY RAW TALENT
-    
-    11:00 AM ET
-    
 
-view complete schedule The Dish - Bravo's Daily News Gail Simmons Rocks Eric Ripert's World
+view complete schedule The Dish - Bravo's Daily News Bravo IQ: Weddings and Drag Queens
+
+How closely were you watching Bravo this week?
+
+Read More Gail Simmons Rocks Eric Ripert's World
 
 The Top Chef judge stuns the legendary chef with some good old hangover food.
-
-Read More How Rosie Pope’s Balancing a Book Tour and Babies
-
-Think tiny travel buddies and Diet Cokes.
 
 Read More More Dish Get insider Bravo news in our weekly update!
 
 Must be 13 or older
 
-Sponsored Headlines What's Hot RHONJ Even More Reunion Outtakes! RHOM Elsa Through the Years Top Chef Preview the New Season RHONY Ramona's Premature Goodbye Flipping Out Before and After: Spring Oak Life After Top Chef Tour Spike's Crib More Shows
+Sponsored Headlines What's Hot RHONJ Even More Reunion Outtakes! RHOM Elsa Through the Years Top Chef Preview the New Season RHONY Ramona's Premature Goodbye Flipping Out Before and After: Spring Oak Life After Top Chef Tour Fabio and His Turtle's Home More Shows
 
 *   The Real Housewives of Atlanta
 *   Top Chef
