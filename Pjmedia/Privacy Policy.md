@@ -115,23 +115,23 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Now Up on the PJ Media Homepage
-*   Meet Tom Smith, the Farmer and Businessman Who May Seal Pennsylvania’s Transition from Blue to Red
-*   Winner of What is President Obama Thinking? – Photo Caption Contest
+*   Israeli Navy Boards Gaza-Bound Ship
+*   Rasmussen Swing State Poll: Romney over Obama 50% — 46%
+*   Things I Want to Shout to the World before the Election
 
 More  
 
+*   Classic Rock and Cheap Wine: An Eyewitness Account of the Beatles First American Concert
 *   _Paranormal Activity 4_ Serves Up Enough Spooks for a Satisfying Sequel
 *   ‘If Everyone Could Spend Even Six Months as a Crematory Operator, the World Would Be a Far Better Place.’
-*   Time to Read Ayn Rand?
 
 More
 
-*   Why People Now Ignore Paul Krugman
-*   How Education Savings Accounts Will Revolutionize K-12 Schools
 *   It's Romney's Race to Lose
+*   Why People Now Ignore Paul Krugman
+*   Car Bomb In Lebanon
 
-More   RNC TROUNCES DNC IN FUNDRAISING AS DEMOCRAT PARTY GOES ‘BANKRUPT:’ “Somehow, this seems an apt metaphor for the Obama era,” Stacy McCain writes. The president of course has his passionate supporters. These are the same people that spent last Tuesdaynight declaring him the winner of his second meeting with Mitt Romney, and Wednesday and Thursday trying to infuse the word “binder” with game-changing significance. ... LONGEVITY UPDATE: Starvation Hormone Markedly Extends Mouse Life Span, Without Need for Calorie Restriction. “Restricting food intake has been shown to extend lifespan in several different kinds of animals. In our study, we found transgenic mice that produced more of the hormone fibroblast growth factor-21 (FGF21) got the benefits of dieting without having to limit their food intake. Male mice that overproduced the hormone had about a 30 percent increase in average life span and female mice had about a 40 percent increase in average life span.” ... More Advertisement
+More   CONVENIENT NEW REVELATIONS: CIA documents supported Susan Rice’s description of Benghazi attacks. What the CIA reportedly said on September 15: “The currently available information suggests that the demonstrations in Benghazi were spontaneously inspired by the protests at the U.S. Embassy in Cairo and evolved into a direct assault against the U.S. Consulate and subsequently its annex. There are indications that extremists participated in the violent demonstrations.” ... ISRAELIS AND LEBANESE are both angry—for very different reasons—that an episode of Showtime’s _Homeland_ that took place in Beirut was filmed in Israel. _NATIONAL JOURNAL:_ Polls: Romney Moves Up in Florida, Obama Down a Bit in Ohio. More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
