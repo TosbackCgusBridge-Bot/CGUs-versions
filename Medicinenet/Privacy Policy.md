@@ -1,4 +1,4 @@
-About Us| Newsletter October 19, 2012
+About Us| Newsletter October 20, 2012
 
 *   Like Us
 *   Follow Us
@@ -434,6 +434,7 @@ Health Solutions From Our Sponsors
 
 *   Birth Control for Moms
 *   Bipolar Disorder Facts
+*   Treating Depression
 
 Health Categories:
 
