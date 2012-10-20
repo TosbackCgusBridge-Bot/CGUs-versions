@@ -73,9 +73,9 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 *   Ashley Greene: Look At Me Now
 *   Ashley Greene's Cover Shoot Style
 *   Project Runway's New York
+*   Gwen Stefani: Rock 'n' Rule
 *   Gwen Stefani's Cover Shoot Style
 *   Gwen Stefani's Style Evolution
-*   Gwen Stefani: Rock 'n' Rule
 *   Chelsea Everywhere
 *   Big Shots
 
