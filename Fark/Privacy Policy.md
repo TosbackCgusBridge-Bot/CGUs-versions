@@ -148,13 +148,13 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    Come At Me Bra
+    Braaains
 *     
     Maze Cafe - Cup and Saucer Set
 *     
-    Save The Earth, It's The Only One with Chocolate
+    Mustang (Red/White Stripes) Wireless Road Mice
 *     
-    Mummy Dearest Apron
+    Neanderthal Eraser
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
@@ -163,34 +163,34 @@ Stories from our partner sites:
 25 of the Unhappiest Mugshots Known t...  
 Christian Bale's Wild Body Transforma...  
 The 10 Worst Video Game Weapons Ever  
-The Ultimate Speedboat Fail  
+3D Printer Art in all its Glory  
 More news at Scribol »  
   
   
-Pre-Labor Day Pregnant Bikini Contest  
-The State Fair Food That Will Cause Y...  
-The 20 Worst Hipster Bands: The Compl...  
-Internet Cat Video Film Festival Exists  
-More news at Village Voice »  
+We Show It ALL  
+Make out with sister, or cut off dad'...  
+Facebook FAILS  
+5 Dumbest Moments of the 2nd Presiden...  
+More news at truTV »  
   
   
-THE FUTURE OF PORN? (NSFW)  
-BEST CALL EVER: Woman Thinks Deer X-i...  
-'OH SH-T': Man Allegedly Punched Cops...  
-Would-Be Identity Thief Hangs Head In...  
-More news at HuffPostWeirdNews »  
+Man Set On Fire Outside Long Beach Ma...  
+Rupert Murdoch, Other Buyers Eye L.A....  
+Orionid Meteor Shower Expected to Pea...  
+Judge Agrees to Reopen Case Against O...  
+More news at KTLA »  
   
   
-Your Daily Horoscope  
-The almanac  
-Political ad features woman on toilet  
-Reebok makes shoes for tallest man in...  
-More news at UPI »  
+Why My Boyfriend Loves My Girl Crush...  
+Sneak Peek: Target And Neiman Marcus'...  
+12 Signs You're Probably Being Too Picky  
+How Reality TV Is Like Dating In Your...  
+More news at The Frisky »  
   
 
 Also on Fark
 
-Main The somewhat forgotten Trayvon Martin case has taken a few unusual turns in favor of the defense ( nytimes.com ) » (8 comments) Sports Chelsea take on a team in all-white without Terry. Elsewhere, the Canaries might get Gunned down, Mackems take on the Toon and Liverpool will draw with Reading ( guardian.co.uk ) » (6 comments) Business In a shock to absolutely no one, CVS has been refilling your prescriptions without asking you and kindly billing your insurance company ( latimes.com ) » (27 comments) Geek NBC news asked the questions everyone but mad scientists are afraid to ask. Why aren't insects human sized? ( msnbc.msn.com ) » (45 comments) Entertainment Denver audience to Madonna: Too Soon ( denver.cbslocal.com ) » (42 comments) Politics Unemployment rates fall in 41 states, including most swing states. This is bad news...for Fox ( money.cnn.com ) » (112 comments) Video Nothing to see, just another high school sports record. Wait ... a 67 yard field goal? ( youtube.com ) » (62 comments) FarkUs It's a fantasy trope deconstruction, a mystery, and a humorous adventure novel I wrote. Check it out ( amazon.com ) » (0 comments)
+Main 1st Native American approved for sainthood after Vatican proclaims disease cure to be "medically inexplicable", because if there's anyone who knows their science, it's the Catholic Church ( msnbc.msn.com ) » (22 comments) Sports UMass coach pulls off the greatest creative scholarship presentation to two walk-on team members, ever (w/video) ( sports.yahoo.com ) » (5 comments) Business Teen kids with internet start up borrow 4K from parents and go to meet Sir Richard Branson, and thus win ( openforum.com ) » (1 comment) Geek Cutting edge medical science finally develops: A) a successful AIDS drug, B) a cancer inhibitor, or C) a way to fight pizza mouth burn ( cbsnews.com ) » (4 comments) Entertainment To celebrate the 74th birthday of Dawn Wells, MSNBC brings up the eternal debate: Ginger or Mary Ann. Of course, they never throw Mrs. Howell into the fray, because they know she would always win ( theclicker.today.com ) » (43 comments) Politics Unemployment rates fall in 41 states, including most swing states. This is bad news...for Fox ( money.cnn.com ) » (224 comments) Video Cat special forces. Or special ed. You decide ( youtube.com ) » (9 comments) FarkUs Some of subby's old buddies have actually made use of those English degrees (if you like tabletop games this might interest you) ( www2.ljworld.com ) » (1 comment)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main The somewhat forgotten Trayvon Martin case has taken a few unusual turns in
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 20 2012 08:00:35  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 20 2012 14:00:39  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
