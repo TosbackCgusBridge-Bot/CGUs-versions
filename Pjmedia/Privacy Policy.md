@@ -115,23 +115,23 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Should President Obama Address Rumors of Election Unrest Before the Election?
-*   Today’s Ras: Romney 50/Obama 47 in Virginia
-*   Prime Suspect in Benghazi Attack Turns Up, Chillin’ with a Strawberry Frappe
+*   Now Up on the PJ Media Homepage
+*   Meet Tom Smith, the Farmer and Businessman Who May Seal Pennsylvania’s Transition from Blue to Red
+*   Winner of What is President Obama Thinking? – Photo Caption Contest
 
 More  
 
-*   The 5 Best Generation X Filmmakers
-*   _Ghostbusters 3_ Starts Shooting in Summer
-*   How Education Savings Accounts Will Revolutionize K-12 Schools
+*   _Paranormal Activity 4_ Serves Up Enough Spooks for a Satisfying Sequel
+*   ‘If Everyone Could Spend Even Six Months as a Crematory Operator, the World Would Be a Far Better Place.’
+*   Time to Read Ayn Rand?
 
 More
 
-*   Twilight of the Sort-Of Gods
-*   It's Not Just Obama's Lies — It's the Premise of Obama's Lies
-*   McCarthyism I can support
+*   Why People Now Ignore Paul Krugman
+*   How Education Savings Accounts Will Revolutionize K-12 Schools
+*   It's Romney's Race to Lose
 
-More   WEALTH AND ITS CONSEQUENCES: China: What Flows in, Must Flow out ... HOW ABOUT $300 MILLION IN PUBLIC FUNDING FOR CLEAN ENERGY FIRM WORKERS TO SIT AND PLAY CARDS? That’s what is happening at LG Chem, another of those electric car battery makers that got major federal funding, according to a local Michigan television news operation. Only problem is there’s almost no demand for what LG Chem makes. ... NEWS FROM THE PROGRESSIVE WORLD: “We are the coming civilization. We are the flood.” More Advertisement
+More   RNC TROUNCES DNC IN FUNDRAISING AS DEMOCRAT PARTY GOES ‘BANKRUPT:’ “Somehow, this seems an apt metaphor for the Obama era,” Stacy McCain writes. The president of course has his passionate supporters. These are the same people that spent last Tuesdaynight declaring him the winner of his second meeting with Mitt Romney, and Wednesday and Thursday trying to infuse the word “binder” with game-changing significance. ... LONGEVITY UPDATE: Starvation Hormone Markedly Extends Mouse Life Span, Without Need for Calorie Restriction. “Restricting food intake has been shown to extend lifespan in several different kinds of animals. In our study, we found transgenic mice that produced more of the hormone fibroblast growth factor-21 (FGF21) got the benefits of dieting without having to limit their food intake. Male mice that overproduced the hormone had about a 30 percent increase in average life span and female mice had about a 40 percent increase in average life span.” ... More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
