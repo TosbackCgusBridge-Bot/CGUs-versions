@@ -1,6 +1,6 @@
 (skip this header)
 
-Saturday Oct 20, 2012 11:15 AM PT
+Sunday Oct 21, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,9 +60,10 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Weekend events for bike lovers
-*   Flammable sunscreen recall
-*   7 mistakes of older job seekers
+*   Privacy being clipped
+*   Chronicle election endorsements
+*   Direct vs. nonstop flights
+*   Weekend bike events
 *   Bridge closure
 *   Giants playoff gear!
 
@@ -338,6 +339,10 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Zach Houston
+*   Nation in Focus
+*   Shawn Clover on SF "Mash-ups"
+*   World in Focus
 *   Spooky spots in the Bay Area
 *   Nation in Focus
 *   World in Focus
@@ -373,11 +378,6 @@ Ads by Yahoo! Photo Galleries
 *   Abandoned Bear Cub
 *   Day in Pictures, Oct. 17, 2012
 *   America's Cup boat capsizes
-*   2012 presidential town hall debate
-*   2012 presidential town hall debate
-*   Giants practice in St. Louis
-*   Bay Area Michelin Bib Gourmands 2012
-*   $38 million SF fixer in escrow
 
 *   Most Read
 *   |
@@ -385,55 +385,52 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
+1.  Police keep mum on arrest in killing of Ore. woman
+2.  Calif. family shot. body found in hunt for gunman
+3.  Pregnant NYC woman found slain day before wedding
+4.  Giants ride wave of emotion into Game 6
+5.  Teacher arrested for allegedly grabbing students by throats in Fairfield
+6.  San Francisco police investigate Mission homicide
+7.  Building evacuated over hazardous chemicals in San Francisco's North Beach
+
 1.  Barry much in it: Giants win Game 5
-2.  Point Reyes declared Drake landing site
-3.  Early Big Game irks Stanford, Cal
-4.  Zito redeems himself, saves Giants
-5.  Star power: Celebs and their picks for president
-6.  Giants ride wave of emotion into Game 6
-7.  3 killed in Highway 101 crash in San Jose
+2.  White House prepared to meet one-on-one with Iran
+3.  Commuters' privacy is being clipped
+4.  Star power: Celebs and their picks for president
+5.  Point Reyes declared Drake landing site
+6.  Romney and Obama head to their debate prep corners
+7.  Dozens of states make it hard to get abortions
 
-1.  CIA found militant links a day after Libya attack
-2.  Obama Says His Opponent Has a Case of %u2018Romnesia%u2019 Ahead of Debate
-3.  Barry much in it: Giants win Game 5
-4.  Police use of drones concerns activists
-5.  Apartment rents rise in Oakland, San Francisco, San Jose
-6.  Dew Tour - fun, or an extreme mess?
-7.  Decades of abuse of Boy Scouts detailed
-
-1.  Point Reyes declared Drake landing site
-2.  Meteor debris spread over wine country
-3.  Early Big Game irks Stanford, Cal
-4.  Rents rise in S.F., Oakland, San Jose
-5.  Barry much in it: Giants win Game 5
-6.  Comfy chicken dish with rice and ginger
-7.  Zito redeems himself, saves Giants
+1.  Olympic star Missy Franklin commits to Cal
+2.  Comfy chicken dish with rice and ginger
+3.  S.F. Urban Prototyping Festival opens
+4.  Charitable bequests gain new adherents
+5.  Fig Food Co. tops pumpkin puree panel
+6.  As Mavericks film shows, fear is crucial
+7.  Citigroup Board Said to Oust Pandit for Poor Execution
 
 loading... Latest News Videos From our homepage
 
 *     
+    The Oregonian, Brent Wojahn / AP
+    
+    Missing barista's body found
+    
+    Family distraught as neighbor investigated for aggravated murder in Oregon case.
+    
+
+*     
     Lance Iversen, The Chronicle / SF
     
-    Sir Francis Drake landed here
+    Big mid-season dud
     
-    The federal goverment tries to put to an end a 433-year-old historical controversy.
+    Stanford wins Big Game, rivalry suffers from scheduling snafu.
     
+*   'D' wins the day | Cal sinking
 
-*     
-    Michael Macor, The Chronicle / SF
+*   If only she could vote
     
-    Bringing it home
-    
-    The 5-0 win over the Cardinals sends series back to S.F.
-    
-*   Zito rises up | Wave of emotion
-
-*     
-    Charles Sykes / AP
-    
-    Politics is in the stars
-    
-    Obama or Romney? Celebrities make their picks for president.
+    'Honey Boo Boo,' other celebs reveal their presidential picks.
     
 *   When athletes get political
 
