@@ -174,10 +174,9 @@ coupon code: SHIP100
     *   Z
     *   ALL
 
-my fly Cold Weather Shop! Extra 20% off
+my fly Super Sunday Sale! Plus $50 off $300\* with Code **SUPER**
 
-*   Shop Women
-*   Shop Men
+*   Shop Now
 
 Privacy Notice
 
