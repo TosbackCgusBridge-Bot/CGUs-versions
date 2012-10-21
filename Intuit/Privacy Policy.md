@@ -21,7 +21,7 @@ true
 *   gifts
 *   registry Find Registry choose state Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District Of Columbia Federated States Of Micronesia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Marshall Islands Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Palau Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virgin Islands Virginia Washington West Virginia Wisconsin Wyoming
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena850 SERVER NAME :->. prod-l2-com-0102 TIME :->. Sat Oct 20 01:19:17 CDT 2012 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola851 SERVER NAME :->. prod-c1-com-0302 TIME :->. Sun Oct 21 07:09:36 CDT 2012 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -131,6 +131,7 @@ view all in bed &. bath
 *   nicole by nicole miller
 *   bisou bisou
 *   levi's
+*   alfred dunner
 *   view all brands
 
 view all in women
@@ -436,10 +437,10 @@ view all in clearance
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   fall fashion
-*   extended sizes
-*   nike
-*   women's boots
+*   women's outerwear
+*   men's outerwear
+*   windows
+*   home
 *   clearance
 
 see store ads
