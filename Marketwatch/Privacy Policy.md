@@ -192,87 +192,87 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 2:15 PM EDT October 20, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 21, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  12:06p
+/news/latest1.  7:00a
+    
+    The U.S. economy gets a little homier
+    
+2.  5:00p
+    
+    Canada rejects Petronas bid. Cnooc next?
+    
+3.  3:25p
+    
+    Canada rejects Petronas bid. Cnooc next?
+    
+4.  3:02p
+    
+    Suez, Veolia talks now dead: WSJ
+    
+5.  3:00p
+    
+    French utilities Suez, Veolia talked merger: WSJ
+    
+6.  2:53p
+    
+    PPP: Romney closes on Obama in Ohio
+    
+7.  2:29p
+    
+    All Kingfisher planes grounded since Oct. 1
+    
+8.  2:27p
+    
+    Suspension makes Kingfisher tunaround harder: WSJ
+    
+9.  2:22p
+    
+    India suspends Kingfisher Airlines' license: WSJ
+    
+10.  12:06p
     
     Stocks to watch Monday: Caterpillar, Yahoo
     
-2.  12:03p
+11.  12:03p
     
     China land price rises slow
     
-3.  12:00p
+12.  12:00p
     
     U.S. stocks slammed on worst day since June
     
-4.  10:49a
+13.  10:49a
     
     Canada rejects Petronas' $5.2B Progress Energy bid
     
-5.  10:01a
+14.  10:01a
     
     401(k) plan perks grow, but savings still lag
     
-6.  10:00a
+15.  10:00a
     
     A bicycle built for the 2%
     
-7.  9:07a
+16.  9:07a
     
     Banana Boat sunscreen recalled after burn injuries
     
-8.  9:02a
+17.  9:02a
     
     6 Wall Street blogs you should be reading
     
-9.  9:01a
+18.  9:01a
     
     10 nations that control the worldâs gold
     
-10.  9:01a
+19.  9:01a
     
     Individual investors are destroying their wealth
     
-11.  9:00a
+20.  9:00a
     
     U.S. stocks slammed on worst day since June
-    
-12.  8:08a
-    
-    Schemes that fleece unsuspecting renters
-    
-13.  8:00a
-    
-    At the NYSE, Larry Kofsky looks at the Fed meeting
-    
-14.  6:01a
-    
-    Hondaâs renaissance of radical reasonableness
-    
-15.  6:01a
-    
-    Power negotiating after the car warranty expires
-    
-16.  6:01a
-    
-    Apple, tech earnings in investorsâ sights
-    
-17.  11:04p
-    
-    Power 30: health-care honchos
-    
-18.  7:35p
-    
-    Two bank failures take U.S. tally to 46, FDIC says
-    
-19.  7:33p
-    
-    Two bank failures take U.S. tally to 46, FDIC says
-    
-20.  7:02p
-    
-    When and where meteor shower will peak on weekend
     
 21.  Loading more headlines...
 
