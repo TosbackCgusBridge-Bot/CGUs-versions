@@ -212,21 +212,21 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-GOP sees food fight as kids trash USDA fruit, vegetable guidelines Obama under pressure to spell out his agenda for a second termObama spinning toward a lossIn Florida, Romney slams Obama's 'incredible shrinking campaign'Report: White House adds intelligence-sharing measure to draft cyber order
+International monitors at US polling spots draw criticism from voter fraud groupsGOP sees food fight as kids trash USDA fruit, vegetable guidelines Obama under pressure to spell out his agenda for a second termPoll: Romney gaining ground in OhioObama spinning toward a loss
 
 Emailed
 
-GOP sees food fight as kids trash USDA fruit, vegetable guidelines Reagan 1984, Obama 2012 Obama racks up newspaper endorsementsInternational monitors at US polling places draw criticism Women, Ohio and the Clintons will make the difference for Democrats
+International monitors at US polling spots draw criticism from voter fraud groupsGOP sees food fight as kids trash USDA fruit, vegetable guidelines Reagan 1984, Obama 2012 Obama racks up newspaper endorsementsPolls: Romney's Fla. lead grows, but Iowa, NH, NC remain close
 
 Discussed
 
-Sen. Graham: Obama move on defense layoff notices 'patently illegal'Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'First lady: President 'didn't point fingers, didn't place blame'Obama spinning toward a lossObama under pressure to spell out his agenda for a second term
+International monitors at US polling spots draw criticism from voter fraud groupsObama spinning toward a lossFirst lady: President 'didn't point fingers, didn't place blame'Obama under pressure to spell out his agenda for a second termGOP sees food fight as kids trash USDA fruit, vegetable guidelines
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
+*   Former Sen. McGovern, 1972 Dem presidential candidate, dies aged 90
+*   Report: Rep. Jesse Jackson Jr. releases robocall, tells supporters 'I am human'
 *   Contributions up, spending down for conservative super-Pac
-*   King calls for Benghazi intelligence reports
-*   Report: Rep. Jesse Jackson Jr. returning to Mayo Clinic for treatment
 
   
 More Briefing Room » Congress Blog
@@ -252,30 +252,30 @@ More Pundits Blog » Twitter Room
   
 More Twitter Room » Hillicon Valley
 
+*   Facebook campaign advertisements don’t work, says new study
 *   Report: White House adds intelligence-sharing measure to draft cyber order
 *   Study: Two-thirds of social media users are engaged in political activity
-*   Google finds debate viewers turn to phones for info
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
+*   Environmental groups divided on whether to hit Obama on climate change
 *   Lawyer who led GOP's Solyndra probe returns to lobby firm
 *   Swing-state paper cites energy plans in Obama endorsement
-*   Wind credit uncertainty dents GE revenues
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Poll: Obama up by 2 points in Virginia
-*   Obama plans ‘around the clock' blitz
-*   In Florida, Romney slams Obama's 'incredible shrinking campaign'
+*   Gay Republican candidate anticipates a few GOP 'knuckleheads' in Congress
+*   Poll: Romney gaining ground in Ohio
+*   Obama tops Romney in September fundraising
 
   
 More Ballot Box » On The Money
 
+*   Lawmakers have ‘fiscal cliff’ menu of options from failed debt talks
 *   Stephen Colbert may be waiting for his own 'October surprise'
 *   Senior House Democrat revives discussion of payroll tax cut extension
-*   Existing home sales fall slightly in September
 
   
 More On The Money » Healthwatch
@@ -301,16 +301,16 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
-*   Military voters still face trouble at the polls
+*   Military voters still face trouble at polls
 *   Rubio renews intelligence leak debate, ties threat to Libya
 *   Lieberman asks State, DOD for documents in Libya investigation
 
   
 More DEFCON Hill » Global Affairs
 
+*   White House: No deal on Iran nuclear talks
 *   Republicans hit Obama from all sides on response to Benghazi attack
 *   Issa takes aim at President Obama with investigation of Libya attack
-*   Friday's global agenda: Obama seeks to make up lost foreign policy edge ahead of final debate
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Obama spins toward loss Brent Budowsky Reagan 1984, Obama 2012 More Columnists »
