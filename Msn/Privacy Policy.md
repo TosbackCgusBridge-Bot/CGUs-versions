@@ -212,14 +212,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
-    *   NLCS on FOX: Zito blanks Cardinals
-    *   Rosenthal: NLCS Game 6 preview
-    *   Pick Nation: Week 8 CFB picks
-    *   Fearless Predictions: MSU/MICH
-    *   Davis: Week 8 Player Watch
-    *   NLCS on FOX: Giants roll past Cardinals
+    *   Week 7 NFL Preview
     *   Pick Nation: Week 7 NFL picks
-    *   Fearless Predictions: SC/FLA
+    *   Highlights: (4) Kansas State - (13) WVU
+    *   CFB on FOX: Kansas State/WVU recap
+    *   Highlights: Baylor - (25) Texas
+    *   NFL on FOX: GB/STL preview
+    *   Tottenham v Chelsea Premier League Highlights 10/20/12
+    *   UFC on FUEL TV: Highlights - UFC 153
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -345,7 +345,7 @@ Close Email A Friend Your email has been sent.
     *   Video
 *   Living
     *   style
-    *   d??cor
+    *   décor
     *   sex &. relationships
     *   family
     *   inspire
@@ -505,33 +505,33 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   QB Nelson getting surprise start for Gophers
-*   Wolves waive shooting guard Taylor
-*   Bulls win in Wolves' first game without Love
+*   Minnesota's Lucia gets 600th career win
+*   Ponder looks to bounce back after 'growing...
+*   Gophers pin their hopes on QB Nelson
 
-*   F1: Ferrari Chose Massa For 'Speed And Harmon...
-*   F1: Grand Prix News Briefs (Update 1)
-*   CUP: Biffle Tops Practice Chart Again
+*   MOTOGP: Clutch Pedrosa Awarded Sepang Victory
+*   MOTOGP: Sepang Sunday Guide
+*   SX: Barcia Cashes In At Monster Energy Cup
 
-*   HALFTIME: Clemson 17 Va. Tech 10
-*   Live: 115th Big Game between Cal and Stanford
-*   GAMEDAY
+*   Game Day Matchups
+*   Game Day Notebook
+*   Time for Steelers to Make Their Move
 
 *   Cooking For The Coaches
 *   Teaser: Fighter Trivia
 *   UFC On FUEL TV 6: Franklin vs. Le Teaser
 
-*   Megatron says Asomugha flopped
-*   DC papers not using 'Redskins' name?
-*   Luongo headed to Toronto?
+*   Tebow's interesting role in Pats prep
+*   Report: Red Sox hire Farrell
+*   Harbaugh upset with Seattle's DBs
 
-*   Arsenal se mide al Norwich
-*   El Madrid con bajas recibe al Celta
-*   Juventus vs Napoli: duelo de líderes
+*   Cristiano Ronaldo sale lesionado
+*   América doma a la fiera en casa
+*   El Barca sufre para vencer al Depor
 
-*   Premier League: Norwich City vs. Arsenal
-*   La Liga: Real Madrid vs. Celta da Vigo
-*   Manchester United triumph at home
+*   Liverpool eyeing Walcott, Sturridge
+*   Manchester United defeats Stoke City
+*   Manchester United vs. Stoke City highlights
 
 *   *   NFL
     *   NFL Home
