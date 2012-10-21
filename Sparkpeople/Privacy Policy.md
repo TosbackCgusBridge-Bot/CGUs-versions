@@ -143,28 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Sleep Cycles Resources
+*   Cabbage Juice Diet Resources
 
   
-Stay in Touch With SparkPeople **Beat the Flu! Here's How**
+Stay in Touch With SparkPeople **Choosing a Walking or Running Route**
 
-Here's how to prevent an illness from occurring, plus seven tips to get well faster.
+Walking and running are excellent ways to stay in shape year-round. These basic workouts are convenient, feasible almost anywhere, and require only a good pair of shoes!
 
 Read More
 
-*   Healthy snack ideas for under 100 calories?
-*   Why the scale isn't a good indicator of health.
-*   What's your "go to" type of workout?
-*   "New to me" foods
+*   What does it mean to eat healthy?
+*   Need Ideas for working out at home
+*   Specific Tips to get through the Weekend
 *   Please share your favorite "pumpkin" recipes!
+*   Healthy snack ideas for under 100 calories?
 
-View Demo **Low Mount Abduction with Band**  
-This exercise targets 2 common problem areas: outer thighs and hips. **Chef Meg's Spring Rolls**  
-Submitted By: **CHEF\_MEG**
+View Demo **Close-Arm Wall Pushups**  
+Placing your hands together during this push-up targets your arms more than standard push-ups do. **Whole Wheat Waffles**  
+Submitted By: **JOGANRAY**
 
-This recipe is really easy. it's really more of a process than a recipe. Rice paper wrappers, which are available in the ethnic sections of most larger supermarkets these days, are a great way to wrap your veggies and protein for a quick snack or light lunch.  
-  
-Full Recipe
+A terrific way to start your day, much better than the frozen waffles you can find at the grocery store. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
