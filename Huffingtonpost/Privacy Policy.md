@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 20, 2012 Edition: **U.S.**
+October 21, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 20, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Crazy Polls Show Close Race, Continuing Obama Edge In Battlegrounds 25k
-    *   Obama Hits 'Romnesia' 45k
-    *   Battleground State Newspaper Dumps Obama For Romney 10k
-    *   Soup Kitchen In Paul Ryan Flap Facing Donor Backlash 11k
-    *   Obama, Romney Trade Zingers At Al Smith Dinner 8k
+    *   Back To Bain: Obama-Backing Super PAC Re-Releases Romney Attack Ad 23k
+    *   Tracking Polls: A Post-Debate Uptick For Obama? 12k
+    *   Prominent Democratic Strategists Relieved At Survey On Obama Economic Message 14k
+    *   Crazy Polls Show Close Race, Continuing Obama Edge In Battlegrounds 26k
+    *   Obama Hits 'Romnesia' 48k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 20, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   'James Bond' Debt Collector Allegedly Murders One-Time Maxim Model 324
-    *   Abercrombie &. Fitch's Corporate Jet Takes Cultish To a Whole New Level 392
+    *   Abercrombie &. Fitch's Corporate Jet Takes Cultish To a Whole New Level 443
+    *   'James Bond' Debt Collector Allegedly Murders One-Time Maxim Model 390
+    *   Jobs That Make Workers Feel Really Guilty 167
     *   White McDonald's Customer Alleges Racism After She's Denied Biscuits 1k
-    *   The Most Dangerous City In America Is... 220
-    *   Dow Has Worst Day In Months 536
+    *   'A Blow To Its Brand' 12
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 20, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   Clint Eastwood's Daughter Says She's Not Voting For Romney 2k
-    *   19 Biggest Movie Plot Holes 262
-    *   Sheen, Harrelson Set To Star In 9/11 'Truther' Film 2k
-    *   WATCH: Willow Smith Covers Adele's 'Skyfall' 227
-    *   Dr. Ruth Demands That Helen Hunt Start Using Contraceptives 64
+    *   Clint Eastwood's Daughter Says She's Not Voting For Romney 3k
+    *   Sheen, Harrelson Set To Star In 9/11 'Truther' Film 5k
+    *   Obama Gives Jay-Z Parenting Advice 774
+    *   19 Biggest Movie Plot Holes 278
+    *   WATCH: Willow Smith Covers Adele's 'Skyfall' 345
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 20, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   This Doesn't Bode Well... 580
-    *   Google Designs From The '90s Unearthed: Potential Designs Include 'Kermit The Frog'-Type Suggestion
-    *   WATCH: Tech Execs Come Out Strong For Obama 155
-    *   Facebook Is 'Going Purple'... And So Can You 76
-    *   Judge Forces Apple To Apologize To Samsung 545
+    *   Apple Drops Widely Used Software Over Security Risks 380
+    *   This Doesn't Bode Well... 1k
+    *   The 9 Most Popular Viral Videos Of The Week
+    *   Google Still Searching for Answers To Its 'Mobile Problem' 136
+    *   WATCH: Notorious Internet Troll Apologizes For Shocking, Offensive Posts 175
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 20, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   WATCH: Obama Takes A Jab At Chris Matthews 3k
+    *   Female Reporter 'Savagely Attacked' In Cairo 2k
+    *   PHOTO: New Yorker Cover Hits Romney 1k
+    *   WATCH: Whoopi Goldberg's Uncomfortable Question To Ann Romney 22k
     *   Fox News Chief Signs Big New Contract 1k
-    *   WATCH: Whoopi Goldberg's Uncomfortable Question To Ann Romney 21k
-    *   PHOTO: New Yorker Cover Hits Romney 657
-    *   WATCH: Tom Hanks Drops F-Bomb 206
+    *   WATCH: Obama Takes A Jab At Chris Matthews 3k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 20, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
+    *   CIA Found Militant Links Just 1 Day After Libya Attack 9k
     *   Austria Probes Gruesome Nazi Abuse 2k
-    *   CIA Found Militant Links Just 1 Day After Libya Attack 8k
-    *   Huge Explosion Rocks Beirut 1k
-    *   Top Lebanese Security Official Reportedly Killed In Blast 277
-    *   Stray Cat Discovers Secret 2,000-Year-Old Tomb 228
+    *   White House Denies U.S.-Iran Nuclear Talks Report 1k
+    *   Chinese Girl Grows Beard Due To Life-Saving Bone Marrow Treatment 244
+    *   Report: GOP Document Dump Exposes Libyans Working With U.S. 6k
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 20, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   35 Diet And Nutrition Experts You Should _Already_ Be Following 25
-    *   Jennifer Lost 200 Pounds: 'I Ate Because I Was Bored. I Ate Because I Was Lonely. I Ate Because I Could’ 26
-    *   Happy Reads: 10 Books That Make Us Smile 14
-    *   Banana Boat Recalls Sunscreen After 5 People Catch On Fire 170
-    *   The Baker, The Free Food Fiend, The Food Bully: Which Workplace Diet Saboteur Is Your Biggest Weakness? 31
+    *   A Brain Booster.. A Natural Fat Blaster.. A Cancer Fighter: 7 Great Benefits Of _This_ Tea 102
+    *   Jennifer Lost 200 Pounds: 'I Ate Because I Was Bored. I Ate Because I Was Lonely. I Ate Because I Could’ 69
+    *   35 Diet And Nutrition Experts You Should _Already_ Be Following 27
+    *   Happy Reads: 10 Books That Make Us Smile 22
+    *   Banana Boat Recalls Sunscreen After 5 People Catch On Fire 211
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 20, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
-    *   PHOTOS: See Who Turned Out For Bergdorf's 111th Birthday Party
-    *   WATCH: Ed Burns Reveals How He Landed Christy Turlington 14
-    *   Michelle Obama Has A Surprise Answer For The Eternal 'Boxers Or Briefs?' Question 489
-    *   PHOTOS: Kim Kardashian Channels... Gumby? 37
-    *   PHOTOS: See How Kanye Upgraded Kim's Closet
+    *   PHOTOS: Prince Guillaume &. Stephanie De Lannoy's Glamorous Royal Wedding In Luxembourg 155
+    *   PHOTO: Mena Suvari Goes A Little Cutout Crazy 127
+    *   PHOTOS: See Who Turned Out For Bergdorf's 111th Birthday Party 12
+    *   Michelle Obama Has A Surprise Answer For The Eternal 'Boxers Or Briefs?' Question 736
+    *   WATCH: Ed Burns Reveals How He Landed Christy Turlington 20
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 20, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   PHOTOS: The Funniest Haunted House Reactions 217
-    *   WATCH: Jon Mocks Obama's Debate Performance To His Face 4k
-    *   WATCH: Romney's Horrifying Google History LEAKED 242
-    *   WATCH: An Unexpected, Disgusting Guest 108
-    *   WATCH: Kitten vs. Doberman... In Bed 65
+    *   PHOTOS: The Funniest Haunted House Reactions 276
+    *   WATCH: Maher Unearths Another Secret Video Of Mitt 1k
+    *   The Funniest News Corrections
+    *   WATCH: Romney's Horrifying Google History LEAKED 468
+    *   POLL: Who Is Funnier? 987
     
     Go to Comedy **More in Comedy**
     
@@ -217,9 +217,9 @@ October 20, 2012 Edition: **U.S.**
 *   LIVE
     *   Next Are We There Yet?
     *   Next GOTV
-    *   Later The GOP's Lost Plank
-    *   Later Swung By Hollywood
-    *   Later Interracial Dating GameGo to HuffPost Live
+    *   Tomorrow The GOP's Lost Plank
+    *   Tomorrow Swung By Hollywood
+    *   Tomorrow Interracial Dating GameGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
