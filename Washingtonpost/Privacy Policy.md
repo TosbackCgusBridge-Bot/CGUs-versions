@@ -23,17 +23,8 @@
     
     Blogs &. Columns
     
-    *   **As Obama and Romney prepare for...**  
-        Election 2012 | Felicia Sonmez
-    
-    *   **Obamaâs claim that Romney wants...**  
-        The Fact Checker | Glenn Kessler
-    
     *   **Is Jill Stein crazy, or are we?**  
         She The People | Melinda Henneberger
-    
-    *   **Senate Democratsâ campaign arm...**  
-        The Fix | Sean Sullivan
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -48,12 +39,6 @@
     
     *   **How to dump a candidate**  
         ComPost | Alexandra Petri
-    
-    *   **Open Thread**  
-        The Plum Line | Greg Sargent
-    
-    *   **A split or a tie in the election?**  
-        PostPartisan | Jonathan Bernstein
     
     *   **Friday question**  
         Right Turn | Jennifer Rubin
@@ -97,14 +82,11 @@
     
     Blogs &. Columns
     
-    *   **NHL cancels games through November...**  
-        Capitals Insider | Katie Carrera
-    
     *   **Giants rookie compares himself...**  
         DC Sports Bog | Sarah Kogod
     
-    *   **Redskins fined $20,000 for Robert...**  
-        The Insider | Mark Maske
+    *   **Brandon Banks still waiting for...**  
+        The Insider | Mike Jones
     
     *   **How teams with the best record...**  
         Nationals Journal | James Wagner
@@ -128,11 +110,7 @@
     
     *   **Leadership profiles of Romney**  
         PostLeadership | Jena McGregor
-    
-    *   **Scholar: Obamaâs strategy is to...**  
-        Under God | Georgetown/ On Faith
 *   World In World
-    
     *   Africa
     *   The Americas
     *   Asia &. Pacific
@@ -142,20 +120,6 @@
     *   War Zones
     *   Special Reports
     *   Columns &. Blogs
-    
-    Blogs &. Columns
-    
-    *   **A charming video captures moments...**  
-        WorldViews | Max Fisher
-    
-    *   **Why Wissam al-Hassan matters for...**  
-        WorldViews | Max Fisher
-    
-    *   **Kim Jong Ilâs grandson calls his...**  
-        WorldViews | Olga Khazan
-    
-    *   **Of course this Congolese rebel...**  
-        WorldViews | Max Fisher
 *   Business In Business
     
     *   Economy
@@ -170,17 +134,11 @@
     
     Blogs &. Columns
     
-    *   **Color of Money**  
+    *   **Debt settlement rarely works**  
         The Color of Money | Michelle Singletary
     
     *   **Google, Microsoft earnings illustrate...**  
         Post Tech | Hayley Tsukayama
-    
-    *   **Why the economy may be better than...**  
-        Steven Pearlstein
-    
-    *   **Chuck Schumer: Democrats have tax...**  
-        Wonkblog | Ezra Klein
 *   Tech In Technology
     
     *   Policy
@@ -190,9 +148,6 @@
     *   Photo Galleries
     
     Blogs &. Columns
-    
-    *   **Google, Samsung offer new Chromebooks**  
-        Hayley Tsukayama
     
     *   **Google, Microsoft earnings illustrate...**  
         Post Tech | Hayley Tsukayama
@@ -217,9 +172,6 @@
     *   **A monstrous remake of âMadelineâ**  
         The Style Blog | Ron Charles
     
-    *   **Take the kids this weekend: Croydon...**  
-        On Parenting | On Parenting
-    
     *   **Read this: Drake, DeGeneres, White...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
@@ -237,17 +189,8 @@
     
     Blogs &. Columns
     
-    *   **Art: Two Lichtenstein retrospectives**  
-        Classical Beat | Anne Midgette
-    
     *   **Justin Timberlake and Jessica Biel...**  
         Celebritology 2.0 | Jen Chaney
-    
-    *   **Michael Goldrick new news veep...**  
-        The TV Column | Lisa de Moraes
-    
-    *   **A Newsweek appreciation**  
-        Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
     
@@ -266,10 +209,10 @@
 
 In the News
 
-*   âRomnesiaâ
-*   Big Tex
+*   Ellen DeGeneres
 *   O.J. Simpson
-*   NLCS
+*   Meteor shower
+*   Jill Stein
 *   College football scores
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
@@ -319,94 +262,11 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-CIA documents supported Susan Riceâs description of Benghazi attacks
-
-David Ignatius 
-
-The tea party is helping Democrats
-
-Dana Milbank 
-
-Joe Biden is just being Joe, and the edginess works for some
-
-Krissah Thompson 
-
-Mitt Romney is winning the white vote Lebanonâs prime minister says deadly Beirut car bombing has links to the crisis in Syria
-
-Associated Press 
-
-Five myths about the bin Laden raid
-
-Mark Bowden 
-
-Obama fires up crowd in Virginia with âRomnesiaâ speech
-
-Jerry Markon 
-
-Beirut assassination heightens fears of Syrian violence embroiling Lebanon
-
-Liz Sly 
-
-âBindersâ are whatâs wrong with politics today
-
-Kathleen Parker 
-
-About that Gallup poll: Is Romney really up by 7? And will Obama win the election anyway? Mobile trend trips tech titans
-
-Craig Timberg 
-
-Date Lab: After experiencing a loss, will dating be a gain?
-
-Christina Breda Antoniades 
-
-Carolyn Hax: When to stop waiting to hear those three little words
-
-Carolyn Hax 
-
-Facebook privacy targeted by Austrian law student
-
-Craig Timberg 
-
-CIA seeks to expand drone fleet, officials say
-
-Greg Miller 
-
-Seeds of our dysfunction
-
-George F. Will 
-
-U.S.: Evidence doesnât show planning in Libyan attack
-
-Greg Miller 
-
-Pay gap widens for federal workers, panel says
-
-Eric Yoder 
-
-The 60 most important House races Can a businessman help the economy? For presidents, the answer has been no.
-
-Robert S. McElvaine 
-
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  CIA documents supported Susan Rice's description of Benghazi attacks
-    2.  The tea party is helping Democrats
-    3.  Joe Biden is just being Joe, and the edginess works for some
-    4.  Mitt Romney is winning the white vote
-    5.  Lebanon's prime minister says deadly Beirut car bombing has links to the crisis in Syria
 *   Top Videos
-    1.  Romney son makes birther joke
-    2.  Obama coins 'Romnesia' at Virginia rally
-    3.  From 2010: Officers strike student after U-Md. basketball game
-    4.  Get to know D.C.'s new comics
-    5.  Another Romney binder
 *   Top Galleries
-    1.  Newsweek covers through the years
-    2.  Endorsements that Romney, Obama may not want
-    3.  Political photo ops through the years
-    4.  Historic Home Contest winner and runners-up
-    5.  Taylor Swift through the years
 
 Today's Paper
 
