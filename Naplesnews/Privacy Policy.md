@@ -143,23 +143,6 @@ Naples Daily News
 *   Cars
 *   Classified
 
-*   PrepZone: Football
-    
-    Scores &. Chat Archive | Naples vs. Palmetto Ridge | Barron Collier vs. Immokalee | Cypress Lake vs. Estero
-    
-*   PrepZone: Game Photos
-    
-    Lely vs. Golden Gate | Port Charlotte vs. Gulf Coast | Send Us Your Photos »
-    
-*   PrepZone: Game Videos
-    
-    Lely vs. Golden Gate | Naples vs. Palmetto Ridge | South Fort Myers vs. Island Coast
-    
-*   PrepZone: Game Videos
-    
-    Port Charlotte vs. Gulf Coast | Estero vs. Cypress Lake | More Videos »
-    
-
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -452,24 +435,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Collier deputy shoots man who had fake gun Published 10/19/2012 at 2:59 p.m.
-*   Prep Football: Chat, scores, videos, photos and stories from Week 8 Updated 10/19/2012 at 11:33 p.m. 0 comments
-*   Sheriff’s Office investigating deputy-involved shooting of man with fake gun Published 10/19/2012 at 9:11 p.m.
-*   Ryan: Florida to decide 'what kind of country we're going to have' Updated 10/18/2012 at 9:50 p.m. 224 comments
-*   Witnesses: Deputy shot man outside of 7-Eleven in East Naples Updated 10/19/2012 at 11:34 a.m.
+*   Collier Sheriff's Office releases names of deputies in East Naples shooting Published 10/20/2012 at 11:49 a.m.
+*   Countdown to debate: Romney ups criticism of Obama's second-term plans Published 10/20/2012 at 12:11 p.m. 81 comments
+*   Do you vote based on a candidate's character? Take our survey! Published 10/20/2012 at 7:00 a.m. 12 comments
+*   Worsening red tide brings dead fish onto Naples-area beaches Published 10/20/2012 at 7:00 a.m. 15 comments
+*   Coin toss: Blaming Obama, East Naples man accused of throwing pennies at Dems Published 10/20/2012 at 10:10 p.m. 20 comments
 
-Photo Galleries 7-Eleven Shooting Prep Football: Naples vs. Palmetto Ridge Prep Football: Barron Collier vs…
+Photo Galleries Stiletto Sprint 2012 7-Eleven Shooting Prep Football: Cypress Lake vs. Estero
 
-*   Ryan: Florida to decide 'what kind of country we're going to have' Published 10/18/2012 at 1:01 p.m. 224 comments
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 5:05 p.m. 409 comments
+*   Ryan: Florida to decide 'what kind of country we're going to have' Published 10/18/2012 at 1:01 p.m. 245 comments
+*   Countdown to debate: Romney ups criticism of Obama's second-term plans Published 10/20/2012 at 12:11 p.m. 81 comments
 *   Obama, Romney seek support from women after debate Published 10/17/2012 at 8:59 p.m. 90 comments
 *   Witnesses: Deputy shot man outside of 7-Eleven in East Naples Published 10/19/2012 at 9:27 a.m.
-*   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 53 comments
+*   Letter: I told you so Published 10/19/2012 at 4:00 a.m. 45 comments
 
-*   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
 *   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 54 comments
 *   RECALL: Kellogg's Frosted Mini-Wheats may contain metal Published 10/11/2012 at 1:40 p.m. 10 comments
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 289 comments
+*   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
+*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 290 comments
 *   In the Know: What can and can't be recycled in Collier County? Published 10/15/2012 at 5:00 a.m. 12 comments
 
 Weather
@@ -478,40 +461,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 84° Partly Cloudy Wind: W 7mph Today 85° 67° Sun 02:00 AM Mostly Clear Temp: 72° Sun 02:00 PM Mostly Sunny Temp: 84° Mon 02:00 AM Mostly Clear Temp: 68°
+Currently 66° Fair Wind: NE 8mph Today 86° 69° Sun 08:00 PM Mostly Clear Temp: 78° Mon 08:00 AM Mostly Sunny Temp: 67° Mon 08:00 PM Partly Cloudy Temp: 79°
 
-Feels Like: 72°
+Feels Like: 78°
 
-Humidity: 76%
-
-Precip: 10%
-
-Feels Like: 83°
-
-Humidity: 37%
+Humidity: 54%
 
 Precip: 5%
 
-Feels Like: 68°
+Feels Like: 67°
 
-Humidity: 81%
+Humidity: 84%
 
-Precip: 2%
+Precip: 1%
+
+Feels Like: 79°
+
+Humidity: 62%
+
+Precip: 5%
 
 More Weather » Calendar
 
-*   Saturday Oct 20
 *   Sunday Oct 21
 *   Monday Oct 22
+*   Tuesday Oct 23
 *   More BROWSE Icon
-
-*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
-*   Estero Community Park Yard Sale Estero Community Park &. Recreation Center 7:30 a.m.
-*   Third Street South Farmers Market Third Street South 7:30 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Paddleboard Yoga and Fitness 1st Ave South Naples, FL 8:30 a.m.
-
-More Events »
 
 *   Rocktoberfest 10 Mile Run North Collier Regional Park 7 a.m.
 *   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
@@ -526,6 +501,14 @@ More Events »
 *   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
 *   Mangrove Estuary Kayak Tour with Up A Creek Kayak Tours Waters of Rookery Bay Reserve 9 a.m.
 *   Pumpkin Patch North Naples United Methodist Church 9 a.m.
+
+More Events »
+
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Mangrove Estuary Kayak Tour with Up A Creek Kayak Tours Waters of Rookery Bay Reserve 9 a.m.
+*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
+*   Barrier Islands Guided Walk Bowditch Point Recreational Park 9:30 a.m.
 
 More Events »
 
