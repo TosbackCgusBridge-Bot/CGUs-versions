@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 86 comments
-*   Face to face: Obama, Romney in crackling debate Updated 10/16/2012 at 8:57 p.m. 341 comments
-*   Krauthammer: The worst gaffe in debates so far Published 10/18/2012 at 2:51 p.m. 44 comments
-*   Oxnard police say they mistook bystander for suspect, fatally shot him Updated 10/19/2012 at 9:40 a.m.
-*   Community divided over dueling education propositions Published 10/19/2012 at 5:53 p.m. 31 comments
+*   Community divided over dueling education propositions Published 10/19/2012 at 5:53 p.m. 56 comments
+*   No La Niña or El Niño this year, just La Nada Published 10/19/2012 at 8:29 p.m. 15 comments
+*   Three arrested in connection with investigation of contractors Published 10/19/2012 at 6:53 p.m.
+*   Oxnard police arrest woman after alleged armed robbery Updated 10/20/2012 at 4:37 p.m.
+*   100-year-old avocado tree to be cut down as Ventura neighbors rally to save it Published 10/19/2012 at 8:31 p.m.
 
 Photo Galleries Chaotic shooting rattles La Colonia… Ventura County's Most Wanted October… Football: Ventura vs. Buena
 
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 341 comments
-*   Morning chat Published 10/17/2012 at 12:00 a.m. 111 comments
-*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 86 comments
-*   Morning chat Published 10/19/2012 at 12:00 a.m. 91 comments
+*   Morning chat Published 10/19/2012 at 12:00 a.m. 145 comments
+*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 347 comments
+*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 103 comments
 *   Morning chat Published 10/18/2012 at 12:00 a.m. 85 comments
+*   Community divided over dueling education propositions Published 10/19/2012 at 5:53 p.m. 56 comments
 
 *   Norovirus outbreak hits Oak Park school Published 10/15/2012 at 5:56 p.m. 8 comments
 *   Oaks Christian might have broken football recruitment rules – Video Published 10/18/2012 at 2:53 p.m. 0 comments
 *   2 dead after Oxnard police trade gunfire with men Published 10/14/2012 at 2:57 p.m. 0 comments
-*   Firefighters battle Lookout Fire near Santa Barbara that threatened about 100 homes Published 10/17/2012 at 10:01 a.m. 0 comments
 *   Scores of dogs seized from Simi Valley home now up for adoption Published 10/17/2012 at 5:35 p.m. 15 comments
+*   Chumash looking to acquire portion of Santa Susana Field Lab Published 10/15/2012 at 6:17 p.m. 21 comments
 
 Weather
 
@@ -660,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 68° Overcast Wind: Calm Today 68° 57° Sat 11:00 PM Dreary Temp: 59° Sun 11:00 AM Mostly Cloudy Temp: 65° Sun 11:00 PM Mostly Clear Temp: 56°
-
-Feels Like: 59°
-
-Humidity: 100%
-
-Precip: 11%
+Currently 63° Overcast Wind: Calm Today 67° 60° Sun 05:00 PM Mostly Cloudy Temp: 65° Mon 05:00 AM Dreary Temp: 58° Mon 05:00 PM Mostly Cloudy Showers Temp: 65°
 
 Feels Like: 65°
 
 Humidity: 81%
 
-Precip: 11%
+Precip: 14%
 
-Feels Like: 56°
+Feels Like: 58°
 
-Humidity: 100%
+Humidity: 86%
 
-Precip: 6%
+Precip: 14%
+
+Feels Like: 65°
+
+Humidity: 61%
+
+Precip: 14%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Saturday Oct 20
 *   Sunday Oct 21
 *   Monday Oct 22
+*   Tuesday Oct 23
 *   More BROWSE Icon
-
-*   GENEALOGY SOCIETY FALL SEMINAR Church of Jesus Christ of Latter-Day Saints - Ventura 8 a.m.
-*   The Power of Pink: How to Cheat, Treat &. Beat Breast Cancer Ronald Reagan Presidential Library and Museum 8 a.m.
-*   Ventura County Heart Walk Conejo Creek North Park / Creekside Pavillion 9 a.m.
-*   “Learn How to Fly,” a series of informational seminars for 16-year-olds and older Camarillo Airport 9 a.m.
-*   “Learn How to Fly,” a series of informational seminars for 16-year-olds and older Camarillo Airport 9 a.m.
-
-More Events »
 
 *   21st Annual Rotary Club of Thousand Oaks Street Fair Moorpark Road, just north of Highway 101 between Hillcrest and Wilbur Roads. 9 a.m.
 *   Gold Coast Health Plan Community Resource Fair Del Sol Park, 1500 Camino Del Sol, Oxnard, CA 93030 10 a.m.
@@ -746,10 +738,18 @@ More Events »
 More Events »
 
 *   Zentangle®­ Art 4 Week Class Port Hueneme Community Center 10 a.m.
+*   Third and Last Presidential Debate: 2906 Cochran Street in the Sycamore Plaza behind (Panara Bread) 6 p.m.
 *   Thousand Oaks Reads Book Discussion Newbury Park Branch Library 6:30 p.m.
 *   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
 *   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
-*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
+
+More Events »
+
+*   You’re Not the Boss of Me! Effective Management of Employees Best Western Posada Royale 7:30 a.m.
+*   CAI Luncheon: "Fraud &. Embezzlement: The Art of Stealing Other People's Money!" Los Robles Golf Course Banquet Center 11:30 a.m.
+*   How to Coexist with Wildlife Westlake Village Civic Center 7 p.m.
+*   Cécile Hortensia live at Genghis Cohen Genghis Cohen 8 p.m.
+*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
 
 More Events »
 
