@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Environment:** Underground river 'Rio Hamza' discovered 4km beneath the Amazon
-2.  2\. **Media:** David Mitchell: goodbye lonely nerd
-3.  3\. **News:** Obama heads to Camp David to prepare for crucial final debate
-4.  4\. **Football:** Tottenham Hotspur v Chelsea – as it happened
-5.  5\. **Life &. style:** Across the barricades: love over the class divide
+1.  1.  **News:** Thomas Quick: the Swedish serial killer who never was
+2.  2\. **Politics:** Norman Tebbit attacks 'dog of a coalition government'
+3.  3\. **Football:** Sir Alex Ferguson angered by Rio Ferdinand's Kick It Out T-shirt snub
+4.  4\. **Society:** Onset of puberty in girls has fallen by five years since 1920
+5.  5\. **Education:** Gangnam Style parody: Eton Style - video
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Culture:** The 10 best Channel 4 moments
-2.  **Football:** Tottenham Hotspur v Chelsea – as it happened
-3.  **Society:** Trade unions march against cuts
-4.  **Politics:** Alex Salmond's speech at SNP conference: Politics live blog
-5.  **News:** Eyewitness: Anti-austerity march, London
+1.  **Politics:** Thousands protest at TUC rally in London - video
+2.  **Politics:** MPs dodge expenses rules to get first-class rail travel
+3.  **Stage:** Lucy Kirkwood: 'Boys are force-fed this very plastic sexuality on a mass scale'
+4.  **Environment:** Badger cull under threat from last-minute legal challenge
+5.  **Life &. style:** Nigel Slater's chilly weather recipes
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Norwich City v Arsenal – live!
-2.  2\. Strictly Come Dancing 2012 live blog: third live show
-3.  3\. SPL round-up: Murray Davidson scores as Saints move up to second place
-4.  4\. Football League: your thoughts
-5.  5\. Frankel must now prove his worth from scratch in an entirely new field
+1.  1.  Sunderland v Newcastle United - live!
+2.  2\. Should the UK scrap its nuclear weapons?
+3.  3\. Swiss Bodybuilding Championship - in pictures
+4.  4\. Napoli wilt in the face of Juve's Andrea Pirlo facts
+5.  5\. Halloween dog parade in New York – in pictures
 6.  All today's stories
 
 On the Guardian today
 
-1.  Football Tottenham Hotspur v Chelsea – as it happened
-2.  World news Obama heads to Camp David to prepare for crucial final debate
-3.  Football Saturday football clockwatch - as it happened
-4.  Life and style Mapping the body: the temple
-5.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-6.  Education Gangnam Style parody: Eton Style - video
+1.  Football Saturday football clockwatch - as it happened
+2.  Football Tottenham Hotspur v Chelsea – as it happened
+3.  Football Norwich City v Arsenal – as it happened
+4.  World news Obama heads to Camp David to prepare for crucial final debate
+5.  Life and style Q&A: John Cleese
+6.  Life and style Mapping the body: the temple
 
 *   License/buy our content
 |*   Privacy policy
