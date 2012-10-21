@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   International Peace Envoy in Damascus
 *   Tensions High in Lebanon
+*   Palestinians Hold Elections in West Bank
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
