@@ -190,44 +190,44 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 83124 Arbeit 64112 Ausbildung 49602 Auto 90207 Beauty 68490 Beruf 76826 Beziehung 71099 Computer 532603 Computerspiele 63943 deutsch 66418 Englisch 51685 ErnÃ¤hrung 50327 essen 70642 Facebook 76445 Fernsehen 59896 Film 99111 Finanzen 58691 Freizeit 260610 FuÃball 50802 Games 123210 Geld 92652 Gesundheit 204042 Haare 81715 Handy 202424 Hilfe 146811 Internet 319831 iPhone 74429 Kinder 50557 KÃ¶rper 49506 Laptop 72715 Liebe 163456 Lied 53918 MÃ¤dchen 55583 Medizin 62259 Minecraft 66982 Musik 278376 PC 279573 PC-Spiele 48158 Problem 54524 PS3 59481 Recht 94577 Schule 232955 Software 56649 Spiele 135871 Sport 109910 Technik 119521 Tiere 64394 TV 53960 Video 52200 Youtube 82231 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 83189 Arbeit 64133 Ausbildung 49620 Auto 90249 Beauty 68524 Beruf 76852 Beziehung 71145 Computer 532839 Computerspiele 63986 deutsch 66428 Englisch 51694 ErnÃ¤hrung 50345 essen 70658 Facebook 76526 Fernsehen 59925 Film 99187 Finanzen 58699 Freizeit 260691 FuÃball 50826 Games 123291 Geld 92688 Gesundheit 204106 Haare 81764 Handy 202566 Hilfe 146923 Internet 320001 iPhone 74468 Kinder 50570 KÃ¶rper 49531 Laptop 72771 Liebe 163568 Lied 53952 MÃ¤dchen 55621 Medizin 62275 Minecraft 67058 Musik 278488 PC 279757 PC-Spiele 48175 Problem 54567 PS3 59523 Recht 94604 Schule 233039 Software 56678 Spiele 135939 Sport 109971 Technik 119568 Tiere 64419 TV 53988 Video 52227 Youtube 82287 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  Yellowstone
+1.  Nobsii
     
     Punkte:
     
-    4091
+    1326
     
     Level:
     
-    Yellowstone
+    Nobsii
     
-2.  sassbar
+2.  y45dada
     
     Punkte:
     
-    1391
+    892
+    
+    Level:
+    
+    y45dada
+    
+3.  sassbar
+    
+    Punkte:
+    
+    694
     
     Level:
     
     sassbar
     
-3.  PeAcMaKeR
-    
-    Punkte:
-    
-    1336
-    
-    Level:
-    
-    PeAcMaKeR
-    
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.290.859 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.295.950 gute Fragen_
 
-*   35 Hass gegenueber meinen Mitmenschen.........
-*   31 Gute Musik die sozusagen unter die Haut geht?
-*   23 Alkohol zerstÃ¶rt Ehe
+*   25 Warum sackt beim Kopfstand das Blut in den Kopf aber beim Normal-Stehen nicht in die Beine?
+*   21 Freund hat sich bekehrt, komm nicht mehr an ihn ran,bin total ratlos?
+*   16 Wie wissen Beinhaare (bei MÃ¤nnern) das sie aufhÃ¶ren mÃ¼ssen zu wachsen?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
@@ -241,23 +241,23 @@ gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.941.605
+1.942.453
 
 Anzahl der Fragen
 
-8.290.771
+8.294.746
 
 Anzahl der Antworten
 
-36.042.515
+36.056.373
 
 Anzahl der Tipps
 
-74.431
+74.454
 
 Anzahl der Videos
 
-4.694
+4.698
 
 Blog
 
