@@ -267,25 +267,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Duenas back in court in connection with his wife's death Updated 10/19/2012 at 11:58 a.m. 22 comments
-*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 96 comments
-*   Two arrested in early morning knife slashing in Anderson, police say Published 10/19/2012 at 8:33 a.m. 35 comments
-*   Gun industry thrives during Obama's term in office Published 10/19/2012 at 4:00 a.m. 137 comments
-*   Charles Krauthammer: Obama's great gaffe Published 10/19/2012 at 12:00 a.m. 107 comments
+*   UPDATED: Dead body found on bank of Sacramento River near Sundial Bridge Updated 10/20/2012 at 1:10 p.m. 25 comments
+*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 173 comments
+*   UPDATE: HDTV, dirt bike taken in armed robbery in Redding overnight Updated 10/20/2012 at 1:19 p.m. 17 comments
+*   Paramedics headed to ATV accident Published 10/20/2012 at 9:37 a.m. 7 comments
+*   Boy's miracle cure makes 1st Native American saint Published 10/20/2012 at 4:00 a.m. 19 comments
 
 Photo Galleries Think Pink Foothill vs. Chico Red Bluff men get marijuana back
 
+*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 173 comments
+*   Gun industry thrives during Obama's term in office Published 10/19/2012 at 4:00 a.m. 139 comments
+*   Charles Krauthammer: Obama's great gaffe Published 10/19/2012 at 12:00 a.m. 110 comments
 *   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 374 comments
-*   Gun industry thrives during Obama's term in office Published 10/19/2012 at 4:00 a.m. 137 comments
-*   Charles Krauthammer: Obama's great gaffe Published 10/19/2012 at 12:00 a.m. 107 comments
-*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 96 comments
 *   Federal appeals court in New York nixes Defense of Marriage Act Published 10/18/2012 at 9:08 a.m. 76 comments
 
 *   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
 *   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 89 comments
 *   Dog trainer teaches empathy at Tehama juvenile hall Published 10/15/2012 at 11:40 p.m. 9 comments
 *   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Published 10/13/2012 at 10:14 a.m. 34 comments
-*   Costco's plans for north Redding move forward. opening of new store could take up to 2 years Published 10/9/2012 at 11:17 p.m. 54 comments
+*   UPDATED: Montague woman, 30, killed by husband, deputies say Published 10/18/2012 at 4:13 p.m. 16 comments
 
 Weather
 
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 71° Fair Wind: Variable 4mph Today 76° 46° Sat 11:00 PM Partly Cloudy Temp: 55° Sun 11:00 AM Partly Sunny Temp: 60° Sun 11:00 PM Mostly Cloudy Showers Temp: 56°
+Currently 51° Fair Wind: NW 4mph Today 67° 49° Sun 05:00 PM Cloudy Temp: 65° Mon 05:00 AM Mostly Cloudy Showers Temp: 48° Mon 05:00 PM Mostly Cloudy Showers Temp: 57°
 
-Feels Like: 55°
+Feels Like: 65°
 
-Humidity: 44%
+Humidity: 24%
 
-Precip: 0%
+Precip: 3%
 
-Feels Like: 60°
+Feels Like: 48°
 
-Humidity: 39%
+Humidity: 76%
 
-Precip: 9%
+Precip: 75%
 
-Feels Like: 56°
+Feels Like: 57°
 
-Humidity: 59%
+Humidity: 60%
 
-Precip: 73%
+Precip: 93%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Saturday Oct 20
 *   Sunday Oct 21
 *   Monday Oct 22
+*   Tuesday Oct 23
 *   More BROWSE Icon
-
-*   Dunsmuir Run for the Arts See Description 8 a.m.
-*   Trail Obstacle Challenge Cottonwood Creek Equestrian Center 8:30 a.m.
-*   Kids Fly Free at Young Eagles Event on Saturday, October 20th. Benton Airport 8:30 a.m.
-*   Free gem and mineral show Shasta District Fair grounds 9 a.m.
-*   Fun Run/Walk for Burney High Athletics See Description 9 a.m.
-
-More Events »
 
 *   Free gem and mineral show Shasta District Fair grounds 10 a.m.
 *   Road Tour of the Ponderosa (Manton) Fire See Description 11 a.m.
@@ -353,6 +345,14 @@ More Events »
 *   Zumba Classes Teen Center 6 p.m.
 *   Redding Chess Club See Description 5 p.m.
 *   Redding Duplicate Bridge Club meetings Senior Citizens Hall noon
+
+More Events »
+
+*   Redding Rambling A’s Model A Ford Club of America meeting Holiday Quality Foods - Placer noon
+*   HVACR - Motor Control Shasta Builder's Exchange 6 p.m.
+*   NAMI Shasta County Basics six-week class Contact for Location Information 6 p.m.
+*   Ties to the Land, Agriculture and Forest Landowner Succession Planning Workshop Inter-Mountain Fair grounds 6 p.m.
+*   Loretta Lynn Cascade Theatre 7:30 p.m.
 
 More Events »
 
