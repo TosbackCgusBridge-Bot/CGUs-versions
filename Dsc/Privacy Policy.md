@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Alaska: The Last Frontier (Season 2)Dead of Winter 8:00PM Alaska: The Last Frontier (Season 2)Spring Has Sprung 9:00PM Alaska: The Last Frontier (Season 2)Cattle Drive TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM MythBusters (Season 9)Trench Torpedo 8:00PM MythBustersHail Hijinx 9:00PM I Was Mummified  TV SHOWS
 
 American Chopper
 
@@ -330,6 +330,8 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
+'Gospel of Jesus' Wife' Faces Authenticity Tests
+
 TWiDN: Can We Grow Our Organs On A New Planet?
 
 Orionid Meteor Shower Peaks Tonight: How to Watch
@@ -343,8 +345,6 @@ First Human Ancestor Looked Like a Squirrel
 The Psychology of Love Can Kill: Gotta-See Video
 
 No life found in Antarctica's buried Lake Vostok
-
-Air Canada Flight Finds Lost Boat: DNews Nugget
 
   facebook share0 Tweet Privacy Policy  
 
@@ -550,36 +550,37 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 20,  
-12:00 pm  
-120 min(s)  
-**Yukon Men: Last Chance (S1 Finale)**  
- The villagers of Tanana have just 18 hours to get a year's worth  
-Oct 20,  
-2:00 pm  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 21,  
+7:00 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 21,  
+7:30 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 21,  
+8:00 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 21,  
+8:30 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 21,  
+9:00 am  
 60 min(s)  
-**Gold Rush: Alaska**  
-_Gold Fever_  
- After 80 days, the miners are behind schedule and out of money. T  
-Oct 20,  
-3:00 pm  
-60 min(s)  
-**Gold Rush: Alaska**  
-_Going For Broke_  
- With winter weather closing in, a gold recovery expert comes to h  
-Oct 20,  
-4:00 pm  
-60 min(s)  
-**Gold Rush: Alaska**  
-_Bad Blood_  
- The crew remains in deep financial hole. Veteran miner "Dakota" F  
-Oct 20,  
-5:00 pm  
-60 min(s)  
-**Gold Rush: Alaska**  
-_Bedrock or Bust_  
- Desperate to get to bedrock and large quantities of gold, Todd an  
-**More Listings »**   Shop Discovery Store      
+**The Devil's Triangle**  
+ Ships disappear, planes vanish into thin air. Researchers turn t  
+**More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
+$47.95  
+  **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
+$12.95   **Discovering Ardi DVD**  
+$19.95   **Discovery Channel Polymer Chemistry Set**  
+$19.95        
 
 our sites
 
