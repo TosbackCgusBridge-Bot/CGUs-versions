@@ -158,11 +158,11 @@ ADVERTISEMENT
 
 Hot Pics! Dinner and a Show »
 
-Top Stories1.  Exclusive How Kourtney Kardashian Slimmed Down After Giving Birth »
-2.  PIC: Sarah Michelle Gellar Shows Off Post-Baby Body in L.A. »
-3.  PICTURE: Miley Cyrus Kisses Angus T. Jones on Two and a Half Men »
-4.  Freddie Prinze, Jr. Steps Out Three Weeks After Son's Birth! »
-5.  PIC: Demi Moore Thin, Radiant at Rare Post-Rehab Appearance in NYC »
+Top Stories1.  Heidi Montag Flaunts Famous Curves at Strip Club Party »
+2.  Exclusive How Kourtney Kardashian Slimmed Down After Giving Birth »
+3.  FIRST PICTURE: See Justin Timberlake's Wedding Ring! »
+4.  PIC: Sarah Michelle Gellar Shows Off Post-Baby Body in L.A. »
+5.  Freddie Prinze, Jr. Steps Out Three Weeks After Son's Birth! »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Tori's Miracle Baby
 
 Inside Us Weekly
 
-*   Style Pretty Kate Hudson Models Ann Taylor Looks in
+*   Style See Elisa Donovan's Wedding Dress, Romantic C
 *   Beauty Elisabeth Moss Is a Brunette Again!
 *   Moms Kristin Cavallari: "Having a Baby Is So Much
 *   Body Slimmer Tyler Perry: "I'm Laying Off the Donu  
-*   Entertainment Private Practice Ending After 6 Seasons  
+*   Entertainment Revenge: Amanda Brings Stripper Pals to Victo  
 
 *   US WEEKLY
 *   Celebrity News
