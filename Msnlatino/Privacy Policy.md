@@ -696,9 +696,9 @@ contactos Telemundo TV Ahora
     
     No lo dejes ir... Atrápalo así  
     
-*   Vota por el mejor presentador
+*   ¡Sensualidad que mata!
     
-    de los Premios Billboard de la música mexicana 2012  
+    Elizabeth tiene una dulzura que enloquece.
     
 *   Secretos de belleza
     
