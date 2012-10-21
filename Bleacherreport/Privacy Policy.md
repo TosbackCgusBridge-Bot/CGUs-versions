@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-9 minutes ago
+about 11 hours ago
 
-@BleacherReport: LSU WR Kadron Boone makes a sick TD grab in super slow motion. GIF: http://t.co/6f5Ohdpq
+@BleacherReport: Florida State goes figure skating after scoring a touchdown. James Wilder... so graceful. http://t.co/NXvu6nkB
 
 Newsletters
 
