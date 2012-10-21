@@ -136,18 +136,13 @@ If you have any questions or comments about our policies, we may be reached at K
 
 KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $0 Value: Discount: You Save: $0 100% $0
 
-Saturday: CVS, Walgreens Deals CVS
+Sunday: More Deals
 
-*   Zantac 150, 24ct, or Zantac 75, 30ct - $8.99
-*   Get $1 Extra Bucks WYB (3) Stride ID or Spark Gum, 14ct - $1.00
-*   Get $2.49 Extra Bucks WYB Pumpkin Masters 4-in-1 Carving Tool - $2.49
-*   more...
-
-1.  Parts Project Coordinator
+1.  Apartment Maintenance Tech Part Time
     
-    Central Power Systems &. Services, Inc.
+    Georgetown Apartments
     
-2.  OPERATING MANAGER
+2.  Apartment Maintenance Helper
     
 3.  SEASONAL DRIVERS
     
@@ -157,7 +152,9 @@ Saturday: CVS, Walgreens Deals CVS
     
 5.  PROGRAM DIRECTOR
     
-6.  Apartment Maintenance Helper
+6.  Certified Dietary Manager
+    
+    CROWN CARE CENTER
     
 
 View More The Most
@@ -165,16 +162,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Bill Snyder saved a town and a football team  twice
-*   Semi crash into restaurant kills one in Nevada, Mo.
-*   KC mayor’s brother sentenced to 7 years
-*   Kansas City police officer suspended, accused of insurance fraud
-*   Former KU coach Mark Mangino could seek return to football
+*   Kansas State goes all in national championship chase
+*   Rising rapper Creepyface died in a hail of words
 *   Latest O.J. furor: He is reportedly selling the knife
-*   Billy Grahams website scrubs Mormon cult reference
-*   Kansas Senate's Democratic leader gets GOP backing
-*   TV review | How Tippi Hedren ran afoul of Alfred Hitchcocks blond fixation and paid the price
-*   Black Jack Battlefield named a national landmark
+*   K-State still perfect after 55-14 win at West Virginia
+*   Bill Snyder saved a town and a football team  twice
+*   Victim of Missouri diner crash always sat in the same booth
+*   How Tippi Hedren ran afoul of Alfred Hitchcocks blond fixation and paid the price
+*   Starling, Royals generally pleased by progress in his first season
+*   No. 10 Sooners put hurt on Jayhawks in 52-7 beating
+*   K-State-West Virginia game report
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
