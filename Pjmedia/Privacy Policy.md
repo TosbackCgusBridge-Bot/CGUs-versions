@@ -115,23 +115,23 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Israeli Navy Boards Gaza-Bound Ship
-*   Rasmussen Swing State Poll: Romney over Obama 50% — 46%
-*   Things I Want to Shout to the World before the Election
+*   Obama Campaign Going Out Of Business Sale?
+*   Now Up on the PJ Media Homepage
+*   Kofi Annan: Paul Ryan ‘Dead Wrong’ on Syria
 
 More  
 
+*   The Only Reason Why a Man (Or A Woman) Should Get Married
+*   23 Books for Counterculture Conservatives, Tea Party Occultists, and Capitalist Wizards
 *   Classic Rock and Cheap Wine: An Eyewitness Account of the Beatles First American Concert
-*   _Paranormal Activity 4_ Serves Up Enough Spooks for a Satisfying Sequel
-*   ‘If Everyone Could Spend Even Six Months as a Crematory Operator, the World Would Be a Far Better Place.’
 
 More
 
-*   It's Romney's Race to Lose
-*   Why People Now Ignore Paul Krugman
+*   The October Surprise
+*   Things I Want to Shout to the World before the Election
 *   Name 5 Reasons a Man Should Get Married
 
-More   CONVENIENT NEW REVELATIONS: CIA documents supported Susan Rice’s description of Benghazi attacks. What the CIA reportedly said on September 15: “The currently available information suggests that the demonstrations in Benghazi were spontaneously inspired by the protests at the U.S. Embassy in Cairo and evolved into a direct assault against the U.S. Consulate and subsequently its annex. There are indications that extremists participated in the violent demonstrations.” ... ISRAELIS AND LEBANESE are both angry—for very different reasons—that an episode of Showtime’s _Homeland_ that took place in Beirut was filmed in Israel. _NATIONAL JOURNAL:_ Polls: Romney Moves Up in Florida, Obama Down a Bit in Ohio. More Advertisement
+More   THE OCTOBER SURPRISE: Michael Ledeen writes: ... FASTER, PLEASE: Drug From Chinese ‘Thunder God Vine’ Slays Tumors in Mice. “A drug made from a plant known as “thunder god vine,” or lei gong teng, that has been used in traditional Chinese medicine, wiped out pancreatic tumors in mice, researchers said, and may soon be tested in humans. Mice treated with the compound showed no signs of tumors after 40 days or after discontinuing the treatment, according to researchers at the University of Minnesota’s Masonic Cancer Center. The research, funded by the university and the National Institutes of Health. was published today in the journal Science Translational Medicine.” Let’s hope this pans out. ... VOTE SUPPRESSION: Military voters still face trouble at the polls. More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
