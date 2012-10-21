@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Syria
-
-The long, tumultuous history of Syria's military and political...
-
 Mitt Romney
 
-For Obama, Romney, last debate is key
+Romney ad contrasts his governorship with Obama presidency
+
+Syria
+
+Explosion hits Old City quarter, Syria pro-gov't TV says
 
 Politix
 
-Should we lower the drinking age to 18?
+Who will win Ohio?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 100,326 • Total comments across all topics: 188,619,465
+Comments made yesterday: 96,872 • Total comments across all topics: 188,683,216
 
 Copyright ©2012 Topix LLC
 
