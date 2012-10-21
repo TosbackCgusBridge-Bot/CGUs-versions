@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  George Zimmerman judge OKs question: Who was the real Trayvon Martin?
-2.  2014 Corvette so different, GM will shut down plant to retool
-3.  China's naval exercises in East China Sea send warning to regional rivals
-4.  Romney’s wavering path on abortion. Do voters care?
-5.  iPad Mini set to debut Oct. 23, arrive on doorsteps Nov. 2: report
+1.  Orionid meteor shower: Wake the kids, make a memory
+2.  Opinion: Millennial generation could kill the NFL
+3.  Presidential debate 101: Does Romney’s tax math add up?
+4.  ‘Beetlejuice’ sparks? Meteor shower brings 'shooting stars' and 'earthgrazers'
+5.  George Zimmerman judge OKs question: Who was the real Trayvon Martin?
 
 About these ads
 
@@ -121,7 +121,7 @@ Editors' Picks:
 *   Can Republicans increase their ranks of governors? Four races to watch.
 *   Opinion: Millennial generation could kill the NFL
 
-_Photos of the day_ 10.19.12 » Photos of the Day 10/19
+_Photos of the day_ 10.20.12 » Photos of the Weekend 10/21
 
 **CSMonitor.com** on Facebook
 
