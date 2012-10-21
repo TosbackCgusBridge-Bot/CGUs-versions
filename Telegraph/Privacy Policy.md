@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Saturday 20 October 2012
+Sunday 21 October 2012
 
 *   Home
 *   News
@@ -138,13 +138,13 @@ In About us
 
 Editor's Choice »
 
-Hollywood Costume, V&A, review  
+'For a moment, I thought he might kill me'  
 
-The Hollywood Costume exhibition provides a sometimes crumpled insight into iconic celluloid moments, writes **Sarah Crompton.**
+In our second exclusive extract, **Beverley Turner** recalls bringing James Cracknell home to their children only to find he has changed.
 
 Comments
 
-Xanthe Clay meets Madhur Jaffrey London's rooftop gardens from the air 10 homes with a James Bond connection California and the vin de garage Advertisement
+Lauren Child's joy at adopting Mongolian girl Why do middle-aged woman get tattoos? The secret letters Prince Charles sent Hugh Fearnley-Whittingstall's nation Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
