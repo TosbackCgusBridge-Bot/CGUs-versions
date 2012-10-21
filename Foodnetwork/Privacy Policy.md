@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Man v Food Nati... UP NEXT › Man v Food Nati...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Barefoot Contes... UP NEXT › Barefoot Contes...
 
 *   Channel  
     Guide
@@ -276,6 +276,9 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   Recipe of the Day: Pumpkin and Porcini Risotto t.co/BF6xfXv4 #recipe
+*   Take a sneak peek at some of the cocktails starring in World Class: Bartender of the Year tonight: t.co/z0y3hyRf #cocktailoclock
+*   Spending the weekend vegging out in front of #SCD and #XFactor? Try one of our 50 takeaway-inspired recipes: t.co/1ZevGRXO
 *   Recipe of the Day: Blueberry Bakewell with Raspberry Chantilly from @eatmypies t.co/Uj5laZlY #recipe
 *   All your favourite Andy Bates recipes in one place: t.co/watroAxH #StreetFeastsUSA
 *   Enter our competition for your chance to win 1 of 100 @alaskaseafooduk cookbooks: t.co/xWQo8zjs #competition
@@ -283,9 +286,6 @@ Your email address:
 *   Thanks! @eatmypies will love that! RT @tiffanyharelik: @FoodNetwork\_UK love to Andy from Austin and @trailerfood
 *   @drinkfoodfun shall we?
 *   Recipe of the Day: Zegroni Cocktail t.co/AM23ZsiB #recipe
-*   Whether you’re after burgers or brownies, we’ve got the latest recipes from Andy Bates t.co/IIR7r2F9 #StreetFeastsUSA
-*   @katekatekoala thank you, it was at Avista, Grosvenor Sq.
-*   Plum tart, vanilla ice cream, sesame tuile and plum compote #excusethebadlight t.co/O7K1CugC
 
 Follow Us
 
