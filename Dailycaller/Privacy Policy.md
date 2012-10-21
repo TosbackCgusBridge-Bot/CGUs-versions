@@ -1,4 +1,4 @@
-**TRENDING** MITT ROMNEY | PRESIDENTIAL DEBATES | GOOGLE | BARACK OBAMA | LANCE ARMSTRONG | BILL CLINTON
+**TRENDING** MITT ROMNEY | IRAN | BARACK OBAMA | PRESIDENTIAL DEBATES | RICHARD LUGAR | CLAIRE MCCASKILL
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  MEAL DEAL **BLIND TRUST** Top 10 wasteful government programs    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  Motley Fool unveils top 10 most wasteful government-funded programs Calif. official whose agency under-reported unemployment stats was Obama campaign donor Biden livens up woman’s cancer survival story with his “inappropriate laughter” shtick    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-Nate Silver vs. the world, ctd 8:55 PM 10/19/2012 If you thought Tuesday night’s debate got tense … 2:31 PM 10/19/2012 You can always trust Tina Brown! 7:32 AM 10/18/2012 Alpha Test 6:40 AM 10/18/2012 Biden livens up woman’s cancer survival story with his “inappropriate laughter” shtick 4:49 PM 10/19/2012 Libyan Ambassador Christopher Stevens warned the State Department about security problems… the day he was murdered 3:16 PM 10/19/2012 Fat cats in tiny places \[SLIDESHOW\] 3:55 AM 10/20/2012 Top 10 most punchable faces in media \[SLIDESHOW\] 2:28 PM 10/19/2012 America’s prettiest college campuses \[SLIDESHOW\] 9:50 AM 10/19/2012 10 Bruce Springsteen lyrics that make absolutely no sense \[SLIDESHOW\] 11:40 PM 10/18/2012 See More Photo of the Day Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Got racism? 6:58 PM 10/10/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Bishop Jackson: Black churchgoers shaken by Obama backing gay marriage \[VIDEO\] 3:48 AM 10/20/2012 Leaders with Ginni Thomas: Newt Gingrich 8:41 PM 10/14/2012 Videos Contests Sections
+Nate Silver vs. the world, ctd 8:55 PM 10/19/2012 If you thought Tuesday night’s debate got tense … 2:31 PM 10/19/2012 You can always trust Tina Brown! 7:32 AM 10/18/2012 Alpha Test 6:40 AM 10/18/2012 Biden livens up woman’s cancer survival story with his “inappropriate laughter” shtick 4:49 PM 10/19/2012 Libyan Ambassador Christopher Stevens warned the State Department about security problems… the day he was murdered 3:16 PM 10/19/2012 The most punchable faces in media, part II \[SLIDESHOW\] 3:33 PM 10/20/2012 Fat cats in tiny places \[SLIDESHOW\] 3:55 AM 10/20/2012 Top 10 most punchable faces in media \[SLIDESHOW\] 2:28 PM 10/19/2012 America’s prettiest college campuses \[SLIDESHOW\] 9:50 AM 10/19/2012 See More Photo of the Day Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Got racism? 6:58 PM 10/10/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Bishop Jackson: Black churchgoers shaken by Obama backing gay marriage \[VIDEO\] 3:48 AM 10/20/2012 Leaders with Ginni Thomas: Newt Gingrich 8:41 PM 10/14/2012 Videos Contests Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   Nate Silver vs. the world, ctd
-*   Conservative group on reports McCaskill’s husband used Senate Dining Room for business deals: She’s ‘Clairogant!’
-*   Rep. John Lewis wants you to vote Gangnam Style
+*   White House prepared to meet one-on-one with Iran
+*   Don’t bomb the foreign policy debate, Mitt
+*   Doctor shortage could take turn for the worse
 
 Corporate
 
