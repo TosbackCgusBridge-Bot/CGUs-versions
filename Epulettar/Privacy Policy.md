@@ -220,7 +220,7 @@ Development Manager- Real estate sector
 
 Portfolio Director (Real Estate)
 
-Gazdasági tanácsadó képzés és munka
+Ingatlantanácsadó
 
 még több
 
