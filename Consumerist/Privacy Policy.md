@@ -124,11 +124,11 @@ Tell a friend:
 
 **Want Consumerist in your inbox?** Popular Posts
 
-*   T.G.I. Friday's Customer Attempts To Pick Up Waiter With Quite A Subtle, Classy Line
 *   Is Microsoft About To Unleash A Kraken Of Suck On Consumers?
-*   Raiders Of The Lost Walmart Can Get You VHS Tapes And The Greatest Hits Of 2007
-*   Only Bad Things Can Happen When You Abandon Thousands Of Bottles Of Counterfeit Ketchup In A Warehouse
-*   Complaint About Disappointing Noodle Bowl Results In Bounty Of Noodles For Customer
+*   Don't Know How To Create A Pat Of Butter? Help Is Here
+*   T.G.I. Friday's Customer Attempts To Pick Up Waiter With Quite A Subtle, Classy Line
+*   iPhone 5 Data-Gobbling Bug Affects AT&T Customers, Too
+*   Banana Boat Sunscreen Recalled Because Your Skin Isn't Supposed To Be Set On Fire
 
 About Consumerist
 
