@@ -607,4 +607,4 @@ Shop With Confidence
 All other trademarks not owned by eBags.com or its subsidiaries that appear on this site are the property of their respective owners.  
 eBags USA © 1999 - 2012 eBags, Inc. All rights reserved.
 
-B-2012-10-20
+B-2012-10-21
