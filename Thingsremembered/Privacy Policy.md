@@ -6,7 +6,6 @@ Store Locator
 
 *   Occasions
     
-    *   Sweetest Day
     *   Veteran's Day
     *   Christmas
     *   Wedding
@@ -16,11 +15,11 @@ Store Locator
     *   Birthday for Him
     *   Birthday for Her
     *   Housewarming
+    *   Memorial &. Sympathy
     
     *   New Job
     *   Performance Recognition
     *   Service &. Retirement
-    *   Memorial &. Sympathy
     
 
 *   Gift Categories
