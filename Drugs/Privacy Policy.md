@@ -145,7 +145,7 @@ Recently Approved
 
 More...
 
-Get Updates by Email **Email me:** FDA Medwatch Alerts News Roundup DailyWeeklyMonthly Email Male Hair Loss Treatment - High Success Rate Clinically proven hair loss treatment for male pattern baldness.   www.pharmcom.com Fibromyalgia, Chronic Fatigue, Thyroid Treatment Scientific Approach. Caring Doctors. Free Evaluation at Our Local Clinic. Take our health quiz and make an appointment today!   FibroAndFatigue.com Support About Drugs.com Your Privacy
+Get Updates by Email **Email me:** FDA Medwatch Alerts News Roundup DailyWeeklyMonthly Email Fibromyalgia, Chronic Fatigue, Thyroid Treatment Scientific Approach. Caring Doctors. Free Evaluation at Our Local Clinic. Take our health quiz and make an appointment today!   FibroAndFatigue.com Male Hair Loss Treatment - High Success Rate Clinically proven hair loss treatment for male pattern baldness.   www.pharmcom.com Support About Drugs.com Your Privacy
 
 *   Advertise With Us
 *   Frequently Asked Questions
@@ -159,7 +159,7 @@ Follow us: Google+ Facebook Twitter YouTube
 
 Drugs.com provides accurate and independent information on more than 24,000 prescription drugs, over-the-counter medicines &. natural products. This material is provided for educational purposes only and is not to be used for medical advice, diagnosis or treatment.
 
-Data sources include Micromedex™ (updated Sep 17th, 2012), Cerner Multum™ (updated Sep 20th, 2012), Wolters Kluwer™ (updated Oct 2nd, 2012) and others.  
+Data sources include Micromedex™ (updated Oct 15th, 2012), Cerner Multum™ (updated Oct 20th, 2012), Wolters Kluwer™ (updated Oct 2nd, 2012) and others.  
 To view content sources and attributions, refer to our editorial policy.
 
 Copyright © 2000-2012 Drugs.com. All rights reserved.
@@ -173,4 +173,4 @@ Advertisement Close Recommended
 
 *   Symptom Checker
 
-(web6)
+(web5)
