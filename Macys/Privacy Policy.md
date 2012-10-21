@@ -196,8 +196,8 @@ was this answer helpful? Please tell us how we can make this answer more helpful
 
 *   Highlights of Macy’s, Inc. Notice of Privacy Practices
 *   Legal Notice
-*   Pricing Policy for Online Merchandise
 *   Our Products: Product Recalls
+*   Pricing Policy for Online Merchandise
 *   Credit Card Privacy Policy
 
 Find an answer announcements
