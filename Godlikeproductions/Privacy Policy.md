@@ -1,5 +1,5 @@
   
-Users Online Now: **2,103** (Who's On?) Visitors Today: **591,930** Pageviews Today: **1,073,152** Threads Today: **630** Posts Today: **9,044** 02:23 PM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,628** (Who's On?) Visitors Today: **367,623** Pageviews Today: **614,602** Threads Today: **283** Posts Today: **3,740** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,10 @@ trinity@godlikeproductions.com
   
 News
 
+*   Norfolk Southern lays off 200, cites coal traffic decrease
+*   Mobile phones can cause brain tumours, court rules.
+*   Mitt Romney's Campaign, RNC Have 60+ Staffers In Pennsyvania, Planning More
+*   Secret Terror Script Leaked
 *   Antidepressants Could Make Your Brain Bleed, Cause Hemorrhagic Strokes
 *   RNC up $83 million, DNC taking out loans
 *   1 In 10 People Believes The World Will End In 2012
@@ -133,10 +137,6 @@ News
 *   Cops Taser Disabled Man After Mistaking Walking Stick For Samurai Sword
 *   Jail Guards Accuse Man Begging For Help Of Faking Allergic Reaction, Man Dies
 *   US military gets into the 3D printing business
-*   Google threatens to drop links to French media
-*   Tropical collapse caused by lethal heat: Extreme temperatures blamed for 'dead zone'
-*   Farmer Tackling Monsanto's Seed Policy Gets A Day In Supreme Court
-*   Peanut Butter Recall Now Includes Raw And Roasted Nuts
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.008s (0 queries)
+Page generated in 0.019s (0 queries)
