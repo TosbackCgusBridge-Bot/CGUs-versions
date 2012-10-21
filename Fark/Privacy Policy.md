@@ -148,49 +148,49 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    Braaains
+    I Couldn't Save the Whales
 *     
-    Maze Cafe - Cup and Saucer Set
+    Jawa - Star Wars Mimobot (2GB)
 *     
-    Mustang (Red/White Stripes) Wireless Road Mice
+    Ballpark Gumballs
 *     
-    Neanderthal Eraser
+    I Love Nerds - Knit Beanie
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
-25 of the Unhappiest Mugshots Known t...  
+The Truth Behind NFL Logos  
 Christian Bale's Wild Body Transforma...  
-The 10 Worst Video Game Weapons Ever  
-3D Printer Art in all its Glory  
+Need a Morning Jolt? Try This Unusual...  
+25 of the Unhappiest Mugshots Known t...  
 More news at Scribol »  
   
   
-We Show It ALL  
-Make out with sister, or cut off dad'...  
-Facebook FAILS  
-5 Dumbest Moments of the 2nd Presiden...  
-More news at truTV »  
+W. Eugene Smith's Landmark Photo Essa...  
+The Brink of Oblivion: Inside Nazi-Oc...  
+Taylor and Clift: Photos From the Set...  
+Frank Lloyd Wright: The Natural  
+More news at Life »  
   
   
-Man Set On Fire Outside Long Beach Ma...  
-Rupert Murdoch, Other Buyers Eye L.A....  
-Orionid Meteor Shower Expected to Pea...  
-Judge Agrees to Reopen Case Against O...  
-More news at KTLA »  
+Pre-Labor Day Pregnant Bikini Contest  
+The State Fair Food That Will Cause Y...  
+The 20 Worst Hipster Bands: The Compl...  
+Internet Cat Video Film Festival Exists  
+More news at Village Voice »  
   
   
-Why My Boyfriend Loves My Girl Crush...  
-Sneak Peek: Target And Neiman Marcus'...  
-12 Signs You're Probably Being Too Picky  
-How Reality TV Is Like Dating In Your...  
-More news at The Frisky »  
+The Most Desperate Attempt Ever to Ge...  
+The 5 Most Embarrassing Ways Churches...  
+7 Horrifying Uses of the Human Body t...  
+5 Ways Your Taste in Music is Scienti...  
+More news at Cracked »  
   
 
 Also on Fark
 
-Main 1st Native American approved for sainthood after Vatican proclaims disease cure to be "medically inexplicable", because if there's anyone who knows their science, it's the Catholic Church ( msnbc.msn.com ) » (22 comments) Sports UMass coach pulls off the greatest creative scholarship presentation to two walk-on team members, ever (w/video) ( sports.yahoo.com ) » (5 comments) Business Teen kids with internet start up borrow 4K from parents and go to meet Sir Richard Branson, and thus win ( openforum.com ) » (1 comment) Geek Cutting edge medical science finally develops: A) a successful AIDS drug, B) a cancer inhibitor, or C) a way to fight pizza mouth burn ( cbsnews.com ) » (4 comments) Entertainment To celebrate the 74th birthday of Dawn Wells, MSNBC brings up the eternal debate: Ginger or Mary Ann. Of course, they never throw Mrs. Howell into the fray, because they know she would always win ( theclicker.today.com ) » (43 comments) Politics Unemployment rates fall in 41 states, including most swing states. This is bad news...for Fox ( money.cnn.com ) » (224 comments) Video Cat special forces. Or special ed. You decide ( youtube.com ) » (9 comments) FarkUs Some of subby's old buddies have actually made use of those English degrees (if you like tabletop games this might interest you) ( www2.ljworld.com ) » (1 comment)
+Main Good: Winning a Freedom of Information Act judgment. Better: Against the FBI. Best: For $470,000 ( sfgate.com ) » (3 comments) Sports Chelsea take on a team in all-white without Terry. Elsewhere, the Canaries might get Gunned down, Mackems take on the Toon and Liverpool will draw with Reading ( guardian.co.uk ) » (143 comments) Business The next big thing in food? The grilled cheese ( moneyland.time.com ) » (166 comments) Geek Apple lets one of their top security experts, who helps find security issues on Apple products, go.....because he forgot to respond to an e-mail ( news.cnet.com ) » (0 comments) Entertainment Hollywood's a funny game. One day you're appearing topless in the first 'American Pie' movie and the next thing you know you're urging people to adopt a turkey ( mnn.com ) » (6 comments) Politics Score one for diplomacy ( nytimes.com ) » (281 comments) Video Girl with cam decides to start trash talking at everyone in convenience store. Absolutely shocked when female customer takes offense and gives her free beatdown to go (Not safe for work language) ( liveleak.com ) » (6 comments) FarkUs Another Farker book plug for a story that deals with escapism, and the lengths one will one will go to for survival on the fringe in modern America ( amazon.com ) » (0 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main 1st Native American approved for sainthood after Vatican proclaims disease 
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 20 2012 14:00:39  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 21 2012 08:00:37  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
