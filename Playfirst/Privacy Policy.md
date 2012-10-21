@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (57.2 MB) Top PC Downloads 1 Hotel Dash: Suite Success 2 Diner Dash 3 Diner Dash 2 Restaurant Rescue 4 Cooking Dash 5 Diner Dash: Hometown Hero 6 Wedding Dash 4 - Ever 7 Wedding Dash 8 SpongeBob SquarePants Diner Dash 9 Diner Dash 5: BOOM 10 Farm Frenzy 2 » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (28.7 MB) Top PC Downloads 1 Hotel Dash: Suite Success 2 Cooking Dash 3 Diner Dash 4 Diner Dash 2 Restaurant Rescue 5 Diner Dash: Hometown Hero 6 Wedding Dash 7 SpongeBob SquarePants Diner Dash 8 Farm Frenzy 2 9 Diner Dash 5: BOOM 10 Wedding Dash 4 - Ever » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -249,7 +249,11 @@ Hotel Dash: Suite Success DASH™ &. Time Mgmt Games
 
 Flo's going into the hotel business!
 
-**Play Free!** (33.7 MB) Try It Diner Dash DASH™ &. Time Mgmt Games
+**Play Free!** (33.7 MB) Try It Cooking Dash DASH™ &. Time Mgmt Games
+
+Help Flo cook and deliver food from four DinerTown restaurants while Cookie the Chef courts culinary celebrity!
+
+**Play Free!** (23.9 MB) Try It Diner Dash DASH™ &. Time Mgmt Games
 
 Ditch your desk job and serve up some grub!
 
@@ -257,19 +261,11 @@ Ditch your desk job and serve up some grub!
 
 Sling grits, earn tips - help Flosave her friends!
 
-**Play Free!** (13.6 MB) Try It Cooking Dash DASH™ &. Time Mgmt Games
-
-Help Flo cook and deliver food from four DinerTown restaurants while Cookie the Chef courts culinary celebrity!
-
-**Play Free!** (23.9 MB) Try It Diner Dash: Hometown Hero DASH™ &. Time Mgmt Games
+**Play Free!** (13.6 MB) Try It Diner Dash: Hometown Hero DASH™ &. Time Mgmt Games
 
 Restore Flo's hometown!
 
-**Play Free!** (33.4 MB) Try It Wedding Dash 4 - Ever DASH™ &. Time Mgmt Games
-
-Tackle more wedding mania than ever before!
-
-**Play Free!** (37.2 MB) Try It Wedding Dash DASH™ &. Time Mgmt Games
+**Play Free!** (33.4 MB) Try It Wedding Dash DASH™ &. Time Mgmt Games
 
 Help Quinn make wedding bells ring!
 
@@ -277,15 +273,19 @@ Help Quinn make wedding bells ring!
 
 Soak up five-star feeding fun with everyone's favorite sponge!
 
-**Play Free!** (10.2 MB) Try It Diner Dash 5: BOOM DASH™ &. Time Mgmt Games
-
-Rebuild Flo's Diner from scratch!
-
-**Play Free!** (65.4 MB) Try It Farm Frenzy 2 DASH™ &. Time Mgmt Games
+**Play Free!** (10.2 MB) Try It Farm Frenzy 2 DASH™ &. Time Mgmt Games
 
 Feed chickens, collect eggs, stock your warehouse and ship your goods off to market!
 
-**Play Free!** (36.2 MB) Try It Log In New to PlayFirst?
+**Play Free!** (36.2 MB) Try It Diner Dash 5: BOOM DASH™ &. Time Mgmt Games
+
+Rebuild Flo's Diner from scratch!
+
+**Play Free!** (65.4 MB) Try It Wedding Dash 4 - Ever DASH™ &. Time Mgmt Games
+
+Tackle more wedding mania than ever before!
+
+**Play Free!** (37.2 MB) Try It Log In New to PlayFirst?
 
 Sign up below to create a new PlayFirst account.
 
