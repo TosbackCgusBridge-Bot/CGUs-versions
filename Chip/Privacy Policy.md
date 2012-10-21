@@ -265,11 +265,11 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 Apokalypse am 21.12.: Die beste Software für den Weltuntergang
-*   2 SlimCleaner 4.0.24141 Englisch Freeware
-*   3 Right Click Enhancer 3.1.1 Englisch Freeware
-*   4 Universal USB Installer 1.9.1.3 Englisch Freeware
-*   5 FormatFactory 3.0 Deutsch Freeware
+*   1 Top 10: Die süchtig machendsten Flash-Games
+*   2 Apokalypse am 21.12.: Die beste Software für den Weltuntergang
+*   3 SlimCleaner 4.0.24141 Englisch Freeware
+*   4 Right Click Enhancer 3.1.1 Englisch Freeware
+*   5 Universal USB Installer 1.9.1.3 Englisch Freeware
 
 ...mehr
 
@@ -278,12 +278,12 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 *   1 Spiele-Vollversionen: Kostenlos zum Download
 *   2 Die besten kostenlosen Horror-Games
 *   3 Top 100: Die beliebtesten Downloads auf Deutsch
-*   4 Tools, die kaum einer kennt: 33 geniale Gratis-Downloads
+*   4 Apokalypse am 21.12.: Die beste Software für den Weltuntergang
 *   5 Kostenlose Spiele zum Download: Die besten Gratis-Games
 
 ...mehr
 
-CHIP Videos Acer K750 Full-HD Hybrid-Projektor Apple iPod touch 5G Acer Iconia A700 im Test  
+CHIP Videos Hackademy #2 - Facebook-Hack Acer K750 Full-HD Hybrid-Projektor Apple iPod touch 5G  
 
 Alle Videos bei CHIP Online
 
@@ -295,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
-*   Minecraft 1.4: Brandneue Version schon jetzt zocken
 *   Apple iPod nano 7G: Der Baby-Touch im Praxis-Test
 *   Alles für Windows 8: 50 neue Notebooks, Tablets, PCs &. Co.
 *   Test: Canon PowerShot G15 (Digitalkamera)
 *   Im Test: Die besten TVs in allen Kategorien und Größen ab 430 Euro
+*   Test: Philips 40PFL8007K (40-Zoll-LCD-TV)
 
 ...mehr
 
@@ -343,9 +343,9 @@ Meistgelesene Themen
 
 *   \[GELÖST\] jucheck.exe
 *   Facebook knacken leicht gemacht...
-*   Tastatur umstellen Englisch/Deutsch
 *   Free YouTube to MP3 Converter legal ?
-*   Community-Tagebuch
+*   Tastatur umstellen Englisch/Deutsch
+*   Pixelkneipe - Part 6
 
 ...mehr
 
@@ -364,11 +364,11 @@ Alle CHIP Online Feeds im Überblick
     
 *   2 Sexy Headphone Babes  
     
-*   3 Die 100 beliebtesten deutschsprachigen Freeware-Tools  
+*   3 12 Media-Markt-Angebote, 12 starke Alternativen  
     
 *   4 Playboy - Playmate des Jahres  
     
-*   5 12 Media-Markt-Angebote, 12 starke Alternativen  
+*   5 Die 100 beliebtesten deutschsprachigen Freeware-Tools  
     
 
 ...mehr
@@ -385,9 +385,9 @@ Alle CHIP Online Feeds im Überblick
     
 *   3 Fußball Live Stream mit SopCast  
     
-*   4 iPhone 5 Praxis-Test  
+*   4 Samsung Galaxy S3 LTE - Test  
     
-*   5 Samsung Galaxy S3 LTE - Test  
+*   5 iPhone 5 gegen iPhone 4S  
     
 
 ...mehr
