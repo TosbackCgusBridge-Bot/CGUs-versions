@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Saturday, October 20, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Sunday, October 21, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -113,17 +113,17 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report woodleywonderworks/Flickr Why American Students Can't Write  
-An _Atlantic_ debate about how to teach writing, and why it matters Read more › Just In James Fallows 11:55 AM ET Inside Foxconn #3: Some Dormitories 1350748520 Voices
+Special Report The Atlantic Election 2012  
+_The Atlantic_'s full coverage of the battles for the White House, Senate, and more. Read more › Just In Sage Stossel 5:31 AM ET SNL's Bruno Mars Episode: 5 Best Scenes 1350811860 Voices
 
-*   James Fallows Inside Foxconn #3: Some Dormitories 11:55 AM ET
+*   Robert Wright Could Newsweek Have Been Saved? Oct 20, 2012
+*   James Fallows Inside Foxconn #3: Some Dormitories Oct 20, 2012
 *   Derek Thompson What Happens If TV Goes the Way of Music and… Oct 19, 2012
 *   Alexis C. Madrigal An Energy Entrepreneur Turns to Inflatable Robots Oct 19, 2012
 *   Ta-Nehisi Coates The Past Ain't Even the Past Oct 19, 2012
 *   Jeffrey Goldberg Did Joe Biden Just Go Soft on Iran? Oct 19, 2012
 *   Clive Crook How the Democratic Base Could Lose This Election… Oct 19, 2012
 *   Garance Franke-Ruta Hillary Clinton Wants None of Your 'Whining'… Oct 18, 2012
-*   Robert Wright New Evidence That Racism Isn't 'Natural' Oct 17, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 
 Correspondents
@@ -162,23 +162,23 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Where Will You Party on Election Night?  
+*   Iran Is Ready to Talk About Their Nuclear Program (or Not?)  
     
-*   Romney: More a Michael Scott than Donald Trump  
+*   Bloomberg Endorses Joe Biden (Obama and Romney Can Wait)  
     
-*   Rupert Murdoch Is Going Shopping  
+*   Jesse Jackson Jr. Conveniently Returns to Rehab  
     
 
-Last Update: 1:13 PM
+Last Update: 6:36 PM
 
-*   San Francisco Looks Creepy Without Any People In It  
-    
 *   Why Amtrak Keeps Breaking Ridership Records and Will Continue To Do So  
+    
+*   Vienna's Naked Subway Woman Adds To Rich History of Nude Commuting  
     
 *   Where Americans Come to Hate Muslims: Dearborn  
     
 
-Last Update: 2:10 PM Most Popular
+Last Update: 5:35 PM Most Popular
 
 1
 
@@ -186,39 +186,39 @@ The Revenge of the Soccer Moms
 
 2
 
-Can Your Boss Threaten to Fire You if You Don't Vote for Romney?
+What Happens If TV Goes the Way of Music and Newspapers?
 
 3
 
-What Happens If TV Goes the Way of Music and Newspapers?
+SNL's Bruno Mars Episode: 5 Best Scenes
 
 4
 
-A Guy Who \*Saw\* Lincoln Get Shot Was on a TV Show in 1956 That Is Now on YouTube
+Why Women Still Can’t Have It All
 
 5
 
-All the Small Places in North Dakota
+Can Your Boss Threaten to Fire You if You Don't Vote for Romney?
 
 6
 
-Robots at Work and Play
+Gangnam Style, Dissected: The Subversive Message Within South Korea's Music Video Sensation
 
 7
 
-'Sex Addiction' Redefined
+A Trip to the Faroe Islands
 
 8
 
-Inside Foxconn #3: Some Dormitories
+The Past Ain't Even the Past
 
 9
 
-Why Women Still Can’t Have It All
+A Guy Who \*Saw\* Lincoln Get Shot Was on a TV Show in 1956 That Is Now on YouTube
 
 10
 
-Um, What's That Bright, Shiny Thing Curiosity Just Found on Mars?
+All the Small Places in North Dakota
 
 *   Subscribe Help
 *   Faq
