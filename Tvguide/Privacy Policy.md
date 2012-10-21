@@ -75,7 +75,7 @@ Fall TV Popularity Contest
 
 This Weekend's Football
 
-_Private Practice_ Ending
+Top Moments
 
 _Once_ Burning Questions
 
@@ -138,10 +138,10 @@ more popular celebrities Most Popular Movies
 more popular movies Top Videos
 
 1.  The Vampire Diaries
-2.  Arrow
-3.  Dexter
-4.  Supernatural
-5.  The Vampire Diaries
+2.  The Vampire Diaries
+3.  Supernatural
+4.  Dexter
+5.  Arrow
 
 more top videos
 
