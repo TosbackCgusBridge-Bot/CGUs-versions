@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Mike Aviles heading to Jays for John Farrell
+*   Beltran's knee should be fine for NLCS Game 6
+*   Sabathia to see Dr. Andrews about left elbow
+*   Marlins trade RHP Heath Bell to Diamondbacks
+*   A's acquire OF Chris Young from Diamondbacks
 *   Jeter undergoes ankle surgery, out 4-5 months
 *   Diamondbacks pick up 2013 option on Putz
 *   Soriano expected to opt-out with Yankees
 *   Zito dazzles in NLCS Game 5 win vs. Cardinals
 *   Carlos Beltran in Cardinals lineup for Game 5
 *   Yanks intend to pick up option on Granderson
-*   CC Sabathia will have elbow checked out
 *   Wainwright rebounds, gives Cardinals 3-1 lead
-*   Alex Rodriguez won't waive no-trade clause
-*   Peralta homers twice as Tigers advance to WS
-*   Jaime Garcia not having shoulder surgery
-*   Lance Lynn to start Game 5 of NLCS vs. Giants
 
 NFL PAGES
 
@@ -106,6 +106,7 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Giants activate DT Canty from PUP on Saturday
 *   Jimmy Graham downgraded to out in Week 7
 *   Dwyer to lead committee attack at Cincinnati
 *   Ravens activate Suggs (Achilles) off PUP list
@@ -117,7 +118,6 @@ FANTASY FOOTBALL HEADLINES
 *   Gore is fine after X-rays reveal bruised ribs
 *   Lynch runs for 103 yards in Week 7 loss at SF
 *   Gore shreds Seahawks for 182 yards in TNF win
-*   Report: Vick, Mornhinweg will remain in place
 
 NBA PAGES
 
@@ -134,14 +134,14 @@ NBA PAGES
 
 COLUMNS
 
+*   NBA Live Chat Monday at 1 p.m. Oct 20
+*   Points League Draft Recap Oct 20
 *   Players to Target Oct 20
 *   Poor Timing On Love's Injury Oct 18
 *   Roto Auction Recap Oct 17
 *   Top 10, Busts and Sleepers Oct 12
 *   Pre-Preseason Mock Draft Oct 9
 *   2012 NBA Draft Guide Oct 2
-*   Preseason Position Battles Sep 20
-*   Point Guard Depth Sep 13
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Steph Curry (ankle) probable for GSW opener
+*   Al Horford sits out second half w/ sore calf
+*   Tyrus Thomas leads Bobcats w/ 14 pts, 16 reb
+*   Jeff Green has 25 points, three 3s vs. Knicks
+*   Bogut (ankle) on pace, but still no timetable
 *   Maggette to have MRI on strained left calf
 *   Brook Lopez keeps it rolling with 23 &. 9
 *   Thad Young scores 24 points in start at PF
 *   Dorell Wright goes for 18 &. 11 vs. Nets
 *   Bargnani (calf) returns to action. scores 20
-*   Team Sources: Curry ankle injury not serious
-*   Andrew Bogut (ankle) to see doctor on Monday
 *   Nowitzki (knee surgery) out at least 6 weeks
 *   James Harden (groin) scrimmages on Thursday
-*   Report: Dion Waiters favorite to start at SG
-*   Paul Pierce seen limping after ankle injury
-*   Dwight Howard (back) to return on Sunday
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Lehner's ejection kickstarts epic collapse
+*   Justin Schultz scores yet again for OKC
+*   Adam Henrique pots first AHL goal
+*   Marcus Foligno a force with four-point night
+*   Taylor Hall won't play in a game until Nov.
+*   Report: Ben Eager faces assault charges
 *   M.Ryan stars in Assat's win in Finnish League
 *   S. Kostitsyn scores shootout winner Saturday
 *   Anton Khudobin takes 4-1 loss in KHL game
 *   Ovechkin scores in KHL win Saturday
 *   Nino Niederreiter off to sound start in AHL
 *   Adam Henrique off to slow start in Albany
-*   Cody Hodgson setting up goals in AHL
-*   Marcus Foligno off to nice AHL start
-*   Oliver Ekman-Larsson has two goal game
-*   Nicklas Backstrom arrives in Russia
-*   Lehner allows three goals in first 12-13 loss
-*   Jordan Caron leads P-Bruins with a hat trick
 
 NASCAR PAGES
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Austin Dillon wins race awards at Kansas
+*   Logano’s NNS team wins Kansas race awards
+*   Justin Allgaier big Nationwide Series gainer
+*   Paul Menard lap leader in Kansas Lottery 300
+*   Ricky Stenhouse Jr. wins Kansas Lottery 300
+*   Martin has best 10-laps in Cup Happy Hour
+*   Matt Kenseth leads Kansas Happy Hour
 *   Johnson has best 10-laps in 2nd Cup practice
 *   Greg Biffle tops second Kansas practice
 *   Josh Wise misses Kansas Nationwide field
 *   Morgan Shepherd last in Kansas NNS field
 *   Jeff Green best NNS go-or-go-homer starter
-*   Austin Dillon top ROTY in NNS Kansas field
-*   Logano sets Nationwide pole record in Kansas
-*   Stremme not in Hollywood Casino 400 field
-*   Josh Wise misses Hollywood Casino 400 field
-*   Cole Whitt not in Kansas Cup field
-*   Kelly Bires gets last Cup slot at Kansas
-*   McDowell top Kansas Cup go-or-go-homer
 
 GOLF PAGES
 
@@ -285,6 +285,10 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Love III tied for the lead at Seaside Course
+*   Furyk tied for 54-hole lead at the McGladrey
+*   Bowditch stumbles with a 75. one of many MDFs
+*   Crane ties Seaside Course record with a 62
 *   Atwal in charge at the McGladrey midpoint
 *   Ill Mark Anderson survives. 54-hole cut looms
 *   Dawson buries 9 birdies en route to co-lead
@@ -293,10 +297,6 @@ FANTASY GOLF NEWS
 *   Hamrick medals at last four-spotter of 2012
 *   Blixt breaks through at the Frys.com Open
 *   Walker shares course record. ties career low
-*   Stefani locks up TOUR card with second title
-*   Eagle hole-out fuels Lowry's first pro win
-*   Mallinger heads to Frys.com finale with lead
-*   Dunlap, 49, cards career low in 202nd start
 
 NFL DRAFT PAGES
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
-*   Spurrier: Hope Lattimore plays in late 1st Q
-*   Jarvis Jones will not play Saturday vs UK
-*   Tommy Rees will start at QB for Irish vs BYU
-*   Lutzenkirchen out vs Vandy, season in doubt
-*   Cincy DE Stewart out vs Toledo, maybe longer
-*   Cavs starting RT Moses questionable vs WF
-*   Brooks: 'Word is' Glennon may be 2nd QB
-*   Devils DT Sutton received a 'good prognosis'
-*   McShay: Gillislee, from after thought to 4th
-*   McShay: McCarron may be most underrated QB
-*   McShay: Denard Robinson will go in top 3 rds
-*   Margus Hunt records two sacks vs Houston
+*   King: Jones 'looks' to be top half of 1st rd
+*   Eifert leaps over BYU for 73 yards, 1 TD
+*   Jordan Reed catches two touchdowns vs SoCar
+*   Marcus Lattimore totals five touches vs UF
+*   Stepfan Taylor rumbles for 189 rushing yards
+*   Update: Lutzenkirchen officially out for year
+*   Braxton Miller 'doing fine' after hospital
+*   Joseph Randle runs for 151 yds, 2 TDs vs ISU
+*   Zach Mettenberger putrid in win over Aggies
+*   Rutgers RB Jamison totals 195 yards, 2 TDs
+*   Logan Thomas' struggles continue, 2 INTs
+*   Braxton Miller sidelined, taken to hospital
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
+*   MLB:Mike Aviles heading to Jays for John Farrell
+*   NAS:Ricky Stenhouse Jr. wins Kansas Lottery 300
+*   CFB:Braxton Miller 'doing fine' after hospital
+*   MLB:Marlins trade RHP Heath Bell to Diamondbacks
+*   MLB:A's acquire OF Chris Young from Diamondbacks
+*   NFL:Giants activate DT Canty from PUP on Saturday
 *   NFL:Dwyer to lead committee attack at Cincinnati
 *   NFL:Jimmy Graham downgraded to out in Week 7
 *   NFL:Ravens activate Suggs (Achilles) off PUP list
 *   MLB:Jeter undergoes ankle surgery, out 4-5 months
 *   NAS:Logano sets Nationwide pole record in Kansas
-*   CFB:Jarvis Jones will not play Saturday vs UK
-*   NFL:Cowboys WR Bryant expected to play Sunday
-*   CFB:Tommy Rees will start at QB for Irish vs BYU
-*   MLB:Zito dazzles in NLCS Game 5 win vs. Cardinals
-*   NAS:Kahne sets record pole for Kansas Cup race
-*   MLB:Yanks intend to pick up option on Granderson
-*   NHL:NHL slashes all games through November 1
+*   NBA:Steph Curry (ankle) probable for GSW opener
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. MurrayNFL (9005)
-*   2T. RichardsonNFL (8973)
-*   3R. MendenhallNFL (7635)
-*   4J. GordonNFL (7315)
-*   5J. GrahamNFL (7271)
+*   1T. RichardsonNFL (8638)
+*   2D. MurrayNFL (7857)
+*   3J. GrahamNFL (7791)
+*   4R. MendenhallNFL (7421)
+*   5A. BradshawNFL (7352)
 
-*   6H. NicksNFL (6913)
-*   7A. BradshawNFL (6886)
-*   8F. JonesNFL (6737)
-*   9P. GarconNFL (6643)
-*   10G. JenningsNFL (6620)
+*   6J. GordonNFL (7001)
+*   7F. JonesNFL (6464)
+*   8G. JenningsNFL (6366)
+*   9L. MooreNFL (6334)
+*   10A. BrownNFL (6296)
 
   
 Video Center
@@ -560,6 +560,7 @@ More NFL Columns
 
 NFL Headlines
 
+*   »Giants activate DT Canty from PUP on Saturday
 *   »Jimmy Graham downgraded to out in Week 7
 *   »Dwyer to lead committee attack at Cincinnati
 *   »Ravens activate Suggs (Achilles) off PUP list
@@ -571,7 +572,6 @@ NFL Headlines
 *   »Gore is fine after X-rays reveal bruised ribs
 *   »Lynch runs for 103 yards in Week 7 loss at SF
 *   »Gore shreds Seahawks for 182 yards in TNF win
-*   »Report: Vick, Mornhinweg will remain in place
 
 NFL Links
 
