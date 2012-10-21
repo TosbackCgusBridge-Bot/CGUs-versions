@@ -1,3 +1,12 @@
+*   Women
+*   Men
+*   Baby &. Kids
+*   Home
+*   Food &. Wine
+*   City
+*   Jetsetter
+*   Park &. Bond
+
 Jetsetter
 
 The world’s greatest vacations. Members-only prices.
@@ -221,19 +230,19 @@ Upcoming Sales
 
 *   Hotel Sofitel Philadelphia
     
-    Starting Sunday 10/21 at 3pm EDT
+    Starting Today 10/21 at 3pm EDT
     
 *   Rendezvous St. Lucia
     
-    Starting Sunday 10/21 at 3pm EDT
+    Starting Today 10/21 at 3pm EDT
     
 *   Newstead Resort - Bermuda
     
-    Starting Sunday 10/21 at 3pm EDT
+    Starting Today 10/21 at 3pm EDT
     
 *   Sofitel Montreal Golden Mile
     
-    Starting Sunday 10/21 at 3pm EDT
+    Starting Today 10/21 at 3pm EDT
     
 *   Hawthorn at The Porches Steamboat Springs, Colorado
     
