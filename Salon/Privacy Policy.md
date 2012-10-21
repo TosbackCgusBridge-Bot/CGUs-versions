@@ -8,10 +8,10 @@ Register Sign in Welcome, Logout
         *   Mitt Romney
         *   Barack Obama
         *   2012 Presidential Debates
-        *   Elections 2012
         *   Terrorism
         *   Television
-        *   Science
+        *   Elections 2012
+        *   Movies
         *   Music
         *   The American Prospect
 *   RSS
@@ -194,29 +194,29 @@ About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service 
 
 Take Salon on the go â download our free app now
 
-Current Stories Ann: Mormon missions are just like military service!
+Current Stories The 10 most Islamophobic moments in the 2012 elections
 
-News. Her sons didn't serve, but they did spend a two-year tour proselytizing. For Ann, that's pretty much the same thing
+News. From Allen West to Michele Bachmann, these are the most hateful examples of bigotry against Muslims this campaign
 
 Why President Romney would let down the right
 
 Politics. If Mitt Romney wins, conservatives will demand sweeping change. As usual, they'll be disappointed
 
-From binders to Benghazi, memes are killing politics
+"Back to Blood": Tom Wolfe forgot his own rules
 
-Entertainment. Irrelevant details dominate the way we talk about the campaign. This might not be new, but it is getting worse
+Entertainment. Almost 25 years ago, the author made a case for the realist novel. His silly new book suggests he should reread it
 
-Where does language come from?
+Amanda Todd's only the start
 
-Life. How do we understand what words really mean? New science suggests we make meaning by creating mental simulations
+Life. Bullying from "cappers" pushed the teen to suicide. She's not the only young woman being pursued by Web creeps
 
 Most Read
 
-*   GOP voter registration scandal widens Brad Friedman
-*   The war on 12-year-old girls Mary Elizabeth Williams
-*   Tagg Romney: Mr. White Privilege David Sirota
 *   Fox News cost Mitt the debate Jonathan Bernstein
-*   Lance Armstrong: Biggest sports fraud ever? Tom Carson, The American Prospect
+*   The war on 12-year-old girls Mary Elizabeth Williams
+*   GOP voter registration scandal widens Brad Friedman
+*   Ann: Mormon missions are just like military service! Laura Gottesdiener, Alternet
+*   Five startling facts about Mitt's investments Joshua Holland, Alternet
 
 Voices
 
