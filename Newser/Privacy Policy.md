@@ -2,14 +2,14 @@
 
 *   What's New
 *   Hot Topics
-    *   Election 2012
-    *   Mitt Romney 2012
-    *   Mitt Romney
-    *   entertainment
-    *   Barack Obama
-    *   celebrity
     *   strange stuff
-    *   timeless news
+    *   Mitt Romney 2012
+    *   entertainment
+    *   celebrity
+    *   Barack Obama
+    *   Mitt Romney
+    *   President Obama
+    *   Election 2012
     *   Benghazi
     *   Syrian uprising
 *   Log In
@@ -131,15 +131,15 @@ More from Slate »
 
 More from HuffPost Weird »
 
-*   This Week In Style: Too-Skinny Minnie Makes Waves
-*   Why My Boyfriend Loves My Girl Crush On Tina Fey &. Amy...
-*   Sneak Peek: Target And Neiman Marcusâs Designer Holiday...
+*   10 Careers Helped Or Hurt By Sex Tapes
+*   Bing Bellamy Has Got An Adorable Scowl
+*   8-Year-Old Girl Gets Head Start On Cosplay, Goes To School...
 
 More from The Frisky »
 
-*   The End of Cable: What happens if TV goes the way of Music...
-*   When seeking medical attention after inhaling toxic...
-*   1st Native American approved for sainthood after Vatican...
+*   Good: Winning a Freedom of Information Act judgment....
+*   The days of being able to buy trousers from a bazaar in...
+*   16-year-old girl refuses to leave her room after lifesaving...
 
 More from Fark »
 
@@ -149,9 +149,9 @@ More from Fark »
 
 More from The Week »
 
-*   Democrat Social Media Users Are 'Likers'. Republicans Are...
-*   Mitt Romney Actually Doesn't Like Firing People That Much
-*   Is 'Romnesia' a True Public Health Threat, or Just Another...
+*   Iran Has Agreed to One-on-One Nuclear Talks with the United...
+*   Super-PACs Prepare Final Ad Blitzes
+*   Joe Biden Looked Extra Cool While Buying Donuts Today
 
 More from Daily Intel »
 
@@ -161,15 +161,15 @@ More from Daily Intel »
 
 More from HuffPost Health »
 
+*   Adele Gives Birth to Baby Boy (REPORT)
+*   Newlywed Justin Timberlake Steps Out in Italy Following...
 *   Lindsay Lohan Fires Back at Michael Lohan Following Failed...
-*   Alicia Keys Unveils New Music Video for âGirl on Fireâ...
-*   Heidi Montag Flaunts Curves at Las Vegas Gentlemenâs Club...
 
 More from Celebuzz »
 
-*   Beautiful Nursery Lets Moms Pamper Themselves While Taking...
-*   Justin Timberlake and Jessica Biel Get Married: Who Was...
-*   Missing Woman Whitney Heichel's Body Found and Her Neighbor...
+*   Spooky, Tasty Cupcake Graveyard Recipe
+*   Natalie Portman Shows Cleavage at UT Game and the Web Comes...
+*   Kendall and Kylie Jenner Start Their Own Clothing Line
 
 More from The Stir »
 
