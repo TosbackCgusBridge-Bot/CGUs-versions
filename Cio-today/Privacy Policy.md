@@ -1,10 +1,10 @@
   
   
 **CIO Today Network Sites:**   Top Tech News  |   **CIO Today**   |   Mobile Tech Today   |   Data Storage Today **Daily Briefing for Technology's Top Decision-Makers**  
-600 FREE hours of AWS  
-Sign up for an AWS account,  
-and complete the form today!  
-Get $100 of AWS promotion credits **Saturday, October 20th** The fully-rugged Panasonic Toughbook® 19 Statement of Privacy, Terms of Service, Use, Conditions, Notices and Limitations  
+Autonomy's WCM solution:  
+automatically collects &. analyzes  
+multichannel customer data  
+Click here to learn more **Sunday, October 21st** Get the Box CIO Tool Kit Statement of Privacy, Terms of Service, Use, Conditions, Notices and Limitations  
 **Last Updated: May 18, 2005**
 
 CIO Today and its affiliate publications (collectively referred to in this Privacy Statement as "we", "us", or "CIO Today") recognize the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our services, recipients of our e-mail newsletters and all other customers of our products and services. We created this policy with a fundamental respect for our customers right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned by CIO Today. A current list of our publications, web sites, white papers, newsletters, etc. can be found linked from at http://www.CIO-Today.com.
