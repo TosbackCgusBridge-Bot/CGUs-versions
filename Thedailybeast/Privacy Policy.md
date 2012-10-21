@@ -144,10 +144,10 @@ Stories We Like
 
   Most Popular
 
-1.  Why Fox News Chairman Roger Ailes Won't Walk Away From His TV Empire
-2.  The Man Who Could Beat Bachmann
-3.  My Proof of Heaven
-4.  The Week’s Best Reads
+1.  The Man Who Could Beat Bachmann
+2.  My Proof of Heaven
+3.  High Times in America
+4.  Kim Kardashian's Not a Fan of Underwear, Shows Off Crack
 5.  The Great Deformer
 
   Other News Entertainment
@@ -159,23 +159,23 @@ Stories We Like
 
 Entertainment
 
+*   Bruno Mars hosts tonight’s ‘Saturday Night Live’: Talk about it here!
+*   ‘The Girl’ and the Director: A guide to the Hitchcock Blondes
 *   ‘Medal of Honor: Warfighter’ — EXCLUSIVE gameplay preview and mission reveal
-*   Willow Smith covers Adele’s ‘Skyfall’ — VIDEO
-*   Happy Spirit Day! Celebs celebrate anti-bullying event by wearing purple
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Richard Nixon's 1972 Condolence Call To Joe Biden
-*   The Vertical Back
-*   In Daytona, Romney Tries To Rise Above "Romnesia"
+*   Iran News Will Shift Debate Focus
+*   Romney Campaign Clarifies, Still Supports Federal Marriage Amendment
+*   Biden: Romney Has Abandoned His Republican Principles
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Nevada Democrats Finish with Registration Edge
-*   CIA Documents Support Obama on Libya Attack
-*   The Killing of Osama bin Laden
+*   Extra Bonus Quote of the Day
+*   Largest Ohio Newspaper Backs Obama
+*   Iran Agrees to Nuclear Talks
 *   **Get More from Political Wire**
 
 The Daily Beast
