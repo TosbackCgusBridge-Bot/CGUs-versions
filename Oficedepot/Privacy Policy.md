@@ -12,7 +12,7 @@ Loading Results... Skip to content
 *   Customer Service
 *   1.800­.GO.DEPOT (1.800.­463.3768) Close X
     
-    **Session:** 0000zrCzqeu4lkd3bNqvu\_JFbmf  
+    **Session:** 0000plzGoiYMBSYAedoR4BZGS0j  
     **Clone:** 1659q38ci
     
 
@@ -23,7 +23,7 @@ Search Suggestions
   
 Weekly Ad
 
-**Add $50.00 more for FREE Delivery!\*  
+****FREE** Delivery!\*  
 **
 
 *   0 item(s): $0.00
@@ -40,7 +40,6 @@ Subtotal
 *   Checkout
 
 *   Welcome, Guest  Log in | Register
-*   Browsing 60601 Change Zip
 *   Order Tracking
 
 *   My Account
@@ -163,11 +162,11 @@ Subtotal
     
     Current Offers
     
-    25% Off Foray Advanced Ink Pens
+    25% off, New! Foray Advanced Ink Pens.
     
-    Support Breast Cancer &. buy pink supplies
+    Dollar Deals on Supplies starting at $2!
     
-    Paper - Can't run your office without it!
+    Free Ream of HP Paper when you buy $50 of HP Ink
     
 *   Paper
     
@@ -411,11 +410,11 @@ Subtotal
     
     Current Offers
     
-    All HP All-in-One LaserJets on Sale
+    Pre-order your Windows 8 PC or Tablet today
     
-    New! Samsung Galaxy Tablet
+    HP LaserJets on Sale. Save up to $100
     
-    Windows 7 PC Clearance Sale! In Store only.
+    SanDisk USB 2.0 Flash Drives as low as $8.99
     
 *   Furniture
     
@@ -470,11 +469,11 @@ Subtotal
     
     Current Offers
     
-    Save up to $130 on Executive &. Everyday Chairs
+    Final Week Seating Event!
     
-    Save up to $190 on select Desk &. Hutch Bundles
+    Everyday Values on Hutch Bundles
     
-    Top rated furniture, desks, and filing on sale
+    Savings on Top Rated Furniture, Filing &. Desks
     
 
 Product Plans &. Leasing Options Page of There are no items in your cart. Previous Next $ Coupon Code: ZIP CODE You have not selected a store or a zipcode yet Your Coupons See all coupons Includes Coupon(s) Qty. Product Price Price With Tax item(s) false true Your Price: Quick View See More Results http://static.www.odcdn.com/images/us/od/lb\_loading.gif Please enter a quantity true true Home Customer Service  >  Privacy Statement Privacy Statement Helpful Links
