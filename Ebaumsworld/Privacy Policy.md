@@ -1,27 +1,27 @@
-*   VIDEO Woman Gives Birth On A Jail Floor
-*   VIDEO Kid Gets Punished By Girl
 *   STAR WEIRDS BLOG 5...
-*   VIDEO Truck Loses It's Load
-*   VIDEO Behind The Back Touchdown
-*   VIDEO Man Arrested for Staging Terror Threat
+*   GALLERY Games I Played as a Kid
+*   VIDEO Blue Laser Cigarette Lighter
+*   VIDEO Waking Up An English Mastiff
+*   VIDEO Professor Switch!!
+*   VIDEO Rampaging Squirrel Escapes Like a BOSS!!
+*   VIDEO Shredding Guitar &. Keyboard At Same Time
+*   VIDEO Detroit Lions Hail Mary Vs. the Titans
 *   WAYS TO SAVE BLOG 5 Ways to Save a Buttload of Money!
-*   VIDEO Jalen Rose Explains Kobe's 81 Point Game
-*   VIDEO Ravens Fans Vulgar Chant
-*   VIDEO Slow Mo: Molotov Cocktail Against House
-*   BLOG Seven Psychocats
-*   VIDEO Eye Controlled Computer
-*   VIDEO Kid Rock &. Pam Anderson Yell at Paparazzi
-*   VIDEO Cartoon Network 20 Year Tribute
-*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
-*   CELEBRIDEAD GALLERY Celebrity Life Update
+*   VIDEO Travis Snider Makes Amazing Catch
 *   GAME Infectionator 2
-*   VIDEO Guy Dunks Head In Piss Bucket
-*   VIDEO Kid Narrowly Avoids Death By Motorcycle
-*   VIDEO Woman Hoards "30" Obama Phones
-*   BEST OF HAZING BLOG Fraternity Hazing is Retarded.
-*   VIDEO Cute Kitten in a Little Hat
+*   VIDEO Sick and Twisted 13 Year Olds
+*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
+*   VIDEO Highbar Back Flip FAIL
+*   GALLERY D.E.R.P.
+*   VIDEO Kid Face Plants HARD
+*   VIDEO Small Fishing Master
+*   CELEBRIDEAD GALLERY Celebrity Life Update
+*   VIDEO Meanwhile...In America
 *   SAM JACKSON PARTNER Sam Jackson Quotes
+*   BEST OF HAZING BLOG Fraternity Hazing is Retarded.
+*   VIDEO Superstar In The Making
 *   CUBE MAPPING PARTNER 3D Cube Mapping Demo
+*   VIDEO Waiting for an iPhone 5...for no reason
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
@@ -111,16 +111,16 @@ Last updated: March 31, 2011.
 
 EBAUM'S PICKS Cool Wolf Costume Car Flipped on Highway Bottles Beware! Spiders In A Box Projected Onto Windows Top 5
 
-*   *   119,332
-    *   How To Kill a Starfish
-*   *   111,501
-    *   Facebook Wins and Fails
-*   *   93,489
-    *   Monday Morning Randomness
-*   *   90,829
-    *   Coach Knocks Out Student
-*   *   87,848
+*   *   12,193
     *   Best Viral Pics of The Week Compilation
+*   *   7,829
+    *   Stuntman's Brutal Parkour Crash!
+*   *   6,954
+    *   Famous Black Eyes
+*   *   4,431
+    *   YOU'VE Been Chang'd Dr. Ken!!!!
+*   *   3,669
+    *   Kittens Learn Physics
 
 POPULAR GALLERIES Facebook Wins and Fails A Cultural Collection POPULAR GAMES Cloud Wars Into Space 2 Slender - Bones of Children Infectionator 2
 
