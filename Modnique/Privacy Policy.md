@@ -78,7 +78,6 @@ Loading Modnique - Boutique Events
     *   Jantie Women's Apparel Made In USA
     *   John Meyer Missy Women's Suits
     *   Josh Brody mixed apparel
-    *   Look of The Day
     *   RED Valentino Featuring Shoes &. Apparel
     *   Sexy Diva Dresses Made in USA
     *   Teez Her Active Wear
@@ -101,7 +100,7 @@ Loading Modnique - Boutique Events
     *   Dv Italy jewelry
     *   Elegant evening jewelry deals
     *   FPJ jewelry
-    *   Look of The Day
+    *   Ladies Simulated Gems Jewelry Set Enamel
     *   Silver jewelry sale: necklaces &. bracelets
     *   Zoppini &. Manuel Zed Jewelry
     *   _more..._
@@ -109,7 +108,6 @@ Loading Modnique - Boutique Events
     *   100 best season watch styles
     *   Designer Watches for Less
     *   Gemstone jewelry blowout
-    *   Ladies Simulated Gems Jewelry Set Enamel
     *   Rolex
     *   Time for luxury style: designer watches
     *   _more..._
@@ -124,7 +122,6 @@ Loading Modnique - Boutique Events
     *   Iris Tyler handbags
     *   Kenneth Cole Accessories
     *   Kontessa Winter Accssesories Made In Italy
-    *   Look of The Day
     *   _more..._
     *   men
     *   Valentino Men's Scarves and Ties
