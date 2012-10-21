@@ -16,7 +16,7 @@ Skip to content
 *   Gift Center
 *   T-Shirts
 
-**Search** 50% Off Posters &. Canvas! Showcase Your Sweethearts For Sweetest Day!   Use Code: SWEETSAVINGS   Ends Tomorrow! (details) Check out Zazzle Instant, our new app for making fun products! Ok Zazzle Privacy Policy Policies
+**Search** 50% Off Posters &. Canvas! Showcase Your Sweethearts For Sweetest Day!   Use Code: SWEETSAVINGS   LAST DAY! (details) Check out Zazzle Instant, our new app for making fun products! Ok Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
