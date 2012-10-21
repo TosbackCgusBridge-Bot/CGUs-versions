@@ -91,7 +91,7 @@ A NOTE FROM STEPHANIE LINK
 *   5 Dumbest
 *   Kass
 
-pjava02.dc.thestreet.com Privacy Policy
+pjava08.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -249,10 +249,10 @@ Product Features:
 DOW 13,343.51 -205.43 -1.52% NASDAQ 3,005.62 -67.25 -2.19% S&P 500 1,433.19 -24.15 -1.66% US 10 Yr 1.768% -0.058 Brokerage Partners Most Commented
 
 *   Google Drops the Neutron Bomb: $249 Laptop
-*   10 Worst Cars of All Time
 *   Apple, Microsoft Need to Innovate, If They Can
+*   10 Worst Cars of All Time
 *   10 Cult TV Shows Netflix Should Revive
-*   6 Tech Toys Better Than What Apple Sells
+*   Poll: Who Won the Second Presidential Debate?
 
 Articles From Advertising Partners Free Newsletters from TheStreet
 
