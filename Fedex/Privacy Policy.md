@@ -40,7 +40,7 @@ Air/Ocean Freight Forwarding FedEx Trade Networks
 *   Importer Security Filing
 *   E-Manifest
 
-Not sure which service is right for you? Click Here Package, Envelope, or  
+Package, Envelope, or  
 Express Freight FedEx Express or FedEx Ground
 
 *   Track by Tracking Number
