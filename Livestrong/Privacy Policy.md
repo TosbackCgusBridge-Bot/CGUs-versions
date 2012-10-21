@@ -241,13 +241,13 @@ Your email is safe with us. We hate spam too!
 
 Featured this week on livestrong.com
 
-*   Oct 18, 2012 Top Tips For Reading  
+*   Oct 19, 2012 Top Tips For Reading  
     Nutrition Labels
-*   Oct 17, 2012 The Do's and Don'ts  
+*   Oct 18, 2012 The Do's and Don'ts  
     Of Perfect Eyebrows
-*   Oct 16, 2012 The 20 Best  
+*   Oct 17, 2012 The 20 Best  
     Body Weight Exercises
-*   Oct 15, 2012 How The 'Net Is Changing  
+*   Oct 16, 2012 How The 'Net Is Changing  
     Your Healthcare
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
