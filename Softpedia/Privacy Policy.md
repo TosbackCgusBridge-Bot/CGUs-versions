@@ -41,30 +41,30 @@ WINDOWS CATEGORIES:
 7-DAY TOP DOWNLOAD # Program Null Logics Windows  
 Service Commander  
 1.0.600.2009  
-134,508 downloads Adguard Web Filter  
+134,912 downloads Adguard Web Filter  
 5.4.425.2526  
-126,288 downloads MSN Password  
+126,586 downloads MSN Password  
 Recovery  
 1.0.115.2012  
-125,764 downloads Nokia PC Suite  
+126,229 downloads Nokia PC Suite  
 7.1.180.94  
-52,010 downloads Samsung PC Studio  
+52,337 downloads Samsung PC Studio  
 7.2.24.9  
-38,125 downloads Microsoft Office  
+38,556 downloads Nero 9 Free  
+9.4.12.3d  
+33,379 downloads Microsoft Office  
 2013 15.0.4128.1014  
 Preview / 2010  
 14.0.6023.1000  
 Service Pack 1  
-34,008 downloads Nero 9 Free  
-9.4.12.3d  
-33,039 downloads Adobe Flash Player  
+33,118 downloads Adobe Flash Player  
 11.4.402.287 /  
 11.5.500.97 Beta 4  
-29,949 downloads Internet Download  
+31,016 downloads Internet Download  
 Manager 6.12 Build  
 22  
-27,027 downloads UMPlayer 0.98  
-23,415 downloads Home >. Privacy policy  
+27,115 downloads UMPlayer 0.98  
+22,623 downloads Home >. Privacy policy  
 Softpedia privacy policy  
 Written in accordance with the provisions of Law 677/2001, regarding individual protection about collecting and free circulation of personal data.  
   
