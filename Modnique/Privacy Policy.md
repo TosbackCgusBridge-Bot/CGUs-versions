@@ -44,48 +44,53 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
-    *   Bella Pearls
+    *   C Bar A Women's Apparel
+    *   Clips Accessories Made In Italy
     *   Coach handbags
-    *   Dolce &. Gabanna jewelry and Accessories
-    *   Ellen Tracy Outwear
+    *   Designer shoes under $49
+    *   Esprit Outwear
     *   Fall essentials blowout for her
-    *   Iris Tyler handbags
-    *   John Meyer Missy Women's Suits
-    *   Josh Brody mixed apparel
-    *   Kontessa Winter Accssesories Made In Italy
+    *   Milan Fashion Trends
+    *   New York Fashion Trends
+    *   Our Favorite Diamond Styles
+    *   Paris Fashion Trends
+    *   Silver jewelry sale: earrings &. rings
     *   Silver jewelry sale: necklaces &. bracelets
-    *   Teez Her Active Wear
     *   The Fashion Room from $19
     *   Women's Fragrances: Bvlgari, Lanvin, Gucci, Burberry
     *   _more..._
     *   men
     *   Fall essentials blowout for him
+    *   Mens shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
     *   _more..._
     *   other
     *   Bottega, Hogan, Jimmy Choo sunglasses
-    *   Designer Watches for Less
     *   Gemstone jewelry blowout
+    *   Get the Watch You Want: under $99
     *   Rolex
-    *   iCanvas Banksy Art
-    *   iPhone Cases
     *   _more..._
 *   apparel
     *   women
     *   Antique Rivets Denim for Him and Her
+    *   C Bar A Women's Apparel
     *   Ellen Tracy Outwear
+    *   Esprit Outwear
+    *   Everything under $39
     *   Fall essentials blowout for her
     *   Golden Silver Women's Apparel
     *   Jantie Women's Apparel Made In USA
     *   John Meyer Missy Women's Suits
     *   Josh Brody mixed apparel
+    *   New York Fashion Trends
+    *   Paris Fashion Trends
     *   RED Valentino Featuring Shoes &. Apparel
     *   Sexy Diva Dresses Made in USA
     *   Teez Her Active Wear
     *   The Fashion Room from $19
-    *   Week in Rewind
     *   _more..._
     *   men
     *   Fall essentials blowout for him
+    *   Mens shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
     *   Uomini Italiani Men's Apparel
     *   _more..._
 *   Jewelry &. Watches
@@ -93,14 +98,15 @@ Loading Modnique - Boutique Events
     *   100 best season jewelry styles
     *   Affordable Jewelry
     *   Bella Pearls
-    *   Boma jewelry
     *   Designer Jewelry
     *   Designer jewelry: Touch of Color
     *   Dolce &. Gabanna jewelry and Accessories
     *   Dv Italy jewelry
     *   Elegant evening jewelry deals
     *   FPJ jewelry
-    *   Ladies Simulated Gems Jewelry Set Enamel
+    *   Our Favorite Diamond Styles
+    *   Paris Fashion Trends
+    *   Silver jewelry sale: earrings &. rings
     *   Silver jewelry sale: necklaces &. bracelets
     *   Zoppini &. Manuel Zed Jewelry
     *   _more..._
@@ -108,12 +114,14 @@ Loading Modnique - Boutique Events
     *   100 best season watch styles
     *   Designer Watches for Less
     *   Gemstone jewelry blowout
+    *   Get the Watch You Want: under $99
     *   Rolex
     *   Time for luxury style: designer watches
     *   _more..._
 *   Handbags &. Accessories
     *   women
     *   Brand Too Hot to Mention: Designer Scarves
+    *   Clips Accessories Made In Italy
     *   Coach handbags
     *   Designer Jewelry
     *   Dolce &. Gabanna jewelry and Accessories
@@ -122,21 +130,28 @@ Loading Modnique - Boutique Events
     *   Iris Tyler handbags
     *   Kenneth Cole Accessories
     *   Kontessa Winter Accssesories Made In Italy
+    *   Milan Fashion Trends
+    *   Paris Fashion Trends
     *   _more..._
     *   men
+    *   Mens shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
     *   Valentino Men's Scarves and Ties
     *   _more..._
     *   other
     *   Bottega, Hogan, Jimmy Choo sunglasses
-    *   iPhone Cases
+    *   Chinini iPhone &. iPad Accessories
+    *   Piquadro Travel Accssesories Made In Italy blowout
     *   _more..._
 *   shoes
     *   women
+    *   Designer shoes under $49
     *   Mary-Jane Pumps
     *   Must-Have Booties
     *   Pointy-Toe Flats
     *   RED Valentino Featuring Shoes &. Apparel
     *   Sergio Rossi, Gianfranco Ferre, Gucci and more Shoes
+    *   _more..._
+    *   men
     *   _more..._
 *   beauty
     *   women
@@ -150,6 +165,9 @@ Loading Modnique - Boutique Events
     *   Designer Watches for Less
     *   Fall essentials blowout for him
     *   Gemstone jewelry blowout
+    *   Get the Watch You Want: under $99
+    *   Mens shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
+    *   Piquadro Travel Accssesories Made In Italy blowout
     *   Rolex
     *   Time for luxury style: designer watches
     *   Uomini Italiani Men's Apparel
