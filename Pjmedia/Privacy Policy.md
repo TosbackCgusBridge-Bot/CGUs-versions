@@ -115,24 +115,24 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Obama Campaign Going Out Of Business Sale?
-*   Now Up on the PJ Media Homepage
-*   Kofi Annan: Paul Ryan ‘Dead Wrong’ on Syria
+*   White House Doesn’t Mention McGovern’s Oval Office Bid
+*   Phoenix CBS affiliate calls election for Obama on Oct. 19th
+*   Inhofe: EPA ready to become even more onerous in Obama 2nd term
 
 More  
 
+*   Get It On!: The Adam Carolla-Dennis Prager Story
 *   The Only Reason Why a Man (Or A Woman) Should Get Married
 *   23 Books for Counterculture Conservatives, Tea Party Occultists, and Capitalist Wizards
-*   Classic Rock and Cheap Wine: An Eyewitness Account of the Beatles First American Concert
 
 More
 
-*   The October Surprise
-*   Things I Want to Shout to the World before the Election
-*   Name 5 Reasons a Man Should Get Married
+*   Should Barack Obama Resign Tonight?
+*   Do We Believe Anymore?
+*   Romney's Final Debate Prep
 
-More   THE OCTOBER SURPRISE: Michael Ledeen writes: ... FASTER, PLEASE: Drug From Chinese ‘Thunder God Vine’ Slays Tumors in Mice. “A drug made from a plant known as “thunder god vine,” or lei gong teng, that has been used in traditional Chinese medicine, wiped out pancreatic tumors in mice, researchers said, and may soon be tested in humans. Mice treated with the compound showed no signs of tumors after 40 days or after discontinuing the treatment, according to researchers at the University of Minnesota’s Masonic Cancer Center. The research, funded by the university and the National Institutes of Health. was published today in the journal Science Translational Medicine.” Let’s hope this pans out. ... VOTE SUPPRESSION: Military voters still face trouble at the polls. More Advertisement
+More   I AGREE THAT THIS MIGHT BE A BAD IDEA, BUT WHO DECIDES WHAT’S A “ROGUE” EXPERIMENT? ARE WE GOING TO START LICENSING SCIENTISTS? A Rogue Climate Experiment Outrages Scientists. ... IT’S NOT JUST THE ILLEGAL FOREIGN DONATIONS, THERE’S ALSO THIS: Obama campaign collecting more donations from non-existent ZIP codes as campaign season goes on. EMPTY CHAIR v. OBAMA:  You decide. More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
-Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb2
+Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb1
