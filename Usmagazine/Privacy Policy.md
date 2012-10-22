@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Dinner and a Show »
+Hot Pics! Carousel Couple »
 
-Top Stories1.  Heidi Montag Flaunts Famous Curves at Strip Club Party »
-2.  Exclusive How Kourtney Kardashian Slimmed Down After Giving Birth »
-3.  FIRST PICTURE: See Justin Timberlake's Wedding Ring! »
-4.  PIC: Sarah Michelle Gellar Shows Off Post-Baby Body in L.A. »
-5.  Freddie Prinze, Jr. Steps Out Three Weeks After Son's Birth! »
+Top Stories1.  Kim Kardashian: I Dress Better When Boyfriend Kanye West Is Around »
+2.  Jessica Simpson Shows Off Leaner Legs in Black Shorts During L.A. Outing »
+3.  Adele Gives Birth to a Baby Boy! »
+4.  NEW PICTURE: Penn Badgley Buzzes Off His Hair! »
+5.  Justin Timberlake, Jessica Biel's Wedding Week: A Timeline of Events »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Tori's Miracle Baby
 
 Inside Us Weekly
 
-*   Style See Elisa Donovan's Wedding Dress, Romantic C
-*   Beauty Elisabeth Moss Is a Brunette Again!
-*   Moms Kristin Cavallari: "Having a Baby Is So Much
-*   Body Slimmer Tyler Perry: "I'm Laying Off the Donu  
-*   Entertainment Revenge: Amanda Brings Stripper Pals to Victo  
+*   Style Kim Kardashian: I Dress Better When Boyfriend
+*   Beauty NEW PICTURE: Penn Badgley Buzzes Off His Hair
+*   Moms Donald Trump Jr., Wife Vanessa Welcome a Son!
+*   Body Jessica Simpson Shows Off Leaner Legs in Blac  
+*   Entertainment Paranormal Activity 4 Beats Tyler Perry's Ale  
 
 *   US WEEKLY
 *   Celebrity News
