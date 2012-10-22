@@ -45,6 +45,7 @@ Go to the Hollister Co. home page.
     *   CA Privacy Rights
     *   Sale Terms
     *   Texts Terms
+    *   Club Cali Terms
     *   Site Use
     *   Site Map
 *   About Us
@@ -228,6 +229,7 @@ New Albany, Ohio 43054 USA
     *   CA Privacy Rights
     *   Sale Terms
     *   Texts Terms
+    *   Club Cali Terms
     *   Site Use
     *   Site Map
 *   About Us
