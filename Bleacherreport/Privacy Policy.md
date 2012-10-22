@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 11 hours ago
+about 9 hours ago
 
-@BleacherReport: Florida State goes figure skating after scoring a touchdown. James Wilder... so graceful. http://t.co/NXvu6nkB
+@BleacherReport: The NLCS is going to GAME 7 for the first time since 2006. #SFGiants #Cardinals
 
 Newsletters
 
@@ -199,6 +199,6 @@ Popular Topics
 *   Fantasy Football Projections
 *   Heisman Trophy 2012
 *   MLB Playoff Schedule 2012
-*   BCS Standings
+*   BCS Rankings
 
 Copyright © 2012 Bleacher Report, Inc. Turner Broadcasting System, Inc. All Rights Reserved. BleacherReport.com is part of Turner Sports Digital, part of the Turner Sports &. Entertainment Digital Network. Certain photos copyright © 2012 by Getty Images. Any commercial use or distribution without the express written consent of Getty Images is strictly prohibited.
