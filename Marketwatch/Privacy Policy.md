@@ -1,4 +1,10 @@
-Bulletin Investor Alert Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
+Bulletin Investor Alert
+
+New York Markets Open in:
+
+Pre-Market Indications Analyst Ratings Oil News EarningsWatch
+
+Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
@@ -192,119 +198,138 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 21, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 22, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  7:00a
+/news/latest1.  8:06a
     
-    The U.S. economy gets a little homier
+    Peabody Energy Q3 net 46c vs $1.04
     
-2.  5:00p
+2.  8:06a
     
-    Canada rejects Petronas bid. Cnooc next?
+    Peabody adj Q3 net 51c vs adj 90c
     
-3.  3:25p
+3.  8:04a
     
-    Canada rejects Petronas bid. Cnooc next?
+    Pfizer buying NextWave Pharma for up to $680 mln
     
-4.  3:02p
+4.  8:00a
     
-    Suez, Veolia talks now dead: WSJ
+    Halcon buying N. Dakota acreage for $1.45 bln
     
-5.  3:00p
+5.  7:53a
     
-    French utilities Suez, Veolia talked merger: WSJ
+    BP, miners help lift U.K. stocks
     
-6.  2:53p
+6.  7:52a
     
-    PPP: Romney closes on Obama in Ohio
+    BP selling TNK-BP stake to Rosneft for cash, stock
     
-7.  2:29p
+7.  7:50a
     
-    All Kingfisher planes grounded since Oct. 1
+    Caterpillar falls 0.6% in premarket trades
     
-8.  2:27p
+8.  7:50a
     
-    Suspension makes Kingfisher tunaround harder: WSJ
+    Caterpillar profit climbs 49%, cuts view
     
-9.  2:22p
+9.  7:49a
     
-    India suspends Kingfisher Airlines' license: WSJ
+    VF profit rises, aided by Timberland
     
-10.  12:06p
+10.  7:49a
     
     Stocks to watch Monday: Caterpillar, Yahoo
     
-11.  12:03p
+11.  7:48a
     
-    China land price rises slow
+    Halcon buying N. Dakota fields for $1.45 bln
     
-12.  12:00p
+12.  7:40a
     
-    U.S. stocks slammed on worst day since June
+    Caterpillar Q3 revenue $16.45 bln vs $15.72 bln
     
-13.  10:49a
+13.  7:40a
     
-    Canada rejects Petronas' $5.2B Progress Energy bid
+    Caterpillar cuts 2012 view to $9-$9.25
     
-14.  10:01a
+14.  7:40a
     
-    401(k) plan perks grow, but savings still lag
+    Caterpillar's earlier 2012 view was about $9.60
     
-15.  10:00a
+15.  7:39a
     
-    A bicycle built for the 2%
+    Caterpillar Q3 EPS $2.54 vs $1.71
     
-16.  9:07a
+16.  7:39a
     
-    Banana Boat sunscreen recalled after burn injuries
+    Caterpillar latest quarter includes $273 mln gain
     
-17.  9:02a
+17.  7:35a
     
-    6 Wall Street blogs you should be reading
+    Radio update: Private investors buy Ancestry.com
     
-18.  9:01a
+18.  7:28a
     
-    10 nations that control the worldâs gold
+    Europe stocks inch higher with earnings in focus
     
-19.  9:01a
+19.  7:20a
     
-    Individual investors are destroying their wealth
+    Stock futures higher. Caterpillar, Yahoo in focus
     
-20.  9:00a
+20.  7:17a
     
-    U.S. stocks slammed on worst day since June
+    BREAKING
+    
+    Rosneft to pay BP $17.1B cash and 12.84% stake
     
 21.  Loading more headlines...
 
 dow /quotes/zigman/627449 13,343.51 -205.43 -1.52% nasdaq /quotes/zigman/123127 3,005.62 -67.24 -2.19% s&p 500 /quotes/zigman/3870025 1,433.19 -24.15 -1.66% Kiosk
 
-*   1341573300000 1341592200000
+*   1238817600000 1270353600000
     
-    From Fox Business
+    Slide Show
     
-    Â  Nancy Colasurdo  
-    Challenges can be connectors  
-    When trouble comes, it's important to remember that our challenges define us and can make us extraordinary, writes Nancy Colasurdo.Â  /conga/kiosk/marketfox.html 231678
-*   1326931500000 1327018200000
+    Who controls world's gold  
+    Ten nations effectively control the world's supply of gold,Â  a 24/7 Wall St. study shows. Find out which nations have the biggest stockpiles. 231818
+*   1320414900000 1320620100000
     
-    Commentary
+    Luxury Spending
     
-    Best time to buy is after a crash  
-    Buying stocks after a crash takes steel nerves most investors donât have, writes Jonathan Burton. So how do you take the plunge after a plunge?  
-    â¢ 1987 market crash: Could it happen again? /conga/kiosk/trading-deck-3.html 231707
+    Bicycle built for the 2%  
+    For $14,000, you can pedal this Gucci bike around town or on the trail. Among the available accessories: an $890 helmet and a $105 water bottle. /conga/kiosk/consumer.html 231841
+*   1339754400000 1340010000000
+    
+    Investing
+    
+    Â  10 lessons from 1987  
+    Wisdom from investors who were in the market trenches 25 years ago on the day stocks plunged.  
+    â¢ Protect your money from next crash /conga/kiosk/investing.html 231824
 *   1347087600000 1347213600000
     
-    Commodities Corner
+    Cars
     
-    S. African strikes' effect  
-    As labor unrest in South Africa continues to grow, so has the world's concern over the nationâs production of metals, writes Myra P. Saefong.  
-    /conga/kiosk/wildcard2.html 231738
-*   1341573300000 1341792900000
+    eye on the road  
+    After the warranty runs out  
+    The power of social media is making it easier to get repairs after warranties run out, writes Joseph B. White.  
+    /conga/kiosk/wildcard2.html 231791
+*   1309191300000 1309248000000
     
-    Economy
+    Retirement
     
-    Â  What Google, GE reveal  
-    A review of the data over the past week: From Google sales to housing data to China GDP, see what the freshest indicators say about the global economy. /conga/kiosk/economy-politics.html 231696
+    Savings still lag  
+    Workers are getting a little more 401(k) help from their employers for retirement, but many are still falling short in building nest eggs.  
+    /conga/kiosk/wildcard3.html 231786
+*   1348302600000 1348443000000
+    
+    Car Review
+    
+    2013 Honda Accord  
+    There's never been a more radically reasonable automobile than the Honda Accord. Even its name means consensus, writes Dan Neil.
+    
+    .
+    
+    231815
 
 MarketWatch.com
 
