@@ -174,7 +174,7 @@ coupon code: SHIP100
     *   Z
     *   ALL
 
-my fly Super Sunday Sale! Plus $50 off $300\* with Code **SUPER**
+my fly Clearance Sale! Extra 30% off\*
 
 *   Shop Now
 
