@@ -113,46 +113,46 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/21/2012 7:02 AM ET
+Updated: 10/22/2012 7:02 AM ET
+
+1.  1 Romney's toughest debate
+2.  2 Adelson-Berkley feud comes to head
+3.  3 Battleground Tracking Poll: Mitt leads
+4.  4 The truth about the tea party
+5.  5 Gallup chief: Our poll is 'extremely solid'
+6.  6 Colbert's super PAC may get last laugh
+7.  7 5 things to watch in Monday's debate
+8.  8 Top 10 blown calls of 2012
+9.  9 Issa defends releasing documents
+10.  10 Schieffer in middle seat at last debate
+
+Updated: 10/22/2012 7:02 AM ET
+
+1.  1 Romney's toughest debate
+2.  2 Adelson-Berkley feud comes to head
+3.  3 Colbert's super PAC may get last laugh
+4.  4 GOP finds new hope in Pennsylvania
+5.  5 Top 10 blown calls of 2012
+6.  6 The truth about the tea party
+7.  7 Schieffer in middle seat at last debate
+8.  8 Gallup chief: Our poll is 'extremely solid'
+9.  9 Chemical-weapon threat in Mass.
+10.  10 2012 campaign cash: $1B vs. $1B
+
+Updated: 10/22/2012 7:02 AM ET
 
 1.  1 GOP finds new hope in Pennsylvania
 2.  2 Colbert's super PAC may get last laugh
-3.  3 White House denies agreement on U.S., Iran nuclear talks
+3.  3 Romney's toughest debate
 4.  4 VP debate transcript
 5.  5 Ann Romney corrects Whoopi
-6.  6 Top Dems rip Issa on Libya release
-7.  7 Maher scolds GOP on voter ID laws
-8.  8 Romney keeps distance from Scott in Fla.
-9.  9 Pro-Obama super PAC's big gets
-10.  10 Ann Romney talks about her MS
+6.  6 Adelson-Berkley feud comes to head
+7.  7 Mitt keeps distance from Rick Scott
+8.  8 O'Donnell taunts Tagg Romney
+9.  9 Top 10 blown calls of 2012
+10.  10 Right's pro-Israel groups take risk
 
-Updated: 10/21/2012 7:02 AM ET
-
-1.  1 GOP finds new hope in Pennsylvania
-2.  2 VP debate transcript
-3.  3 Ann Romney corrects Whoopi
-4.  4 Romney keeps distance from Scott in Fla.
-5.  5 Colbert's super PAC may get last laugh
-6.  6 O'Donnell taunts Tagg Romney
-7.  7 Right's pro-Israel groups take risk
-8.  8 Obama's 'Romnesia' remedy
-9.  9 Obama's September haul: $126M
-10.  10 House elections: Pelosi speculation
-
-Updated: 10/21/2012 7:02 AM ET
-
-1.  1 Clinton trashes whiners
-2.  2 GOP seizes Obama 'optimal' moment
-3.  3 GOP groups spill secrets
-4.  4 O'Donnell taunts Tagg Romney
-5.  5 Obama diagnoses GOP nominee with 'Romnesia' (Updated)
-6.  6 VP debate transcript
-7.  7 Obama, Romney best Al Smith jokes
-8.  8 Beckel: 'Over' for Obama if poll is true
-9.  9 Ann Romney corrects Whoopi
-10.  10 Obama: Mitt has 'Romnesia'
-
-Updated: 10/21/2012 7:02 AM ET
+Updated: 10/22/2012 7:02 AM ET
 
 1.  1 Clinton trashes whiners
 2.  2 CPD: Crowley shouldn't reinterpret questions
@@ -170,61 +170,65 @@ Updated: 10/21/2012 7:02 AM ET
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/21/2012 7:02 AM ET
+Updated: 10/22/2012 7:02 AM ET
 
-1.  1 Pro-Obama super PAC's big gets
+1.  1 Battleground Tracking Poll: Mitt leads
+2.  2 Obama's contempt for voters
+3.  3 Romney's toughest debate
 
-Updated: 10/21/2012 7:02 AM ET
+Updated: 10/22/2012 7:02 AM ET
 
-1.  1 Pro-Obama super PAC's big gets
-2.  2 GOP finds new hope in Pennsylvania
-3.  3 Top Dems rip Issa on Libya release
-4.  4 Ann Romney talks about her MS
-5.  5 Maher scolds GOP on voter ID laws
-6.  6 Swing states' worldly voters
-7.  7 Romney keeps distance from Scott in Fla.
-8.  8 Right's pro-Israel groups take risk
+1.  1 Battleground Tracking Poll: Mitt leads
+2.  2 Obama's contempt for voters
+3.  3 Romney's toughest debate
+4.  4 Brokaw: McGovern a humble man
+5.  5 Poll: Jobs top issue for military
+6.  6 Hoax in chemical-weapons case
+7.  7 Adelson-Berkley feud comes to head
+8.  8 Friend: McGovern 'never betrayed his soul'
+9.  9 Obama, Romney salute RGIII
+10.  10 Chemical-weapon threat in Mass.
 
-Updated: 10/21/2012 7:02 AM ET
+Updated: 10/22/2012 7:02 AM ET
 
-1.  1 Pro-Obama super PAC's big gets
-2.  2 GOP finds new hope in Pennsylvania
-3.  3 Top Dems rip Issa on Libya release
-4.  4 Ann Romney talks about her MS
-5.  5 Maher scolds GOP on voter ID laws
-6.  6 Swing states' worldly voters
-7.  7 Romney keeps distance from Scott in Fla.
-8.  8 Right's pro-Israel groups take risk
-9.  9 Obama's September haul: $126M
-10.  10 Romney: Obama camp going small
+1.  1 Battleground Tracking Poll: Mitt leads
+2.  2 Obama's contempt for voters
+3.  3 Romney's toughest debate
+4.  4 Brokaw: McGovern a humble man
+5.  5 Poll: Jobs top issue for military
+6.  6 Hoax in chemical-weapons case
+7.  7 Adelson-Berkley feud comes to head
+8.  8 Friend: McGovern 'never betrayed his soul'
+9.  9 Obama, Romney salute RGIII
+10.  10 Chemical-weapon threat in Mass.
 
-Updated: 10/21/2012 7:02 AM ET
+Updated: 10/22/2012 7:02 AM ET
 
-1.  1 Pro-Obama super PAC's big gets
-2.  2 GOP finds new hope in Pennsylvania
-3.  3 Top Dems rip Issa on Libya release
-4.  4 Ann Romney talks about her MS
-5.  5 Maher scolds GOP on voter ID laws
-6.  6 Swing states' worldly voters
-7.  7 Romney keeps distance from Scott in Fla.
-8.  8 Right's pro-Israel groups take risk
-9.  9 Obama's September haul: $126M
-10.  10 Romney: Obama camp going small
+1.  1 Battleground Tracking Poll: Mitt leads
+2.  2 Obama's contempt for voters
+3.  3 Romney's toughest debate
+4.  4 Brokaw: McGovern a humble man
+5.  5 Poll: Jobs top issue for military
+6.  6 Hoax in chemical-weapons case
+7.  7 Adelson-Berkley feud comes to head
+8.  8 Friend: McGovern 'never betrayed his soul'
+9.  9 Obama, Romney salute RGIII
+10.  10 Chemical-weapon threat in Mass.
 
 Showing Last 7 Days
 
-Updated: 10/21/2012 7:02 AM ET
+Updated: 10/22/2012 7:02 AM ET
 
-1.  1 Obama's 'Romnesia' remedy
-2.  2 Obama: Mitt has 'Romnesia'
-3.  3 O'Donnell taunts Tagg Romney
-4.  4 GOP groups spill secrets
-5.  5 GOP's problems exposed in Senate
-6.  6 6 takeaways from the debate
-7.  7 Fight night on Long Island
-8.  8 5 unmet Obama promises
-9.  9 Crowley: 'I'm not a fly on the wall'
-10.  10 Obama's slippery foreign oil promise
+1.  1 Romney's toughest debate
+2.  2 Obama's 'Romnesia' remedy
+3.  3 Obama: Mitt has 'Romnesia'
+4.  4 O'Donnell taunts Tagg Romney
+5.  5 GOP groups spill secrets
+6.  6 GOP's problems exposed in Senate
+7.  7 6 takeaways from the debate
+8.  8 Fight night on Long Island
+9.  9 5 unmet Obama promises
+10.  10 Crowley: 'I'm not a fly on the wall'
 
 News
 
