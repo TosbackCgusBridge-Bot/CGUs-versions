@@ -119,7 +119,7 @@ Safety, Security &. Privacy
   MasterCard SecureCode  
   
   
-Effective Date: 1/12/04 - Current as of: 10/21/12 8:10:28 AM  
+Effective Date: 1/12/04 - Current as of: 10/22/12 8:10:33 AM  
   
 
 **Online Privacy Policy**
