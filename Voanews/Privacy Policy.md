@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Tensions High in Lebanon
-*   Palestinians Hold Elections in West Bank
+*   US, Iran Deny Report of One-on-One Nuclear Talks
+*   Syria's Assad Meets with Peace Envoy Brahimi
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
