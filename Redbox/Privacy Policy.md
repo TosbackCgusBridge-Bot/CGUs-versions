@@ -3,8 +3,6 @@ Find out how it works!
 
 My Account • Log Out Log In • Help
 
-Send a Gift
-
 **Suggested for You:**
 
 see what’s inside all kiosks Find a Redbox Kiosk: SEARCH
@@ -13,6 +11,8 @@ see what’s inside all kiosks Find a Redbox Kiosk: SEARCH
 *   MOVIES
 *   GAMES
 *   TICKETS BETA
+
+Redbox Gifts
 
 MOVIES GAMES TICKETS
 
