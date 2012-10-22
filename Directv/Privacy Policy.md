@@ -1,8 +1,8 @@
 Privacy Policy JavaScript is disabled in your browser. We recommend that you enable JavaScript to optimize your experience on DIRECTV.com. Learn More
 
-*   DXDTPW13A
-*   2991354822
-*   3044203820
+*   DXDTPW17C
+*   2992692918
+*   3046046904
 *   false
 *   false
 *   false
@@ -13,7 +13,7 @@ Privacy Policy JavaScript is disabled in your browser. We recommend that you ena
 *   false
 *   guest
 
-Online orders only! Get FREE Shipping &. Handling  a $20 value. Order Now 1-888-777-2454  |  30 million customers strong!**\*** Based on total number of DIRECTV  
+DIRECTV has the most HD channels — now over 170 of your favorite channels in crystal-clear HD. Order Now 1-888-777-2454  |  30 million customers strong!**\*** Based on total number of DIRECTV  
 customers in the US and Latin America. DIRECTV SATELLITE TELEVISION { "email": "", "securedCustomer": false, "autoLoggedIn": false, "pgwsAuthorized": false } Sign In   Create Account
 
 *   Get DIRECTV for:
