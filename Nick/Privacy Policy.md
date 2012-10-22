@@ -24,7 +24,6 @@ Nick.com
 *   MOVIES (ad)
 *   Club
 *   Stars
-*   KPP Swing Spot
 
 Log in | Join the Club Search Suggested Searches For Shows
 
