@@ -250,9 +250,9 @@ DOW 13,343.51 -205.43 -1.52% NASDAQ 3,005.62 -67.25 -2.19% S&P 500 1,433.19 -24.
 
 *   Google Drops the Neutron Bomb: $249 Laptop
 *   Apple, Microsoft Need to Innovate, If They Can
-*   10 Worst Cars of All Time
-*   10 Cult TV Shows Netflix Should Revive
 *   Poll: Who Won the Second Presidential Debate?
+*   6 Tech Toys Better Than What Apple Sells
+*   10 Worst Cars of All Time
 
 Articles From Advertising Partners Free Newsletters from TheStreet
 
