@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** Thomas Quick: the Swedish serial killer who never was
-2.  2\. **Politics:** Norman Tebbit attacks 'dog of a coalition government'
-3.  3\. **Football:** Sir Alex Ferguson angered by Rio Ferdinand's Kick It Out T-shirt snub
-4.  4\. **Society:** Onset of puberty in girls has fallen by five years since 1920
-5.  5\. **Education:** Gangnam Style parody: Eton Style - video
+1.  1.  **Media:** Jimmy Savile row: Newsnight emails spark 'crisis' at BBC
+2.  2\. **TV &. radio:** Girls: smart, sassy and funny – but will Brits find it anything new?
+3.  3\. **News:** France 24 journalist Sonia Dridi attacked in Tahrir Square
+4.  4\. **News:** Russian forces kill 49 militants in North Caucasus
+5.  5\. **News:** Lottery millionaires each fund six jobs a year, study shows
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Politics:** Thousands protest at TUC rally in London - video
-2.  **Politics:** MPs dodge expenses rules to get first-class rail travel
-3.  **Stage:** Lucy Kirkwood: 'Boys are force-fed this very plastic sexuality on a mass scale'
-4.  **Environment:** Badger cull under threat from last-minute legal challenge
-5.  **Life &. style:** Nigel Slater's chilly weather recipes
+1.  **Sport:** Win tickets for the NFL at Wembley
+2.  **Media:** Jimmy Savile row: Newsnight emails spark 'crisis' at BBC
+3.  **Society:** Europe's lost generation costs €153bn a year, study finds
+4.  **News:** Obama and Romney tied in polls ahead of final presidential debate
+5.  **News:** Lottery millionaires each fund six jobs a year, study shows
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Sunderland v Newcastle United - live!
-2.  2\. Should the UK scrap its nuclear weapons?
-3.  3\. Swiss Bodybuilding Championship - in pictures
-4.  4\. Napoli wilt in the face of Juve's Andrea Pirlo facts
-5.  5\. Halloween dog parade in New York – in pictures
+1.  1.  The Herald's editor steps down
+2.  2\. Father describes desperate efforts to save family from house fire
+3.  3\. Lotus Evora 414E: behind the wheel of an electric sports car
+4.  4\. David Cameron's speech on crime: Politics live blog
+5.  5\. Lance Armstrong: UCI press conference - live!
 6.  All today's stories
 
 On the Guardian today
 
-1.  Football Saturday football clockwatch - as it happened
-2.  Football Tottenham Hotspur v Chelsea – as it happened
-3.  Football Norwich City v Arsenal – as it happened
-4.  World news Obama heads to Camp David to prepare for crucial final debate
-5.  Life and style Q&A: John Cleese
-6.  Life and style Mapping the body: the temple
+1.  Life and style Mapping the body: the temple
+2.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+3.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+4.  Football Barcelona and Real Madrid draw El Clásico thriller at Camp Nou
+5.  Art and design Man who defaced Tate Modern's Rothko canvas says he's added value
+6.  Football Manchester United's numbers game leaves Newcastle in middle of nowhere
 
 *   License/buy our content
 |*   Privacy policy
