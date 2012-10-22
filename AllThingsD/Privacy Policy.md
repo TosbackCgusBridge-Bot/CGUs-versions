@@ -42,7 +42,7 @@ AllThingsD
 
 *   View by Writer
 
-**Trending –** Unlocking the Power of Password Managers  
+**Trending –** The Secret Behind Pinterest’s Growth Was Marketing, Not Engineering, Says CEO Ben Silbermann  
 
 Follow on Twitter »Subscribe on Facebook »Like on Facebook »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
 
