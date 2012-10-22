@@ -1,11 +1,11 @@
-Amazon Join Prime
+Amazon
 
 *   Your Amazon.com
 *   Today's Deals
 *   Gift Cards
 *   Help
 
-Shop by Department Search All All DepartmentsAmazon Instant VideoAppliancesApps for Android Arts, Crafts &. SewingAutomotiveBabyBeautyBooksCell Phones &. AccessoriesClothing &. AccessoriesCollectiblesComputersElectronicsGift Cards Store Grocery &. Gourmet FoodHealth &. Personal CareHome &. KitchenIndustrial &. ScientificJewelryKindle StoreMagazine SubscriptionsMovies &. TVMP3 MusicMusicMusical InstrumentsOffice ProductsPatio, Lawn &. GardenPet SuppliesShoesSoftwareSports &. OutdoorsTools &. Home ImprovementToys &. GamesVideo GamesWatches Hello. Sign in Your Account Join Prime Cart 0 Wish List
+Shop by Department Search All All DepartmentsAmazon Instant VideoAppliancesApps for Android Arts, Crafts &. SewingAutomotiveBabyBeautyBooksCell Phones &. AccessoriesClothing &. AccessoriesCollectiblesComputersElectronicsGift Cards Store Grocery &. Gourmet FoodHealth &. Personal CareHome &. KitchenIndustrial &. ScientificJewelryKindle StoreMagazine SubscriptionsMovies &. TVMP3 MusicMusicMusical InstrumentsOffice ProductsPatio, Lawn &. GardenPet SuppliesShoesSoftwareSports &. OutdoorsTools &. Home ImprovementToys &. GamesVideo GamesWatches Hello. Sign in Your Account Cart 0 Wish List
 
   Help > Legal and Privacy Policies > Privacy Notice Topics Legal and Privacy Policies
 
@@ -228,20 +228,4 @@ Give You Up Yoyo.com
 A Happy Place  
 To Shop For Toys Zappos  
 Shoes &  
-Clothing   Conditions of Use Privacy Notice Interest-Based Ads © 1996-2012, Amazon.com, Inc. or its affiliates Start your free trial and join millions of Amazon Prime members who enjoy:
-
-Prime Instant Videos
-
-Watch over 25,000 movies and TV episodes
-
-Free Two-Day Shipping
-
-Get fast, free shipping on over 15 million items
-
-Kindle Owners' Lending Library
-
-Borrow from over 180,000 titles for free
-
-\>. Get started
-
-Watch. Read. Shop. Relax. Millions of Amazon Prime members enjoy instant videos, free Kindle books and unlimited free two-day shipping. >. Get started
+Clothing   Conditions of Use Privacy Notice Interest-Based Ads © 1996-2012, Amazon.com, Inc. or its affiliates
