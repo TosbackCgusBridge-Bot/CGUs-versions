@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM MythBusters (Season 9)Trench Torpedo 8:00PM MythBustersHail Hijinx 9:00PM I Was Mummified  TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Overhaulin'1967 Camaro 8:00PM Overhaulin'1965 Volkswagen Bug 9:00PM American Chopper (Season 8)Full Circle TV SHOWS
 
 American Chopper
 
@@ -330,21 +330,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
+NASA's First Quest for a Reusable Rocket
+
+Monster Energy Drink a Killer?: DNews Nugget
+
+Deadly Spanish Quake Linked to Water Extraction
+
+Two Months Until the Mayan Doomsday Nonevent
+
+Fish Can Cloak, Become Invisible to Predators
+
+Geoengineering Schemes Split Scientists
+
+App to Mash-Up Particle Physics and Angry Birds
+
 'Gospel of Jesus' Wife' Faces Authenticity Tests
-
-TWiDN: Can We Grow Our Organs On A New Planet?
-
-Orionid Meteor Shower Peaks Tonight: How to Watch
-
-Tech Takes Sting Out Of Swing
-
-Excellent Idea of the Day: Strips to Heal Pizza Burn
-
-First Human Ancestor Looked Like a Squirrel
-
-The Psychology of Love Can Kill: Gotta-See Video
-
-No life found in Antarctica's buried Lake Vostok
 
   facebook share0 Tweet Privacy Policy  
 
@@ -550,37 +550,33 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 21,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 22,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 21,  
+Oct 22,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 21,  
+Oct 22,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 21,  
+Oct 22,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 21,  
+Oct 22,  
 9:00 am  
 60 min(s)  
-**The Devil's Triangle**  
- Ships disappear, planes vanish into thin air. Researchers turn t  
-**More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
-$47.95  
-  **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
-$12.95   **Discovering Ardi DVD**  
-$19.95   **Discovery Channel Polymer Chemistry Set**  
-$19.95        
+**The FBI Files**  
+_The Perfect Heist_  
+ When a bank manager in California was unable to open the bank vau  
+**More Listings »**   Shop Discovery Store      
 
 our sites
 
