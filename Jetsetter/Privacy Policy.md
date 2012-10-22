@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Hotel Sofitel Philadelphia
-    
-    Starting Today 10/21 at 3pm EDT
-    
-*   Rendezvous St. Lucia
-    
-    Starting Today 10/21 at 3pm EDT
-    
-*   Newstead Resort - Bermuda
-    
-    Starting Today 10/21 at 3pm EDT
-    
-*   Sofitel Montreal Golden Mile
-    
-    Starting Today 10/21 at 3pm EDT
-    
 *   Hawthorn at The Porches Steamboat Springs, Colorado
     
-    Starting Monday 10/22 at Noon EDT
+    Starting Today at Noon EDT
     
 *   A Tokyo Mystery Hotel
     
-    Starting Monday 10/22 at 3pm EDT
+    Starting Today 10/22 at 3pm EDT
     
 *   Amalfi Hotel Chicago
     
-    Starting Monday 10/22 at 3pm EDT
+    Starting Today 10/22 at 3pm EDT
     
 *   Villagio Inn &. Spa - Napa
     
-    Starting Monday 10/22 at 3pm EDT
+    Starting Today 10/22 at 3pm EDT
+    
+*   A Hong Kong Mystery Hotel
+    
+    Starting Today 10/22 at 3pm EDT
+    
+*   The Strand Hotel - NYC
+    
+    Starting Tuesday 10/23 at 3pm EDT
+    
+*   The Standard Downtown LA Los Angeles, California
+    
+    Starting Tuesday 10/23 at 3pm EDT
+    
+*   Atlantic Hotel - Ft Lauderdale
+    
+    Starting Tuesday 10/23 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
