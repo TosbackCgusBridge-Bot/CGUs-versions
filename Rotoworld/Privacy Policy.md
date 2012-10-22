@@ -56,6 +56,10 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Giants force Game 7 behind Vogelsong's gem
+*   Holliday (back) scratched from Game 6 lineup
+*   Heyman: Jays looking to trade Yunel Escobar
+*   Report: Giants to put Lincecum on trade block
 *   Mike Aviles heading to Jays for John Farrell
 *   Beltran's knee should be fine for NLCS Game 6
 *   Sabathia to see Dr. Andrews about left elbow
@@ -64,10 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Jeter undergoes ankle surgery, out 4-5 months
 *   Diamondbacks pick up 2013 option on Putz
 *   Soriano expected to opt-out with Yankees
-*   Zito dazzles in NLCS Game 5 win vs. Cardinals
-*   Carlos Beltran in Cardinals lineup for Game 5
-*   Yanks intend to pick up option on Granderson
-*   Wainwright rebounds, gives Cardinals 3-1 lead
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Chris Commemorates CJ2K Oct 22
+*   MJD Goes MIA Oct 22
+*   Week 7 Live Blog Oct 21
+*   Best Available NFL Free Agents Oct 21
+*   Matchups: Run, DMC Oct 20
 *   Week 7 Injury Questions Oct 20
 *   Week 7 Starts and Sits Oct 20
 *   Friday Rundown Oct 19
-*   Matchups: Run, DMC Oct 19
-*   Week 7 Chat Recap Oct 19
-*   Beasting On? Oct 19
-*   Week 7 Rankings Oct 18
-*   Week 7 Target Watch: AFC Oct 18
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Giants activate DT Canty from PUP on Saturday
-*   Jimmy Graham downgraded to out in Week 7
-*   Dwyer to lead committee attack at Cincinnati
-*   Ravens activate Suggs (Achilles) off PUP list
-*   Cowboys WR Bryant expected to play Sunday
-*   Alex Smith's struggles due to injured finger?
-*   Mendenhall, Redman out for Week 7 at Cincy
-*   Bradshaw sits out, questionable for Sunday
-*   V-Jax leaves practice, still expected to play
-*   Gore is fine after X-rays reveal bruised ribs
-*   Lynch runs for 103 yards in Week 7 loss at SF
-*   Gore shreds Seahawks for 182 yards in TNF win
+*   Ike Taylor holds A.J. Green to 1 catch (a TD)
+*   Report: Pierre Garcon has torn tendon in foot
+*   Jonathan Dwyer rumbles for 122 in 24-17 win
+*   Richardson: Injury worse than people think
+*   Report: Redskins set to re-sign Chris Cooley
+*   Titans may hold Jake Locker out another week
+*   Jags don't have a timetable on Jones-Drew yet
+*   Brady throws for two TDs as Pats outlast Jets
+*   NFL investigates Chargers for using 'Stickum'
+*   Kubiak: Ben Tate injured hamstring in victory
+*   Shurmur: Trent Richardson suffered no setback
+*   Gabbert leaves Wk 7 with left shoulder injury
 
 NBA PAGES
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Dwight Howard posts big line in Lakers debut
+*   Evan Turner leaves with left ankle sprain
+*   Hedo Turkoglu sits out w/ back spasms
+*   Report: Dirk (knee) could return in 3-4 weeks
+*   Eric Gordon (knee) may not play in preseason
+*   Amare out 2-3 weeks w/ ruptured cyst in knee
 *   Steph Curry (ankle) probable for GSW opener
 *   Al Horford sits out second half w/ sore calf
 *   Tyrus Thomas leads Bobcats w/ 14 pts, 16 reb
-*   Jeff Green has 25 points, three 3s vs. Knicks
 *   Bogut (ankle) on pace, but still no timetable
 *   Maggette to have MRI on strained left calf
 *   Brook Lopez keeps it rolling with 23 &. 9
-*   Thad Young scores 24 points in start at PF
-*   Dorell Wright goes for 18 &. 11 vs. Nets
-*   Bargnani (calf) returns to action. scores 20
-*   Nowitzki (knee surgery) out at least 6 weeks
-*   James Harden (groin) scrimmages on Thursday
 
 NHL PAGES
 
@@ -185,6 +185,7 @@ NHL PAGES
 
 COLUMNS
 
+*   Keep an eye on Neiderreiter Oct 22
 *   Subban &. Brassard Net Gains Oct 16
 *   European League/KHL Update Oct 13
 *   Early CHL Standouts Oct 9
@@ -192,7 +193,6 @@ COLUMNS
 *   A Dose of the AHL Sep 27
 *   Chillin' in the CHL Sep 19
 *   The Mock Draft Sep 15
-*   Injury Update Sep 12
 
 PREMIUM CONTENT
 
@@ -207,6 +207,9 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Tobias Enstrom to play with Salzburg
+*   Colin Greening to play in Denmark
+*   Mikko Koivu to play in Finland during lockout
 *   Lehner's ejection kickstarts epic collapse
 *   Justin Schultz scores yet again for OKC
 *   Adam Henrique pots first AHL goal
@@ -216,9 +219,6 @@ FANTASY HOCKEY NEWS
 *   M.Ryan stars in Assat's win in Finnish League
 *   S. Kostitsyn scores shootout winner Saturday
 *   Anton Khudobin takes 4-1 loss in KHL game
-*   Ovechkin scores in KHL win Saturday
-*   Nino Niederreiter off to sound start in AHL
-*   Adam Henrique off to slow start in Albany
 
 NASCAR PAGES
 
@@ -229,6 +229,7 @@ NASCAR PAGES
 
 COLUMNS
 
+*   Wrap-up: Kansas Speedway Oct 21
 *   Mid-Pack: Hollywood Casino 400 Oct 18
 *   The Hollywood Casino 400 Oct 16
 *   Wrap-up: Charlotte Oct 14
@@ -236,7 +237,6 @@ COLUMNS
 *   The Bank of America 500 Oct 9
 *   Wrap-up: Talladega Oct 7
 *   Mid-Pack: Good Sam 500 Oct 4
-*   The Good Sam 500 Oct 3
 
 PARTNERS
 
@@ -245,6 +245,11 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Matt Kenseth’s team wins Kansas race awards
+*   Tony Stewart’s team wins Kansas race awards
+*   Clint Bowyer’s crew chief won DIRECTV award
+*   Regan Smith won USG Improving Finish award
+*   Matt Kenseth wins Hollywood Casino 400
 *   Austin Dillon wins race awards at Kansas
 *   Logano’s NNS team wins Kansas race awards
 *   Justin Allgaier big Nationwide Series gainer
@@ -252,11 +257,6 @@ FANTASY NASCAR NEWS
 *   Ricky Stenhouse Jr. wins Kansas Lottery 300
 *   Martin has best 10-laps in Cup Happy Hour
 *   Matt Kenseth leads Kansas Happy Hour
-*   Johnson has best 10-laps in 2nd Cup practice
-*   Greg Biffle tops second Kansas practice
-*   Josh Wise misses Kansas Nationwide field
-*   Morgan Shepherd last in Kansas NNS field
-*   Jeff Green best NNS go-or-go-homer starter
 
 GOLF PAGES
 
@@ -268,6 +268,7 @@ GOLF PAGES
 
 COLUMNS
 
+*   Two Gloves, One Win Oct 21
 *   Saint of Circumstances Oct 16
 *   Jonas, Brother! Oct 14
 *   California Dreamin' Oct 9
@@ -275,7 +276,6 @@ COLUMNS
 *   Legends of the Fall Oct 2
 *   Long-Term 101: Fall Series Sep 29
 *   Ryder Cup Preview Sep 25
-*   Life's Rich Pageant Sep 23
 
 PARTNERS
 
@@ -285,6 +285,9 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Henley picks up second Web.com win in playoff
+*   Gainey teases 59. breaks through at McGladrey
+*   Van Pelt cruises to a two-stroke win in Perth
 *   Love III tied for the lead at Seaside Course
 *   Furyk tied for 54-hole lead at the McGladrey
 *   Bowditch stumbles with a 75. one of many MDFs
@@ -294,9 +297,6 @@ FANTASY GOLF NEWS
 *   Dawson buries 9 birdies en route to co-lead
 *   Cauley ties the course record at Sea Island
 *   McIlroy plans to curb his schedule next year
-*   Hamrick medals at last four-spotter of 2012
-*   Blixt breaks through at the Frys.com Open
-*   Walker shares course record. ties career low
 
 NFL DRAFT PAGES
 
@@ -311,10 +311,10 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Senior Prospect Rankings Oct 21
 *   Week Eight Matchup Preview Oct 19
 *   The Forgotten One Oct 17
 *   Kenny Vaccaro: Spread Stopper Oct 15
-*   Senior Prospect Rankings Oct 14
 *   Week Seven Matchup Preview Oct 12
 *   The Human Genome Oct 10
 *   Banks-y, Cover Artist Oct 9
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Kelly: Golson should be '100 percent' vs OU
+*   Richt: Very good chance OLB Jones plays
+*   'In all likelihood' QB Connor Shaw will start
+*   Okie St. starting QB Walsh out for the season
+*   Duke WR Vernon poised to break ACC record
+*   Matt Barkley throws 6 TDs versus Buffaloes
+*   Geno throws first two interceptions vs KSU
+*   Collin Klein accounts for 7 total TDs vs WVU
 *   King: Jones 'looks' to be top half of 1st rd
 *   Eifert leaps over BYU for 73 yards, 1 TD
 *   Jordan Reed catches two touchdowns vs SoCar
 *   Marcus Lattimore totals five touches vs UF
-*   Stepfan Taylor rumbles for 189 rushing yards
-*   Update: Lutzenkirchen officially out for year
-*   Braxton Miller 'doing fine' after hospital
-*   Joseph Randle runs for 151 yds, 2 TDs vs ISU
-*   Zach Mettenberger putrid in win over Aggies
-*   Rutgers RB Jamison totals 195 yards, 2 TDs
-*   Logan Thomas' struggles continue, 2 INTs
-*   Braxton Miller sidelined, taken to hospital
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   MLB:Mike Aviles heading to Jays for John Farrell
-*   NAS:Ricky Stenhouse Jr. wins Kansas Lottery 300
-*   CFB:Braxton Miller 'doing fine' after hospital
-*   MLB:Marlins trade RHP Heath Bell to Diamondbacks
-*   MLB:A's acquire OF Chris Young from Diamondbacks
-*   NFL:Giants activate DT Canty from PUP on Saturday
-*   NFL:Dwyer to lead committee attack at Cincinnati
-*   NFL:Jimmy Graham downgraded to out in Week 7
-*   NFL:Ravens activate Suggs (Achilles) off PUP list
-*   MLB:Jeter undergoes ankle surgery, out 4-5 months
-*   NAS:Logano sets Nationwide pole record in Kansas
-*   NBA:Steph Curry (ankle) probable for GSW opener
+*   MLB:Giants force Game 7 behind Vogelsong's gem
+*   NFL:Jonathan Dwyer rumbles for 122 in 24-17 win
+*   NBA:Dwight Howard posts big line in Lakers debut
+*   NFL:Report: Pierre Garcon has torn tendon in foot
+*   NFL:Richardson: Injury worse than people think
+*   NFL:Report: Redskins set to re-sign Chris Cooley
+*   NFL:Titans may hold Jake Locker out another week
+*   NFL:Jags don't have a timetable on Jones-Drew yet
+*   NFL:Brady throws for two TDs as Pats outlast Jets
+*   NAS:Matt Kenseth wins Hollywood Casino 400
+*   NFL:NFL investigates Chargers for using 'Stickum'
+*   NBA:Eric Gordon (knee) may not play in preseason
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1T. RichardsonNFL (8638)
-*   2D. MurrayNFL (7857)
-*   3J. GrahamNFL (7791)
-*   4R. MendenhallNFL (7421)
-*   5A. BradshawNFL (7352)
+*   1T. RichardsonNFL (8910)
+*   2A. BradshawNFL (8186)
+*   3J. GrahamNFL (7800)
+*   4R. MendenhallNFL (7138)
+*   5J. GordonNFL (6651)
 
-*   6J. GordonNFL (7001)
-*   7F. JonesNFL (6464)
-*   8G. JenningsNFL (6366)
-*   9L. MooreNFL (6334)
-*   10A. BrownNFL (6296)
+*   6A. BrownNFL (6598)
+*   7G. JenningsNFL (6369)
+*   8L. MooreNFL (6342)
+*   9D. MurrayNFL (6309)
+*   10J. DwyerNFL (5865)
 
   
 Video Center
@@ -526,6 +526,10 @@ Video Center
 *   »
 
 *      
+    Start &. Sit: Lions @ Bears
+*      
+    Start &. Sit: PIT @ CIN
+*      
     SportsTalk: Week 7 Fear Factor
 *      
     Week 7 Starts &. Sits 4 p.m.
@@ -537,41 +541,37 @@ Video Center
     Start &. Sit: Seahawks - 49ers
 *      
     SportsTalk: Bye Week help
-*      
-    Start &. Sit: DEN @ SD
-*      
-    Start &. Sit: Packers - Texans
 
   
   
-  Headlines Week 7 Injury Questions  
-Oct 20 Get caught up on all the hurt folks as we get set for Week 7.  
+  Headlines Chris Commemorates CJ2K  
+Oct 22 Chris Johnson's performance recalled 2009, but which other players stood out for better or worse? Chet Gresham recaps the Week 7 action.  
   
 More NFL Columns
 
+*   »Chris Commemorates CJ2K Oct 22
+*   »MJD Goes MIA Oct 22
+*   »Week 7 Live Blog Oct 21
+*   »Best Available NFL Free Agents Oct 21
+*   »Matchups: Run, DMC Oct 20
 *   »Week 7 Injury Questions Oct 20
 *   »Week 7 Starts and Sits Oct 20
 *   »Friday Rundown Oct 19
-*   »Matchups: Run, DMC Oct 19
-*   »Week 7 Chat Recap Oct 19
-*   »Beasting On? Oct 19
-*   »Week 7 Rankings Oct 18
-*   »Week 7 Target Watch: AFC Oct 18
 
 NFL Headlines
 
-*   »Giants activate DT Canty from PUP on Saturday
-*   »Jimmy Graham downgraded to out in Week 7
-*   »Dwyer to lead committee attack at Cincinnati
-*   »Ravens activate Suggs (Achilles) off PUP list
-*   »Cowboys WR Bryant expected to play Sunday
-*   »Alex Smith's struggles due to injured finger?
-*   »Mendenhall, Redman out for Week 7 at Cincy
-*   »Bradshaw sits out, questionable for Sunday
-*   »V-Jax leaves practice, still expected to play
-*   »Gore is fine after X-rays reveal bruised ribs
-*   »Lynch runs for 103 yards in Week 7 loss at SF
-*   »Gore shreds Seahawks for 182 yards in TNF win
+*   »Ike Taylor holds A.J. Green to 1 catch (a TD)
+*   »Report: Pierre Garcon has torn tendon in foot
+*   »Jonathan Dwyer rumbles for 122 in 24-17 win
+*   »Richardson: Injury worse than people think
+*   »Report: Redskins set to re-sign Chris Cooley
+*   »Titans may hold Jake Locker out another week
+*   »Jags don't have a timetable on Jones-Drew yet
+*   »Brady throws for two TDs as Pats outlast Jets
+*   »NFL investigates Chargers for using 'Stickum'
+*   »Kubiak: Ben Tate injured hamstring in victory
+*   »Shurmur: Trent Richardson suffered no setback
+*   »Gabbert leaves Wk 7 with left shoulder injury
 
 NFL Links
 
