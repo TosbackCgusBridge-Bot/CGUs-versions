@@ -25,11 +25,7 @@ Sign In Sign Up
 *   Obama's Founding Fathers
 *   Campaign 2012
 
-Take Action
-
-Former Senator and Presidential Candidate George McGovern Dies at Age 90
-
-About TheBlaze
+Take Action About TheBlaze
 
 **THEBLAZE.Com LLC – PRIVACY POLICY**
 
