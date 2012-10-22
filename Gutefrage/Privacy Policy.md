@@ -190,44 +190,53 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Top-50 Themen Thema Anzahl Apple 83189 Arbeit 64133 Ausbildung 49620 Auto 90249 Beauty 68524 Beruf 76852 Beziehung 71145 Computer 532839 Computerspiele 63986 deutsch 66428 Englisch 51694 ErnÃ¤hrung 50345 essen 70658 Facebook 76526 Fernsehen 59925 Film 99187 Finanzen 58699 Freizeit 260691 FuÃball 50826 Games 123291 Geld 92688 Gesundheit 204106 Haare 81764 Handy 202566 Hilfe 146923 Internet 320001 iPhone 74468 Kinder 50570 KÃ¶rper 49531 Laptop 72771 Liebe 163568 Lied 53952 MÃ¤dchen 55621 Medizin 62275 Minecraft 67058 Musik 278488 PC 279757 PC-Spiele 48175 Problem 54567 PS3 59523 Recht 94604 Schule 233039 Software 56678 Spiele 135939 Sport 109971 Technik 119568 Tiere 64419 TV 53988 Video 52227 Youtube 82287 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Themen der Woche
 
-1.  Nobsii
+1.  fifa 13
+2.  Halloween
+3.  Kaninchen
+4.  Online-Shop
+5.  Periode
+6.  Pickel
+7.  Piercing
+8.  Pokemon
+9.  Steam
+10.  ZÃ¤hne
+
+Top-50 Themen Thema Anzahl Apple 83305 Arbeit 64195 Ausbildung 49686 Auto 90337 Beauty 68588 Beruf 76922 Beziehung 71242 Computer 533288 Computerspiele 64056 deutsch 66502 Englisch 51750 ErnÃ¤hrung 50396 essen 70713 Facebook 76631 Fernsehen 59968 Film 99301 Finanzen 58716 Freizeit 260728 FuÃball 50852 Games 123409 Geld 92770 Gesundheit 204268 Haare 81898 Handy 202810 Hilfe 147160 Internet 320230 iPhone 74568 Kinder 50613 KÃ¶rper 49605 Laptop 72832 Liebe 163765 Lied 54014 MÃ¤dchen 55696 Medizin 62323 Minecraft 67162 Musik 278740 PC 280017 PC-Spiele 48228 Problem 54646 PS3 59589 Recht 94679 Schule 233318 Software 56724 Spiele 136069 Sport 110109 Technik 119671 Tiere 64462 TV 54030 Video 52281 Youtube 82394 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+
+1.  taigafee
     
     Punkte:
     
-    1326
+    612
     
     Level:
     
-    Nobsii
+    taigafee
     
-2.  y45dada
+2.  TheLastDays
     
     Punkte:
     
-    892
+    593
     
-    Level:
-    
-    y45dada
-    
-3.  sassbar
+3.  KleinToastchen
     
     Punkte:
     
-    694
+    577
     
     Level:
     
-    sassbar
+    KleinToastchen
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.295.950 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.303.861 gute Fragen_
 
-*   25 Warum sackt beim Kopfstand das Blut in den Kopf aber beim Normal-Stehen nicht in die Beine?
-*   21 Freund hat sich bekehrt, komm nicht mehr an ihn ran,bin total ratlos?
-*   16 Wie wissen Beinhaare (bei MÃ¤nnern) das sie aufhÃ¶ren mÃ¼ssen zu wachsen?
+*   56 Alkohol: Der grÃ¶Ãte Fehler meines Lebens...
+*   28 Der Freund meiner Mutter will,dass ich Muslima werde.
+*   26 Muss das sein ?! Alc und rauchen
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
@@ -241,23 +250,23 @@ gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.942.453
+1.944.200
 
 Anzahl der Fragen
 
-8.294.746
+8.303.233
 
 Anzahl der Antworten
 
-36.056.373
+36.084.340
 
 Anzahl der Tipps
 
-74.454
+74.516
 
 Anzahl der Videos
 
-4.698
+4.702
 
 Blog
 
