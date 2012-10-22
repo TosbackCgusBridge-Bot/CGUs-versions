@@ -25,16 +25,16 @@ My Account
     *   Digital Cameras
     *   Coffee Makers
     *   Camcorders
-    *   At
     *   Discount Tires
     *   Se
     *   Radio Shack
+    *   At
     *   Sears
     *   T Mobile
     *   Www.yahoo.com
     *   Tax
-    *   Truck
     *   Pressure Cookers
+    *   Truck
     *   Ipod
     *   Att
     *   Contact
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1521 Local Deals
+*   1502 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
