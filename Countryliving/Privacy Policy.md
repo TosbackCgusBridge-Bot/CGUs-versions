@@ -97,13 +97,13 @@ In order to view the Privacy Policy you must enable javaScript. Connect with Cou
 
 *   **halloween**
 
-*   **halloween decorations**
-
 *   **living rooms**
 
 *   **kitchens**
 
-*   **furniture**
+*   **pressed leaves**
+
+*   **bedrooms**
 
 Home &. Decorating
 
