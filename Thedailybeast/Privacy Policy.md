@@ -144,11 +144,11 @@ Stories We Like
 
   Most Popular
 
-1.  The Man Who Could Beat Bachmann
-2.  My Proof of Heaven
-3.  High Times in America
-4.  Kim Kardashian's Not a Fan of Underwear, Shows Off Crack
-5.  The Great Deformer
+1.  The Truth Behind the Benghazi Attack
+2.  The Girl Who Changed Pakistan
+3.  My Proof of Heaven
+4.  The Man Who Could Beat Bachmann
+5.  Kim Kardashian's Not a Fan of Underwear, Shows Off Crack
 
   Other News Entertainment
 
@@ -159,23 +159,23 @@ Stories We Like
 
 Entertainment
 
-*   Bruno Mars hosts tonight’s ‘Saturday Night Live’: Talk about it here!
-*   ‘The Girl’ and the Director: A guide to the Hitchcock Blondes
-*   ‘Medal of Honor: Warfighter’ — EXCLUSIVE gameplay preview and mission reveal
+*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
+*   PopWatch Planner: Baseball, ‘Happy Endings,’ ‘Cloud Atlas’ and more
+*   ‘Saturday Night Live’ recap: Bruno Mars, we like you just the way you are
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Iran News Will Shift Debate Focus
-*   Romney Campaign Clarifies, Still Supports Federal Marriage Amendment
-*   Biden: Romney Has Abandoned His Republican Principles
+*   Romney Spokesman Denies Campaign Outsourcing
+*   Obama Campaign Denies Report It Had Conference Call With Jeremiah Wright
+*   The Vertical Back
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Extra Bonus Quote of the Day
-*   Largest Ohio Newspaper Backs Obama
-*   Iran Agrees to Nuclear Talks
+*   Two Different Final Strategies
+*   Latest Swing State Polls
+*   Obama's Grand Bet
 *   **Get More from Political Wire**
 
 The Daily Beast
