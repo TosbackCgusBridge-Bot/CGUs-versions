@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Sunday, October 21, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Monday, October 22, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -113,14 +113,14 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report The Atlantic Election 2012  
-_The Atlantic_'s full coverage of the battles for the White House, Senate, and more. Read more › Just In Sage Stossel 5:31 AM ET SNL's Bruno Mars Episode: 5 Best Scenes 1350811860 Voices
+Special Report woodleywonderworks/Flickr Why American Students Can't Write  
+An _Atlantic_ debate about how to teach writing, and why it matters Read more › Just In Brendan Hasenstab 8:01 AM ET Track of the Day: 'The Descent' 1350907260 Voices
 
-*   Robert Wright Could Newsweek Have Been Saved? Oct 20, 2012
-*   James Fallows Inside Foxconn #3: Some Dormitories Oct 20, 2012
+*   Robert Wright What Obama Should Say About Iran in the Debate Oct 21, 2012
+*   James Fallows Inside Foxconn #4: New Recruits, 'Flying Tiger,'… Oct 21, 2012
+*   Ta-Nehisi Coates On Family Values Oct 21, 2012
 *   Derek Thompson What Happens If TV Goes the Way of Music and… Oct 19, 2012
 *   Alexis C. Madrigal An Energy Entrepreneur Turns to Inflatable Robots Oct 19, 2012
-*   Ta-Nehisi Coates The Past Ain't Even the Past Oct 19, 2012
 *   Jeffrey Goldberg Did Joe Biden Just Go Soft on Iran? Oct 19, 2012
 *   Clive Crook How the Democratic Base Could Lose This Election… Oct 19, 2012
 *   Garance Franke-Ruta Hillary Clinton Wants None of Your 'Whining'… Oct 18, 2012
@@ -162,14 +162,14 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Iran Is Ready to Talk About Their Nuclear Program (or Not?)  
+*   International Cycling Union Says 'Lance Armstrong Has No Place in Cycling'  
     
-*   Bloomberg Endorses Joe Biden (Obama and Romney Can Wait)  
+*   Jordan Foils a 'Major' Terrorist Plot  
     
-*   Jesse Jackson Jr. Conveniently Returns to Rehab  
+*   In Iran, Not Even Prisoners Want to Hang Out with Ahmadinejad  
     
 
-Last Update: 6:36 PM
+Last Update: 7:07 AM
 
 *   Why Amtrak Keeps Breaking Ridership Records and Will Continue To Do So  
     
@@ -182,43 +182,43 @@ Last Update: 5:35 PM Most Popular
 
 1
 
-The Revenge of the Soccer Moms
+All the Small Places in North Dakota
 
 2
 
-What Happens If TV Goes the Way of Music and Newspapers?
+Dark Social: We Have the Whole History of the Web Wrong
 
 3
 
-SNL's Bruno Mars Episode: 5 Best Scenes
+'The Walking Dead' as the Holocaust
 
 4
 
-Why Women Still Can’t Have It All
+The Revenge of the Soccer Moms
 
 5
 
-Can Your Boss Threaten to Fire You if You Don't Vote for Romney?
+Robots at Work and Play
 
 6
 
-Gangnam Style, Dissected: The Subversive Message Within South Korea's Music Video Sensation
+Why Women Still Can’t Have It All
 
 7
 
-A Trip to the Faroe Islands
+The F-35: A Weapon That Costs More Than Australia
 
 8
 
-The Past Ain't Even the Past
+National Geographic Photo Contest 2012
 
 9
 
-A Guy Who \*Saw\* Lincoln Get Shot Was on a TV Show in 1956 That Is Now on YouTube
+What Happens If TV Goes the Way of Music and Newspapers?
 
 10
 
-All the Small Places in North Dakota
+A Trip to the Faroe Islands
 
 *   Subscribe Help
 *   Faq
