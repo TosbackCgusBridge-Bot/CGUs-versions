@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
+Gunman
+
+Gunman who fired on family was wearing body armor, police say
+
 Mitt Romney
 
-Romney ad contrasts his governorship with Obama presidency
-
-Syria
-
-Explosion hits Old City quarter, Syria pro-gov't TV says
+In Debates and Life, Romney Likes the Rules
 
 Politix
 
-Who will win Ohio?
+Who will win Virginia?
 
 *   Home
 *   Forums
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
-  Ads by Glam
+ 
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 96,872 • Total comments across all topics: 188,683,216
+Comments made yesterday: 102,861 • Total comments across all topics: 188,775,402
 
 Copyright ©2012 Topix LLC
 
