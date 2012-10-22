@@ -9,6 +9,7 @@ provided until after midnight ET of the day your package ships.
     *   hottest outfits
     *   dressy shop
     *   active outfits
+    *   yoga shop
     *   NFL®
     *   college fan shop
     *   cold weather
