@@ -212,14 +212,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
-    *   Week 7 NFL Preview
-    *   Pick Nation: Week 7 NFL picks
-    *   Highlights: (4) Kansas State - (13) WVU
-    *   CFB on FOX: Kansas State/WVU recap
-    *   Highlights: Baylor - (25) Texas
-    *   NFL on FOX: GB/STL preview
-    *   Tottenham v Chelsea Premier League Highlights 10/20/12
-    *   UFC on FUEL TV: Highlights - UFC 153
+    *   Highlights: WR flips defender, scores TD
+    *   Online OT: BAL/HOU
+    *   Extra Point: Big Ben, Big Mouth?
+    *   Online OT: WAS/NYG
+    *   Highlights: WAS/NYG
+    *   Pereira: NFL Week 7 NFL Call
+    *   Online OT: NYJ/NE
+    *   Rosenthal: Game 7 Preview
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -505,33 +505,33 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   Minnesota's Lucia gets 600th career win
-*   Ponder looks to bounce back after 'growing...
-*   Gophers pin their hopes on QB Nelson
+*   Turnovers continue to haunt Vikings' Ponder
+*   Peterson truly defines valuable
+*   Smith sparks Vikings secondary with key plays
 
-*   MOTOGP: Clutch Pedrosa Awarded Sepang Victory
-*   MOTOGP: Sepang Sunday Guide
-*   SX: Barcia Cashes In At Monster Energy Cup
+*   AUTOS: Mini Boat Cruises Boston Regatta
+*   PHOTOS: ALMS Petit Le Mans Gallery
+*   IN THE COCKPIT: Oliver Gavin, Petit Le Mans
 
-*   Game Day Matchups
-*   Game Day Notebook
-*   Time for Steelers to Make Their Move
+*   Notebook: Robison exposes generous matchup
+*   QB Diaries: Zach Allen Runs to District Win
+*   Steelers Rumble Through Jungle for 24-17 Win
 
 *   Cooking For The Coaches
 *   Teaser: Fighter Trivia
 *   UFC On FUEL TV 6: Franklin vs. Le Teaser
 
-*   Tebow's interesting role in Pats prep
-*   Report: Red Sox hire Farrell
-*   Harbaugh upset with Seattle's DBs
+*   Bucs lose on controversial call
+*   Newton very emotional after loss
+*   Report: Howard cleared to play
 
-*   Cristiano Ronaldo sale lesionado
-*   América doma a la fiera en casa
-*   El Barca sufre para vencer al Depor
+*   Giants fuerzan un séptimo juego
+*   TITU POSICIONES Liga MX
+*   TITU GOLEADORES Liga MX
 
-*   Liverpool eyeing Walcott, Sturridge
-*   Manchester United defeats Stoke City
-*   Manchester United vs. Stoke City highlights
+*   Atletico wants to sign Hernandez
+*   Police investigating alleged abuse
+*   Sunderland draws ten-man Newcastle
 
 *   *   NFL
     *   NFL Home
