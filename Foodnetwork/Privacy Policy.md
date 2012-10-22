@@ -6,23 +6,23 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
             *   Lemon Drop Cupcakes
             *   Milk Chocolate Tart
             *   Salted Peanut Brownies
-            *   Bolitas de Queso
-            *   Ultimate Cheeseburger
+            *   Wicked Cupcakes
+            *   Carrot Cupcakes
         *   Top Collections
-            *   Curry
-            *   Soups
+            *   Pumpkin
+            *   Halloween
             *   Cupcakes
             *   Slow Cooker
             *   Desserts
             *   Baking
         *   Top Articles
+            *   Andy Bates Recipes
             *   30 Stand-by Suppers
-            *   Wild Fish Factsheet
+            *   9 Easy Fish Dishes
             *   47 Comfort Foods
             *   10 Recipes We're Loving
             *   8 Cupcake Icing Tips
-            *   30 Student Recipes
-        *   *   Slow Cooking Slow Cooker Recipes Make soups, stews and more in your slow cooker.
+        *   *   Halloween 60 Halloween Recipes Eat, drink and be scary with our collection of spooky treats.
             *   Pick Of The Week 10 Recipes We're Loving Find out which recipes have got our tongues wagging this week.
             *   Comfort Foods Comforting Classics Satisfy your cravings for nostalgic meals with our comforting recipes.
         *   ALL RECIPES
@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Barefoot Contes... UP NEXT › Barefoot Contes...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Fresh Food Fast... UP NEXT › Andy Bates Amer...
 
 *   Channel  
     Guide
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   @nancymcgregor ohhh that sounds lovely. Let us know how it goes!
+*   Recipe of the Day: Butternut Squash Soup with Chipotle Cream t.co/EilmGdBP
+*   Hey! What're you planning? RT @nancymcgregor: Time to watch @FoodNetwork\_UK and drool while food planning.
+*   @margotlohan did you make the risotto?
+*   He's got the whizz, bang, wow! RT @natslooney: I think I have a #legit crush on @GuyFieri. It was bound to happen-O.D on @FoodNetwork\_UK
+*   RT @vicstewart: New LondonStreetFoodie post all about cooking street food with @eatmypies for a @FoodNetwork\_UK event t.co/yr27SLY6
+*   From graveyard cupcakes to vampire cocktails, we’ve got spooky #Halloween treats covered: t.co/bowjICfo
+*   Watch Andy Bates American Street Feasts online now: t.co/vfh1WsNz #StreetFeastsUSA
 *   Recipe of the Day: Pumpkin and Porcini Risotto t.co/BF6xfXv4 #recipe
 *   Take a sneak peek at some of the cocktails starring in World Class: Bartender of the Year tonight: t.co/z0y3hyRf #cocktailoclock
-*   Spending the weekend vegging out in front of #SCD and #XFactor? Try one of our 50 takeaway-inspired recipes: t.co/1ZevGRXO
-*   Recipe of the Day: Blueberry Bakewell with Raspberry Chantilly from @eatmypies t.co/Uj5laZlY #recipe
-*   All your favourite Andy Bates recipes in one place: t.co/watroAxH #StreetFeastsUSA
-*   Enter our competition for your chance to win 1 of 100 @alaskaseafooduk cookbooks: t.co/xWQo8zjs #competition
-*   @dalepakfoods our thoughts exactly!! ;)
-*   Thanks! @eatmypies will love that! RT @tiffanyharelik: @FoodNetwork\_UK love to Andy from Austin and @trailerfood
-*   @drinkfoodfun shall we?
-*   Recipe of the Day: Zegroni Cocktail t.co/AM23ZsiB #recipe
 
 Follow Us
 
