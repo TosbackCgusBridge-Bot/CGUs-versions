@@ -4,14 +4,14 @@
 *   Hot Topics
     *   strange stuff
     *   Mitt Romney 2012
-    *   entertainment
-    *   celebrity
-    *   Barack Obama
+    *   timeless news
     *   Mitt Romney
-    *   President Obama
     *   Election 2012
-    *   Benghazi
-    *   Syrian uprising
+    *   President Obama
+    *   celebrity
+    *   entertainment
+    *   California
+    *   Syria
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -119,63 +119,57 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Talking to Justice Ruth Bader Ginsburg
-*   If All the Previous U.S. Presidents Were Alive and Running...
-*   Call Me Melancholy
+*   Boss Farhad Manjoo Around
+*   Smashed
+*   Why Romney Is Afraid To Explain His Tax Plan
 
 More from Slate »
 
-*   CELEBRITY SPERM BANK HOAX
-*   Hamster Taken Into 'Protective Custody' When Owner Arrested
-*   BEST CALL EVER: Woman Thinks Deer X-ing Signs 'Encourage'...
-
-More from HuffPost Weird »
-
-*   10 Careers Helped Or Hurt By Sex Tapes
-*   Bing Bellamy Has Got An Adorable Scowl
-*   8-Year-Old Girl Gets Head Start On Cosplay, Goes To School...
+*   Your Friskyscopes For The Week Of October 22-28, 2012
+*   Well Played: Rita Ora In White
+*   5 Insignificant Things That Determine If Someone Likes You
 
 More from The Frisky »
 
-*   Good: Winning a Freedom of Information Act judgment....
-*   The days of being able to buy trousers from a bazaar in...
-*   16-year-old girl refuses to leave her room after lifesaving...
+*   Should your 2-year-old ever be found wandering alone on a...
+*   This police chase has it all. High speed car chase, cop...
+*   Help a Farker out and help find my friend's daughter \[Scary\]
 
 More from Fark »
 
-*   The world's silliest territorial dispute
-*   10 things you need to know today: October 20, 2012
-*   5 smart reads for the weekend
+*   Remembering George McGovern: A conscientious life in...
+*   The Wisconsin spa shootings: What we know so far
+*   Angels in the newsroom
 
 More from The Week »
 
-*   Iran Has Agreed to One-on-One Nuclear Talks with the United...
-*   Super-PACs Prepare Final Ad Blitzes
-*   Joe Biden Looked Extra Cool While Buying Donuts Today
+*   A Bipartisan Guide to Complaining About Moderator Bob...
+*   The New Yorkerâs Full-Throated Obama Endorsement Also Kind...
+*   Searching for Corned Beef and Talking âMuppetsâ With...
 
 More from Daily Intel »
 
-*   A Brain Booster.. A Natural Fat Blaster.. A Cancer Fighter:...
-*   Say 'No' to Too Much Food
-*   When Bad Meditation Inspires Better Writing
+*   _Breast Cancer Awareness Month_
+*   Body Language: Not Just a Political Message
+*   Higher Self: 6 Ways to Help You Hear It
 
 More from HuffPost Health »
 
+*   Happy Birthday, Kim Kardashian! See the Star's 32 Most...
 *   Adele Gives Birth to Baby Boy (REPORT)
 *   Newlywed Justin Timberlake Steps Out in Italy Following...
-*   Lindsay Lohan Fires Back at Michael Lohan Following Failed...
 
 More from Celebuzz »
 
-*   Spooky, Tasty Cupcake Graveyard Recipe
-*   Natalie Portman Shows Cleavage at UT Game and the Web Comes...
-*   Kendall and Kylie Jenner Start Their Own Clothing Line
+*   Evicted Neighbor Allegedly Opens Fire on Family With Small...
+*   Cutest Kitties Ever Show Us How a Catfight Is Really Done...
+*   'Walking Dead' Recap: Who Lives, Who Dies and Who Gets...
 
 More from The Stir »
 
-*   The Week on AdFreak: Oct. 12-19, 2012
-*   Trailer Mash 10-19-12
-*   Ad of the Day: DnB
+*   Heat Seekers
+*   DÃ©jÃ  Vu All Over Again
+*   Voice: Intimacy as Opportunity
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
