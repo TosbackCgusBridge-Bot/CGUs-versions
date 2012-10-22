@@ -27,13 +27,13 @@ Register
 
 *   Browse Database
     
-    *   Games (61383)
-    *   Families (1717)
+    *   Games (61397)
+    *   Families (1720)
     *   Categories (80)
     *   Mechanics (48)
-    *   Artists (8692)
-    *   Designers (17371)
-    *   Publishers (12725)
+    *   Artists (8693)
+    *   Designers (17373)
+    *   Publishers (12728)
     *   Random Game
     *   Gone Cardboard
     
