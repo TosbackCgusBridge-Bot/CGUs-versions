@@ -134,15 +134,15 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $0 Value: Discount: You Save: $0 100% $0
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day 1/2 PRICE FOR MONTH OF UNLIMITED CAR WASHES OR AUTO DETAIL AT KWIK KAR $16 Value: Discount: You Save: $35 54% $19
 
-Sunday: More Deals
+Monday: Target Deals
 
 1.  Apartment Maintenance Tech Part Time
     
     Georgetown Apartments
     
-2.  Apartment Maintenance Helper
+2.  PROGRAM DIRECTOR
     
 3.  SEASONAL DRIVERS
     
@@ -162,16 +162,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Kansas State goes all in national championship chase
+*   At fundraiser, Todd Akin likens Claire McCaskill to a dog
+*   Man found dead on Kansas City sidewalk
+*   K-State jumps Oregon for No. 3 spot in BCS standings
+*   Gunman robs two employees at Kansas City Zoo
+*   A closer look at five for college footballs finale
+*   Dear Abby | A saboteur in the family
+*   Church cites Scripture in barring gay musician from performing
 *   Rising rapper Creepyface died in a hail of words
-*   Latest O.J. furor: He is reportedly selling the knife
-*   K-State still perfect after 55-14 win at West Virginia
-*   Bill Snyder saved a town and a football team  twice
-*   Victim of Missouri diner crash always sat in the same booth
-*   How Tippi Hedren ran afoul of Alfred Hitchcocks blond fixation and paid the price
 *   Starling, Royals generally pleased by progress in his first season
-*   No. 10 Sooners put hurt on Jayhawks in 52-7 beating
-*   K-State-West Virginia game report
+*   KC streetcar plan: pricey transit or economic magnet?
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
