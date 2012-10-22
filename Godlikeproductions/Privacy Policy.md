@@ -1,5 +1,5 @@
   
-Users Online Now: **1,628** (Who's On?) Visitors Today: **367,623** Pageviews Today: **614,602** Threads Today: **283** Posts Today: **3,740** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,965** (Who's On?) Visitors Today: **326,996** Pageviews Today: **601,531** Threads Today: **337** Posts Today: **4,382** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,16 @@ trinity@godlikeproductions.com
   
 News
 
+*   Teacher injured in airborne fish attack
+*   Obama Ad You Won't See on TV
+*   Obama campaign collecting more donations from non-existent ZIP codes as campaign season goes on
+*   Obama campaign accepted foreign Web donation -- and may be hiding more
+*   Iranian Media: Romney Will Steal Election, Riots Expected
+*   Internet providers to begin warning customers who pirate content
+*   Swiss army prepares for euro zone unrest
+*   Thefts of cell phones on the rise across America
+*   UN affiliate group to monitor US elections for conservative voter supression
+*   Iran denies report of plans for nuclear talks with U.S.
 *   Norfolk Southern lays off 200, cites coal traffic decrease
 *   Mobile phones can cause brain tumours, court rules.
 *   Mitt Romney's Campaign, RNC Have 60+ Staffers In Pennsyvania, Planning More
@@ -127,16 +137,6 @@ News
 *   Orionid Meteor Shower Peaks Tonight: How to Watch Online
 *   Sun Unleashes Huge Solar Plasma Wave
 *   FBI shows up at teenager's home to ask about his Ron Paul school report
-*   Meteorite Impacts Earth in Minden, Louisiana - Media and Government Cover It Up
-*   Inflation-adjusted study shows African king was richest person ever
-*   Pa man calls police: BigFoot smashed windows and tail lights on his motor home
-*   New DHS Program Wants to See If Your Hand Sanitizer Explodes
-*   Federal Gov’t Funding Police Spotters on Overpasses in Two States
-*   The Search for Sasquatch Continues — With a Silent Airship
-*   FBI yet again foils their own fake terrorist plot, this time targeting the NY Federal Reserve
-*   Cops Taser Disabled Man After Mistaking Walking Stick For Samurai Sword
-*   Jail Guards Accuse Man Begging For Help Of Faking Allergic Reaction, Man Dies
-*   US military gets into the 3D printing business
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.019s (0 queries)
+Page generated in 0.016s (0 queries)
