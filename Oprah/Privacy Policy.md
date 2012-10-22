@@ -101,7 +101,6 @@ Advertisement Take Deepak Chopra's FREE 21-Day Meditation Challenge! Discover ne
 *   ARE YOU AND YOUR FAMILY STRUGGLING AND NEED HELP?
 *   What's Your Biggest Makeup Problem?
 *   HAVE YOU BEEN INVOLVED IN AN AFFAIR?
-*   Family in Turmoil?
 *   What Do You Believe?
 *   LIFECLASSERS- HAVE A QUESTION FOR IYANLA VANZANT?
 *   Where do you find beauty in the world?
