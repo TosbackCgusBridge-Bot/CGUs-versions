@@ -174,6 +174,13 @@ Record Searchlight
 *   Cars
 *   Classified
 
+*   Winter Weather Advisory
+    
+    IN EFFECT UNTIL OCT 22, 4:30 p.m.
+    
+    issued for Mountains Southwestern Shasta County to Northern Lake County
+    
+
 Privacy Policy Redding.com Privacy Policy
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
@@ -267,19 +274,19 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Dead body found on bank of Sacramento River near Sundial Bridge Updated 10/20/2012 at 1:10 p.m. 25 comments
-*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 173 comments
-*   UPDATE: HDTV, dirt bike taken in armed robbery in Redding overnight Updated 10/20/2012 at 1:19 p.m. 17 comments
-*   Paramedics headed to ATV accident Published 10/20/2012 at 9:37 a.m. 7 comments
-*   Boy's miracle cure makes 1st Native American saint Published 10/20/2012 at 4:00 a.m. 19 comments
+*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 96 comments
+*   Police: Redding woman drives muscle car into home Published 10/20/2012 at 11:19 p.m. 27 comments
+*   UPDATED: Fire damages Redding church Published 10/21/2012 at 7:30 p.m. 8 comments
+*   Rain on the way for north state. snow predicted for higher elevations Published 10/20/2012 at 9:28 p.m. 8 comments
+*   Shots fired near Palomino Room in Red Bluff, police say Published 10/21/2012 at 8:40 a.m. 14 comments
 
-Photo Galleries Think Pink Foothill vs. Chico Red Bluff men get marijuana back
+Photo Galleries Red Bluff men get marijuana back Farewell Halloween Horse Show at… Think Pink
 
-*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 173 comments
+*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 182 comments
 *   Gun industry thrives during Obama's term in office Published 10/19/2012 at 4:00 a.m. 139 comments
 *   Charles Krauthammer: Obama's great gaffe Published 10/19/2012 at 12:00 a.m. 110 comments
-*   Presidential debate video: Obama rebukes foe's jobs plan. Romney fires back over economic policies Published 10/16/2012 at 11:56 p.m. 374 comments
-*   Federal appeals court in New York nixes Defense of Marriage Act Published 10/18/2012 at 9:08 a.m. 76 comments
+*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 96 comments
+*   Redding residents join nationwide rally against Obamacare contraception mandate Published 10/20/2012 at 9:30 p.m. 55 comments
 
 *   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
 *   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 89 comments
@@ -293,25 +300,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 51° Fair Wind: NW 4mph Today 67° 49° Sun 05:00 PM Cloudy Temp: 65° Mon 05:00 AM Mostly Cloudy Showers Temp: 48° Mon 05:00 PM Mostly Cloudy Showers Temp: 57°
+Currently 50° Rain Fog/Mist Wind: S 12mph Today 52° 46° Mon 05:00 PM Mostly Cloudy Showers Temp: 52° Tue 05:00 AM Mostly Cloudy Showers Temp: 48° Tue 05:00 PM Mostly Cloudy Showers Temp: 53°
 
-Feels Like: 65°
+Feels Like: 52°
 
-Humidity: 24%
+Humidity: 66%
 
-Precip: 3%
+Precip: 95%
 
 Feels Like: 48°
 
-Humidity: 76%
+Humidity: 93%
 
-Precip: 75%
+Precip: 79%
 
-Feels Like: 57°
+Feels Like: 53°
 
-Humidity: 60%
+Humidity: 61%
 
-Precip: 93%
+Precip: 59%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +334,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Sunday Oct 21
 *   Monday Oct 22
 *   Tuesday Oct 23
+*   Wednesday Oct 24
 *   More BROWSE Icon
-
-*   Free gem and mineral show Shasta District Fair grounds 10 a.m.
-*   Road Tour of the Ponderosa (Manton) Fire See Description 11 a.m.
-*   Rivercity Jazz Society, Straight Ahead Big Band concert and dance Elks Lodge 1 p.m.
-*   Yarns at the Redding Library Redding Library 1 p.m.
-*   Zumbathon Sequoia Middle School 1:30 p.m.
-
-More Events »
 
 *   The Sacred Drumming Circle 2001 Park Marina Drive, Redding 6:30 p.m.
 *   Free classes for seniors Senior Citizens Hall
@@ -353,6 +352,14 @@ More Events »
 *   NAMI Shasta County Basics six-week class Contact for Location Information 6 p.m.
 *   Ties to the Land, Agriculture and Forest Landowner Succession Planning Workshop Inter-Mountain Fair grounds 6 p.m.
 *   Loretta Lynn Cascade Theatre 7:30 p.m.
+
+More Events »
+
+*   OctoberFeast! Connecting Farms and Families - A Benefit for People of Progress First United Methodist Church, Redding 5:30 p.m.
+*   Clutter Support Group Redding Library 6 p.m.
+*   Basic Electricity Shasta Builder's Exchange 6 p.m.
+*   Basic Electricity Shasta Builder's Exchange 6 p.m.
+*   Jazz Big Band Shasta College Theater 7:30 p.m.
 
 More Events »
 
