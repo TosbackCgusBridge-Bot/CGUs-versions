@@ -238,15 +238,15 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     *   Sale
     *   Wüsthof Gourmet Promotion
-    *   Shun Promotion
     *   Exceptional Values
     
-    1 WEEK ONLY
+    NEW &. EXCLUSIVE
     
-    Save up to 60% on Select Shun Cutlery.  
-    Offer ends 10/21
+    Our signature knives feature contoured ergonomic handles and ice-hardened blades for durability.
     
-    Shop Now 
+    Buy Now 
+    
+    Shop Zwilling J.A. Henckels Knives 
     
 *   Electrics Shop by Category
     
