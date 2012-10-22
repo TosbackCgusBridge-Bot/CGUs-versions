@@ -1,27 +1,27 @@
-*   STAR WEIRDS BLOG 5...
-*   GALLERY Games I Played as a Kid
-*   VIDEO Blue Laser Cigarette Lighter
-*   VIDEO Waking Up An English Mastiff
-*   VIDEO Professor Switch!!
-*   VIDEO Rampaging Squirrel Escapes Like a BOSS!!
-*   VIDEO Shredding Guitar &. Keyboard At Same Time
-*   VIDEO Detroit Lions Hail Mary Vs. the Titans
-*   WAYS TO SAVE BLOG 5 Ways to Save a Buttload of Money!
+*   VIDEO Junk Dealer Returns $114,000
+*   VIDEO Octopus Eating A Crab
 *   VIDEO Travis Snider Makes Amazing Catch
-*   GAME Infectionator 2
-*   VIDEO Sick and Twisted 13 Year Olds
-*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
+*   VIDEO Cheetah Holds Tourists Hostage
+*   STAR WEIRDS BLOG 5...
+*   VIDEO Police Beat Young Teens In Madrid Spain
+*   GALLERY Space Shuttle On The Streets Of LA
+*   VIDEO Woman Gives Birth On A Jail Floor
+*   VIDEO Kid Rock &. Pam Anderson Yell at Paparazzi
+*   WAYS TO SAVE BLOG 5 Ways to Save a Buttload of Money!
+*   VIDEO Guy Eats Spider
+*   VIDEO Man Arrested for Staging Terror Threat
+*   VIDEO Peacocks Fly Down to Bird Keeper's Whistle
 *   VIDEO Highbar Back Flip FAIL
-*   GALLERY D.E.R.P.
-*   VIDEO Kid Face Plants HARD
-*   VIDEO Small Fishing Master
+*   VIDEO Cam Zink Canyon Gap Jump Crash
+*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
+*   VIDEO Spanish News Channel Fail
 *   CELEBRIDEAD GALLERY Celebrity Life Update
-*   VIDEO Meanwhile...In America
-*   SAM JACKSON PARTNER Sam Jackson Quotes
 *   BEST OF HAZING BLOG Fraternity Hazing is Retarded.
-*   VIDEO Superstar In The Making
+*   VIDEO Creek Jump Fail
 *   CUBE MAPPING PARTNER 3D Cube Mapping Demo
-*   VIDEO Waiting for an iPhone 5...for no reason
+*   VIDEO Teacher Gets Ass Kicked By 1st Grader
+*   GALLERY Absolutely Beautiful Animal Photos
+*   SAM JACKSON PARTNER Sam Jackson Quotes
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
@@ -111,16 +111,16 @@ Last updated: March 31, 2011.
 
 EBAUM'S PICKS Cool Wolf Costume Car Flipped on Highway Bottles Beware! Spiders In A Box Projected Onto Windows Top 5
 
-*   *   12,193
+*   *   51,009
+    *   Road Rage Bully Kicks The Crap Out Of Guy's Car
+*   *   50,941
+    *   How To Knock Someone Out
+*   *   50,589
     *   Best Viral Pics of The Week Compilation
-*   *   7,829
+*   *   41,877
+    *   Cyber Child Sex Sting Nets 23 Arrests
+*   *   29,231
     *   Stuntman's Brutal Parkour Crash!
-*   *   6,954
-    *   Famous Black Eyes
-*   *   4,431
-    *   YOU'VE Been Chang'd Dr. Ken!!!!
-*   *   3,669
-    *   Kittens Learn Physics
 
 POPULAR GALLERIES Facebook Wins and Fails A Cultural Collection POPULAR GAMES Cloud Wars Into Space 2 Slender - Bones of Children Infectionator 2
 
