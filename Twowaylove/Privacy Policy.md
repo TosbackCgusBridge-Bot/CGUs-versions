@@ -11,7 +11,7 @@ DATING DIRECTORY
 *   Lisa's Blog
 *   Add Link
 
-Facebook   Twitter   RSS Directory >. Privacy Policy Privacy Policy  
+Facebook   Twitter   StumbleUpon   Pinterest   Contact   Contact   RSS Directory >. Privacy Policy Privacy Policy  
 Privacy Policy Overview
 
   
