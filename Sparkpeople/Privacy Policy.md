@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Cabbage Juice Diet Resources
+*   High Sugar Resources
 
   
-Stay in Touch With SparkPeople **Choosing a Walking or Running Route**
+Stay in Touch With SparkPeople **9 Ideas After Meeting Your Weight Loss Goal**
 
-Walking and running are excellent ways to stay in shape year-round. These basic workouts are convenient, feasible almost anywhere, and require only a good pair of shoes!
+So once you reach your weight loss goals, where do you go from there? How do you translate this success into other successes? Here are 9 ideas to help you out.
 
 Read More
 
-*   What does it mean to eat healthy?
-*   Need Ideas for working out at home
-*   Specific Tips to get through the Weekend
-*   Please share your favorite "pumpkin" recipes!
+*   "New to me" foods
+*   Self Control - Can it be taught?
+*   How do you maintain your exercise long-term?
 *   Healthy snack ideas for under 100 calories?
+*   Why the scale isn't a good indicator of health.
 
-View Demo **Close-Arm Wall Pushups**  
-Placing your hands together during this push-up targets your arms more than standard push-ups do. **Whole Wheat Waffles**  
-Submitted By: **JOGANRAY**
+View Demo **Leg Lifts with Ball**  
+This intriguing exercise builds endurance in your lower back muscles. **Garlic-Balsamic Vinaigrette**  
+Submitted By: **GUEST\_CHEF**
 
-A terrific way to start your day, much better than the frozen waffles you can find at the grocery store. Full Recipe
+This super-simple vinaigrette is delicious on salads or drizzled over cooked vegetables or grilled fish. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
