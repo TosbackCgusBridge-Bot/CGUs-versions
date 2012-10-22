@@ -53,11 +53,11 @@ Comments Off
     See More Related Stories For:  
     aol / companies / paidcontent / time warner
 
-*   {"source":"http:\\/\\/paidcontent.org\\/wijax\\/7360915d6b4be0b34a89ac4a0f2799bd","varname":"wijax\_057dac24d0a0073cc3a230379420ac78","title\_element":"h2","title\_class":"widgettitle","title\_before":"%3Ch2%20class%3D%22widgettitle%22%3E","title\_after":"%3C%2Fh2%3E%0A"}
+*   {"source":"http:\\/\\/paidcontent.org\\/wijax\\/a71011642194004ca48b32bb3c89dc17","varname":"wijax\_5a7aca837a9e3b5d6054d82fc37d6cfc","title\_element":"h2","title\_class":"widgettitle","title\_before":"%3Ch2%20class%3D%22widgettitle%22%3E","title\_after":"%3C%2Fh2%3E%0A"}
 
 **Read more in GigaOM**
 
-Creating order from digital chaos
+What I learned while live-tweeting a friend’s funeral
 
 Stay on top of tech news in your inbox
 
