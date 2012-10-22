@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Mitt Romney
+*   Election 2012
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 21, 2012 Edition: **U.S.**
+October 22, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 21, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Back To Bain: Obama-Backing Super PAC Re-Releases Romney Attack Ad 23k
-    *   Tracking Polls: A Post-Debate Uptick For Obama? 12k
-    *   Prominent Democratic Strategists Relieved At Survey On Obama Economic Message 14k
-    *   Crazy Polls Show Close Race, Continuing Obama Edge In Battlegrounds 26k
-    *   Obama Hits 'Romnesia' 48k
+    *   Obama, Romney Now Tied: Poll 19k
+    *   Tracking Polls: A Post-Debate Uptick For Obama? 23k
+    *   Obama, Romney, Quiet On Tax Issue 3k
+    *   Former Senator George McGovern Dies At 90 2k
+    *   LISTEN: Todd Akin Compares Claire McCaskill To A Dog 3k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 21, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   Abercrombie &. Fitch's Corporate Jet Takes Cultish To a Whole New Level 443
-    *   'James Bond' Debt Collector Allegedly Murders One-Time Maxim Model 390
-    *   Jobs That Make Workers Feel Really Guilty 167
-    *   White McDonald's Customer Alleges Racism After She's Denied Biscuits 1k
-    *   'A Blow To Its Brand' 12
+    *   Country Music Stars, Fortune 500 Execs Among Millionaires Using Farmland Tax Loophole 623
+    *   Jobs That Make Workers Feel Really Guilty 305
+    *   Worst Business Decisions Of All Time 57
+    *   The Super-Rich People Bankrolling The Presidential Election 1k
+    *   WATCH: Ex-Banker Greg Smith Tells '60 Minutes' Goldman Sachs Mistreated Clients 411
     
     Go to Business **More in Business**
     
@@ -66,10 +66,10 @@ October 21, 2012 Edition: **U.S.**
 *   Entertainment
     
     *   Clint Eastwood's Daughter Says She's Not Voting For Romney 3k
-    *   Sheen, Harrelson Set To Star In 9/11 'Truther' Film 5k
-    *   Obama Gives Jay-Z Parenting Advice 774
-    *   19 Biggest Movie Plot Holes 278
-    *   WATCH: Willow Smith Covers Adele's 'Skyfall' 345
+    *   Obama Gives Jay-Z Parenting Advice 1k
+    *   Headed To 'The Hobbit' 121
+    *   'Hangover 3' Shuts Down California Freeway 59
+    *   WATCH: Alicia Keys' New 'Girl On Fire' Video 72
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 21, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   Apple Drops Widely Used Software Over Security Risks 380
-    *   This Doesn't Bode Well... 1k
-    *   The 9 Most Popular Viral Videos Of The Week
-    *   Google Still Searching for Answers To Its 'Mobile Problem' 136
-    *   WATCH: Notorious Internet Troll Apologizes For Shocking, Offensive Posts 175
+    *   Only 2 More Days Until We See The 'iPad Mini' 179
+    *   Apple Drops Widely Used Software Over Security Risks 584
+    *   Another Top Facebook Exec Calls It Quits 29
+    *   Life As An OkCupid Moderator 16
+    *   The 9 Most Popular Viral Videos Of The Week 11
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 21, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   Female Reporter 'Savagely Attacked' In Cairo 2k
+    *   Female Reporter 'Savagely Attacked' In Cairo 3k
+    *   Schieffer Faces Mounting Pressure Going Into Debate 1k
     *   PHOTO: New Yorker Cover Hits Romney 1k
-    *   WATCH: Whoopi Goldberg's Uncomfortable Question To Ann Romney 22k
-    *   Fox News Chief Signs Big New Contract 1k
-    *   WATCH: Obama Takes A Jab At Chris Matthews 3k
+    *   News Corp Denies Reports Of Interest In 2 Major Newspapers 291
+    *   PHOTOS: Journalists Remember George McGovern 13
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 21, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   CIA Found Militant Links Just 1 Day After Libya Attack 9k
-    *   Austria Probes Gruesome Nazi Abuse 2k
-    *   White House Denies U.S.-Iran Nuclear Talks Report 1k
-    *   Chinese Girl Grows Beard Due To Life-Saving Bone Marrow Treatment 244
-    *   Report: GOP Document Dump Exposes Libyans Working With U.S. 6k
+    *   Fidel Castro Reportedly Appears In Public 713
+    *   Protesters Storm Lebanese Government HQ 827
+    *   White House Denies U.S.-Iran Nuclear Talks Report 3k
+    *   'October Surprise' Has Observers Mystified Ahead Of Foreign Policy Debate 2k
+    *   Afghan Mother Reportedly Beheads Daughter-In-Law When She Refuses To Be A Prostitute 1k
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 21, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   A Brain Booster.. A Natural Fat Blaster.. A Cancer Fighter: 7 Great Benefits Of _This_ Tea 102
-    *   Jennifer Lost 200 Pounds: 'I Ate Because I Was Bored. I Ate Because I Was Lonely. I Ate Because I Could’ 69
-    *   35 Diet And Nutrition Experts You Should _Already_ Be Following 27
-    *   Happy Reads: 10 Books That Make Us Smile 22
-    *   Banana Boat Recalls Sunscreen After 5 People Catch On Fire 211
+    *   Jennifer Lost 200 Pounds: 'I Ate Because I Was Bored. I Ate Because I Was Lonely. I Ate Because I Could’ 92
+    *   A Brain Booster.. A Natural Fat Blaster.. A Cancer Fighter: 7 Great Benefits Of _This_ Tea 151
+    *   10 New Foods To Power Up Your Workout
+    *   Should You Let Your Dog Sleep In The Bed? 27
+    *   The Baker, The Free Food Fiend, The Food Bully: Which Workplace Diet Saboteur Is Your Biggest Weakness? 34
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 21, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
-    *   PHOTOS: Prince Guillaume &. Stephanie De Lannoy's Glamorous Royal Wedding In Luxembourg 155
-    *   PHOTO: Mena Suvari Goes A Little Cutout Crazy 127
-    *   PHOTOS: See Who Turned Out For Bergdorf's 111th Birthday Party 12
-    *   Michelle Obama Has A Surprise Answer For The Eternal 'Boxers Or Briefs?' Question 736
-    *   WATCH: Ed Burns Reveals How He Landed Christy Turlington 20
+    *   PHOTOS: See How Kanye Upgraded Kim's Closet 115
+    *   PHOTOS: Prince Guillaume &. Stephanie De Lannoy's Glamorous Royal Wedding In Luxembourg 213
+    *   PHOTO: Mena Suvari Goes A Little Cutout Crazy 300
+    *   PHOTO: Beyonce &. Jay Z Prove They're The Hippest Parents Ever 24
+    *   Our Favorite Instagrams This Week! 19
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 21, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   PHOTOS: The Funniest Haunted House Reactions 276
-    *   WATCH: Maher Unearths Another Secret Video Of Mitt 1k
-    *   The Funniest News Corrections
-    *   WATCH: Romney's Horrifying Google History LEAKED 468
-    *   POLL: Who Is Funnier? 987
+    *   WATCH: Maher Unearths Another Secret Video Of Mitt 2k
+    *   WATCH: SNL Mocks 2nd Presidential Debate 981
+    *   The Funniest News Corrections 24
+    *   PHOTOS: The Most WTF Halloween Decorations
+    *   PICTURE: Kid Loves Bacon According To Homework 39
     
     Go to Comedy **More in Comedy**
     
@@ -217,9 +217,9 @@ October 21, 2012 Edition: **U.S.**
 *   LIVE
     *   Next Are We There Yet?
     *   Next GOTV
-    *   Tomorrow The GOP's Lost Plank
-    *   Tomorrow Swung By Hollywood
-    *   Tomorrow Interracial Dating GameGo to HuffPost Live
+    *   Coming Up The GOP's Lost Plank
+    *   Coming Up Swung By Hollywood
+    *   Coming Up Interracial Dating GameGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
