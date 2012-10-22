@@ -23,8 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Is Jill Stein crazy, or are we?**  
-        She The People | Melinda Henneberger
+    *   **Good news for Romney in two new...**  
+        Election 2012 | Rachel Weiner
+    
+    *   **Romneyâs official stance on abortion**  
+        The Fact Checker | Josh Hicks
+    
+    *   **Todd Akin compares Claire McCaskill...**  
+        She The People | Diana Reese
+    
+    *   **8 takeaways from the NBC-Wall Street...**  
+        The Fix | Chris Cillizza and Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -40,7 +49,13 @@
     *   **How to dump a candidate**  
         ComPost | Alexandra Petri
     
-    *   **Friday question**  
+    *   **Sunday Open Thread**  
+        The Plum Line | Greg Sargent
+    
+    *   **Silence is golden on gay issues**  
+        PostPartisan | Jonathan Capehart
+    
+    *   **Morning Bits**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -57,14 +72,14 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Slight weekend...**  
-        Capital Weather Gang | Ian Livingston
+    *   **Forecast: Exceptionally good weather...**  
+        Capital Weather Gang | Jason Samenow
     
     *   **Curry Mantra expands from Fairfax...**  
         Going Out Gurus | Tom Sietsema
     
-    *   **Police chase car from Md. into...**  
-        Crime Scene | Peter Hermann
+    *   **Prince Georgeâs County police canvass...**  
+        Crime Scene | Maggie Fazeli Fard
     
     *   **Wells hints he might back Cooper**  
         D.C. Wire | Tim Craig
@@ -82,11 +97,14 @@
     
     Blogs &. Columns
     
-    *   **Giants rookie compares himself...**  
-        DC Sports Bog | Sarah Kogod
+    *   **Alex Ovechkin shatters glass in...**  
+        Capitals Insider | Katie Carrera
     
-    *   **Brandon Banks still waiting for...**  
-        The Insider | Mike Jones
+    *   **The Victor Cruz game-winning touchdown...**  
+        DC Sports Bog | Dan Steinberg
+    
+    *   **On coverage in the clutch and Chris...**  
+        The Insider | Keith McMillan
     
     *   **How teams with the best record...**  
         Nationals Journal | James Wagner
@@ -110,7 +128,11 @@
     
     *   **Leadership profiles of Romney**  
         PostLeadership | Jena McGregor
+    
+    *   **Scholar: Obamaâs strategy is to...**  
+        Under God | Georgetown/ On Faith
 *   World In World
+    
     *   Africa
     *   The Americas
     *   Asia &. Pacific
@@ -120,6 +142,20 @@
     *   War Zones
     *   Special Reports
     *   Columns &. Blogs
+    
+    Blogs &. Columns
+    
+    *   **Debate prep: Six essential reads...**  
+        WorldViews | Max Fisher
+    
+    *   **Meet Europeâs far-right groups**  
+        WorldViews | Olga Khazan
+    
+    *   **A charming video captures moments...**  
+        WorldViews | Max Fisher
+    
+    *   **Why Wissam al-Hassan matters for...**  
+        WorldViews | Max Fisher
 *   Business In Business
     
     *   Economy
@@ -139,6 +175,12 @@
     
     *   **Google, Microsoft earnings illustrate...**  
         Post Tech | Hayley Tsukayama
+    
+    *   **Why the economy may be better than...**  
+        Steven Pearlstein
+    
+    *   **The fiscal cliff would cut the...**  
+        Wonkblog | Suzy Khimm
 *   Tech In Technology
     
     *   Policy
@@ -148,6 +190,9 @@
     *   Photo Galleries
     
     Blogs &. Columns
+    
+    *   **TechBits: Paper**  
+        Hayley Tsukayama
     
     *   **Google, Microsoft earnings illustrate...**  
         Post Tech | Hayley Tsukayama
@@ -172,7 +217,10 @@
     *   **A monstrous remake of âMadelineâ**  
         The Style Blog | Ron Charles
     
-    *   **Read this: Drake, DeGeneres, White...**  
+    *   **Is duct tape the solution to nagging?**  
+        On Parenting | Janice D'Arcy
+    
+    *   **White House Visitors log: More...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -189,8 +237,17 @@
     
     Blogs &. Columns
     
-    *   **Justin Timberlake and Jessica Biel...**  
+    *   **Art: Two Lichtenstein retrospectives**  
+        Classical Beat | Anne Midgette
+    
+    *   **âWalking Deadâ recap**  
         Celebritology 2.0 | Jen Chaney
+    
+    *   **Michael Goldrick new news veep...**  
+        The TV Column | Lisa de Moraes
+    
+    *   **A Newsweek appreciation**  
+        Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
     
@@ -209,11 +266,11 @@
 
 In the News
 
-*   Ellen DeGeneres
-*   O.J. Simpson
-*   Meteor shower
-*   Jill Stein
-*   College football scores
+*   George McGovern
+*   Adeleâs baby
+*   âSNLâ
+*   Wis. shooting
+*   Chris Cooley
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -262,11 +319,90 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
+GM is alive in Defiance, Ohio. But Obamaâs hopes here may not be.
+
+Rosalind S. Helderman 
+
+Todd Akin compares Claire McCaskill to a dog Chris Cooley agrees to rejoin Redskins in wake of Fred Davis injury Around the world, perceptions of Obama-Romney contest lag reality
+
+Michael Birnbaum 
+
+'SNL' spoofs the second debate A âgreatest hitsâ of misleading Romney claims
+
+Glenn Kessler 
+
+Obamaâs not-so-hidden second-term agenda
+
+E.J. Dionne Jr. 
+
+Romney's final fundraiser had 'extraordinary turnout,' says Wilbur Ross Redskins lose but a new day dawns in the (NFC) East
+
+Jason Reid 
+
+In final debate, Obama and Romney to offer differing views of Americaâs role in the world
+
+Anne Gearan 
+
+Chris Cooley agrees to rejoin Redskins after Fred Davis suffers season-ending injury
+
+Mark Maske 
+
+Obamacareâs rhetoric vs. its reality
+
+Robert J. Samuelson 
+
+Carolyn Hax: Itâs not your job to prevent Mom from marrying
+
+Carolyn Hax 
+
+In killerâs mind, counselor found the roots of a new way to treat troubled youth
+
+Jordan Smith 
+
+George McGovern, the man who never gave up
+
+Bob Dole 
+
+Jordan disrupts major al-Qaeda terrorist plot
+
+Joby Warrick 
+
+A lesson in restraint: What China tells us about Iran
+
+Michael Lumbers 
+
+Robert Griffin III vs. Eli Manning: The start of something big
+
+Sally Jenkins 
+
+In close presidential race, foreign-policy debate likely to prove pivotal
+
+Chris Cillizza 
+
+Redskins vs. Giants: After taking late lead, Washington gives it right back in 27-23 loss
+
+Mike Jones 
+
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
+    1.  GM is alive in Defiance, Ohio. But Obama's hopes here may not be.
+    2.  Todd Akin compares Claire McCaskill to a dog
+    3.  Chris Cooley agrees to rejoin Redskins in wake of Fred Davis injury
+    4.  Around the world, perceptions of Obama-Romney contest lag reality
+    5.  'SNL' spoofs the second debate
 *   Top Videos
+    1.  Obama and Romney on the Libya attack
+    2.  Lynn University sets the stage for final presidential debate
+    3.  Mitt Romney oversees football game between staff and reporters
+    4.  Election 2012: The path to 270 electoral votes
+    5.  High school kicker makes 67-Yard field goal in overtime
 *   Top Galleries
+    1.  Endorsements that Romney, Obama may not want
+    2.  Beyond 'Thelma and Louise': Business, the 'Fiscal Cliff' and Pop Culture
+    3.  George McGovern (1922-2012)
+    4.  Newsweek covers through the years
+    5.  Interactions with a serial killer
 
 Today's Paper
 
@@ -276,13 +412,13 @@ Today's Paper
 
 Live Discussions
 
-There are no discussions scheduled today.
-
 The latest in TV with Lisa de Moraes
 
 Live Q&A, 1 p.m. ET
 
 Post TV columnist Lisa de Moraes discusses all the latest in TV news - on and off the screen.
+
+**11:00 AM** **Ask Boswell: Nationals, Redskins and more** **12:00 PM** **Dr. Gridlock** **12:00 PM** **Advice from Slate's 'Dear Prudence'** **2:00 PM** **Talk about Travel**
 
 **Weekly schedule, past shows**
 
