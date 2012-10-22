@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Sunday 21 October 2012
+Monday 22 October 2012
 
 *   Home
 *   News
@@ -138,13 +138,13 @@ In About us
 
 Editor's Choice »
 
-'For a moment, I thought he might kill me'  
+A health expert at your fingertips  
 
-In our second exclusive extract, **Beverley Turner** recalls bringing James Cracknell home to their children only to find he has changed.
+Some 40,000 medical apps are available for phones and PCs. **Dina Behrman** checks out the latest
 
 Comments
 
-Lauren Child's joy at adopting Mongolian girl Why do middle-aged woman get tattoos? The secret letters Prince Charles sent Hugh Fearnley-Whittingstall's nation Advertisement
+Which degree courses do your A-levels suit? Cracknell: finding my way back to myself Suggs on music's most dysfunctional family Pete Townshend: striking the power chord Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
