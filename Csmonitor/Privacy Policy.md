@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Orionid meteor shower: Wake the kids, make a memory
-2.  Opinion: Millennial generation could kill the NFL
+1.  Anxious Turks suspect US plot is behind Syria's implosion
+2.  US and Iran: Could Romney be tougher than Obama? Unlikely.
 3.  Presidential debate 101: Does Romney’s tax math add up?
-4.  ‘Beetlejuice’ sparks? Meteor shower brings 'shooting stars' and 'earthgrazers'
-5.  George Zimmerman judge OKs question: Who was the real Trayvon Martin?
+4.  Polls show presidential race a dead heat
+5.  How the Obama-Romney foreign policy debate could determine the election
 
 About these ads
 
@@ -111,17 +111,17 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Progress Watch  
-    Why teen drinking and driving has been cut in half in past 20 years
+*   Difference Maker  
+    Steven Amstrup says it's not too late to save polar bears – and ourselves
     
-    Nine out of 10 high-schoolers chose not to drink and drive in 2011, according to the CDC. Safety advocacy groups and government agencies have worked with youths and parents on the issue.
+    'We know the answer to what it takes to save' polar bears, says environmental prize winner Steven Amstrup, who has gone to the Arctic to study the bears for 30 years.
     
-*   Difference Maker: Steven Amstrup says it's not too late to save polar bears – and ourselves
+*   Progress Watch: Why teen drinking and driving has been cut in half in past 20 years
 *   Orionid meteor shower: Watch for fireballs during weekend peak
 *   Can Republicans increase their ranks of governors? Four races to watch.
 *   Opinion: Millennial generation could kill the NFL
 
-_Photos of the day_ 10.20.12 » Photos of the Weekend 10/21
+_Photos of the day_ 10.21.12 » Photos of the Weekend 10/21
 
 **CSMonitor.com** on Facebook
 
