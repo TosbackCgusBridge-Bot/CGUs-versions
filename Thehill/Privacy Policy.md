@@ -212,21 +212,21 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-International monitors at US polling spots draw criticism from voter fraud groupsGOP sees food fight as kids trash USDA fruit, vegetable guidelines Obama under pressure to spell out his agenda for a second termPoll: Romney gaining ground in OhioObama spinning toward a loss
+Sen. Rubio: Obama has ‘given up’ on outlining second term agendaInternational monitors at US polling spots draw criticism from voter fraud groupsObama spinning toward a lossRomney picks up endorsements from Ohio, Fla. newspapersGay Republican candidate anticipates a few GOP 'knuckleheads' in Congress
 
 Emailed
 
-International monitors at US polling spots draw criticism from voter fraud groupsGOP sees food fight as kids trash USDA fruit, vegetable guidelines Reagan 1984, Obama 2012 Obama racks up newspaper endorsementsPolls: Romney's Fla. lead grows, but Iowa, NH, NC remain close
+International monitors at US polling spots draw criticism from voter fraud groupsSen. Rubio: Obama has ‘given up’ on outlining second term agendaGrowing oppostion to US drones programMilitary voters still face trouble at pollsPolls: Romney's Fla. lead grows, but Iowa, NH, NC remain close
 
 Discussed
 
-International monitors at US polling spots draw criticism from voter fraud groupsObama spinning toward a lossFirst lady: President 'didn't point fingers, didn't place blame'Obama under pressure to spell out his agenda for a second termGOP sees food fight as kids trash USDA fruit, vegetable guidelines
+International monitors at US polling spots draw criticism from voter fraud groupsActor Bill Murray to CNBC: 'I think we ought to be personally responsible'Obama spinning toward a lossFirst lady: President 'didn't point fingers, didn't place blame'Obama under pressure to spell out his agenda for a second term
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Former Sen. McGovern, 1972 Dem presidential candidate, dies aged 90
-*   Report: Rep. Jesse Jackson Jr. releases robocall, tells supporters 'I am human'
-*   Contributions up, spending down for conservative super-Pac
+*   Cutter: Libya response, investigation has been a ‘transparent process’
+*   Akin likens McCaskill to a dog sent to ‘fetch’ more taxes, regulations
+*   Romney picks up endorsements from Ohio, Fla. newspapers
 
   
 More Briefing Room » Congress Blog
@@ -266,16 +266,16 @@ More Hillicon Valley » E2\-Wire (Energy)
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Gay Republican candidate anticipates a few GOP 'knuckleheads' in Congress
-*   Poll: Romney gaining ground in Ohio
-*   Obama tops Romney in September fundraising
+*   Obama lead in Ohio shrinks
+*   Poll: Romney holds narrow lead in Florida
+*   Gallup poll: Romney lead back up to 7 points
 
   
 More Ballot Box » On The Money
 
+*   Housing market returning, but not soon enough to boost Obama campaign
 *   Lawmakers have ‘fiscal cliff’ menu of options from failed debt talks
 *   Stephen Colbert may be waiting for his own 'October surprise'
-*   Senior House Democrat revives discussion of payroll tax cut extension
 
   
 More On The Money » Healthwatch
@@ -301,16 +301,16 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
+*   Obama faces long odds to close Guantanamo Bay if he tries again
 *   Military voters still face trouble at polls
 *   Rubio renews intelligence leak debate, ties threat to Libya
-*   Lieberman asks State, DOD for documents in Libya investigation
 
   
 More DEFCON Hill » Global Affairs
 
+*   Issa defends release of Libya diplomatic cables
 *   White House: No deal on Iran nuclear talks
 *   Republicans hit Obama from all sides on response to Benghazi attack
-*   Issa takes aim at President Obama with investigation of Libya attack
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Obama spins toward loss Brent Budowsky Reagan 1984, Obama 2012 More Columnists »
