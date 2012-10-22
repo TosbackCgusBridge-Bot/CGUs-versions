@@ -1,4 +1,4 @@
-  True Faith | New Order Listen Live Boston.com
+  Wake Up | Arcade Fire Listen Live Boston.com
 
 *   Home
 *   Today's Globe
