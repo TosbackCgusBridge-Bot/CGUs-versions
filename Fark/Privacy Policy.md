@@ -148,49 +148,49 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    I Couldn't Save the Whales
+    Fark - Messenger Bag
 *     
-    Jawa - Star Wars Mimobot (2GB)
+    Bump-N-Go Cybermat
 *     
-    Ballpark Gumballs
+    Ford GT (Silver/Black Stripes) Wireless Road Mice
 *     
-    I Love Nerds - Knit Beanie
+    Drinking Sticky Notes
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
-The Truth Behind NFL Logos  
+Watch Hot Cheerleaders Go Gangnam Sty...  
 Christian Bale's Wild Body Transforma...  
-Need a Morning Jolt? Try This Unusual...  
 25 of the Unhappiest Mugshots Known t...  
+The Truth Behind NFL Logos  
 More news at Scribol »  
   
   
-W. Eugene Smith's Landmark Photo Essa...  
-The Brink of Oblivion: Inside Nazi-Oc...  
-Taylor and Clift: Photos From the Set...  
-Frank Lloyd Wright: The Natural  
-More news at Life »  
+Michael Lohan to Seek Conservatorship...  
+Bank Honcho Brian Mulligan Demands In...  
+Honey Boo Boo -- Invited to Throw Dow...  
+'Real Housewives' Star -- $75k Victor...  
+More news at TMZ »  
   
   
-Pre-Labor Day Pregnant Bikini Contest  
-The State Fair Food That Will Cause Y...  
-The 20 Worst Hipster Bands: The Compl...  
-Internet Cat Video Film Festival Exists  
-More news at Village Voice »  
+Kids Costumes That Are Horrifying  
+The Sunniest Moments From Always Sunny  
+The Internet Really Hates Alex Rodriguez  
+007 Legends  
+More news at UPROXX »  
   
   
-The Most Desperate Attempt Ever to Ge...  
-The 5 Most Embarrassing Ways Churches...  
-7 Horrifying Uses of the Human Body t...  
-5 Ways Your Taste in Music is Scienti...  
-More news at Cracked »  
+Watercooler Stories  
+Jockstrip: The world as we know it.  
+Your Daily Horoscope  
+The almanac  
+More news at UPI »  
   
 
 Also on Fark
 
-Main Good: Winning a Freedom of Information Act judgment. Better: Against the FBI. Best: For $470,000 ( sfgate.com ) » (3 comments) Sports Chelsea take on a team in all-white without Terry. Elsewhere, the Canaries might get Gunned down, Mackems take on the Toon and Liverpool will draw with Reading ( guardian.co.uk ) » (143 comments) Business The next big thing in food? The grilled cheese ( moneyland.time.com ) » (166 comments) Geek Apple lets one of their top security experts, who helps find security issues on Apple products, go.....because he forgot to respond to an e-mail ( news.cnet.com ) » (0 comments) Entertainment Hollywood's a funny game. One day you're appearing topless in the first 'American Pie' movie and the next thing you know you're urging people to adopt a turkey ( mnn.com ) » (6 comments) Politics Score one for diplomacy ( nytimes.com ) » (281 comments) Video Girl with cam decides to start trash talking at everyone in convenience store. Absolutely shocked when female customer takes offense and gives her free beatdown to go (Not safe for work language) ( liveleak.com ) » (6 comments) FarkUs Another Farker book plug for a story that deals with escapism, and the lengths one will one will go to for survival on the fringe in modern America ( amazon.com ) » (0 comments)
+Main Should your 2-year-old ever be found wandering alone on a 4-lane highway, you might pause to rethink your concept of responsible parenting... yeah, but not these two ( stltoday.com ) » (38 comments) Sports Cleveland Browns receiver Josh Gordon drops potential game-winning touchdown catch in loss to Colts. The sun is there ( cleveland.cbslocal.com ) » (13 comments) Business AIG CEO upset that no one ever thanked them for all the wonderful things the company did for the U.S. economy during the collapse . No, really, he's serious ( nymag.com ) » (40 comments) Geek Can a banana be used to fix a scratched DVD? Conversely, can a scratched DVD give you your daily recommended requirement of potassium? ( news.yahoo.com ) » (13 comments) Entertainment An interview with the wonderful Michael Rooker, who talks about what we can expect from Merle this season on The Walking Dead ( insidetv.ew.com ) » (17 comments) Politics 'Paul Ryan shirtless' is Googled 9 times more that 'Paul Ryan budget' and other election facts that will make you weep for our country ( gawker.com ) » (70 comments) Video Downtown Bavarian river surfing: you better bet it's a sausage fest ( liveleak.com ) » (23 comments) FarkUs So I've seen a lot of people plug their books here. This is my latest, just out today: "The Convert" ( amazon.com ) » (16 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main Good: Winning a Freedom of Information Act judgment. Better: Against the FB
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 21 2012 08:00:37  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 22 2012 08:00:47  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
