@@ -1,4 +1,4 @@
-**TRENDING** MITT ROMNEY | IRAN | BARACK OBAMA | PRESIDENTIAL DEBATES | RICHARD LUGAR | CLAIRE MCCASKILL
+**TRENDING** MITT ROMNEY | GEORGE MCGOVERN | IRAN | BARACK OBAMA | ISRAEL | MAYO CLINIC
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  Motley Fool unveils top 10 most wasteful government-funded programs Calif. official whose agency under-reported unemployment stats was Obama campaign donor Biden livens up woman’s cancer survival story with his “inappropriate laughter” shtick    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  CBS News affiliate calls 2012 presidential race for Barack Obama weeks ahead of election **NOT WRIGHT** Report: Islamist radicals find warm welcome in Obama White House    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-Nate Silver vs. the world, ctd 8:55 PM 10/19/2012 If you thought Tuesday night’s debate got tense … 2:31 PM 10/19/2012 You can always trust Tina Brown! 7:32 AM 10/18/2012 Alpha Test 6:40 AM 10/18/2012 Biden livens up woman’s cancer survival story with his “inappropriate laughter” shtick 4:49 PM 10/19/2012 Libyan Ambassador Christopher Stevens warned the State Department about security problems… the day he was murdered 3:16 PM 10/19/2012 The most punchable faces in media, part II \[SLIDESHOW\] 3:33 PM 10/20/2012 Fat cats in tiny places \[SLIDESHOW\] 3:55 AM 10/20/2012 Top 10 most punchable faces in media \[SLIDESHOW\] 2:28 PM 10/19/2012 America’s prettiest college campuses \[SLIDESHOW\] 9:50 AM 10/19/2012 See More Photo of the Day Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Got racism? 6:58 PM 10/10/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Bishop Jackson: Black churchgoers shaken by Obama backing gay marriage \[VIDEO\] 3:48 AM 10/20/2012 Leaders with Ginni Thomas: Newt Gingrich 8:41 PM 10/14/2012 Videos Contests Sections
+Four dead and Ohio 6:43 AM 10/22/2012 Nate Silver vs. the world, ctd 8:55 PM 10/19/2012 You can always trust Tina Brown! 7:32 AM 10/18/2012 Alpha Test 6:40 AM 10/18/2012 Is Romney blocking access to Sandra Fluke’s rallies? 10:57 AM 10/21/2012 Biden livens up woman’s cancer survival story with his “inappropriate laughter” shtick 4:49 PM 10/19/2012 The definitive list of the 12 most expensive colleges in the United States \[SLIDESHOW\] 11:55 PM 10/21/2012 Sexy Sundae: Beautiful women eating ice cream \[SLIDESHOW\] 5:37 PM 10/21/2012 The most punchable faces in media, part II \[SLIDESHOW\] 3:33 PM 10/20/2012 Fat cats in tiny places \[SLIDESHOW\] 3:55 AM 10/20/2012 See More Photo of the Day Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Got racism? 6:58 PM 10/10/2012 Ask Matt Labash: Dare not to dream — an anti-political rant 10:39 PM 08/20/2012 Ask Matt Labash: The Daily Caller interns strike back 1:21 AM 08/09/2012 Bishop Jackson: Black churchgoers shaken by Obama backing gay marriage \[VIDEO\] 3:48 AM 10/20/2012 Leaders with Ginni Thomas: Bishop E.W. Jackson 6:05 PM 10/19/2012 Videos Contests Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   White House prepared to meet one-on-one with Iran
-*   Don’t bomb the foreign policy debate, Mitt
-*   Doctor shortage could take turn for the worse
+*   UN: Romney presidency ‘a democratic mandate for torture’
+*   CBS News affiliate calls 2012 presidential race for Barack Obama weeks ahead of election
+*   Family spokesman: George McGovern dead at age 90
 
 Corporate
 
