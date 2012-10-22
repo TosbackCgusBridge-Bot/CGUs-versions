@@ -111,8 +111,8 @@ Shop^
     *   Handbag Silhouettes
         
         *   Satchel &. Shoulder
-        *   Tote
         *   Crossbody
+        *   Tote
         *   Small
         *   Wallets &. Wristlets
         
