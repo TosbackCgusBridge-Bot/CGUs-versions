@@ -1,6 +1,6 @@
 (skip this header)
 
-Sunday Oct 21, 2012 5:05 AM PT
+Monday Oct 22, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,10 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Privacy being clipped
+*   Chopra: Upside of a conflict
+*   Injured vets' bike ride
 *   Chronicle election endorsements
-*   Direct vs. nonstop flights
-*   Weekend bike events
-*   Bridge closure
+*   Cuba embargo lives
 *   Giants playoff gear!
 
 *   Bay Area &. State
@@ -339,6 +338,12 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Most Haunted Homes in the U.S.
+*   Nation in Focus
+*   World in Focus
+*   Game 6: Giants vs. Cardinals
+*   People that Judge Judy makes more than
+*   Sand castle contest
 *   Zach Houston
 *   Nation in Focus
 *   Shawn Clover on SF "Mash-ups"
@@ -372,12 +377,6 @@ Ads by Yahoo! Photo Galleries
 *   Matt Carpenter’s HR hammers SF Giants
 *   Nation in Focus
 *   World in Focus
-*   Star power: Celebs and their picks for president
-*   Romney's 'Binders full of women'
-*   Celebrity wardrobe malfunctions
-*   Abandoned Bear Cub
-*   Day in Pictures, Oct. 17, 2012
-*   America's Cup boat capsizes
 
 *   Most Read
 *   |
@@ -385,54 +384,56 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Police keep mum on arrest in killing of Ore. woman
-2.  Calif. family shot. body found in hunt for gunman
-3.  Pregnant NYC woman found slain day before wedding
-4.  Giants ride wave of emotion into Game 6
-5.  Teacher arrested for allegedly grabbing students by throats in Fairfield
-6.  San Francisco police investigate Mission homicide
-7.  Building evacuated over hazardous chemicals in San Francisco's North Beach
+1.  Friends: Wife of gunman is dedicated mother
+2.  Giants' Vogelsong stifles St. Louis in 6-1 win
+3.  Tiny meteorite fragment hits Novato home
+4.  Storm to bring rain, chill, fire relief
+5.  Bridge School review: A year to forget
+6.  Name that $123,000 a day superstar: Yes, it’s Judge Judy
+7.  Vallejo police kill man during rampage
 
-1.  Barry much in it: Giants win Game 5
-2.  White House prepared to meet one-on-one with Iran
-3.  Commuters' privacy is being clipped
-4.  Star power: Celebs and their picks for president
-5.  Point Reyes declared Drake landing site
-6.  Romney and Obama head to their debate prep corners
-7.  Dozens of states make it hard to get abortions
+1.  Ross Mirkarimi met with mayoral silence
+2.  Vallejo police kill suspect in drug-fueled rampage
+3.  Psst, taxes go up in 2013 for 163 million workers
+4.  Giants beat Cardinals 6-1, force Game 7
+5.  George McGovern dies. lost 1972 presidential bid
+6.  Name that $123,000 a day superstar: Yes, it%u2019s Judge Judy
+7.  Police: Costumed Pa. girl mistaken for skunk, shot
 
-1.  Olympic star Missy Franklin commits to Cal
-2.  Comfy chicken dish with rice and ginger
-3.  S.F. Urban Prototyping Festival opens
-4.  Charitable bequests gain new adherents
-5.  Fig Food Co. tops pumpkin puree panel
-6.  As Mavericks film shows, fear is crucial
-7.  Citigroup Board Said to Oust Pandit for Poor Execution
+1.  Tiny meteorite fragment hits Novato home
+2.  Dianne Feinstein: 4 decades of influence
+3.  Storm to bring rain, chill, fire relief
+4.  Flat-panel alternative to satellite dish
+5.  Private colleges boom as Calif universities falter
+6.  SF Opera's 'Lohengrin' revitalizes tale
+7.  Denton woman 1st NC bad drug meningitis death
 
 loading... Latest News Videos From our homepage
 
 *     
-    The Oregonian, Brent Wojahn / AP
+    Brant Ward, The Chronicle / SF
     
-    Missing barista's body found
+    Game 7 here we come
     
-    Family distraught as neighbor investigated for aggravated murder in Oregon case.
+    Vogey throws another gem, hitters come alive in 6-1 Game 6 win.
+    
+*   Game 7 pressure | Overheard
+
+*     
+    John Storey, Special To The Chronicle / SF
+    
+    San Francisco Chronicle Copyright 2012 San Francisco Chronicle. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 3:04 a.m., Monday, October 22, 2012 3 blocks, 16 new restaurants
+    
+    In this small stretch of the Mission, a huge number of spots have recently opened. See 'em!
     
 
 *     
-    Lance Iversen, The Chronicle / SF
+    DAMIAN DOVARGANES, AP / AP
     
-    Big mid-season dud
+    $123,000 a day superstar
     
-    Stanford wins Big Game, rivalry suffers from scheduling snafu.
+    Judge Judy hauls in more cash than pretty much every other celebrity. Check out top earners.
     
-*   'D' wins the day | Cal sinking
-
-*   If only she could vote
-    
-    'Honey Boo Boo,' other celebs reveal their presidential picks.
-    
-*   When athletes get political
 
 *   Home
 *   News
