@@ -128,4 +128,4 @@ Book Self Publishing
 Gospel for Asia  
 Medi-Share
 
-The Knox Bible, translated from the Latin Vulgate, is now available on Bible Gateway.
+The Knox Bible, translated from the Latin Vulgate, is now available on Bible Gateway. Close
