@@ -234,7 +234,7 @@ Shop by Department
     *   Automobile &. Motorcycles Magazines
     *   Business &. Finance Magazines
     *   News, Politics &. Newspapers
-    *   Electronics &. Technology Magazines
+    *   Sports &. Outdoors Magazines
     *   See More...
 *   Movies
 *   Music
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1502 Local Deals
+*   1524 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
