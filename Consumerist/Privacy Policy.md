@@ -124,11 +124,11 @@ Tell a friend:
 
 **Want Consumerist in your inbox?** Popular Posts
 
-*   Is Microsoft About To Unleash A Kraken Of Suck On Consumers?
-*   Don't Know How To Create A Pat Of Butter? Help Is Here
-*   T.G.I. Friday's Customer Attempts To Pick Up Waiter With Quite A Subtle, Classy Line
-*   iPhone 5 Data-Gobbling Bug Affects AT&T Customers, Too
-*   Banana Boat Sunscreen Recalled Because Your Skin Isn't Supposed To Be Set On Fire
+*   Restaurant Owners Unite To Snare Free-Lunch Scam Artist
+*   Amazon Erases Customer's Kindle, Wishes Her Luck In Finding Somewhere Else To Shop
+*   Arby's Fires Worker After She Had To Flee The Restaurant During Armed Robbery
+*   4 Black Friday Myths Debunked
+*   Restaurant Says 'No Pets,' Tries To Make Iraq Vet And Her Service Dog Leave
 
 About Consumerist
 
