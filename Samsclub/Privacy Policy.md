@@ -317,7 +317,7 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         
         Mixed Bouquets
         
-        Florist Delivered Bouquets Wedding Flowers
+        Bouquets Delivered by Teleflor... Wedding Flowers
         
         Collections
         
