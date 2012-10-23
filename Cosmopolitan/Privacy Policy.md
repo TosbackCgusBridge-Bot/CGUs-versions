@@ -215,7 +215,6 @@ More
 
 Sex How-To's
 
-*   How to Give a Hand Job
 *   How to Talk Dirty
 *   How to Have Sex
 *   How to Give a Blow Job
