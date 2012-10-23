@@ -7,7 +7,7 @@ Skip to Content Browse all medications  A B C D E F G H I J K L M N O P Q R S T
 *   Health Professionals
 *   Q &. A
 *   Mednotes
-*   Mobile Apps
+*   Apps
 
 Home → Support → **Privacy Policy** Privacy Policy
 
@@ -137,11 +137,11 @@ More FDA Updates...
 
 Recently Approved
 
+*   CystaranCystaran (cysteamine cysteamine ophthalmic solution) is a cystine-depleting agent indicated for the...
 *   Quillivant XRQuillivant XR (methylphenidate) is a central nervous system (CNS) stimulant indicated for the treatment of...
 *   StivargaStivarga (regorafenib) is an oral multi-kinase inhibitor for the treatment of patients with metastatic...
 *   AubagioAubagio (teriflunomide) is an oral pyrimidine synthesis inhibitor indicated for the treatment of patients...
 *   BosulifBosulif (bosutinib) is a kinase inhibitor indicated for the treatment of adult patients with chronic,...
-*   XtandiXtandi (enzalutamide) is an androgen receptor inhibitor indicated for the treatment of patients with...
 
 More...
 
@@ -173,4 +173,4 @@ Advertisement Close Recommended
 
 *   Symptom Checker
 
-(web6)
+(web2)
