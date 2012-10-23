@@ -73,11 +73,11 @@ What's Hot
 
 Fall TV Popularity Contest
 
-Weekend Box Office
+_Dancing_ Recap
 
-Bruno Mars on _SNL_
+World Series Schedule
 
-_Private Practice_ Ending
+_Blue Bloods_ Benches Esposito
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -129,18 +129,18 @@ more popular tv shows Most Popular Celebrities
 
 more popular celebrities Most Popular Movies
 
-1.  Taken 2
-2.  Hotel Transylvania
-3.  Looper
-4.  End Of Watch
-5.  Trouble With The Curve
+1.  Paranormal Activity 4
+2.  Argo
+3.  Hotel Transylvania
+4.  Taken 2
+5.  Alex Cross
 
 more popular movies Top Videos
 
 1.  The Vampire Diaries
 2.  The Vampire Diaries
-3.  Dexter
-4.  Arrow
+3.  Arrow
+4.  Dexter
 5.  Supernatural
 
 more top videos
