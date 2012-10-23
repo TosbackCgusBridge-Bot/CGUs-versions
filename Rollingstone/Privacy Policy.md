@@ -30,13 +30,13 @@ Rolling Stone Skip to the content.
 *   •
 *   Random Notes
 *   •
-*   RS on RDIO
+*   Bruce Springsteen in RS
+*   •
+*   Voodoo Festival
+*   •
+*   RS Soundtrack
 *   •
 *   On the Road
-*   •
-*   On the Road App
-*   •
-*   RS Music News App
 
 *   Matt Taibbi
 *   Peter Travers
