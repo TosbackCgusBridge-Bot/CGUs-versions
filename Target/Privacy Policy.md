@@ -470,7 +470,7 @@ plus everyday free shipping
 
 apply now Target
 
-privacy policy - | cookies | terms &. conditions | CA privacy rights | CA transparency in supply chains act | about this site
+privacy policy | cookies | terms &. conditions | CA privacy rights | CA transparency in supply chains act | about this site
 
 © 2012 Target Brands, Inc. Target, the Bullseye Design and Bullseye Dog are trademarks of Target Brands, Inc. All rights reserved.
 
