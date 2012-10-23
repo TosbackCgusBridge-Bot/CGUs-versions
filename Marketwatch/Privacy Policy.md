@@ -1,4 +1,4 @@
-Bulletin Investor Alert
+Bulletin 3M earnings edge up in third quarter, but full-year outlook is cut Investor Alert
 
 New York Markets Open in:
 
@@ -198,94 +198,101 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 22, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 23, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:06a
+/news/latest1.  8:05a
     
-    Peabody Energy Q3 net 46c vs $1.04
+    Illinois Tool Works Q3 cont ops $1.12
     
-2.  8:06a
+2.  8:04a
     
-    Peabody adj Q3 net 51c vs adj 90c
+    Illinois Tool Works Q3 net $1.12 vs. $1.04
     
 3.  8:04a
     
-    Pfizer buying NextWave Pharma for up to $680 mln
+    Illinois Tool Works revenue $4.5 bln vs $4.6 bln
     
-4.  8:00a
+4.  8:01a
     
-    Halcon buying N. Dakota acreage for $1.45 bln
+    Updates, advisories and surprises
     
-5.  7:53a
+5.  8:01a
     
-    BP, miners help lift U.K. stocks
+    UPS sees 'greater confidence' in Q4 execution
     
-6.  7:52a
+6.  8:00a
     
-    BP selling TNK-BP stake to Rosneft for cash, stock
+    Big earnings watch Tuesday: DuPont, RadioShack
     
-7.  7:50a
+7.  7:59a
     
-    Caterpillar falls 0.6% in premarket trades
+    UPS adj. Q3 net $1.06
     
-8.  7:50a
+8.  7:59a
     
-    Caterpillar profit climbs 49%, cuts view
+    UPS Q3 net 48c vs. $1.09
     
-9.  7:49a
+9.  7:59a
     
-    VF profit rises, aided by Timberland
+    UPS sees 2012 profit of $4.55-$4.65
     
-10.  7:49a
+10.  7:59a
     
-    Stocks to watch Monday: Caterpillar, Yahoo
+    UPS Q3 revenue $13.07 bln vs $13.17 bln
     
-11.  7:48a
+11.  7:54a
     
-    Halcon buying N. Dakota fields for $1.45 bln
+    Facebook expected to show revenue gains
     
-12.  7:40a
+12.  7:54a
     
-    Caterpillar Q3 revenue $16.45 bln vs $15.72 bln
+    RadioShack slumps on bigger-than-expected loss
     
-13.  7:40a
+13.  7:52a
     
-    Caterpillar cuts 2012 view to $9-$9.25
+    Radio update: Wall Street set to plunge
     
-14.  7:40a
+14.  7:50a
     
-    Caterpillar's earlier 2012 view was about $9.60
+    3M cuts 2012 profit view, Q3 earnings edge up
     
-15.  7:39a
+15.  7:46a
     
-    Caterpillar Q3 EPS $2.54 vs $1.71
+    Stock futures sink. DuPont, RadioShack lead falls
     
-16.  7:39a
-    
-    Caterpillar latest quarter includes $273 mln gain
-    
-17.  7:35a
-    
-    Radio update: Private investors buy Ancestry.com
-    
-18.  7:28a
-    
-    Europe stocks inch higher with earnings in focus
-    
-19.  7:20a
-    
-    Stock futures higher. Caterpillar, Yahoo in focus
-    
-20.  7:17a
+16.  7:37a
     
     BREAKING
     
-    Rosneft to pay BP $17.1B cash and 12.84% stake
+    3M cuts 2012 view to $6.27-$6.35
+    
+17.  7:37a
+    
+    3M's earlier 2012 view was $6.35-$6.50
+    
+18.  7:37a
+    
+    3M cites 'current economic realities'
+    
+19.  7:35a
+    
+    3M Q3 net $1.65 vs. $1.52
+    
+20.  7:35a
+    
+    3M Q3 sales dip 0.4% to $7.5 bln
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,343.51 -205.43 -1.52% nasdaq /quotes/zigman/123127 3,005.62 -67.24 -2.19% s&p 500 /quotes/zigman/3870025 1,433.19 -24.15 -1.66% Kiosk
+dow /quotes/zigman/627449 13,345.89 +2.38 +0.02% nasdaq /quotes/zigman/123127 3,016.96 +11.33 +0.38% s&p 500 /quotes/zigman/3870025 1,433.82 +0.63 +0.04% Kiosk
 
+*   1341573300000 1341592200000
+    
+    From Fox Business
+    
+    Â  Â  seana smith  
+    Trouble for tech ETFs  
+    After a strong start to the year, some tech-based ETFs are fighting to hold on to gains as big drops by Apple and Google hit the sector. Â  /conga/kiosk/marketfox.html 231928
 *   1238817600000 1270353600000
     
     Slide Show
