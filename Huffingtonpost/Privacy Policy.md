@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 22, 2012 Edition: **U.S.**
+October 23, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 22, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Obama, Romney Now Tied: Poll 19k
-    *   Tracking Polls: A Post-Debate Uptick For Obama? 23k
-    *   Obama, Romney, Quiet On Tax Issue 3k
-    *   Former Senator George McGovern Dies At 90 2k
-    *   LISTEN: Todd Akin Compares Claire McCaskill To A Dog 3k
+    *   Obama, Romney Spar On Foreign Policy In Final Presidential Debate 20k
+    *   'We Also Have Fewer Horses And Bayonets' 14k
+    *   LIVE UPDATES: Obama, Romney Face Off In Final Presidential Debate 23k
+    *   Obama Holds Narrow Lead In Ohio 8k
+    *   POLL: Who Won The Debate? 688
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 22, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   Country Music Stars, Fortune 500 Execs Among Millionaires Using Farmland Tax Loophole 623
-    *   Jobs That Make Workers Feel Really Guilty 305
-    *   Worst Business Decisions Of All Time 57
+    *   Country Music Stars, Fortune 500 Execs Among Millionaires Using Farmland Tax Loophole 1k
+    *   Matt Taibbi: Romney Is 'A Salesman And Bulls\*\*t Artist Of The Highest Order' 2k
+    *   WHOOPS: Romney Commits Obamacare Debate Fail 742
     *   The Super-Rich People Bankrolling The Presidential Election 1k
-    *   WATCH: Ex-Banker Greg Smith Tells '60 Minutes' Goldman Sachs Mistreated Clients 411
+    *   Mitt Romney Misrepresents Previous Auto Bailout Stance At Third Presidential Debate 898
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 22, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   Clint Eastwood's Daughter Says She's Not Voting For Romney 3k
+    *   15 Best Twist Endings In Movies 478
+    *   'Cloud Atlas' Directors Respond To Race Controversy 125
+    *   Taylor Swift: John Mayer Is 'Presumptuous' 134
+    *   WATCH: 'Iron Man 3' Trailer 172
     *   Obama Gives Jay-Z Parenting Advice 1k
-    *   Headed To 'The Hobbit' 121
-    *   'Hangover 3' Shuts Down California Freeway 59
-    *   WATCH: Alicia Keys' New 'Girl On Fire' Video 72
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 22, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   Only 2 More Days Until We See The 'iPad Mini' 179
-    *   Apple Drops Widely Used Software Over Security Risks 584
-    *   Another Top Facebook Exec Calls It Quits 29
-    *   Life As An OkCupid Moderator 16
-    *   The 9 Most Popular Viral Videos Of The Week 11
+    *   So Real, It's Scary: Viral Marketing Campaign Films Elevator Riders Tricked Into Thinking The Floor Is Falling Away 202
+    *   Life As An OkCupid Moderator 355
+    *   Another Top Facebook Exec Calls It Quits 53
+    *   Twitter Cyberbullies Use News Of Adele's Birth As An Excuse To Taunt Star With Fat Jokes And Even A Death Threat 11
+    *   Problems With Netflix And Reddit? It's Not Just You 35
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 22, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   Female Reporter 'Savagely Attacked' In Cairo 3k
-    *   Schieffer Faces Mounting Pressure Going Into Debate 1k
-    *   PHOTO: New Yorker Cover Hits Romney 1k
-    *   News Corp Denies Reports Of Interest In 2 Major Newspapers 291
-    *   PHOTOS: Journalists Remember George McGovern 13
+    *   New Yorker Announces Presidential Endorsement 5k
+    *   WATCH: O'Brien Shuts Republican Down Over Libya 7k
+    *   WHOOPS: Bob Schieffer Makes Obama Gaffe 537
+    *   Bob Schieffer Criticized For Letting Debate Get Off Rails 1k
+    *   Bob Schieffer Signals His Debate Plans 1k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 22, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   Fidel Castro Reportedly Appears In Public 713
-    *   Protesters Storm Lebanese Government HQ 827
-    *   White House Denies U.S.-Iran Nuclear Talks Report 3k
-    *   'October Surprise' Has Observers Mystified Ahead Of Foreign Policy Debate 2k
-    *   Afghan Mother Reportedly Beheads Daughter-In-Law When She Refuses To Be A Prostitute 1k
+    *   'October Surprise' Has Observers Mystified Ahead Of Foreign Policy Debate 6k
+    *   World's Oldest Auschwitz Survivor Dies 387
+    *   Pussy Riot Members Sent To Remote Russian Prison Camps 1k
+    *   Castro Proof-Of-Lifes Himself 441
+    *   Fidel Castro Reportedly Appears In Public 985
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 22, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Jennifer Lost 200 Pounds: 'I Ate Because I Was Bored. I Ate Because I Was Lonely. I Ate Because I Could’ 92
-    *   A Brain Booster.. A Natural Fat Blaster.. A Cancer Fighter: 7 Great Benefits Of _This_ Tea 151
-    *   10 New Foods To Power Up Your Workout
-    *   Should You Let Your Dog Sleep In The Bed? 27
-    *   The Baker, The Free Food Fiend, The Food Bully: Which Workplace Diet Saboteur Is Your Biggest Weakness? 34
+    *   Danielle Lost 125 Pounds: 'Instead Of Turning To Swiss Cake Rolls To Deal With Stress, I Turned To Sweat' 11
+    *   Should You Let Your Dog Sleep In The Bed? 203
+    *   Fit For Office: Who's The Fittest President Of All Time? 92
+    *   Pumpkin Lattes, Apple Cider And More: What's _Really_ In Your Seasonal Fall Drinks? 20
+    *   10 New Foods To Power Up Your Workout 13
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 22, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
-    *   PHOTOS: See How Kanye Upgraded Kim's Closet 115
-    *   PHOTOS: Prince Guillaume &. Stephanie De Lannoy's Glamorous Royal Wedding In Luxembourg 213
-    *   PHOTO: Mena Suvari Goes A Little Cutout Crazy 300
-    *   PHOTO: Beyonce &. Jay Z Prove They're The Hippest Parents Ever 24
-    *   Our Favorite Instagrams This Week! 19
+    *   PHOTOS: Prince Guillaume &. Stephanie De Lannoy's Glamorous Royal Wedding In Luxembourg 234
+    *   PHOTO: See LeAnn Rimes Without Makeup 66
+    *   'She Does Have A Great Pair Of Boobs' 188
+    *   Ann Romney Hits The Beach In A Halter Swimsuit 108
+    *   PHOTO: Mena Suvari Goes A Little Cutout Crazy 333
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 22, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   WATCH: Maher Unearths Another Secret Video Of Mitt 2k
-    *   WATCH: SNL Mocks 2nd Presidential Debate 981
-    *   The Funniest News Corrections 24
+    *   The Funniest News Corrections 35
     *   PHOTOS: The Most WTF Halloween Decorations
-    *   PICTURE: Kid Loves Bacon According To Homework 39
+    *   WATCH: This Guy Is About To Do Something Awesome 60
+    *   Hooray For Ellen! 396
+    *   WATCH: Maher Unearths Another Secret Video Of Mitt 2k
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 22, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next Are We There Yet?
-    *   Next GOTV
-    *   Coming Up The GOP's Lost Plank
-    *   Coming Up Swung By Hollywood
-    *   Coming Up Interracial Dating GameGo to HuffPost Live
+    *   Next Debate: Best Moments
+    *   Next Debate: Afghanistan
+    *   Coming Up Debate: Middle East
+    *   Coming Up Debate: China
+    *   Coming Up The Alliance From HellGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
