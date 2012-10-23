@@ -113,56 +113,56 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/22/2012 7:02 AM ET
+Updated: 10/23/2012 8:02 AM ET
 
-1.  1 Romney's toughest debate
-2.  2 Adelson-Berkley feud comes to head
+1.  1 Trump claims Obama bombshell
+2.  2 Who won the debate?
+3.  3 7 takeaways from final debate
+4.  4 D.C. caught off guard by Obama sequester vow
+5.  5 Obama takes Romney to school
+6.  6 Sharp reaction to Obama's 'horses and bayonets'
+7.  7 Transcript: Third presidential debate
+8.  8 Celebs react to the final presidential debate
+9.  9 Obama tears into Mitt at last debate
+10.  10 No debate: Schieffer got it just right
+
+Updated: 10/23/2012 8:02 AM ET
+
+1.  1 Trump claims Obama bombshell
+2.  2 Reporter 'not allowed' to talk to voters at Biden event
 3.  3 Battleground Tracking Poll: Mitt leads
-4.  4 The truth about the tea party
-5.  5 Gallup chief: Our poll is 'extremely solid'
-6.  6 Colbert's super PAC may get last laugh
-7.  7 5 things to watch in Monday's debate
-8.  8 Top 10 blown calls of 2012
-9.  9 Issa defends releasing documents
-10.  10 Schieffer in middle seat at last debate
+4.  4 Issa subpoenas Medicare documents
+5.  5 O'Brien to Giuliani: 'Let me finish'
+6.  6 6 questions that will settle election
+7.  7 The truth about the tea party
+8.  8 5 things to watch in Monday's debate
+9.  9 Romney's toughest debate
+10.  10 Who won the debate?
 
-Updated: 10/22/2012 7:02 AM ET
+Updated: 10/23/2012 8:02 AM ET
 
-1.  1 Romney's toughest debate
-2.  2 Adelson-Berkley feud comes to head
-3.  3 Colbert's super PAC may get last laugh
-4.  4 GOP finds new hope in Pennsylvania
-5.  5 Top 10 blown calls of 2012
+1.  1 Trump claims Obama bombshell
+2.  2 Reporter 'not allowed' to talk to voters at Biden event
+3.  3 Battleground Tracking Poll: Mitt leads
+4.  4 Issa subpoenas Medicare documents
+5.  5 Romney's toughest debate
 6.  6 The truth about the tea party
-7.  7 Schieffer in middle seat at last debate
-8.  8 Gallup chief: Our poll is 'extremely solid'
-9.  9 Chemical-weapon threat in Mass.
-10.  10 2012 campaign cash: $1B vs. $1B
+7.  7 O'Brien to Giuliani: 'Let me finish'
+8.  8 6 questions that will settle election
+9.  9 5 things to watch in Monday's debate
+10.  10 Adelson-Berkley feud comes to head
 
-Updated: 10/22/2012 7:02 AM ET
+Updated: 10/23/2012 8:02 AM ET
 
-1.  1 GOP finds new hope in Pennsylvania
-2.  2 Colbert's super PAC may get last laugh
-3.  3 Romney's toughest debate
-4.  4 VP debate transcript
-5.  5 Ann Romney corrects Whoopi
-6.  6 Adelson-Berkley feud comes to head
-7.  7 Mitt keeps distance from Rick Scott
-8.  8 O'Donnell taunts Tagg Romney
-9.  9 Top 10 blown calls of 2012
-10.  10 Right's pro-Israel groups take risk
-
-Updated: 10/22/2012 7:02 AM ET
-
-1.  1 Clinton trashes whiners
-2.  2 CPD: Crowley shouldn't reinterpret questions
+1.  1 Trump claims Obama bombshell
+2.  2 Clinton trashes whiners
 3.  3 Obama gets more time
-4.  4 Candy Crowley to defy debate contract
-5.  5 VP debate transcript
-6.  6 Crowley: 'I'm not a fly on the wall'
-7.  7 6 takeaways from the debate
-8.  8 Soledad O'Brien: Obama 'up 15' in Virginia
-9.  9 GOP seizes Obama 'optimal' moment
+4.  4 Reporter 'not allowed' to talk to voters at Biden event
+5.  5 Candy Crowley to defy debate contract
+6.  6 6 takeaways from the debate
+7.  7 Soledad O'Brien: Obama 'up 15' in Virginia
+8.  8 GOP seizes Obama 'optimal' moment
+9.  9 Battleground Tracking Poll: Mitt leads
 10.  10 GOP's problems exposed in Senate
 
 *   Last 12 Hours
@@ -170,65 +170,72 @@ Updated: 10/22/2012 7:02 AM ET
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/22/2012 7:02 AM ET
+Updated: 10/23/2012 8:02 AM ET
 
-1.  1 Battleground Tracking Poll: Mitt leads
-2.  2 Obama's contempt for voters
-3.  3 Romney's toughest debate
+1.  1 Ryan jabs Obama on 'bayonets'
+2.  2 Romney wins debate season
+3.  3 2012: The battle for 7 states
+4.  4 No debate: Schieffer got it just right
+5.  5 D.C. caught off guard by Obama sequester vow
+6.  6 7 takeaways from final debate
+7.  7 Obama takes Romney to school
+8.  8 Media: Obama in fighting mood
+9.  9 Sharp reaction to Obama's 'horses and bayonets'
+10.  10 Fact-checking the final debate
 
-Updated: 10/22/2012 7:02 AM ET
+Updated: 10/23/2012 8:02 AM ET
 
-1.  1 Battleground Tracking Poll: Mitt leads
-2.  2 Obama's contempt for voters
-3.  3 Romney's toughest debate
-4.  4 Brokaw: McGovern a humble man
-5.  5 Poll: Jobs top issue for military
-6.  6 Hoax in chemical-weapons case
-7.  7 Adelson-Berkley feud comes to head
-8.  8 Friend: McGovern 'never betrayed his soul'
-9.  9 Obama, Romney salute RGIII
-10.  10 Chemical-weapon threat in Mass.
+1.  1 Ryan jabs Obama on 'bayonets'
+2.  2 Romney wins debate season
+3.  3 2012: The battle for 7 states
+4.  4 No debate: Schieffer got it just right
+5.  5 D.C. caught off guard by Obama sequester vow
+6.  6 7 takeaways from final debate
+7.  7 Obama takes Romney to school
+8.  8 Media: Obama in fighting mood
+9.  9 Sharp reaction to Obama's 'horses and bayonets'
+10.  10 Fact-checking the final debate
 
-Updated: 10/22/2012 7:02 AM ET
+Updated: 10/23/2012 8:02 AM ET
 
-1.  1 Battleground Tracking Poll: Mitt leads
-2.  2 Obama's contempt for voters
-3.  3 Romney's toughest debate
-4.  4 Brokaw: McGovern a humble man
-5.  5 Poll: Jobs top issue for military
-6.  6 Hoax in chemical-weapons case
-7.  7 Adelson-Berkley feud comes to head
-8.  8 Friend: McGovern 'never betrayed his soul'
-9.  9 Obama, Romney salute RGIII
-10.  10 Chemical-weapon threat in Mass.
+1.  1 Ryan jabs Obama on 'bayonets'
+2.  2 Romney wins debate season
+3.  3 2012: The battle for 7 states
+4.  4 No debate: Schieffer got it just right
+5.  5 D.C. caught off guard by Obama sequester vow
+6.  6 7 takeaways from final debate
+7.  7 Obama takes Romney to school
+8.  8 Media: Obama in fighting mood
+9.  9 Sharp reaction to Obama's 'horses and bayonets'
+10.  10 Fact-checking the final debate
 
-Updated: 10/22/2012 7:02 AM ET
+Updated: 10/23/2012 8:02 AM ET
 
-1.  1 Battleground Tracking Poll: Mitt leads
-2.  2 Obama's contempt for voters
-3.  3 Romney's toughest debate
-4.  4 Brokaw: McGovern a humble man
-5.  5 Poll: Jobs top issue for military
-6.  6 Hoax in chemical-weapons case
-7.  7 Adelson-Berkley feud comes to head
-8.  8 Friend: McGovern 'never betrayed his soul'
-9.  9 Obama, Romney salute RGIII
-10.  10 Chemical-weapon threat in Mass.
+1.  1 Ryan jabs Obama on 'bayonets'
+2.  2 Romney wins debate season
+3.  3 2012: The battle for 7 states
+4.  4 No debate: Schieffer got it just right
+5.  5 D.C. caught off guard by Obama sequester vow
+6.  6 7 takeaways from final debate
+7.  7 Obama takes Romney to school
+8.  8 Media: Obama in fighting mood
+9.  9 Sharp reaction to Obama's 'horses and bayonets'
+10.  10 Fact-checking the final debate
 
 Showing Last 7 Days
 
-Updated: 10/22/2012 7:02 AM ET
+Updated: 10/23/2012 8:02 AM ET
 
-1.  1 Romney's toughest debate
-2.  2 Obama's 'Romnesia' remedy
-3.  3 Obama: Mitt has 'Romnesia'
-4.  4 O'Donnell taunts Tagg Romney
-5.  5 GOP groups spill secrets
-6.  6 GOP's problems exposed in Senate
-7.  7 6 takeaways from the debate
-8.  8 Fight night on Long Island
-9.  9 5 unmet Obama promises
-10.  10 Crowley: 'I'm not a fly on the wall'
+1.  1 Obama tears into Mitt at last debate
+2.  2 Trump claims Obama bombshell
+3.  3 Romney's toughest debate
+4.  4 Obama's 'Romnesia' remedy
+5.  5 Obama: Mitt has 'Romnesia'
+6.  6 O'Donnell taunts Tagg Romney
+7.  7 GOP groups spill secrets
+8.  8 GOP's problems exposed in Senate
+9.  9 6 takeaways from the debate
+10.  10 Fight night on Long Island
 
 News
 
