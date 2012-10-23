@@ -95,6 +95,7 @@ Select a 'Privacy &. Safety' sub category:
 *   What are "cookies" and "action tags" and how are they utilized?
 *   The Website
 *   Information collected from you and our use of it
+*   Facebook Application Privacy Policy
 *   Links
 *   Your Security
 *   How to limit the use of your information from Third Parties
@@ -157,6 +158,40 @@ With respect to such third-party websites, we do not control such third-parties.
 There are times when we might combine certain information received from a user on our website, e-mails, regular mail, fax and/or telephone from our affiliates and third parties. This material is utilized to create a better shopping environment and to communicate with you in accordance with our Privacy Policy. It is further to be noted that any personal user information entered on any of our public forums which is set forth in our Terms of Use including, but not limited to, contests, surveys, discussion groups, reviews, etc. are not protected by our Privacy Policy and same may be collected, shared or used by us and third parties, including contacting the user. Any information from a user that is posted on any of our public forums, the user discloses at their own risk.  
   
 Please be advised that we do not share e-mail addresses with third parties without your consent. If there is any additional information that you do not wish to be shared with third parties, please e-mail, write or call us. Any instructions you give us will be processed as soon as practicable and in accordance with the law.
+
+back to top
+
+Facebook Application Privacy Policy
+
+FragranceNet.Com, Inc. ("FragranceNet") respects your privacy and values the relationship we have with you. If you use this application it is subject to this Privacy Policy and the Privacy policy of the FragranceNet.com website. Your general use of Facebook and/or your relationship with Facebook is subject to Facebook's Privacy Policy and any other Facebook's terms and policies, which FragranceNet.com does not control. This Privacy Policy describes how we, at FragranceNet.com, may use and share the information we acquire with this application on Facebook.
+
+Information We Collect
+
+Through our Website and any affiliated websites and emails, including Facebook applications, all information that you give us whether placing an order, emailing us, joining in a contest, membership and/or promotion or otherwise, is collected by us. We collect the following information: your name, address, telephone number, email address, birth date, billing information (credit card number, expiration date and billing address), products purchased, all appropriate promotion codes and information. If a gift is sent, the recipients' name, address, message and any other information you provide to us may also be collected.
+
+Information We Receive From Facebook
+
+When you visit the application, it may collect any information you have made visible to "Everyone" on Facebook as well as the information Facebook designates as your publicly available information. This includes your name, profile picture, gender, current city, and networks. The application may ask you to allow it access to additional information. When you allow the application to access additional information, and when you use the application, the application will automatically collect other Information We Receive From Facebook about you. We use this information to operate the application.
+
+Independent Information
+
+The application will ask you to explicitly provide certain information to us. This information may include but is not limited to your first and last name, and email address. We will use this information solely for the purpose of operating the application. As we use Information We Receive From Facebook, your information will not be shared or posted to the wall in any way. We generally use Independent Information for the same purposes as we use Information We Receive From Facebook. If you so elect, you may also opt-in to receive marketing emails from us, subject to our Privacy Policy located at http://www.fragrancenet.com/f/net/privacy.html
+
+We generally use Independent Information for the same purposes as we use Information We Receive From Facebook. We also may use Independent Information for other purposes mentioned in our Online Privacy Policy located at http://www.fragrancenet.com/f/net/privacy.html which applies to all Independent Information. For further details about Independent Information and our handling of it, please visit our Online Privacy Policy located at http://www.fragrancenet.com/f/net/privacy.html
+
+How We Share information We Receive From Facebook
+
+We may disclose Information We Receive From Facebook to our affiliates and service providers to the extent permitted by Facebook. We will not provide such information to third parties for their use in marketing their products or services to you without your consent, but we do not control Facebook's own use of content and information it collects in relation to your use of this application. We may share some Information We Receive From Facebook with other users of Facebook, including other users of the application, as described above.
+
+We may disclose any Information We Receive From Facebook we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. In addition, we may disclose Information We Receive From Facebook when we believe, in our sole discretion, disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with suspected or actual illegal activity.
+
+Updates To This Privacy Policy
+
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a notice in the Info section of the application's profile to notify you of any significant changes to the Privacy Policy and indicate there and at the top of the Policy when it was most recently updated.
+
+How To Contact Us
+
+If you have any questions or comments about this privacy notice, please contact us by email at feedback@fragrancenet.com
 
 back to top
 
@@ -286,7 +321,7 @@ friend
 *   Privacy Statement
 *   Contact FragranceNet.com
 
-Customer Service Code: 83A
+Customer Service Code: 83B
 
 More about FragranceNet.com
 
@@ -426,6 +461,40 @@ With respect to such third-party websites, we do not control such third-parties.
 There are times when we might combine certain information received from a user on our website, e-mails, regular mail, fax and/or telephone from our affiliates and third parties. This material is utilized to create a better shopping environment and to communicate with you in accordance with our Privacy Policy. It is further to be noted that any personal user information entered on any of our public forums which is set forth in our Terms of Use including, but not limited to, contests, surveys, discussion groups, reviews, etc. are not protected by our Privacy Policy and same may be collected, shared or used by us and third parties, including contacting the user. Any information from a user that is posted on any of our public forums, the user discloses at their own risk.  
   
 Please be advised that we do not share e-mail addresses with third parties without your consent. If there is any additional information that you do not wish to be shared with third parties, please e-mail, write or call us. Any instructions you give us will be processed as soon as practicable and in accordance with the law.
+
+back to top
+
+Facebook Application Privacy Policy
+
+FragranceNet.Com, Inc. ("FragranceNet") respects your privacy and values the relationship we have with you. If you use this application it is subject to this Privacy Policy and the Privacy policy of the FragranceNet.com website. Your general use of Facebook and/or your relationship with Facebook is subject to Facebook's Privacy Policy and any other Facebook's terms and policies, which FragranceNet.com does not control. This Privacy Policy describes how we, at FragranceNet.com, may use and share the information we acquire with this application on Facebook.
+
+Information We Collect
+
+Through our Website and any affiliated websites and emails, including Facebook applications, all information that you give us whether placing an order, emailing us, joining in a contest, membership and/or promotion or otherwise, is collected by us. We collect the following information: your name, address, telephone number, email address, birth date, billing information (credit card number, expiration date and billing address), products purchased, all appropriate promotion codes and information. If a gift is sent, the recipients' name, address, message and any other information you provide to us may also be collected.
+
+Information We Receive From Facebook
+
+When you visit the application, it may collect any information you have made visible to "Everyone" on Facebook as well as the information Facebook designates as your publicly available information. This includes your name, profile picture, gender, current city, and networks. The application may ask you to allow it access to additional information. When you allow the application to access additional information, and when you use the application, the application will automatically collect other Information We Receive From Facebook about you. We use this information to operate the application.
+
+Independent Information
+
+The application will ask you to explicitly provide certain information to us. This information may include but is not limited to your first and last name, and email address. We will use this information solely for the purpose of operating the application. As we use Information We Receive From Facebook, your information will not be shared or posted to the wall in any way. We generally use Independent Information for the same purposes as we use Information We Receive From Facebook. If you so elect, you may also opt-in to receive marketing emails from us, subject to our Privacy Policy located at http://www.fragrancenet.com/f/net/privacy.html
+
+We generally use Independent Information for the same purposes as we use Information We Receive From Facebook. We also may use Independent Information for other purposes mentioned in our Online Privacy Policy located at http://www.fragrancenet.com/f/net/privacy.html which applies to all Independent Information. For further details about Independent Information and our handling of it, please visit our Online Privacy Policy located at http://www.fragrancenet.com/f/net/privacy.html
+
+How We Share information We Receive From Facebook
+
+We may disclose Information We Receive From Facebook to our affiliates and service providers to the extent permitted by Facebook. We will not provide such information to third parties for their use in marketing their products or services to you without your consent, but we do not control Facebook's own use of content and information it collects in relation to your use of this application. We may share some Information We Receive From Facebook with other users of Facebook, including other users of the application, as described above.
+
+We may disclose any Information We Receive From Facebook we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. In addition, we may disclose Information We Receive From Facebook when we believe, in our sole discretion, disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with suspected or actual illegal activity.
+
+Updates To This Privacy Policy
+
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a notice in the Info section of the application's profile to notify you of any significant changes to the Privacy Policy and indicate there and at the top of the Policy when it was most recently updated.
+
+How To Contact Us
+
+If you have any questions or comments about this privacy notice, please contact us by email at feedback@fragrancenet.com
 
 back to top
 
