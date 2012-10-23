@@ -1,9 +1,10 @@
 Editions:
 
 Login or Register Username: Password: Keep me logged in Forgot Password? Don't have an account? Register Here.  
-Official partner of the Lance Armstrong Foundation
+Official partner of the LIVESTRONG Foundation
 
-Our partner, the Lance Armstrong Foundation fights to improve the lives of people affected by cancer.
+Our partner, the LIVESTRONG Foundation  
+fights to improve the lives of people affected by cancer.
 
 *   Cancer Support  
     We can help you or a loved one fight cancer.  
@@ -16,7 +17,7 @@ Our partner, the Lance Armstrong Foundation fights to improve the lives of peopl
     Walk, Run, Ride or Tri in the fight against cancer.  
     Join the Team
 
-Millions of people use LIVE**STRONG.COM** to live a healthy lifestyle. Watch the video to learn how this site helps the Lance Armstrong Foundation's global fight against cancer.
+Millions of people use LIVE**STRONG.COM** to live a healthy lifestyle. Watch the video to learn how this site helps the LIVESTRONG Foundation's global fight against cancer.
 
 Lose 25 percent more weight LIVESTRONG.COM The limitless potential of you
 
@@ -241,14 +242,14 @@ Your email is safe with us. We hate spam too!
 
 Featured this week on livestrong.com
 
+*   Oct 21, 2012 Beat High Heel Pain  
+    
 *   Oct 20, 2012 Top Tips For Reading  
     Nutrition Labels
 *   Oct 19, 2012 The Do's and Don'ts  
     Of Perfect Eyebrows
 *   Oct 18, 2012 The 20 Best  
     Body Weight Exercises
-*   Oct 17, 2012 How The 'Net Is Changing  
-    Your Healthcare
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
 
