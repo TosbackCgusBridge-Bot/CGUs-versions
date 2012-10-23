@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Sen. Rubio: Obama has ‘given up’ on outlining second term agendaInternational monitors at US polling spots draw criticism from voter fraud groupsObama spinning toward a lossRomney picks up endorsements from Ohio, Fla. newspapersGay Republican candidate anticipates a few GOP 'knuckleheads' in Congress
+International monitors at US polling spots draw criticism from voter fraud groupsSen. Rubio: Obama has ‘given up’ on outlining second term agendaGallup poll: Romney holding 6-point leadTrump says he will release 'very big news' about Obama this weekChris Matthews: 'Racial hatred' drives support for Romney on right
 
 Emailed
 
-International monitors at US polling spots draw criticism from voter fraud groupsSen. Rubio: Obama has ‘given up’ on outlining second term agendaGrowing oppostion to US drones programMilitary voters still face trouble at pollsPolls: Romney's Fla. lead grows, but Iowa, NH, NC remain close
+International monitors at US polling spots draw criticism from voter fraud groupsTrump says he will release 'very big news' about Obama this weekOpinion: Debunking the GOP’s false narratives about the Benghazi attackGallup poll: Romney lead back up to 7 pointsGallup poll: Romney holding 6-point lead
 
 Discussed
 
-International monitors at US polling spots draw criticism from voter fraud groupsActor Bill Murray to CNBC: 'I think we ought to be personally responsible'Obama spinning toward a lossFirst lady: President 'didn't point fingers, didn't place blame'Obama under pressure to spell out his agenda for a second term
+International monitors at US polling spots draw criticism from voter fraud groupsObama under pressure to spell out his agenda for a second termMore bad news for Mitt Romney GOP sees food fight as kids trash USDA fruit, vegetable guidelines Sen. Rubio: Obama has ‘given up’ on outlining second term agenda
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Cutter: Libya response, investigation has been a ‘transparent process’
-*   Akin likens McCaskill to a dog sent to ‘fetch’ more taxes, regulations
-*   Romney picks up endorsements from Ohio, Fla. newspapers
+*   Sen. Kerry: Romney the 'campaigner-in-confusion'
+*   MORNING READ
+*   Report: Jesse Jackson Jr. headed back to Mayo Clinic
 
   
 More Briefing Room » Congress Blog
 
-*   Mitt Romney: The amazing 'Zelig' candidacy
-*   Obama's hold on Latino vote not so cut and dry
-*   States undercuttng historic mortgage settlement
+*   Congress stuck in neutral on LGBT equality
+*   Obama and Romney need to confront, solve Israeli-Palestinian divisions
+*   GOP war on women is real
 
   
 More Congress Blog » Pundits Blog
 
-*   Romney recruits qualified women, gets slammed
-*   Women, Ohio and the Clintons will make the difference for Democrats
-*   Assigning responsibility
+*   The 2012 conference on WMD-free zone in Middle East bites the dust
+*   Romney’s human side
+*   Obama’s crowd shrinkage
 
   
 More Pundits Blog » Twitter Room
 
-*   White House, Dems 'go purple' for Spirit Day
-*   Rep. Schweikert votes for Snickers
-*   ‘Romnesia’ takes off on Twitter
+*   Sen. Kerry needs 'exorcism' after role-playing Romney
+*   Schieffer earns praise as moderator in final debate
+*   Obama's 'horses and bayonets' debate comment tops Twitter chatter
 
   
 More Twitter Room » Hillicon Valley
 
-*   Facebook campaign advertisements don’t work, says new study
-*   Report: White House adds intelligence-sharing measure to draft cyber order
-*   Study: Two-thirds of social media users are engaged in political activity
+*   Obama makes unexpected push for improved math and science education during final debate
+*   Google's 2012 PAC spending nears $1 million
+*   Immigration agency drops Blackberrys for iPhones
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Environmental groups divided on whether to hit Obama on climate change
-*   Lawyer who led GOP's Solyndra probe returns to lobby firm
-*   Swing-state paper cites energy plans in Obama endorsement
+*   News bites: Report touts fracking boom as economic driver
+*   Climate change shut out of presidential debates
+*   Romney, Obama go one last round in debate on clean energy, Solyndra
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Obama lead in Ohio shrinks
-*   Poll: Romney holds narrow lead in Florida
-*   Gallup poll: Romney lead back up to 7 points
+*   OVERNIGHT CAMPAIGN: Final debate
+*   Poll: Obama edging Romney nationally
+*   The Hill's House ratings: Republicans positioned to maintain control
 
   
 More Ballot Box » On The Money
 
-*   Housing market returning, but not soon enough to boost Obama campaign
-*   Lawmakers have ‘fiscal cliff’ menu of options from failed debt talks
-*   Stephen Colbert may be waiting for his own 'October surprise'
+*   Dodd-Frank ‘conflict minerals’ rule draws industry lawsuit
+*   Romney promises China crackdown on day one
+*   Frank: Don't punish JPMorgan for Bear Stearns's misdeeds
 
   
 More On The Money » Healthwatch
 
-*   Rep. Joe Walsh edges away from controversial remark about abortion
-*   Grassley hits back on Dem healthcare ads
-*   Hatch seeks records on federal exchange contractors
+*   Romney: Pay for defense spending with 'ObamaCare' repeal
+*   Poll finds broad support for contraception access
+*   Pearl Jam guitarist urges voters to keep Obama health law
 
   
 More Healthwatch » Floor Action
 
-*   Sen. Johnson calls for more scrutiny of Secret Service prostitution scandal
-*   GOP sees food fight as kids trash USDA fruit, vegetable guidelines
-*   Grassley demands job creation numbers for Obama’s electric car grants
+*   Issa warns taxpayers' loss on Solyndra loan may near $850 million
+*   Risch bashes Obama administration for leaks on potential retaliation for Libya attack
+*   Cantor on short list to receive honorary degree from GW University
 
   
 More Floor Action » Transportation
 
+*   Obama, Romney trade blows on auto bailout in foreign policy debate
+*   Report: Amtrak might eliminate Kansas City-to-Albuquerque route
 *   Amtrak wins praise for 110 mph train test
-*   TSA moves to fire 25 employees at Newark Airport
-*   Democrats bail on 'bailout' label for autos
 
   
 More Transportation » DEFCON Hill
 
-*   Obama faces long odds to close Guantanamo Bay if he tries again
-*   Military voters still face trouble at polls
-*   Rubio renews intelligence leak debate, ties threat to Libya
+*   Rep. Smith sees Afghan progress
+*   Osprey operations in Japan at risk in wake of rape allegations
+*   New Syrian cease-fire proposal draws pessimism
 
   
 More DEFCON Hill » Global Affairs
 
-*   Issa defends release of Libya diplomatic cables
-*   White House: No deal on Iran nuclear talks
-*   Republicans hit Obama from all sides on response to Benghazi attack
+*   Romney leaves Libya attack to Republican lawmakers in Congress
+*   Candidates joust on so-called 'apology tour'
+*   Romney: 'We can't kill our way out of this mess' in the Middle East
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Obama spins toward loss Brent Budowsky Reagan 1984, Obama 2012 More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Juan Williams Debunking GOP Libya story A.B. Stoddard Obama spins toward loss More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
