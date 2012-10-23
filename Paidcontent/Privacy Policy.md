@@ -28,11 +28,11 @@ GigaOM  
 Comments Off
 
 *   Hot in Media
-    *   Kings of long form: _New Yorker_, _The Atlantic_ and … BuzzF... 10/10/2012
-    *   Monetizing BitTorrent helps Australian newspaper keep down video costs 10/10/2012
-    *   Google must work harder to avoid European search charges 10/10/2012
-    *   BookShout pulls users’ Kindle, Nook books onto other platforms 10/10/2012
-    *   Kobo acquires French digital software company Aquafadas 10/10/2012
+    *   ReadWriteWeb rebrands, hires Dan Lyons as EIC 10/22/2012
+    *   Google, Yahoo see contrasting fortunes in South Korea 10/22/2012
+    *   Amazon apparently discontinues Kindle Touch in favor of Paperwhite 10/22/2012
+    *   Rupert Murdoch and the _LA Times_: fact or folly? 10/20/2012
+    *   Notorious ad hijacker spreads to more media, retail sites 10/19/2012
 
 *   Search for:
 *   Related
@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-What I learned while live-tweeting a friend’s funeral
+A healthy reminder from Amazon: You don’t buy ebooks, you rent them
 
 Stay on top of tech news in your inbox
 
