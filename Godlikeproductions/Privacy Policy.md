@@ -1,5 +1,5 @@
   
-Users Online Now: **1,965** (Who's On?) Visitors Today: **326,996** Pageviews Today: **601,531** Threads Today: **337** Posts Today: **4,382** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,945** (Who's On?) Visitors Today: **375,482** Pageviews Today: **583,947** Threads Today: **313** Posts Today: **2,938** 08:14 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,12 @@ trinity@godlikeproductions.com
   
 News
 
+*   Boy Scouts' 'Perversion Files' released
+*   Texas Woman Charged With Publishing Picture of Undercover Officer Found On His Facebook Page
+*   Ohio Voter Fraud Billboards To Come Down, Sponsor Stays Unnamed
+*   Obama EPA regulations 'spell doom' for economy in 2013
+*   TSA removes X-ray body scanners from major airports
+*   CBS News affiliate calls 2012 presidential race for Barack Obama weeks ahead of election
 *   Teacher injured in airborne fish attack
 *   Obama Ad You Won't See on TV
 *   Obama campaign collecting more donations from non-existent ZIP codes as campaign season goes on
@@ -131,12 +137,6 @@ News
 *   1 In 10 People Believes The World Will End In 2012
 *   Mouth burns soon to be healed with an oral strip
 *   Why Is Counterfeit Ketchup Exploding in New Jersey?
-*   Galaxy dance of death creates starburst shockwave
-*   State of Minnesota goes after company for offering free online college courses
-*   Genetically Engineered Gardasil Vaccine May Contain A New Chemical With Untested Toxicity
-*   Orionid Meteor Shower Peaks Tonight: How to Watch Online
-*   Sun Unleashes Huge Solar Plasma Wave
-*   FBI shows up at teenager's home to ask about his Ron Paul school report
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.016s (0 queries)
+Page generated in 0.015s (0 queries)
