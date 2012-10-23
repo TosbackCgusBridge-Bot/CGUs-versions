@@ -75,10 +75,10 @@ Shop^
         *   View All  Watch Collections
     *   Watch Styles
         
-        *   Leather Watches
-        *   Rose Watches
-        *   Gold-Tone Watches
         *   Steel Watches
+        *   Rose Watches
+        *   Leather Watches
+        *   Gold-Tone Watches
         *   Exotic Leather Watches
         *   Neutral Watches
         *   Color Watches
