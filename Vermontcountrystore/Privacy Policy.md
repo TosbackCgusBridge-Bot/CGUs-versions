@@ -232,7 +232,6 @@ Skip to Navigation Skip to Main Content
     *   SALE - Health &. Beauty
     *   Yankee Bargains - New Markdowns
     *   Last Chance Final Markdowns
-    *   Specials of the Week
 *   More Ways to Shop
     
     *   Christmas Shop
@@ -281,7 +280,6 @@ Skip to Navigation Skip to Main Content
     
     *   Made In The USA Favorites
     *   Chill Chasers
-    *   Fall Favorites
     *   Buy More, Save More
     *   25 Favorites Under $25
     *   Halloween
