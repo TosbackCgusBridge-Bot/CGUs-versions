@@ -147,53 +147,57 @@ The website is not directed to individuals under the age of thirteen (13), and w
 
 See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 
-*   Pitbull  
-    Feel This Lyrics
+*   Christina Aguilera  
+    Just A Fool Lyrics
 *   Jonas Brothers  
-    Wedding Bells Lyrics
+    First Time Lyrics
 *   One Direction  
-    Kiss You Lyrics
-*   Katy Perry  
-    Wide Awake Lyrics
-*   Adele  
-    Someone Like You Lyrics
-
-*   Cher  
-    Woman's World Lyrics
-*   Kanye West  
-    White Dress Lyrics
-*   Tristan Prettyman  
-    My Oh My Lyrics
-*   Flo Rida  
-    Whistle Lyrics
-*   Alex Clare  
-    Too Close Lyrics
-
-*   Christina Aguilera  
-    Best Of Me Lyrics
-*   Wale  
-    Arrival Lyrics
-*   Ed Sheeran  
-    A Team Lyrics
-*   Gotye  
-    Somebody That I Used To Know Lyrics
-
-*   Christina Aguilera  
-    Let There Be Love Lyrics
-*   Ellie Goulding  
-    I Need Your Love Lyrics
+    Change My Mind Lyrics
 *   Justin Bieber  
     As Long As You Love Me Lyrics
 *   Carly Rae Jepsen  
     Call Me Maybe Lyrics
 
-*   Jonas Brothers  
-    First Time Lyrics
+*   Pitbull  
+    Feel This Lyrics
+*   Kanye West  
+    White Dress Lyrics
 *   One Direction  
-    Change My Mind Lyrics
+    Kiss You Lyrics
 *   Kesha  
     Die Young Lyrics
 *   David Guetta  
     Titanium Lyrics
+
+*   Cher  
+    Woman's World Lyrics
+*   Jonas Brothers  
+    Wedding Bells Lyrics
+*   Tristan Prettyman  
+    My Oh My Lyrics
+*   Flo Rida  
+    Whistle Lyrics
+*   Adele  
+    Someone Like You Lyrics
+
+*   Christina Aguilera  
+    Best Of Me Lyrics
+*   Wale  
+    Arrival Lyrics
+*   Lana Del Rey  
+    Ride Lyrics
+*   Katy Perry  
+    Wide Awake Lyrics
+*   Alex Clare  
+    Too Close Lyrics
+
+*   Christina Aguilera  
+    Let There Be Love Lyrics
+*   Ellie Goulding  
+    I Need Your Love Lyrics
+*   Ed Sheeran  
+    A Team Lyrics
+*   Gotye  
+    Somebody That I Used To Know Lyrics
 
 Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
