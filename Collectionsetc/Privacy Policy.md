@@ -37,12 +37,13 @@
     *   Religious &. Inspirational
     *   Throws &. Blankets
     *   Jewelry Gifts
+    *   Angel Gifts
     *   Collectible Dolls
     *   Collectibles
     *   Figurines
     *   Food
-    *   Licensed Products
     
+    *   Licensed Products
     *   Patriotic
     *   Fragrance Gifts
     *   Books &. DVDs
