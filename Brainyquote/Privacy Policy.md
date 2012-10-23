@@ -67,6 +67,8 @@ Copyright 2001-2012 BrainyQuote.com All Rights Reserved.
 Do not duplicate or redistribute in any form. We paid a lot to make this privacy policy fun, exciting, enjoyable, and memorable for our readers - so go make your own!  
   
   
+  
+  
 Inquire Home  
 Our Story  
 Inquire  
@@ -81,12 +83,10 @@ BrainyQuote Desktop
   
 BrainyQuote Mobile  
   
-Site  
-Home Quote of the Day Topics Authors Pictures Professions Birthdays  
-Social  
-BQ on Facebook BQ on Twitter BQ on Pinterest BQ on Google+ BQ on Tumblr  
-Syndication  
-Quote Feed Art Quote Feed Funny Quote Feed Love Quote Feed Nature Quote Feed  
-About Us  
-Our Story Inquire Advertise Submit Privacy Terms  
+  
+  
+Site Home Quote of the Day Topics Authors Pictures Professions Birthdays  
+Social BQ on Facebook BQ on Twitter BQ on Pinterest BQ on Google+  
+Syndication Quote Feed Art Quote Feed Funny Quote Feed Love Quote Feed Nature Quote Feed  
+About Us Our Story Inquire Advertise Submit Privacy Terms  
 AdChoices Copyright © 2001 - 2012 BrainyQuote®             BookRags Media Network
