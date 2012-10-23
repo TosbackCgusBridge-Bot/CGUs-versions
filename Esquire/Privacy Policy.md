@@ -33,35 +33,35 @@ A report from the St. Louis sidelines
 
 *   Monday Morning Cheerleader (with Twins!)
 
-Style 10 Ways to Re-Stock Your Underwear Drawer
+Style The Best Watches for Blowing Your Bonus
 
-Because, every once in a while, you need to refresh the top drawer
+No better way to spend a bonus than investing in something you'll wear forever. How 'bout a watch?
+
+*   The Best Watches for Any Wrist, 2012 Edition
+
+*   10 Ways to Re-Stock Your Underwear Drawer
 
 *   Design Your Own Chuck Taylors
 
-*   The Varsity Jacket Meets the Navy Blazer
+News &. Politics Charles P. Pierce on the Final Presidential Debate
 
-*   The State of Plaid, with Nick Sullivan
+There is no nation in its right mind that would put its foreign policy in the hands of the Willard Romney who showed up ...
 
-News &. Politics Music Monday: Andy Langer's Top New Songs
+*   Stephen Marche on the First Twitter-Designed Debate
 
-From Gary Clark Jr. to Alison Krauss and back again
+*   Paranormal Activity's Box-Office Haul, by the Not-Real Numbers
 
-*   The _Homeland_ Episode 4 Recap with Alex Berenson
+*   Tom Junod on the Lethal Debate
 
-*   Out on the Weekend, with Tebow!
+Food &. Drink Try This Update on a Classic Cocktail Tonight
 
-*   _Paranormal Activity_'s Box-Office Cash Grab
+With a vermouth base
 
-Food &. Drink Will Ferrell Beer Commercials: Now in Swedish... on a Boat
+*   DIY Obama's White House Beer, the Easy Way
 
-No, really.
+*   Will Ferrell Beer Commercials: Now in Swedish... on a Boat
 
 *   The Gut-Bust-o-Matic, with Velveeta-Stuffed Donuts
-
-*   What's New in Beer at the Great American Beer Fest
-
-*   The Yelp Fake Review-Shaming Sting
 
 Women
 
@@ -161,7 +161,7 @@ Site Service
 
 Events &. Promotions Free Newsletters Mobile
 
-STUFF MEN LIKE How to Build a Car Home Inspection Checklist Diesel Truck Reviews DIY Solar Panels Science Fiction Movies Easy Breakfast Recipes Dodge Charger Review Synthetic Oil Review Most Fuel Efficient Cars Food Recipes for Men How to Make Pancakes from Scratch REVIEWS Honda CR-V Review Car Reviews Tuxedo Styles &. Reviews Upcoming Movies 2012 Zero Turn Mowers Raised Garden Beds Vizio TV Reviews Ford Focus Review Mens Hairstyles Microsoft Surface Organic Foods HOW TO How to Tie a Tie How to Grow a Beard Pro Painting Tips Carve a Turkey How to Build a Shed How to Iron Painting Kitchen Cabinets How to Make Beer How to Install Drywall Shirt and Tie Combos New Cars 2012 &. 2013 TRENDING Halloween Movies Fisker Karma Automotive News Presidential Candidates 2012 SUV with Best Gas Mileage Best Life Quotes Geothermal Heating iPhone 5 Features Summer Songs 2012 Mens Fashion Super Foods
+STUFF MEN LIKE How to Build a Car Home Inspection Checklist Diesel Truck Reviews DIY Solar Panels Science Fiction Movies Easy Breakfast Recipes Dodge Charger Review Synthetic Oil Review Most Fuel Efficient Cars Easy Recipes for Men How to Make Pancakes from Scratch REVIEWS Honda CR-V Review Car Reviews Tuxedo Styles &. Reviews Upcoming Movies 2012 Zero Turn Mowers Raised Garden Beds Leaf Blower Reviews Ford Focus Review Mens Hairstyles iPhone 5 Cases Organic Foods HOW TO How to Tie a Tie How to Grow a Beard Pro Painting Tips Carve a Turkey How to Build a Shed How to Iron Painting Kitchen Cabinets How to Make Beer How to Install Drywall Shirt and Tie Combos New Cars 2012 &. 2013 TRENDING Halloween Movies Fisker Karma Automotive News Political News 2012 SUV with Best Gas Mileage Best Life Quotes Helium Shortage 2012 iPhone 5 Features Great American Beer Festival Mens Fashion Super Foods
 
 Esquire Magazine on Twitter @EsquireMag Sign up for Esquire's Free newsletter! Esquire on Pinterest Follow our boards on Pinterest
 
