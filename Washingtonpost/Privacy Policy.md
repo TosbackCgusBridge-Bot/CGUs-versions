@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Good news for Romney in two new...**  
-        Election 2012 | Rachel Weiner
+    *   **Mayor: Romney to visit Defiance**  
+        Election 2012 | Rosalind S. Helderman
     
-    *   **Romneyâs official stance on abortion**  
-        The Fact Checker | Josh Hicks
+    *   **Fact checking the third presidential...**  
+        The Fact Checker | Glenn Kessler
     
-    *   **Todd Akin compares Claire McCaskill...**  
-        She The People | Diana Reese
+    *   **1960s teen idol Lesley Gore leads...**  
+        She The People | Suzi Parker
     
-    *   **8 takeaways from the NBC-Wall Street...**  
-        The Fix | Chris Cillizza and Aaron Blake
+    *   **Obama the instigator vs. Romney...**  
+        The Fix | Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,14 +46,14 @@
     
     Featured Blogs
     
-    *   **How to dump a candidate**  
+    *   **Bayonets and horses!**  
         ComPost | Alexandra Petri
     
-    *   **Sunday Open Thread**  
+    *   **Peacenik Mitt gets pummeled**  
         The Plum Line | Greg Sargent
     
-    *   **Silence is golden on gay issues**  
-        PostPartisan | Jonathan Capehart
+    *   **Obama wins, but what about global...**  
+        PostPartisan | Stephen Stromberg
     
     *   **Morning Bits**  
         Right Turn | Jennifer Rubin
@@ -72,16 +72,16 @@
     
     Blogs &. Columns
     
-    *   **Forecast: Exceptionally good weather...**  
-        Capital Weather Gang | Jason Samenow
+    *   **Forecast: Nice and warm through...**  
+        Capital Weather Gang | Matt Rogers
     
-    *   **Curry Mantra expands from Fairfax...**  
-        Going Out Gurus | Tom Sietsema
+    *   **Titus Andronicus, a speakeasy party...**  
+        Going Out Gurus | Fritz Hahn
     
-    *   **Prince Georgeâs County police canvass...**  
+    *   **Driver dies after striking tree...**  
         Crime Scene | Maggie Fazeli Fard
     
-    *   **Wells hints he might back Cooper**  
+    *   **At-large D.C. hopefuls spar in...**  
         D.C. Wire | Tim Craig
 *   Sports In Sports
     
@@ -100,13 +100,13 @@
     *   **Alex Ovechkin shatters glass in...**  
         Capitals Insider | Katie Carrera
     
-    *   **The Victor Cruz game-winning touchdown...**  
+    *   **Michael Irvin: Redskins are âjust...**  
         DC Sports Bog | Dan Steinberg
     
-    *   **On coverage in the clutch and Chris...**  
+    *   **Perk up, and think positive Redskins...**  
         The Insider | Keith McMillan
     
-    *   **How teams with the best record...**  
+    *   **Nationals season in review: Best...**  
         Nationals Journal | James Wagner
 *   National In National
     
@@ -123,14 +123,14 @@
     
     Blogs &. Columns
     
-    *   **Is U.S. mobile innovation going...**  
-        Ideas@Innovations | Dominic Basulto
+    *   **Itâs âInnovation Weekâ**  
+        Ideas@Innovations | Emi Kolawole
     
     *   **Leadership profiles of Romney**  
         PostLeadership | Jena McGregor
     
-    *   **Scholar: Obamaâs strategy is to...**  
-        Under God | Georgetown/ On Faith
+    *   **Obama, Romney pledge support to...**  
+        Under God | Jeannine Hunter
 *   World In World
     
     *   Africa
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **Debate prep: Six essential reads...**  
+    *   **Growing debate consensus: Romney...**  
         WorldViews | Max Fisher
     
-    *   **Meet Europeâs far-right groups**  
-        WorldViews | Olga Khazan
-    
-    *   **A charming video captures moments...**  
+    *   **The nuclear umbrella: The differences...**  
         WorldViews | Max Fisher
     
-    *   **Why Wissam al-Hassan matters for...**  
+    *   **The importance of Mali**  
+        WorldViews | Max Fisher
+    
+    *   **Romney: Latin America âa huge opportunityâ**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -173,14 +173,14 @@
     *   **Debt settlement rarely works**  
         The Color of Money | Michelle Singletary
     
-    *   **Google, Microsoft earnings illustrate...**  
-        Post Tech | Hayley Tsukayama
+    *   **McDonaldâs removes networking features...**  
+        Post Tech | Cecilia Kang
     
     *   **Why the economy may be better than...**  
         Steven Pearlstein
     
-    *   **The fiscal cliff would cut the...**  
-        Wonkblog | Suzy Khimm
+    *   **Wonkbook: Everything you need to...**  
+        Wonkblog | Evan Soltas
 *   Tech In Technology
     
     *   Policy
@@ -191,11 +191,11 @@
     
     Blogs &. Columns
     
-    *   **TechBits: Paper**  
+    *   **Appleâs âiPad miniâ: A last-minute...**  
         Hayley Tsukayama
     
-    *   **Google, Microsoft earnings illustrate...**  
-        Post Tech | Hayley Tsukayama
+    *   **McDonaldâs removes networking features...**  
+        Post Tech | Cecilia Kang
 *   Lifestyle In Lifestyle
     
     *   Advice
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Asian eggplant in hand, recipe...**  
-        All We Can Eat | Edward Schneider
+    *   **Joe York says barbecue boils down...**  
+        All We Can Eat | Jim Shahin
     
     *   **A monstrous remake of âMadelineâ**  
         The Style Blog | Ron Charles
     
-    *   **Is duct tape the solution to nagging?**  
+    *   **Is it easier for a boy to mature...**  
         On Parenting | Janice D'Arcy
     
-    *   **White House Visitors log: More...**  
+    *   **GQ makes over Capitol Hill staffers**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,13 +240,13 @@
     *   **Art: Two Lichtenstein retrospectives**  
         Classical Beat | Anne Midgette
     
-    *   **âWalking Deadâ recap**  
+    *   **Justin Timberlake and Jessica Biel...**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **Michael Goldrick new news veep...**  
+    *   **Kids elect Obama in Nickelodeon...**  
         The TV Column | Lisa de Moraes
     
-    *   **A Newsweek appreciation**  
+    *   **Kickstarter for Cartoons**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -266,11 +266,10 @@
 
 In the News
 
-*   George McGovern
-*   Adeleâs baby
-*   âSNLâ
-*   Wis. shooting
-*   Chris Cooley
+*   Presidential debate
+*   âYou Donât Own Meâ
+*   Lance Armstrong
+*   Ellen DeGeneres
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -319,90 +318,94 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-GM is alive in Defiance, Ohio. But Obamaâs hopes here may not be.
+Cyclingâs governing body agrees to strip Lance Armstrong of his 7 Tour de France titles
 
-Rosalind S. Helderman 
-
-Todd Akin compares Claire McCaskill to a dog Chris Cooley agrees to rejoin Redskins in wake of Fred Davis injury Around the world, perceptions of Obama-Romney contest lag reality
-
-Michael Birnbaum 
-
-'SNL' spoofs the second debate A âgreatest hitsâ of misleading Romney claims
-
-Glenn Kessler 
+Associated Press 
 
 Obamaâs not-so-hidden second-term agenda
 
 E.J. Dionne Jr. 
 
-Romney's final fundraiser had 'extraordinary turnout,' says Wilbur Ross Redskins lose but a new day dawns in the (NFC) East
+Longtime activist Russell Means dies at 72 after years of fighting for American Indian causes
 
-Jason Reid 
+Associated Press 
 
-In final debate, Obama and Romney to offer differing views of Americaâs role in the world
+Around the world, perceptions of Obama-Romney contest lag reality
 
-Anne Gearan 
+Michael Birnbaum 
 
-Chris Cooley agrees to rejoin Redskins after Fred Davis suffers season-ending injury
+GM is alive in Defiance, Ohio. But Obamaâs hopes here may not be.
 
-Mark Maske 
-
-Obamacareâs rhetoric vs. its reality
-
-Robert J. Samuelson 
-
-Carolyn Hax: Itâs not your job to prevent Mom from marrying
-
-Carolyn Hax 
-
-In killerâs mind, counselor found the roots of a new way to treat troubled youth
-
-Jordan Smith 
+Rosalind S. Helderman 
 
 George McGovern, the man who never gave up
 
 Bob Dole 
 
-Jordan disrupts major al-Qaeda terrorist plot
+Taylor Swiftâs âRedâ is another winner, but she needs to start acting her age
 
-Joby Warrick 
+Allison Stewart 
+
+In final debate, Obama and Romney to offer differing views of Americaâs role in the world
+
+Anne Gearan 
+
+In killerâs mind, counselor found the roots of a new way to treat troubled youth
+
+Jordan Smith 
+
+11-year-old girl accused of causing infantâs death arraigned on manslaughter charge in Maine
+
+Associated Press 
+
+Teresa McGovern: A death in the cold
+
+Laura Blumenfeld 
+
+Obamacareâs rhetoric vs. its reality
+
+Robert J. Samuelson 
+
+Chris Cooley agrees to rejoin Redskins in wake of Fred Davis injury 8 takeaways from the NBC-WSJ poll Redskins lose but a new day dawns in the (NFC) East
+
+Jason Reid 
+
+Lebanese army responds to gun battles between Sunnis, Shiites in Beirut
+
+Liz Sly 
+
+'SNL' spoofs the second debate Carolyn Hax: Itâs not your job to prevent Mom from marrying
+
+Carolyn Hax 
+
+Wife told court that husband who killed 7 at Wisconsin spa terrorized âmy every waking momentâ
+
+Associated Press 
 
 A lesson in restraint: What China tells us about Iran
 
 Michael Lumbers 
 
-Robert Griffin III vs. Eli Manning: The start of something big
-
-Sally Jenkins 
-
-In close presidential race, foreign-policy debate likely to prove pivotal
-
-Chris Cillizza 
-
-Redskins vs. Giants: After taking late lead, Washington gives it right back in 27-23 loss
-
-Mike Jones 
-
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  GM is alive in Defiance, Ohio. But Obama's hopes here may not be.
-    2.  Todd Akin compares Claire McCaskill to a dog
-    3.  Chris Cooley agrees to rejoin Redskins in wake of Fred Davis injury
+    1.  Cycling's governing body agrees to strip Lance Armstrong of his 7 Tour de France titles
+    2.  Obama's not-so-hidden second-term agenda
+    3.  Tribal spokeswoman says former American Indian Movement activist Russell Means dies at 72
     4.  Around the world, perceptions of Obama-Romney contest lag reality
-    5.  'SNL' spoofs the second debate
+    5.  GM is alive in Defiance, Ohio. But Obama's hopes here may not be.
 *   Top Videos
-    1.  Obama and Romney on the Libya attack
-    2.  Lynn University sets the stage for final presidential debate
-    3.  Mitt Romney oversees football game between staff and reporters
-    4.  Election 2012: The path to 270 electoral votes
-    5.  High school kicker makes 67-Yard field goal in overtime
+    1.  Giants top the Cardinals 6-1, force Game 7 of the NLCS
+    2.  Lance Armstrong: It's been a difficult couple of weeks
+    3.  Police: Wisconsin shooting suspect opened fire at wife's work
+    4.  Poll: President Obama leads in Ohio, 50 to 45 percent
+    5.  Mitt Romney attends church ahead of final presidential debate
 *   Top Galleries
     1.  Endorsements that Romney, Obama may not want
-    2.  Beyond 'Thelma and Louise': Business, the 'Fiscal Cliff' and Pop Culture
-    3.  George McGovern (1922-2012)
-    4.  Newsweek covers through the years
-    5.  Interactions with a serial killer
+    2.  Romney in Florida
+    3.  Howard University's homecoming
+    4.  Interactions with a serial killer
+    5.  3 killed in shooting near Wisconsin mall
 
 Today's Paper
 
@@ -412,13 +415,13 @@ Today's Paper
 
 Live Discussions
 
-The latest in TV with Lisa de Moraes
+Dr. Gridlock Live
 
-Live Q&A, 1 p.m. ET
+Live Q&A transcript
 
-Post TV columnist Lisa de Moraes discusses all the latest in TV news - on and off the screen.
+Dr. Gridlock took all your questions about Metro, traffic throughout the region and other transportation issues.
 
-**11:00 AM** **Ask Boswell: Nationals, Redskins and more** **12:00 PM** **Dr. Gridlock** **12:00 PM** **Advice from Slate's 'Dear Prudence'** **2:00 PM** **Talk about Travel**
+**11:00 AM** **ComPost Live with Alexandra Petri** **12:00 PM** **Tuesdays with Moron: Chatological Humor Update** **12:00 PM** **Who won the third debate? Obama or Romney** **1:00 PM** **Eugene Robinson Live**
 
 **Weekly schedule, past shows**
 
