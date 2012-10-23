@@ -90,7 +90,7 @@ Like most websites and applications, we use cookies and similar technologies to 
 
 Adobe websites may also use cookies and similar technologies from other companies that allow us to improve the effectiveness of our hosted services. Learn more about these Adobe hosted services, which help our customers provide their audiences with relevant content and advertising.
 
-Choose to disable these cookies used to improve the effectiveness of our hosted services To the top Does Adobe share my personal information?
+Choose your preferences for interest-based ads Set Preferences To the top Does Adobe share my personal information?
 
 Adobe works with companies that help us run our business. These companies provide services such as delivering customer support, processing credit card payments, and sending emails on our behalf. In some cases, these companies have access to some of your personal information in order to provide services to you on our behalf. They are not permitted to use your information for their own purposes.
 
