@@ -19,6 +19,7 @@ Featured:
 *   The Dish
 *   Howard Kurtz
 *   David Frum
+*   Green Rankings
 
 Privacy Policy   Content Section
 
@@ -132,50 +133,50 @@ If you have any questions or concerns about this privacy policy, you may contact
 
 Stories We Like
 
-1.  Us Weekly Hollywood's Trendiest Kids
-2.  Your Tango What Your Favorite Food Says About Your Sex Life
-3.  Huffington Post Politics Court Smacks Down Anti-Gay Marriage Law
-4.  Ask Men How to Use the Toilet When Your Girl's Around
-5.  Buzzfeed Scientists Invent Dissolvable Strips That Instantly Relieve Burns From Eating Hot Food
-6.  Pop Sugar Alessandra is the 'Luckiest Girl in the World' to Model VS Fantasy Bra
-7.  Us Weekly Demi Moore Looks Thin, Radiant at Rare Post-Rehab Appearance in NYC
-8.  Huffington Post Politics Scott Brown Apologizes After Backlash Over 'Shameful' Remarks
-9.  Buzzfeed How Straight Women and Gay Guys Approach Halloween
+1.  Us Weekly First Photo: Newly Weds Justin Timberlake &. Jessica Biel in Italy
+2.  Huffington Post Politics 'October Surprise' Has Observers Mystified Ahead of Debate
+3.  Buzzfeed West Point Cadets Dance to 'Gangnam Style'
+4.  Pop Sugar Ashton Kutcher and Mila Kunis Start Their Day Side by Side
+5.  Us Weekly New Mom Anna Faris Shows Off Post-Baby Body
+6.  Your Tango Are You a Nag? Take Our Survey
+7.  Buzzfeed Shockingly Unshocking Photos From Inside the Factory That Makes Your iPhone
+8.  Buzz Sugar Pop Culture Halloween: Celebrity Costume Ideas
+9.  Huffington Post Politics Obama's Running Out of Time
 
   Most Popular
 
-1.  The Truth Behind the Benghazi Attack
-2.  The Girl Who Changed Pakistan
-3.  My Proof of Heaven
-4.  The Man Who Could Beat Bachmann
-5.  Kim Kardashian's Not a Fan of Underwear, Shows Off Crack
+1.  The Man Who Could Beat Bachmann
+2.  The President Who Would Be King
+3.  Obama Vs. Romney Part 3: Who Lied?
+4.  Google and Microsoft Are Mature Businesses
+5.  Obama Slams Passive Mitt As ‘Reckless’
 
   Other News Entertainment
 
+*   Voting: Do These Celebs Use Fillers?
 *   Week in Photos for Oct. 19, 2012
-*   Reveal: Gnarly Celeb Feet
-*   Christina Hendricks Chats Sex Appeal, Waiting to Start a Family, and More!
+*   Scariest Celeb Fashion 2012
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
-*   PopWatch Planner: Baseball, ‘Happy Endings,’ ‘Cloud Atlas’ and more
-*   ‘Saturday Night Live’ recap: Bruno Mars, we like you just the way you are
+*   ‘RuPaul’s All Stars Drag Race’ react: That twist! Plus: 20 other notable moments from the season premiere
+*   Carrie Ann Inaba falls off chair while judging ‘Dancing With the Stars’ — HILARIOUS GIF
+*   Who made the better Peter Berg reference in final presidential debate?
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Romney Spokesman Denies Campaign Outsourcing
-*   Obama Campaign Denies Report It Had Conference Call With Jeremiah Wright
-*   The Vertical Back
+*   Mitt Romney Runs on Peace
+*   Obama Attacks Again And Again In Last Debate
+*   Why Mitt Romney Kept Talking About Mali
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Two Different Final Strategies
-*   Latest Swing State Polls
-*   Obama's Grand Bet
+*   Quote of the Day
+*   Millions Have Already Voted
+*   More Reaction to the Third Presidential Debate
 *   **Get More from Political Wire**
 
 The Daily Beast
@@ -211,6 +212,7 @@ Featured:
 *   The Dish
 *   Howard Kurtz
 *   David Frum
+*   Green Rankings
 
 Partners:
 
