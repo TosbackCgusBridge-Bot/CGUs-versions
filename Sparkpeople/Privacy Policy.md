@@ -143,26 +143,27 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   High Sugar Resources
+*   Vitamin K Vitamins Resources
 
   
-Stay in Touch With SparkPeople **9 Ideas After Meeting Your Weight Loss Goal**
+Stay in Touch With SparkPeople **Slideshow: 11 Low-Cal Halloween Treats**
 
-So once you reach your weight loss goals, where do you go from there? How do you translate this success into other successes? Here are 9 ideas to help you out.
+These Halloween treats are so low in calories that you'll think you're being tricked!
 
 Read More
 
-*   "New to me" foods
-*   Self Control - Can it be taught?
 *   How do you maintain your exercise long-term?
-*   Healthy snack ideas for under 100 calories?
-*   Why the scale isn't a good indicator of health.
+*   Specific Tips to get through the Weekend
+*   Do you have a goal after weight loss?
+*   What's your "go to" type of workout?
+*   Healthy Halloween snacks
 
-View Demo **Leg Lifts with Ball**  
-This intriguing exercise builds endurance in your lower back muscles. **Garlic-Balsamic Vinaigrette**  
-Submitted By: **GUEST\_CHEF**
+View Demo **Lying Adduction**  
+Target your inner thighs with this comfortable exercise. **Chef Meg's Taco Seasoning**  
+Submitted By: **CHEF\_MEG**
 
-This super-simple vinaigrette is delicious on salads or drizzled over cooked vegetables or grilled fish. Full Recipe
+Ditch those packets from the supermarket, and whip up a batch of this simple, tasty taco seasoning!  
+Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
