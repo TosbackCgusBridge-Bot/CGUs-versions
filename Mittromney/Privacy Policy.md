@@ -33,7 +33,7 @@ Skip to Main Content Area Home   X Connect With Mitt Follow @MittRomney Login |
 *   News &. Media
     
     *   Featured Blog
-    *   A Real Recovery Is Within Our Reach Read More
+    *   Help Me Restore The America We Love Read More
     *   More News
     
     *   Videos
