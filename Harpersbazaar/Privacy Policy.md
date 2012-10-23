@@ -15,6 +15,10 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
+Haute Halloween: High Fashion Costume Ideas
+
+Channel the year's most talked-about with these high fashion costume ideas.
+
 Mr. Blasberg's Best Dressed List: October 19th, 2012
 
 Mr. Blasberg chooses the top 10 chicest looks from the week.
@@ -22,10 +26,6 @@ Mr. Blasberg chooses the top 10 chicest looks from the week.
 Good Jeans: Fall's Best Denim
 
 See the best in fall denim.
-
-My List: Vera Wang in 24 Hours
-
-The designer shares her schedule and beaut routine
 
 Beauty &. Hair  
 
@@ -37,13 +37,13 @@ Beauty &. Hair  
 *   Beauty at Every Age
 *   Health &. Wellness
 
-The Power of Perfume
+4 Fun Halloween Mani Ideas
 
-An alluring mystique is created by a woman's choice of scent.
+Try these spooky runway nail trends.
 
-35 More Fall Fragrances
+The 12 Best Nude Lipsticks
 
-Shop more fragrances for Fall 2012.
+We've picked out 12 nude lipcolors that won't fade into the background. See...
 
 CELEBRITY STYLE &. PARTIES   Bergdorf Goodman Celebrates 111 Years
 
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR Mr. Blasberg's Best Dressed List: October 19th, 2012 Good Jeans: Fall's Best Denim My List: Vera Wang in 24 Hours The Power of Perfume 35 More Fall Fragrances Find Your Perfect Scent Bergdorf Goodman Celebrates 111 Years Last Night's Parties: Urban Zen's Connecting the Dots Exhibiton &. Mario Testino's First U.S. Photo E... Last Night's Parties: Target's 50th Anniversary, Barneys New York Hosts Kelly Klein's "Pools&qu... Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR Haute Halloween: High Fashion Costume Ideas Mr. Blasberg's Best Dressed List: October 19th, 2012 Good Jeans: Fall's Best Denim 4 Fun Halloween Mani Ideas The 12 Best Nude Lipsticks The Power of Perfume Bergdorf Goodman Celebrates 111 Years Last Night's Parties: Urban Zen's Connecting the Dots Exhibiton &. Mario Testino's First U.S. Photo E... Last Night's Parties: Target's 50th Anniversary, Barneys New York Hosts Kelly Klein's "Pools&qu... Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
@@ -80,11 +80,11 @@ SPECIAL OFFER
 
 Most Popular
 
-1.  Nail It: Fall 2012's Top Manicure Trends
-2.  Street Style Spring 2013: Paris Fashion Week
+1.  The Most Anticipated Hair Trends For Spring 2013
+2.  Nail It: Fall 2012's Top Manicure Trends
 3.  Top Hair Trends From The Fall 2012 Runways
-4.  How To Look Great Without Makeup
-5.  The Extras: Fall 2012 Accessories Report
+4.  The Mini Turns 50: Iconic Skirt Moments
+5.  Street Style Trend Report: Spring 2013
 
 **TRY:** fall 2012 trends street style best mascara 2012 **About Harper's Bazaar**
 
