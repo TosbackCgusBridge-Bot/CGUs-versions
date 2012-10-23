@@ -87,6 +87,7 @@ More
 *   Truck Insurance
 *   Homeowners Insurance
 *   Renters Insurance
+*   Business Insurance
 *   Life Insurance
 *   Health Insurance
 *   Umbrella Insurance
