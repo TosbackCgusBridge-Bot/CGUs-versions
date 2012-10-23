@@ -2,16 +2,16 @@
 
 *   What's New
 *   Hot Topics
-    *   strange stuff
-    *   Mitt Romney 2012
-    *   timeless news
-    *   Mitt Romney
     *   Election 2012
+    *   Mitt Romney 2012
+    *   Mitt Romney
     *   President Obama
-    *   celebrity
+    *   Obama 2012
     *   entertainment
-    *   California
-    *   Syria
+    *   timeless news
+    *   strange stuff
+    *   celebrity
+    *   presidential debate
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -119,57 +119,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Boss Farhad Manjoo Around
-*   Smashed
-*   Why Romney Is Afraid To Explain His Tax Plan
+*   Back to the Future
+*   Want to Improve the Debates? Stop Giving the Lame Slots to...
+*   Weaponry on the Cutting Edge
 
 More from Slate »
 
-*   Your Friskyscopes For The Week Of October 22-28, 2012
-*   Well Played: Rita Ora In White
-*   5 Insignificant Things That Determine If Someone Likes You
+*   BAD LIAR'S DAY OFF
+*   Star Trek Klingon Wedding
+*   9-Year-Old Girl Shot After Being Mistaken For Skunk: Cops
+
+More from HuffPost Weird »
+
+*   Behind The Scenes Of Midoriâs Party In Hollywood Event With...
+*   Alexa Chung, Miranda July &. Tavi Sing âYou Donât Own Meâ To...
+*   No âBlue Ivyâ Trademark Jay-Z And Beyonce
 
 More from The Frisky »
 
-*   Should your 2-year-old ever be found wandering alone on a...
-*   This police chase has it all. High speed car chase, cop...
-*   Help a Farker out and help find my friend's daughter \[Scary\]
+*   The Fark-inspired fundraiser for the Youngstown, Ohio Saint...
+*   Buzzfeed hates the word "moist" too \[Misc\]
+*   Frank Tanabe, WWII Veteran and Japanese internment camp...
 
 More from Fark »
 
-*   Remembering George McGovern: A conscientious life in...
-*   The Wisconsin spa shootings: What we know so far
-*   Angels in the newsroom
+*   Fact-checking the final Obama-Romney debate: Who told the...
+*   Forget foreign policy. This election is about the economy.
+*   President Obama vs. Mitt Romney: Who won the final...
 
 More from The Week »
 
-*   A Bipartisan Guide to Complaining About Moderator Bob...
-*   The New Yorkerâs Full-Throated Obama Endorsement Also Kind...
-*   Searching for Corned Beef and Talking âMuppetsâ With...
+*   Heilemann on Charlie Rose: Romney Sheds Warmonger Image in...
+*   Schieffer Praised for Being the Most Moderate of the Debate...
+*   Video Recap: The Final Presidential Debate
 
 More from Daily Intel »
 
-*   _Breast Cancer Awareness Month_
-*   Body Language: Not Just a Political Message
-*   Higher Self: 6 Ways to Help You Hear It
+*   Fit For Office: Who's The Fittest President Of All Time?
+*   A Cancer Survivor's Reaction to Lance Armstrong's Downfall
+*   Clinical Trials: With Informed Samaritans, a Key Way to...
 
 More from HuffPost Health »
 
-*   Happy Birthday, Kim Kardashian! See the Star's 32 Most...
-*   Adele Gives Birth to Baby Boy (REPORT)
-*   Newlywed Justin Timberlake Steps Out in Italy Following...
+*   FOX Renews 'X Factor' for Season 3: 'Expect Fireworks,'...
+*   'Revenge' Star Emily VanCamp Flaunts Major Cleavage in 'GQ'...
+*   Jessica Biel Shows Off Wedding Ring After Marrying Justin...
 
 More from Celebuzz »
 
-*   Evicted Neighbor Allegedly Opens Fire on Family With Small...
-*   Cutest Kitties Ever Show Us How a Catfight Is Really Done...
-*   'Walking Dead' Recap: Who Lives, Who Dies and Who Gets...
+*   5 of Mitt Romney's Biggest 'History Airbrushings' in Monday...
+*   Post-Debate Blogger Google Hangout: Who Cares About Foreign...
+*   Sandusky 'Victim No. 1' Admits Being 'Extremely Suicidal'...
 
 More from The Stir »
 
-*   Heat Seekers
-*   DÃ©jÃ  Vu All Over Again
-*   Voice: Intimacy as Opportunity
+*   Pebbles Boulders, Alpha Bits now Safer for Children
+*   The Spot: Heart of Darkness
+*   W+K Plays for the Big Dough
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
