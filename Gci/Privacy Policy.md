@@ -86,7 +86,7 @@ Get Alaska's largest statewide coverage! »
     *   Industry Solutions
     *   Industrial Telcom
     *   Carrier Access
-*   Regulatory Info
+*   Regulatory Information
     *   Public Notices
     *   Carrier Common Line Reports
     *   Tariff Sheets
