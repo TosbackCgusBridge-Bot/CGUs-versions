@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-Bay Area friends - don't forget, tomorrow is Hackmeet. Spend a few hours with us exploring activism and technology: https://hackmeet.org
+Dutch government proposes legislation that would allow cyberattacks against...everybody: https://eff.org/r.4apk
 
-Oct 19 @ 6:24pm
+Oct 22 @ 5:22pm
 
-Bay Area sheriff seeks drone for thermal imaging and surveillance, new documents show https://eff.org/r.5apb via @MuckRockNews
+EFF &. @EarthRightsIntl fight Chevron's demands for years of ID and location info about environmental advocates https://eff.org/r.5apj
 
-Oct 19 @ 10:40am
+Oct 22 @ 4:47pm
 
 *   Twitter
 *   Facebook
