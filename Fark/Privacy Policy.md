@@ -148,13 +148,13 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    Fark - Messenger Bag
+    There Wolf
 *     
-    Bump-N-Go Cybermat
+    Bowtie Bag Clips
 *     
-    Ford GT (Silver/Black Stripes) Wireless Road Mice
+    Elvis - Burnin' Love Cinnamon Mints
 *     
-    Drinking Sticky Notes
+    Indiana Bones - Zombies Who Didn't Keep Their Eyes Shut
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
@@ -162,35 +162,35 @@ Stories from our partner sites:
   
 Watch Hot Cheerleaders Go Gangnam Sty...  
 Christian Bale's Wild Body Transforma...  
-25 of the Unhappiest Mugshots Known t...  
+How Texting is Changing Your Grammar  
 The Truth Behind NFL Logos  
 More news at Scribol »  
   
   
-Michael Lohan to Seek Conservatorship...  
-Bank Honcho Brian Mulligan Demands In...  
-Honey Boo Boo -- Invited to Throw Dow...  
-'Real Housewives' Star -- $75k Victor...  
-More news at TMZ »  
-  
-  
-Kids Costumes That Are Horrifying  
-The Sunniest Moments From Always Sunny  
-The Internet Really Hates Alex Rodriguez  
-007 Legends  
-More news at UPROXX »  
+Behind The Scenes Of Midori's Party I...  
+Alexa Chung, Miranda July &. Tavi Sing...  
+No "Blue Ivy" Trademark Jay-Z And Bey...  
+Pussy Riot Singers Sent To Russian Pr...  
+More news at The Frisky »  
   
   
 Watercooler Stories  
 Jockstrip: The world as we know it.  
+People in the news  
 Your Daily Horoscope  
-The almanac  
 More news at UPI »  
+  
+  
+BAD LIAR'S DAY OFF  
+Star Trek Klingon Wedding  
+9-Year-Old Girl Shot After Being Mist...  
+Accused Bank Robber Returns To Allege...  
+More news at HuffPostWeirdNews »  
   
 
 Also on Fark
 
-Main Should your 2-year-old ever be found wandering alone on a 4-lane highway, you might pause to rethink your concept of responsible parenting... yeah, but not these two ( stltoday.com ) » (38 comments) Sports Cleveland Browns receiver Josh Gordon drops potential game-winning touchdown catch in loss to Colts. The sun is there ( cleveland.cbslocal.com ) » (13 comments) Business AIG CEO upset that no one ever thanked them for all the wonderful things the company did for the U.S. economy during the collapse . No, really, he's serious ( nymag.com ) » (40 comments) Geek Can a banana be used to fix a scratched DVD? Conversely, can a scratched DVD give you your daily recommended requirement of potassium? ( news.yahoo.com ) » (13 comments) Entertainment An interview with the wonderful Michael Rooker, who talks about what we can expect from Merle this season on The Walking Dead ( insidetv.ew.com ) » (17 comments) Politics 'Paul Ryan shirtless' is Googled 9 times more that 'Paul Ryan budget' and other election facts that will make you weep for our country ( gawker.com ) » (70 comments) Video Downtown Bavarian river surfing: you better bet it's a sausage fest ( liveleak.com ) » (23 comments) FarkUs So I've seen a lot of people plug their books here. This is my latest, just out today: "The Convert" ( amazon.com ) » (16 comments)
+Main The Fark-inspired fundraiser for the Youngstown, Ohio Saint Vincent de Paul soup kitchen has raised almost $15,000 in just four days. Let's keep the momentum going for a great cause ( igg.me ) » (17 comments) Sports The Giants win the pennant. The Giants win the pennant. The Giants win the pennant. The Giants win the pennant ( mlb.mlb.com ) » (51 comments) Business FedEx announces plans to deliver 20,000 jobs ( latimes.com ) » (25 comments) Geek Great Caesar's ghost ( usatoday.com ) » (9 comments) Entertainment A new reality show on TLC may be fake, instead of just a blight on the history of mankind like the rest of their shows ( dailymail.co.uk ) » (28 comments) Politics "You mention the Navy, and how we have fewer ships than 1916. We also have fewer horses and bayonets now too, Mitt." OH SNAP ( livewire.talkingpointsmemo.com ) » (208 comments) Video Whale mimicking a human voice. I think It's saying the aliens will be here soon. Soon ( youtube.com ) » (69 comments) FarkUs The Fark-inspired fundraiser for the Youngstown, Ohio Saint Vincent de Paul soup kitchen has raised almost $15,000 in just four days. Let's keep the momentum going for a great cause ( igg.me ) » (17 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main Should your 2-year-old ever be found wandering alone on a 4-lane highway, y
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 22 2012 08:00:47  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 23 2012 08:00:36  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
