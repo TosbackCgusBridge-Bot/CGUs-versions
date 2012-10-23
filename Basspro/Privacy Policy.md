@@ -395,7 +395,7 @@ If you have further questions regarding this Statement, please contact us:
 *   Online Lake Maps
 *   Outdoor E-Postcard
 *   Outdoor Wallpapers
-*   Outdoor Scrensavers
+*   Outdoor Screensavers
 
 KEEP IN TOUCH
 
