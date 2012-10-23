@@ -99,7 +99,7 @@ Recipe
     *   Holidays
         *   Halloween
         *   Thanksgiving
-        *   Christmas
+        *   Christmas &. Holiday
         *   New Year's
         *   Valentine's Day
         *   St. Patrick's Day
@@ -108,7 +108,7 @@ Recipe
         *   Birthdays
         *   Game Day
         *   Potlucks
-        *   Favorite Parties
+        *   Dinner Parties
         *   Showers &. Parties
         *   Cookie Exchanges
         *   See all
