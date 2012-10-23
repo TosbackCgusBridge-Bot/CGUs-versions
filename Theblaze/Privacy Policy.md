@@ -21,8 +21,8 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
+*   Presidential Debates
 *   Libya Attacks
-*   Obama's Founding Fathers
 *   Campaign 2012
 
 Take Action About TheBlaze
@@ -233,6 +233,12 @@ Editorial Staff
     Assistant Editor  
     Email
 
+*   Israel
+*   Business
+*   Jobs
+*   Military
+*   Economy
+
 Sections
 
 *   The Stories
@@ -244,8 +250,8 @@ Sections
 
 Hot Topics
 
+*   Presidential Debates
 *   Libya Attacks
-*   Obama's Founding Fathers
 *   Campaign 2012
 
 More from TheBlaze
