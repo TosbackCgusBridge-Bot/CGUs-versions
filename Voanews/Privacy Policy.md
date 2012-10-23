@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   US, Iran Deny Report of One-on-One Nuclear Talks
-*   Syria's Assad Meets with Peace Envoy Brahimi
+*   Foreign Policy Center Stage in Obama, Romney Debate
+*   Hopes Dim for Syrian Cease-Fire
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
