@@ -10,7 +10,7 @@ Create a Poll
 *   Categories
 *   Questions
 *   Forums
-*   Blog
+*   Blog (1)Halloween Photo Screme Contest!
     
     NEW!
     
