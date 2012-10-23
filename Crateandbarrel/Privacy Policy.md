@@ -245,6 +245,7 @@ _Last Updated, March 1st 2011_
 *   Recall Notice
 *   Assembly Instructions
 *   Media Inquiries
+*   Sweepstakes
 
 *   Our Stores
 *   Store Locator
