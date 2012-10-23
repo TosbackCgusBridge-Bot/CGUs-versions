@@ -119,17 +119,17 @@ Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell 
 than any other source! - We've helped sell over 130,000 horses.  
 \- We've been the #1 choice for over 12 years!  
 \- 1 million viewers per month can see your ad.  
-Half a million pages are viewed each day! Testimonials **Don't just take our word for it...** "Great experience, sold the horse to a great family in a remarkably short amount of time!"  
-**Julie**  
-Gibsonia , Pennsylvania " basicaly it was great i also had him on a different site but he was sold off your site "  
-**joe**  
-bethpage, Tennessee " Excellent response to our add. We have sold several on Equine.Com and are pleased with the service. "  
+Half a million pages are viewed each day! Testimonials **Don't just take our word for it...** " We were very pleased when we were able to sell our fillies to good people at a very tough time in the horse market. "  
+**Margaret**  
+Nevada , Missouri " I love using equine.com,I have sold many horses to grat homes and they sell quickly and effectively. Thanks so much for suc..."  
+**Sherry**  
+Ethel , Missouri " My phone rings non stop with potential buyers this is the 3rd horse I ve sold on her last horse I sold for 10k went to Me..."  
+**john**  
+conroe, Texas "I love equine.com I have found great homes for my horses. Thank you."  
 **Someone**  
-Lockesburg , Arkansas " Lots of interest and a quick sale. Thanks. "  
-**Melinda**  
-Lebanon , Kentucky "Equine.com has been a great vehicle for us to sell horses. We have always had success and really recommend the site."  
-**Julie**  
-Mazomanie, Wisconsin View More Testimonials
+Kelley , Iowa " I've used equine.com before and have always had a good experience. "  
+**Deb Peach**  
+Mauston , Wisconsin View More Testimonials
 
 *   Advertise
 *   |
