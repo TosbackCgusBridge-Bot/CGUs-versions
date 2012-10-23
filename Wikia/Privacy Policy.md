@@ -118,7 +118,4 @@ Wikia Inc Navigation
 *   Privacy Policy
 *   Content is available under CC-BY-SA.
 
-*   Did you miss our recent webinar on main pages? Watch a recording of it now.
-    
-
 Politics Halloween @WikiaLifestyle
