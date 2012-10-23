@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Meteor chunk falls on Calif. home
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Police ID suspect in $1.6M Las Vegas casino heist
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Joe Robbins / Getty Images Big Ben remains Steelers' rock
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports Is Eli NFL's best in the clutch?
     
-    PFT: Amid injuries and adjustments to new offensive schemes, QB always gives Pittsburgh a chance to win, just like he showed on Sunday night.
+    ProFootballTalk: Eli Manning led yet another 4th quarter comeback on Sunday, throwing the game-winning TD to Victor Cruz for a 27-23 win over the Redskins. Would he be the pick in crunch time?
     
-    Steelers bumble past Bengals   |  Highlights Pats nearly blow it vs. Jets   |  Sanchez stunned Crucial NFL injuries from Week 7 Late Eli-Cruz bomb lifts Giants over 'Skins Eli-RG3 rivalry begins  |  Tuck: RG3 'a headache' Texans beat down Ravens   |  Baltimore shock PFT: Jerry proud of his Cowboys  |  Cam rants Brees' 4 TDs boost Saints   |  Rodgers delights Ad
+    Bears D roars louder than Lions PFT: Bears shut down Megatron in impressive win PFT: Lions WR Burleson done for season PFT: SD's Phillips has seen 'lot of cheating' PFT: Bills' Kelsay rips teammates' effort PFT: Will NFL bid Aloha to the Pro Bowl? PFT: Quinn to replace Cassel as Chiefs QB PFT: Roethlisberger remains Steelers' rock Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Elsa / Getty Images Game 7 favors the Giants
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Pool / Getty Images Giants concocting amazing alchemy
     
-    HBT: The guess here is that Giants starter Matt Cain and likely NL MVP Buster Posey are due as San Francisco takes on the Cardinals with a World Series berth on the line.
+    CSN: Game 7 pressure? That's nothing compared to what San Francisco's been up to this postseason. But what's coming in World Series? Probably an 0-2 hole vs. Detroit.
     
-    Giants fend off elimination, force Game 7 Miguel Cabrera gets in his licks, and his laughs HBT: Valverde says he's fixed, won't stink anymore HBT: Tigers stick to basics with WS rotation HBT: Jeter undergoes surgery to repair ankle Sabathia to have elbow checked by Andrews HBT: D-backs, A's, Marlins pull off 3-way deal HBT: Giambi a 'legitimate' candidate for Rockies Ad
+    Giants cap 'unbelievable' NLCS with Game 7 rout HBT: Giants have World Series rotation dilemma Giants 7th to overcome 3-1 deficit  |  Work to do CSN: Cain wasn't perfect, but more than enough Scutaro named MVP  |  Award makes it 'special' HBT: Cardinals likely to be better in 2013 HBT: Pence's screwball hit sealed it for Giants HBT: NLCS winner won't be gassed for Tigers Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Grigory Dukor / Reuters 'Owners and players are at war'
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines John Russell / NHLI via Getty Images Predator hopes season is wiped out
     
-    PHT: Alex Ovechkin has been particularly critical of the NHL throughout the lockout and that certainly hasn’t changed in light of this week’s events.
+    PHT: Predators forward Sergei Kostitsyn will have some explaining to do when he returns to the NHL. If he does.
     
-    PHT: Will next week make or break season? NHL, union still talking but not negotiating SportsTalk: Breaking down the labor talks PHT: Whose side are you on in labor dispute? PHT: Fehr says there's 'fairly long road' ahead PHT: Fehr says NHL's offer is 'take it or leave it' CSN: Why a lengthy NHL season still likely PHT: Eager reportedly face charges over bar fight Ad
+    PHT: 'Owners and players are at war,' Ovie says PHT: Will next week make or break season? NHL, union still talking but not negotiating SportsTalk: Breaking down the labor talks PHT: Whose side are you on in labor dispute? PHT: Fehr says there's 'fairly long road' ahead PHT: Fehr says NHL's offer is 'take it or leave it' CSN: Why a lengthy NHL season still likely Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Stephen Dunn / Getty Images Howard's Lakers debut a mixed bag
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Stephen Dunn / Getty Images Is Howard a lock to stay in LA?
     
-    PBT: L.A.'s new center looked agile, spry in 33 minutes and put up respectable numbers in first game since his back surgery. But there was rust and little cohesion among the starters.
+    PBT: When Dwight Howard becomes a free agent next summer, he may choose not to re-sign with the Lakers. But don't count on it. Signs point to him sticking around.
     
-    PBT: Knicks' Stoudemire to miss start of season PBT: Why CP3 will be staying with Clippers T-Mac closing door on NBA return? PBT: Do the Jazz have too much depth? Fantasy Fix: Can rookies prove worthwhile? PBT: Rumors 'not going to worry' LeBron PBT: Howard making Lakers' debut on Sunday? Sports Talk: Could the Lakers win 60 games? Ad
+    PBT: League GMs say Durant more clutch than Kobe PBT: GMs predict Heat over Lakers for title Celtics better than last season PBT: LeBron 'doesn't listen to talking heads anymore' Heat still the team to beat PBT: Jeff Van Gundy confirms NBA kept Stan off air PBT: Arenas close to signing to play in China PBT: Spurs not going away by a long shot Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Justin K. Aller / Getty Images K-State leapfrogs Oregon in BCS
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Darron Cummings / AP Manti Te'o for Heisman?
     
-    CFT: There wasn’t much change among the top five in the second BCS rankings. The only move? Kansas State hurdled Oregon to take over the No. 3 position after a convincing win over West Virginia on Saturday.
+    Heisman Hopefuls: The Notre Dame linebacker leads users' rankings. Take your turn at rating the candidates.
     
-    CFT: 'Bama no longer unanimous No. 1 in AP poll Heisman Hopefuls: K-State's Klein is way ahead CFT: Another Oklahoma St. QB done for year Off the Bench: Students dress up as Sandusky CFT: Idaho's Akey first head coach fired in 2012 LSU survives A&M, looks toward Tide No. 4 Kansas State grows better with each game Duke takes over 1st place in ACC Coastal Ad
+    CFT: ACC suspends refs, player for blown calls CFT: Wyoming coach fined, suspended for rant CFT: Top FSU rusher out for season with ACL CFT: Maryland loses 2nd QB this season to ACL tear CFT: QB Mannion upgraded, to start for Beavers CFT: Another Oklahoma St. QB done for year CFT: K-State leapfrogs Oregon in BCS standings CFT: 'Bama no longer unanimous No. 1 in AP poll Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines John Harrelson / Getty Images Kenseth wins in Kansas
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Wesley Hitt / Getty Images Kenseth wins, Keselowski leads
     
-    Matt Kenseth won for the second time in the Chase for the Sprint Cup championship in a caution-marred race at repaved Kansas Speedway. Chase leader Brad Keselowski fnished eighth and maintained his seven-point lead in the standings with four races remaining.
+    The fast, smooth new surface at Kansas Speedway had the potential to wreak havoc on the Chase for the Sprint Cup championship.
     
-    Stenhouse steals Nationwide race at Kansas Rotoworld: New track big draw for Kansas race Motor racing-Andretti christens 'fantastic' Texas racetrack Schumacher riding into the sunset GP of America in NJ postponed until 2014 Patrick can't get it rolling Wolff becomes 4th female to drive an F1 car McLaren want Hamilton to feel the love Ad
+    Kenseth feeling nostalgic in final month with RFR Stenhouse steals Nationwide race at Kansas Rotoworld: New track big draw for Kansas race Motor racing-Andretti christens 'fantastic' Texas racetrack Schumacher riding into the sunset GP of America in NJ postponed until 2014 Patrick can't get it rolling Wolff becomes 4th female to drive an F1 car Ad
 *   NCAA BK
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Damian Dovarganes / AP UCLA's freshmen stars in limbo
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Dave Martin / AP Canaan: 'I think I'm the best'
     
-    CBT: Kyle Anderson and Shabazz Muhammad have yet to be cleared by the NCAA. And it doesn't sound like either should prep for it any time soon.
+    CBT: Murray State star makes his claim to being the nation's top player. And he may very well be right.
     
-    UCLA's David Wear hurts ankle, will have X-rays CBT: IU's Zeller has improved 'all over the court' CBT: Dayton desperate to keep First Four Gophers assistant Smith on leave after DUI CBT: Jabari Parker meets Spartans' soccer team Texas' Kabongo practicing amid NCAA probe CBT: Athletes should be paid, KU's Self says SportsTalk: Don't overlook Kansas this season Ad
+    CBT: Kentucky tabbed SEC favorites, but ... CBT: Tobacco Road triumvirate tops ACC CBT: MWC apparently a two-team race, in everything CBT: UConn coach wants lower rims in women's game Idaho will join Big Sky Conference in 2014 CBT's top 25 countdown: Baylor at No. 10 UCLA's David Wear hurts ankle, will have X-rays CBT: IU's Zeller has improved 'all over the court' Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Gainey upsets Love, Furyk for McGladrey win
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines A history of golf's strange swings
     
-    ‘Big Break’ alumnus Tommy ‘Two Gloves’ Gainey upset Jim Furyk and Davis Love after a record-setting 60 Sunday for the McGladrey win.
+    ... to skin a cat. Or more appropriately, to swing a golf club. Randall Mell lists the top 10 most unusual swings in tour golf history.
     
-    Gainey wins McGladrey Classic with course-record 60 Pettersen wins LPGA HanaBank in playoff Gainey on final-round 60: 'I wasn't thinking about 59' Injury forces Els out of Grand Slam. replaced by Harrington What We Learned: McGladrey Classic Toms fires final-round 63 for best finish of year Quotes of the Week Popular caddie Scott Steele dies after heart attack Déjà vu for bubble boy Mathis at McGladrey Bradley describes Ryder Cup strategy, golf with Jordan McIlroy, Woods commit to Abu Dhabi again Ad
+    Woods to build course in Cabo San Lucas Gainey wins McGladrey Classic with course-record 60 Who has the most unorthodox swing in the game? Gainey moves to No. 125 in world ranking Pettersen wins LPGA HanaBank in playoff Lack of crowd control irks players at HanaBank Injury forces Els out of Grand Slam. replaced by Harrington What We Learned: McGladrey Classic Quotes of the Week Popular caddie Scott Steele dies after heart attack Your gloves and grips deserve proper consideration Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Benoit Tessier / Reuters It took 9 rounds, but PSG in first
+    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Lluis Gene / AFP - Getty Images Will Barca overlook Celtic?
     
-    PST: Those free-spending Parisians probably should've been ruling Ligue 1 before now. But hey, it's not like it was going to be a cakewalk.
+    PST: Lionel Messi's team is a massive favorite in its Champions League Group G game — which means the Spartak Moscow-Benfica game could be the more compelling one.
     
-    Evans scores twice as Sounders down FC Dallas, 3-1 PST: Mixed reviews for US women after draw Ferdinand, bro boycott T-shirts Timbers top Whitecaps, take Cascadia Cup Cassano leads Inter to 2-0 win over Catania Toluca beats Santos Laguna to take Mexican lead Roundup: Messi scores first hat track of season Police arrest man after goalkeeper attack Ad
+    PST: Is Bayern in trouble in Group F? PST: Danger match for Chelsea in Ukraine PST: Guardiola to Bayern? Just speculation, but … Donovan, Beckham back at practice for L.A. Galaxy PST: What a massive day for San Jose soccer PST: Galaxy defender calls SJ style 'embarrassing' PST: It took 9 rounds, but PSG in first Evans scores twice as Sounders down FC Dallas Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines NBC Sports Wagner skates to first
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Chuck Burton / AP Who will replace Coach K?
     
-    American Ashley Wagner wins her first ISU Grand Prix title as she takes first place in the Ladies short program. USA's Christina Gao and Russia’s Adelina Sotnikova followed in second and third, respectively.
+    OlympicTalk: Rumors are already swirling about who will take Coack Mike Krzyzewski’s spot on the Team USA bench. Here are the five best college options.
     
-    Olympic star Franklin commits to Cal Lolo Jones off to strong start at bobsled trials Short-track records fall at Calgary World Cup OlympicTalk: Vonn aiming to face men in Kitzbuehel Davis, White win 3rd straight Skate America dance OlympicTalk: Gabby named Sportswoman of the Year OlympicTalk: Could Games return to Salt Lake City? Wagner posts high score in women's short program Ad
+    OlympicTalk: Lolo pushing for Winter Olympics spot OlympicTalk: Were Aussie swimmers sleepwalking? Video: Wagner wins first ISU Grand Prix title OlympicTalk: Missy stays golden, commits to Cal Short-track records fall at Calgary World Cup OlympicTalk: Vonn aiming to face men in Kitzbuehel Davis, White win 3rd straight Skate America dance OlympicTalk: Gabby named Sportswoman of the Year Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Michael Conroy / AP Quite the WNBA fever for Indiana
+    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines NBC Sports Sad day for cycling world
     
-    Tamika scored 25 points to help the Indiana Fever win their first title with an 87-78 victory over the Minnesota Lynx on Sunday night.
+    SportsTalk: Cycling analyst Phil Liggett says that Lance Armstrong being stripped of all seven of his Tour de France titles and USADA being banned for life for doping makes for a tough day.
     
-    Venus wins first title since 2010 Berdych beats Tsonga in 3 sets to win in Stockholm Del Potro beats Zemlja to win 12th title at Vienna Cruz wins first fight since announcing he's gay Retired Frankel heads into life as a stallion Armstrong says last few weeks 'difficult' UCI to rule on Armstrong case Monday Sports backgrounds for Obama, Romney Ad
+    Armstrong stripped of his 7 Tour de France titles Trash Talk: Cycling should not forget Lance Oakley joins list of sponsors to drop Armstrong Analysis: Lance's legacy hangs over cycling's future Catchings and Fever win first WNBA title Cheerleading needs sports safety rules, docs say Venus wins first WTA tourney title since 2010 Berdych beats Tsonga in 3 sets to win in Stockholm Ad
 
 *   Scores
 *   Odds
@@ -190,4 +190,4 @@ CFT's Fifth Quarter: Four teams clearly above the rest
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
-AdChoices SportsNFL College football MLB NBA NHL College basketball NASCAR/Motors Golf Tennis Soccer Other Sports Quick linksScores RSS Feeds Tickets TV Listings Fantasy Games Universal Sports NBC Sports Feedback Go Mobile Shop NBC TV Listings **Day** **Time** **Event** **Location** **Talent** **Saturday, Oct. 20** 1:30 - 3:30 p.m. Dew Tour Toyota City Championships San Francisco, Calif. Carolyn Manno, Todd Harris, Todd Richards, Jamie Bestwick, Paul Zitzer, Chris Miller, Tiffany Simons 3:30 - 7 p.m. BYU at Notre Dame South Bend, Ind. Tom Hammond, Mike Mayock, Alex Flanagan **Sunday, Oct. 21** 2 - 4 p.m. Dew Tour Toyota City Championships San Francisco, Calif. Carolyn Manno, Todd Harris, Todd Richards, Jamie Bestwick, Paul Zitzer, Chris Miller, Tiffany Simons 4 - 6 p.m. Skate America Seattle Terry Gannon, Scott Hamilton, Tracy Wilson, Andrea Joyce 7 - 8:20 p.m. Football Night in America New York Bob Costas, Dan Patrick, Tony Dungy, Rodney Harrison, Peter King, Alex Flanagan, Mike Florio, Hines Ward 8:20 - Conclusion Sunday Night Football: Steelers at Bengals Cincinnati, Ohio Al Michaels, Cris Collinsworth, Michele Tafoya Note: All times ET
+AdChoices SportsNFL College football MLB NBA NHL College basketball NASCAR/Motors Golf Tennis Soccer Other Sports Quick linksScores RSS Feeds Tickets TV Listings Fantasy Games Universal Sports NBC Sports Feedback Go Mobile Shop NBC TV Listings **Day** **Time** **Event** **Location** **Talent** **Saturday, Oct. 27** 1:30 - 4 p.m. MLS: New York at Philadelphia Philadelphia Arlo White, Kyle Martino, Russ Thaler 4 - 6 p.m. Ironman World Championships Kona, Hawaii Al Trautwig **Sunday, Oct. 28** 2 - 4 p.m. ISU Grand Prix Figure Skating Windsor, Ontario, Canada Terry Gannon, MIchael Weiss, Tara Lipinski 4 - 6 p.m. Professional Bull Riding Finals Las Vegas Criag Hummer, Ty Murray, JW Hart, Justin McBride, Leah Garcia, Marty Snider 7 - 8:20 p.m. Football Night in America New York Bob Costas, Dan Patrick, Tony Dungy, Rodney Harrison, Peter King, Alex Flanagan, Mike Florio, Hines Ward 8:20 - Conclusion Sunday Night Football: Saints at Broncos Denver Al Michaels, Cris Collinsworth, Michele Tafoya Note: All times ET
