@@ -8,12 +8,12 @@ Register Sign in Welcome, Logout
         *   Mitt Romney
         *   Barack Obama
         *   2012 Presidential Debates
-        *   Elections 2012
-        *   Television
-        *   Music
-        *   Parenting
+        *   Election 2012
+        *   George McGovern
+        *   From the Wires
+        *   Foreign policy
+        *   Democratic Party
         *   TV
-        *   Libya embassy attack
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -190,33 +190,33 @@ If you have any further questions or concerns about Salonâs privacy policie
 *   Corrections
 *   DMCA Policy
 
-About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service | TechTips iPhone app
+About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service | TechTips 2012 Election
 
-Take Salon on the go â download our free app now
+Final showdown: Watch the debate with Salon
 
-Current Stories Pussy Riot members moved to far-flung prison colonies
+Current Stories A last-ditch pitch to women
 
-News. The two incarcerated punk protesters will serve out sentences far from Moscow
+News. Obama and Romney threw in as many references to women as possible, just in case
 
-Our terribly confused moderates
+Mitt's disappearing act
 
-Politics. Adams, Bloomberg, Brooks and Bissinger: None of them can admit to themselves that they're just regular Democrats
+Politics. The GOP nominee knew there was no way for him to win the foreign policy debate, and it really showed
 
-PJ OâRourke: We live in an age of "1984"-lite
+"October surprise" site reveals debate night secret
 
-Entertainment. The writer examines the five satires that have most influenced the way he sees the world
+Entertainment. Mystery countdown site delivers surprising message from 1987 on debate night
 
-My daughter can't be average
+We're finally getting honest
 
-Life. After Tashi's scores came back, I wanted to prove she was smart. Instead, I learned how stupid I can be
+Life. Lies, infidelity, lack of love -- my marriage was no good until we told the truth
 
 Most Read
 
+*   Why a Romney win would be bad for America Steve Kornacki
+*   What is Donald Trump's "very big" announcement? Prachi Gupta
 *   Toxic atheism drives people apart Chris Stedman
-*   Why President Romney would let down the right Meg Jacobs
-*   Fox News cost Mitt the debate Jonathan Bernstein
-*   Five startling facts about Mitt's investments Joshua Holland, Alternet
-*   It's not just forced ultrasound: Abortion rights under assault Michelle Chen
+*   Debate fact check Alex Seitz-Wald
+*   GOP's new punching bag Alex Seitz-Wald
 
 Voices
 
