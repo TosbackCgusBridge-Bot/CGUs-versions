@@ -316,6 +316,8 @@ Contact Us Online or Call 888-839-9638
 
 By using this Website, you agree to our Conditions of Use, Legal Notices, and Privacy Policy.
 
-Sale prices valid in stores and online September 24 - October 22, 2012 unless otherwise noted.
+Sale prices valid in stores and online October 22 - November 25, 2012 unless otherwise noted.
 
-Any discount or special offer on this website, including PetPerks offers, are not valid in Puerto Rico unless an offer specifically includes Puerto Rico. Cualquier descuento u oferta especial en esta página, incluyendo las ofertas de PetPerks, no son válidas en Puerto Rico a menos que alguna oferta en específico indique lo contrario.
+Any discount or special offer on this website, including PetPerks offers, are not valid in Puerto Rico unless an offer specifically includes Puerto Rico.
+
+Cualquier descuento u oferta especial en esta página, incluyendo las ofertas de PetPerks, no son válidas en Puerto Rico a menos que alguna oferta en específico indique lo contrario.
