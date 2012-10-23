@@ -8,7 +8,7 @@ The Adobe Privacy Policy describes the privacy practices of Adobe's websites, pr
 
 Read the full policy ›
 
-Or jump to:
+**Or jump to:**
 
 What information does Adobe collect about me?
 
@@ -22,17 +22,29 @@ How can I review, update, or delete my personal information?
 
 Will Adobe market to me?
 
-Page tools Bookmark Print Set your privacy choices for:
+Page tools Bookmark Print Privacy information
 
-Email, telephone, and postal marketing ›
+Adobe Privacy Policy
 
-Interest-based Adobe ads ›
+Advertising services
 
-Measuring your use of Adobe websites and tailoring your experience ›
+Analytics services
 
-Our customers’ use of Adobe hosted services ›
+Applications
 
-Privacy resources Adobe Privacy Policy Cookies and similar technologies Adobe hosted services Adobe marketing and advertising practices Privacy in Adobe applications Adobe and social networking Other Adobe privacy policies Adobe Safe Harbor Privacy Policy Ask a question Products
+Cookies
+
+Hosted services
+
+Marketing
+
+Other policies
+
+Safe Harbor
+
+Social networking
+
+Need additional help? Ask a question Products
 
 *   Acrobat
 *   Creative Cloud
