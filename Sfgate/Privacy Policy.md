@@ -1,6 +1,6 @@
 (skip this header)
 
-Monday Oct 22, 2012 5:05 AM PT
+Tuesday Oct 23, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,12 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Chopra: Upside of a conflict
-*   Injured vets' bike ride
+*   BAY AREA vanity plate
+*   Tweet to your next job
+*   Russell Means dies
+*   Chinatown ghost tour
+*   Top tastes
 *   Chronicle election endorsements
-*   Cuba embargo lives
-*   Giants playoff gear!
 
 *   Bay Area &. State
 *   Nation
@@ -338,6 +339,21 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Nation in Focus
+*   World in Focus
+*   Final 2012 presidential debate
+*   Final 2012 presidential debate
+*   Game 7: Giants vs. Cardinals
+*   2012 presidential town hall debate
+*   Final 2012 presidential debate
+*   Promoted twitter debate 3
+*   26th Anniversary Carousel of Hope Ball
+*   3 stars for Mill Valley Beerworks
+*   Magnus Nilsson
+*   Tyler Florence chairs SF, Marin Food Banks' gala
+*   Day in Pictures, Oct. 22, 2012
+*   First blizzard
+*   Favorite dishes 10/22/2012
 *   Most Haunted Homes in the U.S.
 *   Nation in Focus
 *   World in Focus
@@ -359,22 +375,7 @@ Ads by Yahoo! Photo Galleries
 *   Starbucks in India
 *   Favorite stops in Los Angeles
 *   Greeks protest nationwide against cuts
-*   Nation in Focus
 *   Week 7: 49ers vs. Seahawks
-*   World in Focus
-*   Game 4: Giants vs. Cardinals
-*   49ers fans tailgate on Thursday night
-*   Giants at Cardinals: Game 3
-*   Hofstra Debate
-*   Mario Testino exhibition reception
-*   Obama celebrity supporters
-*   Athletes get political
-*   Day in Pictures, Oct. 18, 2012
-*   On the way to LA
-*   Kiss
-*   Awesome displays of Halloween spirit
-*   Halloween candy: Then and now
-*   Matt Carpenter’s HR hammers SF Giants
 *   Nation in Focus
 *   World in Focus
 
@@ -384,55 +385,54 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Friends: Wife of gunman is dedicated mother
-2.  Giants' Vogelsong stifles St. Louis in 6-1 win
-3.  Tiny meteorite fragment hits Novato home
-4.  Storm to bring rain, chill, fire relief
-5.  Bridge School review: A year to forget
-6.  Name that $123,000 a day superstar: Yes, it’s Judge Judy
-7.  Vallejo police kill man during rampage
+1.  Giants' Game 7 romp led by Cain, Scutaro
+2.  Analysis: Obama barely breaks a sweat in final debate
+3.  Fox announcer Buck says he isn't biased
+4.  Piedmont High School students involved in ‘Fantasy Slut League’
+5.  Obama Won Final Presidential Debate, 48 Percent Say in CNN Poll
+6.  At S.F. bars, Giants trump debate
+7.  Giant win - on to World Series
 
-1.  Ross Mirkarimi met with mayoral silence
-2.  Vallejo police kill suspect in drug-fueled rampage
-3.  Psst, taxes go up in 2013 for 163 million workers
-4.  Giants beat Cardinals 6-1, force Game 7
-5.  George McGovern dies. lost 1972 presidential bid
-6.  Name that $123,000 a day superstar: Yes, it%u2019s Judge Judy
-7.  Police: Costumed Pa. girl mistaken for skunk, shot
+1.  Tips for Obama, Romney in final debate
+2.  Abercrombie jet rules covered underwear
+3.  All the way back: Giants in World Series
+4.  Youth sentenced for killing two in crash
+5.  Parents considering legal action over school yoga
+6.  Piedmont High School students involved in 'Fantasy Slut League'
+7.  Thai face slapping in S.F.
 
-1.  Tiny meteorite fragment hits Novato home
-2.  Dianne Feinstein: 4 decades of influence
-3.  Storm to bring rain, chill, fire relief
-4.  Flat-panel alternative to satellite dish
-5.  Private colleges boom as Calif universities falter
-6.  SF Opera's 'Lohengrin' revitalizes tale
-7.  Denton woman 1st NC bad drug meningitis death
+1.  Thai face slapping in S.F.
+2.  Giants' Game 7 romp led by Cain, Scutaro
+3.  Innovators feed Valencia restaurant boom
+4.  FDA: 5 reported deaths with Monster drink link
+5.  Study: Male beluga whale mimics human speech
+6.  22-Year-Old Best Buy Employee Sunny Singhs Wins Massachusetts' $30.5 Mega Millions Jackpot
+7.  A cake? A cookie? No, it's a whoopie pie
 
 loading... Latest News Videos From our homepage
 
 *     
-    Brant Ward, The Chronicle / SF
+    Russell Yip, The Chronicle / SF
     
-    Game 7 here we come
+    The face-slap way to beauty
     
-    Vogey throws another gem, hitters come alive in 6-1 Game 6 win.
+    Forget Botox or costly face-lifts. For a firm face, let Tata the Thai masseuse slap you silly.
     
-*   Game 7 pressure | Overheard
 
 *     
     John Storey, Special To The Chronicle / SF
     
     San Francisco Chronicle Copyright 2012 San Francisco Chronicle. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 3:04 a.m., Monday, October 22, 2012 3 blocks, 16 new restaurants
     
-    In this small stretch of the Mission, a huge number of spots have recently opened. See 'em!
+    In this small stretch of the Mission, a huge number of tasty spots has recently opened. See 'em!
     
 
 *     
-    DAMIAN DOVARGANES, AP / AP
+    Barry Brecheisen, Associated Press / SF
     
-    $123,000 a day superstar
+    Bridge show's year to forget
     
-    Judge Judy hauls in more cash than pretty much every other celebrity. Check out top earners.
+    Axl Rose can't even remember lyrics to his big hit at an off year for Neil Young's benefit concert.
     
 
 *   Home
