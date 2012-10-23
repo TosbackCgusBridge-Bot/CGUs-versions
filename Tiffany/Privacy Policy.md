@@ -64,6 +64,8 @@ Skip to main content
     
     *   Elsa PerettiÂ® Accessories
     
+    *   Product Care Items
+    
 *   Gifts
     
     *   Gifts for Her
@@ -82,6 +84,8 @@ Skip to main content
     *   Fragrance
     *   Gift Cards
     *   Wedding Gifts
+    
+    *   Product Care Items
     
 *   The World of Tiffany
     
