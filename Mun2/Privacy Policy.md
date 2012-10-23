@@ -23,9 +23,9 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 22 02:00 AM · L'CREME coming up next:
+schedule right now: October 23 04:00 AM · MORNING BREATH coming up next:
 
-*   3:00 AM · MORNING BREATH
+*   5:00 AM · MORNING BREATH
 *   6:00 AM · SMB
 *   8:00 AM · MORNING BREATH
 *   9:00 AM · MORNING BREATH
@@ -33,13 +33,13 @@ schedule right now: October 22 02:00 AM · L'CREME coming up next:
 *   11:00 AM · MORNING BREATH
 *   12:00 PM · L'CREME
 *   1:00 PM · AL CIEN 100%
-*   2:30 PM · 18 &. OVER
-*   4:00 PM · L'CREME
-*   5:00 PM · AL CIEN 100%
+*   2:00 PM · L'CREME
+*   3:00 PM · mun2 PRESENTS: BELINDA
+*   4:00 PM · AL CIEN 100%
+*   5:00 PM · L'CREME
 *   6:00 PM · 12 CORAZONES
 *   7:00 PM · OPERACION REPO
 *   7:30 PM · OPERACION REPO
-*   8:00 PM · I LOVE JENNI
 
 see full schedule >>.
 
