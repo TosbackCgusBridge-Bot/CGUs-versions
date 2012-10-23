@@ -1,4 +1,4 @@
-Gifts.com Fall ContestsWin $1000 and More X Win $1000 and more! Pin a gift from Gifts.com for a chance to WIN IT! Well choose a winner every week to win the gift, up to a $100 value. Learn more. Learn More
+Gifts.com Fall ContestsWin $1000 and More X Win $1000 and more! Pin a gift from Gifts.com for a chance to WIN IT! Well choose a winner every week to win the gift, up to a $100 value. Learn More Vote for the Best Gifts of 2012 &. You Could Win $1000! Learn More
 
 *   Men Shop by Occasion
     
@@ -167,9 +167,8 @@ Gifts.com Fall ContestsWin $1000 and More X Win $1000 and more! Pin a gift from 
 *   Occasion Upcoming
     
     *   Breast Cancer Awareness
-    *   Bosses Day (10/16)
-    
     *   Halloween (10/31)
+    
     *   Thanksgiving (11/22)
     
     *   Christmas (12/25)
@@ -201,13 +200,13 @@ Gifts.com Fall ContestsWin $1000 and More X Win $1000 and more! Pin a gift from 
     *   Business &. Executive
     *   Computers &. Electronics
     *   **Eco-Friendly Gifts**
+    *   Election 2012
     *   Experiential Gifts
     *   Flowers
     *   Gag Gifts
     *   Gardening &. Yard Gifts
-    *   **Gift Baskets**
     
-    *   Golf Gifts
+    *   **Gift Baskets**
     *   Gourmet Food &. Beverages
     *   Home Decor
     *   Made in the USA
