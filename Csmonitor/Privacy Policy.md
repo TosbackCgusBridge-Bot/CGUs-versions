@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Anxious Turks suspect US plot is behind Syria's implosion
-2.  US and Iran: Could Romney be tougher than Obama? Unlikely.
-3.  Presidential debate 101: Does Romney’s tax math add up?
-4.  Polls show presidential race a dead heat
-5.  How the Obama-Romney foreign policy debate could determine the election
+1.  Who won presidential debate? Both Obama and Romney, maybe.
+2.  Earthquake predictions and a triumph of scientific illiteracy in an Italian court
+3.  Wisconsin spa killings: Shooting followed tragic script of domestic violence (+video)
+4.  Chevy Chase rant: 'Community' star uses racial epithet on set
+5.  Pussy Riot to prison colony: Two women transferred from Moscow jail
 
 About these ads
 
@@ -111,17 +111,17 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Difference Maker  
-    Steven Amstrup says it's not too late to save polar bears – and ourselves
+*   Cover Story  
+    Reverse brain drain: Economic shifts lure migrants home
     
-    'We know the answer to what it takes to save' polar bears, says environmental prize winner Steven Amstrup, who has gone to the Arctic to study the bears for 30 years.
+    The tide of brain drain – from developing countries to industrialized nations – has turned. Human capital is returning home to Asia, Latin America, Eastern Europe, and Africa, while some European professionals squeezed by the recession, turn toward developing countries for advancement.
     
-*   Progress Watch: Why teen drinking and driving has been cut in half in past 20 years
-*   Orionid meteor shower: Watch for fireballs during weekend peak
-*   Can Republicans increase their ranks of governors? Four races to watch.
-*   Opinion: Millennial generation could kill the NFL
+*   Decoder Wire: Bob Schieffer and presidential debate: Will this moderator enforce the rules?
+*   How Catholics could decide the presidential election
+*   Archaic defamation laws threaten Caribbean media
+*   Latin America Monitor: Rio's slums attract young, hip European immigrants looking for cheap housing
 
-_Photos of the day_ 10.21.12 » Photos of the Weekend 10/21
+_Photos of the day_ 10.22.12 » Photos of the Day 10/22
 
 **CSMonitor.com** on Facebook
 
@@ -143,10 +143,12 @@ Steven Amstrup says it's not too late to save polar bears – and ourselves
 
 Become part of the Monitor community
 
-*   Science ‘Beetlejuice’ sparks? Meteor shower brings 'shooting stars' and 'earthgrazers'
-*   The Culture Helen Hunt stars in 'The Sessions' (+trailer)
-*   USA Presidential debate: How would you rate this musical parody? (+video)
-*   The Culture A middle school turns out chess champions in 'Brooklyn Castle'
+*   The Culture Lindsey Lohan intervention: Why did it fail? (+video)
+*   USA Donald Trump teases 'big' announcement: Is he trying to get in Obama's head?
+*   Commentary The Monitor's View: With Lance Armstrong stripped of Tour de France titles, cycling can recover
+*   The Culture Chevy Chase rant: 'Community' star uses racial epithet on set
+*   Books Pippa Middleton: Why am I famous?
+*   The Culture Obama and Jay-Z swap parenting advice
 *   Science For Mars rover Curiosity, at last, it's dinnertime. On the menu: dirt.
 *   Making a Difference Steven Amstrup says it's not too late to save polar bears – and ourselves
 
