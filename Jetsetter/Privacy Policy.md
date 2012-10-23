@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Hawthorn at The Porches Steamboat Springs, Colorado
-    
-    Starting Today at Noon EDT
-    
-*   A Tokyo Mystery Hotel
-    
-    Starting Today 10/22 at 3pm EDT
-    
-*   Amalfi Hotel Chicago
-    
-    Starting Today 10/22 at 3pm EDT
-    
-*   Villagio Inn &. Spa - Napa
-    
-    Starting Today 10/22 at 3pm EDT
-    
-*   A Hong Kong Mystery Hotel
-    
-    Starting Today 10/22 at 3pm EDT
-    
-*   The Strand Hotel - NYC
-    
-    Starting Tuesday 10/23 at 3pm EDT
-    
 *   The Standard Downtown LA Los Angeles, California
     
-    Starting Tuesday 10/23 at 3pm EDT
+    Starting Today 10/23 at 3pm EDT
     
 *   Atlantic Hotel - Ft Lauderdale
     
-    Starting Tuesday 10/23 at 3pm EDT
+    Starting Today 10/23 at 3pm EDT
+    
+*   The Strand Hotel - NYC
+    
+    Starting Today 10/23 at 3pm EDT
+    
+*   The Bentwood Inn - Wyoming
+    
+    Starting Wednesday 10/24 at 3pm EDT
+    
+*   Hotel Sofitel - DC
+    
+    Starting Wednesday 10/24 at 3pm EDT
+    
+*   Parador Resort and Spa - CR
+    
+    Starting Wednesday 10/24 at 3pm EDT
+    
+*   Revere Hotel Boston Common
+    
+    Starting Wednesday 10/24 at 3pm EDT
+    
+*   The American Club - Wisconsin Kohler, Wisconsin
+    
+    Starting Wednesday 10/24 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
