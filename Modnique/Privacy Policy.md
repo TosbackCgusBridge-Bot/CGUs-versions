@@ -44,134 +44,108 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
+    *   Alex Max and Fleur de Lis handbags
+    *   Beyond the Beauty Hair tools
     *   C Bar A Women's Apparel
+    *   Chanel
     *   Clips Accessories Made In Italy
     *   Coach handbags
-    *   Designer shoes under $49
+    *   Designer Jewelry
     *   Esprit Outwear
-    *   Fall essentials blowout for her
+    *   Glamour Dresses
+    *   Jeanne Darc, No Limit, Vipart Women's Apparel
+    *   Lauren G. Adams
     *   Milan Fashion Trends
     *   New York Fashion Trends
     *   Our Favorite Diamond Styles
     *   Paris Fashion Trends
     *   Silver jewelry sale: earrings &. rings
-    *   Silver jewelry sale: necklaces &. bracelets
-    *   The Fashion Room from $19
-    *   Women's Fragrances: Bvlgari, Lanvin, Gucci, Burberry
     *   _more..._
     *   men
-    *   Fall essentials blowout for him
-    *   Mens shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
+    *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
+    *   Men's Shop: DVS Shoes
     *   _more..._
     *   other
-    *   Bottega, Hogan, Jimmy Choo sunglasses
-    *   Gemstone jewelry blowout
-    *   Get the Watch You Want: under $99
-    *   Rolex
+    *   Akribos XXIV, Adee Kaye, Croton, Blumarine and more
+    *   iPhone Accessories
     *   _more..._
 *   apparel
     *   women
-    *   Antique Rivets Denim for Him and Her
     *   C Bar A Women's Apparel
-    *   Ellen Tracy Outwear
     *   Esprit Outwear
     *   Everything under $39
     *   Fall essentials blowout for her
-    *   Golden Silver Women's Apparel
-    *   Jantie Women's Apparel Made In USA
-    *   John Meyer Missy Women's Suits
-    *   Josh Brody mixed apparel
+    *   Glamour Dresses
+    *   Jeanne Darc, No Limit, Vipart Women's Apparel
     *   New York Fashion Trends
     *   Paris Fashion Trends
-    *   RED Valentino Featuring Shoes &. Apparel
-    *   Sexy Diva Dresses Made in USA
     *   Teez Her Active Wear
-    *   The Fashion Room from $19
     *   _more..._
     *   men
     *   Fall essentials blowout for him
-    *   Mens shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
-    *   Uomini Italiani Men's Apparel
+    *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
     *   _more..._
 *   Jewelry &. Watches
     *   women
-    *   100 best season jewelry styles
     *   Affordable Jewelry
     *   Bella Pearls
     *   Designer Jewelry
-    *   Designer jewelry: Touch of Color
-    *   Dolce &. Gabanna jewelry and Accessories
     *   Dv Italy jewelry
     *   Elegant evening jewelry deals
-    *   FPJ jewelry
+    *   Lauren G. Adams
     *   Our Favorite Diamond Styles
     *   Paris Fashion Trends
     *   Silver jewelry sale: earrings &. rings
     *   Silver jewelry sale: necklaces &. bracelets
-    *   Zoppini &. Manuel Zed Jewelry
+    *   Sterling Silver Jewelry Set With Genuine Citrines
+    *   _more..._
+    *   men
     *   _more..._
     *   other
-    *   100 best season watch styles
+    *   Akribos XXIV, Adee Kaye, Croton, Blumarine and more
     *   Designer Watches for Less
-    *   Gemstone jewelry blowout
     *   Get the Watch You Want: under $99
-    *   Rolex
     *   Time for luxury style: designer watches
     *   _more..._
 *   Handbags &. Accessories
     *   women
-    *   Brand Too Hot to Mention: Designer Scarves
+    *   Alex Max and Fleur de Lis handbags
+    *   Chanel
     *   Clips Accessories Made In Italy
     *   Coach handbags
     *   Designer Jewelry
-    *   Dolce &. Gabanna jewelry and Accessories
-    *   Elysa handbags
-    *   French designers handbags
     *   Iris Tyler handbags
-    *   Kenneth Cole Accessories
-    *   Kontessa Winter Accssesories Made In Italy
     *   Milan Fashion Trends
     *   Paris Fashion Trends
     *   _more..._
     *   men
-    *   Mens shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
-    *   Valentino Men's Scarves and Ties
+    *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
     *   _more..._
     *   other
-    *   Bottega, Hogan, Jimmy Choo sunglasses
-    *   Chinini iPhone &. iPad Accessories
-    *   Piquadro Travel Accssesories Made In Italy blowout
+    *   Piquadro Travel Accessories Made In Italy blowout
+    *   iPhone Accessories
     *   _more..._
 *   shoes
     *   women
     *   Designer shoes under $49
-    *   Mary-Jane Pumps
-    *   Must-Have Booties
     *   Pointy-Toe Flats
-    *   RED Valentino Featuring Shoes &. Apparel
-    *   Sergio Rossi, Gianfranco Ferre, Gucci and more Shoes
     *   _more..._
     *   men
+    *   Men's Shop: DVS Shoes
     *   _more..._
 *   beauty
     *   women
-    *   La Prairie Cosmetics
-    *   Red Ginger Cosmetics
-    *   Women's Fragrances: Bvlgari, Lanvin, Gucci, Burberry
+    *   Beyond the Beauty Hair tools
     *   _more..._
 *   men
-    *   100 best season watch styles
-    *   Bottega, Hogan, Jimmy Choo sunglasses
+    *   Akribos XXIV, Adee Kaye, Croton, Blumarine and more
     *   Designer Watches for Less
     *   Fall essentials blowout for him
-    *   Gemstone jewelry blowout
     *   Get the Watch You Want: under $99
-    *   Mens shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
-    *   Piquadro Travel Accssesories Made In Italy blowout
-    *   Rolex
+    *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
+    *   Men's Shop: DVS Shoes
+    *   Piquadro Travel Accessories Made In Italy blowout
     *   Time for luxury style: designer watches
-    *   Uomini Italiani Men's Apparel
-    *   Valentino Men's Scarves and Ties
     *   and many more...
 *   gifts
 *   daily deal
