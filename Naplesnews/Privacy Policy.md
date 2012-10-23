@@ -435,25 +435,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Coin toss: Blaming Obama, East Naples man accused of throwing pennies at Dems Published 10/20/2012 at 10:10 p.m. 93 comments
-*   Daily News/Scripps poll: Romney and Obama in dead heat in Florida Published 10/21/2012 at 8:00 a.m. 66 comments
-*   Naples Players dare to go bare in steamy French thriller Published 10/22/2012 at 4:01 a.m. 3 comments
-*   The lost sons of Fort Myers: Police struggle for solutions amid record-high body count Published 10/21/2012 at 7:00 a.m. 21 comments
-*   Shooting by deputies, bicyclist hit-and-run bring sirens to same neighborhood Published 10/21/2012 at 7:30 a.m.
+*   Deputies: Deadly hit-and-run suspect caught sleeping in car, cocaine on his lap Updated 10/22/2012 at 8:22 p.m. 21 comments
+*   Theaters grapple with nudity, controversial content in conservative Southwest Florida Published 10/22/2012 at 4:00 a.m. 2 comments
+*   Obama, Romney seek foreign policy edge in final debate tonight Published 10/22/2012 at 1:28 p.m. 89 comments
+*   Naples airport terminal missing more than just commercial airlines Published 10/22/2012 at 5:30 a.m. 27 comments
+*   Fake letters saying people ineligible to vote reported by Collier elections officials Updated 10/22/2012 at 9:35 p.m. 27 comments
 
-Photo Galleries Stiletto Sprint 2012 Fort Myers Prostitution Arrests: Oct… Fort Myers ZombiCon 2012
+Photo Galleries Fort Myers ZombiCon 2012 Stiletto Sprint 2012 Fort Myers Prostitution Arrests: Oct…
 
-*   Ryan: Florida to decide 'what kind of country we're going to have' Published 10/18/2012 at 1:01 p.m. 248 comments
-*   Countdown to debate: Romney ups criticism of Obama's second-term plans Published 10/20/2012 at 12:11 p.m. 113 comments
-*   Coin toss: Blaming Obama, East Naples man accused of throwing pennies at Dems Published 10/20/2012 at 10:10 p.m. 93 comments
-*   Daily News/Scripps poll: Romney and Obama in dead heat in Florida Published 10/21/2012 at 8:00 a.m. 66 comments
-*   Witnesses: Deputy shot man outside of 7-Eleven in East Naples Published 10/19/2012 at 9:27 a.m.
+*   Countdown to debate: Romney ups criticism of Obama's second-term plans Published 10/20/2012 at 12:11 p.m. 129 comments
+*   5 things to watch for tonight in final presidential debate Published 10/22/2012 at 6:34 a.m. 127 comments
+*   Coin toss: Blaming Obama, East Naples man accused of throwing pennies at Dems Published 10/20/2012 at 10:10 p.m. 110 comments
+*   Obama, Romney seek foreign policy edge in final debate tonight Published 10/22/2012 at 1:28 p.m. 89 comments
+*   Letter of the Day: Stop your whining! Published 10/21/2012 at 4:00 a.m. 76 comments
 
 *   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 54 comments
 *   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 290 comments
 *   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
-*   In the Know: What can and can't be recycled in Collier County? Published 10/15/2012 at 5:00 a.m. 12 comments
 *   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 54 comments
+*   In the Know: What can and can't be recycled in Collier County? Published 10/15/2012 at 5:00 a.m. 12 comments
 
 Weather
 
@@ -461,40 +461,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 66° Fair Wind: NE 7mph Today 86° 66° Mon 08:00 PM Mostly Clear Temp: 80° Tue 08:00 AM Mostly Sunny Temp: 72° Tue 08:00 PM Mostly Clear Temp: 80°
-
-Feels Like: 82°
-
-Humidity: 58%
-
-Precip: 5%
-
-Feels Like: 72°
-
-Humidity: 79%
-
-Precip: 4%
+Currently 69° Fair Wind: N 5mph Today 87° 71° Tue 08:00 PM Mostly Clear Temp: 80° Wed 08:00 AM Partly Sunny Showers Temp: 73° Wed 08:00 PM Partly Cloudy Temp: 79°
 
 Feels Like: 82°
 
 Humidity: 62%
 
+Precip: 5%
+
+Feels Like: 73°
+
+Humidity: 85%
+
 Precip: 10%
+
+Feels Like: 79°
+
+Humidity: 69%
+
+Precip: 20%
 
 More Weather » Calendar
 
-*   Monday Oct 22
 *   Tuesday Oct 23
 *   Wednesday Oct 24
+*   Thursday Oct 25
 *   More BROWSE Icon
-
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Baby boot camp Miromar Outlets 9 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Mangrove Estuary Kayak Tour with Up A Creek Kayak Tours Waters of Rookery Bay Reserve 9 a.m.
-*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
-
-More Events »
 
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
@@ -509,6 +501,14 @@ More Events »
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   Yoga at the Center for the Arts Center for the Arts of Bonita Springs 8 a.m.
 *   Yamuna Body Rolling Class Etudes de Ballet 8:50 a.m.
+
+More Events »
+
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Ten Thousand Islands Kayak with Up A Creek KAyak Tours Goodland County Boat Park 9 a.m.
+*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
+*   Paddleboard and Fitness 1st Ave S. Old Naples 9 a.m.
 
 More Events »
 
