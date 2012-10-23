@@ -74,6 +74,7 @@ Thank you for visiting Radio Shack. If you need assistance with shopping on our 
         *   iGo power adapters &. tips
         *   Parts &. tools power
         *   Radio &. scanner power
+        *   Phone &. radio communication power
         *   Portable music power
         *   Solar power
         *   Rechargeable batteries
@@ -119,7 +120,7 @@ Safety, Security &. Privacy
   MasterCard SecureCode  
   
   
-Effective Date: 1/12/04 - Current as of: 10/22/12 8:10:33 AM  
+Effective Date: 1/12/04 - Current as of: 10/23/12 8:12:07 AM  
   
 
 **Online Privacy Policy**
