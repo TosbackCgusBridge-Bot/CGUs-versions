@@ -1,4 +1,4 @@
-*   Monday, October 22, 2012
+*   Tuesday, October 23, 2012
 *   NYDailyNews.com / Privacy Policy
 
 *   Jobs
@@ -48,11 +48,7 @@ Daily News
     Place An Ad
     
 
-BREAKING
-
-Cycling's governing body agrees to strip Lance Armstrong of all 7 Tour de France titles and ban him for life.
-
-x PRIVACY POLICY
+PRIVACY POLICY
 
 This Privacy Policy discloses the privacy practices for NYDailyNews.com and any other affiliated sites, digital services, or applications on which a link to this Privacy Policy appears (collectively, the "Daily News Services"). This Privacy Policy governs the use and collection of information collected from you on the Daily News Services. This Privacy Policy does not apply to information you may provide to us offline or through any means other than the Daily News Services, other than as specifically identified below. For example, this Privacy Policy does not apply to information you may have provided when obtaining a home delivery subscription offline or when entering a sweepstakes by mail, fax or email. As used herein, "we," "us" and "our" refers to Daily News, L.P.
 
