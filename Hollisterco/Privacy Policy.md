@@ -4,11 +4,11 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Sweatpants Sale - $20 &. Up!
+\[hol-HomepageTopBannerEMS\] Two Days Only - All Jeans $29!
 
-*   Shop Dudes Sweatpants
+*   Shop Dudes Jeans
 
-*   Shop Bettys Sweatpants
+*   Shop Bettys Jeans
 
 *   see details
 
