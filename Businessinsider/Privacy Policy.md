@@ -10,26 +10,26 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
     *   Tools
     *   Media
     *   Enterprise
-    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning Meet Alto, The Gmail Replacement You Won't Believe Was Made By AOL REPORT: Murdoch Is Thinking About Buying LA Times And Chicago Tribune A Rare Look Inside Huawei, The Shadowy Chinese Tech Company Accused Of Spying On America The Orionid Meteor Shower Is Coming—Expect To See Explosions
+    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning Meet Alto, The Gmail Replacement You Won't Believe Was Made By AOL The BBC's Own Reporters Are Tearing It Apart After Huge Sex Abuse Scandal Why Most Companies Won't Be Early Adopters Of Windows 8 The World's Biggest Sinkholes
 *   Finance
     *   Clusterstock
     *   Your Money
-    *   Broker Center10 Things You Need To Know Before The Opening Bell 10 Things You Need To Know Before The Opening Bell After I Dissed North Dakota, The State Flew Me To Fargo To Prove Me Wrong 10 Things You Need To Know Before The Opening Bell
-*   Markets 10 Things You Need To Know Before The Opening Bell
+    *   Broker CenterGoldman Sachs Destroys One Of The GOP's Biggest Talking Points On The Economy Goldman Sachs Destroys One Of The GOP's Biggest Talking Points On The Economy After I Dissed North Dakota, The State Flew Me To Fargo To Prove Me Wrong Goldman Sachs Destroys One Of The GOP's Biggest Talking Points On The Economy
+*   Markets Markets Are Getting CLUBBED
 *   Politics
     *   Politics
     *   Defense
-    *   Law &. OrderA Great Picture Of Just How Incredibly Close The Election Is Right Now A Great Picture Of Just How Incredibly Close The Election Is Right Now Iran And The White House Issue Opposing Statements About Post-Election "One-on-One" Talks The 'Magic Glove' And 8 Other Ridiculous Inventions Patented By Apple
+    *   Law &. OrderMitt Romney Thinks He's Won The Election, And Last Night He Just Played Not To Lose Mitt Romney Thinks He's Won The Election, And Last Night He Just Played Not To Lose Egyptian President Says 'Amen' To Prayer About Destroying The Jews The 'Magic Glove' And 8 Other Ridiculous Inventions Patented By Apple
 *   Strategy
     *   Strategy
-    *   Careers18 Tips On Making Smarter Decisions 18 Tips On Making Smarter Decisions HEADHUNTER: This Is How We Poach People And How You Can Get On Our Radar
-*   Entertainment 20 Bizarre Foreign Titles For American Films
-*   Advertising The Evolution Of James Bond Movie Product Placement
-*   Retail MICKEY DREXLER: The World Has Become 'Homogenized'
-*   Sports The Bizarre Ending To The Bucs-Saints Game Reveals A Huge Loophole In The NFL Rulebook
+    *   CareersPROFESSOR: The Smartest Fast-Growth Companies Combine These 3 Strategies PROFESSOR: The Smartest Fast-Growth Companies Combine These 3 Strategies 3 Mindsets That Leave You Unprepared
+*   Entertainment Take A Tour Inside The Filming Locations Of The Latest Bond Film, 'Skyfall'
+*   Advertising Here's How Much Ad Agencies Hate Lance Armstrong Right Now
+*   Retail Tory Burch Totally Downplays Her Ex-Husband's Role In Her Success
+*   Sports Thomas Robinson Delivered This Ferocious Slam Dunk Over Dwight Howard Last Night
 *   Life
     *   The Life
-    *   TransportationArchitecture Firm Wants To Build This Crazy, Futuristic Halo Above Grand Central Station Architecture Firm Wants To Build This Crazy, Futuristic Halo Above Grand Central Station YACHT OF THE WEEK: The Ornate 'Reverie' Has Room For 24 And Is On Sale For $55 Million
+    *   TransportationPeek Inside The Stunning Italian Resort Where Jessica Biel And Justin Timberlake Got Married Peek Inside The Stunning Italian Resort Where Jessica Biel And Justin Timberlake Got Married Here's The Spaceship That Will Let Rich People Fly From NYC To Tokyo In 90 Minutes
 *   More
     *   Latest
     *   Video
@@ -54,7 +54,7 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
 
 *   Follow us on Facebook and get updates from Business Insider posted directly to your news feed  
 
-Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,539
+Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,549
 
 *   Email
 *   More Share on Tumblr
@@ -226,34 +226,34 @@ More:*   SAI Select (sample)
 *   Careers Select (sample)
 *   Military Select (sample)
 
-Advertisement Your Money NASDAQ Composite 3,006 -67.25 (-2.189%) S&P 500 1,433 -24.15 (-1.657%) NYSE Composite 8,324 +0 (+0%) Sponsored By
+Advertisement Your Money NASDAQ Composite 3,017 +11.34 (+0.377%) S&P 500 1,434 +0.63 (+0.044%) NYSE Composite 8,329 +0 (+0%) Sponsored By
 
 Ready To Invest? Find A Broker Here »
 
-Small Business: Big Results
+The Future Of Mobile
 
-*   Selecting A Name For Your Business Is Like Naming Your Child
-*   How To Create An Iconic Logo For Your Brand
-*   Every Startup Should Know When To Start Marketing Its Product
+*   The State of Mobile Video
+*   HTML5 vs. Apps: Why The Debate Matters, And Who Will Win
+*   Here's What Smartphone Users Are Doing With Their Phones
 
 Most Read Read  Commented  Recommended 
 
-*   There Is Simply No Other Plane In The World Like Air Force One 821,510 Views
+*   The 28 Fastest-Shrinking Cities In The World 240,991 Views
     
-*   The 31 Fastest Growing Cities On The Planet 363,720 Views
+*   How To Watch Porn At Work (And Get Away With It) 171,114 Views
     
-*   Meet Alto, The Gmail Replacement You Won't Believe Was Made By AOL 284,520 Views
+*   These Abandoned Soviet Radar Sites Show How Quickly The Cold War Ended 170,434 Views
     
-*   AMERICA 2050: Here's How The Country Will Look Three Decades From Now 229,930 Views
+*   The 27 Best Cities For Doing Business \[RANKED\] 167,523 Views
     
 
-*   WAIT! Obama Has Re-Taken The Lead In An Average Of National Polls 110 Comments
+*   If These 5 People Who Tried Windows 8 Are Normal, Microsoft Has A Big Problem On Its Hands 126 Comments
     
-*   People Are Talking About A National Debt Solution That Might Actually Make Your Brain Hurt 105 Comments
+*   People Are Talking About A National Debt Solution That Might Actually Make Your Brain Hurt 106 Comments
     
-*   If These 5 People Who Tried Windows 8 Are Normal, Microsoft Has A Big Problem On Its Hands 74 Comments
+*   This New Poll Is A Pretty Big Disaster For Obama 105 Comments
     
-*   How US Ambassador Chris Stevens May Have Been Linked To Jihadist Rebels In Syria 71 Comments
+*   INSTANT POLL: Obama Destroyed Mitt Romney In Tonight's Debate 103 Comments
     
 
 Loading, please wait...
@@ -272,34 +272,34 @@ See All Jobs Startup Document Center Templates To Jump Start Your Business Busin
 By-Laws Financial  
 Model See All » Read Me Henry Blodget
 
-| For Whom The Bell Tolls? It Tolls For TV... 29
+| For Whom The Bell Tolls? It Tolls For TV... 32
 
 Go ahead and keep your head stuffed in the sand if you like, but viewing habits have started to change.
 
 Joe Weisenthal
 
-| Things Are Shaping Up Beautifully For President Romney's First Year 105
+| Suddenly, Everyone On Wall Street Is Taking The 'Red Pill' Of Economics 65
 
-Cullen Roche
+Patrick Chovanec
 
-| The Biggest Myth About Successful Investors 28
+| How China's Renminbi Can Become A True International Currency 5
 
-Michael
+The Economist
 
-| FORMER GOLDMAN BANKER: Here's What Greg Smith Gets Right, And Wrong About Goldman 2
+| SPAIN: The Bad Economic News Continues To Pile Up 1
 
-Wolf Richter
+Bruce Krasting
 
-| Nigeria’s Oil And Gas Nightmare Keeps Getting Worse 1
+| How I Caused The 1987 Crash 17
 
 The Hive About The Hive » What Smart People Are Reading Right Now
 
-*   Genealogy, Family Trees &. Family History Records at Ancestry.com 2
-*   Marvel Unveils 'Iron Man 3' Teaser Trailer \[VIDEO\] 2
-*   15 Unbelievable Halloween Makeup Tutorials on YouTube 2
+*   Presidential Debate Fact-Checks and Updates - Election 2012 4
+*   Clark Kent quits the Daily Planet 4
+*   The Presidential Debate Drinking Game, Foreign Policy Edition 3
 
-*   Sheldon Adelson-Shelley Berkley feud comes to a head Friess 2
-*   Romney Surges to Tie Obama in National Poll - WSJ.com 2
+*   Obama-Romney horserace - The Washington Post Poll 3
+*   Popular Kids in High School Earn More Later in Life Time Economics 3
 
 More Less See All » Advertisement Thanks to our partners
 
