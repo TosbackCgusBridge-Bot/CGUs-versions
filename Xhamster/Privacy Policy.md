@@ -9,7 +9,7 @@ Sign Up**|**Login VideoPicturesStoriesBlogsDVDs
 *   Premium
 
 HD Videos  •  Top Rated  •  Recommended for Me  •  Categories  •  My Favorite Videos  •  My Videos  •  Mobile Videos  •  Upload Your Video! PRIVACY POLICY for Hammy Media, Ltd. d/b/a www.xhamster.com  
-Effective Date: October 22, 2012  
+Effective Date: October 23, 2012  
 Last Modified: September 27, 2011  
 
 1.  General
@@ -55,6 +55,7 @@ Last Modified: September 27, 2011
 *   Privacy Policy
 *   DMCA/Copyright
 *   Parental Control
+*   About us
 
 *   Work with us
 *   Webcam Models Wanted
