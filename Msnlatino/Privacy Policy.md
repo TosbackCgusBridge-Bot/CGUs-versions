@@ -688,13 +688,13 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡No te las pierdas!
+*   ¿Ángel o Demonio?
     
-    Conoce aquí lo mejor de tus novelas.  
+    Descubre las dos caras de Pablo Escobar.  
     
-*   ¿Se desnudó?
+*   La dieta de Hollywood
     
-    No lo dejes ir... Atrápalo así  
+    Las famosas revelan cómo mantienen la figura  
     
 *   ¡Sensualidad que mata!
     
