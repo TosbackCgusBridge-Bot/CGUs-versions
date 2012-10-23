@@ -7,7 +7,7 @@ Recently Viewed (0) My Recently Viewed Items
 
   Compare(0) My Compare Items
 
-*   When you select two to four products we'll show you a side-by-side detailed comparison so you can choose the best piece of jewelry you're looking for
+*   When you select two to four products we'll show you a side-by-side detailed comparison so you can choose the best piece of jewelry you're looking for.
 
   Wish List   Shopping Bag(0) My Shopping Bag
 
