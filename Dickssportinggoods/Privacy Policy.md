@@ -28,7 +28,7 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Soccer Balls
         *   Shin Guards
         *   Apparel
-        *   Training Gear
+        *   Indoor Soccer
         *   View All »
         
         Baseball &. Softball
@@ -81,6 +81,7 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Golf
         *   Cheerleading
         *   Gymnastics
+        *   Bowling
         *   Combat Sports
         *   Table Tennis
         *   Indoor Games
@@ -223,12 +224,12 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
     *   Women's Apparel
         *   Jackets &. Vests
         *   Sweatshirts &. Hoodies
+        *   Cold Compression
+        *   Pants &. Capris
         *   Shirts &. Tops
         *   Graphic Tees
-        *   Pants &. Capris
         *   Shorts
         *   All Compression
-        *   Cold Compression
         *   Sports Bras
         *   Accessories
         *   Plus Sizes
@@ -236,12 +237,12 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
     *   Men's Apparel
         *   Jackets &. Vests
         *   Sweatshirts &. Hoodies
+        *   Cold Compression
+        *   Pants
         *   Shirts
         *   Graphic Tees
-        *   Pants
         *   Shorts
         *   All Compression
-        *   Cold Compression
         *   Underwear
         *   Accessories
         *   Extended Sizes
@@ -277,15 +278,15 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
     *   Shop By Sport
         *   Running
         *   Football
-        *   Soccer
-        *   Golf
         *   Basketball
-        *   Baseball &. Softball
+        *   Skiing &. Snowboarding
         *   Volleyball
+        *   Golf
+        *   Soccer
+        *   Baseball &. Softball
         *   Tennis
         *   Swimming
         *   Yoga
-        *   Skiing &. Snowboarding
         *   View All »
 *   Golf
     *   Men's Golf Clubs
@@ -363,7 +364,7 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         Trade-In
         
 *   Outdoors
-    *   Bike Shop
+    *   Bike &. Skate Shop
         *   Bikes
         *   Clothing &. Footwear
         *   Helmets &. Protective
@@ -427,15 +428,17 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Ice Fishing
         *   Waders
         *   View All »
-    *   Recreation &. Games
+    *   Games &. Scooters
         
-        *   Canopies &. Screens
-        *   Chairs &. Tables
-        *   Grills &. Accessories
-        *   Coolers
+        *   Table Tennis
+        *   Air and Rod Hockey
+        *   Basketball Arcade Games
+        *   Foosball Tables
+        *   Darts &. Billiards
+        *   Bowling
+        *   Scooters &. Ride-Ons
         *   All Outdoor Games
         *   All Indoor Games
-        *   Table Tennis
         *   View All »
         
         Paddle &. Water
@@ -454,8 +457,8 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         
         MLB
         *   Detroit Tigers
-        *   St. Louis Cardinals
         *   San Francisco Giants
+        *   St. Louis Cardinals
         *   New York Yankees
         *   Washington Nationals
         *   View All »
