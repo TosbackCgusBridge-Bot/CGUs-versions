@@ -85,13 +85,16 @@ A NOTE FROM STEPHANIE LINK
 
 *   HOT TOPICS:
 *   Cramer's Eight-Point Plan
-*   $249 Google Laptop vs. $499+ Windows 8
-*   CyberSecurity Webinar
-*   Last Presidential Debate
-*   5 Dumbest
+*   iPad Mini
+*   Options Webinar
+*   Sketchy IPOs
 *   Kass
+*   Apple Store 2.0
+*   Final Presidential Debate Blog
+*   Gold
+*   AIG
 
-pjava08.dc.thestreet.com Privacy Policy
+pjava07.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -246,13 +249,13 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,343.51 -205.43 -1.52% NASDAQ 3,005.62 -67.25 -2.19% S&P 500 1,433.19 -24.15 -1.66% US 10 Yr 1.768% -0.058 Brokerage Partners Most Commented
+DOW 13,345.89 2.38 0.02% NASDAQ 3,016.96 11.34 0.38% S&P 500 1,433.81 0.62 0.04% US 10 Yr 1.798% +0.030 Brokerage Partners Most Commented
 
 *   Google Drops the Neutron Bomb: $249 Laptop
-*   Apple, Microsoft Need to Innovate, If They Can
+*   $249 Google Laptop vs. $499+ Windows 8: Fight!
 *   Poll: Who Won the Second Presidential Debate?
 *   6 Tech Toys Better Than What Apple Sells
-*   10 Worst Cars of All Time
+*   10 Cult TV Shows Netflix Should Revive
 
 Articles From Advertising Partners Free Newsletters from TheStreet
 
