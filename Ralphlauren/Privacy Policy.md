@@ -1,5 +1,5 @@
 MY ACCOUNT   /   SHOPPING BAG \[0\]  
-Complimentary Shipping Code OCTFS12
+Complimentary Shipping Over $195
 
 *   Men
     *   Shop All Brands
