@@ -44,10 +44,10 @@ Suchbegriff Suchen
     *   Partner-Tipps
     *   Tipp geben
 *   Auszeichnung
+    *   Outdoor-Marke
     *   Kaffee
     *   Deo
     *   Mineralwasser
-    *   Sonnencreme
 
 Allgemeine GeschÃ¤ftsbedingungen
 
@@ -195,78 +195,78 @@ Registrieren Login
 1.  fifa 13
 2.  Halloween
 3.  Kaninchen
-4.  Online-Shop
-5.  Periode
-6.  Pickel
-7.  Piercing
-8.  Pokemon
-9.  Steam
-10.  ZÃ¤hne
+4.  Kunst
+5.  Online-Shop
+6.  Periode
+7.  Pickel
+8.  Piercing
+9.  Pokemon
+10.  Steam
 
-Top-50 Themen Thema Anzahl Apple 83305 Arbeit 64195 Ausbildung 49686 Auto 90337 Beauty 68588 Beruf 76922 Beziehung 71242 Computer 533288 Computerspiele 64056 deutsch 66502 Englisch 51750 ErnÃ¤hrung 50396 essen 70713 Facebook 76631 Fernsehen 59968 Film 99301 Finanzen 58716 Freizeit 260728 FuÃball 50852 Games 123409 Geld 92770 Gesundheit 204268 Haare 81898 Handy 202810 Hilfe 147160 Internet 320230 iPhone 74568 Kinder 50613 KÃ¶rper 49605 Laptop 72832 Liebe 163765 Lied 54014 MÃ¤dchen 55696 Medizin 62323 Minecraft 67162 Musik 278740 PC 280017 PC-Spiele 48228 Problem 54646 PS3 59589 Recht 94679 Schule 233318 Software 56724 Spiele 136069 Sport 110109 Technik 119671 Tiere 64462 TV 54030 Video 52281 Youtube 82394 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 83419 Arbeit 64269 Ausbildung 49755 Auto 90436 Beauty 68691 Beruf 76983 Beziehung 71332 Computer 533882 Computerspiele 64115 deutsch 66575 Englisch 51788 ErnÃ¤hrung 50440 essen 70772 Facebook 76734 Fernsehen 59999 Film 99398 Finanzen 58757 Freizeit 261346 FuÃball 50886 Games 123568 Geld 92842 Gesundheit 204487 Haare 81996 Handy 203048 Hilfe 147354 Internet 320529 iPhone 74671 Kinder 50647 KÃ¶rper 49676 Laptop 72905 Liebe 163981 Lied 54065 MÃ¤dchen 55787 Medizin 62372 Minecraft 67252 Musik 278968 PC 280297 PC-Spiele 48263 Problem 54735 PS3 59662 Recht 94765 Schule 233625 Software 56766 Spiele 136216 Sport 110208 Technik 119766 Tiere 64513 TV 54057 Video 52342 Youtube 82551 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  taigafee
+1.  talladin
     
     Punkte:
     
-    612
+    923
     
     Level:
     
-    taigafee
+    talladin
     
-2.  TheLastDays
-    
-    Punkte:
-    
-    593
-    
-3.  KleinToastchen
+2.  Harim
     
     Punkte:
     
-    577
+    749
+    
+3.  paula2005
+    
+    Punkte:
+    
+    530
     
     Level:
     
-    KleinToastchen
+    paula2005
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.303.861 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.311.594 gute Fragen_
 
-*   56 Alkohol: Der grÃ¶Ãte Fehler meines Lebens...
-*   28 Der Freund meiner Mutter will,dass ich Muslima werde.
-*   26 Muss das sein ?! Alc und rauchen
+*   82 Alkohol: Der grÃ¶Ãte Fehler meines Lebens...
+*   14 Wie kann ich ihn am besten kontaktieren?
+*   12 Baby und Abitur bzw. Studium - machbar?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Anime Zeichnung
-*   KÃ¼rbis-Pfannkuchen zubereiten
+*   Lavalampe selber bauen.. \[Wasser+Ãl+Salz\]
 
-*   Anleitung: Antistress-Ball basteln
 *   Basteln im Herbst: SchÃ¶ne Fenster-Deko selber machen
+*   Anime Zeichnung Nr.2
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.944.200
+1.946.021
 
 Anzahl der Fragen
 
-8.303.233
+8.310.952
 
 Anzahl der Antworten
 
-36.084.340
+36.110.082
 
 Anzahl der Tipps
 
-74.516
+74.593
 
 Anzahl der Videos
 
-4.702
+4.715
 
 Blog
 
