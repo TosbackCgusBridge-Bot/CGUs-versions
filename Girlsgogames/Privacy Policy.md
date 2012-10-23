@@ -1,8 +1,4 @@
-       GGG.com Free online games for girls
-
-Free online games for girls
-
-Free Online Girls Games on GirlsGoGames.com Sign Up for Free! or Sign In Hey ! Sign Out My Profile | Notifications +%s  | Favorite Games Search...  
+       GGG.com Free online games for girls Free Online Girls Games on GirlsGoGames.com Sign Up for Free! or Sign In Hey ! Sign Out My Profile | Notifications +%s  | Favorite Games Search...  
 
 *   Home
 *   Games for girls
@@ -18,6 +14,7 @@ Free Online Girls Games on GirlsGoGames.com Sign Up for Free! or Sign In Hey ! S
 *   Mobile Games
 
 *   Fairy Games
+*   Halloween Games
 
 *   Adventure Games
 *   Animal Games
