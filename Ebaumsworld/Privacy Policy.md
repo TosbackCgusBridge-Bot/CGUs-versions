@@ -1,27 +1,27 @@
-*   VIDEO Junk Dealer Returns $114,000
-*   VIDEO Octopus Eating A Crab
-*   VIDEO Travis Snider Makes Amazing Catch
-*   VIDEO Cheetah Holds Tourists Hostage
-*   STAR WEIRDS BLOG 5...
-*   VIDEO Police Beat Young Teens In Madrid Spain
-*   GALLERY Space Shuttle On The Streets Of LA
-*   VIDEO Woman Gives Birth On A Jail Floor
-*   VIDEO Kid Rock &. Pam Anderson Yell at Paparazzi
-*   WAYS TO SAVE BLOG 5 Ways to Save a Buttload of Money!
+*   VIDEO Pitiful Escape Attempt
 *   VIDEO Guy Eats Spider
-*   VIDEO Man Arrested for Staging Terror Threat
-*   VIDEO Peacocks Fly Down to Bird Keeper's Whistle
-*   VIDEO Highbar Back Flip FAIL
+*   VIDEO Jalen Rose Explains Kobe's 81 Point Game
+*   SCARY PARTNER REAL OR FAKE
+*   OBAMA OR NOBAMA BLOG Obama and Hitler: A Comparative Analysis
 *   VIDEO Cam Zink Canyon Gap Jump Crash
-*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
-*   VIDEO Spanish News Channel Fail
-*   CELEBRIDEAD GALLERY Celebrity Life Update
-*   BEST OF HAZING BLOG Fraternity Hazing is Retarded.
-*   VIDEO Creek Jump Fail
-*   CUBE MAPPING PARTNER 3D Cube Mapping Demo
-*   VIDEO Teacher Gets Ass Kicked By 1st Grader
+*   VIDEO Octopus Eating A Crab
+*   VIDEO Highbar Back Flip FAIL
+*   VIDEO Woman Gives Birth On A Jail Floor
+*   COMMUNITY GAME Neckbeard Basement Escape
+*   STAR WEIRDS BLOG 5...
+*   VIDEO Pedestrian Nearly Has Legs Crushed
 *   GALLERY Absolutely Beautiful Animal Photos
-*   SAM JACKSON PARTNER Sam Jackson Quotes
+*   VIDEO Worst Howl Ever
+*   VIDEO Walking on Metal Bar Nut Crush
+*   CELEBRIDEAD GALLERY Celebrity Life Update
+*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
+*   WAYS TO SAVE BLOG 5 Ways to Save a Buttload of Money!
+*   VIDEO NFL Replacement Refs - In Memoriam
+*   VIDEO Zombie Snails
+*   CUBE MAPPING PARTNER 3D Cube Mapping Demo
+*   VIDEO Commentators Mock Injured Rallycross Driver
+*   VIDEO Woman Tells Chris Matthews Obama Is Communist
+*   VIDEO Bad Luck At The Gas Station
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
@@ -109,20 +109,20 @@ San Francisco, CA 94103.
   
 Last updated: March 31, 2011.
 
-EBAUM'S PICKS Cool Wolf Costume Car Flipped on Highway Bottles Beware! Spiders In A Box Projected Onto Windows Top 5
+EBAUM'S PICKS Awesome Realistic Halloween Knife Slash Nissan Rocket Launcher Fail Coach Knocks Out Student How To Shake A Can With No Fizz Top 5
 
-*   *   51,009
-    *   Road Rage Bully Kicks The Crap Out Of Guy's Car
-*   *   50,941
+*   *   75,200
     *   How To Knock Someone Out
-*   *   50,589
+*   *   69,480
+    *   Monday Morning Randomness
+*   *   68,987
+    *   Road Rage Bully Kicks The Crap Out Of Guy's Car
+*   *   66,007
     *   Best Viral Pics of The Week Compilation
-*   *   41,877
+*   *   56,400
     *   Cyber Child Sex Sting Nets 23 Arrests
-*   *   29,231
-    *   Stuntman's Brutal Parkour Crash!
 
-POPULAR GALLERIES Facebook Wins and Fails A Cultural Collection POPULAR GAMES Cloud Wars Into Space 2 Slender - Bones of Children Infectionator 2
+POPULAR GALLERIES D.E.R.P. WTF GIF Dump POPULAR GAMES Cloud Wars Election Ejection 2012 Into Space 2 Slender - Bones of Children
 
 *   Forum
 *   Advertising
