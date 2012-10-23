@@ -265,21 +265,21 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 12-Ants 2.0.5 Englisch Freeware
-*   2 Enigma Virtual Box 5.50 Englisch Freeware
-*   3 All CPU Meter 4.2 Englisch Freeware
-*   4 OblyTile 0.8 Englisch Freeware
-*   5 RamDisk Plus 11.7 Englisch Demo
+*   1 Webmin 1.600 Englisch Freeware
+*   2 Dropbox 1.5.40 Experimental Deutsch Freeware
+*   3 Dropbox für Mac OS 1.4.20 Deutsch Freeware
+*   4 Dropbox für Linux 1.4.20 Deutsch Freeware
+*   5 Stealthy für Firefox 2.4.0 Englisch Freeware
 
 ...mehr
 
 **RSS-Feed** Download-Tipps der Redaktion
 
-*   1 Spiele-Vollversionen: Kostenlos zum Download
-*   2 Apokalypse am 21.12.: Die beste Software für den Weltuntergang
+*   1 Apokalypse am 21.12.: Die beste Software für den Weltuntergang
+*   2 Spiele-Vollversionen: Kostenlos zum Download
 *   3 Die besten kostenlosen Horror-Games
-*   4 Top 100: Die beliebtesten Downloads auf Deutsch
-*   5 Kostenlose Spiele zum Download: Die besten Gratis-Games
+*   4 Kostenlose Spiele zum Download: Die besten Gratis-Games
+*   5 Tools, die kaum einer kennt: 33 geniale Gratis-Downloads
 
 ...mehr
 
@@ -295,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Test: Nikon D600 (DSLR über 1.000 Euro)
+*   Skype für Windows 8: Software-Debakel im Check
 *   Slender's Forest: Horror-Schocker für Minecraft
 *   Apple iPod nano 7G: Der Baby-Touch im Praxis-Test
 *   Alles für Windows 8: 50 neue Notebooks, Tablets, PCs &. Co.
-*   Test: Canon PowerShot G15 (Digitalkamera)
-*   Im Test: Die besten TVs in allen Kategorien und Größen ab 430 Euro
 
 ...mehr
 
@@ -319,13 +319,13 @@ Sponsored Links
     ab 318,88 €
     
     *   Test
+*   Samsung Galaxy S Duos  
+    ab 245,90 €
+    
 *   Samsung Galaxy Note 2 N7100 16GB  
     ab 553,35 €
     
     *   Test
-*   Samsung Galaxy S Duos  
-    ab 245,90 €
-    
 *   Samsung Galaxy Nexus I9250  
     ab 307,00 €
     
@@ -343,9 +343,9 @@ Meistgelesene Themen
 
 *   \[GELÖST\] jucheck.exe
 *   Facebook knacken leicht gemacht...
+*   Galaxy S3 bekommt nun Endlich Jelly Bean!!
 *   Tastatur umstellen Englisch/Deutsch
 *   Samsung SSDs gewinnen und alten Rechner neu lieben lernen
-*   Free YouTube to MP3 Converter legal ?
 
 ...mehr
 
