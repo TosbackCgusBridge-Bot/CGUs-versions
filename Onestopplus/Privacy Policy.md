@@ -572,5 +572,14 @@ Enjoy special discounts and offers.
 Plus size clothing - BizRate Customer Certified (GOLD) Site HACKER safe certified sites prevent over 99.9% of hacker crime. OneStopPlus.com Mobile   |   Woman Within ®   |   Roaman's ®   |   Jessica London®  |   BrylaneHome ®   |   KingSize®  
 fullbeauty   |   Bargain Catalog Outlet ®   |   OneStopPlus France
 
+**\*Hereâs how to use your promo code:**  
+  
+1\. Place one or more eligible items into your shopping bag.  
+2\. Type the promo code **OSPFALLOCT** into the promotion code box at checkout, then click apply.  
+3\. The discount will automatically be applied to your order, if eligible.  
+4\. Continue shopping or begin checkout.  
+  
+**Promo code restrictions:** Not usable for cash, or applicable to payment of prior bills or charges. Not valid for prior purchases, Aerin Rose, Aerosoles, Alight, Eliza Parker, Fullbeauty, Carol Wior, City Chic, IGIGI,Kiyonna, Lafayette 148 New York, Torrid, Avenue, Avenue, Ulla Popken, SVOBODA, Sealed With A Kiss Designs, Sydney's Closet, Tafford Uniforms, FansEdge, Monif C, BuyCostumes, handbags, jewelry, fragrances, costumes, home, kitchen, Plus + Size Living, clearance, OSPoutlet, items delivered from the manufacturer, or gift cards &. e-gift cards. \*\*Items from Sydney's Closet may be returned if they are in original condition with all tag(s) still attached. Offer ends midnight (EST) Sunday, 10/28/12.
+
 OneStopPlus.com is a secure site that respects your privacy. Please read about our Privacy Policy and Terms of Use  
-and California Supply Chain Transparency Act ©2012 Redcats USA, L.P. All Rights Reserved
+and California Transparency in Supply Chains Act ©2012 Redcats USA, L.P. All Rights Reserved
