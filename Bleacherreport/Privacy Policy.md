@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 9 hours ago
+about 8 hours ago
 
-@BleacherReport: The NLCS is going to GAME 7 for the first time since 2006. #SFGiants #Cardinals
+@BleacherReport: RT @radiojoee: #SFGiants 1st team to get soaked before opening champagne
 
 Newsletters
 
