@@ -279,15 +279,15 @@ Prev Next
 
 *   Grill Room
 
+*   Tommy Gainey
 *   The McGladrey Classic
 *   Jim Furyk
+*   Seaside Course at Sea Island
 *   Davis Love III
+*   Bubba Watson
 *   US Open Championship
-*   Ryder Cup
-*   D.J. Trahan
-*   Tommy Gainey
-*   Tom Watson
-*   The Olympic Club
+*   Tiger Woods
+*   Champions Tour
 
 **Privacy Policy**
 
@@ -528,13 +528,13 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,504 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
+Social 233,577 facebook.com/GolfChannel 120,361 twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
 *   Tell a Friend
 
-The McGladrey Classic Sea Island Golf Club’s Seaside Course (Par/Yardage: 70/7,055) is an ocean-side, links course that was redesigned by Tom Fazio in 1998. Visit GolfNow to book a tee time near you.
+CIMB Classic The MINES Golf Course (Par/Yardage: 71/6,966), once a wasterland, was a vision of a Malaysian business tycoon that was executed by Robert Trent Jones, Jr. The course opened in 1993. Visit GolfNow to book a tee time near you.
 
 *   Partner Pavilion
 *   Press Releases
