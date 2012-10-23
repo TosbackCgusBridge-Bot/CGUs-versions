@@ -173,9 +173,9 @@ Other Stories You Might Like
 MostPopular Stories
 
 *   Celebrity Bob Hairstyles
-*   Thigh Blasters
-*   How to Shop and Dress Slimmer
 *   26 Delicious One-Dish Meals
+*   Thigh Blasters
+*   Master Bedroom Decorating Ideas
 *   52 Home-Organizing Tips
 
 See All About Articles
