@@ -5,7 +5,7 @@
 
 *   My Wish List
 
-Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale Last Day! Online Only! $50 off your order of $150 or more - use promo code 3720. Or, receive free shipping on your order of $125 or more – use promo code 3626. \*Details **Customer Service**
+Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale All Sweaters Buy One Get One 50% Off. Mix and Match. Higher price prevails. Excludes NY&C Great Finds, NY Deals and Clearance. Plus, free shipping on your order over $125 – no code needed. \*Details **Customer Service**
 
 *   Ordering &. Shipping Info
     *   Where's My Order?
