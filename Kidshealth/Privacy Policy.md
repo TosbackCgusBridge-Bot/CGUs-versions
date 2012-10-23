@@ -20,11 +20,11 @@ KidsHealth from Nemours for Parents for Kids for Teens
 
 Teachers - Looking for Health Lessons? Visit KidsHealth in the Classroom What Other Parents Are Reading
 
-*   Scary News Report? What to Say
-*   Summer Safety Smarts
-*   Recipe: Greek Salad
-*   Finding the Right Bike
-*   Pregnant? Your Child's Growth
+*   Helping With Homework
+*   Power Player: Steven's Story
+*   After-School Snacks
+*   Flu Prevention
+*   Weekly Pregnancy Calendar
 
   
 Privacy Policy and Terms of Use KidsHealth>. Parents>. KH Misc.>. Privacy Policy and Terms of Use
