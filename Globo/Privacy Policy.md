@@ -146,6 +146,7 @@ globo.com
         *   Avenida Brasil
         *   Guerra dos Sexos
         *   Gabriela
+        *   Salve Jorge
     *   famosos
         *   Ego
         *   Paparazzo
