@@ -50,9 +50,9 @@ Read More
 
 *   Craft Ideas
 
-Pumpkin Decorating Ideas
+The Best Halloween Crafts Ever
 
-Check out our 36 favorite ideas for carving, decorating, and displaying your prized pumpkin this Halloween.
+This list of kid-friendly craft ideas is our most comprehensive yet.
 
 Read More
 
@@ -95,15 +95,15 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Country Living advertisement
 
-*   **halloween**
+*   **holiday**
 
-*   **living rooms**
+*   **pumpkin**
 
-*   **kitchens**
+*   **soup**
 
-*   **pressed leaves**
+*   **pasta**
 
-*   **bedrooms**
+*   **pecan dessert**
 
 Home &. Decorating
 
