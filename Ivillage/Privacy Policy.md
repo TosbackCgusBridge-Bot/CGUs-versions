@@ -1,6 +1,5 @@
 Sign in | Join Now Hi, User! Edit Profile | Sign Out Want more iVillage? Sign up for our Newsletters iVillage
 
-*   TWILIGHT FOREVER
 *   HOLIDAILY
 *   Challenges
 *   Videos
@@ -501,7 +500,7 @@ Would you like to receive special offers, promotions, coupons, and free samples 
 See All Newsletters  
 
 *   Homeandgarden My Best Idea The Best Gift for a New Mom? A Midnight Baby Basket!
-*   Beauty DIY Beautify DIY Beautify: Get Noticed with Bright Lips and Cheeks
+*   Beauty DIY Beautify Hot Vs. Not: The Winner of the Smokey Eye Contest Is...
 *   Entertainment iVillage 5 Will Jay-Z Join Beyonce at the Super Bowl?
 *   Entertainment Likes or Yikes? Best Week Ever! Tina Fey and Amy Poehler to Host Golden Globes
 *   Global iVoices "Fajitas with Elmo" and Other Reasons Moms Hate PTA Duty
@@ -514,7 +513,7 @@ See All Newsletters  
 *   Entertainment iVillage Celebrity Blog Jewel on Redefining Her Marriage After Her Son
 *   Health Slideshow 15 Most Dangerous Machines at the Gym
 *   Entertainment iVote Celebrities, Newsmakers &. Real Women Reveal "Why I Vote"
-*   Beauty DIY Beautify DIY Beautify: Get Noticed with Bright Lips and Cheeks
+*   Beauty DIY Beautify Who Has Jaw Dropping Lips? Kelly Bensimon Declares a Winner
 
 *   Join iVillage
 *   Message Boards
