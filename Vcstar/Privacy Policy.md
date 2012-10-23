@@ -634,23 +634,23 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Kingdom Center property hits the market, leaving the nonprofit's future unclear Published 10/20/2012 at 7:34 p.m. 17 comments
-*   County supervisor candidates Bennett, Roper outline choice ahead of voters Published 10/20/2012 at 8:00 p.m. 45 comments
-*   2 Thousand Oaks candidates accused of campaign funding violations Published 10/20/2012 at 6:19 p.m. 17 comments
-*   Community divided over dueling education propositions Published 10/19/2012 at 5:53 p.m. 75 comments
-*   Paulson: 10 good reasons for Romney, Ryan Published 10/21/2012 at 3:00 p.m. 25 comments
+*   Presidential debaters locked in dance of body language Published 10/21/2012 at 5:13 p.m. 147 comments
+*   Oxnard teacher, fired for her past as a porn star, appeals school board's decision Published 10/22/2012 at 2:00 p.m.
+*   Woman suffers major injuries after DUI crash near Ojai Updated 10/22/2012 at 4:24 p.m.
+*   Paulson: 10 good reasons for Romney, Ryan Published 10/21/2012 at 3:00 p.m. 69 comments
+*   Ventura police search for unknown male in Starbucks robbery Updated 10/22/2012 at 4:28 p.m.
 
-Photo Galleries Ventura County's Most Wanted October… Chaotic shooting rattles La Colonia… Ventura race participants try to…
+Photo Galleries Ventura County's Most Wanted October… Protesters condemn Oxnard shootings Ventura race participants try to…
 
-*   Morning chat Published 10/19/2012 at 12:00 a.m. 192 comments
-*   County agrees to $3.2 million settlement in speeding deputy case Published 10/18/2012 at 6:42 p.m. 121 comments
-*   Community divided over dueling education propositions Published 10/19/2012 at 5:53 p.m. 75 comments
-*   Face to face: Obama, Romney in crackling debate Published 10/16/2012 at 8:10 p.m. 347 comments
-*   County supervisor candidates Bennett, Roper outline choice ahead of voters Published 10/20/2012 at 8:00 p.m. 45 comments
+*   Presidential debaters locked in dance of body language Published 10/21/2012 at 5:13 p.m. 147 comments
+*   Morning chat Published 10/22/2012 at 12:00 a.m. 127 comments
+*   Morning chat Published 10/19/2012 at 12:00 a.m. 193 comments
+*   Community divided over dueling education propositions Published 10/19/2012 at 5:53 p.m. 81 comments
+*   Paulson: 10 good reasons for Romney, Ryan Published 10/21/2012 at 3:00 p.m. 69 comments
 
 *   Norovirus outbreak hits Oak Park school Published 10/15/2012 at 5:56 p.m. 8 comments
 *   Oaks Christian might have broken football recruitment rules – Video Published 10/18/2012 at 2:53 p.m. 0 comments
-*   Scores of dogs seized from Simi Valley home now up for adoption Published 10/17/2012 at 5:35 p.m. 15 comments
+*   Scores of dogs seized from Simi Valley home now up for adoption Published 10/17/2012 at 5:35 p.m. 16 comments
 *   2 dead after Oxnard police trade gunfire with men Published 10/14/2012 at 2:57 p.m. 0 comments
 *   Firefighters battle Lookout Fire near Santa Barbara that threatened about 100 homes Published 10/17/2012 at 10:01 a.m. 0 comments
 
@@ -660,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 60° Overcast Wind: Calm Today 68° 60° Mon 05:00 PM Mostly Cloudy Showers Temp: 66° Tue 05:00 AM Mostly Cloudy Showers Temp: 57° Tue 05:00 PM Mostly Sunny Temp: 67°
+Currently 54° Fair Wind: Calm Today 65° 56° Tue 05:00 PM Mostly Sunny Temp: 62° Wed 05:00 AM Mostly Clear Temp: 56° Wed 05:00 PM Mostly Sunny Temp: 65°
 
-Feels Like: 66°
+Feels Like: 62°
 
-Humidity: 63%
+Humidity: 69%
 
-Precip: 14%
+Precip: 15%
 
-Feels Like: 57°
+Feels Like: 56°
 
-Humidity: 87%
+Humidity: 75%
 
-Precip: 26%
+Precip: 10%
 
-Feels Like: 67°
+Feels Like: 65°
 
 Humidity: 65%
 
-Precip: 22%
+Precip: 4%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -702,10 +702,10 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   Capps-Maldonado race could be getting interesting
 *   Democratic group hits Strickland on stem-cell research
 *   Lots of evidence that crunch time is upon us
 *   Tension escalates in 27th Senate District
-*   Against 'wasteful,' but for 'anonymous'
 
 Brian Dennert here
 
@@ -714,8 +714,8 @@ Brian Dennert here
 
 Ingemusings
 
+*   Poll shows Jesse Jackson Jr. has "whopping" lead
 *   Democrats may still reelect Jesse Jackson, Jr.
-*   References to Obama scrubbed from his Communist mentor's Wikipedia page
 
 More bloggers Wire
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Monday Oct 22
 *   Tuesday Oct 23
 *   Wednesday Oct 24
+*   Thursday Oct 25
 *   More BROWSE Icon
-
-*   Zentangle®­ Art 4 Week Class Port Hueneme Community Center 10 a.m.
-*   Third and Last Presidential Debate: 2906 Cochran Street in the Sycamore Plaza behind (Panara Bread) 6 p.m.
-*   Thousand Oaks Reads Book Discussion Newbury Park Branch Library 6:30 p.m.
-*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
-*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
-
-More Events »
 
 *   You’re Not the Boss of Me! Effective Management of Employees Best Western Posada Royale 7:30 a.m.
 *   CAI Luncheon: "Fraud &. Embezzlement: The Art of Stealing Other People's Money!" Los Robles Golf Course Banquet Center 11:30 a.m.
@@ -750,6 +742,14 @@ More Events »
 *   Opera on the GO! Santa Barbara Public Library - Central Library 5:30 p.m.
 *   First-Time Home Buyers Workshop - In SPANISH Moorpark City Library 6 p.m.
 *   Positive Parenting- Parenting as a Team Ojai Unified School District Office- 414 E. Ojai Ave. Ojai, CA 93023 Boardroom- Room 1 6 p.m.
+
+More Events »
+
+*   "Karaoke Bike Night" Hosted by Forming SoCal Sisterz, LLMC The Shores Bar &. Grill 1031 Harbor Blvd Oxnard, CA 5 p.m.
+*   Balancing Act Visions Gallery at the Marriot Ventura Beach - 2055 East Harbor BLVD 5 p.m.
+*   CAM Book Club: "Beautiful Ruins" by Jess Walter Carnegie Art Museum 6 p.m.
+*   Ocean View Toastmasters Club Bonaventure Retirement Living 7 p.m.
+*   "Collaboration and Planning a New Museum: The Ute Museum" by Lynn Brittner Presidio Research Center, 215 East Canon Perdido Street, Santa Barbara 7 p.m.
 
 More Events »
 
