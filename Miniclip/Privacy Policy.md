@@ -1,10 +1,4 @@
-Play Games at Miniclip.com New games! Hit the homepage  
-Great new games out now TMNT Choose your destiny Ninja Turtles are back  
-To fight mutant vermin NeoMech New iPhone game! Try NeoMech online  
-Super shooting robots Plague Inc. Android infection alert! Plague Inc.  
-Now on Android! Calling Pool Ninjas! New table in shop  
-Get your stealth on Obama Game Martian Invasion! Obama - Video Game  
-President vs Aliens My Miniclip Credits
+Play Games at Miniclip.com My Miniclip Credits
 
 *   Signup
 *   Login
@@ -195,11 +189,11 @@ Click Here! Advertisement Feedback Top 10 Games
 3.  Extreme Skater
 4.  Goodgame Empire
 5.  Club Penguin
-6.  Hambo
-7.  Knight Age 2
-8.  Shooting Cybertrash XL
-9.  Beach Soccer
-10.  Delta Force
+6.  NeoMech
+7.  Hambo
+8.  Knight Age 2
+9.  Shooting Cybertrash XL
+10.  Beach Soccer
 
 Click Here! Click Here!
 
