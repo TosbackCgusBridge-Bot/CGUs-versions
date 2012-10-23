@@ -381,7 +381,7 @@ Rechercher sur OverBlog Annuaire
 *   Environnement
 *   Hi Tech
 *   Photo
-*   économie
+*   Economie
 *   Nature
 *   Photographie
 *   Poésie
@@ -425,7 +425,7 @@ Rechercher sur OverBlog Annuaire
 *   Creation
 *   Dessin
 *   Voyage
-*   Cinema
+*   Cinéma
 *   Marketing
 *   Livres
 *   France
