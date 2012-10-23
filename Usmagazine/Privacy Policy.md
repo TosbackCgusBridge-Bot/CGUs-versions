@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Carousel Couple »
+Hot Pics! Rob Down Under »
 
-Top Stories1.  Kim Kardashian: I Dress Better When Boyfriend Kanye West Is Around »
-2.  Jessica Simpson Shows Off Leaner Legs in Black Shorts During L.A. Outing »
-3.  Adele Gives Birth to a Baby Boy! »
-4.  NEW PICTURE: Penn Badgley Buzzes Off His Hair! »
-5.  Justin Timberlake, Jessica Biel's Wedding Week: A Timeline of Events »
+Top Stories1.  Kim Wears Bridal-Inspired Dress in Venice With Kanye on B-Day »
+2.  Melanie Griffith: People Tell Me "I Look Horrible" »
+3.  Jessica Simpson Shows Off Leaner Legs in Black Shorts During L.A. Outing »
+4.  PICTURE: Reese Witherspoon Cheers on Son Deacon at Soccer Game Post-Baby »
+5.  Jessica Biel's Pink-and-White Wedding Dress: All the Details! »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Tori's Miracle Baby
 
 Inside Us Weekly
 
-*   Style Kim Kardashian: I Dress Better When Boyfriend
-*   Beauty NEW PICTURE: Penn Badgley Buzzes Off His Hair
-*   Moms Donald Trump Jr., Wife Vanessa Welcome a Son!
-*   Body Jessica Simpson Shows Off Leaner Legs in Blac  
-*   Entertainment Paranormal Activity 4 Beats Tyler Perry's Ale  
+*   Style Kim Wears Bridal-Inspired Dress in Venice Wit
+*   Beauty Melanie Griffith: People Tell Me "I Look Horr
+*   Moms Kingston, Zuma Rossdale Dress as Vampires for
+*   Body Christina Aguilera Offered $3 Million to Prom  
+*   Entertainment Injured Melissa Rycroft Pushes Through Neck P  
 
 *   US WEEKLY
 *   Celebrity News
