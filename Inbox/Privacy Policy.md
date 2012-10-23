@@ -1,4 +1,4 @@
-**Get 30GB of Online Storage »** Email • News • Games • Screen savers • eCards • Photos • Help Search the Web
+**Upload multiple photos at once »** Email • News • Games • Screen savers • eCards • Photos • Help Search the Web
 
 You are not signed in. **Sign In** • **Sign Up**
 
