@@ -1,4 +1,4 @@
-Amazon
+Amazon Join Prime
 
 *   Your Amazon.com
 *   Today's Deals
@@ -142,7 +142,7 @@ Examples of information you can access easily at Amazon.com include up-to-date i
 
 *   Track or Manage Purchases
 *   Manage Payment Options
-*   Returns and Replacements
+*   Return Items
 *   Change Name, E-mail, or Password
 *   Manage Address Book
 *   Manage Your Kindle
@@ -243,3 +243,5 @@ Kindle Owners' Lending Library
 Borrow from over 180,000 titles for free
 
 \>. Get started
+
+Watch. Read. Shop. Relax. Millions of Amazon Prime members enjoy instant videos, free Kindle books and unlimited free two-day shipping. >. Get started
