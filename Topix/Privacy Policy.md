@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Gunman
+Iraq
 
-Gunman who fired on family was wearing body armor, police say
+Fact Check: Romney, Obama and Iraq
 
 Mitt Romney
 
-In Debates and Life, Romney Likes the Rules
+Fact Check: Romney against 2014 deadline in Afghanistan before...
 
 Politix
 
-Who will win Virginia?
+Who won the third presidential debate?
 
 *   Home
 *   Forums
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
- 
+  Ads by Glam
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 102,861 • Total comments across all topics: 188,775,402
+Comments made yesterday: 113,170 • Total comments across all topics: 188,877,492
 
 Copyright ©2012 Topix LLC
 
