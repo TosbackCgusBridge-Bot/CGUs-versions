@@ -66,7 +66,7 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Marie Claire: Pinterest Google+ Advertisement TODAY'S FEATURED VIDEO daily giveaway
 
-Rae Francis Dylan Maxi Dress in Navy
+Win Enio Silla for Le Silla Ankle Boots!
 
 enter now See all giveaways celeb stories The New Angelina Jolie The movie star/director/mom shows off a sillier side for our MC cameras. read more other latest stories:
 
@@ -81,6 +81,15 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 
 Latest blog entries
 
+*   Prabal Gurung for Target to Debut in February
+    
+    The best news we've ever gotten on a Monday morning: Prabal Gurung will design a line for Target that hits stores in February.
+    
+    10/22/12
+*   Whos Funnier, Mitt Romney or Barack Obama? (And Does It Matter?)
+    
+    Last Thursday, Mitt Romney and Barack Obama were in the same room again, in a decidedly less combative mode than the debate stage two days prior. They were giving a pair of joke-laden speeches at the 67th Annual Alfred E. Smith Memorial Foundation Din 10/22/12
+    
 *   Ryan Reynolds' Favorite iPhone Apps
     
     The actor shares his eight most-used apps, from one that helps him read scripts to another that shows him how to restore old motorcycles. 10/17/12
@@ -92,14 +101,6 @@ Latest blog entries
 *   Isaac Mizrahi Gets in the Driver's Seat
     
     The designer talks up his latest collaboration with Chevy Malibu and reveals what's to come in the new season of Project Runway All Stars. 10/12/12
-    
-*   The Real Winner of Last Night's Debate? Martha Raddatz
-    
-    Last night, during a post-debate cocktail, I said it: "Martha for president." 10/12/12
-    
-*   Cuts Against Cancer
-    
-    Need a trimfor free? In celebration of breast cancer awareness month, ULTA Beautys got you covered 10/12/12
     
 *   See all blogs
 
