@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Overhaulin'1967 Camaro 8:00PM Overhaulin'1965 Volkswagen Bug 9:00PM American Chopper (Season 8)Full Circle TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Alaska: The Last Frontier (Season 2)Spring Has Sprung 8:00PM Alaska: The Last Frontier (Season 2)Cattle Drive 9:00PM Alaska: The Last Frontier (Season 2)Range Riding TV SHOWS
 
 American Chopper
 
@@ -330,21 +330,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-NASA's First Quest for a Reusable Rocket
+Seeking Protection for Antarctic Waters
 
-Monster Energy Drink a Killer?: DNews Nugget
+Unproven Chinese Medicine Killing Manta Rays
 
-Deadly Spanish Quake Linked to Water Extraction
+Digital Sound Tech Used To Study Rare Owls
 
-Two Months Until the Mayan Doomsday Nonevent
+Camouflage Isn't Easy to Wear: Gotta-See Video
 
-Fish Can Cloak, Become Invisible to Predators
+3-D Printing Changes Everything: Gotta-See Video
 
-Geoengineering Schemes Split Scientists
+Cassettes Coming Back In a New Way
 
-App to Mash-Up Particle Physics and Angry Birds
+Earthquake Scientists Sentenced to 6 Years
 
-'Gospel of Jesus' Wife' Faces Authenticity Tests
+Is Cheerleading a Sport?
 
   facebook share0 Tweet Privacy Policy  
 
@@ -550,32 +550,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 22,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 23,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 22,  
+Oct 23,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 22,  
+Oct 23,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 22,  
+Oct 23,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 22,  
+Oct 23,  
 9:00 am  
 60 min(s)  
 **The FBI Files**  
-_The Perfect Heist_  
- When a bank manager in California was unable to open the bank vau  
+_The Killing Zone_  
+ In the late 1980s, an illegal drug operation opened its doors in  
 **More Listings »**   Shop Discovery Store      
 
 our sites
