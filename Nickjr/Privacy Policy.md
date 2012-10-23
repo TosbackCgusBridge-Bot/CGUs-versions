@@ -160,7 +160,11 @@ parents &. preschool privacy policy
 
 Nickelodeon Parents &. Preschool is committed to providing quality online activities and information, while promoting the online safety and privacy of our users.
 
-advertisement Unified Privacy Policy Sponsored Links Fresh Beats Greatest Hits
+advertisement Unified Privacy Policy Sponsored Links New! Dora's Royal Rescue Game
+
+Find the missing books from Story Castle and rescue Don Quixote!
+
+Fresh Beats Greatest Hits
 
 Feel the beat of 20 get up &. dance hits for kids in one great collection! (AD)
 
@@ -171,10 +175,6 @@ Shop for DVDs, toys, books and more. Now at Amazon (AD)
 New Bubble Guppies Game
 
 It's a fin-tastic fairytale adventure. Play today!
-
-Dora's Pony Adventure Game
-
-Feed, groom, and saddle up Dora's pony for the big horse race!
 
 Make Learning Fun!
 
