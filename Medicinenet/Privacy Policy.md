@@ -1,4 +1,4 @@
-About Us| Newsletter October 22, 2012
+About Us| Newsletter October 23, 2012
 
 *   Like Us
 *   Follow Us
@@ -60,7 +60,7 @@ A reddish, scaly rash often located over the surfaces of the elbows, knees, scal
 
 View Image Gallery »
 
-See All Quizzes (108)
+See All Quizzes (109)
 
 1.  **Happiness** - Test your emotional IQ
 2.  **Superfoods** - Are you eating enough?
@@ -403,12 +403,12 @@ Please acknowledge your agreement I have read and agree to WebMD's Privacy Polic
 
 New on MedicineNet
 
+*   Yeast Infections in Men
 *   Nosebleed Remedies
 *   Eustachian Tube Problems
 *   Sinus Surgery
 *   Epidurals &. Fungal Meningitis
 *   Fungal Meningitis Outbreak
-*   Fungal Meningitis Symptoms
 *   Healthy Living Tips
 
 Use Pill Finder Find it Now Pill Identifier on RxList
