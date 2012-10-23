@@ -1,3 +1,5 @@
+Unable to check access level
+
 Accessibility links
 
 *   Skip to article
@@ -5,7 +7,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Monday 22 October 2012
+Tuesday 23 October 2012
 
 *   Home
 *   News
@@ -138,13 +140,13 @@ In About us
 
 Editor's Choice »
 
-A health expert at your fingertips  
+Young girls face 'peer pressure' to drop out of sport  
 
-Some 40,000 medical apps are available for phones and PCs. **Dina Behrman** checks out the latest
+Olympic gold medallist Helen Glover on why too many girls drop out of sport at school.
 
 Comments
 
-Which degree courses do your A-levels suit? Cracknell: finding my way back to myself Suggs on music's most dysfunctional family Pete Townshend: striking the power chord Advertisement
+The BBC must learn to take risks again Great British Bake Off: Fondant Fancies Seymour Hoffman on 'Scientology' movie Armstrong horrors must never be forgotten Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
