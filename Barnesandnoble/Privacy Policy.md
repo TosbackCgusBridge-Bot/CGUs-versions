@@ -10,9 +10,9 @@ Your Internet Explorer is out of date. To take full advantage of BN.com's featur
 *   Help
 
 *   Election 2012: _Read, Then Decide_
-*   Select Toys &. Games: _$5 Off Your $20 Purchase_
-*   _Halloween_ Trick-or-Treat Bag Offer
-*   Cookbooks: _Fall Preview_
+*   _Holiday Preview:_ See the Season's Best Books and More
+*   Save $2 on Tony Bennett's New _Viva Duets_
+*   Certified Pre-Owned NOOK® Devices _Starting at $74_
 
 _BORDERS Customer_ Continue your shopping at BN.com. Learn More Screen Reader Link for Category Search All ProductsBooksNOOK StoreNOOK BooksTextbooksMovies &. TVMusicKids' BooksMarketplaceRare BooksNewsstandCalendarsHome &. GiftsToys &. Games
 
