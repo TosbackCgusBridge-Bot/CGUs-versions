@@ -2,7 +2,7 @@
 *   Skip to Search
 *   Skip to Main Content
 
-64° and Overcast
+59° and Partly Sunny
 
 *   Prospective Students
 *   Current Students
