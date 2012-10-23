@@ -34,6 +34,7 @@ To search for a player use one of two formats:
 
 COLUMNS
 
+*   Giant Performance Oct 22
 *   Cards Ahead On Carpenter Bomb Oct 18
 *   Beltran Blasting Off Again Oct 15
 *   NLCS: Cardinals vs. Giants Oct 14
@@ -41,7 +42,6 @@ COLUMNS
 *   Ibanez Saves Yankees Oct 11
 *   Sabathia Silences O's Oct 8
 *   Fantasy MVPs and LVPs Oct 6
-*   Cabrera Crowned Oct 4
 
 PREMIUM CONTENT
 
@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Giants blow out Cardinals en route to pennant
+*   Jansen (irregular heartbeat) to have surgery
+*   Rangers could have interest in J.P. Arencibia
+*   Holliday (back) in Cards lineup for NLCS Gm 7
+*   Pineda will not be healed by spring training
 *   Giants force Game 7 behind Vogelsong's gem
-*   Holliday (back) scratched from Game 6 lineup
 *   Heyman: Jays looking to trade Yunel Escobar
 *   Report: Giants to put Lincecum on trade block
 *   Mike Aviles heading to Jays for John Farrell
 *   Beltran's knee should be fine for NLCS Game 6
 *   Sabathia to see Dr. Andrews about left elbow
 *   Marlins trade RHP Heath Bell to Diamondbacks
-*   A's acquire OF Chris Young from Diamondbacks
-*   Jeter undergoes ankle surgery, out 4-5 months
-*   Diamondbacks pick up 2013 option on Putz
-*   Soriano expected to opt-out with Yankees
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   What Gives, Matt? Oct 23
+*   Matchup: Lions @ Bears Oct 22
 *   Chris Commemorates CJ2K Oct 22
 *   MJD Goes MIA Oct 22
 *   Week 7 Live Blog Oct 21
 *   Best Available NFL Free Agents Oct 21
 *   Matchups: Run, DMC Oct 20
 *   Week 7 Injury Questions Oct 20
-*   Week 7 Starts and Sits Oct 20
-*   Friday Rundown Oct 19
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Ike Taylor holds A.J. Green to 1 catch (a TD)
-*   Report: Pierre Garcon has torn tendon in foot
-*   Jonathan Dwyer rumbles for 122 in 24-17 win
-*   Richardson: Injury worse than people think
-*   Report: Redskins set to re-sign Chris Cooley
-*   Titans may hold Jake Locker out another week
-*   Jags don't have a timetable on Jones-Drew yet
-*   Brady throws for two TDs as Pats outlast Jets
-*   NFL investigates Chargers for using 'Stickum'
-*   Kubiak: Ben Tate injured hamstring in victory
-*   Shurmur: Trent Richardson suffered no setback
-*   Gabbert leaves Wk 7 with left shoulder injury
+*   Nate Burleson done for season with broken leg
+*   Stafford struggles again as Lions drop to 2-4
+*   Forte totals 100 yards as Bears move to 5-1
+*   Shurmur: T-Rich to be evaluated week to week
+*   Titans to stay with Matt Hasselbeck in Week 8
+*   Donald Brown (knee) to miss one more game?
+*   Panthers send top CB Chris Gamble to I.R.
+*   Charles Woodson breaks collarbone, out 6 wks
+*   Redskins place Fred Davis on injured reserve
+*   Bengals HC Lewis: We won't bench Maualuga
+*   MJD to be sidelined for an 'extended period'
+*   Brady Quinn replacing Cassel in Kansas City
 
 NBA PAGES
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Dwight Howard posts big line in Lakers debut
-*   Evan Turner leaves with left ankle sprain
-*   Hedo Turkoglu sits out w/ back spasms
-*   Report: Dirk (knee) could return in 3-4 weeks
-*   Eric Gordon (knee) may not play in preseason
-*   Amare out 2-3 weeks w/ ruptured cyst in knee
-*   Steph Curry (ankle) probable for GSW opener
-*   Al Horford sits out second half w/ sore calf
-*   Tyrus Thomas leads Bobcats w/ 14 pts, 16 reb
-*   Bogut (ankle) on pace, but still no timetable
-*   Maggette to have MRI on strained left calf
-*   Brook Lopez keeps it rolling with 23 &. 9
+*   Ray Allen dealing with daily ankle soreness
+*   DeAndre Jordan goes for 18 &. 12 w/ 3 blocks
+*   Warriors still have no timetable for Bogut
+*   Dudley does right with 4 bombs and 25 points
+*   Lillard goes for 21 and eight against Utah
+*   Batum scores 27 points. hits five triples
+*   Gordon (knee) to return to minute restriction
+*   Report: Rivers leaves arena in walking boot
+*   Richardson posts 23-7-6 line. hits six 3PTs
+*   Thad Young hits 10-of-12 FGs to go for 22 &. 8
+*   Felton hits five 3-pointers against Sixers
+*   Austin Rivers (ankle) to have MRI on Tuesday
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Clarke MacArthur heads to German Elite League
+*   Eric Fehr signs with HPK in Finland
+*   Daly: 'Nothing going on' in CBA negotiations
+*   Garrison (groin) would be ready by Nov. 2
+*   Anton Volchenkov suffers a fractured ankle
+*   Schultz earns AHL player of the week honors
+*   S. Kostitsyn doesn't seem to mind the lockout
 *   Tobias Enstrom to play with Salzburg
 *   Colin Greening to play in Denmark
 *   Mikko Koivu to play in Finland during lockout
 *   Lehner's ejection kickstarts epic collapse
 *   Justin Schultz scores yet again for OKC
-*   Adam Henrique pots first AHL goal
-*   Marcus Foligno a force with four-point night
-*   Taylor Hall won't play in a game until Nov.
-*   Report: Ben Eager faces assault charges
-*   M.Ryan stars in Assat's win in Finnish League
-*   S. Kostitsyn scores shootout winner Saturday
-*   Anton Khudobin takes 4-1 loss in KHL game
 
 NASCAR PAGES
 
@@ -285,6 +285,7 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Els (ankle) 'will be fine' for the WGC-HSBC
 *   Henley picks up second Web.com win in playoff
 *   Gainey teases 59. breaks through at McGladrey
 *   Van Pelt cruises to a two-stroke win in Perth
@@ -296,7 +297,6 @@ FANTASY GOLF NEWS
 *   Ill Mark Anderson survives. 54-hole cut looms
 *   Dawson buries 9 birdies en route to co-lead
 *   Cauley ties the course record at Sea Island
-*   McIlroy plans to curb his schedule next year
 
 NFL DRAFT PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Senior Surprise: RB Gillislee Oct 22
 *   Senior Prospect Rankings Oct 21
 *   Week Eight Matchup Preview Oct 19
 *   The Forgotten One Oct 17
@@ -318,7 +319,6 @@ COLUMNS
 *   Week Seven Matchup Preview Oct 12
 *   The Human Genome Oct 10
 *   Banks-y, Cover Artist Oct 9
-*   Prospect Snapshots: Weeks 5-6 Oct 8
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Terps starting QB Hills out for year (ACL)
+*   'Consensus' is QBs Bray, Thomas should return
+*   Meyer: Williams responsible for one TD pass
+*   Noles RB Chris Thompson out for year (ACL)
+*   Braxton Miller expected to practice Tuesday
+*   Will Sutton likely to be back quickly (knee)
+*   Seth Doege throws for 318 yds, 7 TDs vs TCU
+*   'Good chance' DE Abry Jones is out vs UF
+*   Bjoern Werner adds another 1.5 sacks vs Canes
+*   K-St. LB Arthur Brown first to intercept Geno
 *   Kelly: Golson should be '100 percent' vs OU
 *   Richt: Very good chance OLB Jones plays
-*   'In all likelihood' QB Connor Shaw will start
-*   Okie St. starting QB Walsh out for the season
-*   Duke WR Vernon poised to break ACC record
-*   Matt Barkley throws 6 TDs versus Buffaloes
-*   Geno throws first two interceptions vs KSU
-*   Collin Klein accounts for 7 total TDs vs WVU
-*   King: Jones 'looks' to be top half of 1st rd
-*   Eifert leaps over BYU for 73 yards, 1 TD
-*   Jordan Reed catches two touchdowns vs SoCar
-*   Marcus Lattimore totals five touches vs UF
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   MLB:Giants force Game 7 behind Vogelsong's gem
-*   NFL:Jonathan Dwyer rumbles for 122 in 24-17 win
-*   NBA:Dwight Howard posts big line in Lakers debut
-*   NFL:Report: Pierre Garcon has torn tendon in foot
-*   NFL:Richardson: Injury worse than people think
-*   NFL:Report: Redskins set to re-sign Chris Cooley
-*   NFL:Titans may hold Jake Locker out another week
-*   NFL:Jags don't have a timetable on Jones-Drew yet
-*   NFL:Brady throws for two TDs as Pats outlast Jets
-*   NAS:Matt Kenseth wins Hollywood Casino 400
-*   NFL:NFL investigates Chargers for using 'Stickum'
-*   NBA:Eric Gordon (knee) may not play in preseason
+*   NFL:Nate Burleson done for season with broken leg
+*   MLB:Giants blow out Cardinals en route to pennant
+*   NFL:Forte totals 100 yards as Bears move to 5-1
+*   MLB:Jansen (irregular heartbeat) to have surgery
+*   NFL:Redskins place Fred Davis on injured reserve
+*   NFL:Shurmur: T-Rich to be evaluated week to week
+*   NFL:Titans to stay with Matt Hasselbeck in Week 8
+*   MLB:Holliday (back) in Cards lineup for NLCS Gm 7
+*   NFL:Charles Woodson breaks collarbone, out 6 wks
+*   CFB:'Consensus' is QBs Bray, Thomas should return
+*   NBA:Ray Allen dealing with daily ankle soreness
+*   NFL:MJD to be sidelined for an 'extended period'
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1T. RichardsonNFL (8910)
-*   2A. BradshawNFL (8186)
-*   3J. GrahamNFL (7800)
-*   4R. MendenhallNFL (7138)
-*   5J. GordonNFL (6651)
+*   1A. BradshawNFL (8369)
+*   2T. RichardsonNFL (8325)
+*   3J. GrahamNFL (7230)
+*   4R. MendenhallNFL (6735)
+*   5A. BrownNFL (6334)
 
-*   6A. BrownNFL (6598)
-*   7G. JenningsNFL (6369)
-*   8L. MooreNFL (6342)
-*   9D. MurrayNFL (6309)
-*   10J. DwyerNFL (5865)
+*   6J. DwyerNFL (6321)
+*   7G. JenningsNFL (5888)
+*   8D. BrownNFL (5738)
+*   9J. GordonNFL (5730)
+*   10D. MurrayNFL (5433)
 
   
 Video Center
@@ -525,6 +525,8 @@ Video Center
 *   4
 *   »
 
+*      
+    Fix: Week 8's top pickups
 *      
     Start &. Sit: Lions @ Bears
 *      
@@ -539,39 +541,37 @@ Video Center
     Fix: NBA rookies to draft
 *      
     Start &. Sit: Seahawks - 49ers
-*      
-    SportsTalk: Bye Week help
 
   
   
-  Headlines Chris Commemorates CJ2K  
-Oct 22 Chris Johnson's performance recalled 2009, but which other players stood out for better or worse? Chet Gresham recaps the Week 7 action.  
+  Headlines What Gives, Matt?  
+Oct 23 Patrick Daugherty breaks down Matthew Stafford's struggles while checking in on Maurice Jones-Drew in Tuesday's Dose.  
   
 More NFL Columns
 
+*   »What Gives, Matt? Oct 23
+*   »Matchup: Lions @ Bears Oct 22
 *   »Chris Commemorates CJ2K Oct 22
 *   »MJD Goes MIA Oct 22
 *   »Week 7 Live Blog Oct 21
 *   »Best Available NFL Free Agents Oct 21
 *   »Matchups: Run, DMC Oct 20
 *   »Week 7 Injury Questions Oct 20
-*   »Week 7 Starts and Sits Oct 20
-*   »Friday Rundown Oct 19
 
 NFL Headlines
 
-*   »Ike Taylor holds A.J. Green to 1 catch (a TD)
-*   »Report: Pierre Garcon has torn tendon in foot
-*   »Jonathan Dwyer rumbles for 122 in 24-17 win
-*   »Richardson: Injury worse than people think
-*   »Report: Redskins set to re-sign Chris Cooley
-*   »Titans may hold Jake Locker out another week
-*   »Jags don't have a timetable on Jones-Drew yet
-*   »Brady throws for two TDs as Pats outlast Jets
-*   »NFL investigates Chargers for using 'Stickum'
-*   »Kubiak: Ben Tate injured hamstring in victory
-*   »Shurmur: Trent Richardson suffered no setback
-*   »Gabbert leaves Wk 7 with left shoulder injury
+*   »Nate Burleson done for season with broken leg
+*   »Stafford struggles again as Lions drop to 2-4
+*   »Forte totals 100 yards as Bears move to 5-1
+*   »Shurmur: T-Rich to be evaluated week to week
+*   »Titans to stay with Matt Hasselbeck in Week 8
+*   »Donald Brown (knee) to miss one more game?
+*   »Panthers send top CB Chris Gamble to I.R.
+*   »Charles Woodson breaks collarbone, out 6 wks
+*   »Redskins place Fred Davis on injured reserve
+*   »Bengals HC Lewis: We won't bench Maualuga
+*   »MJD to be sidelined for an 'extended period'
+*   »Brady Quinn replacing Cassel in Kansas City
 
 NFL Links
 
