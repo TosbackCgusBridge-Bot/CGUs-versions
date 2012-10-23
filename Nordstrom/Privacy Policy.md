@@ -23,7 +23,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Party Style Guide
     *   Fall Coat Trend Guide
     *   Cold-Weather Trends
-    *   Fall's Top 10
+    *   Denim You Need Now
     
     *   New Arrivals
     *   Complete Looks
