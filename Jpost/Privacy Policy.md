@@ -3,7 +3,7 @@
 *   *   Breaking News
     *   Diplomacy &. Politics
     *   Defense
-    *   National News
+    *   National
     *   Middle East
     *   International
     *   Iranian Threat
@@ -11,6 +11,7 @@
     *   Sports
     *   Health
     *   Environment
+    *   FR
 *   Opinion
     *   Columnists
     *   Editorials
@@ -32,6 +33,7 @@
     *   Lifestyle
     *   Aliya
     *   Science and Technology
+*   Elections 2013
 *   Premium Zone
     *   The Experts
     *   The Jerusalem Report
