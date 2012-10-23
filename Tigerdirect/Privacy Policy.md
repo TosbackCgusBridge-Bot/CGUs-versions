@@ -110,13 +110,6 @@ Search _My cart:_ **$0.00**  (0 Items)
     Deals Under Deals Under $25 Deals Under $50 Deals Under $100
     
 
-   
-
-We respect your privacy and take it very seriously. View our privacy policy
-
-  
-View a sample email
-
 Accessories  
 Audio  
 Barebone Kits  
