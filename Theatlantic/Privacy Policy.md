@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Monday, October 22, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Tuesday, October 23, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Monday, October 22, 2012 Go Follow the Atlanti
 *   Magazine
 *   video
 
-It's Funny Because We're White Ta-Nehisi Coates The Case Against Protest Voting Andrew Cohen New York's Terrible '50 Shades' Debate Question David A. Graham Housing Is Recovering -- What Happens Next? Glenn Kelman A Bizarre Newspaper-Business Story Derek Thompson Why Are Women Paid Less Than Men? Jordan Weissmann 'Dal Tokyo': Dallas Met Tokyo Met Mars Steven Heller How 'The Sessions' Tells the Truth About Sex Alan Zilberman Bieber's Fake-Mustache Industrial Complex Mark Dee A Spree of Attacks on Afghan Women Frud Bezhan and Shahpur Saber The Security Contractor Guarding Americans in Libya Garance Franke-Ruta Inside Russia Prison System Armin Rosen Endeavour in Los Angeles, in Timelapse Rebecca J. Rosen Sergei Udaltsov Live Tweets His Detention Megan Garber Twitter Blocks Neo-Nazi Account in Germany Rebecca J. Rosen Are 'Ninety Years of Discrimination' Over? Garrett Epps A Forgotton Law That Could Save Lives Julie Turkewitz California's Strange and Costly Food Fight Ari LeVaux Oh to Be 'Less Dissatisfied' in Marriage James Hamblin The Yelpification of Health Care Lindsay Abrams Rise of the Stay-at-Home Phone Sex Operator Melanie Berliet Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Tiny Drones Play Catch Kasia Cieplak-Mayr von Baldegg The Science Behind Joy Division's Iconic Album Cover Abdullah Saeed 1950s Video: Dealing With Women in the Workplace Kasia Cieplak-Mayr von Baldegg Privacy Policy
+Dr. Obama Diagnoses the Moderate Mitt: 'Romnesia' Molly Ball Can Your Boss Fire You for Voting Obama? David A. Graham Time Vindicated George McGovern on War Conor Friedersdorf Housing Is Recovering -- What Happens Next? Glenn Kelman A Bizarre Newspaper-Business Story Derek Thompson Why Are Women Paid Less Than Men? Jordan Weissmann Alex Rodriguez Was Framed Allen Barra 'The Walking Dead' as the Holocaust Jeffrey Goldberg, J.J. Gould, and Scott Meslow How the Blind Run Marathons Julia Lurie Foreign Policy Isn't 'Above Politics' Joshua Foust Does Obama Really Think China Is the Enemy? Brian Fung The Saga of Iran's Hero Airline Pilot Golnaz Esfandiari How to Take Pictures of Sharks Megan Garber An Entrepreneur Turns to Inflatable Robots Alexis Madrigal What Is That Shiny Thing Curiosity Found? Megan Garber A Forgotton Law That Could Save Lives Julie Turkewitz The Cuban Missile Crisis: 50 Years Later John Tierney California's Strange and Costly Food Fight Ari LeVaux Are There Dust Mites in Your Ear? James Hamblin Italian Court Says Cell Phones Cause Brain Tumors Lindsay Abrams There's Detectable Cocaine in Italian Air James Hamblin Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Tiny Drones Play Catch Kasia Cieplak-Mayr von Baldegg The Science Behind Joy Division's Iconic Album Cover Abdullah Saeed 1950s Video: Dealing With Women in the Workplace Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,27 +113,26 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report woodleywonderworks/Flickr Why American Students Can't Write  
-An _Atlantic_ debate about how to teach writing, and why it matters Read more › Just In Brendan Hasenstab 8:01 AM ET Track of the Day: 'The Descent' 1350907260 Voices
+Just In Brendan Hasenstab 8:01 AM ET Track of the Day: 'Bones' 1350993686 Voices
 
-*   Robert Wright What Obama Should Say About Iran in the Debate Oct 21, 2012
-*   James Fallows Inside Foxconn #4: New Recruits, 'Flying Tiger,'… Oct 21, 2012
-*   Ta-Nehisi Coates On Family Values Oct 21, 2012
-*   Derek Thompson What Happens If TV Goes the Way of Music and… Oct 19, 2012
-*   Alexis C. Madrigal An Energy Entrepreneur Turns to Inflatable Robots Oct 19, 2012
-*   Jeffrey Goldberg Did Joe Biden Just Go Soft on Iran? Oct 19, 2012
-*   Clive Crook How the Democratic Base Could Lose This Election… Oct 19, 2012
+*   Jeffrey Goldberg The Kishke Debate 6:31 AM ET
+*   Clive Crook An Inconsequential Debate 1:06 AM ET
+*   Robert Wright Why Obama Won 1:01 AM ET
+*   James Fallows Last Debate Oct 22, 2012
+*   Ta-Nehisi Coates Blogging the Debate Oct 22, 2012
+*   Alexis C. Madrigal There Once Was a White Whale Who Tried to Speak… Oct 22, 2012
+*   Derek Thompson How Your Job (and Your Wage) Predicts Your Vote Oct 22, 2012
 *   Garance Franke-Ruta Hillary Clinton Wants None of Your 'Whining'… Oct 18, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 
 Correspondents
 
-*   Andrew Cohen 10 Legal Questions Bob Schieffer Should Ask the Candidates
-*   Garrett Epps 'Ninety Years of Discrimination' Is Enough, Court Declares
-*   Zvika Krieger In Praise of the Blackberry
+*   Garrett Epps Zombie Election: 5 Ways the 2012 Race Could Stagger On for Months
+*   Andrew Cohen Think the Florida Recount Was Bad? Just Wait Until November 6
+*   John Tierney 'What Are You Going to Be If You Grow Up?': Recalling the Cuban Missile Crisis
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos All the Small Places in North Dakota Oct 19, 2012 Video What It Was Like to Work for Charles and Ray Eames Gestalten TV: Tessa Farmer Designer Reza Abedini Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Scenes From 21st-Century China Oct 22, 2012 Video How to Teach Yourself Lucid Dreaming What Does Marijuana Actually Do? The Science of Procrastination Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -162,63 +161,63 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   International Cycling Union Says 'Lance Armstrong Has No Place in Cycling'  
+*   Russian Rocket Launch Brings a New Crew to the Space Station  
     
-*   Jordan Foils a 'Major' Terrorist Plot  
+*   Assad Offers Amnesty, but Not To Anyone Who Needs It  
     
-*   In Iran, Not Even Prisoners Want to Hang Out with Ahmadinejad  
-    
-
-Last Update: 7:07 AM
-
-*   Why Amtrak Keeps Breaking Ridership Records and Will Continue To Do So  
-    
-*   Vienna's Naked Subway Woman Adds To Rich History of Nude Commuting  
-    
-*   Where Americans Come to Hate Muslims: Dearborn  
+*   Your Smartphone Is Profoundly Filthy  
     
 
-Last Update: 5:35 PM Most Popular
+Last Update: 6:18 AM
+
+*   Dedicated Bike Lanes Can Cut Cycling Injuries in Half  
+    
+*   Creatives and the Crisis  
+    
+*   Travel to More Than 60 Countries Without Leaving This Park  
+    
+
+Last Update: 8:05 PM Most Popular
 
 1
 
-All the Small Places in North Dakota
+A Good Debate for Obama, But Can He Stop Romney?
 
 2
 
-Dark Social: We Have the Whole History of the Web Wrong
+Scenes From 21st-Century China
 
 3
 
-'The Walking Dead' as the Holocaust
+#horsesandbayonets: The Main Meme of the Final Debate, Explained
 
 4
 
-The Revenge of the Soccer Moms
+There Once Was a White Whale Who Tried to Speak to Humans
 
 5
 
-Robots at Work and Play
+The Kishke Debate
 
 6
 
-Why Women Still Can’t Have It All
+Why Obama Won
 
 7
 
-The F-35: A Weapon That Costs More Than Australia
+Dark Social: We Have the Whole History of the Web Wrong
 
 8
 
-National Geographic Photo Contest 2012
+What If Mitt Romney Inherits Obama's Killer Drone Fleet?
 
 9
 
-What Happens If TV Goes the Way of Music and Newspapers?
+How Google Builds Its Maps—and What It Means for the Future of Everything
 
 10
 
-A Trip to the Faroe Islands
+An Inconsequential Debate
 
 *   Subscribe Help
 *   Faq
