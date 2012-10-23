@@ -238,7 +238,7 @@ View full agreement (PDF)
 *   Comcast
 *   Follow us for exclusive deals
 *   Find tutorials and demos
-*   Reach out on Facebook
+*   Connect on Facebook
 
 *   Shop 
     *   Bundles &. Promotions
