@@ -164,7 +164,7 @@ Under California Civil Code sections 1798.83-1798.84, California residents are e
   
 International Customer Privacy  
   
-To fill international orders, macys.com partners with FiftyOne, Inc. (“FiftyOne”).  FiftyOne will carefully process your personal information, with at least the same level of privacy protection set forth in the U.S. - EU Safe Harbor Privacy Principles and the U.S. – Swiss Safe Harbor Privacy Principles established by the U.S. Department of Commerce.  FiftyOne also agrees not to sell, transfer, or otherwise use your information other than for processing international shipments.  
+To fill international orders, macys.com partners with FiftyOne, Inc. (“FiftyOne”).  FiftyOne will carefully process your personal information, with at least the same level of privacy protection set forth in the U.S. - EU Safe Harbor Privacy Principles and the U.S. - Swiss Safe Harbor Privacy Principles established by the U.S. Department of Commerce.  FiftyOne also agrees not to sell, transfer, or otherwise use your information other than for processing international shipments.  
   
 When you indicate you are shipping internationally, you will be redirected to a checkout page hosted by FiftyOne.  On the checkout page you will be required to submit personal information to FiftyOne to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communication from macys.com.  
   
@@ -200,13 +200,7 @@ was this answer helpful? Please tell us how we can make this answer more helpful
 *   Pricing Policy for Online Merchandise
 *   Credit Card Privacy Policy
 
-Find an answer announcements
-
-*   Trying to use the promo code PRES?  
-    The "PRES" promotional code expired on Thursday, 10/18/12. Be sure to take advantage of our One Day...  
-    
-
-related tools My Profile Macy's Credit Card Order Status Store Locator Gift Card Balance Password Assistance Contact Us
+Find an answer related tools My Profile Macy's Credit Card Order Status Store Locator Gift Card Balance Password Assistance Contact Us
 
 For assistance with your shopping experience and other answers.
 
