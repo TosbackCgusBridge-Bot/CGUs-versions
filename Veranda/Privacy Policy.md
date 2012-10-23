@@ -11,10 +11,10 @@ Most Viewed
 
 Most Searched
 
-1.  living rooms
-2.  kitchens
-3.  bedrooms
-4.  designer inspiration
+1.  christmas
+2.  living rooms
+3.  designer inspiration
+4.  bedrooms
 5.  jewelry
 
 Magazine | RSS
