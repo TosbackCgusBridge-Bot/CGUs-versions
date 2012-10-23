@@ -42,9 +42,9 @@ AllThingsD
 
 *   View by Writer
 
-**Trending –** The Secret Behind Pinterest’s Growth Was Marketing, Not Engineering, Says CEO Ben Silbermann  
+**Trending –** Why NBC Can’t Make Money From Its Latest “Saturday Night Live” Viral Video  
 
-Follow on Twitter »Subscribe on Facebook »Like on Facebook »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
+**D: Dive Into Mobile** Live Stream Schedule »Follow on Twitter »**D: Dive Into Mobile** Live Interview Schedule »Subscribe on Facebook »Watch Live – Facebook, Google, Twitter, Xiaomi »Like on Facebook »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
