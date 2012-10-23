@@ -225,7 +225,7 @@ This Privacy Policy may be updated and revised from time to time, and we will po
 
 This privacy policy describes how we may share your information for marketing purposes. It applies to all Toys"R"Us customers, including California residents:
 
-*   We share information with others only if we have your express consent. See above: How does Toys"R"Us use and share personal informaion?
+*   We share information with others only if we have your express consent. See above: How does Toys"R"Us use and share personal information?
 *   We share your information with other parts of our business and with our service providers. See above: How does Toys"R"Us use and share personal information?
 
 You may contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose. See above: How to contact Toys"R"Us
