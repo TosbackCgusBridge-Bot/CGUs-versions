@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Media:** Jimmy Savile row: Newsnight emails spark 'crisis' at BBC
-2.  2\. **TV &. radio:** Girls: smart, sassy and funny – but will Brits find it anything new?
-3.  3\. **News:** France 24 journalist Sonia Dridi attacked in Tahrir Square
-4.  4\. **News:** Russian forces kill 49 militants in North Caucasus
-5.  5\. **News:** Lottery millionaires each fund six jobs a year, study shows
+1.  1.  **News:** Final US presidential debate: Obama and Romney on foreign policy - as it happened
+2.  2\. **News:** Obama and Romney clash over foreign policy in final presidential debate
+3.  3\. **News:** Pussy Riot band members sent to remote prison camps
+4.  4\. **Environment:** Talking beluga whale named Noc is revealed
+5.  5\. **Comment:** Presidential debate on foreign policy: live Glenn Greenwald commentary
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Sport:** Win tickets for the NFL at Wembley
-2.  **Media:** Jimmy Savile row: Newsnight emails spark 'crisis' at BBC
-3.  **Society:** Europe's lost generation costs €153bn a year, study finds
-4.  **News:** Obama and Romney tied in polls ahead of final presidential debate
-5.  **News:** Lottery millionaires each fund six jobs a year, study shows
+1.  **Money:** Five reasons why you might be a mortgage prisoner – and how to escape
+2.  **Environment:** Talking whale named Noc mimics human speech - video
+3.  **Environment:** Talking beluga whale named Noc is revealed
+4.  **News:** Final US presidential debate: Obama and Romney on foreign policy - as it happened
+5.  **News:** Final US presidential debate: Obama and Romney duel on foreign policy - video
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  The Herald's editor steps down
-2.  2\. Father describes desperate efforts to save family from house fire
-3.  3\. Lotus Evora 414E: behind the wheel of an electric sports car
-4.  4\. David Cameron's speech on crime: Politics live blog
-5.  5\. Lance Armstrong: UCI press conference - live!
+1.  1.  Syria crisis: UN mulls peacekeepers but ceasefire hopes fade - live updates
+2.  2\. Badger cull statement: Politics live blog
+3.  3\. Picture desk live: the best news pictures of the day
+4.  4\. William Hague urges European ministers to boost trade - video
+5.  5\. Final presidential debate: Obama and Romney in gifs
 6.  All today's stories
 
 On the Guardian today
 
-1.  Life and style Mapping the body: the temple
-2.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-3.  Comment is free Iran sanctions now causing food insecurity, mass suffering
-4.  Football Barcelona and Real Madrid draw El Clásico thriller at Camp Nou
-5.  Art and design Man who defaced Tate Modern's Rothko canvas says he's added value
-6.  Football Manchester United's numbers game leaves Newcastle in middle of nowhere
+1.  Comment is free Presidential debate on foreign policy: live Glenn Greenwald commentary
+2.  Life and style Mapping the body: the temple
+3.  World news Pussy Riot band members sent to remote prison camps
+4.  Comment is free Obama fires and Romney falters but third debate fails to find a flourish
+5.  World news Final US presidential debate: Obama and Romney on foreign policy - as it happened
+6.  World news Obama and Romney clash over foreign policy in final presidential debate
 
 *   License/buy our content
 |*   Privacy policy
