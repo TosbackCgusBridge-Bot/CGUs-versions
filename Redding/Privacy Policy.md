@@ -174,11 +174,7 @@ Record Searchlight
 *   Cars
 *   Classified
 
-*   Winter Weather Advisory
-    
-    IN EFFECT UNTIL OCT 22, 4:30 p.m.
-    
-    issued for Mountains Southwestern Shasta County to Northern Lake County
+*   Join the LIVE Presidential debate coverage. Starting tonight at 6:00 pm
     
 
 Privacy Policy Redding.com Privacy Policy
@@ -274,24 +270,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 96 comments
-*   Police: Redding woman drives muscle car into home Published 10/20/2012 at 11:19 p.m. 27 comments
-*   UPDATED: Fire damages Redding church Published 10/21/2012 at 7:30 p.m. 8 comments
-*   Rain on the way for north state. snow predicted for higher elevations Published 10/20/2012 at 9:28 p.m. 8 comments
-*   Shots fired near Palomino Room in Red Bluff, police say Published 10/21/2012 at 8:40 a.m. 14 comments
+*   Body found on riverbank near Sundial Bridge identified Updated 10/22/2012 at 9:54 a.m. 26 comments
+*   Hilltop closed between Presidio and Mistletoe in Redding Published 10/22/2012 at 12:24 p.m. 5 comments
+*   Dead man found at California shooting was wearing armor Published 10/22/2012 at 4:00 a.m. 18 comments
+*   RedBlue America: Can lost manufacturing jobs be restored? Published 10/22/2012 at 12:00 a.m. 137 comments
+*   Two teens arrested on suspicion of attempted carjacking Updated 10/22/2012 at 6:05 a.m. 31 comments
 
-Photo Galleries Red Bluff men get marijuana back Farewell Halloween Horse Show at… Think Pink
+Photo Galleries Red Bluff men get marijuana back Foothill vs. Chico Farewell Halloween Horse Show at…
 
-*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 182 comments
-*   Gun industry thrives during Obama's term in office Published 10/19/2012 at 4:00 a.m. 139 comments
-*   Charles Krauthammer: Obama's great gaffe Published 10/19/2012 at 12:00 a.m. 110 comments
-*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 96 comments
-*   Redding residents join nationwide rally against Obamacare contraception mandate Published 10/20/2012 at 9:30 p.m. 55 comments
+*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 188 comments
+*   RedBlue America: Can lost manufacturing jobs be restored? Published 10/22/2012 at 12:00 a.m. 137 comments
+*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 112 comments
+*   Redding residents join nationwide rally against Obamacare contraception mandate Published 10/20/2012 at 9:30 p.m. 60 comments
+*   D-II Heavyweight: Sutter outlasts Enterprise 34-27 Published 10/19/2012 at 11:58 p.m. 57 comments
 
 *   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
 *   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 89 comments
-*   Dog trainer teaches empathy at Tehama juvenile hall Published 10/15/2012 at 11:40 p.m. 9 comments
 *   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Published 10/13/2012 at 10:14 a.m. 34 comments
+*   Dog trainer teaches empathy at Tehama juvenile hall Published 10/15/2012 at 11:40 p.m. 9 comments
 *   UPDATED: Montague woman, 30, killed by husband, deputies say Published 10/18/2012 at 4:13 p.m. 16 comments
 
 Weather
@@ -300,25 +296,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 50° Rain Fog/Mist Wind: S 12mph Today 52° 46° Mon 05:00 PM Mostly Cloudy Showers Temp: 52° Tue 05:00 AM Mostly Cloudy Showers Temp: 48° Tue 05:00 PM Mostly Cloudy Showers Temp: 53°
+Currently 48° Overcast Wind: S 9mph Today 54° 47° Tue 05:00 PM Mostly Cloudy Showers Temp: 54° Wed 05:00 AM Mostly Cloudy Showers Temp: 41° Wed 05:00 PM Mostly Cloudy Showers Temp: 56°
 
-Feels Like: 52°
+Feels Like: 54°
 
-Humidity: 66%
+Humidity: 59%
 
-Precip: 95%
+Precip: 57%
 
-Feels Like: 48°
+Feels Like: 39°
 
 Humidity: 93%
 
-Precip: 79%
+Precip: 88%
 
-Feels Like: 53°
+Feels Like: 56°
 
-Humidity: 61%
+Humidity: 64%
 
-Precip: 59%
+Precip: 75%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -334,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Monday Oct 22
 *   Tuesday Oct 23
 *   Wednesday Oct 24
+*   Thursday Oct 25
 *   More BROWSE Icon
-
-*   The Sacred Drumming Circle 2001 Park Marina Drive, Redding 6:30 p.m.
-*   Free classes for seniors Senior Citizens Hall
-*   Zumba Classes Teen Center 6 p.m.
-*   Redding Chess Club See Description 5 p.m.
-*   Redding Duplicate Bridge Club meetings Senior Citizens Hall noon
-
-More Events »
 
 *   Redding Rambling A’s Model A Ford Club of America meeting Holiday Quality Foods - Placer noon
 *   HVACR - Motor Control Shasta Builder's Exchange 6 p.m.
@@ -363,6 +351,14 @@ More Events »
 
 More Events »
 
+*   Builders Energy Code Training Shasta Builder's Exchange 2 p.m.
+*   11th annual Power to Seniors Soup Kitchen Redding Veterans Memorial Hall 4:30 p.m.
+*   Film 'Green Fire' Redding Library 5:30 p.m.
+*   Anderson Senior Citizens dancing Frontier Senior Center 6:30 p.m.
+*   Shasta Scottish Country dancers See Description 6:30 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
@@ -375,9 +371,9 @@ More Events » Features
     
     Nominate young leaders in the North State! Nomination deadline November. 6th
     
-    Does character matter?
+    Join the Live Presidential Debate
     
-    Take our Presidential candidate character survey.
+    Starts tonight at 6 pm
     
 *   Election Coverage
     
