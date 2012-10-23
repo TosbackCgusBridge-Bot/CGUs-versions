@@ -22,9 +22,9 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
             *   47 Comfort Foods
             *   10 Recipes We're Loving
             *   8 Cupcake Icing Tips
-        *   *   Halloween 60 Halloween Recipes Eat, drink and be scary with our collection of spooky treats.
+        *   *   Halloween 66 Halloween Recipes Eat, drink and be scary with our collection of spooky treats.
             *   Pick Of The Week 10 Recipes We're Loving Find out which recipes have got our tongues wagging this week.
-            *   Comfort Foods Comforting Classics Satisfy your cravings for nostalgic meals with our comforting recipes.
+            *   Andy Bates 86 Andy Bates Recipes All your favourite Andy recipes, plus new dishes from his travels.
         *   ALL RECIPES
 *   TV Shows
     *   *   Top Shows
@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Fresh Food Fast... UP NEXT › Andy Bates Amer...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Barefoot Contes... UP NEXT › Barefoot Contes...
 
 *   Channel  
     Guide
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   Look what’s just arrived! It’s the first copy of the new Andy Bates cookbook. Order yours now: t.co/upYgOQFv t.co/sdlkAdTq
+*   @margotlohan well make sure you let us know when you do!
+*   @nancymcgregor oh no. How about trying this one t.co/OjzabHkP
+*   Are those cupcake nails we spy? RT @jodieburger I got inspired this morning whilst watching @FoodNetwork\_UK #DCcupcakes t.co/O7ggAqFo
+*   @siobhanmcgowaan we hope you feel better soon. In the meantime hope you're enjoying watching us!
 *   @nancymcgregor ohhh that sounds lovely. Let us know how it goes!
 *   Recipe of the Day: Butternut Squash Soup with Chipotle Cream t.co/EilmGdBP
 *   Hey! What're you planning? RT @nancymcgregor: Time to watch @FoodNetwork\_UK and drool while food planning.
 *   @margotlohan did you make the risotto?
 *   He's got the whizz, bang, wow! RT @natslooney: I think I have a #legit crush on @GuyFieri. It was bound to happen-O.D on @FoodNetwork\_UK
-*   RT @vicstewart: New LondonStreetFoodie post all about cooking street food with @eatmypies for a @FoodNetwork\_UK event t.co/yr27SLY6
-*   From graveyard cupcakes to vampire cocktails, we’ve got spooky #Halloween treats covered: t.co/bowjICfo
-*   Watch Andy Bates American Street Feasts online now: t.co/vfh1WsNz #StreetFeastsUSA
-*   Recipe of the Day: Pumpkin and Porcini Risotto t.co/BF6xfXv4 #recipe
-*   Take a sneak peek at some of the cocktails starring in World Class: Bartender of the Year tonight: t.co/z0y3hyRf #cocktailoclock
 
 Follow Us
 
