@@ -435,24 +435,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Deputies: Deadly hit-and-run suspect caught sleeping in car, cocaine on his lap Updated 10/22/2012 at 8:22 p.m. 21 comments
-*   Theaters grapple with nudity, controversial content in conservative Southwest Florida Published 10/22/2012 at 4:00 a.m. 2 comments
-*   Obama, Romney seek foreign policy edge in final debate tonight Published 10/22/2012 at 1:28 p.m. 89 comments
-*   Naples airport terminal missing more than just commercial airlines Published 10/22/2012 at 5:30 a.m. 27 comments
-*   Fake letters saying people ineligible to vote reported by Collier elections officials Updated 10/22/2012 at 9:35 p.m. 27 comments
+*   Woman says she was raped by group of men at local hotel Published 10/23/2012 at 5:00 p.m.
+*   Plan for new Florida license plates put on hold Updated 10/23/2012 at 1:04 p.m. 28 comments
+*   Collier County supports continuing 287(g) immigration program Published 10/23/2012 at 11:13 a.m. 96 comments
+*   Woman critically injured in Alligator Alley wreck Updated 10/23/2012 at 8:35 p.m.
+*   Naples Players dare to go bare in steamy French thriller Published 10/22/2012 at 4:01 a.m. 12 comments
 
-Photo Galleries Fort Myers ZombiCon 2012 Stiletto Sprint 2012 Fort Myers Prostitution Arrests: Oct…
+Photo Galleries Historic Photos: Everglades National… Fort Myers ZombiCon 2012 Disaster Training - SWFL Intn'l Airport
 
-*   Countdown to debate: Romney ups criticism of Obama's second-term plans Published 10/20/2012 at 12:11 p.m. 129 comments
-*   5 things to watch for tonight in final presidential debate Published 10/22/2012 at 6:34 a.m. 127 comments
+*   Final debate: Challenging each other face to face Published 10/22/2012 at 10:30 p.m. 263 comments
+*   5 things to watch for tonight in final presidential debate Published 10/22/2012 at 6:34 a.m. 133 comments
+*   Collier County supports continuing 287(g) immigration program Published 10/23/2012 at 11:13 a.m. 96 comments
 *   Coin toss: Blaming Obama, East Naples man accused of throwing pennies at Dems Published 10/20/2012 at 10:10 p.m. 110 comments
-*   Obama, Romney seek foreign policy edge in final debate tonight Published 10/22/2012 at 1:28 p.m. 89 comments
-*   Letter of the Day: Stop your whining! Published 10/21/2012 at 4:00 a.m. 76 comments
+*   Obama, Romney seek foreign policy edge in final debate tonight Published 10/22/2012 at 1:28 p.m. 94 comments
 
 *   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 54 comments
 *   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 290 comments
-*   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
 *   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 54 comments
+*   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
 *   In the Know: What can and can't be recycled in Collier County? Published 10/15/2012 at 5:00 a.m. 12 comments
 
 Weather
@@ -461,40 +461,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 69° Fair Wind: N 5mph Today 87° 71° Tue 08:00 PM Mostly Clear Temp: 80° Wed 08:00 AM Partly Sunny Showers Temp: 73° Wed 08:00 PM Partly Cloudy Temp: 79°
+Currently 72° Fair Wind: NE 8mph Today 87° 71° Wed 08:00 PM Partly Cloudy Showers Temp: 81° Thu 08:00 AM Partly Sunny Showers Temp: 76° Thu 08:00 PM Partly Cloudy Showers Temp: 78°
 
-Feels Like: 82°
-
-Humidity: 62%
-
-Precip: 5%
-
-Feels Like: 73°
-
-Humidity: 85%
-
-Precip: 10%
-
-Feels Like: 79°
+Feels Like: 84°
 
 Humidity: 69%
 
 Precip: 20%
 
+Feels Like: 76°
+
+Humidity: 81%
+
+Precip: 20%
+
+Feels Like: 78°
+
+Humidity: 74%
+
+Precip: 20%
+
 More Weather » Calendar
 
-*   Tuesday Oct 23
 *   Wednesday Oct 24
 *   Thursday Oct 25
+*   Friday Oct 26
 *   More BROWSE Icon
-
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Mangrove Estuary Kayak Tour with Up A Creek Kayak Tours Waters of Rookery Bay Reserve 9 a.m.
-*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
-*   Barrier Islands Guided Walk Bowditch Point Recreational Park 9:30 a.m.
-
-More Events »
 
 *   Women Business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
 *   Women business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
@@ -509,6 +501,14 @@ More Events »
 *   Ten Thousand Islands Kayak with Up A Creek KAyak Tours Goodland County Boat Park 9 a.m.
 *   Pumpkin Patch North Naples United Methodist Church 9 a.m.
 *   Paddleboard and Fitness 1st Ave S. Old Naples 9 a.m.
+
+More Events »
+
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Low Cost Pet Vaccination Clinic Collier Spay Neuter Clinic at 2544 Northbrooke Plaza Dr. 9 a.m.
+*   Baby boot camp Miromar Outlets 9 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Mangrove Estuary Kayak Tour with Up A Creek Kayak Tours Waters of Rookery Bay Reserve 9 a.m.
 
 More Events »
 
