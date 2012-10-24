@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Iraq
-
-Fact Check: Romney, Obama and Iraq
-
 Mitt Romney
 
-Fact Check: Romney against 2014 deadline in Afghanistan before...
+Romney: Debates "supercharged" my campaign
+
+Microsoft
+
+What you should know about the Microsoft Surface
 
 Politix
 
-Who won the third presidential debate?
+Which third party candidate would you vote for?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 113,170 • Total comments across all topics: 188,877,492
+Comments made yesterday: 115,017 • Total comments across all topics: 188,980,978
 
 Copyright ©2012 Topix LLC
 
