@@ -54,7 +54,7 @@ Kmart All ProductsAppliancesAutomotive &. TiresBabyBeautyBooksCustom ArtClothing
 *   Toys &. Games
 *   Clearance
 
-Deal of the Day kmart layaway get it today with FREE store pick up WEEKLY MEMBER DEALS FREE SHIPPING AND 2X REWARDS POINTS WITH SHOP YOUR WAY MAX
+Deal of the Day kmart layaway FREE store pick up WEEKLY MEMBER DEALS FREE SHIPPING AND 2X REWARDS POINTS WITH SHOP YOUR WAY MAX
 
 FREE SHIPPING on orders of $49 or more See details -OR- 3 months of FREE SHIPPING learn more
 
