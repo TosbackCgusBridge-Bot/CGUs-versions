@@ -102,7 +102,7 @@ Adobe may also share your personal information:
 
 • With our resellers and other sales partners if you are a business customer and agreed to receive Adobe marketing communications. Note that we do not share personal information about consumers with third parties for their own marketing purposes unless the consumer agreed to that sharing.
 
-• When we are required to provide information in response to a subpoena, court order, or other applicable law or legal process.
+• When we are required to provide information in response to a subpoena, court order, or other applicable law or legal process (learn more).
 
 • When we have a good faith belief that the disclosure is necessary to prevent or respond to fraud, defend our websites or applications against attacks, or protect the property and safety of Adobe, our customers and users, or the public.
 
