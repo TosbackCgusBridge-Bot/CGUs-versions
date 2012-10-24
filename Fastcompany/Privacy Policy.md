@@ -73,7 +73,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 *   Printer-friendly version
 *   Send by email
 
-*   A Top Dell Exec On Why His Company Didn't Invent The iPad
+*   All About Apple's 7.9-inch iPad Mini
 
 ADVERTISEMENT
 
