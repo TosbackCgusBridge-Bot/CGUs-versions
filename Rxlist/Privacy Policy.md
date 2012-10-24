@@ -1,7 +1,7 @@
 *   Like Us
 *   Follow Us
 
-Pill Identifier Search October 23, 2012
+Pill Identifier Search October 24, 2012
 
 *   Home
 *   Drugs A-Z
@@ -296,11 +296,11 @@ Featured Topics
 
 New &. Updated
 
-*   Abraxane
+*   Bicillin L-A
+*   Caprelsa
 *   Combigan
-*   Cubicin
-*   Ilaris
-*   Oxytrol
+*   Gelnique
+*   Lunesta
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
