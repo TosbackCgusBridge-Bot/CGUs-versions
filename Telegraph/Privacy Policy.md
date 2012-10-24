@@ -1,5 +1,3 @@
-Unable to check access level
-
 Accessibility links
 
 *   Skip to article
@@ -7,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Tuesday 23 October 2012
+Wednesday 24 October 2012
 
 *   Home
 *   News
@@ -140,13 +138,13 @@ In About us
 
 Editor's Choice »
 
-Young girls face 'peer pressure' to drop out of sport  
+Dear Sir, we've all got a lot to be sorry about  
 
-Olympic gold medallist Helen Glover on why too many girls drop out of sport at school.
+Following Michael Gove’s apology to his former French teacher for 'clever dick’ remarks, five writers reveal what they would like to say to their old teachers.
 
 Comments
 
-The BBC must learn to take risks again Great British Bake Off: Fondant Fancies Seymour Hoffman on 'Scientology' movie Armstrong horrors must never be forgotten Advertisement
+Girls face 'peer pressure' to drop out of sport Seymour Hoffman on 'Scientology' movie Harry Wallop takes on the Onesie How crowdfunding is changing business Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
