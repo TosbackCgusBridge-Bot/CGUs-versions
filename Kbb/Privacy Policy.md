@@ -194,7 +194,7 @@ Search:
 
 *   Popular Topics
 *   Best Cars
-*   Best Car Deals
+*   Car Classifieds
 *   Best Resale Value Awards
 *   5-Year Cost-to-Own Center
 *   New Cars for 2013
