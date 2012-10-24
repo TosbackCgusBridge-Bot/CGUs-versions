@@ -73,11 +73,11 @@ What's Hot
 
 Fall TV Popularity Contest
 
-_Dancing_ Recap
+Who Quit _General Hospital_?
 
-World Series Schedule
+Photos: _Glee_ Does _Grease_
 
-_Blue Bloods_ Benches Esposito
+_Good Wife_ Recruits _Grey's_ Alum
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -139,8 +139,8 @@ more popular movies Top Videos
 
 1.  The Vampire Diaries
 2.  The Vampire Diaries
-3.  Arrow
-4.  Dexter
+3.  Dexter
+4.  Arrow
 5.  Supernatural
 
 more top videos
