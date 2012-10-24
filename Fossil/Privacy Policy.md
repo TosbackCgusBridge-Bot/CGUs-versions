@@ -54,10 +54,10 @@ Shop^
         *   Accessories
         
         *   View All  New Arrivals
-    *   Fall Must-Haves
     *   Roman Watches
     *   A Touch Of Rose
     *   Denim
+    *   Limited Edition
     *   Lookbook
     *   Watch Bar
     *   Categories
@@ -171,6 +171,7 @@ Shop^
         *   Roman Watches
         *   Shades of Steel
         *   Denim
+        *   Limited Edition
         *   Lookbook
         *   Watch Bar
         *   Categories
