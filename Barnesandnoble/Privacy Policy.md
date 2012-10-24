@@ -54,7 +54,7 @@ _BORDERS Customer_ Continue your shopping at BN.com. Learn More Screen Reader Li
     *   Home &. Gifts
         *   Popular Categories ElectronicsJournals &. PlannersBags &. TotesDecorative AccentsReading AidsStationery &. WritingDesk &. Office AccessoriesFood &. Gourmet GiftsEntertaining &. PartywareSee More
         *   Gift Giving BestsellersWhat's NewFor HerFor Him Favorite Brands Jonathan AdlerVera BradleyMoleskinePratt
-        *   Favorite Shops Eco-Friendly GiftsExperiential GiftsMini-Gifts &. Just for Fun Price On Sale$25 and Under$25 - $50$50 - $100$100 and UpHalloween TotesTrick or Treat! Just $6.95 Each with Purchase of Two ItemsSee Details
+        *   Favorite Shops Eco-Friendly GiftsExperiential GiftsMini-Gifts &. Just for Fun Price On Sale$25 and Under$25 - $50$50 - $100$100 and UpHalloween TotesTrick or Treat! 50% Off Exclusive Treat BagsSee Details
     *   DVDs
         
         *   Customer Favorites BestsellersNew ReleasesComing SoonBlu-rayBox Sets Deals Girls' Night InDVDs Under $10Blu-ray Under $15See All Deals
