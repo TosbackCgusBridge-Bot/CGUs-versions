@@ -20,7 +20,7 @@
 *   Running
 *   Water Polo
 *   Wrestling
-*   View All 316 Blogs
+*   View All 317 Blogs
 
   Privacy Policy Vox Media Privacy Policy Effective, November 2011
 
