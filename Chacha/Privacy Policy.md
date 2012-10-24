@@ -67,6 +67,8 @@ When you use the Site, a cookie may be sent to your browser. A cookie is a small
 
 ChaCha uses third party advertisers who serve ads and collect information on the Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on the Site, other websites and other forms of media about goods and services of interest to you. These third party advertisers may also use cookies on this Site. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/managing/opt\_out.asp. Further information regarding third party data collection and opt-out may be found at http://www.youronlinechoices.eu
 
+Notwithstanding anything else in this Privacy Policy, ChaCha or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, (e.g., your email address), that ChaCha may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to http://www.aboutads.info/choices.
+
 The Site and the Services may contain windows or hyperlinks which provide access to other websites not affiliated with ChaCha. Your use of an external website or any informational content found on an external website is subject to and governed by the terms and guidelines of said external website. ChaCha does not make any representations or warranties concerning, and will not in any way liable for, any informational content, products, services, software, or other materials available on an external website, even if one or more pages of the external website are framed within a page of the Site. ChaCha is not responsible for the privacy practices of any external website. For your protection, please refer to the privacy policies of the respective external websites.
 
 **Access from Outside the United States**
@@ -102,7 +104,7 @@ If you ever wish to access your Personal Information, or to have your Personal I
 > **Fax: (317) 660-6687**  
 > **E-mail: customer.relations@chacha.com**
 
-Effective Date: July 23, 2012
+Effective Date: October 23, 2012
 
 *   Home
 *   Galleries
