@@ -115,24 +115,24 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Big Bird, Binders and Bayonets
 *   Now Up on the PJ Media Homepage
-*   New York Times Fact Checkers Mauling Obama (Update: Augh!)
+*   White House Was Told Benghazi was a Terrorist Attack Two Hours Into the Battle
+*   Indiana Senate Race Controversy: Rape, Pregnancy, and God
 
 More  
 
+*   Horses and Bayonets: Another Meme That Does Not Mean What They Think it Means
+*   5 Reasons This Election Is Ward Cleaver Vs Eddie Haskell
 *   TUESDAY NEW RELEASES: Seeing _Red_, Taylor Swift Plots Chart Domination
-*   How Long Does It Take to Shift All the Way From Left to Right?
-*   Gravity Doesn’t ‘Card’: Cyber Bullys and the Laws of the Universe
 
 More
 
-*   Do We Believe Anymore?
-*   Who Won the Third Presidential Debate? It Depends on How You Score It.
-*   This Is What a Blue State Looks Like: Rally for Nudity in SF
+*   'ObamaCore': Radical Education Bill Set to Take Effect After Election
+*   White House Was Told Benghazi was a Terrorist Attack Two Hours Into the Battle
+*   Direct Action
 
-More   HOW WORRIED IS OBAMA ABOUT THE JEWISH VOTE? Very Worried. ... OUTSOURCING SELF-DISCIPLINE: Facebooker hires woman to slap him. “A US computer programmer is paying a woman £5 an hour to slap him if he uses Facebook at work. Maneesh Sethi reckons employing Kara has helped quadruple his daily output.” A PERFECTLY PLAUSIBLE PRESIDENT:  Bret Stephens concludes, “Score-keepers will say the debate went for Mr. Obama. Maybe it did. But Mitt Romney emerges looking like a perfectly plausible president—which was no doubt all he wanted from tonight.” ... More Advertisement
+More   #CARING: Obama Campaign Refused To Hire Man Because He Had Lou Gehrig’s Disease. GET READY FOR THE MALI INVASION: “France is sending drones to Mali while hundreds of Islamist fighters are coming in from across the Middle East, preparing to defend their safe haven.” Well, at least it’ll be a target-rich environment. ... Over the past two years, the Obama administration has been secretly developing a new blueprint for pursuing terrorists, a next-generation targeting list called the “disposition matrix.” ... More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
-Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb1
+Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb2
