@@ -4,7 +4,7 @@ Newegg.com - A great place to buy computers, computer parts, electronics, softwa
 
 If you are reading this message, **Please click this link to reload this page.(Do not use your browser's "Refresh" button).** Please email us if you're running the latest version of your browser and you still see this message.
 
-Newegg.com - Computers, Computer Parts and Electronics
+Newegg.com - Computer Parts, Laptops, Electronics, HDTVs, Digital Cameras and More!
 
 If you see this message, your web browser doesn't support JavaScript or JavaScript is disabled. Please enable JavaScript in your browser settings so Newegg.com can function correctly. |Wish List Help Newegg.com Follow us:  Shop All Stores
 
