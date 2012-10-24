@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (8.8 MB) Top PC Downloads 1 Cooking Dash 2 Diner Dash 3 Diner Dash 2 Restaurant Rescue 4 Diner Dash: Hometown Hero 5 SpongeBob SquarePants Diner Dash 6 Hotel Dash: Suite Success 7 Farm Frenzy 2 8 Wedding Dash 9 Diner Dash 5: BOOM 10 Diner Dash Flo on the Go » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (57.2 MB) Top PC Downloads 1 Cooking Dash 2 Diner Dash 3 Diner Dash 2 Restaurant Rescue 4 Diner Dash: Hometown Hero 5 Farm Frenzy 2 6 SpongeBob SquarePants Diner Dash 7 Wedding Dash 8 Hotel Dash: Suite Success 9 Diner Dash 5: BOOM 10 Diner Dash Flo on the Go » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -261,23 +261,23 @@ Sling grits, earn tips - help Flosave her friends!
 
 Restore Flo's hometown!
 
-**Play Free!** (33.4 MB) Try It SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
-
-Soak up five-star feeding fun with everyone's favorite sponge!
-
-**Play Free!** (10.2 MB) Try It Hotel Dash: Suite Success DASH™ &. Time Mgmt Games
-
-Flo's going into the hotel business!
-
-**Play Free!** (33.7 MB) Try It Farm Frenzy 2 DASH™ &. Time Mgmt Games
+**Play Free!** (33.4 MB) Try It Farm Frenzy 2 DASH™ &. Time Mgmt Games
 
 Feed chickens, collect eggs, stock your warehouse and ship your goods off to market!
 
-**Play Free!** (36.2 MB) Try It Wedding Dash DASH™ &. Time Mgmt Games
+**Play Free!** (36.2 MB) Try It SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
+
+Soak up five-star feeding fun with everyone's favorite sponge!
+
+**Play Free!** (10.2 MB) Try It Wedding Dash DASH™ &. Time Mgmt Games
 
 Help Quinn make wedding bells ring!
 
-**Play Free!** (18.7 MB) Try It Diner Dash 5: BOOM DASH™ &. Time Mgmt Games
+**Play Free!** (18.7 MB) Try It Hotel Dash: Suite Success DASH™ &. Time Mgmt Games
+
+Flo's going into the hotel business!
+
+**Play Free!** (33.7 MB) Try It Diner Dash 5: BOOM DASH™ &. Time Mgmt Games
 
 Rebuild Flo's Diner from scratch!
 
