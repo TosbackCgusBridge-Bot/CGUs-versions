@@ -192,10 +192,10 @@ Registrieren Login
 
 **Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Themen der Woche
 
-1.  fifa 13
-2.  Halloween
-3.  Kaninchen
-4.  Kunst
+1.  backen
+2.  fifa 13
+3.  Halloween
+4.  Kaninchen
 5.  Online-Shop
 6.  Periode
 7.  Pickel
@@ -203,70 +203,70 @@ Registrieren Login
 9.  Pokemon
 10.  Steam
 
-Top-50 Themen Thema Anzahl Apple 83419 Arbeit 64269 Ausbildung 49755 Auto 90436 Beauty 68691 Beruf 76983 Beziehung 71332 Computer 533882 Computerspiele 64115 deutsch 66575 Englisch 51788 ErnÃ¤hrung 50440 essen 70772 Facebook 76734 Fernsehen 59999 Film 99398 Finanzen 58757 Freizeit 261346 FuÃball 50886 Games 123568 Geld 92842 Gesundheit 204487 Haare 81996 Handy 203048 Hilfe 147354 Internet 320529 iPhone 74671 Kinder 50647 KÃ¶rper 49676 Laptop 72905 Liebe 163981 Lied 54065 MÃ¤dchen 55787 Medizin 62372 Minecraft 67252 Musik 278968 PC 280297 PC-Spiele 48263 Problem 54735 PS3 59662 Recht 94765 Schule 233625 Software 56766 Spiele 136216 Sport 110208 Technik 119766 Tiere 64513 TV 54057 Video 52342 Youtube 82551 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 83530 Arbeit 64353 Ausbildung 49827 Auto 90518 Beauty 68784 Beruf 77044 Beziehung 71424 Computer 534324 Computerspiele 64174 deutsch 66673 Englisch 51849 ErnÃ¤hrung 50484 essen 70830 Facebook 76838 Fernsehen 60042 Film 99476 Finanzen 58779 Freizeit 261712 FuÃball 50915 Games 123723 Geld 92921 Gesundheit 204672 Haare 82120 Handy 203323 Hilfe 147558 Internet 320816 iPhone 74757 Kinder 50678 KÃ¶rper 49766 Laptop 72989 Liebe 164212 Lied 54134 MÃ¤dchen 55868 Medizin 62416 Minecraft 67336 Musik 279235 PC 280591 PC-Spiele 48308 Problem 54806 PS3 59724 Recht 94842 Schule 233950 Software 56804 Spiele 136345 Sport 110295 Technik 119847 Tiere 64556 TV 54114 Video 52390 Youtube 82638 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  talladin
+1.  christhopher97
     
     Punkte:
     
-    923
+    635
     
     Level:
     
-    talladin
+    christhopher97
     
-2.  Harim
-    
-    Punkte:
-    
-    749
-    
-3.  paula2005
+2.  BlockParty
     
     Punkte:
     
-    530
+    607
+    
+3.  maxifipsi
+    
+    Punkte:
+    
+    532
     
     Level:
     
-    paula2005
+    maxifipsi
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.311.594 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.319.553 gute Fragen_
 
-*   82 Alkohol: Der grÃ¶Ãte Fehler meines Lebens...
-*   14 Wie kann ich ihn am besten kontaktieren?
-*   12 Baby und Abitur bzw. Studium - machbar?
+*   26 Wie werde ich am Morgen schneller fit?
+*   12 Angst vor Kindern
+*   10 Versehntlich Rinderfleisch zu mir genommen, Familie will mich abstoÃen
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Anime Zeichnung
 *   Lavalampe selber bauen.. \[Wasser+Ãl+Salz\]
 
-*   Basteln im Herbst: SchÃ¶ne Fenster-Deko selber machen
-*   Anime Zeichnung Nr.2
+*   Halloween-KÃ¼rbis haltbar machen
+*   Spinnenweben: tolle FingernÃ¤gel fÃ¼r Halloween
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.946.021
+1.947.556
 
 Anzahl der Fragen
 
-8.310.952
+8.318.098
 
 Anzahl der Antworten
 
-36.110.082
+36.133.836
 
 Anzahl der Tipps
 
-74.593
+74.655
 
 Anzahl der Videos
 
-4.715
+4.724
 
 Blog
 
