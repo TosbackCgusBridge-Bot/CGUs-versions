@@ -265,11 +265,11 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 Webmin 1.600 Englisch Freeware
-*   2 Dropbox 1.5.40 Experimental Deutsch Freeware
-*   3 Dropbox für Mac OS 1.4.20 Deutsch Freeware
-*   4 Dropbox für Linux 1.4.20 Deutsch Freeware
-*   5 Stealthy für Firefox 2.4.0 Englisch Freeware
+*   1 HTTPS Everywhere für Chrome 2012.10.18 Alpha Englisch Freeware
+*   2 HTTPS Everywhere für Firefox 3.0.2 Englisch Freeware
+*   3 MiniLyrics 7.4.18 Deutsch Shareware
+*   4 Glary Utilities 2.50 Deutsch Freeware
+*   5 Daphne 1.53 Deutsch Freeware
 
 ...mehr
 
@@ -277,13 +277,13 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 *   1 Apokalypse am 21.12.: Die beste Software für den Weltuntergang
 *   2 Spiele-Vollversionen: Kostenlos zum Download
-*   3 Die besten kostenlosen Horror-Games
-*   4 Kostenlose Spiele zum Download: Die besten Gratis-Games
+*   3 Kostenlose Spiele zum Download: Die besten Gratis-Games
+*   4 Bundesliga live sehen - im Internet deutsch und gratis
 *   5 Tools, die kaum einer kennt: 33 geniale Gratis-Downloads
 
 ...mehr
 
-CHIP Videos Hackademy #2 - Facebook-Hack Acer K750 Full-HD Hybrid-Projektor Apple iPod touch 5G  
+CHIP Videos Apple präsentiert: iPad mini Sony Xperia T - Praxis-Test Hackademy #2 - Facebook-Hack  
 
 Alle Videos bei CHIP Online
 
@@ -295,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Virenscanner im Speedtest: AV-Comparatives testet 20 Security-Tools
+*   Externe Festplatten 2,5 und 3,5 Zoll: Preistipps mit USB 3.0
+*   Gut und günstig: Die besten Blu-ray-Player im Test
+*   Vodafone Smart Tab II 7: 190-Euro-Tab im Check
 *   Test: Nikon D600 (DSLR über 1.000 Euro)
-*   Skype für Windows 8: Software-Debakel im Check
-*   Slender's Forest: Horror-Schocker für Minecraft
-*   Apple iPod nano 7G: Der Baby-Touch im Praxis-Test
-*   Alles für Windows 8: 50 neue Notebooks, Tablets, PCs &. Co.
 
 ...mehr
 
@@ -312,7 +312,7 @@ Sponsored Links
 **RSS-Feed** Die beliebtesten Produkte
 
 *   Samsung Galaxy S3 GT-I9300 16GB  
-    ab 458,88 €
+    ab 429,00 €
     
     *   Test
 *   Samsung Galaxy S2 i9100  
@@ -322,12 +322,12 @@ Sponsored Links
 *   Samsung Galaxy S Duos  
     ab 245,90 €
     
-*   Samsung Galaxy Note 2 N7100 16GB  
-    ab 553,35 €
-    
-    *   Test
 *   Samsung Galaxy Nexus I9250  
     ab 307,00 €
+    
+    *   Test
+*   Samsung Galaxy Note 2 N7100 16GB  
+    ab 548,96 €
     
     *   Test
 
@@ -342,10 +342,10 @@ Alle CHIP Online Feeds im Überblick
 Meistgelesene Themen
 
 *   \[GELÖST\] jucheck.exe
+*   CHIP sucht freiberufliche App-Tester für iPhone/iPod/iPad oder Android
+*   Tastatur umstellen Englisch/Deutsch
 *   Facebook knacken leicht gemacht...
 *   Galaxy S3 bekommt nun Endlich Jelly Bean!!
-*   Tastatur umstellen Englisch/Deutsch
-*   Samsung SSDs gewinnen und alten Rechner neu lieben lernen
 
 ...mehr
 
