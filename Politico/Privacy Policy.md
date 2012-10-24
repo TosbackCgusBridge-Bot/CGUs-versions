@@ -113,56 +113,56 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/23/2012 8:02 AM ET
+Updated: 10/24/2012 7:03 AM ET
+
+1.  1 Woodward: Obama 'mistaken'
+2.  2 Voter tells Biden he's a 'good guy' but bad VP
+3.  3 Trump's 'very big' news coming Wednesday
+4.  4 Betting line on Trump announcement
+5.  5 Obama's 11th-hour strategy shift
+6.  6 A narrow Obama win or a Romney landslide
+7.  7 New Obama book has 2nd-term plan
+8.  8 Trump claims Obama bombshell
+9.  9 2012: The battle for 7 states
+10.  10 Richard Mourdock under fire for rape remarks
+
+Updated: 10/24/2012 7:03 AM ET
+
+1.  1 Voter tells Biden he's a 'good guy' but bad VP
+2.  2 Trump claims Obama bombshell
+3.  3 Woodward: Obama 'mistaken'
+4.  4 New Obama book has 2nd-term plan
+5.  5 2012: The battle for 7 states
+6.  6 7 takeaways from final debate
+7.  7 Betting line on Trump announcement
+8.  8 D.C. caught off guard by Obama sequester vow
+9.  9 Sharp reaction to Obama's 'bayonets'
+10.  10 Trump's 'very big' news coming Wednesday
+
+Updated: 10/24/2012 7:03 AM ET
 
 1.  1 Trump claims Obama bombshell
-2.  2 Who won the debate?
-3.  3 7 takeaways from final debate
-4.  4 D.C. caught off guard by Obama sequester vow
-5.  5 Obama takes Romney to school
-6.  6 Sharp reaction to Obama's 'horses and bayonets'
-7.  7 Transcript: Third presidential debate
-8.  8 Celebs react to the final presidential debate
-9.  9 Obama tears into Mitt at last debate
-10.  10 No debate: Schieffer got it just right
+2.  2 Voter tells Biden he's a 'good guy' but bad VP
+3.  3 Woodward: Obama 'mistaken'
+4.  4 Reporter 'not allowed' to talk to voters at Biden event
+5.  5 New Obama book has 2nd-term plan
+6.  6 Battleground Tracking Poll: Mitt leads
+7.  7 2012: The battle for 7 states
+8.  8 Issa subpoenas Medicare documents
+9.  9 7 takeaways from final debate
+10.  10 Betting line on Trump announcement
 
-Updated: 10/23/2012 8:02 AM ET
-
-1.  1 Trump claims Obama bombshell
-2.  2 Reporter 'not allowed' to talk to voters at Biden event
-3.  3 Battleground Tracking Poll: Mitt leads
-4.  4 Issa subpoenas Medicare documents
-5.  5 O'Brien to Giuliani: 'Let me finish'
-6.  6 6 questions that will settle election
-7.  7 The truth about the tea party
-8.  8 5 things to watch in Monday's debate
-9.  9 Romney's toughest debate
-10.  10 Who won the debate?
-
-Updated: 10/23/2012 8:02 AM ET
-
-1.  1 Trump claims Obama bombshell
-2.  2 Reporter 'not allowed' to talk to voters at Biden event
-3.  3 Battleground Tracking Poll: Mitt leads
-4.  4 Issa subpoenas Medicare documents
-5.  5 Romney's toughest debate
-6.  6 The truth about the tea party
-7.  7 O'Brien to Giuliani: 'Let me finish'
-8.  8 6 questions that will settle election
-9.  9 5 things to watch in Monday's debate
-10.  10 Adelson-Berkley feud comes to head
-
-Updated: 10/23/2012 8:02 AM ET
+Updated: 10/24/2012 7:03 AM ET
 
 1.  1 Trump claims Obama bombshell
 2.  2 Clinton trashes whiners
-3.  3 Obama gets more time
-4.  4 Reporter 'not allowed' to talk to voters at Biden event
-5.  5 Candy Crowley to defy debate contract
-6.  6 6 takeaways from the debate
+3.  3 Voter tells Biden he's a 'good guy' but bad VP
+4.  4 Woodward: Obama 'mistaken'
+5.  5 Reporter 'not allowed' to talk to voters at Biden event
+6.  6 New Obama book has 2nd-term plan
 7.  7 Soledad O'Brien: Obama 'up 15' in Virginia
-8.  8 GOP seizes Obama 'optimal' moment
-9.  9 Battleground Tracking Poll: Mitt leads
+8.  8 Battleground Tracking Poll: Mitt leads
+9.  9 GOP seizes Obama 'optimal' moment
 10.  10 GOP's problems exposed in Senate
 
 *   Last 12 Hours
@@ -170,72 +170,72 @@ Updated: 10/23/2012 8:02 AM ET
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/23/2012 8:02 AM ET
+Updated: 10/24/2012 7:03 AM ET
 
-1.  1 Ryan jabs Obama on 'bayonets'
-2.  2 Romney wins debate season
-3.  3 2012: The battle for 7 states
-4.  4 No debate: Schieffer got it just right
-5.  5 D.C. caught off guard by Obama sequester vow
-6.  6 7 takeaways from final debate
-7.  7 Obama takes Romney to school
-8.  8 Media: Obama in fighting mood
-9.  9 Sharp reaction to Obama's 'horses and bayonets'
-10.  10 Fact-checking the final debate
+1.  1 Poll: Warren opens up 6-point lead
+2.  2 Mitt experts: Something's got to give
+3.  3 Debate highlights Medicaid plans
+4.  4 Obama's 11th-hour strategy shift
+5.  5 Can Thompson recapture the magic?
+6.  6 Is Florida's delegation the wackiest?
+7.  7 Fiscal cliff casts shadow over 2014
+8.  8 Santa Fe Cafe says 'adios'
+9.  9 A glossy pamphlet isn't a plan
+10.  10 Americans don't want 'grand bargain'
 
-Updated: 10/23/2012 8:02 AM ET
+Updated: 10/24/2012 7:03 AM ET
 
-1.  1 Ryan jabs Obama on 'bayonets'
-2.  2 Romney wins debate season
-3.  3 2012: The battle for 7 states
-4.  4 No debate: Schieffer got it just right
-5.  5 D.C. caught off guard by Obama sequester vow
-6.  6 7 takeaways from final debate
-7.  7 Obama takes Romney to school
-8.  8 Media: Obama in fighting mood
-9.  9 Sharp reaction to Obama's 'horses and bayonets'
-10.  10 Fact-checking the final debate
+1.  1 Poll: Warren opens up 6-point lead
+2.  2 Mitt experts: Something's got to give
+3.  3 Debate highlights Medicaid plans
+4.  4 Obama's 11th-hour strategy shift
+5.  5 Can Thompson recapture the magic?
+6.  6 Is Florida's delegation the wackiest?
+7.  7 Fiscal cliff casts shadow over 2014
+8.  8 Santa Fe Cafe says 'adios'
+9.  9 A glossy pamphlet isn't a plan
+10.  10 Americans don't want 'grand bargain'
 
-Updated: 10/23/2012 8:02 AM ET
+Updated: 10/24/2012 7:03 AM ET
 
-1.  1 Ryan jabs Obama on 'bayonets'
-2.  2 Romney wins debate season
-3.  3 2012: The battle for 7 states
-4.  4 No debate: Schieffer got it just right
-5.  5 D.C. caught off guard by Obama sequester vow
-6.  6 7 takeaways from final debate
-7.  7 Obama takes Romney to school
-8.  8 Media: Obama in fighting mood
-9.  9 Sharp reaction to Obama's 'horses and bayonets'
-10.  10 Fact-checking the final debate
+1.  1 Poll: Warren opens up 6-point lead
+2.  2 Mitt experts: Something's got to give
+3.  3 Debate highlights Medicaid plans
+4.  4 Obama's 11th-hour strategy shift
+5.  5 Can Thompson recapture the magic?
+6.  6 Is Florida's delegation the wackiest?
+7.  7 Fiscal cliff casts shadow over 2014
+8.  8 Santa Fe Cafe says 'adios'
+9.  9 A glossy pamphlet isn't a plan
+10.  10 Americans don't want 'grand bargain'
 
-Updated: 10/23/2012 8:02 AM ET
+Updated: 10/24/2012 7:03 AM ET
 
-1.  1 Ryan jabs Obama on 'bayonets'
-2.  2 Romney wins debate season
-3.  3 2012: The battle for 7 states
-4.  4 No debate: Schieffer got it just right
-5.  5 D.C. caught off guard by Obama sequester vow
-6.  6 7 takeaways from final debate
-7.  7 Obama takes Romney to school
-8.  8 Media: Obama in fighting mood
-9.  9 Sharp reaction to Obama's 'horses and bayonets'
-10.  10 Fact-checking the final debate
+1.  1 Poll: Warren opens up 6-point lead
+2.  2 Mitt experts: Something's got to give
+3.  3 Debate highlights Medicaid plans
+4.  4 Obama's 11th-hour strategy shift
+5.  5 Can Thompson recapture the magic?
+6.  6 Is Florida's delegation the wackiest?
+7.  7 Fiscal cliff casts shadow over 2014
+8.  8 Santa Fe Cafe says 'adios'
+9.  9 A glossy pamphlet isn't a plan
+10.  10 Americans don't want 'grand bargain'
 
 Showing Last 7 Days
 
-Updated: 10/23/2012 8:02 AM ET
+Updated: 10/24/2012 7:03 AM ET
 
-1.  1 Obama tears into Mitt at last debate
-2.  2 Trump claims Obama bombshell
-3.  3 Romney's toughest debate
-4.  4 Obama's 'Romnesia' remedy
-5.  5 Obama: Mitt has 'Romnesia'
-6.  6 O'Donnell taunts Tagg Romney
-7.  7 GOP groups spill secrets
-8.  8 GOP's problems exposed in Senate
-9.  9 6 takeaways from the debate
-10.  10 Fight night on Long Island
+1.  1 Campaigns launch fierce endgame
+2.  2 Obama tears into Mitt at last debate
+3.  3 Trump claims Obama bombshell
+4.  4 Romney's toughest debate
+5.  5 Obama's 'Romnesia' remedy
+6.  6 Obama: Mitt has 'Romnesia'
+7.  7 O'Donnell taunts Tagg Romney
+8.  8 GOP groups spill secrets
+9.  9 GOP's problems exposed in Senate
+10.  10 6 takeaways from the debate
 
 News
 
