@@ -174,7 +174,7 @@ coupon code: SHIP100
     *   Z
     *   ALL
 
-my fly Today only - site Sale! Extra 10 - 40% off\*
+my fly Today only - site Sale! Now up to 80% off\*
 
 *   Shop Now
 
