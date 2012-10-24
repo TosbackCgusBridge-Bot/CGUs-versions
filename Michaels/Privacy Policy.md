@@ -1,424 +1,90 @@
-*   Michaels
-*   MiDesign
-*   The Knack
+*   Wishlist (0)
+*   Store Locator
+*   Weekly Ad
+*   Bookstore
 
-Create Your Account Sign In Find Your Store Buy Gift Cards Our Weekly Ad Bookstore
-
-*   Departments
-    *   Art Supplies Art Supplies
-        
-        Products*   BRANDS
-        *   Airbrushing
-        *   Art of Doodle
-        *   Brushes
-        *   Canvas
-        *   View All Products
-        
-        Projects*   View All Projects
-        
-        Tips*   Choosing an Airbrush
-        *   Introducing Invis-A-Link™ Art Connectors
-        *   Personalized Style . Bring Your Vision To Life
-        *   View All Tips
-        
-        Videos
-        
-        *   How To Choose Your Color
-        *   Sketching Pencils
-        *   Screen printing on paper
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   Bakeware Bakeware
-        
-        Products*   Wilton
-        *   Celebrate It
-        *   Duff Goldman
-        *   Cake Decorating
-        *   Pans
-        *   Cupcakes
-        *   Candy Making
-        *   Cookies
-        *   Treat Pops
-        *   Packaging
-        *   View All Products
-        
-        Projects*   Duff Goldman
-        *   Wilton
-        *   Cupcakes
-        *   View All Projects
-        
-        Tips*   Candy Making Techniques
-        *   Cupcake Design Tips
-        *   50 Great Ways To Use Wilton Cookie Cutters!
-        *   View All Tips
-        
-        Videos
-        
-        *   Candy Melts
-        *   Candy Cane Table Setting
-        *   Wilton Candy
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   Beads Beads
-        
-        Products*   Beads
-        *   Charms
-        *   Collections
-        *   Findings
-        *   Pendants
-        *   Storage and Displays
-        *   Stringing
-        *   Tools
-        *   View All Products
-        
-        Projects*   Collections
-        *   Necklaces
-        *   Bracelets
-        *   View All Projects
-        
-        Tips*   Tips for Designing Your Own Bangles
-        *   Foolproof Knotting Technique
-        *   View All Tips
-        
-        Videos
-        
-        *   Refreshing Jewelry Tips
-        *   Jewelry Closures Tips
-        *   Dazzling Jewelry Tips
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   Craft Painting Craft Painting
-        
-        Products*   Etching
-        *   Finishes
-        *   Mediums
-        *   Leafing
-        *   Paint
-        *   Stencils &. Accessories
-        *   View All Products
-        
-        Projects*   Brands
-        *   Surfaces
-        *   Project Type
-        *   View All Projects
-        
-        Tips*   Host a Winter Party
-        *   Top Ten Tips for Crafting with Styrofoam™ Brand Foam
-        *   Stenciling with FolkArt Outdoor Paint
-        *   View All Tips
-        
-        Videos
-        
-        *   Learn To Paint At Home
-        *   DecoArt Magikote
-        *   Martha Stewart Crafts™ Faux Finishing Effects Overview
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   Custom Products Custom Products
-        
-        Products*   Custom Invitations
-        *   Digital Scrapbooking
-        *   Photo Calendars
-        *   Photo Books
-        *   Personalized Waterbottles
-        *   Personalized Balloons
-        *   Personalized Party Favors
-        *   Wedding Invitations
-        *   Wedding Accessories
-        *   View All Products
-        
-        Tips*   Verse Ideas
-        *   Step-by-Step: Creating Cards
-        *   Wrap It Up With Ribbons
-        *   Create Your Look With Jean M®
-        *   Jean M® Color Recipes
-        *   All About Memberships - Sign Up for Free!
-        *   View All Tips
-        
-        Videos
-        
-        *   MiDesign@Michaels Customize It
-        *   MiDesign Jean M Custom Invitations
-        *   MiDesign Introduction to Jean M
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   Floral Floral
-        
-        Products*   Accessories
-        *   Classic Traditions
-        *   Containers
-        *   Floral Stems &. Bushes
-        *   Garden Fresh™ Fruit
-        *   Greenery Bushes
-        *   View All Products
-        
-        Projects*   Ashland™ Greenery Collections
-        *   Craft Pumpkins
-        *   View All Projects
-        
-        Tips*   Floral How-To
-        *   Craft Pumpkins: Ready To Harvest At Your Local Michaels Store
-        *   Top Ten Tips for Crafting with Styrofoam™ Brand Foam
-        *   View All Tips
-        
-        Videos
-        
-        *   Seasonal Arrangements
-        *   How To Cut Flowers Apart
-        *   Hurricane Centerpiece
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   Framing Framing
-        
-        Products*   Collage
-        *   Display Cases
-        *   Document
-        *   Matting
-        *   Open Back
-        *   Prints &. Posters
-        *   Shadow Boxes
-        *   Studio Decor
-        *   Tabletop
-        *   View All Products
-        
-        Projects*   View All Projects
-        
-        Tips*   Creating Modern Style
-        *   Creating Traditional Style
-        *   Creating a Kids Style with Frames
-        *   View All Tips
-        
-        Videos
-        
-        *   Hang Your Own Gallery
-        *   Custom Framing ~ Process
-        *   Wood Sectional Frames
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   General Crafts General Crafts
-        
-        Products*   Apparel Crafting
-        *   Buttons
-        *   Candle &. Soap
-        *   Clay &. Tools
-        *   Crafting Surfaces
-        *   Face Paint
-        *   Glue &. Adhesives
-        *   Leather Crafting
-        *   View All Products
-        
-        Projects*   Buttons
-        *   View All Projects
-        
-        Tips*   The Magic of Sculpey®
-        *   Which Glue Do I Use?
-        *   Celluclay Basics Techniques
-        *   View All Tips
-        
-        Videos
-        
-        *   Duck Tape Bag
-        *   How to Make Glue Paint
-        *   How to Fix a Jammed Pencil Sharpener
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   Home Décor Home Décor
-        
-        Products*   Accessories
-        *   Baskets
-        *   Candles
-        *   Containers
-        *   Frames
-        *   Storage
-        *   View All Products
-        
-        Projects*   Candles
-        *   Containers &. Vases
-        *   View All Projects
-        
-        Tips*   Home: Where Style Lives
-        *   Candlescaping
-        *   The Art Of Hanging Art
-        *   View All Tips
-        
-        Videos
-        
-        *   Candles
-        *   Extreme Ribbon
-        *   Hanukkah Menorahs
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   Kids / Teachers Kids / Teachers
-        
-        Products*   BRANDS
-        *   Art Materials
-        *   Craft Kits
-        *   Foam &. Felt Crafting
-        *   Models
-        *   View All Products
-        
-        Projects*   Passport to Fun
-        *   Birthdays/Parties
-        *   View All Projects
-        
-        Tips*   Where Do Ideas Come From?
-        *   The Magic of Sculpey®
-        *   Celluclay Basics Techniques
-        *   View All Tips
-        
-        Videos
-        
-        *   Mess Free Crafting Clothespin Trick
-        *   Teachers' Learning Tree
-        *   Sand Playground
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   Scrapbooking Scrapbooking
-        
-        Products*   Embellishments
-        *   Kits
-        *   Paper
-        *   Stamping
-        *   Stickers
-        *   Tools
-        *   View All Products
-        
-        Projects*   Cards
-        *   Page Layouts
-        *   Off the Page
-        *   View All Projects
-        
-        Tips*   Learning About Aleene's® Original Tacky Glue®
-        *   Which Glue Do I Use?
-        *   Create The Craft Room Of Your Dreams
-        *   View All Tips
-        
-        Videos
-        
-        *   Tim Holtz Memory Box
-        *   The Triple Function Dies of Spellbinders (Cut, Emboss &. Stencil)
-        *   Scoring Board Demo
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   Seasons &. Celebrations Seasons &. Celebrations
-        
-        Products*   Baby
-        *   Fun Finds
-        *   Gift Wrap &. Accessories
-        *   Party Supplies
-        *   View All Products
-        
-        Projects*   View All Projects
-        
-        Tips*   Hearts &. Butterflies Costume and Body Art
-        *   Walk Like an Egyptian Costume and Body Art
-        *   Fall Buffet Table Décor
-        *   View All Tips
-        
-        Videos
-        
-        *   Waterless Snow Globes
-        *   Button Tree
-        *   Candy Cane Table Setting
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   Wedding Wedding
-        
-        Products*   Bridal Accessories
-        *   Decorations
-        *   Favors
-        *   Invitations
-        *   View All Products
-        
-        Projects*   Accessories
-        *   Bouquets
-        *   Bridal Showers
-        *   View All Projects
-        
-        Tips*   Types Of Wedding Bouquets
-        *   Guide To The Perfect Wedding
-        *   Wedding Invitations 101
-        *   View All Tips
-        
-        Videos
-        
-        *   Black &. White Origami Flower Ball
-        *   Wedding Veil
-        *   Demo: Glass Etching Technique by Martha Stewart Crafts™
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   Yarn &. Needle Crafts Yarn &. Needle Crafts
-        
-        Products*   Yarn
-        *   Loops &. Threads™
-        *   Ott-Lite
-        *   View All Products
-        
-        Projects*   All Crochet
-        *   All Knit
-        *   View All Projects
-        
-        Tips*   Yarn FAQs
-        *   Caring for Yarn Wearables
-        *   Yarn Blending
-        *   View All Tips
-        
-        Videos
-        
-        *   How to Crochet with Loops &. Threads™ Pom Pom Yarn
-        *   Martha Stewart Crafts Yarn &. Yarn Loom
-        *   Dimensions Stitchery
-        *   View All Videos
-        
-        Books*   Shop All Books
-    *   Christmas &. Gifting Christmas &. Gifting
-        
-        Products*   Gift Wrap &. Accessories
-        *   Cards
-        *   View All Products
-        
-        Projects*   Aprons
-        *   Bags and Wraps
-        *   Cakes and Candies
-        *   View All Projects
-        
-        Tips*   Holiday Cookie Exchanges
-        *   DIY Holiday Wreaths
-        *   Deck the Halls
-        *   View All Tips
-        
-        Videos
-        
-        *   Candle Jars
-        *   Candy Cane Table Setting
-        *   Snow Globes
-        *   View All Videos
-        
-        Books*   Shop All Books
+*   Lookbook
+*   Categories  
+    
+    *   Art Supplies
+        *   Projects
+        *   Products
+        *   Books
+    *   Bakeware
+        *   Projects
+        *   Products
+        *   Books
+    *   Beads
+        *   Projects
+        *   Products
+        *   Books
+    *   Craft Painting
+        *   Projects
+        *   Products
+        *   Books
+    *   Custom Products
+        *   MiDesign
+        *   Custom Invites
+        *   Photo Creations
+        *   Jean M ®
+    *   Floral
+        *   Projects
+        *   Products
+        *   Books
+    *   Framing
+        *   Projects
+        *   Products
+        *   Books
+    *   General Crafts
+        *   Projects
+        *   Products
+        *   Books
+    *   Home Décor
+        *   Projects
+        *   Products
+        *   Books
+    *   Kids / Teachers
+        *   Projects
+        *   Products
+        *   Books
+    *   Scrapbooking
+        *   Projects
+        *   Products
+        *   Books
+    *   Seasons &. Celebrations
+        *   Projects
+        *   Products
+        *   Books
+    *   Wedding
+        *   Projects
+        *   Products
+        *   Books
+    *   Yarn &. Needle Crafts
+        *   Projects
+        *   Products
+        *   Books
+    *   Christmas &. Gifting
+        *   Projects
+        *   Products
+        *   Books
 *   Projects
 *   Videos
 *   Classes
 *   Events
 *   Community
 
+*   0 Gift Cards  
+    
+*   Sign In  
+    
+    *   Sign In
+    *   Create Account
+
 Welcome to Michaels.com! Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.
 
 Welcome to Michaels.com! Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.
 
-Home »Privacy Policy Printable List (0) Privacy Policy Contact Contact Us by Mail:
+Home »Privacy Policy Privacy Policy Contact Contact Us by Mail:
 
 Michaels Stores, Inc.  
 Attn: Customer Service  
@@ -441,7 +107,7 @@ Contact Us by Email: Send Us a Message Shopping
 *   Safe Shopping &. Security
 *   Store Hours
 
-  Table of Contents
+Table of Contents
 
 *   Information Covered in This Statement
 *   Information We Collect
@@ -741,194 +407,47 @@ This site is owned and operated by Michaels Stores, Inc. located at 8000 Bent Br
 
 Last Updated: March 2012
 
-Privacy and Security Your information is safe &. secure. For more information on gift cards. Click Here »   close/open Contact Contact Us by Mail:
+Privacy and Security Your information is safe &. secure. For more information on gift cards. Click Here » Sign up and receive special offers, coupons and inspiration.
 
-Michaels Stores, Inc.  
-Attn: Customer Service  
-8000 Bent Branch Dr.  
-Irving, TX 75063
+gift cards
 
-Contact Us by Phone:
+mobile app
 
-1-800-MICHAELS  
-(1-800-642-4235)  
-Monday – Friday  
-8 AM to 7 PM CST  
-Saturday  
-9 AM to 6 PM CST
+wallpapers
 
-Contact Us by Email:
+get to know us
 
-*   Send Us a Message
-
-close/open Customer Service Shopping
-
-*   This Week's Ad
-*   Gift Cards
-*   Safe Shopping &. Security
-*   Store Hours
-
-Our Stores &. Company
-
-*   Classes
-*   Events
+*   contact
+*   Contact Us
 *   Store Locator
 *   Store Directory
+*   1-800-MICHAELS
 
-Ordering &. Shipping
-
-*   Shipping Policy
-*   Tracking Orders
-*   Registration &. Passwords
-
-close/open Careers Where do you want to work?
-
-*   Stores
-*   Distribution Center
-*   Artistree
-*   Corporate
-
-Current Michaels  
-Associates
-
-*   View Internal Jobs
-
-close/open Corporate Information Investor Relations
-
-*   Corporate Governance
-*   Corporate Calendar
-*   SEC Filings
-*   Annual Reports
-*   News Releases
-*   Presentations
-*   Calls &. Webcasts
-
-Media Relations
-
-*   Press Kit
-*   Press Releases
-
-Consumer
-
+*   customer service
 *   Notices
+*   Shipping Policy
 *   Return Policy
 *   Return Policy (Canada)
 *   Terms of Sale
 *   Terms of Use
 *   Your Privacy Rights
+
+*   corporate
+*   Corporate Governance
+*   Corporate Calendar
+*   Careers - Work at Michaels
+*   Careers - Current Associates
+
+*   Investors Relations
+*   SEC Filings
+*   Annual Reports
+*   Presentations
+*   Calls &. Webcasts
+*   Media Relations
+*   Press Kit
+*   Press Releases
+
+*   Quick Links
+*   Michaels Charities
+*   Teachers' Discount
 *   Site Map
-
-close/open Social Links
-
-*   Facebook
-*   Pinterest
-*   Twitter
-*   YouTube
-
-*   Mobile
-
-Michaels Charities
-
-*   Creating a better community!  
-    Learn More
-
-International
-
-*   Canada
-
-    close/open Departments
-
-*   Art Supplies
-*   Bakeware
-*   Beads
-*   Craft Painting
-*   Custom Products
-*   Floral
-*   Framing
-*   General Crafts
-*   Home Décor
-*   Kids / Teachers
-
-*   Scrapbooking
-*   Seasons &. Celebrations
-*   Wedding
-*   Yarn &. Needle Crafts
-*   Christmas &. Gifting
-
-close/open Projects
-
-*   Bakeware
-*   Beads
-*   Craft Painting
-
-*   Floral
-*   Framing
-*   General Crafts
-*   Home Décor
-*   Kids / Teachers
-*   Mixed Media
-*   Scrapbooking
-*   Seasons &. Celebrations
-*   Webisodes
-*   Wedding
-*   Yarn &. Needle Crafts
-
-close/open Tips &. Techniques
-
-*   Art Supplies
-*   Bakeware
-*   Beads
-*   Christmas
-*   Craft Painting
-*   Custom Products
-*   Framing
-*   Floral
-*   General Crafts
-*   Home Decor
-*   Kids &. Teachers
-*   Paper Crafts
-*   Scrapbooking
-*   Seasons &. Celebrations
-*   Wedding
-*   Yarn &. Needlework
-
-close/open Products
-
-*   Art Supplies
-*   Bakeware
-*   Beads
-*   Christmas
-*   Craft Painting
-*   Custom Products
-*   Floral
-*   Framing
-*   General Crafts
-*   Home Décor
-*   Kids/Teachers
-*   Scrapbooking
-*   Seasons &. Celebrations
-*   Wedding
-*   Yarn &. Needle Crafts
-
-close/open Videos
-
-*   Art Supplies
-*   Bakeware
-*   Beads
-*   Craft Painting
-*   Christmas
-*   Floral
-*   Framing
-*   General Craft
-*   Home Décor
-*   Kids / Teachers
-*   Scrapbooking
-*   Seasons &. Celebrations
-*   Wedding
-*   Yarn &. Needle Crafts
-
- 
-
-© 2012 Michaels Stores.
-
-Michaels and the Michaels logo and other trademarks and logos used on this site are owned or licensed by Michaels Stores, Inc. All rights reserved.
