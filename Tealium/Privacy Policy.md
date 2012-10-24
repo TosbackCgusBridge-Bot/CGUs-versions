@@ -3,6 +3,7 @@ Tealium
 *   Products
     *   *   Tealium iQ
         *   Tag Management Console
+        *   Mobile Tagging
         *   Features &. Benefits
         *   Testimonials
         *   FAQs
@@ -105,6 +106,6 @@ This policy was last updated on November 22, 2011.
 *   Company
 *   Contact
   
-*   © 2008-2012 Tealium, Inc.
+*   © 2008–2012 Tealium, Inc.
 *   Privacy Policy
 *   Site Map
