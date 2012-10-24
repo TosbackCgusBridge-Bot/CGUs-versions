@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Who won presidential debate? Both Obama and Romney, maybe.
-2.  Earthquake predictions and a triumph of scientific illiteracy in an Italian court
-3.  Wisconsin spa killings: Shooting followed tragic script of domestic violence (+video)
-4.  Chevy Chase rant: 'Community' star uses racial epithet on set
-5.  Pussy Riot to prison colony: Two women transferred from Moscow jail
+1.  Mourdock did not voice Romney's views, says spokeswoman
+2.  Tropical Storm Sandy threatens Jamaica (+video)
+3.  Rejected fruit flies use alcohol to cope
+4.  Donald Trump teases 'big' announcement: Is he trying to get in Obama's head?
+5.  On the sun: Massive solar flare unleashed (+video)
 
 About these ads
 
@@ -111,15 +111,15 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Cover Story  
-    Reverse brain drain: Economic shifts lure migrants home
+*   Focus  
+    Obama or Romney: Whose debt reduction plan does history favor?
     
-    The tide of brain drain – from developing countries to industrialized nations – has turned. Human capital is returning home to Asia, Latin America, Eastern Europe, and Africa, while some European professionals squeezed by the recession, turn toward developing countries for advancement.
+    The two presidential candidates would pursue different paths to lead the US out of debt. Here's how debt-saddled countries of yore have dealt – successfully and unsuccessfully – with the problem, and how those lessons might apply today.
     
-*   Decoder Wire: Bob Schieffer and presidential debate: Will this moderator enforce the rules?
-*   How Catholics could decide the presidential election
-*   Archaic defamation laws threaten Caribbean media
-*   Latin America Monitor: Rio's slums attract young, hip European immigrants looking for cheap housing
+*   Decoder Wire: Presidential debate 101: Does US military still use horses and bayonets?
+*   Why Miami-Dade schools won prestigious Broad Prize for urban districts
+*   More Americans tap retirement funds. Is that OK?
+*   Global News Blog: In debate, Romney reiterates Russia is 'geopolitical foe' of US
 
 _Photos of the day_ 10.22.12 » Photos of the Day 10/22
 
@@ -143,14 +143,16 @@ Steven Amstrup says it's not too late to save polar bears – and ourselves
 
 Become part of the Monitor community
 
-*   The Culture Lindsey Lohan intervention: Why did it fail? (+video)
+*   Business Walmart legal troubles mount as Black Friday walkout looms
+*   USA Aaron, Eli, and Andrew: quarterbacks on parade. A Week 7 NFL quiz
+*   The Culture Lindsay Lohan intervention: Why did it fail? (+video)
 *   USA Donald Trump teases 'big' announcement: Is he trying to get in Obama's head?
 *   Commentary The Monitor's View: With Lance Armstrong stripped of Tour de France titles, cycling can recover
 *   The Culture Chevy Chase rant: 'Community' star uses racial epithet on set
+*   Making a Difference Steven Amstrup says it's not too late to save polar bears – and ourselves
 *   Books Pippa Middleton: Why am I famous?
 *   The Culture Obama and Jay-Z swap parenting advice
 *   Science For Mars rover Curiosity, at last, it's dinnertime. On the menu: dirt.
-*   Making a Difference Steven Amstrup says it's not too late to save polar bears – and ourselves
 
 About these ads
 
