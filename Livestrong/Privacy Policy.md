@@ -242,14 +242,14 @@ Your email is safe with us. We hate spam too!
 
 Featured this week on livestrong.com
 
+*   Oct 22, 2012 The New Key  
+    To Fat Loss
 *   Oct 21, 2012 Beat High Heel Pain  
     
 *   Oct 20, 2012 Top Tips For Reading  
     Nutrition Labels
 *   Oct 19, 2012 The Do's and Don'ts  
     Of Perfect Eyebrows
-*   Oct 18, 2012 The 20 Best  
-    Body Weight Exercises
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
 
