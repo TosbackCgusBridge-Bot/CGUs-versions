@@ -53,7 +53,6 @@
     *   are we there yet?
     *   the big bang theory
     *   conan
-    *   family guy
     *   everybody loves raymond
     *   for better or worse
     *   fresh prince of bel-air
