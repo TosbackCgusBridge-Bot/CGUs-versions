@@ -124,11 +124,11 @@ Tell a friend:
 
 **Want Consumerist in your inbox?** Popular Posts
 
-*   Restaurant Owners Unite To Snare Free-Lunch Scam Artist
-*   Amazon Erases Customer's Kindle, Wishes Her Luck In Finding Somewhere Else To Shop
 *   Arby's Fires Worker After She Had To Flee The Restaurant During Armed Robbery
-*   4 Black Friday Myths Debunked
-*   Restaurant Says 'No Pets,' Tries To Make Iraq Vet And Her Service Dog Leave
+*   6 Everyday Food Items That Have Soared In Price
+*   Selling Me Hundreds Of Cans Of Soup For Food Bank Is Just More Work For Walmart Employees
+*   Man Pulled Down $70K A Week By Crawling On Movie Theater Floors To Steal Credit Cards
+*   The BK Bacon Burger Is A Disgrace To The Word 'Bacon'
 
 About Consumerist
 
