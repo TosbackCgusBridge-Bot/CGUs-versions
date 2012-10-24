@@ -618,10 +618,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos On Campus: Ventura - Buena Rivalry Cougars and Bulldogs clash
+Videos Organizer wants 12 million Latino voters Mobilizing voters
 
-*   On Campus: Ventura - Buena ... Ventura fourth-graders pumped up with ... Scores of dogs seized from ... On Campus: Bulldogs Bite Back
-*   Oxnard Police Chief addresses La ... Connecting pets and people
+*   Organizer wants 12 million Latino ... On Campus: Ventura - Buena ... Ventura fourth-graders pumped up with ... Scores of dogs seized from ...
+*   On Campus: Bulldogs Bite Back Oxnard Police Chief addresses La ...
 
   
 
@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Presidential debaters locked in dance of body language Published 10/21/2012 at 5:13 p.m. 147 comments
-*   Oxnard teacher, fired for her past as a porn star, appeals school board's decision Published 10/22/2012 at 2:00 p.m.
-*   Woman suffers major injuries after DUI crash near Ojai Updated 10/22/2012 at 4:24 p.m.
-*   Paulson: 10 good reasons for Romney, Ryan Published 10/21/2012 at 3:00 p.m. 69 comments
-*   Ventura police search for unknown male in Starbucks robbery Updated 10/22/2012 at 4:28 p.m.
+*   Foreign policy fireworks: Face-off before election Published 10/22/2012 at 10:04 p.m. 115 comments
+*   Testimony describes how administrators discovered teacher's porn videos Updated 10/23/2012 at 8:08 p.m.
+*   Three injured in head-on Highway 118 crash near Moorpark Updated 10/23/2012 at 8:32 p.m.
+*   Oxnard crowd protests officer-involved shootings Published 10/22/2012 at 10:32 p.m.
+*   Oxnard collision kills motorcyclist, police say Published 10/22/2012 at 9:36 p.m.
 
-Photo Galleries Ventura County's Most Wanted October… Protesters condemn Oxnard shootings Ventura race participants try to…
+Photo Galleries Ventura County's Most Wanted October… Protesters condemn Oxnard shootings First leg of Ventura Botanical…
 
-*   Presidential debaters locked in dance of body language Published 10/21/2012 at 5:13 p.m. 147 comments
-*   Morning chat Published 10/22/2012 at 12:00 a.m. 127 comments
+*   Presidential debaters locked in dance of body language Published 10/21/2012 at 5:13 p.m. 113 comments
+*   Foreign policy fireworks: Face-off before election Published 10/22/2012 at 10:04 p.m. 115 comments
+*   Morning chat Published 10/22/2012 at 12:00 a.m. 130 comments
+*   Paulson: 10 good reasons for Romney, Ryan Published 10/21/2012 at 3:00 p.m. 68 comments
 *   Morning chat Published 10/19/2012 at 12:00 a.m. 193 comments
-*   Community divided over dueling education propositions Published 10/19/2012 at 5:53 p.m. 81 comments
-*   Paulson: 10 good reasons for Romney, Ryan Published 10/21/2012 at 3:00 p.m. 69 comments
 
 *   Norovirus outbreak hits Oak Park school Published 10/15/2012 at 5:56 p.m. 8 comments
 *   Oaks Christian might have broken football recruitment rules – Video Published 10/18/2012 at 2:53 p.m. 0 comments
 *   Scores of dogs seized from Simi Valley home now up for adoption Published 10/17/2012 at 5:35 p.m. 16 comments
+*   Chumash looking to acquire portion of Santa Susana Field Lab Published 10/15/2012 at 6:17 p.m. 21 comments
 *   2 dead after Oxnard police trade gunfire with men Published 10/14/2012 at 2:57 p.m. 0 comments
-*   Firefighters battle Lookout Fire near Santa Barbara that threatened about 100 homes Published 10/17/2012 at 10:01 a.m. 0 comments
 
 Weather
 
@@ -660,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 54° Fair Wind: Calm Today 65° 56° Tue 05:00 PM Mostly Sunny Temp: 62° Wed 05:00 AM Mostly Clear Temp: 56° Wed 05:00 PM Mostly Sunny Temp: 65°
+Currently 50° Fair Wind: Calm Today 72° 53° Wed 05:00 PM Partly Sunny Temp: 68° Thu 05:00 AM Mostly Clear Temp: 55° Thu 05:00 PM Mostly Sunny Temp: 71°
 
-Feels Like: 62°
+Feels Like: 68°
 
-Humidity: 69%
+Humidity: 59%
 
-Precip: 15%
+Precip: 0%
 
-Feels Like: 56°
+Feels Like: 55°
 
-Humidity: 75%
-
-Precip: 10%
-
-Feels Like: 65°
-
-Humidity: 65%
+Humidity: 46%
 
 Precip: 4%
+
+Feels Like: 71°
+
+Humidity: 71%
+
+Precip: 1%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -702,15 +702,15 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   'Real people' and a real mistake
 *   Capps-Maldonado race could be getting interesting
 *   Democratic group hits Strickland on stem-cell research
 *   Lots of evidence that crunch time is upon us
-*   Tension escalates in 27th Senate District
 
 Brian Dennert here
 
-*   What do you want from a Park Board candidate?
-*   Fact Checker Linda Parks
+*   Bill Clinton: "I want a president and a Congress that loves it when unemployment drops."
+*   What issues are not being discussed enough?
 
 Ingemusings
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Tuesday Oct 23
 *   Wednesday Oct 24
 *   Thursday Oct 25
+*   Friday Oct 26
 *   More BROWSE Icon
-
-*   You’re Not the Boss of Me! Effective Management of Employees Best Western Posada Royale 7:30 a.m.
-*   CAI Luncheon: "Fraud &. Embezzlement: The Art of Stealing Other People's Money!" Los Robles Golf Course Banquet Center 11:30 a.m.
-*   How to Coexist with Wildlife Westlake Village Civic Center 7 p.m.
-*   Cécile Hortensia live at Genghis Cohen Genghis Cohen 8 p.m.
-*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
-
-More Events »
 
 *   “The New Era of Healthcare in the United States” Los Robles Golf Course Banquet Center 7 a.m.
 *   Introduction to International Shipping and Logistics Economic Development Collaborative - Ventura County 3 p.m.
@@ -750,6 +742,14 @@ More Events »
 *   CAM Book Club: "Beautiful Ruins" by Jess Walter Carnegie Art Museum 6 p.m.
 *   Ocean View Toastmasters Club Bonaventure Retirement Living 7 p.m.
 *   "Collaboration and Planning a New Museum: The Ute Museum" by Lynn Brittner Presidio Research Center, 215 East Canon Perdido Street, Santa Barbara 7 p.m.
+
+More Events »
+
+*   RIDE 2 RECOVERY GOLDEN STATE CHALLENGE COMES TO VENTURA AS PART OF INJURED VETERANS’ 450-MILE RIDE F Marriott Hotel 2055 East Harbor Blvd., Ventura 9 a.m.
+*   RIDE 2 RECOVERY GOLDEN STATE CHALLENGE COMES TO VENTURA AS PART OF INJURED VETERANS’ 450-MILE RIDE F Marriott, 2055 East Harbor Blvd., Ventura 11:30 a.m.
+*   CI announces Fall Economic Forecasting Conference CSUCI California State University noon
+*   RIDE 2 RECOVERY GOLDEN STATE CHALLENGE COMES TO VENTURA AS PART OF INJURED VETERANS’ 450-MILE RIDE Marriott Ventura Beach 2:30 p.m.
+*   RIDE 2 RECOVERY GOLDEN STATE CHALLENGE COMES TO VENTURA AS PART OF INJURED VETERANS’ 450-MILE RIDE F Marriott Hotel 2055 East Harbor Blvd., Ventura 2:30 p.m.
 
 More Events »
 
