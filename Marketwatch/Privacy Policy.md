@@ -1,4 +1,4 @@
-Bulletin 3M earnings edge up in third quarter, but full-year outlook is cut Investor Alert
+Bulletin Investor Alert
 
 New York Markets Open in:
 
@@ -198,93 +198,93 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 23, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 24, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:05a
+/news/latest1.  8:01a
     
-    Illinois Tool Works Q3 cont ops $1.12
+    Are Facebook shares finally worth buying?
     
-2.  8:04a
-    
-    Illinois Tool Works Q3 net $1.12 vs. $1.04
-    
-3.  8:04a
-    
-    Illinois Tool Works revenue $4.5 bln vs $4.6 bln
-    
-4.  8:01a
+2.  8:01a
     
     Updates, advisories and surprises
     
-5.  8:01a
+3.  8:00a
     
-    UPS sees 'greater confidence' in Q4 execution
+    Delta's adjusted profit falls short
     
-6.  8:00a
+4.  7:58a
     
-    Big earnings watch Tuesday: DuPont, RadioShack
+    Hong Kong intervention prompts investor rethink
     
-7.  7:59a
+5.  7:58a
     
-    UPS adj. Q3 net $1.06
+    âFinancial WMDsâ debase dollar, risk inflation
     
-8.  7:59a
+6.  7:58a
     
-    UPS Q3 net 48c vs. $1.09
+    Kimberly-Clark Q3 sales dip 3% to $5.2 bln
     
-9.  7:59a
+7.  7:58a
     
-    UPS sees 2012 profit of $4.55-$4.65
+    Kimberly-Clark Q3 net $1.30 vs. $1.09
     
-10.  7:59a
+8.  7:55a
     
-    UPS Q3 revenue $13.07 bln vs $13.17 bln
+    Nike selling Umbro unit to Iconix for $225 mln
+    
+9.  7:54a
+    
+    Delta Air Q3 op revenue $9.9 bln vs $9.8 bln
+    
+10.  7:54a
+    
+    Delta Air Q3 net $1.23 vs 65c
     
 11.  7:54a
     
-    Facebook expected to show revenue gains
+    Delta Air adj Q3 net 90c
     
-12.  7:54a
+12.  7:53a
     
-    RadioShack slumps on bigger-than-expected loss
+    Bristol-Myers has quarterly loss, revises outlook
     
 13.  7:52a
     
-    Radio update: Wall Street set to plunge
+    Radio update: Offices braced for flu season
     
-14.  7:50a
+14.  7:51a
     
-    3M cuts 2012 profit view, Q3 earnings edge up
+    Boeing profit down. 2012 view beats estimate
     
-15.  7:46a
+15.  7:47a
     
-    Stock futures sink. DuPont, RadioShack lead falls
+    Jones Group's profit drops on charges
     
-16.  7:37a
+16.  7:45a
     
     BREAKING
     
-    3M cuts 2012 view to $6.27-$6.35
+    Bristol-Myers has quarterly loss, revises outlook
     
-17.  7:37a
+17.  7:38a
     
-    3M's earlier 2012 view was $6.35-$6.50
+    Motorola Solutions increases profit, sales rise 3%
     
 18.  7:37a
     
-    3M cites 'current economic realities'
+    AT&T Q3 revenue dips 0.1% to $31.46 bln
     
-19.  7:35a
+19.  7:36a
     
-    3M Q3 net $1.65 vs. $1.52
+    AT&T Q3 net 63c s 61c
     
 20.  7:35a
     
-    3M Q3 sales dip 0.4% to $7.5 bln
+    Boeing 2012 analyst estimate is $4.72
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,345.89 +2.38 +0.02% nasdaq /quotes/zigman/123127 3,016.96 +11.33 +0.38% s&p 500 /quotes/zigman/3870025 1,433.82 +0.63 +0.04% Kiosk
+dow /quotes/zigman/627449 13,102.53 -243.36 -1.82% nasdaq /quotes/zigman/123127 2,990.46 -26.49 -0.88% s&p 500 /quotes/zigman/3870025 1,413.11 -20.71 -1.44% Kiosk
 
 *   1341573300000 1341592200000
     
@@ -309,9 +309,9 @@ dow /quotes/zigman/627449 13,345.89 +2.38 +0.02% nasdaq /quotes/zigman/123127 3,
     
     Investing
     
-    Â  10 lessons from 1987  
+    10 lessons from 1987  
     Wisdom from investors who were in the market trenches 25 years ago on the day stocks plunged.  
-    â¢ Protect your money from next crash /conga/kiosk/investing.html 231824
+    â¢ Protect your money from next crash /conga/kiosk/investing.html 232062
 *   1347087600000 1347213600000
     
     Cars
