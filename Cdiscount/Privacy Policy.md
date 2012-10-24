@@ -1,6 +1,6 @@
 *   Cdiscount
 *   Cdiscount
-*   Abo Magazines
+*   Bons de réduction
 *   Service Photo
 *   Voyages
 *   Carte Cdiscount
@@ -32,7 +32,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         5.  Figurines - voitures - garages
         6.  Peluches
         7.  PoupÃ©es - Poupons
-        8.  Jeux d imitation - Dinette
+        8.  Jeux d'Imitation
         9.  Loisirs crÃ©atifs - Artistiques
         10.  DÃ©guisements - Maquillage - FÃªte
         11.  Gagnez une nintendo 3DS
@@ -94,6 +94,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         2.  Toutes Les Consoles
             *   PS3
             *   XBOX 360
+            *   Wii U
             *   Wii
             *   3DS - 3DS XL
             *   PSP
@@ -102,14 +103,14 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         4.  Gagnez un iphone 5
         
         1.  JEUX VIDÉO
-        2.  Jeux Wii
-        3.  Jeux PS3
-        4.  Jeux XBOX 360
-        5.  Jeux Nintendo DS
-        6.  Jeux Nintendo 3DS
-        7.  Jeux PSP
-        8.  Jeux PS Vita
-        9.  Jeux PS2
+        2.  Jeux Wii U
+        3.  Jeux Wii
+        4.  Jeux PS3
+        5.  Jeux XBOX 360
+        6.  Jeux Nintendo DS
+        7.  Jeux Nintendo 3DS
+        8.  Jeux PSP
+        9.  Jeux PS Vita
         10.  Jeux PC
         11.  EnchÃ¨re Sony PS3 Ultra Slim
         12.  Toute lâactu jeux vidÃ©o/info !
@@ -238,6 +239,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         3.  RÃ©cepteurs TNT - Satellite
         4.  Accessoires
         5.  Gagnez votre TV LED
+        6.  TV 3D Ã  partir de 150â¬
         
         1.  CINÉMA À LA MAISON
         2.  Home cinÃ©ma
@@ -362,8 +364,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         4.  Accessoires Reflex
         5.  Accessoires Camescopes
         6.  Jumelles
-        7.  Magazines Photo-video
-        8.  Gagnez un Iphone 5
+        7.  Gagnez un Iphone 5
     *   *   Offres de remboursement
         *   DÃ©veloppement photo
     *   Tout le magasin Photo CamÃ©scope
@@ -380,8 +381,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         5.  GPS par taille d'Ã©cran
         6.  Avertisseurs de radars
         7.  Accessoires GPS
-        8.  Mag Auto Ã  prix Cdiscount
-        9.  Paris: 150â¬ offerts sur PMU.fr
+        8.  Paris: 150â¬ offerts sur PMU.fr
         
         1.  CAR AUDIO &. ÉLECTRONIQUE
         2.  Car Audio
@@ -634,7 +634,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
             *   Fille
             *   Jeans enfant
         4.  1 ComprimÃ©, 1 kilo en moins !
-        5.  Gagnez une cure minceur
+        5.  Cure minceur gratuite
     *   *   NouveautÃ©s Mode Homme
         *   Baskets CONVERSE Ã  partir de 24â¬99
     *   Tout le magasin VÃªtements Chaussures
@@ -777,6 +777,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         8.  Natation
         9.  Golf
         10.  Lâactu sportive Ã  prix mini !
+        11.  Cure minceur gratuite
         
         1.  SPORTSWEAR
         2.  Sportswear
@@ -842,8 +843,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         3.  Lessive â Droguerie â Entretien
         4.  HygiÃ¨ne-Soin-BeautÃ©
         5.  Animalerie
-        6.  Abos Magazines Gastronomie
-        7.  Gagnez une cure minceur
+        6.  Cure minceur gratuite
     *   *   Foire aux Vins
     *   Tout le magasin Vin Alimentaire
     
