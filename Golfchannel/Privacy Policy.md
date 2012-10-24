@@ -280,14 +280,15 @@ Prev Next
 *   Grill Room
 
 *   Tommy Gainey
-*   The McGladrey Classic
-*   Jim Furyk
-*   Seaside Course at Sea Island
-*   Davis Love III
-*   Bubba Watson
-*   US Open Championship
+*   British Open Championship
+*   FedEx Cup
+*   Rory McIlroy
 *   Tiger Woods
-*   Champions Tour
+*   Ryder Cup
+*   Las Vegas
+*   PGA Championship
+*   Lee Westwood
+*   Masters Tournament
 
 **Privacy Policy**
 
@@ -528,7 +529,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,577 facebook.com/GolfChannel 120,361 twitter.com/GolfChannel Newsletter
+Social 233,639 facebook.com/GolfChannel 120,517 twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
