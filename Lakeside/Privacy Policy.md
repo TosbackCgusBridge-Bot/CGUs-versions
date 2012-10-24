@@ -723,7 +723,6 @@ Y*   Books + Media
             *   Household Organization
             *   Bowls
         *   open Baking + Cooking
-            *   Bakeware
             *   BBQ
             *   Cookware
     *   open Apparel + Beauty
