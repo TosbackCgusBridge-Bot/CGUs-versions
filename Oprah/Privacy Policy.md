@@ -96,7 +96,7 @@ The Sites are general audience web sites and we do not knowingly collect any Per
 We incorporate commercially reasonable safeguards to help protect and secure your Personal Information. However, no data transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use our Sites and provide us with your information at your own risk.14.  What About Changes To The Privacy Policy?
 OWN reserves the right to change this Privacy Policy at any time without notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. However, OWN will not use your Personal Information in a manner materially different than what was stated at the time it was collected without your consent.
 
-Advertisement Take Deepak Chopra's FREE 21-Day Meditation Challenge! Discover new ways to bring a sense of abundance to your life through the power of meditation! Starting November 5, take Deepak Chopra's FREE three-week meditation challenge and focus on creating abundance. Pre-register now! Buy Tickets to O You! 2012 On October 20, join all of your _O_ magazine favorites—including Gayle King, Martha Beck, Peter Walsh and more—for a truly memorable day of learning, inspiration and fun! Purchase tickets now Advertisement “Be the heroine of your life, not the victim.” — Nora Ephron from Quotes We Love View more quotes like this “When people show you who they are, believe them the first time.” — Maya Angelou from Quotes We Love View more quotes like this “A single day is enough to make us a little larger.” — Paul Klee from Quotes to Make the Most of... View more quotes like this “Life always bursts the boundaries of formulas.” — Antoine de Saint-Exupéry from Quotes We Love View more quotes like this “Our greatest weapon against stress is our ability to choose one thought over another.” — William James from Quotes to Help You Unwind View more quotes like this Explore quotes by:   Topic | People Share Your Story
+Advertisement Take Deepak Chopra's FREE 21-Day Meditation Challenge! Discover new ways to bring a sense of abundance to your life through the power of meditation! Starting November 5, take Deepak Chopra's FREE three-week meditation challenge and focus on creating abundance. Pre-register now! “Be the heroine of your life, not the victim.” — Nora Ephron from Quotes We Love View more quotes like this “When people show you who they are, believe them the first time.” — Maya Angelou from Quotes We Love View more quotes like this “A single day is enough to make us a little larger.” — Paul Klee from Quotes to Make the Most of... View more quotes like this “Life always bursts the boundaries of formulas.” — Antoine de Saint-Exupéry from Quotes We Love View more quotes like this “Our greatest weapon against stress is our ability to choose one thought over another.” — William James from Quotes to Help You Unwind View more quotes like this Explore quotes by:   Topic | People Advertisement Share Your Story
 
 *   ARE YOU AND YOUR FAMILY STRUGGLING AND NEED HELP?
 *   What's Your Biggest Makeup Problem?
@@ -107,9 +107,9 @@ Advertisement Take Deepak Chopra's FREE 21-Day Meditation Challenge! Discover ne
 *   Where do you find beauty in the world?
 *   HAVE A QUESTION FOR OPRAH?S LIFECLASS?
 
-See more » Advertisement Hot Topics
+See more » Hot Topics
 
-More Hot Topics »
+More Hot Topics » Advertisement
 
 Your browser does not support iframes.
 
