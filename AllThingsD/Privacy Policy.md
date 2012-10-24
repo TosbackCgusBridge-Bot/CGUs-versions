@@ -42,7 +42,7 @@ AllThingsD
 
 *   View by Writer
 
-**Trending –** Why NBC Can’t Make Money From Its Latest “Saturday Night Live” Viral Video  
+**Walt Mossberg –** Hardworking Tablet With PC Chops  
 
 **D: Dive Into Mobile** Live Stream Schedule »Follow on Twitter »**D: Dive Into Mobile** Live Interview Schedule »Subscribe on Facebook »Watch Live – Facebook, Google, Twitter, Xiaomi »Like on Facebook »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
 
