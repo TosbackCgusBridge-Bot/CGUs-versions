@@ -162,7 +162,7 @@ Skip to Navigation Skip to Main Content
     *   Christmas Shop
     *   Christmas Trees
     *   Ornaments &. Tree Trimming
-    *   Holiday Decor
+    *   Holiday Decorations
     *   Candles
     *   Holiday Food &. Candy
     *   Barclay Metal Figurines
@@ -237,7 +237,7 @@ Skip to Navigation Skip to Main Content
     *   Christmas Shop
     *   Christmas Trees
     *   Ornaments &. Tree Trimming
-    *   Holiday Decor
+    *   Holiday Decorations
     *   Candles
     *   Holiday Food &. Candy
     *   Barclay Metal Figurines
