@@ -1362,6 +1362,10 @@ MyFord Mobile subscription complimentary for five years from vehicle production 
 
 Total System Horsepower.
 
+159
+
+All prices are manufactures suggested retail prices and exclude destination/delivery charge, taxes, title and registration. Optional equipment not included. Prices may not reflect all equipment shown in images. Dealers are the best source for up-to-date pricing.
+
 Ford reserves the right to change product specifications at any time without incurring obligations
 
 *   © 2012 Ford Motor Company
