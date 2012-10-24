@@ -4,7 +4,7 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Two Days Only - All Jeans $29!
+\[hol-HomepageTopBannerEMS\] Last Day - All Jeans $29!
 
 *   Shop Dudes Jeans
 
