@@ -5,15 +5,15 @@ Register Sign in Welcome, Logout
 *   Hot Topics
     *   Hot Topics
         *   2012 Elections
-        *   Mitt Romney
         *   Barack Obama
+        *   Mitt Romney
         *   2012 Presidential Debates
-        *   Election 2012
-        *   George McGovern
-        *   From the Wires
         *   Foreign policy
-        *   Democratic Party
-        *   TV
+        *   Presidential Debates
+        *   Elections 2012
+        *   Twitter
+        *   Middle East
+        *   Israel
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -190,33 +190,33 @@ If you have any further questions or concerns about Salonâs privacy policie
 *   Corrections
 *   DMCA Policy
 
-About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service | TechTips 2012 Election
+About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service | TechTips iPhone app
 
-Final showdown: Watch the debate with Salon
+Take Salon on the go â download our free app now
 
-Current Stories A last-ditch pitch to women
+Current Stories GOP senate candidate: Pregnancy from rape "is something that God intended"
 
-News. Obama and Romney threw in as many references to women as possible, just in case
+News. Indiana treasurer Richard Mourdock explains why he opposes abortion, even in cases of rape or incest
 
-Mitt's disappearing act
+Richard Mourdock, misogynist
 
-Politics. The GOP nominee knew there was no way for him to win the foreign policy debate, and it really showed
+Politics. Pregnancy after rape is what "God intended," says the Indiana Republican, showing the real right-to-life movement
 
-"October surprise" site reveals debate night secret
+"The Revisionaries": Texas schoolbook battle â crazier than you thought!
 
-Entertainment. Mystery countdown site delivers surprising message from 1987 on debate night
+Entertainment. An alarming, hilarious documentary revisits the Tea Party-fueled fight over evolution and Obama in school textbooks
 
-We're finally getting honest
+My friend's child is a brat
 
-Life. Lies, infidelity, lack of love -- my marriage was no good until we told the truth
+Life. He yells, he grabs, he kicks: Should I say something?
 
 Most Read
 
-*   Why a Romney win would be bad for America Steve Kornacki
+*   The man without a soul Joan Walsh
+*   Romney-linked voting machine company to count votes in Ohio Craig Unger
 *   What is Donald Trump's "very big" announcement? Prachi Gupta
-*   Toxic atheism drives people apart Chris Stedman
-*   Debate fact check Alex Seitz-Wald
-*   GOP's new punching bag Alex Seitz-Wald
+*   Todd Akin's militia ties exposed Alex Seitz-Wald
+*   Mitt's disappearing act Steve Kornacki
 
 Voices
 
