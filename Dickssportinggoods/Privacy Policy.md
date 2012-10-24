@@ -82,7 +82,7 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Cheerleading
         *   Gymnastics
         *   Bowling
-        *   Combat Sports
+        *   Combat Sports Equipment
         *   Table Tennis
         *   Indoor Games
         *   View All »
