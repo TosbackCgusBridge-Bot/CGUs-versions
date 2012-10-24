@@ -24,8 +24,8 @@ Close
 
 Change Location
 
-Savings of over $266,941!   12,321 sales and 220 coupons right now.  
-ShopLocal.com Weekly Ads A 1440 Terms of Use and Privacy Policy Terms of Use
+Savings of over $266,941!   12,321 sales and 209 coupons right now.  
+ShopLocal.com Weekly Ads B 1440 Terms of Use and Privacy Policy Terms of Use
 
 Last Updated: January 26th, 2010
 
