@@ -10,32 +10,31 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
     *   Tools
     *   Media
     *   Enterprise
-    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning Meet Alto, The Gmail Replacement You Won't Believe Was Made By AOL The BBC's Own Reporters Are Tearing It Apart After Huge Sex Abuse Scandal Why Most Companies Won't Be Early Adopters Of Windows 8 The World's Biggest Sinkholes
+    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning Meet Alto, The Gmail Replacement You Won't Believe Was Made By AOL We're Giving Away A Ticket To IGNITION! Larry Page's College Friend Has Launched A Cool New Startup Italian Earthquake Researchers Sentenced To Six Years In Prison
 *   Finance
     *   Clusterstock
     *   Your Money
-    *   Broker CenterGoldman Sachs Destroys One Of The GOP's Biggest Talking Points On The Economy Goldman Sachs Destroys One Of The GOP's Biggest Talking Points On The Economy After I Dissed North Dakota, The State Flew Me To Fargo To Prove Me Wrong Goldman Sachs Destroys One Of The GOP's Biggest Talking Points On The Economy
-*   Markets Markets Are Getting CLUBBED
+    *   Broker CenterLIVE: Warren Buffett On CNBC LIVE: Warren Buffett On CNBC Eight Little Investments In Your Kid That Pay Big Dividends LIVE: Warren Buffett On CNBC
+*   Markets LIVE: Warren Buffett On CNBC
 *   Politics
     *   Politics
     *   Defense
-    *   Law &. OrderMitt Romney Thinks He's Won The Election, And Last Night He Just Played Not To Lose Mitt Romney Thinks He's Won The Election, And Last Night He Just Played Not To Lose Egyptian President Says 'Amen' To Prayer About Destroying The Jews The 'Magic Glove' And 8 Other Ridiculous Inventions Patented By Apple
+    *   Law &. OrderREUTERS POLL: Obama Is Going To Trounce Mitt Romney In A Landslide REUTERS POLL: Obama Is Going To Trounce Mitt Romney In A Landslide Here's The Reason Why The Military Still Has Horses And Bayonets Meet The Supreme Court Justices' Other Halves
 *   Strategy
     *   Strategy
-    *   CareersPROFESSOR: The Smartest Fast-Growth Companies Combine These 3 Strategies PROFESSOR: The Smartest Fast-Growth Companies Combine These 3 Strategies 3 Mindsets That Leave You Unprepared
-*   Entertainment Take A Tour Inside The Filming Locations Of The Latest Bond Film, 'Skyfall'
-*   Advertising Here's How Much Ad Agencies Hate Lance Armstrong Right Now
-*   Retail Tory Burch Totally Downplays Her Ex-Husband's Role In Her Success
-*   Sports Thomas Robinson Delivered This Ferocious Slam Dunk Over Dwight Howard Last Night
+    *   CareersWhy The US Scored So Low On A Global Business Environment Ranking Why The US Scored So Low On A Global Business Environment Ranking 3 Surefire Ways To Impress Your Boss
+*   Entertainment 11 Celebrities Who Served In The Military Before They Got Famous
+*   Advertising Facebook Is Now The 2nd Biggest Mobile Ad Business On The Planet
+*   Retail The 13 States Where People Spend The Most Money When Buying Things Online
+*   Sports A Sixth Player Illegally Ran Onto The Court During Overtime Of An NBA Playoff Game In 1993, And No One Noticed Until Now
 *   Life
     *   The Life
-    *   TransportationPeek Inside The Stunning Italian Resort Where Jessica Biel And Justin Timberlake Got Married Peek Inside The Stunning Italian Resort Where Jessica Biel And Justin Timberlake Got Married Here's The Spaceship That Will Let Rich People Fly From NYC To Tokyo In 90 Minutes
+    *   TransportationThe 25 Biggest Landowners In America The 25 Biggest Landowners In America How Aston Martin DB5 Became The Ultimate 007 Ride
 *   More
     *   Latest
     *   Video
     *   Lists
     *   The Hive
-    *   Data
     *   Your News
     *   BI Intelligence
     *   Events
@@ -54,7 +53,7 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
 
 *   Follow us on Facebook and get updates from Business Insider posted directly to your news feed  
 
-Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,549
+Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,564
 
 *   Email
 *   More Share on Tumblr
@@ -164,7 +163,7 @@ Recommended For You
 
 Please follow Business Insider on Twitter and Facebook.
 
-Advertisement: Short URL Share:
+Short URL Share:
 
 *   _Twitter_
 *   _Facebook_
@@ -223,37 +222,55 @@ More:*   SAI Select (sample)
 *   Breaking News Alerts (sample)
 *   Advertising: The Brief (sample)
 *   Law &. Order Select (sample)
+*   Financial Advisor Bulletin (sample)
 *   Careers Select (sample)
 *   Military Select (sample)
 
-Advertisement Your Money NASDAQ Composite 3,017 +11.34 (+0.377%) S&P 500 1,434 +0.63 (+0.044%) NYSE Composite 8,329 +0 (+0%) Sponsored By
+Advertisement LinkedIn Login See what's trending
+
+*   Hot:
+*   LinkedIn
+*   In your network
+
+*   Dow Chemical Earnings Leak, Management Announces 2,400 Layoffs, Blames Economy
+*   Another Obama InTrade Crash
+*   Dismal Flash PMI Report Explodes The Idea That Europe Is Making A Comeback
+
+Login with LinkedIn to see what your friends are reading on Business Insider  
+Login with LinkedIn
+
+No articles have recently been shared in your network.
+
+More »
+
+Your Money NASDAQ Composite 2,990 -26.5 (-0.878%) S&P 500 1,413 -20.71 (-1.444%) NYSE Composite 8,195 +0 (+0%) Sponsored By
 
 Ready To Invest? Find A Broker Here »
 
-The Future Of Mobile
+2012 Presidential Election: Vital Issues
 
-*   The State of Mobile Video
-*   HTML5 vs. Apps: Why The Debate Matters, And Who Will Win
-*   Here's What Smartphone Users Are Doing With Their Phones
+*   Forget About The Polls, These Are The Numbers That Really Matter In The Presidential Race
+*   Meet The Voter Who Will Decide The 2012 Election
+*   What Really Happens After You Cast Your Vote For President
 
 Most Read Read  Commented  Recommended 
 
-*   The 28 Fastest-Shrinking Cities In The World 240,991 Views
+*   The 28 Fastest-Shrinking Cities In The World 366,662 Views
     
-*   How To Watch Porn At Work (And Get Away With It) 171,114 Views
+*   The 25 Biggest Landowners In America 316,442 Views
     
-*   These Abandoned Soviet Radar Sites Show How Quickly The Cold War Ended 170,434 Views
+*   These Abandoned Soviet Radar Sites Show How Quickly The Cold War Ended 217,801 Views
     
-*   The 27 Best Cities For Doing Business \[RANKED\] 167,523 Views
+*   How To Watch Porn At Work (And Get Away With It) 198,569 Views
     
 
-*   If These 5 People Who Tried Windows 8 Are Normal, Microsoft Has A Big Problem On Its Hands 126 Comments
+*   REUTERS POLL: Obama Is Going To Trounce Mitt Romney In A Landslide 192 Comments
     
-*   People Are Talking About A National Debt Solution That Might Actually Make Your Brain Hurt 106 Comments
+*   INSTANT POLL: Obama Destroyed Mitt Romney In Third Debate 144 Comments
     
-*   This New Poll Is A Pretty Big Disaster For Obama 105 Comments
+*   If These 5 People Who Tried Windows 8 Are Normal, Microsoft Has A Big Problem On Its Hands 135 Comments
     
-*   INSTANT POLL: Obama Destroyed Mitt Romney In Tonight's Debate 103 Comments
+*   12 Hours Later, It's Clear That Romney Won The Debate 132 Comments
     
 
 Loading, please wait...
@@ -270,36 +287,36 @@ See more » Find A Job _In partnership with_
 
 See All Jobs Startup Document Center Templates To Jump Start Your Business Business Plan Exec Summary Sample  
 By-Laws Financial  
-Model See All » Read Me Henry Blodget
+Model See All » Read Me Joe Weisenthal
 
-| For Whom The Bell Tolls? It Tolls For TV... 32
+| In Last Night's Presidential Debate, One Thing Obama Said Had The Potential To Move Stocks 3
 
-Go ahead and keep your head stuffed in the sand if you like, but viewing habits have started to change.
+Watch the defense companies.
 
-Joe Weisenthal
+Helene Imperiale
 
-| Suddenly, Everyone On Wall Street Is Taking The 'Red Pill' Of Economics 65
+| I'm Voting For Mitt Romney, Even Though I Don't Agree With Him 57
 
-Patrick Chovanec
+Robert Reich, Contributor
 
-| How China's Renminbi Can Become A True International Currency 5
+| Romney Seemed Clueless About How The World Really Works 22
 
-The Economist
+James Kunstler
 
-| SPAIN: The Bad Economic News Continues To Pile Up 1
+| Both Candidates Just Want To Sustain The Unsustainable 6
 
-Bruce Krasting
+Wolf Richter
 
-| How I Caused The 1987 Crash 17
+| Something's Got To Give In The US Natural Gas Market 3
 
 The Hive About The Hive » What Smart People Are Reading Right Now
 
-*   Presidential Debate Fact-Checks and Updates - Election 2012 4
-*   Clark Kent quits the Daily Planet 4
-*   The Presidential Debate Drinking Game, Foreign Policy Edition 3
+*   Register editor: Obama off-the-record comments deserve to be shared with voters 5
+*   2012's worst candidate? With Mark Clayton, Tennessee Democrats hit bottom. 3
+*   This iPad 3 Owner Is Incensed 2
 
-*   Obama-Romney horserace - The Washington Post Poll 3
-*   Popular Kids in High School Earn More Later in Life Time Economics 3
+*   White House told of militant claim two hours after Libya attack: emails 2
+*   This Robot Can Walk on a Tightrope \[VIDEO\] 2
 
 More Less See All » Advertisement Thanks to our partners
 
@@ -372,7 +389,6 @@ More Less See All » Advertisement Thanks to our partners
     *   Law &. Order
     *   Advertising
     *   Getting There
-    *   Data Center
     *   Misc.
     *   Your Money
     *   Video
