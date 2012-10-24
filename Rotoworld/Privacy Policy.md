@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Madison Bumgarner named Game 2 starter
+*   Jansen undergoes ablation for heart problems
+*   Zito to start Game 1 of World Series vs. DET
+*   Wolf to have Tommy John surgery next Tues.
+*   Red Sox and David Ortiz not yet close to deal
+*   Marlins fire Ozzie Guillen after one season
+*   C.J. Wilson undergoes minor elbow surgery
+*   Beachy (elbow) begins throwing program
 *   Giants blow out Cardinals en route to pennant
-*   Jansen (irregular heartbeat) to have surgery
 *   Rangers could have interest in J.P. Arencibia
 *   Holliday (back) in Cards lineup for NLCS Gm 7
 *   Pineda will not be healed by spring training
-*   Giants force Game 7 behind Vogelsong's gem
-*   Heyman: Jays looking to trade Yunel Escobar
-*   Report: Giants to put Lincecum on trade block
-*   Mike Aviles heading to Jays for John Farrell
-*   Beltran's knee should be fine for NLCS Game 6
-*   Sabathia to see Dr. Andrews about left elbow
-*   Marlins trade RHP Heath Bell to Diamondbacks
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Week 8 Target Watch: AFC Oct 24
+*   Stewart's Salvation? Oct 24
+*   Matchup: Bucs @ Vikings Oct 23
+*   Week 8 Top Pickups Oct 23
+*   Revving up Rashad Oct 23
+*   Silva: Season Pass Chat Oct 23
 *   What Gives, Matt? Oct 23
-*   Matchup: Lions @ Bears Oct 22
-*   Chris Commemorates CJ2K Oct 22
-*   MJD Goes MIA Oct 22
-*   Week 7 Live Blog Oct 21
-*   Best Available NFL Free Agents Oct 21
-*   Matchups: Run, DMC Oct 20
-*   Week 7 Injury Questions Oct 20
+*   Best Available NFL Free Agents Oct 23
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Nate Burleson done for season with broken leg
-*   Stafford struggles again as Lions drop to 2-4
-*   Forte totals 100 yards as Bears move to 5-1
-*   Shurmur: T-Rich to be evaluated week to week
-*   Titans to stay with Matt Hasselbeck in Week 8
-*   Donald Brown (knee) to miss one more game?
-*   Panthers send top CB Chris Gamble to I.R.
-*   Charles Woodson breaks collarbone, out 6 wks
-*   Redskins place Fred Davis on injured reserve
-*   Bengals HC Lewis: We won't bench Maualuga
-*   MJD to be sidelined for an 'extended period'
-*   Brady Quinn replacing Cassel in Kansas City
+*   Report: Sean Lee (toe) done for the season
+*   Report: Mario Williams mulling wrist surgery
+*   Cardinals had planned RB rotation in Week 7
+*   Dez Bryant on groin injury: 'Nothing major'
+*   Jimmy Graham could be 'full go' Wednesday
+*   Report: Gabbert to play unless docs block him
+*   MJD escapes Lisfranc, out 'multiple games'
+*   Burleson needs surgery, could miss 8 months
+*   Panthers planned Stewart as clear feature RB
+*   Browns' Holmgren: 'I did miss the coaching'
+*   Felix Jones expected to start versus Giants
+*   Browns discussing 3-week shutdown of T-Rich
 
 NBA PAGES
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Kirk Hinrich strains his groin on Tuesday
+*   Austin Rivers day-to-day w/ sprained ankle
+*   Kobe out Wednesday w/ bruised &. strained foot
+*   J.J. Hickson confirmed as Blazers' starting C
+*   Dirk Nowitzki (knee) can't offer timetable
+*   J.R. Smith (Achilles) practices on Tuesday
+*   A.J. Price emerging as starting Wizards PG
 *   Ray Allen dealing with daily ankle soreness
 *   DeAndre Jordan goes for 18 &. 12 w/ 3 blocks
 *   Warriors still have no timetable for Bogut
 *   Dudley does right with 4 bombs and 25 points
 *   Lillard goes for 21 and eight against Utah
-*   Batum scores 27 points. hits five triples
-*   Gordon (knee) to return to minute restriction
-*   Report: Rivers leaves arena in walking boot
-*   Richardson posts 23-7-6 line. hits six 3PTs
-*   Thad Young hits 10-of-12 FGs to go for 22 &. 8
-*   Felton hits five 3-pointers against Sixers
-*   Austin Rivers (ankle) to have MRI on Tuesday
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
-*   Clarke MacArthur heads to German Elite League
-*   Eric Fehr signs with HPK in Finland
-*   Daly: 'Nothing going on' in CBA negotiations
-*   Garrison (groin) would be ready by Nov. 2
-*   Anton Volchenkov suffers a fractured ankle
-*   Schultz earns AHL player of the week honors
-*   S. Kostitsyn doesn't seem to mind the lockout
-*   Tobias Enstrom to play with Salzburg
-*   Colin Greening to play in Denmark
-*   Mikko Koivu to play in Finland during lockout
-*   Lehner's ejection kickstarts epic collapse
-*   Justin Schultz scores yet again for OKC
+*   John Davidson close to deal with Columbus
+*   David Clarkson signs with Austrian club team
+*   Alfredsson still contemplating his NHL future
+*   Luongo's agent denies Leafs trade rumor
+*   RNH nets a pair in win over Lake Erie
+*   Damien Brunner adds to Swiss scoring lead
+*   Tyler Seguin hat trick leads Biel over Ambri
+*   Report: Tuukka Rask (groin) hurt overseas
+*   Patrick Kane will join Biel in Swiss League A
+*   Kurtis Foster inks deal with Tappara
+*   Chris Stewart leaves Germany for Czech League
+*   KHL team hopes Voracek can practice soon
 
 NASCAR PAGES
 
@@ -229,6 +229,7 @@ NASCAR PAGES
 
 COLUMNS
 
+*   The Tums Fast Relief 500 Oct 23
 *   Wrap-up: Kansas Speedway Oct 21
 *   Mid-Pack: Hollywood Casino 400 Oct 18
 *   The Hollywood Casino 400 Oct 16
@@ -236,7 +237,6 @@ COLUMNS
 *   Mid-Pack: Bank of America 500 Oct 11
 *   The Bank of America 500 Oct 9
 *   Wrap-up: Talladega Oct 7
-*   Mid-Pack: Good Sam 500 Oct 4
 
 PARTNERS
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
-*   Matt Kenseth’s team wins Kansas race awards
-*   Tony Stewart’s team wins Kansas race awards
-*   Clint Bowyer’s crew chief won DIRECTV award
-*   Regan Smith won USG Improving Finish award
-*   Matt Kenseth wins Hollywood Casino 400
-*   Austin Dillon wins race awards at Kansas
-*   Logano’s NNS team wins Kansas race awards
-*   Justin Allgaier big Nationwide Series gainer
-*   Paul Menard lap leader in Kansas Lottery 300
-*   Ricky Stenhouse Jr. wins Kansas Lottery 300
-*   Martin has best 10-laps in Cup Happy Hour
-*   Matt Kenseth leads Kansas Happy Hour
+*   Riggs to pilot RBR's No. 92 at Martinsville
+*   Fast facts on Ron Hornaday at Martinsville
+*   Hornish has shown progress at Martinsville
+*   Ryan Truex debuts in Camping World Trucks
+*   Tim George Jr. in No. 93 at Martinsville
+*   Joey Coulter Martinsville stats
+*   Dillon heads to Martinsville as points leader
+*   Virginia is for Lovers and Jeff Burton
+*   Kevin Harvick doubles-up at Martinsville
+*   Paul Menard by the numbers at Martinsville
+*   Todd Peck brings 'new power' to Martinsville
+*   For Gordon, it's all rhythm at Martinsville
 
 GOLF PAGES
 
@@ -268,6 +268,7 @@ GOLF PAGES
 
 COLUMNS
 
+*   Go East, Young Men Oct 23
 *   Two Gloves, One Win Oct 21
 *   Saint of Circumstances Oct 16
 *   Jonas, Brother! Oct 14
@@ -275,7 +276,6 @@ COLUMNS
 *   Sinsational! Oct 7
 *   Legends of the Fall Oct 2
 *   Long-Term 101: Fall Series Sep 29
-*   Ryder Cup Preview Sep 25
 
 PARTNERS
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Prospect Snapshots: Weeks 7-8 Oct 23
 *   Senior Surprise: RB Gillislee Oct 22
 *   Senior Prospect Rankings Oct 21
 *   Week Eight Matchup Preview Oct 19
@@ -318,7 +319,6 @@ COLUMNS
 *   Kenny Vaccaro: Spread Stopper Oct 15
 *   Week Seven Matchup Preview Oct 12
 *   The Human Genome Oct 10
-*   Banks-y, Cover Artist Oct 9
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Werner talked with agents, focused on season
+*   Geno hasn't inspired the confidence to be 1st
+*   Pauline: Source says Bernard could be top RB
+*   Pauline: Sources say CB Rhodes will declare
+*   Huskers RB Burkhead out vs Michigan (knee)
+*   Dooley: Bray may be benched if not improved
+*   Da'Rick Rogers hauls in 3 TDs vs EKU
+*   Duke WR Vernon misses practice after hit
+*   Mannion healthy enough to start vs Huskies
 *   Terps starting QB Hills out for year (ACL)
 *   'Consensus' is QBs Bray, Thomas should return
 *   Meyer: Williams responsible for one TD pass
-*   Noles RB Chris Thompson out for year (ACL)
-*   Braxton Miller expected to practice Tuesday
-*   Will Sutton likely to be back quickly (knee)
-*   Seth Doege throws for 318 yds, 7 TDs vs TCU
-*   'Good chance' DE Abry Jones is out vs UF
-*   Bjoern Werner adds another 1.5 sacks vs Canes
-*   K-St. LB Arthur Brown first to intercept Geno
-*   Kelly: Golson should be '100 percent' vs OU
-*   Richt: Very good chance OLB Jones plays
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Nate Burleson done for season with broken leg
-*   MLB:Giants blow out Cardinals en route to pennant
-*   NFL:Forte totals 100 yards as Bears move to 5-1
-*   MLB:Jansen (irregular heartbeat) to have surgery
-*   NFL:Redskins place Fred Davis on injured reserve
-*   NFL:Shurmur: T-Rich to be evaluated week to week
-*   NFL:Titans to stay with Matt Hasselbeck in Week 8
-*   MLB:Holliday (back) in Cards lineup for NLCS Gm 7
-*   NFL:Charles Woodson breaks collarbone, out 6 wks
-*   CFB:'Consensus' is QBs Bray, Thomas should return
-*   NBA:Ray Allen dealing with daily ankle soreness
-*   NFL:MJD to be sidelined for an 'extended period'
+*   NFL:Report: Sean Lee (toe) done for the season
+*   MLB:Madison Bumgarner named Game 2 starter
+*   MLB:Zito to start Game 1 of World Series vs. DET
+*   NFL:Report: Mario Williams mulling wrist surgery
+*   MLB:Red Sox and David Ortiz not yet close to deal
+*   NFL:Dez Bryant on groin injury: 'Nothing major'
+*   NFL:MJD escapes Lisfranc, out 'multiple games'
+*   NFL:Jimmy Graham could be 'full go' Wednesday
+*   NFL:Report: Gabbert to play unless docs block him
+*   MLB:Marlins fire Ozzie Guillen after one season
+*   NFL:Burleson needs surgery, could miss 8 months
+*   NBA:Austin Rivers day-to-day w/ sprained ankle
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1A. BradshawNFL (8369)
-*   2T. RichardsonNFL (8325)
-*   3J. GrahamNFL (7230)
-*   4R. MendenhallNFL (6735)
-*   5A. BrownNFL (6334)
+*   1T. RichardsonNFL (7915)
+*   2A. BradshawNFL (7644)
+*   3J. DwyerNFL (7158)
+*   4R. MendenhallNFL (6756)
+*   5J. GrahamNFL (6719)
 
-*   6J. DwyerNFL (6321)
-*   7G. JenningsNFL (5888)
-*   8D. BrownNFL (5738)
-*   9J. GordonNFL (5730)
-*   10D. MurrayNFL (5433)
+*   6M. Jones-DrewNFL (6580)
+*   7A. BrownNFL (5632)
+*   8D. BrownNFL (5524)
+*   9D. MurrayNFL (5489)
+*   10D. BryantNFL (5486)
 
   
 Video Center
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines What Gives, Matt?  
-Oct 23 Patrick Daugherty breaks down Matthew Stafford's struggles while checking in on Maurice Jones-Drew in Tuesday's Dose.  
+  Headlines Week 8 Target Watch: AFC  
+Oct 24 Which players got all the targets in Week 7? Chet Gresham analyzes every AFC team.  
   
 More NFL Columns
 
+*   »Week 8 Target Watch: AFC Oct 24
+*   »Stewart's Salvation? Oct 24
+*   »Matchup: Bucs @ Vikings Oct 23
+*   »Week 8 Top Pickups Oct 23
+*   »Revving up Rashad Oct 23
+*   »Silva: Season Pass Chat Oct 23
 *   »What Gives, Matt? Oct 23
-*   »Matchup: Lions @ Bears Oct 22
-*   »Chris Commemorates CJ2K Oct 22
-*   »MJD Goes MIA Oct 22
-*   »Week 7 Live Blog Oct 21
-*   »Best Available NFL Free Agents Oct 21
-*   »Matchups: Run, DMC Oct 20
-*   »Week 7 Injury Questions Oct 20
+*   »Best Available NFL Free Agents Oct 23
 
 NFL Headlines
 
-*   »Nate Burleson done for season with broken leg
-*   »Stafford struggles again as Lions drop to 2-4
-*   »Forte totals 100 yards as Bears move to 5-1
-*   »Shurmur: T-Rich to be evaluated week to week
-*   »Titans to stay with Matt Hasselbeck in Week 8
-*   »Donald Brown (knee) to miss one more game?
-*   »Panthers send top CB Chris Gamble to I.R.
-*   »Charles Woodson breaks collarbone, out 6 wks
-*   »Redskins place Fred Davis on injured reserve
-*   »Bengals HC Lewis: We won't bench Maualuga
-*   »MJD to be sidelined for an 'extended period'
-*   »Brady Quinn replacing Cassel in Kansas City
+*   »Report: Sean Lee (toe) done for the season
+*   »Report: Mario Williams mulling wrist surgery
+*   »Cardinals had planned RB rotation in Week 7
+*   »Dez Bryant on groin injury: 'Nothing major'
+*   »Jimmy Graham could be 'full go' Wednesday
+*   »Report: Gabbert to play unless docs block him
+*   »MJD escapes Lisfranc, out 'multiple games'
+*   »Burleson needs surgery, could miss 8 months
+*   »Panthers planned Stewart as clear feature RB
+*   »Browns' Holmgren: 'I did miss the coaching'
+*   »Felix Jones expected to start versus Giants
+*   »Browns discussing 3-week shutdown of T-Rich
 
 NFL Links
 
