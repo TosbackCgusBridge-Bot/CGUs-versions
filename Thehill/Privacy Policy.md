@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-International monitors at US polling spots draw criticism from voter fraud groupsSen. Rubio: Obama has ‘given up’ on outlining second term agendaGallup poll: Romney holding 6-point leadTrump says he will release 'very big news' about Obama this weekChris Matthews: 'Racial hatred' drives support for Romney on right
+Gallup poll: Romney holding 5-point lead among likely votersChris Matthews: 'Racial hatred' drives support for Romney on rightMichelle Malkin criticizes Ann Coulter for calling Obama 'the retard'International monitors at US polling spots draw criticism from voter fraud groupsGOP: Obama's sequester remark during debate could reshape fiscal cliff talks
 
 Emailed
 
-International monitors at US polling spots draw criticism from voter fraud groupsTrump says he will release 'very big news' about Obama this weekOpinion: Debunking the GOP’s false narratives about the Benghazi attackGallup poll: Romney lead back up to 7 pointsGallup poll: Romney holding 6-point lead
+Morning in OhioInternational monitors at US polling spots draw criticism from voter fraud groupsChris Matthews: 'Racial hatred' drives support for Romney on rightMourdock: Pregnancy from rape can be 'something God intended to happen'Opinion: Debunking the GOP’s false narratives about the Benghazi attack
 
 Discussed
 
-International monitors at US polling spots draw criticism from voter fraud groupsObama under pressure to spell out his agenda for a second termMore bad news for Mitt Romney GOP sees food fight as kids trash USDA fruit, vegetable guidelines Sen. Rubio: Obama has ‘given up’ on outlining second term agenda
+International monitors at US polling spots draw criticism from voter fraud groupsMore bad news for Mitt Romney Chris Matthews: 'Racial hatred' drives support for Romney on rightObama hits Romney hard in final presidential debate showdownSen. Rubio: Obama has ‘given up’ on outlining second term agenda
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Sen. Kerry: Romney the 'campaigner-in-confusion'
+*   Rogers: E-mails make it 'difficult' to conclude Benghazi attack 'spontaneous'
+*   Report: White House told of militant claims hours after Libya attack
 *   MORNING READ
-*   Report: Jesse Jackson Jr. headed back to Mayo Clinic
 
   
 More Briefing Room » Congress Blog
 
-*   Congress stuck in neutral on LGBT equality
-*   Obama and Romney need to confront, solve Israeli-Palestinian divisions
-*   GOP war on women is real
+*   Obama's record of overreach
+*   Small modular reactors provide path forward for nuclear power
+*   Leveraging our American energy revolution
 
   
 More Congress Blog » Pundits Blog
 
-*   The 2012 conference on WMD-free zone in Middle East bites the dust
-*   Romney’s human side
-*   Obama’s crowd shrinkage
+*   Mitt Romney campaigns for the Nobel Peace Prize!
+*   Romney, the flip-flopper in chief
+*   Foreign territory
 
   
 More Pundits Blog » Twitter Room
 
-*   Sen. Kerry needs 'exorcism' after role-playing Romney
-*   Schieffer earns praise as moderator in final debate
-*   Obama's 'horses and bayonets' debate comment tops Twitter chatter
+*   Study: Campaign emails rarely read
+*   Michelle Malkin criticizes Ann Coulter for calling Obama 'the retard'
+*   Lady Gaga: Obama 'like Rocky' in debate
 
   
 More Twitter Room » Hillicon Valley
 
-*   Obama makes unexpected push for improved math and science education during final debate
-*   Google's 2012 PAC spending nears $1 million
-*   Immigration agency drops Blackberrys for iPhones
+*   ACLU requests documents on domestic drones
+*   Facebook continues record lobbying spending
+*   Cantor slams net neutrality as example of 'imperial presidency'
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   News bites: Report touts fracking boom as economic driver
-*   Climate change shut out of presidential debates
-*   Romney, Obama go one last round in debate on clean energy, Solyndra
+*   American Farm Bureau caught in crossfire over biofuels
+*   Report: US could surpass Saudi Arabia as oil producer by 2020
+*   Sen. Wyden: Energy Dept. must explain gas export review criteria
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   OVERNIGHT CAMPAIGN: Final debate
-*   Poll: Obama edging Romney nationally
-*   The Hill's House ratings: Republicans positioned to maintain control
+*   Democrats hit Berg on Goldmark connection in new ad
+*   Poll: Democrat Murphy expands lead over McMahon in Connecticut Senate race
+*   Candidates retain ties to companies
 
   
 More Ballot Box » On The Money
 
-*   Dodd-Frank ‘conflict minerals’ rule draws industry lawsuit
-*   Romney promises China crackdown on day one
-*   Frank: Don't punish JPMorgan for Bear Stearns's misdeeds
+*   Democrats say they are open to extension of payroll tax holiday
+*   Fiscal cliff approaches and concerns mount
+*   New Yorkers pay highest tax rate to state, local governments
 
   
 More On The Money » Healthwatch
 
-*   Romney: Pay for defense spending with 'ObamaCare' repeal
-*   Poll finds broad support for contraception access
-*   Pearl Jam guitarist urges voters to keep Obama health law
+*   Holtz-Eakin: IPAB will hurt innovation, ration care
+*   DeMint slams AARP for stance on payroll tax cut
+*   Issa threatens subpoenas over IRS rules regarding healthcare exchanges
 
   
 More Healthwatch » Floor Action
 
-*   Issa warns taxpayers' loss on Solyndra loan may near $850 million
-*   Risch bashes Obama administration for leaks on potential retaliation for Libya attack
-*   Cantor on short list to receive honorary degree from GW University
+*   Lawmakers call on DOD to comply with ‘Made in USA’ uniform rule
+*   McCaskill calls for Army investigation into contractor rules violations
+*   Rep. Cole: Despite rhetoric, Obama, Dems undermining US energy development
 
   
 More Floor Action » Transportation
 
-*   Obama, Romney trade blows on auto bailout in foreign policy debate
-*   Report: Amtrak might eliminate Kansas City-to-Albuquerque route
-*   Amtrak wins praise for 110 mph train test
+*   Poll: 42 percent support Obama auto approach over Romney's
+*   Obama: 'We might not have an auto industry’ if Romney had been president
+*   'Auto bailout' most popular Google search term for Romney during debate
 
   
 More Transportation » DEFCON Hill
 
-*   Rep. Smith sees Afghan progress
-*   Osprey operations in Japan at risk in wake of rape allegations
-*   New Syrian cease-fire proposal draws pessimism
+*   Defense group calls for immediate sequester negotiations
+*   White House: Obama’s position on sequester unchanged
+*   GOP: Obama's sequester remark during debate could reshape fiscal cliff talks
 
   
 More DEFCON Hill » Global Affairs
 
-*   Romney leaves Libya attack to Republican lawmakers in Congress
-*   Candidates joust on so-called 'apology tour'
-*   Romney: 'We can't kill our way out of this mess' in the Middle East
+*   Wednesday's global agenda: New questions on Libya
+*   BBC global poll has Obama beating Romney by a landslide
+*   White House open to one-on-one talks with Iranians over nuclear program
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Juan Williams Debunking GOP Libya story A.B. Stoddard Obama spins toward loss More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris Debates within debate Mark Mellman State of the race More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
