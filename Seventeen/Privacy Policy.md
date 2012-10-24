@@ -28,7 +28,7 @@ Who's Your Celeb Shopping Buddy?
 *   Fashion Videos
 *   Get Fashion Advice
 
-17 Ways to Wear Plaid
+Cute Winter Coats
 
 *   Virtual Makeover Tool
 *   Hair Ideas
@@ -39,7 +39,7 @@ Who's Your Celeb Shopping Buddy?
 *   Beauty Videos
 *   Get Beauty Advice
 
-Fall Beauty Must-Haves
+The Coolest Nail Looks!
 
 *   Celebrity News
 *   One Direction News
@@ -101,14 +101,14 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     Troian Reveals _PLL_ Halloween Episode Deets!
 *   fashion
     
-    Cute Winter Coats
+    Win $500 Worth of Hair Products!
 *   love
     
     Go From Friend to Girlfriend!
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**3 Winners!** Enter for a chance to win Amplifier Mousse from Dove. Type in the Freebie Phrase of the Day, found in the October Issue!
+**3 Winners!** Enter for a chance to win Cream-Serum from Dove. Type in the Freebie Phrase of the Day, found in the October Issue!
 
  enter now 
 
