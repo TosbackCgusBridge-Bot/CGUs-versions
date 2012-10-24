@@ -97,7 +97,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Dutch Ovens &. Braisers
     *   Fry &. Sauté Pans
     *   Grill Pans &. Griddles
-    *   Roasters
     *   Saucepans &. Sauciers
     *   Specialty Cookware
     *   Stock, Soup &. Multipots
@@ -135,15 +134,16 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     Sale &. Offers
     
     *   Sale
+    *   All-Clad Roasters Promotion
     *   Exceptional Values
     
-    NEW &. EXCLUSIVE
+    LIMITED TIME OFFER
     
-    This special-edition cookware set is comprised of pieces hand-selected by famed chefs Thomas Keller, Daniel Boulud and Jerome Bocuse.
+    Save on All-Clad roasters through 12/31/12.
     
-    Buy Now 
+    Shop Now 
     
-    Shop New Cookware 
+    Shop All-Clad 
     
 *   Cooks' Tools Shop by Category
     
