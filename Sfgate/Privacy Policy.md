@@ -1,6 +1,6 @@
 (skip this header)
 
-Tuesday Oct 23, 2012 5:05 AM PT
+Wednesday Oct 24, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,12 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   BAY AREA vanity plate
+*   Calif. tax burden rising
+*   Central Subway plows forward
+*   Obama vs. Romney, the peacenik
 *   Tweet to your next job
-*   Russell Means dies
-*   Chinatown ghost tour
-*   Top tastes
-*   Chronicle election endorsements
+*   Chronicle endorsements
 
 *   Bay Area &. State
 *   Nation
@@ -339,11 +338,24 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Amityville Horror home on the market
 *   Nation in Focus
 *   World in Focus
-*   Final 2012 presidential debate
-*   Final 2012 presidential debate
 *   Game 7: Giants vs. Cardinals
+*   'Skyfall' London Royal world premiere
+*   Angel Ball Gala 2012
+*   Celebrity wardrobe malfunctions
+*   16th Annual Hollywood Film Awards Gala
+*   Apple Event Oct 23
+*   Seals Stadium
+*   Trends Third debate
+*   Day in Pictures, Oct. 23, 2012
+*   Dwell Silicon Valley Tour
+*   Nation in Focus
+*   World in Focus
+*   Bad costumes
+*   Final 2012 presidential debate
+*   Final 2012 presidential debate
 *   2012 presidential town hall debate
 *   Final 2012 presidential debate
 *   Promoted twitter debate 3
@@ -365,19 +377,6 @@ Ads by Yahoo! Photo Galleries
 *   Shawn Clover on SF "Mash-ups"
 *   World in Focus
 *   Spooky spots in the Bay Area
-*   Nation in Focus
-*   World in Focus
-*   Tyra Banks' Flawsome Ball
-*   Justin Timberlake &. Jessica Biel
-*   Derek Jeter unloads NYC penthouse for $15.5 million
-*   10th annual Arthritis Auxiliary Benefit &. Fashion Show
-*   Day in Pictures, Oct. 19, 2012
-*   Starbucks in India
-*   Favorite stops in Los Angeles
-*   Greeks protest nationwide against cuts
-*   Week 7: 49ers vs. Seahawks
-*   Nation in Focus
-*   World in Focus
 
 *   Most Read
 *   |
@@ -385,55 +384,50 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Giants' Game 7 romp led by Cain, Scutaro
-2.  Analysis: Obama barely breaks a sweat in final debate
-3.  Fox announcer Buck says he isn't biased
-4.  Piedmont High School students involved in ‘Fantasy Slut League’
-5.  Obama Won Final Presidential Debate, 48 Percent Say in CNN Poll
-6.  At S.F. bars, Giants trump debate
-7.  Giant win - on to World Series
+1.  Bruce Bochy announces surprising SF Giants World Series rotation
+2.  Mourdock: God at work when rape leads to pregnancy
+3.  Obama-Romney Race Has Both Arguing Plausible Path to Victory
+4.  Cockroach hors d'oeuvres for World Series tickets?
+5.  Surfer killed by shark off central California
+6.  Alan Farley dies - popular KALW host
+7.  2 toddlers, mother found dead in Calif. home
 
-1.  Tips for Obama, Romney in final debate
-2.  Abercrombie jet rules covered underwear
-3.  All the way back: Giants in World Series
-4.  Youth sentenced for killing two in crash
-5.  Parents considering legal action over school yoga
-6.  Piedmont High School students involved in 'Fantasy Slut League'
-7.  Thai face slapping in S.F.
+1.  Obama feisty, Romney subdued in debate
+2.  All the way back: Giants in World Series
+3.  Prop. 32 not unions' only worry
+4.  John Avalos wipeout over Dew Tour remark
+5.  Piedmont High School students involved in 'Fantasy Slut League'
+6.  Mourdock: God at work when rape leads to pregnancy
+7.  Fox announcer Buck says he isn't biased
 
-1.  Thai face slapping in S.F.
-2.  Giants' Game 7 romp led by Cain, Scutaro
-3.  Innovators feed Valencia restaurant boom
-4.  FDA: 5 reported deaths with Monster drink link
-5.  Study: Male beluga whale mimics human speech
-6.  22-Year-Old Best Buy Employee Sunny Singhs Wins Massachusetts' $30.5 Mega Millions Jackpot
-7.  A cake? A cookie? No, it's a whoopie pie
+1.  Hewlett-Packard wins Idaho school laptop contract
+2.  The evolution of a baseball town
+3.  Iowa Farm-Land Boom Minting Millionaires Spurs Rich-Poor Gap
+4.  Brandon Crawford: living the dream
+5.  Square to move to S.F.'s Mid-Market
+6.  Thai face slapping in S.F.
+7.  Mourdock: God at work when rape leads to pregnancy
 
 loading... Latest News Videos From our homepage
 
-*     
-    Russell Yip, The Chronicle / SF
+*   Whoops! Terrible costumes
     
-    The face-slap way to beauty
+    Kids ditch witches and werewolves for pimp, maid and whoopie cushion get-ups. Photos
     
-    Forget Botox or costly face-lifts. For a firm face, let Tata the Thai masseuse slap you silly.
+
+*   Peek inside modern living
+    
+    If you're a modern design fan, Dwell's tour of these Peninsula gems may be for you. Photos
     
 
 *     
-    John Storey, Special To The Chronicle / SF
+    Pete Kiehart, The Chronicle / SF
     
-    San Francisco Chronicle Copyright 2012 San Francisco Chronicle. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 3:04 a.m., Monday, October 22, 2012 3 blocks, 16 new restaurants
+    Crazy ticket propositions
     
-    In this small stretch of the Mission, a huge number of tasty spots has recently opened. See 'em!
+    Some Series seats cost thousands, so Giants fans get creative.
     
-
-*     
-    Barry Brecheisen, Associated Press / SF
-    
-    Bridge show's year to forget
-    
-    Axl Rose can't even remember lyrics to his big hit at an off year for Neil Young's benefit concert.
-    
+*   Find tickets on Seatgeek
 
 *   Home
 *   News
