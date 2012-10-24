@@ -390,7 +390,7 @@ Rechercher sur OverBlog Annuaire
 *   Couture
 *   Histoire
 *   écriture
-*   Societe
+*   Société
 *   Vidéo
 
 *   Voyages
@@ -417,7 +417,7 @@ Rechercher sur OverBlog Annuaire
 *   Actualité
 *   Vie perso /...
 *   Littérature
-*   Décoration
+*   Decoration
 *   Jeux Vidéo
 *   Pro
 *   Art
