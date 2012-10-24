@@ -202,7 +202,6 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   FEATURED SHOWS
-    *   FOX SPORTS FLASH
     *   WHAT THE FOX
     *   BOYS IN THE HALL
     *   ONLINE OT
@@ -213,13 +212,13 @@ Close Email A Friend Your email has been sent.
     
     *   MOST WATCHED THIS HOUR
     *   Rosenthal: World Series Preview
-    *   Highlights: WR flips defender, scores TD
-    *   NLCS on FOX: Hunter Pence
-    *   NLCS on FOX: Award Ceremony
-    *   Billick's Power Rankings: Week 8
-    *   Online OT: BAL/HOU
-    *   NLCS on FOX: Bochy gets it done
-    *   NLCS on FOX: Matt Cain
+    *   Manchester United v Braga UEFA Champions League Highlights 10/23/12
+    *   NFL on FOX: Campaigning for RG3
+    *   Barcelona v Celtic UEFA Champions League Highlights
+    *   Shakhtar Donetsk v Chelsea UEFA Champions League Highlights
+    *   Online OT: WAS/NYG
+    *   Verlander on Game 1 start
+    *   Morosi: Ozzie out in Miami
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -505,33 +504,33 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   Short week hurts Vikings' recovery time
-*   Gophers AD says Saul Smith DWI 'embarrassing'
-*   Peterson and defense equals wins for Vikings
+*   Bucs slowly finding themselves under Schiano
+*   Vikings' Peterson back to 'All Day' mindset
+*   Vikings' Ponder struggling but not stressing
 
-*   AUTOS: VW Joining Compact SUV Fray
-*   AMA SBK: AMA Pro Will Not Return To Sonoma In...
-*   GEARBAG: Compress Soft Gear With New Harley-D...
+*   ALMS: Series Crowns 2012 Champions
+*   INDYCAR: Three-Time Indy 500 Starter Eddie...
+*   MOTOGP: Trio Share Phillip Island Spotlight
 
-*   VIDEO: Issac Gross
-*   2015 Spotlight: Hunter Dale
-*   2015 Spotlight: Orlando Bradford
+*   Vikings inch forward in AP Pro32 rankings
+*   Vikings finding positives in quick turnaround
+*   Holler: Vikings' bandwagon still tempered
 
-*   UFC Ultimate Submissions Premieres Oct 23rd...
-*   Cooking For The Coaches
-*   Teaser: Fighter Trivia
+*   Signature Moves: Cung Le
+*   GSP: The Comeback
+*   UFC Fighter Trivia: Pop Culture Challenge
 
-*   Howard: I've never been drunk
-*   Longhorn Network bad for Texas?
-*   Did Belichick break NFL rule?
+*   Armstrong removes 'Tour de France winner'...
+*   Mizzou employee paid big strip club bill on...
+*   USM QB's mom arrested at game
 
-*   Pumas con ánimo decaído
-*   Sin hacer bulla, Scutaro es MVP
-*   Bears logran más altura ante Lions
+*   Cruz Azul quiere Libertadores
+*   Valverde es el dilema de Tigers
+*   Morelia triunfa en casa ante Atlas
 
-*   Ferguson considers formation change
-*   Di Matteo: Terry is still leader
-*   Willian wants to join London club
+*   Donovan considering retirement
+*   Anti-racism plan announced by union
+*   Llorente wanted by Juventus
 
 *   *   NFL
     *   NFL Home
