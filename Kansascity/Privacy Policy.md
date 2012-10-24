@@ -134,29 +134,24 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $10 for $20 of Fresh Culinary Olive Oils and Vinegars at First Taste $10 Value: Discount: You Save: $20 50% $10
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day FINE MEXICAN CUISINE FOR $10 FROM GUADALAJARA CAFE. ($20 value) $10 Value: Discount: You Save: $20 50% $10
 
-Tuesday: Top Deals
+Wednesday: Hen House, HyVee, Price Chopper Deals Hen House
 
-1.  On the Border – Head to their Facebook page to get a coupon for free queso and sopapillas.  The coupon is good through September 13th.
-2.  Garnier Fructis – Request a free sample of Garnier Fructis Fall Flight courtesy of Target.
-3.  Biore – Sign up to see if you qualify to get 3 free sample sent to you.
+*   General Mills Fiber One or Nature Valley Granola Bars 5-10-ct. - 2/$5 or $2.50 each
+*   Swanson Flavor Boost Concentrated Broth Liquid Packets 4-ct., Seafood, Beef, Vegetable or Chicken - 2/$3 or $1.50 each
+*   Hunt's Canned Pasta Sauce 24-oz. - 10/$10 or $1 each
+*   more...
 
-1.  Apartment Maintenance Tech Part Time
+1.  Apartment Maintenance Helper
     
-    Georgetown Apartments
+2.  PROGRAM DIRECTOR
     
-2.  SEASONAL DRIVERS
+3.  SEASONAL DRIVERS
     
     Kelly Services
     
-3.  Parts Project Coordinator
-    
-    Central Power Systems &. Services, Inc.
-    
-4.  SEASONAL DRIVERS
-    
-    Kelly Services
+4.  SALES
     
 5.  PROGRAM DIRECTOR
     
@@ -170,16 +165,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Obama, Romney tackle Libya, Iran and Syria in final debate
-*   Quinn to start for Chiefs on Sunday
-*   Frank Whites new book reignites his public feud with Royals
-*   Chiefs notebook | Health of ailing players improving
-*   KC business owner shoots two in warehouse burglary
-*   Todd Akin aide adds profanity to Claire McCaskill 'dog' characterization
-*   Commentary: Romney fails to make his case with women
-*   Green-Beckham has had frustrating season
-*   KU coach Bill Self favors adding a stipend for student-athletes
-*   Former MU assistant Christensen punished for tirade after Wyoming loss
+*   Early look at Windows 8 baffles many consumers
+*   MU audit exposes a $7,600 strip-club charge
+*   Man with samurai sword robs restaurant
+*   Witness identifies defendant in Hereford House arson video
+*   Chiefs QBs Quinn, Cassel prepare for new roles
+*   Kleins improvement at Kansas State comes down to confidence
+*   Open revolt on open carry? Overland Park to reconsider details of firearms law
+*   Chiefs offer standing-room only tickets for Raiders game
+*   Apples iPad Mini leads parade of holiday gadgets
+*   St. Lukes enters alliance with three other hospital systems
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
