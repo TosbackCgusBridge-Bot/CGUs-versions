@@ -1,5 +1,5 @@
   
-Users Online Now: **1,945** (Who's On?) Visitors Today: **375,482** Pageviews Today: **583,947** Threads Today: **313** Posts Today: **2,938** 08:14 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,827** (Who's On?) Visitors Today: **542,935** Pageviews Today: **777,744** Threads Today: **279** Posts Today: **3,470** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,8 @@ trinity@godlikeproductions.com
   
 News
 
+*   VIDEO Moderator Accidentally Says 'Obama bin Laden' in Debate
+*   Lefties plan to drop anti-Mormon propaganda at mega-churches weekend before the election
 *   Boy Scouts' 'Perversion Files' released
 *   Texas Woman Charged With Publishing Picture of Undercover Officer Found On His Facebook Page
 *   Ohio Voter Fraud Billboards To Come Down, Sponsor Stays Unnamed
@@ -135,8 +137,6 @@ News
 *   Antidepressants Could Make Your Brain Bleed, Cause Hemorrhagic Strokes
 *   RNC up $83 million, DNC taking out loans
 *   1 In 10 People Believes The World Will End In 2012
-*   Mouth burns soon to be healed with an oral strip
-*   Why Is Counterfeit Ketchup Exploding in New Jersey?
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.015s (0 queries)
+Page generated in 0.023s (0 queries)
