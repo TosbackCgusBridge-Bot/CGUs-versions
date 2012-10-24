@@ -1,4 +1,4 @@
-About Us| Newsletter October 23, 2012
+About Us| Newsletter October 24, 2012
 
 *   Like Us
 *   Follow Us
@@ -410,6 +410,16 @@ New on MedicineNet
 *   Epidurals &. Fungal Meningitis
 *   Fungal Meningitis Outbreak
 *   Healthy Living Tips
+
+Latest MedicineNet News
+
+*   Blood or Bone Marrow in Stem Cell Transplants?
+*   Less Illicit Drug Use, More Prescription Abuse
+*   Big, Rapid Gains Made in Human Lifespan: Study
+*   Medicare Open Enrollment Starts Monday
+*   As Armstrong Case Unfolds, Experts Describe Doping
+*   Want More News? Sign Up for MedicineNet Newsletters!
+*   Health News Feed
 
 Use Pill Finder Find it Now Pill Identifier on RxList
 
