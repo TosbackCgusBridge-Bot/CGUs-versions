@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Alaska: The Last Frontier (Season 2)Spring Has Sprung 8:00PM Alaska: The Last Frontier (Season 2)Cattle Drive 9:00PM Alaska: The Last Frontier (Season 2)Range Riding TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM MythBustersBikes and Bazookas 8:00PM MythBustersHail Hijinx 9:00PM Sons of Guns (Season 3)Free Fall Shotgun TV SHOWS
 
 American Chopper
 
@@ -78,7 +78,7 @@ Wheel of Misfortune
 
 American Chopper
 
-Junior's Surprise
+New Venture
 
 Jungle Gold
 
@@ -330,21 +330,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-Seeking Protection for Antarctic Waters
+The Great Chimp Tech Boom
 
-Unproven Chinese Medicine Killing Manta Rays
+Hawaii Volcano's Lava Lake Threatens to Overflow
 
-Digital Sound Tech Used To Study Rare Owls
+New iPad Mini Eats Steve Jobs' Words
 
-Camouflage Isn't Easy to Wear: Gotta-See Video
+Why Dung Beetles Like to Chill on Poop Balls
 
-3-D Printing Changes Everything: Gotta-See Video
+Oldest Writing Nearly Deciphered
 
-Cassettes Coming Back In a New Way
+Excellent Idea of the Day: Exercise Your Brain
 
-Earthquake Scientists Sentenced to 6 Years
+Bigfoot Vandalizes a Winnebago
 
-Is Cheerleading a Sport?
+Why the Climate Silence in the Debates?
 
   facebook share0 Tweet Privacy Policy  
 
@@ -550,32 +550,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 23,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 24,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 23,  
+Oct 24,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 23,  
+Oct 24,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 23,  
+Oct 24,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 23,  
+Oct 24,  
 9:00 am  
 60 min(s)  
 **The FBI Files**  
-_The Killing Zone_  
- In the late 1980s, an illegal drug operation opened its doors in  
+_Brutal Abduction_  
+ In June of 1996, 17-year-old Jaime Estrada disappears from a conv  
 **More Listings »**   Shop Discovery Store      
 
 our sites
