@@ -1,4 +1,4 @@
-A NOTE FROM STEPHANIE LINK
+A NOTE FROM JILL MALANDRINO
 
 *   **Home**
 
@@ -84,17 +84,16 @@ A NOTE FROM STEPHANIE LINK
     *   Chairman's Club
 
 *   HOT TOPICS:
-*   Cramer's Eight-Point Plan
-*   iPad Mini
+*   TheStreet Ratings' #1 Stock
+*   Facebook
 *   Options Webinar
-*   Sketchy IPOs
-*   Kass
-*   Apple Store 2.0
-*   Final Presidential Debate Blog
+*   iPhone 5
+*   Apple iPad Mini Blog
+*   Who Won the Debate?
+*   Google Laptop
 *   Gold
-*   AIG
 
-pjava07.dc.thestreet.com Privacy Policy
+pjava04.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -249,13 +248,13 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,345.89 2.38 0.02% NASDAQ 3,016.96 11.34 0.38% S&P 500 1,433.81 0.62 0.04% US 10 Yr 1.798% +0.030 Brokerage Partners Most Commented
+DOW 13,102.53 -243.36 -1.82% NASDAQ 2,990.46 -26.50 -0.88% S&P 500 1,413.11 -20.71 -1.44% US 10 Yr 1.764% -0.034 Brokerage Partners Most Commented
 
 *   Google Drops the Neutron Bomb: $249 Laptop
 *   $249 Google Laptop vs. $499+ Windows 8: Fight!
-*   Poll: Who Won the Second Presidential Debate?
-*   6 Tech Toys Better Than What Apple Sells
 *   10 Cult TV Shows Netflix Should Revive
+*   Biotech Stock Mailbag: Ziopharm, Sarepta, Vivus, Aegerion, Gilead
+*   Little-Known Filth Fouls Clean Energy, Costing Trillions
 
 Articles From Advertising Partners Free Newsletters from TheStreet
 
