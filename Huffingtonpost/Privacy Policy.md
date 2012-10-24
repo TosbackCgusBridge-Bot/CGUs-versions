@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Election 2012
+*   Lance Armstrong
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 23, 2012 Edition: **U.S.**
+October 24, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 23, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Obama, Romney Spar On Foreign Policy In Final Presidential Debate 20k
-    *   'We Also Have Fewer Horses And Bayonets' 14k
-    *   LIVE UPDATES: Obama, Romney Face Off In Final Presidential Debate 23k
-    *   Obama Holds Narrow Lead In Ohio 8k
-    *   POLL: Who Won The Debate? 688
+    *   'We Also Have Fewer Horses And Bayonets'26k
+    *   POLL: Who Won The Debate? 3k
+    *   Mourdock On Abortion: Pregnancy From Rape Is 'Something God Intended'12k
+    *   Instant Polls Show Strong Showing For Obama7k
+    *   'Mitt Agrees With Obama'22k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 23, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   Country Music Stars, Fortune 500 Execs Among Millionaires Using Farmland Tax Loophole 1k
-    *   Matt Taibbi: Romney Is 'A Salesman And Bulls\*\*t Artist Of The Highest Order' 2k
-    *   WHOOPS: Romney Commits Obamacare Debate Fail 742
-    *   The Super-Rich People Bankrolling The Presidential Election 1k
-    *   Mitt Romney Misrepresents Previous Auto Bailout Stance At Third Presidential Debate 898
+    *   WHOOPS: Romney Commits Obamacare Debate Fail8k
+    *   Bernanke: Peace Out1k
+    *   Dow Takes Huge Plunge On Weak Corporate Earnings2k
+    *   Romney's China Investments Called Out, Underestimated By Obama1k
+    *   Thought Of Bernanke Exit Sparks Worst Stock Selloff Since June1k
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 23, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   15 Best Twist Endings In Movies 478
-    *   'Cloud Atlas' Directors Respond To Race Controversy 125
-    *   Taylor Swift: John Mayer Is 'Presumptuous' 134
-    *   WATCH: 'Iron Man 3' Trailer 172
-    *   Obama Gives Jay-Z Parenting Advice 1k
+    *   15 Best Twist Endings In Movies772
+    *   Lindsay Lohan's Incredible Debate Tweets237
+    *   Justin Timberlake Debuts New Song Dedicated To Jessica Biel At Wedding53
+    *   Two More Jolie-Pitt Kids Cast In 'Maleficent' 77
+    *   How A Random Guy Got Billy Idol To Play His 26th Birthday111
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 23, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   So Real, It's Scary: Viral Marketing Campaign Films Elevator Riders Tricked Into Thinking The Floor Is Falling Away 202
-    *   Life As An OkCupid Moderator 355
-    *   Another Top Facebook Exec Calls It Quits 53
-    *   Twitter Cyberbullies Use News Of Adele's Birth As An Excuse To Taunt Star With Fat Jokes And Even A Death Threat 11
-    *   Problems With Netflix And Reddit? It's Not Just You 35
+    *   Apple's Big News: The iPad Mini1k
+    *   PHOTOS: Our First Look At The iPad Mini76
+    *   So Real, It's Scary: Viral Marketing Campaign Films Elevator Riders Tricked Into Thinking The Floor Is Falling Away301
+    *   SURPRISE: Apple Announces 4th Generation iPad160
+    *   Apple Debuts Stunning New MacBook 389
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 23, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   New Yorker Announces Presidential Endorsement 5k
-    *   WATCH: O'Brien Shuts Republican Down Over Libya 7k
-    *   WHOOPS: Bob Schieffer Makes Obama Gaffe 537
-    *   Bob Schieffer Criticized For Letting Debate Get Off Rails 1k
-    *   Bob Schieffer Signals His Debate Plans 1k
+    *   Coulter Uses Slur Against Obama14k
+    *   WHOOPS: Bob Schieffer Makes Obama Gaffe1k
+    *   Bob Schieffer Criticized For Letting Debate Get Off Rails2k
+    *   Debate Sees Drop In Viewers880
+    *   WATCH: Deflated Bill O'Reilly Hates On Final Debate1k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 23, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   'October Surprise' Has Observers Mystified Ahead Of Foreign Policy Debate 6k
-    *   World's Oldest Auschwitz Survivor Dies 387
-    *   Pussy Riot Members Sent To Remote Russian Prison Camps 1k
-    *   Castro Proof-Of-Lifes Himself 441
-    *   Fidel Castro Reportedly Appears In Public 985
+    *   'October Surprise' Has Observers Mystified Ahead Of Foreign Policy Debate8k
+    *   World Geography According To Mitt Romney3k
+    *   Can You Read This? Researchers Turn To Crowdsourcing To Decipher Mystery Language292
+    *   Taliban Commander In Northern Afghanistan Captured1k
+    *   Man Shows Up At His Own Funeral189
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 23, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Danielle Lost 125 Pounds: 'Instead Of Turning To Swiss Cake Rolls To Deal With Stress, I Turned To Sweat' 11
-    *   Should You Let Your Dog Sleep In The Bed? 203
-    *   Fit For Office: Who's The Fittest President Of All Time? 92
-    *   Pumpkin Lattes, Apple Cider And More: What's _Really_ In Your Seasonal Fall Drinks? 20
-    *   10 New Foods To Power Up Your Workout 13
+    *   Danielle Lost 125 Pounds: 'Instead Of Turning To Swiss Cake Rolls To Deal With Stress, I Turned To Sweat'72
+    *   Smoking, Not Flossing, Soda For Breakfast: What’s Your Biggest Health Turnoff?30
+    *   Should You Let Your Dog Sleep In The Bed?329
+    *   Fit For Office: Who's The Fittest President Of All Time?121
+    *   The Great Health Benefits Of Beans82
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 23, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
-    *   PHOTOS: Prince Guillaume &. Stephanie De Lannoy's Glamorous Royal Wedding In Luxembourg 234
-    *   PHOTO: See LeAnn Rimes Without Makeup 66
-    *   'She Does Have A Great Pair Of Boobs' 188
-    *   Ann Romney Hits The Beach In A Halter Swimsuit 108
-    *   PHOTO: Mena Suvari Goes A Little Cutout Crazy 333
+    *   PHOTO: Natalie Portman's Dior Mascara Ad Gets The Axe375
+    *   PHOTOS: Michelle Obama Repeats Her Style At The Third Presidential Debate241
+    *   Ann Romney Hits The Beach In A Halter Swimsuit173
+    *   'She Does Have A Great Pair Of Boobs'207
+    *   PHOTO: See LeAnn Rimes Without Makeup69
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 23, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   The Funniest News Corrections 35
-    *   PHOTOS: The Most WTF Halloween Decorations
-    *   WATCH: This Guy Is About To Do Something Awesome 60
-    *   Hooray For Ellen! 396
-    *   WATCH: Maher Unearths Another Secret Video Of Mitt 2k
+    *   The Funniest Pet Halloween Costumes
+    *   The Funniest Debate Tweets27
+    *   Stewart Blasts Fox News' 'Bulls#%t Mountain'1k
+    *   WATCH: This Guy Is About To Do Something Awesome142
+    *   PHOTOS: The Most WTF Halloween Decorations14
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 23, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next Debate: Best Moments
-    *   Next Debate: Afghanistan
-    *   Coming Up Debate: Middle East
-    *   Coming Up Debate: China
-    *   Coming Up The Alliance From HellGo to HuffPost Live
+    *   Next 5 Point Plan to Nowhere
+    *   Next Entangled In Entrapment
+    *   Coming Up GOP Stuck In 1968
+    *   Coming Up Breaking Gaza
+    *   Coming Up Disney Latina Princesa?Go to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
