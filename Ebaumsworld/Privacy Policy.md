@@ -1,27 +1,27 @@
-*   VIDEO Pitiful Escape Attempt
-*   VIDEO Guy Eats Spider
-*   VIDEO Jalen Rose Explains Kobe's 81 Point Game
+*   GOOD &. BAD LUCK BLOG Lesser Known Superstitions
+*   VIDEO Ghetto Stuntman Breaks Wrist
+*   VIDEO Obama Is A Communist - Remix
 *   SCARY PARTNER REAL OR FAKE
+*   VIDEO Log Crossing Epic Fail
+*   VIDEO Kinect Sensors Will Replace Your Mouse
+*   VIDEO Tilt-Shift San Francisco
 *   OBAMA OR NOBAMA BLOG Obama and Hitler: A Comparative Analysis
-*   VIDEO Cam Zink Canyon Gap Jump Crash
-*   VIDEO Octopus Eating A Crab
-*   VIDEO Highbar Back Flip FAIL
-*   VIDEO Woman Gives Birth On A Jail Floor
-*   COMMUNITY GAME Neckbeard Basement Escape
-*   STAR WEIRDS BLOG 5...
-*   VIDEO Pedestrian Nearly Has Legs Crushed
-*   GALLERY Absolutely Beautiful Animal Photos
+*   VIDEO Karate Kid Fail
+*   VIDEO Travis Snider Makes Amazing Catch
+*   VIDEO Police Beat Young Teens In Madrid Spain
 *   VIDEO Worst Howl Ever
-*   VIDEO Walking on Metal Bar Nut Crush
-*   CELEBRIDEAD GALLERY Celebrity Life Update
 *   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
-*   WAYS TO SAVE BLOG 5 Ways to Save a Buttload of Money!
-*   VIDEO NFL Replacement Refs - In Memoriam
-*   VIDEO Zombie Snails
+*   VIDEO Kids Thoughts on the 2012 Presidential Election
+*   VIDEO Kid Narrowly Avoids Death By Motorcycle
+*   STAR WEIRDS BLOG 5...
+*   VIDEO Creek Jump Fail
+*   COMMUNITY GALLERY eBaum's World Photoshop Contest #57
+*   VIDEO Guys Reel In Shark On The Beach
 *   CUBE MAPPING PARTNER 3D Cube Mapping Demo
-*   VIDEO Commentators Mock Injured Rallycross Driver
-*   VIDEO Woman Tells Chris Matthews Obama Is Communist
-*   VIDEO Bad Luck At The Gas Station
+*   WAYS TO SAVE BLOG 5 Ways to Save a Buttload of Money!
+*   VIDEO Frog-Headed Snake
+*   CELEBRIDEAD GALLERY Celebrity Life Update
+*   VIDEO Highbar Back Flip FAIL
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
@@ -111,16 +111,16 @@ Last updated: March 31, 2011.
 
 EBAUM'S PICKS Awesome Realistic Halloween Knife Slash Nissan Rocket Launcher Fail Coach Knocks Out Student How To Shake A Can With No Fizz Top 5
 
-*   *   75,200
+*   *   86,637
+    *   32 Random Interesting Facts
+*   *   84,072
     *   How To Knock Someone Out
-*   *   69,480
+*   *   82,724
     *   Monday Morning Randomness
-*   *   68,987
+*   *   79,048
+    *   LG Pranks Innocent Elevator Riders
+*   *   75,064
     *   Road Rage Bully Kicks The Crap Out Of Guy's Car
-*   *   66,007
-    *   Best Viral Pics of The Week Compilation
-*   *   56,400
-    *   Cyber Child Sex Sting Nets 23 Arrests
 
 POPULAR GALLERIES D.E.R.P. WTF GIF Dump POPULAR GAMES Cloud Wars Election Ejection 2012 Into Space 2 Slender - Bones of Children
 
