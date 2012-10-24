@@ -18,21 +18,21 @@ Global Research
 
 Search Loading Latest News / Top Stories
 
+*   Starving People, Targeting Them with Biological and Chemical Weapons
+*   “Obama the Muslim:” Ploy to Cover-up Years of US-Al Qaeda Support
+*   Crimes against Humanity: Iraq’s Mass Graves
+*   GRTV: Obama and Romney Should Realize Americans are Sick of War
+*   Recalling the 2004 US Presidential Elections: The Footprints of Electoral Fraud
+*   Israel Wages War on Human Rights
+*   India: Imperialism’s Steel and Glass Facade
+*   The Danger of Fascism in Greece
+*   Obama and Romney concur on War, Assassination and Reaction
 *   A Case Study In Capitalist Democracy: “You’ve been Trumped”
 *   Vote with your Heart: Cast a Ballot for Socialism
 *   Earthquake-Causing Fracking to Be Allowed within 500 Feet of Nuclear Plants
 *   Dubious Reports About Fidel Castro’s Health
 *   GR Radio: 9/11 and the Afghan War – Eleven Years Later
 *   The Colombian “War on Drugs”, A Family Affair
-*   Fidel Castro is Dying
-*   GRTV: Bush and Blair Wanted for War Crimes
-*   GRTV: NATO’s Global Expansion: The Growing Threat
-*   The Pakistan-Russia Relationship: Geopolitical Shift in South and Central Asia?
-*   Obama-Romney: Two Defenders of American Imperialism
-*   Poverty, Unemployment, Homelessness in America: “Rage Against Austerity”
-*   Economic Crisis: Austerity and Counter-Austerity in Britain
-*   Employees of Romney family’s secret bank tied to fraud, money laundering, drug cartels and the CIA
-*   The War on Lebanon and the Battle for Oil
 
 All Articles
 
@@ -99,7 +99,7 @@ All Articles
     *   THE WAR ON LEBANON
     *   U.S. Elections
 
-Latest News / Top Stories
+Newsletter Subscribe to our Newsletter\* Latest News / Top Stories
 
 *   Canadian Peace Congress: End the Aggression Against Syria! Stop the Drive to War Against Iran!
 *   “Artworks for Peace”: Support Global Research
@@ -120,7 +120,7 @@ Join us on Facebook
 
 Twitter: GRTVnews
 
-*   The Global Research Website was Hacked | Global Research http://t.co/0wx4NiGd about 18 hours ago from Facebook
+*   "Whether it’s a Republican or Democrat in the White House, one thing will remain consistent. US foreign policy... http://t.co/i7AZe1FR about 15 hours ago from Facebook
 
 @GRTVnews Global Research Publishers
 
@@ -140,30 +140,30 @@ Visit our online store Partner Websites
 *   The Corbett Report
 *   Washington's Blog
 
+*   Whistleblower who revealed CIA torture sentenced to prison
+*   Russia Denounces US Human Rights Record
+*   Syrian Conflict Part of Mideast ‘Geopolitical Game’
 *   Britain’s New Drone Squadron
 *   Earthquake-Causing Fracking to Be Allowed within 500 Feet of Nuclear Plants
 *   GR Radio: 9/11 and the Afghan War – Eleven Years Later
-*   Fidel Castro is Dying
-*   U.S. Leads Naval Exercises In Cambodia
-*   Lebanon bombings linked to war in Syria
+
+**Earthquake-Causing Fracking to Be Allowed within 500 Feet of Nuclear Plants** _By Washington's Blog,October 22, 2012_
+
+The American government has officially stated that fracking can cause earthquakes. Some fracking companies now admit this fact The scientific community agrees.
+
+**The Colombian “War on Drugs”, A Family Affair** _By Tom Burghardt,October 22, 2012_
+
+Accused by human rights organizations over his role in the forced disappearance of thousands of Colombians, Uribe may still land in the dock as a result of investigations by Colombia’s Supreme Court
 
 **“October Surprise”: The Nobel Peace Committee’s “Collective Insanity”** _By Felicity Arbuthnot,October 21, 2012_
 
 “When Kissinger won the Nobel Peace Prize satire died”, satirist Tom Lehrer,
 
-**Coverup: Risk of Nuclear Melt-Down in U.S. Higher than it was at Fukushima** _By Washington's Blog,October 20, 2012_
-
-Massive Cover-Up of Risks from Flooding to Numerous U.S. Nuclear Facilities. Revelation of NRC Whistleblowers.
-
 **New World Order Education: Useful Engines in the “One World Schoolhouse”** _By Prof. James F. Tracy,October 19, 2012_
 
 The restructuring of education in accordance with an internationally based technocratic order. Foundation funded online education introduces a one-size-fits-all worldwide school curriculum.
 
-**The 2012 US Presidential “Non-election”: Which Brand of “Fascism” this Time?** _By Larry Chin,October 14, 2012_
-
-Every four years, the deck chairs of the political Titanic that is the American empire get rearranged in the choreographed spectacle of another presidential “election”.
-
-**Global Research Bestsellers on Kindle** **The Globalization of NATO** **Stop the March to War** **SYRIA: NATO's "Humanitarian" War?** **I BOOK: The 9/11 Reader** **The Failure of Mainstream Media** **I-BOOK: The Globalization of War** **GR Members Receive Free Books!** **IRAQ WAR: War Crimes &. Genocide** **Fukushima: Nuclear War without War** Feature Articles Global Research TV More videos on GRTV **Britain’s New Drone Squadron** _By Drone Wars UK, October 22, 2012_ **The Colombian “War on Drugs”, A Family Affair** _By Tom Burghardt, October 22, 2012_ **Fidel Castro is Dying** _By Fidel Castro Ruz, October 22, 2012_ **GRTV: Bush and Blair Wanted for War Crimes** _By Francis Boyle, October 22, 2012_ **GRTV: NATO’s Global Expansion: The Growing Threat** _By Rick Rozoff and James Corbett, October 22, 2012_ **The Pakistan-Russia Relationship: Geopolitical Shift in South and Central Asia?** _By Stop NATO, October 22, 2012_ **U.S. Leads Naval Exercises In Cambodia** _By Xinhua, October 22, 2012_ **Obama-Romney: Two Defenders of American Imperialism** _By Patrick Martin, October 22, 2012_ **Lebanon bombings linked to war in Syria** _By Niall Green, October 22, 2012_ **Poverty, Unemployment, Homelessness in America: “Rage Against Austerity”** _By Stephen Lendman, October 22, 2012_ **Economic Crisis: Austerity and Counter-Austerity in Britain** _By Roger Annis, October 22, 2012_ **Portland, Oregon: Pre-Election “Anti-Austerity Protest”** _By Shamus Cooke, October 22, 2012_ **Employees of Romney family’s secret bank tied to fraud, money laundering, drug cartels and the CIA** _By Gerry Bello and Bob Fitrakis, October 21, 2012_ **The War on Lebanon and the Battle for Oil** _By Prof Michel Chossudovsky, October 21, 2012_ **The Real Reason America Is Drifting Towards Fascism** _By Washington's Blog, October 21, 2012_ **US Presidential Elections: Forecasting the Vote, Simulating the “Fraud Factor”** _By Global Research News, October 21, 2012_ **Latest Beirut Bombing Incident: “False Flag”?** _By Stephen Lendman, October 21, 2012_ **The Next War: Destination “Lebanon.”** _By Rev. Richard Skaff, October 21, 2012_ **Humanitarian Ship to Gaza: Israel Again Commits Barbarism and Piracy** _By Stephen Lendman, October 21, 2012_ **“Homegrown Terrorism” and Terrorism by Association** _By Global Research News, October 21, 2012_ **US Election Concern: What Is There To Vote For?** _By Danny Schechter, October 21, 2012_ **Obama-Romney: The Duopoly Debates Itself** _By Glen Ford, October 21, 2012_ **Lebanon Bombing: Impetus for US-NATO Planned Sectarian War** _By Tony Cartalucci, October 21, 2012_ **Benghazi, US-NATO Sponsored Base of Operations for Al Qaeda** _By Tony Cartalucci, October 21, 2012_ **Britain Intervenes in Saudi Arabia’s “Internal Affairs”** _By Tanya Cariina Hsu, October 20, 2012_ **The History of Cambodia: Pol Pot Revisited** _By Israel Shamir, October 20, 2012_ **Besieged Gaddafi Stronghold Bani Walid Under Attack** _By Stephen Lendman, October 20, 2012_ **US Plan to Attack Iran with Nuclear Weapons, Devised Under Bush** _By Sherwood Ross, October 20, 2012_ **Flawed Monetary Policy: “QE Infinity” Won’t Work, What the Banks Are Really Afraid Of …** _By Global Research News, October 20, 2012_ **Chemtrails, “The Spraying of Poison over Sweden”: Politician Ignites Controversial Debate** _By Global Research News, October 20, 2012_ **Obama’s Report Card** _By Philip Giraldi, October 20, 2012_ **Week in Review: The Nobel “Peace” Prize and the Truth About War** _By Global Research, October 19, 2012_ **Predatory Capitalism: Stealing Wealth, Stealing Food: The Battle for the Corporate Control of India** _By Colin Todhunter, October 19, 2012_ **Health Care for Profit: The Deadly Fungal Meningitis Outbreak Spreads across America** _By Kate Randall, October 19, 2012_ **Wall Street Issues its Orders to Obama, Romney** _By Patrick Martin, October 19, 2012_ **Does the Romney Family now Own your E-Vote?** _By Gerry Bello, Bob Fitrakis, and Harvey Wasserman, October 19, 2012_ **Two Versions of the Same Thing: “Obamneycare” Converts Health Care Into Profits** _By Dr. Paul Craig Roberts, October 19, 2012_ **Palestinian Authority to Hold Sham Elections** _By Stephen Lendman, October 19, 2012_ **“Largest US-Israeli Exercise in History”: US Troops in Israel for Three-Week Missile Defense Drill** _By Jason Ditz, October 19, 2012_ **“Living as a Christian in the Hell of Aleppo”: Besieged by Syrian “Opposition” Rebels. Testimony of a Priest** _By Agenzia Fides (Vatican News), October 19, 2012_ **Syria: Evidence of Foreign Countries’ Support to Terrorists, Letter to UN Security Council** _By Global Research News, October 19, 2012_ **NATO’s “Responsibility to Kill”: International Law Suffers Another Blow in Libya Conflict** _By Tony Cartalucci, October 19, 2012_ **Global Cyber-Warfare Tactics: New Flame-linked Malware used in “Cyber-Espionage”** _By Russia Today, October 19, 2012_ **The Global Research Website was Hacked** _By Global Research News, October 19, 2012_ **The Militarization of Europe. US-NATO Missiles Threat to Russia’s Security** _By Robert Bridge, October 19, 2012_ **Cyber-Warfare: NATO Considers Russia as a “Potential Aggressor”, Threat to the West** _By Ria Novosti, October 19, 2012_ **Global Systemic Crisis: War and Geopolitical Instability Trigger “Economic Shock”** _By Global Europe Anticipation Bulletin (GEAB), October 19, 2012_ **Bradley Manning: US Government ordered to turn over Additional 600 Emails to Bradley Manning’s Defense** _By Global Research News, October 19, 2012_ **The Nobel Peace Prize for War** _By Michael Parenti, October 18, 2012_ **Global Research Bestsellers on Kindle** _By Global Research, October 18, 2012_ **Israel Lobby Threatens Church Groups With Congressional Investigation Over Call for Restricting U.S. Military Aid to Israel** _By Richard Silverstein, October 18, 2012_ **Financial Warfare against Iran: Devastating Social Impacts of Sanctions** _By Dr. Ismail Salami, October 18, 2012_ **GRTV: Who’s Afraid of an Open Debate? The Truth About the Commission on Presidential Debates** _By GRTV, October 18, 2012_ **I Vote For “Shooting Bankers”** _By Craig Murray, October 18, 2012_ **Rockefeller Global Tentacles Exposed in 1959 by the Soviet Union** _By Wayne Madsen, October 18, 2012_ **Ankara Retracts: Turkey ‘Admits’ Russian Air Cargo to Syria Was Legal** _By Ria Novosti, October 18, 2012_ **The Obama-Romney Debate: Questions Unasked and Unanswered** _By Joseph Kishore, October 18, 2012_ **Turkey leads US-sponsored Military Encirclement of Syria** _By Chris Marsden, October 18, 2012_ **Nobel’s EU “Champion of Peace” Makes a Mockery of Free Speech** _By Kourosh Ziabari, October 18, 2012_ **Haiti, US-Installed “Stooge Regime”. Long-Suffering Haitians Want Change** _By Stephen Lendman, October 18, 2012_ **The Presidential Debates Are Nothing But Scripted Beauty Contests** _By Washington's Blog, October 18, 2012_ More Feature Articles...
+**Global Research Bestsellers on Kindle** **The Globalization of NATO** **Stop the March to War** **SYRIA: NATO's "Humanitarian" War?** **I BOOK: The 9/11 Reader** **The Failure of Mainstream Media** **I-BOOK: The Globalization of War** **GR Members Receive Free Books!** **IRAQ WAR: War Crimes &. Genocide** **Fukushima: Nuclear War without War** Feature Articles Global Research TV More videos on GRTV **Whistleblower who revealed CIA torture sentenced to prison** _By Russia Today, October 24, 2012_ **UNESCO Human Rights Conference Honoring Israel’s President Shimon Peres. Four of Five Speakers Pull Out** _By Ali Abunimah, October 24, 2012_ **Israel Wages War on Human Rights** _By Stephen Lendman, October 23, 2012_ **Russia Denounces US Human Rights Record** _By Ria Novosti, October 23, 2012_ **India: Imperialism’s Steel and Glass Facade** _By Colin Todhunter, October 23, 2012_ **The Danger of Fascism in Greece** _By Christoph Dreier, October 23, 2012_ **Obama and Romney concur on War, Assassination and Reaction** _By Bill Van Auken, October 23, 2012_ **Syrian Conflict Part of Mideast ‘Geopolitical Game’** _By Stop NATO, October 23, 2012_ **A Case Study In Capitalist Democracy: “You’ve been Trumped”** _By Colin Todhunter, October 23, 2012_ **Vote with your Heart: Cast a Ballot for Socialism** _By Burkely Hermann, October 22, 2012_ **Britain’s New Drone Squadron** _By Drone Wars UK, October 22, 2012_ **Dubious Reports About Fidel Castro’s Health** _By Stephen Lendman, October 22, 2012_ **GR Radio: 9/11 and the Afghan War – Eleven Years Later** _By Prof Michel Chossudovsky and Michael Welch, October 22, 2012_ **Fidel Castro is Dying** _By Fidel Castro Ruz, October 22, 2012_ **GRTV: Bush and Blair Wanted for War Crimes** _By Francis Boyle, October 22, 2012_ **GRTV: NATO’s Global Expansion: The Growing Threat** _By Rick Rozoff and James Corbett, October 22, 2012_ **The Pakistan-Russia Relationship: Geopolitical Shift in South and Central Asia?** _By Stop NATO, October 22, 2012_ **U.S. Leads Naval Exercises In Cambodia** _By Xinhua, October 22, 2012_ **Obama-Romney: Two Defenders of American Imperialism** _By Patrick Martin, October 22, 2012_ **Lebanon bombings linked to war in Syria** _By Niall Green, October 22, 2012_ **Poverty, Unemployment, Homelessness in America: “Rage Against Austerity”** _By Stephen Lendman, October 22, 2012_ **Economic Crisis: Austerity and Counter-Austerity in Britain** _By Roger Annis, October 22, 2012_ **Demonizing North Korea** _By Global Research News, October 22, 2012_ **Portland, Oregon: Pre-Election “Anti-Austerity Protest”** _By Shamus Cooke, October 22, 2012_ **Employees of Romney family’s secret bank tied to fraud, money laundering, drug cartels and the CIA** _By Gerry Bello and Bob Fitrakis, October 21, 2012_ **The War on Lebanon and the Battle for Oil** _By Prof Michel Chossudovsky, October 21, 2012_ **The Real Reason America Is Drifting Towards Fascism** _By Washington's Blog, October 21, 2012_ **US Presidential Elections: Forecasting the Vote, Simulating the “Fraud Factor”** _By Global Research News, October 21, 2012_ **Latest Beirut Bombing Incident: “False Flag”?** _By Stephen Lendman, October 21, 2012_ **The Next War: Destination “Lebanon.”** _By Rev. Richard Skaff, October 21, 2012_ **Humanitarian Ship to Gaza: Israel Again Commits Barbarism and Piracy** _By Stephen Lendman, October 21, 2012_ **“Homegrown Terrorism” and Terrorism by Association** _By Global Research News, October 21, 2012_ **US Election Concern: What Is There To Vote For?** _By Danny Schechter, October 21, 2012_ **Obama-Romney: The Duopoly Debates Itself** _By Glen Ford, October 21, 2012_ **Lebanon Bombing: Impetus for US-NATO Planned Sectarian War** _By Tony Cartalucci, October 21, 2012_ **Benghazi, US-NATO Sponsored Base of Operations for Al Qaeda** _By Tony Cartalucci, October 21, 2012_ **Britain Intervenes in Saudi Arabia’s “Internal Affairs”** _By Tanya Cariina Hsu, October 20, 2012_ **Coverup: Risk of Nuclear Melt-Down in U.S. Higher than it was at Fukushima** _By Washington's Blog, October 20, 2012_ **The History of Cambodia: Pol Pot Revisited** _By Israel Shamir, October 20, 2012_ **Besieged Gaddafi Stronghold Bani Walid Under Attack** _By Stephen Lendman, October 20, 2012_ **US Plan to Attack Iran with Nuclear Weapons, Devised Under Bush** _By Sherwood Ross, October 20, 2012_ **Flawed Monetary Policy: “QE Infinity” Won’t Work, What the Banks Are Really Afraid Of …** _By Global Research News, October 20, 2012_ **Chemtrails, “The Spraying of Poison over Sweden”: Politician Ignites Controversial Debate** _By Global Research News, October 20, 2012_ **Obama’s Report Card** _By Philip Giraldi, October 20, 2012_ **Week in Review: The Nobel “Peace” Prize and the Truth About War** _By Global Research, October 19, 2012_ **Predatory Capitalism: Stealing Wealth, Stealing Food: The Battle for the Corporate Control of India** _By Colin Todhunter, October 19, 2012_ **Health Care for Profit: The Deadly Fungal Meningitis Outbreak Spreads across America** _By Kate Randall, October 19, 2012_ **Wall Street Issues its Orders to Obama, Romney** _By Patrick Martin, October 19, 2012_ **Does the Romney Family now Own your E-Vote?** _By Gerry Bello, Bob Fitrakis, and Harvey Wasserman, October 19, 2012_ **Two Versions of the Same Thing: “Obamneycare” Converts Health Care Into Profits** _By Dr. Paul Craig Roberts, October 19, 2012_ **Palestinian Authority to Hold Sham Elections** _By Stephen Lendman, October 19, 2012_ **“Largest US-Israeli Exercise in History”: US Troops in Israel for Three-Week Missile Defense Drill** _By Jason Ditz, October 19, 2012_ **“Living as a Christian in the Hell of Aleppo”: Besieged by Syrian “Opposition” Rebels. Testimony of a Priest** _By Agenzia Fides (Vatican News), October 19, 2012_ **Syria: Evidence of Foreign Countries’ Support to Terrorists, Letter to UN Security Council** _By Global Research News, October 19, 2012_ **NATO’s “Responsibility to Kill”: International Law Suffers Another Blow in Libya Conflict** _By Tony Cartalucci, October 19, 2012_ **Global Cyber-Warfare Tactics: New Flame-linked Malware used in “Cyber-Espionage”** _By Russia Today, October 19, 2012_ **The Global Research Website was Hacked** _By Global Research News, October 19, 2012_ **The Militarization of Europe. US-NATO Missiles Threat to Russia’s Security** _By Robert Bridge, October 19, 2012_ **Cyber-Warfare: NATO Considers Russia as a “Potential Aggressor”, Threat to the West** _By Ria Novosti, October 19, 2012_ **Global Systemic Crisis: War and Geopolitical Instability Trigger “Economic Shock”** _By Global Europe Anticipation Bulletin (GEAB), October 19, 2012_ **Bradley Manning: US Government ordered to turn over Additional 600 Emails to Bradley Manning’s Defense** _By Global Research News, October 19, 2012_ More Feature Articles...
 
 *   English
 *   Français
