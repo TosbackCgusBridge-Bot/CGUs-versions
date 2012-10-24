@@ -73,14 +73,22 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 *   Ashley Greene: Look At Me Now
 *   Ashley Greene's Cover Shoot Style
 *   Project Runway's New York
-*   Gwen Stefani: Rock 'n' Rule
 *   Gwen Stefani's Cover Shoot Style
 *   Gwen Stefani's Style Evolution
+*   Gwen Stefani: Rock 'n' Rule
 *   Chelsea Everywhere
 *   Big Shots
 
 Latest blog entries
 
+*   Burlesque in a Bottle: Dita Von Teese Launches Perfume
+    
+    Legendary burlesque star Dita Von Teese embodies all things glamour, elegance, and mystery through her dancing, costumes, and overall pin-up persona. 10/23/12
+    
+*   The Dog Whistle Last Night Was to Women
+    
+    The debate last night was ostensibly about foreign policy, but as the entire Twitterverse noted, the candidates used their last televised dialogue to bring up whatever they wanted, from education to food stamps. And both Barack Obama and Mitt Romney mu 10/23/12
+    
 *   Prabal Gurung for Target to Debut in February
     
     The best news we've ever gotten on a Monday morning: Prabal Gurung will design a line for Target that hits stores in February.
@@ -93,14 +101,6 @@ Latest blog entries
 *   Ryan Reynolds' Favorite iPhone Apps
     
     The actor shares his eight most-used apps, from one that helps him read scripts to another that shows him how to restore old motorcycles. 10/17/12
-    
-*   Pills and Pocketbooks: Why Obama's Debate Pitch to Women Matters
-    
-    These are not just women's issues, said a much feistier Obama during last nights presidential debate. These are family issues. These are economic issues. 10/17/12
-    
-*   Isaac Mizrahi Gets in the Driver's Seat
-    
-    The designer talks up his latest collaboration with Chevy Malibu and reveals what's to come in the new season of Project Runway All Stars. 10/12/12
     
 *   See all blogs
 
