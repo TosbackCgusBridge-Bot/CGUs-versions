@@ -15,6 +15,7 @@ Themes
 *   CLASSIFIEDS
 *   PROPERTY 
 *   GAMES
+*   WEATHER
 *   KC THANK YOUS
 *   PRODUCTS
 *   HELP &. SUPPORT
