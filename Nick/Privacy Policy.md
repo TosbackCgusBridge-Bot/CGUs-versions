@@ -464,4 +464,5 @@ Online Games
 *   Download Games
 *   Hidden Object Games
 
-PRIVACY POLICY / YOUR CALIFORNIA PRIVACY RIGHTS - Updated 05/23/2012Terms of UseCopyright ComplianceSitemapNewsletterSafety GuideGround RulesParentsReport a ConcernAd Choices © 2012 Viacom International Inc. All Rights Reserved. Nick and all related titles, logos and characters are trademarks of Viacom International Inc.
+PRIVACY POLICY / YOUR CALIFORNIA PRIVACY RIGHTS - Updated 05/23/2012Terms of UseCopyright ComplianceSitemap  
+NewsletterSafety GuideGround RulesParentsReport a ConcernClosed Captioning ContactAd Choices © 2012 Viacom International Inc. All Rights Reserved. Nick and all related titles, logos and characters are trademarks of Viacom International Inc.
