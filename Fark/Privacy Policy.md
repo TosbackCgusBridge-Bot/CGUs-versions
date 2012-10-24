@@ -148,49 +148,49 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    There Wolf
+    Fark Logo - Decal
 *     
-    Bowtie Bag Clips
+    Breakup Recovery Kit
 *     
-    Elvis - Burnin' Love Cinnamon Mints
+    Stay Puft - Talking Plush
 *     
-    Indiana Bones - Zombies Who Didn't Keep Their Eyes Shut
+    Screwed by Wall Street - Corkscrew
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
+Door to Door Atheists \[COMIC\]  
 Watch Hot Cheerleaders Go Gangnam Sty...  
+The 10 Dumbest Reasons People Have Ca...  
 Christian Bale's Wild Body Transforma...  
-How Texting is Changing Your Grammar  
-The Truth Behind NFL Logos  
 More news at Scribol »  
   
   
-Behind The Scenes Of Midori's Party I...  
-Alexa Chung, Miranda July &. Tavi Sing...  
-No "Blue Ivy" Trademark Jay-Z And Bey...  
-Pussy Riot Singers Sent To Russian Pr...  
-More news at The Frisky »  
+Pre-Labor Day Pregnant Bikini Contest  
+The State Fair Food That Will Cause Y...  
+The 20 Worst Hipster Bands: The Compl...  
+Internet Cat Video Film Festival Exists  
+More news at Village Voice »  
   
   
-Watercooler Stories  
-Jockstrip: The world as we know it.  
-People in the news  
-Your Daily Horoscope  
-More news at UPI »  
+We Show It ALL  
+Real Ghosts  
+Scary Little Babies  
+Facebook FAILS  
+More news at truTV »  
   
   
-BAD LIAR'S DAY OFF  
-Star Trek Klingon Wedding  
-9-Year-Old Girl Shot After Being Mist...  
-Accused Bank Robber Returns To Allege...  
-More news at HuffPostWeirdNews »  
+Bobby Brown -- Arrested for DUI ... A...  
+Christina Applegate -- Fiance Threate...  
+Chris Brown's Ex Karrueche Tran -- Ri...  
+Lindsay Lohan Intervention -- Michael...  
+More news at TMZ »  
   
 
 Also on Fark
 
-Main The Fark-inspired fundraiser for the Youngstown, Ohio Saint Vincent de Paul soup kitchen has raised almost $15,000 in just four days. Let's keep the momentum going for a great cause ( igg.me ) » (17 comments) Sports The Giants win the pennant. The Giants win the pennant. The Giants win the pennant. The Giants win the pennant ( mlb.mlb.com ) » (51 comments) Business FedEx announces plans to deliver 20,000 jobs ( latimes.com ) » (25 comments) Geek Great Caesar's ghost ( usatoday.com ) » (9 comments) Entertainment A new reality show on TLC may be fake, instead of just a blight on the history of mankind like the rest of their shows ( dailymail.co.uk ) » (28 comments) Politics "You mention the Navy, and how we have fewer ships than 1916. We also have fewer horses and bayonets now too, Mitt." OH SNAP ( livewire.talkingpointsmemo.com ) » (208 comments) Video Whale mimicking a human voice. I think It's saying the aliens will be here soon. Soon ( youtube.com ) » (69 comments) FarkUs The Fark-inspired fundraiser for the Youngstown, Ohio Saint Vincent de Paul soup kitchen has raised almost $15,000 in just four days. Let's keep the momentum going for a great cause ( igg.me ) » (17 comments)
+Main Woman wins national car parking championship ( thelocal.de ) » (29 comments) Sports After five players suffered concussions, coaches, referees, and parents congratulate the players on finishing the game. Difficulty: A Pee-Wee game ( nytimes.com ) » (45 comments) Business Zynga well on its way to winning this years' Classiest Company Award, lays off 100 people and closes studio during Apple press conference ( gamasutra.com ) » (26 comments) Geek The US Navy is just "two years away" from laser weapons like "they had in Star Trek," claims top admiral. No word where the bayonets will be mounted ( abcnews.go.com ) » (79 comments) Entertainment CBS shows how hip it is to the times by proposing a sitcom based on Nirvana's 'Smells Like Teen Spirit.' ( loudwire.com ) » (61 comments) Politics An open letter to Ann Coulter from Special Olympics athlete John Franklin Stephens ( specialolympicsblog.wordpress.com ) » (265 comments) Video Improv Everywhere has a board meeting. In Staples ( improveverywhere.com ) » (24 comments) FarkUs Farker Bondith explains how rainbows work in this latest offering from Science Isn't Scary ( youtube.com ) » (3 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main The Fark-inspired fundraiser for the Youngstown, Ohio Saint Vincent de Paul
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 23 2012 08:00:36  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 24 2012 08:00:33  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
