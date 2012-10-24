@@ -52,9 +52,9 @@ Looking for more about your trip? Checkout New York City and The Caribbean spotl
 Collections Travel Ideas
 
 *   Romantic Vacations You…
-*   Extend Your Business T…
 *   Secret Five-Star Stunners
-*   Family Playcations
+*   Bring the Brood
+*   Steals on Ski Stays
 
 *   Jetsetter Journeys
 *   Honeymoon Planning
@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   The Standard Downtown LA Los Angeles, California
+*   Parador Resort and Spa - CR
     
-    Starting Today 10/23 at 3pm EDT
-    
-*   Atlantic Hotel - Ft Lauderdale
-    
-    Starting Today 10/23 at 3pm EDT
-    
-*   The Strand Hotel - NYC
-    
-    Starting Today 10/23 at 3pm EDT
-    
-*   The Bentwood Inn - Wyoming
-    
-    Starting Wednesday 10/24 at 3pm EDT
+    Starting Today 10/24 at 3pm EDT
     
 *   Hotel Sofitel - DC
     
-    Starting Wednesday 10/24 at 3pm EDT
-    
-*   Parador Resort and Spa - CR
-    
-    Starting Wednesday 10/24 at 3pm EDT
+    Starting Today 10/24 at 3pm EDT
     
 *   Revere Hotel Boston Common
     
-    Starting Wednesday 10/24 at 3pm EDT
+    Starting Today 10/24 at 3pm EDT
     
 *   The American Club - Wisconsin Kohler, Wisconsin
     
-    Starting Wednesday 10/24 at 3pm EDT
+    Starting Today 10/24 at 3pm EDT
+    
+*   The Bentwood Inn - Wyoming
+    
+    Starting Today 10/24 at 3pm EDT
+    
+*   Ellington Hotel - Berlin
+    
+    Starting Thursday 10/25 at 3pm EDT
+    
+*   Trapp Family Lodge - Vermont
+    
+    Starting Thursday 10/25 at 3pm EDT
+    
+*   Inn by the Sea - Maine
+    
+    Starting Thursday 10/25 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
