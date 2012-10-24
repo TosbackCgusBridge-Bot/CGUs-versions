@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Tuesday, October 23, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Wednesday, October 24, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Tuesday, October 23, 2012 Go Follow the Atlant
 *   Magazine
 *   video
 
-Dr. Obama Diagnoses the Moderate Mitt: 'Romnesia' Molly Ball Can Your Boss Fire You for Voting Obama? David A. Graham Time Vindicated George McGovern on War Conor Friedersdorf Housing Is Recovering -- What Happens Next? Glenn Kelman A Bizarre Newspaper-Business Story Derek Thompson Why Are Women Paid Less Than Men? Jordan Weissmann Alex Rodriguez Was Framed Allen Barra 'The Walking Dead' as the Holocaust Jeffrey Goldberg, J.J. Gould, and Scott Meslow How the Blind Run Marathons Julia Lurie Foreign Policy Isn't 'Above Politics' Joshua Foust Does Obama Really Think China Is the Enemy? Brian Fung The Saga of Iran's Hero Airline Pilot Golnaz Esfandiari How to Take Pictures of Sharks Megan Garber An Entrepreneur Turns to Inflatable Robots Alexis Madrigal What Is That Shiny Thing Curiosity Found? Megan Garber A Forgotton Law That Could Save Lives Julie Turkewitz The Cuban Missile Crisis: 50 Years Later John Tierney California's Strange and Costly Food Fight Ari LeVaux Are There Dust Mites in Your Ear? James Hamblin Italian Court Says Cell Phones Cause Brain Tumors Lindsay Abrams There's Detectable Cocaine in Italian Air James Hamblin Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Tiny Drones Play Catch Kasia Cieplak-Mayr von Baldegg The Science Behind Joy Division's Iconic Album Cover Abdullah Saeed 1950s Video: Dealing With Women in the Workplace Kasia Cieplak-Mayr von Baldegg Privacy Policy
+5 Ways the Race Could Stagger On for Months Garrett Epps Let's Just Get Rid of Debate Moderators Joshua Spivak The Gallant Idealism of George McGovern Ben W. Heineman Jr. Our 'Hair of the Dog' Recovery Conor Sen The Endangered Home Lender Matthew O'Brien How Your Job Predicts Your Vote Derek Thompson In Japan, Anyone Can Be a Holographic Star Patrick St. Michel How a Blind Athlete Runs a Marathon Julia Lurie What 'Reservoir Dogs' Got Right: People Siddhartha Mahanta The Missing Obama-Romney Debate on Egypt Eric Trager Is the World Ready for Mitt Romney? Garance Franke-Ruta The Candidates' Role Reversal on China Brian Fung The Best Nature Photographs of the Year Alexis Madrigal The Whale Who Tried to Talk Alexis Madrigal What Internet Trolls Thought of the Debate Megan Garber RFK Jr.: My Cousin Is Innocent Jennie Rothenberg Gritz A Forgotton Law That Could Save Lives Julie Turkewitz The Cuban Missile Crisis: 50 Years Later John Tierney Latest on Cell Phones and Brain Tumors Lindsay Abrams Tango as Relationship Therapy Amelia Rachel Hokule’a Borofsky The Decline and Fall of Spiritualism Erin McCarthy Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Kids Analyze the Election Kasia Cieplak-Mayr von Baldegg How to Teach Yourself Lucid Dreaming Kasia Cieplak-Mayr von Baldegg A Haunting Time-Lapse of Seattle Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,26 +113,26 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Just In Brendan Hasenstab 8:01 AM ET Track of the Day: 'Bones' 1350993686 Voices
+Just In Lindsay Abrams 8:03 AM ET Study: People Who Exercise Have Larger Brains Later in Life 1351080189 Voices
 
-*   Jeffrey Goldberg The Kishke Debate 6:31 AM ET
-*   Clive Crook An Inconsequential Debate 1:06 AM ET
-*   Robert Wright Why Obama Won 1:01 AM ET
-*   James Fallows Last Debate Oct 22, 2012
-*   Ta-Nehisi Coates Blogging the Debate Oct 22, 2012
-*   Alexis C. Madrigal There Once Was a White Whale Who Tried to Speak… Oct 22, 2012
-*   Derek Thompson How Your Job (and Your Wage) Predicts Your Vote Oct 22, 2012
-*   Garance Franke-Ruta Hillary Clinton Wants None of Your 'Whining'… Oct 18, 2012
+*   James Fallows Inside Foxconn #5: Food 6:29 AM ET
+*   Robert Wright Why Romney Is the War Candidate Oct 23, 2012
+*   Alexis C. Madrigal 'In the Water, a Supercomputer and a Population… Oct 23, 2012
+*   Garance Franke-Ruta The Best Lady GOTV Video of 2012, Starring Lena… Oct 23, 2012
+*   Jeffrey Goldberg Did the 'Neocon Puppet Masters' Get Outflanked by… Oct 23, 2012
+*   Ta-Nehisi Coates Stuff That Black People Who Know White People Like Oct 23, 2012
+*   Derek Thompson Obama's New Second-Term Plan Isn't New and It's… Oct 23, 2012
+*   Clive Crook An Inconsequential Debate Oct 23, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 
 Correspondents
 
+*   Peter Osnos Ignore the Doomsayers: The Book Industry Is Actually Adapting Well
 *   Garrett Epps Zombie Election: 5 Ways the 2012 Race Could Stagger On for Months
 *   Andrew Cohen Think the Florida Recount Was Bad? Just Wait Until November 6
-*   John Tierney 'What Are You Going to Be If You Grow Up?': Recalling the Cuban Missile Crisis
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Scenes From 21st-Century China Oct 22, 2012 Video How to Teach Yourself Lucid Dreaming What Does Marijuana Actually Do? The Science of Procrastination Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Wildlife Photographer of the Year 2012 Oct 23, 2012 Video In Which Sushi Chefs Battle Terrifying Sea Monsters Stop-Motion Car Chase Mysteries of Vernacular Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -161,63 +161,63 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Russian Rocket Launch Brings a New Crew to the Space Station  
+*   Did Iran Hack The World's Biggest Oil Company?  
     
-*   Assad Offers Amnesty, but Not To Anyone Who Needs It  
+*   Syrian Warily Discussing a Holiday Cease Fire  
     
-*   Your Smartphone Is Profoundly Filthy  
-    
-
-Last Update: 6:18 AM
-
-*   Dedicated Bike Lanes Can Cut Cycling Injuries in Half  
-    
-*   Creatives and the Crisis  
-    
-*   Travel to More Than 60 Countries Without Leaving This Park  
+*   Harvey Weinsten Recut His Bin Laden Movie So That It Stars Obama  
     
 
-Last Update: 8:05 PM Most Popular
+Last Update: 7:30 AM
+
+*   A Matchmaker for New York's Privately Owned Public Spaces  
+    
+*   Bicycle Schools, Complete with Bamboo Bikes, On a Roll in Brazil  
+    
+*   Young Adults Are Finally Leaving Their Parents' Houses  
+    
+
+Last Update: 6:30 PM Most Popular
 
 1
 
-A Good Debate for Obama, But Can He Stop Romney?
+Shift-Alt-Debate: Meet 4 Presidential Candidates the Press Mostly Ignores
 
 2
 
-Scenes From 21st-Century China
+Scenes From World War II Photoshopped Onto Today's Streets
 
 3
 
-#horsesandbayonets: The Main Meme of the Final Debate, Explained
+Wildlife Photographer of the Year 2012
 
 4
 
-There Once Was a White Whale Who Tried to Speak to Humans
+Despite a Strong Debate Campaign, Romney's Path to 270 Remains Steep
 
 5
 
-The Kishke Debate
+They Can't Both Be Right: 'Savvy' Experts vs. Polls
 
 6
 
-Why Obama Won
+Occupy Wounded Knee: A 71-Day Siege and a Forgotten Civil Rights Movement
 
 7
 
-Dark Social: We Have the Whole History of the Web Wrong
+Bigger, Better Google Ngrams: Brace Yourself for the Power of Grammar
 
 8
 
-What If Mitt Romney Inherits Obama's Killer Drone Fleet?
+Did the 'Neocon Puppet Masters' Get Outflanked by Romney?
 
 9
 
-How Google Builds Its Maps—and What It Means for the Future of Everything
+Scenes From 21st-Century China
 
 10
 
-An Inconsequential Debate
+The NCAA Needs to Let Someone Else Enforce Its Rules
 
 *   Subscribe Help
 *   Faq
