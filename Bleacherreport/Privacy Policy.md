@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 8 hours ago
+about 16 hours ago
 
-@BleacherReport: RT @radiojoee: #SFGiants 1st team to get soaked before opening champagne
+@BleacherReport: RT @Marlins: BREAKING NEWS: The Marlins announced today that they have dismissed manager Ozzie Guillen. http://t.co/AepCaLs0
 
 Newsletters
 
@@ -194,11 +194,11 @@ Popular Topics
 *   2013 NBA Mock Draft
 *   NBA Trade Rumors
 *   NFL Power Rankings
-*   NFL Picks Week 7
+*   NFL Picks Week 8
 *   NCAA Football Rankings
-*   Fantasy Football Projections
+*   Fantasy Football Waiver Wire
 *   Heisman Trophy 2012
-*   MLB Playoff Schedule 2012
+*   World Series Schedule 2012
 *   BCS Rankings
 
 Copyright © 2012 Bleacher Report, Inc. Turner Broadcasting System, Inc. All Rights Reserved. BleacherReport.com is part of Turner Sports Digital, part of the Turner Sports &. Entertainment Digital Network. Certain photos copyright © 2012 by Getty Images. Any commercial use or distribution without the express written consent of Getty Images is strictly prohibited.
