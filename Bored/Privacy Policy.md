@@ -1,13 +1,14 @@
 BORED.COM
 
 *   Home
+*   Popular
 *   Stickman
 *   Shooting
 *   Puzzle
 *   Escape
 *   Mobile Games
 
-Fun Dumb Humor Animations Point &. Click Strategy Action Girls Halloween Privacy Policy
+Top Rated Fun Dumb Humor Animations Point &. Click Strategy Action Girls Halloween Privacy Policy
 
 We value the trust you place in us and we are committed to safeguarding your privacy. Bored.com ("Bored" or the "Site") is operated by Bored.com Ltd ("we", "us" or "Bored") and is designed to be a fun and entertaining free computer gaming site.
 
