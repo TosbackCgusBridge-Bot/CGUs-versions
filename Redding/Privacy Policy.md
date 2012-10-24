@@ -174,9 +174,6 @@ Record Searchlight
 *   Cars
 *   Classified
 
-*   Join the LIVE Presidential debate coverage. Starting tonight at 6:00 pm
-    
-
 Privacy Policy Redding.com Privacy Policy
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
@@ -270,25 +267,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Body found on riverbank near Sundial Bridge identified Updated 10/22/2012 at 9:54 a.m. 26 comments
-*   Hilltop closed between Presidio and Mistletoe in Redding Published 10/22/2012 at 12:24 p.m. 5 comments
-*   Dead man found at California shooting was wearing armor Published 10/22/2012 at 4:00 a.m. 18 comments
-*   RedBlue America: Can lost manufacturing jobs be restored? Published 10/22/2012 at 12:00 a.m. 137 comments
-*   Two teens arrested on suspicion of attempted carjacking Updated 10/22/2012 at 6:05 a.m. 31 comments
+*   UPDATE: Duenas to stand trial for wife's murder Updated 10/23/2012 at 6:28 p.m. 36 comments
+*   Roy Hutchings: What's he want to change? Published 10/23/2012 at 12:00 a.m. 136 comments
+*   Four arrested in Tehama County drug enforcement operation Published 10/23/2012 at 11:01 a.m. 24 comments
+*   Male beluga whale mimics human speech Published 10/23/2012 at 4:00 a.m. 27 comments
+*   Body found on riverbank near Sundial Bridge identified Updated 10/22/2012 at 9:54 a.m. 31 comments
 
-Photo Galleries Red Bluff men get marijuana back Foothill vs. Chico Farewell Halloween Horse Show at…
+Photo Galleries Red Bluff men get marijuana back Farewell Halloween Horse Show at… Think Pink
 
-*   Rally against federal birth control mandate planned today Published 10/20/2012 at 4:00 a.m. 188 comments
-*   RedBlue America: Can lost manufacturing jobs be restored? Published 10/22/2012 at 12:00 a.m. 137 comments
-*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 112 comments
+*   RedBlue America: Can lost manufacturing jobs be restored? Published 10/22/2012 at 12:00 a.m. 147 comments
+*   Roy Hutchings: What's he want to change? Published 10/23/2012 at 12:00 a.m. 136 comments
+*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 114 comments
 *   Redding residents join nationwide rally against Obamacare contraception mandate Published 10/20/2012 at 9:30 p.m. 60 comments
-*   D-II Heavyweight: Sutter outlasts Enterprise 34-27 Published 10/19/2012 at 11:58 p.m. 57 comments
+*   Mary Thomas: Who's fighting to stop labels? Published 10/22/2012 at 12:00 a.m. 46 comments
 
 *   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
 *   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 89 comments
-*   UPDATED: Two suspects arrested in connection with Hayfork murder, deputies say Published 10/13/2012 at 10:14 a.m. 34 comments
 *   Dog trainer teaches empathy at Tehama juvenile hall Published 10/15/2012 at 11:40 p.m. 9 comments
 *   UPDATED: Montague woman, 30, killed by husband, deputies say Published 10/18/2012 at 4:13 p.m. 16 comments
+*   Despite high unemployment, few sign up for Smart job training program Published 10/18/2012 at 12:08 a.m. 37 comments
 
 Weather
 
@@ -296,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 48° Overcast Wind: S 9mph Today 54° 47° Tue 05:00 PM Mostly Cloudy Showers Temp: 54° Wed 05:00 AM Mostly Cloudy Showers Temp: 41° Wed 05:00 PM Mostly Cloudy Showers Temp: 56°
-
-Feels Like: 54°
-
-Humidity: 59%
-
-Precip: 57%
-
-Feels Like: 39°
-
-Humidity: 93%
-
-Precip: 88%
+Currently 48° Light Rain Wind: S 9mph Today 57° 44° Wed 05:00 PM Mostly Cloudy Showers Temp: 56° Thu 05:00 AM Partly Cloudy Temp: 48° Thu 05:00 PM Partly Sunny Temp: 64°
 
 Feels Like: 56°
 
-Humidity: 64%
+Humidity: 62%
 
-Precip: 75%
+Precip: 90%
+
+Feels Like: 48°
+
+Humidity: 89%
+
+Precip: 34%
+
+Feels Like: 64°
+
+Humidity: 37%
+
+Precip: 6%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -330,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Tuesday Oct 23
 *   Wednesday Oct 24
 *   Thursday Oct 25
+*   Friday Oct 26
 *   More BROWSE Icon
-
-*   Redding Rambling A’s Model A Ford Club of America meeting Holiday Quality Foods - Placer noon
-*   HVACR - Motor Control Shasta Builder's Exchange 6 p.m.
-*   NAMI Shasta County Basics six-week class Contact for Location Information 6 p.m.
-*   Ties to the Land, Agriculture and Forest Landowner Succession Planning Workshop Inter-Mountain Fair grounds 6 p.m.
-*   Loretta Lynn Cascade Theatre 7:30 p.m.
-
-More Events »
 
 *   OctoberFeast! Connecting Farms and Families - A Benefit for People of Progress First United Methodist Church, Redding 5:30 p.m.
 *   Clutter Support Group Redding Library 6 p.m.
@@ -359,29 +348,37 @@ More Events »
 
 More Events »
 
+*   Artist's Submissions for Juried Autumn Art Show Carter House Art Gallery
+*   Creature Feature Program Turtle Bay Exploration Park 1:30 p.m.
+*   Fall Colors Bike Ride, Bizz Johnson Trail near Susanville Biz Johnson Trail Susanville 2 p.m.
+*   Sixth annual Redding Theatre Company Masquerade Ball TBS Ranch 6 p.m.
+*   'Beneath an Autumn Moon' Cemetery Tours Shasta State Historic Park 6:30 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Fantasy Fountain
+*   Missed the Presidential Debate Last Night?
     
-    The community painting project starts October 19th! Have you registered yet?
+    Catch up and watch it here.
     
     20 Under 40
     
     Nominate young leaders in the North State! Nomination deadline November. 6th
     
-    Join the Live Presidential Debate
+    Fantasy Fountain
     
-    Starts tonight at 6 pm
+    The community painting project starts October 19th! Have you registered yet?
     
-*   Election Coverage
-    
-    Voter resources, stories, photos, videos and more.
-    
-    The results are in!
+*   The results are in!
     
     See who our readers picked as the Best of the North State.
+    
+    Election Coverage
+    
+    Voter resources, stories, photos, videos and more.
     
     Weather Radio
     
