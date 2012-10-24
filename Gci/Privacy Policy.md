@@ -86,11 +86,12 @@ Get Alaska's largest statewide coverage! »
     *   Industry Solutions
     *   Industrial Telcom
     *   Carrier Access
-*   Regulatory Information
+*   Regulatory
     *   Public Notices
-    *   Carrier Common Line Reports
-    *   Tariff Sheets
-    *   Sweepstakes
+    *   Tariffs
+    *   Rate Postings
+    *   CCL Reports
+    *   Sweepstakes Rules
 *   About GCI
     *   Contact Us
     *   Executive Team
