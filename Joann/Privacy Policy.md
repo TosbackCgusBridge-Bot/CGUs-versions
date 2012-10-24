@@ -224,10 +224,11 @@ Customer Service
 *   shipping info
 *   track order
 *   teacher rewards
-*   discount cards
+*   vip program
+*   student program
+*   non-profit program
 *   return policy
 *   FAQs
-*   product recall
 
 Safety &. Security
 
@@ -235,7 +236,8 @@ Safety &. Security
 *   terms &. conditions
 *   privacy policy
 *   California Supply Chain Disclosure
-*   : 10250
+*   product recall
+*   : 10150
 
 *   Find Jo-Ann on:
 *   Blogger
@@ -245,4 +247,4 @@ Safety &. Security
 *   You Tube
 *   Art Fire
 
-1-888-739-4120 | E-mail Customer Service© 2007-2012 Joann.com, LLC. all rights reserved. Joann.com®  is a registered trademark of Joann.com, LLC.®
+1-888-739-4120 | E-mail Customer Service© 2007-2012 JO-ANN STORES, INC. all rights reserved. JOANN.COM®  is a registered trademark of Jo-Ann Stores, Inc.
