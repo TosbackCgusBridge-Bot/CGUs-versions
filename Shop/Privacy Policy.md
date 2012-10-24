@@ -301,8 +301,8 @@ Women's
 *   Dresses &. Skirts
 *   Branded &. Basic Denim
 *   Bullhead Black Denim
-*   Shorts
 *   Camis
+*   Essential Tops
 
 Don't miss Brands
 
@@ -449,7 +449,5 @@ Social
 *   Flickr
 *   Twitter
 *   Pinterest
-*   Tubmlr
-*   Instagram
 
 ©2012 Pacific Sunwear of California Inc. All rights reserved.
