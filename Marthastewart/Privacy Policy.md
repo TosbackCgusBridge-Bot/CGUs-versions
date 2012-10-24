@@ -159,6 +159,8 @@ Read more at Marthastewart.com: Privacy Policy
 
 Subscribe to our magazines and save!
 
+Give a Gift Subscription Today!
+
 *   Browse this Site
     *   Food
     *   Entertaining
