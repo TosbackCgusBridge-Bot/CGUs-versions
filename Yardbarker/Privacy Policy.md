@@ -140,6 +140,7 @@ REALTIME RUMORS, GOSSIP, OPINIONS AND HUMOR FROM THE BEST SPORTS BLOGS SPORTS BL
     *   Winnipeg Jets
 *   NCAAF
 *   NCAAB
+*   SOCCER
 *   MMA
 *   FANTASY
 *   MORE...  
@@ -173,7 +174,6 @@ REALTIME RUMORS, GOSSIP, OPINIONS AND HUMOR FROM THE BEST SPORTS BLOGS SPORTS BL
     *   Skateboarding
     *   Skiing
     *   Snowboarding
-    *   Soccer
     *   Softball
     *   Surfing
     *   Swimming
@@ -184,7 +184,6 @@ REALTIME RUMORS, GOSSIP, OPINIONS AND HUMOR FROM THE BEST SPORTS BLOGS SPORTS BL
     *   WWE
 *   FORUMS
 *   TICKETS
-*   TAUNTR
 *   BLOGGERS
 
 Yardbarker, Inc. Privacy Policy  
@@ -259,7 +258,7 @@ From time to time we may make changes to our privacy policy If we make changes, 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: info@yardbarker.com (625 2nd Street, 4th Floor, San Francisco CA 94107).
 
-  Latest Rumors Howard: I've never been drunk Longhorn Network bad for Texas? Did Belichick break NFL rule? Jays GM annoyed with Red Sox Wyoming coach fined $50K for rant Has the Longhorn Network become a disadvantage for Texas? Rockets Day Video: 'Dream' destroys 'The Admiral' Bruins' Marc Savard: No return anytime soon Howard solid in return The Weekly Wrap: Week 8 Edition Giants' Scutaro having the time of his life Hitting is real culprit behind Cardinals' demise Lions' Burleson done for year with broken leg Veteran defense carries Bears past Lions Giants rout Cardinals 9-0 to punch ticket to World Series Justin Schultz Making An Impression Early On This Season MLB Playoffs: 15 Things To Watch For In The 2012 World Series Week 7 Review: 10 NFL Injuries of Note 2011 NFL Quarterback Class Struggles Washington Nationals: 2012 Position Player Grades Tons of new ‘Iron Man 3′ pictures Pretty much the most annoying fan ever GIFterpiece Theatre: Crying over Jessica Biel, inappropriate children and more Guards ‘Silver Lining,’ your Spotify Song of the Day This is why the Bills can’t have nice things Today's Best Stuff
+  Latest Rumors Armstrong removes 'Tour de France winner' from bio Mizzou employee paid big strip club bill on school card USM QB's mom arrested at game Marlins P upset with Guillen firing Verlander asked if he's dating Upton Maurice Jones-Drew does not have Lisfranc injury NBA GM's really love Miami and the Lakers Hornets Day Video: Hornets win 2012 NBA lottery NFL week 7 rock stars Welcome to Hornets Day Report: Padres release Owings Clippers' Hill out 'a couple of weeks' with knee bruise Royals' Myers completes sweep of top minor league honors Jerry Jones' mother dies at 90 Buffalo stadium proposal doesn't have Bills' blessing Harrington Out For Revenge In Bermuda Broncos vs Saints NFL Week 8 Preview New York Mets R.A. Dickey, Fans Await “Decision 2012″ Pitt loses Commitment from Corey Clement Can Michael Kidd-Gilchrist win Rookie of the Year? ‘Sons of Anarchy’ season 5 episode 7 recap: Ladies Man GIFterpiece Theatre: Halle Berry and a DWTS blooper Wild Belle ‘Keep You,’ Your Spotify Song of the Day Watch some guy connect every video game ever made 9 vodkas even Mitt Romney can’t afford Today's Best Stuff
 
 *   Yardbarker Barklogs
 *   Most Popular Stories
@@ -269,15 +268,15 @@ If you have any questions about this privacy statement, the practices of this si
 
 For Bloggers
 
-Join the Yardbarker Network (YBN) for more promotion, traffic, and money.
+Join the Yardbarker Network for more promotion, traffic, and money.
 
-*   Join the YBN
-*   YBNMedia
+*   Join the Yardbarker Network
+*   Yardbarker Media
 *   For Advertisers
 *   For Publishers
-*   YBN Roster
-*   YBN Widget
-*   YBN Blog
+*   Yardbarker Network Roster
+*   Yardbarker Network Widget
+*   Yardbarker Network Blog
 
 Company Info
 
