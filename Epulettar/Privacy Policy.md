@@ -69,6 +69,8 @@ Az adatok felvétele, rögzítése és kezelése során az Alepelveknél rögzí
 
 épülettár hírlevél Email cím: Fel  Le mehet új cég
 
+kiss zoltán ferenc
+
 vaillant saunier duval kft.
 
 dajar kft.
@@ -76,8 +78,6 @@ dajar kft.
 práger mária
 
 lajtai zoltán
-
-est hungary kft.
 
 még több
 
