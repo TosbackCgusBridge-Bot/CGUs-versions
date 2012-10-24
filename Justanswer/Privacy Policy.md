@@ -84,7 +84,7 @@ JustAnswer reserves the right to update this policy at any time without prior no
 **Contact Us**  
 If you have questions or suggestions regarding this Privacy Policy, please contact us by clicking HERE or mail us at P.O. Box 29045, San Francisco, CA 94129.
 
-NOTICE: Click here for important information about safe surfing from the Federal Trade Commission.
+NOTICE: Click here for important information about safe surfing.
 
 *   About Us
 *   How It Works
