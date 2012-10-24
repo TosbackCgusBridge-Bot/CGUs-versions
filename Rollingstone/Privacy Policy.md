@@ -30,6 +30,8 @@ Rolling Stone Skip to the content.
 *   •
 *   Random Notes
 *   •
+*   RS on RDIO
+*   •
 *   Bruce Springsteen in RS
 *   •
 *   Voodoo Festival
