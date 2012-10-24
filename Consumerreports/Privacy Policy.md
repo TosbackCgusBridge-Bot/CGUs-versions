@@ -283,12 +283,13 @@ Any disputes regarding this Privacy Policy are subject to our User Agreement and
      
 E-mail Newsletters **FREE** e-mail Newsletters!  
 Choose from safety, health, cars, and more! **Already signed-up?**  
-Manage your newsletters here too. Consumer News LEAD TEST KIT REVIEWS  
-Lead paint remains a health threat in millions of homes Kids are most vulnerable—exposure can affect their brain and nervous system. BANK FEES  
-Zombie bank accounts feed on your finances Most banks make it too hard for customers to close an account. CAMCORDER REVIEWS  
-Shoot better video of the festivities this Halloween Tips and tricks to get quality results in dimly lighted situations. SEDAN REVIEWS  
-New Cadillac ATS sets sights on European sports sedans The fun-to-drive ATS delivered sporty and agile handling at our track. MONEY &. SHOPPING  
-5 tricks for scaring up Halloween bargains Consumers will spend $8 billion on candy, costumes, and decorations. Read More Connect Discuss products and safety with  
+Manage your newsletters here too. Consumer News TABLET COMPUTER REVIEWS  
+iPad mini, $329, makes big splash in small-tablet market It's pricier than other 7-inch tablets but offers more screen real estate. CARS  
+New 2013 Ford Fusion makes a good first impression The controlled ride is supple, and the agile handling has a sporty demeanor. SAFETY &. RECALLS  
+'Company Doe' can stay anonymous in CPSC lawsuit The agency can't post details of an injury related to the company's product. HALLOWEEN 2012  
+Tips to keep your kids safe this Halloween Trick-or-treating is lots of fun, but it can also present some hazards. BANK FEES  
+Zombie bank accounts feed on your finances Most banks make it too hard for customers to close an account. SAFETY &. RECALLS  
+Super-strong magnetic toys injured dozens, doctors say When swallowed, the toys can bore holes in the stomach or intestines. Read More Connect Discuss products and safety with  
 subscribers and fans Follow us on: Mobile
 
 Get Ratings on the go and compare  
