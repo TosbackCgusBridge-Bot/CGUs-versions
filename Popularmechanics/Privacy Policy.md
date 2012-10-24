@@ -1,6 +1,6 @@
 / Give a Gift / Customer Service / Promotions / Blogs / Video / /
 
-Try: Hottest Cars / Best DIY Tips / Greatest Gadgets Ever Automotive
+Try: Painting Secrets / Home Shopping Tips / Best Gadgets Ever Automotive
 
 *   Road Test
 *   Auto News
@@ -80,11 +80,13 @@ Enter to Win a $10,000 in the Cool Tools Giveaway!
 
 See All Giveaways More From Popular Mechanics
 
-*   Best New Cars For 2013
-*   100 Hottest Cars of All Time
+*   101 Gadgets That Changed Our World
+*   19 Must-Have Gadgets and Electronics For 2012
+*   13 Painting Secrets the Pros Wont Tell You
+*   9 Best Oscillating Tools We Put To The Test
 *   10 Jobs You Can Do With A Multitool
-*   Your Year-Round Plan for the Perfect Lawn
-*   The Quick and Easy Guide to Fertilizing Your Lawn
+*   8 Tips For Shopping At Home Centers
+*   DIY: How To Install A New Skylight
 
 From Our Partners
 
@@ -162,7 +164,7 @@ Features
 *   Home Inspection Checklist
 *   Automotive News
 
-Try: Hottest Cars / Best DIY Tips / Greatest Gadgets Ever About  
+Try: Painting Secrets / Home Shopping Tips / Best Gadgets Ever About  
 Popular Mechanics
 
 *   About Us
@@ -185,7 +187,7 @@ Popularmechanics.com
 *   Outdoors
 *   DIY Central
 
-STUFF MEN LIKE How to Build a Car Home Inspection Checklist Diesel Truck Reviews DIY Solar Panels Science Fiction Movies Easy Breakfast Recipes Dodge Charger Review Synthetic Oil Review Most Fuel Efficient Cars Easy Recipes for Men How to Make Pancakes from Scratch REVIEWS Honda CR-V Review Car Reviews Tuxedo Styles &. Reviews Upcoming Movies 2012 Zero Turn Mowers Raised Garden Beds Leaf Blower Reviews Ford Focus Review Mens Hairstyles iPhone 5 Cases Organic Foods HOW TO How to Tie a Tie How to Grow a Beard Pro Painting Tips Carve a Turkey How to Build a Shed How to Iron Painting Kitchen Cabinets How to Make Beer How to Install Drywall Shirt and Tie Combos New Cars 2012 &. 2013 TRENDING Halloween Movies Fisker Karma Automotive News Political News 2012 SUV with Best Gas Mileage Best Life Quotes Helium Shortage 2012 iPhone 5 Features Great American Beer Festival Mens Fashion Super Foods
+STUFF MEN LIKE How to Build a Car Home Inspection Checklist Diesel Truck Reviews DIY Solar Panels Science Fiction Movies Easy Breakfast Recipes Dodge Charger Review Synthetic Oil Review Most Fuel Efficient Cars Easy Recipes for Men How to Make Pancakes from Scratch REVIEWS Honda CR-V Review Car Reviews Tuxedo Styles &. Reviews Upcoming Movies 2012 Zero Turn Mowers Raised Garden Beds Leaf Blower Reviews Ford Focus Review Mens Hairstyles iPhone 5 Cases Organic Foods HOW TO How to Tie a Tie How to Grow a Beard Pro Painting Tips Carve a Turkey How to Build a Shed How to Iron Painting Kitchen Cabinets How to Make Beer How to Install Drywall Shirt and Tie Combos New Cars 2012 &. 2013 TRENDING DIY Thanksgiving Desserts Fisker Karma Automotive News Political News 2012 SUV with Best Gas Mileage Best Life Quotes Helium Shortage 2012 iPhone 5 Features Great American Beer Festival Mens Fashion Best Thanksgiving Recipes
 
 ©2012 Hearst Communication, Inc. All Rights Reserved. Being Green /Why did I get this ad?
 
