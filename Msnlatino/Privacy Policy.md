@@ -688,17 +688,17 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¿Ángel o Demonio?
+*   Pequeño galán
     
-    Descubre las dos caras de Pablo Escobar.  
+    ¡Conóce al talentoso Jorge Eduardo!  
     
-*   La dieta de Hollywood
+*   ¡Luce tu mejor corte!
     
-    Las famosas revelan cómo mantienen la figura  
+    Cada cabello es un mundo  
     
-*   ¡Sensualidad que mata!
+*   ¡Provócate!
     
-    Elizabeth tiene una dulzura que enloquece.
+    Con la piel de Maritza Rodríguez y su sensualidad.
     
 *   Secretos de belleza
     
