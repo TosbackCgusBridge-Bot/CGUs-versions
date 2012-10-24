@@ -30,11 +30,11 @@ My Account
     *   Radio Shack
     *   At
     *   Sears
+    *   Tax
     *   T Mobile
     *   Www.yahoo.com
-    *   Tax
-    *   Pressure Cookers
     *   Truck
+    *   Pressure Cookers
     *   Ipod
     *   Att
     *   Contact
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1524 Local Deals
+*   1515 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
