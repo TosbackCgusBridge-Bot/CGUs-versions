@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-Dutch government proposes legislation that would allow cyberattacks against...everybody: https://eff.org/r.4apk
+Small business owner asks court to unseal warrants used in Megaupload seizure in quest to get his data back https://eff.org/r.4apn
 
-Oct 22 @ 5:22pm
+Oct 23 @ 2:04pm
 
-EFF &. @EarthRightsIntl fight Chevron's demands for years of ID and location info about environmental advocates https://eff.org/r.5apj
+On the dangers of pressuring Internet companies to balance free speech with other interests, by EFF's @TrevorTimm: https://eff.org/r.a8pr
 
-Oct 22 @ 4:47pm
+Oct 23 @ 1:51pm
 
 *   Twitter
 *   Facebook
