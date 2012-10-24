@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Rob Down Under »
+Hot Pics! Partners in Comedy »
 
-Top Stories1.  Kim Wears Bridal-Inspired Dress in Venice With Kanye on B-Day »
-2.  Melanie Griffith: People Tell Me "I Look Horrible" »
-3.  Jessica Simpson Shows Off Leaner Legs in Black Shorts During L.A. Outing »
-4.  PICTURE: Reese Witherspoon Cheers on Son Deacon at Soccer Game Post-Baby »
-5.  Jessica Biel's Pink-and-White Wedding Dress: All the Details! »
+Top Stories1.  Megan Fox Models Skimpy Lingerie While Four Months Pregnant! »
+2.  Jennifer Lopez Suffers Another Nip Slip During London Concert »
+3.  Ireland Baldwin, 16, Models Bikini Bod for Mom Kim Basinger »
+4.  Exclusive Teen Mom 2 Star Leah Messer Is Pregnant With Third Child »
+5.  Kim Wears Bridal-Inspired Dress in Venice With Kanye on B-Day »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Tori's Miracle Baby
 
 Inside Us Weekly
 
-*   Style Kim Wears Bridal-Inspired Dress in Venice Wit
+*   Style PICTURE: Katie Holmes Rocks Form-Fitting LBD
 *   Beauty Melanie Griffith: People Tell Me "I Look Horr
-*   Moms Kingston, Zuma Rossdale Dress as Vampires for
-*   Body Christina Aguilera Offered $3 Million to Prom  
-*   Entertainment Injured Melissa Rycroft Pushes Through Neck P  
+*   Moms NEW PICTURE: Kristin Cavallari Dresses Son Ca
+*   Body Ireland Baldwin, 16, Models Bikini Bod for Mo  
+*   Entertainment Honey Boo Boo: I "Hate" Fans Who Approach Me  
 
 *   US WEEKLY
 *   Celebrity News
