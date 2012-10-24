@@ -222,9 +222,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Nail Klub: Googly Eye Nails for a Hip Halloween!
+    latest blog posts*   Fan Fare: Imaginary Fashion Blogger Cecily Wears Eva Franco
+    *   Nail Klub: Googly Eye Nails for a Hip Halloween!
     *   All the Design thatâs Fit to Pin: Favorites from Our Design of the Times Pinterest Board
-    *   Fave Finds: Kristinaâs Darling Dotted Dress &. Silver Pumps
     
     *   modcloth blog
     *   In Other Words
