@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** Final US presidential debate: Obama and Romney on foreign policy - as it happened
-2.  2\. **News:** Obama and Romney clash over foreign policy in final presidential debate
-3.  3\. **News:** Pussy Riot band members sent to remote prison camps
-4.  4\. **Environment:** Talking beluga whale named Noc is revealed
-5.  5\. **Comment:** Presidential debate on foreign policy: live Glenn Greenwald commentary
+1.  1.  **Technology:** iPad mini: Apple launches smaller tablet
+2.  2\. **Film:** Skyfall: new James Bond film premiere held in London
+3.  3\. **Education:** Dear Sir, I'm sorry: letters of apology to former teachers
+4.  4\. **Fashion:** Victoria's Secret v Agent Provocateur: lingerie stores turn up the heat
+5.  5\. **Football:** Manchester United 3-2 Braga: five things we learned
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Money:** Five reasons why you might be a mortgage prisoner – and how to escape
-2.  **Environment:** Talking whale named Noc mimics human speech - video
-3.  **Environment:** Talking beluga whale named Noc is revealed
-4.  **News:** Final US presidential debate: Obama and Romney on foreign policy - as it happened
-5.  **News:** Final US presidential debate: Obama and Romney duel on foreign policy - video
+1.  **Sport:** Tour de France: Three key stages in 2013 race - interactive
+2.  **Technology:** iPad mini unveiled by Apple - video
+3.  **Sport:** Centenary Tour de France: this could be the hardest finish ever
+4.  **Sport:** Buckingham Palace hosts Paralympic and Olympic medallists – in pictures
+5.  **Politics:** Prisoner voting row and PMQs: Politics live blog
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Syria crisis: UN mulls peacekeepers but ceasefire hopes fade - live updates
-2.  2\. Badger cull statement: Politics live blog
-3.  3\. Picture desk live: the best news pictures of the day
-4.  4\. William Hague urges European ministers to boost trade - video
-5.  5\. Final presidential debate: Obama and Romney in gifs
+1.  1.  Jimmy Savile: DPP to review 2009 police evidence
+2.  2\. UK and Welsh governments agree funding deal
+3.  3\. Prisoner voting row and PMQs: Politics live blog
+4.  4\. Gangam Style rapper Psy teaches Ban Ki-Moon to dance - video
+5.  5\. Scottish theatre's play for independence
 6.  All today's stories
 
 On the Guardian today
 
-1.  Comment is free Presidential debate on foreign policy: live Glenn Greenwald commentary
-2.  Life and style Mapping the body: the temple
-3.  World news Pussy Riot band members sent to remote prison camps
-4.  Comment is free Obama fires and Romney falters but third debate fails to find a flourish
-5.  World news Final US presidential debate: Obama and Romney on foreign policy - as it happened
-6.  World news Obama and Romney clash over foreign policy in final presidential debate
+1.  Life and style Mapping the body: the temple
+2.  Comment is free Joe Klein's sociopathic defense of drone killings of children
+3.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+4.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+5.  Football Barcelona and Real Madrid draw El Clásico thriller at Camp Nou
+6.  Art and design Man who defaced Tate Modern's Rothko canvas says he's added value
 
 *   License/buy our content
 |*   Privacy policy
