@@ -95,15 +95,15 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Country Living advertisement
 
-*   **holiday**
+*   **halloween**
 
-*   **pumpkin**
+*   **christmas**
 
-*   **soup**
+*   **kitchens**
 
-*   **pasta**
+*   **living rooms**
 
-*   **pecan dessert**
+*   **glassware pottery**
 
 Home &. Decorating
 
