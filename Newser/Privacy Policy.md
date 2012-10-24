@@ -5,13 +5,13 @@
     *   Election 2012
     *   Mitt Romney 2012
     *   Mitt Romney
-    *   President Obama
     *   Obama 2012
-    *   entertainment
-    *   timeless news
-    *   strange stuff
-    *   celebrity
+    *   President Obama
     *   presidential debate
+    *   entertainment
+    *   strange stuff
+    *   timeless news
+    *   Romney 2012
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -119,63 +119,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Back to the Future
-*   Want to Improve the Debates? Stop Giving the Lame Slots to...
-*   Weaponry on the Cutting Edge
+*   Forget Chinese Currency Manipulation
+*   Donât Miss the B\_\_\_\_ in Apartment 23
+*   The Popular Kids Who Tortured You in High School Are Now...
 
 More from Slate »
 
-*   BAD LIAR'S DAY OFF
-*   Star Trek Klingon Wedding
-*   9-Year-Old Girl Shot After Being Mistaken For Skunk: Cops
+*   THIS IS YOUR BRAIN ON...
+*   'My Little Pony' Not Just For Girls Anymore: Meet The...
+*   The 8 Most Haunted Houses in New York (PHOTOS)
 
 More from HuffPost Weird »
 
-*   Behind The Scenes Of Midoriâs Party In Hollywood Event With...
-*   Alexa Chung, Miranda July &. Tavi Sing âYou Donât Own Meâ To...
-*   No âBlue Ivyâ Trademark Jay-Z And Beyonce
+*   Another Male Politician Says Pregnancy From Rape Is A...
+*   Eva Longoria And Mark Sanchez Split
+*   Now And Then: Getting Women To Vote
 
 More from The Frisky »
 
-*   The Fark-inspired fundraiser for the Youngstown, Ohio Saint...
-*   Buzzfeed hates the word "moist" too \[Misc\]
-*   Frank Tanabe, WWII Veteran and Japanese internment camp...
+*   Woman wins national car parking championship \[Ironic\]
+*   If you and your family tortured and murdered a girl 47...
+*   Good: Couple has healthy baby boy. Bad: Dad has to deliver...
 
 More from Fark »
 
-*   Fact-checking the final Obama-Romney debate: Who told the...
-*   Forget foreign policy. This election is about the economy.
-*   President Obama vs. Mitt Romney: Who won the final...
+*   Did Richard Mourdock's rape comment cost the GOP Indiana's...
+*   Mitt Romney's momentum: An illusion conjured by his...
+*   No debate about drones
 
 More from The Week »
 
-*   Heilemann on Charlie Rose: Romney Sheds Warmonger Image in...
-*   Schieffer Praised for Being the Most Moderate of the Debate...
-*   Video Recap: The Final Presidential Debate
+*   Will Bloomberg Use Super-PAC to Back 2013 Mayoral Candidate?
+*   Obama Stays Off the Record in Apparently Great Interview...
+*   Todd Akin Sticks It to Reporter by Publishing His...
 
 More from Daily Intel »
 
-*   Fit For Office: Who's The Fittest President Of All Time?
-*   A Cancer Survivor's Reaction to Lance Armstrong's Downfall
-*   Clinical Trials: With Informed Samaritans, a Key Way to...
+*   Doing _This_ For 10 Minutes Could Save 3 Lives
+*   In the Minds of Mothers: How Mental Health Impacts Mothers...
+*   Exercise Increases Productivity
 
 More from HuffPost Health »
 
-*   FOX Renews 'X Factor' for Season 3: 'Expect Fireworks,'...
-*   'Revenge' Star Emily VanCamp Flaunts Major Cleavage in 'GQ'...
-*   Jessica Biel Shows Off Wedding Ring After Marrying Justin...
+*   'Pretty Little Liars' Halloween Special: 6 Things to Expect...
+*   Jennifer Lopez, Nicki Minaj Suffer Wardrobe Malfunctions:...
+*   Courtney Stodden Tries on Revealing Costumes While...
 
 More from Celebuzz »
 
-*   5 of Mitt Romney's Biggest 'History Airbrushings' in Monday...
-*   Post-Debate Blogger Google Hangout: Who Cares About Foreign...
-*   Sandusky 'Victim No. 1' Admits Being 'Extremely Suicidal'...
+*   Alleged Hate Crime Victim May Have Set Herself on Fire, Not...
+*   Republican Senate Candidate Richard Mourdock Says Rape...
+*   One Mom's Work Travel Makes for a Magical Homecoming...
 
 More from The Stir »
 
-*   Pebbles Boulders, Alpha Bits now Safer for Children
-*   The Spot: Heart of Darkness
-*   W+K Plays for the Big Dough
+*   Data Points: Responsible Youth
+*   I Spy a Better Buy
+*   After Newsweek, U.S. News Offers Different Model
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
