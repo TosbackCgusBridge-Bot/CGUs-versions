@@ -143,27 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Vitamin K Vitamins Resources
+*   Aerobic Exercise In Water Resources
 
   
-Stay in Touch With SparkPeople **Slideshow: 11 Low-Cal Halloween Treats**
+Stay in Touch With SparkPeople **The Secrets of Eating Right and Living Longer**
 
-These Halloween treats are so low in calories that you'll think you're being tricked!
+"Super foods" have the ability to strengthen the immune system, fight disease, and lower body fat and cholesterol.
 
 Read More
 
 *   How do you maintain your exercise long-term?
-*   Specific Tips to get through the Weekend
-*   Do you have a goal after weight loss?
-*   What's your "go to" type of workout?
+*   Healthy snack ideas for under 100 calories?
+*   "New to me" foods
 *   Healthy Halloween snacks
+*   Who Motivates you on Sparkpeople?
 
-View Demo **Lying Adduction**  
-Target your inner thighs with this comfortable exercise. **Chef Meg's Taco Seasoning**  
-Submitted By: **CHEF\_MEG**
+View Demo **Calf Stretch**  
+The perfect stretch for sore calves **World's Best Spinach and Artichoke Dip**  
+Submitted By: **SP\_STEPF**
 
-Ditch those packets from the supermarket, and whip up a batch of this simple, tasty taco seasoning!  
-Full Recipe
+This is seriously the world's best spinach and artichoke dip! It's creamy and fairly low fat. This slimmed down version of your favorite dip is easy to make--and it's light enough for you to load up on it! This can also become a decadent pasta sauce. (As a sauce, it makes 10 servings. You might need to thin it a bit with cooking water from the pasta.) Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
