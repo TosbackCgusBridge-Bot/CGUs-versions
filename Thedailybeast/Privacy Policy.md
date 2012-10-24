@@ -133,50 +133,50 @@ If you have any questions or concerns about this privacy policy, you may contact
 
 Stories We Like
 
-1.  Us Weekly First Photo: Newly Weds Justin Timberlake &. Jessica Biel in Italy
-2.  Huffington Post Politics 'October Surprise' Has Observers Mystified Ahead of Debate
-3.  Buzzfeed West Point Cadets Dance to 'Gangnam Style'
-4.  Pop Sugar Ashton Kutcher and Mila Kunis Start Their Day Side by Side
-5.  Us Weekly New Mom Anna Faris Shows Off Post-Baby Body
-6.  Your Tango Are You a Nag? Take Our Survey
-7.  Buzzfeed Shockingly Unshocking Photos From Inside the Factory That Makes Your iPhone
-8.  Buzz Sugar Pop Culture Halloween: Celebrity Costume Ideas
-9.  Huffington Post Politics Obama's Running Out of Time
+1.  Us Weekly Justin Timberlake 'Wasn't Feeling Well' on Wedding Day
+2.  Your Tango 10 Most Ridiculous Sexy Halloween Costumes
+3.  Huffington Post Politics Romney Performance Falls Flat With Target Audience
+4.  Mental Floss 10 Things You Didn't Know about Teeth
+5.  Buzzfeed Meet the Most Incredible 8-Year-Old Football Player in the World
+6.  Pop Sugar Aziz Ansari Likens Marriage to Sweater Ownership
+7.  Us Weekly Photo: Megan Fox Models Skimpy Underwear While Four Months Pregnant
+8.  Buzzfeed iPad 3 Customers Screwed By Apple
+9.  Huffington Post Politics Odds Jump For Obama After Big Performance
 
   Most Popular
 
-1.  The Man Who Could Beat Bachmann
-2.  The President Who Would Be King
-3.  Obama Vs. Romney Part 3: Who Lied?
-4.  Google and Microsoft Are Mature Businesses
-5.  Obama Slams Passive Mitt As ‘Reckless’
+1.  Killed Over a Bike?
+2.  The Man Who Could Beat Bachmann
+3.  My Proof of Heaven
+4.  Kim Kardashian's Not a Fan of Underwear, Shows Off Crack
+5.  Inside the Pussy Rioters’ Prisons
 
   Other News Entertainment
 
-*   Voting: Do These Celebs Use Fillers?
-*   Week in Photos for Oct. 19, 2012
-*   Scariest Celeb Fashion 2012
+*   Celebrities' Presidential Endorsements
+*   Stars Whose Homes Caught Fire
+*   Richest Stars Under 30
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘RuPaul’s All Stars Drag Race’ react: That twist! Plus: 20 other notable moments from the season premiere
-*   Carrie Ann Inaba falls off chair while judging ‘Dancing With the Stars’ — HILARIOUS GIF
-*   Who made the better Peter Berg reference in final presidential debate?
+*   ‘New Girl’: Misfortune Cookie (a.k.a. Gigglebangs Riceball)
+*   ‘Pretty Little Liars’ Halloween episode react: 6 burning questions
+*   ‘Sons of Anarchy’ recap: Another wild ride
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Mitt Romney Runs on Peace
-*   Obama Attacks Again And Again In Last Debate
-*   Why Mitt Romney Kept Talking About Mali
+*   Third-Party Candidates Long On Substance, Short On Chances
+*   Akin Goes To War With The Press
+*   6 Things We Learned From Facebook's Earnings Report
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Quote of the Day
-*   Millions Have Already Voted
-*   More Reaction to the Third Presidential Debate
+*   Woman Writing Book About Affair with Herman Cain
+*   Latest Swing State Polls
+*   Murphy Opens Lead in Connecticut
 *   **Get More from Political Wire**
 
 The Daily Beast
