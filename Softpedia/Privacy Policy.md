@@ -31,40 +31,37 @@ WINDOWS CATEGORIES:
 **MEET THE EDITORS** >>. Find us on Google+ WEEK'S BEST*   Microsoft Security...
 *   Nero \[DISCOUNT: 15...
 *   Kaspersky ONE \[$30...
-*   Video Watermark Pr...
+*   Undelete Plus \[SOF...
+*   Glary Utilities Pr...
+*   Backup4all Pro \[DI...
+*   WebcamMax \[DISCOUN...
 *   Acronis True Image...
 *   Windows 8 RTM Buil...
 *   Ashampoo UnInstall...
-*   Parallels Workstat...
-*   Glary Utilities Pr...
-*   Undelete Plus \[SOF...
-7-DAY TOP DOWNLOAD # Program Null Logics Windows  
-Service Commander  
-1.0.600.2009  
-131,824 downloads Adguard Web Filter  
+7-DAY TOP DOWNLOAD # Program Adguard Web Filter  
 5.4.425.2526  
-123,328 downloads MSN Password  
-Recovery  
-1.0.115.2012  
-123,044 downloads Nokia PC Suite  
+121,370 downloads Nokia PC Suite  
 7.1.180.94  
-52,933 downloads Samsung PC Studio  
+54,109 downloads Samsung PC Studio  
 7.2.24.9  
-39,166 downloads Nero 9 Free  
+39,860 downloads Nero 9 Free  
 9.4.12.3d  
-33,393 downloads Microsoft Office  
+33,415 downloads Adobe Flash Player  
+11.4.402.287 /  
+11.5.500.97 Beta 4  
+32,464 downloads Microsoft Office  
 2013 15.0.4128.1014  
 Preview / 2010  
 14.0.6023.1000  
 Service Pack 1  
-32,420 downloads Adobe Flash Player  
-11.4.402.287 /  
-11.5.500.97 Beta 4  
-31,064 downloads Internet Download  
+31,618 downloads Internet Download  
 Manager 6.12 Build  
 22  
-27,339 downloads UMPlayer 0.98  
-22,992 downloads Home >. Privacy policy  
+27,218 downloads UMPlayer 0.98  
+23,224 downloads Samsung Kies  
+2.5.0.12094\_28  
+21,041 downloads Hotspot Shield 2.74  
+18,845 downloads Home >. Privacy policy  
 Softpedia privacy policy  
 Written in accordance with the provisions of Law 677/2001, regarding individual protection about collecting and free circulation of personal data.  
   
