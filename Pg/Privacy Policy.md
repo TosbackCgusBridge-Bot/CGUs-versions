@@ -1,6 +1,6 @@
 Procter &. Gamble Skip to main content Search
 
-*   Investor Relations
+*   Investor / Shareholder Relations
 *   Careers
 *   Partners &. Suppliers
 *   WORLDWIDE SITES
