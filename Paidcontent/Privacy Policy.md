@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-A healthy reminder from Amazon: You don’t buy ebooks, you rent them
+Apple releases iBooks 3, reportedly expands to more countries
 
 Stay on top of tech news in your inbox
 
