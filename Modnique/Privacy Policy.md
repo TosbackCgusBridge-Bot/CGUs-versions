@@ -45,107 +45,106 @@ Loading Modnique - Boutique Events
 *   all events
     *   women
     *   Alex Max and Fleur de Lis handbags
-    *   Beyond the Beauty Hair tools
-    *   C Bar A Women's Apparel
     *   Chanel
-    *   Clips Accessories Made In Italy
-    *   Coach handbags
-    *   Designer Jewelry
+    *   Emanuel Ungaro women's apparel
     *   Esprit Outwear
+    *   Eveningwear By Nicole Miller &. Shail K
     *   Glamour Dresses
     *   Jeanne Darc, No Limit, Vipart Women's Apparel
-    *   Lauren G. Adams
-    *   Milan Fashion Trends
-    *   New York Fashion Trends
+    *   Louis Vuitton Handbags
+    *   Michael Todd Skincare Made In USA
+    *   Murano Glass &. Venetiaurum Jewelry
     *   Our Favorite Diamond Styles
-    *   Paris Fashion Trends
-    *   Silver jewelry sale: earrings &. rings
+    *   Pretty in Pearls
+    *   Rain Women's Apparel
+    *   Synonyme by Georges Rech
     *   _more..._
     *   men
+    *   Men's jewelry sale
     *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
     *   Men's Shop: DVS Shoes
     *   _more..._
     *   other
-    *   Akribos XXIV, Adee Kaye, Croton, Blumarine and more
-    *   iPhone Accessories
+    *   Color love: jewel-toned watches
+    *   Ice Watch
+    *   Tod's &. Karl Lagerfeld sunglasses
     *   _more..._
 *   apparel
     *   women
     *   C Bar A Women's Apparel
+    *   Emanuel Ungaro women's apparel
     *   Esprit Outwear
-    *   Everything under $39
-    *   Fall essentials blowout for her
+    *   Eveningwear By Nicole Miller &. Shail K
     *   Glamour Dresses
     *   Jeanne Darc, No Limit, Vipart Women's Apparel
-    *   New York Fashion Trends
-    *   Paris Fashion Trends
-    *   Teez Her Active Wear
+    *   Rain Women's Apparel
     *   _more..._
     *   men
-    *   Fall essentials blowout for him
     *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
     *   _more..._
 *   Jewelry &. Watches
     *   women
     *   Affordable Jewelry
-    *   Bella Pearls
     *   Designer Jewelry
-    *   Dv Italy jewelry
-    *   Elegant evening jewelry deals
+    *   Ladies Sapphire Bracelet
     *   Lauren G. Adams
+    *   Murano Glass &. Venetiaurum Jewelry
     *   Our Favorite Diamond Styles
-    *   Paris Fashion Trends
+    *   Pretty in Pearls
     *   Silver jewelry sale: earrings &. rings
     *   Silver jewelry sale: necklaces &. bracelets
-    *   Sterling Silver Jewelry Set With Genuine Citrines
     *   _more..._
     *   men
+    *   Men's jewelry sale
     *   _more..._
     *   other
     *   Akribos XXIV, Adee Kaye, Croton, Blumarine and more
+    *   Color love: jewel-toned watches
     *   Designer Watches for Less
     *   Get the Watch You Want: under $99
-    *   Time for luxury style: designer watches
+    *   Ice Watch
     *   _more..._
 *   Handbags &. Accessories
     *   women
     *   Alex Max and Fleur de Lis handbags
     *   Chanel
     *   Clips Accessories Made In Italy
-    *   Coach handbags
     *   Designer Jewelry
-    *   Iris Tyler handbags
-    *   Milan Fashion Trends
-    *   Paris Fashion Trends
+    *   Louis Vuitton Handbags
     *   _more..._
     *   men
     *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
     *   _more..._
     *   other
     *   Piquadro Travel Accessories Made In Italy blowout
+    *   Tod's &. Karl Lagerfeld sunglasses
     *   iPhone Accessories
     *   _more..._
 *   shoes
     *   women
-    *   Designer shoes under $49
-    *   Pointy-Toe Flats
+    *   Synonyme by Georges Rech
     *   _more..._
     *   men
     *   Men's Shop: DVS Shoes
     *   _more..._
+    *   other
+    *   _more..._
 *   beauty
     *   women
     *   Beyond the Beauty Hair tools
+    *   Michael Todd Skincare Made In USA
     *   _more..._
 *   men
     *   Akribos XXIV, Adee Kaye, Croton, Blumarine and more
+    *   Color love: jewel-toned watches
     *   Designer Watches for Less
-    *   Fall essentials blowout for him
     *   Get the Watch You Want: under $99
+    *   Ice Watch
+    *   Men's jewelry sale
     *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
     *   Men's Shop: DVS Shoes
     *   Piquadro Travel Accessories Made In Italy blowout
-    *   Time for luxury style: designer watches
+    *   Tod's &. Karl Lagerfeld sunglasses
     *   and many more...
 *   gifts
 *   daily deal
