@@ -33,7 +33,7 @@ Skip to Main Content Area Home   X Connect With Mitt Follow @MittRomney Login |
 *   News &. Media
     
     *   Featured Blog
-    *   Help Me Restore The America We Love Read More
+    *   A Brighter Future Read More
     *   More News
     
     *   Videos
