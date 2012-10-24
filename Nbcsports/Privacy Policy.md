@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Police ID suspect in $1.6M Las Vegas casino heist
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Paraplegic: I survived 3 days stranded in NM desert
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports Is Eli NFL's best in the clutch?
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports Inside Stafford's struggles
     
-    ProFootballTalk: Eli Manning led yet another 4th quarter comeback on Sunday, throwing the game-winning TD to Victor Cruz for a 27-23 win over the Redskins. Would he be the pick in crunch time?
+    ProFootballTalk: The Lions' lack of a running game isn't the only problem with the quarterback this season. His poor footwork is also to blame.
     
-    Bears D roars louder than Lions PFT: Bears shut down Megatron in impressive win PFT: Lions WR Burleson done for season PFT: SD's Phillips has seen 'lot of cheating' PFT: Bills' Kelsay rips teammates' effort PFT: Will NFL bid Aloha to the Pro Bowl? PFT: Quinn to replace Cassel as Chiefs QB PFT: Roethlisberger remains Steelers' rock Ad
+    PFT: Moon suggests criticism of Newton is racist PFT's power rankings: Falcons are best (now) PFT: No Lisfranc, but MJD out several games PFT: Chargers reportedly weren't using Strickum PFT: NFL players union wants Tagliabue off bounty appeal PFT: Cowboys may lose Lee for season PFT: Are Patriots fans spoiled? Patriots preparing for trip to London to play Rams Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Pool / Getty Images Giants concocting amazing alchemy
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Mark Blinch / Reuters Everything in place for Tigers
     
-    CSN: Game 7 pressure? That's nothing compared to what San Francisco's been up to this postseason. But what's coming in World Series? Probably an 0-2 hole vs. Detroit.
+    DeMarco: This is the Detroit Tigers' time. The next 10 days begin a window that will extend two, maybe three more seasons.
     
-    Giants cap 'unbelievable' NLCS with Game 7 rout HBT: Giants have World Series rotation dilemma Giants 7th to overcome 3-1 deficit  |  Work to do CSN: Cain wasn't perfect, but more than enough Scutaro named MVP  |  Award makes it 'special' HBT: Cardinals likely to be better in 2013 HBT: Pence's screwball hit sealed it for Giants HBT: NLCS winner won't be gassed for Tigers Ad
+    CSN: Tigers expect crazy crowd in SF CSN: Tigers ready for resurgent Zito HBT: Tigers favored over Giants in World Series Valentine says: 'It was all my fault' HBT: Marlins fire Guillen after only one season HBT: Dodgers closer Jansen undergoes heart surgery HBT: Fisk arrested for DUI in Illinois corn field After stunning NLCS exit, Cardinals try to regroup Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines John Russell / NHLI via Getty Images Predator hopes season is wiped out
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Chris Young / AP Deadline drama coming in talks?
     
-    PHT: Predators forward Sergei Kostitsyn will have some explaining to do when he returns to the NHL. If he does.
+    PHT: Players association wants to meet with league before Thursday's deadline, but NHL likely passing because it's "not sure what we would be meeting about."
     
-    PHT: 'Owners and players are at war,' Ovie says PHT: Will next week make or break season? NHL, union still talking but not negotiating SportsTalk: Breaking down the labor talks PHT: Whose side are you on in labor dispute? PHT: Fehr says there's 'fairly long road' ahead PHT: Fehr says NHL's offer is 'take it or leave it' CSN: Why a lengthy NHL season still likely Ad
+    CSN: 'Back to the drawing board' for NHL Costas Tonight: Roenick on NHL lockout PHT: Now Kovalchuk threatening to stay in KHL PHT: Predator hopes entire season is wiped out NHL gave clubs 2-day window to talk to players PHT: 'Owners and players are at war,' Ovie says PHT: Will next week make or break season? NHL, union still talking but not negotiating Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Stephen Dunn / Getty Images Is Howard a lock to stay in LA?
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Issac Baldizon / Getty Images Contributor Best role players on contenders
     
-    PBT: When Dwight Howard becomes a free agent next summer, he may choose not to re-sign with the Lakers. But don't count on it. Signs point to him sticking around.
+    PBT: Ray Allen is among the key role players who will be difference makers for this season's top contenders. We spotlight the best.
     
-    PBT: League GMs say Durant more clutch than Kobe PBT: GMs predict Heat over Lakers for title Celtics better than last season PBT: LeBron 'doesn't listen to talking heads anymore' Heat still the team to beat PBT: Jeff Van Gundy confirms NBA kept Stan off air PBT: Arenas close to signing to play in China PBT: Spurs not going away by a long shot Ad
+    NBA to remove center designation from All-Star ballot Hinrich leaves Bulls game with groin injury PBT: Five NBA players in need of a change PBT: 'Sheed in shape, starts Knicks practices Winderman: Will Lakers, LeBron make a mess in 2014? PBT: Superman is going to love life in LA PBT: Wade admits Heat’s lack of size is weakness PBT: 'Melo will play the 4 until Amare comes back Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Darron Cummings / AP Manti Te'o for Heisman?
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Tom Pennington / Getty Images Irish face daunting task in Oklahoma
     
-    Heisman Hopefuls: The Notre Dame linebacker leads users' rankings. Take your turn at rating the candidates.
+    Bob Stoops has coached 83 games at Gaylord Family-Oklahoma Memorial Stadium in his 14-year tenure in Norman. His teams have only lost four times. But Notre Dame coach Brian Kelly said Tuesday he doesn’t think his team is frightened by that 79-4 mark.
     
-    CFT: ACC suspends refs, player for blown calls CFT: Wyoming coach fined, suspended for rant CFT: Top FSU rusher out for season with ACL CFT: Maryland loses 2nd QB this season to ACL tear CFT: QB Mannion upgraded, to start for Beavers CFT: Another Oklahoma St. QB done for year CFT: K-State leapfrogs Oregon in BCS standings CFT: 'Bama no longer unanimous No. 1 in AP poll Ad
+    CFT: Irish expecting 'big things' vs. Sooners Clemson fans scolded for booing Obama at football game CFT: Ducks, Bucks agree to future home-and-home CFT: ACC suspends refs, player for blown calls CFT: Wyoming coach fined, suspended for rant Manti Te'o for Heisman? CFT: Top FSU rusher out for season with ACL CFT: Maryland loses 2nd QB this season to ACL tear Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Wesley Hitt / Getty Images Kenseth wins, Keselowski leads
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Chris Graythen / Getty Images Earnhardt Jr. cleared to race
     
-    The fast, smooth new surface at Kansas Speedway had the potential to wreak havoc on the Chase for the Sprint Cup championship.
+    Dale Earnhardt Jr. to race at Martinsville Speedway after missing the last two weeks to recover from a pair of concussions.
     
-    Kenseth feeling nostalgic in final month with RFR Stenhouse steals Nationwide race at Kansas Rotoworld: New track big draw for Kansas race Motor racing-Andretti christens 'fantastic' Texas racetrack Schumacher riding into the sunset GP of America in NJ postponed until 2014 Patrick can't get it rolling Wolff becomes 4th female to drive an F1 car Ad
+    Andretti Autosport to enter Munoz in Indy 500 Kenseth feeling nostalgic in final month with RFR Matt Kenseth wins, Keselowski keeps points lead Stenhouse steals Nationwide race at Kansas Patrick disappointed in Nationwide results in '12 Andretti christens 'fantastic' Texas racetrack Schumacher ready to ride into the sunset GP of America in NJ postponed until 2014 Ad
 *   NCAA BK
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Dave Martin / AP Canaan: 'I think I'm the best'
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Jamie Squire / Getty Images CBT's top 25: Michigan No. 9
     
-    CBT: Murray State star makes his claim to being the nation's top player. And he may very well be right.
+    CBT: This group looks much better prepared to defend and rebound than run a typical Beilein offense. Does that mean things won’t work out in Ann Arbor? Not at all.
     
-    CBT: Kentucky tabbed SEC favorites, but ... CBT: Tobacco Road triumvirate tops ACC CBT: MWC apparently a two-team race, in everything CBT: UConn coach wants lower rims in women's game Idaho will join Big Sky Conference in 2014 CBT's top 25 countdown: Baylor at No. 10 UCLA's David Wear hurts ankle, will have X-rays CBT: IU's Zeller has improved 'all over the court' Ad
+    CBT: Big Ten media likes Indiana, Michigan CBT: Is everyone underrating Wisconsin again? CBT: New UConn coach incredibly optimistic CBT: Canaan thinks he's nation's best player CBT: Kentucky tabbed SEC favorites, but ... CBT: Tobacco Road triumvirate tops ACC CBT: MWC apparently a two-team race, in everything CBT: UConn coach wants lower rims in women's game Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines A history of golf's strange swings
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines A collection of favorite major championships
     
-    ... to skin a cat. Or more appropriately, to swing a golf club. Randall Mell lists the top 10 most unusual swings in tour golf history.
+    From Tiger's triumph at Torrey to Jack's last win at Augusta, our writers offer up their personal favorite major championships.
     
-    Woods to build course in Cabo San Lucas Gainey wins McGladrey Classic with course-record 60 Who has the most unorthodox swing in the game? Gainey moves to No. 125 in world ranking Pettersen wins LPGA HanaBank in playoff Lack of crowd control irks players at HanaBank Injury forces Els out of Grand Slam. replaced by Harrington What We Learned: McGladrey Classic Quotes of the Week Popular caddie Scott Steele dies after heart attack Your gloves and grips deserve proper consideration Ad
+    Harrington leads Grand Slam with opening 66 McIlroy mum on rumored new equipment deal Woods to build course in Cabo San Lucas Notes: Daly closes in on European Tour card Power Rankings: CIMB Classic TaylorMade's RocketBladez 'once-in-a-lifetime' irons O'Meara waits for honors that may never come Emotional Tseng shares 'lonely' existence of world No. 1 Video: Parnevik rocks it 'Gangnam Style' Living the high life: It's good to be Jordan Spieth Who has the most unorthodox swing in the game? Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Lluis Gene / AFP - Getty Images Will Barca overlook Celtic?
+    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Jared Wickerham / Getty Images Morgan's play a revelation for US
     
-    PST: Lionel Messi's team is a massive favorite in its Champions League Group G game — which means the Spartak Moscow-Benfica game could be the more compelling one.
+    PST: United State tied Germany for second time in four days, but seeing speedy forward add new dimension to her game perhaps most important sight from both games.
     
-    PST: Is Bayern in trouble in Group F? PST: Danger match for Chelsea in Ukraine PST: Guardiola to Bayern? Just speculation, but … Donovan, Beckham back at practice for L.A. Galaxy PST: What a massive day for San Jose soccer PST: Galaxy defender calls SJ style 'embarrassing' PST: It took 9 rounds, but PSG in first Evans scores twice as Sounders down FC Dallas Ad
+    US, Germany tie for 2nd time in 4 days  |  Highlights Wambach disappointed with Germany draw Rampone: We didn't want to lose to Germany Rapinoe on gold, next U.S. coach PST: What happened to Chelsea vs. Shaktar? PST: Some reactions from Barca's thriller PST: Impact from Tuesday's Champions League scores PST: Onyewu: '…not in the \[U.S.\] mix and rightfully so' Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Chuck Burton / AP Who will replace Coach K?
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines David J. Phillip / AP London $603M under budget
     
-    OlympicTalk: Rumors are already swirling about who will take Coack Mike Krzyzewski’s spot on the Team USA bench. Here are the five best college options.
+    OlympicTalk: Beijing organizers essentially shouted Chinese culture at their worldwide audience in 2008, spending $67 billion. London aimed to only spend about $15 billion.
     
-    OlympicTalk: Lolo pushing for Winter Olympics spot OlympicTalk: Were Aussie swimmers sleepwalking? Video: Wagner wins first ISU Grand Prix title OlympicTalk: Missy stays golden, commits to Cal Short-track records fall at Calgary World Cup OlympicTalk: Vonn aiming to face men in Kitzbuehel Davis, White win 3rd straight Skate America dance OlympicTalk: Gabby named Sportswoman of the Year Ad
+    OlympicTalk: Who will replace Coach K? OlympicTalk: Lolo pushing for Winter Olympics spot OlympicTalk: Were Aussie swimmers sleepwalking? Video: Wagner wins first ISU Grand Prix title OlympicTalk: Missy stays golden, commits to Cal Short-track records fall at Calgary World Cup OlympicTalk: Vonn aiming to face men in Kitzbuehel Davis, White win 3rd straight Skate America dance Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines NBC Sports Sad day for cycling world
+    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Eric Gaillard / Reuters Lance should leave public eye
     
-    SportsTalk: Cycling analyst Phil Liggett says that Lance Armstrong being stripped of all seven of his Tour de France titles and USADA being banned for life for doping makes for a tough day.
+    Costas Tonight: Following his fall from grace, Lance Armstrong needs to completely eliminate his public persona and disappear, says USA Today's Christine Brennan.
     
-    Armstrong stripped of his 7 Tour de France titles Trash Talk: Cycling should not forget Lance Oakley joins list of sponsors to drop Armstrong Analysis: Lance's legacy hangs over cycling's future Catchings and Fever win first WNBA title Cheerleading needs sports safety rules, docs say Venus wins first WTA tourney title since 2010 Berdych beats Tsonga in 3 sets to win in Stockholm Ad
+    Unbelievable end to Pop Warner game Indiana Fever fans celebrate WNBA title The Week in Sports Pictures Liggett: Stripping Lance is sad day for cycling Trash Talk: Cycling should not forget Lance Armstrong is innocent, says Indurain Serena Williams opens WTA Championships with win Davydenko ousts Wawrinka at Swiss Indoors Ad
 
 *   Scores
 *   Odds
@@ -184,9 +184,10 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com PFT: Big Ben better do it all for Steerlers  |  Highlights  
-HBT: Game 7 favors Giants over Cardinals  
-CFT's Fifth Quarter: Four teams clearly above the rest  
+Tweet Also on NBCSports.com CSN: SF Giants like being way behind  |  KO Cards  
+DeMarco: World Series is Tigers' to lose  
+  PFT Live: Eli, Giants are NFL's best clutch players  
+PFT: NFL might say 'aloha' to the annual Pro Bowl  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
