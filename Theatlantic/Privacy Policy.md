@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Wednesday, October 24, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Thursday, October 25, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Wednesday, October 24, 2012 Go Follow the Atla
 *   Magazine
 *   video
 
-5 Ways the Race Could Stagger On for Months Garrett Epps Let's Just Get Rid of Debate Moderators Joshua Spivak The Gallant Idealism of George McGovern Ben W. Heineman Jr. Our 'Hair of the Dog' Recovery Conor Sen The Endangered Home Lender Matthew O'Brien How Your Job Predicts Your Vote Derek Thompson In Japan, Anyone Can Be a Holographic Star Patrick St. Michel How a Blind Athlete Runs a Marathon Julia Lurie What 'Reservoir Dogs' Got Right: People Siddhartha Mahanta The Missing Obama-Romney Debate on Egypt Eric Trager Is the World Ready for Mitt Romney? Garance Franke-Ruta The Candidates' Role Reversal on China Brian Fung The Best Nature Photographs of the Year Alexis Madrigal The Whale Who Tried to Talk Alexis Madrigal What Internet Trolls Thought of the Debate Megan Garber RFK Jr.: My Cousin Is Innocent Jennie Rothenberg Gritz A Forgotton Law That Could Save Lives Julie Turkewitz The Cuban Missile Crisis: 50 Years Later John Tierney Latest on Cell Phones and Brain Tumors Lindsay Abrams Tango as Relationship Therapy Amelia Rachel Hokule’a Borofsky The Decline and Fall of Spiritualism Erin McCarthy Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Kids Analyze the Election Kasia Cieplak-Mayr von Baldegg How to Teach Yourself Lucid Dreaming Kasia Cieplak-Mayr von Baldegg A Haunting Time-Lapse of Seattle Kasia Cieplak-Mayr von Baldegg Privacy Policy
+They Can't Both Be Right: Nate Silver vs. the Experts James Fallows A Good Debate for Obama, But Is It Enough? Molly Ball Romney's Path to 270 Remains Steep Charlie Cook Our 'Hair of the Dog' Recovery Conor Sen The Endangered Home Lender Matthew O'Brien How Your Job Predicts Your Vote Derek Thompson What 'Reservoir Dogs' Got Right: People Siddhartha Mahanta The NCAA Needs a New Rule Enforcer Stephen A. Miller In Japan, Anyone Can Be a Holographic Star Patrick St. Michel On Mob Justice in Nigeria Teju Cole Turkey's War on Journalists Michael Koplow The Missing Obama-Romney Debate on Egypt Eric Trager Curiosity's Cousins: Canada's Rover Fleet Megan Garber 'A Supercomputer and a Population of Dolphins' Alexis Madrigal Can Dogs Catch Yawns From Humans? Alexis Madrigal Wild Horse Round-ups: Inhumane and Useless Andrew Cohen Occupy Wounded Knee Emily Chertoff RFK Jr.: My Cousin Is Innocent Jennie Rothenberg Gritz There's Detectable Cocaine in Italian Air James Hamblin Tango as Relationship Therapy Amelia Rachel Hokule’a Borofsky The Fastest Surgeon of the 19th Century Matt Soniak Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Kids Analyze the Election Kasia Cieplak-Mayr von Baldegg How to Teach Yourself Lucid Dreaming Kasia Cieplak-Mayr von Baldegg A Haunting Time-Lapse of Seattle Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,33 +113,33 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Just In Lindsay Abrams 8:03 AM ET Study: People Who Exercise Have Larger Brains Later in Life 1351080189 Voices
+Just In Lindsay Abrams 8:03 AM ET Study: Hypnotherapy Reduces Hot Flashes 1351166623 Voices
 
-*   James Fallows Inside Foxconn #5: Food 6:29 AM ET
+*   James Fallows David Allen on How to Fix Your Life Oct 24, 2012
+*   Derek Thompson The Dark Side of Facebook's Triumphant Day Oct 24, 2012
+*   Ta-Nehisi Coates Stuff Black People Who Like White People Like Oct 24, 2012
+*   Alexis C. Madrigal Does Higher Energy Consumption Cause Greater… Oct 24, 2012
 *   Robert Wright Why Romney Is the War Candidate Oct 23, 2012
-*   Alexis C. Madrigal 'In the Water, a Supercomputer and a Population… Oct 23, 2012
 *   Garance Franke-Ruta The Best Lady GOTV Video of 2012, Starring Lena… Oct 23, 2012
 *   Jeffrey Goldberg Did the 'Neocon Puppet Masters' Get Outflanked by… Oct 23, 2012
-*   Ta-Nehisi Coates Stuff That Black People Who Know White People Like Oct 23, 2012
-*   Derek Thompson Obama's New Second-Term Plan Isn't New and It's… Oct 23, 2012
 *   Clive Crook An Inconsequential Debate Oct 23, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 
 Correspondents
 
+*   Andrew Cohen Are We Leading Our Wild Horses to Slaughter?
+*   Jack M. Balkin Political Science Says: A Romney Presidency Would Be Doomed
 *   Peter Osnos Ignore the Doomsayers: The Book Industry Is Actually Adapting Well
-*   Garrett Epps Zombie Election: 5 Ways the 2012 Race Could Stagger On for Months
-*   Andrew Cohen Think the Florida Recount Was Bad? Just Wait Until November 6
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Wildlife Photographer of the Year 2012 Oct 23, 2012 Video In Which Sushi Chefs Battle Terrifying Sea Monsters Stop-Motion Car Chase Mysteries of Vernacular Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Fall Is in the Air, Part II Oct 24, 2012 Video Adorable Kids Sing Mashups of Classical Tunes and Pop Lyrics Joy Division's Iconic Album Cover Combustion Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
 
 Subscribe
 
-James Bennet on campaign finance, James Parker on _50 Shades of Grey_, a special report on American schools, and more
+Our annual Brave Thinkers list, an interview with Mike Bloomberg, the strangest potential threat to the president, the Army's culture of mediocrity, Benjamin Schwarz on the end of jazz, and more
 
 Facebook Newsletters
 
@@ -161,63 +161,63 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Did Iran Hack The World's Biggest Oil Company?  
+*   The UK Is Finally Out of Its Recession  
     
-*   Syrian Warily Discussing a Holiday Cease Fire  
+*   Michael Bloomberg Says High Approval Ratings Mean You're a Failure  
     
-*   Harvey Weinsten Recut His Bin Laden Movie So That It Stars Obama  
-    
-
-Last Update: 7:30 AM
-
-*   A Matchmaker for New York's Privately Owned Public Spaces  
-    
-*   Bicycle Schools, Complete with Bamboo Bikes, On a Roll in Brazil  
-    
-*   Young Adults Are Finally Leaving Their Parents' Houses  
+*   Obama Says 'Rape Is Rape'  
     
 
-Last Update: 6:30 PM Most Popular
+Last Update: 7:31 AM
+
+*   This Atlas of 20th Century Architecture Weighs As Much As a Spare Tire  
+    
+*   Grand Central Could Get a Giant, Elevating Observation Hoop  
+    
+*   Why Sometimes You Can Smell the Sewer Even Though You Mostly Can't  
+    
+
+Last Update: 7:41 PM Most Popular
 
 1
 
-Shift-Alt-Debate: Meet 4 Presidential Candidates the Press Mostly Ignores
+Why the GOP Should Fear a Romney Presidency
 
 2
 
-Scenes From World War II Photoshopped Onto Today's Streets
+Obama's Edge: The Ground Game That Could Put Him Over the Top
 
 3
 
-Wildlife Photographer of the Year 2012
+Robert F. Kennedy Jr.'s Passionate Plea for His Cousin's Innocence
 
 4
 
-Despite a Strong Debate Campaign, Romney's Path to 270 Remains Steep
+A Miscarriage of Justice
 
 5
 
-They Can't Both Be Right: 'Savvy' Experts vs. Polls
+Think the Florida Recount Was Bad? Just Wait Until November 6
 
 6
 
-Occupy Wounded Knee: A 71-Day Siege and a Forgotten Civil Rights Movement
+'Perplexed ... Perplexed': On Mob Justice in Nigeria
 
 7
 
-Bigger, Better Google Ngrams: Brace Yourself for the Power of Grammar
+Fall Is in the Air, Part II
 
 8
 
-Did the 'Neocon Puppet Masters' Get Outflanked by Romney?
+Dark Social: We Have the Whole History of the Web Wrong
 
 9
 
-Scenes From 21st-Century China
+How Team Obama Justifies the Killing of a 16-Year-Old American
 
 10
 
-The NCAA Needs to Let Someone Else Enforce Its Rules
+Scenes From World War II Photoshopped Onto Today's Streets
 
 *   Subscribe Help
 *   Faq
