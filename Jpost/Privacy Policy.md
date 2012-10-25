@@ -1,4 +1,4 @@
-  Set as Homepage Tue, Oct 23, 2012   7 Heshvan, 5773  
+  Set as Homepage Wed, Oct 24, 2012   8 Heshvan, 5773  
 
 *   *   Breaking News
     *   Diplomacy &. Politics
@@ -45,7 +45,6 @@
     *   Metro
     *   In Jerusalem
     *   Christian Edition
-    *   Edition FranÃ§aise
 *   My JPost
     *   Advertise with Us
     *   Subscription Center
@@ -177,7 +176,7 @@ We recommend that you read the full terms of service prior to posting any conten
 11.  11.**Entire Agreement, Waiver:** These TOS constitute the entire understandings between parties and will only be amended in writing. No waiver to perform any The Jerusalem Post' rights under this agreement shall constitute amendments of it.
 12.  12.**Governing Laws, Jurisdiction, No Class Action:** These Terms shall be solely governed by the laws of the state of Israel, including their statutes regarding conflict of laws and may be solely brought to the competent courts of the Tel-Aviv-Jaffa District. You undertake not to initiate any class action, for any reason, against The Jerusalem Post and to claim your damages only according to this agreement.
 
-                                    Israel Focus JPost2go  
+                                  Israel Focus JPost2go  
 Don't have time to read The Jerusalem Post ? Now you can listen to it!   Send Flowers To Israel  
   Nefesh B'Nefesh Guided Aliyah  
 Already living in Israel? Enjoy the Benefits of Aliyah!   Watch Hadassah LIVE  
@@ -203,4 +202,4 @@ Finding your home in Jerusalem is Prosperity's business   Gorman Real Estate
 Sales, rentals and property management of luxury Tel Aviv apartments.   Don't Look For a House!  
 In Israel, our website will do it for you!     Travel Jpost Tourism 2012  
 Special Magazine   Hertz Car Rental  
-Special Online Discounts!           WebJPost.com     JPost sites: Learn Hebrew The Jerusalem Report Our Magazines Green Israel Jpost Edition Francaise Christian World Jerusalem Post Lite Sites Of Interest: Israel Hotels Tel Aviv Hotels Jerusalem Hotels KKL-JNF Poalim Online BreitBart.com Israel travel Israel tours Our Friends Jerusalem Attractions Jerusalem Tours itraveljerusalem.com Services: JPost Mobile Apps JPost Premium JPost Newsletter JPost Toolbar JPost News Ticker JPost RSS feeds JPost Archives JPost Alert JPost Kotel Cam JPost Sticker JPost Guides: Israel Guide Tour Guides Israel Attractions Information: About Us Feedback Staff E-mails Copyright Sitemap News Partners **Advertise with Us** **Statistics** **Price List** **Ad Specs** Work for us Terms Of Service   About Us | Advertise with Us | Subscribe | Premium | Newsletter | RSS | Contact Us   All rights reserved © The Jerusalem Post 1995 - 2012 Powered by Tanagra Web Toolbar canvas by Wibiya
+Special Online Discounts!           WebJPost.com     JPost sites: Learn Hebrew The Jerusalem Report Our Magazines Green Israel Jpost Edition Francaise Christian World Jerusalem Post Lite Sites Of Interest: Israel Hotels Tel Aviv Hotels Jerusalem Hotels KKL-JNF Poalim Online BreitBart.com Israel travel Israel tours Our Friends Jerusalem Attractions Jerusalem Tours itraveljerusalem.com Services: JPost Mobile Apps JPost Premium JPost Newsletter JPost Toolbar JPost News Ticker JPost RSS feeds JPost Archives JPost Alert JPost Kotel Cam JPost Sticker JPost Guides: Israel Guide Tour Guides Israel Attractions Information: About Us Feedback Staff E-mails Copyright Sitemap News Partners **Advertise with Us** **Statistics** **Price List** **Ad Specs** Terms Of Service   About Us | Advertise with Us | Subscribe | Premium | Newsletter | RSS | Contact Us   All rights reserved © The Jerusalem Post 1995 - 2012 Powered by Tanagra Web Toolbar canvas by Wibiya
