@@ -1,6 +1,6 @@
 (skip this header)
 
-Wednesday Oct 24, 2012 5:05 AM PT
+Thursday Oct 25, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,10 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Calif. tax burden rising
-*   Central Subway plows forward
-*   Obama vs. Romney, the peacenik
-*   Tweet to your next job
+*   BART runs extra trains
+*   Gramblers' surprise hit
+*   Sand castles, teamwork
+*   SFers blowing bubbles
+*   World Series tickets
 *   Chronicle endorsements
 
 *   Bay Area &. State
@@ -338,13 +339,25 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
-*   Amityville Horror home on the market
+*   1962 Giants
+*   2781 Union Street
 *   Nation in Focus
 *   World in Focus
+*   Must See Movies Since 1960
 *   Game 7: Giants vs. Cardinals
+*   Maison Martin Margiela with H&M event
+*   Amityville Horror home on the market
+*   The 2012 postseason in photos
+*   Boreal snapshot
+*   When parents discipline kids through public humiliation
+*   Day in Pictures, Oct. 24, 2012
+*   Giants fan superstitions
+*   Nation in Focus
+*   World in Focus
 *   'Skyfall' London Royal world premiere
 *   Angel Ball Gala 2012
 *   Celebrity wardrobe malfunctions
+*   Oakland A's: The Forgotten Dynasty
 *   16th Annual Hollywood Film Awards Gala
 *   Apple Event Oct 23
 *   Seals Stadium
@@ -366,17 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   Day in Pictures, Oct. 22, 2012
 *   First blizzard
 *   Favorite dishes 10/22/2012
-*   Most Haunted Homes in the U.S.
-*   Nation in Focus
-*   World in Focus
-*   Game 6: Giants vs. Cardinals
-*   People that Judge Judy makes more than
-*   Sand castle contest
-*   Zach Houston
-*   Nation in Focus
-*   Shawn Clover on SF "Mash-ups"
-*   World in Focus
-*   Spooky spots in the Bay Area
 
 *   Most Read
 *   |
@@ -384,50 +386,52 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Bruce Bochy announces surprising SF Giants World Series rotation
-2.  Mourdock: God at work when rape leads to pregnancy
-3.  Obama-Romney Race Has Both Arguing Plausible Path to Victory
-4.  Cockroach hors d'oeuvres for World Series tickets?
-5.  Surfer killed by shark off central California
-6.  Alan Farley dies - popular KALW host
-7.  2 toddlers, mother found dead in Calif. home
+1.  Panda's 3 homers lift Giants in Game 1
+2.  You can't make this Giants script up
+3.  Parents punish daughter by posting this photo on her Facebook wall
+4.  Giants accidentally sell Pence’s broken bat
+5.  Libya attack claim relayed early to White House
+6.  Driver backs up, rolls over sleeping man
+7.  Barry Zito looks like money for Giants
 
-1.  Obama feisty, Romney subdued in debate
-2.  All the way back: Giants in World Series
-3.  Prop. 32 not unions' only worry
-4.  John Avalos wipeout over Dew Tour remark
-5.  Piedmont High School students involved in 'Fantasy Slut League'
-6.  Mourdock: God at work when rape leads to pregnancy
-7.  Fox announcer Buck says he isn't biased
+1.  Mourdock: God at work when rape leads to pregnancy
+2.  Driver backs up, kills sleeping man
+3.  Ed Lee in rift with Mirkarimi backers
+4.  Donald Trump%u2019s Dr. Evil %u201Cblockbuster%u201D %u2014 a $5 million hostage offer? (VIDEO)
+5.  Frightened men love Mitt Romney
+6.  Why one of America's best baseball writers is wrong about Melky Cabrera
+7.  Ishtar 2? Clint Eastwood stars in new ad for Mitt Romney (VIDEO)
 
-1.  Hewlett-Packard wins Idaho school laptop contract
-2.  The evolution of a baseball town
-3.  Iowa Farm-Land Boom Minting Millionaires Spurs Rich-Poor Gap
-4.  Brandon Crawford: living the dream
-5.  Square to move to S.F.'s Mid-Market
-6.  Thai face slapping in S.F.
-7.  Mourdock: God at work when rape leads to pregnancy
+1.  You can't make this Giants script up
+2.  Comfy chicken dish with rice and ginger
+3.  Google cameras map popular Grand Canyon trails
+4.  Panda's 3 homers lift Giants in Game 1
+5.  Barry Zito looks like money for Giants
+6.  Lincecum shines again out of the bullpen
+7.  Aspirin seen as promising for colon cancer
 
 loading... Latest News Videos From our homepage
 
-*   Whoops! Terrible costumes
+*     
+    Timothy A. Clary, Getty / SF
     
-    Kids ditch witches and werewolves for pimp, maid and whoopie cushion get-ups. Photos
+    Doggone crazy costumes
+    
+    Some of these dogs' Halloween outfits are mahvelous, others just plain ridiculous. Take a look.
     
 
-*   Peek inside modern living
+*   Silly pics punish daughter
     
-    If you're a modern design fan, Dwell's tour of these Peninsula gems may be for you. Photos
+    Teen misbehaves, so parents take her phone, post wacky photos of themselves on her Facebook wall.
     
 
 *     
-    Pete Kiehart, The Chronicle / SF
+    Stephen Dunn, Getty Images / SF
     
-    Crazy ticket propositions
+    'Magic' bat accidentally sold
     
-    Some Series seats cost thousands, so Giants fans get creative.
+    Pence dismayed to lose bat, which hit the ball three times in one swing. But then - good news.
     
-*   Find tickets on Seatgeek
 
 *   Home
 *   News
