@@ -23,8 +23,12 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 24 02:00 AM · DELICIOUS coming up next:
+schedule right now: October 24 10:00 PM · OJO POR OJO coming up next:
 
+*   11:00 PM · OJO POR OJO
+*   12:00 AM · LARRYMANIA
+*   1:00 AM · DECISIONES
+*   2:00 AM · L'CREME
 *   3:00 AM · MORNING BREATH
 *   4:00 AM · MORNING BREATH
 *   5:00 AM · MORNING BREATH
@@ -34,12 +38,8 @@ schedule right now: October 24 02:00 AM · DELICIOUS coming up next:
 *   10:00 AM · L'CREME
 *   11:00 AM · MORNING BREATH
 *   12:00 PM · L'CREME
-*   1:00 PM · AL CIEN 100%
+*   1:00 PM · REVENTON
 *   2:00 PM · L'CREME
-*   3:00 PM · DELICIOUS
-*   4:00 PM · L'CREME
-*   5:00 PM · CHIQUIS 'N CONTROL
-*   6:00 PM · 12 CORAZONES
 
 see full schedule >>.
 
