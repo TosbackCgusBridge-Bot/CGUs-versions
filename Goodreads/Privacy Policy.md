@@ -1,10 +1,10 @@
 *   **register**
-*   Ã¼ber uns
-*   log in
+*   tour
+*   sign in
 
-*   home
-*   meine bÃ¼cher
-*   freunde
+*   Home
+*   My Books
+*   Friends
 *   Recommendations
 *   *   listopia
     *   giveaways
@@ -15,13 +15,13 @@
     *   **fun**
     *   trivia
     *   quizzes
-    *   zitate
+    *   quotes
     
     *   **community**
     *   groups
-    *   schreiben
-    *   leute
-    *   eventsmehr  
+    *   creative writing
+    *   people
+    *   eventsExplore  
 
 Privacy Policy
 
