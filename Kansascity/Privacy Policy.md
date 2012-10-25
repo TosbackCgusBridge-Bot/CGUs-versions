@@ -134,30 +134,30 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day FINE MEXICAN CUISINE FOR $10 FROM GUADALAJARA CAFE. ($20 value) $10 Value: Discount: You Save: $20 50% $10
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Treat Yourself to 55% Off Aromatherapy Massage plus Extras at Pause - The Spa near The Legends $60 Value: Discount: You Save: $125 52% $65
 
-Wednesday: Hen House, HyVee, Price Chopper Deals Hen House
+Thursday: Wal Mart, Sunfresh Deals Wal Mart
 
-*   General Mills Fiber One or Nature Valley Granola Bars 5-10-ct. - 2/$5 or $2.50 each
-*   Swanson Flavor Boost Concentrated Broth Liquid Packets 4-ct., Seafood, Beef, Vegetable or Chicken - 2/$3 or $1.50 each
-*   Hunt's Canned Pasta Sauce 24-oz. - 10/$10 or $1 each
+*   Suave Deodorant, 1.4oz - $0.97
+*   Glade PlugIns Scented Oil Warmer - $1.38
+*   Suave Body Lotion, 18oz - $2.87
 *   more...
 
-1.  Apartment Maintenance Helper
+1.  PROGRAM DIRECTOR
     
-2.  PROGRAM DIRECTOR
+2.  Parts Project Coordinator
     
-3.  SEASONAL DRIVERS
+    Central Power Systems &. Services, Inc.
     
-    Kelly Services
+3.  OPERATING MANAGER
     
 4.  SALES
     
 5.  PROGRAM DIRECTOR
     
-6.  CAMPAIGN JOBS
+6.  SENIOR PIPE DESIGNER
     
-    Grassroots Campaigns, Inc.
+    THOMAS RUSSELL CO.
     
 
 View More The Most
@@ -165,16 +165,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Early look at Windows 8 baffles many consumers
-*   MU audit exposes a $7,600 strip-club charge
-*   Man with samurai sword robs restaurant
-*   Witness identifies defendant in Hereford House arson video
-*   Chiefs QBs Quinn, Cassel prepare for new roles
-*   Kleins improvement at Kansas State comes down to confidence
-*   Open revolt on open carry? Overland Park to reconsider details of firearms law
-*   Chiefs offer standing-room only tickets for Raiders game
-*   Apples iPad Mini leads parade of holiday gadgets
-*   St. Lukes enters alliance with three other hospital systems
+*   Two killed in Blue Springs accident
+*   Teen with spina bifida gets his wish, meets LeBron James
+*   New uses found for two more closed Kansas City schools
+*   Its on: Chiefs Hali calls Raiders dirty
+*   KC-area family struggles with anger after arrest in Jessica Ridgeway slaying
+*   Theres no free ride on the Miami Heat for KU hero Mario Chalmers
+*   Abducted Missouri girl found safe. sex offender charged
+*   Blog: Why no one should blame K-State for not playing Oregon
+*   Taylor Swifts Red lacks vibrancy
+*   Sporting looks like KCs most successful franchise
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
