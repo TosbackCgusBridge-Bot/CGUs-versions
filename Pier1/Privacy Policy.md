@@ -134,7 +134,7 @@ close x Search Catalog Search Catalog Navigation
             *   Clearance
             *   Special SavingsLet’s get together. Click on an event to find ideas for entertaining, gifts &. décor.
         *   Special Gifts
-            *   New Home
+            *   Hostess &. Housewarming
             *   Birthday
             *   Anniversary
             *   Bridal
@@ -145,7 +145,8 @@ close x Search Catalog Search Catalog Navigation
         *   Holidays &. More
             *   Halloween &. Harvest
             *   Thanksgiving
-            *   Christmas
+            *   Christmas Decor &. Dining
+            *   Christmas Ornaments
             *   Clearance
             *   Special SavingsLet’s get together. Click on an event to find ideas for entertaining, gifts &. décor.
 *   get inspired
