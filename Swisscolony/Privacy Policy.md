@@ -20,6 +20,7 @@
     *   Nuts &. Snacks
     *   Specialty Foods
     *   Sugar Free
+    *   Gluten Free
     *   New Products
     *   Military APO/FPO Eligible
     *   Customer Favorites
