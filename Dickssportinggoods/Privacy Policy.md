@@ -448,11 +448,11 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
 *   Fan Shop
     *   NFL
         
+        *   Atlanta Falcons
         *   New York Giants
-        *   Denver Broncos
-        *   Green Bay Packers
+        *   San Francisco 49ers
         *   Washington Redskins
-        *   New England Patriots
+        *   Chicago Bears
         *   View All »
         
         MLB
