@@ -124,11 +124,11 @@ Tell a friend:
 
 **Want Consumerist in your inbox?** Popular Posts
 
-*   Arby's Fires Worker After She Had To Flee The Restaurant During Armed Robbery
-*   6 Everyday Food Items That Have Soared In Price
-*   Selling Me Hundreds Of Cans Of Soup For Food Bank Is Just More Work For Walmart Employees
-*   Man Pulled Down $70K A Week By Crawling On Movie Theater Floors To Steal Credit Cards
+*   Fancy Hotel Wedding Planner Doesn't Understand How Email's "CC" Function Works
 *   The BK Bacon Burger Is A Disgrace To The Word 'Bacon'
+*   FBI: Baggage Handler Was Arrested Because That $20K In Uncirculated Bills Doesn't Belong To him
+*   Free, $1.29, Same Difference When Papa John's Gives You A Pizza
+*   Mistaking A Table For Your Own Private Bedroom Will Displease Fellow Restaurant Patrons
 
 About Consumerist
 
