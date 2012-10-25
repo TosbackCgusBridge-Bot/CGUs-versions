@@ -39,9 +39,9 @@ Read More
 *   Parties &. Entertaining
 *   Best Recipes
 
-Delicious Vegetarian Recipes
+Halloween Menu Ideas
 
-Try one of these hearty meatless dishes.
+Entertaining more than just trick-or-treaters this Halloween? Plan the perfect dinner party with these delicious Halloween menu ideas.
 
 Read More
 
@@ -95,15 +95,15 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Country Living advertisement
 
-*   **halloween**
+*   **apple recipes**
 
-*   **christmas**
+*   **apple desserts**
 
-*   **kitchens**
+*   **soups**
 
-*   **living rooms**
+*   **salads**
 
-*   **glassware pottery**
+*   **pineapple dessert**
 
 Home &. Decorating
 
