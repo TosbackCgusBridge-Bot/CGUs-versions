@@ -987,7 +987,6 @@ Y*   Books + Media
             *   Collections
     *   Pets
     *   open Garden
-        *   Outdoor Lighting
         *   Outdoor Decor
     *   open Storage
         *   Closet
@@ -1380,7 +1379,7 @@ _Our Guarantee!_ If you are not completely satisfied with all or part of your or
         
     Product Safety
     
-    The Lakeside Collection® carefully selects its products from a large number of vendors located in both the USA and abroad. Our dedication to finding you the very best in housewares, clothing, furniture, toys, holiday accents and more includes thorough product testing that strives to exceed industry standards. This helps to ensure our merchandise is both high in quality and competitively priced. Most of all, it assures us that the safety and satisfaction of our most important asset - our customers - will always be met.
+    The Lakeside Collection? carefully selects its products from a large number of vendors located in both the USA and abroad. Our dedication to finding you the very best in housewares, clothing, furniture, toys, holiday accents and more includes thorough product testing that strives to exceed industry standards. This helps to ensure our merchandise is both high in quality and competitively priced. Most of all, it assures us that the safety and satisfaction of our most important asset - our customers - will always be met.
     
      *   Career Center
         
