@@ -500,12 +500,12 @@ Would you like to receive special offers, promotions, coupons, and free samples 
 
 See All Newsletters  
 
-*   Homeandgarden My Best Idea The Best Gift for a New Mom? A Midnight Baby Basket!
+*   Homeandgarden My Best Idea Quick Tips for Getting Party Pretty in a Pinch
 *   Beauty DIY Beautify Hot Vs. Not: The Winner of the Smokey Eye Contest Is...
 *   Entertainment iVillage 5 Will Jay-Z Join Beyonce at the Super Bowl?
 *   Entertainment Likes or Yikes? Best Week Ever! Tina Fey and Amy Poehler to Host Golden Globes
 *   Global iVoices Why a Failed First Marriage Doesn't Make You a Failure
-*   Entertainment iVillage Interviews What JWOWW and Katie Couric Have in Common? They Tell Us Why They Vote
+*   Entertainment Featured Alicia Keys: She's a Girl on Fire!
 
   
   
