@@ -300,7 +300,7 @@ WSJ Web Slice CONTENT LINKS TO ACTUAL PAGE CONTAINING WEB SLICE FUNCTIONALITY. 1
     *   Privacy Policy
     *   Data Policy
     *   Copyright Policy
-    *   Subscriber Agreement  
+    *   Updated: Subscriber Agreement  
         &. Terms of Use
 *   Ads
     *   Your Ad Choices
@@ -311,7 +311,7 @@ WSJ Web Slice CONTENT LINKS TO ACTUAL PAGE CONTAINING WEB SLICE FUNCTIONALITY. 1
     *   Apps
     *   Newsletters
     *   Alerts
-    *   Graphics
+    *   Graphics &. Photos
     *   Columns
     *   Topics
     *   Guides
