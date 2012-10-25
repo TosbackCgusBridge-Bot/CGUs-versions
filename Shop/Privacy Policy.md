@@ -84,7 +84,6 @@ The Latest
 
 Women's Apparel
 
-*   Jeans
 *   Tees
 *   Tanks &. Camis
 *   Tops
@@ -92,9 +91,7 @@ Women's Apparel
 *   Shirts &. Flannels
 *   Hoodies &. Fleece
 *   Sweaters
-*   Jackets
 *   Dresses &. Rompers
-*   Pants
 *   Shorts
 *   Skirts
 *   Swimwear
@@ -121,9 +118,6 @@ Don't miss The Latest
 Men's Apparel
 
 *   Jeans
-*   Tees
-*   V-Necks, Crews, &. Polos
-*   Tanks
 *   Shirts &. Flannels
 *   Longsleeve Knits
 *   Hoodies &. Fleece
@@ -136,14 +130,12 @@ Men's Apparel
 Men's Accessories
 
 *   Shoes
-*   Hats
 *   Backpacks
 *   Sunglasses
 *   Headphones &. Misc
 *   Watches
 *   Belts
 *   Wallets
-*   Cologne
 
 Don't miss Men's
 
