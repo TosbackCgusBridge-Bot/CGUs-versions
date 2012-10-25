@@ -119,7 +119,6 @@ shop zales outlet ZalesZales Outlet
         *   Child's
         *   Ladies'
         *   Men's
-        *   Unisex
     *   Price
         *   Under $50
         *   $50.00 - $99.99
