@@ -85,6 +85,7 @@ If you have any questions about this Privacy Policy, the practices of the Site o
 Copyright 2010 PutLocker Home  
 My Files  
 Go Pro  
+Android App  
 About Us  
 Contacts  
 Link to Us  
