@@ -133,50 +133,50 @@ If you have any questions or concerns about this privacy policy, you may contact
 
 Stories We Like
 
-1.  Us Weekly Justin Timberlake 'Wasn't Feeling Well' on Wedding Day
-2.  Your Tango 10 Most Ridiculous Sexy Halloween Costumes
-3.  Huffington Post Politics Romney Performance Falls Flat With Target Audience
-4.  Mental Floss 10 Things You Didn't Know about Teeth
-5.  Buzzfeed Meet the Most Incredible 8-Year-Old Football Player in the World
-6.  Pop Sugar Aziz Ansari Likens Marriage to Sweater Ownership
-7.  Us Weekly Photo: Megan Fox Models Skimpy Underwear While Four Months Pregnant
-8.  Buzzfeed iPad 3 Customers Screwed By Apple
-9.  Huffington Post Politics Odds Jump For Obama After Big Performance
+1.  Pop Sugar Kristin Stewart Wears Short Shorts to Promote 'Breaking Dawn'
+2.  Us Weekly Joe and Tina Simpson Divorcing
+3.  Buzzfeed How Google Street-Viewed the Grand Canyon
+4.  Huffington Post Politics Presidential Race Boiling Down to a Deadlock
+5.  Mental Floss 25 Fun Size Facts About Classic Halloween Candy
+6.  Pop Sugar 150 Celebrity Halloween Costumes
+7.  Us Weekly Justin Timberlake Snubbed Two of His \*Nsync Members From Wedding
+8.  Huffington Post Politics GOP Candidate to the UN: Get Off 'American Soil'
+9.  Buzzfeed Courtney Stodden Tries on Trashy Halloween Costumes
 
   Most Popular
 
-1.  Killed Over a Bike?
-2.  The Man Who Could Beat Bachmann
-3.  My Proof of Heaven
-4.  Kim Kardashian's Not a Fan of Underwear, Shows Off Crack
-5.  Inside the Pussy Rioters’ Prisons
+1.  Dear Donald, It’s Over
+2.  The Clown Campaign
+3.  Obama Riffs on Leno
+4.  My Proof of Heaven
+5.  The Man Who Could Beat Bachmann
 
   Other News Entertainment
 
-*   Celebrities' Presidential Endorsements
-*   Stars Whose Homes Caught Fire
-*   Richest Stars Under 30
+*   Bar Refaeli's Endless Summer &. More Celeb TwitPics
+*   Brooklyn lovebirds: Michelle Williams and Jason Segel move in together
+*   Robert Pattinson Gets Giggly, Plus More Funny Celeb Photos!
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘New Girl’: Misfortune Cookie (a.k.a. Gigglebangs Riceball)
-*   ‘Pretty Little Liars’ Halloween episode react: 6 burning questions
-*   ‘Sons of Anarchy’ recap: Another wild ride
+*   President Obama visits Leno, jokes about Trump, gets serious about Richard Mourdock — VIDEO
+*   ‘Supernatural’ recap: In focus
+*   ‘Modern Family’ react: Halloween episode delivers laughs, but lacks season 2′s originality
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Third-Party Candidates Long On Substance, Short On Chances
-*   Akin Goes To War With The Press
-*   6 Things We Learned From Facebook's Earnings Report
+*   Union Super PAC Brands Romney An "Economic Traitor"
+*   Obama Blasts Senate Candidates Rape Comments On The Tonight Show
+*   How Each Presidential Candidate Can Win, In Two Charts
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Woman Writing Book About Affair with Herman Cain
-*   Latest Swing State Polls
-*   Murphy Opens Lead in Connecticut
+*   Quote of the Day
+*   Why is Romney Still Campaigning in Nevada?
+*   Gender Gap Disappears in New Poll
 *   **Get More from Political Wire**
 
 The Daily Beast
