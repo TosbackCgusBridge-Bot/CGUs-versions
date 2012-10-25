@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Gallup poll: Romney holding 5-point lead among likely votersChris Matthews: 'Racial hatred' drives support for Romney on rightMichelle Malkin criticizes Ann Coulter for calling Obama 'the retard'International monitors at US polling spots draw criticism from voter fraud groupsGOP: Obama's sequester remark during debate could reshape fiscal cliff talks
+Trump offers Obama $5 million for his college, passport recordsThe Hill's 25 Women to WatchPoll: Obama leads Romney by 5 in OhioPolls show Obama up in Ohio, VirginiaGallup: Romney’s national lead narrows
 
 Emailed
 
-Morning in OhioInternational monitors at US polling spots draw criticism from voter fraud groupsChris Matthews: 'Racial hatred' drives support for Romney on rightMourdock: Pregnancy from rape can be 'something God intended to happen'Opinion: Debunking the GOP’s false narratives about the Benghazi attack
+Labor unions, liberal groups fear lame-duck betrayal by ObamaTrump offers Obama $5 million for his college, passport recordsThe Hill's 25 Women to WatchFiscal cliff approaches and concerns mountNew Crossroads ad features Clint Eastwood
 
 Discussed
 
-International monitors at US polling spots draw criticism from voter fraud groupsMore bad news for Mitt Romney Chris Matthews: 'Racial hatred' drives support for Romney on rightObama hits Romney hard in final presidential debate showdownSen. Rubio: Obama has ‘given up’ on outlining second term agenda
+International monitors at US polling spots draw criticism from voter fraud groupsObama spinning toward a lossMore bad news for Mitt Romney Chris Matthews: 'Racial hatred' drives support for Romney on rightTrump offers Obama $5 million for his college, passport records
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Rogers: E-mails make it 'difficult' to conclude Benghazi attack 'spontaneous'
-*   Report: White House told of militant claims hours after Libya attack
-*   MORNING READ
+*   Obama says he always expected ‘close race’
+*   Democrats make World Series bets
+*   Obama camp invokes memory of Gore's loss to motivate Dems
 
   
 More Briefing Room » Congress Blog
 
-*   Obama's record of overreach
-*   Small modular reactors provide path forward for nuclear power
-*   Leveraging our American energy revolution
+*   Candidates remain vague on how best to fight terrorism
+*   Better bee health begins and ends with science, not soundbites
+*   Mitt's makeover is now complete - But will it work?
 
   
 More Congress Blog » Pundits Blog
 
-*   Mitt Romney campaigns for the Nobel Peace Prize!
-*   Romney, the flip-flopper in chief
-*   Foreign territory
+*   Question for female Republicans
+*   ‘Letting them be’
+*   Mitt's ‘quiet on Benghazi’ strategy is smart
 
   
 More Pundits Blog » Twitter Room
 
-*   Study: Campaign emails rarely read
-*   Michelle Malkin criticizes Ann Coulter for calling Obama 'the retard'
-*   Lady Gaga: Obama 'like Rocky' in debate
+*   Romney campaign still using 'Friday Night Lights' despite creator protests
+*   GOP Rep. Schilling calls on Mourdock to apologize
+*   Trump's teased Obama 'announcement' trending online
 
   
 More Twitter Room » Hillicon Valley
 
-*   ACLU requests documents on domestic drones
-*   Facebook continues record lobbying spending
-*   Cantor slams net neutrality as example of 'imperial presidency'
+*   Barnes &. Noble stores targeted by hacking operation
+*   Former top FCC lawyer Schlick heads to Google
+*   NetCoalition winds down operations
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   American Farm Bureau caught in crossfire over biofuels
-*   Report: US could surpass Saudi Arabia as oil producer by 2020
-*   Sen. Wyden: Energy Dept. must explain gas export review criteria
+*   News bites: Coal mining costs rise, feds intensify BP probe, and more
+*   Oxfam jumps into oil payments disclosure lawsuit
+*   Texas House race debuts dueling energy ads
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Democrats hit Berg on Goldmark connection in new ad
-*   Poll: Democrat Murphy expands lead over McMahon in Connecticut Senate race
-*   Candidates retain ties to companies
+*   AP poll: Romney leads Obama 47-45, tied among female voters
+*   Pressure on Pelosi and Israel to deliver House seats in home states
+*   Romney’s standing in race adds uncertainty to GOP’s Senate quest
 
   
 More Ballot Box » On The Money
 
-*   Democrats say they are open to extension of payroll tax holiday
-*   Fiscal cliff approaches and concerns mount
-*   New Yorkers pay highest tax rate to state, local governments
+*   Watchdog: Scrap Libor for bailout programs
+*   Tax group: Deduction cap only offsets some of Romney tax plan
+*   White House targeting DeMarco's job
 
   
 More On The Money » Healthwatch
 
-*   Holtz-Eakin: IPAB will hurt innovation, ration care
-*   DeMint slams AARP for stance on payroll tax cut
-*   Issa threatens subpoenas over IRS rules regarding healthcare exchanges
+*   Obama supporters worry a Romney victory will endanger healthcare law
+*   Scott Brown rejects Mourdock's abortion view
+*   GOP threatens subpoenas in probe of Obama healthcare law PR campaigns
 
   
 More Healthwatch » Floor Action
 
-*   Lawmakers call on DOD to comply with ‘Made in USA’ uniform rule
-*   McCaskill calls for Army investigation into contractor rules violations
-*   Rep. Cole: Despite rhetoric, Obama, Dems undermining US energy development
+*   Democrats ask Tenn. court to unseal Scott DesJarlais's divorce records
+*   McConnell stands by Mourdock
+*   Alabama Republicans send 'battleground' buses to Ohio to help Romney win
 
   
 More Floor Action » Transportation
 
+*   FAA fines US Airways for failing to inspect 757
+*   Report: Miami airport leads TSA firings for theft
 *   Poll: 42 percent support Obama auto approach over Romney's
-*   Obama: 'We might not have an auto industry’ if Romney had been president
-*   'Auto bailout' most popular Google search term for Romney during debate
 
   
 More Transportation » DEFCON Hill
 
-*   Defense group calls for immediate sequester negotiations
-*   White House: Obama’s position on sequester unchanged
-*   GOP: Obama's sequester remark during debate could reshape fiscal cliff talks
+*   New Army unit heading to Africa Command
+*   DOD sees 'opportunity' in Army's postwar strategy, says Carter
+*   Gitmo defense lawyers want US records of Yemen drone strike
 
   
 More DEFCON Hill » Global Affairs
 
-*   Wednesday's global agenda: New questions on Libya
-*   BBC global poll has Obama beating Romney by a landslide
-*   White House open to one-on-one talks with Iranians over nuclear program
+*   Obama to renew sanctions against those involved in DRC conflict
+*   Obama administration turns the tables on Russian claims about US weapons in Syria
+*   Afghans rap Obama administration over borders
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris Debates within debate Mark Mellman State of the race More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Some Obama plan Brent Budowsky Morning in Ohio More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
