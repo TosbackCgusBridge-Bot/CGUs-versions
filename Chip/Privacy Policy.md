@@ -265,11 +265,11 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 HTTPS Everywhere für Chrome 2012.10.18 Alpha Englisch Freeware
-*   2 HTTPS Everywhere für Firefox 3.0.2 Englisch Freeware
-*   3 MiniLyrics 7.4.18 Deutsch Shareware
-*   4 Glary Utilities 2.50 Deutsch Freeware
-*   5 Daphne 1.53 Deutsch Freeware
+*   1 Yumi 0.0.7.7 Englisch Freeware
+*   2 MediaInfo 0.7.61 Deutsch Adware
+*   3 Mp3tag 2.53 Deutsch Freeware
+*   4 Wipe 2012.16 Deutsch Freeware
+*   5 K-Lite Codec Pack - Full 9.4.0 Englisch Freeware
 
 ...mehr
 
@@ -277,8 +277,8 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 *   1 Apokalypse am 21.12.: Die beste Software für den Weltuntergang
 *   2 Spiele-Vollversionen: Kostenlos zum Download
-*   3 Kostenlose Spiele zum Download: Die besten Gratis-Games
-*   4 Bundesliga live sehen - im Internet deutsch und gratis
+*   3 Bundesliga live sehen - im Internet deutsch und gratis
+*   4 Kostenlose Spiele zum Download: Die besten Gratis-Games
 *   5 Tools, die kaum einer kennt: 33 geniale Gratis-Downloads
 
 ...mehr
@@ -295,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Vodafone Smart Tab II 10: Lenovo-Tab im Check
+*   Windows 8: Tops und Flops
+*   iPad mini, iPad 4, iMac und MacBook Pro: Die Highlights
 *   Virenscanner im Speedtest: AV-Comparatives testet 20 Security-Tools
 *   Externe Festplatten 2,5 und 3,5 Zoll: Preistipps mit USB 3.0
-*   Gut und günstig: Die besten Blu-ray-Player im Test
-*   Vodafone Smart Tab II 7: 190-Euro-Tab im Check
-*   Test: Nikon D600 (DSLR über 1.000 Euro)
 
 ...mehr
 
@@ -312,11 +312,11 @@ Sponsored Links
 **RSS-Feed** Die beliebtesten Produkte
 
 *   Samsung Galaxy S3 GT-I9300 16GB  
-    ab 429,00 €
+    ab 438,90 €
     
     *   Test
 *   Samsung Galaxy S2 i9100  
-    ab 318,88 €
+    ab 328,58 €
     
     *   Test
 *   Samsung Galaxy S Duos  
@@ -327,7 +327,7 @@ Sponsored Links
     
     *   Test
 *   Samsung Galaxy Note 2 N7100 16GB  
-    ab 548,96 €
+    ab 544,53 €
     
     *   Test
 
@@ -342,10 +342,10 @@ Alle CHIP Online Feeds im Überblick
 Meistgelesene Themen
 
 *   \[GELÖST\] jucheck.exe
-*   CHIP sucht freiberufliche App-Tester für iPhone/iPod/iPad oder Android
 *   Tastatur umstellen Englisch/Deutsch
 *   Facebook knacken leicht gemacht...
-*   Galaxy S3 bekommt nun Endlich Jelly Bean!!
+*   adamski tv offline?
+*   Free YouTube to MP3 Converter legal ?
 
 ...mehr
 
@@ -362,9 +362,9 @@ Alle CHIP Online Feeds im Überblick
 
 *   1 Die besten Spiele-Vollversionen zum Download  
     
-*   2 Sexy Headphone Babes  
+*   2 12 Media-Markt-Angebote, 12 starke Alternativen  
     
-*   3 12 Media-Markt-Angebote, 12 starke Alternativen  
+*   3 Sexy Headphone Babes  
     
 *   4 Playboy - Playmate des Jahres  
     
