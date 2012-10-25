@@ -49,7 +49,7 @@ Suchbegriff Suchen
     *   Deo
     *   Mineralwasser
 
-Allgemeine GeschÃ¤ftsbedingungen
+  Allgemeine GeschÃ¤ftsbedingungen
 
 *   Â§ 1 Geltungsbereich
 *   Â§ 2 Leistungen von gutefrage.net
@@ -203,40 +203,36 @@ Registrieren Login
 9.  Pokemon
 10.  Steam
 
-Top-50 Themen Thema Anzahl Apple 83530 Arbeit 64353 Ausbildung 49827 Auto 90518 Beauty 68784 Beruf 77044 Beziehung 71424 Computer 534324 Computerspiele 64174 deutsch 66673 Englisch 51849 ErnÃ¤hrung 50484 essen 70830 Facebook 76838 Fernsehen 60042 Film 99476 Finanzen 58779 Freizeit 261712 FuÃball 50915 Games 123723 Geld 92921 Gesundheit 204672 Haare 82120 Handy 203323 Hilfe 147558 Internet 320816 iPhone 74757 Kinder 50678 KÃ¶rper 49766 Laptop 72989 Liebe 164212 Lied 54134 MÃ¤dchen 55868 Medizin 62416 Minecraft 67336 Musik 279235 PC 280591 PC-Spiele 48308 Problem 54806 PS3 59724 Recht 94842 Schule 233950 Software 56804 Spiele 136345 Sport 110295 Technik 119847 Tiere 64556 TV 54114 Video 52390 Youtube 82638 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 83619 Arbeit 64437 Ausbildung 49891 Auto 90583 Beauty 68869 Beruf 77096 Beziehung 71502 Computer 534675 Computerspiele 64239 deutsch 66755 Englisch 51896 ErnÃ¤hrung 50529 essen 70892 Facebook 76933 Fernsehen 60078 Film 99575 Finanzen 58804 Freizeit 261907 FuÃball 50953 Games 123874 Geld 93026 Gesundheit 204811 Haare 82206 Handy 203551 Hilfe 147743 Internet 321052 iPhone 74838 Kinder 50714 KÃ¶rper 49825 Laptop 73072 Liebe 164429 Lied 54192 MÃ¤dchen 55939 Medizin 62458 Minecraft 67417 Musik 279429 PC 280830 PC-Spiele 48366 Problem 54874 PS3 59806 Recht 94910 Schule 234249 Software 56843 Spiele 136454 Sport 110405 Technik 119940 Tiere 64595 TV 54145 Video 52439 Youtube 82721 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  christhopher97
+1.  JudithFunny
     
     Punkte:
     
-    635
+    945
     
     Level:
     
-    christhopher97
+    JudithFunny
     
-2.  BlockParty
-    
-    Punkte:
-    
-    607
-    
-3.  maxifipsi
+2.  Keksflusi
     
     Punkte:
     
-    532
+    509
     
-    Level:
+3.  Nyandog
     
-    maxifipsi
+    Punkte:
+    
+    483
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.319.553 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.326.360 gute Fragen_
 
-*   26 Wie werde ich am Morgen schneller fit?
-*   12 Angst vor Kindern
-*   10 Versehntlich Rinderfleisch zu mir genommen, Familie will mich abstoÃen
+*   39 Versehntlich Rinderfleisch zu mir genommen, Familie will mich abstoÃen
+*   18 GroÃe Liebe erhÃ¤ngt sich
+*   15 Warum kommen in immer mehr Filmen "Sex Szenen" vor ? O.o (Auch in Kampf-filmen)
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
@@ -250,23 +246,23 @@ gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.947.556
+1.949.363
 
 Anzahl der Fragen
 
-8.318.098
+8.326.248
 
 Anzahl der Antworten
 
-36.133.836
+36.163.072
 
 Anzahl der Tipps
 
-74.655
+74.731
 
 Anzahl der Videos
 
-4.724
+4.729
 
 Blog
 
