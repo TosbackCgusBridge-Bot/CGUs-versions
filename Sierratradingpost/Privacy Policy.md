@@ -358,7 +358,7 @@ We cannot ship certain materials to California and outside the U.S. including: E
 
 Exclusive Email Only Specials!
 
-Copyright 2012, Sierra Trading Post, Inc. All rights reserved. Customers have saved a total of $77,491.00 today! That's an average savings of 58%! Get $10 for each friend you refer and Give them a $10 gift!
+Copyright 2012, Sierra Trading Post, Inc. All rights reserved. Customers have saved a total of $90,844.00 today! That's an average savings of 60%! Get $10 for each friend you refer and Give them a $10 gift!
 
 *   1.800.713.4534
 *   Live Chat
@@ -525,4 +525,4 @@ Copyright 2012, Sierra Trading Post, Inc. All rights reserved. Customers have sa
         *   Woolrich
         *   See All Brands
 
-An Extra **20% OFF** orders $75+ Enter Keycode **SITEWIN1012** at Checkout! See Details
+SignUp for DealFlyer and get **An Extra 30% OFF Select Items!** Sign Up
