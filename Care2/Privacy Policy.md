@@ -1,4 +1,4 @@
-**20,759,671** members doing **good**! my Care2
+**20,769,403** members doing **good**! my Care2
 
 *   checking login information
 
