@@ -98,13 +98,11 @@ Skip Navigation
     *   Articles
     *   Tools
 
-*   *   Facebook
-    *   Pinterest
-    *   tumblr
-    *   YouTube
-    *   Twitter
-    *   Google+
-    *   Instagram
+*   *   We'll Do the Shopping
+    *   We'll Wrap it Up in Style
+    *   We'll Do the Sending
+    *   We Love Wednesdays
+    *   We'll Do the Decorating
 
 *   shipping to: 
 
@@ -112,10 +110,10 @@ Skip Navigation
 
 *   New We Love
     
-    *   Halloween
-    *   Centerpieces
-    *   Thanksgiving Essentials
     *   Jewels for the Home
+    *   Holiday Centerpieces
+    *   A Nostalgic Christmas
+    *   Luxe Lodge
     *   Monogramming
     *   Beautifully Organic
     
@@ -192,13 +190,12 @@ Skip Navigation
     
     Great Deals
     
-    *   Fall Dining Sale
     *   Delivery Discounts
     *   Sale
     
-    Fall Dining Sale
+    Modular Bar
     
-    Save up to $200 off our favorite new tables.
+    Save 10% on our Modular Bar through November 14th.
     
     Shop Now 
     
@@ -269,7 +266,7 @@ Skip Navigation
     *   Rug Event
     *   Sale
     
-    Rug Event
+    Rug Sale
     
     Save 15% on all wool rugs for a limited time.
     
@@ -295,6 +292,7 @@ Skip Navigation
     
     Shop By Collection
     
+    *   Rustic Luxe
     *   Morgan
     *   Pearl Embroidered
     *   Plaza Bedding
@@ -310,7 +308,6 @@ Skip Navigation
     Features
     
     *   What's New
-    *   Rustic Luxe Bedding
     *   Organic Bedding
     *   The Monogram Shop
     *   Design Your Own Bed
@@ -321,9 +318,9 @@ Skip Navigation
     *   Free Shipping
     *   Sale
     
-    Limited Time Offer
+    Holiday Duvets
     
-    Patchwork Quilts starting at $199.
+    Update your guest bedroom for the Holidays starting at $79.
     
     Shop Now 
     
@@ -371,9 +368,9 @@ Skip Navigation
     *   Free Shipping
     *   Sale
     
-    Design Your Dream Bath
+    Free Shipping
     
-    A variety of looks, Exceptional quality and design for every space.
+    Robes, cosmetic bags, and guest towels all ship for free!
     
     Shop Now 
     
@@ -396,14 +393,13 @@ Skip Navigation
     
     Great Deals
     
-    *   Lighting Sale
     *   Lighting $99 &. Under
     *   Free Shipping
     *   Sale
     
-    Limited Time Offer
+    Decorative Lighting for Every Room
     
-    Save 20% on all chandeliers &. pendants through October 24th.
+    Shop our newly expanded collection of decorative sconces for your hallway, dining room, bedroom, and more.
     
     Shop Now 
     
@@ -528,9 +524,9 @@ Skip Navigation
     *   Free Shipping
     *   Sale
     
-    Free Shipping
+    Thanksgiving Feast
     
-    Enjoy free shipping on all Halloween serve ware, table linens and more.
+    Special savings on select entertaining essentials.
     
     Shop Now 
     
@@ -568,15 +564,16 @@ Skip Navigation
     *   Party Planner
     *   The Monogram Shop
     *   Fall Decorating &. Entertaining Guide
+    *   Gift Concierge
     
     Great Deals
     
     *   Free Shipping
     *   Sale
     
-    Holiday Favorites
+    Season's Savings
     
-    Free shipping on all ornaments, stockings, tree skirts &. more.
+    Free Shipping on all ornaments, stockings, tree skirts &. more.
     
     Shop Now 
     
@@ -593,6 +590,7 @@ Skip Navigation
     *   Wedding
     *   Anniversary
     *   Birthday
+    *   Just Because
     
     Gifts By Recipient
     
@@ -601,8 +599,12 @@ Skip Navigation
     *   Couple
     *   Family
     *   Host &. Hostess
+    *   Sports Fan
+    *   Wine Lover
+    *   Scotch Lover
+    *   Mixologist
+    *   Tech Lover
     *   Colleagues
-    *   Graduate
     *   Traveler
     *   Gardener
     *   Pet Lover
@@ -612,13 +614,13 @@ Skip Navigation
     
     *   Free Shipping
     *   Best-Selling
-    *   Gift Baskets
     *   Stocking Stuffers
     *   Live Plants
     *   Gifts of Comfort
     *   Fur Shop
-    *   Just Because
     *   Wine &. Entertaining
+    *   Gift Sets
+    *   Gifts that Give Back
     
     The Monogram Shop
     
@@ -633,6 +635,7 @@ Skip Navigation
     *   Exclusive Gift Wrap
     *   Give a Gift Card
     *   Shipping Information
+    *   Gift Concierge
     
     Host &. Hostess Gifts
     
@@ -648,9 +651,7 @@ Skip Navigation
     *   Top Registry Ideas
 *   Sale Limited Time Offers
     
-    *   Warehouse Sale
-    *   Fall Dining Sale
-    *   Lighting Sale
+    *   Fall Decorating Event
     *   Rug Event
     *   Free Shipping
     
@@ -675,9 +676,9 @@ Skip Navigation
     *   Bathroom
     *   Home Office
     
-    Fall Dining Sale
+    Halloween Sale
     
-    20% off PB comfort dining chairs and much more.
+    New markdowns on seasonal decor, while supplies last!
     
     Shop Now 
     
