@@ -73,14 +73,26 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 *   Ashley Greene: Look At Me Now
 *   Ashley Greene's Cover Shoot Style
 *   Project Runway's New York
+*   Gwen Stefani: Rock 'n' Rule
 *   Gwen Stefani's Cover Shoot Style
 *   Gwen Stefani's Style Evolution
-*   Gwen Stefani: Rock 'n' Rule
 *   Chelsea Everywhere
 *   Big Shots
 
 Latest blog entries
 
+*   Maison Martin Margiela for H&M Makes Its NYC Debut
+    
+    Maison Martin Margiela's collaboration with H&M launched with a nine-story shindig in New York last night. Yes, even Kanye was there. 10/24/12
+    
+*   Dressed to Thrill: Katie Holmes in Narciso Rodriguez for Kohl's
+    
+    Our chic celebrity look of the day. 10/24/12
+    
+*   Shop It Now: Massimo Dutti Opens First U.S. Store
+    
+    Massimo Dutti officially opened its first stateside store in New York last week, and the 13,131 square-foot space of classic, reasonably-priced, European goodness is bound to become one of our new Fifth Avenue shopping staples. 10/24/12
+    
 *   Burlesque in a Bottle: Dita Von Teese Launches Perfume
     
     Legendary burlesque star Dita Von Teese embodies all things glamour, elegance, and mystery through her dancing, costumes, and overall pin-up persona. 10/23/12
@@ -88,19 +100,6 @@ Latest blog entries
 *   The Dog Whistle Last Night Was to Women
     
     The debate last night was ostensibly about foreign policy, but as the entire Twitterverse noted, the candidates used their last televised dialogue to bring up whatever they wanted, from education to food stamps. And both Barack Obama and Mitt Romney mu 10/23/12
-    
-*   Prabal Gurung for Target to Debut in February
-    
-    The best news we've ever gotten on a Monday morning: Prabal Gurung will design a line for Target that hits stores in February.
-    
-    10/22/12
-*   Whos Funnier, Mitt Romney or Barack Obama? (And Does It Matter?)
-    
-    Last Thursday, Mitt Romney and Barack Obama were in the same room again, in a decidedly less combative mode than the debate stage two days prior. They were giving a pair of joke-laden speeches at the 67th Annual Alfred E. Smith Memorial Foundation Din 10/22/12
-    
-*   Ryan Reynolds' Favorite iPhone Apps
-    
-    The actor shares his eight most-used apps, from one that helps him read scripts to another that shows him how to restore old motorcycles. 10/17/12
     
 *   See all blogs
 
