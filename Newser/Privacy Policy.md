@@ -3,33 +3,34 @@
 *   What's New
 *   Hot Topics
     *   Election 2012
-    *   Mitt Romney 2012
     *   Mitt Romney
     *   Obama 2012
-    *   President Obama
-    *   presidential debate
+    *   Mitt Romney 2012
     *   entertainment
+    *   Barack Obama
+    *   celebrity
+    *   presidential debate
     *   strange stuff
-    *   timeless news
-    *   Romney 2012
+    *   President Obama
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
 
-*   US
-*   WORLD
+*   ELECTION 2012
 *   POLITICS
-*   GREAT FINDS
-*   OPINION
 *   MONEY
 *   HEALTH
 *   TECH
+*   US
+*   WORLD
+*   GREAT FINDS
+*   OPINION
 *   SCIENCE
-*   LUXURY LIVING
 *   TRAVEL
 *   CELEBRITY
 *   ENTERTAINMENT
 *   MORE
+    *   LUXURY LIVING
     *   LIFESTYLE
     *   CRIME
     *   GREEN
@@ -119,63 +120,57 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Forget Chinese Currency Manipulation
-*   Donât Miss the B\_\_\_\_ in Apartment 23
-*   The Popular Kids Who Tortured You in High School Are Now...
+*   The Battle for Floridaâs Jews
+*   The Woman Who Invented the Kitchen
+*   Are Police Dogs Invading Our Privacy?
 
 More from Slate »
 
-*   THIS IS YOUR BRAIN ON...
-*   'My Little Pony' Not Just For Girls Anymore: Meet The...
-*   The 8 Most Haunted Houses in New York (PHOTOS)
+*   _$780,000_
+*   9 Invasive Species You Can Eat (PHOTOS)
+*   Even Birthers Don't Believe Jerome Corsi Anymore
 
 More from HuffPost Weird »
 
-*   Another Male Politician Says Pregnancy From Rape Is A...
-*   Eva Longoria And Mark Sanchez Split
-*   Now And Then: Getting Women To Vote
+*   Simpson Family Statement Avoids Any Mention Of Papa Joe...
+*   Tom Cruise Is Suing &. Mitt Romney Spray Tans!
+*   Todayâs Lady News: Romney Campaign Says It Still Supports...
 
 More from The Frisky »
 
-*   Woman wins national car parking championship \[Ironic\]
-*   If you and your family tortured and murdered a girl 47...
-*   Good: Couple has healthy baby boy. Bad: Dad has to deliver...
+*   Protip: If you're trying to outrun store employees after...
+*   Air Force discharges single mother for getting pregnant....
+*   Urology center is seeking participants for a study on...
 
 More from Fark »
 
-*   Did Richard Mourdock's rape comment cost the GOP Indiana's...
-*   Mitt Romney's momentum: An illusion conjured by his...
-*   No debate about drones
+*   The final push: What President Obama needs to do before...
+*   Why Mitt Romney is standing by Richard Mourdock
+*   What these late deciders really want
 
 More from The Week »
 
-*   Will Bloomberg Use Super-PAC to Back 2013 Mayoral Candidate?
-*   Obama Stays Off the Record in Apparently Great Interview...
-*   Todd Akin Sticks It to Reporter by Publishing His...
+*   Hillary Clinton Insists Sheâs Definitely Leaving Politics...
+*   Pair Wrongly Convicted of Cab Driverâs Murder Released...
+*   Gov. Cuomo Isnât Picky About His Alcohol
 
 More from Daily Intel »
 
-*   Doing _This_ For 10 Minutes Could Save 3 Lives
-*   In the Minds of Mothers: How Mental Health Impacts Mothers...
-*   Exercise Increases Productivity
-
-More from HuffPost Health »
-
-*   'Pretty Little Liars' Halloween Special: 6 Things to Expect...
-*   Jennifer Lopez, Nicki Minaj Suffer Wardrobe Malfunctions:...
-*   Courtney Stodden Tries on Revealing Costumes While...
+*   Jessica Bielâs Pink Wedding Dress: Celebrity Brides Who...
+*   'True Blood' Star Alexander Skarsgard Shells Out $1.85M for...
+*   Emily VanCamp, Lea Michele, January Jones: Celebrities Who...
 
 More from Celebuzz »
 
-*   Alleged Hate Crime Victim May Have Set Herself on Fire, Not...
-*   Republican Senate Candidate Richard Mourdock Says Rape...
-*   One Mom's Work Travel Makes for a Magical Homecoming...
+*   10 Rude Things New Moms Say to In-Laws
+*   Superhero Window Washers Thrill Sick Children in Hospital...
+*   He's Sending You Mixed Signals -- Here's What to Do About It
 
 More from The Stir »
 
-*   Data Points: Responsible Youth
-*   I Spy a Better Buy
-*   After Newsweek, U.S. News Offers Different Model
+*   Perspective: Sticky Situation
+*   Portrait: Iris
+*   Brand Genius 2012: Chris Gabaldon, Ritz-Carlton
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
