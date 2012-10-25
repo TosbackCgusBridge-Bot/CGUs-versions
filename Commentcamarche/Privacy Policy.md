@@ -62,7 +62,7 @@ Conditions générales d'utilisation Article Table des matières
         *   CCM sur votre site
         *   Etablir un lien
 
-Septembre 2012
+Octobre 2012
 
 *   Objet
 *   Mentions légales
@@ -190,10 +190,10 @@ Ce document intitulé « Conditions générales d'utilisation » issu de **Com
 *     CONDITION d'utilisation
 *     Condition generale
 *     Conditions générales de vente » Forum
-*     Modèle de conditions générales de vente » Forum
 *     Les conditions générales de vente pour un site d'e-commerce » Fiches pratiques
-*     Iphone probléme app store (Résolu) » Forum
-*     Resiliation abonnement bouygues telecom » Forum
+*     Le nouveau contrat de microsoft (Résolu) » Forum
+*     Resilier contrat orange!!! (Résolu) » Forum
+*     Résiliation bouygues télécom » Forum
 
 Plus Dossier à la une
 
