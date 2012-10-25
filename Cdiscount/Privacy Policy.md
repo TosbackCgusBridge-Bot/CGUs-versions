@@ -58,7 +58,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         6.  Figurines hÃ©ros - Voitures garages
         7.  Jeux de Construction - HabiletÃ©
         8.  AmÃ©nagement de la chambre enfant
-        9.  Abo magazines jeunesse
+        9.  Magazines pour les petits jusqu'Ã  -85%
         10.  Paris: 150â¬ offerts sur PMU.fr
         
         1.  SÉLECTION PLEIN AIR
@@ -113,7 +113,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         9.  Jeux PS Vita
         10.  Jeux PC
         11.  EnchÃ¨re Sony PS3 Ultra Slim
-        12.  Toute lâactu jeux vidÃ©o/info !
+        12.  Prix choc magazines jeux vidÃ©o/info
     *   *   Jeux Ã  TÃ©lÃ©charger
         *   Boutique Sims
         *   Nintendo Shop
@@ -155,7 +155,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         6.  Compilation
         7.  SpÃ©cial Artistes
         8.  Gagnez un Iphone 5
-        9.  Les derniÃ¨res actus musicales
+        9.  Vente Flash sur l'actu musicale
         
         1.  LIBRAIRIE / COFFRETS CADEAUX
         2.  Les Coffrets Cadeaux
@@ -164,7 +164,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         5.  Poches
         6.  BD â Humour
         7.  Jeunesse â Adolescent
-        8.  Abo magazines 85% - chers
+        8.  Vente Flash sur les magazines
         9.  Minceur et solaire -50%
     
     *   Tout le magasin DVD CD Livres
@@ -580,7 +580,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         7.  DÃ©broussailleuses
         8.  Coupe-bordures
         9.  Motoculteurs - Scarificateurs - Motobineuses
-        10.  Magazines Bricolage
+        10.  Prix choc sur magazines brico/dÃ©co
         11.  Gagnez un iphone 5
     
     *   Jardin - Plein-air
@@ -597,7 +597,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
             *   Chaussures Enfant (du 28 au 40)
             *   Chaussures BÃ©bÃ© (du 16 au 27)
         3.  Accessoires Chaussures
-        4.  Abo Magazines mode
+        4.  Vente Flash sur la presse people
         
         1.  VÊTEMENTS HOMME
         2.  Tous les vÃªtements Homme
@@ -653,7 +653,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         4.  Voyages
             *   SiÃ¨ges autos
             *   Lits parapluies et lits de voyage
-        5.  Magazines puÃ©riculture
+        5.  Vente Flash sur les magazines
         6.  RÃ©ductions voitures neuves
         
         1.  BÉBÉ À LA MAISON
@@ -776,7 +776,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         7.  Sports de Raquettes
         8.  Natation
         9.  Golf
-        10.  Lâactu sportive Ã  prix mini !
+        10.  Vente Flash sur l'actu sportive
         11.  Cure minceur gratuite
         
         1.  SPORTSWEAR
@@ -844,7 +844,9 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         4.  HygiÃ¨ne-Soin-BeautÃ©
         5.  Animalerie
         6.  Cure minceur gratuite
-    *   *   Foire aux Vins
+        7.  Bons de rÃ©duction
+    *   *   Vente World Wild Whisky
+        *   Coffrets cadeaux Vin
     *   Tout le magasin Vin Alimentaire
     
       
