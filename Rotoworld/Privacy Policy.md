@@ -34,6 +34,7 @@ To search for a player use one of two formats:
 
 COLUMNS
 
+*   Kung Fu Pandamonium Oct 25
 *   Giant Performance Oct 22
 *   Cards Ahead On Carpenter Bomb Oct 18
 *   Beltran Blasting Off Again Oct 15
@@ -41,7 +42,6 @@ COLUMNS
 *   ALCS: Tigers vs. Yankees Oct 13
 *   Ibanez Saves Yankees Oct 11
 *   Sabathia Silences O's Oct 8
-*   Fantasy MVPs and LVPs Oct 6
 
 PREMIUM CONTENT
 
@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Zito holds down Tigers, Giants take Game 1
+*   Panda belts three homers, SF rocks Verlander
+*   M's decline Miguel Olivo's $3M option for '13
+*   Delmon Young starts in left field for Game 1
+*   Twins decline option on Matt Capps for 2013
+*   Marlins to interview Redmond for manager job
 *   Madison Bumgarner named Game 2 starter
 *   Jansen undergoes ablation for heart problems
 *   Zito to start Game 1 of World Series vs. DET
 *   Wolf to have Tommy John surgery next Tues.
 *   Red Sox and David Ortiz not yet close to deal
 *   Marlins fire Ozzie Guillen after one season
-*   C.J. Wilson undergoes minor elbow surgery
-*   Beachy (elbow) begins throwing program
-*   Giants blow out Cardinals en route to pennant
-*   Rangers could have interest in J.P. Arencibia
-*   Holliday (back) in Cards lineup for NLCS Gm 7
-*   Pineda will not be healed by spring training
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Week 8 Target Watch: NFC Oct 25
+*   Arming Amendola Oct 25
+*   Getting Defensive: Week 8 Oct 24
 *   Week 8 Target Watch: AFC Oct 24
 *   Stewart's Salvation? Oct 24
+*   Best Available NFL Free Agents Oct 24
 *   Matchup: Bucs @ Vikings Oct 23
 *   Week 8 Top Pickups Oct 23
-*   Revving up Rashad Oct 23
-*   Silva: Season Pass Chat Oct 23
-*   What Gives, Matt? Oct 23
-*   Best Available NFL Free Agents Oct 23
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Report: Sean Lee (toe) done for the season
-*   Report: Mario Williams mulling wrist surgery
-*   Cardinals had planned RB rotation in Week 7
-*   Dez Bryant on groin injury: 'Nothing major'
-*   Jimmy Graham could be 'full go' Wednesday
-*   Report: Gabbert to play unless docs block him
-*   MJD escapes Lisfranc, out 'multiple games'
-*   Burleson needs surgery, could miss 8 months
-*   Panthers planned Stewart as clear feature RB
-*   Browns' Holmgren: 'I did miss the coaching'
-*   Felix Jones expected to start versus Giants
-*   Browns discussing 3-week shutdown of T-Rich
+*   Redskins WR Garcon has 'plantar plate tear'
+*   Rashard Mendenhall not practicing Wednesday
+*   Jimmy Graham (ankle) limited on Wednesday
+*   Mario Williams day-to-day after wrist surgery
+*   DeMarco Murray not expected back for Week 8
+*   Jones-Drew says he has no timetable right now
+*   Trent Richardson participates in walkthrough
+*   Ahmad Bradshaw rests his foot on Wednesday
+*   Danny Amendola returns to a limited practice
+*   Report: Greg Jennings visits groin specialist
+*   Bills want 30-40 touches for F-Jax, Spiller
+*   Panthers lose MLB Jon Beason for the season
 
 NBA PAGES
 
@@ -134,6 +134,7 @@ NBA PAGES
 
 COLUMNS
 
+*   The Bruski 150 Oct 24
 *   NBA Live Chat Monday at 1 p.m. Oct 20
 *   Points League Draft Recap Oct 20
 *   Players to Target Oct 20
@@ -141,7 +142,6 @@ COLUMNS
 *   Roto Auction Recap Oct 17
 *   Top 10, Busts and Sleepers Oct 12
 *   Pre-Preseason Mock Draft Oct 9
-*   2012 NBA Draft Guide Oct 2
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Kirk Hinrich strains his groin on Tuesday
+*   Kobe Bryant (foot) could miss season opener
+*   Chris Copeland scores 16 in 37 minutes
+*   Jae Crowder continues impressive preseason
+*   Tyson Chandler on crutches, MRI coming
+*   Mo Williams abdominal issue not groin-related
+*   Andrew Bynum unlikely to be ready for opener
+*   Report: Rookie Jonas Valanciunas will start
+*   Report: Brandon Bass favorite to start opener
+*   Tristan Thompson not guaranteed starting spot
 *   Austin Rivers day-to-day w/ sprained ankle
-*   Kobe out Wednesday w/ bruised &. strained foot
+*   Ben Gordon in running for starting SG job
 *   J.J. Hickson confirmed as Blazers' starting C
-*   Dirk Nowitzki (knee) can't offer timetable
-*   J.R. Smith (Achilles) practices on Tuesday
-*   A.J. Price emerging as starting Wizards PG
-*   Ray Allen dealing with daily ankle soreness
-*   DeAndre Jordan goes for 18 &. 12 w/ 3 blocks
-*   Warriors still have no timetable for Bogut
-*   Dudley does right with 4 bombs and 25 points
-*   Lillard goes for 21 and eight against Utah
 
 NHL PAGES
 
@@ -185,6 +185,7 @@ NHL PAGES
 
 COLUMNS
 
+*   The Lipon &. MacKinnon Show Oct 24
 *   Keep an eye on Neiderreiter Oct 22
 *   Subban &. Brassard Net Gains Oct 16
 *   European League/KHL Update Oct 13
@@ -192,7 +193,6 @@ COLUMNS
 *   CHL Quick Starters Oct 4
 *   A Dose of the AHL Sep 27
 *   Chillin' in the CHL Sep 19
-*   The Mock Draft Sep 15
 
 PREMIUM CONTENT
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
-*   John Davidson close to deal with Columbus
-*   David Clarkson signs with Austrian club team
-*   Alfredsson still contemplating his NHL future
-*   Luongo's agent denies Leafs trade rumor
-*   RNH nets a pair in win over Lake Erie
-*   Damien Brunner adds to Swiss scoring lead
-*   Tyler Seguin hat trick leads Biel over Ambri
-*   Report: Tuukka Rask (groin) hurt overseas
-*   Patrick Kane will join Biel in Swiss League A
-*   Kurtis Foster inks deal with Tappara
-*   Chris Stewart leaves Germany for Czech League
-*   KHL team hopes Voracek can practice soon
+*   Scott Hartnell to play in Finland by Nov. 15
+*   Even President Obama is puzzled by lockout
+*   Anthony Mantha dominates in jaw-dropping game
+*   Jonathan Drouin a force with four-point night
+*   Donald Fehr: Players are ready to meet again
+*   Fedotenko's hat trick sinks Malkin's KHL team
+*   Winter Classic decision won't come until Nov
+*   Gary Bettman: NHL isn't considering expansion
+*   Hedberg: Salary cutbacks could damage NHL
+*   James van Riemsdyk might end up in Europe
+*   Davidson will join the Columbus Blue Jackets
+*   Islanders will move to Brooklyn in 2015
 
 NASCAR PAGES
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Carl Edwards fast facts at Martinsville
+*   Jason White Martinsville Speedway notes
+*   Marcos Ambrose at Martinsville Speedway
+*   Pink Ribbon Campaign on Ken Schrader's No. 32
+*   Lofton still fighting for the Championship
+*   Cale Gale is back at the short track
+*   Sellers returns to Martinsville with TurnOne
+*   Allmendinger and Smith to share No. 51 Chevy
+*   Smith and Allmendinger to share No. 51 Chevy
 *   Riggs to pilot RBR's No. 92 at Martinsville
 *   Fast facts on Ron Hornaday at Martinsville
 *   Hornish has shown progress at Martinsville
-*   Ryan Truex debuts in Camping World Trucks
-*   Tim George Jr. in No. 93 at Martinsville
-*   Joey Coulter Martinsville stats
-*   Dillon heads to Martinsville as points leader
-*   Virginia is for Lovers and Jeff Burton
-*   Kevin Harvick doubles-up at Martinsville
-*   Paul Menard by the numbers at Martinsville
-*   Todd Peck brings 'new power' to Martinsville
-*   For Gordon, it's all rhythm at Martinsville
 
 GOLF PAGES
 
@@ -285,6 +285,8 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Garrigus pounces. Friday's tee times moved up
+*   Matteson spins bogey-free 63 to lead the CIMB
 *   Els (ankle) 'will be fine' for the WGC-HSBC
 *   Henley picks up second Web.com win in playoff
 *   Gainey teases 59. breaks through at McGladrey
@@ -292,11 +294,9 @@ FANTASY GOLF NEWS
 *   Love III tied for the lead at Seaside Course
 *   Furyk tied for 54-hole lead at the McGladrey
 *   Bowditch stumbles with a 75. one of many MDFs
-*   Crane ties Seaside Course record with a 62
 *   Atwal in charge at the McGladrey midpoint
 *   Ill Mark Anderson survives. 54-hole cut looms
 *   Dawson buries 9 birdies en route to co-lead
-*   Cauley ties the course record at Sea Island
 
 NFL DRAFT PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Dysert For Dinner Oct 24
 *   Prospect Snapshots: Weeks 7-8 Oct 23
 *   Senior Surprise: RB Gillislee Oct 22
 *   Senior Prospect Rankings Oct 21
@@ -318,7 +319,6 @@ COLUMNS
 *   The Forgotten One Oct 17
 *   Kenny Vaccaro: Spread Stopper Oct 15
 *   Week Seven Matchup Preview Oct 12
-*   The Human Genome Oct 10
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Buckeyes RB Hall re-injures knee, redshirt?
+*   McShay: Thomas, Bray, Boyd off Draft board
+*   Robert Woods not thinking about the NFL, yet
+*   Ferentz sticking with James Vandenberg at QB
+*   Weidl: McCarron 'coming along', not there yet
+*   Sooners FB Trey Millard a 'perfect throwback'
+*   Dion Sims is practicing in preparation for UW
+*   Former teammate tweets Abry Jones out for yr
 *   Werner talked with agents, focused on season
 *   Geno hasn't inspired the confidence to be 1st
 *   Pauline: Source says Bernard could be top RB
 *   Pauline: Sources say CB Rhodes will declare
-*   Huskers RB Burkhead out vs Michigan (knee)
-*   Dooley: Bray may be benched if not improved
-*   Da'Rick Rogers hauls in 3 TDs vs EKU
-*   Duke WR Vernon misses practice after hit
-*   Mannion healthy enough to start vs Huskies
-*   Terps starting QB Hills out for year (ACL)
-*   'Consensus' is QBs Bray, Thomas should return
-*   Meyer: Williams responsible for one TD pass
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Report: Sean Lee (toe) done for the season
-*   MLB:Madison Bumgarner named Game 2 starter
-*   MLB:Zito to start Game 1 of World Series vs. DET
-*   NFL:Report: Mario Williams mulling wrist surgery
-*   MLB:Red Sox and David Ortiz not yet close to deal
-*   NFL:Dez Bryant on groin injury: 'Nothing major'
-*   NFL:MJD escapes Lisfranc, out 'multiple games'
-*   NFL:Jimmy Graham could be 'full go' Wednesday
-*   NFL:Report: Gabbert to play unless docs block him
-*   MLB:Marlins fire Ozzie Guillen after one season
-*   NFL:Burleson needs surgery, could miss 8 months
-*   NBA:Austin Rivers day-to-day w/ sprained ankle
+*   NBA:Kobe Bryant (foot) could miss season opener
+*   NBA:Tyson Chandler on crutches, MRI coming
+*   MLB:Zito holds down Tigers, Giants take Game 1
+*   MLB:Panda belts three homers, SF rocks Verlander
+*   NFL:Redskins WR Garcon has 'plantar plate tear'
+*   NBA:Andrew Bynum unlikely to be ready for opener
+*   MLB:M's decline Miguel Olivo's $3M option for '13
+*   MLB:Delmon Young starts in left field for Game 1
+*   NFL:Rashard Mendenhall not practicing Wednesday
+*   NFL:Jimmy Graham (ankle) limited on Wednesday
+*   NFL:Mario Williams day-to-day after wrist surgery
+*   GOL:Garrigus pounces. Friday's tee times moved up
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1T. RichardsonNFL (7915)
-*   2A. BradshawNFL (7644)
-*   3J. DwyerNFL (7158)
-*   4R. MendenhallNFL (6756)
-*   5J. GrahamNFL (6719)
+*   1T. RichardsonNFL (8046)
+*   2J. DwyerNFL (7651)
+*   3M. Jones-DrewNFL (7522)
+*   4A. BradshawNFL (6863)
+*   5R. MendenhallNFL (6806)
 
-*   6M. Jones-DrewNFL (6580)
-*   7A. BrownNFL (5632)
-*   8D. BrownNFL (5524)
-*   9D. MurrayNFL (5489)
-*   10D. BryantNFL (5486)
+*   6J. GrahamNFL (6297)
+*   7D. BryantNFL (5745)
+*   8D. MurrayNFL (5745)
+*   9D. BrownNFL (5676)
+*   10F. JonesNFL (5575)
 
   
 Video Center
@@ -525,6 +525,8 @@ Video Center
 *   4
 *   »
 
+*      
+    Start or Sit: Bucs - Vikings
 *      
     Fix: Week 8's top pickups
 *      
@@ -539,39 +541,37 @@ Video Center
     Week 7 Starts &. Sits 1 p.m.
 *      
     Fix: NBA rookies to draft
-*      
-    Start &. Sit: Seahawks - 49ers
 
   
   
-  Headlines Week 8 Target Watch: AFC  
-Oct 24 Which players got all the targets in Week 7? Chet Gresham analyzes every AFC team.  
+  Headlines Week 8 Target Watch: NFC  
+Oct 25 Which players got all the targets last week and so far this season? Chet Gresham breaks down every NFC team's Week 7 performers.  
   
 More NFL Columns
 
+*   »Week 8 Target Watch: NFC Oct 25
+*   »Arming Amendola Oct 25
+*   »Getting Defensive: Week 8 Oct 24
 *   »Week 8 Target Watch: AFC Oct 24
 *   »Stewart's Salvation? Oct 24
+*   »Best Available NFL Free Agents Oct 24
 *   »Matchup: Bucs @ Vikings Oct 23
 *   »Week 8 Top Pickups Oct 23
-*   »Revving up Rashad Oct 23
-*   »Silva: Season Pass Chat Oct 23
-*   »What Gives, Matt? Oct 23
-*   »Best Available NFL Free Agents Oct 23
 
 NFL Headlines
 
-*   »Report: Sean Lee (toe) done for the season
-*   »Report: Mario Williams mulling wrist surgery
-*   »Cardinals had planned RB rotation in Week 7
-*   »Dez Bryant on groin injury: 'Nothing major'
-*   »Jimmy Graham could be 'full go' Wednesday
-*   »Report: Gabbert to play unless docs block him
-*   »MJD escapes Lisfranc, out 'multiple games'
-*   »Burleson needs surgery, could miss 8 months
-*   »Panthers planned Stewart as clear feature RB
-*   »Browns' Holmgren: 'I did miss the coaching'
-*   »Felix Jones expected to start versus Giants
-*   »Browns discussing 3-week shutdown of T-Rich
+*   »Redskins WR Garcon has 'plantar plate tear'
+*   »Rashard Mendenhall not practicing Wednesday
+*   »Jimmy Graham (ankle) limited on Wednesday
+*   »Mario Williams day-to-day after wrist surgery
+*   »DeMarco Murray not expected back for Week 8
+*   »Jones-Drew says he has no timetable right now
+*   »Trent Richardson participates in walkthrough
+*   »Ahmad Bradshaw rests his foot on Wednesday
+*   »Danny Amendola returns to a limited practice
+*   »Report: Greg Jennings visits groin specialist
+*   »Bills want 30-40 touches for F-Jax, Spiller
+*   »Panthers lose MLB Jon Beason for the season
 
 NFL Links
 
