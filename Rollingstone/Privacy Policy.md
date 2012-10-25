@@ -38,7 +38,7 @@ Rolling Stone Skip to the content.
 *   •
 *   RS Soundtrack
 *   •
-*   On the Road
+*   On The Road
 
 *   Matt Taibbi
 *   Peter Travers
