@@ -143,6 +143,13 @@ Naples Daily News
 *   Cars
 *   Classified
 
+*   Lake Wind Advisory
+    
+    IN EFFECT UNTIL OCT 25, 7:00 p.m.
+    
+    issued for Lee
+    
+
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -435,25 +442,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Woman says she was raped by group of men at local hotel Published 10/23/2012 at 5:00 p.m.
-*   Plan for new Florida license plates put on hold Updated 10/23/2012 at 1:04 p.m. 28 comments
-*   Collier County supports continuing 287(g) immigration program Published 10/23/2012 at 11:13 a.m. 96 comments
-*   Woman critically injured in Alligator Alley wreck Updated 10/23/2012 at 8:35 p.m.
-*   Naples Players dare to go bare in steamy French thriller Published 10/22/2012 at 4:01 a.m. 12 comments
+*   Donald Trump offers $5 million if Obama releases personal records Published 10/24/2012 at 1:04 p.m. 119 comments
+*   Tampa man arrested in East Naples hotel rape Published 10/24/2012 at 4:19 p.m. 49 comments
+*   Accusations fly as commissioners agree to fire disgruntled manager Published 10/24/2012 at 5:15 a.m. 59 comments
+*   In the Know: Seconds, anyone? Even more area restaurants planning to open soon Published 10/24/2012 at 5:00 a.m. 18 comments
+*   Venice diocese removes once-popular priest in Bonita Springs from priesthood Published 10/24/2012 at 5:10 a.m. 32 comments
 
-Photo Galleries Historic Photos: Everglades National… Fort Myers ZombiCon 2012 Disaster Training - SWFL Intn'l Airport
+Photo Galleries Fort Myers ZombiCon 2012 Historic Photos: Everglades National… Collier Teachers Surprised With Grants
 
-*   Final debate: Challenging each other face to face Published 10/22/2012 at 10:30 p.m. 263 comments
+*   Final debate: Challenging each other face to face Published 10/22/2012 at 10:30 p.m. 319 comments
 *   5 things to watch for tonight in final presidential debate Published 10/22/2012 at 6:34 a.m. 133 comments
-*   Collier County supports continuing 287(g) immigration program Published 10/23/2012 at 11:13 a.m. 96 comments
-*   Coin toss: Blaming Obama, East Naples man accused of throwing pennies at Dems Published 10/20/2012 at 10:10 p.m. 110 comments
+*   Donald Trump offers $5 million if Obama releases personal records Published 10/24/2012 at 1:04 p.m. 119 comments
+*   Collier County supports continuing 287(g) immigration program Published 10/23/2012 at 11:13 a.m. 107 comments
 *   Obama, Romney seek foreign policy edge in final debate tonight Published 10/22/2012 at 1:28 p.m. 94 comments
 
 *   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 54 comments
+*   Venice diocese removes once-popular priest in Bonita Springs from priesthood Published 10/24/2012 at 5:10 a.m. 32 comments
 *   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 290 comments
 *   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 54 comments
 *   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
-*   In the Know: What can and can't be recycled in Collier County? Published 10/15/2012 at 5:00 a.m. 12 comments
 
 Weather
 
@@ -461,40 +468,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 72° Fair Wind: NE 8mph Today 87° 71° Wed 08:00 PM Partly Cloudy Showers Temp: 81° Thu 08:00 AM Partly Sunny Showers Temp: 76° Thu 08:00 PM Partly Cloudy Showers Temp: 78°
+Currently 74° Fair Wind: NE 8mph Today 85° 74° Thu 08:00 PM Mostly Cloudy Showers Temp: 80° Fri 08:00 AM Mostly Cloudy Showers Temp: 76° Fri 08:00 PM Partly Cloudy Showers Temp: 77°
 
-Feels Like: 84°
+Feels Like: 83°
 
 Humidity: 69%
 
-Precip: 20%
+Precip: 30%
 
 Feels Like: 76°
 
-Humidity: 81%
+Humidity: 77%
 
-Precip: 20%
+Precip: 40%
 
-Feels Like: 78°
+Feels Like: 77°
 
-Humidity: 74%
+Humidity: 66%
 
-Precip: 20%
+Precip: 40%
 
 More Weather » Calendar
 
-*   Wednesday Oct 24
 *   Thursday Oct 25
 *   Friday Oct 26
+*   Saturday Oct 27
 *   More BROWSE Icon
-
-*   Women Business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
-*   Women business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Yoga at the Center for the Arts Center for the Arts of Bonita Springs 8 a.m.
-*   Yamuna Body Rolling Class Etudes de Ballet 8:50 a.m.
-
-More Events »
 
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
@@ -509,6 +508,14 @@ More Events »
 *   Baby boot camp Miromar Outlets 9 a.m.
 *   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
 *   Mangrove Estuary Kayak Tour with Up A Creek Kayak Tours Waters of Rookery Bay Reserve 9 a.m.
+
+More Events »
+
+*   Race the Roof Benefit for Habitat for Humanity Verandah Golf &. Country Club 7 a.m.
+*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
+*   Third Street South Farmers Market Third Street South 7:30 a.m.
+*   Yard Sale and Market Saint Paul's Episcopal Church 8 a.m.
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 
 More Events »
 
