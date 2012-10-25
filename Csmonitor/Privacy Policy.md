@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Mourdock did not voice Romney's views, says spokeswoman
-2.  Tropical Storm Sandy threatens Jamaica (+video)
-3.  Rejected fruit flies use alcohol to cope
-4.  Donald Trump teases 'big' announcement: Is he trying to get in Obama's head?
-5.  On the sun: Massive solar flare unleashed (+video)
+1.  Mourdock stands by rape remarks, refuses to apologize
+2.  With 60,000 dead, Mexicans wonder why drug war doesn't rate in presidential debate
+3.  October surpri...zzzzz: Donald Trump's Obama 'bombshell' fizzles
+4.  Halloween scare? Hurricane Sandy shows similarities to 'perfect storm.' (+video)
+5.  Humongous Milky Way photo captures 84 million stars
 
 About these ads
 
@@ -112,16 +112,16 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 Editors' Picks:
 
 *   Focus  
-    Obama or Romney: Whose debt reduction plan does history favor?
+    Can a gang truce in El Salvador open the door to lasting peace?
     
-    The two presidential candidates would pursue different paths to lead the US out of debt. Here's how debt-saddled countries of yore have dealt – successfully and unsuccessfully – with the problem, and how those lessons might apply today.
+    For years El Salvador battled gangs with prison sentences and an iron fist. But a gang truce brokered in March has lasted longer than anyone expected, with homicide rates plummeting.
     
-*   Decoder Wire: Presidential debate 101: Does US military still use horses and bayonets?
-*   Why Miami-Dade schools won prestigious Broad Prize for urban districts
-*   More Americans tap retirement funds. Is that OK?
-*   Global News Blog: In debate, Romney reiterates Russia is 'geopolitical foe' of US
+*   Progress Watch: Confounding expectations, global hunger is down (+video)
+*   Decoder Wire: October surpri...zzzzz: Donald Trump's Obama 'bombshell' fizzles
+*   Will the Tour de France be able to overcome Lance's legacy?
+*   Decoder Wire: Will Richard Mourdock's rape remarks hurt Mitt Romney? (+video)
 
-_Photos of the day_ 10.22.12 » Photos of the Day 10/22
+_Photos of the day_ 10.24.12 » Photos of the Day 10/24
 
 **CSMonitor.com** on Facebook
 
@@ -143,16 +143,18 @@ Steven Amstrup says it's not too late to save polar bears – and ourselves
 
 Become part of the Monitor community
 
+*   USA 2012 World Series quiz: How much do you know about the Detroit Tigers?
+*   Innovation Meet Apple's thinner, faster, stronger iMac
+*   The Culture The X Factor final 16 revealed . . . finally
+*   USA 2012 World Series quiz: Are you a real San Francisco Giants fan?
+*   USA Focus: Obama or Romney: Whose debt reduction plan does history favor?
 *   Business Walmart legal troubles mount as Black Friday walkout looms
 *   USA Aaron, Eli, and Andrew: quarterbacks on parade. A Week 7 NFL quiz
+*   Making a Difference Steven Amstrup says it's not too late to save polar bears – and ourselves
 *   The Culture Lindsay Lohan intervention: Why did it fail? (+video)
-*   USA Donald Trump teases 'big' announcement: Is he trying to get in Obama's head?
 *   Commentary The Monitor's View: With Lance Armstrong stripped of Tour de France titles, cycling can recover
 *   The Culture Chevy Chase rant: 'Community' star uses racial epithet on set
-*   Making a Difference Steven Amstrup says it's not too late to save polar bears – and ourselves
 *   Books Pippa Middleton: Why am I famous?
-*   The Culture Obama and Jay-Z swap parenting advice
-*   Science For Mars rover Curiosity, at last, it's dinnertime. On the menu: dirt.
 
 About these ads
 
