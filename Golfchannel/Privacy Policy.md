@@ -1,115 +1,115 @@
 PGA Tour
 
 *   PGA Tour
-    *   The McGladrey Classic
+    *   CIMB Classic
 *   European Tour
-    *   ISPS Handa Perth International
+    *   BMW Masters
 *   LPGA
-    *   LPGA KEB - HanaBank Championship
+    *   Sunrise LPGA Taiwan Championship...
 *   Web.com Tour
-    *   Winn-Dixie Jacksonville Open Pre...
+    *   Web.com Tour Championship at TPC...
 *   Titleist On Tour
 
-The McGladrey Classic View Leaderboard >.
+CIMB Classic View Leaderboard >.
 
 *   1
-*   T.Gainey
-*   \-16
-*   F
-
-*   2
-*   D.Toms
-*   \-15
-*   F
-
-*   3
-*   J.Furyk
-*   \-14
-*   F
-
-*   T4
-*   B.de Jonge
-*   \-12
-*   F
-
-*   T4
-*   D.Love III
-*   \-12
-*   F
-
-*   T4
-*   D.Trahan
-*   \-12
-*   F
-
-*   T7
-*   C.Campbell
-*   \-11
-*   F
-
-*   T7
-*   C.Howell III
-*   \-11
-*   F
-
-*   T7
-*   G.Owen
-*   \-11
-*   F
-
-*   T10
-*   A.Atwal
-*   \-10
-*   F
-
-*   T10
-*   C.Beljan
-*   \-10
-*   F
-
-*   T10
-*   D.Mathis
-*   \-10
-*   F
-
-*   T10
-*   M.Thompson
-*   \-10
-*   F
-
-*   T10
-*   M.Wilson
-*   \-10
-*   F
-
-*   T15
-*   B.Adams
-*   \-9
-*   F
-
-*   T15
-*   D.Chopra
-*   \-9
-*   F
-
-*   T15
-*   H.English
-*   \-9
-*   F
-
-*   T15
-*   K.Reifers
-*   \-9
-*   F
-
-*   T15
-*   S.Stallings
-*   \-9
-*   F
-
-*   T20
-*   S.Brown
+*   T.Matteson
 *   \-8
+*   F
+
+*   T2
+*   R.Garrigus
+*   \-7
+*   F
+
+*   T2
+*   B.Harman
+*   \-7
+*   F
+
+*   T2
+*   J.Overton
+*   \-7
+*   F
+
+*   T5
+*   G.Bhullar
+*   \-6
+*   F
+
+*   T5
+*   T.Gillis
+*   \-6
+*   F
+
+*   T7
+*   R.Barnes
+*   \-5
+*   F
+
+*   T7
+*   G.Chalmers
+*   \-5
+*   F
+
+*   T7
+*   D.Chia
+*   \-5
+*   F
+
+*   T7
+*   J.Holmes
+*   \-5
+*   F
+
+*   T7
+*   J.Kruger
+*   \-5
+*   F
+
+*   T7
+*   T.Woods
+*   \-5
+*   F
+
+*   T13
+*   K.Na
+*   \-4
+*   F
+
+*   T13
+*   P.Perez
+*   \-4
+*   F
+
+*   T13
+*   K.Stadler
+*   \-4
+*   F
+
+*   T16
+*   B.Crane
+*   \-3
+*   F
+
+*   T16
+*   B.de Jonge
+*   \-3
+*   F
+
+*   T16
+*   J.Dufner
+*   \-3
+*   F
+
+*   T16
+*   M.Laird
+*   \-3
+*   F
+
+*   T16
+*   D.Lipsky
+*   \-3
 *   F
 
 *   **FULL LEADERBOARD**
@@ -118,10 +118,10 @@ Prev Next
 
 *   Scores View all tours &. Tournaments Tournaments
     
-    *   The McGladrey Classic
-    *   ISPS Handa Perth International
-    *   LPGA KEB - HanaBank Championship
-    *   Winn-Dixie Jacksonville Open Presented by Planters
+    *   CIMB Classic
+    *   BMW Masters
+    *   Sunrise LPGA Taiwan Championship 2012
+    *   Web.com Tour Championship at TPC Craig Ranch
     
     Tours
     *   PGA Tour
@@ -280,15 +280,15 @@ Prev Next
 *   Grill Room
 
 *   Tommy Gainey
-*   British Open Championship
-*   FedEx Cup
-*   Rory McIlroy
+*   Big Break Greenbrier
+*   CIMB Asia Pacific Classic
 *   Tiger Woods
-*   Ryder Cup
-*   Las Vegas
-*   PGA Championship
-*   Lee Westwood
-*   Masters Tournament
+*   Rory McIlroy
+*   Jack Nicklaus
+*   Martin Kaymer
+*   Ray Beaufils
+*   Sam Snead
+*   Justin Rose
 
 **Privacy Policy**
 
@@ -529,7 +529,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,639 facebook.com/GolfChannel 120,517 twitter.com/GolfChannel Newsletter
+Social 233,722 facebook.com/GolfChannel 120,645 twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
