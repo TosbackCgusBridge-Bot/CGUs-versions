@@ -187,10 +187,6 @@ It is also a sound practice to differentiate passwords across multiple online ac
 
 Back to top
 
-Enter a valid 5-digit ZIP Code
-
-ZIP Code is Required
-
 About SHOP YOUR WAY REWARDSSM It's our free program that rewards our best customers. As a Shop Your Way Rewards customer you earn Points when you buy the things you want and need. Then you redeem those Points online or in store at Sears, Kmart, Lands' End, the great indoors, Sears Home Services, Sears Auto and mygofer. The more you shop, the faster your Points and special benefits pile up. It's a simple, fun and exciting way to shop. X Join now Shop Social at Sears Check out our new beta social shopping site where you can follow fellow shoppers, see ratings &. reviews, create a public profile, and get everything you want easier and quicker than ever before. X Enter Zipcode or City and State Zip Code City State AKALARAZCACOCTDCDEFLGAGUHIIAIDILINKAKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPAPRRISCSDTNTXUTVAVIVTWAWIWVWY Please enter a valid zipcode.
 
 *   Deal of the Day
