@@ -230,7 +230,7 @@ We will take reasonable steps to protect the security of the personally identifi
 
 > For customer service matters (including questions relating to this Policy), you may reach us through our "Contact Us" web page located at www.LIVESTRONG.COM/contactus or send an email to support@livestrong.com. To send us a legal notice, mail it by certified mail (return receipt requested) to: LIVESTRONG.COM Legal Department, 5808 Lake Washington Blvd, Suite 300. Kirkland, WA 98033 or fax us at 425-298-2780. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or to your LIVESTRONG.COM email account, or we may post notice on the Site. You must keep your email address information accurate.
 
-LIVESTRONG is a registered trademark of the Lance Armstrong Foundation in the United States and other countries. Copyright © 2011. DEMAND MEDIA, INC.
+LIVESTRONG is a registered trademark of the LIVESTRONG Foundation in the United States and other countries. Copyright © 2011. DEMAND MEDIA, INC.
 
 Food Fitness Health Weight Loss Lifestyle Track Calories Community Blogs
 
@@ -240,17 +240,17 @@ Get the latest tips on diet, exercise and healthy living.
 
 Your email is safe with us. We hate spam too!
 
-Featured this week on livestrong.com
+Featured this week on livestrong.com woman.
 
+*   Oct 23, 2012 How To Get Fit  
+    At Home
 *   Oct 22, 2012 The New Key  
     To Fat Loss
 *   Oct 21, 2012 Beat High Heel Pain  
     
 *   Oct 20, 2012 Top Tips For Reading  
     Nutrition Labels
-*   Oct 19, 2012 The Do's and Don'ts  
-    Of Perfect Eyebrows
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
 
-Copyright © 2012 Demand Media, Inc. Use of this web site constitutes acceptance of the LIVE**STRONG**.COM Terms of Use and Privacy Policy. The material appearing on LIVE**STRONG**.COM is for educational use only. It should not be used as a substitute for professional medical advice, diagnosis or treatment. LIVE**STRONG** is a registered trademark of the Lance Armstrong Foundation. The Lance Armstrong Foundation and LIVE**STRONG**.COM do not endorse any of the products or services that are advertised on the web site. Moreover, we do not select every advertiser or advertisement that appears on the web site-many of the advertisements are served by third party advertising companies. Ad Choices
+Copyright © 2012 Demand Media, Inc. Use of this web site constitutes acceptance of the LIVE**STRONG**.COM Terms of Use and Privacy Policy. The material appearing on LIVE**STRONG**.COM is for educational use only. It should not be used as a substitute for professional medical advice, diagnosis or treatment. LIVE**STRONG** is a registered trademark of the LIVESTRONG Foundation. The LIVESTRONG Foundation and LIVE**STRONG**.COM do not endorse any of the products or services that are advertised on the web site. Moreover, we do not select every advertiser or advertisement that appears on the web site-many of the advertisements are served by third party advertising companies. Ad Choices
