@@ -8,7 +8,7 @@ Groupon: Collective Buying Power
 *   All Deals
 *   Getaways
 *   Goods New
-*   Favorite Deals
+*   Holiday Deals
 
 *   Sign In
 *   Sign Up
@@ -324,6 +324,8 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
 *   Unbeatable Deals for Local Adventures!
     
     Groupon is an easy way to get huge discounts while discovering fun activities in your city. Our daily local deals consist of restaurants, spas, things to do, nightlife, massages, salons, hotels, and a whole lot more, in hundreds of cities across the world.
+    
+    Visit us soon for Black Friday deals and Cyber Monday sales
     
     © 2012 Groupon, Inc. All Rights Reserved.
     
