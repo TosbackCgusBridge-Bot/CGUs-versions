@@ -178,7 +178,7 @@ Skip main navigation Cambiar a español My Account CLUB Visa Account Wish List V
     *   Other Ways to Shop Boating:
     *   **New for 2012:**&nbspElectronics&nbsp&nbsp&nbspAccessories
 
-*   *   Tents
+*   *   Tents &. Shelters
     *   Sleeping Bags
     *   Cots, Pads, &. Beds
     *   Camping Combos
