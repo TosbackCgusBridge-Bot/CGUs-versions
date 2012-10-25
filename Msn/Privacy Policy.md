@@ -211,14 +211,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
-    *   Rosenthal: World Series Preview
-    *   Manchester United v Braga UEFA Champions League Highlights 10/23/12
-    *   NFL on FOX: Campaigning for RG3
-    *   Barcelona v Celtic UEFA Champions League Highlights
-    *   Shakhtar Donetsk v Chelsea UEFA Champions League Highlights
-    *   Online OT: WAS/NYG
-    *   Verlander on Game 1 start
-    *   Morosi: Ozzie out in Miami
+    *   World Series on FOX: Sandoval Sensational
+    *   Morosi: World Series Game 1 Recap
+    *   World Series on FOX: Zito on Game 1
+    *   Fearless Predictions: ND/Oklahoma
+    *   Arsenal v Schalke UEFA Champions League Highlights 10/24/12
+    *   Ajax v Manchester City UEFA Champions League Highlights 10/24/12
+    *   Borussia Dortmund, Real Madrid analysis
+    *   Manchester City falling asleep
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -344,7 +344,7 @@ Close Email A Friend Your email has been sent.
     *   Video
 *   Living
     *   style
-    *   décor
+    *   d??cor
     *   sex &. relationships
     *   family
     *   inspire
@@ -504,33 +504,33 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   Bucs slowly finding themselves under Schiano
-*   Vikings' Peterson back to 'All Day' mindset
-*   Vikings' Ponder struggling but not stressing
+*   Budinger leads Wolves over Pistons
+*   Vikings test perfect home mark vs. Bucs
+*   Vikings will be tested by stout Bucs run 'D'
 
-*   ALMS: Series Crowns 2012 Champions
-*   INDYCAR: Three-Time Indy 500 Starter Eddie...
-*   MOTOGP: Trio Share Phillip Island Spotlight
+*   VIDEO: Starworks Shanghai WEC Preview
+*   LE MANS: Potolicchio, Starworks Part Ways
+*   LE MANS: Julian Announces Retirement
 
-*   Vikings inch forward in AP Pro32 rankings
-*   Vikings finding positives in quick turnaround
-*   Holler: Vikings' bandwagon still tempered
+*   Collin Klein Interview
+*   A win over MSU means a happy Bama homecoming
+*   Redskins' Griffin Not There Yet
 
+*   UFC Unrestricted – A FUEL TV Special
 *   Signature Moves: Cung Le
 *   GSP: The Comeback
-*   UFC Fighter Trivia: Pop Culture Challenge
 
-*   Armstrong removes 'Tour de France winner'...
-*   Mizzou employee paid big strip club bill on...
-*   USM QB's mom arrested at game
+*   Manning, Hall trade shots over TD
+*   Eagles DE: Castillo didn't change
+*   Radio host fired over tweet
 
-*   Cruz Azul quiere Libertadores
-*   Valverde es el dilema de Tigers
-*   Morelia triunfa en casa ante Atlas
+*   Gran noche de Sandoval
+*   Fase de grupos jormada 3
+*   TITU POSICIONES Champions League
 
-*   Donovan considering retirement
-*   Anti-racism plan announced by union
-*   Llorente wanted by Juventus
+*   Nani unsure about United future
+*   Real favorite to sign De Rossi
+*   Ajax shocks mighty Manchester City
 
 *   *   NFL
     *   NFL Home
