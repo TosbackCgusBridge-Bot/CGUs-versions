@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Wednesday 24 October 2012
+Thursday 25 October 2012
 
 *   Home
 *   News
@@ -138,13 +138,13 @@ In About us
 
 Editor's Choice »
 
-Dear Sir, we've all got a lot to be sorry about  
+Wolfgang Puck: the world's best restaurants  
 
-Following Michael Gove’s apology to his former French teacher for 'clever dick’ remarks, five writers reveal what they would like to say to their old teachers.
+The celebrated chef Wolfgang Puck shares his selection of the best restaurants in the world.
 
 Comments
 
-Girls face 'peer pressure' to drop out of sport Seymour Hoffman on 'Scientology' movie Harry Wallop takes on the Onesie How crowdfunding is changing business Advertisement
+'You have to be a terrible monster to write' Britain's press must remain free Why pushy parents fail to make the grade Al Murray: the Pub Landlord and me Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
@@ -155,6 +155,7 @@ Back to top
 Hot Topics
 
 *   Jimmy Savile
+*   UK Economy
 *   US Election
 *   Syria
 *   Weather
