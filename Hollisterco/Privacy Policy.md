@@ -4,11 +4,13 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Last Day - All Jeans $29!
+\[hol-HomepageTopBannerEMS\] Members get Free Shipping on orders over $100 when signed in!
 
-*   Shop Dudes Jeans
+*   Join
 
-*   Shop Bettys Jeans
+*   Sign In
+
+*   Learn More
 
 *   see details
 
