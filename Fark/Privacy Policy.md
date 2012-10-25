@@ -148,49 +148,49 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    Fark Logo - Decal
+    EVERYBODY PANIC!
 *     
-    Breakup Recovery Kit
+    R2-D2 9" Talking Plush
 *     
-    Stay Puft - Talking Plush
+    H2EAU Carafe and Glass
 *     
-    Screwed by Wall Street - Corkscrew
+    Mustang (Red/White Stripes) Wireless Road Mice
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
-Door to Door Atheists \[COMIC\]  
 Watch Hot Cheerleaders Go Gangnam Sty...  
-The 10 Dumbest Reasons People Have Ca...  
+The Truth Behind NFL Logos  
+A Sick Twitter Joke Gone Too Far...  
 Christian Bale's Wild Body Transforma...  
 More news at Scribol »  
   
   
-Pre-Labor Day Pregnant Bikini Contest  
-The State Fair Food That Will Cause Y...  
-The 20 Worst Hipster Bands: The Compl...  
-Internet Cat Video Film Festival Exists  
-More news at Village Voice »  
+〈center〉 〈i〉 $780,000〈/i〉〈/center〉  
+Amateur Astronomer Captures Clear VID...  
+Kidnapping Leaves Man With Severed Pe...  
+Man Takes A Bite Out Of Crime -- And...  
+More news at HuffPostWeirdNews »  
+  
+  
+Watercooler Stories  
+Jockstrip: The world as we know it.  
+Your Daily Horoscope  
+People in the news  
+More news at UPI »  
   
   
 We Show It ALL  
+Meet Derek, The Abstinence Clown  
 Real Ghosts  
 Scary Little Babies  
-Facebook FAILS  
 More news at truTV »  
-  
-  
-Bobby Brown -- Arrested for DUI ... A...  
-Christina Applegate -- Fiance Threate...  
-Chris Brown's Ex Karrueche Tran -- Ri...  
-Lindsay Lohan Intervention -- Michael...  
-More news at TMZ »  
   
 
 Also on Fark
 
-Main Woman wins national car parking championship ( thelocal.de ) » (29 comments) Sports After five players suffered concussions, coaches, referees, and parents congratulate the players on finishing the game. Difficulty: A Pee-Wee game ( nytimes.com ) » (45 comments) Business Zynga well on its way to winning this years' Classiest Company Award, lays off 100 people and closes studio during Apple press conference ( gamasutra.com ) » (26 comments) Geek The US Navy is just "two years away" from laser weapons like "they had in Star Trek," claims top admiral. No word where the bayonets will be mounted ( abcnews.go.com ) » (79 comments) Entertainment CBS shows how hip it is to the times by proposing a sitcom based on Nirvana's 'Smells Like Teen Spirit.' ( loudwire.com ) » (61 comments) Politics An open letter to Ann Coulter from Special Olympics athlete John Franklin Stephens ( specialolympicsblog.wordpress.com ) » (265 comments) Video Improv Everywhere has a board meeting. In Staples ( improveverywhere.com ) » (24 comments) FarkUs Farker Bondith explains how rainbows work in this latest offering from Science Isn't Scary ( youtube.com ) » (3 comments)
+Main Protip: If you're trying to outrun store employees after shoplifting, try not to drop the court documents with your name and address ( nydailynews.com ) » (7 comments) Sports News: UNC receiver Erik Highsmith suspended for plagiarism. Fark: He plagiarized a piece written by four 11-year-olds ( washingtonpost.com ) » (31 comments) Business Bank of America sued for $1 billion by Federal Government for mortgage fraud. so pay no attention to that $5 fee next time you use your BoA debit card at one of their ATMS ( money.cnn.com ) » (43 comments) Geek Young people still frequent libraries, saying they like to actually see for themselves these "books" their parents used to speak of ( mediadecoder.blogs.nytimes.com ) » (17 comments) Entertainment Justin Timberlake snubs former 'N Sync band members from his wedding after the hotel reminds him they already have their own valet parking crew ( foxnews.com ) » (1 comment) Politics Wait, as the owner of a newspaper, you people expect me to inform you that I invested in the anti-Obama film 2016? Really? I gotta plead ignorance on this ( rawstory.com ) » (51 comments) Video Hearing Frosty The Snowman sing "Ghost Riders in the Sky" gives a whole new head trip to the holidays ( youtube.com ) » (6 comments) FarkUs Cartoonist wanted for American-Splendor-style collaboration on a boy-and-dog comic strip. First month or so of strips already plotted out. Just need a good cartoonist ( fark.com ) » (1 comment)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main Woman wins national car parking championship ( thelocal.de ) » (29 commen
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 24 2012 08:00:33  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 25 2012 08:00:33  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
