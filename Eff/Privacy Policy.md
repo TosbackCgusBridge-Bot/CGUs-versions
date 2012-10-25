@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-Small business owner asks court to unseal warrants used in Megaupload seizure in quest to get his data back https://eff.org/r.4apn
+Want a world with open access to 3D printing? Help EFF fight bad patent applications that threaten new tech. https://eff.org/r.5apx
 
-Oct 23 @ 2:04pm
+Oct 24 @ 2:11pm
 
-On the dangers of pressuring Internet companies to balance free speech with other interests, by EFF's @TrevorTimm: https://eff.org/r.a8pr
+NSA whistleblowers William Binney and J. Kirk Wiebe: The Supreme Court must be last bulwark against NSA spying https://eff.org/r.a9pw
 
-Oct 23 @ 1:51pm
+Oct 24 @ 1:15pm
 
 *   Twitter
 *   Facebook
@@ -126,7 +126,6 @@ Projects
 *   HTTPS Everywhere
 *   Bloggers' Rights
 *   Coders' Rights
-*   FOIA Project
 *   Follow EFF
 *   Free Speech Weak Links
 *   Global Chokepoints
