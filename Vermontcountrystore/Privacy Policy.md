@@ -108,17 +108,28 @@ Skip to Navigation Skip to Main Content
     *   Oils, Vinegars &. Condiments
     
     *   New This Season
+    *   Holiday Food &. Candy
     *   Spirited Treats
     *   Tastes of Vermont
     *   International Foods
     *   Maple
-    *   Cheese, Nuts and Fruit
+    *   Cheese, Nuts &. Fruit
     *   Sugar Free
     *   Breakfast
     *   Food &. Candy Favorites
     *   SALE - Food &. Candy
-    *   Holiday Food &. Candy
 *   For The Home
+    
+    *   Christmas Shop
+    *   Seasonal Favorites
+    *   Holiday Decorations
+    *   Holiday Food &. Candy
+    *   Christmas Trees
+    *   Ornaments &. Tree Trimming
+    *   Candles
+    *   Balsam
+    *   Toys Favorites
+    *   Barclay Collectible Figurines
     
     *   Bed &. Bath
     *   Flannel Bedding
@@ -158,16 +169,6 @@ Skip to Navigation Skip to Main Content
     *   Cleaning Products
     *   Odor Control
     *   Pest Control
-    
-    *   Christmas Shop
-    *   Christmas Trees
-    *   Ornaments &. Tree Trimming
-    *   Holiday Decorations
-    *   Candles
-    *   Holiday Food &. Candy
-    *   Barclay Metal Figurines
-    *   Toys Favorites
-    *   Balsam
     
     *   New This Season
     *   Outdoor
@@ -214,7 +215,7 @@ Skip to Navigation Skip to Main Content
     *   Fisher Price
     *   Toys Favorites
 *   Gifts
-    *   Customer Favorites
+    *   Seasonal Favorites
     *   Gifts For Her
     *   Gifts For Him
     *   For The Kids
@@ -235,14 +236,15 @@ Skip to Navigation Skip to Main Content
 *   More Ways to Shop
     
     *   Christmas Shop
+    *   Seasonal Favorites
+    *   Holiday Decorations
+    *   Holiday Food &. Candy
     *   Christmas Trees
     *   Ornaments &. Tree Trimming
-    *   Holiday Decorations
     *   Candles
-    *   Holiday Food &. Candy
-    *   Barclay Metal Figurines
-    *   Toys Favorites
     *   Balsam
+    *   Toys Favorites
+    *   Barclay Collectible Figurines
     
     *   New This Season
     *   Sleepwear
@@ -253,7 +255,7 @@ Skip to Navigation Skip to Main Content
     *   Toys
     
     *   Brands From The Past
-    *   Barclay Metal Figurines
+    *   Barclay Collectible Figurines
     *   Fisher Price
     *   Lanz of Salzburg
     *   Leon Levin
