@@ -21,8 +21,8 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   Presidential Debates
 *   Libya Attacks
+*   Donald Trump
 *   Campaign 2012
 
 Take Action About TheBlaze
@@ -250,8 +250,8 @@ Sections
 
 Hot Topics
 
-*   Presidential Debates
 *   Libya Attacks
+*   Donald Trump
 *   Campaign 2012
 
 More from TheBlaze
