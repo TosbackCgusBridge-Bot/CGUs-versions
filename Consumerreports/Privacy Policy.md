@@ -283,10 +283,10 @@ Any disputes regarding this Privacy Policy are subject to our User Agreement and
      
 E-mail Newsletters **FREE** e-mail Newsletters!  
 Choose from safety, health, cars, and more! **Already signed-up?**  
-Manage your newsletters here too. Consumer News TABLET COMPUTER REVIEWS  
-iPad mini, $329, makes big splash in small-tablet market It's pricier than other 7-inch tablets but offers more screen real estate. CARS  
-New 2013 Ford Fusion makes a good first impression The controlled ride is supple, and the agile handling has a sporty demeanor. SAFETY &. RECALLS  
-'Company Doe' can stay anonymous in CPSC lawsuit The agency can't post details of an injury related to the company's product. HALLOWEEN 2012  
+Manage your newsletters here too. Consumer News HEALTH  
+The buzz on 27 popular energy drinks and shots We measured caffeine levels from 6 to 242 milligrams per serving. TIRES &. CAR CARE  
+Spray-on wheel cleaners may not be worth it One cheap general-purpose household cleaner worked just as well. SMART PHONE REVIEWS  
+MetroPCS adds Samsung Galaxy S III to its lineup The provider, with a $55 unlimited plan, is charging $499 for the device. HALLOWEEN 2012  
 Tips to keep your kids safe this Halloween Trick-or-treating is lots of fun, but it can also present some hazards. BANK FEES  
 Zombie bank accounts feed on your finances Most banks make it too hard for customers to close an account. SAFETY &. RECALLS  
 Super-strong magnetic toys injured dozens, doctors say When swallowed, the toys can bore holes in the stomach or intestines. Read More Connect Discuss products and safety with  
