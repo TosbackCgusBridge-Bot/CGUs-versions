@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
-Mitt Romney
+Hurricane
 
-Romney: Debates "supercharged" my campaign
+Video: Eye Opener: Hurricane Sandy lashes the Caribbean
 
-Microsoft
+China
 
-What you should know about the Microsoft Surface
+Bank of China Says It Hasn't Helped Hamas
 
 Politix
 
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
-  Ads by Glam
+ 
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 115,017 • Total comments across all topics: 188,980,978
+Comments made yesterday: 116,689 • Total comments across all topics: 189,086,090
 
 Copyright ©2012 Topix LLC
 
