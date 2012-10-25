@@ -15,17 +15,17 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
+Closet of the Month
+
+Take a peak inside the DJ's closet in her Manhattan apartment.
+
+Tales in Retail: A Versace Vision in SoHo
+
+See exclusive images of Versace's new downtown NYC boutique.
+
 The BAZAAR: Tough Love
 
 Shots of black and red with edgy accessories are the magic bullet.
-
-Haute Halloween: High Fashion Costume Ideas
-
-Channel the year's most talked-about with these high fashion costume ideas.
-
-Mr. Blasberg's Best Dressed List: October 19th, 2012
-
-Mr. Blasberg chooses the top 10 chicest looks from the week.
 
 Beauty &. Hair  
 
@@ -37,25 +37,23 @@ Beauty &. Hair  
 *   Beauty at Every Age
 *   Health &. Wellness
 
-4 Fun Halloween Mani Ideas
+The Best Spring Nail Trends To Try Now
 
-Try these spooky runway nail trends.
+Looks ranged from light and innocent to dark and dangerously chic this seas...
 
-The 12 Best Nude Lipsticks
+Today's Beauty Secret
 
-We've picked out 12 nude lipcolors that won't fade into the background. See...
+Expert advice on of-the-moment beauty trends.
 
-CELEBRITY STYLE &. PARTIES   Last Night's Parties: Narciso Rodriguez for Kohl's, Harry Winston Celebrates Jessica Chastain, Plus More!
+CELEBRITY STYLE &. PARTIES   Maison Martin Margiela x H&M Party
+
+Last Night's Parties: Narciso Rodriguez for Kohl's, Harry Winston Celebrates Jessica Chastain, Plus More!
 
 See the chic attendees at last night's parties.
 
 Bergdorf Goodman Celebrates 111 Years
 
 Click through to see who attended the anniversary gala.
-
-Last Night's Parties: Urban Zen's Connecting the Dots Exhibiton &. Mario Testino's First U.S. Photo Exhibit
-
-See who came out to celebrate the arts in New York and Boston.
 
 *   Red Carpet Style
 *   Cover Stories
@@ -72,7 +70,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR The BAZAAR: Tough Love Haute Halloween: High Fashion Costume Ideas Mr. Blasberg's Best Dressed List: October 19th, 2012 4 Fun Halloween Mani Ideas The 12 Best Nude Lipsticks The Power of Perfume Last Night's Parties: Narciso Rodriguez for Kohl's, Harry Winston Celebrates Jessica Chastain, Plus ... Bergdorf Goodman Celebrates 111 Years Last Night's Parties: Urban Zen's Connecting the Dots Exhibiton &. Mario Testino's First U.S. Photo E... Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR Closet of the Month Tales in Retail: A Versace Vision in SoHo The BAZAAR: Tough Love The Best Spring Nail Trends To Try Now Today's Beauty Secret 4 Fun Halloween Mani Ideas Maison Martin Margiela x H&M Party Last Night's Parties: Narciso Rodriguez for Kohl's, Harry Winston Celebrates Jessica Chastain, Plus ... Bergdorf Goodman Celebrates 111 Years Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
