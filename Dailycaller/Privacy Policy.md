@@ -1,4 +1,4 @@
-**TRENDING** MITT ROMNEY | SYRIA | ISRAEL | LINDA MCMAHON | DONALD TRUMP | MSNBC
+**TRENDING** MITT ROMNEY | DONALD TRUMP | BARACK OBAMA | WORLD SERIES | ISRAEL | JOE BIDEN
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  Obama wants lengthy interview with Iowa newspaper to be kept hidden Obama campaign refuses to hire ALS sufferer because of disability Tricks of the Intrade    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  Fast and Furious whistleblower sues Time, alleges libel Student threatened after filming Democratic congressman's abortion answer Krauthammer: Lack of Benghazi media coverage 'a journalistic scandal' \[VIDEO\]    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-The new face of Gonzo journalism? 12:39 PM 10/23/2012 Who won the debate? 9:57 PM 10/22/2012 Newsweek still selling 1-year subscriptions 4:44 AM 10/24/2012 Tie goes to Romney 1:07 AM 10/23/2012 They’re finally turning Superman into a villain 5:04 PM 10/23/2012 Watch Norah O’Donnell and Charlie Rose try to hide their sadness about Obama’s debate performance 3:59 PM 10/23/2012 Leaders with Ginni Thomas: Bishop E.W. Jackson 9:18 PM 10/21/2012 Bishop Jackson: Black churchgoers shaken by Obama backing gay marriage \[VIDEO\] 3:48 AM 10/20/2012 Mittens with kittens \[SLIDESHOW\] 12:17 AM 10/24/2012 TheDC ranks every Bond girl (you’re welcome) \[SLIDESHOW\] 2:14 PM 10/23/2012 Ten adorable animals that can give you rabies \[SLIDESHOW\] 4:51 PM 10/22/2012 Ranking the brothers Romney \[SLIDESHOW\] 11:44 AM 10/22/2012 See More Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Got racism? 6:58 PM 10/10/2012 Videos Contests Sections
+Rick Santorum: Republicans can ‘pull off a surprise’ in Pennsylvania 2:07 PM 10/24/2012 Is Twitter leading to ‘conventional wisdom’ reporting? 9:20 AM 10/24/2012 Is Obama deluded on amnesty? 4:58 PM 10/24/2012 Newsweek still selling 1-year subscriptions 4:44 AM 10/24/2012 Can video games help with pain management? 9:15 PM 10/24/2012 Letterman just realized Obama is a liar, you guys 3:28 PM 10/24/2012 Ask Matt Labash: The joys of self-entitlement programs, undecided voters — an un-appreciation, and Lizard Kings 12:43 AM 10/24/2012 Leaders with Ginni Thomas: Bishop E.W. Jackson 9:18 PM 10/21/2012 Bishop Jackson: Black churchgoers shaken by Obama backing gay marriage \[VIDEO\] 3:48 AM 10/20/2012 Political Face/Off: Which politicians could use some plastic surgery? 1:29 AM 10/25/2012 Kate vs. Fred: Which Upton wore it best? \[SLIDESHOW\] 1:18 AM 10/25/2012 Need a sexy Halloween costume? Kim Kardashian can help \[SLIDESHOW\] 1:13 PM 10/24/2012 Mittens with kittens \[SLIDESHOW\] 12:17 AM 10/24/2012 See More Why don’t white liberals vote for black politicians? 6:25 PM 10/24/2012 Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Videos Contests Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   Indiana Senate hopeful Richard Mourdock under fire for suggesting God intends pregnancies caused by rape
-*   UNC Chapel Hill bans term ‘freshman’ as offensive
-*   10 watches we’ll never be able to afford \[SLIDESHOW\]
+*   Can video games help with pain management?
+*   Despite contraception mandate uproar, Catholics prefer Obama over Romney
+*   Congressmen slam colleagues in member-versus-member California battle
 
 Corporate
 
