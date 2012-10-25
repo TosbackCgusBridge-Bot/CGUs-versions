@@ -23,16 +23,16 @@
     
     Blogs &. Columns
     
-    *   **Romney woos Colorado Dems, independents**  
-        Dan Balz and Philip Rucker
+    *   **McCain reconsidering his support...**  
+        Election 2012 | Vanessa Williams
     
-    *   **Obama ad takes Romney remarks on...**  
+    *   **Romney doubling down on debate...**  
         The Fact Checker | Glenn Kessler
     
-    *   **Romney, the old softy, is wooing...**  
-        She The People | Melinda Henneberger
+    *   **Third-party candidates finally...**  
+        She The People | Annie Groer
     
-    *   **How President Obama won Ohio in...**  
+    *   **Is Mitt Romneyâs momentum real...**  
         The Fix | Chris Cillizza and Aaron Blake
 *   Opinions In Opinions
     
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **Mitt sank my battleship**  
+    *   **CNNâs hormonal lady voters**  
         ComPost | Alexandra Petri
     
     *   **Happy Hour Roundup**  
-        The Plum Line | Greg Sargent
+        The Plum Line | Jonathan Bernstein
     
-    *   **Obama on Israel**  
+    *   **Trick or freaks**  
         PostPartisan | Jonathan Capehart
     
-    *   **Differences matter in foreign policy**  
+    *   **Morning Bits**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Sitting pretty...**  
-        Capital Weather Gang | Dan Stillman
+    *   **Forecast: A warm and sunny Thursday**  
+        Capital Weather Gang | David Streit
     
-    *   **Check out DC Brauâs new look**  
-        Going Out Gurus | Fritz Hahn
+    *   **Weekend/Going Out Guide Holiday...**  
+        Going Out Gurus | Amy Hitt
     
-    *   **Woman groped in Falls Church**  
-        Crime Scene | Martin Weil
+    *   **PG police seek suspect on murder...**  
+        Crime Scene | Clarence Williams
     
-    *   **Romney campaign sign set ablaze...**  
-        Virginia Politics | Caitlin Gibson
+    *   **Bill Clinton to join Obama at Va...**  
+        Virginia Politics | Laura Vozzella
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -97,17 +97,17 @@
     
     Blogs &. Columns
     
-    *   **NHL lockout: No meetings scheduled...**  
+    *   **Daly: âNo wiggle roomâ on NHL deadline...**  
         Capitals Insider | Katie Carrera
     
-    *   **RGIII on D.C. as a sports town...**  
+    *   **Stephen A. Smith calls Michael...**  
         DC Sports Bog | Dan Steinberg
     
-    *   **Brandon Banks passed over on option...**  
-        The Insider | Mike Jones
+    *   **Nick Sundberg eager to show Redskins...**  
+        The Insider | Mark Maske
     
     *   **Nationals season in review: Best...**  
-        Nationals Journal | Adam Kilgore and James Wagner
+        Nationals Journal | James Wagner
 *   National In National
     
     *   Energy &. Environment
@@ -123,14 +123,14 @@
     
     Blogs &. Columns
     
-    *   **The iPad Mini choice**  
-        Ideas@Innovations | Dominic Basulto
+    *   **Early fin release likely caused...**  
+        Ideas@Innovations | Emi Kolawole
     
-    *   **What happened to âleading from...**  
+    *   **Is Mark Zuckerberg right to stay...**  
         PostLeadership | Jena McGregor
     
-    *   **Hajj: Time for Muslim reflection**  
-        Under God | Arsalan Iftikhar
+    *   **Archbishop Chaput: âWe are Catholics...**  
+        Under God | Jeannine Hunter
 *   World In World
     
     *   Africa
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **The deeper issues behind Italyâs...**  
+    *   **The new Putinism: Nationalism fused...**  
         WorldViews | Max Fisher
     
-    *   **An immediately iconic photo of...**  
+    *   **Could drug decriminalization save...**  
         WorldViews | Max Fisher
     
-    *   **Chinese protester who attacked...**  
+    *   **Explaining Ai Weiweiâs âgrass mud...**  
         WorldViews | Max Fisher
     
-    *   **Americans are obsessed with Chinaâs...**  
+    *   **Ai Weiweiâs odd âGangnam Styleâ...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -173,14 +173,14 @@
     *   **Canât fix an error in credit report?...**  
         The Color of Money | Michelle Singletary
     
-    *   **McDonaldâs removes networking features...**  
-        Post Tech | Cecilia Kang
+    *   **E.U. hits Microsoft with browser...**  
+        Post Tech | Hayley Tsukayama
     
     *   **Why the economy may be better than...**  
         Steven Pearlstein
     
-    *   **Are wind turbines making people...**  
-        Wonkblog | Brad Plumer
+    *   **The 2012 Election in Numbers: Wednesday...**  
+        Wonkblog | Dylan Matthews
 *   Tech In Technology
     
     *   Policy
@@ -191,11 +191,11 @@
     
     Blogs &. Columns
     
-    *   **Apple stock falls after iPad mini...**  
+    *   **Facebookâs progress on mobile encourages...**  
         Hayley Tsukayama
     
-    *   **McDonaldâs removes networking features...**  
-        Post Tech | Cecilia Kang
+    *   **E.U. hits Microsoft with browser...**  
+        Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
     *   Advice
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Immigrantâs Table extra**  
-        All We Can Eat | Tim Carman
+    *   **Swine connoisseur**  
+        All We Can Eat | Tamar Haspel
     
-    *   **Romney saddled with âHorses and...**  
+    *   **Halloweenâs weirdest sexy costumes**  
         The Style Blog | Maura Judkis
     
-    *   **Halloween â12: Year of trick-and-track**  
+    *   **The hero at the center Ann Coulterâs...**  
         On Parenting | Janice D'Arcy
     
-    *   **BeyoncÃ©âs âBlue Ivyâ trademark...**  
+    *   **Carl Reiner gets honorary Georgetown...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -237,13 +237,13 @@
     
     Blogs &. Columns
     
-    *   **Art: Two Lichtenstein retrospectives**  
+    *   **A âTempestâ in an opera house**  
         Classical Beat | Anne Midgette
     
-    *   **Daniel Craig at the âSkyfallâ premiere**  
+    *   **Tom Cruise files lawsuit**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **âThe X Factorâ: Letâs try this...**  
+    *   **President Obama visits Jay Leno...**  
         The TV Column | Lisa de Moraes
     
     *   **DC Comics to debut âTalonâ**  
@@ -266,11 +266,12 @@
 
 In the News
 
-*   World Series
-*   Richard Mourdock
+*   Mourdock
+*   Hurricane Sandy
+*   Obama on âTonightâ
+*   Trump
 *   iPad mini
-*   Tropical Storm Sandy
-*   Solar flare
+*   Giants
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -278,6 +279,8 @@ In the News
 *   Print
 *   E-mail
 *   Reprints
+
+Nov 21, 2011 07:49 PM EST
 
 The Washington Post
 
@@ -319,18 +322,98 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
+Mega-storm threat growing for mid-Atlantic and Northeast early next week from hurricane Sandy
+
+Jason Samenow 
+
+President Obama visits Jay Leno on âTonightâ (VIDEO)
+
+Lisa De Moraes 
+
+How the right wing lost in 2012
+
+E.J. Dionne Jr. 
+
+Experts warn about security flaws in airline boarding passes
+
+James Ball 
+
+Obama says heâll renew pursuit of âgrand bargain,â offering specifics on agenda
+
+Lori Montgomery 
+
+In a bid for women voters, Obama castigates Romney for backing Indiana Senate candidate
+
+Associated Press 
+
+Another âluckyâ play helps Giants win 8-3 over Tigers in Game 1 of World Series
+
+Associated Press 
+
+As key Senate races get tighter, Republicansâ hopes rise
+
+Rosalind S. Helderman 
+
+Is Mitt Romney's momentum real or fake? Tom Cruise files $50 million lawsuit against magazine publisher for articles on his daughter
+
+Associated Press 
+
+October Surprises arenât what they used to be
+
+Dana Milbank 
+
+A CIA veteran transforms U.S. counterterrorism policy
+
+Karen DeYoung 
+
+Poll: Obama wins final debate 2012 World Series: Pablo Sandoval hits 3 homers, Giants rout Tigers in Game 1
+
+Barry Svrluga 
+
+The U.S. economy is recovering well
+
+Fareed Zakaria 
+
+Swedenâs Princess Madeleine engaged to New York banker, wedding planned next year
+
+Associated Press 
+
+Plan for hunting terrorists signals U.S. intends to keep adding names to kill lists
+
+Greg Miller 
+
+In defense of the mentally ill
+
+Pete Earley 
+
+Chinaâs increasing military spending unnerves neighbors
+
+Keith Richburg 
+
+Jim Moranâs son resigns from campaign amid video furor
+
+Errin Haines 
+
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
+    1.  Major storm threat growing for Northeast early next week
+    2.  President Obama visits Jay Leno on 'Tonight'
+    3.  How the right wing lost in 2012
+    4.  Experts warn about security flaws in airline boarding passes
+    5.  Obama says he'll renew pursuit of 'grand bargain,' offering specifics on agenda
 *   Top Videos
-    1.  Windows 8 may shock users
-    2.  Lance Armstrong's hometown reacts to stripped titles
-    3.  Behind the U.S. targeted killing program
-    4.  How voters feel about Obama, Romney on the economy â Daily Tracking Poll
-    5.  Puerto Rican pull at the polls in Florida?
+    1.  Behind the U.S. targeted killing program
+    2.  Hollywood celebs honor Ellen DeGeneres at the Kennedy Center
+    3.  Windows 8 may shock users
+    4.  Romney's debate performances boost his standing with Independents â Daily Tracking Poll
+    5.  Hillary Clinton: Libya emails don't paint full picture
 *   Top Galleries
-    1.  Apple reveals iPad mini, new Macs and more
+    1.  Halloween: Celebrities in costume
     2.  Newspaper endorsements for president: Romney or Obama?
+    3.  President Obama on the campaign trail
+    4.  Hurricane Sandy hits Jamaica
+    5.  Apple reveals iPad mini, new Macs and more
 
 Today's Paper
 
@@ -340,13 +423,13 @@ Today's Paper
 
 Live Discussions
 
-There are no discussions scheduled today.
-
-Who won the third debate? Obama or Romney?
+Web Hostess Live
 
 Live Q&A transcript
 
-Associate editor Robert Kaiser chatted with readers and took questions on the presidential debate.
+Web Hostess Monica Hesse sifts the Internet so you don't have to, searching for meaning, manners and the next great meme.
+
+**11:00 AM** **Vintage shopping and small space decorating with Sanity Fair blogger Skyla Freeman | HOME FRONT** **12:00 PM** **Parenting advice: Help for raising children of all ages** **12:00 PM** **Color of Money Live** **1:00 PM** **Got Plans: Advice from the Going Out Gurus** **2:00 PM** **Celebritology Live**
 
 **Weekly schedule, past shows**
 
