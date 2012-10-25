@@ -85,6 +85,7 @@
 *   aiga
 *   aaron foster
 *   alexander doll
+*   andrea doss
 *   audrey heller
 *   ben and kate gatski
 *   david montgomery
@@ -97,6 +98,7 @@
 *   oliver jeffers
 *   piotr fafrowicz
 *   renee leone
+*   valerie galloway
 *   zlatka paneva
 *   all wall art
 
