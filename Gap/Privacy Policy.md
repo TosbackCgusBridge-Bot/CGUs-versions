@@ -22,6 +22,8 @@ Shop this outfit >>
 
 Main Content: \*Offer valid for first registrants only. Privacy Policy Stay connected
 
+Introducing **INTERNATIONAL SHIPPING** to over 80 countries
+
 *   Customer Support
 *   Customer service
 *   Returns
