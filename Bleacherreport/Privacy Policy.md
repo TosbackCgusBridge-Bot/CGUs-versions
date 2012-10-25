@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 16 hours ago
+about 8 hours ago
 
-@BleacherReport: RT @Marlins: BREAKING NEWS: The Marlins announced today that they have dismissed manager Ozzie Guillen. http://t.co/AepCaLs0
+@BleacherReport: Pablo Sandoval joins Babe Ruth, Reggie Jackson, &. Albert Pujols as the only players to homer 3 times in single World Series game.
 
 Newsletters
 
@@ -192,7 +192,7 @@ Popular Topics
 
 *   2013 NFL Mock Draft
 *   2013 NBA Mock Draft
-*   NBA Trade Rumors
+*   WWE Hell in a Cell
 *   NFL Power Rankings
 *   NFL Picks Week 8
 *   NCAA Football Rankings
