@@ -688,17 +688,17 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   Pequeño galán
+*   ¡Qué maestra!
     
-    ¡Conóce al talentoso Jorge Eduardo!  
+    Luciana Silveyra talento y seducción.  
     
-*   ¡Luce tu mejor corte!
+*   ¡Encuentra tu tono ideal!
     
-    Cada cabello es un mundo  
+    Maquillaje que combina con tu piel  
     
-*   ¡Provócate!
+*   ¡Déjate hechizar!
     
-    Con la piel de Maritza Rodríguez y su sensualidad.
+    Carla te envuelve con un fuego que endulza
     
 *   Secretos de belleza
     
