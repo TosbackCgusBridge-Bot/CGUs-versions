@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM MythBustersBikes and Bazookas 8:00PM MythBustersHail Hijinx 9:00PM Sons of Guns (Season 3)Free Fall Shotgun TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Gold Rush: AlaskaNever Say Die 8:00PM Gold RushRevelations 9:00PM Gold Rush: Off-Season Special  TV SHOWS
 
 American Chopper
 
@@ -330,21 +330,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-The Great Chimp Tech Boom
+Chronicle of a Sperm Whale Death Unsolved
 
-Hawaii Volcano's Lava Lake Threatens to Overflow
+Could Mars Rover Curiosity Come Home?
 
-New iPad Mini Eats Steve Jobs' Words
+IKEA Energy-Independent by 2020: DNews Nugget
 
-Why Dung Beetles Like to Chill on Poop Balls
+Surprise! NuSTAR Spots Galaxy's Black Hole Flash
 
-Oldest Writing Nearly Deciphered
+Earth's Magnetic Field Made Quick Flip-Flop
 
-Excellent Idea of the Day: Exercise Your Brain
+Excellent Idea of the Day: Good Grandmothering
 
-Bigfoot Vandalizes a Winnebago
+Swarm Bots and Drones Team Up
 
-Why the Climate Silence in the Debates?
+Baby Beluga Whale Is... a Girl!
 
   facebook share0 Tweet Privacy Policy  
 
@@ -550,33 +550,38 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 24,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 25,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 24,  
+Oct 25,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 24,  
+Oct 25,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 24,  
+Oct 25,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 24,  
+Oct 25,  
 9:00 am  
 60 min(s)  
 **The FBI Files**  
-_Brutal Abduction_  
- In June of 1996, 17-year-old Jaime Estrada disappears from a conv  
-**More Listings »**   Shop Discovery Store      
+_Deadly Influence_  
+ July 29, 1985, a marine salvager finds the bodies of three known  
+**More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
+$47.95  
+  **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
+$12.95   **Discovering Ardi DVD**  
+$19.95   **Discovery Channel Polymer Chemistry Set**  
+$19.95        
 
 our sites
 
