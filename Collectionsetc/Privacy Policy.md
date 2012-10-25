@@ -196,7 +196,7 @@
     *   $14.99 Halloween Store
     *   $14.99 Kitchen Store
     *   Gifts
-    *   $14.99 Christmas Outdoors Store
+    *   $14.99 Christmas Outdoors
     *   $14.99 Christmas Store
     *   $14.99 Fall Store
     *   Holidays &. Seasonal
@@ -420,4 +420,4 @@ Go to top of page Go to top of page
 *   Site Map
 
    
-      Â© 2012 Collections Etc., Inc. All Rights Reserved. Reproduction in whole or in part strictly prohibited.
+      Â© 2012 Collections Etc., Inc. All Rights Reserved. Reproduction in whole or in part strictly prohibited. Contact us by phone at: 1-620-584-8000.
