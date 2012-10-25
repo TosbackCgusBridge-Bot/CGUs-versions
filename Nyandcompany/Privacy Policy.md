@@ -5,7 +5,7 @@
 
 *   My Wish List
 
-Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale All Sweaters Buy One Get One 50% Off. Mix and Match. Higher price prevails. Excludes NY&C Great Finds, NY Deals and Clearance. Plus, free shipping on your order over $125 – no code needed. \*Details **Customer Service**
+Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale Up to 50% off all sweaters, outerwear, hats, gloves &. scarves. Plus free shipping on your order of $125 or more – no code needed. \*Details **Customer Service**
 
 *   Ordering &. Shipping Info
     *   Where's My Order?
