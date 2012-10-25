@@ -71,13 +71,13 @@ Sign In Sign Out New User Sign Up Profile Management
 
 What's Hot
 
-Fall TV Popularity Contest
+Fox Winter Premiere Dates
 
-Who Quit _General Hospital_?
+Mega Buzz
 
-Photos: _Glee_ Does _Grease_
+_Fringe_ First Look
 
-_Good Wife_ Recruits _Grey's_ Alum
+_PLL_'s Latest Victim Speaks
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -139,7 +139,7 @@ more popular movies Top Videos
 
 1.  The Vampire Diaries
 2.  The Vampire Diaries
-3.  Dexter
+3.  Howard Stern's Watchlist
 4.  Arrow
 5.  Supernatural
 
