@@ -16,7 +16,7 @@ Themes
 *   PROPERTY 
 *   GAMES
 *   WEATHER
-*   KC THANK YOUS
+*   THANK YOUS
 *   PRODUCTS
 *   HELP &. SUPPORT
 
