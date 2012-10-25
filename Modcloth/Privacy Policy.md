@@ -11,6 +11,8 @@ ModCloth Customer Care Hello,
     *   New Arrivals
     *   Back by Demand
     *   Coming Soon
+    *   Almost Gone
+    *   Top Rated
     
     *   Shop Our Outfits
     *   Shop Our Designers
@@ -222,9 +224,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Fan Fare: Imaginary Fashion Blogger Cecily Wears Eva Franco
-    *   Nail Klub: Googly Eye Nails for a Hip Halloween!
-    *   All the Design thatâs Fit to Pin: Favorites from Our Design of the Times Pinterest Board
+    latest blog posts*   From Chintzy to Chic: A DIY Hama Bead Necklace that Doesnât Kid Around
+    *   Street Style: City Chic
+    *   Fan Fare: Imaginary Fashion Blogger Cecily Wears Eva Franco
     
     *   modcloth blog
     *   In Other Words
