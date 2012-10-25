@@ -12,7 +12,7 @@ Loading Results... Skip to content
 *   Customer Service
 *   1.800­.GO.DEPOT (1.800.­463.3768) Close X
     
-    **Session:** 0000-zrzTUKe1aFN-kJmr8Senq7  
+    **Session:** 0000ji2k\_segNAMXrzZOmJ7ypbv  
     **Clone:** 1659q38ci
     
 
@@ -157,7 +157,7 @@ Subtotal
     *   Promotional Products
     *   Safety &. Security
     *   School Supplies
-    *   Self-Stick Notes &. Flags
+    *   Post-Its, Self-Stick Notes &. Flags
     *   Tape &. Adhesives
     *   Tools &. Equipment
     
@@ -228,7 +228,7 @@ Subtotal
         *   Worklife Rewards®
         *   Free Ink &. Toner Recycling
     *   Top 10 Brands
-        *   HP
+        *   Hewlett-Packard
         *   Lexmark
         *   Brother
         *   Epson
