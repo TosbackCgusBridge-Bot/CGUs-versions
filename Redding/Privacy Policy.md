@@ -267,25 +267,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATE: Duenas to stand trial for wife's murder Updated 10/23/2012 at 6:28 p.m. 36 comments
-*   Roy Hutchings: What's he want to change? Published 10/23/2012 at 12:00 a.m. 136 comments
-*   Four arrested in Tehama County drug enforcement operation Published 10/23/2012 at 11:01 a.m. 24 comments
-*   Male beluga whale mimics human speech Published 10/23/2012 at 4:00 a.m. 27 comments
-*   Body found on riverbank near Sundial Bridge identified Updated 10/22/2012 at 9:54 a.m. 31 comments
+*   Four companies named best employer in Shasta County Published 10/23/2012 at 10:25 a.m. 22 comments
+*   US may soon become world's top oil producer Published 10/24/2012 at 4:00 a.m. 95 comments
+*   Neither Obama nor Romney can quickly improve economy, expert tells Redding audience Published 10/24/2012 at 12:16 a.m. 92 comments
+*   Thomas Sowell: Libya and the administration's lies Published 10/24/2012 at 12:00 a.m. 115 comments
+*   Hiring of new auditor-controller creates ruckus at supervisors meeting Published 10/24/2012 at 1:04 a.m. 41 comments
 
-Photo Galleries Red Bluff men get marijuana back Farewell Halloween Horse Show at… Think Pink
+Photo Galleries Red Bluff men get marijuana back Farewell Halloween Horse Show at… From the Hearth Cafe drive-thru
 
+*   Roy Hutchings: What's he want to change? Published 10/23/2012 at 12:00 a.m. 150 comments
 *   RedBlue America: Can lost manufacturing jobs be restored? Published 10/22/2012 at 12:00 a.m. 147 comments
-*   Roy Hutchings: What's he want to change? Published 10/23/2012 at 12:00 a.m. 136 comments
-*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 114 comments
-*   Redding residents join nationwide rally against Obamacare contraception mandate Published 10/20/2012 at 9:30 p.m. 60 comments
-*   Mary Thomas: Who's fighting to stop labels? Published 10/22/2012 at 12:00 a.m. 46 comments
+*   Thomas Sowell: Libya and the administration's lies Published 10/24/2012 at 12:00 a.m. 115 comments
+*   US may soon become world's top oil producer Published 10/24/2012 at 4:00 a.m. 95 comments
+*   Neither Obama nor Romney can quickly improve economy, expert tells Redding audience Published 10/24/2012 at 12:16 a.m. 92 comments
 
 *   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
-*   Redding police arrest alleged Stockton gang member, friends after shooting Published 10/14/2012 at 7:59 a.m. 89 comments
 *   Dog trainer teaches empathy at Tehama juvenile hall Published 10/15/2012 at 11:40 p.m. 9 comments
 *   UPDATED: Montague woman, 30, killed by husband, deputies say Published 10/18/2012 at 4:13 p.m. 16 comments
-*   Despite high unemployment, few sign up for Smart job training program Published 10/18/2012 at 12:08 a.m. 37 comments
+*   Despite high unemployment, few sign up for Smart job training program Published 10/18/2012 at 12:08 a.m. 36 comments
+*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 114 comments
 
 Weather
 
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 48° Light Rain Wind: S 9mph Today 57° 44° Wed 05:00 PM Mostly Cloudy Showers Temp: 56° Thu 05:00 AM Partly Cloudy Temp: 48° Thu 05:00 PM Partly Sunny Temp: 64°
+Currently 47° Overcast Wind: N 4mph Today 67° 44° Thu 05:00 PM Partly Sunny Temp: 66° Fri 05:00 AM Partly Cloudy Temp: 48° Fri 05:00 PM Mostly Cloudy Temp: 71°
 
-Feels Like: 56°
+Feels Like: 66°
 
-Humidity: 62%
+Humidity: 34%
 
-Precip: 90%
+Precip: 6%
 
 Feels Like: 48°
 
-Humidity: 89%
+Humidity: 63%
 
-Precip: 34%
+Precip: 2%
 
-Feels Like: 64°
+Feels Like: 71°
 
-Humidity: 37%
+Humidity: 33%
 
-Precip: 6%
+Precip: 14%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Wednesday Oct 24
 *   Thursday Oct 25
 *   Friday Oct 26
+*   Saturday Oct 27
 *   More BROWSE Icon
-
-*   OctoberFeast! Connecting Farms and Families - A Benefit for People of Progress First United Methodist Church, Redding 5:30 p.m.
-*   Clutter Support Group Redding Library 6 p.m.
-*   Basic Electricity Shasta Builder's Exchange 6 p.m.
-*   Basic Electricity Shasta Builder's Exchange 6 p.m.
-*   Jazz Big Band Shasta College Theater 7:30 p.m.
-
-More Events »
 
 *   Builders Energy Code Training Shasta Builder's Exchange 2 p.m.
 *   11th annual Power to Seniors Soup Kitchen Redding Veterans Memorial Hall 4:30 p.m.
@@ -349,10 +341,18 @@ More Events »
 More Events »
 
 *   Artist's Submissions for Juried Autumn Art Show Carter House Art Gallery
+*   Stand Down Shasta District Fair grounds 8 a.m.
 *   Creature Feature Program Turtle Bay Exploration Park 1:30 p.m.
 *   Fall Colors Bike Ride, Bizz Johnson Trail near Susanville Biz Johnson Trail Susanville 2 p.m.
 *   Sixth annual Redding Theatre Company Masquerade Ball TBS Ranch 6 p.m.
-*   'Beneath an Autumn Moon' Cemetery Tours Shasta State Historic Park 6:30 p.m.
+
+More Events »
+
+*   Artist's Submissions for Juried Autumn Art Show Carter House Art Gallery
+*   Wintu Audubon Clear Creek Outing See Description 7:30 a.m.
+*   Whiskeytown Trail Runs Brandy Creek Marina 8 a.m.
+*   Search for the Spawning Salmon See Description 9 a.m.
+*   Shasta Land Trust's Halloween at Samwell Cave Shasta Land Trust 10 a.m.
 
 More Events »
 
