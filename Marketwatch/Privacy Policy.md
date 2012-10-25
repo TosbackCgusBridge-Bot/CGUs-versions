@@ -1,4 +1,4 @@
-Bulletin Investor Alert
+Bulletin Ford cutting 1,500 jobs in U.K. Investor Alert
 
 New York Markets Open in:
 
@@ -198,101 +198,101 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 24, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 25, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:01a
+/news/latest1.  8:06a
     
-    Are Facebook shares finally worth buying?
+    Paccar Q3 net 66c vs. 77c
     
-2.  8:01a
+2.  8:06a
+    
+    Paccar Q3 sales dip to $3.55 bln vs $3.99 bln
+    
+3.  8:03a
+    
+    ConocoPhillips Q3 net $1.46 vs. $1.91
+    
+4.  8:03a
+    
+    ConocoPhillips adj Q3 net $1.44
+    
+5.  8:01a
     
     Updates, advisories and surprises
     
-3.  8:00a
+6.  8:00a
     
-    Delta's adjusted profit falls short
+    PSS World Medical jumps 33% in premarket
     
-4.  7:58a
+7.  8:00a
     
-    Hong Kong intervention prompts investor rethink
+    Coming up: U.S. durable goods jobless claims
     
-5.  7:58a
+8.  7:57a
     
-    âFinancial WMDsâ debase dollar, risk inflation
+    McKesson posts higher profit, lower sales
     
-6.  7:58a
+9.  7:52a
     
-    Kimberly-Clark Q3 sales dip 3% to $5.2 bln
+    F5 Networks down 11% in premarket
     
-7.  7:58a
+10.  7:52a
     
-    Kimberly-Clark Q3 net $1.30 vs. $1.09
+    Crocs down 11% in premarket
     
-8.  7:55a
+11.  7:52a
     
-    Nike selling Umbro unit to Iconix for $225 mln
+    Novavax Inc. up 16% in premarket
     
-9.  7:54a
+12.  7:52a
     
-    Delta Air Q3 op revenue $9.9 bln vs $9.8 bln
+    Zynga rallies 17% in premarket
     
-10.  7:54a
+13.  7:50a
     
-    Delta Air Q3 net $1.23 vs 65c
+    Stock futures up. jobless claims, durables awaited
     
-11.  7:54a
+14.  7:50a
     
-    Delta Air adj Q3 net 90c
+    United Continental profit, sales fall short
     
-12.  7:53a
+15.  7:49a
     
-    Bristol-Myers has quarterly loss, revises outlook
+    McKesson buying PSS for $29 a share
     
-13.  7:52a
+16.  7:49a
     
-    Radio update: Offices braced for flu season
+    McKesson's PSS deal valued at $2.1 billion
     
-14.  7:51a
+17.  7:49a
     
-    Boeing profit down. 2012 view beats estimate
+    PSS shares closed Wednesday at $21.60
     
-15.  7:47a
-    
-    Jones Group's profit drops on charges
-    
-16.  7:45a
+18.  7:48a
     
     BREAKING
     
-    Bristol-Myers has quarterly loss, revises outlook
+    McKesson to buy PSS World Medical at 34% premium
     
-17.  7:38a
+19.  7:46a
     
-    Motorola Solutions increases profit, sales rise 3%
+    Occidental Q3 production up 4% to 766,000 bpd
     
-18.  7:37a
+20.  7:45a
     
-    AT&T Q3 revenue dips 0.1% to $31.46 bln
-    
-19.  7:36a
-    
-    AT&T Q3 net 63c s 61c
-    
-20.  7:35a
-    
-    Boeing 2012 analyst estimate is $4.72
+    CORRECT: Occidental Q3 adj profit $1.70
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,102.53 -243.36 -1.82% nasdaq /quotes/zigman/123127 2,990.46 -26.49 -0.88% s&p 500 /quotes/zigman/3870025 1,413.11 -20.71 -1.44% Kiosk
+dow /quotes/zigman/627449 13,077.34 -25.19 -0.19% nasdaq /quotes/zigman/123127 2,981.70 -8.77 -0.29% s&p 500 /quotes/zigman/3870025 1,408.75 -4.36 -0.31% Kiosk
 
 *   1341573300000 1341592200000
     
     From Fox Business
     
-    Â  Â  seana smith  
-    Trouble for tech ETFs  
-    After a strong start to the year, some tech-based ETFs are fighting to hold on to gains as big drops by Apple and Google hit the sector. Â  /conga/kiosk/marketfox.html 231928
+    Â  Â  DAve Ramsey  
+    I paid off my debt, now what?  
+    When you're ready to start saving again, Dave Ramsey of Fox Business offers some tips to save smarter for your next big purchase. Â  /conga/kiosk/marketfox.html 232274
 *   1238817600000 1270353600000
     
     Slide Show
@@ -337,6 +337,12 @@ dow /quotes/zigman/627449 13,102.53 -243.36 -1.82% nasdaq /quotes/zigman/123127 
     .
     
     231815
+*   1341573300000 1341792900000
+    
+    Economy
+    
+    Â  Â  ADP's new numbers  
+    ADP is changing the way it counts how many U.S. jobs are created each month to better align with government data. here's how they're doing it. /conga/kiosk/economy-politics.html 232300
 
 MarketWatch.com
 
