@@ -6,7 +6,7 @@ Skip header
 *   Contact us
 *   Find a travel agent
 
-Skip main navigation Main menu Control Time: 1:10:43 PM Skip main navigation
+Skip main navigation Main menu Control Time: 1:09:50 PM Skip main navigation
 
 *   Home1
 *   Find &. book cruises
@@ -22,7 +22,7 @@ Skip main navigation Main menu Control Time: 1:10:43 PM Skip main navigation
         
         Escape the cold and changeable British weather!
         
-        From **£1,099** per person
+        From **£899** per person
     
     Find &. book your perfect world cruise
     
@@ -358,8 +358,8 @@ This website uses cookies to give you the very best user experience. By using ou
 Server = NTWEB006  
 Country In Session (from GeoIP Sniffer) = UK  
 Show AU Content setting = True  
-X\_Forwarded\_FOR = 184.106.117.173  
+X\_Forwarded\_FOR =  
 User IP = 10.35.0.246  
-SessionID = m0uj5545l44pub45x53dlc55  
-RenderTime = 00:00:00.2968731  
-Page rendered at 2012-10-24T13:10:43 Back to top of page
+SessionID = axkuj3qpirp4cyjt5c52u2n5  
+RenderTime = 00:00:00.0781250  
+Page rendered at 2012-10-25T12:46:28 Back to top of page
