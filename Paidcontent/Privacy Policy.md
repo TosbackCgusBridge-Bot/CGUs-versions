@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Apple releases iBooks 3, reportedly expands to more countries
+News.me says goodbye, places blame on Twitter
 
 Stay on top of tech news in your inbox
 
