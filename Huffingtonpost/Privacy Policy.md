@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Lance Armstrong
+*   Talk Nerdy To Me
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 24, 2012 Edition: **U.S.**
+October 25, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 24, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   'We Also Have Fewer Horses And Bayonets'26k
-    *   POLL: Who Won The Debate? 3k
-    *   Mourdock On Abortion: Pregnancy From Rape Is 'Something God Intended'12k
-    *   Instant Polls Show Strong Showing For Obama7k
-    *   'Mitt Agrees With Obama'22k
+    *   Barack Obama: If I Win, It May Be Thanks To GOP Alienating Latinos13k
+    *   Was The Whole Donald Trump Announcement A Gigantic, Pointless Bust?18k
+    *   Paul Ryan: To Help The Poor, Cut Programs For The Poor22k
+    *   Mourdock On Abortion: Pregnancy From Rape Is 'Something God Intended'28k
+    *   Biden Targets Romney With Baby Tears3k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 24, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   WHOOPS: Romney Commits Obamacare Debate Fail8k
-    *   Bernanke: Peace Out1k
-    *   Dow Takes Huge Plunge On Weak Corporate Earnings2k
-    *   Romney's China Investments Called Out, Underestimated By Obama1k
-    *   Thought Of Bernanke Exit Sparks Worst Stock Selloff Since June1k
+    *   Trump Place FIRES Trump 2k
+    *   U.S. Sues BofA Over Mortgage Fraud2k
+    *   Rick Perry's Own Little Solyndra1k
+    *   Paul Krugman: Romney Victory Could Mean 'Double-Dip Recession'5k
+    *   15 Outrageous Products That People Are Actually Buying51
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 24, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   15 Best Twist Endings In Movies772
-    *   Lindsay Lohan's Incredible Debate Tweets237
-    *   Justin Timberlake Debuts New Song Dedicated To Jessica Biel At Wedding53
-    *   Two More Jolie-Pitt Kids Cast In 'Maleficent' 77
-    *   How A Random Guy Got Billy Idol To Play His 26th Birthday111
+    *   Taylor Swift On Pace To Set Record This Week274
+    *   WATCH: Vivica A. Fox SLAMS Stacey Dash's Romney Endorsement1k
+    *   Adele's 'Skyfall' Made Daniel Craig Cry102
+    *   15 Best Twist Endings In Movies829
+    *   Lindsay Lohan's Incredible Debate Tweets329
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 24, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
+    *   The One Feature That Could Sink The iPad Mini790
+    *   Apple Defends iPad Mini's Crazy-High Price587
+    *   5 Reasons Apple's 'Big' iPad Bests The iPad Mini 59
+    *   Barnes &. Noble Discloses Credit Card Security Breach In 63 Stores223
     *   Apple's Big News: The iPad Mini1k
-    *   PHOTOS: Our First Look At The iPad Mini76
-    *   So Real, It's Scary: Viral Marketing Campaign Films Elevator Riders Tricked Into Thinking The Floor Is Falling Away301
-    *   SURPRISE: Apple Announces 4th Generation iPad160
-    *   Apple Debuts Stunning New MacBook 389
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 24, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   Coulter Uses Slur Against Obama14k
-    *   WHOOPS: Bob Schieffer Makes Obama Gaffe1k
-    *   Bob Schieffer Criticized For Letting Debate Get Off Rails2k
-    *   Debate Sees Drop In Viewers880
-    *   WATCH: Deflated Bill O'Reilly Hates On Final Debate1k
+    *   Coulter Uses Slur Against Obama17k
+    *   Oprah Caught In Nasty Family Drama231
+    *   Savannah Guthrie: 'Change Is Hard' 491
+    *   WATCH: Anderson Mocks Lindsay Lohan 293
+    *   How Iowa Paper Pushed Obama On The Record618
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 24, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   'October Surprise' Has Observers Mystified Ahead Of Foreign Policy Debate8k
-    *   World Geography According To Mitt Romney3k
-    *   Can You Read This? Researchers Turn To Crowdsourcing To Decipher Mystery Language292
-    *   Taliban Commander In Northern Afghanistan Captured1k
-    *   Man Shows Up At His Own Funeral189
+    *   Tunisia Arrests Suspect In Consulate Attack1k
+    *   WATCH: U.N. Chief Dances Gangnam-Style73
+    *   7 Killed In Shootout With Mexican Marines32
+    *   Farmer Sets Self On Fire In China, Dies (WARNING: GRAPHIC PHOTOS)171
+    *   World Geography According To Mitt Romney4k
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 24, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Danielle Lost 125 Pounds: 'Instead Of Turning To Swiss Cake Rolls To Deal With Stress, I Turned To Sweat'72
-    *   Smoking, Not Flossing, Soda For Breakfast: What’s Your Biggest Health Turnoff?30
-    *   Should You Let Your Dog Sleep In The Bed?329
-    *   Fit For Office: Who's The Fittest President Of All Time?121
-    *   The Great Health Benefits Of Beans82
+    *   Does The Way You Sleep Say Something About Your Personality? 525
+    *   The Silent Story of Male Breast Cancer 46
+    *   Smoking, Not Flossing, Soda For Breakfast: What’s Your Biggest Health Turnoff?113
+    *   Lisa Lost 80 Pounds: 'I Can See The Old Me. I'd Forgotten What I Looked Like'
+    *   The Great Health Benefits Of Beans102
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 24, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
-    *   PHOTO: Natalie Portman's Dior Mascara Ad Gets The Axe375
-    *   PHOTOS: Michelle Obama Repeats Her Style At The Third Presidential Debate241
-    *   Ann Romney Hits The Beach In A Halter Swimsuit173
-    *   'She Does Have A Great Pair Of Boobs'207
-    *   PHOTO: See LeAnn Rimes Without Makeup69
+    *   Jessica Biel's Pink Wedding Dress Makes The Colored Bridal Gown Trend Official183
+    *   PHOTOS: The Most Hilarious Jewelry Launch We've Ever Seen265
+    *   Should We (Or Should We Not) Put Toothpaste On Breakouts? 46
+    *   PHOTOS: 11 Trends We're Officially Sick Of42
+    *   PHOTOS: Jon Hamm Had A Serious Makeup Disaster47
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 24, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   The Funniest Pet Halloween Costumes
-    *   The Funniest Debate Tweets27
-    *   Stewart Blasts Fox News' 'Bulls#%t Mountain'1k
-    *   WATCH: This Guy Is About To Do Something Awesome142
-    *   PHOTOS: The Most WTF Halloween Decorations14
+    *   Vintage Halloween Costumes Are Unintentionally Terrifying 32
+    *   'What The Hell Was That?'1k
+    *   WATCH: There Are No Words To Describe This294
+    *   The Funniest Pet Halloween Costumes13
+    *   7 Sites You Should Be Wasting Time On Right Now
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 24, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next 5 Point Plan to Nowhere
-    *   Next Entangled In Entrapment
-    *   Coming Up GOP Stuck In 1968
-    *   Coming Up Breaking Gaza
-    *   Coming Up Disney Latina Princesa?Go to HuffPost Live
+    *   Next Mali In Chaos
+    *   Next Jon Huntsman LIVE
+    *   Coming Up No Wavering In Wisconsin
+    *   Coming Up Shariah's Limits
+    *   Coming Up Tech Game ChangersGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
