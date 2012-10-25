@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Aerobic Exercise In Water Resources
+*   Licorice Syrup Resources
 
   
-Stay in Touch With SparkPeople **The Secrets of Eating Right and Living Longer**
+Stay in Touch With SparkPeople **Cooking with Apples**
 
-"Super foods" have the ability to strengthen the immune system, fight disease, and lower body fat and cholesterol.
+Fall, the apple-picking season, is here! Here's an easy guide to help choose the best apples for your needs, whether baking, cooking, or just simply eating.
 
 Read More
 
-*   How do you maintain your exercise long-term?
+*   Please share your favorite "pumpkin" recipes!
+*   Who Motivates you on Sparkpeople?
+*   Do you have a goal after weight loss?
 *   Healthy snack ideas for under 100 calories?
 *   "New to me" foods
-*   Healthy Halloween snacks
-*   Who Motivates you on Sparkpeople?
 
-View Demo **Calf Stretch**  
-The perfect stretch for sore calves **World's Best Spinach and Artichoke Dip**  
-Submitted By: **SP\_STEPF**
+View Demo **Leaning Calf Stretch at Wall**  
+A great stretch for walkers and runners **Grilled Zucchini with Feta and Pesto**  
+Submitted By: **CHEF\_MEG**
 
-This is seriously the world's best spinach and artichoke dip! It's creamy and fairly low fat. This slimmed down version of your favorite dip is easy to make--and it's light enough for you to load up on it! This can also become a decadent pasta sauce. (As a sauce, it makes 10 servings. You might need to thin it a bit with cooking water from the pasta.) Full Recipe
+Take some help from the store: Feta and pesto dress up grilled zucchini. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
