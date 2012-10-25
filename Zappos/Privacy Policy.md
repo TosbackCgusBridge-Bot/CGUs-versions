@@ -187,7 +187,7 @@ Zappos.com respects your privacy. We don't rent or sell your personal informatio
 
 Read our Privacy Policy »
 
-Zappos Family Core Value 10. Be Humble What are Zappos Family Employees Doing Right Now? Shop With Us New Arrivals Shoes Clothing Bags &. Handbags Accessories Baby Shop Beauty Eyewear Home Jewelry Sporting Goods Watches Brands Gift Ideas Video Descriptions Sale &. Clearance All Departments Zappos.com Policies Privacy Policy Terms of Use Fur Policy The Truth about Zappos.com Coupons Customer Service Contact Info Returns Shipping FAQ's Customer Service Center Safe Shopping Guarantee Secure Shopping About About Jobs Tours Customer Testimonials Site Map My Account Log In/Register My Account My Order History My Shopping Cart My Favorites More Stuff RSS Feeds Associates Program Apply for a Zappos.com Visa Glossary of Terms Measurement Guide Model Measurements Size Conversion Chart Daily Shoe Digest Dead Products Check out IMDB Subscribe to the Weekly Shameless Plug!
+Zappos Family Core Value 10. Be Humble What are Zappos Family Employees Doing Right Now? Shop With Us New Arrivals Shoes Clothing Bags &. Handbags Accessories Baby Shop Beauty Eyewear Home Jewelry Sporting Goods Watches Brands Gift Ideas Video Descriptions Sale &. Clearance All Departments Zappos.com Policies Privacy Policy Terms of Use Fur Policy The Truth about Zappos.com Coupons Customer Service Contact Info Returns Shipping FAQ's Customer Service Center Safe Shopping Guarantee Secure Shopping About About Jobs Tours Customer Testimonials Site Map My Account Log In/Register My Account My Order History My Shopping Cart My Favorites More Stuff RSS Feeds Associates Program Apply for a Zappos.com Visa Glossary of Terms Measurement Guide Model Measurements Size Conversion Chart Daily Shoe Digest Dead Products Subscribe to the Weekly Shameless Plug!
 
 Our fun and informative weekly newsletter
 
@@ -205,7 +205,7 @@ A Happy Customer Says:
 
 Read More Testimonials Check out today's blogs!
 
-*   Explore Additional Zappos.com Sites: Couture.zappos.com Outdoor.zappos.com Rideshop.zappos.com Running.zappos.com Blogs.zappos.com Zappos.com/How-To My.Zappos.com
+*   Explore Additional Zappos.com Sites: Couture.zappos.com Outdoor.zappos.com Rideshop.zappos.com Running.zappos.com Blogs.zappos.com Zappos.com/How-To
 *   Play Product Showdown: Compare Products and Vote Now!
 
 Stella Service Business Week – Zappos.com is a Business Week Customer Service Champ BBBOnLine Reliability Seal Bizrate 2011 Circle of Excellence Platinum Visa, Mastercard, AmEx, Discover, PayPal
