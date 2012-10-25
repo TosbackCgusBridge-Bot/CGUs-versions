@@ -44,40 +44,42 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
-    *   Alex Max and Fleur de Lis handbags
-    *   Chanel
-    *   Emanuel Ungaro women's apparel
-    *   Esprit Outwear
+    *   Designer Jewelry
+    *   EF Studio Cosmetics
     *   Eveningwear By Nicole Miller &. Shail K
-    *   Glamour Dresses
-    *   Jeanne Darc, No Limit, Vipart Women's Apparel
+    *   Handmade in Italy jewelry
+    *   Jewelry box must-haves
     *   Louis Vuitton Handbags
-    *   Michael Todd Skincare Made In USA
-    *   Murano Glass &. Venetiaurum Jewelry
-    *   Our Favorite Diamond Styles
     *   Pretty in Pearls
     *   Rain Women's Apparel
+    *   Shades Of Grey
     *   Synonyme by Georges Rech
+    *   Unanyme by Georges Rech Women's Apparel
+    *   Vecceli handbags
+    *   Wow couture Dresses
     *   _more..._
     *   men
-    *   Men's jewelry sale
     *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
-    *   Men's Shop: DVS Shoes
     *   _more..._
     *   other
-    *   Color love: jewel-toned watches
+    *   Converse Featuring Men's and Women's Shoes
+    *   DYRBERG/KERN, Chateau D'Argent, Morellato and more
     *   Ice Watch
-    *   Tod's &. Karl Lagerfeld sunglasses
+    *   Patek Philippe , Chaumet,Audemars Piguet and more watches
+    *   RAMA SWISS WATCH
+    *   Versace, Prada, Gucci and more Sunglasses
     *   _more..._
 *   apparel
     *   women
-    *   C Bar A Women's Apparel
     *   Emanuel Ungaro women's apparel
     *   Esprit Outwear
     *   Eveningwear By Nicole Miller &. Shail K
     *   Glamour Dresses
     *   Jeanne Darc, No Limit, Vipart Women's Apparel
     *   Rain Women's Apparel
+    *   Shades Of Grey
+    *   Unanyme by Georges Rech Women's Apparel
+    *   Wow couture Dresses
     *   _more..._
     *   men
     *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
@@ -85,14 +87,15 @@ Loading Modnique - Boutique Events
 *   Jewelry &. Watches
     *   women
     *   Affordable Jewelry
+    *   DV ITALY Ladies Crystal Bracelet
     *   Designer Jewelry
-    *   Ladies Sapphire Bracelet
+    *   Handmade in Italy jewelry
+    *   Jewelry box must-haves
     *   Lauren G. Adams
     *   Murano Glass &. Venetiaurum Jewelry
     *   Our Favorite Diamond Styles
     *   Pretty in Pearls
     *   Silver jewelry sale: earrings &. rings
-    *   Silver jewelry sale: necklaces &. bracelets
     *   _more..._
     *   men
     *   Men's jewelry sale
@@ -100,9 +103,11 @@ Loading Modnique - Boutique Events
     *   other
     *   Akribos XXIV, Adee Kaye, Croton, Blumarine and more
     *   Color love: jewel-toned watches
-    *   Designer Watches for Less
+    *   DYRBERG/KERN, Chateau D'Argent, Morellato and more
     *   Get the Watch You Want: under $99
     *   Ice Watch
+    *   Patek Philippe , Chaumet,Audemars Piguet and more watches
+    *   RAMA SWISS WATCH
     *   _more..._
 *   Handbags &. Accessories
     *   women
@@ -111,6 +116,8 @@ Loading Modnique - Boutique Events
     *   Clips Accessories Made In Italy
     *   Designer Jewelry
     *   Louis Vuitton Handbags
+    *   Shades Of Grey
+    *   Vecceli handbags
     *   _more..._
     *   men
     *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
@@ -118,7 +125,7 @@ Loading Modnique - Boutique Events
     *   other
     *   Piquadro Travel Accessories Made In Italy blowout
     *   Tod's &. Karl Lagerfeld sunglasses
-    *   iPhone Accessories
+    *   Versace, Prada, Gucci and more Sunglasses
     *   _more..._
 *   shoes
     *   women
@@ -128,23 +135,31 @@ Loading Modnique - Boutique Events
     *   Men's Shop: DVS Shoes
     *   _more..._
     *   other
+    *   Converse Featuring Men's and Women's Shoes
     *   _more..._
 *   beauty
     *   women
     *   Beyond the Beauty Hair tools
+    *   EF Studio Cosmetics
     *   Michael Todd Skincare Made In USA
+    *   _more..._
+    *   men
     *   _more..._
 *   men
     *   Akribos XXIV, Adee Kaye, Croton, Blumarine and more
     *   Color love: jewel-toned watches
-    *   Designer Watches for Less
+    *   Converse Featuring Men's and Women's Shoes
+    *   DYRBERG/KERN, Chateau D'Argent, Morellato and more
     *   Get the Watch You Want: under $99
     *   Ice Watch
     *   Men's jewelry sale
     *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
     *   Men's Shop: DVS Shoes
+    *   Patek Philippe , Chaumet,Audemars Piguet and more watches
     *   Piquadro Travel Accessories Made In Italy blowout
+    *   RAMA SWISS WATCH
     *   Tod's &. Karl Lagerfeld sunglasses
+    *   Versace, Prada, Gucci and more Sunglasses
     *   and many more...
 *   gifts
 *   daily deal
