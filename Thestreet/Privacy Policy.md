@@ -85,15 +85,16 @@ A NOTE FROM JILL MALANDRINO
 
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
-*   Facebook
 *   Options Webinar
-*   iPhone 5
-*   Apple iPad Mini Blog
-*   Who Won the Debate?
-*   Google Laptop
+*   Zynga
+*   Samsung Galaxy Note
+*   Let Detroit Go Bankrupt
 *   Gold
+*   Fed Notes
+*   Dow 55,000
+*   Gupta
 
-pjava04.dc.thestreet.com Privacy Policy
+pjava01.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -248,13 +249,13 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,102.53 -243.36 -1.82% NASDAQ 2,990.46 -26.50 -0.88% S&P 500 1,413.11 -20.71 -1.44% US 10 Yr 1.764% -0.034 Brokerage Partners Most Commented
+DOW 13,077.34 -25.19 -0.19% NASDAQ 2,981.70 -8.76 -0.29% S&P 500 1,408.75 -4.36 -0.31% US 10 Yr 1.775% +0.011 Brokerage Partners Most Commented
 
 *   Google Drops the Neutron Bomb: $249 Laptop
+*   Apple: Don't Believe Haters, Hype and Hysteria
+*   Star Scientific's 'Flint' Study Flops
 *   $249 Google Laptop vs. $499+ Windows 8: Fight!
-*   10 Cult TV Shows Netflix Should Revive
-*   Biotech Stock Mailbag: Ziopharm, Sarepta, Vivus, Aegerion, Gilead
-*   Little-Known Filth Fouls Clean Energy, Costing Trillions
+*   Spectrum Pharma: Guessing Q3 Fusilev Sales
 
 Articles From Advertising Partners Free Newsletters from TheStreet
 
