@@ -97,6 +97,8 @@ még több
 
 dossziék
 
+Dosszié: Út
+
 Dosszié: Hidak
 
 Dosszié: Széchenyi terv
@@ -104,8 +106,6 @@ Dosszié: Széchenyi terv
 Dosszié: Villamos
 
 Dosszié: Vasút
-
-Dosszié: Média Építészeti Díja
 
 még több
 
@@ -117,6 +117,8 @@ ti kiállítás nyílt győrben
 praktikum és babaszoba design kiállítás
 
 jánossy györgy emlékkiállítása a hap galériában
+
+üzennek a kövek - fotókiállítás a zalai zsidótemetők felújításáról
 
 épülettár apró
 
@@ -220,7 +222,7 @@ Development Manager- Real estate sector
 
 Portfolio Director (Real Estate)
 
-Ingatlantanácsadó
+Ingatlanértékesítő állás
 
 még több
 
