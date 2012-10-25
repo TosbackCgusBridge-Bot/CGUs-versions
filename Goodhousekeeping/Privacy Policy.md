@@ -198,20 +198,20 @@ Don't Miss These:
 
 *   Bob Hairstyle Tips
 *   Shop and Dress Slimmer
-*   Top Beauty Buys Under $25
-*   Double Your Storage Spaces
-*   Fuss-Free Fall Decor
-*   Wallet-Friendly Ways to Stay Warm
-*   Eat to Look Younger
-*   Best Multi-Purpose Cleaners
-*   Keep Clutter At Bay
-*   Amazing Anti-Aging Beauty Secrets
-*   Looking Back: Veranda's Most Memorable Rooms
-*   Surfire Ways to Get You in the Mood
-*   The Great House at Greystone Estate
-*   Affordable Date-Night Ideas
-*   From Messy to Marvelous
-*   America's Best Power Meals
+*   Haircuts That Take Off 10 Years
+*   Master Bedroom Decorating Ideas
+*   Beauty Bargains Under $25
+*   Easy Decor Ideas for Every Room
+*   The Layered Look That is Perfect for You
+*   Gorgeous Wavy Hairstyles
+*   How to Dress Slimmer
+*   The Best Anti-Aging Products
+*   Is Your Makeup Aging You?
+*   Most-Requested Hairstyles
+*   Tips for Stand Out Eyes
+*   The Best Budget Makeup
+*   Spruce Up Your Bathroom
+*   Celebrity Bedroom Designs
 
 Product Reviews Top-Rated Toothbrushes
 
