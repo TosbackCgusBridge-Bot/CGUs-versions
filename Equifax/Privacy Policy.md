@@ -161,8 +161,8 @@ Can't find what you are looking for? Ask a Question Was this answer helpful? Rat
 
 *   Contact Us
 *   Equifax Online Privacy Policy
-*   Correcting Errors on Your Credit File
 *   FCRA Summary of Rights
+*   Correcting Errors on Your Credit File
 *   Product &. Site Terms of Use
 
 Go Back to Search Results
