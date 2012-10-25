@@ -43,11 +43,11 @@ Stay Connected close
 *   Beauty
 *   Bed, Bath &. Home
 *   Books &. Office Products
+*   Christmas
 *   Clothing
 *   Electronics, TVs &. Office
 *   Fashion
 *   Fitness &. Sports
-*   Food &. Grocery
 *   Home Services
 *   Jewelry &. Watches
 *   Lawn &. Garden
@@ -225,14 +225,6 @@ Others Found Helpful
 *   Warranty Information
 *   Pricing Policy
 *   Terms of Use
-
-**Enter ZIP CodeRequired**
-
-Price and availability may vary by location.
-
-Enter a valid 5-digit ZIP Code
-
-ZIP Code is Required
 
 Back to Top
 
