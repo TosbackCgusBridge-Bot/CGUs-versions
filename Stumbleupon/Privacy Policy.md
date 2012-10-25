@@ -2,6 +2,7 @@
 
 *   I like it!
 
+*   Add To Lists
 *   Not for me
 *   Not for me More
 
@@ -27,11 +28,15 @@
 
 *   Skip to Main Content
 *   Skip to Site Navigation
-*   Skip to Section Navigation
 
 StumbleUpon
 
-Already a member? Sign in
+*   About Us Blogs Press Center Jobs Management Terms Cookies Privacy Policy Downloads Mobile Apps Paid Discovery Help
+
+*   Home
+*   Profile
+*   Follow
+*   Shares
 
 StumbleUpon Privacy Policy
 
@@ -110,8 +115,4 @@ f. Compliance with Laws and Law Enforcement. We will access and disclose your Pe
 
 Effective Date: August 16, 2012
 
-© 2012 StumbleUpon
-
-About StumbleUponAbout Us Blogs Press Center Jobs Management Terms Cookies Privacy Policy
-
-Tools &. ServicesDownloads Mobile Apps Paid Discovery Help
+Top
