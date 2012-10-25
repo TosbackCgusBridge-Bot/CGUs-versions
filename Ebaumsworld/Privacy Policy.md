@@ -1,27 +1,27 @@
+*   VIDEO NFL Replacement Refs - In Memoriam
+*   VIDEO Dog Wants This Root
+*   DUI CHECK WIN! VIDEO DUI Checkpoint Refusal
+*   MOVIE PRESIDENTS BLOG Hollywood's Greatest Presidents
+*   VIDEO Flaming Guitar Headshot
+*   EPIC! GALLERY Epic Pics
+*   COMMUNITY GAME Neckbeard Basement Escape
 *   GOOD &. BAD LUCK BLOG Lesser Known Superstitions
-*   VIDEO Ghetto Stuntman Breaks Wrist
-*   VIDEO Obama Is A Communist - Remix
-*   SCARY PARTNER REAL OR FAKE
-*   VIDEO Log Crossing Epic Fail
-*   VIDEO Kinect Sensors Will Replace Your Mouse
-*   VIDEO Tilt-Shift San Francisco
-*   OBAMA OR NOBAMA BLOG Obama and Hitler: A Comparative Analysis
-*   VIDEO Karate Kid Fail
-*   VIDEO Travis Snider Makes Amazing Catch
 *   VIDEO Police Beat Young Teens In Madrid Spain
-*   VIDEO Worst Howl Ever
-*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
-*   VIDEO Kids Thoughts on the 2012 Presidential Election
+*   VIDEO Justin Bieber Hurls On Stage!!!!
+*   VIDEO Slow Mo: Molotov Cocktail Against House
+*   VIDEO Spanish News Channel Fail
+*   VIDEO Restore Your Faith in Time Lapse
 *   VIDEO Kid Narrowly Avoids Death By Motorcycle
+*   VIDEO 'QUIK'
+*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
+*   VIDEO Woman Hoards "30" Obama Phones
+*   OBAMA OR NOBAMA BLOG Obama and Hitler: A Comparative Analysis
+*   VIDEO Guy Eats Spider
+*   VIDEO Track Drifting Fail
+*   VIDEO Drunk, Stoned US Defense Contractors
 *   STAR WEIRDS BLOG 5...
-*   VIDEO Creek Jump Fail
-*   COMMUNITY GALLERY eBaum's World Photoshop Contest #57
-*   VIDEO Guys Reel In Shark On The Beach
+*   VIDEO Dance Recitle Distraction
 *   CUBE MAPPING PARTNER 3D Cube Mapping Demo
-*   WAYS TO SAVE BLOG 5 Ways to Save a Buttload of Money!
-*   VIDEO Frog-Headed Snake
-*   CELEBRIDEAD GALLERY Celebrity Life Update
-*   VIDEO Highbar Back Flip FAIL
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
@@ -109,20 +109,20 @@ San Francisco, CA 94103.
   
 Last updated: March 31, 2011.
 
-EBAUM'S PICKS Awesome Realistic Halloween Knife Slash Nissan Rocket Launcher Fail Coach Knocks Out Student How To Shake A Can With No Fizz Top 5
+EBAUM'S PICKS The Greatest R/C Car Chase Ever CREEK JUMP......Come On Over Baby Highlight Video of Felix Baumgartners Historic Jump Alabama Lineman Suplex's Missouri Player Top 5
 
-*   *   86,637
+*   *   97,519
     *   32 Random Interesting Facts
-*   *   84,072
+*   *   89,159
     *   How To Knock Someone Out
-*   *   82,724
+*   *   88,041
     *   Monday Morning Randomness
-*   *   79,048
+*   *   86,717
     *   LG Pranks Innocent Elevator Riders
-*   *   75,064
+*   *   78,693
     *   Road Rage Bully Kicks The Crap Out Of Guy's Car
 
-POPULAR GALLERIES D.E.R.P. WTF GIF Dump POPULAR GAMES Cloud Wars Election Ejection 2012 Into Space 2 Slender - Bones of Children
+POPULAR GALLERIES Best Viral Pics of The Week Compilation Brilliant YouTube Comments POPULAR GAMES Cloud Wars Election Ejection 2012 Into Space 2 Slender - Bones of Children
 
 *   Forum
 *   Advertising
