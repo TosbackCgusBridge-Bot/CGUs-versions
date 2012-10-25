@@ -1,4 +1,4 @@
-  Gold On The Ceiling | The Black Keys Listen Live Boston.com
+  | Listen Live Boston.com
 
 *   Home
 *   Today's Globe
