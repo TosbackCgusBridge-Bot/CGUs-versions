@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Parador Resort and Spa - CR
+*   Inn by the Sea - Maine
     
-    Starting Today 10/24 at 3pm EDT
+    Starting Today 10/25 at 3pm EDT
     
-*   Hotel Sofitel - DC
+*   Kemble Inn - Massachusetts
     
-    Starting Today 10/24 at 3pm EDT
+    Starting Today 10/25 at 3pm EDT
     
-*   Revere Hotel Boston Common
+*   Chase Park Plaza - St. Louis
     
-    Starting Today 10/24 at 3pm EDT
-    
-*   The American Club - Wisconsin Kohler, Wisconsin
-    
-    Starting Today 10/24 at 3pm EDT
-    
-*   The Bentwood Inn - Wyoming
-    
-    Starting Today 10/24 at 3pm EDT
-    
-*   Ellington Hotel - Berlin
-    
-    Starting Thursday 10/25 at 3pm EDT
+    Starting Today 10/25 at 3pm EDT
     
 *   Trapp Family Lodge - Vermont
     
-    Starting Thursday 10/25 at 3pm EDT
+    Starting Today 10/25 at 3pm EDT
     
-*   Inn by the Sea - Maine
+*   Ellington Hotel - Berlin
     
-    Starting Thursday 10/25 at 3pm EDT
+    Starting Today 10/25 at 3pm EDT
+    
+*   Cape Town &. Winelands Tour
+    
+    Starting Friday 10/26 at 3pm EDT
+    
+*   Baker House 1650 - Hamptons
+    
+    Starting Friday 10/26 at 3pm EDT
+    
+*   Dar Sabra - Marrakech
+    
+    Starting Friday 10/26 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
