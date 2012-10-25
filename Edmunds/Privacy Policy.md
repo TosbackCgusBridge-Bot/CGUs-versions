@@ -21,7 +21,7 @@ edmunds.com Ask the Car People.SM **|** **|** **|** Mobile **|** Help **|** News
     *   Used Car Inventory
 *   Car Reviews
     *   Car Reviews and Road Tests
-    *   Consumer Car News
+    *   Car News
     *   Best Cars Lists
     *   Awards
     *   Long-Term Road Tests
