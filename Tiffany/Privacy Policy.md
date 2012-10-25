@@ -99,7 +99,7 @@ Skip to main content
 *     Saved Items    Shopping Bag
 *   Sign Out Store LocationsSearch
 
-  View more stores and events View All Stores in United States Advanced Search Categories Price Ranges Materials Gemstones Customer Service 800 843 3269
+  View more stores and events View All Stores in Republic of Kazakhstan Advanced Search Categories Price Ranges Materials Gemstones Customer Service 800 843 3269
 
 *   Privacy Policy
 *   Contact Information
