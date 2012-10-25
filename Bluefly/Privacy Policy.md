@@ -174,7 +174,11 @@ coupon code: SHIP100
     *   Z
     *   ALL
 
-my fly Today only - site Sale! Now up to 80% off\*
+my fly 2 Deals, 1 Day! $40 off\* + Free Shipping!
+
+*   Get Coupon
+
+Jewelry Blowout
 
 *   Shop Now
 
