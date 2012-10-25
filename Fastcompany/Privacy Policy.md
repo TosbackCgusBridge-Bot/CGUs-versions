@@ -73,13 +73,13 @@ In the course of serving advertisements to this site, our third-party advertiser
 *   Printer-friendly version
 *   Send by email
 
-*   All About Apple's 7.9-inch iPad Mini
+*   Generation Flux Salon: What Does Talent Look Like In An Age Of Flux?
 
 ADVERTISEMENT
 
-*   Hulu Struggles To Survive The Influence Of Its Parent Companies
+*   With iPad Mini, Apple Switches From Offense To Defense
 *   The Secrets Of Generation Flux
-*   IBM's Watson Is Learning Its Way To Saving Lives
+*   Hulu Struggles To Survive The Influence Of Its Parent Companies
 
 *   Here Are All 56 Finalists In Our 2012 Innovation By Design Awards
 *   High-Speed Photography Turns Water Droplets Into Liquid Sculptures
