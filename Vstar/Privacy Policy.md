@@ -618,10 +618,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos Organizer wants 12 million Latino voters Mobilizing voters
+Videos On Campus: Moorpark Marches On Musketeers prepare for showdown with Oaks Christian
 
-*   Organizer wants 12 million Latino ... On Campus: Ventura - Buena ... Ventura fourth-graders pumped up with ... Scores of dogs seized from ...
-*   On Campus: Bulldogs Bite Back Oxnard Police Chief addresses La ...
+*   On Campus: Moorpark Marches On Organizer wants 12 million Latino ... On Campus: Ventura - Buena ... Ventura fourth-graders pumped up with ...
+*   Scores of dogs seized from ... On Campus: Bulldogs Bite Back
 
   
 
@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Foreign policy fireworks: Face-off before election Published 10/22/2012 at 10:04 p.m. 115 comments
+*   Organizer with Oxnard roots wants 12 million Latino voters Updated 10/23/2012 at 8:39 p.m. 55 comments
+*   Pump prices should continue to dip as wholesale gas prices tumble Published 10/23/2012 at 8:55 p.m. 29 comments
 *   Testimony describes how administrators discovered teacher's porn videos Updated 10/23/2012 at 8:08 p.m.
-*   Three injured in head-on Highway 118 crash near Moorpark Updated 10/23/2012 at 8:32 p.m.
-*   Oxnard crowd protests officer-involved shootings Published 10/22/2012 at 10:32 p.m.
-*   Oxnard collision kills motorcyclist, police say Published 10/22/2012 at 9:36 p.m.
+*   Foreign policy fireworks: Face-off before election Published 10/22/2012 at 10:04 p.m. 146 comments
+*   Superintendent: Ex-porn star fighting to keep Oxnard teaching job lied about her past Updated 10/24/2012 at 7:34 p.m.
 
-Photo Galleries Ventura County's Most Wanted October… Protesters condemn Oxnard shootings First leg of Ventura Botanical…
+Photo Galleries Ventura County's Most Wanted October… Lompoc fatal shark attack First leg of Ventura Botanical…
 
-*   Presidential debaters locked in dance of body language Published 10/21/2012 at 5:13 p.m. 113 comments
-*   Foreign policy fireworks: Face-off before election Published 10/22/2012 at 10:04 p.m. 115 comments
-*   Morning chat Published 10/22/2012 at 12:00 a.m. 130 comments
-*   Paulson: 10 good reasons for Romney, Ryan Published 10/21/2012 at 3:00 p.m. 68 comments
-*   Morning chat Published 10/19/2012 at 12:00 a.m. 193 comments
+*   Foreign policy fireworks: Face-off before election Published 10/22/2012 at 10:04 p.m. 146 comments
+*   Presidential debaters locked in dance of body language Published 10/21/2012 at 5:13 p.m. 114 comments
+*   Morning chat Published 10/22/2012 at 12:00 a.m. 131 comments
+*   Morning chat Published 10/24/2012 at 12:00 a.m. 75 comments
+*   Organizer with Oxnard roots wants 12 million Latino voters Published 10/23/2012 at 8:34 p.m. 55 comments
 
 *   Norovirus outbreak hits Oak Park school Published 10/15/2012 at 5:56 p.m. 8 comments
 *   Oaks Christian might have broken football recruitment rules – Video Published 10/18/2012 at 2:53 p.m. 0 comments
 *   Scores of dogs seized from Simi Valley home now up for adoption Published 10/17/2012 at 5:35 p.m. 16 comments
 *   Chumash looking to acquire portion of Santa Susana Field Lab Published 10/15/2012 at 6:17 p.m. 21 comments
-*   2 dead after Oxnard police trade gunfire with men Published 10/14/2012 at 2:57 p.m. 0 comments
+*   Firefighters battle Lookout Fire near Santa Barbara that threatened about 100 homes Published 10/17/2012 at 10:01 a.m. 0 comments
 
 Weather
 
@@ -660,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 50° Fair Wind: N 4mph Today 72° 53° Wed 05:00 PM Partly Sunny Temp: 68° Thu 05:00 AM Mostly Clear Temp: 55° Thu 05:00 PM Mostly Sunny Temp: 71°
+Currently 48° Fair Wind: NE 6mph Today 77° 53° Thu 05:00 PM Mostly Sunny Temp: 75° Fri 05:00 AM Clear Temp: 57° Fri 05:00 PM Sunny Temp: 76°
 
-Feels Like: 68°
+Feels Like: 75°
 
-Humidity: 59%
+Humidity: 34%
 
 Precip: 0%
 
-Feels Like: 55°
+Feels Like: 57°
 
-Humidity: 46%
+Humidity: 33%
 
-Precip: 4%
+Precip: 0%
 
-Feels Like: 71°
+Feels Like: 76°
 
-Humidity: 71%
+Humidity: 28%
 
-Precip: 1%
+Precip: 0%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -702,10 +702,10 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   'Ladies and gentlemen, the former president of the...'
 *   'Real people' and a real mistake
 *   Capps-Maldonado race could be getting interesting
 *   Democratic group hits Strickland on stem-cell research
-*   Lots of evidence that crunch time is upon us
 
 Brian Dennert here
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Wednesday Oct 24
 *   Thursday Oct 25
 *   Friday Oct 26
+*   Saturday Oct 27
 *   More BROWSE Icon
-
-*   “The New Era of Healthcare in the United States” Los Robles Golf Course Banquet Center 7 a.m.
-*   Introduction to International Shipping and Logistics Economic Development Collaborative - Ventura County 3 p.m.
-*   Opera on the GO! Santa Barbara Public Library - Central Library 5:30 p.m.
-*   First-Time Home Buyers Workshop - In SPANISH Moorpark City Library 6 p.m.
-*   Positive Parenting- Parenting as a Team Ojai Unified School District Office- 414 E. Ojai Ave. Ojai, CA 93023 Boardroom- Room 1 6 p.m.
-
-More Events »
 
 *   "Karaoke Bike Night" Hosted by Forming SoCal Sisterz, LLMC The Shores Bar &. Grill 1031 Harbor Blvd Oxnard, CA 5 p.m.
 *   Balancing Act Visions Gallery at the Marriot Ventura Beach - 2055 East Harbor BLVD 5 p.m.
@@ -750,6 +742,14 @@ More Events »
 *   CI announces Fall Economic Forecasting Conference CSUCI California State University noon
 *   RIDE 2 RECOVERY GOLDEN STATE CHALLENGE COMES TO VENTURA AS PART OF INJURED VETERANS’ 450-MILE RIDE Marriott Ventura Beach 2:30 p.m.
 *   RIDE 2 RECOVERY GOLDEN STATE CHALLENGE COMES TO VENTURA AS PART OF INJURED VETERANS’ 450-MILE RIDE F Marriott Hotel 2055 East Harbor Blvd., Ventura 2:30 p.m.
+
+More Events »
+
+*   Project Future Golf Tournament Brookside Golf Club 8 a.m.
+*   SeaSide Feather Fanciers Ninth Annual "Bash At the Beach" Poultry Show Ventura County Fairgrounds 8 a.m.
+*   Parking Lot Fundraiser - Bake Sale A Place of Peace 8 a.m.
+*   CI invites the public to Community Planting Days CSUCI California State University 8 a.m.
+*   CIPCUG October meeting Boys' &. Girl' Club of Camarillo 8:30 a.m.
 
 More Events »
 
