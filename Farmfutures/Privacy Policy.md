@@ -26,7 +26,7 @@
     *   New York Farm Show
 *   Farm Progress America
 
-Search    **Search Site:**   Wednesday, October 24, 2012 | **Bookmark This Site**    Home Markets News Weather Farm Futures NOW! Magazine Online RSS News Land For Sale Mobile Subscribe Reprints Register Login About Us Advertise **PRIVACY POLICY**
+Search    **Search Site:**   Thursday, October 25, 2012 | **Bookmark This Site**    Home Markets News Weather Farm Futures NOW! Magazine Online RSS News Land For Sale Mobile Subscribe Reprints Register Login About Us Advertise **PRIVACY POLICY**
 
 Thank you for visiting this Farm Progress Web site. Our Web site has much to offer. While we want you to enjoy your stay at our site, we also wish to stress that your privacy is very important to us.
 
