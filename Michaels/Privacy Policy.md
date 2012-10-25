@@ -23,10 +23,8 @@
         *   Products
         *   Books
     *   Custom Products
-        *   MiDesign
         *   Custom Invites
         *   Photo Creations
-        *   Jean M ®
     *   Floral
         *   Projects
         *   Products
