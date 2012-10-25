@@ -1,5 +1,5 @@
   
-Users Online Now: **1,827** (Who's On?) Visitors Today: **542,935** Pageviews Today: **777,744** Threads Today: **279** Posts Today: **3,470** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,752** (Who's On?) Visitors Today: **375,915** Pageviews Today: **608,227** Threads Today: **246** Posts Today: **3,859** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,14 @@ trinity@godlikeproductions.com
   
 News
 
+*   Voters say they voted for the wrong candidate????
+*   UN Seeking Global Internet Surveillance for Terror, Propaganda
+*   Mom Convicted of Disorderly Conduct for Arguing with TSA
+*   Boeing Tests A Missile That Knocks Out A Building's Power \[Video\]
+*   Malaria study challenges warmer world predictions
+*   A new take on the Midas touch: Changing the colour of gold
+*   PlayStation 3 hack is decryption jolt for Sony
+*   The New York Islanders Are Moving To Brooklyn
 *   VIDEO Moderator Accidentally Says 'Obama bin Laden' in Debate
 *   Lefties plan to drop anti-Mormon propaganda at mega-churches weekend before the election
 *   Boy Scouts' 'Perversion Files' released
@@ -129,14 +137,6 @@ News
 *   Swiss army prepares for euro zone unrest
 *   Thefts of cell phones on the rise across America
 *   UN affiliate group to monitor US elections for conservative voter supression
-*   Iran denies report of plans for nuclear talks with U.S.
-*   Norfolk Southern lays off 200, cites coal traffic decrease
-*   Mobile phones can cause brain tumours, court rules.
-*   Mitt Romney's Campaign, RNC Have 60+ Staffers In Pennsyvania, Planning More
-*   Secret Terror Script Leaked
-*   Antidepressants Could Make Your Brain Bleed, Cause Hemorrhagic Strokes
-*   RNC up $83 million, DNC taking out loans
-*   1 In 10 People Believes The World Will End In 2012
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.023s (0 queries)
+Page generated in 0.018s (0 queries)
