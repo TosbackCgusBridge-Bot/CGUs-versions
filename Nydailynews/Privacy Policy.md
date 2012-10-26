@@ -1,4 +1,4 @@
-*   Thursday, October 25, 2012
+*   Friday, October 26, 2012
 *   NYDailyNews.com / Privacy Policy
 
 *   Jobs
