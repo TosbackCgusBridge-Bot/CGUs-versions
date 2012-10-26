@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   Election 2012
-    *   Mitt Romney
     *   Obama 2012
-    *   Mitt Romney 2012
+    *   Mitt Romney
     *   entertainment
+    *   President Obama
+    *   Mitt Romney 2012
+    *   timeless news
+    *   strange stuff
     *   Barack Obama
     *   celebrity
-    *   presidential debate
-    *   strange stuff
-    *   President Obama
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -120,57 +120,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   The Battle for Floridaâs Jews
-*   The Woman Who Invented the Kitchen
-*   Are Police Dogs Invading Our Privacy?
+*   The Insane Defense of the âCastle Doctrineâ Gone Wild
+*   Casino Owners Against Gambling
+*   Play the Slate News Quiz
 
 More from Slate »
 
 *   _$780,000_
-*   9 Invasive Species You Can Eat (PHOTOS)
-*   Even Birthers Don't Believe Jerome Corsi Anymore
+*   Zombies and God: 5 Religious Questions That Zombie Stories...
+*   3 New Fascinating Horror Film Factoids!
 
 More from HuffPost Weird »
 
-*   Simpson Family Statement Avoids Any Mention Of Papa Joe...
-*   Tom Cruise Is Suing &. Mitt Romney Spray Tans!
-*   Todayâs Lady News: Romney Campaign Says It Still Supports...
+*   8 Women Who Auctioned Off Their Virginity
+*   Taylor Swift And Conor Kennedy Break Up
+*   Richard Mourdock Says âWhoopsies,â Backtracks On Rape...
 
 More from The Frisky »
 
-*   Protip: If you're trying to outrun store employees after...
-*   Air Force discharges single mother for getting pregnant....
-*   Urology center is seeking participants for a study on...
+*   Not only do you have to contend with all the poisonous...
+*   This may come as something of a surprise, but Keith...
+*   Ronald McDonald breaches restraining order... by following...
 
 More from Fark »
 
-*   The final push: What President Obama needs to do before...
-*   Why Mitt Romney is standing by Richard Mourdock
-*   What these late deciders really want
+*   Why Obama and Romney aren't talking about climate change
+*   The final push: What Mitt Romney needs to do before...
+*   Obama vs. Romney: Who really has the momentum?
 
 More from The Week »
 
-*   Hillary Clinton Insists Sheâs Definitely Leaving Politics...
-*   Pair Wrongly Convicted of Cab Driverâs Murder Released...
-*   Gov. Cuomo Isnât Picky About His Alcohol
+*   Frank Rich on Maddow: Romney Still Trying to Win Over His...
+*   President Obama Mocks Paul Ryan's Love of Ayn Rand
+*   Michelle Obama Longs for the Thrill of Shopping at CVS
 
 More from Daily Intel »
 
-*   Jessica Bielâs Pink Wedding Dress: Celebrity Brides Who...
-*   'True Blood' Star Alexander Skarsgard Shells Out $1.85M for...
-*   Emily VanCamp, Lea Michele, January Jones: Celebrities Who...
+*   Ask Healthy Living: Why Can't I Stop Eating At Night?
+*   The Raw Food Diet, Overcooked
+*   Simple Tips To Help Lower Your Stress Levels
+
+More from HuffPost Health »
+
+*   'Breaking Dawn -- Part 2' Threatens to Break 'Twilight'...
+*   'Real Housewives of Miami' Star Lisa Hochstein Defends...
+*   Kris Jenner: Throwback Thursday: Little Kourtney and Kim on...
 
 More from Celebuzz »
 
-*   10 Rude Things New Moms Say to In-Laws
-*   Superhero Window Washers Thrill Sick Children in Hospital...
-*   He's Sending You Mixed Signals -- Here's What to Do About It
+*   The 7 Grossest Halloween Treats of All Time (PHOTOS)
+*   Marine Dad Meets Baby for the First Time and Moves Us All...
+*   Nanny Accused of Killing Kids Makes Moms Feel Guilty for...
 
 More from The Stir »
 
-*   Perspective: Sticky Situation
-*   Portrait: Iris
-*   Brand Genius 2012: Chris Gabaldon, Ritz-Carlton
+*   Pearle Vision Conducts Agency Review
+*   The 2012 Jay Chiat Awards for Strategic Excellence: The...
+*   The 2012 Jay Chiat Awards for Strategic Excellence
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
