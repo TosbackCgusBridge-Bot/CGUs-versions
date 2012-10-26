@@ -1,9 +1,6 @@
-  
-:::::::::::::::::::::Get the APP. Special price and bonuses if before HOLLOWEEN 2012.  
-  
-Thank you for being here. It is appreciated. Truly.  
-  
-YOU MUST BE LOGGED IN TO ACCESS _**THE REALLY GOOD STUFF**_ ON THIS WEBSITE!!! We treat members right!  
+:::::::::::::::::::::Spread the word about the APP for ANDROIDS&nbsp&nbspThank you for being here, a Kickapps/Kit Digital website. It is appreciated. Truly.  
+YOU MUST BE LOGGED IN TO ACCESS _**THE BEST STUFF**_ ON THIS WEBSITE!!! We treat members right! Don't be drive-by surfer!  
+Connect with the webmaster on EMPIRE AVE AND STAGE 32 Check out my personal webpage ~~ See also AtlantaStagehand.Info  
 Subscribe To Our New Hollywood All-Stars Mailing List  
 Web This Site Click Here For _**Stagehand.Postano.Com**_  
   
@@ -23,6 +20,7 @@ hour upon the stage, and then is heard no more.' &nbsp&nbsp
 *   sets
 *   members
 *   groups
+*   events
 *   forums
 *   chat
 
@@ -193,7 +191,7 @@ Atlanta Film Festival Group
 On LinkedIn.Com  
   
 The OZ Sourcebook  
-2011 Georgia Film, Video &  
+2012 Georgia Film, Video &  
 Digital Entertainment SourceBook  
   
 RSS FEED  
