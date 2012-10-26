@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Andy Bates Amer... UP NEXT › Barefoot Contes...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Barefoot Contes... UP NEXT › Barefoot Contes...
 
 *   Channel  
     Guide
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   Who’s a @GeorgeLambShow fan? Watch him host World Class: Bartender of the Year from beautiful Rio de Janeiro: t.co/t9TRwUwA
+*   @danibabble we can't wait to see. Love a good food picture!
+*   @danibabble Easy! We’ve got risotto, chowder, waffles, tarts, pies.... everything you could possibly need: t.co/k5jK9lv1 #pumpkin
+*   Who’s having a Halloween party this weekend? We want to know what you’ll be eating. #Halloween
+*   Eggs? RT @kyul8: I'm already thinking about what to have for breakfast heehee ~~~~~ Best Egg Recipes @FoodNetwork\_UK t.co/ulYd1OXI
+*   Wahoo! Exciting :) RT @themattevers: Working on new recipes for @FoodNetwork\_UK kitchen smells... Mmm mmm good! t.co/uYqgipqO
+*   Recipe of the Day: Spirited Halloween t.co/3NoQfLXV
 *   Have you entered our competition to win 1 of 100 @alaskaseafooduk cookbooks yet? t.co/tSHzB0wo #competition
 *   @eatmypies will love to hear that. RT @hungry\_romantic: @FoodNetwork\_UK love andy bates! I'm drooling at the pics already!!
 *   Let us know when you do! RT @geordiejacko87: @eatmypies @FoodNetwork\_UK will be definitely getting this book like will be well worth it mate
-*   Yes! That's great news. You'll love it. RT @ilovecakeandtea: @eatmypies @FoodNetwork\_UK On my Christmas Wish list :)
-*   Holy Frankenfurters! It's the best Halloween trick foods in our handy how-to videos: t.co/4glvWjqh #Halloween
-*   Attention all Andy Bates fans, his first cookbook is available to order now! Go check it out: t.co/n61x55yF
-*   RT @eatmypies: Right... SHAMLESS PLUG TIME! My 1st book comes out next Wed/31/10/11 please buy @FoodNetwork\_UK t.co/qRmi7Gb2
-*   Don't stop! We're good for you! RT @jenko79: Should stop watching @FoodNetwork\_UK..... Man Guy's making me hungry!!!! #ilovefood #nomnom
-*   @wtfdoieat thanks so much. So many to choose from now!
-*   Totally with you on this one RT @\_Ryan\_Bartley\_ @foodnetwork\_uk It must be done, everyone, even the anchovy haters must know! #anchovypower
 
 Follow Us
 
