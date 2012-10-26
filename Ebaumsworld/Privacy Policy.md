@@ -1,27 +1,27 @@
-*   VIDEO NFL Replacement Refs - In Memoriam
-*   VIDEO Dog Wants This Root
-*   DUI CHECK WIN! VIDEO DUI Checkpoint Refusal
-*   MOVIE PRESIDENTS BLOG Hollywood's Greatest Presidents
-*   VIDEO Flaming Guitar Headshot
-*   EPIC! GALLERY Epic Pics
-*   COMMUNITY GAME Neckbeard Basement Escape
-*   GOOD &. BAD LUCK BLOG Lesser Known Superstitions
-*   VIDEO Police Beat Young Teens In Madrid Spain
-*   VIDEO Justin Bieber Hurls On Stage!!!!
+*   VIDEO Best Homemade Dinosaur Ever
+*   WEIRD DANCERS GALLERY World's Worst Dance Crews
+*   VIDEO Rubik's Cube Solved By Lego!
+*   CONTEST GALLERY eBaum's World Halloween Costume Contest
+*   VIDEO Cam Zink Canyon Gap Jump Crash
+*   VIDEO Kid Rock &. Pam Anderson Yell at Paparazzi
 *   VIDEO Slow Mo: Molotov Cocktail Against House
-*   VIDEO Spanish News Channel Fail
-*   VIDEO Restore Your Faith in Time Lapse
-*   VIDEO Kid Narrowly Avoids Death By Motorcycle
-*   VIDEO 'QUIK'
+*   MOVIE PRESIDENTS BLOG Hollywood's Greatest Presidents
+*   VIDEO Creek Jump Fail
+*   VIDEO Woman Tells Chris Matthews Obama Is Communist
+*   COMMUNITY GAME Neckbeard Basement Escape
+*   VIDEO Man With Press Pass Trolls Fox News
 *   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
-*   VIDEO Woman Hoards "30" Obama Phones
-*   OBAMA OR NOBAMA BLOG Obama and Hitler: A Comparative Analysis
-*   VIDEO Guy Eats Spider
-*   VIDEO Track Drifting Fail
-*   VIDEO Drunk, Stoned US Defense Contractors
-*   STAR WEIRDS BLOG 5...
-*   VIDEO Dance Recitle Distraction
+*   VIDEO Incredible 67-Yard Field Goal
+*   VIDEO Bus Driver Uppercuts Girl - Cartoon Version
+*   VIDEO Junk Dealer Returns $114,000
+*   GOOD &. BAD LUCK BLOG Lesser Known Superstitions
+*   VIDEO Female Driver Fails at Parking
+*   VIDEO Kid Licks Subway Railing For 1 Dollar
+*   VIDEO NFL Replacement Refs - In Memoriam
 *   CUBE MAPPING PARTNER 3D Cube Mapping Demo
+*   VIDEO Alabama Lineman Suplex's Missouri Player
+*   VIDEO Police Beat Young Teens In Madrid Spain
+*   OBAMA OR NOBAMA BLOG Obama and Hitler: A Comparative Analysis
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
@@ -111,16 +111,16 @@ Last updated: March 31, 2011.
 
 EBAUM'S PICKS The Greatest R/C Car Chase Ever CREEK JUMP......Come On Over Baby Highlight Video of Felix Baumgartners Historic Jump Alabama Lineman Suplex's Missouri Player Top 5
 
-*   *   97,519
+*   *   103,874
     *   32 Random Interesting Facts
-*   *   89,159
+*   *   95,637
+    *   Deformities of the Stars
+*   *   93,235
     *   How To Knock Someone Out
-*   *   88,041
+*   *   91,694
     *   Monday Morning Randomness
-*   *   86,717
+*   *   91,112
     *   LG Pranks Innocent Elevator Riders
-*   *   78,693
-    *   Road Rage Bully Kicks The Crap Out Of Guy's Car
 
 POPULAR GALLERIES Best Viral Pics of The Week Compilation Brilliant YouTube Comments POPULAR GAMES Cloud Wars Election Ejection 2012 Into Space 2 Slender - Bones of Children
 
