@@ -331,11 +331,7 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         
         Plant of the Month
         
-        Floral Needs
-        
-        Floral Accessories
-        
-        Gourmet Foods &. Gift Baskets
+        Floral Needs Gourmet Foods &. Gift Baskets
         
         Gourmet Food Baskets
         
@@ -365,7 +361,7 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         
         Nuts &. Fruit
         
-        **See All**
+        Keepsake Water **See All**
 *   Furniture
     *   Living Room Furniture
         
@@ -715,15 +711,15 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
             
             Refrigerators &. Freezers
             
-            Laundry
-            
             Small Appliances
-            
-            Vacuums
             
             Drink &. Beverage Needs
             
+            Vacuums
+            
             Air Conditioners
+            
+            Laundry
             
             **See All**
     *   Jewelry
