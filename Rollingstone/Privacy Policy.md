@@ -32,7 +32,7 @@ Rolling Stone Skip to the content.
 *   •
 *   RS on RDIO
 *   •
-*   Bruce Springsteen in RS
+*   Springsteen Timeline
 *   •
 *   Voodoo Festival
 *   •
