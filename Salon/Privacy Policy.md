@@ -5,15 +5,15 @@ Register Sign in Welcome, Logout
 *   Hot Topics
     *   Hot Topics
         *   2012 Elections
-        *   Barack Obama
         *   Mitt Romney
-        *   2012 Presidential Debates
-        *   Abortion
-        *   Richard Mourdock
-        *   Donald Trump
+        *   Barack Obama
         *   Elections 2012
-        *   Twitter
-        *   October surprise
+        *   Donald Trump
+        *   Election 2012
+        *   Rape
+        *   GlobalPost
+        *   Benghazi
+        *   Libya
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -194,29 +194,29 @@ About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service 
 
 Take Salon on the go â download our free app now
 
-Current Stories Sudan blames Israel for Khartoum explosion
+Current Stories U.N. team to investigate civilian drone deaths
 
-News. The Sudanese government accused Israel of carrying out an air strike on one of its arms factories
+News. Special rapporteur said that civilian killings in follow-up strikes could be found to be war crimes
 
-Obama has a blue state problem
+In defense of the undecided voter
 
-Politics. ... and it helps explain why he might be able to win the election while losing the popular vote
+Politics. Given how similar the candidates are, the real rubes are the ones who think the choice is simple
 
-Have horror movies hit a new golden age?
+Pick of the week: The overblown, funny, romantic "Cloud Atlas"
 
-Entertainment. Horror has reinvented itself since the "torture-porn" hysteria â but so far only the audience has noticed
+Entertainment. Pick of the week: Tom Hanks and Halle Berry play multiple roles in an epic fable of life and death
 
-Undercover as a gay man
+"My taxes mean more than your fundamental civil rights"
 
-Life. I wanted to question my conservative Christian beliefs. So I "came out" to my family -- and my whole life changed
+Life. A Pulitzer-winning playwright's Facebook post goes viral, calling out moderate Republican friends voting for Romney
 
 Most Read
 
 *   "The Revisionaries": Texas schoolbook battle â crazier than you thought! Andrew O'Hehir
+*   Undercover as a gay man Timothy Kurek
 *   Rape remarks haunt the GOP Steve Kornacki
-*   Can Obama hold on in Ohio? Clare Malone, The American Prospect
-*   What "health of the mother" means Suzanne Edwards
-*   Donald Trump's October Surprise is nothing Jillian Rayfield
+*   How GOP voter suppression could win Florida for Romney Tova Andrea Wang
+*   An actual October Surprise? Alex Seitz-Wald
 
 Voices
 
