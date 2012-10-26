@@ -98,17 +98,17 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     Should You Rush?
 *   entertainment
     
-    Troian Reveals _PLL_ Halloween Episode Deets!
+    Vampire Diaries Exclusives!
 *   fashion
     
-    Fashion Q&A With Emma Roberts
+    Win $500 Worth of Hair Products!
 *   love
     
     Go From Friend to Girlfriend!
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**3 Winners!** Enter for a chance to win Whipped Cream Mousse for curls from Dove. Type in the Freebie Phrase of the Day, found in the October Issue!
+**3 Winners!** Enter for a chance to win a thermal spray to protect hair from heat. Type in the Freebie Phrase of the Day, found in the October Issue!
 
  enter now 
 
