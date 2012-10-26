@@ -98,7 +98,7 @@ Go to the Southwest Airlines Homepage
         
         *   Special Offers
         *   Vacation Destinations
-    *   Why Fly Southwest?
+    *   The Southwest Experience
 *   Travel Guide: Conversations &. Destination Suggestions
     *   Route Map
     *   Featured Destinations
@@ -386,11 +386,10 @@ About Southwest
 *   Careers
 *   Supplier Information
 *   Customer Commitments
-*   The Southwest Difference
 *   Southwest Citizenship
 *   Sponsorships
 
-Southwest Travel Experience
+The Southwest Experience
 
 *   Finding Low Fares
 *   Booking Your Trip
@@ -399,6 +398,7 @@ Southwest Travel Experience
 *   During Your Flight
 *   Staying Connected
 *   Popular Routes
+*   Why Fly Southwest?
 
 Southwest Products
 
@@ -409,6 +409,7 @@ Southwest Products
 *   WiFi Hotspot
 *   Pets
 *   Business Travel &. Groups
+*   Southwest Merchandise
 
 Customer Service
 
@@ -417,6 +418,7 @@ Customer Service
 *   Travel Tools
 *   Airport Information
 *   Baggage Policies
+*   Lost and Found
 *   Refunds
 
 My Account  
