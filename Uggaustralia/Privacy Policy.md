@@ -18,6 +18,7 @@ Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and mor
         *   Sandals
         *   View All
     *   Slippers
+    *   Holiday Collection
     *   Apparel
         *   Outerwear
         *   Sweaters
@@ -127,11 +128,11 @@ Fall Highlights
     Go edgy this Fall with a vintage rock vibe
     
     Rock 'N Roll >.
-*   Empire State of Mind
+*   OUR HOLIDAY '12 COLLECTION
     
-    NYC: The city that inspired this season’s collection.
+    Get an exclusive look at the collection and preorder today
     
-    Get Street Smart >.
+    GO WILD >.
 *   SHARE YOUR LOVE FOR THE CLASSIC BOOT
     
     Contribute to our global photo album of Classic fanatics.
@@ -143,17 +144,18 @@ Fall Highlights
     *   learn more >
     
     *   Departments
-    *   Women
-    *   Men
-    *   Kids
-    *   Classics
-    *   UGG Collection
-    *   Care &. Cleaning
-    *   Gift Cards
-*   *   Top Sellers
     *   Boots
     *   Shoes
     *   Slippers
+    *   Women
+    *   Men
+    *   Kids
+    *   UGG Collection
+*   *   Explore
+    *   Footwear Finder
+    *   Letters from New York
+    *   Classics
+    *   Care &. Cleaning
     
     *   World Of UGG
     *   The Story Of UGG
