@@ -10,26 +10,26 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
     *   Tools
     *   Media
     *   Enterprise
-    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning It's Official: This Is Apple's iPad Mini ENDING SOON: Win A Ticket To IGNITION! Salesforce.com Just Laid Off A Bunch Of Radian6 Employees Italian Earthquake Researchers Sentenced To Six Years In Prison
+    *   Science10 Things You Need To Know This Morning 10 Things You Need To Know This Morning Unboxed: Here's Microsoft's Surface Tablet China Blocks The New York Times For Report On Wen Jiabao's Family Wealth Steve Ballmer: Here's How Michael Dell Reacted To Our Surface PC Weather Channel Meteorologist: THIS LOOKS LIKE ANOTHER PERFECT STORM
 *   Finance
     *   Clusterstock
     *   Your Money
-    *   Broker CenterDAVID ROSENBERG: Always Remember These 13 Rules DAVID ROSENBERG: Always Remember These 13 Rules The Best US Cities For Retiring On $100 A Day DAVID ROSENBERG: Always Remember These 13 Rules
+    *   Broker CenterStunning NYT Report Explains How Vikram Pandit Was Really Fired From Citi Stunning NYT Report Explains How Vikram Pandit Was Really Fired From Citi 9 Reasons You Shouldn't Rush Into Retirement Stunning NYT Report Explains How Vikram Pandit Was Really Fired From Citi
 *   Markets 10 Things You Need To Know Before The Opening Bell
 *   Politics
     *   Politics
     *   Defense
-    *   Law &. OrderObama Is Crumbling With White Men, And It Could Cost Him The Election Obama Is Crumbling With White Men, And It Could Cost Him The Election The Army Is Turning A Generation Of Young Wives Into Full Time Caregivers This Man Had To Learn To Survive In Prison When He Was 11 Years Old
+    *   Law &. OrderObama's Lead Has Completely Evaporated In Two Key Swing States Obama's Lead Has Completely Evaporated In Two Key Swing States A Mathematician Hacked Into Google Because He Thought It Was Part Of A Job Interview Airline Forces Stanford Grad To Shut Down His Website Because It Saved People Money
 *   Strategy
     *   Strategy
-    *   CareersThe 25 Coolest New Businesses In Chicago The 25 Coolest New Businesses In Chicago The 10 US Cities With The Best Job Growth Right Now
-*   Entertainment 11 Celebrities Who Served In The Military Before They Got Famous
-*   Advertising Inside The Bizarre World Of Sexy Halloween Costumes ... For Pets
-*   Retail It's Becoming Obvious That Coach Is More Threatened By Michael Kors Than It Lets On
-*   Sports Sandoval Becomes Unlikely Hero, Ties World Series Record With Three Home Runs In One Game
+    *   Careers4 Ways To Make Your MBA Application Stand Out 4 Ways To Make Your MBA Application Stand Out Is College A Total Ripoff? Four Experts Try To Defend Higher Education
+*   Entertainment 17 Actors In Tiny Background Roles Before They Were Famous
+*   Advertising Facebook Is Failing In Europe — And It's All Russia's Fault
+*   Retail AMAZON DIVES AFTER EARNINGS MISS
+*   Sports Tigers Pitcher Hit In Head With Line Drive
 *   Life
     *   The Life
-    *   TransportationLook At All Of The Beautiful Places Owned By America's Richest Land Baron Look At All Of The Beautiful Places Owned By America's Richest Land Baron Tour The Amazing $64.5-Million Gulfstream G650
+    *   TransportationSee Why Buyers Are Going Crazy For The New Gramercy Park Luxury Apartments See Why Buyers Are Going Crazy For The New Gramercy Park Luxury Apartments Tour The Amazing $64.5-Million Gulfstream G650
 *   More
     *   Latest
     *   Video
@@ -53,7 +53,7 @@ Login with Twitter Login with Facebook Login with LinkedIn Register
 
 *   Follow us on Facebook and get updates from Business Insider posted directly to your news feed  
 
-Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,576
+Enter you email address and zip code to set up customized email alerts. Email Zip From To Email Sent! You have successfully emailed the post. Privacy Policy Oct. 2, 2007, 5:27 PM | 7,589
 
 *   Email
 *   More Share on Tumblr
@@ -163,7 +163,7 @@ Recommended For You
 
 Please follow Business Insider on Twitter and Facebook.
 
-Short URL Share:
+Advertisement: Short URL Share:
 
 *   _Twitter_
 *   _Facebook_
@@ -178,7 +178,7 @@ Short URL Share:
 *   _Newsletter_
 
 To embed this post, copy the code below and paste into your website or blog. 600px wide (preview) <iframe src="http://www.businessinsider.com/embed?id=7237544b9b3ba947f5905f00&amp;width=600&amp;height=430" width="600" height="430" border="0" frameborder="0"></iframe>. 400px wide (preview) <iframe src="http://www.businessinsider.com/embed?id=7237544b9b3ba947f5905f00&amp;width=400&amp;height=430" width="400" height="430" border="0" frameborder="0"></iframe>. 300px wide (preview) <iframe src="http://www.businessinsider.com/embed?id=7237544b9b3ba947f5905f00&amp;width=300&amp;height=430" width="300" height="430" border="0" frameborder="0"></iframe>. Comments on this post are now closed.  
-Here Comes The Silicon Alley 100! LIVE 1:54:07 Login With Facebook - See what your friends are reading on BI Welcome, !
+GDP REPORT LIVE 25:59 Login With Facebook - See what your friends are reading on BI Welcome, !
 
 You are logged into Facebook
 
@@ -226,24 +226,7 @@ More:*   SAI Select (sample)
 *   Careers Select (sample)
 *   Military Select (sample)
 
-Advertisement LinkedIn Login See what's trending
-
-*   Hot:
-*   LinkedIn
-*   In your network
-
-*   Boeing Now Has A Missile That Destroys Only Electronics And Leaves All Else Intact
-*   Sudan Threatens Retaliation Over Alleged Israeli Air Strike
-*   The Silence From Both Candidates On The Drone Wars Means The World Better Get Used To Them
-
-Login with LinkedIn to see what your friends are reading on Business Insider.  
-Login with LinkedIn
-
-No articles have recently been shared in your network.
-
-More »
-
-Your Money NASDAQ Composite 2,982 -8.76 (-0.293%) S&P 500 1,409 -4.36 (-0.309%) NYSE Composite 8,179 +0 (+0%) Sponsored By
+Advertisement Your Money NASDAQ Composite 2,986 +4.42 (+0.148%) S&P 500 1,413 +4.22 (+0.3%) NYSE Composite 8,212 +0 (+0%) Sponsored By
 
 Ready To Invest? Find A Broker Here »
 
@@ -255,20 +238,20 @@ The Future Of Mobile
 
 Most Read Read  Commented  Recommended 
 
-*   Meet The Wealthiest Person In Each State 547,732 Views
+*   Meet The Wealthiest Person In Each State 968,637 Views
     
-*   The 28 Fastest-Shrinking Cities In The World 432,367 Views
+*   THE SILICON ALLEY 100: The Coolest People In New York Tech This Year 729,669 Views
     
-*   The 25 Biggest Landowners In America 420,011 Views
+*   The 25 Biggest Landowners In America 472,891 Views
     
-*   Pinterest's First Investor Shows Us His 'Disneyland'-Like Long Island Home 317,876 Views
+*   Pinterest's First Investor Shows Us His 'Disneyland'-Like Long Island Home 339,669 Views
     
 
-*   REUTERS POLL: Obama Is Going To Trounce Mitt Romney In A Landslide 247 Comments
+*   Obama Calls Romney 'A Bullshitter' 286 Comments
     
-*   Donald Trump Makes His 'Big' Announcement — And It's A Total Disappointment 166 Comments
+*   REUTERS POLL: Obama Is Going To Trounce Mitt Romney In A Landslide 272 Comments
     
-*   INSTANT POLL: Obama Destroyed Mitt Romney In Third Debate 140 Comments
+*   Donald Trump Makes His 'Big' Announcement — And It's A Total Disappointment 170 Comments
     
 *   12 Hours Later, It's Clear That Romney Won The Debate 127 Comments
     
@@ -287,36 +270,36 @@ See more » Find A Job _In partnership with_
 
 See All Jobs Startup Document Center Templates To Jump Start Your Business Business Plan Exec Summary Sample  
 By-Laws Financial  
-Model See All » Read Me Henry Blodget
+Model See All » Read Me Joe Weisenthal
 
-| Everyone But Nate Silver Thinks Obama's Lead Is Evaporating Fast 25
+| Gold Has Been Getting Crushed — And That's Revealing Something Important 22
 
-Down to 54% on Intrade.
+Below where it was pre-QE3.
 
-Joe Weisenthal
+Bruce Krasting
 
-| The Economy May Be Going Into A Phase That's A Complete Reversal Of The Last 3 Years 26
+| Ben Bernanke Has His Hands All Over The Run On The Hong Kong Dollar 3
 
-Robbie Bruens
+Mark Mobius
 
-| I Can't Vote For Romney Because I Have No Idea What He Would Do As President 94
+| Here's What You Need To Know About China's Confusing Currency
 
 Robert Reich, Contributor
 
-| A Romney Victory Will Create More Uncertainty Than Ever 32
+| A Romney Victory Will Create More Uncertainty Than Ever 36
 
-Peter Schiff
+James Pethokoukis
 
-| The Concerns That Spooked Markets On Black Monday Are Comical Compared To The Horrors Of Today 4
+| Why You Can't Blame Bush For The Great Recession 34
 
 The Hive About The Hive » What Smart People Are Reading Right Now
 
-*   Islanders to move to Brooklyn by 2015: source - NYPOST.com 5
-*   Obama's Edge: The Ground Game That Could Put Him Over the Top - Molly Ball 4
-*   Plan for hunting terrorists signals U.S. intends to keep adding names to kill lists 3
+*   Obama leads by 2 in Iowa, 6 in Wisconsin Polling 3
+*   Inside the Microsoft Windows 8 Launch \[VIDEO\] 2
+*   Texas sparks international row with election observers Hill's Global Affairs 2
 
-*   CNN.com - Breaking News, U.S., World, Weather, Entertainment &. Video News 3
-*   Do hormones drive women's votes? - The Chart Blogs 3
+*   No Party in the DPRK 2
+*   Everything You Need to Know About Windows 8 2
 
 More Less See All » Advertisement Thanks to our partners
 
