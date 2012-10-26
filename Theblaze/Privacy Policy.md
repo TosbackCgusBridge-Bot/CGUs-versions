@@ -21,9 +21,9 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   Libya Attacks
-*   Donald Trump
+*   Hillary Clinton
 *   Campaign 2012
+*   Libya: The Truth?
 
 Take Action About TheBlaze
 
@@ -250,9 +250,9 @@ Sections
 
 Hot Topics
 
-*   Libya Attacks
-*   Donald Trump
+*   Hillary Clinton
 *   Campaign 2012
+*   Libya: The Truth?
 
 More from TheBlaze
 
