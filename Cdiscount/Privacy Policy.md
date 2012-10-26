@@ -88,7 +88,6 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         2.  Top Affaires
         3.  Tout Ã  moins de 15â¬
         4.  Tout Ã  Moins De 25â¬
-        5.  Minceur et solaire -50%
         
         1.  CONSOLES ET ACCESSOIRES
         2.  Toutes Les Consoles
@@ -134,6 +133,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         8.  DVD Manga - Animation
         9.  DVD Meilleures Ventes
         10.  EnchÃ¨re TV LED 150cm
+        11.  Profil minceur 100% gratuit
         
         1.  DVD â BLU-RAY
         2.  Blockbusters 2012
@@ -165,7 +165,6 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         6.  BD â Humour
         7.  Jeunesse â Adolescent
         8.  Vente Flash sur les magazines
-        9.  Minceur et solaire -50%
     
     *   Tout le magasin DVD CD Livres
     
@@ -193,8 +192,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         6.  CÃ¢bles et Connectiques
         7.  Calculatrices et Fournitures de bureau
         8.  Nettoyants informatiques
-        9.  Parapharmacie -50%
-        10.  Gagnez jusquâÃ  30 000 â¬
+        9.  Gagnez jusquâÃ  30 000 â¬
         
         1.  STOCKAGE EXTERNE, PÉRIPHÉRIQUES, RÉSEAU
         2.  Disque dur externe et multimÃ©dia
@@ -259,8 +257,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         5.  Casques Baladeurs - Hifi
         6.  Accessoires iPod
         7.  Accessoires MP3-MP4
-        8.  Vos lentilles Ã  -70%
-        9.  Gagnez un Iphone 5 !
+        8.  Gagnez un Iphone 5 !
         
         1.  SON, MUSIQUE
         2.  Petit Son
@@ -402,7 +399,6 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         8.  Tapis voiture
         9.  Remorques - Accessoires
         10.  Gagnez votre voiture prÃ©fÃ©rÃ©e
-        11.  Minceur et solaire -50%
         
         1.  SCOOTERS â MOTO &. EQUIPEMENTS
         2.  Casques moto - scooter
@@ -608,8 +604,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         7.  Pulls / Gilets
         8.  Costumes
         9.  Les Marques Mode
-        10.  Vos lentilles Ã  -70%
-        11.  bons plans Voyages
+        10.  bons plans Voyages
         
         1.  VÊTEMENTS FEMME ET LINGERIE
         2.  Tous les vÃªtements Femme
@@ -705,8 +700,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         7.  Montures de Lunettes de vue
         8.  Lunettes de lecture
         9.  Boites Ã  Montres
-        10.  Lentilles de contact
-        11.  Paris: 150â¬ offerts sur PMU.fr
+        10.  Paris: 150â¬ offerts sur PMU.fr
         
         1.  BIJOUX
         2.  Bijoux Femme
@@ -777,7 +771,7 @@ Rechercher dans tout Cdiscount sur tout CdiscountAutoBagagesBijouterieChaussures
         8.  Natation
         9.  Golf
         10.  Vente Flash sur l'actu sportive
-        11.  Cure minceur gratuite
+        11.  Guide minceur 100% gratuit
         
         1.  SPORTSWEAR
         2.  Sportswear
