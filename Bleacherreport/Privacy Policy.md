@@ -143,9 +143,9 @@ What is Bleacher Report?
 
 B/R on Twitter
 
-about 8 hours ago
+about 9 hours ago
 
-@BleacherReport: Pablo Sandoval joins Babe Ruth, Reggie Jackson, &. Albert Pujols as the only players to homer 3 times in single World Series game.
+@BleacherReport: Teams with a 2-0 lead have gone on to win the World Series 79% of the time.
 
 Newsletters
 
