@@ -124,11 +124,11 @@ Tell a friend:
 
 **Want Consumerist in your inbox?** Popular Posts
 
+*   A Guide To Figuring Out Executives' E-Mail Addresses
+*   Man With Uninsured $430K Lamborghini Finds $568 Ticket Outrageously High
 *   Fancy Hotel Wedding Planner Doesn't Understand How Email's "CC" Function Works
-*   The BK Bacon Burger Is A Disgrace To The Word 'Bacon'
-*   FBI: Baggage Handler Was Arrested Because That $20K In Uncirculated Bills Doesn't Belong To him
-*   Free, $1.29, Same Difference When Papa John's Gives You A Pizza
-*   Mistaking A Table For Your Own Private Bedroom Will Displease Fellow Restaurant Patrons
+*   What Happens If You Try To Hold A Board Meeting In The Office Chair Department Of Staples?
+*   Verizon Uses Warranty-Voiding Photo To Sell Protection Plan
 
 About Consumerist
 
