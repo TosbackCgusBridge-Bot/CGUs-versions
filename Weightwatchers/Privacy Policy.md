@@ -8,7 +8,7 @@ WeightWatchers.com Â 
 *   LOG INFacebook
 *   LOG INSite
 
-Search our site SearchEntire SitePlan InformationArticlesCommunityMarketplaceHelpAbout Us for Search
+Search our site SearchEntire SitePlan InformationArticlesMarketplaceHelpAbout Us for Search
 
 *   How Weight Watchers Works
 
