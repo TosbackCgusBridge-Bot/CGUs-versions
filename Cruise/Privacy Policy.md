@@ -1,10 +1,10 @@
-Cheap Cruise Holidays &. Latest Cruises Deals Thursday 25th Oct 2012 0800 408 6200
+Cheap Cruise Holidays &. Latest Cruises Deals Friday 26th Oct 2012 0800 408 6200
 
 Sign up to our newsletter for all the latest cruise news, reviews, photos and answers...
 
 Cruise Reviews  
-134,414 Opinions Cruise Answers  
-198,070 Q&As Cruise Photos  
+134,452 Opinions Cruise Answers  
+198,120 Q&As Cruise Photos  
 15,174 Real Photos Cruise Videos  
 1,732 Real Videos Ports of Call  
 Maps &. Shore Tours Our Cruise  
