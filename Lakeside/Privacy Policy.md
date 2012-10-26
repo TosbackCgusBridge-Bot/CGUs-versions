@@ -671,7 +671,6 @@ Y*   Books + Media
             *   Bath
         *   Curtains + Window Coverings
         *   open Comforters + Quilts
-            *   Quilts
             *   Comforters
         *   open Bath
             *   Collections
@@ -954,7 +953,6 @@ Y*   Books + Media
         *   Children's
     *   open For the Home
         *   open Furniture
-            *   Living, Family Room
             *   Furniture Covers
             *   Children's
             *   Kitchen and Dining
@@ -1044,7 +1042,6 @@ Y*   Books + Media
         *   Kitchen and Dining
     *   open Storage
         *   Seasonal
-        *   Cabinet Storage
         *   Bathroom
         *   Furniture
         *   Household
@@ -1131,7 +1128,6 @@ Y*   Books + Media
     *   open Storage + Organization
         *   Bowls
         *   Household Organization
-        *   Cabinet
         *   Countertop Accessories
     *   Appliances
     *   open Baking + Cooking
@@ -1191,6 +1187,7 @@ Y*   Books + Media
     *   Humor, History, Favorites
     *   DVDs, Videos
     *   Inspirational
+    *   CDs
     *   Cookbooks
     *   Activity
     *   Children's
@@ -1209,7 +1206,6 @@ Y*   Books + Media
     *   Lunch Totes
 *   Electronics
 *   open Storage
-    *   Cabinet Storage
     *   Bathroom
     *   Furniture
     *   Closet
