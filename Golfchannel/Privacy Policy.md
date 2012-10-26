@@ -6,6 +6,8 @@ PGA Tour
     *   BMW Masters
 *   LPGA
     *   Sunrise LPGA Taiwan Championship...
+*   Champions Tour
+    *   AT&T Championship
 *   Web.com Tour
     *   Web.com Tour Championship at TPC...
 *   Titleist On Tour
@@ -13,103 +15,103 @@ PGA Tour
 CIMB Classic View Leaderboard >.
 
 *   1
+*   R.Garrigus
+*   \-14
+*   F
+
+*   2
+*   J.Kruger
+*   \-12
+*   F
+
+*   T3
+*   G.Chalmers
+*   \-10
+*   F
+
+*   T3
 *   T.Matteson
+*   \-10
+*   F
+
+*   T5
+*   B.de Jonge
+*   \-9
+*   F
+
+*   T5
+*   K.Na
+*   \-9
+*   F
+
+*   T5
+*   T.Woods
+*   \-9
+*   F
+
+*   T8
+*   B.Crane
 *   \-8
 *   F
 
-*   T2
-*   R.Garrigus
-*   \-7
-*   F
-
-*   T2
+*   T8
 *   B.Harman
-*   \-7
+*   \-8
 *   F
 
-*   T2
+*   T8
 *   J.Overton
+*   \-8
+*   F
+
+*   T11
+*   T.Gillis
 *   \-7
 *   F
 
-*   T5
-*   G.Bhullar
-*   \-6
+*   T11
+*   B.Haas
+*   \-7
 *   F
 
-*   T5
-*   T.Gillis
-*   \-6
+*   T11
+*   T.Immelman
+*   \-7
 *   F
 
-*   T7
-*   R.Barnes
-*   \-5
+*   T11
+*   C.Kirk
+*   \-7
 *   F
 
-*   T7
-*   G.Chalmers
-*   \-5
-*   F
-
-*   T7
-*   D.Chia
-*   \-5
-*   F
-
-*   T7
-*   J.Holmes
-*   \-5
-*   F
-
-*   T7
-*   J.Kruger
-*   \-5
-*   F
-
-*   T7
-*   T.Woods
-*   \-5
-*   F
-
-*   T13
-*   K.Na
-*   \-4
-*   F
-
-*   T13
-*   P.Perez
-*   \-4
-*   F
-
-*   T13
-*   K.Stadler
-*   \-4
-*   F
-
-*   T16
-*   B.Crane
-*   \-3
-*   F
-
-*   T16
-*   B.de Jonge
-*   \-3
-*   F
-
-*   T16
-*   J.Dufner
-*   \-3
-*   F
-
-*   T16
+*   T11
 *   M.Laird
-*   \-3
+*   \-7
 *   F
 
-*   T16
-*   D.Lipsky
-*   \-3
+*   T11
+*   P.Perez
+*   \-7
+*   F
+
+*   T11
+*   K.Stadler
+*   \-7
+*   F
+
+*   T11
+*   B.Van Pelt
+*   \-7
+*   F
+
+*   T11
+*   C.Wi
+*   \-7
+*   F
+
+*   T20
+*   J.Holmes
+*   \-6
 *   F
 
 *   **FULL LEADERBOARD**
@@ -121,6 +123,7 @@ Prev Next
     *   CIMB Classic
     *   BMW Masters
     *   Sunrise LPGA Taiwan Championship 2012
+    *   AT&T Championship
     *   Web.com Tour Championship at TPC Craig Ranch
     
     Tours
@@ -152,6 +155,7 @@ Prev Next
     *   John Hawkins
     *   John Feinstein
     *   Mercer Baggs
+    *   Bailey Mosier
     *   Rich Lerner
     *   Win McMurry
     *   Golf Guy
@@ -243,6 +247,7 @@ Prev Next
     
     Full Episodes
     
+    *   Feherty
     *   Big Break Atlantis
     *   Big Break Ireland
     *   Big Break Indian Wells
@@ -256,9 +261,9 @@ Prev Next
     *   The Haney Project Rush Limbaugh
     *   Playing Lessons
     *   Golf Fitness Academy
-    *   The Golf Fix
     
     More Full Episodes
+    *   The Golf Fix
     *   School of Golf
     *   7 Nights at The Academy
     *   Golf In America
@@ -280,15 +285,15 @@ Prev Next
 *   Grill Room
 
 *   Tommy Gainey
-*   Big Break Greenbrier
-*   CIMB Asia Pacific Classic
-*   Tiger Woods
 *   Rory McIlroy
-*   Jack Nicklaus
-*   Martin Kaymer
-*   Ray Beaufils
-*   Sam Snead
+*   Tiger Woods
+*   Morning Drive
 *   Justin Rose
+*   Ryder Cup
+*   CIMB Asia Pacific Classic
+*   Lee Westwood
+*   Adam Scott
+*   Luke Donald
 
 **Privacy Policy**
 
@@ -529,7 +534,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,722 facebook.com/GolfChannel 120,645 twitter.com/GolfChannel Newsletter
+Social 233,817 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
