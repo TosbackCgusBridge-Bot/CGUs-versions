@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Islamist jailed for inciting attack on US Embassy
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Video: Americans' old toys bring joy to Israeli hospital
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports Is Cam criticism deserved?
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Adam Bettcher / Getty Images Rookie Martin races past Vikings
     
-    ProFootballTalk: Erik Kuselias and Mike Florio talk about the criticism Cam Newton has been subject to and wonder if he deserves the full brunt of it and if race has anything to do with it.
+    PFT: Buccaneers running back Doug Martin rushed for 135 yards and a touchdown and added 79 yards through the air in a 36-17 win over the Vikings in Minnesota.
     
-    PFT: Cam doesn't see any racism behind criticism Titans RB Johnson: 'I never felt like I left' PFT: Bills' Mario Williams has wrist surgery Would anyone want Tebow? PFT: Rex Ryan wants apology from Bush FTP: Eli: I don't think it took rocket scientist either PFT: Fujita’s season over. career too? PFT: Williams gets 30 days home detention Ad
+    PFT's Picks: Broncos to pick apart Saints Kacsmar: Just what is going on with the AFC? PFT: Eli admits catering to needy WRs hurt his progress PFT: Jennings to have surgery. Nelson misses practice CSN: Rodgers-Cromartie defends fired Castillo PFT: Garcon sees specialist, no timetable for return PFT: Will Jets LB be fined for Bush comments? PFT: 'Outside chance' Amendola plays vs. Pats Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines David J. Phillip / AP Sandoval's big night propels Giants
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Christian Petersen / Getty Images Breaks are going Giants' way
     
-    Pablo Sandoval became just the fourth player to hit three home runs in a World Series game, connecting twice against Justin Verlander and once off Al Alburquerque to lead the San Francisco Giants over the Detroit Tigers 8-3 in Wednesday night's opener.
+    DeMarco: When everything is breaking your way, it's often a different player or two every night at the center of things. So, after Pablo Sandoval in Game, we have Gregor Blanco in Game 2 — and the breaks have the Giants in an almost-always-win situation in the World Series.
     
-    HBT: Sandoval's 3-HR game as good as it gets CSN: Sandoval now among World Series legends CSN video: Sandoval 'still can't believe' what he did CSN: Ultimate redemption for Zito, Lincecum CSN: Blanco makes impact with key catches HBT: Valverde can’t even mop up for Tigers DeMarco: Is Detroit already doomed? CSN: Is Bochy a Hall of Fame manager? Ad
+    Giants nail down 2-0 Series lead HBT: Bochy pushing all the right buttons CSN: Giants follow big win with small win CSN: Anatomy of a 'perfect' relay in Game 2 Fielder fizzles as Tigers drop into 0-2 deficit Bad baserunning does in the Tigers HBT: Beaten Giants fan Stow attends Game 2 Fister takes hard liner off head and loss Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Andrew Kelly / Reuters Islanders moving to Brooklyn
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Lm Otero / AP 'Lock them in a room'
     
-    PHT: The New York Islanders are moving from Long Island to Brooklyn for the 2015-16 season and beyond. While the franchise doesn't plan to change its name or logo, it will be rid of aging Nassau Coliseum.
+    PHT: Devils GM Lou Lamoriello says NHL, NHLPA officials 'should do like they do with juries' and be locked in a room until a solution is reached to end the lockout.
     
-    PHT: Potvin saddened by Isles' relocation Bettman says full season 'not going to be reality' CSN: Time for sides to show they care about game Blue Jackets hire Davidson to run hockey side Costas Tonight: Roenick on NHL lockout PHT: Torts worried lockout to hurt NYR's momentum Lockout puts sales for small businesses on ice NHL.com: Muller talks about key to coaching Ad
+    PHT: NHL plans to pull offer off table Friday CSN: Time for sides to show they care about game Bettman says full season 'not going to be reality' CSN: Bergeron 'fine' after upper-body injury PHT: Islanders moving to Brooklyn PHT: Potvin saddened by Isles' relocation Blue Jackets hire Davidson to run hockey side Costas Tonight: Roenick on NHL lockout Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Jeff Haynes / Reuters Time for seven guys to step up
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Gregory Bull / AP Lakers end preseason winless
     
-    PBT: John Wall was supposed to be sure-thing for Washington. But can he finally deliver on that hype? He and six other players need big seasons.
+    The Los Angeles Lakers lost 94-82 to the Sacramento Kings to finish the preseason winless — something no team has ever done and still made it to the Finals.
     
-    PBT: Chandler injures knee, leaves on crutches PBT: Bynum unlikely to play in 76ers' opener Clippers keep Lakers winless in preseason PBT: Kobe done for preseason. Howard in Thursday PBT: Five players who need a new team NBA to remove center designation from All-Star ballot Hinrich leaves Bulls game with groin injury PBT: Thibodeau picks Jordan over LeBron, for now Ad
+    PBT: Stern to retire as commissioner in 2014 PBT: Stern reflects on good, bad of his legacy Stern says 'it's been a great run' Good time for Stern to step down PBT: Stern was all business with the NBA PBT: Kobe reportedly may miss Lakers' opener PBT: Mavericks suspend West 'indefinitely' PBT: Time for these 7 guys to step up Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines NBC Sports Will the Gators chomp Bulldogs
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Jackson Laizure / Getty Images Contributor Figure on wins for OU, Florida
     
-    SportsTalk: Pat Forde and Erik Kuselias discuss the key games this Saturday, including the annual battle between No. 3 Florida and No. 12 Georgia in Jacksonville.
+    CFT's Predictions 101: One week after a posting a perfect 7-0 record, our expert returns to make picks on the weekend's big games. That's bad news for Notre Dame and Georgia.
     
-    CFT's Predictions 101: Figure on wins for OU, UF No. 3 Florida has shot to clinch SEC East No. 14 Clemson looks to get back to form at Wake Notre Dame Central: Irish take on Oklahoma Tide-Bulldogs set for clash of SEC West unbeatens Special feature: Heisman Hopefuls OSU's Miller says he's fine after injury Ohio State-Penn State still matters amid sanctions Ad
+    CFT: No. 14 Clemson cruises past Wake Forest CFT: Setback for Mathieu — arrest on pot charges SportsTalk: Will the Gators chomp Bulldogs? CFT: Georgia getting one Jones back for Florida UGa's Murray gets another shot at signature win SportsTalk: Is this the last stand for Dooley? Cincinnati, No. 16 Louisville renew rivalry Notre Dame Central: Irish take on Oklahoma Ad
 *   Motors
     SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Nigel Kinrade / AP Knaus keeps Johnson in hunt
     
     Chad Knaus refused to throw away the day when Jimmie Johnson hit the wall after leading after 44 laps around Kansas Speedway. That's paying off.
     
-    Earnhardt Jr. cleared to race at Martinsville Regan Smith to race Nationwide for JR Motorsports Vettel, Alonso confident ahead of Indian GP Andretti Autosport to enter Munoz in Indy 500 Kenseth feeling nostalgic in final month with RFR Matt Kenseth wins, Keselowski keeps points lead Stenhouse steals Nationwide race at Kansas Patrick disappointed in Nationwide results in '12 Ad
+    Earnhardt Jr. cleared to race at Martinsville Regan Smith to race Nationwide for JR Motorsports German bank seeking damages from Ecclestone Vettel, Alonso confident ahead of Indian GP Andretti Autosport to enter Munoz in Indy 500 Kenseth feeling nostalgic in final month with RFR Matt Kenseth wins, Keselowski keeps points lead Stenhouse steals Nationwide race at Kansas Ad
 *   NCAA BK
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines James Crisp / AP UK scrimmage had one issue
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Doug Pensinger / Getty Images Kansas best in Big 12 yet again
     
-    CBT: The Blue &. White game was usual spate of highlight-reel dunks, but a sore back for Nerlens Noel could end up being an issue.
+    CBT: Like death and taxes, Jayhawks should outclass rest of conference yet again. We break down top players, predicted finish and more.
     
-    Kentucky's freshmen mesh well in scrimmage CBT: Should NCAA get out of enforcement business? CBT's top 25 countdown: N.C. State No. 8 BYU loses another guard to injury Murray St. suspends Jackson for entire season CBT: Memphis happy to hear Barton's hand OK CBT: UCLA freshman star Muhammad hurt CBT's top 15 backcourts of 2012-13 season Ad
+    CBT: Andrew Wiggins now a 2013 prospect UCLA's Muhammad to miss time with injury Tavon Sledge cleared to play for Iona Indiana loses Elston to a torn meniscus CBT: Kentucky's scrimmage had one issue CBT: Should NCAA get out of enforcement business? CBT's top 25 countdown: N.C. State No. 8 Kansas, Georgetown agree to 4-year hoops series Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Woods three back of Matteson at CIMB Classic
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Woods (67) chasing Garrigus at CIMB Classic
     
-    On a hot and humid day in Malaysia, Tiger Woods shot 5-under 66 to finish three back of Troy Matteson in the CIMB Classic.
+    On another sweat-soaked day in Malaysia, Tiger Woods shot 67 Friday but still trails Robert Garrigus by five shots at the CIMB Classic.
     
-    Woods three back of Matteson at CIMB Classic Tiger Tracker: CIMB Classic McIlroy mum on rumored new equipment deal Woods on his season: Good but not great Swing of Ming: Yao tries his hand at golf Hurricane Sandy affects Florida Q-School site PGA Tour Q-School first stage sites and scoring Video: Parnevik rocks it 'Gangnam Style' Video: Lose the chicken wing, drive the ball better Ad
+    Woods (67) chasing Garrigus at CIMB Classic Tiger Tracker: CIMB Classic Irish Olympic chief clarifies Rory's role in Rio Mahan plans to use Ryder Cup snub as motivator McIlroy mum on rumored new equipment deal PGA Tour Q-School first stage sites and scoring Video: Parnevik rocks it 'Gangnam Style' Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Kirsty Wigglesworth / AP Stunning day in Champions League
+    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Carlos Jasso / Reuters Is De Rosario close to a return?
     
-    PST: To say Wednesday's games saw some huge upsets would be an understatement. From Shalke beating Arsenal to Borussia Dortmund beating Real, we break it down.
+    PST: If D.C. can avoid falling to fourth in the playoffs, it could get its star back for a playoff game next weekend.
     
-    Sporting Kansas City defeats Union 2016 Copa America to be played in US PST: Morgan's play a revelation for US women US, Germany tie for 2nd time in 4 days  |  Highlights Wambach disappointed with Germany draw Rampone: We didn't want to lose to Germany Rapinoe on gold, next U.S. coach PST: What happened to Chelsea vs. Shaktar? Ad
+    PST: Solo won't be FIFA Women's player of year PST: Everyone loves Alan Gordon, right? Roundup: Liverpool, Inter Milan triumph Galaxy beats Isidro Metapan 3-2, finish group play 2016 Copa America in US not done deal Gulati’s statement about potential 2016 Copa America 3 hurt in fighting in Greece at Europa League game Stunning day in Champions League Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Stefan Wermuth / Reuters Cycling not in jeopardy for Olympics, says IOC
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Michael Lynch / AP Lolo now on a different track
     
-    A report by Belga said that despite the on-going doping scandal in the sport, cycling is not at risk of being removed from the Olympics anytime in the near future.
+    Olympic Talk: Hurdler still seeking that Olympic gold, which might happen now that she's officially a member of U.S. bobsled team.
     
-    London $603M under budget Jeff Blatnick, 1984 gold medal wrestler, dies OlympicTalk: Who will replace Coach K? OlympicTalk: Lolo pushing for Winter Olympics spot OlympicTalk: Were Aussie swimmers sleepwalking? Video: Wagner wins first ISU Grand Prix title OlympicTalk: Missy stays golden, commits to Cal Short-track records fall at Calgary World Cup Ad
+    Two medals stolen from UK athletes. one still missing AIBA lifts USA Boxing's 3-month suspension Cycling not in jeopardy for Olympics, says IOC OlympicTalk: London $603 million under budget Jeff Blatnick, 1984 gold medal wrestler, dies OlympicTalk: Who will replace Coach K? OlympicTalk: Lolo pushing for Winter Olympics spot OlympicTalk: Were Aussie swimmers sleepwalking? Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Eric Gaillard / Reuters Lance should leave public eye
+    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Joel Saget / AFP - Getty Images Armstrong doping signs ignored
     
-    Costas Tonight: Following his fall from grace, Lance Armstrong needs to completely eliminate his public persona and disappear, says USA Today's Christine Brennan.
+    Former Lance Armstrong insiders, Betsy Andreu and Emma O’Reilly, and one-time teammate, Tyler Hamilton, describe to Rock Center’s Harry Smith how they say Armstrong was able to continue racing despite signs that he might be doping.
     
-    Olympic Talk: Cycling not in jeopardy for Olympics, says IOC Game On Dude to try again in Breeders' Cup Classic High school kicker with autism makes game-winning field goal Unbelievable end to Pop Warner game The Week in Sports Pictures Sports backgrounds for Obama, Romney Indiana Fever fans celebrate WNBA title Liggett: Stripping Lance is sad day for cycling Ad
+    Ex-friends says Lance 'biggest fraud' in sports history Lance should leave public eye Olympic Talk: Cycling not in jeopardy for Olympics Emanuel Steward, famed boxing trainer, dies at 68 NCAA grad rates improving in football, basketball Laimbeer joins Liberty as general manager, coach Federer beats Bellucci in 3 sets at Swiss indoors Game On Dude to try again in Breeders' Cup Classic Ad
 
 *   Scores
 *   Odds
@@ -184,10 +184,10 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com DeMarco: Tigers can take heart — it was only one game  
-  PFT: Does Tebow fit in with ANY NFL team?  
+Tweet Also on NBCSports.com World Series: Complete coverage from CSNBayArea.com  
+PFT's Picks: Broncos to beat up on Saints  
+CFT's Predictions 101: OU, Florida figure to win  
 PBT: Seven NBA players who need big seasons  
-CBT: Top backcourts for 2012-13  |  More previews  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
