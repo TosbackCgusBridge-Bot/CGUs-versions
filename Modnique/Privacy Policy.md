@@ -44,58 +44,61 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
+    *   Anna Kevin Women's Apparel
+    *   Anne Klein and Michael Kors Outerwear
+    *   Bague a Dames Jewelry &. Watches
+    *   Bear Paw, Muk Luks, and Pajar Andre
     *   Designer Jewelry
-    *   EF Studio Cosmetics
+    *   Designer jewelry from $5
+    *   Elizabeth Grant Cosmetics
     *   Eveningwear By Nicole Miller &. Shail K
-    *   Handmade in Italy jewelry
     *   Jewelry box must-haves
-    *   Louis Vuitton Handbags
-    *   Pretty in Pearls
-    *   Rain Women's Apparel
+    *   Koret handbags
     *   Shades Of Grey
-    *   Synonyme by Georges Rech
-    *   Unanyme by Georges Rech Women's Apparel
-    *   Vecceli handbags
+    *   Winter essentials for her from $19
+    *   Winter sparkles: jewelry for her
     *   Wow couture Dresses
     *   _more..._
     *   men
-    *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
+    *   Fresh Brand, Report Collection, Maglierie di Perugia &. Il Moro Di Venezia
+    *   Men's Fragrances: Armani, CK, Burberry and more
+    *   Versace Men's Scarves and Ties
     *   _more..._
     *   other
     *   Converse Featuring Men's and Women's Shoes
-    *   DYRBERG/KERN, Chateau D'Argent, Morellato and more
-    *   Ice Watch
     *   Patek Philippe , Chaumet,Audemars Piguet and more watches
-    *   RAMA SWISS WATCH
-    *   Versace, Prada, Gucci and more Sunglasses
+    *   Swiss made designer watches
     *   _more..._
 *   apparel
     *   women
+    *   Anna Kevin Women's Apparel
+    *   Anne Klein and Michael Kors Outerwear
     *   Emanuel Ungaro women's apparel
-    *   Esprit Outwear
     *   Eveningwear By Nicole Miller &. Shail K
-    *   Glamour Dresses
     *   Jeanne Darc, No Limit, Vipart Women's Apparel
     *   Rain Women's Apparel
     *   Shades Of Grey
     *   Unanyme by Georges Rech Women's Apparel
+    *   Winter essentials for her from $19
     *   Wow couture Dresses
     *   _more..._
     *   men
-    *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
+    *   Fresh Brand, Report Collection, Maglierie di Perugia &. Il Moro Di Venezia
     *   _more..._
 *   Jewelry &. Watches
     *   women
     *   Affordable Jewelry
-    *   DV ITALY Ladies Crystal Bracelet
+    *   BOMA Ladies Turquoise Earrings
+    *   Bague a Dames Jewelry &. Watches
     *   Designer Jewelry
+    *   Designer jewelry from $5
     *   Handmade in Italy jewelry
     *   Jewelry box must-haves
     *   Lauren G. Adams
     *   Murano Glass &. Venetiaurum Jewelry
     *   Our Favorite Diamond Styles
     *   Pretty in Pearls
-    *   Silver jewelry sale: earrings &. rings
+    *   Winter sparkles: jewelry for her
     *   _more..._
     *   men
     *   Men's jewelry sale
@@ -104,31 +107,28 @@ Loading Modnique - Boutique Events
     *   Akribos XXIV, Adee Kaye, Croton, Blumarine and more
     *   Color love: jewel-toned watches
     *   DYRBERG/KERN, Chateau D'Argent, Morellato and more
-    *   Get the Watch You Want: under $99
     *   Ice Watch
     *   Patek Philippe , Chaumet,Audemars Piguet and more watches
     *   RAMA SWISS WATCH
+    *   Swiss made designer watches
     *   _more..._
 *   Handbags &. Accessories
     *   women
-    *   Alex Max and Fleur de Lis handbags
-    *   Chanel
-    *   Clips Accessories Made In Italy
     *   Designer Jewelry
-    *   Louis Vuitton Handbags
+    *   Koret handbags
     *   Shades Of Grey
     *   Vecceli handbags
     *   _more..._
     *   men
-    *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
+    *   Versace Men's Scarves and Ties
     *   _more..._
     *   other
-    *   Piquadro Travel Accessories Made In Italy blowout
     *   Tod's &. Karl Lagerfeld sunglasses
     *   Versace, Prada, Gucci and more Sunglasses
     *   _more..._
 *   shoes
     *   women
+    *   Bear Paw, Muk Luks, and Pajar Andre
     *   Synonyme by Georges Rech
     *   _more..._
     *   men
@@ -139,26 +139,28 @@ Loading Modnique - Boutique Events
     *   _more..._
 *   beauty
     *   women
-    *   Beyond the Beauty Hair tools
     *   EF Studio Cosmetics
+    *   Elizabeth Grant Cosmetics
     *   Michael Todd Skincare Made In USA
     *   _more..._
     *   men
+    *   Men's Fragrances: Armani, CK, Burberry and more
     *   _more..._
 *   men
     *   Akribos XXIV, Adee Kaye, Croton, Blumarine and more
     *   Color love: jewel-toned watches
     *   Converse Featuring Men's and Women's Shoes
     *   DYRBERG/KERN, Chateau D'Argent, Morellato and more
-    *   Get the Watch You Want: under $99
+    *   Fresh Brand, Report Collection, Maglierie di Perugia &. Il Moro Di Venezia
     *   Ice Watch
     *   Men's jewelry sale
-    *   Men's Shop: Byblos sweaters. Giorgio Coveri Cashmere Coats
+    *   Men's Fragrances: Armani, CK, Burberry and more
     *   Men's Shop: DVS Shoes
     *   Patek Philippe , Chaumet,Audemars Piguet and more watches
-    *   Piquadro Travel Accessories Made In Italy blowout
     *   RAMA SWISS WATCH
+    *   Swiss made designer watches
     *   Tod's &. Karl Lagerfeld sunglasses
+    *   Versace Men's Scarves and Ties
     *   Versace, Prada, Gucci and more Sunglasses
     *   and many more...
 *   gifts
