@@ -18,8 +18,8 @@ Sponsored Links advertisement Decorating &. Ideas
 More Decorating &. Ideas Kitchens &. Entertaining
 
 *   Kitchen Gadgets Under $20
+*   Happy Kitchens
 *   Rack of Pork with Fava Beans
-*   A Humble and Homey Kitchen
 
 More Kitchens &. Entertaining Photo Galleries
 
@@ -31,7 +31,7 @@ More Photo Galleries Shopping &. Gifts
 
 *   Pretty Floral Wallpapers
 *   The Salon: Art &. Design
-*   Top 6 Organizational Apps
+*   Happy Home Decor
 
 More Shopping &. Gifts Most Popular
 
