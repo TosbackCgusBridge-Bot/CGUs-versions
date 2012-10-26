@@ -125,7 +125,7 @@ By agreeing to JetBlue's Privacy Policy, you consent to JetBlue applying its Pri
 _Last updated September 27, 2012  
 Effective since January 28, 2004_
 
-**The JetBlue mobile app has arrived.**Download it now!
+**Same smart app. More smartphones.**Download the JetBlue mobile app for iPhone and Android now!
 
 *   Like us on Facebook 663,163 like this
     
