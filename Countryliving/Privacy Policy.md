@@ -95,15 +95,15 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Country Living advertisement
 
-*   **apple recipes**
+*   **pumpkin**
 
-*   **apple desserts**
+*   **soup**
 
-*   **soups**
+*   **brownies**
 
-*   **salads**
+*   **chicken**
 
-*   **pineapple dessert**
+*   **chocolate cake**
 
 Home &. Decorating
 
