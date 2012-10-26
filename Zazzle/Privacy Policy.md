@@ -16,7 +16,7 @@ Skip to content
 *   Gift Center
 *   T-Shirts
 
-**Search** Spooktacular Savings - $10 Off Orders Of $50 Or More!   Use Code: HALLOWEENFUN   Ends Wednesday (details) Check out Zazzle Instant, our new app for making fun products! Ok Zazzle Privacy Policy Policies
+**Search** Halloween Mystery Sale: Up To 20% OFF Select Products!   Enter OCTOBERFUN31 At Checkout For Savings. Ends Soon! (details) Check out Zazzle Instant, our new app for making fun products! Ok Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
