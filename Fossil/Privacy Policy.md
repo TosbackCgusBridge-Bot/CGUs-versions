@@ -1,7 +1,9 @@
 Shopping Bag (0) My Account My Account
 
 *   Sign In
+*   Dashboard
 *   My Information
+*   My Products
 *   Order Tracking
 *   Wish List
 
