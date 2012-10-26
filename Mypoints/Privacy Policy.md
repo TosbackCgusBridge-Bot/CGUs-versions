@@ -48,7 +48,7 @@ MyPoints Search MyPoints Search Web
     *   Magazines.com
     *   MyStars
     *   Kara DioGuardi
-    *   Audrina Patridge
+    *   Carmen Electra
     *   Kyle Richards
     *   Total Beauty
     *   All Merchants
