@@ -176,7 +176,7 @@ Welcome Imagine it, create it, share it. Learn more Upload Upload from your comp
     
     Congratulations
     
-    Get Well
+    See All Greeting Cards
     
 *   |
 *   Home Décor▼ Canvases
