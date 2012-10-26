@@ -1,111 +1,142 @@
-Gifts.com Fall ContestsWin $1000 and More X Win $1000 and more! Pin a gift from Gifts.com for a chance to WIN IT! Well choose a winner every week to win the gift, up to a $100 value. Learn More Vote for the Best Gifts of 2012 &. You Could Win $1000! Learn More
+Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! Pin a gift from Gifts.com for a chance to WIN IT! We?ll choose a winner every week to win the gift, up to a $100 value. Learn More Vote for the Best Gifts of 2012 &. You Could Win $1000! Learn More
 
+*   Christmas
+    
+    *   Top Christmas Gifts
+    *   Christmas Decor
+    *   Electronics
+    
+    *   Personalized Gifts
+    *   Stocking Stuffers
+    *   Gift Baskets
+    
+    *   Ornaments
+    *   Religious Gifts
+    *   Executive Gifts
+    
+    *   Kids Toys
+    *   Flowers &. Plants
+    *   All Christmas Gifts
+    
 *   Men Shop by Occasion
     
     *   Birthday
     *   Anniversary
     *   Groomsmen
-    *   Bachelor Party
     
+    *   Bachelor Party
     *   Retirement
     *   Thank You!
-    *   Wedding
     
     Top Categories
     
     *   Top Picks
     *   Personalized Gifts
     *   Unique Gifts
+    
     *   Gourmet Food
     *   Experience Gifts
     *   Electronics
     
-    *   Gifts For Dads
-    *   Boyfriend Gifts
-    *   For The Home
-    *   Eco-Friendly Gifts
-    *   Alcohol &. Cigar Gifts
-    *   Jewelry &. Watches
+    Gift Guides
+    
+    *   Top 10 Gifts For Guys
+    *   Gifting Made Easy Guide
+    
+    *   Horoscope Gift Guide
+    *   Anniversary Gift Guide
+    
+    *   Grilling Gift Guide
+    *   SEE ALL GUIDES
     
     Shop by Price
     
     *   Under $25
     *   $25 - $50
-    
     *   $50 - $100
-    *   Over $100More Gift Ideas for Men »
-
+    *   Over $100
+    
+    More Gift Ideas for Men »
 *   Women Shop by Occasion
     
     *   Birthday
     *   Anniversary
     *   Bridal Shower
-    *   Baby Shower
-    *   Housewarming
     
-    *   Engagement
+    *   Baby Shower
     *   Bridesmaids
-    *   Wedding
-    *   Bachelorette Party
-    *   Get Well
+    *   Housewarming
     
     Top Categories
     
     *   Top Picks
     *   Personalized Gifts
     *   Jewelry &. Watches
+    
     *   For the Home
     *   Beauty &. Spa
-    
     *   Eco-Friendly Gifts
-    *   Accessories
-    *   Garden &. Yard
-    *   Gifts for Mom
-    *   Gift Baskets
+    
+    Gift Guides
+    
+    *   Holiday Hostess Guide
+    *   Holiday Tipping Guide
+    
+    *   Horoscope Gifts Guide
+    *   See All Gift Guides
     
     Shop by Price
     
     *   Under $25
     *   $25 - $50
-    
     *   $50 - $100
-    *   Over $100More Gift Ideas for Women »
-
+    *   Over $100
+    
+    More Gift Ideas for Women »
 *   Teens Shop by Occasion
     
     *   Birthday
     *   16th Birthday
+    *   Back To School
     
     *   Room Decor
     *   Halloween
+    *   Christmas
     
     Top Categories
     
     *   Top Picks
     *   Clothing &. Accessories
     *   Room Decor
+    
     *   Beauty &. Spa
     *   Arts &. Crafts
-    
     *   Personalized Gifts
-    *   Jewelry &. Watches
+    
     *   Electronics
     *   Travel Gifts
     *   Toys &. Games
+    
+    Gift Guides
+    
+    *   Top Ten Gifts for Teen Guys
+    *   Top Ten Gifts for Teen Girls
+    
+    *   Dorm Checklist
+    *   See All Gift Guides
     
     Shop by Price
     
     *   Under $25
     *   $25 - $50
-    
     *   $50 - $100
-    *   Over $100More Gift Ideas for Teens »
-
+    *   Over $100
+    
+    More Gift Ideas for Teens »
 *   Kids Shop by Occasion
     
     *   Birthday
     *   Halloween
-    
     *   Get Well Soon
     
     Top Categories
@@ -113,24 +144,27 @@ Gifts.com Fall ContestsWin $1000 and More X Win $1000 and more! Pin a gift from 
     *   Top Picks
     *   Toys &. Games
     *   Personalized Gifts
-    *   Electronic Toys
-    *   Arts &. Crafts
-    *   Gifts for Boys
     
-    *   Gifts for Girls
-    *   Learning &. Education
-    *   Kids Clothing
-    *   Kid's Accessories
     *   School &. Dorm
+    *   Arts &. Crafts
+    *   Electronic Toys
+    
+    Gift Guides
+    
+    *   Top Holiday Toys
+    *   Award Winning Toys
+    
+    *   Toy Safety Checklist
+    *   See All Gift Guides
     
     Shop by Price
     
     *   Under $25
     *   $25 - $50
-    
     *   $50 - $100
-    *   Over $100More Gift Ideas for Kids »
-
+    *   Over $100
+    
+    More Gift Ideas for Kids »
 *   Babies Shop by Occasion
     
     *   Birthday
@@ -145,89 +179,102 @@ Gifts.com Fall ContestsWin $1000 and More X Win $1000 and more! Pin a gift from 
     *   Top Picks
     *   Personalized Gifts
     *   Baby Keepsakes
-    *   Baby Gift Baskets
-    *   Gifts for Boys
-    *   Gifts for Girls
     
+    *   Baby Gift Baskets
     *   Baby Wearables
     *   Development and Toys
-    *   Eco-Friendly
-    *   Religious Gifts
-    *   Nursery
-    *   Maternity
+    
+    Gift Guides
+    
+    *   Baby Shower Gifts for Mini Me's
+    *   Eco-Friendly Baby Gifts
+    
+    *   New Mom Push Presents
+    *   See All Gift Guides
     
     Shop by Price
     
     *   Under $25
     *   $25 - $50
-    
     *   $50 - $100
-    *   Over $100More Gift Ideas for Babies »
-
+    *   Over $100
+    
+    More Gift Ideas for Babies »
 *   Occasion Upcoming
     
     *   Breast Cancer Awareness
     *   Halloween (10/31)
-    
     *   Thanksgiving (11/22)
     
     *   Christmas (12/25)
     
-    Occasion
+    Top Occasions
     
     *   Anniversary
-    *   Baby Shower
-    *   **Birthday**
-    *   Bridal Shower
-    *   Bridesmaids
-    
     *   Engagement
-    *   Get Well Soon
-    *   **Graduation**
-    *   Groomsmen
-    *   Housewarming
-    
-    *   New Baby
     *   Retirement
+    
+    *   Baby Shower
+    *   Get Well Soon
     *   Sympathy
+    
+    *   **Birthday**
+    *   Groomsmen
+    *   Tailgating
+    
+    *   Bridal Shower
+    *   Housewarming
     *   Thank You!
-    *   **Wedding**View All Occasions »
-
+    
+    *   Bridesmaids
+    *   New Baby
+    *   **Wedding**
+    
+    View All Occasions »
 *   Category Top Categories
     
     *   Baby Keepsakes
-    *   Beauty &. Spa
-    *   Business &. Executive
-    *   Computers &. Electronics
-    *   **Eco-Friendly Gifts**
-    *   Election 2012
     *   Experiential Gifts
-    *   Flowers
-    *   Gag Gifts
-    *   Gardening &. Yard Gifts
-    
-    *   **Gift Baskets**
-    *   Gourmet Food &. Beverages
-    *   Home Decor
     *   Made in the USA
+    
+    *   Beauty &. Spa
+    *   Flowers
     *   **Our Newest Gifts**
+    
+    *   Business &. Executive
+    *   Gag Gifts
     *   Personalized Gifts
+    
+    *   Computers &. Electronics
+    *   **Gift Baskets**
     *   Pets
+    
+    *   Christmas Themed
+    *   Gloves, Hats &. Scarves
     *   Same Day Delivery
+    
+    *   **Eco-Friendly Gifts**
+    *   Gourmet Food &. Beverages
     *   Toys &. Games
-    *   Unique GiftsView All Categories »
-
-*   Personality Not Sure Which Personality? Try our fun &. easy Personality Profiler. try our personality profiler Or, see all our personalities for:
+    
+    *   Election 2012
+    *   Home Decor
+    *   Unique Gifts
+    
+    View All Categories »
+*   Personality Not Sure Which Personality? Try our fun &. easy Personality Profiler: TRY OUR PERSONALITY PROFILER Or, see all our personalities for:
     
     *   Men
     *   Senior Men
     *   Women
-    *   Senior Women
     
+    *   Senior Women
     *   Teen Guys
     *   Teen Girls
+    
     *   Boys
     *   Girls
+    
 
 GIFTS.COM About Us Contact Us Careers Press Center Privacy Policy Terms of Service Merchant Tools  
 
@@ -367,13 +414,4 @@ No, the new provisions of this updated privacy policy will not apply to the pers
 **Can I see a copy of the prior privacy policy?**  
 Yes, please click here for a link to our previous privacy policy that applies to personal information collected before December 1, 2010.
 
-Home  
-Merchants  
-About Us  
-Contact Us  
-Press Center  
-Privacy Policy  
-Terms of Service  
-Advertise with Us  
-Site Map  
-Follow Gifts.com On: Facebook Twitter RSS Pinterest Newsletter Sign Up Find the perfect gifts for your friends &. family. Privacy Policy Popular Categories   |  Top Ten Gift Lists   |  Anniversary Gifts   |  Wedding Gift Ideas   |  Gift Guides &. Tips   |  Gifts.com Blog   |  New Gift Ideas   |  More |  Find Gifts Partner Sites: Expedia   |  Floraflora   |  Hotels   |  Hotwire   |  Online Shopping   |  Pronto   |  Shoebuy   |  Ticketmaster Gift ideas for anyone and every occasion. Gifts.com — The easy way to find great gifts! ©2005-2012 Gifts.com. All rights reserved.
+About Us Home Merchants About Us Contact Us Press Center Privacy Policy Terms of Service Advertise with Us Site Map Helpful Links Gift Ideas Popular Categories Top Ten Gift Lists Anniversary Gifts Wedding Gift Ideas Gift Guides &. Tips Gifts.com Blog New Gift Ideas More Partner Sites Expedia Floraflora Hotels Hotwire Online Shopping Pronto Shoebuy Ticketmaster Connect with Gifts.com Keep up to date with gifting news and trends. Newsletter Sign Up Find the perfect gifts for your friends &. family. SUBMIT Privacy Policy Gift ideas for anyone and every occasion. Gifts.com ? The easy way to find great gifts! ©2005-2012 Gifts.com. All rights reserved.
