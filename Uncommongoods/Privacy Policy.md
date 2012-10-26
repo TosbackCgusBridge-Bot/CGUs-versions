@@ -85,7 +85,6 @@
 *   aiga
 *   aaron foster
 *   alexander doll
-*   andrea doss
 *   audrey heller
 *   ben and kate gatski
 *   david montgomery
