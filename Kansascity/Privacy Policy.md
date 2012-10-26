@@ -134,16 +134,17 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Treat Yourself to 55% Off Aromatherapy Massage plus Extras at Pause - The Spa near The Legends $60 Value: Discount: You Save: $125 52% $65
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $10 Value: Discount: You Save: $20 50% $10
 
-Thursday: Wal Mart, Sunfresh Deals Wal Mart
+Friday: Five things to do
 
-*   Suave Deodorant, 1.4oz - $0.97
-*   Glade PlugIns Scented Oil Warmer - $1.38
-*   Suave Body Lotion, 18oz - $2.87
-*   more...
+*   Lego Creationary Challenge
+*   Spring Family Fun Days Fall Festival
+*   Captain America Character Appearance
+*   Dancing Spider
+*   Junior League of Kansas City Holiday Mart
 
-1.  PROGRAM DIRECTOR
+1.  Apartment Maintenance Helper
     
 2.  Parts Project Coordinator
     
@@ -151,9 +152,11 @@ Thursday: Wal Mart, Sunfresh Deals Wal Mart
     
 3.  OPERATING MANAGER
     
-4.  SALES
+4.  PROGRAM DIRECTOR
     
-5.  PROGRAM DIRECTOR
+5.  CAMPAIGN JOBS
+    
+    Grassroots Campaigns, Inc.
     
 6.  SENIOR PIPE DESIGNER
     
@@ -165,16 +168,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Two killed in Blue Springs accident
-*   Teen with spina bifida gets his wish, meets LeBron James
-*   New uses found for two more closed Kansas City schools
+*   Chiefs fans feel ignored
+*   Romney pressed on abortion question
+*   Gardner woman in Illinois is shot by police, runs into house with baby in car
+*   What the men of the GOP don’t get about rape and abortion
+*   Gasoline prices dive toward $3 a gallon
+*   Chiefs’ running game gets boost with Hillis’ return
 *   Its on: Chiefs Hali calls Raiders dirty
-*   KC-area family struggles with anger after arrest in Jessica Ridgeway slaying
-*   Theres no free ride on the Miami Heat for KU hero Mario Chalmers
-*   Abducted Missouri girl found safe. sex offender charged
-*   Blog: Why no one should blame K-State for not playing Oregon
-*   Taylor Swifts Red lacks vibrancy
-*   Sporting looks like KCs most successful franchise
+*   How Tippi Hedren ran afoul of Alfred Hitchcocks blond fixation and paid the price
+*   Cash flow in Missouri U.S. Senate race is one-sided in McCaskill's favor
+*   Huge 'Perfect Storm', Sandy, could impact East Coast
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
