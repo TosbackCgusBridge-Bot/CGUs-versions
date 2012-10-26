@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Talk Nerdy To Me
+*   Prince Charles
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 25, 2012 Edition: **U.S.**
+October 26, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 25, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Barack Obama: If I Win, It May Be Thanks To GOP Alienating Latinos13k
-    *   Was The Whole Donald Trump Announcement A Gigantic, Pointless Bust?18k
-    *   Paul Ryan: To Help The Poor, Cut Programs For The Poor22k
-    *   Mourdock On Abortion: Pregnancy From Rape Is 'Something God Intended'28k
-    *   Biden Targets Romney With Baby Tears3k
+    *   Colin Powell Makes Presidential Endorsement26k
+    *   Clinton Could Remain Secretary Of State Longer Than Expected5k
+    *   Obama: Mitt Romney Is A 'Bulls\*\*\*er'23k
+    *   Romney Still Surging? Polls Say No20k
+    *   Secret Service Not Laughing At Man's Anti-Obama Display 3k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 25, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   Trump Place FIRES Trump 2k
-    *   U.S. Sues BofA Over Mortgage Fraud2k
-    *   Rick Perry's Own Little Solyndra1k
-    *   Paul Krugman: Romney Victory Could Mean 'Double-Dip Recession'5k
-    *   15 Outrageous Products That People Are Actually Buying51
+    *   Foreclosed Home Robbed After Craigslist Ad Offering Giveaway433
+    *   Trump Place FIRES Trump 3k
+    *   'Show Me Yours, But I Won't Show You Mine': Donald Trump Refuses To Show Transcripts, Passport647
+    *   Paul Krugman: Romney Victory Could Mean 'Double-Dip Recession'7k
+    *   15 Outrageous Products That People Are Actually Buying120
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 25, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   Taylor Swift On Pace To Set Record This Week274
-    *   WATCH: Vivica A. Fox SLAMS Stacey Dash's Romney Endorsement1k
-    *   Adele's 'Skyfall' Made Daniel Craig Cry102
-    *   15 Best Twist Endings In Movies829
-    *   Lindsay Lohan's Incredible Debate Tweets329
+    *   'Cloud Atlas' Slammed By Group For 'Yellowface' Controversy219
+    *   WATCH: Vivica A. Fox SLAMS Stacey Dash's Romney Endorsement2k
+    *   Neil Young Dings Bono706
+    *   WATCH: Lena To Romney: You Don't Own Me1k
+    *   Taylor Swift On Pace To Set Record This Week334
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 25, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   The One Feature That Could Sink The iPad Mini790
-    *   Apple Defends iPad Mini's Crazy-High Price587
-    *   5 Reasons Apple's 'Big' iPad Bests The iPad Mini 59
-    *   Barnes &. Noble Discloses Credit Card Security Breach In 63 Stores223
-    *   Apple's Big News: The iPad Mini1k
+    *   The Microsoft Tablet Reviews Are In..467
+    *   Microsoft Officially Unleashes Windows 8, Surface Tablet405
+    *   The 9 Best Windows 8 Devices Available Now47
+    *   5 Reasons Apple's 'Big' iPad Bests The iPad Mini 67
+    *   Amazon And Google Shouldn't Be Worried About The iPad Mini111
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 25, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
+    *   WATCH: Barbara Walters' Harsh Message To Donald Trump2k
+    *   CNN Scratches Controversial Story2k
     *   Coulter Uses Slur Against Obama17k
-    *   Oprah Caught In Nasty Family Drama231
-    *   Savannah Guthrie: 'Change Is Hard' 491
-    *   WATCH: Anderson Mocks Lindsay Lohan 293
-    *   How Iowa Paper Pushed Obama On The Record618
+    *   Krystal Ball Announces Big News282
+    *   Oprah Caught In Nasty Family Drama321
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 25, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   Tunisia Arrests Suspect In Consulate Attack1k
-    *   WATCH: U.N. Chief Dances Gangnam-Style73
-    *   7 Killed In Shootout With Mexican Marines32
-    *   Farmer Sets Self On Fire In China, Dies (WARNING: GRAPHIC PHOTOS)171
-    *   World Geography According To Mitt Romney4k
+    *   Tunisia Arrests Suspect In Consulate Attack3k
+    *   Army Official Reportedly Executed For Drinking During Mourning Period For Kim Jong Il220
+    *   WATCH: U.N. Chief Dances Gangnam-Style172
+    *   Swedish Princess Engaged To American Boyfriend98
+    *   Amazing Mayan Tomb Discovered22
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 25, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Does The Way You Sleep Say Something About Your Personality? 525
-    *   The Silent Story of Male Breast Cancer 46
-    *   Smoking, Not Flossing, Soda For Breakfast: What’s Your Biggest Health Turnoff?113
-    *   Lisa Lost 80 Pounds: 'I Can See The Old Me. I'd Forgotten What I Looked Like'
-    *   The Great Health Benefits Of Beans102
+    *   Lisa Lost 80 Pounds: 'I Can See The Old Me. I'd Forgotten What I Looked Like'23
+    *   Janette Lost More Than 200 Pounds: 'I Felt Like My Body Was A Prison'10
+    *   Does The Way You Sleep Say Something About Your Personality? 605
+    *   8 Ways Working The Night Shift Could Hurt Your Health
+    *   The Great Health Benefits Of Beans110
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 25, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
-    *   Jessica Biel's Pink Wedding Dress Makes The Colored Bridal Gown Trend Official183
-    *   PHOTOS: The Most Hilarious Jewelry Launch We've Ever Seen265
-    *   Should We (Or Should We Not) Put Toothpaste On Breakouts? 46
-    *   PHOTOS: 11 Trends We're Officially Sick Of42
-    *   PHOTOS: Jon Hamm Had A Serious Makeup Disaster47
+    *   PHOTOS: Katy Perry Performs For Obama Rally Dressed As A Ballot2k
+    *   Is Katy Perry Bored With Reinventing Herself? 34
+    *   PHOTOS: 11 Trends We're Officially Sick Of66
+    *   PHOTOS: Sofia Vergara's Dress Might Just Be A Long Shirt69
+    *   In Honor Of Her 65th Birthday, Here Are 65 Amazing Hillary Clinton Outfits
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 25, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   Vintage Halloween Costumes Are Unintentionally Terrifying 32
-    *   'What The Hell Was That?'1k
-    *   WATCH: There Are No Words To Describe This294
-    *   The Funniest Pet Halloween Costumes13
-    *   7 Sites You Should Be Wasting Time On Right Now
+    *   Vintage Halloween Costumes Are Unintentionally Terrifying 73
+    *   Fey On Reproductive Rights: 'I'm Gonna Lose My Mind'1k
+    *   WATCH: Stewart Slams Trump, Palin &. GOP462
+    *   WATCH: Colbert Destroys Rape-Defending GOP Pols728
+    *   Colbert Offers Trump $1M To Put His Balls In His Mouth763
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 25, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next Mali In Chaos
-    *   Next Jon Huntsman LIVE
-    *   Coming Up No Wavering In Wisconsin
-    *   Coming Up Shariah's Limits
-    *   Coming Up Tech Game ChangersGo to HuffPost Live
+    *   Next Voting From The Waist Up
+    *   Next The Hajj Explained
+    *   Coming Up The Big Chill
+    *   Coming Up Corporate Cult?
+    *   Coming Up Living On $1 A DayGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
