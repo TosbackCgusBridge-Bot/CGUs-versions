@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Syria Ponders Holiday Truce
-*   Obama, Romney Focus on Swing States
+*   Bo Expelled from Chinese Parliament
+*   Clashes Mar Truce in Syria
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
