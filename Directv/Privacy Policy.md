@@ -1,8 +1,8 @@
 Privacy Policy JavaScript is disabled in your browser. We recommend that you enable JavaScript to optimize your experience on DIRECTV.com. Learn More
 
-*   DXDTPW11D
-*   2996696849
-*   3050917528
+*   DXDTPW10A
+*   2997986987
+*   3052474127
 *   false
 *   false
 *   false
@@ -13,8 +13,7 @@ Privacy Policy JavaScript is disabled in your browser. We recommend that you ena
 *   false
 *   guest
 
-Bundle Internet and phone with DIRECTV. Bundles start at only $79.94**\*** \*After rebate with 24-mo. agreement. ENTERTAINMENT package.  
-Price may vary based on your location. Taxes and fees may apply. Call 1-855-567-1567 Order Now 1-888-777-2454  |  30 million customers strong!**\*** Based on total number of DIRECTV  
+Online orders only! Get FREE Shipping &. Handling  a $20 value. Order Now 1-888-777-2454  |  30 million customers strong!**\*** Based on total number of DIRECTV  
 customers in the US and Latin America. DIRECTV SATELLITE TELEVISION { "email": "", "securedCustomer": false, "autoLoggedIn": false, "pgwsAuthorized": false } Sign In   Create Account
 
 *   Get DIRECTV for:
@@ -50,7 +49,6 @@ customers in the US and Latin America. DIRECTV SATELLITE TELEVISION { "email": "
 *   **Help**
     *   Support
     *   Answer Center
-    *   DIRECTV Everywhere
     *   Tips &. Tricks
     *   Tools
     *   Technical Forums
