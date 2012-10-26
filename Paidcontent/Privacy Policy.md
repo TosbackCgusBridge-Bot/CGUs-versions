@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-News.me says goodbye, places blame on Twitter
+Read-it-later service Pocket launches Mac app
 
 Stay on top of tech news in your inbox
 
