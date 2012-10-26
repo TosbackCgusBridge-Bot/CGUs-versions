@@ -128,24 +128,24 @@ Updated: June 28th, 2012
 
 Search: Sign In or Register FDA Consumer Updates
 
+*   Drops, Sprays Put Curious Kids at Risk
 *   Is Post-Surgery Codeine a Risk for Kids?
 *   Medications Target Long-Term Weight Control
 *   FDA Works to Reduce Risk of Opioid Pain Relievers
-*   How Long Should You Take Osteoporosis Drugs?
 
 More FDA Updates...
 
 Recently Approved
 
 *   FycompaFycompa (perampanel) is a non-competitive AMPA glutamate receptor antagonist indicated as adjunctive therapy...
+*   JetreaJetrea (ocriplasmin) is a proteolytic enzyme indicated for the treatment of symptomatic vitreomacular...
 *   CystaranCystaran (cysteamine cysteamine ophthalmic solution) is a cystine-depleting agent indicated for the...
 *   Quillivant XRQuillivant XR (methylphenidate) is a central nervous system (CNS) stimulant indicated for the treatment of...
 *   StivargaStivarga (regorafenib) is an oral multi-kinase inhibitor for the treatment of patients with metastatic...
-*   AubagioAubagio (teriflunomide) is an oral pyrimidine synthesis inhibitor indicated for the treatment of patients...
 
 More...
 
-Get Updates by Email **Email me:** FDA Medwatch Alerts News Roundup DailyWeeklyMonthly Email Fibromyalgia, Chronic Fatigue, Thyroid Treatment Scientific Approach. Caring Doctors. Free Evaluation at Our Local Clinic. Take our health quiz and make an appointment today!   FibroAndFatigue.com Male Hair Loss Treatment - High Success Rate Clinically proven hair loss treatment for male pattern baldness.   www.pharmcom.com Support About Drugs.com Your Privacy
+Get Updates by Email **Email me:** FDA Medwatch Alerts News Roundup DailyWeeklyMonthly Email Male Hair Loss Treatment - High Success Rate Clinically proven hair loss treatment for male pattern baldness.   www.pharmcom.com Fibromyalgia, Chronic Fatigue, Thyroid Treatment Scientific Approach. Caring Doctors. Free Evaluation at Our Local Clinic. Take our health quiz and make an appointment today!   FibroAndFatigue.com Support About Drugs.com Your Privacy
 
 *   Advertise With Us
 *   Frequently Asked Questions
@@ -173,4 +173,4 @@ Advertisement Close Recommended
 
 *   Symptom Checker
 
-(web5)
+(web2)
