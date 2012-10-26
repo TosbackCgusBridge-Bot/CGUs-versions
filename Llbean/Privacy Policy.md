@@ -31,7 +31,7 @@ Skip to page content
         *   Belts
         *   Socks
         *   Hiking Boots
-    *   New Arrivals Top Rated by Customers Featured
+    *   20% Off Select High-Visibility Clothing and Gear New Arrivals Top Rated by Customers Featured
         
         *   Lined Clothing
         *   Made in the USA
@@ -57,7 +57,7 @@ Skip to page content
         *   Belts
         *   Socks
         *   Boots
-    *   New Arrivals Top Rated by Customers Featured
+    *   20% Off Select High-Visibility Clothing and Gear New Arrivals Top Rated by Customers Featured
         
         *   Lined Clothing
         *   Fleece Shop
@@ -124,7 +124,7 @@ Skip to page content
         *   Sport Watches
         *   Tents
         *   Water Bottles
-    *   New Arrivals Top Rated by Customers Featured
+    *   20% Off Select High-Visibility Clothing and Gear New Arrivals Top Rated by Customers Featured
         *   Men's Activewear
         *   Women's Activewear
         *   Women's Outdoor Gear
@@ -266,12 +266,12 @@ We may collect information (including name, address, telephone number, email add
 
 We maintain the data that you provide us, along with a record of your purchases, in a secure database. To best serve you, we may combine this information with data that is publicly available and data that we receive from other reputable sources, including our credit card issuer, Barclays Bank Delaware, whose policies meet the Direct Marketing Association's privacy standards.
 
-We also gather information about how visitors navigate through our Web site by using clickstream data gathered with "cookies" and/or other online tools such as "pixel tags." See Cookies and Pixel Tags for further information.
+We also gather information about how visitors navigate through our Web site by using clickstream data gathered with "cookies" and other online tools such as "pixel tags." See Cookies and Pixel Tags for further information.
 
  return to top
 
 **Using Information We Collect**  
-At L.L.Bean, we always want to provide you with the best possible shopping experience and fulfill your orders exactly as you've requested. To this, we collect information that allows us to:
+At L.L.Bean, we always want to provide you with the best possible shopping experience and fulfill your orders exactly as you've requested. To do this, we collect information that allows us to:
 
 *   Process and track your order
 *   Provide the services you request
