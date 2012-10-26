@@ -1,5 +1,5 @@
   Manage email CUSTOMER SERVICE My account Order status or or HSN My Alerts: 0 Wish List: Shopping Bag: Jewelry Apparel Shoes Handbags Beauty Kitchen &. Food Electronics Home Decor Home Solutions Health Crafts Sports Clearance More     For the best hsn.com shopping experience, please update your browser to a  
-newer version. We recommend Internet Explorer 9, Chrome or Firefox. Â» Why upgrade? pre-order the CD learn more
+newer version. We recommend Internet Explorer 9, Chrome or Firefox. Â» Why upgrade? shop now
 
 *   HSN Shopping
 
@@ -231,6 +231,6 @@ for every budget Connect &. share with forums, blogs &. more
 *   MyCardExtras
 
   
-Copyright ® 2012/HSN, Inc. All Rights Reserved. HSN and HSN.com are registered trademarks of HSNi, LLC, U.S. Patent No. 7,752,083, U.S. Patent No. 7,756,758  
+Copyright Â® 2012/HSN, Inc. All Rights Reserved. HSN and HSN.com are registered trademarks of HSNi, LLC, U.S. Patent No. 7,752,083, U.S. Patent No. 7,756,758  
 Partner Sites: Expedia | Floraflora | Gifts | Hotels | Hotwire | Pronto | Shoebuy | Ticketmaster Other HSNI Sites: Ballard Designs | Frontgate | Garnet Hill | Grandin Road | Chasing Fireflies | Improvements | Territory Ahead | TravelSmith 0  
 shop now
