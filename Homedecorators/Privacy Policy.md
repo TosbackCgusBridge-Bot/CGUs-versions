@@ -55,7 +55,6 @@ SHOPPING CART ()
     *   Bathroom Mirrors
     *   Bathroom Lighting
     *   Vanity Stools
-    *   Wastebins
 *   STORAGE &AMP. DISPLAY
     *   Martha Stewart Living™ Craft Space
     *   Wall Shelves &. Hooks
