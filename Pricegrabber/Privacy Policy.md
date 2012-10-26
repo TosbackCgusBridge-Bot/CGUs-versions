@@ -40,8 +40,8 @@ My Account
     *   Contact
     *   Leappad
     *   Costco
-    *   Flowers
     *   Mp3 Players
+    *   Flowers
     *   Android Tablets
     *   Barnes And Noble
     *   Coupons
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1522 Local Deals
+*   1535 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
