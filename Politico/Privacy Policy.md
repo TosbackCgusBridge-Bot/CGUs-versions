@@ -113,124 +113,129 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/25/2012 7:02 AM ET
+Updated: 10/26/2012 8:02 AM ET
 
-1.  1 Trump will donate for Obama records
-2.  2 Obama counting on ground game
-3.  3 Trump mocked on Twitter
-4.  4 Poll: Warren opens up 6-point lead
-5.  5 Exclusive: Mourdock braces
-6.  6 Moran's son resigns after video shows him discussing how to cast fake ballots
-7.  7 Election doomsday scenarios abound
+1.  1 Ex-Biden aide pens angry tell-all
+2.  2 Romney raises $111.8 million in October
+3.  3 Two new polls scream 'advantage Obama'
+4.  4 Momentum wars
+5.  5 McCain: 'Gen. Powell, you disappoint'
+6.  6 Bushies in Romneyworld
+7.  7 Obama's pathetic picture book
+8.  8 Obama says kids know Romney is dishonest
+9.  9 Sununu retreats on claim that Powell's endorsement of Obama was race-driven
+10.  10 NBC/WSJ: Obama leads in Nevada, tied with Romney in Colorado
+
+Updated: 10/26/2012 8:02 AM ET
+
+1.  1 Ex-Biden aide pens angry tell-all
+2.  2 Obama says kids know Romney is dishonest
+3.  3 Romney raises $111.8 million in October
+4.  4 McCain: 'Gen. Powell, you disappoint'
+5.  5 Two new polls scream 'advantage Obama'
+6.  6 Obama's pathetic picture book
+7.  7 How Mitt Romney would govern
 8.  8 Obama laughs off Trump's offer
-9.  9 Obama on Mourdock: 'Rape is rape'
-10.  10 Senate 5: Is it over for Mourdock?
+9.  9 Colin Powell backs Obama
+10.  10 Obama on Mourdock: 'Rape is rape'
 
-Updated: 10/25/2012 7:02 AM ET
+Updated: 10/26/2012 8:02 AM ET
 
-1.  1 Trump mocked on Twitter
-2.  2 Trump will donate for Obama records
-3.  3 Obama's 11th-hour strategy shift
-4.  4 Woodward: Obama 'mistaken'
-5.  5 Media chill on Trump announcement
-6.  6 Exclusive: Mourdock braces
-7.  7 Poll: Warren opens up 6-point lead
-8.  8 A narrow Obama win or a Romney landslide
-9.  9 GOP splits over Mourdock comment
-10.  10 Obama counting on ground game
-
-Updated: 10/25/2012 7:02 AM ET
-
-1.  1 Trump mocked on Twitter
-2.  2 Woodward: Obama 'mistaken'
-3.  3 Voter tells Biden he's a 'good guy' but bad VP
-4.  4 Trump claims Obama bombshell
+1.  1 Ex-Biden aide pens angry tell-all
+2.  2 Trump mocked on Twitter
+3.  3 Obama says kids know Romney is dishonest
+4.  4 Romney raises $111.8 million in October
 5.  5 Trump will donate for Obama records
 6.  6 Obama's 11th-hour strategy shift
-7.  7 New Obama book has 2nd-term plan
-8.  8 2012: The battle for 7 states
-9.  9 Media chill on Trump announcement
-10.  10 Betting line on Trump announcement
+7.  7 Woodward: Obama 'mistaken'
+8.  8 McCain: 'Gen. Powell, you disappoint'
+9.  9 Two new polls scream 'advantage Obama'
+10.  10 Media chill on Trump announcement
 
-Updated: 10/25/2012 7:02 AM ET
+Updated: 10/26/2012 8:02 AM ET
 
 1.  1 Trump claims Obama bombshell
-2.  2 Clinton trashes whiners
+2.  2 Ex-Biden aide pens angry tell-all
 3.  3 Trump mocked on Twitter
 4.  4 Woodward: Obama 'mistaken'
-5.  5 Voter tells Biden he's a 'good guy' but bad VP
-6.  6 Trump will donate for Obama records
-7.  7 Reporter 'not allowed' to talk to voters at Biden event
-8.  8 Obama's 11th-hour strategy shift
-9.  9 New Obama book has 2nd-term plan
-10.  10 Soledad O'Brien: Obama 'up 15' in Virginia
+5.  5 Obama says kids know Romney is dishonest
+6.  6 Voter tells Biden he's a 'good guy' but bad VP
+7.  7 Romney raises $111.8 million in October
+8.  8 Trump will donate for Obama records
+9.  9 Reporter 'not allowed' to talk to voters at Biden event
+10.  10 Obama's 11th-hour strategy shift
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/25/2012 7:02 AM ET
+Updated: 10/26/2012 8:02 AM ET
 
-1.  1 Trump, Mourdock haunt Romney
-2.  2 Obama's pathetic picture book
-3.  3 Palm Beach back in spotlight
-4.  4 How Mitt Romney would govern
-5.  5 Jesse Jackson arrested in protest
+1.  1 Ralph Nader the moderator
+2.  2 A letter to Jewish grandparents
+3.  3 Obama's October hurts House Dems
+4.  4 Obama tries to regain edge with women
+5.  5 Democrats go all in for abortion rights
+6.  6 Mourdock's survival plan
+7.  7 Romney ad bomb finally here?
+8.  8 Romney has cash lead over Obama
+9.  9 Meat Loaf and Mitt
+10.  10 Team Obama raises $1 billion
 
-Updated: 10/25/2012 7:02 AM ET
+Updated: 10/26/2012 8:02 AM ET
 
-1.  1 Trump, Mourdock haunt Romney
-2.  2 Obama's pathetic picture book
-3.  3 Palm Beach back in spotlight
-4.  4 How Mitt Romney would govern
-5.  5 Jesse Jackson arrested in protest
-6.  6 Obama counting on ground game
-7.  7 Senate 5: Is it over for Mourdock?
-8.  8 Election doomsday scenarios abound
-9.  9 Rush: GOP 'embarrassed' by right
-10.  10 W.H.: Sequester talks after election
+1.  1 Ralph Nader the moderator
+2.  2 A letter to Jewish grandparents
+3.  3 Obama's October hurts House Dems
+4.  4 Obama tries to regain edge with women
+5.  5 Democrats go all in for abortion rights
+6.  6 Mourdock's survival plan
+7.  7 Romney ad bomb finally here?
+8.  8 Romney has cash lead over Obama
+9.  9 Meat Loaf and Mitt
+10.  10 Team Obama raises $1 billion
 
-Updated: 10/25/2012 7:02 AM ET
+Updated: 10/26/2012 8:02 AM ET
 
-1.  1 Trump, Mourdock haunt Romney
-2.  2 Obama's pathetic picture book
-3.  3 Palm Beach back in spotlight
-4.  4 How Mitt Romney would govern
-5.  5 Jesse Jackson arrested in protest
-6.  6 Obama counting on ground game
-7.  7 Senate 5: Is it over for Mourdock?
-8.  8 Election doomsday scenarios abound
-9.  9 Rush: GOP 'embarrassed' by right
-10.  10 W.H.: Sequester talks after election
+1.  1 Ralph Nader the moderator
+2.  2 A letter to Jewish grandparents
+3.  3 Obama's October hurts House Dems
+4.  4 Obama tries to regain edge with women
+5.  5 Democrats go all in for abortion rights
+6.  6 Mourdock's survival plan
+7.  7 Romney ad bomb finally here?
+8.  8 Romney has cash lead over Obama
+9.  9 Meat Loaf and Mitt
+10.  10 Team Obama raises $1 billion
 
-Updated: 10/25/2012 7:02 AM ET
+Updated: 10/26/2012 8:02 AM ET
 
-1.  1 Trump, Mourdock haunt Romney
-2.  2 Obama's pathetic picture book
-3.  3 Palm Beach back in spotlight
-4.  4 How Mitt Romney would govern
-5.  5 Jesse Jackson arrested in protest
-6.  6 Obama counting on ground game
-7.  7 Senate 5: Is it over for Mourdock?
-8.  8 Election doomsday scenarios abound
-9.  9 Rush: GOP 'embarrassed' by right
-10.  10 W.H.: Sequester talks after election
+1.  1 Ralph Nader the moderator
+2.  2 A letter to Jewish grandparents
+3.  3 Obama's October hurts House Dems
+4.  4 Obama tries to regain edge with women
+5.  5 Democrats go all in for abortion rights
+6.  6 Mourdock's survival plan
+7.  7 Romney ad bomb finally here?
+8.  8 Romney has cash lead over Obama
+9.  9 Meat Loaf and Mitt
+10.  10 Team Obama raises $1 billion
 
 Showing Last 7 Days
 
-Updated: 10/25/2012 7:02 AM ET
+Updated: 10/26/2012 8:02 AM ET
 
-1.  1 Obama's 11th-hour strategy shift
-2.  2 Campaigns launch fierce endgame
-3.  3 Obama tears into Mitt at last debate
-4.  4 Trump claims Obama bombshell
-5.  5 Romney's toughest debate
-6.  6 Obama's 'Romnesia' remedy
-7.  7 Obama: Mitt has 'Romnesia'
-8.  8 O'Donnell taunts Tagg Romney
-9.  9 GOP groups spill secrets
-10.  10 GOP's problems exposed in Senate
+1.  1 How Mitt Romney would govern
+2.  2 Trump will donate for Obama records
+3.  3 Obama's 11th-hour strategy shift
+4.  4 Obama tears into Mitt at last debate
+5.  5 Trump claims Obama bombshell
+6.  6 Romney's toughest debate
+7.  7 Obama's 'Romnesia' remedy
+8.  8 Obama: Mitt has 'Romnesia'
+9.  9 O'Donnell taunts Tagg Romney
+10.  10 GOP groups spill secrets
 
 News
 
