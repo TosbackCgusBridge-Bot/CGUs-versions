@@ -187,9 +187,9 @@ Answers others found helpful
 
 *   Terms and Conditions
 *   Subscribe or Unsubscribe To Email Promotions
-*   Updating Your Personal Account Information
 *   Standard Return Policy
 *   Shipping &. Delivery
+*   Updating Your Personal Account Information
 
 Overstock.com - Help Home - Contact Customer Care -
 
