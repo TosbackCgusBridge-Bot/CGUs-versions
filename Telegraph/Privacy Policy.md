@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Thursday 25 October 2012
+Friday 26 October 2012
 
 *   Home
 *   News
@@ -138,13 +138,13 @@ In About us
 
 Editor's Choice »
 
-Wolfgang Puck: the world's best restaurants  
+Why beauty is rarely worth it  
 
-The celebrated chef Wolfgang Puck shares his selection of the best restaurants in the world.
+As scientists find that attractive equals conformist, **Stephen Bayley** agrees that ugly has more fun
 
 Comments
 
-'You have to be a terrible monster to write' Britain's press must remain free Why pushy parents fail to make the grade Al Murray: the Pub Landlord and me Advertisement
+Why the BBC is hopeless in a crisis Skyfall's Q: 'I don’t even have a computer' Jeremy Warner: there's hard toil ahead Alan Smith: buck stops with Wenger Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
