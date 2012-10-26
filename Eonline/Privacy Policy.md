@@ -5,7 +5,8 @@ E! Online
 *   Photos
 *   Videos
 *   TV Scoop
-*   E! Shows
+*   E! Shows  
+    Ice Loves Coco: Premieres Sunday 10|9c
 *   Red Carpet
 
 *   Follow @twitter
