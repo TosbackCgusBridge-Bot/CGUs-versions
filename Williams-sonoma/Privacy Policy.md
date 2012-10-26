@@ -29,26 +29,22 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   This Season
     *   In Season Now
     *   Thanksgiving Guide
-    *   Burgundy
-    *   From the Farm
-    *   Sicily
-    *   Ready to Grill
-    *   Outdoor Recipes
+    *   Holiday Guide
+    *   Christmas
+    *   Hanukkah
+    *   Holiday Parties
+    *   Gifts from the Kitchen
     *   Special Features
-    *   Guide to Preserving
-    *   Guide to Grilling
     *   Guide to Meat
     *   Guide to Herbs
     *   Guide to Grains
     *   Art of the Cocktail
     *   Reboot Your Life
-    *   Why We Cook
-    *   What's For Dinner?
+    *   Cheese Glossary
     *   Featured Chefs
     *   Featured Chefs &. Authors
+    *   Ina Garten
     *   Adam Sobel
-    *   Bryan Voltaggio
-    *   Michael Voltaggio
     *   Resources
     *   Tips and Techniques
     *   Entertaining Ideas
@@ -56,12 +52,16 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Technique Classes
 *   Gifts
     *   *   Featured
-        *   Monogram Shop
-        *   Our Best-Seller Gifts
+        *   Top 20 Gifts
         *   Top-Rated Gifts
+        *   Stocking Stuffers
+        *   Candy Gifts
         *   Gift Sets
+        *   Homemade Gift Ideas
+        *   Monogram Shop
         *   Gifts by Price
         *   Gift Cards
+        *   Under $25
         *   Under $50
         *   Under $100
         *   Under $250
@@ -71,8 +71,9 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   The Entertainer
     *   The Wine Lover
     *   The Hostess
-    *   The Happy Couple
+    *   The Gardener
     *   The Family
+    *   The Happy Couple
     *   Business Gifts
     *   Gifts by Category
     *   Top 10 Cookware Gifts
@@ -91,27 +92,31 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
 *   Wine
 *   Monogram Shop
 
+*   Sale
+
 *   Cookware Shop by Category
     
     *   Cookware Sets
     *   Dutch Ovens &. Braisers
     *   Fry &. Sauté Pans
     *   Grill Pans &. Griddles
+    *   Roasters
     *   Saucepans &. Sauciers
     *   Specialty Cookware
     *   Stock, Soup &. Multipots
     *   Teakettles
     *   Cast-Iron Cookware
     *   Copper Cookware
-    *   International Cookware
     *   Nonstick Cookware
     *   Stainless-Steel Cookware
+    *   International Cookware
     *   Pot Racks
     
     Shop by Brand
     
     *   All-Clad
     *   Calphalon
+    *   Cuisinart
     *   de Buyer
     *   Demeyere
     *   Le Creuset
@@ -122,6 +127,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Scanpan
     *   Staub
     *   Swiss Diamond
+    *   Zwilling J.A. Henckels
     
     Featured
     
@@ -215,6 +221,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Shop by Brand
     
+    *   Consigli
     *   Global
     *   Kikuichi
     *   Kyocera
@@ -223,6 +230,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Michel Bras
     *   Opinel
     *   Sabatier
+    *   Saladini
     *   Shun
     *   Wüsthof
     *   Zwilling J.A. Henckels
@@ -320,7 +328,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Shop by Collection
     
-    *   _Cars 2_
     *   _Marvel_ ™
     *   _Sesame Street™_
     *   Snow White
@@ -334,7 +341,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Halloween Bakeware
     *   Thanksgiving Bakeware
     *   Christmas Bakeware
-    *   The Cupcake Shop
     *   The Cookie Shop
     *   The Pie Shop
     
@@ -342,13 +348,13 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     *   Sale
     
-    ONLY AT WILLIAMS-SONOMA
+    NEW &. EXCLUSIVE
     
-    Our signature professional-quality baking pans offer superb performance and impeccable release.
+    Easily create professional-looking decorations for your holiday pies.
     
     Buy Now 
     
-    Shop USA Pan Bakeware 
+    Shop New Bakeware 
     
 *   Food Shop by Category
     
@@ -395,8 +401,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Thanksgiving Food
     *   Christmas Food
     *   The Cookie Shop
-    *   From the Farm
-    *   Freshly Ground Grains
     
     Sale &. Offers
     
@@ -406,9 +410,9 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     *   Guide to Grains
     
-    ONLY AT WILLIAMS-SONOMA
+    TOP-RATED
     
-    Authentic, French-style croissants, ready to bake and serve.
+    Our signature confection has been a customer favorite for more than a decade.
     
     Buy Now 
     
@@ -448,7 +452,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   New Tabletop &. Bar
     *   Top 10 Tabletop &. Bar Gifts
     *   Top-Rated Tabletop &. Bar
-    *   Halloween Tabletop &. Décor
     *   Thanksgiving Tabletop
     *   Christmas Tabletop
     *   Outdoor Dining
@@ -456,16 +459,17 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Entertaining Ideas
     
-    *   End of Summer Supper
     *   Halloween Party
-    *   French Market Dinner
-    *   Dinner in Burgundy
-    *   Wine &. Cheese
     *   Thanksgiving Feast
     *   Traditional Thanksgiving Dinner
     *   Hanukkah Party
     *   Elegant Christmas Dinner
     *   Family Christmas Dinner
+    *   Holiday Wine &. Cheese Party
+    *   Hot Chocolate Bar
+    *   Champagne &. Dessert Party
+    *   Christmas Morning Breakfast
+    *   Holiday Cocktail Party
     
     Sale &. Offers
     
@@ -532,7 +536,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Grill Accessories
     *   Food for the Grill
     *   Outdoor Tabletop
-    *   Outdoor Décor
     
     Shop by Brand
     
