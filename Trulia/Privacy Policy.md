@@ -45,9 +45,6 @@
 
 Trulia Mobile For Professionals
 
-It looks like Javascript is disabled in your browser. Trulia requires Javascript to be enabled in order to use our site.  
-Please follow these instructions to enable Javascript.
-
 **TRULIA PRIVACY POLICY  
 (last updated May 25, 2011)**
 
