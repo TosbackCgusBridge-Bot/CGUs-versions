@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **McCain reconsidering his support...**  
-        Election 2012 | Vanessa Williams
+    *   **The Swift Boaters are back for...**  
+        Election 2012 | Dan Eggen
     
-    *   **Romney doubling down on debate...**  
+    *   **Obamaâs fanciful claim that Congress...**  
         The Fact Checker | Glenn Kessler
     
-    *   **Third-party candidates finally...**  
-        She The People | Annie Groer
+    *   **Rape shouldnt be used to score...**  
+        She The People | Melinda Henneberger
     
-    *   **Is Mitt Romneyâs momentum real...**  
-        The Fix | Chris Cillizza and Aaron Blake
+    *   **A status quo election? Could be...**  
+        The Fix | Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,13 +46,13 @@
     
     Featured Blogs
     
-    *   **CNNâs hormonal lady voters**  
+    *   **Is voting like sex?**  
         ComPost | Alexandra Petri
     
     *   **Happy Hour Roundup**  
-        The Plum Line | Jonathan Bernstein
+        The Plum Line | Greg Sargent
     
-    *   **Trick or freaks**  
+    *   **Fridayâs p-Op quiz**  
         PostPartisan | Jonathan Capehart
     
     *   **Morning Bits**  
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **Forecast: A warm and sunny Thursday**  
-        Capital Weather Gang | David Streit
+    *   **D.C. area forecast: Mainly benign...**  
+        Capital Weather Gang | A. Camden Walker
     
-    *   **Weekend/Going Out Guide Holiday...**  
-        Going Out Gurus | Amy Hitt
+    *   **Art in focus: âFall Solosâ**  
+        Going Out Gurus | Michael O'Sullivan
     
-    *   **PG police seek suspect on murder...**  
-        Crime Scene | Clarence Williams
+    *   **D.C. police seek man who robbed...**  
+        Crime Scene | Peter Hermann
     
-    *   **Bill Clinton to join Obama at Va...**  
-        Virginia Politics | Laura Vozzella
+    *   **Police open investigation into...**  
+        Virginia Politics | Allison Klein, Errin Haines and Ben Pershing
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -97,17 +97,17 @@
     
     Blogs &. Columns
     
-    *   **Daly: âNo wiggle roomâ on NHL deadline...**  
+    *   **NHLâs deadline expected to pass...**  
         Capitals Insider | Katie Carrera
     
-    *   **Stephen A. Smith calls Michael...**  
+    *   **Caps, Wizards set to announce new...**  
         DC Sports Bog | Dan Steinberg
     
-    *   **Nick Sundberg eager to show Redskins...**  
-        The Insider | Mark Maske
+    *   **Steelers defensive player to watch...**  
+        The Insider | Mike Jones
     
-    *   **Nationals season in review: Best...**  
-        Nationals Journal | James Wagner
+    *   **Natsâ Zimmerman undergoes arthroscopic...**  
+        Nationals Journal | Adam Kilgore
 *   National In National
     
     *   Energy &. Environment
@@ -126,10 +126,10 @@
     *   **Early fin release likely caused...**  
         Ideas@Innovations | Emi Kolawole
     
-    *   **Is Mark Zuckerberg right to stay...**  
+    *   **For Romney, no way around the âfirst...**  
         PostLeadership | Jena McGregor
     
-    *   **Archbishop Chaput: âWe are Catholics...**  
+    *   **Ryan tele-townhall rescheduled**  
         Under God | Jeannine Hunter
 *   World In World
     
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **The new Putinism: Nationalism fused...**  
+    *   **Chinas version of The Onion takes...**  
         WorldViews | Max Fisher
     
-    *   **Could drug decriminalization save...**  
+    *   **Chinas censors move with unusual...**  
         WorldViews | Max Fisher
     
-    *   **Explaining Ai Weiweiâs âgrass mud...**  
+    *   **Revelation of Wen Jiabaoâs wealth...**  
         WorldViews | Max Fisher
     
-    *   **Ai Weiweiâs odd âGangnam Styleâ...**  
+    *   **The U.K. thinks a strike on Iran...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -170,16 +170,16 @@
     
     Blogs &. Columns
     
-    *   **Canât fix an error in credit report?...**  
+    *   **Scary spending on Halloween**  
         The Color of Money | Michelle Singletary
     
-    *   **E.U. hits Microsoft with browser...**  
+    *   **Group to lobby for lower royalty...**  
         Post Tech | Hayley Tsukayama
     
     *   **Why the economy may be better than...**  
         Steven Pearlstein
     
-    *   **The 2012 Election in Numbers: Wednesday...**  
+    *   **The 2012 Election by the Numbers...**  
         Wonkblog | Dylan Matthews
 *   Tech In Technology
     
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Facebookâs progress on mobile encourages...**  
+    *   **Pandora stock dives as Apple music...**  
         Hayley Tsukayama
     
-    *   **E.U. hits Microsoft with browser...**  
+    *   **Group to lobby for lower royalty...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Swine connoisseur**  
-        All We Can Eat | Tamar Haspel
+    *   **Impromptu pierogi: Why not?**  
+        All We Can Eat | Edward Schneider
     
-    *   **Halloweenâs weirdest sexy costumes**  
-        The Style Blog | Maura Judkis
+    *   **Fashion-forward Halloween costumes**  
+        The Style Blog | Cara Kelly
     
-    *   **The hero at the center Ann Coulterâs...**  
+    *   **Rethinking dyslexia**  
         On Parenting | Janice D'Arcy
     
-    *   **Carl Reiner gets honorary Georgetown...**  
+    *   **Bob Johnson launches new charity...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,13 +240,13 @@
     *   **A âTempestâ in an opera house**  
         Classical Beat | Anne Midgette
     
-    *   **Tom Cruise files lawsuit**  
+    *   **Taylor Swift, Conor Kennedy reportedly...**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **President Obama visits Jay Leno...**  
+    *   **Barbara Walters tells Donald Trump...**  
         The TV Column | Lisa de Moraes
     
-    *   **DC Comics to debut âTalonâ**  
+    *   **New DC talent takes flight**  
         Comic Riffs | David Betancourt
 *   Jobs In Jobs
 *   More
@@ -266,12 +266,11 @@
 
 In the News
 
-*   Mourdock
 *   Hurricane Sandy
-*   Obama on âTonightâ
-*   Trump
-*   iPad mini
-*   Giants
+*   John Sununu
+*   Wen Jiabao
+*   Jacques Barzun
+*   World Series
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -322,97 +321,87 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Mega-storm threat growing for mid-Atlantic and Northeast early next week from hurricane Sandy
+Experts sound alarm on Hurricane Sandy, likely to be worse than 1991 âPerfect Stormâ
 
 Jason Samenow 
 
-President Obama visits Jay Leno on âTonightâ (VIDEO)
+Poll: Romney hits 50 percent Washington Post endorsement: Four more years for President Obama
 
-Lisa De Moraes 
+Editorial Board 
 
-How the right wing lost in 2012
+Poll finds deepest racial split since '88 Hurricane Sandy scenarios for Washington, D.C.
+
+Jason Samenow 
+
+Clinton suggests she could stay at State How the right wing lost in 2012
 
 E.J. Dionne Jr. 
 
-Experts warn about security flaws in airline boarding passes
+Hurricane Sandy becomes stronger and larger than expected
 
-James Ball 
+Brian McNoldy 
 
-Obama says heâll renew pursuit of âgrand bargain,â offering specifics on agenda
+Hurricane Sandy: How to prepare for the storm
 
-Lori Montgomery 
+Maggie Fazeli Fard 
 
-In a bid for women voters, Obama castigates Romney for backing Indiana Senate candidate
+Police investigating son of Va. Rep. Jim Moran after video release of voter fraud discussion
+
+Associated Press 
+
+Judge releases Romney testimony from Staples founderâs divorce trial
+
+Carol D. Leonnig 
+
+NYC police officer charged in plot to kidnap, torture and cook women he found on database
 
 Associated Press 
 
-Another âluckyâ play helps Giants win 8-3 over Tigers in Game 1 of World Series
+Is Romney's momentum real or fake? D.C. sniper Lee Boyd Malvo tells interviewer he was sexually abused by Muhammad
+
+Josh White 
+
+Colin Powell and the Fix Endorsement Hierarchy
+
+Chris Cillizza 
+
+Graduation Rates for Top 25 Football Teams
 
 Associated Press 
+
+Swim coach Rick Curl charged in long-ago abuse of young swimmer
+
+Michael Laris 
+
+Mega-storm threat growing for mid-Atlantic and Northeast early next week from hurricane Sandy
+
+Jason Samenow 
 
 As key Senate races get tighter, Republicansâ hopes rise
 
 Rosalind S. Helderman 
 
-Is Mitt Romney's momentum real or fake? Tom Cruise files $50 million lawsuit against magazine publisher for articles on his daughter
-
-Associated Press 
-
-October Surprises arenât what they used to be
-
-Dana Milbank 
-
-A CIA veteran transforms U.S. counterterrorism policy
-
-Karen DeYoung 
-
-Poll: Obama wins final debate 2012 World Series: Pablo Sandoval hits 3 homers, Giants rout Tigers in Game 1
-
-Barry Svrluga 
-
-The U.S. economy is recovering well
-
-Fareed Zakaria 
-
-Swedenâs Princess Madeleine engaged to New York banker, wedding planned next year
-
-Associated Press 
-
-Plan for hunting terrorists signals U.S. intends to keep adding names to kill lists
-
-Greg Miller 
-
-In defense of the mentally ill
-
-Pete Earley 
-
-Chinaâs increasing military spending unnerves neighbors
-
-Keith Richburg 
-
-Jim Moranâs son resigns from campaign amid video furor
-
-Errin Haines 
+Colin Powell and the Fix Endorsement Hierarchy
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Major storm threat growing for Northeast early next week
-    2.  President Obama visits Jay Leno on 'Tonight'
-    3.  How the right wing lost in 2012
-    4.  Experts warn about security flaws in airline boarding passes
-    5.  Obama says he'll renew pursuit of 'grand bargain,' offering specifics on agenda
+    1.  Experts weigh in on Hurricane Sandy
+    2.  Poll: Romney hits 50 percent
+    3.  Washington Post endorsement: Four more years for President Obama
+    4.  Poll finds deepest racial split since '88
+    5.  Hurricane Sandy scenarios for D.C.
 *   Top Videos
-    1.  Behind the U.S. targeted killing program
-    2.  Hollywood celebs honor Ellen DeGeneres at the Kennedy Center
-    3.  Windows 8 may shock users
-    4.  Romney's debate performances boost his standing with Independents â Daily Tracking Poll
-    5.  Hillary Clinton: Libya emails don't paint full picture
+    1.  Hurricane Sandy may wreak havoc on Northeast
+    2.  Obama delivers donuts to firefighters in Tampa
+    3.  Is the momentum conversation a conspiracy between the two campaigns? â Wonk|Fix
+    4.  President Obama criticizes Mourdock's rape remarks on Leno show
+    5.  Behind the U.S. targeted killing program
 *   Top Galleries
-    1.  Halloween: Celebrities in costume
-    2.  Newspaper endorsements for president: Romney or Obama?
-    3.  President Obama on the campaign trail
-    4.  Hurricane Sandy hits Jamaica
+    1.  Newspaper endorsements for president: Romney or Obama?
+    2.  Hurricane Sandy
+    3.  Gloria Allred's court-approved fashion
+    4.  Maori dancers, Circus of Horrors, Alzheimer's treatment and more in the day in photos
     5.  Apple reveals iPad mini, new Macs and more
 
 Today's Paper
@@ -423,13 +412,13 @@ Today's Paper
 
 Live Discussions
 
-Web Hostess Live
+Home Front: Vintage shopping
 
-Live Q&A transcript
+Live Q&A, 11 a.m. ET
 
-Web Hostess Monica Hesse sifts the Internet so you don't have to, searching for meaning, manners and the next great meme.
+Sanity Fair blogger Skyla Freeman joins Jura Koncius to discuss vintage shopping and small decorating.
 
-**11:00 AM** **Vintage shopping and small space decorating with Sanity Fair blogger Skyla Freeman | HOME FRONT** **12:00 PM** **Parenting advice: Help for raising children of all ages** **12:00 PM** **Color of Money Live** **1:00 PM** **Got Plans: Advice from the Going Out Gurus** **2:00 PM** **Celebritology Live**
+**11:00 AM** **Real Wheels Live** **11:00 AM** **The Fix Live** **11:30 AM** **Why the Washington Post endorses President Obama for re-election** **12:00 PM** **Carolyn Hax Live: Advice columnist tackles your problems (Friday, October 26)** **1:00 PM** **The Latest in TV with Lisa de Moraes**
 
 **Weekly schedule, past shows**
 
