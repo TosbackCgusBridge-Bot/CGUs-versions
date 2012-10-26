@@ -15,17 +15,17 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
+Are Platforms Over?
+
+A lifelong sky-high stiletto devotee comes down to earth.
+
+25 Must-Have Jackets for Fall
+
+From biker babe chic, to a prim tweed topper, these jackets are sure to be ...
+
 Closet of the Month
 
 Take a peak inside the DJ's closet in her Manhattan apartment.
-
-Tales in Retail: A Versace Vision in SoHo
-
-See exclusive images of Versace's new downtown NYC boutique.
-
-The BAZAAR: Tough Love
-
-Shots of black and red with edgy accessories are the magic bullet.
 
 Beauty &. Hair  
 
@@ -45,15 +45,17 @@ Today's Beauty Secret
 
 Expert advice on of-the-moment beauty trends.
 
-CELEBRITY STYLE &. PARTIES   Maison Martin Margiela x H&M Party
+CELEBRITY STYLE &. PARTIES   Versace Celebrates SoHo Store Opening
+
+See all the photos from the Versace Soho Opening party.
+
+Maison Martin Margiela x H&M Party
+
+Click through to see all the attendees at the chic event.
 
 Last Night's Parties: Narciso Rodriguez for Kohl's, Harry Winston Celebrates Jessica Chastain, Plus More!
 
 See the chic attendees at last night's parties.
-
-Bergdorf Goodman Celebrates 111 Years
-
-Click through to see who attended the anniversary gala.
 
 *   Red Carpet Style
 *   Cover Stories
@@ -70,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR Closet of the Month Tales in Retail: A Versace Vision in SoHo The BAZAAR: Tough Love The Best Spring Nail Trends To Try Now Today's Beauty Secret 4 Fun Halloween Mani Ideas Maison Martin Margiela x H&M Party Last Night's Parties: Narciso Rodriguez for Kohl's, Harry Winston Celebrates Jessica Chastain, Plus ... Bergdorf Goodman Celebrates 111 Years Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR Are Platforms Over? 25 Must-Have Jackets for Fall Closet of the Month The Best Spring Nail Trends To Try Now Today's Beauty Secret 4 Fun Halloween Mani Ideas Versace Celebrates SoHo Store Opening Maison Martin Margiela x H&M Party Last Night's Parties: Narciso Rodriguez for Kohl's, Harry Winston Celebrates Jessica Chastain, Plus ... Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Fabulous at Every Age: Workwear Refresh Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
