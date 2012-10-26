@@ -143,9 +143,15 @@ Naples Daily News
 *   Cars
 *   Classified
 
+*   Wind Advisory
+    
+    IN EFFECT UNTIL OCT 26, 11:00 p.m.
+    
+    issued for Inland Collier County
+    
 *   Lake Wind Advisory
     
-    IN EFFECT UNTIL OCT 25, 7:00 p.m.
+    IN EFFECT UNTIL OCT 26, 4:15 p.m.
     
     issued for Lee
     
@@ -442,25 +448,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Donald Trump offers $5 million if Obama releases personal records Published 10/24/2012 at 1:04 p.m. 119 comments
-*   Tampa man arrested in East Naples hotel rape Published 10/24/2012 at 4:19 p.m. 49 comments
-*   Accusations fly as commissioners agree to fire disgruntled manager Published 10/24/2012 at 5:15 a.m. 59 comments
-*   In the Know: Seconds, anyone? Even more area restaurants planning to open soon Published 10/24/2012 at 5:00 a.m. 18 comments
-*   Venice diocese removes once-popular priest in Bonita Springs from priesthood Published 10/24/2012 at 5:10 a.m. 32 comments
+*   Poll: Romney erases Obama lead among women Published 10/25/2012 at 6:49 a.m. 120 comments
+*   City Councilman: Collier bus system is broken Published 10/25/2012 at 5:00 a.m. 89 comments
+*   Teen told deputies he killed mom accidentally Updated 10/25/2012 at 4:16 p.m. 8 comments
+*   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 49 comments
+*   Donald Trump offers $5 million if Obama releases personal records Published 10/24/2012 at 1:04 p.m. 154 comments
 
-Photo Galleries Fort Myers ZombiCon 2012 Historic Photos: Everglades National… Collier Teachers Surprised With Grants
+Photo Galleries Catch of the Day: Oct. 25, 2012 Historic Photos: Everglades National… Fort Myers ZombiCon 2012
 
-*   Final debate: Challenging each other face to face Published 10/22/2012 at 10:30 p.m. 319 comments
-*   5 things to watch for tonight in final presidential debate Published 10/22/2012 at 6:34 a.m. 133 comments
-*   Donald Trump offers $5 million if Obama releases personal records Published 10/24/2012 at 1:04 p.m. 119 comments
-*   Collier County supports continuing 287(g) immigration program Published 10/23/2012 at 11:13 a.m. 107 comments
-*   Obama, Romney seek foreign policy edge in final debate tonight Published 10/22/2012 at 1:28 p.m. 94 comments
+*   Final debate: Challenging each other face to face Published 10/22/2012 at 10:30 p.m. 323 comments
+*   Donald Trump offers $5 million if Obama releases personal records Published 10/24/2012 at 1:04 p.m. 154 comments
+*   Poll: Romney erases Obama lead among women Published 10/25/2012 at 6:49 a.m. 120 comments
+*   Collier County supports continuing 287(g) immigration program Published 10/23/2012 at 11:13 a.m. 104 comments
+*   City Councilman: Collier bus system is broken Published 10/25/2012 at 5:00 a.m. 89 comments
 
 *   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 54 comments
-*   Venice diocese removes once-popular priest in Bonita Springs from priesthood Published 10/24/2012 at 5:10 a.m. 32 comments
+*   Venice diocese removes once-popular priest in Bonita Springs from priesthood Published 10/24/2012 at 5:10 a.m. 38 comments
+*   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 49 comments
 *   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 290 comments
 *   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 54 comments
-*   In the Know: More than 25 new restaurants to open in Naples area this season Published 10/10/2012 at 5:14 a.m. 46 comments
 
 Weather
 
@@ -468,40 +474,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 74° Fair Wind: NE 8mph Today 85° 74° Thu 08:00 PM Mostly Cloudy Showers Temp: 80° Fri 08:00 AM Mostly Cloudy Showers Temp: 76° Fri 08:00 PM Partly Cloudy Showers Temp: 77°
+Currently 75° Fair Wind: N 14mph Today 83° 73° Fri 08:00 PM Mostly Clear Temp: 78° Sat 08:00 AM Mostly Sunny Temp: 73° Sat 08:00 PM Mostly Clear Temp: 76°
 
-Feels Like: 83°
+Feels Like: 78°
 
-Humidity: 69%
+Humidity: 65%
 
 Precip: 30%
 
+Feels Like: 73°
+
+Humidity: 74%
+
+Precip: 10%
+
 Feels Like: 76°
 
-Humidity: 77%
+Humidity: 64%
 
-Precip: 40%
-
-Feels Like: 77°
-
-Humidity: 66%
-
-Precip: 40%
+Precip: 5%
 
 More Weather » Calendar
 
-*   Thursday Oct 25
 *   Friday Oct 26
 *   Saturday Oct 27
+*   Sunday Oct 28
 *   More BROWSE Icon
-
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Ten Thousand Islands Kayak with Up A Creek KAyak Tours Goodland County Boat Park 9 a.m.
-*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
-*   Paddleboard and Fitness 1st Ave S. Old Naples 9 a.m.
-
-More Events »
 
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   Low Cost Pet Vaccination Clinic Collier Spay Neuter Clinic at 2544 Northbrooke Plaza Dr. 9 a.m.
@@ -516,6 +514,14 @@ More Events »
 *   Third Street South Farmers Market Third Street South 7:30 a.m.
 *   Yard Sale and Market Saint Paul's Episcopal Church 8 a.m.
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+
+More Events »
+
+*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Laughter Yoga Bija Yoga 9 a.m.
+*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
+*   Southwest Florida Yard and Garden Show Collier County University Extension Education Center 9 a.m.
 
 More Events »
 
