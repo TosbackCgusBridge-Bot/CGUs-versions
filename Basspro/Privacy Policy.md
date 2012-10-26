@@ -130,7 +130,7 @@ Close Panel
     *   Predator Decoys
     *   Shop all decoys »
     
-    Knives &. Tools Game &. Food Processing ATV Accessories Dog Training Blinds
+    Knives &. Tools Game &. Food Processing ATV Showroom ATV Accessories Dog Training Blinds
     
     *   Ground Blinds
     *   Box Blinds &. Tripods
@@ -209,7 +209,7 @@ Close Panel
     *   Air Soft Guns &. Accessories
     *   Paintball Guns
     *   Sling ShotsBlack Powder Guns &. Accessories Personal Defense \[tab1\_dept3\_espot2\]
-*   Boating \[tab1\_dept4\_espot1\] Fish Finders &. Marine Electronics
+*   Boating \[tab1\_dept4\_espot1\] Boat Showroom Fish Finders &. Marine Electronics
     
     *   Fish Finders &. Navigation
     *   GPS Devices, PLB &. Cameras
@@ -396,7 +396,7 @@ Close Panel
     *   Fishing Waders
     *   Hunting Waders
     *   Wading BootsSocks Shoe &. Boot Accessories \[tab1\_dept7\_espot2\]
-*   Home &. Gifts \[tab1\_dept8\_espot1\] Home Décor
+*   Home &. Gifts \[tab1\_dept8\_espot1\] Gift Cards Home Décor
     
     *   Wall Décor
     *   Bedding
