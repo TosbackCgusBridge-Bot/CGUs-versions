@@ -27,8 +27,9 @@ Recherche
 *   Emploi
 *   Entreprise
 
-La High-Tech  
-en fête !
+Rejoignez  
+la communauté  
+Inscrivez-vous
 
 *   Accueil ›
 *   Dossiers ›
@@ -182,13 +183,13 @@ Droit applicable et juridiction compétente
 Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents.  
 **A voir également**
 
-*     Conditions générales d'Utilisation
+*     Conditions générales d'utilisation
 
 Ce document intitulé « Conditions générales d'utilisation » issu de **CommentCaMarche** (www.commentcamarche.net) est mis à disposition sous les termes de la licence Creative Commons. Vous pouvez copier, modifier des copies de cette page, dans les conditions fixées par la licence, tant que cette note apparaît clairement. Conseils de rédaction Licence d'utilisation
 
-*     Conditions générales d'Utilisation
-*     CONDITION d'utilisation
-*     Condition generale
+*     Conditions générales d'utilisation
+*     Conditions generales
+*     Conditions d'utilisation
 *     Conditions générales de vente » Forum
 *     Les conditions générales de vente pour un site d'e-commerce » Fiches pratiques
 *     Le nouveau contrat de microsoft (Résolu) » Forum
