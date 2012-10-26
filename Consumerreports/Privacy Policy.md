@@ -283,13 +283,13 @@ Any disputes regarding this Privacy Policy are subject to our User Agreement and
      
 E-mail Newsletters **FREE** e-mail Newsletters!  
 Choose from safety, health, cars, and more! **Already signed-up?**  
-Manage your newsletters here too. Consumer News HEALTH  
-The buzz on 27 popular energy drinks and shots We measured caffeine levels from 6 to 242 milligrams per serving. TIRES &. CAR CARE  
-Spray-on wheel cleaners may not be worth it One cheap general-purpose household cleaner worked just as well. SMART PHONE REVIEWS  
-MetroPCS adds Samsung Galaxy S III to its lineup The provider, with a $55 unlimited plan, is charging $499 for the device. HALLOWEEN 2012  
-Tips to keep your kids safe this Halloween Trick-or-treating is lots of fun, but it can also present some hazards. BANK FEES  
+Manage your newsletters here too. Consumer News COMPUTER REVIEWS  
+Microsoft Windows 8 makes its debut today We expect more than 50 new PCs to hit our labs in the coming days. HEALTH  
+The buzz on 27 popular energy drinks and shots We measured caffeine levels from 6 to 242 milligrams per serving. CAR MAINTENANCE  
+Protect your car from Halloween's nastiest tricks How to handle broken eggs, smashed pumpkins, Silly String, and more. BANK FEES  
 Zombie bank accounts feed on your finances Most banks make it too hard for customers to close an account. SAFETY &. RECALLS  
-Super-strong magnetic toys injured dozens, doctors say When swallowed, the toys can bore holes in the stomach or intestines. Read More Connect Discuss products and safety with  
+Dream on Me recalls infant swings and high chairs Openings on both products could be a strangulation hazard. SUNSCREEN RATINGS  
+Banana Boat pulls several products due to burn risk The company says spray valves dispense 'more than is typical.' Read More Connect Discuss products and safety with  
 subscribers and fans Follow us on: Mobile
 
 Get Ratings on the go and compare  
