@@ -221,8 +221,8 @@ We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy a
 
 *   Advertisers
 *   Investors
-*   Updated: Terms of Service
-*   Updated: Privacy Policy
+*   Terms of Service
+*   Privacy Policy
 *   Your California Privacy Rights
 
 Copyright © 1995-2012 Memory Lane, Inc., d/b/a Classmates.com. All Rights Reserved.
