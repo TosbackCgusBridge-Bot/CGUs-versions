@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Hot for Pasta »
+Hot Pics! Pippa Books It »
 
-Top Stories1.  Jessica Biel's Giambattista Valli Wedding Gown: Brand-New Details! »
-2.  Megan Fox Models Skimpy Lingerie While Four Months Pregnant! »
-3.  PICTURE: Kim Kardashian Flaunts Curves in Bra, Sweatpants »
-4.  PICTURE: Pregnant Holly Madison Poses Poolside in Pink Bikini »
-5.  Exclusive Justin Timberlake Snubbed Two \*NSYNC Members From Wedding »
+Top Stories1.  PIC: Kim Kardashian Wears Giant Diamond Ring, Curve-Hugging Jeans »
+2.  Katie Holmes Wears $70 Kohl's Dress »
+3.  Exclusive Taylor Swift, Conor Kennedy Split »
+4.  Exclusive How Jef Holm "Blindsided" Emily Maynard After Their Split »
+5.  Exclusive Axl Rose's Jimmy Kimmel Interview: Slash's Wife Perla Hudson Reacts! »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly My Diet Struggle
 
 Inside Us Weekly
 
-*   Style Write a Fashion Police Caption for Amanda Sey
-*   Beauty PICTURE: Scarlett Johansson Goes Brunette in
+*   Style Ann Romney's Campaign Style: Alfred Fiandaca,
+*   Beauty JoAnna Garcia Swisher: What's in My Bag?
 *   Moms PICTURE: Pregnant Holly Madison Poses Poolsid
-*   Body PICTURE: Kim Kardashian Flaunts Curves in Bra  
-*   Entertainment Flashback! See Ryan Gosling, 12, Give Adorabl  
+*   Body Mad Men Stars Jon Hamm, Jessica Pare Show Off  
+*   Entertainment Wow! Nicole Kidman Stuns as Grace Kelly With  
 
 *   US WEEKLY
 *   Celebrity News
