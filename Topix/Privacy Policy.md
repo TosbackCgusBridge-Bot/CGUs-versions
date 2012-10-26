@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Hurricane
+Iran
 
-Video: Eye Opener: Hurricane Sandy lashes the Caribbean
+UK: Contingency planning with the US isn't aimed at readying a...
 
-China
+Syria
 
-Bank of China Says It Hasn't Helped Hamas
+Skirmishes reported as cease-fire begins in Syria
 
 Politix
 
-Which third party candidate would you vote for?
+Are labor unions too powerful?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 116,689 • Total comments across all topics: 189,086,090
+Comments made yesterday: 115,172 • Total comments across all topics: 189,190,076
 
 Copyright ©2012 Topix LLC
 
