@@ -49,7 +49,7 @@ Suchbegriff Suchen
     *   Deo
     *   Mineralwasser
 
-  Allgemeine GeschÃ¤ftsbedingungen
+Allgemeine GeschÃ¤ftsbedingungen
 
 *   Â§ 1 Geltungsbereich
 *   Â§ 2 Leistungen von gutefrage.net
@@ -192,10 +192,10 @@ Registrieren Login
 
 **Neu hier?** Jetzt Mitglied werden und gutefrage.net vollstÃ¤ndig nutzen. Themen der Woche
 
-1.  backen
-2.  fifa 13
-3.  Halloween
-4.  Kaninchen
+1.  fifa 13
+2.  Halloween
+3.  Kaninchen
+4.  KostÃ¼m
 5.  Online-Shop
 6.  Periode
 7.  Pickel
@@ -203,66 +203,74 @@ Registrieren Login
 9.  Pokemon
 10.  Steam
 
-Top-50 Themen Thema Anzahl Apple 83619 Arbeit 64437 Ausbildung 49891 Auto 90583 Beauty 68869 Beruf 77096 Beziehung 71502 Computer 534675 Computerspiele 64239 deutsch 66755 Englisch 51896 ErnÃ¤hrung 50529 essen 70892 Facebook 76933 Fernsehen 60078 Film 99575 Finanzen 58804 Freizeit 261907 FuÃball 50953 Games 123874 Geld 93026 Gesundheit 204811 Haare 82206 Handy 203551 Hilfe 147743 Internet 321052 iPhone 74838 Kinder 50714 KÃ¶rper 49825 Laptop 73072 Liebe 164429 Lied 54192 MÃ¤dchen 55939 Medizin 62458 Minecraft 67417 Musik 279429 PC 280830 PC-Spiele 48366 Problem 54874 PS3 59806 Recht 94910 Schule 234249 Software 56843 Spiele 136454 Sport 110405 Technik 119940 Tiere 64595 TV 54145 Video 52439 Youtube 82721 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 83766 Arbeit 64534 Ausbildung 49957 Auto 90669 Beauty 68941 Beruf 77153 Beziehung 71614 Computer 535103 Computerspiele 64304 deutsch 66830 Englisch 51942 ErnÃ¤hrung 50572 essen 70944 Facebook 77053 Fernsehen 60122 Film 99636 Finanzen 58825 Freizeit 262100 FuÃball 50989 Games 124084 Geld 93128 Gesundheit 204999 Haare 82290 Handy 203817 Hilfe 147959 Internet 321328 iPhone 74983 Kinder 50745 KÃ¶rper 49955 Laptop 73157 Liebe 164647 Lied 54253 MÃ¤dchen 56005 Medizin 62525 Minecraft 67542 Musik 279673 PC 281164 PC-Spiele 48441 Problem 54957 PS3 59876 Recht 95007 Schule 234566 Software 56891 Spiele 136603 Sport 110494 Technik 120072 Tiere 64642 TV 54186 Video 52487 Youtube 82818 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  JudithFunny
+1.  Jakobiner
     
     Punkte:
     
-    945
+    840
     
     Level:
     
-    JudithFunny
+    Jakobiner
     
-2.  Keksflusi
-    
-    Punkte:
-    
-    509
-    
-3.  Nyandog
+2.  MrSavage4
     
     Punkte:
     
-    483
+    632
+    
+    Level:
+    
+    MrSavage4
+    
+3.  taigafee
+    
+    Punkte:
+    
+    527
+    
+    Level:
+    
+    taigafee
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.326.360 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.335.367 gute Fragen_
 
-*   39 Versehntlich Rinderfleisch zu mir genommen, Familie will mich abstoÃen
-*   18 GroÃe Liebe erhÃ¤ngt sich
-*   15 Warum kommen in immer mehr Filmen "Sex Szenen" vor ? O.o (Auch in Kampf-filmen)
+*   18 Isst oder trinkt man die Milch,wenn man Cornflakes isst ?
+*   17 Ich komm mir belogen vor. Gab es Gott und Jesus also doch nicht ?
+*   17 Wie kommt man aus der Vergangenheit raus? - Die Geschichte eines verzweifelten MÃ¤dchens...
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
-*   Anime Zeichnung
 *   Lavalampe selber bauen.. \[Wasser+Ãl+Salz\]
-
 *   Halloween-KÃ¼rbis haltbar machen
+
 *   Spinnenweben: tolle FingernÃ¤gel fÃ¼r Halloween
+*   Rezept fÃ¼r Gyros-Auflauf
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.949.363
+1.953.279
 
 Anzahl der Fragen
 
-8.326.248
+8.334.681
 
 Anzahl der Antworten
 
-36.163.072
+36.194.187
 
 Anzahl der Tipps
 
-74.731
+74.816
 
 Anzahl der Videos
 
-4.729
+4.738
 
 Blog
 
