@@ -1,4 +1,4 @@
-Bulletin Ford cutting 1,500 jobs in U.K. Investor Alert
+Bulletin Investor Alert
 
 New York Markets Open in:
 
@@ -198,128 +198,119 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 25, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:07 AM EDT October 26, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:06a
+/news/latest1.  8:03a
     
-    Paccar Q3 net 66c vs. 77c
+    Radio update: Fiscal cliff threat wipes out jobs
     
-2.  8:06a
-    
-    Paccar Q3 sales dip to $3.55 bln vs $3.99 bln
-    
-3.  8:03a
-    
-    ConocoPhillips Q3 net $1.46 vs. $1.91
-    
-4.  8:03a
-    
-    ConocoPhillips adj Q3 net $1.44
-    
-5.  8:01a
+2.  8:01a
     
     Updates, advisories and surprises
     
-6.  8:00a
+3.  8:00a
     
-    PSS World Medical jumps 33% in premarket
+    Coming up: Third-quarter U.S. GDP
     
-7.  8:00a
+4.  7:58a
     
-    Coming up: U.S. durable goods jobless claims
+    Oil tests support near $85 on risk aversion
     
-8.  7:57a
+5.  7:53a
     
-    McKesson posts higher profit, lower sales
+    Gold falls as dollar gains on global growth fears
     
-9.  7:52a
+6.  7:48a
     
-    F5 Networks down 11% in premarket
+    Dollar up. gloomy tone ahead of U.S. GDP data
     
-10.  7:52a
+7.  7:48a
     
-    Crocs down 11% in premarket
+    Apple edges up 0.2% in premarket
     
-11.  7:52a
+8.  7:47a
     
-    Novavax Inc. up 16% in premarket
+    Cerner Corp. up 11.8% in premarket
     
-12.  7:52a
+9.  7:47a
     
-    Zynga rallies 17% in premarket
+    Expedia up 17.6% in premarket
     
-13.  7:50a
+10.  7:43a
     
-    Stock futures up. jobless claims, durables awaited
+    Legg Mason profit jumps by 43%
     
-14.  7:50a
+11.  7:43a
     
-    United Continental profit, sales fall short
+    Stock futures drop on Apple results. GDP eyed
     
-15.  7:49a
+12.  7:32a
     
-    McKesson buying PSS for $29 a share
+    Goodyear profit falls
     
-16.  7:49a
+13.  7:31a
     
-    McKesson's PSS deal valued at $2.1 billion
+    Comcast profit up after Olympics boost
     
-17.  7:49a
+14.  7:30a
     
-    PSS shares closed Wednesday at $21.60
+    Fed's Lacker: Pledge to create too much stimulus
     
-18.  7:48a
+15.  7:30a
     
-    BREAKING
+    FearPad trumps iPad as stocks fall
     
-    McKesson to buy PSS World Medical at 34% premium
+16.  7:25a
     
-19.  7:46a
+    Big earnings to watch Friday: Merck, Comcast
     
-    Occidental Q3 production up 4% to 766,000 bpd
+17.  7:24a
     
-20.  7:45a
+    Windows 8: Game-changer or Vista redux?
     
-    CORRECT: Occidental Q3 adj profit $1.70
+18.  7:17a
+    
+    Merck &. Co. profit up 2%, sales dip
+    
+19.  7:06a
+    
+    Goodyear Q3 net 41c vs 60c
+    
+20.  7:06a
+    
+    Goodyear Q3 sales $5.26 bln vs. $6.06 bln
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,077.34 -25.19 -0.19% nasdaq /quotes/zigman/123127 2,981.70 -8.77 -0.29% s&p 500 /quotes/zigman/3870025 1,408.75 -4.36 -0.31% Kiosk
+dow /quotes/zigman/627449 13,103.68 +26.34 +0.20% nasdaq /quotes/zigman/123127 2,986.12 +4.42 +0.15% s&p 500 /quotes/zigman/3870025 1,412.97 +4.22 +0.30% Kiosk
 
 *   1341573300000 1341592200000
     
     From Fox Business
     
-    Â  Â  DAve Ramsey  
-    I paid off my debt, now what?  
-    When you're ready to start saving again, Dave Ramsey of Fox Business offers some tips to save smarter for your next big purchase. Â  /conga/kiosk/marketfox.html 232274
-*   1238817600000 1270353600000
-    
-    Slide Show
-    
-    Who controls world's gold  
-    Ten nations effectively control the world's supply of gold,Â  a 24/7 Wall St. study shows. Find out which nations have the biggest stockpiles. 231818
+    Â  Â  Bonnie Lee  
+    Five tax tips for non filers  
+    Here's how to navigate the process of filing your tax returns when you've fallen behind for a few years. Most importantly, don't panic, writes Bonnie Lee.Â  /conga/kiosk/marketfox.html 232458
 *   1320414900000 1320620100000
     
-    Luxury Spending
+    Economy
     
-    Bicycle built for the 2%  
-    For $14,000, you can pedal this Gucci bike around town or on the trail. Among the available accessories: an $890 helmet and a $105 water bottle. /conga/kiosk/consumer.html 231841
-*   1339754400000 1340010000000
+    5 âfiscal-cliffâ scenarios  
+    How will Washington deal with the impending "fiscal cliff" of tax increases and spending cuts? Here are five ways it could play out. /conga/kiosk/consumer.html 232473
+*   1329437100000 1329783000000
     
-    Investing
+    The Trading Deck
     
-    10 lessons from 1987  
-    Wisdom from investors who were in the market trenches 25 years ago on the day stocks plunged.  
-    â¢ Protect your money from next crash /conga/kiosk/investing.html 232062
+    Second chance to buy oil stocks  
+    Oil and oil-services stocks are highly leveraged to inflation, scarcity and an eventual global economic rebound, writes Kirk Spano.  
+    â¢ Trading Deck: Markets ideas and opinions /conga/kiosk/trading-deck-2.html 232475
 *   1347087600000 1347213600000
     
-    Cars
+    Technology
     
-    eye on the road  
-    After the warranty runs out  
-    The power of social media is making it easier to get repairs after warranties run out, writes Joseph B. White.  
-    /conga/kiosk/wildcard2.html 231791
+    iPad resales surge 700%  
+    Many Apple fans appear to be trading their old iPads for the mini. Some 140,000 devices were put up for sale on Gazelle.com on Tuesday.  
+    /conga/kiosk/wildcard2.html 232452
 *   1309191300000 1309248000000
     
     Retirement
@@ -327,22 +318,19 @@ dow /quotes/zigman/627449 13,077.34 -25.19 -0.19% nasdaq /quotes/zigman/123127 2
     Savings still lag  
     Workers are getting a little more 401(k) help from their employers for retirement, but many are still falling short in building nest eggs.  
     /conga/kiosk/wildcard3.html 231786
-*   1348302600000 1348443000000
-    
-    Car Review
-    
-    2013 Honda Accord  
-    There's never been a more radically reasonable automobile than the Honda Accord. Even its name means consensus, writes Dan Neil.
-    
-    .
-    
-    231815
 *   1341573300000 1341792900000
     
     Economy
     
     Â  Â  ADP's new numbers  
     ADP is changing the way it counts how many U.S. jobs are created each month to better align with government data. here's how they're doing it. /conga/kiosk/economy-politics.html 232300
+*   1349089200000 1349137500000
+    
+    Commentary
+    
+    Writing on the Wall  
+    Ron Paul's legacy  
+    Debate about monetary policy will be forced to the front burner after the election, the Texas congressman tells David Weidner.Â  /conga/kiosk/commentary2.html 232490
 
 MarketWatch.com
 
