@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (33.7 MB) Top PC Downloads 1 Cooking Dash 2 Diner Dash 3 Diner Dash 2 Restaurant Rescue 4 Wedding Dash 5 Diner Dash: Hometown Hero 6 Farm Frenzy 2 7 SpongeBob SquarePants Diner Dash 8 Diner Dash 5: BOOM 9 Hotel Dash: Suite Success 10 Diner Dash Flo on the Go » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (65.4 MB) Top PC Downloads 1 Cooking Dash 2 Diner Dash 3 Diner Dash 2 Restaurant Rescue 4 Wedding Dash 5 Diner Dash: Hometown Hero 6 Farm Frenzy 2 7 SpongeBob SquarePants Diner Dash 8 Diner Dash 5: BOOM 9 Hotel Dash: Suite Success 10 Diner Dash Flo on the Go » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
