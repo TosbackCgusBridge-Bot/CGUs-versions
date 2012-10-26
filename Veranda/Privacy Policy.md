@@ -3,19 +3,19 @@ TRY: Gardening | Jewelry | Designer Inspiration | Chefs Privacy Policy Email Pri
 
 Most Viewed
 
-1.  Get the Look: Alpine-Inspired Furnishings
-2.  Pastry Swans Tutorial
-3.  Niermann Weeks
-4.  2012 Designer Visions: One Glamorous New York Apartment
-5.  Video: The Making of Designer Visions 2012
+1.  The Salon: Art + Design Preview Night Gala
+2.  Get the Look: Alpine-Inspired Furnishings
+3.  Pastry Swans Tutorial
+4.  Niermann Weeks
+5.  2012 Designer Visions: One Glamorous New York Apartment
 
 Most Searched
 
-1.  living rooms
-2.  christmas
-3.  designer inspiration
-4.  bedrooms
-5.  kitchens
+1.  christmas
+2.  holiday rooms
+3.  living rooms
+4.  designer inspiration
+5.  jewelry
 
 Magazine | RSS
 
