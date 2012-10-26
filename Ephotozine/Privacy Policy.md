@@ -160,9 +160,9 @@ Awards Current Competitions onOne Software 'Black &. White' Competition
 
 onOne Software are giving you the chance to win a copy of Perfect Photo Suite 7 in our 'Black &. White' themed October competition.  
   
-We want to see your best Bl... Featured e2 Photo Wherever I lay my head  
+We want to see your best Bl... Featured e2 Photo Ormskirk Parish Church  
   
-By Suehh October's Photo Month
+By darrenwilson41 October's Photo Month
 
 Check out ePHOTOzine's inspirational photo month calendar! Each day click on a window to unveil new photography tips, treats and techniques.
 
