@@ -212,105 +212,105 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Trump offers Obama $5 million for his college, passport recordsThe Hill's 25 Women to WatchPoll: Obama leads Romney by 5 in OhioPolls show Obama up in Ohio, VirginiaGallup: Romney’s national lead narrows
+Texas sparks international row with election observersSome planGallup poll: Romney maintains 3-point lead over Obama, 50-47Inhofe: Obama delaying new pollution rules to boost his chances of reelectionDetroit paper thanks Obama for auto bailout, endorses Romney
 
 Emailed
 
-Labor unions, liberal groups fear lame-duck betrayal by ObamaTrump offers Obama $5 million for his college, passport recordsThe Hill's 25 Women to WatchFiscal cliff approaches and concerns mountNew Crossroads ad features Clint Eastwood
+Texas sparks international row with election observersElizabeth Warren is the Democrats’ pride, Todd Akin and Richard Mourdock are the Republicans’ shameSome planTrump offers Obama $5 million for his college, passport recordsInhofe: Obama delaying new pollution rules to boost his chances of reelection
 
 Discussed
 
-International monitors at US polling spots draw criticism from voter fraud groupsObama spinning toward a lossMore bad news for Mitt Romney Chris Matthews: 'Racial hatred' drives support for Romney on rightTrump offers Obama $5 million for his college, passport records
+International monitors at US polling spots draw criticism from voter fraud groupsTexas sparks international row with election observersActor Bill Murray to CNBC: 'I think we ought to be personally responsible'More bad news for Mitt Romney Trump offers Obama $5 million for his college, passport records
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Obama says he always expected ‘close race’
-*   Democrats make World Series bets
-*   Obama camp invokes memory of Gore's loss to motivate Dems
+*   MORNING READ
+*   Obama swipes at Paul Ryan's Ayn Rand fandom
+*   DAY'S END ROUNDUP
 
   
 More Briefing Room » Congress Blog
 
-*   Candidates remain vague on how best to fight terrorism
-*   Better bee health begins and ends with science, not soundbites
-*   Mitt's makeover is now complete - But will it work?
+*   Remembering my friend Senator Paul Wellstone
+*   New healthcare challenges coming in 2013
+*   Candidates ignore plight of Palestinians
 
   
 More Congress Blog » Pundits Blog
 
+*   Elizabeth Warren is the Democrats’ pride, Todd Akin and Richard Mourdock are the Republicans’ shame
+*   Romney and the illusory black vote
 *   Question for female Republicans
-*   ‘Letting them be’
-*   Mitt's ‘quiet on Benghazi’ strategy is smart
 
   
 More Pundits Blog » Twitter Room
 
-*   Romney campaign still using 'Friday Night Lights' despite creator protests
-*   GOP Rep. Schilling calls on Mourdock to apologize
-*   Trump's teased Obama 'announcement' trending online
+*   Axelrod casts early ballot ahead of Obama in Chicago
+*   Secret Service asks Twitter users to report threatening tweets
+*   Obama pulls all-nighter in Vegas, gives Katy Perry 'best birthday ever'
 
   
 More Twitter Room » Hillicon Valley
 
-*   Barnes &. Noble stores targeted by hacking operation
-*   Former top FCC lawyer Schlick heads to Google
-*   NetCoalition winds down operations
+*   Lawmakers mull restrictions on domestic drones
+*   musicFIRST slams new coalition of Internet royalty bill supporters
+*   Cybersecurity legislation makes Panetta's lame duck to-do list
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   News bites: Coal mining costs rise, feds intensify BP probe, and more
-*   Oxfam jumps into oil payments disclosure lawsuit
-*   Texas House race debuts dueling energy ads
+*   Waxman parries Upton over energy subsidy report
+*   Regulatory chief: Edge on nuclear power shifting to US
+*   Inhofe: Obama delaying new pollution rules to boost his chances of reelection
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   AP poll: Romney leads Obama 47-45, tied among female voters
-*   Pressure on Pelosi and Israel to deliver House seats in home states
-*   Romney’s standing in race adds uncertainty to GOP’s Senate quest
+*   Democrats expand effort against Florida GOP Rep. Southerland
+*   Candidate gaffes could cost GOP Senate control — again
+*   Obama: 'We always knew this was going to be a close race'
 
   
 More Ballot Box » On The Money
 
-*   Watchdog: Scrap Libor for bailout programs
-*   Tax group: Deduction cap only offsets some of Romney tax plan
-*   White House targeting DeMarco's job
+*   Charitable coalition urges Obama, Romney to leave deduction alone
+*   Corporate leaders warn Congress must strike deficit deal before end of year
+*   Business leaders press lame-duck Congress to strike deficit deal
 
   
 More On The Money » Healthwatch
 
-*   Obama supporters worry a Romney victory will endanger healthcare law
-*   Scott Brown rejects Mourdock's abortion view
-*   GOP threatens subpoenas in probe of Obama healthcare law PR campaigns
+*   Obama: No doubt Romney win could overturn Roe v. Wade
+*   Obama disagrees with Supreme Court's healthcare reasoning
+*   Senate panel expands meningitis probe as illness spreads
 
   
 More Healthwatch » Floor Action
 
-*   Democrats ask Tenn. court to unseal Scott DesJarlais's divorce records
-*   McConnell stands by Mourdock
-*   Alabama Republicans send 'battleground' buses to Ohio to help Romney win
+*   Economists see tax hike as twice the problem for growth than spending cuts
+*   Jackson Lee seeks support for giving gold medal to Pakistani shooting victim
+*   Rubio: Senate hearing on Libyan terrorist attack should have come sooner
 
   
 More Floor Action » Transportation
 
-*   FAA fines US Airways for failing to inspect 757
-*   Report: Miami airport leads TSA firings for theft
-*   Poll: 42 percent support Obama auto approach over Romney's
+*   Mobile parking meter company raises fees in DC, citing Dodd-Frank law
+*   Boehner hits Obama on auto bailout pensions
+*   Detroit paper thanks Obama for auto bailout, endorses Romney
 
   
 More Transportation » DEFCON Hill
 
-*   New Army unit heading to Africa Command
-*   DOD sees 'opportunity' in Army's postwar strategy, says Carter
-*   Gitmo defense lawyers want US records of Yemen drone strike
+*   DOD: Massive US-Israeli missile drill not aimed at Iran
+*   Report: UK denies US access to bases for Gulf buildup
+*   Panetta wants action in lame duck
 
   
 More DEFCON Hill » Global Affairs
 
-*   Obama to renew sanctions against those involved in DRC conflict
-*   Obama administration turns the tables on Russian claims about US weapons in Syria
-*   Afghans rap Obama administration over borders
+*   US slams UN expert's call for Israel-related boycott as 'irresponsible'
+*   Speaker Boehner calls for answers from the president on Benghazi attack
+*   Texas sparks international row with election observers
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Some Obama plan Brent Budowsky Morning in Ohio More Columnists »
