@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Thursday, October 25, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Friday, October 26, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Thursday, October 25, 2012 Go Follow the Atlan
 *   Magazine
 *   video
 
-They Can't Both Be Right: Nate Silver vs. the Experts James Fallows A Good Debate for Obama, But Is It Enough? Molly Ball Romney's Path to 270 Remains Steep Charlie Cook Our 'Hair of the Dog' Recovery Conor Sen The Endangered Home Lender Matthew O'Brien How Your Job Predicts Your Vote Derek Thompson What 'Reservoir Dogs' Got Right: People Siddhartha Mahanta The NCAA Needs a New Rule Enforcer Stephen A. Miller In Japan, Anyone Can Be a Holographic Star Patrick St. Michel On Mob Justice in Nigeria Teju Cole Turkey's War on Journalists Michael Koplow The Missing Obama-Romney Debate on Egypt Eric Trager Curiosity's Cousins: Canada's Rover Fleet Megan Garber 'A Supercomputer and a Population of Dolphins' Alexis Madrigal Can Dogs Catch Yawns From Humans? Alexis Madrigal Wild Horse Round-ups: Inhumane and Useless Andrew Cohen Occupy Wounded Knee Emily Chertoff RFK Jr.: My Cousin Is Innocent Jennie Rothenberg Gritz There's Detectable Cocaine in Italian Air James Hamblin Tango as Relationship Therapy Amelia Rachel Hokule’a Borofsky The Fastest Surgeon of the 19th Century Matt Soniak Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Kids Analyze the Election Kasia Cieplak-Mayr von Baldegg How to Teach Yourself Lucid Dreaming Kasia Cieplak-Mayr von Baldegg A Haunting Time-Lapse of Seattle Kasia Cieplak-Mayr von Baldegg Privacy Policy
+Will Obama's Ground Game Give Him the Win? Molly Ball The Pious Cruelty of Richard Mourdock Ta-Nehisi Coates Why Did Obama Kill This 16-Year-Old American? Conor Friedersdorf Romney's China Bashing Is 5 Years Late Matthew O'Brien Prisoners of Cable Derek Thompson How Millennials Could Save the Economy Derek Thompson Should Romney Visit the Tigers' Clubhouse? Henry D. Fetter The Glory of Recurring Halloween Costumes Chris Koentges The Denver Broncos: NFL Comeback Kings Kevin Craft On Mob Justice in Nigeria Teju Cole Turkey's War on Journalists Michael Koplow The Missing Obama-Romney Debate on Egypt Eric Trager 9,000 Megapixels, 84 Million Stars Rebecca J. Rosen 111 Days of Ozone Change, in 1 GIF Megan Garber Curiosity's Cousins: Canada's Rover Fleet Megan Garber Wild Horse Round-ups: Inhumane and Useless Andrew Cohen Occupy Wounded Knee Emily Chertoff RFK Jr.: My Cousin Is Innocent Jennie Rothenberg Gritz The Sex Lives of Conjoined Twins Alice Dreger The Fastest Surgeon of the 19th Century Matt Soniak The Evolutionary Importance of Grandmothers Lindsay Abrams Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Kids Analyze the Election Kasia Cieplak-Mayr von Baldegg How to Teach Yourself Lucid Dreaming Kasia Cieplak-Mayr von Baldegg A Haunting Time-Lapse of Seattle Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,16 +113,16 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Just In Lindsay Abrams 8:03 AM ET Study: Hypnotherapy Reduces Hot Flashes 1351166623 Voices
+Just In Lindsay Abrams 8:07 AM ET Study: Even 'Moderate' Drinking Impairs Brain Cell Formation 1351253224 Voices
 
-*   James Fallows David Allen on How to Fix Your Life Oct 24, 2012
-*   Derek Thompson The Dark Side of Facebook's Triumphant Day Oct 24, 2012
+*   James Fallows What the Stock Market Shows About the… 7:48 AM ET
+*   Robert Wright It's Official: Romney Has Zero Momentum Oct 25, 2012
+*   Clive Crook Obama's Mistakes and the Role of Race Oct 25, 2012
+*   Garance Franke-Ruta Lena Dunham's New Obama Ad—As Controversial… Oct 25, 2012
+*   Derek Thompson Apple's 'Disappointing' (but Still Pretty… Oct 25, 2012
+*   Jeffrey Goldberg Israel Contemplates a 2-Party System Oct 25, 2012
+*   Alexis C. Madrigal The World Is Not Enough: Google and the Future of… Oct 25, 2012
 *   Ta-Nehisi Coates Stuff Black People Who Like White People Like Oct 24, 2012
-*   Alexis C. Madrigal Does Higher Energy Consumption Cause Greater… Oct 24, 2012
-*   Robert Wright Why Romney Is the War Candidate Oct 23, 2012
-*   Garance Franke-Ruta The Best Lady GOTV Video of 2012, Starring Lena… Oct 23, 2012
-*   Jeffrey Goldberg Did the 'Neocon Puppet Masters' Get Outflanked by… Oct 23, 2012
-*   Clive Crook An Inconsequential Debate Oct 23, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 
 Correspondents
@@ -132,7 +132,7 @@ Correspondents
 *   Peter Osnos Ignore the Doomsayers: The Book Industry Is Actually Adapting Well
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Fall Is in the Air, Part II Oct 24, 2012 Video Adorable Kids Sing Mashups of Classical Tunes and Pop Lyrics Joy Division's Iconic Album Cover Combustion Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Hajj 2012, A Sacred Journey Oct 25, 2012 Video Twitter Says: Romney's Fans Like Arby's, Obama's Like Red Lobster Kids React to the Election How the Gregory Brothers 'Songify' the Debates Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -161,63 +161,63 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   The UK Is Finally Out of Its Recession  
+*   Afghanistan Mosque Hit By Suicide Bomb as Muslim Holiday Begins  
     
-*   Michael Bloomberg Says High Approval Ratings Mean You're a Failure  
+*   Two Manhattan Children Murdered by Their Nanny  
     
-*   Obama Says 'Rape Is Rape'  
-    
-
-Last Update: 7:31 AM
-
-*   This Atlas of 20th Century Architecture Weighs As Much As a Spare Tire  
-    
-*   Grand Central Could Get a Giant, Elevating Observation Hoop  
-    
-*   Why Sometimes You Can Smell the Sewer Even Though You Mostly Can't  
+*   The Syrian Cease Fire Didn't Last Long  
     
 
-Last Update: 7:41 PM Most Popular
+Last Update: 8:01 AM
+
+*   Durham's Bridge of Death Will Decapitate Any Tall Truck  
+    
+*   Is This Device To Blind Traffic Cameras Really Legal?  
+    
+*   Communities Aren't Just Places, They're Social Networks  
+    
+
+Last Update: 6:52 PM Most Popular
 
 1
 
-Why the GOP Should Fear a Romney Presidency
+David Allen on How to Fix Your Life
 
 2
 
-Obama's Edge: The Ground Game That Could Put Him Over the Top
+The Sex Lives of Conjoined Twins
 
 3
 
-Robert F. Kennedy Jr.'s Passionate Plea for His Cousin's Innocence
+Lena Dunham's New Obama Ad—As Controversial As Everything She Does?
 
 4
 
-A Miscarriage of Justice
+The Simple, Non-Racial Explanation for Why Colin Powell Is Backing Obama
 
 5
 
-Think the Florida Recount Was Bad? Just Wait Until November 6
+General Failure
 
 6
 
-'Perplexed ... Perplexed': On Mob Justice in Nigeria
+What Are the Odds That Israel Just Attacked Sudan?
 
 7
 
-Fall Is in the Air, Part II
+Hajj 2012, A Sacred Journey
 
 8
 
-Dark Social: We Have the Whole History of the Web Wrong
+It's Official: Romney Has Zero Momentum
 
 9
 
-How Team Obama Justifies the Killing of a 16-Year-Old American
+Hacking the President’s DNA
 
 10
 
-Scenes From World War II Photoshopped Onto Today's Streets
+Fall Is in the Air, Part II
 
 *   Subscribe Help
 *   Faq
