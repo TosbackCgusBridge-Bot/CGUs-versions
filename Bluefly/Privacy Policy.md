@@ -174,13 +174,15 @@ coupon code: SHIP100
     *   Z
     *   ALL
 
-my fly 2 Deals, 1 Day! $40 off\* + Free Shipping!
+my fly Coat Sale!
 
-*   Get Coupon
+*   Shop Women
+*   Shop Men
 
-Jewelry Blowout
+Sweater Sale!
 
-*   Shop Now
+*   Shop Women
+*   Shop Men
 
 Privacy Notice
 
