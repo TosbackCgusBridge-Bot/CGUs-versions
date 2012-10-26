@@ -193,17 +193,16 @@
     *   Clearance On Sale
 *   $14.99 Store
     
-    *   $14.99 Halloween Store
     *   $14.99 Kitchen Store
     *   Gifts
+    *   $14.99 Fall Store
     *   $14.99 Christmas Outdoors
     *   $14.99 Christmas Store
-    *   $14.99 Fall Store
     *   Holidays &. Seasonal
     *   For The Home
     *   Outdoor &. Garden
-    
     *   Clothing &. Accessories
+    
     *   Etc
     *   Clearance
     *   $14.99 Store
