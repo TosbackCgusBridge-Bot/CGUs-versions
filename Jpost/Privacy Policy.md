@@ -1,4 +1,4 @@
-  Set as Homepage Wed, Oct 24, 2012   8 Heshvan, 5773  
+  Set as Homepage Thu, Oct 25, 2012   9 Heshvan, 5773  
 
 *   *   Breaking News
     *   Diplomacy &. Politics
@@ -195,7 +195,8 @@ Israeli's number one bank   Jerusalem Post Lite
 Light Edition of the Jerusalem Post for English improvement   Kosher English Magazine  
 English language weekly magazine - especially for religious people   JReport Kindle Edition  
 Now you can get the Jerusalem Report directly to your Kindle   JPost Premium Edition  
-The very best articles are available only in our Premium edition     Real Estate Israel Real Estate Exhibition  
+The very best articles are available only in our Premium edition     Real Estate Jerusalem's leading projects  
+are now in New York Come and meet us to find out more!   Israel Real Estate Exhibition  
 New York, October 27 â 28. Free Entrance   Real Estate Special Magazine  
   Prosperity real estate  
 Finding your home in Jerusalem is Prosperity's business   Gorman Real Estate  
