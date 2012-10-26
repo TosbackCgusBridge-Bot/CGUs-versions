@@ -1,5 +1,5 @@
   
-Users Online Now: **1,752** (Who's On?) Visitors Today: **375,915** Pageviews Today: **608,227** Threads Today: **246** Posts Today: **3,859** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,825** (Who's On?) Visitors Today: **436,700** Pageviews Today: **652,005** Threads Today: **235** Posts Today: **3,716** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,15 @@ trinity@godlikeproductions.com
   
 News
 
+*   Winter storm forecasters prepare for 'Frankenstorm'
+*   FBI: NYPD OFFICER CHARGED IN CANNIBAL PLOT:
+*   Mystery Glow of Dark Matter Halos Fueled by Extragalactic Stars
+*   United Nations looking to control the internet
+*   Eleven EU nations get go-ahead on 'Robin Hood' finance tax
+*   Verizon Is Selling Your Data–Here's How To Opt Out Of It
+*   ObamaCare: Employees Working 30 Hours per Week Considered 'Full-Time'
+*   First-offense wood burners: Go to smoke class
+*   Toxic Cloud Forces Thousands In Southeast Texas To Stay Indoors
 *   Voters say they voted for the wrong candidate????
 *   UN Seeking Global Internet Surveillance for Terror, Propaganda
 *   Mom Convicted of Disorderly Conduct for Arguing with TSA
@@ -128,15 +137,6 @@ News
 *   Obama EPA regulations 'spell doom' for economy in 2013
 *   TSA removes X-ray body scanners from major airports
 *   CBS News affiliate calls 2012 presidential race for Barack Obama weeks ahead of election
-*   Teacher injured in airborne fish attack
-*   Obama Ad You Won't See on TV
-*   Obama campaign collecting more donations from non-existent ZIP codes as campaign season goes on
-*   Obama campaign accepted foreign Web donation -- and may be hiding more
-*   Iranian Media: Romney Will Steal Election, Riots Expected
-*   Internet providers to begin warning customers who pirate content
-*   Swiss army prepares for euro zone unrest
-*   Thefts of cell phones on the rise across America
-*   UN affiliate group to monitor US elections for conservative voter supression
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.018s (0 queries)
+Page generated in 0.015s (0 queries)
