@@ -156,6 +156,24 @@ Hair Ideas Hairstyles Formal Hairstyles Hair Color Ideas Sexy Hair Celebrity Hai
 *   Google Plus>
 *   Newsletter
 
-©2012 Hearst Communication, Inc. All Rights Reserved. Being Green.Why did I get this ad? Thanks for joining Your information has been saved and an account has been created for you giving you full access to everything redbook.com and Hearst Digital Media Network have to offer. To change your username and/or password or complete your profile, click here  Continue  Your accounts are now linked You now have full access to everything redbook.com and Hearst Digital Media Network have to offer. To change your settings or profile, click here  Continue  Link Your _Redbook_ Account to Facebook Welcome, ! **Link my Redbook account to Facebook**  
-Sign in to redbook.com below and we'll link your facebook account to your existing Redbook account Email: Password:   sign in   Forgot  
-Password? No Thanks, continue without linking accounts  continue
+©2012 Hearst Communication, Inc. All Rights Reserved. Being Green.Why did I get this ad? Link Your _Redbook_ Account to Facebook Welcome!
+
+Redbook already has an account with this email address. Link your account to use Facebook to sign in to Redbook. To insure we protect your account, please fill in your password below.
+
+Username or email:
+
+Password:
+
+Sign In Forgot Password?
+
+No thanks, continue without linking accounts.
+
+Continue Thanks for Joining
+
+Your information has been saved and an account has been created for you giving you full access to everything redbook.com and Hearst Digital Media Network have to offer. To change your username and/or password or complete your profile, click here.
+
+Continue Your accounts are now linked
+
+You now have full access to everything Redbook and Hearst Digital Media Network have to offer. To change your settings or profile, click here.
+
+Continue
