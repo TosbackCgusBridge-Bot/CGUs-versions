@@ -158,8 +158,8 @@ Buscar
         *   Mes de la Hispanidad
         *   Mi Corazon Insiste
         *   Mia Mundo
+        *   Miss Universo 2012
         *   Miss Universo 2009
-        *   Miss Universo 2011
         *   N
         *   Niños Ricos, Pobres Padres
         *   Nitido
@@ -436,7 +436,7 @@ Buscar
             
             *   Buscar Videos
 *   Club De Noveleras
-*   Billboard
+*   Miss Universo 2012
 *   Yo Me Llamo
 
 Política de privacidad
@@ -688,13 +688,13 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡Qué maestra!
+*   ¡Qué seducción!
     
-    Luciana Silveyra talento y seducción.  
+    Clara y Camilo viven una pasión prohibida.
     
-*   ¡Encuentra tu tono ideal!
+*   ¿Eres arriesgada por amor?
     
-    Maquillaje que combina con tu piel  
+    Descubre cómo ser original en tu próxima cita  
     
 *   ¡Déjate hechizar!
     
