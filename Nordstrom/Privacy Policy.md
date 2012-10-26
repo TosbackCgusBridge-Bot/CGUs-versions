@@ -186,10 +186,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   All Fragrance
     *   Shave
     *   Hair Care
-    *   New Arrivals
-    *   Brands
     *   Value Sets &. Sizes
-    *   Gifts with Purchase
     
 *   Juniors
     
@@ -262,7 +259,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Gift Cards
     
     *   Featured Shops
-    *   Toy Station
+    *   Toys
     *   Cold Weather
     *   Sleepwear
     *   Active
