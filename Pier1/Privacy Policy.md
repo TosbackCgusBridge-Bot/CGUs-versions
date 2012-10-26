@@ -63,7 +63,7 @@ close x Search Catalog Search Catalog Navigation
             *   Gifts for Her
             *   Gifts for Him
             *   Gifts for Fun
-            *   Gift Wrap
+            *   Cards &. Gift Wrap
             *   Special Occasions
             *   Clearance
             *   Special SavingsA day without accessories? Scary. Keep an eye out for our hand-painted Halloween jewelry
