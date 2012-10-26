@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** Donald Trump wants to see Obama's college and passport records... but won't reveal his own
-2.  2\. **News:** Victoria station killing: commuters shocked by knives, bars and batons
-3.  3\. **News:** The Donald trumps even himself for idiocy
-4.  4\. **Life &. style:** The world's most revolting cakes - in pictures
-5.  5\. **News:** Romney continues to back Mourdock in spite of Senate hopeful's rape remarks
+1.  1.  **News:** Britain rejects US request to use UK bases in nuclear standoff with Iran
+2.  2\. **News:** Britain favoured execution over Nuremberg trials for Nazi leaders
+3.  3\. **Books:** The world's worst typos – in pictures
+4.  4\. **News:** Donald Trump wants Barack Obama to publish his college and passport records but won't reveal his own
+5.  5\. **Film:** Skyfall – review
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Business:** Eurozone crisis live: Britain emerges from recession
-2.  **News:** Donald Trump wants to see Obama's college and passport records... but won't reveal his own
-3.  **Business:** Kipper Williams cartoon: Greek bailout confusion
-4.  **Politics:** GDP figures show UK out of recession: Political reaction live
-5.  **Science:** Breast cancer in the family: genetics and medicine, part two – video
+1.  **Childrens' books:** How to draw... a crocodile
+2.  **Technology:** Windows 8 launch a 'defining moment' for Microsoft's Steve Ballmer
+3.  **News:** Britain favoured execution over Nuremberg trials for Nazi leaders
+4.  **Education:** Trainee teachers face tougher English and maths tests
+5.  **Business:** Eurozone crisis live: Spanish unemployment hits record high ahead of US GDP
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Second jury discharged in PC Alex MacFarlane racial abuse trial
-2.  2\. Badger cull debate in House of Commons - live coverage
-3.  3\. GDP figures show UK out of recession: Political reaction live
-4.  4\. Good news for the UK economy – but how do we carve the national cake?
-5.  5\. Picture desk live: the best news pictures of the day
+1.  1.  Mediacom
+2.  2\. Jeremy Hunt: NHS reforms offer new opportunities to integrate health and social care
+3.  3\. Viral Video Chart: Brad Pitt ad spoofs, iPad mini v Surface, Ruff Dog Day
+4.  4\. Afghanistan suicide bomber kills Eid worshippers at mosque, police say – video
+5.  5\. How do you decide what to see at the theatre? Word of mouth v reviews
 6.  All today's stories
 
 On the Guardian today
 
 1.  Life and style Mapping the body: the temple
-2.  World news Donald Trump has a Kenyan childhood grudge, jokes Barack Obama
-3.  World news Donald Trump wants to see Obama's college and passport records... but won't reveal his own
-4.  Comment is free Obama moves to make the War on Terror permanent
-5.  Science Nazi buddha from space might be fake
-6.  World news Evolution of the American voter: 'The tectonic plates of politics are shifting'
+2.  World news Britain rejects US request to use UK bases in nuclear standoff with Iran
+3.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+4.  World news New York Times blocked by China after report on wealth of Wen Jiabao's family
+5.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+6.  Football Barcelona and Real Madrid draw El Clásico thriller at Camp Nou
 
 *   License/buy our content
 |*   Privacy policy
