@@ -71,13 +71,13 @@ Sign In Sign Out New User Sign Up Profile Management
 
 What's Hot
 
-Fox Winter Premiere Dates
+Save Your Favorite Shows!
 
-Mega Buzz
+_Franklin &. Bash_: Who's Out?
 
-_Fringe_ First Look
+P. Diddy Injured
 
-_PLL_'s Latest Victim Speaks
+_Good Wife_ Fan Faves Return
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -139,7 +139,7 @@ more popular movies Top Videos
 
 1.  The Vampire Diaries
 2.  The Vampire Diaries
-3.  Howard Stern's Watchlist
+3.  Arrow
 4.  Arrow
 5.  Supernatural
 
