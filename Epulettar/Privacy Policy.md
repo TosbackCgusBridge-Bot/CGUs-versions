@@ -83,6 +83,8 @@ még több
 
 új projekt
 
+messer hungarogáz kft. töltőüzem, budapest
+
 váci corner offices, budapest
 
 erdőtelki arborétum, erdőtelek
@@ -90,8 +92,6 @@ erdőtelki arborétum, erdőtelek
 vármegyeháza (megyeháza), szekszárd
 
 béla király tér, szekszárd
-
-bertalan híd, szeged
 
 még több
 
@@ -122,11 +122,11 @@ jánossy györgy emlékkiállítása a hap galériában
 
 épülettár apró
 
-bamboo-bambusz faiskola
+kezdődő építkezéssel extra kicsiáron ikerház eladó!
 
-köki terminál, metró közelében eladó családi ház
+budai lakóparki családiház
 
-új építésű raktár, műhely, telephely eladó!
+panorámás szép ház érden!
 
 még több
 
