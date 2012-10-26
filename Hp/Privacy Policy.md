@@ -1,5 +1,3 @@
-") /\* \]\]>. \*/ //-->.
-
 HP.com Home
 
 *   Connect with HP Connect with HP
@@ -60,6 +58,7 @@ Search
         *   Networking
         *   Software
         *   Printing &. Multifunction
+        *   Scanners
         *   Ink, Toner &. Paper
         *   Laptops
         *   Elite PCs
