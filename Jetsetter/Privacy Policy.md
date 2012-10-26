@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Inn by the Sea - Maine
+*   Dar Sabra - Marrakech
     
-    Starting Today 10/25 at 3pm EDT
-    
-*   Kemble Inn - Massachusetts
-    
-    Starting Today 10/25 at 3pm EDT
-    
-*   Chase Park Plaza - St. Louis
-    
-    Starting Today 10/25 at 3pm EDT
-    
-*   Trapp Family Lodge - Vermont
-    
-    Starting Today 10/25 at 3pm EDT
-    
-*   Ellington Hotel - Berlin
-    
-    Starting Today 10/25 at 3pm EDT
-    
-*   Cape Town &. Winelands Tour
-    
-    Starting Friday 10/26 at 3pm EDT
+    Starting Today 10/26 at 3pm EDT
     
 *   Baker House 1650 - Hamptons
     
-    Starting Friday 10/26 at 3pm EDT
+    Starting Today 10/26 at 3pm EDT
     
-*   Dar Sabra - Marrakech
+*   Cape Town &. Winelands Tour Six Nights in South Africa with Great Safaris
     
-    Starting Friday 10/26 at 3pm EDT
+    Starting Today 10/26 at 3pm EDT
+    
+*   An Lam Ninh Van Bay - Vietnam
+    
+    Starting Saturday 10/27 at Noon EDT
+    
+*   Lush Hotel - Istanbul
+    
+    Starting Saturday 10/27 at Noon EDT
+    
+*   Kempinski Barbaros - Turkey
+    
+    Starting Saturday 10/27 at Noon EDT
+    
+*   The Mirage Las Vegas
+    
+    Starting Sunday 10/28 at 3pm EDT
+    
+*   Andara Resort - Phuket
+    
+    Starting Sunday 10/28 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
