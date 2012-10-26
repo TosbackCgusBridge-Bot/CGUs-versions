@@ -1,6 +1,6 @@
 (skip this header)
 
-Thursday Oct 25, 2012 5:05 AM PT
+Friday Oct 26, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   BART runs extra trains
-*   Gramblers' surprise hit
-*   Sand castles, teamwork
-*   SFers blowing bubbles
-*   World Series tickets
+*   Obama leans toward Tigers
+*   Giant ridership for Muni
+*   Parents silly-pic punishment
+*   Krupa rips hooker story
+*   Series tickets
 *   Chronicle endorsements
 
 *   Bay Area &. State
@@ -339,6 +339,15 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Nightmare on Elm Street house gets a makeover
+*   'Skyfall' London Royal world premiere
+*   Game 2: Giants vs. Tigers
+*   Apple Event Oct 23
+*   San Francisco Fall Antiques Show
+*   Day in Pictures, Oct. 25, 2012
+*   Windows 8 and Surface event
+*   'Cloud Atlas' premiere
+*   Microsoft launches Windows 8
 *   1962 Giants
 *   2781 Union Street
 *   Nation in Focus
@@ -352,14 +361,13 @@ Ads by Yahoo! Photo Galleries
 *   When parents discipline kids through public humiliation
 *   Day in Pictures, Oct. 24, 2012
 *   Giants fan superstitions
+*   Panda belts 3 homers in Game 1 win
 *   Nation in Focus
 *   World in Focus
-*   'Skyfall' London Royal world premiere
 *   Angel Ball Gala 2012
 *   Celebrity wardrobe malfunctions
 *   Oakland A's: The Forgotten Dynasty
 *   16th Annual Hollywood Film Awards Gala
-*   Apple Event Oct 23
 *   Seals Stadium
 *   Trends Third debate
 *   Day in Pictures, Oct. 23, 2012
@@ -371,14 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   Final 2012 presidential debate
 *   2012 presidential town hall debate
 *   Final 2012 presidential debate
-*   Promoted twitter debate 3
-*   26th Anniversary Carousel of Hope Ball
-*   3 stars for Mill Valley Beerworks
-*   Magnus Nilsson
-*   Tyler Florence chairs SF, Marin Food Banks' gala
-*   Day in Pictures, Oct. 22, 2012
-*   First blizzard
-*   Favorite dishes 10/22/2012
 
 *   Most Read
 *   |
@@ -386,51 +386,49 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Panda's 3 homers lift Giants in Game 1
-2.  You can't make this Giants script up
-3.  Parents punish daughter by posting this photo on her Facebook wall
-4.  Giants accidentally sell Pence’s broken bat
-5.  Libya attack claim relayed early to White House
-6.  Driver backs up, rolls over sleeping man
-7.  Barry Zito looks like money for Giants
+1.  SF Giants halfway to title after 2-0 win
+2.  Girl's body found on beach identified
+3.  Obama on Trump: Our rivalry dates back to our childhood in Kenya (VIDEO)
+4.  Three-bedroom unit in The Infinity is listed for $3.2 million
+5.  Muni's 10-Townsend: Always a crapshoot
+6.  High-altitude wind power pioneer Corwin Hardham dies at 38
+7.  The Movies You Must NOT See
 
-1.  Mourdock: God at work when rape leads to pregnancy
-2.  Driver backs up, kills sleeping man
-3.  Ed Lee in rift with Mirkarimi backers
-4.  Donald Trump%u2019s Dr. Evil %u201Cblockbuster%u201D %u2014 a $5 million hostage offer? (VIDEO)
-5.  Frightened men love Mitt Romney
-6.  Why one of America's best baseball writers is wrong about Melky Cabrera
-7.  Ishtar 2? Clint Eastwood stars in new ad for Mitt Romney (VIDEO)
+1.  Obama on Trump: Our rivalry dates back to our childhood in Kenya (VIDEO)
+2.  Muni's 10-Townsend: Always a crapshoot
+3.  The Movies You Must NOT See
+4.  Brown's tax plan falls below 50% in poll
+5.  A new restaurant charge: the table fee
+6.  Bumgarner, Giants win duel in Game 2
+7.  Teacher's idling car leads to pot arrest
 
-1.  You can't make this Giants script up
-2.  Comfy chicken dish with rice and ginger
-3.  Google cameras map popular Grand Canyon trails
-4.  Panda's 3 homers lift Giants in Game 1
-5.  Barry Zito looks like money for Giants
-6.  Lincecum shines again out of the bullpen
-7.  Aspirin seen as promising for colon cancer
+1.  Carol Perkins, wife of Marlin Perkins, dies
+2.  Fans paint town black and orange
+3.  Mundo Maya events reach fever pitch as calendar end looms
+4.  'Fantasy Slut League' ending in Piedmont
+5.  UCSF helps improve prostate cancer care
+6.  Wells Fargo faces suit over FHA loans
+7.  Shale Glut Becomes $2 Diesel Using Gas-to-Liquids Plants: Energy
 
 loading... Latest News Videos From our homepage
 
-*     
-    Timothy A. Clary, Getty / SF
+*   Movies You Must NOT See
     
-    Doggone crazy costumes
+    Madonna in 'Swept Away'? Dreadful. Check out these losers.
     
-    Some of these dogs' Halloween outfits are mahvelous, others just plain ridiculous. Take a look.
-    
+*   Must-see movies since 1960
 
-*   Silly pics punish daughter
+*   Hot market, no slowdown
     
-    Teen misbehaves, so parents take her phone, post wacky photos of themselves on her Facebook wall.
+    Reports show Bay Area housing market continues to surge. Here are 3 properties to prove it.
     
 
 *     
-    Stephen Dunn, Getty Images / SF
+    Fabrizio Costantini, For The San Francisco Chronicle / SF
     
-    'Magic' bat accidentally sold
+    Meanwhile, in a Detroit bar...
     
-    Pence dismayed to lose bat, which hit the ball three times in one swing. But then - good news.
+    In Motor City, C.W. Nevius hangs with some glum Tigers fans who are cursing the Giants luck.
     
 
 *   Home
