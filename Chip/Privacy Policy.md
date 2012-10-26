@@ -84,7 +84,7 @@
     *   CHIP Produkttest Blogs
 *   Mehr
     *   Preisvergleich
-    *   Free2Play
+    *   Online- und Browserspiele
     *   Wallpaper
     *   Thema
     *   Apps
@@ -265,11 +265,11 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 **RSS-Feed** Neue Share- und Freeware
 
-*   1 Yumi 0.0.7.7 Englisch Freeware
-*   2 MediaInfo 0.7.61 Deutsch Adware
-*   3 Mp3tag 2.53 Deutsch Freeware
-*   4 Wipe 2012.16 Deutsch Freeware
-*   5 K-Lite Codec Pack - Full 9.4.0 Englisch Freeware
+*   1 Piwik 1.9.1 Deutsch Freeware
+*   2 WatchMyCam 1.11 Deutsch Freeware
+*   3 GPU-Z 0.6.6 Englisch Freeware
+*   4 TweakNow WinSecret 2012 v4.2.1.2 Englisch Freeware
+*   5 TweakNow PowerPack 2012 v4.2.4 Englisch Shareware
 
 ...mehr
 
@@ -277,9 +277,9 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 
 *   1 Apokalypse am 21.12.: Die beste Software für den Weltuntergang
 *   2 Spiele-Vollversionen: Kostenlos zum Download
-*   3 Bundesliga live sehen - im Internet deutsch und gratis
-*   4 Kostenlose Spiele zum Download: Die besten Gratis-Games
-*   5 Tools, die kaum einer kennt: 33 geniale Gratis-Downloads
+*   3 Windows 8: Tops und Flops
+*   4 Bundesliga live sehen - im Internet deutsch und gratis
+*   5 Kostenlose Spiele zum Download: Die besten Gratis-Games
 
 ...mehr
 
@@ -295,11 +295,11 @@ Alle CHIP Online Feeds im Überblick
 
 Hardware, Software und Spiele im Test
 
+*   Media Markt Online Shop: Alle Angebote im Check
+*   Kindle Fire HD: Amazon-HD-Tablet im Praxis-Test
+*   TFT-Monitore: Preis-Leistungs-Hits ab 25 Zoll
 *   Vodafone Smart Tab II 10: Lenovo-Tab im Check
 *   Windows 8: Tops und Flops
-*   iPad mini, iPad 4, iMac und MacBook Pro: Die Highlights
-*   Virenscanner im Speedtest: AV-Comparatives testet 20 Security-Tools
-*   Externe Festplatten 2,5 und 3,5 Zoll: Preistipps mit USB 3.0
 
 ...mehr
 
@@ -327,7 +327,7 @@ Sponsored Links
     
     *   Test
 *   Samsung Galaxy Note 2 N7100 16GB  
-    ab 544,53 €
+    ab 544,49 €
     
     *   Test
 
@@ -343,9 +343,9 @@ Meistgelesene Themen
 
 *   \[GELÖST\] jucheck.exe
 *   Tastatur umstellen Englisch/Deutsch
+*   \[GELÖST\] Steam stellt keine Verbindung zum Netzwerk her
 *   Facebook knacken leicht gemacht...
-*   adamski tv offline?
-*   Free YouTube to MP3 Converter legal ?
+*   \[GELÖST\] Minecraft 1.4 HD und Misa´s Texture
 
 ...mehr
 
@@ -362,13 +362,13 @@ Alle CHIP Online Feeds im Überblick
 
 *   1 Die besten Spiele-Vollversionen zum Download  
     
-*   2 12 Media-Markt-Angebote, 12 starke Alternativen  
+*   2 Apokalyptisch gut: Kostenlose Software bis zum Ende der Welt  
     
-*   3 Sexy Headphone Babes  
+*   3 12 Media-Markt-Angebote, 12 starke Alternativen  
     
 *   4 Playboy - Playmate des Jahres  
     
-*   5 Die 100 beliebtesten deutschsprachigen Freeware-Tools  
+*   5 Sexy Headphone Babes  
     
 
 ...mehr
@@ -383,9 +383,9 @@ Alle CHIP Online Feeds im Überblick
     
 *   2 Samsung Galaxy Note 2 - Praxis-Test  
     
-*   3 Fußball Live Stream mit SopCast  
+*   3 Samsung Galaxy S3 LTE - Test  
     
-*   4 Samsung Galaxy S3 LTE - Test  
+*   4 Fußball Live Stream mit SopCast  
     
 *   5 iPhone 5 gegen iPhone 4S  
     
