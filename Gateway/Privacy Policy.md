@@ -20,7 +20,7 @@ Home
     *   My Account
     *   Warranty
     *   Contact Support
-    *   Windows Upgrade Offer
+    *   Windows 8 Upgrade
 
 *   Overview
 *   News and Information
