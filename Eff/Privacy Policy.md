@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-Want a world with open access to 3D printing? Help EFF fight bad patent applications that threaten new tech. https://eff.org/r.5apx
+Thwart online tracking with 4 simple changes to your browser: https://eff.org/r.5ap7
 
-Oct 24 @ 2:11pm
+Oct 25 @ 5:27pm
 
-NSA whistleblowers William Binney and J. Kirk Wiebe: The Supreme Court must be last bulwark against NSA spying https://eff.org/r.a9pw
+Internet freedom advocates answer users' questions on Reddit IAmA yesterday https://eff.org/r.a9p4 #netfreedom #TPP #OpenTPP
 
-Oct 24 @ 1:15pm
+Oct 25 @ 11:23am
 
 *   Twitter
 *   Facebook
