@@ -1,7 +1,7 @@
 1.  Skip to navigation
 2.  Skip to content
 
-Brookstone Enter Keyword or Item # Find a Store Track Your Order My Account Customer Care 1-866-576-7337 Shopping Cart  
+Brookstone Enter Keyword or Item # Find a Store Track Your Order My Account Customer Care 866-576-7337 Shopping Cart  
 
 *   Bedroom
 *   Electronics
