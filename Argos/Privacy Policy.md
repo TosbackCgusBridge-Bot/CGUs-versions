@@ -21,7 +21,6 @@ items in Trolley
 *   Gifts
 
 *   Price Cuts
-*   Clearance Offers
 
 *   Jump to Argos website search
 *   Jump to main categories
