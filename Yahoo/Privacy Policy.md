@@ -1,8 +1,19 @@
-*   Yahoo! Deutschland
+Skip to search.
 
-Yahoo! Search
+*   _New User?_ Register
+*   _Sign In_
+*   Help
 
-*   Hilfe
+Make Y! My Homepage
+
+*     Notifications Help
+    
+*   Mail
+    
+*   My Y!
+*   Yahoo!
+
+Yahoo! Privacy Search Search Web Breaking News Visit Yahoo! News for the latest. ×Close this window
 
 *   Startseite
 *   Produkte
