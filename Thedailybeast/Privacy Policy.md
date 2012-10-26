@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  Dear Donald, It’s Over
-2.  The Clown Campaign
-3.  Obama Riffs on Leno
-4.  My Proof of Heaven
-5.  The Man Who Could Beat Bachmann
+1.  Why Obama Will Win
+2.  Obama’s Early Voting Edge
+3.  My Proof of Heaven
+4.  New York Gone Mad
+5.  How Would Romney Govern?
 
   Other News Entertainment
 
-*   Bar Refaeli's Endless Summer &. More Celeb TwitPics
-*   Brooklyn lovebirds: Michelle Williams and Jason Segel move in together
-*   Robert Pattinson Gets Giggly, Plus More Funny Celeb Photos!
+*   Who Are These Celebs in Costumes?
+*   Alicia Keys Chats Motherhood, Advises Adele
+*   Tinsel Talk: What Scares You?
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   President Obama visits Leno, jokes about Trump, gets serious about Richard Mourdock — VIDEO
-*   ‘Supernatural’ recap: In focus
-*   ‘Modern Family’ react: Halloween episode delivers laughs, but lacks season 2′s originality
+*   ‘Big Bang Theory’ react: Halloween episode is more heartfelt than funny
+*   ’30 Rock’: Unwindulax because Jenna’s picking the next president!
+*   Lena Dunham: My first time was with Barack Obama — VIDEO
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Union Super PAC Brands Romney An "Economic Traitor"
-*   Obama Blasts Senate Candidates Rape Comments On The Tonight Show
-*   How Each Presidential Candidate Can Win, In Two Charts
+*   Romney Surrogate: Colin Powell Endorsed Obama Because He's Black
+*   Romney Campaign Downplays Early Vote — And Begs For It
+*   In Defense Of Sexy Halloween Costumes
 *   **Get More from Buzz Feed**
 
 Politics
 
 *   Quote of the Day
-*   Why is Romney Still Campaigning in Nevada?
-*   Gender Gap Disappears in New Poll
+*   China Blocks Site After Report on Leader's Wealth
+*   Ohio Sees Nonstop Political Ads
 *   **Get More from Political Wire**
 
 The Daily Beast
