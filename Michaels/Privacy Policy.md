@@ -449,3 +449,9 @@ get to know us
 *   Michaels Charities
 *   Teachers' Discount
 *   Site Map
+
+Canada
+
+© 2012 Michaels Stores.
+
+Michaels and the Michaels logo and other trademarks and logos used on this site are owned or licensed by Michaels Stores, Inc. All rights reserved.
