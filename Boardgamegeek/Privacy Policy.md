@@ -27,13 +27,13 @@ Register
 
 *   Browse Database
     
-    *   Games (61486)
-    *   Families (1722)
+    *   Games (61500)
+    *   Families (1723)
     *   Categories (80)
     *   Mechanics (48)
-    *   Artists (8725)
-    *   Designers (17389)
-    *   Publishers (12745)
+    *   Artists (8733)
+    *   Designers (17396)
+    *   Publishers (12746)
     *   Random Game
     *   Gone Cardboard
     
@@ -87,7 +87,6 @@ Register
     *   Online Games
     *   Tigris
     *   Stats
-    *   Cameras
     *   Find Users
     *   RSS
     *   Tag Cloud
