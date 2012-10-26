@@ -47,7 +47,7 @@ About Bizrate >. Privacy Policy About Bizrate
 *   Be a Part of the Bizrate Team
 *   Contact Us
 
-Shopzilla, Inc. Privacy Policy Effective Date &. Last Modified March 22, 2012.
+Shopzilla, Inc. Privacy Policy Effective Date &. Last Modified October 25, 2012.
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR WEBSITES OR SERVICES. BY ACCESSING OR USING OUR WEBSITE OR OUR SERVICES (OTHER THAN TO READ THIS PRIVACY POLICY FOR THE FIRST TIME), YOU AGREE TO THIS PRIVACY POLICY. 
 
@@ -59,7 +59,7 @@ Shopzilla, Inc. ("Shopzilla") operates online shopping websites, including Shopz
 
 **SUMMARY OF KEY PRINCIPLES**
 
-We thought it would be helpful to set out briefly the key ways in which we use your information and how we seek to protect privacy.  Of course, you should read the terms of our full Privacy Policy.
+We thought it would be helpful to set out briefly the key ways in which we use your information and how we seek to protect privacy.  Of course, you should read the terms of our full Privacy Policy. 
 
 *   We typically collect two kinds of information about you: (a) information that you provide that personally identifies you (e.g., full name or phone number). and (b) information that does not personally identify you (e.g., your IP address or type of browser).
 *   This information is transmitted to, held and processed by us in the United States of America.
@@ -89,13 +89,13 @@ PII and Non-PII is used to provide, or improve, our Sites and Services to you an
 
 We may disclose PII and Non-PII to:
 
- (1) our third party service providers who perform functions on our behalf in connection with the operation of the Sites or Services e.g., providers who host and manage data, process credit card orders, deliver our merchandise, etc.  
+(1) our third party service providers who perform functions on our behalf in connection with the operation of the Sites or Services e.g., providers who host and manage data, process credit card orders, deliver our merchandise, etc.  
 
-(2) participating sponsors to a program or promotion you enter through our Sites or Services.
+ (2) participating sponsors to a program or promotion you enter through our Sites or Services.
 
 (3)our parent company, subsidiaries or other affiliated companies (“ affiliated companies”) for operational, marketing and promotional purposes.
 
-(4) co-promotional partners and others with whom we have marketing or other relationships ;
+(4) co-promotional partners and others with whom we have marketing or other relationships .  
 
 (5) participating merchants where you consent at the time you submit PII to us when using the interactive features of our Sites such as surveys and reviews concerning our participating merchants. and
 
@@ -151,7 +151,11 @@ This Privacy Policy and our Terms of Use , both as posted on our Websites and th
   
 
   
-**© 2011 Shopzilla, Inc.**
+**© 2012 Shopzilla, Inc.**
+
+12200 W. Olympic Blvd, Suite 300, CA 90064 | help@bizrate.com | 310.571.1235
+
+  
 
 **See the 2010 Circle of Excellence Winners!**
 
