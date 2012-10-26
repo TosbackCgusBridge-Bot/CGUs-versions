@@ -81,6 +81,14 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 
 Latest blog entries
 
+*   Meet the Only Pro-Choice Woman Running for Governor
+    
+    In an election rife with discussion of abortion, birth control, rape, and equal pay, it's hard to believe that Maggie Hassan is the only pro-choice woman running for governor, in the battleground state of New Hampshire. 10/25/12
+    
+*   MC@Play with Mika
+    
+    Fresh off the release of a defining new album, British singer-songwriter Mika is now more relevant than ever with more pop perfect singles, star-packed collaborations, and confidence than ever before. 10/25/12
+    
 *   Maison Martin Margiela for H&M Makes Its NYC Debut
     
     Maison Martin Margiela's collaboration with H&M launched with a nine-story shindig in New York last night. Yes, even Kanye was there. 10/24/12
@@ -92,14 +100,6 @@ Latest blog entries
 *   Shop It Now: Massimo Dutti Opens First U.S. Store
     
     Massimo Dutti officially opened its first stateside store in New York last week, and the 13,131 square-foot space of classic, reasonably-priced, European goodness is bound to become one of our new Fifth Avenue shopping staples. 10/24/12
-    
-*   Burlesque in a Bottle: Dita Von Teese Launches Perfume
-    
-    Legendary burlesque star Dita Von Teese embodies all things glamour, elegance, and mystery through her dancing, costumes, and overall pin-up persona. 10/23/12
-    
-*   The Dog Whistle Last Night Was to Women
-    
-    The debate last night was ostensibly about foreign policy, but as the entire Twitterverse noted, the candidates used their last televised dialogue to bring up whatever they wanted, from education to food stamps. And both Barack Obama and Mitt Romney mu 10/23/12
     
 *   See all blogs
 
