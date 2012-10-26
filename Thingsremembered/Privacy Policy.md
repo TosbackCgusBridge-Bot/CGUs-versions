@@ -169,7 +169,7 @@ Store Locator
     
     *   Drinkware Sale
     *   Special Offer Flasks
-    *   Home Gifts Sale
+    *   Home Gifts on Sale
     *   Water Globes Sale
     *   Wedding Gifts Sale
     *   Embroidered Gifts Sale
