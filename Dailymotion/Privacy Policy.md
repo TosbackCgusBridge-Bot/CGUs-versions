@@ -72,9 +72,9 @@ You are entitled to access and correct your Data by requesting to do so via the 
 *   OpenVoD
 
 *   Help
+*   Family Filter ON
 *   FAQ
 *   Contact
-*   Family Filter ON
 
 *   Legal terms
 *   Terms of use
