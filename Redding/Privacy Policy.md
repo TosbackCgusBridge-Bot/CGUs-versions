@@ -267,25 +267,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Four companies named best employer in Shasta County Published 10/23/2012 at 10:25 a.m. 22 comments
-*   US may soon become world's top oil producer Published 10/24/2012 at 4:00 a.m. 95 comments
-*   Neither Obama nor Romney can quickly improve economy, expert tells Redding audience Published 10/24/2012 at 12:16 a.m. 92 comments
-*   Thomas Sowell: Libya and the administration's lies Published 10/24/2012 at 12:00 a.m. 115 comments
-*   Hiring of new auditor-controller creates ruckus at supervisors meeting Published 10/24/2012 at 1:04 a.m. 41 comments
+*   UPDATED: Shasta County's motion for preliminary injunction against Anselmo denied Updated 10/25/2012 at 3:43 p.m. 65 comments
+*   Dispute over pot debt leads to shooting, school lock down, deputies say Updated 10/25/2012 at 9:30 a.m. 67 comments
+*   GOP candidates in close races disavow rape remark Published 10/25/2012 at 4:00 a.m. 68 comments
+*   UPDATED: Montague murder victim identified Updated 10/25/2012 at 10:30 a.m. 3 comments
+*   UPDATED: Hayfork man dies in crash Updated 10/25/2012 at 8:52 a.m. 5 comments
 
-Photo Galleries Red Bluff men get marijuana back Farewell Halloween Horse Show at… From the Hearth Cafe drive-thru
+Photo Galleries From the Hearth Cafe drive-thru Red Bluff men get marijuana back Enterprise beats Foothill
 
-*   Roy Hutchings: What's he want to change? Published 10/23/2012 at 12:00 a.m. 150 comments
-*   RedBlue America: Can lost manufacturing jobs be restored? Published 10/22/2012 at 12:00 a.m. 147 comments
-*   Thomas Sowell: Libya and the administration's lies Published 10/24/2012 at 12:00 a.m. 115 comments
-*   US may soon become world's top oil producer Published 10/24/2012 at 4:00 a.m. 95 comments
-*   Neither Obama nor Romney can quickly improve economy, expert tells Redding audience Published 10/24/2012 at 12:16 a.m. 92 comments
+*   Roy Hutchings: What's he want to change? Published 10/23/2012 at 12:00 a.m. 151 comments
+*   Thomas Sowell: Libya and the administration's lies Published 10/24/2012 at 12:00 a.m. 125 comments
+*   US may soon become world's top oil producer Published 10/24/2012 at 4:00 a.m. 99 comments
+*   Neither Obama nor Romney can quickly improve economy, expert tells Redding audience Published 10/24/2012 at 12:16 a.m. 98 comments
+*   Ruth Marcus: What we learned from the debates Published 10/25/2012 at 12:00 a.m. 66 comments
 
-*   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
 *   Dog trainer teaches empathy at Tehama juvenile hall Published 10/15/2012 at 11:40 p.m. 9 comments
+*   Tehama fair devotes day to goat education Published 10/21/2012 at 11:30 p.m. 8 comments
+*   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Published 10/15/2012 at 11:42 p.m. 121 comments
 *   UPDATED: Montague woman, 30, killed by husband, deputies say Published 10/18/2012 at 4:13 p.m. 16 comments
-*   Despite high unemployment, few sign up for Smart job training program Published 10/18/2012 at 12:08 a.m. 36 comments
-*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 114 comments
+*   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
 
 Weather
 
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 47° Overcast Wind: N 4mph Today 67° 44° Thu 05:00 PM Partly Sunny Temp: 66° Fri 05:00 AM Partly Cloudy Temp: 48° Fri 05:00 PM Mostly Cloudy Temp: 71°
+Currently 43° Fair Wind: Calm Today 75° 46° Fri 05:00 PM Partly Sunny Temp: 73° Sat 05:00 AM Partly Cloudy Temp: 48° Sat 05:00 PM Partly Sunny Temp: 79°
 
-Feels Like: 66°
+Feels Like: 73°
 
-Humidity: 34%
+Humidity: 30%
 
-Precip: 6%
+Precip: 10%
 
 Feels Like: 48°
 
-Humidity: 63%
+Humidity: 80%
 
-Precip: 2%
+Precip: 6%
 
-Feels Like: 71°
+Feels Like: 79°
 
-Humidity: 33%
+Humidity: 28%
 
-Precip: 14%
+Precip: 4%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Thursday Oct 25
 *   Friday Oct 26
 *   Saturday Oct 27
+*   Sunday Oct 28
 *   More BROWSE Icon
-
-*   Builders Energy Code Training Shasta Builder's Exchange 2 p.m.
-*   11th annual Power to Seniors Soup Kitchen Redding Veterans Memorial Hall 4:30 p.m.
-*   Film 'Green Fire' Redding Library 5:30 p.m.
-*   Anderson Senior Citizens dancing Frontier Senior Center 6:30 p.m.
-*   Shasta Scottish Country dancers See Description 6:30 p.m.
-
-More Events »
 
 *   Artist's Submissions for Juried Autumn Art Show Carter House Art Gallery
 *   Stand Down Shasta District Fair grounds 8 a.m.
@@ -353,6 +345,14 @@ More Events »
 *   Whiskeytown Trail Runs Brandy Creek Marina 8 a.m.
 *   Search for the Spawning Salmon See Description 9 a.m.
 *   Shasta Land Trust's Halloween at Samwell Cave Shasta Land Trust 10 a.m.
+
+More Events »
+
+*   Ride On Race Series Contact for Location Information 11 a.m.
+*   Spiritual Discussion Contact for Location Information 11:30 a.m.
+*   Shasta Symphony Orchestra Redding's 125th Anniversary Concert Shasta College Theater 3 p.m.
+*   Third annual Historic Parkville Cemetery Tour See Description 7 p.m.
+*   Jefferson State Blues Society Jam Eddy's 5 p.m.
 
 More Events »
 
