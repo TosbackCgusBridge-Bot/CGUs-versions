@@ -33,7 +33,7 @@ Skip to Main Content Area Home   X Connect With Mitt Follow @MittRomney Login |
 *   News &. Media
     
     *   Featured Blog
-    *   Less Than Two Weeks Away Read More
+    *   The Momentum Read More
     *   More News
     
     *   Videos
