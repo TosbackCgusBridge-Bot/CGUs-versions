@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Oct 25, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Oct 26, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -167,32 +167,32 @@ Legacy Project
 Pro Farmer  
 Top Producer Blog  
 Multimedia  
-News Agriculture News Read the latest agriculture news for crops, livestock, marketing and more. YEAR: All201220112010MONTH: AllJanFebMarAprMayJunJulAugSeptOctNovDec DAY: All 1 2 3 4 5 Next 255075100 10/25/2012  
-Former Ag Secretary makes Election Predictions Read Full Story 10/25/2012  
-Straight from the Heartland: Production Costs or Percentage of Production Read Full Story 10/25/2012  
-Texas High Plains Cotton Could be Above 10-Year Average Read Full Story 10/25/2012  
-I-80 Harvest Tour: Better-than-Expected Beans Read Full Story 10/24/2012  
-Do You Have Facebook? Read Full Story 10/24/2012  
-Become the 2013 Top Producer of the Year Read Full Story 10/24/2012  
-Iowa Expands Operation Area for Covered Farm Vehicles Read Full Story 10/24/2012  
-Warm Weather Aids Winter Wheat Growth, Summer Harvest Read Full Story 10/24/2012  
-Wheat Prices Set to Bounce Up Read Full Story 10/24/2012  
-AgWeb Radio: Closing Commentary 10-24-12 Read Full Story 10/24/2012  
-Dairy Marketing Strategies to Manage Risk Read Full Story 10/24/2012  
-AgWeb Radio: Midday Commentary 10-24-12 Read Full Story 10/24/2012  
-Farmers Field Food Questions with TV's Anderson Cooper Read Full Story 10/24/2012  
-National FFA Plans to Eliminate Hunger with Million-Meal Rally Read Full Story 10/24/2012  
-Merial Launches New Website for Producers Read Full Story 10/24/2012  
-AgWeb Radio: Opening Commentary 10-24-12 Read Full Story 10/24/2012  
-Consumer Ag Connection: Sukup Grain Bin Housing 10-27 Read Full Story 10/24/2012  
-Cattle Prices Will Continue to Rise Read Full Story 10/24/2012  
-Free Irrigation Tool Aims to Provide Efficient Water Use Read Full Story 10/24/2012  
-The 'Slippery Slope' of Milk Prices Read Full Story 10/24/2012  
-Know an Outstanding Young Farmer? Read Full Story 10/23/2012  
-USDA Announces Funding for Projects to Boost Renewable Energy Production, Reduce Energy Consumption Read Full Story 10/23/2012  
-AgWeb Radio: Weekly National Posted Prices for Peanuts 10-23-12 Read Full Story 10/23/2012  
-Snow Heads for Northern Plains, High Plains Read Full Story 10/23/2012  
-AgWeb Radio: Closing Commentary 10-23-12 Read Full Story
+News Agriculture News Read the latest agriculture news for crops, livestock, marketing and more. YEAR: All201220112010MONTH: AllJanFebMarAprMayJunJulAugSeptOctNovDec DAY: All 1 2 3 4 5 Next 255075100 10/26/2012  
+Global Stocks-to-Use on Corn at Multi-Decade Low Read Full Story 10/26/2012  
+Grains are Quiet in Overnight Session Read Full Story 10/26/2012  
+Aflatoxin Expert Talks Drought, Corn Blending, 2013 Weather Read Full Story 10/26/2012  
+1966 Case 730 Diesel, Comfort King Read Full Story 10/26/2012  
+Extreme Weather Can Help Define Management Zones Read Full Story 10/25/2012  
+EHedger Afternoon Grain Commentary 10/25/12 Read Full Story 10/25/2012  
+AgWeb Radio: closing Commentary 10-25-12 Read Full Story 10/25/2012  
+Weak Corn Demand Continues To Pressure Market Read Full Story 10/25/2012  
+3 Checklists to Maximize Your Herd Vaccination Program Read Full Story 10/25/2012  
+AgWeb Radio: FFAâs Rally to Fight Hunger Read Full Story 10/25/2012  
+Grains Back Off, Corn Closes Below Support Read Full Story 10/25/2012  
+Rain Expected in Eastern Corn Belt Read Full Story 10/25/2012  
+Power Hour: $21,900 per Acre for Sioux County Farmland Read Full Story 10/25/2012  
+Farm Journal Foundation Announces the 14th Farm Journal Forum Read Full Story 10/25/2012  
+Pulling Back the Dr. Oz Green Curtain Cover-Up Read Full Story 10/25/2012  
+BOO! Read Full Story 10/25/2012  
+(3 Comments) $21,900 per Acre for Sioux County Farmland! Read Full Story 10/25/2012  
+Grains Trade Lower--What Are Fundamentals Indicating? Read Full Story 10/25/2012  
+Magazine Names Largest USA LandOwners Read Full Story 10/25/2012  
+(2 Comments) Study: Selective Dairy Breeding Could Help Prevent Lameness, Boost Productivity Read Full Story 10/25/2012  
+AgWeb Radio: Midday Commentary 10-25-12 Read Full Story 10/25/2012  
+Side-by-Side Machine Surfacing Read Full Story 10/25/2012  
+National Dairy FARM Animal Care Program Findings Demonstrate Widespread Adherence to Guidelines Read Full Story 10/25/2012  
+Freeze Warnings for Wheat across Southern Plains Read Full Story 10/25/2012  
+The Debates Are Over, But the Jokes Keep Coming Read Full Story
 
 1 2 3 4 5 Next RSS AgWeb News Wire
 
