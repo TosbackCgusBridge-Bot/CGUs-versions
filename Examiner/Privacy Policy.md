@@ -104,13 +104,13 @@ We reserve the right to update or modify this Privacy Policy, at any time and wi
 
 Follow UsTwitter
 
-*   China Glaze allegedly rips off artist’s work for Halloween nail campaign t.co/QRbZBFcI
+*   Tony Lucca, Justin Hopkins have bright post-'The Voice' futures t.co/oBgsE0qx
     
-    2 hours ago
-*   Samantha Geimer to write Roman Polanski sex scandal tell-all t.co/LHVvFPlN
+    1 hour ago
+*   Southeast U.S. on guard after Hurricane Sandy slams Cuba, moves north: Hurricane Sandy left its mark on Cuba Thu... t.co/HCznR5BT
     
-    2 hours ago
-*   Former Senator @RickSantorum in Spokane to speak against gay marriage referendum, no press allowed t.co/1PiCFCy3
+    1 hour ago
+*   Riggs climbs into No. 92 truck at Martinsville t.co/cG5zWmQV
     
     2 hours ago
 
