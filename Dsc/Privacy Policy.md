@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Gold Rush: AlaskaNever Say Die 8:00PM Gold RushRevelations 9:00PM Gold Rush: Off-Season Special  TV SHOWS
+SHOWS ON TONIGHT Full Schedule 6:30PM Gold RushJudgment Day 7:30PM Gold Rush (Season 3 Specials)Do Or Die 9:00PM Gold Rush (Season 3)Million Dollar Season TV SHOWS
 
 American Chopper
 
@@ -330,21 +330,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-Chronicle of a Sperm Whale Death Unsolved
+What Happened at the OK Corral?
 
-Could Mars Rover Curiosity Come Home?
+Space Station Gets Fish Tank Stocked: DNews Nugget
 
-IKEA Energy-Independent by 2020: DNews Nugget
+Easter Island Statues Could Have 'Walked'
 
-Surprise! NuSTAR Spots Galaxy's Black Hole Flash
+Dinosaurs Looking for Love Grew Alluring Feathers
 
-Earth's Magnetic Field Made Quick Flip-Flop
+Planning for an Interstellar Road Trip
 
-Excellent Idea of the Day: Good Grandmothering
+Sand Dunes Singing the Chaos Blues
 
-Swarm Bots and Drones Team Up
+'Black Widow' Pulsar Is Fastest Star Killer
 
-Baby Beluga Whale Is... a Girl!
+Fukushima Fish Still Radioactive
 
   facebook share0 Tweet Privacy Policy  
 
@@ -550,38 +550,33 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 25,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 26,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 25,  
+Oct 26,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 25,  
+Oct 26,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 25,  
+Oct 26,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 25,  
+Oct 26,  
 9:00 am  
-60 min(s)  
-**The FBI Files**  
-_Deadly Influence_  
- July 29, 1985, a marine salvager finds the bodies of three known  
-**More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
-$47.95  
-  **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
-$12.95   **Discovering Ardi DVD**  
-$19.95   **Discovery Channel Polymer Chemistry Set**  
-$19.95        
+30 min(s)  
+**Property Wars**  
+_Timber!_  
+ Scott and Doug's rivalry comes to a head, leading Doug to overpay  
+**More Listings »**   Shop Discovery Store      
 
 our sites
 
