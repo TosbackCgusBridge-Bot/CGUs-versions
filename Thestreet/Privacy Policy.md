@@ -85,16 +85,15 @@ A NOTE FROM JILL MALANDRINO
 
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
-*   Options Webinar
 *   Zynga
-*   Samsung Galaxy Note
-*   Let Detroit Go Bankrupt
-*   Gold
-*   Fed Notes
-*   Dow 55,000
-*   Gupta
+*   Guide to Windows 8
+*   Genta Chapter 7
+*   Gold Prices
+*   Cramer's 8-Point Plan
+*   Ford
+*   Apple Earnings
 
-pjava01.dc.thestreet.com Privacy Policy
+pjava04.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -206,7 +205,7 @@ Product Features:
 *   Intraday trade alerts
 *   Weekly roundups
 
-Stocks Under $10 TRY IT FREE
+Stocks Under $10 TRY IT FREE Exclusive limited-time offer!
 
 Jim Cramer's protégé, David Peltier, uncovers low dollar stocks with extraordinary upside potential that are flying under Wall Street's radar.
 
@@ -249,15 +248,15 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,077.34 -25.19 -0.19% NASDAQ 2,981.70 -8.76 -0.29% S&P 500 1,408.75 -4.36 -0.31% US 10 Yr 1.775% +0.011 Brokerage Partners Most Commented
+DOW 13,103.68 26.34 0.20% NASDAQ 2,986.12 4.42 0.15% S&P 500 1,412.97 4.22 0.30% US 10 Yr 1.828% +0.053 Brokerage Partners Most Commented
 
-*   Google Drops the Neutron Bomb: $249 Laptop
-*   Apple: Don't Believe Haters, Hype and Hysteria
 *   Star Scientific's 'Flint' Study Flops
-*   $249 Google Laptop vs. $499+ Windows 8: Fight!
+*   Apple: Don't Believe Haters, Hype and Hysteria
+*   Google Drops the Neutron Bomb: $249 Laptop
 *   Spectrum Pharma: Guessing Q3 Fusilev Sales
+*   'Put the White Back in the White House'?
 
-Articles From Advertising Partners Free Newsletters from TheStreet
+Articles From Newser White iPad Mini Sells Out in 20 Minutes Now 16 Banks Subpoenaed in Libor Mess Apple, Amazon Miss Wall Street Expectations See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
