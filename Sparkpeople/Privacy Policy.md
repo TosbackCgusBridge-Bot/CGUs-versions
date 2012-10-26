@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Licorice Syrup Resources
+*   Kettlebells Workout Resources
 
   
-Stay in Touch With SparkPeople **Cooking with Apples**
+Stay in Touch With SparkPeople **Your Good-Better-Best Guide to the Grocery**
 
-Fall, the apple-picking season, is here! Here's an easy guide to help choose the best apples for your needs, whether baking, cooking, or just simply eating.
+Between availability, taste preferences and budget constraints, it's not always possible to make ideal food choices. Use our "Good-Better-Best" guide to eat optimally in any situation.
 
 Read More
 
-*   Please share your favorite "pumpkin" recipes!
+*   Specific Tips to get through the Weekend
+*   Why the scale isn't a good indicator of health.
 *   Who Motivates you on Sparkpeople?
-*   Do you have a goal after weight loss?
-*   Healthy snack ideas for under 100 calories?
-*   "New to me" foods
+*   What's your "go to" type of workout?
+*   Healthy Halloween snacks
 
-View Demo **Leaning Calf Stretch at Wall**  
-A great stretch for walkers and runners **Grilled Zucchini with Feta and Pesto**  
+View Demo **Two-Leg Standing Balance on Board**  
+The perfect move to start your balance training program. **Cranberry-Orange Creme Brulee**  
 Submitted By: **CHEF\_MEG**
 
-Take some help from the store: Feta and pesto dress up grilled zucchini. Full Recipe
+This creme brulee recipe is full of flavor not fat--perfect for a dessert on a chilly evening. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
