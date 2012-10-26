@@ -23,23 +23,23 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 24 10:00 PM · OJO POR OJO coming up next:
+schedule right now: October 25 10:00 PM · OJO POR OJO coming up next:
 
 *   11:00 PM · OJO POR OJO
-*   12:00 AM · LARRYMANIA
+*   12:00 AM · OPERACION REPO
+*   12:30 AM · OPERACION REPO
 *   1:00 AM · DECISIONES
-*   2:00 AM · L'CREME
+*   2:00 AM · DELICIOUS
 *   3:00 AM · MORNING BREATH
 *   4:00 AM · MORNING BREATH
 *   5:00 AM · MORNING BREATH
 *   6:00 AM · SMB
-*   8:00 AM · MORNING BREATH
+*   8:00 AM · REVENTON
 *   9:00 AM · MORNING BREATH
 *   10:00 AM · L'CREME
-*   11:00 AM · MORNING BREATH
-*   12:00 PM · L'CREME
-*   1:00 PM · REVENTON
-*   2:00 PM · L'CREME
+*   11:00 AM · L'CREME
+*   12:00 PM · DELICIOUS
+*   1:00 PM · AL CIEN 100%
 
 see full schedule >>.
 
