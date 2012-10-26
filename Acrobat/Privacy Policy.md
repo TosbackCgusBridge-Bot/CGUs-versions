@@ -49,9 +49,9 @@ Need additional help? Ask a question Products
 *   Acrobat
 *   Creative Cloud
 *   Creative Suite
-*   Digital Marketing Suite
 *   Digital Publishing Suite
 *   Elements
+*   Adobe Marketing Cloud
 *   Mobile Apps
 *   Photoshop
 *   Touch Apps
