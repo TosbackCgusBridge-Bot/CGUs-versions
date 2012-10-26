@@ -128,4 +128,4 @@ Book Self Publishing
 Gospel for Asia  
 Medi-Share
 
-Reflect on the true meaning of gratitude this holiday season—sign up for our new Thanksgiving email devotional! Close
+Reflect on the true meaning of gratitude this holiday season—sign up for our new Thanksgiving email devotional!
