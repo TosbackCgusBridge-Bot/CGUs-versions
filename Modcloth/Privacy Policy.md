@@ -224,9 +224,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   From Chintzy to Chic: A DIY Hama Bead Necklace that Doesnât Kid Around
-    *   Street Style: City Chic
-    *   Fan Fare: Imaginary Fashion Blogger Cecily Wears Eva Franco
+    latest blog posts*   Pinhole Cameras: Octoberâs Book of the Month Giveaway
+    *   Fave Finds: Barboraâs Minty Fresh Purse
+    *   From Chintzy to Chic: A DIY Hama Bead Necklace that Doesnât Kid Around
     
     *   modcloth blog
     *   In Other Words
