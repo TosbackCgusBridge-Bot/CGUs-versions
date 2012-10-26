@@ -4,6 +4,7 @@ Blurtit Answer Questions  or Ask a Question
 *   Help
 *   Sign in
 *   Sign up
+*   Discover
 
 Privacy Policy
 
