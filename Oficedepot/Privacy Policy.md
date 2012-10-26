@@ -12,7 +12,7 @@ Loading Results... Skip to content
 *   Customer Service
 *   1.800­.GO.DEPOT (1.800.­463.3768) Close X
     
-    **Session:** 0000ji2k\_segNAMXrzZOmJ7ypbv  
+    **Session:** 0000O\_EINVcoHeDGbksxnxvTZV1  
     **Clone:** 1659q38ci
     
 
@@ -411,7 +411,7 @@ Subtotal
     
     Current Offers
     
-    Pre-order your Windows 8 PC or Tablet today
+    Order your Windows 8 PC or Tablet today
     
     HP LaserJets on Sale. Save up to $100
     
