@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Mourdock stands by rape remarks, refuses to apologize
-2.  With 60,000 dead, Mexicans wonder why drug war doesn't rate in presidential debate
-3.  October surpri...zzzzz: Donald Trump's Obama 'bombshell' fizzles
-4.  Halloween scare? Hurricane Sandy shows similarities to 'perfect storm.' (+video)
-5.  Humongous Milky Way photo captures 84 million stars
+1.  Colorado: Teen confesses to Jessica Ridgeway's murder (+video)
+2.  Rare ladybug in Montana behaves like a turtle
+3.  Cuba: Hurricane Sandy leaves destruction in its wake (+video)
+4.  New York City: Police officer dreams up cannibalism plot (+video)
+5.  Antarctic Ozone Hole 2nd Smallest in 20 Years
 
 About these ads
 
@@ -111,17 +111,17 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Focus  
-    Can a gang truce in El Salvador open the door to lasting peace?
+*   Briefing  
+    Who are China's potential new leaders?
     
-    For years El Salvador battled gangs with prison sentences and an iron fist. But a gang truce brokered in March has lasted longer than anyone expected, with homicide rates plummeting.
+    China's once-a-decade power transition in November may promote these five party members.
     
-*   Progress Watch: Confounding expectations, global hunger is down (+video)
-*   Decoder Wire: October surpri...zzzzz: Donald Trump's Obama 'bombshell' fizzles
-*   Will the Tour de France be able to overcome Lance's legacy?
-*   Decoder Wire: Will Richard Mourdock's rape remarks hurt Mitt Romney? (+video)
+*   Progress Watch: Can we protect 10 percent of the oceans? Momentum is growing.
+*   Not a trick or a treat: Hurricane Sandy could hit as monster hybrid storm
+*   Richard Mourdock: the theology behind his rape comments
+*   Decoder Wire: Is Donald Trump trying to sabotage the Republican Party? (+video)
 
-_Photos of the day_ 10.24.12 » Photos of the Day 10/24
+_Photos of the day_ 10.25.12 » Photos of the day 10/25
 
 **CSMonitor.com** on Facebook
 
@@ -143,18 +143,18 @@ Steven Amstrup says it's not too late to save polar bears – and ourselves
 
 Become part of the Monitor community
 
+*   World Briefing: Who are China's potential new leaders?
+*   Making a Difference John Bergmann runs a special zoo for older, exploited, and abused animals
 *   USA 2012 World Series quiz: How much do you know about the Detroit Tigers?
-*   Innovation Meet Apple's thinner, faster, stronger iMac
-*   The Culture The X Factor final 16 revealed . . . finally
 *   USA 2012 World Series quiz: Are you a real San Francisco Giants fan?
+*   Innovation Meet Apple's thinner, faster, stronger iMac
+*   World Focus: Can a gang truce in El Salvador open the door to lasting peace?
+*   The Culture The X Factor final 16 revealed . . . finally
 *   USA Focus: Obama or Romney: Whose debt reduction plan does history favor?
 *   Business Walmart legal troubles mount as Black Friday walkout looms
 *   USA Aaron, Eli, and Andrew: quarterbacks on parade. A Week 7 NFL quiz
-*   Making a Difference Steven Amstrup says it's not too late to save polar bears – and ourselves
 *   The Culture Lindsay Lohan intervention: Why did it fail? (+video)
 *   Commentary The Monitor's View: With Lance Armstrong stripped of Tour de France titles, cycling can recover
-*   The Culture Chevy Chase rant: 'Community' star uses racial epithet on set
-*   Books Pippa Middleton: Why am I famous?
 
 About these ads
 
