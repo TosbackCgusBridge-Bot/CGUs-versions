@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Poll shows Proposition 30 in a virtual tie. Brown says 'stakes are serious' Published 10/24/2012 at 9:01 p.m. 97 comments
+*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Updated 10/25/2012 at 6:44 p.m. 87 comments
+*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 19 comments
 *   In tears, Oxnard teacher tells what led her to play roles in X-rated films Updated 10/25/2012 at 8:10 p.m.
-*   Concert canceled and moved after fairgrounds officials object to band's lyrics Updated 10/25/2012 at 6:44 p.m. 18 comments
-*   Police chase topped 110 mph before ending in Santa Paula Published 10/24/2012 at 10:28 p.m.
-*   Oxnard wrestles with tension over police shooting Published 10/24/2012 at 8:01 p.m.
+*   Man, 61, dies after traffic collision near Highway 33 Updated 10/26/2012 at 3:44 p.m.
+*   Money missing from armored vehicle stolen in Thousand Oaks Updated 10/26/2012 at 3:16 p.m.
 
-Photo Galleries In tears, Oxnard teacher tells what… Ventura County's Most Wanted October… Protesters condemn Oxnard shootings
+Photo Galleries Ventura County's Most Wanted October… In tears, Oxnard teacher tells what… Camarillo vs Pacifica
 
-*   Foreign policy fireworks: Face-off before election Updated // at : 155 comments
-*   Poll shows Proposition 30 in a virtual tie. Brown says 'stakes are serious' Updated // at : 97 comments
-*   Organizer with Oxnard roots wants 12 million Latino voters Updated 10/23/2012 at 8:39 p.m. 64 comments
+*   Poll shows Proposition 30 in a virtual tie. Brown says 'stakes are serious' Updated // at : 107 comments
+*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Updated 10/25/2012 at 6:44 p.m. 87 comments
 *   Morning chat Updated // at : 75 comments
-*   Morning chat Updated // at : 70 comments
+*   Morning chat Updated // at : 71 comments
+*   Organizer with Oxnard roots wants 12 million Latino voters Updated 10/23/2012 at 8:39 p.m. 64 comments
 
+*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Updated // at : 19 comments
 *   Oaks Christian might have broken football recruitment rules – Video Updated // at : 0 comments
 *   Scores of dogs seized from Simi Valley home now up for adoption Updated 10/17/2012 at 7:16 p.m. 16 comments
-*   Chumash looking to acquire portion of Santa Susana Field Lab Updated 10/15/2012 at 6:32 p.m. 22 comments
-*   Norovirus outbreak hits Oak Park school Updated 10/15/2012 at 6:04 p.m. 8 comments
 *   Firefighters battle Lookout Fire near Santa Barbara that threatened about 100 homes Updated 10/17/2012 at 5:44 p.m. 0 comments
+*   Longtime Conejo Valley educator Carol Philips dies, 64 Updated 10/22/2012 at 5:52 p.m. 0 comments
 
 Weather
 
@@ -660,23 +660,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 71° Fair and Breezy Wind: E 21mph Today 79° 58° Fri 05:00 PM Sunny Temp: 77° Sat 05:00 AM Clear Temp: 55° Sat 05:00 PM Sunny Temp: 80°
+Currently 70° Fair Wind: E 13mph Today 83° 53° Sat 05:00 PM Sunny Temp: 82° Sun 05:00 AM Clear Temp: 57° Sun 05:00 PM Sunny Temp: 77°
+
+Feels Like: 81°
+
+Humidity: 32%
+
+Precip: 0%
+
+Feels Like: 57°
+
+Humidity: 47%
+
+Precip: 0%
 
 Feels Like: 77°
 
-Humidity: 30%
-
-Precip: 0%
-
-Feels Like: 55°
-
-Humidity: 34%
-
-Precip: 0%
-
-Feels Like: 80°
-
-Humidity: 42%
+Humidity: 48%
 
 Precip: 0%
 
@@ -702,15 +702,15 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   If you can tell a person by who their friends are...
 *   Is Todd Zink a 'radical'?
 *   'Ladies and gentlemen, the former president of the...'
 *   'Real people' and a real mistake
-*   Capps-Maldonado race could be getting interesting
 
 Brian Dennert here
 
+*   Campaign Finance reports
 *   Bill Clinton: "I want a president and a Congress that loves it when unemployment drops."
-*   What issues are not being discussed enough?
 
 Ingemusings
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Friday Oct 26
 *   Saturday Oct 27
 *   Sunday Oct 28
+*   Monday Oct 29
 *   More BROWSE Icon
-
-*   RIDE 2 RECOVERY GOLDEN STATE CHALLENGE COMES TO VENTURA AS PART OF INJURED VETERANS’ 450-MILE RIDE F Marriott Hotel 2055 East Harbor Blvd., Ventura 9 a.m.
-*   RIDE 2 RECOVERY GOLDEN STATE CHALLENGE COMES TO VENTURA AS PART OF INJURED VETERANS’ 450-MILE RIDE F Marriott, 2055 East Harbor Blvd., Ventura 11:30 a.m.
-*   CI announces Fall Economic Forecasting Conference CSUCI California State University noon
-*   RIDE 2 RECOVERY GOLDEN STATE CHALLENGE COMES TO VENTURA AS PART OF INJURED VETERANS’ 450-MILE RIDE Marriott Ventura Beach 2:30 p.m.
-*   RIDE 2 RECOVERY GOLDEN STATE CHALLENGE COMES TO VENTURA AS PART OF INJURED VETERANS’ 450-MILE RIDE F Marriott Hotel 2055 East Harbor Blvd., Ventura 2:30 p.m.
-
-More Events »
 
 *   Project Future Golf Tournament Brookside Golf Club 8 a.m.
 *   SeaSide Feather Fanciers Ninth Annual "Bash At the Beach" Poultry Show Ventura County Fairgrounds 8 a.m.
@@ -753,6 +745,14 @@ More Events »
 
 More Events »
 
+*   Running Biomechanics Presentation Crowne Plaza Beach Hotel, 450 E. Harbor Blvd., Ventura. 6 p.m.
+*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
+*   Children's Art Classes SCIART Gallery 3:30 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
@@ -765,33 +765,33 @@ More Events » Features
     
     See who's supporting who and with how much.
     
-    On Campus
-    
-    Video profiles of high school football programs.
-    
-*   Local haunts
+    Local haunts
     
     Check out and add to our map of local Halloween haunts and events!
+    
+*   On Campus
+    
+    Video profiles of high school football programs.
     
     Football Contest
     
     Follow Loren Ledin's picks and choose your own leaderboard.
     
-    95 percent accurate
-    
-    Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
-    
-*   Storm Shield
+    Storm Shield
     
     A sophisticated weather radio on your iPhone and Android.
     
-    Pigskin Picks
+*   Pigskin Picks
     
     Play our pro football picks contest for a shot at $500 and other prizes.
     
     #Ojai: How You See It
     
     Your photos, your tweets, your Facebook posts about Ojai.
+    
+    95 percent accurate
+    
+    Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
 
 On this site:
