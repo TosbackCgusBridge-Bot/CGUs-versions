@@ -23,8 +23,14 @@
         *   Products
         *   Books
     *   Custom Products
-        *   Custom Invites
-        *   Photo Creations
+        *   Holiday Photo  
+            Cards
+        *   Photo Calendars
+        *   Custom Wedding Invitations
+        *   Canvas Photo  
+            Prints
+        *   Digital  
+            Scrapbooks
     *   Floral
         *   Projects
         *   Products
