@@ -86,8 +86,6 @@
 *   aaron foster
 *   alexander doll
 *   audrey heller
-*   ben and kate gatski
-*   david montgomery
 *   david petr
 *   denise fiedler
 *   dolan geiman
@@ -97,6 +95,7 @@
 *   oliver jeffers
 *   piotr fafrowicz
 *   renee leone
+*   seth anderson
 *   valerie galloway
 *   zlatka paneva
 *   all wall art
