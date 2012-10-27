@@ -27,9 +27,8 @@ Recherche
 *   Emploi
 *   Entreprise
 
-Rejoignez  
-la communauté  
-Inscrivez-vous
+La High-Tech  
+en fête !
 
 *   Accueil ›
 *   Dossiers ›
