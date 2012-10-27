@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   Election 2012
-    *   Obama 2012
-    *   Mitt Romney
     *   entertainment
     *   President Obama
+    *   Obama 2012
+    *   Mitt Romney
+    *   celebrity
     *   Mitt Romney 2012
     *   timeless news
-    *   strange stuff
     *   Barack Obama
-    *   celebrity
+    *   murder
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
@@ -120,63 +120,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   The Insane Defense of the âCastle Doctrineâ Gone Wild
-*   Casino Owners Against Gambling
-*   Play the Slate News Quiz
+*   Richard Mourdock or Abu Hamza?
+*   Cross-Court Winner
+*   Amazon Is a Black Hole Threatening To Devour Corporate...
 
 More from Slate »
 
-*   _$780,000_
-*   Zombies and God: 5 Religious Questions That Zombie Stories...
-*   3 New Fascinating Horror Film Factoids!
+*   Meet The Breastmilk World Record Holder
+*   WATCH: Man Honors Wife's Dying Request With Vaginal...
+*   Homeless Man Allegedly Travels US For 20 Years Using Stolen...
 
 More from HuffPost Weird »
 
-*   8 Women Who Auctioned Off Their Virginity
-*   Taylor Swift And Conor Kennedy Break Up
-*   Richard Mourdock Says âWhoopsies,â Backtracks On Rape...
+*   Justin Timberlake Apologizes For That âHomeless Videoâ
+*   Planned Parenthood Files New Lawsuit Against State Of Texas
+*   How Not To Kiss Like A Zombie &. Why Sex Makes You Smarter
 
 More from The Frisky »
 
-*   Not only do you have to contend with all the poisonous...
-*   This may come as something of a surprise, but Keith...
-*   Ronald McDonald breaches restraining order... by following...
+*   Russian President Putin on 'Pussy Riot': 'They would be at...
+*   North Texas snowflakes' school walk threatened by deadly...
+*   In space, can anyone hear you scream? \[Interesting\]
 
 More from Fark »
 
-*   Why Obama and Romney aren't talking about climate change
-*   The final push: What Mitt Romney needs to do before...
-*   Obama vs. Romney: Who really has the momentum?
+*   An argument for jaywalking
+*   5 ways Hurricane Sandy could impact the presidential race
+*   5 smart reads for the weekend
 
 More from The Week »
 
-*   Frank Rich on Maddow: Romney Still Trying to Win Over His...
-*   President Obama Mocks Paul Ryan's Love of Ayn Rand
-*   Michelle Obama Longs for the Thrill of Shopping at CVS
+*   Juxtaposition of the Day: John McCainâs Increasing...
+*   Harry Reid Hospitalized, But Okay After Motorcade Crash
+*   D.L. Hughley Is Looking Forward to His Next Panhandler...
 
 More from Daily Intel »
 
-*   Ask Healthy Living: Why Can't I Stop Eating At Night?
-*   The Raw Food Diet, Overcooked
-*   Simple Tips To Help Lower Your Stress Levels
+*   10-Minute Stress-Busters For Better Sleep
+*   Are We Out of Time?
+*   The Power of Forgiveness
 
 More from HuffPost Health »
 
-*   'Breaking Dawn -- Part 2' Threatens to Break 'Twilight'...
-*   'Real Housewives of Miami' Star Lisa Hochstein Defends...
-*   Kris Jenner: Throwback Thursday: Little Kourtney and Kim on...
+*   'Real Housewives of Miami' Star Joanna Krupa Goes Nude for...
+*   Jessica Biel's Wedding Dress: Why She Wore Pink
+*   Miranda Kerr Poses in Lingerie for Victoria's Secret...
 
 More from Celebuzz »
 
-*   The 7 Grossest Halloween Treats of All Time (PHOTOS)
-*   Marine Dad Meets Baby for the First Time and Moves Us All...
-*   Nanny Accused of Killing Kids Makes Moms Feel Guilty for...
+*   Autistic Boy Reunited With Mom After 5 Nightmarish Years...
+*   Too-Sexy Breast Cancer PSA Totally Misses the Point (VIDEO)
+*   Breath-Holding Toddlers Are Manipulating Terrified Moms
 
 More from The Stir »
 
-*   Pearle Vision Conducts Agency Review
-*   The 2012 Jay Chiat Awards for Strategic Excellence: The...
-*   The 2012 Jay Chiat Awards for Strategic Excellence
+*   Trailer Mash 10-26-12
+*   TV Political Files Disappoint Public Interest Groups
+*   Brand Genius 2012: Brian Niccol, Taco Bell
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
