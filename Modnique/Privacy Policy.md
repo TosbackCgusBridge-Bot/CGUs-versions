@@ -48,16 +48,17 @@ Loading Modnique - Boutique Events
     *   Anne Klein and Michael Kors Outerwear
     *   Bague a Dames Jewelry &. Watches
     *   Bear Paw, Muk Luks, and Pajar Andre
-    *   Designer Jewelry
-    *   Designer jewelry from $5
-    *   Elizabeth Grant Cosmetics
-    *   Eveningwear By Nicole Miller &. Shail K
-    *   Jewelry box must-haves
-    *   Koret handbags
-    *   Shades Of Grey
-    *   Winter essentials for her from $19
-    *   Winter sparkles: jewelry for her
-    *   Wow couture Dresses
+    *   For Party Season: gemstone jewelry deals
+    *   Ivanka Trump and Misook Apparel
+    *   Jean Louis Scherrer women's shoes
+    *   Look of The Day
+    *   M Missoni Women's Apparel
+    *   Martina Caponi Handbags Born In Florence
+    *   One &. Only: Luxury Jewelry for Her
+    *   Prada, Gucci, Fendi and more italian designers handbags
+    *   Red Alert
+    *   Silver jewelry under $49
+    *   Women's Fragrances: Prada, Versace, Lacoste
     *   _more..._
     *   men
     *   Fresh Brand, Report Collection, Maglierie di Perugia &. Il Moro Di Venezia
@@ -65,18 +66,18 @@ Loading Modnique - Boutique Events
     *   Versace Men's Scarves and Ties
     *   _more..._
     *   other
-    *   Converse Featuring Men's and Women's Shoes
-    *   Patek Philippe , Chaumet,Audemars Piguet and more watches
-    *   Swiss made designer watches
+    *   Lancaster Watches Made In Italy Blowout
+    *   Unanyme De Georges Rech Gloves
     *   _more..._
 *   apparel
     *   women
     *   Anna Kevin Women's Apparel
     *   Anne Klein and Michael Kors Outerwear
-    *   Emanuel Ungaro women's apparel
-    *   Eveningwear By Nicole Miller &. Shail K
+    *   Ivanka Trump and Misook Apparel
     *   Jeanne Darc, No Limit, Vipart Women's Apparel
-    *   Rain Women's Apparel
+    *   Look of The Day
+    *   M Missoni Women's Apparel
+    *   Red Alert
     *   Shades Of Grey
     *   Unanyme by Georges Rech Women's Apparel
     *   Winter essentials for her from $19
@@ -85,30 +86,32 @@ Loading Modnique - Boutique Events
     *   men
     *   Fresh Brand, Report Collection, Maglierie di Perugia &. Il Moro Di Venezia
     *   _more..._
+    *   other
+    *   _more..._
 *   Jewelry &. Watches
     *   women
     *   Affordable Jewelry
-    *   BOMA Ladies Turquoise Earrings
     *   Bague a Dames Jewelry &. Watches
     *   Designer Jewelry
     *   Designer jewelry from $5
+    *   For Party Season: gemstone jewelry deals
     *   Handmade in Italy jewelry
     *   Jewelry box must-haves
-    *   Lauren G. Adams
+    *   Ladies Necklace Designed In 925 Sterling Silver
+    *   Look of The Day
     *   Murano Glass &. Venetiaurum Jewelry
-    *   Our Favorite Diamond Styles
+    *   One &. Only: Luxury Jewelry for Her
     *   Pretty in Pearls
+    *   Silver jewelry under $49
     *   Winter sparkles: jewelry for her
     *   _more..._
     *   men
     *   Men's jewelry sale
     *   _more..._
     *   other
-    *   Akribos XXIV, Adee Kaye, Croton, Blumarine and more
     *   Color love: jewel-toned watches
     *   DYRBERG/KERN, Chateau D'Argent, Morellato and more
-    *   Ice Watch
-    *   Patek Philippe , Chaumet,Audemars Piguet and more watches
+    *   Lancaster Watches Made In Italy Blowout
     *   RAMA SWISS WATCH
     *   Swiss made designer watches
     *   _more..._
@@ -116,6 +119,9 @@ Loading Modnique - Boutique Events
     *   women
     *   Designer Jewelry
     *   Koret handbags
+    *   Look of The Day
+    *   Martina Caponi Handbags Born In Florence
+    *   Prada, Gucci, Fendi and more italian designers handbags
     *   Shades Of Grey
     *   Vecceli handbags
     *   _more..._
@@ -123,16 +129,13 @@ Loading Modnique - Boutique Events
     *   Versace Men's Scarves and Ties
     *   _more..._
     *   other
-    *   Tod's &. Karl Lagerfeld sunglasses
+    *   Unanyme De Georges Rech Gloves
     *   Versace, Prada, Gucci and more Sunglasses
     *   _more..._
 *   shoes
     *   women
     *   Bear Paw, Muk Luks, and Pajar Andre
-    *   Synonyme by Georges Rech
-    *   _more..._
-    *   men
-    *   Men's Shop: DVS Shoes
+    *   Jean Louis Scherrer women's shoes
     *   _more..._
     *   other
     *   Converse Featuring Men's and Women's Shoes
@@ -142,24 +145,24 @@ Loading Modnique - Boutique Events
     *   EF Studio Cosmetics
     *   Elizabeth Grant Cosmetics
     *   Michael Todd Skincare Made In USA
+    *   Women's Fragrances: Prada, Versace, Lacoste
     *   _more..._
     *   men
     *   Men's Fragrances: Armani, CK, Burberry and more
     *   _more..._
+    *   other
+    *   _more..._
 *   men
-    *   Akribos XXIV, Adee Kaye, Croton, Blumarine and more
     *   Color love: jewel-toned watches
     *   Converse Featuring Men's and Women's Shoes
     *   DYRBERG/KERN, Chateau D'Argent, Morellato and more
     *   Fresh Brand, Report Collection, Maglierie di Perugia &. Il Moro Di Venezia
-    *   Ice Watch
+    *   Lancaster Watches Made In Italy Blowout
     *   Men's jewelry sale
     *   Men's Fragrances: Armani, CK, Burberry and more
-    *   Men's Shop: DVS Shoes
-    *   Patek Philippe , Chaumet,Audemars Piguet and more watches
     *   RAMA SWISS WATCH
     *   Swiss made designer watches
-    *   Tod's &. Karl Lagerfeld sunglasses
+    *   Unanyme De Georges Rech Gloves
     *   Versace Men's Scarves and Ties
     *   Versace, Prada, Gucci and more Sunglasses
     *   and many more...
