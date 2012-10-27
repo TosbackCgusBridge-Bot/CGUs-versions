@@ -1,4 +1,4 @@
-Chegg Home search Homework Help eTextbooks Sign In Help -- Chegg.com Privacy Policy
+Chegg.com Privacy Policy
 
 Last Updated: October 22, 2012
 
@@ -173,50 +173,3 @@ Pursuant to California Civil Code Section 1798.83, residents of the State of Cal
 If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to the following email address: legal or write to us at the following mailing address: 3990 Freedom Circle, Santa Clara, CA 95054. You must put the statement "Your California Privacy Rights" in the subject field of your e-mail or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state, and zip code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. Please note that we are only required to respond to one request per customer each year.
 
 For more information about our privacy practices, including when your information may be shared with third parties for purposes other than the direct marketing use by third parties, please review our privacy policy at http://www.chegg.com/privacypolicy/.
-
-ABOUT CHEGG
-
-*   Media Center
-*   Chegg For Good
-*   Privacy Policy
-*   Your CA Privacy Rights
-*   Terms of Use
-*   General Policies
-*   Intellectual Property Rights
-
-RESOURCES
-
-*   Site Map
-*   Mobile
-*   Publishers
-*   Brand Partners
-*   Join Our Affiliate Program
-*   Flashcards App
-*   Campus Crew
-
-HELPFUL LINKS
-
-*   Return Your Books
-*   eTextbooks
-*   Used Textbooks
-*   Cheap Textbooks
-*   College Textbooks
-*   Sell Textbooks
-*   Homework Help
-*   Chegg Coupon
-*   Scholarships
-*   Solutions Manual
-
-COMPANY
-
-*   Management
-*   Blog
-*   Jobs
-*   Customer Service
-*   Give Us Feedback
-
-Chegg Plants Trees
-
-© 2003-2012 Chegg Inc. All rights reserved.
-
-Over 5 million trees planted
