@@ -1,4 +1,4 @@
-**TRENDING** MITT ROMNEY | COLIN POWELL | DONALD TRUMP | BARACK OBAMA | NEW YORK CITY POLICE DEPARTMENT | COMCAST
+**TRENDING** MITT ROMNEY | HARRY REID | INSIDER TRADING | BARACK OBAMA | COLIN POWELL | JOE BIDEN
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  Ann Coulter sticks by 'retard' tweet, says 'screw them' to the word police \[AUDIO\] The top five reasons Politico is garbage, in their own words FLASHBACK: Obama broke with colleagues, voted present on protecting rape victims in '99 state Senate vote    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  **'WE'RE FINDING OUT'** FLASHBACK: Obama broke with colleagues, voted present on protecting rape victims in '99 state Senate vote Diversity may be fatal, says new government health study    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-‘What’s bad for the country is good for the Nation’ 2:57 PM 10/25/2012 Washington Post tweets praise for pro-gay rights fundraiser \[UPDATED\] 1:22 PM 10/25/2012 Did the Web lead Obama astray? 3:30 AM 10/26/2012 Can we blame Fannie again? 8:44 PM 10/25/2012 Keith Olbermann will host for food 4:05 PM 10/25/2012 Ted Turner: “I think it’s good” that more U.S. troops are dying of suicide than in combat 3:34 PM 10/25/2012 Ask Matt Labash: The joys of self-entitlement programs, undecided voters — an un-appreciation, and Lizard Kings 12:43 AM 10/24/2012 Leaders with Ginni Thomas: Bishop E.W. Jackson 9:18 PM 10/21/2012 Bishop Jackson: Black churchgoers shaken by Obama backing gay marriage \[VIDEO\] 3:48 AM 10/20/2012 Top 10 smartest countries \[SLIDESHOW\] 2:06 AM 10/26/2012 Gloria Allred’s hottest clients \[SLIDESHOW\] 3:39 PM 10/25/2012 Political Face/Off: Which politicians could use some plastic surgery? 1:29 AM 10/25/2012 Kate vs. Fred: Which Upton wore it best? \[SLIDESHOW\] 1:18 AM 10/25/2012 See More Why don’t white liberals vote for black politicians? 6:25 PM 10/24/2012 Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Videos Contests Sections
+Lagniappe … 1:22 PM 10/26/2012 ‘What’s bad for the country is good for the Nation’ 2:57 PM 10/25/2012 Benghazi: CIA operators made three separate requests for help, were turned down 1:14 PM 10/26/2012 I think Lena Dunham’s Obama ad is great and she should do a bunch more just like it 11:04 AM 10/26/2012 Did the Web lead Obama astray? 3:30 AM 10/26/2012 Can we blame Fannie again? 8:44 PM 10/25/2012 Why don’t white liberals vote for black politicians? 6:25 PM 10/24/2012 Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Wealthiest political pundits \[SLIDESHOW\] 12:03 AM 10/27/2012 Women of questionable morals: A history \[SLIDESHOW\] 11:41 AM 10/26/2012 Top 10 smartest countries \[SLIDESHOW\] 2:06 AM 10/26/2012 Gloria Allred’s hottest clients \[SLIDESHOW\] 3:39 PM 10/25/2012 See More Leaders with Ginni Thomas: Bishop E.W. Jackson 9:18 PM 10/21/2012 Bishop Jackson: Black churchgoers shaken by Obama backing gay marriage \[VIDEO\] 3:48 AM 10/20/2012 Ask Matt Labash: The joys of self-entitlement programs, undecided voters — an un-appreciation, and Lizard Kings 12:43 AM 10/24/2012 Videos Contests Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   Can we blame Fannie again?
-*   Greg Gutfeld asks ‘why can you politicize bin Laden and not Benghazi?’ \[VIDEO\]
-*   New ad from Todd Akin campaign attacks Sen. Claire McCaskill as corrupt
+*   Google releases ‘Frankenstorm’ crisis map ahead of Hurricane Sandy’s arrival
+*   Oakley takes augmented reality to the slopes with new Airwave goggles
+*   Where has all the world’s gold gone?
 
 Corporate
 
