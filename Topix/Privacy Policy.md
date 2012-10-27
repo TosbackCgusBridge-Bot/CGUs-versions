@@ -12,15 +12,15 @@ Sign In
 
 Iran
 
-UK: Contingency planning with the US isn't aimed at readying a...
+Report: Iran rejects EU delegation demand to meet 2 jailed dis...
 
-Syria
+Mitt Romney
 
-Skirmishes reported as cease-fire begins in Syria
+Three Things We Learned from Romney's '91...
 
 Politix
 
-Are labor unions too powerful?
+Who's the worst pundit?
 
 *   Home
 *   Forums
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
- 
+  Ads by Glam
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 115,172 • Total comments across all topics: 189,190,076
+Comments made yesterday: 104,864 • Total comments across all topics: 189,285,347
 
 Copyright ©2012 Topix LLC
 
