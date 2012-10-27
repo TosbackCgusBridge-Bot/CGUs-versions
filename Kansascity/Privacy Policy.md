@@ -134,33 +134,30 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $10 Value: Discount: You Save: $20 50% $10
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $0 Value: Discount: You Save: $0 100% $0
 
-Friday: Five things to do
+Saturday: CVS, Walgreens Deals CVS
 
-*   Lego Creationary Challenge
-*   Spring Family Fun Days Fall Festival
-*   Captain America Character Appearance
-*   Dancing Spider
-*   Junior League of Kansas City Holiday Mart
+*   Zantac 150, 24ct, or Zantac 75, 30ct - $8.99
+*   Get $1 Extra Bucks WYB (3) Stride ID or Spark Gum, 14ct - $1.00
+*   Post Honey Bunches of Oats, Great Grains, or Raisin Medley, 13-17oz - $3.00
+*   more...
 
 1.  Apartment Maintenance Helper
     
-2.  Parts Project Coordinator
+2.  SEASONAL DRIVERS
     
-    Central Power Systems &. Services, Inc.
+    Kelly Services
     
-3.  OPERATING MANAGER
+3.  PROGRAM DIRECTOR
     
-4.  PROGRAM DIRECTOR
+4.  SEASONAL DRIVERS
     
-5.  CAMPAIGN JOBS
+    Kelly Services
     
-    Grassroots Campaigns, Inc.
+5.  SALES
     
-6.  SENIOR PIPE DESIGNER
-    
-    THOMAS RUSSELL CO.
+6.  SALES
     
 
 View More The Most
@@ -168,16 +165,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Chiefs fans feel ignored
-*   Romney pressed on abortion question
-*   Gardner woman in Illinois is shot by police, runs into house with baby in car
-*   What the men of the GOP don’t get about rape and abortion
-*   Gasoline prices dive toward $3 a gallon
-*   Chiefs’ running game gets boost with Hillis’ return
+*   Did Royals signal offseason plan by claiming Volstad on waivers from Cubs?
+*   Poll: McCaskill narrowly ahead of Akin, Romney with big lead in Missouri
+*   Daboll adjusts Chiefs’ offensive plans to fit Quinn
+*   Mizzou’s Mike Dixon, Dominique Bull suspended indefinitely
+*   K-State fan brings purple-hued sex appeal to sports betting world
+*   Man with gun robs Family Dollar in Kansas City
+*   Former Royals pitcher Affeldt finds success and purpose with Giants
+*   Guilty verdict in triple murder at Red Roof Inn
+*   JoCo grand jury dismisses obscenity question involving arboretum statue
 *   Its on: Chiefs Hali calls Raiders dirty
-*   How Tippi Hedren ran afoul of Alfred Hitchcocks blond fixation and paid the price
-*   Cash flow in Missouri U.S. Senate race is one-sided in McCaskill's favor
-*   Huge 'Perfect Storm', Sandy, could impact East Coast
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
