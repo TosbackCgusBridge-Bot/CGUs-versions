@@ -73,11 +73,11 @@ What's Hot
 
 Save Your Favorite Shows!
 
-_Franklin &. Bash_: Who's Out?
+_Good Wife_ Photos
 
-P. Diddy Injured
+Lil Wayne Suffers Two Seizures
 
-_Good Wife_ Fan Faves Return
+_Once_'s Evil Queen Speaks!
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -140,8 +140,8 @@ more popular movies Top Videos
 1.  The Vampire Diaries
 2.  The Vampire Diaries
 3.  Arrow
-4.  Arrow
-5.  Supernatural
+4.  Supernatural
+5.  Dexter
 
 more top videos
 
