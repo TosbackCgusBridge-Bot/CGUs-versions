@@ -731,7 +731,6 @@ Y*   Books + Media
             *   Sleepwear, Loungewear
         *   open Women
             *   Beachwear
-            *   Blouse Tops
             *   Activewear
             *   Lingerie
             *   Pants
@@ -1187,7 +1186,6 @@ Y*   Books + Media
     *   Humor, History, Favorites
     *   DVDs, Videos
     *   Inspirational
-    *   CDs
     *   Cookbooks
     *   Activity
     *   Children's
