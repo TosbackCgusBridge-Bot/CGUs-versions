@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Friday, October 26, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Saturday, October 27, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Friday, October 26, 2012 Go Follow the Atlanti
 *   Magazine
 *   video
 
-Will Obama's Ground Game Give Him the Win? Molly Ball The Pious Cruelty of Richard Mourdock Ta-Nehisi Coates Why Did Obama Kill This 16-Year-Old American? Conor Friedersdorf Romney's China Bashing Is 5 Years Late Matthew O'Brien Prisoners of Cable Derek Thompson How Millennials Could Save the Economy Derek Thompson Should Romney Visit the Tigers' Clubhouse? Henry D. Fetter The Glory of Recurring Halloween Costumes Chris Koentges The Denver Broncos: NFL Comeback Kings Kevin Craft On Mob Justice in Nigeria Teju Cole Turkey's War on Journalists Michael Koplow The Missing Obama-Romney Debate on Egypt Eric Trager 9,000 Megapixels, 84 Million Stars Rebecca J. Rosen 111 Days of Ozone Change, in 1 GIF Megan Garber Curiosity's Cousins: Canada's Rover Fleet Megan Garber Wild Horse Round-ups: Inhumane and Useless Andrew Cohen Occupy Wounded Knee Emily Chertoff RFK Jr.: My Cousin Is Innocent Jennie Rothenberg Gritz The Sex Lives of Conjoined Twins Alice Dreger The Fastest Surgeon of the 19th Century Matt Soniak The Evolutionary Importance of Grandmothers Lindsay Abrams Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Kids Analyze the Election Kasia Cieplak-Mayr von Baldegg How to Teach Yourself Lucid Dreaming Kasia Cieplak-Mayr von Baldegg A Haunting Time-Lapse of Seattle Kasia Cieplak-Mayr von Baldegg Privacy Policy
+If Romney Loses, Blame the GOP Wasting Time Conor Friedersdorf Paul Wellstone's Legacy, 10 Years Later Al Franken A Brief History of Political Halloween Costumes Amanda Green Romney's China Bashing Is 5 Years Late Matthew O'Brien Prisoners of Cable Derek Thompson How Millennials Could Save the Economy Derek Thompson Finally, a Good Way to Rank NFL Quarterbacks Allen Barra Three Infallible World Series Predictions Sports Roundtable The New 'Munsters': Monsters Are Over Now Alyssa Rosenberg Russia's Razvozzhayev Scandal Turns to Crisis Brian Whitmore Ai Wei Wei Interviews the Digital Thought Police Brian Fung Why You Can't Buy Pirated DVDs Anymore Oriana Skylar Mastro Wikipedia Is Nearing Completion, in a Sense Rebecca J. Rosen The Consequences of Machine Intelligence Moshe Y. Vardi 9,000 Megapixels, 84 Million Stars Rebecca J. Rosen Excerpt: Lincoln's Reluctant War David Von Drehle Wild Horse Round-ups: Inhumane and Useless Andrew Cohen Occupy Wounded Knee Emily Chertoff Psychics Call It for Obama James Hamblin The Sex Lives of Conjoined Twins Alice Dreger The Evolutionary Importance of Grandmothers Lindsay Abrams Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Kids Analyze the Election Kasia Cieplak-Mayr von Baldegg How to Teach Yourself Lucid Dreaming Kasia Cieplak-Mayr von Baldegg A Haunting Time-Lapse of Seattle Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,16 +113,16 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Just In Lindsay Abrams 8:07 AM ET Study: Even 'Moderate' Drinking Impairs Brain Cell Formation 1351253224 Voices
+Just In Robert Wright Oct 26, 2012 Romney Momentum Update: Still Zilch (at Best) 1351309800 Voices
 
-*   James Fallows What the Stock Market Shows About the… 7:48 AM ET
-*   Robert Wright It's Official: Romney Has Zero Momentum Oct 25, 2012
+*   Robert Wright Romney Momentum Update: Still Zilch (at Best) Oct 26, 2012
+*   Garance Franke-Ruta Richard Mourdock, Mitt Romney and the GOP Defense… Oct 26, 2012
+*   Alexis C. Madrigal Could Gangnam Style Be the First Video to 1… Oct 26, 2012
+*   James Fallows An Interview with Chen Guangcheng: 'Be Confident… Oct 26, 2012
+*   Ta-Nehisi Coates Twilight Of The Elites At MIT Oct 26, 2012
 *   Clive Crook Obama's Mistakes and the Role of Race Oct 25, 2012
-*   Garance Franke-Ruta Lena Dunham's New Obama Ad—As Controversial… Oct 25, 2012
 *   Derek Thompson Apple's 'Disappointing' (but Still Pretty… Oct 25, 2012
 *   Jeffrey Goldberg Israel Contemplates a 2-Party System Oct 25, 2012
-*   Alexis C. Madrigal The World Is Not Enough: Google and the Future of… Oct 25, 2012
-*   Ta-Nehisi Coates Stuff Black People Who Like White People Like Oct 24, 2012
 *   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 
 Correspondents
@@ -132,7 +132,7 @@ Correspondents
 *   Peter Osnos Ignore the Doomsayers: The Book Industry Is Actually Adapting Well
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Hajj 2012, A Sacred Journey Oct 25, 2012 Video Twitter Says: Romney's Fans Like Arby's, Obama's Like Red Lobster Kids React to the Election How the Gregory Brothers 'Songify' the Debates Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Hajj 2012, a Sacred Journey Oct 25, 2012 Video Ominous Green Triangles Invade San Francisco in Matmos's Latest Music Video A Day in the Life of a Fire Lookout The Greatest Recordings in Jazz History Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -161,63 +161,63 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Afghanistan Mosque Hit By Suicide Bomb as Muslim Holiday Begins  
+*   Our Commenters Can't Be Fooled by That Fake Obama Birth Video  
     
-*   Two Manhattan Children Murdered by Their Nanny  
+*   World's Rarest Dog Could Soon Go Extinct. Backstabbing Hermit Crabs  
     
-*   The Syrian Cease Fire Didn't Last Long  
-    
-
-Last Update: 8:01 AM
-
-*   Durham's Bridge of Death Will Decapitate Any Tall Truck  
-    
-*   Is This Device To Blind Traffic Cameras Really Legal?  
-    
-*   Communities Aren't Just Places, They're Social Networks  
+*   The Presents Obama and Romney Could Have Bought Us with $2 Billion  
     
 
-Last Update: 6:52 PM Most Popular
+Last Update: 6:48 PM
+
+*   Please Bring This to America: Heated Bike Lanes  
+    
+*   The World's Least Boring Gas Stations  
+    
+*   The Case for Bus Transfers  
+    
+
+Last Update: 8:22 PM Most Popular
 
 1
 
-David Allen on How to Fix Your Life
+Scientists Recover the Sounds of 19th-Century Music and Laughter From the Oldest Playable American R
 
 2
 
-The Sex Lives of Conjoined Twins
+David Allen on How to Fix Your Life
 
 3
 
-Lena Dunham's New Obama Ad—As Controversial As Everything She Does?
+General Failure
 
 4
 
-The Simple, Non-Racial Explanation for Why Colin Powell Is Backing Obama
+The Sex Lives of Conjoined Twins
 
 5
 
-General Failure
+The Simple, Non-Racial Explanation for Why Colin Powell Is Backing Obama
 
 6
 
-What Are the Odds That Israel Just Attacked Sudan?
+Richard Mourdock, Mitt Romney and the GOP Defense of Coerced Mating
 
 7
 
-Hajj 2012, A Sacred Journey
+The End of Jazz
 
 8
 
-It's Official: Romney Has Zero Momentum
+Hajj 2012, a Sacred Journey
 
 9
 
-Hacking the President’s DNA
+Finally, an Effective Way to Rank NFL Quarterbacks
 
 10
 
-Fall Is in the Air, Part II
+The Consequences of Machine Intelligence
 
 *   Subscribe Help
 *   Faq
