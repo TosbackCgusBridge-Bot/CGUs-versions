@@ -173,8 +173,8 @@ Shop by Department
     *   Red Wine
     *   Other Snacks, Desserts &. Candy
     *   Pastries &. Baked Goods
-    *   Other Wine
     *   Cookies
+    *   Other Wine
     *   See More...
 *   Health &. Beauty Shop Health &. Beauty
     *   Women's Perfume
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1535 Local Deals
+*   1540 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
