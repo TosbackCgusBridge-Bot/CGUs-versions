@@ -85,15 +85,16 @@ A NOTE FROM JILL MALANDRINO
 
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
-*   Zynga
-*   Guide to Windows 8
-*   Genta Chapter 7
+*   Biotech Stocks
 *   Gold Prices
 *   Cramer's 8-Point Plan
-*   Ford
-*   Apple Earnings
+*   3D Printing
+*   Apple Upside
+*   Citigroup Fine
+*   5 Dumbest
+*   Kass
 
-pjava04.dc.thestreet.com Privacy Policy
+pjava02.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -248,15 +249,15 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,103.68 26.34 0.20% NASDAQ 2,986.12 4.42 0.15% S&P 500 1,412.97 4.22 0.30% US 10 Yr 1.828% +0.053 Brokerage Partners Most Commented
+DOW 13,107.21 3.53 0.03% NASDAQ 2,987.95 1.83 0.06% S&P 500 1,411.94 -1.03 -0.07% US 10 Yr 1.750% -0.078 Brokerage Partners Most Commented
 
 *   Star Scientific's 'Flint' Study Flops
 *   Apple: Don't Believe Haters, Hype and Hysteria
-*   Google Drops the Neutron Bomb: $249 Laptop
-*   Spectrum Pharma: Guessing Q3 Fusilev Sales
 *   'Put the White Back in the White House'?
+*   Google Drops the Neutron Bomb: $249 Laptop
+*   10 Cult TV Shows Netflix Should Revive
 
-Articles From Newser White iPad Mini Sells Out in 20 Minutes Now 16 Banks Subpoenaed in Libor Mess Apple, Amazon Miss Wall Street Expectations See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Nintendo Will Lose Money on Every Wii U Sold Berlusconi Sentence Reduced to One Year Employee Dump Day Could Sink Facebook Stock See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
