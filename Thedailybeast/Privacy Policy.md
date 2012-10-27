@@ -14,7 +14,7 @@
 
 Featured:
 
-*   Debates
+*   Election
 *   Hero Project
 *   The Dish
 *   Howard Kurtz
@@ -146,37 +146,37 @@ Stories We Like
   Most Popular
 
 1.  Why Obama Will Win
-2.  Obama’s Early Voting Edge
-3.  My Proof of Heaven
-4.  New York Gone Mad
-5.  How Would Romney Govern?
+2.  My Proof of Heaven
+3.  The Week’s Best Reads
+4.  Will Barack Become Poppy?
+5.  ‘Frankenstorm’ Is Right
 
   Other News Entertainment
 
-*   Who Are These Celebs in Costumes?
-*   Alicia Keys Chats Motherhood, Advises Adele
-*   Tinsel Talk: What Scares You?
+*   Olivia and Jason's Roman romance, plus more celebrity PDA
+*   Week in Photos for Oct. 26, 2012
+*   Julianne Hough on Ryan Seacrest: 'We're Really Proud of Each Other'
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘Big Bang Theory’ react: Halloween episode is more heartfelt than funny
-*   ’30 Rock’: Unwindulax because Jenna’s picking the next president!
-*   Lena Dunham: My first time was with Barack Obama — VIDEO
+*   ‘Cloud Atlas’: The biggest changes from the book to the movie
+*   Obama answers young voter questions for MTV, addresses same-sex marriage, climate change
+*   The new ‘Safe Haven’ poster reminds us of something
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Romney Surrogate: Colin Powell Endorsed Obama Because He's Black
-*   Romney Campaign Downplays Early Vote — And Begs For It
-*   In Defense Of Sexy Halloween Costumes
+*   The Akin Effect: Did "Legitimate Rape" Make Mourdock's Gaffe Worse?
+*   Mitt Romney Finally Has The Campaign He Wanted
+*   Obama "Expects" DOMA Will Be Found Unconstitutional
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Quote of the Day
-*   China Blocks Site After Report on Leader's Wealth
-*   Ohio Sees Nonstop Political Ads
+*   Latest Swing State Polls
+*   Akin Narrows Gap with McCaskill
+*   Polls Suggest Split Between Popular and Electoral Vote
 *   **Get More from Political Wire**
 
 The Daily Beast
@@ -207,7 +207,7 @@ Sections:
 
 Featured:
 
-*   Debates
+*   Election
 *   Hero Project
 *   The Dish
 *   Howard Kurtz
