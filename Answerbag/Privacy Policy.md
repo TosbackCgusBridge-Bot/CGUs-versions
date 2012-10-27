@@ -10,7 +10,7 @@ Create a Poll
 *   Categories
 *   Questions
 *   Forums
-*   Blog (2)Facebook Login Fixed
+*   Blog (3)Page Loads Back to Normal
     
     NEW!
     
