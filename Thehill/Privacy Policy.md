@@ -212,98 +212,98 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Texas sparks international row with election observersSome planGallup poll: Romney maintains 3-point lead over Obama, 50-47Inhofe: Obama delaying new pollution rules to boost his chances of reelectionDetroit paper thanks Obama for auto bailout, endorses Romney
+Texas sparks international row with election observersRomney extends lead over Obama in Gallup daily tracking pollSwing-state polls: Obama up in Iowa, NH, Nev., Colo., while Romney leads Fla.Romney holds national poll lead, but key swing states favor ObamaPoll: Obama and Romney statistically tied in Ohio, Colorado and Virginia
 
 Emailed
 
-Texas sparks international row with election observersElizabeth Warren is the Democrats’ pride, Todd Akin and Richard Mourdock are the Republicans’ shameSome planTrump offers Obama $5 million for his college, passport recordsInhofe: Obama delaying new pollution rules to boost his chances of reelection
+Texas sparks international row with election observersMorning in OhioRomney's cruelest cut: MedicaidCandidate gaffes could cost GOP Senate control — againWorking-class voters could be the key to Romney's chances in Ohio
 
 Discussed
 
-International monitors at US polling spots draw criticism from voter fraud groupsTexas sparks international row with election observersActor Bill Murray to CNBC: 'I think we ought to be personally responsible'More bad news for Mitt Romney Trump offers Obama $5 million for his college, passport records
+International monitors at US polling spots draw criticism from voter fraud groupsTexas sparks international row with election observersSen. Graham: Obama move on defense layoff notices 'patently illegal'Trump offers Obama $5 million for his college, passport recordsGOP sees food fight as kids trash USDA fruit, vegetable guidelines
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   MORNING READ
-*   Obama swipes at Paul Ryan's Ayn Rand fandom
+*   Plouffe: Romney attempting to 'disingenuously hide his positions'
+*   Obama, Romney cancel rallies in response to Sandy
 *   DAY'S END ROUNDUP
 
   
 More Briefing Room » Congress Blog
 
-*   Remembering my friend Senator Paul Wellstone
-*   New healthcare challenges coming in 2013
-*   Candidates ignore plight of Palestinians
+*   How Nevada's Asian American vote can swing election
+*   Turning Medicaid over to the states would undermine program
+*   Battle-ready missile defense radars must be protected from cuts
 
   
 More Congress Blog » Pundits Blog
 
+*   Knowing your candidates
+*   Big-business religion, from the pulpit to the cemetery
 *   Elizabeth Warren is the Democrats’ pride, Todd Akin and Richard Mourdock are the Republicans’ shame
-*   Romney and the illusory black vote
-*   Question for female Republicans
 
   
 More Pundits Blog » Twitter Room
 
-*   Axelrod casts early ballot ahead of Obama in Chicago
-*   Secret Service asks Twitter users to report threatening tweets
-*   Obama pulls all-nighter in Vegas, gives Katy Perry 'best birthday ever'
+*   Michelle Obama: Happy birthday, Hillary Clinton
+*   Sen. McCaskill tweets from mother's bedside
+*   Rep. Issa wishes Sen. Grassley 'deer-free driving'
 
   
 More Twitter Room » Hillicon Valley
 
-*   Lawmakers mull restrictions on domestic drones
-*   musicFIRST slams new coalition of Internet royalty bill supporters
-*   Cybersecurity legislation makes Panetta's lame duck to-do list
+*   Yahoo to ignore 'Do Not Track' requests from Internet Explorer users
+*   LightSquared hires former Sen. Coleman to lobby for network
+*   News bites: China blocks New York Times
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Waxman parries Upton over energy subsidy report
-*   Regulatory chief: Edge on nuclear power shifting to US
-*   Inhofe: Obama delaying new pollution rules to boost his chances of reelection
+*   Obama ‘surprised’ climate change didn’t surface at the presidential debates
+*   Liberal groups ramp up Arizona Senate race spending with new TV spot
+*   Dems hit up donors after Chevron’s GOP gift
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Democrats expand effort against Florida GOP Rep. Southerland
-*   Candidate gaffes could cost GOP Senate control — again
-*   Obama: 'We always knew this was going to be a close race'
+*   Wagner makes personal appeal for a Romney presidency
+*   The Hill's Senate ratings: Democrats likely to retain Senate control
+*   Poll: Obama tops 50 percent in Ohio, up four points on Romney
 
   
 More Ballot Box » On The Money
 
-*   Charitable coalition urges Obama, Romney to leave deduction alone
-*   Corporate leaders warn Congress must strike deficit deal before end of year
-*   Business leaders press lame-duck Congress to strike deficit deal
+*   Obama touts new federal credit agency report protections
+*   Liberal group calls out CEOs looking for debt deal
+*   Durbin presses DC mayor on swipe fee fight
 
   
 More On The Money » Healthwatch
 
+*   Advocates lament shrinking funds for medical research
+*   News bites: What cliff?
 *   Obama: No doubt Romney win could overturn Roe v. Wade
-*   Obama disagrees with Supreme Court's healthcare reasoning
-*   Senate panel expands meningitis probe as illness spreads
 
   
 More Healthwatch » Floor Action
 
-*   Economists see tax hike as twice the problem for growth than spending cuts
-*   Jackson Lee seeks support for giving gold medal to Pakistani shooting victim
-*   Rubio: Senate hearing on Libyan terrorist attack should have come sooner
+*   Sen. Paul: Obama had four hours to respond militarily to Libyan terrorist attack
+*   GOP Rep. Blackburn says Obama's 'first time' ad is 'repulsive'
+*   GOP lawmaker to propose bill to tighten rules on military absentee ballots
 
   
 More Floor Action » Transportation
 
-*   Mobile parking meter company raises fees in DC, citing Dodd-Frank law
-*   Boehner hits Obama on auto bailout pensions
-*   Detroit paper thanks Obama for auto bailout, endorses Romney
+*   Car rental company: 'Birther' stickers weren't approved
+*   Sen. Durbin blasts 'false and misleading' Parkmobile fee increase explanation
+*   Chrysler: Romney is wrong, Jeep not leaving US for China
 
   
 More Transportation » DEFCON Hill
 
-*   DOD: Massive US-Israeli missile drill not aimed at Iran
-*   Report: UK denies US access to bases for Gulf buildup
-*   Panetta wants action in lame duck
+*   GOP Senators demand declassification of Libya surveillance
+*   Graham: Obama's Libya defense 'B.S.’
+*   State Dept. cables lacked 'actionable intelligence' for intervention in Libya
 
   
 More DEFCON Hill » Global Affairs
@@ -313,7 +313,7 @@ More DEFCON Hill » Global Affairs
 *   Texas sparks international row with election observers
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Some Obama plan Brent Budowsky Morning in Ohio More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris Don't count Mourdock out Lanny Davis Obama's second term More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
