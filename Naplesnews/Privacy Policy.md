@@ -143,15 +143,31 @@ Naples Daily News
 *   Cars
 *   Classified
 
+*   PrepZone: Football
+    
+    Scores &. Chat Archive | Lely vs. Palmetto Ridge | Gulf Coast vs. Golden Gate | South Fort Myers vs. Charlotte »
+    
+*   Game Videos
+    
+    Golden Gate vs. Gulf Coast | Lely vs. Palmetto Ridge | St. John Neumann vs. Southwest Florida Christian
+    
+*   Game Videos
+    
+    Estero vs. Mariner | South Fort Myers vs. Charlotte | More Videos »
+    
+*   From the Stands
+    
+    Gulf Coast Band | Golden Gate Band | Send us your photos »
+    
 *   Wind Advisory
     
-    IN EFFECT UNTIL OCT 26, 11:00 p.m.
+    IN EFFECT UNTIL OCT 27, 8:00 p.m.
     
     issued for Inland Collier County
     
 *   Lake Wind Advisory
     
-    IN EFFECT UNTIL OCT 26, 4:15 p.m.
+    IN EFFECT UNTIL OCT 27, 8:00 p.m.
     
     issued for Lee
     
@@ -448,25 +464,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Poll: Romney erases Obama lead among women Published 10/25/2012 at 6:49 a.m. 120 comments
-*   City Councilman: Collier bus system is broken Published 10/25/2012 at 5:00 a.m. 89 comments
-*   Teen told deputies he killed mom accidentally Updated 10/25/2012 at 4:16 p.m. 8 comments
-*   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 49 comments
-*   Donald Trump offers $5 million if Obama releases personal records Published 10/24/2012 at 1:04 p.m. 154 comments
+*   Collier deputy stripped of law enforcement credentials after two fatal wrecks Published 10/26/2012 at 5:58 p.m. 36 comments
+*   Poll: Romney erases Obama lead among women Published 10/25/2012 at 6:49 a.m. 195 comments
+*   U.S. economic growth expands at 2% rate in third quarter Updated 10/26/2012 at 11:54 a.m. 52 comments
+*   ‘Frankenstorm’ could hit East Coast Updated 10/26/2012 at 9:12 a.m. 21 comments
+*   Prep Football: Chat, scores, videos, photos and stories from Week 9 Updated 10/26/2012 at 11:52 p.m. 0 comments
 
-Photo Galleries Catch of the Day: Oct. 25, 2012 Historic Photos: Everglades National… Fort Myers ZombiCon 2012
+Photo Galleries Prep Football: Gulf Coast vs. Golden… Historic Photos: Everglades National… Barron Collier defeats Gulf Coast in…
 
-*   Final debate: Challenging each other face to face Published 10/22/2012 at 10:30 p.m. 323 comments
-*   Donald Trump offers $5 million if Obama releases personal records Published 10/24/2012 at 1:04 p.m. 154 comments
-*   Poll: Romney erases Obama lead among women Published 10/25/2012 at 6:49 a.m. 120 comments
-*   Collier County supports continuing 287(g) immigration program Published 10/23/2012 at 11:13 a.m. 104 comments
-*   City Councilman: Collier bus system is broken Published 10/25/2012 at 5:00 a.m. 89 comments
+*   Poll: Romney erases Obama lead among women Published 10/25/2012 at 6:49 a.m. 195 comments
+*   Donald Trump offers $5 million if Obama releases personal records Published 10/24/2012 at 1:04 p.m. 181 comments
+*   City Councilman: Collier bus system is broken Published 10/25/2012 at 5:00 a.m. 94 comments
+*   Tampa man arrested in East Naples hotel rape Published 10/24/2012 at 4:19 p.m. 64 comments
+*   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 67 comments
 
 *   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 54 comments
 *   Venice diocese removes once-popular priest in Bonita Springs from priesthood Published 10/24/2012 at 5:10 a.m. 38 comments
-*   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 49 comments
-*   Naples CEO's email urges workers to elect new president Nov. 6 Published 10/15/2012 at 7:20 p.m. 290 comments
+*   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 67 comments
 *   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 54 comments
+*   In the Know: Seconds, anyone? Even more area restaurants planning to open soon Published 10/24/2012 at 5:00 a.m. 17 comments
 
 Weather
 
@@ -474,21 +490,21 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 75° Fair Wind: N 14mph Today 83° 73° Fri 08:00 PM Mostly Clear Temp: 78° Sat 08:00 AM Mostly Sunny Temp: 73° Sat 08:00 PM Mostly Clear Temp: 76°
+Currently 75° Fair Wind: NW 12mph Today 82° 72° Sat 08:00 PM Mostly Clear Temp: 77° Sun 08:00 AM Mostly Sunny Temp: 71° Sun 08:00 PM Mostly Clear Temp: 73°
 
-Feels Like: 78°
+Feels Like: 77°
 
-Humidity: 65%
+Humidity: 62%
 
-Precip: 30%
+Precip: 5%
+
+Feels Like: 71°
+
+Humidity: 73%
+
+Precip: 5%
 
 Feels Like: 73°
-
-Humidity: 74%
-
-Precip: 10%
-
-Feels Like: 76°
 
 Humidity: 64%
 
@@ -496,18 +512,10 @@ Precip: 5%
 
 More Weather » Calendar
 
-*   Friday Oct 26
 *   Saturday Oct 27
 *   Sunday Oct 28
+*   Monday Oct 29
 *   More BROWSE Icon
-
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Low Cost Pet Vaccination Clinic Collier Spay Neuter Clinic at 2544 Northbrooke Plaza Dr. 9 a.m.
-*   Baby boot camp Miromar Outlets 9 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Mangrove Estuary Kayak Tour with Up A Creek Kayak Tours Waters of Rookery Bay Reserve 9 a.m.
-
-More Events »
 
 *   Race the Roof Benefit for Habitat for Humanity Verandah Golf &. Country Club 7 a.m.
 *   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
@@ -525,6 +533,14 @@ More Events »
 
 More Events »
 
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Baby boot camp Miromar Outlets 9 a.m.
+*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
+*   The Secrets of America’s Richest and Oldest Families FGCU Naples Center 10 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
@@ -533,51 +549,50 @@ More Events » Features
     
     Search for local Halloween events &. enter our costume contest.
     
-    Our World
+    Download iPad
     
-    Column looks at SW Florida through eyes of Daily News photojournalists.
+    Experience the Naples Daily News -- reimagined for the iPad. Download now »
     
-    Prep football
+    Cuties of the Week
+    
+    We want to see photos of your adorable kids and grandkids. Share your photos »
+    
+*   Prep football
     
     Find videos, photos from Friday's high school football games.
     
-*   At the Movies
+    From the Stands
     
-    Find movie showtimes, trailers, box office results and read the latest reviews.
-    
-    Interactive map
-    
-    Search for local farmers markets in Collier and Lee counties.
-    
-    Hot Home Sales
-    
-    Pictures, info about recently sold single-family homes in Collier and Lee.
-    
-*   Football Rivalries
-    
-    Some high school football games are played for pride and bragging rights.
-    
-    NewsMakers
-    
-    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
+    Submit your fan and band photos from high school football games.
     
     Mugshots
     
     Looking for daily arrest mugshots? You can find them here in our special section.
     
-*   Here's to our Heroes
+*   Election 2012
     
-    They put others before themselves. see problems &. solve them. Your nomination »
-    
-    Swing State
-    
-    On Nov. 6, voters will decide whether Florida will swing Red or Blue. Learn about project »
+    Find videos, photos, stories about the upcoming general election.
     
     Biggest Catch
     
     See photos from local anglers with their biggest catch of the day. Submit your photos.
     
-    f
+    f Hot Home Sales
+    
+    Pictures, info about recently sold single-family homes in Collier and Lee.
+    
+*   NewsMakers
+    
+    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
+    
+    Interactive map
+    
+    Search for local farmers markets in Collier and Lee counties.
+    
+    Here's to our Heroes
+    
+    They put others before themselves. see problems &. solve them. Your nomination »
+    
 
 Useful Links:
 
