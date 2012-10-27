@@ -227,7 +227,6 @@ Go Catalog Quick Order Sign Up For Email Savings!
     *   Stickers
     *   See More Kids’ Stationery
 *   Holidays
-    *   Halloween – Oct. 31
     *   Thanksgiving – Nov. 22
     *   Hanukkah – Dec. 8
     *   Christmas – Dec. 25
@@ -243,59 +242,84 @@ Go Catalog Quick Order Sign Up For Email Savings!
     *   Memorial Day – May 27
     *   Father’s Day – June 16
     *   Fourth of July – July 4
-*   Halloween
+    *   Halloween – Oct. 31
+*   Christmas
     
-    *   Halloween Candy
-    *   Bulk Candy
+    *   Christmas Candy
+    *   Candy Canes
+    *   Chocolate
+    *   Gum
+    *   Mints
     *   Name Brand Candy
-    *   Nostalgic Candy
-    *   Novelty Candy
-    *   Soft &. Chewy Candy
-    *   See More Halloween Candy
-    *   Halloween Toys, Games &. Novelties
+    *   Soft &. Chewy
+    *   Suckers &. Lollipops
+    *   See More Candy
+    *   Christmas Party Supplies &. Decorations
+    *   Christmas Candy
+    *   Christmas Gift Bags
+    *   Christmas Party Decorations
+    *   Hanging Decorations
+    *   Hats
+    *   Novelty Jewelry
+    *   Tableware
+    *   See More Christmas Party Supplies &. Decorations
+    
+    *   Stocking Stuffers &. Toys
     *   Assortments
+    *   Candy
+    *   Christmas Stockings
     *   Games &. Activities
-    *   Glow Products
+    *   Kids’ Stationery
     *   Novelty Jewelry
     *   Novelty Toys
-    *   Kids' Stationery
-    *   See More Halloween Toys, Games &. Novelties
+    *   Plush
+    *   See More Stocking Stuffers &. Toys
+    *   Christmas Costumes, Jewelry &. Apparel
+    *   Christmas Costumes
+    *   Christmas Glow
+    *   Christmas Tote Bags
+    *   Costumes Props &. Kits
+    *   Hats
+    *   Novelty Jewelry
+    *   Religious Costumes
+    *   See More Christmas Costumes &. Accessories
     
-    *   Halloween Party Supplies &. Decorations
-    *   Halloween Decorations
-    *   Party Favor &. Goody Bags
-    *   Party Supplies
-    *   Room Decor
-    *   Tableware
-    *   Yard Decor
-    *   See More Party Supplies &. Decorations
-    *   Halloween Crafts
-    *   Art &. Craft Supplies
-    *   Beading Supplies
+    *   Christmas Craft &. Hobby Supplies
+    *   Adult Craft
+    *   Crafts for Kids
     *   Decoration Crafts
     *   Jewelry Crafts
-    *   Novelty Crafts
-    *   Stickers &. Labels
-    *   See More Halloween Crafts
+    *   Ornament Crafts
+    *   Photo Crafts
+    *   Design Your Own
+    *   Stickers
+    *   See More Christmas Craft &. Hobby Supplies
+    *   Winter
+    *   Craft &. Hobby Supplies
+    *   Kids' Stationery
+    *   Ornaments
+    *   Party Supplies
+    *   Toys, Games &. Novelties
+    *   Reindeer
+    *   Snowflakes
+    *   Snowmen
+    *   See More Winter Themes
     
-    *   Halloween Costumes
-    *   Women's Costumes
-    *   Men's Costumes
-    *   Girl's Costumes
-    *   Boy's Costumes
-    *   Couples Costumes
-    *   Baby Costumes
-    *   Plus Size Costumes
-    *   Sexy Costumes
-    *   See More Halloween Costumes
-    *   Costume Accessories
+    *   Ornaments
+    *   Ornament Crafts
+    *   Personalized Ornaments
+    *   Religious Ornaments
+    *   See All Ornaments
+    *   Religious Christmas
     *   Capes, Robes &. Gowns
-    *   Costume Props &. Kits
-    *   Hats, Caps &. Bandannas
-    *   Masks
-    *   Novelty Jewelry
-    *   Wigs &. Beards
-    *   See More Costume Accessories
+    *   Craft &. Hobby Supplies
+    *   Ornaments
+    *   Religious Christmas Costumes
+    *   Toys, Games &. Novelties
+    *   Advent
+    *   Angels
+    *   Nativity
+    *   See More Christmas Inspirations
 *   Sale
     
     Shop Everyday Sale*   Party Supplies Sale
