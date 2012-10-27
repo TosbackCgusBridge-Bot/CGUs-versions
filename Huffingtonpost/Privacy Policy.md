@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Prince Charles
+*   Elections 2012
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 26, 2012 Edition: **U.S.**
+October 27, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 26, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Colin Powell Makes Presidential Endorsement26k
-    *   Clinton Could Remain Secretary Of State Longer Than Expected5k
-    *   Obama: Mitt Romney Is A 'Bulls\*\*\*er'23k
-    *   Romney Still Surging? Polls Say No20k
-    *   Secret Service Not Laughing At Man's Anti-Obama Display 3k
+    *   Secret Service Not Laughing At Man's Anti-Obama Display 8k
+    *   National Tracking Polls: A Romney Uptick? 31k
+    *   Harry Reid Hospitalized1k
+    *   Colin Powell's Former Chief Of Staff: 'My Party Is Full Of Racists'7k
+    *   For Romney, Wisconsin Becoming The Path Around Ohio14k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 26, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   Foreclosed Home Robbed After Craigslist Ad Offering Giveaway433
-    *   Trump Place FIRES Trump 3k
-    *   'Show Me Yours, But I Won't Show You Mine': Donald Trump Refuses To Show Transcripts, Passport647
-    *   Paul Krugman: Romney Victory Could Mean 'Double-Dip Recession'7k
-    *   15 Outrageous Products That People Are Actually Buying120
+    *   'Show Me Yours, But I Won't Show You Mine': Donald Trump Refuses To Show Transcripts, Passport1k
+    *   CNBC Anchor Bashes Paul Krugman5k
+    *   Wynn Casino Guides Employees To Vote For Romney4k
+    *   Foreclosed Home Robbed After Craigslist Ad Offering Giveaway594
+    *   U.S. Economy Picking Up Steam5k
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 26, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   'Cloud Atlas' Slammed By Group For 'Yellowface' Controversy219
-    *   WATCH: Vivica A. Fox SLAMS Stacey Dash's Romney Endorsement2k
-    *   Neil Young Dings Bono706
-    *   WATCH: Lena To Romney: You Don't Own Me1k
-    *   Taylor Swift On Pace To Set Record This Week334
+    *   Meat Loaf Endorses Romney6k
+    *   The NEXT James Bond Moves Forward15
+    *   'Cloud Atlas' Slammed By Group For 'Yellowface' Controversy408
+    *   Rolling Stones Rock Surprise $20 Gig In Paris101
+    *   WATCH: Lena To Romney: You Don't Own Me2k
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 26, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   The Microsoft Tablet Reviews Are In..467
-    *   Microsoft Officially Unleashes Windows 8, Surface Tablet405
-    *   The 9 Best Windows 8 Devices Available Now47
-    *   5 Reasons Apple's 'Big' iPad Bests The iPad Mini 67
-    *   Amazon And Google Shouldn't Be Worried About The iPad Mini111
+    *   White iPad Mini Sold Out? 142
+    *   7 People Who Will Love Windows 8 (And 5 Who Will Hate It) 321
+    *   The Rumor That's Got Pandora Really Worried238
+    *   5 Reasons Apple's 'Big' iPad Bests The iPad Mini 73
+    *   The 9 Best Windows 8 Devices Available Now134
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 26, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   WATCH: Barbara Walters' Harsh Message To Donald Trump2k
-    *   CNN Scratches Controversial Story2k
-    *   Coulter Uses Slur Against Obama17k
-    *   Krystal Ball Announces Big News282
-    *   Oprah Caught In Nasty Family Drama321
+    *   Ann Coulter Defends 'Retard' Tweet11k
+    *   CNN Bans 'Frankenstorm'517
+    *   WATCH: Hoda's Intensely Emotional Celebration159
+    *   WATCH: Barbara Walters' Harsh Message To Donald Trump3k
+    *   Obama Going On 'Morning Joe'1k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 26, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   Tunisia Arrests Suspect In Consulate Attack3k
-    *   Army Official Reportedly Executed For Drinking During Mourning Period For Kim Jong Il220
-    *   WATCH: U.N. Chief Dances Gangnam-Style172
-    *   Swedish Princess Engaged To American Boyfriend98
-    *   Amazing Mayan Tomb Discovered22
+    *   Amazing Mayan Tomb Discovered252
+    *   Berlusconi Sentenced To 4 Years In Prison1k
+    *   Syrian Toddler Thought Dead Reunited With Parents195
+    *   France Makes Abortions Free For All3k
+    *   Hurricane Sandy Kills Scores In Caribbean18
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 26, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Lisa Lost 80 Pounds: 'I Can See The Old Me. I'd Forgotten What I Looked Like'23
-    *   Janette Lost More Than 200 Pounds: 'I Felt Like My Body Was A Prison'10
-    *   Does The Way You Sleep Say Something About Your Personality? 605
-    *   8 Ways Working The Night Shift Could Hurt Your Health
-    *   The Great Health Benefits Of Beans110
+    *   10-Minute Stress-Busters For Better Sleep31
+    *   Lisa Lost 80 Pounds: 'I Can See The Old Me. I'd Forgotten What I Looked Like'26
+    *   Famous Couples Who Help Each Other Stay Healthy And Fit
+    *   Janette Lost More Than 200 Pounds: 'I Felt Like My Body Was A Prison'11
+    *   Erikka Lost More Than 70 Pounds: 'I've Never Felt More Like Myself'
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 26, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
-    *   PHOTOS: Katy Perry Performs For Obama Rally Dressed As A Ballot2k
-    *   Is Katy Perry Bored With Reinventing Herself? 34
-    *   PHOTOS: 11 Trends We're Officially Sick Of66
-    *   PHOTOS: Sofia Vergara's Dress Might Just Be A Long Shirt69
-    *   In Honor Of Her 65th Birthday, Here Are 65 Amazing Hillary Clinton Outfits
+    *   In Honor Of Her 65th Birthday, Here Are 65 Amazing Hillary Clinton Outfits356
+    *   Mary-Kate Olsen On Her Relationship With Olivier Sarkozy: 'Everyone Has An Opinion'370
+    *   PHOTOS: Sofia Vergara's Dress Might Just Be A Long Shirt178
+    *   PHOTOS: Leighton Meester Chops It Off49
+    *   Michelle Obama: People Notice Me In Public Because I'm So Tall!116
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 26, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   Vintage Halloween Costumes Are Unintentionally Terrifying 73
-    *   Fey On Reproductive Rights: 'I'm Gonna Lose My Mind'1k
-    *   WATCH: Stewart Slams Trump, Palin &. GOP462
-    *   WATCH: Colbert Destroys Rape-Defending GOP Pols728
-    *   Colbert Offers Trump $1M To Put His Balls In His Mouth763
+    *   PHOTOS: Hey, How'd He Get That?66
+    *   Vintage Halloween Costumes Are Unintentionally Terrifying 86
+    *   Fey On Reproductive Rights: 'I'm Gonna Lose My Mind'2k
+    *   'Well, Now That I've Cleared Up I Don't Worship A Rape-Loving Deity'1k
+    *   The Funniest Halloween Someecards
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 26, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next Voting From The Waist Up
-    *   Next The Hajj Explained
-    *   Coming Up The Big Chill
-    *   Coming Up Corporate Cult?
-    *   Coming Up Living On $1 A DayGo to HuffPost Live
+    *   Next China's Power Shift
+    *   Next A Future Without Fidel
+    *   Later Not Without My Daughter
+    *   Later Attacking Tenure
+    *   Later Gay Men Don't Get FatGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
