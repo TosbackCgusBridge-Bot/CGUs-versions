@@ -235,7 +235,7 @@ Safety &. Security
 *   terms &. conditions
 *   privacy policy
 *   California Supply Chain Disclosure
-*   : 10250
+*   : 10150
 
 *   Find Jo-Ann on:
 *   Blogger
