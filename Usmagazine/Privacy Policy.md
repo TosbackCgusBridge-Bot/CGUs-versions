@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Pippa Books It »
+Hot Pics! Three Shady Ladies »
 
-Top Stories1.  PIC: Kim Kardashian Wears Giant Diamond Ring, Curve-Hugging Jeans »
-2.  Katie Holmes Wears $70 Kohl's Dress »
-3.  Exclusive Taylor Swift, Conor Kennedy Split »
-4.  Exclusive How Jef Holm "Blindsided" Emily Maynard After Their Split »
-5.  Exclusive Axl Rose's Jimmy Kimmel Interview: Slash's Wife Perla Hudson Reacts! »
+Top Stories1.  Jessica Simpson Shows Off 60-Pound Weight Loss While Leaving the Gym »
+2.  Leighton Meester Chops Off Her Hair: "I Love It!" »
+3.  Renee Zellweger Makes First Red Carpet Appearance in 5 Months! »
+4.  Cheryl Cole: Stop Calling Me Fat -- I'm a Size 6! »
+5.  PIC: Kim Kardashian Wears Giant Diamond Ring, Curve-Hugging Jeans »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly My Diet Struggle
 
 Inside Us Weekly
 
-*   Style Ann Romney's Campaign Style: Alfred Fiandaca,
-*   Beauty JoAnna Garcia Swisher: What's in My Bag?
-*   Moms PICTURE: Pregnant Holly Madison Poses Poolsid
-*   Body Mad Men Stars Jon Hamm, Jessica Pare Show Off  
-*   Entertainment Wow! Nicole Kidman Stuns as Grace Kelly With  
+*   Style Renee Zellweger Makes First Red Carpet Appear
+*   Beauty Leighton Meester Chops Off Her Hair: "I Love
+*   Moms PICTURE: Pregnant Lily Allen Shows Off Baby B
+*   Body Cheryl Cole: Stop Calling Me Fat -- I'm a Siz  
+*   Entertainment Kate Hudson Flaunts Cleavage, Long Legs in Gl  
 
 *   US WEEKLY
 *   Celebrity News
