@@ -341,6 +341,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Halloween Bakeware
     *   Thanksgiving Bakeware
     *   Christmas Bakeware
+    *   The Cupcake Shop
     *   The Cookie Shop
     *   The Pie Shop
     
