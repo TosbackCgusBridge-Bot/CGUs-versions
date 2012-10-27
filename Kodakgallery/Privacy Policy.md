@@ -1,6 +1,30 @@
 *   United States \[ change \]
 
-kodak.com and kodakgallery.com Online Privacy Notice Â 
+Print E-mail
+
+close
+
+We're pleased that you want to share this information. To send a link to this page, fill in the information below. The e-mail will show you as the sender and will show your return address.
+
+\* indicates required information
+
+\* Recipient E-mail:
+
+Each address entered must be valid.  
+(Separate multiple email addresses with commas. Limited to 5 addresses.)
+
+\* Your Name Here:
+
+Enter your name.
+
+\* Your E-mail:
+
+Enter a valid address.
+
+send a copy to me  
+Note: You are not adding recipient email addresses to any promotional email list.
+
+Sending... Sent! Send failed. Please try again later. kodak.com and kodakgallery.com Online Privacy Notice Â 
 
 (Revised April 26, 2012)
 
