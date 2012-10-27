@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-Thwart online tracking with 4 simple changes to your browser: https://eff.org/r.5ap7
+New! Explore our litigation and advocacy for government transparency: https://www.eff.org/issues/transparency #opengov
 
-Oct 25 @ 5:27pm
+Oct 26 @ 4:07pm
 
-Internet freedom advocates answer users' questions on Reddit IAmA yesterday https://eff.org/r.a9p4 #netfreedom #TPP #OpenTPP
+Japan was the first country to ratify #ACTA. Will they join #TPP next? https://eff.org/r.a7p9 #著作権
 
-Oct 25 @ 11:23am
+Oct 26 @ 2:12pm
 
 *   Twitter
 *   Facebook
