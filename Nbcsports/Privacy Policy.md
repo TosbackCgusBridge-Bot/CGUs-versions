@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Video: Americans' old toys bring joy to Israeli hospital
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: AP poll: Majority harbor prejudice against blacks
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Adam Bettcher / Getty Images Rookie Martin races past Vikings
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports Eagles all in on Vick?
     
-    PFT: Buccaneers running back Doug Martin rushed for 135 yards and a touchdown and added 79 yards through the air in a 36-17 win over the Vikings in Minnesota.
+    PFT Live: Mike Florio previews the Falcons-Eagles matchup and wonders which Michael Vick we'll see as both teams come off their bye weeks.
     
-    PFT's Picks: Broncos to pick apart Saints Kacsmar: Just what is going on with the AFC? PFT: Eli admits catering to needy WRs hurt his progress PFT: Jennings to have surgery. Nelson misses practice CSN: Rodgers-Cromartie defends fired Castillo PFT: Garcon sees specialist, no timetable for return PFT: Will Jets LB be fined for Bush comments? PFT: 'Outside chance' Amendola plays vs. Pats Ad
+    PFT's Picks: Broncos to pick apart Saints PFT: Peyton says game harder after neck surgeries PFT: London gets a taste of Belichick PFT: Taylor prevails in civil sexual assault case PFT: NFL monitoring Hurricane Sandy Kacsmar: Just what is going on with the AFC? PFT: Eli admits catering to needy WRs hurt his progress PFT: Jennings to have surgery. Nelson misses practice Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Christian Petersen / Getty Images Breaks are going Giants' way
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Danny Moloshok / Reuters Stars have winked out for Detroit
     
-    DeMarco: When everything is breaking your way, it's often a different player or two every night at the center of things. So, after Pablo Sandoval in Game, we have Gregor Blanco in Game 2 — and the breaks have the Giants in an almost-always-win situation in the World Series.
+    DeMarco: With all that went wrong for the Tigers by McCovey Cove, there is an obvious place to start: Superstars are supposed to win championships, but so far, the Tigers' have failed them.
     
-    Giants nail down 2-0 Series lead HBT: Bochy pushing all the right buttons CSN: Giants follow big win with small win CSN: Anatomy of a 'perfect' relay in Game 2 Fielder fizzles as Tigers drop into 0-2 deficit Bad baserunning does in the Tigers HBT: Beaten Giants fan Stow attends Game 2 Fister takes hard liner off head and loss Ad
+    CSN: Don't get ahead of yourselves, Giants fans CSN: Unsung influence behind Giants' pitching CSN: Tigers confident at home — with good reason CSN: Rest pays off for Bumgarner in Game 2 HBT: Tigers fan offers house for World Series tickets HBT: Tigers' 3B coach regrets sending Fielder Manager's toughest call: sitting a slumping star Bochy pushing the right buttons Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Lm Otero / AP 'Lock them in a room'
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Paul Sancya / AP No games in November
     
-    PHT: Devils GM Lou Lamoriello says NHL, NHLPA officials 'should do like they do with juries' and be locked in a room until a solution is reached to end the lockout.
+    PHT: A total of 326 regular-season games — about a quarter of the season — have now been abandoned after the NHL canceled all games through November because of the lockout.
     
-    PHT: NHL plans to pull offer off table Friday CSN: Time for sides to show they care about game Bettman says full season 'not going to be reality' CSN: Bergeron 'fine' after upper-body injury PHT: Islanders moving to Brooklyn PHT: Potvin saddened by Isles' relocation Blue Jackets hire Davidson to run hockey side Costas Tonight: Roenick on NHL lockout Ad
+    PHT: NHL 'deeply regrets' scrapping more games PHT: Fehr says cancellations 'deeply disappointing' PHT: Lamoriello solution? 'Lock them in a room' Costas Tonight: Roenick on NHL lockout CSN: 12,000 see 16-15 NHLers' charity game Lockout puts sales for small businesses on ice KHL shifts games from Brooklyn back to Russia CSN: Bergeron 'fine' after upper-body injury Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Gregory Bull / AP Lakers end preseason winless
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Noah Graham / Getty Images Contributor A good fit for the Lakers?
     
-    The Los Angeles Lakers lost 94-82 to the Sacramento Kings to finish the preseason winless — something no team has ever done and still made it to the Finals.
+    Now that Steve Nash is playing with two big men that love to operate in the paint, a shooting guard that has played on the ball for the majority of his career and in the Princeton offense, will he get it?
     
-    PBT: Stern to retire as commissioner in 2014 PBT: Stern reflects on good, bad of his legacy Stern says 'it's been a great run' Good time for Stern to step down PBT: Stern was all business with the NBA PBT: Kobe reportedly may miss Lakers' opener PBT: Mavericks suspend West 'indefinitely' PBT: Time for these 7 guys to step up Ad
+    PBT: Can Kobe cope with not getting touches? Lakers end preseason winless LeBron's goal: Still to be the game's best PBT: Stern was all business with the NBA PBT: Stern to retire as commissioner in 2014 PBT: Stern reflects on good, bad of his legacy Stern says 'it's been a great run' Good time for Stern to step down Ad
 *   NCAA FB
     SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Jackson Laizure / Getty Images Contributor Figure on wins for OU, Florida
     
-    CFT's Predictions 101: One week after a posting a perfect 7-0 record, our expert returns to make picks on the weekend's big games. That's bad news for Notre Dame and Georgia.
+    CFT's Predictions 101: One week after posting a perfect 7-0 record, our expert returns to make picks on the weekend's big games. There's bad news for Notre Dame and Georgia.
     
-    CFT: No. 14 Clemson cruises past Wake Forest CFT: Setback for Mathieu — arrest on pot charges SportsTalk: Will the Gators chomp Bulldogs? CFT: Georgia getting one Jones back for Florida UGa's Murray gets another shot at signature win SportsTalk: Is this the last stand for Dooley? Cincinnati, No. 16 Louisville renew rivalry Notre Dame Central: Irish take on Oklahoma Ad
+    SportsTalk: Will the Gators chomp Bulldogs? UF looks to avenge loss to UGa, win SEC East Notre Dame Central: Irish take on Oklahoma SEC West unbeatens 'Bama, Miss. St. meet CFT: No. 16 Louisville in wild OT win over Cincy Ex-LSU players Mathieu, Jefferson out of jail No. 15 Texas Tech, No. 4 K-State show similarities CSN: OSU-PSU ready for 'Ineligible Bowl' Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Nigel Kinrade / AP Knaus keeps Johnson in hunt
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Streeter Lecka / Getty Images 'I'm glad I did what I did'
     
-    Chad Knaus refused to throw away the day when Jimmie Johnson hit the wall after leading after 44 laps around Kansas Speedway. That's paying off.
+    Dale Earnhardt Jr. disliked the attention caused by his concussions and nearly three-week departure from NASCAR, but said Friday he returns to racing glad he took steps to make sure he is OK.
     
-    Earnhardt Jr. cleared to race at Martinsville Regan Smith to race Nationwide for JR Motorsports German bank seeking damages from Ecclestone Vettel, Alonso confident ahead of Indian GP Andretti Autosport to enter Munoz in Indy 500 Kenseth feeling nostalgic in final month with RFR Matt Kenseth wins, Keselowski keeps points lead Stenhouse steals Nationwide race at Kansas Ad
+    Earnhardt Jr. cleared to race at Martinsville Johnson wins pole. Keselowski to start 32nd Knaus salvages Kansas to keep Johnson in hunt Regan Smith to race Nationwide for JR Motorsports Vettel sets fastest time in F1 India GP practice Red Bull boss insists Vettel staying in 2014 Vettel, Alonso confident ahead of Indian GP Ferrari cars use Italian navy flag at Indian GP Ad
 *   NCAA BK
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Doug Pensinger / Getty Images Kansas best in Big 12 yet again
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Darron Cummings / AP Indiana leads way in AP poll
     
-    CBT: Like death and taxes, Jayhawks should outclass rest of conference yet again. We break down top players, predicted finish and more.
+    CBT: Tom Crean's Hooisers receive 43 of 65 possible first-place votes. This last time Indiana was No. 1 in the AP preseason poll was before the 1979-80 season.
     
-    CBT: Andrew Wiggins now a 2013 prospect UCLA's Muhammad to miss time with injury Tavon Sledge cleared to play for Iona Indiana loses Elston to a torn meniscus CBT: Kentucky's scrimmage had one issue CBT: Should NCAA get out of enforcement business? CBT's top 25 countdown: N.C. State No. 8 Kansas, Georgetown agree to 4-year hoops series Ad
+    UCLA's new Pauley Pavilion ready for its close-up Kansas' Young breaks hand, out 2 weeks CBT: Mizzou suspends guards Dixon, Bull indefinitely CBT: Kansas best in Big 12 yet again Minnesota's Saul Smith will keep job. return soon Iowa St. signs USC transfer Maurice Jones DePaul's Marrero to miss season with torn ACL CBT's Top 25 countdown: Ohio State No. 7 Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Woods (67) chasing Garrigus at CIMB Classic
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Woods trails by 5 entering final round in Malaysia
     
-    On another sweat-soaked day in Malaysia, Tiger Woods shot 67 Friday but still trails Robert Garrigus by five shots at the CIMB Classic.
+    Tiger Woods began his round Saturday with a barrage of birdies, but was derailed by miscues across the back nine.
     
-    Woods (67) chasing Garrigus at CIMB Classic Tiger Tracker: CIMB Classic Irish Olympic chief clarifies Rory's role in Rio Mahan plans to use Ryder Cup snub as motivator McIlroy mum on rumored new equipment deal PGA Tour Q-School first stage sites and scoring Video: Parnevik rocks it 'Gangnam Style' Ad
+    Van Pelt, Garrigus share CIMB lead after 54 holes Tiger Tracker: CIMB Classic Irish Olympic chief clarifies Rory's role in Rio Mahan plans to use Ryder Cup snub as motivator McIlroy mum on rumored new equipment deal PGA Tour Q-School first stage sites and scoring Tip of the Week: Sequence your backswing correctly Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Carlos Jasso / Reuters Is De Rosario close to a return?
+    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Nick Laham / Getty Images Can Red Bulls take advantage?
     
-    PST: If D.C. can avoid falling to fourth in the playoffs, it could get its star back for a playoff game next weekend.
+    The New York Red Bulls have much to gain or lose for the playoffs when they take on Philadelphia Union (1:30 p.m. ET Saturday, NBC). Philly's young talent will be playing for the future — and there's enough talent there for New York to be at risk.
     
-    PST: Solo won't be FIFA Women's player of year PST: Everyone loves Alan Gordon, right? Roundup: Liverpool, Inter Milan triumph Galaxy beats Isidro Metapan 3-2, finish group play 2016 Copa America in US not done deal Gulati’s statement about potential 2016 Copa America 3 hurt in fighting in Greece at Europa League game Stunning day in Champions League Ad
+    Premier League leaving Fox in US after this season PST: Solo won't be FIFA Women's player of year PST: Is De Rosario close to a return? PST: Everyone loves Alan Gordon, right? Man United midfielder Kagawa to miss 3-4 weeks Chelsea's Lampard out for 2 weeks Napoli, Cannavaro face match-fixing charge Superclasico: It's River vs. Boca, a game apart Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Michael Lynch / AP Lolo now on a different track
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Charlie Krupa / AP 'Doesn't look good'
     
-    Olympic Talk: Hurdler still seeking that Olympic gold, which might happen now that she's officially a member of U.S. bobsled team.
+    OlympicTalk: Lindsey Vonn's bid to race against men next month looking doubtful.
     
-    Two medals stolen from UK athletes. one still missing AIBA lifts USA Boxing's 3-month suspension Cycling not in jeopardy for Olympics, says IOC OlympicTalk: London $603 million under budget Jeff Blatnick, 1984 gold medal wrestler, dies OlympicTalk: Who will replace Coach K? OlympicTalk: Lolo pushing for Winter Olympics spot OlympicTalk: Were Aussie swimmers sleepwalking? Ad
+    Bad weather puts season-opening WCup race in doubt 4-time world champs grab attention at Skate Canada OlympicTalk: Lolo now on a different track Austrian skier Sieber, 23, dies in car crash 3xOlympic shooting champ Schumann retires at 50 Strnad shoots 1st major title in World Cup Final Two medals stolen from UK athletes. one still missing AIBA lifts USA Boxing's 3-month suspension Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Joel Saget / AFP - Getty Images Armstrong doping signs ignored
+    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Christophe Ena / AP Why leave Tour titles vacant?
     
-    Former Lance Armstrong insiders, Betsy Andreu and Emma O’Reilly, and one-time teammate, Tyler Hamilton, describe to Rock Center’s Harry Smith how they say Armstrong was able to continue racing despite signs that he might be doping.
+    SportsTalk: Erik Kuselias, Peter King, Pete Najarian and Chris Mannix stand in agreement that the Tour de France is wrong to not find the rightful winners of Lance Armstrong's vacated titles.
     
-    Ex-friends says Lance 'biggest fraud' in sports history Lance should leave public eye Olympic Talk: Cycling not in jeopardy for Olympics Emanuel Steward, famed boxing trainer, dies at 68 NCAA grad rates improving in football, basketball Laimbeer joins Liberty as general manager, coach Federer beats Bellucci in 3 sets at Swiss indoors Game On Dude to try again in Breeders' Cup Classic Ad
+    UCI: Tour winner list stays blank in Armstrong era Dallas promoter demands refund from Armstrong Azarenka nails down No. 1 ranking Sharapova beats Stosur at WTA Championships Summerville's McKissick earns win No. 600 Armstrong doping signs ignored Ex-friends says Lance 'biggest fraud' in sports One mom's defense of youth football Ad
 
 *   Scores
 *   Odds
