@@ -56,6 +56,8 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Nats, LaRoche make progress in contract talks
+*   Verlander won't start Game 4 on short rest
 *   Bumgarner rebounds, gives San Fran 2-0 lead
 *   Brewers considering making bid on Hamilton
 *   Move to pen for Lincecum likelier than trade
@@ -66,8 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Tigers likely to pick up Peralta's $6M option
 *   Delmon Young starting in LF again in Game 2
 *   Ryan Zimmerman undergoes shoulder surgery
-*   Matt Carpenter will work at 2B this offseason
-*   Mozeliak: Lohse is 'unlikely' to be re-signed
 
 NFL PAGES
 
@@ -85,9 +85,9 @@ NFL PAGES
 COLUMNS
 
 *   Matchups: Return of the Mac Oct 26
+*   Week 8 Rankings Oct 26
 *   Doug Looks Fresh Oct 26
 *   Week 8 Chat Oct 25
-*   Week 8 Rankings Oct 25
 *   Week 8 Target Watch: NFC Oct 25
 *   Arming Amendola Oct 25
 *   Matchup: Bucs @ Vikings Oct 25
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Vikings RCB Cook breaks right wrist on Thurs.
-*   Peterson runs for 123 yds, TD in loss to Bucs
-*   Martin rips Vikings for 214 yds, 2 TD in win
-*   Docs expect Jennings to be sidelined 3 weeks
-*   Donald Brown resumes practicing in full
-*   Packers WR Cobb now locked into major role
-*   Dwyer expected to draw second straight start
-*   Mendenhall remains out, Redman limited Thurs.
-*   Saints won't shop RB Chris Ivory at deadline
-*   Panthers moving to power-running scheme?
-*   Jimmy Graham limited again on Thursday
-*   Jordy Nelson heading toward game-time call
+*   Calvin Johnson officially probable for Week 8
+*   Shurmur on T-Rich: 'He is better this Friday'
+*   Bradshaw has bone bruise in troublesome foot
+*   Jordy Nelson to be game-day decision vs. Jags
+*   Vikings CB Cook broke arm, likely out for '12
+*   Jimmy Graham officially a game-time decision
+*   Pats formally rule Hernandez out for Week 8
+*   Panthers coach confirms J-Stew is starting RB
+*   Bradshaw officially questionable for Week 8
+*   Rashard Mendenhall won't play vs. Redskins
+*   Amendola questionable for Week 8 vs. Pats
+*   Pierre Garcon hoping to avoid surgery on toe
 
 NBA PAGES
 
@@ -134,8 +134,8 @@ NBA PAGES
 
 COLUMNS
 
+*   The Bruski 150 Oct 26
 *   Pre-draft Trip Around the NBA Oct 26
-*   The Bruski 150 Oct 24
 *   NBA Live Chat Monday at 1 p.m. Oct 20
 *   Points League Draft Recap Oct 20
 *   Players to Target Oct 20
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Kaman, Wright sit out another practice
-*   Tobias Harris posts big line in 17 minutes
-*   MRI shows Chandler (knee) has bone bruise
-*   Kyrie Irving has all four wisdom teeth pulled
-*   Lamar Odom's status up in the air for opener
-*   Kobe Bryant (foot) could miss season opener
-*   Chris Copeland scores 16 in 37 minutes
-*   Jae Crowder continues impressive preseason
-*   Mo Williams abdominal issue not groin-related
-*   Andrew Bynum unlikely to be ready for opener
-*   Report: Rookie Jonas Valanciunas will start
-*   Report: Brandon Bass favorite to start opener
+*   Beasley explodes for 29 and 10 vs. Nuggets
+*   Jae Crowder hits double digits again
+*   O.J. Mayo nearly triple-doubles in win
+*   Mullens struggles w/ shot, but drops 16 &. 19
+*   Anthony Davis goes beast mode vs. Heat
+*   Greivis Vasquez double-doubles in win
+*   Danny Granger play, but knee isn't right
+*   Austin Rivers aggravates right ankle injury
+*   Kobe (foot) gets treatment. iffy for opener
+*   Amare Stoudemire could miss first five weeks
+*   Young, Allen expected to start for Sixers
+*   George Hill (hip) not certain for opener
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Marc-Andre Gragnani sets up four goals in win
+*   Adam Erne explodes for five-point night
+*   Ryan Suter not happy with lockout, owners
+*   Matt Cullen thinks sides are extremely close
+*   St. Louis edges closer to playing in Europe
+*   Donald Fehr reacts to NHL's cancelations
+*   Daly issues statement regarding cancelations
+*   Police charge Eager with aggravated assault
+*   NHL abolishes all remaining November games
+*   Taylor Hall hopes to get cleared to play soon
+*   2013 NHL All-Star Game isn't in danger - yet
 *   NHL prepares to withdraw their latest offer
-*   Former minority owner weighs in on lockout
-*   Eakins praises N. Kadri's recent work ethic
-*   Enroth will get some playing time in Sweden
-*   Scott Hartnell to play in Finland by Nov. 15
-*   Even President Obama is puzzled by lockout
-*   Anthony Mantha dominates in jaw-dropping game
-*   Jonathan Drouin a force with four-point night
-*   Donald Fehr: Players are ready to meet again
-*   Fedotenko's hat trick sinks Malkin's KHL team
-*   Winter Classic decision won't come until Nov
-*   Gary Bettman: NHL isn't considering expansion
 
 NASCAR PAGES
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
-*   Martin Truex Jr. Martinsville advance
-*   Paludo in pursuit of Grandfather Clock trophy
-*   James Buescher Martinsville advance
-*   Nelson Piquet Jr. at Martinsville Speedway
-*   Brian Vickers aims for another strong run
-*   Fast facts at Martinsville on Matt Kenseth
-*   Regan Smith to JR Motorsports in 2013
-*   Carl Edwards fast facts at Martinsville
-*   Jason White Martinsville Speedway notes
-*   Marcos Ambrose at Martinsville Speedway
-*   Pink Ribbon Campaign on Ken Schrader's No. 32
-*   Lofton still fighting for the Championship
+*   Waltrip, Vickers &. Martin in No. 55 in 2013
+*   Vickers, Martin &. Waltrip in No. 55 in 2013
+*   Martin, Vickers &. Waltrip in No. 55 in 2013
+*   Brad Keselowski HotPass on DIRECTV notes
+*   Clint Bowyer HotPass on DIRECTV notes
+*   Jimmie Johnson HotPass on DIRECTV notes
+*   Dale Earnhardt Jr. HotPass on DIRECTV notes
+*   J.J. Yeley not in Tums Fast Relief 500 field
+*   Mike Bliss not in Martinsville Cup field
+*   Speed gets last Cup slot at Martinsville
+*   McDowell top Martinsville Cup go-or-go-homer
+*   Josh Wise top rookie starter at Martinsville
 
 GOLF PAGES
 
@@ -285,6 +285,10 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Garrigus enters CIMB finale as a co-leader
+*   BVP flirts w/ 59. settles for 54-hole co-lead
+*   Hole-in-one fuels Dufner in the third round
+*   No surprise, Patrick Reed medals at Q School
 *   Garrigus out front after 36 holes in Malaysia
 *   Matteson spins bogey-free 63 to lead the CIMB
 *   Els (ankle) 'will be fine' for the WGC-HSBC
@@ -293,10 +297,6 @@ FANTASY GOLF NEWS
 *   Van Pelt cruises to a two-stroke win in Perth
 *   Love III tied for the lead at Seaside Course
 *   Furyk tied for 54-hole lead at the McGladrey
-*   Bowditch stumbles with a 75. one of many MDFs
-*   Atwal in charge at the McGladrey midpoint
-*   Ill Mark Anderson survives. 54-hole cut looms
-*   Dawson buries 9 birdies en route to co-lead
 
 NFL DRAFT PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Week Nine Matchup Preview Oct 26
 *   Dysert For Dinner Oct 24
 *   Prospect Snapshots: Weeks 7-8 Oct 23
 *   Senior Surprise: RB Gillislee Oct 22
@@ -318,7 +319,6 @@ COLUMNS
 *   Week Eight Matchup Preview Oct 19
 *   The Forgotten One Oct 17
 *   Kenny Vaccaro: Spread Stopper Oct 15
-*   Week Seven Matchup Preview Oct 12
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Fresno St. S Thomas creating buzz with Scouts
+*   Graham encouraged to hit hole more quickly
+*   McShay: When healthy, Jenkins is top cover LB
+*   Tide S Lester will play vs Miss St. (ankle)
+*   Scout: Mathieu 6th, 7th, or undrafted in '13
+*   Tar Heels T Brennan Williams out for season
+*   Sammy Watkins hauls in 202 yds, 1 TD vs WF
+*   Tajh Boyd throws five TDs vs Wake on Thursday
 *   Mathieu, three other former Tigers arrested
 *   Cincy OLB Stewart likely done for the season
 *   Chance Warmack acting as Bama's backup C?
 *   Tigers down starting CBs vs Wake on Thursday
-*   Denard Robinson may see more time on KR
-*   Cardinal preparing to be without Ertz in 2013
-*   Noles remove Greene from PR after 3 fumbles
-*   Buckeyes RB Hall re-injures knee, redshirt?
-*   McShay: Thomas, Bray, Boyd off Draft board
-*   Robert Woods not thinking about the NFL, yet
-*   Ferentz sticking with James Vandenberg at QB
-*   Weidl: McCarron 'coming along', not there yet
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Vikings RCB Cook breaks right wrist on Thurs.
-*   NFL:Peterson runs for 123 yds, TD in loss to Bucs
-*   NFL:Martin rips Vikings for 214 yds, 2 TD in win
-*   MLB:Bumgarner rebounds, gives San Fran 2-0 lead
-*   MLB:Brewers considering making bid on Hamilton
-*   NFL:Docs expect Jennings to be sidelined 3 weeks
-*   CFB:Mathieu, three other former Tigers arrested
-*   NFL:Donald Brown resumes practicing in full
-*   MLB:CC Sabathia undergoes minor elbow surgery
-*   NFL:Packers WR Cobb now locked into major role
-*   MLB:Rivera 'having second thoughts' about return
-*   GOL:Garrigus out front after 36 holes in Malaysia
+*   NBA:Amare Stoudemire could miss first five weeks
+*   NBA:Mullens struggles w/ shot, but drops 16 &. 19
+*   NAS:Johnson on pole for Tums Fast Relief 500
+*   NFL:Calvin Johnson officially probable for Week 8
+*   NBA:Kobe (foot) gets treatment. iffy for opener
+*   NFL:Rashard Mendenhall won't play vs. Redskins
+*   NFL:Shurmur on T-Rich: 'He is better this Friday'
+*   NFL:Jordy Nelson to be game-day decision vs. Jags
+*   NFL:Vikings CB Cook broke arm, likely out for '12
+*   NFL:Jimmy Graham officially a game-time decision
+*   NFL:Panthers coach confirms J-Stew is starting RB
+*   GOL:Garrigus enters CIMB finale as a co-leader
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1T. RichardsonNFL (8127)
-*   2M. Jones-DrewNFL (8096)
-*   3J. DwyerNFL (7301)
-*   4R. MendenhallNFL (6586)
-*   5A. BradshawNFL (6403)
+*   1M. Jones-DrewNFL (8571)
+*   2T. RichardsonNFL (8356)
+*   3J. DwyerNFL (6926)
+*   4D. BrownNFL (6832)
+*   5R. MendenhallNFL (6756)
 
-*   6J. GrahamNFL (6251)
-*   7D. BrownNFL (6220)
-*   8G. JenningsNFL (6205)
-*   9R. JenningsNFL (6203)
-*   10F. JonesNFL (6073)
+*   6F. JonesNFL (6646)
+*   7R. JenningsNFL (6615)
+*   8A. BradshawNFL (6476)
+*   9G. JenningsNFL (6294)
+*   10D. AmendolaNFL (6244)
 
   
 Video Center
@@ -526,6 +526,10 @@ Video Center
 *   »
 
 *      
+    Week 8 Starts &. Sits 4 p.m.
+*      
+    Week 8 Starts &. Sits 1 p.m.
+*      
     Start or Sit: Bucs - Vikings
 *      
     Fix: Week 8's top pickups
@@ -537,10 +541,6 @@ Video Center
     SportsTalk: Week 7 Fear Factor
 *      
     Week 7 Starts &. Sits 4 p.m.
-*      
-    Week 7 Starts &. Sits 1 p.m.
-*      
-    Fix: NBA rookies to draft
 
   
   
@@ -550,9 +550,9 @@ Oct 26 Evan Silva recommends to start Jeremy Maclin against the Falcons and bre
 More NFL Columns
 
 *   »Matchups: Return of the Mac Oct 26
+*   »Week 8 Rankings Oct 26
 *   »Doug Looks Fresh Oct 26
 *   »Week 8 Chat Oct 25
-*   »Week 8 Rankings Oct 25
 *   »Week 8 Target Watch: NFC Oct 25
 *   »Arming Amendola Oct 25
 *   »Matchup: Bucs @ Vikings Oct 25
@@ -560,18 +560,18 @@ More NFL Columns
 
 NFL Headlines
 
-*   »Vikings RCB Cook breaks right wrist on Thurs.
-*   »Peterson runs for 123 yds, TD in loss to Bucs
-*   »Martin rips Vikings for 214 yds, 2 TD in win
-*   »Docs expect Jennings to be sidelined 3 weeks
-*   »Donald Brown resumes practicing in full
-*   »Packers WR Cobb now locked into major role
-*   »Dwyer expected to draw second straight start
-*   »Mendenhall remains out, Redman limited Thurs.
-*   »Saints won't shop RB Chris Ivory at deadline
-*   »Panthers moving to power-running scheme?
-*   »Jimmy Graham limited again on Thursday
-*   »Jordy Nelson heading toward game-time call
+*   »Calvin Johnson officially probable for Week 8
+*   »Shurmur on T-Rich: 'He is better this Friday'
+*   »Bradshaw has bone bruise in troublesome foot
+*   »Jordy Nelson to be game-day decision vs. Jags
+*   »Vikings CB Cook broke arm, likely out for '12
+*   »Jimmy Graham officially a game-time decision
+*   »Pats formally rule Hernandez out for Week 8
+*   »Panthers coach confirms J-Stew is starting RB
+*   »Bradshaw officially questionable for Week 8
+*   »Rashard Mendenhall won't play vs. Redskins
+*   »Amendola questionable for Week 8 vs. Pats
+*   »Pierre Garcon hoping to avoid surgery on toe
 
 NFL Links
 
