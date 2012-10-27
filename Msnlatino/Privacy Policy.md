@@ -688,17 +688,17 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡Qué seducción!
+*   ¡Pilas pues!
     
-    Clara y Camilo viven una pasión prohibida.
+    Entra y descubre el mundo de las novelas.
     
-*   ¿Eres arriesgada por amor?
+*   Calienta tu Halloween
     
-    Descubre cómo ser original en tu próxima cita  
+    Un kit de juguetes para la noche perversa  
     
-*   ¡Déjate hechizar!
+*   ¡Confirmado!
     
-    Carla te envuelve con un fuego que endulza
+    Jencarlos y Mónica serán la nueva pareja estelar
     
 *   Secretos de belleza
     
