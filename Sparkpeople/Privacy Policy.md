@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Kettlebells Workout Resources
+*   Lying Hamstring Stretch Resources
 
   
-Stay in Touch With SparkPeople **Your Good-Better-Best Guide to the Grocery**
+Stay in Touch With SparkPeople **No Tricks! Just Healthier Halloween Treats!**
 
-Between availability, taste preferences and budget constraints, it's not always possible to make ideal food choices. Use our "Good-Better-Best" guide to eat optimally in any situation.
+Are you spooked by the ingredients in Halloween candy? Then stock up on these not-so-scary sweets that kids love!
 
 Read More
 
-*   Specific Tips to get through the Weekend
-*   Why the scale isn't a good indicator of health.
-*   Who Motivates you on Sparkpeople?
-*   What's your "go to" type of workout?
+*   What does it mean to eat healthy?
 *   Healthy Halloween snacks
+*   Do you have a goal after weight loss?
+*   What's your "go to" type of workout?
+*   Who Motivates you on Sparkpeople?
 
-View Demo **Two-Leg Standing Balance on Board**  
-The perfect move to start your balance training program. **Cranberry-Orange Creme Brulee**  
+View Demo **One-Arm Dumbbell Rows**  
+This is a great back, shoulder, and arm strengthener! **Slow Cooker Beef Roast with Vegetables**  
 Submitted By: **CHEF\_MEG**
 
-This creme brulee recipe is full of flavor not fat--perfect for a dessert on a chilly evening. Full Recipe
+Try using an English Cut Beef Roast. It is economical and flavorful. This cut of meat comes from the shoulder or neck area of the animal. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
