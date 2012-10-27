@@ -1,5 +1,5 @@
   
-Users Online Now: **1,825** (Who's On?) Visitors Today: **436,700** Pageviews Today: **652,005** Threads Today: **235** Posts Today: **3,716** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,741** (Who's On?) Visitors Today: **332,451** Pageviews Today: **569,794** Threads Today: **237** Posts Today: **3,600** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.015s (0 queries)
+Page generated in 0.017s (0 queries)
