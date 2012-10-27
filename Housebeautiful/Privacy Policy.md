@@ -29,9 +29,9 @@ More Kitchens &. Entertaining Photo Galleries
 
 More Photo Galleries Shopping &. Gifts
 
+*   11 Cool Accent Chairs
 *   Pretty Floral Wallpapers
 *   The Salon: Art &. Design
-*   Happy Home Decor
 
 More Shopping &. Gifts Most Popular
 
@@ -43,7 +43,7 @@ More Most Popular What's New
 
 *   Black Magic
 *   Spooky Chic Halloween Decor
-*   Do-It-Now Ideas
+*   Easy Christmas Decor Tips
 
 More What's New Featured
 
