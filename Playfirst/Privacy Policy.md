@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (65.4 MB) Top PC Downloads 1 Cooking Dash 2 Diner Dash 3 Diner Dash 2 Restaurant Rescue 4 Wedding Dash 5 Diner Dash: Hometown Hero 6 Farm Frenzy 2 7 SpongeBob SquarePants Diner Dash 8 Diner Dash 5: BOOM 9 Hotel Dash: Suite Success 10 Diner Dash Flo on the Go » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (33.7 MB) Top PC Downloads 1 Cooking Dash 2 Diner Dash 3 Diner Dash 2 Restaurant Rescue 4 Wedding Dash 5 Diner Dash: Hometown Hero 6 Diner Dash Flo on the Go 7 Farm Frenzy 2 8 SpongeBob SquarePants Diner Dash 9 Diner Dash 5: BOOM 10 Hotel Dash: Suite Success » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -265,7 +265,11 @@ Help Quinn make wedding bells ring!
 
 Restore Flo's hometown!
 
-**Play Free!** (33.4 MB) Try It Farm Frenzy 2 DASH™ &. Time Mgmt Games
+**Play Free!** (33.4 MB) Try It Diner Dash Flo on the Go DASH™ &. Time Mgmt Games
+
+Flo trades in her apron for a passport to paradise!
+
+**Play Free!** (11.8 MB) Try It Farm Frenzy 2 DASH™ &. Time Mgmt Games
 
 Feed chickens, collect eggs, stock your warehouse and ship your goods off to market!
 
@@ -281,11 +285,7 @@ Rebuild Flo's Diner from scratch!
 
 Flo's going into the hotel business!
 
-**Play Free!** (33.7 MB) Try It Diner Dash Flo on the Go DASH™ &. Time Mgmt Games
-
-Flo trades in her apron for a passport to paradise!
-
-**Play Free!** (11.8 MB) Try It Log In New to PlayFirst?
+**Play Free!** (33.7 MB) Try It Log In New to PlayFirst?
 
 Sign up below to create a new PlayFirst account.
 
