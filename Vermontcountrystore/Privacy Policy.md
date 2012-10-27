@@ -5,6 +5,16 @@ Skip to Navigation Skip to Main Content
 *   Catalog Quick Shop
 *   Customer Service
 
+*   Christmas
+    *   Seasonal Favorites
+    *   Holiday Decorations
+    *   Holiday Food &. Candy
+    *   Christmas Trees
+    *   Ornaments &. Tree Trimming
+    *   Candles
+    *   Balsam
+    *   Classic Toys
+    *   Barclay Collectible Figurines
 *   Clothing
     
     *   Women's
@@ -36,6 +46,8 @@ Skip to Navigation Skip to Main Content
     *   New This Season
     *   Loungewear
     *   Vermont Country Store Sweatshirt Wear
+    *   Buy More, Save More
+    *   Chill Chasers
     *   Clothing Favorites
     *   SALE - Clothing
 *   Sleepwear
@@ -118,18 +130,10 @@ Skip to Navigation Skip to Main Content
     *   Breakfast
     *   Food &. Candy Favorites
     *   SALE - Food &. Candy
+    *   Brands From The Past Favorites
+    *   Halloween
+    *   Thanksgiving Traditions
 *   For The Home
-    
-    *   Christmas Shop
-    *   Seasonal Favorites
-    *   Holiday Decorations
-    *   Holiday Food &. Candy
-    *   Christmas Trees
-    *   Ornaments &. Tree Trimming
-    *   Candles
-    *   Balsam
-    *   Toys Favorites
-    *   Barclay Collectible Figurines
     
     *   Bed &. Bath
     *   Flannel Bedding
@@ -173,6 +177,12 @@ Skip to Navigation Skip to Main Content
     *   New This Season
     *   Outdoor
     *   Fitness
+    *   Winter Solutions
+    *   Made In The USA Favorites
+    *   Mosser Glassware
+    *   Chill Chasers
+    *   Thanksgiving Traditions
+    *   Buy More, Save More
     *   For The Home Favorites
     *   SALE - For The Home
 *   Health &. Beauty
@@ -207,6 +217,7 @@ Skip to Navigation Skip to Main Content
     *   Diabetic Friendly
     *   Health &. Beauty Favorites
     *   SALE - Health &. Beauty
+    *   Brands From The Past Favorites
 *   Toys
     *   New This Season
     *   Classic Toys
@@ -214,6 +225,14 @@ Skip to Navigation Skip to Main Content
     *   Dolls &. Plush
     *   Fisher Price
     *   Toys Favorites
+*   Yankee Bargains
+    *   SALE - Sleepwear
+    *   SALE - Clothing
+    *   SALE - Food &. Candy
+    *   SALE - For The Home
+    *   SALE - Health &. Beauty
+    *   Yankee Bargains - New Markdowns
+    *   Last Chance Final Markdowns
 *   Gifts
     *   Seasonal Favorites
     *   Gifts For Her
@@ -225,68 +244,6 @@ Skip to Navigation Skip to Main Content
     *   Gifts Under $50
     *   Gifts Under $100
     *   Wedding Gifts
-*   Yankee Bargains
-    *   SALE - Sleepwear
-    *   SALE - Clothing
-    *   SALE - Food &. Candy
-    *   SALE - For The Home
-    *   SALE - Health &. Beauty
-    *   Yankee Bargains - New Markdowns
-    *   Last Chance Final Markdowns
-*   More Ways to Shop
-    
-    *   Christmas Shop
-    *   Seasonal Favorites
-    *   Holiday Decorations
-    *   Holiday Food &. Candy
-    *   Christmas Trees
-    *   Ornaments &. Tree Trimming
-    *   Candles
-    *   Balsam
-    *   Toys Favorites
-    *   Barclay Collectible Figurines
-    
-    *   New This Season
-    *   Sleepwear
-    *   Clothing
-    *   Food &. Candy
-    *   For The Home
-    *   Health &. Beauty
-    *   Toys
-    
-    *   Brands From The Past
-    *   Barclay Collectible Figurines
-    *   Fisher Price
-    *   Lanz of Salzburg
-    *   Leon Levin
-    *   Mosser Glassware
-    *   Munsingwear
-    *   Fuller
-    *   Brands From The Past Favorites
-    
-    *   Customer Suggested
-    *   Sleepwear
-    *   Clothing
-    *   Food &. Candy
-    *   For The Home
-    *   Health &. Beauty
-    *   Toys, Books &. Hobbies
-    
-    *   Tried &. True
-    *   Clothing
-    *   Food &. Candy
-    *   For The Home
-    *   Health &. Beauty
-    *   Toys, Books &. Hobbies
-    *   Original. Authentic.
-    
-    *   Made In The USA Favorites
-    *   Chill Chasers
-    *   Buy More, Save More
-    *   25 Favorites Under $25
-    *   Halloween
-    *   Thanksgiving Traditions
-    *   Gift Cards
 *   Visit Us
     
     *   About Weston
