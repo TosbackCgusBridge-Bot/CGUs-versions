@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** Britain rejects US request to use UK bases in nuclear standoff with Iran
-2.  2\. **News:** Britain favoured execution over Nuremberg trials for Nazi leaders
-3.  3\. **Books:** The world's worst typos – in pictures
-4.  4\. **News:** Donald Trump wants Barack Obama to publish his college and passport records but won't reveal his own
-5.  5\. **Film:** Skyfall – review
+1.  1.  **Life &. style:** My life on a plate: famous foodies' food diaries
+2.  2\. **Film:** John Goodman: 'Alcohol was becoming life or death. It was time to stop'
+3.  3\. **News:** Hurricane Sandy: 41 dead as as authorities declare state of emergency
+4.  4\. **Books:** Dawn French: 'I had to grow up, to become the matriarch'
+5.  5\. **Comment:** Europe is turning away from Turkey – and the rest of the world | Orhan Pamuk
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Childrens' books:** How to draw... a crocodile
-2.  **Technology:** Windows 8 launch a 'defining moment' for Microsoft's Steve Ballmer
-3.  **News:** Britain favoured execution over Nuremberg trials for Nazi leaders
-4.  **Education:** Trainee teachers face tougher English and maths tests
-5.  **Business:** Eurozone crisis live: Spanish unemployment hits record high ahead of US GDP
+1.  **Environment:** Ash tree ban may be too late to avert 'UK tragedy', says expert
+2.  **Stage:** The River – review
+3.  **Science:** Women who quit smoking before 30 cut risk of tobacco-related death by 97%
+4.  **Books:** Dawn French: 'I had to grow up, to become the matriarch'
+5.  **Life &. style:** Sudoku 2,329 hard
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Mediacom
-2.  2\. Jeremy Hunt: NHS reforms offer new opportunities to integrate health and social care
-3.  3\. Viral Video Chart: Brad Pitt ad spoofs, iPad mini v Surface, Ruff Dog Day
-4.  4\. Afghanistan suicide bomber kills Eid worshippers at mosque, police say – video
-5.  5\. How do you decide what to see at the theatre? Word of mouth v reviews
+1.  1.  Aston Villa v Norwich City – live!
+2.  2\. US elections 2012: Desperate struggle for women's votes as race enters final stretch
+3.  3\. Ecologists preparing for boom in urban wildlife 'invaders'
+4.  4\. Alexander Wurz takes Shanghai pole in World Endurance Championship
+5.  5\. Hurricane Sandy downgraded as storm heads for US east coast
 6.  All today's stories
 
 On the Guardian today
 
 1.  Life and style Mapping the body: the temple
-2.  World news Britain rejects US request to use UK bases in nuclear standoff with Iran
-3.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-4.  World news New York Times blocked by China after report on wealth of Wen Jiabao's family
-5.  Comment is free Iran sanctions now causing food insecurity, mass suffering
-6.  Football Barcelona and Real Madrid draw El Clásico thriller at Camp Nou
+2.  World news Sununu race row continues as Cory Booker calls comments 'disrespectful'
+3.  Comment is free Journalism in the Obama age shows the real media bias
+4.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+5.  World news Hurricane Sandy: 41 dead as as authorities declare state of emergency
+6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
 
 *   License/buy our content
 |*   Privacy policy
