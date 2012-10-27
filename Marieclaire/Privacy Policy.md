@@ -81,6 +81,10 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 
 Latest blog entries
 
+*   Donatella Does Downtown: Versace Opens New SoHo Store
+    
+    It's not every day that you can say Donatella Versace gave you a private tour of the Versace store, but that is precisely what happened yesterday afternoon at the Italian label's new Soho space at 160 Mercer Street. 10/25/12
+    
 *   Meet the Only Pro-Choice Woman Running for Governor
     
     In an election rife with discussion of abortion, birth control, rape, and equal pay, it's hard to believe that Maggie Hassan is the only pro-choice woman running for governor, in the battleground state of New Hampshire. 10/25/12
@@ -96,10 +100,6 @@ Latest blog entries
 *   Dressed to Thrill: Katie Holmes in Narciso Rodriguez for Kohl's
     
     Our chic celebrity look of the day. 10/24/12
-    
-*   Shop It Now: Massimo Dutti Opens First U.S. Store
-    
-    Massimo Dutti officially opened its first stateside store in New York last week, and the 13,131 square-foot space of classic, reasonably-priced, European goodness is bound to become one of our new Fifth Avenue shopping staples. 10/24/12
     
 *   See all blogs
 
