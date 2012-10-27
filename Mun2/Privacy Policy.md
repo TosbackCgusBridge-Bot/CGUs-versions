@@ -23,23 +23,23 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 25 10:00 PM · OJO POR OJO coming up next:
+schedule right now: October 27 02:00 AM · PARTY MIX coming up next:
 
-*   11:00 PM · OJO POR OJO
-*   12:00 AM · OPERACION REPO
-*   12:30 AM · OPERACION REPO
-*   1:00 AM · DECISIONES
-*   2:00 AM · DELICIOUS
 *   3:00 AM · MORNING BREATH
 *   4:00 AM · MORNING BREATH
 *   5:00 AM · MORNING BREATH
 *   6:00 AM · SMB
-*   8:00 AM · REVENTON
-*   9:00 AM · MORNING BREATH
-*   10:00 AM · L'CREME
-*   11:00 AM · L'CREME
-*   12:00 PM · DELICIOUS
-*   1:00 PM · AL CIEN 100%
+*   8:00 AM · MORNING BREATH
+*   9:30 AM · mun2 PRESENTS: BELINDA
+*   10:30 AM · JENNI RIVERA PRESENTS: CHIQUIS &. RAQ-C
+*   11:30 AM · 18 &. OVER
+*   1:00 PM · REVENTON
+*   2:00 PM · I LOVE JENNI
+*   3:00 PM · CHIQUIS 'N CONTROL
+*   4:00 PM · OPERACION REPO
+*   4:30 PM · OPERACION REPO
+*   5:00 PM · YO ME LLAMO
+*   7:00 PM · CINE CLASICO Y COOL: EL PORTERO (PUERTA JOVEN)
 
 see full schedule >>.
 
