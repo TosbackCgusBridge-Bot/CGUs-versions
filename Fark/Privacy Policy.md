@@ -148,49 +148,49 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    Jane, You Ignorant Slut
+    Free Candy Orange
 *     
-    Germ-A-Phobe - Hand Sanitizer
+    DIY Vasectomy Magnet Set
 *     
-    X-Wing Fighter - Super Deformed Plush
+    Ballpark Gumballs
 *     
-    Mr. Potato Head - Captain Kirk and Klingon Kor
+    Mixed Messages Mug
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
-Watch Hot Cheerleaders Go Gangnam Sty...  
-Don't Ever Tell A Girl She Can't Play...  
-Ellen DeGeneres' Topless Pool Service...  
-Famous Black Eye Moments  
+Mother Boo Boo's Hideous Chins  
+Let's Face It: These Horror Masks Are...  
+Prepare to Be Disturbed \[GALLERY\]  
+This Gallery Will Freak You Out!  
 More news at Scribol »  
   
   
-We Show It ALL  
-Meet Derek, The Abstinence Clown  
-Real Ghosts  
-Scary Little Babies  
-More news at truTV »  
+Detective Convicted in 'Zoloft' Rape...  
+Cops: Boss Used Company Computer to S...  
+Man, 83, Who Killed Roommate for Sing...  
+Car Slams into Target Department Stor...  
+More news at KTLA »  
   
   
-〈center〉 〈i〉 $780,000〈/i〉〈/center〉  
-Women Secretly Filmed Topless At Hog...  
-Burglary Suspect Was Drinking Beer In...  
-That's Chin-teresting: Doctors Even O...  
+Pre-Labor Day Pregnant Bikini Contest  
+The State Fair Food That Will Cause Y...  
+The 20 Worst Hipster Bands: The Compl...  
+Internet Cat Video Film Festival Exists  
+More news at Village Voice »  
+  
+  
+Meet The Breastmilk World Record Holder  
+WATCH: Man Honors Wife's Dying Reques...  
+Homeless Man Allegedly Travels US For...  
+WATCH: Teen's Ridiculous Attempt To G...  
 More news at HuffPostWeirdNews »  
-  
-  
-Ninja Gaiden 3: Razor's Edge Wii U Re...  
-Medal Of Honor Warfighter: A First-Pe...  
-The Far Cry Experience Trailer -- 4-P...  
-Halo 4 War Games Map Pass Announced -...  
-More news at G4TV »  
   
 
 Also on Fark
 
-Main Not only do you have to contend with all the poisonous spiders, snakes, jellyfish, octopi and crocodiles. Now poison gas canisters are washing up on Australian shores. Australia has a vendetta against humans ( cairns.com.au ) » (11 comments) Sports Not news: 12-year-old is the leading scorer on his peewee hockey team. Fark: He's also six-foot-five. If he were a worse shot, the Flames always have room on their team for a goon (w/video) ( sports.yahoo.com ) » (5 comments) Business Facebook concedes that messages now reach only 15% of a page's fans, down from 100% as of a few months ago. In a wonderful coincidence, you can solve this by paying them money ( dangerousminds.net ) » (37 comments) Geek Scientists use lasers to perform manscaping on beetle's spiky penis. Still no cure for cancer ( blogs.discovermagazine.com ) » (5 comments) Entertainment Not News: HuffPo interviews comedian Doug Stanhope. News: He impersonates Johnny Rotten. Fark: Nobody notices ( examiner.com ) » (2 comments) Politics Meat Loaf endorses Romney. Which is Ironic given that Mitt will pretty much do anything for love...yes even that ( news.yahoo.com ) » (35 comments) Video Master weatherman Frankie MacDonald has important information to you East Coasters in Hurricane Sandy's path. Pay attention people, this is important ( liveleak.com ) » (26 comments) FarkUs Will Christian Ponder pass for more yardage than Adrian Peterson gains rushing? Can Josh Freeman make it three consecutive 300+ yard games? Bucs battle Minnesota on Thursday Night Football, 8:20 ET on NFL Network ( scores.espn.go.com ) » (639 comments)
+Main Russian President Putin on 'Pussy Riot': 'They would be at home doing housework if they had not broken the law' ( dailymail.co.uk ) » (6 comments) Sports A nice slate of matches on Saturday, plus a Merceyside derby and a table-top tussle on Sunday. Your weekend EPL thread is here ( bbc.co.uk ) » (3 comments) Business Samsung snags smartphone crown, ships more smartphones in Q3 than any company. In history ( bgr.com ) » (90 comments) Geek The most spectacular photos of the solar system from the last 50 years in spectacular non-slideshow format ( wired.com ) » (0 comments) Entertainment G4 cancels Attack of the Show and X-Play because there just wasn't enough room on the schedule for those shows and 23 hours of Cops per day ( hitfix.com ) » (6 comments) Politics Who said it: a Christian conservative, or an Islamic fundamentalist? ( slate.com ) » (121 comments) Video Earsplitting footage of what Meat Loaf will do for... Mitt Romney. Not quite that, but close ( entertainment.nbcnews.com ) » (25 comments) FarkUs Question: What do felines, fruit flies, and Count Rugen have in common? Answer: Caturday (no, it's not inconceivable, and for once it really does mean what you think it means) ( io9.com ) » (332 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main Not only do you have to contend with all the poisonous spiders, snakes, jel
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 26 2012 08:00:30  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 27 2012 08:00:25  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
