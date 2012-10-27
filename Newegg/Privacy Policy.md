@@ -241,11 +241,8 @@ Shop by Region: **United States** | Canada | China
 *   Login/Register.
 *   My Account.
 *   Order Status.
-*   Order History/Print Invoice.
 *   Wish Lists.
 *   RMA Request.
-*   Track My Order
-    
 
 *   About Us.
 *   Office Hours and Location.
