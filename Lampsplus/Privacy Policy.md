@@ -1,11 +1,10 @@
-Wish List \[    \] Cart \[    \] Search Keyword or item #  
+Order Status Wish List \[    \] Cart \[    \] Search Keyword or item #  
 
 *   Sale
 *   Clearance
 *   Shop by Room
 *   Stores
 *   Catalogs
-*   Order Status
 *   Contact Us
 *   800-­782-1967
 
@@ -322,8 +321,6 @@ Furniture
     Buffets
     
     Chests
-    
-    Curio Cabinets
     
     Entertainment Centers
     
