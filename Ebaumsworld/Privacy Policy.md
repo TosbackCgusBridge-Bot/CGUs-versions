@@ -1,27 +1,27 @@
-*   VIDEO Best Homemade Dinosaur Ever
-*   WEIRD DANCERS GALLERY World's Worst Dance Crews
-*   VIDEO Rubik's Cube Solved By Lego!
+*   VIDEO Stinky Cheese
+*   HALLOWNEED BLOG Halloween...
 *   CONTEST GALLERY eBaum's World Halloween Costume Contest
-*   VIDEO Cam Zink Canyon Gap Jump Crash
+*   VIDEO Killer Fish
+*   VIDEO Guys Reel In Shark On The Beach
+*   VIDEO Deer VS Skater
+*   VIDEO Pedestrian Nearly Has Legs Crushed
+*   WEIRD DANCERS GALLERY World's Worst Dance Crews
+*   VIDEO Log Crossing Epic Fail
+*   GALLERY Space Shuttle On The Streets Of LA
+*   VIDEO Travis Snider Makes Amazing Catch
 *   VIDEO Kid Rock &. Pam Anderson Yell at Paparazzi
-*   VIDEO Slow Mo: Molotov Cocktail Against House
-*   MOVIE PRESIDENTS BLOG Hollywood's Greatest Presidents
-*   VIDEO Creek Jump Fail
-*   VIDEO Woman Tells Chris Matthews Obama Is Communist
-*   COMMUNITY GAME Neckbeard Basement Escape
-*   VIDEO Man With Press Pass Trolls Fox News
 *   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
-*   VIDEO Incredible 67-Yard Field Goal
-*   VIDEO Bus Driver Uppercuts Girl - Cartoon Version
-*   VIDEO Junk Dealer Returns $114,000
-*   GOOD &. BAD LUCK BLOG Lesser Known Superstitions
+*   VIDEO Robot On A Tightrope
+*   VIDEO Teacher Gets Ass Kicked By 1st Grader
+*   MOVIE PRESIDENTS BLOG Hollywood's Greatest Presidents
+*   VIDEO 7 Year Old Blind Prodigy Shocks Jazz World
 *   VIDEO Female Driver Fails at Parking
-*   VIDEO Kid Licks Subway Railing For 1 Dollar
-*   VIDEO NFL Replacement Refs - In Memoriam
+*   VIDEO Baby Hates Cat Sounds
+*   VIDEO Track Drifting Fail
+*   GOOD &. BAD LUCK BLOG Lesser Known Superstitions
 *   CUBE MAPPING PARTNER 3D Cube Mapping Demo
-*   VIDEO Alabama Lineman Suplex's Missouri Player
-*   VIDEO Police Beat Young Teens In Madrid Spain
-*   OBAMA OR NOBAMA BLOG Obama and Hitler: A Comparative Analysis
+*   VIDEO Pitiful Escape Attempt
+*   VIDEO Behind the Finger
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
@@ -111,15 +111,15 @@ Last updated: March 31, 2011.
 
 EBAUM'S PICKS The Greatest R/C Car Chase Ever CREEK JUMP......Come On Over Baby Highlight Video of Felix Baumgartners Historic Jump Alabama Lineman Suplex's Missouri Player Top 5
 
-*   *   103,874
+*   *   108,729
     *   32 Random Interesting Facts
-*   *   95,637
+*   *   107,362
     *   Deformities of the Stars
-*   *   93,235
+*   *   96,460
     *   How To Knock Someone Out
-*   *   91,694
+*   *   94,499
     *   Monday Morning Randomness
-*   *   91,112
+*   *   94,258
     *   LG Pranks Innocent Elevator Riders
 
 POPULAR GALLERIES Best Viral Pics of The Week Compilation Brilliant YouTube Comments POPULAR GAMES Cloud Wars Election Ejection 2012 Into Space 2 Slender - Bones of Children
