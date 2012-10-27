@@ -203,74 +203,74 @@ Registrieren Login
 9.  Pokemon
 10.  Steam
 
-Top-50 Themen Thema Anzahl Apple 83766 Arbeit 64534 Ausbildung 49957 Auto 90669 Beauty 68941 Beruf 77153 Beziehung 71614 Computer 535103 Computerspiele 64304 deutsch 66830 Englisch 51942 ErnÃ¤hrung 50572 essen 70944 Facebook 77053 Fernsehen 60122 Film 99636 Finanzen 58825 Freizeit 262100 FuÃball 50989 Games 124084 Geld 93128 Gesundheit 204999 Haare 82290 Handy 203817 Hilfe 147959 Internet 321328 iPhone 74983 Kinder 50745 KÃ¶rper 49955 Laptop 73157 Liebe 164647 Lied 54253 MÃ¤dchen 56005 Medizin 62525 Minecraft 67542 Musik 279673 PC 281164 PC-Spiele 48441 Problem 54957 PS3 59876 Recht 95007 Schule 234566 Software 56891 Spiele 136603 Sport 110494 Technik 120072 Tiere 64642 TV 54186 Video 52487 Youtube 82818 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 83889 Arbeit 64586 Ausbildung 50002 Auto 90736 Beauty 68981 Beruf 77196 Beziehung 71697 Computer 535534 Computerspiele 64367 deutsch 66871 Englisch 51969 ErnÃ¤hrung 50603 essen 71001 Facebook 77163 Fernsehen 60160 Film 99754 Finanzen 58843 Freizeit 262249 FuÃball 51028 Games 124253 Geld 93213 Gesundheit 205142 Haare 82400 Handy 204084 Hilfe 148154 Internet 321596 iPhone 75083 Kinder 50784 KÃ¶rper 50020 Laptop 73251 Liebe 164834 Lied 54314 MÃ¤dchen 56086 Medizin 62576 Minecraft 67653 Musik 279883 PC 281473 PC-Spiele 48494 Problem 55032 PS3 59973 Recht 95065 Schule 234744 Software 56943 Spiele 136762 Sport 110567 Technik 120176 Tiere 64697 TV 54224 Video 52548 Youtube 82942 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  Jakobiner
+1.  FragenFrank2
     
     Punkte:
     
-    840
+    1726
     
     Level:
     
-    Jakobiner
+    FragenFrank2
     
-2.  MrSavage4
+2.  xProGeaRx
     
     Punkte:
     
-    632
+    1083
+    
+    Level:
+    
+    xProGeaRx
+    
+3.  MrSavage4
+    
+    Punkte:
+    
+    844
     
     Level:
     
     MrSavage4
     
-3.  taigafee
-    
-    Punkte:
-    
-    527
-    
-    Level:
-    
-    taigafee
-    
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.335.367 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.343.263 gute Fragen_
 
-*   18 Isst oder trinkt man die Milch,wenn man Cornflakes isst ?
-*   17 Ich komm mir belogen vor. Gab es Gott und Jesus also doch nicht ?
-*   17 Wie kommt man aus der Vergangenheit raus? - Die Geschichte eines verzweifelten MÃ¤dchens...
+*   21 Kann mich selbst nicht finden
+*   16 Wie kann ich abends ruhiger einschlafen?
+*   15 MietkautionsrÃ¼ckzahlung Vermieter
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Lavalampe selber bauen.. \[Wasser+Ãl+Salz\]
 *   Halloween-KÃ¼rbis haltbar machen
 
-*   Spinnenweben: tolle FingernÃ¤gel fÃ¼r Halloween
-*   Rezept fÃ¼r Gyros-Auflauf
+*   Laterne basteln in Auto-Form
+*   Fliesenboden mit Shampoo glÃ¤nzend machen
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.953.279
+1.955.922
 
 Anzahl der Fragen
 
-8.334.681
+8.341.138
 
 Anzahl der Antworten
 
-36.194.187
+36.216.508
 
 Anzahl der Tipps
 
-74.816
+74.861
 
 Anzahl der Videos
 
-4.738
+4.745
 
 Blog
 
