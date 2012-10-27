@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Bo Expelled from Chinese Parliament
-*   Clashes Mar Truce in Syria
+*   Killings Shatter Syrian Truce
+*   Polls Show Very Tight US Presidential Race
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
