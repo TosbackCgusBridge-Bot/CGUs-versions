@@ -6,7 +6,7 @@ Skip header
 *   Contact us
 *   Find a travel agent
 
-Skip main navigation Main menu Control Time: 1:11:04 PM Skip main navigation
+Skip main navigation Main menu Control Time: 1:10:51 PM Skip main navigation
 
 *   Home1
 *   Find &. book cruises
@@ -20,7 +20,7 @@ Skip main navigation Main menu Control Time: 1:11:04 PM Skip main navigation
         From **£199** per person
     *   Caribbean Fly Cruises
         
-        Escape the cold and changeable British weather!
+        Fly and join your ship to explore numerous islands in one holiday
         
         From **£899** per person
     
@@ -355,11 +355,11 @@ Find us on
 
 This website uses cookies to give you the very best user experience. By using our website, you agree that we can place cookies on your device. For more information see the 'About Cookies' link at the bottom of this page.
 
-Server = NTWEB006  
+Server = NTWEB006A  
 Country In Session (from GeoIP Sniffer) = UK  
 Show AU Content setting = True  
-X\_Forwarded\_FOR = 66.249.66.241  
+X\_Forwarded\_FOR = 74.6.18.216  
 User IP = 10.35.0.246  
-SessionID = 3wx2ej55xnwtoe55gdbamrnl  
-RenderTime = 00:00:02.2968750  
-Page rendered at 2012-10-26T12:45:01 Back to top of page
+SessionID = xtnhbdrluhytg345tbmjvsit  
+RenderTime = 00:00:00.2968731  
+Page rendered at 2012-10-27T12:43:57 Back to top of page
