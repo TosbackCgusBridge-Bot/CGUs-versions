@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Read-it-later service Pocket launches Mac app
+What Tumblr can tell us about the future of media
 
 Stay on top of tech news in your inbox
 
