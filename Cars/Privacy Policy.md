@@ -1,21 +1,4 @@
-Survey Software  
-Enterprise Feedback Management  
-Click Here  
-
-Sign in with Facebook Go mobile*   Cars.com
-*   Buy a Car
-*   Sell a Car
-*   Research a Car
-*   Car Finance Information
-*   Car Shopping Advice
-
-  Sign-In Coming Soon!
-
-This exciting feature will allow you to access saved information from the site from any device, indefinitely.
-
-**Should we notify you when it's live?**
-
-Submit   Updated Privacy Statement
+Updated Privacy Statement
 
 This website (the " **Site** ") is operated by Cars.com, a division of Classified Ventures, LLC (" **Cars.com** "). This Privacy Statement (the "Statement") describes Cars.com's collection, use and disclosure of information practices in connection with the Site. This Statement applies to the national version of the Site, located at www.cars.com, as well as to any versions of the Site that Cars.com operates, including versions or pages that Cars.com co-brands or private labels with its newspaper and broadcast affiliates, third-party distribution partners and other partners (collectively, " **Affiliates** "). For example, you may have arrived at a co-branded version of the Site from an Affiliate's website, in which case, that Affiliate will be clearly identified at the top of the home page of this Site. In this Statement, Cars.com refers to those versions of the Site as " **Affiliate Versions** ." Please be aware that Cars.com may share any information you submit through this Site with Affiliates, as described below. During your visit to any Affiliate Version, the Affiliate may independently collect other information from you.
 
@@ -107,36 +90,3 @@ If you would like more information about the information collection practices of
 If you have any questions about this Privacy Statement, please email us at or use our online feedback form.
 
 ©2010 Classified Ventures, LLC, 175 West Jackson, Suite 800, Chicago, IL 60604
-
-Last updated on 6/14/12
-
-Helpful Links*   About
-*   Contact Us
-*   Site Map
-*   Careers
-*   Mobile
-*   Buscar en Español
-*   Dealer Center
-*   Fraud Awareness
-
-Visit Our Partners*   Apartments.com
-*   Find a Realtor
-*   Homes for Sale
-*   Apartment for Rent
-*   CareerBuilder.com
-
-Stay Connected*   Like Us on Facebook
-*   Follow Us on Twitter
-*   Find Us on YouTube
-
-Disclaimers*   Terms of Service
-*   Privacy Statement
-*   Ad Choices
-
-*   Buy
-*   Sell
-*   Research
-*   Finance
-*   Advice
-
-©2012 Cars.com. All rights reserved.
