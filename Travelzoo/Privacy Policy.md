@@ -85,8 +85,8 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Madison
     *   Memphis
     *   Miami
-    
     *   Milwaukee
+    
     *   Minneapolis
     *   New Orleans
     *   Northern New Jersey
@@ -101,14 +101,15 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Portland, Maine
     *   Providence
     *   Raleigh-Durham
-    
     *   Reno-Tahoe
+    
     *   Richmond
     *   Sacramento
     *   Salt Lake City
     *   San Antonio
     *   San Diego
     *   Seattle-Tacoma
+    *   South Florida
     *   St. Louis
     *   Syracuse
     *   Tampa-St. Petersburg
