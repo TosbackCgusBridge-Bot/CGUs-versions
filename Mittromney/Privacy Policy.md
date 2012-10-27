@@ -33,7 +33,7 @@ Skip to Main Content Area Home   X Connect With Mitt Follow @MittRomney Login |
 *   News &. Media
     
     *   Featured Blog
-    *   The Momentum Read More
+    *   You Can Affect The Outcome Read More
     *   More News
     
     *   Videos
