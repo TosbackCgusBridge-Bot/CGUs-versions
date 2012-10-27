@@ -369,10 +369,6 @@ Error messages:
     
     All Outerwear
     
-    Classic Style
-    
-    Cold Weather Jackets
-    
     Leather Jackets
     
     Topcoats
