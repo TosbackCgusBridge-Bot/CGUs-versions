@@ -17,7 +17,7 @@ Try: Cool Nails Dating Advice Homecoming Dresses
 *   Traumarama
 *   Share Your Thoughts
 
-Who's Your Celeb Shopping Buddy?
+What's the Best Halloween Costume for You?
 
 *   Shopping
 *   Celeb Makeovers
@@ -52,7 +52,7 @@ The Coolest Nail Looks!
 *   Celebrity Quizzes
 *   Celebrity Videos
 
-Willa Holland Spills About _Arrow_!
+Celeb Couples That Were Friends First
 
 *   Hot Guy Panel
 *   Boyfriend Battle
@@ -61,7 +61,7 @@ Willa Holland Spills About _Arrow_!
 *   Hot Guy Videos
 *   Get Guy Advice
 
-Avoid These Major Flirting Fails!
+Make Your First Date Memorable (And Guarantee Another One!)
 
 *   Fitness Blog
 *   Sex Q&A
@@ -71,7 +71,7 @@ Avoid These Major Flirting Fails!
 *   Health &. Fitness Videos
 *   Get Health Advice
 
-Make Peace with Your Body
+Crazy Workout Classes!
 
 *   Freshman 15
 *   Dorm Room Battle
@@ -80,7 +80,7 @@ Make Peace with Your Body
 *   Get College Advice
 *   Electionista Blog
 
-The 10 Coolest College Classes
+Should You Rush?
 
 *   Prom
 *   Quinceaneras
@@ -89,7 +89,7 @@ The 10 Coolest College Classes
 *   Party &. Prom Videos
 *   Get Party &. Prom Advice
 
-Seventeen Editors' Best Costumes!
+_Seventeen_ Editors' Best Costumes!
 
 Privacy Policy In order to view the Privacy Policy you must enable javaScript. more About articles See All Reader Comments
 
@@ -98,17 +98,17 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     Should You Rush?
 *   entertainment
     
-    Vampire Diaries Exclusives!
+    17 Minutes With Bridgit Mendler
 *   fashion
     
-    Win $500 Worth of Hair Products!
+    Sarah Hyland: Style Savvy Trendsetter
 *   love
     
-    Go From Friend to Girlfriend!
+    Gift Ideas for Your Boyfriend!
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**3 Winners!** Enter for a chance to win a thermal spray to protect hair from heat. Type in the Freebie Phrase of the Day, found in the October Issue!
+**3 Winners!** Enter for a chance to win Extra-Hold Hairspray from Dove. Type in the Freebie Phrase of the Day, found in the October Issue!
 
  enter now 
 
@@ -120,10 +120,10 @@ Type your anonymous question below and get personalized answers
 
 SEARCH GET ADVICE! Quizzes
 
+*   What's the Best Halloween Costume for You?
 *   What Movie Couple Are You and Your Boyfriend?
 *   What's Your One Direction Theme Song?
 *   Who's Your Celeb Shopping Buddy?
-*   What's the Best Halloween Costume for You?
 
 More Quizzes
 
