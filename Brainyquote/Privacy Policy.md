@@ -1,5 +1,4 @@
-Home Authors Topics Quote of the Day Pictures Authors: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z  
-BrainyQuote Privacy Policy 1. Introduction  
+1\. Introduction  
 Thank you for visiting BrainyQuote.com, a site designed to inform, inspire, educate and entertain users all around the globe. This Privacy Policy is written to better explain how we collect and use your information, and to cover our caboose in case you plan to sue us because you don't like how we use information, or you're a person who just doesn't like quotes. This Privacy Policy is a binding contract and you must agree to it to the same extent as our Terms of Service in order to use our services, including submitting quotes to our website.  
   
 2\. Personal Information We Collect  
@@ -64,29 +63,4 @@ We hope you have enjoyed reading our fascinating Privacy Policy. We are not sure
 Last updated June 21, 2012  
   
 Copyright 2001-2012 BrainyQuote.com All Rights Reserved.  
-Do not duplicate or redistribute in any form. We paid a lot to make this privacy policy fun, exciting, enjoyable, and memorable for our readers - so go make your own!  
-  
-  
-  
-  
-Inquire Home  
-Our Story  
-Inquire  
-Advertise  
-Submit  
-Privacy  
-Terms  
-Copyright  
-  
-  
-BrainyQuote Desktop  
-  
-BrainyQuote Mobile  
-  
-  
-  
-Site Home Quote of the Day Topics Authors Pictures Professions Birthdays  
-Social BQ on Facebook BQ on Twitter BQ on Pinterest BQ on Google+  
-Syndication Quote Feed Art Quote Feed Funny Quote Feed Love Quote Feed Nature Quote Feed  
-About Us Our Story Inquire Advertise Submit Privacy Terms  
-AdChoices Copyright © 2001 - 2012 BrainyQuote®             BookRags Media Network
+Do not duplicate or redistribute in any form. We paid a lot to make this privacy policy fun, exciting, enjoyable, and memorable for our readers - so go make your own!
