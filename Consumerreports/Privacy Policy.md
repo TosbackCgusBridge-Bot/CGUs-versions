@@ -1,14 +1,3 @@
-  Sign In | Subscribe   Username  
-Password Remember Me Forgot username?  
-Forgot password?   Sign In | Subscribe   My Account  |  Customer Service Mobile Subscribe to the magazine A-Z Index
-
-Car Types Convertibles Minivans Pickup trucks Sedans Small cars Sports cars SUVs Wagons See new cars   |   used cars   |   all cars   Tires &. Car Care Car batteries GPS Tires   Topics Cars news Car prices &. deals Car buying advice Car safety Top Products Air conditioners Air purifiers Blenders Clothes dryers Coffeemakers Cooktops &. wall ovens Dehumidifiers Dishwashers Freezers Microwave ovens Ranges Refrigerators Sewing machines Space heaters Steam irons Toasters Vacuum cleaners Washing machines See all products   Topics Home news Top Products Camcorders Cell phones &. services Computers Cordless phones Digital cameras Digital picture frames Blu-ray players GPS Headphones Home theater systems MP3 Players Printers TVs See all products   Topics Electronics news Top Products Cordless drills Ellipticals Flooring Gas grills Kitchen cookware Lawn mowers &. tractors Leaf blowers Mattresses Snow blowers String trimmers Treadmills Water filters Wine See all products   Topics Home news Safety news Top Products Baby monitors Backpacks Car seats Cribs High chairs Play yards Strollers Thermometers See all products   Topics Babies &. Kids news Safety news Top Products Buy Blu-ray players Buy camcorders Buy car seats Buy clothes dryers Buy coffeemakers Buy computers Buy cordless phones Buy digital cameras Buy dishwashers Buy GPS Buy gas grills Buy lawn mowers Buy microwave ovens Buy printers Buy kitchen ranges Buy refrigerators Buy TVs Buy vacuum cleaners Buy washing machines See all products Top Products Blood Glucose Meters Blood Pressure Monitors Diet Plans Electric Toothbrushes Ellipticals Exercise Bikes Eye Creams Hair Dryers Hair Dyes Hearing Aids Sunscreens Tooth Whiteners Treadmills Walking Shoes Wrinkle Creams Wrinkle Serums   Topics Best Buy Drugs Health Insurance Plan Rankings Heart Surgeon Ratings Hospital Ratings ADHD Allergies Back Pain Depression Diabetes Heart Health Insomnia Lasik Eye Surgery Sexual Health Home >  customerservice  >  CONSUMER REPORTS PRIVACY POLICY   Subscribers only  
-Sign in or Subscribe now!     Sign In   Username  
-Password Remember Me Forgot username?  
-Forgot password? Close Send this info to a friend To:  
-From :  
-Check this box if you wish to have a copy mailed to you. Privacy note: We won't use your friend's e-mail for anything other than sending this message. See our privacy policy.     A A CONSUMER REPORTS PRIVACY POLICY Last updated: December 2011
-
 **Effective date: December 6, 2011**
 
 Consumers Union of United States, Inc., doing business as Consumer Reports, is an independent, nonprofit testing, research, and information organization serving consumers. Since 1936, our mission has been to test products, inform the public, protect consumers and advocate on their behalf. Our Privacy Policy provides information on how we collect and use consumer information provided to us through all channels, including online, mobile/wireless, telephonic, direct mail or other communications and interactions. Our organization is referred to throughout this Privacy Policy as "Consumer Reports," "CR," "we" or "us." The CR Web and mobile sites, CR applications, and other products and services covered by this Privacy Policy are referred to within the Policy as "our Sites" and "our products and services."  
@@ -279,57 +268,3 @@ DISPUTES
 Any disputes regarding this Privacy Policy are subject to our User Agreement and will be governed by the laws of the State of New York, applicable to agreements made and performed there.  
   
 © 2011 Consumers Union of U.S., Inc.
-
-     
-E-mail Newsletters **FREE** e-mail Newsletters!  
-Choose from safety, health, cars, and more! **Already signed-up?**  
-Manage your newsletters here too. Consumer News COMPUTER REVIEWS  
-Microsoft Windows 8 makes its debut today We expect more than 50 new PCs to hit our labs in the coming days. HEALTH  
-The buzz on 27 popular energy drinks and shots We measured caffeine levels from 6 to 242 milligrams per serving. CAR MAINTENANCE  
-Protect your car from Halloween's nastiest tricks How to handle broken eggs, smashed pumpkins, Silly String, and more. BANK FEES  
-Zombie bank accounts feed on your finances Most banks make it too hard for customers to close an account. SAFETY &. RECALLS  
-Dream on Me recalls infant swings and high chairs Openings on both products could be a strangulation hazard. SUNSCREEN RATINGS  
-Banana Boat pulls several products due to burn risk The company says spray valves dispense 'more than is typical.' Read More Connect Discuss products and safety with  
-subscribers and fans Follow us on: Mobile
-
-Get Ratings on the go and compare  
-while you shop
-
-Learn more
-
-*   How we test
-*   Our mission
-*   Our history
-*   Lab tour
-
-*   About Us
-*   Press Room
-*   No commercial use policy
-*   Career Opportunities
-
-ConsumerReports.org
-
-*   Contact Us
-*   My Account
-*   A-Z Index
-*   Car Index
-*   Product Index
-*   Your Privacy Rights
-*   Ad Choices
-*   User Agreement
-*   View Mobile Version
-
-Consumer Reports Network
-
-*   ConsumerReports.org
-*   The Consumerist
-*   Cars Best Deals Plus
-*   Car Pricing Service
-*   ConsumersUnion.org
-*   Canada Extra
-*   en Español
-*   School Safety Alert
-*   Consumer Reports Bookstore
-*   ShopSmartMag.org
-
-Copyright © 2006-2012 Consumers Union of U.S., Inc. No reproduction, in whole or in part, without written permission
