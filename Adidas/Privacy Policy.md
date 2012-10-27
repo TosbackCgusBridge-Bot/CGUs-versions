@@ -16,6 +16,7 @@ Offer valid for first time subscribers only.
 *   Russia
 
 *   Sign up &. Save
+*   Store Locator
 *   My Account (logout)
 
 Checkout 2 items
