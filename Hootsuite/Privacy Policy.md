@@ -63,9 +63,9 @@ Any questions about this Privacy Policy should be addressed to HootSuite Twitter
 Vancouver, BC, Canada  
 V6A 3A3
 
-From the HootSuite Blog HootSuite to Launch Social Media Command Center. Master Control for Social Business
+From the HootSuite Blog Ryan Holmes in Fortune – Houston, We Have a Tweet: Why brands are building NASA-style mission control rooms for social media
 
-Imagine the New York Stock Exchange without its big screen TVs, terminals and smartphones. Information...  
+An article by HootSuite CEO Ryan Holmes was featured in Fortune yesterday. Holmes looks at...  
 Read More
 
 4 Social Media Management Tips For Communication During a Crisis
