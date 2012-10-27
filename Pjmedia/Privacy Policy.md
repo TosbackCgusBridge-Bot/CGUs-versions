@@ -115,24 +115,24 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
+*   CIA Passes Benghazi Buck to the White House
 *   Now Up on the PJ Media Homepage
-*   UN Election Monitor in Texas is a Danish Socialist
-*   \[VIDEO\] Flying Robot Organizes Smaller Ground Bots in Group Tasks (Update)
+*   Nothing Is More Important Than This Election, Perfect Storm Edition
 
 More  
 
-*   The 7 Creepiest Serial Killers In American History
-*   10 Reasons Why Donald Pleasence is the Reason for the Season
-*   Klavan’s Homelander Series is Back (CORRECTED)
+*   Why This Election Year America is Nurse Jackie
+*   Louis Farrakhan Marries the Nation of Islam With Scientology
+*   Mayans Protest Guatemala’s 2012 Doomsday Tourism
 
 More
 
-*   Pat Moran Relied on Civil Rights Lawyers for Voter Fraud
-*   Hurricane Sandy: 'Worse Than The Perfect Storm'?
-*   It's the Obonomy, Stupid!
+*   If Reelected, Obama Should Be Impeached over Benghazi
+*   AC-130U Gunship was On-Scene in Benghazi, Obama Admin Refused to Let It Fire (Updated)
+*   Michael Barone Predicts That Romney Will Win 2012 Presidential Race
 
-More   CHRISTIAN ADAMS: Pat Moran Relied on Civil Rights Lawyers for Voter Fraud. ... HOW’S THAT HOPEY-CHANGEY STUFF WORKIN’ OUT FOR YA? (CONT’D): 8,803,335: Another New Record for Disability—Up 975 Per Day Under Obama. LAWYERS VS. PROSTITUTES, A COMPARATIVE ANALYSIS. A larger percentage of the latter’s clients leave happy and relaxed, I’d say. . . . More Advertisement
+More   FOR YOUR HURRICANE-PREP FILES: Advice For Stranded Air Travelers. Between 1950 and 2009, the number of K-12 public school students increased by 96 percent. During that same period, the number of full-time equivalent (FTE) school employees grew by 386 percent. Of those personnel, the number of teachers increased by 252 percent, while the ranks of administrators and other staff grew by 702 percent—more than 7 times the increase in students. ... More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
-Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb1
+Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb2
