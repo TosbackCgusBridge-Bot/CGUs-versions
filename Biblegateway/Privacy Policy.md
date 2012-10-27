@@ -1,7 +1,3 @@
-Bible Gateway En Español A A A A A Follow us Search Enter the Bible passage **(e.g., John 3:16)**, keyword **(e.g., Jesus, prophet, etc.)** or topic **(e.g., salvation)** ---Amuzgo de Guerrero (AMU)---Amuzgo de Guerrero ---العربية (AR)---Arabic Bible: Easy-to-Read VersionArabic Life Application Bible ---Awadhi (AWA)---Awadhi Bible: Easy-to-Read Version ---Български (BG)---1940 Bulgarian BibleBulgarian BibleBulgarian New Testament: Easy-to-Read VersionBulgarian Protestant Bible ---Chinanteco de Comaltepec (CCO)---Chinanteco de Comaltepec ---ᏣᎳᎩ ᎦᏬᏂᎯᏍ (CHR)---Cherokee New Testament ---Cakchiquel Occidental (CKW)---Cakchiquel Occidental ---Čeština (CS)---Bible 21Slovo na cestu ---Dansk (DA)---Bibelen på hverdagsdanskDette er Biblen på dansk ---Deutsch (DE)---Hoffnung für AlleLuther Bibel 1545Neue Genfer ÜbersetzungSchlachter 1951Schlachter 2000 ---English (EN)---21st Century King James VersionAmerican Standard VersionAmplified BibleCommon English BibleComplete Jewish BibleContemporary English VersionDarby TranslationDouay-Rheims 1899 American EditionEasy-to-Read VersionEnglish Standard VersionEnglish Standard Version AnglicisedGOD’S WORD TranslationGood News TranslationHolman Christian Standard BibleJ.B. Phillips New TestamentKing James VersionKnox BibleLexham English BibleThe MessageMounce Reverse-Interlinear New TestamentNew American Standard BibleNew Century VersionNew International Reader's VersionNew International VersionNew International Version 1984New International Version - UKNew King James VersionNew Life VersionNew Living TranslationOrthodox Jewish BibleToday's New International VersionWorldwide English (New Testament)Wycliffe BibleYoung's Literal Translation ---Español (ES)---La Biblia de las AméricasDios Habla HoyNueva Biblia Latinoamericana de HoyNueva Traducción VivienteNueva Versión InternacionalNueva Versión Internacional (Castilian)Palabra de Dios para TodosLa Palabra (España)La Palabra (Hispanoamérica)Reina Valera ContemporáneaReina-Valera 1960Reina-Valera 1995Reina-Valera AntiguaTraducción en lenguaje actual ---Français (FR)---La Bible du SemeurLouis SegondNouvelle Edition de Genève – NEG1979Segond 21 ---Κοινη (GRC)---1550 Stephanus New Testament1881 Westcott-Hort New Testament1894 Scrivener New TestamentSBL Greek New Testament ---עיברית (HE)---Habrit Hakhadasha/HaderekhThe Westminster Leningrad Codex ---हिन्दी (HI)---Hindi Bible: Easy-to-Read Version ---Hrvatski (HR)---Croatian Bible ---Kreyòl ayisyen (HT)---Haitian Creole Version ---Magyar (HU)---Hungarian KároliHungarian Bible: Easy-to-Read VersionHungarian New Translation ---Hawai‘i Pidgin (HWC)---Hawai‘i Pidgin ---Íslenska (IS)---Icelandic Bible ---Italiano (IT)---Conferenza Episcopale ItalianaLa Nuova DiodatiLa Parola è VitaNuova Riveduta 1994Nuova Riveduta 2006 ---Jacalteco, Oriental (JAC)---Jacalteco, Oriental ---Kekchi (KEK)---Kekchi ---Latina (LA)---Biblia Sacra Vulgata ---Māori (MI)---Maori Bible ---Македонски (MK)---Macedonian New Testament ---मराठी (MR)---Marathi Bible: Easy-to-Read Version ---Mam, Central (MVC)---Mam, Central ---Mam, Todos Santos (MVJ)---Mam de Todos Santos Chuchumatán ---Plautdietsch (NDS)---Reimer 2001 ---नेपाली (NE)---Nepali Bible: Easy-to-Read Version ---Náhuatl de Guerrero (NGU)---Náhuatl de Guerrero ---Nederlands (NL)---Het Boek ---Norsk (NO)---Det Norsk Bibelselskap 1930En Levende Bok ---ଓଡ଼ିଆ (OR)---Oriya Bible: Easy-to-Read Version ---ਪੰਜਾਬੀ (PA)---Punjabi Bible: Easy-to-Read Version ---Polski (PL)---Nowe PrzymierzeSłowo Życia ---Português (PT)---João Ferreira de Almeida AtualizadaNova Versão InternacionalO LivroPortuguese New Testament: Easy-to-Read Version ---Quiché, Centro Occidenta (QUT)---Quiché, Centro Occidental ---Română (RO)---CornilescuNouă Traducere În Limba RomânăRomanian ---Русский (RU)---Russian New Testament: Easy-to-Read VersionRussian Synodal VersionSlovo Zhizny ---Slovenčina (SK)---Nádej pre kazdého ---Somali (SO)---Somali Bible ---Shqip (SQ)---Albanian Bible ---Српски (SR)---Serbian New Testament: Easy-to-Read Version ---Svenska (SV)---Levande BibelnSvenska 1917Svenska Folkbibeln ---Kiswahili (SW)---Swahili New Testament ---தமிழ் (TA)---Tamil Bible: Easy-to-Read Version ---ภาษาไทย (TH)---Thai New Contemporary BibleThai New Testament: Easy-to-Read Version ---Tagalog (TL)---Ang Salita ng Diyos ---Twi (TWI)---Nkwa Asem ---Українська (UK)---Ukrainian BibleUkrainian New Testament: Easy-to-Read Version ---اردو (UR)---Urdu Bible: Easy-to-Read Version ---Uspanteco (USP)---Uspanteco ---Tiêng Viêt (VI)---1934 Vietnamese BibleBản Dịch 2011Vietnamese Bible: Easy-to-Read Version ---汉语 (ZH)---Chinese Contemporary BibleChinese New Testament: Easy-to-Read VersionChinese Standard Bible (Simplified)Chinese Standard Bible (Traditional)Chinese Union Version (Simplified)Chinese Union Version (Traditional)Chinese Union Version Modern Punctuation (Simplified)Chinese Union Version Modern Punctuation (Traditional)
-
-*   Bible Book List
-
 Welcome to BibleGateway.com
 
 PRIVACY POLICY
@@ -79,53 +75,3 @@ New York, NY 10022
 privacypolicy@biblegateway.com
 
 © Copyright \[2009\] The Zondervan Corporation L.L.C. All Rights Reserved.
-
-^ Go to the top of the page
-
-*   Home
-*   Passage Lookup
-*   Keyword Search
-*   Topical Index
-*   Available Versions
-*   Audio Bibles
-*   Additional Resources
-*   Reading Plans
-*   Devotionals
-*   Newsletters
-*   Bible Gateway App
-*   Preferences
-*   Bible Gateway Blog
-*   Store
-
-**Help and Contact**  
-FAQs/Tutorials  
-Contact us/Feedback  
-Why We Advertise  
-Use Bible Gateway On Your Site  
-Advertise with Us  
-Go to top of page
-
-**Links**  
-Mobile Bible Gateway  
-Gospel.com  
-Reverend Fun  
-Zondervan.com  
-Bible Gateway Store
-
-**About and Legal**  
-Statement of Faith  
-About Bible Gateway  
-Press Releases  
-Site map  
-Privacy policy  
-Site: Terms of use  
-Widget: Terms of use
-
-**Sponsors**  
-Christian Persecution  
-Church Fundraising  
-Book Self Publishing  
-Gospel for Asia  
-Medi-Share
-
-Reflect on the true meaning of gratitude this holiday season—sign up for our new Thanksgiving email devotional!
