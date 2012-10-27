@@ -119,11 +119,11 @@ Products with Intel Inside®
 *   Intel classmate PC - Convertible
 *   Intel® studybook
 
-Ultrabook. Inspired by Intel.
+Ultrabook Convertible
 
-Cowboys, Knights, Martial Artists &. bulky laptops?! See how they compare to Ultrabook in this interactive video where you choose what happens next.  
+Introducing the Ultrabook convertible. A laptop when you need it, a tablet when you want it. Once you've tried it, your world just won’t be the same.  
   
-Experience a New Era in Computing>.
+Experience the New Era in Computing>.
 
 *   Intel@Work
 *   Cloud Computing
@@ -214,8 +214,10 @@ Register now>.
 
 *   Shop for Systems
 *   Ultrabook™
+*   All-in-Ones
 *   Desktop Computers
 *   Laptop Computers
+*   Tablets
 *   Servers by Reseller
 
 *   Intel Products
@@ -227,11 +229,11 @@ Register now>.
 *   Custom Business Solutions
 *   Intel® Technology Providers
 
-Ultrabook™ Project with will.i.am
+Ready when you are
 
-will.i.am is going global with Ultrabook™ to create music inspired by the world’s most amazing cities. Follow his adventures and experience music in a whole new way.  
+Get the best Windows 8\* experience with Intel Inside®.  
   
-Launch Ultrabook™ Project>.
+See what you can do>.
 
 *   Downloads and Drivers
 *   Get the Latest Drivers
@@ -404,22 +406,25 @@ Intel® Online Privacy Notice Intel is committed to respecting your privacy. Our
     *   Related Topics
     *   Related Products
     
-    *   Intel Human Rights...
+    *   Expanding Healthcare...
         
-        Summarizes Intel's position on key human rights issues and embodies common principles laid out by...  
+        Intel drives public policy that speeds the adoption of healthcare technologies for individuals, markets...  
         Preview | Download
         
-    *   Intel® Cookie Notice
+    *   Intel Code of Conduct
         
-        Intel's cookie practices on Intel websites.
+        Contains Intel's mission, values, code of conduct and statement from Intel CEO Paul Otellini.  
+        Preview | Download
         
-    *   FAQs: Online Privacy
+    *   Intel Public Policy:...
         
-        Intel® Online Privacy Notice Frequently Asked Questions (FAQs)
+        Intel supports customs, trade facilitation policies that enhance trade with respect to importation of...  
+        Preview | Download
         
-    *   Intel Export Compliance
+    *   Intel Public Policy:...
         
-        Intel export compliance adheres with business, laws, and regulations that govern trade.
+        Intel works with governments worldwide to help shape progressive, practical environment and energy...  
+        Preview | Download
         
     
     *   Technology for the Home
