@@ -224,9 +224,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Pinhole Cameras: Octoberâs Book of the Month Giveaway
-    *   Fave Finds: Barboraâs Minty Fresh Purse
-    *   From Chintzy to Chic: A DIY Hama Bead Necklace that Doesnât Kid Around
+    latest blog posts*   A Stitch in Time: Seasonal Crafts From Pinterest!
+    *   UK Designer Charlotte Taylorâs Fall 2012 Collection Strikes a Chord
+    *   Pinhole Cameras: Octoberâs Book of the Month Giveaway
     
     *   modcloth blog
     *   In Other Words
