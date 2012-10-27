@@ -1,4 +1,4 @@
-  Set as Homepage Thu, Oct 25, 2012   9 Heshvan, 5773  
+  Set as Homepage Sat, Oct 27, 2012   11 Heshvan, 5773  
 
 *   *   Breaking News
     *   Diplomacy &. Politics
@@ -65,7 +65,7 @@
 *   Diplomatic Club
 *   Green Israel
 
-                                 Breaking News    
+                               Breaking News    
 
 *   JPost.com
 *   Terms Of Service
