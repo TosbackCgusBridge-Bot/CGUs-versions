@@ -27,7 +27,7 @@ Try: 7 Years Younger • Travel Mugs • Quick Dinners
     *   Seasonal Recipes
 *   Home &. Organizing
     
-    Creative Fall Crafts
+    7 DIY Ideas for Fall Decor
     
     Read More!
     *   Cleaning &. Organizing
@@ -123,9 +123,9 @@ In order to view the Privacy Policy you must enable javaScript. Print Share Late
 *   Home  
     &. Organizing
     
-    Creative Fall Crafts
+    7 DIY Ideas for Fall Decor
     
-    Add a personal touch in your house
+    Easy projects you can do at home
     
 *   Diet  
     &. Health
