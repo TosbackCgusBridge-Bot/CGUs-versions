@@ -14,104 +14,104 @@ PGA Tour
 
 CIMB Classic View Leaderboard >.
 
-*   1
+*   T1
 *   R.Garrigus
+*   \-16
+*   F
+
+*   T1
+*   B.Van Pelt
+*   \-16
+*   F
+
+*   3
+*   C.Kirk
+*   \-15
+*   F
+
+*   T4
+*   B.de Jonge
 *   \-14
 *   F
 
-*   2
+*   T4
 *   J.Kruger
+*   \-14
+*   F
+
+*   6
+*   B.Harman
+*   \-13
+*   F
+
+*   T7
+*   G.Chalmers
 *   \-12
 *   F
 
-*   T3
-*   G.Chalmers
-*   \-10
-*   F
-
-*   T3
-*   T.Matteson
-*   \-10
-*   F
-
-*   T5
-*   B.de Jonge
-*   \-9
-*   F
-
-*   T5
-*   K.Na
-*   \-9
-*   F
-
-*   T5
-*   T.Woods
-*   \-9
-*   F
-
-*   T8
-*   B.Crane
-*   \-8
-*   F
-
-*   T8
-*   B.Harman
-*   \-8
-*   F
-
-*   T8
-*   J.Overton
-*   \-8
-*   F
-
-*   T11
+*   T7
 *   T.Gillis
-*   \-7
+*   \-12
 *   F
 
-*   T11
+*   T7
+*   N.Watney
+*   \-12
+*   F
+
+*   T10
+*   G.Bhullar
+*   \-11
+*   F
+
+*   T10
+*   B.Crane
+*   \-11
+*   F
+
+*   T10
+*   K.Na
+*   \-11
+*   F
+
+*   T10
+*   J.Overton
+*   \-11
+*   F
+
+*   T10
+*   T.Woods
+*   \-11
+*   F
+
+*   T15
+*   R.Barnes
+*   \-10
+*   F
+
+*   T15
 *   B.Haas
-*   \-7
+*   \-10
 *   F
 
-*   T11
+*   T15
 *   T.Immelman
-*   \-7
+*   \-10
 *   F
 
-*   T11
-*   C.Kirk
-*   \-7
-*   F
-
-*   T11
-*   M.Laird
-*   \-7
-*   F
-
-*   T11
+*   T15
 *   P.Perez
-*   \-7
+*   \-10
 *   F
 
-*   T11
-*   K.Stadler
-*   \-7
+*   T19
+*   J.Dufner
+*   \-9
 *   F
 
-*   T11
-*   B.Van Pelt
-*   \-7
-*   F
-
-*   T11
-*   C.Wi
-*   \-7
-*   F
-
-*   T20
+*   T19
 *   J.Holmes
-*   \-6
+*   \-9
 *   F
 
 *   **FULL LEADERBOARD**
@@ -138,7 +138,7 @@ Prev Next
     *   GolfTalkCentral
     *   Grill Room
     *   Fantasy Central
-    *   Golf Instruction Blog
+    *   Golf Instruction
     *   Equipment Insider
     *   Fashion Focus
     *   Travel Insider
@@ -289,8 +289,8 @@ Prev Next
 *   Tiger Woods
 *   Morning Drive
 *   Justin Rose
-*   Ryder Cup
 *   CIMB Asia Pacific Classic
+*   Ryder Cup
 *   Lee Westwood
 *   Adam Scott
 *   Luke Donald
@@ -534,7 +534,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,817 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
+Social 233,848 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
