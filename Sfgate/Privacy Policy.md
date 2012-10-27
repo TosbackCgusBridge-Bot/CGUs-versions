@@ -1,6 +1,6 @@
 (skip this header)
 
-Friday Oct 26, 2012 5:05 AM PT
+Saturday Oct 27, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,12 +60,12 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Obama leans toward Tigers
-*   Giant ridership for Muni
-*   Parents silly-pic punishment
-*   Krupa rips hooker story
+*   130 proof beer
+*   Newts mowed down in Berkeley
+*   Soup at Nopalito and Nojo
+*   S.F. a black and orange town
 *   Series tickets
-*   Chronicle endorsements
+*   Chron endorsements
 
 *   Bay Area &. State
 *   Nation
@@ -339,6 +339,15 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   "Frankenstorm' approaches East Coast
+*   Nation in Focus
+*   World in Focus
+*   Thrift store Halloween costume ideas
+*   FORTUNE's 40 Under 40 party
+*   Fashion Group International
+*   Day in Pictures, Oct. 26, 2012
+*   mini-storage political ads
+*   Favorite dishes 10/26/2012
 *   Nightmare on Elm Street house gets a makeover
 *   'Skyfall' London Royal world premiere
 *   Game 2: Giants vs. Tigers
@@ -370,15 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   16th Annual Hollywood Film Awards Gala
 *   Seals Stadium
 *   Trends Third debate
-*   Day in Pictures, Oct. 23, 2012
-*   Dwell Silicon Valley Tour
-*   Nation in Focus
-*   World in Focus
-*   Bad costumes
-*   Final 2012 presidential debate
-*   Final 2012 presidential debate
-*   2012 presidential town hall debate
-*   Final 2012 presidential debate
 
 *   Most Read
 *   |
@@ -386,49 +386,53 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  SF Giants halfway to title after 2-0 win
-2.  Girl's body found on beach identified
-3.  Obama on Trump: Our rivalry dates back to our childhood in Kenya (VIDEO)
-4.  Three-bedroom unit in The Infinity is listed for $3.2 million
-5.  Muni's 10-Townsend: Always a crapshoot
-6.  High-altitude wind power pioneer Corwin Hardham dies at 38
-7.  The Movies You Must NOT See
+1.  Bird poops on Fox World Series anchor live
+2.  SF Giants just go with the flow
+3.  Incredible (and freaky!) pumpkin carvings
+4.  Please, let’s not judge Marina Krim
+5.  NY parents shaken as nanny accused of killing kids
+6.  He died penniless, but rich with friends
+7.  Brandon Crawford: living the dream
 
-1.  Obama on Trump: Our rivalry dates back to our childhood in Kenya (VIDEO)
-2.  Muni's 10-Townsend: Always a crapshoot
-3.  The Movies You Must NOT See
-4.  Brown's tax plan falls below 50% in poll
-5.  A new restaurant charge: the table fee
-6.  Bumgarner, Giants win duel in Game 2
-7.  Teacher's idling car leads to pot arrest
+1.  Supervisor wants rules for shuttle stops
+2.  In speech, Romney to promise revitalized economy
+3.  Chronicle recommends: Re-elect Obama
+4.  Bumgarner, Giants win duel in Game 2
+5.  Nanny suspected of killing 2 kids in NY home
+6.  Detroit Tigers fans - pessimism creeps in
+7.  In new Obama ad, Lena Dunham compares voting to losing her virginity
 
-1.  Carol Perkins, wife of Marlin Perkins, dies
-2.  Fans paint town black and orange
-3.  Mundo Maya events reach fever pitch as calendar end looms
-4.  'Fantasy Slut League' ending in Piedmont
-5.  UCSF helps improve prostate cancer care
-6.  Wells Fargo faces suit over FHA loans
-7.  Shale Glut Becomes $2 Diesel Using Gas-to-Liquids Plants: Energy
+1.  Incredible (and freaky!) pumpkin carvings
+2.  Brandon Crawford: living the dream
+3.  NY parents shaken as nanny accused of killing kids
+4.  City College dismantles faculty leadership
+5.  'Big Picture: Rethinking Dyslexia' review
+6.  Bill Plaschke: Giants surpass Dodgers
+7.  Cancer group seeks laymen's help on cells
 
 loading... Latest News Videos From our homepage
 
-*   Movies You Must NOT See
+*     
+    Lance Iversen, The Chronicle / SF
     
-    Madonna in 'Swept Away'? Dreadful. Check out these losers.
+    Giants just go with flow
     
-*   Must-see movies since 1960
+    Playoff run has been called 'magic,' but S.F. is staying humble.
+    
+*   Textbook baseball | Photos
 
-*   Hot market, no slowdown
+*   Knockout pumpkin carvings
     
-    Reports show Bay Area housing market continues to surge. Here are 3 properties to prove it.
+    A sculptor puts his talents to creating amazing jack o' lanterns.
     
+*   More crazy pumpkins
 
 *     
-    Fabrizio Costantini, For The San Francisco Chronicle / SF
+    Dieu Nalio Chery / AP
     
-    Meanwhile, in a Detroit bar...
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 6:24 p.m., Friday, October 26, 2012 Bracing for 'Frankenstorm'
     
-    In Motor City, C.W. Nevius hangs with some glum Tigers fans who are cursing the Giants luck.
+    Monster weather system, which has killed at least 20 in Caribbean, heads for East Coast.
     
 
 *   Home
