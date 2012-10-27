@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Colorado: Teen confesses to Jessica Ridgeway's murder (+video)
-2.  Rare ladybug in Montana behaves like a turtle
-3.  Cuba: Hurricane Sandy leaves destruction in its wake (+video)
-4.  New York City: Police officer dreams up cannibalism plot (+video)
-5.  Antarctic Ozone Hole 2nd Smallest in 20 Years
+1.  Hurricane Sandy liveblog: Which way is Sandy headed? The latest 'Frankenstorm' track (+video)
+2.  Hurricane Sandy: what to expect from North Carolina to Massachusetts to Ohio
+3.  Lena Dunham's sexy Obama ad: Youthfully alluring or bad taste?
+4.  Mitt Romney's big economics speech: Can he deliver 'big change?'
+5.  Hurricane Sandy's punch may be felt from Norfolk, Va., to Boston
 
 About these ads
 
@@ -111,17 +111,17 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Briefing  
-    Who are China's potential new leaders?
+*   Difference Maker  
+    John Bergmann runs a special zoo for older, exploited, and abused animals
     
-    China's once-a-decade power transition in November may promote these five party members.
+    John Bergmann manages Popcorn Park, a special zoo in New Jersey that gives a home to distressed wildlife and exotic and domesticated animals.
     
-*   Progress Watch: Can we protect 10 percent of the oceans? Momentum is growing.
-*   Not a trick or a treat: Hurricane Sandy could hit as monster hybrid storm
-*   Richard Mourdock: the theology behind his rape comments
-*   Decoder Wire: Is Donald Trump trying to sabotage the Republican Party? (+video)
+*   The Vote: Lena Dunham's sexy Obama ad: Youthfully alluring or bad taste?
+*   Global News Blog: Good reads: Growth we missed, Berlin's awkward fit, and where kids know best
+*   Wanted in Brazil: more English speakers
+*   Global News Blog: The Eid holiday: What does it celebrate?
 
-_Photos of the day_ 10.25.12 » Photos of the day 10/25
+_Photos of the day_ 10.26.12 » Photos of the Day 10/26
 
 **CSMonitor.com** on Facebook
 
@@ -135,14 +135,19 @@ What happens when ordinary people decide to pay it forward? Extraordinary change
 
 Polar bears are threatened by climate change.
 
-Steven Amstrup says it's not too late to save polar bears – and ourselves
+John Bergmann runs a special zoo for older, exploited, and abused animals
 
-'We know the answer to what it takes to save' polar bears, says environmental prize winner Steven Amstrup, who has gone to the Arctic to study the bears for 30 years.
+John Bergmann manages Popcorn Park, a special zoo in New Jersey that gives a home to distressed wildlife and exotic and domesticated animals.
 
    
 
 Become part of the Monitor community
 
+*   The Culture One man explores his German family's past in 'The Flat'
+*   The Culture Two backpackers explore the country of Georgia in 'The Loneliest Planet'
+*   The Culture 'Cloud Atlas' is occasionally exhilarating but mostly confusing (+trailer)
+*   Innovation Windows 8 marks a major make-over for Microsoft
+*   Books Hillary Clinton: 10 quotes on her birthday
 *   World Briefing: Who are China's potential new leaders?
 *   Making a Difference John Bergmann runs a special zoo for older, exploited, and abused animals
 *   USA 2012 World Series quiz: How much do you know about the Detroit Tigers?
@@ -150,11 +155,6 @@ Become part of the Monitor community
 *   Innovation Meet Apple's thinner, faster, stronger iMac
 *   World Focus: Can a gang truce in El Salvador open the door to lasting peace?
 *   The Culture The X Factor final 16 revealed . . . finally
-*   USA Focus: Obama or Romney: Whose debt reduction plan does history favor?
-*   Business Walmart legal troubles mount as Black Friday walkout looms
-*   USA Aaron, Eli, and Andrew: quarterbacks on parade. A Week 7 NFL quiz
-*   The Culture Lindsay Lohan intervention: Why did it fail? (+video)
-*   Commentary The Monitor's View: With Lance Armstrong stripped of Tour de France titles, cycling can recover
 
 About these ads
 
