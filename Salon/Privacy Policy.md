@@ -5,15 +5,15 @@ Register Sign in Welcome, Logout
 *   Hot Topics
     *   Hot Topics
         *   2012 Elections
-        *   Mitt Romney
         *   Barack Obama
+        *   Mitt Romney
         *   Elections 2012
-        *   Donald Trump
+        *   From the Wires
         *   Election 2012
+        *   AlterNet
+        *   voting
         *   Rape
-        *   GlobalPost
-        *   Benghazi
-        *   Libya
+        *   New York Times
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -194,29 +194,29 @@ About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service 
 
 Take Salon on the go â download our free app now
 
-Current Stories U.N. team to investigate civilian drone deaths
+Current Stories Privacy concerns grow over FBI data gathering
 
-News. Special rapporteur said that civilian killings in follow-up strikes could be found to be war crimes
+News. Watchdogs fear the organization's new facial-recognition system will collect information on innocent civilians
 
-In defense of the undecided voter
+The progressive case against Obama
 
-Politics. Given how similar the candidates are, the real rubes are the ones who think the choice is simple
+Politics. Bottom line: The president is complicit in creating an increasingly unequal -- and unjust -- society
 
-Pick of the week: The overblown, funny, romantic "Cloud Atlas"
+Please, stop believin'
 
-Entertainment. Pick of the week: Tom Hanks and Halle Berry play multiple roles in an epic fable of life and death
+Entertainment. Journey's ridiculous anthem is back, as a singalong for both World Series teams. Why does this awful song endure?
 
-"My taxes mean more than your fundamental civil rights"
+Your wife is the worst
 
-Life. A Pulitzer-winning playwright's Facebook post goes viral, calling out moderate Republican friends voting for Romney
+Life. I've seen enough awful partners to judge yours. And there's nothing worse than hating the person your friend loves
 
 Most Read
 
-*   "The Revisionaries": Texas schoolbook battle â crazier than you thought! Andrew O'Hehir
-*   Undercover as a gay man Timothy Kurek
-*   Rape remarks haunt the GOP Steve Kornacki
-*   How GOP voter suppression could win Florida for Romney Tova Andrea Wang
-*   An actual October Surprise? Alex Seitz-Wald
+*   Dear Republican friends: Your Romney vote disrespects my marriage Salon Staff
+*   Conservatives flip out over Lena Dunham Obama ad Mary Elizabeth Williams
+*   So, goblin porn exists Tracy Clark-Flory
+*   October Surprise: Romney may have screwed over his friend's ex-wife Alex Seitz-Wald
+*   Obama says Ayn Rand is for misunderstood teenagers Prachi Gupta
 
 Voices
 
