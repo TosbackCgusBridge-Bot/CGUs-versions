@@ -118,15 +118,15 @@
 *   Fall
     *   Halloween
     *   Beyond the Backpack
+    *   Thanksgiving
+    *   Hispanic Heritage
+    *   Fall Printable Activities
     *   Off to School
         *   Beyond the Backpack
         *   Learning Games
         *   Preschool Practice Packs
         *   Kid-Friendly Lunches
         *   Off to School Videos
-    *   Thanksgiving
-    *   Hispanic Heritage
-    *   Fall Printable Activities
 *   Birthdays
     *   Dora Birthday Party
     *   Bubble Guppies Birthday
