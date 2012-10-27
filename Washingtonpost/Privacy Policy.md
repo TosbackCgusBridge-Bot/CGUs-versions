@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **The Swift Boaters are back for...**  
-        Election 2012 | Dan Eggen
+    *   **Voter purge in key Indiana County...**  
+        Election 2012 | Bill Turque
     
-    *   **Obamaâs fanciful claim that Congress...**  
-        The Fact Checker | Glenn Kessler
+    *   **Obamaâs âTonight Showâ remark:...**  
+        The Fact Checker | Josh Hicks
     
     *   **Rape shouldnt be used to score...**  
         She The People | Melinda Henneberger
     
-    *   **A status quo election? Could be...**  
-        The Fix | Aaron Blake
+    *   **Senate Democratic and Republican...**  
+        The Fix | Sean Sullivan
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **Is voting like sex?**  
+    *   **Frankenstorm Sandy**  
         ComPost | Alexandra Petri
     
     *   **Happy Hour Roundup**  
-        The Plum Line | Greg Sargent
+        The Plum Line | Jonathan Bernstein
     
-    *   **Fridayâs p-Op quiz**  
-        PostPartisan | Jonathan Capehart
+    *   **The Postâs Obama endorsement and...**  
+        PostPartisan | Rachel Manteuffel
     
-    *   **Morning Bits**  
+    *   **Friday question**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Mainly benign...**  
-        Capital Weather Gang | A. Camden Walker
+    *   **D.C. area forecast: Weather trends...**  
+        Capital Weather Gang | Ian Livingston
     
-    *   **Art in focus: âFall Solosâ**  
-        Going Out Gurus | Michael O'Sullivan
+    *   **Coming up: Astro Doughnuts &. Fried...**  
+        Going Out Gurus | Tom Sietsema
     
-    *   **D.C. police seek man who robbed...**  
-        Crime Scene | Peter Hermann
+    *   **Woman killed, man shot in Charles**  
+        Crime Scene | Martin Weil
     
-    *   **Police open investigation into...**  
-        Virginia Politics | Allison Klein, Errin Haines and Ben Pershing
+    *   **Elections board asks Cuccinelli...**  
+        Virginia Politics | Ben Pershing
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -97,16 +97,16 @@
     
     Blogs &. Columns
     
-    *   **NHLâs deadline expected to pass...**  
+    *   **NHL cancels games through Nov....**  
         Capitals Insider | Katie Carrera
     
-    *   **Caps, Wizards set to announce new...**  
-        DC Sports Bog | Dan Steinberg
+    *   **Grantland ranks Redskins as most...**  
+        DC Sports Bog | Sarah Kogod
     
-    *   **Steelers defensive player to watch...**  
+    *   **Tyler Polumbus fined for leg whip**  
         The Insider | Mike Jones
     
-    *   **Natsâ Zimmerman undergoes arthroscopic...**  
+    *   **Adam LaRoche, Nationals still talking...**  
         Nationals Journal | Adam Kilgore
 *   National In National
     
@@ -126,7 +126,7 @@
     *   **Early fin release likely caused...**  
         Ideas@Innovations | Emi Kolawole
     
-    *   **For Romney, no way around the âfirst...**  
+    *   **Work-life balance is a menâs issue...**  
         PostLeadership | Jena McGregor
     
     *   **Ryan tele-townhall rescheduled**  
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **Chinas version of The Onion takes...**  
+    *   **How do you measure the strength...**  
         WorldViews | Max Fisher
     
-    *   **Chinas censors move with unusual...**  
+    *   **Can crowd-sourcing keep corruption...**  
+        WorldViews | Olga Khazan
+    
+    *   **How bad is Hurricane Sandy? A distressing...**  
         WorldViews | Max Fisher
     
-    *   **Revelation of Wen Jiabaoâs wealth...**  
-        WorldViews | Max Fisher
-    
-    *   **The U.K. thinks a strike on Iran...**  
+    *   **Qatarâs foray into Gaza politics...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -173,13 +173,13 @@
     *   **Scary spending on Halloween**  
         The Color of Money | Michelle Singletary
     
-    *   **Group to lobby for lower royalty...**  
+    *   **Pandora takes a serious hit after...**  
         Post Tech | Hayley Tsukayama
     
     *   **Why the economy may be better than...**  
         Steven Pearlstein
     
-    *   **The 2012 Election by the Numbers...**  
+    *   **The 2012 Election in Numbers: Friday...**  
         Wonkblog | Dylan Matthews
 *   Tech In Technology
     
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Pandora stock dives as Apple music...**  
+    *   **Surface tablet, Windows 8 go on...**  
         Hayley Tsukayama
     
-    *   **Group to lobby for lower royalty...**  
+    *   **Pandora takes a serious hit after...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Impromptu pierogi: Why not?**  
-        All We Can Eat | Edward Schneider
+    *   **Alton Brown, sportscaster**  
+        All We Can Eat | Bonnie S. Benwick
     
     *   **Fashion-forward Halloween costumes**  
         The Style Blog | Cara Kelly
     
-    *   **Rethinking dyslexia**  
-        On Parenting | Janice D'Arcy
+    *   **Take the kids this weekend: Air...**  
+        On Parenting | On Parenting
     
-    *   **Bob Johnson launches new charity...**  
+    *   **Love, etc.: Philippe Cousteau and...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,14 +240,14 @@
     *   **A âTempestâ in an opera house**  
         Classical Beat | Anne Midgette
     
-    *   **Taylor Swift, Conor Kennedy reportedly...**  
+    *   **Justin Timberlake responds to controversial...**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **Barbara Walters tells Donald Trump...**  
+    *   **President Obama fields questions...**  
         The TV Column | Lisa de Moraes
     
-    *   **New DC talent takes flight**  
-        Comic Riffs | David Betancourt
+    *   **Disneyâs âWreck-It Ralphâ:**  
+        Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
     
@@ -268,9 +268,9 @@ In the News
 
 *   Hurricane Sandy
 *   John Sununu
-*   Wen Jiabao
-*   Jacques Barzun
-*   World Series
+*   Windows 8
+*   Lena Dunham
+*   Marina Krim
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -321,88 +321,94 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Experts sound alarm on Hurricane Sandy, likely to be worse than 1991 âPerfect Stormâ
+Preparations hasten for Tropical Storm Sandy
+
+Ashley Halsey III 
+
+White House considering new tax cut
+
+Zachary A. Goldfarb 
+
+Romney, Obama could split popular and electoral college vote, polls suggest
+
+Karen Tumulty 
+
+The unmaking of a president, 2012
+
+Jennifer Rubin 
+
+Sandy begins transition into hurricane norâeaster blend
 
 Jason Samenow 
 
-Poll: Romney hits 50 percent Washington Post endorsement: Four more years for President Obama
+Behind the Clinton âbromance,â a stealth campaign
 
-Editorial Board 
+Dana Milbank 
 
-Poll finds deepest racial split since '88 Hurricane Sandy scenarios for Washington, D.C.
+Chinaâs advantage erodes in a key area: rare earth minerals
 
-Jason Samenow 
+Howard Schneider 
 
-Clinton suggests she could stay at State How the right wing lost in 2012
-
-E.J. Dionne Jr. 
-
-Hurricane Sandy becomes stronger and larger than expected
-
-Brian McNoldy 
-
-Hurricane Sandy: How to prepare for the storm
-
-Maggie Fazeli Fard 
-
-Police investigating son of Va. Rep. Jim Moran after video release of voter fraud discussion
+Police arrest 1 who fits gunman description in suburban Los Angeles family shooting
 
 Associated Press 
-
-Judge releases Romney testimony from Staples founderâs divorce trial
-
-Carol D. Leonnig 
-
-NYC police officer charged in plot to kidnap, torture and cook women he found on database
-
-Associated Press 
-
-Is Romney's momentum real or fake? D.C. sniper Lee Boyd Malvo tells interviewer he was sexually abused by Muhammad
-
-Josh White 
-
-Colin Powell and the Fix Endorsement Hierarchy
-
-Chris Cillizza 
-
-Graduation Rates for Top 25 Football Teams
-
-Associated Press 
-
-Swim coach Rick Curl charged in long-ago abuse of young swimmer
-
-Michael Laris 
-
-Mega-storm threat growing for mid-Atlantic and Northeast early next week from hurricane Sandy
-
-Jason Samenow 
 
 As key Senate races get tighter, Republicansâ hopes rise
 
 Rosalind S. Helderman 
 
-Colin Powell and the Fix Endorsement Hierarchy
+Mugging our descendants
+
+George F. Will 
+
+Washington, D.C. will not escape Hurricane Sandy: latest storm scenarios
+
+Jason Samenow 
+
+Marine Corps Marathon runner battles brain cancer â and keeps competing
+
+Roman Stubbs 
+
+Meet the fiscal cliff-divers Windows 8: What to know before you upgrade
+
+Hayley Tsukayama 
+
+Hurricane Sandy may be unprecedented in East Coast storm history
+
+Jason Samenow 
+
+Will Romney win the popular vote but lose the presidency? Still fighting the same old culture war
+
+Kathleen Parker 
+
+Post-ABC poll: Romney 49, Obama 48. shows power of campaign contacts Remote U.S. base at core of secret operations
+
+Craig Whitlock 
+
+After Benghazi attacks, Islamist extremists akin to al-Qaeda stir fear in eastern Libya
+
+Abigail Hauslohner 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Experts weigh in on Hurricane Sandy
-    2.  Poll: Romney hits 50 percent
-    3.  Washington Post endorsement: Four more years for President Obama
-    4.  Poll finds deepest racial split since '88
-    5.  Hurricane Sandy scenarios for D.C.
+    1.  Preparations hasten for Tropical Storm Sandy
+    2.  White House considering new tax cut
+    3.  Romney, Obama could split popular and electoral college vote, polls suggest
+    4.  Obama's 2008 coalition collapses
+    5.  Sandy begins transition into hurricane nor'easter blend
 *   Top Videos
-    1.  Hurricane Sandy may wreak havoc on Northeast
-    2.  Obama delivers donuts to firefighters in Tampa
-    3.  Is the momentum conversation a conspiracy between the two campaigns? â Wonk|Fix
-    4.  President Obama criticizes Mourdock's rape remarks on Leno show
-    5.  Behind the U.S. targeted killing program
+    1.  Hurricane Sandy is a storm like no other
+    2.  Hurricane Sandy heads for the Mid-Atlantic
+    3.  Frankenstorm heading for the East Coast?
+    4.  Behind the U.S. targeted killing program
+    5.  Hurricane Sandy on track to hit East Coast
 *   Top Galleries
-    1.  Newspaper endorsements for president: Romney or Obama?
-    2.  Hurricane Sandy
-    3.  Gloria Allred's court-approved fashion
-    4.  Maori dancers, Circus of Horrors, Alzheimer's treatment and more in the day in photos
-    5.  Apple reveals iPad mini, new Macs and more
+    1.  Hurricane Sandy
+    2.  Muslims commemorate Eid al-Adha
+    3.  From Snowmageddon to 'Frankenstorm': Does Mother Nature hate Washington?
+    4.  Newspaper endorsements for president: Romney or Obama?
+    5.  Famous and dyslexic: How they transcended a disabilty
 
 Today's Paper
 
@@ -412,13 +418,13 @@ Today's Paper
 
 Live Discussions
 
-Home Front: Vintage shopping
+There are no discussions scheduled today.
 
-Live Q&A, 11 a.m. ET
+Why the Post endorses President Obama for re-election
 
-Sanity Fair blogger Skyla Freeman joins Jura Koncius to discuss vintage shopping and small decorating.
+Live Q&A, 11:30 a.m. ET
 
-**11:00 AM** **Real Wheels Live** **11:00 AM** **The Fix Live** **11:30 AM** **Why the Washington Post endorses President Obama for re-election** **12:00 PM** **Carolyn Hax Live: Advice columnist tackles your problems (Friday, October 26)** **1:00 PM** **The Latest in TV with Lisa de Moraes**
+Fred Hiatt discusses why the Post chose to endorse Obama for another four years in office.
 
 **Weekly schedule, past shows**
 
