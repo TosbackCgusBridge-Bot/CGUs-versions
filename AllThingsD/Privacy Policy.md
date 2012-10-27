@@ -42,7 +42,7 @@ AllThingsD
 
 *   View by Writer
 
-**Walt Mossberg –** Hardworking Tablet With PC Chops  
+**Trending –** Apple CEO: Microsoft’s Surface Is Probably Terrible  
 
 **D: Dive Into Mobile** Live Stream Schedule »Follow on Twitter »**D: Dive Into Mobile** Live Interview Schedule »Subscribe on Facebook »Watch Live – Facebook, Google, Twitter, Xiaomi »Like on Facebook »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
 
@@ -335,3 +335,4 @@ Select Feed
 *   © 2005-2012 Dow Jones &. Company Inc.
 *   All Rights Reserved.
 *   Powered by WordPress.com VIP
+*   Mobile Version
