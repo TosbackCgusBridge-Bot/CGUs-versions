@@ -155,6 +155,7 @@ Fall Highlights
     *   Footwear Finder
     *   Letters from New York
     *   Classics
+    *   Gift Cards
     *   Care &. Cleaning
     
     *   World Of UGG
