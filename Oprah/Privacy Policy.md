@@ -403,6 +403,6 @@ Community Conversations
 What Do You Think?  
   
   
-Terms and Conditions | **Privacy Policy** | DMCA Compliance | Contact Us | Press Room | Ad Sales | Harpo Careers | OWN Careers | Sweepstakes and Promotions | Sweepstakes Scams  
+Terms of Use | **Privacy Policy** | DMCA Compliance | Contact Us | Press Room | Ad Sales | Harpo Careers | OWN Careers | Sweepstakes and Promotions | Sweepstakes Scams  
 OPRAH is a registered trademark of Harpo, Inc. All rights reserved. For full list of trademarks, click here.  
 © 2012 Harpo Productions, Inc. All Rights Reserved.
