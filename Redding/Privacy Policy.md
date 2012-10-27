@@ -267,25 +267,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Shasta County's motion for preliminary injunction against Anselmo denied Updated 10/25/2012 at 3:43 p.m. 65 comments
-*   Dispute over pot debt leads to shooting, school lock down, deputies say Updated 10/25/2012 at 9:30 a.m. 67 comments
-*   GOP candidates in close races disavow rape remark Published 10/25/2012 at 4:00 a.m. 68 comments
-*   UPDATED: Montague murder victim identified Updated 10/25/2012 at 10:30 a.m. 3 comments
-*   UPDATED: Hayfork man dies in crash Updated 10/25/2012 at 8:52 a.m. 5 comments
+*   Charles Krauthammer: Obama stoops, doesn't conquer Published 10/26/2012 at 12:00 a.m. 158 comments
+*   UPDATED: Three-vehicle collision on Hartnell Avenue Updated 10/26/2012 at 4:14 p.m. 25 comments
+*   Police: Shot fired into Redding apartment Published 10/26/2012 at 11:15 a.m. 31 comments
+*   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 17 comments
+*   UPDATED: Parolee alledly kidnapps two people, leads deputies on chase Updated 10/26/2012 at 10:16 p.m. 14 comments
 
-Photo Galleries From the Hearth Cafe drive-thru Red Bluff men get marijuana back Enterprise beats Foothill
+Photo Galleries AAUW Tour Pierson home Enterprise wins the River Bowl From the Hearth Cafe drive-thru
 
-*   Roy Hutchings: What's he want to change? Published 10/23/2012 at 12:00 a.m. 151 comments
+*   Charles Krauthammer: Obama stoops, doesn't conquer Published 10/26/2012 at 12:00 a.m. 158 comments
 *   Thomas Sowell: Libya and the administration's lies Published 10/24/2012 at 12:00 a.m. 125 comments
-*   US may soon become world's top oil producer Published 10/24/2012 at 4:00 a.m. 99 comments
 *   Neither Obama nor Romney can quickly improve economy, expert tells Redding audience Published 10/24/2012 at 12:16 a.m. 98 comments
-*   Ruth Marcus: What we learned from the debates Published 10/25/2012 at 12:00 a.m. 66 comments
+*   US may soon become world's top oil producer Published 10/24/2012 at 4:00 a.m. 99 comments
+*   GOP candidates in close races disavow rape remark Published 10/25/2012 at 4:00 a.m. 79 comments
 
-*   Dog trainer teaches empathy at Tehama juvenile hall Published 10/15/2012 at 11:40 p.m. 9 comments
-*   Tehama fair devotes day to goat education Published 10/21/2012 at 11:30 p.m. 8 comments
-*   UPDATED: Victims of double shooting trying to steal marijuana from Shingletown home, deputies say Published 10/15/2012 at 11:42 p.m. 121 comments
+*   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 17 comments
 *   UPDATED: Montague woman, 30, killed by husband, deputies say Published 10/18/2012 at 4:13 p.m. 16 comments
-*   Former Redding man accused of killing exotic bird in Las Vegas Published 10/15/2012 at 6:34 p.m. 51 comments
+*   Tehama fair devotes day to goat education Published 10/21/2012 at 11:30 p.m. 8 comments
+*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 115 comments
+*   Despite high unemployment, few sign up for Smart job training program Published 10/18/2012 at 12:08 a.m. 37 comments
 
 Weather
 
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 43° Fair Wind: Calm Today 75° 46° Fri 05:00 PM Partly Sunny Temp: 73° Sat 05:00 AM Partly Cloudy Temp: 48° Sat 05:00 PM Partly Sunny Temp: 79°
-
-Feels Like: 73°
-
-Humidity: 30%
-
-Precip: 10%
-
-Feels Like: 48°
-
-Humidity: 80%
-
-Precip: 6%
+Currently 55° Fair Wind: Calm Today 81° 52° Sat 05:00 PM Partly Sunny Temp: 80° Sun 05:00 AM Partly Cloudy Temp: 55° Sun 05:00 PM Partly Sunny Temp: 78°
 
 Feels Like: 79°
 
-Humidity: 28%
+Humidity: 31%
 
-Precip: 4%
+Precip: 1%
+
+Feels Like: 55°
+
+Humidity: 83%
+
+Precip: 3%
+
+Feels Like: 78°
+
+Humidity: 32%
+
+Precip: 0%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Friday Oct 26
 *   Saturday Oct 27
 *   Sunday Oct 28
+*   Monday Oct 29
 *   More BROWSE Icon
-
-*   Artist's Submissions for Juried Autumn Art Show Carter House Art Gallery
-*   Stand Down Shasta District Fair grounds 8 a.m.
-*   Creature Feature Program Turtle Bay Exploration Park 1:30 p.m.
-*   Fall Colors Bike Ride, Bizz Johnson Trail near Susanville Biz Johnson Trail Susanville 2 p.m.
-*   Sixth annual Redding Theatre Company Masquerade Ball TBS Ranch 6 p.m.
-
-More Events »
 
 *   Artist's Submissions for Juried Autumn Art Show Carter House Art Gallery
 *   Wintu Audubon Clear Creek Outing See Description 7:30 a.m.
@@ -356,13 +348,21 @@ More Events »
 
 More Events »
 
+*   Free classes for seniors Senior Citizens Hall
+*   Zumba Classes Teen Center 6 p.m.
+*   Redding Chess Club See Description 5 p.m.
+*   Redding Duplicate Bridge Club meetings Senior Citizens Hall noon
+*   Raja Yoga Classes Center for Spiritual Living 7 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Missed the Presidential Debate Last Night?
+*   Prepbeat.com
     
-    Catch up and watch it here.
+    Get the most current news on north state high school sports.
     
     20 Under 40
     
