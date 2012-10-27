@@ -1,5 +1,5 @@
   Manage email CUSTOMER SERVICE My account Order status or or HSN My Alerts: 0 Wish List: Shopping Bag: Jewelry Apparel Shoes Handbags Beauty Kitchen &. Food Electronics Home Decor Home Solutions Health Crafts Sports Clearance More     For the best hsn.com shopping experience, please update your browser to a  
-newer version. We recommend Internet Explorer 9, Chrome or Firefox. Â» Why upgrade? shop now
+newer version. We recommend Internet Explorer 9, Chrome or Firefox. Â» Why upgrade? learn more
 
 *   HSN Shopping
 
