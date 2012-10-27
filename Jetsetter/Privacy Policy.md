@@ -51,10 +51,10 @@ Looking for more about your trip? Checkout New York City and The Caribbean spotl
 
 Collections Travel Ideas
 
-*   Romantic Vacations You…
 *   Secret Five-Star Stunners
 *   Bring the Brood
 *   Steals on Ski Stays
+*   Bucket List Trips
 
 *   Jetsetter Journeys
 *   Honeymoon Planning
@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Dar Sabra - Marrakech
-    
-    Starting Today 10/26 at 3pm EDT
-    
-*   Baker House 1650 - Hamptons
-    
-    Starting Today 10/26 at 3pm EDT
-    
-*   Cape Town &. Winelands Tour Six Nights in South Africa with Great Safaris
-    
-    Starting Today 10/26 at 3pm EDT
-    
-*   An Lam Ninh Van Bay - Vietnam
-    
-    Starting Saturday 10/27 at Noon EDT
-    
 *   Lush Hotel - Istanbul
     
-    Starting Saturday 10/27 at Noon EDT
+    Starting Today at Noon EDT
     
 *   Kempinski Barbaros - Turkey
     
-    Starting Saturday 10/27 at Noon EDT
+    Starting Today at Noon EDT
+    
+*   An Lam Ninh Van Bay - Vietnam
+    
+    Starting Today at Noon EDT
+    
+*   Andara Resort - Phuket
+    
+    Starting Sunday 10/28 at 3pm EDT
+    
+*   Sofitel New York
+    
+    Starting Sunday 10/28 at 3pm EDT
     
 *   The Mirage Las Vegas
     
     Starting Sunday 10/28 at 3pm EDT
     
-*   Andara Resort - Phuket
+*   Martineau Belle Playa - PR
     
-    Starting Sunday 10/28 at 3pm EDT
+    Starting Monday 10/29 at Noon EDT
+    
+*   Park Hyatt Chicago
+    
+    Starting Monday 10/29 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
