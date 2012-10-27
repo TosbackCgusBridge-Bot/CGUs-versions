@@ -52,7 +52,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Shapewear
     *   Hosiery, Leggings &. Socks
     *   Sleep, Lounge &. Robes
-    *   Swimwear &. Cover-Ups
+    *   Swimsuits &. Cover-Ups
     
     *   Special Sizes
     *   Plus
@@ -255,6 +255,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   New Arrivals
     *   Complete Looks
     *   Kids' Brands
+    *   Under $30
     *   Sale
     *   Gift Cards
     
