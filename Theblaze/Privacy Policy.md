@@ -21,9 +21,9 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   Hillary Clinton
-*   Campaign 2012
 *   Libya: The Truth?
+*   China
+*   Campaign 2012
 
 Take Action About TheBlaze
 
@@ -239,7 +239,7 @@ Editorial Staff
 *   Military
 *   Economy
 
-Sections
+What is this? Sections
 
 *   The Stories
 *   Business
@@ -250,9 +250,9 @@ Sections
 
 Hot Topics
 
-*   Hillary Clinton
-*   Campaign 2012
 *   Libya: The Truth?
+*   China
+*   Campaign 2012
 
 More from TheBlaze
 
