@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Friday 26 October 2012
+Saturday 27 October 2012
 
 *   Home
 *   News
@@ -138,13 +138,11 @@ In About us
 
 Editor's Choice »
 
-Why beauty is rarely worth it  
+Prince Charles of Transylvania  
 
-As scientists find that attractive equals conformist, **Stephen Bayley** agrees that ugly has more fun
+Following the Prince of Wales, **Adrian Bridge** ventures deep into 'Dracula Country'.
 
-Comments
-
-Why the BBC is hopeless in a crisis Skyfall's Q: 'I don’t even have a computer' Jeremy Warner: there's hard toil ahead Alan Smith: buck stops with Wenger Advertisement
+Jez Butterworth's The River, review The Shard, London: first look inside A sad farewell to The Thick of It The Tories are embracing ever looser union Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
