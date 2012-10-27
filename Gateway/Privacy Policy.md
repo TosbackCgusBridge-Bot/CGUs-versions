@@ -21,6 +21,7 @@ Home
     *   Warranty
     *   Contact Support
     *   Windows 8 Upgrade
+    *   Windows 8 Tutorial
 
 *   Overview
 *   News and Information
