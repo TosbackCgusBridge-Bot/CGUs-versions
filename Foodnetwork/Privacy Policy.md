@@ -50,7 +50,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
             *   Street Feasts
         *   *   New Episodes Man v. Food Nation See Adam uncover unbelievable food challenges
             *   USA Street Feasts American Street Feasts Andy explores the extraordinary array of Stateside street food
-            *   Cupcake Wars Cupcake Wars Get your sugar fix and catch up on all the latest episodes
+            *   World Class Bartender of the Year Find out who will be crowned the best bartender in the world
         *   ALL TV SHOWS
 *   Chefs
     *   *   Top Chefs
@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Barefoot Contes... UP NEXT › Barefoot Contes...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Nigella Kitchen UP NEXT › Nigella Kitchen
 
 *   Channel  
     Guide
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
-*   Who’s a @GeorgeLambShow fan? Watch him host World Class: Bartender of the Year from beautiful Rio de Janeiro: t.co/t9TRwUwA
-*   @danibabble we can't wait to see. Love a good food picture!
-*   @danibabble Easy! We’ve got risotto, chowder, waffles, tarts, pies.... everything you could possibly need: t.co/k5jK9lv1 #pumpkin
-*   Who’s having a Halloween party this weekend? We want to know what you’ll be eating. #Halloween
-*   Eggs? RT @kyul8: I'm already thinking about what to have for breakfast heehee ~~~~~ Best Egg Recipes @FoodNetwork\_UK t.co/ulYd1OXI
-*   Wahoo! Exciting :) RT @themattevers: Working on new recipes for @FoodNetwork\_UK kitchen smells... Mmm mmm good! t.co/uYqgipqO
-*   Recipe of the Day: Spirited Halloween t.co/3NoQfLXV
-*   Have you entered our competition to win 1 of 100 @alaskaseafooduk cookbooks yet? t.co/tSHzB0wo #competition
-*   @eatmypies will love to hear that. RT @hungry\_romantic: @FoodNetwork\_UK love andy bates! I'm drooling at the pics already!!
-*   Let us know when you do! RT @geordiejacko87: @eatmypies @FoodNetwork\_UK will be definitely getting this book like will be well worth it mate
+*   Recipe of the Day: Wicked Cupcakes t.co/LBPdEx68
+*   20 exhilaratingly-gruesome potions perfect for #Halloween t.co/6Tg9XxH9
+*   @eatmypies @avocetfoodie @sweettvtweets @jaspiek @nicolescriabin >>. awww shucks, thanks Andy!
+*   Thanks for all your brilliant #fishsongfriday suggestions. In the mood for a fish dish? Check them out: t.co/mm9StEom
+*   RT @dangerouswilson: @FoodNetwork\_UK Get trout of my dreams, get into my car #fishsongfriday
+*   RT @madebythechef: @FoodNetwork\_UK: think mine must have slipped through the net! Must Be Witch Craft (yes witch is a fish) #fishsongfriday
+*   Well I like it. What does that say?!?! RT @loucookes: @FoodNetwork\_UK Bream breamie - Bowie? #fishsongfriday I'll get my coat...
+*   Yeah, come follow us! RT @jackharney: @JoshSinkinson follow @FoodNetwork\_UK for food related bants
+*   Look who popped in to see their cookbook. It's only @eatmypies! Order yours now t.co/axCREJmf #StreetFeastsUSA t.co/Mriy1jlm
+*   Don't stop! RT @nancymcgregor: Ok this is the last one, I promise. I'm Coming Trout by Diana Ross #fishsongfriday @FoodNetwork\_UK
 
 Follow Us
 
