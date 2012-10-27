@@ -90,6 +90,7 @@ Get Alaska's largest statewide coverage! »
     *   Public Notices
     *   Tariffs
     *   Rate Postings
+    *   Taxes &. Surcharges
     *   CCL Reports
     *   Sweepstakes Rules
 *   About GCI
