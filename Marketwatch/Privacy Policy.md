@@ -1,10 +1,4 @@
-Bulletin Investor Alert
-
-New York Markets Open in:
-
-Pre-Market Indications Analyst Ratings Oil News EarningsWatch
-
-Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
+Bulletin Investor Alert Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
@@ -198,139 +192,147 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:07 AM EDT October 26, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 27, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:03a
+/news/latest1.  8:01a
     
-    Radio update: Fiscal cliff threat wipes out jobs
+    Investors brace for Sandy and key jobs report
     
-2.  8:01a
+2.  8:00a
     
-    Updates, advisories and surprises
+    Hurricane, October jobs data in spotlight
     
-3.  8:00a
+3.  6:02a
     
-    Coming up: Third-quarter U.S. GDP
+    Big earnings to watch Monday: PG&E, Burger King
     
-4.  7:58a
+4.  6:02a
     
-    Oil tests support near $85 on risk aversion
+    Dinky, yes, but donât call them cheap
     
-5.  7:53a
+5.  6:00a
     
-    Gold falls as dollar gains on global growth fears
+    13 U.S. cities going broke
     
-6.  7:48a
+6.  11:23p
     
-    Dollar up. gloomy tone ahead of U.S. GDP data
+    Hurricane Sandy may force evacuations in NYC
     
-7.  7:48a
+7.  7:07p
     
-    Apple edges up 0.2% in premarket
+    Hurricane Sandy wreaks havoc on airline flights
     
-8.  7:47a
+8.  6:48p
     
-    Cerner Corp. up 11.8% in premarket
+    Radio Update: Online travel stocks gain altitude
     
-9.  7:47a
+9.  6:10p
     
-    Expedia up 17.6% in premarket
+    Amazon, Coherent active in trading after hours
     
-10.  7:43a
+10.  6:03p
     
-    Legg Mason profit jumps by 43%
+    Cabot Oil &. Gas soars. other energy stocks lag
     
-11.  7:43a
+11.  5:53p
     
-    Stock futures drop on Apple results. GDP eyed
+    10 things direct-sales marketers wonât say
     
-12.  7:32a
+12.  5:33p
     
-    Goodyear profit falls
+    The Google sneak attack
     
-13.  7:31a
+13.  5:29p
     
-    Comcast profit up after Olympics boost
+    Foodies weather hurricanes with âstorm cuisineâ
     
-14.  7:30a
+14.  5:19p
     
-    Fed's Lacker: Pledge to create too much stimulus
+    East Coast refineries brace for Hurricane Sandy
     
-15.  7:30a
+15.  5:17p
     
-    FearPad trumps iPad as stocks fall
+    Stores stock up to aid hurricane-hit shoppers
     
-16.  7:25a
+16.  5:14p
     
-    Big earnings to watch Friday: Merck, Comcast
+    Senate leader Reid in hospital after crash
     
-17.  7:24a
+17.  5:12p
     
-    Windows 8: Game-changer or Vista redux?
+    MarketWatchâs top 10 stories, Oct. 22 - 26
     
-18.  7:17a
+18.  5:02p
     
-    Merck &. Co. profit up 2%, sales dip
+    Rescuing elderly relatives from Sandy's path
     
-19.  7:06a
+19.  5:00p
     
-    Goodyear Q3 net 41c vs 60c
+    âFrankenstormâ has financial centers on edge
     
-20.  7:06a
+20.  5:00p
     
-    Goodyear Q3 sales $5.26 bln vs. $6.06 bln
+    BREAKING
+    
+    Sen. Reid in hospital after car crash: reports
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,103.68 +26.34 +0.20% nasdaq /quotes/zigman/123127 2,986.12 +4.42 +0.15% s&p 500 /quotes/zigman/3870025 1,412.97 +4.22 +0.30% Kiosk
+dow /quotes/zigman/627449 13,107.21 +3.53 +0.03% nasdaq /quotes/zigman/123127 2,987.95 +1.83 +0.06% s&p 500 /quotes/zigman/3870025 1,411.94 -1.03 -0.07% Kiosk
 
 *   1341573300000 1341592200000
     
     From Fox Business
     
-    Â  Â  Bonnie Lee  
-    Five tax tips for non filers  
-    Here's how to navigate the process of filing your tax returns when you've fallen behind for a few years. Most importantly, don't panic, writes Bonnie Lee.Â  /conga/kiosk/marketfox.html 232458
+    Â  Â  nancy colasurdo  
+    Try backing off to close a sale  
+    Sometimes, when workers see a potential sale in sight, they "move in for the kill." But sometimes it might be better to give the customer some space.Â  /conga/kiosk/marketfox.html 232700
+*   1332374700000 1332461400000
+    
+    The Trading Deck
+    
+    michael gayed  
+    FearPad trumps iPad. stocks fall  
+    The market is entering an emotional phase which could flush out of the remaining nouveau bulls who denied a correction was a possibility.  
+    /conga/kiosk/trading-deck-5.html 232628
 *   1320414900000 1320620100000
     
     Economy
     
-    5 âfiscal-cliffâ scenarios  
-    How will Washington deal with the impending "fiscal cliff" of tax increases and spending cuts? Here are five ways it could play out. /conga/kiosk/consumer.html 232473
-*   1329437100000 1329783000000
+    Five âfiscal-cliffâ scenarios  
+    How will Washington deal with the impending "fiscal cliff" of tax increases and spending cuts? Here are five ways it could play out. /conga/kiosk/consumer.html 232697
+*   1330965900000 1330992600000
     
     The Trading Deck
     
-    Second chance to buy oil stocks  
-    Oil and oil-services stocks are highly leveraged to inflation, scarcity and an eventual global economic rebound, writes Kirk Spano.  
-    â¢ Trading Deck: Markets ideas and opinions /conga/kiosk/trading-deck-2.html 232475
-*   1347087600000 1347213600000
+    Â  nigam arora  
+    Bad Apple earnings: What now?  
+    Many of the numbers in the companyâs call did not meet expectations, but does that mean that itâs time to dump the stock?Â  /conga/kiosk/trading-deck-4.html 232624
+*   1332953700000 1332979800000
     
-    Technology
+    The Trading Deck
     
-    iPad resales surge 700%  
-    Many Apple fans appear to be trading their old iPads for the mini. Some 140,000 devices were put up for sale on Gazelle.com on Tuesday.  
-    /conga/kiosk/wildcard2.html 232452
+    jeff reeves  
+    I just bought Intel -- Am I crazy?  
+    There are a few large-scale arguments against investing in old tech right now, but when you look closely, Intel may be able to avoid their problems. /conga/kiosk/trading-deck-7.html 232684
+*   1315997700000 1316084100000
+    
+    Commodities Corner
+    
+    Why your heating bill wonât jump  
+    Consumers are starting to worry about propane and natural gas, but this year, prices probably wonât see a huge spike, writes Myra P. Saefong.  
+    â¢ Rolling coverage: East Coast girds for Sandy
+    
+    Â 
+    
+    /conga/kiosk/commentary3.html 232686
 *   1309191300000 1309248000000
     
-    Retirement
+    Personal Finance
     
-    Savings still lag  
-    Workers are getting a little more 401(k) help from their employers for retirement, but many are still falling short in building nest eggs.  
-    /conga/kiosk/wildcard3.html 231786
-*   1341573300000 1341792900000
-    
-    Economy
-    
-    Â  Â  ADP's new numbers  
-    ADP is changing the way it counts how many U.S. jobs are created each month to better align with government data. here's how they're doing it. /conga/kiosk/economy-politics.html 232300
-*   1349089200000 1349137500000
-    
-    Commentary
-    
-    Writing on the Wall  
-    Ron Paul's legacy  
-    Debate about monetary policy will be forced to the front burner after the election, the Texas congressman tells David Weidner.Â  /conga/kiosk/commentary2.html 232490
+    8 shocking expense reports  
+    $177 for a bagel and diet soda? Lawyers may have a reputation for expensing every last thing, but theyâve got nothing on these politicians and executives.  
+    /conga/kiosk/wildcard3.html 232694
 
 MarketWatch.com
 
