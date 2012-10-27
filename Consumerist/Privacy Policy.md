@@ -1,11 +1,4 @@
-*   What’s Up With Consumerist?
-*   RSS
-*   Twitter
-*   Facebook
-
-The Consumerist
-
-You are here: Home / Privacy Policy Privacy Policy
+Privacy Policy
 
 Last updated on March 25, 2010
 
@@ -121,25 +114,3 @@ Yonkers, NY 10703
 Tell a friend:
 
 *   More
-
-**Want Consumerist in your inbox?** Popular Posts
-
-*   A Guide To Figuring Out Executives' E-Mail Addresses
-*   Man With Uninsured $430K Lamborghini Finds $568 Ticket Outrageously High
-*   Fancy Hotel Wedding Planner Doesn't Understand How Email's "CC" Function Works
-*   What Happens If You Try To Hold A Board Meeting In The Office Chair Department Of Staples?
-*   Verizon Uses Warranty-Voiding Photo To Sell Protection Plan
-
-About Consumerist
-
-*   About Us
-*   Company Directory
-*   No Commercial Use
-*   Privacy Policy
-*   User Agreement
-
-Return to top of page
-
-Proudly powered by WordPress · Theme: Modern News by StudioPress.
-
-Send to Email Address Your Name Your Email Address Cancel Post was not sent - check your email addresses! Email check failed, please try again Sorry, your blog cannot share posts by email.
