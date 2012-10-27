@@ -175,8 +175,8 @@ globo.com
         *   Na Moral
         *   Os Caras de Pau
         *   Programa do Jô
-        *   Salve Jorge
         *   Som Brasil
+        *   Suburbia
         *   Tapas &. Beijos
         *   TV Globinho
         *   TV Xuxa
