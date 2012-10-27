@@ -122,11 +122,11 @@ jánossy györgy emlékkiállítása a hap galériában
 
 épülettár apró
 
-kezdődő építkezéssel extra kicsiáron ikerház eladó!
+galgahévizen amerikai stilusú ház eladó vagy cserélhető
 
-budai lakóparki családiház
+villanyszerelés, gyorsszolgálat, hibaelhárítás 0-24 tel:06 70 261-0353 / 321-3207
 
-panorámás szép ház érden!
+lakóparki új szép családi ház fiataloknak!
 
 még több
 
@@ -164,7 +164,7 @@ közigazgatás-igazságügy \[93\]
 
 fürdő, wellness \[98\]
 
-ipar, ipari park, logisztikai központ \[279\]
+ipar, ipari park, logisztikai központ \[280\]
 
 műemlék \[804\]
 
@@ -192,7 +192,7 @@ Belsőépítészet \[110\]
 
 Építőipar és geodézia mérő műszerek \[9\]
 
-Kivitelezés \[1007\]
+Kivitelezés \[1008\]
 
 Lakberendezés \[92\]
 
@@ -222,7 +222,7 @@ Development Manager- Real estate sector
 
 Portfolio Director (Real Estate)
 
-Ingatlanértékesítő állás
+Területi Igazgató
 
 még több
 
