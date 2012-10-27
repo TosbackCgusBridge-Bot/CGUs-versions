@@ -113,46 +113,46 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/26/2012 8:02 AM ET
+Updated: 10/27/2012 7:02 AM ET
 
 1.  1 Ex-Biden aide pens angry tell-all
-2.  2 Romney raises $111.8 million in October
-3.  3 Two new polls scream 'advantage Obama'
-4.  4 Momentum wars
-5.  5 McCain: 'Gen. Powell, you disappoint'
-6.  6 Bushies in Romneyworld
-7.  7 Obama's pathetic picture book
-8.  8 Obama says kids know Romney is dishonest
-9.  9 Sununu retreats on claim that Powell's endorsement of Obama was race-driven
-10.  10 NBC/WSJ: Obama leads in Nevada, tied with Romney in Colorado
+2.  2 NBA's Stern: Obama always goes left
+3.  3 White voters still matter
+4.  4 Obama's fuzzy Ohio early vote math
+5.  5 Reid doing fine after car accident
+6.  6 Romney ad bomb finally here?
+7.  7 Dems go all in for abortion rights
+8.  8 Newt: 300 electoral votes for Mitt
+9.  9 CNN Ohio poll: Obama 50, Romney 46
+10.  10 Obama talks same-sex marriage, music on MTV
 
-Updated: 10/26/2012 8:02 AM ET
+Updated: 10/27/2012 7:02 AM ET
+
+1.  1 Ex-Biden aide pens angry tell-all
+2.  2 NBA's Stern: Obama always goes left
+3.  3 Dems go all in for abortion rights
+4.  4 Romney ad bomb finally here?
+5.  5 Sununu retreats on claim that Powell's endorsement of Obama was race-driven
+6.  6 Right blogs fume over 'virgin' ad
+7.  7 Two new polls scream 'advantage Obama'
+8.  8 White voters still matter
+9.  9 GDP number a relief for Obama
+10.  10 Reid doing fine after car accident
+
+Updated: 10/27/2012 7:02 AM ET
 
 1.  1 Ex-Biden aide pens angry tell-all
 2.  2 Obama says kids know Romney is dishonest
 3.  3 Romney raises $111.8 million in October
-4.  4 McCain: 'Gen. Powell, you disappoint'
+4.  4 NBA's Stern: Obama always goes left
 5.  5 Two new polls scream 'advantage Obama'
-6.  6 Obama's pathetic picture book
-7.  7 How Mitt Romney would govern
-8.  8 Obama laughs off Trump's offer
-9.  9 Colin Powell backs Obama
-10.  10 Obama on Mourdock: 'Rape is rape'
+6.  6 McCain: 'Gen. Powell, you disappoint'
+7.  7 Dems go all in for abortion rights
+8.  8 Obama's pathetic picture book
+9.  9 How Mitt Romney would govern
+10.  10 Obama laughs off Trump's offer
 
-Updated: 10/26/2012 8:02 AM ET
-
-1.  1 Ex-Biden aide pens angry tell-all
-2.  2 Trump mocked on Twitter
-3.  3 Obama says kids know Romney is dishonest
-4.  4 Romney raises $111.8 million in October
-5.  5 Trump will donate for Obama records
-6.  6 Obama's 11th-hour strategy shift
-7.  7 Woodward: Obama 'mistaken'
-8.  8 McCain: 'Gen. Powell, you disappoint'
-9.  9 Two new polls scream 'advantage Obama'
-10.  10 Media chill on Trump announcement
-
-Updated: 10/26/2012 8:02 AM ET
+Updated: 10/27/2012 7:02 AM ET
 
 1.  1 Trump claims Obama bombshell
 2.  2 Ex-Biden aide pens angry tell-all
@@ -163,79 +163,68 @@ Updated: 10/26/2012 8:02 AM ET
 7.  7 Romney raises $111.8 million in October
 8.  8 Trump will donate for Obama records
 9.  9 Reporter 'not allowed' to talk to voters at Biden event
-10.  10 Obama's 11th-hour strategy shift
+10.  10 NBA's Stern: Obama always goes left
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/26/2012 8:02 AM ET
+Updated: 10/27/2012 7:02 AM ET
 
-1.  1 Ralph Nader the moderator
-2.  2 A letter to Jewish grandparents
-3.  3 Obama's October hurts House Dems
-4.  4 Obama tries to regain edge with women
-5.  5 Democrats go all in for abortion rights
-6.  6 Mourdock's survival plan
-7.  7 Romney ad bomb finally here?
-8.  8 Romney has cash lead over Obama
-9.  9 Meat Loaf and Mitt
-10.  10 Team Obama raises $1 billion
+Updated: 10/27/2012 7:02 AM ET
 
-Updated: 10/26/2012 8:02 AM ET
+1.  1 Treasury rejects Issa subpoena threat
+2.  2 Reid doing fine after car accident
+3.  3 GOPer's Sandy advice for Mitt: Stay low key
+4.  4 White voters still matter
+5.  5 Rush: Dunham ad insults women
+6.  6 Obama's fuzzy Ohio early vote math
+7.  7 How does Electoral College work?
+8.  8 Stars shine for genetic food labeling
+9.  9 Michelle 'wakes up' Kimmel ratings
+10.  10 A new song: 'Forward' with Obama
 
-1.  1 Ralph Nader the moderator
-2.  2 A letter to Jewish grandparents
-3.  3 Obama's October hurts House Dems
-4.  4 Obama tries to regain edge with women
-5.  5 Democrats go all in for abortion rights
-6.  6 Mourdock's survival plan
-7.  7 Romney ad bomb finally here?
-8.  8 Romney has cash lead over Obama
-9.  9 Meat Loaf and Mitt
-10.  10 Team Obama raises $1 billion
+Updated: 10/27/2012 7:02 AM ET
 
-Updated: 10/26/2012 8:02 AM ET
+1.  1 Treasury rejects Issa subpoena threat
+2.  2 Reid doing fine after car accident
+3.  3 GOPer's Sandy advice for Mitt: Stay low key
+4.  4 White voters still matter
+5.  5 Rush: Dunham ad insults women
+6.  6 Obama's fuzzy Ohio early vote math
+7.  7 How does Electoral College work?
+8.  8 Stars shine for genetic food labeling
+9.  9 Michelle 'wakes up' Kimmel ratings
+10.  10 A new song: 'Forward' with Obama
 
-1.  1 Ralph Nader the moderator
-2.  2 A letter to Jewish grandparents
-3.  3 Obama's October hurts House Dems
-4.  4 Obama tries to regain edge with women
-5.  5 Democrats go all in for abortion rights
-6.  6 Mourdock's survival plan
-7.  7 Romney ad bomb finally here?
-8.  8 Romney has cash lead over Obama
-9.  9 Meat Loaf and Mitt
-10.  10 Team Obama raises $1 billion
+Updated: 10/27/2012 7:02 AM ET
 
-Updated: 10/26/2012 8:02 AM ET
-
-1.  1 Ralph Nader the moderator
-2.  2 A letter to Jewish grandparents
-3.  3 Obama's October hurts House Dems
-4.  4 Obama tries to regain edge with women
-5.  5 Democrats go all in for abortion rights
-6.  6 Mourdock's survival plan
-7.  7 Romney ad bomb finally here?
-8.  8 Romney has cash lead over Obama
-9.  9 Meat Loaf and Mitt
-10.  10 Team Obama raises $1 billion
+1.  1 Treasury rejects Issa subpoena threat
+2.  2 Reid doing fine after car accident
+3.  3 GOPer's Sandy advice for Mitt: Stay low key
+4.  4 White voters still matter
+5.  5 Rush: Dunham ad insults women
+6.  6 Obama's fuzzy Ohio early vote math
+7.  7 How does Electoral College work?
+8.  8 Stars shine for genetic food labeling
+9.  9 Michelle 'wakes up' Kimmel ratings
+10.  10 A new song: 'Forward' with Obama
 
 Showing Last 7 Days
 
-Updated: 10/26/2012 8:02 AM ET
+Updated: 10/27/2012 7:02 AM ET
 
-1.  1 How Mitt Romney would govern
-2.  2 Trump will donate for Obama records
-3.  3 Obama's 11th-hour strategy shift
-4.  4 Obama tears into Mitt at last debate
-5.  5 Trump claims Obama bombshell
-6.  6 Romney's toughest debate
-7.  7 Obama's 'Romnesia' remedy
-8.  8 Obama: Mitt has 'Romnesia'
-9.  9 O'Donnell taunts Tagg Romney
-10.  10 GOP groups spill secrets
+1.  1 White voters still matter
+2.  2 Obama tries to shore up female vote
+3.  3 Dems go all in for abortion rights
+4.  4 How Mitt Romney would govern
+5.  5 Trump will donate for Obama records
+6.  6 Obama's 11th-hour strategy shift
+7.  7 Campaigns launch fierce endgame
+8.  8 Obama tears into Mitt at last debate
+9.  9 Trump claims Obama bombshell
+10.  10 Romney's toughest debate
 
 News
 
