@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 6:30PM Gold RushJudgment Day 7:30PM Gold Rush (Season 3 Specials)Do Or Die 9:00PM Gold Rush (Season 3)Million Dollar Season TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Mermaids: The Body Found  9:00PM The Dark (1x120 reversion)  TV SHOWS
 
 American Chopper
 
@@ -72,9 +72,13 @@ Gold Rush
 
 The Long Road
 
+Moonshiners
+
+The Law Comes Knockin'
+
 Yukon Men
 
-Wheel of Misfortune
+Last Chance
 
 American Chopper
 
@@ -242,7 +246,7 @@ $19.95
 
 Discovery Channel Polymer Chemistry Set
 
-$19.95
+$16.99
 
 Discovery Flip Phone Walkie Talkies
 
@@ -330,21 +334,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-What Happened at the OK Corral?
+Mayans Pissed Off Over Doomsday 'Deceit'
 
-Space Station Gets Fish Tank Stocked: DNews Nugget
+Bummer Weekend News on Drinking: DNews Nugget
 
-Easter Island Statues Could Have 'Walked'
+There's a Fractal in My Cauliflower! DNews Nugget
 
-Dinosaurs Looking for Love Grew Alluring Feathers
+Nissan Interior Will Feel Like Skin
 
-Planning for an Interstellar Road Trip
+NYC Nanny Suspect in Children's Stabbings: DNews Nugget
 
-Sand Dunes Singing the Chaos Blues
+'Zombie Exoplanet' Back From the Dead?
 
-'Black Widow' Pulsar Is Fastest Star Killer
+$10 Million Bigfoot Bounty Backs New Show
 
-Fukushima Fish Still Radioactive
+Third Time Still Unlucky for S.Korea Rocket: DNews Nugget
 
   facebook share0 Tweet Privacy Policy  
 
@@ -550,32 +554,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 26,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 27,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 26,  
+Oct 27,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 26,  
+Oct 27,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 26,  
+Oct 27,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 26,  
+Oct 27,  
 9:00 am  
-30 min(s)  
-**Property Wars**  
-_Timber!_  
- Scott and Doug's rivalry comes to a head, leading Doug to overpay  
+60 min(s)  
+**Alaska: The Last Frontier**  
+_Snow, Cold and Darkness_  
+ The early winter storms have left the entire homestead unprepared  
 **More Listings »**   Shop Discovery Store      
 
 our sites
