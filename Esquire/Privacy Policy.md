@@ -23,46 +23,46 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript.
 
-CHECK THESE OUT Women How to Take a Shower... with Nikki Reed (from Twilight, but Still  It's a Damn Good Cause)
+CHECK THESE OUT Women Weekend Pic: This Sexy Redhead
 
-Five important tips for those awkward and occasionally sexy moments with your loved one
+Because why the hell not?
+
+*   How to Take a Shower... with Nikki Reed (from Twilight, but Still  It's a Damn Good Cause)
 
 *   Context-Free Food Wisdom from Taylor Swift
 
 *   _Happy Endings_' Casey Wilson  
     Will Now Make You Laugh
 
-*   Monday Morning Cheerleader: What It's Like to Watch Aaron Rodgers Dismantle Your Team
+Style What to Wear Next, from Toronto Fashion Week
 
-Style The Fall Accessories You Need Right Now
+Checking with our leather jacket-obsessed neighbors from the north
 
-The new breed of fall accessories is sophisticated, not stuffy. We've got 20 picks to buy online.
+*   The Best Topical Halloween Costumes of 2012
 
-*   Why Rod Stewart Is Still the Man
+*   Ten Pairs of Pants at Every Price
 
-*   A Look at Archival Clothing's New Waxed Vests
+*   The Fall Accessories You Need Right Now
 
-*   Justin Timberlake Wedding Look: How You Do It (with Jessica Biel)
+News &. Politics _Cloud Atlas_ or _Chasing Mavericks_? Reviews!
 
-News &. Politics Elizabeth Warren: The Politics Blog Interview
+The dilemma of this weekend's movie choices
 
-The Massachusetts candidate for Senate talks to Charles P. Pierce about the crash, the bailout, Mitt Romney, and more
+*   Charlie Pierce on David Brooks on the Truth About Moderate Mitt...
 
-*   Mark Warren on Why the Times Should Fire Matt Bai
+*   Of Course Lena Dunham's Obama Endorsement Will Piss People Off
 
-*   How to Talk About _Cloud Atlas_: A Handy Guide
+*   This Week's _Parks&Rec_ in Photos
 
-*   Can We Talk About Poverty in This Campaign?
+Food &. Drink Things to Talk About at the Bar This Weekend
 
-Food &. Drink Magical Bartender Advice for Drinking Tonight
+To Halloween, Doug Fister, Tiger Woods, the triumph of Triumph, and the end of debates, thank God.
 
-A barman who does sleight of hand. And used to work at a think tank.
+*   The Most Unnecessary Halloween Cocktails, and the Drinkable Ones
 
-*   David Wondrich on Scotch as the Scots Intended It
+*   The Rarest Rums in the World
 
-*   Colicchio's New Show  with Sharks, and Pot
-
-*   How Cooking Made Humans Smarter
+*   Magical Bartender Advice for Drinking Tonight
 
 Women
 
