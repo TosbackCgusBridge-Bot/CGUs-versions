@@ -5,7 +5,7 @@
 
 *   My Wish List
 
-Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale Up to 50% off all sweaters, outerwear, hats, gloves &. scarves. Plus free shipping on your order of $125 or more – no code needed. \*Details **Customer Service**
+Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale Today Only! All Sweaters Buy One Get One Free! Plus free shipping on your order of $125 or more – no code needed. \*Details **Customer Service**
 
 *   Ordering &. Shipping Info
     *   Where's My Order?
