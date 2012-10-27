@@ -227,7 +227,7 @@ This Privacy Policy is effective as of 26 June 2012.
     Music Manager
     
 
-> “Vorsprung Durch Last.fm.”
+> “You Can't Get Quicker Than a Last.fm Fitter.”
 
 BNET | CBS Cares | CBS Films | CBS Radio | CBS.com | CBSInteractive | CBSNews.com | CBSSports.com | CHOW | CNET | College Network | Find Articles | GameSpot | Help.com | Last.fm | MaxPreps | Metacritic.com | Moneywatch | mySimon | Radio.com | Search.com | Shopper.com | Showtime | SmartPlanet | TechRepublic | The Insider | TV.com | UrbanBaby.com | ZDNet © 2012 Last.fm Ltd. All rights reserved. | Terms of Use, Privacy Policy and Cookie Policy | Updated July 4, 2012  
 
