@@ -1,32 +1,4 @@
-Contact Us | Login
-
-*   Home
-*   Our Company
-    *   About Us
-    *   Our Technology
-    *   Management Team
-    *   Featured Articles
-    *   Press Releases
-    *   Careers
-    *   Our Clients
-    *   About Our Site
-*   Motivating Consumers
-    *   Promotional Marketing
-    *   Personalized Marketing
-    *   Media
-    *   Solutions for Retailers
-*   Coupon Services
-    *   Family Codes
-    *   CustomerCare Solutions
-    *   Customer Support
-    *   Coupon Processing
-*   Partner with Us
-    *   Brandcaster™
-    *   Concordance®
-    *   Solutions for Retailers
-*   Contact Us
-
-Privacy Policy
+Contact Us | Login Privacy Policy
 
 This Privacy Policy is effective as of October 20, 2006.  
 This Privacy Policy was last modified on April 20, 2012.
@@ -217,4 +189,4 @@ Coupons.com Incorporated
 Mountain View, CA 94043  
 Attn: Privacy
 
-Contact Us  |  Login  |  Privacy Policy  |  Terms of Use  |  Coupons.com © 2012 Coupons.com Incorporated. All rights reserved.
+Contact Us  |  Login  |  Privacy Policy  |  Terms of Use  |  Coupons.com© 2012 Coupons.com Incorporated. All rights reserved.
