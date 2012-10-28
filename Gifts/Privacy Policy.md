@@ -1,4 +1,4 @@
-Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! Pin a gift from Gifts.com for a chance to WIN IT! We?ll choose a winner every week to win the gift, up to a $100 value. Learn More Vote for the Best Gifts of 2012 &. You Could Win $1000! Learn More
+Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! Pin a gift from Gifts.com for a chance to WIN IT! Well choose a winner every week to win the gift, up to a $100 value. Learn More Vote for the Best Gifts of 2012 &. You Could Win $1000! Learn More
 
 *   Christmas
     
@@ -414,4 +414,4 @@ No, the new provisions of this updated privacy policy will not apply to the pers
 **Can I see a copy of the prior privacy policy?**  
 Yes, please click here for a link to our previous privacy policy that applies to personal information collected before December 1, 2010.
 
-About Us Home Merchants About Us Contact Us Press Center Privacy Policy Terms of Service Advertise with Us Site Map Helpful Links Gift Ideas Popular Categories Top Ten Gift Lists Anniversary Gifts Wedding Gift Ideas Gift Guides &. Tips Gifts.com Blog New Gift Ideas More Partner Sites Expedia Floraflora Hotels Hotwire Online Shopping Pronto Shoebuy Ticketmaster Connect with Gifts.com Keep up to date with gifting news and trends. Newsletter Sign Up Find the perfect gifts for your friends &. family. SUBMIT Privacy Policy Gift ideas for anyone and every occasion. Gifts.com ? The easy way to find great gifts! ©2005-2012 Gifts.com. All rights reserved.
+About Us Home Merchants About Us Contact Us Press Center Privacy Policy Terms of Service Advertise with Us Site Map Helpful Links Gift Ideas Popular Categories Top Ten Gift Lists Anniversary Gifts Wedding Gift Ideas Gift Guides &. Tips Gifts.com Blog New Gift Ideas More Partner Sites Expedia Floraflora Hotels Hotwire Online Shopping Pronto Shoebuy Ticketmaster Connect with Gifts.com Keep up to date with gifting news and trends. Newsletter Sign Up Find the perfect gifts for your friends &. family. SUBMIT Privacy Policy Gift ideas for anyone and every occasion. Gifts.com — The easy way to find great gifts! ©2005-2012 Gifts.com. All rights reserved.
