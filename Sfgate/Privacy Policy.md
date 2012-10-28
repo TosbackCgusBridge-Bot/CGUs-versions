@@ -1,6 +1,6 @@
 (skip this header)
 
-Saturday Oct 27, 2012 5:05 AM PT
+Sunday Oct 28, 2012 6:11 AM PT
 
 ° (change)
 
@@ -60,12 +60,12 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
+*   Bird poops on anchor live
+*   Voting like losing virginity
 *   130 proof beer
-*   Newts mowed down in Berkeley
-*   Soup at Nopalito and Nojo
-*   S.F. a black and orange town
+*   Berkeley newts mowed down
 *   Series tickets
-*   Chron endorsements
+*   Chronicle endorses Obama
 
 *   Bay Area &. State
 *   Nation
@@ -339,6 +339,12 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Nation in Focus
+*   World in Focus
+*   Elizabeth Moran on Facade as Reality
+*   Game 3: Giants at Tigers
+*   This Week's Concerts - In Pictures 10.27.12
+*   Candidates eat
 *   "Frankenstorm' approaches East Coast
 *   Nation in Focus
 *   World in Focus
@@ -373,12 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   Panda belts 3 homers in Game 1 win
 *   Nation in Focus
 *   World in Focus
-*   Angel Ball Gala 2012
-*   Celebrity wardrobe malfunctions
-*   Oakland A's: The Forgotten Dynasty
-*   16th Annual Hollywood Film Awards Gala
-*   Seals Stadium
-*   Trends Third debate
 
 *   Most Read
 *   |
@@ -387,52 +387,54 @@ Ads by Yahoo! Photo Galleries
 *   Most Emailed
 
 1.  Bird poops on Fox World Series anchor live
-2.  SF Giants just go with the flow
+2.  Giants shut out Tigers, one win away
 3.  Incredible (and freaky!) pumpkin carvings
-4.  Please, let’s not judge Marina Krim
-5.  NY parents shaken as nanny accused of killing kids
-6.  He died penniless, but rich with friends
-7.  Brandon Crawford: living the dream
+4.  Spooked cow tramples Palestinian at Muslim feast
+5.  Low-drama Giants belie torture of 2010
+6.  Magnitude 7.7 quake strikes off western Canada
+7.  Ryan Vogelsong pitches SF Giants to brink of a World Series title
 
-1.  Supervisor wants rules for shuttle stops
-2.  In speech, Romney to promise revitalized economy
-3.  Chronicle recommends: Re-elect Obama
-4.  Bumgarner, Giants win duel in Game 2
-5.  Nanny suspected of killing 2 kids in NY home
-6.  Detroit Tigers fans - pessimism creeps in
-7.  In new Obama ad, Lena Dunham compares voting to losing her virginity
+1.  Giants shut out Tigers, one win away
+2.  SF mayor presses Mirkarimi on recusal
+3.  Undercover donors fuel Prop. 32 furor
+4.  AP poll: Majority harbor prejudice against blacks
+5.  Panicking cow kills Palestinian in Muslim feast
+6.  Trooper fired from chopper to stop truck, kills 2
+7.  Prop. 37 support slips in polls
 
 1.  Incredible (and freaky!) pumpkin carvings
-2.  Brandon Crawford: living the dream
-3.  NY parents shaken as nanny accused of killing kids
-4.  City College dismantles faculty leadership
-5.  'Big Picture: Rethinking Dyslexia' review
-6.  Bill Plaschke: Giants surpass Dodgers
-7.  Cancer group seeks laymen's help on cells
+2.  Chronicle recommends: Re-elect Obama
+3.  Bill Plaschke: Giants surpass Dodgers
+4.  Spooked cow tramples Palestinian at Muslim feast
+5.  Giants shut out Tigers, one win away
+6.  AP poll: Majority harbor prejudice against blacks
+7.  Tiburon women's tree damage award upheld
 
 loading... Latest News Videos From our homepage
 
 *     
-    Lance Iversen, The Chronicle / SF
+    Jill K. Robinson, Special To The Chronicle / SF
     
-    Giants just go with flow
+    A geothermal wonderland
     
-    Playoff run has been called 'magic,' but S.F. is staying humble.
+    New Zealand's steamy features are rivaled only by Yellowstone National Park and Iceland.
     
-*   Textbook baseball | Photos
-
-*   Knockout pumpkin carvings
-    
-    A sculptor puts his talents to creating amazing jack o' lanterns.
-    
-*   More crazy pumpkins
 
 *     
-    Dieu Nalio Chery / AP
+    . / HC
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 6:24 p.m., Friday, October 26, 2012 Bracing for 'Frankenstorm'
+    All-time best cars
     
-    Monster weather system, which has killed at least 20 in Caribbean, heads for East Coast.
+    From a 1990 Corvette to a 1932 Ford, here are our top 50.
+    
+*   And the 50 worst cars - ever
+
+*     
+    OpenHomesPhotography.com / SF
+    
+    Classical, modern blend
+    
+    Check out this unique custom 3 bedroom, 3.5 bath Cow Hollow home. Asking $4.449M.
     
 
 *   Home
