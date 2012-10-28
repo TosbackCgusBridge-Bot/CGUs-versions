@@ -1,4 +1,4 @@
-  Set as Homepage Sat, Oct 27, 2012   11 Heshvan, 5773  
+  Set as Homepage Thu, Oct 25, 2012   9 Heshvan, 5773  
 
 *   *   Breaking News
     *   Diplomacy &. Politics
@@ -65,7 +65,7 @@
 *   Diplomatic Club
 *   Green Israel
 
-                               Breaking News    
+                                 Breaking News    
 
 *   JPost.com
 *   Terms Of Service
@@ -88,11 +88,11 @@ We recommend that you read the full terms of service prior to posting any conten
 
   
 
-1.  1.**Scope of Services:** These Terms of Service are the biding agreement between The Jerusalem Post Ltd., a duly incorporate Israeli corporation, whose principal place of business is Jerusalem, Israel (âThe Jerusalem Postâ) and Yourself, an individual or a person acting on behalf of a corporation or organization which authorized you in order to enter into these terms of service (âYouâ). For the purpose of these Terms of Service, the term âServiceâ shall refer to any of the following services provided by The Jerusalem Post, as described in this clause, including any of their features.  
-    1.  1.1**News &. Updates:** The Jerusalem Post shall provide You with access to articles, news updates, opinion columns and other content, all through its website located at http://www.jpost.com (âWebsiteâ). Such content shall be provided either by The Jerusalem Post or by chosen affiliates and 3rd parties, where marked as such.
+1.  1.**Scope of Services:** These Terms of Service are the biding agreement between The Jerusalem Post Ltd., a duly incorporate Israeli corporation, whose principal place of business is Jerusalem, Israel (“The Jerusalem Post”) and Yourself, an individual or a person acting on behalf of a corporation or organization which authorized you in order to enter into these terms of service (“You”). For the purpose of these Terms of Service, the term “Service” shall refer to any of the following services provided by The Jerusalem Post, as described in this clause, including any of their features.  
+    1.  1.1**News &. Updates:** The Jerusalem Post shall provide You with access to articles, news updates, opinion columns and other content, all through its website located at http://www.jpost.com (“Website”). Such content shall be provided either by The Jerusalem Post or by chosen affiliates and 3rd parties, where marked as such.
     2.  1.2**Blogs and Commentary:** The Jerusalem Post shall provide You with access to blog posts, videos and other media made by selected 3rd parties. such content is brought at the sole responsibility and liability of such 3rd Parties.
     3.  1.3**User Submissions, Including Comments:** The Jerusalem Post shall provide You with an option to contribute and post Your commentary in regards to News, Updates, Blogs or other users contributions or commentaries.
-    4.  1.4**Premium Content:** The Jerusalem Post shall provide You with additional content, commentary and information, all defined as âPremium Contentâ including online editions of the daily "Jerusalem Post" electronic paper, and a selection of exclusive articles from "The Jerusalem Report," The Jerusalem Post's youth magazine "Dash," The Jerusalem Post's "Christian Edition," an easy-Hebrew magazine "Ivrit,", The Jerusalem Post's weekend magazines and more. Such access shall be made against payments and fees, as as described in these Terms of Service
+    4.  1.4**Premium Content:** The Jerusalem Post shall provide You with additional content, commentary and information, all defined as “Premium Content” including online editions of the daily "Jerusalem Post" electronic paper, and a selection of exclusive articles from "The Jerusalem Report," The Jerusalem Post's youth magazine "Dash," The Jerusalem Post's "Christian Edition," an easy-Hebrew magazine "Ivrit,", The Jerusalem Post's weekend magazines and more. Such access shall be made against payments and fees, as as described in these Terms of Service
     5.  1.5**Newsletter:** The Jerusalem Post shall provide You with an option to receive timely updates through Electronic mail, including promotional offers and other relevant information.
         1.  1.5.1**Registration:** In order to register to the Newsletter, You will be required to enter some relevant information, so that The Jerusalem Post may provide You with better services and promotional activity.
         2.  1.5.2**Authentication:** Following the Registration process, an email will be sent to Your email box to confirm and authenticate that You requested to register to the Newsletter.
@@ -167,7 +167,7 @@ We recommend that you read the full terms of service prior to posting any conten
         2.  6.1.2**News Ticker:** You are hereby granted a limited, non-exclusive, limited, temporary, non-assignable, non-transferable, restricted and revocable license to use, publish and display the information provided by the Jerusalem Post's News Ticker, as long as no derivative work of the text, images or videos in the feed are changed or modified and as long as both The Jerusalem Post and the original author of the text are attributed properly
         3.  6.1.3**Newsletter:**You are hereby granted a limited, non-exclusive, limited, temporary, non-assignable, non-transferable, restricted and revocable license to use, publish and display the information provided by the Jerusalem Post's Newsletter, as long as no derivative work of the text, images or videos in the feed are changed or modified and as long as both The Jerusalem Post and the original author of the text are attributed properly.
 7.  7.**Warranty and Liability:**
-    1.  7.1**No Warranty:** The Jerusalem Post does not warrant for Service and supplies it on an âas-isâ and âas-availableâ basis. Your Use of Service is at your own risk and under your liability. The Jerusalem Post makes no warranty that (i) the Service will meet your requirements and (ii) the Service will be uninterrupted, timely, secure, or error-free and (iii) the results that may be obtained from the Use of the Service will be accurate or reliable and (iv) the quality of any products, services, information, or other material purchased or obtained by You through Service will meet your expectations, or (v) any errors in the Service will be corrected.
+    1.  7.1**No Warranty:** The Jerusalem Post does not warrant for Service and supplies it on an “as-is” and “as-available” basis. Your Use of Service is at your own risk and under your liability. The Jerusalem Post makes no warranty that (i) the Service will meet your requirements and (ii) the Service will be uninterrupted, timely, secure, or error-free and (iii) the results that may be obtained from the Use of the Service will be accurate or reliable and (iv) the quality of any products, services, information, or other material purchased or obtained by You through Service will meet your expectations, or (v) any errors in the Service will be corrected.
     2.  7.2**No Liability:** For no case and for no reason shall The Jerusalem Post be held liable for any damage, direct or indirect, consequential, exemplary, physical or special, to You, any User or any 3rd party due to its misperformance of duties herein. The Jerusalem Post provides Service on an AS-IS basis and shall not be held liable, to the extent permitted by law, by any case of misconduct, negligence, gross negligence, malice or any other mean, to any damages or loss of property, including damages to: virtual property, reputation and business reputation, User Account information including login information, loss of profit, loss of good name, all resulting from the use or inability to use Services rendered by The Jerusalem Post.
 8.  8.**Amendments:** The Jerusalem Post may amend, from time to time, these Terms of Service and may, or may not, notify you as these amendments are made. Should you decide that any amendment in these Terms of Service does not constitute as your understanding with The Jerusalem Post, you may, at your own will, terminate these Terms of Service and terminate your User Account. All Contributions you created shall remain stored on Service and shall be used according to The Jerusalem Post' Policies and amended terms of service. In no case will these Terms of Service have any retroactive change nor would they apply on Your conduct without your consent, therefore you undertake to examine, from time to time, any amendments in these Terms of Service.  
     
@@ -197,7 +197,7 @@ English language weekly magazine - especially for religious people   JReport Ki
 Now you can get the Jerusalem Report directly to your Kindle   JPost Premium Edition  
 The very best articles are available only in our Premium edition     Real Estate Jerusalem's leading projects  
 are now in New York Come and meet us to find out more!   Israel Real Estate Exhibition  
-New York, October 27 â 28. Free Entrance   Real Estate Special Magazine  
+New York, October 27 – 28. Free Entrance   Real Estate Special Magazine  
   Prosperity real estate  
 Finding your home in Jerusalem is Prosperity's business   Gorman Real Estate  
 Sales, rentals and property management of luxury Tel Aviv apartments.   Don't Look For a House!  
