@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Election 2012
+*   Iran
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -44,10 +44,10 @@ October 28, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   American Cities Going Broke812
-    *   And The Most Beloved Country Is...358
-    *   Oil Company Exec Killed In Restaurant Shooting938
-    *   The Richest Members of Congress338
+    *   American Cities Going Broke814
+    *   And The Most Beloved Country Is...365
+    *   Oil Company Exec Killed In Restaurant Shooting942
+    *   The Richest Members of Congress340
     *   Fiscal Conservative?1k
     
     Go to Business **More in Business**
@@ -65,9 +65,9 @@ October 28, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   Were These Critics Too Tough?94
-    *   Christina Aguilera Wants To Play A 'Crackhead' 78
-    *   Taylor Swift's Breakup Tour82
+    *   Christina Aguilera Wants To Play A 'Crackhead' 80
+    *   Were These Critics Too Tough?95
+    *   Taylor Swift's Breakup Tour84
     *   The NEXT James Bond Moves Forward66
     *   Meat Loaf Endorses Romney7k
     
@@ -86,8 +86,8 @@ October 28, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   Don't Even THINK About Jailbreaking That Tablet431
-    *   Facebook Is Booming -- Just Not In Russia134
+    *   Don't Even THINK About Jailbreaking That Tablet444
+    *   Facebook Is Booming -- Just Not In Russia135
     *   The 9 Most Popular Viral Videos Of The Week
     *   How To 'Follow' Hurricane #Sandy
     *   Google Event CANCELLED
@@ -108,7 +108,7 @@ October 28, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   Media Rushes To 'Frankenstorm'483
+    *   Media Rushes To 'Frankenstorm'494
     *   Ann Coulter Defends 'Retard' Tweet13k
     *   WATCH: Melissa Harris-Perry Delivers Powerful Open Letter About Rape2k
     *   CNN Bans 'Frankenstorm'761
@@ -129,11 +129,11 @@ October 28, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
+    *   Earthquake Hits Canada. Tsunami Warning For Hawaii844
     *   Most Insane Photos Of The Week
-    *   1 In 4 In Spain Out Of Work770
-    *   Amazing Photos Capture Afghanistan In Transition91
-    *   France Makes Abortions Free For All5k
-    *   Al Qaeda Urges Muslims To Kidnap Westerners471
+    *   Pop Star Arrested In Connection With BBC Sex Abuse Scandal79
+    *   Amazing Photos Capture Afghanistan In Transition92
+    *   1 In 4 In Spain Out Of Work772
     
     Go to World **More in World**
     
@@ -154,8 +154,8 @@ October 28, 2012 Edition: **U.S.**
     *   Famous Couples Who Help Each Other Stay Healthy And Fit31
     *   Did Celiac Disease Cost Jennifer Esposito Her Job?23
     *   10-Minute Stress-Busters For Better Sleep36
-    *   Why You Shouldn't Skip _This_21
     *   5 Sneaky Halloween Health Hazards
+    *   Why You Shouldn't Skip _This_21
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -173,8 +173,8 @@ October 28, 2012 Edition: **U.S.**
 *   Style
     
     *   PHOTOS: Lucky Magazine Apologizes For Poorly-Received Britney Spears Cover112
-    *   PHOTOS: See This Week's Near Wardrobe Malfunctions! 132
-    *   PHOTO: Miley Cyrus Steps Out In Crop Top &. Thigh High Boots349
+    *   PHOTOS: See This Week's Near Wardrobe Malfunctions! 138
+    *   PHOTO: Miley Cyrus Steps Out In Crop Top &. Thigh High Boots350
     *   In Honor Of Her 65th Birthday, Here Are 65 Amazing Hillary Clinton Outfits377
     *   Mary-Kate Olsen On Her Relationship With Olivier Sarkozy: 'Everyone Has An Opinion'505
     
@@ -196,9 +196,9 @@ October 28, 2012 Edition: **U.S.**
     
     *   'When You Elect Mitt You're Electing Every Right Wing Nut He's Pandered To In The Last 10 Years'6k
     *   FINALLY!15
+    *   Movie Poster Juxtaposition FAIL67
     *   The Funniest Halloween Someecards
     *   PHOTOS: Hey, How'd He Get That?84
-    *   Movie Poster Juxtaposition FAIL66
     
     Go to Comedy **More in Comedy**
     
