@@ -54,7 +54,7 @@ _Check-in and sharing_
 We store your Meebo check-in activity, including the sites you check in to, your VIP status, and the people you follow and who follow you. We also retain information about the web pages, photos, files, or other data that you share through the sharing functionality of Meebo. This information is associated with your Meebo account.
 
 _Your communications_  
-Meebo offers users various communication tools, including instant messaging and Meebo Rooms. For more information about Meeboâs collection and storage of your communications see "Meebo's communications platforms."
+Meebo offers users various communication tools, including instant messaging and Meebo Rooms. For more information about Meebo’s collection and storage of your communications see "Meebo's communications platforms."
 
 _Email address of friends you invite_  
 If you use the Meebo feature that allows you to invite friends to use Meebo, we will ask for your friend's email address but we will only use it to send them the invitation.
@@ -68,7 +68,7 @@ Many features of Meebo, such as Meebo profiles and check-ins, are designed to be
 *   Your profile and check-in activity. Your Meebo public profile and all of the information on it, including your picture, your check-in activity and the people you follow and who follow you on Meebo, are all public. Click here for more information on the privacy settings for Meebo public profiles and check-ins.  
       
     
-    Your username will also be part of your public profile URL (your Meebo profile web address) and will also be displayed to users you follow. Because of the way the Internet works, when you or other users click on a link from your public profile page, the website that you go to or the advertisements that you click on will also receive the URL that you are coming from, which includes your user name (known as the âreferrer URLâ).
+    Your username will also be part of your public profile URL (your Meebo profile web address) and will also be displayed to users you follow. Because of the way the Internet works, when you or other users click on a link from your public profile page, the website that you go to or the advertisements that you click on will also receive the URL that you are coming from, which includes your user name (known as the “referrer URL”).
     
 *   Your activity in Meebo Rooms or on Meebo message boards. Your communications in Meebo Rooms are logged and can be seen by anyone the user who created the Meebo Room has allowed to access the Meebo Room, which may be everyone. Your postings on Meebo message boards are public.
 
@@ -101,7 +101,7 @@ Like most websites and web applications, Meebo uses cookies. A cookie is a small
 
 We use these cookies to provide you with a better Meebo experience, such as by recognizing you when you come to Meebo or to a site where Meebo features such as the Meebo Bar are present, by remembering if you are already signed-in and by remembering information about you, like your preferences. We also use cookies to generate aggregate and anonymous data so that we can better understand and analyze how users use Meebo.
 
-Meebo also allows third parties to place cookies on your browser in order to help us with our analytics, to deliver and report on advertising that runs on Meebo and to measure whether youâve seen or interacted with an ad on Meebo or other sites. Meebo does not allow these third parties to collect any personally identifiable information about you through their cookies on Meebo.
+Meebo also allows third parties to place cookies on your browser in order to help us with our analytics, to deliver and report on advertising that runs on Meebo and to measure whether you’ve seen or interacted with an ad on Meebo or other sites. Meebo does not allow these third parties to collect any personally identifiable information about you through their cookies on Meebo.
 
 Sometimes the cookies that we and our third-party advertising partners set are used to provide customized advertising to you on Meebo and on the other websites that you visit. You can learn more about customized advertising on Meebo or opt out here.
 
@@ -113,7 +113,7 @@ Meebo uses cookies to block users that indicate that they are under the age of 1
 
 Meebo allows third parties who have entered into an agreement with us to make their applications available through Meebo. Meebo may provide these third-parties with information that is part of your public profile, as described under "What is public and what is private" Meebo requires that these third parties only use this information to provide their applications to you and that they not disclose it to any third party without your consent.
 
-In addition, some of the applications may collect personally identifiable information from you directly. In that case, any information that you provide through the application will be governed by the application ownerâs privacy policy, which you should review. Each application owner will be solely responsible for complying with its privacy policy.
+In addition, some of the applications may collect personally identifiable information from you directly. In that case, any information that you provide through the application will be governed by the application owner’s privacy policy, which you should review. Each application owner will be solely responsible for complying with its privacy policy.
 
 **Information usage and sharing**
 
@@ -131,7 +131,7 @@ Meebo uses the information it collects:
 *   To conduct research.
 *   To determine your geographic location or other demographic information about you;
 *   To create reports and to analyze usage patterns. and
-*   To contact you as described under âEmails and other notifications.â
+*   To contact you as described under “Emails and other notifications.”
 
 _Sharing of information._
 
@@ -139,17 +139,17 @@ Meebo may share your non-public personally identifiable information with third p
 
 *   We may need to share your log-in information with the third-party IM services and networks where you have an account that you have chosen to access through Meebo in order to permit you to log onto and use that service;
 *   With trusted third-party service providers who help us in the operation of Meebo and who have agreed to maintain the confidentiality of the data;
-*   To the third-party applications available through Meebo, as described under âMeebo Platform;â
+*   To the third-party applications available through Meebo, as described under “Meebo Platform;”
 *   When we have your consent;
 *   In cases of abusive behavior or suspected violations of the terms of use of Meebo or of any third-party service accessed through or in association with Meebo, we may share personal information, including IP address, with that third party in order to investigate the violation and to take appropriate action;
 *   Where we have a good faith belief that it is required in order to respond to subpoenas, court orders, or other legal process, to prevent fraud or imminent harm, or to establish or exercise our legal rights or defend against legal claims.
 *   In the event that Meebo is acquired by or merged with another company or transfers substantially all of its assets to another company, Meebo will transfer all of its user information and data, including information about you, to that other company.
 
-Meebo may share your public information or any anonymous information for any of the purposes described under âUsage of information.â
+Meebo may share your public information or any anonymous information for any of the purposes described under “Usage of information.”
 
 **Emails and other notifications**
 
-Meebo will send you emails about your check-in and profile activity, such as when someone follows you or when you lose VIP status. You can adjust these account settings by logging into your Meebo account and clicking on âSettings.â
+Meebo will send you emails about your check-in and profile activity, such as when someone follows you or when you lose VIP status. You can adjust these account settings by logging into your Meebo account and clicking on “Settings.”
 
 Meebo reserves the right to send you communications relating to your account and the Meebo services. You can elect not to receive certain marketing messages from Meebo by email, but you cannot elect not to receive administrative messages relating to your account or legal matters. You consent to receiving all legally-required notifications from Meebo through display on Meebo, through the email associated with your Meebo account or the email associated with any of your third-party IM services or social networks through which you connect to Meebo (such as Facebook).
 
@@ -177,7 +177,7 @@ Any changes to this policy will be posted at this URL (http://www.meebo.com/priv
 
 You can edit certain personal information that you have provided or request that your account be deleted by logging into your Meebo account and accessing your account settings. Information that was already publicly shared, such as your check-ins, comments or pages that you shared, and messages that you previously sent will still be visible in the various places that information is displayed.
 
-Deleting your Meebo account does not currently automatically remove your personally identifiable information from the Meebo servers. However, if you delete your account, we will use your personally identifiable information only to investigate abuse and comply with legal requests as described under âInformation usage and sharing.â If you would like to have your personally identifiable information deleted, please contact us as provided under âComments and Questions.â
+Deleting your Meebo account does not currently automatically remove your personally identifiable information from the Meebo servers. However, if you delete your account, we will use your personally identifiable information only to investigate abuse and comply with legal requests as described under “Information usage and sharing.” If you would like to have your personally identifiable information deleted, please contact us as provided under “Comments and Questions.”
 
 **Children**
 
