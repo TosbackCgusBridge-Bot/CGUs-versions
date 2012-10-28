@@ -236,9 +236,9 @@ Top-50 Themen Thema Anzahl Apple 84022 Arbeit 64641 Ausbildung 50044 Auto 90804 
     Schneeflocke1
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.353.611 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.353.752 gute Fragen_
 
-*   44 Ist man denn gar nichts wert, wenn man wenig Geld hat?
+*   46 Ist man denn gar nichts wert, wenn man wenig Geld hat?
 *   25 Zu rege Fantasie. Was kann man machen?
 *   24 Sollte man jeden Wunsch eines Verstorbenen nachkommen?
 
