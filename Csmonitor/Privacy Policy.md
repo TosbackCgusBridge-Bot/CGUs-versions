@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Hurricane Sandy liveblog: Which way is Sandy headed? The latest 'Frankenstorm' track (+video)
-2.  Hurricane Sandy: what to expect from North Carolina to Massachusetts to Ohio
-3.  Lena Dunham's sexy Obama ad: Youthfully alluring or bad taste?
-4.  Mitt Romney's big economics speech: Can he deliver 'big change?'
-5.  Hurricane Sandy's punch may be felt from Norfolk, Va., to Boston
+1.  Benghazi attack: Urgent call for military help ‘was denied by chain of command’
+2.  Hurricane Sandy liveblog: What to expect Saturday night and Sunday (+video)
+3.  Magnitude 7.7 earthquake rattles West coast of Canada
+4.  Hurricane Sandy liveblog: New York area prepares for Hurricane Sandy
+5.  Hurricane Sandy liveblog: Which way is Sandy headed? The latest 'Frankenstorm' track (+video)
 
 About these ads
 
@@ -121,7 +121,7 @@ Editors' Picks:
 *   Wanted in Brazil: more English speakers
 *   Global News Blog: The Eid holiday: What does it celebrate?
 
-_Photos of the day_ 10.26.12 » Photos of the Day 10/26
+_Photos of the day_ 10.27.12 » Photos of the Weekend 10/28
 
 **CSMonitor.com** on Facebook
 
