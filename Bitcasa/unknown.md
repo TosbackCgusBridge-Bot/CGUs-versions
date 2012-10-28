@@ -10,19 +10,19 @@
 
 Signup Portal Legal Terms of Service Privacy Policy DMCA Policy Pricing/Refunds Security Acceptable Use Terms of Service
 
-Thank you for using Bitcasa! These Terms of Service (the âTermsâ) govern your access to and use of Bitcasa (âweâ or âourâ) websites and services (the âServicesâ), so please carefully read them before using the Services. By using the Services you agree to be bound by these Terms. If you are using the Services on behalf of an organization, you are agreeing to these Terms for that organization and promising that you have the authority to bind that organization to these terms. In that case, âyouâ and âyourâ will refer to that organization.
+Thank you for using Bitcasa! These Terms of Service (the “Terms”) govern your access to and use of Bitcasa (“we” or “our”) websites and services (the “Services”), so please carefully read them before using the Services. By using the Services you agree to be bound by these Terms. If you are using the Services on behalf of an organization, you are agreeing to these Terms for that organization and promising that you have the authority to bind that organization to these terms. In that case, “you” and “your” will refer to that organization.
 
 You may use the Services only in compliance with these Terms. You may use the Services only if you have the power to form a contract with Bitcasa and are not barred under any applicable laws from doing so. The Services may continue to change over time as we refine and add more features. We may stop, suspend, or modify the Services at any time without prior notice to you. We may also remove any content from our Services at our discretion.
 
 Your Stuff &. Your Privacy
 
-By using our Services you provide us with information, files, and folders that you submit to Bitcasa (together, âyour stuffâ). You retain full ownership to your stuff. We donât claim any ownership to any of it. These Terms do not grant us any rights to your stuff or intellectual property except for the limited rights that are needed to run the Services, as explained below.
+By using our Services you provide us with information, files, and folders that you submit to Bitcasa (together, “your stuff”). You retain full ownership to your stuff. We don’t claim any ownership to any of it. These Terms do not grant us any rights to your stuff or intellectual property except for the limited rights that are needed to run the Services, as explained below.
 
 We may need your permission to do things you ask us to do with your stuff, for example, hosting your data, or =sharing it at your direction. This includes product features visible to you, for example, image thumbnails or document previews. It also includes design choices we make to technically administer our Services, for example, how we redundantly backup data to keep it safe. You give us the permissions we need to do those things solely to provide the Services. This permission also extends to trusted third parties we work with to provide the Services, for example Amazon, which provides our storage space (again, only to provide the Services).
 
-To be clear, aside from the rare exceptions we identify in our Privacy Policy, no matter how the Services change, we wonât share your content with others, including law enforcement, for any purpose unless you direct us to. How we collect and use your information generally is also explained in our Privacy Policy.
+To be clear, aside from the rare exceptions we identify in our Privacy Policy, no matter how the Services change, we won’t share your content with others, including law enforcement, for any purpose unless you direct us to. How we collect and use your information generally is also explained in our Privacy Policy.
 
-You are solely responsible for your conduct, the content of your files and folders, and your communications with others while using the Services. For example, itâs your responsibility to ensure that you have the rights or permission needed to comply with these Terms.
+You are solely responsible for your conduct, the content of your files and folders, and your communications with others while using the Services. For example, it’s your responsibility to ensure that you have the rights or permission needed to comply with these Terms.
 
 We may choose to review public content for compliance with our community guidelines, but you acknowledge that Bitcasa has no obligation to monitor any information on the Services. We are not responsible for the accuracy, completeness, appropriateness, or legality of files, user posts, or any other information you may be able to access using the Services.
 
@@ -44,7 +44,7 @@ You are responsible for safeguarding the password that you use to access the Ser
 
 Software and Updates
 
-Some use of our Service requires you to download a client software package (âSoftwareâ). Bitcasa hereby grants you a limited, nonexclusive, nontransferable, revocable license to use the Software, solely to access the Services. Your license to use the Software is automatically revoked if you violate these Terms in a manner that implicates our intellectual property rights. We hereby reserve all rights not expressly granted in these Terms. You must not reverse engineer or decompile the Software, nor attempt to do so, nor assist anyone else to do so. Our Services may update the Software on your device automatically when a new version is available.
+Some use of our Service requires you to download a client software package (“Software”). Bitcasa hereby grants you a limited, nonexclusive, nontransferable, revocable license to use the Software, solely to access the Services. Your license to use the Software is automatically revoked if you violate these Terms in a manner that implicates our intellectual property rights. We hereby reserve all rights not expressly granted in these Terms. You must not reverse engineer or decompile the Software, nor attempt to do so, nor assist anyone else to do so. Our Services may update the Software on your device automatically when a new version is available.
 
 Bitcasa Property and Feedback
 
@@ -56,7 +56,7 @@ You will not, and will not attempt to, misuse the Services, and will use the Ser
 
 Copyright
 
-Bitcasa respects othersâ intellectual property and asks that you do too. We will respond to notices of alleged copyright infringement if they comply with the law and are properly provided to us. Such notices should be reported using our DMCA Process. We reserve the right to delete or disable content alleged to be infringing and to terminate repeat infringers. Our designated agent for notice of alleged copyright infringement on the Services is:
+Bitcasa respects others’ intellectual property and asks that you do too. We will respond to notices of alleged copyright infringement if they comply with the law and are properly provided to us. Such notices should be reported using our DMCA Process. We reserve the right to delete or disable content alleged to be infringing and to terminate repeat infringers. Our designated agent for notice of alleged copyright infringement on the Services is:
 
 Copyright Agent  
 Bitcasa, Inc.  
@@ -70,11 +70,11 @@ The Services may contain links to third-party websites or resources. Bitcasa doe
 
 Termination
 
-Though weâd much rather you stay, you can stop using our Services any time. We reserve the right to suspend or end the Services at any time, with or without cause, and with or without notice. For example, we may suspend or terminate your use if you are not complying with these Terms, or use the Services in any way that would cause us legal liability or disrupt othersâ use of the Services. If we suspend or terminate your use, we will try to let you know in advance and help you retrieve data, though there may be some cases (for example, repeatedly or flagrantly violating these Terms, a court order, or danger to other users) where we may suspend immediately.
+Though we’d much rather you stay, you can stop using our Services any time. We reserve the right to suspend or end the Services at any time, with or without cause, and with or without notice. For example, we may suspend or terminate your use if you are not complying with these Terms, or use the Services in any way that would cause us legal liability or disrupt others’ use of the Services. If we suspend or terminate your use, we will try to let you know in advance and help you retrieve data, though there may be some cases (for example, repeatedly or flagrantly violating these Terms, a court order, or danger to other users) where we may suspend immediately.
 
-Bitcasa is Available âAS-ISâ
+Bitcasa is Available “AS-IS”
 
-Though we want to provide a great service, there are certain things about the service we canât promise. The services and software are provided âas isâ, at your own risk, without express or implied warranty or condition of any kind. We also disclaim any warranties of merchantability, fitness for a particular purpose or non-infringement.
+Though we want to provide a great service, there are certain things about the service we can’t promise. The services and software are provided “as is”, at your own risk, without express or implied warranty or condition of any kind. We also disclaim any warranties of merchantability, fitness for a particular purpose or non-infringement.
 
 Bitcasa will have no responsibility for any harm to your computer system, loss or corruption of data, or other harm that results from your access to or use of the Services or Software. Some states do not allow the types of disclaimers in this paragraph, so they may not apply to you.
 
@@ -88,37 +88,37 @@ We may revise these Terms from time to time and the most current version will al
 
 Miscellaneous Legal Terms
 
-These Terms and the use of the services and software will be governed by California law except for its conflicts of laws principles. All claims arising out of or relating to these Terms or the Services or software must be litigated exclusively in the federal or state courts of Santa Clara county, California, and both parties consent to venue and personal jurisdiction there. These Terms constitute the entire and exclusive agreement between you and Bitcasa with respect to the Services, and supersede and replace any other agreements, terms and conditions applicable to the Services. These Terms create no third party beneficiary rights. Bitcasaâs failure to enforce a provision is not a waiver of its right to do so later. If a provision is found unenforceable the remaining provisions of the Agreement will remain in full effect and an enforceable term will be substituted reflecting our intent as closely as possible. You may not assign any of your rights in these Terms, and any such attempt is void, but Bitcasa may assign its rights to any of its affiliates or subsidiaries, or to any successor in interest of any business associated with the Services. Bitcasa and you are not legal partners or agents. instead, our relationship is that of independent contractors.
+These Terms and the use of the services and software will be governed by California law except for its conflicts of laws principles. All claims arising out of or relating to these Terms or the Services or software must be litigated exclusively in the federal or state courts of Santa Clara county, California, and both parties consent to venue and personal jurisdiction there. These Terms constitute the entire and exclusive agreement between you and Bitcasa with respect to the Services, and supersede and replace any other agreements, terms and conditions applicable to the Services. These Terms create no third party beneficiary rights. Bitcasa’s failure to enforce a provision is not a waiver of its right to do so later. If a provision is found unenforceable the remaining provisions of the Agreement will remain in full effect and an enforceable term will be substituted reflecting our intent as closely as possible. You may not assign any of your rights in these Terms, and any such attempt is void, but Bitcasa may assign its rights to any of its affiliates or subsidiaries, or to any successor in interest of any business associated with the Services. Bitcasa and you are not legal partners or agents. instead, our relationship is that of independent contractors.
 
 Privacy Policy
 
-This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. Users can access the Bitcasa service (the âServiceâ) through our website www.bitcasa.com, applications on Devices, through APIs, and through third-parties. A âDeviceâ is any computer used to access the Bitcasa Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access of the Bitcasa Service, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as âinformation.â
+This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. Users can access the Bitcasa service (the “Service”) through our website www.bitcasa.com, applications on Devices, through APIs, and through third-parties. A “Device” is any computer used to access the Bitcasa Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access of the Bitcasa Service, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as “information.”
 
 1\. The Information We Collect And Store
 
 We may collect and store the following information when running the Bitcasa Service:
 
-Information You Provide. When you register an account, we collect some personal information, such as your name, phone number, credit card or other billing information, email address and home and business postal addresses. You may also ask us to import your contacts by giving us access to your third party services (for example, your email account) or to use your social networking information if you give us access to your account on social network connection services. When you invite others to join Bitcasa by using our referral page, we send them a one-time email for that referral. You may also provide us with your contactsâ email addresses when sharing folders or files with them. We may also receive Personal Information (for example, your email address) through other users, for example if they have tried to share something with you or tried to refer Bitcasa to you.
+Information You Provide. When you register an account, we collect some personal information, such as your name, phone number, credit card or other billing information, email address and home and business postal addresses. You may also ask us to import your contacts by giving us access to your third party services (for example, your email account) or to use your social networking information if you give us access to your account on social network connection services. When you invite others to join Bitcasa by using our referral page, we send them a one-time email for that referral. You may also provide us with your contacts’ email addresses when sharing folders or files with them. We may also receive Personal Information (for example, your email address) through other users, for example if they have tried to share something with you or tried to refer Bitcasa to you.
 
-Files. We collect and store the files you upload, download, or access with the Bitcasa Service (âFilesâ). If you add a file to your Bitcasa that has been previously uploaded by you or another user, we may associate all or a portion of the previous file with your account rather than storing a duplicate.
+Files. We collect and store the files you upload, download, or access with the Bitcasa Service (“Files”). If you add a file to your Bitcasa that has been previously uploaded by you or another user, we may associate all or a portion of the previous file with your account rather than storing a duplicate.
 
-Log Data. When you use the Service, we automatically record information from your Device, its software, and your activity using the Services. This may include the Deviceâs Internet Protocol (âIPâ) address, browser type, the web page visited before you came to our website, information you search for on our website, locale preferences, identification numbers associated with your Devices, your mobile carrier, date and time stamps associated with transactions, system configuration information, metadata concerning your Files, and other interactions with the Service.
+Log Data. When you use the Service, we automatically record information from your Device, its software, and your activity using the Services. This may include the Device’s Internet Protocol (“IP”) address, browser type, the web page visited before you came to our website, information you search for on our website, locale preferences, identification numbers associated with your Devices, your mobile carrier, date and time stamps associated with transactions, system configuration information, metadata concerning your Files, and other interactions with the Service.
 
-Cookies. We also use âcookiesâ to collect information and improve our Services. A cookie is a small data file that we transfer to your Device. We may use âpersistent cookiesâ to save your registration ID and login password for future logins to the Service. We may use âsession ID cookiesâ to enable certain features of the Service, to better understand how you interact with the Service and to monitor aggregate usage and web traffic routing on the Service. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of the Service.
+Cookies. We also use “cookies” to collect information and improve our Services. A cookie is a small data file that we transfer to your Device. We may use “persistent cookies” to save your registration ID and login password for future logins to the Service. We may use “session ID cookies” to enable certain features of the Service, to better understand how you interact with the Service and to monitor aggregate usage and web traffic routing on the Service. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of the Service.
 
 2\. How We Use Personal Information
 
-Personal Information. In the course of using the Service, we may collect personal information that can be used to contact or identify you (âPersonal Informationâ). Personal Information is or may be used: (i) to provide and improve our Service, (ii) to administer your use of the Service, (iii) to better understand your needs and interests, (iv) to personalize and improve your experience, and (v) to provide or offer software updates and product announcements. If you no longer wish to receive communications from us, please follow the âunsubscribeâ instructions provided in any of those communications, or update your account settings information.
+Personal Information. In the course of using the Service, we may collect personal information that can be used to contact or identify you (“Personal Information”). Personal Information is or may be used: (i) to provide and improve our Service, (ii) to administer your use of the Service, (iii) to better understand your needs and interests, (iv) to personalize and improve your experience, and (v) to provide or offer software updates and product announcements. If you no longer wish to receive communications from us, please follow the “unsubscribe” instructions provided in any of those communications, or update your account settings information.
 
-Geo-Location Information. Some Devices allow applications to access real-time location-based information (for example, GPS). Our mobile apps do not collect such information from your mobile device at any time while you download or use our mobile apps as of the date this policy went into effect, but may do so in the future with your consent to improve our Services. Some photos and videos you place in Bitcasa may contain recorded location information. We may use this information to optimize your experience. If you do not wish to share files embedded with your geo-location information with us, please do not upload them. If you donât want to store location data in your photos or videos, please consult the documentation for your camera to turn off that feature. Also, some of the information we collect from a Device, for example IP address, can sometimes be used to approximate a Deviceâs location.
+Geo-Location Information. Some Devices allow applications to access real-time location-based information (for example, GPS). Our mobile apps do not collect such information from your mobile device at any time while you download or use our mobile apps as of the date this policy went into effect, but may do so in the future with your consent to improve our Services. Some photos and videos you place in Bitcasa may contain recorded location information. We may use this information to optimize your experience. If you do not wish to share files embedded with your geo-location information with us, please do not upload them. If you don’t want to store location data in your photos or videos, please consult the documentation for your camera to turn off that feature. Also, some of the information we collect from a Device, for example IP address, can sometimes be used to approximate a Device’s location.
 
-Analytics. We also collect some information (ourselves or using third party services) using logging and cookies, such as IP address, which can sometimes be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of the Service, for the Serviceâs technical administration, to increase our Serviceâs functionality and user-friendliness, and to verify users have the authorization needed for the Service to process their requests. As of the date this policy went into effect, we use Google Analytics. To learn more about the privacy policy of Google Analytics, click here, and to learn how to opt out of that service click here.
+Analytics. We also collect some information (ourselves or using third party services) using logging and cookies, such as IP address, which can sometimes be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of the Service, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for the Service to process their requests. As of the date this policy went into effect, we use Google Analytics. To learn more about the privacy policy of Google Analytics, click here, and to learn how to opt out of that service click here.
 
 3\. Information Sharing and Disclosure
 
 Your Use. We will display your Personal Information in your profile page and elsewhere on the Service according to the preferences you set in your account. Any information you choose to provide should reflect how much you want others to know about you. Please consider carefully what information you disclose in your profile page and your desired level of anonymity. You can review and revise your profile information at any time. We do not sell your personal information to third parties. We may also share or disclose your information with your consent, for example if you use a third party application to access your account (see below). Through certain features of the Service, you may also have the ability to make some of your information public. Public information may be broadly and quickly disseminated.
 
-Service Providers, Business Partners and Others. We may use certain trusted third party companies and individuals to help us provide, analyze, and improve the Service (including but not limited to data storage, maintenance services, database management, web analytics, payment processing, and improvement of the Serviceâs features). These third parties may have access to your information only for purposes of performing these tasks on our behalf and under obligations similar to those in this Privacy Policy. As of the date this policy went into effect, we use Amazonâs S3 storage service to store some of your information (for example, your Files). You can find more information on Amazon's data security from the S3 site.
+Service Providers, Business Partners and Others. We may use certain trusted third party companies and individuals to help us provide, analyze, and improve the Service (including but not limited to data storage, maintenance services, database management, web analytics, payment processing, and improvement of the Service’s features). These third parties may have access to your information only for purposes of performing these tasks on our behalf and under obligations similar to those in this Privacy Policy. As of the date this policy went into effect, we use Amazon’s S3 storage service to store some of your information (for example, your Files). You can find more information on Amazon's data security from the S3 site.
 
 Third-Party Applications. We may share your information with a third party application with your consent, for example when you choose to access our Services through such an application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you.
 
@@ -128,7 +128,7 @@ Non-private or Non-Personal Information. We may disclose your non-private, aggre
 
 4\. Changing or Deleting Your Information
 
-If you are a registered user, you may review, update, correct or delete the Personal Information provided in your registration or account profile by changing your âaccount settings.â If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on your account settings. In some cases we may retain copies of your information if required by law. For questions about your Personal Information on our Service, please contact privacy@bitcasa.com. We will respond to your inquiry within 30 days.
+If you are a registered user, you may review, update, correct or delete the Personal Information provided in your registration or account profile by changing your “account settings.” If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on your account settings. In some cases we may retain copies of your information if required by law. For questions about your Personal Information on our Service, please contact privacy@bitcasa.com. We will respond to your inquiry within 30 days.
 
 5\. Data Retention
 
@@ -160,21 +160,21 @@ This Privacy Policy may change from time to time. If we make a change to this pr
 
 DMCA Policy
 
-Bitcasa (âBitcasaâ) respects the intellectual property rights of others and expects its users to do the same. In accordance with the Digital Millennium Copyright Act of 1998, the text of which may be found on the U.S. Copyright Office website at http://www.copyright.gov/legislation/dmca.pdf, Bitcasa will respond expeditiously to claims of copyright infringement committed using the Bitcasa service and/or the Bitcasa website (the âSiteâ) if such claims are reported to Bitcasaâs Designated Copyright Agent identified in the sample notice below.
+Bitcasa (“Bitcasa”) respects the intellectual property rights of others and expects its users to do the same. In accordance with the Digital Millennium Copyright Act of 1998, the text of which may be found on the U.S. Copyright Office website at http://www.copyright.gov/legislation/dmca.pdf, Bitcasa will respond expeditiously to claims of copyright infringement committed using the Bitcasa service and/or the Bitcasa website (the “Site”) if such claims are reported to Bitcasa’s Designated Copyright Agent identified in the sample notice below.
 
-If you are a copyright owner, authorized to act on behalf of one, or authorized to act under any exclusive right under copyright, please report alleged copyright infringements taking place on or through the Site by completing the following DMCA Notice of Alleged Infringement and delivering it to Bitcasaâs Designated Copyright Agent. Upon receipt of Notice as described below, Bitcasa will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the Site.
+If you are a copyright owner, authorized to act on behalf of one, or authorized to act under any exclusive right under copyright, please report alleged copyright infringements taking place on or through the Site by completing the following DMCA Notice of Alleged Infringement and delivering it to Bitcasa’s Designated Copyright Agent. Upon receipt of Notice as described below, Bitcasa will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the Site.
 
-DMCA Notice of Alleged Infringement (âNoticeâ)
+DMCA Notice of Alleged Infringement (“Notice”)
 
 1.  Identify the copyrighted work that you claim has been infringed, or - if multiple copyrighted works are covered by this Notice - you may provide a representative list of the copyrighted works that you claim have been infringed.
 2.  Identify the material or link you claim is infringing (or the subject of infringing activity) and to which access is to be disabled, including at a minimum, if applicable, the URL of the link shown on the Site or the exact location where such material may be found.
 3.  Provide your company affiliation (if applicable), mailing address, telephone number, and, if available, email address.
 4.  Include both of the following statements in the body of the Notice:
-    *   âI hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).â
-    *   âI hereby state that the information in this Notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of, the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.â
+    *   “I hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).”
+    *   “I hereby state that the information in this Notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of, the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.”
     *   Provide your full legal name and your electronic or physical signature.
 
-Deliver this Notice, with all items completed, to Bitcasaâs Designated Copyright Agent:
+Deliver this Notice, with all items completed, to Bitcasa’s Designated Copyright Agent:
 
 Copyright Agent  
 Bitcasa Inc.  
@@ -218,7 +218,7 @@ Bitcasa allows you to store up to \[TBD\]GB free of charge and allows you to inc
 
 Security Overview
 
-We provide this overview so that you can better understand the security measures weâve put in place to protect the information that you store using Bitcasa.
+We provide this overview so that you can better understand the security measures we’ve put in place to protect the information that you store using Bitcasa.
 
 Secure Storage
 
@@ -230,9 +230,9 @@ You can find more information about Amazon's security at the Amazon Web Services
 
 Secure Transfers
 
-Your files are sent between Bitcasaâs desktop clients and our servers over a secure channel using 256-bit SSL (Secure Sockets Layer) encryption, the standard for secure Internet network connections.
+Your files are sent between Bitcasa’s desktop clients and our servers over a secure channel using 256-bit SSL (Secure Sockets Layer) encryption, the standard for secure Internet network connections.
 
-Your files are sent between Bitcasaâs mobile apps and our servers over a secure channel using 256-bit SSL encryption where supported. Not all mobile media players support encrypted streaming, so media files streamed from our servers are not always encrypted.
+Your files are sent between Bitcasa’s mobile apps and our servers over a secure channel using 256-bit SSL encryption where supported. Not all mobile media players support encrypted streaming, so media files streamed from our servers are not always encrypted.
 
 Your Data is Backed Up
 
@@ -242,7 +242,7 @@ We guard your privacy to the best of our ability and work hard to protect your i
 
 Third-party Apps
 
-If you choose to access Bitcasa using third-party applications (âappsâ), be aware that those apps utilize their own security protocols and have their own privacy policies. If youâre not comfortable with the privacy and security features of those apps, you shouldnât use them to access Bitcasa. For example, third-party apps might not employ encryption when transmitting data, might collect information that Bitcasa does not, and might use information differently than Bitcasa does.
+If you choose to access Bitcasa using third-party applications (“apps”), be aware that those apps utilize their own security protocols and have their own privacy policies. If you’re not comfortable with the privacy and security features of those apps, you shouldn’t use them to access Bitcasa. For example, third-party apps might not employ encryption when transmitting data, might collect information that Bitcasa does not, and might use information differently than Bitcasa does.
 
 How to Add Your Own Layer of Encryption to Bitcasa
 
@@ -262,11 +262,11 @@ You agree not to misuse the Bitcasa services. For example, you must not, and mus
 
 *   probe, scan, or test the vulnerability of any system or network;
 *   breach or otherwise circumvent any security or authentication measures;
-*   access, tamper with, or use non-public areas of the Service, shared areas of the Service you have not been invited to, Bitcasa (or our service providersâ) computer systems;
+*   access, tamper with, or use non-public areas of the Service, shared areas of the Service you have not been invited to, Bitcasa (or our service providers’) computer systems;
 *   interfere with or disrupt any user, host, or network, for example by sending a virus, overloading, flooding, spamming, or mail-bombing any part of the Services;
-*   plant malware or otherwise use the Services to distribute malware. access or search the Services by any means other than our publicly supported interfaces (for example, âscrapingâ);
+*   plant malware or otherwise use the Services to distribute malware. access or search the Services by any means other than our publicly supported interfaces (for example, “scraping”);
 *   send unsolicited communications, promotions or advertisements, or spam;
-*   send altered, deceptive or false source-identifying information, including âspoofingâ or âphishingâ;
+*   send altered, deceptive or false source-identifying information, including “spoofing” or “phishing”;
 *   publish anything that is fraudulent, misleading, or infringes another's rights;
 *   promote or advertise products or services other than your own without appropriate authorization;
 *   impersonate or misrepresent your affiliation with any person or entity;
