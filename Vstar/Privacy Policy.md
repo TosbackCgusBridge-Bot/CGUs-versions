@@ -382,6 +382,11 @@ Ventura County Star
 *   Cars
 *   Classified
 
+*   Trail of Betrayal
+    
+    **Inside the files** – Boy Scouts gave predators a pass
+    
+
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -636,11 +641,11 @@ Most Popular
 
 *   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 105 comments
 *   Fatal morning wreck on PCH in Malibu closes highway for hours Updated 10/27/2012 at 7:28 p.m.
-*   O'Reilly: Are anchors rooting for Obama? Published 10/26/2012 at 2:01 p.m. 46 comments
-*   Editorial: For Congress: Julia Brownley Published 10/27/2012 at 11:47 a.m. 28 comments
+*   O'Reilly: Are anchors rooting for Obama? Published 10/26/2012 at 2:01 p.m. 49 comments
+*   Editorial: For Congress: Julia Brownley Published 10/27/2012 at 11:47 a.m. 30 comments
 *   Oxnard man identified in El Rio fatal shooting Updated 10/27/2012 at 7:24 p.m.
 
-Photo Galleries Ventura County's Most Wanted October… State agency concerned about selling… Ventura Restaurant Week adds lunch to…
+Photo Galleries Ventura County's Most Wanted October… Ventura Restaurant Week adds lunch to… State agency concerned about selling…
 
 *   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 105 comments
 *   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 96 comments
@@ -660,7 +665,7 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 57° Fair Wind: Calm Today 78° 54° Sun 06:00 PM Sunny Temp: 67° Mon 06:00 AM Clear Temp: 54° Mon 06:00 PM Mostly Sunny Temp: 64°
+Currently 54° Fair Wind: NE 4mph Today 78° 54° Sun 07:00 PM Clear Temp: 67° Mon 07:00 AM Clear Temp: 54° Mon 07:00 PM Mostly Clear Temp: 64°
 
 Feels Like: 67°
 
