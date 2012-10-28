@@ -12,7 +12,7 @@ Loading Results... Skip to content
 *   Customer Service
 *   1.800­.GO.DEPOT (1.800.­463.3768) Close X
     
-    **Session:** 0000vb2ssOaKdUT9cGhEpyDcNpo  
+    **Session:** 00009QO3fMHAc5b0s2K9LP3gBgw  
     **Clone:** 1659q38ci
     
 
@@ -23,7 +23,7 @@ Search Suggestions
   
 Weekly Ad
 
-****FREE** Delivery!\*  
+**Add $50.00 more for FREE Delivery!\*  
 **
 
 *   0 item(s): $0.00
@@ -40,6 +40,7 @@ Subtotal
 *   Checkout
 
 *   Welcome, Guest  Log in | Register
+*   Browsing 60601 Change Zip
 *   Order Tracking
 
 *   My Account
@@ -162,11 +163,11 @@ Subtotal
     
     Current Offers
     
-    25% off, New! Foray Advanced Ink Pens.
+    Dollar Deals on Supplies!
     
-    Dollar Deals on Supplies starting at $2!
+    Click here for a hot paper deal!
     
-    Free Ream of HP Paper when you buy $50 of HP Ink
+    Order your 2013 Calendars Today
     
 *   Paper
     
@@ -410,11 +411,11 @@ Subtotal
     
     Current Offers
     
-    Order your Windows 8 PC or Tablet today
+    Buy your Windows 8 PC or Tablet today
     
-    HP LaserJets on Sale. Save up to $100
+    $6.99 Lexar USB Flash Drive, 8GB
     
-    SanDisk USB 2.0 Flash Drives as low as $8.99
+    Life happens, back it up with hard drives from Seagate
     
 *   Furniture
     
@@ -469,11 +470,11 @@ Subtotal
     
     Current Offers
     
-    Final Week Seating Event!
+    Upgrade Your Workspace and Save!
     
-    Everyday Values on Hutch Bundles
+    Seating Overstock Blowout! Save up to $100 on select Chairs
     
-    Savings on Top Rated Furniture, Filing &. Desks
+    Save up to $100 on select Chairs
     
 
 Product Plans &. Leasing Options Page of There are no items in your cart. Previous Next $ Coupon Code: ZIP CODE You have not selected a store or a zipcode yet Your Coupons See all coupons Includes Coupon(s) Qty. Product Price Price With Tax item(s) false true Your Price: Quick View See More Results http://static.www.odcdn.com/images/us/od/lb\_loading.gif Please enter a quantity true true Home Customer Service  >  Privacy Statement Privacy Statement Helpful Links
