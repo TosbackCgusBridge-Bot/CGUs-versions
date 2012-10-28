@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Saturday 27 October 2012
+Sunday 28 October 2012
 
 *   Home
 *   News
@@ -138,11 +138,13 @@ In About us
 
 Editor's Choice »
 
-Prince Charles of Transylvania  
+Deadlock in America: single slip may be fatal  
 
-Following the Prince of Wales, **Adrian Bridge** ventures deep into 'Dracula Country'.
+Veteran journalist and editor **Sir Harold Evans** assesses America's mood ahead of next week's neck and neck US election battle.
 
-Jez Butterworth's The River, review The Shard, London: first look inside A sad farewell to The Thick of It The Tories are embracing ever looser union Advertisement
+Comments
+
+'I was a girl in a man's world' What's the difference between these brains? The rise of rail nostalgia Jez Butterworth's The River, review Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
