@@ -242,13 +242,13 @@ Your email is safe with us. We hate spam too!
 
 Featured this week on livestrong.com
 
-*   Oct 25, 2012 The Cause Of Low Back Pain  
+*   Oct 26, 2012 The Cause Of Low Back Pain  
     
-*   Oct 24, 2012 Sleep Soundly!  
+*   Oct 25, 2012 Sleep Soundly!  
     4 Ways To Get Better Rest
-*   Oct 23, 2012 How To Get Fit  
+*   Oct 24, 2012 How To Get Fit  
     At Home
-*   Oct 22, 2012 The New Key  
+*   Oct 23, 2012 The New Key  
     To Fat Loss
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
