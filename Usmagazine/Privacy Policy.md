@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Three Shady Ladies »
+Hot Pics! LACMA Ladies »
 
-Top Stories1.  Jessica Simpson Shows Off 60-Pound Weight Loss While Leaving the Gym »
-2.  Leighton Meester Chops Off Her Hair: "I Love It!" »
-3.  Renee Zellweger Makes First Red Carpet Appearance in 5 Months! »
-4.  Cheryl Cole: Stop Calling Me Fat -- I'm a Size 6! »
-5.  PIC: Kim Kardashian Wears Giant Diamond Ring, Curve-Hugging Jeans »
+Top Stories1.  PICTURE: Emma Roberts Becomes "Pretty Woman" Aunt Julia for Halloween »
+2.  Jessica Simpson Shows Off 60-Pound Weight Loss While Leaving the Gym »
+3.  Cheryl Cole: Stop Calling Me Fat -- I'm a Size 6! »
+4.  Renee Zellweger Makes First Red Carpet Appearance in 5 Months! »
+5.  PIC: Jennifer Garner, Ben Affleck Dress Up for Evening Out Without Kid »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly My Diet Struggle
 
 Inside Us Weekly
 
-*   Style Renee Zellweger Makes First Red Carpet Appear
+*   Style PICTURE: Emma Roberts Becomes "Pretty Woman"
 *   Beauty Leighton Meester Chops Off Her Hair: "I Love
-*   Moms PICTURE: Pregnant Lily Allen Shows Off Baby B
-*   Body Cheryl Cole: Stop Calling Me Fat -- I'm a Siz  
-*   Entertainment Kate Hudson Flaunts Cleavage, Long Legs in Gl  
+*   Moms Radiant Reese Witherspoon Shows Off Post-Baby
+*   Body How Madonna Maintains Her Age-Defying Physiqu  
+*   Entertainment See The Exorcist's Linda Blair Nearly 40 Year  
 
 *   US WEEKLY
 *   Celebrity News
