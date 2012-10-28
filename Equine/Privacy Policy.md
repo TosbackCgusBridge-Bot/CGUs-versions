@@ -47,7 +47,7 @@
     *   Order History
 *   Sell Your Horse
 
-Saved Searches â¼ Saved Listings â¼ Manage My Ads Privacy Policy Information Collection and Use
+Saved Searches ▼ Saved Listings ▼ Manage My Ads Privacy Policy Information Collection and Use
 
 Equine.com is the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Equine.com collects information from our users at several different points on our website.
 
@@ -113,17 +113,17 @@ Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad Equine.com is the Official Classifieds Site for our 25+ partner sites including: Testimonials **Don't just take our word for it...** "Lots of responses, sold her in 3 days ! Thank you ! "  
-**Tanya**  
-Mt Jewett, Pennsylvania "Equine.com is always the place I go to sell a horse. I told a friend "Your horse isn't REALLY for sale, until you put them on..."  
-**Laura**  
-Harrisburg, Missouri " Equine was great. Sold the horse within 2 days. Thanks to Kim in Iowa on the purchase of this gelding. "  
-**Ron**  
-St.Paul, Missouri " Very user friendly site. "  
-**dessa**  
-Dixon , Missouri " As always, really great. The Americans are always just awesome to deal with. We feel they are really going to love her and ..."  
-**Susan**  
-Empress, Alberta, Canada View More Testimonials
+Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad Equine.com is the Official Classifieds Site for our 25+ partner sites including: Testimonials **Don't just take our word for it...** " excellent as always!!!!! My third sale with equine.com! "  
+**Stacey**  
+Watkinsville, Georgia " Mambo was sold to the first person that called. She went to a great show home.Her new owners love her and I was so pleased ..."  
+**Kim**  
+, Virginia " I rec'd many inquiries on this ad and am encouraged to put another paint horse up for sale. Equine.com really does expose ..."  
+**Nancy &. Ronnie**  
+Lexington , Texas " Thanks for helping find a home for his little guy.Equine.com is a great connection between buyers and sellers. "  
+**Ernest**  
+Marysville, Ohio " Great Website for Selling Horses with lots of pictures and wonderful Customer Service! "  
+**Mary**  
+Gays Mills, Wisconsin View More Testimonials
 
 *   Advertise
 *   |
