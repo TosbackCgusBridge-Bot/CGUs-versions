@@ -44,91 +44,100 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
-    *   Anna Kevin Women's Apparel
-    *   Anne Klein and Michael Kors Outerwear
-    *   Bague a Dames Jewelry &. Watches
-    *   Bear Paw, Muk Luks, and Pajar Andre
-    *   For Party Season: gemstone jewelry deals
-    *   Ivanka Trump and Misook Apparel
-    *   Jean Louis Scherrer women's shoes
-    *   Look of The Day
-    *   M Missoni Women's Apparel
-    *   Martina Caponi Handbags Born In Florence
-    *   One &. Only: Luxury Jewelry for Her
-    *   Prada, Gucci, Fendi and more italian designers handbags
-    *   Red Alert
-    *   Silver jewelry under $49
-    *   Women's Fragrances: Prada, Versace, Lacoste
+    *   Aquaswiss Sunglasses
+    *   Carol Rose and Ellen Parker Women's Apparel
+    *   CeMe London Dresses
+    *   Chanel, Bvlgari, Carrera y Carrera, Tiffany and more
+    *   Everything under $39
+    *   Louis Vuitton, Hermes, Celine, Barry Kieselstein-Cord and more
+    *   Our Picks: Earrings and Necklaces
+    *   Our Picks: Rings and Bracelets
+    *   Refresh your jewelry box: studs
+    *   Under $49 designer shoes
+    *   Wedding Jewelry Trends
+    *   Winter Layering Essentials
     *   _more..._
     *   men
-    *   Fresh Brand, Report Collection, Maglierie di Perugia &. Il Moro Di Venezia
-    *   Men's Fragrances: Armani, CK, Burberry and more
-    *   Versace Men's Scarves and Ties
+    *   Montres De Luxe Milano Watches
+    *   Tissot, John Varvatos, Ralph Lauren, Versace and more
     *   _more..._
     *   other
-    *   Lancaster Watches Made In Italy Blowout
-    *   Unanyme De Georges Rech Gloves
+    *   Dead sea cosmetic blowout
+    *   Designer accessories sale
+    *   Designer jeans blowout from $12
+    *   Ed hardy. Christian Audigier
+    *   Winter must-haves blowout for him and her
+    *   Yellow Gold Jewelry blowout
     *   _more..._
 *   apparel
     *   women
     *   Anna Kevin Women's Apparel
     *   Anne Klein and Michael Kors Outerwear
+    *   Carol Rose and Ellen Parker Women's Apparel
+    *   CeMe London Dresses
+    *   Chanel, Bvlgari, Carrera y Carrera, Tiffany and more
+    *   Everything under $39
     *   Ivanka Trump and Misook Apparel
-    *   Jeanne Darc, No Limit, Vipart Women's Apparel
-    *   Look of The Day
+    *   Louis Vuitton, Hermes, Celine, Barry Kieselstein-Cord and more
     *   M Missoni Women's Apparel
     *   Red Alert
     *   Shades Of Grey
-    *   Unanyme by Georges Rech Women's Apparel
+    *   Winter Layering Essentials
     *   Winter essentials for her from $19
     *   Wow couture Dresses
     *   _more..._
     *   men
     *   Fresh Brand, Report Collection, Maglierie di Perugia &. Il Moro Di Venezia
+    *   Tissot, John Varvatos, Ralph Lauren, Versace and more
     *   _more..._
     *   other
+    *   Designer jeans blowout from $12
+    *   Ed hardy. Christian Audigier
+    *   Week in Rewind
+    *   Winter must-haves blowout for him and her
     *   _more..._
 *   Jewelry &. Watches
     *   women
     *   Affordable Jewelry
     *   Bague a Dames Jewelry &. Watches
+    *   Chanel, Bvlgari, Carrera y Carrera, Tiffany and more
     *   Designer Jewelry
     *   Designer jewelry from $5
     *   For Party Season: gemstone jewelry deals
-    *   Handmade in Italy jewelry
-    *   Jewelry box must-haves
-    *   Ladies Necklace Designed In 925 Sterling Silver
-    *   Look of The Day
-    *   Murano Glass &. Venetiaurum Jewelry
+    *   Louis Vuitton, Hermes, Celine, Barry Kieselstein-Cord and more
     *   One &. Only: Luxury Jewelry for Her
-    *   Pretty in Pearls
+    *   Our Picks: Earrings and Necklaces
+    *   Our Picks: Rings and Bracelets
+    *   Pilgrim of Denmark Jewelry
+    *   Refresh your jewelry box: studs
+    *   Saachi Jewelry &. Scarves
     *   Silver jewelry under $49
+    *   Wedding Jewelry Trends
     *   Winter sparkles: jewelry for her
     *   _more..._
-    *   men
-    *   Men's jewelry sale
-    *   _more..._
     *   other
-    *   Color love: jewel-toned watches
-    *   DYRBERG/KERN, Chateau D'Argent, Morellato and more
+    *   Designer watches for less
     *   Lancaster Watches Made In Italy Blowout
-    *   RAMA SWISS WATCH
     *   Swiss made designer watches
+    *   Yellow Gold Jewelry blowout
     *   _more..._
 *   Handbags &. Accessories
     *   women
+    *   Aquaswiss Sunglasses
     *   Designer Jewelry
+    *   Diesel Handbags
     *   Koret handbags
-    *   Look of The Day
+    *   Louis Vuitton, Hermes, Celine, Barry Kieselstein-Cord and more
     *   Martina Caponi Handbags Born In Florence
     *   Prada, Gucci, Fendi and more italian designers handbags
     *   Shades Of Grey
-    *   Vecceli handbags
     *   _more..._
     *   men
+    *   Montres De Luxe Milano Watches
     *   Versace Men's Scarves and Ties
     *   _more..._
     *   other
+    *   Designer accessories sale
     *   Unanyme De Georges Rech Gloves
     *   Versace, Prada, Gucci and more Sunglasses
     *   _more..._
@@ -136,13 +145,13 @@ Loading Modnique - Boutique Events
     *   women
     *   Bear Paw, Muk Luks, and Pajar Andre
     *   Jean Louis Scherrer women's shoes
+    *   Under $49 designer shoes
     *   _more..._
     *   other
     *   Converse Featuring Men's and Women's Shoes
     *   _more..._
 *   beauty
     *   women
-    *   EF Studio Cosmetics
     *   Elizabeth Grant Cosmetics
     *   Michael Todd Skincare Made In USA
     *   Women's Fragrances: Prada, Versace, Lacoste
@@ -151,20 +160,30 @@ Loading Modnique - Boutique Events
     *   Men's Fragrances: Armani, CK, Burberry and more
     *   _more..._
     *   other
+    *   Dead sea cosmetic blowout
+    *   Week in Rewind
     *   _more..._
 *   men
-    *   Color love: jewel-toned watches
     *   Converse Featuring Men's and Women's Shoes
     *   DYRBERG/KERN, Chateau D'Argent, Morellato and more
+    *   Dead sea cosmetic blowout
+    *   Designer accessories sale
+    *   Designer jeans blowout from $12
+    *   Designer watches for less
+    *   Ed hardy. Christian Audigier
     *   Fresh Brand, Report Collection, Maglierie di Perugia &. Il Moro Di Venezia
     *   Lancaster Watches Made In Italy Blowout
-    *   Men's jewelry sale
     *   Men's Fragrances: Armani, CK, Burberry and more
-    *   RAMA SWISS WATCH
+    *   Montres De Luxe Milano Watches
+    *   Patek Philippe , Chaumet,Audemars Piguet and more watches
     *   Swiss made designer watches
+    *   Tissot, John Varvatos, Ralph Lauren, Versace and more
     *   Unanyme De Georges Rech Gloves
     *   Versace Men's Scarves and Ties
     *   Versace, Prada, Gucci and more Sunglasses
+    *   Week in Rewind
+    *   Winter must-haves blowout for him and her
+    *   Yellow Gold Jewelry blowout
     *   and many more...
 *   gifts
 *   daily deal
