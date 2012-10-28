@@ -634,24 +634,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Updated 10/25/2012 at 6:44 p.m. 87 comments
-*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 19 comments
-*   In tears, Oxnard teacher tells what led her to play roles in X-rated films Updated 10/25/2012 at 8:10 p.m.
-*   Man, 61, dies after traffic collision near Highway 33 Updated 10/26/2012 at 3:44 p.m.
-*   Money missing from armored vehicle stolen in Thousand Oaks Updated 10/26/2012 at 3:16 p.m.
+*   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 105 comments
+*   Fatal morning wreck on PCH in Malibu closes highway for hours Updated 10/27/2012 at 7:28 p.m.
+*   O'Reilly: Are anchors rooting for Obama? Published 10/26/2012 at 2:01 p.m. 46 comments
+*   Editorial: For Congress: Julia Brownley Published 10/27/2012 at 11:47 a.m. 28 comments
+*   Oxnard man identified in El Rio fatal shooting Updated 10/27/2012 at 7:24 p.m.
 
-Photo Galleries Ventura County's Most Wanted October… In tears, Oxnard teacher tells what… Camarillo vs Pacifica
+Photo Galleries Ventura County's Most Wanted October… State agency concerned about selling… Ventura Restaurant Week adds lunch to…
 
-*   Poll shows Proposition 30 in a virtual tie. Brown says 'stakes are serious' Published 10/24/2012 at 9:01 p.m. 107 comments
-*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 87 comments
-*   Morning chat Published 10/24/2012 at 12:00 a.m. 75 comments
+*   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 105 comments
+*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 96 comments
+*   Poll shows Proposition 30 in a virtual tie. Brown says 'stakes are serious' Published 10/24/2012 at 9:01 p.m. 109 comments
+*   Morning chat Published 10/26/2012 at 12:00 a.m. 74 comments
 *   Morning chat Published 10/25/2012 at 12:00 a.m. 71 comments
-*   Organizer with Oxnard roots wants 12 million Latino voters Published 10/23/2012 at 8:34 p.m. 64 comments
 
-*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 19 comments
+*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 22 comments
 *   Oaks Christian might have broken football recruitment rules – Video Published 10/18/2012 at 2:53 p.m. 0 comments
 *   Scores of dogs seized from Simi Valley home now up for adoption Published 10/17/2012 at 5:35 p.m. 16 comments
-*   Firefighters battle Lookout Fire near Santa Barbara that threatened about 100 homes Published 10/17/2012 at 10:01 a.m. 0 comments
+*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 96 comments
 *   Longtime Conejo Valley educator Carol Philips dies, 64 Published 10/22/2012 at 9:56 a.m. 0 comments
 
 Weather
@@ -660,23 +660,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 72° Fair Wind: NE 16mph Today 83° 53° Sat 05:00 PM Sunny Temp: 82° Sun 05:00 AM Clear Temp: 57° Sun 05:00 PM Sunny Temp: 77°
+Currently 57° Fair Wind: Calm Today 78° 54° Sun 06:00 PM Sunny Temp: 67° Mon 06:00 AM Clear Temp: 54° Mon 06:00 PM Mostly Sunny Temp: 64°
 
-Feels Like: 81°
+Feels Like: 67°
 
-Humidity: 32%
-
-Precip: 0%
-
-Feels Like: 57°
-
-Humidity: 47%
+Humidity: 81%
 
 Precip: 0%
 
-Feels Like: 77°
+Feels Like: 54°
 
-Humidity: 48%
+Humidity: 90%
+
+Precip: 0%
+
+Feels Like: 64°
+
+Humidity: 90%
 
 Precip: 0%
 
@@ -702,10 +702,10 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   Whopper of a super PAC attack on Brownley
 *   If you can tell a person by who their friends are...
 *   Is Todd Zink a 'radical'?
 *   'Ladies and gentlemen, the former president of the...'
-*   'Real people' and a real mistake
 
 Brian Dennert here
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Saturday Oct 27
 *   Sunday Oct 28
 *   Monday Oct 29
+*   Tuesday Oct 30
 *   More BROWSE Icon
-
-*   Project Future Golf Tournament Brookside Golf Club 8 a.m.
-*   SeaSide Feather Fanciers Ninth Annual "Bash At the Beach" Poultry Show Ventura County Fairgrounds 8 a.m.
-*   Parking Lot Fundraiser - Bake Sale A Place of Peace 8 a.m.
-*   CI invites the public to Community Planting Days CSUCI California State University 8 a.m.
-*   CIPCUG October meeting Boys' &. Girl' Club of Camarillo 8:30 a.m.
-
-More Events »
 
 *   Día de los Muertos Craft Day Casa De La Guerra noon
 *   Come and Spend All Hallows Eve with us! Emerging Spirits Center noon
@@ -750,6 +742,14 @@ More Events »
 *   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
 *   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
 *   Children's Art Classes SCIART Gallery 3:30 p.m.
+
+More Events »
+
+*   HIPAA Security Rule Compliance: More Important Than Ever Online 10 a.m.
+*   Information Session Starbucks 27748 West Mcbean Pkwy, Valencia, CA 91355 11 a.m.
+*   CAI Channel Islands HOA Community Faire Spooktacular Westlake Village Inn 4:30 p.m.
+*   Dinesh D'Souza - 2016 Obamas America Camarillo Community Church 6:30 p.m.
+*   Dinesh D'Souza - 2016 Obamas America Camarillo Community Church 6:30 p.m.
 
 More Events »
 
