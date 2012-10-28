@@ -27,7 +27,7 @@ Except as otherwise provided in this Privacy Policy, we will keep your Personal 
 
 Several companies unaffiliated with Haymarket provide email deployment services for our email messages. The personally identifiable information, such as e-mail address, we provide to these vendors for the purposes of e-mail deployment is only used by them for that purpose and not for any other business activity.
 
-In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarketâs behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at web@haymarketmedia.com.
+In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket’s behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at web@haymarketmedia.com.
 
 **Aggregated information**
 
@@ -43,7 +43,7 @@ You have the option of accessing, correcting, updating and modifying your Person
 
 **Update Your Newsletter Subscriptions**
 
-You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. You can locate the subscription management page through the âLog Inâ link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to subscriptions@haymarketmedia.com.
+You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. You can locate the subscription management page through the “Log In” link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to subscriptions@haymarketmedia.com.
 
 **Update Your Print Subscription Information**
 
@@ -55,17 +55,17 @@ Our Digital Offerings contain external links to other Digital Offerings includin
 
 **Haymarket Magazines, Seminars, Events, Sites and Other Publications and Services**
 
-As a Haymarket customer you can also expect to receive relevant email and postal offers for Haymarket publications, seminars, events, Digital Offerings and other services. From time to time we are also able to secure and offer to our customers specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such mailings in the future, you can change your preference via the subscription management page which can be located by using the âLog Inâ link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to subscriptions@haymarketmedia.com.
+As a Haymarket customer you can also expect to receive relevant email and postal offers for Haymarket publications, seminars, events, Digital Offerings and other services. From time to time we are also able to secure and offer to our customers specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such mailings in the future, you can change your preference via the subscription management page which can be located by using the “Log In” link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to subscriptions@haymarketmedia.com.
 
 **Haymarket Events**
 
-Haymarket Events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please visit the Sponsorâs web site to review its privacy policy. Similarly, Haymarket events will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Haymarket uses the data. For details on how event Sponsors use the information you provide, please contact the Sponsor directly.
+Haymarket Events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please visit the Sponsor’s web site to review its privacy policy. Similarly, Haymarket events will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Haymarket uses the data. For details on how event Sponsors use the information you provide, please contact the Sponsor directly.
 
 If you have any questions, please contact Events@haymarketmedia.com.
 
 **Haymarket eSeminars**
 
-Haymarket eSeminars produces sponsored webcasts and online trade shows for a variety of Sponsors. All data collected during the registration for such events will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please visit the Sponsorâs web site to review its privacy policy. Similarly, Haymarket eSeminars will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Haymarket uses the data. For details on how eSeminar Sponsors use the information you provide, please contact the Sponsor directly.
+Haymarket eSeminars produces sponsored webcasts and online trade shows for a variety of Sponsors. All data collected during the registration for such events will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please visit the Sponsor’s web site to review its privacy policy. Similarly, Haymarket eSeminars will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Haymarket uses the data. For details on how eSeminar Sponsors use the information you provide, please contact the Sponsor directly.
 
 Haymarket eSeminars also automatically receives and records information on our server logs from your browser, including your IP address, Internet connection speed, Internet connection duration, and Real Media and Windows Media player information. This is done in conjunction with our broadcast providers. Your data is collected and retained by our broadcast providers for the sole purposes of delivering eSeminars content appropriately, traffic reporting, and enabling re-registration for future events. In addition, our broadcast providers use cookie technology to identify you as a registered user of the eSeminars service.
 
@@ -128,9 +128,9 @@ We may collect and process the following data about you:
 
 IP Addresses and Cookies
 
-âCookiesâ are small pieces of information that a website sends to your computerâs hard drive while you are viewing a website. Haymarket uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or decline cookies, but please be aware that for some parts of our sites to work, you will need to accept cookies. For more information please visit www.allaboutcookies.org.
+“Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. Haymarket uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or decline cookies, but please be aware that for some parts of our sites to work, you will need to accept cookies. For more information please visit www.allaboutcookies.org.
 
-Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by The Information Commissionerâs Office.
+Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by The Information Commissioner’s Office.
 
 Where we store your personal data
 
