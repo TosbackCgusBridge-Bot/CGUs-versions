@@ -192,95 +192,95 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 10:33 AM EDT October 28, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 10:45 AM EDT October 28, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  9:00a
+/news/latest1.  10:39a
+    
+    Cuomo orders NYC transit system to shut down
+    
+2.  9:00a
     
     New York prepares for the worst from Sandy
     
-2.  8:17a
+3.  8:17a
     
     Monster storm Sandy threatens East Coast
     
-3.  7:26a
+4.  7:26a
     
     New York prepares for the worst from Sandy
     
-4.  7:01a
+5.  7:01a
     
     Wall Street, political world await jobs report
     
-5.  6:28a
+6.  6:28a
     
     Hawaii hit by tsunami after Canada quake
     
-6.  3:44a
+7.  3:44a
     
     New Jersey Gov. Christie orders some evacuations
     
-7.  1:35a
+8.  1:35a
     
     Hurricane Sandy: dangers and damages
     
-8.  12:54a
+9.  12:54a
     
     Hurricane Sandy wreaks havoc on airline flights
     
-9.  5:00p
+10.  5:00p
     
     Hurricane Sandy may force evacuations in NYC
     
-10.  4:48p
+11.  4:48p
     
     Exchanges: Wall Street ready for Monday
     
-11.  3:48p
+12.  3:48p
     
     NFL doesn’t expect Sandy to ground Jets, Eagles
     
-12.  3:14p
+13.  3:14p
     
     BREAKING
     
     New York not yet requiring mandatory evacuations
     
-13.  12:05p
+14.  12:05p
     
     BREAKING
     
     NYC moves to protect rail, subway lines
     
-14.  12:00p
+15.  12:00p
     
     Hurricane Sandy may force evacuations in NYC
     
-15.  11:43a
+16.  11:43a
     
     BREAKING
     
     N.J. declares state of emergency ahead of Sandy
     
-16.  11:27a
+17.  11:27a
     
     BREAKING
     
     New York mayor to update on hurricane preparation
     
-17.  10:14a
+18.  10:14a
     
     Frankenstein Economics is killing capitalism
     
-18.  9:24a
+19.  9:24a
     
     McLaren Spider: An open-air symphony of loud
     
-19.  9:00a
+20.  9:00a
     
     Hurricane Sandy may force evacuations in NYC
-    
-20.  8:01a
-    
-    Investors brace for Sandy and key jobs report
     
 21.  Loading more headlines...
 
