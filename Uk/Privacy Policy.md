@@ -4,7 +4,7 @@ Skip to search.
 *   _Sign In_
 *   Help
 
-Make Y! My Homepage
+Preview Mail w/ Y! Toolbar
 
 *     Notifications Help
     
