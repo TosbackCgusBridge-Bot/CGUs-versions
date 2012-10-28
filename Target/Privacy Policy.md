@@ -1,4 +1,4 @@
-save up to 50% on select Halloween costumes. plus, free shipping when you spend $50. Halloween tried these yet? bright ideas to improve your every day. learn more oops, there is a problem
+it's on! Black Friday sale. sign up now to receive Black Friday deals and Cyber Monday steals. sign up now pre-order The Amazing Spider-Man on DVD &. Blu-ray with exclusive Target content. pre-order Spider-Man DVD oops, there is a problem
 
 Target.com requires **javascript** to be enabled.
 
@@ -479,7 +479,7 @@ kitchen patio and garden furniture electronics toys health and beauty sports
 view all categories by:womens mens baby kid home bath bedding appliances décor  
 kitchen patio and garden furniture electronics toys health and beauty sports  
 view by specialty:back to college black friday christmas clearance cyber monday  
-halloween shop by brand favorite characters
+halloween shop by brand favorite characters Target + Neiman Marcus Holiday Collection
 
 shop all departments  
 view mobile version
