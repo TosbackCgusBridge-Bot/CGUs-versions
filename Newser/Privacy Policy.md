@@ -3,18 +3,18 @@
 *   What's New
 *   Hot Topics
     *   Election 2012
-    *   entertainment
-    *   President Obama
-    *   Obama 2012
-    *   Mitt Romney
-    *   celebrity
-    *   Mitt Romney 2012
+    *   strange stuff
     *   timeless news
-    *   Barack Obama
-    *   murder
+    *   Mitt Romney 2012
+    *   Hurricane Sandy
+    *   Obama 2012
+    *   entertainment
+    *   celebrity
+    *   Florida
+    *   storm
 *   Log In
 
-  Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waitingâ¦ GET THEM NOW!  
+  Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
 
 *   ELECTION 2012
 *   POLITICS
@@ -41,21 +41,21 @@ Newser Privacy Policy
 
 Please read this Privacy Policy (last revised as of March 1, 2010) before using this service. By continuing to use Newser.com, you acknowledge that you have read and agree to the terms of this policy.
 
-Newser, LLC., the operator of www.Newser.com (the âNewser Website,â referred to as âNewser,â âus,â âweâ or âourâ) respects the privacy of our users, and we want you to be aware of how we use information that we have collected from and about you. By coming to the Newser Website, you are agreeing to and accepting this Privacy Policy as well as the User Agreement governing our services. Because the Internet is a rapidly evolving medium, and enhancements to the services we provide may affect the information that we collect and the manner that we use it, the Privacy Policy may change from time to time. If it does, we will post the revised Privacy Policy on the Newser Website, with an indication of the date of the most recent revisions.
+Newser, LLC., the operator of www.Newser.com (the “Newser Website,” referred to as “Newser,” “us,” “we” or “our”) respects the privacy of our users, and we want you to be aware of how we use information that we have collected from and about you. By coming to the Newser Website, you are agreeing to and accepting this Privacy Policy as well as the User Agreement governing our services. Because the Internet is a rapidly evolving medium, and enhancements to the services we provide may affect the information that we collect and the manner that we use it, the Privacy Policy may change from time to time. If it does, we will post the revised Privacy Policy on the Newser Website, with an indication of the date of the most recent revisions.
 
 You should be aware that this Privacy Policy applies only to the Newser Website. Any websites linked to from the Newser Website, an advertisement or an article displayed on the site are governed by their own privacy policies.
 
 What personally identifiable information do I provide to Newser, and how does Newser use it?
 
 *   Personally identifiable information refers to any information that identifies or can be used to identify, contact or locate you. Newser collects only the personally identifiable information that you provide to us if you register as a registered user on the Newser Website, such as your name and e-mail address.
-*   Newser uses your personally identifiable information to communicate with you regarding your account or the Newser Website. These communications may include, without limitation, notices regarding material changes to the Newser Websiteâs policies, service updates, and service enhancements. Since these account-related communications are necessary to ensure we provide our users with the highest quality of services, our users are not permitted to opt out from receipt of these communications.
+*   Newser uses your personally identifiable information to communicate with you regarding your account or the Newser Website. These communications may include, without limitation, notices regarding material changes to the Newser Website’s policies, service updates, and service enhancements. Since these account-related communications are necessary to ensure we provide our users with the highest quality of services, our users are not permitted to opt out from receipt of these communications.
 *   Newser may also use personally identifiable information to e-mail you newsletters or tips about how to use the service, inform you of product updates, or notify you about our own special offers or those of our third-party partners. You may choose at any time to opt out of receiving some or all of these communications by emailing us here or by using the unsubscribe link on any e-mail message you receive.
 *   In order to improve and create a more customized experience, Newser associates your personally identifiable information with information about your use of the website.
 
 What other information is collected about me on the Newser Website and by whom?
 
-*   Like most websites, Newser employs cookies to recognize you and your access privileges on the Newser Website. A cookie is a small piece of information that a website can store in a designated file on your computer. When you visit a site, that site can access only the information which it stored in your cookie â not information put on your computer by other web-based services.
-*   Newser maintains internal logs of usersâ use of the Newser Website. Logs include information such as IP address, browser type and version, and computer operating system. Newser uses logs mainly for systems administration and diagnostic purposes, and to detect improper use of the site. Logs may also be used to generate aggregate, non-personally identifiable information for advertisers or other third parties.
+*   Like most websites, Newser employs cookies to recognize you and your access privileges on the Newser Website. A cookie is a small piece of information that a website can store in a designated file on your computer. When you visit a site, that site can access only the information which it stored in your cookie – not information put on your computer by other web-based services.
+*   Newser maintains internal logs of users’ use of the Newser Website. Logs include information such as IP address, browser type and version, and computer operating system. Newser uses logs mainly for systems administration and diagnostic purposes, and to detect improper use of the site. Logs may also be used to generate aggregate, non-personally identifiable information for advertisers or other third parties.
 *   Newser may also contract, from time to time, with third parties to help us understand how people use our website and to provide functionalities such as email distribution, ad serving, customer surveys, comments, and content sharing. These companies also use cookies. They may also use other tracking technologies, such as web beacons (also known as clear GIFs, web bugs, tracking pixels or action tags), which are similar in function to cookies, allowing them to determine when users have reached particular web pages on the Newser Website.
 *   Cookies and web beacons allow Newser and its third-party service providers to collect and analyze aggregate information about how its website is used.
 *   We sell advertising on our site so that we can provide our service for free. In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser. Information about your visit, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. Please be aware that if you opt out of allowing our web advertising partner to collect this information, you may not be able to use certain parts of the site nor have access to certain functions.
@@ -75,7 +75,7 @@ How secure is my personal information?
 
 How will I know when there are changes to this Privacy Policy?
 
-*   This Privacy Policy is subject to modification from time to time at Newserâs discretion. All changes will be incorporated into the written policy and posted on the privacy policy pages of the Newser Website. The date of last revision to the policy is indicated at the top of the document.
+*   This Privacy Policy is subject to modification from time to time at Newser’s discretion. All changes will be incorporated into the written policy and posted on the privacy policy pages of the Newser Website. The date of last revision to the policy is indicated at the top of the document.
 
 What if I have questions that are not answered here?
 
@@ -122,55 +122,55 @@ NEWS FROM OUR PARTNERS
 
 *   Richard Mourdock or Abu Hamza?
 *   Cross-Court Winner
-*   Amazon Is a Black Hole Threatening To Devour Corporate...
+*   The World According to Cloud Atlas
 
 More from Slate »
 
-*   Meet The Breastmilk World Record Holder
-*   WATCH: Man Honors Wife's Dying Request With Vaginal...
-*   Homeless Man Allegedly Travels US For 20 Years Using Stolen...
+*   PROVE IT!
+*   Drunk Mom Repeatedly Crashes Car In School Lot: Police
+*   Gone But Not Forgotten: Man Carves Replica Of Wife's...
 
 More from HuffPost Weird »
 
-*   Justin Timberlake Apologizes For That âHomeless Videoâ
-*   Planned Parenthood Files New Lawsuit Against State Of Texas
-*   How Not To Kiss Like A Zombie &. Why Sex Makes You Smarter
+*   Be My Boyfriend: The “People’s Court” Announcer
+*   “Ice Loves Coco” Star Coco Austin Opens Up About Life With...
+*   This Week In Style: Fashion Types Get The Mini-Me Treatment
 
 More from The Frisky »
 
-*   Russian President Putin on 'Pussy Riot': 'They would be at...
-*   North Texas snowflakes' school walk threatened by deadly...
-*   In space, can anyone hear you scream? \[Interesting\]
+*   ♪ Oh yes they call it the streak ♪ The I-96 shooting streak...
+*   Busch Gardens welcomes ugly ass baby white rhino \[Florida\]
+*   The porn industry is "fueled by innocent pictures"...
 
 More from Fark »
 
-*   An argument for jaywalking
-*   5 ways Hurricane Sandy could impact the presidential race
-*   5 smart reads for the weekend
+*   10 things you need to know today: October 28, 2012
+*   To circumcise, or not to circumcise?
+*   10 things you need to know today: October 27, 2012
 
 More from The Week »
 
-*   Juxtaposition of the Day: John McCainâs Increasing...
-*   Harry Reid Hospitalized, But Okay After Motorcade Crash
-*   D.L. Hughley Is Looking Forward to His Next Panhandler...
+*   The New York Times Definitely Doesn't Endorse Mitt Romney
+*   Hurricane Sandy May Make Landfall in Southern Jersey and...
+*   Cannibal Cop's Female Acquaintances Are Justifiably Freaked...
 
 More from Daily Intel »
 
-*   10-Minute Stress-Busters For Better Sleep
-*   Are We Out of Time?
-*   The Power of Forgiveness
+*   5 Sneaky
+*   Chewing on the Future of Food
+*   The Art of Sleeping With the Enemy
 
 More from HuffPost Health »
 
-*   'Real Housewives of Miami' Star Joanna Krupa Goes Nude for...
-*   Jessica Biel's Wedding Dress: Why She Wore Pink
-*   Miranda Kerr Poses in Lingerie for Victoria's Secret...
+*   Blaque's Natina Reed Dead: ‘Bring It On’ Star Struck by Car...
+*   Ashton Kutcher and Mila Kunis: Ice Cream Date in Studio...
+*   Kourtney Kardashian: Halloween Flashback (PHOTOS)
 
 More from Celebuzz »
 
-*   Autistic Boy Reunited With Mom After 5 Nightmarish Years...
-*   Too-Sexy Breast Cancer PSA Totally Misses the Point (VIDEO)
-*   Breath-Holding Toddlers Are Manipulating Terrified Moms
+*   6 Sexy Celeb Looks Inspired by '50 Shades of Grey'
+*   Kindergarten Teacher Brutally Beats Students and It's...
+*   5 Fabulously Fun and Crafty Fall Decorating Ideas
 
 More from The Stir »
 
