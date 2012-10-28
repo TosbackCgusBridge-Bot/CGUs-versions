@@ -1,3 +1,4 @@
+*   Deals
 *   Restaurants
 *   Bars &. Clubs
 *   Spa &. Beauty
@@ -134,6 +135,11 @@ Partner Sites:
 *   Spa &. Beauty
 *   Shopping
 *   Hotels
+*   Deals
+*   Sports &. Recreation
+*   Cafes
+*   Movie Theaters
+*   Directory &. Services
 
 *   Change City
 *   New York City
