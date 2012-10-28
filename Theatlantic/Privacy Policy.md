@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Saturday, October 27, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Sunday, October 28, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -113,17 +113,17 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Just In Robert Wright Oct 26, 2012 Romney Momentum Update: Still Zilch (at Best) 1351309800 Voices
+Just In Andy Heil 9:07 AM ET The Aquarium Politics of the Global Beluga-Whale Trade 1351429661 Voices
 
-*   Robert Wright Romney Momentum Update: Still Zilch (at Best) Oct 26, 2012
+*   Robert Wright Will Undecided Voters Break Toward Romney? Oct 27, 2012
+*   James Fallows RIP TSWI Oct 27, 2012
+*   Steve Clemons GOP Presidents Have Been the Worst Contributors… Oct 27, 2012
 *   Garance Franke-Ruta Richard Mourdock, Mitt Romney and the GOP Defense… Oct 26, 2012
 *   Alexis C. Madrigal Could Gangnam Style Be the First Video to 1… Oct 26, 2012
-*   James Fallows An Interview with Chen Guangcheng: 'Be Confident… Oct 26, 2012
 *   Ta-Nehisi Coates Twilight Of The Elites At MIT Oct 26, 2012
 *   Clive Crook Obama's Mistakes and the Role of Race Oct 25, 2012
 *   Derek Thompson Apple's 'Disappointing' (but Still Pretty… Oct 25, 2012
 *   Jeffrey Goldberg Israel Contemplates a 2-Party System Oct 25, 2012
-*   Steve Clemons VP Debate: Where Was the Gay-Marriage Question? Oct 12, 2012
 
 Correspondents
 
@@ -161,47 +161,47 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Our Commenters Can't Be Fooled by That Fake Obama Birth Video  
+*   The New York Times Endorses Barack Obama  
     
-*   World's Rarest Dog Could Soon Go Extinct. Backstabbing Hermit Crabs  
+*   Berlusconi Wants His Revenge  
     
-*   The Presents Obama and Romney Could Have Bought Us with $2 Billion  
+*   Texting Is Turning Us Into a Nation of Flakes  
     
 
-Last Update: 6:48 PM
+Last Update: 5:57 PM
 
 *   Please Bring This to America: Heated Bike Lanes  
     
 *   The World's Least Boring Gas Stations  
     
-*   The Case for Bus Transfers  
+*   Hurricane Sandy: How Bad Is It Looking, Really?  
     
 
 Last Update: 8:22 PM Most Popular
 
 1
 
-Scientists Recover the Sounds of 19th-Century Music and Laughter From the Oldest Playable American R
+General Failure
 
 2
 
-David Allen on How to Fix Your Life
+The Sex Lives of Conjoined Twins
 
 3
 
-General Failure
+Richard Mourdock, Mitt Romney and the GOP Defense of Coerced Mating
 
 4
 
-The Sex Lives of Conjoined Twins
+Is Big Brother the New Normal? The Supreme Court Will Decide
 
 5
 
-The Simple, Non-Racial Explanation for Why Colin Powell Is Backing Obama
+Hacking the President’s DNA
 
 6
 
-Richard Mourdock, Mitt Romney and the GOP Defense of Coerced Mating
+David Allen on How to Fix Your Life
 
 7
 
@@ -209,15 +209,15 @@ The End of Jazz
 
 8
 
-Hajj 2012, a Sacred Journey
+Surmounting the Insurmountable: Wikipedia Is Nearing Completion, in a Sense
 
 9
 
-Finally, an Effective Way to Rank NFL Quarterbacks
+Ping Pong, BS, and Clint's Chair: The Week's Best Pop-Culture Writing
 
 10
 
-The Consequences of Machine Intelligence
+Why I Refuse to Vote for Barack Obama
 
 *   Subscribe Help
 *   Faq
