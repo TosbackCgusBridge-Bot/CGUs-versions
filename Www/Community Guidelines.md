@@ -37,14 +37,14 @@ Here are some common-sense rules that will help you steer clear of trouble:
 *   YouTube is not a shock site. Don't post gross-out videos of accidents, dead bodies or similar things intended to shock or disgust.
 *   Respect copyright. Only upload videos that you made or that you are authorized to use. This means don't upload videos you didn't make, or use content in your videos that someone else owns the copyright to, such as music tracks, snippets of copyrighted programs, or videos made by other users, without necessary authorizations. Read our Copyright Tips for more information.
 *   We encourage free speech and defend everyone's right to express unpopular points of view. But we don't permit hate speech (speech which attacks or demeans a group based on race or ethnic origin, religion, disability, gender, age, veteran status, and sexual orientation/gender identity).
-*   Things like predatory behavior, stalking, threats, harassment, intimidation, invading privacy, revealing other peopleâs personal information, and inciting others to commit violent acts or to violate the Terms of Use are taken very seriously. Anyone caught doing these things may be permanently banned from YouTube.
-*   Everyone hates spam. Donât create misleading descriptions, tags, titles or thumbnails in order to increase views. It's not okay to post large amounts of untargeted, unwanted or repetitive content, including comments and private messages.
+*   Things like predatory behavior, stalking, threats, harassment, intimidation, invading privacy, revealing other people’s personal information, and inciting others to commit violent acts or to violate the Terms of Use are taken very seriously. Anyone caught doing these things may be permanently banned from YouTube.
+*   Everyone hates spam. Don’t create misleading descriptions, tags, titles or thumbnails in order to increase views. It's not okay to post large amounts of untargeted, unwanted or repetitive content, including comments and private messages.
 
 Please take these rules seriously and take them to heart. Don't try to look for loopholes or try to lawyer your way around the guidelines—just understand them and try to respect the spirit in which they were created. If you'd like more details, check out our Community Guideline Tips.
 
 We Enforce These Guidelines
 
-Okay, this one is more about us than you. YouTube staff review flagged videos 24 hours a day, seven days a week to determine whether they violate our Community Guidelines. When they do, we remove them. Sometimes a video doesnât violate our Community Guidelines, but may not be appropriate for everyone. These videos may be age-restricted. Accounts are penalized for Community Guidelines violations and serious or repeated violations can lead to account termination. If your account is terminated, you wonât be allowed to create any new accounts. For more information about how the Community Guidelines are enforced and the consequences of violating them, please visit the Help Center.
+Okay, this one is more about us than you. YouTube staff review flagged videos 24 hours a day, seven days a week to determine whether they violate our Community Guidelines. When they do, we remove them. Sometimes a video doesn’t violate our Community Guidelines, but may not be appropriate for everyone. These videos may be age-restricted. Accounts are penalized for Community Guidelines violations and serious or repeated violations can lead to account termination. If your account is terminated, you won’t be allowed to create any new accounts. For more information about how the Community Guidelines are enforced and the consequences of violating them, please visit the Help Center.
 
 YouTube is for the Community
 
@@ -73,19 +73,19 @@ Hate Speech
 
 Shocking and Disgusting
 
-The world is a dangerous place. Sometimes people do get hurt and itâs inevitable that these events may be documented on YouTube. However, itâs not okay to post violent or gory content thatâs primarily intended to be shocking, sensational or disrespectful. If a video is particularly graphic or disturbing, it should be balanced with additional context and information. For instance, including a clip from a slaughter house in a video on factory farming may be appropriate. However, stringing together unrelated and gruesome clips of animals being slaughtered in a video may be considered gratuitous if its purpose is to shock rather than illustrate.
+The world is a dangerous place. Sometimes people do get hurt and it’s inevitable that these events may be documented on YouTube. However, it’s not okay to post violent or gory content that’s primarily intended to be shocking, sensational or disrespectful. If a video is particularly graphic or disturbing, it should be balanced with additional context and information. For instance, including a clip from a slaughter house in a video on factory farming may be appropriate. However, stringing together unrelated and gruesome clips of animals being slaughtered in a video may be considered gratuitous if its purpose is to shock rather than illustrate.
 
 Dangerous Illegal Acts
 
-While it might not seem fair to say you canât show something because of what viewers theoretically might do in response, we draw the line at content thatâs intended to incite violence or encourage dangerous, illegal activities that have an inherent risk of serious physical harm or death. This means not posting videos on things like instructional bomb making, ninja assassin training, sniper attacks, videos that train terrorists, or tips on illegal street racing. Any depictions like these should be educational or documentary and shouldnât be designed to help or encourage others to imitate them.
+While it might not seem fair to say you can’t show something because of what viewers theoretically might do in response, we draw the line at content that’s intended to incite violence or encourage dangerous, illegal activities that have an inherent risk of serious physical harm or death. This means not posting videos on things like instructional bomb making, ninja assassin training, sniper attacks, videos that train terrorists, or tips on illegal street racing. Any depictions like these should be educational or documentary and shouldn’t be designed to help or encourage others to imitate them.
 
 Children
 
-Videos involving children (anyone under the age of 18) are particularly sensitive. Videos containing children should never be sexually suggestive or violent. Please be cautious when posting something involving a child. If youâre sharing a private moment or home movie, consider making it a private video so that only your family and friends can see it.
+Videos involving children (anyone under the age of 18) are particularly sensitive. Videos containing children should never be sexually suggestive or violent. Please be cautious when posting something involving a child. If you’re sharing a private moment or home movie, consider making it a private video so that only your family and friends can see it.
 
 Copyright
 
-When you create something original, you own the copyright for it. Likewise, when other people create content, they may have a copyright to it. As a creative community, itâs essential that everyone on YouTube respect the copyrights of others. If youâre not sure if something will violate someoneâs copyright, the safest thing to do is to create something completely original, with images and audio youâve created. If itâs all yours you never have to worry about copyright—you own it. If youâve recorded something from a DVD, videotaped your TV screen, or downloaded a video online, donât post it unless you have permission.
+When you create something original, you own the copyright for it. Likewise, when other people create content, they may have a copyright to it. As a creative community, it’s essential that everyone on YouTube respect the copyrights of others. If you’re not sure if something will violate someone’s copyright, the safest thing to do is to create something completely original, with images and audio you’ve created. If it’s all yours you never have to worry about copyright—you own it. If you’ve recorded something from a DVD, videotaped your TV screen, or downloaded a video online, don’t post it unless you have permission.
 
 Privacy
 
