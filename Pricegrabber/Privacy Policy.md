@@ -15,9 +15,9 @@ My Account
     *   Hsn
     *   Webkinz
     *   Kmart
-    *   Walmart
     *   Counseling
     *   Windows 7
+    *   Walmart
     *   Qvc
     *   Office Max
     *   Iphone
@@ -27,24 +27,24 @@ My Account
     *   Camcorders
     *   Discount Tires
     *   Se
-    *   Radio Shack
     *   At
+    *   Radio Shack
     *   Sears
     *   Tax
     *   T Mobile
     *   Www.yahoo.com
     *   Truck
-    *   Pressure Cookers
     *   Ipod
     *   Att
     *   Contact
+    *   Pressure Cookers
     *   Leappad
     *   Costco
     *   Mp3 Players
-    *   Flowers
     *   Android Tablets
     *   Barnes And Noble
     *   Coupons
+    *   Value City Furniture
     *   More Top Searches
 *   Coupons See all coupons See all rebates
 *   Mobile Apps
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1540 Local Deals
+*   1528 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
@@ -626,4 +626,20 @@ US - English
 
   
 PriceGrabber.com offers the best online shopping experience. Our unique shopping site offers extensive inventory at the lowest prices by comparing products, product reviews and merchant deals for all of your shopping needs. Browse thousands of popular brands, hot products, featured deals and find exactly what you want at discount prices. Shopping online has never been easier! PriceGrabber is an Experian company  
-Copyright ©2012 PriceGrabber.com, Inc. All Rights Reserved
+Copyright ©2012 PriceGrabber.com, Inc. All Rights Reserved What is this? |
+
+*   Facebook Filter by: Your Friends Everyone Your Friends Like Everyone Likes
+*   0Favorites Favorites
+*   0Recently  
+    Viewed Recently Viewed
+*   0Price Alerts Price Alerts
+*   Feedback Feedback
+    
+    We would like your feedback on our site!  
+    \*note: this feedback is not shared with merchants
+    
+    Name:
+    
+    Email:
+    
+    Your comments:
