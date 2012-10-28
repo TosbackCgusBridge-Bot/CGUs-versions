@@ -2,7 +2,8 @@
 YOU MUST BE LOGGED IN TO ACCESS _**THE BEST STUFF**_ ON THIS WEBSITE!!! We treat members right! Don't be drive-by surfer!  
 Connect with the webmaster on EMPIRE AVE AND STAGE 32 Check out my personal webpage ~~ See also AtlantaStagehand.Info  
 Subscribe To Our New Hollywood All-Stars Mailing List  
-Web This Site Click Here For _**Stagehand.Postano.Com**_  
+Web This Site USE OF THIS FACILITY UNDER AUTHORIZED SUPERVISION ONLY :::::: THIS PROGRAM BROUGHT TO YOU IN LIVING COLOR :::::::::::::::: OVER THE NEXT  
+SEVERAL MONTHS WE WILL BE CONDUCTING A HOTFIRE TEST OF A 14,000 WATT ANDROID DEVICE IN A MISSION TEST TO SEE IF WE CAN ACHIEVE A NEXT LEVEL ORBIT ================================================================================================================================================= Click Here For _**Stagehand.Postano.Com**_  
   
 Read the daily tweeted news at Paper.Li 'Come not between the dragon and his wrath.'  
 'Out, out, brief candle! Life's but a walking  
