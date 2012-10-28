@@ -512,9 +512,9 @@ If you have questions about this Privacy Policy, please send an email to the app
 *   F1: Grand Prix News Briefs (Update 2)
 *   CUP: Hamlin’s Martinsville History Speaks...
 
+*   Juco Big Man Picks DePaul
+*   Syracuse at USF: Analysis of the Defense
 *   Cardinals Arizona Fall League Report: Week 2
-*   QUOTES: Duke v. W. Washington
-*   TCN St. Louis 2012 Player of the Year
 
 *   Carlos Condit Prefight Interview: UFC 154
 *   UFC Unrestricted – A FUEL TV Special
