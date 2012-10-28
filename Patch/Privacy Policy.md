@@ -55,7 +55,7 @@ You should be aware that personally identifiable information which you voluntari
 
 Protection for Children
 
-We have no intention of collecting personal information from children under the age of 13. When we become aware that personal information from a child under 13 has been collected without such childâs parent or guardianâs consent, we will use all reasonable efforts to delete such information from our database.
+We have no intention of collecting personal information from children under the age of 13. When we become aware that personal information from a child under 13 has been collected without such child’s parent or guardian’s consent, we will use all reasonable efforts to delete such information from our database.
 
 Other Web Sites
 
@@ -103,4 +103,4 @@ Patch Initiatives
 
 *   PatchU
 
-Copyright Â© 2012 Patch. All Rights Reserved.
+Copyright © 2012 Patch. All Rights Reserved.
