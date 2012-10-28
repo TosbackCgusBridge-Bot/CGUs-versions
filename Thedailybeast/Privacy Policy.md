@@ -146,10 +146,10 @@ Stories We Like
   Most Popular
 
 1.  Why Obama Will Win
-2.  My Proof of Heaven
-3.  The Week’s Best Reads
-4.  Will Barack Become Poppy?
-5.  ‘Frankenstorm’ Is Right
+2.  What Newt Can Teach Obama
+3.  My Proof of Heaven
+4.  The Sandy Scramble
+5.  The Des Moines Register's Practical Joke
 
   Other News Entertainment
 
@@ -160,23 +160,23 @@ Stories We Like
 
 Entertainment
 
+*   Lena Dunham amused by reaction to her Barack Obama ‘first time’ ad
+*   ‘Fun Size’: The EW Exit Poll
 *   ‘Cloud Atlas’: The biggest changes from the book to the movie
-*   Obama answers young voter questions for MTV, addresses same-sex marriage, climate change
-*   The new ‘Safe Haven’ poster reminds us of something
 *   **Get More from EW.com**
 
 Entertainment
 
-*   The Akin Effect: Did "Legitimate Rape" Make Mourdock's Gaffe Worse?
-*   Mitt Romney Finally Has The Campaign He Wanted
-*   Obama "Expects" DOMA Will Be Found Unconstitutional
+*   Barack Obama Tries To Show He Wants It
+*   Both Parties Stunned When Des Moines Register Endorses Romney
+*   Romney Wrestles With Ohio's Recovery
 *   **Get More from Buzz Feed**
 
 Politics
 
 *   Latest Swing State Polls
-*   Akin Narrows Gap with McCaskill
-*   Polls Suggest Split Between Popular and Electoral Vote
+*   Another DesJarlais Girlfriend Comes Forward
+*   Swing State Races Remain Remarkably Stable
 *   **Get More from Political Wire**
 
 The Daily Beast
