@@ -24,8 +24,8 @@ Close
 
 Change Location
 
-Savings of over $284,747!   13,651 sales and 200 coupons right now.  
-ShopLocal.com Weekly Ads B 1440 Terms of Use and Privacy Policy Terms of Use
+Savings of over $187,187!   14,343 sales and 198 coupons right now.  
+ShopLocal.com Weekly Ads A 1440 Terms of Use and Privacy Policy Terms of Use
 
 Last Updated: January 26th, 2010
 
@@ -47,7 +47,7 @@ Section 2. Copyright and Other Restrictions On Use of the Website and Website Co
 
 (b) Copyright. Prohibition Against Copying. The contents of the Website, such as the compilation and arrangement of content including text, graphics, images and other materials, and the hypertext markup language (HTML), scripts, active server pages (ASP), content provided by RSS feed, Atom feed or other web feed or other content or software used in or provided through the Website (the "Material"), are protected by copyright under both United States and foreign laws. All rights reserved. Unauthorized use of the Material may violate copyright, trademark, and other laws. Regardless of the extent to which the Material is protected by copyright you agree that you may not sell or modify the Material or copy, display, retransmit, distribute, disseminate, sell, publish, broadcast, or otherwise use Material in any form or media for any public or commercial purpose, including the generation of derivative material, except as expressly permitted by ShopLocal. You must retain all copyright and other proprietary notices contained in the original Material on any copy you make of the Material. The use of the Material on any other Website or other telecommunication media or in a networked computer environment for any purpose, without the prior express written permission of ShopLocal, is prohibited.
 
-(c) Trademark. ShopLocalâ¢, the ShopLocalâ¢ logo, ShopLocal.comâ¢, the ShopLocal.comâ¢ logo, SalesHoundÂ®, SalesHound.comÂ®, the SalesHound.com logo, SmartCircularâ¢, SmartMediaâ¢, Eva the Shopping Divaâ¢, Save Time and Money Online and In Storeâ¢ and other marks are tradenames and trademarks of ShopLocal. ShopLocal's tradename and trademarks may not be used by the user in connection with any product or service that is not offered by ShopLocal, in any manner that is likely to cause confusion in the marketplace, or that disparages or discredits ShopLocal.
+(c) Trademark. ShopLocal™, the ShopLocal™ logo, ShopLocal.com™, the ShopLocal.com™ logo, SalesHound®, SalesHound.com®, the SalesHound.com logo, SmartCircular™, SmartMedia™, Eva the Shopping Diva™, Save Time and Money Online and In Store™ and other marks are tradenames and trademarks of ShopLocal. ShopLocal's tradename and trademarks may not be used by the user in connection with any product or service that is not offered by ShopLocal, in any manner that is likely to cause confusion in the marketplace, or that disparages or discredits ShopLocal.
 
 Section 3. Disclaimer of Liability
 
@@ -65,7 +65,7 @@ Section 5. Indemnity and Release
 
 (a) As a material inducement to provide you with use of the Website, you hereby indemnify, defend and hold ShopLocal, and its officers, directors, owners, agents, partners, information providers, and affiliates (collectively, the "Indemnified Parties") harmless from and against any and all damages, liability, claims, actions, demands and costs incurred by the Indemnified Parties in connection with any claim arising out of any breach by you of this Agreement, including, reasonable attorneys' fees and costs.
 
-(b) If you have a dispute involving the Website with a third party, you release each of the Indemnified Parties from all damages, liability, claims, actions, demands and costs of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way connected with such disputes. If you are a California resident, you waive California Civil Code Â§1542, which says: "A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor."
+(b) If you have a dispute involving the Website with a third party, you release each of the Indemnified Parties from all damages, liability, claims, actions, demands and costs of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way connected with such disputes. If you are a California resident, you waive California Civil Code §1542, which says: "A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor."
 
 Section 6. User Information and Privacy
 
@@ -182,7 +182,7 @@ McLean, VA 22107
 
 Retailers
 
-Target |  Best Buy |  Staples |  Walgreens |  CVS |  Meijer |  Kohl's |  Stop &. Shop |  Office Depot |  JCPenney |  Kmart |  Winn-Dixie |  Sears |  Michaels |  Macy's |  Giant Food |  Home Depot |  Office Max |  Radio Shack |  Jo-Ann Stores |  Sports Authority |  Toys R Us |  Lowe's |  ShopKo |  Bon-Ton |  Ulta |  Dick's Sporting Goods |  PetCo |  Gander Mountain |  Albertsons |  Jewel/Osco |  Shawâs
+Target |  Best Buy |  Staples |  Walgreens |  CVS |  Meijer |  Kohl's |  Stop &. Shop |  Office Depot |  JCPenney |  Kmart |  Winn-Dixie |  Sears |  Michaels |  Macy's |  Giant Food |  Home Depot |  Office Max |  Radio Shack |  Jo-Ann Stores |  Sports Authority |  Toys R Us |  Lowe's |  ShopKo |  Bon-Ton |  Ulta |  Dick's Sporting Goods |  PetCo |  Gander Mountain |  Albertsons |  Jewel/Osco |  Shaw’s
 
 Site Features
 
