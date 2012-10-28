@@ -1,6 +1,6 @@
 (skip this header)
 
-Sunday Oct 28, 2012 6:11 AM PT
+Sunday Oct 28, 2012 7:32 AM PT
 
 ° (change)
 
@@ -60,10 +60,10 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
+*   Pics: Chic Halloween looks
 *   Bird poops on anchor live
 *   Voting like losing virginity
 *   130 proof beer
-*   Berkeley newts mowed down
 *   Series tickets
 *   Chronicle endorses Obama
 
@@ -391,8 +391,8 @@ Ads by Yahoo! Photo Galleries
 3.  Incredible (and freaky!) pumpkin carvings
 4.  Spooked cow tramples Palestinian at Muslim feast
 5.  Low-drama Giants belie torture of 2010
-6.  Magnitude 7.7 quake strikes off western Canada
-7.  Ryan Vogelsong pitches SF Giants to brink of a World Series title
+6.  Minerva's Horoscope for Sunday, 10/28/12
+7.  All-time best cars made
 
 1.  Giants shut out Tigers, one win away
 2.  SF mayor presses Mirkarimi on recusal
@@ -402,13 +402,13 @@ Ads by Yahoo! Photo Galleries
 6.  Trooper fired from chopper to stop truck, kills 2
 7.  Prop. 37 support slips in polls
 
-1.  Incredible (and freaky!) pumpkin carvings
-2.  Chronicle recommends: Re-elect Obama
-3.  Bill Plaschke: Giants surpass Dodgers
-4.  Spooked cow tramples Palestinian at Muslim feast
-5.  Giants shut out Tigers, one win away
+1.  Giants shut out Tigers, one win away
+2.  Mayor Lee, bury hatchet over sheriff case
+3.  Spooked cow tramples Palestinian at Muslim feast
+4.  'Big Picture: Rethinking Dyslexia' review
+5.  Fans paint town black and orange
 6.  AP poll: Majority harbor prejudice against blacks
-7.  Tiburon women's tree damage award upheld
+7.  Citigroup Said to Fire Mark Mahaney, Settles Facebook IPO Case
 
 loading... Latest News Videos From our homepage
 
@@ -425,7 +425,7 @@ loading... Latest News Videos From our homepage
     
     All-time best cars
     
-    From a 1990 Corvette to a 1932 Ford, here are our top 50.
+    From a 1990 Corvette to a 1932 Ford, here are the top 50.
     
 *   And the 50 worst cars - ever
 
