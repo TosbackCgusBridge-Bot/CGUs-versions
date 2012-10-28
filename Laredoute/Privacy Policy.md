@@ -1,28 +1,28 @@
-NÂ°1 des sites Habillement &. Maison Le Mag' Commander avec les références catalogue Suivre mes commandes Offres exclusives 10€ offerts
+N°1 des sites Habillement &. Maison Le Mag' Commander avec les références catalogue Suivre mes commandes Offres exclusives 10€ offerts
 
-Laissez-nous votre e-mail et recevez nos offres exclusives et vos 10â¬ offerts
+Laissez-nous votre e-mail et recevez nos offres exclusives et vos 10€ offerts
 
 Aide Mon compte Me connecter **Mon panier** Mon compte
 
-*   GÃ©rer mon compte
-*   Voir mes prÃ©fÃ©rÃ©s
+*   Gérer mon compte
+*   Voir mes préférés
 *   M'inscrire aux newsletters
 *   Parrainer mes ami(e)s
-*   Mes offres spÃ©ciales
+*   Mes offres spéciales
 
 Mes commandes
 
 *   Suivre mes commandes
-*   Retourner ou Ã©changer
+*   Retourner ou échanger
 *   Recevoir un catalogue
 *   Trouver mon point de livraison
 
-Mes services privilÃ¨ges
+Mes services privilèges
 
-*   DÃ©couvrez R premium
-*   DÃ©couvrez R express
+*   Découvrez R premium
+*   Découvrez R express
 
-**X**Me dÃ©connecter Mon compte
+**X**Me déconnecter Mon compte
 
 *   FEMME
 *   HOMME
@@ -45,30 +45,30 @@ Mes services privilÃ¨ges
 *   LES  
     AUBAINES
 
-Rechercher : Dans tout le siteFemmeEnfantHommeGrandes taillesLingerieChaussures, AccessoiresSportLinge de maisonMeubles, DÃ©coLiterieÃlectromÃ©nager, BeautÃ©Image, Son, Jeux, MicroLes Aubaines Accueil >. DonnÃ©es personnelles DonnÃ©es personnelles Lors de vos visites sur notre site, nous pouvons vous demander des informations par le biais de questionnaires, formulaires et notamment lors de la création de votre compte client.  
+Rechercher : Dans tout le siteFemmeEnfantHommeGrandes taillesLingerieChaussures, AccessoiresSportLinge de maisonMeubles, DécoLiterieÉlectroménager, BeautéImage, Son, Jeux, MicroLes Aubaines Accueil >. Données personnelles Données personnelles Lors de vos visites sur notre site, nous pouvons vous demander des informations par le biais de questionnaires, formulaires et notamment lors de la création de votre compte client.  
 Les informations demandées, signalées par un astérisque, sont obligatoires. Elles sont nécessaires au traitement de vos demandes. En cas de non réponse, La Redoute ne pourra y répondre.  
-Les autres informations sont destinées à mieux vous connaÃ®tre et sont, par conséquent, facultatives. Vous êtes libre de ne pas y répondre.  
+Les autres informations sont destinées à mieux vous connaître et sont, par conséquent, facultatives. Vous êtes libre de ne pas y répondre.  
   
 Ces informations sont destinées à La Redoute, responsable du traitement, aux fins d'enregistrement et de traitement de vos commandes, de gestion de votre compte client, d'études marketing et statistiques dans le but de vous fournir les offres les plus adaptées, de suivi de qualité de nos services et de prospection commerciale.  
   
 La Redoute vous adressera ses offres commerciales par mail, sms, téléphone si vous l'avez accepté et par voie postale, si vous ne vous y êtes pas opposé lors du recueil de vos données.  
-A tout moment, vous gardez la possibilité de vous opposer sans frais à la prospection commerciale de La Redoute, en vous connectant sur le site dans votre espace client (rubrique Â« je modifie mes coordonnées personnelles Â») , ou en envoyant un courrier à La Redoute â Service Relations Clients â 59081 Roubaix Cedex 2.  
+A tout moment, vous gardez la possibilité de vous opposer sans frais à la prospection commerciale de La Redoute, en vous connectant sur le site dans votre espace client (rubrique « je modifie mes coordonnées personnelles ») , ou en envoyant un courrier à La Redoute – Service Relations Clients – 59081 Roubaix Cedex 2.  
   
 Sauf opposition de votre part lors du recueil de vos données, les informations vous concernant pourront être communiquées aux partenaires commerciaux de La Redoute, être transmises à d'autres entreprises du groupe Redcats et PPR, qui pourront vous envoyer leurs offres commerciales par courrier.  
   
-Les informations recueillies pourront éventuellement être communiquées à des tiers liés à La Redoute par contrat pour l'exécution de tÃ¢ches sous-traitées nécessaires à la gestion de votre compte, de vos commandes et paiements.  
+Les informations recueillies pourront éventuellement être communiquées à des tiers liés à La Redoute par contrat pour l'exécution de tâches sous-traitées nécessaires à la gestion de votre compte, de vos commandes et paiements.  
   
 Vos données personnelles pourront notamment, en raison de la sous-traitance partielle du traitement, faire l'objet d'un transfert vers un prestataire téléphonique établi en Tunisie ou au Maroc pour la gestion des appels. Ce prestataire s'est engagé contractuellement à garantir un niveau de sécurité, de confidentialité et de protection suffisant de la vie privée et des droits fondamentaux.  
   
 Dans le cadre du suivi de la qualité et de la formation de notre service clients, certains appels téléphoniques peuvent être enregistrés.  
   
-**Conformément à la Loi Informatique et Libertés du 06/01/1978, vous disposez d'un droit d'accès, de rectification et de suppression des données vous concernant et d'opposition à leur traitement. Si vous souhaitez l'exercer, vous pouvez écrire à La Redoute â Service Relations Clients â 59081 Roubaix Cedex 2, en indiquant vos nom, prénom, adresse, email et si possible référence client afin d'accélérer la prise en compte de votre demande.**  
+**Conformément à la Loi Informatique et Libertés du 06/01/1978, vous disposez d'un droit d'accès, de rectification et de suppression des données vous concernant et d'opposition à leur traitement. Si vous souhaitez l'exercer, vous pouvez écrire à La Redoute – Service Relations Clients – 59081 Roubaix Cedex 2, en indiquant vos nom, prénom, adresse, email et si possible référence client afin d'accélérer la prise en compte de votre demande.**  
   
-Vous pouvez à tout moment avoir accès et changer les informations concernant vos coordonnées dans votre espace client à la rubrique Â« modification de votre compte Â» et gérer vos newsletters à la rubrique Â« modification de vos newsletters Â».  
+Vous pouvez à tout moment avoir accès et changer les informations concernant vos coordonnées dans votre espace client à la rubrique « modification de votre compte » et gérer vos newsletters à la rubrique « modification de vos newsletters ».  
   
-Lors de votre visite sur notre site, nous souhaitons implanter un cookie dans votre ordinateur. Un cookie ne nous permet pas de vous identifier . en revanche, il enregistre des informations relatives à la navigation de votre ordinateur sur notre site (les pages que vous avez consultées, la date et heure de consultation etcâ¦) que nous pourrons lire lors de vos visites ultérieures. Nous vous informons que vous pouvez vous opposer à l'enregistrement de cookies en configurant votre navigateur à partir du menu Â« outils Â» et Â« options Â».  
+Lors de votre visite sur notre site, nous souhaitons implanter un cookie dans votre ordinateur. Un cookie ne nous permet pas de vous identifier . en revanche, il enregistre des informations relatives à la navigation de votre ordinateur sur notre site (les pages que vous avez consultées, la date et heure de consultation etc…) que nous pourrons lire lors de vos visites ultérieures. Nous vous informons que vous pouvez vous opposer à l'enregistrement de cookies en configurant votre navigateur à partir du menu « outils » et « options ».  
   
-Nous pouvons être amené à utiliser vos données de navigation par le biais de cookies gérés par un partenaire. Les données utilisées sont strictement anonymes et font l'objet d'un traitement purement statistique. Ainsi vous pourrez voir s'afficher des bannières personnalisées. Si vous ne souhaitez plus voir ce type de bannières apparaÃ®tre et/ou obtenir davantage d'informations sur ce procédé, il suffit de vous rendre à l'adresse suivante : http://www.criteo.com/index.php/fr/solutions/charte-de-respect-de-la-vie-privée
+Nous pouvons être amené à utiliser vos données de navigation par le biais de cookies gérés par un partenaire. Les données utilisées sont strictement anonymes et font l'objet d'un traitement purement statistique. Ainsi vous pourrez voir s'afficher des bannières personnalisées. Si vous ne souhaitez plus voir ce type de bannières apparaître et/ou obtenir davantage d'informations sur ce procédé, il suffit de vous rendre à l'adresse suivante : http://www.criteo.com/index.php/fr/solutions/charte-de-respect-de-la-vie-privée
 
 **Ce site est édité par LA REDOUTE.**  
 **Siège social** : 57 rue de Blanchemaille 59100 Roubaix  
@@ -78,13 +78,13 @@ B 477 180 186 - RCS de Roubaix-Tourcoing **Directeur de la publication** : Natha
 75381 Paris Cedex 08  
 generalcounsel@redcatusa.com  
 **PROFITEZ-EN !** Vous retournez un article : votre nouvelle commande  
-enregistrée immédiatement est livrée **GRATUITEMENT !** Â Â Â Â Â Â Â  DEVENIR FAN ! 890 000 et + PARTAGER AVEC SES PROCHES
+enregistrée immédiatement est livrée **GRATUITEMENT !**         DEVENIR FAN ! 890 000 et + PARTAGER AVEC SES PROCHES
 
 *   +1500
 
 SUIVRE LA REDOUTE PARTOUT !
 
-*   iPhone, iPad, AndroÃ¯d, Windows Phone, site mobile.
+*   iPhone, iPad, Androïd, Windows Phone, site mobile.
 
 RECEVOIR NOS MEILLEURES OFFRES
 
@@ -93,7 +93,7 @@ RECEVOIR NOS MEILLEURES OFFRES
 
 NOUS CONTACTER
 
-*   (0,34â¬/min + surcoÃ»t Ã©ventuel de l'opÃ©rateur)
+*   (0,34€/min + surcoût éventuel de l'opérateur)
 *   Demander un catalogue
 *   Nous contacter par e-mail
 
@@ -108,8 +108,8 @@ DÉCOUVRIR LES MARQUES DE LA REDOUTE
 *   Grandes tailles **Taillissime**
 *   Marque **Anne Weyburn**
 *   **Les Aubaines** pas cher
-*   **Les Ventes PrivÃ©es** by La Redoute
-*   Nos **sites spÃ©cialisÃ©s &. partenaires**
+*   **Les Ventes Privées** by La Redoute
+*   Nos **sites spécialisés &. partenaires**
 
 *   Conditions générales de vente
 *   Conditions générales Marketplace
@@ -117,9 +117,9 @@ DÉCOUVRIR LES MARQUES DE LA REDOUTE
 *   \* Les conditions de l'offre
 *   \*\* Les conditions des facilités de paiement
 
-La Redoute : achat en ligne, code promo, livraison Ã  domicile ou en relais colis, reprise ou Ã©change gratuit. Livraison 24H chrono ou sur RDV. Large choix de produits de marque. Les plus grandes marques sont au catalogue de La Redoute. 14 modes de paiement sÃ©curisÃ©s sont acceptÃ©s dont la carte bleue, la carte cadeau KadÃ©os, le paiement Ã  la livraison et Paypal. PossibilitÃ© de payer en plusieurs fois avec La Carte "R premium" ou la Carte "Kangourou" mÃªme pendant les soldes.
+La Redoute : achat en ligne, code promo, livraison à domicile ou en relais colis, reprise ou échange gratuit. Livraison 24H chrono ou sur RDV. Large choix de produits de marque. Les plus grandes marques sont au catalogue de La Redoute. 14 modes de paiement sécurisés sont acceptés dont la carte bleue, la carte cadeau Kadéos, le paiement à la livraison et Paypal. Possibilité de payer en plusieurs fois avec La Carte "R premium" ou la Carte "Kangourou" même pendant les soldes.
 
-\*Un crÃ©dit vous engage et doit Ãªtre remboursÃ©. VÃ©rifiez vos capacitÃ©s de remboursement avant de vous engager.
+\*Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager.
 
 *   Plan du site
 *   Plan pour Ipad
@@ -141,7 +141,7 @@ Un e-mail automatique de confirmation vient d'être envoyé à l'adresse e-mail 
 L'adresse est incorrecte ? Corrigez-la en fermant cette fenêtre et en saisissant une nouvelle adresse.  
   
 Vous ne retrouvez pas notre e-mail de confirmation ?  
-Merci de vérifier si vous ne l'avez pas reÃ§u parmi vos Â« courriers indésirables ou spam Â» .  
+Merci de vérifier si vous ne l'avez pas reçu parmi vos « courriers indésirables ou spam » .  
   
 Astuce : pour bien recevoir nos offres nous vous invitons à ajouter **laredoute@fr.redoute.com**  
 à votre carnet d'adresses !  
@@ -161,11 +161,11 @@ Fermer
 
 Vous venez d'ajouter au panier le(s) produit(s) suivant(s) :
 
-88,50 â¬
+88,50 €
 
 Total des articles sélectionnés :
 
-61,94 â¬
+61,94 €
 
 \* Hors éco-participation \* Hors éco-participation
 
@@ -178,26 +178,26 @@ Economisez jusqu'à -36% sur ces produits !
 
 à partir de
 
-Merci de sÃ©lectionner une taille et une couleur
+Merci de sélectionner une taille et une couleur
 
-Vendu et expÃ©diÃ© par : LA REDOUTE
+Vendu et expédié par : LA REDOUTE
 
 Offre valable jusqu'au 02/01/2014 dans la limite des stocks disponibles.
 
-Vous venez dâajouter un article Marketplace Ã  votre panier.  
-Pour dÃ©couvrir les conditions de vente et de livraison de ce vendeur, cliquez-ici
+Vous venez d’ajouter un article Marketplace à votre panier.  
+Pour découvrir les conditions de vente et de livraison de ce vendeur, cliquez-ici
 
 Nouveau !
 
-de vendeurs, de marques, de produits DÃ©couvrez la Marketplace by La Redoute
+de vendeurs, de marques, de produits Découvrez la Marketplace by La Redoute
 
 Vous venez d'ajouter à vos préférés le(s) produit(s) suivant(s) :
 
-88,50 â¬
+88,50 €
 
 Total des articles sélectionnés :
 
-61,94 â¬
+61,94 €
 
 \* Hors éco-participation
 
