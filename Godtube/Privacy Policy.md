@@ -14,7 +14,7 @@
 *   Comedy Videos
 *   Cute Videos
 *   Sermons
-*   EspaÃ±ol
+*   Español
 
   HomePrivacy Policy Privacy Policy
 
@@ -106,7 +106,7 @@ VIDEO*   Best of 2010
 *   Inspirational Videos
 *   Comedy Videos
 *   Cute Videos
-*   EspaÃ±ol Videos
+*   Español Videos
 *   Education Videos
 *   Kids' Videos
 *   Sermon Videos
