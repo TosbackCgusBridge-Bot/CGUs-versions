@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (9.1 MB) Top Mac Downloads 1 Cooking Dash 2 Diner Dash 3 Diner Dash 2 Restaurant Rescue 4 Wedding Dash 5 SpongeBob SquarePants Diner Dash 6 Diner Dash Flo on the Go 7 Hotel Dash: Suite Success 8 Dairy Dash 9 Wedding Dash 4 - Ever 10 Hotel Dash 2: Lost Luxuries » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (23.6 MB) Top Mac Downloads 1 Cooking Dash 2 Diner Dash 3 Diner Dash 2 Restaurant Rescue 4 Wedding Dash 5 SpongeBob SquarePants Diner Dash 6 Diner Dash Flo on the Go 7 Hotel Dash: Suite Success 8 Dairy Dash 9 Wedding Dash 4 - Ever 10 Hotel Dash 2: Lost Luxuries » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
