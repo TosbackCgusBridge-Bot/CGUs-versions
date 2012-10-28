@@ -9,7 +9,7 @@ Last updated: May 29, 2012
 
 Privacy Policy
 
-This Privacy Policy will answer frequently asked questions about the kinds of information we or our agents collect and how it is used. Delta reserves the right to modify this Privacy Policy at any time and without prior notice. We will post any changes on delta.com so please check regularly for the most recent version of our Privacy Policy. While this Policy is not a contract and does not create any legal rights, it does serve as an expression of Delta?s commitment to protecting personally identifiable information.
+This Privacy Policy will answer frequently asked questions about the kinds of information we or our agents collect and how it is used. Delta reserves the right to modify this Privacy Policy at any time and without prior notice. We will post any changes on delta.com so please check regularly for the most recent version of our Privacy Policy. While this Policy is not a contract and does not create any legal rights, it does serve as an expression of Deltas commitment to protecting personally identifiable information.
 
 If you have any further questions or comments, contact us using the Email Us page.
 
@@ -48,7 +48,7 @@ We ask that you keep your information as up-to-date as possible so you may get t
 
 With whom does Delta share my personally identifiable information?
 
-We do not sell your name or other personally identifiable information to third parties, and do not intend to do so in the future. We routinely share your information with our SkyMiles Partners and Promotional Partners and our subsidiaries including Delta Connection? Carriers. From time to time, we may engage third parties to process your information on our behalf. however, Delta requires that these third parties comply with Delta?s Privacy Policy when processing this information. When you purchase services or products through Delta that are to be provided by another party (for example, a travel segment on another carrier, hotel accommodations, or rental car), we share your information with the third-party so that the third-party can provide the services or products you requested. We may also receive information about you from the third-party providers. We may share with third parties anonymous, aggregated information about all our users.
+We do not sell your name or other personally identifiable information to third parties, and do not intend to do so in the future. We routinely share your information with our SkyMiles Partners and Promotional Partners and our subsidiaries including Delta Connection® Carriers. From time to time, we may engage third parties to process your information on our behalf. however, Delta requires that these third parties comply with Deltas Privacy Policy when processing this information. When you purchase services or products through Delta that are to be provided by another party (for example, a travel segment on another carrier, hotel accommodations, or rental car), we share your information with the third-party so that the third-party can provide the services or products you requested. We may also receive information about you from the third-party providers. We may share with third parties anonymous, aggregated information about all our users.
 
 Please note that the security regulations of several countries may require us to provide foreign and domestic government agencies with access to the data you disclose to us and datat that we ave about you and your travel plans, history, or status.
 
@@ -60,9 +60,9 @@ How does Delta use cookies, tags, and similar technologies?
 
 Delta uses cookies, tags, and other similar technologies. These technologies allow us to recognize your preference information, keep track of your purchases, remember your SkyMiles number and facilitate effective site administration. We use the information we collect to enhance your visit to delta.com and to provide you with information tailored to your needs.
 
-You may elect to refuse cookies. however, doing so may affect your use of some portions of Delta?s and our partners? web services. Please refer to your browser Help instructions to learn more about cookies.
+You may elect to refuse cookies. however, doing so may affect your use of some portions of Delta’s and our partners’ web services. Please refer to your browser Help instructions to learn more about cookies.
 
-Delta has engaged third party tracking and advertising providers such as DoubleClick to act on Delta's behalf to track and analyze your usage of our sites through the use of cookies, pixel tags / web beacons, and similar technologies. These third parties collect, and share with us, as we may request, web site usage information about visits to our sites, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our sites, help us target our Internet banner advertisements on our sites and on other sites, and track use of our Internet banner advertisements and other links from our marketing partners' sites to our sites. The information collected on Delta?s behalf by these third parties does not contain your name, address, email address, or any other personally identifiable information. To see further information about cookies on delta.com and opt out of some as you choose, see the descriptions and links  below.  To continue to accept cookies and browse normally on delta.com, click here.
+Delta has engaged third party tracking and advertising providers such as DoubleClick to act on Delta's behalf to track and analyze your usage of our sites through the use of cookies, pixel tags / web beacons, and similar technologies. These third parties collect, and share with us, as we may request, web site usage information about visits to our sites, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our sites, help us target our Internet banner advertisements on our sites and on other sites, and track use of our Internet banner advertisements and other links from our marketing partners' sites to our sites. The information collected on Delta’s behalf by these third parties does not contain your name, address, email address, or any other personally identifiable information. To see further information about cookies on delta.com and opt out of some as you choose, see the descriptions and links  below.  To continue to accept cookies and browse normally on delta.com, click here.
 
 Types of cookies and tags on our site:
 
@@ -92,13 +92,13 @@ You may request to be removed from Delta's informational and promotional email s
 *   You may call our Customer Care Offices at +1-404-773-0305 if you have any questions about changing your contact preference or require assistance in removing your name from our subscription lists.
 *   Assistance in changing contact preferences for those with disabilities is available at +1-404-209-3434.
 
-How does Delta comply with the Children?s Online Privacy Protection Act(COPPA)?
+How does Delta comply with the Children’s Online Privacy Protection Act(COPPA)?
 
 Delta does not knowingly collect personal identifiable information from children under the age of 13. If a child under 13 has provided us with personal information without parental or guardian consent, the parent or guardian may contact us by using the Email Us page, and we will remove the information and unsubscribe the child from any promotional contact opportunities.
 
 Links
 
-This site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of those sites, and Delta?s Privacy Policy does not apply to information collected from you by those sites. We encourage you to read the privacy statements of each site that collects information from you. When you are leaving our site via a link to interact with a site that is not governed by our privacy policy, a new browser window will open. If your interaction with our site will require sending your information to a third-party site that is not governed by our privacy policy, we will clearly inform you before your information is sent.
+This site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of those sites, and Delta’s Privacy Policy does not apply to information collected from you by those sites. We encourage you to read the privacy statements of each site that collects information from you. When you are leaving our site via a link to interact with a site that is not governed by our privacy policy, a new browser window will open. If your interaction with our site will require sending your information to a third-party site that is not governed by our privacy policy, we will clearly inform you before your information is sent.
 
 How is my personally identifiable information protected?
 
