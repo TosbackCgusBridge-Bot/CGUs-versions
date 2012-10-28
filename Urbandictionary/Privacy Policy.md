@@ -1,4 +1,4 @@
-look up any word: word of the day dictionary thesaurus names media store add edit blog random A B C D E F G H I J K L M N O P Q R S T U V W X Y Z # new favorites tv
+look up any word, like bootylicious: word of the day dictionary thesaurus names media store add edit blog random A B C D E F G H I J K L M N O P Q R S T U V W X Y Z # new favorites tv
 
 **Privacy Policy**
 
@@ -53,7 +53,7 @@ Or by mail at: Urban Dictionary LLC, Attn: Privacy Policy Inquiries, PO Box 7775
 
 Updated: November 2008
 
-Copyright Â© 2008 Urban Dictionary, LLC
+Copyright © 2008 Urban Dictionary, LLC
 
 Urban Dictionary ©1999-2012 terms of service privacy feedback remove advertise technology jobs api add via **rss**  
 or **google calendar** add **urban dictionary**  
