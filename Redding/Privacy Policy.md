@@ -174,6 +174,9 @@ Record Searchlight
 *   Cars
 *   Classified
 
+*   Part 1 of 3: Exclusive look into Boy Scouts confidential files.
+    
+
 Privacy Policy Redding.com Privacy Policy
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
@@ -267,25 +270,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Charles Krauthammer: Obama stoops, doesn't conquer Published 10/26/2012 at 12:00 a.m. 158 comments
-*   UPDATED: Three-vehicle collision on Hartnell Avenue Updated 10/26/2012 at 4:14 p.m. 25 comments
-*   Police: Shot fired into Redding apartment Published 10/26/2012 at 11:15 a.m. 31 comments
-*   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 17 comments
-*   UPDATED: Parolee alledly kidnapps two people, leads deputies on chase Updated 10/26/2012 at 10:16 p.m. 14 comments
+*   AP poll: Majority harbor prejudice against blacks Published 10/27/2012 at 11:15 a.m. 149 comments
+*   Alex Landi: Obama creates own 'October surprise' Published 10/27/2012 at 12:00 a.m. 129 comments
+*   Missing boy, 11, found walking on Interstate 5 Published 10/27/2012 at 3:30 p.m. 5 comments
+*   UPDATED: Parolee allegedly kidnaps two people, leads deputies on chase Updated 10/27/2012 at 10:21 a.m. 50 comments
+*   Editorial: Glib state of denial is wrong answer on climate change Published 10/27/2012 at 12:00 a.m. 90 comments
 
-Photo Galleries AAUW Tour Pierson home Enterprise wins the River Bowl From the Hearth Cafe drive-thru
+Photo Galleries Enterprise wins the River Bowl AAUW Tour Pierson home From the Hearth Cafe drive-thru
 
-*   Charles Krauthammer: Obama stoops, doesn't conquer Published 10/26/2012 at 12:00 a.m. 158 comments
-*   Thomas Sowell: Libya and the administration's lies Published 10/24/2012 at 12:00 a.m. 125 comments
-*   Neither Obama nor Romney can quickly improve economy, expert tells Redding audience Published 10/24/2012 at 12:16 a.m. 98 comments
-*   US may soon become world's top oil producer Published 10/24/2012 at 4:00 a.m. 99 comments
-*   GOP candidates in close races disavow rape remark Published 10/25/2012 at 4:00 a.m. 79 comments
+*   Charles Krauthammer: Obama stoops, doesn't conquer Published 10/26/2012 at 12:00 a.m. 166 comments
+*   AP poll: Majority harbor prejudice against blacks Published 10/27/2012 at 11:15 a.m. 149 comments
+*   Alex Landi: Obama creates own 'October surprise' Published 10/27/2012 at 12:00 a.m. 129 comments
+*   Editorial: Glib state of denial is wrong answer on climate change Published 10/27/2012 at 12:00 a.m. 90 comments
+*   UPDATED: Shasta County's motion for preliminary injunction against Anselmo denied Published 10/25/2012 at 12:22 p.m. 78 comments
 
-*   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 17 comments
+*   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 23 comments
 *   UPDATED: Montague woman, 30, killed by husband, deputies say Published 10/18/2012 at 4:13 p.m. 16 comments
 *   Tehama fair devotes day to goat education Published 10/21/2012 at 11:30 p.m. 8 comments
 *   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 115 comments
-*   Despite high unemployment, few sign up for Smart job training program Published 10/18/2012 at 12:08 a.m. 37 comments
+*   Utah man found with more than 100 lbs. of pot in Trinity County, deputies say Published 10/22/2012 at 5:43 p.m. 41 comments
 
 Weather
 
@@ -293,25 +296,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 55° Fair Wind: Calm Today 81° 52° Sat 05:00 PM Partly Sunny Temp: 80° Sun 05:00 AM Partly Cloudy Temp: 55° Sun 05:00 PM Partly Sunny Temp: 78°
+Currently 51° Fair Wind: S 4mph Today 81° 51° Sun 08:00 PM Partly Cloudy Temp: 66° Mon 08:00 AM Partly Sunny Temp: 52° Mon 08:00 PM Mostly Clear Temp: 64°
 
-Feels Like: 79°
+Feels Like: 66°
 
-Humidity: 31%
-
-Precip: 1%
-
-Feels Like: 55°
-
-Humidity: 83%
+Humidity: 56%
 
 Precip: 3%
 
-Feels Like: 78°
+Feels Like: 52°
 
-Humidity: 32%
+Humidity: 77%
 
-Precip: 0%
+Precip: 1%
+
+Feels Like: 64°
+
+Humidity: 58%
+
+Precip: 5%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Saturday Oct 27
 *   Sunday Oct 28
 *   Monday Oct 29
+*   Tuesday Oct 30
 *   More BROWSE Icon
-
-*   Artist's Submissions for Juried Autumn Art Show Carter House Art Gallery
-*   Wintu Audubon Clear Creek Outing See Description 7:30 a.m.
-*   Whiskeytown Trail Runs Brandy Creek Marina 8 a.m.
-*   Search for the Spawning Salmon See Description 9 a.m.
-*   Shasta Land Trust's Halloween at Samwell Cave Shasta Land Trust 10 a.m.
-
-More Events »
 
 *   Ride On Race Series Contact for Location Information 11 a.m.
 *   Spiritual Discussion Contact for Location Information 11:30 a.m.
@@ -353,6 +348,14 @@ More Events »
 *   Redding Chess Club See Description 5 p.m.
 *   Redding Duplicate Bridge Club meetings Senior Citizens Hall noon
 *   Raja Yoga Classes Center for Spiritual Living 7 p.m.
+
+More Events »
+
+*   North Valley Art League annual Autumn Juried Small Painting Show Carter House Art Gallery 11 a.m.
+*   Trails and Bikeways Council monthly meeting Redding Library 6 p.m.
+*   Informational Small Business Meeting in Shasta Lake John Beaudet Community Center 6 p.m.
+*   Suicide Loss Support Group St James Church 7 p.m.
+*   South Shasta Seniors dancing Frontier Senior Center 7:30 p.m.
 
 More Events »
 
