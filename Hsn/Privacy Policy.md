@@ -1,5 +1,5 @@
   Manage email CUSTOMER SERVICE My account Order status or or HSN My Alerts: 0 Wish List: Shopping Bag: Jewelry Apparel Shoes Handbags Beauty Kitchen &. Food Electronics Home Decor Home Solutions Health Crafts Sports Clearance More     For the best hsn.com shopping experience, please update your browser to a  
-newer version. We recommend Internet Explorer 9, Chrome or Firefox. Â» Why upgrade? learn more
+newer version. We recommend Internet Explorer 9, Chrome or Firefox. » Why upgrade? shop now
 
 *   HSN Shopping
 
@@ -161,7 +161,7 @@ HSN
 St. Petersburg, Florida 33729  
 privacy.officer@hsn.net
 
-Â© 2011 HSN, Inc. All rights reserved.  
+© 2011 HSN, Inc. All rights reserved.  
   
   
 **Linked information:**
@@ -188,10 +188,10 @@ We may also collect non-personal information from your mobile device if you have
 
   
   
-Save $20 today - apply now **Instant savings** with HSN Credit Cards subject to approval Play games in the HSN Arcade Play games, earn tickets and enter for a **chance to win!** Shop HSN Gift Cards **Starting at $15**, thereâs one  
+Save $20 today - apply now **Instant savings** with HSN Credit Cards subject to approval Play games in the HSN Arcade Play games, earn tickets and enter for a **chance to win!** Shop HSN Gift Cards **Starting at $15**, there’s one  
 for every budget Connect &. share with forums, blogs &. more  
-â¢ Questions about the item on air now? Ask HSN  
-â¢ Order toll-free anytime by phone: 1-800-284-5757
+• Questions about the item on air now? Ask HSN  
+• Order toll-free anytime by phone: 1-800-284-5757
 
 *   Shop with HSN
 *   HSN Top Brands
@@ -231,6 +231,6 @@ for every budget Connect &. share with forums, blogs &. more
 *   MyCardExtras
 
   
-Copyright Â® 2012/HSN, Inc. All Rights Reserved. HSN and HSN.com are registered trademarks of HSNi, LLC, U.S. Patent No. 7,752,083, U.S. Patent No. 7,756,758  
+Copyright ® 2012/HSN, Inc. All Rights Reserved. HSN and HSN.com are registered trademarks of HSNi, LLC, U.S. Patent No. 7,752,083, U.S. Patent No. 7,756,758  
 Partner Sites: Expedia | Floraflora | Gifts | Hotels | Hotwire | Pronto | Shoebuy | Ticketmaster Other HSNI Sites: Ballard Designs | Frontgate | Garnet Hill | Grandin Road | Chasing Fireflies | Improvements | Territory Ahead | TravelSmith 0  
 shop now
