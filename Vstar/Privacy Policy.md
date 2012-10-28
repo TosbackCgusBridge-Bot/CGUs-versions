@@ -639,16 +639,16 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 105 comments
+*   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 106 comments
 *   Fatal morning wreck on PCH in Malibu closes highway for hours Updated 10/27/2012 at 7:28 p.m.
-*   O'Reilly: Are anchors rooting for Obama? Published 10/26/2012 at 2:01 p.m. 49 comments
+*   O'Reilly: Are anchors rooting for Obama? Published 10/26/2012 at 2:01 p.m. 50 comments
 *   Editorial: For Congress: Julia Brownley Published 10/27/2012 at 11:47 a.m. 30 comments
 *   Oxnard man identified in El Rio fatal shooting Updated 10/27/2012 at 7:24 p.m.
 
 Photo Galleries Ventura County's Most Wanted October… Ventura Restaurant Week adds lunch to… State agency concerned about selling…
 
-*   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 105 comments
-*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 96 comments
+*   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 106 comments
+*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 97 comments
 *   Poll shows Proposition 30 in a virtual tie. Brown says 'stakes are serious' Published 10/24/2012 at 9:01 p.m. 109 comments
 *   Morning chat Published 10/26/2012 at 12:00 a.m. 74 comments
 *   Morning chat Published 10/25/2012 at 12:00 a.m. 71 comments
@@ -656,7 +656,7 @@ Photo Galleries Ventura County's Most Wanted October… Ventura Restaurant Week 
 *   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 22 comments
 *   Oaks Christian might have broken football recruitment rules – Video Published 10/18/2012 at 2:53 p.m. 0 comments
 *   Scores of dogs seized from Simi Valley home now up for adoption Published 10/17/2012 at 5:35 p.m. 16 comments
-*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 96 comments
+*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 97 comments
 *   Longtime Conejo Valley educator Carol Philips dies, 64 Published 10/22/2012 at 9:56 a.m. 0 comments
 
 Weather
@@ -665,7 +665,7 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 54° Fair Wind: NE 4mph Today 78° 54° Sun 07:00 PM Clear Temp: 67° Mon 07:00 AM Clear Temp: 54° Mon 07:00 PM Mostly Clear Temp: 64°
+Currently 54° Fair Wind: NE 4mph Today 78° 54° Sun 08:00 PM Clear Temp: 67° Mon 08:00 AM Sunny Temp: 54° Mon 08:00 PM Mostly Clear Temp: 64°
 
 Feels Like: 67°
 
