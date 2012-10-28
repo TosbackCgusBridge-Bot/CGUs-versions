@@ -192,89 +192,95 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 27, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 10:33 AM EDT October 28, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:01a
+/news/latest1.  9:00a
     
-    Investors brace for Sandy and key jobs report
+    New York prepares for the worst from Sandy
     
-2.  8:00a
+2.  8:17a
     
-    Hurricane, October jobs data in spotlight
+    Monster storm Sandy threatens East Coast
     
-3.  6:02a
+3.  7:26a
     
-    Big earnings to watch Monday: PG&E, Burger King
+    New York prepares for the worst from Sandy
     
-4.  6:02a
+4.  7:01a
     
-    Dinky, yes, but donât call them cheap
+    Wall Street, political world await jobs report
     
-5.  6:00a
+5.  6:28a
     
-    13 U.S. cities going broke
+    Hawaii hit by tsunami after Canada quake
     
-6.  11:23p
+6.  3:44a
     
-    Hurricane Sandy may force evacuations in NYC
+    New Jersey Gov. Christie orders some evacuations
     
-7.  7:07p
+7.  1:35a
+    
+    Hurricane Sandy: dangers and damages
+    
+8.  12:54a
     
     Hurricane Sandy wreaks havoc on airline flights
     
-8.  6:48p
+9.  5:00p
     
-    Radio Update: Online travel stocks gain altitude
+    Hurricane Sandy may force evacuations in NYC
     
-9.  6:10p
+10.  4:48p
     
-    Amazon, Coherent active in trading after hours
+    Exchanges: Wall Street ready for Monday
     
-10.  6:03p
+11.  3:48p
     
-    Cabot Oil &. Gas soars. other energy stocks lag
+    NFL doesn’t expect Sandy to ground Jets, Eagles
     
-11.  5:53p
-    
-    10 things direct-sales marketers wonât say
-    
-12.  5:33p
-    
-    The Google sneak attack
-    
-13.  5:29p
-    
-    Foodies weather hurricanes with âstorm cuisineâ
-    
-14.  5:19p
-    
-    East Coast refineries brace for Hurricane Sandy
-    
-15.  5:17p
-    
-    Stores stock up to aid hurricane-hit shoppers
-    
-16.  5:14p
-    
-    Senate leader Reid in hospital after crash
-    
-17.  5:12p
-    
-    MarketWatchâs top 10 stories, Oct. 22 - 26
-    
-18.  5:02p
-    
-    Rescuing elderly relatives from Sandy's path
-    
-19.  5:00p
-    
-    âFrankenstormâ has financial centers on edge
-    
-20.  5:00p
+12.  3:14p
     
     BREAKING
     
-    Sen. Reid in hospital after car crash: reports
+    New York not yet requiring mandatory evacuations
+    
+13.  12:05p
+    
+    BREAKING
+    
+    NYC moves to protect rail, subway lines
+    
+14.  12:00p
+    
+    Hurricane Sandy may force evacuations in NYC
+    
+15.  11:43a
+    
+    BREAKING
+    
+    N.J. declares state of emergency ahead of Sandy
+    
+16.  11:27a
+    
+    BREAKING
+    
+    New York mayor to update on hurricane preparation
+    
+17.  10:14a
+    
+    Frankenstein Economics is killing capitalism
+    
+18.  9:24a
+    
+    McLaren Spider: An open-air symphony of loud
+    
+19.  9:00a
+    
+    Hurricane Sandy may force evacuations in NYC
+    
+20.  8:01a
+    
+    Investors brace for Sandy and key jobs report
     
 21.  Loading more headlines...
 
@@ -284,9 +290,9 @@ dow /quotes/zigman/627449 13,107.21 +3.53 +0.03% nasdaq /quotes/zigman/123127 2,
     
     From Fox Business
     
-    Â  Â  nancy colasurdo  
+        nancy colasurdo  
     Try backing off to close a sale  
-    Sometimes, when workers see a potential sale in sight, they "move in for the kill." But sometimes it might be better to give the customer some space.Â  /conga/kiosk/marketfox.html 232700
+    Sometimes, when workers see a potential sale in sight, they "move in for the kill." But sometimes it might be better to give the customer some space.  /conga/kiosk/marketfox.html 232700
 *   1332374700000 1332461400000
     
     The Trading Deck
@@ -299,15 +305,15 @@ dow /quotes/zigman/627449 13,107.21 +3.53 +0.03% nasdaq /quotes/zigman/123127 2,
     
     Economy
     
-    Five âfiscal-cliffâ scenarios  
+    Five ‘fiscal-cliff’ scenarios  
     How will Washington deal with the impending "fiscal cliff" of tax increases and spending cuts? Here are five ways it could play out. /conga/kiosk/consumer.html 232697
 *   1330965900000 1330992600000
     
     The Trading Deck
     
-    Â  nigam arora  
+      nigam arora  
     Bad Apple earnings: What now?  
-    Many of the numbers in the companyâs call did not meet expectations, but does that mean that itâs time to dump the stock?Â  /conga/kiosk/trading-deck-4.html 232624
+    Many of the numbers in the company’s call did not meet expectations, but does that mean that it’s time to dump the stock?  /conga/kiosk/trading-deck-4.html 232624
 *   1332953700000 1332979800000
     
     The Trading Deck
@@ -319,11 +325,9 @@ dow /quotes/zigman/627449 13,107.21 +3.53 +0.03% nasdaq /quotes/zigman/123127 2,
     
     Commodities Corner
     
-    Why your heating bill wonât jump  
-    Consumers are starting to worry about propane and natural gas, but this year, prices probably wonât see a huge spike, writes Myra P. Saefong.  
-    â¢ Rolling coverage: East Coast girds for Sandy
-    
-    Â 
+    Why your heating bill won’t jump  
+    Consumers are starting to worry about propane and natural gas, but this year, prices probably won’t see a huge spike, writes Myra P. Saefong.  
+    • Rolling coverage: East Coast girds for Sandy
     
     /conga/kiosk/commentary3.html 232686
 *   1309191300000 1309248000000
@@ -331,7 +335,7 @@ dow /quotes/zigman/627449 13,107.21 +3.53 +0.03% nasdaq /quotes/zigman/123127 2,
     Personal Finance
     
     8 shocking expense reports  
-    $177 for a bagel and diet soda? Lawyers may have a reputation for expensing every last thing, but theyâve got nothing on these politicians and executives.  
+    $177 for a bagel and diet soda? Lawyers may have a reputation for expensing every last thing, but they’ve got nothing on these politicians and executives.  
     /conga/kiosk/wildcard3.html 232694
 
 MarketWatch.com
@@ -400,11 +404,11 @@ Forgot password?
 Community
 
   
-Get your FREE membership now Â»
+Get your FREE membership now »
 
 MarketWatch Community is a free service that lets you discover, organize and share MarketWatch stories with other readers.
 
-Learn More Â»
+Learn More »
 
 The action you requested is only available to MarketWatch members.  
 Please log in or register.
@@ -424,7 +428,7 @@ Register
 Don't have a MarketWatch account?
 
   
-Get your FREE membership now Â»  
+Get your FREE membership now »  
   
 
 By registering, you are agreeing to MarketWatch's Terms of Service and to receiving periodic news and special offers via email about MarketWatch enhancements, products and services.
