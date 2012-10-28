@@ -63,13 +63,13 @@ Go Squidoo THIS LENS »
 
 Close Home » Squidoo Community » Official SquidTeam Lenses » Official Lensmaking Tips Getting Started With Squidoo (The official overview, FAQ and TOS)
 
-*   4466 Like
+*   4472 Like
 
-*   Like 4466
+*   Like 4472
 
 *   Pin It
 
-**Ranked #18,226** in **Squidoo Community**, #1,706,119 overall | Donates to Rhodesian Ridgeback Rescue of NorCal
+**Ranked #18,223** in **Squidoo Community**, #1,706,920 overall | Donates to Rhodesian Ridgeback Rescue of NorCal
 
 Terms of Service What's Squidoo? Squidoo is the free (yes, free), simple tool that makes it easy for you to publish your interests online. (You could even earn a royalty for yourself or for charity). From authors and astronauts to marketers and musicians, to cat lovers and seahorse keepers and quiltmakers and video gamers and teachers and... well, everyone... anyone with something to say, share, promote and recommend is welcome on Squidoo. All you need to do is agree to the below Terms of Service, which, as you'll see, generally cover: 1) Our Zero Tolerance policy about Spamming and 2) An easy list of Do's and Don'ts and 3) Your usual legalese jibberjabber.  
   
@@ -231,7 +231,7 @@ SquidU
 
 WHEW! You made it. You read the whole Squidoo Terms of Service. Please let us know how we can do better. And thanks!
 
-*   4466 Like
+*   4472 Like
 
 by SquidTeam
 
