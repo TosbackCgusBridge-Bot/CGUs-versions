@@ -25,7 +25,11 @@ Sign In Sign Up
 *   China
 *   Campaign 2012
 
-Take Action About TheBlaze
+Take Action
+
+Get the Latest on Hurrican Sandy…Storm Track…Impact Projections…Last Chances to Prepare…
+
+About TheBlaze
 
 **THEBLAZE.Com LLC – PRIVACY POLICY**
 
