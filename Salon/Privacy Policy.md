@@ -9,11 +9,11 @@ Register Sign in Welcome, Logout
         *   Mitt Romney
         *   Elections 2012
         *   From the Wires
-        *   Election 2012
         *   AlterNet
+        *   Todd Akin
         *   voting
-        *   Rape
-        *   New York Times
+        *   Election 2012
+        *   Hurricane Sandy
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -51,7 +51,7 @@ Privacy Policy Salon.com Privacy Policy
 
 Last Revised August 16, 2012.
 
-We respect your privacy, and we want you to know how we use the information you provide to us. This privacy policy (âPrivacy Policyâ) applies to your use of our website located at www.salon.com, as well as to all other online websites (collectively, the âSiteâ) and mobile applications (the âApplicationâ), blogs and interactive applications operated by Salon Media Group Inc. (âSalon,â âusâ or âweâ), collectively our âServices,â unless a different policy is provided on a particular website or application. In this Privacy Policy, we describe the information we collect, how Salon uses and discloses the information, and your choices regarding our information collection practices.
+We respect your privacy, and we want you to know how we use the information you provide to us. This privacy policy (“Privacy Policy”) applies to your use of our website located at www.salon.com, as well as to all other online websites (collectively, the “Site”) and mobile applications (the “Application”), blogs and interactive applications operated by Salon Media Group Inc. (“Salon,” “us” or “we”), collectively our “Services,” unless a different policy is provided on a particular website or application. In this Privacy Policy, we describe the information we collect, how Salon uses and discloses the information, and your choices regarding our information collection practices.
 
 Please read this Privacy Policy carefully. By visiting our Site and Application and using our Services, you agree that your information, including your personal information, will be handled as described in this Privacy Policy, which is incorporated by reference into this Terms of Service.
 
@@ -59,14 +59,14 @@ Information We Collect
 
 We collect information from and about you, including personal information and information about your use of the Site, the Application, and our Services. Specifically, we collect information: (1) directly from you, such as when you register to use our Site, request our newsletter, or participate in contests, sweepstakes, or other offers. (2) from third parties, such as when you log in through a social networking site or our Refer a Friend program. and (3) automatically, as you move through our Site and our Application, such as Site usage, browser types, IP addresses or device IDs, and other data, as discussed below.
 
-**_Information We Collect Directly From You._** We request information from you when you register for an account for our Site (our legacy âSalon Coreâ members), request our newsletter, participate in our contests, sweepstakes, and other promotions, and contact us. Depending upon the particular activity, we may request the following information from you: your name, email address, zip code, gender, age range, income range, username, password, and, for Salon Core members, credit card information.
+**_Information We Collect Directly From You._** We request information from you when you register for an account for our Site (our legacy “Salon Core” members), request our newsletter, participate in our contests, sweepstakes, and other promotions, and contact us. Depending upon the particular activity, we may request the following information from you: your name, email address, zip code, gender, age range, income range, username, password, and, for Salon Core members, credit card information.
 
 **_Information We Collect About You From Third Parties._**
 
-*   _Refer a Friend._ The Site offers an âemail a friend about this storyâ feature, allowing Site visitors to send email to friends to inform them about an article that might be of interest. For this feature to function, we ask for email addresses for the recipient (so we know who to mail the message to) and from the sender (so we can tell the recipient who sent the email). We do not store or save these addresses and neither you nor your friend will receive email or other communications from Salon or its partners as a result of having used this feature. While this tool should not be used to send mass âspamâ mailings, Salon has no control over how our visitors use it, and any email sent through it originates with, and is the responsibility of, the sender, not Salon.
+*   _Refer a Friend._ The Site offers an “email a friend about this story” feature, allowing Site visitors to send email to friends to inform them about an article that might be of interest. For this feature to function, we ask for email addresses for the recipient (so we know who to mail the message to) and from the sender (so we can tell the recipient who sent the email). We do not store or save these addresses and neither you nor your friend will receive email or other communications from Salon or its partners as a result of having used this feature. While this tool should not be used to send mass “spam” mailings, Salon has no control over how our visitors use it, and any email sent through it originates with, and is the responsibility of, the sender, not Salon.
 *   _Social Networking Sites._ You may log onto our Site through social networking applications, such as Facebook and Twitter. From time to time, we may add the capability to log into our Site through different social networking sites. If you log into our Services through a social networking site, we will request your name and certain basic information. We also may request certain permissions from you, which vary based on the social networking site. For information about how the particular social networking site may disclose your information, including any information you make public, please consult their privacy policy. We have no control over how a third party social networking site uses or discloses the personal information that you provide to it. We store the information that we receive from the social networking site along with other information that we collect from you or receive about you.
 
-**_Information We Collect Automatically._** We use cookies, web beacons, Flash, and other automated devices to collect information about you when you visit our Site and our Application. Specifically, we collect the following information about your use of our Site via these technologies: your browser type and operating system. web pages you view. links you click. your IP address. your interaction with the Site. length of time you are logged in to our Site. and websites visited before our Site. With regard to the Application, we may collect your mobile device ID. location and language information. device name and model. operating system type, name and version. your activities within the Application. and the length of time that you are logged into our Application. We will request your information before we collect your location. Please see the section âUse of Cookies, Flash Cookies, HTML5, Web Beacons, and Other Tracking Devicesâ below for more information about our use of these tracking devices. We may use the information gathered through these methods in anonymous or aggregated form to analyze ways to improve our Services. This information may be associated with your username and may be combined with other information, including personal information that we collect about you.
+**_Information We Collect Automatically._** We use cookies, web beacons, Flash, and other automated devices to collect information about you when you visit our Site and our Application. Specifically, we collect the following information about your use of our Site via these technologies: your browser type and operating system. web pages you view. links you click. your IP address. your interaction with the Site. length of time you are logged in to our Site. and websites visited before our Site. With regard to the Application, we may collect your mobile device ID. location and language information. device name and model. operating system type, name and version. your activities within the Application. and the length of time that you are logged into our Application. We will request your information before we collect your location. Please see the section “Use of Cookies, Flash Cookies, HTML5, Web Beacons, and Other Tracking Devices” below for more information about our use of these tracking devices. We may use the information gathered through these methods in anonymous or aggregated form to analyze ways to improve our Services. This information may be associated with your username and may be combined with other information, including personal information that we collect about you.
 
 **_Location Information._** If you are using our Application, we also may collect your location. We will request your permission prior to doing so. We may combine your location information with other information that we have collected about you.
 
@@ -74,19 +74,19 @@ Use of Cookies, Flash Cookies, HTML5, Web Beacons, and Other Tracking Devices
 
 When you interact with our Services, we strive to make your experience easy and meaningful. We or our third party service providers use cookies, web beacons (including clear GIFs), Flash LSOs, and similar technologies to track user activity and collect data about our Site, Services, and our users. As stated above, we may combine this data with the personal information we have collected from or about you.
 
-**_Cookies._** We use browser âcookiesâ on our Site. Cookies are a websiteâs way of remembering who you are. A cookie is a small text file that is stored on your computerâs hard drive or stored temporarily in your computerâs memory. There are two kinds of cookies, and we use both types of cookies on our Site: âsessionâ cookies and âpersistentâ cookies. Session cookies are deleted when you close your browser. Persistent cookies remain on your computer and retain information for later use tomorrow, next month or whenever they are set to expire. We use cookies to help us to identify account holders and to optimize their experience on our Site. Also, we will use cookies to monitor and maintain information about your use of this Site.
+**_Cookies._** We use browser “cookies” on our Site. Cookies are a website’s way of remembering who you are. A cookie is a small text file that is stored on your computer’s hard drive or stored temporarily in your computer’s memory. There are two kinds of cookies, and we use both types of cookies on our Site: “session” cookies and “persistent” cookies. Session cookies are deleted when you close your browser. Persistent cookies remain on your computer and retain information for later use tomorrow, next month or whenever they are set to expire. We use cookies to help us to identify account holders and to optimize their experience on our Site. Also, we will use cookies to monitor and maintain information about your use of this Site.
 
 Most Web browsers accept cookies automatically. You can delete cookies manually or set your browser to automatically delete cookies on a pre-determined schedule. If you decline to accept cookies, you may not be able to take advantage of or participate in certain features of this Site.
 
-Other companies that place advertising on our Site also have the ability to assign their cookies to you. You can opt out of the collection of certain information about you by many online advertisers. Please see the section below entitled âAdvertisingâ for additional information.
+Other companies that place advertising on our Site also have the ability to assign their cookies to you. You can opt out of the collection of certain information about you by many online advertisers. Please see the section below entitled “Advertising” for additional information.
 
-**_Use of Flash Cookies and HTML5._** Our Services enable the use of the Adobe Flash Player. Your use of the Adobe Flash Player generates âflash cookiesâ (also known as âpersistent identification elementsâ or âlocal shared objectsâ). The Adobe Flash Player (and similar applications) uses flash cookies to remember user settings, preferences and usage in a manner similar to the browser cookies referenced above. Flash cookies can store more information than browser cookies and are managed through a different interface than the one provided by your Web browser. You can control the degree to which you accept flash cookies by accessing your Adobe Flash Player management tools directly through the settings manager for Adobe Flash, located at http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html. (Users running the Windows operating system can generally view flash cookie files in this folder: \\Documents and Settings\\\[username\]\\Application Data\\Macromedia\\Flash Player. Users running the Apple operating system can generally view flash cookie files in this folder: /users/\[username\]/Library/Preferences/macromedia/Flash Player. Flash cookies, or LSO files are stored typically with an â.SOLâ extension. If you do not allow flash cookies on your computer, you may not be able to take advantage of or participate in certain features of our Services.
+**_Use of Flash Cookies and HTML5._** Our Services enable the use of the Adobe Flash Player. Your use of the Adobe Flash Player generates “flash cookies” (also known as “persistent identification elements” or “local shared objects”). The Adobe Flash Player (and similar applications) uses flash cookies to remember user settings, preferences and usage in a manner similar to the browser cookies referenced above. Flash cookies can store more information than browser cookies and are managed through a different interface than the one provided by your Web browser. You can control the degree to which you accept flash cookies by accessing your Adobe Flash Player management tools directly through the settings manager for Adobe Flash, located at http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html. (Users running the Windows operating system can generally view flash cookie files in this folder: \\Documents and Settings\\\[username\]\\Application Data\\Macromedia\\Flash Player. Users running the Apple operating system can generally view flash cookie files in this folder: /users/\[username\]/Library/Preferences/macromedia/Flash Player. Flash cookies, or LSO files are stored typically with an “.SOL” extension. If you do not allow flash cookies on your computer, you may not be able to take advantage of or participate in certain features of our Services.
 
 HTML is the software language used for building most of the sites on the internet. Some HTML5 code may allow your responses to advertising and other activities to be monitored across websites, and for such information to be stored on your computer or mobile device and accessed by others you do or have done business with. Salon accesses user activity information stored through this feature of HTML5. As with cookies, other companies that place advertising on our Site may have the ability to access information using this feature of HTML5. Salon does not control and is not responsible for any such access or for their use of information obtained.
 
-**_Web Beacons._** Our Web pages or e-mail messages may contain a small graphic image called a Web beacon, which is sometimes also called a âclear gif,â that allows us to monitor and collect certain information about our users, such as the type of browser requesting the Web beacon, the IP address of the computer that the Web beacon is sent to and the time the Web beacon was viewed. Web beacons can be very small or invisible to the user, but, in general, any electronic image viewed as part of a Web page or email, including HTML-based content, can act as a Web beacon. We may use Web beacons to count visitors to our Web pages or to monitor how our users navigate our Site, and we may include Web beacons in email messages in order to count how many of the messages we sent were actually opened or acted upon. We use Web beacons to compile aggregate statistics about our Site and our marketing campaigns.
+**_Web Beacons._** Our Web pages or e-mail messages may contain a small graphic image called a Web beacon, which is sometimes also called a “clear gif,” that allows us to monitor and collect certain information about our users, such as the type of browser requesting the Web beacon, the IP address of the computer that the Web beacon is sent to and the time the Web beacon was viewed. Web beacons can be very small or invisible to the user, but, in general, any electronic image viewed as part of a Web page or email, including HTML-based content, can act as a Web beacon. We may use Web beacons to count visitors to our Web pages or to monitor how our users navigate our Site, and we may include Web beacons in email messages in order to count how many of the messages we sent were actually opened or acted upon. We use Web beacons to compile aggregate statistics about our Site and our marketing campaigns.
 
-**_Analytics._** Each time a visitor comes to the Site or uses our Application, our servers collect information, including, for example, the visitorâs domain name (e.g., the website that you came from), referral data (e.g., depending on your browser, the address of the last page or series of pages you visited prior to clicking through to our Site), and browser and platform type. We also count, track and aggregate each visitorâs activity as part of our analysis of general traffic flows at our Site and on our Application (e.g., tracking where traffic comes from, how traffic flows within the Site and our Application, etc.). We collect some of this data directly, and we also engage third party service providers (e.g., Google Analytics) who use the technologies described in this section, to collect this information and to assist us with our analytics.
+**_Analytics._** Each time a visitor comes to the Site or uses our Application, our servers collect information, including, for example, the visitor’s domain name (e.g., the website that you came from), referral data (e.g., depending on your browser, the address of the last page or series of pages you visited prior to clicking through to our Site), and browser and platform type. We also count, track and aggregate each visitor’s activity as part of our analysis of general traffic flows at our Site and on our Application (e.g., tracking where traffic comes from, how traffic flows within the Site and our Application, etc.). We collect some of this data directly, and we also engage third party service providers (e.g., Google Analytics) who use the technologies described in this section, to collect this information and to assist us with our analytics.
 
 Security of Information
 
@@ -103,12 +103,12 @@ We use your information, including your personal information, to provide our Ser
 *   To tailor the content and information that we may send or display to you, and to otherwise personalize your experiences while using our Services;
 *   To improve our Services;
 *   For research purposes;
-*   For marketing and advertising purposes. for example, we may send you emails about new features of our Site and our Application as well as aboutÂ ourÂ products and services, as well as products and services of third parties, that we believe would be of interest to you;
+*   For marketing and advertising purposes. for example, we may send you emails about new features of our Site and our Application as well as about our products and services, as well as products and services of third parties, that we believe would be of interest to you;
 *   To better understand how users access and use our Services, both on an aggregated and individualized basis.
 
 Sharing Information
 
-We may provide information, including your personal information (collectively, âinformationâ), to non-affiliated and affiliated parties for a variety of purposes as described in this section and throughout this Privacy Policy.
+We may provide information, including your personal information (collectively, “information”), to non-affiliated and affiliated parties for a variety of purposes as described in this section and throughout this Privacy Policy.
 
 **_Affiliates and Non-Affiliated Third Parties._** We may disclose your information to affiliates and non-affiliated companies when we believe their products or services may be of interest to you, so that they can contact you with offers. If you are a California resident, you have a right to obtain information about this sharing. please see the Special Notice to California Consumers below. If you respond to an offer and provide information directly to another company, that information will be subject to their privacy policy, not this Privacy Policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly. Salon is not responsible for the manner in which other businesses collect or use your personal information.
 
@@ -130,13 +130,13 @@ Certain portions of our Services permit registered users to post comments, e.g.,
 
 Advertising
 
-We use third parties such as network advertisers to serve advertisements on our Site. Network advertisers are third parties that display advertisements based on your visits to our Site and other websites you have visited. This enables us and these third parties to target advertisements to you for products and services in which you might be interested. Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party cookies and other technologies are governed by each third partyâs specific privacy policy, not this one. We may provide these third-party advertisers with information about your usage of our Site and our Services on an aggregated basis.
+We use third parties such as network advertisers to serve advertisements on our Site. Network advertisers are third parties that display advertisements based on your visits to our Site and other websites you have visited. This enables us and these third parties to target advertisements to you for products and services in which you might be interested. Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party cookies and other technologies are governed by each third party’s specific privacy policy, not this one. We may provide these third-party advertisers with information about your usage of our Site and our Services on an aggregated basis.
 
-**You may opt-out of many third-party ad networks.** The website http://www.networkadvertising.org/optout\_nonppii.asp provides information regarding this practice by Network Advertising Initiative (âNAIâ) members, and your choices regarding having this information used by these companies, including how to âopt-outâ of third-party ad networks operated by NAI members. You also may contact the Digital Advertising Alliance at http://www.aboutads.info/choices/ for information about opting out of targeted advertising and your choices regarding having information used by About Ads member companies, including how to âopt-outâ of third-party ad networks operated by About Ads members. Opting out of one or more NAI members or DAI members (many of which will be the same) only means that those members no longer will deliver targeted content or ads to you, but it does not mean you will no longer receive any targeted content or ads on our Site or other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI or DAI opt-out may no longer, be effective. Additional information is available on NAIâs and DAIâs websites accessible by the above links.
+**You may opt-out of many third-party ad networks.** The website http://www.networkadvertising.org/optout\_nonppii.asp provides information regarding this practice by Network Advertising Initiative (“NAI”) members, and your choices regarding having this information used by these companies, including how to “opt-out” of third-party ad networks operated by NAI members. You also may contact the Digital Advertising Alliance at http://www.aboutads.info/choices/ for information about opting out of targeted advertising and your choices regarding having information used by About Ads member companies, including how to “opt-out” of third-party ad networks operated by About Ads members. Opting out of one or more NAI members or DAI members (many of which will be the same) only means that those members no longer will deliver targeted content or ads to you, but it does not mean you will no longer receive any targeted content or ads on our Site or other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI or DAI opt-out may no longer, be effective. Additional information is available on NAI’s and DAI’s websites accessible by the above links.
 
 Special Information for California Consumers
 
-California residents may request a list of all third parties to which Salon has disclosed certain personal information about you for the third partyâs marketing purposes. You may make one request per calendar year. In your request, please attest that you are a California resident and provide a current California address for our response to you. You may request this information in writing by contacting us at:
+California residents may request a list of all third parties to which Salon has disclosed certain personal information about you for the third party’s marketing purposes. You may make one request per calendar year. In your request, please attest that you are a California resident and provide a current California address for our response to you. You may request this information in writing by contacting us at:
 
 Salon Media Group, Inc.  
 Attn: California Consumers  
@@ -145,7 +145,7 @@ San Francisco, CA 94105
 415-645-9200  
 privacy@salon.com
 
-Our Commitment to Childrenâs Privacy
+Our Commitment to Children’s Privacy
 
 Protecting the privacy of children is important to us. We do not collect or maintain information from those we actually know are under 13, and no part of our Services is structured to attract anyone under 13. If you are under the age of 13, you are not permitted to use our Services. If you are aware of anyone under the age of 13 using our Site, please notify us. Upon confirmation, we will terminate any account that user may have, and we will eliminate any personal information we may have obtained from that user.
 
@@ -165,7 +165,7 @@ Our Services are operated in the United States. By providing any information to 
 
 Revisions to Privacy Policy
 
-We reserve the right, in our sole discretion, to modify, update, add to, discontinue, remove or otherwise change any portion of this Privacy Policy, in whole or in part, at any time. When we amend this Privacy Policy, we will revise the âlast updatedâ date located at the top of this Privacy Policy. For changes to this Privacy Policy that we consider to be material, we will place a notice on the Salon website located at www.salon.com by revising the link to read as âUpdated Privacy Policyâ for a reasonable amount of time. By providing information to us or using our Services in any way after this Privacy Policy has been revised, you consent and agree to the revised Privacy Policy. The most current version of this Privacy Policy will be available on the Site and will supersede all previous versions of this Privacy Policy.
+We reserve the right, in our sole discretion, to modify, update, add to, discontinue, remove or otherwise change any portion of this Privacy Policy, in whole or in part, at any time. When we amend this Privacy Policy, we will revise the “last updated” date located at the top of this Privacy Policy. For changes to this Privacy Policy that we consider to be material, we will place a notice on the Salon website located at www.salon.com by revising the link to read as “Updated Privacy Policy” for a reasonable amount of time. By providing information to us or using our Services in any way after this Privacy Policy has been revised, you consent and agree to the revised Privacy Policy. The most current version of this Privacy Policy will be available on the Site and will supersede all previous versions of this Privacy Policy.
 
 Choice of Law
 
@@ -173,7 +173,7 @@ This Privacy Policy, including all revisions and amendments thereto, and any dis
 
 Questions about our Privacy Policy
 
-If you have any further questions or concerns about Salonâs privacy policies and use of personal information, please send them to privacy@salon.com.
+If you have any further questions or concerns about Salon’s privacy policies and use of personal information, please send them to privacy@salon.com.
 
 *   About Salon
 *   Ways to Get Salon
@@ -192,31 +192,31 @@ If you have any further questions or concerns about Salonâs privacy policie
 
 About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service | TechTips iPhone app
 
-Take Salon on the go â download our free app now
+Take Salon on the go – download our free app now
 
-Current Stories Privacy concerns grow over FBI data gathering
+Current Stories U.K. police arrest Gary Glitter in connection with Savile case
 
-News. Watchdogs fear the organization's new facial-recognition system will collect information on innocent civilians
+News. Police have arrested the former rock star and convicted sex offender in connection to the sex abuse scandal
 
-The progressive case against Obama
+Todd Akin, right-wing hero
 
-Politics. Bottom line: The president is complicit in creating an increasingly unequal -- and unjust -- society
+Politics. The Republican Senate candidate in Missouri doesn't just spew anti-abortion rhetoric, he acts on it
 
-Please, stop believin'
+James Bond: The least interesting man in the world
 
-Entertainment. Journey's ridiculous anthem is back, as a singalong for both World Series teams. Why does this awful song endure?
+Entertainment. As a personality, 007 has always been epically dull. So why is the franchise still alive and kicking?
 
-Your wife is the worst
+How Fox News created a new culture of idiots
 
-Life. I've seen enough awful partners to judge yours. And there's nothing worse than hating the person your friend loves
+Life. Cable news has created an entirely new breed of blowhards -- and the style has infected banking and even the arts
 
 Most Read
 
+*   The progressive case against Obama Matt Stoller
+*   Frank Rich: Right will rage if Obama wins David Daley
+*   What's the secret to learning a second language? Bonnie Tsui, Pacific Standard
+*   Ten filthy rich, tax-dodging hypocrites Sarah Anderson and Scott Klinger, Alternet
 *   Dear Republican friends: Your Romney vote disrespects my marriage Salon Staff
-*   Conservatives flip out over Lena Dunham Obama ad Mary Elizabeth Williams
-*   So, goblin porn exists Tracy Clark-Flory
-*   October Surprise: Romney may have screwed over his friend's ex-wife Alex Seitz-Wald
-*   Obama says Ayn Rand is for misunderstood teenagers Prachi Gupta
 
 Voices
 
@@ -240,6 +240,6 @@ Copyright © 2012 Salon Media Group, Inc. Reproduction of material from any Salo
   
 SALON ® is registered in the U.S. Patent and Trademark Office as a trademark of Salon Media Group Inc.  
   
-Associated Press articles: Copyright Â© 2012 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.  
+Associated Press articles: Copyright © 2012 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.  
   
 Powered by the Parse.ly Publisher Platform (P3).
