@@ -56,7 +56,7 @@ If you have questions regarding this Privacy Policy, please contact us by clicki
 
 Your California Privacy Rights
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by BLP to its affiliates and/or third parties for their direct marketing purposes. With respect to such entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email with your first name, last name, mailing address, email address and telephone number to privacy@bloomberg.com. Please include âCalifornia Privacy Rightsâ in the Subject line of your email. You may also make such a request by writing to us at:
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by BLP to its affiliates and/or third parties for their direct marketing purposes. With respect to such entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email with your first name, last name, mailing address, email address and telephone number to privacy@bloomberg.com. Please include “California Privacy Rights” in the Subject line of your email. You may also make such a request by writing to us at:
 
 Bloomberg L.P. Attn: Legal Department 731 Lexington Avenue New York, NY 10022
 
