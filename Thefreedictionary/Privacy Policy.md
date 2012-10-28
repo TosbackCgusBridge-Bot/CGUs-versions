@@ -1,4 +1,4 @@
-Printer Friendly Dictionary, Encyclopedia and Thesaurus - The Free Dictionary4,362,838,729 visitors served. forum Join the Word of the Day Mailing List For webmasters **TheFreeDictionary Google Bing** ? Word / Article Starts with Ends with Text Dictionary/  
+Printer Friendly Dictionary, Encyclopedia and Thesaurus - The Free Dictionary4,365,366,359 visitors served. forum Join the Word of the Day Mailing List For webmasters **TheFreeDictionary Google Bing** ? Word / Article Starts with Ends with Text Dictionary/  
 thesaurus Medical  
 dictionary Legal  
 dictionary Financial  
@@ -52,10 +52,10 @@ A "cookie" is a piece of information that our web sites send to your browser, wh
 
 To find more information about cookies:
 
-*   If you are using Microsoft Internet ExplorerÂ® as your browser, go to the Microsoft Web site at http://www.microsoft.com/info/cookies.htm?RLD=291
-*   If you are using Netscape NavigatorÂ® as your browser, go to the Netscape Web site at http://home.netscape.com/security/basics/privacy.html#cookies
+*   If you are using Microsoft Internet Explorer® as your browser, go to the Microsoft Web site at http://www.microsoft.com/info/cookies.htm?RLD=291
+*   If you are using Netscape Navigator® as your browser, go to the Netscape Web site at http://home.netscape.com/security/basics/privacy.html#cookies
     
-    We may use third-party advertising companies, such as Google, Yahoo!, Microsoft) to serve ads when you visit our website. These companies may use information about your interests in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Digital Advertising Allianceâs or Network Advertising Initiativeâs website.
+    We may use third-party advertising companies, such as Google, Yahoo!, Microsoft) to serve ads when you visit our website. These companies may use information about your interests in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Digital Advertising Alliance’s or Network Advertising Initiative’s website.
     
     Disclosure by Law and Protection of Farlex
     
