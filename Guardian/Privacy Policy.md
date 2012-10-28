@@ -324,9 +324,9 @@ On the Guardian today
 1.  Life and style Mapping the body: the temple
 2.  Music Paul McCartney: Yoko Ono did not break up the Beatles
 3.  Environment UK solar companies take legal action against subsidies cuts
-4.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-5.  Television &. radio Bryan Cranston: 'I had to take my character from Mr Chips to Scarface'
-6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+4.  Television &. radio Bryan Cranston: 'I had to take my character from Mr Chips to Scarface'
+5.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+6.  Football Why Arsenal are becoming a speck in their rivals' wing-mirrors
 
 *   License/buy our content
 |*   Privacy policy
