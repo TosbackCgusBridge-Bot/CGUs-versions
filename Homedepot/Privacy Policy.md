@@ -199,7 +199,7 @@
         
         *   WALL DECOR
         *   Mirrors
-        *   Murals, Stencils?&. Wall Decals
+        *   Murals, Stencils &. Wall Decals
         *   Artwork
         *   Shelves &. Ledges
         *   Decorative Shelving
@@ -512,7 +512,7 @@
         *   Hand Held Sprayers
         *   More...
         *   SPRAY PAINT
-        *   Specialty &. D?cor
+        *   Specialty &. Décor
         *   All Surface
         *   More...
         
@@ -801,7 +801,7 @@ The Home Depot also takes the following measures to protect your personal inform
 
 **Passwords:** To provide you with an increased level of security, online access to your personal information is protected with a password you select. We strongly recommend that you do not disclose your password to anyone. The Home Depot will never ask you for your password in any unsolicited communication (including unsolicited correspondence such as letters, phone calls or e-mail messages).
 
-**Order Information**: Since any order information you provide to us on our Sites will be transmitted using a secure connection, if your Web browser cannot support this level of security, you will not be able to order products through our Sites. The most recent versions of Netscape Navigator? and Microsoft Internet Explorer® can support a secure connection and can be downloaded for free from the Netscape and Microsoft website respectively.
+**Order Information**: Since any order information you provide to us on our Sites will be transmitted using a secure connection, if your Web browser cannot support this level of security, you will not be able to order products through our Sites. The most recent versions of Netscape Navigator™ and Microsoft Internet Explorer® can support a secure connection and can be downloaded for free from the Netscape and Microsoft website respectively.
 
 No data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information from unauthorized access, use or disclosure, The Home Depot cannot ensure or warrant the security of any information you transmit to us on our Sites.
 
@@ -993,7 +993,7 @@ Providers
 *   Mobile Website
 *   Site Map
 
-? Local store prices may vary from those displayed. Products shown as available are normally stocked but inventory levels cannot be guaranteed.
+† Local store prices may vary from those displayed. Products shown as available are normally stocked but inventory levels cannot be guaranteed.
 
 © 2000-2011 Homer TLC, Inc. All Rights Reserved. Use of this site is subject to certain  
 Terms of Use which constitute a legal agreement between you and The Home Depot U.S.A. Inc.
