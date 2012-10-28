@@ -75,7 +75,7 @@ Save Your Favorite Shows!
 
 _Good Wife_ Photos
 
-Lil Wayne Suffers Two Seizures
+New TNT Pilots
 
 _Once_'s Evil Queen Speaks!
 
@@ -139,9 +139,9 @@ more popular movies Top Videos
 
 1.  The Vampire Diaries
 2.  The Vampire Diaries
-3.  Arrow
-4.  Supernatural
-5.  Dexter
+3.  The Vampire Diaries
+4.  Arrow
+5.  Hart of Dixie
 
 more top videos
 
