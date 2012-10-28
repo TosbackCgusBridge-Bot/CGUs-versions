@@ -348,7 +348,7 @@ Email address Sign Up **Customer Service**
   
 **Walgreens Mobile** **Walgreens Rebates** **Company Information**
 
-*   AARP?
+*   AARP®
 *   Awards and Recognition
 *   Careers
 *   Company Info
