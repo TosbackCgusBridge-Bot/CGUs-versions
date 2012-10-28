@@ -1,4 +1,4 @@
-Amazon Join Prime
+Amazon
 
 *   Your Amazon.com
 *   Today's Deals
@@ -244,4 +244,219 @@ Borrow from over 180,000 titles for free
 
 \>. Get started
 
-Watch. Read. Shop. Relax. Millions of Amazon Prime members enjoy instant videos, free Kindle books and unlimited free two-day shipping. >. Get started
+*   Unlimited Instant Videos
+*   Prime Instant VideosUnlimited streaming of thousands of  
+    movies and TV shows with Amazon Prime
+*   Learn More About Amazon Prime
+*   Amazon Instant Video StoreRent or buy hit movies and TV shows  
+    to stream or download
+*   Your Video LibraryYour movies and TV shows  
+    stored in the cloud
+*   Watch AnywhereWatch instantly on your Kindle Fire,  
+    TV, Blu-ray player, or set-top box
+
+*   MP3s &. Cloud Player
+*   MP3 Music StoreShop over 20 million songs
+*   Music on Kindle FireDiscover how to play your music
+*   Cloud Player for WebPlay from any browser
+*   Cloud Player for AndroidFor Android phones and tablets
+*   Cloud Player for iOSFor iPhone and iPod touch
+
+*   Amazon Cloud Drive
+*   Your Cloud Drive5 GB of free storage
+*   Get the Desktop AppFor Windows and Mac
+*   Learn More About Cloud Drive
+
+*   Kindle E-readers
+*   KindleSmall, light, perfect for reading
+*   Kindle PaperwhiteWorld's most advanced e-reader
+*   Kindle Paperwhite 3GWith free 3G wireless
+*   Kindle E-reader AccessoriesCovers, chargers, sleeves and more
+*   Kindle Store
+*   Kindle Books
+*   Newsstand
+*   Kindle Owners' Lending LibraryWith Prime, Kindle owners read for free
+
+*   Kindle Fire
+*   FireAll new--faster, twice the memory
+*   Fire HD7", Dolby audio, fastest Wi-Fi
+*   Fire HD 8.9"8.9", Dolby audio, fastest Wi-Fi
+*   Fire HD 8.9" 4GWith ultra-fast 4G LTE wireless
+*   Kindle Fire AccessoriesCases, chargers, sleeves and more
+*   Kindle Apps &. Resources
+*   Kindle Cloud ReaderRead your Kindle books in a browser
+*   Free Kindle Reading AppsFor PC, iPad, iPhone, Android, and more
+*   Manage Your Kindle
+
+*   Appstore for Android
+*   Apps
+*   Games
+*   Test Drive AppsTry thousands of apps and games right now
+*   Amazon AppsKindle, mobile shopping, MP3, and more
+*   Your Apps and DevicesView your apps and manage your devices
+
+*   Digital Games &. Software
+*   Game DownloadsFor PC and Mac
+*   Free-to-Play GamesFor PC and Mac
+*   Software DownloadsFor PC and Mac
+*   Your Games &. Software Library
+
+*   Audible Audiobooks
+*   Audible MembershipGet to know Audible
+*   Audible Audiobooks &. More
+*   Bestsellers
+*   New &. Notable
+*   Listener Favorites
+*   Whispersync for VoiceSwitch between reading and listening
+
+*   Books
+*   Books
+*   Kindle Books
+*   Children's Books
+*   Textbooks
+*   Audiobooks
+*   Magazines
+
+*   Movies, Music &. Games
+*   Movies &. TV
+*   Blu-ray
+*   Amazon Instant Video
+*   Music
+*   MP3 Downloads
+*   Musical Instruments
+*   Video Games
+*   Game Downloads
+
+*   Electronics
+*   TV &. Video
+*   Home Audio &. Theater
+*   Camera, Photo &. Video
+*   Cell Phones &. Accessories
+*   Video Games
+*   MP3 Players &. Accessories
+*   Car Electronics &. GPS
+*   Appliances
+*   Musical Instruments
+
+*   Computers
+*   Laptops, Tablets &. Netbooks
+*   Desktops &. Servers
+*   Computer Accessories &. PeripheralsExternal drives, mice, networking &. more
+*   Computer Parts &. Components
+*   Software
+*   PC Games
+*   Printers &. Ink
+*   Office &. School Supplies
+
+*   Home, Garden &. Pets
+*   Kitchen &. Dining
+*   Furniture &. Décor
+*   Bedding &. Bath
+*   Appliances
+*   Patio, Lawn &. Garden
+*   Arts, Crafts &. Sewing
+*   Pet Supplies
+
+*   Tools, Home Improvement
+*   Home Improvement
+*   Power &. Hand Tools
+*   Lamps &. Light Fixtures
+*   Kitchen &. Bath Fixtures
+*   Hardware
+*   Building Supplies
+
+*   Grocery, Health &. Beauty
+*   Grocery &. Gourmet Food
+*   Natural &. Organic
+*   Health &. Personal Care
+*   Beauty
+
+*   Toys, Kids &. Baby
+*   Toys &. Games
+*   Baby
+*   Clothing (Kids &. Baby)
+*   Video Games for Kids
+*   Amazon Mom20% off diapers, free shipping and more
+
+*   Clothing, Shoes &. Jewelry
+*   Clothing
+*   Shoes
+*   Handbags
+*   Accessories
+*   Luggage
+*   Jewelry
+*   Watches
+
+*   Sports &. Outdoors
+*   Exercise &. Fitness
+*   Outdoor Recreation
+*   Hunting &. Fishing
+*   Cycling
+*   Athletic &. Outdoor Clothing
+*   Boating &. Water Sports
+*   Team Sports
+*   Fan Shop
+*   Sports Collectibles
+*   Golf
+*   All Sports &. Outdoors
+
+*   Automotive &. Industrial
+*   Automotive Parts &. Accessories
+*   Automotive Tools &. Equipment
+*   Car Electronics &. GPS
+*   Tires &. Wheels
+*   Motorcycle &. ATV
+*   Industrial &. Scientific
+
+*   Unlimited Instant Videos
+*   MP3s &. Cloud Player20 million songs, play anywhere
+*   Amazon Cloud Drive5 GB of free storage
+*   Kindle
+*   Appstore for AndroidGet a premium app for free today
+*   Digital Games &. Software
+*   Audible Audiobooks
+*   Books
+*   Movies, Music &. Games
+*   Electronics &. Computers
+*   Home, Garden &. Tools
+*   Grocery, Health &. Beauty
+*   Toys, Kids &. Baby
+*   Clothing, Shoes &. Jewelry
+*   Sports &. Outdoors
+*   Automotive &. Industrial
+*   ›Full Store Directory
+
+*   Sign in New customer? Start here.
+*   Your Account
+*   Your Orders
+*   Your Wish List
+*   Your Recommendations
+*   Your Subscribe &. Save Items
+*   Manage Your Kindle
+*   Your Cloud PlayerPlay from any browser
+*   Your Cloud Drive5 GB of free storage
+*   Prime Instant VideosUnlimited streaming of thousands  
+    of movies and TV shows
+*   Your Video Library
+*   Your Games &. Software Library
+*   Your Android Apps &. Devices
+
+Your Shopping Cart is empty.
+
+Give it purpose—fill it with books, DVDs, clothes, electronics, and more.
+
+If you already have an account, sign in.
+
+There's a problem previewing your cart right now.
+
+Check your Internet connection and go to your cart, or try again.
+
+View Cart (0 items) (0 item) (0 items)
+
+*   Create a Wish List
+*   Find a Wish List or Registry
+*   Wish from Any WebsiteAdd items to your List from anywhere
+*   Wedding Registry
+*   Baby Registry
+*   Kids' Birthdays
+*   Friends &. Family Gifting
