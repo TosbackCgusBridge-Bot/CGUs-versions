@@ -1,9 +1,4 @@
-Sign In Upload
-
-*   Video Manager
-*   Analytics
-
-Search
+Sign In Browse|Movies |Upload Search
 
 *   About
 *   Press &. Blogs
