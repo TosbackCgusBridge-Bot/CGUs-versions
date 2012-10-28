@@ -56,6 +56,7 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Giants shut down Tigers again, take Game 3
 *   Nats, LaRoche make progress in contract talks
 *   Verlander won't start Game 4 on short rest
 *   Bumgarner rebounds, gives San Fran 2-0 lead
@@ -67,7 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Rivera 'having second thoughts' about return
 *   Tigers likely to pick up Peralta's $6M option
 *   Delmon Young starting in LF again in Game 2
-*   Ryan Zimmerman undergoes shoulder surgery
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Week 8 Injury Questions Oct 27
+*   Week 8 Starts and Sits Oct 27
+*   Best Available NFL Free Agents Oct 27
 *   Matchups: Return of the Mac Oct 26
 *   Week 8 Rankings Oct 26
 *   Doug Looks Fresh Oct 26
 *   Week 8 Chat Oct 25
 *   Week 8 Target Watch: NFC Oct 25
-*   Arming Amendola Oct 25
-*   Matchup: Bucs @ Vikings Oct 25
-*   Getting Defensive: Week 8 Oct 24
 
 PREMIUM CONTENT
 
@@ -106,6 +106,11 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Report: Nelson unlikely to play Sun. for Pack
+*   Bradshaw (foot) expected to play against DAL
+*   Schefter: T-Rich (ribs) expected to play Sun.
+*   Gore probable for MNF. pain has 'lessened'
+*   J-Stew has 1st shot at 'hot hand' in Carolina
 *   Calvin Johnson officially probable for Week 8
 *   Shurmur on T-Rich: 'He is better this Friday'
 *   Bradshaw has bone bruise in troublesome foot
@@ -113,11 +118,6 @@ FANTASY FOOTBALL HEADLINES
 *   Vikings CB Cook broke arm, likely out for '12
 *   Jimmy Graham officially a game-time decision
 *   Pats formally rule Hernandez out for Week 8
-*   Panthers coach confirms J-Stew is starting RB
-*   Bradshaw officially questionable for Week 8
-*   Rashard Mendenhall won't play vs. Redskins
-*   Amendola questionable for Week 8 vs. Pats
-*   Pierre Garcon hoping to avoid surgery on toe
 
 NBA PAGES
 
@@ -134,7 +134,7 @@ NBA PAGES
 
 COLUMNS
 
-*   The Bruski 150 Oct 26
+*   The Bruski 150 Oct 27
 *   Pre-draft Trip Around the NBA Oct 26
 *   NBA Live Chat Monday at 1 p.m. Oct 20
 *   Points League Draft Recap Oct 20
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Kevin Martin now a member of the Thunder
+*   James Harden traded to Rockets for K-Mart
+*   Mo Williams (groin) back at Jazz practice
+*   Wesley Matthews is not practicing on Saturday
+*   Lamar Odom (foot) uncertain for Clips' opener
+*   Tyson Chandler (knee) expects to play Nov. 1
 *   Beasley explodes for 29 and 10 vs. Nuggets
 *   Jae Crowder hits double digits again
 *   O.J. Mayo nearly triple-doubles in win
 *   Mullens struggles w/ shot, but drops 16 &. 19
 *   Anthony Davis goes beast mode vs. Heat
 *   Greivis Vasquez double-doubles in win
-*   Danny Granger play, but knee isn't right
-*   Austin Rivers aggravates right ankle injury
-*   Kobe (foot) gets treatment. iffy for opener
-*   Amare Stoudemire could miss first five weeks
-*   Young, Allen expected to start for Sixers
-*   George Hill (hip) not certain for opener
 
 NHL PAGES
 
@@ -185,6 +185,7 @@ NHL PAGES
 
 COLUMNS
 
+*   Omark and Brunner Burning! Oct 27
 *   The Lipon &. MacKinnon Show Oct 24
 *   Keep an eye on Neiderreiter Oct 22
 *   Subban &. Brassard Net Gains Oct 16
@@ -192,7 +193,6 @@ COLUMNS
 *   Early CHL Standouts Oct 9
 *   CHL Quick Starters Oct 4
 *   A Dose of the AHL Sep 27
-*   Chillin' in the CHL Sep 19
 
 PREMIUM CONTENT
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Braden Holtby shuts out the AHL Albany Devils
+*   Lockout might end Jagr, Selanne's careers
+*   Anders Lindback joins Finnish Ilves Tampere
+*   Travis Zajac will look to play in Europe
+*   Semyon Varlamov shines in KHL game
+*   Lundqvist not ready to play in Sweden yet
+*   D Andy Sutton may have played his final game
+*   Ryan Nugent-Hopkins takes stick in mouth
+*   Kris Versteeg recovering from hip injury
+*   Jussi Jokinen looking to return to Europe
+*   Tuukka Rask fine plays whole game Friday
 *   Marc-Andre Gragnani sets up four goals in win
-*   Adam Erne explodes for five-point night
-*   Ryan Suter not happy with lockout, owners
-*   Matt Cullen thinks sides are extremely close
-*   St. Louis edges closer to playing in Europe
-*   Donald Fehr reacts to NHL's cancelations
-*   Daly issues statement regarding cancelations
-*   Police charge Eager with aggravated assault
-*   NHL abolishes all remaining November games
-*   Taylor Hall hopes to get cleared to play soon
-*   2013 NHL All-Star Game isn't in danger - yet
-*   NHL prepares to withdraw their latest offer
 
 NASCAR PAGES
 
@@ -245,6 +245,11 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Piquet wins two race awards at Martinsville
+*   Max Gresham top NCWTS rookie at Martinsville
+*   Denny Hamlin wins Kroger 200 truck race
+*   Vickers paces both Saturday Cup practices
+*   Peters on pole for Kroger 200, track record
 *   Waltrip, Vickers &. Martin in No. 55 in 2013
 *   Vickers, Martin &. Waltrip in No. 55 in 2013
 *   Martin, Vickers &. Waltrip in No. 55 in 2013
@@ -252,11 +257,6 @@ FANTASY NASCAR NEWS
 *   Clint Bowyer HotPass on DIRECTV notes
 *   Jimmie Johnson HotPass on DIRECTV notes
 *   Dale Earnhardt Jr. HotPass on DIRECTV notes
-*   J.J. Yeley not in Tums Fast Relief 500 field
-*   Mike Bliss not in Martinsville Cup field
-*   Speed gets last Cup slot at Martinsville
-*   McDowell top Martinsville Cup go-or-go-homer
-*   Josh Wise top rookie starter at Martinsville
 
 GOLF PAGES
 
@@ -285,18 +285,18 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Hanson takes the BMW Masters by one stroke
+*   Watney parlays course-record 61 into CIMB win
 *   Garrigus enters CIMB finale as a co-leader
 *   BVP flirts w/ 59. settles for 54-hole co-lead
 *   Hole-in-one fuels Dufner in the third round
 *   No surprise, Patrick Reed medals at Q School
-*   Garrigus out front after 36 holes in Malaysia
 *   Matteson spins bogey-free 63 to lead the CIMB
 *   Els (ankle) 'will be fine' for the WGC-HSBC
 *   Henley picks up second Web.com win in playoff
 *   Gainey teases 59. breaks through at McGladrey
 *   Van Pelt cruises to a two-stroke win in Perth
 *   Love III tied for the lead at Seaside Course
-*   Furyk tied for 54-hole lead at the McGladrey
 
 NFL DRAFT PAGES
 
@@ -311,11 +311,11 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Senior Prospect Rankings Oct 27
 *   Week Nine Matchup Preview Oct 26
 *   Dysert For Dinner Oct 24
 *   Prospect Snapshots: Weeks 7-8 Oct 23
 *   Senior Surprise: RB Gillislee Oct 22
-*   Senior Prospect Rankings Oct 21
 *   Week Eight Matchup Preview Oct 19
 *   The Forgotten One Oct 17
 *   Kenny Vaccaro: Spread Stopper Oct 15
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
-*   Fresno St. S Thomas creating buzz with Scouts
-*   Graham encouraged to hit hole more quickly
-*   McShay: When healthy, Jenkins is top cover LB
-*   Tide S Lester will play vs Miss St. (ankle)
-*   Scout: Mathieu 6th, 7th, or undrafted in '13
-*   Tar Heels T Brennan Williams out for season
-*   Sammy Watkins hauls in 202 yds, 1 TD vs WF
-*   Tajh Boyd throws five TDs vs Wake on Thursday
-*   Mathieu, three other former Tigers arrested
-*   Cincy OLB Stewart likely done for the season
-*   Chance Warmack acting as Bama's backup C?
-*   Tigers down starting CBs vs Wake on Thursday
+*   Beavs' Mannion throws four INT in return loss
+*   Marqise Lee goes off for 345 receiving yards
+*   Zac Dysert throws for 311 yards, TD in upset
+*   Jawan Jamison goes for 172 total yards, 1 TD
+*   Jordan sidelined with possible shoulder inj
+*   Badgers QB Joel Stave heads to locker room
+*   Gio Bernard runs around and through NC State
+*   Glennon throws for 467 yards, 5 TDs, 2 INTs
+*   Tyler Bray completes 27-of-43, 368 yds, 4 TDs
+*   Zach Rogers torches Gamecocks for 3 TDs
+*   Ray Graham tallies 109 yards, 2 TDs vs Owls
+*   Weisman leaves game with apparent hip inj
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NBA:Amare Stoudemire could miss first five weeks
-*   NBA:Mullens struggles w/ shot, but drops 16 &. 19
-*   NAS:Johnson on pole for Tums Fast Relief 500
-*   NFL:Calvin Johnson officially probable for Week 8
-*   NBA:Kobe (foot) gets treatment. iffy for opener
-*   NFL:Rashard Mendenhall won't play vs. Redskins
-*   NFL:Shurmur on T-Rich: 'He is better this Friday'
-*   NFL:Jordy Nelson to be game-day decision vs. Jags
-*   NFL:Vikings CB Cook broke arm, likely out for '12
-*   NFL:Jimmy Graham officially a game-time decision
-*   NFL:Panthers coach confirms J-Stew is starting RB
-*   GOL:Garrigus enters CIMB finale as a co-leader
+*   NFL:Report: Nelson unlikely to play Sun. for Pack
+*   NFL:Bradshaw (foot) expected to play against DAL
+*   NFL:Schefter: T-Rich (ribs) expected to play Sun.
+*   GOL:Watney parlays course-record 61 into CIMB win
+*   NBA:James Harden traded to Rockets for K-Mart
+*   MLB:Giants shut down Tigers again, take Game 3
+*   NAS:Denny Hamlin wins Kroger 200 truck race
+*   CFB:Marqise Lee goes off for 345 receiving yards
+*   NFL:Gore probable for MNF. pain has 'lessened'
+*   CFB:Gio Bernard runs around and through NC State
+*   CFB:Glennon throws for 467 yards, 5 TDs, 2 INTs
+*   CFB:Beavs' Mannion throws four INT in return loss
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1M. Jones-DrewNFL (8571)
-*   2T. RichardsonNFL (8356)
-*   3J. DwyerNFL (6926)
-*   4D. BrownNFL (6832)
-*   5R. MendenhallNFL (6756)
+*   1M. Jones-DrewNFL (7965)
+*   2T. RichardsonNFL (7824)
+*   3D. BrownNFL (7337)
+*   4F. JonesNFL (7027)
+*   5J. StewartNFL (6733)
 
-*   6F. JonesNFL (6646)
-*   7R. JenningsNFL (6615)
-*   8A. BradshawNFL (6476)
-*   9G. JenningsNFL (6294)
-*   10D. AmendolaNFL (6244)
+*   6R. MendenhallNFL (6624)
+*   7J. GrahamNFL (6570)
+*   8J. DwyerNFL (6538)
+*   9R. JenningsNFL (6530)
+*   10D. AmendolaNFL (6443)
 
   
 Video Center
@@ -544,22 +544,27 @@ Video Center
 
   
   
-  Headlines Matchups: Return of the Mac  
-Oct 26 Evan Silva recommends to start Jeremy Maclin against the Falcons and breaks down all of the Week 8 fantasy football matchups.  
+  Headlines Week 8 Injury Questions  
+Oct 27 Get caught up with the latest line on all the hurt folks as we get set for Week 8.  
   
 More NFL Columns
 
+*   »Week 8 Injury Questions Oct 27
+*   »Week 8 Starts and Sits Oct 27
+*   »Best Available NFL Free Agents Oct 27
 *   »Matchups: Return of the Mac Oct 26
 *   »Week 8 Rankings Oct 26
 *   »Doug Looks Fresh Oct 26
 *   »Week 8 Chat Oct 25
 *   »Week 8 Target Watch: NFC Oct 25
-*   »Arming Amendola Oct 25
-*   »Matchup: Bucs @ Vikings Oct 25
-*   »Getting Defensive: Week 8 Oct 24
 
 NFL Headlines
 
+*   »Report: Nelson unlikely to play Sun. for Pack
+*   »Bradshaw (foot) expected to play against DAL
+*   »Schefter: T-Rich (ribs) expected to play Sun.
+*   »Gore probable for MNF. pain has 'lessened'
+*   »J-Stew has 1st shot at 'hot hand' in Carolina
 *   »Calvin Johnson officially probable for Week 8
 *   »Shurmur on T-Rich: 'He is better this Friday'
 *   »Bradshaw has bone bruise in troublesome foot
@@ -567,11 +572,6 @@ NFL Headlines
 *   »Vikings CB Cook broke arm, likely out for '12
 *   »Jimmy Graham officially a game-time decision
 *   »Pats formally rule Hernandez out for Week 8
-*   »Panthers coach confirms J-Stew is starting RB
-*   »Bradshaw officially questionable for Week 8
-*   »Rashard Mendenhall won't play vs. Redskins
-*   »Amendola questionable for Week 8 vs. Pats
-*   »Pierre Garcon hoping to avoid surgery on toe
 
 NFL Links
 
