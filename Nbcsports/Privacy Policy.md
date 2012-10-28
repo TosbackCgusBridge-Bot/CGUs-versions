@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: AP poll: Majority harbor prejudice against blacks
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: How to create a fake identity and stay anonymous online
 
 *   NFL
     SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports Eagles all in on Vick?
     
     PFT Live: Mike Florio previews the Falcons-Eagles matchup and wonders which Michael Vick we'll see as both teams come off their bye weeks.
     
-    PFT's Picks: Broncos to pick apart Saints PFT: Peyton says game harder after neck surgeries PFT: London gets a taste of Belichick PFT: Taylor prevails in civil sexual assault case PFT: NFL monitoring Hurricane Sandy Kacsmar: Just what is going on with the AFC? PFT: Eli admits catering to needy WRs hurt his progress PFT: Jennings to have surgery. Nelson misses practice Ad
+    PFT: Lynyrd Skynyrd wants Tebow in Jacksonville PFT: Hurricane Sandy will make a mess for NFL PFT: Rob Ryan says Giants dissed his 'Boys PFT: Peyton says game harder after neck surgeries PFT: Kraft tells UK fans they need a NFL team PFT: Taylor prevails in civil sexual assault case Kacsmar: Just what is going on with the AFC? CSN: Rodgers-Cromartie defends fired Castillo Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Danny Moloshok / Reuters Stars have winked out for Detroit
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Ezra Shaw / Getty Images Giants blank Tigers again
     
-    DeMarco: With all that went wrong for the Tigers by McCovey Cove, there is an obvious place to start: Superstars are supposed to win championships, but so far, the Tigers' have failed them.
+    Shift to Detroit doesn't make a difference as S.F. takes 3-0 series lead with 2-0 victory in Game 3 on Saturday night.
     
-    CSN: Don't get ahead of yourselves, Giants fans CSN: Unsung influence behind Giants' pitching CSN: Tigers confident at home — with good reason CSN: Rest pays off for Bumgarner in Game 2 HBT: Tigers fan offers house for World Series tickets HBT: Tigers' 3B coach regrets sending Fielder Manager's toughest call: sitting a slumping star Bochy pushing the right buttons Ad
+    DeMarco: Giants beating Tigers at own game HBT: Can Cain close out another series for Giants? CSN: Sandoval etches name in Giants lore Ex-ace Lincecum gives Giants stellar relief CSN: Lincecum just wants to win in any role Tigers shut out again after Cabrera's costly popup HBT: Fielder falters for flailing Tigers HBT: Go with Verlander in Game 4? No way Ad
 *   NHL
     SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Paul Sancya / AP No games in November
     
     PHT: A total of 326 regular-season games — about a quarter of the season — have now been abandoned after the NHL canceled all games through November because of the lockout.
     
-    PHT: NHL 'deeply regrets' scrapping more games PHT: Fehr says cancellations 'deeply disappointing' PHT: Lamoriello solution? 'Lock them in a room' Costas Tonight: Roenick on NHL lockout CSN: 12,000 see 16-15 NHLers' charity game Lockout puts sales for small businesses on ice KHL shifts games from Brooklyn back to Russia CSN: Bergeron 'fine' after upper-body injury Ad
+    PHT: NHL 'deeply regrets' scrapping more games PHT: Fehr says cancellations 'deeply disappointing' PHT: Jagr says lockout 'sad for me and Teemu' PHT: Lamoriello solution? 'Lock them in a room' Costas Tonight: Roenick on NHL lockout PHT: Yakupov shows goal-scoring touch in KHL CSN: 12,000 see 16-15 NHLers' charity game Lockout puts sales for small businesses on ice Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Noah Graham / Getty Images Contributor A good fit for the Lakers?
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Sue Ogrocki / AP Thunder likely give up title hopes
     
-    Now that Steve Nash is playing with two big men that love to operate in the paint, a shooting guard that has played on the ball for the majority of his career and in the Princeton offense, will he get it?
+    PBT: It was a mistake for OKC to trade their Sixth Man of the Year and best playmaker, James Harden, to Houston. Here's why: When you’re a title contender, you go all in to win now.
     
-    PBT: Can Kobe cope with not getting touches? Lakers end preseason winless LeBron's goal: Still to be the game's best PBT: Stern was all business with the NBA PBT: Stern to retire as commissioner in 2014 PBT: Stern reflects on good, bad of his legacy Stern says 'it's been a great run' Good time for Stern to step down Ad
+    PBT: Wow! Thunder trade Harden to Rockets CSN: Rockets 'very excited' after landing Harden LeBron says ankle sore — but he's fine PBT: Best role players on contenders PBT: Nash a good fit for the Lakers? PBT: Can Kobe cope with not getting touches? SportsTalk: NBA thriving under Stern? PBT: Stern was all business with the NBA Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Jackson Laizure / Getty Images Contributor Figure on wins for OU, Florida
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Peter G. Aiken / Getty Images Contributor Top teams could run table
     
-    CFT's Predictions 101: One week after posting a perfect 7-0 record, our expert returns to make picks on the weekend's big games. There's bad news for Notre Dame and Georgia.
+    CFT's Fifth Quarter: No. 1 'Bama, No. 2 Oregon, No. 4 K-State and No. 5 Notre Dame all held serve in impressive fashion — and after looking at each team's remaining schedule, it's not unthinkable that all four could finish unbeaten.
     
-    SportsTalk: Will the Gators chomp Bulldogs? UF looks to avenge loss to UGa, win SEC East Notre Dame Central: Irish take on Oklahoma SEC West unbeatens 'Bama, Miss. St. meet CFT: No. 16 Louisville in wild OT win over Cincy Ex-LSU players Mathieu, Jefferson out of jail No. 15 Texas Tech, No. 4 K-State show similarities CSN: OSU-PSU ready for 'Ineligible Bowl' Ad
+    CFT: Winning ugly over No. 3 UF just fine for UGa. Notre Dame Central: No. 5 Irish KO No. 8 OU 'Bama rolls past No. 13 Miss. St.  | Vote: Still No. 1? CFT: No. 4 K-State, Klein take care of Texas Tech First loss: No. 7 Oregon St.   |  Rutgers  |  Ohio Arizona stuns No. 10 USC   |  Lee's big day wasted No. 2 Oregon crushes CU, gears up for USC CFT: No. 9 OSU cools off PSU in 'Banned Bowl' Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Streeter Lecka / Getty Images 'I'm glad I did what I did'
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Adnan Abidi / Reuters Vettel wins India GP, extends lead
     
-    Dale Earnhardt Jr. disliked the attention caused by his concussions and nearly three-week departure from NASCAR, but said Friday he returns to racing glad he took steps to make sure he is OK.
+    Sebastian Vettel's seemingly unstoppable march to a third straight Formula One title took another stride Sunday.
     
-    Earnhardt Jr. cleared to race at Martinsville Johnson wins pole. Keselowski to start 32nd Knaus salvages Kansas to keep Johnson in hunt Regan Smith to race Nationwide for JR Motorsports Vettel sets fastest time in F1 India GP practice Red Bull boss insists Vettel staying in 2014 Vettel, Alonso confident ahead of Indian GP Ferrari cars use Italian navy flag at Indian GP Ad
+    Vettel dispels rumors of change to Ferrari McLaren twin achievements at Indian GP Earnhardt talks of anxiety caused by concussions Keselowski insists he's not feeling title heat Johnson wins pole. Keselowski to start 32nd Knaus salvages Kansas to keep Johnson in hunt Martin-Vickers-Waltrip team up again in 2013 Regan Smith to race Nationwide for JR Motorsports Ad
 *   NCAA BK
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Darron Cummings / AP Indiana leads way in AP poll
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Gregory Shamus / Getty Images Top 10 dunkers to watch this season
     
-    CBT: Tom Crean's Hooisers receive 43 of 65 possible first-place votes. This last time Indiana was No. 1 in the AP preseason poll was before the 1979-80 season.
+    CBT: A list of the select few who will emerge this 2012-2013 season to offer some spectacular performances.
     
-    UCLA's new Pauley Pavilion ready for its close-up Kansas' Young breaks hand, out 2 weeks CBT: Mizzou suspends guards Dixon, Bull indefinitely CBT: Kansas best in Big 12 yet again Minnesota's Saul Smith will keep job. return soon Iowa St. signs USC transfer Maurice Jones DePaul's Marrero to miss season with torn ACL CBT's Top 25 countdown: Ohio State No. 7 Ad
+    CBT: Indiana No. 1 team in AP preseason poll Baylor No. 1 in women's basketball poll UCLA's new Pauley Pavilion ready for its close-up Kansas' Young breaks hand, out 2 weeks CBT: Mizzou suspends guards Dixon, Bull indefinitely CBT: Kansas best in Big 12 yet again Minnesota's Saul Smith will keep job. return soon DePaul's Marrero to miss season with torn ACL Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Woods trails by 5 entering final round in Malaysia
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Watney fires red-hot 61, wins CIMB
     
-    Tiger Woods began his round Saturday with a barrage of birdies, but was derailed by miscues across the back nine.
+    Fans in the U.S. watched Nick Watney post a near-flawless 10-under 61 late Saturday night at the CIMB for his second win this year.
     
-    Van Pelt, Garrigus share CIMB lead after 54 holes Tiger Tracker: CIMB Classic Irish Olympic chief clarifies Rory's role in Rio Mahan plans to use Ryder Cup snub as motivator McIlroy mum on rumored new equipment deal PGA Tour Q-School first stage sites and scoring Tip of the Week: Sequence your backswing correctly Ad
+    Watney fires red-hot 61, wins CIMB Woods didn't lose CIMB Sunday, he got beat Tiger Tracker: CIMB Classic LPGA Player of the Year race tightens Mahan plans to use Ryder Cup snub as motivator McIlroy mum on rumored new equipment deal PGA Tour Q-School first stage sites and scoring Tip of the Week: Sequence your backswing correctly Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Nick Laham / Getty Images Can Red Bulls take advantage?
+    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Steve Dykes / Getty Images Wondolowski ties MLS goal record
     
-    The New York Red Bulls have much to gain or lose for the playoffs when they take on Philadelphia Union (1:30 p.m. ET Saturday, NBC). Philly's young talent will be playing for the future — and there's enough talent there for New York to be at risk.
+    PST: It's no fluke that Chris Wondolowski scored his 27th goal to tie a MLS single-season mark as San Jose tied Portland 1-1 on Saturday.
     
-    Premier League leaving Fox in US after this season PST: Solo won't be FIFA Women's player of year PST: Is De Rosario close to a return? PST: Everyone loves Alan Gordon, right? Man United midfielder Kagawa to miss 3-4 weeks Chelsea's Lampard out for 2 weeks Napoli, Cannavaro face match-fixing charge Superclasico: It's River vs. Boca, a game apart Ad
+    Highlights: Watch Wondolowski make history Wondolowski honored to tie record Highlights: United ties Fire, earns No. 2 seed PST: Red Bulls throttle Union Highlights: Red Bulls breeze past Union CSN: Embarrassing ending to Union's season Saturday's MLS roundup Messi hits 2 as Barcelona wins 5-0 at Rayo Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Charlie Krupa / AP 'Doesn't look good'
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Samuel Kubani / AFP - Getty Images Vonn escapes injury in Cup opener
     
-    OlympicTalk: Lindsey Vonn's bid to race against men next month looking doubtful.
+    Tina Maze of Slovenia won the season-opening women's World Cup giant slalom on Saturday.
     
-    Bad weather puts season-opening WCup race in doubt 4-time world champs grab attention at Skate Canada OlympicTalk: Lolo now on a different track Austrian skier Sieber, 23, dies in car crash 3xOlympic shooting champ Schumann retires at 50 Strnad shoots 1st major title in World Cup Final Two medals stolen from UK athletes. one still missing AIBA lifts USA Boxing's 3-month suspension Ad
+    OlympicTalk: Vonn's bid to race men 'doesn't look good' Spain's Javier Fernandez wins Skate Canada Up-and-comer wins women's event at Skate Canada 4-time world champs grab attention at Skate Canada Clukey hangs on to win USA Luge national title London Games boss Coe feared terrorist attacks OlympicTalk: Lolo now on a different track Austrian skier Sieber, 23, dies in car crash Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines Christophe Ena / AP Why leave Tour titles vacant?
+    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines J. Meric / Getty Images Sporting world is frightful
     
-    SportsTalk: Erik Kuselias, Peter King, Pete Najarian and Chris Mannix stand in agreement that the Tour de France is wrong to not find the rightful winners of Lance Armstrong's vacated titles.
+    Castrodale: From Cam Newton's sweaters to Michigan State's helmets to rumors about A-Rod, it's scary out there.
     
-    UCI: Tour winner list stays blank in Armstrong era Dallas promoter demands refund from Armstrong Azarenka nails down No. 1 ranking Sharapova beats Stosur at WTA Championships Summerville's McKissick earns win No. 600 Armstrong doping signs ignored Ex-friends says Lance 'biggest fraud' in sports One mom's defense of youth football Ad
+    Why leave Tour de France titles vacant? UCI: Tour winner list stays blank in Armstrong era Williams and Sharapova to contest WTA final TCI: Breeders' Cup pre-entries breakdown Game On Dude back in Breeders' Cup Classic Summerville's McKissick earns win No. 600 One mom's defense of youth football Off the Bench: Soccer game halted by tornado Ad
 
 *   Scores
 *   Odds
@@ -186,8 +186,8 @@ New York, NY
 
 Tweet Also on NBCSports.com World Series: Complete coverage from CSNBayArea.com  
 PFT's Picks: Broncos to beat up on Saints  
-CFT's Predictions 101: OU, Florida figure to win  
-PBT: Seven NBA players who need big seasons  
+CFT's Fifth Quarter: Top teams could run the table  
+PBT: Thunder makes major mistake trading Harden  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
