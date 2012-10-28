@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
-  Ads by Glam
+ 
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 96,378 • Total comments across all topics: 189,380,065
+Comments made yesterday: 96,420 • Total comments across all topics: 189,380,776
 
 Copyright ©2012 Topix LLC
 
