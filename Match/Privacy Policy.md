@@ -193,4 +193,4 @@ Web beacons may be used to deliver or communicate with cookies, to count users w
 
 _\*\* Our Terms of Use Agreement was revised 4/9/2012._
 
-© Copyright 2012 Match.com, L.L.C. wec1-056fec1-004s-
+© Copyright 2012 Match.com, L.L.C. wec1-017fec1-003s-
