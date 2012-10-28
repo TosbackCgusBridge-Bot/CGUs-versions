@@ -1,4 +1,4 @@
-Amazon
+Amazon Join Prime
 
 *   Your Amazon.com
 *   Today's Deals
@@ -244,6 +244,8 @@ Borrow from over 180,000 titles for free
 
 \>. Get started
 
+Watch. Read. Shop. Relax. Millions of Amazon Prime members enjoy instant videos, free Kindle books and unlimited free two-day shipping. >. Get started
+
 *   Unlimited Instant Videos
 *   Prime Instant VideosUnlimited streaming of thousands of  
     movies and TV shows with Amazon Prime
@@ -324,6 +326,7 @@ Borrow from over 180,000 titles for free
 *   Music
 *   MP3 Downloads
 *   Musical Instruments
+*   Entertainment Collectibles
 *   Video Games
 *   Game Downloads
 
@@ -458,5 +461,3 @@ View Cart (0 items) (0 item) (0 items)
 *   Wish from Any WebsiteAdd items to your List from anywhere
 *   Wedding Registry
 *   Baby Registry
-*   Kids' Birthdays
-*   Friends &. Family Gifting
