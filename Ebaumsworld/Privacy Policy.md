@@ -1,27 +1,27 @@
-*   VIDEO Stinky Cheese
-*   HALLOWNEED BLOG Halloween...
+*   VIDEO Kid Licks Subway Railing For 1 Dollar
+*   VIDEO Man With Press Pass Trolls Fox News
 *   CONTEST GALLERY eBaum's World Halloween Costume Contest
-*   VIDEO Killer Fish
-*   VIDEO Guys Reel In Shark On The Beach
-*   VIDEO Deer VS Skater
-*   VIDEO Pedestrian Nearly Has Legs Crushed
+*   HALLOWNEED BLOG Halloween...
+*   VIDEO Cam Zink Canyon Gap Jump Crash
+*   VIDEO Restore Your Faith in Time Lapse
+*   VIDEO City Rising by Tom Ryaboi
 *   WEIRD DANCERS GALLERY World's Worst Dance Crews
-*   VIDEO Log Crossing Epic Fail
-*   GALLERY Space Shuttle On The Streets Of LA
-*   VIDEO Travis Snider Makes Amazing Catch
-*   VIDEO Kid Rock &. Pam Anderson Yell at Paparazzi
-*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
 *   VIDEO Robot On A Tightrope
-*   VIDEO Teacher Gets Ass Kicked By 1st Grader
+*   VIDEO Behind the Finger
+*   GALLERY Space Shuttle On The Streets Of LA
+*   VIDEO Super Strong Boy in China
 *   MOVIE PRESIDENTS BLOG Hollywood's Greatest Presidents
-*   VIDEO 7 Year Old Blind Prodigy Shocks Jazz World
-*   VIDEO Female Driver Fails at Parking
-*   VIDEO Baby Hates Cat Sounds
-*   VIDEO Track Drifting Fail
+*   VIDEO Huge Truck Racing Crash
+*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
+*   VIDEO Massive Wedding Brawl
+*   VIDEO Guy's Face Meets Pole
+*   VIDEO SDSU Student Hits Half Court Shot
+*   VIDEO First Dirt Bike Ride
+*   VIDEO Eye Controlled Computer
+*   VIDEO 'QUIK'
 *   GOOD &. BAD LUCK BLOG Lesser Known Superstitions
 *   CUBE MAPPING PARTNER 3D Cube Mapping Demo
-*   VIDEO Pitiful Escape Attempt
-*   VIDEO Behind the Finger
+*   VIDEO Pocket Like It's Hot
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
@@ -111,16 +111,16 @@ Last updated: March 31, 2011.
 
 EBAUM'S PICKS The Greatest R/C Car Chase Ever CREEK JUMP......Come On Over Baby Highlight Video of Felix Baumgartners Historic Jump Alabama Lineman Suplex's Missouri Player Top 5
 
-*   *   108,729
-    *   32 Random Interesting Facts
-*   *   107,362
-    *   Deformities of the Stars
-*   *   96,460
-    *   How To Knock Someone Out
-*   *   94,499
-    *   Monday Morning Randomness
-*   *   94,258
-    *   LG Pranks Innocent Elevator Riders
+*   *   8,424
+    *   Halloween Costumes For Girls
+*   *   8,350
+    *   Amazing Halloween Light Show
+*   *   8,133
+    *   Awesome Police Cars
+*   *   6,471
+    *   Bird Poops on Anchor During Live World Series Coverage
+*   *   5,885
+    *   The Eye In The Sky
 
 POPULAR GALLERIES Best Viral Pics of The Week Compilation Brilliant YouTube Comments POPULAR GAMES Cloud Wars Election Ejection 2012 Into Space 2 Slender - Bones of Children
 
