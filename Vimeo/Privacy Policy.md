@@ -1,3 +1,7 @@
+×
+
+Your browser is out of date and may not support Vimeo's features. Please upgrade when possible.
+
 *   Join
 *   Log In
 *   Explore
