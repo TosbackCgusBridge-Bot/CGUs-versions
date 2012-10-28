@@ -1,5 +1,5 @@
   
-Users Online Now: **1,741** (Who's On?) Visitors Today: **332,451** Pageviews Today: **569,794** Threads Today: **237** Posts Today: **3,600** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **2,412** (Who's On?) Visitors Today: **522,414** Pageviews Today: **1,010,278** Threads Today: **391** Posts Today: **6,398** 10:39 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,13 @@ trinity@godlikeproductions.com
   
 News
 
+*   Frankie McDonalds Report On Hurricane Sandy
+*   Why Do Children Think Covering Their Eyes Makes Them Invisible?
+*   Watch Hurricane Sandy LIVE From Space Right Now
+*   Mississippi School Charged With Arresting Kids For Flatulence
+*   FULL NAME LIST: U.N. "ELECTION OBSERVERS"
+*   Mental Hospital Voter Sign-Up Questioned (Disability Rights North Carolina)
+*   Gun found in hollowed-out book donated to Illinois library
 *   Winter storm forecasters prepare for 'Frankenstorm'
 *   FBI: NYPD OFFICER CHARGED IN CANNIBAL PLOT:
 *   Mystery Glow of Dark Matter Halos Fueled by Extragalactic Stars
@@ -130,13 +137,6 @@ News
 *   PlayStation 3 hack is decryption jolt for Sony
 *   The New York Islanders Are Moving To Brooklyn
 *   VIDEO Moderator Accidentally Says 'Obama bin Laden' in Debate
-*   Lefties plan to drop anti-Mormon propaganda at mega-churches weekend before the election
-*   Boy Scouts' 'Perversion Files' released
-*   Texas Woman Charged With Publishing Picture of Undercover Officer Found On His Facebook Page
-*   Ohio Voter Fraud Billboards To Come Down, Sponsor Stays Unnamed
-*   Obama EPA regulations 'spell doom' for economy in 2013
-*   TSA removes X-ray body scanners from major airports
-*   CBS News affiliate calls 2012 presidential race for Barack Obama weeks ahead of election
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.017s (0 queries)
+Page generated in 0.021s (0 queries)
