@@ -1,8 +1,8 @@
 Privacy Policy JavaScript is disabled in your browser. We recommend that you enable JavaScript to optimize your experience on DIRECTV.com. Learn More
 
-*   DXDTPW12D
-*   2999317553
-*   3054137113
+*   DXDTPW13D
+*   3000913127
+*   3055774250
 *   false
 *   false
 *   false
