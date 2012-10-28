@@ -37,9 +37,9 @@ It's fast and easy. We'll never post without your permission.
 
 or First Name Your name will be publicly displayed on Etsy. These fields are optional. Last Name Female Male Rather not say Email Your confirmation will be sent to your email address. Your confirmation will be sent to %email%. Password Confirm Password Username Other suggestions: Use our suggestion or enter your own
 
-Sign up for the Etsy Finds newsletter.
-
 By clicking Register, you confirm that you accept our Terms of Use and Privacy Policy.
+
+Sign up for the Etsy Finds newsletter.
 
 Email or Username Password Stay signed in
 
