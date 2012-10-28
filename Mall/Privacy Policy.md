@@ -1,4 +1,4 @@
-Welcome to Soc.io Mall!  
+Soc.io��� Mall |The first Android Mall : Privacy Policy Welcome to Soc.io Mall!  
   
 Please fill in the missing info, so you could enjoy all Soc.io Mall benefits and experience it to the full extend. Continue Later Register Login Developers | Partners
 
@@ -38,7 +38,7 @@ Your e-mail and other contact information will not be shared with anyone outside
 You can remove your e-mail address from our mailing list by clicking on the automatic "unsubscribe" link in any of our mailings, simply at unsubscribe email.
 
 **Cookies**  
-Cookies are small pieces of data that the site transfers to the user’s computer hard drive when the user visits the website. Our website uses only session cookies which are erased when the user closes the Web browser. The session cookie is stored in temporary memory and is not retained after the browser is closed. Session cookies do not collect information from the user’s computer. They will typically store information in the form of a session identification that does not personally identify the user.
+Cookies are small pieces of data that the site transfers to the user���s computer hard drive when the user visits the website. Our website uses only session cookies which are erased when the user closes the Web browser. The session cookie is stored in temporary memory and is not retained after the browser is closed. Session cookies do not collect information from the user���s computer. They will typically store information in the form of a session identification that does not personally identify the user.
 
 **Protection and handling of personal data provided by the data subject**  
 We respect and protect your privacy. Giga Market Ltd. is the sole owner of the information collected on this site.  
