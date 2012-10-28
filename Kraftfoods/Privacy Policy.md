@@ -35,7 +35,7 @@ Effective Date: December 14, 2011 kraftfoods.com privacy notice This website is 
     *   How We Share Your Information
     *   Links To Other Websites
     *   Your Choices
-    *   Childrenâs Privacy
+    *   Children’s Privacy
     *   How We Protect Your Information
     *   Updates To This Privacy Notice
     *   How To Contact Us
@@ -45,7 +45,7 @@ Information We Collect
 
 Personally-Identifiable Information
 
-On our website, we collect certain personally-identifiable information, such as name, telephone number and e-mail address, about online visitors who choose to register on our website or participate in our offers and programs. We donât require you to register or provide personally-identifiable information to view our site or access much of its content, such as our many delicious recipes. But if you register, you may use certain additional features that allow you to receive or access your favorite recipes and participate in our interactive communities.Â  Sharing this additional information with us also helps us customize your website experience. Â In addition, we may use the information you provide us to send you offers and information about Kraft, its portfolio of brands and its partners.Â  Here are the ways we collect personally-identifiable information.
+On our website, we collect certain personally-identifiable information, such as name, telephone number and e-mail address, about online visitors who choose to register on our website or participate in our offers and programs. We don’t require you to register or provide personally-identifiable information to view our site or access much of its content, such as our many delicious recipes. But if you register, you may use certain additional features that allow you to receive or access your favorite recipes and participate in our interactive communities.  Sharing this additional information with us also helps us customize your website experience.  In addition, we may use the information you provide us to send you offers and information about Kraft, its portfolio of brands and its partners.  Here are the ways we collect personally-identifiable information.
 
 Registration
 
@@ -53,7 +53,7 @@ To take full advantage of our offers, you may choose to register on our site. In
 
 Contests, Sweepstakes and Games
 
-Our site contains notices of contests, sweepstakes and games that you can enter. We use the information you provide to conduct the promotion (for example, to contact you if youâre a winner).
+Our site contains notices of contests, sweepstakes and games that you can enter. We use the information you provide to conduct the promotion (for example, to contact you if you’re a winner).
 
 E-mail
 
@@ -77,7 +77,7 @@ When you purchase products or services from Kraft, we request your billing infor
 
 Send to a Friend
 
-We may give you the opportunity to tell your friends about features or information on our website. If you take advantage of our Send to a Friend option, we ask you for your friendâs and your first name and e-mail addresses to send the information to them that you requested. We donât keep or use your friendâs e-mail address for any other purpose.
+We may give you the opportunity to tell your friends about features or information on our website. If you take advantage of our Send to a Friend option, we ask you for your friend’s and your first name and e-mail addresses to send the information to them that you requested. We don’t keep or use your friend’s e-mail address for any other purpose.
 
 Other Site Features
 
@@ -93,7 +93,7 @@ We may use cookies, web beacons/pixel tags, log files, and other technologies to
 
 We also may use third party advertisements placed by ad networks to support our site. Some of these advertisers and ad networks may use technology such as cookies and web beacons/pixel tags when they advertise on our site, which will also send these advertisers and ad networks information including your IP address, your ISP, the browser you used to visit our site, and whether you have Flash installed. Some of these advertisers and ad networks also may use anonymous data, such as demographic data, received from third parties to assist in the delivery of advertisements to you. These advertisers and ad networks use the information described above to provide you relevant advertisements based on your online behavior, search activities on our site and on other third party sites, demographic information and/or relevant to your general location, so that the advertising you see on our site more closely reflects your interests and needs. For example, if you search for, or browse a, recipe or product on our site, you may see an advertisement from a third party with information about, or an offer similar to, that for which you were searching or browsing on our site, or an offer related to a third party whose site you have visited in the past.
 
-You can set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, and to omit images (which will disable pixel tags). Note that the opt-out will apply only to the browser that you are using when you elect to opt out of advertising cookies. You can learn more about and opt out from receiving third party advertiser cookies by visiting the Network Advertising Initiativeâs opt-out page here. Without cookies or pixel tags though, you may not be able to take full advantage of all of Kraftâs website features.
+You can set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, and to omit images (which will disable pixel tags). Note that the opt-out will apply only to the browser that you are using when you elect to opt out of advertising cookies. You can learn more about and opt out from receiving third party advertiser cookies by visiting the Network Advertising Initiative’s opt-out page here. Without cookies or pixel tags though, you may not be able to take full advantage of all of Kraft’s website features.
 
 Information Collected From Other Sources
 
@@ -105,9 +105,9 @@ We may use the information we collect to contact you from time to time. For exam
 
 How We Share Your Information
 
-We do not sell or otherwise disclose personally identifiable information about our website visitors, except as described here. We do not share your personally identifiable information with unaffiliated third parties for their own marketing purposes without your consent. For California residents, please see âYour California Privacy Rightsâ below.
+We do not sell or otherwise disclose personally identifiable information about our website visitors, except as described here. We do not share your personally identifiable information with unaffiliated third parties for their own marketing purposes without your consent. For California residents, please see “Your California Privacy Rights” below.
 
-We may share personally identifiable information among Kraft brands and subsidiaries. We may also share the information with service providers we have retained to perform services on our behalf, such as to help run promotions, fulfill orders and provide customer service. These service providers may have access to personally-identifiable information about our website visitors if it is needed to perform their functions for Kraft, but they are not authorized by Kraft to use or disclose the information except as necessary to perform services on Kraftâs behalf or to comply with legal requirements. In addition, we may disclose information where we think itâs necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others, if required by law, or in response to a request from law enforcement authorities or other government officials.
+We may share personally identifiable information among Kraft brands and subsidiaries. We may also share the information with service providers we have retained to perform services on our behalf, such as to help run promotions, fulfill orders and provide customer service. These service providers may have access to personally-identifiable information about our website visitors if it is needed to perform their functions for Kraft, but they are not authorized by Kraft to use or disclose the information except as necessary to perform services on Kraft’s behalf or to comply with legal requirements. In addition, we may disclose information where we think it’s necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others, if required by law, or in response to a request from law enforcement authorities or other government officials.
 
 We may conduct joint promotions with other companies. We may share with our promotional partners (and their service providers) certain personally-identifiable information as necessary to conduct the promotion. We will not share this information with our promotional partners for any other purpose unless you consent to such sharing.
 
@@ -115,7 +115,7 @@ During the normal course of our business, Kraft may sell or purchase assets. If 
 
 Your California Privacy Rights
 
-For California Residents: We may share your personally-identifiable information with affiliated third parties, some of which do not share the Kraft name, for their own direct marketing purposes. Because this category of affiliates is considered to be âunaffiliated partiesâ under California Law, you may opt out of us sharing with them. To opt out, please send a letter with your name, postal address, e-mail, with the heading âCalifornia Privacy Rightsâ to:  
+For California Residents: We may share your personally-identifiable information with affiliated third parties, some of which do not share the Kraft name, for their own direct marketing purposes. Because this category of affiliates is considered to be “unaffiliated parties” under California Law, you may opt out of us sharing with them. To opt out, please send a letter with your name, postal address, e-mail, with the heading “California Privacy Rights” to:  
   
 Kraft Foods Group, Inc.  
 1 Kraft Court  
@@ -124,21 +124,21 @@ Attention: Consumer Relations
 
 Links To Other Websites
 
-This website may contain links to other websites. We provide these links solely for your convenience and information. Different websites have different privacy practices. You should always check the privacy notice of the specific site youâre visiting to understand the privacy practices associated with that site. We are not responsible for the content or privacy practices of third party websites.
+This website may contain links to other websites. We provide these links solely for your convenience and information. Different websites have different privacy practices. You should always check the privacy notice of the specific site you’re visiting to understand the privacy practices associated with that site. We are not responsible for the content or privacy practices of third party websites.
 
 Your Choices
 
-You can change your preferences for follow-up contacts by Kraft. If youâre registered with our website, you can change the information youâve provided to us in the "Your Profile" section of the site. If youâre not registered with this site, you can change your preferences by clicking here. If you prefer, you can cancel your registration altogether. E-mail us if you wish to take this action.
+You can change your preferences for follow-up contacts by Kraft. If you’re registered with our website, you can change the information you’ve provided to us in the "Your Profile" section of the site. If you’re not registered with this site, you can change your preferences by clicking here. If you prefer, you can cancel your registration altogether. E-mail us if you wish to take this action.
 
 Children's Privacy
 
-Some portions of our website may be directed to children under 13. In these areas of our website, our conduct is governed by federal law and regulations that address childrenâs online privacy, as well as by the guidelines of the Childrenâs Advertising Review Unit (CARU), a part of the Council of Better Business Bureaus. If you are under 13, please be sure to read this notice with your parent or legal guardian.
+Some portions of our website may be directed to children under 13. In these areas of our website, our conduct is governed by federal law and regulations that address children’s online privacy, as well as by the guidelines of the Children’s Advertising Review Unit (CARU), a part of the Council of Better Business Bureaus. If you are under 13, please be sure to read this notice with your parent or legal guardian.
 
-We do not knowingly collect personally-identifiable information from children under 13 on our website, except as permitted by legal requirements and the CARU guidelines. We sometimes offer promotions on our website, such as contests, sweepstakes and games, which children may enter. In those cases, we do not require a child to disclose more information than is reasonably necessary to participate in the promotion as a condition of participation. If we need more than just your childâs first name (or screen name) and e-mail address for your child to participate in a particular online promotion, we will ask your child for your e-mail address so that we can notify you of your childâs request and obtain your permission. When we ask for your permission, we will tell you what we will do with the information that you or your child provides us. In addition, if a child under 13 signs up with us for an email newsletter or other online activity that requires more than one online contact, we also ask the child for your email address so that we can notify you and give you the opportunity to opt your child out of further communications from us. Unless you have explicitly consented, we do not (i) use your childâs personal information for any purpose other than to complete the promotion or (ii) share the information with third parties except as described above in this Privacy Notice. We do not keep your (or your childâs) email address unless you tell us it is okay.
+We do not knowingly collect personally-identifiable information from children under 13 on our website, except as permitted by legal requirements and the CARU guidelines. We sometimes offer promotions on our website, such as contests, sweepstakes and games, which children may enter. In those cases, we do not require a child to disclose more information than is reasonably necessary to participate in the promotion as a condition of participation. If we need more than just your child’s first name (or screen name) and e-mail address for your child to participate in a particular online promotion, we will ask your child for your e-mail address so that we can notify you of your child’s request and obtain your permission. When we ask for your permission, we will tell you what we will do with the information that you or your child provides us. In addition, if a child under 13 signs up with us for an email newsletter or other online activity that requires more than one online contact, we also ask the child for your email address so that we can notify you and give you the opportunity to opt your child out of further communications from us. Unless you have explicitly consented, we do not (i) use your child’s personal information for any purpose other than to complete the promotion or (ii) share the information with third parties except as described above in this Privacy Notice. We do not keep your (or your child’s) email address unless you tell us it is okay.
 
-We permit children under the age of 13 to contact us through the website "Contact Us" link with questions or comments. We request only the childâs first name and e-mail address and use that information solely to respond directly to the child on a one-time basis. We do not use the information to recontact the child and we delete the childâs personal information from our database after responding to the childâs inquiry.
+We permit children under the age of 13 to contact us through the website "Contact Us" link with questions or comments. We request only the child’s first name and e-mail address and use that information solely to respond directly to the child on a one-time basis. We do not use the information to recontact the child and we delete the child’s personal information from our database after responding to the child’s inquiry.
 
-Upon proper identification, a parent may review any personal information we have collected from his or her child if we still have the information in our database. The parent also may request that the childâs information be deleted from our database and may refuse to permit further collection or use of the childâs information. If you are a parent and wish to exercise these rights, please contact us as described below.
+Upon proper identification, a parent may review any personal information we have collected from his or her child if we still have the information in our database. The parent also may request that the child’s information be deleted from our database and may refuse to permit further collection or use of the child’s information. If you are a parent and wish to exercise these rights, please contact us as described below.
 
 How We Protect Your Information
 
@@ -146,7 +146,7 @@ The security of personally-identifiable information is important to us. We maint
 
 Updates To This Privacy Notice
 
-We may change or update portions of this Privacy Notice at any time. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the noticeâs effective date on the first page of the notice.
+We may change or update portions of this Privacy Notice at any time. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the notice’s effective date on the first page of the notice.
 
 How To Contact Us
 
@@ -213,10 +213,10 @@ more from kraft foods
 *   collaborate with kraft
 
   © 2012 Kraft Foods. All rights reserved kraftfoods.com privacy notice browse by meal dinner lunch breakfast &. brunch desserts appetizers beverages recipe categories budget recipes healthy living kid-friendly recipes holidays &. entertaining quick &. easy recipes chicken recipes pasta recipes seafood recipes 1 bag 5 dinners ethnic recipes featured collections halloween recipes kids halloween recipes halloween desserts halloween drinks chili recipes potluck recipes quick &. easy desserts vegetarian recipes casserole recipes pizza recipes ground beef recipes brownie recipes tailgate recipes one-pot wonder recipes new recipes easy VELVEETA soup recipes comfort food recipes apple recipes >  
-skillet chicken &. dumplingsEnjoy this recipe which is sure to become a family favorite! holidays holiday calendar halloween entertaining party planning birthday parties potluck recipes tailgate recipes appetizer math healthy living nutrition basics diabetes center for nutrition professionals weight management healthy living recipes your kids kids can cook kids in the kitchen birthday parties kids nutrition cooking tips cooking videos charts &. guides how-to tips special features budget food safety pasta center salad center seasonal produce whatâs in season >  
-cupcake photo challenge! Make one of our Halloween cupcake recipes and share a photo â it could appear in our Recipes by Email! kraft foods community recipe exchange message boards photos  
+skillet chicken &. dumplingsEnjoy this recipe which is sure to become a family favorite! holidays holiday calendar halloween entertaining party planning birthday parties potluck recipes tailgate recipes appetizer math healthy living nutrition basics diabetes center for nutrition professionals weight management healthy living recipes your kids kids can cook kids in the kitchen birthday parties kids nutrition cooking tips cooking videos charts &. guides how-to tips special features budget food safety pasta center salad center seasonal produce what’s in season >  
+cupcake photo challenge! Make one of our Halloween cupcake recipes and share a photo – it could appear in our Recipes by Email! kraft foods community recipe exchange message boards photos  
   
 **butterscotch banana pudding squares** Delicious layers make this dessert a crowd-pleaser, but also so easy to make! submitted by: leannabrtltt >  
-what people are talking about easy budget halloween desserts pasta potluck kids comfort foods chicken cheesecake dips dinner easy e-mail tailgating magazine kraft cheese recipe collections entrÃ©es sandwiches brunch appetizers and sides >  
-kraft cheese products kraft fresh take kraft grated parmesan kraft natural shredded cheese kraft natural slices kraft singles featured products OSCAR MAYER KRAFT SIZZLING SALADS PLANTERS PEANUT BUTTER JET-PUFFED JELL-O MAXWELL HOUSE KRAFT BARBEQUE SAUCE tools &. info kraft brands promotions whatâs new nutrition &. ingredient info product locator >  
-introducingâ¦ New MAXWELL HOUSE flavor lock pack! Good to the Last Drop.
+what people are talking about easy budget halloween desserts pasta potluck kids comfort foods chicken cheesecake dips dinner easy e-mail tailgating magazine kraft cheese recipe collections entrées sandwiches brunch appetizers and sides >  
+kraft cheese products kraft fresh take kraft grated parmesan kraft natural shredded cheese kraft natural slices kraft singles featured products OSCAR MAYER KRAFT SIZZLING SALADS PLANTERS PEANUT BUTTER JET-PUFFED JELL-O MAXWELL HOUSE KRAFT BARBEQUE SAUCE tools &. info kraft brands promotions what’s new nutrition &. ingredient info product locator >  
+introducing… New MAXWELL HOUSE flavor lock pack! Good to the Last Drop.
