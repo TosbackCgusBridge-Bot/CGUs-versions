@@ -113,46 +113,46 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/27/2012 7:02 AM ET
+Updated: 10/28/2012 10:18 AM ET
 
-1.  1 Ex-Biden aide pens angry tell-all
-2.  2 NBA's Stern: Obama always goes left
-3.  3 White voters still matter
+1.  1 Romney readjusts after Florida
+2.  2 Maher: Mitt would be a freakshow
+3.  3 Liberal mega-donors embrace super PACs
 4.  4 Obama's fuzzy Ohio early vote math
-5.  5 Reid doing fine after car accident
-6.  6 Romney ad bomb finally here?
-7.  7 Dems go all in for abortion rights
-8.  8 Newt: 300 electoral votes for Mitt
-9.  9 CNN Ohio poll: Obama 50, Romney 46
-10.  10 Obama talks same-sex marriage, music on MTV
+5.  5 NWS to East Coast: Brace for storm
+6.  6 Romney's road to Ohio victory
+7.  7 Marco Rubio's daughter in golf cart accident (Updated)
+8.  8 Tight race in deeply divided Wisconsin
+9.  9 Des Moines Register endorses Romney over Obama
+10.  10 Romney's unreleased Ohio auto bailout ad
 
-Updated: 10/27/2012 7:02 AM ET
+Updated: 10/28/2012 10:18 AM ET
+
+1.  1 Romney's road to Ohio victory
+2.  2 Obama's fuzzy Ohio early vote math
+3.  3 Maher: Mitt would be a freakshow
+4.  4 GOP's California dreams dashed
+5.  5 Fla. insiders: Romney will win state
+6.  6 Romney ad bomb finally here?
+7.  7 Liberal mega-donors embrace super PACs
+8.  8 Romney readjusts after Florida
+9.  9 Ex-Biden aide pens angry tell-all
+10.  10 Poll: Most prejudiced against blacks
+
+Updated: 10/28/2012 10:18 AM ET
 
 1.  1 Ex-Biden aide pens angry tell-all
 2.  2 NBA's Stern: Obama always goes left
-3.  3 Dems go all in for abortion rights
-4.  4 Romney ad bomb finally here?
-5.  5 Sununu retreats on claim that Powell's endorsement of Obama was race-driven
-6.  6 Right blogs fume over 'virgin' ad
-7.  7 Two new polls scream 'advantage Obama'
-8.  8 White voters still matter
-9.  9 GDP number a relief for Obama
-10.  10 Reid doing fine after car accident
+3.  3 Romney's road to Ohio victory
+4.  4 Obama's fuzzy Ohio early vote math
+5.  5 Dems go all in for abortion rights
+6.  6 Romney ad bomb finally here?
+7.  7 Maher: Mitt would be a freakshow
+8.  8 Sununu retreats on claim that Powell's endorsement of Obama was race-driven
+9.  9 White voters still matter
+10.  10 GOP's California dreams dashed
 
-Updated: 10/27/2012 7:02 AM ET
-
-1.  1 Ex-Biden aide pens angry tell-all
-2.  2 Obama says kids know Romney is dishonest
-3.  3 Romney raises $111.8 million in October
-4.  4 NBA's Stern: Obama always goes left
-5.  5 Two new polls scream 'advantage Obama'
-6.  6 McCain: 'Gen. Powell, you disappoint'
-7.  7 Dems go all in for abortion rights
-8.  8 Obama's pathetic picture book
-9.  9 How Mitt Romney would govern
-10.  10 Obama laughs off Trump's offer
-
-Updated: 10/27/2012 7:02 AM ET
+Updated: 10/28/2012 10:18 AM ET
 
 1.  1 Trump claims Obama bombshell
 2.  2 Ex-Biden aide pens angry tell-all
@@ -170,58 +170,58 @@ Updated: 10/27/2012 7:02 AM ET
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/27/2012 7:02 AM ET
+Updated: 10/28/2012 10:18 AM ET
 
-Updated: 10/27/2012 7:02 AM ET
+1.  1 NWS to East Coast: Brace for storm
+2.  2 A quiet, history-making Senate bid
+3.  3 Tight race in deeply divided Wisconsin
 
-1.  1 Treasury rejects Issa subpoena threat
-2.  2 Reid doing fine after car accident
-3.  3 GOPer's Sandy advice for Mitt: Stay low key
-4.  4 White voters still matter
-5.  5 Rush: Dunham ad insults women
-6.  6 Obama's fuzzy Ohio early vote math
-7.  7 How does Electoral College work?
-8.  8 Stars shine for genetic food labeling
-9.  9 Michelle 'wakes up' Kimmel ratings
-10.  10 A new song: 'Forward' with Obama
+Updated: 10/28/2012 10:18 AM ET
 
-Updated: 10/27/2012 7:02 AM ET
+1.  1 NWS to East Coast: Brace for storm
+2.  2 A quiet, history-making Senate bid
+3.  3 Tight race in deeply divided Wisconsin
+4.  4 Liberal mega-donors embrace super PACs
+5.  5 Obama seeks New Hampshire prize
+6.  6 Poll: Most prejudiced against blacks
 
-1.  1 Treasury rejects Issa subpoena threat
-2.  2 Reid doing fine after car accident
-3.  3 GOPer's Sandy advice for Mitt: Stay low key
-4.  4 White voters still matter
-5.  5 Rush: Dunham ad insults women
-6.  6 Obama's fuzzy Ohio early vote math
-7.  7 How does Electoral College work?
-8.  8 Stars shine for genetic food labeling
-9.  9 Michelle 'wakes up' Kimmel ratings
-10.  10 A new song: 'Forward' with Obama
+Updated: 10/28/2012 10:18 AM ET
 
-Updated: 10/27/2012 7:02 AM ET
+1.  1 NWS to East Coast: Brace for storm
+2.  2 A quiet, history-making Senate bid
+3.  3 Tight race in deeply divided Wisconsin
+4.  4 Liberal mega-donors embrace super PACs
+5.  5 Obama seeks New Hampshire prize
+6.  6 Poll: Most prejudiced against blacks
+7.  7 Maher: Mitt would be a freakshow
+8.  8 Sandy blows out campaign events
+9.  9 GOP's California dreams dashed
+10.  10 The Obama generation X factor
 
-1.  1 Treasury rejects Issa subpoena threat
-2.  2 Reid doing fine after car accident
-3.  3 GOPer's Sandy advice for Mitt: Stay low key
-4.  4 White voters still matter
-5.  5 Rush: Dunham ad insults women
-6.  6 Obama's fuzzy Ohio early vote math
-7.  7 How does Electoral College work?
-8.  8 Stars shine for genetic food labeling
-9.  9 Michelle 'wakes up' Kimmel ratings
-10.  10 A new song: 'Forward' with Obama
+Updated: 10/28/2012 10:18 AM ET
+
+1.  1 NWS to East Coast: Brace for storm
+2.  2 A quiet, history-making Senate bid
+3.  3 Tight race in deeply divided Wisconsin
+4.  4 Liberal mega-donors embrace super PACs
+5.  5 Obama seeks New Hampshire prize
+6.  6 Poll: Most prejudiced against blacks
+7.  7 Maher: Mitt would be a freakshow
+8.  8 Sandy blows out campaign events
+9.  9 GOP's California dreams dashed
+10.  10 The Obama generation X factor
 
 Showing Last 7 Days
 
-Updated: 10/27/2012 7:02 AM ET
+Updated: 10/28/2012 10:18 AM ET
 
-1.  1 White voters still matter
-2.  2 Obama tries to shore up female vote
-3.  3 Dems go all in for abortion rights
-4.  4 How Mitt Romney would govern
-5.  5 Trump will donate for Obama records
-6.  6 Obama's 11th-hour strategy shift
-7.  7 Campaigns launch fierce endgame
+1.  1 Romney's road to Ohio victory
+2.  2 White voters still matter
+3.  3 Obama tries to shore up female vote
+4.  4 Dems go all in for abortion rights
+5.  5 How Mitt Romney would govern
+6.  6 Trump will donate for Obama records
+7.  7 Obama's 11th-hour strategy shift
 8.  8 Obama tears into Mitt at last debate
 9.  9 Trump claims Obama bombshell
 10.  10 Romney's toughest debate
