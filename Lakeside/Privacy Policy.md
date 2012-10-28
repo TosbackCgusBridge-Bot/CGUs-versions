@@ -1291,7 +1291,7 @@ true
 
 includeFirst
 
-"The Lakeside Collection? has proudly served America's shoppers for more than a decade, offering exceptional products at the best prices. We are a trusted source, committed to customer service and satisfaction. And with our incredible low prices and great selection, we really do show that the best things in life don't have to cost a fortune."
+"The Lakeside Collection® has proudly served America's shoppers for more than a decade, offering exceptional products at the best prices. We are a trusted source, committed to customer service and satisfaction. And with our incredible low prices and great selection, we really do show that the best things in life don't have to cost a fortune."
 
 _Sign-Up for Exclusive_ Offers and Previews Your Email Address
 
@@ -1355,10 +1355,10 @@ _Our Guarantee!_ If you are not completely satisfied with all or part of your or
     6.  Use the appropriate label for the carrier of your choice. (The label may be found next to the Return Form on the back of your invoice.)
     
     To return Using UPS Using US Postal Service Returns Department  
-    The Lakeside Collection?  
+    The Lakeside Collection®  
     2800 Lakeside Dr  
     Bannockburn, IL 60015 Returns Department  
-    The Lakeside Collection?  
+    The Lakeside Collection®  
     PO Box 94835  
     Palatine, IL 60094-4835  *   FAQs
         
@@ -1373,7 +1373,7 @@ _Our Guarantee!_ If you are not completely satisfied with all or part of your or
         
     Product Safety
     
-    The Lakeside Collection? carefully selects its products from a large number of vendors located in both the USA and abroad. Our dedication to finding you the very best in housewares, clothing, furniture, toys, holiday accents and more includes thorough product testing that strives to exceed industry standards. This helps to ensure our merchandise is both high in quality and competitively priced. Most of all, it assures us that the safety and satisfaction of our most important asset - our customers - will always be met.
+    The Lakeside Collection® carefully selects its products from a large number of vendors located in both the USA and abroad. Our dedication to finding you the very best in housewares, clothing, furniture, toys, holiday accents and more includes thorough product testing that strives to exceed industry standards. This helps to ensure our merchandise is both high in quality and competitively priced. Most of all, it assures us that the safety and satisfaction of our most important asset - our customers - will always be met.
     
      *   Career Center
         
