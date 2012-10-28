@@ -1,4 +1,4 @@
-Up to $125 OFF: DENIM Event! FREE SHIPPING\*  
+DOUBLE Gift Card Offer Up to $125 OFF: DENIM Event! FREE SHIPPING\*  
 with code FALLFS Assistance How may we help you? 1.888.888.4757 Call 24 hrs / 7 days Chat with Us Email us
 
 *   Contact Us
