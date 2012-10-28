@@ -143,35 +143,6 @@ Naples Daily News
 *   Cars
 *   Classified
 
-*   PrepZone: Football
-    
-    Scores &. Chat Archive | Lely vs. Palmetto Ridge | Gulf Coast vs. Golden Gate | South Fort Myers vs. Charlotte »
-    
-*   Game Videos
-    
-    Golden Gate vs. Gulf Coast | Lely vs. Palmetto Ridge | St. John Neumann vs. Southwest Florida Christian
-    
-*   Game Videos
-    
-    Estero vs. Mariner | South Fort Myers vs. Charlotte | More Videos »
-    
-*   From the Stands
-    
-    Gulf Coast Band | Golden Gate Band | Send us your photos »
-    
-*   Wind Advisory
-    
-    IN EFFECT UNTIL OCT 27, 8:00 p.m.
-    
-    issued for Inland Collier County
-    
-*   Lake Wind Advisory
-    
-    IN EFFECT UNTIL OCT 27, 8:00 p.m.
-    
-    issued for Lee
-    
-
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -464,25 +435,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Collier deputy stripped of law enforcement credentials after two fatal wrecks Published 10/26/2012 at 5:58 p.m. 36 comments
-*   Poll: Romney erases Obama lead among women Published 10/25/2012 at 6:49 a.m. 195 comments
-*   U.S. economic growth expands at 2% rate in third quarter Updated 10/26/2012 at 11:54 a.m. 52 comments
-*   ‘Frankenstorm’ could hit East Coast Updated 10/26/2012 at 9:12 a.m. 21 comments
-*   Prep Football: Chat, scores, videos, photos and stories from Week 9 Updated 10/26/2012 at 11:52 p.m. 0 comments
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 85 comments
+*   Lines are long at early voting as expected, long ballot has election officials urging 'patience' Updated 10/27/2012 at 1:03 p.m. 94 comments
+*   Collier deputy stripped of law enforcement credentials after two fatal wrecks Published 10/26/2012 at 5:58 p.m. 77 comments
+*   Marco mom faces DUI charge after crash in school parking lot Published 10/26/2012 at 8:30 p.m. 30 comments
+*   Obama, Romney have eyes on Sandy - and Florida - as campaign hits final 10 days Published 10/27/2012 at 1:01 p.m. 51 comments
 
-Photo Galleries Prep Football: Gulf Coast vs. Golden… Historic Photos: Everglades National… Barron Collier defeats Gulf Coast in…
+Photo Galleries Naples Stone Crab Festival 2012 Strut Your Mutt 2012 NNFD Halloween Costume Party 2012
 
-*   Poll: Romney erases Obama lead among women Published 10/25/2012 at 6:49 a.m. 195 comments
+*   Poll: Romney erases Obama lead among women Published 10/25/2012 at 6:49 a.m. 223 comments
+*   Lines are long at early voting as expected, long ballot has election officials urging 'patience' Published 10/27/2012 at 3:10 a.m. 94 comments
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 85 comments
+*   Collier deputy stripped of law enforcement credentials after two fatal wrecks Published 10/26/2012 at 5:58 p.m. 77 comments
 *   Donald Trump offers $5 million if Obama releases personal records Published 10/24/2012 at 1:04 p.m. 181 comments
-*   City Councilman: Collier bus system is broken Published 10/25/2012 at 5:00 a.m. 94 comments
-*   Tampa man arrested in East Naples hotel rape Published 10/24/2012 at 4:19 p.m. 64 comments
-*   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 67 comments
 
 *   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 54 comments
 *   Venice diocese removes once-popular priest in Bonita Springs from priesthood Published 10/24/2012 at 5:10 a.m. 38 comments
 *   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 67 comments
-*   Reports: Man fought with officers, defecated in pants Published 10/17/2012 at 6:44 p.m. 54 comments
 *   In the Know: Seconds, anyone? Even more area restaurants planning to open soon Published 10/24/2012 at 5:00 a.m. 17 comments
+*   Worsening red tide brings dead fish onto Naples-area beaches Published 10/20/2012 at 7:00 a.m. 19 comments
 
 Weather
 
@@ -490,40 +461,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 75° Fair Wind: NW 12mph Today 82° 72° Sat 08:00 PM Mostly Clear Temp: 77° Sun 08:00 AM Mostly Sunny Temp: 71° Sun 08:00 PM Mostly Clear Temp: 73°
+Currently 77° Overcast and Breezy Wind: W 21mph Today 80° 62° Sun 11:00 PM Clear Temp: 70° Mon 11:00 AM Sunny Temp: 70° Mon 11:00 PM Clear Temp: 63°
 
-Feels Like: 77°
+Feels Like: 70°
 
-Humidity: 62%
+Humidity: 61%
 
-Precip: 5%
+Precip: 1%
 
-Feels Like: 71°
+Feels Like: 70°
 
-Humidity: 73%
+Humidity: 51%
 
-Precip: 5%
+Precip: 0%
 
-Feels Like: 73°
+Feels Like: 63°
 
-Humidity: 64%
+Humidity: 58%
 
-Precip: 5%
+Precip: 0%
 
 More Weather » Calendar
 
-*   Saturday Oct 27
 *   Sunday Oct 28
 *   Monday Oct 29
+*   Tuesday Oct 30
 *   More BROWSE Icon
-
-*   Race the Roof Benefit for Habitat for Humanity Verandah Golf &. Country Club 7 a.m.
-*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
-*   Third Street South Farmers Market Third Street South 7:30 a.m.
-*   Yard Sale and Market Saint Paul's Episcopal Church 8 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-
-More Events »
 
 *   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
@@ -538,6 +501,14 @@ More Events »
 *   Baby boot camp Miromar Outlets 9 a.m.
 *   Pumpkin Patch North Naples United Methodist Church 9 a.m.
 *   The Secrets of America’s Richest and Oldest Families FGCU Naples Center 10 a.m.
+
+More Events »
+
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
+*   Pre-Election Playbook Global Wealth Consultants - 8955 Fontana Del Sol Way 9 a.m.
+*   Barrier Islands Guided Walk Bowditch Point Recreational Park 9:30 a.m.
 
 More Events »
 
