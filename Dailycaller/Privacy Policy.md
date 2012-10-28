@@ -1,4 +1,4 @@
-**TRENDING** MITT ROMNEY | SMARTPHONE | TROPICAL STORM | BARACK OBAMA | WORLD SERIES | HARRY REID
+**TRENDING** MITT ROMNEY | WORLD SERIES | TROPICAL STORM | BARACK OBAMA | SMARTPHONE | HARRY REID
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  DELPHI DEALS Ann Coulter UNLOADS on Piers Morgan: You're 'a sexist, misogynist pig' \[VIDEO\] Obama admits he doesn't know whether military could have helped embassy \[VIDEO\]    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  Ann Coulter UNLOADS on Piers Morgan: You're 'a sexist, misogynist pig' \[VIDEO\] DELPHI DEALS Obama admits he doesn't know whether military could have helped embassy \[VIDEO\]    
 
 *   Social: Active  
     *   Active
