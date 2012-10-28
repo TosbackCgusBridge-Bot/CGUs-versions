@@ -435,7 +435,7 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 85 comments
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 88 comments
 *   Lines are long at early voting as expected, long ballot has election officials urging 'patience' Updated 10/27/2012 at 1:03 p.m. 94 comments
 *   Collier deputy stripped of law enforcement credentials after two fatal wrecks Published 10/26/2012 at 5:58 p.m. 77 comments
 *   Marco mom faces DUI charge after crash in school parking lot Published 10/26/2012 at 8:30 p.m. 30 comments
@@ -445,7 +445,7 @@ Photo Galleries Naples Stone Crab Festival 2012 Strut Your Mutt 2012 NNFD Hallow
 
 *   Poll: Romney erases Obama lead among women Published 10/25/2012 at 6:49 a.m. 223 comments
 *   Lines are long at early voting as expected, long ballot has election officials urging 'patience' Published 10/27/2012 at 3:10 a.m. 94 comments
-*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 85 comments
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 88 comments
 *   Collier deputy stripped of law enforcement credentials after two fatal wrecks Published 10/26/2012 at 5:58 p.m. 77 comments
 *   Donald Trump offers $5 million if Obama releases personal records Published 10/24/2012 at 1:04 p.m. 181 comments
 
