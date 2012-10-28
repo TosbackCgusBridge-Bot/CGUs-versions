@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Voter purge in key Indiana County...**  
-        Election 2012 | Bill Turque
+    *   **Marco Rubio’s daughter in car accident...**  
+        Election 2012 | Philip Rucker
     
-    *   **Obamaâs âTonight Showâ remark:...**  
+    *   **Obama’s ‘Tonight Show’ remark:...**  
         The Fact Checker | Josh Hicks
     
-    *   **Rape shouldnt be used to score...**  
-        She The People | Melinda Henneberger
+    *   **Treating Colin Powell as ‘the black...**  
+        She The People | Mary C. Curtis
     
-    *   **Senate Democratic and Republican...**  
-        The Fix | Sean Sullivan
+    *   **New WaPo-ABC Tracking Poll: Romney...**  
+        The Fix | Chris Cillizza
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -49,13 +49,13 @@
     *   **Frankenstorm Sandy**  
         ComPost | Alexandra Petri
     
-    *   **Happy Hour Roundup**  
-        The Plum Line | Jonathan Bernstein
+    *   **Sunday Open Thread**  
+        The Plum Line | Greg Sargent
     
-    *   **The Postâs Obama endorsement and...**  
+    *   **The Post’s Obama endorsement and...**  
         PostPartisan | Rachel Manteuffel
     
-    *   **Friday question**  
+    *   **Obama stonewalls on denying help...**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,11 +72,11 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Weather trends...**  
-        Capital Weather Gang | Ian Livingston
+    *   **D.C. area forecast: Sandy looms...**  
+        Capital Weather Gang | Brian Jackson
     
-    *   **Coming up: Astro Doughnuts &. Fried...**  
-        Going Out Gurus | Tom Sietsema
+    *   **Hurricane Sandy closings and cancellations...**  
+        Going Out Gurus | Alex Baldinger
     
     *   **Woman killed, man shot in Charles**  
         Crime Scene | Martin Weil
@@ -103,8 +103,8 @@
     *   **Grantland ranks Redskins as most...**  
         DC Sports Bog | Sarah Kogod
     
-    *   **Tyler Polumbus fined for leg whip**  
-        The Insider | Mike Jones
+    *   **London Fletcher expected to play...**  
+        The Insider | Mark Maske
     
     *   **Adam LaRoche, Nationals still talking...**  
         Nationals Journal | Adam Kilgore
@@ -126,11 +126,11 @@
     *   **Early fin release likely caused...**  
         Ideas@Innovations | Emi Kolawole
     
-    *   **Work-life balance is a menâs issue...**  
+    *   **Work-life balance is a men’s issue...**  
         PostLeadership | Jena McGregor
     
-    *   **Ryan tele-townhall rescheduled**  
-        Under God | Jeannine Hunter
+    *   **Farrakhan inspires Bowie crowd**  
+        Under God | Hamil R. Harris and Jeannine Hunter
 *   World In World
     
     *   Africa
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **How do you measure the strength...**  
+    *   **Japan ranks 101st globally for...**  
         WorldViews | Max Fisher
     
-    *   **Can crowd-sourcing keep corruption...**  
+    *   **Peter Moore, former hostage in...**  
         WorldViews | Olga Khazan
     
-    *   **How bad is Hurricane Sandy? A distressing...**  
+    *   **Report: One day in, Syrian forces...**  
         WorldViews | Max Fisher
     
-    *   **Qatarâs foray into Gaza politics...**  
+    *   **How do you measure the strength...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -170,16 +170,16 @@
     
     Blogs &. Columns
     
-    *   **Scary spending on Halloween**  
+    *   **Grad school, a leg up — in debt**  
         The Color of Money | Michelle Singletary
     
     *   **Pandora takes a serious hit after...**  
         Post Tech | Hayley Tsukayama
     
-    *   **Why the economy may be better than...**  
+    *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **The 2012 Election in Numbers: Friday...**  
+    *   **Why redistricting could doom House...**  
         Wonkblog | Dylan Matthews
 *   Tech In Technology
     
@@ -220,7 +220,7 @@
     *   **Take the kids this weekend: Air...**  
         On Parenting | On Parenting
     
-    *   **Love, etc.: Philippe Cousteau and...**  
+    *   **Read this: Ne-Yo’s ‘wretched’ new...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -237,7 +237,7 @@
     
     Blogs &. Columns
     
-    *   **A âTempestâ in an opera house**  
+    *   **A “Tempest” in an opera house**  
         Classical Beat | Anne Midgette
     
     *   **Justin Timberlake responds to controversial...**  
@@ -246,7 +246,7 @@
     *   **President Obama fields questions...**  
         The TV Column | Lisa de Moraes
     
-    *   **Disneyâs âWreck-It Ralphâ:**  
+    *   **Disney’s ‘Wreck-It Ralph’:**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -267,10 +267,10 @@
 In the News
 
 *   Hurricane Sandy
-*   John Sununu
-*   Windows 8
-*   Lena Dunham
-*   Marina Krim
+*   Tsunami warning
+*   Ohio
+*   World Series
+*   Gary Glitter
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -321,94 +321,98 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Preparations hasten for Tropical Storm Sandy
+House elections spell a Republican story and victory
 
-Ashley Halsey III 
+Paul Kane 
+
+D.C. area forecast: Sandy looms large. biggest impact Monday into Tuesday
+
+Brian Jackson 
+
+Hurricane Sandy continues its march to the East Coast
+
+Paul Schwartzman 
+
+Washington, D.C. braces for Hurricane Sandy: the bad and the ugly storm scenarios
+
+Jason Samenow 
 
 White House considering new tax cut
 
 Zachary A. Goldfarb 
 
-Romney, Obama could split popular and electoral college vote, polls suggest
-
-Karen Tumulty 
-
-The unmaking of a president, 2012
-
-Jennifer Rubin 
-
-Sandy begins transition into hurricane norâeaster blend
-
-Jason Samenow 
-
-Behind the Clinton âbromance,â a stealth campaign
-
-Dana Milbank 
-
-Chinaâs advantage erodes in a key area: rare earth minerals
-
-Howard Schneider 
-
-Police arrest 1 who fits gunman description in suburban Los Angeles family shooting
+AP poll: A slight majority of Americans are now expressing negative view of blacks
 
 Associated Press 
 
-As key Senate races get tighter, Republicansâ hopes rise
+Accusations against generals cast dark shadow over Army
 
-Rosalind S. Helderman 
+Ernesto Londoño 
+
+Obama clings to slim lead in Virginia, according to poll
+
+Amy Gardner 
+
+Tsunami warning issued for Hawaii, but canceled in Alaska where wave was small
+
+Associated Press 
+
+Marco Rubio's daughter in car accident in Miami Ohio, the Bull’s-eye State: Obama, Romney aim full arsenals at vital electoral prize
+
+Dan Balz 
+
+A declining Japan loses its once-hopeful champions
+
+Chico Harlan 
+
+Tsunami warnings issued after magnitude 7.7 earthquake strikes off coast of western Canada
+
+Associated Press 
+
+Hurricane Sandy closings and cancellations in the D.C. area
+
+Alex Baldinger 
+
+Des Moines Register endorses Mitt Romney Carolyn Hax: Where to turn to help a depressed friend
+
+Carolyn Hax 
+
+Obama’s ‘Tonight Show’ remark: Planned Parenthood provides mammograms
+
+Josh Hicks 
+
+Hurricane Sandy: Raging winds and high water to leave mark on Mid-Atlantic
+
+Jason Samenow 
+
+Iran hopes to resist sanctions by boosting production
+
+Jason Rezaian 
 
 Mugging our descendants
 
 George F. Will 
 
-Washington, D.C. will not escape Hurricane Sandy: latest storm scenarios
-
-Jason Samenow 
-
-Marine Corps Marathon runner battles brain cancer â and keeps competing
-
-Roman Stubbs 
-
-Meet the fiscal cliff-divers Windows 8: What to know before you upgrade
-
-Hayley Tsukayama 
-
-Hurricane Sandy may be unprecedented in East Coast storm history
-
-Jason Samenow 
-
-Will Romney win the popular vote but lose the presidency? Still fighting the same old culture war
-
-Kathleen Parker 
-
-Post-ABC poll: Romney 49, Obama 48. shows power of campaign contacts Remote U.S. base at core of secret operations
-
-Craig Whitlock 
-
-After Benghazi attacks, Islamist extremists akin to al-Qaeda stir fear in eastern Libya
-
-Abigail Hauslohner 
-
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Preparations hasten for Tropical Storm Sandy
-    2.  White House considering new tax cut
-    3.  Romney, Obama could split popular and electoral college vote, polls suggest
-    4.  Obama's 2008 coalition collapses
-    5.  Sandy begins transition into hurricane nor'easter blend
+    1.  House elections spell a Republican story and victory
+    2.  D.C. area forecast: Sandy looms large. biggest impact Monday into Tuesday
+    3.  Hurricane Sandy continues its march to the East Coast
+    4.  Washington, D.C. and Sandy: bad and ugly storm scenarios
+    5.  White House considering new tax cut
 *   Top Videos
-    1.  Hurricane Sandy is a storm like no other
-    2.  Hurricane Sandy heads for the Mid-Atlantic
-    3.  Frankenstorm heading for the East Coast?
-    4.  Behind the U.S. targeted killing program
-    5.  Hurricane Sandy on track to hit East Coast
+    1.  Hurricane Sandy: What to expect in the D.C. region
+    2.  Romney pulls ahead in key areas — Daily Tracking Poll
+    3.  Bloomberg: Hurricane Sandy to cause high winds, heavy rainfall in New York
+    4.  Hurricane Sandy heads for the Mid-Atlantic
+    5.  Obama jokes: Romney's birth certificate fees would have been expensive for me
 *   Top Galleries
     1.  Hurricane Sandy
-    2.  Muslims commemorate Eid al-Adha
-    3.  From Snowmageddon to 'Frankenstorm': Does Mother Nature hate Washington?
-    4.  Newspaper endorsements for president: Romney or Obama?
-    5.  Famous and dyslexic: How they transcended a disabilty
+    2.  From Snowmageddon to 'Frankenstorm': Does Mother Nature hate Washington?
+    3.  Muslims commemorate Eid al-Adha
+    4.  Romney stumps in the Sunshine State
+    5.  Domestic production in Iran
 
 Today's Paper
 
