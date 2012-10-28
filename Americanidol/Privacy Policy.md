@@ -5,7 +5,7 @@ American Idol.com Home Audition for Season 12 American Idol Search
 *   Contestants
     
     *   Contestants Front Page
-    *   Past Seasons 10 ? 9 ? 8 ? 7 ? 6 ? 5 ? 4 ? 3 ? 2 ? 1
+    *   Past Seasons 10 • 9 • 8 • 7 • 6 • 5 • 4 • 3 • 2 • 1
     
     Top 13 Contestants
     
@@ -255,7 +255,7 @@ About
 *   Past Seasons
 *   Ad Choices
 
-?
+ｧ
 
 *   FOX
 *   19Entertainment
