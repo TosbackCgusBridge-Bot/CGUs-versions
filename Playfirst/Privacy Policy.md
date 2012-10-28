@@ -30,7 +30,7 @@
 
 Find a Game
 
-*   All PC Games
+*   All Mac Games
 *   PlayFirst Originals
 *   DASH™ &. Time Mgmt
 *   Adventure &. Quests
@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (33.7 MB) Top PC Downloads 1 Cooking Dash 2 Diner Dash 3 Diner Dash 2 Restaurant Rescue 4 Wedding Dash 5 Diner Dash: Hometown Hero 6 Diner Dash Flo on the Go 7 Farm Frenzy 2 8 SpongeBob SquarePants Diner Dash 9 Diner Dash 5: BOOM 10 Hotel Dash: Suite Success » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (9.1 MB) Top Mac Downloads 1 Cooking Dash 2 Diner Dash 3 Diner Dash 2 Restaurant Rescue 4 Wedding Dash 5 SpongeBob SquarePants Diner Dash 6 Diner Dash Flo on the Go 7 Hotel Dash: Suite Success 8 Dairy Dash 9 Wedding Dash 4 - Ever 10 Hotel Dash 2: Lost Luxuries » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -249,43 +249,43 @@ Cooking Dash DASH™ &. Time Mgmt Games
 
 Help Flo cook and deliver food from four DinerTown restaurants while Cookie the Chef courts culinary celebrity!
 
-**Play Free!** (23.9 MB) Try It Diner Dash DASH™ &. Time Mgmt Games
+**Play Free!** (23.1 MB) Try It Diner Dash DASH™ &. Time Mgmt Games
 
 Ditch your desk job and serve up some grub!
 
-**Play Free!** (8.8 MB) Try It Diner Dash 2 Restaurant Rescue DASH™ &. Time Mgmt Games
+**Play Free!** (9.1 MB) Try It Diner Dash 2 Restaurant Rescue DASH™ &. Time Mgmt Games
 
-Sling grits, earn tips - help Flosave her friends!
+Sling grits, earn tips - help Flo save her friends!
 
-**Play Free!** (13.6 MB) Try It Wedding Dash DASH™ &. Time Mgmt Games
+**Play Free!** (10.4 MB) Try It Wedding Dash DASH™ &. Time Mgmt Games
 
 Help Quinn make wedding bells ring!
 
-**Play Free!** (18.7 MB) Try It Diner Dash: Hometown Hero DASH™ &. Time Mgmt Games
-
-Restore Flo's hometown!
-
-**Play Free!** (33.4 MB) Try It Diner Dash Flo on the Go DASH™ &. Time Mgmt Games
-
-Flo trades in her apron for a passport to paradise!
-
-**Play Free!** (11.8 MB) Try It Farm Frenzy 2 DASH™ &. Time Mgmt Games
-
-Feed chickens, collect eggs, stock your warehouse and ship your goods off to market!
-
-**Play Free!** (36.2 MB) Try It SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
+**Play Free!** (16.0 MB) Try It SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
 
 Soak up five-star feeding fun with everyone's favorite sponge!
 
-**Play Free!** (10.2 MB) Try It Diner Dash 5: BOOM DASH™ &. Time Mgmt Games
+**Play Free!** (10.2 MB) Try It Diner Dash Flo on the Go DASH™ &. Time Mgmt Games
 
-Rebuild Flo's Diner from scratch!
+Flotrades in her apron for a passport to paradise!
 
-**Play Free!** (65.4 MB) Try It Hotel Dash: Suite Success DASH™ &. Time Mgmt Games
+**Play Free!** (11.5 MB) Try It Hotel Dash: Suite Success DASH™ &. Time Mgmt Games
 
 Flo's going into the hotel business!
 
-**Play Free!** (33.7 MB) Try It Log In New to PlayFirst?
+**Play Free!** (33.8 MB) Try It Dairy Dash DASH™ &. Time Mgmt Games
+
+Play 'til the cows come home!
+
+**Play Free!** (16.7 MB) Try It Wedding Dash 4 - Ever DASH™ &. Time Mgmt Games
+
+Tackle more wedding mania than ever before!
+
+**Play Free!** (32.2 MB) Try It Hotel Dash 2: Lost Luxuries DASH™ &. Time Mgmt Games
+
+Check in 2 adventure!
+
+**Play Free!** (70.5 MB) Try It Log In New to PlayFirst?
 
 Sign up below to create a new PlayFirst account.
 
