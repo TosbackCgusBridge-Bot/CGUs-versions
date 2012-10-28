@@ -225,8 +225,8 @@ Texas sparks international row with election observersMore bad news for Mitt Rom
 Home/News » Most Viewed RSS Feed » Briefing Room
 
 *   Virginia Gov. McDonnell: Sandy won’t affect readiness for election day
-*   RNC chief Priebus: Voters are ‘not talking’ about Mourdock remark
 *   Sen. Ron Johnson: Abortion not a campaign issue
+*   Rubio's daughter hospitalized in Miami
 
   
 More Briefing Room » Congress Blog
@@ -267,8 +267,8 @@ More Hillicon Valley » E2\-Wire (Energy)
 More E2\-Wire (Energy) » Ballot Box
 
 *   Portman, Warner cite new polling, claim momentum
-*   Mark Udall: Benghazi attack has been politicized
 *   Poll: Romney, Obama tied at 49-49 in Ohio
+*   With Sandy threatening, Romney and Obama cancel appearances
 
   
 More Ballot Box » On The Money
