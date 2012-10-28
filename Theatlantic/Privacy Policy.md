@@ -185,19 +185,19 @@ General Failure
 
 2
 
-The Sex Lives of Conjoined Twins
+Richard Mourdock, Mitt Romney and the GOP Defense of Coerced Mating
 
 3
 
-Richard Mourdock, Mitt Romney and the GOP Defense of Coerced Mating
+The Sex Lives of Conjoined Twins
 
 4
 
-Is Big Brother the New Normal? The Supreme Court Will Decide
+Hacking the President’s DNA
 
 5
 
-Hacking the President’s DNA
+Is Big Brother the New Normal? The Supreme Court Will Decide
 
 6
 
@@ -205,19 +205,19 @@ David Allen on How to Fix Your Life
 
 7
 
-The End of Jazz
+Will Undecided Voters Break Toward Romney?
 
 8
 
-Surmounting the Insurmountable: Wikipedia Is Nearing Completion, in a Sense
+The End of Jazz
 
 9
 
-Ping Pong, BS, and Clint's Chair: The Week's Best Pop-Culture Writing
+Why I Refuse to Vote for Barack Obama
 
 10
 
-Why I Refuse to Vote for Barack Obama
+Surmounting the Insurmountable: Wikipedia Is Nearing Completion, in a Sense
 
 *   Subscribe Help
 *   Faq
