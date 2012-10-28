@@ -222,7 +222,7 @@ Development Manager- Real estate sector
 
 Portfolio Director (Real Estate)
 
-Területi Igazgató
+Ingatlantanácsadó
 
 még több
 
