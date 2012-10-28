@@ -20,6 +20,7 @@ Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and mor
     *   Slippers
     *   Holiday Collection
     *   Apparel
+        *   Loungewear
         *   Outerwear
         *   Sweaters
         *   View All
@@ -59,6 +60,8 @@ Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and mor
     *   Sandals
     *   Mens Bags
     *   Apparel
+        *   Outerwear
+        *   Loungewear
         *   View All
     *   Cold Weather Accessories
         *   Gloves and Mittens
