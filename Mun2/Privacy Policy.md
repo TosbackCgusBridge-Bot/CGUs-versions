@@ -23,23 +23,23 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 27 02:00 AM · PARTY MIX coming up next:
+schedule right now: October 28 07:00 AM · WWE RAW EN ESPAÑOL coming up next:
 
-*   3:00 AM · MORNING BREATH
-*   4:00 AM · MORNING BREATH
-*   5:00 AM · MORNING BREATH
-*   6:00 AM · SMB
-*   8:00 AM · MORNING BREATH
-*   9:30 AM · mun2 PRESENTS: BELINDA
-*   10:30 AM · JENNI RIVERA PRESENTS: CHIQUIS &. RAQ-C
-*   11:30 AM · 18 &. OVER
-*   1:00 PM · REVENTON
-*   2:00 PM · I LOVE JENNI
-*   3:00 PM · CHIQUIS 'N CONTROL
+*   10:00 AM · mun2 CINCO
+*   10:30 AM · 18 &. OVER
+*   12:00 PM · REVENTON
+*   1:00 PM · I LOVE JENNI
+*   2:00 PM · CHIQUIS 'N CONTROL
+*   3:00 PM · LARRYMANIA
 *   4:00 PM · OPERACION REPO
 *   4:30 PM · OPERACION REPO
-*   5:00 PM · YO ME LLAMO
-*   7:00 PM · CINE CLASICO Y COOL: EL PORTERO (PUERTA JOVEN)
+*   5:00 PM · WWE RAW
+*   8:00 PM · FUGITIVOS DE LA LEY
+*   9:00 PM · LARRYMANIA
+*   10:00 PM · OPERACION REPO
+*   10:30 PM · OPERACION REPO
+*   11:00 PM · DUB LATINO
+*   11:30 PM · DUB LATINO
 
 see full schedule >>.
 
