@@ -1,6 +1,3 @@
-**We noticed that you're using an unsupported browser. The TripAdvisor website may not display properly.**  
-We support the following browsers: **Windows:** Internet Explorer, Mozilla Firefox, Google Chrome. **Mac:** Safari.
-
 *   Home
 *   Hotels Search city Search hotel name Check-in Check-out Leave dates blank Find Hotels  
     
@@ -201,5 +198,4 @@ Reviews and advice on hotels, resorts, flights, vacation rentals, travel package
 
 Select a TripAdvisor site:
 
-About Us | Write a review | Careers | Site Map | Top Cities | Owners | Help Center | Business Listings | DMO/CVB | Investor Relations © 2012 TripAdvisor LLC All rights reserved. TripAdvisor Terms of Use and Privacy Policy. \* TripAdvisor LLC is not a booking agent and does not charge any service fees to users of our site... (more) **We noticed that you're using an unsupported browser. The TripAdvisor website may not display properly.**  
-We support the following browsers: **Windows:** Internet Explorer, Mozilla Firefox. **Mac:** Safari. TripAdvisor LLC is not responsible for content on external web sites. Taxes, fees not included for deals content.
+About Us | Write a review | Careers | Site Map | Top Cities | Owners | Help Center | Business Listings | DMO/CVB | Investor Relations © 2012 TripAdvisor LLC All rights reserved. TripAdvisor Terms of Use and Privacy Policy. \* TripAdvisor LLC is not a booking agent and does not charge any service fees to users of our site... (more) TripAdvisor LLC is not responsible for content on external web sites. Taxes, fees not included for deals content.
