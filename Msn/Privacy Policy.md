@@ -211,14 +211,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
-    *   Fearless Predictions: USC/Arizona
-    *   Fearless Predictions: ND/Oklahoma
-    *   Petros Ponders: USC Shenanigans
-    *   Pick Nation: CFB Week 9 Picks
-    *   Tigers turn to Sanchez
-    *   Fearless Predictions: FLA/UGA
-    *   Too cute Tigers fan
     *   Pick Nation: NFL Week 8 Picks
+    *   World Series on FOX: Blanco, Lincecum
+    *   Highlights: (5) Notre Dame - (8) OU
+    *   Spurrier on Lattimore
+    *   Highlights (2) Florida - (10) Georgia
+    *   World Series on FOX: Game 3 Recap
+    *   Highlights: (7) Oregon St. - Washington
+    *   CFB on FOX: Kansas St. keeps rolling
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -504,33 +504,33 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   U.S. Under-18 Team ties Gophers
-*   Budinger, Wolves beat Bucks in Green Bay
-*   Vikings will try to avoid letting loss linger
+*   In just second start, Nelson flashes his...
+*   Gophers help bowl hopes by pounding Purdue
+*   NBA's overseas pipeline was built in 1990s
 
-*   F1: Button Satisfied With Fourth In Qualifyin...
-*   F1: We Must Put Pressure On Red Bull, Says...
-*   F1: Vettel Storms To India Pole
+*   VIDEO: Starworks Shanghai WEC Race vBlog
+*   F1: Grand Prix News Briefs (Update 2)
+*   CUP: Hamlin’s Martinsville History Speaks...
 
-*   Holler: Sullivan, Vikings giving back
-*   Time For Ben To Become Elite QB
-*   Five Keys to Victory - Auburn Game
+*   Cardinals Arizona Fall League Report: Week 2
+*   QUOTES: Duke v. W. Washington
+*   TCN St. Louis 2012 Player of the Year
 
 *   Carlos Condit Prefight Interview: UFC 154
 *   UFC Unrestricted – A FUEL TV Special
 *   Signature Moves: Cung Le
 
-*   Ravens fined over Ed Reed injury
-*   Sarah Jones getting reality show?
-*   Stern wants to put team in Seattle?
+*   Ichiro wants to return to Yankees?
+*   James Harden traded to Rockets
+*   Key fumble costs Florida in loss
 
-*   Barcelona prefiere a jugadores
-*   Chávez bromea sobre venezolanos
-*   Chivas quiere ganar clásico tapatío
+*   Tienen enviada de Cristiano: Gullit
+*   San Francisco a un juego
+*   Xolos vuelve al liderato
 
-*   Mourinho wants star Spur Bale
-*   Berlusconi jailed over tax evasion
-*   Premier League: Aston Villa vs. Norwich City
+*   Premier League: Everton vs. Liverpool
+*   Serie A: Bologna vs. Internazionale
+*   Juventus maintain unbeaten start
 
 *   *   NFL
     *   NFL Home
