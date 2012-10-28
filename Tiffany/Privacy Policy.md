@@ -18,7 +18,7 @@ Skip to main content
     *   Men's Jewelry
     
     *   Silver Jewelry
-    *   Tiffany CelebrationÂ® Rings
+    *   Tiffany Celebration® Rings
     *   Tiffany Pink Diamonds
     *   Tiffany Yellow Diamonds
     *   Statement Jewelry
@@ -34,20 +34,20 @@ Skip to main content
     
 *   Designers &. Collections
     
-    *   Elsa PerettiÂ® $250 &. Under
-    *   Elsa PerettiÂ®
-    *   Paloma PicassoÂ®
-    *   Frank GehryÂ®
+    *   Elsa Peretti® $250 &. Under
+    *   Elsa Peretti®
+    *   Paloma Picasso®
+    *   Frank Gehry®
     *   Jean Schlumberger
     
-    *   Tiffany 1837â¢
+    *   Tiffany 1837™
     *   Tiffany Beads
     *   Tiffany Enchant
     *   Tiffany Keys
     *   Tiffany Locks
     *   Tiffany Metro
     *   Tiffany Soleste
-    *   Return to Tiffanyâ¢
+    *   Return to Tiffany™
     *   Victoria
     
 *   Accessories
@@ -62,7 +62,7 @@ Skip to main content
     *   Sterling Accessories
     *   Writing Instruments
     
-    *   Elsa PerettiÂ® Accessories
+    *   Elsa Peretti® Accessories
     
     *   Product Care Items
     
