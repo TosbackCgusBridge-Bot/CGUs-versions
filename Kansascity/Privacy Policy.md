@@ -140,15 +140,17 @@ Sunday: More Deals
 
 1.  Press &. Lamination Operators
     
-2.  Apartment Maintenance Helper
+2.  PROGRAM DIRECTOR
     
-3.  PROGRAM DIRECTOR
+3.  Parts Project Coordinator
     
-4.  SALES
+    Central Power Systems &. Services, Inc.
     
-5.  CAMPAIGN JOBS
+4.  OPERATING MANAGER
     
-    Grassroots Campaigns, Inc.
+5.  SEASONAL DRIVERS
+    
+    Kelly Services
     
 6.  SENIOR PIPE DESIGNER
     
