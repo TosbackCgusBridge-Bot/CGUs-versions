@@ -212,21 +212,21 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Texas sparks international row with election observersRomney extends lead over Obama in Gallup daily tracking pollSwing-state polls: Obama up in Iowa, NH, Nev., Colo., while Romney leads Fla.Romney holds national poll lead, but key swing states favor ObamaPoll: Obama and Romney statistically tied in Ohio, Colorado and Virginia
+Efforts to cut funding for Planned Parenthood at state level fall shortRomney extends lead over Obama in Gallup daily tracking pollRomney keeps Gallup lead. Obama up in latest Reuters pollPoll: Racial attitudes toward blacks could cost Obama at the pollsBachmann faces strong challenge
 
 Emailed
 
-Texas sparks international row with election observersMorning in OhioRomney's cruelest cut: MedicaidCandidate gaffes could cost GOP Senate control — againWorking-class voters could be the key to Romney's chances in Ohio
+Elizabeth Warren is the Democrats’ pride, Todd Akin and Richard Mourdock are the Republicans’ shameArmy inches toward new missionTexas sparks international row with election observersEfforts to cut funding for Planned Parenthood at state level fall shortDes Moines Register endorses Romney
 
 Discussed
 
-International monitors at US polling spots draw criticism from voter fraud groupsTexas sparks international row with election observersSen. Graham: Obama move on defense layoff notices 'patently illegal'Trump offers Obama $5 million for his college, passport recordsGOP sees food fight as kids trash USDA fruit, vegetable guidelines
+Texas sparks international row with election observersMore bad news for Mitt Romney Trump offers Obama $5 million for his college, passport recordsSome planPoll: Obama leads Romney by 5 in Ohio
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Plouffe: Romney attempting to 'disingenuously hide his positions'
-*   Obama, Romney cancel rallies in response to Sandy
-*   DAY'S END ROUNDUP
+*   Virginia Gov. McDonnell: Sandy won’t affect readiness for election day
+*   RNC chief Priebus: Voters are ‘not talking’ about Mourdock remark
+*   Sen. Ron Johnson: Abortion not a campaign issue
 
   
 More Briefing Room » Congress Blog
@@ -252,37 +252,37 @@ More Pundits Blog » Twitter Room
   
 More Twitter Room » Hillicon Valley
 
+*   Local TV stations in swing-states cash in on deluge of political ads
+*   Cybersecurity bill likely dead
 *   Yahoo to ignore 'Do Not Track' requests from Internet Explorer users
-*   LightSquared hires former Sen. Coleman to lobby for network
-*   News bites: China blocks New York Times
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Obama ‘surprised’ climate change didn’t surface at the presidential debates
+*   Obama ‘surprised’ climate didn’t surface at the presidential debates
 *   Liberal groups ramp up Arizona Senate race spending with new TV spot
 *   Dems hit up donors after Chevron’s GOP gift
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Wagner makes personal appeal for a Romney presidency
-*   The Hill's Senate ratings: Democrats likely to retain Senate control
-*   Poll: Obama tops 50 percent in Ohio, up four points on Romney
+*   Portman, Warner cite new polling, claim momentum
+*   Mark Udall: Benghazi attack has been politicized
+*   Poll: Romney, Obama tied at 49-49 in Ohio
 
   
 More Ballot Box » On The Money
 
-*   Obama touts new federal credit agency report protections
-*   Liberal group calls out CEOs looking for debt deal
-*   Durbin presses DC mayor on swipe fee fight
+*   Campaigns hope to receive boost from economic data ahead of election day
+*   Fiscal cliff is now the best shot for farm bill, agriculture lobbyists say
+*   White House: No 'specific proposal' to replace expiring payroll tax cut
 
   
 More On The Money » Healthwatch
 
+*   Efforts to cut funding for Planned Parenthood at state level fall short
 *   Advocates lament shrinking funds for medical research
 *   News bites: What cliff?
-*   Obama: No doubt Romney win could overturn Roe v. Wade
 
   
 More Healthwatch » Floor Action
@@ -301,16 +301,16 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
+*   Army inches toward new mission
 *   GOP Senators demand declassification of Libya surveillance
 *   Graham: Obama's Libya defense 'B.S.’
-*   State Dept. cables lacked 'actionable intelligence' for intervention in Libya
 
   
 More DEFCON Hill » Global Affairs
 
+*   Obama says he is 'ultimately' responsible for Benghazi security
 *   US slams UN expert's call for Israel-related boycott as 'irresponsible'
 *   Speaker Boehner calls for answers from the president on Benghazi attack
-*   Texas sparks international row with election observers
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris Don't count Mourdock out Lanny Davis Obama's second term More Columnists »
