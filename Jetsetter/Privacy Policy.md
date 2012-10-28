@@ -228,35 +228,35 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Lush Hotel - Istanbul
-    
-    Starting Today at Noon EDT
-    
-*   Kempinski Barbaros - Turkey
-    
-    Starting Today at Noon EDT
-    
-*   An Lam Ninh Van Bay - Vietnam
-    
-    Starting Today at Noon EDT
-    
 *   Andara Resort - Phuket
     
-    Starting Sunday 10/28 at 3pm EDT
+    Starting Today 10/28 at 3pm EDT
     
 *   Sofitel New York
     
-    Starting Sunday 10/28 at 3pm EDT
+    Starting Today 10/28 at 3pm EDT
     
 *   The Mirage Las Vegas
     
-    Starting Sunday 10/28 at 3pm EDT
+    Starting Today 10/28 at 3pm EDT
     
 *   Martineau Belle Playa - PR
     
     Starting Monday 10/29 at Noon EDT
     
 *   Park Hyatt Chicago
+    
+    Starting Monday 10/29 at 3pm EDT
+    
+*   An Atlanta Mystery Hotel
+    
+    Starting Monday 10/29 at 3pm EDT
+    
+*   A New Orleans Mystery Hotel
+    
+    Starting Monday 10/29 at 3pm EDT
+    
+*   Banner Elk - North Carolina
     
     Starting Monday 10/29 at 3pm EDT
     
