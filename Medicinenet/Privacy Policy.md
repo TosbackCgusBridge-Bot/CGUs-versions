@@ -1,4 +1,4 @@
-About Us| Newsletter October 27, 2012
+About Us| Newsletter October 28, 2012
 
 *   Like Us
 *   Follow Us
@@ -413,11 +413,11 @@ New on MedicineNet
 
 Latest MedicineNet News
 
+*   Symptoms of Ankle Fracture
 *   Is Perfect Pitch Genetic?
 *   Studies' 'Wow' Results Usually Fade in Follow-Up
 *   Blood or Bone Marrow in Stem Cell Transplants?
 *   Less Illicit Drug Use, More Prescription Abuse
-*   Big, Rapid Gains Made in Human Lifespan: Study
 *   Want More News? Sign Up for MedicineNet Newsletters!
 *   Health News Feed
 
