@@ -143,7 +143,7 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Running Injury Heel Resources
+*   Cramp Relief Resources
 
   
 Stay in Touch With SparkPeople **10 Fitness Items to Splurge and Save On**
@@ -152,17 +152,17 @@ Getting fit doesn't have to burn a hole in your pocket. Find out which items you
 
 Read More
 
-*   "New to me" foods
-*   Who Motivates you on Sparkpeople?
-*   What's your "go to" type of workout?
+*   Healthy snack ideas for under 100 calories?
+*   Describe the last time you felt proud of yourself.
 *   Do you have a goal after weight loss?
+*   "New to me" foods
 *   How do you maintain your exercise long-term?
 
 View Demo **Bridges on Foam Roller**  
-A great leg and booty toner that also works your balance **Slow Cooker Cream of Chicken and Rice Soup**  
+A great leg and booty toner that also works your balance **Eggplant Napoleon**  
 Submitted By: **CHEF\_MEG**
 
-Ditch the condensed "cream of whatever" soups and make this instead. You only need 10 minutes of hands-on cooking time for a filling yet light bowl of comforting soup. Full Recipe
+This recipe was inspired by moussaka, eggplant Parmesan and lasagna. The result is a light and tasty meatless meal that makes any night a special occasion. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
