@@ -1,4 +1,4 @@
-  Set as Homepage Thu, Oct 25, 2012   9 Heshvan, 5773  
+  Set as Homepage Sun, Oct 28, 2012   12 Heshvan, 5773  
 
 *   *   Breaking News
     *   Diplomacy &. Politics
@@ -58,14 +58,13 @@
     *   JPost Kotel Cam
     *   JPost Newsletter
     *   JPost Alert
-    *   JPost Sticker
     *   iPhone App
     *   iPad App
     *   Android App
 *   Diplomatic Club
 *   Green Israel
 
-                                 Breaking News    
+                               Breaking News    
 
 *   JPost.com
 *   Terms Of Service
