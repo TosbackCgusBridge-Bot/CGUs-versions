@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Elections 2012
+*   Election 2012
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 27, 2012 Edition: **U.S.**
+October 28, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 27, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Secret Service Not Laughing At Man's Anti-Obama Display 8k
-    *   National Tracking Polls: A Romney Uptick? 31k
-    *   Harry Reid Hospitalized1k
-    *   Colin Powell's Former Chief Of Staff: 'My Party Is Full Of Racists'7k
-    *   For Romney, Wisconsin Becoming The Path Around Ohio14k
+    *   Colin Powell's Former Chief Of Staff: 'My Party Is Full Of Racists'35k
+    *   A Look At 2012 Polls: Who's Really Ahead?12k
+    *   Obama Campaign Makes Closing Argument Against Mitt Romney In New Swing State Ad12k
+    *   For Romney, Wisconsin Becoming The Path Around Ohio27k
+    *   Trouble In Romney's Socialist Hospital Paradise8k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 27, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   'Show Me Yours, But I Won't Show You Mine': Donald Trump Refuses To Show Transcripts, Passport1k
-    *   CNBC Anchor Bashes Paul Krugman5k
-    *   Wynn Casino Guides Employees To Vote For Romney4k
-    *   Foreclosed Home Robbed After Craigslist Ad Offering Giveaway594
-    *   U.S. Economy Picking Up Steam5k
+    *   American Cities Going Broke812
+    *   And The Most Beloved Country Is...358
+    *   Oil Company Exec Killed In Restaurant Shooting938
+    *   The Richest Members of Congress338
+    *   Fiscal Conservative?1k
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 27, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   Meat Loaf Endorses Romney6k
-    *   The NEXT James Bond Moves Forward15
-    *   'Cloud Atlas' Slammed By Group For 'Yellowface' Controversy408
-    *   Rolling Stones Rock Surprise $20 Gig In Paris101
-    *   WATCH: Lena To Romney: You Don't Own Me2k
+    *   Were These Critics Too Tough?94
+    *   Christina Aguilera Wants To Play A 'Crackhead' 78
+    *   Taylor Swift's Breakup Tour82
+    *   The NEXT James Bond Moves Forward66
+    *   Meat Loaf Endorses Romney7k
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 27, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   White iPad Mini Sold Out? 142
-    *   7 People Who Will Love Windows 8 (And 5 Who Will Hate It) 321
-    *   The Rumor That's Got Pandora Really Worried238
-    *   5 Reasons Apple's 'Big' iPad Bests The iPad Mini 73
-    *   The 9 Best Windows 8 Devices Available Now134
+    *   Don't Even THINK About Jailbreaking That Tablet431
+    *   Facebook Is Booming -- Just Not In Russia134
+    *   The 9 Most Popular Viral Videos Of The Week
+    *   How To 'Follow' Hurricane #Sandy
+    *   Google Event CANCELLED
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 27, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   Ann Coulter Defends 'Retard' Tweet11k
-    *   CNN Bans 'Frankenstorm'517
-    *   WATCH: Hoda's Intensely Emotional Celebration159
-    *   WATCH: Barbara Walters' Harsh Message To Donald Trump3k
-    *   Obama Going On 'Morning Joe'1k
+    *   Media Rushes To 'Frankenstorm'483
+    *   Ann Coulter Defends 'Retard' Tweet13k
+    *   WATCH: Melissa Harris-Perry Delivers Powerful Open Letter About Rape2k
+    *   CNN Bans 'Frankenstorm'761
+    *   WATCH: Hoda's Intensely Emotional Celebration226
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 27, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   Amazing Mayan Tomb Discovered252
-    *   Berlusconi Sentenced To 4 Years In Prison1k
-    *   Syrian Toddler Thought Dead Reunited With Parents195
-    *   France Makes Abortions Free For All3k
-    *   Hurricane Sandy Kills Scores In Caribbean18
+    *   Most Insane Photos Of The Week
+    *   1 In 4 In Spain Out Of Work770
+    *   Amazing Photos Capture Afghanistan In Transition91
+    *   France Makes Abortions Free For All5k
+    *   Al Qaeda Urges Muslims To Kidnap Westerners471
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 27, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   10-Minute Stress-Busters For Better Sleep31
-    *   Lisa Lost 80 Pounds: 'I Can See The Old Me. I'd Forgotten What I Looked Like'26
-    *   Famous Couples Who Help Each Other Stay Healthy And Fit
-    *   Janette Lost More Than 200 Pounds: 'I Felt Like My Body Was A Prison'11
-    *   Erikka Lost More Than 70 Pounds: 'I've Never Felt More Like Myself'
+    *   Famous Couples Who Help Each Other Stay Healthy And Fit31
+    *   Did Celiac Disease Cost Jennifer Esposito Her Job?23
+    *   10-Minute Stress-Busters For Better Sleep36
+    *   Why You Shouldn't Skip _This_21
+    *   5 Sneaky Halloween Health Hazards
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 27, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
-    *   In Honor Of Her 65th Birthday, Here Are 65 Amazing Hillary Clinton Outfits356
-    *   Mary-Kate Olsen On Her Relationship With Olivier Sarkozy: 'Everyone Has An Opinion'370
-    *   PHOTOS: Sofia Vergara's Dress Might Just Be A Long Shirt178
-    *   PHOTOS: Leighton Meester Chops It Off49
-    *   Michelle Obama: People Notice Me In Public Because I'm So Tall!116
+    *   PHOTOS: Lucky Magazine Apologizes For Poorly-Received Britney Spears Cover112
+    *   PHOTOS: See This Week's Near Wardrobe Malfunctions! 132
+    *   PHOTO: Miley Cyrus Steps Out In Crop Top &. Thigh High Boots349
+    *   In Honor Of Her 65th Birthday, Here Are 65 Amazing Hillary Clinton Outfits377
+    *   Mary-Kate Olsen On Her Relationship With Olivier Sarkozy: 'Everyone Has An Opinion'505
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 27, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   PHOTOS: Hey, How'd He Get That?66
-    *   Vintage Halloween Costumes Are Unintentionally Terrifying 86
-    *   Fey On Reproductive Rights: 'I'm Gonna Lose My Mind'2k
-    *   'Well, Now That I've Cleared Up I Don't Worship A Rape-Loving Deity'1k
+    *   'When You Elect Mitt You're Electing Every Right Wing Nut He's Pandered To In The Last 10 Years'6k
+    *   FINALLY!15
     *   The Funniest Halloween Someecards
+    *   PHOTOS: Hey, How'd He Get That?84
+    *   Movie Poster Juxtaposition FAIL66
     
     Go to Comedy **More in Comedy**
     
@@ -217,9 +217,9 @@ October 27, 2012 Edition: **U.S.**
 *   LIVE
     *   Next China's Power Shift
     *   Next A Future Without Fidel
-    *   Later Not Without My Daughter
-    *   Later Attacking Tenure
-    *   Later Gay Men Don't Get FatGo to HuffPost Live
+    *   Tomorrow Not Without My Daughter
+    *   Tomorrow Attacking Tenure
+    *   Tomorrow Gay Men Don't Get FatGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
