@@ -75,14 +75,23 @@ VIEW CART &. CHECKOUT
     *   Eyewear
     *   All Men's Accessories ►
     
-    *   Featured
+    *   Related Links
+    *   Tottenham Hotspur
+    *   Charged Cotton®
+    *   Tactical/Military
+    *   Collegiate Fan Gear
+    *   Extended Sizes
     *   New Arrivals
     *   Best Sellers
-    *   Tottenham Hotspur
-    *   Tactical/Military
-    *   Extended Sizes
-    *   HeatGear®
-    *   ColdGear®
+    
+    *   Temperature Guide ►
+    
+    *   Shop By Fit
+    *   Compression
+    *   Fitted
+    *   Regular
+    *   Loose
+    *   Fit Guide ►
     *   Shop All Men's ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
 *   Women
     
@@ -134,14 +143,22 @@ VIEW CART &. CHECKOUT
     *   Eyewear
     *   Women's Accessories ►
     
-    *   Featured
+    *   Related Links
+    *   Charged Cotton®
+    *   UA Green
+    *   Collegiate Fan Gear
     *   New Arrivals
     *   Best Sellers
-    *   Storm
-    *   Charged Cotton®
     *   Alternative Lengths
-    *   HeatGear®
-    *   ColdGear®
+    
+    *   Temperature Guide ►
+    
+    *   Shop By Fit
+    *   Compression
+    *   Fitted
+    *   Semi-Fitted
+    *   Loose
+    *   Fit Guide ►
     *   Shop All Women's ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
 *   Boys
     
