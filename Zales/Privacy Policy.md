@@ -33,6 +33,7 @@ shop zales outlet ZalesZales Outlet
         *   The Zales Difference
         *   Love Stories
     *   View All Wedding >
+    
 *   Rings
     *   SHOP BY MATERIAL
         *   Diamond
@@ -74,6 +75,7 @@ shop zales outlet ZalesZales Outlet
         *   Class Rings
         *   Personalized
     *   View All Rings >
+    
 *   Necklaces
     *   SHOP BY MATERIAL
         *   Diamond
@@ -108,6 +110,7 @@ shop zales outlet ZalesZales Outlet
         *   Journey
         *   Personalized
     *   View All Necklaces >
+    
 *   Earrings
     *   SHOP BY MATERIAL
         *   Diamond
@@ -140,6 +143,7 @@ shop zales outlet ZalesZales Outlet
         *   Leverback
         *   Personalized
     *   View All Earrings >
+    
 *   Bracelets
     *   SHOP BY MATERIAL
         *   Diamond
@@ -171,6 +175,7 @@ shop zales outlet ZalesZales Outlet
         *   Anklets
         *   Personalized
     *   View All Bracelets >
+    
 *   Watches
     *   FEATURED BRANDS
         *   88 RUE DU RHONE
@@ -206,6 +211,7 @@ shop zales outlet ZalesZales Outlet
         *   $2000.00 - $2999.99
         *   $3000.00 - $4999.99
     *   View All Watches >
+    
 *   Collections
     *   EXCLUSIVE COLLECTIONS
         *   Vera Wang LOVE
@@ -249,6 +255,7 @@ shop zales outlet ZalesZales Outlet
         *   Accessories
         *   Children's
         *   Men's
+    
 *   Design Your Own
     *   ENGAGEMENT
         *   Start with a Setting
@@ -266,6 +273,7 @@ shop zales outlet ZalesZales Outlet
         *   Diamond Pendants
         *   Personalized Jewelry
         *   Persona Beads
+    
 *   Clearance
 
 Home    Customer Service     **Safety, Security and Privacy** Safety, Security and Privacy
