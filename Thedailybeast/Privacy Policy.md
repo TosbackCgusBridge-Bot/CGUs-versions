@@ -148,8 +148,8 @@ Stories We Like
 1.  Why Obama Will Win
 2.  What Newt Can Teach Obama
 3.  My Proof of Heaven
-4.  The Sandy Scramble
-5.  The Des Moines Register's Practical Joke
+4.  The Des Moines Register's Practical Joke
+5.  The Sandy Scramble
 
   Other News Entertainment
 
