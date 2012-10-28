@@ -10,7 +10,7 @@ Create a Poll
 *   Categories
 *   Questions
 *   Forums
-*   Blog (3)Page Loads Back to Normal
+*   Blog (2)Page Loads Back to Normal
     
     NEW!
     
