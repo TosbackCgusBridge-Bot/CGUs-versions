@@ -24,9 +24,9 @@ _This document was last updated May 23, 2012._
 
 This Privacy Policy covers RealNetworks, Inc., its majority-owned affiliates and subsidiaries, and RealNetworks divisions operating under different trade names, including GameHouse (collectively, "RealNetworks" or "RN"). RealNetworks is committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes both personal and non-personal information when you use our products, services and websites.
 
-Details regarding specific topics may be found via the topic index. For a printable pdf file version of this policy, clickÂ here.
+Details regarding specific topics may be found via the topic index. For a printable pdf file version of this policy, click here.
 
-If you are in Europe, please clickÂ hereÂ to read our European Privacy Policy. WHY DO WE COLLECT PERSONAL INFORMATION?
+If you are in Europe, please click here to read our European Privacy Policy. WHY DO WE COLLECT PERSONAL INFORMATION?
 
 RealNetworks collects personal information to improve the manner by which we operate and offer our products and services, communicate with you about those products and services, and provide effective, timely customer support when needed. We will never rent or sell any of the personally-identifiable information we collect from you to third parties, and will not share your personally identifiable information with third parties without your consent, unless such sharing is necessary for the purposes set forth in this Privacy Policy.
 
@@ -80,7 +80,7 @@ HOW DO WE USE YOUR NON-PERSONAL INFORMATION?
 *   Better understand how our products are used, including Web traffic patterns and what types of content are most popular with users of our products and services.
     
 
-**THIRD PARTY ADVERTISING â GENERAL  
+**THIRD PARTY ADVERTISING – GENERAL  
 **We use one or more third-party advertising companies to serve ads when you visit our websites or interact with some of our products or services. These companies may use non-personal information about your visits in order to provide advertisements about goods and services of interest to you.
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.
@@ -104,7 +104,7 @@ RealNetworks understands that it is a privilege to have you as a customer and is
 
 PRIVACY ON SOCIAL NETWORKING SITES
 
-When you use a RealNetworks product or game through a Social Networking Site (such as Facebook, Google+, MySpace, or similar) (âSNSâ), you allow RealNetworks to access certain person and non-personal information that you provided to such SNS such as your user ID, first and last name, profile picture, usage data for that product or game, and any other information you make publically available on such SNS. By accessing a RealNetworks product or game through an SNS, you are authorizing RealNetworks to collect, store and use all information that you agreed the SNS could provide to RealNetworks through the SNS. RealNetworks collection, storage and use of your information is governed by this privacy policy.
+When you use a RealNetworks product or game through a Social Networking Site (such as Facebook, Google+, MySpace, or similar) (“SNS”), you allow RealNetworks to access certain person and non-personal information that you provided to such SNS such as your user ID, first and last name, profile picture, usage data for that product or game, and any other information you make publically available on such SNS. By accessing a RealNetworks product or game through an SNS, you are authorizing RealNetworks to collect, store and use all information that you agreed the SNS could provide to RealNetworks through the SNS. RealNetworks collection, storage and use of your information is governed by this privacy policy.
 
 WHEN AND HOW DO WE SHARE YOUR PERSONAL INFORMATION WITH THIRD PARTIES?
 
@@ -175,27 +175,27 @@ Privacy Policy Group
 RealNetworks, Inc.  
 P.O. Box 91123  
 Seattle, WA 98111-9233  
-https://real.custhelp.com/app/ask/support\_type/1 Â 
+https://real.custhelp.com/app/ask/support\_type/1  
 
 SPECIFIC TOPICS
 
-For more information concerning specific functionality that may be relevant to privacy issues, visit ourÂ Specific Topics Index.
+For more information concerning specific functionality that may be relevant to privacy issues, visit our Specific Topics Index.
 
 Localized
 
 *   Deutsch
 *   English - North America
 *   English - Europe
-*   EspaÃ±ol - EspaÃ±a
-*   EspaÃ±ol - AmÃ©rica Latina
-*   FranÃ§ais
+*   Español - España
+*   Español - América Latina
+*   Français
 *   Italiano
 *   Nederlands
-*   PortuguÃªs
-*   æ¥æ¬èª
-*   íêµ­
-*   ç®ä½ä¸­æ
-*   ç¹é«ä¸­æ
+*   Português
+*   日本語
+*   한국
+*   简体中文
+*   繁體中文
 
 *   Support
 *   Contact Us
