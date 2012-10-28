@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Lying Hamstring Stretch Resources
+*   Running Injury Heel Resources
 
   
-Stay in Touch With SparkPeople **No Tricks! Just Healthier Halloween Treats!**
+Stay in Touch With SparkPeople **10 Fitness Items to Splurge and Save On**
 
-Are you spooked by the ingredients in Halloween candy? Then stock up on these not-so-scary sweets that kids love!
+Getting fit doesn't have to burn a hole in your pocket. Find out which items you can afford to buy on the cheap and when you should shell out the extra cash.
 
 Read More
 
-*   What does it mean to eat healthy?
-*   Healthy Halloween snacks
-*   Do you have a goal after weight loss?
-*   What's your "go to" type of workout?
+*   "New to me" foods
 *   Who Motivates you on Sparkpeople?
+*   What's your "go to" type of workout?
+*   Do you have a goal after weight loss?
+*   How do you maintain your exercise long-term?
 
-View Demo **One-Arm Dumbbell Rows**  
-This is a great back, shoulder, and arm strengthener! **Slow Cooker Beef Roast with Vegetables**  
+View Demo **Bridges on Foam Roller**  
+A great leg and booty toner that also works your balance **Slow Cooker Cream of Chicken and Rice Soup**  
 Submitted By: **CHEF\_MEG**
 
-Try using an English Cut Beef Roast. It is economical and flavorful. This cut of meat comes from the shoulder or neck area of the animal. Full Recipe
+Ditch the condensed "cream of whatever" soups and make this instead. You only need 10 minutes of hands-on cooking time for a filling yet light bowl of comforting soup. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
