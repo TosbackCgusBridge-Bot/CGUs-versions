@@ -503,17 +503,17 @@ Top Headlines
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1M. Jones-DrewNFL (7965)
-*   2T. RichardsonNFL (7824)
-*   3D. BrownNFL (7337)
-*   4F. JonesNFL (7027)
-*   5J. StewartNFL (6733)
+*   1M. Jones-DrewNFL (7987)
+*   2T. RichardsonNFL (7890)
+*   3D. BrownNFL (7433)
+*   4F. JonesNFL (7113)
+*   5J. StewartNFL (6768)
 
-*   6R. MendenhallNFL (6624)
-*   7J. GrahamNFL (6570)
-*   8J. DwyerNFL (6538)
-*   9R. JenningsNFL (6530)
-*   10D. AmendolaNFL (6443)
+*   6J. GrahamNFL (6653)
+*   7R. MendenhallNFL (6650)
+*   8J. DwyerNFL (6600)
+*   9R. JenningsNFL (6562)
+*   10D. AmendolaNFL (6481)
 
   
 Video Center
