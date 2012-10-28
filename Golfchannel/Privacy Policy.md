@@ -534,7 +534,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,918 facebook.com/GolfChannel 120,986 twitter.com/GolfChannel Newsletter
+Social 233,918 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
