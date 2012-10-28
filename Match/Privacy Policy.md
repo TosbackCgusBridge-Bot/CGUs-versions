@@ -15,8 +15,8 @@ Match.com®
     *   All Connections
     *   Winks
     *   Likes
-    *   Whoâs Viewed Me
-    *   Whoâs Favorited Me
+    *   Who’s Viewed Me
+    *   Who’s Favorited Me
     *   My Favorites
     *   Phonebook
 *   Messages
@@ -36,9 +36,9 @@ Match.com®
 *   mobile
 *   invite friends
 
-Great - your profile is now visible! close window Â» Match.com, L.L.C. Privacy Policy Last Updated: May 9, 2012
+Great - your profile is now visible! close window » Match.com, L.L.C. Privacy Policy Last Updated: May 9, 2012
 
-Match.com, L.L.C., as regards users originating from within the United States, and Match.com Global Services Limited, as regards users originating from outside the United States (“Match.com”) respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.Â  We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
+Match.com, L.L.C., as regards users originating from within the United States, and Match.com Global Services Limited, as regards users originating from outside the United States (“Match.com”) respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.  We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
@@ -193,4 +193,4 @@ Web beacons may be used to deliver or communicate with cookies, to count users w
 
 _\*\* Our Terms of Use Agreement was revised 4/9/2012._
 
-© Copyright 2012 Match.com, L.L.C. wec1-065fec1-002s-
+© Copyright 2012 Match.com, L.L.C. wec1-056fec1-004s-
