@@ -207,8 +207,8 @@ Email Address - click here
 
 Postal Address - MyOffers Limited, 46 Gillingham Street, London SW1V 1HU Sign in
 
-*   Your Email Address
-*   Your Password
+*   Your Email Address \* \*
+*   Your Password \*
 *   Remember Me
 
 *   Join now
@@ -217,7 +217,7 @@ Forgotten your password?
 
 If your have forgotten your password then please enter your email address below, and we'll send the password to that email address.
 
-*   Your Email Address
+*   Your Email Address \* \*
 
 Daniel from Ryde won a VW Golf  
 but chose the cash alternative
