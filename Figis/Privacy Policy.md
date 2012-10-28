@@ -98,7 +98,7 @@
     *   Graduation Gifts
     *   Holiday Brunch Gifts
     *   International Food Gifts
-*   Home DÃ©cor &. Accessories
+*   Home Décor &. Accessories
     *   Features
     *   Best Selling Gifts
     *   New Gifts
