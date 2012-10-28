@@ -1,4 +1,4 @@
-**TRENDING** MITT ROMNEY | HARRY REID | INSIDER TRADING | BARACK OBAMA | COLIN POWELL | JOE BIDEN
+**TRENDING** MITT ROMNEY | SMARTPHONE | TROPICAL STORM | BARACK OBAMA | WORLD SERIES | HARRY REID
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  **'WE'RE FINDING OUT'** FLASHBACK: Obama broke with colleagues, voted present on protecting rape victims in '99 state Senate vote Diversity may be fatal, says new government health study    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  DELPHI DEALS Ann Coulter UNLOADS on Piers Morgan: You're 'a sexist, misogynist pig' \[VIDEO\] Obama admits he doesn't know whether military could have helped embassy \[VIDEO\]    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-Lagniappe … 1:22 PM 10/26/2012 ‘What’s bad for the country is good for the Nation’ 2:57 PM 10/25/2012 Benghazi: CIA operators made three separate requests for help, were turned down 1:14 PM 10/26/2012 I think Lena Dunham’s Obama ad is great and she should do a bunch more just like it 11:04 AM 10/26/2012 Did the Web lead Obama astray? 3:30 AM 10/26/2012 Can we blame Fannie again? 8:44 PM 10/25/2012 Why don’t white liberals vote for black politicians? 6:25 PM 10/24/2012 Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Wealthiest political pundits \[SLIDESHOW\] 12:03 AM 10/27/2012 Women of questionable morals: A history \[SLIDESHOW\] 11:41 AM 10/26/2012 Top 10 smartest countries \[SLIDESHOW\] 2:06 AM 10/26/2012 Gloria Allred’s hottest clients \[SLIDESHOW\] 3:39 PM 10/25/2012 See More Leaders with Ginni Thomas: Bishop E.W. Jackson 9:18 PM 10/21/2012 Bishop Jackson: Black churchgoers shaken by Obama backing gay marriage \[VIDEO\] 3:48 AM 10/20/2012 Ask Matt Labash: The joys of self-entitlement programs, undecided voters — an un-appreciation, and Lizard Kings 12:43 AM 10/24/2012 Videos Contests Sections
+The World Series: A ‘tale of two cities’ 1:50 PM 10/27/2012 Lagniappe … 1:22 PM 10/26/2012 Steven Crowder, Oppan Dunham Style 10:34 AM 10/27/2012 Benghazi: CIA operators made three separate requests for help, were turned down 1:14 PM 10/26/2012 Did the Web lead Obama astray? 3:30 AM 10/26/2012 Can we blame Fannie again? 8:44 PM 10/25/2012 Why don’t white liberals vote for black politicians? 6:25 PM 10/24/2012 Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Wealthiest political pundits \[SLIDESHOW\] 12:03 AM 10/27/2012 Women of questionable morals: A history \[SLIDESHOW\] 11:41 AM 10/26/2012 Top 10 smartest countries \[SLIDESHOW\] 2:06 AM 10/26/2012 Gloria Allred’s hottest clients \[SLIDESHOW\] 3:39 PM 10/25/2012 See More Why does the left attract more young people? \[VIDEO\] 8:50 PM 10/27/2012 Leaders with Ginni Thomas: Bishop E.W. Jackson 9:18 PM 10/21/2012 Ask Matt Labash: The joys of self-entitlement programs, undecided voters — an un-appreciation, and Lizard Kings 12:43 AM 10/24/2012 Videos Contests Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   Google releases ‘Frankenstorm’ crisis map ahead of Hurricane Sandy’s arrival
-*   Oakley takes augmented reality to the slopes with new Airwave goggles
-*   Where has all the world’s gold gone?
+*   Why does the left attract more young people? \[VIDEO\]
+*   Liberal PBS analyst Mark Shields’ challenge to Obama: Tell ‘daughters what he is proud about in this campaign’
+*   Emails suggest White House involvement in loan to bankrupt Abound Solar
 
 Corporate
 
