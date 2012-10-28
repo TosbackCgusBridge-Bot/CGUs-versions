@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Life &. style:** My life on a plate: famous foodies' food diaries
-2.  2\. **Film:** John Goodman: 'Alcohol was becoming life or death. It was time to stop'
-3.  3\. **News:** Hurricane Sandy: 41 dead as as authorities declare state of emergency
-4.  4\. **Books:** Dawn French: 'I had to grow up, to become the matriarch'
-5.  5\. **Comment:** Europe is turning away from Turkey – and the rest of the world | Orhan Pamuk
+1.  1.  **Music:** Paul McCartney: Yoko Ono did not break up the Beatles
+2.  2\. **Culture:** The 10 best scary paintings
+3.  3\. **News:** Saddam Hussein linked to Alps killings
+4.  4\. **Football:** Why Arsenal are becoming a speck in their rivals' wing-mirrors
+5.  5\. **Culture:** Bryan Cranston: 'I had to take my character from Mr Chips to Scarface'
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Environment:** Ash tree ban may be too late to avert 'UK tragedy', says expert
-2.  **Stage:** The River – review
-3.  **Science:** Women who quit smoking before 30 cut risk of tobacco-related death by 97%
-4.  **Books:** Dawn French: 'I had to grow up, to become the matriarch'
-5.  **Life &. style:** Sudoku 2,329 hard
+1.  **Media:** Gary Glitter arrested in Jimmy Savile investigation
+2.  **Childrens' books:** How to Seize a Dragon's Jewel, by Cressida Cowell - review
+3.  **Media:** Jimmy Savile: celebrities frightened of being implicated, says Max Clifford – video
+4.  **Money:** Soaring cost of childcare 'stops parents seeking work'
+5.  **Media:** Jimmy Savile: BBC policy chief accused of misleading MPs
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,20 +312,20 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Aston Villa v Norwich City – live!
-2.  2\. US elections 2012: Desperate struggle for women's votes as race enters final stretch
-3.  3\. Ecologists preparing for boom in urban wildlife 'invaders'
-4.  4\. Alexander Wurz takes Shanghai pole in World Endurance Championship
-5.  5\. Hurricane Sandy downgraded as storm heads for US east coast
+1.  1.  Hurricane Sandy heads toward New York and north-east US coast
+2.  2\. Everton v Liverpool - live!
+3.  3\. Talking Horses
+4.  4\. What have they done to my hajj? | Ajmal Masroor
+5.  5\. Sandy could be 'historic' storm but trajectory still uncertain, say experts
 6.  All today's stories
 
 On the Guardian today
 
 1.  Life and style Mapping the body: the temple
-2.  World news Sununu race row continues as Cory Booker calls comments 'disrespectful'
-3.  Comment is free Journalism in the Obama age shows the real media bias
+2.  Music Paul McCartney: Yoko Ono did not break up the Beatles
+3.  Environment UK solar companies take legal action against subsidies cuts
 4.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-5.  World news Hurricane Sandy: 41 dead as as authorities declare state of emergency
+5.  Television &. radio Bryan Cranston: 'I had to take my character from Mr Chips to Scarface'
 6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
 
 *   License/buy our content
