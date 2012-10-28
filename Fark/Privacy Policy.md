@@ -148,13 +148,13 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    Free Candy Orange
+    International Hindenburg Re-enactment Society
 *     
-    DIY Vasectomy Magnet Set
+    Bump-N-Go Cybermat
 *     
-    Ballpark Gumballs
+    Dalek Wall Clock
 *     
-    Mixed Messages Mug
+    I Go Commando
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
@@ -162,35 +162,35 @@ Stories from our partner sites:
   
 Mother Boo Boo's Hideous Chins  
 Let's Face It: These Horror Masks Are...  
-Prepare to Be Disturbed \[GALLERY\]  
 This Gallery Will Freak You Out!  
+Sleight of Hand WIN \[VIDEO\]  
 More news at Scribol »  
   
   
-Detective Convicted in 'Zoloft' Rape...  
-Cops: Boss Used Company Computer to S...  
-Man, 83, Who Killed Roommate for Sing...  
-Car Slams into Target Department Stor...  
-More news at KTLA »  
+Arnold Is Going To Play Conan Again  
+Funniest Halloween Costumes On A Budget  
+RZA + Black Keys: Baddest Man Alive  
+Yes, That's The Real Tagline  
+More news at UPROXX »  
   
   
-Pre-Labor Day Pregnant Bikini Contest  
-The State Fair Food That Will Cause Y...  
-The 20 Worst Hipster Bands: The Compl...  
-Internet Cat Video Film Festival Exists  
-More news at Village Voice »  
+Bobbi Kristina -- Grandma FOLDS In Wa...  
+World Series -- You Be the Judge  
+Michael Strahan -- Unloads Spare Beac...  
+Kid from 'Shameless' -- It PAYS to Be...  
+More news at TMZ »  
   
   
-Meet The Breastmilk World Record Holder  
-WATCH: Man Honors Wife's Dying Reques...  
-Homeless Man Allegedly Travels US For...  
-WATCH: Teen's Ridiculous Attempt To G...  
-More news at HuffPostWeirdNews »  
+If The Other Side Had Won  
+7 Insane Moments in the World's Most...  
+The 6 Most Spectacular Low Points of...  
+The 6 Creepiest Glitches in Famous Vi...  
+More news at Cracked »  
   
 
 Also on Fark
 
-Main Russian President Putin on 'Pussy Riot': 'They would be at home doing housework if they had not broken the law' ( dailymail.co.uk ) » (6 comments) Sports A nice slate of matches on Saturday, plus a Merceyside derby and a table-top tussle on Sunday. Your weekend EPL thread is here ( bbc.co.uk ) » (3 comments) Business Samsung snags smartphone crown, ships more smartphones in Q3 than any company. In history ( bgr.com ) » (90 comments) Geek The most spectacular photos of the solar system from the last 50 years in spectacular non-slideshow format ( wired.com ) » (0 comments) Entertainment G4 cancels Attack of the Show and X-Play because there just wasn't enough room on the schedule for those shows and 23 hours of Cops per day ( hitfix.com ) » (6 comments) Politics Who said it: a Christian conservative, or an Islamic fundamentalist? ( slate.com ) » (121 comments) Video Earsplitting footage of what Meat Loaf will do for... Mitt Romney. Not quite that, but close ( entertainment.nbcnews.com ) » (25 comments) FarkUs Question: What do felines, fruit flies, and Count Rugen have in common? Answer: Caturday (no, it's not inconceivable, and for once it really does mean what you think it means) ( io9.com ) » (332 comments)
+Main Busch Gardens welcomes ugly ass baby white rhino ( wesh.com ) » (3 comments) Sports Oklahoma City trades James Harden for a pile of shiat and doesn't even manage to unload Kendrick Perkins' contract in the process. Tag is for the Heat's upcoming walkover in the next three NBA finals, only because Fark has no "Angry" tag ( espn.go.com ) » (20 comments) Business Problem with an eBay item? Complain within 45 days or you'll forever hold your piece ( consumerist.com ) » (3 comments) Geek NASA is letting people watch the Space X Dragon spacecraft make its return trip back to Earth live ( nasa.gov ) » (25 comments) Entertainment Fifteen great Halloween TV episodes ( pastemagazine.com ) » (6 comments) Politics GOP candidate in NH pulls back the pink curtains to show us what Maggie Hassan is hiding. Wait, um, is that a vulva? Fear the vulva ( img189.imageshack.us ) » (34 comments) Video San Francisco Giants pitcher Matt Cain destroys things mid-air with his fastball ( wimp.com ) » (16 comments) FarkUs Subby's roommate is in one of the band on a cruise ship for a week. Submit your revenge suggestions for welcoming him home ( bluescruise.com ) » (7 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main Russian President Putin on 'Pussy Riot': 'They would be at home doing house
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 27 2012 08:00:25  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 28 2012 10:00:38  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
