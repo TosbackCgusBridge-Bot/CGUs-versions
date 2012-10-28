@@ -381,7 +381,7 @@ Rechercher sur OverBlog Annuaire
 *   Environnement
 *   Hi Tech
 *   Photo
-*   Economie
+*   Économie
 *   Nature
 *   Photographie
 *   Poésie
@@ -422,7 +422,7 @@ Rechercher sur OverBlog Annuaire
 *   Pro
 *   Art
 *   Peinture
-*   Creation
+*   Création
 *   Dessin
 *   Voyage
 *   Cinéma
