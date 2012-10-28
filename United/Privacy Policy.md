@@ -4,7 +4,7 @@ Please select your location or where you receive credit card billing statements 
 
 Antigua &. BarbudaArgentinaArubaAustraliaBahamasBahrainBarbadosBelgiumBelizeBermudaBrazilCanadaCayman IslandsChileChinaColombiaCosta RicaDenmarkDominican RepublicEcuadorEl SalvadorFranceGermanyGreeceGuamGuatemalaHondurasHong KongIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKorea, Republic of (South)KuwaitMarshall IslandsMexicoMicronesiaNetherlandsNetherlands AntillesNew ZealandNicaraguaNorthern Mariana IslandsNorwayPalauPanamaPeruPhilippinesPortugalPuerto RicoRussiaSingaporeSpain &. Canary IslandsSwedenSwitzerlandTaiwanThailandTrinidad and TobagoUnited Arab EmiratesUnited KingdomUnited StatesVenezuela
 
-Available Languages: English EspaÃ±ol
+Available Languages: English Español
 
 Save this preference
 
@@ -77,7 +77,7 @@ Sign In | My Account | Contact Us
     *   Investor Relations
     *   News Releases
 
-Home >. **We Apologize** We Apologize
+Home >. We Apologize We Apologize
 
 The page or file you requested could not be found. Please note:
 
