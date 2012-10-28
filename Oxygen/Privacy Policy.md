@@ -138,4 +138,4 @@ Chat, react, and interact LIVE with Oxygen stars and superfans.
 Download our OxygenLive app on your iPhone or iPad.  
 Get gear, DVD, and more inspired by your fav Oxygen shows. Start shopping now.  
 Download the mood predictor app for your desktop, Facebook or iPhone. Home| TV Shows| Schedule| Games Sweepstakes| Terms| Privacy Policy| AdChoices  Corporate Info| Contact Us Join NBCU Panel| Independent Programming Report  
-TM &. Copyright Â© 1998-2011 Oxygen Media. All Rights Reserved
+TM &. Copyright © 1998-2011 Oxygen Media. All Rights Reserved
