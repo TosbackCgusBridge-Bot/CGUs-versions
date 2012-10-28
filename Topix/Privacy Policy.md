@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Iran
+China
 
-Report: Iran rejects EU delegation demand to meet 2 jailed dis...
+Did the rise of China's currency screw Apple's Q4 earnings?
 
 Mitt Romney
 
-Three Things We Learned from Romney's '91...
+Romney ad pushes back on auto bailout attacks
 
 Politix
 
-Who's the worst pundit?
+Are you smarter than a 7th grade civics student?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 104,864 • Total comments across all topics: 189,285,347
+Comments made yesterday: 96,378 • Total comments across all topics: 189,380,065
 
 Copyright ©2012 Topix LLC
 
