@@ -88,7 +88,7 @@ Welcome Sign In / Sign Out or Register Search: O2 Business
     *   Mobile phones
         *   iPhone
         *   Blackberry
-        *   Other phonesâ¦
+        *   Other phones…
         *   Mobile phone guides
         *   Phone insurance
     *   Broadband
@@ -150,7 +150,7 @@ Welcome Sign In / Sign Out or Register Search: O2 Business
     *   Your Business account
     *   Get help from the O2 Community
 
-Privacy Policy Print Terms and conditions âº Privacy Policy
+Privacy Policy Print Terms and conditions › Privacy Policy
 
 Privacy Policy of Telefónica UK Limited (referred to in this policy as "we", "us "and "O2")
 
