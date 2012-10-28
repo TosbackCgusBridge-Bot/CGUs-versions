@@ -13,7 +13,7 @@ I.    EA Online And Mobile Privacy Policy: Introduction
   
 EA and its subsidiary companies know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. We respect the privacy rights of consumers and recognize the importance of protecting the information collected about you. We have adopted this global online Privacy Policy to explain how we store and use personal and non-personal information we collect online on our websites, during your use of our online products and/or services (including online game play) and on mobile platforms. This policy does not cover information provided online in response to job postings. Please review the EA Jobs Data Privacy Statement on EA's jobs site at www.jobs.ea.com for further information.   
   
-If you reside in the United States, Canada or Japan, these terms are an agreement between you and Electronic Arts Inc.  If you reside in any other country, then these terms are an agreement between you and Electronic Arts Swiss SÃ rl.  
+If you reside in the United States, Canada or Japan, these terms are an agreement between you and Electronic Arts Inc.  If you reside in any other country, then these terms are an agreement between you and Electronic Arts Swiss Sàrl.  
   
 This policy also applies to TRUSTe certified EA Websites. To view a list of these Validated EA Websites, please visit www.TRUSTe.com. In addition, EA owns several other domain names that point to the websites referenced above. We may also add new sites that are subject to this privacy policy and that list will be updated to include those. Please note that this policy applies only to sites maintained by EA, and not to websites maintained by other companies or organizations to which we link.  
   
@@ -111,9 +111,9 @@ V.    Information Provided To EA By Third Parties.
   
 EA also obtains personal and non-personal information from third parties as discussed below.  EA only uses this data for purposes consistent with this policy.  
   
-**1\. PlayStationÂ®3 System**  
+**1\. PlayStation®3 System**  
   
-If you sign up to play EA games through a PlayStationÂ®3 system, your Sony Entertainment Network account information will be provided to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's titles online. By signing up to play EA's titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your name, email address, online ID, country, language and date of birth but does not include credit card number or other financial account information.  
+If you sign up to play EA games through a PlayStation®3 system, your Sony Entertainment Network account information will be provided to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's titles online. By signing up to play EA's titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your name, email address, online ID, country, language and date of birth but does not include credit card number or other financial account information.  
   
 **2\. Xbox LIVE**  
   
@@ -121,7 +121,7 @@ If you sign up to play EA games through Microsoft's Xbox LIVE Service, Microsoft
   
 **3\. Wii U**  
   
-If you sign up to play EA games through a Nintendo Wii U console, your Nintendo account information will be provided to EA so that we can establish an Origin Account for you. You need an Origin Account to play EAâs titles online. By signing up to play EAâs titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your Mii information, email address, Nintendo Network ID, friend list, country, language and date of birth but does not include credit card number or other financial account information.  
+If you sign up to play EA games through a Nintendo Wii U console, your Nintendo account information will be provided to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA’s titles online. By signing up to play EA’s titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your Mii information, email address, Nintendo Network ID, friend list, country, language and date of birth but does not include credit card number or other financial account information.  
   
 **4\. Other Information Collected From Third Parties**  
   
@@ -189,7 +189,7 @@ We encourage you to talk with your children about communicating with strangers a
   
 Information collected is secured in a manner consistent with this privacy policy (see Section VIII above). If we change how we handle your child's information, we will notify you in a manner consistent with this policy.  
   
-Under no circumstances do we condition a child's participation in an activityâlike contestsâon the child's disclosure of more personal information than is reasonably necessary to participate in the activity. On certain sites, we may not permit children to participate at all regardless of consent.  
+Under no circumstances do we condition a child's participation in an activity—like contests—on the child's disclosure of more personal information than is reasonably necessary to participate in the activity. On certain sites, we may not permit children to participate at all regardless of consent.  
   
 XI.    Public Information Including User Generated Content, Online Forums, Blogs And Profiles  
   
