@@ -136,28 +136,23 @@ If you have any questions or comments about our policies, we may be reached at K
 
 KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $0 Value: Discount: You Save: $0 100% $0
 
-Saturday: CVS, Walgreens Deals CVS
+Sunday: More Deals
 
-*   Zantac 150, 24ct, or Zantac 75, 30ct - $8.99
-*   Get $1 Extra Bucks WYB (3) Stride ID or Spark Gum, 14ct - $1.00
-*   Post Honey Bunches of Oats, Great Grains, or Raisin Medley, 13-17oz - $3.00
-*   more...
-
-1.  Apartment Maintenance Helper
+1.  Press &. Lamination Operators
     
-2.  SEASONAL DRIVERS
-    
-    Kelly Services
+2.  Apartment Maintenance Helper
     
 3.  PROGRAM DIRECTOR
     
-4.  SEASONAL DRIVERS
+4.  SALES
     
-    Kelly Services
+5.  CAMPAIGN JOBS
     
-5.  SALES
+    Grassroots Campaigns, Inc.
     
-6.  SALES
+6.  SENIOR PIPE DESIGNER
+    
+    THOMAS RUSSELL CO.
     
 
 View More The Most
@@ -165,16 +160,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Did Royals signal offseason plan by claiming Volstad on waivers from Cubs?
-*   Poll: McCaskill narrowly ahead of Akin, Romney with big lead in Missouri
-*   Daboll adjusts Chiefs’ offensive plans to fit Quinn
-*   Mizzou’s Mike Dixon, Dominique Bull suspended indefinitely
-*   K-State fan brings purple-hued sex appeal to sports betting world
-*   Man with gun robs Family Dollar in Kansas City
-*   Former Royals pitcher Affeldt finds success and purpose with Giants
-*   Guilty verdict in triple murder at Red Roof Inn
-*   JoCo grand jury dismisses obscenity question involving arboretum statue
-*   Its on: Chiefs Hali calls Raiders dirty
+*   Sam Mellinger | Kansas State is only partly in control of its BCS fate
+*   Old Chiefs lament that Raiders rivalry is on the rocks
+*   K-State notebook: One fly in the ointment
+*   Royals' Guthrie appears headed for free agency
+*   No. 4 K-State rolls past No. 15 Texas Tech 55-24
+*   MU gets first SEC win, beats Kentucky 33-10
+*   Kansas City stories found in Boy Scouts’ sex abuse accusations
+*   Firefighters battle townhome blaze in Lee’s Summit
+*   KU falls short in upset bid, loses 21-17 to Texas
+*   Affeldt to blame for Royals playoff drought
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
