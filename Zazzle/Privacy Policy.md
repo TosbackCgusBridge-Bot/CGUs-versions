@@ -1,4 +1,4 @@
-Skip to content
+Skip to content 100% satisfaction guaranteed. If you don't love it, we'll take it back. Period.
 
 *   Sign in 
     *   My Account
@@ -24,7 +24,7 @@ Skip to content
 *   Volume Bonus Agreement
 *   Associates Agreement
 *   Shipping &. Returns
-*   Zazzle Blackâ¢ Terms &. Conditions
+*   Zazzle Black™ Terms &. Conditions
 
 Thanks for using http://www.zazzle.com/ (the "Site"). At Zazzle Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using our website, you expressly consent to the collection, storage, disclosure and use of your information as we have outlined in this Privacy Policy and you agree to the terms and conditions of this Privacy Policy.
 
@@ -206,4 +206,4 @@ Zazzle Worldwide Sites (see all)
 *     France
 
 Use of this Web site constitutes acceptance of the User Agreement and Privacy Policy  
-Copyright Â© 2000-2012, Zazzle Inc. All rights reserved.
+Copyright © 2000-2012, Zazzle Inc. All rights reserved.
