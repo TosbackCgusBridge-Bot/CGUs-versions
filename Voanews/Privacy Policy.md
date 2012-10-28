@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Killings Shatter Syrian Truce
-*   Polls Show Very Tight US Presidential Race
+*   Indonesia Arrests 11 in Suspect Terror Plot
+*   Obama, Romney Alter Campaigns in Face of Storm
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
