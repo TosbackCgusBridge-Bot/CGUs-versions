@@ -5,8 +5,8 @@
     *   Election 2012
     *   strange stuff
     *   timeless news
-    *   Mitt Romney 2012
     *   Hurricane Sandy
+    *   Mitt Romney 2012
     *   Obama 2012
     *   entertainment
     *   celebrity
@@ -138,9 +138,9 @@ More from HuffPost Weird »
 
 More from The Frisky »
 
+*   Author lives like a 'biblical woman' for a year by covering...
 *   ♪ Oh yes they call it the streak ♪ The I-96 shooting streak...
 *   Busch Gardens welcomes ugly ass baby white rhino \[Florida\]
-*   The porn industry is "fueled by innocent pictures"...
 
 More from Fark »
 
@@ -150,13 +150,13 @@ More from Fark »
 
 More from The Week »
 
+*   New York City to Suspend All Public Transit as Hurricane...
 *   The New York Times Definitely Doesn't Endorse Mitt Romney
-*   Hurricane Sandy May Make Landfall in Southern Jersey and...
 *   Cannibal Cop's Female Acquaintances Are Justifiably Freaked...
 
 More from Daily Intel »
 
-*   5 Sneaky
+*   Why Do Vegetarians Live Longer?
 *   Chewing on the Future of Food
 *   The Art of Sleeping With the Enemy
 
@@ -168,9 +168,9 @@ More from HuffPost Health »
 
 More from Celebuzz »
 
+*   'The Walking Dead' Preview: Michonne's Zombie Slaves Have...
 *   6 Sexy Celeb Looks Inspired by '50 Shades of Grey'
 *   Kindergarten Teacher Brutally Beats Students and It's...
-*   5 Fabulously Fun and Crafty Fall Decorating Ideas
 
 More from The Stir »
 
