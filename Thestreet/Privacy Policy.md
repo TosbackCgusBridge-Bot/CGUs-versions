@@ -94,7 +94,7 @@ A NOTE FROM JILL MALANDRINO
 *   5 Dumbest
 *   Kass
 
-pjava03.dc.thestreet.com Privacy Policy
+pjava02.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
