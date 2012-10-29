@@ -9,6 +9,8 @@ Guides and FAQs/General Info/Terms and Policies Privacy policy
 Jason  
 posted this on March 02, 2009 12:05 am
 
+*   Tweet
+
 June 25, 2012
 
 Scribd values the privacy of the users, subscribers, publishers, members, and others who visit and use the Scribd Platform (collectively or individually, “You” or “Users”).
