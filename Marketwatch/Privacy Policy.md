@@ -1,4 +1,10 @@
-Bulletin Investor Alert Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
+Bulletin Investor Alert
+
+New York Markets Open in:
+
+Pre-Market Indications Analyst Ratings Oil News EarningsWatch
+
+Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
@@ -192,151 +198,134 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 10:45 AM EDT October 28, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 29, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  10:39a
+/news/latest1.  8:06a
     
-    Cuomo orders NYC transit system to shut down
+    Hurricane Sandy winds at 85 mph
     
-2.  9:00a
+2.  8:06a
     
-    New York prepares for the worst from Sandy
+    Hurricane Sandy now moving at 20 mph
     
-3.  8:17a
+3.  8:04a
     
-    Monster storm Sandy threatens East Coast
+    Oil slips, gasoline gains as hurricane nears U.S.
     
-4.  7:26a
+4.  8:01a
     
-    New York prepares for the worst from Sandy
+    Updates, advisories and surprises
     
-5.  7:01a
+5.  8:00a
     
-    Wall Street, political world await jobs report
+    Coming up: Personal spending, income for September
     
-6.  6:28a
+6.  7:54a
     
-    Hawaii hit by tsunami after Canada quake
+    Hurricane Sandy forces U.S. markets to close
     
-7.  3:44a
+7.  7:52a
     
-    New Jersey Gov. Christie orders some evacuations
+    Radio update: Sandy shuts down Wall Street
     
-8.  1:35a
+8.  7:48a
     
-    Hurricane Sandy: dangers and damages
+    Burger King 3rd-period net off. dividend initiated
     
-9.  12:54a
+9.  7:32a
     
-    Hurricane Sandy wreaks havoc on airline flights
+    Burger King paying quarterly dividend of 4c
     
-10.  5:00p
+10.  7:30a
     
-    Hurricane Sandy may force evacuations in NYC
+    Burger King adj Q3 net 17c
     
-11.  4:48p
+11.  7:29a
     
-    Exchanges: Wall Street ready for Monday
+    Burger King Q3 net 2c vs. 11c
     
-12.  3:48p
+12.  7:25a
     
-    NFL doesn’t expect Sandy to ground Jets, Eagles
+    Clean Harbors buying oil recycler for $1.25 bln
     
-13.  3:14p
+13.  7:24a
     
-    BREAKING
+    Some firms delay earnings reports due to Sandy
     
-    New York not yet requiring mandatory evacuations
-    
-14.  12:05p
+14.  7:18a
     
     BREAKING
     
-    NYC moves to protect rail, subway lines
+    Treasury brings forward 4-week bill auction
     
-15.  12:00p
+15.  7:12a
     
-    Hurricane Sandy may force evacuations in NYC
+    Clean Harbors buying Safety-Kleen for $1.25 bln
     
-16.  11:43a
+16.  7:02a
     
-    BREAKING
+    REITs are priced to sell
     
-    N.J. declares state of emergency ahead of Sandy
+17.  7:01a
     
-17.  11:27a
+    Look for wealthy donors to give more
     
-    BREAKING
+18.  7:00a
     
-    New York mayor to update on hurricane preparation
+    Boomer women more financially insecure than men
     
-18.  10:14a
+19.  6:58a
     
-    Frankenstein Economics is killing capitalism
+    U.S. stock futures lower. early close ahead
     
-19.  9:24a
+20.  6:54a
     
-    McLaren Spider: An open-air symphony of loud
-    
-20.  9:00a
-    
-    Hurricane Sandy may force evacuations in NYC
+    FTSE falls as storm jitters hit energy, insurers
     
 21.  Loading more headlines...
 
 dow /quotes/zigman/627449 13,107.21 +3.53 +0.03% nasdaq /quotes/zigman/123127 2,987.95 +1.83 +0.06% s&p 500 /quotes/zigman/3870025 1,411.94 -1.03 -0.07% Kiosk
 
-*   1341573300000 1341592200000
+*   1238817600000 1270353600000
     
-    From Fox Business
+    Cars
     
-        nancy colasurdo  
-    Try backing off to close a sale  
-    Sometimes, when workers see a potential sale in sight, they "move in for the kill." But sometimes it might be better to give the customer some space.  /conga/kiosk/marketfox.html 232700
-*   1332374700000 1332461400000
+      McLaren: Symphony of loud  
+    The 2013 McLaren Spider 12C open-top is the best-handling, most accessible midengine sports car of all time, writes Dan Neil. And now it even sounds like it.   
+    232925
+*   1340719800000 1340759400000
     
-    The Trading Deck
+    U.S. Economy
     
-    michael gayed  
-    FearPad trumps iPad. stocks fall  
-    The market is entering an emotional phase which could flush out of the remaining nouveau bulls who denied a correction was a possibility.  
-    /conga/kiosk/trading-deck-5.html 232628
-*   1320414900000 1320620100000
+      Breaking down GDP report  
+    The U.S. economy grows at a 2% rate in the third quarter, a bit stronger than the 1.7% expected by economists and up from 1.3% in the second quarter.  
+    /conga/kiosk/capitol-report.html 232923
+*   1339754400000 1340010000000
     
-    Economy
+    Investing
     
-    Five ‘fiscal-cliff’ scenarios  
-    How will Washington deal with the impending "fiscal cliff" of tax increases and spending cuts? Here are five ways it could play out. /conga/kiosk/consumer.html 232697
-*   1330965900000 1330992600000
+    5 ways to prevent fraud  
+    An investor’s worst nightmare is being a sucker for a fraud scheme. Here are five ways to protect your portfolio  and your money from con artists. /conga/kiosk/investing.html 232906
+*   1347087600000 1347213600000
     
-    The Trading Deck
+    Slide Show
     
-      nigam arora  
-    Bad Apple earnings: What now?  
-    Many of the numbers in the company’s call did not meet expectations, but does that mean that it’s time to dump the stock?  /conga/kiosk/trading-deck-4.html 232624
-*   1332953700000 1332979800000
-    
-    The Trading Deck
-    
-    jeff reeves  
-    I just bought Intel -- Am I crazy?  
-    There are a few large-scale arguments against investing in old tech right now, but when you look closely, Intel may be able to avoid their problems. /conga/kiosk/trading-deck-7.html 232684
-*   1315997700000 1316084100000
-    
-    Commodities Corner
-    
-    Why your heating bill won’t jump  
-    Consumers are starting to worry about propane and natural gas, but this year, prices probably won’t see a huge spike, writes Myra P. Saefong.  
-    • Rolling coverage: East Coast girds for Sandy
-    
-    /conga/kiosk/commentary3.html 232686
+    13 cities going broke  
+    Stockton, Calif., (left) tops the list of U.S. cities in dire financial straits. See what other areas are drowning in recession-induced red ink.  
+    /conga/kiosk/wildcard2.html 232912
 *   1309191300000 1309248000000
     
     Personal Finance
     
-    8 shocking expense reports  
-    $177 for a bagel and diet soda? Lawyers may have a reputation for expensing every last thing, but they’ve got nothing on these politicians and executives.  
-    /conga/kiosk/wildcard3.html 232694
+    Translating MLM pitches  
+    Here's what you'll have to find out for yourself when multilevel-marketing firms try to enlist you to sell their products to everyone you know. (Slide show)  
+    /conga/kiosk/wildcard3.html 232918
+*   1343988600000 1344810900000
+    
+    U.S. Week Ahead
+    
+    Jobs data, earnings    
+    Important October monthly jobless data on tap in addition to corporate earnings, reports MarketWatch's Polya Lesova. /conga/kiosk/video2.html 232930
 
 MarketWatch.com
 
