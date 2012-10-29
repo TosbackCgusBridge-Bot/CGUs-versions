@@ -23,25 +23,7 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 28 07:00 AM · WWE RAW EN ESPAÑOL coming up next:
-
-*   10:00 AM · mun2 CINCO
-*   10:30 AM · 18 &. OVER
-*   12:00 PM · REVENTON
-*   1:00 PM · I LOVE JENNI
-*   2:00 PM · CHIQUIS 'N CONTROL
-*   3:00 PM · LARRYMANIA
-*   4:00 PM · OPERACION REPO
-*   4:30 PM · OPERACION REPO
-*   5:00 PM · WWE RAW
-*   8:00 PM · FUGITIVOS DE LA LEY
-*   9:00 PM · LARRYMANIA
-*   10:00 PM · OPERACION REPO
-*   10:30 PM · OPERACION REPO
-*   11:00 PM · DUB LATINO
-*   11:30 PM · DUB LATINO
-
-see full schedule >>.
+schedule right now: October 29 03:00 AM · MORNING BREATH coming up next: see full schedule >>.
 
 *   search
 *   login
