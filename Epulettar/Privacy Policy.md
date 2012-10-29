@@ -97,6 +97,8 @@ még több
 
 dossziék
 
+Dosszié: Közlekedés Operatív Program (KÖZOP)
+
 Dosszié: Út
 
 Dosszié: Hidak
@@ -104,8 +106,6 @@ Dosszié: Hidak
 Dosszié: Széchenyi terv
 
 Dosszié: Villamos
-
-Dosszié: Vasút
 
 még több
 
@@ -120,13 +120,16 @@ jánossy györgy emlékkiállítása a hap galériában
 
 üzennek a kövek - fotókiállítás a zalai zsidótemetők felújításáról
 
+brassó építészete fotókon és előadásokon budapesten
+
 épülettár apró
 
-galgahévizen amerikai stilusú ház eladó vagy cserélhető
+teljes körű földmérés - geodézia, földhivatali ügyintézés- debrececen - prizma földmérő kft
 
-villanyszerelés, gyorsszolgálat, hibaelhárítás 0-24 tel:06 70 261-0353 / 321-3207
+földhivatali idézés - épület feltüntetése : prizma földmérő kft debrecen
 
-lakóparki új szép családi ház fiataloknak!
+kútfúrás szigethalmon, zuglóban, szigetszentmárto  
+nban, vecsésen, budapesten és környékén.
 
 még több
 
