@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Benghazi attack: Urgent call for military help ‘was denied by chain of command’
-2.  Hurricane Sandy liveblog: What to expect Saturday night and Sunday (+video)
-3.  Magnitude 7.7 earthquake rattles West coast of Canada
-4.  Hurricane Sandy liveblog: New York area prepares for Hurricane Sandy
-5.  Hurricane Sandy liveblog: Which way is Sandy headed? The latest 'Frankenstorm' track (+video)
+1.  Hurricane Sandy is already setting records (+video)
+2.  Hurricane Sandy liveblog: Obama says government will respond 'big and fast' (+video)
+3.  Hurricane Sandy liveblog: Which way is Sandy headed? The latest 'Frankenstorm' track (+video)
+4.  Obama vs. Romney: Who has the momentum?
+5.  Magnitude 7.7 earthquake rattles West coast of Canada
 
 About these ads
 
@@ -121,7 +121,7 @@ Editors' Picks:
 *   Wanted in Brazil: more English speakers
 *   Global News Blog: The Eid holiday: What does it celebrate?
 
-_Photos of the day_ 10.27.12 » Photos of the Weekend 10/28
+_Photos of the day_ 10.28.12 » Photos of the Weekend 10/28
 
 **CSMonitor.com** on Facebook
 
