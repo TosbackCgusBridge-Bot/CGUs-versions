@@ -1,6 +1,6 @@
 RetailMeNot Score the Savings You Want™ Search for savings from your favorite stores Search!
 
-e.g. halloweenfall savingsdell homemacy'skohl'stargetamazon
+e.g. dell homesearsmacy'skohl'shalloweenfall savingstargetamazon
 
 *   Coupon Codes
 *   Free Shipping
