@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-China
+Hurricane
 
-Did the rise of China's currency screw Apple's Q4 earnings?
+As hurricane bears down, NYSE and other U.S. markets suspend t...
 
 Mitt Romney
 
-Romney ad pushes back on auto bailout attacks
+Zelizer: Sandy to test Obama, Romney
 
 Politix
 
-Are you smarter than a 7th grade civics student?
+Could you pass a US citizenship test?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 96,420 • Total comments across all topics: 189,380,776
+Comments made yesterday: 106,668 • Total comments across all topics: 189,468,333
 
 Copyright ©2012 Topix LLC
 
