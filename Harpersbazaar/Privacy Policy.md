@@ -15,6 +15,10 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
+The Spring 2013 Runway Report
+
+See the top runway trends from Spring 2013.
+
 Jean Queens
 
 Get inspired by the best celebs-in-denim looks.
@@ -22,10 +26,6 @@ Get inspired by the best celebs-in-denim looks.
 Mr. Blasberg's Best-Dressed List: October 26th, 2012
 
 Mr. Blasberg's Best-Dressed List: October 26th, 2012
-
-The Spring 2013 Accessories Report
-
-See our picks for the best bags, shoes, and jewelry spotted on the runway.
 
 Beauty &. Hair  
 
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR Jean Queens Mr. Blasberg's Best-Dressed List: October 26th, 2012 The Spring 2013 Accessories Report The Best Spring Nail Trends To Try Now Today's Beauty Secret 4 Fun Halloween Mani Ideas Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Maison Martin Margiela x H&M Party Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR The Spring 2013 Runway Report Jean Queens Mr. Blasberg's Best-Dressed List: October 26th, 2012 The Best Spring Nail Trends To Try Now Today's Beauty Secret 4 Fun Halloween Mani Ideas Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Maison Martin Margiela x H&M Party Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
