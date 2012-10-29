@@ -793,7 +793,6 @@ Y*   Books + Media
         *   open Towels
             *   Beach
             *   Bath
-        *   Curtains + Window Coverings
         *   open Bedding Basics
             *   Sheets
         *   open Comforters + Quilts
@@ -861,7 +860,6 @@ Y*   Books + Media
         *   Slipcovers
         *   Rugs + Mats
         *   Throws + Accent Pillows
-        *   Curtains + Window Coverings
         *   open Home Office
             *   Office Essentials
         *   open Decorative Accents
@@ -995,6 +993,7 @@ Y*   Books + Media
         *   Office Essentials
         *   Sewing
         *   Arts and Craft Kits
+        *   Calendars
         *   Giftwrap
     *   open Housewares + Dining
         *   Furniture
@@ -1041,6 +1040,7 @@ Y*   Books + Media
         *   Kitchen and Dining
     *   open Storage
         *   Seasonal
+        *   Cabinet Storage
         *   Bathroom
         *   Furniture
         *   Household
@@ -1089,6 +1089,7 @@ Y*   Books + Media
         *   Coats, Jackets
         *   Dresses, Skirts
         *   Pants
+        *   Shirts
         *   Sweatshirts
         *   Sleepwear
     *   Baby
@@ -1127,6 +1128,7 @@ Y*   Books + Media
     *   open Storage + Organization
         *   Bowls
         *   Household Organization
+        *   Cabinet
         *   Countertop Accessories
     *   Appliances
     *   open Baking + Cooking
@@ -1204,6 +1206,7 @@ Y*   Books + Media
     *   Lunch Totes
 *   Electronics
 *   open Storage
+    *   Cabinet Storage
     *   Bathroom
     *   Furniture
     *   Closet
