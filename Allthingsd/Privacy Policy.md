@@ -42,9 +42,9 @@ AllThingsD
 
 *   View by Writer
 
-**Trending –** Apple CEO: Microsoft’s Surface Is Probably Terrible  
+**Trending –** Steven Sinofsky on How Windows 8 PCs Deliver Better Value Than Apple  
 
-**D: Dive Into Mobile** Live Stream Schedule »Follow on Twitter »**D: Dive Into Mobile** Live Interview Schedule »Subscribe on Facebook »Watch Live – Facebook, Google, Twitter, Xiaomi »Like on Facebook »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
+Follow on Twitter »Watch Live – Facebook, Google, Twitter, Xiaomi »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
