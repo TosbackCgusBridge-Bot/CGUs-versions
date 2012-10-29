@@ -505,7 +505,7 @@ See All Newsletters  
 *   Entertainment iVillage 5 Will Jay-Z Join Beyonce at the Super Bowl?
 *   Entertainment Likes or Yikes? Uh Oh! Which Celeb Does Taylor Swift Fear She'll Drunk Dial?
 *   Global iVoices Why a Failed First Marriage Doesn't Make You a Failure
-*   Entertainment Featured Alicia Keys: Why She Named Her Son Egypt
+*   Entertainment Featured Alicia Keys: CEO of the Business of Inspiration
 
   
   
