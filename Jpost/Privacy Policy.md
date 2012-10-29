@@ -1,4 +1,4 @@
-  Set as Homepage Sun, Oct 28, 2012   12 Heshvan, 5773  
+  Set as Homepage Mon, Oct 29, 2012   13 Heshvan, 5773  
 
 *   *   Breaking News
     *   Diplomacy &. Politics
@@ -176,8 +176,7 @@ We recommend that you read the full terms of service prior to posting any conten
 12.  12.**Governing Laws, Jurisdiction, No Class Action:** These Terms shall be solely governed by the laws of the state of Israel, including their statutes regarding conflict of laws and may be solely brought to the competent courts of the Tel-Aviv-Jaffa District. You undertake not to initiate any class action, for any reason, against The Jerusalem Post and to claim your damages only according to this agreement.
 
                                   Israel Focus JPost2go  
-Don't have time to read The Jerusalem Post ? Now you can listen to it!   Send Flowers To Israel  
-  Nefesh B'Nefesh Guided Aliyah  
+Don't have time to read The Jerusalem Post ? Now you can listen to it!   Nefesh B'Nefesh Guided Aliyah  
 Already living in Israel? Enjoy the Benefits of Aliyah!   Watch Hadassah LIVE  
 See events from Hadassah Centennial in Jerusalem as they happen   Bank Leumi USA  
 Coast to Coast Financial Expertise   STOP HUNGER  
