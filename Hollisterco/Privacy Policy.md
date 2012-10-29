@@ -4,7 +4,7 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] 25% Off Purchase + $5 Shipping on all orders! Code:35525
+\[hol-HomepageTopBannerEMS\] Last Day! 25% Off Purchase + $5 Shipping! Code:35525
 
 *   Shop Dudes
 
