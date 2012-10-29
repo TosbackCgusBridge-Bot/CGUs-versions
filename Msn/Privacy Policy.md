@@ -211,14 +211,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
-    *   Pick Nation: NFL Week 8 Picks
-    *   World Series on FOX: Blanco, Lincecum
-    *   Highlights: (5) Notre Dame - (8) OU
-    *   Spurrier on Lattimore
-    *   Highlights (2) Florida - (10) Georgia
-    *   World Series on FOX: Game 3 Recap
-    *   Highlights: (7) Oregon St. - Washington
-    *   CFB on FOX: Kansas St. keeps rolling
+    *   DeAngelo Hall goes nuts, gets ejected
+    *   Online OT: Play Clock Week 8
+    *   Pereira: Week 8 NFL Call
+    *   Highlights: Wild finish in Big D
+    *   World Series on FOX: Trophy Presentation
+    *   World Series on FOX: Final Thoughts
+    *   World Series on FOX: Romo closes out the Series
+    *   World Series on FOX Recap
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -344,7 +344,7 @@ Close Email A Friend Your email has been sent.
     *   Video
 *   Living
     *   style
-    *   d??cor
+    *   décor
     *   sex &. relationships
     *   family
     *   inspire
@@ -504,33 +504,33 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   In just second start, Nelson flashes his...
-*   Gophers help bowl hopes by pounding Purdue
-*   NBA's overseas pipeline was built in 1990s
+*   Parise: NHL lockout's not fair to the fans
+*   NHL players hit the ice to support military...
+*   Niesen: Lynx still the cities' best sports...
 
-*   VIDEO: Starworks Shanghai WEC Race vBlog
-*   F1: Grand Prix News Briefs (Update 2)
-*   CUP: Hamlin’s Martinsville History Speaks...
+*   GRAND-AM: Kansas Test Wraps Up
+*   CUP: Foes Facing ‘Smarter, Better’ 48 Team
+*   GT: Hexis McLaren Wins City Challenge Baku
 
-*   Juco Big Man Picks DePaul
-*   Syracuse at USF: Analysis of the Defense
-*   Cardinals Arizona Fall League Report: Week 2
+*   Monday Morning Briefing
+*   Vanderbilt Report Card: UMass
+*   Army Report Card: Ball State
 
 *   Carlos Condit Prefight Interview: UFC 154
 *   UFC Unrestricted – A FUEL TV Special
 *   Signature Moves: Cung Le
 
-*   Ichiro wants to return to Yankees?
-*   James Harden traded to Rockets
-*   Key fumble costs Florida in loss
+*   Bush: 'Jets 'laid down a little bit'
+*   Video: Giants win World Series
+*   Wallace's days in Pitt numbered?
 
-*   Tienen enviada de Cristiano: Gullit
-*   San Francisco a un juego
-*   Xolos vuelve al liderato
+*   Gran serie de Giants
+*   Clausuran el estadio de Chivas
+*   Kershaw gana premio Roberto Clemente
 
-*   Premier League: Everton vs. Liverpool
-*   Serie A: Bologna vs. Internazionale
-*   Juventus maintain unbeaten start
+*   Big guns check out Genoa teenager
+*   Manchester United defeats Chelsea
+*   Highlights: Chelsea vs. Manchester United
 
 *   *   NFL
     *   NFL Home
