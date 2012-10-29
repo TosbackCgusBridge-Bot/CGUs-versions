@@ -1,5 +1,3 @@
-Metering is ON
-
 *   Contact
 *   Subscribe
 *   E-paper
@@ -63,7 +61,7 @@ Metering is ON
 
 suntimes
 
-Sunday, October 28, 2012
+Monday, October 29, 2012
 
 Search Search Site All Papers YAHOO!
 
