@@ -3,27 +3,27 @@
 
 *   Women
 *   Men
-*   Access
+*   Join Everlane
 *   About
 *   Blog
 
-*   Backpack Collection
-*   Classic Tee Collection
 *   The French Terry
 *   Ryan Collection
-
-*   The Essential Belt
-*   The Essential Scarf
-*   The Weekender
-*   The Tote
-
-*   Backpack Collection
 *   Classic Tee Collection
-*   The French Terry
-*   The Essential Belt
+*   The Essential Scarf
 
 *   The Weekender
+*   Backpack Collection
 *   The Tote
+*   The Essential Belt
+
+*   The French Terry
+*   Classic Tee Collection
+*   The Essential Belt
+*   The Tote
+
+*   The Weekender
+*   Backpack Collection
 
 Disclaimer
 
