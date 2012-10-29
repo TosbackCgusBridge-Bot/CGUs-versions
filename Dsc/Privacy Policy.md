@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM MythBustersHail Hijinx 8:00PM MythBusters (Season 9)Fright Night 9:00PM Brainwashed  TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Overhaulin'1965 Volkswagen Bug 8:00PM Overhaulin': Deconstructed1965 Impala 9:00PM American Chopper (Season 9)A New Company TV SHOWS
 
 American Chopper
 
@@ -334,6 +334,12 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
+Return of the Dragon: SpaceX Mission a Success
+
+Pets During Hurricanes: What To Do
+
+What Are the Risks From Hurricane Sandy?
+
 Hawaii Tsunami Waves Smaller than Expected
 
 Hawaii Tsunami 'Arriving Now' (Updated)
@@ -343,12 +349,6 @@ TWiDN: Whales Can Speak and We've Got More Stars
 Windows 8: Twice The Interface, Third The Price
 
 Mayans Pissed Off Over Doomsday 'Deceit'
-
-Bummer Weekend News on Drinking: DNews Nugget
-
-There's a Fractal in My Cauliflower! DNews Nugget
-
-Nissan Interior Will Feel Like Skin
 
   facebook share0 Tweet Privacy Policy  
 
@@ -554,41 +554,33 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 28,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 29,  
+7:00 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 29,  
+7:30 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 29,  
+8:00 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 29,  
+8:30 am  
+30 min(s)  
+**Paid Programming**  
+ …  
+Oct 29,  
 9:00 am  
 60 min(s)  
-**I Was Mummified**  
- One scientist is on a quest to answer an ancient mystery: how did  
-Oct 28,  
-10:00 am  
-60 min(s)  
-**Jungle Gold**  
-_Culture Shock_  
- In a last ditch effort to get out of debt, Scott and George leave  
-Oct 28,  
-11:00 am  
-60 min(s)  
-**Gold Rush (Season 3)**  
-_Million Dollar Season_  
- This season someone hits the motherlode. Todd doubles down with t  
-Oct 28,  
-12:00 pm  
-60 min(s)  
-**Ghost Lab**  
-_Deadwood_  
- The Ghost Lab team investigates paranormal claims in the blood st  
-Oct 28,  
-1:00 pm  
-60 min(s)  
-**Secret America**  
-_Episode 1_  
- They are the most iconic symbols of America, but lurking behind e  
-**More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
-$47.95  
-  **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
-$12.95   **Discovering Ardi DVD**  
-$19.95   **Discovery Channel Polymer Chemistry Set**  
-$16.99        
+**I (Almost) Got Away With It**  
+_Got Shot In The Leg_  
+ When a friend is fired from a restaurant, Konh Chung Bounnam and  
+**More Listings »**   Shop Discovery Store      
 
 our sites
 
