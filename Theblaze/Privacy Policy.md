@@ -21,13 +21,13 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
+*   Hurricane Sandy
 *   Libya: The Truth?
-*   China
 *   Campaign 2012
 
 Take Action
 
-Get the Latest on Hurrican Sandy…Storm Track…Impact Projections…Last Chances to Prepare…
+Northeast Braces for Sandy…Partial NYC Evacuations Ordered…Prediction: 10 Million Could Lose Power
 
 About TheBlaze
 
@@ -254,8 +254,8 @@ What is this? Sections
 
 Hot Topics
 
+*   Hurricane Sandy
 *   Libya: The Truth?
-*   China
 *   Campaign 2012
 
 More from TheBlaze
