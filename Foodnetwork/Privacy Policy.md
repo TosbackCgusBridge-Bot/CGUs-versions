@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Nigella Kitchen UP NEXT › Nigella Kitchen
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Fresh Food Fast... UP NEXT › Barefoot Contes...
 
 *   Channel  
     Guide
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   @laythetable yep! Isn't that the best way to eat chocolate spread anyway? Or is that just us?
+*   @laythetable ouch! We feel your pain!
+*   We're channel 48 @FreeviewTV RT @shloobi: @FoodNetwork\_UK I can't watch your channel on freeview =( has something changed with the channel?
+*   How did the red velvet cupcakes turn out @erinnypops @hannahcottrell?
+*   Love it RT @mayernissim: Amazing chilli chocolate cake baked by the gorgeous @reasons4silence t.co/qcbgmAHH with help @FoodNetwork\_UK
+*   Been watching the new series of Andy Bates American Street Feasts? Want the recipes? You got 'em! t.co/2pyiEb8U
+*   39 smashing pumpkin recipes t.co/DWIJ45uR #halloween
 *   Recipe of the Day: Wild Alaska Salmon and Tomato Halloween Pumpkin Tart t.co/XNkidmPT
 *   Catch up with @GeorgeLambShow hosting World Class: Bartender of the Year from beautiful Rio de Janeiro: t.co/t9TRwUwA
 *   Whether you're watching X Factor, Strictly or celebrating Halloween, we've got the perfect TV dinner for tonight t.co/Eml6nurI
-*   Throwing a #Halloween party but need some food inspiration? Don't panic! We've got 60 howlin' Halloween recipes for you t.co/iDs2vWh3
-*   Recipe of the Day: Wicked Cupcakes t.co/LBPdEx68
-*   20 exhilaratingly-gruesome potions perfect for #Halloween t.co/6Tg9XxH9
-*   @eatmypies @avocetfoodie @sweettvtweets @jaspiek @nicolescriabin >>. awww shucks, thanks Andy!
-*   Thanks for all your brilliant #fishsongfriday suggestions. In the mood for a fish dish? Check them out: t.co/mm9StEom
-*   RT @dangerouswilson: @FoodNetwork\_UK Get trout of my dreams, get into my car #fishsongfriday
-*   RT @madebythechef: @FoodNetwork\_UK: think mine must have slipped through the net! Must Be Witch Craft (yes witch is a fish) #fishsongfriday
 
 Follow Us
 
