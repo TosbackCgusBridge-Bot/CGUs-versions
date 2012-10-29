@@ -143,6 +143,11 @@ Naples Daily News
 *   Cars
 *   Classified
 
+*   Trail of Betrayal
+    
+    Part 2 of 3: Investigation of Boy Scouts' records reveals systemic failures
+    
+
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -435,25 +440,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 88 comments
-*   Lines are long at early voting as expected, long ballot has election officials urging 'patience' Updated 10/27/2012 at 1:03 p.m. 94 comments
-*   Collier deputy stripped of law enforcement credentials after two fatal wrecks Published 10/26/2012 at 5:58 p.m. 77 comments
-*   Marco mom faces DUI charge after crash in school parking lot Published 10/26/2012 at 8:30 p.m. 30 comments
-*   Obama, Romney have eyes on Sandy - and Florida - as campaign hits final 10 days Published 10/27/2012 at 1:01 p.m. 51 comments
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 254 comments
+*   Romney tells Florida crowd: Chant for Obama should be '10 more days' Published 10/27/2012 at 9:40 p.m. 82 comments
+*   Lee sees voter registration spike. Collier experiences biggest drop in state Published 10/28/2012 at 5:30 a.m. 4 comments
+*   Megastorm could wreak havoc across 800 miles of U.S. Published 10/28/2012 at 8:15 a.m. 29 comments
+*   Little-known Florida U.S. Senate hopefuls push Israeli statehood, 'someone new' Published 10/28/2012 at 8:00 a.m. 1 comment
 
-Photo Galleries Naples Stone Crab Festival 2012 Strut Your Mutt 2012 NNFD Halloween Costume Party 2012
+Photo Galleries Lipdub films video in downtown Naples Naples Stone Crab Festival 2012 NNFD Halloween Costume Party 2012
 
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 254 comments
 *   Poll: Romney erases Obama lead among women Published 10/25/2012 at 6:49 a.m. 223 comments
-*   Lines are long at early voting as expected, long ballot has election officials urging 'patience' Published 10/27/2012 at 3:10 a.m. 94 comments
-*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 88 comments
-*   Collier deputy stripped of law enforcement credentials after two fatal wrecks Published 10/26/2012 at 5:58 p.m. 77 comments
-*   Donald Trump offers $5 million if Obama releases personal records Published 10/24/2012 at 1:04 p.m. 181 comments
+*   Lines are long at early voting as expected, long ballot has election officials urging 'patience' Published 10/27/2012 at 3:10 a.m. 103 comments
+*   Collier deputy stripped of law enforcement credentials after two fatal wrecks Published 10/26/2012 at 5:58 p.m. 85 comments
+*   Romney tells Florida crowd: Chant for Obama should be '10 more days' Published 10/27/2012 at 9:40 p.m. 82 comments
 
-*   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 54 comments
 *   Venice diocese removes once-popular priest in Bonita Springs from priesthood Published 10/24/2012 at 5:10 a.m. 38 comments
 *   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 67 comments
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 254 comments
+*   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 54 comments
 *   In the Know: Seconds, anyone? Even more area restaurants planning to open soon Published 10/24/2012 at 5:00 a.m. 17 comments
-*   Worsening red tide brings dead fish onto Naples-area beaches Published 10/20/2012 at 7:00 a.m. 19 comments
 
 Weather
 
@@ -461,40 +466,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 77° Overcast and Breezy Wind: W 21mph Today 80° 62° Sun 11:00 PM Clear Temp: 70° Mon 11:00 AM Sunny Temp: 70° Mon 11:00 PM Clear Temp: 63°
+Currently 64° Overcast Wind: N 5mph Today 70° 61° Mon 08:00 PM Mostly Clear Temp: 67° Tue 08:00 AM Mostly Sunny Temp: 60° Tue 08:00 PM Mostly Clear Temp: 67°
 
-Feels Like: 70°
+Feels Like: 67°
 
-Humidity: 61%
-
-Precip: 1%
-
-Feels Like: 70°
-
-Humidity: 51%
+Humidity: 50%
 
 Precip: 0%
 
-Feels Like: 63°
+Feels Like: 60°
 
-Humidity: 58%
+Humidity: 60%
 
-Precip: 0%
+Precip: 5%
+
+Feels Like: 67°
+
+Humidity: 54%
+
+Precip: 5%
 
 More Weather » Calendar
 
-*   Sunday Oct 28
 *   Monday Oct 29
 *   Tuesday Oct 30
+*   Wednesday Oct 31
 *   More BROWSE Icon
-
-*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Laughter Yoga Bija Yoga 9 a.m.
-*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
-*   Southwest Florida Yard and Garden Show Collier County University Extension Education Center 9 a.m.
-
-More Events »
 
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
@@ -509,6 +506,14 @@ More Events »
 *   Pumpkin Patch North Naples United Methodist Church 9 a.m.
 *   Pre-Election Playbook Global Wealth Consultants - 8955 Fontana Del Sol Way 9 a.m.
 *   Barrier Islands Guided Walk Bowditch Point Recreational Park 9:30 a.m.
+
+More Events »
+
+*   Howl-o-Ween Spooktacular 3rd Anniversary Celebration Camp Bow Wow 7 a.m.
+*   Women Business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
+*   Women business education series FGCU Margaret S. Sugden Welcome Center 8 a.m.
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Yoga at the Center for the Arts Center for the Arts of Bonita Springs 8 a.m.
 
 More Events »
 
