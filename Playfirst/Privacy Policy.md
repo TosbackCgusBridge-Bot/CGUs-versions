@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (23.6 MB) Top Mac Downloads 1 Cooking Dash 2 Diner Dash 3 Diner Dash 2 Restaurant Rescue 4 Wedding Dash 5 SpongeBob SquarePants Diner Dash 6 Diner Dash Flo on the Go 7 Hotel Dash: Suite Success 8 Dairy Dash 9 Wedding Dash 4 - Ever 10 Hotel Dash 2: Lost Luxuries » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (9.1 MB) Top Mac Downloads 1 Cooking Dash 2 Diner Dash 3 Diner Dash 2 Restaurant Rescue 4 Wedding Dash 5 SpongeBob SquarePants Diner Dash 6 Diner Dash Flo on the Go 7 Hotel Dash: Suite Success 8 Dairy Dash 9 Hotel Dash 2: Lost Luxuries 10 Wedding Dash 4 - Ever » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -239,9 +239,9 @@ You're Leaving PlayFirst.com
 You're about to leave PlayFirst.com. The next page will open in a new tab or new window.
 
 Cancel Continue  
+Promotion  
 Download Mac game to PC? This is a Mac file. it won't install on a PC. Please continue if you plan to save this file and install it elsewhere. Or, cancel to go back and choose another format.  
   
-Promotion  
 Preparing to Download... I'm New Here I Have an Account Loading...  
 Download PC game to Mac? This is a PC file. it won't install on a Mac. Please continue if you plan to save this file and install it elsewhere. Or, cancel to go back and choose another format.  
   
@@ -277,15 +277,15 @@ Flo's going into the hotel business!
 
 Play 'til the cows come home!
 
-**Play Free!** (16.7 MB) Try It Wedding Dash 4 - Ever DASH™ &. Time Mgmt Games
-
-Tackle more wedding mania than ever before!
-
-**Play Free!** (32.2 MB) Try It Hotel Dash 2: Lost Luxuries DASH™ &. Time Mgmt Games
+**Play Free!** (16.7 MB) Try It Hotel Dash 2: Lost Luxuries DASH™ &. Time Mgmt Games
 
 Check in 2 adventure!
 
-**Play Free!** (70.5 MB) Try It Log In New to PlayFirst?
+**Play Free!** (70.5 MB) Try It Wedding Dash 4 - Ever DASH™ &. Time Mgmt Games
+
+Tackle more wedding mania than ever before!
+
+**Play Free!** (32.2 MB) Try It Log In New to PlayFirst?
 
 Sign up below to create a new PlayFirst account.
 
