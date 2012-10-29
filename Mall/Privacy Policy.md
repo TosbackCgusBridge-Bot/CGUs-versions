@@ -10,7 +10,7 @@ NEW RELEASES | TOP RATED | TOP DOWNLOADED | ALL APPS | ALL GAMES Privacy Policy
 
 **GIGA MARKET LTD.** is committed to protect the privacy of individuals who visit the website and who make use of the on-line facilities.
 
-This statement discloses the privacy practices that apply to the online collection of data collected on **www.mall.soc.io**, owned and operated by the Giga Market Ltd. , a company part of Seavus Group. You can find more information about the Seavus Group on **www.seavus.com** . Seavus is a member of the GeoTrustEurope program and is strongly committed to protecting your privacy online. GeoTrust provides e-business security that helps drive revenue, profitability and growth, while maintaining business continuity.
+This statement discloses the privacy practices that apply to the online collection of data collected on **www.mall.soc.io**, owned and operated by the Giga Market Ltd.
 
 **Acceptance**  
 Please read the following Privacy Policy to understand how your personal information will be treated as you take advantage of our offerings. Giga Market Ltd. may update this Privacy Policy periodically.  
