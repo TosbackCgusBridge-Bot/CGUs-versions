@@ -1,6 +1,6 @@
 iMuse Personalization Studio
 
-*   Gift Reminders
+*   Gift Services
 
 Store Locator
 
@@ -158,29 +158,29 @@ Store Locator
     
     *   Women's Jewelry Sale
     *   Sterling Silver Jewelry Sale
-    *   Women's Necklace Sale
-    *   Women's Bracelet Sale
+    *   Women's Necklaces Sale
+    *   Women's Bracelets Sale
     *   Women's Gifts &. Accessories Sale
     *   Men's Accessories Sale
-    *   Frames &. Albums Sale
-    *   Photo to Canvas Art Sale
+    *   Frames &. Albums on Sale
+    *   Photo to Canvas Sale
     *   Pens &. Pencils Sale
     *   Office Gifts Sale
     
     *   Drinkware Sale
     *   Special Offer Flasks
-    *   Home Gifts on Sale
+    *   Home Gifts Sale
     *   Water Globes Sale
     *   Wedding Gifts Sale
     *   Embroidered Gifts Sale
-    *   Ornaments on Sale
-    *   View All Sale
-    *   Clearance Sale
+    *   Seasonal Gifts on Sale
+    *   View All Gifts Sale
+    *   Clearance Gifts
     
 
 *   Special Offers
 *   Free Keepsake Box
-*   Exclusively Online Gifts
+*   Exclusive Online Gifts
 *   Free Shipping
 
 {"dragByHandle":true,"cssSelector":"ql-thumbnail","dragByBody":false,"widgetClass":"OverlayWidget","bindings":{"bind0":{"element":".ql-thumbnail .Quicklook .trigger","type":"quicklookselected","fn":"function(){$.fnProxy(arguments,\\'#headerOverlay\\',OverlayWidget.show,\\'OverlayWidget.show\\');}"}},"effectOnHide":"slide","effectOnShowOptions":"{}","closeOnBackgroundClick":true,"effectOnHideOptions":"{}","effectOnShowSpeed":"1200","onScreenPadding":10,"allowOffScreenOverlay":false,"effectOnHideSpeed":"1200","effectOnShow":"slide","captureClicks":true}
@@ -310,11 +310,10 @@ Need Help?
 
 Gift Services
 
-*   Personalization Options
+*   Personalization
 *   iMuse
 *   Gift Wrap
-*   Business Gifting &. Services
-*   Rewards Club
+*   Business Services
 *   Gift Reminders
 *   Good Things
 
