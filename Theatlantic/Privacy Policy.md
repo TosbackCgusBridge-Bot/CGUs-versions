@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Sunday, October 28, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Monday, October 29, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -113,13 +113,13 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Just In Andy Heil 9:07 AM ET The Aquarium Politics of the Global Beluga-Whale Trade 1351429661 Voices
+Just In Lindsay Abrams 8:09 AM ET Study: Women Who Quit Smoking by Age 40 Avoid 90% of Death Risk 1351512561 Voices
 
+*   Garance Franke-Ruta Mitt Romney in 2011: 'We Cannot Afford' Federal… 1:15 AM ET
+*   Alexis C. Madrigal The Article That Predicted the New York Subway… Oct 28, 2012
 *   Robert Wright Will Undecided Voters Break Toward Romney? Oct 27, 2012
 *   James Fallows RIP TSWI Oct 27, 2012
 *   Steve Clemons GOP Presidents Have Been the Worst Contributors… Oct 27, 2012
-*   Garance Franke-Ruta Richard Mourdock, Mitt Romney and the GOP Defense… Oct 26, 2012
-*   Alexis C. Madrigal Could Gangnam Style Be the First Video to 1… Oct 26, 2012
 *   Ta-Nehisi Coates Twilight Of The Elites At MIT Oct 26, 2012
 *   Clive Crook Obama's Mistakes and the Role of Race Oct 25, 2012
 *   Derek Thompson Apple's 'Disappointing' (but Still Pretty… Oct 25, 2012
@@ -161,63 +161,63 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   The New York Times Endorses Barack Obama  
+*   Live: Hurricane Sandy Gains Strength  
     
-*   Berlusconi Wants His Revenge  
+*   World Series Victory Brings Out Rioters in San Francisco  
     
-*   Texting Is Turning Us Into a Nation of Flakes  
+*   Meet the Middle Class British Man Who Will Soon Join China's First Family  
     
 
-Last Update: 5:57 PM
+Last Update: 6:48 AM
 
+*   Hurricane Sandy: 10 Million People Could Lose Power  
+    
 *   Please Bring This to America: Heated Bike Lanes  
     
-*   The World's Least Boring Gas Stations  
-    
-*   Hurricane Sandy: How Bad Is It Looking, Really?  
+*   Best #Cityreads of the Week  
     
 
-Last Update: 8:22 PM Most Popular
+Last Update: 5:10 AM Most Popular
 
 1
 
-General Failure
+Why Sandy Has Meteorologists Scared in 4 Images
 
 2
 
-Richard Mourdock, Mitt Romney and the GOP Defense of Coerced Mating
+Surmounting the Insurmountable: Wikipedia Is Nearing Completion, in a Sense
 
 3
 
-The Sex Lives of Conjoined Twins
+General Failure
 
 4
 
-Hacking the President’s DNA
+The Florida Voters Who Can't Forgive Obama
 
 5
 
-Is Big Brother the New Normal? The Supreme Court Will Decide
+The World Is Not Enough: Google and the Future of Augmented Reality
 
 6
 
-David Allen on How to Fix Your Life
+The Sex Lives of Conjoined Twins
 
 7
 
-Will Undecided Voters Break Toward Romney?
+Mitt Romney in 2011: 'We Cannot Afford' Federal Disaster Relief
 
 8
 
-The End of Jazz
+David Allen on How to Fix Your Life
 
 9
 
-Why I Refuse to Vote for Barack Obama
+Why Women Still Can’t Have It All
 
 10
 
-Surmounting the Insurmountable: Wikipedia Is Nearing Completion, in a Sense
+Prisoners of Cable
 
 *   Subscribe Help
 *   Faq
