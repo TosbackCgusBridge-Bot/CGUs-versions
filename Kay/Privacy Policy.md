@@ -63,7 +63,7 @@ Online chat is available:
 Mon-Fri 10:00 AM to 10:00 PM ET  
 Sat-Sun 12:00 PM to 9:00 PM ET
 
-Special Financing Available. Learn More. Browse Our Jewelry Featured Items Browse Our Designers and Collections    
+**Customers in those areas impacted by Hurricane Sandy may experience shipping delays.** Browse Our Jewelry Featured Items Browse Our Designers and Collections    
 
 SIGN UP FOR
 
