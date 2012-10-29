@@ -18,7 +18,7 @@ close x Search Catalog Search Catalog Navigation
             *   Outdoor Furnishings
             *   Christmas Stories
             *   Clearance
-            *   Special SavingsIt’s like a pumpkin patch, only with sparkles. Harvest decorations, ready to gather up and take home
+            *   Special SavingsOn the lookout for unique, handcrafted harvest decorations? Find everything you need for a colorful celebration here
         *   Dining &. Entertaining
             *   Dinnerware
             *   Drinkware
@@ -27,7 +27,7 @@ close x Search Catalog Search Catalog Navigation
             *   Table Linens
             *   Dining Furniture
             *   Clearance
-            *   Special SavingsSave on Teal Crackle Stemware. Here’s to a handcrafted collection that shines all year long
+            *   Special SavingsSave on our Luminous Porcelain Dinnerware. Get set for Thanksgiving with a true classic
         *   Home Decor &. Accents
             *   Accent Pieces
             *   Lighting
@@ -41,7 +41,7 @@ close x Search Catalog Search Catalog Navigation
             *   Curtains
             *   Bedding &. Throws
             *   Clearance
-            *   Special SavingsThe leaves are so pretty this time of year. New fall pillows that are just as showy as autumn colors
+            *   Special SavingsA rug is a rug is a rug. Unless. Discover select hand-tufted wool rugs now at rosy savings
         *   Furniture &. Living
             *   Upholstered Seating
             *   Papasan &. Wicker
@@ -51,14 +51,14 @@ close x Search Catalog Search Catalog Navigation
             *   Storage &. Home Office
             *   Outdoor Furniture
             *   Clearance
-            *   Special SavingsOur wingback chair has really taken off. Save on the classic Annie Chair, now in new colors
+            *   Special SavingsThey’re a value on many different levels. Check out select tiered mosaic tables at special savings
         *   Candles &. Fragrance
             *   Candles
             *   Candleholders
             *   Reed Diffusers &. Fragrance
             *   Bath &. Body
             *   Clearance
-            *   Special SavingsSave on Ember, our October Fragrance of the Month. 20% off this warm blend of orange, spice and vanilla scents
+            *   Special SavingsWith notes of coconut and ginger, this blend is not plain at all. Save 20% on all Vanilla Creme candles &. home fragrance
         *   Gifts &. Occasions
             *   Gifts for Her
             *   Gifts for Him
@@ -66,7 +66,7 @@ close x Search Catalog Search Catalog Navigation
             *   Cards &. Gift Wrap
             *   Special Occasions
             *   Clearance
-            *   Special SavingsA day without accessories? Scary. Keep an eye out for our hand-painted Halloween jewelry
+            *   Special SavingsLooking for hostess gift ideas? Be our guest. You’re invited to explore these easy, original, charming gifts
     *   Room
         *   Living Room &. Family Room Here’s where it gets fun. Click on a photo to see our favorites by room.
         *   Kitchen &. Dining Room Here’s where it gets fun. Click on a photo to see our favorites by room.
