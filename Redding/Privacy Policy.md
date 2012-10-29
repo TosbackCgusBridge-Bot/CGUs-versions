@@ -174,7 +174,7 @@ Record Searchlight
 *   Cars
 *   Classified
 
-*   Part 1 of 3: Exclusive look into Boy Scouts confidential files.
+*   Part 2 of 3: Systematic failures within the Boy Scouts of America.
     
 
 Privacy Policy Redding.com Privacy Policy
@@ -270,25 +270,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   AP poll: Majority harbor prejudice against blacks Published 10/27/2012 at 11:15 a.m. 149 comments
-*   Alex Landi: Obama creates own 'October surprise' Published 10/27/2012 at 12:00 a.m. 129 comments
-*   Missing boy, 11, found walking on Interstate 5 Published 10/27/2012 at 3:30 p.m. 5 comments
-*   UPDATED: Parolee allegedly kidnaps two people, leads deputies on chase Updated 10/27/2012 at 10:21 a.m. 50 comments
-*   Editorial: Glib state of denial is wrong answer on climate change Published 10/27/2012 at 12:00 a.m. 90 comments
+*   UPDATED: Man shot dead in Shasta Lake. victim's friend brought on shooting by homeowner, det. says Updated 10/28/2012 at 2:54 p.m. 72 comments
+*   Car flips in Happy Valley hit-and-run crash Published 10/28/2012 at 11:07 a.m. 12 comments
+*   Anderson man found after looting truck at boat ramp, police say Published 10/28/2012 at 11:15 p.m. 22 comments
+*   Champion driver from Redding killed in Calistoga race Published 10/28/2012 at 11:30 p.m. 12 comments
+*   Dagg leads effort to build affordable housing Published 10/27/2012 at 10:08 p.m. 34 comments
 
 Photo Galleries Enterprise wins the River Bowl AAUW Tour Pierson home From the Hearth Cafe drive-thru
 
-*   Charles Krauthammer: Obama stoops, doesn't conquer Published 10/26/2012 at 12:00 a.m. 166 comments
-*   AP poll: Majority harbor prejudice against blacks Published 10/27/2012 at 11:15 a.m. 149 comments
-*   Alex Landi: Obama creates own 'October surprise' Published 10/27/2012 at 12:00 a.m. 129 comments
-*   Editorial: Glib state of denial is wrong answer on climate change Published 10/27/2012 at 12:00 a.m. 90 comments
-*   UPDATED: Shasta County's motion for preliminary injunction against Anselmo denied Published 10/25/2012 at 12:22 p.m. 78 comments
+*   AP poll: Majority harbor prejudice against blacks Published 10/27/2012 at 11:15 a.m. 163 comments
+*   Charles Krauthammer: Obama stoops, doesn't conquer Published 10/26/2012 at 12:00 a.m. 163 comments
+*   Alex Landi: Obama creates own 'October surprise' Published 10/27/2012 at 12:00 a.m. 154 comments
+*   Editorial: Glib state of denial is wrong answer on climate change Published 10/27/2012 at 12:00 a.m. 91 comments
+*   UPDATED: Man shot dead in Shasta Lake. victim's friend brought on shooting by homeowner, det. says Published 10/28/2012 at 12:00 a.m. 72 comments
 
 *   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 23 comments
-*   UPDATED: Montague woman, 30, killed by husband, deputies say Published 10/18/2012 at 4:13 p.m. 16 comments
 *   Tehama fair devotes day to goat education Published 10/21/2012 at 11:30 p.m. 8 comments
-*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 115 comments
+*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 113 comments
 *   Utah man found with more than 100 lbs. of pot in Trinity County, deputies say Published 10/22/2012 at 5:43 p.m. 41 comments
+*   Shop's owner invites staff to experience hearing problems for a day Published 10/22/2012 at 11:36 p.m. 13 comments
 
 Weather
 
@@ -296,25 +296,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 51° Fair Wind: S 4mph Today 81° 51° Sun 08:00 PM Partly Cloudy Temp: 66° Mon 08:00 AM Partly Sunny Temp: 52° Mon 08:00 PM Mostly Clear Temp: 64°
+Currently 53° Fair Wind: Calm Today 77° 52° Mon 05:00 PM Mostly Cloudy Temp: 76° Tue 05:00 AM Mostly Clear Temp: 52° Tue 05:00 PM Mostly Cloudy Temp: 75°
 
-Feels Like: 66°
+Feels Like: 76°
 
-Humidity: 56%
-
-Precip: 3%
-
-Feels Like: 52°
-
-Humidity: 77%
+Humidity: 39%
 
 Precip: 1%
 
-Feels Like: 64°
+Feels Like: 52°
 
-Humidity: 58%
+Humidity: 83%
 
-Precip: 5%
+Precip: 4%
+
+Feels Like: 75°
+
+Humidity: 39%
+
+Precip: 4%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -330,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Sunday Oct 28
 *   Monday Oct 29
 *   Tuesday Oct 30
+*   Wednesday Oct 31
 *   More BROWSE Icon
-
-*   Ride On Race Series Contact for Location Information 11 a.m.
-*   Spiritual Discussion Contact for Location Information 11:30 a.m.
-*   Shasta Symphony Orchestra Redding's 125th Anniversary Concert Shasta College Theater 3 p.m.
-*   Third annual Historic Parkville Cemetery Tour See Description 7 p.m.
-*   Jefferson State Blues Society Jam Eddy's 5 p.m.
-
-More Events »
 
 *   Free classes for seniors Senior Citizens Hall
 *   Zumba Classes Teen Center 6 p.m.
@@ -356,6 +348,14 @@ More Events »
 *   Informational Small Business Meeting in Shasta Lake John Beaudet Community Center 6 p.m.
 *   Suicide Loss Support Group St James Church 7 p.m.
 *   South Shasta Seniors dancing Frontier Senior Center 7:30 p.m.
+
+More Events »
+
+*   Risen King Community Church Harvest Carnival Mistletoe Elementary School 4:30 p.m.
+*   Halloween Historical Walk of Redding Cemetery See Description 5 p.m.
+*   Cow Creek Community Church Fall Festival Cow Creek Community Church 6 p.m.
+*   Central Valley Assembly of God Fall Festival Central Valley Assembly of God 6 p.m.
+*   Crosspointe Community Church Fall Festival See Description 6 p.m.
 
 More Events »
 
