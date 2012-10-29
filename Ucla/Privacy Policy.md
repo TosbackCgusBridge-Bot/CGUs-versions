@@ -2,7 +2,7 @@
 *   Skip to Search
 *   Skip to Main Content
 
-60° and Sunny
+57° and Sunny
 
 *   Prospective Students
 *   Current Students
