@@ -1,71 +1,78 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: How to create a fake identity and stay anonymous online
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: 17 abandon stricken ship off N.C. coast
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports Eagles all in on Vick?
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Jack Dempsey / AP Broncos about get really hot
     
-    PFT Live: Mike Florio previews the Falcons-Eagles matchup and wonders which Michael Vick we'll see as both teams come off their bye weeks.
+    PFT: As Sunday's win against Saints showed, Peyton Manning can make Denver dynamic. And given its upcoming schedule, the rest of the league will find out as much.
     
-    PFT: Lynyrd Skynyrd wants Tebow in Jacksonville PFT: Hurricane Sandy will make a mess for NFL PFT: Rob Ryan says Giants dissed his 'Boys PFT: Peyton says game harder after neck surgeries PFT: Kraft tells UK fans they need a NFL team PFT: Taylor prevails in civil sexual assault case Kacsmar: Just what is going on with the AFC? CSN: Rodgers-Cromartie defends fired Castillo Ad
+    Broncos beat down Saints   |  Highlights Dungy wonders if the Saints can rebound Giants nearly blow it vs. 'Boys   |  Coughlin mad Bears rally past Panthers   |  Cam takes blame Falcons crush Eagles   |  Vick's days numbered? King: Benching Vick not the answer PFT: Dolphins wallop Jets  |  Rex backs Sanchez PFT: Tannehill has knee, quad contusions Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Ezra Shaw / Getty Images Giants blank Tigers again
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Mike Cassese / Reuters How sweep it is!
     
-    Shift to Detroit doesn't make a difference as S.F. takes 3-0 series lead with 2-0 victory in Game 3 on Saturday night.
+    After surviving deficits in first two playoff series, S.F. sweeps Detroit to capture second World Series in three years.
     
-    DeMarco: Giants beating Tigers at own game HBT: Can Cain close out another series for Giants? CSN: Sandoval etches name in Giants lore Ex-ace Lincecum gives Giants stellar relief CSN: Lincecum just wants to win in any role Tigers shut out again after Cabrera's costly popup HBT: Fielder falters for flailing Tigers HBT: Go with Verlander in Game 4? No way Ad
+    CSN: Giants platinum standard of modern baseball HBT: Sandoval powers way to World Series MVP CSN: Sandoval's Game 1 gave Giants needed lift DeMarco: Giants prove pitching and defense wins HBT: Homegrown Giants pitching was unbeatable CSN video: Fitting that Scutaro drove in Theriot Thousands gather at City Hall to celebrate Giants CSN: Tigers tip their caps to Giants Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Paul Sancya / AP No games in November
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Justin K. Aller / Getty Images Goalies Fleury, Miller eye Europe
     
-    PHT: A total of 326 regular-season games — about a quarter of the season — have now been abandoned after the NHL canceled all games through November because of the lockout.
+    PHT: As the lockout trudges onward, a pair of all-star goalies are now considering leaving North America to get work in Europe.
     
-    PHT: NHL 'deeply regrets' scrapping more games PHT: Fehr says cancellations 'deeply disappointing' PHT: Jagr says lockout 'sad for me and Teemu' PHT: Lamoriello solution? 'Lock them in a room' Costas Tonight: Roenick on NHL lockout PHT: Yakupov shows goal-scoring touch in KHL CSN: 12,000 see 16-15 NHLers' charity game Lockout puts sales for small businesses on ice Ad
+    PHT: Johnson rips owners on Jackets' website PHT: NHL cancels games through November PHT: NHL 'deeply regrets' scrapping more games PHT: Fehr says cancellations 'deeply disappointing' PHT: Jagr says lockout 'sad for me and Teemu' PHT: Lamoriello solution? 'Lock them in a room' Costas Tonight: Roenick on NHL lockout PHT: Yakupov shows goal-scoring touch in KHL Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Sue Ogrocki / AP Thunder likely give up title hopes
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Garrett Ellwood / Getty Images Contributor Rockets can build contender now
     
-    PBT: It was a mistake for OKC to trade their Sixth Man of the Year and best playmaker, James Harden, to Houston. Here's why: When you’re a title contender, you go all in to win now.
+    PBT: The Rockets know you need an elite player to win in this league. They now have James Harden.
     
-    PBT: Wow! Thunder trade Harden to Rockets CSN: Rockets 'very excited' after landing Harden LeBron says ankle sore — but he's fine PBT: Best role players on contenders PBT: Nash a good fit for the Lakers? PBT: Can Kobe cope with not getting touches? SportsTalk: NBA thriving under Stern? PBT: Stern was all business with the NBA Ad
-*   NCAA FB
+    PBT: Harden says he'll sign extension with Houston PBT: Thunder's big mistake was extending Perkins PBT: Thunder give up title hopes with Harden deal PBT: Thunder, Maynor end talks. he'll be free agent PBT: Beasley adjusting to green light in Phoenix PBT: Denver's contract talks with Lawson slowing PBT: LeBron's impressed with Anthony Davis LeBron says ankle sore — but he's fine Ad
+*   CFB
     SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Peter G. Aiken / Getty Images Contributor Top teams could run table
     
     CFT's Fifth Quarter: No. 1 'Bama, No. 2 Oregon, No. 4 K-State and No. 5 Notre Dame all held serve in impressive fashion — and after looking at each team's remaining schedule, it's not unthinkable that all four could finish unbeaten.
     
-    CFT: Winning ugly over No. 3 UF just fine for UGa. Notre Dame Central: No. 5 Irish KO No. 8 OU 'Bama rolls past No. 13 Miss. St.  | Vote: Still No. 1? CFT: No. 4 K-State, Klein take care of Texas Tech First loss: No. 7 Oregon St.   |  Rutgers  |  Ohio Arizona stuns No. 10 USC   |  Lee's big day wasted No. 2 Oregon crushes CU, gears up for USC CFT: No. 9 OSU cools off PSU in 'Banned Bowl' Ad
+    Notre Dame Central: No. 5 Irish KO No. 8 OU CFT: 'Bama, K-State, ND 1-2-3 in latest BCS CFT: 'Bama unanimous No. 1 in AP, coaches' Heisman Hopefuls: Who will take the top prize? CFT: Gamecocks' Lattimore dislocates knee CFT: Maryland loses 4th QB — will use LB No. 3 Kansas State hoping perfection is enough Defense steps up as No. 6 Ohio St finishes strong Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Adnan Abidi / Reuters Vettel wins India GP, extends lead
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Streeter Lecka / Getty Images Johnson wins, takes points lead
     
-    Sebastian Vettel's seemingly unstoppable march to a third straight Formula One title took another stride Sunday.
+    Jimmie Johnson held off Kyle Busch on a restart with five laps to go Sunday and won for the seventh time in his career at Martinsville Speedway.
     
-    Vettel dispels rumors of change to Ferrari McLaren twin achievements at Indian GP Earnhardt talks of anxiety caused by concussions Keselowski insists he's not feeling title heat Johnson wins pole. Keselowski to start 32nd Knaus salvages Kansas to keep Johnson in hunt Martin-Vickers-Waltrip team up again in 2013 Regan Smith to race Nationwide for JR Motorsports Ad
-*   NCAA BK
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Gregory Shamus / Getty Images Top 10 dunkers to watch this season
+    Randy Bernard steps down as IndyCar CEO Vettel wins F1 India GP, extends title lead Vettel dispels rumors of change to Ferrari McLaren twin achievements at Indian GP Earnhardt talks of anxiety caused by concussions Keselowski insists he's not feeling title heat Knaus salvages Kansas to keep Johnson in hunt Martin-Vickers-Waltrip team up again in 2013 Ad
+*   BKC
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Nam Y. Huh / AP Groce era at Illinois begins well
     
-    CBT: A list of the select few who will emerge this 2012-2013 season to offer some spectacular performances.
+    CBT: John Groce’s tenure at Illinois officially got underway Saturday night with a 79-47 exhibition victory over Lewis at Assembly Hall in Champaign, Ill.
     
-    CBT: Indiana No. 1 team in AP preseason poll Baylor No. 1 in women's basketball poll UCLA's new Pauley Pavilion ready for its close-up Kansas' Young breaks hand, out 2 weeks CBT: Mizzou suspends guards Dixon, Bull indefinitely CBT: Kansas best in Big 12 yet again Minnesota's Saul Smith will keep job. return soon DePaul's Marrero to miss season with torn ACL Ad
+    CBT: Indiana No. 1 team in AP preseason poll Baylor No. 1 in women's basketball poll Kansas' Young breaks hand, out 2 weeks CBT: Mizzou suspends guards Dixon, Bull indefinitely CBT: Kansas best in Big 12 yet again Minnesota's Saul Smith will keep job. return soon DePaul's Marrero to miss season with torn ACL CBT's Top 25 countdown: Ohio State No. 7 Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Watney fires red-hot 61, wins CIMB
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Rory clips Tiger by a shot in Duel at Jinsha Lake
     
-    Fans in the U.S. watched Nick Watney post a near-flawless 10-under 61 late Saturday night at the CIMB for his second win this year.
+    The real winner in the Duel at Jinsha Lake was not Rory McIlroy. It was the golf fan, after three hours of uncensored commentary.
     
-    Watney fires red-hot 61, wins CIMB Woods didn't lose CIMB Sunday, he got beat Tiger Tracker: CIMB Classic LPGA Player of the Year race tightens Mahan plans to use Ryder Cup snub as motivator McIlroy mum on rumored new equipment deal PGA Tour Q-School first stage sites and scoring Tip of the Week: Sequence your backswing correctly Ad
+    Rory clips Tiger by a shot in Duel at Jinsha Lake Watney fires red-hot 61, wins CIMB Woods didn't lose CIMB Sunday, he got beat Tracker: No. 1 vs. No. 2 showdown in China What We Learned: CIMB Classic Augusta National files plans to renovate clubhouse LPGA Player of the Year race tightens Report: Anchoring ban to be discussed at HSBC PGA Tour Q-School first-stage sites and scoring Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams MLS standings MLS statistics Transfers Matchups Soccer Tickets Headlines Steve Dykes / Getty Images Wondolowski ties MLS goal record
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Ian Kington / AFP - Getty Images A new home for Premier League
     
-    PST: It's no fluke that Chris Wondolowski scored his 27th goal to tie a MLS single-season mark as San Jose tied Portland 1-1 on Saturday.
+    PST: NBCUniversal's multi-year deal will give world's preeminent soccer league "best-in-class content" starting with 2013-14 season, showing games on NBC, NBC Sports Network and streaming on NBCSports.com.
     
-    Highlights: Watch Wondolowski make history Wondolowski honored to tie record Highlights: United ties Fire, earns No. 2 seed PST: Red Bulls throttle Union Highlights: Red Bulls breeze past Union CSN: Embarrassing ending to Union's season Saturday's MLS roundup Messi hits 2 as Barcelona wins 5-0 at Rayo Ad
+    PST: Massive news for US soccer fans United wins at Chelsea in EPL after 10-year wait PST: How refs hurt Man U-Chelsea game Galaxy hurt Sounders' playoff position PST: Wondo ties MLS goal record, and no asterisk! Highlights: Watch Wondolowski make history Wondolowski honored to tie record Highlights: United ties Fire, earns No. 2 seed Ad
+*   Horses
+    SectionsOverview Latest Derby news Watch live racing Results Entries Latest videos Free racing game  
+    Headlines Adam Coglianese / AP What's up for Breeders' Cup?
+    
+    Jon Siegel and Joel Cunningham take a first look at the 180 pre-entries for next week's 15 Breeders' Cup championship races and discuss expectations, storylines and contenders in the biggest races.
+    
+    Early Breeders' Cup preview Game On Dude continues to impress for Classic Gomez hopes for another Breeders' grand slam Rockin Amadeus races to upset win at Woodnine Dullahan drills on dirt, but Classic decision awaits Willcox Inn, juvenile duo post moves at Keeneland Sum of the Parts, Global Power breeze for Amoss Amazombie does final big drill for Sprint defense Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Samuel Kubani / AFP - Getty Images Vonn escapes injury in Cup opener
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Michel Cottin/Agence Zoom / Getty Images Ligety wins World Cup opener
     
-    Tina Maze of Slovenia won the season-opening women's World Cup giant slalom on Saturday.
+    Ted Ligety took the season-opening men's World Cup giant slalom on Sunday by the biggest winning margin since 1979.
     
-    OlympicTalk: Vonn's bid to race men 'doesn't look good' Spain's Javier Fernandez wins Skate Canada Up-and-comer wins women's event at Skate Canada 4-time world champs grab attention at Skate Canada Clukey hangs on to win USA Luge national title London Games boss Coe feared terrorist attacks OlympicTalk: Lolo now on a different track Austrian skier Sieber, 23, dies in car crash Ad
+    Highlights: Ligety wins World Cup opener FIS set to discuss Vonn's wish to race against men Slovenia's Maze wins season-opening WCup GS Canadians dominate in World Cup short-track event Spain's Javier Fernandez wins Skate Canada Clukey hangs on to win USA Luge national title London Games boss Coe feared terrorist attacks OlympicTalk: Lolo now on a different track Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Tennis Action sports Fight Night Tickets Headlines J. Meric / Getty Images Sporting world is frightful
+    SectionsOther sports Off the Bench Cycling Outdoors Tennis Action sports Fight Night Tickets Headlines J. Meric / Getty Images Sporting world is frightful
     
     Castrodale: From Cam Newton's sweaters to Michigan State's helmets to rumors about A-Rod, it's scary out there.
     
-    Why leave Tour de France titles vacant? UCI: Tour winner list stays blank in Armstrong era Williams and Sharapova to contest WTA final TCI: Breeders' Cup pre-entries breakdown Game On Dude back in Breeders' Cup Classic Summerville's McKissick earns win No. 600 One mom's defense of youth football Off the Bench: Soccer game halted by tornado Ad
+    Serena Williams beats Sharapova to win WTA Champs Del Potro beats Federer to win Swiss Indoors title WWE announcer Lilian Garcia hit by car Why leave Tour de France titles vacant? UCI: Tour winner list stays blank in Armstrong era TCI: Breeders' Cup pre-entries breakdown Summerville's McKissick earns win No. 600 One mom's defense of youth football Ad
 
 *   Scores
 *   Odds
@@ -184,11 +191,11 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com World Series: Complete coverage from CSNBayArea.com  
-PFT's Picks: Broncos to beat up on Saints  
-CFT's Fifth Quarter: Top teams could run the table  
-PBT: Thunder makes major mistake trading Harden  
+Tweet Also on NBCSports.com World Series: Giants sweep Tigers  |  HBT: Pitching rules  
+PFT: Broncos about to hit hot streak  |  Crush Saints  
+PBT: Rockets can build around Harden  |  And the Thunder?  
+PST: English soccer has new broadcast home  |  Massive  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
-AdChoices SportsNFL College football MLB NBA NHL College basketball NASCAR/Motors Golf Tennis Soccer Other Sports Quick linksScores RSS Feeds Tickets TV Listings Fantasy Games Universal Sports NBC Sports Feedback Go Mobile Shop NBC TV Listings **Day** **Time** **Event** **Location** **Talent** **Saturday, Oct. 27** 1:30 - 4 p.m. MLS: New York at Philadelphia Philadelphia Arlo White, Kyle Martino, Russ Thaler 4 - 6 p.m. Ironman World Championships Kona, Hawaii Al Trautwig **Sunday, Oct. 28** 2 - 4 p.m. ISU Grand Prix Figure Skating Windsor, Ontario, Canada Terry Gannon, MIchael Weiss, Tara Lipinski 4 - 6 p.m. Professional Bull Riding Finals Las Vegas Criag Hummer, Ty Murray, JW Hart, Justin McBride, Leah Garcia, Marty Snider 7 - 8:20 p.m. Football Night in America New York Bob Costas, Dan Patrick, Tony Dungy, Rodney Harrison, Peter King, Alex Flanagan, Mike Florio, Hines Ward 8:20 - Conclusion Sunday Night Football: Saints at Broncos Denver Al Michaels, Cris Collinsworth, Michele Tafoya Note: All times ET
+AdChoices SportsNFL College football MLB NBA NHL College basketball NASCAR/Motors Golf Tennis Soccer Other Sports Quick linksScores RSS Feeds Tickets TV Listings Fantasy Games Universal Sports NBC Sports Feedback Go Mobile Shop NBC TV Listings **Day** **Time** **Event** **Location** **Talent** **Saturday, Nov. 3** 2:30 - 3:30 p.m. Sports Illustrated N/A N/A 3:30 - 7 p.m. Pittsburgh at Notre Dame South Bend, Ind. Dan Hicks, Mike Mayock, Alex Flanagan 8 - 9 p.m. Breeder's Cup Santa Anita, Calif. Tom Hammond, Gary Stevens, Randy Moss, Mike Battaglia, Kenny Rice, Bob Neuemeier, Donna Brothers, Larry Collmus, Carolyn Manno **Sunday, Nov. 4** 2:30 - 3:30 p.m. World of Adventure Sports TBA Todd Harris 3:30 - 6 p.m. MLS: Conference Semifinals TBD Arlo White, Kyle Martino, Russ Thaler 7 - 8:20 p.m. Football Night in America New York Bob Costas, Dan Patrick, Tony Dungy, Rodney Harrison, Peter King, Alex Flanagan, Mike Florio, Hines Ward 8:20 - Conclusion Sunday Night Football: Cowboys at Falcons Atlanta Al Michaels, Cris Collinsworth, Michele Tafoya Note: All times ET
