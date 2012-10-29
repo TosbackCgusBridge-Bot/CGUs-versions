@@ -1,4 +1,4 @@
-*   Sunday, October 28, 2012
+*   Monday, October 29, 2012
 *   NYDailyNews.com / Privacy Policy
 
 *   Jobs
@@ -48,9 +48,9 @@ Daily News
     Place An Ad
     
 
-BREAKING NEWS:
+HURRICANE SANDY
 
-Gov. Cuomo: MTA will suspend all subway, bus and rail service in NYC starting at 7 p.m.
+Get the latest updates, information and alerts with our live storm coverage
 
 x PRIVACY POLICY
 
