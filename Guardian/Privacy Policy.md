@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Music:** Paul McCartney: Yoko Ono did not break up the Beatles
-2.  2\. **Culture:** The 10 best scary paintings
-3.  3\. **News:** Saddam Hussein linked to Alps killings
-4.  4\. **Football:** Why Arsenal are becoming a speck in their rivals' wing-mirrors
-5.  5\. **Culture:** Bryan Cranston: 'I had to take my character from Mr Chips to Scarface'
+1.  1.  **Football:** Mark Clattenburg accused of racial slur during Chelsea v Manchester United
+2.  2\. **News:** Chinese protesters clash with police at chemical plant demonstration – video
+3.  3\. **News:** Millions on east coast brace for impact as Hurricane Sandy arrives
+4.  4\. **Music:** Paul McCartney: Yoko Ono did not break up the Beatles
+5.  5\. **Football:** Chelsea v Manchester United – five talking points
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Media:** Gary Glitter arrested in Jimmy Savile investigation
-2.  **Childrens' books:** How to Seize a Dragon's Jewel, by Cressida Cowell - review
-3.  **Media:** Jimmy Savile: celebrities frightened of being implicated, says Max Clifford – video
-4.  **Money:** Soaring cost of childcare 'stops parents seeking work'
-5.  **Media:** Jimmy Savile: BBC policy chief accused of misleading MPs
+1.  **News:** Millions on east coast brace for impact as Hurricane Sandy arrives
+2.  **Life &. style:** The hair trade's dirty secret
+3.  **Life &. style:** Berger &. Wyse
+4.  **News:** Chinese protesters clash with police at chemical plant demonstration – video
+5.  **Media:** Jimmy Savile: celebrities frightened of being implicated, says Max Clifford – video
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Hurricane Sandy heads toward New York and north-east US coast
-2.  2\. Everton v Liverpool - live!
-3.  3\. Talking Horses
-4.  4\. What have they done to my hajj? | Ajmal Masroor
-5.  5\. Sandy could be 'historic' storm but trajectory still uncertain, say experts
+1.  1.  Picture desk live: the best news pictures of the day
+2.  2\. Jack and Nancy by Quentin Blake - review
+3.  3\. Hurricane Sandy approaches east coast: live coverage
+4.  4\. Eyewitness: Aleppo, Syria
+5.  5\. Strictly Come Dancing scores X Factor double
 6.  All today's stories
 
 On the Guardian today
 
 1.  Life and style Mapping the body: the temple
-2.  Music Paul McCartney: Yoko Ono did not break up the Beatles
-3.  Environment UK solar companies take legal action against subsidies cuts
-4.  Television &. radio Bryan Cranston: 'I had to take my character from Mr Chips to Scarface'
-5.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-6.  Football Why Arsenal are becoming a speck in their rivals' wing-mirrors
+2.  World news Millions on east coast brace for impact as Hurricane Sandy arrives
+3.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+4.  Music Paul McCartney: Yoko Ono did not break up the Beatles
+5.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+6.  Football Chelsea v Manchester United – five talking points
 
 *   License/buy our content
 |*   Privacy policy
