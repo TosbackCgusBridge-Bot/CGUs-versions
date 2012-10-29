@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Marco Rubio’s daughter in car accident...**  
-        Election 2012 | Philip Rucker
+    *   **Ad watch: Romney takes on auto...**  
+        Election 2012 | Rachel Weiner
     
-    *   **Obama’s ‘Tonight Show’ remark:...**  
-        The Fact Checker | Josh Hicks
+    *   **Romney cherry-picking economic...**  
+        The Fact Checker | Glenn Kessler
     
     *   **Treating Colin Powell as ‘the black...**  
         She The People | Mary C. Curtis
     
-    *   **New WaPo-ABC Tracking Poll: Romney...**  
-        The Fix | Chris Cillizza
+    *   **Hurricane Sandy freezes 2012 race...**  
+        The Fix | Chris Cillizza and Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -55,7 +55,7 @@
     *   **The Post’s Obama endorsement and...**  
         PostPartisan | Rachel Manteuffel
     
-    *   **Obama stonewalls on denying help...**  
+    *   **Morning Bits**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Sandy looms...**  
-        Capital Weather Gang | Brian Jackson
+    *   **D.C. area forecast: Sandy ready...**  
+        Capital Weather Gang | Dan Stillman
     
     *   **Hurricane Sandy closings and cancellations...**  
         Going Out Gurus | Alex Baldinger
     
-    *   **Woman killed, man shot in Charles**  
-        Crime Scene | Martin Weil
+    *   **Man sought in sexual assault, stabbing**  
+        Crime Scene | Peter Hermann
     
-    *   **Elections board asks Cuccinelli...**  
-        Virginia Politics | Ben Pershing
+    *   **Kaine, Allen: Yank yard signs before...**  
+        Virginia Politics | Laura Vozzella
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -100,10 +100,10 @@
     *   **NHL cancels games through Nov....**  
         Capitals Insider | Katie Carrera
     
-    *   **Grantland ranks Redskins as most...**  
-        DC Sports Bog | Sarah Kogod
+    *   **DeAngelo Hall’s meltdown, in images**  
+        DC Sports Bog | Dan Steinberg
     
-    *   **London Fletcher expected to play...**  
+    *   **Chris Cooley held without a catch...**  
         The Insider | Mark Maske
     
     *   **Adam LaRoche, Nationals still talking...**  
@@ -123,7 +123,7 @@
     
     Blogs &. Columns
     
-    *   **Early fin release likely caused...**  
+    *   **Oak Ridge and NVIDIA unveil Titan**  
         Ideas@Innovations | Emi Kolawole
     
     *   **Work-life balance is a men’s issue...**  
@@ -145,17 +145,17 @@
     
     Blogs &. Columns
     
+    *   **Pogrom Punk: The Greek neo-Nazi...**  
+        WorldViews | Max Fisher
+    
+    *   **A brief ethnic history of China**  
+        WorldViews | Max Fisher
+    
     *   **Japan ranks 101st globally for...**  
         WorldViews | Max Fisher
     
     *   **Peter Moore, former hostage in...**  
         WorldViews | Olga Khazan
-    
-    *   **Report: One day in, Syrian forces...**  
-        WorldViews | Max Fisher
-    
-    *   **How do you measure the strength...**  
-        WorldViews | Max Fisher
 *   Business In Business
     
     *   Economy
@@ -179,8 +179,8 @@
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **Why redistricting could doom House...**  
-        Wonkblog | Dylan Matthews
+    *   **How the fiscal cliff would affect...**  
+        Wonkblog | Suzy Khimm
 *   Tech In Technology
     
     *   Policy
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Alton Brown, sportscaster**  
-        All We Can Eat | Bonnie S. Benwick
+    *   **GF lager and pale ale a toast for...**  
+        All We Can Eat | Greg Kitsock
     
     *   **Fashion-forward Halloween costumes**  
         The Style Blog | Cara Kelly
     
-    *   **Take the kids this weekend: Air...**  
-        On Parenting | On Parenting
+    *   **The Krim family horror defies our...**  
+        On Parenting | Janice D'Arcy
     
-    *   **Read this: Ne-Yo’s ‘wretched’ new...**  
+    *   **Jon Huntsman’s daughters off campaign...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,8 +240,8 @@
     *   **A “Tempest” in an opera house**  
         Classical Beat | Anne Midgette
     
-    *   **Justin Timberlake responds to controversial...**  
-        Celebritology 2.0 | Jen Chaney
+    *   **‘The Walking Dead’: Hello, Governor**  
+        Celebritology 2.0 | Jen Chaney’
     
     *   **President Obama fields questions...**  
         The TV Column | Lisa de Moraes
@@ -267,8 +267,8 @@
 In the News
 
 *   Hurricane Sandy
-*   Tsunami warning
-*   Ohio
+*   D.C. area closures
+*   Latest forecast
 *   World Series
 *   Gary Glitter
 
@@ -321,98 +321,102 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-House elections spell a Republican story and victory
+Hurricane Sandy: latest news Hurricane Sandy causes evacuations, closings throughout East Coast
 
-Paul Kane 
+Ashley Halsey III 
 
-D.C. area forecast: Sandy looms large. biggest impact Monday into Tuesday
-
-Brian Jackson 
-
-Hurricane Sandy continues its march to the East Coast
-
-Paul Schwartzman 
-
-Washington, D.C. braces for Hurricane Sandy: the bad and the ugly storm scenarios
+Hurricane Sandy and Washington, D.C.: Detailed storm timeline, maps, and frequent questions
 
 Jason Samenow 
-
-White House considering new tax cut
-
-Zachary A. Goldfarb 
-
-AP poll: A slight majority of Americans are now expressing negative view of blacks
-
-Associated Press 
-
-Accusations against generals cast dark shadow over Army
-
-Ernesto Londoño 
-
-Obama clings to slim lead in Virginia, according to poll
-
-Amy Gardner 
-
-Tsunami warning issued for Hawaii, but canceled in Alaska where wave was small
-
-Associated Press 
-
-Marco Rubio's daughter in car accident in Miami Ohio, the Bull’s-eye State: Obama, Romney aim full arsenals at vital electoral prize
-
-Dan Balz 
-
-A declining Japan loses its once-hopeful champions
-
-Chico Harlan 
 
 Tsunami warnings issued after magnitude 7.7 earthquake strikes off coast of western Canada
 
 Associated Press 
 
-Hurricane Sandy closings and cancellations in the D.C. area
-
-Alex Baldinger 
-
-Des Moines Register endorses Mitt Romney Carolyn Hax: Where to turn to help a depressed friend
-
-Carolyn Hax 
-
-Obama’s ‘Tonight Show’ remark: Planned Parenthood provides mammograms
-
-Josh Hicks 
-
-Hurricane Sandy: Raging winds and high water to leave mark on Mid-Atlantic
+A fiercer forecast for Hurricane Sandy’s effects on Washington, D.C.
 
 Jason Samenow 
 
-Iran hopes to resist sanctions by boosting production
+Tidal flooding from ‘superstorm’ closes causeway on Virginia’s Chincoteague Island
 
-Jason Rezaian 
+Associated Press 
 
-Mugging our descendants
+World Series 2012: San Francisco Giants complete their overlooked run to greatness
 
-George F. Will 
+Thomas Boswell 
+
+At the end of the trail with Plouffe on Obama's ‘48-hour fly-around campaign marathon extravaganza’
+
+Jason Horowitz 
+
+World Series MVP Sandoval makes clutch play with glove to limit damage from Cabrera’s HR
+
+Associated Press 
+
+Hurricane Sandy causes closings, cancellations around D.C. region
+
+Washington Post Staff 
+
+Pollsters’ moment of truth
+
+Robert J. Samuelson 
+
+D.C. area forecast: Sandy ready to power slam the nation’s capital. downed trees, dangerous travel and power outages imminent
+
+Dan Stillman 
+
+Hurricane Sandy grounds thousands of flights, airlines prepare to cancel all NY-area flights
+
+Associated Press 
+
+The Weather Channel tone turns ominous for hurricane, its collision course with other systems
+
+Associated Press 
+
+Obama’s independent problem
+
+Chris Cillizza 
+
+Rocket fire from Gaza draws Israeli airstrike, threatening fragile cease-fire
+
+Associated Press 
+
+Police question story of 3 abducted kids
+
+Martin Weil 
+
+Obama struggles to balance African Americans’ hopes with country’s as a whole
+
+Peter Wallsten 
+
+The heartland election
+
+E.J. Dionne Jr. 
+
+Case of blonde girl beggar rescued from streets strikes nerve in Mexico. activists see racism
+
+Associated Press 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  House elections spell a Republican story and victory
-    2.  D.C. area forecast: Sandy looms large. biggest impact Monday into Tuesday
-    3.  Hurricane Sandy continues its march to the East Coast
-    4.  Washington, D.C. and Sandy: bad and ugly storm scenarios
-    5.  White House considering new tax cut
+    1.  Hurricane Sandy: latest news
+    2.  Hurricane Sandy causes evacuations, closings throughout East Coast
+    3.  Sandy and Washington, D.C.: detailed storm timeline and maps
+    4.  Tsunami warnings issued after magnitude 7.7 earthquake strikes off coast of western Canada
+    5.  A fiercer forecast for Hurricane Sandy's effects on Washington, D.C.
 *   Top Videos
-    1.  Hurricane Sandy: What to expect in the D.C. region
-    2.  Romney pulls ahead in key areas — Daily Tracking Poll
-    3.  Bloomberg: Hurricane Sandy to cause high winds, heavy rainfall in New York
-    4.  Hurricane Sandy heads for the Mid-Atlantic
-    5.  Obama jokes: Romney's birth certificate fees would have been expensive for me
+    1.  Hurricane Sandy could cause flooding, power outages in D.C. region
+    2.  Mitt Romney's promise of big changes
+    3.  'The Obama haircut'
+    4.  Daily Tracking Poll: Voting for Mitt, rather than against Obama
+    5.  Gov. Christie on superstorm: Stay inside
 *   Top Galleries
-    1.  Hurricane Sandy
-    2.  From Snowmageddon to 'Frankenstorm': Does Mother Nature hate Washington?
-    3.  Muslims commemorate Eid al-Adha
-    4.  Romney stumps in the Sunshine State
-    5.  Domestic production in Iran
+    1.  Mid-Atlantic braces for Hurricane Sandy
+    2.  Hurricane Sandy
+    3.  The ghost towns of northern Chile
+    4.  Newspaper endorsements for president: Romney or Obama?
+    5.  Redskins lose to Steelers, 27-12
 
 Today's Paper
 
@@ -422,13 +426,13 @@ Today's Paper
 
 Live Discussions
 
-There are no discussions scheduled today.
-
 Why the Post endorses President Obama for re-election
 
 Live Q&A, 11:30 a.m. ET
 
 Fred Hiatt discusses why the Post chose to endorse Obama for another four years in office.
+
+**11:00 AM** **Ask Boswell: Redskins, Caps, Nationals and more** **12:00 PM** **Dr. Gridlock** **12:00 PM** **Advice from Slate's 'Dear Prudence'** **12:00 PM** **Colorism in the black community** **2:00 PM** **Talk about Travel**
 
 **Weekly schedule, past shows**
 
