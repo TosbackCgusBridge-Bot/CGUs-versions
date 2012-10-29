@@ -193,15 +193,15 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Sale &. Offers
     
+    *   Tools &. Gadgets Promotion
     *   Sale
     
-    NEW &. EXCLUSIVE
+    ONE WEEK ONLY
     
-    Perfect for the kid in all of us.
+    Save 15% on select Tools &. Gadgets through 11/4/12.  
+    Enter promo code: TOOLS15.
     
-    Buy Now 
-    
-    Shop New Cooks' Tools 
+    Shop Now 
     
 *   Cutlery Shop by Category
     
@@ -338,7 +338,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   New Bakeware
     *   Top 10 Bakeware Gifts
     *   Top-Rated Bakeware
-    *   Halloween Bakeware
     *   Thanksgiving Bakeware
     *   Christmas Bakeware
     *   The Cupcake Shop
@@ -398,7 +397,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   New Food
     *   Top 10 Food Gifts
     *   Top-Rated Food
-    *   Halloween Food
     *   Thanksgiving Food
     *   Christmas Food
     *   The Cookie Shop
@@ -460,7 +458,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Entertaining Ideas
     
-    *   Halloween Party
     *   Thanksgiving Feast
     *   Traditional Thanksgiving Dinner
     *   Hanukkah Party
