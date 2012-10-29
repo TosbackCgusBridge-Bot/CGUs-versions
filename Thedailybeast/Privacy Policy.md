@@ -145,11 +145,11 @@ Stories We Like
 
   Most Popular
 
-1.  Why Obama Will Win
-2.  What Newt Can Teach Obama
-3.  My Proof of Heaven
-4.  The Des Moines Register's Practical Joke
-5.  The Sandy Scramble
+1.  Get It Done, Mr. President
+2.  Libya: An Inside Job?
+3.  The Case Against Legal Weed
+4.  Doin’ It ‘Gangnam Style’
+5.  Why Obama Will Win
 
   Other News Entertainment
 
@@ -160,23 +160,23 @@ Stories We Like
 
 Entertainment
 
-*   Lena Dunham amused by reaction to her Barack Obama ‘first time’ ad
-*   ‘Fun Size’: The EW Exit Poll
-*   ‘Cloud Atlas’: The biggest changes from the book to the movie
+*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
+*   Emma Roberts dresses as Aunt Julia in ‘Pretty Woman’ for Halloween: PHOTO
+*   All Broadway shows canceled due to storm
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Barack Obama Tries To Show He Wants It
-*   Both Parties Stunned When Des Moines Register Endorses Romney
-*   Romney Wrestles With Ohio's Recovery
+*   18 People Looking For Sex (And Love) During Hurricane Sandy
+*   Liberal Group Uses Hurricane Sandy For Fundraising Pitch
+*   National Weather Service Issues Extremely Blunt Warning
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Latest Swing State Polls
-*   Another DesJarlais Girlfriend Comes Forward
-*   Swing State Races Remain Remarkably Stable
+*   The Ten Worst Gaffes of Election 2012
+*   A Cold Civil War
+*   Is New Romney Ad in Ohio a Sign He's Losing?
 *   **Get More from Political Wire**
 
 The Daily Beast
