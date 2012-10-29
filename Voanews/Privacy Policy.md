@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Indonesia Arrests 11 in Suspect Terror Plot
-*   Obama, Romney Alter Campaigns in Face of Storm
+*   Sandy Impacts US Political Campaigning
+*   Eastern US Braces for 'Superstorm'
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
