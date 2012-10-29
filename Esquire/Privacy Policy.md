@@ -23,16 +23,15 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript.
 
-CHECK THESE OUT Women Weekend Pic: This Sexy Redhead
+CHECK THESE OUT Women Monday Morning Cheerleader with Heartbroken Cowboys
 
-Because why the hell not?
+Because nobody was closer to Dez Bryant's would-be hail mary than this woman. Except maybe the ref, but still.
+
+*   Now, a Sexy Redheaded Woman
 
 *   How to Take a Shower... with Nikki Reed (from Twilight, but Still  It's a Damn Good Cause)
 
 *   Context-Free Food Wisdom from Taylor Swift
-
-*   _Happy Endings_' Casey Wilson  
-    Will Now Make You Laugh
 
 Style What to Wear Next, from Toronto Fashion Week
 
@@ -40,27 +39,27 @@ Checking with our leather jacket-obsessed neighbors from the north
 
 *   The Best Topical Halloween Costumes of 2012
 
-*   Ten Pairs of Pants at Every Price
+*   10 Pairs of Pants at Any Price
 
 *   The Fall Accessories You Need Right Now
 
-News &. Politics _Cloud Atlas_ or _Chasing Mavericks_? Reviews!
+News &. Politics Charles P. Pierce on the News You Missed Over the Weekend, Romney Endorsement Included
 
-The dilemma of this weekend's movie choices
+And David Brooks. And a very disgusting mental image concerning Newt Gingrich and John McCain.
 
-*   Charlie Pierce on David Brooks on the Truth About Moderate Mitt...
+*   The Homeland Episode 5 Recap with Alex Berenson
 
-*   Of Course Lena Dunham's Obama Endorsement Will Piss People Off
+*   Chiarella: How Craig Fugate Has Changed FEMA in Time for Sandy
 
-*   This Week's _Parks&Rec_ in Photos
+*   _Cloud Atlas_ or _Chasing Mavericks_?
 
-Food &. Drink Things to Talk About at the Bar This Weekend
+Food &. Drink Things to Talk About at the Bar
 
 To Halloween, Doug Fister, Tiger Woods, the triumph of Triumph, and the end of debates, thank God.
 
-*   The Most Unnecessary Halloween Cocktails, and the Drinkable Ones
+*   Should You Be Drinking These Special Halloween Cocktails?
 
-*   The Rarest Rums in the World
+*   The Rarest Rums in the World  and How to Drink 'Em Up
 
 *   Magical Bartender Advice for Drinking Tonight
 
