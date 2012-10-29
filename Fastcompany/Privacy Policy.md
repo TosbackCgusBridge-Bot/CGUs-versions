@@ -73,13 +73,13 @@ In the course of serving advertisements to this site, our third-party advertiser
 *   Printer-friendly version
 *   Send by email
 
-*   Below The Surface: Microsoft Is Why Samsung, Dell And Others Didn't Invent The iPad
+*   Why The Ad Industry Is In A Talent Rut And A Prescription For Change
 
 ADVERTISEMENT
 
+*   Below The Surface: Microsoft Is Why Samsung, Dell And Others Didn't Invent The iPad
 *   Generation Flux Salon: What Does Talent Look Like In An Age Of Flux?
 *   With iPad Mini, Apple Switches From Offense To Defense
-*   Hulu Struggles To Survive The Influence Of Its Parent Companies
 
 *   Why The Ad Industry Is In A Talent Rut And A Prescription For Change
 *   Flowchart: How The World Ends
