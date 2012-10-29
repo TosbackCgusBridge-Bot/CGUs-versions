@@ -148,37 +148,30 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    International Hindenburg Re-enactment Society
+    It's Not News, It's ... FARK
 *     
-    Bump-N-Go Cybermat
+    Good Fortune Chopsticks
 *     
-    Dalek Wall Clock
+    Geeks Do It With Gadgets
 *     
-    I Go Commando
+    Bar Tools
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
 Mother Boo Boo's Hideous Chins  
-Let's Face It: These Horror Masks Are...  
 This Gallery Will Freak You Out!  
 Sleight of Hand WIN \[VIDEO\]  
+Nailed It! Cheap Halloween Costumes  
 More news at Scribol »  
   
   
-Arnold Is Going To Play Conan Again  
-Funniest Halloween Costumes On A Budget  
-RZA + Black Keys: Baddest Man Alive  
-Yes, That's The Real Tagline  
-More news at UPROXX »  
-  
-  
-Bobbi Kristina -- Grandma FOLDS In Wa...  
-World Series -- You Be the Judge  
-Michael Strahan -- Unloads Spare Beac...  
-Kid from 'Shameless' -- It PAYS to Be...  
-More news at TMZ »  
+Cameron Diaz &. Amy Adams Stun In Yell...  
+Christina Aguilera Dresses Down In Ri...  
+Jennifer Love Hewitt Rocks A Sexy Red...  
+Nickelodeon Star Victoria Justice Wow...  
+More news at Starpulse »  
   
   
 If The Other Side Had Won  
@@ -187,10 +180,17 @@ The 6 Most Spectacular Low Points of...
 The 6 Creepiest Glitches in Famous Vi...  
 More news at Cracked »  
   
+  
+We Show It ALL  
+Meet Derek, The Abstinence Clown  
+Real Ghosts  
+Scary Little Babies  
+More news at truTV »  
+  
 
 Also on Fark
 
-Main Busch Gardens welcomes ugly ass baby white rhino ( wesh.com ) » (3 comments) Sports Oklahoma City trades James Harden for a pile of shiat and doesn't even manage to unload Kendrick Perkins' contract in the process. Tag is for the Heat's upcoming walkover in the next three NBA finals, only because Fark has no "Angry" tag ( espn.go.com ) » (20 comments) Business Problem with an eBay item? Complain within 45 days or you'll forever hold your piece ( consumerist.com ) » (3 comments) Geek NASA is letting people watch the Space X Dragon spacecraft make its return trip back to Earth live ( nasa.gov ) » (25 comments) Entertainment Fifteen great Halloween TV episodes ( pastemagazine.com ) » (6 comments) Politics GOP candidate in NH pulls back the pink curtains to show us what Maggie Hassan is hiding. Wait, um, is that a vulva? Fear the vulva ( img189.imageshack.us ) » (34 comments) Video San Francisco Giants pitcher Matt Cain destroys things mid-air with his fastball ( wimp.com ) » (16 comments) FarkUs Subby's roommate is in one of the band on a cruise ship for a week. Submit your revenge suggestions for welcoming him home ( bluescruise.com ) » (7 comments)
+Main Marketer of "Sassy Squaw" Halloween costume had no idea that anyone might find it offensive ( upi.com ) » (62 comments) Sports Andy Reid may be thinking about sending Michael Vick to a nice farm somewhere upstate where he can run freely and frolic in the fields ( delawareonline.com ) » (6 comments) Business Marketer of "Sassy Squaw" Halloween costume had no idea that anyone might find it offensive ( upi.com ) » (62 comments) Geek Supreme court case might kill sales of used books, CD's, and grey-market electronics. On the plus side, it might end those annoying overstock.com commercials ( arstechnica.com ) » (8 comments) Entertainment Hollywood's oldest star gets a facelift ( thesun.co.uk ) » (3 comments) Politics Romney in CNN debate: Get rid of FEMA, let states handle disasters. Romney campaign now that there's a major emergency: We need to make sure states "have the resources and assistance they need" ( huffingtonpost.com ) » (227 comments) Video Everybody was Kung food fighting (language Not safe for work) ( youtube.com ) » (7 comments) FarkUs Musician wanted to collaborate with lyricist. I'm a pretty good lyricist, not at all a musician. Have collaborated with musicians before. Influences: Paul Simon, Roger Waters, Counting Crows ( fark.com ) » (4 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main Busch Gardens welcomes ugly ass baby white rhino ( wesh.com ) » (3 commen
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 28 2012 10:00:38  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 29 2012 08:00:55  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
