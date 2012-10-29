@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Andara Resort - Phuket
-    
-    Starting Today 10/28 at 3pm EDT
-    
-*   Sofitel New York
-    
-    Starting Today 10/28 at 3pm EDT
-    
-*   The Mirage Las Vegas
-    
-    Starting Today 10/28 at 3pm EDT
-    
 *   Martineau Belle Playa - PR
     
-    Starting Monday 10/29 at Noon EDT
+    Starting Today at Noon EDT
     
 *   Park Hyatt Chicago
     
-    Starting Monday 10/29 at 3pm EDT
+    Starting Today 10/29 at 3pm EDT
     
 *   An Atlanta Mystery Hotel
     
-    Starting Monday 10/29 at 3pm EDT
-    
-*   A New Orleans Mystery Hotel
-    
-    Starting Monday 10/29 at 3pm EDT
+    Starting Today 10/29 at 3pm EDT
     
 *   Banner Elk - North Carolina
     
-    Starting Monday 10/29 at 3pm EDT
+    Starting Today 10/29 at 3pm EDT
+    
+*   A New Orleans Mystery Hotel
+    
+    Starting Today 10/29 at 3pm EDT
+    
+*   Sivory Punta Cana - DR Dominican Republic
+    
+    Starting Tuesday 10/30 at 3pm EDT
+    
+*   Thompson Toronto
+    
+    Starting Tuesday 10/30 at 3pm EDT
+    
+*   Mondrian Los Angeles
+    
+    Starting Tuesday 10/30 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
