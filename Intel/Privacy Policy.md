@@ -406,25 +406,21 @@ Intel® Online Privacy Notice Intel is committed to respecting your privacy. Our
     *   Related Topics
     *   Related Products
     
-    *   Expanding Healthcare...
+    *   Intel Export Compliance
         
-        Intel drives public policy that speeds the adoption of healthcare technologies for individuals, markets...  
-        Preview | Download
+        Intel export compliance adheres with business, laws, and regulations that govern trade.
         
-    *   Intel Code of Conduct
+    *   Intel Public Policy
         
-        Contains Intel's mission, values, code of conduct and statement from Intel CEO Paul Otellini.  
-        Preview | Download
+        Intel public policy promotes innovation worldwide.
         
-    *   Intel Public Policy:...
+    *   Intel Terms of Use
         
-        Intel supports customs, trade facilitation policies that enhance trade with respect to importation of...  
-        Preview | Download
+        Intel Terms of Use include description for using the Intel Corporation ("Intel") web sites and materials.
         
-    *   Intel Public Policy:...
+    *   Trademarks
         
-        Intel works with governments worldwide to help shape progressive, practical environment and energy...  
-        Preview | Download
+        Please read and refer back to the Trademarks and Brands Guidelines before using this site.
         
     
     *   Technology for the Home
