@@ -212,21 +212,21 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Efforts to cut funding for Planned Parenthood at state level fall shortRomney extends lead over Obama in Gallup daily tracking pollRomney keeps Gallup lead. Obama up in latest Reuters pollPoll: Racial attitudes toward blacks could cost Obama at the pollsBachmann faces strong challenge
+After Bush v. Gore, Obama, Clinton wanted Electoral College scrappedAxelrod downplays polls, touts Obama early-voting edgeGallup daily: Romney leads Obama 50-46 among likely votersCutter: Des Moines Register endorsement not based 'in reality’Married couple fights for political lives
 
 Emailed
 
-Elizabeth Warren is the Democrats’ pride, Todd Akin and Richard Mourdock are the Republicans’ shameArmy inches toward new missionTexas sparks international row with election observersEfforts to cut funding for Planned Parenthood at state level fall shortDes Moines Register endorses Romney
+After Bush v. Gore, Obama, Clinton wanted Electoral College scrappedElizabeth Warren is the Democrats’ pride, Todd Akin and Richard Mourdock are the Republicans’ shameMarried couple fights for political livesDes Moines Register endorses RomneyAntigua and Barbuda fights back against Majority Leader Reid's online poker bill
 
 Discussed
 
-Texas sparks international row with election observersMore bad news for Mitt Romney Trump offers Obama $5 million for his college, passport recordsSome planPoll: Obama leads Romney by 5 in Ohio
+International monitors at US polling spots draw criticism from voter fraud groupsTexas sparks international row with election observersActor Bill Murray to CNBC: 'I think we ought to be personally responsible'More bad news for Mitt Romney After Bush v. Gore, Obama, Clinton wanted Electoral College scrapped
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Virginia Gov. McDonnell: Sandy won’t affect readiness for election day
-*   Sen. Ron Johnson: Abortion not a campaign issue
-*   Rubio's daughter hospitalized in Miami
+*   Obama skips Fla. visit to oversee response to Hurricane Sandy
+*   Obama: Sandy a ‘serious and big storm’
+*   Obama, daughters head to church
 
   
 More Briefing Room » Congress Blog
@@ -252,23 +252,23 @@ More Pundits Blog » Twitter Room
   
 More Twitter Room » Hillicon Valley
 
-*   Local TV stations in swing-states cash in on deluge of political ads
+*   Local television stations in swing-states cash in on deluge of political ads
 *   Cybersecurity bill likely dead
 *   Yahoo to ignore 'Do Not Track' requests from Internet Explorer users
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
+*   Green group hits Romney, George Allen in $1.7M homestretch ad buy
 *   Obama ‘surprised’ climate didn’t surface at the presidential debates
 *   Liberal groups ramp up Arizona Senate race spending with new TV spot
-*   Dems hit up donors after Chevron’s GOP gift
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Portman, Warner cite new polling, claim momentum
-*   Poll: Romney, Obama tied at 49-49 in Ohio
-*   With Sandy threatening, Romney and Obama cancel appearances
+*   Poll: Romney up with Fla. voters in crucial I-4 corridor
+*   Poll: Obama overtakes Romney for 2-point lead in NH
+*   Poll: Obama stretches Ohio lead to 4 points
 
   
 More Ballot Box » On The Money
@@ -294,16 +294,16 @@ More Healthwatch » Floor Action
   
 More Floor Action » Transportation
 
+*   Romney under fire for ad claim that Jeep brand moving to China
 *   Car rental company: 'Birther' stickers weren't approved
 *   Sen. Durbin blasts 'false and misleading' Parkmobile fee increase explanation
-*   Chrysler: Romney is wrong, Jeep not leaving US for China
 
   
 More Transportation » DEFCON Hill
 
+*   Congress gangs up over Libya
 *   Army inches toward new mission
 *   GOP Senators demand declassification of Libya surveillance
-*   Graham: Obama's Libya defense 'B.S.’
 
   
 More DEFCON Hill » Global Affairs
