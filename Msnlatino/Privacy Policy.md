@@ -696,9 +696,9 @@ contactos Telemundo TV Ahora
     
     Un kit de juguetes para la noche perversa  
     
-*   ¡Confirmado!
+*   Sexy misterio
     
-    Jencarlos y Mónica serán la nueva pareja estelar
+    ¿Quieres caer? José Guillermo tiene su trampa
     
 *   Secretos de belleza
     
