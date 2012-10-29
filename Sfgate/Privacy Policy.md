@@ -1,6 +1,6 @@
 (skip this header)
 
-Sunday Oct 28, 2012 7:44 AM PT
+Monday Oct 29, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,12 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Pics: Chic Halloween looks
-*   Bird poops on anchor live
-*   Voting like losing virginity
-*   130 proof beer
-*   Series tickets
+*   Box office results
+*   Cow kills would-be butcher
+*   Marines prep for zombie invasion
 *   Chronicle endorses Obama
+*   Strong beer
 
 *   Bay Area &. State
 *   Nation
@@ -339,6 +338,13 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Haunted San Francisco Homes
+*   Nation in Focus
+*   World in Focus
+*   Last-minute homemade kids' Halloween costumes
+*   World Series photo gallery
+*   Game 4: Giants at Tigers
+*   NFL cheerleaders celebrate Halloween
 *   Nation in Focus
 *   World in Focus
 *   Elizabeth Moran on Facade as Reality
@@ -372,13 +378,6 @@ Ads by Yahoo! Photo Galleries
 *   Maison Martin Margiela with H&M event
 *   Amityville Horror home on the market
 *   The 2012 postseason in photos
-*   Boreal snapshot
-*   When parents discipline kids through public humiliation
-*   Day in Pictures, Oct. 24, 2012
-*   Giants fan superstitions
-*   Panda belts 3 homers in Game 1 win
-*   Nation in Focus
-*   World in Focus
 
 *   Most Read
 *   |
@@ -386,39 +385,49 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Bird poops on Fox World Series anchor live
-2.  Giants shut out Tigers, one win away
-3.  Incredible (and freaky!) pumpkin carvings
-4.  Spooked cow tramples Palestinian at Muslim feast
-5.  Low-drama Giants belie torture of 2010
-6.  Minerva's Horoscope for Sunday, 10/28/12
-7.  All-time best cars made
+1.  S.F. Giants fans delirious with joy
+2.  SF Giants win World Series
+3.  Giants victory parade set for Halloween
+4.  Sandy strengthens on path toward New Jersey
+5.  Northeast buttons up against terrifying megastorm
+6.  2nd Series win proves Giants are tops
+7.  Bochy solidifies Hall of Fame profile
 
-1.  Giants shut out Tigers, one win away
-2.  SF mayor presses Mirkarimi on recusal
-3.  Undercover donors fuel Prop. 32 furor
-4.  AP poll: Majority harbor prejudice against blacks
-5.  Panicking cow kills Palestinian in Muslim feast
-6.  Trooper fired from chopper to stop truck, kills 2
-7.  Prop. 37 support slips in polls
+1.  GOP fervor for Romney reaches grassroots
+2.  Advantage Obama in hunt for 270 electoral votes
+3.  Scutaro's RBI hit lifts Giants to title
+4.  Giants shut out Tigers, one win away
+5.  The city celebrates as Giants sweep
+6.  The Giants win the 2012 World Series
+7.  Megastorm could wreak havoc across 800 miles of US
 
-1.  Giants shut out Tigers, one win away
-2.  Mayor Lee, bury hatchet over sheriff case
-3.  Spooked cow tramples Palestinian at Muslim feast
-4.  'Big Picture: Rethinking Dyslexia' review
-5.  Fans paint town black and orange
-6.  AP poll: Majority harbor prejudice against blacks
-7.  Citigroup Said to Fire Mark Mahaney, Settles Facebook IPO Case
+1.  S.F. Giants fans delirious with joy
+2.  Giants victory parade set for Halloween
+3.  Advantage Obama in hunt for 270 electoral votes
+4.  Principal relief for stressed homeowners
+5.  2nd Series win proves Giants are tops
+6.  Sandra Day O'Connor broke precedent
+7.  Bochy solidifies Hall of Fame profile
 
 loading... Latest News Videos From our homepage
 
 *     
-    Jill K. Robinson, Special To The Chronicle / SF
+    Alex Washburn, Special To The Chronicle / SF
     
-    A geothermal wonderland
+    Delirium, destruction in S.F.
     
-    New Zealand's steamy features are rivaled only by Yellowstone National Park and Iceland.
+    Giants fans get rowdy in the city after the World Series victory.
     
+*   Eavesdrops from Game 4
+
+*     
+    Alex Brandon / AP
+    
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 6:26 p.m., Sunday, October 28, 2012 Parts of NYC evacuated
+    
+    'Megastorm' bearing down on East Coast wreaks havoc. Photos
+    
+*   'Frankenstorm' takes shape
 
 *     
     . / HC
@@ -428,14 +437,6 @@ loading... Latest News Videos From our homepage
     From a 1990 Corvette to a 1932 Ford, here are the top 50.
     
 *   And the 50 worst cars - ever
-
-*     
-    OpenHomesPhotography.com / SF
-    
-    Classical, modern blend
-    
-    Check out this unique custom 3 bedroom, 3.5 bath Cow Hollow home. Asking $4.449M.
-    
 
 *   Home
 *   News
