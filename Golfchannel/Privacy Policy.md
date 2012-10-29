@@ -286,14 +286,14 @@ Prev Next
 
 *   Tommy Gainey
 *   Tiger Woods
-*   CIMB Asia Pacific Classic
-*   Adam Scott
 *   Rory McIlroy
-*   Ryder Cup
-*   Sergio Garcia
-*   FedEx Cup
-*   Web.com Tour
-*   Keegan Bradley
+*   CIMB Asia Pacific Classic
+*   Nick Watney
+*   Martin Kaymer
+*   Lee Westwood
+*   John Daly
+*   Ian Poulter
+*   Bo Van Pelt
 
 **Privacy Policy**
 
@@ -534,7 +534,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,918 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
+Social 233,972 facebook.com/GolfChannel 121,093 twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
