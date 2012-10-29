@@ -2,16 +2,16 @@
 
 *   What's New
 *   Hot Topics
-    *   Election 2012
-    *   strange stuff
-    *   timeless news
     *   Hurricane Sandy
+    *   timeless news
+    *   strange stuff
+    *   Election 2012
     *   Mitt Romney 2012
-    *   Obama 2012
+    *   President Obama
     *   entertainment
     *   celebrity
-    *   Florida
-    *   storm
+    *   evacuation
+    *   World Series
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -120,63 +120,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Richard Mourdock or Abu Hamza?
-*   Cross-Court Winner
-*   The World According to Cloud Atlas
+*   Why Amnesty Should Lose at the Supreme Court
+*   The Coach Who Never Paid Retail
+*   Homeland, Season 2
 
 More from Slate »
 
 *   PROVE IT!
+*   'This Is A Very Real Exercise': Military Trains For Zombie...
 *   Drunk Mom Repeatedly Crashes Car In School Lot: Police
-*   Gone But Not Forgotten: Man Carves Replica Of Wife's...
 
 More from HuffPost Weird »
 
-*   Be My Boyfriend: The “People’s Court” Announcer
-*   “Ice Loves Coco” Star Coco Austin Opens Up About Life With...
-*   This Week In Style: Fashion Types Get The Mini-Me Treatment
+*   Your Friskyscopes For The Week Of October 29-November 4,...
+*   Lindsay Lohan Is Meteorologist Now
+*   The Most Grotesque Pumpkin Of Them All
 
 More from The Frisky »
 
-*   Author lives like a 'biblical woman' for a year by covering...
-*   ♪ Oh yes they call it the streak ♪ The I-96 shooting streak...
-*   Busch Gardens welcomes ugly ass baby white rhino \[Florida\]
+*   Facebook refuses to remove "I Hate Teenage Moms" page...
+*   Marketer of "Sassy Squaw" Halloween costume had no idea...
+*   Oh great...now THOSE TYPES are moving into the neighborhood...
 
 More from Fark »
 
+*   Hurricane Sandy: 4 ways the huge 'Frankenstorm' is...
+*   New England's vampire panic
 *   10 things you need to know today: October 28, 2012
-*   To circumcise, or not to circumcise?
-*   10 things you need to know today: October 27, 2012
 
 More from The Week »
 
-*   New York City to Suspend All Public Transit as Hurricane...
-*   The New York Times Definitely Doesn't Endorse Mitt Romney
-*   Cannibal Cop's Female Acquaintances Are Justifiably Freaked...
+*   Levi Johnston’s Wedding Invitation Does Not Disappoint
+*   Man Formerly Suspected of Etan Patz Murder Set to Go Free
+*   An Excellent Side-Effect From Barclays Center: Cabs in...
 
 More from Daily Intel »
 
-*   Why Do Vegetarians Live Longer?
-*   Chewing on the Future of Food
-*   The Art of Sleeping With the Enemy
+*   7 Halloween Candies With Scary-Long Ingredient Lists
+*   Help Improve Survival From the Nation's Leading Cause of...
+*   Fearlessly Own the Real You
 
 More from HuffPost Health »
 
-*   Blaque's Natina Reed Dead: ‘Bring It On’ Star Struck by Car...
-*   Ashton Kutcher and Mila Kunis: Ice Cream Date in Studio...
-*   Kourtney Kardashian: Halloween Flashback (PHOTOS)
+*   Celebrity Fashion: Hits and Misses of the Week (PHOTOS)
+*   Julia Roberts Turns 45: Her Best Red Carpet Looks (GALLERY)
+*   Halloween 2012: Heidi Klum to be Cleopatra. Her Halloween...
 
 More from Celebuzz »
 
-*   'The Walking Dead' Preview: Michonne's Zombie Slaves Have...
-*   6 Sexy Celeb Looks Inspired by '50 Shades of Grey'
-*   Kindergarten Teacher Brutally Beats Students and It's...
+*   Halloween Monster Cereals Hoarded by Crazy Fans Who Want...
+*   'Walking Dead' Recap: A Bunch of New Faces (and One Blast...
+*   'Revenge' Recap: Emily's Mother Reveals Her Big Secret
 
 More from The Stir »
 
-*   Trailer Mash 10-26-12
-*   TV Political Files Disappoint Public Interest Groups
-*   Brand Genius 2012: Brian Niccol, Taco Bell
+*   Editor's Letter: Breaking Through
+*   Adweek's 2012 Brand Genius Awards
+*   Adweek's 2012 Brand Genius Awards
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
