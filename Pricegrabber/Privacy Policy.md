@@ -20,31 +20,32 @@ My Account
     *   Walmart
     *   Qvc
     *   Office Max
-    *   Iphone
     *   Money
+    *   Iphone
     *   Digital Cameras
     *   Coffee Makers
     *   Camcorders
     *   Discount Tires
     *   Se
-    *   At
     *   Radio Shack
+    *   At
     *   Sears
     *   Tax
     *   T Mobile
     *   Www.yahoo.com
     *   Truck
+    *   Contact
     *   Ipod
     *   Att
-    *   Contact
-    *   Pressure Cookers
     *   Leappad
     *   Costco
+    *   Pressure Cookers
     *   Mp3 Players
     *   Android Tablets
     *   Barnes And Noble
     *   Coupons
     *   Value City Furniture
+    *   Flowers
     *   More Top Searches
 *   Coupons See all coupons See all rebates
 *   Mobile Apps
@@ -194,8 +195,8 @@ Shop by Department
     *   Shower Curtains, Hooks &. Rods
     *   Flooring
     *   Backpacks
-    *   Wall Decor
     *   Kitchen &. Cooking Gadgets
+    *   Wall Decor
     *   Mechanics Tools &. Tool Sets
     *   Bedroom Quilts, Bedspreads &. Bedskirts
     *   Power Saws
@@ -383,7 +384,7 @@ All Products
     
 
 *   Buying Guides
-*   1528 Local Deals
+*   1513 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
