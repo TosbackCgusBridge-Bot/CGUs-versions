@@ -192,10 +192,10 @@ Registrieren Login
 
 **Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Themen der Woche
 
-1.  fifa 13
-2.  Halloween
-3.  Kaninchen
-4.  Kostüm
+1.  Halloween
+2.  Kaninchen
+3.  Kostüm
+4.  Kunst
 5.  Online-Shop
 6.  Periode
 7.  Pickel
@@ -203,74 +203,70 @@ Registrieren Login
 9.  Pokemon
 10.  Steam
 
-Top-50 Themen Thema Anzahl Apple 84022 Arbeit 64641 Ausbildung 50044 Auto 90804 Beauty 69052 Beruf 77250 Beziehung 71805 Computer 536047 Computerspiele 64467 deutsch 66919 Englisch 51999 Ernährung 50645 essen 71040 Facebook 77266 Fernsehen 60198 Film 99883 Finanzen 58860 Freizeit 262370 Fußball 51074 Games 124416 Geld 93290 Gesundheit 205261 Haare 82503 Handy 204470 Hilfe 148395 Internet 321900 iPhone 75204 Kinder 50806 Körper 50077 Laptop 73363 Liebe 165074 Lied 54384 Mädchen 56197 Medizin 62616 Minecraft 67834 Musik 280150 PC 281839 PC-Spiele 48560 Problem 55122 PS3 60075 Recht 95135 Schule 234927 Software 56985 Spiele 136946 Sport 110678 Technik 120332 Tiere 64754 TV 54275 Video 52606 Youtube 83086 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 84147 Arbeit 64707 Ausbildung 50105 Auto 90911 Beauty 69135 Beruf 77329 Beziehung 71921 Computer 536596 Computerspiele 64552 deutsch 66993 Englisch 52052 Ernährung 50681 essen 71124 Facebook 77380 Fernsehen 60237 Film 100017 Finanzen 58909 Freizeit 262686 Fußball 51129 Games 124581 Geld 93381 Gesundheit 205404 Haare 82613 Handy 204783 Hilfe 148627 Internet 322155 iPhone 75316 Kinder 50853 Körper 50139 Laptop 73460 Liebe 165317 Lied 54450 Mädchen 56298 Medizin 62661 Minecraft 67970 Musik 280399 PC 282170 PC-Spiele 48629 Problem 55198 PS3 60178 Recht 95197 Schule 235158 Software 57024 Spiele 137116 Sport 110797 Technik 120446 Tiere 64796 TV 54326 Video 52655 Youtube 83190 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  KleinKanack
+1.  LightSky
     
     Punkte:
     
-    1479
+    895
     
     Level:
     
-    KleinKanack
+    LightSky
     
-2.  xProGeaRx
+2.  HerrmanSouchon
     
     Punkte:
     
-    1181
+    633
+    
+3.  xProGeaRx
+    
+    Punkte:
+    
+    589
     
     Level:
     
     xProGeaRx
     
-3.  Schneeflocke1
-    
-    Punkte:
-    
-    1101
-    
-    Level:
-    
-    Schneeflocke1
-    
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.353.752 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.360.875 gute Fragen_
 
-*   46 Ist man denn gar nichts wert, wenn man wenig Geld hat?
-*   25 Zu rege Fantasie. Was kann man machen?
-*   24 Sollte man jeden Wunsch eines Verstorbenen nachkommen?
+*   28 Bin ich deswegen irgendwie unnormal??? :-(
+*   14 Na, wo tut's denn weh?
+*   8 gibt es irgendeinen trick, SOFORT einen klartraum/luziden traum zu haben?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
-*   Lavalampe selber bauen.. \[Wasser+Öl+Salz\]
+*   Kunstblut selber machen
 *   Halloween-Kürbis haltbar machen
 
+*   Kürbis schnitzen leicht gemacht: Halloween-Kürbis mal zwei
 *   Laterne basteln in Auto-Form
-*   Schnelles Partyrezept für 20 Gäste und mehr - Blätterteigtaschen Mexikanisch
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.960.283
+1.964.072
 
 Anzahl der Fragen
 
-8.351.389
+8.360.528
 
 Anzahl der Antworten
 
-36.248.532
+36.279.062
 
 Anzahl der Tipps
 
-74.957
+75.044
 
 Anzahl der Videos
 
-4.754
+4.758
 
 Blog
 
