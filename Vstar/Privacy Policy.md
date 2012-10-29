@@ -382,9 +382,9 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   Trail of Betrayal
+*   Special Report
     
-    **Inside the files** – Boy Scouts gave predators a pass
+    **Trail of Betrayal**: Systemic failures left Scouts at risk for abuse, records suggest
     
 
 Privacy Policy &. User Agreement
@@ -639,25 +639,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 106 comments
-*   Fatal morning wreck on PCH in Malibu closes highway for hours Updated 10/27/2012 at 7:28 p.m.
-*   O'Reilly: Are anchors rooting for Obama? Published 10/26/2012 at 2:01 p.m. 50 comments
-*   Editorial: For Congress: Julia Brownley Published 10/27/2012 at 11:47 a.m. 30 comments
-*   Oxnard man identified in El Rio fatal shooting Updated 10/27/2012 at 7:24 p.m.
+*   Editorial: For president: Barack Obama Published 10/28/2012 at 12:02 a.m. 101 comments
+*   Should the party be private or public? Strickland, Brownley take different paths to lure voters Published 10/27/2012 at 7:27 p.m. 23 comments
+*   O'Reilly: Are anchors rooting for Obama? Published 10/26/2012 at 2:01 p.m. 62 comments
+*   Bomb squad unit finds flares in packet and chemical instead of dynamite, officials say Updated 10/28/2012 at 8:20 p.m.
+*   Editorial: For Congress: Julia Brownley Published 10/27/2012 at 11:47 a.m. 43 comments
 
-Photo Galleries Ventura County's Most Wanted October… Ventura Restaurant Week adds lunch to… State agency concerned about selling…
+Photo Galleries Ventura County's Most Wanted October… Mud run for Thousand Oaks Teen Center Strickland, Brownley meet with voters
 
-*   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 106 comments
-*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 97 comments
-*   Poll shows Proposition 30 in a virtual tie. Brown says 'stakes are serious' Published 10/24/2012 at 9:01 p.m. 109 comments
-*   Morning chat Published 10/26/2012 at 12:00 a.m. 74 comments
-*   Morning chat Published 10/25/2012 at 12:00 a.m. 71 comments
+*   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 108 comments
+*   Editorial: For president: Barack Obama Published 10/28/2012 at 12:02 a.m. 101 comments
+*   Morning chat Published 10/26/2012 at 12:00 a.m. 94 comments
+*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 102 comments
+*   O'Reilly: Are anchors rooting for Obama? Published 10/26/2012 at 2:01 p.m. 62 comments
 
-*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 22 comments
+*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 23 comments
+*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 102 comments
 *   Oaks Christian might have broken football recruitment rules – Video Published 10/18/2012 at 2:53 p.m. 0 comments
-*   Scores of dogs seized from Simi Valley home now up for adoption Published 10/17/2012 at 5:35 p.m. 16 comments
-*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 97 comments
 *   Longtime Conejo Valley educator Carol Philips dies, 64 Published 10/22/2012 at 9:56 a.m. 0 comments
+*   Local relatives, friends mourn 2 children stabbed to death in nanny case Published 10/26/2012 at 8:25 p.m. 0 comments
 
 Weather
 
@@ -665,23 +665,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 54° Fair Wind: NE 4mph Today 78° 54° Sun 08:00 PM Clear Temp: 67° Mon 08:00 AM Sunny Temp: 54° Mon 08:00 PM Mostly Clear Temp: 64°
+Currently 51° Fair Wind: Calm Today 73° 54° Mon 05:00 PM Sunny Temp: 70° Tue 05:00 AM Mostly Clear Temp: 53° Tue 05:00 PM Sunny Temp: 67°
+
+Feels Like: 70°
+
+Humidity: 76%
+
+Precip: 0%
+
+Feels Like: 53°
+
+Humidity: 86%
+
+Precip: 0%
 
 Feels Like: 67°
 
 Humidity: 81%
-
-Precip: 0%
-
-Feels Like: 54°
-
-Humidity: 90%
-
-Precip: 0%
-
-Feels Like: 64°
-
-Humidity: 90%
 
 Precip: 0%
 
@@ -729,18 +729,10 @@ More bloggers Wire
 
 Calendar
 
-*   Sunday Oct 28
 *   Monday Oct 29
 *   Tuesday Oct 30
+*   Wednesday Oct 31
 *   More BROWSE Icon
-
-*   Día de los Muertos Craft Day Casa De La Guerra noon
-*   Come and Spend All Hallows Eve with us! Emerging Spirits Center noon
-*   Confessions of an Eco-Terrorist at Thousand Oaks Library Grant R. Brimhall Library 2 p.m.
-*   Curator Walk-Through of ‘Go Tell It On The Mountain’ California African American Museum 2 p.m.
-*   Channel Islands Choral Association Fall Fundraiser for Music Education Private home in Spanish Hills 2:30 p.m.
-
-More Events »
 
 *   Running Biomechanics Presentation Crowne Plaza Beach Hotel, 450 E. Harbor Blvd., Ventura. 6 p.m.
 *   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
@@ -755,6 +747,14 @@ More Events »
 *   CAI Channel Islands HOA Community Faire Spooktacular Westlake Village Inn 4:30 p.m.
 *   Dinesh D'Souza - 2016 Obamas America Camarillo Community Church 6:30 p.m.
 *   Dinesh D'Souza - 2016 Obamas America Camarillo Community Church 6:30 p.m.
+
+More Events »
+
+*   Downtown Safe Trick-or-Treat Downtown Santa Barbara 3 p.m.
+*   To Drive Or Not To Drive Goebel Senior Adult Center 3:30 p.m.
+*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
 
 More Events »
 
