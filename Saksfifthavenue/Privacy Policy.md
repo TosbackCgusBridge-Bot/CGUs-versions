@@ -1,14 +1,23 @@
 *   Saks Fifth Avenue
 
+CLOSE
+
+\*Triple points offer valid on approved purchases for SaksFirst members made with the Saks Fifth Avenue credit card or Saks Fifth Avenue MasterCard on saks.com and catalog orders from 11/5/12 at 12:01 AM (ET) through 11/9/12 at 11:59 PM (ET) and in Saks Fifth Avenue stores from 11/7/12 through 11/9/12. During this event, SaksFirst members will earn 2 base points plus 4 bonus points per eligible dollar spent from $1 to $4,999, 4 base points plus 8 bonus points per eligible dollar spent from $5,000 to $9,999, and 6 base points plus 12 bonus points per eligible dollar spent thereafter, based on your calendar year-to-date net purchases. Purchases of sales tax, delivery charges, beauty salon products and services, restaurants, alterations, fur storage, gratuity, repairs, at the Martin Lawrence Gallery in the Dallas Saks Fifth Avenue store, Saks Fifth Avenue OFF 5TH stores, corporate gifts, gift card purchases, Cartier, and Louis Vuitton products and services are not eligible for this points event. Select designers and leased department exclusions apply.  
+  
+\*\*To receive 25,000 bonus points offer, total spend must be at least $2500 or more in jewelry. Please allow 8-10 weeks for bonus points to be credited to your account.
+
+  
+  
+
 *   $9.99 USD Standard Shipping and $19.99 USD Express Shipping to the UK and Canada on orders of $99 USD and more with code: **UKCAN12** Details
 
 CLOSE Enjoy a special treat from Saks.com: $9.99 USD Standard Shipping and $19.99 USD Express Shipping to the UK and Canada on orders of $99 USD and more\*
 
-Now through Sunday, October 28th, 2012
+Now through Sunday, December 2, 2012
 
 Just enter promo code: **UKCAN12** at checkout
 
-\*$9.99 USD Standard Shipping and $19.99 USD Express Shipping offer valid with orders of $99 USD and more through Sunday, October 28, 2012, at 11:59pm(ET). Offer valid at Saks.com only. To redeem, select Standard or Express shipping and enter promotional code: UKCAN12. Valid on shipments to United Kingdom and Canada addresses only. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid in Saks Fifth Avenue stores or Saks Fifth Avenue OFF 5TH stores. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
+\*$9.99 USD Standard Shipping and $19.99 USD Express Shipping offer valid with orders of $99 USD and more through Sunday, December 2, 2012, at 11:59pm(ET). Offer valid at Saks.com only. To redeem, select Standard or Express shipping and enter promotional code: UKCAN12. Valid on shipments to United Kingdom and Canada addresses only. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid in Saks Fifth Avenue stores or Saks Fifth Avenue OFF 5TH stores. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
 
 Click here for additional shipping and tax information.
 
@@ -16,11 +25,11 @@ Click here for additional shipping and tax information.
 
 CLOSE Enjoy a special treat from Saks.com: $19.99 USD Express Shipping to select countries on orders of $99 USD and more\*
 
-Now through Sunday, October 28th, 2012
+Now through Sunday, December 2, 2012
 
 Just enter promo code: **ROW12** at checkout.
 
-\*$19.99 USD Express Shipping offer valid with orders of $99 USD and more through Sunday, October 28, 2012, at 11:59pm(ET). Offer valid at Saks.com only. To redeem, select Express shipping and enter promotional code: ROW12. Offer valid on shipments to Australia, Antigua and Barbuda, Argentina, Aruba, Austria, Bahrain, Bangladesh, Barbados, Belgium, Belize, Bermuda, Bolivia, Brazil, Brunei, Bulgaria, Cambodia, Cayman Islands, Chile, China, Colombia, Costa Rica, Cyprus, Czech Republic, Denmark, Dominica, Dominican Republic, Ecuador, Egypt, El Salvador, Estonia, Finland, France, French Guiana, Germany, Gibraltar, Greece, Grenada, Guadeloupe, Guatemala, Guernsey, Honduras, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Jersey, Jordan, Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Macau, Maldives, Malta, Martinique, Mexico, Monaco, Montserrat, Netherlands, New Zealand, Nicaragua, Norway, Oman, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Reunion, Romania, Russian Federation, Saint Kitts and Nevis, Saint Lucia, Saudi Arabia, Singapore, Slovakia, Slovenia, South Africa, South Korea, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Trinidad and Tobago, Turkey, Turks and Caicos Islands, United Arab Emirates, and Qatar addresses only. Not valid on shipments to Canada or the UK. Not valid on US shipments. Offer may not be used when shipping to multiple addresses. Not valid in Saks Fifth Avenue stores or Saks Fifth Avenue OFF 5TH stores. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
+\*$19.99 USD Express Shipping offer valid with orders of $99 USD and more through Sunday, December 2, 2012, at 11:59pm(ET). Offer valid at Saks.com only. To redeem, select Express shipping and enter promotional code: ROW12. Offer valid on shipments to Australia, Antigua and Barbuda, Argentina, Aruba, Austria, Bahrain, Bangladesh, Barbados, Belgium, Belize, Bermuda, Bolivia, Brazil, Brunei, Bulgaria, Cambodia, Cayman Islands, Chile, China, Colombia, Costa Rica, Cyprus, Czech Republic, Denmark, Dominica, Dominican Republic, Ecuador, Egypt, El Salvador, Estonia, Finland, France, French Guiana, Germany, Gibraltar, Greece, Grenada, Guadeloupe, Guatemala, Guernsey, Honduras, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Jersey, Jordan, Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Macau, Maldives, Malta, Martinique, Mexico, Monaco, Montserrat, Netherlands, New Zealand, Nicaragua, Norway, Oman, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Reunion, Romania, Russian Federation, Saint Kitts and Nevis, Saint Lucia, Saudi Arabia, Singapore, Slovakia, Slovenia, South Africa, South Korea, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Trinidad and Tobago, Turkey, Turks and Caicos Islands, United Arab Emirates, and Qatar addresses only. Not valid on shipments to Canada or the UK. Not valid on US shipments. Offer may not be used when shipping to multiple addresses. Not valid in Saks Fifth Avenue stores or Saks Fifth Avenue OFF 5TH stores. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
 
 Click here for additional shipping and tax information.
 
@@ -132,8 +141,10 @@ Email Sign-Up Enter Email Address   Go
 *   Follow Us on Twitter
 *   Find Us on Facebook
 *   Follow Us on Pinterest
+*   Find Us on Foursquare
+*   10022-SHOE on Tumblr
 
-*   Saks App &. More:
+*   Download the Saks App:
 
 Saks Fifth Avenue is proud to be named a J.D. Power and Associates 2012 Customer Service Champion and is 1 of only 8 retailers so named.
 
