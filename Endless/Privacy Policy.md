@@ -1,4 +1,4 @@
-Amazon
+Amazon Join Prime
 
 *   Your Amazon.com
 *   Today's Deals
@@ -147,8 +147,6 @@ Examples of information you can access easily at Amazon.com include up-to-date i
 *   Manage Address Book
 *   Manage Your Kindle
 
-Support
-
 *   Kindle Help Forum
 *   General Help Forum
 
@@ -245,6 +243,8 @@ Kindle Owners' Lending Library
 Borrow from over 180,000 titles for free
 
 \>. Get started
+
+Watch. Read. Shop. Relax. Millions of Amazon Prime members enjoy instant videos, free Kindle books and unlimited free two-day shipping. >. Get started
 
 *   Unlimited Instant Videos
 *   Prime Instant VideosUnlimited streaming of thousands of  
