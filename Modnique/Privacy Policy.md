@@ -45,23 +45,23 @@ Loading Modnique - Boutique Events
 *   all events
     *   women
     *   Aquaswiss Sunglasses
-    *   Carol Rose and Ellen Parker Women's Apparel
-    *   CeMe London Dresses
     *   Chanel, Bvlgari, Carrera y Carrera, Tiffany and more
     *   Everything under $39
+    *   Hodges Collection Women's Apparel
     *   Louis Vuitton, Hermes, Celine, Barry Kieselstein-Cord and more
+    *   ORPHELIA Silver &. Pearls Jewelry
     *   Our Picks: Earrings and Necklaces
     *   Our Picks: Rings and Bracelets
     *   Refresh your jewelry box: studs
-    *   Under $49 designer shoes
     *   Wedding Jewelry Trends
     *   Winter Layering Essentials
     *   _more..._
     *   men
-    *   Montres De Luxe Milano Watches
+    *   Gianfranco Ferre Mens Accessories: Belts, Wallets, &. Accessories
     *   Tissot, John Varvatos, Ralph Lauren, Versace and more
     *   _more..._
     *   other
+    *   Always in Style: Chronograph Watches from $35
     *   Dead sea cosmetic blowout
     *   Designer accessories sale
     *   Designer jeans blowout from $12
@@ -77,11 +77,12 @@ Loading Modnique - Boutique Events
     *   CeMe London Dresses
     *   Chanel, Bvlgari, Carrera y Carrera, Tiffany and more
     *   Everything under $39
+    *   Hodges Collection Women's Apparel
     *   Ivanka Trump and Misook Apparel
+    *   Jeanne Darc, No Limit, Vipart Women's Apparel
     *   Louis Vuitton, Hermes, Celine, Barry Kieselstein-Cord and more
     *   M Missoni Women's Apparel
     *   Red Alert
-    *   Shades Of Grey
     *   Winter Layering Essentials
     *   Winter essentials for her from $19
     *   Wow couture Dresses
@@ -93,7 +94,6 @@ Loading Modnique - Boutique Events
     *   other
     *   Designer jeans blowout from $12
     *   Ed hardy. Christian Audigier
-    *   Week in Rewind
     *   Winter must-haves blowout for him and her
     *   _more..._
 *   Jewelry &. Watches
@@ -101,10 +101,9 @@ Loading Modnique - Boutique Events
     *   Affordable Jewelry
     *   Bague a Dames Jewelry &. Watches
     *   Chanel, Bvlgari, Carrera y Carrera, Tiffany and more
-    *   Designer Jewelry
-    *   Designer jewelry from $5
     *   For Party Season: gemstone jewelry deals
     *   Louis Vuitton, Hermes, Celine, Barry Kieselstein-Cord and more
+    *   ORPHELIA Silver &. Pearls Jewelry
     *   One &. Only: Luxury Jewelry for Her
     *   Our Picks: Earrings and Necklaces
     *   Our Picks: Rings and Bracelets
@@ -116,6 +115,7 @@ Loading Modnique - Boutique Events
     *   Winter sparkles: jewelry for her
     *   _more..._
     *   other
+    *   Always in Style: Chronograph Watches from $35
     *   Designer watches for less
     *   Lancaster Watches Made In Italy Blowout
     *   Swiss made designer watches
@@ -130,22 +130,24 @@ Loading Modnique - Boutique Events
     *   Louis Vuitton, Hermes, Celine, Barry Kieselstein-Cord and more
     *   Martina Caponi Handbags Born In Florence
     *   Prada, Gucci, Fendi and more italian designers handbags
-    *   Shades Of Grey
+    *   Vecceli handbags
     *   _more..._
     *   men
+    *   Gianfranco Ferre Mens Accessories: Belts, Wallets, &. Accessories
     *   Montres De Luxe Milano Watches
     *   Versace Men's Scarves and Ties
     *   _more..._
     *   other
     *   Designer accessories sale
     *   Unanyme De Georges Rech Gloves
-    *   Versace, Prada, Gucci and more Sunglasses
     *   _more..._
 *   shoes
     *   women
     *   Bear Paw, Muk Luks, and Pajar Andre
     *   Jean Louis Scherrer women's shoes
     *   Under $49 designer shoes
+    *   _more..._
+    *   men
     *   _more..._
     *   other
     *   Converse Featuring Men's and Women's Shoes
@@ -161,17 +163,17 @@ Loading Modnique - Boutique Events
     *   _more..._
     *   other
     *   Dead sea cosmetic blowout
-    *   Week in Rewind
     *   _more..._
 *   men
+    *   Always in Style: Chronograph Watches from $35
     *   Converse Featuring Men's and Women's Shoes
-    *   DYRBERG/KERN, Chateau D'Argent, Morellato and more
     *   Dead sea cosmetic blowout
     *   Designer accessories sale
     *   Designer jeans blowout from $12
     *   Designer watches for less
     *   Ed hardy. Christian Audigier
     *   Fresh Brand, Report Collection, Maglierie di Perugia &. Il Moro Di Venezia
+    *   Gianfranco Ferre Mens Accessories: Belts, Wallets, &. Accessories
     *   Lancaster Watches Made In Italy Blowout
     *   Men's Fragrances: Armani, CK, Burberry and more
     *   Montres De Luxe Milano Watches
@@ -180,8 +182,6 @@ Loading Modnique - Boutique Events
     *   Tissot, John Varvatos, Ralph Lauren, Versace and more
     *   Unanyme De Georges Rech Gloves
     *   Versace Men's Scarves and Ties
-    *   Versace, Prada, Gucci and more Sunglasses
-    *   Week in Rewind
     *   Winter must-haves blowout for him and her
     *   Yellow Gold Jewelry blowout
     *   and many more...
