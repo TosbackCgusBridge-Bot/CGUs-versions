@@ -158,11 +158,11 @@ ADVERTISEMENT
 
 Hot Pics! LACMA Ladies »
 
-Top Stories1.  PICTURE: Emma Roberts Becomes "Pretty Woman" Aunt Julia for Halloween »
-2.  Jessica Simpson Shows Off 60-Pound Weight Loss While Leaving the Gym »
-3.  Cheryl Cole: Stop Calling Me Fat -- I'm a Size 6! »
-4.  Renee Zellweger Makes First Red Carpet Appearance in 5 Months! »
-5.  PIC: Jennifer Garner, Ben Affleck Dress Up for Evening Out Without Kid »
+Top Stories1.  Radiant Reese Witherspoon Shows Off Post-Baby Body in Skinny Jeans »
+2.  Jennifer Aniston Flaunts Cleavage, Shows Off Engagement Ring in L.A. »
+3.  Jessica Simpson Shows Off 60-Pound Weight Loss While Leaving the Gym »
+4.  Angelina Jolie Takes Kids Halloween Costume Shopping in L.A. »
+5.  Exclusive Nick Lachey: Camden May Be Yoda for Family Star Wars Halloween Costume »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly My Diet Struggle
 
 Inside Us Weekly
 
-*   Style PICTURE: Emma Roberts Becomes "Pretty Woman"
+*   Style Heidi Klum Reveals All-Time Favorite Hallowee
 *   Beauty Leighton Meester Chops Off Her Hair: "I Love
-*   Moms Radiant Reese Witherspoon Shows Off Post-Baby
+*   Moms Tia Mowry: Sister Tamera's Baby Is Due Any Da
 *   Body How Madonna Maintains Her Age-Defying Physiqu  
-*   Entertainment See The Exorcist's Linda Blair Nearly 40 Year  
+*   Entertainment Ben Affleck's Argo Tops Weekend Box Office  
 
 *   US WEEKLY
 *   Celebrity News
