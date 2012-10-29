@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Iran
+*   Islam
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 28, 2012 Edition: **U.S.**
+October 29, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ October 28, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Colin Powell's Former Chief Of Staff: 'My Party Is Full Of Racists'35k
-    *   A Look At 2012 Polls: Who's Really Ahead?12k
-    *   Obama Campaign Makes Closing Argument Against Mitt Romney In New Swing State Ad12k
-    *   For Romney, Wisconsin Becoming The Path Around Ohio27k
-    *   Trouble In Romney's Socialist Hospital Paradise8k
+    *   Obama Balances Storm, Campaign7k
+    *   A Look At 2012 Polls: Who's Really Ahead?24k
+    *   Colin Powell's Former Chief Of Staff: 'My Party Is Full Of Racists'38k
+    *   Romney In Debate: Shut Down Federal Disaster Agency7k
+    *   Mitt Romney Releases Auto Ad That Misleads On Facts7k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 28, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   American Cities Going Broke814
-    *   And The Most Beloved Country Is...365
-    *   Oil Company Exec Killed In Restaurant Shooting942
-    *   The Richest Members of Congress340
-    *   Fiscal Conservative?1k
+    *   And The Most Beloved Country Is...622
+    *   Hurricane Sandy Closes NYSE Trading Floor On Monday31
+    *   Health Insurers 'Scared To Death' By Prospect Of Romney Victory842
+    *   American Cities Going Broke989
+    *   The Richest Members of Congress396
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ October 28, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   Christina Aguilera Wants To Play A 'Crackhead' 80
-    *   Were These Critics Too Tough?95
-    *   Taylor Swift's Breakup Tour84
-    *   The NEXT James Bond Moves Forward66
-    *   Meat Loaf Endorses Romney7k
+    *   'Argo' Takes The Number One Spot As 'Cloud Atlas' Flops974
+    *   Madonna Booed At Concert Over Pro-Obama Comments3k
+    *   WATCH: Joss Whedon Endorses Mitt Romney459
+    *   Meat Loaf May Not Be Able To Vote Mitt551
+    *   Paul McCartney Doesn't Blame Yoko For Beatles Breakup483
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 28, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   Don't Even THINK About Jailbreaking That Tablet444
-    *   Facebook Is Booming -- Just Not In Russia135
-    *   The 9 Most Popular Viral Videos Of The Week
+    *   Don't Even THINK About Jailbreaking That Tablet570
+    *   Facebook Is Booming -- Just Not In Russia178
     *   How To 'Follow' Hurricane #Sandy
-    *   Google Event CANCELLED
+    *   The 9 Most Popular Viral Videos Of The Week
+    *   This Christmas Is Do Or Die For Nokia88
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 28, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   Media Rushes To 'Frankenstorm'494
-    *   Ann Coulter Defends 'Retard' Tweet13k
-    *   WATCH: Melissa Harris-Perry Delivers Powerful Open Letter About Rape2k
-    *   CNN Bans 'Frankenstorm'761
-    *   WATCH: Hoda's Intensely Emotional Celebration226
+    *   WATCH: Maddow Skewers Romney Campaign5k
+    *   WATCH: Melissa Harris-Perry Delivers Powerful Open Letter About Rape3k
+    *   Andrew Sullivan Clashes With George Will On ABC 'This Week'466
+    *   CNN Bans 'Frankenstorm'825
+    *   Media Rushes To 'Frankenstorm'577
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 28, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   Earthquake Hits Canada. Tsunami Warning For Hawaii844
-    *   Most Insane Photos Of The Week
-    *   Pop Star Arrested In Connection With BBC Sex Abuse Scandal79
-    *   Amazing Photos Capture Afghanistan In Transition92
-    *   1 In 4 In Spain Out Of Work772
+    *   Hurricane's Death Toll Hits 65 In Caribbean83
+    *   Earthquake Hits Canada. Tsunami Warning For Hawaii2k
+    *   Pop Star Arrested In Connection With BBC Sex Abuse Scandal677
+    *   Rail Rage: Passengers Eject Foul-Mouthed Woman From Train812
+    *   Iran: Our Drones Are Better Than That274
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 28, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Famous Couples Who Help Each Other Stay Healthy And Fit31
-    *   Did Celiac Disease Cost Jennifer Esposito Her Job?23
-    *   10-Minute Stress-Busters For Better Sleep36
-    *   5 Sneaky Halloween Health Hazards
-    *   Why You Shouldn't Skip _This_21
+    *   Famous Couples Who Help Each Other Stay Healthy And Fit44
+    *   Did Celiac Disease Cost Jennifer Esposito Her Job?43
+    *   Erikka Lost More Than 70 Pounds: 'I've Never Felt More Like Myself'
+    *   10-Minute Stress-Busters For Better Sleep40
+    *   5 Sneaky Halloween Health Hazards26
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 28, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
-    *   PHOTOS: Lucky Magazine Apologizes For Poorly-Received Britney Spears Cover112
-    *   PHOTOS: See This Week's Near Wardrobe Malfunctions! 138
-    *   PHOTO: Miley Cyrus Steps Out In Crop Top &. Thigh High Boots350
-    *   In Honor Of Her 65th Birthday, Here Are 65 Amazing Hillary Clinton Outfits377
-    *   Mary-Kate Olsen On Her Relationship With Olivier Sarkozy: 'Everyone Has An Opinion'505
+    *   PHOTOS: Jennifer Aniston Sports Major Cleavage With Justin Theroux577
+    *   PHOTOS: Sasha &. Malia Obama Show Off Their Pre-Teen Style At Church With Their Dad273
+    *   PHOTOS: Lucky Magazine Apologizes For Poorly-Received Britney Spears Cover133
+    *   PHOTOS: See This Week's Near Wardrobe Malfunctions! 215
+    *   The Olsen Twins Stun (PHOTOS)22
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 28, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   'When You Elect Mitt You're Electing Every Right Wing Nut He's Pandered To In The Last 10 Years'6k
-    *   FINALLY!15
-    *   Movie Poster Juxtaposition FAIL67
+    *   FINALLY!20
+    *   'When You Elect Mitt You're Electing Every Right Wing Nut He's Pandered To In The Last 10 Years'7k
+    *   It's Wrong, But So, So Right24
+    *   Louis C.K. Was A Perfect Gentleman To Screaming Audience Member17
     *   The Funniest Halloween Someecards
-    *   PHOTOS: Hey, How'd He Get That?84
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 28, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next China's Power Shift
+    *   Next SANDY: Lock Down
     *   Next A Future Without Fidel
-    *   Tomorrow Not Without My Daughter
-    *   Tomorrow Attacking Tenure
-    *   Tomorrow Gay Men Don't Get FatGo to HuffPost Live
+    *   Coming Up Attacking Tenure
+    *   Coming Up Black Market Yardsale
+    *   Later The Immortal MindGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
