@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Sunday 28 October 2012
+Monday 29 October 2012
 
 *   Home
 *   News
@@ -138,13 +138,13 @@ In About us
 
 Editor's Choice »
 
-Deadlock in America: single slip may be fatal  
+The queens of Washington  
 
-Veteran journalist and editor **Sir Harold Evans** assesses America's mood ahead of next week's neck and neck US election battle.
+Should the Democrat party be exploiting its two greatest assets, asks **Zoe Brennan**.
 
 Comments
 
-'I was a girl in a man's world' What's the difference between these brains? The rise of rail nostalgia Jez Butterworth's The River, review Advertisement
+Colin Powell: I don't regret a thing Deadlock in America: single slip may be fatal Rugby: don't expect too much of England Top Gear: best and worst Bond cars Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
