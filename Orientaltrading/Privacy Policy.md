@@ -282,7 +282,7 @@ Go Catalog Quick Order Sign Up For Email Savings!
     *   Hats
     *   Novelty Jewelry
     *   Religious Costumes
-    *   See More Christmas Costumes &. Accessories
+    *   See More Christmas Costumes &. Apparel
     
     *   Christmas Craft &. Hobby Supplies
     *   Adult Craft
@@ -319,7 +319,7 @@ Go Catalog Quick Order Sign Up For Email Savings!
     *   Advent
     *   Angels
     *   Nativity
-    *   See More Christmas Inspirations
+    *   See More Religious Christmas
 *   Sale
     
     Shop Everyday Sale*   Party Supplies Sale
