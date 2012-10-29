@@ -73,11 +73,11 @@ What's Hot
 
 Save Your Favorite Shows!
 
-_Good Wife_ Photos
+_Fringe_ Victim Speaks
 
-New TNT Pilots
+Monday Night Football
 
-_Once_'s Evil Queen Speaks!
+Madonna Booed at Concert
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -140,8 +140,8 @@ more popular movies Top Videos
 1.  The Vampire Diaries
 2.  The Vampire Diaries
 3.  The Vampire Diaries
-4.  Arrow
-5.  Hart of Dixie
+4.  Dexter
+5.  Arrow
 
 more top videos
 
