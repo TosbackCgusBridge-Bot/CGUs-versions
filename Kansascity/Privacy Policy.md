@@ -134,23 +134,21 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $0 Value: Discount: You Save: $0 100% $0
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $59 Value: Discount: You Save: $300 80% $241
 
-Sunday: More Deals
+Monday: Target Deals
 
-1.  Press &. Lamination Operators
+1.  Apartment Maintenance Helper
     
-2.  PROGRAM DIRECTOR
+2.  OPERATING MANAGER
     
-3.  Parts Project Coordinator
-    
-    Central Power Systems &. Services, Inc.
-    
-4.  OPERATING MANAGER
-    
-5.  SEASONAL DRIVERS
+3.  SEASONAL DRIVERS
     
     Kelly Services
+    
+4.  SALES
+    
+5.  SALES
     
 6.  SENIOR PIPE DESIGNER
     
@@ -162,16 +160,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Sam Mellinger | Kansas State is only partly in control of its BCS fate
-*   Old Chiefs lament that Raiders rivalry is on the rocks
-*   K-State notebook: One fly in the ointment
-*   Royals' Guthrie appears headed for free agency
-*   No. 4 K-State rolls past No. 15 Texas Tech 55-24
-*   MU gets first SEC win, beats Kentucky 33-10
-*   Kansas City stories found in Boy Scouts’ sex abuse accusations
-*   Firefighters battle townhome blaze in Lee’s Summit
-*   KU falls short in upset bid, loses 21-17 to Texas
-*   Affeldt to blame for Royals playoff drought
+*   Sam Mellinger | Chiefs have hit rock bottom
+*   Raiders wreck Chiefs. Cassel in for injured Quinn
+*   Raiders’ Mitchell: I’d like to play every game at Arrowhead
+*   K-State moves up to No. 2 in BCS
+*   Traffic lights dumped for stop signs in KC has many seeing red
+*   Chiefs notebook: No time to dwell on loss with game Thursday
+*   Raiders shut down Chiefs running game
+*   Too many mistakes plague Chiefs again
+*   Blair Kerkhoff | College football poised for final four run
+*   Tannehill injured in Miami Dolphins' win over New York Jets
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
