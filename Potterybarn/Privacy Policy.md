@@ -651,7 +651,6 @@ Skip Navigation
     *   Top Registry Ideas
 *   Sale Limited Time Offers
     
-    *   Fall Decorating Event
     *   Rug Event
     *   Free Shipping
     
