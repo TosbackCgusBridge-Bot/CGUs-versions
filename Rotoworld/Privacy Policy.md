@@ -56,6 +56,8 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   'Kung Fu Panda' named MVP of World Series
+*   Scutaro leads Giants to World Series sweep
 *   Giants shut down Tigers again, take Game 3
 *   Nats, LaRoche make progress in contract talks
 *   Verlander won't start Game 4 on short rest
@@ -66,8 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   CC Sabathia undergoes minor elbow surgery
 *   Otani free to sign at any time with MLB team
 *   Rivera 'having second thoughts' about return
-*   Tigers likely to pick up Peralta's $6M option
-*   Delmon Young starting in LF again in Game 2
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Stafford's Critics Stifled Oct 29
+*   Sunday Injuries: Dez and Dwyer Oct 29
+*   Week 8 Live Blog Oct 28
+*   Week 8 Rankings Oct 28
+*   Matchups: Return of the Mac Oct 27
 *   Week 8 Injury Questions Oct 27
 *   Week 8 Starts and Sits Oct 27
 *   Best Available NFL Free Agents Oct 27
-*   Matchups: Return of the Mac Oct 26
-*   Week 8 Rankings Oct 26
-*   Doug Looks Fresh Oct 26
-*   Week 8 Chat Oct 25
-*   Week 8 Target Watch: NFC Oct 25
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Report: Nelson unlikely to play Sun. for Pack
-*   Bradshaw (foot) expected to play against DAL
-*   Schefter: T-Rich (ribs) expected to play Sun.
-*   Gore probable for MNF. pain has 'lessened'
-*   J-Stew has 1st shot at 'hot hand' in Carolina
-*   Calvin Johnson officially probable for Week 8
-*   Shurmur on T-Rich: 'He is better this Friday'
-*   Bradshaw has bone bruise in troublesome foot
-*   Jordy Nelson to be game-day decision vs. Jags
-*   Vikings CB Cook broke arm, likely out for '12
-*   Jimmy Graham officially a game-time decision
-*   Pats formally rule Hernandez out for Week 8
+*   Manning surgical as Broncos dump Saints
+*   Dwyer downplays injury. could remain starter?
+*   NFL execs believe Blount available for trade
+*   DeAngelo's days with Panthers are numbered?
+*   DeMarco Murray has a chance to play Week 9
+*   Crennel isn't sure why Charles got five totes
+*   Witten makes team record 18 catches in loss
+*   Romo's four picks mar 437-yard afternoon
+*   Megatron: Sore knee a factor versus Seahawks
+*   Schwartz: Leshoure sat because Bell was hot
+*   McFadden totals 137 yards as Raiders roll KC
+*   Saints TE Graham officially active for SNF
 
 NBA PAGES
 
@@ -134,14 +134,14 @@ NBA PAGES
 
 COLUMNS
 
-*   The Bruski 150 Oct 27
+*   The Bruski 150 Oct 28
+*   NBA chat: Monday @ 12:30 ET Oct 28
 *   Pre-draft Trip Around the NBA Oct 26
 *   NBA Live Chat Monday at 1 p.m. Oct 20
 *   Points League Draft Recap Oct 20
 *   Players to Target Oct 20
 *   Poor Timing On Love's Injury Oct 18
 *   Roto Auction Recap Oct 17
-*   Top 10, Busts and Sleepers Oct 12
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Deron Williams (ankle) looks fine in practice
+*   Jeff Teague (ankle) still iffy to play Friday
+*   Eric Gordon (knee) practices fully on Sunday
+*   Kobe Bryant (foot) still iffy for opener
+*   Kyrie Irving (mouth) expects to play Tuesday
+*   James Harden will sign extension w/ Rockets
 *   Kevin Martin now a member of the Thunder
-*   James Harden traded to Rockets for K-Mart
 *   Mo Williams (groin) back at Jazz practice
 *   Wesley Matthews is not practicing on Saturday
 *   Lamar Odom (foot) uncertain for Clips' opener
 *   Tyson Chandler (knee) expects to play Nov. 1
 *   Beasley explodes for 29 and 10 vs. Nuggets
-*   Jae Crowder hits double digits again
-*   O.J. Mayo nearly triple-doubles in win
-*   Mullens struggles w/ shot, but drops 16 &. 19
-*   Anthony Davis goes beast mode vs. Heat
-*   Greivis Vasquez double-doubles in win
 
 NHL PAGES
 
@@ -185,6 +185,7 @@ NHL PAGES
 
 COLUMNS
 
+*   Four studs and a Minor Leaguer Oct 29
 *   Omark and Brunner Burning! Oct 27
 *   The Lipon &. MacKinnon Show Oct 24
 *   Keep an eye on Neiderreiter Oct 22
@@ -192,7 +193,6 @@ COLUMNS
 *   European League/KHL Update Oct 13
 *   Early CHL Standouts Oct 9
 *   CHL Quick Starters Oct 4
-*   A Dose of the AHL Sep 27
 
 PREMIUM CONTENT
 
@@ -207,6 +207,10 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Vaclav Prospal signs on in Czech Republic
+*   Lars Eller to play with JYP in Finnish League
+*   Blake Wheeler opts to play in Germany
+*   Jack Johnson questions owners' "honor"
 *   Braden Holtby shuts out the AHL Albany Devils
 *   Lockout might end Jagr, Selanne's careers
 *   Anders Lindback joins Finnish Ilves Tampere
@@ -215,10 +219,6 @@ FANTASY HOCKEY NEWS
 *   Lundqvist not ready to play in Sweden yet
 *   D Andy Sutton may have played his final game
 *   Ryan Nugent-Hopkins takes stick in mouth
-*   Kris Versteeg recovering from hip injury
-*   Jussi Jokinen looking to return to Europe
-*   Tuukka Rask fine plays whole game Friday
-*   Marc-Andre Gragnani sets up four goals in win
 
 NASCAR PAGES
 
@@ -229,6 +229,7 @@ NASCAR PAGES
 
 COLUMNS
 
+*   Wrap-up: Martinsville Speedway Oct 28
 *   Mid-Pack: Tums Fast Relief 500 Oct 25
 *   The Tums Fast Relief 500 Oct 23
 *   Wrap-up: Kansas Speedway Oct 21
@@ -236,7 +237,6 @@ COLUMNS
 *   The Hollywood Casino 400 Oct 16
 *   Wrap-up: Charlotte Oct 14
 *   Mid-Pack: Bank of America 500 Oct 11
-*   The Bank of America 500 Oct 9
 
 PARTNERS
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Johnson’s team wins Martinsville race awards
+*   Kyle Busch’s team wins Martinsville awards
+*   Brad Keselowski’s crew chief wins Moog award
+*   Greg Biffle won USG Improving Finish award
+*   Leicht top ROTY in Tums Fast Relief 500
+*   Johnson won Tums Fast Relief 500, leads Chase
 *   Piquet wins two race awards at Martinsville
 *   Max Gresham top NCWTS rookie at Martinsville
 *   Denny Hamlin wins Kroger 200 truck race
 *   Vickers paces both Saturday Cup practices
 *   Peters on pole for Kroger 200, track record
 *   Waltrip, Vickers &. Martin in No. 55 in 2013
-*   Vickers, Martin &. Waltrip in No. 55 in 2013
-*   Martin, Vickers &. Waltrip in No. 55 in 2013
-*   Brad Keselowski HotPass on DIRECTV notes
-*   Clint Bowyer HotPass on DIRECTV notes
-*   Jimmie Johnson HotPass on DIRECTV notes
-*   Dale Earnhardt Jr. HotPass on DIRECTV notes
 
 GOLF PAGES
 
@@ -268,6 +268,7 @@ GOLF PAGES
 
 COLUMNS
 
+*   60-Wat? Oct 28
 *   Go East, Young Men Oct 23
 *   Two Gloves, One Win Oct 21
 *   Saint of Circumstances Oct 16
@@ -275,7 +276,6 @@ COLUMNS
 *   California Dreamin' Oct 9
 *   Sinsational! Oct 7
 *   Legends of the Fall Oct 2
-*   Long-Term 101: Fall Series Sep 29
 
 PARTNERS
 
@@ -285,6 +285,7 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Bolli wins Web.com Tour Champ.. 25 graduate
 *   Hanson takes the BMW Masters by one stroke
 *   Watney parlays course-record 61 into CIMB win
 *   Garrigus enters CIMB finale as a co-leader
@@ -296,7 +297,6 @@ FANTASY GOLF NEWS
 *   Henley picks up second Web.com win in playoff
 *   Gainey teases 59. breaks through at McGladrey
 *   Van Pelt cruises to a two-stroke win in Perth
-*   Love III tied for the lead at Seaside Course
 
 NFL DRAFT PAGES
 
@@ -327,6 +327,9 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Toppers' Quanterus Smith gets 5 sacks vs FIU
+*   Badgers starting QB Stave out for season
+*   Sooners WR Saunders catches 15 passes vs ND
 *   Beavs' Mannion throws four INT in return loss
 *   Marqise Lee goes off for 345 receiving yards
 *   Zac Dysert throws for 311 yards, TD in upset
@@ -336,9 +339,6 @@ NFL DRAFT NEWS
 *   Gio Bernard runs around and through NC State
 *   Glennon throws for 467 yards, 5 TDs, 2 INTs
 *   Tyler Bray completes 27-of-43, 368 yds, 4 TDs
-*   Zach Rogers torches Gamecocks for 3 TDs
-*   Ray Graham tallies 109 yards, 2 TDs vs Owls
-*   Weisman leaves game with apparent hip inj
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Report: Nelson unlikely to play Sun. for Pack
-*   NFL:Bradshaw (foot) expected to play against DAL
-*   NFL:Schefter: T-Rich (ribs) expected to play Sun.
-*   GOL:Watney parlays course-record 61 into CIMB win
-*   NBA:James Harden traded to Rockets for K-Mart
-*   MLB:Giants shut down Tigers again, take Game 3
-*   NAS:Denny Hamlin wins Kroger 200 truck race
-*   CFB:Marqise Lee goes off for 345 receiving yards
-*   NFL:Gore probable for MNF. pain has 'lessened'
-*   CFB:Gio Bernard runs around and through NC State
-*   CFB:Glennon throws for 467 yards, 5 TDs, 2 INTs
-*   CFB:Beavs' Mannion throws four INT in return loss
+*   MLB:Scutaro leads Giants to World Series sweep
+*   NFL:Manning surgical as Broncos dump Saints
+*   NFL:Dwyer downplays injury. could remain starter?
+*   NFL:NFL execs believe Blount available for trade
+*   NFL:DeAngelo's days with Panthers are numbered?
+*   NFL:DeMarco Murray has a chance to play Week 9
+*   NFL:Crennel isn't sure why Charles got five totes
+*   NFL:Witten makes team record 18 catches in loss
+*   NFL:Romo's four picks mar 437-yard afternoon
+*   NFL:Megatron: Sore knee a factor versus Seahawks
+*   NFL:Schwartz: Leshoure sat because Bell was hot
+*   MLB:'Kung Fu Panda' named MVP of World Series
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1M. Jones-DrewNFL (7987)
-*   2T. RichardsonNFL (7890)
-*   3D. BrownNFL (7433)
-*   4F. JonesNFL (7113)
-*   5J. StewartNFL (6768)
+*   1D. BrownNFL (7581)
+*   2J. GrahamNFL (7579)
+*   3T. RichardsonNFL (7495)
+*   4F. JonesNFL (7392)
+*   5J. StewartNFL (7068)
 
-*   6J. GrahamNFL (6653)
-*   7R. MendenhallNFL (6650)
-*   8J. DwyerNFL (6600)
-*   9R. JenningsNFL (6562)
-*   10D. AmendolaNFL (6481)
+*   6J. DwyerNFL (6827)
+*   7D. RoseNBA (6642)
+*   8A. BradshawNFL (6633)
+*   9D. AmendolaNFL (6489)
+*   10M. Jones-DrewNFL (6443)
 
   
 Video Center
@@ -525,6 +525,8 @@ Video Center
 *   4
 *   »
 
+*      
+    Start or Sit: Saints - Broncos
 *      
     Week 8 Starts &. Sits 4 p.m.
 *      
@@ -539,39 +541,37 @@ Video Center
     Start &. Sit: PIT @ CIN
 *      
     SportsTalk: Week 7 Fear Factor
-*      
-    Week 7 Starts &. Sits 4 p.m.
 
   
   
-  Headlines Week 8 Injury Questions  
-Oct 27 Get caught up with the latest line on all the hurt folks as we get set for Week 8.  
+  Headlines Stafford's Critics Stifled  
+Oct 29 Matthew Stafford turned things around, but which other players stood out for better or worse? Chet Gresham recaps the Week 8 action.  
   
 More NFL Columns
 
+*   »Stafford's Critics Stifled Oct 29
+*   »Sunday Injuries: Dez and Dwyer Oct 29
+*   »Week 8 Live Blog Oct 28
+*   »Week 8 Rankings Oct 28
+*   »Matchups: Return of the Mac Oct 27
 *   »Week 8 Injury Questions Oct 27
 *   »Week 8 Starts and Sits Oct 27
 *   »Best Available NFL Free Agents Oct 27
-*   »Matchups: Return of the Mac Oct 26
-*   »Week 8 Rankings Oct 26
-*   »Doug Looks Fresh Oct 26
-*   »Week 8 Chat Oct 25
-*   »Week 8 Target Watch: NFC Oct 25
 
 NFL Headlines
 
-*   »Report: Nelson unlikely to play Sun. for Pack
-*   »Bradshaw (foot) expected to play against DAL
-*   »Schefter: T-Rich (ribs) expected to play Sun.
-*   »Gore probable for MNF. pain has 'lessened'
-*   »J-Stew has 1st shot at 'hot hand' in Carolina
-*   »Calvin Johnson officially probable for Week 8
-*   »Shurmur on T-Rich: 'He is better this Friday'
-*   »Bradshaw has bone bruise in troublesome foot
-*   »Jordy Nelson to be game-day decision vs. Jags
-*   »Vikings CB Cook broke arm, likely out for '12
-*   »Jimmy Graham officially a game-time decision
-*   »Pats formally rule Hernandez out for Week 8
+*   »Manning surgical as Broncos dump Saints
+*   »Dwyer downplays injury. could remain starter?
+*   »NFL execs believe Blount available for trade
+*   »DeAngelo's days with Panthers are numbered?
+*   »DeMarco Murray has a chance to play Week 9
+*   »Crennel isn't sure why Charles got five totes
+*   »Witten makes team record 18 catches in loss
+*   »Romo's four picks mar 437-yard afternoon
+*   »Megatron: Sore knee a factor versus Seahawks
+*   »Schwartz: Leshoure sat because Bell was hot
+*   »McFadden totals 137 yards as Raiders roll KC
+*   »Saints TE Graham officially active for SNF
 
 NFL Links
 
