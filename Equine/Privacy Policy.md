@@ -113,23 +113,18 @@ Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad  
-**Why Equine.com?**  
-\- Equine.com helps more people sell horses  
-than any other source! - We've helped sell over 130,000 horses.  
-\- We've been the #1 choice for over 12 years!  
-\- 1 million viewers per month can see your ad.  
-Half a million pages are viewed each day! Testimonials **Don't just take our word for it...** " very happy with repsonses, website was very easy to use. "  
-**Cheryl**  
-Green Valley , Illinois " I had a lot of response from the ad. It is just fun trying to find the right match. "  
-**Becky**  
-Cedar Grove , Wisconsin "SOLD quick! I've sold several horses using Equine.com. Great site! "  
-**Allison**  
-Lufkin , Texas "Equine.com was great as usual. We had a lot of interested buyers. We always use and recommend Equine.com!"  
-**Sarah**  
-volant, Pennsylvania "Equine.com is easily the most reliable website for selling horses!"  
-**Sarah**  
-New Ipswich, New Hampshire View More Testimonials
+Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad **Exposure**  
+Sell online and in regional publications. Online ads have up to 24 color photos. Our network of magazines appear throughout the U.S. Testimonials **Don't just take our word for it...** " Great Website for buying and selling Horses. Gets lots of traffic with serious inquiries. "  
+**Mary**  
+Gays Mills, Wisconsin " I have sold two horses through equne.com. Very positive experience. Easy to use especially uploading pictures. "  
+**kimberly**  
+ottawa hills, Ohio "Great response from the ad. Love your site."  
+**Diana**  
+Bellue, Colorado " No spam emails- I had two inquiries in the first 24 hours and sold him in two days to a great family. Wonderful experience..."  
+**Terri**  
+Blue Grass , Iowa " Great!! Had lots of calls and emails. Finally found the right person to give him a great home. "  
+**Bruce**  
+Town Creek, Alabama View More Testimonials
 
 *   Advertise
 *   |
