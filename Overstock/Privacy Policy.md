@@ -177,6 +177,8 @@ This Privacy and Security Policy was last updated on April 26, 2012.  **Please 
 
 Contact Us
 
+**_Severe weather due to Hurricane Sandy is causing some unavoidable service delays in several eastern states. Please click here for more details._**
+
 **Need assistance?** Please click here to contact customer care.
 
   
