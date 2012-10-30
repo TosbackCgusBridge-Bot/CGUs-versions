@@ -151,45 +151,32 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
     Fire We Make Lyrics
 *   Christina Aguilera  
     Let There Be Love Lyrics
-*   Ellie Goulding  
-    I Need Your Love Lyrics
-*   Justin Bieber  
-    As Long As You Love Me Lyrics
-*   Carly Rae Jepsen  
-    Call Me Maybe Lyrics
-
-*   Christina Aguilera  
-    Just A Fool Lyrics
-*   Jonas Brothers  
-    First Time Lyrics
 *   One Direction  
     Change My Mind Lyrics
 *   Kesha  
     Die Young Lyrics
-*   David Guetta  
-    Titanium Lyrics
+*   Adele  
+    Someone Like You Lyrics
 
-*   Pitbull  
-    Feel This Lyrics
+*   Christina Aguilera  
+    Just A Fool Lyrics
 *   Kanye West  
     White Dress Lyrics
 *   One Direction  
     Kiss You Lyrics
-*   Flo Rida  
-    Whistle Lyrics
-*   Adele  
-    Someone Like You Lyrics
-
-*   Cher  
-    Woman's World Lyrics
-*   Jonas Brothers  
-    Wedding Bells Lyrics
-*   Tristan Prettyman  
-    My Oh My Lyrics
 *   Katy Perry  
     Wide Awake Lyrics
 *   Alex Clare  
     Too Close Lyrics
+
+*   Pitbull  
+    Feel This Lyrics
+*   Jonas Brothers  
+    Wedding Bells Lyrics
+*   Tristan Prettyman  
+    My Oh My Lyrics
+*   Gotye  
+    Somebody That I Used To Know Lyrics
 
 *   Christina Aguilera  
     Best Of Me Lyrics
@@ -197,7 +184,16 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
     Arrival Lyrics
 *   Ed Sheeran  
     A Team Lyrics
-*   Gotye  
-    Somebody That I Used To Know Lyrics
+*   Carly Rae Jepsen  
+    Call Me Maybe Lyrics
+
+*   Cher  
+    Woman's World Lyrics
+*   Ellie Goulding  
+    I Need Your Love Lyrics
+*   Justin Bieber  
+    As Long As You Love Me Lyrics
+*   David Guetta  
+    Titanium Lyrics
 
 Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
