@@ -371,7 +371,7 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Bike Racks &. Storage
         *   Bike Accessories
         *   Bike Parts &. Tools
-        *   Bike Training Gear
+        *   Bike Trainers
         *   Hydration
         *   Trailers &. Child Seats
         *   Inline Skates
