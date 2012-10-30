@@ -31,6 +31,7 @@
             Prints
         *   Digital  
             Scrapbooks
+        *   Custom Framing
     *   Floral
         *   Projects
         *   Products
