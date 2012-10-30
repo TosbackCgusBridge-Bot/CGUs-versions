@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Hurricane Sandy is already setting records (+video)
-2.  Hurricane Sandy liveblog: Obama says government will respond 'big and fast' (+video)
-3.  Hurricane Sandy liveblog: Which way is Sandy headed? The latest 'Frankenstorm' track (+video)
-4.  Obama vs. Romney: Who has the momentum?
-5.  Magnitude 7.7 earthquake rattles West coast of Canada
+1.  Hurricane Sandy: Storm surge floods NYC tunnels, cuts power to city
+2.  Superstorm Sandy Liveblog: As storm diminishes, New Yorkers in darkness (+video)
+3.  Tracking hurricane Sandy: As storm 'zigs', it's also changing dramatically
+4.  Presidential polls: Where presidential race stands as hurricane Sandy buffets US politics
+5.  How hurricane Sandy tests Obama, Romney
 
 About these ads
 
@@ -111,17 +111,17 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Difference Maker  
-    John Bergmann runs a special zoo for older, exploited, and abused animals
+*   Backchannels  
+    Is the detritus of the Iraq war harming the babies of Fallujah?
     
-    John Bergmann manages Popcorn Park, a special zoo in New Jersey that gives a home to distressed wildlife and exotic and domesticated animals.
+    The claim has been made for years. Now, there's a medical report about the Iraq war that appears to back it up.
     
-*   The Vote: Lena Dunham's sexy Obama ad: Youthfully alluring or bad taste?
-*   Global News Blog: Good reads: Growth we missed, Berlin's awkward fit, and where kids know best
-*   Wanted in Brazil: more English speakers
-*   Global News Blog: The Eid holiday: What does it celebrate?
+*   Latin America Monitor: Venezuela prioritizes 'happiness' in its national budget
+*   The story behind the HMS Bounty, sunk by Sandy off N.C. coast (+video)
+*   Home to Tintin and Smurfs, Belgium looks to reinvigorate comic industry
+*   Cover Story: Is Europe really on the brink?
 
-_Photos of the day_ 10.28.12 » Photos of the Weekend 10/28
+_Photos of the day_ 10.29.12 » Photos of the day 10/29
 
 **CSMonitor.com** on Facebook
 
@@ -143,18 +143,12 @@ John Bergmann manages Popcorn Park, a special zoo in New Jersey that gives a hom
 
 Become part of the Monitor community
 
-*   The Culture One man explores his German family's past in 'The Flat'
-*   The Culture Two backpackers explore the country of Georgia in 'The Loneliest Planet'
-*   The Culture 'Cloud Atlas' is occasionally exhilarating but mostly confusing (+trailer)
-*   Innovation Windows 8 marks a major make-over for Microsoft
-*   Books Hillary Clinton: 10 quotes on her birthday
-*   World Briefing: Who are China's potential new leaders?
+*   Innovation Remembering Bob Ross, the host of 'The Joy of Painting'
+*   Business How to become an NFL referee? Start early.
 *   Making a Difference John Bergmann runs a special zoo for older, exploited, and abused animals
-*   USA 2012 World Series quiz: How much do you know about the Detroit Tigers?
-*   USA 2012 World Series quiz: Are you a real San Francisco Giants fan?
 *   Innovation Meet Apple's thinner, faster, stronger iMac
+*   World Briefing: Who are China's potential new leaders?
 *   World Focus: Can a gang truce in El Salvador open the door to lasting peace?
-*   The Culture The X Factor final 16 revealed . . . finally
 
 About these ads
 
