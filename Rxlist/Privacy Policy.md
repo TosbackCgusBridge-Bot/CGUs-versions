@@ -1,7 +1,7 @@
 *   Like Us
 *   Follow Us
 
-Pill Identifier Search October 29, 2012
+Pill Identifier Search October 30, 2012
 
 *   Home
 *   Drugs A-Z
@@ -296,11 +296,11 @@ Featured Topics
 
 New &. Updated
 
-*   Alimta
-*   Baraclude
-*   Bicillin L-A
-*   Eloxatin
-*   Osmoprep
+*   Besivance
+*   Bethkis
+*   Humalog
+*   Lotemax Gel
+*   Mavik
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
