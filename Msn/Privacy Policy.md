@@ -1,5 +1,5 @@
 Klik hier om Silverlight te installeren Nederland Wijzigen | Alle Microsoft sites Zoek op Microsoft.com naar:  
-Microsoft Online Privacy Statement Aanvullende privacy-informatie • Bing • CRM Online • Messenger • Microsoft Advertising • Microsoft Employment Candidates • Microsoft Tag Reader • MSN • Office.com • Ondersteuningsservices • Windows Live • Windows Live ID • Windows Marketplace • WindowsMedia.com • Xbox LIVE, spellen voor Windows LIVE en Xbox.com • Zune Gerelateerde links • FTC Privacy Initiatives • Security at Home • Silverlight Privacyverklaring • Trustworthy Computing
+Microsoft Online Privacy Statement Aanvullende privacy-informatie • Bing • Messenger • Microsoft Advertising • Microsoft Employment Candidates • Microsoft Tag Reader • MSN • Office.com • Ondersteuningsservices • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, spellen voor Windows LIVE en Xbox.com • Zune Gerelateerde links • FTC Privacy Initiatives • Security at Home • Silverlight Privacyverklaring • Trustworthy Computing
 
 (Voor het laatst geüpdated in april-12)  
 Lees belangrijkste punten van de privacyverklaring
