@@ -54,7 +54,7 @@ This site allows third-party companies to serve ads and/or collect certain anony
 
 9\. Your rights
 
-You are entitled to access and correct your Data by requesting to do so via the Contact us section, or by sending a letter to the following address: 49/51 rue Ganneron, 75018 Paris.
+You are entitled to access and correct your Data by requesting to do so via the Contact us section, or by sending a letter to the following address: 49/51 rue Ganneron - 75018 Paris.
 
 *   Dailymotion
 *   About
