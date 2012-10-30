@@ -6,7 +6,7 @@ You must have Cookies enabled on your Web browser to fully interact with our sit
 
 JavaScript is not enabled on your browser
 
-You must have JavaScript enabled on your Web browser to fully interact with our site and place an order. (To enable JavaScript, open Preferences for your browser and select the "enable JavaScript" checkbox.) Customer Service Store Locator / Track Order / Sign In / Create Account Shopping Bag Our Family of Sites Our Brands
+You must have JavaScript enabled on your Web browser to fully interact with our site and place an order. (To enable JavaScript, open Preferences for your browser and select the "enable JavaScript" checkbox.) Customer Service / Store Locator / Track Order / Gift Cards Sign In / Create Account Shopping Bag Our Family of Sites Our Brands
 
 International
 
