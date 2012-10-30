@@ -1,6 +1,6 @@
 (skip this header)
 
-Monday Oct 29, 2012 5:05 AM PT
+Tuesday Oct 30, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,12 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Box office results
-*   Cow kills would-be butcher
-*   Marines prep for zombie invasion
-*   Chronicle endorses Obama
-*   Strong beer
+*   Saison moving
+*   Kim K.'s costume
+*   Photo tour: Haight-Ashbury
+*   Tale of 2 yolks
+*   Big publishing merger
+*   Chronicle endorsements
 
 *   Bay Area &. State
 *   Nation
@@ -338,6 +339,18 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Halloween 2012
+*   san mateo
+*   Nation in Focus
+*   World in Focus
+*   Week 8: 49ers at Cardinals
+*   The World Series champion Giants return home
+*   ACT's "Revamping the Strand" fundraising party
+*   LACMA 2012 Art + Film Gala Honoring Ed Ruscha and Stanley Kubrick
+*   Lolinda
+*   Giants Fans Celebrate World Series Victory
+*   Day in Pictures, Oct. 29, 2012
+*   Sandy impacts Presidential campaign
 *   Haunted San Francisco Homes
 *   Nation in Focus
 *   World in Focus
@@ -365,19 +378,6 @@ Ads by Yahoo! Photo Galleries
 *   Game 2: Giants vs. Tigers
 *   Apple Event Oct 23
 *   San Francisco Fall Antiques Show
-*   Day in Pictures, Oct. 25, 2012
-*   Windows 8 and Surface event
-*   'Cloud Atlas' premiere
-*   Microsoft launches Windows 8
-*   1962 Giants
-*   2781 Union Street
-*   Nation in Focus
-*   World in Focus
-*   Must See Movies Since 1960
-*   Game 7: Giants vs. Cardinals
-*   Maison Martin Margiela with H&M event
-*   Amityville Horror home on the market
-*   The 2012 postseason in photos
 
 *   Most Read
 *   |
@@ -385,58 +385,56 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  S.F. Giants fans delirious with joy
-2.  SF Giants win World Series
-3.  Giants victory parade set for Halloween
-4.  Sandy strengthens on path toward New Jersey
-5.  Northeast buttons up against terrifying megastorm
-6.  2nd Series win proves Giants are tops
-7.  Bochy solidifies Hall of Fame profile
+1.  Sandy causes NJ flooding, power outages, 3 deaths
+2.  'Knuckleheads' run amok after Giants win
+3.  Sandy leaves death, damp and darkness in wake
+4.  2 arrested in shooting at Fort Mason
+5.  Federal agents seize fake Giants gear
+6.  Giants return home to cheers, fans
+7.  Smith, smothering defense headline 49ers’ 24-3 drubbing of Cardinals
 
-1.  GOP fervor for Romney reaches grassroots
-2.  Advantage Obama in hunt for 270 electoral votes
-3.  Scutaro's RBI hit lifts Giants to title
-4.  Giants shut out Tigers, one win away
-5.  The city celebrates as Giants sweep
-6.  The Giants win the 2012 World Series
-7.  Megastorm could wreak havoc across 800 miles of US
+1.  Dems nervous, GOP upbeat as vote nears
+2.  Giants celebrants torch Muni bus
+3.  The city celebrates as Giants sweep
+4.  Boy says he was mad at his dog so he killed it
+5.  Scutaro's RBI hit lifts Giants to title
+6.  Libyan witnesses recount organized Benghazi attack
+7.  What scares employees most?
 
-1.  S.F. Giants fans delirious with joy
-2.  Giants victory parade set for Halloween
-3.  Advantage Obama in hunt for 270 electoral votes
-4.  Principal relief for stressed homeowners
-5.  2nd Series win proves Giants are tops
-6.  Sandra Day O'Connor broke precedent
-7.  Bochy solidifies Hall of Fame profile
+1.  Federal agents seize fake Giants gear
+2.  S.F., Oakland drop bid for U.S. school funds
+3.  2 arrested in shooting at Fort Mason
+4.  Buddy Act: Clinton, Biden gave fiery Ohio speeches
+5.  A sorority for Silicon Valley's 'frat row'
+6.  He died penniless, but rich with friends
+7.  Huge plays by Sandoval, Mays set tone
 
 loading... Latest News Videos From our homepage
 
 *     
-    Alex Washburn, Special To The Chronicle / SF
+    Noah Berger, Special To The Chronicle / SF
     
-    Delirium, destruction in S.F.
+    Trophy back in S.F.
     
-    Giants fans get rowdy in the city after the World Series victory.
+    Giants get a hero's welcome at AT&T Park as they return from World Series glory. Photos
     
-*   Eavesdrops from Game 4
 
 *     
-    Alex Brandon / AP
+    Susana Bates, Special To The Chronicle / SF
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 6:26 p.m., Sunday, October 28, 2012 Parts of NYC evacuated
+    36 'knuckleheads' arrested
     
-    'Megastorm' bearing down on East Coast wreaks havoc. Photos
+    Mayor slams Giants-fan 'hoodlums' who set 70 fires, torched $700,000 Muni bus after win. Photos
     
-*   'Frankenstorm' takes shape
 
 *     
-    . / HC
+    Ross D. Franklin / AP
     
-    All-time best cars
+    Who's got control of West?
     
-    From a 1990 Corvette to a 1932 Ford, here are the top 50.
+    Smith, defense star as 49ers crush Cardinals on 'MNF.' Photos
     
-*   And the 50 worst cars - ever
+*   5 players who keyed win
 
 *   Home
 *   News
