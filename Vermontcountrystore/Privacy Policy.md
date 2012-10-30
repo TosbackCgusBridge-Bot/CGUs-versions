@@ -225,14 +225,6 @@ Skip to Navigation Skip to Main Content
     *   Dolls &. Plush
     *   Fisher Price
     *   Toys Favorites
-*   Yankee Bargains
-    *   SALE - Sleepwear
-    *   SALE - Clothing
-    *   SALE - Food &. Candy
-    *   SALE - For The Home
-    *   SALE - Health &. Beauty
-    *   Yankee Bargains - New Markdowns
-    *   Last Chance Final Markdowns
 *   Gifts
     *   Seasonal Favorites
     *   Gifts For Her
@@ -244,6 +236,14 @@ Skip to Navigation Skip to Main Content
     *   Gifts Under $50
     *   Gifts Under $100
     *   Wedding Gifts
+*   Yankee Bargains
+    *   SALE - Sleepwear
+    *   SALE - Clothing
+    *   SALE - Food &. Candy
+    *   SALE - For The Home
+    *   SALE - Health &. Beauty
+    *   Yankee Bargains - New Markdowns
+    *   Last Chance Final Markdowns
 *   Visit Us
     
     *   About Weston
