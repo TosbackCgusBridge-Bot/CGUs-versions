@@ -688,13 +688,13 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡Pilas pues!
+*   ¡Mucho billete!
     
-    Entra y descubre el mundo de las novelas.
+    Conoce los narcos más ricos de la historia.
     
-*   Calienta tu Halloween
+*   ¿Qué harás este Halloween?
     
-    Un kit de juguetes para la noche perversa  
+    Organiza tu fiesta con estas ideas
     
 *   Sexy misterio
     
