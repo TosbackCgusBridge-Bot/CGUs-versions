@@ -13,7 +13,6 @@
 *   High-Score Games
 *   Mobile Games
 
-*   Fairy Games
 *   Halloween Games
 
 *   Adventure Games
