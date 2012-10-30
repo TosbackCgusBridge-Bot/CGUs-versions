@@ -1,4 +1,4 @@
-Skip to content
+Skip to content 100% satisfaction guaranteed. If you don't love it, we'll take it back. Period.
 
 *   Sign in 
     *   My Account
