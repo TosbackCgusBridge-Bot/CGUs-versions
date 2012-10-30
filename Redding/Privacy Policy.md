@@ -174,7 +174,7 @@ Record Searchlight
 *   Cars
 *   Classified
 
-*   Part 2 of 3: Systematic failures within the Boy Scouts of America.
+*   Part 3 of 3: After revelations of abuse within the Boy Scouts, how have they changed?
     
 
 Privacy Policy Redding.com Privacy Policy
@@ -270,25 +270,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Man shot dead in Shasta Lake. victim's friend brought on shooting by homeowner, det. says Updated 10/28/2012 at 2:54 p.m. 72 comments
-*   Car flips in Happy Valley hit-and-run crash Published 10/28/2012 at 11:07 a.m. 12 comments
-*   Anderson man found after looting truck at boat ramp, police say Published 10/28/2012 at 11:15 p.m. 22 comments
-*   Champion driver from Redding killed in Calistoga race Published 10/28/2012 at 11:30 p.m. 12 comments
-*   Dagg leads effort to build affordable housing Published 10/27/2012 at 10:08 p.m. 34 comments
+*   UPDATED: Transient allegedly beats man after arguing over woman they were texting Published 10/29/2012 at 7:04 a.m. 56 comments
+*   Shasta Lake shooting victim identified Published 10/29/2012 at 4:26 p.m. 19 comments
+*   Shasta Lake homeowner fatally shoots man, but victim's friend is charged in death Published 10/29/2012 at 12:06 a.m. 34 comments
+*   Bob Williams: The two Americas and two Romneys Published 10/29/2012 at 12:00 a.m. 123 comments
+*   Regina Thomas: Attorney shows no respect for public Published 10/29/2012 at 12:00 a.m. 60 comments
 
-Photo Galleries Enterprise wins the River Bowl AAUW Tour Pierson home From the Hearth Cafe drive-thru
+Photo Galleries AAUW Tour Pierson home Enterprise wins the River Bowl Hurricane Sandy
 
-*   AP poll: Majority harbor prejudice against blacks Published 10/27/2012 at 11:15 a.m. 163 comments
-*   Charles Krauthammer: Obama stoops, doesn't conquer Published 10/26/2012 at 12:00 a.m. 163 comments
-*   Alex Landi: Obama creates own 'October surprise' Published 10/27/2012 at 12:00 a.m. 154 comments
-*   Editorial: Glib state of denial is wrong answer on climate change Published 10/27/2012 at 12:00 a.m. 91 comments
-*   UPDATED: Man shot dead in Shasta Lake. victim's friend brought on shooting by homeowner, det. says Published 10/28/2012 at 12:00 a.m. 72 comments
+*   AP poll: Majority harbor prejudice against blacks Updated // at : 164 comments
+*   Alex Landi: Obama creates own 'October surprise' Updated // at : 152 comments
+*   Bob Williams: The two Americas and two Romneys Updated // at : 123 comments
+*   UPDATED: Man shot dead in Shasta Lake. victim's friend brought on shooting by homeowner, det. says Updated 10/28/2012 at 2:54 p.m. 81 comments
+*   Editorial: Glib state of denial is wrong answer on climate change Updated // at : 90 comments
 
-*   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 23 comments
-*   Tehama fair devotes day to goat education Published 10/21/2012 at 11:30 p.m. 8 comments
-*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 113 comments
-*   Utah man found with more than 100 lbs. of pot in Trinity County, deputies say Published 10/22/2012 at 5:43 p.m. 41 comments
-*   Shop's owner invites staff to experience hearing problems for a day Published 10/22/2012 at 11:36 p.m. 13 comments
+*   Shark falls from the sky on to a golf course Updated // at : 23 comments
+*   Tehama fair devotes day to goat education Updated // at : 8 comments
+*   As early jail releases continue, property crimes are on the rise Updated // at : 113 comments
+*   Utah man found with more than 100 lbs. of pot in Trinity County, deputies say Updated // at : 41 comments
+*   UPDATED: Police catch Redding man they say was breaking into cars Updated 10/29/2012 at 7:09 a.m. 25 comments
 
 Weather
 
@@ -296,25 +296,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 53° Fair Wind: Calm Today 77° 52° Mon 05:00 PM Mostly Cloudy Temp: 76° Tue 05:00 AM Mostly Clear Temp: 52° Tue 05:00 PM Mostly Cloudy Temp: 75°
+Currently 52° Fair Wind: Calm Today 76° 50° Tue 05:00 PM Partly Sunny Temp: 74° Wed 05:00 AM Mostly Clear Temp: 52° Wed 05:00 PM Mostly Cloudy Showers Temp: 66°
 
-Feels Like: 76°
+Feels Like: 74°
 
-Humidity: 39%
+Humidity: 42%
 
-Precip: 1%
+Precip: 2%
 
 Feels Like: 52°
 
-Humidity: 83%
+Humidity: 80%
 
-Precip: 4%
+Precip: 0%
 
-Feels Like: 75°
+Feels Like: 66°
 
-Humidity: 39%
+Humidity: 54%
 
-Precip: 4%
+Precip: 31%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -330,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Monday Oct 29
 *   Tuesday Oct 30
 *   Wednesday Oct 31
+*   Thursday Nov 1
 *   More BROWSE Icon
-
-*   Free classes for seniors Senior Citizens Hall
-*   Zumba Classes Teen Center 6 p.m.
-*   Redding Chess Club See Description 5 p.m.
-*   Redding Duplicate Bridge Club meetings Senior Citizens Hall noon
-*   Raja Yoga Classes Center for Spiritual Living 7 p.m.
-
-More Events »
 
 *   North Valley Art League annual Autumn Juried Small Painting Show Carter House Art Gallery 11 a.m.
 *   Trails and Bikeways Council monthly meeting Redding Library 6 p.m.
@@ -359,13 +351,21 @@ More Events »
 
 More Events »
 
+*   United Bikers of Northern California and Safeway Presents 2012 Food Drive See Description 9 a.m.
+*   Little Explorers: Forest Animals Turtle Bay Exploration Park 10 a.m.
+*   Little Explorers: Forest Animals Turtle Bay Exploration Park 10 a.m.
+*   Adopt a Senior Pet Month See Description 2 p.m.
+*   Art House Movies Redding Library 2 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Prepbeat.com
+*   Boy Scouts of America: Trail of Betrayal
     
-    Get the most current news on north state high school sports.
+    Investigation on the case files
     
     20 Under 40
     
@@ -373,7 +373,7 @@ More Events » Features
     
     Fantasy Fountain
     
-    The community painting project starts October 19th! Have you registered yet?
+    The community painting project ends November 3rd! Have you registered yet?
     
 *   The results are in!
     
