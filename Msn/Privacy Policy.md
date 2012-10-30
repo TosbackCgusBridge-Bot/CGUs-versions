@@ -1,5 +1,5 @@
 Klicken Sie hier, um Silverlight herunterzuladen Deutschland Ändern | Alle Microsoft-Sites Suche:  
-Onlinedatenschutzbestimmungen von Microsoft Ergänzende Informationen zum Datenschutz • Bing • CRM Online • Messenger • Microsoft Advertising • Microsoft Bewerber • Microsoft Tag Reader • MSN • Office.com • Supportdienste • Windows Live • Windows Live ID • Windows Marketplace • WindowsMedia.com • Xbox LIVE, Games for Windows LIVE und Xbox.com • Zune Verwandte Links • FTC-Datenschutzinitiativen • PC-Sicherheit für Zuhause • Silverlight-Datenschutzbestimmungen • Vertrauenswürdiges Computing
+Onlinedatenschutzbestimmungen von Microsoft Ergänzende Informationen zum Datenschutz • Bing • Messenger • Microsoft Advertising • Microsoft Bewerber • Microsoft Tag Reader • MSN • Office.com • Supportdienste • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, Games for Windows LIVE und Xbox.com • Zune Verwandte Links • FTC-Datenschutzinitiativen • PC-Sicherheit für Zuhause • Silverlight-Datenschutzbestimmungen • Vertrauenswürdiges Computing
 
 (Letzte Aktualisierung: April 12)  
 Auszüge aus den Datenschutzbestimmungen anzeigen
