@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Ad watch: Romney takes on auto...**  
+    *   **Four Pinocchios for Romney’s Jeep...**  
         Election 2012 | Rachel Weiner
     
-    *   **Romney cherry-picking economic...**  
+    *   **Mitt Romney’s misleading ad on...**  
         The Fact Checker | Glenn Kessler
     
-    *   **Treating Colin Powell as ‘the black...**  
-        She The People | Mary C. Curtis
+    *   **The war for women in Missouri’s...**  
+        She The People | Diana Reese
     
-    *   **Hurricane Sandy freezes 2012 race...**  
-        The Fix | Chris Cillizza and Aaron Blake
+    *   **Seven takeaways from the Pew poll**  
+        The Fix | Chris Cillizza and Sean Sullivan
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,13 +46,13 @@
     
     Featured Blogs
     
-    *   **Frankenstorm Sandy**  
+    *   **Random House Penguin**  
         ComPost | Alexandra Petri
     
-    *   **Sunday Open Thread**  
-        The Plum Line | Greg Sargent
+    *   **Happy Hour Roundup**  
+        The Plum Line | Jonathan Bernstein
     
-    *   **The Post’s Obama endorsement and...**  
+    *   **PostScript: Samuelson and polls**  
         PostPartisan | Rachel Manteuffel
     
     *   **Morning Bits**  
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Sandy ready...**  
-        Capital Weather Gang | Dan Stillman
+    *   **D.C. area forecast: Sandy lingers...**  
+        Capital Weather Gang | Matt Rogers
     
-    *   **Hurricane Sandy closings and cancellations...**  
+    *   **Hurricane Sandy: what’s open, what’s...**  
         Going Out Gurus | Alex Baldinger
     
-    *   **Man sought in sexual assault, stabbing**  
+    *   **Woman sexually assaulted downtown**  
         Crime Scene | Peter Hermann
     
-    *   **Kaine, Allen: Yank yard signs before...**  
-        Virginia Politics | Laura Vozzella
+    *   **Allen, Kaine off the campaign trail**  
+        Virginia Politics |
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -100,13 +100,13 @@
     *   **NHL cancels games through Nov....**  
         Capitals Insider | Katie Carrera
     
-    *   **DeAngelo Hall’s meltdown, in images**  
+    *   **John Riggins and ‘Loosen Up, Sandy’**  
         DC Sports Bog | Dan Steinberg
     
-    *   **Chris Cooley held without a catch...**  
-        The Insider | Mark Maske
+    *   **NFL considering penalties against...**  
+        The Insider | Mark Maske and Mike Jones
     
-    *   **Adam LaRoche, Nationals still talking...**  
+    *   **Adam LaRoche, Ian Desmond named...**  
         Nationals Journal | Adam Kilgore
 *   National In National
     
@@ -126,7 +126,7 @@
     *   **Oak Ridge and NVIDIA unveil Titan**  
         Ideas@Innovations | Emi Kolawole
     
-    *   **Work-life balance is a men’s issue...**  
+    *   **A Giant win for teams over superstars**  
         PostLeadership | Jena McGregor
     
     *   **Farrakhan inspires Bowie crowd**  
@@ -145,17 +145,17 @@
     
     Blogs &. Columns
     
-    *   **Pogrom Punk: The Greek neo-Nazi...**  
+    *   **Why would Israel bomb Sudan? Theories...**  
         WorldViews | Max Fisher
     
-    *   **A brief ethnic history of China**  
+    *   **The ‘Lucifer effect’ theory of...**  
         WorldViews | Max Fisher
     
-    *   **Japan ranks 101st globally for...**  
+    *   **‘It is misery’: A video of Haiti’s...**  
         WorldViews | Max Fisher
     
-    *   **Peter Moore, former hostage in...**  
-        WorldViews | Olga Khazan
+    *   **The scary global implications of...**  
+        WorldViews | Max Fisher
 *   Business In Business
     
     *   Economy
@@ -173,14 +173,14 @@
     *   **Grad school, a leg up — in debt**  
         The Color of Money | Michelle Singletary
     
-    *   **Pandora takes a serious hit after...**  
+    *   **Carriers brace for Sandy #thecircuit**  
         Post Tech | Hayley Tsukayama
     
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **How the fiscal cliff would affect...**  
-        Wonkblog | Suzy Khimm
+    *   **Studies: Casinos bring jobs, but...**  
+        Wonkblog | Dylan Matthews
 *   Tech In Technology
     
     *   Policy
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Surface tablet, Windows 8 go on...**  
+    *   **Microsoft adds features to Windows...**  
         Hayley Tsukayama
     
-    *   **Pandora takes a serious hit after...**  
+    *   **Carriers brace for Sandy #thecircuit**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **GF lager and pale ale a toast for...**  
-        All We Can Eat | Greg Kitsock
+    *   **Feeding the poor during Hurricane...**  
+        All We Can Eat | Tim Carman
     
-    *   **Fashion-forward Halloween costumes**  
-        The Style Blog | Cara Kelly
+    *   **Horse Mask Guy gains fame**  
+        The Style Blog | David Malitz
     
-    *   **The Krim family horror defies our...**  
+    *   **When to stop trick-or-treating?**  
         On Parenting | Janice D'Arcy
     
-    *   **Jon Huntsman’s daughters off campaign...**  
+    *   **Japan’s ambassador Ichiro Fujisaki...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,13 +240,13 @@
     *   **A “Tempest” in an opera house**  
         Classical Beat | Anne Midgette
     
-    *   **‘The Walking Dead’: Hello, Governor**  
-        Celebritology 2.0 | Jen Chaney’
+    *   **‘Arrested Development’ photo released**  
+        Celebritology 2.0 | Jen Chaney
     
-    *   **President Obama fields questions...**  
+    *   **David Letterman plays to no crowd**  
         The TV Column | Lisa de Moraes
     
-    *   **Disney’s ‘Wreck-It Ralph’:**  
+    *   **Bob Ross’s Google Canvas:**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -266,11 +266,11 @@
 
 In the News
 
-*   Hurricane Sandy
-*   D.C. area closures
+*   Sandy
 *   Latest forecast
-*   World Series
-*   Gary Glitter
+*   Power outages
+*   HMS Bounty
+*   Levi Johnston weds
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -321,102 +321,98 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Hurricane Sandy: latest news Hurricane Sandy causes evacuations, closings throughout East Coast
+At least 16 dead after Sandy devastates New Jersey, swamps Lower Manhattan
 
-Ashley Halsey III 
+Fredrick Kunkle 
 
-Hurricane Sandy and Washington, D.C.: Detailed storm timeline, maps, and frequent questions
+Sandy: Live updates from The Post Hurricane Sandy: latest news The president who seems not to care
 
-Jason Samenow 
+Richard Cohen 
 
-Tsunami warnings issued after magnitude 7.7 earthquake strikes off coast of western Canada
+Romney would pass the buck on disasters
+
+Eugene Robinson 
+
+Sandy continues to wallop the D.C. area well into the night. even worse elsewhere
+
+Dan Stillman 
+
+HMS Bounty: A tall ship’s final hours in hurricane-ravaged seas
+
+Ian Shapira 
+
+D.C. area forecast: Sandy lingers today, then gradual improvement
+
+Matt Rogers 
+
+Stories of how East Coast residents weathered, recorded, stood in awe of superstorm Sandy
+
+Associated Press 
+
+Obama’s discrediting victory
+
+Michael Gerson 
+
+How to use Twitter when you lose Internet access
+
+T.J. Ortenzi 
+
+At least 50 houses destroyed by fire in flooded coastal area of NYC. 198 firefighters on scene
 
 Associated Press 
 
-A fiercer forecast for Hurricane Sandy’s effects on Washington, D.C.
+The D.C. area braces for Sandy
 
-Jason Samenow 
+Editorial Board 
 
-Tidal flooding from ‘superstorm’ closes causeway on Virginia’s Chincoteague Island
+The real story of the (likely) Republican Senate disaster
 
-Associated Press 
-
-World Series 2012: San Francisco Giants complete their overlooked run to greatness
-
-Thomas Boswell 
-
-At the end of the trail with Plouffe on Obama's ‘48-hour fly-around campaign marathon extravaganza’
-
-Jason Horowitz 
-
-World Series MVP Sandoval makes clutch play with glove to limit damage from Cabrera’s HR
-
-Associated Press 
+Jonathan Bernstein 
 
 Hurricane Sandy causes closings, cancellations around D.C. region
 
 Washington Post Staff 
 
-Pollsters’ moment of truth
+Obama, Romney respond to Hurricane Sandy, as it upends campaign plans
 
-Robert J. Samuelson 
+Jerry Markon 
 
-D.C. area forecast: Sandy ready to power slam the nation’s capital. downed trees, dangerous travel and power outages imminent
+The rise of hate in the age of Obama
 
-Dan Stillman 
+Jonathan Capehart 
 
-Hurricane Sandy grounds thousands of flights, airlines prepare to cancel all NY-area flights
+Hurricane Sandy highlights how Obama and Romney respond to disasters
 
-Associated Press 
+Ed O'Keefe 
 
-The Weather Channel tone turns ominous for hurricane, its collision course with other systems
+Dana Milbank: A perfect political storm
 
-Associated Press 
+Dana Milbank 
 
-Obama’s independent problem
+Carolyn Hax: A bigger issue behind a long drive to the airport
 
-Chris Cillizza 
-
-Rocket fire from Gaza draws Israeli airstrike, threatening fragile cease-fire
-
-Associated Press 
-
-Police question story of 3 abducted kids
-
-Martin Weil 
-
-Obama struggles to balance African Americans’ hopes with country’s as a whole
-
-Peter Wallsten 
-
-The heartland election
-
-E.J. Dionne Jr. 
-
-Case of blonde girl beggar rescued from streets strikes nerve in Mexico. activists see racism
-
-Associated Press 
+Carolyn Hax 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Hurricane Sandy: latest news
-    2.  Hurricane Sandy causes evacuations, closings throughout East Coast
-    3.  Sandy and Washington, D.C.: detailed storm timeline and maps
-    4.  Tsunami warnings issued after magnitude 7.7 earthquake strikes off coast of western Canada
-    5.  A fiercer forecast for Hurricane Sandy's effects on Washington, D.C.
+    1.  At least 16 dead after Sandy devastates New Jersey, swamps Lower Manhattan
+    2.  Sandy: Live updates from The Post
+    3.  Hurricane Sandy: latest news
+    4.  The president who seems not to care
+    5.  Romney would pass the buck on disasters
 *   Top Videos
-    1.  Hurricane Sandy could cause flooding, power outages in D.C. region
-    2.  Mitt Romney's promise of big changes
-    3.  'The Obama haircut'
-    4.  Daily Tracking Poll: Voting for Mitt, rather than against Obama
-    5.  Gov. Christie on superstorm: Stay inside
+    1.  Amateur video of Hurricane Sandy from Va. to Maine
+    2.  Rogue wave takes out camera in Ocean City, Md.
+    3.  Raw: New York Power Station Explosion
+    4.  Chris Christie blames Mayor Langford for stranded people in Atlantic City
+    5.  Coast Guard rescues passengers off of HMS Bounty
 *   Top Galleries
-    1.  Mid-Atlantic braces for Hurricane Sandy
-    2.  Hurricane Sandy
-    3.  The ghost towns of northern Chile
-    4.  Newspaper endorsements for president: Romney or Obama?
-    5.  Redskins lose to Steelers, 27-12
+    1.  Sandy pushes ashore
+    2.  Sandy swamps New York
+    3.  Hurricane Sandy
+    4.  From 'Paranormal Activity 4' to 'Nosferatu,' a look at the scariest movies of all time
+    5.  Instagram photos of Sandy
 
 Today's Paper
 
@@ -426,13 +422,13 @@ Today's Paper
 
 Live Discussions
 
-Why the Post endorses President Obama for re-election
+Dr Gridlock: D.C. traffic and commuting during Hurricane Sandy
 
-Live Q&A, 11:30 a.m. ET
+Live Q&A, 12 p.m. ET
 
-Fred Hiatt discusses why the Post chose to endorse Obama for another four years in office.
+Live chat with Dr. Gridlock about traffic issues in the DMV, and how Hurricane Sandy could affect your travel.
 
-**11:00 AM** **Ask Boswell: Redskins, Caps, Nationals and more** **12:00 PM** **Dr. Gridlock** **12:00 PM** **Advice from Slate's 'Dear Prudence'** **12:00 PM** **Colorism in the black community** **2:00 PM** **Talk about Travel**
+**11:00 AM** **ComPost Live with Alexandra Petri** **12:00 PM** **POSTPONED: Chatological Humor: Monthly with Moron**
 
 **Weekly schedule, past shows**
 
