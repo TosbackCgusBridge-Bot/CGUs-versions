@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-New! Explore our litigation and advocacy for government transparency: https://www.eff.org/issues/transparency #opengov
+A parade of horribles: a case argued in the Supreme Court today may decide if you can sell what you already own https://eff.org/r.a8pG
 
-Oct 26 @ 4:07pm
+Oct 29 @ 4:14pm
 
-Japan was the first country to ratify #ACTA. Will they join #TPP next? https://eff.org/r.a7p9 #著作権
+Luxury brands can't seize emails, violating electronic privacy for millions worldwide, in a trademark dispute: https://eff.org/r.a7pF
 
-Oct 26 @ 2:12pm
+Oct 29 @ 1:55pm
 
 *   Twitter
 *   Facebook
