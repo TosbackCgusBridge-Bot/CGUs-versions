@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-What Tumblr can tell us about the future of media
+When disaster strikes: There’s no app for that
 
 Stay on top of tech news in your inbox
 
