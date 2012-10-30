@@ -243,8 +243,6 @@ Welcome Imagine it, create it, share it. Learn more Upload Upload from your comp
     
     Baby &. Kids' Decor
     
-    Kidlandia Poster
-    
     Growth Chart
     
     Repositionable Poster
