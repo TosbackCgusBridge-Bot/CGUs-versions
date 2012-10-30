@@ -63,13 +63,13 @@ Go Squidoo THIS LENS »
 
 Close Home » Squidoo Community » Official SquidTeam Lenses » Official Lensmaking Tips Getting Started With Squidoo (The official overview, FAQ and TOS)
 
-*   4477 Like
+*   4485 Like
 
-*   Like 4477
+*   Like 4485
 
 *   Pin It
 
-**Ranked #18,226** in **Squidoo Community**, #1,707,651 overall | Donates to Rhodesian Ridgeback Rescue of NorCal
+**Ranked #18,228** in **Squidoo Community**, #1,708,507 overall | Donates to Rhodesian Ridgeback Rescue of NorCal
 
 Terms of Service What's Squidoo? Squidoo is the free (yes, free), simple tool that makes it easy for you to publish your interests online. (You could even earn a royalty for yourself or for charity). From authors and astronauts to marketers and musicians, to cat lovers and seahorse keepers and quiltmakers and video gamers and teachers and... well, everyone... anyone with something to say, share, promote and recommend is welcome on Squidoo. All you need to do is agree to the below Terms of Service, which, as you'll see, generally cover: 1) Our Zero Tolerance policy about Spamming and 2) An easy list of Do's and Don'ts and 3) Your usual legalese jibberjabber.  
   
@@ -162,7 +162,7 @@ When becoming a Lensmaster, you have the ability to turn ON a feature called "co
   
 The Lensmaster, and not Squidoo, will be fully responsible for all Content that is uploaded, posted, transmitted or otherwise made available by the Lensmaster on his or her Lens. Squidoo cannot guarantee the accuracy, integrity or quality of such Content. Squidoo does not pre-screen Content, but will have the right (but not the obligation) in its sole discretion to refuse or remove any Content in a Lens for any reason, including Content that may violate these Terms, or that is otherwise objectionable. Squidoo also cannot take responsibility for anything that your surfers may do in reliance on the Content you post in your Lens. Bottom line: put it on your Lens, you're responsible.  
   
-Squidoo provides pre-built modules that make it easy for you to find and add links to various sites. However, just because we provide these modules does not mean we are responsible for their accuracy. The Lensmaster is still responsible for what links he or she elects to put in his or her Lens. 5. About royalties As a co-op, Squidoo distributes 50% of its earnings to lensmasters who create successful pages on the site. By registering for Squidoo as a lensmaster, you are appointing Squidoo as your agent to handle all Service transactions.  
+Squidoo provides pre-built modules that make it easy for you to find and add links to various sites. However, just because we provide these modules does not mean we are responsible for their accuracy. The Lensmaster is still responsible for what links he or she elects to put in his or her Lens. 5. About royalties As a co-op, Squidoo distributes 50% of its earnings from lenses to lensmasters who create successful pages on the site. By registering for Squidoo as a lensmaster, you are appointing Squidoo as your agent to handle all Service transactions. Revenue from Postcards is not shared.  
   
 Many of our lensmasters earmark their earnings for charity, and the Squidteam also makes donations to worthy causes throughout the year. So far, Squidoo has generated more than $500,000.00 to charities around the world, including Acumen Fund, charity: water, Room to Read, the Juvenile Diabetes Research Foundation and literally hundreds of others. We hope you'll join us in creating positive change in the world.  
   
@@ -231,7 +231,7 @@ SquidU
 
 WHEW! You made it. You read the whole Squidoo Terms of Service. Please let us know how we can do better. And thanks!
 
-*   4477 Like
+*   4485 Like
 
 by SquidTeam
 
