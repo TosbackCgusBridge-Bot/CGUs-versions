@@ -28,7 +28,7 @@ What's the Best Halloween Costume for You?
 *   Fashion Videos
 *   Get Fashion Advice
 
-Cute Winter Coats
+Who Wore It Better?
 
 *   Virtual Makeover Tool
 *   Hair Ideas
@@ -101,14 +101,14 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     17 Minutes With Bridgit Mendler
 *   fashion
     
-    Sarah Hyland: Style Savvy Trendsetter
+    Who Wore It Better?
 *   love
     
     Gift Ideas for Your Boyfriend!
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win waterless shampoo and conditioner from Suave. Type in the Freebie Phrase of the Day, found in the October Issue!
+**1 Winner!** Enter for a chance to win shampoo and conditioner for dyed hair. Type in the Freebie Phrase of the Day, found in the October Issue!
 
  enter now 
 
@@ -131,8 +131,8 @@ Most Popular Celebs
 
 *   Demi Lovato
 *   Justin Bieber
-*   Selena Gomez
 *   Miley Cyrus
+*   Selena Gomez
 
 More Celebs
 
