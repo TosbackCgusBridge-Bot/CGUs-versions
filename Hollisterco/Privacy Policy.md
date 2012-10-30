@@ -4,7 +4,7 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Last Day! 25% Off Purchase + $5 Shipping! Code:35525
+\[hol-HomepageTopBannerEMS\] Secret Hollister Sale - All Hoodies Up to 40% off!
 
 *   Shop Dudes
 
@@ -37,7 +37,7 @@ Go to the Hollister Co. home page.
     *   Ordering Online
     *   Shipping &. Handling
     *   Returns &. Exchanges
-    *   Track an Order
+    
     *   Gift Cards &. Merchandise Credit
     *   Gift Card Balance
 *   Privacy &. Terms
@@ -221,7 +221,7 @@ New Albany, Ohio 43054 USA
     *   Ordering Online
     *   Shipping &. Handling
     *   Returns &. Exchanges
-    *   Track an Order
+    
     *   Gift Card Balance
     *   My Info
 *   Privacy &. Terms
