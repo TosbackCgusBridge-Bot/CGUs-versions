@@ -148,13 +148,13 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    It's Not News, It's ... FARK
+    Fark Logo - Decal
 *     
-    Good Fortune Chopsticks
+    Penguin Plush
 *     
-    Geeks Do It With Gadgets
+    Logical Positiv-Its Sticky Notes
 *     
-    Bar Tools
+    Mustang (Red/White Stripes) Wireless Road Mice
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
@@ -163,34 +163,34 @@ Stories from our partner sites:
 Mother Boo Boo's Hideous Chins  
 This Gallery Will Freak You Out!  
 Sleight of Hand WIN \[VIDEO\]  
-Nailed It! Cheap Halloween Costumes  
+Nexus 4 found in bar, Then Google go...  
 More news at Scribol »  
   
   
-Cameron Diaz &. Amy Adams Stun In Yell...  
-Christina Aguilera Dresses Down In Ri...  
-Jennifer Love Hewitt Rocks A Sexy Red...  
-Nickelodeon Star Victoria Justice Wow...  
-More news at Starpulse »  
-  
-  
+23 Horrible Ideas for Sexy Halloween...  
+7 Creepy Urban Legends That Happen to...  
+5 Modern Horror Scenes Ripped Out of...  
 If The Other Side Had Won  
-7 Insane Moments in the World's Most...  
-The 6 Most Spectacular Low Points of...  
-The 6 Creepiest Glitches in Famous Vi...  
 More news at Cracked »  
   
   
-We Show It ALL  
-Meet Derek, The Abstinence Clown  
-Real Ghosts  
-Scary Little Babies  
-More news at truTV »  
+Sandy Wreaks Havoc All Along Coast  
+School Kicks Out Boy for Having Cysti...  
+Preacher Blames Sandy on Gays and Obama  
+Pub Owner Hides Body to Keep Police Away  
+More news at Newser »  
+  
+  
+Top 5 Best-Selling iPad Games -- X-List  
+Sons Of Anarchy Creator Kurt Sutter T...  
+ZombiU Multiplayer Details Revealed  
+Mustang Customizer To Launch On Xbox...  
+More news at G4TV »  
   
 
 Also on Fark
 
-Main Marketer of "Sassy Squaw" Halloween costume had no idea that anyone might find it offensive ( upi.com ) » (62 comments) Sports Andy Reid may be thinking about sending Michael Vick to a nice farm somewhere upstate where he can run freely and frolic in the fields ( delawareonline.com ) » (6 comments) Business Marketer of "Sassy Squaw" Halloween costume had no idea that anyone might find it offensive ( upi.com ) » (62 comments) Geek Supreme court case might kill sales of used books, CD's, and grey-market electronics. On the plus side, it might end those annoying overstock.com commercials ( arstechnica.com ) » (8 comments) Entertainment Hollywood's oldest star gets a facelift ( thesun.co.uk ) » (3 comments) Politics Romney in CNN debate: Get rid of FEMA, let states handle disasters. Romney campaign now that there's a major emergency: We need to make sure states "have the resources and assistance they need" ( huffingtonpost.com ) » (227 comments) Video Everybody was Kung food fighting (language Not safe for work) ( youtube.com ) » (7 comments) FarkUs Musician wanted to collaborate with lyricist. I'm a pretty good lyricist, not at all a musician. Have collaborated with musicians before. Influences: Paul Simon, Roger Waters, Counting Crows ( fark.com ) » (4 comments)
+Main Fark's favorite mascot is ready for Halloween. The Sun is there ( thesun.co.uk ) » (11 comments) Sports Cheap Throat, the diary of a locked-out NHLer, day 41: Rock climbing, the Tits brothers, John Tortorella in Star Wars, and throwing Gary Bettman over Niagara Falls ( thebarnstormer.com ) » (34 comments) Business "Siri, who should I fire for the Apple Maps mess?" ( huffingtonpost.com ) » (31 comments) Geek Scientists say a flattened 1,800-mile-wide section of the moon was likely caused by a collision with an asteroid the size of Austria. CRIKEY ( upi.com ) » (49 comments) Entertainment Octomom checks into rehab for pill addiction. Obviously it wasn't birth control pills she was addicted to ( tmz.com ) » (9 comments) Politics Bill Clinton stood in for President Obama on the campaign trail Monday as Hurricane Sandy kept Obama occupied. Hey, can we keep Obama occupied for the next four years and let Bill back in the Oval Office? ( upi.com ) » (14 comments) Video World's other luckiest driver. He walks away from this. Not a repeat from last month ( dailymail.co.uk ) » (33 comments) FarkUs Who will win the battle for NFC West supremacy. the San Francisco 49ers or the Arizona Cardinals? Find out on Monday Night Football, 8:30 PM on ESPN ( espn.go.com ) » (557 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main Marketer of "Sassy Squaw" Halloween costume had no idea that anyone might f
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 29 2012 08:00:55  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 30 2012 08:00:32  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
