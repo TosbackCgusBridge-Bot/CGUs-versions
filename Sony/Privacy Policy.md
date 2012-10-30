@@ -5,105 +5,125 @@ Menu
 Search
 
 *   Electronics
-    *   Cameras and Camcorders
-        *   Digital Cameras
-            *   Shop and Compare
+    *   Computers &. Tablets
+        *   Laptops
+            *   Shop &. Compare
             *   Accessories
             *   Support &. Drivers
-        *   NEX and DSLR Cameras
-            *   Shop and Compare
+        *   Desktops
+            *   Shop &. Compare
             *   Accessories
-            *   Support &. Drivers
-        *   Video Cameras &. Camcorders
-            *   Shop and Compare
-            *   Accessories
-            *   Support &. Drivers
-        *   Creative Software
-    *   Computers and Tablets
-        *   Laptops &. Desktops
-            *   Shop and Compare
             *   Support &. Drivers
         *   Tablets
-            *   Shop and Compare
+            *   Shop &. Compare
+            *   Accessories
             *   Support &. Drivers
         *   eReaders
             *   Shop &. Compare
             *   Accessories
             *   Support &. Drivers
-            *   eBook Store
-        *   Premium PC Services
-        *   Software &. Media
-        *   Accessories &. Peripherals
-    *   TV and Home Entertainment
-        *   Televisions
-            *   Shop and Compare
+            *   Reader Store
+    *   Cameras &. Camcorders
+        *   Cyber-shot Cameras
+            *   Shop &. Compare
+            *   Accessories
+            *   Support &. Drivers
+        *   Alpha NEX Cameras
+            *   Shop &. Compare
+            *   Accessories
+            *   Support &. Drivers
+        *   Alpha DSLR Cameras
+            *   Shop &. Compare
+            *   Accessories
+            *   Support &. Drivers
+        *   Video Cameras &. Camcorders
+            *   Shop &. Compare
+            *   Accessories
+            *   Support &. Drivers
+    *   TV &. Home Video
+        *   Sony HDTVs
+            *   Shop &. Compare
             *   Accessories
             *   Support &. Drivers
         *   Home Theater Systems
-            *   Shop and Compare
+            *   Shop &. Compare
             *   Accessories
             *   Support &. Drivers
-        *   Blu-ray Disc &. DVD Players
-            *   Shop and Compare
-            *   Movies on Blu-ray Disc &. DVD
+        *   Blu-ray &. DVD Players
+            *   Shop &. Compare
+            *   Movies
             *   Support &. Drivers
-        *   PlayStation Systems &. Games
-            *   PlayStation 3
-            *   PSP
-            *   PS Vita
-            *   PlayStation Games
-            *   Accessories
-        *   Stereos &. Speakers
-            *   Shop and Compare
+        *   Internet Player with Google TV
+            *   Shop &. Compare
+            *   Support &. Drivers
+    *   Home Audio
+        *   Home Theater Systems
+            *   Shop &. Compare
             *   Accessories
             *   Support &. Drivers
-    *   Personal Audio and Phones
-        *   Personal Audio
-            *   Headphones
+        *   ES Premium Home Theater
+            *   Shop &. Compare
+            *   Accessories
+            *   Support &. Drivers
+        *   Stereo Components &. Speakers
+            *   Shop &. Compare
+            *   Accessories
+            *   Support &. Drivers
+        *   Shelf Systems
+            *   Shop &. Compare
+            *   Accessories
+            *   Support &. Drivers
+        *   Headphones &. Earbuds
+            *   Shop &. Compare
+            *   Support &. Drivers
+        *   iPod/iPhone Docking Stations
+            *   Shop &. Compare
+    *   Personal Audio
+        *   Audio &. Headphones
+            *   Headphones &. Earbuds
             *   MP3 Players
-            *   Sony &. iPod Docking Stations
-            *   Boomboxes &. CD Players
-            *   Clocks and Radios
-            *   Recorders and Microphones
+            *   iPod/iPhone Docking Stations
+            *   Clocks, Radios &. Baby Monitors
+            *   CD Players &. Boomboxes
+            *   Voice Recorders &. Microphones
             *   Accessories
             *   Support &. Drivers
-        *   Car and Marine Audio
-            *   In-Dash GPS Navigation
-            *   Car Audio
+        *   Car &. Marine Audio
+            *   In-Dash A/V Receivers
+            *   Car Stereo Speakers &. Receivers
             *   Marine Audio
-            *   Accessories
             *   Support &. Drivers
-        *   Mobile Phones
-            *   Mobile Phones
-            *   Mobile Phone Accessories
-            *   Support &. Drivers
+    *   Mobile Phones
+        *   Android Smartphones
+        *   Unlocked Android Phones
+        *   Prepaid Service Plans
+        *   Accessories
+        *   Support &. Drivers
     *   Sony Rewards &. Sony Card
         *   Join Sony Rewards
         *   Member Login
-        *   Discover Sony Rewards
+        *   Program Details
         *   Sony Card
-    *   Consumer Services
-        *   Weekly Deals
-        *   Outlet Store
-        *   Gift Card
-        *   Education Store
-        *   Store Locations
+    *   Product Services
         *   Setup &. Support Services
-            *   Premium PC Services
+            *   PC Setup, Installation &. Repair
+            *   TV &. Home Theater Installation
             *   Extended Service Plans
-            *   Installation Services
+            *   Trade-in &. Recyling
             *   Sony Financing
-    *   For Professionals
+        *   Entertainment Services
+            *   Music
+            *   Video
+            *   Games
+        *   Photo &. Video Services
+            *   Creative Software
+            *   PlayMemories
+        *   Gift Cards
+        *   Store Locations
+    *   Professionals &. Educators
         *   Broadcast &. Business Solutions
-            *   Cameras—Broadcast &. Production
-            *   Cameras—Industrial &. Professional
-            *   Monitors &. Displays
-            *   Pro Audio
-            *   Projectors
-            *   Security Systems
-            *   See All Products
         *   Small Business Store
-        *   Pro Service &. Support
+        *   Education Store
 *   PlayStation
     *   PlayStation 3
         *   Overview
@@ -208,7 +228,7 @@ Search
     *   PlayStation
     *   Sony Online Entertainment
     *   Sony Entertainment Network
-    *   eBook Store
+    *   Reader Store
 
 *   Facebook
 *   Twitter
