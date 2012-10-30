@@ -60,9 +60,9 @@ Need Help?
 *   Get Online Support
 *   Contact Us
 
-Coverage
+LTE FAQ
 
-Get Alaska's largest statewide coverage! »
+Answers »
 
 *   Services
     *   Packages
