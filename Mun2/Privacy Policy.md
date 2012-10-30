@@ -23,7 +23,25 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 29 03:00 AM · MORNING BREATH coming up next: see full schedule >>.
+schedule right now: October 30 04:00 AM · MORNING BREATH coming up next:
+
+*   5:00 AM · MORNING BREATH
+*   6:00 AM · SMB
+*   8:00 AM · MORNING BREATH
+*   9:30 AM · OPERACION REPO
+*   10:00 AM · CINE CLASICO Y COOL: CAPULINA VS LOS MONSTRUOS
+*   12:00 PM · L'CREME
+*   1:00 PM · AL CIEN 100%
+*   2:00 PM · L'CREME
+*   3:00 PM · mun2 PRESENTS: ALEJANDRO SANZ
+*   4:00 PM · mun2 CINCO
+*   4:30 PM · L'CREME
+*   5:30 PM · DUB LATINO
+*   6:00 PM · 12 CORAZONES
+*   7:00 PM · OPERACION REPO
+*   7:30 PM · OPERACION REPO
+
+see full schedule >>.
 
 *   search
 *   login
