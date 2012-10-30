@@ -23,9 +23,9 @@ More Decorating &. Ideas Kitchens &. Entertaining
 
 More Kitchens &. Entertaining Photo Galleries
 
+*   Cocktail Hour
+*   Happy Living Rooms
 *   Designer Family Rooms
-*   Designer Libraries
-*   10 Cozy Fireplaces
 
 More Photo Galleries Shopping &. Gifts
 
@@ -36,8 +36,8 @@ More Photo Galleries Shopping &. Gifts
 More Shopping &. Gifts Most Popular
 
 *   Beautiful Bedrooms
+*   101 Decorating Secrets
 *   Fabulous Living Rooms
-*   Designer Kitchens
 
 More Most Popular What's New
 
