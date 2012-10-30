@@ -25,11 +25,7 @@ Sign In Sign Up
 *   Libya: The Truth?
 *   Campaign 2012
 
-Take Action
-
-Northeast Braces for Sandy…Partial NYC Evacuations Ordered…Prediction: 10 Million Could Lose Power
-
-About TheBlaze
+Take Action About TheBlaze
 
 **THEBLAZE.Com LLC – PRIVACY POLICY**
 
@@ -237,11 +233,11 @@ Editorial Staff
     Assistant Editor  
     Email
 
-*   Israel
+*   Military
 *   Business
 *   Jobs
-*   Military
-*   Economy
+*   Israel
+*   Crime
 
 What is this? Sections
 
