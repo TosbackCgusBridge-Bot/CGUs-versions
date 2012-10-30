@@ -28,7 +28,7 @@ Stay Connected close
 
 *   Departments
 *   LocalAd
-*   Deals
+*   Deals Center
 *   Parts &. Services
 *   Gifts
 *   Gift Cards
@@ -307,15 +307,6 @@ Away from the next level $ Qualified spending in 2012 $.00 Membership #
 *   Terms of Use
 
 Contact Us Website Feedback
-
-*   Deals of the Day
-*   Appliance Deals
-*   Electronics Deals
-*   Marketplace Deals
-*   Free Shipping
-*   Email Specials
-*   Clearance
-*   Deals Center
 
 *   Gifts
 *   Gift Cards
