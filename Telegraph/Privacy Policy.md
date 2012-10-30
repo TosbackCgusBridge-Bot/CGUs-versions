@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Monday 29 October 2012
+Tuesday 30 October 2012
 
 *   Home
 *   News
@@ -138,17 +138,17 @@ In About us
 
 Editor's Choice »
 
-The queens of Washington  
+Christians are now persecuted throughout the world  
 
-Should the Democrat party be exploiting its two greatest assets, asks **Zoe Brennan**.
+The latest bombing in Nigeria shows how Christians are increasingly suffering for their faith, says **Rupert Shortt**
 
 Comments
 
-Colin Powell: I don't regret a thing Deadlock in America: single slip may be fatal Rugby: don't expect too much of England Top Gear: best and worst Bond cars Advertisement
+Jeremy Bowen: 'A lot of my friends are dead’ The last word in humour and honesty... Clattenburg row must not drag on The internet has made shops obsolete Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
-FREE PRIZE DRAW TO WIN £1,000   Share with us your favourite place in the world and win £1,000 View Telegraph for iPad free trial   Try The Telegraph for iPad free for 30 days View DUNHILL TRAVEL DEALS   Most competitive travel deals and vacation packages View World News   The latest news on the US presidential election View
+PARENTS' EDUCATION GUIDE   Win a Dell Inspiron 14z Ultrabook View ENDSLEIGH UNIVERSITY ADVICE   Don't get caught out: get student insurance to protect your devices View GALICIA   Last chance: enter to win a four-night holiday to Galicia View DIAGEO SINGLETON   Win dinner and overnight stay in at the Hix Belgravia, London View
 
 Back to top
 
