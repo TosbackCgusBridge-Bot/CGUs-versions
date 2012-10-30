@@ -34,6 +34,7 @@ To search for a player use one of two formats:
 
 COLUMNS
 
+*   Giant Celebration Oct 29
 *   Kung Fu Pandamonium Oct 25
 *   Giant Performance Oct 22
 *   Cards Ahead On Carpenter Bomb Oct 18
@@ -41,7 +42,6 @@ COLUMNS
 *   NLCS: Cardinals vs. Giants Oct 14
 *   ALCS: Tigers vs. Yankees Oct 13
 *   Ibanez Saves Yankees Oct 11
-*   Sabathia Silences O's Oct 8
 
 PREMIUM CONTENT
 
@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Olney: Dodgers willing to trade Andre Ethier
+*   Phillies decline Placido Polanco's option
+*   Angels exploring trades for Haren, Santana
+*   Athletics decline '13 option on Stephen Drew
+*   A's exercise option on closer Grant Balfour
+*   Yankees pick up options on Granderson, Cano
+*   Ryu Hyun-Jin preparing to sign with MLB team
+*   Phillies exercise $5M option on Carlos Ruiz
 *   'Kung Fu Panda' named MVP of World Series
 *   Scutaro leads Giants to World Series sweep
 *   Giants shut down Tigers again, take Game 3
 *   Nats, LaRoche make progress in contract talks
-*   Verlander won't start Game 4 on short rest
-*   Bumgarner rebounds, gives San Fran 2-0 lead
-*   Brewers considering making bid on Hamilton
-*   Move to pen for Lincecum likelier than trade
-*   Wright, Dickey talks remain in early stages
-*   CC Sabathia undergoes minor elbow surgery
-*   Otani free to sign at any time with MLB team
-*   Rivera 'having second thoughts' about return
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Vick's Last Stand? Oct 30
+*   Best Available NFL Free Agents Oct 30
+*   Matchup: 49ers @ Cardinals Oct 29
 *   Stafford's Critics Stifled Oct 29
 *   Sunday Injuries: Dez and Dwyer Oct 29
 *   Week 8 Live Blog Oct 28
 *   Week 8 Rankings Oct 28
 *   Matchups: Return of the Mac Oct 27
-*   Week 8 Injury Questions Oct 27
-*   Week 8 Starts and Sits Oct 27
-*   Best Available NFL Free Agents Oct 27
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Manning surgical as Broncos dump Saints
-*   Dwyer downplays injury. could remain starter?
-*   NFL execs believe Blount available for trade
-*   DeAngelo's days with Panthers are numbered?
-*   DeMarco Murray has a chance to play Week 9
-*   Crennel isn't sure why Charles got five totes
-*   Witten makes team record 18 catches in loss
-*   Romo's four picks mar 437-yard afternoon
-*   Megatron: Sore knee a factor versus Seahawks
-*   Schwartz: Leshoure sat because Bell was hot
-*   McFadden totals 137 yards as Raiders roll KC
-*   Saints TE Graham officially active for SNF
+*   Report: 'No action right now' on S-Jax trade
+*   Cards, Fitz flounder in fourth straight loss
+*   Smith nearly perfect as 49ers rout Cardinals
+*   Tannehill's MRI reveals no structural damage
+*   No quarterback change in Philadelphia -- yet
+*   Report: One contender interested in DeAngelo
+*   Munchak: Locker has fracture in left shoulder
+*   Report: Reid wanted to bench Vick last season
+*   Jones-Drew already ruled out for Week 9
+*   NFL pushes back trade deadline to Thursday
+*   Report: Titans TE Jared Cook seeking trade
+*   Rex Ryan still standing behind Mark Sanchez
 
 NBA PAGES
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Deron Williams (ankle) looks fine in practice
-*   Jeff Teague (ankle) still iffy to play Friday
-*   Eric Gordon (knee) practices fully on Sunday
-*   Kobe Bryant (foot) still iffy for opener
-*   Kyrie Irving (mouth) expects to play Tuesday
-*   James Harden will sign extension w/ Rockets
-*   Kevin Martin now a member of the Thunder
-*   Mo Williams (groin) back at Jazz practice
-*   Wesley Matthews is not practicing on Saturday
-*   Lamar Odom (foot) uncertain for Clips' opener
-*   Tyson Chandler (knee) expects to play Nov. 1
-*   Beasley explodes for 29 and 10 vs. Nuggets
+*   Amare (knee) could miss up to eight weeks
+*   Howard (back) says he's not yet 100 percent
+*   Kobe figuring out if foot injury can worsen
+*   Danilo Gallinari day-to-day w/ sprained ankle
+*   Andrew Bogut (ankle) practices fully on Mon.
+*   Warriors name Harrison Barnes starting SF
+*   Eric Gordon (knee) could return to bench role
+*   Alonzo Gee to open season as starting SF
+*   Cavs name Waiters, Gee and Thompson starters
+*   Manu Ginobili (back) won't play in opener
+*   George Hill (hip) on track for season opener
+*   Kosta Koufos, not JaVale McGee, to start at C
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Marcus Johansson signs with Karlskoga
+*   Jannik Hansen signs with Tappara of SM-Liiga
+*   Report: Winter Classic may be canceled Thurs.
+*   Dan Ellis shines in AHL, wins POTW honor
+*   Marc-Andre Fleury is considering Europe
+*   Andrei Markov (ribs) may return to Montreal
+*   Craig Smith returning to North America
+*   Ryan Suter retracts comments about owner
 *   Vaclav Prospal signs on in Czech Republic
 *   Lars Eller to play with JYP in Finnish League
 *   Blake Wheeler opts to play in Germany
 *   Jack Johnson questions owners' "honor"
-*   Braden Holtby shuts out the AHL Albany Devils
-*   Lockout might end Jagr, Selanne's careers
-*   Anders Lindback joins Finnish Ilves Tampere
-*   Travis Zajac will look to play in Europe
-*   Semyon Varlamov shines in KHL game
-*   Lundqvist not ready to play in Sweden yet
-*   D Andy Sutton may have played his final game
-*   Ryan Nugent-Hopkins takes stick in mouth
 
 NASCAR PAGES
 
@@ -285,6 +285,9 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Garcia eyes return at European Tour finale
+*   Donald will not defend at the season finale
+*   Schwartzel withdraws from WGC-HSBC Champions
 *   Bolli wins Web.com Tour Champ.. 25 graduate
 *   Hanson takes the BMW Masters by one stroke
 *   Watney parlays course-record 61 into CIMB win
@@ -294,9 +297,6 @@ FANTASY GOLF NEWS
 *   No surprise, Patrick Reed medals at Q School
 *   Matteson spins bogey-free 63 to lead the CIMB
 *   Els (ankle) 'will be fine' for the WGC-HSBC
-*   Henley picks up second Web.com win in playoff
-*   Gainey teases 59. breaks through at McGladrey
-*   Van Pelt cruises to a two-stroke win in Perth
 
 NFL DRAFT PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   General Patton Oct 29
 *   Senior Prospect Rankings Oct 27
 *   Week Nine Matchup Preview Oct 26
 *   Dysert For Dinner Oct 24
@@ -318,7 +319,6 @@ COLUMNS
 *   Senior Surprise: RB Gillislee Oct 22
 *   Week Eight Matchup Preview Oct 19
 *   The Forgotten One Oct 17
-*   Kenny Vaccaro: Spread Stopper Oct 15
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Spurrier confident Lattimore won't go to NFL
+*   Report: Cody Vaz will start vs Arizona State
+*   Weis: Jayhawks' Sims is the best RB in Big 12
+*   Cyclones LB Knott out for season (shoulder)
+*   Pauline: Illini DE Buchanan's stock tumbling
+*   Bulls RB Lamar out for season (collarbone)
+*   No breaks for Lattimore, many ligament injs
+*   Logan Thomas plans to return for 2013 season
+*   Terps final QB Rowe tears ACL, out for year
+*   Jarvis Jones has 3 sacks, 2 FFs vs Gators
 *   Toppers' Quanterus Smith gets 5 sacks vs FIU
 *   Badgers starting QB Stave out for season
-*   Sooners WR Saunders catches 15 passes vs ND
-*   Beavs' Mannion throws four INT in return loss
-*   Marqise Lee goes off for 345 receiving yards
-*   Zac Dysert throws for 311 yards, TD in upset
-*   Jawan Jamison goes for 172 total yards, 1 TD
-*   Jordan sidelined with possible shoulder inj
-*   Badgers QB Joel Stave heads to locker room
-*   Gio Bernard runs around and through NC State
-*   Glennon throws for 467 yards, 5 TDs, 2 INTs
-*   Tyler Bray completes 27-of-43, 368 yds, 4 TDs
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   MLB:Scutaro leads Giants to World Series sweep
-*   NFL:Manning surgical as Broncos dump Saints
-*   NFL:Dwyer downplays injury. could remain starter?
-*   NFL:NFL execs believe Blount available for trade
-*   NFL:DeAngelo's days with Panthers are numbered?
-*   NFL:DeMarco Murray has a chance to play Week 9
-*   NFL:Crennel isn't sure why Charles got five totes
-*   NFL:Witten makes team record 18 catches in loss
-*   NFL:Romo's four picks mar 437-yard afternoon
-*   NFL:Megatron: Sore knee a factor versus Seahawks
-*   NFL:Schwartz: Leshoure sat because Bell was hot
-*   MLB:'Kung Fu Panda' named MVP of World Series
+*   NBA:Kobe figuring out if foot injury can worsen
+*   NBA:Amare (knee) could miss up to eight weeks
+*   NFL:Report: 'No action right now' on S-Jax trade
+*   NFL:Cards, Fitz flounder in fourth straight loss
+*   NFL:Smith nearly perfect as 49ers rout Cardinals
+*   MLB:Olney: Dodgers willing to trade Andre Ethier
+*   NFL:Tannehill's MRI reveals no structural damage
+*   NFL:No quarterback change in Philadelphia -- yet
+*   NFL:Report: One contender interested in DeAngelo
+*   MLB:Angels exploring trades for Haren, Santana
+*   NFL:Munchak: Locker has fracture in left shoulder
+*   NBA:Howard (back) says he's not yet 100 percent
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. BrownNFL (7581)
-*   2J. GrahamNFL (7579)
-*   3T. RichardsonNFL (7495)
-*   4F. JonesNFL (7392)
-*   5J. StewartNFL (7068)
+*   1D. RoseNBA (7252)
+*   2J. GrahamNFL (7093)
+*   3D. BrownNFL (7069)
+*   4J. WallNBA (6916)
+*   5R. RubioNBA (6760)
 
-*   6J. DwyerNFL (6827)
-*   7D. RoseNBA (6642)
-*   8A. BradshawNFL (6633)
-*   9D. AmendolaNFL (6489)
-*   10M. Jones-DrewNFL (6443)
+*   6F. JonesNFL (6688)
+*   7B. MullensNBA (6644)
+*   8J. DwyerNFL (6620)
+*   9T. RichardsonNFL (6599)
+*   10J. StewartNFL (6528)
 
   
 Video Center
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines Stafford's Critics Stifled  
-Oct 29 Matthew Stafford turned things around, but which other players stood out for better or worse? Chet Gresham recaps the Week 8 action.  
+  Headlines Vick's Last Stand?  
+Oct 30 Patrick Daugherty breaks down the Michael Vick saga while checking in on Larry Fitzgerald and Ryan Tannehill in Tuesday's Dose.  
   
 More NFL Columns
 
+*   »Vick's Last Stand? Oct 30
+*   »Best Available NFL Free Agents Oct 30
+*   »Matchup: 49ers @ Cardinals Oct 29
 *   »Stafford's Critics Stifled Oct 29
 *   »Sunday Injuries: Dez and Dwyer Oct 29
 *   »Week 8 Live Blog Oct 28
 *   »Week 8 Rankings Oct 28
 *   »Matchups: Return of the Mac Oct 27
-*   »Week 8 Injury Questions Oct 27
-*   »Week 8 Starts and Sits Oct 27
-*   »Best Available NFL Free Agents Oct 27
 
 NFL Headlines
 
-*   »Manning surgical as Broncos dump Saints
-*   »Dwyer downplays injury. could remain starter?
-*   »NFL execs believe Blount available for trade
-*   »DeAngelo's days with Panthers are numbered?
-*   »DeMarco Murray has a chance to play Week 9
-*   »Crennel isn't sure why Charles got five totes
-*   »Witten makes team record 18 catches in loss
-*   »Romo's four picks mar 437-yard afternoon
-*   »Megatron: Sore knee a factor versus Seahawks
-*   »Schwartz: Leshoure sat because Bell was hot
-*   »McFadden totals 137 yards as Raiders roll KC
-*   »Saints TE Graham officially active for SNF
+*   »Report: 'No action right now' on S-Jax trade
+*   »Cards, Fitz flounder in fourth straight loss
+*   »Smith nearly perfect as 49ers rout Cardinals
+*   »Tannehill's MRI reveals no structural damage
+*   »No quarterback change in Philadelphia -- yet
+*   »Report: One contender interested in DeAngelo
+*   »Munchak: Locker has fracture in left shoulder
+*   »Report: Reid wanted to bench Vick last season
+*   »Jones-Drew already ruled out for Week 9
+*   »NFL pushes back trade deadline to Thursday
+*   »Report: Titans TE Jared Cook seeking trade
+*   »Rex Ryan still standing behind Mark Sanchez
 
 NFL Links
 
