@@ -1,5 +1,5 @@
   
-Users Online Now: **2,486** (Who's On?) Visitors Today: **339,925** Pageviews Today: **684,077** Threads Today: **308** Posts Today: **4,131** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **2,191** (Who's On?) Visitors Today: **347,752** Pageviews Today: **716,644** Threads Today: **318** Posts Today: **3,930** 08:14 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,10 @@ trinity@godlikeproductions.com
   
 News
 
+*   Most U.S. Drones Openly Broadcast Secret Video Feeds
+*   Mass extinction study provides lessons for modern world
+*   Scientists in sleep-wake tests decode dreams
+*   Curiosity on Mars sits on rocks similar to those found in marshes in Mexico
 *   10 brands that will disappear in 2013
 *   NY Gov Shuts Down Mass Transit
 *   Frankie McDonalds Report On Hurricane Sandy
@@ -133,10 +137,6 @@ News
 *   Voters say they voted for the wrong candidate????
 *   UN Seeking Global Internet Surveillance for Terror, Propaganda
 *   Mom Convicted of Disorderly Conduct for Arguing with TSA
-*   Boeing Tests A Missile That Knocks Out A Building's Power \[Video\]
-*   Malaria study challenges warmer world predictions
-*   A new take on the Midas touch: Changing the colour of gold
-*   PlayStation 3 hack is decryption jolt for Sony
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.018s (0 queries)
+Page generated in 0.015s (0 queries)
