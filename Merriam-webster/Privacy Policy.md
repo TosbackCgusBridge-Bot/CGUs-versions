@@ -135,26 +135,41 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 If you have any questions or concerns, please send an e-mail to privacy@m-w.com.
 
-1.  The Merriam-Webster Unabridged Dictionary Online access to a legendary resource  
+1.  The Merriam-Webster  
+    Unabridged Dictionary
+    
+    Online access to a legendary resource  
     Log In or Sign Up »
-2.  Learning English? We can help. Visit our free site designed especially for learners and teachers of English LearnersDictionary.com »
+    
+2.  Learning English?  
+    We can help.
+    
+    Visit our free site designed especially for learners and teachers of English LearnersDictionary.com »
+    
 3.  Our Dictionary,  
-    On Your Devices Merriam-Webster,  
-    _With Voice Search_Get the Free Apps! »
-4.  Visit Our Store
-    1.  Mugs
-    2.  T-Shirts
-    3.  Baby &. Toddler
-    4.  Pet Bowls
-    5.  Totes
-    6.  &. More
+    On Your Devices
+    
+    Merriam-Webster,  
+    _With Voice Search_  
+    Get the Free Apps! »
+    
+4.  Merriam-Webster's  
+    Visual Dictionary
+    
+    The new edition of the remarkable reference features 8,000  
+    illustrations.  
+    Learn More »
+    
 
 1.  Join Us
     1.  Merriam-Webster  
         on Twitter »
     2.  Merriam-Webster  
         on Facebook »
-2.  Bookstore: Digital and Print Merriam-Webster references for Mobile, Kindle, print, and more. See all »
+2.  Bookstore: Digital and Print
+    
+    Merriam-Webster references for Mobile, Kindle, print, and more. See all »
+    
 3.  Other Merriam-Webster Dictionaries
     
     1.  Webster's Unabridged Dictionary »
