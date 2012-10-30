@@ -823,8 +823,6 @@ Y*   Books + Media
             *   Children's
         *   Play Sets
         *   Stuffed Animals
-        *   open Games + Puzzles
-            *   Family Games
     *   open Purses + Travel Bags
         *   Handbags, Totes and Wallets
         *   Travel Collection
