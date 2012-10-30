@@ -107,6 +107,7 @@ About Us
 *   Contact Us
 *   Blog
 *   Join Our Team
+*   RSS Feeds
 
 Products
 
