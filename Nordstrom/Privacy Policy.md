@@ -22,8 +22,6 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Our Blog
     *   Party Style Guide
     *   Fall Coat Trend Guide
-    *   Cold-Weather Trends
-    *   Denim You Need Now
     
     *   New Arrivals
     *   Complete Looks
@@ -31,13 +29,14 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Sale
     
     *   Featured Shops
+    *   Topshop
     *   Contemporary
     *   Wardrobe Staples
     *   Cashmere
     
+    *   Nordstrom Gift Cards
     *   Gift Cards
-    *   Traditional Gift Cards
-    *   Virtual Gift Cards
+    *   e-Gift Cards
     
     *   Clothing
     *   Dresses
@@ -125,9 +124,9 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Surf &. Skate
     *   Tuxedos &. Formalwear
     
+    *   Nordstrom Gift Cards
     *   Gift Cards
-    *   Traditional Gift Cards
-    *   Virtual Gift Cards
+    *   e-Gift Cards
     
     *   Clothing
     *   Suits &. Sportcoats
@@ -203,9 +202,9 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Under $30
     *   Sale
     
+    *   Nordstrom Gift Cards
     *   Gift Cards
-    *   Traditional Gift Cards
-    *   Virtual Gift Cards
+    *   e-Gift Cards
     
     *   Clothing
     *   Coats
@@ -269,7 +268,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Jeans
     *   Sparkle &. Shine
     *   Sports Fan Gear
-    *   Weddings
+    *   Wedding
     
     *   Girls
     *   Complete Looks
@@ -379,30 +378,33 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Holiday Decor
     *   Bed &. Bath
     *   Home Decor &. Entertaining
-    *   Gifts
+    
+    *   Topshop Topman
+    *   Designer Collections
     *   The Wedding Suite
     
+    *   Gifts for All Occasions
+    
+    *   Nordstrom Gift Cards
     *   Gift Cards
-    *   Traditional Gift Cards
-    *   Virtual Gift Cards
-*   Topshop Topman
+    *   e-Gift Cards
+*   Gifts
+    *   Shop by Recipient
+    *   Gifts for Her
+    *   Gifts for Him
+    *   Gifts for Juniors
+    *   Gifts for Kids
     
-    *   Style Watch
-    *   Topshop Topman Zine
+    *   Nordstrom Gift Cards
+    *   Gift Cards
+    *   e-Gift Cards
+    *   Check Your Gift Card Balance
     
-    *   Topshop
-    *   All Topshop
-    *   New Arrivals
-    *   Women's Clothing
-    *   Shoes &. Accessories
-    *   Style Steals
-    
-    *   Topman
-    *   All Topman
-    *   New Arrivals
-    *   Men's Clothing
-    *   Men's Accessories
-    *   Men's Complete Looks
+    *   More to Explore
+    *   Services
+    *   Store Locations &. Hours
+    *   Wish List
+    *   Shipping
 
 Nordstrom Customer Privacy Policy
 
