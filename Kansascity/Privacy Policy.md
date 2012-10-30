@@ -134,25 +134,31 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $59 Value: Discount: You Save: $300 80% $241
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $55 for exam, cleaning, upper bleaching, 4 Bitewing X-rays. $255 value. Plus $1000 towards Invisalign! Thomas L. Anderson DDS $55 Value: Discount: You Save: $255 78% $200
 
-Monday: Target Deals
+Tuesday: Top Deals
 
-1.  Apartment Maintenance Helper
+1.  On the Border – Head to their Facebook page to get a coupon for free queso and sopapillas.  The coupon is good through September 13th.
+2.  Garnier Fructis – Request a free sample of Garnier Fructis Fall Flight courtesy of Target.
+3.  Biore – Sign up to see if you qualify to get 3 free sample sent to you.
+
+1.  CAMPAIGN JOBS
     
-2.  OPERATING MANAGER
+    Grassroots Campaigns, Inc.
+    
+2.  Apartment Maintenance Tech Part Time
+    
+    Georgetown Apartments
     
 3.  SEASONAL DRIVERS
     
     Kelly Services
     
-4.  SALES
+4.  OPERATING MANAGER
     
 5.  SALES
     
-6.  SENIOR PIPE DESIGNER
-    
-    THOMAS RUSSELL CO.
+6.  PROGRAM DIRECTOR
     
 
 View More The Most
@@ -160,16 +166,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Sam Mellinger | Chiefs have hit rock bottom
-*   Raiders wreck Chiefs. Cassel in for injured Quinn
-*   Raiders’ Mitchell: I’d like to play every game at Arrowhead
-*   K-State moves up to No. 2 in BCS
-*   Traffic lights dumped for stop signs in KC has many seeing red
-*   Chiefs notebook: No time to dwell on loss with game Thursday
-*   Raiders shut down Chiefs running game
-*   Too many mistakes plague Chiefs again
-*   Blair Kerkhoff | College football poised for final four run
-*   Tannehill injured in Miami Dolphins' win over New York Jets
+*   Storm packs a wallop on U.S. economy
+*   Kansas teen sentenced for killing classmate
+*   New players take spotlight in MU’s exhibition win over Northwest Missouri State
+*   Crennel says Raiders 'loaded up' against run
+*   Sam Mellinger | Chiefs have hit rock bottom (poll)
+*   Emporia State student missing from fall-break trip to Germany
+*   Quinn misses Monday practice. Crennel hopeful he can start at San Diego
+*   Dolphins: Injured QB's status is iffy
+*   Letters | Social Security, misleading voters, Mitt Romney
+*   Second Nevada, Mo., diner dies of crash injuries
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
