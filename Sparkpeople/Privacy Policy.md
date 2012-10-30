@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Folate Foods Resources
+*   Neck Isometrics Resources
 
   
-Stay in Touch With SparkPeople **Squeezing in Exercise**
+Stay in Touch With SparkPeople **Arm Yourself Against Exercise Excuses**
 
-Don't let the holiday hustle and bustle get in the way of your workouts. Here are some ideas to help fit in small bouts of fitness in small bits of time.
+Do you wage a battle with yourself every day, knowing you need to exercise but finding reasons not to? Find out how you can arm yourself to win once and for all.
 
 Read More
 
-*   Do you have a goal after weight loss?
-*   How do you maintain your exercise long-term?
-*   Who Motivates you on Sparkpeople?
 *   What does it mean to eat healthy?
-*   Specific Tips to get through the Weekend
+*   How do you maintain your exercise long-term?
+*   Describe the last time you felt proud of yourself.
+*   Why the scale isn't a good indicator of health.
+*   "New to me" foods
 
-View Demo **Lying Hip &. Glute Hug**  
-**A Slimmer Slice: Fresh Tomato &. Chicken Pizza**  
-Submitted By: **FITNESSMAGAZINE**
+View Demo **Lunges with Cable Cross Machine**  
+An interesting way to add weights to your lunges **Carrot-Cranberry Salad**  
+Submitted By: **CHEF\_MEG**
 
-This low-cal pizza recipe gives you the ooey-gooey taste you love -- without the fat. From Fitness Magazine Full Recipe
+Kid prepared and approved! I am always looking for a salad that my kids can make and then devour. This is a winner for kids and moms. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
