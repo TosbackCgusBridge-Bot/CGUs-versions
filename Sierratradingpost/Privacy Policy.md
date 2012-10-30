@@ -358,7 +358,7 @@ We cannot ship certain materials to California and outside the U.S. including: E
 
 Exclusive Email Only Specials!
 
-Copyright 2012, Sierra Trading Post, Inc. All rights reserved. Customers have saved a total of $106,603.00 today! That's an average savings of 60%! Get $10 for each friend you refer and Give them a $10 gift!
+Copyright 2012, Sierra Trading Post, Inc. All rights reserved. Customers have saved a total of $75,276.00 today! That's an average savings of 59%! Get $10 for each friend you refer and Give them a $10 gift!
 
 *   1.800.713.4534
 *   Live Chat
@@ -497,32 +497,32 @@ Copyright 2012, Sierra Trading Post, Inc. All rights reserved. Customers have sa
         *   On Sale Now
         *   Clearance
 *   Top Brands
-    *   *   Acorn
-        *   Asics
+    *   *   Asics
         *   Asolo
-        *   Brooks
+        *   Browning
         *   Carhartt
-        *   Chaco
         *   Columbia Sportswear
-        *   Dansko
+        *   DC Shoes
+        *   Eagle Creek
         *   Earth
-    *   *   Ecco
-        *   ExOfficio
-        *   Gramicci
+        *   Ecco
+    *   *   Hickey Freeman
         *   Keen
-        *   Kelty
-        *   Lowe Alpine
         *   Marmot
         *   Merrell
         *   Mountain Hardwear
-    *   *   New Balance
-        *   prAna
+        *   New Balance
+        *   Oakley
+        *   Rossignol
         *   Saucony
-        *   Teva
+    *   *   SmartWool
+        *   Smith Optics
+        *   Sorel
+        *   Tecnica
+        *   Terramar
         *   The North Face
-        *   Vasque
-        *   White Sierra
+        *   Timberland
         *   Woolrich
         *   See All Brands
 
-SignUp for DealFlyer and get **An Extra 30% OFF Select Items!** Sign Up
+An Extra **20% OFF** orders $75+ Enter Keycode **SITEMORE1012** at Checkout! See Details
