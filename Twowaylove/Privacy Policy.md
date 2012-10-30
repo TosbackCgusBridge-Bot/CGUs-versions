@@ -1,11 +1,15 @@
 TwoWayLove  
 DATING DIRECTORY
 
-*   Home Welcome!
+*   Home
+    
+    Welcome!
     
     Hello and welcome to TwoWayLove! This is a site dedicated to showcasing dating and dating related websites.
     
-    Who is it for? Lovers
+    Who is it for?
+    
+    Lovers
     
     If you are a lover, please search and browse for sites that suit you dating needs, tastes and preferences.
     
@@ -13,7 +17,11 @@ DATING DIRECTORY
     
     If you are a webmaster/owner, you can Add your site to the directory and also Create on-page advertising to enhance your online profile.
     
-*   New sites Most Recent Additions
+*   New sites
+    
+    Most Recent Additions
+    
+     
     
     These pages show the most recently added pages to ToWayLove. You can always find the freshest sites here.
     
@@ -21,7 +29,9 @@ DATING DIRECTORY
     
     Rate and comment on the sites, your comments are welcome, they to help future visitors and also help the website owners make improvements. Your votes count!
     
-*   Top sites Website Ranking
+*   Top sites
+    
+    Website Ranking
     
     The top sites listed on TwoWayLove are ranked and organized into different categories, visit them all.
     
@@ -41,7 +51,11 @@ DATING DIRECTORY
     
     Some websites provide a link back to TwoWayLove. We measure the number of visits to us from those sites, and list them sites sorted by number of hits. See more...
     
-*   Add link/URL Get Noticed! Add Link/URL →
+*   Add link/URL
+    
+    Get Noticed!
+    
+    Add Link/URL →
     
     Adding your dating or dating related website to TwoWayLove will put your site in front of people who are looking for the very thing you offer, additionally increasing your own Search Engine ranking, it really is a win-win.
     
@@ -57,7 +71,11 @@ DATING DIRECTORY
     
     Enhance your on-line profile, put your advertising in front of a very focused audience.
     
-*   All categories Where is it? All Categories →
+*   All categories
+    
+    Where is it?
+    
+    All Categories →
     
     A list of all Categories, including sub-categories, can be found here. The list below shows the main categories.
     
@@ -78,7 +96,11 @@ DATING DIRECTORY
     *   Speciality Dating
     *   Speed Dating
     
-*   Blog and Social Lisa's Blog and Social Activity Lisa's Blog →
+*   Blog and Social
+    
+    Lisa's Blog and Social Activity
+    
+    Lisa's Blog →
     
     Lisa maintains our blog, writing articles for lovers about relationships, dating, dating related issues. and for webmasters, tips on how you can improve your dating or related site and improve its ranking, including SEO/SEM best practices and getting more converting visitors. See more...
     
