@@ -284,16 +284,15 @@ Prev Next
 
 *   Grill Room
 
-*   Tommy Gainey
 *   Tiger Woods
 *   Rory McIlroy
 *   CIMB Asia Pacific Classic
 *   Nick Watney
-*   Martin Kaymer
 *   Lee Westwood
+*   Martin Kaymer
 *   John Daly
+*   Ryder Cup
 *   Ian Poulter
-*   Bo Van Pelt
 
 **Privacy Policy**
 
@@ -534,13 +533,13 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 233,972 facebook.com/GolfChannel 121,093 twitter.com/GolfChannel Newsletter
+Social 234,036 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
 *   Tell a Friend
 
-CIMB Classic The MINES Golf Course (Par/Yardage: 71/6,966), once a wasterland, was a vision of a Malaysian business tycoon that was executed by Robert Trent Jones, Jr. The course opened in 1993. Visit GolfNow to book a tee time near you.
+WGc-HSBC Champions Mission Hills' Olazabal Course was developed by the late David Chu and is considered one of the first golf and tournament facilities in China. Visit GolfNow to book a tee time near you.
 
 *   Partner Pavilion
 *   Press Releases
