@@ -8,15 +8,18 @@ Store Locator
     
     *   Veteran's Day
     *   Christmas
-    *   Wedding
-    *   Anniversary
-    *   Religious Gifts
-    *   New Baby/Baby Shower
+    *   Hanukkah
+    *   Holiday Parties
     *   Birthday for Him
     *   Birthday for Her
+    *   Wedding
+    *   Anniversary
+    *   New Baby/Baby Shower
     *   Housewarming
-    *   Memorial &. Sympathy
     
+    *   Graduation
+    *   Religious Gifts
+    *   Memorial &. Sympathy
     *   New Job
     *   Performance Recognition
     *   Service &. Retirement
@@ -27,7 +30,7 @@ Store Locator
     *   Women's Jewelry
     *   Women's Gifts &. Accessories
     *   Men's Jewelry
-    *   Men's Accessories
+    *   Men's Gifts &. Accessories
     *   Men's Collections
     *   Baby Gifts
     *   Children's Gifts
@@ -51,9 +54,9 @@ Store Locator
     *   Writing &. Padfolios
     *   Stationery
     *   Tech Gifts &. Gadgets
+    *   Executive Gifts
     *   New Arrivals
     *   Exclusive Online Gifts
-    *   Executive Gifts
     *   Top 10 Gifts
     
 
@@ -61,28 +64,28 @@ Store Locator
     
     *   Him
     *   Her
-    *   Husband
-    *   Wife
-    *   The Couple
-    *   Bridesmaid
-    *   Groomsmen
     *   Mom
     *   Dad
     *   The Parents
-    
-    *   Family
-    *   Babies &. Children
     *   Grandma
     *   Grandpa
     *   Grandparents
+    *   Family
+    *   Babies &. Children
+    
+    *   Husband
+    *   Wife
+    *   The Couple
     *   The Hostess
     *   Service Member
-    *   The Boss
-    *   Business Associate
     *   The Graduate
-    
     *   Teacher
     *   Coach
+    *   The Boss
+    *   Business Associate
+    
+    *   Bridesmaid
+    *   Groomsmen
     
 
 *   Him
@@ -137,7 +140,7 @@ Store Locator
     *   Coffee Mugs &. Travel Mugs
     *   Stamps &. Stationery
     *   Pocket Watches &. Wrist Watches
-    *   Recognition Key Chains
+    *   Classic Key Chains
     *   Barware &. Accessories
     *   Recognition Clocks
     *   Tech Gifts &. Gadgets
@@ -161,7 +164,7 @@ Store Locator
     *   Women's Necklaces Sale
     *   Women's Bracelets Sale
     *   Women's Gifts &. Accessories Sale
-    *   Men's Accessories Sale
+    *   Men's Jewelry &. Accessories Sale
     *   Frames &. Albums on Sale
     *   Photo to Canvas Sale
     *   Pens &. Pencils Sale
@@ -315,6 +318,7 @@ Gift Services
 *   Gift Wrap
 *   Business Services
 *   Gift Reminders
+*   Rewards Club
 *   Good Things
 
 Company Information
