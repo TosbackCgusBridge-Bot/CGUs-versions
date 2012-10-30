@@ -4,7 +4,7 @@
 
   GMX Get your free GMX Account Login
 
-Do you need any help? Keep me logged in Main Navigation Mail Home Details Labs Privacy
+Do you need any help? Keep me logged in Main Navigation Mail Home Details Privacy
 
 *   1&1 Mail &. Media Inc. ("GMX") has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website. This Privacy Policy governs the manner in which GMX uses, maintains and discloses information collected from its customers and users of its website.
 *   Children GMX does not knowingly collect personal information from children under 13 for marketing purposes. GMX understands, however, that parents, guardians, or other adults often register our products for family use, including use by minors. Because some information is collected electronically, it may appear to be that of the registered GMX customer, and will be treated as such by this privacy policy. If we learn that that a child under the age of 13 has submitted personal information to GMX we will attempt to delete the information as soon as possible.
@@ -40,4 +40,4 @@ Do you need any help? Keep me logged in Main Navigation Mail Home Details Labs P
 *   Press Room
 *   GMX on Facebook
 
-© 2012 1&1 Mail &. Media Inc. All rights reserved. Portal version: 2.22.2.0 | Branding: gmxcom\[1\] | Server type: EU | Deployment type: LIVE | Host: jport-eu001 | SID: 0CB7E1DDC4C5DFACD0AD6590AEEEA7CB.jport-eu001
+© 2012 1&1 Mail &. Media Inc. All rights reserved. Portal version: 2.23.2.0 | Branding: gmxcom\[1\] | Server type: US | Deployment type: LIVE | Host: jport-us014 | SID: 6CF5E75DB203F65AF568EC76CA18D46F.jport-us014
