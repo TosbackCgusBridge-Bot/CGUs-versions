@@ -23,7 +23,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
             *   10 Recipes We're Loving
             *   8 Cupcake Icing Tips
         *   *   Halloween 66 Halloween Recipes Eat, drink and be scary with our collection of spooky treats.
-            *   Pick Of The Week 10 Recipes We're Loving Find out which recipes have got our tongues wagging this week.
+            *   Weeknight Meals 30 Quick Suppers Delicious dishes to make with store cupboard ingredients.
             *   Andy Bates 86 Andy Bates Recipes All your favourite Andy recipes, plus new dishes from his travels.
         *   ALL RECIPES
 *   TV Shows
@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Fresh Food Fast... UP NEXT › Barefoot Contes...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Fresh Food Fast... UP NEXT › Andy Bates Amer...
 
 *   Channel  
     Guide
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
-*   @laythetable yep! Isn't that the best way to eat chocolate spread anyway? Or is that just us?
-*   @laythetable ouch! We feel your pain!
-*   We're channel 48 @FreeviewTV RT @shloobi: @FoodNetwork\_UK I can't watch your channel on freeview =( has something changed with the channel?
-*   How did the red velvet cupcakes turn out @erinnypops @hannahcottrell?
-*   Love it RT @mayernissim: Amazing chilli chocolate cake baked by the gorgeous @reasons4silence t.co/qcbgmAHH with help @FoodNetwork\_UK
-*   Been watching the new series of Andy Bates American Street Feasts? Want the recipes? You got 'em! t.co/2pyiEb8U
-*   39 smashing pumpkin recipes t.co/DWIJ45uR #halloween
-*   Recipe of the Day: Wild Alaska Salmon and Tomato Halloween Pumpkin Tart t.co/XNkidmPT
-*   Catch up with @GeorgeLambShow hosting World Class: Bartender of the Year from beautiful Rio de Janeiro: t.co/t9TRwUwA
-*   Whether you're watching X Factor, Strictly or celebrating Halloween, we've got the perfect TV dinner for tonight t.co/Eml6nurI
+*   They look awesome! RT @fancynancycakes: Boooooo!!! t.co/Q10KtyIX
+*   Do you hear that @ExquisitelyAbby? RT @erinnypops: @FoodNetwork\_UK they were Abby's...hats off to Abby! 🌟🌟
+*   @erinnypops yay! So glad you enjoyed them! Can you remember if the recipe was Abby or Lotte's?
+*   @shloobi ahhhh. So you just needed to re-tune. Phew. Good to have you back!
+*   Recipe of the Day: Aloo Posto t.co/J7qC8Bh7
+*   @erinnypops Yay! Did you take any snaps of them? We'd love to see them. You can't beat a red velvet.
+*   Now we want one! RT @seasiderclare: @FoodNetwork\_UK @eatmypies I have been drooling over that, and the brownie pie and the Christmas pie.
+*   @seasiderclare it's a dangerous book! Can we recommend @eatmypies Milk Chocolate Tart - it's a personal favourite!
+*   Nice to have you with us! RT @hannahdarlingxo: Tuned in to my fav channel @FoodNetwork\_UK
+*   @seasiderclare Let us know what you try! We'd love to see some pics.
 
 Follow Us
 
