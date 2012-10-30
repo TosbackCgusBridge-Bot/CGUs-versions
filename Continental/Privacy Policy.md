@@ -79,7 +79,7 @@ Sign In | My Account | Contact Us
 
 Hurricane Sandy Advisory
 
-For customers impacted by Hurricane Sandy, United is offering the ability to change your travel plans in advance of any potential disruption. Learn more &gt
+For customers impacted by Hurricane Sandy, United is offering the ability to change your travel plans. Learn more &gt
 
 *   Flight
 *   Hotel
@@ -108,7 +108,7 @@ Not Selected5 Basic Car Types\*EconomyCompactIntermediate/ Mid-SizeStandardFull 
 Discounts, Offers, Safety Seats;  
 Hertz, Budget club members... Where would you like to go?:
 
-Where would you like to go?: Check-in:   Check-out:   I don't have specific dates yet Rooms: 123456789+ Adults (age 18+): 1234 Children (age 0-17): 0123 Hotel Chain: Select hotel chainHiltonHoliday InnMarriottTravelodgeRamadaSheratonBest WesternRenaissanceWestinWyndhamCourtyardFairfieldClarionComfort InnSuper 8Days InnHyatt RegencyCountry InnGrand HyattDoubletreeEmbassy SuitesQuality InnResidence InnFairfield InnHampton InnHoward JohnsonOmniHomewood SuitesHomesteadRed Roof InnAmeriSuitesComfort SuitesWingate InnSleep InnSpringhill SuitesEcono LodgeHawthorn SuitesMicrotel InnExtended StayTownePlace SuitesLa Quinta InnDrury InnMasters InnSierra SuitesAmeriHostBaymont Inns &. SuitesRitz-CarltonAmerica’s Best InnsW HotelWellesley InnStudio 6 Star Rating: Don't limit search results1 star2 stars3 stars4 stars5 stars Search
+Where would you like to go?: Check-in:   Check-out:   I don't have specific dates yet Rooms: 123456789+ Adults (age 18+): 1234 Children (age 0-17): 0123 Hotel Chain: Select hotel chainHiltonHoliday InnMarriottTravelodgeRamadaSheratonBest WesternRenaissanceWestinWyndhamCourtyardFairfieldClarionComfort InnSuper 8Days InnHyatt RegencyCountry InnGrand HyattDoubletreeEmbassy SuitesQuality InnResidence InnFairfield InnHampton InnHoward JohnsonOmniHomewood SuitesHomesteadRed Roof InnAmeriSuitesComfort SuitesWingate InnSleep InnSpringhill SuitesEcono LodgeHawthorn SuitesMicrotel InnExtended StayTownePlace SuitesLa Quinta InnDrury InnMasters InnSierra SuitesAmeriHostBaymont Inns &. SuitesRitz-CarltonAmerica’s Best InnsW HotelWellesley InnStudio 6 Star Rating: Don't limit search results1 star2 stars3 stars4 stars5 stars Search Earn miles with your car rental. Learn More
 
 **Changed bag rules and optional services** Important notices
 
@@ -121,7 +121,7 @@ Confirmation **or** MileagePlus Number:
 **More Check-in options**  
 Check-in is available within 24 hours of departure Flight Number:  
 Departure Date:  
-Sun., Oct. 28Mon., Oct. 29Tue., Oct. 30Wed., Oct. 31 Don't know the flight number? To: City or airport: City or airport:  
+Mon., Oct. 29Tue., Oct. 30Wed., Oct. 31Thu., Nov. 1 Don't know the flight number? To: City or airport: City or airport:  
 Change or View Reservations See More Find a Reservation by Confirmation Number Reservation Type: Flight Car Confirmation:  
 Last Name:  
 MileagePlus Sign In MileagePlus number:  
