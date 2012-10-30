@@ -29,6 +29,7 @@ Skip to: Content, Skip to: Main Content, Skip to: Footer
 
 *   SERVICES
     
+    *   Auto-Reorder
     *   Emergency Services
     *   Grainger Lighting Services
     *   Grainger TripleGuard Repair and Replacement Coverage
@@ -162,4 +163,4 @@ Will Call order online?** **Customer Service, 24/7** ** Questions on ordering, 
 
 *   **Connect With Us**
 
-Home  |   Terms of Access  |  Terms of Sale  |  Return Policy  |  Privacy Policy   (Rev. December, 2011)  |  Sitemap © 1994 - 2012 W.W. Grainger, Inc. All rights reserved. false false 0 false -1958
+Home  |   Terms of Access  |  Terms of Sale  |  Return Policy  |  Privacy Policy   (Rev. December, 2011)  |  Sitemap © 1994 - 2012 W.W. Grainger, Inc. All rights reserved. false false 0 false -3077
