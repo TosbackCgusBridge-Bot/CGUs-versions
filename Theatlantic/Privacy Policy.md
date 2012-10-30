@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Monday, October 29, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Tuesday, October 30, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Monday, October 29, 2012 Go Follow the Atlanti
 *   Magazine
 *   video
 
-If Romney Loses, Blame the GOP Wasting Time Conor Friedersdorf Paul Wellstone's Legacy, 10 Years Later Al Franken A Brief History of Political Halloween Costumes Amanda Green Romney's China Bashing Is 5 Years Late Matthew O'Brien Prisoners of Cable Derek Thompson How Millennials Could Save the Economy Derek Thompson Finally, a Good Way to Rank NFL Quarterbacks Allen Barra Three Infallible World Series Predictions Sports Roundtable The New 'Munsters': Monsters Are Over Now Alyssa Rosenberg Russia's Razvozzhayev Scandal Turns to Crisis Brian Whitmore Ai Wei Wei Interviews the Digital Thought Police Brian Fung Why You Can't Buy Pirated DVDs Anymore Oriana Skylar Mastro Wikipedia Is Nearing Completion, in a Sense Rebecca J. Rosen The Consequences of Machine Intelligence Moshe Y. Vardi 9,000 Megapixels, 84 Million Stars Rebecca J. Rosen Excerpt: Lincoln's Reluctant War David Von Drehle Wild Horse Round-ups: Inhumane and Useless Andrew Cohen Occupy Wounded Knee Emily Chertoff Psychics Call It for Obama James Hamblin The Sex Lives of Conjoined Twins Alice Dreger The Evolutionary Importance of Grandmothers Lindsay Abrams Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Kids Analyze the Election Kasia Cieplak-Mayr von Baldegg How to Teach Yourself Lucid Dreaming Kasia Cieplak-Mayr von Baldegg A Haunting Time-Lapse of Seattle Kasia Cieplak-Mayr von Baldegg Privacy Policy
+The GOP and the Defense of Coerced Mating Garance Franke-Ruta Will Undecided Voters Break for Romney? Robert Wright Romney's Major Economic Speech That Wasn't Molly Ball Romney's China Bashing Is 5 Years Late Matthew O'Brien Prisoners of Cable Derek Thompson How Millennials Could Save the Economy Derek Thompson Finally, a Good Way to Rank NFL Quarterbacks Allen Barra Three Infallible World Series Predictions Sports Roundtable The New 'Munsters': Monsters Are Over Now Alyssa Rosenberg Mo Yan: Frenemy of the Chinese State Nick Frisch Japan Invades China! … at This Theme Park in Shanxi Brian Fung Elections in Ukraine: What Happens to Those 225 Tossup Seats? Robert Coalson What If We Didn't Know Sandy Was Coming? Rebecca J. Rosen The New York Subway Storm Surge Problem Alexis Madrigal The Birth of Hurricane Sandy Megan Garber 'Having It All,' 30 Years Ago vs. Today Deborah Fallows Being Transgendered in the Military Colin Daileda Excerpt: Lincoln's Reluctant War David Von Drehle A Cultural Lesson in Gender Identity Amelia Rachel Hokule’a Borofsky The Benefits of Quitting Smoking Lindsay Abrams 'Virgins Wanted' Richard Gunderman Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Kids Analyze the Election Kasia Cieplak-Mayr von Baldegg How to Teach Yourself Lucid Dreaming Kasia Cieplak-Mayr von Baldegg A Haunting Time-Lapse of Seattle Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,26 +113,26 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Just In Lindsay Abrams 8:09 AM ET Study: Women Who Quit Smoking by Age 40 Avoid 90% of Death Risk 1351512561 Voices
+Just In Eleanor Barkhorn 8:11 AM ET Killing Sexy Halloween: The Ethical and Practical Complications 1351599095 Voices
 
-*   Garance Franke-Ruta Mitt Romney in 2011: 'We Cannot Afford' Federal… 1:15 AM ET
-*   Alexis C. Madrigal The Article That Predicted the New York Subway… Oct 28, 2012
+*   Alexis C. Madrigal InstaSnopes: Sorting the Real Sandy Photos from… Oct 29, 2012
+*   Jeffrey Goldberg Romney's Critique of Obama's Iran Policy Oct 29, 2012
+*   Derek Thompson How Much Will Hurricane Sandy Cost the U.S.… Oct 29, 2012
+*   James Fallows 'Can Women Have It All?' A Longer View Oct 29, 2012
+*   Garance Franke-Ruta Shirtless Jogger in Horsehead Mask Photobombs… Oct 29, 2012
+*   Ta-Nehisi Coates Programming Note Oct 29, 2012
 *   Robert Wright Will Undecided Voters Break Toward Romney? Oct 27, 2012
-*   James Fallows RIP TSWI Oct 27, 2012
 *   Steve Clemons GOP Presidents Have Been the Worst Contributors… Oct 27, 2012
-*   Ta-Nehisi Coates Twilight Of The Elites At MIT Oct 26, 2012
 *   Clive Crook Obama's Mistakes and the Role of Race Oct 25, 2012
-*   Derek Thompson Apple's 'Disappointing' (but Still Pretty… Oct 25, 2012
-*   Jeffrey Goldberg Israel Contemplates a 2-Party System Oct 25, 2012
 
 Correspondents
 
-*   Andrew Cohen Are We Leading Our Wild Horses to Slaughter?
-*   Jack M. Balkin Political Science Says: A Romney Presidency Would Be Doomed
-*   Peter Osnos Ignore the Doomsayers: The Book Industry Is Actually Adapting Well
+*   Andrew Cohen Say Hello to the Ohio Official Who Might Pick the Next President
+*   Peter Osnos Newsweek Might Be Doomed, but Newsweeklies Are Not
+*   James Warren The Economic Indicator That Could Predict the Election Outcome
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Hajj 2012, a Sacred Journey Oct 25, 2012 Video Ominous Green Triangles Invade San Francisco in Matmos's Latest Music Video A Day in the Life of a Fire Lookout The Greatest Recordings in Jazz History Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Hurricane Sandy in Photos Oct 29, 2012 Video Hurricanes of Yore: Vintage Newsreels of Devastating Storms Hurricane Sandy Live on YouTube Hurricane Sandy From Space Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -161,63 +161,63 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Live: Hurricane Sandy Gains Strength  
+*   Developing Flu Shots That Last. Computer-Induced Tourette's  
     
-*   World Series Victory Brings Out Rioters in San Francisco  
+*   A Nailbiter in Massachusetts  
     
-*   Meet the Middle Class British Man Who Will Soon Join China's First Family  
-    
-
-Last Update: 6:48 AM
-
-*   Hurricane Sandy: 10 Million People Could Lose Power  
-    
-*   Please Bring This to America: Heated Bike Lanes  
-    
-*   Best #Cityreads of the Week  
+*   Meet the Hurricane Looters Drudge Is Warning You About  
     
 
-Last Update: 5:10 AM Most Popular
+Last Update: 7:21 PM
+
+*   Hurricane Sandy Is a Category 1 Cyclone, But It Has the Eyewall Of a Category 3  
+    
+*   The 66%: America's Growing Underclass  
+    
+*   It's Not Just the East Coast: Chicago Could See Waves as High as 23 Feet  
+    
+
+Last Update: 8:51 PM Most Popular
 
 1
 
-Why Sandy Has Meteorologists Scared in 4 Images
+InstaSnopes: Sorting the Real Sandy Photos from the Fakes
 
 2
 
-Surmounting the Insurmountable: Wikipedia Is Nearing Completion, in a Sense
+Hurricane Sandy in Photos
 
 3
 
-General Failure
+The Webcams to Watch as Sandy Hits the East Coast
 
 4
 
-The Florida Voters Who Can't Forgive Obama
+Mitt Romney in 2011: 'We Cannot Afford' Federal Disaster Relief
 
 5
 
-The World Is Not Enough: Google and the Future of Augmented Reality
+Say Hello to the Ohio Official Who Might Pick the Next President
 
 6
 
-The Sex Lives of Conjoined Twins
+General Failure
 
 7
 
-Mitt Romney in 2011: 'We Cannot Afford' Federal Disaster Relief
+Wildlife Photographer of the Year 2012
 
 8
 
-David Allen on How to Fix Your Life
+Dark Social: We Have the Whole History of the Web Wrong
 
 9
 
-Why Women Still Can’t Have It All
+Japan Invades China! ... Year-Round, at This Theme Park in Shanxi
 
 10
 
-Prisoners of Cable
+Hacking the President’s DNA
 
 *   Subscribe Help
 *   Faq
