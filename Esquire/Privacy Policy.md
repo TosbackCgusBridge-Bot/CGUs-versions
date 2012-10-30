@@ -23,9 +23,9 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript.
 
-CHECK THESE OUT Women Monday Morning Cheerleader with Heartbroken Cowboys
+CHECK THESE OUT Women Monday Morning Cheerleader with a Cowboys Sideline Expert on the Hail Mary That Wasn't
 
-Because nobody was closer to Dez Bryant's would-be hail mary than this woman. Except maybe the ref, but still.
+Because nobody was closer to Dez Bryant's would-be catch than this woman. Except maybe the ref, but still.
 
 *   Now, a Sexy Redheaded Woman
 
@@ -33,35 +33,35 @@ Because nobody was closer to Dez Bryant's would-be hail mary than this woman. Ex
 
 *   Context-Free Food Wisdom from Taylor Swift
 
-Style What to Wear Next, from Toronto Fashion Week
+Style James Bond's Skyfall Evolution: A Stylish Movie Review
 
-Checking with our leather jacket-obsessed neighbors from the north
+Daniel Craig is suddenly more Steve McQueen than George Lazenby, all packed up with somewhere to go
+
+*   6 Sandy-Proof Raincoats to Buy
+
+*   What to Wear Next, from Toronto Fashion Week
 
 *   The Best Topical Halloween Costumes of 2012
 
-*   10 Pairs of Pants at Any Price
+News &. Politics How _Argo_ Really Beat _Cloud Atlas_ at the Box Office Just Now, Sorta
 
-*   The Fall Accessories You Need Right Now
+Note: All figures are Esquire estimates and not necessarily fact-checked
 
-News &. Politics Charles P. Pierce on the News You Missed Over the Weekend, Romney Endorsement Included
+*   Charles P. Pierce on Hurricane Sandy and the Election
 
-And David Brooks. And a very disgusting mental image concerning Newt Gingrich and John McCain.
+*   Most Ridiculous Line on _Dexter_
 
-*   The Homeland Episode 5 Recap with Alex Berenson
+*   Alex Lemon on Agony and Ecstasy at the World Series
 
-*   Chiarella: How Craig Fugate Has Changed FEMA in Time for Sandy
+Food &. Drink A New Scotch Cocktail to Curl Up with Tonight
 
-*   _Cloud Atlas_ or _Chasing Mavericks_?
+A take on an old-fashioned
 
-Food &. Drink Things to Talk About at the Bar
+*   The World Series Lives on  with Free Taco Day, for the Sandy-less
 
-To Halloween, Doug Fister, Tiger Woods, the triumph of Triumph, and the end of debates, thank God.
+*   Things to Talk About at the Bar
 
 *   Should You Be Drinking These Special Halloween Cocktails?
-
-*   The Rarest Rums in the World  and How to Drink 'Em Up
-
-*   Magical Bartender Advice for Drinking Tonight
 
 Women
 
