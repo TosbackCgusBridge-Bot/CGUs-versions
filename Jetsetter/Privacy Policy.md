@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Martineau Belle Playa - PR
+*   Mondrian Los Angeles
     
-    Starting Today at Noon EDT
-    
-*   Park Hyatt Chicago
-    
-    Starting Today 10/29 at 3pm EDT
-    
-*   An Atlanta Mystery Hotel
-    
-    Starting Today 10/29 at 3pm EDT
-    
-*   Banner Elk - North Carolina
-    
-    Starting Today 10/29 at 3pm EDT
-    
-*   A New Orleans Mystery Hotel
-    
-    Starting Today 10/29 at 3pm EDT
+    Starting Today 10/30 at 3pm EDT
     
 *   Sivory Punta Cana - DR Dominican Republic
     
-    Starting Tuesday 10/30 at 3pm EDT
+    Starting Today 10/30 at 3pm EDT
     
 *   Thompson Toronto
     
-    Starting Tuesday 10/30 at 3pm EDT
+    Starting Today 10/30 at 3pm EDT
     
-*   Mondrian Los Angeles
+*   Hyatt Regency Lake Tahoe
     
-    Starting Tuesday 10/30 at 3pm EDT
+    Starting Today 10/30 at 3pm EDT
+    
+*   Buena Vista Palace - Florida
+    
+    Starting Wednesday 10/31 at 3pm EDT
+    
+*   Hotel Palomar Philadelphia
+    
+    Starting Wednesday 10/31 at 3pm EDT
+    
+*   Boscolo Carlo IV - Prague
+    
+    Starting Wednesday 10/31 at 3pm EDT
+    
+*   Constance Moofushi - Maldives
+    
+    Starting Wednesday 10/31 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
