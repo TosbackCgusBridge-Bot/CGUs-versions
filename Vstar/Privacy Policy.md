@@ -384,7 +384,7 @@ Ventura County Star
 
 *   Special Report
     
-    **Trail of Betrayal**: Systemic failures left Scouts at risk for abuse, records suggest
+    Boy Scouts improve their security, but molesters still find gaps
     
 
 Privacy Policy &. User Agreement
@@ -623,10 +623,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos On Campus: Camarillo Ready for Pacifica Challenge Scorpions prepare for Pacifica
+Videos Celebrating Adolfo Camarillo None
 
-*   On Campus: Camarillo Ready for ... On Campus: Moorpark Marches On Organizer wants 12 million Latino ... Ventura fourth-graders pumped up with ...
-*   Scores of dogs seized from ... On Campus: Bulldogs Bite Back
+*   Celebrating Adolfo Camarillo On Campus: Camarillo Ready for ... On Campus: Moorpark Marches On Organizer wants 12 million Latino ...
+*   Ventura fourth-graders pumped up with ... Scores of dogs seized from ...
 
   
 
@@ -639,25 +639,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Editorial: For president: Barack Obama Published 10/28/2012 at 12:02 a.m. 101 comments
-*   Should the party be private or public? Strickland, Brownley take different paths to lure voters Published 10/27/2012 at 7:27 p.m. 23 comments
-*   O'Reilly: Are anchors rooting for Obama? Published 10/26/2012 at 2:01 p.m. 62 comments
-*   Bomb squad unit finds flares in packet and chemical instead of dynamite, officials say Updated 10/28/2012 at 8:20 p.m.
-*   Editorial: For Congress: Julia Brownley Published 10/27/2012 at 11:47 a.m. 43 comments
+*   Editorial: For president: Barack Obama Published 10/28/2012 at 12:02 a.m. 203 comments
+*   Claim filed against Oxnard over fatal police shooting of bystander Updated 10/29/2012 at 8:04 p.m.
+*   Voters can gain insight by examining Strickland, Brownley's Sacramento records Published 10/28/2012 at 5:02 p.m. 50 comments
+*   Ojai homeowner looking to repair damage left by Edison Updated 10/29/2012 at 4:56 p.m. 11 comments
+*   2 Oxnard teens arrested on weapons violations Updated 10/29/2012 at 4:16 p.m.
 
-Photo Galleries Ventura County's Most Wanted October… Mud run for Thousand Oaks Teen Center Strickland, Brownley meet with voters
+Photo Galleries Mud run for Thousand Oaks Teen Center Ventura County's Most Wanted October… Howl-O-Ween Pooch Parade &. Pet Expo
 
-*   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 108 comments
-*   Editorial: For president: Barack Obama Published 10/28/2012 at 12:02 a.m. 101 comments
+*   Editorial: For president: Barack Obama Published 10/28/2012 at 12:02 a.m. 203 comments
+*   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 109 comments
 *   Morning chat Published 10/26/2012 at 12:00 a.m. 94 comments
-*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 102 comments
-*   O'Reilly: Are anchors rooting for Obama? Published 10/26/2012 at 2:01 p.m. 62 comments
+*   O'Reilly: Are anchors rooting for Obama? Published 10/26/2012 at 2:01 p.m. 67 comments
+*   Voters can gain insight by examining Strickland, Brownley's Sacramento records Published 10/28/2012 at 5:02 p.m. 50 comments
 
-*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 23 comments
-*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 102 comments
-*   Oaks Christian might have broken football recruitment rules – Video Published 10/18/2012 at 2:53 p.m. 0 comments
+*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 24 comments
 *   Longtime Conejo Valley educator Carol Philips dies, 64 Published 10/22/2012 at 9:56 a.m. 0 comments
+*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 102 comments
 *   Local relatives, friends mourn 2 children stabbed to death in nanny case Published 10/26/2012 at 8:25 p.m. 0 comments
+*   Amgen closes deal with financial firm to open new biotech company Published 10/25/2012 at 5:37 p.m. 0 comments
 
 Weather
 
@@ -665,25 +665,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 51° Fair Wind: Calm Today 73° 54° Mon 05:00 PM Sunny Temp: 70° Tue 05:00 AM Mostly Clear Temp: 53° Tue 05:00 PM Sunny Temp: 67°
+Currently 52° Fog Wind: Calm Today 67° 52° Tue 05:00 PM Sunny Temp: 65° Wed 05:00 AM Mostly Clear Temp: 52° Wed 05:00 PM Mostly Sunny Temp: 61°
 
-Feels Like: 70°
+Feels Like: 65°
 
-Humidity: 76%
-
-Precip: 0%
-
-Feels Like: 53°
-
-Humidity: 86%
+Humidity: 68%
 
 Precip: 0%
 
-Feels Like: 67°
+Feels Like: 52°
 
-Humidity: 81%
+Humidity: 100%
 
-Precip: 0%
+Precip: 1%
+
+Feels Like: 61°
+
+Humidity: 77%
+
+Precip: 1%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -707,10 +707,10 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   No surprise in battleground districts. it looks very close
 *   Whopper of a super PAC attack on Brownley
 *   If you can tell a person by who their friends are...
 *   Is Todd Zink a 'radical'?
-*   'Ladies and gentlemen, the former president of the...'
 
 Brian Dennert here
 
@@ -719,8 +719,8 @@ Brian Dennert here
 
 Ingemusings
 
+*   LA Times: Romney electioneers while Obama worries about storm's impact
 *   Poll shows Jesse Jackson Jr. has "whopping" lead
-*   Democrats may still reelect Jesse Jackson, Jr.
 
 More bloggers Wire
 
@@ -729,18 +729,10 @@ More bloggers Wire
 
 Calendar
 
-*   Monday Oct 29
 *   Tuesday Oct 30
 *   Wednesday Oct 31
+*   Thursday Nov 1
 *   More BROWSE Icon
-
-*   Running Biomechanics Presentation Crowne Plaza Beach Hotel, 450 E. Harbor Blvd., Ventura. 6 p.m.
-*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
-*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
-*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
-*   Children's Art Classes SCIART Gallery 3:30 p.m.
-
-More Events »
 
 *   HIPAA Security Rule Compliance: More Important Than Ever Online 10 a.m.
 *   Information Session Starbucks 27748 West Mcbean Pkwy, Valencia, CA 91355 11 a.m.
@@ -758,6 +750,14 @@ More Events »
 
 More Events »
 
+*   Reliable Fundraising in Unreliable Times Ventura County Office of Education - Conference and Educational Services Center 9 a.m.
+*   TASTE Pierpont Inn 5:30 p.m.
+*   First-Time Home Buyers Workshop Camarillo Public Library 6 p.m.
+*   Buddhist Solutions for Teens and Parents Mahakankala Buddhist Center 6:30 p.m.
+*   Anubis Duo in Concert at Thousand Oaks Library Grant R. Brimhall Library 7 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
@@ -766,9 +766,9 @@ More Events » Features
     
     Get prepared for November with candidate profiles and answers to your questions.
     
-    Presidential Donations
+    Measurement of Character
     
-    See who's supporting who and with how much.
+    Survey determines what voters look for. Take it yourself!
     
     Local haunts
     
