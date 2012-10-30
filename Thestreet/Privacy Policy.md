@@ -85,14 +85,14 @@ A NOTE FROM JILL MALANDRINO
 
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
-*   Hurricane Sandy
-*   New York Stock Exchange
-*   NY Subway Service
-*   UBS Layoffs
-*   Hurricane Election Impact
-*   Earnings
+*   Forstall Leaves Apple
+*   Long Island Homes
+*   Stock Market Closed Tuesday
+*   Hurricane Stocks
+*   Flight Cancellations
+*   Baidu
 
-pjava03.dc.thestreet.com Privacy Policy
+pjava08.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -249,13 +249,13 @@ Product Features:
 
 DOW 13,107.21 3.53 0.03% NASDAQ 2,987.95 1.83 0.06% S&P 500 1,411.94 -1.03 -0.07% US 10 Yr 1.750% -0.078 Brokerage Partners Most Commented
 
-*   Star Scientific's 'Flint' Study Flops
 *   'Put the White Back in the White House'?
+*   Star Scientific's 'Flint' Study Flops
 *   Apple: Don't Believe Haters, Hype and Hysteria
-*   Spectrum Pharma: Guessing Q3 Fusilev Sales
+*   Office Will Determine Whether Microsoft Can Beat Apple
 *   10 Worst Cars of All Time
 
-Articles From Newser Educated Americans Have More Debt Woes Florida May Vary Tuition Depending on College Major Nintendo Will Lose Money on Every Wii U Sold See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser UBS Slashing 10K Jobs Marlboro Maker Targets China's Vaccine Market Apple Dumps Map-App Exec See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
