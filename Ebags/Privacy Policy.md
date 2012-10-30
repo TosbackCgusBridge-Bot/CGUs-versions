@@ -370,9 +370,9 @@ Cart: 0 items
     
     Incipio
     
-    Lowepro
+    Lifeproof
     
-    Otterbox
+    Lowepro
     
     rooCase
     
@@ -556,7 +556,7 @@ Greenwood Village, CO 80111
 
 We always enjoy hearing from you and appreciate your business.
 
-30% Off plus Free Shipping over $49 Emails
+25% Off plus Free Shipping over $75 Emails
 
 Get exclusive offers, and be the first to hear about new brands, styles and more!
 
@@ -606,5 +606,3 @@ Shop With Confidence
 
 All other trademarks not owned by eBags.com or its subsidiaries that appear on this site are the property of their respective owners.  
 eBags USA © 1999 - 2012 eBags, Inc. All rights reserved.
-
-B-2012-10-29
