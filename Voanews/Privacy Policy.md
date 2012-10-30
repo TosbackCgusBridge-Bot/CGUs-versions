@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Sandy Impacts US Political Campaigning
-*   Eastern US Braces for 'Superstorm'
+*   Superstorm Sandy Floods New York
+*   Obama, Romney Alter Campaigning Plans
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
