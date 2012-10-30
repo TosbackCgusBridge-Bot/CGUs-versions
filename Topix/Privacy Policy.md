@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Hurricane
-
-As hurricane bears down, NYSE and other U.S. markets suspend t...
-
 Mitt Romney
 
-Zelizer: Sandy to test Obama, Romney
+Obama-Romney: Historically close
+
+Iraq
+
+Iran begins 2-day military exercises near Iraq border
 
 Politix
 
-Could you pass a US citizenship test?
+Is voter fraud a valid concern?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 106,668 • Total comments across all topics: 189,468,333
+Comments made yesterday: 112,802 • Total comments across all topics: 189,570,259
 
 Copyright ©2012 Topix LLC
 
