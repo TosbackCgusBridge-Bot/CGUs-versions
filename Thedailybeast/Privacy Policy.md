@@ -145,38 +145,35 @@ Stories We Like
 
   Most Popular
 
-1.  Get It Done, Mr. President
-2.  Libya: An Inside Job?
-3.  The Case Against Legal Weed
-4.  Doin’ It ‘Gangnam Style’
-5.  Why Obama Will Win
+1.  Who’s On the D.C. Streets?
+2.  Sandy’s Savior
+3.  That 9/11 Feeling
+4.  Live Updates: Hurricane Sandy
+5.  Romney’s Closing Con Game
 
   Other News Entertainment
 
-*   Olivia and Jason's Roman romance, plus more celebrity PDA
-*   Week in Photos for Oct. 26, 2012
-*   Julianne Hough on Ryan Seacrest: 'We're Really Proud of Each Other'
+*   Week in Photos for Nov. 2, 2012
+*   Celebs Who Changed Their Names
+*   Kristen Bell is an Online Shopper, Plus More of October's Webbiest Stars
 *   **Get More from Wonderwall**
 
 Entertainment
 
 *   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
-*   Emma Roberts dresses as Aunt Julia in ‘Pretty Woman’ for Halloween: PHOTO
-*   All Broadway shows canceled due to storm
+*   ‘Dancing With the Stars’: Week 6 is liiiiiive!
+*   One brick to rule them all: Watch the ‘Lego Lord of the Rings’ game trailer — EXCLUSIVE
 *   **Get More from EW.com**
 
 Entertainment
 
-*   18 People Looking For Sex (And Love) During Hurricane Sandy
-*   Liberal Group Uses Hurricane Sandy For Fundraising Pitch
-*   National Weather Service Issues Extremely Blunt Warning
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   The Ten Worst Gaffes of Election 2012
-*   A Cold Civil War
-*   Is New Romney Ad in Ohio a Sign He's Losing?
+*   Are Polls Missing Cell Phone Users?
+*   Romney Avoids Late Night TV
+*   Obama Predicts War in GOP if He's Re-Elected
 *   **Get More from Political Wire**
 
 The Daily Beast
