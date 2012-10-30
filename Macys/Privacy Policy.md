@@ -200,7 +200,13 @@ was this answer helpful? Please tell us how we can make this answer more helpful
 *   Pricing Policy for Online Merchandise
 *   Credit Card Privacy Policy
 
-Find an answer related tools My Profile Macy's Credit Card Order Status Store Locator Gift Card Balance Password Assistance Contact Us
+Find an answer announcements
+
+*   Shipping Delays - Hurricane Sandy  
+    Due to Hurricane Sandy, orders that are shipping from our East and North East...  
+    
+
+related tools My Profile Macy's Credit Card Order Status Store Locator Gift Card Balance Password Assistance Contact Us
 
 For assistance with your shopping experience and other answers.
 
