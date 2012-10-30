@@ -1,4 +1,4 @@
-Join us at YamJam '12: Where Enterprise Meets Social REGISTER NOW X
+WATCH THE YAMJAM '12 KEYNOTES LIVE ON FACEBOOK. WATCH NOW X
 
 *   Contact Sales
 *   Pricing
@@ -10,7 +10,7 @@ Join us at YamJam '12: Where Enterprise Meets Social REGISTER NOW X
     *   Search
     *   Admin &. Security
     *   External Networks
-    *   Platform
+    *   Yammer Platform
     *   Feature List
 *   Business Benefits
     *   Executives
@@ -27,7 +27,7 @@ Join us at YamJam '12: Where Enterprise Meets Social REGISTER NOW X
     *   Deployment
     *   Voluntary Adoption
     *   Product Development
-    *   Platform
+    *   Yammer Platform
     *   Support Services
 *   Customer Success
     *   Case Studies
