@@ -171,8 +171,6 @@ Lamps
     
     Light Bulbs
     
-    Mix n Match Lamps
-    
     Best Selling Desk Lamps
     
     Best Selling Floor Lamps
