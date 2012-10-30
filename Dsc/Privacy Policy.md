@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Overhaulin'1965 Volkswagen Bug 8:00PM Overhaulin': Deconstructed1965 Impala 9:00PM American Chopper (Season 9)A New Company TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Alaska: The Last Frontier (Season 2)Cattle Drive 8:00PM Alaska: The Last Frontier (Season 2)Range Riding 9:00PM Alaska: The Last Frontier (Season 2)The River Wild TV SHOWS
 
 American Chopper
 
@@ -334,21 +334,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-Return of the Dragon: SpaceX Mission a Success
+Hurricanes Sandy's Horse Jogger: Gotta-See Video
 
-Pets During Hurricanes: What To Do
+Our First Line Of Asteroid Defense? Paintballs!
 
-What Are the Risks From Hurricane Sandy?
+Chicago Could See 23-foot Waves: DNews Nugget
 
-Hawaii Tsunami Waves Smaller than Expected
+Sandy Packing Two-Fisted Flood Punch
 
-Hawaii Tsunami 'Arriving Now' (Updated)
+Excellent Idea of the Day: Petroleum from Air
 
-TWiDN: Whales Can Speak and We've Got More Stars
+Perfect Storm Skipper Speaks Out: DNews Nugget
 
-Windows 8: Twice The Interface, Third The Price
+HMS Bounty Sinks in Sandy. Crew rescued, two missing
 
-Mayans Pissed Off Over Doomsday 'Deceit'
+Sustainably Smart Bamboo Mobile Phone
 
   facebook share0 Tweet Privacy Policy  
 
@@ -554,32 +554,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 29,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 30,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 29,  
+Oct 30,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 29,  
+Oct 30,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 29,  
+Oct 30,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 29,  
+Oct 30,  
 9:00 am  
 60 min(s)  
-**I (Almost) Got Away With It**  
-_Got Shot In The Leg_  
- When a friend is fired from a restaurant, Konh Chung Bounnam and  
+**I (Almost) Got Away with It**  
+_Got to Wear a Pink Shirt_  
+ Abraham Cavazos shoots a man at a party and flees to Juarez, Mexi  
 **More Listings »**   Shop Discovery Store      
 
 our sites
