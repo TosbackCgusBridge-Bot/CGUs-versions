@@ -1,4 +1,4 @@
-  Set as Homepage Mon, Oct 29, 2012   13 Heshvan, 5773  
+  Set as Homepage Tue, Oct 30, 2012   14 Heshvan, 5773  
 
 *   *   Breaking News
     *   Diplomacy &. Politics
@@ -194,8 +194,7 @@ Light Edition of the Jerusalem Post for English improvement   Kosher English Ma
 English language weekly magazine - especially for religious people   JReport Kindle Edition  
 Now you can get the Jerusalem Report directly to your Kindle   JPost Premium Edition  
 The very best articles are available only in our Premium edition     Real Estate Jerusalem's leading projects  
-are now in New York Come and meet us to find out more!   Israel Real Estate Exhibition  
-New York, October 27 – 28. Free Entrance   Real Estate Special Magazine  
+are now in New York Come and meet us to find out more!   Real Estate Special Magazine  
   Prosperity real estate  
 Finding your home in Jerusalem is Prosperity's business   Gorman Real Estate  
 Sales, rentals and property management of luxury Tel Aviv apartments.   Don't Look For a House!  
