@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   Hurricane Sandy
-    *   timeless news
-    *   strange stuff
     *   Election 2012
     *   Mitt Romney 2012
-    *   President Obama
+    *   New York City
+    *   severe weather
     *   entertainment
+    *   hurricane
+    *   strange stuff
+    *   President Obama
     *   celebrity
-    *   evacuation
-    *   World Series
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -120,63 +120,51 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Why Amnesty Should Lose at the Supreme Court
-*   The Coach Who Never Paid Retail
-*   Homeland, Season 2
+*   Could Hurricane Sandy Delay the Election?
+*   Above Politics
+*   YouTube Is Telling Us What Twitter Can't Right Now
 
 More from Slate »
 
-*   PROVE IT!
-*   'This Is A Very Real Exercise': Military Trains For Zombie...
-*   Drunk Mom Repeatedly Crashes Car In School Lot: Police
-
-More from HuffPost Weird »
-
-*   Your Friskyscopes For The Week Of October 29-November 4,...
-*   Lindsay Lohan Is Meteorologist Now
-*   The Most Grotesque Pumpkin Of Them All
+*   An Adorable Echidna Puggle Belly &. 13 Other Animal Bellies...
+*   Anderson Cooper’s Daytime Talk Show Cancelled
+*   6 Accomplished Women Who Don’t Want To Be Called Feminists
 
 More from The Frisky »
 
-*   Facebook refuses to remove "I Hate Teenage Moms" page...
-*   Marketer of "Sassy Squaw" Halloween costume had no idea...
-*   Oh great...now THOSE TYPES are moving into the neighborhood...
+*   NYFD scanner: "Do we have any plans in place for the...
+*   Hurricane Sandy has brought down The Huffington Post,...
+*   Fark's favorite mascot is ready for Halloween. The Sun is...
 
 More from Fark »
 
-*   Hurricane Sandy: 4 ways the huge 'Frankenstorm' is...
-*   New England's vampire panic
-*   10 things you need to know today: October 28, 2012
+*   10 fake photos of Hurricane Sandy
+*   Why newspaper endorsements don't matter
+*   Why voters don't care about Mitt Romney's move to the center
 
 More from The Week »
 
-*   Levi Johnston’s Wedding Invitation Does Not Disappoint
-*   Man Formerly Suspected of Etan Patz Murder Set to Go Free
-*   An Excellent Side-Effect From Barclays Center: Cabs in...
+*   After the Storm: Surveying Sandy's Damage, and Looking Ahead
+*   Hurricane Sandy’s Breakout Star: Mayor...
+*   Minnesota Is the Johnny-Come-Lately of Swing States
 
 More from Daily Intel »
 
-*   7 Halloween Candies With Scary-Long Ingredient Lists
-*   Help Improve Survival From the Nation's Leading Cause of...
-*   Fearlessly Own the Real You
-
-More from HuffPost Health »
-
-*   Celebrity Fashion: Hits and Misses of the Week (PHOTOS)
-*   Julia Roberts Turns 45: Her Best Red Carpet Looks (GALLERY)
-*   Halloween 2012: Heidi Klum to be Cleopatra. Her Halloween...
+*   Courtney Stodden Sports Sexy Unicorn Costume for Halloween...
+*   Avril Lavigne's Ex Deryck Whibley Dresses Up as Her For...
+*   Connie Britton Slams Mitt Romney's Use of 'Friday Night...
 
 More from Celebuzz »
 
-*   Halloween Monster Cereals Hoarded by Crazy Fans Who Want...
-*   'Walking Dead' Recap: A Bunch of New Faces (and One Blast...
-*   'Revenge' Recap: Emily's Mother Reveals Her Big Secret
+*   Porn for Parents: 4 R-rated Books and Movies That Will Heat...
+*   'Charlie Brown' Shouldn't Be Banned Just Because Lucy Is a...
+*   My Grandfather Was Between Worlds
 
 More from The Stir »
 
-*   Editor's Letter: Breaking Through
-*   Adweek's 2012 Brand Genius Awards
-*   Adweek's 2012 Brand Genius Awards
+*   The Spot: TV's Best Friend
+*   Wunderman N.Y. Finds New Planning Chief
+*   8 of the Most Extreme Extreme Weather Ads
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
