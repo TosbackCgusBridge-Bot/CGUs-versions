@@ -15,17 +15,17 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
-The Spring 2013 Runway Report
+Wish List: An Editor's Style Picks
 
-See the top runway trends from Spring 2013.
+Bazaar's photography and bookings director shares her must-haves.
 
-Jean Queens
+History's Most Fashionable First Ladies
 
-Get inspired by the best celebs-in-denim looks.
+From Jackie O to Lady Bird, it's clear style crosses party lines.
 
-Mr. Blasberg's Best-Dressed List: October 26th, 2012
+Coats Central: Your Guide to Chic Outerwear
 
-Mr. Blasberg's Best-Dressed List: October 26th, 2012
+Shop the latest coat trends this season.
 
 Beauty &. Hair  
 
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR The Spring 2013 Runway Report Jean Queens Mr. Blasberg's Best-Dressed List: October 26th, 2012 The Best Spring Nail Trends To Try Now Today's Beauty Secret 4 Fun Halloween Mani Ideas Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Maison Martin Margiela x H&M Party Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR Wish List: An Editor's Style Picks History's Most Fashionable First Ladies Coats Central: Your Guide to Chic Outerwear The Best Spring Nail Trends To Try Now Today's Beauty Secret 4 Fun Halloween Mani Ideas Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Maison Martin Margiela x H&M Party Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
@@ -80,11 +80,11 @@ SPECIAL OFFER
 
 Most Popular
 
-1.  The Most Anticipated Hair Trends For Spring 2013
-2.  Nail It: Fall 2012's Top Manicure Trends
-3.  Top Hair Trends From The Fall 2012 Runways
-4.  The Mini Turns 50: Iconic Skirt Moments
-5.  Street Style Trend Report: Spring 2013
+1.  Nail It: Fall 2012's Top Manicure Trends
+2.  Top Hair Trends From The Fall 2012 Runways
+3.  The Most Anticipated Hair Trends For Spring 2013
+4.  The Extras: Fall 2012 Accessories Report
+5.  The New York Runway Report: Fall 2012
 
 **TRY:** fall 2012 trends street style best mascara 2012 **About Harper's Bazaar**
 
