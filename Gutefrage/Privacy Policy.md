@@ -194,8 +194,8 @@ Registrieren Login
 
 1.  Halloween
 2.  Kaninchen
-3.  Kostüm
-4.  Kunst
+3.  Konzert
+4.  Kostüm
 5.  Online-Shop
 6.  Periode
 7.  Pickel
@@ -203,70 +203,70 @@ Registrieren Login
 9.  Pokemon
 10.  Steam
 
-Top-50 Themen Thema Anzahl Apple 84147 Arbeit 64707 Ausbildung 50105 Auto 90911 Beauty 69135 Beruf 77329 Beziehung 71921 Computer 536596 Computerspiele 64552 deutsch 66993 Englisch 52052 Ernährung 50681 essen 71124 Facebook 77380 Fernsehen 60237 Film 100017 Finanzen 58909 Freizeit 262686 Fußball 51129 Games 124581 Geld 93381 Gesundheit 205404 Haare 82613 Handy 204783 Hilfe 148627 Internet 322155 iPhone 75316 Kinder 50853 Körper 50139 Laptop 73460 Liebe 165317 Lied 54450 Mädchen 56298 Medizin 62661 Minecraft 67970 Musik 280399 PC 282170 PC-Spiele 48629 Problem 55198 PS3 60178 Recht 95197 Schule 235158 Software 57024 Spiele 137116 Sport 110797 Technik 120446 Tiere 64796 TV 54326 Video 52655 Youtube 83190 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 84259 Arbeit 64766 Ausbildung 50178 Auto 91010 Beauty 69249 Beruf 77409 Beziehung 72022 Computer 537143 Computerspiele 64633 deutsch 67055 Englisch 52105 Ernährung 50722 essen 71200 Facebook 77472 Fernsehen 60274 Film 100152 Finanzen 58949 Freizeit 263033 Fußball 51168 Games 124787 Geld 93485 Gesundheit 205588 Haare 82708 Handy 205098 Hilfe 148868 Internet 322429 iPhone 75408 Kinder 50897 Körper 50219 Laptop 73558 Liebe 165574 Lied 54509 Mädchen 56378 Medizin 62704 Minecraft 68063 Musik 280648 PC 282513 PC-Spiele 48708 Problem 55297 PS3 60273 Recht 95281 Schule 235391 Software 57071 Spiele 137257 Sport 110897 Technik 120575 Tiere 64860 TV 54370 Video 52712 Youtube 83319 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  LightSky
+1.  BruceleeJungee
     
     Punkte:
     
-    895
+    1061
     
     Level:
     
-    LightSky
+    BruceleeJungee
     
-2.  HerrmanSouchon
-    
-    Punkte:
-    
-    633
-    
-3.  xProGeaRx
+2.  Chimaer
     
     Punkte:
     
-    589
+    1059
     
     Level:
     
-    xProGeaRx
+    Chimaer
+    
+3.  TonySoprano300
+    
+    Punkte:
+    
+    731
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.360.875 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.369.642 gute Fragen_
 
-*   28 Bin ich deswegen irgendwie unnormal??? :-(
-*   14 Na, wo tut's denn weh?
-*   8 gibt es irgendeinen trick, SOFORT einen klartraum/luziden traum zu haben?
+*   29 gibt es irgendeinen trick, SOFORT einen klartraum/luziden traum zu haben?
+*   11 Welche Orte sollten man in Deutschland besucht haben?
+*   9 Ich möchte in der Vergangenheit leben.
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Kunstblut selber machen
-*   Halloween-Kürbis haltbar machen
-
 *   Kürbis schnitzen leicht gemacht: Halloween-Kürbis mal zwei
+
 *   Laterne basteln in Auto-Form
+*   Schnelles Partyrezept für 20 Gäste und mehr - Blätterteigtaschen Mexikanisch
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.964.072
+1.968.289
 
 Anzahl der Fragen
 
-8.360.528
+8.369.249
 
 Anzahl der Antworten
 
-36.279.062
+36.309.876
 
 Anzahl der Tipps
 
-75.044
+75.132
 
 Anzahl der Videos
 
-4.758
+4.767
 
 Blog
 
