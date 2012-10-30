@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Football:** Mark Clattenburg accused of racial slur during Chelsea v Manchester United
-2.  2\. **News:** Chinese protesters clash with police at chemical plant demonstration – video
-3.  3\. **News:** Millions on east coast brace for impact as Hurricane Sandy arrives
-4.  4\. **Music:** Paul McCartney: Yoko Ono did not break up the Beatles
-5.  5\. **Football:** Chelsea v Manchester United – five talking points
+1.  1.  **News:** Hurricane Sandy: high winds and flooding hit US east coast – Monday 29 October
+2.  2\. **News:** Superstorm Sandy: Obama declares major disaster in New York and Long Island - live updates
+3.  3\. **News:** New York City braces for hurricane Sandy - video
+4.  4\. **News:** Hurricane Sandy: New York mayor orders evacuation and school closures – video
+5.  5\. **Media:** Jimmy Savile caused concern with behaviour on visits to Prince Charles
 6.  More most viewed
 
 Last 24 hours
 
-1.  **News:** Millions on east coast brace for impact as Hurricane Sandy arrives
-2.  **Life &. style:** The hair trade's dirty secret
-3.  **Life &. style:** Berger &. Wyse
-4.  **News:** Chinese protesters clash with police at chemical plant demonstration – video
-5.  **Media:** Jimmy Savile: celebrities frightened of being implicated, says Max Clifford – video
+1.  **News:** Superstorm Sandy: Obama declares major disaster in New York and Long Island - live updates
+2.  **Stage:** Sarah Millican: 'I'm a nice girl – but I've got a dirty mind'
+3.  **News:** Superstorm Sandy blasts north-east states of US – video
+4.  **Technology:** Apple's Tim Cook shows ruthless streak in firing maps and retail executives
+5.  **Football:** Mark Clattenburg stood down as FA investigates Chelsea racism claim
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Picture desk live: the best news pictures of the day
-2.  2\. Jack and Nancy by Quentin Blake - review
-3.  3\. Hurricane Sandy approaches east coast: live coverage
-4.  4\. Eyewitness: Aleppo, Syria
-5.  5\. Strictly Come Dancing scores X Factor double
+1.  1.  The Last Gunfight: The Real Story of the Shootout at the OK Corral – And How It Changed the American West by Jeff Guinn – review
+2.  2\. Dennis Hopper: The Wild Ride of a Hollywood Rebel by Peter L Winkler – review
+3.  3\. Coldbrook by Tim Lebbon – review
+4.  4\. Wolf Won't Bite! by Emily Gravett - review
+5.  5\. Was Hurricane Sandy supersized by climate change?
 6.  All today's stories
 
 On the Guardian today
 
-1.  Life and style Mapping the body: the temple
-2.  World news Millions on east coast brace for impact as Hurricane Sandy arrives
-3.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-4.  Music Paul McCartney: Yoko Ono did not break up the Beatles
-5.  Comment is free Iran sanctions now causing food insecurity, mass suffering
-6.  Football Chelsea v Manchester United – five talking points
+1.  World news Hurricane Sandy: high winds and flooding hit US east coast – Monday 29 October
+2.  Life and style Mapping the body: the temple
+3.  World news New York City braces for hurricane Sandy - video
+4.  World news Sandy makes landfall and batters US east coast
+5.  World news Hurricane Sandy: New York mayor orders evacuation and school closures – video
+6.  World news Working class voters: why America's poor are willing to vote Republican
 
 *   License/buy our content
 |*   Privacy policy
