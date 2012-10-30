@@ -1,33 +1,38 @@
 Metacafe
 
+*   Most Popular
+*   Trending Now
 *   Movies
 *   Games
-*   Music
-*   Most Popular
-*   More
-    *   Channels
-    *   Today
-    *   All Videos
-    *   Comedy
-    *   Entertainment
-    *   How To
-    *   News &. Events
-    *   Pets &. Animals
-    *   Science &. Tech
-    *   Wheels &. Wings
-    *   TV Clips
-    *   Sports Highlights
-    *   Other
-    *   Classics
-    *   18+ Only
+*   Unfiltered
+*   Tech Tips
+*   Kittens
+*   Android
+*   Arguments for Sterilization
+*   Brian Reviews Movies
+*   Corridor Digital
+*   Epic Meal Time
+*   Family Guys
+*   Game Glitches
+*   Game Reviews
+*   Game Trailers
+*   Gamer Top 5s
+*   iOS
+*   Jailbreakers
+*   Movie Reviews
+*   Nintendo
+*   PlayStation
+*   Retro Game Reviews
+*   Saturday Night Live
+*   Things That Go Boom
+*   Ultimate Unboxings
+*   Video Game High School
+*   Weird News
+*   Xbox
+*   More...
+    
 
-*   Facebook
-*   Follow Metacafe on Facebook Twitter
-*   Upload
-*   Sign In
-*   Family Filter On
-
-Go   Terms &. Conditions
+Safe Search OFF Go Sign In Terms &. Conditions
 
 1.  **Your Acceptance**
     
