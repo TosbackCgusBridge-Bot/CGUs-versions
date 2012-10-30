@@ -350,6 +350,7 @@ COLLECTIONS
 About Us*   Our Story
 *   Technology
 *   Sustainability
+*   Chemical Responsibility
 *   Careers
 *   Company News
 *   Partners
@@ -551,9 +552,9 @@ Collections*   Mountain Heritage
 *   Steep Tech™
 *   All Collections
 
-Women'sGlitchin Down Jacket
+Women'sPlasma Thermal Jacket
 
-Alpine-ready, 800-fill down jacket with waterproof HyVent® exterior to keep you dry.
+Shed rain and stay dry at sea level or at the summit with this waterproof, insulated jacket. HyVent® Alpha 2L exterior repels wet weather.
 
 Shop Now Shop by Men's
 
@@ -626,9 +627,9 @@ Collections*   Mountain Heritage
 *   Steep Tech™
 *   All Collections
 
-Men'sGlitchin Down Jacket
+Men'sPlasma Thermal Jacket
 
-Compressible 800-fill down jacket with a waterproof exteior to shed rain and snow.
+Rain doesn't have to stop you in your tracks. Seek shelter from storm in this premier waterproof, insulated Summit Series® jacket.
 
 Shop Now Shop by Kids'
 
@@ -671,9 +672,9 @@ Activity*   Skiing
 
 Collections
 
-YouthBoys' Reversible Down Moondoggy Jacket
+YouthBOYS' BOUNDARY TRICLIMATE® JACKET
 
-Cozy up with cold weather in this durable, reversible, 550-fill down hooded jacket.
+Versatile 3-in-1 jacket features a waterproof shell exterior and an insulated (and removable) liner jacket.
 
 Shop Now Shop by Equipment
 
