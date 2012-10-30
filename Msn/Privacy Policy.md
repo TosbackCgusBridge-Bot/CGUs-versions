@@ -1,5 +1,5 @@
 Cliquez ici pour installer Silverlight France Modifier | Tous les sites Microsoft Rechercher sur Microsoft France :  
-Microsoft Online Privacy Statement Informations supplémentaires sur la confidentialité • Bing • CRM Online • Messenger • Microsoft Advertising • Microsoft Employment Candidates • Microsoft Tag Reader • MSN • Office.com • Support Services • Windows Live • Windows Live ID • Windows Marketplace • WindowsMedia.com • Xbox LIVE, Jeux pour Windows LIVE et Xbox.com • Zune Liens connexes • FTC Privacy Initiatives • Security at Home • Silverlight Privacy Statement • Trustworthy Computing
+Microsoft Online Privacy Statement Informations supplémentaires sur la confidentialité • Bing • Messenger • Microsoft Advertising • Microsoft Employment Candidates • Microsoft Tag Reader • MSN • Office.com • Support Services • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, Jeux pour Windows LIVE et Xbox.com • Zune Liens connexes • FTC Privacy Initiatives • Security at Home • Silverlight Privacy Statement • Trustworthy Computing
 
 (dernière mise à jour en avr.-12)  
 consultez les points essentiels de la Déclaration de confidentialité
