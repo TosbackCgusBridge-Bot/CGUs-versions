@@ -196,10 +196,6 @@ Get Your Guppies Fan Club Kit!
 
 When you sign up for the Bubble Guppies fan club, it's FREE!
 
-Enter to Win Umi Toys!
-
-Join the Umi Fan Club and you could win a remote control UmiCar &. more!
-
 Join Team Umizoomi on Facebook
 
 Hang out with Bot, Milli &. Geo on Facebook!
