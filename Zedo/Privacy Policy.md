@@ -19,7 +19,7 @@ Follow @ZEDOinc Opt Out | Privacy | Contact | Customer Login ZEDO, Inc. ZEDO is 
 *   Blog
 *   Contact Us
 
-Get in touch with our sales representatives.  
+Get in touch Contact our sales representatives for more details.  
   
 Contact Now Home >. About Us >. Privacy Policy ZEDO, Inc. Privacy Policy
 
