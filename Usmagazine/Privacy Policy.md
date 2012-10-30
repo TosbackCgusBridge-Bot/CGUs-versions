@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! LACMA Ladies »
+Hot Pics! Sunny Skies for Vanessa!  »
 
-Top Stories1.  Radiant Reese Witherspoon Shows Off Post-Baby Body in Skinny Jeans »
-2.  Jennifer Aniston Flaunts Cleavage, Shows Off Engagement Ring in L.A. »
-3.  Jessica Simpson Shows Off 60-Pound Weight Loss While Leaving the Gym »
-4.  Angelina Jolie Takes Kids Halloween Costume Shopping in L.A. »
-5.  Exclusive Nick Lachey: Camden May Be Yoda for Family Star Wars Halloween Costume »
+Top Stories1.  Hurricane Sandy: Celebs Prepare and React »
+2.  Levi Johnston Marries Sunny Oglesby: See Their Wedding Picture! »
+3.  Matthew Morrison, Girlfriend Dress as Vintage Justin and Britney! »
+4.  Kim Kardashian Wants to Dye Her Hair Blonde Like Halloween Costume »
+5.  Mila Kunis Is Not Pregnant With Ashton Kutcher's Baby »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly My Diet Struggle
 
 Inside Us Weekly
 
-*   Style Heidi Klum Reveals All-Time Favorite Hallowee
-*   Beauty Leighton Meester Chops Off Her Hair: "I Love
-*   Moms Tia Mowry: Sister Tamera's Baby Is Due Any Da
-*   Body How Madonna Maintains Her Age-Defying Physiqu  
-*   Entertainment Ben Affleck's Argo Tops Weekend Box Office  
+*   Style Matthew Morrison, Girlfriend Dress as Vintage
+*   Beauty Drew Barrymore Launching Makeup Line for Wal-
+*   Moms Tamera Mowry Savoring "Peace and Quiet" Befor
+*   Body Adam Levine Defends Christina Aguilera's Weig  
+*   Entertainment John Krasinski "Constantly in Fear" The Offic  
 
 *   US WEEKLY
 *   Celebrity News
