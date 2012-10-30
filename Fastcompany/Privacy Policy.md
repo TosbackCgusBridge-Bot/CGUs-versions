@@ -73,13 +73,13 @@ In the course of serving advertisements to this site, our third-party advertiser
 *   Printer-friendly version
 *   Send by email
 
-*   Why The Ad Industry Is In A Talent Rut And A Prescription For Change
+*   8 New Solutions For The World’s Oldest Problem: Weather
 
 ADVERTISEMENT
 
-*   Below The Surface: Microsoft Is Why Samsung, Dell And Others Didn't Invent The iPad
-*   Generation Flux Salon: What Does Talent Look Like In An Age Of Flux?
+*   An Intimate Portrait Of Innovation, Risk, And Failure Through Hipstamatic's Lens
 *   With iPad Mini, Apple Switches From Offense To Defense
+*   5 Ways Hardware Makers Are Hurting Windows 8
 
 *   Why The Ad Industry Is In A Talent Rut And A Prescription For Change
 *   Flowchart: How The World Ends
