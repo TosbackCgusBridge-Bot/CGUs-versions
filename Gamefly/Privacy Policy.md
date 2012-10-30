@@ -316,6 +316,7 @@ Apps &. Features
 *   GameFly on Facebook
 *   Gift Certificates
 *   GameFly Rewards
+*   Refer-A-Friend Program
 
 Our Other Sites
 
