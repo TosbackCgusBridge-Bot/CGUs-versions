@@ -16,11 +16,11 @@ Titanium Curve
 
 Sportband
 
+Leather Flex
+
 Sportband Flex
 
 Silicone Flex
-
-Leather Flex
 
 Titanium Sleek
 
@@ -30,9 +30,9 @@ Expansion Band
 
 How to Build Your ID
 
-Build Your Necklace
-
 Build Your Bracelet
+
+Build Your Necklace
 
 Build Kids Necklace
 
@@ -62,23 +62,23 @@ Health Passports
 
 Just the Chain
 
-Free Medical Logs
-
 Stickers
 
 Magnets
 
-Key Chains
+Free Medical Logs
 
 Medical ID Extras
+
+Key Chains
 
 Tyvek&reg Zipp ID Bags
 
 Gift Cards
 
-Necklaces
-
 Bracelets
+
+Necklaces
 
 Accessories
 
@@ -96,8 +96,6 @@ Build Kids Bracelet
 
 Build Kids Necklace
 
-Medical Alert Monitoring System
-
 Contact us
 
 About Us
@@ -106,13 +104,13 @@ How to Order
 
 Frequent Questions
 
-Life Stories
-
 eMedTAG Frequent Questions
 
-My Interactive Health Record
+Life Stories
 
 For Healthcare Professionals
+
+My Interactive Health Record
 
 Send Me More
 
@@ -142,9 +140,9 @@ Premier
 
 Classic
 
-Dog Tag
-
 Charm
+
+Dog Tag
 
 Oval Tag
 
@@ -234,9 +232,9 @@ MyIHR (interactive)
 
 USB IDs
 
-Dog Tag
-
 Charm
+
+Dog Tag
 
 Sterling Silver
 
@@ -246,9 +244,9 @@ Gold/Gold-Filled
 
 Gold on Sterling Silver
 
-Just the Chain
-
 Stainless Steel
+
+Just the Chain
 
 USB Medical IDs
 
@@ -471,6 +469,7 @@ e-MedTAG
 Key Chains  
 Gift Cards  
 Free Medical Forms  
+Medical Alarm  
 Discounts  
 View Cart  
   
