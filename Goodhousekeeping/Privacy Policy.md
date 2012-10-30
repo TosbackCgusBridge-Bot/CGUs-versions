@@ -175,8 +175,8 @@ MostPopular Stories
 *   Celebrity Bob Hairstyles
 *   26 Delicious One-Dish Meals
 *   Thigh Blasters
+*   How to Shop and Dress Slimmer
 *   Master Bedroom Decorating Ideas
-*   52 Home-Organizing Tips
 
 See All About Articles
 
