@@ -501,7 +501,7 @@ Would you like to receive special offers, promotions, coupons, and free samples 
 See All Newsletters  
 
 *   Homeandgarden My Best Idea Quick Tips for Getting Party Pretty in a Pinch
-*   Beauty DIY Beautify Hot Vs. Not: The Winner of the Smokey Eye Contest Is...
+*   Beauty DIY Beautify Kelly Bensimon Picks the Best Party Look
 *   Entertainment iVillage 5 Will Jay-Z Join Beyonce at the Super Bowl?
 *   Entertainment Likes or Yikes? Uh Oh! Which Celeb Does Taylor Swift Fear She'll Drunk Dial?
 *   Global iVoices Why a Failed First Marriage Doesn't Make You a Failure
@@ -513,7 +513,7 @@ See All Newsletters  
 *   Parenting Halloween 17 Tips for a Fantastic Carved Pumpkin
 *   Entertainment iVote Celebrities and Newsmakers Reveal "Why I Vote"
 *   Health Slideshow 15 Most Dangerous Machines at the Gym
-*   Beauty DIY Beautify Hot Vs. Not: The Winner of the Smokey Eye Contest Is...
+*   Beauty DIY Beautify Kelly Bensimon Picks the Best Party Look
 *   Entertainment Movies Meet the New Faces of 'Breaking Dawn - Part 2'
 
 *   Join iVillage
