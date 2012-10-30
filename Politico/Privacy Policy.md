@@ -113,124 +113,122 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/29/2012 7:02 AM ET
+Updated: 10/30/2012 8:02 AM ET
 
-1.  1 Sandy: 5 political questions
-2.  2 How Mitt silenced the echo chamber
-3.  3 Issa's record: Feats or flops?
+1.  1 Nate Silver: One-term celebrity?
+2.  2 Oliver Stone's new book rips Obama
+3.  3 Martin Sheen: Romney is stupid, arrogant
+4.  4 Christie blames Atlantic City mayor
+5.  5 Battleground Tracking Poll: Obama retakes lead
+6.  6 The return of Bain
+7.  7 Could Hurricane Sandy delay the election?
+8.  8 Senate 5: Brown exits debate
+9.  9 FEMA has plenty of money this time
+10.  10 Team Obama to press: We’re going to win
+
+Updated: 10/30/2012 8:02 AM ET
+
+1.  1 Oliver Stone's new book rips Obama
+2.  2 Nate Silver: One-term celebrity?
+3.  3 Martin Sheen: Romney is stupid, arrogant
 4.  4 Battleground Tracking Poll: Obama retakes lead
-5.  5 PPP Ohio poll: Obama 51, Romney 47
+5.  5 4 possible freak election outcomes
 6.  6 Obama vs. Romney: 5 hidden factors
-7.  7 Madonna booed after Obama plug
-8.  8 Feds to D.C.-area workers: Stay home
+7.  7 Team Mitt: He wouldn't cut FEMA
+8.  8 Sandy: 5 political questions
+9.  9 Christie blames Atlantic City mayor
+10.  10 The return of Bain
+
+Updated: 10/30/2012 8:02 AM ET
+
+1.  1 Oliver Stone's new book rips Obama
+2.  2 Nate Silver: One-term celebrity?
+3.  3 Martin Sheen: Romney is stupid, arrogant
+4.  4 Battleground Tracking Poll: Obama retakes lead
+5.  5 4 possible freak election outcomes
+6.  6 Sandy: 5 political questions
+7.  7 How Mitt silenced the echo chamber
+8.  8 Obama vs. Romney: 5 hidden factors
 9.  9 Romney's unreleased Ohio auto bailout ad
-10.  10 Why poll numbers don't mean much
+10.  10 Team Mitt: He wouldn't cut FEMA
 
-Updated: 10/29/2012 7:02 AM ET
+Updated: 10/30/2012 8:02 AM ET
 
-1.  1 How Mitt silenced the echo chamber
-2.  2 Sandy: 5 political questions
-3.  3 Romney's unreleased Ohio auto bailout ad
-4.  4 NWS to East Coast: Brace for storm
-5.  5 A quiet, history-making Senate bid
-6.  6 Tight race in divided Wisconsin
-7.  7 Romney readjusts after Florida
-8.  8 Obama's fuzzy Ohio early vote math
-9.  9 Liberal mega-donors try super PACs
-10.  10 Issa's record: Feats or flops?
-
-Updated: 10/29/2012 7:02 AM ET
-
-1.  1 Romney's road to Ohio victory
-2.  2 Obama's fuzzy Ohio early vote math
-3.  3 Maher: Mitt would be a freakshow
-4.  4 How Mitt silenced the echo chamber
-5.  5 Sandy: 5 political questions
-6.  6 GOP's California dreams dashed
-7.  7 Romney's unreleased Ohio auto bailout ad
-8.  8 Liberal mega-donors try super PACs
-9.  9 Romney readjusts after Florida
-10.  10 NWS to East Coast: Brace for storm
-
-Updated: 10/29/2012 7:02 AM ET
-
-1.  1 Trump claims Obama bombshell
-2.  2 Ex-Biden aide pens angry tell-all
+1.  1 Ex-Biden aide pens angry tell-all
+2.  2 Oliver Stone's new book rips Obama
 3.  3 Trump mocked on Twitter
 4.  4 Woodward: Obama 'mistaken'
 5.  5 Obama says kids know Romney is dishonest
 6.  6 Voter tells Biden he's a 'good guy' but bad VP
 7.  7 Romney raises $111.8 million in October
 8.  8 Trump will donate for Obama records
-9.  9 Reporter 'not allowed' to talk to voters at Biden event
-10.  10 NBA's Stern: Obama always goes left
+9.  9 Nate Silver: One-term celebrity?
+10.  10 Martin Sheen: Romney is stupid, arrogant
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/29/2012 7:02 AM ET
+Updated: 10/30/2012 8:02 AM ET
 
-1.  1 Battleground Tracking Poll: Obama retakes lead
-2.  2 Obama vs. Romney: 5 hidden factors
-3.  3 4 possible freak election outcomes
-4.  4 Why poll numbers don't mean much
-5.  5 Sandy: 5 political questions
+1.  1 Mitt's bipartisan talk draws doubters
+2.  2 Why Romney will win
+3.  3 New York 'a complete ghost town'
 
-Updated: 10/29/2012 7:02 AM ET
+Updated: 10/30/2012 8:02 AM ET
 
-1.  1 Battleground Tracking Poll: Obama retakes lead
-2.  2 Obama vs. Romney: 5 hidden factors
-3.  3 4 possible freak election outcomes
-4.  4 Why poll numbers don't mean much
-5.  5 Sandy: 5 political questions
-6.  6 Issa's record: Feats or flops?
-7.  7 Feds to D.C.-area workers: Stay home
-8.  8 Romney touts bipartisan credentials
-9.  9 Maryland cancels day of voting
-10.  10 How Mitt silenced the echo chamber
+1.  1 Mitt's bipartisan talk draws doubters
+2.  2 Why Romney will win
+3.  3 New York 'a complete ghost town'
+4.  4 FEMA has plenty of money this time
+5.  5 Christie blames Atlantic City mayor
+6.  6 Senate 5: Brown exits debate
+7.  7 The return of Bain
+8.  8 Federal offices closed Tuesday
+9.  9 Could Hurricane Sandy delay the election?
+10.  10 Rush: Press will spin Sandy for prez
 
-Updated: 10/29/2012 7:02 AM ET
+Updated: 10/30/2012 8:02 AM ET
 
-1.  1 Battleground Tracking Poll: Obama retakes lead
-2.  2 Obama vs. Romney: 5 hidden factors
-3.  3 4 possible freak election outcomes
-4.  4 Why poll numbers don't mean much
-5.  5 Sandy: 5 political questions
-6.  6 Issa's record: Feats or flops?
-7.  7 Feds to D.C.-area workers: Stay home
-8.  8 Romney touts bipartisan credentials
-9.  9 Maryland cancels day of voting
-10.  10 How Mitt silenced the echo chamber
+1.  1 Mitt's bipartisan talk draws doubters
+2.  2 Why Romney will win
+3.  3 New York 'a complete ghost town'
+4.  4 FEMA has plenty of money this time
+5.  5 Christie blames Atlantic City mayor
+6.  6 Senate 5: Brown exits debate
+7.  7 The return of Bain
+8.  8 Federal offices closed Tuesday
+9.  9 Could Hurricane Sandy delay the election?
+10.  10 Rush: Press will spin Sandy for prez
 
-Updated: 10/29/2012 7:02 AM ET
+Updated: 10/30/2012 8:02 AM ET
 
-1.  1 Battleground Tracking Poll: Obama retakes lead
-2.  2 Obama vs. Romney: 5 hidden factors
-3.  3 4 possible freak election outcomes
-4.  4 Why poll numbers don't mean much
-5.  5 Sandy: 5 political questions
-6.  6 Issa's record: Feats or flops?
-7.  7 Feds to D.C.-area workers: Stay home
-8.  8 Romney touts bipartisan credentials
-9.  9 Maryland cancels day of voting
-10.  10 How Mitt silenced the echo chamber
+1.  1 Mitt's bipartisan talk draws doubters
+2.  2 Why Romney will win
+3.  3 New York 'a complete ghost town'
+4.  4 FEMA has plenty of money this time
+5.  5 Christie blames Atlantic City mayor
+6.  6 Senate 5: Brown exits debate
+7.  7 The return of Bain
+8.  8 Federal offices closed Tuesday
+9.  9 Could Hurricane Sandy delay the election?
+10.  10 Rush: Press will spin Sandy for prez
 
 Showing Last 7 Days
 
-Updated: 10/29/2012 7:02 AM ET
+Updated: 10/30/2012 8:02 AM ET
 
-1.  1 Tight race in divided Wisconsin
-2.  2 Romney's road to Ohio victory
-3.  3 White voters still matter
-4.  4 Obama tries to shore up female vote
-5.  5 Dems go all in for abortion rights
-6.  6 How Mitt Romney would govern
-7.  7 Trump will donate for Obama records
-8.  8 Obama's 11th-hour strategy shift
-9.  9 Obama tears into Mitt at last debate
-10.  10 Trump claims Obama bombshell
+1.  1 Battleground Tracking Poll: Obama retakes lead
+2.  2 Tight race in divided Wisconsin
+3.  3 Romney's road to Ohio victory
+4.  4 White voters still matter
+5.  5 Obama tries to shore up female vote
+6.  6 Dems go all in for abortion rights
+7.  7 How Mitt Romney would govern
+8.  8 Trump will donate for Obama records
+9.  9 Obama's 11th-hour strategy shift
+10.  10 Campaigns launch fierce endgame
 
 News
 
