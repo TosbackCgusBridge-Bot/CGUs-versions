@@ -1,25 +1,27 @@
-**Hello,** Sign In or New Customer?
-
-*   My Account
-*   Track Your Order
-*   Rebate Center
-*   Wish Lists
-*   Help
-*   Contact Us
-
-TigerDirect.com - Shop by phone 1-800-800-8300 - Computer &. Electronics Internet Store
+TigerDirect.com Live Help or (800) 800-8300
 
 *   Store Locator
-*   Overstock Deals
 *   Daily Deal
-*   Gift Cards
-*   Corporate Sales
+*   Business Sales
 
-Search _My cart:_ **$0.00**  (0 Items)
+Search
+
+*   My Account
+*   Track Order
+*   Gift Cards
+*   Help
+    *   Help Center
+    *   Rebate Center
+    *   Wish Lists
+    *   Contact Us
+    *   Live Help
+
+  
+0 **Shopping Cart:** $0.00 Hello Sign in or New Customer
 
 *   Computers
     
-    Computers Laptops / Notebooks Ultrabooks™ Chromebooks Netbooks Desktops Gaming PCs All-in-One Computers Tablets / E-readers Servers Monitors Projectors &. Screens Printers &. Fax Ink &. Toner Networking &. Wireless Keyboards &. Mice Computer &. Internet Services Furniture Scanners Accessories See All
+    Computers Laptops / Notebooks Ultrabooks™ Chromebooks Netbooks Desktops Gaming PCs All-in-One Computers Tablets / E-readers Servers Monitors Projectors &. Screens Printers, Scanners &. Fax Ink &. Toner Networking &. Wireless Keyboards &. Mice Computer &. Internet Services Furniture Accessories See All
     
     Popular Links Daily Deal What's New Top Rated Clearance Deals Factory Recertified Deal Alerts
     
