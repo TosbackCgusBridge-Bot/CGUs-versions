@@ -224,9 +224,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   A Stitch in Time: Seasonal Crafts From Pinterest!
+    latest blog posts*   These Role Models Inspired Our New Stylebook
+    *   A Stitch in Time: Seasonal Crafts From Pinterest!
     *   UK Designer Charlotte Taylor’s Fall 2012 Collection Strikes a Chord
-    *   Pinhole Cameras: October’s Book of the Month Giveaway
     
     *   modcloth blog
     *   In Other Words
@@ -239,6 +239,7 @@ ModCloth Customer Care Hello,
 *   Help
 *   *   Our Guarantee
     *   Fit &. Form Details
+    *   Holiday Shipping
     *   Shipping Information
     *   International Shipping
     *   Returns &. Exchanges
