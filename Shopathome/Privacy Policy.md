@@ -131,25 +131,22 @@ Attn: Privacy
 Greenwood Village, CO 80111  
 Email: privacy@shopathome.com
 
- Updated: October 29, 2012 © Copyright Belcaro Group Inc. 1999-2012, All Rights Reserved **ShopAtHome.com**  
+ Updated: October 30, 2012 © Copyright Belcaro Group Inc. 1999-2012, All Rights Reserved **ShopAtHome.com**  
 About  
 Press Releases  
 Contact  
 Site Map  
-Affiliates  
-Advertise with Us  
-Careers **Members**  
+**Members**  
 EULA  
 Privacy Policy  
 Terms and Conditions  
-Email Preferences **Questions**  
+**Questions**  
 Help  
-Toolbar Removal  
 Unsubscribe **Follow Us**  
 Facebook  
 Google+  
 Twitter  
-Blog  
-Newsletter How to Get  
+Online Shopping Report  
+How to Get  
 **Cash  
 Back?** Get a **$5 bonus** for downloading our browser app » Continue
