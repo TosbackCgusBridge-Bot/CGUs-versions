@@ -114,17 +114,17 @@ Notification of Changes
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
 Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad **Exposure**  
-Sell online and in regional publications. Online ads have up to 24 color photos. Our network of magazines appear throughout the U.S. Testimonials **Don't just take our word for it...** " Great Website for buying and selling Horses. Gets lots of traffic with serious inquiries. "  
-**Mary**  
-Gays Mills, Wisconsin " I have sold two horses through equne.com. Very positive experience. Easy to use especially uploading pictures. "  
-**kimberly**  
-ottawa hills, Ohio "Great response from the ad. Love your site."  
-**Diana**  
-Bellue, Colorado " No spam emails- I had two inquiries in the first 24 hours and sold him in two days to a great family. Wonderful experience..."  
-**Terri**  
-Blue Grass , Iowa " Great!! Had lots of calls and emails. Finally found the right person to give him a great home. "  
-**Bruce**  
-Town Creek, Alabama View More Testimonials
+Sell online and in regional publications. Online ads have up to 24 color photos. Our network of magazines appear throughout the U.S. Testimonials **Don't just take our word for it...** " Good experience as always - you make it easy to sell a horse. 4th time we've sold on equine.com. Keep up the good work! "  
+**Beth**  
+Crawfordsville , Indiana "Great experience. Horse sold in 2 days."  
+**Michele**  
+Somerset , Pennsylvania "I got all my inquiries from equine.com! It was very simple to use, and was set up the best way to help sell horses in a time ..."  
+**Jessica**  
+Linton, Indiana " Very user friendly. Great traffic with the picture add "  
+**Jessie**  
+Gaston , Oregon " Buyer found us thru equine.com within first two days of posting the ad. Because she lives in Michigan and I am in North Ca..."  
+**Debbie**  
+Matthews, North Carolina View More Testimonials
 
 *   Advertise
 *   |
