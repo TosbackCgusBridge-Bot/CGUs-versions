@@ -1,517 +1,222 @@
+Skip to main content October 30, 2012  
+Huffington Post Status Worse Than MTA's Worst Case Scenario
+
+by Joanna Zelman, Posted Oct 30th 2012 8:10AM
+
+According to a tweet from NY Times reporter Jodi Kantor, MTA's Joe Lhota told CBS that flooding was worse than MTA's worst case scenario. Continue Reading Sandy State-By-State
+
+by Adam Rose, Posted Oct 30th 2012 8:07AM
+
+(AP) Hurricane Sandy is churning off the East Coast and is expected to join up with two other weather systems to create a huge and problematic storm affecting 50 million people. Here's a snapshot of what is happening or expected, state by state ... Continue Reading Red Cross Takes In 11,000
+
+by Adam Rose, Posted Oct 30th 2012 8:02AM
+
+> Nearly 11,000 people spent Monday night in 258 @redcross shelters across 16 states. #Sandy
+> 
+> \- American Red Cross (@RedCross) October 30, 2012
+
+Continue Reading Car Battery Tip
+
+by Adam Rose, Posted Oct 30th 2012 7:59AM
+
+> #Sandy: Car batteries, even those in flood water, may still contain an electrical charge &. should be removed with insulated gloves
+> 
+> \- femaregion1 (@femaregion1) October 30, 2012
+
+Continue Reading 7 Million Without Power
+
+by Adam Rose, Posted Oct 30th 2012 7:49AM
+
+> CNN has confirmed over 7 million customers are without power due to #Sandy.
+> 
+> \- CNN Weather Center (@CNNweather) October 30, 2012
+
+Continue Reading Sandy Hits Canada: 1 Dead As Storm Slams Ontario, Quebec, Maritimes
+
+by Adam Rose, Posted Oct 30th 2012 7:46AM
+
+**_Diana Mehta, The Canadian Press_**  
   
-HuffPost's QuickRead... Loading...
+**TORONTO - Southern Ontario, Quebec and parts of the Maritimes are being lashed by superstorm Sandy this morning as the massive weather system churns its way north.  
+  
+The destructive post-tropical storm has already wheeled through the northeastern U.S. - where it has been responsible for flooding, widespread power outages and at least 16 deaths - and is now walloping parts of Canada with strong winds and heavy rain.  
+  
+For forecasters, the sheer size of the storm is what sets it apart.  
+  
+"It's huge,'' said Rob Kuhn, a severe weather meteorologist with Environment Canada's Ontario Storm Prediction Centre.** Continue Reading New Jersey Levee Breach May Have Caused 3 Towns To Flood
 
-*   Islam
+by Adam Rose, Posted Oct 30th 2012 7:42AM
 
-iPhone app iPad app Android phone app Android tablet app Log in Create Account
+_By Daniel Bases and Edward Krudy_  
+  
+NEW YORK, Oct 30 (Reuters) - A possible levee breach in northern New Jersey on Tuesday, flooded three towns with 4 to 5 feet (1.2 to 1.5 meters) of water in the wake of Hurricane Sandy, prompting the evacuation of hundreds from their homes.  
+  
+The towns of Moonachie, Little Ferry and Carlstadt were underwater after the swollen Hackensack River broke its banks, affecting around 2,000 residents, said Jeanne Baratta, chief of the Bergen County Executive.  
+  
+Baratta, who was on the scene with emergency personnel, said there was the possibility that the river overflowed its banks rather than broke a levee while a New Jersey State Police spokesman described it as a levee break in the borough of Moonachie.
 
-*   Notifications
-*   *   Profile
-    *   Settings
-    *   Logout
+Continue Reading When In Doubt, Don't
 
-October 29, 2012 Edition: **U.S.**
+by Adam Rose, Posted Oct 30th 2012 7:37AM
 
-*   CA Canada
-*   FR France
-*   IT Italy
-*   ES Spain
-*   US United States
-*   UK United Kingdom
-
-*   FRONT PAGE
-*   Politics
-    
-    *   Obama Balances Storm, Campaign7k
-    *   A Look At 2012 Polls: Who's Really Ahead?24k
-    *   Colin Powell's Former Chief Of Staff: 'My Party Is Full Of Racists'38k
-    *   Romney In Debate: Shut Down Federal Disaster Agency7k
-    *   Mitt Romney Releases Auto Ad That Misleads On Facts7k
-    
-    Go to Politics **More in Politics**
-    
-    *   Pollster
-    *   2012 Blog
-    *   Speculatron
-    *   Off The Bus
-    *   Election Maps
-    
-    **You might also like**
-    *   World
-    *   Green
-    *   Black Voices
-    *   Latino Voices
-    *   Gay Voices
-*   Business
-    
-    *   And The Most Beloved Country Is...622
-    *   Hurricane Sandy Closes NYSE Trading Floor On Monday31
-    *   Health Insurers 'Scared To Death' By Prospect Of Romney Victory842
-    *   American Cities Going Broke989
-    *   The Richest Members of Congress396
-    
-    Go to Business **More in Business**
-    
-    *   Small Business
-    *   Money
-    
-    **You might also like**
-    *   World
-    *   Tech
-    *   Media
-    *   Arts
-    *   Sports
-    *   Weird News
-    *   Crime
-*   Entertainment
-    
-    *   'Argo' Takes The Number One Spot As 'Cloud Atlas' Flops974
-    *   Madonna Booed At Concert Over Pro-Obama Comments3k
-    *   WATCH: Joss Whedon Endorses Mitt Romney459
-    *   Meat Loaf May Not Be Able To Vote Mitt551
-    *   Paul McCartney Doesn't Blame Yoko For Beatles Breakup483
-    
-    Go to Entertainment **More in Entertainment**
-    
-    *   Celebrity
-    *   TV
-    
-    **You might also like**
-    *   Comedy
-    *   Arts
-    *   Books
-    *   Food
-    *   Style
-    *   Weird News
-    *   Moviefone
-*   Tech
-    
-    *   Don't Even THINK About Jailbreaking That Tablet570
-    *   Facebook Is Booming -- Just Not In Russia178
-    *   How To 'Follow' Hurricane #Sandy
-    *   The 9 Most Popular Viral Videos Of The Week
-    *   This Christmas Is Do Or Die For Nokia88
-    
-    Go to Tech **More in Tech**
-    
-    *   Best of TED
-    *   Social Media
-    
-    **You might also like**
-    *   Small Business
-    *   Green
-    *   Science
-    *   New York
-    *   San Francisco
-    *   TechCrunch
-    *   Engadget
-    *   Joystiq
-*   Media
-    
-    *   WATCH: Maddow Skewers Romney Campaign5k
-    *   WATCH: Melissa Harris-Perry Delivers Powerful Open Letter About Rape3k
-    *   Andrew Sullivan Clashes With George Will On ABC 'This Week'466
-    *   CNN Bans 'Frankenstorm'825
-    *   Media Rushes To 'Frankenstorm'577
-    
-    Go to Media **More in Media**
-    
-    *   Eat The Press
-    *   Calderone: The Backstory
-    
-    **You might also like**
-    *   Entertainment
-    *   TV
-    *   Comedy
-    *   Arts
-    *   Books
-    *   Religion
-    *   Moviefone
-*   World
-    
-    *   Hurricane's Death Toll Hits 65 In Caribbean83
-    *   Earthquake Hits Canada. Tsunami Warning For Hawaii2k
-    *   Pop Star Arrested In Connection With BBC Sex Abuse Scandal677
-    *   Rail Rage: Passengers Eject Foul-Mouthed Woman From Train812
-    *   Iran: Our Drones Are Better Than That274
-    
-    Go to World **More in World**
-    
-    *   Foreign Affairs
-    *   Drug War
-    *   Afghanistan War
-    *   Syria
-    *   World Videos
-    
-    **You might also like**
-    *   Travel
-    *   Politics
-    *   Business
-    *   Tech
-    *   Religion
-*   Healthy Living
-    
-    *   Famous Couples Who Help Each Other Stay Healthy And Fit44
-    *   Did Celiac Disease Cost Jennifer Esposito Her Job?43
-    *   Erikka Lost More Than 70 Pounds: 'I've Never Felt More Like Myself'
-    *   10-Minute Stress-Busters For Better Sleep40
-    *   5 Sneaky Halloween Health Hazards26
-    
-    Go to Healthy Living **More in Healthy Living**
-    
-    *   GPS for the Soul
-    *   Health and Fitness
-    *   Health News
-    *   Becoming Fearless
-    *   Sleep
-    
-    **You might also like**
-    *   Food
-    *   Post 50
-    *   Taste
-    *   Religion
-*   Style
-    
-    *   PHOTOS: Jennifer Aniston Sports Major Cleavage With Justin Theroux577
-    *   PHOTOS: Sasha &. Malia Obama Show Off Their Pre-Teen Style At Church With Their Dad273
-    *   PHOTOS: Lucky Magazine Apologizes For Poorly-Received Britney Spears Cover133
-    *   PHOTOS: See This Week's Near Wardrobe Malfunctions! 215
-    *   The Olsen Twins Stun (PHOTOS)22
-    
-    Go to Style **More in Style**
-    
-    *   The Beauty Page
-    *   Fashion Trends
-    *   Celebrity Style
-    
-    **You might also like**
-    *   Home
-    *   Women
-    *   Parents
-    *   Weddings
-    *   Travel
-    *   Divorce
-    *   Post 50
-*   Comedy
-    
-    *   FINALLY!20
-    *   'When You Elect Mitt You're Electing Every Right Wing Nut He's Pandered To In The Last 10 Years'7k
-    *   It's Wrong, But So, So Right24
-    *   Louis C.K. Was A Perfect Gentleman To Screaming Audience Member17
-    *   The Funniest Halloween Someecards
-    
-    Go to Comedy **More in Comedy**
-    
-    *   Funny Videos
-    *   Comedy Club
-    *   Political Humor
-    *   Original Videos
-    *   Crossing The Line
-    
-    **You might also like**
-    *   Entertainment
-    *   TV
-    *   Weird News
-    *   College
-    *   Arts
-*   LIVE
-    *   Next SANDY: Lock Down
-    *   Next A Future Without Fidel
-    *   Coming Up Attacking Tenure
-    *   Coming Up Black Market Yardsale
-    *   Later The Immortal MindGo to HuffPost Live
-*   ALL SECTIONS **News**
-    
-    *   Politics
-    *   World
-    *   Business
-    *   Small Business
-    *   Money
-    *   Media
-    *   Sports
-    *   Education
-    *   Crime
-    *   Weird News
-    *   Good News
-    
-    **Entertainment**
-    
-    *   Entertainment
-    *   Celebrity
-    *   Comedy
-    *   Arts &. Culture
-    *   Books
-    *   TV
-    *   Moviefone
-    
-    **Life &. Style**
-    
-    *   Healthy Living
-    *   GPS for the Soul
-    *   Style
-    *   Home
-    *   Food
-    *   Taste
-    *   Weddings
-    *   Travel
-    *   Parents
-    *   Divorce
-    *   Huff/Post 50
-    *   Marlo Thomas
-    
-    **Tech &. Science**
-    
-    *   Tech
-    *   Science
-    *   Green
-    *   TechCrunch
-    *   Engadget
-    *   TUAW
-    *   Joystiq
-    
-    **Voices**
-    
-    *   Women
-    *   Black Voices
-    *   Latino Voices
-    *   Voces (en español)
-    *   Gay Voices
-    *   Religion
-    *   College
-    *   Teen
-    *   Impact
-    
-    **Local**
-    
-    *   Chicago
-    *   DC
-    *   Denver
-    *   Detroit
-    *   Miami
-    *   New York
-    *   Los Angeles
-    *   San Francisco
-    *   Patch.com
-    *   Mapquest
-    
-    **AOL**
-    *   Daily Finance
-    *   AOL Jobs
-    *   AOL Autos
-    *   Autoblog
-    *   AOL Music
-    *   AOL On
-    *   Games.com
-    *   Heidi Klum
-    *   AOL Shopping
-    *   Real Estate
-
-*   Election Maps
-*   Opportunity
-*   2012 Blog
-*   GPS for the Soul
-*   Latino Voices
-*   Black Voices
-*   Gay Voices
-*   Science
-*   Green
-*   Crime
-*   Sports
-*   Religion
-*   Highlights
+> If your drinking water has become compromised, make sure you boil the water before you use it.
+> 
+> \- Governor Dan Malloy (@GovMalloyOffice) October 30, 2012
 
   
-
-HUFFINGTONPOST.COM: PRIVACY POLICY  
-
-The Huffington Post, which owns and operates the website www.huffingtonpost.com (the "Site"), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site. how this information may be used and disclosed. how you can control the use and disclosure of your information. and how your information is protected. If you have any questions about this privacy policy, please contact our privacy team at privacy@huffingtonpost.com.  
-
-1.  Scope
-2.  What information the Site collects
-3.  How we use the information that we collect
-4.  Information sharing
-5.  Third-party services
-6.  Your choices
-7.  Access
-8.  Confidentiality and security
-9.  Visitors from outside of the United States
-10.  Children under 13
-11.  Changes to the privacy policy
-12.  Questions and suggestions
-
   
 
-1.  **Scope**
+> Do not attempt to wade or swim through any water. Water can become contaminated, so don't mess around with it.
+> 
+> \- Governor Dan Malloy (@GovMalloyOffice) October 30, 2012
 
-This privacy policy applies only to the Site. This policy does not apply to information collected through any other website or to the practices of companies that the Huffington Post does not control. Please note that the Site may contain links to other websites. For example, if you click on an advertisement on the Site and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit.  
+Continue Reading FDNY Boat Rescue Saves 25 People
 
-1.  **What information the Site collects**
+by Adam Rose, Posted Oct 30th 2012 7:35AM
 
-**Information you provide directly to us:**  
+Watch the AP report: Continue Reading New York Faucet Water Safe, Per Mayor's Office
 
-You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including:  
+by Adam Rose, Posted Oct 30th 2012 7:08AM
 
-*   contact information, such as name, email address, postal address, phone number, and mobile number.
-*   username and password;
-*   information posted in community discussions and other interactive online features.
-*   search queries conducted on the Site. and
-*   correspondence you send to us.
+> If you have water coming out of your faucet, it is safe to drink. #Sandy
+> 
+> \- NYC Mayor's Office (@NYCMayorsOffice) October 30, 2012
 
+Continue Reading Sandy Blamed For 85 Deaths
+
+by Adam Rose, Posted Oct 30th 2012 7:07AM
+
+> Total death-toll: 85 confirmed dead throughout Caribbean, US and Canada from Hurricane #Sandy bbc.in/TSAn3w
+> 
+> \- BBC Breaking News (@BBCBreaking) October 30, 2012
+
+Continue Reading New York Awakens To Sandy's Destruction
+
+by Adam Rose, Posted Oct 30th 2012 6:54AM
+
+_JENNIFER PELTZ, Associated Press  
+TOM HAYS, Associated Press_  
   
+NEW YORK (AP) - The effects of the superstorm that flooded parts of the city are lingering into Tuesday and likely will for much longer, with a large swath of the city out of power, subway and vehicle tunnels flooded, and the financial district closed for a second day.
 
-**Information automatically collected when you visit and interact with the Site:**
+A fire destroyed at least 50 houses overnight in Queens' flooded Rockaway peninsula and forced the rescue of about 25 people from an upstairs apartment. Officials weren't immediately able to pin down the cause of the blaze.
 
-When you visit and interact with the Site, certain information may be collected automatically, including:  
+The storm was once Hurricane Sandy but combined with two wintry systems to become a huge hybrid storm whose center smashed ashore late Monday in New Jersey. New York City was perfectly positioned to absorb the worst of its storm surge - a record 13 feet.
 
-*   your computer's Internet Protocol (IP) address;
-*   your browser type and operating system;
-*   the web pages you were visiting immediately before and after you came to the Site;
-*   activities within community discussions;
-*   web pages and advertisements that you view, and links that you click on, within the Site;
-*   your bandwidth speed and information about the software programs that are installed on your computer;
-*   aggregated data about email click-through rates and user video viewing;
-*   standard server log information. and
-*   information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of cookies and other technologies.
+"We knew that this was going to be a very dangerous storm, and the storm has met our expectations," Mayor Michael Bloomberg said. "This is a once-in-a-long-time storm."
 
+Continue Reading Sandy Shuts Down Nuclear Plants
+
+by Adam Rose, Posted Oct 30th 2012 6:49AM
+
+_JOSH LEDERMAN, Associated Press_  
   
+WASHINGTON - Parts of two nuclear power plant were shut down late Monday and early Tuesday, while another plant - the nation's oldest - was put on alert after waters from Superstorm Sandy rose 6 feet above sea level.
 
-**Information we collect from other sources:**
+One of the units at Indian Point, a plant about 45 miles north of New York City, was shut down Monday because of external electrical grid issues, said Entergy Corp., which operates the plant. The company said there was no risk to employees or the public, and the plant was not at risk due to water levels from the Hudson River, which reached 9 feet 8 inches and was subsiding. Another unit at the plant was still operating at full power.
 
-We may access information about you from third-party sources and platforms (such as social networking sites, databases, online marketing firms, and ad targeting firms), including:  
+Continue Reading West Virginia Snow Up To A Foot Deep
 
-*   if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services;
-*   demographic data, such as age range, gender, and interests;
-*   advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad. and
-*   unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.
+by Adam Rose, Posted Oct 30th 2012 6:48AM
 
+CHARLESTON, W.Va. (AP) - A blizzard warning covers a large part of West Virginia as snow and high winds blow over Appalachia on the edges of superstorm Sandy.
+
+The National Weather Service said Tuesday a foot and more of snow was reported in lower elevations of West Virginia, where most towns and roads are. High elevations in the mountains were getting more than two feet.
+
+More than 128,000 customers in West Virginia were without power.
+
+Authorities closed more than 45 miles of Interstate 68 on either side of the West Virginia-Maryland state line because of blizzard conditions and stuck cars.
+
+The State Highway Administration in Maryland says the higher elevations in the western state have gotten more than a foot of snow since Monday afternoon, and it was still snowing at 5 a.m. Tuesday.
+
+Continue Reading Almost 2 Million New Yorkers Without Power
+
+by Adam Rose, Posted Oct 30th 2012 6:47AM
+
+> #NYS POWER #OUTAGE report 6am: 1,943,572 NYers wout power from #Sandy
+> 
+> \- Andrew Cuomo (@NYGovCuomo) October 30, 2012
+
+Continue Reading How To Help The Victims Of Hurricane Sandy
+
+by Adam Rose, Posted Oct 30th 2012 6:35AM
+
+**The Red Cross: In the United States, the Red Cross has released an app that allows users to track the storm, receive weather alerts, obtain directions to the nearest shelter and use a one-touch "I'm Safe" button that lets family and friends know you're safe.  
   
-
-Please note that the Site may combine the information that we collect with information we obtain from third-party sources.  
-
-1.  **How we use the information that we collect**
-
-**Email Communications:**
-
-We may use the information that we collect to send you e-mail communications, such as editorial updates, information about your account or changes to the Site, and promotional messages about our own or our marketing partners' products and services. If you signed up for one of our email newsletters, we also will send you the newsletter that you requested.  
-
-**Mobile Communications:**
-
-With your consent, we may use your mobile number to send you promotions, notifications, or other services.  
-
-**Advertising:**
-
-In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of cookies and other technologies.  
-
-Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on third party advertising. Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy.  
-
-**User Accounts:**
-
-To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we keep track of the ratio of how many flagged comments are eventually deleted in order to award badges to our most effective comment moderators. For more information on this process, please see our FAQ section about comment moderation guidelines.  
-
-**Request Fulfillment:**
-
-We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer service requests or to enable you to participate in features on the Site such as surveys, polls, sweepstakes, and message boards.  
-
-**Statistical Analysis:**
-
-In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site's functionality, and to better tailor our content and design to suit our visitors' needs.  
-
-**Enforcement:**
-
-We may use the information that we collect to prevent illegal activities, to enforce the Site's Terms and Conditions, and to otherwise protect our rights and the rights of our users.  
-
-In addition to the uses identified above, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.  
-
-1.  **Information sharing**
-
-The Huffington Post values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:  
-
-*   We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site.
-*   We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
-*   If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions.
-*   We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place. However, the Site will notify you by placing a prominent notice on our site or sending a notice to the primary email address specified in your account before your information is transferred and becomes subject to a different privacy policy.
-*   We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site's Terms and Conditions, or as otherwise required by law.
-*   We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.
-*   In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
-
+The New York Blood Center is calling for donations to prevent any shortages after the storm hits. The organization is working with local hospitals to make sure they have an adequate supply. The center needs at least 2,000 donations a day to maintain its blood inventory.  
   
-
-Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on cookies and other technologies and third party advertising.  
-
-1.  **Third-party services**
-
-To customize your experience on the Site and to simplify the Site's registration process, we provide you with the opportunity to access or interact with third-party services, such as Facebook and Twitter. When you connect to the Site through these third-party services, we may share information about you with these third-party service providers and they may share data about you with us.  
-
-When you allow us to access your data through a third-party service to create a Site profile, we may use this data for several purposes, including:  
-
-*   _Creating relationships automatically within our system_. For example, if you connect to us via a service with a public friend list, like Twitter, we may check to see if any people you follow on Twitter are also Site members. If we find a match, we will replicate your Twitter relationship with those members, setting them to be fans, followers, or friends on our Site.
-*   _Suggesting relationships_. For example, if you connect via a service that has a private contact list (like Google and Yahoo!), we check for people in your contacts who are Site members and suggest that you become a fan of these users. This process is not automatic. you must affirmatively choose to become a fan of these suggested users.
-*   _Populating a list of potential friends to whom you can send emails._ When users share content with their friends using, for example, the forward-to-a-friend feature on the Site, we may use friend lists from third-party services to create a list of contacts to whom you may choose to send the email message.
-*   _Populating a list of potential friends to whom you can send service-specific messages._ For example, we may use friend lists from a third-party service to create a list of contacts to whom you may choose to send an invitation to view an interactive slideshow.
-*   _To enhance and personalize your experience on the Site_. When you are connected via a third-party service, we may access certain account information, such as your profile picture, what stories are popular in your network, and what your friends are saying about certain articles or blog posts, in order to enhance and personalize your experience on the Site.
-
+AmeriCares is preparing to deliver relief supplies like medicine, first aid kits, cleaning products and flashlights to susceptible communities along the East Coast. It has reached out to 100 health clinics, food banks and other agencies and also seeks aid workers ready to help.  
   
+The Feeding America network of food banks and agencies is prepared to deliver truckloads of food, water and supplies to communities in need. Its food banks will also set up additional emergency distribution sites, as needed.** Continue Reading WATCH: Explosion At New York Power Station
 
-In addition, if you connect to a Facebook account, your experience on the Site may be personalized. For example, you may automatically see what stories are popular in your network, and what your friends are saying about particular stories.  
+by Adam Rose, Posted Oct 30th 2012 6:33AM
 
-Please note that you may disconnect third party accounts at any time. Click here for a link to your social profile, where you may set your privacy preferences or disconnect all of your third-party service accounts. You also may be able to modify your privacy settings directly with the third-party service. To modify your Facebook privacy settings, click here. To modify your Twitter privacy settings, click here.  
+Continue Reading Disaster Declarations Ordered In 2 States
 
-Please remember that we do not control the privacy practices of these third-party services. We encourage you to read the privacy policies of all third-party service providers.  
+by Adam Rose, Posted Oct 30th 2012 6:27AM
 
-1.  **Your choices**
-
-**Deactivating your account**
-
-You can deactivate your account at any time by visiting the preferences page for your profile. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our Terms and Conditions.  
-
-**Cookies and other technologies**
-
-As discussed in the sections on cookies and other technologies and third party advertising, some information is collected about you automatically through cookies and other technologies.
-
-*   _Cookies._ You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. In addition, many third-party advertising networks are members of the Network Advertising Initiative ("NAI"). To opt out of having information collected by NAI member companies used for behavioral advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit http://www.networkadvertising.org/optout\_nonppii.asp.
-
+**President Barack Obama declared a major disaster in New York and New Jersey today. The order will make federal aid available to state and local recovery efforts in counties affected by Hurricane Sandy.  
   
+****Residents and business owners in these two states who sustained losses can begin applying for assistance by registering online or by calling 1-800-621-FEMA(3362) or 1-800-462-7585 (TTY) for the hearing and speech impaired. The toll-free telephone numbers will operate from 7 a.m. to 10 p.m. (local time) seven days a week until further notice.****** Continue Reading Blackout In Philly Expected To Last For More Than A Week
 
-*   _Flash Cookies_. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located here. Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the BetterPrivacy add-on to automatically delete your Flash cookies every time you close your browser.
+by Adam Rose, Posted Oct 30th 2012 6:26AM
 
-  
+> PSE&G says customers who lost power should be prepared to be without for 7-10 days. Here's the latest outage numbers: bit.ly/VzvwzJ
+> 
+> \- NBC10 Philadelphia (@NBCPhiladelphia) October 30, 2012
 
-If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests.  
+Continue Reading Just How Bad Is The Blackout?
 
-Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on third party advertising and visit the NAI's website.  
+by Adam Rose, Posted Oct 30th 2012 6:23AM
 
-1.  **Access**
+> @conedison: #ConEd "This is the largest storm-related outage in our history," says Con Edison SVP for Electric Operations John Miksad
+> 
+> \- Con Edison (@ConEdison) October 30, 2012
 
-If you choose to share contact information with us, you may update or amend this information by contacting us at privacy@huffingtonpost.com.  
+Continue Reading Steady Weakening Over Next 48 Hours
 
-1.  **Confidentiality and security**
+by Adam Rose, Posted Oct 30th 2012 6:22AM
 
-We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration.  
+**Sandy, about 15 miles east of York, PA, currently has sustained winds near 65 mph with higher gusts according to the National Hurricane Center's 5 a.m. (ET) update. The storm is expected to weaken steadily over the next 48 hours, over which time it's expected to head into Western PA and into Western NY this evening, and eventually into Canada on Wednesday.** Continue Reading More Ambulances Needed In New Jersey
 
-Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us.  
+by Adam Rose, Posted Oct 30th 2012 6:21AM
 
-1.  **Visitors from outside the United States**
+**The New Jersey EMS Task Force has put out a call on its Facebook page for additional assistance in supporting rescue/recovery operations. To offer help, e-mail njemstaskforce@njlincs.net.** Continue Reading Storm Inspires A Change Of Heart
 
-The Site's offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States. European Union Residents: AOL adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program.  
+by Adam Rose, Posted Oct 30th 2012 6:08AM
 
-1.  **Children under 13**
+> I take back every unkind thing I've said or thought about meteorologists. #Sandy
+> 
+> \- Bobby Ghosh (@ghoshworld) October 30, 2012
 
-We do not knowingly collect personal information from children under 13. If we learn that we have collected any personal information from a child under the age of 13 without verifiable parental consent, we will delete that information from our database as quickly as possible. If you believe that we may have collected information from a child under 13, please contact us at privacy@huffingtonpost.com.
+Continue Reading Wind Map
 
-1.  **Changes to the privacy policy**
+by Adam Rose, Posted Oct 30th 2012 6:07AM
 
-We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the "Effective Date." We will notify you of any material changes in the way we treat your information by placing a prominent notice on our site or sending a notice to the primary email address specified in your account.  
+**This wind map is equal parts hypnotizing and frightening. It's an art project by hint.fm (and as an art project, they don't guarantee correctness).** Continue Reading Queens Fire Rages
 
-1.  **Questions and suggestions**
+by Adam Rose, Posted Oct 30th 2012 6:04AM
 
-If you have questions about this privacy policy, please contact our privacy team at privacy@huffingtonpost.com.  
+**A six-alarm fire has completely destroyed at least 50 homes in Breezy Point, Queens according to the New York Fire Department. FDNY tells the Daily News that 198 firefighters are on the scene. Video from NBC NY:  
+**Continue Reading
 
-_Effective Date: May 15, 2012_  
+*   Next Page
 
-  
+Huffington Post Outage
+
+Due to power outages caused by Superstorm Sandy, our own website is experiencing technical difficulties. We are working around the clock to get the site back to normal. The news team, which has offices around the U.S. and in other countries, is still monitoring everything and will be updating this page with the latest on the storm. We will also update our social media accounts.  
+Twitter -  
+https://twitter.com/HuffingtonPost/  
+Facebook -  
+https://www.facebook.com/HuffingtonPost
+
+You can also visit:
+
+*   HuffPost Elections
+*   HuffPost Live
+*   HuffPost Highlights
 
 *   Advertise |
-
 *   Make HuffPost your Home Page |
 *   RSS |
 *   Careers |
@@ -528,6 +233,3 @@ _Effective Date: May 15, 2012_
 *   "The Huffington Post" is a registered trademark of TheHuffingtonPost.com, Inc. All rights reserved.
 
 *   Part of **HuffPost News • HPMG News**
-
-  
-HuffPost Lightbox
