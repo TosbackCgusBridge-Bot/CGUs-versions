@@ -143,9 +143,17 @@ Naples Daily News
 *   Cars
 *   Classified
 
-*   Trail of Betrayal
+*   Lake Wind Advisory
     
-    Part 2 of 3: Investigation of Boy Scouts' records reveals systemic failures
+    IN EFFECT UNTIL OCT 30, 5:00 p.m.
+    
+    issued for Lee
+    
+*   High Surf Advisory
+    
+    IN EFFECT UNTIL OCT 31, 6:00 a.m.
+    
+    issued for Lee
     
 
 Privacy Policy
@@ -440,25 +448,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 254 comments
-*   Romney tells Florida crowd: Chant for Obama should be '10 more days' Published 10/27/2012 at 9:40 p.m. 82 comments
-*   Lee sees voter registration spike. Collier experiences biggest drop in state Published 10/28/2012 at 5:30 a.m. 4 comments
-*   Megastorm could wreak havoc across 800 miles of U.S. Published 10/28/2012 at 8:15 a.m. 29 comments
-*   Little-known Florida U.S. Senate hopefuls push Israeli statehood, 'someone new' Published 10/28/2012 at 8:00 a.m. 1 comment
+*   Obama cancels Florida campaign trip, returns to D.C. Published 10/29/2012 at 9:05 a.m. 158 comments
+*   Lee deputies arrest 40 in online child sex sting Updated 10/29/2012 at 8:16 p.m. 23 comments
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 316 comments
+*   Hurricane Sandy gains power and aims for Northeast Updated 10/29/2012 at 3:43 p.m. 22 comments
+*   Ochopee woman dies in crash on U.S. 41 in Collier County Published 10/29/2012 at 3:31 p.m.
 
-Photo Galleries Lipdub films video in downtown Naples Naples Stone Crab Festival 2012 NNFD Halloween Costume Party 2012
+Photo Galleries Lipdub films video in downtown Naples Operation SPIDERWEB: Lee County Sex… NNFD Halloween Costume Party 2012
 
-*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 254 comments
-*   Poll: Romney erases Obama lead among women Published 10/25/2012 at 6:49 a.m. 223 comments
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 316 comments
+*   Obama cancels Florida campaign trip, returns to D.C. Published 10/29/2012 at 9:05 a.m. 158 comments
 *   Lines are long at early voting as expected, long ballot has election officials urging 'patience' Published 10/27/2012 at 3:10 a.m. 103 comments
-*   Collier deputy stripped of law enforcement credentials after two fatal wrecks Published 10/26/2012 at 5:58 p.m. 85 comments
-*   Romney tells Florida crowd: Chant for Obama should be '10 more days' Published 10/27/2012 at 9:40 p.m. 82 comments
+*   Romney tells Florida crowd: Chant for Obama should be '10 more days' Published 10/27/2012 at 9:40 p.m. 91 comments
+*   Obama, Romney have eyes on Sandy - and Florida - as campaign hits final 10 days Published 10/27/2012 at 1:01 p.m. 53 comments
 
 *   Venice diocese removes once-popular priest in Bonita Springs from priesthood Published 10/24/2012 at 5:10 a.m. 38 comments
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 316 comments
 *   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 67 comments
-*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 254 comments
-*   Planned North Naples resort community more proof local economy on rebound, some say Published 10/18/2012 at 5:00 a.m. 54 comments
 *   In the Know: Seconds, anyone? Even more area restaurants planning to open soon Published 10/24/2012 at 5:00 a.m. 17 comments
+*   Endorsement editiorial: The 11 Florida constitutional amendments Published 10/27/2012 at 4:00 a.m. 4 comments
 
 Weather
 
@@ -466,40 +474,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 64° Overcast Wind: N 5mph Today 70° 61° Mon 08:00 PM Mostly Clear Temp: 67° Tue 08:00 AM Mostly Sunny Temp: 60° Tue 08:00 PM Mostly Clear Temp: 67°
+Currently 58° Overcast Wind: NE 10mph Today 71° 56° Tue 08:00 PM Partly Cloudy Temp: 67° Wed 08:00 AM Partly Sunny Temp: 60° Wed 08:00 PM Partly Cloudy Temp: 71°
 
 Feels Like: 67°
 
-Humidity: 50%
+Humidity: 53%
 
-Precip: 0%
+Precip: 5%
 
 Feels Like: 60°
 
-Humidity: 60%
+Humidity: 75%
 
 Precip: 5%
 
-Feels Like: 67°
+Feels Like: 71°
 
-Humidity: 54%
+Humidity: 61%
 
-Precip: 5%
+Precip: 10%
 
 More Weather » Calendar
 
-*   Monday Oct 29
 *   Tuesday Oct 30
 *   Wednesday Oct 31
+*   Thursday Nov 1
 *   More BROWSE Icon
-
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Baby boot camp Miromar Outlets 9 a.m.
-*   Pumpkin Patch North Naples United Methodist Church 9 a.m.
-*   The Secrets of America’s Richest and Oldest Families FGCU Naples Center 10 a.m.
-
-More Events »
 
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
@@ -517,6 +517,14 @@ More Events »
 
 More Events »
 
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Boater Education: Suddenly In Command (SIC) United States Coast Guard Auxiliary Flotilla 96 13531 Vanderbilt Road Naples, FL 34110 9 a.m.
+*   Workshop: Nature Photography Made Simple &. Productive Tigertail Beach 9 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Paddleboard and Fitness 1st Ave S. Old Naples 9 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
@@ -525,45 +533,46 @@ More Events » Features
     
     Search for local Halloween events &. enter our costume contest.
     
-    Download iPad
+    NewsMakers
     
-    Experience the Naples Daily News -- reimagined for the iPad. Download now »
+    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
     
-    Cuties of the Week
+    View Case Files
     
-    We want to see photos of your adorable kids and grandkids. Share your photos »
+    Investigation of Boy Scouts' records reveals systemic failures.
     
-*   Prep football
+*   Go Shots
     
-    Find videos, photos from Friday's high school football games.
+    Photos of Southwest Florida residents hanging out at local hot spots around town.
     
-    From the Stands
+    Election 2012
     
-    Submit your fan and band photos from high school football games.
+    Find videos, photos, stories about the upcoming general election.
     
     Mugshots
     
     Looking for daily arrest mugshots? You can find them here in our special section.
     
-*   Election 2012
+*   Hot Home Sales
     
-    Find videos, photos, stories about the upcoming general election.
+    Pictures, info about recently sold single-family homes in Collier and Lee.
+    
+    Cuties of the Week
+    
+    We want to see photos of your adorable kids and grandkids. Share your photos »
     
     Biggest Catch
     
     See photos from local anglers with their biggest catch of the day. Submit your photos.
     
-    f Hot Home Sales
-    
-    Pictures, info about recently sold single-family homes in Collier and Lee.
-    
-*   NewsMakers
-    
-    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
-    
-    Interactive map
+    f
+*   Interactive map
     
     Search for local farmers markets in Collier and Lee counties.
+    
+    Download iPad
+    
+    Experience the Naples Daily News -- reimagined for the iPad. Download now »
     
     Here's to our Heroes
     
