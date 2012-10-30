@@ -212,105 +212,105 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-After Bush v. Gore, Obama, Clinton wanted Electoral College scrappedAxelrod downplays polls, touts Obama early-voting edgeGallup daily: Romney leads Obama 50-46 among likely votersCutter: Des Moines Register endorsement not based 'in reality’Married couple fights for political lives
+Presidential race just got tighter in election ground zero — OhioJoss Whedon says a vote for Romney is a vote for the zombie apocalypseGallup: Romney extends lead over Obama to 5 pointsArmy guards at Tomb of the Unknown Soldier withstand hurricaneRomney and Ryan announce 'storm relief' efforts for Tuesday
 
 Emailed
 
-After Bush v. Gore, Obama, Clinton wanted Electoral College scrappedElizabeth Warren is the Democrats’ pride, Todd Akin and Richard Mourdock are the Republicans’ shameMarried couple fights for political livesDes Moines Register endorses RomneyAntigua and Barbuda fights back against Majority Leader Reid's online poker bill
+Joss Whedon says a vote for Romney is a vote for the zombie apocalypseBob Kerrey: Duty, honor, country, courage, service, integrity, independence, responsibilityPresidential race just got tighter in election ground zero — OhioAfter Bush v. Gore, Obama, Clinton wanted Electoral College scrappedArmy guards at Tomb of the Unknown Soldier withstand hurricane
 
 Discussed
 
-International monitors at US polling spots draw criticism from voter fraud groupsTexas sparks international row with election observersActor Bill Murray to CNBC: 'I think we ought to be personally responsible'More bad news for Mitt Romney After Bush v. Gore, Obama, Clinton wanted Electoral College scrapped
+Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'After Bush v. Gore, Obama, Clinton wanted Electoral College scrappedChris Matthews: 'Racial hatred' drives support for Romney on rightCutter: Des Moines Register endorsement not based 'in reality’Presidential race just got tighter in election ground zero — Ohio
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Obama skips Fla. visit to oversee response to Hurricane Sandy
-*   Obama: Sandy a ‘serious and big storm’
-*   Obama, daughters head to church
+*   FEMA administrator says dangerous conditions from Sandy persist
+*   Romney and Ryan announce 'storm relief' efforts for Tuesday
+*   Ann Romney stresses breast cancer awareness in Glamour
 
   
 More Briefing Room » Congress Blog
 
-*   How Nevada's Asian American vote can swing election
-*   Turning Medicaid over to the states would undermine program
-*   Battle-ready missile defense radars must be protected from cuts
+*   Breaking the political stalemate through talent
+*   Obama's new plan is a rehash of old one
+*   Google's data-collecting habits drawing more scrutiny
 
   
 More Congress Blog » Pundits Blog
 
-*   Knowing your candidates
-*   Big-business religion, from the pulpit to the cemetery
-*   Elizabeth Warren is the Democrats’ pride, Todd Akin and Richard Mourdock are the Republicans’ shame
+*   Taking a leaf from Bill Clinton's playbook
+*   Bob Kerrey: Duty, honor, country, courage, service, integrity, independence, responsibility
+*   Money and politics
 
   
 More Pundits Blog » Twitter Room
 
-*   Michelle Obama: Happy birthday, Hillary Clinton
-*   Sen. McCaskill tweets from mother's bedside
-*   Rep. Issa wishes Sen. Grassley 'deer-free driving'
+*   Hurricane Sandy prompts surge of photo sharing
+*   Trump presses Obama to respond to offer, despite hurricane
+*   Army guards at Tomb of the Unknown Soldier withstand hurricane
 
   
 More Twitter Room » Hillicon Valley
 
-*   Local television stations in swing-states cash in on deluge of political ads
-*   Cybersecurity bill likely dead
-*   Yahoo to ignore 'Do Not Track' requests from Internet Explorer users
+*   FCC monitoring Internet, phone outages
+*   Administration defends Bush-era surveillance law before high court
+*   Leibowitz says FTC open to settling Google case
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Green group hits Romney, George Allen in $1.7M homestretch ad buy
-*   Obama ‘surprised’ climate didn’t surface at the presidential debates
-*   Liberal groups ramp up Arizona Senate race spending with new TV spot
+*   News bites: Sandy’s energy toll
+*   Green group denies funding Montana Senate ad
+*   GOP senator would likely oppose potential Romney EPA chief nominee
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Poll: Romney up with Fla. voters in crucial I-4 corridor
-*   Poll: Obama overtakes Romney for 2-point lead in NH
-*   Poll: Obama stretches Ohio lead to 4 points
+*   Pew Poll finds even split among likely voters, GOP enthusiasm advantage
+*   Poll: Romney, Obama locked in 49-49 tie
+*   Sen. McCaskill's mother dies
 
   
 More Ballot Box » On The Money
 
-*   Campaigns hope to receive boost from economic data ahead of election day
-*   Fiscal cliff is now the best shot for farm bill, agriculture lobbyists say
-*   White House: No 'specific proposal' to replace expiring payroll tax cut
+*   Businesses expect moderate economic growth over next year
+*   Hurricane Sandy casts doubt over October employment report
+*   Treasury undersecretary to attend G-20 meeting
 
   
 More On The Money » Healthwatch
 
-*   Efforts to cut funding for Planned Parenthood at state level fall short
-*   Advocates lament shrinking funds for medical research
-*   News bites: What cliff?
+*   Report: Health law's costs continuing to grow
+*   House Dem slams drug compounders in new report
+*   Supreme Court turns down appeal in Okla. 'personhood' case
 
   
 More Healthwatch » Floor Action
 
-*   Sen. Paul: Obama had four hours to respond militarily to Libyan terrorist attack
-*   GOP Rep. Blackburn says Obama's 'first time' ad is 'repulsive'
-*   GOP lawmaker to propose bill to tighten rules on military absentee ballots
+*   Rep. Paul: Banks must fail before housing market returns
+*   House delays pro forma session till Tuesday afternoon due to Sandy
+*   Poll: Bob Kerrey tightens Senate race against Deb Fischer in Nebraska
 
   
 More Floor Action » Transportation
 
-*   Romney under fire for ad claim that Jeep brand moving to China
-*   Car rental company: 'Birther' stickers weren't approved
-*   Sen. Durbin blasts 'false and misleading' Parkmobile fee increase explanation
+*   Obama ad labels Romney Jeep commercial a 'lie'
+*   Obama: ‘Transportation is going to be tied up for a long time’ by Hurricane Sandy
+*   Auto bailout cited in Detroit paper's endorsement of Obama
 
   
 More Transportation » DEFCON Hill
 
-*   Congress gangs up over Libya
-*   Army inches toward new mission
-*   GOP Senators demand declassification of Libya surveillance
+*   Pentagon: Libya rumor 'absolutely false'
+*   Iran claims drones gained access to secret Israeli facilities
+*   Terror attacks rock Afghanistan, Iraq over Eid holiday
 
   
 More DEFCON Hill » Global Affairs
 
-*   Obama says he is 'ultimately' responsible for Benghazi security
-*   US slams UN expert's call for Israel-related boycott as 'irresponsible'
-*   Speaker Boehner calls for answers from the president on Benghazi attack
+*   Clinton presses Algeria to assist in possible military intervention in Mali
+*   Israelis favor Romney over Obama by wide margin in latest poll
+*   Indonesia police: US embassy targeted by terrorists
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris Don't count Mourdock out Lanny Davis Obama's second term More Columnists »
