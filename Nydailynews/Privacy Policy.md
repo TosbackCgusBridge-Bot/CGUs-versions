@@ -1,4 +1,4 @@
-*   Monday, October 29, 2012
+*   Tuesday, October 30, 2012
 *   NYDailyNews.com / Privacy Policy
 
 *   Jobs
@@ -48,9 +48,9 @@ Daily News
     Place An Ad
     
 
-HURRICANE SANDY
+SUPERSTORM SANDY
 
-Get the latest updates, information and alerts with our live storm coverage
+SANDY WREAKS HAVOC ON EASTERN SEABOARD: LIVE STORM COVERAGE
 
 x PRIVACY POLICY
 
