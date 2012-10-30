@@ -15,7 +15,7 @@ Halloween Costumes Customer Service Store Locator Change to Canada
     *   Halloween Day of the Dead Thanksgiving Hanukkah Christmas Kwanzaa New Years Chinese New Year Valentines Day Mardi Gras St. Patricks Day Passover Easter Cinco de Mayo 4th of July Oktoberfest
 
 *   Halloween Costumes
-    *   New Costumes Baby, Toddler Costumes Boys Costumes Girls Costumes Teen Costumes Womens Costumes Sexy Costumes Mens Costumes Plus Size Costumes Couples, Group Costumes Dog Costumes Costume Accessories Decorations, Supplies
+    *   Baby, Toddler Costumes Boys Costumes Girls Costumes Teen Costumes Womens Costumes Sexy Costumes Mens Costumes Plus Size Costumes Couples, Group Costumes Dog Costumes Costume Accessories Decorations, Supplies
 
 *   Entertaining &. Serving
     *   Fashion Tableware Premium Tableware Eco Friendly Tableware Chargers Placemats Table Covers Hand Towels Cutlery Candles Table Decorations Cups Stemware Pitchers, Ice Buckets Serving Trays Serving Bowls Serving Utensils Aluminum Pans Chafing Dishes Serving Accessories Mini Tasting Party Cocktail Napkins Appetizer Plates Picks, Stirrers, Straws Bar Accessories Drink Mixes Party Games Drink Tickets Housewarming Gifts
