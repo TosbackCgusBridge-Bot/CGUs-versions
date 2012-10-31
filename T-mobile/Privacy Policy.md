@@ -1,9 +1,18 @@
-Offer details FREE activation on all SIM cards **For a limited time, pay no activation fee when you purchase a T-Mobile SIM or micro SIM card. Thats a $35 savings!**  
-Want service for a device you already own? All you need is a SIM card and a plan from T-Mobile. Just snap the SIM card into your phone and get superfast coverage from coast-to-coast on T-Mobile's nationwide 4G network.  
+Hurricane Sandy Relief Text Your Donation to Help With Hurricane Sandy severely impacting many areas, its a good time to consider making a donation to relief efforts. T-Mobile® customers can make a secure donation to the American Red Cross® using their T-Mobile phone.  
   
-Act now! Offer ends on 10/31. New 2-year agmt. on qualifying rate plan required.
 
-*   Limited time: FREE activation on all SIM cards, a $35 savings Details
+*   **Text the keyword DONATE to 90999 to give $25**
+*   **Text the keyword REDCROSS to 90999 to give $10**
+
+  
+  
+One hundred percent of any donation you make using your T-Mobile phone using these text shortcodes is made directly to the American Red Cross.  
+  
+Donations are charged to your T-Mobile phone bill. Donation text messages are free for all T-Mobile customers\*.  
+  
+Learn more >. \*Msg and Data rates may apply if using another carrier. The Greek Red Cross emblem and the American Red Cross name are federally protected marks of The American National Red Cross.
+
+*   HURRICANE SANDY RELIEF: Text your donation to help Details
 
   
 Privacy Policy: Highlights
