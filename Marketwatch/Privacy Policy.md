@@ -198,89 +198,87 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 29, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT October 31, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:06a
+/news/latest1.  8:02a
     
-    Hurricane Sandy winds at 85 mph
+    Evercore affirms overweight rating on Disney
     
-2.  8:06a
-    
-    Hurricane Sandy now moving at 20 mph
-    
-3.  8:04a
-    
-    Oil slips, gasoline gains as hurricane nears U.S.
-    
-4.  8:01a
+2.  8:01a
     
     Updates, advisories and surprises
     
-5.  8:00a
+3.  8:01a
     
-    Coming up: Personal spending, income for September
+    Disney's $4 bln Star Wars deal praised at Evercore
     
-6.  7:54a
+4.  7:53a
     
-    Hurricane Sandy forces U.S. markets to close
+    UBS AG up 13.6% in premarket after job cuts
     
-7.  7:52a
+5.  7:50a
     
-    Radio update: Sandy shuts down Wall Street
+    Opnet Technologies up 25% in premarket
     
-8.  7:48a
+6.  7:50a
     
-    Burger King 3rd-period net off. dividend initiated
+    GM profit falls, but beats Wall Street estimate
     
-9.  7:32a
+7.  7:47a
     
-    Burger King paying quarterly dividend of 4c
+    Big earnings Wednesday: GM, MetLife, MasterCard
     
-10.  7:30a
+8.  7:42a
     
-    Burger King adj Q3 net 17c
+    GM says Q3 results were 'solid'
     
-11.  7:29a
+9.  7:41a
     
-    Burger King Q3 net 2c vs. 11c
+    GM Q3 revenue $37.6 bln vs. $36.7 bln
     
-12.  7:25a
+10.  7:41a
     
-    Clean Harbors buying oil recycler for $1.25 bln
+    GM Q3 net 89c vs. $1.03
     
-13.  7:24a
+11.  7:41a
     
-    Some firms delay earnings reports due to Sandy
+    GM takes 4c in Q3 special items
     
-14.  7:18a
+12.  7:40a
     
-    BREAKING
+    Stock futures higher as Wall Street set to reopen
     
-    Treasury brings forward 4-week bill auction
+13.  7:36a
     
-15.  7:12a
+    Garmin Q3 net off 6.7%. adjusted net, revenue up
     
-    Clean Harbors buying Safety-Kleen for $1.25 bln
+14.  7:30a
     
-16.  7:02a
+    Radio update: Wall Street set for post-Sandy open
     
-    REITs are priced to sell
+15.  7:21a
     
-17.  7:01a
+    Wednesday’s biggest gaining and declining stocks
     
-    Look for wealthy donors to give more
+16.  7:19a
     
-18.  7:00a
+    Gold edges higher as dollar weakens
     
-    Boomer women more financially insecure than men
+17.  7:06a
     
-19.  6:58a
+    Oil futures up for second day in Sandy’s wake
     
-    U.S. stock futures lower. early close ahead
+18.  7:05a
     
-20.  6:54a
+    Garmin Q3 FactSet view net 61c, revs $662.3M
     
-    FTSE falls as storm jitters hit energy, insurers
+19.  7:05a
+    
+    Garmin Q3 revenue $672.4M vs $667M
+    
+20.  7:01a
+    
+    How to avoid the consequences of QE3
     
 21.  Loading more headlines...
 
@@ -297,9 +295,9 @@ dow /quotes/zigman/627449 13,107.21 +3.53 +0.03% nasdaq /quotes/zigman/123127 2,
     
     U.S. Economy
     
-      Breaking down GDP report  
-    The U.S. economy grows at a 2% rate in the third quarter, a bit stronger than the 1.7% expected by economists and up from 1.3% in the second quarter.  
-    /conga/kiosk/capitol-report.html 232923
+        Big storms, small impact  
+    In the short term, storms like Hurricane Sandy can cause serious economic damage, but the negative impact rarely lasts for long.  
+    /conga/kiosk/capitol-report.html 233139
 *   1339754400000 1340010000000
     
     Investing
@@ -313,13 +311,6 @@ dow /quotes/zigman/627449 13,107.21 +3.53 +0.03% nasdaq /quotes/zigman/123127 2,
     13 cities going broke  
     Stockton, Calif., (left) tops the list of U.S. cities in dire financial straits. See what other areas are drowning in recession-induced red ink.  
     /conga/kiosk/wildcard2.html 232912
-*   1309191300000 1309248000000
-    
-    Personal Finance
-    
-    Translating MLM pitches  
-    Here's what you'll have to find out for yourself when multilevel-marketing firms try to enlist you to sell their products to everyone you know. (Slide show)  
-    /conga/kiosk/wildcard3.html 232918
 *   1343988600000 1344810900000
     
     U.S. Week Ahead
