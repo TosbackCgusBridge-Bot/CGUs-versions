@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Mondrian Los Angeles
-    
-    Starting Today 10/30 at 3pm EDT
-    
-*   Sivory Punta Cana - DR Dominican Republic
-    
-    Starting Today 10/30 at 3pm EDT
-    
-*   Thompson Toronto
-    
-    Starting Today 10/30 at 3pm EDT
-    
-*   Hyatt Regency Lake Tahoe
-    
-    Starting Today 10/30 at 3pm EDT
-    
-*   Buena Vista Palace - Florida
-    
-    Starting Wednesday 10/31 at 3pm EDT
-    
-*   Hotel Palomar Philadelphia
-    
-    Starting Wednesday 10/31 at 3pm EDT
-    
 *   Boscolo Carlo IV - Prague
     
-    Starting Wednesday 10/31 at 3pm EDT
+    Starting Today 10/31 at 3pm EDT
     
 *   Constance Moofushi - Maldives
     
-    Starting Wednesday 10/31 at 3pm EDT
+    Starting Today 10/31 at 3pm EDT
+    
+*   Hotel Palomar Philadelphia
+    
+    Starting Today 10/31 at 3pm EDT
+    
+*   Buena Vista Palace - Florida
+    
+    Starting Today 10/31 at 3pm EDT
+    
+*   Sedona Rouge - Arizona
+    
+    Starting Thursday 11/1 at 3pm EDT
+    
+*   Hotel le Bellechasse - Paris
+    
+    Starting Thursday 11/1 at 3pm EDT
+    
+*   Sparkling Hill Resort - Canada
+    
+    Starting Thursday 11/1 at 3pm EDT
+    
+*   Harvest Inn - Napa Valley
+    
+    Starting Thursday 11/1 at 3pm EDT
     
 
 View All Upcoming Sales → Jetsetter
