@@ -224,9 +224,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   These Role Models Inspired Our New Stylebook
-    *   A Stitch in Time: Seasonal Crafts From Pinterest!
-    *   UK Designer Charlotte Taylor’s Fall 2012 Collection Strikes a Chord
+    latest blog posts*   Spend a Day with a ModCloth Buyer on Our Tumblr!
+    *   Guest Gal: ModFan Larissa’s 3-step Chocolate Acorns!
+    *   These Role Models Inspired Our New Stylebook
     
     *   modcloth blog
     *   In Other Words
