@@ -33,7 +33,7 @@ Skip to Main Content Area Home   X Connect With Mitt Follow @MittRomney Login |
 *   News &. Media
     
     *   Featured Blog
-    *   #ExpandTheMap: Let's Win This Read More
+    *   Help Us Expand The Map Read More
     *   More News
     
     *   Videos
