@@ -45,48 +45,42 @@ Loading Modnique - Boutique Events
 *   all events
     *   women
     *   Attitude Line Skincare
+    *   Brown boots
     *   Cartier
-    *   Chanel, Bvlgari, Carrera y Carrera, Tiffany and more
     *   Colored diamonds
+    *   Everything under $50: Jewelry
     *   FPJ jewelry
-    *   Hodges Collection Women's Apparel
+    *   Fuzion Crystal jewelry
+    *   Green Hills Handbags
+    *   Handmade in Italy jewelry featuring Zydo and more
     *   Holiday gifts: Affordable jewelry
-    *   Kenzo scarves
-    *   Le Vaunt Clutches
-    *   Louis Vuitton, Hermes, Celine, Barry Kieselstein-Cord and more
-    *   ORPHELIA Silver &. Pearls Jewelry
-    *   Wedding Jewelry Trends
+    *   Insight Women's Apparel
+    *   Louis Vuitton Handbags from $219
+    *   ORPHELIA Gold &. Diamond Jewelry
+    *   Parasuco Women's Apparel
+    *   Trend Alert: Black &. Gold
     *   Winter Coats featuring Guess and more
     *   _more..._
     *   men
-    *   Gianfranco Ferre Mens Accessories: Belts, Wallets, &. Accessories
-    *   Men's shop: Dolce &. Gabanna, D&G Denim and Shirts from $75
-    *   TBS Men's Shoes
-    *   Tissot, John Varvatos, Ralph Lauren, Versace and more
+    *   Gianfranco Ferre Mens Accessories
+    *   Men's shop: Dolce &. Gabanna, Denim and Shirts from $75
     *   _more..._
     *   other
-    *   Always in Style: Chronograph Watches from $35
-    *   Dead sea cosmetic blowout
-    *   Ed hardy. Christian Audigier
+    *   Ted Lapidus Watches
+    *   Tigi Hair Products Made In USA
     *   _more..._
 *   apparel
     *   women
-    *   Carol Rose and Ellen Parker Women's Apparel
-    *   CeMe London Dresses
-    *   Chanel, Bvlgari, Carrera y Carrera, Tiffany and more
-    *   Everything under $39
     *   Hodges Collection Women's Apparel
-    *   Ivanka Trump and Misook Apparel
-    *   Louis Vuitton, Hermes, Celine, Barry Kieselstein-Cord and more
-    *   M Missoni Women's Apparel
-    *   Red Alert
+    *   Insight Women's Apparel
+    *   Parasuco Women's Apparel
+    *   Trend Alert: Black &. Gold
     *   Winter Coats featuring Guess and more
     *   Winter Layering Essentials
     *   Winter essentials for her from $19
     *   _more..._
     *   men
-    *   Men's shop: Dolce &. Gabanna, D&G Denim and Shirts from $75
-    *   Tissot, John Varvatos, Ralph Lauren, Versace and more
+    *   Men's shop: Dolce &. Gabanna, Denim and Shirts from $75
     *   _more..._
     *   other
     *   Ed hardy. Christian Audigier
@@ -94,46 +88,43 @@ Loading Modnique - Boutique Events
 *   Jewelry &. Watches
     *   women
     *   Cartier
-    *   Chanel, Bvlgari, Carrera y Carrera, Tiffany and more
     *   Colored diamonds
+    *   Everything under $50: Jewelry
     *   FPJ jewelry
-    *   For Party Season: gemstone jewelry deals
+    *   Fuzion Crystal jewelry
+    *   Handmade in Italy jewelry featuring Zydo and more
     *   Holiday gifts: Affordable jewelry
     *   Holiday gifts: Designer jewelry
-    *   Louis Vuitton, Hermes, Celine, Barry Kieselstein-Cord and more
+    *   LAUREN G. ADAMS Crystal Jewelry Set
+    *   ORPHELIA Gold &. Diamond Jewelry
     *   ORPHELIA Silver &. Pearls Jewelry
-    *   One &. Only: Luxury Jewelry for Her
     *   Our Picks: Earrings and Necklaces
     *   Our Picks: Rings and Bracelets
     *   Pilgrim of Denmark Jewelry
     *   Refresh your jewelry box: studs
-    *   Saachi Jewelry &. Scarves
-    *   Silver jewelry under $49
     *   Wedding Jewelry Trends
     *   _more..._
     *   other
     *   Always in Style: Chronograph Watches from $35
     *   Designer watches for less
-    *   Lancaster Watches Made In Italy Blowout
+    *   Ted Lapidus Watches
     *   _more..._
 *   Handbags &. Accessories
     *   women
     *   Aquaswiss Sunglasses
-    *   Diesel Handbags
+    *   Green Hills Handbags
     *   Holiday gifts: Designer jewelry
     *   Kenzo scarves
     *   Le Vaunt Clutches
-    *   Louis Vuitton, Hermes, Celine, Barry Kieselstein-Cord and more
+    *   Louis Vuitton Handbags from $219
     *   _more..._
     *   men
-    *   Gianfranco Ferre Mens Accessories: Belts, Wallets, &. Accessories
+    *   Gianfranco Ferre Mens Accessories
     *   Montres De Luxe Milano Watches
-    *   _more..._
-    *   other
-    *   Designer accessories sale
     *   _more..._
 *   shoes
     *   women
+    *   Brown boots
     *   _more..._
     *   men
     *   TBS Men's Shoes
@@ -143,20 +134,18 @@ Loading Modnique - Boutique Events
     *   Attitude Line Skincare
     *   _more..._
     *   other
-    *   Dead sea cosmetic blowout
+    *   Tigi Hair Products Made In USA
     *   _more..._
 *   men
     *   Always in Style: Chronograph Watches from $35
-    *   Dead sea cosmetic blowout
-    *   Designer accessories sale
     *   Designer watches for less
     *   Ed hardy. Christian Audigier
-    *   Gianfranco Ferre Mens Accessories: Belts, Wallets, &. Accessories
-    *   Lancaster Watches Made In Italy Blowout
-    *   Men's shop: Dolce &. Gabanna, D&G Denim and Shirts from $75
+    *   Gianfranco Ferre Mens Accessories
+    *   Men's shop: Dolce &. Gabanna, Denim and Shirts from $75
     *   Montres De Luxe Milano Watches
     *   TBS Men's Shoes
-    *   Tissot, John Varvatos, Ralph Lauren, Versace and more
+    *   Ted Lapidus Watches
+    *   Tigi Hair Products Made In USA
     *   and many more...
 *   gifts
 *   daily deal
