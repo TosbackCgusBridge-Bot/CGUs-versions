@@ -67,7 +67,7 @@ Pacsun
 *   Womens
 *   Shoes
 *   Denim
-*   Trends
+*   Snow
 *   Sale
 *   Brands
 *   Blog
@@ -326,6 +326,22 @@ Don't miss Brands
 *   Women's >.
 *   More >
 
+Men's
+
+*   Jackets +  
+    Performance Fleece
+*   Pants
+*   Goggles,  
+    Gloves + Beanies
+
+Women's
+
+*   Jackets +  
+    Performance Fleece
+*   Pants
+*   Goggles,  
+    Gloves + Beanies
+
 Company Info
 
 *   About PacSun
@@ -449,5 +465,7 @@ Social
 *   Flickr
 *   Twitter
 *   Pinterest
+*   Tubmlr
+*   Instagram
 
 ©2012 Pacific Sunwear of California Inc. All rights reserved.
