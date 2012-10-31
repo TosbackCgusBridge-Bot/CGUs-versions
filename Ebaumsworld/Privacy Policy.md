@@ -1,27 +1,27 @@
-*   VIDEO Wind Pushes Punt Backwards For A Safety
-*   VIDEO Fat Wrestler Backflips Off The Ropes
-*   YOUR DEAD BODY BLOG What to do With Your Dead Body
 *   CONTEST GALLERY eBaum's World Halloween Costume Contest
-*   PARTNER REAL OR FAKE
-*   VIDEO Behind the Finger
-*   VIDEO SDSU Student Hits Half Court Shot
-*   COMMUNITY GAME Neckbeard Basement Escape
-*   HALLOWNEED BLOG Halloween...
-*   VIDEO Stinky Cheese
-*   VIDEO Amazing Halloween Light Show
 *   VIDEO Biker Back Flop
-*   VIDEO Walking on Metal Bar Nut Crush
-*   VIDEO You Shouldn't Go Parasailing While Drunk
+*   EBAUM'S QUIZ GAME Quiz: What Kind of eBaum's user are you?
+*   TIME FOR BATTLE VIDEO The Saga Continues
+*   SHOCKER PARTNER REAL OR FAKE
+*   GAME Infectionator 2
+*   GAME FrankenSplit
+*   VIDEO Teacher Gets Ass Kicked By 1st Grader
+*   VIDEO Shotgun Hits Face
+*   VIDEO Old Guy Gets Too Excited About Swimming
+*   VIDEO Octopus Eating A Crab
+*   YOUR DEAD BODY BLOG What to do With Your Dead Body
+*   VIDEO Kinect Sensors Will Replace Your Mouse
+*   HALLOWNEED BLOG Halloween...
+*   GALLERY Absolutely Beautiful Animal Photos
+*   VIDEO Doggie Emergency Warning System
 *   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
-*   VIDEO Track Drifting Fail
-*   VIDEO Ghetto Stuntman Breaks Wrist
-*   WEIRD DANCERS GALLERY World's Worst Dance Crews
-*   VIDEO Eye Controlled Computer
-*   VIDEO Fun With Cannonballs
-*   VIDEO Baby Stops Crying When 2 Chainz Comes On
-*   VIDEO Painful Roof Faceplant
-*   MOVIE PRESIDENTS BLOG Hollywood's Greatest Presidents
+*   VIDEO Cam Zink Canyon Gap Jump Crash
 *   CUBE MAPPING PARTNER 3D Cube Mapping Demo
+*   VIDEO Stinky Cheese
+*   VIDEO Bird...
+*   VIDEO 'QUIK'
+*   WEIRD DANCERS GALLERY World's Worst Dance Crews
+*   VIDEO Incredible 67-Yard Field Goal
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
@@ -111,18 +111,18 @@ Last updated: March 31, 2011.
 
 EBAUM'S PICKS YOU'VE Been Chang'd Dr. Ken!!!! Pro Wrestler Chokes Out Passenger Girl Gets KO in Mini Mosh Pit Frozen Pool Jump Fail Top 5
 
-*   *   101,298
+*   *   113,995
     *   GIFMANIA
-*   *   76,318
+*   *   93,138
     *   Monday Morning Randomness
-*   *   65,279
+*   *   78,831
+    *   Amazing Life Hacks
+*   *   71,881
     *   Halloween Costumes For Girls
-*   *   57,614
+*   *   61,486
     *   Motorcycle Crash Chain Reaction
-*   *   55,775
-    *   Dude Gets Owned By Automatic Doors
 
-POPULAR GALLERIES Deformities of the Stars 32 Random Interesting Facts POPULAR GAMES Cloud Wars Election Ejection 2012 Into Space 2 Slender - Bones of Children
+POPULAR GALLERIES Deformities of the Stars 32 Random Interesting Facts POPULAR GAMES Horror Plant 2 FrankenSplit Cloud Wars Election Ejection 2012
 
 *   Forum
 *   Advertising
