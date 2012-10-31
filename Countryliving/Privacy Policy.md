@@ -95,15 +95,15 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Country Living advertisement
 
-*   **christmas**
-
 *   **halloween**
+
+*   **christmas**
 
 *   **kitchens**
 
-*   **living rooms**
-
 *   **bathrooms**
+
+*   **classic cook sweepstakes**
 
 Home &. Decorating
 
