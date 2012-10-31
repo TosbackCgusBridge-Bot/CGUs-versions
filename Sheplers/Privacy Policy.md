@@ -438,7 +438,7 @@ Top of page
 
   
 
-Visit Sheplers Stores:
+Sheplers Stores:
 
 *   Contact Us
 *   Customer Service
