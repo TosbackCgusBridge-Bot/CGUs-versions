@@ -31,7 +31,7 @@ Skip to page content
         *   Belts
         *   Socks
         *   Hiking Boots
-    *   20% Off Select High-Visibility Clothing and Gear New Arrivals Top Rated by Customers Featured
+    *   New Arrivals Top Rated by Customers Featured
         
         *   Lined Clothing
         *   Made in the USA
@@ -57,7 +57,7 @@ Skip to page content
         *   Belts
         *   Socks
         *   Boots
-    *   20% Off Select High-Visibility Clothing and Gear New Arrivals Top Rated by Customers Featured
+    *   New Arrivals Top Rated by Customers Featured
         
         *   Lined Clothing
         *   Fleece Shop
@@ -124,7 +124,7 @@ Skip to page content
         *   Sport Watches
         *   Tents
         *   Water Bottles
-    *   20% Off Select High-Visibility Clothing and Gear New Arrivals Top Rated by Customers Featured
+    *   New Arrivals Top Rated by Customers Featured
         *   Men's Activewear
         *   Women's Activewear
         *   Women's Outdoor Gear
