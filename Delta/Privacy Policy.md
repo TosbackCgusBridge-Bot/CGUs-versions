@@ -52,7 +52,7 @@ We do not sell your name or other personally identifiable information to third p
 
 Please note that the security regulations of several countries may require us to provide foreign and domestic government agencies with access to the data you disclose to us and datat that we ave about you and your travel plans, history, or status.
 
-We may disclose personally identifiable information to government authorities or to third parties pursuant to a subpoena or other legal process, to the extent we are required by law to do so. Personally identifiable information and travel data may also be collected, used, processed and transferred to facilitate travel, including obtaining immigration and customs clearance. to comply with, or assist in the development of, security or safety measures for passengers, baggage or cargo, or for the prevention, detection, apprehension or prosecution of imminent criminal acts. and to protect the legal rights of Delta.
+We may disclose personally identifiable information to government authorities or to third parties pursuant to a subpoena or other legal process, to the extent we are required by law to do so. Personally identifiable information and travel data may also be collected, used, processed and transferred to facilitate travel, including obtaining immigration and customs clearance. to comply with, or assist in the development of, security or safety measures for passengers, baggage or cargo, or for the prevention, detection, apprehension or prosecution of criminal acts. and to protect the legal rights of Delta.
 
 If your ticket is purchased pursuant to a corporate incentive agreement, we may disclose personally identifiable information concerning your travel to your employer or corporate travel manager.
 
