@@ -318,8 +318,8 @@ China | Frankreich | Großbritannien | Italien | Japan | Kanada | Österreich | 
 *   Baumarkt, Garten &. Tier
 *   Elektro- &. Handwerkzeuge
 *   Gartenwerkzeuge
-*   Bad &. Sanitär
-*   Klima &. Heizen
+*   Küchen- &. Badinstallation
+*   Heizen &. Kühlen
 *   Elektroinstallation
 *   Beleuchtung
 *   Alle Baumarkt-Produkte
