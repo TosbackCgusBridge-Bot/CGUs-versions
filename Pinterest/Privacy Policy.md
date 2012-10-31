@@ -184,4 +184,4 @@ Contacting Us
 
 If you have any questions about this Privacy Policy, please contact us at support@pinterest.com.
 
-Scroll to Top   Sorry! Ok   Confirmation Ok Cancel
+Scroll to Top   Close   Confirmation Ok Cancel
