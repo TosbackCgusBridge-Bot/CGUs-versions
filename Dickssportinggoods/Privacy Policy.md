@@ -431,7 +431,6 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
     *   Games &. Scooters
         
         *   Table Tennis
-        *   Air and Rod Hockey
         *   Basketball Arcade Games
         *   Foosball Tables
         *   Darts &. Billiards
@@ -449,10 +448,10 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
     *   NFL
         
         *   Atlanta Falcons
+        *   Houston Texans
         *   New York Giants
         *   San Francisco 49ers
         *   Washington Redskins
-        *   Chicago Bears
         *   View All »
         
         MLB
