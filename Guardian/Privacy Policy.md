@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** Hurricane Sandy: high winds and flooding hit US east coast – Monday 29 October
-2.  2\. **News:** Superstorm Sandy: Obama declares major disaster in New York and Long Island - live updates
-3.  3\. **News:** New York City braces for hurricane Sandy - video
-4.  4\. **News:** Hurricane Sandy: New York mayor orders evacuation and school closures – video
-5.  5\. **Media:** Jimmy Savile caused concern with behaviour on visits to Prince Charles
+1.  1.  **News:** Obama laments 'heartbreaking' storm as Sandy leaves US east coast daunted
+2.  2\. **Technology:** iPad mini - review
+3.  3\. **Football:** Arsenal's spare parts power past Reading and into the quarter-finals
+4.  4\. **Football:** Chelsea the accusers cannot afford to get this one wrong
+5.  5\. **Football:** Arsène Wenger: Reading victory may well be one of my greatest wins
 6.  More most viewed
 
 Last 24 hours
 
-1.  **News:** Superstorm Sandy: Obama declares major disaster in New York and Long Island - live updates
-2.  **Stage:** Sarah Millican: 'I'm a nice girl – but I've got a dirty mind'
-3.  **News:** Superstorm Sandy blasts north-east states of US – video
-4.  **Technology:** Apple's Tim Cook shows ruthless streak in firing maps and retail executives
-5.  **Football:** Mark Clattenburg stood down as FA investigates Chelsea racism claim
+1.  **Technology:** iPad mini - review
+2.  **Technology:** iPad mini and Amazon Kindle Fire – video review
+3.  **News:** Obama laments 'heartbreaking' storm as Sandy leaves US east coast daunted
+4.  **Childrens' books:** Top tips for writing ghost stories: Cornelia Funke
+5.  **Media:** Jimmy Savile spent nights with girls in hospital rooms, says Leeds porter
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  The Last Gunfight: The Real Story of the Shootout at the OK Corral – And How It Changed the American West by Jeff Guinn – review
-2.  2\. Dennis Hopper: The Wild Ride of a Hollywood Rebel by Peter L Winkler – review
-3.  3\. Coldbrook by Tim Lebbon – review
-4.  4\. Wolf Won't Bite! by Emily Gravett - review
-5.  5\. Was Hurricane Sandy supersized by climate change?
+1.  1.  Star Wars: the force may be strong with Disney
+2.  2\. Pride of Britain Awards boast nearly 5m viewers
+3.  3\. Trading up, trading down – in pictures
+4.  4\. Public Health Dialogue on partnerships: public nutrition
+5.  5\. Developing nations' fishing grounds should be protected, UN says
 6.  All today's stories
 
 On the Guardian today
 
-1.  World news Hurricane Sandy: high winds and flooding hit US east coast – Monday 29 October
-2.  Life and style Mapping the body: the temple
-3.  World news New York City braces for hurricane Sandy - video
-4.  World news Sandy makes landfall and batters US east coast
-5.  World news Hurricane Sandy: New York mayor orders evacuation and school closures – video
-6.  World news Working class voters: why America's poor are willing to vote Republican
+1.  Life and style Mapping the body: the temple
+2.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+3.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+4.  Football Barcelona and Real Madrid draw El Clásico thriller at Camp Nou
+5.  Football Arsenal's spare parts power past Reading and into the quarter-finals
+6.  Art and design Man who defaced Tate Modern's Rothko canvas says he's added value
 
 *   License/buy our content
 |*   Privacy policy
