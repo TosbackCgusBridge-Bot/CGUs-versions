@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-A parade of horribles: a case argued in the Supreme Court today may decide if you can sell what you already own https://eff.org/r.a8pG
+Torture fears for open source and creative commons activist detained in #Syria: https://eff.org/r.4apQ #freebassel
 
-Oct 29 @ 4:14pm
+Oct 30 @ 6:41pm
 
-Luxury brands can't seize emails, violating electronic privacy for millions worldwide, in a trademark dispute: https://eff.org/r.a7pF
+Why we have an Open Wireless Movement: In hurricane-affected areas, open Internet is crucial https://eff.org/r.4apP #openwifi #sandy
 
-Oct 29 @ 1:55pm
+Oct 30 @ 6:08pm
 
 *   Twitter
 *   Facebook
