@@ -263,8 +263,8 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Cold Weather
     *   Sleepwear
     *   Active
-    *   Basics
     *   Best-Dressed Kids
+    *   Basics
     *   Jeans
     *   Sparkle &. Shine
     *   Sports Fan Gear
@@ -363,11 +363,19 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Home &. Gifts Brands
 *   Sale
     *   Sale Departments
-    *   Women
-    *   Men
-    *   Juniors
-    *   Kids
-    *   Home &. Gifts
+    *   Women's Sale
+    *   Clothing
+    *   Shoes
+    *   Handbags &. Accessories
+    *   Designer Collections
+    
+    *   Men's Sale
+    
+    *   Juniors' Sale
+    
+    *   Kids' Sale
+    
+    *   Home &. Gifts Sale
     
     *   Nordstrom Rack
     *   Shop Online
