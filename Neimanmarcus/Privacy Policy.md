@@ -1,4 +1,4 @@
-DOUBLE Gift Card Offer FREE SHIPPING\*  
+FREE SHIPPING\*  
 with code FALLFS Assistance How may we help you? 1.888.888.4757 Call 24 hrs / 7 days Chat with Us Email us
 
 *   Contact Us
@@ -13,7 +13,7 @@ with code FALLFS Assistance How may we help you? 1.888.888.4757 Call 24 hrs / 7 
 *   Special Benefits
 *   Gift Card Balance
 
-Your Online Account Shopping Bag Designers
+Your Online Account Shopping Bag  Shipping to: **United States**  Change Country Designers
 
 *   By A-Z
     
