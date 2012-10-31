@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Tuesday 30 October 2012
+Wednesday 31 October 2012
 
 *   Home
 *   News
@@ -138,17 +138,17 @@ In About us
 
 Editor's Choice »
 
-Christians are now persecuted throughout the world  
+Journey to the centre of our flatpack planet   
 
-The latest bombing in Nigeria shows how Christians are increasingly suffering for their faith, says **Rupert Shortt**
+As Ikea celebrates its 25th anniversary in Britain, **Harry Wallop** pilgrimages to its Swedish HQ
 
 Comments
 
-Jeremy Bowen: 'A lot of my friends are dead’ The last word in humour and honesty... Clattenburg row must not drag on The internet has made shops obsolete Advertisement
+Another scare story about cancer Germaine Greer on 21st century 'witches' The yum yum lives up to its name India loves KP, the great entertainer Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
-PARENTS' EDUCATION GUIDE   Win a Dell Inspiron 14z Ultrabook View ENDSLEIGH UNIVERSITY ADVICE   Don't get caught out: get student insurance to protect your devices View GALICIA   Last chance: enter to win a four-night holiday to Galicia View DIAGEO SINGLETON   Win dinner and overnight stay in at the Hix Belgravia, London View
+US News   Hurricane Sandy: live coverage View DUNHILL TRAVEL DEALS   Most competitive travel deals and vacation packages View Telegraph for iPad free trial   Try The Telegraph for iPad free for 30 days View FREE PRIZE DRAW TO WIN £1,000   Share with us your favourite place in the world and win £1,000 View
 
 Back to top
 
