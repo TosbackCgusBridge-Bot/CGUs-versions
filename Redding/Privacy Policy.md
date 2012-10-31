@@ -174,9 +174,6 @@ Record Searchlight
 *   Cars
 *   Classified
 
-*   Part 3 of 3: After revelations of abuse within the Boy Scouts, how have they changed?
-    
-
 Privacy Policy Redding.com Privacy Policy
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
@@ -270,25 +267,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Transient allegedly beats man after arguing over woman they were texting Published 10/29/2012 at 7:04 a.m. 56 comments
-*   Shasta Lake shooting victim identified Published 10/29/2012 at 4:26 p.m. 19 comments
-*   Shasta Lake homeowner fatally shoots man, but victim's friend is charged in death Published 10/29/2012 at 12:06 a.m. 34 comments
-*   Bob Williams: The two Americas and two Romneys Published 10/29/2012 at 12:00 a.m. 123 comments
-*   Regina Thomas: Attorney shows no respect for public Published 10/29/2012 at 12:00 a.m. 60 comments
+*   Two local companies thrive in tough economy Published 10/29/2012 at 11:25 p.m. 13 comments
+*   UPDATED: Sandy's death toll climbs to 50. millions without power Updated 10/30/2012 at 8:36 p.m. 35 comments
+*   Tom Elias: Red or blue: Where would you rather live? Published 10/30/2012 at 12:00 a.m. 102 comments
+*   Herger, Walmart unveil wind turbine in Red Bluff Published 10/29/2012 at 11:25 p.m. 71 comments
+*   Regina Thomas: Attorney shows no respect for public Published 10/29/2012 at 12:00 a.m. 98 comments
 
-Photo Galleries AAUW Tour Pierson home Enterprise wins the River Bowl Hurricane Sandy
+Photo Galleries Hurricane Sandy AAUW Tour Pierson home Golden opportunity
 
-*   AP poll: Majority harbor prejudice against blacks Updated // at : 164 comments
-*   Alex Landi: Obama creates own 'October surprise' Updated // at : 152 comments
-*   Bob Williams: The two Americas and two Romneys Updated // at : 123 comments
-*   UPDATED: Man shot dead in Shasta Lake. victim's friend brought on shooting by homeowner, det. says Updated 10/28/2012 at 2:54 p.m. 81 comments
-*   Editorial: Glib state of denial is wrong answer on climate change Updated // at : 90 comments
+*   Bob Williams: The two Americas and two Romneys Published 10/29/2012 at 12:00 a.m. 133 comments
+*   Tom Elias: Red or blue: Where would you rather live? Published 10/30/2012 at 12:00 a.m. 102 comments
+*   Regina Thomas: Attorney shows no respect for public Published 10/29/2012 at 12:00 a.m. 98 comments
+*   UPDATED: Man shot dead in Shasta Lake. victim's friend brought on shooting by homeowner, det. says Published 10/28/2012 at 12:00 a.m. 81 comments
+*   Herger, Walmart unveil wind turbine in Red Bluff Published 10/29/2012 at 11:25 p.m. 71 comments
 
-*   Shark falls from the sky on to a golf course Updated // at : 23 comments
-*   Tehama fair devotes day to goat education Updated // at : 8 comments
-*   As early jail releases continue, property crimes are on the rise Updated // at : 113 comments
-*   Utah man found with more than 100 lbs. of pot in Trinity County, deputies say Updated // at : 41 comments
-*   UPDATED: Police catch Redding man they say was breaking into cars Updated 10/29/2012 at 7:09 a.m. 25 comments
+*   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 24 comments
+*   Tehama fair devotes day to goat education Published 10/21/2012 at 11:30 p.m. 8 comments
+*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 113 comments
+*   Utah man found with more than 100 lbs. of pot in Trinity County, deputies say Published 10/22/2012 at 5:43 p.m. 41 comments
+*   UPDATED: Police catch Redding man they say was breaking into cars Published 10/29/2012 at 6:44 a.m. 26 comments
 
 Weather
 
@@ -296,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 52° Fair Wind: Calm Today 76° 50° Tue 05:00 PM Partly Sunny Temp: 74° Wed 05:00 AM Mostly Clear Temp: 52° Wed 05:00 PM Mostly Cloudy Showers Temp: 66°
+Currently 51° Fair Wind: Calm Today 63° 51° Wed 05:00 PM Mostly Cloudy Showers Temp: 61° Thu 05:00 AM Mostly Cloudy Showers Temp: 53° Thu 05:00 PM Partly Sunny Temp: 64°
 
-Feels Like: 74°
+Feels Like: 61°
+
+Humidity: 58%
+
+Precip: 80%
+
+Feels Like: 53°
+
+Humidity: 93%
+
+Precip: 80%
+
+Feels Like: 64°
 
 Humidity: 42%
 
-Precip: 2%
-
-Feels Like: 52°
-
-Humidity: 80%
-
-Precip: 0%
-
-Feels Like: 66°
-
-Humidity: 54%
-
-Precip: 31%
+Precip: 43%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -330,18 +327,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Tuesday Oct 30
 *   Wednesday Oct 31
 *   Thursday Nov 1
+*   Friday Nov 2
 *   More BROWSE Icon
-
-*   North Valley Art League annual Autumn Juried Small Painting Show Carter House Art Gallery 11 a.m.
-*   Trails and Bikeways Council monthly meeting Redding Library 6 p.m.
-*   Informational Small Business Meeting in Shasta Lake John Beaudet Community Center 6 p.m.
-*   Suicide Loss Support Group St James Church 7 p.m.
-*   South Shasta Seniors dancing Frontier Senior Center 7:30 p.m.
-
-More Events »
 
 *   Risen King Community Church Harvest Carnival Mistletoe Elementary School 4:30 p.m.
 *   Halloween Historical Walk of Redding Cemetery See Description 5 p.m.
@@ -352,10 +341,18 @@ More Events »
 More Events »
 
 *   United Bikers of Northern California and Safeway Presents 2012 Food Drive See Description 9 a.m.
+*   Free Photo Session &. Print TA Schmidt Photography 9 a.m.
 *   Little Explorers: Forest Animals Turtle Bay Exploration Park 10 a.m.
 *   Little Explorers: Forest Animals Turtle Bay Exploration Park 10 a.m.
 *   Adopt a Senior Pet Month See Description 2 p.m.
-*   Art House Movies Redding Library 2 p.m.
+
+More Events »
+
+*   Court Appointed Special Advocates (CASA) Day @ Dutch Bros. Dutch Bros Coffee 6 a.m.
+*   Brent Graef - Horsemanship Clinic Cottonwood Creek Equestrian Center 9 a.m.
+*   ResQ/Paws With a Cause open house See Description 10:30 a.m.
+*   Happy Valley Citizen Volunteer Patrol's Chili for the Chills Happy Valley Community Center 5 p.m.
+*   Red Bluff Art Walk See Description 5 p.m.
 
 More Events »
 
