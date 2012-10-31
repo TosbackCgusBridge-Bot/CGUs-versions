@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Neck Isometrics Resources
+*   Strength Training Resistance Bands Resources
 
   
-Stay in Touch With SparkPeople **Arm Yourself Against Exercise Excuses**
+Stay in Touch With SparkPeople **10 Tricks to Avoid the Halloween Treats**
 
-Do you wage a battle with yourself every day, knowing you need to exercise but finding reasons not to? Find out how you can arm yourself to win once and for all.
+Halloween treats and goodies are everywhere, tempting you at every turn! We'll help you plan your stick-with-it strategy for this tricky holiday.
 
 Read More
 
+*   Healthy snack ideas for under 100 calories?
 *   What does it mean to eat healthy?
-*   How do you maintain your exercise long-term?
-*   Describe the last time you felt proud of yourself.
-*   Why the scale isn't a good indicator of health.
-*   "New to me" foods
+*   What's your "go to" type of workout?
+*   Specific Tips to get through the Weekend
+*   Healthy Halloween snacks
 
-View Demo **Lunges with Cable Cross Machine**  
-An interesting way to add weights to your lunges **Carrot-Cranberry Salad**  
-Submitted By: **CHEF\_MEG**
+View Demo **Seated Dumbbell Rows**  
+A strong upper back improves your posture--and looks great too! **Honey Garlic Pork Chops**  
+Submitted By: **LINJEN**
 
-Kid prepared and approved! I am always looking for a salad that my kids can make and then devour. This is a winner for kids and moms. Full Recipe
+Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
