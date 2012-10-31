@@ -73,7 +73,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 *   Printer-friendly version
 *   Send by email
 
-*   8 New Solutions For The World’s Oldest Problem: Weather
+*   How To Power Through The Next Sandy
 
 ADVERTISEMENT
 
