@@ -97,15 +97,15 @@ még több
 
 dossziék
 
-Dosszié: Közlekedés Operatív Program (KÖZOP)
-
-Dosszié: Út
-
-Dosszié: Hidak
+Dosszié: Megújuló energiaforrások
 
 Dosszié: Széchenyi terv
 
-Dosszié: Villamos
+Dosszié: Műemlék
+
+Dosszié: Közlekedés Operatív Program (KÖZOP)
+
+Dosszié: Út
 
 még több
 
@@ -195,7 +195,7 @@ Belsőépítészet \[110\]
 
 Építőipar és geodézia mérő műszerek \[9\]
 
-Kivitelezés \[1008\]
+Kivitelezés \[1009\]
 
 Lakberendezés \[92\]
 
@@ -225,7 +225,7 @@ Development Manager- Real estate sector
 
 Portfolio Director (Real Estate)
 
-Ingatlantanácsadó
+Energetikus (GES-1103)
 
 még több
 
