@@ -242,14 +242,14 @@ Your email is safe with us. We hate spam too!
 
 Featured this week on livestrong.com
 
+*   Oct 29, 2012 The 20 Best Foods  
+    For Smoothies
 *   Oct 28, 2012 The New Rules  
     Of Stretching
 *   Oct 27, 2012 The Cause Of Low Back Pain  
     
 *   Oct 26, 2012 Sleep Soundly!  
     4 Ways To Get Better Rest
-*   Oct 25, 2012 How To Get Fit  
-    At Home
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
 
