@@ -713,4 +713,4 @@ About Home About Us Jobs Contact Us Privacy User Agreement Work with us Join our
 
 Copyright © 2000-2012 Shopping.com
 
-http://img.shoppingshadow.com/jfe/JavaFrontEnd-fe126.rtb18-10582 http://img.shopping.com/jfe/JavaFrontEnd-fe126.rtb18-10582
+http://img.shoppingshadow.com/jfe/JavaFrontEnd-fe126.rtb18.dt-10611 http://img.shopping.com/jfe/JavaFrontEnd-fe126.rtb18.dt-10611
