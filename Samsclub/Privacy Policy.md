@@ -141,19 +141,21 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         
         Bassinets
         
-        Baby Feeding &. Formula
+        Baby Mobile
+        
+        Baby Feeding
         
         Baby Formula
         
         Baby Food
         
-        Feeding Accessories
+        Baby Feeding Accessories
         
         Nursing
         
         Nursing Pillows
         
-        High Chairs
+        High Chairs &. Boosters
         
         Baby Health &. Safety
         
@@ -183,13 +185,11 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         
         Car Seats
         
-        High Chairs
+        High Chairs &. Boosters
         
         Strollers &. Travel Systems
         
         Baby Health &. Safety
-        
-        Bassinets
         
         **See All**
 *   Electronics
