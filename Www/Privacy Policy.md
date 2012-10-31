@@ -1,4 +1,4 @@
-**LIVE NOW:** Latest forecasts and coverage of Hurricane Sandy Sign In Browse|Movies |Upload Search
+Sign In Browse|Movies |Upload Search
 
 *   About
 *   Press &. Blogs
