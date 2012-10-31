@@ -81,6 +81,10 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 
 Latest blog entries
 
+*   Hurricane Sandy Is All About Politics
+    
+    On the surface, it would appear that Hurricane Sandy, the superstorm affecting 900 miles of the Eastern Coast, has halted the presidential campaign in its tracks. 10/30/12
+    
 *   Donatella Does Downtown: Versace Opens New SoHo Store
     
     It's not every day that you can say Donatella Versace gave you a private tour of the Versace store, but that is precisely what happened yesterday afternoon at the Italian label's new Soho space at 160 Mercer Street. 10/25/12
@@ -96,10 +100,6 @@ Latest blog entries
 *   Maison Martin Margiela for H&M Makes Its NYC Debut
     
     Maison Martin Margiela's collaboration with H&M launched with a nine-story shindig in New York last night. Yes, even Kanye was there. 10/24/12
-    
-*   Dressed to Thrill: Katie Holmes in Narciso Rodriguez for Kohl's
-    
-    Our chic celebrity look of the day. 10/24/12
     
 *   See all blogs
 
