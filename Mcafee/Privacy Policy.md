@@ -24,6 +24,7 @@ Search
     *   SIEM
     *   Business &. Technology Solutions
     *   Industry Solutions
+    *   Small &. Medium Business Solutions
     *   Embedded Security
     *   Product Downloads
     *   Resource Library
