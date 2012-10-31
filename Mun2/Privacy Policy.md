@@ -23,23 +23,23 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: October 30 04:00 AM · MORNING BREATH coming up next:
+schedule right now: October 31 01:00 AM · DECISIONES coming up next:
 
+*   2:00 AM · DELICIOUS
+*   3:00 AM · MORNING BREATH
+*   4:00 AM · MORNING BREATH
 *   5:00 AM · MORNING BREATH
 *   6:00 AM · SMB
 *   8:00 AM · MORNING BREATH
 *   9:30 AM · OPERACION REPO
-*   10:00 AM · CINE CLASICO Y COOL: CAPULINA VS LOS MONSTRUOS
+*   10:00 AM · CINE CLASICO Y COOL: CAPULINA VS LOS VAMPIROS
 *   12:00 PM · L'CREME
 *   1:00 PM · AL CIEN 100%
 *   2:00 PM · L'CREME
-*   3:00 PM · mun2 PRESENTS: ALEJANDRO SANZ
-*   4:00 PM · mun2 CINCO
-*   4:30 PM · L'CREME
-*   5:30 PM · DUB LATINO
+*   3:00 PM · DELICIOUS
+*   4:00 PM · BARBACOA CLASSICS
+*   5:00 PM · CHIQUIS 'N CONTROL
 *   6:00 PM · 12 CORAZONES
-*   7:00 PM · OPERACION REPO
-*   7:30 PM · OPERACION REPO
 
 see full schedule >>.
 
