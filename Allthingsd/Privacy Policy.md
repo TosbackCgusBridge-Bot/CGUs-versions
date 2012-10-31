@@ -42,9 +42,9 @@ AllThingsD
 
 *   View by Writer
 
-**Trending –** Viral Video: The Scott-Also-Isn’t-Sorry-for-Posting-These iPad Mini Spoofs  
+**Walt Mossberg –** Sizing Up the New iPad Mini  
 
-Follow on Twitter »Watch Live – Facebook, Google, Twitter, Xiaomi »Get the Daily Newsletter » Privacy Policy and Use of Information Privacy Policy Sections
+Follow on Twitter »**D: Dive Into Media** - $500 Savings Ends Nov 1stGet the Daily Newsletter »HBO, Sony, Google - **D: Dive Into Media** - Register Now Subscribe on Facebook » Privacy Policy and Use of Information Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
