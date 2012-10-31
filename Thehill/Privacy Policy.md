@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Presidential race just got tighter in election ground zero — OhioJoss Whedon says a vote for Romney is a vote for the zombie apocalypseGallup: Romney extends lead over Obama to 5 pointsArmy guards at Tomb of the Unknown Soldier withstand hurricaneRomney and Ryan announce 'storm relief' efforts for Tuesday
+Gov. Christie praises Obama's response to Hurricane Sandy as ‘outstanding’Campaign to resume WednesdayPresidential race just got tighter in election ground zero — OhioGoogle's data-collecting habits drawing more scrutinyBush's 'Brownie' criticizes Obama on Sandy
 
 Emailed
 
-Joss Whedon says a vote for Romney is a vote for the zombie apocalypseBob Kerrey: Duty, honor, country, courage, service, integrity, independence, responsibilityPresidential race just got tighter in election ground zero — OhioAfter Bush v. Gore, Obama, Clinton wanted Electoral College scrappedArmy guards at Tomb of the Unknown Soldier withstand hurricane
+Presidential race just got tighter in election ground zero — OhioDid Mitt Romney cause Hurricane Sandy?Bush's 'Brownie' criticizes Obama on SandyGoogle's data-collecting habits drawing more scrutinyJoss Whedon says a vote for Romney is a vote for the zombie apocalypse
 
 Discussed
 
-Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'After Bush v. Gore, Obama, Clinton wanted Electoral College scrappedChris Matthews: 'Racial hatred' drives support for Romney on rightCutter: Des Moines Register endorsement not based 'in reality’Presidential race just got tighter in election ground zero — Ohio
+International monitors at US polling spots draw criticism from voter fraud groupsTexas sparks international row with election observersObama calls debate prep 'a drag'After Bush v. Gore, Obama, Clinton wanted Electoral College scrappedMore bad news for Mitt Romney
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   FEMA administrator says dangerous conditions from Sandy persist
-*   Romney and Ryan announce 'storm relief' efforts for Tuesday
-*   Ann Romney stresses breast cancer awareness in Glamour
+*   Romney to launch final campaign blitz with major Ohio rally Friday
+*   Bloomberg tells Obama not to visit New York
+*   Obama campaign counters Restore Our Future ads in Michigan
 
   
 More Briefing Room » Congress Blog
 
-*   Breaking the political stalemate through talent
-*   Obama's new plan is a rehash of old one
-*   Google's data-collecting habits drawing more scrutiny
+*   Getting to 270
+*   Memo to Washington: Take responsibility for fiscal crisis and fix it
+*   In final stretch, social issues can help Romney
 
   
 More Congress Blog » Pundits Blog
 
-*   Taking a leaf from Bill Clinton's playbook
-*   Bob Kerrey: Duty, honor, country, courage, service, integrity, independence, responsibility
-*   Money and politics
+*   Did Mitt Romney cause Hurricane Sandy?
+*   Shelley Berkley fights the good fights
+*   Oil addiction
 
   
 More Pundits Blog » Twitter Room
 
+*   Study: President Obama, Ann Romney winning at Pinterest
+*   Obama tweets as Red Cross volunteer
 *   Hurricane Sandy prompts surge of photo sharing
-*   Trump presses Obama to respond to offer, despite hurricane
-*   Army guards at Tomb of the Unknown Soldier withstand hurricane
 
   
 More Twitter Room » Hillicon Valley
 
-*   FCC monitoring Internet, phone outages
-*   Administration defends Bush-era surveillance law before high court
-*   Leibowitz says FTC open to settling Google case
+*   News bites: Twitter, Facebook served as information hubs during storm
+*   California attorney general sends privacy warnings to app makers
+*   Dem: Silicon Valley should back Obama
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   News bites: Sandy’s energy toll
-*   Green group denies funding Montana Senate ad
-*   GOP senator would likely oppose potential Romney EPA chief nominee
+*   Sandy not expected to affect gas prices
+*   Bill Clinton, citing Sandy, hits Romney on climate change
+*   Poll: Voters rank candidates’ energy policies over environmental issues
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Pew Poll finds even split among likely voters, GOP enthusiasm advantage
-*   Poll: Romney, Obama locked in 49-49 tie
-*   Sen. McCaskill's mother dies
+*   Poll: Obama up 5 points in Ohio, holds narrower leads in Virginia, Florida
+*   Poll: Obama edging Romney nationally with 48-47 advantage
+*   Brown cancels final Massachusetts Senate debate
 
   
 More Ballot Box » On The Money
 
-*   Businesses expect moderate economic growth over next year
-*   Hurricane Sandy casts doubt over October employment report
-*   Treasury undersecretary to attend G-20 meeting
+*   Sandy wallops the economy
+*   US-Panama trade deal goes into effect Wednesday
+*   Gallup: Confidence in economy highest since 2008
 
   
 More On The Money » Healthwatch
 
-*   Report: Health law's costs continuing to grow
-*   House Dem slams drug compounders in new report
-*   Supreme Court turns down appeal in Okla. 'personhood' case
+*   Kaiser: Savings hard to find in programs for dual-eligibles
+*   Celebs back Obama in 'Yes We Plan' video
+*   Romney surrogate says Roe v. Wade won't be overturned
 
   
 More Healthwatch » Floor Action
 
-*   Rep. Paul: Banks must fail before housing market returns
-*   House delays pro forma session till Tuesday afternoon due to Sandy
-*   Poll: Bob Kerrey tightens Senate race against Deb Fischer in Nebraska
+*   Long Island members says Hurricane Sandy relief must be top priority
+*   House holds moment of silence for those affected by Hurricane Sandy
+*   GOP lawmaker says lack of Christian registered voters a 'disgrace'
 
   
 More Floor Action » Transportation
 
-*   Obama ad labels Romney Jeep commercial a 'lie'
-*   Obama: ‘Transportation is going to be tied up for a long time’ by Hurricane Sandy
-*   Auto bailout cited in Detroit paper's endorsement of Obama
+*   New York City restores partial ‘fare free’ bus service
+*   Pilots: Deal with American Airlines still possible
+*   GM: Romney in 'parallel universe' with bailout claims
 
   
 More Transportation » DEFCON Hill
 
-*   Pentagon: Libya rumor 'absolutely false'
-*   Iran claims drones gained access to secret Israeli facilities
-*   Terror attacks rock Afghanistan, Iraq over Eid holiday
+*   Report: New US special forces chief takes reins in Korea
+*   Israeli prime minister says a strike on Iran would calm the Arab world
+*   DOD, National Guard deploy in force to aid Hurricane Sandy relief effort
 
   
 More DEFCON Hill » Global Affairs
 
-*   Clinton presses Algeria to assist in possible military intervention in Mali
-*   Israelis favor Romney over Obama by wide margin in latest poll
-*   Indonesia police: US embassy targeted by terrorists
+*   Both Romney, Obama supporters seek to score points with Jewish voters on Iran
+*   Pro-Democrat Jewish group ties Romney investments to Iran
+*   Britain urges 'major push' by next US president on Israel-Palestine
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris Don't count Mourdock out Lanny Davis Obama's second term More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Markos Moulitsas Senate GOP botches 2012 Dick Morris Here comes the landslide More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
