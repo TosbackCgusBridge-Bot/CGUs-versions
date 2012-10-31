@@ -35,29 +35,12 @@ Comments Off
     *   Notorious ad hijacker spreads to more media, retail sites 10/19/2012
 
 *   Search for:
-*   Related
-    
-    *   Debate sponsor taps YouTube, Yahoo and AOL to quiz, inform voters
-        
-        The Commission on Presidential Debates is partnering with three online media companies to stream debates and educate...
-        
-    *   In Patch redesign, more focus on users — and less on editors
-        
-        In a move to increase community and social networking and decrease reliance on paid editors and writers,...
-        
-    *   Simon &. Schuster to stream book videos on Roku and Blinkx
-        
-        Book publisher Simon &. Schuster is ramping up video distribution, creating content channels and signing with partners...
-        
-    
-    See More Related Stories For:  
-    aol / companies / paidcontent / time warner
 
 *   {"source":"http:\\/\\/paidcontent.org\\/wijax\\/c31de507bf516a95516a241b48a698ec","varname":"wijax\_bce7bd8b6a0998e15429e07d604f266c","title\_element":"h2","title\_class":"widgettitle","title\_before":"%3Ch2%20class%3D%22widgettitle%22%3E","title\_after":"%3C%2Fh2%3E%0A"}
 
 **Read more in GigaOM**
 
-When disaster strikes: There’s no app for that
+Tweeting fake news in a crisis — illegal or just immoral?
 
 Stay on top of tech news in your inbox
 
