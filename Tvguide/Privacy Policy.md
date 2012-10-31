@@ -71,13 +71,13 @@ Sign In Sign Out New User Sign Up Profile Management
 
 What's Hot
 
-Save Your Favorite Shows!
+Fall TV Popularity Contest
 
-New _Once_ Photos
+_Revolution_ Burning Questions
 
-Is _Castle_ a Killer?
+_Castle_'s Comic-Con Episode
 
-More _Scandal_ Coming
+Save These Shows!
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -140,8 +140,8 @@ more popular movies Top Videos
 1.  The Vampire Diaries
 2.  The Vampire Diaries
 3.  The Vampire Diaries
-4.  Dexter
-5.  Arrow
+4.  Arrow
+5.  Dexter
 
 more top videos
 
