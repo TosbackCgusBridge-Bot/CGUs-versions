@@ -22,7 +22,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
             *   47 Comfort Foods
             *   10 Recipes We're Loving
             *   8 Cupcake Icing Tips
-        *   *   Halloween 66 Halloween Recipes Eat, drink and be scary with our collection of spooky treats.
+        *   *   Halloween 69 Halloween Recipes Eat, drink and be scary with our collection of spooky treats.
             *   Weeknight Meals 30 Quick Suppers Delicious dishes to make with store cupboard ingredients.
             *   Andy Bates 86 Andy Bates Recipes All your favourite Andy recipes, plus new dishes from his travels.
         *   ALL RECIPES
@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Fresh Food Fast... UP NEXT › Andy Bates Amer...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Kid in a Candy ... UP NEXT › Barefoot Contes...
 
 *   Channel  
     Guide
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
-*   They look awesome! RT @fancynancycakes: Boooooo!!! t.co/Q10KtyIX
-*   Do you hear that @ExquisitelyAbby? RT @erinnypops: @FoodNetwork\_UK they were Abby's...hats off to Abby! 🌟🌟
-*   @erinnypops yay! So glad you enjoyed them! Can you remember if the recipe was Abby or Lotte's?
-*   @shloobi ahhhh. So you just needed to re-tune. Phew. Good to have you back!
-*   Recipe of the Day: Aloo Posto t.co/J7qC8Bh7
-*   @erinnypops Yay! Did you take any snaps of them? We'd love to see them. You can't beat a red velvet.
-*   Now we want one! RT @seasiderclare: @FoodNetwork\_UK @eatmypies I have been drooling over that, and the brownie pie and the Christmas pie.
-*   @seasiderclare it's a dangerous book! Can we recommend @eatmypies Milk Chocolate Tart - it's a personal favourite!
-*   Nice to have you with us! RT @hannahdarlingxo: Tuned in to my fav channel @FoodNetwork\_UK
-*   @seasiderclare Let us know what you try! We'd love to see some pics.
+*   They look great RT @definitelycake @FoodNetwork\_UK My Halloween Baked Treats! Halloween Cake Pops! #Halloween #CakePops t.co/Jt512ZEb
+*   But not too cute to eat! RT @apriljharris: @FoodNetwork\_UK Happy Hallowe'en to you too! Those caramel mice are seriously cute :)
+*   Aren't they the best? What are you making for Halloween? RT @dalepakfoods: @FoodNetwork\_UK Happy Halloween! They are so cute!
+*   @yojodieho ahhh. Glad you like it. Let us know if you make any of @eatmypie's recipes. We love to see pics!
+*   Anyone fancy a @Duff\_Goldman eyeball cake for #Halloween? You have to watch this video: t.co/309P7iCn
+*   Happy Halloween! Have a caramel mouse on us! #Halloween t.co/CuzeBMxc t.co/YksqfS0G
+*   Looking for some quick and easy recipes for dinner? Look no further than the trusty stir fry t.co/AdgiESHn #recipes
+*   Have a slice of cake for us! RT @freeviewtv: Thanks guys! :) RT @FoodNetwork\_UK Happy birthday @FreeviewTV! #Freeview10
+*   Happy birthday @freeviewtv! #Freeview10
+*   @asdfghjklbong Afraid not but don't fear, you can catch up on your favourite shows online now! t.co/f1Bmxbid
 
 Follow Us
 
