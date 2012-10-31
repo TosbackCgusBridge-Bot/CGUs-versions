@@ -24,68 +24,37 @@ We ask for your ZIP Code as product offerings and features may differ among geog
 
 ZIP Code:
 
-*   Credit Cards Expand Credit Cards Find A Card
-    
-    *   View Top Reward Cards
+*   Credit Cards
+    *   View Top Rewards Cards
+    *   Find the right card for you
     *   Browse All Cards
-    *   Small Business Credit Cards
-    *   Find the Right Card
     *   See if You're Pre-qualified
     *   Respond to a Mail Offer
-    
-    Benefits And Services
-    *   View Cardholder Benefits
-    *   See Credit Card FAQ
-    *   Learn About Image Card
-    *   Redeem and Learn About Rewards
-    *   Pay Your Bill
-*   Banking Expand Banking Personal Banking
-    
+    *   Small Business Credit Cards
+*   Banking
+    *   Personal Banking
     *   Checking Accounts
     *   Savings Accounts
     *   Certificates of Deposit
     *   Investments
     *   Private Client Group
-    
-    Business Banking
     *   Small Business Banking
-    *   Commercial Banking
-*   Loans Expand Loans Home Loans
-    
-    *   New Mortgage
-    *   Mortgage Refinance
-    *   Home Equity
-    *   Mortgage Calculators
-    *   Mortgage Rates
-    
-    Auto Loans
-    *   New Car Loan
-    *   Used Car Loan
-    *   Auto Loan Refinancing
-    *   Auto Loan Calculators
-    *   Auto Rates
-*   Business Expand Business Small Business Banking
-    
-    *   Business Credit Cards
-    *   Resource Center
-    
-    Commercial Banking
-    *   Commercial Banking
-    *   Treasury Management
-*   Customer Service Expand Customer Service Contact Capital One
-    
-    *   Credit Cards
-    *   Banking
+    *   Commercial Banking (Over $10 MM in Revenue)
+*   Loans
     *   Auto Loans
-    *   Home Loans
-    *   More Contact Options...
-    
-    Tools and Resources
-    *   Online Banking Support
-    *   FAQs
-    *   Find a Branch or ATM
-    *   Mobile Banking
+    *   Mortgage Loans
+*   For Business
+    *   Small Business
+    *   Business Credit Cards
+    *   Commercial Banking (Over $10 MM in Revenue)
+*   Customer Service
+    *   Contact Us
     *   Financial Education
+    *   Frequently Asked Questions
+    *   Find a Branch/ATM
+    *   Online Banking Support
+    *   Mobile Banking
+    *   Site Map
 
 *   Capital One Home >.
 *   Identity Protection >.
