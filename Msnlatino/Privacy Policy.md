@@ -688,17 +688,17 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡Mucho billete!
+*   ¿Qué dilema?
     
-    Conoce los narcos más ricos de la historia.
+    Mariana lucha entre el amor y el odio.
     
-*   ¿Qué harás este Halloween?
+*   ¡Un Halloween original!
     
-    Organiza tu fiesta con estas ideas
+    Adorna tu casa con estos adornos creativos  
     
-*   Sexy misterio
+*   ¡Enloquécete con disfraces!
     
-    ¿Quieres caer? José Guillermo tiene su trampa
+    Aprende a seducir en Halloween...
     
 *   Secretos de belleza
     
