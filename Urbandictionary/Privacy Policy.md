@@ -1,4 +1,4 @@
-look up anything, like your city: word of the day dictionary thesaurus names media store add edit blog random A B C D E F G H I J K L M N O P Q R S T U V W X Y Z # new favorites tv
+look up anything, like your first name: word of the day dictionary thesaurus names media store add edit blog random A B C D E F G H I J K L M N O P Q R S T U V W X Y Z # new favorites tv
 
 **Privacy Policy**
 
@@ -55,7 +55,7 @@ Updated: November 2008
 
 Copyright © 2008 Urban Dictionary, LLC
 
-Urban Dictionary ©1999-2012 terms of service privacy feedback remove advertise technology jobs api add via **rss**  
+Urban Dictionary ©1999-2012 terms of service privacy feedback remove advertise chat technology jobs api add via **rss**  
 or **google calendar** add **urban dictionary**  
 on **facebook** search ud  
 from your **phone**  
