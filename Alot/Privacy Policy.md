@@ -43,7 +43,7 @@ The Information alot.com Collects:
 
 When this Privacy Policy uses the term "personal information," we mean information that might help identify a particular individual, such as the individual's name, postal address, e-mail address, and telephone number.
 
-We do not collect any personal information other than (i) in those cases where you are required to submit such to participate in a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com, and (ii) in the event that you opt-in to use the Discover (formerly Site Metrics) feature of our ALOT Toolbar or Appbar, where personal information is contained in http/https requests of websites that you visit (for example, personal information in data submitted by you in a search query or in data included in a URL by the operator of a website, such as a username or other information relating to website registration). The Discover feature also collects certain other types of data such as: anonymous client identifier, timestamp, ip address, port, http/https request method, server response code (http/https status code returned), user agent, mime type, and the browser language.
+We do not collect any personal information other than (i) in those cases where you are required to submit such to participate in a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com, and (ii) in the event that you opt-in to use the Discover (formerly Site Metrics) feature of our ALOT Toolbar or Appbar, where personal information is contained in unsecured http requests of websites that you visit (for example, personal information in data submitted by you in a search query or in data included in a URL by the operator of a website, such as a username or other information relating to website registration). The Discover feature also collects certain other types of data such as: anonymous client identifier, timestamp, ip address, port, http request method, server response code (http/s status code returned), user agent, mime type, and the browser language.
 
 _Log File Information:_ Using alot.com may result in us receiving non-personal performance and usage information, such as browser type, default language setting, Internet Protocol (IP) address, platform type, the date and time of your request, number of clicks within our environment, an anonymous/random identifier, page views and/or the amount of time spent on our particular pages. We may use this type of information to power the services, identify problems, assess performance and to improve the quality and design of our Site.
 
@@ -93,7 +93,7 @@ Attention: Privacy Issues
 New York, NY 10013  
 customerservice@alot.com
 
-**Last Updated:** April 26 th, 2012
+**Last Updated:** June 8th, 2011
 
 ALOT Toolbar Privacy Policy    
 
@@ -112,7 +112,7 @@ alot.com's web and toolbar web search are powered by our search partner. Your se
 Practices
 
 *   Our software is installed only with your permission
-*   We do not collect or track personal information other than (i) in those cases where you submit such to participate in a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com, and (ii) in the event that you opt-in to use the Discover (formerly Site Metrics) feature of our ALOT Toolbar, where personal information is contained in the http/https requests of websites that you visit (for example, personal information in data submitted by you in a search query or in data included in a URL by the operator of a website, such as a username or other information relating to website registration).
+*   We do not collect or track personal information other than (i) in those cases where you submit such to participate in a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com, and (ii) in the event that you opt-in to use the Discover (formerly Site Metrics) feature of our ALOT Toolbar, where personal information is contained in the unsecured http requests of websites that you visit (for example, personal information in data submitted by you in a search query or in data included in a URL by the operator of a website, such as a username or other information relating to website registration).
 *   We allow you to disable certain search features if you feel they are not valuable to you. We allow you to disable the Discover feature of the ALOT Toolbar.
 *   We make it easy for you to uninstall our software through the standard Add/Remove interface. If you no longer wish to use our software, simply uninstall it.
 *   We brand each of our products and provide you with links to our customer service department.
@@ -172,7 +172,7 @@ Attention: Privacy Issues
 New York, NY 10013  
 customerservice@alot.com
 
-**Last Updated:** April 26th, 2012
+**Last Updated:** May 20th, 2011
 
 ALOT Appbar Privacy Policy    
 
@@ -191,7 +191,7 @@ alot.com's web and appbar web search are powered by our search partner. Your sea
 Practices
 
 *   Our software is installed only with your permission
-*   We do not collect or track personal information other than (i) in those cases where you submit such to participate in a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com, and (ii) in the event that you opt-in to use the Discover (formerly Site Metrics) feature of our ALOT Appbar, where personal information is contained in the http/https requests of websites that you visit (for example, personal information in data submitted by you in a search query or in data included in a URL by the operator of a website, such as a username or other information relating to website registration).
+*   We do not collect or track personal information other than (i) in those cases where you submit such to participate in a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com, and (ii) in the event that you opt-in to use the Discover (formerly Site Metrics) feature of our ALOT Appbar, where personal information is contained in the unsecured http requests of websites that you visit (for example, personal information in data submitted by you in a search query or in data included in a URL by the operator of a website, such as a username or other information relating to website registration).
 *   We allow you to disable certain search features if you feel they are not valuable to you. We allow you to disable the Discover feature of the ALOT Appbar.
 *   We make it easy for you to uninstall our software through the standard Add/Remove interface. If you no longer wish to use our software, simply uninstall it.
 *   We brand each of our products and provide you with links to our customer service department.
@@ -251,6 +251,6 @@ Attention: Privacy Issues
 New York, NY 10013  
 customerservice@alot.com
 
-**Last Updated:** April 26th, 2012
+**Last Updated:** May 20th, 2011
 
   About Us | FAQ | Terms of Use | Privacy Policy | Site Map © 2012 ALOTalot.com
