@@ -21,9 +21,7 @@ Navigation
 *   **Shop**  
     Search Compare Buy
 
-1.  CoffeeX
-    
-    1.  Browse by Profile
+1.  1.  Browse by Profile
         
         1.  Blonde Roast
         2.  Medium Roast
@@ -67,9 +65,7 @@ Navigation
     
     This bold, spicy and celebratory coffee is back.
     
-2.  MenuX
-    
-    1.  Drinks
+2.  1.  Drinks
         
         1.  Bottled Drinks
         2.  Brewed Coffee
@@ -109,9 +105,7 @@ Navigation
     
     Real Pumpkin folded into a muffin, scone or bread.
     
-3.  CoffeehouseX
-    
-    1.  Entertainment
+3.  1.  Entertainment
         
     2.  Wi-Fi
         
@@ -144,9 +138,7 @@ Navigation
     
     See how the fastest way to pay just got better.
     
-4.  ResponsibilityX
-    
-    1.  Community
+4.  1.  Community
         
         1.  Community Service
         2.  Create Jobs for USA
@@ -196,9 +188,7 @@ Navigation
     
     Learn about our efforts to do business responsibly in 2011.
     
-5.  CardX
-    
-    1.  Buy a Card
+5.  1.  Buy a Card
         
         1.  Starbucks Card
         2.  Starbucks Card eGift
@@ -230,9 +220,7 @@ Navigation
     
     Add this special Braille Starbucks Card to your collection.
     
-6.  ShopX
-    
-    1.  Coffee
+6.  1.  Coffee
         
         1.  Blonde Roast Coffee
         2.  Medium Roast Coffee
@@ -443,7 +431,7 @@ Search Online Policies
 
 Change Region
 
-© 2011 Starbucks Corporation. All rights reserved.
+© 2012 Starbucks Corporation. All rights reserved.
 
 *   .Responsibility
 *   .Web Accessibility
