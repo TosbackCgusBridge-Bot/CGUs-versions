@@ -1,6 +1,6 @@
-**Ship it for just $4.95**or choose FREE Store Pickup. See details Visit our other sites: CB2   The Land of Nod
+*   Shipping to: **United States**
 
-*   Shipping to: **United States** Change destination or currency
+CB2   The Land of Nod
 
 *   Checkout
 *   Hi,   ▼
@@ -39,7 +39,10 @@
     *   Safety Recall
 *   Inspiration
 *   Gift Registry
+*   Sale
 *   Search
+
+**Ship it for just $4.95**or choose FREE Store Pickup. See details
 
 *   Customer Service
     *   Overview
