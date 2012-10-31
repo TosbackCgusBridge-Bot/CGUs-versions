@@ -297,6 +297,6 @@ search
 *   Terms of Service
 *   Privacy Statement
 *   Parental Controls
-*   _AdChoices_Ad Choices
-
+*   Ad Choices
+*   Georgia Org
 *   Accessibility
