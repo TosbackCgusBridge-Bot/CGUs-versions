@@ -1,4 +1,4 @@
-About Us| Newsletter October 30, 2012
+About Us| Newsletter October 31, 2012
 
 *   Like Us
 *   Follow Us
@@ -413,11 +413,11 @@ New on MedicineNet
 
 Latest MedicineNet News
 
-*   Symptoms of Ankle Fracture
-*   Is Perfect Pitch Genetic?
-*   Studies' 'Wow' Results Usually Fade in Follow-Up
-*   Blood or Bone Marrow in Stem Cell Transplants?
-*   Less Illicit Drug Use, More Prescription Abuse
+*   Sandy's Wrath Brings Massive Blackouts, Flooding
+*   Q &. A: Riding Out the Storm Safely
+*   Some Face Transplant Patients May Regain Function
+*   Harvest Season Can Be Hazardous for Farmers
+*   Millions Prepare as Hurricane Sandy on East Coast
 *   Want More News? Sign Up for MedicineNet Newsletters!
 *   Health News Feed
 
