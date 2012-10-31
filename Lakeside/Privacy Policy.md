@@ -246,7 +246,6 @@ Y*   Books + Media
             *   Outdoor Furniture
             *   Home Office
             *   Home Entertainment
-            *   Children's
             *   Tables, Stands
             *   Chairs, Benches, Stools
         *   open Storage
@@ -473,7 +472,6 @@ Y*   Books + Media
             *   Storage Units
             *   Outdoor Furniture
             *   Furniture Covers
-            *   Children's
             *   Kitchen and Dining
             *   Tables, Stands
             *   Chairs, Benches, Stools
