@@ -229,8 +229,8 @@ I have received the cheque! Which is fantastic. Thank you!
 
 What would you like to win?
 
-*   Win an iPad 2
-*   Win an iPhone 4s
+*   Win an iPad HD
+*   Win an iPhone 5
 *   Tesco Competition
 
 *   Win a MacBook
