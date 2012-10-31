@@ -145,35 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  Who’s On the D.C. Streets?
-2.  Sandy’s Savior
-3.  That 9/11 Feeling
-4.  Live Updates: Hurricane Sandy
-5.  Romney’s Closing Con Game
+1.  Obama’s New Best Friend
+2.  Please, No More Star Wars!
+3.  Mitt’s Bipartisan Myth
+4.  Taming Sandy’s Aftershocks
+5.  Savile Scandal Taints Entire Era
 
   Other News Entertainment
 
-*   Week in Photos for Nov. 2, 2012
-*   Celebs Who Changed Their Names
-*   Kristen Bell is an Online Shopper, Plus More of October's Webbiest Stars
+*   Voting: Are These Looks Age Appropriate?
+*   Who Said it?: Stars Talking About Their Pets
+*   Celebs in Halloween Costumes 2012
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
-*   ‘Dancing With the Stars’: Week 6 is liiiiiive!
-*   One brick to rule them all: Watch the ‘Lego Lord of the Rings’ game trailer — EXCLUSIVE
+*   ‘New Girl’: Zombie Woody Allen
+*   ‘Sons of Anarchy’ recap: Jax has a new plan
+*   ‘Dancing With the Stars’ shocker: Week 6′s eliminated All-Stars are….
 *   **Get More from EW.com**
 
 Entertainment
 
+*   The Making Of Romney's Storm Relief Event
+*   Romney-Ryan To Begin Final Stretch On Friday With Major Ohio Rally
+*   Deceptive Twitter User Apologizes, Resigns From Campaign
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Are Polls Missing Cell Phone Users?
-*   Romney Avoids Late Night TV
-*   Obama Predicts War in GOP if He's Re-Elected
+*   Quote of the Day
+*   Race Enters Final Week as Close as Ever
+*   Latest Swing State Polls
 *   **Get More from Political Wire**
 
 The Daily Beast
