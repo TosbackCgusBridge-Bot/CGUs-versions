@@ -1,19 +1,15 @@
 *   US Europe België - Nederlands BE  
     Belgique - français BE  
     Deutschland DE  
-    Danmark DK  
     España ES  
     France FR  
     Ireland IE  
     Italia IT  
     Nederland NL  
-    Norge NO  
     Österreich AT  
-    Portugal PT  
     Schweiz - Deutsch CH  
     Suisse - français CH  
     Svizzera - italiano CH  
-    Sverige SE  
     United Kingdom UK  
       
     North America Canada - English CA  
@@ -307,8 +303,6 @@ Europe
 *   Fotogeschenke
 *   Fotokarten
 
-     Danmark
-
      España
 
      France
@@ -319,16 +313,12 @@ Europe
 
      Nederland
 
-     Norge
-
      Österreich
 
 *   Fotoabzüge
 *   Fotobuch
 *   Fotogeschenke
 *   Fotokarten
-
-     Portugal
 
      Schweiz - Deutsch
 
@@ -337,21 +327,19 @@ Europe
 *   Fotogeschenke
 *   Fotokarten
 
-    Suisse - français
+     Suisse - français
 
 *   tirages photo
 *   Livres photo
 *   cadeau personnalisé
 *   Cartes et Faire-part
 
-     Svizzera - italiano
+    Svizzera - italiano
 
 *   Stampe Digitali
 *   foto album
 *   regali personalizzabili
 *   foto cartoline
-
-     Sverige
 
      United Kingdom
 
