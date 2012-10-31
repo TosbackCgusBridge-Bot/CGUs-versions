@@ -4,14 +4,14 @@
 *   Hot Topics
     *   Hurricane Sandy
     *   Election 2012
-    *   Mitt Romney 2012
     *   New York City
+    *   President Obama
     *   severe weather
     *   entertainment
     *   hurricane
-    *   strange stuff
-    *   President Obama
-    *   celebrity
+    *   Mitt Romney 2012
+    *   Obama 2012
+    *   New Jersey
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -120,51 +120,57 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Could Hurricane Sandy Delay the Election?
-*   Above Politics
-*   YouTube Is Telling Us What Twitter Can't Right Now
+*   The Case for Price Gouging
+*   Change Newspapers Can Believe In
+*   Massachusetts Vote May Change How the Nation Dies
 
 More from Slate »
 
-*   An Adorable Echidna Puggle Belly &. 13 Other Animal Bellies...
-*   Anderson Cooper’s Daytime Talk Show Cancelled
-*   6 Accomplished Women Who Don’t Want To Be Called Feminists
+*   GIVE ME AN A!
+*   Drug Bust: Mom Convicted For Marijuana In Breast Milk
+*   Woman Drunkenly Tries To Save Ducks During Storm, Gets...
+
+More from HuffPost Weird »
+
+*   Ladies, Skrillex Is On The Market Again, I Repeat, Skrillex...
+*   Ryan Gosling Pays Surprise Visit To Deaf School Fundraiser
+*   Today’s Lady News: Reader Submission Edition
 
 More from The Frisky »
 
-*   NYFD scanner: "Do we have any plans in place for the...
-*   Hurricane Sandy has brought down The Huffington Post,...
-*   Fark's favorite mascot is ready for Halloween. The Sun is...
+*   JFK and Newark airports to re-open Wednesday, LaGuardia...
+*   Can we get this year's Halloween / spooky story thread...
+*   Congratulations, Twitter user comfortablysmug, the...
 
 More from Fark »
 
-*   10 fake photos of Hurricane Sandy
-*   Why newspaper endorsements don't matter
-*   Why voters don't care about Mitt Romney's move to the center
+*   @ComfortablySmug: How one Twitter user became Hurricane...
+*   The deadly wrath of Hurricane Sandy: By the numbers
+*   The craziest, most nail-biting elections in U.S. history
 
 More from The Week »
 
-*   After the Storm: Surveying Sandy's Damage, and Looking Ahead
-*   Hurricane Sandy’s Breakout Star: Mayor...
-*   Minnesota Is the Johnny-Come-Lately of Swing States
+*   Liveblog: Hurricane Sandy’s Terrible Toll
+*   Sandy's Biggest Twitter Troll Apologizes, But Won't Find...
+*   New York Lost Some Very Valuable Mice to Sandy, But Not its...
 
 More from Daily Intel »
 
-*   Courtney Stodden Sports Sexy Unicorn Costume for Halloween...
-*   Avril Lavigne's Ex Deryck Whibley Dresses Up as Her For...
-*   Connie Britton Slams Mitt Romney's Use of 'Friday Night...
+*   _Hurricane Sandy_
+*   Why Chocolate Makes You Smarter
+*   Moving On
+
+More from HuffPost Health »
+
+*   Twitter Abuzz With Superstorm Sandy Photos: East Coast...
+*   Heidi Klum Cancels Her Annual Halloween Party Due to...
+*   Miranda Kerr Voted 'Sexiest Woman Alive' by 'Esquire' UK:...
 
 More from Celebuzz »
 
-*   Porn for Parents: 4 R-rated Books and Movies That Will Heat...
-*   'Charlie Brown' Shouldn't Be Banned Just Because Lucy Is a...
-*   My Grandfather Was Between Worlds
-
-More from The Stir »
-
-*   The Spot: TV's Best Friend
-*   Wunderman N.Y. Finds New Planning Chief
-*   8 of the Most Extreme Extreme Weather Ads
+*   Portrait: Mekanism
+*   Best Craigslist Post Ever, for a Used Samsung Galaxy Note,...
+*   Wieden + Kennedy Seeks Help on Old Spice in Crazy, Epic Job...
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
