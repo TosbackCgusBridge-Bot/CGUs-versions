@@ -260,6 +260,6 @@ Remember Me ▲ SIGN UP TO MINICLIP FREE
 *   Save your High Scores
 *   Win Game Awards
 *   Play With Friends
-*   Customise your YoMe!
+*   Earn Free Credits
 
 ▲ Click Here!
