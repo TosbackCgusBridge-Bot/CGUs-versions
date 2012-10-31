@@ -500,12 +500,12 @@ Would you like to receive special offers, promotions, coupons, and free samples 
 
 See All Newsletters  
 
-*   Homeandgarden My Best Idea Quick Tips for Getting Party Pretty in a Pinch
+*   Homeandgarden My Best Idea Never Lose a Sock Again! You Won't Believe How Easy It Is
 *   Beauty DIY Beautify Kelly Bensimon Picks the Best Party Look
 *   Entertainment iVillage 5 Will Jay-Z Join Beyonce at the Super Bowl?
 *   Entertainment Likes or Yikes? Uh Oh! Which Celeb Does Taylor Swift Fear She'll Drunk Dial?
 *   Global iVoices Why a Failed First Marriage Doesn't Make You a Failure
-*   Entertainment Featured Alicia Keys: CEO of the Business of Inspiration
+*   Entertainment Alicia Keys: Giving Back to Oprah!
 
   
   
