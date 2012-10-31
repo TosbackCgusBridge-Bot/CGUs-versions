@@ -1,6 +1,6 @@
 (skip this header)
 
-Tuesday Oct 30, 2012 5:05 AM PT
+Wednesday Oct 31, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,12 +60,12 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Saison moving
-*   Kim K.'s costume
-*   Photo tour: Haight-Ashbury
-*   Tale of 2 yolks
-*   Big publishing merger
-*   Chronicle endorsements
+*   Oakland City Hall, the show?
+*   Sierra snow watch
+*   Cyclists: Secure the frame!
+*   Fight at City Hall
+*   Local food and drink events
+*   Chron endorsements
 
 *   Bay Area &. State
 *   Nation
@@ -339,18 +339,27 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Real haunted homes for sale
+*   Nation in Focus
+*   World in Focus
+*   Jim Harbaugh
+*   Sandy impacts Presidential campaign
+*   Heidi Klum's annual Halloween party
+*   San Francisco City Hall nudists
+*   Week 8: 49ers at Cardinals
+*   Disney to buy Lucas
+*   'Wreck It Ralph' premiere
+*   Day in Pictures, Oct. 30, 2012
 *   Halloween 2012
 *   san mateo
 *   Nation in Focus
 *   World in Focus
-*   Week 8: 49ers at Cardinals
 *   The World Series champion Giants return home
 *   ACT's "Revamping the Strand" fundraising party
 *   LACMA 2012 Art + Film Gala Honoring Ed Ruscha and Stanley Kubrick
 *   Lolinda
 *   Giants Fans Celebrate World Series Victory
 *   Day in Pictures, Oct. 29, 2012
-*   Sandy impacts Presidential campaign
 *   Haunted San Francisco Homes
 *   Nation in Focus
 *   World in Focus
@@ -369,15 +378,6 @@ Ads by Yahoo! Photo Galleries
 *   World in Focus
 *   Thrift store Halloween costume ideas
 *   FORTUNE's 40 Under 40 party
-*   Fashion Group International
-*   Day in Pictures, Oct. 26, 2012
-*   mini-storage political ads
-*   Favorite dishes 10/26/2012
-*   Nightmare on Elm Street house gets a makeover
-*   'Skyfall' London Royal world premiere
-*   Game 2: Giants vs. Tigers
-*   Apple Event Oct 23
-*   San Francisco Fall Antiques Show
 
 *   Most Read
 *   |
@@ -385,56 +385,51 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Sandy causes NJ flooding, power outages, 3 deaths
-2.  'Knuckleheads' run amok after Giants win
-3.  Sandy leaves death, damp and darkness in wake
-4.  2 arrested in shooting at Fort Mason
-5.  Federal agents seize fake Giants gear
-6.  Giants return home to cheers, fans
-7.  Smith, smothering defense headline 49ers’ 24-3 drubbing of Cardinals
+1.  Police arrest man in Muni bus vandalism
+2.  Disney Buys ‘Star Wars’ Producer Lucasfilm for $4.05 Billion
+3.  Burning Man arsonist dies on BART tracks
+4.  'Knuckleheads' run amok after Giants win
+5.  Mars rover finds soil like that in Hawaii
+6.  Joke about post-Series vandalism photo backfires on Brisbane man
+7.  George Lucas' Marin land in question
 
-1.  Dems nervous, GOP upbeat as vote nears
-2.  Giants celebrants torch Muni bus
-3.  The city celebrates as Giants sweep
-4.  Boy says he was mad at his dog so he killed it
-5.  Scutaro's RBI hit lifts Giants to title
-6.  Libyan witnesses recount organized Benghazi attack
-7.  What scares employees most?
+1.  Women 'Obama defectors' could swing race
+2.  Do you know this Muni bus wrecker?
+3.  Superstorm Sandy takes aim at Atlantic coast
+4.  New efforts try to limit Mirkarimi power
+5.  Disney buys Lucasfilm for $4.05 billion
+6.  S.F., Oakland drop bid for U.S. school funds
+7.  Giants celebrants torch Muni bus
 
-1.  Federal agents seize fake Giants gear
-2.  S.F., Oakland drop bid for U.S. school funds
-3.  2 arrested in shooting at Fort Mason
-4.  Buddy Act: Clinton, Biden gave fiery Ohio speeches
-5.  A sorority for Silicon Valley's 'frat row'
-6.  He died penniless, but rich with friends
-7.  Huge plays by Sandoval, Mays set tone
+1.  He died penniless, but rich with friends
+2.  Burning Man arsonist dies on BART tracks
+3.  Clay pots can make recipes taste better
+4.  Giants parade set to roll at 11 a.m.
+5.  Mars rover finds soil like that in Hawaii
+6.  Apple shakeup could be savvy move
+7.  Sudan attack spotlights Israel-Iran rivalry
 
 loading... Latest News Videos From our homepage
 
-*     
-    Noah Berger, Special To The Chronicle / SF
+*   Arrest in Muni bus vandalism
     
-    Trophy back in S.F.
+    Cops say tips led to arrest of vandal in now-infamous photo.
     
-    Giants get a hero's welcome at AT&T Park as they return from World Series glory. Photos
-    
+*   S.F. gets tough on rioters
 
 *     
-    Susana Bates, Special To The Chronicle / SF
+    Frank Franklin II, AP / AP2012
     
-    36 'knuckleheads' arrested
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 10:21 p.m., Tuesday, October 30, 2012 Sandy's death, destruction
     
-    Mayor slams Giants-fan 'hoodlums' who set 70 fires, torched $700,000 Muni bus after win. Photos
+    At least 50 deaths from storm, millions without power. Photos
     
+*   Crippled subways hurt efforts
 
-*     
-    Ross D. Franklin / AP
+*   It's a costume, dummy!
     
-    Who's got control of West?
+    Late entries to Halloween costume contest could be winners. Check out the new stuff. Photos
     
-    Smith, defense star as 49ers crush Cardinals on 'MNF.' Photos
-    
-*   5 players who keyed win
 
 *   Home
 *   News
