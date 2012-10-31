@@ -77,9 +77,9 @@ Sign In | My Account | Contact Us
     *   Investor Relations
     *   News Releases
 
-Hurricane Sandy Advisory
+Superstorm Sandy Advisory
 
-For customers impacted by Hurricane Sandy, United is offering the ability to change your travel plans. Learn more &gt
+For customers impacted by Superstorm Sandy, United is offering the ability to change your travel plans. Learn more &gt
 
 *   Flight
 *   Hotel
@@ -121,7 +121,7 @@ Confirmation **or** MileagePlus Number:
 **More Check-in options**  
 Check-in is available within 24 hours of departure Flight Number:  
 Departure Date:  
-Mon., Oct. 29Tue., Oct. 30Wed., Oct. 31Thu., Nov. 1 Don't know the flight number? To: City or airport: City or airport:  
+Tue., Oct. 30Wed., Oct. 31Thu., Nov. 1Fri., Nov. 2 Don't know the flight number? To: City or airport: City or airport:  
 Change or View Reservations See More Find a Reservation by Confirmation Number Reservation Type: Flight Car Confirmation:  
 Last Name:  
 MileagePlus Sign In MileagePlus number:  
