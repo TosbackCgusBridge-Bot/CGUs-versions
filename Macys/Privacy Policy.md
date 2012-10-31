@@ -205,6 +205,9 @@ Find an answer announcements
 *   Shipping Delays - Hurricane Sandy  
     Due to Hurricane Sandy, orders that are shipping from our East and North East...  
     
+*   Click here if you are having trouble resetting your password  
+    We're sorry, but if you are attempting to reset your account profile password, that feature is...  
+    
 
 related tools My Profile Macy's Credit Card Order Status Store Locator Gift Card Balance Password Assistance Contact Us
 
