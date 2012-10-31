@@ -1,78 +1,78 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Son, 12, to stand trial in neo-Nazi dad's slaying
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Smartphone users: Watch the TODAY Show LIVE
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Matt York / AP Good luck to rest of NFC West
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Hunter Martin / Getty Images Contributor Vick still Eagles' starter, for now
     
-    PFT: 49ers' demolition of Cardinals gives them firm control of division thanks to that dominant defense and an ever-improving offense.
+    PFT: Philly hasn't made any depth chart changes, not given QB any notice of moves. But Andy Reid may still switch before long.
     
-    Smith's 'fantastic game' helps 49ers carve up Cards Romo: We stunk  |   Coughlin: Clock stuck at 0:01 PFT: Rex reiterates Sanchez is the starter PFT: Panthers say DeAngelo drawing interest PFT: Giants, Patriots outrace Hurricane Sandy PFT: Get ready for Broncos to get really hot PFT: 100 percent back? Peyton's not buying it PFT: Saints' D historically bad, and getting worse Ad
+    PFT: Skelton still Arizona's starting QB PFT: Panthers fielding calls about Steve Smith PFT: Peyton not totally back? Brooking scoffs PFT's power rankings ... and team MVPs! PFT: We’re where we deserve to be, Brady says PFT: Lions trade for Jaguars receiver Thomas PFT: McKinnie denies spending $375K at strip clubs PFT: 49ers want NFL to change box score Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines David J. Phillip / AP Pitching and D, pitching and D
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Christian Petersen / Getty Images Is Bochy game's best manager?
     
-    DeMarco: The champion Giants were built on the most fundamental principles in baseball.
+    DeMarco: The 'Terrific' skipper may have Giants on top again in 2013, especially with everything in place related to team's core players.
     
-    Giants sweep Tigers to take World Series crown CSN: The platinum standard of modern baseball CSN: These Giants were good, not lucky Rowdy fans take to streets after Giants' victory HBT: Too early? Tigers are 2013 Series favorites HBT: Sandoval powers way to World Series MVP CSN: Sandoval's Game 1 gave Giants needed lift HBT: Homegrown Giants pitching was unbeatable Ad
+    HBT: Giants GM Sabean faces hard decisions Trout not among nine new Gold Glove winners HBT: Leyland returning as manager of Tigers HBT: Series gets Taiwanese animation treatment HBT: Too early? Tigers are 2013 Series favorites HBT: Dodger's wife gives birth while he drove HBT: Giants-Tigers was lowest-rated WS ever HBT: Dodgers, League ink 3-year, $22.5M deal Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Bruce Bennett / Getty Images Winter Classic might be canceled
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Arno Balzarini / AP Is this really worth it for players?
     
-    PHT: The league’s signature regular-season event on Jan. 1 between the Red Wings and Maple Leafs might be postponed because of the lockout.
+    PHT: Perhaps money isn’t the root cause of their dispute with the NHL. Maybe it’s more about pride and fairness. So, do they stay the course ... or reevaluate?
     
-    PHT: Star goalies Fleury, Miller might go to Europe PHT: Johnson rips owners on Jackets' website PHT: NHL cancels games through November PHT: NHL 'deeply regrets' scrapping more games PHT: Fehr says cancellations 'deeply disappointing' PHT: Jagr says lockout 'sad for me and Teemu' PHT: Lamoriello solution? 'Lock them in a room' Costas Tonight: Roenick on NHL lockout Ad
+    Players expect to get escrow checks Wednesday PHT: Fehr opens up on negotiating tactics PHT: Winter Classic might be canceled Thursday PHT: Bozak under fire for Micahel Jackson costume PHT: Club fined for fans' racist taunts at Simmonds PHT: Fleury, Miller might go to Europe PHT: Johnson rips owners on Jackets' website PHT: NHL cancels games through November Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Sue Ogrocki / AP Who could derail Lakers-Heat?
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Issac Baldizon / Getty Images Contributor Newly ringed Heat handle Celtics
     
-    PBT: LeBron and Kobe aren't guaranteed to play for the title. Not with Thunder, Celtics, Clippers and Pacers out there.
+    LeBron James scored 26 points and grabbed 10 rebounds while missing much of the second half with leg cramps, Dwyane Wade scored 29 points and the NBA champion Miami Heat beat the Boston Celtics 120-107 on Tuesday night in the season opener for both teams.
     
-    Winderman: Title didn't dim LeBron's fire PBT: Knicks may lose Stoudemire for 8 weeks PBT power rankings: Heat, Lakers start out 1-2 Trash Talk: To find NBA dark horse, look at point guard PBT: Kobe a 'game-time decision' for opener Let the flop policing begin PBT: Rockets GM 'shocked' OKC traded Harden PBT: Ginobili to miss opener with back pain Ad
+    PBT: Even with LeBron's cramps, Heat's night a hit CSN: Celtics clearly not in Heat's league PBT: Garnett snubs Allen ... no surprise PBT: Lakers make it too easy for the Mavs Lame first game for new-look Lakers PBT: Irving, Cavs too much for Wizards PBT: NBA's 'Three Stars of the Night' PBT: Knicks may lose Stoudemire for 8 weeks Ad
 *   CFB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Jonathan Ferrey / Getty Images Who will take the Heisman?
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Wily Low / AP Trojans are like Cowboys (not good)
     
-    Follow along this season as NBCSports.com updates the race for the top individual prize in the country. After seeing our list, it's your turn to rank the candidates.
+    Trash Talk: USC is undisciplined and inefficient. Dallas is undisciplined and inefficient. Goes to show: You can assemble elite talent, but you might not be able to make it mesh.
     
-    CFT: Hurricane Sandy causing issues for teams CFT: Spurrier says Lattimore aims to return to SC CFT: Texas will stick with Ash at quarterback Trojans are like Cowboys — in a bad way CFT: 'Bama, K-State, ND 1-2-3 in latest BCS Notre Dame Central: No. 5 Irish KO No. 8 OU Irish blog: Win at Oklahoma was nearly perfect CFT's Fifth Quarter: Top teams could run the table Ad
+    CFT: USC's discipline problems are red flag 'Bama, LSU hoping 7 lucky number this time LSU hungry for redemption in rematch with 'Bama New arrest lands ex-LSU QB Jefferson in jail Heisman Hopefuls: Klein keeps lead ... you agree? Ohio State coming around to Miller for Heisman No. 3 Wildcats still playing like underdogs TCU planning late arrival for WVU game after Sandy Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Streeter Lecka / Getty Images Johnson wins, takes points lead
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Robert Laberge / Getty Images What's the plan for IndyCar?
     
-    Jimmie Johnson held off Kyle Busch on a restart with five laps to go Sunday and won for the seventh time in his career at Martinsville Speedway.
+    Surely there must be some misunderstanding, and the board of directors charged with overseeing IndyCar really does have a long-term strategy for the series.
     
-    What's the plan in IndyCar? Does anybody know? Randy Bernard steps down as IndyCar CEO Vettel wins F1 India GP, extends title lead Vettel dispels rumors of change to Ferrari McLaren twin achievements at Indian GP Earnhardt talks of anxiety caused by concussions Keselowski insists he's not feeling title heat Knaus salvages Kansas to keep Johnson in hunt Ad
+    Randy Bernard steps down as IndyCar CEO Simona de Silvestro signs with KV Racing for 2013 Johnson wins at Martinsville, takes points lead Vettel wins F1 India GP, extends title lead Vettel dispels rumors of change to Ferrari McLaren twin achievements at Indian GP Earnhardt talks of anxiety caused by concussions Keselowski insists he's not feeling title heat Ad
 *   BKC
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Dave Martin / AP Ranking college hoops' top 20 PGs
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Damian Dovarganes / AP Nobody puts up the rock better
     
-    CBT: Some prefer Missouri's Phil Pressey or Michigan's Trey Burke. But we think Murray State's Isaiah Canaan is the best floor leader out there.
+    CBT: It's still unknown if the NCAA will clear UCLA's Shabazz Muhammad, but he’s still the nation's best shooting guard — we rank the best.
     
-    CBT: Could Sandy affect start of the season? CBT: Creighton picked to win MVC (shocker!) Conference previews: Big Sky  |  Big South Conference previews: America East |  Atlantic Sun Coach Tom Izzo fired up about 14th-ranked Spartans CBT: Only one power conference All-American Groce era at Illinois begins well CBT: Indiana No. 1 team in AP preseason poll Ad
+    CBT's top 25 countdown: Syracuse No. 4 Conference previews: Horizon  |  Great West CBT: Long Beach St. still the Big West favorite Kansas' Tharpe finds motivation in newborn daughter New Mexico suspends Fenton for 3 games Baylor's Griner a unanimous All-American pick CBT: Ranking college hoops' top 20 PGs CBT: Could Sandy affect start of the season? Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Tiger the coach and catching up with Tiger's old coach
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines McIlroy gambling with his future regarding new equipment?
     
-    John Hawkins would like to introduce you to his swing coach - Tiger Woods. He also catches up with Tiger's former instructor, Hank Haney.
+    Rory McIlroy's switch to a new equipment deal could have long-lasting effects - potentially good and bad for the world No. 1.
     
-    Rory clips Tiger by a shot in Duel at Jinsha Lake Tracker: No. 1 vs. No. 2 showdown in China Watney fires red-hot 61, wins CIMB Woods didn't lose CIMB Sunday, he got beat Few changes to 2013 PGA Tour schedule Condensed 2013 Tour season will mean bigger fields What We Learned: CIMB Classic Augusta National files plans to renovate clubhouse Watney, Hanson crack top 20 in world ranking Video: Get your ball up and down from the sand Ad
+    Titleist, McIlroy won't renew contract after this year Faldo on Rory-Titleist split: 'I call it dangerous' Rory clips Tiger by a shot in Duel at Jinsha Lake Lefty on Ryder Cup aftermath: 'A really tough low' Few changes to 2013 PGA Tour schedule Favorite/least favorite thing on 2013 Tour schedule Power Rankings: WGC-HSBC Champions Notes: Lewis tries to end American LPGA drought Condensed 2013 Tour season will mean bigger fields Augusta National files plans to renovate clubhouse Video: Get your ball up and down from the sand Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Otto Greule Jr / Getty Images MLS coach of year? We discuss
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Steve Dykes / Getty Images Who's MLS MVP? That's an easy one
     
-    PST: San Jose coach Frank Yallop guided his squad to an unexpectedly impressive season. Was it luck? Or just the best coaching job this season?
+    PST: Let's agree on giving it to the guy who scored a record-tying 27 goals this season — Wondo!
     
-    PST: Your MLS playoff schedule and primer PST: Where will MLS Cup 2012 land? PST: Where Donovan landed among the leaders PST: Concern in Seattle over Eddie's hamstring PST: Let's talk Columbus Crew, the good and bad NBCUniversal to televise Premier League games PST: Massive news for US soccer fans Messi receives Golden Boot as Europe's top scorer Ad
+    PST's discussion for top defender  |  Rookie PST: MLS coach of year? Our staff discusses PST: Down 0-4, Arsenal eventually wins 7-5 PST: Conflicted about Thierry Henry? Get in line PST: Seattle still awaiting word on Johnson PST: Did Sandy KO Red Bulls for Saturday? PST: New US women's soccer coach is an Aussie PST: So, who's this new US women’s coach? Ad
 *   Horses
     SectionsOverview Latest news Watch live racing Results Entries Latest videos Free racing game Bet now  
-    Headlines Adam Coglianese / AP What's up for Breeders' Cup?
+    Headlines Adam Coglianese / AP Breeders' will decide Horse of Year
     
-    Jon Siegel and Joel Cunningham take a first look at the 180 pre-entries for next week's 15 Breeders' Cup championship races and discuss expectations, storylines and contenders in the biggest races.
+    Royal Delta could become the fourth straight female horse to win the award if everything falls into place this weekend.
     
-    Early Breeders' Cup preview Game On Dude continues to impress for Classic Gomez hopes for another Breeders' grand slam Rockin Amadeus races to upset win at Woodnine Dullahan drills on dirt, but Classic decision awaits Willcox Inn, juvenile duo post moves at Keeneland Sum of the Parts, Global Power breeze for Amoss Amazombie does final big drill for Sprint defense Ad
+    Early Breeders' Cup preview TCI looks at 180 pre-entries for Breeders' Cup Game On Dude made early favorite for Breeders' Cup Champions line up for this week's Breeders' Cup Can Game on Dude win Classic, Horse of Year? Shanghai Bobby vs. Power Broker in Juvenile Ladies' Classic could produce Horse of the Year Gomez hopes for another Breeders' grand slam Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Victor Decolongon / Getty Images Morgan as Maroney? Impressive
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Silvia Izquierdo / AP Phelps gives lessons in Rio
     
-    OlympicTalk: Alex Morgan and U.S. women’s soccer teammate Sydney Leroux dressed up as a different dynamic duo for their Halloween parties.
+    The most decorated Olympian of all time visits Rio de Janeiro to promote the 2016 Olympics.
     
-    Highlights: Ligety wins World Cup opener Ligety wins World Cup opening GS with massive lead FIS set to discuss Vonn's wish to race against men Slovenia's Maze wins season-opening WCup GS Canadians dominate in World Cup short-track event Spain's Javier Fernandez wins Skate Canada Clukey hangs on to win USA Luge national title London Games boss Coe feared terrorist attacks Ad
+    South Korean protest player finally gets soccer medal Olympic champion Spirig targets Rio after baby OlympicTalk: Morgan as Maroney? Impressive Highlights: Ligety wins World Cup opener Ligety wins World Cup opening GS with massive lead FIS set to discuss Vonn's wish to race against men Slovenia's Maze wins season-opening WCup GS Canadians dominate in World Cup short-track event Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Outdoors Tennis Action sports Fight Night Tickets Headlines Mohd Rasfan / AFP - Getty Images The Week in Sports Pictures
+    SectionsOther sports Off the Bench Cycling Outdoors Tennis Action sports Fight Night Tickets Headlines Richard Drew / AP NYC Marathon is still a go
     
-    Tiger gets in his groove, Tony Romo cuts loose and San Francisco sweeps the Fall Classic.
+    New York City Marathon organizers say they are moving ahead with plans for Sunday's race even as the city staggers through the aftermath of superstorm Sandy.
     
-    Hungarian eliminated in 6th at WSOP, wins $1.64M Sylvia remains World Series of Poker favorite Castrodale: Sporting world is positively frightful I deserve top ranking, says number three Serena NYC Marathon not expected to be affected by storm Wiggins awarded 3rd place in 2009 Tour de France Catchings has big plans after remarkable double UFC's Dos Santos: I could knock out Klitschko Ad
+    Professional leagues plan to play after superstorm Final 3 at WSOP marathon toward $8.53M crown The Week in Sports Pictures Sports backgrounds for Obama, Romney 9 charged in Fla. youth football gambling ring Afghan boxer wins 1st pro fight in war-torn nation Castrodale: Sporting world is positively frightful I deserve top ranking, says number three Serena Ad
 
 *   Scores
 *   Odds
@@ -191,9 +191,9 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com World Series: Giants sweep Tigers  |  HBT: Pitching rules  
-PFT: Broncos about to hit hot streak  |  Crush Saints  
-PBT: Rockets can build around Harden  |  And the Thunder?  
+Tweet Also on NBCSports.com CSN: Celtics clearly not in Heat's league  
+PFT: Power rankings ... and team MVPs!  
+DeMarco: Is Bochy now MLB's best manager?  
 PST: English soccer has new broadcast home  |  Massive  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
