@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (9.1 MB) Top Mac Downloads 1 Diner Dash 2 Diner Dash 2 Restaurant Rescue 3 Cooking Dash 4 Wedding Dash 5 SpongeBob SquarePants Diner Dash 6 Hotel Dash: Suite Success 7 Diner Dash Flo on the Go 8 Hotel Dash 2: Lost Luxuries 9 Wedding Dash 4 - Ever 10 Dream Day Honeymoon » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (33.8 MB) Top Mac Downloads 1 SpongeBob SquarePants Diner Dash 2 Dream Day Honeymoon 3 Avenue Flo: Special Delivery 4 Parking Dash 5 Avenue Flo 6 Garden Dash 7 Chocolatier 8 Diaper Dash 9 Diner Dash: Flo Through Time 10 Soap Opera Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -245,47 +245,47 @@ Download Mac game to PC? This is a Mac file. it won't install on a PC. Please co
 Preparing to Download... I'm New Here I Have an Account Loading...  
 Download PC game to Mac? This is a PC file. it won't install on a Mac. Please continue if you plan to save this file and install it elsewhere. Or, cancel to go back and choose another format.  
   
-Diner Dash DASH™ &. Time Mgmt Games
-
-Ditch your desk job and serve up some grub!
-
-**Play Free!** (9.1 MB) Try It Diner Dash 2 Restaurant Rescue DASH™ &. Time Mgmt Games
-
-Sling grits, earn tips - help Flo save her friends!
-
-**Play Free!** (10.4 MB) Try It Cooking Dash DASH™ &. Time Mgmt Games
-
-Help Flo cook and deliver food from four DinerTown restaurants while Cookie the Chef courts culinary celebrity!
-
-**Play Free!** (23.1 MB) Try It Wedding Dash DASH™ &. Time Mgmt Games
-
-Help Quinn make wedding bells ring!
-
-**Play Free!** (16.0 MB) Try It SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
+SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
 
 Soak up five-star feeding fun with everyone's favorite sponge!
 
-**Play Free!** (10.2 MB) Try It Hotel Dash: Suite Success DASH™ &. Time Mgmt Games
-
-Flo's going into the hotel business!
-
-**Play Free!** (33.8 MB) Try It Diner Dash Flo on the Go DASH™ &. Time Mgmt Games
-
-Flotrades in her apron for a passport to paradise!
-
-**Play Free!** (11.5 MB) Try It Hotel Dash 2: Lost Luxuries DASH™ &. Time Mgmt Games
-
-Check in 2 adventure!
-
-**Play Free!** (70.5 MB) Try It Wedding Dash 4 - Ever DASH™ &. Time Mgmt Games
-
-Tackle more wedding mania than ever before!
-
-**Play Free!** (32.2 MB) Try It Dream Day Honeymoon Hidden Object Games
+**Play Free!** (10.2 MB) Try It Dream Day Honeymoon Hidden Object Games
 
 Search for the perfect souvenir!
 
-**Play Free!** (81.9 MB) Try It Log In New to PlayFirst?
+**Play Free!** (81.9 MB) Try It Avenue Flo: Special Delivery Adventure &. Quests Games
+
+Help DinerTown save the event of the year!
+
+**Play Free!** (146.5 MB) Try It Parking Dash DASH™ &. Time Mgmt Games
+
+Get behind the wheel and shift into high gear!
+
+**Play Free!** (22.6 MB) Try It Avenue Flo Adventure &. Quests Games
+
+Explore DinerTown like never before
+
+**Play Free!** (82.2 MB) Try It Garden Dash DASH™ &. Time Mgmt Games
+
+Fresh from the city!
+
+**Play Free!** (77.3 MB) Try It Chocolatier Simulation &. Strategy Games
+
+Oh, the gloriously rich and delectable life of a chocolatier!
+
+**Play Free!** (19.7 MB) Try It Diaper Dash DASH™ &. Time Mgmt Games
+
+More cute, cuddly babies than you will know what to do with!
+
+**Play Free!** (22.6 MB) Try It Diner Dash: Flo Through Time DASH™ &. Time Mgmt Games
+
+Join Flo and Grandma on a thrilling adventure through time!
+
+**Play Free!** (29.1 MB) Try It Soap Opera Dash DASH™ &. Time Mgmt Games
+
+DinerTown's zaniest soap opera parody!
+
+**Play Free!** (62.4 MB) Try It Log In New to PlayFirst?
 
 Sign up below to create a new PlayFirst account.
 
