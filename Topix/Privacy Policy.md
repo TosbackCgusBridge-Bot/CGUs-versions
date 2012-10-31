@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-Mitt Romney
+Wall Street
 
-Obama-Romney: Historically close
+Stock Futures Rise as Wall Street Reopens
 
-Iraq
+Iran
 
-Iran begins 2-day military exercises near Iraq border
+Netanyahu wants France to push for tougher Iran sanctions, def...
 
 Politix
 
-Is voter fraud a valid concern?
+Which presidential candidate is better for business?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 112,802 • Total comments across all topics: 189,570,259
+Comments made yesterday: 115,674 • Total comments across all topics: 189,674,426
 
 Copyright ©2012 Topix LLC
 
