@@ -12,7 +12,7 @@ Halloween Costumes Customer Service Store Locator Change to Canada
     *   Breast Cancer Awareness Graduation Bachelorette Party Bridal Shower 25th Anniversary 40th Anniversary 50th Anniversary Baptism Communion Confirmation Welcome Home Congratulations Retirement Quinceanera
 
 *   Holiday Parties
-    *   Halloween Day of the Dead Thanksgiving Hanukkah Christmas Kwanzaa New Years Chinese New Year Valentines Day Mardi Gras St. Patricks Day Passover Easter Cinco de Mayo 4th of July Oktoberfest
+    *   Thanksgiving Hanukkah Christmas Kwanzaa New Years Chinese New Year Valentines Day Mardi Gras St. Patricks Day Passover Easter Cinco de Mayo 4th of July Oktoberfest Halloween Day of the Dead
 
 *   Halloween Costumes
     *   Baby, Toddler Costumes Boys Costumes Girls Costumes Teen Costumes Womens Costumes Sexy Costumes Mens Costumes Plus Size Costumes Couples, Group Costumes Dog Costumes Costume Accessories Decorations, Supplies
@@ -24,10 +24,10 @@ Halloween Costumes Customer Service Store Locator Change to Canada
     *   Shop By Color Clear Tableware Paper, Plastic Plates Plastic Bowls Paper, Plastic Cups Coffee Cups Paper Napkins Plastic Cutlery Table Covers 99¢ Tableware BOGO Cups Big Party Packs Premium Plates Premium Bowls Premium Stemware Premium Cups
 
 *   Party Favors &. Candy
-    *   Girls Party Favors Boys Party Favors 99¢ Party Favors Candy Favors Bulk Candy Big Bag Candy Pinata Candy Candy Gum Candy Mints Favors Candy Buffet Sports Party Favors Luau Party Favors Patriotic Party Favors Hollywood Party Favors Casino Party Favors Fiesta Party Favors Favor Bags Favor Containers Party Hats Headbands, Tiaras Blowouts, Noise Makers
+    *   Girls Party Favors Boys Party Favors 99¢ Party Favors Sports Party Favors Candy Favors Bulk Candy Big Bag Candy Pinata Candy Candy Gum Candy Mints Favors Candy Buffet Favor Bags Favor Boxes Party Hats Headbands, Tiaras Blowouts, Noise Makers
 
 *   Balloons
-    *   New Arrivals Giant Gliding Balloons Air Swimmers Balloons Girls Birthday Balloons Boys Birthday Balloons 1st Birthday Balloons Milestone Birthday Happy Birthday Balloons Solid Latex Balloons Printed Balloons Round Balloons Star Balloons Heart Balloons Balloon Bouquets Personalized Balloons Singing Balloons Number Balloons My Own Pet Balloons Sports Balloons Helium Tanks Curling Ribbon Balloon Weights Balloon Clips &. Pumps
+    *   New Arrivals Giant Gliding Balloons Air Swimmers Balloons Girls Birthday Balloons Boys Birthday Balloons 1st Birthday Balloons Milestone Birthday Happy Birthday Balloons Solid Latex Balloons Printed Balloons Round Balloons Star Balloons Heart Balloons Balloon Bouquets Personalized Balloons Singing Balloons Number Balloons Sports Balloons Helium Tanks Curling Ribbon Balloon Weights Balloon Clips &. Pumps
 
 *   Invitations
     *   Custom Invitations Custom Thank You Notes Printable Invitations Birthday Invitations Baby Shower Invitations Wedding Invitations Graduation Invitations Bridal Shower Invitations Anniversary Invitations Religious Occasions Luau Invitations Hollywood Invitations Sports Invitations Surprise Party Invitations Cocktail Party Invitations General Invitations More Themes Halloween Invitations Christmas Invitations More Holiday Invitations Note Cards, Thank Yous Stickers and Seals Envelopes
