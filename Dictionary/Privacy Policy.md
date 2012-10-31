@@ -92,4 +92,4 @@ We have opted for this alternative approach. If you would like to modify any per
 
 As more fully described in this Privacy Policy, you may request that Dictionary.com LLC not disclose your personal information to third parties. You may do so either at the time you register or by contacting us by writing to us at Dictionary.com LLC, ATTN: Legal Department, 555 12th Street, 5th Floor, Oakland, CA 94607.
 
-Partners:WordBloglinesCitysearchThe Daily BeastAsk AnswersAsk KidsLife123SendoriThesaurus Dictionary.com, LLC. Copyright © 2012. All rights reserved. About Privacy Policy Terms of Use API Careers Advertise with Us Contact Us Help
+Partners:WordBloglinesCitysearchThe Daily BeastAsk AnswersAsk KidsLife123SendoriThesaurus Dictionary.com, LLC. Copyright © 2012. All rights reserved. About Privacy Terms API Careers Advertise with Us Contact Us Suggest a Word Help
