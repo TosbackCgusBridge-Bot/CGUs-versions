@@ -203,7 +203,7 @@ COPPA also limits the amount of personal information a web site can collect from
 
 For more information about COPPA, please visit the Federal Trade Commission's web site.
 
-Parents: If your child is under the age of 13 and has joined Tagged using a false age, please notify Tagged at parentcare@tagged.com, and we will immediately cancel your child's account and nullify all personally identifiable information displaying on the site. If you would like to know more about our site, information practices, stored information about your child, or how to close your child's account, please contact Tagged by sending a letter to Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111. We will happily respond to all letters from parents with Privacy questions or concerns.
+Parents: If your child is under the age of 13 and has joined Tagged using a false age, please notify Tagged at parentcare@tagged.com, and we will immediately cancel your child's account and nullify all personally identifiable information displaying on the site. If you would like to know more about our site, information practices, stored information about your child, or how to close your child's account, please contact Tagged by sending a letter to Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111 or by submitting a request at help.tagged.com. We will happily respond to all letters from parents with Privacy questions or concerns.
 
 User Information Collected by Tagged Personally Identifiable User Information
 
@@ -279,7 +279,7 @@ Tagged reserves the right to revise, amend, or modify this policy and our other 
 
 Contacting Tagged
 
-Users with questions about this Privacy Policy and any of the aforementioned statements may contact Tagged by sending a letter to Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111.
+Users with questions about this Privacy Policy and any of the aforementioned statements may contact Tagged by sending a letter to Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111 or by submitting a request at help.tagged.com.
 
 **USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
 
