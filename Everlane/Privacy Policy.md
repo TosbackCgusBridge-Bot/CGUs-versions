@@ -1,29 +1,22 @@
 *   Login
-*   Apply for Membership
+*   Join Everlane
+
+*   My Account
+*   My Orders
+*   My Returns
+*   Shipping Info
+*   Payment Info
+*   Log Out
+
+Your bag is empty.
+
+Free shipping on 2+ items checkout (1) →
 
 *   Women
 *   Men
 *   Join Everlane
 *   About
 *   Blog
-
-*   The French Terry
-*   Ryan Collection
-*   Classic Tee Collection
-*   The Essential Scarf
-
-*   The Weekender
-*   Backpack Collection
-*   The Tote
-*   The Essential Belt
-
-*   The French Terry
-*   Classic Tee Collection
-*   The Essential Belt
-*   The Tote
-
-*   The Weekender
-*   Backpack Collection
 
 Disclaimer
 
@@ -102,6 +95,24 @@ If you have questions or suggestions regarding our privacy standards please emai
 Already a member? Click here to log in.
 
 Not yet a member? Click here to join Everlane.
+
+*   The French Terry
+*   Ryan Collection
+*   Classic Tee Collection
+*   The Essential Scarf
+
+*   The Weekender
+*   Backpack Collection
+*   The Tote
+*   The Essential Belt
+
+*   The French Terry
+*   Classic Tee Collection
+*   The Essential Belt
+*   The Tote
+
+*   The Weekender
+*   Backpack Collection
 
 *   About
 *   **Jobs!**
