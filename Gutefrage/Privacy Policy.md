@@ -196,47 +196,51 @@ Registrieren Login
 2.  Kaninchen
 3.  Konzert
 4.  Kostüm
-5.  Online-Shop
-6.  Periode
-7.  Pickel
-8.  Piercing
-9.  Pokemon
+5.  Periode
+6.  Pickel
+7.  Piercing
+8.  Pokemon
+9.  rauchen
 10.  Steam
 
-Top-50 Themen Thema Anzahl Apple 84259 Arbeit 64766 Ausbildung 50178 Auto 91010 Beauty 69249 Beruf 77409 Beziehung 72022 Computer 537143 Computerspiele 64633 deutsch 67055 Englisch 52105 Ernährung 50722 essen 71200 Facebook 77472 Fernsehen 60274 Film 100152 Finanzen 58949 Freizeit 263033 Fußball 51168 Games 124787 Geld 93485 Gesundheit 205588 Haare 82708 Handy 205098 Hilfe 148868 Internet 322429 iPhone 75408 Kinder 50897 Körper 50219 Laptop 73558 Liebe 165574 Lied 54509 Mädchen 56378 Medizin 62704 Minecraft 68063 Musik 280648 PC 282513 PC-Spiele 48708 Problem 55297 PS3 60273 Recht 95281 Schule 235391 Software 57071 Spiele 137257 Sport 110897 Technik 120575 Tiere 64860 TV 54370 Video 52712 Youtube 83319 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 84360 Arbeit 64852 Ausbildung 50259 Auto 91106 Beauty 69366 Beruf 77497 Beziehung 72104 Computer 537745 Computerspiele 64716 deutsch 67100 Englisch 52174 Ernährung 50758 essen 71276 Facebook 77584 Fernsehen 60305 Film 100260 Finanzen 59025 Freizeit 263466 Fußball 51194 Games 125016 Geld 93592 Gesundheit 205833 Haare 82815 Handy 205364 Hilfe 149071 Internet 322704 iPhone 75509 Kinder 50933 Körper 50307 Laptop 73648 Liebe 165783 Lied 54561 Mädchen 56443 Medizin 62751 Minecraft 68191 Musik 280873 PC 282830 PC-Spiele 48775 Problem 55374 PS3 60402 Recht 95353 Schule 235619 Software 57103 Spiele 137412 Sport 110996 Technik 120679 Tiere 64905 TV 54420 Video 52775 Youtube 83453 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  BruceleeJungee
+1.  Chimaer
     
     Punkte:
     
-    1061
-    
-    Level:
-    
-    BruceleeJungee
-    
-2.  Chimaer
-    
-    Punkte:
-    
-    1059
+    774
     
     Level:
     
     Chimaer
     
-3.  TonySoprano300
+2.  Keksflusi
     
     Punkte:
     
-    731
+    628
+    
+    Level:
+    
+    Keksflusi
+    
+3.  Frage827
+    
+    Punkte:
+    
+    495
+    
+    Level:
+    
+    Frage827
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.369.642 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.377.999 gute Fragen_
 
-*   29 gibt es irgendeinen trick, SOFORT einen klartraum/luziden traum zu haben?
-*   11 Welche Orte sollten man in Deutschland besucht haben?
-*   9 Ich möchte in der Vergangenheit leben.
+*   20 Meine Eltern sind sehr intelligent und ich bin dumm. Wie geht das?
+*   15 Warum schaut sich ein Mann in fester Beziehung Sex-Filme an?
+*   14 Wie geht es dir? Ich weiß es nicht..
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
@@ -250,23 +254,23 @@ gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.968.289
+1.972.291
 
 Anzahl der Fragen
 
-8.369.249
+8.377.572
 
 Anzahl der Antworten
 
-36.309.876
+36.338.846
 
 Anzahl der Tipps
 
-75.132
+75.222
 
 Anzahl der Videos
 
-4.767
+4.776
 
 Blog
 
