@@ -593,6 +593,7 @@ You have no recently viewed items.
 *   Retail Stores
 *   Gift Cards
 *   Special Orders
+*   Cabela's Gear Lists
 
 *   Catalog Quick Order
 *   Free Catalog
