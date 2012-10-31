@@ -7,24 +7,18 @@ Metacafe
 *   Unfiltered
 *   Tech Tips
 *   Kittens
-*   Android
 *   Arguments for Sterilization
-*   Brian Reviews Movies
+*   Caught on Tape
 *   Corridor Digital
 *   Epic Meal Time
 *   Family Guys
 *   Game Glitches
 *   Game Reviews
-*   Game Trailers
-*   Gamer Top 5s
-*   iOS
-*   Jailbreakers
 *   Movie Reviews
-*   Nintendo
 *   PlayStation
-*   Retro Game Reviews
 *   Saturday Night Live
-*   Things That Go Boom
+*   Stand-up Comedy
+*   The Tribe Has Spoken
 *   Ultimate Unboxings
 *   Video Game High School
 *   Weird News
