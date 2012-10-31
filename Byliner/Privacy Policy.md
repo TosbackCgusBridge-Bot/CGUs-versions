@@ -10,8 +10,8 @@ Byliner Privacy Policy
 3.  Politics
 4.  Business
 5.  Tech
-6.  Travel
-7.  Sports
+6.  Sports
+7.  Travel
 8.  Crime
 
 | Submit a Link
