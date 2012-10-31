@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Alaska: The Last Frontier (Season 2)Cattle Drive 8:00PM Alaska: The Last Frontier (Season 2)Range Riding 9:00PM Alaska: The Last Frontier (Season 2)The River Wild TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Fast N' LoudRamshackle Rambler 8:00PM Fast N' Loud: Fleetmaster Recharged  9:00PM Fast N' Loud: Recharged  TV SHOWS
 
 American Chopper
 
@@ -334,21 +334,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-Hurricanes Sandy's Horse Jogger: Gotta-See Video
+Monsters Are People Too
 
-Our First Line Of Asteroid Defense? Paintballs!
+The Day Martians Invaded: DNews Nugget
 
-Chicago Could See 23-foot Waves: DNews Nugget
+Voyager 1 Detects Weirdness at Solar System Edge
 
-Sandy Packing Two-Fisted Flood Punch
+Superstorm Sandy Knocks Out Data Centers
 
-Excellent Idea of the Day: Petroleum from Air
+Top 5 Fake Hurricane Sandy Photos
 
-Perfect Storm Skipper Speaks Out: DNews Nugget
+When Hurricanes Hit New York: Gotta-See Video
 
-HMS Bounty Sinks in Sandy. Crew rescued, two missing
+Pandas Returned After Quake: Gotta-See Video
 
-Sustainably Smart Bamboo Mobile Phone
+Space Station Spies Sandy: Gotta-See Video
 
   facebook share0 Tweet Privacy Policy  
 
@@ -554,32 +554,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 30,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 31,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 30,  
+Oct 31,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 30,  
+Oct 31,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 30,  
+Oct 31,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 30,  
+Oct 31,  
 9:00 am  
 60 min(s)  
 **I (Almost) Got Away with It**  
-_Got to Wear a Pink Shirt_  
- Abraham Cavazos shoots a man at a party and flees to Juarez, Mexi  
+_Got to Copy Movies_  
+ JohnnyRay Gasca, a successful video pirate, scams the film indust  
 **More Listings »**   Shop Discovery Store      
 
 our sites
