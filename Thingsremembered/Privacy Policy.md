@@ -30,7 +30,7 @@ Store Locator
     *   Women's Jewelry
     *   Women's Gifts &. Accessories
     *   Men's Jewelry
-    *   Men's Gifts &. Accessories
+    *   Men's Accessories
     *   Men's Collections
     *   Baby Gifts
     *   Children's Gifts
@@ -136,7 +136,7 @@ Store Locator
     *   3D Photo Crystals
     
     *   Business Frames &. Albums
-    *   Card cases
+    *   Card cases &. Card Holders
     *   Coffee Mugs &. Travel Mugs
     *   Stamps &. Stationery
     *   Pocket Watches &. Wrist Watches
