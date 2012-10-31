@@ -134,13 +134,14 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $55 for exam, cleaning, upper bleaching, 4 Bitewing X-rays. $255 value. Plus $1000 towards Invisalign! Thomas L. Anderson DDS $55 Value: Discount: You Save: $255 78% $200
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $10 for $20 of Fine Mexican Cuisine and Beverage. Ixtapa in the Northland $10 Value: Discount: You Save: $20 50% $10
 
-Tuesday: Top Deals
+Wednesday: Hen House, HyVee, Price Chopper Deals Hen House
 
-1.  On the Border – Head to their Facebook page to get a coupon for free queso and sopapillas.  The coupon is good through September 13th.
-2.  Garnier Fructis – Request a free sample of Garnier Fructis Fall Flight courtesy of Target.
-3.  Biore – Sign up to see if you qualify to get 3 free sample sent to you.
+*   General Mills Fiber One or Nature Valley Granola Bars 5-10-ct. - 2/$5 or $2.50 each
+*   Campbell’s Condensed Soup 10.5-15.4-oz. - 10/$10 or $1 each
+*   Oscar Mayer Lunchables Lunch Combinations 3.1-4.4-oz. - $1.79
+*   more...
 
 1.  CAMPAIGN JOBS
     
@@ -150,9 +151,7 @@ Tuesday: Top Deals
     
     Georgetown Apartments
     
-3.  SEASONAL DRIVERS
-    
-    Kelly Services
+3.  Apartment Maintenance Helper
     
 4.  OPERATING MANAGER
     
@@ -166,16 +165,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Storm packs a wallop on U.S. economy
-*   Kansas teen sentenced for killing classmate
-*   New players take spotlight in MU’s exhibition win over Northwest Missouri State
-*   Crennel says Raiders 'loaded up' against run
-*   Sam Mellinger | Chiefs have hit rock bottom (poll)
-*   Emporia State student missing from fall-break trip to Germany
-*   Quinn misses Monday practice. Crennel hopeful he can start at San Diego
-*   Dolphins: Injured QB's status is iffy
-*   Letters | Social Security, misleading voters, Mitt Romney
-*   Second Nevada, Mo., diner dies of crash injuries
+*   No candy for you! Experts call for a healthier Halloween
+*   With plenty of newcomers, KU pounds Emporia State
+*   Daboll defends how Chiefs used Charles
+*   Royals Alex Gordon wins second Gold Glove award
+*   Kansas City's codes, ordinances getting tighter
+*   Man found dead under I-35 near downtown
+*   Under Webers wing, K-State beats Washburn 81-61
+*   Leawood man with dementia missing
+*   Recap: LA Lakers vs. Dallas
+*   Joplin family finds cat 18 months after tornado
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
