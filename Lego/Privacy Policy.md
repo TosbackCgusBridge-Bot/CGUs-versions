@@ -17,9 +17,9 @@ Search Search Change Region
 You are here: www.LEGO.com >. About Us >. Legal Notice >. Privacy Policy
 
 *   About Us
-
 *   The LEGO Group
     *   The LEGO Brand
+        
     *   The LEGO History
         *   2010's
         *   2000's
@@ -31,14 +31,18 @@ You are here: www.LEGO.com >. About Us >. Legal Notice >. Privacy Policy
         *   1940's
         *   1930's
     *   Management
+        
     *   Board
+        
     *   Locations
+        
     *   Programs &. visits
         *   LEGO® Ambassador
         *   LEGO® Certified Professionals
         *   LEGO® Inside Tour
 *   News Room
     *   Media Contacts
+        
     *   Media Asset Library
         *   Documents
         *   Images
@@ -56,6 +60,7 @@ You are here: www.LEGO.com >. About Us >. Legal Notice >. Privacy Policy
     *   Goals &. progress
         
 *   Jobs
+    
 
 Published : 17 February 2012, 09:43 CET Privacy Policy
 
