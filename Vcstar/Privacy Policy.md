@@ -382,11 +382,6 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   Special Report
-    
-    Boy Scouts improve their security, but molesters still find gaps
-    
-
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -639,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Editorial: For president: Barack Obama Published 10/28/2012 at 12:02 a.m. 203 comments
-*   Claim filed against Oxnard over fatal police shooting of bystander Updated 10/29/2012 at 8:04 p.m.
-*   Voters can gain insight by examining Strickland, Brownley's Sacramento records Published 10/28/2012 at 5:02 p.m. 50 comments
-*   Ojai homeowner looking to repair damage left by Edison Updated 10/29/2012 at 4:56 p.m. 11 comments
-*   2 Oxnard teens arrested on weapons violations Updated 10/29/2012 at 4:16 p.m.
+*   Ventura shopping center aims to reduce panhandling Published 10/29/2012 at 5:58 p.m. 25 comments
+*   Editorial: For president: Barack Obama Published 10/28/2012 at 12:02 a.m. 235 comments
+*   Ojai homeowner looking to repair damage left by Edison Updated 10/29/2012 at 4:56 p.m. 20 comments
+*   Robinson: Sandy delivers a policy lesson Published 10/29/2012 at 4:25 p.m. 51 comments
+*   Poll shows outcomes highly uncertain for many ballot measures Updated 10/30/2012 at 1:41 p.m. 44 comments
 
-Photo Galleries Mud run for Thousand Oaks Teen Center Ventura County's Most Wanted October… Howl-O-Ween Pooch Parade &. Pet Expo
+Photo Galleries Hurricane Sandy | Tuesday Ventura County's Most Wanted October… Mud run for Thousand Oaks Teen Center
 
-*   Editorial: For president: Barack Obama Published 10/28/2012 at 12:02 a.m. 203 comments
-*   Money flowing to Obama and Romney campaigns from Ventura County Published 10/26/2012 at 8:30 p.m. 109 comments
-*   Morning chat Published 10/26/2012 at 12:00 a.m. 94 comments
-*   O'Reilly: Are anchors rooting for Obama? Published 10/26/2012 at 2:01 p.m. 67 comments
-*   Voters can gain insight by examining Strickland, Brownley's Sacramento records Published 10/28/2012 at 5:02 p.m. 50 comments
+*   Editorial: For president: Barack Obama Published 10/28/2012 at 12:02 a.m. 235 comments
+*   Robinson: Sandy delivers a policy lesson Published 10/29/2012 at 4:25 p.m. 51 comments
+*   Voters can gain insight by examining Strickland, Brownley's Sacramento records Published 10/28/2012 at 5:02 p.m. 51 comments
+*   Poll shows outcomes highly uncertain for many ballot measures Published 10/30/2012 at 1:23 p.m. 44 comments
+*   Morning chat Published 10/30/2012 at 12:00 a.m. 40 comments
 
-*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 24 comments
+*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 26 comments
 *   Longtime Conejo Valley educator Carol Philips dies, 64 Published 10/22/2012 at 9:56 a.m. 0 comments
-*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 102 comments
+*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 103 comments
 *   Local relatives, friends mourn 2 children stabbed to death in nanny case Published 10/26/2012 at 8:25 p.m. 0 comments
-*   Amgen closes deal with financial firm to open new biotech company Published 10/25/2012 at 5:37 p.m. 0 comments
+*   Ventura police continue to investigate allegations of prostitution Published 10/22/2012 at 4:56 p.m. 0 comments
 
 Weather
 
@@ -665,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 50° Fog Wind: Calm Today 67° 52° Tue 05:00 PM Sunny Temp: 65° Wed 05:00 AM Mostly Clear Temp: 52° Wed 05:00 PM Mostly Sunny Temp: 61°
+Currently ° Overcast with Haze Wind: E 7mph Today 65° 52° Wed 05:00 PM Mostly Sunny Temp: 63° Thu 05:00 AM Cloudy Temp: 52° Thu 05:00 PM Partly Sunny Temp: 61°
 
-Feels Like: 65°
+Feels Like: 63°
 
-Humidity: 68%
+Humidity: 78%
 
-Precip: 0%
+Precip: 1%
 
 Feels Like: 52°
 
 Humidity: 100%
 
-Precip: 1%
+Precip: 8%
 
 Feels Like: 61°
 
-Humidity: 77%
+Humidity: 86%
 
-Precip: 1%
+Precip: 14%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -707,15 +702,15 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   The 'UC effect' in online registration, and its significance here
 *   No surprise in battleground districts. it looks very close
 *   Whopper of a super PAC attack on Brownley
 *   If you can tell a person by who their friends are...
-*   Is Todd Zink a 'radical'?
 
 Brian Dennert here
 
-*   Campaign Finance reports
-*   Bill Clinton: "I want a president and a Congress that loves it when unemployment drops."
+*   Dr. Lee Rogers proposes ethics reforms
+*   Twitter Townhall w/ Julia Brownley
 
 Ingemusings
 
@@ -729,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Tuesday Oct 30
 *   Wednesday Oct 31
 *   Thursday Nov 1
+*   Friday Nov 2
 *   More BROWSE Icon
-
-*   HIPAA Security Rule Compliance: More Important Than Ever Online 10 a.m.
-*   Information Session Starbucks 27748 West Mcbean Pkwy, Valencia, CA 91355 11 a.m.
-*   CAI Channel Islands HOA Community Faire Spooktacular Westlake Village Inn 4:30 p.m.
-*   Dinesh D'Souza - 2016 Obamas America Camarillo Community Church 6:30 p.m.
-*   Dinesh D'Souza - 2016 Obamas America Camarillo Community Church 6:30 p.m.
-
-More Events »
 
 *   Downtown Safe Trick-or-Treat Downtown Santa Barbara 3 p.m.
 *   To Drive Or Not To Drive Goebel Senior Adult Center 3:30 p.m.
@@ -751,10 +738,18 @@ More Events »
 More Events »
 
 *   Reliable Fundraising in Unreliable Times Ventura County Office of Education - Conference and Educational Services Center 9 a.m.
+*   FRESH &. EASY SHOPPING NIGHTS RAISE FUNDS FOR Mountain View Elementary School Fresh &. Easy Neighborhood Market, 4473 Alamo Street, Simi Valley, CA 4 p.m.
 *   TASTE Pierpont Inn 5:30 p.m.
 *   First-Time Home Buyers Workshop Camarillo Public Library 6 p.m.
 *   Buddhist Solutions for Teens and Parents Mahakankala Buddhist Center 6:30 p.m.
-*   Anubis Duo in Concert at Thousand Oaks Library Grant R. Brimhall Library 7 p.m.
+
+More Events »
+
+*   Workshop on Access to Capital Oxnard Chamber of Commerce 8:30 a.m.
+*   "ArtistsThree" at Doyon Studio &. Gallery Doyon Studio and Gallery 9 a.m.
+*   "Country Faire Boutique" Camarillo Christian Women’s Club Luncheon Spanish Hills Country Club 10 a.m.
+*   Four Brix Winery Holiday Shopping Weekend Four Brix Winery 4 p.m.
+*   Think Ink 2012 643 Project Space 5 p.m.
 
 More Events »
 
