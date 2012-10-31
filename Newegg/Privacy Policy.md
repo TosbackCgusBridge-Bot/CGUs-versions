@@ -264,4 +264,4 @@ Shop by Region: **United States** | Canada | China
 
 Affiliated Sites: NeweggBusiness  
 For Business Needs EggXpert.com  
-Newegg Community Policy &. Agreement | Privacy Policy  © 2000-2012 Newegg Inc.  All rights reserved. Close If the Adobe Reader does not appear when you click on a link for a PDF file, you can download Adobe Reader from the Adobe web site. iframe for third party code
+Newegg Community Policy &. Agreement | Privacy Policy  © 2000-2012 Newegg Inc.  All rights reserved. Close close window If the Adobe Reader does not appear when you click on a link for a PDF file, you can download Adobe Reader from the Adobe web site. iframe for third party code
