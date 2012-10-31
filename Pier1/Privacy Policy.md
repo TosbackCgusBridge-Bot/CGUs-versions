@@ -143,10 +143,10 @@ close x Search Catalog Search Catalog Navigation
             *   Clearance
             *   Special SavingsLet’s get together. Click on an event to find ideas for entertaining, gifts &. décor.
         *   Holidays &. More
-            *   Halloween &. Harvest
-            *   Thanksgiving
+            *   Harvest &. Thanksgiving
             *   Christmas Decor &. Dining
             *   Christmas Ornaments
+            *   Halloween
             *   Clearance
             *   Special SavingsLet’s get together. Click on an event to find ideas for entertaining, gifts &. décor.
 *   get inspired
