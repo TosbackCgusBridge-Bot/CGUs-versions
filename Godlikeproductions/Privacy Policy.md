@@ -1,5 +1,5 @@
   
-Users Online Now: **2,191** (Who's On?) Visitors Today: **347,752** Pageviews Today: **716,644** Threads Today: **318** Posts Today: **3,930** 08:14 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,741** (Who's On?) Visitors Today: **497,250** Pageviews Today: **740,417** Threads Today: **249** Posts Today: **4,112** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,16 @@ trinity@godlikeproductions.com
   
 News
 
+*   Superstorm Sandy has caused a shortage of gasoline
+*   Latest Fast and Furious Report Incriminates DOJ
+*   Shell Seeks to Pay Iran Debt With Grain
+*   In Hurricane Sandy's Fury, The Fingerprint Of Climate Change
+*   Study: Shark and human minds share similarities
+*   To Deflect Asteroids From Earth, Deploy Paintballs By The Ton
+*   Could the next planetary rover come from Canada?
+*   The Fastest Science Machine In The World
+*   EFF calls Ubuntu Shopping Lens a "major privacy problem"
+*   Sandy unlikely to postpone election
 *   Most U.S. Drones Openly Broadcast Secret Video Feeds
 *   Mass extinction study provides lessons for modern world
 *   Scientists in sleep-wake tests decode dreams
@@ -127,16 +137,6 @@ News
 *   Gun found in hollowed-out book donated to Illinois library
 *   Winter storm forecasters prepare for 'Frankenstorm'
 *   FBI: NYPD OFFICER CHARGED IN CANNIBAL PLOT:
-*   Mystery Glow of Dark Matter Halos Fueled by Extragalactic Stars
-*   United Nations looking to control the internet
-*   Eleven EU nations get go-ahead on 'Robin Hood' finance tax
-*   Verizon Is Selling Your Data–Here's How To Opt Out Of It
-*   ObamaCare: Employees Working 30 Hours per Week Considered 'Full-Time'
-*   First-offense wood burners: Go to smoke class
-*   Toxic Cloud Forces Thousands In Southeast Texas To Stay Indoors
-*   Voters say they voted for the wrong candidate????
-*   UN Seeking Global Internet Surveillance for Terror, Propaganda
-*   Mom Convicted of Disorderly Conduct for Arguing with TSA
 
   
   
