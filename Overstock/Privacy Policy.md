@@ -14,8 +14,8 @@ Overstock.com Help Topics
 *   **Privacy and Security**
 
 *   Privacy and Security
-*   Identifying Spoofed, Phishing, and Fraudulent Emails
 *   Top 10 Online Security Tips
+*   Identifying Spoofed, Phishing, and Fraudulent Emails
 
 Click here to view all Help Center answers.
 
@@ -177,7 +177,7 @@ This Privacy and Security Policy was last updated on April 26, 2012.  **Please 
 
 Contact Us
 
-**_Severe weather due to Hurricane Sandy is causing some unavoidable service delays in several eastern states. Please click here for more details._**
+**_Severe weather due to Hurricane Sandy is causing some unavoidable service delays for shipments from and deliveries to several eastern states. Please click here for more details._**
 
 **Need assistance?** Please click here to contact customer care.
 
