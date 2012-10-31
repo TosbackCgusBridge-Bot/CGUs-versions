@@ -4,13 +4,9 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Secret Hollister Sale - All Hoodies Up to 40% off!
+\[hol-HomepageTopBannerEMS\] Sign up for Hollister Co. Emails!
 
-*   Shop Dudes
-
-*   Shop Bettys
-
-*   see details
+*   Sign Up
 
 *   Find A Store
 *   *   Sign In
@@ -37,7 +33,7 @@ Go to the Hollister Co. home page.
     *   Ordering Online
     *   Shipping &. Handling
     *   Returns &. Exchanges
-    
+    *   Track My Order
     *   Gift Cards &. Merchandise Credit
     *   Gift Card Balance
 *   Privacy &. Terms
@@ -221,7 +217,7 @@ New Albany, Ohio 43054 USA
     *   Ordering Online
     *   Shipping &. Handling
     *   Returns &. Exchanges
-    
+    *   Track My Order
     *   Gift Card Balance
     *   My Info
 *   Privacy &. Terms
