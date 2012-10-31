@@ -85,14 +85,13 @@ A NOTE FROM JILL MALANDRINO
 
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
-*   Forstall Leaves Apple
-*   Long Island Homes
-*   Stock Market Closed Tuesday
-*   Hurricane Stocks
-*   Flight Cancellations
-*   Baidu
+*   Hurricane Sandy in Pictures
+*   NY Airports Closed
+*   Disney Acquires Lucasfilm
+*   To Our Newsletter Subscribers
+*   Kass
 
-pjava08.dc.thestreet.com Privacy Policy
+pjava03.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -250,12 +249,12 @@ Product Features:
 DOW 13,107.21 3.53 0.03% NASDAQ 2,987.95 1.83 0.06% S&P 500 1,411.94 -1.03 -0.07% US 10 Yr 1.750% -0.078 Brokerage Partners Most Commented
 
 *   'Put the White Back in the White House'?
-*   Star Scientific's 'Flint' Study Flops
-*   Apple: Don't Believe Haters, Hype and Hysteria
+*   Yes, Apple Can Kill Microsoft Office
 *   Office Will Determine Whether Microsoft Can Beat Apple
+*   10 Cult TV Shows Netflix Should Revive
 *   10 Worst Cars of All Time
 
-Articles From Newser UBS Slashing 10K Jobs Marlboro Maker Targets China's Vaccine Market Apple Dumps Map-App Exec See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Eurozone Unemployment Hits Record 11.6% Ad Fail? American Apparel Pushes a Sandy Sale Disney Buys Lucasfilm, Plans New Star Wars Movie See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
