@@ -147,50 +147,50 @@ The website is not directed to individuals under the age of thirteen (13), and w
 
 See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 
-*   Alicia Keys  
-    Fire We Make Lyrics
+*   Natalia Kills  
+    Problem Lyrics
 *   Christina Aguilera  
-    Let There Be Love Lyrics
-*   One Direction  
-    Change My Mind Lyrics
+    Best Of Me Lyrics
+*   Ellie Goulding  
+    I Need Your Love Lyrics
 *   Kesha  
     Die Young Lyrics
 *   Adele  
     Someone Like You Lyrics
+
+*   Alicia Keys  
+    Fire We Make Lyrics
+*   Christina Aguilera  
+    Let There Be Love Lyrics
+*   Tristan Prettyman  
+    My Oh My Lyrics
+*   Katy Perry  
+    Wide Awake Lyrics
+*   Alex Clare  
+    Too Close Lyrics
 
 *   Christina Aguilera  
     Just A Fool Lyrics
 *   Kanye West  
     White Dress Lyrics
 *   One Direction  
-    Kiss You Lyrics
-*   Katy Perry  
-    Wide Awake Lyrics
-*   Alex Clare  
-    Too Close Lyrics
+    Change My Mind Lyrics
+*   Carly Rae Jepsen  
+    Call Me Maybe Lyrics
 
 *   Pitbull  
     Feel This Lyrics
 *   Jonas Brothers  
     Wedding Bells Lyrics
-*   Tristan Prettyman  
-    My Oh My Lyrics
+*   Ed Sheeran  
+    A Team Lyrics
 *   Gotye  
     Somebody That I Used To Know Lyrics
 
-*   Christina Aguilera  
-    Best Of Me Lyrics
-*   Wale  
-    Arrival Lyrics
-*   Ed Sheeran  
-    A Team Lyrics
-*   Carly Rae Jepsen  
-    Call Me Maybe Lyrics
-
 *   Cher  
     Woman's World Lyrics
-*   Ellie Goulding  
-    I Need Your Love Lyrics
+*   Wale  
+    Arrival Lyrics
 *   Justin Bieber  
     As Long As You Love Me Lyrics
 *   David Guetta  
