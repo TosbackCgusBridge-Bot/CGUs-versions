@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Sunny Skies for Vanessa!  »
+Hot Pics! Halloween Thrills! »
 
-Top Stories1.  Hurricane Sandy: Celebs Prepare and React »
-2.  Levi Johnston Marries Sunny Oglesby: See Their Wedding Picture! »
-3.  Matthew Morrison, Girlfriend Dress as Vintage Justin and Britney! »
-4.  Kim Kardashian Wants to Dye Her Hair Blonde Like Halloween Costume »
-5.  Mila Kunis Is Not Pregnant With Ashton Kutcher's Baby »
+Top Stories1.  PICTURE: Teen Mom 2's Leah Shows Off Baby Bump in Tight T-Shirt, Jeans »
+2.  Jennifer Aniston's Cleavage-Baring Black Dress: Love It or Hate It? »
+3.  Aww! Kourtney Kardashian, Scott Disick Kiss in Miami »
+4.  Teen Mom's Maci Throws Son Bentley Cowboy Themed 4th Birthday Party »
+5.  Exclusive Brandi to Real Housewives Newcomer Yolanda: "You've Slept With Everyone" »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly My Diet Struggle
 
 Inside Us Weekly
 
-*   Style Matthew Morrison, Girlfriend Dress as Vintage
+*   Style Jennifer Aniston's Cleavage-Baring Black Dres
 *   Beauty Drew Barrymore Launching Makeup Line for Wal-
-*   Moms Tamera Mowry Savoring "Peace and Quiet" Befor
-*   Body Adam Levine Defends Christina Aguilera's Weig  
-*   Entertainment John Krasinski "Constantly in Fear" The Offic  
+*   Moms Teen Mom's Maci Throws Son Bentley Cowboy The
+*   Body PICTURE: Keith Urban, 45, Shows Off Buff Beac  
+*   Entertainment Rihanna to Charge $250 for Deluxe Version of  
 
 *   US WEEKLY
 *   Celebrity News
