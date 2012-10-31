@@ -13,12 +13,12 @@ Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and mor
         *   Weather/Performance
         *   View All
     *   Casuals
+        *   Flats
         *   Sneakers
         *   Clogs &. Slip-Ons
         *   Sandals
         *   View All
     *   Slippers
-    *   Holiday Collection
     *   Apparel
         *   Loungewear
         *   Outerwear
@@ -43,6 +43,7 @@ Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and mor
         *   Earmuffs
         *   Tech Accessories
         *   View All
+    *   Holiday Collection
     *   The I Do Collection
     
 *   Men|
@@ -108,6 +109,8 @@ SATURDAY: 11AM-8PM (EST)
 SUNDAY: 11AM-8PM (EST)  
   
   
+
+**Important Notice** – Areas impacted by Hurricane Sandy may have disruption of delivery service by UPS and USPS. For up to date delivery information, please go to a UPS or USPS
 
 We're Sorry...
 
