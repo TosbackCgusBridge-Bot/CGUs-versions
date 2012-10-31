@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Four Pinocchios for Romney’s Jeep...**  
-        Election 2012 | Rachel Weiner
+    *   **Romney and Ryan plan major kick-off...**  
+        Election 2012 | Philip Rucker
     
-    *   **Mitt Romney’s misleading ad on...**  
+    *   **President Obama’s claims of ‘Romnesia’**  
         The Fact Checker | Glenn Kessler
     
-    *   **The war for women in Missouri’s...**  
-        She The People | Diana Reese
+    *   **Maisie Kate Miller’s passive resistance...**  
+        She The People | Melinda Henneberger
     
-    *   **Seven takeaways from the Pew poll**  
-        The Fix | Chris Cillizza and Sean Sullivan
+    *   **Romney’s expand-the-map strategy...**  
+        The Fix | Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,14 +46,14 @@
     
     Featured Blogs
     
-    *   **Random House Penguin**  
+    *   **Obama response to Sandy ... too...**  
         ComPost | Alexandra Petri
     
     *   **Happy Hour Roundup**  
-        The Plum Line | Jonathan Bernstein
+        The Plum Line | Greg Sargent
     
-    *   **PostScript: Samuelson and polls**  
-        PostPartisan | Rachel Manteuffel
+    *   **You can criticize Obama, not be...**  
+        PostPartisan | Jonathan Capehart
     
     *   **Morning Bits**  
         Right Turn | Jennifer Rubin
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Sandy lingers...**  
-        Capital Weather Gang | Matt Rogers
+    *   **D.C. area forecast: Halloween is...**  
+        Capital Weather Gang | Dan Stillman
     
-    *   **Hurricane Sandy: what’s open, what’s...**  
+    *   **Sandy closings: Tuesday**  
         Going Out Gurus | Alex Baldinger
     
-    *   **Woman sexually assaulted downtown**  
-        Crime Scene | Peter Hermann
+    *   **Man shot multiple times in Gaithersburg**  
+        Crime Scene | Michael Laris
     
-    *   **Allen, Kaine off the campaign trail**  
-        Virginia Politics |
+    *   **Sandy calls time out in Va. Senate...**  
+        Virginia Politics | Laura Vozzella
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -97,16 +97,16 @@
     
     Blogs &. Columns
     
-    *   **NHL cancels games through Nov....**  
+    *   **Ovechkin misses game with bronchitis...**  
         Capitals Insider | Katie Carrera
     
-    *   **John Riggins and ‘Loosen Up, Sandy’**  
-        DC Sports Bog | Dan Steinberg
+    *   **Redskins players getting into the...**  
+        DC Sports Bog | Sarah Kogod
     
-    *   **NFL considering penalties against...**  
-        The Insider | Mark Maske and Mike Jones
+    *   **How crucial is Sunday’s game against...**  
+        The Insider | Keith McMillan
     
-    *   **Adam LaRoche, Ian Desmond named...**  
+    *   **Adam LaRoche wins first Gold Glove...**  
         Nationals Journal | Adam Kilgore
 *   National In National
     
@@ -123,10 +123,10 @@
     
     Blogs &. Columns
     
-    *   **Oak Ridge and NVIDIA unveil Titan**  
+    *   **Stop fighting and look out for...**  
         Ideas@Innovations | Emi Kolawole
     
-    *   **A Giant win for teams over superstars**  
+    *   **Gov. Christie praises Obama’s leadership...**  
         PostLeadership | Jena McGregor
     
     *   **Farrakhan inspires Bowie crowd**  
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **Why would Israel bomb Sudan? Theories...**  
+    *   **A trucker’s ruin, a Chinese tragedy**  
         WorldViews | Max Fisher
     
-    *   **The ‘Lucifer effect’ theory of...**  
+    *   **A surprisingly deep Chinese joke...**  
         WorldViews | Max Fisher
     
-    *   **‘It is misery’: A video of Haiti’s...**  
-        WorldViews | Max Fisher
+    *   **Poland has fracking tensions, too**  
+        WorldViews | Olga Khazan
     
-    *   **The scary global implications of...**  
+    *   **Pro-Assad page claims Syria and...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -170,17 +170,17 @@
     
     Blogs &. Columns
     
-    *   **Grad school, a leg up — in debt**  
+    *   **Beware of ‘storm chasers’**  
         The Color of Money | Michelle Singletary
     
-    *   **Carriers brace for Sandy #thecircuit**  
+    *   **California attorney general warns...**  
         Post Tech | Hayley Tsukayama
     
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **Studies: Casinos bring jobs, but...**  
-        Wonkblog | Dylan Matthews
+    *   **Wonkbook: After brief hiatus for...**  
+        Wonkblog | Ezra Klein
 *   Tech In Technology
     
     *   Policy
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Microsoft adds features to Windows...**  
+    *   **Microsoft: 4 million upgrades to...**  
         Hayley Tsukayama
     
-    *   **Carriers brace for Sandy #thecircuit**  
+    *   **California attorney general warns...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Feeding the poor during Hurricane...**  
+    *   **Should you wear gloves while handling...**  
         All We Can Eat | Tim Carman
     
     *   **Horse Mask Guy gains fame**  
         The Style Blog | David Malitz
     
-    *   **When to stop trick-or-treating?**  
+    *   **Making Sense of Hurricane Sandy**  
         On Parenting | Janice D'Arcy
     
-    *   **Japan’s ambassador Ichiro Fujisaki...**  
+    *   **Harvey Weinstein screens ‘SEAL...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,13 +240,13 @@
     *   **A “Tempest” in an opera house**  
         Classical Beat | Anne Midgette
     
-    *   **‘Arrested Development’ photo released**  
+    *   **Ryan Gosling and Michael Fassbender...**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **David Letterman plays to no crowd**  
+    *   **Simon Cowell: not sure how Britney...**  
         The TV Column | Lisa de Moraes
     
-    *   **Bob Ross’s Google Canvas:**  
+    *   **‘It’s the Great Pumpkin, Charlie...**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -267,10 +267,11 @@
 In the News
 
 *   Sandy
-*   Latest forecast
+*   MTA
 *   Power outages
-*   HMS Bounty
-*   Levi Johnston weds
+*   iPad mini
+*   Nate Silver
+*   ‘Star Wars’
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -321,98 +322,82 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-At least 16 dead after Sandy devastates New Jersey, swamps Lower Manhattan
-
-Fredrick Kunkle 
-
-Sandy: Live updates from The Post Hurricane Sandy: latest news The president who seems not to care
-
-Richard Cohen 
-
-Romney would pass the buck on disasters
-
-Eugene Robinson 
-
-Sandy continues to wallop the D.C. area well into the night. even worse elsewhere
-
-Dan Stillman 
-
-HMS Bounty: A tall ship’s final hours in hurricane-ravaged seas
-
-Ian Shapira 
-
-D.C. area forecast: Sandy lingers today, then gradual improvement
-
-Matt Rogers 
-
-Stories of how East Coast residents weathered, recorded, stood in awe of superstorm Sandy
-
-Associated Press 
-
-Obama’s discrediting victory
-
-Michael Gerson 
-
-How to use Twitter when you lose Internet access
-
-T.J. Ortenzi 
-
-At least 50 houses destroyed by fire in flooded coastal area of NYC. 198 firefighters on scene
-
-Associated Press 
-
-The D.C. area braces for Sandy
-
-Editorial Board 
-
-The real story of the (likely) Republican Senate disaster
-
-Jonathan Bernstein 
-
-Hurricane Sandy causes closings, cancellations around D.C. region
-
-Washington Post Staff 
-
-Obama, Romney respond to Hurricane Sandy, as it upends campaign plans
-
-Jerry Markon 
-
-The rise of hate in the age of Obama
-
-Jonathan Capehart 
-
-Hurricane Sandy highlights how Obama and Romney respond to disasters
-
-Ed O'Keefe 
-
-Dana Milbank: A perfect political storm
+Romney goes off-road with the truth
 
 Dana Milbank 
 
-Carolyn Hax: A bigger issue behind a long drive to the airport
+Storm provides Obama with a commander-in-chief moment
+
+David Nakamura 
+
+Photos: Before and after Hurricane Sandy ASU senior out in 3rd at World Series of Poker, 2 left to play for $8.53M title
+
+Associated Press 
+
+The Nate Silver backlash Disney to make new ‘Star Wars’ movies, buy Lucasfilm for $4.05 billion from George Lucas
+
+Associated Press 
+
+Storm doesn’t appear to dampen early voting in Ohio
+
+Rosalind S. Helderman 
+
+Mitch McConnell, John Boehner strategy worked Sandy’s destruction in New York turns life in Lower Manhattan on its head
+
+Sally Jenkins 
+
+Lingering questions about Benghazi
+
+David Ignatius 
+
+A vote for the future or for the past?
+
+Harold Meyerson 
+
+Superstorm moves on, leaving devastation behind in N.Y., N.J.
+
+Joel Achenbach 
+
+Romney ignores FEMA questions Pro-Assad page claims Syria and Iran engineered Hurricane Sandy At least 16 dead after Sandy devastates New Jersey, swamps Lower Manhattan
+
+Fredrick Kunkle 
+
+Sorry, dealer’s all out of race cards
+
+Kathleen Parker 
+
+Carolyn Hax: A tie too deep to cut. a troublesome carpooler
 
 Carolyn Hax 
+
+Powerful storm devastates New York, New Jersey
+
+Dan Eggen 
+
+A viral, fake Hurricane Sandy photo migrates to China Warfare waged by the upper class
+
+Katrina Vanden Heuvel 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  At least 16 dead after Sandy devastates New Jersey, swamps Lower Manhattan
-    2.  Sandy: Live updates from The Post
-    3.  Hurricane Sandy: latest news
-    4.  The president who seems not to care
-    5.  Romney would pass the buck on disasters
+    1.  Romney goes off-road with the truth
+    2.  Storm provides Obama with a commander-in-chief moment
+    3.  Photos: Before and after Hurricane Sandy
+    4.  Final 3 at World Series of Poker in Vegas marathon in last run toward title, $8.53M top prize
+    5.  The Nate Silver backlash
 *   Top Videos
-    1.  Amateur video of Hurricane Sandy from Va. to Maine
-    2.  Rogue wave takes out camera in Ocean City, Md.
-    3.  Raw: New York Power Station Explosion
-    4.  Chris Christie blames Mayor Langford for stranded people in Atlantic City
-    5.  Coast Guard rescues passengers off of HMS Bounty
+    1.  Chris Christie on Sandy aid: Obama 'deserves great credit'
+    2.  Raw: New York Power Station Explosion
+    3.  Coast Guard rescues passengers off of HMS Bounty
+    4.  Sandy's path of destruction
+    5.  Romney pulls ahead in key areas — Daily Tracking Poll
 *   Top Galleries
-    1.  Sandy pushes ashore
-    2.  Sandy swamps New York
-    3.  Hurricane Sandy
-    4.  From 'Paranormal Activity 4' to 'Nosferatu,' a look at the scariest movies of all time
-    5.  Instagram photos of Sandy
+    1.  Sandy's devastating blow
+    2.  Sandy swamps New York area
+    3.  Sandy pushes ashore
+    4.  The 10 costliest hurricanes and tropical storms in U.S. history
+    5.  From 'Paranormal Activity 4' to 'Nosferatu,' a look at the scariest movies of all time
 
 Today's Paper
 
@@ -422,13 +407,13 @@ Today's Paper
 
 Live Discussions
 
-Dr Gridlock: D.C. traffic and commuting during Hurricane Sandy
+Eugene Robinson Live
 
-Live Q&A, 12 p.m. ET
+Live Q&A, 1 p.m. ET
 
-Live chat with Dr. Gridlock about traffic issues in the DMV, and how Hurricane Sandy could affect your travel.
+Live chat with Post columnist Eugene Robinson about his latest columns and political news.
 
-**11:00 AM** **ComPost Live with Alexandra Petri** **12:00 PM** **POSTPONED: Chatological Humor: Monthly with Moron**
+**11:00 AM** **The science of bats** **11:00 AM** **Ask Tom: Rants, raves and questions on the DC dining scene** **12:00 PM** **Free Range on Food: Rotisserie chickens, hot peppers, the Barefoot Contessa's new book and more** **12:00 PM** **The Reliable Source Live** **1:00 PM** **Got Plans: Advice from the Going Out Gurus** **2:00 PM** **Web Hostess Live: The latest from the Web**
 
 **Weekly schedule, past shows**
 
