@@ -148,13 +148,13 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    Fark Logo - Decal
+    It's a Big Building with Patients. But That's Not Important Right Now.
 *     
-    Penguin Plush
+    I'm Giving Her All She's Got
 *     
-    Logical Positiv-Its Sticky Notes
+    Good Fortune Chopsticks
 *     
-    Mustang (Red/White Stripes) Wireless Road Mice
+    Ray Gun - Acme Pen
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
@@ -163,34 +163,34 @@ Stories from our partner sites:
 Mother Boo Boo's Hideous Chins  
 This Gallery Will Freak You Out!  
 Sleight of Hand WIN \[VIDEO\]  
-Nexus 4 found in bar, Then Google go...  
+Famous Black Eye Moments  
 More news at Scribol »  
   
   
-23 Horrible Ideas for Sexy Halloween...  
-7 Creepy Urban Legends That Happen to...  
-5 Modern Horror Scenes Ripped Out of...  
-If The Other Side Had Won  
-More news at Cracked »  
+Coco Gives A Nearly Topless Weather R...  
+Sum 41 Singer Deryck Whibley Dresses...  
+Gwyneth Paltrow Looks Luscious In Lea...  
+George Lucas Sells Lucasfilm To Disne...  
+More news at Starpulse »  
   
   
-Sandy Wreaks Havoc All Along Coast  
-School Kicks Out Boy for Having Cysti...  
-Preacher Blames Sandy on Gays and Obama  
-Pub Owner Hides Body to Keep Police Away  
-More news at Newser »  
+Pre-Labor Day Pregnant Bikini Contest  
+The State Fair Food That Will Cause Y...  
+The 20 Worst Hipster Bands: The Compl...  
+Internet Cat Video Film Festival Exists  
+More news at Village Voice »  
   
   
-Top 5 Best-Selling iPad Games -- X-List  
-Sons Of Anarchy Creator Kurt Sutter T...  
-ZombiU Multiplayer Details Revealed  
-Mustang Customizer To Launch On Xbox...  
+Assassin's Creed 3 -- A Gaming Revolu...  
+Assassin's Creed 3 Story Preview With...  
+Assassin's Creed 3: Historical Scaven...  
+Assassin's Creed 3 Gameplay Preview V...  
 More news at G4TV »  
   
 
 Also on Fark
 
-Main Fark's favorite mascot is ready for Halloween. The Sun is there ( thesun.co.uk ) » (11 comments) Sports Cheap Throat, the diary of a locked-out NHLer, day 41: Rock climbing, the Tits brothers, John Tortorella in Star Wars, and throwing Gary Bettman over Niagara Falls ( thebarnstormer.com ) » (34 comments) Business "Siri, who should I fire for the Apple Maps mess?" ( huffingtonpost.com ) » (31 comments) Geek Scientists say a flattened 1,800-mile-wide section of the moon was likely caused by a collision with an asteroid the size of Austria. CRIKEY ( upi.com ) » (49 comments) Entertainment Octomom checks into rehab for pill addiction. Obviously it wasn't birth control pills she was addicted to ( tmz.com ) » (9 comments) Politics Bill Clinton stood in for President Obama on the campaign trail Monday as Hurricane Sandy kept Obama occupied. Hey, can we keep Obama occupied for the next four years and let Bill back in the Oval Office? ( upi.com ) » (14 comments) Video World's other luckiest driver. He walks away from this. Not a repeat from last month ( dailymail.co.uk ) » (33 comments) FarkUs Who will win the battle for NFC West supremacy. the San Francisco 49ers or the Arizona Cardinals? Find out on Monday Night Football, 8:30 PM on ESPN ( espn.go.com ) » (557 comments)
+Main JFK and Newark airports to re-open Wednesday, LaGuardia closed indefinately ( reuters.com ) » (5 comments) Sports For those of you who think there's not enough scoring in soccer, well, here you go ( soccernet.espn.go.com ) » (20 comments) Business UBS to restructure and pull out of 10,000 computers, resulting in an annual cost savings of 5.4 billion ( dealbook.nytimes.com ) » (19 comments) Geek Quantum entanglement is so adorable Oh by the way, your reality is broken ( arstechnica.com ) » (0 comments) Entertainment George Wendt hospitalized with chest pains, symptoms outside the Norm ( upi.com ) » (22 comments) Politics John McCain really took today's "storm relief rally" to heart....by spending his entire speech accusing Obama of a coverup in Libya ( firstread.nbcnews.com ) » (135 comments) Video Gangnam: Ghostbuster's style ( youtube.com ) » (5 comments) FarkUs Jamie has Autism. We were told that he wasn't capable of doing things 'normal' kids do. At 17, he's a straight A student, and working on his Eagle Scout rank. He'd like to help the Homeless Animals Rescue Team. Can you help Jamie reach his goal? ( hart90.org ) » (45 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main Fark's favorite mascot is ready for Halloween. The Sun is there ( thesun.co
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 30 2012 08:00:32  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 31 2012 08:00:37  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
