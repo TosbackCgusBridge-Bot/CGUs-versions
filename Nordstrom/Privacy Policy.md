@@ -26,7 +26,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   New Arrivals
     *   Complete Looks
     *   Women's Brands
-    *   Sale
+    *   Half-Yearly Sale
     
     *   Featured Shops
     *   Topshop
@@ -35,8 +35,6 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Cashmere
     
     *   Nordstrom Gift Cards
-    *   Gift Cards
-    *   e-Gift Cards
     
     *   Clothing
     *   Dresses
@@ -125,8 +123,6 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Tuxedos &. Formalwear
     
     *   Nordstrom Gift Cards
-    *   Gift Cards
-    *   e-Gift Cards
     
     *   Clothing
     *   Suits &. Sportcoats
@@ -198,13 +194,12 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     
     *   New Arrivals
     *   Complete Looks
+    *   Juniors' Brands
     *   All Juniors'
     *   Under $30
-    *   Sale
+    *   Half-Yearly Sale
     
     *   Nordstrom Gift Cards
-    *   Gift Cards
-    *   e-Gift Cards
     
     *   Clothing
     *   Coats
@@ -255,8 +250,8 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Complete Looks
     *   Kids' Brands
     *   Under $30
-    *   Sale
-    *   Gift Cards
+    *   Half-Yearly Sale
+    *   Nordstrom Gift Cards
     
     *   Featured Shops
     *   Toys
@@ -352,15 +347,24 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Accessories
     *   Beauty &. Fragrance
     *   Designer
-    *   Contemporary
+    *   Petite Sizes
     
     *   Men's Brands
-    
     *   Juniors' Brands
-    
     *   Kids' Brands
-    
     *   Home &. Gifts Brands
+    
+    *   Featured Brands
+    *   Burberry
+    *   kate spade new york
+    *   M·A·C
+    *   MARC BY MARC JACOBS
+    *   Michael Kors
+    *   The North Face
+    *   TOMS
+    *   Topshop
+    *   Tory Burch
+    *   UGG® Australia
 *   Sale
     *   Sale Departments
     *   Women's Sale
@@ -404,9 +408,6 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Gifts for Kids
     
     *   Nordstrom Gift Cards
-    *   Gift Cards
-    *   e-Gift Cards
-    *   Check Your Gift Card Balance
     
     *   More to Explore
     *   Services
