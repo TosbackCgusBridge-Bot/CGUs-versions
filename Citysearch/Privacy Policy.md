@@ -1,17 +1,17 @@
-*   Deals
+*   Best Of Citysearch
+*   Guides
 *   Restaurants
 *   Bars &. Clubs
 *   Spa &. Beauty
 *   Hotels
 *   Shopping
-*   Best Of Citysearch
 
 *   Mobile
 *   Login
 *   /
 *   Join
 
-More More Go! Advertise With Us
+More Go! Advertise With Us
 
 *   Calling All Foodies! Find the best eats in your city. Go Now!
 
@@ -112,6 +112,7 @@ We may provide this information in any format at our discretion which may not be
 *   Blog
 *   Archived Lists
 *   FAQs
+*   Directory &. Services
 
 Partner Sites:
 
@@ -128,18 +129,6 @@ Partner Sites:
 *   Urbanspoon
 
 © 2011. Citysearch is a registered trademark of CityGrid Media. Data provided by Infogroup. All rights reserved.
-
-*   Popular Categories
-*   Restaurants
-*   Bars &. Clubs
-*   Spa &. Beauty
-*   Shopping
-*   Hotels
-*   Deals
-*   Sports &. Recreation
-*   Cafes
-*   Movie Theaters
-*   Directory &. Services
 
 *   Change City
 *   New York City
