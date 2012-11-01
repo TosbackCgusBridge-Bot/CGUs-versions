@@ -181,7 +181,7 @@ What Information Is Shared And With Whom Is It Shared?
     
 *   Legal Disclosures: if Redcats USA is required to disclose customer information pursuant to lawful requests, such as subpoenas or court orders, in response to law enforcement inquiry or in compliance with applicable laws, Redcats USA will make such disclosure. Redcats USA also reserves the right to share information with legal authorities and other companies for purposes of fraud protection. In the event the ownership of all or a part of a business within the Redcats USA Family were to change, customer information pertinent to that business’s operations would likely be transferred to, or licensed for use by, the new owner.
     
-*   Redcats USA Credit Card Accounts: we may share your information with the bank that issues Redcats USA division credit card accounts, World Financial Network Bank. Shared information includes the date of the order, the type of payment, the amount of the order, whether there is any deferred billing and similar items.
+*   Redcats USA Credit Card Accounts: we may share your information with the bank that issues Redcats USA division credit card accounts, Comenity Bank. Shared information includes the date of the order, the type of payment, the amount of the order, whether there is any deferred billing and similar items.
     
 
 If you do not want us to share your personal information within the Redcats USA family of brands, the PPR group of companies and third parties for promotional purposes, you may specify your preferences by Clicking Here.  
@@ -271,7 +271,7 @@ To be removed from all of the email solicitation lists within the Redcats USA fa
   
 Are Redcats USA Division Credit Cards Available?
 
-Yes. You can apply for a BrylaneHome (includes BrylaneHome Kitchen), Jessica London, KingSize, Woman Within, Roaman’s and OneStopPlus, credit card account or Visa® Card account or a Sportsman’s Guide Visa® Card account issued by World Financial Network Bank to receive special offers and participate in exclusive brand benefits. When you apply for one of these credit cards online, you provide your financial and personal information needed to process your application directly to World Financial Network Bank. Redcats USA is independent of and not affiliated with World Financial Network Bank. To obtain a privacy policy, opt-out information, or contact information, for any Redcats USA private label credit card or Visa® Card accounts, you may contact the issuer of your card, the World Financial Network Bank, by clicking through to the links provided below:
+Yes. You can apply for a BrylaneHome (includes BrylaneHome Kitchen), Jessica London, KingSize, Woman Within, Roaman’s and OneStopPlus credit card account or a Sportsman’s Guide Visa® Card account issued by Comenity Bank to receive special offers and participate in exclusive brand benefits. When you apply for one of these credit cards online, you provide your financial and personal information needed to process your application directly to Comenity Bank. Redcats USA is independent of and not affiliated with Comenity Bank. To obtain a privacy policy, opt-out information, or contact information, for any Redcats USA private label credit card or Visa® Card accounts, you may contact the issuer of your card, the Comenity Bank, by clicking through to the links provided below:
 
 Jessica London  
 BrylaneHome (includes BrylaneHome Kitchen)  
@@ -560,6 +560,7 @@ Call us at: 1-888-844-0667 (Monday-Friday 7am-7pm CST) Customer Service
 *   Credit Card
 *   Frequently Asked Questions
 *   Gift Card Balance Look-up
+*   Product Safety Recalls
 
   Shopping Tools
 
@@ -567,6 +568,8 @@ Call us at: 1-888-844-0667 (Monday-Friday 7am-7pm CST) Customer Service
 *   Shop All
 *   Shop by Brand
 *   Shop by Size
+*   Black Friday
+*   Cyber Monday
 *   Boot Finder
 *   Sizing
 *   How to Order
@@ -592,6 +595,7 @@ Community
 *   Articles &. Resources
 *   Trophy Gallery
 *   Customer Comments
+*   Product Videos
 *   Sweepstakes
 
   
