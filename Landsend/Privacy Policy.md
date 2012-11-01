@@ -215,13 +215,17 @@ Enter Keyword or Item # Search
     *   Our Gift Shops
         *   Gifts Under $30
         *   Gifts Under $50
+        *   Holiday Surprises
         *   Personalized Gifts
-        *   Christmas is for Kids
         *   Dream Shop
+        *   Luxe Gifts
+        *   Gifts for Good Kids
+        *   Gifts from Titletown
         *   Santa's Faves
         *   Gift Cards
 *   Swim
     
+    *   New Arrivals
     *   Women
         *   Regular
         *   Petite
