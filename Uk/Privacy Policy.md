@@ -1,19 +1,14 @@
 Skip to search.
 
-*   _New User?_ Register
+*   _New User?   Register_
 *   _Sign In_
 *   Help
 
-Get Yahoo! Optimized Firefox
-
-*     Notifications Help
-    
 *   Mail
-    
 *   My Y!
 *   Yahoo!
 
-Yahoo! Privacy Search Search Web Breaking News Visit Yahoo! News for the latest. ×Close this window
+Yahoo! Search Search Web
 
 *   Home
 *   Products
