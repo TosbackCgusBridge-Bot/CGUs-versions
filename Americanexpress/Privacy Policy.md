@@ -111,7 +111,7 @@ American Express Internet Privacy Statement Skip to main content
 *   United States(Change Country)
 *   Contact Us
 
-Log In LOG OUT Search US website SearchSearch LEARN MORE ABOUT...   How Do We Collect Information   How Do We Use Information   How Do We Share Information   What Are Your Choices   Other Information   Questions About this Statement   Glossary   Customer Privacy Principles   United States Online Privacy Statement Effective Date: August 01, 2011  
+Log InLOG OUT Search US website SearchSearch LEARN MORE ABOUT...   How Do We Collect Information   How Do We Use Information   How Do We Share Information   What Are Your Choices   Other Information   Questions About this Statement   Glossary   Customer Privacy Principles   United States Online Privacy Statement Effective Date: August 01, 2011  
   
 This Online Privacy Statement describes how American Express collects information when you:
 
