@@ -1,78 +1,78 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Smartphone users: Watch the TODAY Show LIVE
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: In NJ, help from National Guard and one another
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Hunter Martin / Getty Images Contributor Vick still Eagles' starter, for now
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports What Vick must do to keep job
     
-    PFT: Philly hasn't made any depth chart changes, not given QB any notice of moves. But Andy Reid may still switch before long.
+    ProFootballTalk: Mike Florio breaks down Philadelphia's decision to stick with Michael Vick as its starting QB and what Vick must do to avoid being benched.
     
-    PFT: Skelton still Arizona's starting QB PFT: Panthers fielding calls about Steve Smith PFT: Peyton not totally back? Brooking scoffs PFT's power rankings ... and team MVPs! PFT: We’re where we deserve to be, Brady says PFT: Lions trade for Jaguars receiver Thomas PFT: McKinnie denies spending $375K at strip clubs PFT: 49ers want NFL to change box score Ad
+    PFT: No truth to Tebow-to-Jags trade talk PFT: Peyton says thumb just an 'irritant' PFT: Ref was equally at fault, DeAngelo says PFT: Goodell not happy with Redskins' Hall PFT: Mario Williams says Texans forced him out PFT: Atheists may not be welcome in Indy PFT: Carroll: No, 'Bama could not win in NFL PFT: Rodgers rips Packers' running game Ad
 *   MLB
     SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Christian Petersen / Getty Images Is Bochy game's best manager?
     
     DeMarco: The 'Terrific' skipper may have Giants on top again in 2013, especially with everything in place related to team's core players.
     
-    HBT: Giants GM Sabean faces hard decisions Trout not among nine new Gold Glove winners HBT: Leyland returning as manager of Tigers HBT: Series gets Taiwanese animation treatment HBT: Too early? Tigers are 2013 Series favorites HBT: Dodger's wife gives birth while he drove HBT: Giants-Tigers was lowest-rated WS ever HBT: Dodgers, League ink 3-year, $22.5M deal Ad
+    HBT: A-Rod to the Phillies? Let the chatter begin! HBT: Giants GM Sabean faces hard decisions HBT: Melky bust makes Giants' title illegitimate? HBT: Royals acquire Santana from Angels HBT: Rockies eye Giambi, Weiss, Matt Williams HBT: Gold Gloves are out, here's some outrage CSN: For Harper, that's a clown costume, bro HBT: Leyland returning as manager of Tigers Ad
 *   NHL
     SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Arno Balzarini / AP Is this really worth it for players?
     
     PHT: Perhaps money isn’t the root cause of their dispute with the NHL. Maybe it’s more about pride and fairness. So, do they stay the course ... or reevaluate?
     
-    Players expect to get escrow checks Wednesday PHT: Fehr opens up on negotiating tactics PHT: Winter Classic might be canceled Thursday PHT: Bozak under fire for Micahel Jackson costume PHT: Club fined for fans' racist taunts at Simmonds PHT: Fleury, Miller might go to Europe PHT: Johnson rips owners on Jackets' website PHT: NHL cancels games through November Ad
+    Players expect to get escrow checks Wednesday PHT: Fehr opens up on negotiating tactics PHT: Winter Classic might be canceled Thursday PHT: Bozak under fire for Michael Jackson costume PHT: Club fined for fans' racist taunts at Simmonds PHT: Fleury, Miller might go to Europe PHT: Johnson rips owners on Jackets' website PHT: NHL cancels games through November Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Issac Baldizon / Getty Images Contributor Newly ringed Heat handle Celtics
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Bill Baptist / Getty Images Contributor Harden era for Rockets begins with a bang
     
-    LeBron James scored 26 points and grabbed 10 rebounds while missing much of the second half with leg cramps, Dwyane Wade scored 29 points and the NBA champion Miami Heat beat the Boston Celtics 120-107 on Tuesday night in the season opener for both teams.
+    Well, that's worked so far: James Harden scores 37 points, hands out 12 assists and grabs six rebounds in his first game for Houston as the Rockets down the Pistons 105-96.
     
-    PBT: Even with LeBron's cramps, Heat's night a hit CSN: Celtics clearly not in Heat's league PBT: Garnett snubs Allen ... no surprise PBT: Lakers make it too easy for the Mavs Lame first game for new-look Lakers PBT: Irving, Cavs too much for Wizards PBT: NBA's 'Three Stars of the Night' PBT: Knicks may lose Stoudemire for 8 weeks Ad
+    Blazers take down Lakers. Nash leaves with injury Hill helps Pacers rally over Raptors Hawes leads 76ers past Nuggets Bulls take care of business with Kings Warriors overcome Curry's bad night, edge Suns Crawford, Clippers torch Grizzlies Knicks-Nets called off after Sandy Opinion: Matching the Laker hype will take time Ad
 *   CFB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Wily Low / AP Trojans are like Cowboys (not good)
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Dave Martin / AP Tide loss would help SEC's image
     
-    Trash Talk: USC is undisciplined and inefficient. Dallas is undisciplined and inefficient. Goes to show: You can assemble elite talent, but you might not be able to make it mesh.
+    Ventre: Within the SEC, it also feels like there is Alabama, and then there is everybody else. And unless you're a 'Bama fan, that's bad.
     
-    CFT: USC's discipline problems are red flag 'Bama, LSU hoping 7 lucky number this time LSU hungry for redemption in rematch with 'Bama New arrest lands ex-LSU QB Jefferson in jail Heisman Hopefuls: Klein keeps lead ... you agree? Ohio State coming around to Miller for Heisman No. 3 Wildcats still playing like underdogs TCU planning late arrival for WVU game after Sandy Ad
+    PFT: Spurrier says Alabama could beat NFL teams 'Bama, LSU hoping 7 lucky number this time LSU hungry for redemption in rematch with 'Bama CFT: USC's discipline problems are red flag Trojans are like Cowboys — in a bad way Minn. football coach says videos innocent New arrest lands ex-LSU QB Jefferson in jail Heisman Hopefuls: Klein keeps lead ... you agree? Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Robert Laberge / Getty Images What's the plan for IndyCar?
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Mark Baker / AP F1 leader Vettel back to desert
     
-    Surely there must be some misunderstanding, and the board of directors charged with overseeing IndyCar really does have a long-term strategy for the series.
+    Red Bull's Sebastian Vettel is aiming to build on his late-season resurgence and extend his lead in the Formula One standings when he heads back to the desert for this weekend's Abu Dhabi Grand Prix.
     
-    Randy Bernard steps down as IndyCar CEO Simona de Silvestro signs with KV Racing for 2013 Johnson wins at Martinsville, takes points lead Vettel wins F1 India GP, extends title lead Vettel dispels rumors of change to Ferrari McLaren twin achievements at Indian GP Earnhardt talks of anxiety caused by concussions Keselowski insists he's not feeling title heat Ad
+    What's the plan in IndyCar? Does anybody know? Randy Bernard steps down as IndyCar CEO Simona de Silvestro signs with KV Racing for 2013 Keselowski standing in Johnson's way of 6th title Johnson wins at Martinsville, takes points lead Earnhardt talks of anxiety caused by concussions Knaus salvages Kansas to keep Johnson in hunt Martin-Vickers-Waltrip team up again in 2013 Ad
 *   BKC
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Damian Dovarganes / AP Nobody puts up the rock better
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Kevork Djansezian / Getty Images Ranking the small forwards
     
-    CBT: It's still unknown if the NCAA will clear UCLA's Shabazz Muhammad, but he’s still the nation's best shooting guard — we rank the best.
+    CBT: Is San Diego State's Jamaal Franklin the game's best wing or does Ohio State's Deshaun Thomas take that title?
     
-    CBT's top 25 countdown: Syracuse No. 4 Conference previews: Horizon  |  Great West CBT: Long Beach St. still the Big West favorite Kansas' Tharpe finds motivation in newborn daughter New Mexico suspends Fenton for 3 games Baylor's Griner a unanimous All-American pick CBT: Ranking college hoops' top 20 PGs CBT: Could Sandy affect start of the season? Ad
+    CBT: NCAA reportedly clears UCLA's Anderson CBT: Zeller working on his perimeter defense Conference previews: Ivy  |  MAAC Conference previews: MAC  |  MEAC CBT: McLemore already flying high for KU (video) CBT: NCAA adopts new enforcement policies CBT: Might be a long season for Frank Martin CBT: Pastner credits Sean Miller for offensive success Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines McIlroy gambling with his future regarding new equipment?
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Challenging anchored ban in court could prove difficult
     
-    Rory McIlroy's switch to a new equipment deal could have long-lasting effects - potentially good and bad for the world No. 1.
+    Speculation that golf's governing bodies are prepared to ban anchored putting has players like Keegan Bradley charting their next move.
     
-    Titleist, McIlroy won't renew contract after this year Faldo on Rory-Titleist split: 'I call it dangerous' Rory clips Tiger by a shot in Duel at Jinsha Lake Lefty on Ryder Cup aftermath: 'A really tough low' Few changes to 2013 PGA Tour schedule Favorite/least favorite thing on 2013 Tour schedule Power Rankings: WGC-HSBC Champions Notes: Lewis tries to end American LPGA drought Condensed 2013 Tour season will mean bigger fields Augusta National files plans to renovate clubhouse Video: Get your ball up and down from the sand Ad
+    Woods, McIlroy criticized for HSBC no-show Report: Bradley says he'll challenge anchoring ban Titleist, McIlroy won't renew contract after this year Faldo on Rory-Titleist split: 'I call it dangerous' Lefty on Ryder Cup aftermath: 'A really tough low' Phelps in the 2016 Olympics – as a golfer? Few changes to 2013 PGA Tour schedule Rory clips Tiger by a shot in Duel at Jinsha Lake Develop a level of consistency with your golf game Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Steve Dykes / Getty Images Who's MLS MVP? That's an easy one
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines David Banks / Getty Images Dynamo extinguish Fire in Chicago
     
-    PST: Let's agree on giving it to the guy who scored a record-tying 27 goals this season — Wondo!
+    PST: Houston navigates the opening round knockout match, finding a way past Chicago on the road behind two Will Bruin goals.
     
-    PST's discussion for top defender  |  Rookie PST: MLS coach of year? Our staff discusses PST: Down 0-4, Arsenal eventually wins 7-5 PST: Conflicted about Thierry Henry? Get in line PST: Seattle still awaiting word on Johnson PST: Did Sandy KO Red Bulls for Saturday? PST: New US women's soccer coach is an Aussie PST: So, who's this new US women’s coach? Ad
+    PST: Galaxy heavily favored over Whitecaps PST: Red Bulls, United swap for Sandy Robbie Keane has a striking season for LA Galaxy PST: Steve Nash may be at Thursday's game PST: New USWNT coach is Aussie  |  Who is he? PST: What's on Sermmani's to-do list? PST: Who's MLS MVP? That's an easy one PST's discussion for top defender  |  Rookie Ad
 *   Horses
     SectionsOverview Latest news Watch live racing Results Entries Latest videos Free racing game Bet now  
-    Headlines Adam Coglianese / AP Breeders' will decide Horse of Year
+    Headlines Adam Coglianese / AP file Top 5 storylines for Breeders' Cup
     
-    Royal Delta could become the fourth straight female horse to win the award if everything falls into place this weekend.
+    Analysis: The Ladies' Classic likely will live up to the hype, and bettors could win big on Saturday.
     
-    Early Breeders' Cup preview TCI looks at 180 pre-entries for Breeders' Cup Game On Dude made early favorite for Breeders' Cup Champions line up for this week's Breeders' Cup Can Game on Dude win Classic, Horse of Year? Shanghai Bobby vs. Power Broker in Juvenile Ladies' Classic could produce Horse of the Year Gomez hopes for another Breeders' grand slam Ad
+    Breeders' will decide Horse of Year Game On Dude, Baffert try again in BC Classic Royal Delta suffers cut on flight to Santa Anita Point of Entry settling in. Wise Dan gallops Mott loaded in Classic. Nonios works bullet Final Euro contingent arrives at Santa Anita Pursuit of the Cup: Early Breeders' Cup preview TCI looks at 180 pre-entries for Breeders' Cup Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Silvia Izquierdo / AP Phelps gives lessons in Rio
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Eugene Hoshiko / AP Will Phelps be golfing in Rio?
     
-    The most decorated Olympian of all time visits Rio de Janeiro to promote the 2016 Olympics.
+    OlympicTalk: Swimming legend gives lessons to kids in Rio, and says he could return for the 2016 Games, but not in the sport you think.
     
-    South Korean protest player finally gets soccer medal Olympic champion Spirig targets Rio after baby OlympicTalk: Morgan as Maroney? Impressive Highlights: Ligety wins World Cup opener Ligety wins World Cup opening GS with massive lead FIS set to discuss Vonn's wish to race against men Slovenia's Maze wins season-opening WCup GS Canadians dominate in World Cup short-track event Ad
+    South Korean protest player finally gets soccer medal Olympic champion Spirig targets Rio after baby Pikus-Pace, Daly win US selection races again OlympicTalk: Morgan as Maroney? Impressive Highlights: Ligety wins World Cup opener Ligety wins World Cup opening GS with massive lead FIS set to discuss Vonn's wish to race against men Slovenia's Maze wins season-opening WCup GS Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Outdoors Tennis Action sports Fight Night Tickets Headlines Richard Drew / AP NYC Marathon is still a go
+    SectionsOther sports Off the Bench Cycling Outdoors Tennis Action sports Fight Night Tickets Headlines Julie Jacobson / AP Maryland man, 24, wins WSOP
     
-    New York City Marathon organizers say they are moving ahead with plans for Sunday's race even as the city staggers through the aftermath of superstorm Sandy.
+    A 24-year-old Maryland poker professional won the World Series of Poker main event, outlasting his final opponents in a marathon card session of nearly 12 hours for the $8.53 million title on Wednesday.
     
-    Professional leagues plan to play after superstorm Final 3 at WSOP marathon toward $8.53M crown The Week in Sports Pictures Sports backgrounds for Obama, Romney 9 charged in Fla. youth football gambling ring Afghan boxer wins 1st pro fight in war-torn nation Castrodale: Sporting world is positively frightful I deserve top ranking, says number three Serena Ad
+    Bloomberg OKs NYC Marathon for Sunday 8 Aboriginal runners depart for New York marathon Professional leagues plan to play after superstorm The Week in Sports Pictures Sports backgrounds for Obama, Romney Williams sisters inspire local kids in Nigeria Querrey uspets Djokovic in Paris Masters 9 charged in Fla. youth football gambling ring Ad
 
 *   Scores
 *   Odds
