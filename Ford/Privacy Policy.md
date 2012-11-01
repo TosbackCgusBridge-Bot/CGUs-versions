@@ -323,7 +323,7 @@ Max. GVWR:
 
 Starting MSRP:
 
-$29,5701
+$29,7451
 
 Max. GVWR:
 
