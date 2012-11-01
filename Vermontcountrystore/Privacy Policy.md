@@ -1,18 +1,19 @@
 Skip to Navigation Skip to Main Content
 
+Live Help |
+
 *   Email Sign Up
 *   Request a Catalog
-*   Catalog Quick Shop
 *   Customer Service
 
 *   Christmas
     *   Seasonal Favorites
     *   Holiday Decorations
     *   Holiday Food &. Candy
-    *   Christmas Trees
     *   Ornaments &. Tree Trimming
     *   Candles
     *   Balsam
+    *   Christmas Trees
     *   Classic Toys
     *   Barclay Collectible Figurines
 *   Clothing
@@ -131,7 +132,6 @@ Skip to Navigation Skip to Main Content
     *   Food &. Candy Favorites
     *   SALE - Food &. Candy
     *   Brands From The Past Favorites
-    *   Halloween
     *   Thanksgiving Traditions
 *   For The Home
     
@@ -280,7 +280,7 @@ Skip to Navigation Skip to Main Content
     *   Site Map
 *   Careers
 
-Follow Us Sign up for Our Email Promotions Become Our Friend On Facebook Watch Videos From Vermont Country Store View Photos From Vermont Country Store Privacy Policy Introduction
+Privacy Policy Introduction
 
 This website, http://www.vermontcountrystore.com, is owned and operated by The Vermont Country Store. This Privacy Policy pertains to information collected online via this website, and does not apply to information collected from other sources. The Vermont Country Store may be contacted by email at customerservice@vermontcountrystore.com, by phone at 800-547-7849, or by mail at:
 
@@ -325,7 +325,7 @@ Policy Changes
 
 Changes to this policy may occur in the future. Changes to our Privacy Policy will be posted to The Vermont Country Store website. We encourage you to review this Privacy Policy periodically.
 
-Need Help? Call us at **1-800-547-7849** for assistance, or click here for live help.
+Click here for Live Help or Call us in Vermont at 1-800-547-7849 for assistance.
 
 *   Our Story - Meet the Ortons!
 *   Contact Us
@@ -335,11 +335,11 @@ Need Help? Call us at **1-800-547-7849** for assistance, or click here for live 
 *   Orton Family Foundation
   
 *   Size Chart
+*   Catalog Quick Shop
 *   Order Status
 *   Privacy &. Security
 *   Site Map
 *   Gift Cards
 *   Suggest a Product
 
-The Orton Family Business, Since 1946.  
-© 2012 The Vermont Country Store
+© 2012  The Vermont Country Store
