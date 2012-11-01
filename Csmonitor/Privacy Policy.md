@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Happy Halloween: The story behind Google's 1,000-pound pumpkins
-2.  Did Mitt Romney suggest eliminating FEMA? (+video)
-3.  Presidential polls: Where presidential race stands as hurricane Sandy buffets US politics
-4.  Hurricane Sandy: Storm surge floods NYC tunnels, cuts power to city (+video)
-5.  Hurricane Sandy: How long will the recovery take? (+video)
+1.  'Star Wars: Episode 7' to hit theaters in 2015 (+video)
+2.  'Star Wars: Episode 7': How Disney could avoid ruining 'Star Wars'
+3.  Two reasons the Obama-Christie photo op in N.J. is worth its weight
+4.  No prank: On Halloween, US military forces train for zombie apocalypse
+5.  'Star Wars: Episode 7' - Were we wrong about George Lucas all along? (+video)
 
 About these ads
 
@@ -112,16 +112,16 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 Editors' Picks:
 
 *   Focus  
-    What will the Afghanistan war legacy be?
+    Crunch time in Ohio, as Obama, Romney blitz to get out the vote
     
-    Much of the Soviets' development work got wiped out by a civil war in the 1990s. But the scope of the effort then was limited compared with the work today.
+    Both campaigns are swarming Ohio, knocking on doors and making phone calls to potential voters. In these last crucial days, getting out the vote in what may be the deciding state of Election 2012 is paramount.
     
-*   Mitt Romney plans Pennsylvania ad blitz. Can he turn state red?
-*   Supreme Court to consider how and when police can use drug-sniffing dogs
-*   Decoder Wire: Is Mitt Romney ad on Jeep jobs misleading?
-*   HMS Bounty: the inside story of its final days (+video)
+*   Sheriff Joe Arpaio: Have run-ins with Washington cost him votes at home?
+*   Vladimir Putin to get a new, Russian-made ride
+*   Decoder Wire: Will presidential election loser blame hurricane Sandy?
+*   Is Venice being loved to death?
 
-_Photos of the day_ 10.30.12 » Photos of the day 10/30
+_Photos of the day_ 10.31.12 » Photos of the day 10/31
 
 **CSMonitor.com** on Facebook
 
@@ -143,7 +143,10 @@ John Bergmann manages Popcorn Park, a special zoo in New Jersey that gives a hom
 
 Become part of the Monitor community
 
+*   The Culture 'Star Wars: Episode 7' - Were we wrong about George Lucas all along? (+video)
+*   Innovation Happy Halloween! Wait, Americans spend how much on candy?!
 *   USA Could the 49ers pick up where San Francisco’s Giants left off? A Week 8 NFL quiz
+*   Innovation Happy Halloween: Five free ghoulish iPhone games to play on the go
 *   Business How to become an NFL referee? Start early.
 *   Making a Difference John Bergmann runs a special zoo for older, exploited, and abused animals
 *   Innovation Meet Apple's thinner, faster, stronger iMac
