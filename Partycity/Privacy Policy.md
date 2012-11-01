@@ -30,7 +30,7 @@ Halloween Costumes Customer Service Store Locator Change to Canada
     *   New Arrivals Giant Gliding Balloons Air Swimmers Balloons Girls Birthday Balloons Boys Birthday Balloons 1st Birthday Balloons Milestone Birthday Happy Birthday Balloons Solid Latex Balloons Printed Balloons Round Balloons Star Balloons Heart Balloons Balloon Bouquets Personalized Balloons Singing Balloons Number Balloons Sports Balloons Helium Tanks Curling Ribbon Balloon Weights Balloon Clips &. Pumps
 
 *   Invitations
-    *   Custom Invitations Custom Thank You Notes Printable Invitations Birthday Invitations Baby Shower Invitations Wedding Invitations Graduation Invitations Bridal Shower Invitations Anniversary Invitations Religious Occasions Luau Invitations Hollywood Invitations Sports Invitations Surprise Party Invitations Cocktail Party Invitations General Invitations More Themes Halloween Invitations Christmas Invitations More Holiday Invitations Note Cards, Thank Yous Stickers and Seals Envelopes
+    *   Custom Invitations Custom Thank You Notes Printable Invitations Birthday Invitations Baby Shower Invitations Wedding Invitations Graduation Invitations Bridal Shower Invitations Anniversary Invitations Religious Occasions Luau Invitations Hollywood Invitations Sports Invitations Surprise Party Invitations Cocktail Party Invitations General Invitations More Themes Christmas Invitations Halloween Invitations More Holiday Invitations Note Cards, Thank Yous Stickers and Seals Envelopes
 
 *   Weddings
     *   Wedding Shop By Color Wedding Candy Buffet Cupcake Supplies Wedding Photo Booth Unique Wedding Favors Elegant Wedding Favors Beach Wedding Favors Candle Wedding Favors Heart Wedding Favors Bridal Shower Favors Wedding Favor Kits Wedding Favor Candy Wedding Favor Boxes Favor Accessories Place Card Holders Bridesmaid Gifts Custom Wedding Banners Ceremony Decorations Wedding Centerpieces Wedding Lanterns Hanging Decorations Table Decorations Wedding Balloons Wedding Car Decorations Custom Invitations Printable Invitations, Kits Invitations, Thank Yous Invitation Accessories Flower Girl Baskets Ring Bearer Pillows Wedding Unity Candles Wedding Sand Ceremony Garters, Tiaras, Veils Wedding Tableware Wedding Place Cards Wedding Cake Toppers Wedding Cake Knives Toasting Glasses Wedding Guest Books Reception Card Holders Wedding Wearables Fun Honeymoon Gifts
@@ -54,33 +54,28 @@ Sign up for emails to receive discounts on
 party supplies and Halloween costumes  
 from Party City.
 
-Subscribe What is RSS?
-
-© Party City
-
-**Halloween Categories**  
-Kids &. Adult Halloween Costumes  
-Funny Halloween Costumes  
-Couples Halloween Costumes  
-Superhero Halloween Costumes  
-Pirate Halloween Costumes  
-Star Wars Halloween Costumes  
-Pet Costumes **Customer Favorites**  
+Subscribe What is RSS? © Party City **Customer Favorites**  
 Birthday Party Supplies  
 Theme Party Supplies  
 Wedding Favors  
 Baby Shower Themes  
 Custom Invitations  
 Pinatas  
-Clearance  
-ABOUT SSL CERTIFICATES **Top Categories**  
+Clearance **Top Categories**  
 Special Occasions  
 Holiday Parties  
 Entertaining &. Serving  
 Solid Color Tableware  
 Balloons  
 Invitations  
-Baby Showers **Help**  
+Baby Showers **Costume Categories**  
+Kids &. Adult Halloween Costumes  
+Sexy Halloween Costumes  
+Funny Halloween Costumes  
+Superhero Halloween Costumes  
+Couples Halloween Costumes  
+Group Halloween Costumes  
+Plus Size Halloween Costumes **Help**  
 Contact Us  
 Customer Service  
 My Account  
@@ -89,7 +84,8 @@ Order Tracking
 Estimate Delivery  
 Return Policy  
 Site Map  
-**Company**  
+  
+ABOUT SSL CERTIFICATES **Company**  
 About Party City  
 Careers  
 Partners &. Promotions  
