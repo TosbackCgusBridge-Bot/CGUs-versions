@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Superstorm Sandy Floods New York
-*   Obama, Romney Alter Campaigning Plans
+*   Obama Promises Storm Victims Support
+*   New York, New Jersey Begin Recovery After 'Sandy'
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
