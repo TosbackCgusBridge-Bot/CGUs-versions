@@ -44,75 +44,80 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
-    *   Attitude Line Skincare
-    *   Brown boots
-    *   Cartier
-    *   Colored diamonds
-    *   Everything under $50: Jewelry
-    *   FPJ jewelry
-    *   Fuzion Crystal jewelry
+    *   Avani Dead Sea Cosmetics
+    *   Bertalini Boots and Shoes
+    *   DSquared Sunglasses Made In Italy
+    *   Diamonds! Diamonds! Diamonds!
+    *   Dynasty Women's Apparel
     *   Green Hills Handbags
-    *   Handmade in Italy jewelry featuring Zydo and more
-    *   Holiday gifts: Affordable jewelry
+    *   H&S Handbags Made In Italy
     *   Insight Women's Apparel
-    *   Louis Vuitton Handbags from $219
     *   ORPHELIA Gold &. Diamond Jewelry
+    *   Oscar Heyman, Salavetti, Hasbani Gioielli and more
+    *   Our favorite silver jewelry styles
     *   Parasuco Women's Apparel
+    *   See By Chloe Women's Apparel
     *   Trend Alert: Black &. Gold
-    *   Winter Coats featuring Guess and more
+    *   XOXO Women's Suits
+    *   Yuka Paris Women's Apparel
     *   _more..._
     *   men
-    *   Gianfranco Ferre Mens Accessories
-    *   Men's shop: Dolce &. Gabanna, Denim and Shirts from $75
+    *   Men's shop: Dolce &. Gabanna Denim and Shirts from $75
     *   _more..._
     *   other
+    *   Aquaswiss watches
+    *   Rolex
     *   Ted Lapidus Watches
-    *   Tigi Hair Products Made In USA
     *   _more..._
 *   apparel
     *   women
+    *   Dynasty Women's Apparel
     *   Hodges Collection Women's Apparel
     *   Insight Women's Apparel
     *   Parasuco Women's Apparel
+    *   See By Chloe Women's Apparel
     *   Trend Alert: Black &. Gold
     *   Winter Coats featuring Guess and more
-    *   Winter Layering Essentials
     *   Winter essentials for her from $19
+    *   XOXO Women's Suits
+    *   Yuka Paris Women's Apparel
     *   _more..._
     *   men
-    *   Men's shop: Dolce &. Gabanna, Denim and Shirts from $75
+    *   Men's shop: Dolce &. Gabanna Denim and Shirts from $75
     *   _more..._
     *   other
     *   Ed hardy. Christian Audigier
     *   _more..._
 *   Jewelry &. Watches
     *   women
-    *   Cartier
     *   Colored diamonds
+    *   DV Italy Ladies Bracelet Designed In 925 Sterling Silver
+    *   Diamonds! Diamonds! Diamonds!
     *   Everything under $50: Jewelry
     *   FPJ jewelry
     *   Fuzion Crystal jewelry
     *   Handmade in Italy jewelry featuring Zydo and more
     *   Holiday gifts: Affordable jewelry
     *   Holiday gifts: Designer jewelry
-    *   LAUREN G. ADAMS Crystal Jewelry Set
     *   ORPHELIA Gold &. Diamond Jewelry
     *   ORPHELIA Silver &. Pearls Jewelry
-    *   Our Picks: Earrings and Necklaces
+    *   Oscar Heyman, Salavetti, Hasbani Gioielli and more
     *   Our Picks: Rings and Bracelets
-    *   Pilgrim of Denmark Jewelry
+    *   Our favorite silver jewelry styles
     *   Refresh your jewelry box: studs
     *   Wedding Jewelry Trends
     *   _more..._
     *   other
     *   Always in Style: Chronograph Watches from $35
-    *   Designer watches for less
+    *   Aquaswiss watches
+    *   Rolex
     *   Ted Lapidus Watches
     *   _more..._
 *   Handbags &. Accessories
     *   women
-    *   Aquaswiss Sunglasses
+    *   DSquared Sunglasses Made In Italy
     *   Green Hills Handbags
+    *   H&S Handbags Made In Italy
     *   Holiday gifts: Designer jewelry
     *   Kenzo scarves
     *   Le Vaunt Clutches
@@ -124,6 +129,7 @@ Loading Modnique - Boutique Events
     *   _more..._
 *   shoes
     *   women
+    *   Bertalini Boots and Shoes
     *   Brown boots
     *   _more..._
     *   men
@@ -132,17 +138,19 @@ Loading Modnique - Boutique Events
 *   beauty
     *   women
     *   Attitude Line Skincare
+    *   Avani Dead Sea Cosmetics
     *   _more..._
     *   other
     *   Tigi Hair Products Made In USA
     *   _more..._
 *   men
     *   Always in Style: Chronograph Watches from $35
-    *   Designer watches for less
+    *   Aquaswiss watches
     *   Ed hardy. Christian Audigier
     *   Gianfranco Ferre Mens Accessories
-    *   Men's shop: Dolce &. Gabanna, Denim and Shirts from $75
+    *   Men's shop: Dolce &. Gabanna Denim and Shirts from $75
     *   Montres De Luxe Milano Watches
+    *   Rolex
     *   TBS Men's Shoes
     *   Ted Lapidus Watches
     *   Tigi Hair Products Made In USA
