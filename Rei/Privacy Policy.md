@@ -715,6 +715,52 @@ Search
     *   Under $20
     *   All Outlet
     
+*   Gifts
+    
+    *   RECIPIENT
+    *   Men
+    *   Women
+    *   Kids
+    
+    *   PRICE
+    *   $25 and under
+    *   $50 and under
+    *   $100 and under
+    *   Over $100
+    
+    *   ACTIVITY
+    *   Camping &. Hiking
+    *   Climbing
+    *   Cycling
+    *   Fitness
+    *   Lifestyle
+    *   Paddling
+    *   Skiing
+    *   Snowboarding
+    *   Traveling
+    
+    *   MORE GIFT IDEAS
+    *   Exclusives
+    *   Gadgets &. Electronics
+    *   Hats, Gloves and Scarves
+    *   Ornaments
+    *   REI Staff Holiday Favorites
+    *   Stocking Stuffers
+    *   Top-Rated Gifts
+    *   Toys &. Games
+    
+    *   FEATURED BRANDS
+    *   Arbor
+    *   Black Diamond
+    *   GoPro
+    *   Osprey
+    *   Patagonia
+    *   REI
+    *   Sorel
+    *   The North Face
+    *   Thule
+    *   Vasque
+    
 
 *   Ordering &. Shipping
 *   Order Status
