@@ -224,9 +224,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Spend a Day with a ModCloth Buyer on Our Tumblr!
-    *   Guest Gal: ModFan Larissa’s 3-step Chocolate Acorns!
-    *   These Role Models Inspired Our New Stylebook
+    latest blog posts*   Get in the Halloween Spirit with Decaying Hollywood Mansions
+    *   Fashion in Film: The Rocky Horror Picture Show
+    *   Spend a Day with a ModCloth Buyer on Our Tumblr!
     
     *   modcloth blog
     *   In Other Words
