@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-Torture fears for open source and creative commons activist detained in #Syria: https://eff.org/r.4apQ #freebassel
+European Commissioner affirms #CETA— the cousin of #ACTA —will be finalized this year. https://eff.org/r.4apT #cdnpoli #netfreedom
 
-Oct 30 @ 6:41pm
+Oct 31 @ 2:35pm
 
-Why we have an Open Wireless Movement: In hurricane-affected areas, open Internet is crucial https://eff.org/r.4apP #openwifi #sandy
+In San Francisco? Join us on 11/7 for an exclusive evening with Rob Reid, author of Year Zero https://eff.org/r.a7ph
 
-Oct 30 @ 6:08pm
+Oct 31 @ 2:21pm
 
 *   Twitter
 *   Facebook
