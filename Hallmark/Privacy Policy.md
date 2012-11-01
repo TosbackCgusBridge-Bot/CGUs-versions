@@ -9,7 +9,12 @@
     Collections
     
     FeaturedBrowse the latest products people can't stop talking about.FeaturedSee the great deals you will find online and in stores.
-
+*   Products
+    
+    Ideas
+    
+    Spotlight
+    
 *   Hallmark Gold Crown
     
     You'll always find the widest selection, exclusive products and friendly, expert associates at your neighborhood Hallmark Gold Crown store.
@@ -64,7 +69,7 @@
     
     *   Order Status
     *   Subscriptions
-    *   Saved Items 0
+    *   Saved Items0
     *   Settings
     
     Crown Rewards
