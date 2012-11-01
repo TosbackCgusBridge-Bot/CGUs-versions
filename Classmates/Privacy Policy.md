@@ -214,6 +214,12 @@ We may update this Privacy Policy from time to time as our information practices
 
 We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Privacy Policy or practices, please contact us at: Memory Lane, Inc., Attention: Privacy Policy Issues, 333 Elliott Avenue W., Suite 500, Seattle, WA 98119, or email us at privacy@memorylane.com. If you are not satisfied with our response, you can contact TRUSTe here. The TRUSTe program covers the information collected on the Website.
 
+Like us on  
+Facebook Fun stuff on  
+Pinterest Follow us on  
+Twitter Classmates  
+Blog
+
 *   schoolFeed
 *   About Us
 *   Careers
