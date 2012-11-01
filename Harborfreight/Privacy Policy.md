@@ -34,7 +34,6 @@ $6.99 FLAT-RATE SHIPPING | GET COUPONS NOW! Log In / register My Wishlist My Car
 
 *   Sale &. Clearance
     *   Clearance
-    *   50% Off Sale
 *   Monthly Ad
 *   Shop by interest
     *   Automotive
