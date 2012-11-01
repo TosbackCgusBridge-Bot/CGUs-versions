@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** Obama laments 'heartbreaking' storm as Sandy leaves US east coast daunted
-2.  2\. **Technology:** iPad mini - review
-3.  3\. **Football:** Arsenal's spare parts power past Reading and into the quarter-finals
-4.  4\. **Football:** Chelsea the accusers cannot afford to get this one wrong
-5.  5\. **Football:** Arsène Wenger: Reading victory may well be one of my greatest wins
+1.  1.  **Life &. style:** Was Kate Moss exploited as a young model?
+2.  2\. **Football:** Chelsea earn dramatic victory over Manchester United in Capital One Cup
+3.  3\. **News:** Superstorm Sandy: The north-east begins long struggle to recovery
+4.  4\. **News:** Chris Christie sparks speculation at political centre of the storm
+5.  5\. **Football:** Manchester United fans outwit Chelsea rivals but Blues have last laugh
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Technology:** iPad mini - review
-2.  **Technology:** iPad mini and Amazon Kindle Fire – video review
-3.  **News:** Obama laments 'heartbreaking' storm as Sandy leaves US east coast daunted
-4.  **Childrens' books:** Top tips for writing ghost stories: Cornelia Funke
-5.  **Media:** Jimmy Savile spent nights with girls in hospital rooms, says Leeds porter
+1.  **News:** Superstorm Sandy: The north-east begins long struggle to recovery
+2.  **Childrens' books:** Guardian children's books podcast: David Almond and Oliver Jeffers
+3.  **Global development:** Fuel smuggling in west Africa – in pictures
+4.  **Comment:** David Mitchell's Soapbox: social signals - video
+5.  **Technology:** Kim Dotcom announces Mega, successor to Megaupload
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Star Wars: the force may be strong with Disney
-2.  2\. Pride of Britain Awards boast nearly 5m viewers
-3.  3\. Trading up, trading down – in pictures
-4.  4\. Public Health Dialogue on partnerships: public nutrition
-5.  5\. Developing nations' fishing grounds should be protected, UN says
+1.  1.  Europe to blame for UK manufacturing downturn
+2.  2\. Mercury prize finalists: who is the most popular on last.fm?
+3.  3\. I, Anna: watch the trailer of the Charlotte Rampling thriller - video
+4.  4\. Big Book of Nursery Rhymes by Kali Stileman - review
+5.  5\. Fusing business and education with eLearning
 6.  All today's stories
 
 On the Guardian today
 
 1.  Life and style Mapping the body: the temple
-2.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-3.  Comment is free Iran sanctions now causing food insecurity, mass suffering
-4.  Football Barcelona and Real Madrid draw El Clásico thriller at Camp Nou
-5.  Football Arsenal's spare parts power past Reading and into the quarter-finals
-6.  Art and design Man who defaced Tate Modern's Rothko canvas says he's added value
+2.  World news Chris Christie sparks speculation at political centre of the storm
+3.  Football Chelsea earn dramatic victory over Manchester United in Capital One Cup
+4.  Media Jimmy Savile spent nights with girls in hospital rooms, says Leeds porter
+5.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+6.  World news A tale of two New Yorks: Sandy splits city but its residents band together
 
 *   License/buy our content
 |*   Privacy policy
