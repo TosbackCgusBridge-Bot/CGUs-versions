@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Fast N' LoudRamshackle Rambler 8:00PM Fast N' Loud: Fleetmaster Recharged  9:00PM Fast N' Loud: Recharged  TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Texas Car WarsA Presidential Flip 8:00PM Texas Car WarsThe El Camino King 9:00PM Texas Car WarsColby Takes Over TV SHOWS
 
 American Chopper
 
@@ -334,21 +334,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-Monsters Are People Too
+Can One Drive-Through Breakfast Be That Bad?
 
-The Day Martians Invaded: DNews Nugget
+Jack-O-Lantern Tetris a Halloween Treat
 
-Voyager 1 Detects Weirdness at Solar System Edge
+Sandy Kills W.Va. Candidate: DNews Nuggets
 
-Superstorm Sandy Knocks Out Data Centers
+Mermaid Syndrome is Real: Gotta-See Video
 
-Top 5 Fake Hurricane Sandy Photos
+The REAL Zombie Apocalypse: Gotta-See Video
 
-When Hurricanes Hit New York: Gotta-See Video
+Breastfeeding Marijuana Mom Busted: DNews Nugget
 
-Pandas Returned After Quake: Gotta-See Video
+NY Marathon Still On: DNews Nugget
 
-Space Station Spies Sandy: Gotta-See Video
+Excellent Idea of the Day: Fun Halloween Apps
 
   facebook share0 Tweet Privacy Policy  
 
@@ -554,32 +554,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Oct 31,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Nov 01,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 31,  
+Nov 01,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 31,  
+Nov 01,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 31,  
+Nov 01,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Oct 31,  
+Nov 01,  
 9:00 am  
 60 min(s)  
-**I (Almost) Got Away with It**  
-_Got to Copy Movies_  
- JohnnyRay Gasca, a successful video pirate, scams the film indust  
+**I (Almost) Got Away With It**  
+_Got a Pen Pal_  
+ Brenda Wynn is out of prison, and wants a new life. But when a co  
 **More Listings »**   Shop Discovery Store      
 
 our sites
