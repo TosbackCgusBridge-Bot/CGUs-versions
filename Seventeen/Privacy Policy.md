@@ -28,7 +28,7 @@ What's the Best Halloween Costume for You?
 *   Fashion Videos
 *   Get Fashion Advice
 
-Who Wore It Better?
+Cute Winter Coats
 
 *   Virtual Makeover Tool
 *   Hair Ideas
@@ -95,20 +95,20 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
 
 *   college
     
-    Should You Rush?
+    Find The Perfect College For You!
 *   entertainment
     
     17 Minutes With Bridgit Mendler
 *   fashion
     
-    Who Wore It Better?
+    The Best Scarves Under $17
 *   love
     
     Gift Ideas for Your Boyfriend!
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win smoothing serum and conditioner from Suave. Type in the Freebie Phrase of the Day, found in the October Issue!
+**1 Winner!** Enter for a chance to win Purr by Katy Perry from fragrancenet.com. Type in the Freebie Phrase of the Day, found in the November Issue!
 
  enter now 
 
