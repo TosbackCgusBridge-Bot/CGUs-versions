@@ -15,17 +15,17 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
+The List: November's Objects of Desire
+
+Take note of these covetable jewels.
+
+In Living Color
+
+When it comes to new hues, it's time to embrace the full spectrum.
+
 Wish List: An Editor's Style Picks
 
 Bazaar's photography and bookings director shares her must-haves.
-
-Coats Central: Your Guide to Chic Outerwear
-
-Shop the latest coat trends this season.
-
-History's Most Fashionable First Ladies
-
-From Jackie O to Lady Bird, it's clear style crosses party lines.
 
 Beauty &. Hair  
 
@@ -37,13 +37,13 @@ Beauty &. Hair  
 *   Beauty at Every Age
 *   Health &. Wellness
 
-The Best Spring Nail Trends To Try Now
+Define Your Brows In 5 Easy Steps
 
-Looks ranged from light and innocent to dark and dangerously chic this seas...
+Makeup pro Kate Lee shares pointers for enhancing your brows.
 
-Today's Beauty Secret
+Supermodel Beauty SecretsRevealed!
 
-Expert advice on of-the-moment beauty trends.
+Read our insider hair and beauty tips directly from the models backstage an...
 
 CELEBRITY STYLE &. PARTIES   Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson
 
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR Wish List: An Editor's Style Picks Coats Central: Your Guide to Chic Outerwear History's Most Fashionable First Ladies The Best Spring Nail Trends To Try Now Today's Beauty Secret 4 Fun Halloween Mani Ideas Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Maison Martin Margiela x H&M Party Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR The List: November's Objects of Desire In Living Color Wish List: An Editor's Style Picks Define Your Brows In 5 Easy Steps Supermodel Beauty SecretsRevealed! The Best Spring Nail Trends To Try Now Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Maison Martin Margiela x H&M Party Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
