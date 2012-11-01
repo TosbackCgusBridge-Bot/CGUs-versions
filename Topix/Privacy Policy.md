@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
-Wall Street
+China
 
-Stock Futures Rise as Wall Street Reopens
+China Fund Buys Stake in Heathrow
 
-Iran
+Mitt Romney
 
-Netanyahu wants France to push for tougher Iran sanctions, def...
+As Obama gets back to campaigning following storm hiatus, race...
 
 Politix
 
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
- 
+  Ads by Glam
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 115,674 • Total comments across all topics: 189,674,426
+Comments made yesterday: 105,333 • Total comments across all topics: 189,769,595
 
 Copyright ©2012 Topix LLC
 
