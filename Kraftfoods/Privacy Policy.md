@@ -168,7 +168,7 @@ We would be happy to answer your questions or hear your concerns.
 
 Printer-Friendly VersionSend to a Friend recipes
 
-*   halloween recipes
+*   thanksgiving
 *   dinner recipes
 *   lunch ideas
 *   dessert recipes
@@ -212,11 +212,11 @@ more from kraft foods
 *   other kraft foods sites
 *   collaborate with kraft
 
-  © 2012 Kraft Foods. All rights reserved kraftfoods.com privacy notice browse by meal dinner lunch breakfast &. brunch desserts appetizers beverages recipe categories budget recipes healthy living kid-friendly recipes holidays &. entertaining quick &. easy recipes chicken recipes pasta recipes seafood recipes 1 bag 5 dinners ethnic recipes featured collections halloween recipes kids halloween recipes halloween desserts halloween drinks chili recipes potluck recipes quick &. easy desserts vegetarian recipes casserole recipes pizza recipes ground beef recipes brownie recipes tailgate recipes one-pot wonder recipes new recipes easy VELVEETA soup recipes comfort food recipes apple recipes >  
-skillet chicken &. dumplingsEnjoy this recipe which is sure to become a family favorite! holidays holiday calendar halloween entertaining party planning birthday parties potluck recipes tailgate recipes appetizer math healthy living nutrition basics diabetes center for nutrition professionals weight management healthy living recipes your kids kids can cook kids in the kitchen birthday parties kids nutrition cooking tips cooking videos charts &. guides how-to tips special features budget food safety pasta center salad center seasonal produce what’s in season >  
-cupcake photo challenge! Make one of our Halloween cupcake recipes and share a photo – it could appear in our Recipes by Email! kraft foods community recipe exchange message boards photos  
+  © 2012 Kraft Foods. All rights reserved kraftfoods.com privacy notice browse by meal dinner lunch breakfast &. brunch desserts appetizers beverages recipe categories budget recipes healthy living kid-friendly recipes holidays &. entertaining quick &. easy recipes chicken recipes pasta recipes seafood recipes 1 bag 5 dinners ethnic recipes featured collections thanksgiving recipes thanksgiving dinner menu thanksgiving side dishes pumpkin recipes chili recipes potluck recipes quick &. easy desserts vegetarian recipes casserole recipes stew recipes ground beef recipes brownie recipes tailgate recipes one-pot wonder recipes new recipes easy VELVEETA soup recipes comfort food recipes skillet sensations >  
+whole roasted chickenEnjoy this recipe which is sure to become a family favorite! holidays holiday calendar thanksgiving holiday menus &. recipes holiday how-to center entertaining party planning birthday parties potluck recipes tailgate recipes appetizer math healthy living nutrition basics diabetes center for nutrition professionals weight management healthy living recipes your kids kids can cook kids in the kitchen birthday parties kids nutrition cooking tips cooking videos charts &. guides how-to tips special features budget food safety pasta center salad center seasonal produce what’s in season >  
+thanksgiving headquarters We've got all the recipes, videos and tips you need for a delicious, stress-free Thanksgiving dinner. kraft foods community recipe exchange message boards photos  
   
-**butterscotch banana pudding squares** Delicious layers make this dessert a crowd-pleaser, but also so easy to make! submitted by: leannabrtltt >  
-what people are talking about easy budget halloween desserts pasta potluck kids comfort foods chicken cheesecake dips dinner easy e-mail tailgating magazine kraft cheese recipe collections entrées sandwiches brunch appetizers and sides >  
+**pumpkin cheesecake pie** JELL-O and COOL-WHIP mingle with pumpkin and cinnamon to make this fluffy seasonal treat! submitted by: Jen\_Rourke >  
+what people are talking about easy budget thanksgiving desserts pasta potluck kids comfort foods chicken cheesecake dips dinner holiday how-to e-mail tailgating magazine kraft cheese recipe collections entrées sandwiches brunch appetizers and sides >  
 kraft cheese products kraft fresh take kraft grated parmesan kraft natural shredded cheese kraft natural slices kraft singles featured products OSCAR MAYER KRAFT SIZZLING SALADS PLANTERS PEANUT BUTTER JET-PUFFED JELL-O MAXWELL HOUSE KRAFT BARBEQUE SAUCE tools &. info kraft brands promotions what’s new nutrition &. ingredient info product locator >  
-introducing… New MAXWELL HOUSE flavor lock pack! Good to the Last Drop.
+introducing… PLANTERS NUT∙rition Peanut Butter - the most daring PB ever!
