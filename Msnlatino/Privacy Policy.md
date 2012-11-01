@@ -688,13 +688,13 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¿Qué dilema?
+*   ¡Elige ahora!
     
-    Mariana lucha entre el amor y el odio.
+    ¿Cuál te parece el gesto más gracioso?
     
-*   ¡Un Halloween original!
+*   ¡Un Halloween erótico!
     
-    Adorna tu casa con estos adornos creativos  
+    Desata tu sexualidad en esta Noche de Brujas  
     
 *   ¡Enloquécete con disfraces!
     
