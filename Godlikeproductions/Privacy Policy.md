@@ -1,5 +1,5 @@
   
-Users Online Now: **1,741** (Who's On?) Visitors Today: **497,250** Pageviews Today: **740,417** Threads Today: **249** Posts Today: **4,112** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,684** (Who's On?) Visitors Today: **314,780** Pageviews Today: **538,200** Threads Today: **232** Posts Today: **3,475** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,10 @@ trinity@godlikeproductions.com
   
 News
 
+*   What Happened to the 50,000 Homeless in NYC During Hurricane Sandy?
+*   East Coast starts to recover after Sandy leaves death, destruction in wake, 4M still without power
+*   Amtrak assessing damage from Hurricane Sandy and making Repairs
+*   Amtrak Service Restoration Plan - Post Sandy
 *   Superstorm Sandy has caused a shortage of gasoline
 *   Latest Fast and Furious Report Incriminates DOJ
 *   Shell Seeks to Pay Iran Debt With Grain
@@ -133,10 +137,6 @@ News
 *   Watch Hurricane Sandy LIVE From Space Right Now
 *   Mississippi School Charged With Arresting Kids For Flatulence
 *   FULL NAME LIST: U.N. "ELECTION OBSERVERS"
-*   Mental Hospital Voter Sign-Up Questioned (Disability Rights North Carolina)
-*   Gun found in hollowed-out book donated to Illinois library
-*   Winter storm forecasters prepare for 'Frankenstorm'
-*   FBI: NYPD OFFICER CHARGED IN CANNIBAL PLOT:
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.015s (0 queries)
+Page generated in 0.022s (0 queries)
