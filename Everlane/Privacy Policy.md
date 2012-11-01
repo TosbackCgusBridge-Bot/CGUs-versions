@@ -96,23 +96,27 @@ Already a member? Click here to log in.
 
 Not yet a member? Click here to join Everlane.
 
-*   The French Terry
-*   Ryan Collection
-*   Classic Tee Collection
-*   The Essential Scarf
+*   Cashmere
+*   Silk Blouse
+*   Sweatshirts
+*   Ryan Tees
+*   Classic Tees
 
-*   The Weekender
-*   Backpack Collection
-*   The Tote
-*   The Essential Belt
+*   Scarves
+*   Weekender
+*   Backpacks
+*   Totes
+*   Belts
 
-*   The French Terry
-*   Classic Tee Collection
-*   The Essential Belt
-*   The Tote
+*   Cashmere
+*   Button Down
+*   Sweatshirts
+*   Classic Tees
 
-*   The Weekender
-*   Backpack Collection
+*   Weekender
+*   Totes
+*   Backpacks
+*   Belts
 
 *   About
 *   **Jobs!**
