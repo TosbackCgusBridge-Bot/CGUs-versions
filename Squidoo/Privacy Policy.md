@@ -63,27 +63,25 @@ Go Squidoo THIS LENS »
 
 Close Home » Squidoo Community » Official SquidTeam Lenses » Official Lensmaking Tips Getting Started With Squidoo (The official overview, FAQ and TOS)
 
-*   4491 Like
+*   4500 Like
 
-*   Like 4491
+*   Like 4500
 
 *   Pin It
 
-**Ranked #18,232** in **Squidoo Community**, #1,709,562 overall | Donates to Rhodesian Ridgeback Rescue of NorCal
+**Ranked #18,251** in **Squidoo Community**, #1,710,557 overall | Donates to Rhodesian Ridgeback Rescue of NorCal
 
 Terms of Service What's Squidoo? Squidoo is the free (yes, free), simple tool that makes it easy for you to publish your interests online. (You could even earn a royalty for yourself or for charity). From authors and astronauts to marketers and musicians, to cat lovers and seahorse keepers and quiltmakers and video gamers and teachers and... well, everyone... anyone with something to say, share, promote and recommend is welcome on Squidoo. All you need to do is agree to the below Terms of Service, which, as you'll see, generally cover: 1) Our Zero Tolerance policy about Spamming and 2) An easy list of Do's and Don'ts and 3) Your usual legalese jibberjabber.  
   
 So, congratulations. You're participating in one of the realest, coolest, most powerful free publishing platforms online. We're thrilled to work with you. And now, the TOS proper...  
   
-These Terms may change from time to time. you can always check in on the most current version here. By your continuing use of the service, you're agreeing to these terms. 1. YES, I AGREE! By using Squidoo.com's platform and community forums, you are agreeing to the following terms and conditions ("Terms of Service") on this page, we well as the policies outlined in our SquidDon't and Squidspam and Policy Update pages that supplement our TOS.  
+The principals in these Terms do not change, though the specific enforcement of our content standards may change from time to time. you can always check in on the most current version here. By your continuing use of the service, you're agreeing to the terms that were in place when you joined the service. By continuing to use Squidoo, you're agreeing to the terms in place each time you create new content. 1. YES, I AGREE! By using Squidoo.com's platform and community forums, you are agreeing to the following terms and conditions ("Terms of Service") on this page, we well as the policies outlined in our SquidDon't and Squidspam and Policy Update pages that supplement our TOS.  
   
 These Terms apply to anyone who uses Squidoo (the Service), from our Members and Lensmasters, to people stopping by and using the social tools featured on Squidoo Lenses (ie, the free, single pages set up by our Lensmasters).  
   
 We're in this together. The more you give, the more you get;and to protect our Lensmasters and the web at large against spammers or other abuse, we've laid out clear guidelines. Our goal is to treat every Member and Lensmaster fairly and with respect, and to make sure this community is a fun, engaging, diverse, positive place.  
   
-We aim to support high-quality, original and useful lifestyle content that real readers will be glad to land on. So, in addition to enforcing our TOS, we reserve the right to unpublish lenses that have shallow or lower-quality writing, as well as lenses that point to other sites that have been flagged as low quality or spam.  
-  
-These Terms may change from time to time. you can always check in on the most current version here. By your continuing use of the service, you're agreeing to these terms. 2. The big picture: Description of Service Squidoo makes available a collection of resources to registered (free) account holders (Members and Lensmasters), including hosting services (the "Service") for our ("Lensmasters") who wish to create their own customized "Lenses" on our site. A web surfer can quickly explore Lenses on topics of interest, allowing him or her to quickly find thoughtful, personal, and handbuilt collections of links to relevant online content.  
+We aim to support high-quality, original and useful lifestyle content that real readers will be glad to land on. So, in addition to enforcing our TOS, we reserve the right to unpublish lenses that have shallow or lower-quality writing, as well as lenses that point to other sites that have been flagged as low quality or spam. 2. The big picture: Description of Service Squidoo makes available a collection of resources to registered (free) account holders (Members and Lensmasters), including hosting services (the "Service") for our ("Lensmasters") who wish to create their own customized "Lenses" on our site. A web surfer can quickly explore Lenses on topics of interest, allowing him or her to quickly find thoughtful, personal, and handbuilt collections of links to relevant online content.  
   
 If a user fails to follow these rules below, Squidoo can discontinue their ability to use the Service entirely. In addition, we have the right to delete your account and corresponding lenses without notice if we see evidence of clear abuse or other inappropriate activity.  
   
@@ -166,7 +164,7 @@ Squidoo provides pre-built modules that make it easy for you to find and add lin
   
 Many of our lensmasters earmark their earnings for charity, and the Squidteam also makes donations to worthy causes throughout the year. So far, Squidoo has generated more than $500,000.00 to charities around the world, including Acumen Fund, charity: water, Room to Read, the Juvenile Diabetes Research Foundation and literally hundreds of others. We hope you'll join us in creating positive change in the world.  
   
-When money arrives at Squidoo headquarters, we immediately (without taking any deductions of any kind) earmark half of it (that's 50% for those of you using a calculator at home) for our lensmasters. Many of them have marked this royalty to go to charity, while some get the money directly by Paypal, using it for luxuries like feather boas, lotto tickets or paying the rent.  
+When money generated by lenses arrives at Squidoo headquarters, we immediately (without taking any deductions of any kind) earmark half of it (that's 50% for those of you using a calculator at home) for our lensmasters. Many of them have marked this royalty to go to charity, while some get the money directly by Paypal, using it for luxuries like feather boas, lotto tickets or paying the rent.  
   
 It's entirely possible that things will occur that will make it, in Squidoo's sole discretion, impossible to maintain the structure described in this document. Hey, we're a startup, and we've taken zero venture capital. We may, for example, have to change the percentages or details of the CO-OP. We agree that we will not make any financial changes retroactively. Any changes will be for future payments. If we do need to change any significant terms, we will notify you by email before any change occurs. At that point, you will have the option of removing your Lens from the Service if you choose to stop working with the CO-OP under the new structure.  
   
@@ -208,7 +206,7 @@ Like most sites, we do make surfer behavior available to ad serving services, so
     
 2.  If that doesn't work, you agree to contact us, outlining your problem.  
     
-3.  If that doesn't work, you agree to send us a letter, by registered mail, to Box 305, Irvington, NY 10533.  
+3.  If that doesn't work, you agree to send us a letter, by mail, to Suite 3R, 45 Main St, Hastings on Hudson, NY 10706.  
     
 4.  If, after two weeks, you haven't found a satisfactory resolution, you agree to submit to binding arbitration, to be conducted by a member of the American Arbitration Association, in New York, at your expense. If you win, we will pay the arbitration expenses and your reasonable attorney's fees. If we win, you agree to do the same for us.  
     
@@ -231,7 +229,7 @@ SquidU
 
 WHEW! You made it. You read the whole Squidoo Terms of Service. Please let us know how we can do better. And thanks!
 
-*   4491 Like
+*   4500 Like
 
 by SquidTeam
 
@@ -239,7 +237,7 @@ We're the official SquidTeam! Together we built and run and are constantly growi
 
 *   61 featured lenses
 *   Winner of 14 trophies!
-*   Top lens » Beautiful Squidoo Themes For Your Lenses
+*   Top lens » The 9 Best Ways To Monetize Your Lenses (An official guide by SquidooHQ)
 *   This lens » Selected as Lens of the Day
 
 Feeling creative? Create a Lens! Recent News from SquidooHQ  Did you see the Lens of the Day?  Were you picked? Who founded Squidoo?  This guy Related Tags
