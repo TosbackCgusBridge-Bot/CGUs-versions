@@ -28,8 +28,6 @@ Rolling Stone Skip to the content.
 *   •
 *   Travers
 *   •
-*   Random Notes
-*   •
 *   RS on RDIO
 *   •
 *   Springsteen Timeline
@@ -39,6 +37,8 @@ Rolling Stone Skip to the content.
 *   RS Soundtrack
 *   •
 *   On The Road
+*   •
+*   Y! Music
 
 *   Matt Taibbi
 *   Peter Travers
