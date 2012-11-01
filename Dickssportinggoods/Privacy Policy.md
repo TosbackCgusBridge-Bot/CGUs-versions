@@ -156,13 +156,13 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Men's
         *   Women's
         *   Youth
-        *   Football
         *   Soccer
         *   Baseball &. Softball
-        *   Track &. Field
-        *   Field Hockey
         *   Lacrosse
+        *   Track &. Field
         *   Wrestling
+        *   Football
+        *   Field Hockey
         *   Replacement Cleats
         *   Slides
         *   View All »
@@ -341,8 +341,8 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         
         Accessories
         
-        *   Grips
         *   Training Aids
+        *   Grips
         *   View All »
         
         Junior Golf Clubs
@@ -431,6 +431,7 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
     *   Games &. Scooters
         
         *   Table Tennis
+        *   Air &. Rod Hockey
         *   Basketball Arcade Games
         *   Foosball Tables
         *   Darts &. Billiards
