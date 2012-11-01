@@ -9,7 +9,6 @@ MyPoints Search MyPoints Search Web
 *   Shop
     
     *   What's New
-    *   Halloween
     *   New Additions
     *   Shop by Category
     *   Automotive
@@ -23,8 +22,8 @@ MyPoints Search MyPoints Search Web
     *   Clubs &. Memberships
     *   Computers &. Apps
     *   Department Stores
-    
     *   Electronics
+    
     *   Entertainment
     *   Flowers &. Gifts
     *   Food &. Drinks
@@ -39,8 +38,8 @@ MyPoints Search MyPoints Search Web
     *   Shoes
     *   Sports &. Leisure
     *   Toys &. Hobbies
-    
     *   Travel
+    
     *   Weddings
     *   Featured Merchants
     *   Coupons.com
@@ -69,7 +68,6 @@ MyPoints Search MyPoints Search Web
     *   Registrations
     *   SurveyZone
 *   Games
-*   Halloween Guide
 *   Rewards
     
     *   Rewards by Category
@@ -289,13 +287,7 @@ MYPOINTS.COM PARTNERSHIPS
 
 Did You Know?
 
-MyPoints lives and breathes these 5 core values everyday:
-
-1.  Save members money.
-2.  Reward members for shopping.
-3.  Help members find the best deals and offers.
-4.  Make it fun and easy to earn Points.
-5.  Be a one-stop-shop for all your online shopping.
+MyPoints shopping can be overwhelming at times. Use the search bar on top to make things easy. Search for an online retailer, or product.
 
 Contact Us
 
