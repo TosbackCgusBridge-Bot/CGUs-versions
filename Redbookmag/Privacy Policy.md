@@ -76,7 +76,7 @@ Explore more articles like this here:
 
 Look, Love, Shop! What are we loving right now? REDBOOKs newest iPhone appLook, Love, Shop!has our editors picks for the coolest trends and hottest buys.
 
-Win prizes from our TV marathon giveaway! We're giving away prizes for a TV marathon day! Enter Now See More Sweepstakes
+Win prizes from Keurig! We're giving away prizes from Keurig! Enter Now See More Sweepstakes
 
 Special Offer Sex &. Relationships
 
