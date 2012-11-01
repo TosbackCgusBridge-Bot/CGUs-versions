@@ -1,6 +1,6 @@
 (skip this header)
 
-Wednesday Oct 31, 2012 5:05 AM PT
+Thursday Nov 01, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Oakland City Hall, the show?
-*   Sierra snow watch
-*   Cyclists: Secure the frame!
-*   Fight at City Hall
-*   Local food and drink events
+*   Little girl sick of election
+*   New picture of S.F.
+*   Gavin, Ed fake itineraries
+*   Masked bandit steals heart
+*   Breakdown in Utah
 *   Chron endorsements
 
 *   Bay Area &. State
@@ -143,6 +143,7 @@ Close \[X\] Quick links to other pages on this site | Still can't find it? see S
 *   Magazine
 *   Moms
 *   Pets
+*   Holiday Shopping
 
 *   Weekend Getaways
 *   SF Guide
@@ -339,6 +340,19 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   More pets in listing photos
+*   Nation in Focus
+*   World in Focus
+*   Gifts for Active People
+*   netflix
+*   Day in Pictures, Oct. 31, 2012
+*   Cosmopolitan Women of the Year Awards
+*   7th annual Museum of African Diaspora Gala
+*   Lance Armstrong
+*   San Quentin
+*   Apple Event Oct 23
+*   The return of Charles Chocolates
+*   San Francisco Giants victory parade
 *   Real haunted homes for sale
 *   Nation in Focus
 *   World in Focus
@@ -365,19 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   World in Focus
 *   Last-minute homemade kids' Halloween costumes
 *   World Series photo gallery
-*   Game 4: Giants at Tigers
-*   NFL cheerleaders celebrate Halloween
-*   Nation in Focus
-*   World in Focus
-*   Elizabeth Moran on Facade as Reality
-*   Game 3: Giants at Tigers
-*   This Week's Concerts - In Pictures 10.27.12
-*   Candidates eat
-*   "Frankenstorm' approaches East Coast
-*   Nation in Focus
-*   World in Focus
-*   Thrift store Halloween costume ideas
-*   FORTUNE's 40 Under 40 party
 
 *   Most Read
 *   |
@@ -385,50 +386,53 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
+1.  Huge turnout for Giants parade up Market
+2.  Sergio Romo not afraid to speak his mind
+3.  Mom admits killing crying daughter
+4.  New York struggles back 2 days after killer storm
+5.  Infant dies at Marin day care center
+6.  Shooting near S.F. Giants celebration
+7.  Chris Christie tells FOX that relief efforts in NJ are “much bigger than presidential politics”
+
 1.  Police arrest man in Muni bus vandalism
-2.  Disney Buys ‘Star Wars’ Producer Lucasfilm for $4.05 Billion
-3.  Burning Man arsonist dies on BART tracks
-4.  'Knuckleheads' run amok after Giants win
-5.  Mars rover finds soil like that in Hawaii
-6.  Joke about post-Series vandalism photo backfires on Brisbane man
-7.  George Lucas' Marin land in question
+2.  Chrysler, GM say new Romney ad flat out wrong
+3.  Hundreds already out for Giants parade
+4.  Chris Christie tells FOX that relief efforts in NJ are %u201Cmuch bigger than presidential politics%u201D
+5.  Sergio Romo makes political statement with T-shirt
+6.  Candidate says "rape thing" not cause for abortion
+7.  Who's the 2nd Muni bus wrecker?
 
-1.  Women 'Obama defectors' could swing race
-2.  Do you know this Muni bus wrecker?
-3.  Superstorm Sandy takes aim at Atlantic coast
-4.  New efforts try to limit Mirkarimi power
-5.  Disney buys Lucasfilm for $4.05 billion
-6.  S.F., Oakland drop bid for U.S. school funds
-7.  Giants celebrants torch Muni bus
-
-1.  He died penniless, but rich with friends
-2.  Burning Man arsonist dies on BART tracks
-3.  Clay pots can make recipes taste better
-4.  Giants parade set to roll at 11 a.m.
-5.  Mars rover finds soil like that in Hawaii
-6.  Apple shakeup could be savvy move
-7.  Sudan attack spotlights Israel-Iran rivalry
+1.  Incredible (and freaky!) pumpkin carvings
+2.  Mushroom madness on the Central Coast
+3.  Huge turnout for Giants parade up Market
+4.  Sergio Romo not afraid to speak his mind
+5.  NJ's barrier islands are scenes of devastation
+6.  Airlines Plan LaGuardia Recovery as NYC Travel Disruptions Ease
+7.  California could reap big China investment
 
 loading... Latest News Videos From our homepage
 
-*   Arrest in Muni bus vandalism
+*     
+    John Minchillo / AP
     
-    Cops say tips led to arrest of vandal in now-infamous photo.
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 10:07 p.m., Wednesday, October 31, 2012 NYC struggles to recover
     
-*   S.F. gets tough on rioters
+    Mass exodus back into the city as people get creative post-Sandy.
+    
+*   Sandy tapering out in Appalachia
 
 *     
-    Frank Franklin II, AP / AP2012
+    Jason Henry, Special To The Chronicle / SF
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 10:21 p.m., Tuesday, October 30, 2012 Sandy's death, destruction
+    Basking in Giants parade
     
-    At least 50 deaths from storm, millions without power. Photos
+    Players sweep down Market St. as fans packed 20-30 deep celebrate.
     
-*   Crippled subways hurt efforts
+*   Parade cost? | Giants keepsakes
 
-*   It's a costume, dummy!
+*   Great pumpkins arrive
     
-    Late entries to Halloween costume contest could be winners. Check out the new stuff. Photos
+    Does your pumpkin match this? One last Halloween look at the freakiest carve jobs ever. Photos
     
 
 *   Home
