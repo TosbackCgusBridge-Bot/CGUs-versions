@@ -166,8 +166,8 @@ Other Stories You Might Like
 
 *   About the Good Housekeeping Seal
 *   Welcome to the Good Housekeeping Seal
-*   About the Green Good Housekeeping Seal
 *   The Good Housekeeping Research Institute Timeline
+*   About the Green Good Housekeeping Seal
 *   Good Housekeeping's Nail Breast Cancer Contest - Official Rules
 
 MostPopular Stories
@@ -225,7 +225,12 @@ Best Ice Cream Makers
 
 Nothing's sweeter in summertime than whi...Read More
 
-Video of the Day Facebook Enter To Win Enter Now! Tools Stain Buster
+Video of the Day Facebook Enter To Win
+
+You could win the full line of Palmolive Fresh Infusions!  
+  
+
+Enter Now! Tools Stain Buster
 
 Your A-Z Guide to Removing Smudges, Spots, and Other Spills Read More
 
