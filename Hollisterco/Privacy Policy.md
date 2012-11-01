@@ -4,9 +4,15 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Sign up for Hollister Co. Emails!
+\[hol-HomepageTopBannerEMS\] Club Cali Members get Free Shipping on orders over $100 when signed in!
 
-*   Sign Up
+*   Join
+
+*   Sign In
+
+*   Learn More
+
+*   see details
 
 *   Find A Store
 *   *   Sign In
