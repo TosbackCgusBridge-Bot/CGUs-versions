@@ -1,4 +1,4 @@
-Skip to content 100% satisfaction guaranteed. If you don't love it, we'll take it back. Period.
+Skip to content
 
 *   Sign in 
     *   My Account
@@ -16,7 +16,7 @@ Skip to content 100% satisfaction guaranteed. If you don't love it, we'll take i
 *   Gift Center
 *   T-Shirts
 
-**Search** Halloween Mystery Sale: Up To 20% OFF Select Products!   Enter OCTOBERFUN31 At Checkout For Savings. Ends Soon! (details) Check out Zazzle Instant, our new app for making fun products! Ok Zazzle Privacy Policy Policies
+**Search** Limited Time - 50% Off ALL Cards! Save Today On That Perfect Holiday Card!   Use Code: CHEERSAVINGS   (details) Check out Zazzle Instant, our new app for making fun products! Ok Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
