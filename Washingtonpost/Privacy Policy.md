@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Romney and Ryan plan major kick-off...**  
-        Election 2012 | Philip Rucker
+    *   **Paul Ryan goes trick-or-treating**  
+        Election 2012 | Rachel Weiner
     
-    *   **President Obama’s claims of ‘Romnesia’**  
+    *   **An imaginary, misleading ‘debate’...**  
         The Fact Checker | Glenn Kessler
     
-    *   **Maisie Kate Miller’s passive resistance...**  
-        She The People | Melinda Henneberger
+    *   **How much TV drove little Abby to...**  
+        She The People | Annie Groer
     
-    *   **Romney’s expand-the-map strategy...**  
-        The Fix | Aaron Blake
+    *   **Ohio moves back into the ‘toss...**  
+        The Fix | Chris Cillizza and Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,13 +46,13 @@
     
     Featured Blogs
     
-    *   **Obama response to Sandy ... too...**  
+    *   **Letitia Baldrige, master of manners**  
         ComPost | Alexandra Petri
     
     *   **Happy Hour Roundup**  
-        The Plum Line | Greg Sargent
+        The Plum Line | Jonathan Bernstein
     
-    *   **You can criticize Obama, not be...**  
+    *   **Obama, Christie: Bipartisanship**  
         PostPartisan | Jonathan Capehart
     
     *   **Morning Bits**  
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Halloween is...**  
-        Capital Weather Gang | Dan Stillman
+    *   **Forecast: The chill lingers through...**  
+        Capital Weather Gang | David Streit
     
-    *   **Sandy closings: Tuesday**  
-        Going Out Gurus | Alex Baldinger
+    *   **When you want a pie to have a pedigree**  
+        Going Out Gurus | Tom Sietsema
     
-    *   **Man shot multiple times in Gaithersburg**  
-        Crime Scene | Michael Laris
+    *   **Guilty plea for former D.C. tax...**  
+        Crime Scene | Del Quentin Wilber
     
-    *   **Sandy calls time out in Va. Senate...**  
-        Virginia Politics | Laura Vozzella
+    *   **O’Malley upbeat on same-sex marriage**  
+        Maryland Politics | John Wagner
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -100,13 +100,13 @@
     *   **Ovechkin misses game with bronchitis...**  
         Capitals Insider | Katie Carrera
     
-    *   **Redskins players getting into the...**  
-        DC Sports Bog | Sarah Kogod
+    *   **Bryce Harper’s Halloween clown...**  
+        DC Sports Bog | Dan Steinberg
     
-    *   **How crucial is Sunday’s game against...**  
+    *   **How often do the Redskins lose...**  
         The Insider | Keith McMillan
     
-    *   **Adam LaRoche wins first Gold Glove...**  
+    *   **Stephen Strasburg’s 2013 salary**  
         Nationals Journal | Adam Kilgore
 *   National In National
     
@@ -123,10 +123,10 @@
     
     Blogs &. Columns
     
-    *   **Stop fighting and look out for...**  
-        Ideas@Innovations | Emi Kolawole
+    *   **Does education want to be free?**  
+        Ideas@Innovations | Dominic Basulto
     
-    *   **Gov. Christie praises Obama’s leadership...**  
+    *   **Tim Cook’s humble leadership at...**  
         PostLeadership | Jena McGregor
     
     *   **Farrakhan inspires Bowie crowd**  
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **A trucker’s ruin, a Chinese tragedy**  
+    *   **What do Canadians think about American...**  
         WorldViews | Max Fisher
     
-    *   **A surprisingly deep Chinese joke...**  
+    *   **Did Russia just overcome its 20-year...**  
         WorldViews | Max Fisher
     
-    *   **Poland has fracking tensions, too**  
+    *   **Swedish town exports its unemployed...**  
         WorldViews | Olga Khazan
     
-    *   **Pro-Assad page claims Syria and...**  
+    *   **Photos: Halloween in Hong Kong...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -173,13 +173,13 @@
     *   **Beware of ‘storm chasers’**  
         The Color of Money | Michelle Singletary
     
-    *   **California attorney general warns...**  
+    *   **Rep. Honda says Obama is best ...**  
         Post Tech | Hayley Tsukayama
     
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **Wonkbook: After brief hiatus for...**  
+    *   **Wonkbook: At $6 billion, 2012 will...**  
         Wonkblog | Ezra Klein
 *   Tech In Technology
     
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Microsoft: 4 million upgrades to...**  
+    *   **Netflix shares jump, Apple and...**  
         Hayley Tsukayama
     
-    *   **California attorney general warns...**  
+    *   **Rep. Honda says Obama is best ...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Should you wear gloves while handling...**  
-        All We Can Eat | Tim Carman
+    *   **Farmers Market Roundup: Nov. 1-7**  
+        All We Can Eat | Becky Krystal
     
-    *   **Horse Mask Guy gains fame**  
-        The Style Blog | David Malitz
+    *   **‘One Night with Janis Joplin’ —...**  
+        The Style Blog | Chris Richards
     
-    *   **Making Sense of Hurricane Sandy**  
+    *   **Halloween's over but the junk food...**  
         On Parenting | Janice D'Arcy
     
-    *   **Harvey Weinstein screens ‘SEAL...**  
+    *   **Letitia Baldrige, the first famous...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,10 +240,10 @@
     *   **A “Tempest” in an opera house**  
         Classical Beat | Anne Midgette
     
-    *   **Ryan Gosling and Michael Fassbender...**  
+    *   **Miley Cyrus, Nathan Fillion and...**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **Simon Cowell: not sure how Britney...**  
+    *   **‘X Factor’ kicks off live shows**  
         The TV Column | Lisa de Moraes
     
     *   **‘It’s the Great Pumpkin, Charlie...**  
@@ -266,12 +266,11 @@
 
 In the News
 
-*   Sandy
-*   MTA
-*   Power outages
-*   iPad mini
-*   Nate Silver
-*   ‘Star Wars’
+*   Chinese stealth fighter
+*   World Series of Poker
+*   Chris Christie
+*   Post-ABC poll
+*   Letitia Baldrige
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -322,82 +321,94 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Romney goes off-road with the truth
+Obama’s campaign goes empty and strident
 
-Dana Milbank 
+George F. Will 
 
-Storm provides Obama with a commander-in-chief moment
+Romney forces see Pennsylvania, Michigan and Minnesota ripe for turning red
 
-David Nakamura 
+Dan Balz 
 
-Photos: Before and after Hurricane Sandy ASU senior out in 3rd at World Series of Poker, 2 left to play for $8.53M title
+Gov. Chris Christie, an Obama critic, praises the president amid N.J. storm damage
 
-Associated Press 
+Jason Horowitz 
 
-The Nate Silver backlash Disney to make new ‘Star Wars’ movies, buy Lucasfilm for $4.05 billion from George Lucas
+In hard-hit New Jersey towns, a daunting recovery effort
 
-Associated Press 
+Lisa Rein 
 
-Storm doesn’t appear to dampen early voting in Ohio
-
-Rosalind S. Helderman 
-
-Mitch McConnell, John Boehner strategy worked Sandy’s destruction in New York turns life in Lower Manhattan on its head
-
-Sally Jenkins 
-
-Lingering questions about Benghazi
+Poll: Obama gets high marks for handling of Hurricane Sandy Lingering questions about Benghazi
 
 David Ignatius 
 
-A vote for the future or for the past?
+In Ohio, Romney’s ads against auto bailout make pitch to the decideds
 
-Harold Meyerson 
+Rosalind S. Helderman 
 
-Superstorm moves on, leaving devastation behind in N.Y., N.J.
+Some things to watch in the final days
 
-Joel Achenbach 
+Dan Balz 
 
-Romney ignores FEMA questions Pro-Assad page claims Syria and Iran engineered Hurricane Sandy At least 16 dead after Sandy devastates New Jersey, swamps Lower Manhattan
+How do you vote for compromise?
 
-Fredrick Kunkle 
+E.J. Dionne Jr. 
 
-Sorry, dealer’s all out of race cards
+NYC’s subways, ‘lifeline of the city,’ rolling again, traffic gridlocked 3 days after Sandy
 
-Kathleen Parker 
+Associated Press 
 
-Carolyn Hax: A tie too deep to cut. a troublesome carpooler
+Without subway, New York is desperate for a ride
 
-Carolyn Hax 
+Paul Schwartzman 
 
-Powerful storm devastates New York, New Jersey
+Britney Spears passes live TV test on ‘X Factor,’ Khloe Kardashian Odom struggles as new host
 
-Dan Eggen 
+Associated Press 
 
-A viral, fake Hurricane Sandy photo migrates to China Warfare waged by the upper class
+Romney makes personal donation to Red Cross Maryland’s Greg Merson wins World Series of Poker, overcoming addiction, others’ doubts
 
-Katrina Vanden Heuvel 
+Michael S. Rosenwald 
+
+Holocaust survivor tailors an American success story
+
+Ned Martel 
+
+Report: Republican Hagel to back Democrat Kerrey in Nebraska Senate race The Supreme Court’s dog-day afternoon
+
+Dana Milbank 
+
+Texas, an election model for autocrats
+
+Editorial Board 
+
+Fuel truck explodes in Saudi capital in apparent road accident, killing at least 22 people
+
+Associated Press 
+
+Miley Cyrus, Nathan Fillion and more celebrities tweeting their Halloween costumes
+
+Jen Chaney 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Romney goes off-road with the truth
-    2.  Storm provides Obama with a commander-in-chief moment
-    3.  Photos: Before and after Hurricane Sandy
-    4.  Final 3 at World Series of Poker in Vegas marathon in last run toward title, $8.53M top prize
-    5.  The Nate Silver backlash
+    1.  Obama's campaign goes empty and strident
+    2.  Romney forces see Pennsylvania, Michigan and Minnesota ripe for turning red
+    3.  Gov. Chris Christie, an Obama critic, praises the president amid N.J. storm damage
+    4.  In hard-hit New Jersey towns, a daunting recovery effort
+    5.  Poll: Obama gets high marks for handling of Hurricane Sandy
 *   Top Videos
     1.  Chris Christie on Sandy aid: Obama 'deserves great credit'
-    2.  Raw: New York Power Station Explosion
-    3.  Coast Guard rescues passengers off of HMS Bounty
-    4.  Sandy's path of destruction
-    5.  Romney pulls ahead in key areas — Daily Tracking Poll
+    2.  Election 2012: The path to 270 electoral votes
+    3.  Obama on N.J. recovery: We will not quit until this is done
+    4.  Raw: New York Power Station Explosion
+    5.  Coast Guard rescues passengers off of HMS Bounty
 *   Top Galleries
-    1.  Sandy's devastating blow
-    2.  Sandy swamps New York area
-    3.  Sandy pushes ashore
-    4.  The 10 costliest hurricanes and tropical storms in U.S. history
-    5.  From 'Paranormal Activity 4' to 'Nosferatu,' a look at the scariest movies of all time
+    1.  New Jersey faces daunting cleanup and recovery after Sandy
+    2.  Sandy's devastating blow
+    3.  Small wonders
+    4.  New York begins recovery
+    5.  Keri's battle
 
 Today's Paper
 
@@ -407,13 +418,13 @@ Today's Paper
 
 Live Discussions
 
-Eugene Robinson Live
+Halloween: The science of bats
 
-Live Q&A, 1 p.m. ET
+Live Q&A transcript
 
-Live chat with Post columnist Eugene Robinson about his latest columns and political news.
+Just in time for Halloween, a bat expert and a Post reporter answered reader questions about bats.
 
-**11:00 AM** **The science of bats** **11:00 AM** **Ask Tom: Rants, raves and questions on the DC dining scene** **12:00 PM** **Free Range on Food: Rotisserie chickens, hot peppers, the Barefoot Contessa's new book and more** **12:00 PM** **The Reliable Source Live** **1:00 PM** **Got Plans: Advice from the Going Out Gurus** **2:00 PM** **Web Hostess Live: The latest from the Web**
+**11:00 AM** **Home Front: The Young House Love bloggers join the weekly chat** **11:00 AM** **Tracee Hamilton discusses local and national sports -- and whatever else you want to talk about.** **12:00 PM** **Gardening advice from Adrian Higgins** **1:00 PM** **Got Plans: Advice from the Going Out Gurus** **1:00 PM** **Brad Hirschfield Live: Is being raised by a neo-Nazi a defense against murder charges?** **2:00 PM** **Celebritology Live**
 
 **Weekly schedule, past shows**
 
