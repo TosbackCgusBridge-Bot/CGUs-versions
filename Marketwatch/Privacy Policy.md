@@ -1,4 +1,4 @@
-Bulletin Investor Alert
+Bulletin Exxon Mobil reports lower third-quarter profit and revenue Investor Alert
 
 New York Markets Open in:
 
@@ -198,92 +198,101 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT October 31, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT November 1, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:02a
+/news/latest1.  8:03a
     
-    Evercore affirms overweight rating on Disney
+    BREAKING
     
-2.  8:01a
+    Exxon Q3 net $2.09 vs. $2.13
+    
+2.  8:03a
+    
+    Exxon Q3 profit down 7% to $9.57 billion
+    
+3.  8:03a
+    
+    Exxon Q3 capital costs up 7% to $9.18 bln
+    
+4.  8:01a
+    
+    Target Oct. same-store sales up 2.4%
+    
+5.  8:01a
     
     Updates, advisories and surprises
     
-3.  8:01a
+6.  8:00a
     
-    Disney's $4 bln Star Wars deal praised at Evercore
+    Coming up: U.S. jobless claims, Q3 productivity
     
-4.  7:53a
+7.  7:57a
     
-    UBS AG up 13.6% in premarket after job cuts
+    Bill Barrett sells natgas assets for $335 million
     
-5.  7:50a
+8.  7:55a
     
-    Opnet Technologies up 25% in premarket
+    Estee Lauder profit rises 8%, sales up 3%
     
-6.  7:50a
+9.  7:53a
     
-    GM profit falls, but beats Wall Street estimate
+    Exelon profit falls, issues 2012 view
     
-7.  7:47a
+10.  7:50a
     
-    Big earnings Wednesday: GM, MetLife, MasterCard
+    Thursday’s biggest gaining and declining stocks
     
-8.  7:42a
+11.  7:38a
     
-    GM says Q3 results were 'solid'
+    Exelon hikes adj 2012 view to $2.75-$2.95
     
-9.  7:41a
+12.  7:36a
     
-    GM Q3 revenue $37.6 bln vs. $36.7 bln
+    Bill Barrett sells natural gas assets for $335 mln
     
-10.  7:41a
+13.  7:35a
     
-    GM Q3 net 89c vs. $1.03
+    Estee Lauder Q1 profit 76c vs 70c
     
-11.  7:41a
+14.  7:35a
     
-    GM takes 4c in Q3 special items
+    Estee Lauder sees adj Q2 net of 97c-$1.03
     
-12.  7:40a
+15.  7:31a
     
-    Stock futures higher as Wall Street set to reopen
+    Teva swings to a loss on one-time costs
     
-13.  7:36a
+16.  7:30a
     
-    Garmin Q3 net off 6.7%. adjusted net, revenue up
+    Planned layoffs jump up in October: Challenger
     
-14.  7:30a
+17.  7:30a
     
-    Radio update: Wall Street set for post-Sandy open
+    Limited same-store sales rise 3%, firm ups outlook
     
-15.  7:21a
+18.  7:30a
     
-    Wednesday’s biggest gaining and declining stocks
+    Radio update: The economic calendar is jammed
     
-16.  7:19a
+19.  7:26a
     
-    Gold edges higher as dollar weakens
+    Oil futures inch up ahead of U.S. data
     
-17.  7:06a
+20.  7:22a
     
-    Oil futures up for second day in Sandy’s wake
-    
-18.  7:05a
-    
-    Garmin Q3 FactSet view net 61c, revs $662.3M
-    
-19.  7:05a
-    
-    Garmin Q3 revenue $672.4M vs $667M
-    
-20.  7:01a
-    
-    How to avoid the consequences of QE3
+    Dollar edges higher ahead of data deluge
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,107.21 +3.53 +0.03% nasdaq /quotes/zigman/123127 2,987.95 +1.83 +0.06% s&p 500 /quotes/zigman/3870025 1,411.94 -1.03 -0.07% Kiosk
+dow /quotes/zigman/627449 13,096.46 -10.75 -0.08% nasdaq /quotes/zigman/123127 2,977.23 -10.72 -0.36% s&p 500 /quotes/zigman/3870025 1,412.16 +0.22 +0.02% Kiosk
 
+*   1341573300000 1341592200000
+    
+    From Fox Business
+    
+        Dave ramsey  
+    Should I 'dumb down' my resume?  
+    A reader is recently unemployed and wonders whether or not listing his master's degree is hurting his chances at lower-paying positions.  /conga/kiosk/marketfox.html 233397
 *   1238817600000 1270353600000
     
     Cars
@@ -298,6 +307,13 @@ dow /quotes/zigman/627449 13,107.21 +3.53 +0.03% nasdaq /quotes/zigman/123127 2,
         Big storms, small impact  
     In the short term, storms like Hurricane Sandy can cause serious economic damage, but the negative impact rarely lasts for long.  
     /conga/kiosk/capitol-report.html 233139
+*   1330965900000 1330992600000
+    
+    The Trading Deck
+    
+      nigam arora  
+    How to play 20 hurricane stocks  
+    The storm that battered the East Coast has hit the markets in more ways the one. But what does it mean for investors and their portfolios?  /conga/kiosk/trading-deck-4.html 233399
 *   1339754400000 1340010000000
     
     Investing
@@ -311,12 +327,6 @@ dow /quotes/zigman/627449 13,107.21 +3.53 +0.03% nasdaq /quotes/zigman/123127 2,
     13 cities going broke  
     Stockton, Calif., (left) tops the list of U.S. cities in dire financial straits. See what other areas are drowning in recession-induced red ink.  
     /conga/kiosk/wildcard2.html 232912
-*   1343988600000 1344810900000
-    
-    U.S. Week Ahead
-    
-    Jobs data, earnings    
-    Important October monthly jobless data on tap in addition to corporate earnings, reports MarketWatch's Polya Lesova. /conga/kiosk/video2.html 232930
 
 MarketWatch.com
 
