@@ -104,15 +104,15 @@ We reserve the right to update or modify this Privacy Policy, at any time and wi
 
 Follow UsTwitter
 
-*   Tony Lucca, Justin Hopkins have bright post-'The Voice' futures t.co/oBgsE0qx
+*   Click if you need the smile today: t.co/X18iURXo #heartwarming
     
-    1 hour ago
-*   Southeast U.S. on guard after Hurricane Sandy slams Cuba, moves north: Hurricane Sandy left its mark on Cuba Thu... t.co/HCznR5BT
+    39 minutes ago
+*   Wreck-It Ralph release celebrations planned by Iowa city, gamers nationwide t.co/r6j3OOKU
     
-    1 hour ago
-*   Riggs climbs into No. 92 truck at Martinsville t.co/cG5zWmQV
+    40 minutes ago
+*   We know who @REALStaceyDash wants for president, but how about Joss Whedon, Kid Rock, and Katy Perry? t.co/oGQ5b4aJ
     
-    2 hours ago
+    47 minutes ago
 
 © 2006-2012 Clarity Digital Group LLC d/b/a Examiner.com. About examiner.com
 
