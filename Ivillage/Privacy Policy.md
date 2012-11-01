@@ -1,6 +1,5 @@
 Sign in | Join Now Hi, User! Edit Profile | Sign Out Want more iVillage? Sign up for our Newsletters iVillage
 
-*   iVote
 *   HOLIDAILY
 *   Challenges
 *   Videos
@@ -251,6 +250,7 @@ Search iVillage.com Search
             *   Tools
             *   Community
             *   Great Skin!
+            *   Stress-Free Holiday
     *   Love &. Sex
         *   *   Topics &. Conditions
             *   Ask The Experts
@@ -311,7 +311,7 @@ Search iVillage.com Search
         *   *   DIY Beautify
 *   Food
     *   Recipes
-        *   *   Halloween
+        *   *   Thanksgiving Recipes
             *   The Creative Kitchen
     *   Table Talk
     *   For Kids
