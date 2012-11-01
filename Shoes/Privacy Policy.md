@@ -25,6 +25,15 @@ all Search
 *   brands
 *   sale
 
+\*Details Shop: women | men | girls | boys Extra 25% Off Sale Shoes ×
+
+*   Add any sale-priced footwear to your shopping cart
+*   Enter promo code 25SALE at checkout to receive discount
+*   Discount will be deducted from your order after code is applied
+*   Promo code expires 11:59 p.m. CST November 5, 2012
+
+Excludes bags, wallets, apparel and all regular-priced footwear. Offer may be modified or discontinued at any time without notice.
+
   CUSTOMER SERVICE
 
 *   Customer Service
