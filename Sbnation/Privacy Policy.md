@@ -129,4 +129,4 @@ Your privacy is important to us and we have prepared this Privacy Policy to expl
 *   Browse Blogs
 *   Contact Us
 
-SBNU v1.0.3, October 17, 2012 Guiding Principles - Terms of Use - Privacy Policy 2012 Vox Media, Inc. All Rights Reserved
+SBNU v1.0.4, October 31, 2012 Guiding Principles - Terms of Use - Privacy Policy 2012 Vox Media, Inc. All Rights Reserved
