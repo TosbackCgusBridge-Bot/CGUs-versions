@@ -159,11 +159,11 @@ Experience the New Era in Computing>.
 *   Client Computing in the Cloud
 *   Client Security
 *   Cloud Security
+*   Consumerization
 *   Data Center Design for Cloud Computing
 *   Desktop Virtualization
 *   IT Efficiency with Intelligent PCs
 *   Mission Critical Computing
-*   Mobile Computing
 *   Remote Support
 *   RISC Migration
 
@@ -173,11 +173,11 @@ Experience the New Era in Computing>.
 *   Higher Education
 *   Education Technology Advisor
 
-Go Fast, Go Smart, Go Big: Big Data Analytics with Intel
+Putting Consumerization to Work in the Enterprise
 
-Count on Intel for the technology, guidance, and vision to make big data work for you.  
+Best practices for supporting employee-owned devices and selecting the right employer-provided devices.  
   
-Learn about Big Data Analytics >.
+Rethink Your Approach to Consumerization with Intel>.
 
 *   Business Use
 *   Embedded Customers
@@ -296,7 +296,7 @@ Get Laptop and Desktop Support >.
 
 Unfold What’s Possible
 
-Intel uses origami to show how a PC can help you create, enjoy and explore amazing new things. The only thing more amazing than Intel® technology is what you’ll do with it.  
+Intel uses origami to show how a PC can help you create, enjoy and explore amazing new things. The only thing more amazing than Intel technology is what you’ll do with it.  
   
 See for yourself>.
 
@@ -406,17 +406,18 @@ Intel® Online Privacy Notice Intel is committed to respecting your privacy. Our
     *   Related Topics
     *   Related Products
     
-    *   Intel Export Compliance
+    *   Contact Us: Privacy
         
-        Intel export compliance adheres with business, laws, and regulations that govern trade.
+        Complete this form with feedback and an Intel representative will promptly respond by e-mail.
         
     *   Intel Public Policy
         
         Intel public policy promotes innovation worldwide.
         
-    *   Intel Terms of Use
+    *   Intel Human Rights...
         
-        Intel Terms of Use include description for using the Intel Corporation ("Intel") web sites and materials.
+        Summarizes Intel's position on key human rights issues and embodies common principles laid out by...  
+        Preview | Download
         
     *   Trademarks
         
