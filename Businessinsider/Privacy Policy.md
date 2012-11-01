@@ -1,10 +1,3 @@
-Oct. 2, 2007, 5:27 PM | 7,643
-
-*   Email
-*   More Share on Tumblr
-
-Tweet Email Share on Tumblr
-
 Effective Date: This policy was last updated on 6/4/2012.
 
 ****Overview****
