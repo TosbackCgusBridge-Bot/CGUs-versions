@@ -1,8 +1,8 @@
 Privacy Policy JavaScript is disabled in your browser. We recommend that you enable JavaScript to optimize your experience on DIRECTV.com. Learn More
 
-*   DXDTPW12D
-*   3005048442
-*   3061104701
+*   DXDTPW14B
+*   3006170554
+*   3062443265
 *   false
 *   false
 *   false
@@ -13,7 +13,7 @@ Privacy Policy JavaScript is disabled in your browser. We recommend that you ena
 *   false
 *   guest
 
-For the latest Hurricane Sandy information, tune to Ch. 325 or 349. Order Now 1-888-777-2454  |  30 million customers strong!**\*** Based on total number of DIRECTV  
+Service interruption due to Hurricane Sandy: Get the latest info. Order Now 1-888-777-2454  |  30 million customers strong!**\*** Based on total number of DIRECTV  
 customers in the US and Latin America. DIRECTV SATELLITE TELEVISION { "email": "", "securedCustomer": false, "autoLoggedIn": false, "pgwsAuthorized": false } Sign In   Create Account
 
 *   Get DIRECTV for:
