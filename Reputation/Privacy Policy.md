@@ -197,7 +197,6 @@ Send »
     *   Management
     *   Board of directors
     *   Press room
-    *   News
     *   Careers
     *   Testimonials
 *   *   Resource center
@@ -209,4 +208,4 @@ Send »
     *   Contact us
     *   Affiliates
 
-Copyright © 2012 Reputation.com, Inc. | The online reputation management leader | Privacy policy | Terms of use | Page ID: SG X » «
+Copyright © 2012 Reputation.com, Inc. | The online reputation management leader | Privacy policy | Terms of use | Page ID: 1OF X » «
