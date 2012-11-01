@@ -1,117 +1,113 @@
-PGA Tour
+WGC
 
-*   PGA Tour
-    *   CIMB Classic
-*   European Tour
-    *   BMW Masters
+*   WGC
+    *   WGC - HSBC Champions
 *   LPGA
-    *   Sunrise LPGA Taiwan Championship...
+    *   Mizuno Classic
 *   Champions Tour
-    *   AT&T Championship
-*   Web.com Tour
-    *   Web.com Tour Championship at TPC...
+    *   Charles Schwab Cup Championship
 *   Titleist On Tour
 
-CIMB Classic View Leaderboard >.
+WGC - HSBC Champions View Leaderboard >.
 
-*   1
-*   N.Watney
-*   \-22
+*   T1
+*   L.Oosthuizen
+*   \-7
 *   F
 
-*   T2
-*   R.Garrigus
-*   \-21
+*   T1
+*   A.Scott
+*   \-7
 *   F
 
-*   T2
-*   B.Van Pelt
-*   \-21
+*   T3
+*   P.Hanson
+*   \-6
 *   F
 
-*   T4
-*   B.de Jonge
-*   \-19
+*   T3
+*   S.Lowry
+*   \-6
 *   F
 
-*   T4
-*   C.Kirk
-*   \-19
+*   T3
+*   P.Mickelson
+*   \-6
 *   F
 
-*   T4
-*   T.Woods
-*   \-19
+*   T3
+*   B.Watson
+*   \-6
 *   F
 
-*   7
-*   C.Pettersson
-*   \-18
+*   T7
+*   D.Johnson
+*   \-5
 *   F
 
-*   8
-*   J.Kruger
-*   \-17
+*   T7
+*   P.Meesawat
+*   \-5
 *   F
 
-*   9
-*   P.Perez
-*   \-16
+*   T9
+*   T.Aiken
+*   \-4
 *   F
 
-*   T10
-*   G.Bhullar
-*   \-15
+*   T9
+*   L.Donald
+*   \-4
 *   F
 
-*   T10
-*   B.Harman
-*   \-15
-*   F
-
-*   T10
-*   K.Na
-*   \-15
-*   F
-
-*   T10
-*   S.Piercy
-*   \-15
-*   F
-
-*   T14
-*   B.Crane
-*   \-14
-*   F
-
-*   T14
-*   S.Noh
-*   \-14
-*   F
-
-*   T16
-*   G.Chalmers
-*   \-13
-*   F
-
-*   T16
+*   T9
 *   J.Dufner
-*   \-13
+*   \-4
+*   F
+
+*   T9
+*   I.Jang
+*   \-4
+*   F
+
+*   T9
+*   M.Kaymer
+*   \-4
+*   F
+
+*   T9
+*   S.Piercy
+*   \-4
+*   F
+
+*   T9
+*   A.Wu
+*   \-4
 *   F
 
 *   T16
 *   B.Haas
-*   \-13
+*   \-3
 *   F
 
 *   T16
-*   J.Overton
-*   \-13
+*   P.Lawrie
+*   \-3
 *   F
 
 *   T16
-*   J.Senden
-*   \-13
+*   I.Poulter
+*   \-3
+*   F
+
+*   T19
+*   E.Els
+*   \-2
+*   F
+
+*   T19
+*   S.Hend
+*   \-2
 *   F
 
 *   **FULL LEADERBOARD**
@@ -120,11 +116,9 @@ Prev Next
 
 *   Scores View all tours &. Tournaments Tournaments
     
-    *   CIMB Classic
-    *   BMW Masters
-    *   Sunrise LPGA Taiwan Championship 2012
-    *   AT&T Championship
-    *   Web.com Tour Championship at TPC Craig Ranch
+    *   WGC - HSBC Champions
+    *   Mizuno Classic
+    *   Charles Schwab Cup Championship
     
     Tours
     *   PGA Tour
@@ -284,15 +278,16 @@ Prev Next
 
 *   Grill Room
 
+*   Big Break Greenbrier
+*   Ray Beaufils
+*   WGC HSBC Champions
+*   Keegan Bradley
+*   Phil Mickelson
 *   Morning Drive
-*   Web.com Tour
-*   FedEx Cup
-*   Rory McIlroy
-*   Tiger Woods
-*   Masters Tournament
-*   AT&T National
-*   Luke Donald
-*   LPGA Tour
+*   PGA Tour
+*   Adam Scott
+*   Nick Faldo
+*   Martin Kaymer
 
 **Privacy Policy**
 
@@ -533,7 +528,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 234,107 facebook.com/GolfChannel 121,365 twitter.com/GolfChannel Newsletter
+Social 234,178 facebook.com/GolfChannel 121,467 twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
