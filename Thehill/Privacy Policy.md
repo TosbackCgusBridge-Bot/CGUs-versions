@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Gov. Christie praises Obama's response to Hurricane Sandy as ‘outstanding’Campaign to resume WednesdayPresidential race just got tighter in election ground zero — OhioGoogle's data-collecting habits drawing more scrutinyBush's 'Brownie' criticizes Obama on Sandy
+Opinion: Here comes the landslideObama, Romney set to re-emerge, return to campaign trail after Hurricane SandyReturning to the fundamentals GoDaddy suspends GOP ad firm's websites for anti-Obama textsChristie shines, Obama leads, Brownie attacks, Romney waffles
 
 Emailed
 
-Presidential race just got tighter in election ground zero — OhioDid Mitt Romney cause Hurricane Sandy?Bush's 'Brownie' criticizes Obama on SandyGoogle's data-collecting habits drawing more scrutinyJoss Whedon says a vote for Romney is a vote for the zombie apocalypse
+Opinion: Here comes the landslideHillary women will save ObamaThe Hill's 2012 Top LobbyistsObama, Romney set to re-emerge, return to campaign trail after Hurricane SandyReturning to the fundamentals
 
 Discussed
 
-International monitors at US polling spots draw criticism from voter fraud groupsTexas sparks international row with election observersObama calls debate prep 'a drag'After Bush v. Gore, Obama, Clinton wanted Electoral College scrappedMore bad news for Mitt Romney
+Texas sparks international row with election observersOpinion: Here comes the landslideObama, Romney set to re-emerge, return to campaign trail after Hurricane SandyMore bad news for Mitt Romney Presidential race just got tighter in election ground zero — Ohio
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Romney to launch final campaign blitz with major Ohio rally Friday
-*   Bloomberg tells Obama not to visit New York
-*   Obama campaign counters Restore Our Future ads in Michigan
+*   Rove predicts Romney victory with at least 279 Electoral College votes
+*   MORNING READ
+*   Poll: Romney, Obama running roughly even in ground game
 
   
 More Briefing Room » Congress Blog
 
-*   Getting to 270
-*   Memo to Washington: Take responsibility for fiscal crisis and fix it
-*   In final stretch, social issues can help Romney
+*   Obstruction in Senate taking its toll on courts
+*   Naval supremacy requires a fleet of sufficient capability and size
+*   A nuclear nightmare
 
   
 More Congress Blog » Pundits Blog
 
-*   Did Mitt Romney cause Hurricane Sandy?
-*   Shelley Berkley fights the good fights
-*   Oil addiction
+*   Conservatives have the winning ideas
+*   Christie shines, Obama leads, Brownie attacks, Romney waffles
+*   The elements
 
   
 More Pundits Blog » Twitter Room
 
-*   Study: President Obama, Ann Romney winning at Pinterest
-*   Obama tweets as Red Cross volunteer
-*   Hurricane Sandy prompts surge of photo sharing
+*   Study: Twitter users add Obama to more lists than Romney
+*   Congress scares up some Halloween tweets
+*   Hurricane Sandy overwhelms campaign policy discussion online
 
   
 More Twitter Room » Hillicon Valley
 
-*   News bites: Twitter, Facebook served as information hubs during storm
-*   California attorney general sends privacy warnings to app makers
-*   Dem: Silicon Valley should back Obama
+*   Comcast offers free WiFi service in affected storm areas
+*   AT&T and T-Mobile share networks in storm-battered areas
+*   Napolitano: US financial institutions 'actively under attack' by hackers
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Sandy not expected to affect gas prices
-*   Bill Clinton, citing Sandy, hits Romney on climate change
-*   Poll: Voters rank candidates’ energy policies over environmental issues
+*   Sandy thrusts climate change into close Mass. Senate race
+*   News bites: Lower prices hit Big Oil’s earnings
+*   US seeks $435M penalty against Barclays over power market trades
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Poll: Obama up 5 points in Ohio, holds narrower leads in Virginia, Florida
-*   Poll: Obama edging Romney nationally with 48-47 advantage
-*   Brown cancels final Massachusetts Senate debate
+*   Latest swing state polls show tight race with slight Obama edge
+*   Poll: Obama, Romney in dead heat at 46-46
+*   Biden reminisces about 2008 loss to Obama in Iowa
 
   
 More Ballot Box » On The Money
 
-*   Sandy wallops the economy
-*   US-Panama trade deal goes into effect Wednesday
-*   Gallup: Confidence in economy highest since 2008
+*   Tax bill set to rise for 30 million households unless Congress acts
+*   IRS pushes back tax deadline for Sandy
+*   Business group says Bowles-Simpson wants too much revenue
 
   
 More On The Money » Healthwatch
 
-*   Kaiser: Savings hard to find in programs for dual-eligibles
-*   Celebs back Obama in 'Yes We Plan' video
-*   Romney surrogate says Roe v. Wade won't be overturned
+*   Second firm recalls drugs in light of meningitis outbreak
+*   House panel demands study on Obama school lunch rules
+*   GAO: Doctors' 'self-referrals' cost Medicare more than $100M
 
   
 More Healthwatch » Floor Action
 
-*   Long Island members says Hurricane Sandy relief must be top priority
-*   House holds moment of silence for those affected by Hurricane Sandy
-*   GOP lawmaker says lack of Christian registered voters a 'disgrace'
+*   Romney helps Senate candidate Rehberg in Mont. TV ad
+*   West Virginia Dems slam Obama's EPA for delaying mining permit
+*   GOP senators: Obama’s battery stimulus cost taxpayers too much
 
   
 More Floor Action » Transportation
 
-*   New York City restores partial ‘fare free’ bus service
-*   Pilots: Deal with American Airlines still possible
-*   GM: Romney in 'parallel universe' with bailout claims
+*   Obama hits Romney on auto bailout in first Michigan ad
+*   Romney aide: GM, Chrysler 'don't refute anything in our ads'
+*   Hurricane Sandy cancels 19,000 US flights
 
   
 More Transportation » DEFCON Hill
 
-*   Report: New US special forces chief takes reins in Korea
-*   Israeli prime minister says a strike on Iran would calm the Arab world
-*   DOD, National Guard deploy in force to aid Hurricane Sandy relief effort
+*   Watchdog: Afghans 'incapable' of maintaining military bases after US pullout
+*   Dem think tank: Cut $1T from defense — but not through sequestration
+*   Graham turns up heat on Tunisia over terror suspect
 
   
 More DEFCON Hill » Global Affairs
 
-*   Both Romney, Obama supporters seek to score points with Jewish voters on Iran
-*   Pro-Democrat Jewish group ties Romney investments to Iran
-*   Britain urges 'major push' by next US president on Israel-Palestine
+*   Iowa is second state to forbid international observers at elections
+*   Hillary Clinton calls for Syrian opposition shake-up
+*   State condemns Bahrain's crackdown on political demonstrations
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Markos Moulitsas Senate GOP botches 2012 Dick Morris Here comes the landslide More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Brent Budowsky Hillary women save Obama Mark Mellman Back to election basics More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
