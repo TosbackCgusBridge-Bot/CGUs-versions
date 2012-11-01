@@ -233,11 +233,11 @@ Editorial Staff
     Assistant Editor  
     Email
 
-*   Israel
+*   Military
 *   Business
 *   Jobs
-*   Military
-*   Economy
+*   China
+*   Crime
 
 What is this? Sections
 
