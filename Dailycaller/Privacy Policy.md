@@ -1,4 +1,4 @@
-**TRENDING** MITT ROMNEY | BARACK OBAMA | TAMMY BALDWIN | GEORGE LUCAS | STAR WARS | SCOTT BROWN
+**TRENDING** MITT ROMNEY | CHRIS CHRISTIE | JERSEY SHORE | CONSUMER REPORTS | JOE BIDEN | HALLOWEEN
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  MoveOn, Michael Moore: Old people will 'cock punch' Mitt Romney if he wins Newt: Networks may have W.H. emails that called off Benghazi rescue \[VIDEO\] The presidential race is over, cue the conspiracy theories    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  **LATIN LOVER** Obama's inauguration reverend: All whites are going to hell Limbaugh: 'Christie has decided to play the role of a Greek column' for Obama \[AUDIO\]    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-Romney invades Pennsylvania: Will Andrew Sullivan’s head explode? 12:45 PM 10/30/2012 Krauthammer: Did Sandy stop the Mitt-mentum? 11:02 AM 10/30/2012 Bill Clinton knows exactly what he’s doing 6:23 PM 10/30/2012 And now, some jokes about Hurricane Sandy and binders full of women 2:21 PM 10/30/2012 Is welfare Romney’s clincher? 6:16 AM 10/31/2012 The Birth Certificate 4-Step 5:13 PM 10/30/2012 Leaders with Ginni Thomas: Filmmaker Curtis Bowers 9:45 PM 10/28/2012 Why does the left attract more young people? \[VIDEO\] 8:50 PM 10/27/2012 50 of the sluttiest possible Halloween costumes \[SLIDESHOW\] 4:07 PM 10/30/2012 10 animals that were prepared for Hurricane Sandy \[SLIDESHOW\] 12:25 PM 10/30/2012 Hurricane Sandy pummels New York City \[SLIDESHOW\] 9:28 AM 10/30/2012 America’s most haunted college campuses: The definitive list \[SLIDESHOW\] 12:55 AM 10/30/2012 See More Why don’t white liberals vote for black politicians? 6:25 PM 10/24/2012 Obama at Hofstra: Relatively alert, ergo big winner 8:06 PM 10/17/2012 Ask Matt Labash: The joys of self-entitlement programs, undecided voters — an un-appreciation, and Lizard Kings 12:43 AM 10/24/2012 Videos Contests Sections
+Ask Matt Labash: Hurricane Sandy lifestyle adjustments 2:19 AM 11/01/2012 On hating Nate Silver 1:59 PM 10/31/2012 What’s Chris Christie up to? 9:57 AM 10/31/2012 The reverend who gave Obama’s inaugural benediction thinks all white people are going to Hell 6:39 PM 10/31/2012 Biden: “As they say in my business, I’m gonna give you the whole load today” 2:26 PM 10/31/2012 Is welfare Romney’s clincher? 6:16 AM 10/31/2012 The Birth Certificate 4-Step 5:13 PM 10/30/2012 Leaders with Ginni Thomas: Filmmaker Curtis Bowers 9:45 PM 10/28/2012 Why does the left attract more young people? \[VIDEO\] 8:50 PM 10/27/2012 First world problems: Hurricane Sandy edition \[SLIDESHOW\] 2:27 AM 11/01/2012 ‘Eli Manning looking at things’ goes viral \[SLIDESHOW\] 6:06 PM 10/31/2012 25 wild pumpkin carvings \[SLIDESHOW\] 4:37 PM 10/31/2012 50 of the sluttiest possible Halloween costumes \[SLIDESHOW\] 4:07 PM 10/30/2012 See More Romney is what the country needs now 7:33 PM 10/31/2012 Why don’t white liberals vote for black politicians? 6:25 PM 10/24/2012 Videos Contests Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   The 99% Halloween: Redistributing candy to make an anti-tax argument \[VIDEO\]
-*   NFL cheerleader who had sex with student may get own reality show
-*   Bill Clinton knows exactly what he’s doing
+*   Obama’s inauguration reverend: All whites are going to hell
+*   Romney is what the country needs now
+*   The reverend who gave Obama’s inaugural benediction thinks all white people are going to Hell
 
 Corporate
 
