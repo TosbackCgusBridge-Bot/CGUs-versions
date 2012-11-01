@@ -78,6 +78,7 @@ Skip Navigation
         *   Haunted Saloon
         *   Lodge Christmas Dinner
         *   Hanukkah
+        *   Champagne New Year
         *   Barn
         *   Easter Brunch
         *   Spooky Halloween
@@ -190,6 +191,7 @@ Skip Navigation
     
     Great Deals
     
+    *   Dining Event
     *   Delivery Discounts
     *   Sale
     
@@ -262,13 +264,13 @@ Skip Navigation
     
     Great Deals
     
+    *   Persian-Style Rug Sale
     *   8 x 10' Rugs $499 &. Under
-    *   Rug Event
     *   Sale
     
-    Rug Sale
+    Persian-style Rug Sale
     
-    Save 15% on all wool rugs for a limited time.
+    Up to 20% off our favorite Persian-style rugs through November 14th.
     
     Shop Now 
     
@@ -393,6 +395,7 @@ Skip Navigation
     
     Great Deals
     
+    *   Lighting Event
     *   Lighting $99 &. Under
     *   Free Shipping
     *   Sale
@@ -450,7 +453,6 @@ Skip Navigation
     
     *   What's New
     *   Fall Decorating &. Entertaining Guide
-    *   Halloween Decor
     *   Thanksgiving Decor
     *   Holiday Decor
     *   Vintage Finds
@@ -494,13 +496,6 @@ Skip Navigation
     *   Antique-Silver
     *   Galvanized
     
-    Kitchen Collections
-    
-    *   Vintage Blacksmith
-    *   Rhodes
-    *   Antique Silver
-    *   Cucina
-    
     Glassware Collections
     
     *   Schott Zweisel
@@ -508,10 +503,16 @@ Skip Navigation
     *   PB Classic
     *   Caterer's Box
     
+    Kitchen Collections
+    
+    *   Vintage Blacksmith
+    *   Rhodes
+    *   Antique Silver
+    *   Cucina
+    
     Features
     
     *   What's New
-    *   Halloween Entertaining
     *   Thanksgiving Entertaining
     *   Holiday Entertaining
     *   Home Bartender
@@ -521,10 +522,11 @@ Skip Navigation
     
     Great Deals
     
+    *   Tabletop Essentials Sale
     *   Free Shipping
     *   Sale
     
-    Thanksgiving Feast
+    Limited Time Offer
     
     Special savings on select entertaining essentials.
     
@@ -532,7 +534,6 @@ Skip Navigation
     
 *   Holiday Shop by Holiday
     
-    *   Halloween
     *   Thanksgiving
     *   Hanukkah
     *   Christmas
@@ -631,7 +632,6 @@ Skip Navigation
     
     Gift Services
     
-    *   Letterpress Greeting Cards
     *   Exclusive Gift Wrap
     *   Give a Gift Card
     *   Shipping Information
@@ -651,7 +651,7 @@ Skip Navigation
     *   Top Registry Ideas
 *   Sale Limited Time Offers
     
-    *   Rug Event
+    *   Dining Event
     *   Free Shipping
     
     Shop By Category
@@ -675,9 +675,9 @@ Skip Navigation
     *   Bathroom
     *   Home Office
     
-    Halloween Sale
+    Dining Event Savings
     
-    New markdowns on seasonal decor, while supplies last!
+    Up to 20% off select dinnerware, furniture, lighting &. rugs through November 14th.
     
     Shop Now 
     
