@@ -139,7 +139,6 @@ Support
     *   Customer Experience Management
 *   Company
     *   Clients
-    *   Careers
     *   News &. Events
     *   Press Releases
     *   Support
@@ -148,5 +147,4 @@ Copyright © 2012 MarketTools, a MetrixLab Company. All rights reserved.
 
 *   Sitemap
 *   Customer Support
-*   Careers
 *   Privacy Policy
