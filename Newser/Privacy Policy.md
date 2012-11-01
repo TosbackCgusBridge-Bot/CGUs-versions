@@ -4,14 +4,14 @@
 *   Hot Topics
     *   Hurricane Sandy
     *   Election 2012
-    *   New York City
-    *   President Obama
-    *   severe weather
-    *   entertainment
-    *   hurricane
     *   Mitt Romney 2012
     *   Obama 2012
+    *   President Obama
+    *   Mitt Romney
+    *   entertainment
+    *   New York City
     *   New Jersey
+    *   severe weather
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -120,57 +120,57 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   The Case for Price Gouging
-*   Change Newspapers Can Believe In
-*   Massachusetts Vote May Change How the Nation Dies
+*   Why Should Foreigners Care Who Wins the White House?
+*   The Exoneration of Drayton Witt
+*   It's Beginning To Look a Lot Like Apple
 
 More from Slate »
 
-*   GIVE ME AN A!
-*   Drug Bust: Mom Convicted For Marijuana In Breast Milk
-*   Woman Drunkenly Tries To Save Ducks During Storm, Gets...
+*   NO R.I.P.
+*   Octomom Goes To Rehab
+*   SAUCED! Ravioli 'Thief' Caught Red-Faced
 
 More from HuffPost Weird »
 
-*   Ladies, Skrillex Is On The Market Again, I Repeat, Skrillex...
-*   Ryan Gosling Pays Surprise Visit To Deaf School Fundraiser
-*   Today’s Lady News: Reader Submission Edition
+*   Don’t Worry, Everyone, “Saturday Night Live” Is Still On...
+*   It’s The Rap Coloring Book!
+*   D.L. Hughley On Black Women: “Angry All The Time”
 
 More from The Frisky »
 
-*   JFK and Newark airports to re-open Wednesday, LaGuardia...
-*   Can we get this year's Halloween / spooky story thread...
-*   Congratulations, Twitter user comfortablysmug, the...
+*   The world's best job, especially if your coworkers are...
+*   Thanks to Hurricane Sandy you will soon be seeing $5 per...
+*   This week's samurai sword stabbing brought to you by...
 
 More from Fark »
 
-*   @ComfortablySmug: How one Twitter user became Hurricane...
-*   The deadly wrath of Hurricane Sandy: By the numbers
-*   The craziest, most nail-biting elections in U.S. history
+*   Obama vs. Romney: 6 signs the momentum is shifting
+*   6 ways Hurricane Sandy affected the entertainment world
+*   Hurricane Sandy: A letter from The Week's editor
 
 More from The Week »
 
-*   Liveblog: Hurricane Sandy’s Terrible Toll
-*   Sandy's Biggest Twitter Troll Apologizes, But Won't Find...
-*   New York Lost Some Very Valuable Mice to Sandy, But Not its...
+*   Chris Christie Won't Tolerate Long Showers, Questions About...
+*   GOP Candidate Squeezes in One Last Offensive Remark on the...
+*   New Yorkers Have Forgotten How to Use Payphones
 
 More from Daily Intel »
 
-*   _Hurricane Sandy_
-*   Why Chocolate Makes You Smarter
-*   Moving On
+*   Creepy Ingredients Lurking In Your Halloween Candy
+*   The Trick to Managing the Treats
+*   Heel, Mid-foot or Forefoot Strike: Are We Missing the Point?
 
 More from HuffPost Health »
 
-*   Twitter Abuzz With Superstorm Sandy Photos: East Coast...
-*   Heidi Klum Cancels Her Annual Halloween Party Due to...
-*   Miranda Kerr Voted 'Sexiest Woman Alive' by 'Esquire' UK:...
+*   Evan Rachel Wood Marries Jamie Bell
+*   'Terminator 2' Actor Edward Furlong Arrest Is a...
+*   Lady Gaga Feels the Most Like Herself ‘In the Bath, Naked,...
 
 More from Celebuzz »
 
-*   Portrait: Mekanism
-*   Best Craigslist Post Ever, for a Used Samsung Galaxy Note,...
-*   Wieden + Kennedy Seeks Help on Old Spice in Crazy, Epic Job...
+*   Perspective: Check, Please
+*   Six Questions Eric Johnson
+*   AT&T Ghostbombs Its Own TV Commercial for Halloween
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
