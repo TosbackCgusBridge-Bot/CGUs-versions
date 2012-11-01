@@ -169,7 +169,7 @@ Corporate
 *   Investor Relations  |  
 *   Privacy  |  
 *   Terms of Use  |  
-*   Subscription Terms of Use  |  
+*   Subscription Terms  |  
 *   Community Guidelines
 
 Copyright © 2012 Trulia, Inc. All rights reserved.   |   Fair Housing and Equal Opportunity Have a question? Visit our Help Center to find the answer
