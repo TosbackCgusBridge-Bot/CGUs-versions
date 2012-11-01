@@ -42,7 +42,6 @@ search all categories Expand List
 *   men
 *   musical instruments &. karaoke
 *   party supplies &. holidays
-*   patio
 *   pet care
 *   school &. office supplies
 *   scrapbooking &. photo
@@ -57,14 +56,14 @@ Search
 *   baby Expand baby
 *   kids Expand kids
 *   home Expand home
+*   kitchen Expand kitchen
 *   furniture Expand furniture
-*   patio Expand patio
 *   electronics Expand electronics
-*   entertainment Expand entertainment
+*   video games Expand video games
 *   toys Expand toys
 *   health &. beauty Expand health &. beauty
-*   halloween Expand halloween
-*   see more Expand see more
+*   christmas Expand christmas
+*   more Expand more
 
 daily deals. one day only. always free shipping.
 
