@@ -16,9 +16,10 @@
 
 *   Microsoft
 *   iPhone 5
-*   Music
+*   Hurricane Sandy
 *   Politics
 *   YouTube
+*   Deathwatch
 
 *   About
 *   Contact
