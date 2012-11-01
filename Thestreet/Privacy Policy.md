@@ -85,13 +85,15 @@ A NOTE FROM JILL MALANDRINO
 
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
-*   Hurricane Sandy in Pictures
-*   NY Airports Closed
-*   Disney Acquires Lucasfilm
-*   To Our Newsletter Subscribers
-*   Kass
+*   Hurricane Sandy
+*   Make Money With Money
+*   Disney-Lucasfilm
+*   Gold
+*   Biotech Earnings
+*   LaGuardia Airport
+*   Netflix
 
-pjava03.dc.thestreet.com Privacy Policy
+pjava04.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -246,7 +248,7 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,107.21 3.53 0.03% NASDAQ 2,987.95 1.83 0.06% S&P 500 1,411.94 -1.03 -0.07% US 10 Yr 1.750% -0.078 Brokerage Partners Most Commented
+DOW 13,096.46 -10.75 -0.08% NASDAQ 2,977.23 -10.72 -0.36% S&P 500 1,412.16 0.22 0.02% US 10 Yr 1.686% -0.064 Brokerage Partners Most Commented
 
 *   'Put the White Back in the White House'?
 *   Yes, Apple Can Kill Microsoft Office
@@ -254,7 +256,7 @@ DOW 13,107.21 3.53 0.03% NASDAQ 2,987.95 1.83 0.06% S&P 500 1,411.94 -1.03 -0.07
 *   10 Cult TV Shows Netflix Should Revive
 *   10 Worst Cars of All Time
 
-Articles From Newser Eurozone Unemployment Hits Record 11.6% Ad Fail? American Apparel Pushes a Sandy Sale Disney Buys Lucasfilm, Plans New Star Wars Movie See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Craigslist's New Classified Rival: Facebook Carl Icahn Buys 10% Stake in Netflix Nonprofit May Have Misled IRS on Big Donor See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
