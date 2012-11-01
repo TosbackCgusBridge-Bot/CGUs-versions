@@ -354,7 +354,7 @@ Customer Service
 
 Contact Us
 
-100 Day Return Policy
+Return and Exchange Policy
 
 Shipping Information
 
