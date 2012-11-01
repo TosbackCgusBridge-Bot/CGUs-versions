@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Wednesday 31 October 2012
+Thursday 01 November 2012
 
 *   Home
 *   News
@@ -134,34 +134,36 @@ _This Policy was last updated on May 24, 2012_.
 
 In About us
 
-  Telegraph launches Mobile Apps for iPhone and Android   Contact the Telegraph   Telegraph Subscriber   Privacy and Cookie Policy   Awards for the Telegraph   Advertisement Advertisement Advertisement
+  Telegraph launches Mobile Apps for iPhone and Android   Contact the Telegraph   Telegraph Subscriber   Privacy and Cookie Policy   Awards for the Telegraph   Advertisement Advertisement
+
+Contact Us »
+
+Problems with the Telegraph for iPad? Call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Journey to the centre of our flatpack planet   
+'Will I slide back into depression?’  
 
-As Ikea celebrates its 25th anniversary in Britain, **Harry Wallop** pilgrimages to its Swedish HQ
+The tragic case of the mother who killed her two young children reminds **Erin Baker** of her own post-natal despair
 
 Comments
 
-Another scare story about cancer Germaine Greer on 21st century 'witches' The yum yum lives up to its name India loves KP, the great entertainer Advertisement
+Leonard Cohen's hallelujah moment Paul Hayward: farewell, Kauto Star British banks needed bigger bailouts Clive James on why Brad Pitt stinks Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
-US News   Hurricane Sandy: live coverage View DUNHILL TRAVEL DEALS   Most competitive travel deals and vacation packages View Telegraph for iPad free trial   Try The Telegraph for iPad free for 30 days View FREE PRIZE DRAW TO WIN £1,000   Share with us your favourite place in the world and win £1,000 View
+DUNHILL TRAVEL DEALS   Most competitive travel deals and vacation packages View US News   Hurricane Sandy: live coverage View FREE PRIZE DRAW TO WIN £1,000   Share with us your favourite place in the world and win £1,000 View Telegraph for iPad free trial   Try The Telegraph for iPad free for 30 days View
 
 Back to top
 
 Hot Topics
 
 *   Jimmy Savile
-*   UK Economy
+*   Superstorm Sandy
 *   US Election
 *   Syria
 *   Weather
 *   Football
-*   Cycling
-*   Wonder Women
 *   More...
 
 *   News
