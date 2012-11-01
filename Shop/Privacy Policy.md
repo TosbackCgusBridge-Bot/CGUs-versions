@@ -48,6 +48,7 @@ Shop by Brand
 *   Qupid
 *   Rip Curl
 *   Roxy
+*   RVCA
 *   Steve Madden
 *   Vigoss
 *   Volcom
@@ -277,10 +278,11 @@ Don't miss Men's Women's Men's
 *   Accessories
 
 *   New Offers
-*   Mix-N-Match Tops
+*   Tees
+*   V-Neck &. Crew Tees
+*   Fox Fleece
 *   Bullhead Denim &. Pants
 *   Levi's Denim
-*   Backpacks
 *   Sunglasses
 *   Markdowns
 
@@ -296,11 +298,11 @@ Women's
 *   Accessories
 
 *   New Offers
-*   Mix-N-Match Tops
-*   Fashion Tops
+*   Tees, Tanks &. Knits
+*   Branded Fleece
 *   Dresses &. Skirts
-*   Branded &. Basic Denim
 *   Bullhead Black Denim
+*   Denim, Skirts &. Shorts
 *   Camis
 *   Essential Tops
 
