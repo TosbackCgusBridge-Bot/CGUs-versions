@@ -1,11 +1,10 @@
 American Greetings
 
-*   help
-*   find a retailer
-
 *   member benefits
-*   Sign In or
-*   Join Now
+*   find a retailer
+*   Sign In
+*   or Join Now
+*   *   Facebook Login
 
   
 sign in
@@ -19,25 +18,19 @@ forgot your password?
 remember me on this computer  
 (recommended unless you are using a public computer) Yahoo! Greetings Member? Click here for information about your membership.  
 
-*   Login to Facebook
+Welcome to American Greetings
 
-become a fan AG twitters!
-
-*   Birthday
-    *   birthday ecards
-    *   printable birthday cards
-    *   birthday personalized paper cards
-    *   shop the card aisle birthday cards
 *   ecards
     
     Innovative ecards to send, share or post
     
     *   **Holidays**
-    *   halloween
     *   election day
     *   veterans day
     *   diwali
     *   thanksgiving
+    *   hanukkah
+    *   christmas
     *   view all holidays >
     
     *   **Occasions**
@@ -68,9 +61,11 @@ become a fan AG twitters!
     Create and print cards from your home computer.
     
     *   **Holiday**
-    *   halloween
     *   veterans day
     *   thanksgiving
+    *   hanukkah
+    *   christmas
+    *   season's greetings
     *   view all holidays >
     
     *   **Occasions &. Invitations**
@@ -88,14 +83,14 @@ become a fan AG twitters!
     *   sympathy
     *   thank you
     *   wedding &. engagementview all printable cards >.
-*   Personalized Paper Cards
+*   Paper Cards
     
     Personalize cards with a message or photo, professionally printed and mailed
     
     *   **Holidays**
-    *   halloween
     *   thanksgiving
     *   christmas
+    *   hanukkah
     *   view all holidays >
     
     *   **Occasions**
@@ -116,51 +111,16 @@ become a fan AG twitters!
     *   **Featured Artist &. Brands**
     *   taylor swift
     *   kathy davisview all paper cards >.
-*   Shop the Card Aisle
-    
-    Shop paper cards online
-    
-    *   **occasions**
-    *   birthday
-    *   thank you
-    *   view all greeting cards >
-    
-    *   **box sets &. stationery**
-    *   greeting card assortments
-    *   boxed stationery sets
-    
-    In Stores
-    
-    *   **shop your local retailer**
-    *   what's new in stores
-    *   find a retailer
-    *   couponsView all shop the card aisle cards >.
-*   Free Downloads
-    
-    mobile apps and more
-    
-    *   **apps**
-    *   iphone app
-    *   justWink
-    
-    *   **calendars**
-    *   calendars &. reminders
-    *   card calendar
-    
-    *   what's new
-    *   wallpapers &. screensavers
-    *   stay inspired blog
-*   Search
-    
+
 *   **find it quick**
 *   Ecards Printable Cards
-*   Choose Occasion birthdayhalloweenanniversarybabycongratulationsencouragementfriendshipget wellgood bye &. good luckgraduationi'm sorrylove &. datingmiss yousaying hisupportsympathythank youthinking of youwedding &. engagement
+*   Choose Occasion birthdaythanksgivinganniversarybabycongratulationsencouragementfriendshipget wellgood bye &. good luckgraduationi'm sorrylove &. datingmiss yousaying hisupportsympathythank youthinking of youwedding &. engagement
 *   Choose Recipient
 *   Choose Style
 
 *   **find it quick**
 *   Ecards Printable Cards
-*   Choose Occasion birthdayhalloweenanniversarybabycongratulationsencouragementfriendshipget wellgood bye &. good luckgraduationi'm sorrylove &. datingmiss yousaying hisupportsympathythank youthinking of youwedding &. engagement
+*   Choose Occasion birthdaythanksgivinganniversarybabycongratulationsencouragementfriendshipget wellgood bye &. good luckgraduationi'm sorrylove &. datingmiss yousaying hisupportsympathythank youthinking of youwedding &. engagement
 *   Choose Recipient
 *   Choose Style
 
@@ -376,69 +336,46 @@ We will occasionally update this Privacy Policy in response to changing business
 
 As always, if you have any questions, please feel free to review our FAQ or contact us through our Customer Support Department.
 
-**Products** **ecards**
+**Ecards**
 
-*   Birthday ecards
-*   Christmas ecards
-*   Talking ecards
+*   Birthday
+*   Christmas
 *   Ecard Site Map
 
-**Print Cards at Home**
+**Paper Cards**
 
-*   Birthday Cards
-*   Christmas Cards
-*   Thank You Cards
-*   Printable Cards Site Map
+*   Birthday
+*   Boxed Stationery
+*   New In Stores
 
-**From the Card Aisle**
+**Print at Home**
 
-*   Greeting Card Assortments
-*   Boxed Stationery Sets
-*   Limited Edition Cards
+*   Birthday
+*   Christmas
+*   Print at Home Site Map
 
-**Personalized Paper Greetings**
-
-*   Birthday Greeting Cards
-*   Thank You Greeting Cards
-
-**Mobile Apps &. More**
+**Apps &. More**
 
 *   iPhone App
 *   justWink
 *   Wallpapers &. Screensavers
-*   American Greetings Card Calendar
-*   American Greetings Birthday Calendar
+*   Reminder Calendar
+*   Birthday Calendar
+*   Card Calendar
 
-**What's In Stores**
-
-*   What's New
-*   Find a Retailer
-
-**Customer Service**
-
-*   Member Benefits
-*   Help Center
-*   Give Us Feedback
-*   Contact Us
-
-**Tools**
-
-*   Calendars &. Reminders
-
-**Visit Our Friends**
-
-*   Bluemountain.com
-*   Cardstore.com
-*   Egreetings.com
-
-**Corporate Information**
+**Corporate News**
 
 *   Careers
 *   About American Greetings
 *   Investor Relations
 *   Press Room
-*   Privacy Policy
-*   Terms of Service
 *   Email Protection Resource Center
 
-AmericanGreetings.com is a service of a subsidiary of , Copyright © 1997-2012 AG Interactive, Inc. all rights reserved.
+**Follow Us**
+
+*   Follow Us on Twitter
+*   Like Us on Facebook
+*   Check out our Pins
+*   Stay Inspired Blog
+
+help give us feedback member benefits find a retailer terms of service privacy policy Check out our friends at: Bluemountain.com Egreetings.com Cardstore.com AmericanGreetings.com is a service of AG Interactive, a subsidiary of American Greetings, Copyright © 1997-2012 AG Interactive, Inc. all rights reserved.
