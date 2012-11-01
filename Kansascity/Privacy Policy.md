@@ -134,30 +134,32 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $10 for $20 of Fine Mexican Cuisine and Beverage. Ixtapa in the Northland $10 Value: Discount: You Save: $20 50% $10
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Save Big from Eco-Pure. $99 Carpet, Hardwood, Tile or Furniture Cleaning! Up to $250 Value! $99 Value: Discount: You Save: $200 51% $101
 
-Wednesday: Hen House, HyVee, Price Chopper Deals Hen House
+Thursday: Wal Mart, Sunfresh Deals Wal Mart
 
-*   General Mills Fiber One or Nature Valley Granola Bars 5-10-ct. - 2/$5 or $2.50 each
-*   Campbell’s Condensed Soup 10.5-15.4-oz. - 10/$10 or $1 each
-*   Oscar Mayer Lunchables Lunch Combinations 3.1-4.4-oz. - $1.79
+*   Carmex Lip Balm - $0.98
+*   El Monterey Individually Wrapped Burrito
+*   Reynolds Slow Cooker Liners - $1.87
 *   more...
 
 1.  CAMPAIGN JOBS
     
     Grassroots Campaigns, Inc.
     
-2.  Apartment Maintenance Tech Part Time
+2.  Press &. Lamination Operators
+    
+3.  Apartment Maintenance Tech Part Time
     
     Georgetown Apartments
     
-3.  Apartment Maintenance Helper
+4.  Apartment Maintenance Helper
     
-4.  OPERATING MANAGER
+5.  SEASONAL DRIVERS
     
-5.  SALES
+    Kelly Services
     
-6.  PROGRAM DIRECTOR
+6.  SALES
     
 
 View More The Most
@@ -165,16 +167,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   No candy for you! Experts call for a healthier Halloween
-*   With plenty of newcomers, KU pounds Emporia State
-*   Daboll defends how Chiefs used Charles
-*   Royals Alex Gordon wins second Gold Glove award
-*   Kansas City's codes, ordinances getting tighter
-*   Man found dead under I-35 near downtown
-*   Under Webers wing, K-State beats Washburn 81-61
-*   Leawood man with dementia missing
-*   Recap: LA Lakers vs. Dallas
-*   Joplin family finds cat 18 months after tornado
+*   Sam Mellinger | Royals pickup of Santana is an OK start, but just OK
+*   Man killed in KC’s old Northeast
+*   Judge orders newspaper to reveal name of commenter
+*   Kansas woman sentenced to 15 years for producing child porn
+*   Royals acquire pitcher Ervin Santana from Angels
+*   K-State tries to fend off unscheduled opponent: the BCS
+*   Madonna gives Kansas City an everlasting hello
+*   All defendants guilty in Hereford House arson
+*   Missing Leawood man found safe
+*   Recap: Portland vs. LA Lakers
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
