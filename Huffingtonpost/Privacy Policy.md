@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Hurricane Sandy 2012
+*   Spain
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,23 +10,23 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-October 31, 2012 Edition: **U.S.**
+November 1, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
-*   IT Italy
-*   ES Spain
+*   IT Italia
+*   ES España
 *   US United States
 *   UK United Kingdom
 
 *   FRONT PAGE
 *   Politics
     
-    *   Romney Refuses To Talk About His FEMA Plans41k
-    *   Romney In Debate: Shut Down Federal Disaster Agency23k
-    *   Bush FEMA Director Criticizes Obama For Responding _Too Quickly_ To Hurricane5k
-    *   WATCH: GOP Politicians Attack FEMA1k
-    *   GM Official On Romney Jeep Ad: 'We've Clearly Entered Some Parallel Universe'7k
+    *   New Polls Show Obama's Ohio Edge Holding27k
+    *   Obama, Christie Tour Damage Left By Storm14k
+    *   Romney Relief Effort Under Scrutiny27k
+    *   Romney Refuses To Talk About His FEMA Plans48k
+    *   Romney Plunges Into Democratic Turf8k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ October 31, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   WOW: Sandy Could Rank As Fifth-Costliest Hurricane In History798
+    *   'Nobody Saw It Coming': Hundreds Displaced In New Jersey Describe Fast-Rising Flood88
+    *   B of A Fires Hotshot Exec Over An Omelet?621
+    *   Hospital Defends Failed Generators That Forced Evacuation During Hurricane Sandy251
+    *   Top Selling Halloween Candy Both Surprising And Disgusting 130
     *   Health Insurer Makes Bizarrely Altruistic Move1k
-    *   Hospital Defends Failed Generators That Forced Evacuation During Hurricane Sandy176
-    *   Sandy Power Outages Hit MILLIONS23
-    *   Beyond NYU Hospital, Medical Facilities On East Coast Weathering Sandy
     
     Go to Business **More in Business**
     
@@ -66,10 +66,10 @@ October 31, 2012 Edition: **U.S.**
 *   Entertainment
     
     *   SHOCKER: Disney Buys LucasFilm. New 'Star Wars' Planned2k
-    *   Crew Abandons Ship From 'Pirates Of The Caribbean II,' Caught In Hurricane527
-    *   'Argo' Takes The Number One Spot As 'Cloud Atlas' Flops2k
-    *   Sandy Forces Theater Closings Along East Coast
-    *   Sandy Disrupts New York Entertainment
+    *   Who Should Direct 'Star Wars 7'?138
+    *   Would You Pay $250 For A Rihanna Album?240
+    *   Taylor Swift's 'Red' Sells 1.2 Million Copies216
+    *   There Are Already 'Star Wars: Episode VII' Rumors81
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ October 31, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   Instagram Users Flood Service With Pics From Superstorm
-    *   WATCH: Massive Explosion Rocks Manhattan During Storm27
-    *   INFOGRAPHIC: Millions Without Power On East Coast18
-    *   Superstorm Hits Verizon Users
-    *   WATCH: HuffPost CTO On How Hurricane Sandy Took Down The Huffington Post274
+    *   Instagram Users Flood Service With Pics From Superstorm12
+    *   AT&T, T-Mobile Make Big Announcement In Wake Of Hurricane Sandy272
+    *   WATCH: Massive Explosion Rocks Manhattan During Storm60
+    *   INFOGRAPHIC: New York City's Blackouts
+    *   Here's Why It Takes So Long To Get The Lights Back On413
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ October 31, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
+    *   WATCH: Chris Matthews Flips Out On Climate Change Deniers5k
+    *   Ali Velshi On Hurricane Sandy Coverage: 'I Think The Criticisms Are Well-Intentioned And Fair'297
     *   CNN, Weather Channel Issue Badly False Sandy Report1k
-    *   NYC Newspapers Missing From Post-Sandy Streets
-    *   Morning Shows Cancel Halloween Specials Over Sandy23
-    *   Weather Channel Leads The Pack
-    *   Sandy Media Coverage Shifts From Disaster To Aftermath27
+    *   WATCH: ABC News Producers Ride Out Sandy In Fire-Stricken Area
+    *   Morning Shows Cancel Halloween Specials Over Sandy69
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ October 31, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   Sandy Leaves 145,000 Canadians Without Power
-    *   Child Severely Brain Damaged After Horrific Beating602
-    *   Kim Jong Un's Wife Makes Mystery Appearance130
-    *   Passengers Of Boat Missing In Caribbean Found
-    *   Russian Ship Carrying 700 Tons Of Gold Ore Missing496
+    *   France Deports Radical Tunisian Imam63
+    *   Airport Reopens After WWII Bomb Found80
+    *   Celebratory Gunfire At Wedding Cuts Cable, 23 Electrocuted710
+    *   Sandy Leaves 145,000 Canadians Without Power10
+    *   Chinese Think Tank Urges End To One-Child Policy687
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ October 31, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   'I Lost 76 Pounds, But More Importantly, I Gained My Life Back'11
-    *   11 Facts You Didn't Know About Lefties27
-    *   Hurricane Food Safety: What To Toss And What To Keep After A Power Outage20
-    *   7 Halloween Candies With Scary-Long Ingredient Lists116
-    *   Healthy Food To Stock Up On For A Hurricane
+    *   Creepy Ingredients Lurking In Your Halloween Candy70
+    *   'I Lost 76 Pounds, But More Importantly, I Gained My Life Back'21
+    *   11 Facts You Didn't Know About Lefties42
+    *   Compassion After Sandy: 6 Simple Things You Can Offer To A Friend Without Power
+    *   More Than A Gym: Fitness Clubs Open To Help Those Displaced By Sandy
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -172,11 +172,11 @@ October 31, 2012 Edition: **U.S.**
     *   Religion
 *   Style
     
-    *   PHOTO: Gwyneth Paltrow Tries A Skintight Leather Look138
-    *   PHOTOS: Jennifer Aniston Sports Major Cleavage With Justin Theroux663
-    *   American Apparel Angers Customers With Hurricane Sandy Sale105
-    *   PHOTO: Kate Upton Finally Lands A Vogue Cover (For Vogue Italia, But Still)60
-    *   PHOTOS: J. Crew Uses Photoshop To Carve Out Model's Thighs In E-Commerce Shoot10
+    *   PHOTOS: Queen Elizabeth II Channels Kate Middleton81
+    *   WATCH: Ellen DeGeneres Dresses Up As Sofia Vergara's Wardrobe Malfunction43
+    *   PHOTO: Gwyneth Paltrow Tries A Skintight Leather Look257
+    *   PHOTOS: Reliving Halloween At The White House17
+    *   Angelina Jolie Wedding Dress Designer Revealed45
     
     Go to Style **More in Style**
     
@@ -194,11 +194,11 @@ October 31, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   23 Last-Minute Halloween Costumes
+    *   23 Last-Minute Halloween Costumes107
+    *   WATCH: Not Sure This Was Worth The Risk96
+    *   His Halloween Costume Will Amaze You114
+    *   PHOTO: This Is No Cone Of Shame13
     *   Every Halloween Party Ever
-    *   WATCH: Not Sure This Was Worth The Risk
-    *   Romney's Storm Tips Twitter72
-    *   PHOTO: This Is No Cone Of Shame11
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +215,11 @@ October 31, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next NYC's Rat Refugees
-    *   Next Campaign &. The Climate
-    *   Coming Up Who's In Charge?
-    *   Coming Up Electricity 2.0
-    *   Coming Up Pagans Are People TooGo to HuffPost Live
+    *   Next The Final Punches
+    *   Next Sewage From Sandy
+    *   Coming Up Romney's Bad Budget Past
+    *   Coming Up Black Gold Boom
+    *   Coming Up Faith Beyond SandyGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
