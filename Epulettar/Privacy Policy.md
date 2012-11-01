@@ -215,7 +215,7 @@ work for all - 8th international soft assembly on work and social inclusion for 
 
 munkajogi reggeli: munkaügyi ellenőrzés
 
-típusbútorok a skanzenben
+típusbútor kiállítás megnyitó
 
 állásajánlatok
 
