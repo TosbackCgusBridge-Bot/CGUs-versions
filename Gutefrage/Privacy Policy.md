@@ -193,84 +193,80 @@ Registrieren Login
 **Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Themen der Woche
 
 1.  Halloween
-2.  Kaninchen
-3.  Konzert
-4.  Kostüm
-5.  Periode
-6.  Pickel
-7.  Piercing
-8.  Pokemon
-9.  rauchen
-10.  Steam
+2.  Konzert
+3.  Kostüm
+4.  Periode
+5.  Pickel
+6.  Piercing
+7.  Pokemon
+8.  rauchen
+9.  Steam
+10.  Winter
 
-Top-50 Themen Thema Anzahl Apple 84360 Arbeit 64852 Ausbildung 50259 Auto 91106 Beauty 69366 Beruf 77497 Beziehung 72104 Computer 537745 Computerspiele 64716 deutsch 67100 Englisch 52174 Ernährung 50758 essen 71276 Facebook 77584 Fernsehen 60305 Film 100260 Finanzen 59025 Freizeit 263466 Fußball 51194 Games 125016 Geld 93592 Gesundheit 205833 Haare 82815 Handy 205364 Hilfe 149071 Internet 322704 iPhone 75509 Kinder 50933 Körper 50307 Laptop 73648 Liebe 165783 Lied 54561 Mädchen 56443 Medizin 62751 Minecraft 68191 Musik 280873 PC 282830 PC-Spiele 48775 Problem 55374 PS3 60402 Recht 95353 Schule 235619 Software 57103 Spiele 137412 Sport 110996 Technik 120679 Tiere 64905 TV 54420 Video 52775 Youtube 83453 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 84442 Arbeit 64912 Ausbildung 50313 Auto 91177 Beauty 69422 Beruf 77538 Beziehung 72204 Computer 538262 Computerspiele 64784 deutsch 67141 Englisch 52203 Ernährung 50797 essen 71324 Facebook 77666 Fernsehen 60330 Film 100383 Finanzen 59051 Freizeit 263635 Fußball 51214 Games 125173 Geld 93667 Gesundheit 205961 Haare 82890 Handy 205586 Hilfe 149158 Internet 322927 iPhone 75581 Kinder 50968 Körper 50349 Laptop 73714 Liebe 165987 Lied 54601 Mädchen 56527 Medizin 62797 Minecraft 68299 Musik 281090 PC 283102 PC-Spiele 48823 Problem 55440 PS3 60490 Recht 95415 Schule 235819 Software 57144 Spiele 137540 Sport 111066 Technik 120779 Tiere 64947 TV 54447 Video 52819 Youtube 83550 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  Chimaer
+1.  MrSavage4
     
     Punkte:
     
-    774
+    1043
+    
+    Level:
+    
+    MrSavage4
+    
+2.  Chimaer
+    
+    Punkte:
+    
+    714
     
     Level:
     
     Chimaer
     
-2.  Keksflusi
+3.  Geeelbwuurst
     
     Punkte:
     
-    628
-    
-    Level:
-    
-    Keksflusi
-    
-3.  Frage827
-    
-    Punkte:
-    
-    495
-    
-    Level:
-    
-    Frage827
+    577
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.377.999 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.385.394 gute Fragen_
 
-*   20 Meine Eltern sind sehr intelligent und ich bin dumm. Wie geht das?
-*   15 Warum schaut sich ein Mann in fester Beziehung Sex-Filme an?
-*   14 Wie geht es dir? Ich weiß es nicht..
+*   27 Dominoeffekt
+*   15 früher sind religiöse ergeignisse geschen warum heut nicht mehr
+*   13 Die Leute sagen mir, dass ich komisch bin. Wie kann ich mich ändern?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Kunstblut selber machen
 *   Kürbis schnitzen leicht gemacht: Halloween-Kürbis mal zwei
 
-*   Laterne basteln in Auto-Form
 *   Schnelles Partyrezept für 20 Gäste und mehr - Blätterteigtaschen Mexikanisch
+*   Spiel für Halloween-Kinderparty: Die Halloween-Grusel-Box
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.972.291
+1.975.433
 
 Anzahl der Fragen
 
-8.377.572
+8.384.885
 
 Anzahl der Antworten
 
-36.338.846
+36.365.873
 
 Anzahl der Tipps
 
-75.222
+75.312
 
 Anzahl der Videos
 
-4.776
+4.783
 
 Blog
 
