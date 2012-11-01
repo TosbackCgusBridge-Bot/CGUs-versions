@@ -4,7 +4,7 @@
 *   Create a Free Account |
 *   Subscribe Now
 
-*   Wednesday, October 31, 2012
+*   Thursday, November 1, 2012
 
 Subscribe Today
 
