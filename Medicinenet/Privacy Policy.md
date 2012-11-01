@@ -1,4 +1,4 @@
-About Us| Newsletter October 31, 2012
+About Us| Newsletter November 1, 2012
 
 *   Like Us
 *   Follow Us
@@ -60,7 +60,7 @@ A reddish, scaly rash often located over the surfaces of the elbows, knees, scal
 
 View Image Gallery »
 
-See All Quizzes (109)
+See All Quizzes (110)
 
 1.  **Happiness** - Test your emotional IQ
 2.  **Superfoods** - Are you eating enough?
@@ -413,11 +413,11 @@ New on MedicineNet
 
 Latest MedicineNet News
 
+*   Canada Health System as Model Might Cut U.S. Costs
+*   Health Risks Will Rise in Sandy's Wake
 *   Sandy's Wrath Brings Massive Blackouts, Flooding
 *   Q &. A: Riding Out the Storm Safely
 *   Some Face Transplant Patients May Regain Function
-*   Harvest Season Can Be Hazardous for Farmers
-*   Millions Prepare as Hurricane Sandy on East Coast
 *   Want More News? Sign Up for MedicineNet Newsletters!
 *   Health News Feed
 
