@@ -71,11 +71,11 @@ Sign In Sign Out New User Sign Up Profile Management
 
 What's Hot
 
-Fall TV Popularity Contest
+_Glee_ Does "Gangnam Style"
 
-_Revolution_ Burning Questions
+Mega Buzz
 
-_Castle_'s Comic-Con Episode
+Disney Plans More _Star Wars_
 
 Save These Shows!
 
@@ -138,10 +138,10 @@ more popular celebrities Most Popular Movies
 more popular movies Top Videos
 
 1.  The Vampire Diaries
-2.  The Vampire Diaries
+2.  Arrow
 3.  The Vampire Diaries
-4.  Arrow
-5.  Dexter
+4.  The Vampire Diaries
+5.  Supernatural
 
 more top videos
 
