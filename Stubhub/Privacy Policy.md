@@ -44,13 +44,14 @@ Where fans buy &. sell tickets™ Customize your search
     *   Plays
     *   See more
 *   Fan Services
+    *   Gift certificates
+    *   StubHub Mobile
     *   Go Together
     *   Rewards
     *   Event Packages
-    *   Price Alerts
-    *   Fan_Protect_™ Guarantee
-    *   Last Minute Services
     *   Deals
+    *   Last Minute Services
+    *   Fan_Protect_™ Guarantee
     *   See more
 *   My Account
     *   **Going to events**
