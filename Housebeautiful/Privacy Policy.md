@@ -17,9 +17,9 @@ Sponsored Links advertisement Decorating &. Ideas
 
 More Decorating &. Ideas Kitchens &. Entertaining
 
+*   Roasted Beet "Tartare&quo...
 *   Kitchen Gadgets Under $20
 *   Happy Kitchens
-*   Rack of Pork with Fava Beans
 
 More Kitchens &. Entertaining Photo Galleries
 
@@ -53,9 +53,9 @@ More What's New Featured
 
 More Featured Recipes
 
+*   Roasted Beet "Tartare&quo...
 *   Rack of Pork with Fava Beans
 *   A Twist on Niçoise Salad
-*   Favorite Fall Recipes
 
 More Recipes
 
