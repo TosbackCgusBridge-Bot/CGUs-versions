@@ -34,6 +34,7 @@ To search for a player use one of two formats:
 
 COLUMNS
 
+*   Santana Hands In His Halo Nov 1
 *   Giant Celebration Oct 29
 *   Kung Fu Pandamonium Oct 25
 *   Giant Performance Oct 22
@@ -41,7 +42,6 @@ COLUMNS
 *   Beltran Blasting Off Again Oct 15
 *   NLCS: Cardinals vs. Giants Oct 14
 *   ALCS: Tigers vs. Yankees Oct 13
-*   Ibanez Saves Yankees Oct 11
 
 PREMIUM CONTENT
 
@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
-*   Yadier Molina wins fifth NL Gold Glove Award
-*   Matt Wieters gets second straight Gold Glove
-*   League re-signs with Dodgers, will be closer
-*   Mets pick up 2013 options on Wright, Dickey
-*   White Sox exercise Gavin Floyd's 2013 option
-*   Peavy signs two-year, $29M deal with Chicago
-*   Rangers decline Feldman, Tateyama options
-*   Braden, Devine elect to become free agents
-*   Ricky Romero undergoes minor elbow surgery
-*   Braves pick up options on Hudson, Maholm
-*   Braves exercise option on Brian McCann
-*   Rays to pick up option on James Shields
+*   Yankees have interest in veteran OF Hunter
+*   Royals get Ervin Santana from Angels for Sisk
+*   Luke Scott's $6 mil option declined by Rays
+*   Rays pick up options on Shields, Rodney
+*   Ludwick declines mutual option with Cincy
+*   Dodgers targeting Rays' RHP James Shields
+*   Soriano opts out of contract with Yankees
+*   Royals decline '13 option on Joakim Soria
+*   Indians decline options on Hafner, Hernandez
+*   Indians pick up option on Ubaldo Jimenez
+*   Orioles decline option on Mark Reynolds
+*   Angels trying hard to trade Haren, Santana
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Week 9 Target Watch: NFC Nov 1
+*   Deadline Snoozing Nov 1
+*   Getting Defensive: Week 9 Oct 31
 *   Week 9 Target Watch: AFC Oct 31
 *   Matchup: Chiefs @ Chargers Oct 31
 *   Midseason Mock Oct 31
+*   Best Available NFL Free Agents Oct 31
 *   Week 9 Top Pickups Oct 30
-*   Deadline Darlings? Oct 30
-*   Vick's Last Stand? Oct 30
-*   Best Available NFL Free Agents Oct 30
-*   Matchup: 49ers @ Cardinals Oct 29
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Report: Jaguars 'making a play' for QB Tebow
+*   Report: 'Viable chance' DeAngelo is traded
+*   Brandon LaFell diagnosed with concussion
+*   Nelson won't test hamstring until Friday
+*   Coach Schwartz: Mikel Leshoure isn't hurt
+*   Cecil Shorts will continue to start for Jags
+*   DeMarco Murray is still not back at practice
+*   Colts TE Coby Fleener out at least two weeks
+*   Ryan Tannehill taking the reps at practice
+*   Mikel Leshoure not practicing on Wednesday
+*   Michael Vick hangs on to starting job for now
+*   Reports: Jets, Jags haven't discussed Tebow
 *   Giants, Cruz agree on 'structure' of new deal
-*   Fisher on SJax talk: All rumors, still our RB
-*   Daboll on Charles: 'Every week is a new week'
-*   Report: Panthers spurning WR Smith inquiries
-*   Report: Cardinals interested in OT McKinnie
-*   'Virtually no chance' of Dwayne Bowe trade
-*   Lions acquire WR Mike Thomas from Jaguars
-*   Bucs lose All-Pro LG Nicks for the season
-*   Dwyer expected to start Week 9 -- if healthy
-*   Report: Green will remain Packers' lead back
-*   Vick tops Eagles' Week 9 depth chart at QB
 
 NBA PAGES
 
@@ -134,6 +134,7 @@ NBA PAGES
 
 COLUMNS
 
+*   NBA Live Chat Thursday 9 p.m. Nov 1
 *   Andy's Halloween Candy Oct 31
 *   NBA Opening Night Preview Oct 30
 *   The Bruski 150 Oct 28
@@ -141,7 +142,6 @@ COLUMNS
 *   Pre-draft Trip Around the NBA Oct 26
 *   NBA Live Chat Monday at 1 p.m. Oct 20
 *   Points League Draft Recap Oct 20
-*   Players to Target Oct 20
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Kobe Bryant plays, shoots lights out in loss
-*   LeBron plays well before leaving w/ cramps
-*   Varejao just misses triple-double w/ 23 rebs
-*   Kyrie Irving scores 29, but only 3 assists
-*   Knicks at Nets game to happen Thursday
-*   Kobe Bryant will start for Lakers Tuesday
-*   Andrew Bynum (knee) does low-impact work
-*   Amare Stoudemire (knee) will miss 6-8 weeks
-*   Chris Kaman (calf) out Tuesday &. Wednesday
-*   Nuggets extend Ty Lawson for four years, $48m
-*   Knicks vs. Nets, other games in jeopardy
-*   Eric Gordon (knee) game-time call Wednesday
+*   Damian Lillard lives up to hype in opener
+*   Andrew Bogut plays 18 minutes Wednesday
+*   Al-Farouq Aminu fills stat sheet in opener
+*   Nuggets confirm Faried wasn't injured in loss
+*   Nash suffers shin contusion on Wednesday
+*   Jrue Holiday and Sixers agree to extension
+*   Gerald Green starts, leads Pacers in minutes
+*   Hawes overshadows starter Young in opener
+*   James Harden explodes for 37 and 12 assists
+*   Danilo Gallinari will not play on Wednesday
+*   Tony Parker not worried about Manu Ginobili
+*   Update: Knicks vs. Nets game postponed
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Michael Del Zotto joins Rapperswil of NLA
+*   Chris Kelly to play in Swiss second division
+*   Alexander Semin hints at staying in KHL
+*   Malkin moves into 2nd place among KHL scorers
+*   Ryane Clowe might join ECHL San Francisco
+*   Smith leaves Finland for training purposes
+*   Kronwall won't sign with a European club yet
+*   Johan Franzen isn't looking to play in Europe
 *   Patrice Bergeron back in the fold for Lugano
 *   Logan Couture moves up Swiss scoring list
 *   Taylor Hall receives OK to return to action
 *   Sedin twins to continue to hold off on Sweden
-*   Joffrey Lupul signs with KHL's Avtomobilist
-*   Report: Dustin Brown close to a KHL deal
-*   Evgeni Malkin wins weekly honor in KHL
-*   Crosby's insurance costs have been an issue
-*   Simmonds faces racial slurs in Czech Republic
-*   Travis Zajac close to a job overseas
-*   Marcus Johansson signs with Karlskoga
-*   Jannik Hansen signs with Tappara of SM-Liiga
 
 NASCAR PAGES
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Joey Coulter in Fort Worth, Texas
+*   Lone Star State details on Ty Dillon
+*   Brendan Gaughan won four-straight in Texas
+*   Austin Dillon in the Lone Star State
+*   Elliott Sadler at Texas Motor Speedway
+*   Jeff Burton no stranger to Texas Victory Lane
+*   Lone Star State stats on Kevin Harvick
+*   Paul Menard Texas Motor Speedway notes
+*   Michael Annett Texas race notes
+*   Cale Gale Texas Motor Speedway race preview
 *   Notes of interest at Fort Worth on Kyle Busch
 *   Ryan Blaney making first Fort Worth start
-*   Brandon McReynolds debuts in Truck Series
-*   Miguel Paludo at Texas Motor Speedway
-*   James Buescher's NCWTS results at Texas
-*   Nelson Piquet Jr. to make 50th career start
-*   Justin Allgaier at Texas Motor Speedway
-*   Brad Sweet making first start at Fort Worth
-*   Todd Bodine chasing number seven at Texas
-*   Kligerman WinStar World Casino 350 advance
-*   Keselowski has some career Texas 'firsts'
-*   Almirola on a roll, thinking Big for Texas
 
 GOLF PAGES
 
@@ -285,18 +285,18 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Scott closes birdie-birdie-eagle to co-lead
+*   Bogey-free Oosthuizen grabs outright lead
 *   Jonathan Byrd undergoes surgery on his wrist
 *   Garcia eyes return at European Tour finale
 *   Donald will not defend at the season finale
-*   Schwartzel withdraws from WGC-HSBC Champions
+*   Schwartzel WDs from the WGC-HSBC Champions
 *   Bolli wins Web.com Tour Champ.. 25 graduate
 *   Hanson takes the BMW Masters by one stroke
 *   Watney parlays course-record 61 into CIMB win
 *   Garrigus enters CIMB finale as a co-leader
 *   BVP flirts w/ 59. settles for 54-hole co-lead
 *   Hole-in-one fuels Dufner in the third round
-*   No surprise, Patrick Reed medals at Q School
-*   Matteson spins bogey-free 63 to lead the CIMB
 
 NFL DRAFT PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Geno's Learning Process Oct 31
 *   General Patton Oct 29
 *   Senior Prospect Rankings Oct 27
 *   Week Nine Matchup Preview Oct 26
@@ -318,7 +319,6 @@ COLUMNS
 *   Prospect Snapshots: Weeks 7-8 Oct 23
 *   Senior Surprise: RB Gillislee Oct 22
 *   Week Eight Matchup Preview Oct 19
-*   The Forgotten One Oct 17
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Vols WR Rogers' targets will not increase
+*   Tide WR Cooper should be 'full speed' (ankle)
+*   McShay: Warmack is without question top OL
+*   Gundy: Okie St CB Gilbert must play better
+*   Ducks defensive key is to stop run vs USC
+*   Cavs T Oday Aboushi invited to Senior Bowl
+*   Pauline: Cincy LB Blair rising in late rounds
+*   Cardinal backup QB Hogan likely to see snaps
 *   McCarron has yet to turn the ball over in '12
 *   Brooks: Glennon may 'be best QB in '13 Draft'
 *   Freshman QB Wallace will start for Auburn
 *   Knile Davis out against Tulsa (hamstring)
-*   Report: Cincy OLB Stewart to retire (spine)
-*   Spurrier confident Lattimore won't go to NFL
-*   Report: Cody Vaz will start vs Arizona State
-*   Weis: Jayhawks' Sims is the best RB in Big 12
-*   Cyclones LB Knott out for season (shoulder)
-*   Pauline: Illini DE Buchanan's stock tumbling
-*   Bulls RB Lamar out for season (collarbone)
-*   No breaks for Lattimore, many ligament injs
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Report: Jaguars 'making a play' for QB Tebow
-*   NBA:Kobe Bryant plays, shoots lights out in loss
-*   MLB:Yadier Molina wins fifth NL Gold Glove Award
-*   NBA:Varejao just misses triple-double w/ 23 rebs
-*   NBA:Kobe Bryant will start for Lakers Tuesday
-*   NFL:Giants, Cruz agree on 'structure' of new deal
-*   NFL:Fisher on SJax talk: All rumors, still our RB
-*   MLB:Peavy signs two-year, $29M deal with Chicago
-*   NFL:Report: Panthers spurning WR Smith inquiries
-*   NFL:'Virtually no chance' of Dwayne Bowe trade
-*   NFL:Lions acquire WR Mike Thomas from Jaguars
-*   NFL:Bucs lose All-Pro LG Nicks for the season
+*   NBA:Nash suffers shin contusion on Wednesday
+*   NBA:Gerald Green starts, leads Pacers in minutes
+*   NBA:James Harden explodes for 37 and 12 assists
+*   MLB:Royals get Ervin Santana from Angels for Sisk
+*   NBA:Eric Gordon out indefinitely with knee injury
+*   NFL:Report: 'Viable chance' DeAngelo is traded
+*   NFL:Brandon LaFell diagnosed with concussion
+*   MLB:Rays pick up options on Shields, Rodney
+*   NFL:Nelson won't test hamstring until Friday
+*   NBA:Update: Knicks vs. Nets game postponed
+*   MLB:Dodgers targeting Rays' RHP James Shields
+*   GOL:Scott closes birdie-birdie-eagle to co-lead
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. RoseNBA (7456)
-*   2J. WallNBA (7261)
-*   3B. MullensNBA (6791)
-*   4R. RubioNBA (6781)
-*   5K. LoveNBA (6635)
+*   1D. RoseNBA (7342)
+*   2J. WallNBA (7183)
+*   3B. MullensNBA (6607)
+*   4K. LoveNBA (6568)
+*   5R. RubioNBA (6446)
 
-*   6D. BrownNFL (6556)
-*   7J. DwyerNFL (6509)
-*   8J. CrowderNBA (6474)
-*   9J. GrahamNFL (6437)
-*   10J. NelsonNFL (6351)
+*   6J. DwyerNFL (6444)
+*   7E. GordonNBA (6344)
+*   8A. BogutNBA (6270)
+*   9J. NelsonNFL (6270)
+*   10J. CrowderNBA (6142)
 
   
 Video Center
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines Week 9 Target Watch: AFC  
-Oct 31 Which players got all the targets in Week 8? Chet Gresham analyzes every AFC team.  
+  Headlines Week 9 Target Watch: NFC  
+Nov 1 Which players got all the targets last week and so far this season? Chet Gresham breaks down every NFC team's Week 8 performers.  
   
 More NFL Columns
 
+*   »Week 9 Target Watch: NFC Nov 1
+*   »Deadline Snoozing Nov 1
+*   »Getting Defensive: Week 9 Oct 31
 *   »Week 9 Target Watch: AFC Oct 31
 *   »Matchup: Chiefs @ Chargers Oct 31
 *   »Midseason Mock Oct 31
+*   »Best Available NFL Free Agents Oct 31
 *   »Week 9 Top Pickups Oct 30
-*   »Deadline Darlings? Oct 30
-*   »Vick's Last Stand? Oct 30
-*   »Best Available NFL Free Agents Oct 30
-*   »Matchup: 49ers @ Cardinals Oct 29
 
 NFL Headlines
 
-*   »Report: Jaguars 'making a play' for QB Tebow
+*   »Report: 'Viable chance' DeAngelo is traded
+*   »Brandon LaFell diagnosed with concussion
+*   »Nelson won't test hamstring until Friday
+*   »Coach Schwartz: Mikel Leshoure isn't hurt
+*   »Cecil Shorts will continue to start for Jags
+*   »DeMarco Murray is still not back at practice
+*   »Colts TE Coby Fleener out at least two weeks
+*   »Ryan Tannehill taking the reps at practice
+*   »Mikel Leshoure not practicing on Wednesday
+*   »Michael Vick hangs on to starting job for now
+*   »Reports: Jets, Jags haven't discussed Tebow
 *   »Giants, Cruz agree on 'structure' of new deal
-*   »Fisher on SJax talk: All rumors, still our RB
-*   »Daboll on Charles: 'Every week is a new week'
-*   »Report: Panthers spurning WR Smith inquiries
-*   »Report: Cardinals interested in OT McKinnie
-*   »'Virtually no chance' of Dwayne Bowe trade
-*   »Lions acquire WR Mike Thomas from Jaguars
-*   »Bucs lose All-Pro LG Nicks for the season
-*   »Dwyer expected to start Week 9 -- if healthy
-*   »Report: Green will remain Packers' lead back
-*   »Vick tops Eagles' Week 9 depth chart at QB
 
 NFL Links
 
