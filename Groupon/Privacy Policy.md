@@ -8,7 +8,8 @@ Groupon: Collective Buying Power
 *   All Deals
 *   Getaways
 *   Goods New
-*   Holiday Deals
+*   Election Deals
+*   Gifts
 
 *   Sign In
 *   Sign Up
@@ -250,9 +251,9 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
     
 *   Grow Your Business
     
-    Get new customers and grow your business by Selling on Groupon
+    Get new customers and grow your business by selling on Groupon.
     
-    See why thousands of businesses have succeeded advertising on Groupon
+    See why thousands of businesses have succeeded advertising on Groupon.
     
 *   Help Your Community
     
@@ -296,8 +297,6 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
     Accept Groupon Payments
     
     Affiliate Program
-    
-    Run a Deal
     
     Developers / API
     
