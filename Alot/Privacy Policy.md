@@ -1,39 +1,4 @@
-ALOTapps for your PC All AppsManage AppsAbout ALOT   Categories
-
-1.  Home
-2.  Entertainment
-3.  Food
-4.  Games
-5.  Maps &. Travel
-6.  Music
-7.  News
-8.  Reference
-9.  Shopping
-10.  Social Networking
-11.  Sports
-12.  Utilities
-13.  Videos
-14.  Weather
-
-About ALOT
-
-**ALOT is a place to find apps for your PC.**
-
-Use ALOT apps to play games, get directions, check the weather, listen to the radio and much much more
-
-To get started, add the free ALOT Appbar to your browser, then pick the apps you want to display.
-
-Find out more
-
-2.  Privacy Policy
-
-ALOT Sites Privacy Policy
-
-ALOT Toolbar Privacy Policy
-
-ALOT Appbar Privacy Policy
-
-ALOT Sites Privacy Policy     Welcome to alot.com!
+    Welcome to alot.com!
 
 Here at alot.com we deliver highly relevant search results to our users while maintaining the most professional service standards. This means we are dedicated to treating you with care and respect.
 
@@ -95,7 +60,7 @@ customerservice@alot.com
 
 **Last Updated:** June 8th, 2011
 
-ALOT Toolbar Privacy Policy    
+   
 
 At alot.com, we work hard to deliver valuable web tools at no cost to you while driving revenue for creating and improving alot.com products in the future. Your happiness and satisfaction are very important to us and we hope to include you as one of our millions of satisfied users.
 
@@ -174,7 +139,7 @@ customerservice@alot.com
 
 **Last Updated:** May 20th, 2011
 
-ALOT Appbar Privacy Policy    
+   
 
 At alot.com, we work hard to deliver valuable web tools at no cost to you while driving revenue for creating and improving alot.com products in the future. Your happiness and satisfaction are very important to us and we hope to include you as one of our millions of satisfied users.
 
@@ -252,5 +217,3 @@ New York, NY 10013
 customerservice@alot.com
 
 **Last Updated:** May 20th, 2011
-
-  About Us | FAQ | Terms of Use | Privacy Policy | Site Map © 2012 ALOTalot.com
