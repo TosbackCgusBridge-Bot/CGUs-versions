@@ -113,122 +113,127 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/31/2012 7:02 AM ET
+Updated: 11/01/2012 7:02 AM ET
 
-1.  1 Bloomberg: No 'diss' to Obama
-2.  2 Gallup suspends daily tracking poll
-3.  3 FEMA, W.H. send victims to Internet
-4.  4 Brown: Obama spoke too soon
-5.  5 Why Romney will win
-6.  6 How to campaign after a disaster
-7.  7 Nate Silver: One-term celebrity?
-8.  8 Poll: Voters say Obama will win
-9.  9 Christie heaps praise on Obama
+1.  1 Iowa warns int'l observers of arrest
+2.  2 Bachmann on defense after W.H. bid
+3.  3 The Tea Party gets a news site
+4.  4 NPR apologizes to Abigael Evans
+5.  5 Christie aide denies rift with Mitt
+6.  6 A GOP switch on Akin?
+7.  7 Obama &. Christie: A Sandy love story
+8.  8 Mitt pollster: Q poll 'crap'
+9.  9 Media stumped by 2012 outcome
+10.  10 Stronger Obama back to the stump
+
+Updated: 11/01/2012 7:02 AM ET
+
+1.  1 Iowa warns int'l observers of arrest
+2.  2 NPR apologizes to Abigael Evans
+3.  3 1 week, 2 versions of reality
+4.  4 The Tea Party gets a news site
+5.  5 Poll: Voters say Obama will win
+6.  6 Bloomberg: No 'diss' to Obama
+7.  7 Bachmann on defense after W.H. bid
+8.  8 Gallup suspends daily tracking poll
+9.  9 Christie aide denies rift with Mitt
 10.  10 Anti-Obama text ads cause a stir
 
-Updated: 10/31/2012 7:02 AM ET
+Updated: 11/01/2012 7:02 AM ET
 
 1.  1 Gallup suspends daily tracking poll
-2.  2 FEMA, W.H. send victims to Internet
-3.  3 Nate Silver: One-term celebrity?
-4.  4 Bloomberg: No 'diss' to Obama
-5.  5 Why Romney will win
-6.  6 Oliver Stone's new book rips Obama
-7.  7 Campaigns assess damage
-8.  8 Christie heaps praise on Obama
-9.  9 Foolproof plan for Obama victory
-10.  10 Martin Sheen: Romney is stupid, arrogant
-
-Updated: 10/31/2012 7:02 AM ET
-
-1.  1 Oliver Stone's new book rips Obama
-2.  2 Nate Silver: One-term celebrity?
-3.  3 Gallup suspends daily tracking poll
-4.  4 Martin Sheen: Romney is stupid, arrogant
-5.  5 FEMA, W.H. send victims to Internet
-6.  6 Battleground Tracking Poll: Obama retakes lead
-7.  7 Bloomberg: No 'diss' to Obama
+2.  2 Iowa warns int'l observers of arrest
+3.  3 FEMA, W.H. send victims to Internet
+4.  4 Nate Silver: One-term celebrity?
+5.  5 Bloomberg: No 'diss' to Obama
+6.  6 NPR apologizes to Abigael Evans
+7.  7 1 week, 2 versions of reality
 8.  8 Why Romney will win
-9.  9 Campaigns assess damage
-10.  10 4 possible freak election outcomes
+9.  9 Oliver Stone's new book rips Obama
+10.  10 The Tea Party gets a news site
 
-Updated: 10/31/2012 7:02 AM ET
+Updated: 11/01/2012 7:02 AM ET
 
 1.  1 Ex-Biden aide pens angry tell-all
 2.  2 Oliver Stone's new book rips Obama
 3.  3 Nate Silver: One-term celebrity?
-4.  4 Trump mocked on Twitter
+4.  4 Gallup suspends daily tracking poll
 5.  5 Obama says kids know Romney is dishonest
-6.  6 Gallup suspends daily tracking poll
-7.  7 Romney raises $111.8 million in October
-8.  8 Trump will donate for Obama records
-9.  9 Martin Sheen: Romney is stupid, arrogant
-10.  10 FEMA, W.H. send victims to Internet
+6.  6 Romney raises $111.8 million in October
+7.  7 Martin Sheen: Romney is stupid, arrogant
+8.  8 Iowa warns int'l observers of arrest
+9.  9 FEMA, W.H. send victims to Internet
+10.  10 NBA's Stern: Obama always goes left
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 10/31/2012 7:02 AM ET
+Updated: 11/01/2012 7:02 AM ET
 
-1.  1 Poll: Voters say Obama will win
-2.  2 1 week -- 2 versions of reality
-3.  3 Anti-Obama text ads cause a stir
+1.  1 Napolitano warns of utility attacks
+2.  2 Crystal ball: Senate race projections
+3.  3 McMorris Rodgers, rising GOP star
+4.  4 GOP candidates' independent streak
+5.  5 Which Mitt will go down in history?
+6.  6 GOP hopeful: 'The rape thing'
+7.  7 Update: Gallup unsure it can resume
+8.  8 Super PAC funds voter fraud app
 
-Updated: 10/31/2012 7:02 AM ET
+Updated: 11/01/2012 7:02 AM ET
 
-1.  1 Poll: Voters say Obama will win
-2.  2 1 week -- 2 versions of reality
-3.  3 Anti-Obama text ads cause a stir
-4.  4 Bloomberg: No 'diss' to Obama
-5.  5 Christie's feud with Atlantic City mayor has history
-6.  6 Brown: Obama spoke too soon
-7.  7 Senate 5: Sandy shenanigans
-8.  8 Critics: Ryan budget hits storm aid
-9.  9 Early voting will weather the storm
-10.  10 Rush contrasts Sandy, Libya
+1.  1 Napolitano warns of utility attacks
+2.  2 Crystal ball: Senate race projections
+3.  3 McMorris Rodgers, rising GOP star
+4.  4 GOP candidates' independent streak
+5.  5 Which Mitt will go down in history?
+6.  6 GOP hopeful: 'The rape thing'
+7.  7 Update: Gallup unsure it can resume
+8.  8 Super PAC funds voter fraud app
+9.  9 Axelrod trimmed by mustache police
+10.  10 Bachmann on defense after W.H. bid
 
-Updated: 10/31/2012 7:02 AM ET
+Updated: 11/01/2012 7:02 AM ET
 
-1.  1 Poll: Voters say Obama will win
-2.  2 1 week -- 2 versions of reality
-3.  3 Anti-Obama text ads cause a stir
-4.  4 Bloomberg: No 'diss' to Obama
-5.  5 Christie's feud with Atlantic City mayor has history
-6.  6 Brown: Obama spoke too soon
-7.  7 Senate 5: Sandy shenanigans
-8.  8 Critics: Ryan budget hits storm aid
-9.  9 Early voting will weather the storm
-10.  10 Rush contrasts Sandy, Libya
+1.  1 Napolitano warns of utility attacks
+2.  2 Crystal ball: Senate race projections
+3.  3 McMorris Rodgers, rising GOP star
+4.  4 GOP candidates' independent streak
+5.  5 Which Mitt will go down in history?
+6.  6 GOP hopeful: 'The rape thing'
+7.  7 Update: Gallup unsure it can resume
+8.  8 Super PAC funds voter fraud app
+9.  9 Axelrod trimmed by mustache police
+10.  10 Bachmann on defense after W.H. bid
 
-Updated: 10/31/2012 7:02 AM ET
+Updated: 11/01/2012 7:02 AM ET
 
-1.  1 Poll: Voters say Obama will win
-2.  2 1 week -- 2 versions of reality
-3.  3 Anti-Obama text ads cause a stir
-4.  4 Bloomberg: No 'diss' to Obama
-5.  5 Christie's feud with Atlantic City mayor has history
-6.  6 Brown: Obama spoke too soon
-7.  7 Senate 5: Sandy shenanigans
-8.  8 Critics: Ryan budget hits storm aid
-9.  9 Early voting will weather the storm
-10.  10 Rush contrasts Sandy, Libya
+1.  1 Napolitano warns of utility attacks
+2.  2 Crystal ball: Senate race projections
+3.  3 McMorris Rodgers, rising GOP star
+4.  4 GOP candidates' independent streak
+5.  5 Which Mitt will go down in history?
+6.  6 GOP hopeful: 'The rape thing'
+7.  7 Update: Gallup unsure it can resume
+8.  8 Super PAC funds voter fraud app
+9.  9 Axelrod trimmed by mustache police
+10.  10 Bachmann on defense after W.H. bid
 
 Showing Last 7 Days
 
-Updated: 10/31/2012 7:02 AM ET
+Updated: 11/01/2012 7:02 AM ET
 
-1.  1 Sandy forces anti-politics politics
-2.  2 Battleground Tracking Poll: Obama retakes lead
-3.  3 Tight race in divided Wisconsin
-4.  4 Romney's road to Ohio victory
-5.  5 White voters still matter
-6.  6 Obama tries to shore up female vote
-7.  7 Dems go all in for abortion rights
-8.  8 How Mitt Romney would govern
-9.  9 Trump will donate for Obama records
-10.  10 Obama's 11th-hour strategy shift
+1.  1 1 week, 2 versions of reality
+2.  2 Sandy forces anti-politics politics
+3.  3 Battleground Tracking Poll: Obama retakes lead
+4.  4 How Mitt silenced the echo chamber
+5.  5 Tight race in divided Wisconsin
+6.  6 Romney's road to Ohio victory
+7.  7 White voters still matter
+8.  8 Obama tries to shore up female vote
+9.  9 Dems go all in for abortion rights
+10.  10 How Mitt Romney would govern
 
 News
 
