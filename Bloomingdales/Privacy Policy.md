@@ -2,7 +2,7 @@ MY ACCOUNT  |  HELP
 
 MY BROWN BAG
 
-Customer Service At Your Service Order Status Store Locations Gift Card Balance Credit Services Shopping Services Help Topics Orders Shipping &. Delivery Returns Bloomingdale's Credit Card Loyallist Rewards Furniture &. Mattresses Products &. Pricing Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Security &. Privacy Let Us Assist You Contact Us Call 1-800-777-0000 Monday - Friday: 9am - 9pm, Saturday: 9am - 7pm, Sunday: 11am - 7pm Bloomingdale's and bloomingdales.com Notice of Privacy Practices
+Customer Service At Your Service Order Status Store Locations Gift Card Balance Credit Services Shopping Services Help Topics Orders Shipping &. Delivery Returns Bloomingdale's Credit Card Loyallist Rewards Furniture &. Mattresses Products &. Pricing Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Security &. Privacy Let Us Assist You Contact Us Call 1-800-777-0000 Monday - Sunday: 9am - Midnight ET Bloomingdale's and bloomingdales.com Notice of Privacy Practices
 
  The notice of privacy practices was updated on August 15, 2012.
 
