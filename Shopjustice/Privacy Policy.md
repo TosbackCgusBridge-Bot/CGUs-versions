@@ -14,7 +14,6 @@ provided until after midnight ET of the day your package ships.
     *   college fan shop
     *   cold weather
     *   novi stars™
-    *   halloween shop
 *   clothes
     *   tops &. tees
     *   sweaters
@@ -35,9 +34,9 @@ provided until after midnight ET of the day your package ships.
     *   outerwear
     *   school uniforms
 *   shoes
-    *   boots
     *   casuals &. flats
     *   sneakers
+    *   boots
     *   sandals &. flip flops
     *   slippers
     *   socks
@@ -48,7 +47,7 @@ provided until after midnight ET of the day your package ships.
     *   quilted bags
     *   bags &. totes
     *   jewelry
-    *   hats &. scarves
+    *   fashion hats &. scarves
     *   hair accessories
     *   socks &. tights
     *   belts &. arm warmers
@@ -86,15 +85,24 @@ provided until after midnight ET of the day your package ships.
     *   gifts by price
     *   most wanted gifts
     *   stocking stuffers
+    *   grab &. go gifts
     *   gifts for your BFF
     *   personalized gifts
+    *   outfits to give
     *   gifts for the fashionista
     *   gifts for the sporty girl
     *   gifts for the glam girl
     *   gifts for the dreamer
 *   clearance
-    *   stock up sale
-    *   fall sale
+    *   tops
+    *   bottoms
+    *   dresses
+    *   outerwear
+    *   swimsuits
+    *   pajamas
+    *   shoes
+    *   accessories
+    *   beauty, room &. gifts
     *   all sale &. clearance
 
 PRIVACY POLICY
