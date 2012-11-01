@@ -1,7 +1,7 @@
 *   Like Us
 *   Follow Us
 
-Pill Identifier Search October 31, 2012
+Pill Identifier Search November 1, 2012
 
 *   Home
 *   Drugs A-Z
@@ -296,11 +296,11 @@ Featured Topics
 
 New &. Updated
 
-*   Lotemax Gel
-*   Taclonex Scalp
-*   Tracleer
-*   Voltaren
-*   Xenazine
+*   Aciphex
+*   Actemra
+*   H.P. Acthar Gel
+*   Jetrea
+*   Protonix
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
