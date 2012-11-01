@@ -66,7 +66,7 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Marie Claire: Pinterest Google+ Advertisement TODAY'S FEATURED VIDEO daily giveaway
 
-Win Enio Silla for Le Silla Ankle Boots!
+Valentina Boots | Sole Society
 
 enter now See all giveaways celeb stories The New Angelina Jolie The movie star/director/mom shows off a sillier side for our MC cameras. read more other latest stories:
 
@@ -81,6 +81,10 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 
 Latest blog entries
 
+*   How to Help Hurricane Sandy Victims
+    
+    A week ago, Hurricane Sandy was barely even mentioned on the hourly weather forecast, and now, the epic cyclone's damage is almost irreversible. 10/31/12
+    
 *   Hurricane Sandy Is All About Politics
     
     On the surface, it would appear that Hurricane Sandy, the superstorm affecting 900 miles of the Eastern Coast, has halted the presidential campaign in its tracks. 10/30/12
@@ -96,10 +100,6 @@ Latest blog entries
 *   MC@Play with Mika
     
     Fresh off the release of a defining new album, British singer-songwriter Mika is now more relevant than ever with more pop perfect singles, star-packed collaborations, and confidence than ever before. 10/25/12
-    
-*   Maison Martin Margiela for H&M Makes Its NYC Debut
-    
-    Maison Martin Margiela's collaboration with H&M launched with a nine-story shindig in New York last night. Yes, even Kanye was there. 10/24/12
     
 *   See all blogs
 
