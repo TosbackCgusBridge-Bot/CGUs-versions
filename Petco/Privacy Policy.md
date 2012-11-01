@@ -11,12 +11,12 @@
 Find a Petco Store WANT TO PLACE  
 AN ORDER?  
 877-738-6742  
-Sign up for Email Petco Coupons QUICK REORDER VIEW CART (0) Close **Howloween Event  
+Sign up for Email Local Ad QUICK REORDER VIEW CART (0) Close **Vote For Savings!  
 Promotion Details**
 
 *   **Discount is reflected in sale prices and will automatically be applied at Checkout.  
     No promotion code necessary.**
-*   Sale prices valid through October 31, 2012.
+*   Sale prices valid through November 7, 2012.
 *   Discount on food, litter, and flea &. tick control is up to 10% Sitewide.
 *   Excludes products with Manufacturer Minimum Advertised Price and Live Reptile Food.
 *   **Free Super Saver Shipping on $49.** Exclusions apply. No promotion code necessary.
@@ -35,12 +35,12 @@ Promotion Details**
 *   See Shopping Cart for full offer details.
 
   
-Close **Howloween Event  
+Close **Vote For Savings!  
 Promotion Details**
 
 *   **Discount is reflected in sale prices and will automatically be applied at Checkout.  
     No promotion code necessary.**
-*   Sale prices valid through October 31, 2012.
+*   Sale prices valid through November 7, 2012.
 *   Discount on food, litter, and flea &. tick control is up to 10% Sitewide.
 *   Excludes products with Manufacturer Minimum Advertised Price and Live Reptile Food.
 *   **Free Super Saver Shipping on $49.** Exclusions apply. No promotion code necessary.
