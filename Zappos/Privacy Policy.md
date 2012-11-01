@@ -31,7 +31,7 @@ My Cart
 *   Women's
 *   Men's
 *   Kids'
-*   All Departments View New Arrivals Shoes Clothing Bags &. Handbags Accessories Baby Shop Beauty Entertainment Eyewear At Home Jewelry Sporting Goods Watches Women Men Kids Gift Cards Gift Ideas Sale &. Clearance
+*   All Departments View New Arrivals Shoes Clothing Bags &. Handbags Accessories Baby Shop Beauty Entertainment Eyewear At Home Jewelry Sporting Goods Watches Women Men Kids Gift Cards Gift Ideas Sale &. Clearance Product Indexes Shoe Categories Clothing Categories Top Searches
 
 Alphabetical Brand Index #· A· B· C· D· E· F· G· H· I· J· K· L· M· N· O· P· Q· R· S· T· U· V· W· X· Y· Z Zappos.com's Privacy Policy
 
@@ -187,7 +187,7 @@ Zappos.com respects your privacy. We don't rent or sell your personal informatio
 
 Read our Privacy Policy »
 
-Zappos Family Core Value 10. Be Humble What are Zappos Family Employees Doing Right Now? Shop With Us New Arrivals Shoes Clothing Bags &. Handbags Accessories Baby Shop Beauty Eyewear Home Jewelry Sporting Goods Watches Brands Gift Ideas Video Descriptions Sale &. Clearance All Departments Zappos.com Policies Privacy Policy Terms of Use Fur Policy The Truth about Zappos.com Coupons Customer Service Contact Info Returns Shipping FAQ's Customer Service Center Safe Shopping Guarantee Secure Shopping About About Jobs Tours Customer Testimonials Site Map My Account Log In/Register My Account My Order History My Shopping Cart My Favorites More Stuff RSS Feeds Associates Program Apply for a Zappos.com Visa Glossary of Terms Measurement Guide Model Measurements Size Conversion Chart Daily Shoe Digest Dead Products Subscribe to the Weekly Shameless Plug!
+Zappos Family Core Value 10. Be Humble What are Zappos Family Employees Doing Right Now? Customer Service Contact Info Returns Shipping FAQ's Customer Service Center Safe Shopping Guarantee Secure Shopping Shop With Us New Arrivals Shoes Clothing Bags &. Handbags Accessories Baby Shop Beauty Eyewear Home Jewelry Sporting Goods Watches Brands Gift Ideas Video Descriptions Sale &. Clearance All Departments Zappos.com Policies Privacy Policy Terms of Use Fur Policy The Truth about Zappos.com Coupons Product Indexes Shoe Categories Women's Shoe Categories Men's Shoe Categories Bags &. Accessories Categories Sale Categories Clothing Categories Top Searches About About Jobs Tours Customer Testimonials Site Map My Account Log In/Register My Account My Order History My Shopping Cart My Favorites More Stuff RSS Feeds Associates Program Apply for a Zappos.com Visa Glossary of Terms Measurement Guide Model Measurements Size Conversion Chart Daily Shoe Digest Dead Products Subscribe to the Weekly Shameless Plug!
 
 Our fun and informative weekly newsletter
 
@@ -199,11 +199,7 @@ Read Our Privacy Policy How Do You Like Our Website?
 
 We'd like to get your feedback.
 
-A Happy Customer Says:
-
-> "I just want to thank you for the fastest shipment and best service I could have ever gotten. When I placed my order with you I was a first time customer but I will not be a last time one."-Toby C., Feb 20, 2008
-
-Read More Testimonials Check out today's blogs!
+Check out today's blogs!
 
 *   Explore Additional Zappos.com Sites: Couture.zappos.com Outdoor.zappos.com Rideshop.zappos.com Running.zappos.com Blogs.zappos.com Zappos.com/How-To
 *   Play Product Showdown: Compare Products and Vote Now!
