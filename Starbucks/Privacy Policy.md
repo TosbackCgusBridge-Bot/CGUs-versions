@@ -431,7 +431,7 @@ Search Online Policies
 
 Change Region
 
-© 2012 Starbucks Corporation. All rights reserved.
+© 2011 Starbucks Corporation. All rights reserved.
 
 *   .Responsibility
 *   .Web Accessibility
