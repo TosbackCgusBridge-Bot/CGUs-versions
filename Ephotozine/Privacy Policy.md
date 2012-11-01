@@ -154,19 +154,19 @@ This month's sponsor
 
 Get the latest photography news straight from ePHOTOzine in your email every month and **win prizes!**
 
-Awards Current Competitions onOne Software 'Black &. White' Competition
+Awards Current Competitions November Wacom 'Winter' Competition
 
-1st October 2012 - 31st October 2012
+1st November 2012 - 30th November 2012
 
-onOne Software are giving you the chance to win a copy of Perfect Photo Suite 7 in our 'Black &. White' themed October competition.  
+This month, you can win one of three Intuos5 pen tablets courtesy of Wacom in our 'Winter' themed competition!  
   
-We want to see your best Bl... Featured e2 Photo Caught in the act  
+1st Prize - Intuos5 touch L + Wireless Accessory Ki... Featured e2 Photo meteor shower  
   
-By johnbushell October's Photo Month
+By gregs November's Photo Month
 
 Check out ePHOTOzine's inspirational photo month calendar! Each day click on a window to unveil new photography tips, treats and techniques.
 
-View October's Photo Month Calendar
+View November's Photo Month Calendar
 
   
 Calibrate your monitor so you can see 16 different shades. ePHOTOzine © 2012 Magezine Publishing Contact Support | Contact Us | RSS | Terms Of Use | Advertise | Jobs | The Team | FAQs | Support Us | Site Map | Top
