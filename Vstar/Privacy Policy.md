@@ -382,6 +382,9 @@ Ventura County Star
 *   Cars
 *   Classified
 
+*   Initiatives and measures with editorial endorsements |  Learn about the races and candidates
+    
+
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -609,19 +612,16 @@ TO THE EXTENT ALLOWED BY LAW, WE EACH WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY LA
 
 **(C)** You may not assign these Terms of Use or assign any rights or delegate any obligations hereunder, in whole or in part, without our prior written consent. Any such purported assignment or delegation by you without the appropriate prior written consent will be null and void and of no force and effect. We may assign these Terms of Use or any rights hereunder without your consent and without notice.
 
-Positively Pink Throughout the month of October, the Ventura County Star will be showcasing profiles and stories in support of those fighting against Breast Cancer.  
-Stories  
-What The Star is doing            How you can help  
 Featured Promotions
 
 *   Contest
 *   Experts
 *   Coupons
 
-Videos Celebrating Adolfo Camarillo None
+Videos Students learn what to throw in the trash Students get their hands dirty
 
-*   Celebrating Adolfo Camarillo On Campus: Camarillo Ready for ... On Campus: Moorpark Marches On Organizer wants 12 million Latino ...
-*   Ventura fourth-graders pumped up with ... Scores of dogs seized from ...
+*   Students learn what to throw ... Celebrating Adolfo Camarillo On Campus: Camarillo Ready for ... On Campus: Moorpark Marches On
+*   Organizer wants 12 million Latino ... Ventura fourth-graders pumped up with ...
 
   
 
@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Ventura shopping center aims to reduce panhandling Published 10/29/2012 at 5:58 p.m. 25 comments
-*   Editorial: For president: Barack Obama Published 10/28/2012 at 12:02 a.m. 235 comments
-*   Ojai homeowner looking to repair damage left by Edison Updated 10/29/2012 at 4:56 p.m. 20 comments
-*   Robinson: Sandy delivers a policy lesson Published 10/29/2012 at 4:25 p.m. 51 comments
-*   Poll shows outcomes highly uncertain for many ballot measures Updated 10/30/2012 at 1:41 p.m. 44 comments
+*   Poll shows outcomes highly uncertain for many ballot measures Updated 10/30/2012 at 1:41 p.m. 96 comments
+*   County pay error puts two managers in costly bind Updated 10/30/2012 at 6:28 p.m. 28 comments
+*   Police seek public's help after Camarillo dog is set on fire, dies Updated 10/31/2012 at 9:02 a.m.
+*   Ventura County voter registration reaches record level Updated 10/31/2012 at 8:40 p.m. 22 comments
+*   Tale of two money trails in Oxnard mayoral race Updated 10/30/2012 at 6:40 p.m. 24 comments
 
-Photo Galleries Hurricane Sandy | Tuesday Ventura County's Most Wanted October… Mud run for Thousand Oaks Teen Center
+Photo Galleries Ventura County's Most Wanted October… Hurricane Sandy | Tuesday Ex-CLU student wins $5.3 million
 
-*   Editorial: For president: Barack Obama Updated // at : 235 comments
-*   Robinson: Sandy delivers a policy lesson Updated // at : 51 comments
-*   Voters can gain insight by examining Strickland, Brownley's Sacramento records Updated // at : 51 comments
-*   Poll shows outcomes highly uncertain for many ballot measures Updated 10/30/2012 at 1:41 p.m. 44 comments
-*   Morning chat Updated // at : 40 comments
+*   Editorial: For president: Barack Obama Published 10/28/2012 at 12:02 a.m. 237 comments
+*   Morning chat Published 10/31/2012 at 12:00 a.m. 100 comments
+*   Poll shows outcomes highly uncertain for many ballot measures Published 10/30/2012 at 1:23 p.m. 96 comments
+*   Robinson: Sandy delivers a policy lesson Published 10/29/2012 at 4:25 p.m. 62 comments
+*   Morning chat Published 10/30/2012 at 12:00 a.m. 39 comments
 
-*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Updated // at : 26 comments
-*   Longtime Conejo Valley educator Carol Philips dies, 64 Updated 10/22/2012 at 5:52 p.m. 0 comments
-*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Updated 10/25/2012 at 6:44 p.m. 103 comments
-*   Local relatives, friends mourn 2 children stabbed to death in nanny case Updated 10/26/2012 at 8:44 p.m. 0 comments
-*   Ventura police continue to investigate allegations of prostitution Updated 10/22/2012 at 5:16 p.m. 0 comments
+*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 25 comments
+*   Longtime Conejo Valley educator Carol Philips dies, 64 Published 10/22/2012 at 9:56 a.m. 0 comments
+*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 102 comments
+*   Shark falls from sky onto Calif. golf course Published 10/25/2012 at 3:36 p.m. 0 comments
+*   Local relatives, friends mourn 2 children stabbed to death in nanny case Published 10/26/2012 at 8:25 p.m. 0 comments
 
 Weather
 
@@ -660,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently ° Overcast with Haze Wind: E 7mph Today 65° 52° Wed 05:00 PM Mostly Sunny Temp: 63° Thu 05:00 AM Cloudy Temp: 52° Thu 05:00 PM Partly Sunny Temp: 61°
+Currently 57° Fog/Mist Wind: E 6mph Today 65° 52° Thu 05:00 PM Mostly Cloudy Temp: 63° Fri 05:00 AM Fog Temp: 54° Fri 05:00 PM Partly Sunny Temp: 62°
 
 Feels Like: 63°
 
-Humidity: 78%
+Humidity: 86%
 
-Precip: 1%
+Precip: 13%
 
-Feels Like: 52°
+Feels Like: 54°
 
 Humidity: 100%
 
-Precip: 8%
+Precip: 6%
 
-Feels Like: 61°
+Feels Like: 62°
 
-Humidity: 86%
+Humidity: 80%
 
-Precip: 14%
+Precip: 5%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -702,10 +702,10 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   Strickland mailer shows he's going after every vote
 *   The 'UC effect' in online registration, and its significance here
 *   No surprise in battleground districts. it looks very close
 *   Whopper of a super PAC attack on Brownley
-*   If you can tell a person by who their friends are...
 
 Brian Dennert here
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Wednesday Oct 31
 *   Thursday Nov 1
 *   Friday Nov 2
+*   Saturday Nov 3
 *   More BROWSE Icon
-
-*   Downtown Safe Trick-or-Treat Downtown Santa Barbara 3 p.m.
-*   To Drive Or Not To Drive Goebel Senior Adult Center 3:30 p.m.
-*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
-*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
-*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
-
-More Events »
 
 *   Reliable Fundraising in Unreliable Times Ventura County Office of Education - Conference and Educational Services Center 9 a.m.
 *   FRESH &. EASY SHOPPING NIGHTS RAISE FUNDS FOR Mountain View Elementary School Fresh &. Easy Neighborhood Market, 4473 Alamo Street, Simi Valley, CA 4 p.m.
@@ -753,6 +745,14 @@ More Events »
 
 More Events »
 
+*   Post Breakup Wakeup Workshop Helps Women Recover After a Divorce or Break-up Center for Spiritual Living 9:30 a.m.
+*   ¡Olé! Enchilada Sale of Soroptimist Camarillo Chili Peppers Restaurant 10 a.m.
+*   We Need You...All Hands of Deck.. Simi Valley Republican Headquarters: 2906 Cochran Street,(Sycamore Plaza) Simi Valley, Ca. 93063 10 a.m.
+*   Free Living Trust Seminar- California Estate Planning Fundamentals Simi Valley Library 10:30 a.m.
+*   African Violet Show and Sale Thousand Oaks Library 11 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
@@ -761,13 +761,13 @@ More Events » Features
     
     Get prepared for November with candidate profiles and answers to your questions.
     
+    Live Friday night
+    
+    VCS Preps game of the week: Camarillo vs. Rio Mesa
+    
     Measurement of Character
     
     Survey determines what voters look for. Take it yourself!
-    
-    Local haunts
-    
-    Check out and add to our map of local Halloween haunts and events!
     
 *   On Campus
     
