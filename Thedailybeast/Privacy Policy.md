@@ -145,37 +145,37 @@ Stories We Like
 
   Most Popular
 
-1.  Obama’s New Best Friend
-2.  Please, No More Star Wars!
-3.  Mitt’s Bipartisan Myth
-4.  Taming Sandy’s Aftershocks
-5.  Savile Scandal Taints Entire Era
+1.  How Obama Seals the Deal
+2.  Romney's Radicalism
+3.  The Real Reason Mitt Is Comic Gold
+4.  Romney Stranded by Sandy
+5.  Mormonism's Defiant Daughter
 
   Other News Entertainment
 
-*   Voting: Are These Looks Age Appropriate?
-*   Who Said it?: Stars Talking About Their Pets
-*   Celebs in Halloween Costumes 2012
+*   Country Music's Favorite Couple: Keith and Nicole
+*   Secret Celebrity Weddings
+*   Evan Rachel Wood and Jamie Bell get hitched!
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘New Girl’: Zombie Woody Allen
-*   ‘Sons of Anarchy’ recap: Jax has a new plan
-*   ‘Dancing With the Stars’ shocker: Week 6′s eliminated All-Stars are….
+*   ‘Supernatural’ recap: Vampirates!
+*   ’30 Rock’: The best lines from ‘There’s No I In America’
+*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
 *   **Get More from EW.com**
 
 Entertainment
 
-*   The Making Of Romney's Storm Relief Event
-*   Romney-Ryan To Begin Final Stretch On Friday With Major Ohio Rally
-*   Deceptive Twitter User Apologizes, Resigns From Campaign
+*   "This Is The Price You Pay If You Want To Live By The Water"
+*   Todd Akin Feels The Republican Love
+*   Sandy Forces Media And Politicians To Talk About Climate Change
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Quote of the Day
-*   Race Enters Final Week as Close as Ever
+*   Tweet of the Day
+*   Rove Predicts Romney Win
 *   Latest Swing State Polls
 *   **Get More from Political Wire**
 
