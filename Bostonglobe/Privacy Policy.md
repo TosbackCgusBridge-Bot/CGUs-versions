@@ -224,7 +224,6 @@ This Privacy Policy may be amended from time to time. Any such changes will be p
 
 Learn more
 
-*   Site features
 *   Subscribe
 *   Boston Globe Insiders
 *   EPaper Edition
