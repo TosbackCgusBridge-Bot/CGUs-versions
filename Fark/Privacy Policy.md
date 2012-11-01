@@ -148,49 +148,49 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    It's a Big Building with Patients. But That's Not Important Right Now.
+    Nun Shall Pass
 *     
-    I'm Giving Her All She's Got
+    Ladies Wallet - Woven Stainless Steel
 *     
-    Good Fortune Chopsticks
+    Have a Smaller Penis Gum
 *     
-    Ray Gun - Acme Pen
+    Older Than Dirt
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
 Mother Boo Boo's Hideous Chins  
-This Gallery Will Freak You Out!  
-Sleight of Hand WIN \[VIDEO\]  
-Famous Black Eye Moments  
+31 Most Perfectly Looped GIFS Ever!  
+Nailed It! Cheap Halloween Costumes  
+Best Mascot Battle EVER!  
 More news at Scribol »  
   
   
-Coco Gives A Nearly Topless Weather R...  
-Sum 41 Singer Deryck Whibley Dresses...  
-Gwyneth Paltrow Looks Luscious In Lea...  
-George Lucas Sells Lucasfilm To Disne...  
-More news at Starpulse »  
+Ashton Kutcher and Demi Moore -- NO M...  
+Cee Lo Accuser Claims He Sexually Ass...  
+Michael Lohan -- I Got Octomom Into T...  
+Lil Wayne -- Doctor's Orders ... NO F...  
+More news at TMZ »  
   
   
-Pre-Labor Day Pregnant Bikini Contest  
-The State Fair Food That Will Cause Y...  
-The 20 Worst Hipster Bands: The Compl...  
-Internet Cat Video Film Festival Exists  
-More news at Village Voice »  
+2 Detained in Shooting at Halloween P...  
+Teen Critical, 2 Hurt After Shooting...  
+Police ID Woman Found Dead in Trunk o...  
+Huge Crowds Gather for WeHo Halloween...  
+More news at KTLA »  
   
   
-Assassin's Creed 3 -- A Gaming Revolu...  
-Assassin's Creed 3 Story Preview With...  
-Assassin's Creed 3: Historical Scaven...  
-Assassin's Creed 3 Gameplay Preview V...  
-More news at G4TV »  
+Sandy Topples Old Oak, Unearths Skeleton  
+Chris Christie Cancels Halloween  
+Kate Moss Dishes on Johnny Depp, Heroin  
+Gene Hackman Slaps Homeless Guy  
+More news at Newser »  
   
 
 Also on Fark
 
-Main JFK and Newark airports to re-open Wednesday, LaGuardia closed indefinately ( reuters.com ) » (5 comments) Sports For those of you who think there's not enough scoring in soccer, well, here you go ( soccernet.espn.go.com ) » (20 comments) Business UBS to restructure and pull out of 10,000 computers, resulting in an annual cost savings of 5.4 billion ( dealbook.nytimes.com ) » (19 comments) Geek Quantum entanglement is so adorable Oh by the way, your reality is broken ( arstechnica.com ) » (0 comments) Entertainment George Wendt hospitalized with chest pains, symptoms outside the Norm ( upi.com ) » (22 comments) Politics John McCain really took today's "storm relief rally" to heart....by spending his entire speech accusing Obama of a coverup in Libya ( firstread.nbcnews.com ) » (135 comments) Video Gangnam: Ghostbuster's style ( youtube.com ) » (5 comments) FarkUs Jamie has Autism. We were told that he wasn't capable of doing things 'normal' kids do. At 17, he's a straight A student, and working on his Eagle Scout rank. He'd like to help the Homeless Animals Rescue Team. Can you help Jamie reach his goal? ( hart90.org ) » (45 comments)
+Main The world's best job, especially if your coworkers are busty women ( huffingtonpost.com ) » (22 comments) Sports Because people like to keep kicking Lance Armstrong while he is down, an English community is burning an effigy of him ( abc27.com ) » (34 comments) Business In wake of executive shakeup, Apple share price falls from "Don't even think about it" to "Get real" ( chicagotribune.com ) » (22 comments) Geek Curiosity rover takes best self portrait ever, still no duckface ( wired.com ) » (8 comments) Entertainment Kim Kardashian Sex Tape 2: Electric Boogaloo ( ok.co.uk ) » (40 comments) Politics Obama ticks above 300 predicted EV in first time since Denver debate ( fivethirtyeight.blogs.nytimes.com ) » (115 comments) Video People love to complain at companies on Twitter, hoping to publicly shame them into complying with their demands. Then there are the people who prank call those complainers to publicly shame them for complaining ( youtube.com ) » (23 comments) FarkUs The best Halloween songs of all time ( entertainment.time.com ) » (35 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main JFK and Newark airports to re-open Wednesday, LaGuardia closed indefinately
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Oct 31 2012 08:00:37  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Nov 01 2012 08:00:36  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
