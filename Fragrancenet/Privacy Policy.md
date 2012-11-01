@@ -367,7 +367,7 @@ Enter our contest and win a $250 shopping spree!
 
 \* = required field Enter Name \* Enter Email Address \* Enter Favorite Fragrance: Mens Womens
 
-Next Drawing: Nov 1 2012
+Next Drawing: Dec 1 2012
 
 Last Month's Winner: stella
 
