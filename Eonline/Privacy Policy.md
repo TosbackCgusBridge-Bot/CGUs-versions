@@ -5,6 +5,7 @@ E! Online
 *   Photos
 *   Videos
 *   TV Scoop
+*   Trends
 *   E! Shows
 *   Red Carpet
 
@@ -140,4 +141,4 @@ E! also uses products and services provided by Nielsen-NetRatings to help us bet
 *   E! News Now
 *   E! Online Breaking News Alerts
 
-RSS Feeds Click an RSS Feed to Subscribe Headlines Movie Headlines TV Headlines Celebrity Headlines Fashion Red Carpet Blog Celebrity Videos The Soup Blog Watch with Kristin Read More... Podcasts Privacy Policy |  Terms of Use |  Independent Programming Report |  © E! Entertainment Television, LLC. A Division of NBCUniversal.  All rights reserved.
+RSS Feeds Click an RSS Feed to Subscribe E! News TV Scoop Celebrity Photos Red Carpet Videos Fashion Police Ask E! The Soup Read More... Podcasts Privacy Policy |  Terms of Use |  Independent Programming Report |  © E! Entertainment Television, LLC. A Division of NBCUniversal.  All rights reserved.
