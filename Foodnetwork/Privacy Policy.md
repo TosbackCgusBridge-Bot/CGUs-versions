@@ -5,24 +5,24 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
             *   Red Velvet Cupcakes
             *   Lemon Drop Cupcakes
             *   Milk Chocolate Tart
-            *   Salted Peanut Brownies
-            *   Wicked Cupcakes
-            *   Carrot Cupcakes
+            *   Pumpkin Pie
+            *   Ultimate Cheeseburger
+            *   Bolitas de Queso
         *   Top Collections
-            *   Pumpkin
-            *   Halloween
+            *   Bonfire
             *   Cupcakes
+            *   Stir Fries
+            *   British
             *   Slow Cooker
             *   Desserts
-            *   Baking
         *   Top Articles
             *   Andy Bates Recipes
             *   30 Stand-by Suppers
-            *   9 Easy Fish Dishes
+            *   20 Traybake Recipes
             *   47 Comfort Foods
+            *   34 Slow-cooker Soups
             *   10 Recipes We're Loving
-            *   8 Cupcake Icing Tips
-        *   *   Halloween 69 Halloween Recipes Eat, drink and be scary with our collection of spooky treats.
+        *   *   Speedy Traybakes 20 Traybake Recipes Go for a slice of nostalgia with these speedy traybakes.
             *   Weeknight Meals 30 Quick Suppers Delicious dishes to make with store cupboard ingredients.
             *   Andy Bates 86 Andy Bates Recipes All your favourite Andy recipes, plus new dishes from his travels.
         *   ALL RECIPES
@@ -81,11 +81,11 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 *   Cookery School
     *   *   Top Recipe Videos
             *   Red Velvet Cupcakes
+            *   Paula's Red Velvet
+            *   Winning Cupcakes
+            *   How to Pipe a Rose
+            *   Halloween Trick Food
             *   All-in-One Cupcakes
-            *   Caramel Apple Pie
-            *   Creamy Cheesecake
-            *   Custard Tart
-            *   Deep-dish Apple Pie
         *   Seasonal Recipes
             *   Butternut Squash Soup
             *   Savoury Beer Mussels
@@ -100,7 +100,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
             *   Grapefruit Julep
             *   Season's End Cocktail
             *   Hot Toddy
-        *   *   Speedy Hot Toddy Speedy Hot Toddy An old wine box is the key to this quick toddy recipe.
+        *   *   Speedy Hot Toddy Speedy Hot Toddy A boutique hot toddy recipe you can make in the microwave.
             *   The Dean Martini The Dean Martini James Bond may have abandoned the martini, but you don't have to.
             *   The Zegroni The Zegroni Just three ingredients make this uber-sophisticated cocktail.
         *   ALL COOKERY SCHOOL
@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Kid in a Candy ... UP NEXT › Barefoot Contes...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Nigella Kitchen UP NEXT › Fresh Food Fast...
 
 *   Channel  
     Guide
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
-*   They look great RT @definitelycake @FoodNetwork\_UK My Halloween Baked Treats! Halloween Cake Pops! #Halloween #CakePops t.co/Jt512ZEb
-*   But not too cute to eat! RT @apriljharris: @FoodNetwork\_UK Happy Hallowe'en to you too! Those caramel mice are seriously cute :)
-*   Aren't they the best? What are you making for Halloween? RT @dalepakfoods: @FoodNetwork\_UK Happy Halloween! They are so cute!
-*   @yojodieho ahhh. Glad you like it. Let us know if you make any of @eatmypie's recipes. We love to see pics!
-*   Anyone fancy a @Duff\_Goldman eyeball cake for #Halloween? You have to watch this video: t.co/309P7iCn
-*   Happy Halloween! Have a caramel mouse on us! #Halloween t.co/CuzeBMxc t.co/YksqfS0G
-*   Looking for some quick and easy recipes for dinner? Look no further than the trusty stir fry t.co/AdgiESHn #recipes
-*   Have a slice of cake for us! RT @freeviewtv: Thanks guys! :) RT @FoodNetwork\_UK Happy birthday @FreeviewTV! #Freeview10
-*   Happy birthday @freeviewtv! #Freeview10
-*   @asdfghjklbong Afraid not but don't fear, you can catch up on your favourite shows online now! t.co/f1Bmxbid
+*   Exciting times! RT @trishafantastic: @FoodNetwork\_UK Yay, can't wait to see what the Food Network has in store! #InaGarten Marathon please!
+*   @gordon\_rhodes tell us about it! Phew!
+*   I can't believe we're in November already! One step closer to Christmas...
+*   YAY! Glad to have put a smile on both your faces! RT @vwheatos: @sdawett @FoodNetwork\_UK I had this revelation the other day! #winning!
+*   Last chance for you to enter to win one of 100 Wild Cooking, recipe books from Alaska Seafood. Don't miss out! t.co/tHbZSWHD
+*   20 blood-curdling cocktails to send shivers down your spine t.co/QnEB01ca #halloween
+*   Last chance to enter our competition to win 1 of 100 @AlaskaSeafoodUK cookbooks t.co/lJdTQNEP
+*   @fancynancycakes yes please. No, not sure anyone could make it in the end. Am gutted to have missed it. How's it all going? :)
+*   @fancynancycakes I can't wait! Catch up soon please?
+*   @fancynancycakes aw shucks! You're too kind. But I do now have a massive grin on my face!
 
 Follow Us
 
