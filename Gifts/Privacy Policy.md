@@ -1,4 +1,4 @@
-Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! Pin a gift from Gifts.com for a chance to WIN IT! Well choose a winner every week to win the gift, up to a $100 value. Learn More Vote for the Best Gifts of 2012 &. You Could Win $1000! Learn More
+Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! Create a Winter Wonderland Pinterest Board through December 20th for your chance to win $1000! Well choose a winner December 21st. Learn More Vote for the Best Gifts of 2012 &. You Could Win $1000! Learn More
 
 *   Christmas
     
