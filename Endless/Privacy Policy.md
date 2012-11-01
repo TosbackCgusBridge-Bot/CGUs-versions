@@ -324,6 +324,7 @@ Borrow from over 180,000 titles for free
 *   Music
 *   MP3 Downloads
 *   Musical Instruments
+*   Entertainment Collectibles
 *   Video Games
 *   Game Downloads
 
@@ -462,5 +463,3 @@ View Cart (0 items) (0 item) (0 items)
 *   Wish from Any WebsiteAdd items to your List from anywhere
 *   Wedding Registry
 *   Baby Registry
-*   Kids' Birthdays
-*   Friends &. Family Gifting
