@@ -1,24 +1,3 @@
-Cheap Cruise Holidays &. Latest Cruises Deals Wednesday 31st Oct 2012 0800 408 6200
-
-Sign up to our newsletter for all the latest cruise news, reviews, photos and answers...
-
-Cruise Reviews  
-134,748 Opinions Cruise Answers  
-198,404 Q&As Cruise Photos  
-15,179 Real Photos Cruise Videos  
-1,732 Real Videos Ports of Call  
-Maps &. Shore Tours Our Cruise  
-Consultants Cruise Info  
-Guides Cruise Forum Get a Quote Special Offers Last Minute Cruises Luxury Cruises Tailor Made Cruise River Cruises Family Cruises Free Brochures Make a Payment Cruises From SouthamptonAll UK PortsBarcelonaVeniceMalagaRomeNew YorkDestinations Caribbean CruisesCheap Med CruisesBaltic CruisesNorwegian FjordsOne off SpecialsTransatlantic CruiseCruises to AlaskaExotic CruisesRiver CruisesCruise Lines P&O CruisesCunard CruisesCelebrity CruisesRoyal Caribbean CruisesPrincess CruisesMSC CruisesFred. Olsen CruisesNCL CruisesDisney CruisesCarnival CruisesHolland AmericaPullmanturOceania CruisesSeabournRegentAzamara Club CruisesCrystalHurtigruten CruisesSwan HellenicVoyages of Discovery CruisesCruise &. Maritime VoyagesCostaIsland CruisesLuxury Cruise CollectionThomsonSilverseaStar Clipper CruisesVoyages To AntiquitySeaDream Yacht ClubWindstar CruisesRiver CruisesViking River CruisesAma WaterwaysUniworld River CruisesAvalon River CruisesThe River Cruise LineAPT River CruisesShearings River CruisesDiscover EgyptSwan Hellenic River CruisesRiviera Travel Latest Photos  
-More of John and Sheila's pics. Posted on 25 Oct 2012  
-By Thomas, Worksop  
-John and Sheila's cruise Posted on 25 Oct 2012  
-By Thomas, Worksop  
-Celebrity Eclipse Aqua Class Cabin 1555 Posted on 20 Oct 2012  
-By CruiseGas, Skelmersdale  
-The Black Sea Cruise Posted on 19 Oct 2012  
-By davies, pontypridd See all photos
-
   
 The following information explains our policy regarding any personal information you may supply to us when visiting Cruise.co.uk. You can generally visit our web site without telling us who you are or revealing any personal information, including your e-mail address. Cruise.co.uk does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis, such as when requesting a brochure or accessing our cruise booking applications. Cruise.co.uk will not share e-mail addresses nor any information submitted by a user when accessing our web site with anyone outside Cruise.co.uk nor will Cruise.co.uk disclose user information to any third party.     
      
@@ -36,21 +15,3 @@ Every time a user visits our website, web analytics software provided by a Googl
 These cookies can tell us whether or not you have visited the site before.  
 Your browser will tell us if you have these cookies, and if you don't, we generate new ones.  
 This allows us to track how many individual unique users we have, and how often they visit the site.
-
-Share this page with friends
-
-Facebook Twitter Google+ Email Email to a friend  
-or fellow cruiser Bookmark this page What are these?
-
-*   Delicious
-*   Digg
-*   reddit
-*   Facebook
-*   StumbleUpon
-
-By using Cruise.co.uk you agree to our cookies and privacy policy Cruise | Cruises | Cruise Deals | Cruise Holidays | Celebrity Cruises | Cunard Cruises | Fred. Olsen Cruises | NCL Cruises | Ocean Village Cruises | P&O Cruises  
-Princess Cruises | Royal Caribbean | Cruises from Southampton | Cruises from Dover | Cruises from Barcelona  
-Cruises from Venice | Cruises from Malaga | Cruises from Rome | Cruises from Miami | Cruises from New York  
-Mediterranean Cruises | Caribbean Cruises | Baltic Cruises | Transatlantic Cruises  
-Cruise Travel Insurance | Cruise Travel Visas | Cruiseline Terms and Conditions  
-Contact &. About Us | Cruise.co.uk Terms &. Conditions | Privacy Policy | Sitemap | Unsubscribe
