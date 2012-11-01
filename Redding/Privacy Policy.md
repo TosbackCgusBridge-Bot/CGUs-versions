@@ -174,6 +174,9 @@ Record Searchlight
 *   Cars
 *   Classified
 
+*   Get severe weather notifications anywhere via our new iPhone and Android app
+    
+
 Privacy Policy Redding.com Privacy Policy
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
@@ -267,24 +270,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Two local companies thrive in tough economy Published 10/29/2012 at 11:25 p.m. 13 comments
-*   UPDATED: Sandy's death toll climbs to 50. millions without power Updated 10/30/2012 at 8:36 p.m. 35 comments
-*   Tom Elias: Red or blue: Where would you rather live? Published 10/30/2012 at 12:00 a.m. 102 comments
-*   Herger, Walmart unveil wind turbine in Red Bluff Published 10/29/2012 at 11:25 p.m. 71 comments
-*   Regina Thomas: Attorney shows no respect for public Published 10/29/2012 at 12:00 a.m. 98 comments
+*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 114 comments
+*   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Updated 10/31/2012 at 8:29 p.m. 39 comments
+*   UPDATED: Dahle edits TV ad after complaint from Redding dentist Updated 10/31/2012 at 2:51 p.m. 23 comments
+*   Ex-Redding defense attorney accused of sexual battery Published 10/30/2012 at 11:52 p.m.
+*   Lydia Reed: Obama has proven himself a failure Published 10/31/2012 at 12:00 a.m. 122 comments
 
-Photo Galleries Hurricane Sandy AAUW Tour Pierson home Golden opportunity
+Photo Galleries Hurricane Sandy Aftermath Hurricane Sandy AAUW Tour Pierson home
 
 *   Bob Williams: The two Americas and two Romneys Published 10/29/2012 at 12:00 a.m. 133 comments
-*   Tom Elias: Red or blue: Where would you rather live? Published 10/30/2012 at 12:00 a.m. 102 comments
-*   Regina Thomas: Attorney shows no respect for public Published 10/29/2012 at 12:00 a.m. 98 comments
-*   UPDATED: Man shot dead in Shasta Lake. victim's friend brought on shooting by homeowner, det. says Published 10/28/2012 at 12:00 a.m. 81 comments
-*   Herger, Walmart unveil wind turbine in Red Bluff Published 10/29/2012 at 11:25 p.m. 71 comments
+*   Lydia Reed: Obama has proven himself a failure Published 10/31/2012 at 12:00 a.m. 122 comments
+*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 114 comments
+*   Tom Elias: Red or blue: Where would you rather live? Published 10/30/2012 at 12:00 a.m. 107 comments
+*   Thomas Sowell: 'Cooling out' the voters Published 10/31/2012 at 12:00 a.m. 92 comments
 
-*   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 24 comments
+*   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 25 comments
+*   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Published 10/31/2012 at 4:55 p.m. 39 comments
+*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 114 comments
 *   Tehama fair devotes day to goat education Published 10/21/2012 at 11:30 p.m. 8 comments
-*   As early jail releases continue, property crimes are on the rise Published 10/20/2012 at 9:28 p.m. 113 comments
-*   Utah man found with more than 100 lbs. of pot in Trinity County, deputies say Published 10/22/2012 at 5:43 p.m. 41 comments
 *   UPDATED: Police catch Redding man they say was breaking into cars Published 10/29/2012 at 6:44 a.m. 26 comments
 
 Weather
@@ -293,25 +296,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 51° Fair Wind: Calm Today 63° 51° Wed 05:00 PM Mostly Cloudy Showers Temp: 61° Thu 05:00 AM Mostly Cloudy Showers Temp: 53° Thu 05:00 PM Partly Sunny Temp: 64°
+Currently 56° Light Rain Fog/Mist Wind: SW 6mph Today 65° 51° Thu 05:00 PM Mostly Sunny Temp: 63° Fri 05:00 AM Mostly Clear Temp: 46° Fri 05:00 PM Partly Sunny Temp: 68°
 
-Feels Like: 61°
+Feels Like: 63°
 
-Humidity: 58%
+Humidity: 49%
 
-Precip: 80%
+Precip: 48%
 
-Feels Like: 53°
+Feels Like: 46°
 
-Humidity: 93%
+Humidity: 86%
 
-Precip: 80%
+Precip: 0%
 
-Feels Like: 64°
+Feels Like: 68°
 
-Humidity: 42%
+Humidity: 38%
 
-Precip: 43%
+Precip: 0%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -327,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Wednesday Oct 31
 *   Thursday Nov 1
 *   Friday Nov 2
+*   Saturday Nov 3
 *   More BROWSE Icon
-
-*   Risen King Community Church Harvest Carnival Mistletoe Elementary School 4:30 p.m.
-*   Halloween Historical Walk of Redding Cemetery See Description 5 p.m.
-*   Cow Creek Community Church Fall Festival Cow Creek Community Church 6 p.m.
-*   Central Valley Assembly of God Fall Festival Central Valley Assembly of God 6 p.m.
-*   Crosspointe Community Church Fall Festival See Description 6 p.m.
-
-More Events »
 
 *   United Bikers of Northern California and Safeway Presents 2012 Food Drive See Description 9 a.m.
 *   Free Photo Session &. Print TA Schmidt Photography 9 a.m.
@@ -356,13 +351,21 @@ More Events »
 
 More Events »
 
+*   Farmland 5K at Hawes Farm Hawes Ranch &. Farm Supply 7:30 a.m.
+*   Shasta Lake Community Holiday Bazaar John Beaudet Community Center 8 a.m.
+*   Jellys Ferry to Bend Float Trip, Saturday Nov. 3rd Sacramento River 8 a.m.
+*   Goat Education Day 2012 and Special Reserve Meat and Milker Auction Tehama District Fair grounds 9 a.m.
+*   Third annual Crafts for Missions Holiday Fair Trinity Lutheran Church 9 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Boy Scouts of America: Trail of Betrayal
+*   Weather Radio
     
-    Investigation on the case files
+    We have you covered with our **iPhone** Storm Shield.**Now available for Android!**
     
     20 Under 40
     
@@ -372,17 +375,17 @@ More Events » Features
     
     The community painting project ends November 3rd! Have you registered yet?
     
-*   The results are in!
+*   2012 Candidates
+    
+    Use our guide to compare your viewpoints to the candidates' views.
+    
+    The results are in!
     
     See who our readers picked as the Best of the North State.
     
     Election Coverage
     
     Voter resources, stories, photos, videos and more.
-    
-    Weather Radio
-    
-    We have you covered with our **iPhone** Storm Shield.**Now available for Android!**
     
 *   Download Our Apps
     
