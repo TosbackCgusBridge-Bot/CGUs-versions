@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-European Commissioner affirms #CETA— the cousin of #ACTA —will be finalized this year. https://eff.org/r.4apT #cdnpoli #netfreedom
+No one should be killed or tortured for what they say online. Demand an end to the culture of impunity. http://daytoendimpunity.org #Nov23
 
-Oct 31 @ 2:35pm
+Nov 1 @ 6:53pm
 
-In San Francisco? Join us on 11/7 for an exclusive evening with Rob Reid, author of Year Zero https://eff.org/r.a7ph
+Join @EFF and author Rob Reid for a Geek Reading of his sci-fi novel, Year Zero, next Wed at Hattery Labs in SF. https://eff.org/r.a6pY
 
-Oct 31 @ 2:21pm
+Nov 1 @ 6:24pm
 
 *   Twitter
 *   Facebook
