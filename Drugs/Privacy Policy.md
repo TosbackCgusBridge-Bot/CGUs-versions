@@ -145,7 +145,7 @@ Recently Approved
 
 More...
 
-Get Updates by Email **Email me:** FDA Medwatch Alerts News Roundup DailyWeeklyMonthly Email Fibromyalgia, Chronic Fatigue, Thyroid Treatment Scientific Approach. Caring Doctors. Free Evaluation at Our Local Clinic. Take our health quiz and make an appointment today!   FibroAndFatigue.com Weight Loss Medicine Immediate weight loss - reduces fat absorbtion - less fat means less pounds   www.pharmcom.com Support About Drugs.com Your Privacy
+Get Updates by Email **Email me:** FDA Medwatch Alerts News Roundup DailyWeeklyMonthly Email Weight Loss Medicine Immediate weight loss - reduces fat absorbtion - less fat means less pounds   www.pharmcom.com Support About Drugs.com Your Privacy
 
 *   Advertise With Us
 *   Frequently Asked Questions
