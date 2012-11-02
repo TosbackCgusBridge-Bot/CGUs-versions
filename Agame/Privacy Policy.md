@@ -146,7 +146,7 @@ Best Games
 *   Snail Bob
 *   Flakboy 2
 *   Bloons Tower Defense 3
-*   Lose the Heat 3: Highway Hero
+*   Lose the Heat 2
 *   Uphill Rush 3
 
 Best Game Types
