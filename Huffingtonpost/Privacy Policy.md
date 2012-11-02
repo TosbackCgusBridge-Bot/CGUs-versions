@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Spain
+*   Iran
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-November 1, 2012 Edition: **U.S.**
+November 2, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ November 1, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   New Polls Show Obama's Ohio Edge Holding27k
-    *   Obama, Christie Tour Damage Left By Storm14k
-    *   Romney Relief Effort Under Scrutiny27k
-    *   Romney Refuses To Talk About His FEMA Plans48k
-    *   Romney Plunges Into Democratic Turf8k
+    *   Michael Bloomberg Makes Endorsement15k
+    *   Secret Service Agent Dies In Apparent Suicide1k
+    *   Read The Report The GOP Doesn't Want You To See17k
+    *   Could The Swing State Polls Be Wrong?14k
+    *   Best Mayor Ever Invites Powerless Hurricane Victims Over To His House779
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ November 1, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   'Nobody Saw It Coming': Hundreds Displaced In New Jersey Describe Fast-Rising Flood88
-    *   B of A Fires Hotshot Exec Over An Omelet?621
-    *   Hospital Defends Failed Generators That Forced Evacuation During Hurricane Sandy251
-    *   Top Selling Halloween Candy Both Surprising And Disgusting 130
-    *   Health Insurer Makes Bizarrely Altruistic Move1k
+    *   $50 BILLION647
+    *   Krugman: GOP 'Holding America Hostage'1k
+    *   'He Made His Fortune Off The Misfortune Of Others'522
+    *   McDonald's Franchise Facing Huge Fine Over Undocumented Worker278
+    *   Swedish Government Paying Unemployed To Move To Norway315
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ November 1, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   SHOCKER: Disney Buys LucasFilm. New 'Star Wars' Planned2k
-    *   Who Should Direct 'Star Wars 7'?138
-    *   Would You Pay $250 For A Rihanna Album?240
-    *   Taylor Swift's 'Red' Sells 1.2 Million Copies216
-    *   There Are Already 'Star Wars: Episode VII' Rumors81
+    *   NBC Plans Star-Studded Sandy Benefit442
+    *   What Does Barack Obama Listen To While Working Out?339
+    *   20 Things We Want To See In The Next 'Star Wars'301
+    *   Legendary Singer Too Ill To Perform152
+    *   EXCLUSIVE: First Look at Sacha Baron Cohen &. Helena Bonham Carter In 'Les Miserables'87
     
     Go to Entertainment **More in Entertainment**
     
@@ -87,10 +87,10 @@ November 1, 2012 Edition: **U.S.**
 *   Tech
     
     *   Instagram Users Flood Service With Pics From Superstorm12
-    *   AT&T, T-Mobile Make Big Announcement In Wake Of Hurricane Sandy272
-    *   WATCH: Massive Explosion Rocks Manhattan During Storm60
+    *   During Hurricane Sandy, Twitter Proves A Lifeline Despite Trolls 159
     *   INFOGRAPHIC: New York City's Blackouts
-    *   Here's Why It Takes So Long To Get The Lights Back On413
+    *   9 iPad Mini Reviews: Love It, Or Hate It? 235
+    *   AT&T, T-Mobile Make Big Announcement In Wake Of Hurricane Sandy345
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ November 1, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   WATCH: Chris Matthews Flips Out On Climate Change Deniers5k
-    *   Ali Velshi On Hurricane Sandy Coverage: 'I Think The Criticisms Are Well-Intentioned And Fair'297
-    *   CNN, Weather Channel Issue Badly False Sandy Report1k
-    *   WATCH: ABC News Producers Ride Out Sandy In Fire-Stricken Area
-    *   Morning Shows Cancel Halloween Specials Over Sandy69
+    *   PHOTO: Businessweek's Bold Hurricane Sandy Cover4k
+    *   Nate Silver Bets Joe Scarborough Over Election Outcome3k
+    *   Ali Velshi On Hurricane Sandy Coverage: 'I Think The Criticisms Are Well-Intentioned And Fair'505
+    *   WATCH: Michael Moore Tears Into CNN's Hurricane Coverage — On CNN666
+    *   NPR To 4-Year-Old: Sorry We Made You Cry About 'Bronco Bamma'1k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ November 1, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   France Deports Radical Tunisian Imam63
-    *   Airport Reopens After WWII Bomb Found80
-    *   Celebratory Gunfire At Wedding Cuts Cable, 23 Electrocuted710
-    *   Sandy Leaves 145,000 Canadians Without Power10
-    *   Chinese Think Tank Urges End To One-Child Policy687
+    *   Mission Accompished: World War II Carrier Pigeon's Coded Secret Message Finally Received177
+    *   France Deports Radical Tunisian Imam373
+    *   China Tests New Prototype Stealth Fighter215
+    *   Brit Gives Trick-Or-Treaters Cocaine Instead Of Candy38
+    *   Italy Furious At Romney Over Campaign Remarks777
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ November 1, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Creepy Ingredients Lurking In Your Halloween Candy70
-    *   'I Lost 76 Pounds, But More Importantly, I Gained My Life Back'21
-    *   11 Facts You Didn't Know About Lefties42
+    *   8 Foods That Could Trigger Acid Reflux80
+    *   Firm Linked To Meningitis Outbreak Recalls All Products291
+    *   Teen Known As The 'Human Mannequin' Strives For Normal Life, Career In Fashion Industry28
+    *   20 Of The Best Fitness Experts Worth Following On Twitter16
     *   Compassion After Sandy: 6 Simple Things You Can Offer To A Friend Without Power
-    *   More Than A Gym: Fitness Clubs Open To Help Those Displaced By Sandy
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -170,13 +170,14 @@ November 1, 2012 Edition: **U.S.**
     *   Post 50
     *   Taste
     *   Religion
+    *   OWN
 *   Style
     
-    *   PHOTOS: Queen Elizabeth II Channels Kate Middleton81
-    *   WATCH: Ellen DeGeneres Dresses Up As Sofia Vergara's Wardrobe Malfunction43
-    *   PHOTO: Gwyneth Paltrow Tries A Skintight Leather Look257
-    *   PHOTOS: Reliving Halloween At The White House17
-    *   Angelina Jolie Wedding Dress Designer Revealed45
+    *   PHOTOS: Kate Moss Went As Morticia Addams For Halloween67
+    *   PHOTOS: President Obama Has A Leather Bomber Jacket948
+    *   PHOTO: Khloe Kardashian's Nipple Steals The Spotlight On 'X Factor'58
+    *   PHOTOS: Miranda Kerr Is Esquire UK's Sexiest Woman Alive258
+    *   PHOTOS: Which Model Makes The Best Cleopatra?51
     
     Go to Style **More in Style**
     
@@ -194,11 +195,11 @@ November 1, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   23 Last-Minute Halloween Costumes107
-    *   WATCH: Not Sure This Was Worth The Risk96
-    *   His Halloween Costume Will Amaze You114
-    *   PHOTO: This Is No Cone Of Shame13
-    *   Every Halloween Party Ever
+    *   23 Last-Minute Halloween Costumes113
+    *   'Yeah, I Guess He Found That F\*cking Light Switch, Huh?'2k
+    *   His Halloween Costume Will Amaze You164
+    *   7 Sites You Should Be Wasting Time On Right Now
+    *   The Funniest Halloween Costumes Of 2012
     
     Go to Comedy **More in Comedy**
     
@@ -215,11 +216,11 @@ November 1, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next The Final Punches
-    *   Next Sewage From Sandy
-    *   Coming Up Romney's Bad Budget Past
-    *   Coming Up Black Gold Boom
-    *   Coming Up Faith Beyond SandyGo to HuffPost Live
+    *   Next Cut the National Guard?
+    *   Next Hourly Workers Hit Hard
+    *   Coming Up Sandy Insurance Woes
+    *   Coming Up My Parents Found God
+    *   Coming Up The Pain of MiscarriageGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
@@ -258,6 +259,7 @@ November 1, 2012 Edition: **U.S.**
     *   Divorce
     *   Huff/Post 50
     *   Marlo Thomas
+    *   OWN
     
     **Tech &. Science**
     
@@ -306,7 +308,8 @@ November 1, 2012 Edition: **U.S.**
     *   AOL Shopping
     *   Real Estate
 
-*   Hurricane Sandy
+*   Hurricane
+*   OWN
 *   Election Maps
 *   Opportunity
 *   2012 Blog
