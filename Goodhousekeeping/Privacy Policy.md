@@ -27,7 +27,7 @@ Try: 7 Years Younger • Travel Mugs • Quick Dinners
     *   Seasonal Recipes
 *   Home &. Organizing
     
-    7 DIY Ideas for Fall Decor
+    Season-Spanning **Fall Decor**
     
     Read More!
     *   Cleaning &. Organizing
@@ -40,7 +40,7 @@ Try: 7 Years Younger • Travel Mugs • Quick Dinners
     *   Stain Buster Tool
 *   Diet &. Health
     
-    5 Moves for Toned Arms
+    One Month to Toned Thighs
     
     Read More!
     *   Diet Plans &. Tips
@@ -64,7 +64,7 @@ Try: 7 Years Younger • Travel Mugs • Quick Dinners
     *   Virtual Makeover Tool
 *   Family &. Relationships
     
-    Stop Fighting With Your Kid
+    At Home with **Miranda Lambert**
     
     Read More!
     *   Marriage &. Sex Advice
@@ -77,7 +77,7 @@ Try: 7 Years Younger • Travel Mugs • Quick Dinners
     *   Books &. Blogs
 *   Holidays
     
-    Spook-tacular Halloween Ideas
+    Our Simplest Stuffing Recipes
     
     Read More!
     *   Valentine's Day
@@ -123,16 +123,16 @@ In order to view the Privacy Policy you must enable javaScript. Print Share Late
 *   Home  
     &. Organizing
     
-    7 DIY Ideas for Fall Decor
+    Season-Spanning **Fall Decor**
     
-    Easy projects you can do at home
+    Stick to a season-spanning look that's more crafty than creepy
     
 *   Diet  
     &. Health
     
-    5 Moves for Toned Arms
+    One Month to Toned Thighs
     
-    Get strong, sexy arms fast
+    Your ultimate leg-toning workout
     
 *   Beauty  
     &. Anti-Aging
@@ -144,15 +144,15 @@ In order to view the Privacy Policy you must enable javaScript. Print Share Late
 *   Family  
     &. Relationships
     
-    Stop Fighting With Your Kid
+    At Home with **Miranda Lambert**
     
-    Try these smart and surprising ideas to restore the peace
+    The country music star discusses her childhood, marriage, and Thanksgiving tradition
     
 *   Holidays
     
-    Spook-tacular Halloween Ideas
+    Our Simplest Stuffing Recipes
     
-    Halloween decorating, recipes, and costume ideas for kids
+    Our favorite Thanksgiving recipes
     
 *   Product  
     Reviews
