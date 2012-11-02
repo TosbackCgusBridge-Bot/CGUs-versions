@@ -287,7 +287,7 @@ MYPOINTS.COM PARTNERSHIPS
 
 Did You Know?
 
-MyPoints shopping can be overwhelming at times. Use the search bar on top to make things easy. Search for an online retailer, or product.
+MyPoints is one of the top online coupon sites. Yup, we're here to save you money.
 
 Contact Us
 
