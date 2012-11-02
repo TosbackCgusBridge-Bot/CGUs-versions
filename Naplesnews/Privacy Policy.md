@@ -143,11 +143,6 @@ Naples Daily News
 *   Cars
 *   Classified
 
-*   2012 Halloween
-    
-    Vote in our Halloween Costume Contest | Photos: Trick or Treat | Share Your Photos | People | Pets »
-    
-
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -440,23 +435,23 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Collier, Lee voters wait ... and wait ... and wait ... to cast ballots Published 10/31/2012 at 5:00 a.m. 108 comments
-*   Accused killer of Tia Poklemba, captured in Mexico, extradited to Lee County Updated 10/31/2012 at 8:17 p.m. 31 comments
-*   In the Know: New dining options at former Rossopomodoro and L’Etoile restaurants Published 10/31/2012 at 5:17 a.m. 17 comments
-*   Transient shot by Collier deputy released from hospital, arrested Published 10/31/2012 at 8:07 p.m. 18 comments
-*   Superstorm Sandy: Airports and stock exchange reopen. N.J. devastated Updated 10/31/2012 at 12:37 p.m. 31 comments
+*   Naples resident gives more than $750,000 to Republican groups, candidates Published 11/1/2012 at 5:45 a.m. 134 comments
+*   Bill Clinton will campaign for Obama on Friday in Fort Myers Published 11/1/2012 at 12:02 p.m. 114 comments
+*   Report: U.S. private sector adds 158,000 jobs in October Published 11/1/2012 at 9:34 a.m. 57 comments
+*   Naples man accused of punching neighbor, bragging on Twitter Published 11/1/2012 at 6:40 p.m. 11 comments
+*   Transient shot by Collier deputy released from hospital, arrested Published 10/31/2012 at 8:07 p.m. 48 comments
 
-Photo Galleries Massive devastation from Hurricane Sandy Hurricane Sandy Editorial Cartoons: Oct. 31, 2012
+Photo Galleries Hurricane Sandy Your Photos: Trick-or-treating in… 2nd annual Halloween Spooktacular on…
 
-*   Obama cancels Florida campaign trip, returns to D.C. Published 10/29/2012 at 9:05 a.m. 191 comments
-*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 379 comments
-*   Collier, Lee voters wait ... and wait ... and wait ... to cast ballots Published 10/31/2012 at 5:00 a.m. 108 comments
-*   Superstorm Sandy leaves death, damp and darkness in wake Published 10/30/2012 at 5:33 a.m. 58 comments
-*   Lee deputies arrest 40 in online child sex sting Published 10/29/2012 at 5:03 p.m. 53 comments
+*   Collier, Lee voters wait ... and wait ... and wait ... to cast ballots Published 10/31/2012 at 5:00 a.m. 149 comments
+*   Naples resident gives more than $750,000 to Republican groups, candidates Published 11/1/2012 at 5:45 a.m. 134 comments
+*   Bill Clinton will campaign for Obama on Friday in Fort Myers Published 11/1/2012 at 12:02 p.m. 114 comments
+*   Superstorm Sandy leaves death, damp and darkness in wake Published 10/30/2012 at 5:33 a.m. 57 comments
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 381 comments
 
 *   Venice diocese removes once-popular priest in Bonita Springs from priesthood Published 10/24/2012 at 5:10 a.m. 38 comments
-*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 379 comments
-*   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 67 comments
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 381 comments
+*   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 68 comments
 *   Endorsement editiorial: The 11 Florida constitutional amendments Published 10/27/2012 at 4:00 a.m. 5 comments
 *   In the Know: New dining options at former Rossopomodoro and L’Etoile restaurants Published 10/31/2012 at 5:17 a.m. 17 comments
 
@@ -466,40 +461,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 60° Fair Wind: Calm Today 79° 64° Thu 08:00 PM Cloudy Temp: 73° Fri 08:00 AM Partly Sunny Showers Temp: 66° Fri 08:00 PM Clear Temp: 70°
+Currently 67° Fair Wind: N 4mph Today 77° 67° Fri 08:00 PM Mostly Clear Temp: 71° Sat 08:00 AM Mostly Sunny Temp: 63° Sat 08:00 PM Mostly Clear Temp: 73°
+
+Feels Like: 71°
+
+Humidity: 53%
+
+Precip: 8%
+
+Feels Like: 63°
+
+Humidity: 70%
+
+Precip: 0%
 
 Feels Like: 73°
 
-Humidity: 63%
+Humidity: 52%
 
-Precip: 7%
-
-Feels Like: 66°
-
-Humidity: 78%
-
-Precip: 23%
-
-Feels Like: 70°
-
-Humidity: 57%
-
-Precip: 15%
+Precip: 2%
 
 More Weather » Calendar
 
-*   Thursday Nov 1
 *   Friday Nov 2
 *   Saturday Nov 3
+*   Sunday Nov 4
 *   More BROWSE Icon
-
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Cash for Candy Children's Dentistry of Naples 8 a.m.
-*   Boater Education: Suddenly In Command (SIC) United States Coast Guard Auxiliary Flotilla 96 13531 Vanderbilt Road Naples, FL 34110 9 a.m.
-*   Workshop: Nature Photography Made Simple &. Productive Tigertail Beach 9 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-
-More Events »
 
 *   RedSnook Catch &. Release Charity Tournament Naples, Goodland and Everglades City 7 a.m.
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
@@ -517,23 +504,35 @@ More Events »
 
 More Events »
 
+*   RedSnook Catch &. Release Charity Tournament Naples, Goodland and Everglades City 7 a.m.
+*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   FGCU's Eagle Family Weekend FGCU Main Campus - Lutgert Hall 8 a.m.
+*   Laughter Yoga Bija Yoga 9 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Film Festival
+*   Football Rivalries
+    
+    Some football games are played for pride. Coming Friday: Coconut Bowl.
+    
+    Film Festival
     
     Find film trailers, previews of films at this year's Naples International Film Festival.
     
-    Hot Home Sales
+    2012 Halloween
+    
+    Share your Halloween photos and see winners in Halloween costume contest.
+    
+*   Hot Home Sales
     
     Pictures, info about recently sold single-family homes in Collier and Lee.
     
-    2012 Halloween
-    
-    Share your Halloween photos and vote in our Halloween costume contest.
-    
-*   Election 2012
+    Election 2012
     
     Find videos, photos, stories about the upcoming general election.
     
@@ -541,21 +540,17 @@ More Events » Features
     
     Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
     
-    View Case Files
+*   View Case Files
     
     Investigation of Boy Scouts' records reveals systemic failures.
     
-*   Go Shots
+    Go Shots
     
     Photos of Southwest Florida residents hanging out at local hot spots around town.
     
     Mugshots
     
     Looking for daily arrest mugshots? You can find them here in our special section.
-    
-    Cuties of the Week
-    
-    We want to see photos of your adorable kids and grandkids. Share your photos »
     
 *   Biggest Catch
     
