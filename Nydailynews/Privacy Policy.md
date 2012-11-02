@@ -1,4 +1,4 @@
-*   Thursday, November 1, 2012
+*   Friday, November 2, 2012
 *   NYDailyNews.com / Privacy Policy
 
 *   Jobs
@@ -48,9 +48,9 @@ Daily News
     Place An Ad
     
 
-SUPERSTORM SANDY:
+SUPERSTORM SANDY
 
-LIVE UPDATES AS EAST COAST CLEANS UP, GETS BACK TO WORK AFTER EPIC SUPERSTORM
+LIVE SUBWAY, POWER, SCHOOLS UPDATES HERE
 
 x PRIVACY POLICY
 
