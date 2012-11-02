@@ -118,4 +118,7 @@ Wikia Inc Navigation
 *   Privacy Policy
 *   Content is available under CC-BY-SA.
 
+*   It's Time to Play! Join us in celebrating the best pages across Wikia.
+    
+
 Politics Halloween @WikiaLifestyle
