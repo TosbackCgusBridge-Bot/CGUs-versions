@@ -1,4 +1,4 @@
-**TRENDING** MITT ROMNEY | CHRIS CHRISTIE | JERSEY SHORE | CONSUMER REPORTS | JOE BIDEN | HALLOWEEN
+**TRENDING** MITT ROMNEY | BARACK OBAMA | SCOTT BROWN | BRUCE SPRINGSTEEN | HALLOWEEN | JERSEY SHORE
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  **LATIN LOVER** Obama's inauguration reverend: All whites are going to hell Limbaugh: 'Christie has decided to play the role of a Greek column' for Obama \[AUDIO\]    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  **UNION POWER** Plenty of time left Wealthy Columbia Univ. donor: School told me Obama had 2.6 GPA    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-Ask Matt Labash: Hurricane Sandy lifestyle adjustments 2:19 AM 11/01/2012 On hating Nate Silver 1:59 PM 10/31/2012 What’s Chris Christie up to? 9:57 AM 10/31/2012 The reverend who gave Obama’s inaugural benediction thinks all white people are going to Hell 6:39 PM 10/31/2012 Biden: “As they say in my business, I’m gonna give you the whole load today” 2:26 PM 10/31/2012 Is welfare Romney’s clincher? 6:16 AM 10/31/2012 The Birth Certificate 4-Step 5:13 PM 10/30/2012 Leaders with Ginni Thomas: Filmmaker Curtis Bowers 9:45 PM 10/28/2012 Why does the left attract more young people? \[VIDEO\] 8:50 PM 10/27/2012 First world problems: Hurricane Sandy edition \[SLIDESHOW\] 2:27 AM 11/01/2012 ‘Eli Manning looking at things’ goes viral \[SLIDESHOW\] 6:06 PM 10/31/2012 25 wild pumpkin carvings \[SLIDESHOW\] 4:37 PM 10/31/2012 50 of the sluttiest possible Halloween costumes \[SLIDESHOW\] 4:07 PM 10/30/2012 See More Romney is what the country needs now 7:33 PM 10/31/2012 Why don’t white liberals vote for black politicians? 6:25 PM 10/24/2012 Videos Contests Sections
+A history of hugs: Chris Christie gives future GOP rivals fodder 2:04 PM 11/01/2012 Conspiracy theory: The Minnesota Timberwolves are racist 9:07 AM 11/01/2012 Obama admits he’s a failure, but it’s cool because, y’know 3:09 PM 11/01/2012 Benghazi was not unexpected, nor caused by a YouTube video, and the State Department has known all along 12:42 PM 11/01/2012 A new theory of BLS skew 6:48 AM 11/02/2012 Plenty of time left 5:35 AM 11/02/2012 Ask Matt Labash: Hurricane Sandy lifestyle adjustments 2:19 AM 11/01/2012 Leaders with Ginni Thomas: Filmmaker Curtis Bowers 9:45 PM 10/28/2012 Why does the left attract more young people? \[VIDEO\] 8:50 PM 10/27/2012 First world problems: Hurricane Sandy edition \[SLIDESHOW\] 2:27 AM 11/01/2012 EXCLUSIVE: Cast list leaked for Superstorm Sandy made-for-TV movie 2:25 AM 11/01/2012 ‘Eli Manning looking at things’ goes viral \[SLIDESHOW\] 6:06 PM 10/31/2012 25 wild pumpkin carvings \[SLIDESHOW\] 4:37 PM 10/31/2012 See More Romney is what the country needs now 7:33 PM 10/31/2012 Why don’t white liberals vote for black politicians? 6:25 PM 10/24/2012 Videos Contests Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   Obama’s inauguration reverend: All whites are going to hell
-*   Romney is what the country needs now
-*   The reverend who gave Obama’s inaugural benediction thinks all white people are going to Hell
+*   Marriage expert Brad Pitt donates $100k to Human Rights Campaign
+*   Sen. Menendez had loud sex with different girl every night, DC neighbor tells left-wing website
+*   Candidate pulls ad comparing opponent’s record to Hurricane Sandy
 
 Corporate
 
@@ -199,7 +199,7 @@ Corporate
 *   Advertise With Us
 *   Make The Daily Caller Your Homepage
 
-Version 2.3    Sign up for free Daily Caller News Emails
+Version 2.4    Sign up for free Daily Caller News Emails
 
 *   TheDC Links Quick links to the day’s top news on The Daily Caller and around the web
 *   TheDC Morning An unvarnished take of what’s really happening in politics each day
