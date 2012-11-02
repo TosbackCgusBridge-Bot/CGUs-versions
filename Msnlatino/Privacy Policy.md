@@ -688,21 +688,21 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡Elige ahora!
+*   Lo que no sabías...
     
-    ¿Cuál te parece el gesto más gracioso?
+    Los artistas de Corazón Valiente  
     
-*   ¡Un Halloween erótico!
+*   Tu sexualidad
     
-    Desata tu sexualidad en esta Noche de Brujas  
+    Descubre cómo eres en la cama según la astrología
     
-*   ¡Enloquécete con disfraces!
+*   ¡Superhéroes de novela!
     
-    Aprende a seducir en Halloween...
+    Tú eliges el mejor de ellos... ¡Decídelo!
     
-*   Secretos de belleza
+*   Camino de Miss Venezuela
     
-    La bella Aylín Mujica nos revela sus trucos
+    Conoce a Irene Esser, la impactante finalista venezolana que se propone lograr la séptima corona de Miss Universo para su país. ¿Crees que tiene las cualidades para ganar?  
     
 
 Más en Telemundo:
@@ -737,6 +737,7 @@ El uso de este sitio web significa que accedes a la normativa de confidencialida
 *   Contáctanos
 
 *   Advertise with us
+*   Closed Captioning
 *   Independent Programming Report
 
 *   Legal
