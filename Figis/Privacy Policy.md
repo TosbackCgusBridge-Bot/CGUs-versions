@@ -118,7 +118,7 @@
     *   Weekly Special Gifts
     *   Spooky Halloween Specials
 
-FAQContact UsFigis GuaranteeShipping InformationLow PaymentsFree GiftsSafe &. SecureReturns PolicyPrivacy PolicyCredit DetailsTerms of UseEmail Us Internet Privacy Policy
+Halloween | Christmas Gifts | Thanksgiving FAQContact UsFigis GuaranteeShipping InformationLow PaymentsFree GiftsSafe &. SecureReturns PolicyPrivacy PolicyCredit DetailsTerms of UseEmail Us Internet Privacy Policy
 
 *   What is your Internet Privacy Policy?
 *   What information do you collect when I visit your Web sites?
