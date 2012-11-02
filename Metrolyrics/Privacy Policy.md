@@ -147,51 +147,53 @@ The website is not directed to individuals under the age of thirteen (13), and w
 
 See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 
-*   Natalia Kills  
-    Problem Lyrics
-*   Cher  
-    Woman's World Lyrics
-*   Tristan Prettyman  
-    My Oh My Lyrics
+*   Ashlee Simpson  
+    Bat For A Heart Lyrics
+*   Pitbull  
+    Feel This Lyrics
+*   Wale  
+    Arrival Lyrics
+*   Kesha  
+    Die Young Lyrics
+*   Adele  
+    Someone Like You Lyrics
+
+*   Pitbull  
+    Party Ain't Over Lyrics
+*   Christina Aguilera  
+    Best Of Me Lyrics
+*   Ellie Goulding  
+    I Need Your Love Lyrics
 *   Katy Perry  
     Wide Awake Lyrics
 *   Alex Clare  
     Too Close Lyrics
 
+*   Natalia Kills  
+    Problem Lyrics
+*   Cher  
+    Woman's World Lyrics
+*   Bruno Mars  
+    Locked Out Of Heaven Lyrics
+*   Carly Rae Jepsen  
+    Call Me Maybe Lyrics
+
 *   Alicia Keys  
     Fire We Make Lyrics
 *   Kanye West  
     White Dress Lyrics
-*   One Direction  
-    Change My Mind Lyrics
-*   Carly Rae Jepsen  
-    Call Me Maybe Lyrics
-
-*   Christina Aguilera  
-    Just A Fool Lyrics
-*   Jonas Brothers  
-    Wedding Bells Lyrics
 *   Ed Sheeran  
     A Team Lyrics
 *   Gotye  
     Somebody That I Used To Know Lyrics
 
-*   Pitbull  
-    Feel This Lyrics
-*   Wale  
-    Arrival Lyrics
+*   Christina Aguilera  
+    Just A Fool Lyrics
+*   Jonas Brothers  
+    Wedding Bells Lyrics
 *   Justin Bieber  
     As Long As You Love Me Lyrics
 *   David Guetta  
     Titanium Lyrics
-
-*   Christina Aguilera  
-    Best Of Me Lyrics
-*   Ellie Goulding  
-    I Need Your Love Lyrics
-*   Kesha  
-    Die Young Lyrics
-*   Adele  
-    Someone Like You Lyrics
 
 Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
