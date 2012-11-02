@@ -1,10 +1,11 @@
 American Greetings
 
-*   member benefits
+*   help
 *   find a retailer
-*   Sign In
-*   or Join Now
-*   *   Facebook Login
+
+*   member benefits
+*   Sign In or
+*   Join Now
 
   
 sign in
@@ -18,8 +19,15 @@ forgot your password?
 remember me on this computer  
 (recommended unless you are using a public computer) Yahoo! Greetings Member? Click here for information about your membership.  
 
-Welcome to American Greetings
+*   Login to Facebook
 
+become a fan AG twitters!
+
+*   Birthday
+    *   birthday ecards
+    *   printable birthday cards
+    *   birthday personalized paper cards
+    *   shop the card aisle birthday cards
 *   ecards
     
     Innovative ecards to send, share or post
@@ -83,7 +91,7 @@ Welcome to American Greetings
     *   sympathy
     *   thank you
     *   wedding &. engagementview all printable cards >.
-*   Paper Cards
+*   Personalized Paper Cards
     
     Personalize cards with a message or photo, professionally printed and mailed
     
@@ -111,7 +119,42 @@ Welcome to American Greetings
     *   **Featured Artist &. Brands**
     *   taylor swift
     *   kathy davisview all paper cards >.
-
+*   Shop the Card Aisle
+    
+    Shop paper cards online
+    
+    *   **occasions**
+    *   birthday
+    *   thank you
+    *   view all greeting cards >
+    
+    *   **box sets &. stationery**
+    *   greeting card assortments
+    *   boxed stationery sets
+    
+    In Stores
+    
+    *   **shop your local retailer**
+    *   what's new in stores
+    *   find a retailer
+    *   couponsView all shop the card aisle cards >.
+*   Free Downloads
+    
+    mobile apps and more
+    
+    *   **apps**
+    *   iphone app
+    *   justWink
+    
+    *   **calendars**
+    *   calendars &. reminders
+    *   card calendar
+    
+    *   what's new
+    *   wallpapers &. screensavers
+    *   stay inspired blog
+*   Search
+    
 *   **find it quick**
 *   Ecards Printable Cards
 *   Choose Occasion birthdaythanksgivinganniversarybabycongratulationsencouragementfriendshipget wellgood bye &. good luckgraduationi'm sorrylove &. datingmiss yousaying hisupportsympathythank youthinking of youwedding &. engagement
@@ -336,46 +379,69 @@ We will occasionally update this Privacy Policy in response to changing business
 
 As always, if you have any questions, please feel free to review our FAQ or contact us through our Customer Support Department.
 
-**Ecards**
+**Products** **ecards**
 
-*   Birthday
-*   Christmas
+*   Birthday ecards
+*   Christmas ecards
+*   Talking ecards
 *   Ecard Site Map
 
-**Paper Cards**
+**Print Cards at Home**
 
-*   Birthday
-*   Boxed Stationery
-*   New In Stores
+*   Birthday Cards
+*   Christmas Cards
+*   Thank You Cards
+*   Printable Cards Site Map
 
-**Print at Home**
+**From the Card Aisle**
 
-*   Birthday
-*   Christmas
-*   Print at Home Site Map
+*   Greeting Card Assortments
+*   Boxed Stationery Sets
+*   Limited Edition Cards
 
-**Apps &. More**
+**Personalized Paper Greetings**
+
+*   Birthday Greeting Cards
+*   Thank You Greeting Cards
+
+**Mobile Apps &. More**
 
 *   iPhone App
 *   justWink
 *   Wallpapers &. Screensavers
-*   Reminder Calendar
-*   Birthday Calendar
-*   Card Calendar
+*   American Greetings Card Calendar
+*   American Greetings Birthday Calendar
 
-**Corporate News**
+**What's In Stores**
+
+*   What's New
+*   Find a Retailer
+
+**Customer Service**
+
+*   Member Benefits
+*   Help Center
+*   Give Us Feedback
+*   Contact Us
+
+**Tools**
+
+*   Calendars &. Reminders
+
+**Visit Our Friends**
+
+*   Bluemountain.com
+*   Cardstore.com
+*   Egreetings.com
+
+**Corporate Information**
 
 *   Careers
 *   About American Greetings
 *   Investor Relations
 *   Press Room
+*   Privacy Policy
+*   Terms of Service
 *   Email Protection Resource Center
 
-**Follow Us**
-
-*   Follow Us on Twitter
-*   Like Us on Facebook
-*   Check out our Pins
-*   Stay Inspired Blog
-
-help give us feedback member benefits find a retailer terms of service privacy policy Check out our friends at: Bluemountain.com Egreetings.com Cardstore.com AmericanGreetings.com is a service of AG Interactive, a subsidiary of American Greetings, Copyright © 1997-2012 AG Interactive, Inc. all rights reserved.
+AmericanGreetings.com is a service of a subsidiary of , Copyright © 1997-2012 AG Interactive, Inc. all rights reserved.
