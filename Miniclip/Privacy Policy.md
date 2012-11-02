@@ -1,9 +1,8 @@
-Play Games at Miniclip.com Halloween treats Get your spooky table  
-Trick out your game Club Penguin Penguins go Halloween Join the party!  
-Don't miss the fun RoboRampage Your weekly challenge Win the 2000ft award!  
+Play Games at Miniclip.com P...Paintball Presidential Paintball Who will you choose?  
+Fight it out! Halloween treats Get your spooky table  
+Trick out your game RoboRampage Your weekly challenge Win the 2000ft award!  
 Robo Rampage Don't be scared! Halloween zone  
-Try our spooky games Plague Inc. Android infection alert! Plague Inc.  
-Now on Android! New games! Hit the homepage  
+Try our spooky games New games! Hit the homepage  
 Great new games out now My Miniclip Credits
 
 *   Signup
@@ -197,9 +196,9 @@ Click Here! Advertisement Feedback Top 10 Games
 5.  Club Penguin
 6.  NeoMech
 7.  Hambo
-8.  Knight Age 2
+8.  Knight Age Nightmare
 9.  Shooting Cybertrash XL
-10.  Beach Soccer
+10.  After Sunset
 
 Click Here! Click Here!
 
