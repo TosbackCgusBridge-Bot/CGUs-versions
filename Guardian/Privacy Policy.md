@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Life &. style:** Was Kate Moss exploited as a young model?
-2.  2\. **Football:** Chelsea earn dramatic victory over Manchester United in Capital One Cup
-3.  3\. **News:** Superstorm Sandy: The north-east begins long struggle to recovery
-4.  4\. **News:** Chris Christie sparks speculation at political centre of the storm
-5.  5\. **Football:** Manchester United fans outwit Chelsea rivals but Blues have last laugh
+1.  1.  **Technology:** Apple's Samsung statement reprimanded by court of appeal
+2.  2\. **News:** New York's Bloomberg endorses Obama to lead on climate change
+3.  3\. **Media:** Axed Danny Baker delivers on-air rant at his BBC London bosses
+4.  4\. **Music:** Nicki Minaj: 'My heroes? Scary Spice and Hermione from Harry Potter'
+5.  5\. **Football:** Manchester City's Roberto Mancini was in secret talks to join Monaco
 6.  More most viewed
 
 Last 24 hours
 
-1.  **News:** Superstorm Sandy: The north-east begins long struggle to recovery
-2.  **Childrens' books:** Guardian children's books podcast: David Almond and Oliver Jeffers
-3.  **Global development:** Fuel smuggling in west Africa – in pictures
-4.  **Comment:** David Mitchell's Soapbox: social signals - video
-5.  **Technology:** Kim Dotcom announces Mega, successor to Megaupload
+1.  **Media:** Media Talk podcast: Danny Baker blasts 'pinhead weasels'
+2.  **Music:** Mercury prize 2012 winners Alt-J - video interview
+3.  **News:** New York's Bloomberg endorses Obama to lead on climate change
+4.  **Education:** Teachers pushed to limit overmarked English GCSEs, says Ofqual
+5.  **Science:** Scientific fraud is rife: it's time to stand up for good science
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Europe to blame for UK manufacturing downturn
-2.  2\. Mercury prize finalists: who is the most popular on last.fm?
-3.  3\. I, Anna: watch the trailer of the Charlotte Rampling thriller - video
-4.  4\. Big Book of Nursery Rhymes by Kali Stileman - review
-5.  5\. Fusing business and education with eLearning
+1.  1.  Lucy Mathen: 'I couldn't change the world as a journalist'
+2.  2\. October jobs report looms over presidential election - US politics live
+3.  3\. Love Monster by Rachel Bright - review
+4.  4\. Artists from around the country will be flooding a North Eastern seaside resort with a tidal wave of light
+5.  5\. What skills do academy governors need to manage million-pound budgets?
 6.  All today's stories
 
 On the Guardian today
 
 1.  Life and style Mapping the body: the temple
-2.  World news Chris Christie sparks speculation at political centre of the storm
-3.  Football Chelsea earn dramatic victory over Manchester United in Capital One Cup
-4.  Media Jimmy Savile spent nights with girls in hospital rooms, says Leeds porter
-5.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-6.  World news A tale of two New Yorks: Sandy splits city but its residents band together
+2.  World news Sheldon Adelson's billions shape US politics as many question his influence
+3.  Technology Apple's Samsung statement reprimanded by court of appeal
+4.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+5.  World news New York's Bloomberg endorses Obama to lead on climate change
+6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
 
 *   License/buy our content
 |*   Privacy policy
