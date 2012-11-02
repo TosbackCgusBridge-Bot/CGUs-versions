@@ -34,6 +34,7 @@ To search for a player use one of two formats:
 
 COLUMNS
 
+*   2013 Top 50 Free Agents Nov 2
 *   Santana Hands In His Halo Nov 1
 *   Giant Celebration Oct 29
 *   Kung Fu Pandamonium Oct 25
@@ -41,7 +42,6 @@ COLUMNS
 *   Cards Ahead On Carpenter Bomb Oct 18
 *   Beltran Blasting Off Again Oct 15
 *   NLCS: Cardinals vs. Giants Oct 14
-*   ALCS: Tigers vs. Yankees Oct 13
 
 PREMIUM CONTENT
 
@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
-*   Yankees have interest in veteran OF Hunter
-*   Royals get Ervin Santana from Angels for Sisk
-*   Luke Scott's $6 mil option declined by Rays
-*   Rays pick up options on Shields, Rodney
-*   Ludwick declines mutual option with Cincy
-*   Dodgers targeting Rays' RHP James Shields
-*   Soriano opts out of contract with Yankees
-*   Royals decline '13 option on Joakim Soria
-*   Indians decline options on Hafner, Hernandez
-*   Indians pick up option on Ubaldo Jimenez
-*   Orioles decline option on Mark Reynolds
-*   Angels trying hard to trade Haren, Santana
+*   Hiroki Kuroda willing to accept one-year deal
+*   Yanks mull using Granderson in corner OF spot
+*   K-Rod charged Wednesday with domestic abuse
+*   David Ortiz likely to reach free agent market
+*   Marlins hire Mike Redmond to replace Guillen
+*   Rick Ankiel considering a return to pitching?
+*   LaRoche declines $10 million option for 2013
+*   Michael Bourn seeking $100 million contract?
+*   Rangers 'seriously considering' Zack Greinke
+*   Red Sox among teams pursuing Halos' Haren
+*   Rangers 'determined' to make Ogando starter
+*   Mets' talks with Wright ready to accelerate
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   More for Mathews? Nov 2
+*   Week 9 Chat Nov 1
+*   Week 9 Rankings Nov 1
 *   Week 9 Target Watch: NFC Nov 1
 *   Deadline Snoozing Nov 1
+*   Matchup: Chiefs @ Chargers Nov 1
 *   Getting Defensive: Week 9 Oct 31
 *   Week 9 Target Watch: AFC Oct 31
-*   Matchup: Chiefs @ Chargers Oct 31
-*   Midseason Mock Oct 31
-*   Best Available NFL Free Agents Oct 31
-*   Week 9 Top Pickups Oct 30
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Report: 'Viable chance' DeAngelo is traded
-*   Brandon LaFell diagnosed with concussion
-*   Nelson won't test hamstring until Friday
-*   Coach Schwartz: Mikel Leshoure isn't hurt
-*   Cecil Shorts will continue to start for Jags
-*   DeMarco Murray is still not back at practice
-*   Colts TE Coby Fleener out at least two weeks
-*   Ryan Tannehill taking the reps at practice
-*   Mikel Leshoure not practicing on Wednesday
-*   Michael Vick hangs on to starting job for now
-*   Reports: Jets, Jags haven't discussed Tebow
-*   Giants, Cruz agree on 'structure' of new deal
+*   Charles: I could have gone back in the game
+*   Rivers tosses 2 TDs to get Chargers to 4-4
+*   Dez Bryant misses practice, expects to play
+*   Calvin Johnson's absence part of new regimen
+*   Donald Brown misses Thursday's practice
+*   Harvin's Thursday absence due to family issue
+*   Pats beat deadline, acquire Talib from Bucs
+*   Dwyer practices, expects to play in Week 9
+*   Report: Tannehill '50-50' to start on Sunday
+*   Panthers' Beane: 'We are not trading anyone'
+*   Sproles (hand) misses Thursday's practice
+*   Reid on QB Vick: 'Not a week-to-week thing'
 
 NBA PAGES
 
@@ -134,14 +134,14 @@ NBA PAGES
 
 COLUMNS
 
+*   Parker beats OKC at buzzer Nov 2
+*   Hardened By Trade Nov 1
 *   NBA Live Chat Thursday 9 p.m. Nov 1
 *   Andy's Halloween Candy Oct 31
 *   NBA Opening Night Preview Oct 30
 *   The Bruski 150 Oct 28
 *   NBA chat: Monday @ 12:30 ET Oct 28
 *   Pre-draft Trip Around the NBA Oct 26
-*   NBA Live Chat Monday at 1 p.m. Oct 20
-*   Points League Draft Recap Oct 20
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Tony Parker hits game-winner at buzzer
+*   Manu Ginobili (back) will not play Thursday
+*   Nash (shin) listed as doubtful for Friday
+*   Eric Gordon (knee) unsure of when he'll play
+*   Andrew Bogut (ankle) won't play back-to-backs
+*   Kevin Love (hand) to see specialist next week
 *   Damian Lillard lives up to hype in opener
-*   Andrew Bogut plays 18 minutes Wednesday
 *   Al-Farouq Aminu fills stat sheet in opener
 *   Nuggets confirm Faried wasn't injured in loss
-*   Nash suffers shin contusion on Wednesday
 *   Jrue Holiday and Sixers agree to extension
+*   T. Gibson signs 4-year, $38 million extension
 *   Gerald Green starts, leads Pacers in minutes
-*   Hawes overshadows starter Young in opener
-*   James Harden explodes for 37 and 12 assists
-*   Danilo Gallinari will not play on Wednesday
-*   Tony Parker not worried about Manu Ginobili
-*   Update: Knicks vs. Nets game postponed
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Mikael Granlund earns Oct. AHL rookie award
+*   AHL names Justin Schultz POTM for October
+*   Report: Dustin Brown joins Lions in Swiss NLA
+*   Raphael Diaz earns praise from Swiss coach
+*   Helm: Lockout is getting beyond frustrating
+*   Winter Classic cancellation might come soon
+*   Radim Vrbata signs with a Czech team
 *   Michael Del Zotto joins Rapperswil of NLA
 *   Chris Kelly to play in Swiss second division
 *   Alexander Semin hints at staying in KHL
 *   Malkin moves into 2nd place among KHL scorers
 *   Ryane Clowe might join ECHL San Francisco
-*   Smith leaves Finland for training purposes
-*   Kronwall won't sign with a European club yet
-*   Johan Franzen isn't looking to play in Europe
-*   Patrice Bergeron back in the fold for Lugano
-*   Logan Couture moves up Swiss scoring list
-*   Taylor Hall receives OK to return to action
-*   Sedin twins to continue to hold off on Sweden
 
 NASCAR PAGES
 
@@ -229,6 +229,7 @@ NASCAR PAGES
 
 COLUMNS
 
+*   Mid-Pack: Texas AAA 500 Nov 1
 *   The AAA 500 Oct 30
 *   Wrap-up: Martinsville Speedway Oct 28
 *   Mid-Pack: Tums Fast Relief 500 Oct 25
@@ -236,7 +237,6 @@ COLUMNS
 *   Wrap-up: Kansas Speedway Oct 21
 *   Mid-Pack: Hollywood Casino 400 Oct 18
 *   The Hollywood Casino 400 Oct 16
-*   Wrap-up: Charlotte Oct 14
 
 PARTNERS
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Nelson Piquet Jr. fastest in truck Happy Hour
+*   Brad Keselowski HotPass on DIRECTV notes
+*   Denny Hamlin HotPass on DIRECTV notes
+*   Jimmie Johnson HotPass on DIRECTV notes
+*   Dale Earnhardt Jr. HotPass on DIRECTV notes
+*   Piquet leads first Fort Worth truck practice
 *   Joey Coulter in Fort Worth, Texas
 *   Lone Star State details on Ty Dillon
 *   Brendan Gaughan won four-straight in Texas
 *   Austin Dillon in the Lone Star State
 *   Elliott Sadler at Texas Motor Speedway
 *   Jeff Burton no stranger to Texas Victory Lane
-*   Lone Star State stats on Kevin Harvick
-*   Paul Menard Texas Motor Speedway notes
-*   Michael Annett Texas race notes
-*   Cale Gale Texas Motor Speedway race preview
-*   Notes of interest at Fort Worth on Kyle Busch
-*   Ryan Blaney making first Fort Worth start
 
 GOLF PAGES
 
@@ -268,6 +268,7 @@ GOLF PAGES
 
 COLUMNS
 
+*   2012 Web.com Tour Graduates Nov 2
 *   Low Ryder Oct 30
 *   60-Wat? Oct 28
 *   Go East, Young Men Oct 23
@@ -275,7 +276,6 @@ COLUMNS
 *   Saint of Circumstances Oct 16
 *   Jonas, Brother! Oct 14
 *   California Dreamin' Oct 9
-*   Sinsational! Oct 7
 
 PARTNERS
 
@@ -285,8 +285,9 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Hanson will accept 2013 PGA TOUR membership
+*   Oosthuizen separates in WGC-HSBC second round
 *   Scott closes birdie-birdie-eagle to co-lead
-*   Bogey-free Oosthuizen grabs outright lead
 *   Jonathan Byrd undergoes surgery on his wrist
 *   Garcia eyes return at European Tour finale
 *   Donald will not defend at the season finale
@@ -296,7 +297,6 @@ FANTASY GOLF NEWS
 *   Watney parlays course-record 61 into CIMB win
 *   Garrigus enters CIMB finale as a co-leader
 *   BVP flirts w/ 59. settles for 54-hole co-lead
-*   Hole-in-one fuels Dufner in the third round
 
 NFL DRAFT PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Midseason Mock Draft Nov 1
 *   Geno's Learning Process Oct 31
 *   General Patton Oct 29
 *   Senior Prospect Rankings Oct 27
@@ -318,7 +319,6 @@ COLUMNS
 *   Dysert For Dinner Oct 24
 *   Prospect Snapshots: Weeks 7-8 Oct 23
 *   Senior Surprise: RB Gillislee Oct 22
-*   Week Eight Matchup Preview Oct 19
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Mathieu living with Patrick Peterson's family
+*   Jordan Poyer unlikely to play vs Az St (PCL)
+*   Dion Jordan expected to give it a shot vs USC
+*   Damontre Moore 'plans on coming back' in '13
+*   Keenan Allen likely out 2-3 weeks (knee)
+*   Spartans coaches want RB Bell to hit hole
+*   Tar Heel's Bernard hasn't considered NFL, yet
 *   Vols WR Rogers' targets will not increase
 *   Tide WR Cooper should be 'full speed' (ankle)
 *   McShay: Warmack is without question top OL
 *   Gundy: Okie St CB Gilbert must play better
 *   Ducks defensive key is to stop run vs USC
-*   Cavs T Oday Aboushi invited to Senior Bowl
-*   Pauline: Cincy LB Blair rising in late rounds
-*   Cardinal backup QB Hogan likely to see snaps
-*   McCarron has yet to turn the ball over in '12
-*   Brooks: Glennon may 'be best QB in '13 Draft'
-*   Freshman QB Wallace will start for Auburn
-*   Knile Davis out against Tulsa (hamstring)
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NBA:Nash suffers shin contusion on Wednesday
-*   NBA:Gerald Green starts, leads Pacers in minutes
-*   NBA:James Harden explodes for 37 and 12 assists
-*   MLB:Royals get Ervin Santana from Angels for Sisk
-*   NBA:Eric Gordon out indefinitely with knee injury
-*   NFL:Report: 'Viable chance' DeAngelo is traded
-*   NFL:Brandon LaFell diagnosed with concussion
-*   MLB:Rays pick up options on Shields, Rodney
-*   NFL:Nelson won't test hamstring until Friday
-*   NBA:Update: Knicks vs. Nets game postponed
-*   MLB:Dodgers targeting Rays' RHP James Shields
-*   GOL:Scott closes birdie-birdie-eagle to co-lead
+*   NFL:Charles: I could have gone back in the game
+*   NFL:Rivers tosses 2 TDs to get Chargers to 4-4
+*   NFL:Dez Bryant misses practice, expects to play
+*   NFL:Pats beat deadline, acquire Talib from Bucs
+*   NFL:Calvin Johnson's absence part of new regimen
+*   NFL:Donald Brown misses Thursday's practice
+*   NFL:Harvin's Thursday absence due to family issue
+*   NFL:Report: Tannehill '50-50' to start on Sunday
+*   NFL:Sproles (hand) misses Thursday's practice
+*   NFL:Panthers' Beane: 'We are not trading anyone'
+*   GOL:Hanson will accept 2013 PGA TOUR membership
+*   GOL:Oosthuizen separates in WGC-HSBC second round
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. RoseNBA (7342)
-*   2J. WallNBA (7183)
-*   3B. MullensNBA (6607)
-*   4K. LoveNBA (6568)
-*   5R. RubioNBA (6446)
+*   1D. RoseNBA (7314)
+*   2J. WallNBA (7111)
+*   3J. DwyerNFL (6696)
+*   4E. GordonNBA (6645)
+*   5K. LoveNBA (6593)
 
-*   6J. DwyerNFL (6444)
-*   7E. GordonNBA (6344)
-*   8A. BogutNBA (6270)
-*   9J. NelsonNFL (6270)
-*   10J. CrowderNBA (6142)
+*   6A. BogutNBA (6459)
+*   7B. MullensNBA (6414)
+*   8D. WilliamsNFL (6372)
+*   9R. RubioNBA (6312)
+*   10D. MurrayNFL (5932)
 
   
 Video Center
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines Week 9 Target Watch: NFC  
-Nov 1 Which players got all the targets last week and so far this season? Chet Gresham breaks down every NFC team's Week 8 performers.  
+  Headlines More for Mathews?  
+Nov 2 Adam Levitan talks Ryan Mathews' usage and recaps all of Thursday's news in the Dose.  
   
 More NFL Columns
 
+*   »More for Mathews? Nov 2
+*   »Week 9 Chat Nov 1
+*   »Week 9 Rankings Nov 1
 *   »Week 9 Target Watch: NFC Nov 1
 *   »Deadline Snoozing Nov 1
+*   »Matchup: Chiefs @ Chargers Nov 1
 *   »Getting Defensive: Week 9 Oct 31
 *   »Week 9 Target Watch: AFC Oct 31
-*   »Matchup: Chiefs @ Chargers Oct 31
-*   »Midseason Mock Oct 31
-*   »Best Available NFL Free Agents Oct 31
-*   »Week 9 Top Pickups Oct 30
 
 NFL Headlines
 
-*   »Report: 'Viable chance' DeAngelo is traded
-*   »Brandon LaFell diagnosed with concussion
-*   »Nelson won't test hamstring until Friday
-*   »Coach Schwartz: Mikel Leshoure isn't hurt
-*   »Cecil Shorts will continue to start for Jags
-*   »DeMarco Murray is still not back at practice
-*   »Colts TE Coby Fleener out at least two weeks
-*   »Ryan Tannehill taking the reps at practice
-*   »Mikel Leshoure not practicing on Wednesday
-*   »Michael Vick hangs on to starting job for now
-*   »Reports: Jets, Jags haven't discussed Tebow
-*   »Giants, Cruz agree on 'structure' of new deal
+*   »Charles: I could have gone back in the game
+*   »Rivers tosses 2 TDs to get Chargers to 4-4
+*   »Dez Bryant misses practice, expects to play
+*   »Calvin Johnson's absence part of new regimen
+*   »Donald Brown misses Thursday's practice
+*   »Harvin's Thursday absence due to family issue
+*   »Pats beat deadline, acquire Talib from Bucs
+*   »Dwyer practices, expects to play in Week 9
+*   »Report: Tannehill '50-50' to start on Sunday
+*   »Panthers' Beane: 'We are not trading anyone'
+*   »Sproles (hand) misses Thursday's practice
+*   »Reid on QB Vick: 'Not a week-to-week thing'
 
 NFL Links
 
