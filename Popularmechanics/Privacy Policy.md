@@ -76,7 +76,7 @@ How to Climb Trees With Ropes and Harnesses
 
 DIY Central     Privacy Policy Text Size: A . A . A In order to view the Privacy Policy you must enable javaScript. CONNECT WITH POPULAR MECHANICS: Featured Video Giveaways
 
-Enter to Win a $10,000 in the Cool Tools Giveaway!
+Win An Audioquest DragonFly USB DAC
 
 See All Giveaways More From Popular Mechanics
 
