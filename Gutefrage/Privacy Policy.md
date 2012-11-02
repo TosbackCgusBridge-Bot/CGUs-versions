@@ -196,77 +196,73 @@ Registrieren Login
 2.  Konzert
 3.  Kostüm
 4.  Periode
-5.  Pickel
-6.  Piercing
-7.  Pokemon
-8.  rauchen
-9.  Steam
+5.  Piercing
+6.  Pokemon
+7.  rauchen
+8.  Steam
+9.  Windows 8
 10.  Winter
 
-Top-50 Themen Thema Anzahl Apple 84442 Arbeit 64912 Ausbildung 50313 Auto 91177 Beauty 69422 Beruf 77538 Beziehung 72204 Computer 538262 Computerspiele 64784 deutsch 67141 Englisch 52203 Ernährung 50797 essen 71324 Facebook 77666 Fernsehen 60330 Film 100383 Finanzen 59051 Freizeit 263635 Fußball 51214 Games 125173 Geld 93667 Gesundheit 205961 Haare 82890 Handy 205586 Hilfe 149158 Internet 322927 iPhone 75581 Kinder 50968 Körper 50349 Laptop 73714 Liebe 165987 Lied 54601 Mädchen 56527 Medizin 62797 Minecraft 68299 Musik 281090 PC 283102 PC-Spiele 48823 Problem 55440 PS3 60490 Recht 95415 Schule 235819 Software 57144 Spiele 137540 Sport 111066 Technik 120779 Tiere 64947 TV 54447 Video 52819 Youtube 83550 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 84574 Arbeit 64979 Ausbildung 50373 Auto 91278 Beauty 69553 Beruf 77626 Beziehung 72297 Computer 539282 Computerspiele 64878 deutsch 67200 Englisch 52257 Ernährung 50842 essen 71395 Facebook 77801 Fernsehen 60380 Film 100527 Finanzen 59103 Freizeit 264473 Fußball 51251 Games 125407 Geld 93785 Gesundheit 206266 Haare 82991 Handy 205882 Hilfe 149419 Internet 323222 iPhone 75699 Kinder 50995 Körper 50424 Laptop 73826 Liebe 166210 Lied 54680 Mädchen 56614 Medizin 62859 Minecraft 68424 Musik 281372 PC 283459 PC-Spiele 48902 Problem 55533 PS3 60602 Recht 95516 Schule 236147 Software 57191 Spiele 137720 Sport 111201 Technik 120900 Tiere 64997 TV 54500 Video 52877 Youtube 83666 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  MrSavage4
+1.  billyjoy
     
     Punkte:
     
-    1043
+    1092
     
     Level:
     
-    MrSavage4
+    billyjoy
     
-2.  Chimaer
-    
-    Punkte:
-    
-    714
-    
-    Level:
-    
-    Chimaer
-    
-3.  Geeelbwuurst
+2.  Orrik
     
     Punkte:
     
-    577
+    797
+    
+3.  Bluebird555
+    
+    Punkte:
+    
+    724
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.385.394 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.394.538 gute Fragen_
 
-*   27 Dominoeffekt
-*   15 früher sind religiöse ergeignisse geschen warum heut nicht mehr
-*   13 Die Leute sagen mir, dass ich komisch bin. Wie kann ich mich ändern?
+*   28 Großmutter gestorben und Sexspielzeug gefunden...
+*   26 Kommender Tod. Mein Freund am Boden, was soll ich tun? Ablenkung?
+*   19 früher sind religiöse ergeignisse geschen warum heut nicht mehr
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Kunstblut selber machen
 *   Kürbis schnitzen leicht gemacht: Halloween-Kürbis mal zwei
 
-*   Schnelles Partyrezept für 20 Gäste und mehr - Blätterteigtaschen Mexikanisch
 *   Spiel für Halloween-Kinderparty: Die Halloween-Grusel-Box
+*   Bastel-Anleitung: Blumenstrauß aus Herbstlaub
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.975.433
+1.978.438
 
 Anzahl der Fragen
 
-8.384.885
+8.394.148
 
 Anzahl der Antworten
 
-36.365.873
+36.396.787
 
 Anzahl der Tipps
 
-75.312
+75.397
 
 Anzahl der Videos
 
-4.783
+4.787
 
 Blog
 
