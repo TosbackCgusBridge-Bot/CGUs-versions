@@ -40,29 +40,28 @@ WINDOWS CATEGORIES:
 *   Ashampoo UnInstall...
 7-DAY TOP DOWNLOAD # Program Nokia PC Suite  
 7.1.180.94  
-55,267 downloads Samsung PC Studio  
+54,844 downloads Samsung PC Studio  
 7.2.24.9  
-39,540 downloads LibreOffice 3.6.2 /  
-3.6.3 RC 2  
-33,251 downloads Adobe Flash Player  
+39,315 downloads Adobe Flash Player  
 11.4.402.287 /  
 11.5.500.104 Beta 5  
-33,176 downloads Nero 9 Free  
+33,488 downloads Nero 9 Free  
 9.4.12.3d  
-31,963 downloads Microsoft Office  
+32,145 downloads Microsoft Office  
 2013 15.0.4128.1014  
 Preview / 2010  
 14.0.6023.1000  
 Service Pack 1  
-30,268 downloads Internet Download  
+30,367 downloads LibreOffice 3.6.3  
+30,341 downloads Internet Download  
 Manager 6.12 Build  
 23  
-26,583 downloads Stream Torrent 1.0  
+27,138 downloads Stream Torrent 1.0  
 Build 0078  
-24,302 downloads UMPlayer 0.98  
-24,194 downloads Samsung Kies  
+24,220 downloads UMPlayer 0.98  
+23,864 downloads Samsung Kies  
 2.5.0.12094\_28  
-23,017 downloads Home >. Privacy policy  
+23,233 downloads Home >. Privacy policy  
 Softpedia privacy policy  
 Written in accordance with the provisions of Law 677/2001, regarding individual protection about collecting and free circulation of personal data.  
   
