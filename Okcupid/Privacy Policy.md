@@ -95,6 +95,7 @@ How we use the information we collect
 *   manage our business.
 *   provide our advertisements to you when you visit other sites.
 *   perform functions as otherwise described to you at the time of collection.
+*   register you with and display your profile on other online dating and other social websites owned by IAC, such as match.com and websites operated by People Media.
 
 **Financial information.** We may use financial information or payment method information to process payment for any purchases made on our website, enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
 
@@ -109,6 +110,8 @@ With whom we share your information
 **Personal information.** We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
 
 **Service providers:** We may share your personal information, which may include your name and contact information (including email address), with third parties that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, member screenings, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+
+**Other IAC businesses.** We are part of the IAC family of businesses (go to www.iac.com for a listing of these businesses). IACrsquo;s businesses include the online dating websites match.com, chemistry.com, singlesnet.com, datehookup.com and the websites operated by People Media (ourtime.com, seniorpeoplemeet.com, blackpeoplemeet.com and other sites listed on peoplemedia.com). We may share information we collect, including your profile and personal information such as your name and contact information, photos, interests, activities and transactions on our website, with the IAC companies. As part of our online service, your profile may be registered on and/or appear in search results or other areas of other online dating websites owned by IAC. All IAC companies comply with the IAC Consumer Privacy statement.
 
 **Business partners:** When you make purchases on our website or click-through our advertisements offered on third party websites, we may share personal information with the businesses with which we partner to offer you the applicable products, services or advertisements. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.
 
@@ -228,12 +231,12 @@ Or visit us in your mobile browser.
 *   Help
 *   Careers
 *   Press
-*   Legal
+*   Legal\*
 *   Success
 *   Tests
 *   OkTrends
 
-OkCupid © 2012 — Programmed in C++ Free online dating
+OkCupid © 2012 \*Privacy policy revised Nov. 1, 2012 Free online dating
 
 *   Local dating
 *   Jewish dating
