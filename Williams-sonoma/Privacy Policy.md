@@ -605,11 +605,11 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   For Designers
     *   Store Availability
     
-    FREE SHIPPING
+    LIMITED TIME ONLY - SAVE $200
     
-    Luxurious bedding and throws ship free! Offer not valid for international shipping.
+    Beckett Bar Cart, Now $799.
     
-    Shop Bedding 
+    Buy Now 
     
 *   Agrarian Shop by Category
     
