@@ -142,7 +142,7 @@ Examples of information you can access easily at Amazon.com include up-to-date i
 
 *   Track or Manage Purchases
 *   Manage Payment Options
-*   Returns and Replacements
+*   Return Items
 *   Change Name, E-mail, or Password
 *   Manage Address Book
 *   Manage Your Kindle
@@ -265,6 +265,7 @@ Borrow from over 180,000 titles for free
 *   Amazon Cloud Drive
 *   Your Cloud Drive5 GB of free storage
 *   Get the Desktop AppFor Windows and Mac
+*   Cloud Drive Photos for AndroidFor Android phones and tablets
 *   Learn More About Cloud Drive
 
 *   Kindle E-readers
@@ -324,7 +325,6 @@ Borrow from over 180,000 titles for free
 *   Music
 *   MP3 Downloads
 *   Musical Instruments
-*   Entertainment Collectibles
 *   Video Games
 *   Game Downloads
 
@@ -401,17 +401,13 @@ Borrow from over 180,000 titles for free
 *   Golf
 *   All Sports &. Outdoors
 
-*   Automotive
+*   Automotive &. Industrial
 *   Automotive Parts &. Accessories
 *   Automotive Tools &. Equipment
 *   Car Electronics &. GPS
 *   Tires &. Wheels
 *   Motorcycle &. ATV
 *   Industrial &. Scientific
-*   Industrial Supplies
-*   Lab &. Scientific
-*   Janitorial
-*   Safety
 
 *   Unlimited Instant Videos
 *   MP3s &. Cloud Player20 million songs, play anywhere
@@ -463,3 +459,5 @@ View Cart (0 items) (0 item) (0 items)
 *   Wish from Any WebsiteAdd items to your List from anywhere
 *   Wedding Registry
 *   Baby Registry
+*   Kids' Birthdays
+*   Friends &. Family Gifting
