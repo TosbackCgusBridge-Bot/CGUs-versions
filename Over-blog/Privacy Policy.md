@@ -12,12 +12,12 @@ OverBlog Le portail de tous les blogs Connexion
     *   Cuisine
     *   Littérature
     *   Sport
-    *   Humour
+    *   humour
     *   art
     *   Divers
     *   Voyages
-    *   photos
-    *   santé
+    *   PHOTOS
+    *   Santé
 *   Forums
 
 Créer mon blog
