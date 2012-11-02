@@ -1,78 +1,78 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: In NJ, help from National Guard and one another
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: WATCH LIVE: TODAY’s special coverage of Sandy
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports What Vick must do to keep job
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Mike Blake / Reuters Chargers stick up for Turner
     
-    ProFootballTalk: Mike Florio breaks down Philadelphia's decision to stick with Michael Vick as its starting QB and what Vick must do to avoid being benched.
+    PFT: As speculation about Norv Turner's job security swirls, QB Philip Rivers maintains "we play for our coach."
     
-    PFT: No truth to Tebow-to-Jags trade talk PFT: Peyton says thumb just an 'irritant' PFT: Ref was equally at fault, DeAngelo says PFT: Goodell not happy with Redskins' Hall PFT: Mario Williams says Texans forced him out PFT: Atheists may not be welcome in Indy PFT: Carroll: No, 'Bama could not win in NFL PFT: Rodgers rips Packers' running game Ad
+    PFT: Two defensive TDs help Chargers blitz Chiefs PFT's Week 9 Picks: Saints set to ground Eagles? PFT: Steelers can't find a hotel in New York PFT: Dungy says same-day travel not a big deal PFT: Pats trade for troubled Bucs CB Talib Flacco explains what it's like without Lewis PFT: RG3: Compare me to Rodgers, not Newton Could Alabama beat a pro team? Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Christian Petersen / Getty Images Is Bochy game's best manager?
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Michael Ivins/Boston Red Sox / Getty Images Contributor Red Sox should give Ortiz two years
     
-    DeMarco: The 'Terrific' skipper may have Giants on top again in 2013, especially with everything in place related to team's core players.
+    CSN: The fear is that Big Papi will break down again and, yes, that would be unfortunate. But at this point, that risk is worth the reward.
     
-    HBT: A-Rod to the Phillies? Let the chatter begin! HBT: Giants GM Sabean faces hard decisions HBT: Melky bust makes Giants' title illegitimate? HBT: Royals acquire Santana from Angels HBT: Rockies eye Giambi, Weiss, Matt Williams HBT: Gold Gloves are out, here's some outrage CSN: For Harper, that's a clown costume, bro HBT: Leyland returning as manager of Tigers Ad
+    DeMarco: 'Terrific' Bochy could keep SF on top HBT: Giants won't make qualifying offer to Pagan HBT: Ex-pitcher Pascual Perez killed at home HBT: Marlins hire Redmond to replace Ozzie HBT: Romo's parade T-shirt: 'I just look illegal' HBT: State of Rhode Island sues Schilling HBT: Yankees are interested in Torii Hunter HBT: Angels' top priority is re-signing Greinke Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Arno Balzarini / AP Is this really worth it for players?
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Julio Cortez / AP 3 reasons fans might not come back
     
-    PHT: Perhaps money isn’t the root cause of their dispute with the NHL. Maybe it’s more about pride and fairness. So, do they stay the course ... or reevaluate?
+    PHT: Back in August, before the current NHL lockout had officially begun, commissioner Gary Bettman said that the league recovered from the loss of the 2004-05 season because it has the “world’s greatest fans.” But will they come back this time?
     
-    Players expect to get escrow checks Wednesday PHT: Fehr opens up on negotiating tactics PHT: Winter Classic might be canceled Thursday PHT: Bozak under fire for Michael Jackson costume PHT: Club fined for fans' racist taunts at Simmonds PHT: Fleury, Miller might go to Europe PHT: Johnson rips owners on Jackets' website PHT: NHL cancels games through November Ad
+    Is this really worth it for players? Players expect to get escrow checks Wednesday PHT: Fehr opens up on negotiating tactics Feds: Ex-Oilers owner gets probation extended PHT: Bozak under fire for Michael Jackson costume PHT: Club fined for fans' racist taunts at Simmonds PHT: Fleury, Miller might go to Europe PHT: Johnson rips owners on Jackets' website Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Bill Baptist / Getty Images Contributor Harden era for Rockets begins with a bang
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines D. Clarke Evans / Getty Images Contributor Spurs show OKC how it's done
     
-    Well, that's worked so far: James Harden scores 37 points, hands out 12 assists and grabs six rebounds in his first game for Houston as the Rockets down the Pistons 105-96.
+    PBT: Tony Parker's game-winning jumper capped a wild game that showed Thunder can manage without James Harden, but getting ball to Kevin Durant in crunch time still an issue.
     
-    Blazers take down Lakers. Nash leaves with injury Hill helps Pacers rally over Raptors Hawes leads 76ers past Nuggets Bulls take care of business with Kings Warriors overcome Curry's bad night, edge Suns Crawford, Clippers torch Grizzlies Knicks-Nets called off after Sandy Opinion: Matching the Laker hype will take time Ad
+    Parker's buzzer-beater ruins Thunder's opener PBT: Nets' home opener moved to Nov. 26 PBT: LeBron vs. 'Melo at power forward, wow! Houston happy with Harden One-on-one with Anthony Davis Winderman: Making sense of rookie extensions Jordan: I'm committed to Bobcats for long haul PBT: Stan Van Gundy to join NBC Sports Radio Ad
 *   CFB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Dave Martin / AP Tide loss would help SEC's image
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines NBC Sports Previewing the big weekend
     
-    Ventre: Within the SEC, it also feels like there is Alabama, and then there is everybody else. And unless you're a 'Bama fan, that's bad.
+    SportsTalk: Pat Forde looks at the top Week 10 college football action, including Alabama-LSU and Oregon-USC, and picks whether Kansas St. or Notre Dame is more likely to finish unbeaten.
     
-    PFT: Spurrier says Alabama could beat NFL teams 'Bama, LSU hoping 7 lucky number this time LSU hungry for redemption in rematch with 'Bama CFT: USC's discipline problems are red flag Trojans are like Cowboys — in a bad way Minn. football coach says videos innocent New arrest lands ex-LSU QB Jefferson in jail Heisman Hopefuls: Klein keeps lead ... you agree? Ad
+    Tamanaha: What's in store for those unbeatens? CFT's Predictions 101: Unbeatens will stay that way BCS officials say Notre Dame an attractive option Can Alabama stay undefeated? CFT: Miami handles Hokies, eyes ACC title game Jets' Tebow, K-State's Klein lead parallel lives Ventre: Why an Alabama loss would be good for SEC Saban: Game manager label is high praise for QB Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Mark Baker / AP F1 leader Vettel back to desert
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Jared C. Tilton / Getty Images Keselowski in Johnson's way
     
-    Red Bull's Sebastian Vettel is aiming to build on his late-season resurgence and extend his lead in the Formula One standings when he heads back to the desert for this weekend's Abu Dhabi Grand Prix.
+    Denny Hamlin has conceded his championship chances, and Clint Bowyer and Kasey Kahne are fading fast. So what's stopping Jimmie Johnson from cruising to a sixth NASCAR championship?
     
-    What's the plan in IndyCar? Does anybody know? Randy Bernard steps down as IndyCar CEO Simona de Silvestro signs with KV Racing for 2013 Keselowski standing in Johnson's way of 6th title Johnson wins at Martinsville, takes points lead Earnhardt talks of anxiety caused by concussions Knaus salvages Kansas to keep Johnson in hunt Martin-Vickers-Waltrip team up again in 2013 Ad
+    Danica's 1 regret about bumping Cassill: execution James Buescher looks for win on big Texas track Belskus: IndyCar moving on, bullish about future Ferrari, Vettel take duel to desert Randy Bernard steps down as IndyCar CEO Simona de Silvestro signs with KV Racing for 2013 Johnson wins at Martinsville, takes points lead Earnhardt talks of anxiety caused by concussions Ad
 *   BKC
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Kevork Djansezian / Getty Images Ranking the small forwards
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Lenny Ignelzi / AP McDermott tops our PF rankings
     
-    CBT: Is San Diego State's Jamaal Franklin the game's best wing or does Ohio State's Deshaun Thomas take that title?
+    CBT: The nation's best power forward plays for Creighton? Yup. Actually, mid-major schools boast guys in the top three spots.
     
-    CBT: NCAA reportedly clears UCLA's Anderson CBT: Zeller working on his perimeter defense Conference previews: Ivy  |  MAAC Conference previews: MAC  |  MEAC CBT: McLemore already flying high for KU (video) CBT: NCAA adopts new enforcement policies CBT: Might be a long season for Frank Martin CBT: Pastner credits Sean Miller for offensive success Ad
+    Conference previews: Summit  |  Southern Conference previews: Patriot |  Ohio Valley Arizona, UCLA lead way in Pac-12 preseason poll Stan Van Gundy to analyze games on NBCSN CBT: Buzzing about Marquette's new look CBT: Baylor lands another talented big man Fresno St.'s star recruit to miss 4 weeks Iowa St. suspends Babb for three games Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Challenging anchored ban in court could prove difficult
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Palmer jokes: Break McIlroy's arm if he doesn't play Bay Hill
     
-    Speculation that golf's governing bodies are prepared to ban anchored putting has players like Keegan Bradley charting their next move.
+    Rory McIlroy has never played the Arnold Palmer Invitational. And if he decides against teeing it up again in March, there might be some repercussions – from The King himself.
     
-    Woods, McIlroy criticized for HSBC no-show Report: Bradley says he'll challenge anchoring ban Titleist, McIlroy won't renew contract after this year Faldo on Rory-Titleist split: 'I call it dangerous' Lefty on Ryder Cup aftermath: 'A really tough low' Phelps in the 2016 Olympics – as a golfer? Few changes to 2013 PGA Tour schedule Rory clips Tiger by a shot in Duel at Jinsha Lake Develop a level of consistency with your golf game Ad
+    Report: Bradley says he'll challenge anchoring ban Woods, McIlroy criticized for HSBC no-show Titleist, McIlroy won't renew contract after this year Faldo on Rory-Titleist split: 'I call it dangerous' Tip of the Week: Learn to groove your takeaway Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines David Banks / Getty Images Dynamo extinguish Fire in Chicago
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Jae C. Hong / AP Galaxy lucky to advance
     
-    PST: Houston navigates the opening round knockout match, finding a way past Chicago on the road behind two Will Bruin goals.
+    PST: David Beckham and L.A. looked to be on the brink of an upset before winning 2-1. Does this mean they're not long for the postseason?
     
-    PST: Galaxy heavily favored over Whitecaps PST: Red Bulls, United swap for Sandy Robbie Keane has a striking season for LA Galaxy PST: Steve Nash may be at Thursday's game PST: New USWNT coach is Aussie  |  Who is he? PST: What's on Sermmani's to-do list? PST: Who's MLS MVP? That's an easy one PST's discussion for top defender  |  Rookie Ad
+    Highlights: How Galaxy rallied past Whitecaps Whitecaps score first, but L.A. wins Galaxy avoid 'one of those games' PST: Donovan says some think he's 'faking' injuries PST: Beckham provides glimpse of Kobe's future PST: Previewing Real Salt Lake-Sounders Arsenal's Gervinho out for 3 weeks with injury Ronaldinho upset with refereeing in Brazil Ad
 *   Horses
     SectionsOverview Latest news Watch live racing Results Entries Latest videos Free racing game Bet now  
-    Headlines Adam Coglianese / AP file Top 5 storylines for Breeders' Cup
+    Headlines Adam Coglianese / AP Can East conquer West in Cup?
     
-    Analysis: The Ladies' Classic likely will live up to the hype, and bettors could win big on Saturday.
+    Shanghai Bobby or Power Broker could become the early Kentucky Derby favorite by winning the Breeders' Cup Juvenile on Saturday.
     
-    Breeders' will decide Horse of Year Game On Dude, Baffert try again in BC Classic Royal Delta suffers cut on flight to Santa Anita Point of Entry settling in. Wise Dan gallops Mott loaded in Classic. Nonios works bullet Final Euro contingent arrives at Santa Anita Pursuit of the Cup: Early Breeders' Cup preview TCI looks at 180 pre-entries for Breeders' Cup Ad
+    Top 5 storylines for Breeders' Cup TCI's Breeders' Cup selection show Prevew of Saturday's Breeders' races  |  Friday's Handicap: Mucho Macho Man will win the Classic Breeders' Cup will decide Horse of the Year Breeders' Cup Classic gets prime-time TV slot Trainer Mott aiming take at Breeders' Cup sweep Pursuit of the Cup: All horses get to Santa Anita Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Eugene Hoshiko / AP Will Phelps be golfing in Rio?
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Eric Gaillard / Reuters Keeps getting worse for Lance
     
-    OlympicTalk: Swimming legend gives lessons to kids in Rio, and says he could return for the 2016 Games, but not in the sport you think.
+    OlympicTalk: The IOC might strip him of his bronze medal from 2000 and he's getting burned in effigy in England.
     
-    South Korean protest player finally gets soccer medal Olympic champion Spirig targets Rio after baby Pikus-Pace, Daly win US selection races again OlympicTalk: Morgan as Maroney? Impressive Highlights: Ligety wins World Cup opener Ligety wins World Cup opening GS with massive lead FIS set to discuss Vonn's wish to race against men Slovenia's Maze wins season-opening WCup GS Ad
+    OlympicTalk: Swimmer Thorpe denies he's gay OlympicTalk: Will Phelps be golfing in Rio? South Korean protest player finally gets medal Olympic champion Spirig targets Rio after baby Pikus-Pace, Daly win US selection races again OlympicTalk: Morgan as Maroney? Impressive Highlights: Ligety wins World Cup opener Ligety wins World Cup opening GS with massive lead Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Outdoors Tennis Action sports Fight Night Tickets Headlines Julie Jacobson / AP Maryland man, 24, wins WSOP
+    SectionsOther sports Off the Bench Cycling Outdoors Tennis Action sports Fight Night Tickets Headlines Richard Drew / AP NYC Marathon still on after Sandy
     
-    A 24-year-old Maryland poker professional won the World Series of Poker main event, outlasting his final opponents in a marathon card session of nearly 12 hours for the $8.53 million title on Wednesday.
+    The Nets' regular-season debut in Brooklyn will have to wait. The New York City Marathon, however, is good to go.
     
-    Bloomberg OKs NYC Marathon for Sunday 8 Aboriginal runners depart for New York marathon Professional leagues plan to play after superstorm The Week in Sports Pictures Sports backgrounds for Obama, Romney Williams sisters inspire local kids in Nigeria Querrey uspets Djokovic in Paris Masters 9 charged in Fla. youth football gambling ring Ad
+    Mayor says NYC Marathon won't divert resources English town to burn Lance Armstrong in effigy Belgian cyclist Gunther Cuylits dies after race Janowicz stuns Murray at Paris Masters Wozniacki gets 3rd win from 3 at Champions event Williams sisters inspire local kids in Nigeria Maryland poker pro wins WSOP and $8.53M The Week in Sports Pictures Ad
 
 *   Scores
 *   Odds
@@ -198,4 +198,4 @@ PST: English soccer has new broadcast home  |  Massive
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
-AdChoices SportsNFL College football MLB NBA NHL College basketball NASCAR/Motors Golf Tennis Soccer Other Sports Quick linksScores RSS Feeds Tickets TV Listings Fantasy Games Universal Sports NBC Sports Feedback Go Mobile Shop NBC TV Listings **Day** **Time** **Event** **Location** **Talent** **Saturday, Nov. 3** 2:30 - 3:30 p.m. Sports Illustrated N/A N/A 3:30 - 7 p.m. Pittsburgh at Notre Dame South Bend, Ind. Dan Hicks, Mike Mayock, Alex Flanagan 8 - 9 p.m. Breeder's Cup Santa Anita, Calif. Tom Hammond, Gary Stevens, Randy Moss, Mike Battaglia, Kenny Rice, Bob Neuemeier, Donna Brothers, Larry Collmus, Carolyn Manno **Sunday, Nov. 4** 2:30 - 3:30 p.m. World of Adventure Sports TBA Todd Harris 3:30 - 6 p.m. MLS: Conference Semifinals TBD Arlo White, Kyle Martino, Russ Thaler 7 - 8:20 p.m. Football Night in America New York Bob Costas, Dan Patrick, Tony Dungy, Rodney Harrison, Peter King, Alex Flanagan, Mike Florio, Hines Ward 8:20 - Conclusion Sunday Night Football: Cowboys at Falcons Atlanta Al Michaels, Cris Collinsworth, Michele Tafoya Note: All times ET
+AdChoices SportsNFL College football MLB NBA NHL College basketball NASCAR/Motors Golf Tennis Soccer Other Sports Quick linksScores RSS Feeds Tickets TV Listings Fantasy Games Universal Sports NBC Sports Feedback Go Mobile Shop NBC TV Listings **Day** **Time** **Event** **Location** **Talent** **Saturday, Nov. 3** 2:30 - 3:30 p.m. Sports Illustrated N/A N/A 3:30 - 7 p.m. Pittsburgh at Notre Dame South Bend, Ind. Dan Hicks, Mike Mayock, Alex Flanagan 8 - 9 p.m. Breeder's Cup Santa Anita, Calif. Tom Hammond, Gary Stevens, Randy Moss, Mike Battaglia, Kenny Rice, Bob Neuemeier, Donna Brothers, Larry Collmus, Carolyn Manno **Sunday, Nov. 4** 2:30 - 3:30 p.m. World of Adventure Sports TBA Todd Harris 3:30 - 6 p.m. MLS: Conference Semifinals: Kansas City at Houston Houston, Texas Arlo White, Kyle Martino, Russ Thaler 7 - 8:20 p.m. Football Night in America New York Bob Costas, Dan Patrick, Tony Dungy, Rodney Harrison, Peter King, Alex Flanagan, Mike Florio, Hines Ward 8:20 - Conclusion Sunday Night Football: Cowboys at Falcons Atlanta Al Michaels, Cris Collinsworth, Michele Tafoya Note: All times ET
