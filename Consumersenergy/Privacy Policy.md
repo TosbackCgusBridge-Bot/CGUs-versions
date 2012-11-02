@@ -32,7 +32,6 @@
 *   Careers
     *   Browse Current Openings
     *   On Campus Schedule
-    *   Diversity
     *   Internships
     *   More...
 *   Safety
