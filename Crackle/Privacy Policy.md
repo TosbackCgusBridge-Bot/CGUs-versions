@@ -80,19 +80,19 @@ Again, feel free to contact us any time if you have further questions about the 
 The effective date of this Privacy Policy is May 11, 2009.
 
 *   Top Movies
-    *   Prom Night
-    *   Silent Hill
-    *   Stranger Than Fiction
-    *   Ultraviolet
-    *   Vacancy
-    *   The Fan
-*   JUST ADDED
-    *   The Exorcism of Emily Rose
-    *   Silent Hill
+    *   District 9
+    *   Boyz n' the Hood
     *   Step Brothers
-    *   From The Basement
-    *   Comedians in Cars Getting Coffee
-    *   The Natural
+    *   The Exorcism of Emily Rose
+    *   Balls Out: Gary the Tennis Coach
+    *   Zombie Strippers
+*   JUST ADDED
+    *   The Fifth Element
+    *   Rescue Me
+    *   The Virginity Hit
+    *   Unthinkable
+    *   Baby Boy
+    *   Bottle Rocket
 *   Explore
     *   Movies
     *   Shows
