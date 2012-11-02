@@ -4,13 +4,11 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Club Cali Members get Free Shipping on orders over $100 when signed in!
+\[hol-HomepageTopBannerEMS\] Take up to $60 Off your purchase + $5 Shipping on all orders! Code: 35547
 
-*   Join
+*   Shop Dudes
 
-*   Sign In
-
-*   Learn More
+*   Shop Bettys
 
 *   see details
 
