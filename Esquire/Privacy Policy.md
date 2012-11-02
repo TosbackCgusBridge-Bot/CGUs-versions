@@ -27,41 +27,42 @@ WATCH AND LEARN... Women Your 2012-2013 NBA Preview  from the Cheerleaders, bu
 
 Because they're closer to the action than Van Gundy, right?
 
-*   Miranda Kerr: Sexiest Woman Alive, According to Esquire UK
+*   Miranda Kerr Is Esquire UK's Sexiest Woman Alive 2012
 
 *   Monday Morning Cheerleader with a Cowboys Sideline Expert on the Hail Mary That Wasn't
 
 *   Now, a Sexy Redheaded Woman
 
-Style How to Dress Like Bond in _Skyfall_
+Style Berg &. Berg Scarves Hit the Web, Just In Time for the Cold
 
-Or Q, or Gareth Mallory, or Raoul Silva, or.... well, you get the point
+The Scandinavian store has refined styles for the adventurous and understated alike
 
-*   Grenson's Classic Wingtip
+*   Stylish Jacket and Coats from Esemplare
 
-*   Disaster-Proof Style for the Next Superstorm
+*   James Bond &. the Bond Girls:  
+    Fantastic New Photo Gallery
 
-*   Our Favorite Shots from the Très Bien Shop Lookbook
+*   Oliver Spencer's Two-Tone Leather Brogue
 
-News &. Politics The 11 Best Reactions to This _Star Wars_ News
+News &. Politics What Bloomberg's Obama Endorsement Means
 
-In which we go to the die-hards
+Doesn't this give you the feeling that the race is settling in the general direction of the president we already ha...
 
-*   The Silent Terror of Hurricane Sandy
+*   The Weirdest Candidates of 2012
 
-*   Charles P. Pierce: Why I'm Voting for Obama
+*   Pierce: Just How Bad Will Voting Technology Be Next Tuesday?
 
-*   Charles P. Pierce: The Hurricane Will Be Politicized
+*   Monty Python: The Other Guy
 
-Food &. Drink Things You Don't Know About Trick-or-Treating
+Food &. Drink What They're Talking About at Bars Post-Sandy
 
-With numbers!
+From a bartender in New York
+
+*   The Future of _Top Chef_ Is Now
+
+*   Things You Don't Know About Trick-or-Treating
 
 *   New Whiskey-Drinking Wisdom
-
-*   What Happened at WhiskyFest: A Drinking Diary
-
-*   Vote: What's America's Best Sub?
 
 Women
 
