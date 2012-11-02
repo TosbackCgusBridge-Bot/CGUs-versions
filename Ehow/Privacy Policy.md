@@ -12,7 +12,7 @@ Discover the expert in you.
 
 Featured:
 
-Halloween
+Holiday
 
 Allergies
 
