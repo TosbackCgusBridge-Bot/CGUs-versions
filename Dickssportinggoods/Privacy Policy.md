@@ -465,10 +465,10 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
     *   NCAA
         
         *   Alabama
-        *   Arizona
-        *   Arizona State
-        *   Arkansas
-        *   Auburn
+        *   Kansas State
+        *   Notre Dame
+        *   Oregon
+        *   LSU
         *   View All »
         
         NBA
