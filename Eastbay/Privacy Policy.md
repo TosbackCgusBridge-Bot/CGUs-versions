@@ -437,7 +437,6 @@ You acknowledge and agree that Eastbay is not responsible for the content, accur
 *   Mobile
 *   Facebook
 *   Eastbay Blog
-*   Live Chat
 
 CUSTOMER SERVICE
 
