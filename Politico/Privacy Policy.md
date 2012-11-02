@@ -113,127 +113,123 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/01/2012 7:02 AM ET
+Updated: 11/02/2012 7:02 AM ET
 
-1.  1 Iowa warns int'l observers of arrest
-2.  2 Bachmann on defense after W.H. bid
-3.  3 The Tea Party gets a news site
-4.  4 NPR apologizes to Abigael Evans
-5.  5 Christie aide denies rift with Mitt
-6.  6 A GOP switch on Akin?
-7.  7 Obama &. Christie: A Sandy love story
+1.  1 Int'l observers say states out of line
+2.  2 Old Mitt is new again
+3.  3 Rove: 279 electoral votes for Mitt
+4.  4 Trump: Obama blew off the deadline
+5.  5 Secret Service agent in affair probe found dead
+6.  6 Bill Clinton hits the road
+7.  7 Romney hits Obama on defense cuts
+8.  8 NYT public editor: Silver bet 'bad idea'
+9.  9 Romney elbows MSNBC
+10.  10 GOP spends big to save Mourdock
+
+Updated: 11/02/2012 7:02 AM ET
+
+1.  1 Int'l observers say states out of line
+2.  2 Rove: 279 electoral votes for Mitt
+3.  3 Iowa to poll-watchers: Back off
+4.  4 Crystal ball: Senate race projections
+5.  5 Bachmann on defense after W.H. bid
+6.  6 Trump: Obama blew off the deadline
+7.  7 Old Mitt is new again
 8.  8 Mitt pollster: Q poll 'crap'
-9.  9 Media stumped by 2012 outcome
-10.  10 Stronger Obama back to the stump
+9.  9 Bloomberg endorses Obama (Updated)
+10.  10 Secret Service agent in affair probe found dead
 
-Updated: 11/01/2012 7:02 AM ET
+Updated: 11/02/2012 7:02 AM ET
 
-1.  1 Iowa warns int'l observers of arrest
+1.  1 Iowa to poll-watchers: Back off
 2.  2 NPR apologizes to Abigael Evans
 3.  3 1 week, 2 versions of reality
-4.  4 The Tea Party gets a news site
-5.  5 Poll: Voters say Obama will win
-6.  6 Bloomberg: No 'diss' to Obama
-7.  7 Bachmann on defense after W.H. bid
-8.  8 Gallup suspends daily tracking poll
-9.  9 Christie aide denies rift with Mitt
-10.  10 Anti-Obama text ads cause a stir
+4.  4 Bachmann on defense after W.H. bid
+5.  5 Int'l observers say states out of line
+6.  6 Rove: 279 electoral votes for Mitt
+7.  7 The Tea Party gets a news site
+8.  8 Poll: Voters say Obama will win
+9.  9 Bloomberg: No 'diss' to Obama
+10.  10 Gallup suspends daily tracking poll
 
-Updated: 11/01/2012 7:02 AM ET
+Updated: 11/02/2012 7:02 AM ET
 
-1.  1 Gallup suspends daily tracking poll
-2.  2 Iowa warns int'l observers of arrest
-3.  3 FEMA, W.H. send victims to Internet
-4.  4 Nate Silver: One-term celebrity?
-5.  5 Bloomberg: No 'diss' to Obama
-6.  6 NPR apologizes to Abigael Evans
-7.  7 1 week, 2 versions of reality
-8.  8 Why Romney will win
-9.  9 Oliver Stone's new book rips Obama
-10.  10 The Tea Party gets a news site
-
-Updated: 11/01/2012 7:02 AM ET
-
-1.  1 Ex-Biden aide pens angry tell-all
-2.  2 Oliver Stone's new book rips Obama
-3.  3 Nate Silver: One-term celebrity?
-4.  4 Gallup suspends daily tracking poll
-5.  5 Obama says kids know Romney is dishonest
-6.  6 Romney raises $111.8 million in October
-7.  7 Martin Sheen: Romney is stupid, arrogant
-8.  8 Iowa warns int'l observers of arrest
-9.  9 FEMA, W.H. send victims to Internet
-10.  10 NBA's Stern: Obama always goes left
+1.  1 Oliver Stone's new book rips Obama
+2.  2 Nate Silver: One-term celebrity?
+3.  3 Gallup suspends daily tracking poll
+4.  4 Ex-Biden aide pens angry tell-all
+5.  5 Iowa to poll-watchers: Back off
+6.  6 Martin Sheen: Romney is stupid, arrogant
+7.  7 FEMA, W.H. send victims to Internet
+8.  8 NBA's Stern: Obama always goes left
+9.  9 Bloomberg: No 'diss' to Obama
+10.  10 Battleground Tracking Poll: Obama retakes lead
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/01/2012 7:02 AM ET
+Updated: 11/02/2012 7:02 AM ET
 
-1.  1 Napolitano warns of utility attacks
-2.  2 Crystal ball: Senate race projections
-3.  3 McMorris Rodgers, rising GOP star
-4.  4 GOP candidates' independent streak
-5.  5 Which Mitt will go down in history?
-6.  6 GOP hopeful: 'The rape thing'
-7.  7 Update: Gallup unsure it can resume
-8.  8 Super PAC funds voter fraud app
+1.  1 Liberals fear grand bargain betrayal if Obama wins
+2.  2 McCain hits the trail like it's 2008
+3.  3 Officials: No delays in Libya response
+4.  4 Old Mitt is new again
 
-Updated: 11/01/2012 7:02 AM ET
+Updated: 11/02/2012 7:02 AM ET
 
-1.  1 Napolitano warns of utility attacks
-2.  2 Crystal ball: Senate race projections
-3.  3 McMorris Rodgers, rising GOP star
-4.  4 GOP candidates' independent streak
-5.  5 Which Mitt will go down in history?
-6.  6 GOP hopeful: 'The rape thing'
-7.  7 Update: Gallup unsure it can resume
-8.  8 Super PAC funds voter fraud app
-9.  9 Axelrod trimmed by mustache police
-10.  10 Bachmann on defense after W.H. bid
+1.  1 Liberals fear grand bargain betrayal if Obama wins
+2.  2 McCain hits the trail like it's 2008
+3.  3 Officials: No delays in Libya response
+4.  4 Old Mitt is new again
+5.  5 Bill Clinton hits the road
+6.  6 JFK says vote on Nov. 6
+7.  7 GOP spends big to save Mourdock
+8.  8 Secret Service agent in affair probe found dead
+9.  9 Congress may step in for Sandy aid
+10.  10 Levin wants answers on tax report
 
-Updated: 11/01/2012 7:02 AM ET
+Updated: 11/02/2012 7:02 AM ET
 
-1.  1 Napolitano warns of utility attacks
-2.  2 Crystal ball: Senate race projections
-3.  3 McMorris Rodgers, rising GOP star
-4.  4 GOP candidates' independent streak
-5.  5 Which Mitt will go down in history?
-6.  6 GOP hopeful: 'The rape thing'
-7.  7 Update: Gallup unsure it can resume
-8.  8 Super PAC funds voter fraud app
-9.  9 Axelrod trimmed by mustache police
-10.  10 Bachmann on defense after W.H. bid
+1.  1 Liberals fear grand bargain betrayal if Obama wins
+2.  2 McCain hits the trail like it's 2008
+3.  3 Officials: No delays in Libya response
+4.  4 Old Mitt is new again
+5.  5 Bill Clinton hits the road
+6.  6 JFK says vote on Nov. 6
+7.  7 GOP spends big to save Mourdock
+8.  8 Secret Service agent in affair probe found dead
+9.  9 Congress may step in for Sandy aid
+10.  10 Levin wants answers on tax report
 
-Updated: 11/01/2012 7:02 AM ET
+Updated: 11/02/2012 7:02 AM ET
 
-1.  1 Napolitano warns of utility attacks
-2.  2 Crystal ball: Senate race projections
-3.  3 McMorris Rodgers, rising GOP star
-4.  4 GOP candidates' independent streak
-5.  5 Which Mitt will go down in history?
-6.  6 GOP hopeful: 'The rape thing'
-7.  7 Update: Gallup unsure it can resume
-8.  8 Super PAC funds voter fraud app
-9.  9 Axelrod trimmed by mustache police
-10.  10 Bachmann on defense after W.H. bid
+1.  1 Liberals fear grand bargain betrayal if Obama wins
+2.  2 McCain hits the trail like it's 2008
+3.  3 Officials: No delays in Libya response
+4.  4 Old Mitt is new again
+5.  5 Bill Clinton hits the road
+6.  6 JFK says vote on Nov. 6
+7.  7 GOP spends big to save Mourdock
+8.  8 Secret Service agent in affair probe found dead
+9.  9 Congress may step in for Sandy aid
+10.  10 Levin wants answers on tax report
 
 Showing Last 7 Days
 
-Updated: 11/01/2012 7:02 AM ET
+Updated: 11/02/2012 7:02 AM ET
 
-1.  1 1 week, 2 versions of reality
-2.  2 Sandy forces anti-politics politics
-3.  3 Battleground Tracking Poll: Obama retakes lead
-4.  4 How Mitt silenced the echo chamber
-5.  5 Tight race in divided Wisconsin
-6.  6 Romney's road to Ohio victory
-7.  7 White voters still matter
-8.  8 Obama tries to shore up female vote
-9.  9 Dems go all in for abortion rights
-10.  10 How Mitt Romney would govern
+1.  1 Rove: 279 electoral votes for Mitt
+2.  2 Radio: The other air war
+3.  3 1 week, 2 versions of reality
+4.  4 Sandy forces anti-politics politics
+5.  5 Battleground Tracking Poll: Obama retakes lead
+6.  6 Tight race in divided Wisconsin
+7.  7 Romney's road to Ohio victory
+8.  8 White voters still matter
+9.  9 Obama tries to shore up female vote
+10.  10 Dems go all in for abortion rights
 
 News
 
