@@ -1,16 +1,16 @@
 HP.com Home
 
 *   Connect with HP Connect with HP
-    *      Email us
+    *     Email us
         *   Questions before you buy
         *   Technical support after you buy
         *   Other questions / feedback
-    *      Call us
+    *     Call us
         *   Questions before you buy
         *   Technical support after you buy
         *   Other questions / feedback
-    *      HP office locations
-    *      All HP Contacts
+    *    HP office locations
+    *   All HP Contacts
 *   Online Communities Online Communities Loading... Failed to load community discussions. Please, try to refresh the page.
 
 Search
@@ -117,9 +117,8 @@ Search
         *   Business printing tips and how-to
 *   Support &  
     Drivers
-*   Online privacy statement
 
-HP respects your privacy
+Online Privacy Statement HP respects your privacy
 
 HP and its subsidiaries respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. This statement is readily available on our home page and at the bottom of every HP Web page
 
@@ -522,11 +521,11 @@ Privacy statements for other countries/regions
 
 HP Global master privacy policy
 
-Open menu: Select another location or language-Close menu: Select another location or language     United States
+Open menu: Select another location or language-Close menu: Select another location or language   United States
 
-*   Home   
-*   About HP   
-*    Open popup menuResources     Beginnning Resources contentResources
+*   Home|
+*   About HP|
+*    Open popup menuResources|  Beginnning Resources content Resources
     *   Offers &. Rebates / As Advertised
     *   Subscribe
     *   Register Your Product
@@ -536,8 +535,8 @@ Open menu: Select another location or language-Close menu: Select another locati
     *   Accessibility &. Aging
     *   PC Security
     
-      End Resources content Close menu
-*    Open popup menuHP Partners     Beginnning HP Partners contentHP Partners
+     End Resources content Close menu
+*    Open popup menuHP Partners|  Beginnning HP Partners content HP Partners
     *   HP Partners &. Developers
     *   HP Partner Program Portal
     *   Buy from an HP Partner
@@ -546,25 +545,25 @@ Open menu: Select another location or language-Close menu: Select another locati
     *   Sign-in to HP Partner Portal
     *   HP Alliance Partner information
     
-      End HP Partners content Close menu
-*    Open popup menuCustomer Support  Beginnning Customer Support contentCustomer Support
+     End HP Partners content Close menu
+*    Open popup menuCustomer Support  Beginnning Customer Support content Customer Support
     *   Contact HP/Customer Support
     *   Support &. Drivers
     *   Accessories &. Parts
     *   Recalls &. Replacements
     
-      End Customer Support content Close menu
+     End Customer Support content Close menu
 
-*   Support &. Drivers   
-*   HP Labs   
-*   Jobs   
-*   Investor Relations   
+*   Support &. Drivers|
+*   HP Labs|
+*   Jobs|
+*   Investor Relations|
 *   Site Map
 
-*   Recalls &. Replacements   
-*   Ad Choices    
-*   Privacy Statement   
-*   Terms of Use   
+*   Recalls &. Replacements|
+*   Ad Choices |
+*   Privacy Statement|
+*   Terms of Use|
 *   © 2012 Hewlett-Packard Development Company, L.P.
 
 Computers  |  Laptops  |  Desktops  |  Tablet  |  Workstations  |  Calculators  |  Computer Monitors Printer  |  Toner  |  Scanners  |  Ink Cartridges  |  Cloud Computing  |  Enterprise Security Software  |  Services  |  Networking  |  Servers  |  Storage  |  Application Lifecycle Management
