@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Sedona Rouge - Arizona
-    
-    Starting Today 11/1 at 3pm EDT
-    
-*   Hotel le Bellechasse - Paris
-    
-    Starting Today 11/1 at 3pm EDT
-    
-*   Sparkling Hill Resort - Canada
-    
-    Starting Today 11/1 at 3pm EDT
-    
-*   Harvest Inn - Napa Valley
-    
-    Starting Today 11/1 at 3pm EDT
-    
-*   Green Mountain Inn - Vermont
-    
-    Starting Today 11/1 at 3pm EDT
-    
-*   S.S. Coachella Cruises Cruise the Bahamas or Jamaica on S.S. Coachella
-    
-    Starting Today 11/1 at 4pm EDT
-    
 *   Dubai &. Abu Dhabi in 7 Days
     
-    Starting Friday 11/2 at 3pm EDT
+    Starting Today 11/2 at 3pm EDT
     
 *   C Lazy U Ranch
     
-    Starting Friday 11/2 at 3pm EDT
+    Starting Today 11/2 at 3pm EDT
+    
+*   Sparkling Hill Resort - Canada
+    
+    Starting Today 11/2 at 3pm EDT
+    
+*   The Crown - United Kingdom
+    
+    Starting Saturday 11/3 at Noon EDT
+    
+*   Hob Knob - Martha's Vineyard Edgartown, Massachusetts
+    
+    Starting Saturday 11/3 at 3pm EDT
+    
+*   New Sheridan Hotel - Telluride
+    
+    Starting Sunday 11/4 at 3pm EST
+    
+*   Captain Fairfield Inn - Maine Kennebunkport
+    
+    Starting Sunday 11/4 at 3pm EST
+    
+*   Topaz Hotel - Washington D.C.
+    
+    Starting Sunday 11/4 at 3pm EST
     
 
 View All Upcoming Sales → Jetsetter
