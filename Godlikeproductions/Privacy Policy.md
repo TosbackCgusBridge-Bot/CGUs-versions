@@ -1,5 +1,5 @@
   
-Users Online Now: **1,684** (Who's On?) Visitors Today: **314,780** Pageviews Today: **538,200** Threads Today: **232** Posts Today: **3,475** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,930** (Who's On?) Visitors Today: **354,308** Pageviews Today: **582,022** Threads Today: **247** Posts Today: **3,515** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,31 +112,31 @@ trinity@godlikeproductions.com
   
 News
 
-*   What Happened to the 50,000 Homeless in NYC During Hurricane Sandy?
-*   East Coast starts to recover after Sandy leaves death, destruction in wake, 4M still without power
-*   Amtrak assessing damage from Hurricane Sandy and making Repairs
-*   Amtrak Service Restoration Plan - Post Sandy
-*   Superstorm Sandy has caused a shortage of gasoline
-*   Latest Fast and Furious Report Incriminates DOJ
-*   Shell Seeks to Pay Iran Debt With Grain
-*   In Hurricane Sandy's Fury, The Fingerprint Of Climate Change
-*   Study: Shark and human minds share similarities
-*   To Deflect Asteroids From Earth, Deploy Paintballs By The Ton
-*   Could the next planetary rover come from Canada?
-*   The Fastest Science Machine In The World
-*   EFF calls Ubuntu Shopping Lens a "major privacy problem"
-*   Sandy unlikely to postpone election
-*   Most U.S. Drones Openly Broadcast Secret Video Feeds
-*   Mass extinction study provides lessons for modern world
-*   Scientists in sleep-wake tests decode dreams
-*   Curiosity on Mars sits on rocks similar to those found in marshes in Mexico
-*   10 brands that will disappear in 2013
-*   NY Gov Shuts Down Mass Transit
-*   Frankie McDonalds Report On Hurricane Sandy
-*   Why Do Children Think Covering Their Eyes Makes Them Invisible?
-*   Watch Hurricane Sandy LIVE From Space Right Now
-*   Mississippi School Charged With Arresting Kids For Flatulence
-*   FULL NAME LIST: U.N. "ELECTION OBSERVERS"
+*   Federal court approves use of hidden surveillance cameras on private property without warrants
+*   EFF Demands Answers About Predator Drone Flights in the U.S.
+*   The Kremlin’s New Internet Surveillance Plan Goes Live Today
+*   Archaeologists uncover oldest prehistoric town in Europe
+*   Enough Spent on Welfare in 2011 to Give Every Poor Household Nearly $60,000
+*   Three States Add Their Names to the List of ObamaCare Nullifiers
+*   Megaupload and the Government's Attack on Cloud Computing
+*   Meth vaccine shows promising results in early tests
+*   Staten Island Borough President: Don’t Give Money to the Red Cross
+*   Will There Be A Q-E "Sandy" ?
+*   Troopers Deployed To N.J. Gas Stations As Frustration, Massive Lines Form At The Pump
+*   New York state asks Washington to cover all storm costs
+*   VIDEO: Four-year-old wants election to be over
+*   Parental stress linked to child obesity
+*   Cloning-like method targets mitochondrial diseases
+*   New Yorkers brace for post-Hurricane Sandy ‘ratpocalypse’
+*   Lawsuit claims jail guards flushed baby down toilet
+*   Why is Crude Oil Price Falling?
+*   NYT called out city’s flood-protection problems in September
+*   New Yorkers search for food, water and electricity
+*   Bloomberg orders three-person minimum for all cars entering Manhattan
+*   Fla schools being asked to close on 2 Muslim holidays
+*   Pastor who spoke at inauguration believes all white people going to hell, stimulus was ‘genius’
+*   Where Will The Next Pandemic Come From?
+*   Sandy Wiped Out NYU Lab Mice, Dealing Blow to Medical Research
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.022s (0 queries)
+Page generated in 0.015s (0 queries)
