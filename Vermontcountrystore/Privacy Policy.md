@@ -131,7 +131,6 @@ Live Help |
     *   Breakfast
     *   Food &. Candy Favorites
     *   SALE - Food &. Candy
-    *   Brands From The Past Favorites
     *   Thanksgiving Traditions
 *   For The Home
     
@@ -217,7 +216,6 @@ Live Help |
     *   Diabetic Friendly
     *   Health &. Beauty Favorites
     *   SALE - Health &. Beauty
-    *   Brands From The Past Favorites
 *   Toys
     *   New This Season
     *   Classic Toys
@@ -227,6 +225,7 @@ Live Help |
     *   Toys Favorites
 *   Gifts
     *   Seasonal Favorites
+    *   Brands From The Past
     *   Gifts For Her
     *   Gifts For Him
     *   For The Kids
