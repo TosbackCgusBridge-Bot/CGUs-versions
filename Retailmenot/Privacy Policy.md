@@ -378,9 +378,9 @@ Contact Us
 
 Special Events
 
-*   Halloween Deals
 *   Black Friday Deals
 *   Cyber Monday Deals
+*   Christmas Deals
 
 Company Info
 
