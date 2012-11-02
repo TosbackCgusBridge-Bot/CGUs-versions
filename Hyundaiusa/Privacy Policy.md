@@ -1,4 +1,9 @@
-Espanol   Korean   Chinese   Certified Pre-Owned   Register   Login
+English
+
+*   Espanol
+*   Korean
+
+  Owners
 
 *   Your postal code: Locate Dealer Close
     
@@ -171,88 +176,68 @@ Espanol   Korean   Chinese   Certified Pre-Owned   Register   Login
         
     
     *   FUTURE CARS
-*   **RESEARCH TOOLS**
+*   **SHOPPING TOOLS**
     *   BUILD &. PRICE
-    *   COMPARE
-    *   AWARDS &. REVIEWS
-    *   E-BROCHURES
-    *   WHY HYUNDAI
-    *   TEST DRIVE
-*   **FINANCIAL TOOLS**
-    *   CALCULATE &. COMPARE
-    *   LEASING VS. BUYING
-    *   DEALER QUOTE
+    *   SEARCH INVENTORY
     *   SPECIAL OFFERS
-    *   TRADE-IN APPRAISAL
-    *   HYUNDAI MOTOR FINANCE
-*   **NEW THINKING**
+    *   COMPARE VEHICLES
+    *   PAYMENT CALCULATOR
+    *   TRADE-IN ESTIMATE
+    *   E-BROCHURE
+*   **WHY HYUNDAI**
     *   OVERVIEW
     *   QUALITY
-    *   TECHNOLOGY &. INNOVATION
+    *   TECHNOLOGY
     *   DESIGN
     *   SAFETY
     *   BUILT IN USA
     *   ENVIRONMENT
     *   SOCIAL RESPONSIBILITY
+    *   BLUE LINK
 *   **ASSURANCE**
     *   TRADE-IN VALUE GUARANTEE
     *   AMERICA'S BEST WARRANTY
     *   24/7 ROADSIDE ASSISTANCE
-*   **BLUE LINK**
-    *   OVERVIEW
-    *   FEATURES
-    *   BLUE LINK ACCESS
-    *   GET BLUE LINK
-    *   FAQ &. HOW-TO
-    *   OWNER SUPPORT
-*   **MYHYUNDAI**
 *   *   FIND A DEALER
-    *   BUILD &. PRICE
 
 Register
 
-\><. >>. Shopping Tools build &. price special offers compare vehicles trade-in estimates find a dealer go EXPLORE NEW THINKING Introducing the 40MPG HWY Sonata Hybrid Introducing the 40MPG HWY Sonata Hybrid A better warranty for a better battery. The New 348-HP Genesis Coupe. The New 348-HP Genesis Coupe. Part Sports Car, Part Luxury, All Fun. "Most Dependable Midsize Premium Car" "Most Dependable Midsize Premium Car" J.D. Power and Associates Hyundai owners are #1 in loyalty. Hyundai owners are #1 in loyalty. Now, get your college loyalty on TV. Don't worry. Drive happy. Don't worry. Drive happy. With Hyundai Assurance, we're got your back. Compacts Sedans Hybrid Crossovers Premium / Performance
+\><. >>. Shopping Tools build &. price Search Inventory trade-in estimates e-brochures Local offers go
 
-*   2013 Accent 2013 Accent $14,545 starting MSRP "King of the Five-Door Subcompacts" Motor Trend  
-    explore build &. price 2013 Elantra 2013 Elantra $16,695 starting MSRP "2012 North American Car of the Year"  
-    explore build &. price 2013 Elantra Coupe 2013 Elantra Coupe $17,445 starting MSRP "The best aspects of the Hyundai Elantra, minus a couple of doors." Cars.com  
-    explore build &. price 2013 Elantra GT 2013 Elantra GT $18,395 starting MSRP "... a practical five-door hatch version of  
-    award-winning Elantra sedan" MotorAuthority.com  
-    explore build &. price 2013 Veloster 2013 Veloster $17,450 starting MSRP "2012 International Sporty Coupe of the Year" The International Car of the Year Awards (ICOTY)  
-    explore build &. price
-*   2013 Sonata 2013 Sonata $20,895 starting MSRP Hyundai Values Outperform Segment. Sonata Recently  
-    Breaks into Top 10 Most-Researched New Vehicles List Kelley Blue Book  
-    explore build &. price 2013 Azera 2013 Azera $32,250 starting MSRP "The Azera's striking new sheetmetal and interior should be  
-    enough to lure customers into the showroom." Car and Driver  
-    explore build &. price
-*   2012 Sonata Hybrid 2012 Sonata Hybrid $25,850 starting MSRP THE 2012 SONATA HYBRID WAS NAMED A  
-    "2012 IIHS TOP SAFETY PICK" IIHS, 2012  
-    explore build &. price
-*   2013 Tucson 2013 Tucson $19,245 starting MSRP "TOP 10 CARS WITH BEST RESALE VALUE" Kelley Blue Book's kbb.com  
-    explore build &. price 2013 Santa Fe 2013 Santa Fe $24,450 starting MSRP Fuel-efficient, superbly designed and safe, the Santa Fe is set to impress.  
-    explore build &. price 2012 Veracruz 2012 Veracruz $28,345 starting MSRP "Its full assortment of standard and optional luxury features,  
-    fine attention to detail, high quality materials and rich,  
-    upscale styling will finally turn nonbelievers into advocates." Automobile.com  
-    explore build &. price
-*   2013 Genesis Coupe 2013 Genesis Coupe $24,250 starting MSRP "...the 2013 Hyundai Genesis Coupe looks to  
-    be a better performance bargain than ever." MotorAuthority.com  
-    explore build &. price 2013 Genesis 2013 Genesis $34,200 starting MSRP "Most Dependable Midsize Premium Car" J.D. Power and Associates, 2012  
-    explore build &. price 2013 Equus 2013 Equus $59,250 starting MSRP The 2012 Equus was named a  
-    "2012 IIHS Top Safety Pick" IIHS, 2012  
-    explore build &. price
+*   Compacts
+*   Sedans/Hybrid
+*   Crossovers
+*   Premium / Performance
+
+*   accent
+*   elantra
+*   elantra coupe
+*   elantra gt
+*   veloster
+*   sonata
+*   azera
+*   sonata hybrid
+*   tucson
+*   santa fe
+*   veracruz
+*   genesis coupe
+*   genesis
+*   equus
 
 *   SHOPPING
     *   Build &. Price
-    *   Compare
+    *   Search Inventory
+    *   Compare Vehicles
     *   Find a Dealer
     *   Request a Quote
-    *   Schedule a Test-Drive
-    *   Certified Pre-Owned
     *   Payment Calculator
     *   Trade-In Estimate
     *   Special Offers
     *   Download a Brochure
-*   NEW THINKING
+    *   Shop Merchandise
+    *   Schedule a Test-Drive
+    *   Certified Pre-Owned
+*   WHY HYUNDAI
     *   Quality
     *   Technology &. Innovation
     *   Design
@@ -260,23 +245,25 @@ Register
     *   Built in U.S.A
     *   Environment
     *   Social Responsibility
-*   WHY HYUNDAI
+*   ASSURANCE
     *   Hyundai Assurance
     *   Trade-In Value Guarantee
     *   America's Best Warranty
     *   24/7 Roadside Assistance
-    *   Blue Link®
-    *   Awards &. Reviews
+*   Blue link®
+    *   Overview
+    *   Features
+    *   Blue Link Acess
+    *   Get Blue link
+    *   FAQ
+    *   How-To
 *   CARING FOR YOUR CAR
     *   My Hyundai
-    *   Maintenance Schedule
-    *   Bluetooth Support
-*   LET US HELP
-    *   Contact Us
-    *   FAQ/Help
-    *   Blue Link FAQ
-    *   Shop Merchandise
+    *   Owner's Manuals
+    *   Maintenance Schedules
+    *   Bluetooth Compatibility
 *   ABOUT HYUNDAI
+    *   Award &. reviews
     *   Our Company
     *   News
     *   Events
@@ -284,6 +271,8 @@ Register
     *   Doing Business
     *   Diversity
     *   Tour Our Alabama Plant
+    *   Contact Us
+    *   FAQ/HELP
 
 *   Find us on Facebook
 *   Follow us on Twitter
