@@ -134,26 +134,31 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Save Big from Eco-Pure. $99 Carpet, Hardwood, Tile or Furniture Cleaning! Up to $250 Value! $99 Value: Discount: You Save: $200 51% $101
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Save Big from Eco-Pure. $99 Carpet, Hardwood, Tile &/or Furniture Cleaning! A $200+ value! $99 Value: Discount: You Save: $200 51% $101
 
-Thursday: Wal Mart, Sunfresh Deals Wal Mart
+Friday: Five things to do
 
-*   Carmex Lip Balm - $0.98
-*   El Monterey Individually Wrapped Burrito
-*   Reynolds Slow Cooker Liners - $1.87
-*   more...
+*   Wreck-It-Ralph Game Jumping Adventure
+*   Barn Bash
+*   Halloween Fun Fest
+*   Halloween Storytime – The Monster’s Monster
+*   Creepy Keeper Build
 
 1.  CAMPAIGN JOBS
     
     Grassroots Campaigns, Inc.
     
-2.  Press &. Lamination Operators
-    
-3.  Apartment Maintenance Tech Part Time
+2.  Apartment Maintenance Tech Part Time
     
     Georgetown Apartments
     
-4.  Apartment Maintenance Helper
+3.  SEASONAL DRIVERS
+    
+    Kelly Services
+    
+4.  Parts Project Coordinator
+    
+    Central Power Systems &. Services, Inc.
     
 5.  SEASONAL DRIVERS
     
@@ -167,16 +172,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Sam Mellinger | Royals pickup of Santana is an OK start, but just OK
-*   Man killed in KC’s old Northeast
+*   Turnovers turn fourth quarter into a Chiefs disaster
+*   Sam Mellinger | Hold your nose when these Chiefs play
+*   Chiefs not just bad, but historically bad
+*   Chiefs buzz | Coaches on the hot seat
 *   Judge orders newspaper to reveal name of commenter
-*   Kansas woman sentenced to 15 years for producing child porn
-*   Royals acquire pitcher Ervin Santana from Angels
-*   K-State tries to fend off unscheduled opponent: the BCS
-*   Madonna gives Kansas City an everlasting hello
-*   All defendants guilty in Hereford House arson
-*   Missing Leawood man found safe
-*   Recap: Portland vs. LA Lakers
+*   Cassel has another rough outing
+*   Fourth quarter dooms Chiefs in 31-13 loss at San Diego
+*   Missouri bank president pulls gun, nabs masked robber
+*   Chiefs blitz | The good, bad and ugly from the Chargers game
+*   After being knocked out of game, Charles says he’s fine
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
