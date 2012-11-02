@@ -295,10 +295,10 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Strollers &. Accessories
     *   Diaper Bags
     *   Carriers &. Car Seats
+    *   Bouncy Seats
+    *   Play Mats
+    *   Gear for Mom
     *   Blankets
-    *   Bedding
-    *   Nursing &. Feeding
-    *   Toys, Plush &. Books
     
     *   Shoes
     *   Girls' Shoes
@@ -367,7 +367,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   UGG® Australia
 *   Sale
     *   Sale Departments
-    *   Women's Sale
+    *   All Women's Sale
     *   Clothing
     *   Shoes
     *   Handbags &. Accessories
