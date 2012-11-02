@@ -3,19 +3,15 @@ TRY: Gardening | Jewelry | Designer Inspiration | Chefs Privacy Policy Email Pri
 
 Most Viewed
 
-1.  More Than Just Stuff: Surprising Stories Behind Your Decor
-2.  Pat Areias
-3.  Dennis Dean
-4.  Charles Edwards
-5.  Artesano
+1.  Veranda's Top Holiday Desserts
+2.  Ruthie Sommers's Advice on Decorating and Being an Interior Designer
+3.  More Than Just Stuff: Surprising Stories Behind Your Decor
+4.  Pat Areias
+5.  Dennis Dean
 
 Most Searched
 
-1.  holiday rooms
-2.  jewelry
-3.  christmas
-4.  designer inspiration
-5.  bathroom
+1.  Sorry, there are no search terms at this time
 
 Magazine | RSS
 
