@@ -618,10 +618,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos Students learn what to throw in the trash Students get their hands dirty
+Videos Chemistry professor uses pizzazz to sell science Entertaining and educational
 
-*   Students learn what to throw ... Celebrating Adolfo Camarillo On Campus: Camarillo Ready for ... On Campus: Moorpark Marches On
-*   Organizer wants 12 million Latino ... Ventura fourth-graders pumped up with ...
+*   Chemistry professor uses pizzazz to ... On Campus: Rivalry Renewed Students learn what to throw ... Celebrating Adolfo Camarillo
+*   On Campus: Camarillo Ready for ... On Campus: Moorpark Marches On
 
   
 
@@ -634,23 +634,23 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Poll shows outcomes highly uncertain for many ballot measures Updated 10/30/2012 at 1:41 p.m. 96 comments
-*   County pay error puts two managers in costly bind Updated 10/30/2012 at 6:28 p.m. 28 comments
-*   Police seek public's help after Camarillo dog is set on fire, dies Updated 10/31/2012 at 9:02 a.m.
-*   Ventura County voter registration reaches record level Updated 10/31/2012 at 8:40 p.m. 22 comments
-*   Tale of two money trails in Oxnard mayoral race Updated 10/30/2012 at 6:40 p.m. 24 comments
+*   Newbury Park man charged for flashing anti-Romney sign Updated 10/31/2012 at 5:00 p.m. 45 comments
+*   Ventura County voter registration reaches record level Updated 10/31/2012 at 8:40 p.m. 46 comments
+*   Port Hueneme rescinds concealed-weapons permit process Updated 10/31/2012 at 8:37 p.m. 33 comments
+*   Police call Camarillo dog set on fire 'horrible, horrible crime' Updated 10/31/2012 at 4:40 p.m.
+*   Hearing ends for teacher who starred in porn films Updated 11/1/2012 at 6:43 p.m.
 
-Photo Galleries Ventura County's Most Wanted October… Hurricane Sandy | Tuesday Ex-CLU student wins $5.3 million
+Photo Galleries Ventura County's Most Wanted November… Yoon leads Camarillo past Oaks… Hurricane Sandy | Tuesday
 
-*   Editorial: For president: Barack Obama Published 10/28/2012 at 12:02 a.m. 237 comments
 *   Morning chat Published 10/31/2012 at 12:00 a.m. 100 comments
-*   Poll shows outcomes highly uncertain for many ballot measures Published 10/30/2012 at 1:23 p.m. 96 comments
-*   Robinson: Sandy delivers a policy lesson Published 10/29/2012 at 4:25 p.m. 62 comments
-*   Morning chat Published 10/30/2012 at 12:00 a.m. 39 comments
+*   Poll shows outcomes highly uncertain for many ballot measures Published 10/30/2012 at 1:23 p.m. 97 comments
+*   Robinson: Sandy delivers a policy lesson Published 10/29/2012 at 4:25 p.m. 64 comments
+*   Ventura County voter registration reaches record level Published 10/31/2012 at 2:05 p.m. 46 comments
+*   Newbury Park man charged for flashing anti-Romney sign Published 10/31/2012 at 4:40 p.m. 45 comments
 
 *   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 25 comments
-*   Longtime Conejo Valley educator Carol Philips dies, 64 Published 10/22/2012 at 9:56 a.m. 0 comments
 *   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 102 comments
+*   Amgen closes deal with financial firm to open new biotech company Published 10/25/2012 at 5:37 p.m. 0 comments
 *   Shark falls from sky onto Calif. golf course Published 10/25/2012 at 3:36 p.m. 0 comments
 *   Local relatives, friends mourn 2 children stabbed to death in nanny case Published 10/26/2012 at 8:25 p.m. 0 comments
 
@@ -660,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 57° Fog/Mist Wind: E 6mph Today 65° 52° Thu 05:00 PM Mostly Cloudy Temp: 63° Fri 05:00 AM Fog Temp: 54° Fri 05:00 PM Partly Sunny Temp: 62°
-
-Feels Like: 63°
-
-Humidity: 86%
-
-Precip: 13%
-
-Feels Like: 54°
-
-Humidity: 100%
-
-Precip: 6%
+Currently 54° Fair Wind: NE 6mph Today 64° 53° Fri 05:00 PM Partly Sunny Temp: 62° Sat 05:00 AM Partly Cloudy Temp: 53° Sat 05:00 PM Mostly Sunny Temp: 69°
 
 Feels Like: 62°
 
 Humidity: 80%
 
-Precip: 5%
+Precip: 4%
+
+Feels Like: 53°
+
+Humidity: 100%
+
+Precip: 1%
+
+Feels Like: 69°
+
+Humidity: 55%
+
+Precip: 0%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -702,15 +702,15 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   Who is Nicole Parra?
 *   Strickland mailer shows he's going after every vote
 *   The 'UC effect' in online registration, and its significance here
 *   No surprise in battleground districts. it looks very close
-*   Whopper of a super PAC attack on Brownley
 
 Brian Dennert here
 
+*   Simi Valley School Board: I support Dan White
 *   Dr. Lee Rogers proposes ethics reforms
-*   Twitter Townhall w/ Julia Brownley
 
 Ingemusings
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Thursday Nov 1
 *   Friday Nov 2
 *   Saturday Nov 3
+*   Sunday Nov 4
 *   More BROWSE Icon
-
-*   Reliable Fundraising in Unreliable Times Ventura County Office of Education - Conference and Educational Services Center 9 a.m.
-*   FRESH &. EASY SHOPPING NIGHTS RAISE FUNDS FOR Mountain View Elementary School Fresh &. Easy Neighborhood Market, 4473 Alamo Street, Simi Valley, CA 4 p.m.
-*   TASTE Pierpont Inn 5:30 p.m.
-*   First-Time Home Buyers Workshop Camarillo Public Library 6 p.m.
-*   Buddhist Solutions for Teens and Parents Mahakankala Buddhist Center 6:30 p.m.
-
-More Events »
 
 *   Workshop on Access to Capital Oxnard Chamber of Commerce 8:30 a.m.
 *   "ArtistsThree" at Doyon Studio &. Gallery Doyon Studio and Gallery 9 a.m.
@@ -753,23 +745,35 @@ More Events »
 
 More Events »
 
+*   Love Her Lungs - Chairty Workout for Patti Dunn True North Fitness &. Health 9 a.m.
+*   Snowfest Arts and Crafts Fair Rancho Madera Community Park 10 a.m.
+*   On The Shoulders of the Best, We Withstand the Test – Remembering the Legacy of our Ancestors California African American Museum 11 a.m.
+*   "Talbot, Crowe &. Ford" Camarillo Art Center 1 p.m.
+*   Artists Three Reception Doyon Studio and Gallery 2 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Election Central
-    
-    Get prepared for November with candidate profiles and answers to your questions.
-    
-    Live Friday night
+*   Live Friday night
     
     VCS Preps game of the week: Camarillo vs. Rio Mesa
+    
+    95 percent accurate
+    
+    Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
     Measurement of Character
     
     Survey determines what voters look for. Take it yourself!
     
-*   On Campus
+*   Election Central
+    
+    Get prepared for November with candidate profiles and answers to your questions.
+    
+    On Campus
     
     Video profiles of high school football programs.
     
@@ -777,21 +781,17 @@ More Events » Features
     
     Follow Loren Ledin's picks and choose your own leaderboard.
     
-    Storm Shield
+*   Storm Shield
     
     A sophisticated weather radio on your iPhone and Android.
     
-*   Pigskin Picks
+    Pigskin Picks
     
     Play our pro football picks contest for a shot at $500 and other prizes.
     
     #Ojai: How You See It
     
     Your photos, your tweets, your Facebook posts about Ojai.
-    
-    95 percent accurate
-    
-    Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
 
 On this site:
