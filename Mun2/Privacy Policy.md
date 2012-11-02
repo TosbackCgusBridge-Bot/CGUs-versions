@@ -23,23 +23,23 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: November 01 12:00 AM · LARRYMANIA coming up next:
+schedule right now: November 01 coming up next:
 
+*   12:00 AM · OPERACION REPO
+*   12:30 AM · DUB LATINO
 *   1:00 AM · DECISIONES
-*   2:00 AM · L'CREME
+*   2:00 AM · DELICIOUS
 *   3:00 AM · MORNING BREATH
 *   4:00 AM · MORNING BREATH
 *   5:00 AM · MORNING BREATH
 *   6:00 AM · SMB
-*   8:00 AM · MORNING BREATH
-*   9:30 AM · OPERACION REPO
-*   10:00 AM · CINE CLASICO Y COOL: EL CAMINO DE LOS ESPANTOS
-*   12:00 PM · L'CREME
-*   1:00 PM · REVENTON
-*   2:00 PM · L'CREME
-*   3:00 PM · L'CREME
-*   4:00 PM · mun2 CINCO
-*   4:30 PM · L'CREME
+*   8:00 AM · REVENTON
+*   9:00 AM · MORNING BREATH
+*   10:00 AM · L'CREME
+*   11:00 AM · L'CREME
+*   12:00 PM · DELICIOUS
+*   1:00 PM · mun2 CINCO
+*   1:30 PM · mun2 PRESENTS: ALEJANDRO SANZ
 
 see full schedule >>.
 
