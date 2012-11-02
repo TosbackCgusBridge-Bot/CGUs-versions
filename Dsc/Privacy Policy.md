@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Texas Car WarsA Presidential Flip 8:00PM Texas Car WarsThe El Camino King 9:00PM Texas Car WarsColby Takes Over TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Gold Rush: Off-Season Special  8:00PM Gold Rush: Pay Dirt (season 3)Million Dollar Season 9:00PM Gold Rush (Season 3)The Wrong Claim TV SHOWS
 
 American Chopper
 
@@ -334,21 +334,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-Can One Drive-Through Breakfast Be That Bad?
+Lucas Giving Disney's Billions to Fund Education: DNews Nugget
 
-Jack-O-Lantern Tetris a Halloween Treat
+China Celebrates Birth of 8 Giant Panda Cubs
 
-Sandy Kills W.Va. Candidate: DNews Nuggets
+China Celebrates Birth of 8 Giant Panda Cubs
 
-Mermaid Syndrome is Real: Gotta-See Video
+'Island of Blue Dolphins' Cave Possibly Found
 
-The REAL Zombie Apocalypse: Gotta-See Video
+How Does Apple's Non-Apology Rank?
 
-Breastfeeding Marijuana Mom Busted: DNews Nugget
+Curiosity Finds Some Aloha Spirit in Mars Soil
 
-NY Marathon Still On: DNews Nugget
+Human Drivers Still Beat Robot Car in Racing
 
-Excellent Idea of the Day: Fun Halloween Apps
+First All-Carbon Solar Cell: DNews Nugget
 
   facebook share0 Tweet Privacy Policy  
 
@@ -554,33 +554,38 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Nov 01,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Nov 02,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Nov 01,  
+Nov 02,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Nov 01,  
+Nov 02,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Nov 01,  
+Nov 02,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Nov 01,  
+Nov 02,  
 9:00 am  
 60 min(s)  
 **I (Almost) Got Away With It**  
-_Got a Pen Pal_  
- Brenda Wynn is out of prison, and wants a new life. But when a co  
-**More Listings »**   Shop Discovery Store      
+_Got To Impersonate A Guard_  
+ Dennis Hope, a handsome and intelligent thief, pulls off a series  
+**More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
+$47.95  
+  **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
+$12.95   **Discovering Ardi DVD**  
+$19.95   **Discovery Channel Polymer Chemistry Set**  
+$16.99        
 
 our sites
 
