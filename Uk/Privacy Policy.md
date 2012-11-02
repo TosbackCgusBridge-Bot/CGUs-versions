@@ -1,14 +1,23 @@
 Skip to search.
 
-*   _New User?   Register_
+*   _New User?_ Register
 *   _Sign In_
 *   Help
 
+Make Y! My Homepage  
+
+Yahoo!
+
+Close this window To make Yahoo! your homepage, Drag the Yahoo! logo to the 'Home' icon on your Firefox Toolbar
+
+*     Notifications Help
+    
 *   Mail
+    
 *   My Y!
 *   Yahoo!
 
-Yahoo! Search Search Web
+Yahoo! Privacy Search Search Web Breaking News Visit Yahoo! News for the latest. ×Close this window
 
 *   Home
 *   Products
