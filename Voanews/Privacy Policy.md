@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Obama Promises Storm Victims Support
-*   New York, New Jersey Begin Recovery After 'Sandy'
+*   New Yorkers Take Transit Woes in Stride
+*   Syrian Opposition Says Rebels Kill 28 Soldiers
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
