@@ -71,11 +71,11 @@ Sign In Sign Out New User Sign Up Profile Management
 
 What's Hot
 
-_Glee_ Does "Gangnam Style"
+Celeb Halloween Costumes
 
-Mega Buzz
+_Castle_ Peek: Beckett the Geek!
 
-Disney Plans More _Star Wars_
+_Hairspray_ Star's Weight Loss
 
 Save These Shows!
 
@@ -129,19 +129,19 @@ more popular tv shows Most Popular Celebrities
 
 more popular celebrities Most Popular Movies
 
-1.  Paranormal Activity 4
-2.  Argo
-3.  Hotel Transylvania
-4.  Taken 2
-5.  Alex Cross
+1.  Argo
+2.  Paranormal Activity 4
+3.  Sinister
+4.  Silent Hill: Revelation
+5.  Hotel Transylvania
 
 more popular movies Top Videos
 
-1.  The Vampire Diaries
-2.  Arrow
+1.  Arrow
+2.  The Vampire Diaries
 3.  The Vampire Diaries
-4.  The Vampire Diaries
-5.  Supernatural
+4.  Supernatural
+5.  Hart of Dixie
 
 more top videos
 
