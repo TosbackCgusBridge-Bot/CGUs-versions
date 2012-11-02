@@ -545,7 +545,7 @@ More help...
   
 E-mail us at: custserv@sportsmansguide.com  
 Your e-mail address is 100% safe and secure...we will never sell, trade or share it with anyone.  
-Call us at: 1-888-844-0667 (Monday-Friday 7am-7pm CST) Customer Service
+Call us at: 1-888-844-0667 (Monday-Friday 7am-7pm CST, Saturday 8am-4:30pm CST) Customer Service
 
 *   Customer Service
 *   Contact Us
