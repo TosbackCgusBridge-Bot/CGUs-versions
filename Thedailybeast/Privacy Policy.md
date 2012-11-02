@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  How Obama Seals the Deal
-2.  Romney's Radicalism
-3.  The Real Reason Mitt Is Comic Gold
-4.  Romney Stranded by Sandy
-5.  Mormonism's Defiant Daughter
+1.  New Details on Benghazi
+2.  Why Romney’s the Wrong Man
+3.  Obama’s Medium Mo’ in Ohio
+4.  Mitt’s Weird Late Buying Spree
+5.  New York’s Marathon Backlash
 
   Other News Entertainment
 
-*   Country Music's Favorite Couple: Keith and Nicole
-*   Secret Celebrity Weddings
-*   Evan Rachel Wood and Jamie Bell get hitched!
+*   2012 CMA Awards
+*   Selena Gomez: I would have two children by now If I lived in Texas
+*   Gossip Quickies: Did Amanda take a naked stroll?
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘Supernatural’ recap: Vampirates!
-*   ’30 Rock’: The best lines from ‘There’s No I In America’
+*   ‘Big Bang Theory’ react: Stephen Hawking and Sheldon play Words With Friends
+*   ‘The X Factor’: Four Top 16 eliminations are…
 *   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
 *   **Get More from EW.com**
 
 Entertainment
 
-*   "This Is The Price You Pay If You Want To Live By The Water"
-*   Todd Akin Feels The Republican Love
-*   Sandy Forces Media And Politicians To Talk About Climate Change
+*   The Campaign Is Over, But The Election Isn't
+*   Hungry New York Families Dig Food Out Of Dumpsters After Sandy
+*   Edward Norton's Homespun Campaign Documentary Debuts Tonight
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Tweet of the Day
-*   Rove Predicts Romney Win
 *   Latest Swing State Polls
+*   Negative Ads Gave Obama His Advantage
+*   Mourdock Craters in Indiana
 *   **Get More from Political Wire**
 
 The Daily Beast
