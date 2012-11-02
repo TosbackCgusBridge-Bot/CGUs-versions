@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Women of the Year »
+Hot Pics! CMA Cutie »
 
-Top Stories1.  Wow! Jessica Shows Off Slim Sexy Bod in Halloween Pic With Fiance, Baby »
-2.  FIRST PICTURE: Adele Steps Out One Week After Giving Birth »
-3.  LOL! Ellen DeGeneres Dresses as Sofia Vergara for Halloween! »
-4.  PICTURE: See Heidi Klum Without Makeup »
-5.  Kate Moss on Johnny Depp Split: "Oh, the Tears!" »
+Top Stories1.  Topless Lady Gaga Flaunts Weight Loss in "Cannabis Queen" Costume »
+2.  Khloe Kardashian: Yes, There Was "Nip Action" on X Factor »
+3.  Best Celebrity Halloween Costumes of 2012 »
+4.  PIC: Sandra Bullock, Louis Dress as Toy Story's Jessie, Buzz Lightyear »
+5.  Wow! Jessica Shows Off Slim Sexy Bod in Halloween Pic With Fiance, Baby »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Defending Our Men
 
 Inside Us Weekly
 
-*   Style The Possessionista Picks Fall TV's Five Best
-*   Beauty PICTURE: See Heidi Klum Without Makeup
-*   Moms FIRST PICTURE: Adele Steps Out One Week After
-*   Body Wow! Jessica Shows Off Slim Sexy Bod in Hallo  
-*   Entertainment Simon Cowell: Khloe Kardashian "Wants to Prov  
+*   Style 2012 CMA Awards: What the Stars Wore!
+*   Beauty Jenna Dewan-Tatum: What's in My Bag?
+*   Moms PICTURE: Jake Owen's Wife Lacey Buchanan Flau
+*   Body Topless Lady Gaga Flaunts Weight Loss in "Can  
+*   Entertainment Ashlee Simpson Reveals Lingerie, Curses in "B
 
 *   US WEEKLY
 *   Celebrity News
