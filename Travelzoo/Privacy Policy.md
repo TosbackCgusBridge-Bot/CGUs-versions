@@ -30,7 +30,7 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Seen on TV
     
     *   Featured Destinations
-    *   Fall Deals
+    *   Thanksgiving
     
     *   Deal Locator
     
