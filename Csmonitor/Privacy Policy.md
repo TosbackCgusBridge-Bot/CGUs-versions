@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  'Star Wars: Episode 7' to hit theaters in 2015 (+video)
-2.  'Star Wars: Episode 7': How Disney could avoid ruining 'Star Wars'
-3.  Two reasons the Obama-Christie photo op in N.J. is worth its weight
-4.  No prank: On Halloween, US military forces train for zombie apocalypse
-5.  'Star Wars: Episode 7' - Were we wrong about George Lucas all along? (+video)
+1.  Saudi Arabia: Explosion topples building, burns cars (+video)
+2.  After Sandy, residents 'feeling anxious' about fuel supplies (+video)
+3.  Are we all 'Bronco Bamma' girl, so tired of election we could cry? (+video)
+4.  Mob burns girls' school in Pakistani city over alleged blasphemy
+5.  Many questions, few answers about loss of HMS Bounty to hurricane Sandy
 
 About these ads
 
@@ -111,17 +111,17 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Focus  
-    Crunch time in Ohio, as Obama, Romney blitz to get out the vote
+*   Difference Maker  
+    Little newspaper gives hope to Africans who've fled to Israel
     
-    Both campaigns are swarming Ohio, knocking on doors and making phone calls to potential voters. In these last crucial days, getting out the vote in what may be the deciding state of Election 2012 is paramount.
+    Using his laptop, Kebedom Mengistu publishes Hadush Zemen (New Century), a newspaper for refugees from Eritrea who've survived the perilous trip and settled in Israel.
     
-*   Sheriff Joe Arpaio: Have run-ins with Washington cost him votes at home?
-*   Vladimir Putin to get a new, Russian-made ride
-*   Decoder Wire: Will presidential election loser blame hurricane Sandy?
-*   Is Venice being loved to death?
+*   How Maryland's gay marriage vote could echo beyond blue states
+*   Decoder Wire: Are we all 'Bronco Bamma' girl, so tired of election we could cry? (+video)
+*   Backchannels: Report: $800 million is snuck out of Iraq each week
+*   Many questions, few answers about loss of HMS Bounty to hurricane Sandy
 
-_Photos of the day_ 10.31.12 » Photos of the day 10/31
+_Photos of the day_ 11.01.12 » Photos of the day 11/01
 
 **CSMonitor.com** on Facebook
 
@@ -143,10 +143,9 @@ John Bergmann manages Popcorn Park, a special zoo in New Jersey that gives a hom
 
 Become part of the Monitor community
 
+*   USA Are we all 'Bronco Bamma' girl, so tired of election we could cry? (+video)
 *   The Culture 'Star Wars: Episode 7' - Were we wrong about George Lucas all along? (+video)
-*   Innovation Happy Halloween! Wait, Americans spend how much on candy?!
 *   USA Could the 49ers pick up where San Francisco’s Giants left off? A Week 8 NFL quiz
-*   Innovation Happy Halloween: Five free ghoulish iPhone games to play on the go
 *   Business How to become an NFL referee? Start early.
 *   Making a Difference John Bergmann runs a special zoo for older, exploited, and abused animals
 *   Innovation Meet Apple's thinner, faster, stronger iMac
