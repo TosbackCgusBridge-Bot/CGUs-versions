@@ -1,11 +1,15 @@
-You must have JavaScript enabled to view this site. Please check your browser settings. Welcome Username
+You must have JavaScript enabled to view this site. Please check your browser settings. Hi Username
 
 *   My Account
 *   Wish List
 *   Find a Store
-*   Events Calendar
+*   Email Updates Sign Up for Email Updates
+    
+    Get the latest news on athletes, expeditions, gear, and offers!
+    
+    Close ×
 
-Checkout Shopping Cart ({0}) Country: United States
+Checkout Shopping Cart ({0}) United States
 
 *   United States
     *   English
@@ -350,6 +354,7 @@ COLLECTIONS
 About Us*   Our Story
 *   Technology
 *   Sustainability
+*   Chemical Responsibility
 *   Careers
 *   Company News
 *   Partners
@@ -443,6 +448,7 @@ SHOP BY BENEFIT
 *   Insulated
 *   bluesign®
 *   Recycled Content
+*   Zip/Snap-in Compatible
 *   All Benefits
 
 SHOP BY TECHNOLOGY
@@ -474,9 +480,9 @@ SHOP BY COLLECTION
 *   Footwear
 *   All Collections
 
-Women'sPink Ribbon Aconcagua Vest
+Men'sPlasma Thermal Jacket
 
-Wear the ribbon. Support the cause. Limited edition 550-fill down vest part of our partnership with B4BC.
+Rain doesn't have to stop you in your tracks. Seek shelter from storm in this premier waterproof, insulated Summit Series® jacket.
 
 Shop Now Shop by Women's
 
@@ -625,9 +631,9 @@ Collections*   Mountain Heritage
 *   Steep Tech™
 *   All Collections
 
-Men'sPlasma Thermal Jacket
+Men'sPowder Guide ABS Vest
 
-Rain doesn't have to stop you in your tracks. Seek shelter from storm in this premier waterproof, insulated Summit Series® jacket.
+Invest in your future. ABS system in vest increases your safety margin in the backcountry, deploying two airbags when activated to keep you on the surface during an avalanche.
 
 Shop Now Shop by Kids'
 
@@ -731,8 +737,8 @@ Collections*   Summit Series®
 *   Flight Series®
 *   All Collections
 
-Equipment Prophet 40 Pack
+Equipment Patrol 24 ABS Pack
 
-Light, sleek and uncompromising – perfect for an epic day on the mountain. New Summit Series® technical pack available in two volumes.
+The ultimate ski/board pack with built-in ABS Avalanche Airbag System to significantly increase your safety margin in the backcountry.
 
 Shop Now
