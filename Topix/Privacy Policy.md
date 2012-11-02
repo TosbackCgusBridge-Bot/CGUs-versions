@@ -8,19 +8,15 @@ Sign Up
 
 Sign In
 
-1 2 3
-
-China
-
-China Fund Buys Stake in Heathrow
+1 2 3 Hurricane Relief: How You Can Help
 
 Mitt Romney
 
-As Obama gets back to campaigning following storm hiatus, race...
+Pre-Marketing: Romney's early Staples worries
 
 Politix
 
-Which presidential candidate is better for business?
+QUIZ: Do You Know Your 2012 Election Memes?
 
 *   Home
 *   Forums
@@ -190,7 +186,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
-  Ads by Glam
+ 
 
 San Antonio, TX
 
@@ -279,7 +275,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 105,333 • Total comments across all topics: 189,769,595
+Comments made yesterday: 110,397 • Total comments across all topics: 189,869,006
 
 Copyright ©2012 Topix LLC
 
