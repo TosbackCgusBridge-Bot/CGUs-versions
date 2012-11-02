@@ -14,9 +14,8 @@ Skip to content
     *   Loading...
 *   Sell
 *   Gift Center
-*   T-Shirts
 
-**Search** Limited Time - 50% Off ALL Cards! Save Today On That Perfect Holiday Card!   Use Code: CHEERSAVINGS   (details) Check out Zazzle Instant, our new app for making fun products! Ok Zazzle Privacy Policy Policies
+**Search** Limited Time! 50% Off ALL Cards! Save Today On That Perfect Holiday Card!   Use Code: CHEERSAVINGS   (details) Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
