@@ -1,10 +1,10 @@
 *   Best Of Citysearch
-*   Guides
 *   Restaurants
 *   Bars &. Clubs
 *   Spa &. Beauty
 *   Hotels
 *   Shopping
+*   Guides
 
 *   Mobile
 *   Login
