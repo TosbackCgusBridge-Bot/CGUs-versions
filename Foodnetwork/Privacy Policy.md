@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Nigella Kitchen UP NEXT › Fresh Food Fast...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Fresh Food Fast... UP NEXT › The Best Thing ...
 
 *   Channel  
     Guide
@@ -274,20 +274,7 @@ Newsletter
 
 Delicious new recipe ideas delivered weekly to your inbox.
 
-Your email address:
-
-*   Exciting times! RT @trishafantastic: @FoodNetwork\_UK Yay, can't wait to see what the Food Network has in store! #InaGarten Marathon please!
-*   @gordon\_rhodes tell us about it! Phew!
-*   I can't believe we're in November already! One step closer to Christmas...
-*   YAY! Glad to have put a smile on both your faces! RT @vwheatos: @sdawett @FoodNetwork\_UK I had this revelation the other day! #winning!
-*   Last chance for you to enter to win one of 100 Wild Cooking, recipe books from Alaska Seafood. Don't miss out! t.co/tHbZSWHD
-*   20 blood-curdling cocktails to send shivers down your spine t.co/QnEB01ca #halloween
-*   Last chance to enter our competition to win 1 of 100 @AlaskaSeafoodUK cookbooks t.co/lJdTQNEP
-*   @fancynancycakes yes please. No, not sure anyone could make it in the end. Am gutted to have missed it. How's it all going? :)
-*   @fancynancycakes I can't wait! Catch up soon please?
-*   @fancynancycakes aw shucks! You're too kind. But I do now have a massive grin on my face!
-
-Follow Us
+Your email address: Follow Us
 
 *   Top collections
 *   Beef recipes
