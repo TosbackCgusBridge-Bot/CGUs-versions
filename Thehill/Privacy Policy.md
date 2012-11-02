@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Opinion: Here comes the landslideObama, Romney set to re-emerge, return to campaign trail after Hurricane SandyReturning to the fundamentals GoDaddy suspends GOP ad firm's websites for anti-Obama textsChristie shines, Obama leads, Brownie attacks, Romney waffles
+Opinion: Here comes the landslideGOP pollster: Romney up in Ohio, closing the gap in WisconsinObama inches ahead of Romney in RealClearPolitics average of pollsPoll: Romney, Obama running roughly even in ground gameTrump: Obama's rejection proves he's foreign-born
 
 Emailed
 
-Opinion: Here comes the landslideHillary women will save ObamaThe Hill's 2012 Top LobbyistsObama, Romney set to re-emerge, return to campaign trail after Hurricane SandyReturning to the fundamentals
+Opinion: Here comes the landslideTax bill set to rise for 30 million households unless Congress actsBloomberg endorses Obama, George Will trash-talks Obama, Joe Biden blasts Big Lie Romney ad in OhioThe Hill's 2012 Top LobbyistsGOP pollster: Romney up in Ohio, closing the gap in Wisconsin
 
 Discussed
 
-Texas sparks international row with election observersOpinion: Here comes the landslideObama, Romney set to re-emerge, return to campaign trail after Hurricane SandyMore bad news for Mitt Romney Presidential race just got tighter in election ground zero — Ohio
+International monitors at US polling spots draw criticism from voter fraud groupsOpinion: Here comes the landslideSen. Graham: Obama move on defense layoff notices 'patently illegal'Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'Obama, Romney set to re-emerge, return to campaign trail after Hurricane Sandy
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Rove predicts Romney victory with at least 279 Electoral College votes
-*   MORNING READ
-*   Poll: Romney, Obama running roughly even in ground game
+*   Scams follow in Sandy's wake
+*   Obama inches ahead of Romney in RealClearPolitics average of polls
+*   Clinton says he’s honored to be in Pennsylvania — while in Ohio
 
   
 More Briefing Room » Congress Blog
 
-*   Obstruction in Senate taking its toll on courts
-*   Naval supremacy requires a fleet of sufficient capability and size
-*   A nuclear nightmare
+*   A bill to end secrecy surrounding shell companies
+*   Overhauling the nation's electricity grid
+*   Social media narrative suggests a Romney victory
 
   
 More Congress Blog » Pundits Blog
 
-*   Conservatives have the winning ideas
-*   Christie shines, Obama leads, Brownie attacks, Romney waffles
-*   The elements
+*   Bloomberg endorses Obama, George Will trash-talks Obama, Joe Biden blasts Big Lie Romney ad in Ohio
+*   Big news: Chuck Hagel endorsing Bob Kerrey!
+*   Islamic terrorists remain a serious threat
 
   
 More Pundits Blog » Twitter Room
 
-*   Study: Twitter users add Obama to more lists than Romney
-*   Congress scares up some Halloween tweets
-*   Hurricane Sandy overwhelms campaign policy discussion online
+*   Foursquare announces Election Day 'check ins' at polling locations
+*   NRCC gets Twitter talking about Obama's 'secretary of business' idea
+*   New York Times blogger willing to bet $2,000 Obama wins election
 
   
 More Twitter Room » Hillicon Valley
 
-*   Comcast offers free WiFi service in affected storm areas
-*   AT&T and T-Mobile share networks in storm-battered areas
-*   Napolitano: US financial institutions 'actively under attack' by hackers
+*   T-Mobile, Sprint and Verizon report progress restoring cell service
+*   FCC: 19 percent of cell towers still down in wake of hurricane
+*   FCC orders TV station to air anti-abortion activist Randall Terry's campaign ads
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Sandy thrusts climate change into close Mass. Senate race
-*   News bites: Lower prices hit Big Oil’s earnings
-*   US seeks $435M penalty against Barclays over power market trades
+*   Ex-GOP lawmaker: Republicans rejecting 'true science' on climate change
+*   Study by oil-backed group says wind industry doesn't need tax credit
+*   Hurricane Sandy to drive gas prices lower through Election Day, rest of 2012
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Latest swing state polls show tight race with slight Obama edge
-*   Poll: Obama, Romney in dead heat at 46-46
-*   Biden reminisces about 2008 loss to Obama in Iowa
+*   Reuters: Obama leads in Ohio, Florida, Va. Romney in Colorado
+*   Akin gathering steam in race
+*   Baker: Be prepared for a recount
 
   
 More Ballot Box » On The Money
 
-*   Tax bill set to rise for 30 million households unless Congress acts
-*   IRS pushes back tax deadline for Sandy
-*   Business group says Bowles-Simpson wants too much revenue
+*   Suspense builds as Obama and Romney await final job numbers
+*   ‘Vote history audit’ shows whether your neighbors voted
+*   Democrats decry withdrawal of tax report
 
   
 More On The Money » Healthwatch
 
-*   Second firm recalls drugs in light of meningitis outbreak
-*   House panel demands study on Obama school lunch rules
-*   GAO: Doctors' 'self-referrals' cost Medicare more than $100M
+*   House Dem writes bill tightening rules for drug compounders
+*   Federal court exempts Mich. company from contraception mandate
+*   Hospitals sue Obama administration for refusing Medicare payments
 
   
 More Healthwatch » Floor Action
 
-*   Romney helps Senate candidate Rehberg in Mont. TV ad
-*   West Virginia Dems slam Obama's EPA for delaying mining permit
-*   GOP senators: Obama’s battery stimulus cost taxpayers too much
+*   NY, NJ lawmakers encourage people to apply for FEMA aid
+*   GOP senators aid investigation into drilling moratorium
+*   Rep. Denham sues DCCC for campaign ads about House votes
 
   
 More Floor Action » Transportation
 
-*   Obama hits Romney on auto bailout in first Michigan ad
-*   Romney aide: GM, Chrysler 'don't refute anything in our ads'
-*   Hurricane Sandy cancels 19,000 US flights
+*   Chrysler official to Donald Trump on Jeep controversy: 'You are full of s---'
+*   Mobile parking meter company backtracks on Dodd-Frank fee attribution
+*   Obama releases second auto bailout ad in Ohio, Michigan
 
   
 More Transportation » DEFCON Hill
 
-*   Watchdog: Afghans 'incapable' of maintaining military bases after US pullout
-*   Dem think tank: Cut $1T from defense — but not through sequestration
-*   Graham turns up heat on Tunisia over terror suspect
+*   US officials: CIA wasn’t delayed in Benghazi rescue attempts
+*   Report: CIA, Egypt discuss counterterrorism, security cooperation
+*   DOD expands intelligence cooperation in Africa
 
   
 More DEFCON Hill » Global Affairs
 
-*   Iowa is second state to forbid international observers at elections
-*   Hillary Clinton calls for Syrian opposition shake-up
-*   State condemns Bahrain's crackdown on political demonstrations
+*   Issa accuses the Obama administration of hiding information on Benghazi
+*   US sticks by Burma despite sharp rise in drug production
+*   Rep. Griffin targets foreign auto manufacturers doing business with Iran
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Brent Budowsky Hillary women save Obama Mark Mellman Back to election basics More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Brent Budowsky Hillary women save Obama Dick Morris Coming GOP landslide More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
