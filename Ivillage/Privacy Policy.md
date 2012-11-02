@@ -502,19 +502,19 @@ See All Newsletters  
 
 *   Homeandgarden My Best Idea Never Lose a Sock Again! You Won't Believe How Easy It Is
 *   Beauty DIY Beautify Kelly Bensimon Picks the Best Party Look
-*   Entertainment iVillage 5 Will Jay-Z Join Beyonce at the Super Bowl?
-*   Entertainment Likes or Yikes? Uh Oh! Which Celeb Does Taylor Swift Fear She'll Drunk Dial?
-*   Global iVoices Why a Failed First Marriage Doesn't Make You a Failure
-*   Entertainment Alicia Keys: Giving Back to Oprah!
+*   Food Learn How Now 3 Surprising Things You Need in Your Pantry
+*   Entertainment Celebrity Spotlight Tia Mowry: Why I Cut My Hair Since Becoming a Mom
+*   Food Featured (Food) 'The Kids' Table': South African Pumpkin Fritters
+*   Entertainment Featured Alicia Keys: Why She Named Her Son Egypt
 
   
   
 
-*   Parenting Halloween 17 Tips for a Fantastic Carved Pumpkin
-*   Entertainment iVote Celebrities and Newsmakers Reveal "Why I Vote"
+*   Entertainment Celeb News Bon Jovi, Springsteen to Headline Hurricane Benefit
 *   Health Slideshow 15 Most Dangerous Machines at the Gym
+*   Entertainment iVote Celebrities and Newsmakers Reveal "Why I Vote"
+*   Food Vegetarian Go Meatless with 78 Vegetarian Recipes
 *   Beauty DIY Beautify Kelly Bensimon Picks the Best Party Look
-*   Entertainment Movies Meet the New Faces of 'Breaking Dawn - Part 2'
 
 *   Join iVillage
 *   Message Boards
