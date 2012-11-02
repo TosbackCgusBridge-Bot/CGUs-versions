@@ -30,7 +30,6 @@ Rachael Ray
     *   Travel Blog
     *   Travel Articles
     *   Feedback
-    *   Summer Entertaining
     *   Easy Entertaining
     *   Travel Tote Bags
     *   Evette Rios
