@@ -63,7 +63,7 @@ Conditions générales d'utilisation Article Table des matières
         *   CCM sur votre site
         *   Etablir un lien
 
-Octobre 2012
+AllemandAnglaisEspagnolFrançaisItalienPortugais Novembre 2012
 
 *   Objet
 *   Mentions légales
@@ -186,7 +186,12 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 *   Vous cherchez une réponse précise ?  
     Posez votre question à la communauté »
 
-Allgemeine Nutzungsbedingungen General Terms and Conditions of Use Términos y condiciones generales de uso Condizioni generali d'uso Condições gerais de utilização Ce document intitulé « Conditions générales d'utilisation » issu de **CommentCaMarche** (www.commentcamarche.net) est mis à disposition sous les termes de la licence Creative Commons. Vous pouvez copier, modifier des copies de cette page, dans les conditions fixées par la licence, tant que cette note apparaît clairement. Conseils de rédaction Licence d'utilisation
+  
+Allgemeine Nutzungsbedingungen  
+General Terms and Conditions of Use  
+Términos y condiciones generales de uso  
+Condizioni generali d'uso  
+Condições gerais de utilização Ce document intitulé « Conditions générales d'utilisation » issu de **CommentCaMarche** (www.commentcamarche.net) est mis à disposition sous les termes de la licence Creative Commons. Vous pouvez copier, modifier des copies de cette page, dans les conditions fixées par la licence, tant que cette note apparaît clairement. Conseils de rédaction Licence d'utilisation
 
 *     Conditions générales d'utilisation
 *     Conditions generales
