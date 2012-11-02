@@ -242,14 +242,14 @@ Your email is safe with us. We hate spam too!
 
 Featured this week on livestrong.com
 
+*   Oct 31, 2012 The Scary Truth  
+    
 *   Oct 30, 2012 Solutions For Common  
     Food Allergies
 *   Oct 29, 2012 The 20 Best Foods  
     For Smoothies
 *   Oct 28, 2012 The New Rules  
     Of Stretching
-*   Oct 27, 2012 The Cause Of Low Back Pain  
-    
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
 
