@@ -174,7 +174,7 @@ Record Searchlight
 *   Cars
 *   Classified
 
-*   Get severe weather notifications anywhere via our new iPhone and Android app
+*   Campaign Contributions (CA   •   Presidential)   •   Candidates  •   Endorsements   •   Voter Resources
     
 
 Privacy Policy Redding.com Privacy Policy
@@ -270,24 +270,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 114 comments
-*   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Updated 10/31/2012 at 8:29 p.m. 39 comments
-*   UPDATED: Dahle edits TV ad after complaint from Redding dentist Updated 10/31/2012 at 2:51 p.m. 23 comments
-*   Ex-Redding defense attorney accused of sexual battery Published 10/30/2012 at 11:52 p.m.
-*   Lydia Reed: Obama has proven himself a failure Published 10/31/2012 at 12:00 a.m. 122 comments
+*   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Updated 11/1/2012 at 12:24 p.m.
+*   Romney faces scrutiny on aid in storm's wake Published 11/1/2012 at 4:00 a.m. 193 comments
+*   UPDATED: Four arrested after morning raid at Redding apartment Published 11/1/2012 at 12:51 p.m. 9 comments
+*   Redding police arrest two during Halloween sex offender checks Published 11/1/2012 at 12:55 p.m. 15 comments
+*   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Updated 10/31/2012 at 8:29 p.m. 65 comments
 
-Photo Galleries Hurricane Sandy Aftermath Hurricane Sandy AAUW Tour Pierson home
+Photo Galleries Halloween at Mt. Shasta Mall Klassique Kafe Hurricane Sandy Aftermath
 
-*   Bob Williams: The two Americas and two Romneys Published 10/29/2012 at 12:00 a.m. 133 comments
-*   Lydia Reed: Obama has proven himself a failure Published 10/31/2012 at 12:00 a.m. 122 comments
-*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 114 comments
+*   Romney faces scrutiny on aid in storm's wake Published 11/1/2012 at 4:00 a.m. 193 comments
+*   Lydia Reed: Obama has proven himself a failure Published 10/31/2012 at 12:00 a.m. 135 comments
+*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 121 comments
 *   Tom Elias: Red or blue: Where would you rather live? Published 10/30/2012 at 12:00 a.m. 107 comments
-*   Thomas Sowell: 'Cooling out' the voters Published 10/31/2012 at 12:00 a.m. 92 comments
+*   Thomas Sowell: 'Cooling out' the voters Published 10/31/2012 at 12:00 a.m. 91 comments
 
-*   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 25 comments
-*   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Published 10/31/2012 at 4:55 p.m. 39 comments
-*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 114 comments
-*   Tehama fair devotes day to goat education Published 10/21/2012 at 11:30 p.m. 8 comments
+*   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 26 comments
+*   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
+*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 121 comments
+*   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Published 10/31/2012 at 4:55 p.m. 65 comments
 *   UPDATED: Police catch Redding man they say was breaking into cars Published 10/29/2012 at 6:44 a.m. 26 comments
 
 Weather
@@ -296,23 +296,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 56° Light Rain Fog/Mist Wind: SW 6mph Today 65° 51° Thu 05:00 PM Mostly Sunny Temp: 63° Fri 05:00 AM Mostly Clear Temp: 46° Fri 05:00 PM Partly Sunny Temp: 68°
+Currently 47° Fair Wind: N 4mph Today 68° 46° Fri 05:00 PM Partly Sunny Temp: 66° Sat 05:00 AM Partly Cloudy Temp: 51° Sat 05:00 PM Partly Sunny Temp: 72°
 
-Feels Like: 63°
+Feels Like: 66°
 
-Humidity: 49%
-
-Precip: 48%
-
-Feels Like: 46°
-
-Humidity: 86%
+Humidity: 38%
 
 Precip: 0%
 
-Feels Like: 68°
+Feels Like: 51°
 
-Humidity: 38%
+Humidity: 63%
+
+Precip: 5%
+
+Feels Like: 72°
+
+Humidity: 37%
 
 Precip: 0%
 
@@ -330,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Thursday Nov 1
 *   Friday Nov 2
 *   Saturday Nov 3
+*   Sunday Nov 4
 *   More BROWSE Icon
-
-*   United Bikers of Northern California and Safeway Presents 2012 Food Drive See Description 9 a.m.
-*   Free Photo Session &. Print TA Schmidt Photography 9 a.m.
-*   Little Explorers: Forest Animals Turtle Bay Exploration Park 10 a.m.
-*   Little Explorers: Forest Animals Turtle Bay Exploration Park 10 a.m.
-*   Adopt a Senior Pet Month See Description 2 p.m.
-
-More Events »
 
 *   Court Appointed Special Advocates (CASA) Day @ Dutch Bros. Dutch Bros Coffee 6 a.m.
 *   Brent Graef - Horsemanship Clinic Cottonwood Creek Equestrian Center 9 a.m.
@@ -356,6 +348,14 @@ More Events »
 *   Jellys Ferry to Bend Float Trip, Saturday Nov. 3rd Sacramento River 8 a.m.
 *   Goat Education Day 2012 and Special Reserve Meat and Milker Auction Tehama District Fair grounds 9 a.m.
 *   Third annual Crafts for Missions Holiday Fair Trinity Lutheran Church 9 a.m.
+
+More Events »
+
+*   Buckeye Grange Pancake Breakfast Buckeye Grange Hall 7 a.m.
+*   City Christmas Tree Cutting See Description 9 a.m.
+*   Play 'The Grapes of Wrath' College of the Siskiyous 2 p.m.
+*   Film 'So Help Me God' Redding Library 2 p.m.
+*   The Melodic Heart of 50's Jazz concert Old City Hall 4 p.m.
 
 More Events »
 
