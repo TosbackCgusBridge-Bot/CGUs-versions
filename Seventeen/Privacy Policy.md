@@ -28,7 +28,7 @@ What's the Best Halloween Costume for You?
 *   Fashion Videos
 *   Get Fashion Advice
 
-Cute Winter Coats
+Cute, Cozy Sweaters!
 
 *   Virtual Makeover Tool
 *   Hair Ideas
@@ -104,11 +104,11 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     The Best Scarves Under $17
 *   love
     
-    Gift Ideas for Your Boyfriend!
+    Enter Your Guy in a Boyfriend Battle!
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win Purr by Katy Perry from fragrancenet.com. Type in the Freebie Phrase of the Day, found in the November Issue!
+**1 Winner!** Enter for a chance to win Justin Bieber's Someday from fragrancenet.com. Type in the Freebie Phrase of the Day, found in the November Issue!
 
  enter now 
 
