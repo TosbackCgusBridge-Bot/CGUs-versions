@@ -63,24 +63,24 @@ Any questions about this Privacy Policy should be addressed to HootSuite Twitter
 Vancouver, BC, Canada  
 V6A 3A3
 
-From the HootSuite Blog StumbleUpon, reddit and More: New Apps Hit HootSuite’s App Directory
+From the HootSuite Blog HootSuite Reaches 5 Million Users, 1.3 Billion Messages Sent ~ Infographic
 
-Content is definitely still king. And he’s a lot bigger these days. With all the...  
+On October 12, 2012, HootSuite reached 5 million users. Who uses HootSuite, and where in...  
+Read More
+
+Social Media Preparedness: British Columbia Hit With Earthquake
+
+  On October 27 at 8:04pm, a 7.7 magnitude earthquake struck just off of Haida...  
+Read More
+
+2012 Social Media Report Card: HootSuite Ranked #1 Tool for Twitter
+
+Brandwatch—the global social media monitoring firm—has just published a comprehensive study that delves deeper into...  
 Read More
 
 4 Tips for Surviving A Zombie Apocalypse Using Social Media
 
 Fact: A zombie’s main advantage is perseverance. And strength in numbers. If you get outnumbered...  
-Read More
-
-Social Media Management During Hurricane Sandy
-
-Mother nature has done her fair share of damage to the East Coast of North...  
-Read More
-
-How to Build a Powerful Community on YouTube ~ HootSuite University Lecture Series
-
-There are 4 main reasons why building a community on YouTube is important for...  
 Read More
 
 About Company Leadership Careers Contact Us Product Features Mobile App Directory Downloads Pricing Services HootSuite University Help Desk Feedback FAQ Translation Project Media Media Kit Press Releases Events Partner Becoming a Partner Solution Partners Integration Partners Affiliates API Legal Terms &. Conditions Privacy Policy ©2012 HootSuite Media Inc. All Rights Reserved. Language: Chinese Traditional (繁體中文)EnglishFrench (Français)German (Deutsch)Indonesian (Bahasa Indonesia)Italian (Italiano)Japanese (日本語)Polish (Język polski)Português (Brasil)Spanish (Español)
