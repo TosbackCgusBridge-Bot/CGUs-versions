@@ -75,7 +75,7 @@ Skip to content Enter Search Keywords. Use the arrow keys to navigate suggestion
     
     *   Get the Latest Drug Approvals &. Alerts
     *   Find FDA Consumer Updates
-    *   Sign up to receive WebMD’s award-winning content delivered to your inbox.
+    *   Sign up to receive WebMD's award-winning content delivered to your inbox.
     *   FDA Approves Diet Pill Belviq
     *   FDA Delays Decision on Blood Thinner Eliquis
     
@@ -159,7 +159,7 @@ Skip to content Enter Search Keywords. Use the arrow keys to navigate suggestion
     Featured Topics
     
     *   Know the Signs of Early Pregnancy?
-    *   Test Your Smarts: What’s Safe to Eat When You’re Pregnant?
+    *   Test Your Smarts: What's Safe to Eat When You're Pregnant?
     *   Peek Inside the Womb to See How Baby Grows
     *   Healthy School Lunches
     *   Quiz: Know How to Avoid The Next Toddler Meltdown?
@@ -176,7 +176,7 @@ Skip to content Enter Search Keywords. Use the arrow keys to navigate suggestion
     
     *   Find FDA Consumer Updates
     *   On The Road Again: FDA Mobile Laboratories
-    *   Sign up to receive WebMD’s award-winning content delivered to your inbox.
+    *   Sign up to receive WebMD's award-winning content delivered to your inbox.
     
     WebMD Health Experts and Community
     
@@ -196,7 +196,7 @@ Skip to content Enter Search Keywords. Use the arrow keys to navigate suggestion
     
     WebMD Newsletters
     
-    Sign up to receive WebMD’s award-winning content delivered to your inbox.
+    Sign up to receive WebMD's award-winning content delivered to your inbox.
 
 My WebMD Sign In, Sign Up
 
