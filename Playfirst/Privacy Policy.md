@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (102.2 MB) Top Mac Downloads 1 SpongeBob SquarePants Diner Dash 2 Parking Dash 3 Dream Day Honeymoon 4 Avenue Flo 5 Garden Dash 6 Diner Dash: Flo Through Time 7 Avenue Flo: Special Delivery 8 Chocolatier 9 Soap Opera Dash 10 Fitness Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (23.6 MB) Top Mac Downloads 1 SpongeBob SquarePants Diner Dash 2 Diner Dash: Flo Through Time 3 Parking Dash 4 Avenue Flo 5 Garden Dash 6 Dream Day Honeymoon 7 Avenue Flo: Special Delivery 8 Chocolatier 9 Soap Opera Dash 10 Doggie Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -249,15 +249,15 @@ SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
 
 Soak up five-star feeding fun with everyone's favorite sponge!
 
-**Play Free!** (10.2 MB) Try It Parking Dash DASH™ &. Time Mgmt Games
+**Play Free!** (10.2 MB) Try It Diner Dash: Flo Through Time DASH™ &. Time Mgmt Games
+
+Join Flo and Grandma on a thrilling adventure through time!
+
+**Play Free!** (29.1 MB) Try It Parking Dash DASH™ &. Time Mgmt Games
 
 Get behind the wheel and shift into high gear!
 
-**Play Free!** (22.6 MB) Try It Dream Day Honeymoon Hidden Object Games
-
-Search for the perfect souvenir!
-
-**Play Free!** (81.9 MB) Try It Avenue Flo Adventure &. Quests Games
+**Play Free!** (22.6 MB) Try It Avenue Flo Adventure &. Quests Games
 
 Explore DinerTown like never before
 
@@ -265,11 +265,11 @@ Explore DinerTown like never before
 
 Fresh from the city!
 
-**Play Free!** (77.3 MB) Try It Diner Dash: Flo Through Time DASH™ &. Time Mgmt Games
+**Play Free!** (77.3 MB) Try It Dream Day Honeymoon Hidden Object Games
 
-Join Flo and Grandma on a thrilling adventure through time!
+Search for the perfect souvenir!
 
-**Play Free!** (29.1 MB) Try It Avenue Flo: Special Delivery Adventure &. Quests Games
+**Play Free!** (81.9 MB) Try It Avenue Flo: Special Delivery Adventure &. Quests Games
 
 Help DinerTown save the event of the year!
 
@@ -281,11 +281,11 @@ Oh, the gloriously rich and delectable life of a chocolatier!
 
 DinerTown's zaniest soap opera parody!
 
-**Play Free!** (62.4 MB) Try It Fitness Dash DASH™ &. Time Mgmt Games
+**Play Free!** (62.4 MB) Try It Doggie Dash DASH™ &. Time Mgmt Games
 
-Get your DASH game in peak condition!
+Cleanliness is next to Dogliness!
 
-**Play Free!** (20.3 MB) Try It Log In New to PlayFirst?
+**Play Free!** (17.5 MB) Try It Log In New to PlayFirst?
 
 Sign up below to create a new PlayFirst account.
 
