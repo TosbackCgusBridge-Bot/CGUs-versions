@@ -216,16 +216,17 @@ Food
 
 Shop by Brand
 
+*   Authentic Gourmet
 *   Cheryl's
 *   Cook's Essentials
 *   Cuisinart
+*   Harry London
+*   Junior's
 *   Kansas City Steak Company
 *   Keurig
 *   KitchenAid
-*   Kuhn Rikon
-*   Le Creuset
 *   Lock &. Lock
-*   Nutrisystem
+*   Mrs. Prindable's
 *   Paula Deen
 *   Rachael Ray
 *   Technique
@@ -335,6 +336,7 @@ More Gift Ideas
 *   Electronics Holiday Hot List
 *   Gift Cards
 *   Holiday Advice
+*   Holiday Giving Event
 
 *   New Arrivals
 *   Customer Top Rated
