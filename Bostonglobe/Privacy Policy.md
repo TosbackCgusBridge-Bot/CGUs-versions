@@ -25,6 +25,7 @@ Search: Sections
 *   Opinion
 *   Lifestyle
 *   Magazine
+*   Insiders
 *   Today's Paper
 *     My Saved
 
