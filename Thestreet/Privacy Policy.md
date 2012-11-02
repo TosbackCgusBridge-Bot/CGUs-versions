@@ -85,13 +85,14 @@ A NOTE FROM JILL MALANDRINO
 
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
-*   Hurricane Sandy
-*   Make Money With Money
-*   Disney-Lucasfilm
-*   Gold
-*   Biotech Earnings
-*   LaGuardia Airport
-*   Netflix
+*   Sirius-XM
+*   Springsteen
+*   Facebook vs. Craiglist
+*   Indian Stocks
+*   Banks Earnings
+*   Value Stocks
+*   Gas Shortages
+*   AIG
 
 pjava04.dc.thestreet.com Privacy Policy
 
@@ -248,15 +249,15 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,096.46 -10.75 -0.08% NASDAQ 2,977.23 -10.72 -0.36% S&P 500 1,412.16 0.22 0.02% US 10 Yr 1.686% -0.064 Brokerage Partners Most Commented
+DOW 13,232.62 136.16 1.04% NASDAQ 3,020.06 42.83 1.44% S&P 500 1,427.59 15.43 1.09% US 10 Yr 1.715% +0.029 Brokerage Partners Most Commented
 
-*   'Put the White Back in the White House'?
 *   Yes, Apple Can Kill Microsoft Office
+*   'Put the White Back in the White House'?
 *   Office Will Determine Whether Microsoft Can Beat Apple
 *   10 Cult TV Shows Netflix Should Revive
 *   10 Worst Cars of All Time
 
-Articles From Newser Craigslist's New Classified Rival: Facebook Carl Icahn Buys 10% Stake in Netflix Nonprofit May Have Misled IRS on Big Donor See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser For Sale: Naming Rights to Broke Japan City UK Court Unamused With Apple Note, Orders Rewrite Sandy's Gas Shortage Fuels Panic, Tempers See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
