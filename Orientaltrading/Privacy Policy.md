@@ -117,18 +117,6 @@ Go Catalog Quick Order Sign Up For Email Savings!
     *   See More Fun &. Faith
 *   Teaching Supplies
     
-    *   Basic School Supplies
-    *   Backpacks, Bags &. Totes
-    *   Bookmarks
-    *   Crayola®
-    *   Crayons
-    *   Erasers &. Pencil Toppers
-    *   Glue, Tape &. Scissors
-    *   Markers
-    *   Pencils
-    *   Pens
-    *   See More Basic School Supplies
-    
     *   Teacher Resources
     *   Birthday Supplies
     *   Bulletin Board Supplies
@@ -157,6 +145,18 @@ Go Catalog Quick Order Sign Up For Email Savings!
     *   Science
     *   Social Studies
     *   See More Curriculum Projects &. Activities
+    
+    *   Basic School Supplies
+    *   Backpacks, Bags &. Totes
+    *   Bookmarks
+    *   Crayola®
+    *   Crayons
+    *   Erasers &. Pencil Toppers
+    *   Glue, Tape &. Scissors
+    *   Markers
+    *   Pencils
+    *   Pens
+    *   See More Basic School Supplies
     
     *   Awards &. Incentives
     *   Assortments
@@ -401,6 +401,7 @@ Tools &. Services
 *   Free Online eCards
 *   Free Reminder Service
 *   Engagement Announcements
+*   2013 Calendar
 
 Community
 
