@@ -104,15 +104,15 @@ We reserve the right to update or modify this Privacy Policy, at any time and wi
 
 Follow UsTwitter
 
-*   Click if you need the smile today: t.co/X18iURXo #heartwarming
+*   Kristen Stewart and Robert Pattinson latest news: MTV interview may get personal (Video) t.co/5KHvOOAc
     
-    39 minutes ago
-*   Wreck-It Ralph release celebrations planned by Iowa city, gamers nationwide t.co/r6j3OOKU
+    38 minutes ago
+*   Make an easy bowed scarf from dollar store scarves t.co/iRg35yM7
     
-    40 minutes ago
-*   We know who @REALStaceyDash wants for president, but how about Joss Whedon, Kid Rock, and Katy Perry? t.co/oGQ5b4aJ
+    1 hour ago
+*   Emblem3, Lyric 145 groups impress Simon with first 'X Factor' live performances t.co/w8sWimfb
     
-    47 minutes ago
+    2 hours ago
 
 © 2006-2012 Clarity Digital Group LLC d/b/a Examiner.com. About examiner.com
 
