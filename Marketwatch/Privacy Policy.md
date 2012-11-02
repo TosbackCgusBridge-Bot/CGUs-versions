@@ -1,4 +1,4 @@
-Bulletin Exxon Mobil reports lower third-quarter profit and revenue Investor Alert
+Bulletin Investor Alert
 
 New York Markets Open in:
 
@@ -198,101 +198,107 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT November 1, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT November 2, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:03a
+/news/latest1.  8:02a
     
-    BREAKING
+    Halloween Indicator kicks in on schedule
     
-    Exxon Q3 net $2.09 vs. $2.13
+2.  8:02a
     
-2.  8:03a
+    Investing a lump sum of money in stocks pays off
     
-    Exxon Q3 profit down 7% to $9.57 billion
-    
-3.  8:03a
-    
-    Exxon Q3 capital costs up 7% to $9.18 bln
-    
-4.  8:01a
-    
-    Target Oct. same-store sales up 2.4%
-    
-5.  8:01a
+3.  8:01a
     
     Updates, advisories and surprises
     
-6.  8:00a
+4.  8:01a
     
-    Coming up: U.S. jobless claims, Q3 productivity
+    Gasoline prices keep falling despite Sandy
     
-7.  7:57a
+5.  8:00a
     
-    Bill Barrett sells natgas assets for $335 million
+    Red states vs. blue: Who has bigger 401(k)s?
     
-8.  7:55a
+6.  7:56a
     
-    Estee Lauder profit rises 8%, sales up 3%
+    Holland Tunnel opens for buses after Sandy
     
-9.  7:53a
+7.  7:52a
     
-    Exelon profit falls, issues 2012 view
+    Holland Tunnel partly reopens for buses only
     
-10.  7:50a
+8.  7:50a
     
-    Thursday’s biggest gaining and declining stocks
+    Hess says most NYC stations open. Q3 profit up 2X
     
-11.  7:38a
+9.  7:44a
     
-    Exelon hikes adj 2012 view to $2.75-$2.95
+    As vote nears, Israelis finally talk economics
     
-12.  7:36a
+10.  7:42a
     
-    Bill Barrett sells natural gas assets for $335 mln
+    Europe stocks steady as U.S. jobs report looms
     
-13.  7:35a
+11.  7:40a
     
-    Estee Lauder Q1 profit 76c vs 70c
+    Hess: 177 out of 186 gas stations open in NYC area
     
-14.  7:35a
+12.  7:40a
     
-    Estee Lauder sees adj Q2 net of 97c-$1.03
+    Hess Corp. Q3 net $1.64 vs. 88c
     
-15.  7:31a
+13.  7:40a
     
-    Teva swings to a loss on one-time costs
+    Hess total Q3 revenue $9.62 bln vs $8.73 bln
     
-16.  7:30a
+14.  7:38a
     
-    Planned layoffs jump up in October: Challenger
+    Beam Inc. Q3 net 47c vs. $2.67
     
-17.  7:30a
+15.  7:38a
     
-    Limited same-store sales rise 3%, firm ups outlook
+    Beam Q3 sales up 8% to $627.5 mln
     
-18.  7:30a
+16.  7:37a
     
-    Radio update: The economic calendar is jammed
+    NRG Energy narrows loss, while revenue falls
     
-19.  7:26a
+17.  7:35a
     
-    Oil futures inch up ahead of U.S. data
+    Radio update:Starbucks brews up strong earnings
     
-20.  7:22a
+18.  7:24a
     
-    Dollar edges higher ahead of data deluge
+    Stock index futures flat. payrolls to set tone
+    
+19.  7:22a
+    
+    Thomson Reuters Q3 net 56c vs 44c
+    
+20.  7:21a
+    
+    McGraw-Hill Cos. Q3 net $1.10 vs. $1.21
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,096.46 -10.75 -0.08% nasdaq /quotes/zigman/123127 2,977.23 -10.72 -0.36% s&p 500 /quotes/zigman/3870025 1,412.16 +0.22 +0.02% Kiosk
+dow /quotes/zigman/627449 13,232.62 +136.16 +1.04% nasdaq /quotes/zigman/123127 3,020.06 +42.83 +1.44% s&p 500 /quotes/zigman/3870025 1,427.59 +15.43 +1.09% Kiosk
 
 *   1341573300000 1341592200000
     
     From Fox Business
     
-        Dave ramsey  
-    Should I 'dumb down' my resume?  
-    A reader is recently unemployed and wonders whether or not listing his master's degree is hurting his chances at lower-paying positions.  /conga/kiosk/marketfox.html 233397
+        gerri willis  
+    The cost of Sandy  
+    The price of any natural disaster is a high one, economically speaking, but the breadth of this storm, and it's location, make it especially large.  /conga/kiosk/marketfox.html 233574
+*   1332374700000 1332461400000
+    
+    The Trading Deck
+    
+    john nyaradi  
+    Hot ETFs for the election  
+    Next week’s presidential election will impact sectors and exchange-traded funds regardless of who wins.  
+    /conga/kiosk/trading-deck-5.html 233609
 *   1238817600000 1270353600000
     
     Cars
@@ -307,13 +313,6 @@ dow /quotes/zigman/627449 13,096.46 -10.75 -0.08% nasdaq /quotes/zigman/123127 2
         Big storms, small impact  
     In the short term, storms like Hurricane Sandy can cause serious economic damage, but the negative impact rarely lasts for long.  
     /conga/kiosk/capitol-report.html 233139
-*   1330965900000 1330992600000
-    
-    The Trading Deck
-    
-      nigam arora  
-    How to play 20 hurricane stocks  
-    The storm that battered the East Coast has hit the markets in more ways the one. But what does it mean for investors and their portfolios?  /conga/kiosk/trading-deck-4.html 233399
 *   1339754400000 1340010000000
     
     Investing
