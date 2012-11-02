@@ -160,9 +160,9 @@ Awards Current Competitions November Wacom 'Winter' Competition
 
 This month, you can win one of three Intuos5 pen tablets courtesy of Wacom in our 'Winter' themed competition!  
   
-1st Prize - Intuos5 touch L + Wireless Accessory Ki... Featured e2 Photo meteor shower  
+1st Prize - Intuos5 touch L + Wireless Accessory Ki... Featured e2 Photo Eagle  
   
-By gregs November's Photo Month
+By scarjam November's Photo Month
 
 Check out ePHOTOzine's inspirational photo month calendar! Each day click on a window to unveil new photography tips, treats and techniques.
 
