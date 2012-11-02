@@ -57,6 +57,7 @@ Skip Navigation
         *   Repair &. protect
     
     *   *   Showcase
+        *   LG
         *   Motorola
         *   Samsung
 *   Digital Lounge
