@@ -35,12 +35,21 @@ Comments Off
     *   Notorious ad hijacker spreads to more media, retail sites 10/19/2012
 
 *   Search for:
+*   Related
+    
+    *   HuffPost Live’s new iPad app could be a second screen breakthrough
+        
+        HuffPost Live's new app could help usher in an era where content producers seek to dominate not...
+        
+    
+    See More Related Stories For:  
+    aol / companies / paidcontent / time warner
 
 *   {"source":"http:\\/\\/paidcontent.org\\/wijax\\/c31de507bf516a95516a241b48a698ec","varname":"wijax\_bce7bd8b6a0998e15429e07d604f266c","title\_element":"h2","title\_class":"widgettitle","title\_before":"%3Ch2%20class%3D%22widgettitle%22%3E","title\_after":"%3C%2Fh2%3E%0A"}
 
 **Read more in GigaOM**
 
-Tweeting fake news in a crisis — illegal or just immoral?
+HuffPost Live’s new iPad app could be a second screen breakthrough
 
 Stay on top of tech news in your inbox
 
