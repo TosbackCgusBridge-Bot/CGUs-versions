@@ -30,7 +30,7 @@ Rolling Stone Skip to the content.
 *   •
 *   RS on RDIO
 *   •
-*   Springsteen Timeline
+*   Green Day Timeline
 *   •
 *   Voodoo Festival
 *   •
