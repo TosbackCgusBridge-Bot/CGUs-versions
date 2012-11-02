@@ -1,8 +1,8 @@
 *   United States \[ change \]
 
-kodak.com and kodakgallery.com Online Privacy Notice  
+kodak.com Online Privacy Notice  
 
-(Revised April 26, 2012)
+(Revised October 25, 2012)
 
 Our Commitment To Privacy
 
@@ -10,7 +10,7 @@ At Kodak, we are committed to protecting your privacy online. Our pledge is to s
 
 We at Kodak are taking a leadership role in assisting our customers and other businesses in understanding the importance of using your personal information appropriately. Eastman Kodak Company is a member of the Direct Marketing Association's Safe Harbor Program.
 
-As an active member of the Direct Marketing Association, we are showing our commitment to making the Internet a safe and secure place for you to transact online. Kodak is also a participant in the Safe Harbor program between the US and the European Union.
+As an active member of the Direct Marketing Association, we are showing our commitment to making the Internet a safe and secure place for you to transact online. Kodak is also a participant in the Safe Harbor program between the US and the European Union and US and Switzerland.
 
 Scope of This Notice
 
@@ -40,26 +40,25 @@ We use common internet technologies such as cookies and beacons to ensure the in
 
 **Cookies:** Cookies are small pieces of information stored by your browser on your computer's hard drive, at a web site's request. Kodak cookies do not contain any personal information, but are used primarily as follows:
 
-*   to keep track of temporary information. For example, cookies allow us to keep track of the pictures you upload and download.
-*   to register you in programs, such as kodak.com Membership. Cookies allow us to remember you when you login to the places on our site that require Membership.
-*   to remember your country and language preferences.
-*   to help us understand the size of our audience and traffic patterns.
-*   to collect and record information about what you viewed on our Web site and what you viewed in our e-mail.
+*   to keep track of temporary information. For example, cookies allow us to keep track of the pictures you upload and download;
+*   to register you in programs, such as kodak.com Membership. Cookies allow us to remember you when you login to the places on our site that require Membership;
+*   to remember your country and language preferences;
+*   to help us understand the size of our audience and traffic patterns;
+*   to collect and record information about what you viewed on our Web site and what you viewed in our e-mail;
 *   to manage and present site information and the pictures displayed on your computer, and
 *   to deliver information specific to your interests.
 
   
 Cookies and Third Party Advertisements  
   
-Kodak and Kodak Imaging Network participates in cookie-based ad networks operated by:
+Kodak participates in cookie-based ad networks operated by:
 
 *   Netmining LLC.
 *   AOL and affiliates, Tacoda and Advertising.com
 
 These companies use cookies, web beacons, pixels, or other technologies to collect information about the effectiveness of their advertisements and the types of ads that would be of greatest interest to you. These tools allow them to track some data relating to your computer and your internet browsing on Kodak sites or other sites that participate in their networks. This data includes your computer's IP Address, the website addresses visited, the browser type used, the computer's operating system, and the date, time and duration of the visit to each page. We do not permit these companies to collect any personal information about you, such as your name, e-mail or physical address. For more information about these specialized cookies and other technologies, and how to "opt out" of information collection by these companies, we suggest you visit:  
-http://www.netmining.com/en/privacy-policy-service.html  
-http://www.tacoda.com/notice/privacy\_policy.html and  
-http://www.advertising.com/privacy\_policy\_details.php  
+http://www.netmining.com/en/privacy-policy-service.html and  
+http://www.tacoda.com/notice/privacy\_policy.html  
 In addition, the Network Advertising Initiative offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection. Please visit http://networkadvertising.org/optout\_nonppii.asp.
 
 **Web Beacons:** We also place small "tracker gifs" or "beacons" on many of the pages on our website, in online advertising with third parties, and in our e-mail. We use these beacons, in connection with cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, Firefox, Safari, Chrome, etc..), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor's Internet service provider (e.g., AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites.
@@ -120,6 +119,10 @@ Keeping Your Information Accurate
 
 If you are a registered user, you can review and update your profile using your user name and password. You can also contact your Customer Service Representative.
 
+Safe Harbor
+
+Kodak complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Kodak has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Kodak's certification, please visit http://www.export.gov/safeharbor/.
+
 How to Reach Us
 
 If you have questions or concerns about your privacy when using a Kodak Web site, please contact us by e-mail: privacy@kodak.com or by mail at:
@@ -149,7 +152,7 @@ Changes to this Privacy Notice
 
 Kodak reserves the right to modify this Privacy Notice from time to time, by posting a prominent announcement on this page or, in the event of a material change, by notifying by e-mail all customers whose personal information we have retained.
 
-This Privacy Notice was last amended on April 26, 2012
+This Privacy Notice was last amended on October 25, 2012
 
   
 
