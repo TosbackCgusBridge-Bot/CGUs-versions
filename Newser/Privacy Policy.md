@@ -4,14 +4,14 @@
 *   Hot Topics
     *   Hurricane Sandy
     *   Election 2012
-    *   Mitt Romney 2012
-    *   Obama 2012
-    *   President Obama
-    *   Mitt Romney
-    *   entertainment
-    *   New York City
     *   New Jersey
-    *   severe weather
+    *   Mitt Romney
+    *   celebrity
+    *   President Obama
+    *   strange stuff
+    *   timeless news
+    *   Halloween
+    *   entertainment
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -120,57 +120,57 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Why Should Foreigners Care Who Wins the White House?
-*   The Exoneration of Drayton Witt
-*   It's Beginning To Look a Lot Like Apple
+*   Why the “Rape Thing” Haunts Republicans
+*   How Fast Can the Obama Campaign Spend Your Salary?
+*   Sandy’s Toll on Medical Research
 
 More from Slate »
 
-*   NO R.I.P.
-*   Octomom Goes To Rehab
-*   SAUCED! Ravioli 'Thief' Caught Red-Faced
+*   SANDY PHOTO OP
+*   Drug Smuggling FAIL
+*   Woman Swallows Toothbrush: How Will It Come Out?
 
 More from HuffPost Weird »
 
-*   Don’t Worry, Everyone, “Saturday Night Live” Is Still On...
-*   It’s The Rap Coloring Book!
-*   D.L. Hughley On Black Women: “Angry All The Time”
+*   Charlie Sheen Allegedly Bought A Prostitute Vaginal...
+*   Study: Children With Lesbian Parents Are Not Screwed Up
+*   Hot Links: Topless Photos Of Kat Dennings Leaked
 
 More from The Frisky »
 
-*   The world's best job, especially if your coworkers are...
-*   Thanks to Hurricane Sandy you will soon be seeing $5 per...
-*   This week's samurai sword stabbing brought to you by...
+*   24/48-hour heads-up: Halloween Fark Party. Oceanside, CA....
+*   "Sorry we euthanized your dog by mistake. Tell you what,...
+*   You know it's time to lose a little weight if the only...
 
 More from Fark »
 
-*   Obama vs. Romney: 6 signs the momentum is shifting
-*   6 ways Hurricane Sandy affected the entertainment world
-*   Hurricane Sandy: A letter from The Week's editor
+*   Will Hurricane Sandy suppress voter turnout and tip the...
+*   A tale of two Americans: How they'd fare under Obama and...
+*   5 dirty tricks that could tip the presidential election
 
 More from The Week »
 
-*   Chris Christie Won't Tolerate Long Showers, Questions About...
-*   GOP Candidate Squeezes in One Last Offensive Remark on the...
-*   New Yorkers Have Forgotten How to Use Payphones
+*   Nanny Accused of Stabbing Children Describes Issues With...
+*   States Affected by Sandy Plan to Hold an Election With No...
+*   Lower Manhattan is Down to One Hospital
 
 More from Daily Intel »
 
-*   Creepy Ingredients Lurking In Your Halloween Candy
-*   The Trick to Managing the Treats
-*   Heel, Mid-foot or Forefoot Strike: Are We Missing the Point?
+*   8 Foods That Could Trigger Acid Reflux
+*   Pondering the Light and "Dark Side" of How We Work
+*   Recognizing Mental Health as Public Health
 
 More from HuffPost Health »
 
-*   Evan Rachel Wood Marries Jamie Bell
-*   'Terminator 2' Actor Edward Furlong Arrest Is a...
-*   Lady Gaga Feels the Most Like Herself ‘In the Bath, Naked,...
+*   Britney Spears Case Thrown Out of Court
+*   Country Music Association Awards 2012: See the Star-Studded...
+*   One Direction Suits Up for 'Vogue' UK Shoot: 'I've Learnt...
 
 More from Celebuzz »
 
-*   Perspective: Check, Please
-*   Six Questions Eric Johnson
-*   AT&T Ghostbombs Its Own TV Commercial for Halloween
+*   Information Diet: Chuck Todd
+*   Top 10 Commercials of the Week: Oct. 26 - Nov. 2
+*   Stormy Weather: Analyst Downgrades Ad Market on Sandy Fears
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
