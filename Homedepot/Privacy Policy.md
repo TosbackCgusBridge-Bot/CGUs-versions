@@ -9,6 +9,16 @@
 *   Local Ad
 *   Help
 
+Based on your current location, we have chosen a store to give you the most up-to-date selections and pricing available.
+
+If this is not your preferred local store, please update your store here.
+
+CLOSE X
+
+We were unable to identify your local store. Please enter your ZIP Code and select your local store, so we can provide current product and pricing information available for your area.
+
+ZIP CODE SUBMIT CLOSE X
+
 *   *   Everything for Christmas
         
         *   HOLIDAY DECORATIONS
@@ -977,6 +987,7 @@ Shopping Assistance
 *   Return Policy
 *   Savings Center
 *   Store Pick-up Policy
+*   Ship to Store Pick-up Policy
 
 Our Sites
 
