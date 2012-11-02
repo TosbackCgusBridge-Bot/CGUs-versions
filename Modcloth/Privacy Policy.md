@@ -16,13 +16,16 @@ ModCloth Customer Care Hello,
     
     *   Shop Our Outfits
     *   Shop Our Designers
-    *   Gifts  
-        *   Gifts for Gals
-        *   Gifts for Guys
-        *   Wedding Present Bliss
+    *   Shop Gifts  
+        *   For Gals
+        *   For Guys
+        *   Li’l Prezzies
+        *   By Color
+        *   By Vintage Era
+        *   All Gift Guides
     *   Gift Certificates
     *   Shop Spotlight Styles
-        *   Fancy Frocks
+        *   Holiday Party Style
         *   Cozy Layers
         *   Work Appropriate
     
@@ -78,13 +81,16 @@ ModCloth Customer Care Hello,
     
     *   Shop Our Outfits
     *   Shop Our Designers
-    *   Gifts  
-        *   Gifts for Gals
-        *   Gifts for Guys
-        *   Wedding Present Bliss
+    *   Shop Gifts  
+        *   For Gals
+        *   For Guys
+        *   Li’l Prezzies
+        *   By Color
+        *   By Vintage Era
+        *   All Gift Guides
     *   Gift Certificates
     *   Shop Spotlight Styles
-        *   Fancy Frocks
+        *   Holiday Party Style
         *   Cozy Layers
         *   Work Appropriate
     
@@ -101,13 +107,16 @@ ModCloth Customer Care Hello,
     
     *   Shop Our Outfits
     *   Shop Our Designers
-    *   Gifts  
-        *   Gifts for Gals
-        *   Gifts for Guys
-        *   Wedding Present Bliss
+    *   Shop Gifts  
+        *   For Gals
+        *   For Guys
+        *   Li’l Prezzies
+        *   By Color
+        *   By Vintage Era
+        *   All Gift Guides
     *   Gift Certificates
     *   Shop Spotlight Styles
-        *   Fancy Frocks
+        *   Holiday Party Style
         *   Cozy Layers
         *   Work Appropriate
     
@@ -137,13 +146,16 @@ ModCloth Customer Care Hello,
     
     *   Shop Our Outfits
     *   Shop Our Designers
-    *   Gifts  
-        *   Gifts for Gals
-        *   Gifts for Guys
-        *   Wedding Present Bliss
+    *   Shop Gifts  
+        *   For Gals
+        *   For Guys
+        *   Li’l Prezzies
+        *   By Color
+        *   By Vintage Era
+        *   All Gift Guides
     *   Gift Certificates
     *   Shop Spotlight Styles
-        *   Fancy Frocks
+        *   Holiday Party Style
         *   Cozy Layers
         *   Work Appropriate
     
@@ -185,13 +197,16 @@ ModCloth Customer Care Hello,
     
     *   Shop Our Outfits
     *   Shop Our Designers
-    *   Gifts  
-        *   Gifts for Gals
-        *   Gifts for Guys
-        *   Wedding Present Bliss
+    *   Shop Gifts  
+        *   For Gals
+        *   For Guys
+        *   Li’l Prezzies
+        *   By Color
+        *   By Vintage Era
+        *   All Gift Guides
     *   Gift Certificates
     *   Shop Spotlight Styles
-        *   Fancy Frocks
+        *   Holiday Party Style
         *   Cozy Layers
         *   Work Appropriate
     
@@ -224,9 +239,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Get in the Halloween Spirit with Decaying Hollywood Mansions
-    *   Fashion in Film: The Rocky Horror Picture Show
-    *   Spend a Day with a ModCloth Buyer on Our Tumblr!
+    latest blog posts*   ‘Scruff Stuff: Mustachioed Marvels for Movember
+    *   Fave Finds: Elyse’s Denim Vest
+    *   Working Ghouls: Halloween 2012 at the ModCloth Office
     
     *   modcloth blog
     *   In Other Words
