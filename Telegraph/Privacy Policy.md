@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Thursday 01 November 2012
+Friday 02 November 2012
 
 *   Home
 *   News
@@ -142,13 +142,13 @@ Problems with the Telegraph for iPad? Call 0800 332020 Advertisement
 
 Editor's Choice »
 
-'Will I slide back into depression?’  
+The global war on free speech  
 
-The tragic case of the mother who killed her two young children reminds **Erin Baker** of her own post-natal despair
+It’s not just China and Russia where editors are being harassed, argues **John Kampfner**.
 
 Comments
 
-Leonard Cohen's hallelujah moment Paul Hayward: farewell, Kauto Star British banks needed bigger bailouts Clive James on why Brad Pitt stinks Advertisement
+Ashes to ashes... Britain will never look the same again Strictly: Michael Vaughan's diary Sun sets on the House of Wax Lift yourself out of a tights spot Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
