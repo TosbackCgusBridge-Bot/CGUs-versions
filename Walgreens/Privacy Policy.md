@@ -1,5 +1,3 @@
-Online Privacy and Security Policy | Walgreens
-
 All prescription refills ship free to your home.   **Refill now >>**
 
 Everyday Free Shipping at $25 or more.   **See details >>**
@@ -345,6 +343,7 @@ Email address Sign Up **Customer Service**
 *   Flu Shots
 *   Web Pickup
 *   Photo Blog
+*   Happy and Healthy Blog
 *   Folded Words
 
   
