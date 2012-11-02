@@ -1,6 +1,6 @@
 (skip this header)
 
-Thursday Nov 01, 2012 5:05 AM PT
+Friday Nov 02, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Little girl sick of election
-*   New picture of S.F.
-*   Gavin, Ed fake itineraries
-*   Masked bandit steals heart
-*   Breakdown in Utah
+*   Sergio Romo T-shirt statement
+*   Alex Smith on his Visa ad
+*   Amber India's high points
+*   Nervous Utah moments
+*   Painter of mayors
 *   Chron endorsements
 
 *   Bay Area &. State
@@ -340,10 +340,25 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Barry Zito's Kentfield manse still wants a buyer
+*   World in Focus
+*   Best costumes from Giants victory parade
+*   SF Giants 2012 World Series Parade
+*   Movie transformations
+*   Taser run-ins
+*   Pig and Pie
+*   Harper's Bazaar Women of the Year Awards 2012
+*   Alex Smith
+*   'Mustached American of the Year'
 *   More pets in listing photos
+*   Day in Pictures, Nov. 1, 2012
+*   USC shooting
+*   Muni bus burned
+*   Previewing the new North Beach pizzeria from Tony Gemignani
+*   Coast's best surprise lookout
 *   Nation in Focus
 *   World in Focus
-*   Gifts for Active People
+*   Sponsored: Gifts for Active People
 *   netflix
 *   Day in Pictures, Oct. 31, 2012
 *   Cosmopolitan Women of the Year Awards
@@ -360,25 +375,11 @@ Ads by Yahoo! Photo Galleries
 *   Sandy impacts Presidential campaign
 *   Heidi Klum's annual Halloween party
 *   San Francisco City Hall nudists
-*   Week 8: 49ers at Cardinals
 *   Disney to buy Lucas
 *   'Wreck It Ralph' premiere
 *   Day in Pictures, Oct. 30, 2012
 *   Halloween 2012
 *   san mateo
-*   Nation in Focus
-*   World in Focus
-*   The World Series champion Giants return home
-*   ACT's "Revamping the Strand" fundraising party
-*   LACMA 2012 Art + Film Gala Honoring Ed Ruscha and Stanley Kubrick
-*   Lolinda
-*   Giants Fans Celebrate World Series Victory
-*   Day in Pictures, Oct. 29, 2012
-*   Haunted San Francisco Homes
-*   Nation in Focus
-*   World in Focus
-*   Last-minute homemade kids' Halloween costumes
-*   World Series photo gallery
 
 *   Most Read
 *   |
@@ -386,53 +387,51 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Huge turnout for Giants parade up Market
+1.  George Lucas giving away most of his $4.05 billion haul
+2.  Sandy's destruction from the air
+3.  Oakland teachers failed kids over grant
+4.  4 injured at USC campus shooting in Los Angeles
+5.  Police: You know these Muni bus burners?
+6.  Oakland cell phone store owner killed
+7.  Sidewalk service for slain S.F. teen
+
+1.  New York Mayor Bloomberg endorses Obama
 2.  Sergio Romo not afraid to speak his mind
-3.  Mom admits killing crying daughter
-4.  New York struggles back 2 days after killer storm
-5.  Infant dies at Marin day care center
-6.  Shooting near S.F. Giants celebration
-7.  Chris Christie tells FOX that relief efforts in NJ are “much bigger than presidential politics”
+3.  Police: You know these Muni bus burners?
+4.  Prop. 30 support slips, Field Poll finds
+5.  George Lucas giving away most of his $4.05 billion haul
+6.  Hundreds already out for Giants parade
+7.  Legal win means little after foreclosure
 
-1.  Police arrest man in Muni bus vandalism
-2.  Chrysler, GM say new Romney ad flat out wrong
-3.  Hundreds already out for Giants parade
-4.  Chris Christie tells FOX that relief efforts in NJ are %u201Cmuch bigger than presidential politics%u201D
-5.  Sergio Romo makes political statement with T-shirt
-6.  Candidate says "rape thing" not cause for abortion
-7.  Who's the 2nd Muni bus wrecker?
-
-1.  Incredible (and freaky!) pumpkin carvings
-2.  Mushroom madness on the Central Coast
-3.  Huge turnout for Giants parade up Market
-4.  Sergio Romo not afraid to speak his mind
-5.  NJ's barrier islands are scenes of devastation
-6.  Airlines Plan LaGuardia Recovery as NYC Travel Disruptions Ease
-7.  California could reap big China investment
+1.  A look at new California workplace laws
+2.  China's exodus of skilled professionals
+3.  Mission District to get more S.F. cops
+4.  'How the French Invented Love'
+5.  Legal win means little after foreclosure
+6.  Butterflies' S.F. habitat threatened
+7.  Christie pushes for faster storm recovery in NJ
 
 loading... Latest News Videos From our homepage
 
 *     
-    John Minchillo / AP
+    Lea Suzuki, The Chronicle / SF
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 10:07 p.m., Wednesday, October 31, 2012 NYC struggles to recover
+    Sidewalk service for slain teen
     
-    Mass exodus back into the city as people get creative post-Sandy.
+    In the Mission, priests remember victims at the very locations where they met their deaths.
     
-*   Sandy tapering out in Appalachia
 
 *     
-    Jason Henry, Special To The Chronicle / SF
+    Scott DuBose / SF
     
-    Basking in Giants parade
+    Luxury in an old S.F. home
     
-    Players sweep down Market St. as fans packed 20-30 deep celebrate.
+    This 1912 home in the Richmond has new kitchen, updated electrical deep yard. Asking $1.39M.
     
-*   Parade cost? | Giants keepsakes
 
-*   Great pumpkins arrive
+*   America's best mustache
     
-    Does your pumpkin match this? One last Halloween look at the freakiest carve jobs ever. Photos
+    The nation's leading lip fur belongs to this man. How does it stack up against these famous 'staches?
     
 
 *   Home
