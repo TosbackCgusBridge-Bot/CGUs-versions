@@ -116,10 +116,8 @@
     *   Flicks for Kids
     *   Off to School
 *   Fall
-    *   Halloween
     *   Beyond the Backpack
     *   Thanksgiving
-    *   Hispanic Heritage
     *   Fall Printable Activities
     *   Off to School
         *   Beyond the Backpack
@@ -127,16 +125,14 @@
         *   Preschool Practice Packs
         *   Kid-Friendly Lunches
         *   Off to School Videos
+    *   Hispanic Heritage
 *   Birthdays
     *   Dora Birthday Party
     *   Bubble Guppies Birthday
     *   Umizoomi Parties
     *   Fresh Beat Band Party
     *   More Birthday Parties!
-*   Halloween
-    *   Halloween House Party
-    *   Frightfully Fun Activities
-    *   Ghoulish Games
+*   Thanksgiving
 
 *   Dora
 *   Bubble Guppies
@@ -208,6 +204,10 @@ Join Dora on Facebook
 
 Get the inside scoop on everything Dora!
 
+Imagination Center
+
+Jumpstart creativity with our new ways to play this holiday season! (AD)
+
 Share Your Family Photos
 
 You could see them online!
@@ -232,9 +232,9 @@ Where is Boots? App
 
 Help Dora find Boots in this NEW hide and seek adventure (AD)
 
-Take a Family Trip to Jamaica!
+NEW! Bubble Guppies App (AD)
 
-Enter for your chance to win! No purchase necessary, see Official Rules. (AD)
+It's a swimsational school day when kids explore this interactive watery world!
 
 nickelodeon kids and family websites Nick
 
