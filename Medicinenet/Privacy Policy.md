@@ -1,4 +1,4 @@
-About Us| Newsletter November 1, 2012
+About Us| Newsletter November 2, 2012
 
 *   Like Us
 *   Follow Us
@@ -399,7 +399,7 @@ Please acknowledge your agreement I have read and agree to WebMD's Privacy Polic
 *   Rheumatoid Arthritis Pictures
 *   ADHD: Tips for Parenting
 *   Yeast Infection Treatment
-*   Psoriasis Slideshow
+*   Psoriasis Affecting Your Life?
 
 New on MedicineNet
 
