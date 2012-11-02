@@ -1,32 +1,33 @@
 Metacafe
 
-*   Most Popular
-*   Trending Now
 *   Movies
 *   Games
-*   Unfiltered
-*   Tech Tips
-*   Kittens
-*   Arguments for Sterilization
-*   Caught on Tape
-*   Corridor Digital
-*   Epic Meal Time
-*   Family Guys
-*   Game Glitches
-*   Game Reviews
-*   Movie Reviews
-*   PlayStation
-*   Saturday Night Live
-*   Stand-up Comedy
-*   The Tribe Has Spoken
-*   Ultimate Unboxings
-*   Video Game High School
-*   Weird News
-*   Xbox
-*   More...
-    
+*   Music
+*   Most Popular
+*   More
+    *   Channels
+    *   Today
+    *   All Videos
+    *   Comedy
+    *   Entertainment
+    *   How To
+    *   News &. Events
+    *   Pets &. Animals
+    *   Science &. Tech
+    *   Wheels &. Wings
+    *   TV Clips
+    *   Sports Highlights
+    *   Other
+    *   Classics
+    *   18+ Only
 
-Safe Search OFF Go Sign In Terms &. Conditions
+*   Facebook
+*   Follow Metacafe on Facebook Twitter
+*   Upload
+*   Sign In
+*   Family Filter On
+
+Go   Terms &. Conditions
 
 1.  **Your Acceptance**
     
