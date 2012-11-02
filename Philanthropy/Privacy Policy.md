@@ -4,18 +4,19 @@
 *   Create a Free Account |
 *   Subscribe Now
 
-*   Thursday, November 1, 2012
+*   Friday, November 2, 2012
 
 Subscribe Today
 
 *   Home
-*   Today's News
+*   News
 *   Fundraising
 *   Giving
 *   Managing
 *   Causes
 *   Facts &. Figures
 *   Jobs
+*   Webinars
 *   Community
 *   Marketplace
 *   Store
@@ -160,13 +161,14 @@ Washington, D.C. 20037
 **stacy.palmer@philanthropy.com**
 
 *   Home
-*   Today's News
+*   News
 *   Fundraising
 *   Giving
 *   Managing
 *   Causes
 *   Facts &. Figures
 *   Jobs
+*   Webinars
 *   Community
 *   Marketplace
 *   Store
