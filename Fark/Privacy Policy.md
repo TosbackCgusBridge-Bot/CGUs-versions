@@ -148,49 +148,49 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    Nun Shall Pass
+    Come At Me Brah
 *     
-    Ladies Wallet - Woven Stainless Steel
+    Angry Chef Towel Stand
 *     
-    Have a Smaller Penis Gum
+    Camaro (Fire Chief) Wireless Road Mice
 *     
-    Older Than Dirt
+    X-Wing Fighter - Super Deformed Plush
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
+Erin Faces Off Against Twitter Death...  
 Mother Boo Boo's Hideous Chins  
-31 Most Perfectly Looped GIFS Ever!  
-Nailed It! Cheap Halloween Costumes  
 Best Mascot Battle EVER!  
+31 Most Perfectly Looped GIFS Ever!  
 More news at Scribol »  
   
   
-Ashton Kutcher and Demi Moore -- NO M...  
-Cee Lo Accuser Claims He Sexually Ass...  
-Michael Lohan -- I Got Octomom Into T...  
-Lil Wayne -- Doctor's Orders ... NO F...  
+Michael Nouri -- Arrested for Domesti...  
+Cee Lo Accuser: He Slipped Me Ecstasy...  
+Hot Naked Men Found in Michael Jackso...  
+Kim Kardashian Sex Tape Company -- Th...  
 More news at TMZ »  
   
   
-2 Detained in Shooting at Halloween P...  
-Teen Critical, 2 Hurt After Shooting...  
-Police ID Woman Found Dead in Trunk o...  
-Huge Crowds Gather for WeHo Halloween...  
-More news at KTLA »  
+SANDY PHOTO OP  
+Researchers Put Psychics To The Test  
+Woman Swallows Toothbrush: How Will I...  
+WATCH: Did A UFO Fly Into An Active V...  
+More news at HuffPostWeirdNews »  
   
   
-Sandy Topples Old Oak, Unearths Skeleton  
-Chris Christie Cancels Halloween  
-Kate Moss Dishes on Johnny Depp, Heroin  
-Gene Hackman Slaps Homeless Guy  
-More news at Newser »  
+We Show It ALL  
+Texas doesn't get hockey  
+Bloomberg's Amazing Interpreter  
+10 Presidential Elections That Were P...  
+More news at truTV »  
   
 
 Also on Fark
 
-Main The world's best job, especially if your coworkers are busty women ( huffingtonpost.com ) » (22 comments) Sports Because people like to keep kicking Lance Armstrong while he is down, an English community is burning an effigy of him ( abc27.com ) » (34 comments) Business In wake of executive shakeup, Apple share price falls from "Don't even think about it" to "Get real" ( chicagotribune.com ) » (22 comments) Geek Curiosity rover takes best self portrait ever, still no duckface ( wired.com ) » (8 comments) Entertainment Kim Kardashian Sex Tape 2: Electric Boogaloo ( ok.co.uk ) » (40 comments) Politics Obama ticks above 300 predicted EV in first time since Denver debate ( fivethirtyeight.blogs.nytimes.com ) » (115 comments) Video People love to complain at companies on Twitter, hoping to publicly shame them into complying with their demands. Then there are the people who prank call those complainers to publicly shame them for complaining ( youtube.com ) » (23 comments) FarkUs The best Halloween songs of all time ( entertainment.time.com ) » (35 comments)
+Main 24/48-hour heads-up: Halloween Fark Party. Oceanside, CA. Hosted by GWSuperfan and VivianVivisect. Pre-party 11/2, main event (downtown bar-crawl) 11/3 ( fark.com ) » (160 comments) Sports Steve Spurrier thinks that Alabama can beat NFL teams. Somebody has been drinking the Koolaid ( espn.go.com ) » (19 comments) Business Q: What do airlines owe passengers displaced by Sandy? A: Nothing. You get nothing. Good day, sir ( huffingtonpost.com ) » (59 comments) Geek NyanyanyanyanyanyanyaDEAD ( news.yahoo.com ) » (12 comments) Entertainment Gwyneth Paltrow's grandfather once compared her boobs to fried eggs in a pan. So that's how it is in their family ( thesun.co.uk ) » (20 comments) Politics But out of the billowing smoke and dust of Tweets and trivia emerged... an e-mail from Gingrich acknowledging that Obama was going to win ( news.yahoo.com ) » (22 comments) Video Disney Star Wars Episode VII - Choosing the Director (Original Comedy Video) ( youtube.com ) » (3 comments) FarkUs Mother Jones suggests that the If you're young and physically fit and in NY, that you hike up a darkened high rise w/ water, power bars, toilet paper and help the elderly ( motherjones.com ) » (9 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main The world's best job, especially if your coworkers are busty women ( huffin
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Nov 01 2012 08:00:36  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Nov 02 2012 08:00:33  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
