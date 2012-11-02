@@ -45,73 +45,68 @@ Loading Modnique - Boutique Events
 *   all events
     *   women
     *   Avani Dead Sea Cosmetics
-    *   Bertalini Boots and Shoes
-    *   DSquared Sunglasses Made In Italy
-    *   Diamonds! Diamonds! Diamonds!
-    *   Dynasty Women's Apparel
-    *   Green Hills Handbags
-    *   H&S Handbags Made In Italy
-    *   Insight Women's Apparel
-    *   ORPHELIA Gold &. Diamond Jewelry
-    *   Oscar Heyman, Salavetti, Hasbani Gioielli and more
-    *   Our favorite silver jewelry styles
-    *   Parasuco Women's Apparel
-    *   See By Chloe Women's Apparel
-    *   Trend Alert: Black &. Gold
+    *   Cocktail Hour
+    *   Drop &. Dangle Earrings
+    *   Enzo Liverino
+    *   Holiday gifts: Affordable jewelry
+    *   Holiday gifts: Designer jewelry
+    *   Luxury Handbags under $499: Tod's, Longchamp, Lanvin and more
+    *   Margaret O' Leary Sweaters
+    *   Mulberry, Alexander McQueen, Marc Jacobs, Proenza Schouler
+    *   November Birthstones: Topaz and Citrine jewelry
+    *   NuMe Style Hair Tools
+    *   This Season's Best Shoes
+    *   Vintage Judith Leiber Handbags Made In Italy
+    *   Winter Wonderland Style Boots
     *   XOXO Women's Suits
     *   Yuka Paris Women's Apparel
     *   _more..._
     *   men
-    *   Men's shop: Dolce &. Gabanna Denim and Shirts from $75
+    *   Men's Suit Shop Featuring Hugo Boss, Valentino and more
     *   _more..._
     *   other
-    *   Aquaswiss watches
+    *   Boucheron, Coach, Vera Wang and more Eyeglasses
+    *   Dedia Watches Made in Switzerland
     *   Rolex
-    *   Ted Lapidus Watches
     *   _more..._
 *   apparel
     *   women
+    *   Cocktail Hour
     *   Dynasty Women's Apparel
-    *   Hodges Collection Women's Apparel
     *   Insight Women's Apparel
+    *   Margaret O' Leary Sweaters
     *   Parasuco Women's Apparel
+    *   Party Dresses
     *   See By Chloe Women's Apparel
     *   Trend Alert: Black &. Gold
-    *   Winter Coats featuring Guess and more
-    *   Winter essentials for her from $19
     *   XOXO Women's Suits
     *   Yuka Paris Women's Apparel
     *   _more..._
     *   men
+    *   Men's Suit Shop Featuring Hugo Boss, Valentino and more
     *   Men's shop: Dolce &. Gabanna Denim and Shirts from $75
-    *   _more..._
-    *   other
-    *   Ed hardy. Christian Audigier
     *   _more..._
 *   Jewelry &. Watches
     *   women
+    *   Attractive Brand New Bracelet
     *   Colored diamonds
-    *   DV Italy Ladies Bracelet Designed In 925 Sterling Silver
     *   Diamonds! Diamonds! Diamonds!
+    *   Drop &. Dangle Earrings
+    *   Enzo Liverino
     *   Everything under $50: Jewelry
     *   FPJ jewelry
     *   Fuzion Crystal jewelry
-    *   Handmade in Italy jewelry featuring Zydo and more
     *   Holiday gifts: Affordable jewelry
     *   Holiday gifts: Designer jewelry
-    *   ORPHELIA Gold &. Diamond Jewelry
-    *   ORPHELIA Silver &. Pearls Jewelry
+    *   November Birthstones: Topaz and Citrine jewelry
     *   Oscar Heyman, Salavetti, Hasbani Gioielli and more
-    *   Our Picks: Rings and Bracelets
     *   Our favorite silver jewelry styles
-    *   Refresh your jewelry box: studs
-    *   Wedding Jewelry Trends
     *   _more..._
     *   other
     *   Always in Style: Chronograph Watches from $35
     *   Aquaswiss watches
+    *   Dedia Watches Made in Switzerland
     *   Rolex
-    *   Ted Lapidus Watches
     *   _more..._
 *   Handbags &. Accessories
     *   women
@@ -120,25 +115,24 @@ Loading Modnique - Boutique Events
     *   H&S Handbags Made In Italy
     *   Holiday gifts: Designer jewelry
     *   Kenzo scarves
-    *   Le Vaunt Clutches
-    *   Louis Vuitton Handbags from $219
+    *   Luxury Handbags under $499: Tod's, Longchamp, Lanvin and more
+    *   Mulberry, Alexander McQueen, Marc Jacobs, Proenza Schouler
+    *   Vintage Judith Leiber Handbags Made In Italy
     *   _more..._
-    *   men
-    *   Gianfranco Ferre Mens Accessories
-    *   Montres De Luxe Milano Watches
+    *   other
+    *   Boucheron, Coach, Vera Wang and more Eyeglasses
     *   _more..._
 *   shoes
     *   women
     *   Bertalini Boots and Shoes
     *   Brown boots
-    *   _more..._
-    *   men
-    *   TBS Men's Shoes
+    *   This Season's Best Shoes
+    *   Winter Wonderland Style Boots
     *   _more..._
 *   beauty
     *   women
-    *   Attitude Line Skincare
     *   Avani Dead Sea Cosmetics
+    *   NuMe Style Hair Tools
     *   _more..._
     *   other
     *   Tigi Hair Products Made In USA
@@ -146,13 +140,11 @@ Loading Modnique - Boutique Events
 *   men
     *   Always in Style: Chronograph Watches from $35
     *   Aquaswiss watches
-    *   Ed hardy. Christian Audigier
-    *   Gianfranco Ferre Mens Accessories
+    *   Boucheron, Coach, Vera Wang and more Eyeglasses
+    *   Dedia Watches Made in Switzerland
+    *   Men's Suit Shop Featuring Hugo Boss, Valentino and more
     *   Men's shop: Dolce &. Gabanna Denim and Shirts from $75
-    *   Montres De Luxe Milano Watches
     *   Rolex
-    *   TBS Men's Shoes
-    *   Ted Lapidus Watches
     *   Tigi Hair Products Made In USA
     *   and many more...
 *   gifts
