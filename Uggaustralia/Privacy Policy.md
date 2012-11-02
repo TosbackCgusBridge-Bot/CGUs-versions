@@ -95,8 +95,8 @@ Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and mor
 *   WORLD OF UGG
 *   | Store Locations
     *   Concept Stores
-    *   Retail Stores
     *   Online Stores
+    *   Retail Stores
 
 Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.
 
@@ -136,7 +136,7 @@ Fall Highlights
     Rock 'N Roll >.
 *   OUR HOLIDAY '12 COLLECTION
     
-    Get an exclusive look at the collection and preorder today
+    Get an exclusive look at the collection and order today
     
     GO WILD >.
 *   SHARE YOUR LOVE FOR THE CLASSIC BOOT
