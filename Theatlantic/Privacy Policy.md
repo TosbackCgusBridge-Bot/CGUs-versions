@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Thursday, November 1, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Friday, November 2, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Thursday, November 1, 2012 Go Follow the Atlan
 *   Magazine
 *   video
 
-Why Romney Is Lying About the Auto Bailout Molly Ball Sandy: A Reminder Why 'Obama Phones' Exist Nancy Scola Don't Argue Religion During an Election Conor Friedersdorf Romney's China Bashing Is 5 Years Late Matthew O'Brien Prisoners of Cable Derek Thompson How Millennials Could Save the Economy Derek Thompson 'Star Wars' Will Survive the Disney Takeover Spencer Kornhaber How America Buries Its Famous Dead Writers Alexis Hauk Hurricanes and 'The Walking Dead' Jeffrey Goldberg, J.J. Gould, and Scott Meslow Ukraine's President Consolidates Power Daisy Sindelar What al Qaeda Fans Are Saying About Sandy Brian Fung 'The Man' Agrees With Occupy Protesters Stephanie Gruner Buckley The Devastated New Jersey Coastline Megan Garber On 'Keeping House in Outer Space' Emma Green How Computers Could Resolve Flight Delays Rachel Swaby There Are 3 New Yorks Today Derek Thompson Are Dogs 'Scientific Devices'? Garrett Epps Happy 'National Youth Honor Day,' Kids! Emily Chertoff Sandy's Psychological Aftermath Lindsay Abrams Why Leprosy Persists Lindsay Abrams Halloween in a Pediatric ICU Shazia Memon Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Pumpkin Carving Gone Artisanal Alessandra Ram Hurricane Sandy Looks Scary from Space Kasia Cieplak-Mayr von Baldegg 250 Glowing Umbrellas Kasia Cieplak-Mayr von Baldegg Privacy Policy
+Why Romney Is Lying About the Auto Bailout Molly Ball Sandy: A Reminder Why 'Obama Phones' Exist Nancy Scola Don't Argue Religion During an Election Conor Friedersdorf Tax Cuts Have a New Name Matthew O'Brien Hurricane Sandy Guide to Working From Home Derek Thompson How Conservatives Would Reform FEMA Jordan Weissmann Thoreau's 'Autumnal Tints,' 150 Years Later John-Manuel Andriote Lin and Harden Plot Revenge on the NBA Jake Simpson How Taylor Swift Is Sort of Like Leonard Cohen Brad Nelson The Sudanese Regime's Dwindling Options Armin Rosen A National Tragedy Lingers in Poland Liam Nolan China Has Hipsters Too Monica Tan The Devastated New Jersey Coastline Megan Garber On 'Keeping House in Outer Space' Emma Green How Computers Could Resolve Flight Delays Rachel Swaby Why We Keep Goldfish as Pets Katrina Gulliver There Are 3 New Yorks Today Derek Thompson Happy 'National Youth Honor Day,' Kids! Emily Chertoff Exercise May Improve Sperm Quality Lindsay Abrams Why 250,000 Still Get Leprosy Every Year Lindsay Abrams How the Election Will Affect Health Care Law Mary Agnes Carey Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Pumpkin Carving Gone Artisanal Alessandra Ram Hurricane Sandy Looks Scary from Space Kasia Cieplak-Mayr von Baldegg 250 Glowing Umbrellas Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,27 +113,27 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report Tancha/Shutterstock/The Atlantic The Sexes  
-Welcome to _The Atlantic_'s newest channel, looking at how men and women interact in society today. Read more › Just In John-Manuel Andriote 8:06 AM ET Revisiting the Splendor of Thoreau's 'Autumnal Tints,' 150 Years Later 1351771563 Voices
+Special Report Shutterstock/Anna Paff The Sexes  
+How men and women interact in a changing society. Come join the discussion on our newest channel. Read more › Just In Lindsay Abrams 8:03 AM ET Study: Worrying About Math Can Activate Pain Areas In the Brain 1351857794 Voices
 
+*   Clive Crook Together We Stand, Divided We Fall 6:39 AM ET
+*   James Fallows Interim Infrastructure Update: Blackouts,… Nov 1, 2012
+*   Garance Franke-Ruta How to Tweet Responsibly During a Breaking-News… Nov 1, 2012
+*   Ta-Nehisi Coates Either I Win or You Cheated Nov 1, 2012
+*   Jeffrey Goldberg Christie and Springsteen, Updated Nov 1, 2012
+*   Alexis C. Madrigal Credit Where It's Due: I Love the New Gmail Design Nov 1, 2012
+*   Derek Thompson The Hurricane Sandy Guide to Working From Home Nov 1, 2012
 *   Robert Wright Sandy and Me Oct 31, 2012
-*   James Fallows Pre-Election Reading: Wen Stephenson on Climate… Oct 31, 2012
-*   Alexis C. Madrigal If You Can't Beat 'Em, Subvert 'Em: Countering… Oct 31, 2012
-*   Derek Thompson Americans Are on a Spending Spree, So Why Is Wall… Oct 31, 2012
-*   Clive Crook Europe's Suicide Pact Oct 31, 2012
-*   Garance Franke-Ruta Chris Christie's Executive Order Rescheduling… Oct 31, 2012
-*   Ta-Nehisi Coates The Lost Battalion Oct 31, 2012
-*   Jeffrey Goldberg Why Exactly Is Chris Christie Subverting Mitt… Oct 31, 2012
 *   Steve Clemons GOP Presidents Have Been the Worst Contributors… Oct 27, 2012
 
 Correspondents
 
-*   Andrew Cohen Mitt Romney's Perfect Storm
-*   Nancy Scola Hurricane Sandy Is a Reminder of Why 'Obama Phones' Exist
-*   Garrett Epps Are Dogs 'Scientific Devices'?
+*   Steven Heller 'Vote Then Bitch': The Campaign to Get Complainers to the Polls
+*   Jack M. Balkin What It Will Take for Barack Obama to Become the Next FDR
+*   Andrew Cohen 'Sound and Fury, Signifying Nothing': The Direct-Mail Poetry of Election 2012, Cont.
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Hurricane Sandy: After Landfall Oct 30, 2012 Video 'Gloam': A Spooky Animated Journey Through a Dark Forest Top 10 Ways to Smash a Pumpkin Little Boat Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Hurricane Sandy: The Aftermath Nov 1, 2012 Video What Would Happen If We Scrapped Congress? A 1940s Film Explains Hurricanes of Yore What Twitter Tells Us About Voters Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -162,63 +162,63 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Nate Silver to Joe Scarborough: Wanna Bet?  
+*   Secret Service Agent Who Was Under Investigation Commits Suicide  
     
-*   Report: Ex-Penn State President to Face Perjury Charges  
+*   Staten Island Becomes the Focus of Anger and Tragedy  
     
-*   The Daily Caller Accuses a Senator of Hiring Prostitutes  
-    
-
-Last Update: 7:36 AM
-
-*   The Creepiest Sandy Debris: A 200-Year-Old Skeleton  
-    
-*   No, Looters Did Not Ravage New York During the Hurricane  
-    
-*   Zaha Hadid's SOHO Galaxy Looks Like the Watergate on Steroids  
+*   Montgomery Burns Keeps Binders Full of Women Too  
     
 
-Last Update: 8:30 PM Most Popular
+Last Update: 7:31 AM
+
+*   Grim Scenes From New York's Flooded Subway System  
+    
+*   New York's Sustainability Catch-22  
+    
+*   The Surreal Evolution of Nashville in Pop Culture, From Altman to ABC  
+    
+
+Last Update: 8:13 PM Most Popular
 
 1
 
-Hurricane Sandy: After Landfall
+Hurricane Sandy: The Aftermath
 
 2
 
-Sorting the Real Sandy Photos From the Fakes
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 3
 
-The Hideous Inequality Exposed by Hurricane Sandy
+Hurricane Sandy: After Landfall
 
 4
 
-Hurricane Sandy in Photos
+Sorting the Real Sandy Photos From the Fakes
 
 5
 
-Why Exactly Is Chris Christie Subverting Mitt Romney?
+Hurricane Sandy in Photos
 
 6
 
-A Father's Case Against Breast-Feeding
+The Hideous Inequality Exposed by Hurricane Sandy
 
 7
 
-A Sinister History of Halloween Pranks
+Toward a Fraudulent Populism
 
 8
 
-Work-Life Balance as a Men's Issue, Too
+Why Nate Silver's Gambling Streak Makes Me Trust Him More
 
 9
 
-The Moment the Lights Went Out in New York
+China Has Hipsters, Too
 
 10
 
-General Failure
+A Manly-Man's Map
 
 *   Subscribe Help
 *   Faq
