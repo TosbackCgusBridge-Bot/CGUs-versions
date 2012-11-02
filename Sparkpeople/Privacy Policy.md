@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Low Impact Houses Resources
+*   Sugar Vs High Fructose Corn Syrup Resources
 
   
-Stay in Touch With SparkPeople **Prevent Fitness Setbacks Before They Happen**
+Stay in Touch With SparkPeople **Slideshow: 7 Fun Fat-Burners for Fall**
 
-When the unexpected happens, you miss your workout. Next time, be prepared. We'll help you clear 12 of the most common fitness hurdles so you can stay on track.
+When the scenery is beautiful and the temperature comfortable, almost any activity--including exercise--seems more enjoyable. Here are seven ways to get fit and burn calories this autumn season.
 
 Read More
 
-*   Do you have a goal after weight loss?
+*   Describe the last time you felt proud of yourself.
 *   How do you maintain your exercise long-term?
-*   "New to me" foods
-*   What does it mean to eat healthy?
+*   Why the scale isn't a good indicator of health.
 *   Who Motivates you on Sparkpeople?
+*   Healthy Halloween snacks
 
-View Demo **Straight-Arm Plank on Foam Roller**  
-A new variation of the plank that's sure to please! **Southwestern Chicken Soup**  
-Submitted By: **SP\_STEPF**
+View Demo **Camel Stretch**  
+Stretch your abs and spine. **15-Minute Fish with Parsley Pesto**  
+Submitted By: **CHEF\_MEG**
 
-I made this soup after trying a similar one at a restaurant. Theirs had fewer tomatoes, no beans and white rice. I wanted to add more nutrition, so I added spinach, a green pepper and more tomatoes, and I use white meat chicken instead of dark. Beans and brown rice add fiber. This new soup is a good compromise of taste and time Full Recipe
+We tend to think of herbs as garnishes, but parsley takes a starring role in this fresh pesto. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
