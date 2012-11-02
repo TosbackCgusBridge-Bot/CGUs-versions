@@ -1,7 +1,7 @@
 *   Like Us
 *   Follow Us
 
-Pill Identifier Search November 1, 2012
+Pill Identifier Search November 2, 2012
 
 *   Home
 *   Drugs A-Z
@@ -290,7 +290,7 @@ Health Solutions From Our Sponsors
 Featured Topics
 
 *   Rheumatoid Arthritis
-*   Psoriasis Slideshow
+*   Psoriasis Affecting Your Life?
 *   ADHD Medications
 *   Multiple Sclerosis Slideshow
 
