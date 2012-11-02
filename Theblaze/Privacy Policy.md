@@ -21,8 +21,8 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   Hurricane Sandy
 *   Libya: The Truth?
+*   Hurricane Sandy
 *   Campaign 2012
 
 Take Action About TheBlaze
@@ -250,8 +250,8 @@ What is this? Sections
 
 Hot Topics
 
-*   Hurricane Sandy
 *   Libya: The Truth?
+*   Hurricane Sandy
 *   Campaign 2012
 
 More from TheBlaze
