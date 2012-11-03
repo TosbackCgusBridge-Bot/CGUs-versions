@@ -71,9 +71,9 @@ Sign In Sign Out New User Sign Up Profile Management
 
 What's Hot
 
-Celeb Halloween Costumes
+_Glee_: Finn Needs Help!
 
-_Castle_ Peek: Beckett the Geek!
+Weekend TV
 
 _Hairspray_ Star's Weight Loss
 
@@ -140,8 +140,8 @@ more popular movies Top Videos
 1.  Arrow
 2.  The Vampire Diaries
 3.  The Vampire Diaries
-4.  Supernatural
-5.  Hart of Dixie
+4.  Watch the new cold open for Th...
+5.  Supernatural
 
 more top videos
 
