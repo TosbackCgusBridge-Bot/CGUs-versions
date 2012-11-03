@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Edward Norton makes Obama campaign...**  
-        Election 2012 | Rachel Weiner
+    *   **Romney, Ryan rally the faithful...**  
+        Election 2012 | Philip Rucker
     
-    *   **A ‘greatest hits’ of misleading...**  
-        The Fact Checker | Glenn Kessler
+    *   **A Four-Pinocchio Virginia mailer**  
+        The Fact Checker | Josh Hicks
     
-    *   **Don’t look now, but that hoax just...**  
-        She The People | Melinda Henneberger
+    *   **Jill Biden and daughter hit issues...**  
+        She The People | Mary C. Curtis
     
-    *   **The Obama defectors**  
-        The Fix | Aaron Blake and Scott Clement
+    *   **Hurricane Sandy helped Obama politically...**  
+        The Fix | Michael Leahy and Sean Sullivan
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **Tales of the rats, after the storm**  
+    *   **Good decision on NYC marathon**  
         ComPost | Alexandra Petri
     
     *   **Happy Hour Roundup**  
-        The Plum Line | Greg Sargent
+        The Plum Line | Jonathan Bernstein
     
-    *   **Friday’s p-Op quiz**  
+    *   **Bromance lesson for Obama**  
         PostPartisan | Jonathan Capehart
     
-    *   **Morning Bits**  
+    *   **Friday question**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Breezy, brisk...**  
-        Capital Weather Gang | A. Camden Walker
+    *   **D.C. area forecast: Chilled conditions...**  
+        Capital Weather Gang | Ian Livingston
     
-    *   **‘Flight’ and more new movies**  
-        Going Out Gurus | Jess Righthand
+    *   **The 2012 High Heel Race: ‘I wouldn’t...**  
+        Going Out Gurus | Fritz Hahn
     
-    *   **Sheriff’s deputy involved in fatal...**  
-        Crime Scene | Maggie Fazeli Fard
+    *   **Suspect sought in Alexandria robbery...**  
+        Crime Scene | David Marino-Nachison
     
-    *   **Independent in Md. Senate race’s...**  
-        Maryland Politics | Fredrick Kunkle
+    *   **Va. GOP leaders go to Ohio**  
+        Virginia Politics | Laura Vozzella
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -97,16 +97,16 @@
     
     Blogs &. Columns
     
-    *   **Caps’ Karl Alzner, John Erskine...**  
-        Capitals Insider | Ben Sumner
+    *   **NHL cancels 2013 Winter Classic**  
+        Capitals Insider | Katie Carrera
     
-    *   **Comcast SportsNet hires Nicole...**  
-        DC Sports Bog | Dan Steinberg
+    *   **D.C. Uniteds home date change forces...**  
+        DC Sports Bog | Sarah Kogod
     
-    *   **DeAngelo Hall will be fined but...**  
+    *   **No announcement by NFL yet on Halls...**  
         The Insider | Mark Maske
     
-    *   **Adam LaRoche, Sean Burnett decline...**  
+    *   **Nationals give qualifying offer...**  
         Nationals Journal | Adam Kilgore
 *   National In National
     
@@ -123,14 +123,14 @@
     
     Blogs &. Columns
     
-    *   **Sandy and the NYC tech world**  
+    *   **And YOU get a jet...**  
         Ideas@Innovations | Dominic Basulto
     
-    *   **After Sandy, more openness for...**  
+    *   **Should Bloomberg keep the NYC marathon...**  
         PostLeadership | Jena McGregor
     
-    *   **Arlington bishop’s pre-election...**  
-        Under God | Jeannine Hunter
+    *   **Romney and Obama’s quintessentially...**  
+        Under God | Georgetown/ On Faith
 *   World In World
     
     *   Africa
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **WSJ: State Dept. and CIA had secret...**  
+    *   **BBCs Newsnight almost accuses senior...**  
         WorldViews | Max Fisher
     
-    *   **New details on ambassador’s failed...**  
-        WorldViews | Max Fisher
-    
-    *   **Almost all Greeks think their economy...**  
+    *   **Is life in North Korea really not...**  
         WorldViews | Olga Khazan
     
-    *   **Canadians amused by American threats...**  
+    *   **NYT: Mitt Romney wants good relations...**  
+        WorldViews | Max Fisher
+    
+    *   **Libyan militias failed security...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -173,14 +173,14 @@
     *   **Color of Money E-letter:**  
         The Color of Money | Michelle Singletary
     
-    *   **Sandy exposes gaps in wireless...**  
-        Post Tech | Cecilia Kang
+    *   **Carriers still dealing with Sandy...**  
+        Post Tech | Hayley Tsukayama
     
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **Wonkbook: Sandy pushes global warming...**  
-        Wonkblog | Ezra Klein
+    *   **FEMA has 9,106 disaster assistance...**  
+        Wonkblog | Sarah Kliff
 *   Tech In Technology
     
     *   Policy
@@ -191,11 +191,11 @@
     
     Blogs &. Columns
     
-    *   **Analysts look ahead to iPad mini...**  
+    *   **Facebook releases privacy guide...**  
         Hayley Tsukayama
     
-    *   **Sandy exposes gaps in wireless...**  
-        Post Tech | Cecilia Kang
+    *   **Carriers still dealing with Sandy...**  
+        Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
     *   Advice
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Safari D.C. to reopen Dec. 1**  
+    *   **Piemakers gear up for holiday sales**  
         All We Can Eat | Tim Carman
     
-    *   **‘One Night with Janis Joplin’ —...**  
-        The Style Blog | Chris Richards
+    *   **New Obama photo inspires last-minute...**  
+        The Style Blog | Maura Judkis
     
-    *   **ISO mom friends**  
-        On Parenting | Jennifer Kogan
+    *   **Answering the question ‘why vote?’**  
+        On Parenting | Janice D'Arcy
     
-    *   **Truman Capote’s long-lost Katharine...**  
+    *   **Read this: Putin’s sports injury...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,13 +240,13 @@
     *   **A “Tempest” in an opera house**  
         Classical Beat | Anne Midgette
     
-    *   **Chloe Sevigny talks ‘American Horror...**  
+    *   **Britney Spears, novelist?**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **NBC Universal networks to air telethon...**  
+    *   **Colbert and Stewart give Kimmel...**  
         The TV Column | Lisa de Moraes
     
-    *   **Cartoons on the campaign trail**  
+    *   **The Oscars list for animation**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -266,11 +266,11 @@
 
 In the News
 
-*   Libya
-*   Ohio
-*   Michael Bloomberg
-*   Country Music Awards
+*   Karl Rove
+*   Watergate records
 *   Post-ABC poll
+*   Staten Island
+*   NYC Marathon
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -321,92 +321,102 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-In Benghazi timeline, CIA errors but no evidence of conspiracy
+Mitt Romney’s campaign insults voters
 
-David Ignatius 
+Editorial Board 
 
-Last jobs report of the campaign lands as candidates make their final stands
+Hurricane Sandy helped Obama politically, Karl Rove says Virginia voter fraud case expands to focus on GOP firm
 
-Associated Press 
+Carol D. Leonnig 
 
-CIA rushed to save diplomats as Libya attack was underway
+Mitt Romney’s Kamikaze strategy
 
-Greg Miller 
-
-Obama returns to trail as Romney sets sights on Pennsylvania
-
-Philip Rucker 
-
-The choice
-
-Charles Krauthammer 
-
-Obama’s campaign goes empty and strident
-
-George F. Will 
-
-Poll: Race is as close as close can be Secret Service agent being investigated for affair with foreign citizen commits suicide
-
-Associated Press 
-
-Stop looking for politics in a disaster
-
-Haley Barbour 
-
-Catalans fight libel fine with YouTube videos Sandy puts climate change back in the conversation
-
-Melinda Henneberger 
-
-The Democrats who predicted the 2012 campaign
-
-Michael Gerson 
+Greg Sargent 
 
 Jersey Shore begins to register Sandy’s devastation
 
 Carol Morello 
 
-Republicans angle for spots in a Romney administration
-
-Philip Rucker 
-
-Carolyn Hax: Boyfriend oversteps boundaries with trust issues
-
-Carolyn Hax 
-
-The secret story behind Xi Jinping's disappearance, finally revealed? Japan protests after new report of incident involving drunken US serviceman
-
-Associated Press 
-
-Wal-Mart, Target battle but have more in common than you might think
+Fox News’s Bret Baier slims down
 
 Katherine Boyle 
 
-New Nor’easter may hit East Coast next week
+In Benghazi timeline, CIA errors but no evidence of conspiracy
 
-Jason Samenow 
+David Ignatius 
 
-Michael Bloomberg, President Obama and the Fix Endorsement Hierarchy
+Taking America’s pulse
+
+George F. Will 
+
+The Democrats who predicted the 2012 campaign
+
+Michael Gerson 
+
+The choice
+
+Charles Krauthammer 
+
+Five myths about the electoral college
+
+George C. Edwards III 
+
+Romney, Obama refine themes for campaign’s last days
+
+Karen Tumulty 
+
+Mitt Romney could be the next Andrew Johnson
+
+Colbert I. King 
+
+Carolyn Hax: Friend’s kindness is all about her. love in unequal amounts
+
+Carolyn Hax 
+
+Slow pace of recovery from Hurricane Sandy fuels frustration and anger
+
+Carol Morello 
+
+Poll dancing
+
+Kathleen Parker 
+
+2012 Election night: Coloring in the electoral college map
+
+— Tracy Grant 
+
+To blunt ‘fiscal cliff’ pain, administration could assert broad powers, experts say
+
+Zachary A. Goldfarb 
+
+Iraqi officials: Insurgents shoot dead 3 soldiers at checkpoint north of Baghdad
+
+Associated Press 
+
+A security breakdown in Benghazi
+
+Editorial Board 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  In Benghazi timeline, CIA errors but no evidence of conspiracy
-    2.  Last jobs report of the campaign lands as candidates make their final stands
-    3.  CIA rushed to save diplomats as Libya attack was underway
-    4.  Obama returns to trail as Romney sets sights on Pennsylvania
-    5.  The choice
+    1.  Mitt Romney's campaign insults voters
+    2.  Hurricane Sandy helped Obama politically, Karl Rove says
+    3.  Virginia voter fraud case expands to focus on GOP firm
+    4.  Romney's Kamikaze strategy
+    5.  Jersey Shore begins to register Sandy's devastation
 *   Top Videos
-    1.  Will the popular vote and the electoral college split? — Wonk|Fix
-    2.  Sandy devastates Seaside Heights, NJ
-    3.  Chris Christie on Obama: 'The president and I are big boys'
-    4.  New York Mayor Michael Bloomberg endorses Obama
-    5.  Missing Staten Island boys found dead
+    1.  Mounds of white foam spews onto Tokyo street
+    2.  More than half of Venice flooded by heavy rain
+    3.  Inside election night at The Washington Post
+    4.  Sandy devastates Seaside Heights, NJ
+    5.  Romney distorts facts in ads
 *   Top Galleries
     1.  New Jersey faces daunting cleanup and recovery after Sandy
-    2.  Small wonders
-    3.  Newspaper endorsements for president: Romney or Obama?
-    4.  Sandy's devastating blow
-    5.  New York begins recovery
+    2.  Newspaper endorsements for president: Romney or Obama?
+    3.  Small wonders
+    4.  New York begins recovery
+    5.  Sandy's devastating blow
 
 Today's Paper
 
@@ -416,13 +426,13 @@ Today's Paper
 
 Live Discussions
 
+There are no discussions scheduled today.
+
 Tending your garden after Hurricane Sandy
 
 Live Q&A transcript
 
 Adrian Higgins gave readers advice about how to care for their gardens after Hurricane Sandy hit.
-
-**11:00 AM** **Real Wheels Live** **11:00 AM** **The Fix Live** **12:00 PM** **Carolyn Hax Live: Advice columnist tackles your problems (Friday, November 2)** **1:00 PM** **The Latest in TV with Lisa de Moraes**
 
 **Weekly schedule, past shows**
 
