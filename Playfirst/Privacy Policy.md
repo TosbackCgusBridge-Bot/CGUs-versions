@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (23.6 MB) Top Mac Downloads 1 SpongeBob SquarePants Diner Dash 2 Diner Dash: Flo Through Time 3 Parking Dash 4 Avenue Flo 5 Garden Dash 6 Dream Day Honeymoon 7 Avenue Flo: Special Delivery 8 Chocolatier 9 Soap Opera Dash 10 Doggie Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (214.7 MB) Top Mac Downloads 1 SpongeBob SquarePants Diner Dash 2 Diner Dash: Flo Through Time 3 Parking Dash 4 Avenue Flo 5 Garden Dash 6 Avenue Flo: Special Delivery 7 Dream Day Honeymoon 8 Chocolatier 9 Soap Opera Dash 10 Fitness Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -265,15 +265,15 @@ Explore DinerTown like never before
 
 Fresh from the city!
 
-**Play Free!** (77.3 MB) Try It Dream Day Honeymoon Hidden Object Games
-
-Search for the perfect souvenir!
-
-**Play Free!** (81.9 MB) Try It Avenue Flo: Special Delivery Adventure &. Quests Games
+**Play Free!** (77.3 MB) Try It Avenue Flo: Special Delivery Adventure &. Quests Games
 
 Help DinerTown save the event of the year!
 
-**Play Free!** (146.5 MB) Try It Chocolatier Simulation &. Strategy Games
+**Play Free!** (146.5 MB) Try It Dream Day Honeymoon Hidden Object Games
+
+Search for the perfect souvenir!
+
+**Play Free!** (81.9 MB) Try It Chocolatier Simulation &. Strategy Games
 
 Oh, the gloriously rich and delectable life of a chocolatier!
 
@@ -281,11 +281,11 @@ Oh, the gloriously rich and delectable life of a chocolatier!
 
 DinerTown's zaniest soap opera parody!
 
-**Play Free!** (62.4 MB) Try It Doggie Dash DASH™ &. Time Mgmt Games
+**Play Free!** (62.4 MB) Try It Fitness Dash DASH™ &. Time Mgmt Games
 
-Cleanliness is next to Dogliness!
+Get your DASH game in peak condition!
 
-**Play Free!** (17.5 MB) Try It Log In New to PlayFirst?
+**Play Free!** (20.3 MB) Try It Log In New to PlayFirst?
 
 Sign up below to create a new PlayFirst account.
 
