@@ -16,7 +16,7 @@ ship to: United States | change $8.95 flat-rate shipping &. free shipping on ord
 
 *   Shopping Bag
 
-Need to reach us? For all customer service inquiries, please call 800.562.0258. \*details CLOSE X \* Our thoughts go out to everyone affected by Hurricane Sandy. As a result of the recent weather conditions, there may be slight delays in shipping. Please call 800.562.0258 if you need to reach us--our email is currently down. We appreciate your patience and understanding.
+25% off &. free shipping on your order of $150+ with code OURTREAT. Online only. \*details CLOSE X \*Offer valid at jcrew.com only. Offer not valid at jcrewfactory.com, J.Crew retail stores or J.Crew Factory stores. Offer valid in the U.S. and Canada only. Offer not applicable on In Good Company third-party branded partnerships or men's suiting. Offer does not apply to previous purchases, alterations or the purchase of gift cards. 25% discount applies to online orders of $150 or more before shipping, handling and taxes are added. Free shipping offer is valid on Internet orders shipped via regular shipping (3 to 6 business days). Free shipping applies only to online orders of $150 or more before shipping, handling and taxes are added. Offer valid through Thursday, November 8, 2012, 11:59pm ET. Savings and free shipping are applied at checkout with code OURTREAT. Offer not valid on phone orders. Cannot be combined with any other promotion or redeemed for cash. Limit one promotional code per order. Details of offer are subject to change.
 
 *   CHECK ORDER STATUS
 *   REGISTRATION Q&A
