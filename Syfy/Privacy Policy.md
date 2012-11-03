@@ -87,14 +87,14 @@ Please be aware that our games are governed by additional terms of use posted on
 User Profile  
 We may also offer you the option to complete a user profile that is visible to other users of the Website. This profile may include:
 
-*   \[profile photo\]
-*   \[username(s) and/or a website ID number\]
-*   \[gender\]
-*   \[interests / hobbies\]
-*   \[occupation\]
-*   \[biographic details\]
-*   \[links to your profiles on social networking sites (e.g. Facebook)\]
-*   \[details about games you play\]
+*   profile photo
+*   username(s) and/or a website ID number
+*   gender
+*   interests / hobbies
+*   occupation
+*   biographic details
+*   links to your profiles on social networking sites (e.g. Facebook)
+*   details about games you play
 
 Message Boards, Chat Rooms, Blogs and Other User Forum  
 Personal information posted to message boards, chat rooms, blogs and other user forums becomes public information. Please use caution when using these features of our Website. Please see our Terms of Use for the standards of behaviour that must be followed when using these sections of the Website.
@@ -181,7 +181,7 @@ If you choose to write, please send us a signed letter of request with your addr
 
 This Website is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that this Website is appropriate for use in any particular jurisdiction. Those who choose to access this Website do so at their own initiative and are responsible for complying with all local laws, rules and regulations.
 
-8\. Updates to Our Privacy Notice.
+8\. Updates to Our Privacy Notice
 
 From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make material revisions to the way we collect or use your personal information such that we are using it for purposes or sharing such data with third parties that you have not consented to, we will provide you with notice of those changes and may do so by either: (1) announcing the change on the home page of this Website or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this Privacy Policy on this Website. You can determine when this Privacy Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to this Privacy Policy will become effective upon posting of the revised Privacy Policy on the internet, accessible through this Website. By continuing to use this Website following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Website.
 
