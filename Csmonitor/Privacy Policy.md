@@ -25,7 +25,7 @@ Sign up for FREE E-Newsletters:
 *   Politics
 *   Food (Stir It Up!)
 
-**Subscribe** and **save 75**
+**Subscribe** and **save 57**
 
 %
 
@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Saudi Arabia: Explosion topples building, burns cars (+video)
-2.  After Sandy, residents 'feeling anxious' about fuel supplies (+video)
-3.  Are we all 'Bronco Bamma' girl, so tired of election we could cry? (+video)
-4.  Mob burns girls' school in Pakistani city over alleged blasphemy
-5.  Many questions, few answers about loss of HMS Bounty to hurricane Sandy
+1.  How hurricane Sandy tests Obama, Romney
+2.  Denzel Washington in 'Flight' (+trailer)
+3.  War-crime accusations emerge as Syrian rebels take strategic town
+4.  Unemployment rate ticks up: Will it affect the election? (+video)
+5.  Might Mitt Romney snatch Pennsylvania from President Obama? (+video)
 
 About these ads
 
@@ -116,12 +116,12 @@ Editors' Picks:
     
     Using his laptop, Kebedom Mengistu publishes Hadush Zemen (New Century), a newspaper for refugees from Eritrea who've survived the perilous trip and settled in Israel.
     
-*   How Maryland's gay marriage vote could echo beyond blue states
-*   Decoder Wire: Are we all 'Bronco Bamma' girl, so tired of election we could cry? (+video)
-*   Backchannels: Report: $800 million is snuck out of Iraq each week
-*   Many questions, few answers about loss of HMS Bounty to hurricane Sandy
+*   Illegal immigration: why eyes will be on Maryland this Election Day
+*   Global News Blog: Good Reads: ugly oil harvests. dueling environmentalists. and morality in animals
+*   Global News Blog: How the Chinese deal with failure
+*   Reverse brain drain: How three siblings recreated a century-old Polish resort
 
-_Photos of the day_ 11.01.12 » Photos of the day 11/01
+_Photos of the day_ 11.02.12 » Photos of the day 11/02
 
 **CSMonitor.com** on Facebook
 
@@ -133,24 +133,28 @@ Give Good
 
 What happens when ordinary people decide to pay it forward? Extraordinary change...
 
-Polar bears are threatened by climate change.
+Kebedom Mengistu holds a copy of New Century, the community newspaper he established for Eritrean refugees in Israel.
 
-John Bergmann runs a special zoo for older, exploited, and abused animals
+Little newspaper gives hope to Africans who've fled to Israel
 
-John Bergmann manages Popcorn Park, a special zoo in New Jersey that gives a home to distressed wildlife and exotic and domesticated animals.
+Using his laptop, Kebedom Mengistu publishes Hadush Zemen (New Century), a newspaper for refugees from Eritrea who've survived the perilous trip and settled in Israel.
 
    
 
 Become part of the Monitor community
 
-*   USA Are we all 'Bronco Bamma' girl, so tired of election we could cry? (+video)
+*   The Culture Christopher Walken stars as a talented cellist in 'A Late Quartet'
+*   The Culture Sean Penn turns in an over-the-top performance in 'This Must Be the Place'
+*   The Culture Denzel Washington in 'Flight' (+trailer)
+*   Books NaNoWriMo: 6 things you need to know about the writing challenge
+*   The Culture The X Factor Final 12 revealed (+video)
+*   Making a Difference Kebedom Mengistu's little newspaper gives hope to Africans who've fled to Israel
+*   USA Are we all 'Bronco Bamma' girl, so tired of election we could cry?
 *   The Culture 'Star Wars: Episode 7' - Were we wrong about George Lucas all along? (+video)
 *   USA Could the 49ers pick up where San Francisco’s Giants left off? A Week 8 NFL quiz
 *   Business How to become an NFL referee? Start early.
-*   Making a Difference John Bergmann runs a special zoo for older, exploited, and abused animals
 *   Innovation Meet Apple's thinner, faster, stronger iMac
 *   World Briefing: Who are China's potential new leaders?
-*   World Focus: Can a gang truce in El Salvador open the door to lasting peace?
 
 About these ads
 
