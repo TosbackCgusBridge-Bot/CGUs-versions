@@ -6,7 +6,7 @@ Learn how to enable JavaScript in your browser or call 1-800-426-8020 for assist
 
 Skip to Content   
 
-*   Shopping Bag: **3 Items**
+*   Shopping Bag: **0 Items**
 
 *   Your Account
 *   Order Status
