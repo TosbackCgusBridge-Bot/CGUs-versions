@@ -6,9 +6,11 @@ StumbleUpon
 
 Already a member? Sign in
 
-We do not support the version of your browser. Please upgrade to the latest version of your browser so that you can discover new web pages personalized for you!
+Sorry! StumbleUpon requires a more recent browser.
 
-Don't tell me what to do!
+Your browser appears to be out of date. Please upgrade to the latest version of your browser so that you can discover new web pages personalized for you!
+
+If you'd like to take your chances with your current browser, click here to continue.
 
 © 2012 StumbleUpon
 
