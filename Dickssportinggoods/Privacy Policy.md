@@ -80,9 +80,8 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Swimming
         *   Golf
         *   Cheerleading
-        *   Gymnastics
         *   Bowling
-        *   Combat Sports Equipment
+        *   Combat Sports
         *   Table Tennis
         *   Indoor Games
         *   View All »
@@ -458,9 +457,9 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         MLB
         *   San Francisco Giants
         *   Detroit Tigers
+        *   Houston Astros
         *   St. Louis Cardinals
         *   New York Yankees
-        *   Washington Nationals
         *   View All »
     *   NCAA
         
