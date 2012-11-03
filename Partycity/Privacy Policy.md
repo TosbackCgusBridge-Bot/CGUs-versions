@@ -54,7 +54,11 @@ Sign up for emails to receive discounts on
 party supplies and Halloween costumes  
 from Party City.
 
-Subscribe What is RSS? © Party City **Customer Favorites**  
+Subscribe What is RSS? © Party City California Class Action Notice  
+Visit www.partycitysettlement.com or  
+call (877) 522-0446 for information  
+about a recent class action settlement  
+that could affect your rights. **Customer Favorites**  
 Birthday Party Supplies  
 Theme Party Supplies  
 Wedding Favors  
