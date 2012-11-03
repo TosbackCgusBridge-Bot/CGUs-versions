@@ -1,136 +1,139 @@
-1.  Nov 1, 2012 11:56pm Tweet Cue The Surprise Face: Taylor Swift Didn’t Win Any Country Music Awards
+1.  Nov 3, 2012 12:46am Tweet Here Are MTA Photos of Flooded Subway Tunnels Under the East River
     
-    Taylor Swift, god’s beacon of happiness and feeling, had a very bad night. A night so bad that it just may end up on her next album. This is worse than Kanye-interruption-gate: Taylor Swift didn’t win any awards at this year’s Country Music Awards.
-    
-    TSwift was nominated for three of the night’s 12 awards. She lost “entertainer of the year” to Blake Shelton, “female vocalist of the year” to Shelton’s wife Miranda Lambert, and “musical event of the year” to Kenny Chesney.
+    Earlier tonight, the MTA released its first pictures from flooded subways in the Cranberry Street Tunnel, which carries the A and C lines beneath the East River.
     
     Read More
     
      
-2.  Nov 1, 2012 11:21pm Tweet
+2.  Nov 2, 2012 11:52pm Tweet
     
-    Some skateboarders in Sunnyside Gardens, Queens used the downed trees and destruction in their neighborhood to their advantage and built a skate ramp.
-    
-    Pretty sure this qualifies as “rad.”
-    
-    \[_Image via Reddit_\]
+    Nate Silver is still working his pro-Obama, anti-Romney witchcraft, but this time to the fifth decimal place.
     
      
-3.  Nov 1, 2012 11:03pm Tweet Jersey Shore Cast Trying Their Best To Help Out Hurricane Relief Efforts
+3.  Nov 2, 2012 11:16pm Tweet
     
-    Snooki and her trusty gang are lending their spray tanned hands to help out New Jersey in the aftermath of this week’s storm. Snooki tweeted this morning, “Cleaning my closet today to donate clothes and whatever I can do the victims affected by sandy! I’m comin with clothes!!!!”
+    > THE BOTTOM LINE: There is evidence that large-scale catastrophes may influence birth and marriage rates, but in which direction is not clear.
     
-    Spikey-haired darling, DJ Pauly D, tweeted that today was “Jerzday” and started the hashtag #restoretheshore. Vinny also said that he gave money to the Red Cross via text message.
+    —  _The New York Times_ health blog looks into the rumor that natural disasters lead to more  babies and marriages. Thanks for nothing, scientists.   
+4.  Nov 2, 2012 9:42pm Tweet Kyrgyzstan Journalist ‘Mock’ Kidnapped at Gunpoint by Fellow Journalists as Part of Practical Joke
+    
+    Two reporters/practical joke columnists (really) who worked for a Kyrgyzstan paper decided to step up their joke game in a normal, reasonable way, which was: by kidnapping the host of an popular entertainment show at gun point and forcing her to strip and dance for them.
     
     Read More
     
      
-4.  Nov 1, 2012 9:57pm Tweet
+5.  Nov 2, 2012 8:19pm Tweet John Cusack Developing Film About America’s Most Popular Misogynist, Rush Limbaugh
     
-    Take a brief pause from your nighttime Sandy obsession and watch this video completion of misheard song lyrics.
+    Active Twitter liberal John Cusack is developing a film about Rush Limbaugh, tentatively and creatively titled “Rush.” And, of course, the former Lloyd Dobler will play the popular conservative radio host/misogynistic racist himself. As the Associated Press notes:
     
-    It might just be the press the cheese you need right now. Sorry, the “stress relief” that you need right now.
+    > Cusack as Limbaugh isn’t typecasting, politics aside. Cusack is a slender, dark-haired 46-year-old, while Limbaugh is 61, balding and portly. But Hollywood’s makeup experts have probably had greater challenges.
     
-     
-5.  Nov 1, 2012 9:34pm Tweet Storm Ravaged Staten Island Is Really Mad That the Marathon Is Still Happening
+    Ha, yes. All of that is true, AP. Also, this movie will almost certainly be awful. Production starts next year, which means it should be ready for hungover Saturday morning viewing on Netflix sometime in early 2014.
     
-    In the aftermath of this weekend’s storm, few places have been hit worse than Staten Island. Anderson Cooper said on tonight’s _AC 360_ that Staten Island “hasn’t got the attention it should have in the last few days” and focused most of his show on the now-found bodies of two Staten Island children who were lost in the storm.
-    
-    But today Mayor Bloomberg announced that the New York City Marathon would still start on the Staten Island side of the Verrizano bridge. This has been the final straw for many an angry Staten Island resident.
-    
-    Read More
+      
     
      
-6.  Nov 1, 2012 8:53pm Tweet
+6.  Nov 2, 2012 6:33pm Tweet
     
-    Here’s a picture of President Obama that’s making the rounds right now. The picture was taken on Sunday and shows Obama realizing that he dialed the wrong number while making calls from a local campaign field office during a unscheduled visit in Orlando, Florida.
+    Hopefully, we’ll have the “e” back in this site on Monday and we can all start to come out of the darkness relatively unscathed. Thanks to Tumblr for the help. Thanks to those readers who enjoyed this old-school exhibition. And thanks to the writers for being patient. 
     
-    He looks exhausted.
+    And, of course, thanks for your continued support of Gawker/Gawkr. 
     
-    \[_Image via AP_\]
-    
-     
-7.  Nov 1, 2012 8:29pm Tweet Oprah’s Favorite Things List Has Seen Better Days
-    
-    November is finally here, which means Christmas, which lasts from November to January, is here too. Oprah released her Favorite Things list today, right on time for the premature holiday season. Unfortunately, this year’s splattering of ritzy items that our brokeass family would never buy for us pales in comparison to lists of years past.
-    
-    For one thing, foodstuffs containing truffles take up five spots of the 48-item list. Everyone knows that if you use truffle oil on _Chopped_, you get eliminated on the spot. C’mon Oprah, what is this amateur hour?
-    
-    Read More
+    _Photo of Elizabeth St. with electricity this evening courtesy Nick Denton. If all goes well, we’ll be returning to work there on Monday._
     
      
-8.  Nov 1, 2012 7:33pm Tweet Did Comcast Really Ask A Sandy Evacuee For Her Cable Box Back?
+7.  Nov 2, 2012 6:31pm Tweet Mother’s Two Sons Die During Hurricane After She Is Refused Help by Staten Island Neighbors
     
-    Cable companies are the absolute worst, so it’s not surprising that Comcast told a woman who just lost one of her two New Jersey homes that she would be getting charged extra if she didn’t manage to return her cable box.
+    jezebelcom:
     
-    Blogger Seth Clifford gave the details of his parents woes on his personal site. His family’s Mantoloking, New Jersey, beach bungalow was swallowed up by the sea, but their main home was still standing, surrounded by gas leaks which makes it completely inaccessible.
-    
-    Read More
-    
-     
-9.  Nov 1, 2012 7:09pm Tweet Nate Silver’s Braying Idiot Detractors Show That Being Ignorant About Politics Is Like Being Ignorant About Sports
-    
-    deadspincom:
-    
-    > **By David Roher**
-    > 
-    > In case you haven’t been hanging around the benighted corners of the political internet lately, there’s an idiotic backlash afoot against Nate Silver, the proprietor of the FiveThirtyEight blog who made his name as one of the sharpest baseball analysts around.
-    > 
-    > With the election just a few days away, analysis based on state poll aggregation—Silver’s included—suggests that Barack Obama is a heavy favorite against Mitt Romney. The president holds a slight but strong lead in key electoral states. This doesn’t sit well with many political pundits, who insist that the outcome is anyone’s guess and headed down to the wire. Many of these people have directed their anger toward Silver, whose _New York Times_\-hosted blog has predicted a strong probability of an Obama victory since June. They insist he is biased or sloppy in his methodology, even though they seem unaware of how he makes his predictions and of statistical analysis in general. They say—and I’m not kidding—he’s too gay for this sort of work.
-    > 
-    > In retrospect, we should’ve seen it coming. It was only a matter of time before the war on expertise spilled over into the cells of Nate Silver’s spreadsheets. In fact, in some ways it had already. Turns out that nothing could have prepared Silver better for the slings and arrows of a surly and willfully obtuse pundit class than working on the fringes of sportswriting over the past decade. 
+    > Two little boys who were literally swept out of the arms of their mother during the hurricane have been found dead. But that’s not the whole story, and it gets even sadder: 39-year-old Glenda Moore, the mother of the two boys (pictured above with her husband, Damian), knocked on doors in her Staten Island neighborhood, begging for help during the hurricane. No one would assist her, her sister claims.
     > 
     > Read More
     
      
-10.  Nov 1, 2012 6:52pm Tweet A Bike Tour Through Blackout Manhattan. Or, How to Get the Corner Booth at The Spotted Pig
+8.  Nov 2, 2012 6:31pm Tweet At Long Last, Ricky Martin Weighs In On the Marathon
     
-    Last night I left my warm, powered apartment in Fort Greene, Brooklyn, and biked over the Brooklyn Bridge into lower Manhattan with two friends. It was the most perverse kind of adjusted New Yorker tourism: leave behind your quaint Brooklyn neighborhood, with unlimited burrata and cold craft beers, to see the blacked-out skyscrapers of Wall Street in the dark. But we were getting antsy—my muscles may be atrophying by now, I think—and we wanted to see it for ourselves.
+    Before it was cancelled this afternoon, Ricky Martin was asked whether or not he thought the New York City marathon should continue as planned. “Yeah, the show must go on,” he said while wearing a hat that was just a tiny bit too small for his head. Interesting, Ricky Martin, very interesting opinion you have there.
+    
+    He then posed with a girl in a pink jacket, touched her head affectionately, and vanished into the crowd. 
+    
+    \[TMZ\]
+    
+      
+    
+     
+9.  Nov 2, 2012 6:09pm Tweet 7 Things I Learned While Working from Home This Week
+    
+    **1. These are the WNBC newscasters ranked in order from Best to Worst:**
+    
+    #1 Pat Battle  
+    #2 Brian Thompson  
+    #3 Everyone else  
+    #4 Janice Huff
+    
+    Here are a few of the things I saw Pat Battle do while covering Hurricane Sandy on-the-scene in New Jersey.
     
     Read More
     
      
-11.  Nov 1, 2012 6:34pm Tweet The Luckiest Meh: A Williamsburg Sandy Experience
+10.  Nov 2, 2012 6:05pm Tweet It’s Time for New York to Invade Connecticut and Steal All Their Gas
     
-      
-    Last night at Williamsburg’s most popular gay bar, the Metropolitan, it barely felt like Halloween. It was packed with guys who weren’t in costume. Those who were dressed up mostly came as women — some woman, any woman — which they probably don’t need Halloween as an excuse to do. The music was normal, barely spooky. Siouxsie &. the Banshees’ “Peek a Boo” bled into a key-clashing mash-up of Madonna’s “Holiday” and Kelis’ “Milkshake.” I did hear “Thriller,” _the_ sound of the season, as I headed outside into weather that was a little too warm, but perfectly crisp for Oct. 31.  
-      
-    Things are a little askew – not enough to be wildly fucked up, but it’s that small degree that makes for intense surreality. It changes the tint so that the weirdness is vivid, despite being scant. A giant storm crippled my great city. It’ll be months before everything is normal, and yet from my window, it rained a little before settling into a week-long overcast funk. I can go anywhere and get anything I need on foot. New York is hurting and Williamsburg is, “Meh,” as ever.
+    Even as power slowly returns, Post-Sandy New York City remains a desperate snarl of lines for fuel and transportation. But we hear that just to the northeast lies a pristine land of plenty: Connecticut. Now we must ask: Is it time for New York to invade The Constitution State?
+    
+    After soliciting horror stories from the New York City gas shortage  earlier today, we received not one, but two emails from people bragging… er, informing us of Connecticut’s vast petroleum reserves. There, fuel flows like the sap of sugar maples on a crisp New England night. Sweet, sweet gas.
     
     Read More
     
      
-12.  Nov 1, 2012 6:32pm Tweet
+11.  Nov 2, 2012 5:41pm Tweet Here Is a List of People Bubba The Love Sponge’s Ex-Wife Is Also Rumored To Have Had Sex With On Camera
     
-    New York’s soda-hating mayor, Michael Bloomberg, decided to endorse President Obama for reelection this afternoon, after realizing that Republicans just don’t care about climate change.
+    After we posted a brief clip of Hulk Hogan’s sex tape last month, TMZ reported that there were three other tapes made. We actually heard there were more than that. Soon after the initial Hulk Hogan not-so-sex-filled “sex tape” was published on Gawker, a man who called himself “Jim Janerro” wrote to us. He claimed he had more footage of Bubba’s wife getting it on in the same bedroom with numerous other partners, including other scenes with her and Hogan. He said there were “lots of black guys” involved, too. “Jim” claimed he found the tapes in a box of promotional DVDs he purchased at the annual Bubba Army Garage Sale last year.
     
-    Well it seems the headline writers at Fox News didn’t take too kindly to this development. The Fox News homepage links to a story called “Bloomberg Backs Romney,” which accurately describes Bloomberg’s Obama endorsement.
-    
-    News that’s fair and balanced. Or just wrong. Whichever comes first at this point really.
-    
-    \[Via @Samsteinhp\]
+    Read More
     
      
-13.  Nov 1, 2012 6:15pm Tweet
+12.  Nov 2, 2012 5:18pm Tweet
     
-    gizmodocom:
+    Multiple outlets are reporting—on Twitter—that Sunday’s New York City Marathon has been cancelled due to Hurricane Sandy complications. With many people questioning whether a marathon was a wise use of resources in a time of relative scarcity, this was probably a good decision by the mayor’s office.
     
-    >   
-    > Flood Destruction in Staten Island Could Be Much Worse than We Think
+    —Cord
+    
+     
+13.  Nov 2, 2012 5:17pm Tweet Power’s back in the East Village.
+    
+    > AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
     > 
-    > Post-Sandy conditions on Staten Island are both horrific and tragically underreported—many have died in mass flooding, either unwilling or unable to evacuate in time. Now we’re getting reports that the casualties have become so bad that Egbert Intermediate School near Midland Beach has been turned into a makeshift overflow morgue.
+    > — Richard Lawson (@rilaws) November 2, 2012
+    
+    Courtesy of _The Atlantic_’s Richard Lawson, who’s been without power all week. We’ll consider this a good start to the weekend.
+    
+     
+14.  Nov 2, 2012 4:50pm Tweet Flight’s Shallow Depth
+    
+      
+      
+    A junky argues with her landlord while the Red Hot Chili Peppers’ heroin ballad “Under the Bridge” plays in the background. Then, when she shoots up, we hear a cover of the Velvet Underground’s “Sweet Jane.” An alcoholic druggie purges his stash and looks longingly at wedding pictures for a marriage that eventually failed to the strains of Bill Withers’ “Ain’t No Sunshine.” A drug dealer is brought in to deliver some hangover-busting cocaine and the refreshed drunk rides the elevator down from his hotel room to a muzak version of “With a Little Help from My Friends.”  
+      
+    The obviousness of _Flight_’s soundtrack is a great indication of Robert Zemeckis’ film’s overall triteness. This is a movie of soap opera eyes during an embrace that leads to a Dear John letter. A movie where Denzel Washington does a drunken mumble that’s so put on, I wonder if he’s ever actually seen a drunk person before. It’s a movie of the chin-stroking moviegoer’s favorite sensibility, shallow depth, in which a character needs only one and a half layers to carry a film that the masses will consider complexly satisfying.
+    
+    Read More
+    
+     
+15.  Nov 2, 2012 4:45pm Tweet ConEd: Your Power’s Back. ConEd: Psych, Still Out.
+    
+    Not long after Bloomberg’s news conference this afternoon, during which he announced that ConEd could have power restored in most of Manhattan by midnight, did the cries of joy begin eruptnig across Twitter.
+    
+    > ConEd just robocalled. I have power! Fingers crossed they are right.
     > 
-    > Read More
+    > — tara flanagan (@taraflanagan) November 2, 2012
     
-     
-14.  Nov 1, 2012 6:10pm Tweet
+    > ConEd just called to tell me I HAVE THE POWER!!!
+    > 
+    > — Ashley Van Buren (@avb) November 2, 2012
     
-    Here’s right-wing pollster genius Dean Chambers’ projected election map, available on his website UnSkewed Polls, which “unskews” the polls by fucking with the numbers until they feel right. Chambers projects Minnesota to go to Romney, 51-47 (“this will surprise many,” he acknowledges), a smaller margin of victory than Romney’s in Pennsylvania, 53-47: “Big time upset.” Why should we trust Chambers, who writes for the blogspam site Examiner.com and has no formal background in statistics or mathematics, over, say, _New York Times_ contractor Nate Silver and his FiveThirtyEight model? “Nate Silver,” Chambers wrote last week, “is a man of very small stature, a thin and effeminate man with a soft-sounding voice that sounds almost exactly like the ‘Mr. New Castrati’ voice used by Rush Limbaugh on his program.” Right.
-    
-     
-15.  Nov 1, 2012 5:36pm Tweet Neighbor: New Jersey Senator Bob Menendez Screwed a Different Young Lady Every Night, Loudly
-    
-    New Jersey Sen. Bob Menendez is the subject of a recent, much-hyped Daily Caller report alleging that he takes “sex trips” to the Dominican Republic, where at least two women say they were paid to have sex with him. Considering the fact the Daily Caller is a perverse joke run by a ruined prodigy, this may or may not be true. What _is_ true, according to someone who was unfortunate enough to live in the unit below Menendez’s Washington, D.C., apartment, is that he would bring home a different young, attractive lady almost every night, put on a little jazz, and fuck loudly until 3 a.m.
+    > A coworker who lives in Chelsea just got a call from ConEd: power restored! “We thank you for your patience.”
+    > 
+    > — Emily Steel (@emilysteel) November 2, 2012
     
     Read More
     
