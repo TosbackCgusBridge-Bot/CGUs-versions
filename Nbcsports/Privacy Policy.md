@@ -1,78 +1,78 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: WATCH LIVE: TODAY’s special coverage of Sandy
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Clippers show Lakers the door
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Mike Blake / Reuters Chargers stick up for Turner
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Tim Shaffer / Reuters Saints set to ground Eagles?
     
-    PFT: As speculation about Norv Turner's job security swirls, QB Philip Rivers maintains "we play for our coach."
+    PFT's Picks: New Orleans primed to deliver knock out punch to Michael Vick and Philadelphia, plus other predictions this weekend.
     
-    PFT: Two defensive TDs help Chargers blitz Chiefs PFT's Week 9 Picks: Saints set to ground Eagles? PFT: Steelers can't find a hotel in New York PFT: Dungy says same-day travel not a big deal PFT: Pats trade for troubled Bucs CB Talib Flacco explains what it's like without Lewis PFT: RG3: Compare me to Rodgers, not Newton Could Alabama beat a pro team? Ad
+    Reid: Vick is the starter, period Midseason NFL mock draft PFT: Saints' Sproles sidelined with broken hand PFT: NFL wise to play Steelers-Giants on Sunday? PFT: Dungy says same-day travel not a big deal PFT: MJ has advice for neighbor Newton PFT: Chargers stick up for Turner with win PFT: Pats trade for troubled Bucs CB Talib Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Michael Ivins/Boston Red Sox / Getty Images Contributor Red Sox should give Ortiz two years
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Elsa / Getty Images Red Sox, Ortiz reach $26 million deal
     
-    CSN: The fear is that Big Papi will break down again and, yes, that would be unfortunate. But at this point, that risk is worth the reward.
+    HBT: CSN Boston’s Sean McAdam reports that the Boston Red Sox and designated hitter David Ortiz have come to terms on a two-year deal worth a guaranteed $26 million. Incentives could make it worth $30 million.
     
-    DeMarco: 'Terrific' Bochy could keep SF on top HBT: Giants won't make qualifying offer to Pagan HBT: Ex-pitcher Pascual Perez killed at home HBT: Marlins hire Redmond to replace Ozzie HBT: Romo's parade T-shirt: 'I just look illegal' HBT: State of Rhode Island sues Schilling HBT: Yankees are interested in Torii Hunter HBT: Angels' top priority is re-signing Greinke Ad
+    HBT: Haren free agent after deal fails, option declined The top 50 free agents DeMarco: Bargains to be had in free agent market HBT: MLB, MLBPA donate $1 million to Sandy relief HBT: McGwire reportedly new Dodgers hitting coach DeMarco: 'Terrific' Bochy could keep SF on top HBT: Giants won't make qualifying offer to Pagan HBT: Ex-pitcher Pascual Perez killed at home Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Julio Cortez / AP 3 reasons fans might not come back
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Paul Sancya / AP NHL cancels Winter Classic
     
-    PHT: Back in August, before the current NHL lockout had officially begun, commissioner Gary Bettman said that the league recovered from the loss of the 2004-05 season because it has the “world’s greatest fans.” But will they come back this time?
+    PHT: It's the biggest blow yet because of the league's labor woes — the annual outdoor classic has been scrapped. The Leafs and Wings were set to play at the University of Michigan on Jan. 1.
     
-    Is this really worth it for players? Players expect to get escrow checks Wednesday PHT: Fehr opens up on negotiating tactics Feds: Ex-Oilers owner gets probation extended PHT: Bozak under fire for Michael Jackson costume PHT: Club fined for fans' racist taunts at Simmonds PHT: Fleury, Miller might go to Europe PHT: Johnson rips owners on Jackets' website Ad
+    PHT: Michigan will get Winter Classic in '14 PHT: NHL offers concession on 'make whole' provision PHT: NHL, union won't turn to mediator yet PHT: Talks to resume in 'relatively near future' PHT: 3 reasons fans might not come back PHT: Is this really worth it for players? PHT: Fehr opens up on negotiating tactics PHT: AHL team scores twice in 3 seconds Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines D. Clarke Evans / Getty Images Contributor Spurs show OKC how it's done
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Jason Decrow / AP Carmelo cools off the Heat
     
-    PBT: Tony Parker's game-winning jumper capped a wild game that showed Thunder can manage without James Harden, but getting ball to Kevin Durant in crunch time still an issue.
+    Carmelo Anthony had 30 points and 10 rebounds, and the Knicks gave suffering New Yorkers something to cheer with a 104-84 victory over the Miami Heat in their storm-delayed season opener Friday night.
     
-    Parker's buzzer-beater ruins Thunder's opener PBT: Nets' home opener moved to Nov. 26 PBT: LeBron vs. 'Melo at power forward, wow! Houston happy with Harden One-on-one with Anthony Davis Winderman: Making sense of rookie extensions Jordan: I'm committed to Bobcats for long haul PBT: Stan Van Gundy to join NBC Sports Radio Ad
+    PBT: Knicks play like adults, spank Heat Clippers show Lakers the door PBT: Clippers have an ID. Lakers (0-3) don't PBT: Three Stars of the Night, Upset Edition Harden drops 45 as Rockets beat hawks Bobcats top Pacers, end 23-game skid Bucks down Celtics, win first opener in six years Hamilton, Boozer help Bulls rip Cavs Ad
 *   CFB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines NBC Sports Previewing the big weekend
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Dave Martin / AP A brief Tide slide good for SEC?
     
-    SportsTalk: Pat Forde looks at the top Week 10 college football action, including Alabama-LSU and Oregon-USC, and picks whether Kansas St. or Notre Dame is more likely to finish unbeaten.
+    Ventre: Within the SEC, it also feels like there is Alabama, and then there is everybody else. The No. 1 Crimson Tide is so money these days that everybody else in the mighty conference is playing for second place.
     
-    Tamanaha: What's in store for those unbeatens? CFT's Predictions 101: Unbeatens will stay that way BCS officials say Notre Dame an attractive option Can Alabama stay undefeated? CFT: Miami handles Hokies, eyes ACC title game Jets' Tebow, K-State's Klein lead parallel lives Ventre: Why an Alabama loss would be good for SEC Saban: Game manager label is high praise for QB Ad
+    SportsTalk: Previewing the big weekend CFT's Predictions 101: Unbeatens will stay that way Tamanaha: Will Tide, Irish, 'Cats, Ducks run table? Alabama-LSU: Another showdown in epic rivalry SportsTalk: Can Alabama stay undefeated? No. 2 Oregon eager to take down No. 18 USC Okla. St. out to end No. 3 K-State's perfect season Jets' Tebow, K-State's Klein lead parallel lives Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Jared C. Tilton / Getty Images Keselowski in Johnson's way
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Tony Gutierrez / AP Danica getting used to 'old man'
     
-    Denny Hamlin has conceded his championship chances, and Clint Bowyer and Kasey Kahne are fading fast. So what's stopping Jimmie Johnson from cruising to a sixth NASCAR championship?
+    Danica Patrick will have to get used to being called "old man" sometimes. That's the phrase Tony Gibson, her new NASCAR Sprint Cup crew chief, uses to refer to drivers he works with, like Mark Martin and Dale Earnhardt Jr., in the past. That's not likely to change with Patrick.
     
-    Danica's 1 regret about bumping Cassill: execution James Buescher looks for win on big Texas track Belskus: IndyCar moving on, bullish about future Ferrari, Vettel take duel to desert Randy Bernard steps down as IndyCar CEO Simona de Silvestro signs with KV Racing for 2013 Johnson wins at Martinsville, takes points lead Earnhardt talks of anxiety caused by concussions Ad
+    Danica's 1 regret about bumping Cassill: execution Cup leader Johnson on Texas pole, Keselowski 8th Keselowski standing in Johnson's way of 6th title Jimmie Johnson, NASCAR giving to Sandy efforts Belskus: IndyCar moving on, bullish about future Sauter wins Texas truck race. Buescher keeps lead Ecclestone dismisses concerns about Bahrain GP Vettel fastest in 2nd practice at Abu Dhabi GP Ad
 *   BKC
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Lenny Ignelzi / AP McDermott tops our PF rankings
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Darron Cummings / AP Indiana is No. 1
     
-    CBT: The nation's best power forward plays for Creighton? Yup. Actually, mid-major schools boast guys in the top three spots.
+    CBT's top 25 countdown: The Hoosiers may be the favorite, but if they can’t fix some of their problems on the defensive end of the floor, they could end up getting picked off in the NCAA tournament by a team that gets hot on the right night.
     
-    Conference previews: Summit  |  Southern Conference previews: Patriot |  Ohio Valley Arizona, UCLA lead way in Pac-12 preseason poll Stan Van Gundy to analyze games on NBCSN CBT: Buzzing about Marquette's new look CBT: Baylor lands another talented big man Fresno St.'s star recruit to miss 4 weeks Iowa St. suspends Babb for three games Ad
+    CBT: Zeller tops our center rankings Conference previews: Summit  |  Southern Conference previews: Patriot  |  Ohio Valley CBT's top 25 countdown: Louisville No. 2 Arizona, UCLA lead way in Pac-12 preseason poll Stan Van Gundy to analyze games on NBCSN CBT: Buzzing about Marquette's new look CBT: Baylor lands another talented big man Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Palmer jokes: Break McIlroy's arm if he doesn't play Bay Hill
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Cut Line: Rumor Has It
     
-    Rory McIlroy has never played the Arnold Palmer Invitational. And if he decides against teeing it up again in March, there might be some repercussions – from The King himself.
+    Amongst chatter of a long putter ban and a lucrative equipment deal, one major winner sounded off while another stayed eerily silent.
     
-    Report: Bradley says he'll challenge anchoring ban Woods, McIlroy criticized for HSBC no-show Titleist, McIlroy won't renew contract after this year Faldo on Rory-Titleist split: 'I call it dangerous' Tip of the Week: Learn to groove your takeaway Ad
+    Report: McIlroy, Nike reach deal, shoot commercials Cop car that raced Rory to Medinah to be auctioned Palmer jokes: Break McIlroy's arm if he doesn't play Bay Hill Behind the scenes with ... Charlie Rymer Guan, 14, extends lead at Asia-Pacific Amateur Report: Bradley says he'll challenge anchoring ban Tip of the Week: Learn to groove your takeaway Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Jae C. Hong / AP Galaxy lucky to advance
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Otto Greule Jr / Getty Images Rimando saves day for RSL
     
-    PST: David Beckham and L.A. looked to be on the brink of an upset before winning 2-1. Does this mean they're not long for the postseason?
+    Nick Rimando's spectacular saves kept Real Salt Lake in the game Friday night in Seattle for a 0-0 tie. Now the two-leg series heads to a deciding match at Rio Tinto Stadium.
     
-    Highlights: How Galaxy rallied past Whitecaps Whitecaps score first, but L.A. wins Galaxy avoid 'one of those games' PST: Donovan says some think he's 'faking' injuries PST: Beckham provides glimpse of Kobe's future PST: Previewing Real Salt Lake-Sounders Arsenal's Gervinho out for 3 weeks with injury Ronaldinho upset with refereeing in Brazil Ad
+    PST: Galaxy lucky to advance Highlights: How Galaxy rallied past Whitecaps Whitecaps score first, but L.A. wins Galaxy avoid 'one of those games' PST: Beckham provides glimpse of Kobe's future Messi's girlfriend gives birth to baby boy Vidic return for Man United delayed till December Arsenal's Gervinho out for 3 weeks with injury Ad
 *   Horses
     SectionsOverview Latest news Watch live racing Results Entries Latest videos Free racing game Bet now  
-    Headlines Adam Coglianese / AP Can East conquer West in Cup?
+    Headlines AP Mucho Macho Man too much
     
-    Shanghai Bobby or Power Broker could become the early Kentucky Derby favorite by winning the Breeders' Cup Juvenile on Saturday.
+    Handicap: Winner of 3 straight stakes races earlier this year will uspet favorite Game On Dude in the Breeders' Cup Classic on Saturday.
     
-    Top 5 storylines for Breeders' Cup TCI's Breeders' Cup selection show Prevew of Saturday's Breeders' races  |  Friday's Handicap: Mucho Macho Man will win the Classic Breeders' Cup will decide Horse of the Year Breeders' Cup Classic gets prime-time TV slot Trainer Mott aiming take at Breeders' Cup sweep Pursuit of the Cup: All horses get to Santa Anita Ad
+    East over West? Breeders' Cup will decide Horse of the Year Champions line up for this week's Breeders' Cup TCI's Breeders' Cup selection show Royal Delta defends title in BC Ladies' Classic Zagora wins Breeders' Cup Filly &. Mare Turf Beholder wins the Breeders' Cup Juvenile Fillies Flotilla wins BC Juvenile Fillies Turf in upset Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Eric Gaillard / Reuters Keeps getting worse for Lance
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Streeter Lecka / Getty Images Heat to honor LeBron's gold with banner
     
-    OlympicTalk: The IOC might strip him of his bronze medal from 2000 and he's getting burned in effigy in England.
+    OlyTalk: LeBron James will be honored by the Miami Heat when his gold medal banner is raised to the rafters of AmericanAirlines Arena before Saturday night's game against the Denver Nuggets.
     
-    OlympicTalk: Swimmer Thorpe denies he's gay OlympicTalk: Will Phelps be golfing in Rio? South Korean protest player finally gets medal Olympic champion Spirig targets Rio after baby Pikus-Pace, Daly win US selection races again OlympicTalk: Morgan as Maroney? Impressive Highlights: Ligety wins World Cup opener Ligety wins World Cup opening GS with massive lead Ad
+    Lipnitskaia wins short program at Cup of China OlympicTalk: Keeps getting worse for Lance OlympicTalk: Swimmer Thorpe denies he's gay OlympicTalk: Will Phelps be golfing in Rio? South Korean protest player finally gets medal Olympic champion Spirig targets Rio after baby Pikus-Pace, Daly win US selection races again OlympicTalk: Morgan as Maroney? Impressive Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Outdoors Tennis Action sports Fight Night Tickets Headlines Richard Drew / AP NYC Marathon still on after Sandy
+    SectionsOther sports Off the Bench Cycling Outdoors Tennis Action sports Fight Night Tickets Headlines Carlo Allegri / Reuters After uproar, Marathon canceled
     
-    The Nets' regular-season debut in Brooklyn will have to wait. The New York City Marathon, however, is good to go.
+    New York City Mayor Michael Bloomberg says New York City Marathon has been canceled. His statement Friday came after mounting criticism that this was not the time for a race.
     
-    Mayor says NYC Marathon won't divert resources English town to burn Lance Armstrong in effigy Belgian cyclist Gunther Cuylits dies after race Janowicz stuns Murray at Paris Masters Wozniacki gets 3rd win from 3 at Champions event Williams sisters inspire local kids in Nigeria Maryland poker pro wins WSOP and $8.53M The Week in Sports Pictures Ad
+    Tokyo joins World Marathon Majors series Sports backgrounds for Obama, Romney The Week in Sports Pictures NFL star: Helping sick kids ‘better than a touchdown’ English town to burn Lance Armstrong in effigy Dancing Venus beats sister Serena in Nigeria match Belgian cyclist Gunther Cuylits dies after race Maryland poker pro wins WSOP and $8.53M Ad
 
 *   Scores
 *   Odds
@@ -191,10 +191,10 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com CSN: Celtics clearly not in Heat's league  
-PFT: Power rankings ... and team MVPs!  
-DeMarco: Is Bochy now MLB's best manager?  
-PST: English soccer has new broadcast home  |  Massive  
+Tweet Also on NBCSports.com CFT's Predictions 101: Tide should roll past LSU  
+PFT's Picks: Saints set to ground Eagles?  
+HBT: Top 50 free agents  |  Bargains to be had  
+Breeders' Cup: Complete coverage of action from Santa Anita  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
