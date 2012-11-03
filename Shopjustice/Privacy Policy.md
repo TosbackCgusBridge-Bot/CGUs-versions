@@ -63,8 +63,6 @@ provided until after midnight ET of the day your package ships.
 *   swimwear
     *   swimsuits
     *   cover-ups
-    *   flip flops
-    *   sunglasses
     *   all swimwear
 *   beauty
     *   make-up gift sets
