@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Technology:** Apple's Samsung statement reprimanded by court of appeal
-2.  2\. **News:** New York's Bloomberg endorses Obama to lead on climate change
-3.  3\. **Media:** Axed Danny Baker delivers on-air rant at his BBC London bosses
-4.  4\. **Music:** Nicki Minaj: 'My heroes? Scary Spice and Hermione from Harry Potter'
-5.  5\. **Football:** Manchester City's Roberto Mancini was in secret talks to join Monaco
+1.  1.  **News:** Carrier pigeon's remains found in chimney with wartime coded message - video
+2.  2\. **News:** Barack Obama holds edge as campaign hits frenetic final stretch
+3.  3\. **News:** Man claims he was sexually abused by Tory politician
+4.  4\. **News:** Hillary Clinton would win by landslide against Mitt Romney, poll suggests
+5.  5\. **Football:** Roberto Di Matteo tells Alex Ferguson to stop talking about Chelsea
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Media:** Media Talk podcast: Danny Baker blasts 'pinhead weasels'
-2.  **Music:** Mercury prize 2012 winners Alt-J - video interview
-3.  **News:** New York's Bloomberg endorses Obama to lead on climate change
-4.  **Education:** Teachers pushed to limit overmarked English GCSEs, says Ofqual
-5.  **Science:** Scientific fraud is rife: it's time to stand up for good science
+1.  **Society:** My husband's sex change
+2.  **Society:** Postnatal depression: the pressures new mothers face, now more than ever
+3.  **Sport:** Bradley Wiggins: 'Kids from Kilburn aren't supposed to win the Tour'
+4.  **Society:** Come inside: the world's biggest sperm bank
+5.  **Media:** Jimmy Savile accusers are looking for money, says former headteacher
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Lucy Mathen: 'I couldn't change the world as a journalist'
-2.  2\. October jobs report looms over presidential election - US politics live
-3.  3\. Love Monster by Rachel Bright - review
-4.  4\. Artists from around the country will be flooding a North Eastern seaside resort with a tidal wave of light
-5.  5\. What skills do academy governors need to manage million-pound budgets?
+1.  1.  Manchester United v Arsenal - live!
+2.  2\. Atos misled the government in securing its disability assessment contract | Steve Paget
+3.  3\. Wonderbook : Book of spells - review
+4.  4\. Document released in court by MoD
+5.  5\. Jonathan Dimbleby attacks 'witch-hunt' against BBC over Jimmy Savile scandal
 6.  All today's stories
 
 On the Guardian today
 
 1.  Life and style Mapping the body: the temple
-2.  World news Sheldon Adelson's billions shape US politics as many question his influence
-3.  Technology Apple's Samsung statement reprimanded by court of appeal
-4.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-5.  World news New York's Bloomberg endorses Obama to lead on climate change
-6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+2.  World news Barack Obama holds edge as campaign hits frenetic final stretch
+3.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+4.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+5.  World news New York City cancels marathon amid controversy over Sandy recovery
+6.  World news Carrier pigeon's remains found in chimney with wartime coded message - video
 
 *   License/buy our content
 |*   Privacy policy
