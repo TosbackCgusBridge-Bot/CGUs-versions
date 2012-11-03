@@ -1,10 +1,4 @@
-Bulletin Investor Alert
-
-New York Markets Open in:
-
-Pre-Market Indications Analyst Ratings Oil News EarningsWatch
-
-Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
+Bulletin Investor Alert Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
@@ -198,107 +192,99 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT November 2, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EDT November 3, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:02a
+/news/latest1.  8:01a
     
-    Halloween Indicator kicks in on schedule
+    Big earnings on Monday: ICE, Tesla, Humana
     
-2.  8:02a
+2.  8:01a
     
-    Investing a lump sum of money in stocks pays off
+    Wall Street braces for economy-shaping election
     
-3.  8:01a
+3.  8:00a
+    
+    Investors brace for U.S. presidential election
+    
+4.  6:31a
+    
+    Watch the Fed, not who wins the election
+    
+5.  7:47p
+    
+    Big moves for some smaller players in health care
+    
+6.  6:51p
+    
+    MarketWatch’s top 10 stories, Oct. 29 - Nov. 2
+    
+7.  6:38p
+    
+    Latest U.S. bank failures take 2012 tally to 49
+    
+8.  6:28p
+    
+    Latest U.S. bank failures take 2012 tally to 49
+    
+9.  6:28p
+    
+    Radio Update: Stocks virtually unchanged for week
+    
+10.  6:28p
+    
+    Heritage Bank of Florida closed by regulators
+    
+11.  6:28p
+    
+    Citizens First National Bank of Illinois closed
+    
+12.  6:07p
+    
+    Groupon shares edge lower after hours
+    
+13.  6:05p
+    
+    Sandy and 7 other disasters’ impact on sports
+    
+14.  5:54p
+    
+    Radio Update: Stocks skid into weekend with losses
+    
+15.  5:49p
+    
+    Can Restoration Hardware be different this time?
+    
+16.  5:35p
+    
+    10 things walk-in clinics won’t tell you
+    
+17.  5:34p
+    
+    NYC marathon canceled -- mayor's office
+    
+18.  5:31p
     
     Updates, advisories and surprises
     
-4.  8:01a
+19.  5:26p
     
-    Gasoline prices keep falling despite Sandy
+    Berkshire Hathaway third-quarter op. earnings slip
     
-5.  8:00a
+20.  4:26p
     
-    Red states vs. blue: Who has bigger 401(k)s?
-    
-6.  7:56a
-    
-    Holland Tunnel opens for buses after Sandy
-    
-7.  7:52a
-    
-    Holland Tunnel partly reopens for buses only
-    
-8.  7:50a
-    
-    Hess says most NYC stations open. Q3 profit up 2X
-    
-9.  7:44a
-    
-    As vote nears, Israelis finally talk economics
-    
-10.  7:42a
-    
-    Europe stocks steady as U.S. jobs report looms
-    
-11.  7:40a
-    
-    Hess: 177 out of 186 gas stations open in NYC area
-    
-12.  7:40a
-    
-    Hess Corp. Q3 net $1.64 vs. 88c
-    
-13.  7:40a
-    
-    Hess total Q3 revenue $9.62 bln vs $8.73 bln
-    
-14.  7:38a
-    
-    Beam Inc. Q3 net 47c vs. $2.67
-    
-15.  7:38a
-    
-    Beam Q3 sales up 8% to $627.5 mln
-    
-16.  7:37a
-    
-    NRG Energy narrows loss, while revenue falls
-    
-17.  7:35a
-    
-    Radio update:Starbucks brews up strong earnings
-    
-18.  7:24a
-    
-    Stock index futures flat. payrolls to set tone
-    
-19.  7:22a
-    
-    Thomson Reuters Q3 net 56c vs 44c
-    
-20.  7:21a
-    
-    McGraw-Hill Cos. Q3 net $1.10 vs. $1.21
+    Radio Update: Stocks tumble at closing bell
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,232.62 +136.16 +1.04% nasdaq /quotes/zigman/123127 3,020.06 +42.83 +1.44% s&p 500 /quotes/zigman/3870025 1,427.59 +15.43 +1.09% Kiosk
+dow /quotes/zigman/627449 13,093.16 -139.46 -1.05% nasdaq /quotes/zigman/123127 2,982.13 -37.93 -1.26% s&p 500 /quotes/zigman/3870025 1,414.20 -13.39 -0.94% Kiosk
 
 *   1341573300000 1341592200000
     
     From Fox Business
     
         gerri willis  
-    The cost of Sandy  
-    The price of any natural disaster is a high one, economically speaking, but the breadth of this storm, and it's location, make it especially large.  /conga/kiosk/marketfox.html 233574
-*   1332374700000 1332461400000
-    
-    The Trading Deck
-    
-    john nyaradi  
-    Hot ETFs for the election  
-    Next week’s presidential election will impact sectors and exchange-traded funds regardless of who wins.  
-    /conga/kiosk/trading-deck-5.html 233609
+    Sandy aftermath: Filing a claim  
+    After the lights come back on and the house begins to warm, the next step for most will be to start the process of filling a homeowners insurance claim.  /conga/kiosk/marketfox.html 233781
 *   1238817600000 1270353600000
     
     Cars
@@ -326,6 +312,14 @@ dow /quotes/zigman/627449 13,232.62 +136.16 +1.04% nasdaq /quotes/zigman/123127 
     13 cities going broke  
     Stockton, Calif., (left) tops the list of U.S. cities in dire financial straits. See what other areas are drowning in recession-induced red ink.  
     /conga/kiosk/wildcard2.html 232912
+*   1329804000000 1329804000000
+    
+    MarketWatch Blogs
+    
+    THE CODY WORD  
+    Microsoft's cool new technology  
+    Microsoft to jump into the smartphone market and more stories that every trader and investor should be reading this weekend.  
+    /conga/kiosk/cody.html 233790
 
 MarketWatch.com
 
