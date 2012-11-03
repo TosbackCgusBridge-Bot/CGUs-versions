@@ -133,50 +133,50 @@ If you have any questions or concerns about this privacy policy, you may contact
 
 Stories We Like
 
-1.  Pop Sugar Kristin Stewart Wears Short Shorts to Promote 'Breaking Dawn'
-2.  Us Weekly Joe and Tina Simpson Divorcing
-3.  Buzzfeed How Google Street-Viewed the Grand Canyon
-4.  Huffington Post Politics Presidential Race Boiling Down to a Deadlock
-5.  Mental Floss 25 Fun Size Facts About Classic Halloween Candy
-6.  Pop Sugar 150 Celebrity Halloween Costumes
-7.  Us Weekly Justin Timberlake Snubbed Two of His \*Nsync Members From Wedding
-8.  Huffington Post Politics GOP Candidate to the UN: Get Off 'American Soil'
-9.  Buzzfeed Courtney Stodden Tries on Trashy Halloween Costumes
+1.  Us Weekly See Robert Pattinson and Kristen Stewart's First Interview Together Post-Scandal
+2.  Huffington Post Politics Will Obama Fall Prey to the Incumbent Rule?
+3.  Buzzfeed 11 Sweet and Strange Missed Connections of Hurricane Sandy
+4.  Mental Floss Why Do Sign Language Interpreters Look So Animated?
+5.  Pop Sugar Ashton Kutcher and Mila Kunis Show PDA Down Under
+6.  Buzzfeed The Time a Cat Adopted Four Baby Hedgehogs
+7.  Your Tango 21 Undeniable Benefits of Being Divorced
+8.  Ask Men How to Become a Better Networker
+9.  Fab Sugar Taylor Swift and Carrie Underwood Steal the Spotlight at the CMAs
 
   Most Popular
 
-1.  New Details on Benghazi
-2.  Why Romney’s the Wrong Man
-3.  Obama’s Medium Mo’ in Ohio
-4.  Mitt’s Weird Late Buying Spree
-5.  New York’s Marathon Backlash
+1.  Romney’s Delusions of Victory
+2.  R.I.P. Romney
+3.  Are Things Breaking Obama’s Way?
+4.  The Week’s Best Reads
+5.  New Details on Benghazi
 
   Other News Entertainment
 
-*   2012 CMA Awards
-*   Selena Gomez: I would have two children by now If I lived in Texas
-*   Gossip Quickies: Did Amanda take a naked stroll?
+*   The "Twilight" cast talks friendship, fans, and saying goodbye
+*   Celebs in Halloween Costumes 2012
+*   Celebs Who've Run Marathons
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘Big Bang Theory’ react: Stephen Hawking and Sheldon play Words With Friends
-*   ‘The X Factor’: Four Top 16 eliminations are…
-*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
+*   ‘Hurricane Sandy: Coming Together’ telethon was a classy and inspiring hour
+*   Weather Channel’s Eric Fisher journals his on-the-scene coverage of Hurricane Sandy
+*   The 10 ‘Twilight’ sequels we want Stephenie Meyer to write
 *   **Get More from EW.com**
 
 Entertainment
 
-*   The Campaign Is Over, But The Election Isn't
-*   Hungry New York Families Dig Food Out Of Dumpsters After Sandy
-*   Edward Norton's Homespun Campaign Documentary Debuts Tonight
+*   21 Images That Show Why The NYC Marathon Was Canceled
+*   Exclusive Documents: Romney's Loophole Trust Tax Filing
+*   When The City That Never Sleeps Refuses To Sleep
 *   **Get More from Buzz Feed**
 
 Politics
 
 *   Latest Swing State Polls
-*   Negative Ads Gave Obama His Advantage
-*   Mourdock Craters in Indiana
+*   Early Vote Key to Obama Leads
+*   King Way Ahead in Maine
 *   **Get More from Political Wire**
 
 The Daily Beast
