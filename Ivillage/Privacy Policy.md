@@ -144,6 +144,7 @@ Search iVillage.com Search
             *   Family Activities
             *   Gear Guides -- what should I buy?
             *   Family Travel
+            *   Holiday Travel
     *   Love &. Sex
         *   *   Mommy Sex Survey
             *   Sex During Pregnancy
@@ -242,7 +243,6 @@ Search iVillage.com Search
             *   Ask The Experts
             *   Drugs &. Supplements
             *   Real Stories
-            *   Breast Cancer
     *   Healthy Living
         *   *   Topics &. Conditons
             *   Ask The Experts
@@ -272,8 +272,7 @@ Search iVillage.com Search
             *   Tools
     *   Boards
     *   Videos
-        *   *   Menopause Conversations
-            *   iVoices
+        *   *   iVoices
 *   Entertainment
     *   Celebrity News
     *   Photos
@@ -288,7 +287,7 @@ Search iVillage.com Search
             *   Likes or Yikes
             *   DIY Beautify
             *   Interviews
-    *   Fall Entertainment Guide
+    *   Holiday Entertainment Guide
 *   Beauty &. Style
     *   Beauty
         *   *   Hair
@@ -325,7 +324,7 @@ Search iVillage.com Search
     *   Decorate
         *   *   Halloween
     *   Clean &. Organize
-        *   *   The Smart Home
+        
     *   Garden
     *   Family Finance
     *   Green
@@ -502,10 +501,10 @@ See All Newsletters  
 
 *   Homeandgarden My Best Idea Never Lose a Sock Again! You Won't Believe How Easy It Is
 *   Beauty DIY Beautify Kelly Bensimon Picks the Best Party Look
+*   Parenting The Conversation Thread How Do You Talk To Your Kids About Tragedy?
 *   Food Learn How Now 3 Surprising Things You Need in Your Pantry
 *   Entertainment Celebrity Spotlight Tia Mowry: Why I Cut My Hair Since Becoming a Mom
-*   Food Featured (Food) 'The Kids' Table': South African Pumpkin Fritters
-*   Entertainment Featured Alicia Keys: Why She Named Her Son Egypt
+*   Homeandgarden iVillage Interviews Be Your Own Boss? 5 Tips to Becoming an Entrepreneur!
 
   
   
