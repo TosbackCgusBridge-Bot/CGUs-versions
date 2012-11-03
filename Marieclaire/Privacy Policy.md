@@ -81,6 +81,10 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 
 Latest blog entries
 
+*   Will Hurricane Sandy Finally Get Us Talking About Climate Change?
+    
+    Yesterday, New York Mayor Mike Bloomberg endorsed President Obama in an editorial for Bloomberg View, writing that Hurricane Sandy had brought the issue of climate change into stark relief. He continued: Our climate is changing. And whil 11/02/12
+    
 *   How to Help Hurricane Sandy Victims
     
     A week ago, Hurricane Sandy was barely even mentioned on the hourly weather forecast, and now, the epic cyclone's damage is almost irreversible. 10/31/12
@@ -96,10 +100,6 @@ Latest blog entries
 *   Meet the Only Pro-Choice Woman Running for Governor
     
     In an election rife with discussion of abortion, birth control, rape, and equal pay, it's hard to believe that Maggie Hassan is the only pro-choice woman running for governor, in the battleground state of New Hampshire. 10/25/12
-    
-*   MC@Play with Mika
-    
-    Fresh off the release of a defining new album, British singer-songwriter Mika is now more relevant than ever with more pop perfect singles, star-packed collaborations, and confidence than ever before. 10/25/12
     
 *   See all blogs
 
