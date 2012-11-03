@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Friday, November 2, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Saturday, November 3, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Friday, November 2, 2012 Go Follow the Atlanti
 *   Magazine
 *   video
 
-Why Romney Is Lying About the Auto Bailout Molly Ball Sandy: A Reminder Why 'Obama Phones' Exist Nancy Scola Don't Argue Religion During an Election Conor Friedersdorf Tax Cuts Have a New Name Matthew O'Brien Hurricane Sandy Guide to Working From Home Derek Thompson How Conservatives Would Reform FEMA Jordan Weissmann Thoreau's 'Autumnal Tints,' 150 Years Later John-Manuel Andriote Lin and Harden Plot Revenge on the NBA Jake Simpson How Taylor Swift Is Sort of Like Leonard Cohen Brad Nelson The Sudanese Regime's Dwindling Options Armin Rosen A National Tragedy Lingers in Poland Liam Nolan China Has Hipsters Too Monica Tan The Devastated New Jersey Coastline Megan Garber On 'Keeping House in Outer Space' Emma Green How Computers Could Resolve Flight Delays Rachel Swaby Why We Keep Goldfish as Pets Katrina Gulliver There Are 3 New Yorks Today Derek Thompson Happy 'National Youth Honor Day,' Kids! Emily Chertoff Exercise May Improve Sperm Quality Lindsay Abrams Why 250,000 Still Get Leprosy Every Year Lindsay Abrams How the Election Will Affect Health Care Law Mary Agnes Carey Presented by After Citizens United: The New Price of American Politics James Bennet How One High School Revolutionized Its Writing Program Peg Tyre The Men Who Taught America to Watch Football Rich Cohen Presented by Pumpkin Carving Gone Artisanal Alessandra Ram Hurricane Sandy Looks Scary from Space Kasia Cieplak-Mayr von Baldegg 250 Glowing Umbrellas Kasia Cieplak-Mayr von Baldegg Privacy Policy
+How Obama Can Become the Next FDR Jack M. Balkin What the Obama Endorsements Overlooked Conor Friedersdorf The Left Is Still Worried About Vote Suppression Molly Ball Tax Cuts Have a New Name Matthew O'Brien Hurricane Sandy Guide to Working From Home Derek Thompson How Conservatives Would Reform FEMA Jordan Weissmann Are Country TV Shows About the Recession? Anthony Easton How I Enabled the Cult of Lance Armstrong Hal Espen Can Anyone Beat the NBA's One Percenters? Sports Roundtable China's Mysterious New Stealth Jet Brian Fung Istanbul's Looming Disaster Jenna Krajeski The Fight for the Iranian-American Vote Golnaz Esfandiari The Devastated New Jersey Coastline Megan Garber On 'Keeping House in Outer Space' Emma Green How Computers Could Resolve Flight Delays Rachel Swaby Stop Saying 'Fire in a Crowded Theater' Trevor Timm Why We Keep Goldfish as Pets Katrina Gulliver There Are 3 New Yorks Today Derek Thompson Why 250,000 Still Get Leprosy Every Year Lindsay Abrams Why Great ASL Interpreters Are So Animated Arika Okrent The Hottest Thing in Head Lice James Hamblin Presented by Brave Thinkers: Our Annual List of Risk-Takers Mike Bloomberg Knows What's Good for You James Bennet Jazz: How America's Most Vibrant Music Became a Relic Benjamin Schwarz Presented by The Moment the Lights Went Out in New York Megan Garber What Would Happen If We Scrapped Congress? Kasia Cieplak-Mayr von Baldegg Hurricane Sandy Looks Scary from Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,27 +113,27 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report Shutterstock/Anna Paff The Sexes  
-How men and women interact in a changing society. Come join the discussion on our newest channel. Read more › Just In Lindsay Abrams 8:03 AM ET Study: Worrying About Math Can Activate Pain Areas In the Brain 1351857794 Voices
+Special Report Tancha/Shutterstock/The Atlantic The Sexes  
+Welcome to _The Atlantic_'s newest channel, looking at how men and women interact in society today. Read more › Just In James Fallows 12:18 AM ET Non-Politics Edition: Denzel Washington in 'Flight' 1351916280 Voices
 
-*   Clive Crook Together We Stand, Divided We Fall 6:39 AM ET
-*   James Fallows Interim Infrastructure Update: Blackouts,… Nov 1, 2012
+*   James Fallows Non-Politics Edition: Denzel Washington in… 12:18 AM ET
+*   Ta-Nehisi Coates Slavery Is a Love Song Nov 2, 2012
+*   Derek Thompson Why the October Jobs Report Is Even Better Than… Nov 2, 2012
+*   Jeffrey Goldberg The Lieberman Threat Nov 2, 2012
+*   Clive Crook Together We Stand, Divided We Fall Nov 2, 2012
 *   Garance Franke-Ruta How to Tweet Responsibly During a Breaking-News… Nov 1, 2012
-*   Ta-Nehisi Coates Either I Win or You Cheated Nov 1, 2012
-*   Jeffrey Goldberg Christie and Springsteen, Updated Nov 1, 2012
 *   Alexis C. Madrigal Credit Where It's Due: I Love the New Gmail Design Nov 1, 2012
-*   Derek Thompson The Hurricane Sandy Guide to Working From Home Nov 1, 2012
 *   Robert Wright Sandy and Me Oct 31, 2012
 *   Steve Clemons GOP Presidents Have Been the Worst Contributors… Oct 27, 2012
 
 Correspondents
 
-*   Steven Heller 'Vote Then Bitch': The Campaign to Get Complainers to the Polls
-*   Jack M. Balkin What It Will Take for Barack Obama to Become the Next FDR
-*   Andrew Cohen 'Sound and Fury, Signifying Nothing': The Direct-Mail Poetry of Election 2012, Cont.
+*   Garrett Epps The Electoral Vote System is Absurd, but It's the Law
+*   Wendy Kaminer Senator Brown Woos Women
+*   Andrew Cohen Will a Marijuana-Legalization Vote Help Obama Win Colorado?
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Hurricane Sandy: The Aftermath Nov 1, 2012 Video What Would Happen If We Scrapped Congress? A 1940s Film Explains Hurricanes of Yore What Twitter Tells Us About Voters Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Afghanistan: October 2012 Nov 2, 2012 Video The Rise of New York City: A Fascinating Look at Manhattan in the 1940s Let's Scrap Congress (1947) Empty America: New York City Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -162,23 +162,23 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Secret Service Agent Who Was Under Investigation Commits Suicide  
+*   No Sign of Methane on Mars. Abstract Thought Melts Political Convictions  
     
-*   Staten Island Becomes the Focus of Anger and Tragedy  
+*   New Orleans Tells New York, 'Y'all Will Make It Through This'  
     
-*   Montgomery Burns Keeps Binders Full of Women Too  
-    
-
-Last Update: 7:31 AM
-
-*   Grim Scenes From New York's Flooded Subway System  
-    
-*   New York's Sustainability Catch-22  
-    
-*   The Surreal Evolution of Nashville in Pop Culture, From Altman to ABC  
+*   Guess What: More 'Twilight' (Maybe)  
     
 
-Last Update: 8:13 PM Most Popular
+Last Update: 6:23 PM
+
+*   'We've Built Right Up to the Edge in the Most Foolish Way'  
+    
+*   A Massive Earthquake in Istanbul Is Inevitable  
+    
+*   Bangalore Street Art Aimed at Curbing the Men Who Pee There  
+    
+
+Last Update: 7:18 PM Most Popular
 
 1
 
@@ -186,39 +186,39 @@ Hurricane Sandy: The Aftermath
 
 2
 
-Noam Chomsky on Where Artificial Intelligence Went Wrong
+Hurricane Sandy: After Landfall
 
 3
 
-Hurricane Sandy: After Landfall
+Meet the Most Indebted Man in the World
 
 4
 
-Sorting the Real Sandy Photos From the Fakes
+Who's Really Winning Early Voting?
 
 5
 
-Hurricane Sandy in Photos
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 6
 
-The Hideous Inequality Exposed by Hurricane Sandy
+Afghanistan: October 2012
 
 7
 
-Toward a Fraudulent Populism
+How I Enabled the Cult of Lance Armstrong
 
 8
 
-Why Nate Silver's Gambling Streak Makes Me Trust Him More
+Hurricane Sandy in Photos
 
 9
 
-China Has Hipsters, Too
+Sorting the Real Sandy Photos From the Fakes
 
 10
 
-A Manly-Man's Map
+Why Great Sign Language Interpreters Are So Animated
 
 *   Subscribe Help
 *   Faq
