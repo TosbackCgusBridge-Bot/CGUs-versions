@@ -40,6 +40,7 @@ A NOTE FROM JILL MALANDRINO
     *   High-Yield Stocks List
     *   Bank Safety Ratings
     *   Insurer Safety Ratings
+    *   Where to Invest in 2013
 
 *   **Stock Picks**
     *   Mad Money Recap
@@ -85,16 +86,17 @@ A NOTE FROM JILL MALANDRINO
 
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
-*   Sirius-XM
-*   Springsteen
-*   Facebook vs. Craiglist
-*   Indian Stocks
-*   Banks Earnings
-*   Value Stocks
-*   Gas Shortages
 *   AIG
+*   Hastings vs. Icahn
+*   Invest in 2013
+*   Cloud Wars
+*   NYC Marathon
+*   Jobs Report
+*   Mortgage Bonds
+*   Rochdale
+*   Kass
 
-pjava04.dc.thestreet.com Privacy Policy
+pjava08.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -249,15 +251,15 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,232.62 136.16 1.04% NASDAQ 3,020.06 42.83 1.44% S&P 500 1,427.59 15.43 1.09% US 10 Yr 1.715% +0.029 Brokerage Partners Most Commented
+DOW 13,093.16 -139.46 -1.05% NASDAQ 2,982.13 -37.93 -1.26% S&P 500 1,414.20 -13.39 -0.94% US 10 Yr 1.726% +0.011 Brokerage Partners Most Commented
 
+*   Solar Panels Don't Work!
 *   Yes, Apple Can Kill Microsoft Office
 *   'Put the White Back in the White House'?
 *   Office Will Determine Whether Microsoft Can Beat Apple
-*   10 Cult TV Shows Netflix Should Revive
 *   10 Worst Cars of All Time
 
-Articles From Newser For Sale: Naming Rights to Broke Japan City UK Court Unamused With Apple Note, Orders Rewrite Sandy's Gas Shortage Fuels Panic, Tempers See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Reverend to Ministry: You Owe Me Millions EPA: Hyundai, Kia Exaggerated Fuel Claims US Adds 171K Jobs. Unemployment at 7.9% See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
