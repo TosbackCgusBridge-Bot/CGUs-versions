@@ -134,37 +134,27 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Save Big from Eco-Pure. $99 Carpet, Hardwood, Tile &/or Furniture Cleaning! A $200+ value! $99 Value: Discount: You Save: $200 51% $101
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day This Week's Best Deals Will Keep Cash in Your Pocket! $0 Value: Discount: You Save: $0 100% $0
 
-Friday: Five things to do
+Saturday: CVS, Walgreens Deals CVS
 
-*   Wreck-It-Ralph Game Jumping Adventure
-*   Barn Bash
-*   Halloween Fun Fest
-*   Halloween Storytime – The Monster’s Monster
-*   Creepy Keeper Build
+*   more...
 
 1.  CAMPAIGN JOBS
     
     Grassroots Campaigns, Inc.
     
-2.  Apartment Maintenance Tech Part Time
-    
-    Georgetown Apartments
+2.  Apartment Maintenance Helper
     
 3.  SEASONAL DRIVERS
     
     Kelly Services
     
-4.  Parts Project Coordinator
+4.  SALES
     
-    Central Power Systems &. Services, Inc.
+5.  SALES
     
-5.  SEASONAL DRIVERS
-    
-    Kelly Services
-    
-6.  SALES
+6.  PROGRAM DIRECTOR
     
 
 View More The Most
@@ -172,16 +162,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Turnovers turn fourth quarter into a Chiefs disaster
-*   Sam Mellinger | Hold your nose when these Chiefs play
+*   No leadership changes as Chiefs’ slide continues
+*   Tuesday’s lottery numbers
+*   Royals claim pitcher from Rockies, make other roster moves
+*   Steve Kraske | Predictions: McCaskill wins, so does Obama
+*   Missouri judge throws out 1983 murder conviction
+*   UMKC says no to name change
+*   Recap: LA Lakers vs. LA Clippers
+*   Lottery numbers for Wednesday, Oct. 31
+*   Kansas State football coaches begin earning bonus money
 *   Chiefs not just bad, but historically bad
-*   Chiefs buzz | Coaches on the hot seat
-*   Judge orders newspaper to reveal name of commenter
-*   Cassel has another rough outing
-*   Fourth quarter dooms Chiefs in 31-13 loss at San Diego
-*   Missouri bank president pulls gun, nabs masked robber
-*   Chiefs blitz | The good, bad and ugly from the Chargers game
-*   After being knocked out of game, Charles says he’s fine
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
