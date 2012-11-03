@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-No one should be killed or tortured for what they say online. Demand an end to the culture of impunity. http://daytoendimpunity.org #Nov23
+Payment processor @Stripe reinstates @niftyarchive, a publisher of erotic, legal, Constitutionally-protected fiction. https://eff.org/r.5aqe
 
-Nov 1 @ 6:53pm
+Nov 2 @ 5:20pm
 
-Join @EFF and author Rob Reid for a Geek Reading of his sci-fi novel, Year Zero, next Wed at Hattery Labs in SF. https://eff.org/r.a6pY
+Here's our take on the new DMCA exemptions for jailbreaking &. video remix, and how to make the process better https://eff.org/r.3aqd
 
-Nov 1 @ 6:24pm
+Nov 2 @ 4:35pm
 
 *   Twitter
 *   Facebook
