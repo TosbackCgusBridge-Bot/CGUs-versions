@@ -16,7 +16,7 @@ SUBTOTAL 
 
 $0.00
 
-free shipping over $49.00.
+Free Shipping — Ends 11/6 at 12PM EST.
 
 VIEW CART &. CHECKOUT
 
@@ -92,7 +92,7 @@ VIEW CART &. CHECKOUT
     *   Regular
     *   Loose
     *   Fit Guide ►
-    *   Shop All Men's ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
+    *   Shop All Men's ►FREE Standard Shipping. All Orders. No Minimum. Ends 11/6 at 12PM EST.
 *   Women
     
     *   Shirts &. Tops
@@ -159,8 +159,8 @@ VIEW CART &. CHECKOUT
     *   Semi-Fitted
     *   Loose
     *   Fit Guide ►
-    *   Shop All Women's ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
-*   Boys
+    *   Shop All Women's ►FREE Standard Shipping. All Orders. No Minimum. Ends 11/6 at 12PM EST.
+*   Youth
     
     *   Boys  
         (8-20)
@@ -169,30 +169,30 @@ VIEW CART &. CHECKOUT
     *   Footwear
     *   All Boys►
     
-    *   Little boys  
+    *   Little Boys  
         (4-7)
     *   Shirts &. Tops
     *   Bottoms
     *   All Little Boys►
+    
     *   Toddler Boys  
         (2T-4T)
     *   Infant Boys  
         (0-24M)
+    
+    *   Boys Sports
+    *   Training
+    *   Football
+    *   Basketball
+    *   Baseball
+    *   All Boys' Sports►
     
     *   Featured
     *   New Arrivals
     *   HeatGear®
     *   ColdGear®
     *   Youth Movement
-    
-    *   Sports
-    *   Training
-    *   Football
-    *   Basketball
-    *   Baseball
-    *   All Boys' Sports►
-    *   All Boys►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
-*   Girls
+    *   All Boys►
     
     *   Girls  
         (8-20)
@@ -206,23 +206,24 @@ VIEW CART &. CHECKOUT
     *   Shirts &. Tops
     *   Bottoms
     *   All Little Girls►
+    
     *   Toddler Girls  
         (2T-4T)
     *   Infant Girls  
         (0-24M)
+    
+    *   Girls Sports
+    *   Training
+    *   Soccer
+    *   Running
+    *   All Girls' Sports►
     
     *   Featured
     *   New Arrivals
     *   HeatGear®
     *   ColdGear®
     *   Youth Movement
-    
-    *   Sports
-    *   Training
-    *   Soccer
-    *   Running
-    *   All Girls' Sports►
-    *   All Girls►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
+    *   All Girls►FREE Standard Shipping. All Orders. No Minimum. Ends 11/6 at 12PM EST.
 *   Footwear
     
     *   Men's  
@@ -259,8 +260,18 @@ VIEW CART &. CHECKOUT
     *   Running &. Training
     *   Slides &. Sandals
     *   Socks
-    *   All Girls' Footwear ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
+    *   All Girls' Footwear ►FREE Standard Shipping. All Orders. No Minimum. Ends 11/6 at 12PM EST.
 
+*   Accessories
+    *   Bags &. Backpacks
+    *   Socks
+    *   Gloves
+    *   Headwear
+    *   Winter Accessories
+    *   Eyewear
+    *   Protective Gear
+    *   Equipment
+    *   All Accessories►
 *   Outlet
     *   Men's
     *   Women's
@@ -277,7 +288,8 @@ VIEW CART &. CHECKOUT
     *   Youth Movement
     *   Tough Mudder
 
-free shipping on all orders over $49.00. email my cart page successemail my cart pageshare page successshare pagechange passwordreset passwordregister-completeforgot-password home / customer-service / security-and-privacy-policy SECURITY &. PRIVACY WHEN WAS THIS PRIVACY STATEMENT LAST UPDATED? Last revised: October 19, 2012 WHAT IS YOUR PRIVACY STATEMENT? **PRIVACY STATEMENT:**  
+Free standard shipping  
+All Orders. No Minimum. Ends 11/6 12PM EST. email my cart page successemail my cart pageshare page successshare pagechange passwordreset passwordregister-completeforgot-password home / customer-service / security-and-privacy-policy SECURITY &. PRIVACY WHEN WAS THIS PRIVACY STATEMENT LAST UPDATED? Last revised: October 19, 2012 WHAT IS YOUR PRIVACY STATEMENT? **PRIVACY STATEMENT:**  
   
 **Notice To California Residents – Your California Privacy Rights:**  
   
