@@ -164,6 +164,16 @@ You are not required to disclose any personal information in order to download *
     
 *   avast! Account: In some cases, you may be permitted to register multiple Avast products using a single registration and authentication system called **avast! Account**. If you choose to use **avast! Account** you will be asked to provide your first name, last name, and email address. You will also be asked to select a password. We may use this information for purposes of validating your license, providing support, delivering additional products and services, and enabling you to change your **avast! Account** and/or product settings. In the future this information may also be connected with your registration for avast! Forum and the Support Portal.
     
+*   Registration and log-in via Facebook: In addition to the foregoing, it is possible to register avast! Free Antivirus and to sign in to avast! Account via Facebook. If you choose this method for registration and sign-in, you will be asked to share certain information from your Facebook account with Avast. This information will include your first and last name, your profile picture, your gender, your network(s), your friends’ user IDs, and any other information that you made public in your Facebook preferences. You will also be required to share your email address with us. Of the foregoing information, we store only your first and last name, network(s), and email address. We do not store any other user information that we obtain from Facebook. Any of the above information that we store is kept in our internal database, using SSL technology and under minimum 256-bit key encryption. We do not allow access to any of this information to third parties.
+    
+    If you choose Facebook as your registration or sign-in method, you will be asked for permission for Avast to take certain actions on your behalf. Specifically, we will request permission to post on your behalf in the following cases: (1) you register or install an Avast product. (2) you update an Avast program. or (3) an Avast program protects you from visiting an infected website. The messages that might be posted in such cases could include the following, or similar messages:
+    
+    *   (1) “avast! Antivirus just saved my computer from infection! Try it now. It’s free.”
+    *   (2) “My avast! Antivirus just updated, with powerful new security features. Download it for FREE. You’ll love it.”
+    *   (3) “I just installed avast! Antivirus for free. I really like it. If you want the best protection, download avast! like I did.”
+    
+    You are not required to agree to allow Avast to post on your behalf. If you do not wish to allow Avast to post these messages, click “Skip” at this stage in the registration process. You can modify your posting preferences at any time via my avast! Account (https://my.avast.com/en-us/facebook).
+    
 
 Personal data collected by specific products.
 
