@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Iran
+*   Election 2012
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-November 2, 2012 Edition: **U.S.**
+November 3, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ November 2, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Michael Bloomberg Makes Endorsement15k
-    *   Secret Service Agent Dies In Apparent Suicide1k
-    *   Read The Report The GOP Doesn't Want You To See17k
-    *   Could The Swing State Polls Be Wrong?14k
-    *   Best Mayor Ever Invites Powerless Hurricane Victims Over To His House779
+    *   Best Mayor Ever Invites Powerless Hurricane Victims Over To His House1k
+    *   Secret Service Agent Dies In Apparent Suicide2k
+    *   Four Days To Go: Obama's Swing-State Margins Hold17k
+    *   Chrysler VP To Trump: 'You're Full Of Sh\*t'6k
+    *   Mitt Romney: Obama Second Term May Lead To Another Recession7k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ November 2, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   $50 BILLION647
-    *   Krugman: GOP 'Holding America Hostage'1k
-    *   'He Made His Fortune Off The Misfortune Of Others'522
-    *   McDonald's Franchise Facing Huge Fine Over Undocumented Worker278
-    *   Swedish Government Paying Unemployed To Move To Norway315
+    *   Dentist Allegedly Used Laughing Gas In Front Of Patients482
+    *   Jobs Report CRUSHES Expectations 20k
+    *   Walmart Heir Accused Of Illegal Political Donations1k
+    *   These Two Photos Are All You Need To Know About America440
+    *   Gas Problems Could Get Worse2k
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ November 2, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   NBC Plans Star-Studded Sandy Benefit442
-    *   What Does Barack Obama Listen To While Working Out?339
-    *   20 Things We Want To See In The Next 'Star Wars'301
-    *   Legendary Singer Too Ill To Perform152
-    *   EXCLUSIVE: First Look at Sacha Baron Cohen &. Helena Bonham Carter In 'Les Miserables'87
+    *   NBC Plans Star-Studded Sandy Benefit702
+    *   Taylor Swift Strikes Out At CMAs678
+    *   Bon Jovi: 'We May Not Have Electricity But We Have Power'359
+    *   Help From His Friends: Springsteen, Jay-Z Push For Obama465
+    *   EXCLUSIVE: First Look at Sacha Baron Cohen &. Helena Bonham Carter In 'Les Miserables'171
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,15 +86,15 @@ November 2, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   Instagram Users Flood Service With Pics From Superstorm12
-    *   During Hurricane Sandy, Twitter Proves A Lifeline Despite Trolls 159
+    *   Hurricane Sandy Horror Stories
     *   INFOGRAPHIC: New York City's Blackouts
-    *   9 iPad Mini Reviews: Love It, Or Hate It? 235
-    *   AT&T, T-Mobile Make Big Announcement In Wake Of Hurricane Sandy345
+    *   Slowly But Surely, Cell Towers Are Going Back Online After Sandy
+    *   Nick D'Aloisio's (Age 17) Immodest Goal: Change The Way You Read News299
+    *   Post-Hurricane Supply Purchases Spike On Amazon
     
     Go to Tech **More in Tech**
     
-    *   Best of TED
+    *   TEDWeekends
     *   Social Media
     
     **You might also like**
@@ -108,11 +108,11 @@ November 2, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   PHOTO: Businessweek's Bold Hurricane Sandy Cover4k
-    *   Nate Silver Bets Joe Scarborough Over Election Outcome3k
-    *   Ali Velshi On Hurricane Sandy Coverage: 'I Think The Criticisms Are Well-Intentioned And Fair'505
-    *   WATCH: Michael Moore Tears Into CNN's Hurricane Coverage — On CNN666
-    *   NPR To 4-Year-Old: Sorry We Made You Cry About 'Bronco Bamma'1k
+    *   WATCH: Brian Williams Tears Into Rush Limbaugh Over Hurricane Sandy6k
+    *   WATCH: Fox News Attacks Hurricane Benefit Concert1k
+    *   Obama Gets Less Favorable Media Coverage Than In 20083k
+    *   The Ratings Are In!720
+    *   Fox News Largely Ignores Hurricane To Focus On Benghazi9k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ November 2, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   Mission Accompished: World War II Carrier Pigeon's Coded Secret Message Finally Received177
-    *   France Deports Radical Tunisian Imam373
-    *   China Tests New Prototype Stealth Fighter215
-    *   Brit Gives Trick-Or-Treaters Cocaine Instead Of Candy38
-    *   Italy Furious At Romney Over Campaign Remarks777
+    *   Mission Accomplished: World War II Carrier Pigeon's Coded Secret Message Finally Received294
+    *   Italy Furious At Romney Over Campaign Remarks3k
+    *   Top Israeli Newspaper Throws Weight Behind Obama1k
+    *   Video Appears To Show Syrian Rebels Executing Captured Troops709
+    *   Kate And Will's Bodyguard Accidentally Fires Shot31
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ November 2, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   8 Foods That Could Trigger Acid Reflux80
-    *   Firm Linked To Meningitis Outbreak Recalls All Products291
-    *   Teen Known As The 'Human Mannequin' Strives For Normal Life, Career In Fashion Industry28
-    *   20 Of The Best Fitness Experts Worth Following On Twitter16
-    *   Compassion After Sandy: 6 Simple Things You Can Offer To A Friend Without Power
+    *   Generators To Blame For Several Post-Sandy Deaths16
+    *   6 November Superfoods13
+    *   8 Foods That Could Trigger Acid Reflux105
+    *   After Being Homebound For 2 Years, Jennie Lost 300 Pounds: 'Believe In Yourself And Know That Quitting Is Not An Option'
+    *   Teen Known As The 'Human Mannequin' Strives For Normal Life, Career In Fashion Industry50
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -173,11 +173,11 @@ November 2, 2012 Edition: **U.S.**
     *   OWN
 *   Style
     
-    *   PHOTOS: Kate Moss Went As Morticia Addams For Halloween67
-    *   PHOTOS: President Obama Has A Leather Bomber Jacket948
-    *   PHOTO: Khloe Kardashian's Nipple Steals The Spotlight On 'X Factor'58
-    *   PHOTOS: Miranda Kerr Is Esquire UK's Sexiest Woman Alive258
-    *   PHOTOS: Which Model Makes The Best Cleopatra?51
+    *   PHOTOS: Halle Berry Wears Jaw-Dropping Sheer Dress739
+    *   PHOTOS: Could Your Dress Be Any Shorter, KStew?656
+    *   PHOTOS: Michelle Obama's Sunny New Look63
+    *   PHOTOS: See Taylor Swift, Faith Hill &. All The Red Carpet Glitz From The CMAs!
+    *   Gwyneth Paltrow's Legs Put Their Owner At The Top Of Best-Dressed This Week12
     
     Go to Style **More in Style**
     
@@ -195,11 +195,11 @@ November 2, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   23 Last-Minute Halloween Costumes113
-    *   'Yeah, I Guess He Found That F\*cking Light Switch, Huh?'2k
-    *   His Halloween Costume Will Amaze You164
-    *   7 Sites You Should Be Wasting Time On Right Now
+    *   SWING STATE HELL892
     *   The Funniest Halloween Costumes Of 2012
+    *   His Halloween Costume Will Amaze You173
+    *   7 Sites You Should Be Wasting Time On Right Now
+    *   The Funniest Someecards Of The Week
     
     Go to Comedy **More in Comedy**
     
@@ -216,11 +216,11 @@ November 2, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next Cut the National Guard?
-    *   Next Hourly Workers Hit Hard
-    *   Coming Up Sandy Insurance Woes
-    *   Coming Up My Parents Found God
-    *   Coming Up The Pain of MiscarriageGo to HuffPost Live
+    *   Next More Money Than Ever
+    *   Next The Right To NOT Vote
+    *   Later No More Death Penalty?
+    *   Later Raise The Sea Barrier
+    *   Later Sandy's SamaritansGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
@@ -266,6 +266,7 @@ November 2, 2012 Edition: **U.S.**
     *   Tech
     *   Science
     *   Green
+    *   TEDWeekends
     *   TechCrunch
     *   Engadget
     *   TUAW
@@ -308,20 +309,19 @@ November 2, 2012 Edition: **U.S.**
     *   AOL Shopping
     *   Real Estate
 
-*   Hurricane
-*   OWN
 *   Election Maps
+*   Hurricane
+*   TEDWeekends
+*   OWN
 *   Opportunity
 *   2012 Blog
 *   GPS for the Soul
 *   Black Voices
 *   Gay Voices
 *   Science
-*   Green
 *   Crime
 *   Sports
 *   Religion
-*   Highlights
 
   
 
