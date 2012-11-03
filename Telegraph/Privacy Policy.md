@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Friday 02 November 2012
+Saturday 03 November 2012
 
 *   Home
 *   News
@@ -142,13 +142,11 @@ Problems with the Telegraph for iPad? Call 0800 332020 Advertisement
 
 Editor's Choice »
 
-The global war on free speech  
+Golden Dawn: undisguised fascism in Greece  
 
-It’s not just China and Russia where editors are being harassed, argues **John Kampfner**.
+Fascist gangs are turning Athens into a city of shifting front lines, finds **Damien McElroy**.
 
-Comments
-
-Ashes to ashes... Britain will never look the same again Strictly: Michael Vaughan's diary Sun sets on the House of Wax Lift yourself out of a tights spot Advertisement
+Has Sandy given Obama new hope? Review: Uncle Vanya, Vaudeville Sandy glamour model a welcome tonic The grubby sexy girl taking over the US Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
