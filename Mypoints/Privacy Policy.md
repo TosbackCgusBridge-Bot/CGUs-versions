@@ -99,7 +99,7 @@ MyPoints Search MyPoints Search Web
     *   All Rewards
 
 **MyPoints Privacy Policy**  
-Last Updated February 4, 2010  
+Last Updated November 2, 2012  
   
 MyPoints.com, Inc. ("MyPoints") is committed to protecting your privacy. This Privacy Policy applies to MyPoints.com and governs data collection and usage including MyPoints website and email services. This Privacy Policy is effective upon acceptance in registration for new registering members, and is otherwise effective on the date noted above for all MyPoints members.  
   
@@ -275,7 +275,7 @@ ABOUT
 
 MYPOINTS.COM POLICIES
 
-*   Privacy Policies
+*   Updated: Privacy Policy
 *   Terms Of Use
 
 MYPOINTS.COM PARTNERSHIPS
