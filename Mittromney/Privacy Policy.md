@@ -33,7 +33,7 @@ Skip to Main Content Area Home   X Connect With Mitt Follow @MittRomney Login |
 *   News &. Media
     
     *   Featured Blog
-    *   Math Vs. Myth Read More
+    *   My Vision For America Read More
     *   More News
     
     *   Videos
