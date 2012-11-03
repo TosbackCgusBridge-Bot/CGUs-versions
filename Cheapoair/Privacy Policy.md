@@ -156,9 +156,9 @@ Thanks for signing up to receive our newsletter! Be sure to check your email for
 *   Flights to Los Angeles
 
 *   CheapOair Info:
-*   Travel the world for less
 *   About Us
 *   Contact Us
+*   Customer Feedback
 *   The Golden Guarantees
 *   Contests
 *   Press
@@ -177,7 +177,6 @@ Thanks for signing up to receive our newsletter! Be sure to check your email for
 *   India Flights
 *   International Travel
 *   Corporate Travel
-*   Customer Feedback
 *   FAQs
 *   Sitemap
 
