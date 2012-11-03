@@ -44,21 +44,20 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
-    *   Avani Dead Sea Cosmetics
+    *   Caniche women's apparel
     *   Cocktail Hour
-    *   Drop &. Dangle Earrings
-    *   Enzo Liverino
+    *   Fall colors: silver jewelry from $5
+    *   Fluff Accessories
+    *   Funky Jeans
+    *   Holiday Gift Guide: Burberry Scarves &. Fragrances
     *   Holiday gifts: Affordable jewelry
-    *   Holiday gifts: Designer jewelry
+    *   Look of The Day
     *   Luxury Handbags under $499: Tod's, Longchamp, Lanvin and more
-    *   Margaret O' Leary Sweaters
-    *   Mulberry, Alexander McQueen, Marc Jacobs, Proenza Schouler
     *   November Birthstones: Topaz and Citrine jewelry
-    *   NuMe Style Hair Tools
-    *   This Season's Best Shoes
-    *   Vintage Judith Leiber Handbags Made In Italy
+    *   Perfect pearls
+    *   Sapphire jewelry under $99
+    *   TBS Women's Shoes
     *   Winter Wonderland Style Boots
-    *   XOXO Women's Suits
     *   Yuka Paris Women's Apparel
     *   _more..._
     *   men
@@ -66,19 +65,20 @@ Loading Modnique - Boutique Events
     *   _more..._
     *   other
     *   Boucheron, Coach, Vera Wang and more Eyeglasses
-    *   Dedia Watches Made in Switzerland
     *   Rolex
+    *   Watches we love: Gucci, Versace, Movado
+    *   Week in Rewind
     *   _more..._
 *   apparel
     *   women
+    *   Caniche women's apparel
     *   Cocktail Hour
     *   Dynasty Women's Apparel
-    *   Insight Women's Apparel
+    *   Funky Jeans
+    *   Look of The Day
     *   Margaret O' Leary Sweaters
-    *   Parasuco Women's Apparel
     *   Party Dresses
     *   See By Chloe Women's Apparel
-    *   Trend Alert: Black &. Gold
     *   XOXO Women's Suits
     *   Yuka Paris Women's Apparel
     *   _more..._
@@ -86,66 +86,76 @@ Loading Modnique - Boutique Events
     *   Men's Suit Shop Featuring Hugo Boss, Valentino and more
     *   Men's shop: Dolce &. Gabanna Denim and Shirts from $75
     *   _more..._
+    *   other
+    *   Week in Rewind
+    *   _more..._
 *   Jewelry &. Watches
     *   women
-    *   Attractive Brand New Bracelet
-    *   Colored diamonds
+    *   Attractive gold plated silver bracelet with precious stones
     *   Diamonds! Diamonds! Diamonds!
     *   Drop &. Dangle Earrings
     *   Enzo Liverino
     *   Everything under $50: Jewelry
-    *   FPJ jewelry
-    *   Fuzion Crystal jewelry
+    *   Fall colors: silver jewelry from $5
+    *   Handmade in Italy jewelry featuring Zydo and more
     *   Holiday gifts: Affordable jewelry
     *   Holiday gifts: Designer jewelry
+    *   Look of The Day
     *   November Birthstones: Topaz and Citrine jewelry
     *   Oscar Heyman, Salavetti, Hasbani Gioielli and more
     *   Our favorite silver jewelry styles
+    *   Perfect pearls
+    *   Rose gold jewelry deals
+    *   Sapphire jewelry under $99
     *   _more..._
     *   other
-    *   Always in Style: Chronograph Watches from $35
     *   Aquaswiss watches
     *   Dedia Watches Made in Switzerland
     *   Rolex
+    *   Watches we love: Gucci, Versace, Movado
     *   _more..._
 *   Handbags &. Accessories
     *   women
     *   DSquared Sunglasses Made In Italy
+    *   Fluff Accessories
     *   Green Hills Handbags
     *   H&S Handbags Made In Italy
+    *   Holiday Gift Guide: Burberry Scarves &. Fragrances
     *   Holiday gifts: Designer jewelry
-    *   Kenzo scarves
+    *   Look of The Day
     *   Luxury Handbags under $499: Tod's, Longchamp, Lanvin and more
     *   Mulberry, Alexander McQueen, Marc Jacobs, Proenza Schouler
     *   Vintage Judith Leiber Handbags Made In Italy
     *   _more..._
     *   other
     *   Boucheron, Coach, Vera Wang and more Eyeglasses
+    *   Week in Rewind
     *   _more..._
 *   shoes
     *   women
     *   Bertalini Boots and Shoes
     *   Brown boots
+    *   TBS Women's Shoes
     *   This Season's Best Shoes
     *   Winter Wonderland Style Boots
+    *   _more..._
+    *   other
     *   _more..._
 *   beauty
     *   women
     *   Avani Dead Sea Cosmetics
+    *   Holiday Gift Guide: Burberry Scarves &. Fragrances
     *   NuMe Style Hair Tools
     *   _more..._
-    *   other
-    *   Tigi Hair Products Made In USA
-    *   _more..._
 *   men
-    *   Always in Style: Chronograph Watches from $35
     *   Aquaswiss watches
     *   Boucheron, Coach, Vera Wang and more Eyeglasses
     *   Dedia Watches Made in Switzerland
     *   Men's Suit Shop Featuring Hugo Boss, Valentino and more
     *   Men's shop: Dolce &. Gabanna Denim and Shirts from $75
     *   Rolex
-    *   Tigi Hair Products Made In USA
+    *   Watches we love: Gucci, Versace, Movado
+    *   Week in Rewind
     *   and many more...
 *   gifts
 *   daily deal
