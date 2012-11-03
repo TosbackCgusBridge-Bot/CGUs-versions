@@ -202,11 +202,11 @@ was this answer helpful? Please tell us how we can make this answer more helpful
 
 Find an answer announcements
 
+*   Click here for information on Macy's $1 Million Drive for Hurricane Sandy Recovery Efforts  
+    Join Macy's in a drive to raise $1 Million for Hurricane Sandy Disaster Recovery...  
+    
 *   Shipping Delays - Hurricane Sandy  
     Due to Hurricane Sandy, orders that are shipping from our East and North East...  
-    
-*   Macy's Account Holders Impacted by Hurricane Sandy  
-    To our Macy’s Store and Macy’s American Express® account holders impacted by Hurricane Sandy, we...  
     
 
 more announcements... related tools My Profile Macy's Credit Card Order Status Store Locator Gift Card Balance Password Assistance Contact Us
