@@ -1,7 +1,7 @@
 *   Like Us
 *   Follow Us
 
-Pill Identifier Search November 2, 2012
+Pill Identifier Search November 3, 2012
 
 *   Home
 *   Drugs A-Z
@@ -296,11 +296,11 @@ Featured Topics
 
 New &. Updated
 
-*   Aciphex
-*   Actemra
+*   Fycompa
 *   H.P. Acthar Gel
 *   Jetrea
-*   Protonix
+*   Rituxan
+*   Twynsta
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
