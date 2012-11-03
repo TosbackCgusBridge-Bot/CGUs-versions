@@ -4,14 +4,14 @@
 *   Hot Topics
     *   Hurricane Sandy
     *   Election 2012
-    *   New Jersey
-    *   Mitt Romney
-    *   celebrity
-    *   President Obama
     *   strange stuff
     *   timeless news
-    *   Halloween
-    *   entertainment
+    *   New Jersey
+    *   abortion
+    *   President Obama
+    *   Obama 2012
+    *   celebrity
+    *   Mitt Romney
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -120,57 +120,57 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Why the “Rape Thing” Haunts Republicans
-*   How Fast Can the Obama Campaign Spend Your Salary?
-*   Sandy’s Toll on Medical Research
+*   Seeing the Federal Light
+*   Like, Not Brutally Tragic
+*   Behind the Iron Curtain   
 
 More from Slate »
 
-*   SANDY PHOTO OP
+*   Human Ken Doll Tells Real Life Barbie:
+*   Sandy Becomes Photo Op For Model
 *   Drug Smuggling FAIL
-*   Woman Swallows Toothbrush: How Will It Come Out?
 
 More from HuffPost Weird »
 
-*   Charlie Sheen Allegedly Bought A Prostitute Vaginal...
-*   Study: Children With Lesbian Parents Are Not Screwed Up
-*   Hot Links: Topless Photos Of Kat Dennings Leaked
+*   Sexual Assault Accusations Against Cee Lo Green Are Kinda...
+*   Rihanna Might Have Given Chris Brown A Lap Dance &. Sex...
+*   Roe Vs. Wade Is Not As Safe As You Think
 
 More from The Frisky »
 
-*   24/48-hour heads-up: Halloween Fark Party. Oceanside, CA....
-*   "Sorry we euthanized your dog by mistake. Tell you what,...
-*   You know it's time to lose a little weight if the only...
+*   Behold the 'Selkirk Rex' a new breed of cat that will have...
+*   Fark Party Halifax style: THIS SAT, Nov 3, 7 pm @ Lower...
+*   Finally, an official British Slang Dictionary. "Queer as a...
 
 More from Fark »
 
-*   Will Hurricane Sandy suppress voter turnout and tip the...
-*   A tale of two Americans: How they'd fare under Obama and...
-*   5 dirty tricks that could tip the presidential election
+*   America's doomsday secrets
+*   Did Richard Mourdock's rape comments cost the GOP the...
+*   5 smart reads for the weekend
 
 More from The Week »
 
-*   Nanny Accused of Stabbing Children Describes Issues With...
-*   States Affected by Sandy Plan to Hold an Election With No...
-*   Lower Manhattan is Down to One Hospital
+*   Romney Poll Deniers Contemplating Possibility of Defeat
+*   Why Bloomberg Fought for — and Then Caved on — the Marathon
+*   Downtown Occupies the Carlyle
 
 More from Daily Intel »
 
-*   8 Foods That Could Trigger Acid Reflux
-*   Pondering the Light and "Dark Side" of How We Work
-*   Recognizing Mental Health as Public Health
+*   6 November Superfoods
+*   Doctors Are Human. They Need Sleep
+*   Healing the Healer: You Are Forgiven, Now Get Some Sleep
 
 More from HuffPost Health »
 
-*   Britney Spears Case Thrown Out of Court
-*   Country Music Association Awards 2012: See the Star-Studded...
-*   One Direction Suits Up for 'Vogue' UK Shoot: 'I've Learnt...
+*   Chris Brown's Mom Brings Singer and Rihanna Together...
+*   Kate Upton Flaunts Curves in 'Seductive' Shoot for Italian...
+*   'Breaking Dawn - Part 2' Star Kristen Stewart Gushes About...
 
 More from Celebuzz »
 
-*   Information Diet: Chuck Todd
-*   Top 10 Commercials of the Week: Oct. 26 - Nov. 2
-*   Stormy Weather: Analyst Downgrades Ad Market on Sandy Fears
+*   New Red Cross Advertising Breaks Tonight
+*   Trailer Mash 11-02-12
+*   Dewar's: The Drinking Man's Scotch Preferred by English...
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
