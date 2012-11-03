@@ -1,6 +1,6 @@
 (skip this header)
 
-Friday Nov 02, 2012 5:05 AM PT
+Saturday Nov 03, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Sergio Romo T-shirt statement
-*   Alex Smith on his Visa ad
-*   Amber India's high points
-*   Nervous Utah moments
-*   Painter of mayors
+*   Thieves grab $11K in bras
+*   Suicide Silence singer killed
+*   Set clocks back
+*   100 best U.S. jobs
+*   Katie, Suri flee dark apt.
 *   Chron endorsements
 
 *   Bay Area &. State
@@ -340,6 +340,14 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Rush hurt in Warriors’ loss to Grizzlies
+*   Nation in Focus
+*   World in Focus
+*   Kirk Hammett's Day of the Dead book launch
+*   Scenes from a hula festival
+*   5 hits and 5 misses on the campaign trail, Oct. 29-Nov. 2
+*   Day in Pictures, Nov. 2, 2012
+*   Favorite dishes 11/02/2012
 *   Barry Zito's Kentfield manse still wants a buyer
 *   World in Focus
 *   Best costumes from Giants victory parade
@@ -372,14 +380,6 @@ Ads by Yahoo! Photo Galleries
 *   Nation in Focus
 *   World in Focus
 *   Jim Harbaugh
-*   Sandy impacts Presidential campaign
-*   Heidi Klum's annual Halloween party
-*   San Francisco City Hall nudists
-*   Disney to buy Lucas
-*   'Wreck It Ralph' premiere
-*   Day in Pictures, Oct. 30, 2012
-*   Halloween 2012
-*   san mateo
 
 *   Most Read
 *   |
@@ -387,51 +387,52 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  George Lucas giving away most of his $4.05 billion haul
-2.  Sandy's destruction from the air
-3.  Oakland teachers failed kids over grant
-4.  4 injured at USC campus shooting in Los Angeles
-5.  Police: You know these Muni bus burners?
-6.  Oakland cell phone store owner killed
-7.  Sidewalk service for slain S.F. teen
+1.  S.F. runners angry N.Y. Marathon canceled
+2.  Will Barry Zito’s 2-time championship help sell Kentfield home?
+3.  Giants World Series bats hidden around San Francisco
+4.  Nanny accused of stabbing two children didn’t like housework
+5.  Apple's iPad Mini off to strong start
+6.  U.S. Stocks Fall as Optimism Fades After American Payrolls Data
+7.  Calif principal testifies at teacher's abuse trial
 
-1.  New York Mayor Bloomberg endorses Obama
-2.  Sergio Romo not afraid to speak his mind
-3.  Police: You know these Muni bus burners?
-4.  Prop. 30 support slips, Field Poll finds
-5.  George Lucas giving away most of his $4.05 billion haul
-6.  Hundreds already out for Giants parade
-7.  Legal win means little after foreclosure
+1.  Oakland teachers failed kids over grant
+2.  Calif. voter registration hits record of 18.2M as Republican Party dips below 30 percent
+3.  Giants decline Huff's option for 2013
+4.  US economy adds 171K jobs, rate rises to 7.9 pct.
+5.  DOJ denies Prop. 37 investigation
+6.  Nanny accused of stabbing two children didn't like housework
+7.  Same-sex marriage leading in Washington
 
-1.  A look at new California workplace laws
-2.  China's exodus of skilled professionals
-3.  Mission District to get more S.F. cops
-4.  'How the French Invented Love'
-5.  Legal win means little after foreclosure
-6.  Butterflies' S.F. habitat threatened
-7.  Christie pushes for faster storm recovery in NJ
+1.  Dark days behind for Charles Chocolates
+2.  Texas county returning alleged shakedown cash
+3.  What's New: Heritage turkeys
+4.  Bill Plaschke: Giants surpass Dodgers
+5.  Court rules public pensions must be paid
+6.  Prostate cancer drug so effective trial stopped
+7.  Top winery stops in Healdsburg
 
 loading... Latest News Videos From our homepage
 
 *     
-    Lea Suzuki, The Chronicle / SF
+    Angel Franco, New York Times / SF
     
-    Sidewalk service for slain teen
+    Runners hopping mad
     
-    In the Mission, priests remember victims at the very locations where they met their deaths.
+    Cancellation of NYC Marathon upsets S.F. athletes and others who had to travel there.
     
 
 *     
-    Scott DuBose / SF
+    Jason Kempin, Getty Images / 2012 Getty Images
     
-    Luxury in an old S.F. home
+    Country fun at CMA Awards
     
-    This 1912 home in the Richmond has new kitchen, updated electrical deep yard. Asking $1.39M.
+    Carrie, Brad and other stars put on quite the show. See who won.
     
+*   CMA Awards red carpet
 
-*   America's best mustache
+*   Barry Zito's pad for sale
     
-    The nation's leading lip fur belongs to this man. How does it stack up against these famous 'staches?
+    Kentfield home overlooks Lake Phoenix and Mt. Tam, but the commute to AT&T Park is bad.
     
 
 *   Home
