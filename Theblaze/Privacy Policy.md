@@ -3,11 +3,15 @@
     *   Faith
     *   Tech
 *   TheBlaze TV
-    *   Radio
+    *   GB Radio
     *   Pat &. Stu
+    *   Treehouse
     *   Glenn Beck
     *   Real News
     *   Wilkow!
+    *   BS of A
+    *   Ind. USA
+    *   Specials
 *   Radio
 *   Magazine
 *   The Blog
@@ -25,7 +29,13 @@ Sign In Sign Up
 *   Hurricane Sandy
 *   Campaign 2012
 
-Take Action About TheBlaze
+Take Action
+
+Watch: Glenn Beck Gives Keynote Speech at FreedomWorks ‘The Revolution Rises’ Rally
+
+Watch: Glenn Beck Gives Keynote Speech at ‘The Revolution Rises’ Rally
+
+About TheBlaze
 
 **THEBLAZE.Com LLC – PRIVACY POLICY**
 
@@ -299,6 +309,6 @@ Have a Tip?
 There was a problem submitting your tip.  
 Please try again later.
 
-Give us a Scoop!
+Give us a Scoop! Please help us fight spam. Follow the instructions below to prove that you're a real person.
 
 All information © 2012 TheBlaze LLC
