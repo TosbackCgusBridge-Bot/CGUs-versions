@@ -295,10 +295,10 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Strollers &. Accessories
     *   Diaper Bags
     *   Carriers &. Car Seats
-    *   Bouncy Seats
-    *   Play Mats
-    *   Gear for Mom
     *   Blankets
+    *   Bedding
+    *   Nursery Accessories
+    *   Toys, Plush &. Books
     
     *   Shoes
     *   Girls' Shoes
@@ -306,6 +306,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Baby &. Walker Shoes
     
     *   Designer Collections
+    *   Complete Looks
     *   Girls
     *   Boys
     *   Baby
@@ -347,7 +348,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Accessories
     *   Beauty &. Fragrance
     *   Designer
-    *   Petite Sizes
+    *   Contemporary
     
     *   Men's Brands
     *   Juniors' Brands
