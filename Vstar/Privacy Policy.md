@@ -382,7 +382,7 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   Initiatives and measures with editorial endorsements |  Learn about the races and candidates
+*   Ballot propositions |  Learn about the races and candidates |  Editorial endorsements
     
 
 Privacy Policy &. User Agreement
@@ -618,10 +618,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos Chemistry professor uses pizzazz to sell science Entertaining and educational
+Videos On Campus: Showdown Set St. Bonaventure and Oaks Christian prepare to ...
 
-*   Chemistry professor uses pizzazz to ... On Campus: Rivalry Renewed Students learn what to throw ... Celebrating Adolfo Camarillo
-*   On Campus: Camarillo Ready for ... On Campus: Moorpark Marches On
+*   On Campus: Showdown Set Chemistry professor uses pizzazz to ... On Campus: Rivalry Renewed Students learn what to throw ...
+*   Celebrating Adolfo Camarillo On Campus: Camarillo Ready for ...
 
   
 
@@ -634,24 +634,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Newbury Park man charged for flashing anti-Romney sign Updated 10/31/2012 at 5:00 p.m. 45 comments
-*   Ventura County voter registration reaches record level Updated 10/31/2012 at 8:40 p.m. 46 comments
-*   Port Hueneme rescinds concealed-weapons permit process Updated 10/31/2012 at 8:37 p.m. 33 comments
-*   Police call Camarillo dog set on fire 'horrible, horrible crime' Updated 10/31/2012 at 4:40 p.m.
+*   Krauthammer: Tuesday could change America Published 11/1/2012 at 2:40 p.m. 89 comments
+*   Man, 29, killed after being caught in tractor near Santa Paula Updated 11/2/2012 at 3:44 p.m.
+*   Ventura driver pleads guilty to murder, DUI in bicyclist's death Updated 11/2/2012 at 7:36 p.m.
 *   Hearing ends for teacher who starred in porn films Updated 11/1/2012 at 6:43 p.m.
+*   California's first dog, Sutter, stumps for Prop 30 Published 11/1/2012 at 9:07 p.m. 37 comments
 
-Photo Galleries Ventura County's Most Wanted November… Yoon leads Camarillo past Oaks… Hurricane Sandy | Tuesday
+Photo Galleries Ventura County's Most Wanted November… California's first dog, Sutter… Yoon leads Camarillo past Oaks…
 
 *   Morning chat Published 10/31/2012 at 12:00 a.m. 100 comments
-*   Poll shows outcomes highly uncertain for many ballot measures Published 10/30/2012 at 1:23 p.m. 97 comments
-*   Robinson: Sandy delivers a policy lesson Published 10/29/2012 at 4:25 p.m. 64 comments
-*   Ventura County voter registration reaches record level Published 10/31/2012 at 2:05 p.m. 46 comments
-*   Newbury Park man charged for flashing anti-Romney sign Published 10/31/2012 at 4:40 p.m. 45 comments
+*   Krauthammer: Tuesday could change America Published 11/1/2012 at 2:40 p.m. 89 comments
+*   Poll shows outcomes highly uncertain for many ballot measures Published 10/30/2012 at 1:23 p.m. 78 comments
+*   Newbury Park man charged for flashing anti-Romney sign Published 10/31/2012 at 4:40 p.m. 59 comments
+*   Ventura County voter registration reaches record level Published 10/31/2012 at 2:05 p.m. 49 comments
 
 *   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 25 comments
 *   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 102 comments
+*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
 *   Amgen closes deal with financial firm to open new biotech company Published 10/25/2012 at 5:37 p.m. 0 comments
-*   Shark falls from sky onto Calif. golf course Published 10/25/2012 at 3:36 p.m. 0 comments
 *   Local relatives, friends mourn 2 children stabbed to death in nanny case Published 10/26/2012 at 8:25 p.m. 0 comments
 
 Weather
@@ -660,23 +660,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 54° Fair Wind: NE 6mph Today 64° 53° Fri 05:00 PM Partly Sunny Temp: 62° Sat 05:00 AM Partly Cloudy Temp: 53° Sat 05:00 PM Mostly Sunny Temp: 69°
-
-Feels Like: 62°
-
-Humidity: 80%
-
-Precip: 4%
-
-Feels Like: 53°
-
-Humidity: 100%
-
-Precip: 1%
+Currently 51° Fog/Mist Wind: Calm Today 72° 52° Sat 05:00 PM Mostly Sunny Temp: 69° Sun 04:00 AM Mostly Clear Temp: 53° Sun 04:00 PM Sunny Temp: 76°
 
 Feels Like: 69°
 
 Humidity: 55%
+
+Precip: 0%
+
+Feels Like: 53°
+
+Humidity: 80%
+
+Precip: 0%
+
+Feels Like: 76°
+
+Humidity: 42%
 
 Precip: 0%
 
@@ -700,12 +700,12 @@ More Weather » Social
 *   Blogs
 *   Twitter
 
-Follow @vcstar 95 percent accurate\*
+95 percent accurate\*
 
+*   National analyst nudges 24th CD toward 'toss-up' status
 *   Who is Nicole Parra?
 *   Strickland mailer shows he's going after every vote
 *   The 'UC effect' in online registration, and its significance here
-*   No surprise in battleground districts. it looks very close
 
 Brian Dennert here
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Friday Nov 2
 *   Saturday Nov 3
 *   Sunday Nov 4
+*   Monday Nov 5
 *   More BROWSE Icon
-
-*   Workshop on Access to Capital Oxnard Chamber of Commerce 8:30 a.m.
-*   "ArtistsThree" at Doyon Studio &. Gallery Doyon Studio and Gallery 9 a.m.
-*   "Country Faire Boutique" Camarillo Christian Women’s Club Luncheon Spanish Hills Country Club 10 a.m.
-*   Four Brix Winery Holiday Shopping Weekend Four Brix Winery 4 p.m.
-*   Think Ink 2012 643 Project Space 5 p.m.
-
-More Events »
 
 *   Post Breakup Wakeup Workshop Helps Women Recover After a Divorce or Break-up Center for Spiritual Living 9:30 a.m.
 *   ¡Olé! Enchilada Sale of Soroptimist Camarillo Chili Peppers Restaurant 10 a.m.
@@ -753,15 +745,19 @@ More Events »
 
 More Events »
 
+*   Artists Three at Doyon Studio &. Gallery Doyon Studio and Gallery 9 a.m.
+*   My Baby Is In The NICU, Now What? Rainbow Connection Family Resource Center 10 a.m.
+*   “My Baby Is In The NICU, Now What?” Rainbow Connection Family Resource Center 10 a.m.
+*   Free Movie Matinee Grant R. Brimhall Library 1 p.m.
+*   FRESH &. EASY SHOPPING NIGHTS RAISE FUNDS FOR Lincoln Elementary School Fresh &. Easy Neighborhood Market. 2260 E.Thompson Blvd., Ventura, CA 4 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Live Friday night
-    
-    VCS Preps game of the week: Camarillo vs. Rio Mesa
-    
-    95 percent accurate
+*   95 percent accurate
     
     Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
@@ -769,13 +765,17 @@ More Events » Features
     
     Survey determines what voters look for. Take it yourself!
     
-*   Election Central
+    Election Central
     
     Get prepared for November with candidate profiles and answers to your questions.
     
-    On Campus
+*   On Campus
     
     Video profiles of high school football programs.
+    
+    Presidential Donations
+    
+    See who's supporting who and with how much.
     
     Football Contest
     
