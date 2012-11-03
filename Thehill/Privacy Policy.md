@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Opinion: Here comes the landslideGOP pollster: Romney up in Ohio, closing the gap in WisconsinObama inches ahead of Romney in RealClearPolitics average of pollsPoll: Romney, Obama running roughly even in ground gameTrump: Obama's rejection proves he's foreign-born
+Shift in proportion of white, minority vote could decide Obama-Romney raceObama tells crowd voting is best 'revenge' against RomneyOpinion: Here comes the landslidePolls tilt for Obama in battleground OhioMedicare fades as ‘majority-maker’ issue for House Dems
 
 Emailed
 
-Opinion: Here comes the landslideTax bill set to rise for 30 million households unless Congress actsBloomberg endorses Obama, George Will trash-talks Obama, Joe Biden blasts Big Lie Romney ad in OhioThe Hill's 2012 Top LobbyistsGOP pollster: Romney up in Ohio, closing the gap in Wisconsin
+Shift in proportion of white, minority vote could decide Obama-Romney raceOpinion: Here comes the landslide‘Vote history audit’ shows whether your neighbors voted Biden stumbles over words in Wisconsin speechMr. Burns of 'The Simpsons' endorses Romney
 
 Discussed
 
-International monitors at US polling spots draw criticism from voter fraud groupsOpinion: Here comes the landslideSen. Graham: Obama move on defense layoff notices 'patently illegal'Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'Obama, Romney set to re-emerge, return to campaign trail after Hurricane Sandy
+Opinion: Here comes the landslideShift in proportion of white, minority vote could decide Obama-Romney raceObama, Romney set to re-emerge, return to campaign trail after Hurricane SandyChris Matthews: 'Racial hatred' drives support for Romney on rightGOP pollster: Romney up in Ohio, closing the gap in Wisconsin
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Scams follow in Sandy's wake
-*   Obama inches ahead of Romney in RealClearPolitics average of polls
-*   Clinton says he’s honored to be in Pennsylvania — while in Ohio
+*   Axelrod: Obama's energy comes 'from his loins'
+*   Palin super-PAC donates $5,000 to Romney campaign
+*   DAY'S END ROUNDUP
 
   
 More Briefing Room » Congress Blog
 
-*   A bill to end secrecy surrounding shell companies
-*   Overhauling the nation's electricity grid
-*   Social media narrative suggests a Romney victory
+*   What consumers want in FTC v. Google
+*   US should work to strengthen relations with Azerbaijan
+*   Multi-lingual outreach key to getting out the vote
 
   
 More Congress Blog » Pundits Blog
 
-*   Bloomberg endorses Obama, George Will trash-talks Obama, Joe Biden blasts Big Lie Romney ad in Ohio
-*   Big news: Chuck Hagel endorsing Bob Kerrey!
-*   Islamic terrorists remain a serious threat
+*   The bottom line in Election 2012: TRUST
+*   Clinton barnstorms for Barack, George W. Bush barnstorms for bucks at Cayman Island tax-dodge soiree
+*   Somebody is going to be bummed
 
   
 More Pundits Blog » Twitter Room
 
+*   Study: Twitter users 'relentlessly negative' about campaigns
+*   Trump fires back at Chrysler official
 *   Foursquare announces Election Day 'check ins' at polling locations
-*   NRCC gets Twitter talking about Obama's 'secretary of business' idea
-*   New York Times blogger willing to bet $2,000 Obama wins election
 
   
 More Twitter Room » Hillicon Valley
 
-*   T-Mobile, Sprint and Verizon report progress restoring cell service
-*   FCC: 19 percent of cell towers still down in wake of hurricane
-*   FCC orders TV station to air anti-abortion activist Randall Terry's campaign ads
+*   Facebook unveils privacy education feature for new users
+*   Ambassador: Web treaty plans pushed by Iran, China could lead to censorship
+*   GOP ad firm defends anti-Obama texts as protected speech
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Ex-GOP lawmaker: Republicans rejecting 'true science' on climate change
-*   Study by oil-backed group says wind industry doesn't need tax credit
-*   Hurricane Sandy to drive gas prices lower through Election Day, rest of 2012
+*   DOE: Sandy created 'severe energy supply interruption'
+*   Dem in line for energy gavel says nation must reconsider natural gas exports
+*   News bites: Manhattan to get power back Friday
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Reuters: Obama leads in Ohio, Florida, Va. Romney in Colorado
-*   Akin gathering steam in race
-*   Baker: Be prepared for a recount
+*   Senate Scorecard: GOP dealt serious blow in battle for upper chamber
+*   Obama: Millions 'still picking up the pieces'
+*   Romney surrogates fan out across US
 
   
 More Ballot Box » On The Money
 
-*   Suspense builds as Obama and Romney await final job numbers
-*   ‘Vote history audit’ shows whether your neighbors voted
-*   Democrats decry withdrawal of tax report
+*   IRS gives further relief to taxpayers affected by Sandy
+*   For Obama and Romney, a focus on jobs in race's closing days
+*   Retailers ramp up pressure to reject swipe fee settlement
 
   
 More On The Money » Healthwatch
 
-*   House Dem writes bill tightening rules for drug compounders
-*   Federal court exempts Mich. company from contraception mandate
-*   Hospitals sue Obama administration for refusing Medicare payments
+*   Medicare fades as ‘majority-maker’ issue for House Dems
+*   Conflict-of-interest concerns raised as Obama races to implement health reform
+*   Fred Thompson cuts robocall against Obama on abortion
 
   
 More Healthwatch » Floor Action
 
-*   NY, NJ lawmakers encourage people to apply for FEMA aid
-*   GOP senators aid investigation into drilling moratorium
-*   Rep. Denham sues DCCC for campaign ads about House votes
+*   Sen. Paul: Clinton needs to answer for Libyan terrorist attack
+*   Democratic senators urge Commerce to make South Korea play fair in trade deal
+*   Obama administration waives shipping rule to get fuel to Northeast ports
 
   
 More Floor Action » Transportation
 
-*   Chrysler official to Donald Trump on Jeep controversy: 'You are full of s---'
-*   Mobile parking meter company backtracks on Dodd-Frank fee attribution
-*   Obama releases second auto bailout ad in Ohio, Michigan
+*   Auto union files ethics complaint against Romney for alleged bailout profits
+*   Former Chrysler executive endorses Romney for president
+*   Obama blasts Romney's Jeep ads: 'This isn’t a game'
 
   
 More Transportation » DEFCON Hill
 
-*   US officials: CIA wasn’t delayed in Benghazi rescue attempts
-*   Report: CIA, Egypt discuss counterterrorism, security cooperation
-*   DOD expands intelligence cooperation in Africa
+*   Confirmation hearing scheduled for Allen, Dunford
+*   Report: Kabul calls US assessment of Afghan forces 'baseless'
+*   GOP calls on Sen. Levin to hold Libya hearings
 
   
 More DEFCON Hill » Global Affairs
 
-*   Issa accuses the Obama administration of hiding information on Benghazi
-*   US sticks by Burma despite sharp rise in drug production
-*   Rep. Griffin targets foreign auto manufacturers doing business with Iran
+*   Report: Romney son sends assurances to Putin about rhetoric
+*   Russia, Syrian opposition slam US calls for new leadership against Assad
+*   Former Rep. George Hochbrueckner: Chevron’s dilemma in the Amazon
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Brent Budowsky Hillary women save Obama Dick Morris Coming GOP landslide More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Fiscal cliff looms Lanny Davis Why Obama will win More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
