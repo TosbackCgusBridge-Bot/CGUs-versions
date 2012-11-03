@@ -20,13 +20,13 @@ Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! 
     
 *   Men Shop by Occasion
     
+    *   Christmas
     *   Birthday
     *   Anniversary
-    *   Groomsmen
     
+    *   Groomsmen
     *   Bachelor Party
     *   Retirement
-    *   Thank You!
     
     Top Categories
     
