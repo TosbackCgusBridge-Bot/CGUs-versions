@@ -57,7 +57,7 @@ Go to the Hollister Co. home page.
 Hollister Co. US  
 PRIVACY POLICY
 
-Updated: October 2012
+Updated: November 2012
 
 In order to make your visits to the various channels of Hollister Co. as responsive as possible, we collect information when you visit us online. To help ensure an enjoyable online experience, we provide this summary of what information we collect online, and how that information is used. One section of this privacy policy also addresses what happens with information we collect on Hollister Co. pages on social media sites, such as Facebook, Twitter, YouTube, and Pinterest ("Social Media Pages").
 
