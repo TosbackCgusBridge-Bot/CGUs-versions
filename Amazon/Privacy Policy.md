@@ -357,8 +357,7 @@ Fashion Brands Conditions of Use &. Sale Privacy Notice Cookies &. Internet Adve
 *   Health &. Beauty
 
 *   DIY, Tools &. Car
-*   DIY &. Home Improvement
-*   Power &. Hand Tools
+*   DIY &. Tools
 *   Car &. Motorbike
 *   Sat Nav &. Car Electronics
 
