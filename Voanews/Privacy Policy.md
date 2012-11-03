@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   New Yorkers Take Transit Woes in Stride
-*   Syrian Opposition Says Rebels Kill 28 Soldiers
+*   US Presidential Race Still Close
+*   New York and New Jersey Prepare for Elections
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
