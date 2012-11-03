@@ -86,11 +86,11 @@
     *   Personalized Gifts
     *   Web Exclusive Gifts
     *   Shop by Category
-    *   Halloween Gifts
-    *   Thanksgiving Gifts
     *   Christmas Gifts
+    *   Thanksgiving Gifts
     *   Birthday Gifts
     *   Thank You Gifts
+    *   Halloween Gifts
     *   Gifts of Faith
     *   Gifts for Men
     *   Gifts for Women
@@ -118,7 +118,7 @@
     *   Weekly Special Gifts
     *   Spooky Halloween Specials
 
-Halloween | Christmas Gifts | Thanksgiving FAQContact UsFigis GuaranteeShipping InformationLow PaymentsFree GiftsSafe &. SecureReturns PolicyPrivacy PolicyCredit DetailsTerms of UseEmail Us Internet Privacy Policy
+Christmas Gifts | Assortments | New Gifts FAQContact UsFigis GuaranteeShipping InformationLow PaymentsFree GiftsSafe &. SecureReturns PolicyPrivacy PolicyCredit DetailsTerms of UseEmail Us Internet Privacy Policy
 
 *   What is your Internet Privacy Policy?
 *   What information do you collect when I visit your Web sites?
