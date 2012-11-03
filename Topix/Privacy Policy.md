@@ -10,20 +10,20 @@ Sign In
 
 1 2 3 Hurricane Relief: How You Can Help
 
-Mitt Romney
+Hurricane
 
-Pre-Marketing: Romney's early Staples worries
+Hurricane Sandy causes bus stop chaos
 
 Politix
 
-QUIZ: Do You Know Your 2012 Election Memes?
+What Do You Know About Voting in America?
 
 *   Home
 *   Forums
 *   Top Stories
 *   Popular
 *   Local
-*   Romney-Ryan
+*   Election 2012
 *   US
 *   Politics
 *   World
@@ -186,7 +186,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
- 
+  Ads by Glam
 
 San Antonio, TX
 
@@ -275,7 +275,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 110,397 • Total comments across all topics: 189,869,006
+Comments made yesterday: 110,600 • Total comments across all topics: 189,968,589
 
 Copyright ©2012 Topix LLC
 
