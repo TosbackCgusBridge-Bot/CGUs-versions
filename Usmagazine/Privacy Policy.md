@@ -19,9 +19,9 @@ Trending
 
 *   VIP Scene
 *   |
-*   Halloween
+*   CMA Awards Style
 *   |
-*   Love Lives
+*   Watch TV With Us
 *   |
 *   Subscribe
 
@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! CMA Cutie »
+Hot Pics! Merry Shoppin'! »
 
-Top Stories1.  Topless Lady Gaga Flaunts Weight Loss in "Cannabis Queen" Costume »
-2.  Khloe Kardashian: Yes, There Was "Nip Action" on X Factor »
-3.  Best Celebrity Halloween Costumes of 2012 »
-4.  PIC: Sandra Bullock, Louis Dress as Toy Story's Jessie, Buzz Lightyear »
-5.  Wow! Jessica Shows Off Slim Sexy Bod in Halloween Pic With Fiance, Baby »
+Top Stories1.  PICTURE: Rihanna Goes Topless in Bed Morning After Halloween »
+2.  PICTURES: Justin Timberlake, Jessica Biel Honeymoon in Tanzania »
+3.  Lady Gaga: "Adele Is Bigger Than Me" But No One Talks About It »
+4.  Topless Lady Gaga Flaunts Weight Loss in "Cannabis Queen" Costume »
+5.  Kim, Khloe, Kourtney Kardashian Slam "Hurtful Lies" About Their Men »
 
  
 
@@ -176,10 +176,10 @@ subscribe to Us Weekly Defending Our Men
 Inside Us Weekly
 
 *   Style 2012 CMA Awards: What the Stars Wore!
-*   Beauty Jenna Dewan-Tatum: What's in My Bag?
-*   Moms PICTURE: Jake Owen's Wife Lacey Buchanan Flau
-*   Body Topless Lady Gaga Flaunts Weight Loss in "Can  
-*   Entertainment Ashlee Simpson Reveals Lingerie, Curses in "B
+*   Beauty Julianne Moore Named the New Face of L'Oreal
+*   Moms Halle Berry: My Daughter Nahla Prays Every Ni
+*   Body Lady Gaga: "Adele Is Bigger Than Me" But No O  
+*   Entertainment The X Factor Judges Select Top 12 Performers
 
 *   US WEEKLY
 *   Celebrity News
