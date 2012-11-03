@@ -143,6 +143,23 @@ Naples Daily News
 *   Cars
 *   Classified
 
+*   PrepZone: Coconut Bowl
+    
+    Scores &. Chat | Game Story | Staff Photos | Video | Lely Band | Naples Band | Send Photos | More »
+    
+*   Game Photos
+    
+    Palmetto Ridge vs. Barron Collier | Lehigh vs. Estero | Lemon Bay vs. Gulf Coast | More Photos »
+    
+*   Game Videos
+    
+    Barron Collier vs. Palmetto Ridge | Immokalee vs. Golden Gate | St. John Neumann vs. Evangelical Christian
+    
+*   Game Videos
+    
+    First Baptist vs. Community School | Estero vs. Lehigh | South Fort Myers vs. Ida S. Baker
+    
+
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -435,22 +452,22 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Naples resident gives more than $750,000 to Republican groups, candidates Published 11/1/2012 at 5:45 a.m. 134 comments
-*   Bill Clinton will campaign for Obama on Friday in Fort Myers Published 11/1/2012 at 12:02 p.m. 114 comments
-*   Report: U.S. private sector adds 158,000 jobs in October Published 11/1/2012 at 9:34 a.m. 57 comments
-*   Naples man accused of punching neighbor, bragging on Twitter Published 11/1/2012 at 6:40 p.m. 11 comments
-*   Transient shot by Collier deputy released from hospital, arrested Published 10/31/2012 at 8:07 p.m. 48 comments
+*   Clinton: Americans have clear choice in Tuesday's election Updated 11/2/2012 at 4:55 p.m. 111 comments
+*   Prep Football: Chat, scores, videos, photos and stories from Week 10 Updated 11/2/2012 at 11:34 p.m. 4 comments
+*   Man shot by deputies: 'I've got at least 10 holes' Published 11/1/2012 at 9:35 p.m. 43 comments
+*   Clinton tells Fort Myers: More reason to be excited about Obama now than '08 Published 11/2/2012 at 8:30 p.m. 85 comments
+*   Judge grants 'stand your ground' motion in courthouse stabbing death Updated 11/2/2012 at 6:28 p.m. 12 comments
 
-Photo Galleries Hurricane Sandy Your Photos: Trick-or-treating in… 2nd annual Halloween Spooktacular on…
+Photo Galleries Naples International Film Festival… Naples International Film Festival 2012 Prep Football: Naples vs. Lely…
 
-*   Collier, Lee voters wait ... and wait ... and wait ... to cast ballots Published 10/31/2012 at 5:00 a.m. 149 comments
-*   Naples resident gives more than $750,000 to Republican groups, candidates Published 11/1/2012 at 5:45 a.m. 134 comments
-*   Bill Clinton will campaign for Obama on Friday in Fort Myers Published 11/1/2012 at 12:02 p.m. 114 comments
-*   Superstorm Sandy leaves death, damp and darkness in wake Published 10/30/2012 at 5:33 a.m. 57 comments
-*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 381 comments
+*   Naples resident gives more than $750,000 to Republican groups, candidates Published 11/1/2012 at 5:45 a.m. 178 comments
+*   Bill Clinton will campaign for Obama on Friday in Fort Myers Published 11/1/2012 at 12:02 p.m. 173 comments
+*   Collier, Lee voters wait ... and wait ... and wait ... to cast ballots Published 10/31/2012 at 5:00 a.m. 150 comments
+*   Clinton: Americans have clear choice in Tuesday's election Published 11/2/2012 at 2:02 p.m. 111 comments
+*   Clinton tells Fort Myers: More reason to be excited about Obama now than '08 Published 11/2/2012 at 8:30 p.m. 85 comments
 
 *   Venice diocese removes once-popular priest in Bonita Springs from priesthood Published 10/24/2012 at 5:10 a.m. 38 comments
-*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 381 comments
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 382 comments
 *   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 68 comments
 *   Endorsement editiorial: The 11 Florida constitutional amendments Published 10/27/2012 at 4:00 a.m. 5 comments
 *   In the Know: New dining options at former Rossopomodoro and L’Etoile restaurants Published 10/31/2012 at 5:17 a.m. 17 comments
@@ -461,40 +478,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 67° Fair Wind: N 4mph Today 77° 67° Fri 08:00 PM Mostly Clear Temp: 71° Sat 08:00 AM Mostly Sunny Temp: 63° Sat 08:00 PM Mostly Clear Temp: 73°
+Currently 59° Fair Wind: N 4mph Today 78° 61° Sat 08:00 PM Clear Temp: 72° Sun 07:00 AM Sunny Temp: 65° Sun 07:00 PM Mostly Clear Temp: 73°
 
-Feels Like: 71°
+Feels Like: 72°
 
-Humidity: 53%
+Humidity: 49%
 
-Precip: 8%
+Precip: 0%
 
-Feels Like: 63°
+Feels Like: 65°
 
-Humidity: 70%
+Humidity: 75%
 
 Precip: 0%
 
 Feels Like: 73°
 
-Humidity: 52%
+Humidity: 62%
 
-Precip: 2%
+Precip: 0%
 
 More Weather » Calendar
 
-*   Friday Nov 2
 *   Saturday Nov 3
 *   Sunday Nov 4
+*   Monday Nov 5
 *   More BROWSE Icon
-
-*   RedSnook Catch &. Release Charity Tournament Naples, Goodland and Everglades City 7 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Workshop: Nature Photography Made Simple &. Productive Tigertail Beach 9 a.m.
-*   Baby boot camp Miromar Outlets 9 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-
-More Events »
 
 *   RedSnook Catch &. Release Charity Tournament Naples, Goodland and Everglades City 7 a.m.
 *   J.N. Ding Darling Wildlife Sanctuary J.N. Ding Darling National Wildlife Refuge 7 a.m.
@@ -512,53 +521,61 @@ More Events »
 
 More Events »
 
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Baby boot camp Miromar Outlets 9 a.m.
+*   Code Breaking During WWII FGCU Naples Center 10 a.m.
+*   PCs/Microsoft Windows 7 for Intermediates FGCU Naples Center 10 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Football Rivalries
+*   **Fall back**
     
-    Some football games are played for pride. Coming Friday: Coconut Bowl.
+    Daylight saving time begins at 2 a.m. Sunday. Remember to set clocks back an hour.
     
     Film Festival
     
     Find film trailers, previews of films at this year's Naples International Film Festival.
     
-    2012 Halloween
+    Our World
     
-    Share your Halloween photos and see winners in Halloween costume contest.
+    Column looks at SW Florida through eyes of Daily News photojournalists.
     
-*   Hot Home Sales
+*   Football Rivalries
     
-    Pictures, info about recently sold single-family homes in Collier and Lee.
+    Golden Eagles beat Trojans in 39th Coconut Bowl to remain undefeated this season.
     
-    Election 2012
+    Biggest Catch
+    
+    See photos from local anglers with their biggest catch of the day. Submit your photos.
+    
+    f Election 2012
     
     Find videos, photos, stories about the upcoming general election.
     
-    NewsMakers
+*   2012 Halloween
+    
+    Share your Halloween photos and see winners in Halloween costume contest.
+    
+    Hot Home Sales
+    
+    Pictures, info about recently sold single-family homes in Collier and Lee.
+    
+    Cuties of the Week
+    
+    We want to see photos of your adorable kids and grandkids. Share your photos »
+    
+*   NewsMakers
     
     Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
-    
-*   View Case Files
-    
-    Investigation of Boy Scouts' records reveals systemic failures.
-    
-    Go Shots
-    
-    Photos of Southwest Florida residents hanging out at local hot spots around town.
     
     Mugshots
     
     Looking for daily arrest mugshots? You can find them here in our special section.
-    
-*   Biggest Catch
-    
-    See photos from local anglers with their biggest catch of the day. Submit your photos.
-    
-    f Download iPad
-    
-    Experience the Naples Daily News -- reimagined for the iPad. Download now »
     
     Here's to our Heroes
     
