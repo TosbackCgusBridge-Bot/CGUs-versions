@@ -790,6 +790,8 @@
 
 *   recycled
 *   best selling
+*   uncommongoods on sale for 30 - 70% off!
+*   see all sale items in modules
 *   all birthday gifts
 
 *   birthstones &. zodiac signs
@@ -937,6 +939,7 @@
 *   sale
 
 *   homepage
+*   sale
 
 *   birthday gifts
 *   this just in
