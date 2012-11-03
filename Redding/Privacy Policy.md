@@ -270,25 +270,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Updated 11/1/2012 at 12:24 p.m.
-*   Romney faces scrutiny on aid in storm's wake Published 11/1/2012 at 4:00 a.m. 193 comments
-*   UPDATED: Four arrested after morning raid at Redding apartment Published 11/1/2012 at 12:51 p.m. 9 comments
-*   Redding police arrest two during Halloween sex offender checks Published 11/1/2012 at 12:55 p.m. 15 comments
-*   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Updated 10/31/2012 at 8:29 p.m. 65 comments
+*   Wife of Redding Realtor says husband was slashed in dispute over daughter Published 11/1/2012 at 11:21 p.m. 60 comments
+*   Masked man makes off with $8,000 from Redding nail salon Published 11/2/2012 at 4:00 a.m. 43 comments
+*   UPDATED: Teen accused of slashing girlfriend's father at Starbucks pleads not guilty Updated 11/2/2012 at 7:06 p.m. 57 comments
+*   Patty Smith: If you don't respect America, then leave Published 11/2/2012 at 12:00 a.m. 96 comments
+*   U.S. employers add 171,000 jobs. rate goes up to 7.9 percent Published 11/2/2012 at 6:06 a.m. 91 comments
 
-Photo Galleries Halloween at Mt. Shasta Mall Klassique Kafe Hurricane Sandy Aftermath
+Photo Galleries Halloween at Mt. Shasta Mall Hurricane Sandy Klassique Kafe
 
-*   Romney faces scrutiny on aid in storm's wake Published 11/1/2012 at 4:00 a.m. 193 comments
-*   Lydia Reed: Obama has proven himself a failure Published 10/31/2012 at 12:00 a.m. 135 comments
+*   Romney faces scrutiny on aid in storm's wake Published 11/1/2012 at 4:00 a.m. 215 comments
+*   Lydia Reed: Obama has proven himself a failure Published 10/31/2012 at 12:00 a.m. 137 comments
+*   Charles Krauthammer: At stake: America's character Published 11/2/2012 at 12:00 a.m. 126 comments
 *   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 121 comments
-*   Tom Elias: Red or blue: Where would you rather live? Published 10/30/2012 at 12:00 a.m. 107 comments
-*   Thomas Sowell: 'Cooling out' the voters Published 10/31/2012 at 12:00 a.m. 91 comments
+*   Patty Smith: If you don't respect America, then leave Published 11/2/2012 at 12:00 a.m. 96 comments
 
 *   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 26 comments
 *   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
 *   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 121 comments
 *   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Published 10/31/2012 at 4:55 p.m. 65 comments
-*   UPDATED: Police catch Redding man they say was breaking into cars Published 10/29/2012 at 6:44 a.m. 26 comments
+*   More than 80,000 lbs. of walnuts stolen. Tehama deputies say delivery driver is the suspect Published 10/29/2012 at 11:27 a.m. 23 comments
 
 Weather
 
@@ -296,23 +296,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 47° Fair Wind: N 4mph Today 68° 46° Fri 05:00 PM Partly Sunny Temp: 66° Sat 05:00 AM Partly Cloudy Temp: 51° Sat 05:00 PM Partly Sunny Temp: 72°
+Currently 54° Overcast Wind: Calm Today 73° 48° Sat 05:00 PM Partly Sunny Temp: 70° Sun 04:00 AM Mostly Clear Temp: 53° Sun 04:00 PM Mostly Sunny Temp: 79°
 
-Feels Like: 66°
+Feels Like: 70°
 
-Humidity: 38%
+Humidity: 47%
+
+Precip: 6%
+
+Feels Like: 53°
+
+Humidity: 89%
 
 Precip: 0%
 
-Feels Like: 51°
+Feels Like: 79°
 
-Humidity: 63%
-
-Precip: 5%
-
-Feels Like: 72°
-
-Humidity: 37%
+Humidity: 38%
 
 Precip: 0%
 
@@ -330,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Friday Nov 2
 *   Saturday Nov 3
 *   Sunday Nov 4
+*   Monday Nov 5
 *   More BROWSE Icon
-
-*   Court Appointed Special Advocates (CASA) Day @ Dutch Bros. Dutch Bros Coffee 6 a.m.
-*   Brent Graef - Horsemanship Clinic Cottonwood Creek Equestrian Center 9 a.m.
-*   ResQ/Paws With a Cause open house See Description 10:30 a.m.
-*   Happy Valley Citizen Volunteer Patrol's Chili for the Chills Happy Valley Community Center 5 p.m.
-*   Red Bluff Art Walk See Description 5 p.m.
-
-More Events »
 
 *   Farmland 5K at Hawes Farm Hawes Ranch &. Farm Supply 7:30 a.m.
 *   Shasta Lake Community Holiday Bazaar John Beaudet Community Center 8 a.m.
@@ -359,33 +351,41 @@ More Events »
 
 More Events »
 
+*   Veterans Historical Association Presents: A Mobile Military Museum Redding Library 11 a.m.
+*   DAR Monthly Meeting Redding Library 11 a.m.
+*   Antique Tractor and Engine Club Branch 114 Meeting Round Table Pizza - Yreka 7 p.m.
+*   Reverend Peyton's Big Damn Band concert State Theatre 7 p.m.
+*   Free classes for seniors Senior Citizens Hall
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Weather Radio
+*   Fantasy Fountain
     
-    We have you covered with our **iPhone** Storm Shield.**Now available for Android!**
+    Community painting project ends Saturday, November 3rd! Have you registered yet?
     
     20 Under 40
     
     Nominate young leaders in the North State! Nomination deadline November. 6th
     
-    Fantasy Fountain
+    2012 Candidates
     
-    The community painting project ends November 3rd! Have you registered yet?
+    Use our election guide to compare your viewpoints to the candidates' views.
     
-*   2012 Candidates
-    
-    Use our guide to compare your viewpoints to the candidates' views.
-    
-    The results are in!
+*   The results are in!
     
     See who our readers picked as the Best of the North State.
     
-    Election Coverage
+    Election Guide
     
     Voter resources, stories, photos, videos and more.
+    
+    Weather Radio
+    
+    We have you covered with our **iPhone** Storm Shield.**Now available for Android!**
     
 *   Download Our Apps
     
