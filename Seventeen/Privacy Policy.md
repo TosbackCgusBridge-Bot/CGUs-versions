@@ -17,7 +17,7 @@ Try: Cool Nails Dating Advice Homecoming Dresses
 *   Traumarama
 *   Share Your Thoughts
 
-What's the Best Halloween Costume for You?
+What Was Your First Kiss Like?
 
 *   Shopping
 *   Celeb Makeovers
@@ -52,7 +52,7 @@ The Coolest Nail Looks!
 *   Celebrity Quizzes
 *   Celebrity Videos
 
-Celeb Couples That Were Friends First
+17 Minutes With Bridgit Mendler
 
 *   Hot Guy Panel
 *   Boyfriend Battle
@@ -61,7 +61,7 @@ Celeb Couples That Were Friends First
 *   Hot Guy Videos
 *   Get Guy Advice
 
-Make Your First Date Memorable (And Guarantee Another One!)
+Gift Ideas for Your Boyfriend!
 
 *   Fitness Blog
 *   Sex Q&A
@@ -71,7 +71,7 @@ Make Your First Date Memorable (And Guarantee Another One!)
 *   Health &. Fitness Videos
 *   Get Health Advice
 
-Crazy Workout Classes!
+Gabby Douglas and Jordyn Wieber Video!
 
 *   Freshman 15
 *   Dorm Room Battle
@@ -80,7 +80,7 @@ Crazy Workout Classes!
 *   Get College Advice
 *   Electionista Blog
 
-Should You Rush?
+What Not To Wear To An Internship
 
 *   Prom
 *   Quinceaneras
@@ -108,7 +108,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win Justin Bieber's Someday from fragrancenet.com. Type in the Freebie Phrase of the Day, found in the November Issue!
+**1 Winner!** Enter for a chance to win Reb L'fleur by Rihanna from fragrancenet.com. Type in the Freebie Phrase of the Day, found in the November Issue!
 
  enter now 
 
