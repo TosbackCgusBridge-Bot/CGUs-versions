@@ -6,6 +6,10 @@
 *   Lookbook
 *   Categories  
     
+    *   Christmas &. Gifting
+        *   Projects
+        *   Products
+        *   Books
     *   Art Supplies
         *   Projects
         *   Products
@@ -65,10 +69,6 @@
         *   Products
         *   Books
     *   Yarn &. Needle Crafts
-        *   Projects
-        *   Products
-        *   Books
-    *   Christmas &. Gifting
         *   Projects
         *   Products
         *   Books
