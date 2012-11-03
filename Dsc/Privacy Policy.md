@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Gold Rush: Off-Season Special  8:00PM Gold Rush: Pay Dirt (season 3)Million Dollar Season 9:00PM Gold Rush (Season 3)The Wrong Claim TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Gold Rush (Season 3)The Wrong Claim 8:00PM World's Scariest Plane Landings  9:00PM Plane Crash: The Fallout  TV SHOWS
 
 American Chopper
 
@@ -68,25 +68,17 @@ Yukon Men
 
 VIDEO FULL EPISODES play
 
-Gold Rush
+Yukon Men
 
-The Long Road
+Hunt or Starve
 
 Moonshiners
 
-The Law Comes Knockin'
-
-Yukon Men
-
-Last Chance
+Moonshine Season Starts
 
 American Chopper
 
-New Venture
-
-Jungle Gold
-
-Extended Sneak Peek
+Full Circle
 
 MORE VIDEO
 
@@ -334,21 +326,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
-Lucas Giving Disney's Billions to Fund Education: DNews Nugget
+Where's Mars' Methane? Curiosity Draws a Blank
 
-China Celebrates Birth of 8 Giant Panda Cubs
+'Biking Hurricane Sandy': Gotta-See Video
 
-China Celebrates Birth of 8 Giant Panda Cubs
+Crowdfunded Plasma Jet Thruster for Spacecraft?
 
-'Island of Blue Dolphins' Cave Possibly Found
+Excellent Idea of the Day: Post-Sandy Birding
 
-How Does Apple's Non-Apology Rank?
+Excellent Idea of the Day: Glow-in-the-Dark Roads
 
-Curiosity Finds Some Aloha Spirit in Mars Soil
+NYC Marathon Canceled: DNews Nugget
 
-Human Drivers Still Beat Robot Car in Racing
+Sumo Wrestlers Hard to Find: DNews Nugget
 
-First All-Carbon Solar Cell: DNews Nugget
+The Fossils of Galactic Cannibalism
 
   facebook share0 Tweet Privacy Policy  
 
@@ -554,32 +546,32 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Nov 02,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Nov 03,  
 7:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Nov 02,  
+Nov 03,  
 7:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Nov 02,  
+Nov 03,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Nov 02,  
+Nov 03,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Nov 02,  
+Nov 03,  
 9:00 am  
 60 min(s)  
-**I (Almost) Got Away With It**  
-_Got To Impersonate A Guard_  
- Dennis Hope, a handsome and intelligent thief, pulls off a series  
+**Alaska: The Last Frontier**  
+_Fueling the Fire_  
+ The first storm of the winter is fast approaching so the entire K  
 **More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
 $47.95  
   **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
