@@ -1,4 +1,4 @@
-    NYC - Upper West Side
+    San Antonio - North
 
 *   my vouchers
 *   log in
@@ -8,9 +8,9 @@ LivingSocial
 
 *   deals
 *   escapes
-*   events
 *   adventures
 *   shop
+*   takeout &. delivery
 
 Privacy Policy
 
@@ -143,7 +143,7 @@ The Privacy Policy in effect prior to August 10, 2012 can be found here.
 *   escapes
 *   shop
 *   adventures
-*   live events
+*   takeout &. delivery
 
 *   how it works
 *   LivingSocial Plus
