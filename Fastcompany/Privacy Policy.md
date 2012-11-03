@@ -73,13 +73,13 @@ In the course of serving advertisements to this site, our third-party advertiser
 *   Printer-friendly version
 *   Send by email
 
-*   A Look Inside New York's Underwater Subways
+*   How Seamless Defied Sandy, Kept The Hot Meals Coming, And Inspired Twitter Love
 
 ADVERTISEMENT
 
-*   The Inside Story Of How Microsoft Built The Windows 8 Brand
 *   Will Apple's Tacky Software-Design Philosophy Cause A Revolt?
 *   Meet Infor's Charles Phillips, CEO Of The World's Largest Startup
+*   A Look Inside New York's Underwater Subways
 
 *   Box Founder Aaron Levie On The Fears And Realities Of Our Chaotic Times
 *   See the World's Most Famous Men As The World's Most Beautiful Women
