@@ -46,7 +46,7 @@ COLUMNS
 PREMIUM CONTENT
 
 *   Draft Guide
-*    Season Pass
+*   Season Pass
 *    SNAPDRAFT
 *   Baseball Daily Dose
 
@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
-*   Hiroki Kuroda willing to accept one-year deal
-*   Yanks mull using Granderson in corner OF spot
-*   K-Rod charged Wednesday with domestic abuse
-*   David Ortiz likely to reach free agent market
-*   Marlins hire Mike Redmond to replace Guillen
-*   Rick Ankiel considering a return to pitching?
-*   LaRoche declines $10 million option for 2013
-*   Michael Bourn seeking $100 million contract?
-*   Rangers 'seriously considering' Zack Greinke
-*   Red Sox among teams pursuing Halos' Haren
-*   Rangers 'determined' to make Ogando starter
-*   Mets' talks with Wright ready to accelerate
+*   Angels decline 2013 option on Dan Haren
+*   Mariners ink Iwakuma to two-year extension
+*   Report: Haren-for-Marmol trade not happening
+*   Astros plan to reach out to Lance Berkman
+*   Ortiz agrees to two-year deal with Red Sox
+*   Nats make qualifying offer to Adam LaRoche
+*   Bourn receives qualifying offer from Braves
+*   Cardinals make qualifying offer to Kyle Lohse
+*   Angels don't make qualifying offer to Hunter
+*   B.J. Upton obtains qualifying offer from Rays
+*   Swisher, Kuroda receive qualifying offers
+*   Soriano gets qualifying offer from Yankees
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Friday Rundown Nov 2
+*   Week 9 Rankings Nov 2
+*   Matchups: Pay-Dirt Due Nov 2
 *   More for Mathews? Nov 2
+*   Best Available NFL Free Agents Nov 2
 *   Week 9 Chat Nov 1
-*   Week 9 Rankings Nov 1
 *   Week 9 Target Watch: NFC Nov 1
 *   Deadline Snoozing Nov 1
-*   Matchup: Chiefs @ Chargers Nov 1
-*   Getting Defensive: Week 9 Oct 31
-*   Week 9 Target Watch: AFC Oct 31
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Charles: I could have gone back in the game
-*   Rivers tosses 2 TDs to get Chargers to 4-4
-*   Dez Bryant misses practice, expects to play
-*   Calvin Johnson's absence part of new regimen
-*   Donald Brown misses Thursday's practice
-*   Harvin's Thursday absence due to family issue
-*   Pats beat deadline, acquire Talib from Bucs
-*   Dwyer practices, expects to play in Week 9
-*   Report: Tannehill '50-50' to start on Sunday
-*   Panthers' Beane: 'We are not trading anyone'
-*   Sproles (hand) misses Thursday's practice
-*   Reid on QB Vick: 'Not a week-to-week thing'
+*   Norv: Danario Alexander has earned 'big' role
+*   Report: Tannehill 'better than 50-50' to play
+*   Megatron misses practice, listed questionable
+*   Jahvid Best out for season, but not giving up
+*   Dez Bryant (hip) listed questionable for SNF
+*   Sproles out indefinitely after breaking hand
+*   Dwyer, Mendenhall 'doubtful' for Week 9 game
+*   Packers WR Nelson will be 'Sunday decision'
+*   Dwyer sits Friday, Redman expected to start
+*   Dez Bryant (hip) returns to practice Friday
+*   Colts RB Brown (knee) expected to play Sunday
+*   Calvin Johnson misses third straight practice
 
 NBA PAGES
 
@@ -134,6 +134,7 @@ NBA PAGES
 
 COLUMNS
 
+*   Lillard Ready for Liftoff Nov 2
 *   Parker beats OKC at buzzer Nov 2
 *   Hardened By Trade Nov 1
 *   NBA Live Chat Thursday 9 p.m. Nov 1
@@ -141,12 +142,11 @@ COLUMNS
 *   NBA Opening Night Preview Oct 30
 *   The Bruski 150 Oct 28
 *   NBA chat: Monday @ 12:30 ET Oct 28
-*   Pre-draft Trip Around the NBA Oct 26
 
 PREMIUM CONTENT
 
-*    Draft Guide
-*   Season Pass
+*   Draft Guide
+*    Season Pass
 *    SNAPDRAFT
 *   Basketball Daily Dose
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Tony Parker hits game-winner at buzzer
-*   Manu Ginobili (back) will not play Thursday
-*   Nash (shin) listed as doubtful for Friday
-*   Eric Gordon (knee) unsure of when he'll play
-*   Andrew Bogut (ankle) won't play back-to-backs
-*   Kevin Love (hand) to see specialist next week
-*   Damian Lillard lives up to hype in opener
-*   Al-Farouq Aminu fills stat sheet in opener
-*   Nuggets confirm Faried wasn't injured in loss
-*   Jrue Holiday and Sixers agree to extension
-*   T. Gibson signs 4-year, $38 million extension
-*   Gerald Green starts, leads Pacers in minutes
+*   Bryant scores 40, says foot hurts a whole lot
+*   Curry bounces back with big 26-point night
+*   Landry scores 20 points off the bench vs. MEM
+*   J.J. Barea tears up the Kings w/ 21-4-5 line
+*   Isaiah scores team-high 20 points in loss
+*   Steve Novak hits five threes in Knicks win
+*   Vasquez goes for 13 &. 10 with game-winner
+*   Durant posts 23-17-7 line. Westy scores 32
+*   Aldridge goes for 22 and 15 against OKC
+*   Tobias scores 18 points against the Celtics
+*   Harden goes for 45. Lin nearly triple-doubles
+*   Asik grabs career-high 19 rebounds vs. ATL
 
 NHL PAGES
 
@@ -185,6 +185,7 @@ NHL PAGES
 
 COLUMNS
 
+*   Seguin Making Swiss Impact Nov 2
 *   Graovac Makes Wild Proud! Oct 30
 *   Four studs and a Minor Leaguer Oct 29
 *   Omark and Brunner Burning! Oct 27
@@ -192,7 +193,6 @@ COLUMNS
 *   Keep an eye on Neiderreiter Oct 22
 *   Subban &. Brassard Net Gains Oct 16
 *   European League/KHL Update Oct 13
-*   Early CHL Standouts Oct 9
 
 PREMIUM CONTENT
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Briere, Giroux combine for 9 points in win
+*   NHL offers the union new concessions
+*   Tyler Seguin has four goals in Swiss game
+*   Plekanec has a five-point game vs Pardubice
+*   Fehr blames NHL for canceled Winter Classic
+*   NHL, union CBA talks expected to resume soon
+*   Scrivens on wrong end of a record Thursday
+*   Tomas Vokoun signs with HC Karlovy Vary
+*   David Desharnais joins Swiss League team
+*   Report: Sponsors told of Winter Classic axing
+*   Is CBJ owner McConnell a lockout hardliner?
 *   Mikael Granlund earns Oct. AHL rookie award
-*   AHL names Justin Schultz POTM for October
-*   Report: Dustin Brown joins Lions in Swiss NLA
-*   Raphael Diaz earns praise from Swiss coach
-*   Helm: Lockout is getting beyond frustrating
-*   Winter Classic cancellation might come soon
-*   Radim Vrbata signs with a Czech team
-*   Michael Del Zotto joins Rapperswil of NLA
-*   Chris Kelly to play in Swiss second division
-*   Alexander Semin hints at staying in KHL
-*   Malkin moves into 2nd place among KHL scorers
-*   Ryane Clowe might join ECHL San Francisco
 
 NASCAR PAGES
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
-*   Nelson Piquet Jr. fastest in truck Happy Hour
-*   Brad Keselowski HotPass on DIRECTV notes
-*   Denny Hamlin HotPass on DIRECTV notes
-*   Jimmie Johnson HotPass on DIRECTV notes
-*   Dale Earnhardt Jr. HotPass on DIRECTV notes
-*   Piquet leads first Fort Worth truck practice
-*   Joey Coulter in Fort Worth, Texas
-*   Lone Star State details on Ty Dillon
-*   Brendan Gaughan won four-straight in Texas
-*   Austin Dillon in the Lone Star State
-*   Elliott Sadler at Texas Motor Speedway
-*   Jeff Burton no stranger to Texas Victory Lane
+*   Piquet’s team wins Fort Worth race awards
+*   Ty Dillon wins two race awards at Fort Worth
+*   Johnny Sauter sweeps at Fort Worth
+*   Kyle Busch leads Nationwide Happy Hour
+*   David Stremme not in AAA Texas 500 field
+*   Stephen Leicht fails to qualify in Fort Worth
+*   Kelly Bires not in Fort Worth Cup field
+*   Nemechek gets last Cup slot at Fort Worth
+*   Bayne top Fort Worth Cup go-or-go-homer
+*   Jimmie Johnson on pole for AAA Texas 500
+*   Blake Koch misses Fort Worth truck race
+*   Chris Fontaine not in Fort Worth truck field
 
 GOLF PAGES
 
@@ -285,6 +285,10 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Oosthuizen fades. settles for 54-hole co-lead
+*   Westwood matches career low to lead WGC-HSBC
+*   Snedeker cards 60 in his third round in China
+*   McDowell admits having dust-up...with a door
 *   Hanson will accept 2013 PGA TOUR membership
 *   Oosthuizen separates in WGC-HSBC second round
 *   Scott closes birdie-birdie-eagle to co-lead
@@ -293,10 +297,6 @@ FANTASY GOLF NEWS
 *   Donald will not defend at the season finale
 *   Schwartzel WDs from the WGC-HSBC Champions
 *   Bolli wins Web.com Tour Champ.. 25 graduate
-*   Hanson takes the BMW Masters by one stroke
-*   Watney parlays course-record 61 into CIMB win
-*   Garrigus enters CIMB finale as a co-leader
-*   BVP flirts w/ 59. settles for 54-hole co-lead
 
 NFL DRAFT PAGES
 
@@ -311,14 +311,14 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Midseason NFL Mock Draft Nov 2
+*   Week Ten Matchup Preview Nov 2
 *   Midseason Mock Draft Nov 1
 *   Geno's Learning Process Oct 31
 *   General Patton Oct 29
 *   Senior Prospect Rankings Oct 27
 *   Week Nine Matchup Preview Oct 26
 *   Dysert For Dinner Oct 24
-*   Prospect Snapshots: Weeks 7-8 Oct 23
-*   Senior Surprise: RB Gillislee Oct 22
 
 PARTNERS
 
@@ -327,6 +327,11 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Ricky Wagner expected back after off week
+*   Georgia S Rambo has 'returned to 2011's form'
+*   Graham &. Street deny involvement in assault
+*   Logan Thomas throws two INTs versus Miami
+*   Ray Graham charged with assault &. conspiracy
 *   Mathieu living with Patrick Peterson's family
 *   Jordan Poyer unlikely to play vs Az St (PCL)
 *   Dion Jordan expected to give it a shot vs USC
@@ -334,11 +339,6 @@ NFL DRAFT NEWS
 *   Keenan Allen likely out 2-3 weeks (knee)
 *   Spartans coaches want RB Bell to hit hole
 *   Tar Heel's Bernard hasn't considered NFL, yet
-*   Vols WR Rogers' targets will not increase
-*   Tide WR Cooper should be 'full speed' (ankle)
-*   McShay: Warmack is without question top OL
-*   Gundy: Okie St CB Gilbert must play better
-*   Ducks defensive key is to stop run vs USC
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Charles: I could have gone back in the game
-*   NFL:Rivers tosses 2 TDs to get Chargers to 4-4
-*   NFL:Dez Bryant misses practice, expects to play
-*   NFL:Pats beat deadline, acquire Talib from Bucs
-*   NFL:Calvin Johnson's absence part of new regimen
-*   NFL:Donald Brown misses Thursday's practice
-*   NFL:Harvin's Thursday absence due to family issue
-*   NFL:Report: Tannehill '50-50' to start on Sunday
-*   NFL:Sproles (hand) misses Thursday's practice
-*   NFL:Panthers' Beane: 'We are not trading anyone'
-*   GOL:Hanson will accept 2013 PGA TOUR membership
-*   GOL:Oosthuizen separates in WGC-HSBC second round
+*   NBA:Harden goes for 45. Lin nearly triple-doubles
+*   MLB:Angels decline 2013 option on Dan Haren
+*   NBA:Anthony Davis (head) will not play Saturday
+*   MLB:Mariners ink Iwakuma to two-year extension
+*   NAS:Johnny Sauter sweeps at Fort Worth
+*   MLB:Ortiz agrees to two-year deal with Red Sox
+*   MLB:Report: Haren-for-Marmol trade not happening
+*   NAS:Jimmie Johnson on pole for AAA Texas 500
+*   MLB:Nats make qualifying offer to Adam LaRoche
+*   MLB:Bourn receives qualifying offer from Braves
+*   MLB:Cardinals make qualifying offer to Kyle Lohse
+*   GOL:Oosthuizen fades. settles for 54-hole co-lead
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. RoseNBA (7314)
-*   2J. WallNBA (7111)
-*   3J. DwyerNFL (6696)
-*   4E. GordonNBA (6645)
-*   5K. LoveNBA (6593)
+*   1J. DwyerNFL (7304)
+*   2D. RoseNBA (7141)
+*   3J. WallNBA (6921)
+*   4E. GordonNBA (6694)
+*   5K. LoveNBA (6466)
 
-*   6A. BogutNBA (6459)
-*   7B. MullensNBA (6414)
-*   8D. WilliamsNFL (6372)
-*   9R. RubioNBA (6312)
-*   10D. MurrayNFL (5932)
+*   6A. BogutNBA (6334)
+*   7M. LeshoureNFL (6279)
+*   8D. MurrayNFL (6265)
+*   9D. WilliamsNFL (6259)
+*   10J. NelsonNFL (6051)
 
   
 Video Center
@@ -526,6 +526,10 @@ Video Center
 *   »
 
 *      
+    Week 9 Starts &. Sits 4 p.m.
+*      
+    Week 9 Starts &. Sits 1 p.m.
+*      
     Start or Sit: Saints - Broncos
 *      
     Week 8 Starts &. Sits 4 p.m.
@@ -537,41 +541,37 @@ Video Center
     Fix: Week 8's top pickups
 *      
     Start &. Sit: Lions @ Bears
-*      
-    Start &. Sit: PIT @ CIN
-*      
-    SportsTalk: Week 7 Fear Factor
 
   
   
-  Headlines More for Mathews?  
-Nov 2 Adam Levitan talks Ryan Mathews' usage and recaps all of Thursday's news in the Dose.  
+  Headlines Friday Rundown  
+Nov 2 Frank DuPont takes his weekly look at the stat sheet to identify starts, sits and trade targets.  
   
 More NFL Columns
 
+*   »Friday Rundown Nov 2
+*   »Week 9 Rankings Nov 2
+*   »Matchups: Pay-Dirt Due Nov 2
 *   »More for Mathews? Nov 2
+*   »Best Available NFL Free Agents Nov 2
 *   »Week 9 Chat Nov 1
-*   »Week 9 Rankings Nov 1
 *   »Week 9 Target Watch: NFC Nov 1
 *   »Deadline Snoozing Nov 1
-*   »Matchup: Chiefs @ Chargers Nov 1
-*   »Getting Defensive: Week 9 Oct 31
-*   »Week 9 Target Watch: AFC Oct 31
 
 NFL Headlines
 
-*   »Charles: I could have gone back in the game
-*   »Rivers tosses 2 TDs to get Chargers to 4-4
-*   »Dez Bryant misses practice, expects to play
-*   »Calvin Johnson's absence part of new regimen
-*   »Donald Brown misses Thursday's practice
-*   »Harvin's Thursday absence due to family issue
-*   »Pats beat deadline, acquire Talib from Bucs
-*   »Dwyer practices, expects to play in Week 9
-*   »Report: Tannehill '50-50' to start on Sunday
-*   »Panthers' Beane: 'We are not trading anyone'
-*   »Sproles (hand) misses Thursday's practice
-*   »Reid on QB Vick: 'Not a week-to-week thing'
+*   »Norv: Danario Alexander has earned 'big' role
+*   »Report: Tannehill 'better than 50-50' to play
+*   »Megatron misses practice, listed questionable
+*   »Jahvid Best out for season, but not giving up
+*   »Dez Bryant (hip) listed questionable for SNF
+*   »Sproles out indefinitely after breaking hand
+*   »Dwyer, Mendenhall 'doubtful' for Week 9 game
+*   »Packers WR Nelson will be 'Sunday decision'
+*   »Dwyer sits Friday, Redman expected to start
+*   »Dez Bryant (hip) returns to practice Friday
+*   »Colts RB Brown (knee) expected to play Sunday
+*   »Calvin Johnson misses third straight practice
 
 NFL Links
 
@@ -603,11 +603,11 @@ NFL Links
 
 *   Fantasy Guides
 *   Baseball Draft Guide
-*    Baseball Season Pass
+*   Baseball Season Pass
 *   Football Draft Guide
 *    Football Season Pass
-*    Basketball Draft Guide
-*   Basketball Season Pass
+*   Basketball Draft Guide
+*    Basketball Season Pass
 *    Hockey Draft Guide
 *   Hockey Season Pass
 
