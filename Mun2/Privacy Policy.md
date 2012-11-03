@@ -23,23 +23,23 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: November 01 coming up next:
+schedule right now: November 03 03:00 AM · MORNING BREATH coming up next:
 
-*   12:00 AM · OPERACION REPO
-*   12:30 AM · DUB LATINO
-*   1:00 AM · DECISIONES
-*   2:00 AM · DELICIOUS
-*   3:00 AM · MORNING BREATH
 *   4:00 AM · MORNING BREATH
 *   5:00 AM · MORNING BREATH
 *   6:00 AM · SMB
-*   8:00 AM · REVENTON
-*   9:00 AM · MORNING BREATH
-*   10:00 AM · L'CREME
-*   11:00 AM · L'CREME
-*   12:00 PM · DELICIOUS
-*   1:00 PM · mun2 CINCO
-*   1:30 PM · mun2 PRESENTS: ALEJANDRO SANZ
+*   8:00 AM · MORNING BREATH
+*   9:00 AM · 2RSLVJ
+*   9:30 AM · mun2 PRESENTS: ALEJANDRO SANZ
+*   10:30 AM · REVENTON
+*   11:30 AM · 18 &. OVER
+*   1:00 PM · LARRYMANIA
+*   2:00 PM · I LOVE JENNI
+*   3:00 PM · CHIQUIS 'N CONTROL
+*   4:00 PM · mun2 PRESENTS: BABY RASTA &. GRINGO
+*   5:00 PM · YO ME LLAMO
+*   7:00 PM · CINE CLASICO Y COOL: GRAN HOTEL
+*   9:00 PM · WWE SMACKDOWN
 
 see full schedule >>.
 
