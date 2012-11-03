@@ -148,49 +148,49 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    Come At Me Brah
+    There Castle
 *     
-    Angry Chef Towel Stand
+    Salty the Snowman
 *     
-    Camaro (Fire Chief) Wireless Road Mice
+    When You Wish Upon A Star
 *     
-    X-Wing Fighter - Super Deformed Plush
+    Logical Positiv-Its Sticky Notes
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
-Erin Faces Off Against Twitter Death...  
-Mother Boo Boo's Hideous Chins  
-Best Mascot Battle EVER!  
 31 Most Perfectly Looped GIFS Ever!  
+Massive Fight in Restaurant Over Girl...  
+Kid's Drawings Turned Into Awesome To...  
+The Toughest Bridge In The World  
 More news at Scribol »  
   
   
-Michael Nouri -- Arrested for Domesti...  
-Cee Lo Accuser: He Slipped Me Ecstasy...  
-Hot Naked Men Found in Michael Jackso...  
-Kim Kardashian Sex Tape Company -- Th...  
+G4's Knuckle Up: The Best Mobile Game...  
+The Presidential Election In WWE '13:...  
+Hitman: Absolution -- Highlights from...  
+Mass Effect Trilogy Gameplay Trailer  
+More news at G4TV »  
+  
+  
+Phillip Phillips' Family -- 'Idol' Ch...  
+Tim Tebow -- You Be the Judge  
+Octomom -- Permission to FIGHT During...  
+Honey Boo Boo -- Hey Y'all I'm a Swas...  
 More news at TMZ »  
   
   
-SANDY PHOTO OP  
-Researchers Put Psychics To The Test  
-Woman Swallows Toothbrush: How Will I...  
-WATCH: Did A UFO Fly Into An Active V...  
-More news at HuffPostWeirdNews »  
-  
-  
-We Show It ALL  
-Texas doesn't get hockey  
-Bloomberg's Amazing Interpreter  
-10 Presidential Elections That Were P...  
-More news at truTV »  
+Obama Wants You To Call Him, Maybe?  
+Help Us Pick An NBA Team  
+Flight Is An AA Infomercial  
+Best Lines From This Week  
+More news at UPROXX »  
   
 
 Also on Fark
 
-Main 24/48-hour heads-up: Halloween Fark Party. Oceanside, CA. Hosted by GWSuperfan and VivianVivisect. Pre-party 11/2, main event (downtown bar-crawl) 11/3 ( fark.com ) » (160 comments) Sports Steve Spurrier thinks that Alabama can beat NFL teams. Somebody has been drinking the Koolaid ( espn.go.com ) » (19 comments) Business Q: What do airlines owe passengers displaced by Sandy? A: Nothing. You get nothing. Good day, sir ( huffingtonpost.com ) » (59 comments) Geek NyanyanyanyanyanyanyaDEAD ( news.yahoo.com ) » (12 comments) Entertainment Gwyneth Paltrow's grandfather once compared her boobs to fried eggs in a pan. So that's how it is in their family ( thesun.co.uk ) » (20 comments) Politics But out of the billowing smoke and dust of Tweets and trivia emerged... an e-mail from Gingrich acknowledging that Obama was going to win ( news.yahoo.com ) » (22 comments) Video Disney Star Wars Episode VII - Choosing the Director (Original Comedy Video) ( youtube.com ) » (3 comments) FarkUs Mother Jones suggests that the If you're young and physically fit and in NY, that you hike up a darkened high rise w/ water, power bars, toilet paper and help the elderly ( motherjones.com ) » (9 comments)
+Main Behold the 'Selkirk Rex' a new breed of cat that will have you saying AW, all day long on Caturday ( sciencedaily.com ) » (252 comments) Sports Can the Toffees keep being the pride of Merseyside, will Lambert stop being a villain, can Wenger forget the 8-2 drubbing and can Liverpool snatch back from Chelsea the title of most hated team? Welcome to Fark's weekly English Premier League thread ( guardian.co.uk ) » (10 comments) Business Amtrak resumes limited service during hurricane repairs. This is good news since on its best days Amtrak provided only limited service ( businessweek.com ) » (5 comments) Geek Meet the climate change denier who also just happens to be Wikipedia's expert on Hurricane Sandy ( popsci.com ) » (222 comments) Entertainment FARK's favorite Taiwanese animators produce the official Disney trailer for Star Wars Episode VII ( youtube.com ) » (29 comments) Politics For those bemoaning the loss of civility in the elections, let's look back to 1800 when Jefferson's opponent (an allegeded mentally unbalanced hermaphrodite) claimed a victory would mean murder, rape and robbery in the streets ( cbsnews.com ) » (13 comments) Video Verily, this is what it is all about ( youtube.com ) » (0 comments) FarkUs If you want a NY/NJ area charity to donate to for Sandy relief efforts, Gary Sinese and Rudy Giuliani would like you to give to the Stephen Siller Tunnel to Towers Foundation ( silive.com ) » (0 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main 24/48-hour heads-up: Halloween Fark Party. Oceanside, CA. Hosted by GWSuper
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Nov 02 2012 08:00:33  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Nov 03 2012 08:00:29  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
