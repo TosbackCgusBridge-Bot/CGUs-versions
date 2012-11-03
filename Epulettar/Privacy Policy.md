@@ -83,19 +83,21 @@ még több
 
 új projekt
 
+öreg-tó, tata
+
+által-ér
+
 messer hungarogáz kft. töltőüzem, budapest
 
 váci corner offices, budapest
 
 erdőtelki arborétum, erdőtelek
 
-vármegyeháza (megyeháza), szekszárd
-
-béla király tér, szekszárd
-
 még több
 
 dossziék
+
+Dosszié: Hidak
 
 Dosszié: Megújuló energiaforrások
 
@@ -104,8 +106,6 @@ Dosszié: Széchenyi terv
 Dosszié: Műemlék
 
 Dosszié: Közlekedés Operatív Program (KÖZOP)
-
-Dosszié: Út
 
 még több
 
@@ -124,12 +124,11 @@ brassó építészete fotókon és előadásokon budapesten
 
 épülettár apró
 
-teljes körű földmérés - geodézia, földhivatali ügyintézés- debrececen - prizma földmérő kft
+bamboo-bambusz faiskola
 
 földhivatali idézés - épület feltüntetése : prizma földmérő kft debrecen
 
-kútfúrás szigethalmon, zuglóban, szigetszentmárto  
-nban, vecsésen, budapesten és környékén.
+teljes körű földmérés - geodézia, földhivatali ügyintézés- debrececen - prizma földmérő kft
 
 még több
 
@@ -181,11 +180,11 @@ kikötő \[11\]
 
 temető \[22\]
 
-arborétum, botanikus kert, természeti érték \[112\]
+arborétum, botanikus kert, természeti érték \[114\]
 
 rendezvényközpont, konferenciaközpont \[62\]
 
-közterület \[76\]
+közterület \[78\]
 
 lakás \[164\]
 
@@ -205,7 +204,7 @@ Beruházás \[49\]
 
 Tervezés, építész \[1643\]
 
-Ingatlanfejlesztés \[318\]
+Ingatlanfejlesztés \[319\]
 
 Partnerek programajánlói
 
