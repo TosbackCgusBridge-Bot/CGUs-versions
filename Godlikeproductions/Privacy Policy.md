@@ -1,5 +1,5 @@
   
-Users Online Now: **1,930** (Who's On?) Visitors Today: **354,308** Pageviews Today: **582,022** Threads Today: **247** Posts Today: **3,515** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,568** (Who's On?) Visitors Today: **302,323** Pageviews Today: **535,430** Threads Today: **221** Posts Today: **3,372** 08:14 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,14 @@ trinity@godlikeproductions.com
   
 News
 
+*   New Fake HIV Test to Target Poor
+*   Military Takes Over Election Day in New Jersey
+*   West Virginia: Traffic Stop Cannot Be Used to Justify Home Search
+*   Homeland Security worker charged with soliciting kids on Facebook
+*   Police state: Growth rate of US cops exceeds population growth
+*   TSA agent arrested over 'rape of young boy'
+*   Looking Beyond Election Day: The Issues That Threaten to Derail the Nation
+*   Mexican Cartels Enslave Engineers to Build Radio Network
 *   Federal court approves use of hidden surveillance cameras on private property without warrants
 *   EFF Demands Answers About Predator Drone Flights in the U.S.
 *   The Kremlin’s New Internet Surveillance Plan Goes Live Today
@@ -129,14 +137,6 @@ News
 *   Cloning-like method targets mitochondrial diseases
 *   New Yorkers brace for post-Hurricane Sandy ‘ratpocalypse’
 *   Lawsuit claims jail guards flushed baby down toilet
-*   Why is Crude Oil Price Falling?
-*   NYT called out city’s flood-protection problems in September
-*   New Yorkers search for food, water and electricity
-*   Bloomberg orders three-person minimum for all cars entering Manhattan
-*   Fla schools being asked to close on 2 Muslim holidays
-*   Pastor who spoke at inauguration believes all white people going to hell, stimulus was ‘genius’
-*   Where Will The Next Pandemic Come From?
-*   Sandy Wiped Out NYU Lab Mice, Dealing Blow to Medical Research
 
   
   
