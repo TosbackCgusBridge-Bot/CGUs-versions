@@ -15,7 +15,7 @@
 *   FAQ
 
 *   Follow Us On Twitter
-*   Connect On Linkedin
+*   Visit our Blog
 *   Fan Us On Facebook
 
 Privacy Privacy Statement Protect Your Privacy and Safety
@@ -112,6 +112,6 @@ If you think you have been a victim of fraud, immediately report the committed f
 
 © CareerBuilder.com. All Rights Reserved  
   
-Site by: The Ocean Agency - a Chicago SEO Company
+Site by: The Ocean Agency - a Chicago SEO
 
 PrivacySitemapContact UsLegal
