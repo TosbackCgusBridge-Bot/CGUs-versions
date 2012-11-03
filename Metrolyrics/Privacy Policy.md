@@ -147,53 +147,57 @@ The website is not directed to individuals under the age of thirteen (13), and w
 
 See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 
-*   Ashlee Simpson  
-    Bat For A Heart Lyrics
-*   Pitbull  
-    Feel This Lyrics
-*   Wale  
-    Arrival Lyrics
-*   Kesha  
-    Die Young Lyrics
-*   Adele  
-    Someone Like You Lyrics
-
+*   Phillip Phillips  
+    Gone, Gone, Gone Lyrics
 *   Pitbull  
     Party Ain't Over Lyrics
 *   Christina Aguilera  
-    Best Of Me Lyrics
-*   Ellie Goulding  
-    I Need Your Love Lyrics
-*   Katy Perry  
-    Wide Awake Lyrics
-*   Alex Clare  
-    Too Close Lyrics
-
-*   Natalia Kills  
-    Problem Lyrics
-*   Cher  
-    Woman's World Lyrics
-*   Bruno Mars  
-    Locked Out Of Heaven Lyrics
-*   Carly Rae Jepsen  
-    Call Me Maybe Lyrics
-
-*   Alicia Keys  
-    Fire We Make Lyrics
-*   Kanye West  
-    White Dress Lyrics
+    Just A Fool Lyrics
 *   Ed Sheeran  
     A Team Lyrics
 *   Gotye  
     Somebody That I Used To Know Lyrics
 
-*   Christina Aguilera  
-    Just A Fool Lyrics
-*   Jonas Brothers  
-    Wedding Bells Lyrics
+*   Phillip Phillips  
+    Get Up Get Down Lyrics
+*   Natalia Kills  
+    Problem Lyrics
+*   Cher  
+    Woman's World Lyrics
 *   Justin Bieber  
     As Long As You Love Me Lyrics
 *   David Guetta  
     Titanium Lyrics
+
+*   Phillip Phillips  
+    Man On The Moon Lyrics
+*   Alicia Keys  
+    Fire We Make Lyrics
+*   Kanye West  
+    White Dress Lyrics
+*   Kesha  
+    Die Young Lyrics
+*   Adele  
+    Someone Like You Lyrics
+
+*   Ludacris  
+    Rest Of My Life Lyrics
+*   Christina Aguilera  
+    Best Of Me Lyrics
+*   Jonas Brothers  
+    Wedding Bells Lyrics
+*   Katy Perry  
+    Wide Awake Lyrics
+*   Alex Clare  
+    Too Close Lyrics
+
+*   Ashlee Simpson  
+    Bat For A Heart Lyrics
+*   Pitbull  
+    Feel This Lyrics
+*   Bruno Mars  
+    Locked Out Of Heaven Lyrics
+*   Carly Rae Jepsen  
+    Call Me Maybe Lyrics
 
 Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
