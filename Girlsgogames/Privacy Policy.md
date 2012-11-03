@@ -13,8 +13,6 @@
 *   High-Score Games
 *   Mobile Games
 
-*   Halloween Games
-
 *   Adventure Games
 *   Animal Games
 *   Cooking Games
