@@ -220,7 +220,7 @@ Besoin d'aide ?
 *   Retourner un article
 *   Aide
 
-Allemagne | Canada | Chine | Espagne | États-Unis | Italie | Japon | Royaume-Uni  Et aussi : AbeBooks | Audible | Book Depository | Javari | MYHABIT | Shopbop Conditions générales de vente | Vos informations personnelles | Informations légales | Cookies et Publicité sur Internet  © 1996-2012, Amazon.com, Inc. ou ses filiales.
+Allemagne | Canada | Chine | Espagne | États-Unis | Italie | Japon | Royaume-Uni  Et aussi : AbeBooks | Audible | Book Depository | Javari | MYHABIT | Shopbop Conditions générales de vente | Vos informations personnelles | Cookies et Publicité sur Internet  © 1996-2012, Amazon.com, Inc. ou ses filiales.
 
 *   MP3 et Cloud Player
 *   Téléchargements MP3Plus de 20 millions de titres à télécharger
