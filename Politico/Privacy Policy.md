@@ -113,123 +113,124 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/02/2012 7:02 AM ET
+Updated: 11/03/2012 8:02 AM ET
 
-1.  1 Int'l observers say states out of line
-2.  2 Old Mitt is new again
-3.  3 Rove: 279 electoral votes for Mitt
-4.  4 Trump: Obama blew off the deadline
-5.  5 Secret Service agent in affair probe found dead
-6.  6 Bill Clinton hits the road
-7.  7 Romney hits Obama on defense cuts
-8.  8 NYT public editor: Silver bet 'bad idea'
-9.  9 Romney elbows MSNBC
-10.  10 GOP spends big to save Mourdock
+1.  1 Obama early vote edge tenuous
+2.  2 Brian Williams knocks Rush Limbaugh
+3.  3 Limbaugh strikes back at Williams
+4.  4 'Swift-Boating' of Obama fails
+5.  5 Romney holds all-star Ohio rally
+6.  6 Rupert Murdoch swipes at Chris Christie
+7.  7 Poll: Obama up 6 in Ohio, 2 in Fla.
+8.  8 Exclusive: Christie was Mitt's first choice for VP
+9.  9 Mitt's Pennsylvania gamble
+10.  10 WaPo eds: Romney campaign insults voters
 
-Updated: 11/02/2012 7:02 AM ET
+Updated: 11/03/2012 8:02 AM ET
 
-1.  1 Int'l observers say states out of line
+1.  1 Obama early vote edge tenuous
+2.  2 Poll-watchers: States out of line
+3.  3 Brian Williams knocks Rush Limbaugh
+4.  4 Liberals fear grand bargain betrayal
+5.  5 Limbaugh strikes back at Williams
+6.  6 Jobs report puts economy back in campaign spotlight
+7.  7 'Swift-Boating' of Obama fails
+8.  8 Donnelly takes big lead over Mourdock
+9.  9 Mitt's Pennsylvania gamble
+10.  10 Gibbs: Romney in Pa. is 'desperate'
+
+Updated: 11/03/2012 8:02 AM ET
+
+1.  1 Poll-watchers: States out of line
 2.  2 Rove: 279 electoral votes for Mitt
-3.  3 Iowa to poll-watchers: Back off
-4.  4 Crystal ball: Senate race projections
-5.  5 Bachmann on defense after W.H. bid
-6.  6 Trump: Obama blew off the deadline
-7.  7 Old Mitt is new again
-8.  8 Mitt pollster: Q poll 'crap'
-9.  9 Bloomberg endorses Obama (Updated)
-10.  10 Secret Service agent in affair probe found dead
+3.  3 Obama early vote edge tenuous
+4.  4 Iowa to poll-watchers: Back off
+5.  5 Brian Williams knocks Rush Limbaugh
+6.  6 Bachmann on defense after W.H. bid
+7.  7 Crystal ball: Senate race projections
+8.  8 Trump: Obama blew off the deadline
+9.  9 Liberals fear grand bargain betrayal
+10.  10 Old Mitt is new again
 
-Updated: 11/02/2012 7:02 AM ET
-
-1.  1 Iowa to poll-watchers: Back off
-2.  2 NPR apologizes to Abigael Evans
-3.  3 1 week, 2 versions of reality
-4.  4 Bachmann on defense after W.H. bid
-5.  5 Int'l observers say states out of line
-6.  6 Rove: 279 electoral votes for Mitt
-7.  7 The Tea Party gets a news site
-8.  8 Poll: Voters say Obama will win
-9.  9 Bloomberg: No 'diss' to Obama
-10.  10 Gallup suspends daily tracking poll
-
-Updated: 11/02/2012 7:02 AM ET
+Updated: 11/03/2012 8:02 AM ET
 
 1.  1 Oliver Stone's new book rips Obama
 2.  2 Nate Silver: One-term celebrity?
 3.  3 Gallup suspends daily tracking poll
-4.  4 Ex-Biden aide pens angry tell-all
-5.  5 Iowa to poll-watchers: Back off
-6.  6 Martin Sheen: Romney is stupid, arrogant
-7.  7 FEMA, W.H. send victims to Internet
-8.  8 NBA's Stern: Obama always goes left
-9.  9 Bloomberg: No 'diss' to Obama
-10.  10 Battleground Tracking Poll: Obama retakes lead
+4.  4 Iowa to poll-watchers: Back off
+5.  5 Martin Sheen: Romney is stupid, arrogant
+6.  6 FEMA, W.H. send victims to Internet
+7.  7 Battleground Tracking Poll: Obama retakes lead
+8.  8 Bloomberg: No 'diss' to Obama
+9.  9 NPR apologizes to Abigael Evans
+10.  10 Poll-watchers: States out of line
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/02/2012 7:02 AM ET
+Updated: 11/03/2012 8:02 AM ET
 
-1.  1 Liberals fear grand bargain betrayal if Obama wins
-2.  2 McCain hits the trail like it's 2008
-3.  3 Officials: No delays in Libya response
-4.  4 Old Mitt is new again
+1.  1 'Socialist' ads raise questions
+2.  2 How Elizabeth Warren staged her comeback
+3.  3 Exclusive: Christie was Mitt's first choice for VP
+4.  4 Giuliani hits Obama on Sandy, Libya
+5.  5 Romney holds all-star Ohio rally
 
-Updated: 11/02/2012 7:02 AM ET
+Updated: 11/03/2012 8:02 AM ET
 
-1.  1 Liberals fear grand bargain betrayal if Obama wins
-2.  2 McCain hits the trail like it's 2008
-3.  3 Officials: No delays in Libya response
-4.  4 Old Mitt is new again
-5.  5 Bill Clinton hits the road
-6.  6 JFK says vote on Nov. 6
-7.  7 GOP spends big to save Mourdock
-8.  8 Secret Service agent in affair probe found dead
-9.  9 Congress may step in for Sandy aid
-10.  10 Levin wants answers on tax report
+1.  1 'Socialist' ads raise questions
+2.  2 How Elizabeth Warren staged her comeback
+3.  3 Exclusive: Christie was Mitt's first choice for VP
+4.  4 Giuliani hits Obama on Sandy, Libya
+5.  5 Romney holds all-star Ohio rally
+6.  6 Obama early vote edge tenuous
+7.  7 Bloomberg: NYC Marathon canceled
+8.  8 Limbaugh strikes back at Williams
+9.  9 'Swift-Boating' of Obama fails
+10.  10 Huck slams 'liberal, crazy websites'
 
-Updated: 11/02/2012 7:02 AM ET
+Updated: 11/03/2012 8:02 AM ET
 
-1.  1 Liberals fear grand bargain betrayal if Obama wins
-2.  2 McCain hits the trail like it's 2008
-3.  3 Officials: No delays in Libya response
-4.  4 Old Mitt is new again
-5.  5 Bill Clinton hits the road
-6.  6 JFK says vote on Nov. 6
-7.  7 GOP spends big to save Mourdock
-8.  8 Secret Service agent in affair probe found dead
-9.  9 Congress may step in for Sandy aid
-10.  10 Levin wants answers on tax report
+1.  1 'Socialist' ads raise questions
+2.  2 How Elizabeth Warren staged her comeback
+3.  3 Exclusive: Christie was Mitt's first choice for VP
+4.  4 Giuliani hits Obama on Sandy, Libya
+5.  5 Romney holds all-star Ohio rally
+6.  6 Obama early vote edge tenuous
+7.  7 Bloomberg: NYC Marathon canceled
+8.  8 Limbaugh strikes back at Williams
+9.  9 'Swift-Boating' of Obama fails
+10.  10 Huck slams 'liberal, crazy websites'
 
-Updated: 11/02/2012 7:02 AM ET
+Updated: 11/03/2012 8:02 AM ET
 
-1.  1 Liberals fear grand bargain betrayal if Obama wins
-2.  2 McCain hits the trail like it's 2008
-3.  3 Officials: No delays in Libya response
-4.  4 Old Mitt is new again
-5.  5 Bill Clinton hits the road
-6.  6 JFK says vote on Nov. 6
-7.  7 GOP spends big to save Mourdock
-8.  8 Secret Service agent in affair probe found dead
-9.  9 Congress may step in for Sandy aid
-10.  10 Levin wants answers on tax report
+1.  1 'Socialist' ads raise questions
+2.  2 How Elizabeth Warren staged her comeback
+3.  3 Exclusive: Christie was Mitt's first choice for VP
+4.  4 Giuliani hits Obama on Sandy, Libya
+5.  5 Romney holds all-star Ohio rally
+6.  6 Obama early vote edge tenuous
+7.  7 Bloomberg: NYC Marathon canceled
+8.  8 Limbaugh strikes back at Williams
+9.  9 'Swift-Boating' of Obama fails
+10.  10 Huck slams 'liberal, crazy websites'
 
 Showing Last 7 Days
 
-Updated: 11/02/2012 7:02 AM ET
+Updated: 11/03/2012 8:02 AM ET
 
-1.  1 Rove: 279 electoral votes for Mitt
-2.  2 Radio: The other air war
-3.  3 1 week, 2 versions of reality
-4.  4 Sandy forces anti-politics politics
-5.  5 Battleground Tracking Poll: Obama retakes lead
-6.  6 Tight race in divided Wisconsin
-7.  7 Romney's road to Ohio victory
-8.  8 White voters still matter
-9.  9 Obama tries to shore up female vote
-10.  10 Dems go all in for abortion rights
+1.  1 Obama early vote edge tenuous
+2.  2 Jobs report puts economy back in campaign spotlight
+3.  3 Poll-watchers: States out of line
+4.  4 Rove: 279 electoral votes for Mitt
+5.  5 Radio: The other air war
+6.  6 1 week, 2 versions of reality
+7.  7 Sandy forces anti-politics politics
+8.  8 Battleground Tracking Poll: Obama retakes lead
+9.  9 Tight race in divided Wisconsin
+10.  10 Romney's road to Ohio victory
 
 News
 
