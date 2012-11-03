@@ -76,7 +76,7 @@ How to Climb Trees With Ropes and Harnesses
 
 DIY Central     Privacy Policy Text Size: A . A . A In order to view the Privacy Policy you must enable javaScript. CONNECT WITH POPULAR MECHANICS: Featured Video Giveaways
 
-Win An Audioquest DragonFly USB DAC
+Enter to Win a $10,000 in the Cool Tools Giveaway!
 
 See All Giveaways More From Popular Mechanics
 
@@ -187,7 +187,7 @@ Popularmechanics.com
 *   Outdoors
 *   DIY Central
 
-STUFF MEN LIKE How to Build a Car Home Inspection Checklist Diesel Truck Reviews DIY Solar Panels Science Fiction Movies Easy Breakfast Recipes Dodge Charger Review Synthetic Oil Review Most Fuel Efficient Cars Easy Recipes for Men How to Make Pancakes from Scratch REVIEWS Honda CR-V Review Car Reviews Tuxedo Styles &. Reviews Upcoming Movies 2012 Zero Turn Mowers Raised Garden Beds Leaf Blower Reviews Ford Focus Review Mens Hairstyles iPhone 5 Cases Organic Foods HOW TO How to Tie a Tie How to Grow a Beard Pro Painting Tips Carve a Turkey How to Build a Shed How to Iron Painting Kitchen Cabinets How to Make Beer How to Install Drywall Shirt and Tie Combos New Cars 2012 &. 2013 TRENDING DIY Thanksgiving Desserts Fisker Karma Automotive News Political News 2012 SUV with Best Gas Mileage Best Life Quotes Helium Shortage 2012 iPhone 5 Features Great American Beer Festival Mens Fashion Best Thanksgiving Recipes
+STUFF MEN LIKE How to Build a Car Home Inspection Checklist Diesel Truck Reviews DIY Solar Panels Science Fiction Movies Easy Breakfast Recipes Dodge Charger Review Synthetic Oil Review Most Fuel Efficient Cars Easy Recipes for Men REVIEWS Honda CR-V Review Car Reviews Tuxedo Styles &. Reviews Upcoming Movies 2012 Zero Turn Mowers Raised Garden Beds Leaf Blower Reviews Ford Focus Review Mens Hairstyles iPhone 5 Cases Organic Foods HOW TO How to Tie a Tie How to Grow a Beard Pro Painting Tips Pancake Recipe How to Build a Shed How to Iron Painting Kitchen Cabinets How to Make Beer How to Install Drywall Shirt and Tie Combos New Cars 2012 &. 2013 TRENDING DIY Thanksgiving Desserts Fisker Karma Automotive News Political News 2012 SUV with Best Gas Mileage Best Life Quotes Helium Shortage 2012 iPhone 5 Features Great American Beer Festival Mens Fashion Best Thanksgiving Recipes
 
 ©2012 Hearst Communication, Inc. All Rights Reserved. Being Green /Why did I get this ad?
 
