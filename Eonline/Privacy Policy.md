@@ -6,7 +6,8 @@ E! Online
 *   Videos
 *   TV Scoop
 *   Trends
-*   E! Shows
+*   E! Shows  
+    Ice Loves Coco: Brand New Sunday 10|9c
 *   Red Carpet
 
 *   Follow @twitter
