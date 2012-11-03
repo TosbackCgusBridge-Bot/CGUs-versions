@@ -143,26 +143,25 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Sugar Vs High Fructose Corn Syrup Resources
+*   Recovery Drink Reviews Resources
 
   
-Stay in Touch With SparkPeople **Slideshow: 7 Fun Fat-Burners for Fall**
+Stay in Touch With SparkPeople **6 Tips to Deal with Daylight Saving Time**
 
-When the scenery is beautiful and the temperature comfortable, almost any activity--including exercise--seems more enjoyable. Here are seven ways to get fit and burn calories this autumn season.
+Daylight Saving Time ends this weekend, but that doesn't mean you'll 'fall back' into sleeping problems. Find out how you can stay energized and alert after the time change.
 
 Read More
 
-*   Describe the last time you felt proud of yourself.
 *   How do you maintain your exercise long-term?
 *   Why the scale isn't a good indicator of health.
-*   Who Motivates you on Sparkpeople?
-*   Healthy Halloween snacks
+*   How do you fight boredom on the treadmill?
+*   Do you have a goal after weight loss?
+*   Specific Tips to get through the Weekend
 
-View Demo **Camel Stretch**  
-Stretch your abs and spine. **15-Minute Fish with Parsley Pesto**  
-Submitted By: **CHEF\_MEG**
+View Demo **Biceps Curls with Band**  
+Resistance bands are cheap and easy to tote. Do this move anywhere! **Baked Pork Chops**
 
-We tend to think of herbs as garnishes, but parsley takes a starring role in this fresh pesto. Full Recipe
+These spicy and moist pork chops are made with no added fat, egg whites, evaporated skim milk, and a lively herb mixture. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
