@@ -128,11 +128,11 @@ Go to homepage.
     Take an interactive tour
     
     *   Inside the White House
-        *   History
         *   Décor and Art
         *   Interactive Tour
         *   Video Series
         *   Google Art
+        *   West Wing Tour
     *   Presidents
     *   First Ladies
     *   The Oval Office
