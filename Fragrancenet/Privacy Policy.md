@@ -369,7 +369,7 @@ Enter our contest and win a $250 shopping spree!
 
 Next Drawing: Dec 1 2012
 
-Last Month's Winner: stella
+Last Month's Winner: amy
 
 LIKE us for exclusive offers, fun contests, &. more!
 
