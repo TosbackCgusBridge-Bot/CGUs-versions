@@ -49,7 +49,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-HuffPost Live’s new iPad app could be a second screen breakthrough
+The disruption of education: How technology is helping students teach themselves
 
 Stay on top of tech news in your inbox
 
