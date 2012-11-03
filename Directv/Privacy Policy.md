@@ -1,8 +1,8 @@
 Privacy Policy JavaScript is disabled in your browser. We recommend that you enable JavaScript to optimize your experience on DIRECTV.com. Learn More
 
-*   PXDTPW05C
-*   3007741840
-*   3064362484
+*   PXDTPW07C
+*   3009205173
+*   3066051606
 *   false
 *   false
 *   false
