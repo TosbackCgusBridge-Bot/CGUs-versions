@@ -203,66 +203,74 @@ Registrieren Login
 9.  Windows 8
 10.  Winter
 
-Top-50 Themen Thema Anzahl Apple 84574 Arbeit 64979 Ausbildung 50373 Auto 91278 Beauty 69553 Beruf 77626 Beziehung 72297 Computer 539282 Computerspiele 64878 deutsch 67200 Englisch 52257 Ernährung 50842 essen 71395 Facebook 77801 Fernsehen 60380 Film 100527 Finanzen 59103 Freizeit 264473 Fußball 51251 Games 125407 Geld 93785 Gesundheit 206266 Haare 82991 Handy 205882 Hilfe 149419 Internet 323222 iPhone 75699 Kinder 50995 Körper 50424 Laptop 73826 Liebe 166210 Lied 54680 Mädchen 56614 Medizin 62859 Minecraft 68424 Musik 281372 PC 283459 PC-Spiele 48902 Problem 55533 PS3 60602 Recht 95516 Schule 236147 Software 57191 Spiele 137720 Sport 111201 Technik 120900 Tiere 64997 TV 54500 Video 52877 Youtube 83666 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 84684 Arbeit 65042 Ausbildung 50421 Auto 91340 Beauty 69619 Beruf 77670 Beziehung 72398 Computer 539757 Computerspiele 64978 deutsch 67257 Englisch 52305 Ernährung 50884 essen 71441 Facebook 77924 Fernsehen 60431 Film 100659 Finanzen 59130 Freizeit 264602 Fußball 51281 Games 125603 Geld 93901 Gesundheit 206431 Haare 83093 Handy 206152 Hilfe 149681 Internet 323538 iPhone 75815 Kinder 51027 Körper 50496 Laptop 73931 Liebe 166469 Lied 54747 Mädchen 56703 Medizin 62918 Minecraft 68551 Musik 281665 PC 283827 PC-Spiele 48986 Problem 55635 PS3 60727 Recht 95567 Schule 236320 Software 57236 Spiele 137920 Sport 111270 Technik 121055 Tiere 65044 TV 54553 Video 52929 Youtube 83832 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  billyjoy
+1.  madbaum
     
     Punkte:
     
-    1092
+    1195
     
     Level:
     
-    billyjoy
+    madbaum
     
-2.  Orrik
+2.  bananaboy101
     
     Punkte:
     
-    797
+    732
+    
+    Level:
+    
+    bananaboy101
     
 3.  Bluebird555
     
     Punkte:
     
-    724
+    671
+    
+    Level:
+    
+    Bluebird555
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.394.538 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.403.800 gute Fragen_
 
-*   28 Großmutter gestorben und Sexspielzeug gefunden...
-*   26 Kommender Tod. Mein Freund am Boden, was soll ich tun? Ablenkung?
-*   19 früher sind religiöse ergeignisse geschen warum heut nicht mehr
+*   36 Beste Freundin hat sich vor mir in die Hose gemacht.
+*   18 Können Katzen einen verstehen?
+*   18 Ich bin Atheist, aber sehne mich nach Gott. Ist da doch mehr?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
-*   Kunstblut selber machen
-*   Kürbis schnitzen leicht gemacht: Halloween-Kürbis mal zwei
+*   Bastel-Anleitung: Blumenstrauß aus Herbstlaub
+*   Kräuterseitlinge mit Pasta
 
 *   Spiel für Halloween-Kinderparty: Die Halloween-Grusel-Box
-*   Bastel-Anleitung: Blumenstrauß aus Herbstlaub
+*   Schnell und einfach: Halloween-Geister aus Meringue
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.978.438
+1.981.199
 
 Anzahl der Fragen
 
-8.394.148
+8.403.219
 
 Anzahl der Antworten
 
-36.396.787
+36.428.386
 
 Anzahl der Tipps
 
-75.397
+75.465
 
 Anzahl der Videos
 
-4.787
+4.771
 
 Blog
 
