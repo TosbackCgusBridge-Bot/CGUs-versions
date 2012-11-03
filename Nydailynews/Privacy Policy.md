@@ -1,4 +1,4 @@
-*   Friday, November 2, 2012
+*   Saturday, November 3, 2012
 *   NYDailyNews.com / Privacy Policy
 
 *   Jobs
@@ -48,9 +48,9 @@ Daily News
     Place An Ad
     
 
-SUPERSTORM SANDY
+SUPERSTORM SANDY LIVE COVERAGE:
 
-LIVE SUBWAY, POWER, SCHOOLS UPDATES HERE
+PHOTOS, VIDEO &. MORE FROM OUR TEAM AROUND NEW YORK CITY
 
 x PRIVACY POLICY
 
