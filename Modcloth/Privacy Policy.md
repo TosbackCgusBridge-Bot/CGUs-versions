@@ -239,9 +239,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   ‘Scruff Stuff: Mustachioed Marvels for Movember
-    *   Fave Finds: Elyse’s Denim Vest
-    *   Working Ghouls: Halloween 2012 at the ModCloth Office
+    latest blog posts*   Shake &. Sip: A Vintage Cocktail Recipe from Lesley M. M. Blume
+    *   Cozy Up to the Indie-Folk Tunes of Big Tree
+    *   ‘Scruff Stuff: Mustachioed Marvels for Movember
     
     *   modcloth blog
     *   In Other Words
