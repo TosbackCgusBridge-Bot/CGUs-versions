@@ -688,21 +688,21 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   Lo que no sabías...
+*   ¡No te las pierdas!
     
-    Los artistas de Corazón Valiente  
+    Descubre aquí lo mejor de tus novelas.
     
-*   Tu sexualidad
+*   Los senos
     
-    Descubre cómo eres en la cama según la astrología
+    Descubre por qué son el arma letal femenina  
     
 *   ¡Superhéroes de novela!
     
     Tú eliges el mejor de ellos... ¡Decídelo!
     
-*   Camino de Miss Venezuela
+*   Camino de Miss Mexico
     
-    Conoce a Irene Esser, la impactante finalista venezolana que se propone lograr la séptima corona de Miss Universo para su país. ¿Crees que tiene las cualidades para ganar?  
+    Con una figura de cuento de hadas.  
     
 
 Más en Telemundo:
