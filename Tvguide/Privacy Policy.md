@@ -73,9 +73,9 @@ What's Hot
 
 _Glee_: Finn Needs Help!
 
-Weekend TV
+_Last Man Standing_ Recastings
 
-_Hairspray_ Star's Weight Loss
+Weekend Football
 
 Save These Shows!
 
@@ -140,8 +140,8 @@ more popular movies Top Videos
 1.  Arrow
 2.  The Vampire Diaries
 3.  The Vampire Diaries
-4.  Watch the new cold open for Th...
-5.  Supernatural
+4.  Supernatural
+5.  The Vampire Diaries
 
 more top videos
 
