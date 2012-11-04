@@ -242,13 +242,13 @@ Your email is safe with us. We hate spam too!
 
 Featured this week on livestrong.com
 
-*   Nov 1, 2012 The 'Better Booty'  
+*   Nov 2, 2012 The 'Better Booty'  
     Warmup Routine
-*   Oct 31, 2012 Solutions For Common  
+*   Nov 1, 2012 Solutions For Common  
     Food Allergies
-*   Oct 30, 2012 The 20 Best Foods  
+*   Oct 31, 2012 The 20 Best Foods  
     For Smoothies
-*   Oct 29, 2012 The New Rules  
+*   Oct 30, 2012 The New Rules  
     Of Stretching
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
