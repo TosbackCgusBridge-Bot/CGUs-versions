@@ -113,124 +113,118 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/03/2012 8:02 AM ET
+Updated: 11/04/2012 7:03 AM ET
 
-1.  1 Obama early vote edge tenuous
-2.  2 Brian Williams knocks Rush Limbaugh
-3.  3 Limbaugh strikes back at Williams
+1.  1 AFF poll: Minnesota a toss-up
+2.  2 Former Hillary aide backs Romney
+3.  3 Exclusive: Christie was Mitt's first choice for VP
 4.  4 'Swift-Boating' of Obama fails
-5.  5 Romney holds all-star Ohio rally
-6.  6 Rupert Murdoch swipes at Chris Christie
-7.  7 Poll: Obama up 6 in Ohio, 2 in Fla.
-8.  8 Exclusive: Christie was Mitt's first choice for VP
-9.  9 Mitt's Pennsylvania gamble
-10.  10 WaPo eds: Romney campaign insults voters
+5.  5 Ryan goes dark on local reporters
+6.  6 Obama's demographic gamble
+7.  7 Barone: Romney wins, handily
+8.  8 Warren sunny, Brown dour on trail
+9.  9 Enthusiasm is key in Ohio ground game
+10.  10 Rove: Sandy helped Obama
 
-Updated: 11/03/2012 8:02 AM ET
+Updated: 11/04/2012 7:03 AM ET
 
-1.  1 Obama early vote edge tenuous
-2.  2 Poll-watchers: States out of line
-3.  3 Brian Williams knocks Rush Limbaugh
-4.  4 Liberals fear grand bargain betrayal
-5.  5 Limbaugh strikes back at Williams
-6.  6 Jobs report puts economy back in campaign spotlight
-7.  7 'Swift-Boating' of Obama fails
-8.  8 Donnelly takes big lead over Mourdock
-9.  9 Mitt's Pennsylvania gamble
-10.  10 Gibbs: Romney in Pa. is 'desperate'
+1.  1 Exclusive: Christie was Mitt's first choice for VP
+2.  2 Former Hillary aide backs Romney
+3.  3 AFF poll: Minnesota a toss-up
+4.  4 'Swift-Boating' of Obama fails
+5.  5 Obama early vote edge tenuous
+6.  6 Obama's demographic gamble
+7.  7 How Warren staged her comeback
+8.  8 Ryan goes dark on local reporters
+9.  9 Poll: Obama up 6 in Ohio, 2 in Fla.
+10.  10 'Socialist' ads raise questions
 
-Updated: 11/03/2012 8:02 AM ET
+Updated: 11/04/2012 7:03 AM ET
 
-1.  1 Poll-watchers: States out of line
-2.  2 Rove: 279 electoral votes for Mitt
-3.  3 Obama early vote edge tenuous
-4.  4 Iowa to poll-watchers: Back off
-5.  5 Brian Williams knocks Rush Limbaugh
-6.  6 Bachmann on defense after W.H. bid
-7.  7 Crystal ball: Senate race projections
-8.  8 Trump: Obama blew off the deadline
-9.  9 Liberals fear grand bargain betrayal
-10.  10 Old Mitt is new again
+1.  1 Exclusive: Christie was Mitt's first choice for VP
+2.  2 Former Hillary aide backs Romney
+3.  3 AFF poll: Minnesota a toss-up
+4.  4 Obama early vote edge tenuous
+5.  5 'Swift-Boating' of Obama fails
+6.  6 Brian Williams knocks Rush Limbaugh
+7.  7 Poll-watchers: States out of line
+8.  8 Liberals fear grand bargain betrayal
+9.  9 Obama's demographic gamble
+10.  10 How Warren staged her comeback
 
-Updated: 11/03/2012 8:02 AM ET
+Updated: 11/04/2012 7:03 AM ET
 
 1.  1 Oliver Stone's new book rips Obama
 2.  2 Nate Silver: One-term celebrity?
 3.  3 Gallup suspends daily tracking poll
 4.  4 Iowa to poll-watchers: Back off
-5.  5 Martin Sheen: Romney is stupid, arrogant
-6.  6 FEMA, W.H. send victims to Internet
-7.  7 Battleground Tracking Poll: Obama retakes lead
-8.  8 Bloomberg: No 'diss' to Obama
-9.  9 NPR apologizes to Abigael Evans
-10.  10 Poll-watchers: States out of line
+5.  5 Exclusive: Christie was Mitt's first choice for VP
+6.  6 Former Hillary aide backs Romney
+7.  7 Martin Sheen: Romney is stupid, arrogant
+8.  8 FEMA, W.H. send victims to Internet
+9.  9 Battleground Tracking Poll: Obama retakes lead
+10.  10 Bloomberg: No 'diss' to Obama
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/03/2012 8:02 AM ET
+Updated: 11/04/2012 7:03 AM ET
 
-1.  1 'Socialist' ads raise questions
-2.  2 How Elizabeth Warren staged her comeback
-3.  3 Exclusive: Christie was Mitt's first choice for VP
-4.  4 Giuliani hits Obama on Sandy, Libya
-5.  5 Romney holds all-star Ohio rally
+Updated: 11/04/2012 7:03 AM ET
 
-Updated: 11/03/2012 8:02 AM ET
+1.  1 New Jersey residents displaced by storm can vote by email
+2.  2 Warren sunny, Brown dour on trail
+3.  3 Enthusiasm is key in Ohio ground game
+4.  4 Tester, Rehberg strategies diverge
+5.  5 Election results 2012: Hour by hour: What to watch on Election Night
+6.  6 Grassley jokes about mixup
+7.  7 Ryan goes dark on local reporters
+8.  8 Weary Romney, Obama tough it out
+9.  9 Maher: Don't let this campaign end
+10.  10 Hues of a post-racial election
 
-1.  1 'Socialist' ads raise questions
-2.  2 How Elizabeth Warren staged her comeback
-3.  3 Exclusive: Christie was Mitt's first choice for VP
-4.  4 Giuliani hits Obama on Sandy, Libya
-5.  5 Romney holds all-star Ohio rally
-6.  6 Obama early vote edge tenuous
-7.  7 Bloomberg: NYC Marathon canceled
-8.  8 Limbaugh strikes back at Williams
-9.  9 'Swift-Boating' of Obama fails
-10.  10 Huck slams 'liberal, crazy websites'
+Updated: 11/04/2012 7:03 AM ET
 
-Updated: 11/03/2012 8:02 AM ET
+1.  1 New Jersey residents displaced by storm can vote by email
+2.  2 Warren sunny, Brown dour on trail
+3.  3 Enthusiasm is key in Ohio ground game
+4.  4 Tester, Rehberg strategies diverge
+5.  5 Election results 2012: Hour by hour: What to watch on Election Night
+6.  6 Grassley jokes about mixup
+7.  7 Ryan goes dark on local reporters
+8.  8 Weary Romney, Obama tough it out
+9.  9 Maher: Don't let this campaign end
+10.  10 Hues of a post-racial election
 
-1.  1 'Socialist' ads raise questions
-2.  2 How Elizabeth Warren staged her comeback
-3.  3 Exclusive: Christie was Mitt's first choice for VP
-4.  4 Giuliani hits Obama on Sandy, Libya
-5.  5 Romney holds all-star Ohio rally
-6.  6 Obama early vote edge tenuous
-7.  7 Bloomberg: NYC Marathon canceled
-8.  8 Limbaugh strikes back at Williams
-9.  9 'Swift-Boating' of Obama fails
-10.  10 Huck slams 'liberal, crazy websites'
+Updated: 11/04/2012 7:03 AM ET
 
-Updated: 11/03/2012 8:02 AM ET
-
-1.  1 'Socialist' ads raise questions
-2.  2 How Elizabeth Warren staged her comeback
-3.  3 Exclusive: Christie was Mitt's first choice for VP
-4.  4 Giuliani hits Obama on Sandy, Libya
-5.  5 Romney holds all-star Ohio rally
-6.  6 Obama early vote edge tenuous
-7.  7 Bloomberg: NYC Marathon canceled
-8.  8 Limbaugh strikes back at Williams
-9.  9 'Swift-Boating' of Obama fails
-10.  10 Huck slams 'liberal, crazy websites'
+1.  1 New Jersey residents displaced by storm can vote by email
+2.  2 Warren sunny, Brown dour on trail
+3.  3 Enthusiasm is key in Ohio ground game
+4.  4 Tester, Rehberg strategies diverge
+5.  5 Election results 2012: Hour by hour: What to watch on Election Night
+6.  6 Grassley jokes about mixup
+7.  7 Ryan goes dark on local reporters
+8.  8 Weary Romney, Obama tough it out
+9.  9 Maher: Don't let this campaign end
+10.  10 Hues of a post-racial election
 
 Showing Last 7 Days
 
-Updated: 11/03/2012 8:02 AM ET
+Updated: 11/04/2012 7:03 AM ET
 
-1.  1 Obama early vote edge tenuous
-2.  2 Jobs report puts economy back in campaign spotlight
-3.  3 Poll-watchers: States out of line
-4.  4 Rove: 279 electoral votes for Mitt
-5.  5 Radio: The other air war
-6.  6 1 week, 2 versions of reality
-7.  7 Sandy forces anti-politics politics
-8.  8 Battleground Tracking Poll: Obama retakes lead
-9.  9 Tight race in divided Wisconsin
-10.  10 Romney's road to Ohio victory
+1.  1 Exclusive: Christie was Mitt's first choice for VP
+2.  2 Obama early vote edge tenuous
+3.  3 Jobs report puts economy back in campaign spotlight
+4.  4 Poll-watchers: States out of line
+5.  5 Rove: 279 electoral votes for Mitt
+6.  6 Radio: The other air war
+7.  7 1 week, 2 versions of reality
+8.  8 Sandy forces anti-politics politics
+9.  9 Battleground Tracking Poll: Obama retakes lead
+10.  10 Tight race in divided Wisconsin
 
 News
 
