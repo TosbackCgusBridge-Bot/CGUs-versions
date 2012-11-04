@@ -38,30 +38,30 @@ WINDOWS CATEGORIES:
 *   Acronis True Image...
 *   Windows 8 RTM Buil...
 *   Ashampoo UnInstall...
-7-DAY TOP DOWNLOAD # Program Nokia PC Suite  
-7.1.180.94  
-54,371 downloads Adguard Web Filter  
+7-DAY TOP DOWNLOAD # Program Adguard Web Filter  
 5.4.425.2526  
-45,964 downloads Samsung PC Studio  
+69,761 downloads Nokia PC Suite  
+7.1.180.94  
+54,494 downloads Samsung PC Studio  
 7.2.24.9  
-39,177 downloads Adobe Flash Player  
+39,435 downloads Adobe Flash Player  
 11.4.402.287 /  
 11.5.500.104 Beta 5  
-33,096 downloads Nero 9 Free  
+33,586 downloads WebBrowserPassView  
+1.30  
+32,224 downloads Nero 9 Free  
 9.4.12.3d  
-32,012 downloads Microsoft Office  
+32,108 downloads Microsoft Office  
 2013 15.0.4128.1014  
 Preview / 2010  
 14.0.6023.1000  
 Service Pack 1  
-30,800 downloads Internet Download  
+31,612 downloads Internet Download  
 Manager 6.12 Build  
 23  
-27,827 downloads LibreOffice 3.6.3  
-27,035 downloads UMPlayer 0.98  
-24,522 downloads Samsung Kies  
-2.5.0.12094\_28  
-23,297 downloads Home >. Privacy policy  
+28,314 downloads LibreOffice 3.6.3  
+27,594 downloads UMPlayer 0.98  
+24,801 downloads Home >. Privacy policy  
 Softpedia privacy policy  
 Written in accordance with the provisions of Law 677/2001, regarding individual protection about collecting and free circulation of personal data.  
   
