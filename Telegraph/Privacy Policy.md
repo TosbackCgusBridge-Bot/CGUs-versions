@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Saturday 03 November 2012
+Sunday 04 November 2012
 
 *   Home
 *   News
@@ -142,11 +142,13 @@ Problems with the Telegraph for iPad? Call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Golden Dawn: undisguised fascism in Greece  
+'Michael Palin: our very silly man in Brazil'  
 
-Fascist gangs are turning Athens into a city of shifting front lines, finds **Damien McElroy**.
+Michael Palin is still globetrotting and as amiable as ever. What keeps the old Python happy, asks **Brian Viner.**
 
-Has Sandy given Obama new hope? Review: Uncle Vanya, Vaudeville Sandy glamour model a welcome tonic The grubby sexy girl taking over the US Advertisement
+Comments
+
+The US: a struggling nation that is polls apart Golden Dawn: undisguised fascism in Greece Has Sandy given Obama new hope? Sandy glamour model a welcome tonic Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
