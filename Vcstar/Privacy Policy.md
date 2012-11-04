@@ -634,19 +634,19 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Krauthammer: Tuesday could change America Published 11/1/2012 at 2:40 p.m. 89 comments
-*   Man, 29, killed after being caught in tractor near Santa Paula Updated 11/2/2012 at 3:44 p.m.
-*   Ventura driver pleads guilty to murder, DUI in bicyclist's death Updated 11/2/2012 at 7:36 p.m.
-*   Hearing ends for teacher who starred in porn films Updated 11/1/2012 at 6:43 p.m.
-*   California's first dog, Sutter, stumps for Prop 30 Published 11/1/2012 at 9:07 p.m. 37 comments
+*   Supervisor's race could come down to turnout Published 11/2/2012 at 8:12 p.m. 28 comments
+*   Thousand Oaks crash kills Westlake Village motorcyclist Updated 11/3/2012 at 8:32 p.m.
+*   Krauthammer: Tuesday could change America Published 11/1/2012 at 2:40 p.m. 102 comments
+*   Record 18.2 million Californians now registered to vote Published 11/2/2012 at 6:47 p.m. 33 comments
+*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 8 comments
 
-Photo Galleries Ventura County's Most Wanted November… California's first dog, Sutter… Yoon leads Camarillo past Oaks…
+Photo Galleries Oaks Christian vs. St. Bonaventure What was that over Camarillo? Ventura County's Most Wanted November…
 
-*   Morning chat Published 10/31/2012 at 12:00 a.m. 100 comments
-*   Krauthammer: Tuesday could change America Published 11/1/2012 at 2:40 p.m. 89 comments
-*   Poll shows outcomes highly uncertain for many ballot measures Published 10/30/2012 at 1:23 p.m. 78 comments
-*   Newbury Park man charged for flashing anti-Romney sign Published 10/31/2012 at 4:40 p.m. 59 comments
-*   Ventura County voter registration reaches record level Published 10/31/2012 at 2:05 p.m. 49 comments
+*   Krauthammer: Tuesday could change America Published 11/1/2012 at 2:40 p.m. 102 comments
+*   Morning chat Published 11/2/2012 at 12:00 a.m. 92 comments
+*   Newbury Park man charged for flashing anti-Romney sign Published 10/31/2012 at 4:40 p.m. 60 comments
+*   California's first dog, Sutter, stumps for Prop 30 Published 11/1/2012 at 9:07 p.m. 40 comments
+*   A small county party plays a big role in financing local Senate campaign Published 11/1/2012 at 12:04 p.m. 30 comments
 
 *   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 25 comments
 *   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 102 comments
@@ -660,23 +660,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 51° Fair Wind: Calm Today 72° 52° Sat 05:00 PM Mostly Sunny Temp: 69° Sun 04:00 AM Mostly Clear Temp: 53° Sun 04:00 PM Sunny Temp: 76°
+Currently 50° Fair Wind: Calm Today 81° 54° Sun 05:00 PM Sunny Temp: 71° Mon 05:00 AM Clear Temp: 54° Mon 05:00 PM Sunny Temp: 74°
 
-Feels Like: 69°
+Feels Like: 71°
 
-Humidity: 55%
-
-Precip: 0%
-
-Feels Like: 53°
-
-Humidity: 80%
+Humidity: 46%
 
 Precip: 0%
 
-Feels Like: 76°
+Feels Like: 54°
 
-Humidity: 42%
+Humidity: 66%
+
+Precip: 0%
+
+Feels Like: 74°
+
+Humidity: 33%
 
 Precip: 0%
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Saturday Nov 3
 *   Sunday Nov 4
 *   Monday Nov 5
+*   Tuesday Nov 6
 *   More BROWSE Icon
-
-*   Post Breakup Wakeup Workshop Helps Women Recover After a Divorce or Break-up Center for Spiritual Living 9:30 a.m.
-*   ¡Olé! Enchilada Sale of Soroptimist Camarillo Chili Peppers Restaurant 10 a.m.
-*   We Need You...All Hands of Deck.. Simi Valley Republican Headquarters: 2906 Cochran Street,(Sycamore Plaza) Simi Valley, Ca. 93063 10 a.m.
-*   Free Living Trust Seminar- California Estate Planning Fundamentals Simi Valley Library 10:30 a.m.
-*   African Violet Show and Sale Thousand Oaks Library 11 a.m.
-
-More Events »
 
 *   Love Her Lungs - Chairty Workout for Patti Dunn True North Fitness &. Health 9 a.m.
 *   Snowfest Arts and Crafts Fair Rancho Madera Community Park 10 a.m.
@@ -750,6 +742,14 @@ More Events »
 *   “My Baby Is In The NICU, Now What?” Rainbow Connection Family Resource Center 10 a.m.
 *   Free Movie Matinee Grant R. Brimhall Library 1 p.m.
 *   FRESH &. EASY SHOPPING NIGHTS RAISE FUNDS FOR Lincoln Elementary School Fresh &. Easy Neighborhood Market. 2260 E.Thompson Blvd., Ventura, CA 4 p.m.
+
+More Events »
+
+*   "Artists Three " at Doyon Studio &. Gallery Doyon Studio and Gallery 9 a.m.
+*   La Leche League of Camarillo Meeting Camarillo Health Care District 10 a.m.
+*   Make a Difference and Volunteer at the Adult Literacy Center at the Camarillo Public Library! Camarillo Public Library 1:30 p.m.
+*   Westlake Village Art Guild Presents PONG APINYAVAT – Watercolor Demo Louise's Trattoria 5:30 p.m.
+*   Writer's Group A Place of Peace 7 p.m.
 
 More Events »
 
