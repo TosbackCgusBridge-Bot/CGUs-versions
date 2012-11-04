@@ -211,14 +211,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
-    *   Clippers drop Lakers
-    *   Knicks humble Heat
-    *   Pistons 2012-13 home opener player introductions
-    *   Tweet Talkback: Ahmad Bradshaw
-    *   After Party: Ahmad Bradshaw
-    *   Pick Nation: CFB Week 10 Picks
-    *   UFC on FUEL TV: Highlights - UFC 153
-    *   Fearless Predictions: Oregon/USC
+    *   Highlights: (1) Alabama - (5) LSU
+    *   Highlights: Alabama edges LSU 21-17
+    *   Highlights: (4) Oregon - (17) USC
+    *   Heat best Nuggets
+    *   Ferry talks future
+    *   Schrager: NFL Storylines - Week 9
+    *   CFB on FOX: Oregon/USC recap
+    *   Pick Nation: NFL Week 9 Picks
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -504,29 +504,29 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   Underdog mentality a strength for Wolves
-*   Power play comes alive for Gophers
-*   Wilfs donate 100,000 toward hurricane relief
+*   Timberwolves aim for 2-0 start to season
+*   Vikings hope to sprint past Seattle on road
+*   Minnesota State blitzes Gophers hockey
 
 *   AUTOS: Nissan Upgrades 2014 GT-R
 *   F1: Webber Frustrated By More KERS Problems
 *   F1: Ferrari Encouraged By Update Package
 
-*   NFL Needs to Postpone Game
-*   DawgmanRadio - Cal
-*   Winning Out Is All That Matters Now
+*   GALLERY: Clemson v. Duke
+*   Clemson rolls to easy win over Duke
+*   Game Day Matchups
 
 *   GSP: The Champ Returns
 *   Martin Kampmann UFC 154 Pre-Fight Interview
 *   Strangers In Danger: The Best Of
 
-*   Knicks apalean al Heat
-*   Santos reacciona y vence a La Máquina
-*   Rockets derrota a los Hawks
+*   Hugo pide seguir en Pachuca
+*   Xolos mantiene invicto de local
+*   Tigres se lleva el clásico regio
 
-*   RSL locks road draw over Sounders
-*   United's van Persie to face Arsenal fire
-*   FOX Soccer News - Web Clip
+*   La Liga - Scores
+*   Serie A - Week 11 Scores
+*   Man City sets sights on Neymar
 
 *   *   NFL
     *   NFL Home
