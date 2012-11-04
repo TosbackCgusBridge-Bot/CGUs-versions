@@ -143,21 +143,11 @@ Naples Daily News
 *   Cars
 *   Classified
 
-*   PrepZone: Coconut Bowl
+*   Dense Fog Advisory
     
-    Scores &. Chat | Game Story | Staff Photos | Video | Lely Band | Naples Band | Send Photos | More »
+    IN EFFECT UNTIL NOV 4, 9:00 a.m.
     
-*   Game Photos
-    
-    Palmetto Ridge vs. Barron Collier | Lehigh vs. Estero | Lemon Bay vs. Gulf Coast | More Photos »
-    
-*   Game Videos
-    
-    Barron Collier vs. Palmetto Ridge | Immokalee vs. Golden Gate | St. John Neumann vs. Evangelical Christian
-    
-*   Game Videos
-    
-    First Baptist vs. Community School | Estero vs. Lehigh | South Fort Myers vs. Ida S. Baker
+    issued for Lee
     
 
 Privacy Policy
@@ -452,25 +442,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Clinton: Americans have clear choice in Tuesday's election Updated 11/2/2012 at 4:55 p.m. 111 comments
-*   Prep Football: Chat, scores, videos, photos and stories from Week 10 Updated 11/2/2012 at 11:34 p.m. 4 comments
-*   Man shot by deputies: 'I've got at least 10 holes' Published 11/1/2012 at 9:35 p.m. 43 comments
-*   Clinton tells Fort Myers: More reason to be excited about Obama now than '08 Published 11/2/2012 at 8:30 p.m. 85 comments
-*   Judge grants 'stand your ground' motion in courthouse stabbing death Updated 11/2/2012 at 6:28 p.m. 12 comments
+*   Last day to vote early. Collier seeing record numbers as some grow impatient waiting Updated 11/3/2012 at 2:36 p.m. 77 comments
+*   Clinton tells Fort Myers: More reason to be excited about Obama now than '08 Published 11/2/2012 at 8:30 p.m. 156 comments
+*   Obama, Romney each raise 'trust' issue as campaign enters home stretch Published 11/3/2012 at 3:08 p.m. 52 comments
+*   Power returning to New York after Sandy but gas problems rise Published 11/3/2012 at 3:23 p.m. 31 comments
+*   Collier voter turnout already at 54 percent as early voting ends Published 11/3/2012 at 9:45 p.m. 17 comments
 
-Photo Galleries Naples International Film Festival… Naples International Film Festival 2012 Prep Football: Naples vs. Lely…
+Photo Galleries Naples International Film Festival… Naples Swamp Buggy Parade 2012 Prep Football: Palmetto Ridge vs…
 
-*   Naples resident gives more than $750,000 to Republican groups, candidates Published 11/1/2012 at 5:45 a.m. 178 comments
-*   Bill Clinton will campaign for Obama on Friday in Fort Myers Published 11/1/2012 at 12:02 p.m. 173 comments
-*   Collier, Lee voters wait ... and wait ... and wait ... to cast ballots Published 10/31/2012 at 5:00 a.m. 150 comments
-*   Clinton: Americans have clear choice in Tuesday's election Published 11/2/2012 at 2:02 p.m. 111 comments
-*   Clinton tells Fort Myers: More reason to be excited about Obama now than '08 Published 11/2/2012 at 8:30 p.m. 85 comments
+*   Bill Clinton will campaign for Obama on Friday in Fort Myers Published 11/1/2012 at 12:02 p.m. 182 comments
+*   Naples resident gives more than $750,000 to Republican groups, candidates Published 11/1/2012 at 5:45 a.m. 184 comments
+*   Clinton tells Fort Myers: More reason to be excited about Obama now than '08 Published 11/2/2012 at 8:30 p.m. 156 comments
+*   Clinton: Americans have clear choice in Tuesday's election Published 11/2/2012 at 2:02 p.m. 123 comments
+*   Last day to vote early. Collier seeing record numbers as some grow impatient waiting Published 11/3/2012 at 5:30 a.m. 77 comments
 
-*   Venice diocese removes once-popular priest in Bonita Springs from priesthood Published 10/24/2012 at 5:10 a.m. 38 comments
-*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 382 comments
+*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 381 comments
 *   Ex-worker sues longtime Collier grower, alleges it hired illegal aliens Published 10/25/2012 at 5:30 a.m. 68 comments
 *   Endorsement editiorial: The 11 Florida constitutional amendments Published 10/27/2012 at 4:00 a.m. 5 comments
-*   In the Know: New dining options at former Rossopomodoro and L’Etoile restaurants Published 10/31/2012 at 5:17 a.m. 17 comments
+*   In the Know: New dining options at former Rossopomodoro and L’Etoile restaurants Published 10/31/2012 at 5:17 a.m. 16 comments
+*   Naples' Tom Golisano is $20 million donor to Lee Memorial's new children's hospital Published 10/30/2012 at 11:41 a.m. 44 comments
 
 Weather
 
@@ -478,40 +468,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 59° Fair Wind: N 4mph Today 78° 61° Sat 08:00 PM Clear Temp: 72° Sun 07:00 AM Sunny Temp: 65° Sun 07:00 PM Mostly Clear Temp: 73°
+Currently 58° Fog Wind: E 4mph Today 79° 64° Sun 08:00 PM Clear Temp: 68° Mon 08:00 AM Mostly Sunny Temp: 74° Mon 08:00 PM Mostly Clear Temp: 70°
 
-Feels Like: 72°
+Feels Like: 68°
 
-Humidity: 49%
+Humidity: 73%
 
-Precip: 0%
+Precip: 3%
 
-Feels Like: 65°
-
-Humidity: 75%
-
-Precip: 0%
-
-Feels Like: 73°
+Feels Like: 74°
 
 Humidity: 62%
 
-Precip: 0%
+Precip: 8%
+
+Feels Like: 70°
+
+Humidity: 73%
+
+Precip: 6%
 
 More Weather » Calendar
 
-*   Saturday Nov 3
 *   Sunday Nov 4
 *   Monday Nov 5
+*   Tuesday Nov 6
 *   More BROWSE Icon
-
-*   RedSnook Catch &. Release Charity Tournament Naples, Goodland and Everglades City 7 a.m.
-*   J.N. Ding Darling Wildlife Sanctuary J.N. Ding Darling National Wildlife Refuge 7 a.m.
-*   Calusa Blueway Fishing Tournament Matlacha Park 7 a.m.
-*   Fourth Annual All Species Family Fishing Tournament Hamilton Harbor Yacht Club‎ 7 a.m.
-*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
-
-More Events »
 
 *   RedSnook Catch &. Release Charity Tournament Naples, Goodland and Everglades City 7 a.m.
 *   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
@@ -526,6 +508,14 @@ More Events »
 *   Baby boot camp Miromar Outlets 9 a.m.
 *   Code Breaking During WWII FGCU Naples Center 10 a.m.
 *   PCs/Microsoft Windows 7 for Intermediates FGCU Naples Center 10 a.m.
+
+More Events »
+
+*   Social Mobile Payments: Americas Conference Biscayne Bay Marriott Hotel &. Marina 8 a.m.
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Barrier Islands Guided Walk Bowditch Point Recreational Park 9:30 a.m.
+*   Printmaking from a Gelatin Plate with Cheryl Martin Art Center Sarasota 707 N. Tamaimi Tr. Sarasota, FL 34236 10 a.m.
 
 More Events »
 
