@@ -31,9 +31,9 @@ Sign In Sign Up
 
 Take Action
 
-Watch: Glenn Beck Gives Keynote Speech at FreedomWorks ‘The Revolution Rises’ Rally
+Report: Chris Christie Was Romney’s First Choice for VP — But a Bad Habit May Have Cost Him…
 
-Watch: Glenn Beck Gives Keynote Speech at ‘The Revolution Rises’ Rally
+Today at 1pm ET: Join Us for a Special Saturday Live BlazeCast — With Your Live Chat and Comments!
 
 About TheBlaze
 
@@ -246,8 +246,8 @@ Editorial Staff
 *   Military
 *   Business
 *   Jobs
-*   China
-*   Crime
+*   Israel
+*   Economy
 
 What is this? Sections
 
