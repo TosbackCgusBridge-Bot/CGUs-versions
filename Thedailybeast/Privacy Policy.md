@@ -145,11 +145,11 @@ Stories We Like
 
   Most Popular
 
-1.  Romney’s Delusions of Victory
-2.  R.I.P. Romney
-3.  Are Things Breaking Obama’s Way?
-4.  The Week’s Best Reads
-5.  New Details on Benghazi
+1.  The Coming GOP Freak Out
+2.  The ‘Marriage Gap’ Wild Card
+3.  Candidates Blitz Swing States
+4.  Fashion of a Certain Age
+5.  The Empty Quarter Turns Its Back On Obama
 
   Other News Entertainment
 
@@ -160,23 +160,23 @@ Stories We Like
 
 Entertainment
 
-*   ‘Hurricane Sandy: Coming Together’ telethon was a classy and inspiring hour
-*   Weather Channel’s Eric Fisher journals his on-the-scene coverage of Hurricane Sandy
-*   The 10 ‘Twilight’ sequels we want Stephenie Meyer to write
+*   ‘SNL’: All the ‘Fox &. Friends’ ‘corrections’ from tonight’s show
+*   Louis C.K. hosts tonight’s ‘Saturday Night Live’: Talk about it here!
+*   Crashing and burning in ‘Flight’ — no airplane required
 *   **Get More from EW.com**
 
 Entertainment
 
-*   21 Images That Show Why The NYC Marathon Was Canceled
-*   Exclusive Documents: Romney's Loophole Trust Tax Filing
-*   When The City That Never Sleeps Refuses To Sleep
+*   Libya Becomes Central Theme At Romney Rally
+*   "Million Muppet March" Descends On Capitol Hill
+*   Conservative Leader Prepares For A Long War Over Marriage
 *   **Get More from Buzz Feed**
 
 Politics
 
+*   Quote of the Day
+*   For Romney to Win, State Polls Must Be Biased
 *   Latest Swing State Polls
-*   Early Vote Key to Obama Leads
-*   King Way Ahead in Maine
 *   **Get More from Political Wire**
 
 The Daily Beast
