@@ -12,10 +12,10 @@ Most Viewed
 Most Searched
 
 1.  holiday rooms
-2.  christmas
+2.  jewelry
 3.  designer inspiration
-4.  jewelry
-5.  bathroom
+4.  christmas
+5.  holiday room ideas
 
 Magazine | RSS
 
@@ -38,9 +38,9 @@ From Town &. Country Travel • Best Waterfront Makeover: Capri's Il Riccio
 • Best Exotic Retreat: Six Senses Destination Spa Phuket  
 • The Best City Resort: Aman New Delhi  
 **More from Town &. Country Travel**  
-From The Daily Green • Warming Up Car Square Tout  
-• Dark-Eyed Junco  
-• Multivitamin Foods  
+From The Daily Green • Sauteed Swiss Chard  
+• Sunrise  
+• Warming Up Car Square Tout  
 **More from The Daily Green**  
 From Harper's Bazaar • Celebrity Fashion  
 • Fashion Accessories  
