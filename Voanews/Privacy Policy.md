@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   US Presidential Race Still Close
-*   New York and New Jersey Prepare for Elections
+*   Bill Clinton Joins Obama on Campaign Trail
+*   French President in Lebanon to Discuss Syria
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
