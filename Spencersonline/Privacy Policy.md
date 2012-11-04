@@ -7,7 +7,7 @@
 Live Chat 0 ITEM(S) Item added to cart Size: ADULT SMALL Price: $59.99 Qty: 1 2Item(s) in your cart Subtotal $159.98 View your cart
 
 *   TRENDS &. MUSIC
-*   HOLIDAY
+*   HALLOWEEN
 *   BRANDS
 *   SALE
 
@@ -21,7 +21,7 @@ Live Chat 0 ITEM(S) Item added to cart Size: ADULT SMALL Price: $59.99 Qty: 1 2
     NewSaleDrinkingBachelorette PartyBirthdayHumorBooksGames &. PuzzlesJust For FunGirls Night OutCalendars
 
 *   HOME &. DORM
-    NewSalePostersLava LampsParty LightingTech ToysCollectible FiguresLaptop AccessoriesGlasswareWall ArtPillows &. BlanketsFleece with SleevesHome Accessories
+    NewSalePostersLava LampsParty LightingTech ToysClocks &. MirrorsCollectible FiguresLaptop AccessoriesGlasswareWall ArtPillows &. BlanketsFleece with SleevesHome Accessories
 
 Home  /  Privacy Policy
 
