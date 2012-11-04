@@ -10,13 +10,13 @@ Sign In
 
 1 2 3 Hurricane Relief: How You Can Help
 
-Hurricane
+Egypt
 
-Hurricane Sandy causes bus stop chaos
+Egypt interior minister fires Northern Sinai regional security...
 
 Politix
 
-What Do You Know About Voting in America?
+Who are you voting for as president in the 2012 election?
 
 *   Home
 *   Forums
@@ -186,7 +186,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
-  Ads by Glam
+ 
 
 San Antonio, TX
 
@@ -275,7 +275,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 110,600 • Total comments across all topics: 189,968,589
+Comments made yesterday: 102,736 • Total comments across all topics: 190,064,934
 
 Copyright ©2012 Topix LLC
 
