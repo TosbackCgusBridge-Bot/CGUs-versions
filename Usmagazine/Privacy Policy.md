@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Merry Shoppin'! »
+Hot Pics! Raising Her Voice »
 
-Top Stories1.  PICTURE: Rihanna Goes Topless in Bed Morning After Halloween »
-2.  PICTURES: Justin Timberlake, Jessica Biel Honeymoon in Tanzania »
-3.  Lady Gaga: "Adele Is Bigger Than Me" But No One Talks About It »
-4.  Topless Lady Gaga Flaunts Weight Loss in "Cannabis Queen" Costume »
-5.  Kim, Khloe, Kourtney Kardashian Slam "Hurtful Lies" About Their Men »
+Top Stories1.  PICTURE: RHOA's Kim Zolciak Shows Off Gorgeous Real Hair »
+2.  Aww! Makeup-Free Snooki Poses for Sweet Picture with Baby Lorenzo »
+3.  Kristen Stewart: Filming Breaking Dawn's Vampire Sex Scenes "Was Awful" »
+4.  PICTURE: Rihanna Goes Topless in Bed Morning After Halloween »
+5.  PICTURES: Justin Timberlake, Jessica Biel Honeymoon in Tanzania »
 
  
 
@@ -176,8 +176,8 @@ subscribe to Us Weekly Defending Our Men
 Inside Us Weekly
 
 *   Style 2012 CMA Awards: What the Stars Wore!
-*   Beauty Julianne Moore Named the New Face of L'Oreal
-*   Moms Halle Berry: My Daughter Nahla Prays Every Ni
+*   Beauty PICTURE: RHOA's Kim Zolciak Shows Off Gorgeou
+*   Moms Aww! Makeup-Free Snooki Poses for Sweet Pictu
 *   Body Lady Gaga: "Adele Is Bigger Than Me" But No O  
 *   Entertainment The X Factor Judges Select Top 12 Performers
 
