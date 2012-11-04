@@ -15,7 +15,7 @@ Skip to content
 *   Sell
 *   Gift Center
 
-**Search** Limited Time! 50% Off ALL Cards! Save Today On That Perfect Holiday Card!   Use Code: CHEERSAVINGS   (details) Zazzle Privacy Policy Policies
+**Search** TODAY ONLY! It's Daylight SAVINGS Time! 15% Off All Orders!   Use Code: DAYLIGHTSAVE   (details) Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
