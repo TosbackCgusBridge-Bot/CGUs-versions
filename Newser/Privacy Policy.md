@@ -4,14 +4,14 @@
 *   Hot Topics
     *   Hurricane Sandy
     *   Election 2012
-    *   strange stuff
     *   timeless news
+    *   strange stuff
     *   New Jersey
-    *   abortion
-    *   President Obama
-    *   Obama 2012
+    *   California
     *   celebrity
-    *   Mitt Romney
+    *   Atlanta
+    *   Ohio
+    *   abortion
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -122,49 +122,49 @@ NEWS FROM OUR PARTNERS
 
 *   Seeing the Federal Light
 *   Like, Not Brutally Tragic
-*   Behind the Iron Curtain   
+*   The Open Closet
 
 More from Slate »
 
-*   Human Ken Doll Tells Real Life Barbie:
-*   Sandy Becomes Photo Op For Model
-*   Drug Smuggling FAIL
+*   Reported Murder Actually A...
+*   Human Ken Doll Tells Real Life Barbie: YOU'RE PLASTIC
+*   Man Shocked By Dominatrix's Little Secret
 
 More from HuffPost Weird »
 
-*   Sexual Assault Accusations Against Cee Lo Green Are Kinda...
-*   Rihanna Might Have Given Chris Brown A Lap Dance &. Sex...
-*   Roe Vs. Wade Is Not As Safe As You Think
+*   Betsey Johnson Before She Was Betsey Johnson
+*   Love It Or Leave It: Fergie’s Fringed Airport Outfit
+*   Let’s Be Friends: Girl Who Got Detention For Hugging
 
 More from The Frisky »
 
-*   Behold the 'Selkirk Rex' a new breed of cat that will have...
-*   Fark Party Halifax style: THIS SAT, Nov 3, 7 pm @ Lower...
-*   Finally, an official British Slang Dictionary. "Queer as a...
+*   New Jersey announces that residents displaced by Sandy can...
+*   Hurricane Sandy's littlest victims (Tag for any NYC Farker...
+*   Scientists spend years analysing speech patterns, produce...
 
 More from Fark »
 
+*   Down to the wire: A brief history of close presidential...
+*   10 things you need to know today: November 3, 2012
 *   America's doomsday secrets
-*   Did Richard Mourdock's rape comments cost the GOP the...
-*   5 smart reads for the weekend
 
 More from The Week »
 
-*   Romney Poll Deniers Contemplating Possibility of Defeat
-*   Why Bloomberg Fought for — and Then Caved on — the Marathon
-*   Downtown Occupies the Carlyle
+*   G and L Train Service Will Not Resume Until Sometime Next...
+*   Chaos and Community at East Williamsburg's Post-Apocalyptic...
+*   Voting After Hurricane Sandy Might Be a Big Mess
 
 More from Daily Intel »
 
-*   6 November Superfoods
-*   Doctors Are Human. They Need Sleep
-*   Healing the Healer: You Are Forgiven, Now Get Some Sleep
+*   _Time To Fall Back!_
+*   After Sandy: The 4 Essentials in Your Disaster Relief Kit
+*   Who's Really Serious About Fixing Health Care?
 
 More from HuffPost Health »
 
-*   Chris Brown's Mom Brings Singer and Rihanna Together...
-*   Kate Upton Flaunts Curves in 'Seductive' Shoot for Italian...
-*   'Breaking Dawn - Part 2' Star Kristen Stewart Gushes About...
+*   Kendall Jenner Turns 17: See the Birthday Girl's Most...
+*   Christina Aguilera Performs ‘Office’ Rendition of ‘Your...
+*   Snooki Tweets New Photos of Baby Lorenzo: ‘He is the...
 
 More from Celebuzz »
 
