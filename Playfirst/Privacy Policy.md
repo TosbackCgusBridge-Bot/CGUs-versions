@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (214.7 MB) Top Mac Downloads 1 SpongeBob SquarePants Diner Dash 2 Diner Dash: Flo Through Time 3 Parking Dash 4 Avenue Flo 5 Garden Dash 6 Avenue Flo: Special Delivery 7 Dream Day Honeymoon 8 Chocolatier 9 Soap Opera Dash 10 Fitness Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (23.6 MB) Top Mac Downloads 1 Diner Dash: Flo Through Time 2 SpongeBob SquarePants Diner Dash 3 Parking Dash 4 Garden Dash 5 Avenue Flo 6 Avenue Flo: Special Delivery 7 Dream Day Honeymoon 8 Soap Opera Dash 9 Chocolatier 10 Diaper Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -245,27 +245,27 @@ Download Mac game to PC? This is a Mac file. it won't install on a PC. Please co
 Preparing to Download... I'm New Here I Have an Account Loading...  
 Download PC game to Mac? This is a PC file. it won't install on a Mac. Please continue if you plan to save this file and install it elsewhere. Or, cancel to go back and choose another format.  
   
-SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
-
-Soak up five-star feeding fun with everyone's favorite sponge!
-
-**Play Free!** (10.2 MB) Try It Diner Dash: Flo Through Time DASH™ &. Time Mgmt Games
+Diner Dash: Flo Through Time DASH™ &. Time Mgmt Games
 
 Join Flo and Grandma on a thrilling adventure through time!
 
-**Play Free!** (29.1 MB) Try It Parking Dash DASH™ &. Time Mgmt Games
+**Play Free!** (29.1 MB) Try It SpongeBob SquarePants Diner Dash DASH™ &. Time Mgmt Games
+
+Soak up five-star feeding fun with everyone's favorite sponge!
+
+**Play Free!** (10.2 MB) Try It Parking Dash DASH™ &. Time Mgmt Games
 
 Get behind the wheel and shift into high gear!
 
-**Play Free!** (22.6 MB) Try It Avenue Flo Adventure &. Quests Games
-
-Explore DinerTown like never before
-
-**Play Free!** (82.2 MB) Try It Garden Dash DASH™ &. Time Mgmt Games
+**Play Free!** (22.6 MB) Try It Garden Dash DASH™ &. Time Mgmt Games
 
 Fresh from the city!
 
-**Play Free!** (77.3 MB) Try It Avenue Flo: Special Delivery Adventure &. Quests Games
+**Play Free!** (77.3 MB) Try It Avenue Flo Adventure &. Quests Games
+
+Explore DinerTown like never before
+
+**Play Free!** (82.2 MB) Try It Avenue Flo: Special Delivery Adventure &. Quests Games
 
 Help DinerTown save the event of the year!
 
@@ -273,19 +273,19 @@ Help DinerTown save the event of the year!
 
 Search for the perfect souvenir!
 
-**Play Free!** (81.9 MB) Try It Chocolatier Simulation &. Strategy Games
-
-Oh, the gloriously rich and delectable life of a chocolatier!
-
-**Play Free!** (19.7 MB) Try It Soap Opera Dash DASH™ &. Time Mgmt Games
+**Play Free!** (81.9 MB) Try It Soap Opera Dash DASH™ &. Time Mgmt Games
 
 DinerTown's zaniest soap opera parody!
 
-**Play Free!** (62.4 MB) Try It Fitness Dash DASH™ &. Time Mgmt Games
+**Play Free!** (62.4 MB) Try It Chocolatier Simulation &. Strategy Games
 
-Get your DASH game in peak condition!
+Oh, the gloriously rich and delectable life of a chocolatier!
 
-**Play Free!** (20.3 MB) Try It Log In New to PlayFirst?
+**Play Free!** (19.7 MB) Try It Diaper Dash DASH™ &. Time Mgmt Games
+
+More cute, cuddly babies than you will know what to do with!
+
+**Play Free!** (22.6 MB) Try It Log In New to PlayFirst?
 
 Sign up below to create a new PlayFirst account.
 
