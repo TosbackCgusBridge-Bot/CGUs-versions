@@ -192,126 +192,125 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EDT November 3, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EST November 4, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:01a
+/news/latest1.  6:01a
+    
+    Sandy to turn economic picture cloudier
+    
+2.  5:00p
+    
+    NJ faces gas rationing, days more without power
+    
+3.  4:34p
+    
+    Syrian rebels attack air base
+    
+4.  3:25p
+    
+    New York sports come back, but not the marathon
+    
+5.  2:57p
+    
+    Obama, Romney tour swing states
+    
+6.  1:35p
+    
+    NJ faces gas rationing, days more without power
+    
+7.  12:00p
+    
+    U.S. stocks fall sharply. election eyed
+    
+8.  11:14a
+    
+    Canada delays decision on CNOOC’s Nexen bid
+    
+9.  11:03a
+    
+    No, Mr. Bond, I expect you to vroooooom
+    
+10.  9:00a
+    
+    Investing a lump sum of money in stocks pays off
+    
+11.  8:01a
     
     Big earnings on Monday: ICE, Tesla, Humana
     
-2.  8:01a
+12.  8:01a
     
     Wall Street braces for economy-shaping election
     
-3.  8:00a
+13.  8:00a
     
     Investors brace for U.S. presidential election
     
-4.  6:31a
+14.  6:31a
     
     Watch the Fed, not who wins the election
     
-5.  7:47p
+15.  7:47p
     
     Big moves for some smaller players in health care
     
-6.  6:51p
+16.  6:51p
     
     MarketWatch’s top 10 stories, Oct. 29 - Nov. 2
     
-7.  6:38p
+17.  6:38p
     
     Latest U.S. bank failures take 2012 tally to 49
     
-8.  6:28p
+18.  6:28p
     
     Latest U.S. bank failures take 2012 tally to 49
     
-9.  6:28p
+19.  6:28p
     
     Radio Update: Stocks virtually unchanged for week
     
-10.  6:28p
+20.  6:28p
     
     Heritage Bank of Florida closed by regulators
     
-11.  6:28p
-    
-    Citizens First National Bank of Illinois closed
-    
-12.  6:07p
-    
-    Groupon shares edge lower after hours
-    
-13.  6:05p
-    
-    Sandy and 7 other disasters’ impact on sports
-    
-14.  5:54p
-    
-    Radio Update: Stocks skid into weekend with losses
-    
-15.  5:49p
-    
-    Can Restoration Hardware be different this time?
-    
-16.  5:35p
-    
-    10 things walk-in clinics won’t tell you
-    
-17.  5:34p
-    
-    NYC marathon canceled -- mayor's office
-    
-18.  5:31p
-    
-    Updates, advisories and surprises
-    
-19.  5:26p
-    
-    Berkshire Hathaway third-quarter op. earnings slip
-    
-20.  4:26p
-    
-    Radio Update: Stocks tumble at closing bell
-    
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,093.16 -139.46 -1.05% nasdaq /quotes/zigman/123127 2,982.13 -37.93 -1.26% s&p 500 /quotes/zigman/3870025 1,414.20 -13.39 -0.94% Kiosk
+dow /quotes/zigman/627449 13,147.96 -84.66 -0.64% nasdaq /quotes/zigman/123127 2,982.13 -37.93 -1.26% s&p 500 /quotes/zigman/3870025 1,414.96 -12.63 -0.88% Kiosk
 
-*   1341573300000 1341592200000
-    
-    From Fox Business
-    
-        gerri willis  
-    Sandy aftermath: Filing a claim  
-    After the lights come back on and the house begins to warm, the next step for most will be to start the process of filling a homeowners insurance claim.  /conga/kiosk/marketfox.html 233781
 *   1238817600000 1270353600000
     
     Cars
     
-      McLaren: Symphony of loud  
-    The 2013 McLaren Spider 12C open-top is the best-handling, most accessible midengine sports car of all time, writes Dan Neil. And now it even sounds like it.   
-    232925
-*   1340719800000 1340759400000
-    
-    U.S. Economy
-    
-        Big storms, small impact  
-    In the short term, storms like Hurricane Sandy can cause serious economic damage, but the negative impact rarely lasts for long.  
-    /conga/kiosk/capitol-report.html 233139
+    Dream wheels for 007  
+    James Bond needs to trade in his outdated "Skyfall" DB5 for this new $300,000 beast of an Aston Martin Vanquish, says Dan Neil.   
+    233901
 *   1339754400000 1340010000000
     
     Investing
     
-    5 ways to prevent fraud  
-    An investor’s worst nightmare is being a sucker for a fraud scheme. Here are five ways to protect your portfolio  and your money from con artists. /conga/kiosk/investing.html 232906
+    Piling into stocks pays off  
+    Dollar-cost averaging ends up hurting more investors than it helps, a new Vanguard study says. /conga/kiosk/investing.html 233903
 *   1347087600000 1347213600000
     
-    Slide Show
+    Your Health
     
-    13 cities going broke  
-    Stockton, Calif., (left) tops the list of U.S. cities in dire financial straits. See what other areas are drowning in recession-induced red ink.  
-    /conga/kiosk/wildcard2.html 232912
+    What clinics won't tell you  
+    This are 10 things you need to know before you seek treatment at a walk-in medical clinic. (slide show)  
+    /conga/kiosk/wildcard2.html 233907
+*   1309191300000 1309248000000
+    
+    Beer
+    
+    Only $190 a bottle  
+    If your idea of a “cold one” is the dollar-draft special down at the corner tavern, Samuel Adams’s Utopias is probably not going to be your pour.  
+    /conga/kiosk/wildcard3.html 233909
+*   1341573300000 1341792900000
+    
+    Week In Charts
+    
+    Closer look at jobs data  
+    A report that probably will help Obama's re-election campaign shows 171,000 jobs created in October and unemployment at 7.9%. /conga/kiosk/economy-politics.html 233911
 *   1329804000000 1329804000000
     
     MarketWatch Blogs
