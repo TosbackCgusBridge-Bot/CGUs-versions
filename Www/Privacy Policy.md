@@ -325,7 +325,6 @@ Borrow from over 180,000 titles for free
 *   Music
 *   MP3 Downloads
 *   Musical Instruments
-*   Entertainment Collectibles
 *   Video Games
 *   Game Downloads
 
@@ -402,13 +401,17 @@ Borrow from over 180,000 titles for free
 *   Golf
 *   All Sports &. Outdoors
 
-*   Automotive &. Industrial
+*   Automotive
 *   Automotive Parts &. Accessories
 *   Automotive Tools &. Equipment
 *   Car Electronics &. GPS
 *   Tires &. Wheels
 *   Motorcycle &. ATV
 *   Industrial &. Scientific
+*   Industrial Supplies
+*   Lab &. Scientific
+*   Janitorial
+*   Safety
 
 *   Unlimited Instant Videos
 *   MP3s &. Cloud Player20 million songs, play anywhere
