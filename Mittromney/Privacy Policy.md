@@ -33,7 +33,7 @@ Skip to Main Content Area Home   X Connect With Mitt Follow @MittRomney Login |
 *   News &. Media
     
     *   Featured Blog
-    *   My Vision For America Read More
+    *   For Love Of Country Read More
     *   More News
     
     *   Videos
