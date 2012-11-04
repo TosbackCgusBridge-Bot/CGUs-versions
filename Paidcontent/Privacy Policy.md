@@ -49,7 +49,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-The disruption of education: How technology is helping students teach themselves
+How NBC is using Instagram to report the 2012 election
 
 Stay on top of tech news in your inbox
 
