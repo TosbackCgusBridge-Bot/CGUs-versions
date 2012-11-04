@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Romney, Ryan rally the faithful...**  
-        Election 2012 | Philip Rucker
+    *   **In Virginia, Obama reasserts himself...**  
+        Election 2012 | Amy Gardner
     
-    *   **A Four-Pinocchio Virginia mailer**  
-        The Fact Checker | Josh Hicks
+    *   **Biggest Pinocchios of Election...**  
+        The Fact Checker | Glenn Kessler
     
     *   **Jill Biden and daughter hit issues...**  
         She The People | Mary C. Curtis
     
-    *   **Hurricane Sandy helped Obama politically...**  
-        The Fix | Michael Leahy and Sean Sullivan
+    *   **WaPo-ABC tracking poll: all tied...**  
+        The Fix | Jon Cohen, Peyton M. Craighill and Scott Clement
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -49,13 +49,13 @@
     *   **Good decision on NYC marathon**  
         ComPost | Alexandra Petri
     
-    *   **Happy Hour Roundup**  
-        The Plum Line | Jonathan Bernstein
+    *   **Sunday Open Thread**  
+        The Plum Line | Greg Sargent
     
-    *   **Bromance lesson for Obama**  
-        PostPartisan | Jonathan Capehart
+    *   **What ‘liberal media’?**  
+        PostPartisan | James Downie
     
-    *   **Friday question**  
+    *   **Morning Bits**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,14 +72,14 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Chilled conditions...**  
-        Capital Weather Gang | Ian Livingston
+    *   **D.C. area forecast: Staying cool...**  
+        Capital Weather Gang | Brian Jackson
     
     *   **The 2012 High Heel Race: ‘I wouldn’t...**  
         Going Out Gurus | Fritz Hahn
     
-    *   **Suspect sought in Alexandria robbery...**  
-        Crime Scene | David Marino-Nachison
+    *   **Man arrested in attacks on 2 women**  
+        Crime Scene |
     
     *   **Va. GOP leaders go to Ohio**  
         Virginia Politics | Laura Vozzella
@@ -103,11 +103,11 @@
     *   **D.C. Uniteds home date change forces...**  
         DC Sports Bog | Sarah Kogod
     
-    *   **No announcement by NFL yet on Halls...**  
+    *   **NFL looking into officials conduct...**  
         The Insider | Mark Maske
     
-    *   **Nationals give qualifying offer...**  
-        Nationals Journal | Adam Kilgore
+    *   **Michael Gonzalez, Nationals interested...**  
+        Nationals Journal | James Wagner
 *   National In National
     
     *   Energy &. Environment
@@ -145,6 +145,9 @@
     
     Blogs &. Columns
     
+    *   **Germany to Indian students: Willkommen!**  
+        WorldViews | Olga Khazan
+    
     *   **BBCs Newsnight almost accuses senior...**  
         WorldViews | Max Fisher
     
@@ -152,9 +155,6 @@
         WorldViews | Olga Khazan
     
     *   **NYT: Mitt Romney wants good relations...**  
-        WorldViews | Max Fisher
-    
-    *   **Libyan militias failed security...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -170,7 +170,7 @@
     
     Blogs &. Columns
     
-    *   **Color of Money E-letter:**  
+    *   **Great Jobs for Everyone 50+**  
         The Color of Money | Michelle Singletary
     
     *   **Carriers still dealing with Sandy...**  
@@ -179,8 +179,8 @@
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **FEMA has 9,106 disaster assistance...**  
-        Wonkblog | Sarah Kliff
+    *   **Everything you need to know about...**  
+        Wonkblog | Brad Plumer
 *   Tech In Technology
     
     *   Policy
@@ -191,7 +191,7 @@
     
     Blogs &. Columns
     
-    *   **Facebook releases privacy guide...**  
+    *   **Preparing for the next natural...**  
         Hayley Tsukayama
     
     *   **Carriers still dealing with Sandy...**  
@@ -214,13 +214,13 @@
     *   **Piemakers gear up for holiday sales**  
         All We Can Eat | Tim Carman
     
-    *   **New Obama photo inspires last-minute...**  
+    *   **‘EL-MO! We won’t go!’**  
         The Style Blog | Maura Judkis
     
     *   **Answering the question ‘why vote?’**  
         On Parenting | Janice D'Arcy
     
-    *   **Read this: Putin’s sports injury...**  
+    *   **Read this: Bret Baier drops 45...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -246,7 +246,7 @@
     *   **Colbert and Stewart give Kimmel...**  
         The TV Column | Lisa de Moraes
     
-    *   **The Oscars list for animation**  
+    *   **Image of the Day: Sandy’s election**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -266,11 +266,11 @@
 
 In the News
 
+*   Clocks fall back
 *   Karl Rove
-*   Watergate records
-*   Post-ABC poll
-*   Staten Island
-*   NYC Marathon
+*   ‘Million Puppet March’
+*   Election map
+*   College football
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -321,102 +321,90 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Mitt Romney’s campaign insults voters
+Obama has slight lead in electoral votes. Congress expected to remain status quo
+
+Dan Balz 
+
+Elite education for the masses
+
+Nick anderson 
+
+Four years after Obama’s election, a tale of two journeys that began full of hope
+
+Eli Saslow 
+
+Ohioans line up for early voting in the battleground state
+
+Rosalind S. Helderman 
+
+Why young voters aren’t feeling Obama-mania this time
+
+Anya Kamenetz 
+
+The Million Puppet March: Fighting for public broadcasting, with felt and fur
+
+Maura Judkis 
+
+Democrats in deep-blue Pa. voice confidence — and some nervousness
+
+Ann Gerhart 
+
+Motorcycle Sheikh sparks Saudi controversy: Does the Koran approve? WaPo-ABC tracking poll: all tied up as Romney draws even on favorability Mitt Romney’s campaign insults voters
 
 Editorial Board 
 
-Hurricane Sandy helped Obama politically, Karl Rove says Virginia voter fraud case expands to focus on GOP firm
+Airport security checks are vulnerable to fake boarding passes, experts warn
 
-Carol D. Leonnig 
+James Ball 
 
-Mitt Romney’s Kamikaze strategy
+Nevada moves to lean Obama The world is safer. But no one in Washington can talk about it.
 
-Greg Sargent 
+Greg Jaffe 
 
-Jersey Shore begins to register Sandy’s devastation
+In South Africa, disillusionment with the party that ended apartheid
 
-Carol Morello 
+Sudarsan Raghavan 
 
-Fox News’s Bret Baier slims down
+U.S. cities become hubs for Mexican drug cartels’ distribution networks
 
-Katherine Boyle 
+Sari Horwitz 
 
-In Benghazi timeline, CIA errors but no evidence of conspiracy
-
-David Ignatius 
-
-Taking America’s pulse
-
-George F. Will 
-
-The Democrats who predicted the 2012 campaign
-
-Michael Gerson 
-
-The choice
-
-Charles Krauthammer 
-
-Five myths about the electoral college
+Hurricane Sandy helped Obama politically, Karl Rove says Five myths about the electoral college
 
 George C. Edwards III 
 
-Romney, Obama refine themes for campaign’s last days
+In Turkey, Syria poses a new test for Erdogan’s authority
 
-Karen Tumulty 
+Anthony Faiola 
 
-Mitt Romney could be the next Andrew Johnson
-
-Colbert I. King 
-
-Carolyn Hax: Friend’s kindness is all about her. love in unequal amounts
-
-Carolyn Hax 
-
-Slow pace of recovery from Hurricane Sandy fuels frustration and anger
-
-Carol Morello 
-
-Poll dancing
-
-Kathleen Parker 
-
-2012 Election night: Coloring in the electoral college map
-
-— Tracy Grant 
-
-To blunt ‘fiscal cliff’ pain, administration could assert broad powers, experts say
-
-Zachary A. Goldfarb 
-
-Iraqi officials: Insurgents shoot dead 3 soldiers at checkpoint north of Baghdad
+Milt Campbell, first black athlete to win the Olympic decathlon, dies in Ga. at 78
 
 Associated Press 
 
-A security breakdown in Benghazi
+Redskins vs. Panthers: Cam Newton’s struggles could provide roadmap for Robert Griffin III
 
-Editorial Board 
+Kent Babb 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Mitt Romney's campaign insults voters
-    2.  Hurricane Sandy helped Obama politically, Karl Rove says
-    3.  Virginia voter fraud case expands to focus on GOP firm
-    4.  Romney's Kamikaze strategy
-    5.  Jersey Shore begins to register Sandy's devastation
+    1.  Obama has slight lead in electoral votes. Congress expected to remain status quo
+    2.  Elite education for the masses
+    3.  Four years after Obama's election, a tale of two journeys that began full of hope
+    4.  Ohioans line up for early voting in the battleground state
+    5.  Why young voters aren't feeling Obama-mania this time
 *   Top Videos
     1.  Mounds of white foam spews onto Tokyo street
-    2.  More than half of Venice flooded by heavy rain
-    3.  Inside election night at The Washington Post
-    4.  Sandy devastates Seaside Heights, NJ
-    5.  Romney distorts facts in ads
+    2.  Sandy devastates Seaside Heights, NJ
+    3.  Dupont High Heel Drag Queen Race: 'I wouldn't miss this for anything'
+    4.  Behind the U.S. targeted killing program
+    5.  Inside election night at The Washington Post
 *   Top Galleries
-    1.  New Jersey faces daunting cleanup and recovery after Sandy
-    2.  Newspaper endorsements for president: Romney or Obama?
-    3.  Small wonders
-    4.  New York begins recovery
-    5.  Sandy's devastating blow
+    1.  Romney's last campaign push
+    2.  Million Puppet March promotes public broadcasting
+    3.  SEAL Team 6 in action and in pop culture
+    4.  New Jersey faces daunting cleanup and recovery after Sandy
+    5.  On the campaign trail with the candidates
 
 Today's Paper
 
