@@ -45,41 +45,40 @@ Loading Modnique - Boutique Events
 *   all events
     *   women
     *   Caniche women's apparel
-    *   Cocktail Hour
-    *   Fall colors: silver jewelry from $5
-    *   Fluff Accessories
+    *   Coach Handbags and Wallets
+    *   Crystal rock by Christian Audigier
+    *   Designer jewelry blowout
+    *   Designer watches under $49 for her
     *   Funky Jeans
+    *   Fuzion Kids Jewelry
     *   Holiday Gift Guide: Burberry Scarves &. Fragrances
-    *   Holiday gifts: Affordable jewelry
-    *   Look of The Day
-    *   Luxury Handbags under $499: Tod's, Longchamp, Lanvin and more
-    *   November Birthstones: Topaz and Citrine jewelry
+    *   Holstark Winter Outerwear
+    *   Jewelry sets from $12
+    *   ONNO Women's Apparel Made In USA
+    *   Of-the-Moment Women's Shoes
+    *   Pajama Party!
     *   Perfect pearls
     *   Sapphire jewelry under $99
     *   TBS Women's Shoes
-    *   Winter Wonderland Style Boots
-    *   Yuka Paris Women's Apparel
-    *   _more..._
-    *   men
-    *   Men's Suit Shop Featuring Hugo Boss, Valentino and more
+    *   The perfect holiday gift: for him &. her
     *   _more..._
     *   other
-    *   Boucheron, Coach, Vera Wang and more Eyeglasses
+    *   Henry Ferrera Kids Rainboots
     *   Rolex
-    *   Watches we love: Gucci, Versace, Movado
-    *   Week in Rewind
+    *   Winter must-haves blowout for him and her
     *   _more..._
 *   apparel
     *   women
     *   Caniche women's apparel
     *   Cocktail Hour
-    *   Dynasty Women's Apparel
+    *   Crystal rock by Christian Audigier
     *   Funky Jeans
-    *   Look of The Day
+    *   Holstark Winter Outerwear
     *   Margaret O' Leary Sweaters
+    *   ONNO Women's Apparel Made In USA
+    *   Pajama Party!
     *   Party Dresses
     *   See By Chloe Women's Apparel
-    *   XOXO Women's Suits
     *   Yuka Paris Women's Apparel
     *   _more..._
     *   men
@@ -88,25 +87,26 @@ Loading Modnique - Boutique Events
     *   _more..._
     *   other
     *   Week in Rewind
+    *   Winter must-haves blowout for him and her
     *   _more..._
 *   Jewelry &. Watches
     *   women
-    *   Attractive gold plated silver bracelet with precious stones
+    *   Designer watches under $49 for her
     *   Diamonds! Diamonds! Diamonds!
     *   Drop &. Dangle Earrings
     *   Enzo Liverino
-    *   Everything under $50: Jewelry
     *   Fall colors: silver jewelry from $5
-    *   Handmade in Italy jewelry featuring Zydo and more
+    *   Fuzion Kids Jewelry
     *   Holiday gifts: Affordable jewelry
     *   Holiday gifts: Designer jewelry
-    *   Look of The Day
+    *   Jewelry sets from $12
     *   November Birthstones: Topaz and Citrine jewelry
     *   Oscar Heyman, Salavetti, Hasbani Gioielli and more
     *   Our favorite silver jewelry styles
     *   Perfect pearls
     *   Rose gold jewelry deals
     *   Sapphire jewelry under $99
+    *   The perfect holiday gift: for him &. her
     *   _more..._
     *   other
     *   Aquaswiss watches
@@ -116,13 +116,12 @@ Loading Modnique - Boutique Events
     *   _more..._
 *   Handbags &. Accessories
     *   women
-    *   DSquared Sunglasses Made In Italy
+    *   Coach Handbags and Wallets
+    *   Designer jewelry blowout
     *   Fluff Accessories
     *   Green Hills Handbags
-    *   H&S Handbags Made In Italy
     *   Holiday Gift Guide: Burberry Scarves &. Fragrances
     *   Holiday gifts: Designer jewelry
-    *   Look of The Day
     *   Luxury Handbags under $499: Tod's, Longchamp, Lanvin and more
     *   Mulberry, Alexander McQueen, Marc Jacobs, Proenza Schouler
     *   Vintage Judith Leiber Handbags Made In Italy
@@ -134,12 +133,13 @@ Loading Modnique - Boutique Events
 *   shoes
     *   women
     *   Bertalini Boots and Shoes
-    *   Brown boots
+    *   Of-the-Moment Women's Shoes
     *   TBS Women's Shoes
     *   This Season's Best Shoes
     *   Winter Wonderland Style Boots
     *   _more..._
     *   other
+    *   Henry Ferrera Kids Rainboots
     *   _more..._
 *   beauty
     *   women
@@ -151,11 +151,13 @@ Loading Modnique - Boutique Events
     *   Aquaswiss watches
     *   Boucheron, Coach, Vera Wang and more Eyeglasses
     *   Dedia Watches Made in Switzerland
+    *   Henry Ferrera Kids Rainboots
     *   Men's Suit Shop Featuring Hugo Boss, Valentino and more
     *   Men's shop: Dolce &. Gabanna Denim and Shirts from $75
     *   Rolex
     *   Watches we love: Gucci, Versace, Movado
     *   Week in Rewind
+    *   Winter must-haves blowout for him and her
     *   and many more...
 *   gifts
 *   daily deal
