@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Dubai &. Abu Dhabi in 7 Days
-    
-    Starting Today 11/2 at 3pm EDT
-    
-*   C Lazy U Ranch
-    
-    Starting Today 11/2 at 3pm EDT
-    
-*   Sparkling Hill Resort - Canada
-    
-    Starting Today 11/2 at 3pm EDT
-    
-*   The Crown - United Kingdom
-    
-    Starting Saturday 11/3 at Noon EDT
-    
-*   Hob Knob - Martha's Vineyard Edgartown, Massachusetts
-    
-    Starting Saturday 11/3 at 3pm EDT
-    
 *   New Sheridan Hotel - Telluride
     
-    Starting Sunday 11/4 at 3pm EST
+    Starting Today 11/4 at 3pm EST
     
 *   Captain Fairfield Inn - Maine Kennebunkport
     
-    Starting Sunday 11/4 at 3pm EST
+    Starting Today 11/4 at 3pm EST
     
 *   Topaz Hotel - Washington D.C.
     
-    Starting Sunday 11/4 at 3pm EST
+    Starting Today 11/4 at 3pm EST
+    
+*   Villa Santai - Bali
+    
+    Starting Monday 11/5 at Noon EST
+    
+*   James Royal Palm - South Beach
+    
+    Starting Monday 11/5 at 3pm EST
+    
+*   An Uptown NYC Mystery Hotel
+    
+    Starting Monday 11/5 at 3pm EST
+    
+*   Sugar Ridge - Antigua
+    
+    Starting Monday 11/5 at 3pm EST
+    
+*   Beacon Hill Hotel - Boston
+    
+    Starting Tuesday 11/6 at 3pm EST
     
 
 View All Upcoming Sales → Jetsetter
