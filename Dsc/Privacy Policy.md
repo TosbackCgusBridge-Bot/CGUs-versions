@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM Gold Rush (Season 3)The Wrong Claim 8:00PM World's Scariest Plane Landings  9:00PM Plane Crash: The Fallout  TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM MythBustersSquare Wheels 8:00PM MythBusters (Season 9)Mini Myth Medley 9:00PM Battlefield Cell  TV SHOWS
 
 American Chopper
 
@@ -326,6 +326,12 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
+Microsoft's Surface, A Tablet With Many Faces
+
+New Three-Fingered Frog Discovered
+
+Workplace Cyber Bullies Worse Than School
+
 Where's Mars' Methane? Curiosity Draws a Blank
 
 'Biking Hurricane Sandy': Gotta-See Video
@@ -335,12 +341,6 @@ Crowdfunded Plasma Jet Thruster for Spacecraft?
 Excellent Idea of the Day: Post-Sandy Birding
 
 Excellent Idea of the Day: Glow-in-the-Dark Roads
-
-NYC Marathon Canceled: DNews Nugget
-
-Sumo Wrestlers Hard to Find: DNews Nugget
-
-The Fossils of Galactic Cannibalism
 
   facebook share0 Tweet Privacy Policy  
 
@@ -546,38 +546,34 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Nov 03,  
-7:00 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Nov 03,  
-7:30 am  
-30 min(s)  
-**Paid Programming**  
- …  
-Nov 03,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Nov 04,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Nov 03,  
+Nov 04,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Nov 03,  
+Nov 04,  
 9:00 am  
 60 min(s)  
-**Alaska: The Last Frontier**  
-_Fueling the Fire_  
- The first storm of the winter is fast approaching so the entire K  
-**More Listings »**   Shop Discovery Store **Discovery Crazy Craft Kit**  
-$47.95  
-  **SHOP NOW »**   **Cash Cab: A Collection of the Best Trivia from the Hit Discovery Channel Series (Paperback)**  
-$12.95   **Discovering Ardi DVD**  
-$19.95   **Discovery Channel Polymer Chemistry Set**  
-$16.99        
+**Brainwashed**  
+ Are we truly in command of our own minds? To find out, a group  
+Nov 04,  
+10:00 am  
+60 min(s)  
+**Jungle Gold**  
+_Hell and High Water_  
+ Scott and George struggle to get their Ghanaian gold mine to hit  
+Nov 04,  
+11:00 am  
+60 min(s)  
+**Gold Rush (Season 3)**  
+_The Wrong Claim_  
+ Dave faces disaster when he finds his new claim is un-minable. To  
+**More Listings »**   Shop Discovery Store      
 
 our sites
 
