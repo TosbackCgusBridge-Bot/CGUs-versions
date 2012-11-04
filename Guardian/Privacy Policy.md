@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** Carrier pigeon's remains found in chimney with wartime coded message - video
-2.  2\. **News:** Barack Obama holds edge as campaign hits frenetic final stretch
-3.  3\. **News:** Man claims he was sexually abused by Tory politician
-4.  4\. **News:** Hillary Clinton would win by landslide against Mitt Romney, poll suggests
-5.  5\. **Football:** Roberto Di Matteo tells Alex Ferguson to stop talking about Chelsea
+1.  1.  **News:** David Cameron put on the spot by cosy texts to Rebekah Brooks
+2.  2\. **Culture:** The 10 most difficult books to finish – in pictures
+3.  3\. **Sport:** What drives Jessica Ennis?
+4.  4\. **News:** Iran suspends uranium enrichment
+5.  5\. **Comment:** Barack Obama and the paradox behind his African American support base | Gary Younge
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Society:** My husband's sex change
-2.  **Society:** Postnatal depression: the pressures new mothers face, now more than ever
-3.  **Sport:** Bradley Wiggins: 'Kids from Kilburn aren't supposed to win the Tour'
-4.  **Society:** Come inside: the world's biggest sperm bank
-5.  **Media:** Jimmy Savile accusers are looking for money, says former headteacher
+1.  **Technology:** Everyone wants a slice of Raspberry Pi
+2.  **Life &. style:** Observer sudoku
+3.  **News:** David Cameron put on the spot by cosy texts to Rebekah Brooks
+4.  **Life &. style:** Observer killer sudoku
+5.  **Sport:** What drives Jessica Ennis?
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Manchester United v Arsenal - live!
-2.  2\. Atos misled the government in securing its disability assessment contract | Steve Paget
-3.  3\. Wonderbook : Book of spells - review
-4.  4\. Document released in court by MoD
-5.  5\. Jonathan Dimbleby attacks 'witch-hunt' against BBC over Jimmy Savile scandal
+1.  1.  England made to toil and have Stuart Broad injury worry in Mumbai
+2.  2\. QPR v Reading - live!
+3.  3\. Ian Poulter wins World Golf Championship title in China
+4.  4\. Charles and Camilla visit Papua New Guinea – video
+5.  5\. What shall we do with the drunken sailors? Fire them
 6.  All today's stories
 
 On the Guardian today
 
 1.  Life and style Mapping the body: the temple
-2.  World news Barack Obama holds edge as campaign hits frenetic final stretch
-3.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-4.  Comment is free Iran sanctions now causing food insecurity, mass suffering
-5.  World news New York City cancels marathon amid controversy over Sandy recovery
-6.  World news Carrier pigeon's remains found in chimney with wartime coded message - video
+2.  World news Iran suspends uranium enrichment
+3.  Comment is free Barack Obama and the paradox behind his African American support base
+4.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+5.  Comment is free Who is the worst civil liberties president in US history?
+6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
 
 *   License/buy our content
 |*   Privacy policy
