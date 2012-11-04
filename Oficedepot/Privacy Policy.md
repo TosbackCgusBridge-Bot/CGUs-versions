@@ -12,7 +12,7 @@ Loading Results... Skip to content
 *   Customer Service
 *   1.800­.GO.DEPOT (1.800.­463.3768) Close X
     
-    **Session:** 0000xpthYcigIfPDnAXXyO8DGxB  
+    **Session:** 0000GHI5YX97mv8tWeyWjvU8mVW  
     **Clone:** 1659q38ci
     
 
@@ -163,11 +163,11 @@ Subtotal
     
     Current Offers
     
-    Dollar Deals on Supplies!
+    Save up to 15% on Select Cleaning &. Wellness Supplies
     
-    Click here for a hot paper deal!
+    New Pilot Frixion Erasable Gel Pens
     
-    Order your 2013 Calendars Today
+    Click here for an amazing paper deal!
     
 *   Paper
     
@@ -415,9 +415,9 @@ Subtotal
     
     Buy your Windows 8 PC or Tablet today
     
-    $6.99 Lexar USB Flash Drive, 8GB
+    $8.99 SanDisk Cruzer USB Flash Drive
     
-    Life happens, back it up with hard drives from Seagate
+    Our Mega Print Savings Event Is On!
     
 *   Furniture
     
@@ -474,9 +474,9 @@ Subtotal
     
     Upgrade Your Workspace and Save!
     
-    Seating Overstock Blowout! Save up to $100 on select Chairs
-    
     Save up to $100 on select Chairs
+    
+    Seating Overstock Blowout!
     
 
 Product Plans &. Leasing Options Page of There are no items in your cart. Previous Next $ Coupon Code: ZIP CODE You have not selected a store or a zipcode yet Your Coupons See all coupons Includes Coupon(s) Qty. Product Price Price With Tax item(s) false true Your Price: Quick View See More Results http://static.www.odcdn.com/images/us/od/lb\_loading.gif Please enter a quantity true true Home Customer Service  >  Privacy Statement Privacy Statement Helpful Links
