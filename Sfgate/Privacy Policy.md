@@ -1,6 +1,6 @@
 (skip this header)
 
-Saturday Nov 03, 2012 5:05 AM PT
+Sunday Nov 04, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Thieves grab $11K in bras
-*   Suicide Silence singer killed
 *   Set clocks back
-*   100 best U.S. jobs
-*   Katie, Suri flee dark apt.
+*   Jasper Johns review
+*   World Series bats hidden in SF
+*   Best Monty Python moments
+*   $11K bra heist
 *   Chron endorsements
 
 *   Bay Area &. State
@@ -340,12 +340,18 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Warriors edge Clippers, 114-110
+*   Stanford finds QB in Hogan and 48-0 win
+*   Nation in Focus
+*   World in Focus
+*   5 hits and 5 misses on the campaign trail, Oct. 29-Nov. 2
+*   Candidates eat
+*   Michael Macor on The World Series
 *   Rush hurt in Warriors’ loss to Grizzlies
 *   Nation in Focus
 *   World in Focus
 *   Kirk Hammett's Day of the Dead book launch
 *   Scenes from a hula festival
-*   5 hits and 5 misses on the campaign trail, Oct. 29-Nov. 2
 *   Day in Pictures, Nov. 2, 2012
 *   Favorite dishes 11/02/2012
 *   Barry Zito's Kentfield manse still wants a buyer
@@ -374,12 +380,6 @@ Ads by Yahoo! Photo Galleries
 *   Lance Armstrong
 *   San Quentin
 *   Apple Event Oct 23
-*   The return of Charles Chocolates
-*   San Francisco Giants victory parade
-*   Real haunted homes for sale
-*   Nation in Focus
-*   World in Focus
-*   Jim Harbaugh
 
 *   Most Read
 *   |
@@ -387,53 +387,56 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  S.F. runners angry N.Y. Marathon canceled
-2.  Will Barry Zito’s 2-time championship help sell Kentfield home?
-3.  Giants World Series bats hidden around San Francisco
-4.  Nanny accused of stabbing two children didn’t like housework
-5.  Apple's iPad Mini off to strong start
-6.  U.S. Stocks Fall as Optimism Fades After American Payrolls Data
-7.  Calif principal testifies at teacher's abuse trial
+1.  Intruder found dead in S.F. bathroom
+2.  SFPD relying on citizens with cameras
+3.  New Giants or old Dodgers: Who's better?
+4.  Police charge NYC nanny in stabbing death of kids
+5.  Horoscope, Q&A/Mailbag, 11/04/12
+6.  Warriors edge Clippers, 114-110
+7.  Daylight Saving Time Ends on Sunday – Change Your Clocks Back One Hour
 
-1.  Oakland teachers failed kids over grant
-2.  Calif. voter registration hits record of 18.2M as Republican Party dips below 30 percent
-3.  Giants decline Huff's option for 2013
-4.  US economy adds 171K jobs, rate rises to 7.9 pct.
-5.  DOJ denies Prop. 37 investigation
-6.  Nanny accused of stabbing two children didn't like housework
-7.  Same-sex marriage leading in Washington
+1.  Obama seems to have early voter lead in key states
+2.  S.F. runners angry N.Y. Marathon canceled
+3.  2 supervisor races have turned brutal
+4.  West Coast at risk for hybrid storms, too
+5.  Burglar dies while trying to flee S.F. house
+6.  SFPD relying on citizens with cameras
+7.  Bay Area money fills Obama campaign coffers
 
-1.  Dark days behind for Charles Chocolates
-2.  Texas county returning alleged shakedown cash
-3.  What's New: Heritage turkeys
-4.  Bill Plaschke: Giants surpass Dodgers
-5.  Court rules public pensions must be paid
-6.  Prostate cancer drug so effective trial stopped
-7.  Top winery stops in Healdsburg
+1.  New Giants or old Dodgers: Who's better?
+2.  Superstorm spotlights home insurance
+3.  Lights in lower Manhattan, misery in outer regions
+4.  Much more rides on Prop. 30 than schools
+5.  Intruder found dead in S.F. bathroom
+6.  MY RIDE: 1948 Chrysler New Yorker
+7.  'Other Son' review: Switched at birth in Israel
 
 loading... Latest News Videos From our homepage
 
 *     
-    Angel Franco, New York Times / SF
+    AP / SF
     
-    Runners hopping mad
+    New Giants or old Dodgers?
     
-    Cancellation of NYC Marathon upsets S.F. athletes and others who had to travel there.
+    S.F. is a throwback team, so who better to compare them to than L.A. teams of mid-1960s.
     
 
 *     
-    Jason Kempin, Getty Images / 2012 Getty Images
+    Paul Chinn, The Chronicle / SF
     
-    Country fun at CMA Awards
+    Little Brother is watching
     
-    Carrie, Brad and other stars put on quite the show. See who won.
+    Photos from cell phone users, social media helping SFPD pursue suspects like never before.
     
-*   CMA Awards red carpet
 
-*   Barry Zito's pad for sale
+*     
+    Dylan Patrick / AP
     
-    Kentfield home overlooks Lake Phoenix and Mt. Tam, but the commute to AT&T Park is bad.
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 7:45 p.m., Saturday, November 3, 2012 Lights in lower Manhattan
     
+    Residents had been in the dark for nearly five days by Sandy.
+    
+*   Christie orders gas rationing
 
 *   Home
 *   News
