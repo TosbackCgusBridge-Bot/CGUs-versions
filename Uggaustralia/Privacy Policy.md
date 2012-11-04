@@ -95,8 +95,8 @@ Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and mor
 *   WORLD OF UGG
 *   | Store Locations
     *   Concept Stores
-    *   Retail Stores
     *   Online Stores
+    *   Retail Stores
 
 Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.
 
@@ -129,17 +129,17 @@ Top Categories
 
 Fall Highlights
 
-*   UGG® Collection fuses Grit &. Glam
+*   Empire State of Mind
     
-    Go edgy this Fall with a vintage rock vibe
+    NYC: The city that inspired this season’s collection.
+    
+    Get Street Smart >.
+*   Grit &. Glam
+    
+    UGG® Collection goes edgy this Fall with a vintage rock vibe.
     
     Rock 'N Roll >.
-*   OUR HOLIDAY '12 COLLECTION
-    
-    Get an exclusive look at the collection and order today
-    
-    GO WILD >.
-*   SHARE YOUR LOVE FOR THE CLASSIC BOOT
+*   Share Your Love for The Classic Boot
     
     Contribute to our global photo album of Classic fanatics.
     
