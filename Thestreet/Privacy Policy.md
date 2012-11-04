@@ -96,7 +96,7 @@ A NOTE FROM JILL MALANDRINO
 *   Rochdale
 *   Kass
 
-pjava08.dc.thestreet.com Privacy Policy
+pjava01.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -259,7 +259,7 @@ DOW 13,093.16 -139.46 -1.05% NASDAQ 2,982.13 -37.93 -1.26% S&P 500 1,414.20 -13.
 *   Office Will Determine Whether Microsoft Can Beat Apple
 *   10 Worst Cars of All Time
 
-Articles From Newser Reverend to Ministry: You Owe Me Millions EPA: Hyundai, Kia Exaggerated Fuel Claims US Adds 171K Jobs. Unemployment at 7.9% See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Christianity's 'Holiest Site' May Close Over Unpaid Bills Craigslist Ads Gouge Storm Victims: $700/Night Reverend to Ministry: You Owe Me Millions See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
