@@ -83,6 +83,8 @@ még több
 
 új projekt
 
+kispesti uszoda, budapest
+
 öreg-tó, tata
 
 által-ér
@@ -90,8 +92,6 @@ még több
 messer hungarogáz kft. töltőüzem, budapest
 
 váci corner offices, budapest
-
-erdőtelki arborétum, erdőtelek
 
 még több
 
