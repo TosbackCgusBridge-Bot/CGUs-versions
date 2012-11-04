@@ -10,104 +10,104 @@ WGC
 
 WGC - HSBC Champions View Leaderboard >.
 
+*   1
+*   I.Poulter
+*   \-21
+*   F
+
 *   T2
+*   J.Dufner
+*   \-19
+*   F
+
+*   T2
+*   E.Els
+*   \-19
+*   F
+
+*   T2
+*   P.Mickelson
+*   \-19
+*   F
+
+*   T2
+*   S.Piercy
+*   \-19
+*   F
+
+*   T6
 *   L.Oosthuizen
 *   \-18
 *   F
 
-*   T2
+*   T6
 *   L.Westwood
 *   \-18
 *   F
 
-*   4
-*   P.Mickelson
+*   8
+*   A.Scott
+*   \-17
+*   F
+
+*   9
+*   M.Kaymer
+*   \-16
+*   F
+
+*   10
+*   B.Haas
 *   \-15
 *   F
 
-*   T5
-*   E.Els
+*   T11
+*   H.Fujita
 *   \-14
 *   F
 
-*   T5
-*   B.Haas
+*   T11
+*   P.Meesawat
 *   \-14
 *   F
 
-*   T5
-*   I.Poulter
+*   T11
+*   T.Olesen
 *   \-14
 *   F
 
-*   8
+*   T11
+*   M.Siem
+*   \-14
+*   F
+
+*   T11
 *   B.Snedeker
+*   \-14
+*   F
+
+*   T16
+*   C.Pettersson
 *   \-13
 *   F
 
-*   T9
+*   T16
+*   N.Watney
+*   \-13
+*   F
+
+*   T18
 *   G.Bhullar
 *   \-12
 *   F
 
-*   T9
-*   M.Kaymer
-*   \-12
-*   F
-
-*   T9
-*   C.Pettersson
-*   \-12
-*   F
-
-*   T9
-*   S.Piercy
-*   \-12
-*   F
-
-*   T9
-*   A.Scott
-*   \-12
-*   F
-
-*   T14
+*   T18
 *   L.Donald
-*   \-11
+*   \-12
 *   F
 
-*   T14
-*   J.Dufner
-*   \-11
-*   F
-
-*   T16
+*   T18
 *   M.Leishman
-*   \-10
-*   F
-
-*   T16
-*   S.Lowry
-*   \-10
-*   F
-
-*   T16
-*   P.Meesawat
-*   \-10
-*   F
-
-*   T16
-*   T.Olesen
-*   \-10
-*   F
-
-*   T20
-*   K.Bradley
-*   \-9
-*   F
-
-*   T20
-*   G.Fernandez-Castano
-*   \-9
+*   \-12
 *   F
 
 *   **FULL LEADERBOARD**
@@ -279,15 +279,15 @@ Prev Next
 *   Grill Room
 
 *   WGC HSBC Champions
-*   Morning Drive
-*   Phil Mickelson
-*   Adam Scott
-*   Ernie Els
-*   Ian Poulter
-*   Lee Westwood
-*   Bubba Watson
 *   PGA Tour
-*   European Tour
+*   Lee Westwood
+*   Phil Mickelson
+*   British Open Championship
+*   FedEx Cup
+*   Vijay Singh
+*   Las Vegas
+*   Tiger Woods
+*   Ernie Els
 
 **Privacy Policy**
 
@@ -528,7 +528,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 234,355 facebook.com/GolfChannel 121,713 twitter.com/GolfChannel Newsletter
+Social 234,404 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
