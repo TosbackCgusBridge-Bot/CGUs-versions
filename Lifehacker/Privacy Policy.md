@@ -1,28 +1,107 @@
-1.  Nov 3, 2012 12:46am Tweet Here Are MTA Photos of Flooded Subway Tunnels Under the East River
+1.  Nov 3, 2012 4:15pm Tweet
+    
+    > The order reads: “If your vehicle’s license plate ends in a letter (A,B,C…), you are only permitted to fuel the vehicle on odd-numbered days.” Numbers are allowed on even-numbered days.
+    > 
+    > The problem: All license plates in New Jersey end in letters, except for vanity plates. So on Saturday, most everyone in the state could buy gas. On Sunday, no one can. Or so it seems.
+    
+    — _The New York Times_ points out the pure stupidity of New Jersey governor Chris Christie’s order regarding gas rationing.  
+2.  Nov 3, 2012 4:03pm Tweet Is Donald Trump Filling Up His “Apprentice” Vans While There’s A Gas Shortage?
+    
+    One of the most frustrating parts of post-Sandy life has been the unendingly long lines for gas. Two arrests for violence at gas stations were made in Staten Island yesterday, and Yonkers Mayor Mike Spano announced yesterday that gas rations would come into effect today, limiting gas sales to ten gallons per driver.
+    
+    Enter our anonymous tipster who tells us that a “a certain blonde haired blow-hard who has an obsession with our current president” is using Yonkers gas to fill up a number of passenger vans for his reality show. 
+    
+    Read More
+    
+     
+3.  Nov 3, 2012 3:04pm Tweet Romney’s New Attack Dog, Rudy Giuliani, Calls For Obama’s Resignation
+    
+    Even though he’s being attacked by idiots, Nate Silver is calling the election a complete lock for Obama which basically means it’s over. So what’s Mitt Romney to do now? Unless all of the state polls are totally off, he’s going to be out of a job come next week. He needs one last trump card and the Donald isn’t the man for the job. Romney is now hedging his bets on a last minute performance from Rudy Giuliani.
+    
+    The former New York mayor joined Romney and Paul Ryan onstage at a mega-rally in Ohio last night, as part of a Republican all-star lineup that also included former presidential candidates John McCain, Rick Santorum, and Rick Perry.
+    
+    Giuliani made the most news of the night by calling for Obama’s resignation.
+    
+    Read More
+    
+     
+4.  Nov 3, 2012 2:08pm Tweet
+    
+    If you never want to forget the experience of living in post-Sandy Downtown Manhattan, you can now buy a t-shirt featuring the popular SoPa (South of Power) image created by New York designer Jake Levine.
+    
+    The shirts are $20 and all funds raised by sales go to Sandy relief efforts.
+    
+    \[_Image via Selflesstee_\]
+    
+     
+5.  Nov 3, 2012 1:39pm Tweet
+    
+    A world where Roe v. Wade is overturned and Medicare is voucharized.
+    
+    That’s the America the Obama campaign wants you to picture under a Romney presidency in a new ad. A Democrat’s absolute worst nightmare. 
+    
+    \[_Video via Buzzfeed_\]
+    
+     
+6.  Nov 3, 2012 12:54pm Tweet Volunteer for Hurricane Relief Efforts Without Sounding Like a Dick About It Later: A Guide
+    
+    Everyone who has some free time this weekend should spend their hours volunteering. But after you do your great deeds, like donating food or clothes, you might be tempted to overshare about it. You will immediately want to run to the hilltops and scream, “Hey everybody, look how much good I did.” Don’t do this! You will lose all of the moral superiority that you just earned.
+    
+    Below are some suggestions that will help you to not act like a stupid jerk who brags about how much they volunteer.
+    
+    Read More
+    
+     
+7.  Nov 3, 2012 11:39am Tweet
+    
+    Here’s Newark Super-Mayor Cory Booker helping out one of his favorite constituants. Of course he totally ignored the ridiculousness of her Twitter handle and told her to DM him for more help.
+    
+    Let’s just hope the DM’s stopped there. Big Boobs Carly is not the girl for you, Mayor Booker!
+    
+     
+8.  Nov 3, 2012 11:09am Tweet Live Nation Gave Lady Gaga a Plane and Proscuitto Last Night
+    
+    Lady Gaga’s Monster Ball Tour grossed 227.4 million dollars, so it’s expected that the touring industry wants to keep her happy. Live Nation wanted to make sure the Gags was at peak happiness so they gave her a 757 jet. She told her 30.8 million Twitter followers last night “So apparently LIVE NATION gave us a 757 I just cried on the tarmac. We tried to take a pic but its too big.” That last part is such a humble-brag.
+    
+    She followed up that tweet with, “OMG there’s Internet on the PLANE. THIS IS MY PLANE IT HAS INTERWEBULAR features. Monsters :( i cant believe this sometimes,” which confirms the fact that Lady Gaga has never flown select flights on Delta Airlines before this.
+    
+    Read More
+    
+     
+9.  Nov 3, 2012 10:30am Tweet
+    
+    This is a video of Christina Aguilera performing “Beautiful” from last night’s Sandy benefit concert on NBC. (Note: text “redcross” to 90999 if you want to donate). Billy Joel also performed “Miami 2017” and changed the lyrics to say that “Staten Island drowned,” which gave everyone the shivers. Jimmy Fallon sang with Billy Joel, Sting, and Bon Jovi and smiled a lot.
+    
+    But if you’ve ever had any doubts that Christina is the diva of our generation, then this video should squash those wrongful beliefs. 
+    
+    NASA scientists have been searching through deep space for years in order to find something that has so few flaws as this has. By god, we have finally found it.
+    
+     
+10.  Nov 3, 2012 12:46am Tweet Here Are MTA Photos of Flooded Subway Tunnels Under the East River
     
     Earlier tonight, the MTA released its first pictures from flooded subways in the Cranberry Street Tunnel, which carries the A and C lines beneath the East River.
     
     Read More
     
      
-2.  Nov 2, 2012 11:52pm Tweet
+11.  Nov 2, 2012 11:52pm Tweet
     
     Nate Silver is still working his pro-Obama, anti-Romney witchcraft, but this time to the fifth decimal place.
     
      
-3.  Nov 2, 2012 11:16pm Tweet
+12.  Nov 2, 2012 11:16pm Tweet
     
     > THE BOTTOM LINE: There is evidence that large-scale catastrophes may influence birth and marriage rates, but in which direction is not clear.
     
     —  _The New York Times_ health blog looks into the rumor that natural disasters lead to more  babies and marriages. Thanks for nothing, scientists.   
-4.  Nov 2, 2012 9:42pm Tweet Kyrgyzstan Journalist ‘Mock’ Kidnapped at Gunpoint by Fellow Journalists as Part of Practical Joke
+13.  Nov 2, 2012 9:42pm Tweet Kyrgyzstan Journalist ‘Mock’ Kidnapped at Gunpoint by Fellow Journalists as Part of Practical Joke
     
     Two reporters/practical joke columnists (really) who worked for a Kyrgyzstan paper decided to step up their joke game in a normal, reasonable way, which was: by kidnapping the host of an popular entertainment show at gun point and forcing her to strip and dance for them.
     
     Read More
     
      
-5.  Nov 2, 2012 8:19pm Tweet John Cusack Developing Film About America’s Most Popular Misogynist, Rush Limbaugh
+14.  Nov 2, 2012 8:19pm Tweet John Cusack Developing Film About America’s Most Popular Misogynist, Rush Limbaugh
     
     Active Twitter liberal John Cusack is developing a film about Rush Limbaugh, tentatively and creatively titled “Rush.” And, of course, the former Lloyd Dobler will play the popular conservative radio host/misogynistic racist himself. As the Associated Press notes:
     
@@ -33,109 +112,13 @@
       
     
      
-6.  Nov 2, 2012 6:33pm Tweet
+15.  Nov 2, 2012 6:33pm Tweet
     
     Hopefully, we’ll have the “e” back in this site on Monday and we can all start to come out of the darkness relatively unscathed. Thanks to Tumblr for the help. Thanks to those readers who enjoyed this old-school exhibition. And thanks to the writers for being patient. 
     
     And, of course, thanks for your continued support of Gawker/Gawkr. 
     
     _Photo of Elizabeth St. with electricity this evening courtesy Nick Denton. If all goes well, we’ll be returning to work there on Monday._
-    
-     
-7.  Nov 2, 2012 6:31pm Tweet Mother’s Two Sons Die During Hurricane After She Is Refused Help by Staten Island Neighbors
-    
-    jezebelcom:
-    
-    > Two little boys who were literally swept out of the arms of their mother during the hurricane have been found dead. But that’s not the whole story, and it gets even sadder: 39-year-old Glenda Moore, the mother of the two boys (pictured above with her husband, Damian), knocked on doors in her Staten Island neighborhood, begging for help during the hurricane. No one would assist her, her sister claims.
-    > 
-    > Read More
-    
-     
-8.  Nov 2, 2012 6:31pm Tweet At Long Last, Ricky Martin Weighs In On the Marathon
-    
-    Before it was cancelled this afternoon, Ricky Martin was asked whether or not he thought the New York City marathon should continue as planned. “Yeah, the show must go on,” he said while wearing a hat that was just a tiny bit too small for his head. Interesting, Ricky Martin, very interesting opinion you have there.
-    
-    He then posed with a girl in a pink jacket, touched her head affectionately, and vanished into the crowd. 
-    
-    \[TMZ\]
-    
-      
-    
-     
-9.  Nov 2, 2012 6:09pm Tweet 7 Things I Learned While Working from Home This Week
-    
-    **1. These are the WNBC newscasters ranked in order from Best to Worst:**
-    
-    #1 Pat Battle  
-    #2 Brian Thompson  
-    #3 Everyone else  
-    #4 Janice Huff
-    
-    Here are a few of the things I saw Pat Battle do while covering Hurricane Sandy on-the-scene in New Jersey.
-    
-    Read More
-    
-     
-10.  Nov 2, 2012 6:05pm Tweet It’s Time for New York to Invade Connecticut and Steal All Their Gas
-    
-    Even as power slowly returns, Post-Sandy New York City remains a desperate snarl of lines for fuel and transportation. But we hear that just to the northeast lies a pristine land of plenty: Connecticut. Now we must ask: Is it time for New York to invade The Constitution State?
-    
-    After soliciting horror stories from the New York City gas shortage  earlier today, we received not one, but two emails from people bragging… er, informing us of Connecticut’s vast petroleum reserves. There, fuel flows like the sap of sugar maples on a crisp New England night. Sweet, sweet gas.
-    
-    Read More
-    
-     
-11.  Nov 2, 2012 5:41pm Tweet Here Is a List of People Bubba The Love Sponge’s Ex-Wife Is Also Rumored To Have Had Sex With On Camera
-    
-    After we posted a brief clip of Hulk Hogan’s sex tape last month, TMZ reported that there were three other tapes made. We actually heard there were more than that. Soon after the initial Hulk Hogan not-so-sex-filled “sex tape” was published on Gawker, a man who called himself “Jim Janerro” wrote to us. He claimed he had more footage of Bubba’s wife getting it on in the same bedroom with numerous other partners, including other scenes with her and Hogan. He said there were “lots of black guys” involved, too. “Jim” claimed he found the tapes in a box of promotional DVDs he purchased at the annual Bubba Army Garage Sale last year.
-    
-    Read More
-    
-     
-12.  Nov 2, 2012 5:18pm Tweet
-    
-    Multiple outlets are reporting—on Twitter—that Sunday’s New York City Marathon has been cancelled due to Hurricane Sandy complications. With many people questioning whether a marathon was a wise use of resources in a time of relative scarcity, this was probably a good decision by the mayor’s office.
-    
-    —Cord
-    
-     
-13.  Nov 2, 2012 5:17pm Tweet Power’s back in the East Village.
-    
-    > AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-    > 
-    > — Richard Lawson (@rilaws) November 2, 2012
-    
-    Courtesy of _The Atlantic_’s Richard Lawson, who’s been without power all week. We’ll consider this a good start to the weekend.
-    
-     
-14.  Nov 2, 2012 4:50pm Tweet Flight’s Shallow Depth
-    
-      
-      
-    A junky argues with her landlord while the Red Hot Chili Peppers’ heroin ballad “Under the Bridge” plays in the background. Then, when she shoots up, we hear a cover of the Velvet Underground’s “Sweet Jane.” An alcoholic druggie purges his stash and looks longingly at wedding pictures for a marriage that eventually failed to the strains of Bill Withers’ “Ain’t No Sunshine.” A drug dealer is brought in to deliver some hangover-busting cocaine and the refreshed drunk rides the elevator down from his hotel room to a muzak version of “With a Little Help from My Friends.”  
-      
-    The obviousness of _Flight_’s soundtrack is a great indication of Robert Zemeckis’ film’s overall triteness. This is a movie of soap opera eyes during an embrace that leads to a Dear John letter. A movie where Denzel Washington does a drunken mumble that’s so put on, I wonder if he’s ever actually seen a drunk person before. It’s a movie of the chin-stroking moviegoer’s favorite sensibility, shallow depth, in which a character needs only one and a half layers to carry a film that the masses will consider complexly satisfying.
-    
-    Read More
-    
-     
-15.  Nov 2, 2012 4:45pm Tweet ConEd: Your Power’s Back. ConEd: Psych, Still Out.
-    
-    Not long after Bloomberg’s news conference this afternoon, during which he announced that ConEd could have power restored in most of Manhattan by midnight, did the cries of joy begin eruptnig across Twitter.
-    
-    > ConEd just robocalled. I have power! Fingers crossed they are right.
-    > 
-    > — tara flanagan (@taraflanagan) November 2, 2012
-    
-    > ConEd just called to tell me I HAVE THE POWER!!!
-    > 
-    > — Ashley Van Buren (@avb) November 2, 2012
-    
-    > A coworker who lives in Chelsea just got a call from ConEd: power restored! “We thank you for your patience.”
-    > 
-    > — Emily Steel (@emilysteel) November 2, 2012
-    
-    Read More
     
      
 
