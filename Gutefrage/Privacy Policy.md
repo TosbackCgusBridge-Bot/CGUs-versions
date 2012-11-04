@@ -203,44 +203,44 @@ Registrieren Login
 9.  Windows 8
 10.  Winter
 
-Top-50 Themen Thema Anzahl Apple 84684 Arbeit 65042 Ausbildung 50421 Auto 91340 Beauty 69619 Beruf 77670 Beziehung 72398 Computer 539757 Computerspiele 64978 deutsch 67257 Englisch 52305 Ernährung 50884 essen 71441 Facebook 77924 Fernsehen 60431 Film 100659 Finanzen 59130 Freizeit 264602 Fußball 51281 Games 125603 Geld 93901 Gesundheit 206431 Haare 83093 Handy 206152 Hilfe 149681 Internet 323538 iPhone 75815 Kinder 51027 Körper 50496 Laptop 73931 Liebe 166469 Lied 54747 Mädchen 56703 Medizin 62918 Minecraft 68551 Musik 281665 PC 283827 PC-Spiele 48986 Problem 55635 PS3 60727 Recht 95567 Schule 236320 Software 57236 Spiele 137920 Sport 111270 Technik 121055 Tiere 65044 TV 54553 Video 52929 Youtube 83832 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 84831 Arbeit 65084 Ausbildung 50461 Auto 91423 Beauty 69688 Beruf 77714 Beziehung 72497 Computer 540235 Computerspiele 65088 deutsch 67305 Englisch 52342 Ernährung 50921 essen 71490 Facebook 78027 Fernsehen 60476 Film 100804 Finanzen 59149 Freizeit 264711 Fußball 51318 Games 125832 Geld 94002 Gesundheit 206575 Haare 83217 Handy 206490 Hilfe 149900 Internet 323838 iPhone 75949 Kinder 51065 Körper 50563 Laptop 74034 Liebe 166703 Lied 54798 Mädchen 56783 Medizin 62974 Minecraft 68708 Musik 281940 PC 284169 PC-Spiele 49069 Problem 55724 PS3 60836 Recht 95631 Schule 236531 Software 57275 Spiele 138110 Sport 111379 Technik 121181 Tiere 65107 TV 54603 Video 52991 Youtube 84004 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  madbaum
+1.  DeinPapa98
     
     Punkte:
     
-    1195
+    1372
     
     Level:
     
-    madbaum
+    DeinPapa98
     
-2.  bananaboy101
-    
-    Punkte:
-    
-    732
-    
-    Level:
-    
-    bananaboy101
-    
-3.  Bluebird555
+2.  Bluebird555
     
     Punkte:
     
-    671
+    980
     
     Level:
     
     Bluebird555
     
+3.  BoseKlose
+    
+    Punkte:
+    
+    958
+    
+    Level:
+    
+    BoseKlose
+    
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.403.800 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.413.693 gute Fragen_
 
-*   36 Beste Freundin hat sich vor mir in die Hose gemacht.
-*   18 Können Katzen einen verstehen?
-*   18 Ich bin Atheist, aber sehne mich nach Gott. Ist da doch mehr?
+*   30 jetzt schon geld geld mehr.wie soll ich den monat überleben?
+*   25 Wieso ist uns Stille/Smalltalk peinlich?
+*   16 Ich habe weder WOHNUNG noch ARBEIT ! Ich kriege keins ohne das andere ! Wie komme ich da raus ?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
@@ -248,29 +248,29 @@ Top-50 Themen Thema Anzahl Apple 84684 Arbeit 65042 Ausbildung 50421 Auto 91340 
 *   Kräuterseitlinge mit Pasta
 
 *   Spiel für Halloween-Kinderparty: Die Halloween-Grusel-Box
-*   Schnell und einfach: Halloween-Geister aus Meringue
+*   Eiweißshake selber machen
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.981.199
+1.983.706
 
 Anzahl der Fragen
 
-8.403.219
+8.412.402
 
 Anzahl der Antworten
 
-36.428.386
+36.458.711
 
 Anzahl der Tipps
 
-75.465
+75.548
 
 Anzahl der Videos
 
-4.771
+4.776
 
 Blog
 
