@@ -134,23 +134,21 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day This Week's Best Deals Will Keep Cash in Your Pocket! $0 Value: Discount: You Save: $0 100% $0
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day HURRY! The Week's Best Deals Keep Cash in Your Pocket! $0 Value: Discount: You Save: $0 100% $0
 
-Saturday: CVS, Walgreens Deals CVS
+Sunday: More Deals
 
-*   more...
-
-1.  CAMPAIGN JOBS
+1.  PARALEGAL
     
-    Grassroots Campaigns, Inc.
+    GREGORY LEYH, P.C.
     
-2.  Apartment Maintenance Helper
+2.  PLUMBER/DRAIN CLEANER
     
-3.  SEASONAL DRIVERS
+    Snake'n'Rooter
     
-    Kelly Services
+3.  Press &. Lamination Operators
     
-4.  SALES
+4.  PROGRAM DIRECTOR
     
 5.  SALES
     
@@ -162,16 +160,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   No leadership changes as Chiefs’ slide continues
-*   Tuesday’s lottery numbers
-*   Royals claim pitcher from Rockies, make other roster moves
-*   Steve Kraske | Predictions: McCaskill wins, so does Obama
-*   Missouri judge throws out 1983 murder conviction
-*   UMKC says no to name change
-*   Recap: LA Lakers vs. LA Clippers
-*   Lottery numbers for Wednesday, Oct. 31
-*   Kansas State football coaches begin earning bonus money
-*   Chiefs not just bad, but historically bad
+*   Wildcats look like champs, but Kleins injury puts a scare into K-State
+*   Arrowhead anxiety: Turnover off the field causes concern
+*   K-State is 9-0 after beating Oklahoma State 44-30
+*   Chiefs linebacker Johnson punches through shroud of mediocrity
+*   Perry Ellis' time has arrived at KU
+*   Pedestrian killed on I-35 near Liberty
+*   Mizzou offense sputters in 14-7 loss to Florida
+*   Hereford House arson trial paints picture of desperation
+*   K-State-Oklahoma State game report
+*   Baylor hands Kansas its 18th straight Big 12 loss
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
