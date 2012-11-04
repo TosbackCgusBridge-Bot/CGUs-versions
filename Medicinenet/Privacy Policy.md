@@ -1,4 +1,4 @@
-About Us| Newsletter November 3, 2012
+About Us| Newsletter November 4, 2012
 
 *   Like Us
 *   Follow Us
@@ -413,11 +413,11 @@ New on MedicineNet
 
 Latest MedicineNet News
 
+*   An Elephant That Speaks Korean?
 *   Sandy's Death Toll Rises
 *   Canada Health System as Model Might Cut U.S. Costs
 *   Health Risks Will Rise in Sandy's Wake
 *   Sandy's Wrath Brings Massive Blackouts, Flooding
-*   Q &. A: Riding Out the Storm Safely
 *   Want More News? Sign Up for MedicineNet Newsletters!
 *   Health News Feed
 
