@@ -56,6 +56,11 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Oliver Perez agrees to one-year deal with M's
+*   McCarthy drawing interest from multiple teams
+*   Bartolo Colon signs one-year deal with A's
+*   Mariano Rivera to return for 2013 season
+*   Indians acquire Aviles, Gomes from Blue Jays
 *   Angels decline 2013 option on Dan Haren
 *   Mariners ink Iwakuma to two-year extension
 *   Report: Haren-for-Marmol trade not happening
@@ -63,11 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Ortiz agrees to two-year deal with Red Sox
 *   Nats make qualifying offer to Adam LaRoche
 *   Bourn receives qualifying offer from Braves
-*   Cardinals make qualifying offer to Kyle Lohse
-*   Angels don't make qualifying offer to Hunter
-*   B.J. Upton obtains qualifying offer from Rays
-*   Swisher, Kuroda receive qualifying offers
-*   Soriano gets qualifying offer from Yankees
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Week 9 Starts and Sits Nov 3
+*   Week 9 Injury Questions Nov 3
+*   Matchups: Pay-Dirt Due Nov 3
 *   Friday Rundown Nov 2
 *   Week 9 Rankings Nov 2
-*   Matchups: Pay-Dirt Due Nov 2
 *   More for Mathews? Nov 2
 *   Best Available NFL Free Agents Nov 2
 *   Week 9 Chat Nov 1
-*   Week 9 Target Watch: NFC Nov 1
-*   Deadline Snoozing Nov 1
 
 PREMIUM CONTENT
 
@@ -106,6 +106,11 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Report: Tannehill (knee) expected to start
+*   Colts downgrade Brown (knee) to questionable
+*   Report: Megatron may be limited to 3rd downs
+*   Sproles out 4-6 weeks but could return sooner
+*   Eagles activate DT Patterson from NFI list
 *   Norv: Danario Alexander has earned 'big' role
 *   Report: Tannehill 'better than 50-50' to play
 *   Megatron misses practice, listed questionable
@@ -113,11 +118,6 @@ FANTASY FOOTBALL HEADLINES
 *   Dez Bryant (hip) listed questionable for SNF
 *   Sproles out indefinitely after breaking hand
 *   Dwyer, Mendenhall 'doubtful' for Week 9 game
-*   Packers WR Nelson will be 'Sunday decision'
-*   Dwyer sits Friday, Redman expected to start
-*   Dez Bryant (hip) returns to practice Friday
-*   Colts RB Brown (knee) expected to play Sunday
-*   Calvin Johnson misses third straight practice
 
 NBA PAGES
 
@@ -134,6 +134,7 @@ NBA PAGES
 
 COLUMNS
 
+*   Davis Goes Down Nov 3
 *   Lillard Ready for Liftoff Nov 2
 *   Parker beats OKC at buzzer Nov 2
 *   Hardened By Trade Nov 1
@@ -141,7 +142,6 @@ COLUMNS
 *   Andy's Halloween Candy Oct 31
 *   NBA Opening Night Preview Oct 30
 *   The Bruski 150 Oct 28
-*   NBA chat: Monday @ 12:30 ET Oct 28
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Bryant scores 40, says foot hurts a whole lot
-*   Curry bounces back with big 26-point night
-*   Landry scores 20 points off the bench vs. MEM
-*   J.J. Barea tears up the Kings w/ 21-4-5 line
-*   Isaiah scores team-high 20 points in loss
-*   Steve Novak hits five threes in Knicks win
-*   Vasquez goes for 13 &. 10 with game-winner
-*   Durant posts 23-17-7 line. Westy scores 32
-*   Aldridge goes for 22 and 15 against OKC
-*   Tobias scores 18 points against the Celtics
-*   Harden goes for 45. Lin nearly triple-doubles
-*   Asik grabs career-high 19 rebounds vs. ATL
+*   X-rays negative on Gerald Wallace's ankle
+*   Klay Thompson rests after hard fall on court
+*   Mayo scores 30 pts w/ career-high seven 3s
+*   Nicolas Batum posts all-around gem vs. HOU
+*   Varejao does it again, piling up 20 &. 17
+*   Mike Dunleavy explodes w/ 29 points, six 3s
+*   Heat beat Nuggets behind Chris Bosh's 40 pts
+*   Manimal sighting: Faried has 22 &. 12 vs. Heat
+*   Paul George drops 16 &. 17 w/ full stat line
+*   Kyle Lowry nearly triple-doubles on Saturday
+*   Kevin Seraphin (calf) scores 19 pts in return
+*   Rondo ties John Stockton w/ 10+ assist streak
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
-*   Briere, Giroux combine for 9 points in win
-*   NHL offers the union new concessions
-*   Tyler Seguin has four goals in Swiss game
-*   Plekanec has a five-point game vs Pardubice
-*   Fehr blames NHL for canceled Winter Classic
-*   NHL, union CBA talks expected to resume soon
-*   Scrivens on wrong end of a record Thursday
-*   Tomas Vokoun signs with HC Karlovy Vary
-*   David Desharnais joins Swiss League team
-*   Report: Sponsors told of Winter Classic axing
-*   Is CBJ owner McConnell a lockout hardliner?
-*   Mikael Granlund earns Oct. AHL rookie award
+*   Scheifele records his 2nd hat trick of 12-13
+*   Mikael Granlund (leg) might be out for weeks
+*   Fehr to players: There's been no new offers
+*   Matt Cooke injured in Pens' informal skate
+*   KHL star Nail Yakupov on way to North America
+*   Schenn and Couturier pace AHL Phantoms
+*   Darren Helm may need surgery on cheekbone
+*   Ian White thinking NHL season will be lost
+*   Daly &. Steve Fehr to meet privately Saturday
+*   Markstrom off to mediocre start in AHL
+*   McBain hopes time in Finland is short
+*   T.J. Brennan off to good start with Amerks
 
 NASCAR PAGES
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
-*   Piquet’s team wins Fort Worth race awards
-*   Ty Dillon wins two race awards at Fort Worth
-*   Johnny Sauter sweeps at Fort Worth
-*   Kyle Busch leads Nationwide Happy Hour
-*   David Stremme not in AAA Texas 500 field
-*   Stephen Leicht fails to qualify in Fort Worth
-*   Kelly Bires not in Fort Worth Cup field
-*   Nemechek gets last Cup slot at Fort Worth
-*   Bayne top Fort Worth Cup go-or-go-homer
-*   Jimmie Johnson on pole for AAA Texas 500
-*   Blake Koch misses Fort Worth truck race
-*   Chris Fontaine not in Fort Worth truck field
+*   Harvick’s NNS team won Fort Worth race awards
+*   Jeremy Clements big Nationwide Series gainer
+*   Harvick wins O'Reilly Auto Parts Challenge
+*   Brad Keselowski paces both Saturday practices
+*   Chase Miller not in Fort Worth NNS field
+*   Timmy Hill not in Fort Worth NNS field
+*   Cobb misses O’Reilly Auto Parts Challenge
+*   Morgan Shepherd does not qualify in Texas
+*   T.J. Bell last in Fort Worth NNS field
+*   Joey Logano best NNS go-or-go-homer starter
+*   Austin Dillon top ROTY in NNS Texas field
+*   Kyle Busch on pole for Texas NNS race
 
 GOLF PAGES
 
@@ -285,6 +285,10 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Poulter emerges at the WGC-HSBC Champions
+*   Tianlang, 14, wins Asian Am and Masters berth
+*   Dufner jets home with 9 birdies in WGC finale
+*   Nick Watney does it again. goes low on Sunday
 *   Oosthuizen fades. settles for 54-hole co-lead
 *   Westwood matches career low to lead WGC-HSBC
 *   Snedeker cards 60 in his third round in China
@@ -293,10 +297,6 @@ FANTASY GOLF NEWS
 *   Oosthuizen separates in WGC-HSBC second round
 *   Scott closes birdie-birdie-eagle to co-lead
 *   Jonathan Byrd undergoes surgery on his wrist
-*   Garcia eyes return at European Tour finale
-*   Donald will not defend at the season finale
-*   Schwartzel WDs from the WGC-HSBC Champions
-*   Bolli wins Web.com Tour Champ.. 25 graduate
 
 NFL DRAFT PAGES
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
-*   Ricky Wagner expected back after off week
-*   Georgia S Rambo has 'returned to 2011's form'
-*   Graham &. Street deny involvement in assault
-*   Logan Thomas throws two INTs versus Miami
-*   Ray Graham charged with assault &. conspiracy
-*   Mathieu living with Patrick Peterson's family
-*   Jordan Poyer unlikely to play vs Az St (PCL)
-*   Dion Jordan expected to give it a shot vs USC
-*   Damontre Moore 'plans on coming back' in '13
-*   Keenan Allen likely out 2-3 weeks (knee)
-*   Spartans coaches want RB Bell to hit hole
-*   Tar Heel's Bernard hasn't considered NFL, yet
+*   Razorbacks QB Wilson average in loss to Tulsa
+*   Vols WR Hunter registers 9/181/3 line vs Troy
+*   Patterson catches nine for 219 &. a TD vs Troy
+*   Tyler Bray doesn't throw an INT versus Troy
+*   Penn State DT Hill carted off field (knee)
+*   Landry Jones throws 4 TDs and 2 INTs vs ISU
+*   Illinois LB Brown hurt, taken to locker room
+*   Bridgewater throws five TDs against Temple
+*   Wolverines QB Gardner shines in first start
+*   Dysert throws 3 TDs vs Buffalo, only 5.5 ypa
+*   Burkhead out again versus Michigan State
+*   Nittany Lions TE Carter did not travel to PU
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NBA:Harden goes for 45. Lin nearly triple-doubles
-*   MLB:Angels decline 2013 option on Dan Haren
-*   NBA:Anthony Davis (head) will not play Saturday
-*   MLB:Mariners ink Iwakuma to two-year extension
-*   NAS:Johnny Sauter sweeps at Fort Worth
-*   MLB:Ortiz agrees to two-year deal with Red Sox
-*   MLB:Report: Haren-for-Marmol trade not happening
-*   NAS:Jimmie Johnson on pole for AAA Texas 500
-*   MLB:Nats make qualifying offer to Adam LaRoche
-*   MLB:Bourn receives qualifying offer from Braves
-*   MLB:Cardinals make qualifying offer to Kyle Lohse
-*   GOL:Oosthuizen fades. settles for 54-hole co-lead
+*   NFL:Report: Tannehill (knee) expected to start
+*   GOL:Poulter emerges at the WGC-HSBC Champions
+*   NAS:Harvick wins O'Reilly Auto Parts Challenge
+*   NFL:Report: Megatron may be limited to 3rd downs
+*   NAS:Kyle Busch on pole for Texas NNS race
+*   NBA:Steve Nash diagnosed with fractured fibula
+*   NFL:Sproles out 4-6 weeks but could return sooner
+*   NFL:Eagles activate DT Patterson from NFI list
+*   CFB:Bridgewater throws five TDs against Temple
+*   CFB:Wolverines QB Gardner shines in first start
+*   MLB:Mariano Rivera to return for 2013 season
+*   NBA:Josh Smith (ankle) will not play on Sunday
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1J. DwyerNFL (7304)
-*   2D. RoseNBA (7141)
-*   3J. WallNBA (6921)
-*   4E. GordonNBA (6694)
-*   5K. LoveNBA (6466)
+*   1J. DwyerNFL (7098)
+*   2D. MurrayNFL (6105)
+*   3D. RoseNBA (6074)
+*   4M. LeshoureNFL (6067)
+*   5J. WallNBA (5834)
 
-*   6A. BogutNBA (6334)
-*   7M. LeshoureNFL (6279)
-*   8D. MurrayNFL (6265)
-*   9D. WilliamsNFL (6259)
-*   10J. NelsonNFL (6051)
+*   6D. WilliamsNFL (5747)
+*   7J. NelsonNFL (5710)
+*   8E. GordonNBA (5633)
+*   9K. LoveNBA (5627)
+*   10C. JohnsonNFL (5528)
 
   
 Video Center
@@ -544,22 +544,27 @@ Video Center
 
   
   
-  Headlines Friday Rundown  
-Nov 2 Frank DuPont takes his weekly look at the stat sheet to identify starts, sits and trade targets.  
+  Headlines Week 9 Starts and Sits  
+Nov 3 Kay Adams breaks down every game in Week 9, including whether Reggie Bush will turn things around this week.  
   
 More NFL Columns
 
+*   »Week 9 Starts and Sits Nov 3
+*   »Week 9 Injury Questions Nov 3
+*   »Matchups: Pay-Dirt Due Nov 3
 *   »Friday Rundown Nov 2
 *   »Week 9 Rankings Nov 2
-*   »Matchups: Pay-Dirt Due Nov 2
 *   »More for Mathews? Nov 2
 *   »Best Available NFL Free Agents Nov 2
 *   »Week 9 Chat Nov 1
-*   »Week 9 Target Watch: NFC Nov 1
-*   »Deadline Snoozing Nov 1
 
 NFL Headlines
 
+*   »Report: Tannehill (knee) expected to start
+*   »Colts downgrade Brown (knee) to questionable
+*   »Report: Megatron may be limited to 3rd downs
+*   »Sproles out 4-6 weeks but could return sooner
+*   »Eagles activate DT Patterson from NFI list
 *   »Norv: Danario Alexander has earned 'big' role
 *   »Report: Tannehill 'better than 50-50' to play
 *   »Megatron misses practice, listed questionable
@@ -567,11 +572,6 @@ NFL Headlines
 *   »Dez Bryant (hip) listed questionable for SNF
 *   »Sproles out indefinitely after breaking hand
 *   »Dwyer, Mendenhall 'doubtful' for Week 9 game
-*   »Packers WR Nelson will be 'Sunday decision'
-*   »Dwyer sits Friday, Redman expected to start
-*   »Dez Bryant (hip) returns to practice Friday
-*   »Colts RB Brown (knee) expected to play Sunday
-*   »Calvin Johnson misses third straight practice
 
 NFL Links
 
