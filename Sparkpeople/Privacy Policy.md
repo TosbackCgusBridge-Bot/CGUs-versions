@@ -143,25 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Recovery Drink Reviews Resources
+*   About Snoring Resources
 
   
-Stay in Touch With SparkPeople **6 Tips to Deal with Daylight Saving Time**
+Stay in Touch With SparkPeople **Diabetes Weight-Loss Workout Plan**
 
-Daylight Saving Time ends this weekend, but that doesn't mean you'll 'fall back' into sleeping problems. Find out how you can stay energized and alert after the time change.
+This workout plan was designed specifically to help people with diabetes manage their blood sugar and lose weight safely.
 
 Read More
 
-*   How do you maintain your exercise long-term?
-*   Why the scale isn't a good indicator of health.
+*   Who Motivates you on Sparkpeople?
+*   "New to me" foods
 *   How do you fight boredom on the treadmill?
-*   Do you have a goal after weight loss?
-*   Specific Tips to get through the Weekend
+*   Vegetables- yuck!
+*   Healthy Halloween snacks
 
-View Demo **Biceps Curls with Band**  
-Resistance bands are cheap and easy to tote. Do this move anywhere! **Baked Pork Chops**
+View Demo **Triceps Dips on Medicine Ball**  
+Dips with a twist! **Chef Meg's Pomegranate Chicken Salad**  
+Submitted By: **CHEF\_MEG**
 
-These spicy and moist pork chops are made with no added fat, egg whites, evaporated skim milk, and a lively herb mixture. Full Recipe
+This seasonal salad is ready in a flash. You will love the softness of the greens with the crunch of the radish and pomegranate. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
