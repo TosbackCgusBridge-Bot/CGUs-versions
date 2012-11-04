@@ -212,21 +212,21 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Shift in proportion of white, minority vote could decide Obama-Romney raceObama tells crowd voting is best 'revenge' against RomneyOpinion: Here comes the landslidePolls tilt for Obama in battleground OhioMedicare fades as ‘majority-maker’ issue for House Dems
+Obama's 'revenge' remark reverberates on presidential campaign trailMedicare fades as ‘majority-maker’ issue for House DemsConflict-of-interest concerns raised as Obama races to implement health reformShift in proportion of white, minority vote could decide Obama-Romney raceReport: NJ to use US military vehicles as polling places
 
 Emailed
 
-Shift in proportion of white, minority vote could decide Obama-Romney raceOpinion: Here comes the landslide‘Vote history audit’ shows whether your neighbors voted Biden stumbles over words in Wisconsin speechMr. Burns of 'The Simpsons' endorses Romney
+Conflict-of-interest concerns raised as Obama races to implement health reformObama's 'revenge' remark reverberates on presidential campaign trailMedicare fades as ‘majority-maker’ issue for House DemsReid: 'Laughable' for Romney to think Dems will pass his agendaShift in proportion of white, minority vote could decide Obama-Romney race
 
 Discussed
 
-Opinion: Here comes the landslideShift in proportion of white, minority vote could decide Obama-Romney raceObama, Romney set to re-emerge, return to campaign trail after Hurricane SandyChris Matthews: 'Racial hatred' drives support for Romney on rightGOP pollster: Romney up in Ohio, closing the gap in Wisconsin
+International monitors at US polling spots draw criticism from voter fraud groupsTexas sparks international row with election observersOpinion: Here comes the landslideObama's 'revenge' remark reverberates on presidential campaign trailShift in proportion of white, minority vote could decide Obama-Romney race
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Axelrod: Obama's energy comes 'from his loins'
-*   Palin super-PAC donates $5,000 to Romney campaign
-*   DAY'S END ROUNDUP
+*   Biden: ‘Turn the clock back’ Romney’s favorite time of year
+*   Romney campaign denies Christie report
+*   Obama visits FEMA for storm briefing
 
   
 More Briefing Room » Congress Blog
@@ -252,36 +252,36 @@ More Pundits Blog » Twitter Room
   
 More Twitter Room » Hillicon Valley
 
+*   Police drones prompt privacy concerns
+*   FCC commissioner: No 'plan B' in auction of TV airwaves to cell carriers
 *   Facebook unveils privacy education feature for new users
-*   Ambassador: Web treaty plans pushed by Iran, China could lead to censorship
-*   GOP ad firm defends anti-Obama texts as protected speech
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
+*   Hurricane Sandy gives climate change a moment in the sun
+*   After Sandy, flood insurance reformers spring into action
 *   DOE: Sandy created 'severe energy supply interruption'
-*   Dem in line for energy gavel says nation must reconsider natural gas exports
-*   News bites: Manhattan to get power back Friday
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Senate Scorecard: GOP dealt serious blow in battle for upper chamber
-*   Obama: Millions 'still picking up the pieces'
-*   Romney surrogates fan out across US
+*   Poll finds Romney, Obama tied at 48-48
+*   Poll: Ohio race tight as Obama holds 2-point lead over Romney
+*   House GOP ‘Young Guns’ unlikely to fare as well in 2012 as in 2010
 
   
 More Ballot Box » On The Money
 
+*   Key Democratic senator pushing for Sandy supplemental spending bill
+*   US tries to soothe foreign leaders' fears about ‘fiscal cliff’
 *   IRS gives further relief to taxpayers affected by Sandy
-*   For Obama and Romney, a focus on jobs in race's closing days
-*   Retailers ramp up pressure to reject swipe fee settlement
 
   
 More On The Money » Healthwatch
 
-*   Medicare fades as ‘majority-maker’ issue for House Dems
 *   Conflict-of-interest concerns raised as Obama races to implement health reform
+*   Medicare fades as ‘majority-maker’ issue for House Dems
 *   Fred Thompson cuts robocall against Obama on abortion
 
   
@@ -301,16 +301,16 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
+*   Political fight over Benghazi Consulate attack shifts after CIA revelations
+*   GOP senators want new Select Committee to investigate Benghazi attack
 *   Confirmation hearing scheduled for Allen, Dunford
-*   Report: Kabul calls US assessment of Afghan forces 'baseless'
-*   GOP calls on Sen. Levin to hold Libya hearings
 
   
 More DEFCON Hill » Global Affairs
 
+*   Russia skewers US election as undemocratic, ‘the worst in the world’
 *   Report: Romney son sends assurances to Putin about rhetoric
 *   Russia, Syrian opposition slam US calls for new leadership against Assad
-*   Former Rep. George Hochbrueckner: Chevron’s dilemma in the Amazon
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Fiscal cliff looms Lanny Davis Why Obama will win More Columnists »
