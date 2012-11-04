@@ -148,49 +148,49 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    There Castle
+    Free Candy Yellow
 *     
-    Salty the Snowman
+    3 Ring Binder Mighty Wallet
 *     
-    When You Wish Upon A Star
+    I Blogged Your Mama - Gum
 *     
-    Logical Positiv-Its Sticky Notes
+    3DIY Mighty Wallet
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
 31 Most Perfectly Looped GIFS Ever!  
-Massive Fight in Restaurant Over Girl...  
 Kid's Drawings Turned Into Awesome To...  
-The Toughest Bridge In The World  
+Massive Fight in Restaurant Over Girl...  
+The Ultimate Tattoo Wins and Fails  
 More news at Scribol »  
   
   
-G4's Knuckle Up: The Best Mobile Game...  
-The Presidential Election In WWE '13:...  
-Hitman: Absolution -- Highlights from...  
-Mass Effect Trilogy Gameplay Trailer  
-More news at G4TV »  
+Pre-Labor Day Pregnant Bikini Contest  
+The State Fair Food That Will Cause Y...  
+The 20 Worst Hipster Bands: The Compl...  
+Internet Cat Video Film Festival Exists  
+More news at Village Voice »  
   
   
-Phillip Phillips' Family -- 'Idol' Ch...  
-Tim Tebow -- You Be the Judge  
-Octomom -- Permission to FIGHT During...  
-Honey Boo Boo -- Hey Y'all I'm a Swas...  
-More news at TMZ »  
+Larger Than Life: Howard Hughes and t...  
+Anatomy of an A-Bomb Test, 1946  
+Shock Value: Inside Paris' Grand Guig...  
+LIFE on the Stump: Classic Photos Fro...  
+More news at Life »  
   
   
-Obama Wants You To Call Him, Maybe?  
-Help Us Pick An NBA Team  
-Flight Is An AA Infomercial  
-Best Lines From This Week  
-More news at UPROXX »  
+Wild Leopard Ate 15 Women, Children:...  
+Feds to Public: 1st Free Gas Isn't fo...  
+Christianity's 'Holiest Site' May Clo...  
+12 Actors Who Have Belittled Their Ow...  
+More news at Newser »  
   
 
 Also on Fark
 
-Main Behold the 'Selkirk Rex' a new breed of cat that will have you saying AW, all day long on Caturday ( sciencedaily.com ) » (252 comments) Sports Can the Toffees keep being the pride of Merseyside, will Lambert stop being a villain, can Wenger forget the 8-2 drubbing and can Liverpool snatch back from Chelsea the title of most hated team? Welcome to Fark's weekly English Premier League thread ( guardian.co.uk ) » (10 comments) Business Amtrak resumes limited service during hurricane repairs. This is good news since on its best days Amtrak provided only limited service ( businessweek.com ) » (5 comments) Geek Meet the climate change denier who also just happens to be Wikipedia's expert on Hurricane Sandy ( popsci.com ) » (222 comments) Entertainment FARK's favorite Taiwanese animators produce the official Disney trailer for Star Wars Episode VII ( youtube.com ) » (29 comments) Politics For those bemoaning the loss of civility in the elections, let's look back to 1800 when Jefferson's opponent (an allegeded mentally unbalanced hermaphrodite) claimed a victory would mean murder, rape and robbery in the streets ( cbsnews.com ) » (13 comments) Video Verily, this is what it is all about ( youtube.com ) » (0 comments) FarkUs If you want a NY/NJ area charity to donate to for Sandy relief efforts, Gary Sinese and Rudy Giuliani would like you to give to the Stephen Siller Tunnel to Towers Foundation ( silive.com ) » (0 comments)
+Main New Jersey announces that residents displaced by Sandy can vote by email or fax, a move guaranteed to end well ( abcnews.go.com ) » (1 comment) Sports Bobby Hebert kicked out of LSU press box by cops for "excessive cheering" ( blacksportsonline.com ) » (2 comments) Business Now that the U.S. and E.U. are bored by hot chicks in bunny tails, Playboy is opening clubs in India. Yes, somebody has a problem with that. Welcome to the 1960's, India ( timesofindia.indiatimes.com ) » (26 comments) Geek The ten best supervillain teams of all time. Nice to see Flash's Rogues get some attention ( newsarama.com ) » (22 comments) Entertainment Disney wants to reboot Boy Meets World as Girl Meets World with the titular girl the daughter of Topanga and Cory ( buzzfeed.com ) » (29 comments) Politics Forget Nate Silver, there's an even better predictor for the upcoming election ( usatoday.com ) » (8 comments) Video Time-lapse of aircraft approaching London's Heathrow Airport ( laughingsquid.com ) » (11 comments) FarkUs My son, Jamie, was diagnosed with 'severe' Autism @ age 3. Now 17, an A+ student, Life Scout, and all-around cool guy, he's raising awareness, supplies and donations for the Homeless Animals Rescue Team (HART). Can you help? ( hart90.org ) » (31 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main Behold the 'Selkirk Rex' a new breed of cat that will have you saying AW, a
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Nov 03 2012 08:00:29  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Nov 04 2012 08:00:39  
 Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
