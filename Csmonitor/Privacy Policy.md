@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  How hurricane Sandy tests Obama, Romney
-2.  Denzel Washington in 'Flight' (+trailer)
-3.  War-crime accusations emerge as Syrian rebels take strategic town
-4.  Unemployment rate ticks up: Will it affect the election? (+video)
-5.  Might Mitt Romney snatch Pennsylvania from President Obama? (+video)
+1.  Tamera Mowry: Her baby boy is due, and she talks like a normal mom
+2.  How hurricane Sandy tests Obama, Romney
+3.  Hurricane Sandy's darker side: Looting and other crime
+4.  'Looper': The ending explained
+5.  The Monitor's View: The steady gain of humanity
 
 About these ads
 
@@ -111,15 +111,15 @@ Subscribe to the MONITOR and get 19 FREE ISSUES!
 
 Editors' Picks:
 
-*   Difference Maker  
-    Little newspaper gives hope to Africans who've fled to Israel
+*   Progress Watch  
+    Confounding expectations, global hunger is down (+video)
     
-    Using his laptop, Kebedom Mengistu publishes Hadush Zemen (New Century), a newspaper for refugees from Eritrea who've survived the perilous trip and settled in Israel.
+    Despite sustained drought and population growth, global hunger has decreased over the past two decades. Food aid is smarter and 'host' governments are focusing more on local farmers.
     
+*   Rostock, notorious for Germany's worst racist riots, struggles for redemption
+*   Difference Maker: Little newspaper gives hope to Africans who've fled to Israel
 *   Illegal immigration: why eyes will be on Maryland this Election Day
 *   Global News Blog: Good Reads: ugly oil harvests. dueling environmentalists. and morality in animals
-*   Global News Blog: How the Chinese deal with failure
-*   Reverse brain drain: How three siblings recreated a century-old Polish resort
 
 _Photos of the day_ 11.02.12 » Photos of the day 11/02
 
