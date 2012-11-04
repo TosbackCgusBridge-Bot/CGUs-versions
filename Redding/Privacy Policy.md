@@ -270,19 +270,19 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Wife of Redding Realtor says husband was slashed in dispute over daughter Published 11/1/2012 at 11:21 p.m. 60 comments
-*   Masked man makes off with $8,000 from Redding nail salon Published 11/2/2012 at 4:00 a.m. 43 comments
-*   UPDATED: Teen accused of slashing girlfriend's father at Starbucks pleads not guilty Updated 11/2/2012 at 7:06 p.m. 57 comments
-*   Patty Smith: If you don't respect America, then leave Published 11/2/2012 at 12:00 a.m. 96 comments
-*   U.S. employers add 171,000 jobs. rate goes up to 7.9 percent Published 11/2/2012 at 6:06 a.m. 91 comments
+*   UPDATE: Detectives arrest two men in connection with Big Bend murder Updated 11/3/2012 at 8:04 p.m. 27 comments
+*   Keeping safe: Panhandlers, criminal activity worry businesses in downtown area Published 11/2/2012 at 11:41 p.m. 117 comments
+*   Editorial: Golden State's Republicans fading to black Published 11/3/2012 at 12:00 a.m. 153 comments
+*   Redding teen pleads not guilty to stabbing girlfriend's father Published 11/2/2012 at 11:40 p.m. 42 comments
+*   Authorities identify pedestrian killed in Red Bluff crash Updated 11/3/2012 at 4:42 p.m. 4 comments
 
-Photo Galleries Halloween at Mt. Shasta Mall Hurricane Sandy Klassique Kafe
+Photo Galleries Central Valley beats Anderson Halloween at Mt. Shasta Mall Klassique Kafe
 
 *   Romney faces scrutiny on aid in storm's wake Published 11/1/2012 at 4:00 a.m. 215 comments
-*   Lydia Reed: Obama has proven himself a failure Published 10/31/2012 at 12:00 a.m. 137 comments
-*   Charles Krauthammer: At stake: America's character Published 11/2/2012 at 12:00 a.m. 126 comments
-*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 121 comments
-*   Patty Smith: If you don't respect America, then leave Published 11/2/2012 at 12:00 a.m. 96 comments
+*   Editorial: Golden State's Republicans fading to black Published 11/3/2012 at 12:00 a.m. 153 comments
+*   Charles Krauthammer: At stake: America's character Published 11/2/2012 at 12:00 a.m. 139 comments
+*   Patty Smith: If you don't respect America, then leave Published 11/2/2012 at 12:00 a.m. 135 comments
+*   Keeping safe: Panhandlers, criminal activity worry businesses in downtown area Published 11/2/2012 at 11:41 p.m. 117 comments
 
 *   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 26 comments
 *   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
@@ -296,23 +296,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 54° Overcast Wind: Calm Today 73° 48° Sat 05:00 PM Partly Sunny Temp: 70° Sun 04:00 AM Mostly Clear Temp: 53° Sun 04:00 PM Mostly Sunny Temp: 79°
-
-Feels Like: 70°
-
-Humidity: 47%
-
-Precip: 6%
-
-Feels Like: 53°
-
-Humidity: 89%
-
-Precip: 0%
+Currently 50° Fair Wind: Calm Today 84° 55° Sun 05:00 PM Sunny Temp: 79° Mon 05:00 AM Clear Temp: 55° Mon 05:00 PM Sunny Temp: 76°
 
 Feels Like: 79°
 
-Humidity: 38%
+Humidity: 42%
+
+Precip: 0%
+
+Feels Like: 55°
+
+Humidity: 74%
+
+Precip: 0%
+
+Feels Like: 76°
+
+Humidity: 43%
 
 Precip: 0%
 
@@ -330,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Saturday Nov 3
 *   Sunday Nov 4
 *   Monday Nov 5
+*   Tuesday Nov 6
 *   More BROWSE Icon
-
-*   Farmland 5K at Hawes Farm Hawes Ranch &. Farm Supply 7:30 a.m.
-*   Shasta Lake Community Holiday Bazaar John Beaudet Community Center 8 a.m.
-*   Jellys Ferry to Bend Float Trip, Saturday Nov. 3rd Sacramento River 8 a.m.
-*   Goat Education Day 2012 and Special Reserve Meat and Milker Auction Tehama District Fair grounds 9 a.m.
-*   Third annual Crafts for Missions Holiday Fair Trinity Lutheran Church 9 a.m.
-
-More Events »
 
 *   Buckeye Grange Pancake Breakfast Buckeye Grange Hall 7 a.m.
 *   City Christmas Tree Cutting See Description 9 a.m.
@@ -356,6 +348,14 @@ More Events »
 *   Antique Tractor and Engine Club Branch 114 Meeting Round Table Pizza - Yreka 7 p.m.
 *   Reverend Peyton's Big Damn Band concert State Theatre 7 p.m.
 *   Free classes for seniors Senior Citizens Hall
+
+More Events »
+
+*   Anderson and West Valley High Schools Muscial 'The Wedding Singer' Anderson High School 7 p.m.
+*   Quilters' Sew-ciety of Redding General Meeting Senior Citizens Hall 7 p.m.
+*   Foothill High School Drama, Cloud Seven Foothill High School 7:15 p.m.
+*   South Shasta Seniors dancing Frontier Senior Center 7:30 p.m.
+*   Cimmeron Concert Frontier Senior Center 7:30 p.m.
 
 More Events »
 
