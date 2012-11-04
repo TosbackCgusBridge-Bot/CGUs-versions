@@ -1,4 +1,4 @@
-it's on! Black Friday sale. sign up now to receive Black Friday deals and Cyber Monday steals. sign up now pre-order The Amazing Spider-Man on DVD &. Blu-ray with exclusive Target content. pre-order Spider-Man DVD oops, there is a problem
+it's on! Black Friday sale. sign up now to receive Black Friday deals and Cyber Monday steals. sign up now save up to 20% on Christmas tress. Christmas trees oops, there is a problem
 
 Target.com requires **javascript** to be enabled.
 
