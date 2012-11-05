@@ -270,25 +270,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATE: Detectives arrest two men in connection with Big Bend murder Updated 11/3/2012 at 8:04 p.m. 27 comments
-*   Keeping safe: Panhandlers, criminal activity worry businesses in downtown area Published 11/2/2012 at 11:41 p.m. 117 comments
-*   Editorial: Golden State's Republicans fading to black Published 11/3/2012 at 12:00 a.m. 153 comments
-*   Redding teen pleads not guilty to stabbing girlfriend's father Published 11/2/2012 at 11:40 p.m. 42 comments
-*   Authorities identify pedestrian killed in Red Bluff crash Updated 11/3/2012 at 4:42 p.m. 4 comments
+*   UPDATED: Union workers strike at Raley's supermarket chain. members picketing at both Redding stores Updated 11/4/2012 at 4:11 p.m. 110 comments
+*   Siskiyou County Sheriff Jon Lopey says he's fighting to protect rural America Published 11/3/2012 at 7:36 p.m. 56 comments
+*   UPDATED: Skateboarding suspect slashes man's thumb in Redding Updated 11/4/2012 at 11:08 a.m. 11 comments
+*   Better off four years later? A mixed bag of answers Published 11/4/2012 at 4:00 a.m. 79 comments
+*   Alana Burke: Romney is choice for a renewed America Published 11/4/2012 at 12:00 a.m. 107 comments
 
-Photo Galleries Central Valley beats Anderson Halloween at Mt. Shasta Mall Klassique Kafe
+Photo Galleries Redding Raley's protests Central Valley beats Anderson Enterprise wins the River Bowl
 
-*   Romney faces scrutiny on aid in storm's wake Published 11/1/2012 at 4:00 a.m. 215 comments
-*   Editorial: Golden State's Republicans fading to black Published 11/3/2012 at 12:00 a.m. 153 comments
-*   Charles Krauthammer: At stake: America's character Published 11/2/2012 at 12:00 a.m. 139 comments
-*   Patty Smith: If you don't respect America, then leave Published 11/2/2012 at 12:00 a.m. 135 comments
-*   Keeping safe: Panhandlers, criminal activity worry businesses in downtown area Published 11/2/2012 at 11:41 p.m. 117 comments
+*   Editorial: Golden State's Republicans fading to black Published 11/3/2012 at 12:00 a.m. 160 comments
+*   Charles Krauthammer: At stake: America's character Published 11/2/2012 at 12:00 a.m. 146 comments
+*   Keeping safe: Panhandlers, criminal activity worry businesses in downtown area Published 11/2/2012 at 11:41 p.m. 131 comments
+*   Patty Smith: If you don't respect America, then leave Published 11/2/2012 at 12:00 a.m. 136 comments
+*   UPDATED: Union workers strike at Raley's supermarket chain. members picketing at both Redding stores Published 11/4/2012 at 11:20 a.m. 110 comments
 
 *   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 26 comments
 *   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
 *   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 121 comments
+*   UPDATE: Detectives arrest two men in connection with Big Bend murder Published 11/3/2012 at 9:09 a.m. 32 comments
 *   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Published 10/31/2012 at 4:55 p.m. 65 comments
-*   More than 80,000 lbs. of walnuts stolen. Tehama deputies say delivery driver is the suspect Published 10/29/2012 at 11:27 a.m. 23 comments
 
 Weather
 
@@ -296,23 +296,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 50° Fair Wind: Calm Today 84° 55° Sun 05:00 PM Sunny Temp: 79° Mon 05:00 AM Clear Temp: 55° Mon 05:00 PM Sunny Temp: 76°
+Currently 64° Fair Wind: NW 5mph Today 85° 53° Mon 05:00 PM Sunny Temp: 68° Tue 05:00 AM Clear Temp: 54° Tue 05:00 PM Mostly Sunny Temp: 65°
 
-Feels Like: 79°
+Feels Like: 68°
 
-Humidity: 42%
-
-Precip: 0%
-
-Feels Like: 55°
-
-Humidity: 74%
+Humidity: 52%
 
 Precip: 0%
 
-Feels Like: 76°
+Feels Like: 54°
 
-Humidity: 43%
+Humidity: 69%
+
+Precip: 0%
+
+Feels Like: 65°
+
+Humidity: 57%
 
 Precip: 0%
 
@@ -330,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Sunday Nov 4
 *   Monday Nov 5
 *   Tuesday Nov 6
+*   Wednesday Nov 7
 *   More BROWSE Icon
-
-*   Buckeye Grange Pancake Breakfast Buckeye Grange Hall 7 a.m.
-*   City Christmas Tree Cutting See Description 9 a.m.
-*   Play 'The Grapes of Wrath' College of the Siskiyous 2 p.m.
-*   Film 'So Help Me God' Redding Library 2 p.m.
-*   The Melodic Heart of 50's Jazz concert Old City Hall 4 p.m.
-
-More Events »
 
 *   Veterans Historical Association Presents: A Mobile Military Museum Redding Library 11 a.m.
 *   DAR Monthly Meeting Redding Library 11 a.m.
@@ -356,6 +348,14 @@ More Events »
 *   Foothill High School Drama, Cloud Seven Foothill High School 7:15 p.m.
 *   South Shasta Seniors dancing Frontier Senior Center 7:30 p.m.
 *   Cimmeron Concert Frontier Senior Center 7:30 p.m.
+
+More Events »
+
+*   Pre-Stuff the Truck Thanksgiving Food Drive (Nov 7-14) Holiday Inn 7 a.m.
+*   Healthy Kids, Healthy Planet Preschool Day Turtle Bay Exploration Park 9 a.m.
+*   NAMI Shasta County Peer to Peer Classes Contact for Location Information 1 p.m.
+*   Conservation Easements: An Informational Workshop Western Shasta Resource Conservation District 1 p.m.
+*   Pets Without Partners Roundup Fundraiser Logan's Roadhouse - Redding 5 p.m.
 
 More Events »
 
