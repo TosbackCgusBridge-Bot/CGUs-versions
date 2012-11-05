@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Raising Her Voice »
+Hot Pics! Sexy Mamas »
 
-Top Stories1.  PICTURE: RHOA's Kim Zolciak Shows Off Gorgeous Real Hair »
-2.  Aww! Makeup-Free Snooki Poses for Sweet Picture with Baby Lorenzo »
-3.  Kristen Stewart: Filming Breaking Dawn's Vampire Sex Scenes "Was Awful" »
-4.  PICTURE: Rihanna Goes Topless in Bed Morning After Halloween »
-5.  PICTURES: Justin Timberlake, Jessica Biel Honeymoon in Tanzania »
+Top Stories1.  Pregnant Holly Madison: "My Belly Got Big Overnight!" »
+2.  Kristen Stewart Bares Toned Midriff, Shows Cleavage »
+3.  See Gisele Bundchen's Pregnant Bikini Body! »
+4.  Beyonce Gets Bangs! »
+5.  Amanda Bynes Was Not Nude in Public, Security Footage Confirms »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Defending Our Men
 
 Inside Us Weekly
 
-*   Style 2012 CMA Awards: What the Stars Wore!
-*   Beauty PICTURE: RHOA's Kim Zolciak Shows Off Gorgeou
-*   Moms Aww! Makeup-Free Snooki Poses for Sweet Pictu
+*   Style Kristen Stewart Bares Toned Midriff, Shows Cl
+*   Beauty Beyonce Gets Bangs!
+*   Moms See Gisele Bundchen's Pregnant Bikini Body!
 *   Body Lady Gaga: "Adele Is Bigger Than Me" But No O  
-*   Entertainment The X Factor Judges Select Top 12 Performers
+*   Entertainment Wreck-It Ralph Tops Weekend Box Office With $
 
 *   US WEEKLY
 *   Celebrity News
