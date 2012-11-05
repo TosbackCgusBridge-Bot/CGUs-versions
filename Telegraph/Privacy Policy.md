@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Sunday 04 November 2012
+Monday 05 November 2012
 
 *   Home
 *   News
@@ -142,13 +142,13 @@ Problems with the Telegraph for iPad? Call 0800 332020 Advertisement
 
 Editor's Choice »
 
-'Michael Palin: our very silly man in Brazil'  
+Halo 4 review  
 
-Michael Palin is still globetrotting and as amiable as ever. What keeps the old Python happy, asks **Brian Viner.**
+Halo 4 marks the first entry into Microsoft's blockbuster sci-fi shooter franchise since the departure of original developer Bungie. Can new developers 343 Industries kick off a new Halo trilogy in style? **Tom Hoggins** finds out.
 
 Comments
 
-The US: a struggling nation that is polls apart Golden Dawn: undisguised fascism in Greece Has Sandy given Obama new hope? Sandy glamour model a welcome tonic Advertisement
+Downton finale: a perfect send-off Why did no one speak out over Savile? 'China's destiny in doubt after leadership shock' Wenger in denial over Arsenal's problems Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
@@ -158,12 +158,13 @@ Back to top
 
 Hot Topics
 
-*   Jimmy Savile
-*   Superstorm Sandy
 *   US Election
+*   Jimmy Savile
 *   Syria
 *   Weather
 *   Football
+*   Rugby Union
+*   Wonder Women
 *   More...
 
 *   News
