@@ -7,7 +7,7 @@
 Live Chat 0 ITEM(S) Item added to cart Size: ADULT SMALL Price: $59.99 Qty: 1 2Item(s) in your cart Subtotal $159.98 View your cart
 
 *   TRENDS &. MUSIC
-*   HALLOWEEN
+*   HOLIDAY
 *   BRANDS
 *   SALE
 
