@@ -1,8 +1,4 @@
-Hello! Enjoying the music?
-
-Join to share your favorite song + get a playlist of your friends’ songs. Slow music = good music!
-
-Yes yes, Sign Me Up
+Share your favorite song. Play all your friends’ songs in one click. It’s that simple. Slow music = good music!  Yes yes, Sign Me Up
 
 *   Home
 *   About
