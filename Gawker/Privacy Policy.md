@@ -1,129 +1,106 @@
-1.  Nov 3, 2012 4:15pm Tweet
-    
-    > The order reads: “If your vehicle’s license plate ends in a letter (A,B,C…), you are only permitted to fuel the vehicle on odd-numbered days.” Numbers are allowed on even-numbered days.
-    > 
-    > The problem: All license plates in New Jersey end in letters, except for vanity plates. So on Saturday, most everyone in the state could buy gas. On Sunday, no one can. Or so it seems.
-    
-    — _The New York Times_ points out the pure stupidity of New Jersey governor Chris Christie’s order regarding gas rationing.  
-2.  Nov 3, 2012 4:03pm Tweet Is Donald Trump Filling Up His “Apprentice” Vans While There’s A Gas Shortage?
-    
-    One of the most frustrating parts of post-Sandy life has been the unendingly long lines for gas. Two arrests for violence at gas stations were made in Staten Island yesterday, and Yonkers Mayor Mike Spano announced yesterday that gas rations would come into effect today, limiting gas sales to ten gallons per driver.
-    
-    Enter our anonymous tipster who tells us that a “a certain blonde haired blow-hard who has an obsession with our current president” is using Yonkers gas to fill up a number of passenger vans for his reality show. 
-    
-    Read More
-    
-     
-3.  Nov 3, 2012 3:04pm Tweet Romney’s New Attack Dog, Rudy Giuliani, Calls For Obama’s Resignation
-    
-    Even though he’s being attacked by idiots, Nate Silver is calling the election a complete lock for Obama which basically means it’s over. So what’s Mitt Romney to do now? Unless all of the state polls are totally off, he’s going to be out of a job come next week. He needs one last trump card and the Donald isn’t the man for the job. Romney is now hedging his bets on a last minute performance from Rudy Giuliani.
-    
-    The former New York mayor joined Romney and Paul Ryan onstage at a mega-rally in Ohio last night, as part of a Republican all-star lineup that also included former presidential candidates John McCain, Rick Santorum, and Rick Perry.
-    
-    Giuliani made the most news of the night by calling for Obama’s resignation.
-    
-    Read More
-    
-     
-4.  Nov 3, 2012 2:08pm Tweet
-    
-    If you never want to forget the experience of living in post-Sandy Downtown Manhattan, you can now buy a t-shirt featuring the popular SoPa (South of Power) image created by New York designer Jake Levine.
-    
-    The shirts are $20 and all funds raised by sales go to Sandy relief efforts.
-    
-    \[_Image via Selflesstee_\]
-    
-     
-5.  Nov 3, 2012 1:39pm Tweet
-    
-    A world where Roe v. Wade is overturned and Medicare is voucharized.
-    
-    That’s the America the Obama campaign wants you to picture under a Romney presidency in a new ad. A Democrat’s absolute worst nightmare. 
-    
-    \[_Video via Buzzfeed_\]
-    
-     
-6.  Nov 3, 2012 12:54pm Tweet Volunteer for Hurricane Relief Efforts Without Sounding Like a Dick About It Later: A Guide
-    
-    Everyone who has some free time this weekend should spend their hours volunteering. But after you do your great deeds, like donating food or clothes, you might be tempted to overshare about it. You will immediately want to run to the hilltops and scream, “Hey everybody, look how much good I did.” Don’t do this! You will lose all of the moral superiority that you just earned.
-    
-    Below are some suggestions that will help you to not act like a stupid jerk who brags about how much they volunteer.
-    
-    Read More
-    
-     
-7.  Nov 3, 2012 11:39am Tweet
-    
-    Here’s Newark Super-Mayor Cory Booker helping out one of his favorite constituants. Of course he totally ignored the ridiculousness of her Twitter handle and told her to DM him for more help.
-    
-    Let’s just hope the DM’s stopped there. Big Boobs Carly is not the girl for you, Mayor Booker!
-    
-     
-8.  Nov 3, 2012 11:09am Tweet Live Nation Gave Lady Gaga a Plane and Proscuitto Last Night
-    
-    Lady Gaga’s Monster Ball Tour grossed 227.4 million dollars, so it’s expected that the touring industry wants to keep her happy. Live Nation wanted to make sure the Gags was at peak happiness so they gave her a 757 jet. She told her 30.8 million Twitter followers last night “So apparently LIVE NATION gave us a 757 I just cried on the tarmac. We tried to take a pic but its too big.” That last part is such a humble-brag.
-    
-    She followed up that tweet with, “OMG there’s Internet on the PLANE. THIS IS MY PLANE IT HAS INTERWEBULAR features. Monsters :( i cant believe this sometimes,” which confirms the fact that Lady Gaga has never flown select flights on Delta Airlines before this.
-    
-    Read More
-    
-     
-9.  Nov 3, 2012 10:30am Tweet
-    
-    This is a video of Christina Aguilera performing “Beautiful” from last night’s Sandy benefit concert on NBC. (Note: text “redcross” to 90999 if you want to donate). Billy Joel also performed “Miami 2017” and changed the lyrics to say that “Staten Island drowned,” which gave everyone the shivers. Jimmy Fallon sang with Billy Joel, Sting, and Bon Jovi and smiled a lot.
-    
-    But if you’ve ever had any doubts that Christina is the diva of our generation, then this video should squash those wrongful beliefs. 
-    
-    NASA scientists have been searching through deep space for years in order to find something that has so few flaws as this has. By god, we have finally found it.
-    
-     
-10.  Nov 3, 2012 12:46am Tweet Here Are MTA Photos of Flooded Subway Tunnels Under the East River
-    
-    Earlier tonight, the MTA released its first pictures from flooded subways in the Cranberry Street Tunnel, which carries the A and C lines beneath the East River.
-    
-    Read More
-    
-     
-11.  Nov 2, 2012 11:52pm Tweet
-    
-    Nate Silver is still working his pro-Obama, anti-Romney witchcraft, but this time to the fifth decimal place.
-    
-     
-12.  Nov 2, 2012 11:16pm Tweet
-    
-    > THE BOTTOM LINE: There is evidence that large-scale catastrophes may influence birth and marriage rates, but in which direction is not clear.
-    
-    —  _The New York Times_ health blog looks into the rumor that natural disasters lead to more  babies and marriages. Thanks for nothing, scientists.   
-13.  Nov 2, 2012 9:42pm Tweet Kyrgyzstan Journalist ‘Mock’ Kidnapped at Gunpoint by Fellow Journalists as Part of Practical Joke
-    
-    Two reporters/practical joke columnists (really) who worked for a Kyrgyzstan paper decided to step up their joke game in a normal, reasonable way, which was: by kidnapping the host of an popular entertainment show at gun point and forcing her to strip and dance for them.
-    
-    Read More
-    
-     
-14.  Nov 2, 2012 8:19pm Tweet John Cusack Developing Film About America’s Most Popular Misogynist, Rush Limbaugh
-    
-    Active Twitter liberal John Cusack is developing a film about Rush Limbaugh, tentatively and creatively titled “Rush.” And, of course, the former Lloyd Dobler will play the popular conservative radio host/misogynistic racist himself. As the Associated Press notes:
-    
-    > Cusack as Limbaugh isn’t typecasting, politics aside. Cusack is a slender, dark-haired 46-year-old, while Limbaugh is 61, balding and portly. But Hollywood’s makeup experts have probably had greater challenges.
-    
-    Ha, yes. All of that is true, AP. Also, this movie will almost certainly be awful. Production starts next year, which means it should be ready for hungover Saturday morning viewing on Netflix sometime in early 2014.
-    
-      
-    
-     
-15.  Nov 2, 2012 6:33pm Tweet
-    
-    Hopefully, we’ll have the “e” back in this site on Monday and we can all start to come out of the darkness relatively unscathed. Thanks to Tumblr for the help. Thanks to those readers who enjoyed this old-school exhibition. And thanks to the writers for being patient. 
-    
-    And, of course, thanks for your continued support of Gawker/Gawkr. 
-    
-    _Photo of Elizabeth St. with electricity this evening courtesy Nick Denton. If all goes well, we’ll be returning to work there on Monday._
-    
-     
+*   About
+    *   who we are
+    *   who we work with
+    *   executive team
+*   Our titles
+    *   gawker
+    *   gizmodo
+    *   kotaku
+    *   jezebel
+    *   deadspin
+    *   lifehacker
+    *   jalopnik
+    *   io9
+*   Our work
+    *   greatest hits
+    *   technology
+    *   television
+    *   theatrical
+    *   beer, wine, spirits
+    *   beverages
+    *   gaming
+    *   auto
+*   Our products
+    *   events
+    *   CREATIVE
+    *   roadblock
+    *   marquee
+    *   panorama
+    *   splashbox
+    *   doublewide
+    *   foreplay
+    *   content sponsorships
+    *   EDITORIAL
+    *   sponsored posts
+    *   original series
+    *   social media
+    *   TECHNICAL
+    *   contextual targeting
+    *   audience targeting
+    *   technical targeting
+    *   PLATFORMS
+    *   mobile
+    *   ipad
+    *   email newsletters
+*   Contact
 
-  next >>>.
+*   TERMS OF USE
+*   PRIVACY POLICY
+*   CONTEST RULES
+*   PERMISSIONS
 
   
   
-archive // RSS
+  
+  
+
+This privacy policy covers all of the Gawker Media sites ("GM Sites"). Please read this statement carefully before using or proceeding to access GM Sites. Your use of GM Sites indicates you have read and understood this privacy policy and indicates your agreement to abide by the Terms of Use in effect.
+
+**1\. Information Collection** – Gawker Media is the sole owner of the information collected on the GM Sites. Gawker Media may collect information from our users at several different points on the GM Sites.
+
+1.  **a. Comments** – In order to enhance their use of the GM Sites, users can choose to leave comments on particular articles of interest. Commenters may register anonymously. However, if a third party complains that a comment breaches our Terms of Use (e.g. libels them), then in accordance with our Terms of Use, we will make reasonable efforts to contact the commenter and alert them to the situation. If we are required to by law to disclose commenters’ contact information, we will attempt to contact commenters to give them the opportunity to respond to such requests. Please refer to our Terms of Use for more information.
+2.  **b. Mailing Lists &. Service Emails** - Gawker Media may launch a mailing list for some or all of the GM Sites, in order to provide subscribers with relevant information - breaking news, or weekly or daily round-ups, for example. In order to sign up to receive regular emails from a site's mailing list, users must submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site. Gawker may from time to time track user email usage in a continued effort to improve our services. Most of the time, these will be content from the site in question, but we may occasionally send out an email from a third party sponsor. This will be infrequent, and does not represent an endorsement by Gawker Media of any products advertised therein. It will clearly be marked as advertising. Since editorial independence is critical to us, you can be sure that we will never send out a sponsored email in the guise of a glowing product review. If you do not wish to receive emails from third party advertisers, please do not sign up for the mailing list.
+3.  **c. Comment Service and Cookies** – In order to further enhance the user experience, Gawker Media runs a comment service on some or all of the GM Sites where users can discuss common topics of interest. Users have the option of signing up for this service, and to do so must submit information including a valid email address. Gawker Media uses this information to screen out users who leave comments prohibited by our Terms of Use and to pick out topics of interest to commenters. Gawker Media will not pass this information to any other organization except in aggregate form.  The Comment Service may use cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following the user’s Internet browser help file directions.   By setting a cookie on a GM Site, users will not have to log in a password more than once, thereby saving time while on the site’s comment service. We store a cookie on each user's machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Gawker Media products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, not all Gawker Media services require that you accept cookies.
+4.  **d. Links** – The GM Sites contain links to other sites. Please be aware that Gawker Media is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Gawker Media.
+5.  **e. Log Files** – Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
+
+  
+
+**2\. Advertising**
+
+1.  **a. First Party Ad Serving** – The ads appearing on this website are delivered to you by Google's DoubleClick, our web advertising vendor. Gawker Media uses only first party data about your visits to this site to serve ads to you. First party data only includes information collected during your current search or visit to our websites. First party data that we collect is not shared with any other third parties and is only used for proprietary ad delivery, ad reporting, and contextual advertising. As such, Gawker Media is not a participant in online behavioral advertising as defined by the Digital Advertising Alliance and FTC.
+2.  **b. Third Party Advertising and Cookies** – Some of our third party advertising partners may distribute cookies to users in advertisements that are provided to us. Gawker Media has no access to or control over these cookies once we have received the advertisements from third parties. These advertisers may be engaging in online behavioral advertising as defined by the Digital Advertising Alliance and FTC. 
+3.  **c. Opt-out** – As part of our commitment to transparency and your privacy, we provide the following links to opt-out of cookies provided by both our first party ad server and many third party advertising partners who may be engaging in online behavioral advertising:
+    1.  **i. First Party Opt-out** – Please visit this link to opt-out of cookies from our first party ad serving vendor, Google: http://www.google.com/privacy/ads/
+    2.  **ii. Third Party and Online Behavioral Advertising Opt-out** – Please visit this link to opt-out of cookies from over 50+ major third party behavioral advertising providers: http://www.aboutads.info/choices/
+
+  
+
+**3\. Business Transitions** – In the event Gawker Media goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
+
+  
+
+**4\. Legal Disclaimer** – Though we make every effort to preserve user privacy, Gawker Media may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of the GM Sites.
+
+  
+
+**5\. Information Security** – Gawker has technical, administrative and physical safeguards in place to help protect against unauthorized access to, use or disclosure of user information we maintain. Under our security practices and policies, access to personally identifiable information is authorized only for those who have a business need for such access, and sensitive records are to be retained only as long as necessary for business or legal needs and destroyed before disposal. Although we work hard to protect personal information that we collect and store, no program is one hundred percent secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use or disclose personal information.  
+  
+If you become aware of a security issue, please email us at legal \[at\] gawker \[dot\] com. We will work with you to address any problems.
+
+  
+
+**6\. Notification of Changes** – Whenever Gawker Media changes its privacy policy, we will post those changes to this Privacy Policy page, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+  
+
+**7\. Contact Information** – If you have any questions or suggestions regarding our privacy policy, please contact the editor of the GM site in question, or send an email to questions AT gawker.com, or by mail to Gawker Media, 210 Elizabeth Street, Fourth Floor, New York, NY 10012
+
+  
+
+**8\. Effective Date** – This Privacy Policy is effective February 13, 2011.
+
+  
+  
+
+*   RESOURCES | GAWKER MEDIA QUARTERLY NEWSLETTER
