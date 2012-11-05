@@ -548,7 +548,6 @@ Y*   Books + Media
     *   open Home Improvement
         *   Wall Borders, Appliques
         *   Cleaning Supplies
-        *   Flashlights, Lanterns
         *   Household Helpers
     *   Electronics
     *   open Toys + Sports
@@ -933,7 +932,6 @@ Y*   Books + Media
             *   Accessories
             *   Purses, Totes + Wallets
             *   Socks, Hosiery
-            *   Sandals, Shoes
         *   Purses, Totes + Wallets
     *   open Books + Media
         *   Reference, Self Help
@@ -1035,6 +1033,7 @@ Y*   Books + Media
         *   Kitchen and Dining
     *   open Storage
         *   Seasonal
+        *   Cabinet Storage
         *   Bathroom
         *   Furniture
         *   Household
@@ -1081,6 +1080,7 @@ Y*   Books + Media
         *   Underwear
     *   open Kids
         *   Coats, Jackets
+        *   T Shirts
         *   Dresses, Skirts
         *   Pants
         *   Sweatshirts
@@ -1121,6 +1121,7 @@ Y*   Books + Media
     *   open Storage + Organization
         *   Bowls
         *   Household Organization
+        *   Cabinet
         *   Countertop Accessories
     *   Appliances
     *   open Baking + Cooking
@@ -1198,6 +1199,7 @@ Y*   Books + Media
     *   Lunch Totes
 *   Electronics
 *   open Storage
+    *   Cabinet Storage
     *   Bathroom
     *   Furniture
     *   Closet
@@ -1229,6 +1231,7 @@ Y*   Books + Media
 *   open Garden
     *   Bulbs + Seeds
     *   open Birds
+        *   Bird Baths
         *   Outdoor Feeders
         *   Birdhouses
     *   Planters
