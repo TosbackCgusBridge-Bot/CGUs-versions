@@ -1,27 +1,27 @@
-*   VIDEO Cat Jump Fail
-*   DISNEY GREATS BLOG 10...
-*   VIDEO ATV Racer Crashes Into Wall
-*   CONTEST GALLERY eBaum's World Halloween Costume Contest
+*   VIDEO The Halloween lobster
+*   VIDEO 7 Year Old Blind Prodigy Shocks Jazz World
+*   VIDEO Bicycle Fail Compilation
 *   TIME FOR BATTLE VIDEO The Saga Continues
-*   VIDEO Wind Pushes Punt Backwards For A Safety
-*   VIDEO Empty America - San Francisco
-*   VIDEO Painful Stone Parkour Fail
-*   BLOOD BATH SALTS BLOG Bath Salts: Hilarious New Cause of Tragedy
-*   VIDEO Biker Back Flop
+*   CONTEST GALLERY eBaum's World Halloween Costume Contest
+*   DISNEY GREATS BLOG 10...
+*   VIDEO Octopus Eating A Crab
 *   GAME FrankenSplit
-*   VIDEO Kite Boarder Surfs During Hurricane Sandy
-*   EBAUM'S QUIZ GAME Quiz: What Kind of eBaum's user are you?
-*   VIDEO Baby Stops Crying When 2 Chainz Comes On
-*   VIDEO Woman Hoards "30" Obama Phones
+*   VIDEO Guy Dunks Head In Piss Bucket
+*   VIDEO Wingsuit Flying in Malaysia - Red Bull Team
+*   VIDEO The Ultimate Nutshots Compilation
+*   BLOOD BATH SALTS BLOG Bath Salts: Hilarious New Cause of Tragedy
+*   VIDEO Hurricane Sandy Drifting
 *   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
+*   VIDEO Dude Rides Jet Ski During Hurricane Sandy
+*   VIDEO Bike Ramp Lake Jump Fail
 *   Y SO CURIOUS? BLOG 5 Curious George Books Banned by the PTA
-*   VIDEO Hoodlums Crash Ford F-250 Truck Into Store
-*   VIDEO Man Hit By Car Caught On Camera
-*   CUBE MAPPING PARTNER 3D Cube Mapping Demo
+*   EBAUM'S QUIZ GAME Quiz: What Kind of eBaum's user are you?
 *   YOUR DEAD BODY BLOG What to do With Your Dead Body
-*   VIDEO Guy's Face Meets Pole
-*   GALLERY Hurricane Sandy Devastation Part 2
-*   VIDEO Tilt-Shift San Francisco
+*   CUBE MAPPING PARTNER 3D Cube Mapping Demo
+*   VIDEO Bird...
+*   VIDEO Motorcyclist Gets Hooked During Race
+*   VIDEO Chinese Man Sues His Wife For Being Ugly
+*   VIDEO Pablo Sandoval Hits Three Homers In Game 1
 
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
@@ -111,16 +111,16 @@ Last updated: March 31, 2011.
 
 EBAUM'S PICKS The Best Of The Month: October 2012 Paramedic's Stretcher Fail Fan Rewards Her Team For Winning Woman's Running Of The Bulls Fail Top 5
 
-*   *   8,211
+*   *   56,389
+    *   Totally Radical Old School
+*   *   51,889
+    *   Best Viral Pics of The Week Compilation
+*   *   34,605
     *   GIFMANIA
-*   *   7,010
+*   *   30,562
+    *   Keion Bell Dunks Over 6 People
+*   *   27,841
     *   Awesome Slip And Slide
-*   *   5,494
-    *   Trippy Kitty Litter Commercial
-*   *   3,979
-    *   Bikini Model Gets Taken Out By Wave
-*   *   3,516
-    *   WTF Gif Dump
 
 POPULAR GALLERIES Amazing Life Hacks Monday Morning Randomness POPULAR GAMES Horror Plant 2 FrankenSplit Cloud Wars Election Ejection 2012
 
