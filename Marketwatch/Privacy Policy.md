@@ -1,4 +1,10 @@
-Bulletin Investor Alert Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
+Bulletin Investor Alert
+
+New York Markets Open in:
+
+Pre-Market Indications Analyst Ratings Oil News EarningsWatch
+
+Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
@@ -192,91 +198,95 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EST November 4, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:05 AM EST November 5, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  6:01a
+/news/latest1.  8:05a
     
-    Sandy to turn economic picture cloudier
+    Entergy posts lower quarterly earnings, revenue
     
-2.  5:00p
+2.  8:00a
     
-    NJ faces gas rationing, days more without power
+    Huntsman upped to overweight at Piper Jaffray
     
-3.  4:34p
+3.  7:57a
     
-    Syrian rebels attack air base
+    A decisive election should spur market rally
     
-4.  3:25p
+4.  7:52a
     
-    New York sports come back, but not the marathon
+    E-Trade plans $1.3 billion senior note offering
     
-5.  2:57p
+5.  7:42a
     
-    Obama, Romney tour swing states
+    Stock futures steady as U.S. election looms
     
-6.  1:35p
+6.  7:41a
     
-    NJ faces gas rationing, days more without power
+    IntercontinentalExchange Q3 EPS $1.79 vs $1.80
     
-7.  12:00p
+7.  7:38a
     
-    U.S. stocks fall sharply. election eyed
+    Stifel to acquire KBW for $17.50/share in merger
     
-8.  11:14a
+8.  7:38a
     
-    Canada delays decision on CNOOC’s Nexen bid
+    Stifel/KBW deal valed at $575 million
     
-9.  11:03a
+9.  7:37a
     
-    No, Mr. Bond, I expect you to vroooooom
+    BREAKING
     
-10.  9:00a
+    Stifel, KBW agree to merger
     
-    Investing a lump sum of money in stocks pays off
+10.  7:36a
     
-11.  8:01a
+    Southern Co. Q3 EPS $1.11 vs $1.07
     
-    Big earnings on Monday: ICE, Tesla, Humana
+11.  7:34a
     
-12.  8:01a
+    Pharmacyclics Q1 EPS profit $1.02 vs loss 0.21
     
-    Wall Street braces for economy-shaping election
+12.  7:34a
     
-13.  8:00a
+    Pharmacyclics Q1 adjusted EPS profit $1.06
     
-    Investors brace for U.S. presidential election
+13.  7:33a
     
-14.  6:31a
+    CORRECTED
     
-    Watch the Fed, not who wins the election
+    Stock futures steady as U.S. election looms
     
-15.  7:47p
+14.  7:32a
     
-    Big moves for some smaller players in health care
+    Radio Update: East Coast banks go low-tech
     
-16.  6:51p
+15.  7:31a
     
-    MarketWatch’s top 10 stories, Oct. 29 - Nov. 2
+    Updates, advisories and surprises
     
-17.  6:38p
+16.  7:27a
     
-    Latest U.S. bank failures take 2012 tally to 49
+    Monday’s biggest gaining and declining stocks
     
-18.  6:28p
+17.  7:26a
     
-    Latest U.S. bank failures take 2012 tally to 49
+    Sohu.com Q3 EPS 63 c vs 28 c
     
-19.  6:28p
+18.  7:23a
     
-    Radio Update: Stocks virtually unchanged for week
+    Biomarin says its GALNS Phase III trial posiitve
     
-20.  6:28p
+19.  7:23a
     
-    Heritage Bank of Florida closed by regulators
+    Biomarin says trial results meet primary endpoint
+    
+20.  7:21a
+    
+    Big earnings on Monday: Humana, Tesla, ICE
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,147.96 -84.66 -0.64% nasdaq /quotes/zigman/123127 2,982.13 -37.93 -1.26% s&p 500 /quotes/zigman/3870025 1,414.96 -12.63 -0.88% Kiosk
+dow /quotes/zigman/627449 13,118.34 -114.28 -0.86% nasdaq /quotes/zigman/123127 2,982.13 -37.93 -1.26% s&p 500 /quotes/zigman/3870025 1,414.20 -13.39 -0.94% Kiosk
 
 *   1238817600000 1270353600000
     
@@ -311,14 +321,12 @@ dow /quotes/zigman/627449 13,147.96 -84.66 -0.64% nasdaq /quotes/zigman/123127 2
     
     Closer look at jobs data  
     A report that probably will help Obama's re-election campaign shows 171,000 jobs created in October and unemployment at 7.9%. /conga/kiosk/economy-politics.html 233911
-*   1329804000000 1329804000000
+*   1343988600000 1344810900000
     
-    MarketWatch Blogs
+    U.S. Week Ahead
     
-    THE CODY WORD  
-    Microsoft's cool new technology  
-    Microsoft to jump into the smartphone market and more stories that every trader and investor should be reading this weekend.  
-    /conga/kiosk/cody.html 233790
+    Vote takes center stage  
+    Tuesday's presidential election may be the biggest news story of the year, but there's also economic data for stock investors to assess. /conga/kiosk/video2.html 233964
 
 MarketWatch.com
 
