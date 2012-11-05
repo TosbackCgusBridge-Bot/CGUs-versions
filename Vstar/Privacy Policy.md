@@ -618,10 +618,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos On Campus: Showdown Set St. Bonaventure and Oaks Christian prepare to ...
+Videos Iran hostage crisis remains vivid memory for Oxnard man Local man narrowly escapes crisis
 
-*   On Campus: Showdown Set Chemistry professor uses pizzazz to ... On Campus: Rivalry Renewed Students learn what to throw ...
-*   Celebrating Adolfo Camarillo On Campus: Camarillo Ready for ...
+*   Iran hostage crisis remains vivid ... On Campus: Showdown Set Chemistry professor uses pizzazz to ... On Campus: Rivalry Renewed
+*   Students learn what to throw ... Celebrating Adolfo Camarillo
 
   
 
@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Supervisor's race could come down to turnout Published 11/2/2012 at 8:12 p.m. 28 comments
-*   Thousand Oaks crash kills Westlake Village motorcyclist Updated 11/3/2012 at 8:32 p.m.
-*   Krauthammer: Tuesday could change America Published 11/1/2012 at 2:40 p.m. 102 comments
-*   Record 18.2 million Californians now registered to vote Published 11/2/2012 at 6:47 p.m. 33 comments
-*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 8 comments
+*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 100 comments
+*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 60 comments
+*   Editorial: The Star's ballot endorsements in Tuesday election Published 11/3/2012 at 3:00 p.m. 49 comments
+*   Camarillo residents say their neighborhood stinks and is causing illness Published 11/3/2012 at 7:42 p.m.
+*   Police seeking witnesses to Thousand Oaks fatal crash Updated 11/4/2012 at 6:41 p.m.
 
-Photo Galleries Oaks Christian vs. St. Bonaventure What was that over Camarillo? Ventura County's Most Wanted November…
+Photo Galleries Ventura County's Most Wanted November… Wal-Mart's new strategies allow… What was that over Camarillo?
 
-*   Krauthammer: Tuesday could change America Updated // at : 102 comments
-*   Morning chat Updated // at : 92 comments
-*   Newbury Park man charged for flashing anti-Romney sign Updated 10/31/2012 at 5:00 p.m. 60 comments
-*   California's first dog, Sutter, stumps for Prop 30 Updated // at : 40 comments
-*   A small county party plays a big role in financing local Senate campaign Updated 11/1/2012 at 10:16 p.m. 30 comments
+*   Morning chat Published 11/2/2012 at 12:00 a.m. 125 comments
+*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 100 comments
+*   Krauthammer: Tuesday could change America Published 11/1/2012 at 2:40 p.m. 107 comments
+*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 60 comments
+*   Editorial: The Star's ballot endorsements in Tuesday election Published 11/3/2012 at 3:00 p.m. 49 comments
 
-*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Updated // at : 25 comments
-*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Updated 10/25/2012 at 6:44 p.m. 102 comments
-*   Shirley: Medical device tax will impact jobs and costs Updated // at : 0 comments
-*   Amgen closes deal with financial firm to open new biotech company Updated // at : 0 comments
-*   Local relatives, friends mourn 2 children stabbed to death in nanny case Updated 10/26/2012 at 8:44 p.m. 0 comments
+*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 26 comments
+*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
+*   Local relatives, friends mourn 2 children stabbed to death in nanny case Published 10/26/2012 at 8:25 p.m. 0 comments
+*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 102 comments
+*   Stonehaus to add touch of Tuscany to Westlake Village Inn Published 10/30/2012 at 5:51 p.m. 0 comments
 
 Weather
 
@@ -660,23 +660,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 52° Fair Wind: NE 4mph Today 81° 54° Sun 05:00 PM Sunny Temp: 71° Mon 05:00 AM Clear Temp: 54° Mon 05:00 PM Sunny Temp: 74°
+Currently 70° Fair Wind: NE 12mph Today 87° 55° Mon 05:00 PM Sunny Temp: 73° Tue 05:00 AM Clear Temp: 56° Tue 05:00 PM Clear Temp: 67°
 
-Feels Like: 71°
+Feels Like: 73°
 
-Humidity: 46%
-
-Precip: 0%
-
-Feels Like: 54°
-
-Humidity: 66%
+Humidity: 34%
 
 Precip: 0%
 
-Feels Like: 74°
+Feels Like: 56°
 
-Humidity: 33%
+Humidity: 64%
+
+Precip: 0%
+
+Feels Like: 67°
+
+Humidity: 47%
 
 Precip: 0%
 
@@ -702,15 +702,15 @@ More Weather » Social
 
 95 percent accurate\*
 
+*   Dirty tricks of the closing days
 *   National analyst nudges 24th CD toward 'toss-up' status
 *   Who is Nicole Parra?
 *   Strickland mailer shows he's going after every vote
-*   The 'UC effect' in online registration, and its significance here
 
 Brian Dennert here
 
+*   Share with us your campaign pictures
 *   Simi Valley School Board: I support Dan White
-*   Dr. Lee Rogers proposes ethics reforms
 
 Ingemusings
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Sunday Nov 4
 *   Monday Nov 5
 *   Tuesday Nov 6
+*   Wednesday Nov 7
 *   More BROWSE Icon
-
-*   Love Her Lungs - Chairty Workout for Patti Dunn True North Fitness &. Health 9 a.m.
-*   Snowfest Arts and Crafts Fair Rancho Madera Community Park 10 a.m.
-*   On The Shoulders of the Best, We Withstand the Test – Remembering the Legacy of our Ancestors California African American Museum 11 a.m.
-*   "Talbot, Crowe &. Ford" Camarillo Art Center 1 p.m.
-*   Artists Three Reception Doyon Studio and Gallery 2 p.m.
-
-More Events »
 
 *   Artists Three at Doyon Studio &. Gallery Doyon Studio and Gallery 9 a.m.
 *   My Baby Is In The NICU, Now What? Rainbow Connection Family Resource Center 10 a.m.
@@ -750,6 +742,14 @@ More Events »
 *   Make a Difference and Volunteer at the Adult Literacy Center at the Camarillo Public Library! Camarillo Public Library 1:30 p.m.
 *   Westlake Village Art Guild Presents PONG APINYAVAT – Watercolor Demo Louise's Trattoria 5:30 p.m.
 *   Writer's Group A Place of Peace 7 p.m.
+
+More Events »
+
+*   My Baby Is In The NICU, Now What? Rainbow Connection Family Resource Center 10 a.m.
+*   My Baby Is In The NICU, Now What? Rainbow Connection Family Resource Center 11 a.m.
+*   Women's Top Health Concerns - Free Health Seminar Conejo Valley YMCA 2 p.m.
+*   Rainbow Connection Fundraiser Yolanda's Mexican Cafe 4 p.m.
+*   Rainbow Connection Fndraiser Yolanda's Mexican Cafe 4 p.m.
 
 More Events »
 
