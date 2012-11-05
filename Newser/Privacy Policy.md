@@ -5,13 +5,13 @@
     *   Hurricane Sandy
     *   Election 2012
     *   timeless news
-    *   strange stuff
+    *   Mitt Romney 2012
+    *   New York City
+    *   entertainment
     *   New Jersey
-    *   California
     *   celebrity
-    *   Atlanta
-    *   Ohio
-    *   abortion
+    *   Obama 2012
+    *   strange stuff
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -120,57 +120,57 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Seeing the Federal Light
-*   Like, Not Brutally Tragic
-*   The Open Closet
-
-More from Slate »
-
-*   Reported Murder Actually A...
-*   Human Ken Doll Tells Real Life Barbie: YOU'RE PLASTIC
+*   WANTED: BIGFOOT
+*   Man Accused Of Beating Girlfriend With Python
 *   Man Shocked By Dominatrix's Little Secret
 
 More from HuffPost Weird »
 
-*   Betsey Johnson Before She Was Betsey Johnson
-*   Love It Or Leave It: Fergie’s Fringed Airport Outfit
-*   Let’s Be Friends: Girl Who Got Detention For Hugging
+*   Your Friskyscopes For The Week Of November 5-11, 2012
+*   Why Men Should Stay Home On Election Day
+*   Archaeologist Finds The Cave Of The Lone Woman AKA Karana...
 
 More from The Frisky »
 
-*   New Jersey announces that residents displaced by Sandy can...
-*   Hurricane Sandy's littlest victims (Tag for any NYC Farker...
-*   Scientists spend years analysing speech patterns, produce...
+*   UFO enthusiasts not sure if they want to believe anymore...
+*   It's Uptown vs Downtown in the impending New York City...
+*   Scientists from the Romero Institute discover that curves...
 
 More from Fark »
 
-*   Down to the wire: A brief history of close presidential...
-*   10 things you need to know today: November 3, 2012
-*   America's doomsday secrets
+*   Why both Republicans and Democrats are so unjustifiably...
+*   Hurricane Sandy: New York's 'massive, massive housing...
+*   Deconstructing the 5 most ridiculous myths about Barack...
 
 More from The Week »
 
-*   G and L Train Service Will Not Resume Until Sometime Next...
-*   Chaos and Community at East Williamsburg's Post-Apocalyptic...
-*   Voting After Hurricane Sandy Might Be a Big Mess
+*   Chris Christie's New Obama Friendship Doesn't Extend to...
+*   Incoming Times CEO Mark Thompson Doesn’t Read His Morning...
+*   The Black Market for Gasoline Is Booming
 
 More from Daily Intel »
 
-*   _Time To Fall Back!_
-*   After Sandy: The 4 Essentials in Your Disaster Relief Kit
-*   Who's Really Serious About Fixing Health Care?
+*   How Power Outages Wreak Havoc On Sleep
+*   Poor Sleep Linked to Hard-to-Treat Hypertension
+*   Coping With Loss After Sandy
 
 More from HuffPost Health »
 
-*   Kendall Jenner Turns 17: See the Birthday Girl's Most...
-*   Christina Aguilera Performs ‘Office’ Rendition of ‘Your...
-*   Snooki Tweets New Photos of Baby Lorenzo: ‘He is the...
+*   ‘Saturday Night Live’ Recap: Louis C.K. Does Stand-Up;...
+*   No Doubt Pulls ‘Looking Hot’ Music Video Following...
+*   Katy Perry Moves ‘Forward’ at Barack Obama Rally in...
 
 More from Celebuzz »
 
-*   New Red Cross Advertising Breaks Tonight
-*   Trailer Mash 11-02-12
-*   Dewar's: The Drinking Man's Scotch Preferred by English...
+*   8 of the Most Surprising Health Benefits of Sleep
+*   Toddler Killed by Wild Dogs At Pittsburgh Zoo Exhibit...
+*   5 Creative Ways Kids Can Bring Fall Inside
+
+More from The Stir »
+
+*   Swimming Pools, Cakes and Mockery Are Like Facebook
+*   Eyes of the Storm
+*   Race Tightens, and So Does Ad Inventory
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
