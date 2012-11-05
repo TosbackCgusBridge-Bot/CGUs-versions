@@ -152,7 +152,7 @@ close x Search Catalog Search Catalog Navigation
 *   get inspired
 *   Learn how
 *   share
-*   Find us Find a Store: \* Find a Pier 1 imports store near you Search Visit store locator Find your order: \* Order Number: \* Billing Zip Code: **Search** Find an answer:
+*   Find us Find a Store: \* Find a Pier 1 Imports store near you Search Visit store locator Find your order: \* Order Number: \* Billing Zip Code: **Search** Find an answer:
     
     *   Frequently asked questions
     *   Contact Us
@@ -323,7 +323,9 @@ Site Policies
 
 Privacy Policy Website Terms &. Conditions Copyright &. Trademark Notice Return Policy Shipping Information Merchandise Safety Vendor Relations Product Notices &. Recalls SMS Terms &. Conditions
 
-Have a Question? | Sign Up for Updates
+*   Have a Question? |
+*   Pier 1 Rewards |
+*   Sign Up for Updates
 
 *   Gift Card
 *   Designer Perks
