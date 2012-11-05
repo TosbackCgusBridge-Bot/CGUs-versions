@@ -227,8 +227,7 @@ Testers made the greatest strides in the...Read More
 
 Video of the Day Facebook Enter To Win
 
-You could win the full line of Palmolive Fresh Infusions!  
-  
+Enter for your chance to win a 4-pack of new GoGo squeeZ Fast Fruit, the 100% fruit squeezable applesauce snack for adults, and an apple-inspired package of products to pamper your skin.
 
 Enter Now! Tools Stain Buster
 
