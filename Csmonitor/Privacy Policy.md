@@ -99,11 +99,11 @@ You may also send a letter to:
 
 Most viewed
 
-1.  Tamera Mowry: Her baby boy is due, and she talks like a normal mom
-2.  How hurricane Sandy tests Obama, Romney
-3.  Hurricane Sandy's darker side: Looting and other crime
-4.  'Looper': The ending explained
-5.  The Monitor's View: The steady gain of humanity
+1.  Why the Palestinian president shocked his people over 'right of return'
+2.  Redskins Rule:How football outcomes predict the presidential election
+3.  How hurricane Sandy tests Obama, Romney
+4.  Romney campaign says it could take Pennsylvania. Hail Mary pass?
+5.  Cover Story: What Americans want from the next president
 
 About these ads
 
@@ -121,7 +121,7 @@ Editors' Picks:
 *   Illegal immigration: why eyes will be on Maryland this Election Day
 *   Global News Blog: Good Reads: ugly oil harvests. dueling environmentalists. and morality in animals
 
-_Photos of the day_ 11.02.12 » Photos of the day 11/02
+Cranberries: The juicy rubies of fall! Cranberries: The juicy rubies of fall!
 
 **CSMonitor.com** on Facebook
 
