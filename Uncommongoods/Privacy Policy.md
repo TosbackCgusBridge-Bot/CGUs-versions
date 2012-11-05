@@ -98,6 +98,9 @@
 *   seth anderson
 *   valerie galloway
 *   zlatka paneva
+*   all uncommongoods' exclusives
+
+*   exclusive home &. garden goods
 *   all wall art
 
 *   artist prints
@@ -211,6 +214,9 @@
 
 *   recycled
 *   best selling
+*   all uncommongoods' exclusives
+
+*   exclusive dining &. entertaining goods
 *   all wine
 
 *   pitchers, decanters &. carafes
@@ -288,6 +294,9 @@
 *   handmade
 
 *   recycled
+*   all uncommongoods' exclusives
+
+*   exclusive office goods
 *   brand new uncommongoods added weekly!
 *   see all new items in office
 *   uncommongoods on sale for 30 - 70% off!
@@ -340,6 +349,9 @@
 *   handmade
 
 *   recycled
+*   all uncommongoods' exclusives
+
+*   exclusive leisure goods
 *   brand new uncommongoods added weekly!
 *   see all new items in leisure
 *   uncommongoods on sale for 30 - 70% off!
@@ -430,6 +442,9 @@
 
 *   recycled
 *   best selling
+*   all uncommongoods' exclusives
+
+*   exclusive jewelry &. accessories
 *   all wallets &. bags
 
 *   clutches &. purses
@@ -793,6 +808,7 @@
 *   all birthday gifts
 
 *   birthstones &. zodiac signs
+*   exclusive kids' goods
 *   for the party
 *   gifts for baby
 *   gifts for her
@@ -845,6 +861,7 @@
 *   lighting
 *   pets
 *   uncommon artist gallery
+*   uncommongoods' exclusives
 *   wall art
 *   this just in
 *   sale
@@ -858,6 +875,7 @@
 *   mugs &. teapots
 *   outdoor dining
 *   serveware
+*   uncommongoods' exclusives
 *   wine
 *   this just in
 *   sale
@@ -869,6 +887,7 @@
 *   organizers
 *   paperweights
 *   pens &. pencils
+*   uncommongoods' exclusives
 *   this just in
 *   sale
 
@@ -878,6 +897,7 @@
 *   decks &. card games
 *   games
 *   puzzles
+*   uncommongoods' exclusives
 *   this just in
 *   sale
 
@@ -890,6 +910,7 @@
 *   personalized jewelry
 *   rings
 *   travel
+*   uncommongoods' exclusives
 *   wallets &. bags
 *   watches
 *   women's accessories
@@ -916,6 +937,7 @@
 *   kids gifts (5+ years)
 *   teen gifts
 *   toddler gifts (3-5 years)
+*   uncommongoods' exclusives
 *   this just in
 *   sale
 
