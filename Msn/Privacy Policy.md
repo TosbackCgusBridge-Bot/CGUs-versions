@@ -211,14 +211,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
-    *   Highlights: (1) Alabama - (5) LSU
-    *   Highlights: Alabama edges LSU 21-17
-    *   Highlights: (4) Oregon - (17) USC
-    *   Heat best Nuggets
-    *   Ferry talks future
-    *   Schrager: NFL Storylines - Week 9
-    *   CFB on FOX: Oregon/USC recap
-    *   Pick Nation: NFL Week 9 Picks
+    *   Online OT: PIT/NYG
+    *   Pereira: Week 9 NFL Call
+    *   Liverpool fans drenched by broken sprinkler
+    *   Online OT: Pick 'em Week 10
+    *   Highlights: TB/OAK
+    *   Liverpool v Newcastle Premier League Highlights 11/04/12
+    *   Highlights: AAA Texas 500
+    *   NFL on FOX: Week 9 Final Thoughts
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -504,29 +504,29 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   Timberwolves aim for 2-0 start to season
-*   Vikings hope to sprint past Seattle on road
-*   Minnesota State blitzes Gophers hockey
+*   Pekovic, Wolves look to rebound in Brooklyn
+*   Missed tackles plague Vikings run defense
+*   Full-Court Press: Throw away the script
 
 *   AUTOS: Nissan Upgrades 2014 GT-R
 *   F1: Webber Frustrated By More KERS Problems
 *   F1: Ferrari Encouraged By Update Package
 
-*   GALLERY: Clemson v. Duke
-*   Clemson rolls to easy win over Duke
-*   Game Day Matchups
+*   Three Key Revisited: Navy vs. FAU
+*   Future Blue Devils: Week 12
+*   Recruiting Update: Trey Lyles
 
 *   GSP: The Champ Returns
 *   Martin Kampmann UFC 154 Pre-Fight Interview
 *   Strangers In Danger: The Best Of
 
-*   Hugo pide seguir en Pachuca
-*   Xolos mantiene invicto de local
-*   Tigres se lleva el clásico regio
+*   TITU POSICIONES Liga MX
+*   León gana y toma el subliderato
+*   Falcons mantiene su paso perfecto
 
-*   La Liga - Scores
-*   Serie A - Week 11 Scores
-*   Man City sets sights on Neymar
+*   Guardiola wants to manage Chelsea
+*   Suarez rescues point for Reds
+*   Premier League: Liverpool vs. Newcastle
 
 *   *   NFL
     *   NFL Home
