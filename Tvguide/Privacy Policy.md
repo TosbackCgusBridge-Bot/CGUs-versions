@@ -71,11 +71,11 @@ Sign In Sign Out New User Sign Up Profile Management
 
 What's Hot
 
+Louis C.K.'s NY Love Letter
+
 _Glee_: Finn Needs Help!
 
-_Last Man Standing_ Recastings
-
-Weekend Football
+A _Boy Meets World_ Sequel?
 
 Save These Shows!
 
@@ -137,11 +137,11 @@ more popular celebrities Most Popular Movies
 
 more popular movies Top Videos
 
-1.  Arrow
+1.  The Vampire Diaries
 2.  The Vampire Diaries
-3.  The Vampire Diaries
+3.  Supernatural
 4.  Supernatural
-5.  The Vampire Diaries
+5.  Arrow
 
 more top videos
 
