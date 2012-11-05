@@ -33,7 +33,7 @@ Skip to Main Content Area Home   X Connect With Mitt Follow @MittRomney Login |
 *   News &. Media
     
     *   Featured Blog
-    *   For Love Of Country Read More
+    *   We Need A New Beginning Read More
     *   More News
     
     *   Videos
