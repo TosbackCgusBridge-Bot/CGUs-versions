@@ -113,118 +113,129 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/04/2012 7:03 AM ET
+Updated: 11/05/2012 8:03 AM ET
 
-1.  1 AFF poll: Minnesota a toss-up
-2.  2 Former Hillary aide backs Romney
-3.  3 Exclusive: Christie was Mitt's first choice for VP
-4.  4 'Swift-Boating' of Obama fails
-5.  5 Ryan goes dark on local reporters
-6.  6 Obama's demographic gamble
-7.  7 Barone: Romney wins, handily
-8.  8 Warren sunny, Brown dour on trail
-9.  9 Enthusiasm is key in Ohio ground game
-10.  10 Rove: Sandy helped Obama
+1.  1 Axelrod: 'They're in deep trouble'
+2.  2 Dems' drive to retake House falters
+3.  3 Early voting results 2012
+4.  4 The man behind Mitt's poll questions
+5.  5 Obama interrupted by heckler
+6.  6 If Romney loses…
+7.  7 The looming GOP civil war
+8.  8 If Obama loses….
+9.  9 Christie: I support Mitt. critics don't get the destruction
+10.  10 Ryan goes dark on local reporters
 
-Updated: 11/04/2012 7:03 AM ET
+Updated: 11/05/2012 8:03 AM ET
 
-1.  1 Exclusive: Christie was Mitt's first choice for VP
-2.  2 Former Hillary aide backs Romney
-3.  3 AFF poll: Minnesota a toss-up
-4.  4 'Swift-Boating' of Obama fails
-5.  5 Obama early vote edge tenuous
-6.  6 Obama's demographic gamble
-7.  7 How Warren staged her comeback
-8.  8 Ryan goes dark on local reporters
-9.  9 Poll: Obama up 6 in Ohio, 2 in Fla.
-10.  10 'Socialist' ads raise questions
-
-Updated: 11/04/2012 7:03 AM ET
-
-1.  1 Exclusive: Christie was Mitt's first choice for VP
-2.  2 Former Hillary aide backs Romney
+1.  1 Axelrod: 'They're in deep trouble'
+2.  2 Dems' drive to retake House falters
 3.  3 AFF poll: Minnesota a toss-up
 4.  4 Obama early vote edge tenuous
-5.  5 'Swift-Boating' of Obama fails
-6.  6 Brian Williams knocks Rush Limbaugh
-7.  7 Poll-watchers: States out of line
-8.  8 Liberals fear grand bargain betrayal
-9.  9 Obama's demographic gamble
-10.  10 How Warren staged her comeback
+5.  5 Former Hillary aide backs Romney
+6.  6 Battleground Tracking poll: It's tied
+7.  7 The man behind Mitt's poll questions
+8.  8 Exclusive: Christie was Mitt's first choice for VP
+9.  9 Early voting results 2012
+10.  10 Lessons learned from 2012
 
-Updated: 11/04/2012 7:03 AM ET
+Updated: 11/05/2012 8:03 AM ET
 
-1.  1 Oliver Stone's new book rips Obama
-2.  2 Nate Silver: One-term celebrity?
-3.  3 Gallup suspends daily tracking poll
-4.  4 Iowa to poll-watchers: Back off
-5.  5 Exclusive: Christie was Mitt's first choice for VP
-6.  6 Former Hillary aide backs Romney
-7.  7 Martin Sheen: Romney is stupid, arrogant
-8.  8 FEMA, W.H. send victims to Internet
-9.  9 Battleground Tracking Poll: Obama retakes lead
-10.  10 Bloomberg: No 'diss' to Obama
+1.  1 Axelrod: 'They're in deep trouble'
+2.  2 Former Hillary aide backs Romney
+3.  3 Exclusive: Christie was Mitt's first choice for VP
+4.  4 Dems' drive to retake House falters
+5.  5 AFF poll: Minnesota a toss-up
+6.  6 Obama early vote edge tenuous
+7.  7 'Swift-Boating' of Obama fails
+8.  8 Battleground Tracking poll: It's tied
+9.  9 Ryan goes dark on local reporters
+10.  10 The man behind Mitt's poll questions
+
+Updated: 11/05/2012 8:03 AM ET
+
+1.  1 Axelrod: 'They're in deep trouble'
+2.  2 Oliver Stone's new book rips Obama
+3.  3 Nate Silver: One-term celebrity?
+4.  4 Gallup suspends daily tracking poll
+5.  5 Former Hillary aide backs Romney
+6.  6 Exclusive: Christie was Mitt's first choice for VP
+7.  7 Iowa to poll-watchers: Back off
+8.  8 Obama early vote edge tenuous
+9.  9 Martin Sheen: Romney is stupid, arrogant
+10.  10 Dems' drive to retake House falters
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/04/2012 7:03 AM ET
+Updated: 11/05/2012 8:03 AM ET
 
-Updated: 11/04/2012 7:03 AM ET
+1.  1 Both sides should calm down
+2.  2 Poll: Brown leads Warren by 1 point
+3.  3 Poll: Mitt ran better than McCain
+4.  4 The new 'no comment': F--- off
+5.  5 Flood of 'Obamacare' rules expected
+6.  6 Sandy shows Europe forecasting lead
+7.  7 If Obama loses….
+8.  8 If Romney loses…
+9.  9 The looming GOP civil war
+10.  10 Obama, not-so-happy warrior
 
-1.  1 New Jersey residents displaced by storm can vote by email
-2.  2 Warren sunny, Brown dour on trail
-3.  3 Enthusiasm is key in Ohio ground game
-4.  4 Tester, Rehberg strategies diverge
-5.  5 Election results 2012: Hour by hour: What to watch on Election Night
-6.  6 Grassley jokes about mixup
-7.  7 Ryan goes dark on local reporters
-8.  8 Weary Romney, Obama tough it out
-9.  9 Maher: Don't let this campaign end
-10.  10 Hues of a post-racial election
+Updated: 11/05/2012 8:03 AM ET
 
-Updated: 11/04/2012 7:03 AM ET
+1.  1 Both sides should calm down
+2.  2 Poll: Brown leads Warren by 1 point
+3.  3 Poll: Mitt ran better than McCain
+4.  4 The new 'no comment': F--- off
+5.  5 Flood of 'Obamacare' rules expected
+6.  6 Sandy shows Europe forecasting lead
+7.  7 If Obama loses….
+8.  8 If Romney loses…
+9.  9 The looming GOP civil war
+10.  10 Obama, not-so-happy warrior
 
-1.  1 New Jersey residents displaced by storm can vote by email
-2.  2 Warren sunny, Brown dour on trail
-3.  3 Enthusiasm is key in Ohio ground game
-4.  4 Tester, Rehberg strategies diverge
-5.  5 Election results 2012: Hour by hour: What to watch on Election Night
-6.  6 Grassley jokes about mixup
-7.  7 Ryan goes dark on local reporters
-8.  8 Weary Romney, Obama tough it out
-9.  9 Maher: Don't let this campaign end
-10.  10 Hues of a post-racial election
+Updated: 11/05/2012 8:03 AM ET
 
-Updated: 11/04/2012 7:03 AM ET
+1.  1 Both sides should calm down
+2.  2 Poll: Brown leads Warren by 1 point
+3.  3 Poll: Mitt ran better than McCain
+4.  4 The new 'no comment': F--- off
+5.  5 Flood of 'Obamacare' rules expected
+6.  6 Sandy shows Europe forecasting lead
+7.  7 If Obama loses….
+8.  8 If Romney loses…
+9.  9 The looming GOP civil war
+10.  10 Obama, not-so-happy warrior
 
-1.  1 New Jersey residents displaced by storm can vote by email
-2.  2 Warren sunny, Brown dour on trail
-3.  3 Enthusiasm is key in Ohio ground game
-4.  4 Tester, Rehberg strategies diverge
-5.  5 Election results 2012: Hour by hour: What to watch on Election Night
-6.  6 Grassley jokes about mixup
-7.  7 Ryan goes dark on local reporters
-8.  8 Weary Romney, Obama tough it out
-9.  9 Maher: Don't let this campaign end
-10.  10 Hues of a post-racial election
+Updated: 11/05/2012 8:03 AM ET
+
+1.  1 Both sides should calm down
+2.  2 Poll: Brown leads Warren by 1 point
+3.  3 Poll: Mitt ran better than McCain
+4.  4 The new 'no comment': F--- off
+5.  5 Flood of 'Obamacare' rules expected
+6.  6 Sandy shows Europe forecasting lead
+7.  7 If Obama loses….
+8.  8 If Romney loses…
+9.  9 The looming GOP civil war
+10.  10 Obama, not-so-happy warrior
 
 Showing Last 7 Days
 
-Updated: 11/04/2012 7:03 AM ET
+Updated: 11/05/2012 8:03 AM ET
 
 1.  1 Exclusive: Christie was Mitt's first choice for VP
 2.  2 Obama early vote edge tenuous
 3.  3 Jobs report puts economy back in campaign spotlight
-4.  4 Poll-watchers: States out of line
-5.  5 Rove: 279 electoral votes for Mitt
-6.  6 Radio: The other air war
-7.  7 1 week, 2 versions of reality
-8.  8 Sandy forces anti-politics politics
-9.  9 Battleground Tracking Poll: Obama retakes lead
-10.  10 Tight race in divided Wisconsin
+4.  4 Liberals fear grand bargain betrayal
+5.  5 Poll-watchers: States out of line
+6.  6 Rove: 279 electoral votes for Mitt
+7.  7 Radio: The other air war
+8.  8 1 week, 2 versions of reality
+9.  9 Sandy forces anti-politics politics
+10.  10 Battleground Tracking Poll: Obama retakes lead
 
 News
 
