@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Nov 4, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Nov 5, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -233,12 +233,13 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
+*   Dakota Precision Ag Center Gets Nearly $3.3M for Jobs Training
+*   Aflatoxin Worsens Drought’s Punch in Illinois
+*   2013 Outlook: What Prices to Tag Along with Corn
+*   3 Great Top Producer Events
+*   What Are Your Highest, Lowest Yields of the Year?
 *   Program Information for November 3-4, 2012
 *   Grain in the Bin? Sell Baby, Sell!
-*   California’s Largest Dairy Marketing Co-op Commissions Study of Federal Order System
-*   Sideways Grain Markets Poised for a Breakout
-*   Maryland Ag Secretary Provides Preliminary Report on Agriculture Damage Caused by Hurricane Sandy
-*   Power Hour: Heartland Land Values Continue to Surge
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
