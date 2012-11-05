@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Hurricane Sandy 2012
+*   New Jersey
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-November 4, 2012 Edition: **U.S.**
+November 5, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ November 4, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Presidential Polls 2012: Obama's Battleground Advantage Holds20k
-    *   Chris Christie's Praise For Obama Frustrated Romney Campaign: Report10k
-    *   Obama, Bill Clinton Electrify Virginia Crowd5k
-    *   Obama Seems To Have Early Lead In Key States5k
-    *   Romney And Business Allies Finish With A Strong Argument: Vote With Us, Or You're Fired10k
+    *   Florida Early Voting Mayhem: Voters Face Long Lines At The Polls As Rick Scott Refuses To Budge25k
+    *   Christie: New Jersey Residents Can Vote By Email, Fax6k
+    *   Presidential Polls 2012: Obama's Battleground Advantage Holds26k
+    *   Former President Of Mexico Delivers Scathing Critique Of Romney 3k
+    *   Obama, Bill Clinton Electrify Virginia Crowd9k
     
     Go to Politics **More in Politics**
     
@@ -45,10 +45,10 @@ November 4, 2012 Edition: **U.S.**
 *   Business
     
     *   In Hard-Hit Rockaways, Community Begs For Basic Necessities2k
-    *   Dentist Allegedly Used Laughing Gas In Front Of Patients608
-    *   7 Things NOT To Do During A Hurricane If You're Very Wealthy129
-    *   These Two Photos Are All You Need To Know About America589
-    *   15 Major Companies That Are Helping Sandy Victims30
+    *   All Talk, No Gas211
+    *   15 Major Companies That Are Helping Sandy Victims245
+    *   Gas Shortage Likely To Last For Several More Days1k
+    *   7 Things NOT To Do During A Hurricane If You're Very Wealthy190
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ November 4, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   Stars Come Together For Hurricane Sandy Benefit279
-    *   Young Mark Hamill On 'Star Wars: Episode VII'99
-    *   Katy Perry Wears Her Support For Obama300
-    *   Rage Against The Machine's Bassist Calls Paul Ryan Stupid1k
-    *   EXCLUSIVE: See The Romney Clip Cut From Movie On Bin Laden Raid682
+    *   No Doubt Takes Down Controversial Music Video736
+    *   Katy Perry Wears Her Support For Obama764
+    *   Robert Pattinson Wants To Reshoot The 'Twilight' First Kiss 49
+    *   Young Mark Hamill On 'Star Wars: Episode VII'204
+    *   Taylor Swift Strikes Out At CMAs882
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ November 4, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
+    *   Hurricane Sandy Delivers 'Another Catastrophe' To Verizon's Home, Complicating Network Repairs186
+    *   Wireless Industry Resisted Calls To Backup Cell Towers Before Sandy400
     *   Hurricane Sandy Has Major Effect On Internet Usage
-    *   Post-Hurricane Supply Purchases Spike On Amazon18
     *   Hurricane Sandy Horror Stories
-    *   New York Blackout Revives Ancient Art Of Actually Speaking To People141
-    *   Hurricane Sandy Delivers 'Another Catastrophe' To Verizon's Home, Complicating Network Repairs44
+    *   The 9 Most Popular Viral Videos Of The Week
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ November 4, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   WATCH: Fox News Attacks Hurricane Benefit Concert3k
+    *   NY Mag's Stunning Sandy Cover557
     *   WATCH: Brian Williams Tears Into Rush Limbaugh Over Hurricane Sandy7k
-    *   'Today' Welcomes Erica Hill272
     *   Chris Kluwe Quits Newspaper Over Marriage Equality Editorial1k
-    *   WATCH: 'THAT'S A LIE!'2k
+    *   WATCH: Fox News Attacks Hurricane Benefit Concert3k
+    *   'Today' Welcomes Erica Hill299
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ November 4, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   And The World's Most Prosperous Country Is.. 2k
-    *   Tomb Of Pharaonic Princess Unearthed92
-    *   Top Israeli Newspaper Throws Weight Behind Obama2k
-    *   Italy Furious At Romney Over Campaign Remarks3k
-    *   Kate And Will's Bodyguard Accidentally Fires Shot52
+    *   And The World's Most Prosperous Country Is.. 3k
+    *   Putin Appears In Public After Health Rumors Soar76
+    *   Tomb Of Pharaonic Princess Unearthed112
+    *   Most Insane Photos Of The Week
+    *   Kate And Will's Bodyguard Accidentally Fires Shot67
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ November 4, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Daylight Saving Time Ends: How The Time Change Affects Your Sleep And Mood128
-    *   Generators To Blame For Several Post-Sandy Deaths32
-    *   After Being Homebound For 2 Years, Jennie Lost 300 Pounds: 'Believe In Yourself And Know That Quitting Is Not An Option'
-    *   6 November Superfoods24
-    *   8 Foods That Could Trigger Acid Reflux122
+    *   After Being Homebound For 2 Years, Jennie Lost 300 Pounds: 'Believe In Yourself And Know That Quitting Is Not An Option'26
+    *   Daylight Saving Time Ends: How The Time Change Affects Your Sleep And Mood267
+    *   Generators To Blame For Several Post-Sandy Deaths66
+    *   6 November Superfoods32
+    *   Are You Good About Exercising? You Probably Still Sit Too Much21
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -173,11 +173,11 @@ November 4, 2012 Edition: **U.S.**
     *   OWN
 *   Style
     
-    *   Gwyneth Paltrow's Legs Put Their Owner At The Top Of Best-Dressed This Week66
-    *   PHOTOS: Michelle Obama's Sunny New Look208
-    *   PHOTOS: See Taylor Swift, Faith Hill &. All The Red Carpet Glitz From The CMAs!16
-    *   PHOTOS: Could Your Dress Be Any Shorter, KStew?847
-    *   PHOTOS: Halle Berry Wears Jaw-Dropping Sheer Dress809
+    *   PHOTOS: That Looks Like A Bra To Us, Kristen Stewart314
+    *   PHOTOS: See Taylor Swift, Faith Hill &. All The Red Carpet Glitz From The CMAs!40
+    *   PHOTOS: Gisele Bundchen Flaunts Her Baby Bump In A Bikini241
+    *   PHOTOS: Michelle Obama's Sunny New Look365
+    *   Pippa Middleton Confronts Book Critics In The Telegraph 95
     
     Go to Style **More in Style**
     
@@ -195,11 +195,11 @@ November 4, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   WATCH: Chris Rock's Message For White Voters1k
-    *   The 23 Funniest Pop Culture Charts
-    *   Cher &. Kathy Griffin: 'Don't Let Mitt Romney Turn Back Time On Women'1k
-    *   Maher: 'If It’s Obama, America Wins. If It’s Romney, Comedy Wins.'1k
-    *   Louis C.K.'s Heartfelt Note About New York City67
+    *   WATCH: Chris Rock's Message For White Voters3k
+    *   Cher &. Kathy Griffin: 'Don't Let Mitt Romney Turn Back Time On Women'2k
+    *   'SNL' Spoofs Lydia Callis, Chris Christie443
+    *   WATCH: Fox &. Friends Responds To Hurricane Sandy On 'SNL'520
+    *   'I'm Mitt Romney, And I'm Still Running For President'271
     
     Go to Comedy **More in Comedy**
     
@@ -216,11 +216,11 @@ November 4, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
+    *   Next Pressure At The Polls
     *   Next More Money Than Ever
-    *   Next The Right To NOT Vote
-    *   Tomorrow No More Death Penalty?
-    *   Tomorrow Raise The Sea Barrier
-    *   Tomorrow Sandy's SamaritansGo to HuffPost Live
+    *   Coming Up The Right To NOT Vote
+    *   Coming Up No More Death Penalty?
+    *   Coming Up Raise The Sea BarrierGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
