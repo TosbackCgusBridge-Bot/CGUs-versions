@@ -13,8 +13,8 @@ My Account
     *   Luster Now
     *   Kohls
     *   Toys R Us
-    *   Hsn
     *   Webkinz
+    *   Hsn
     *   Kmart
     *   Counseling
     *   Windows 7
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1506 Local Deals
+*   1492 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
