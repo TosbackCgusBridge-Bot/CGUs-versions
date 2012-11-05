@@ -58,7 +58,6 @@ Create Account CVS.com + Minute Clinic CVS Photo Optical
     *   Photo
 *   ExtraCare
     *   What's New
-    *   Bucks are Here
     *   Savings &. Rewards
     *   ExtraCare Beauty Club
     *   ExtraCare Diabetes
