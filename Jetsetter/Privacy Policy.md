@@ -228,35 +228,35 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   New Sheridan Hotel - Telluride
-    
-    Starting Today 11/4 at 3pm EST
-    
-*   Captain Fairfield Inn - Maine Kennebunkport
-    
-    Starting Today 11/4 at 3pm EST
-    
-*   Topaz Hotel - Washington D.C.
-    
-    Starting Today 11/4 at 3pm EST
-    
 *   Villa Santai - Bali
     
-    Starting Monday 11/5 at Noon EST
+    Starting Today at Noon EST
     
 *   James Royal Palm - South Beach
     
-    Starting Monday 11/5 at 3pm EST
+    Starting Today 11/5 at 3pm EST
     
 *   An Uptown NYC Mystery Hotel
     
-    Starting Monday 11/5 at 3pm EST
+    Starting Today 11/5 at 3pm EST
     
 *   Sugar Ridge - Antigua
     
-    Starting Monday 11/5 at 3pm EST
+    Starting Today 11/5 at 3pm EST
     
 *   Beacon Hill Hotel - Boston
+    
+    Starting Tuesday 11/6 at 3pm EST
+    
+*   Dana Hotel - Chicago
+    
+    Starting Tuesday 11/6 at 3pm EST
+    
+*   Charleston Place - S.C. South Carolina
+    
+    Starting Tuesday 11/6 at 3pm EST
+    
+*   First Luxury Art Hotel - Rome
     
     Starting Tuesday 11/6 at 3pm EST
     
