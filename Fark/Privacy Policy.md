@@ -148,49 +148,49 @@ Headlines of the Week
 Report **From the Fark Shop:**
 
 *     
-    Free Candy Yellow
+    Not So Great Outdoors Moments
 *     
-    3 Ring Binder Mighty Wallet
+    Samurai Umbrella
 *     
-    I Blogged Your Mama - Gum
+    Leg Lamp - Christmas Light Set
 *     
-    3DIY Mighty Wallet
+    Walking Robot Keychain
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
 31 Most Perfectly Looped GIFS Ever!  
+The Ultimate Tattoo Wins and Fails  
 Kid's Drawings Turned Into Awesome To...  
 Massive Fight in Restaurant Over Girl...  
-The Ultimate Tattoo Wins and Fails  
 More news at Scribol »  
   
   
-Pre-Labor Day Pregnant Bikini Contest  
-The State Fair Food That Will Cause Y...  
-The 20 Worst Hipster Bands: The Compl...  
-Internet Cat Video Film Festival Exists  
-More news at Village Voice »  
+We Show It ALL  
+Peanuts: The Silent Killer  
+Texas doesn't get hockey  
+Bloomberg's Amazing Interpreter  
+More news at truTV »  
   
   
-Larger Than Life: Howard Hughes and t...  
-Anatomy of an A-Bomb Test, 1946  
-Shock Value: Inside Paris' Grand Guig...  
-LIFE on the Stump: Classic Photos Fro...  
-More news at Life »  
+Why Men Should Stay Home On Election Day  
+Archaeologist Finds The Cave Of The L...  
+Dan Savage Feels For You, Straight Guys  
+Your Daily Squee: First Ever Baby Lil...  
+More news at The Frisky »  
   
   
-Wild Leopard Ate 15 Women, Children:...  
-Feds to Public: 1st Free Gas Isn't fo...  
-Christianity's 'Holiest Site' May Clo...  
-12 Actors Who Have Belittled Their Ow...  
-More news at Newser »  
+Pedestrian Struck, Killed by Deputy i...  
+Red Flag Fire Warning Issued Through...  
+Robbers in Halloween Masks Steal $1.5...  
+Jeff Goldblum's Stalker Arrested for...  
+More news at KTLA »  
   
 
 Also on Fark
 
-Main New Jersey announces that residents displaced by Sandy can vote by email or fax, a move guaranteed to end well ( abcnews.go.com ) » (1 comment) Sports Bobby Hebert kicked out of LSU press box by cops for "excessive cheering" ( blacksportsonline.com ) » (2 comments) Business Now that the U.S. and E.U. are bored by hot chicks in bunny tails, Playboy is opening clubs in India. Yes, somebody has a problem with that. Welcome to the 1960's, India ( timesofindia.indiatimes.com ) » (26 comments) Geek The ten best supervillain teams of all time. Nice to see Flash's Rogues get some attention ( newsarama.com ) » (22 comments) Entertainment Disney wants to reboot Boy Meets World as Girl Meets World with the titular girl the daughter of Topanga and Cory ( buzzfeed.com ) » (29 comments) Politics Forget Nate Silver, there's an even better predictor for the upcoming election ( usatoday.com ) » (8 comments) Video Time-lapse of aircraft approaching London's Heathrow Airport ( laughingsquid.com ) » (11 comments) FarkUs My son, Jamie, was diagnosed with 'severe' Autism @ age 3. Now 17, an A+ student, Life Scout, and all-around cool guy, he's raising awareness, supplies and donations for the Homeless Animals Rescue Team (HART). Can you help? ( hart90.org ) » (31 comments)
+Main UFO enthusiasts not sure if they want to believe anymore ( telegraph.co.uk ) » (9 comments) Sports How much do the computers hate the Big East? In Jeff Sagarin's computer rankings this week, undefeated Louisville was 24th. That's lower than two 5-4 Pac 12 teams (BCS rankings are the red column) ( usatoday30.usatoday.com ) » (4 comments) Business I'm not sure what a "Double Irish with a Dutch Sandwich" is, but Apple management has perfected it ( theatlanticwire.com ) » (18 comments) Geek Life may be rare in the galaxy, and it comes down to our asteroid belt ( io9.com ) » (8 comments) Entertainment Granddaughter of Warner Bros. co-founder thinks the world is ready for Casablanca II: Electric Boogaloo ( nypost.com ) » (17 comments) Politics So you've probably heard about how the electrical workers from Alabama were turned away in NJ because they don't belong to a union, right? Well, you may be surprised to find out that the story is complete bullshiat ( snopes.com ) » (50 comments) Video One of the more convincing Bigfoot videos you'll see today. Why does it appear so authentic? The guy filming drops the camera and starts running like hell ( grindtv.com ) » (27 comments) FarkUs Can The Browns finally have their revenge on the ghost of Modell? How many Cardinals QBs will the Packers defense go through? Are Ponies better than Bengals? It's NFL Week 9, games begin at 1 PM on Fox and CBS ( scores.espn.go.com ) » (3788 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main New Jersey announces that residents displaced by Sandy can vote by email or
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Nov 04 2012 08:00:39  
-Contact Us  |  Report a bug/error msg  |  Terms of service/legal/privacy policy
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Nov 05 2012 08:00:42  
+Contact Us  |  Report a bug/error msg  |  Advertise on Fark  |  Terms of service/legal/privacy policy
