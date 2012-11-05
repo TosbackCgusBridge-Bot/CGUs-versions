@@ -73,7 +73,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 *   Printer-friendly version
 *   Send by email
 
-*   How Seamless Defied Sandy, Kept The Hot Meals Coming, And Inspired Twitter Love
+*   How Should Social Networks Innovate To Become More Useful During Natural Disasters?
 
 ADVERTISEMENT
 
