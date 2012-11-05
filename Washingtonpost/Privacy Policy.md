@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **In Virginia, Obama reasserts himself...**  
-        Election 2012 | Amy Gardner
+    *   **Paul Ryan: Obama policies threaten...**  
+        Election 2012 | Rachel Weiner
     
     *   **Biggest Pinocchios of Election...**  
         The Fact Checker | Glenn Kessler
     
-    *   **Jill Biden and daughter hit issues...**  
-        She The People | Mary C. Curtis
+    *   **Jonathan Dine, the Libertarian...**  
+        She The People | Diana Reese
     
-    *   **WaPo-ABC tracking poll: all tied...**  
-        The Fix | Jon Cohen, Peyton M. Craighill and Scott Clement
+    *   **5 takeaways from the NBC-Wall Street...**  
+        The Fix | Chris Cillizza and Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -49,7 +49,7 @@
     *   **Good decision on NYC marathon**  
         ComPost | Alexandra Petri
     
-    *   **Sunday Open Thread**  
+    *   **Mitt Romney insults the American...**  
         The Plum Line | Greg Sargent
     
     *   **What ‘liberal media’?**  
@@ -72,8 +72,8 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Staying cool...**  
-        Capital Weather Gang | Brian Jackson
+    *   **Forecast: Cold through Friday with...**  
+        Capital Weather Gang | Jason Samenow
     
     *   **The 2012 High Heel Race: ‘I wouldn’t...**  
         Going Out Gurus | Fritz Hahn
@@ -97,14 +97,14 @@
     
     Blogs &. Columns
     
-    *   **NHL cancels 2013 Winter Classic**  
+    *   **NHL, NHLPA to continue talks after...**  
         Capitals Insider | Katie Carrera
     
-    *   **D.C. Uniteds home date change forces...**  
-        DC Sports Bog | Sarah Kogod
+    *   **Cam Newton gives RGIII his number**  
+        DC Sports Bog | Dan Steinberg
     
-    *   **NFL looking into officials conduct...**  
-        The Insider | Mark Maske
+    *   **10 for 80 recognized at halftime...**  
+        The Insider | Mike Jones
     
     *   **Michael Gonzalez, Nationals interested...**  
         Nationals Journal | James Wagner
@@ -145,6 +145,9 @@
     
     Blogs &. Columns
     
+    *   **Yes, China still harvests organs...**  
+        WorldViews | Max Fisher
+    
     *   **Germany to Indian students: Willkommen!**  
         WorldViews | Olga Khazan
     
@@ -153,9 +156,6 @@
     
     *   **Is life in North Korea really not...**  
         WorldViews | Olga Khazan
-    
-    *   **NYT: Mitt Romney wants good relations...**  
-        WorldViews | Max Fisher
 *   Business In Business
     
     *   Economy
@@ -179,8 +179,8 @@
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **Everything you need to know about...**  
-        Wonkblog | Brad Plumer
+    *   **Wonkbook: 39 hours to go**  
+        Wonkblog | Ezra Klein
 *   Tech In Technology
     
     *   Policy
@@ -211,8 +211,8 @@
     
     Blogs &. Columns
     
-    *   **Piemakers gear up for holiday sales**  
-        All We Can Eat | Tim Carman
+    *   **Craft brewer marches to his own...**  
+        All We Can Eat | Greg Kitsock
     
     *   **‘EL-MO! We won’t go!’**  
         The Style Blog | Maura Judkis
@@ -220,7 +220,7 @@
     *   **Answering the question ‘why vote?’**  
         On Parenting | Janice D'Arcy
     
-    *   **Read this: Bret Baier drops 45...**  
+    *   **Fight Night goes on without founder...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -246,7 +246,7 @@
     *   **Colbert and Stewart give Kimmel...**  
         The TV Column | Lisa de Moraes
     
-    *   **Image of the Day: Sandy’s election**  
+    *   **‘Wreck-It Ralph’s’ big debut**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -266,11 +266,11 @@
 
 In the News
 
-*   Clocks fall back
-*   Karl Rove
-*   ‘Million Puppet March’
-*   Election map
-*   College football
+*   Election Day
+*   Han Suyin dies
+*   Nor’easter
+*   African painted dogs
+*   SEAL Team 6
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -321,90 +321,106 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Obama has slight lead in electoral votes. Congress expected to remain status quo
-
-Dan Balz 
-
-Elite education for the masses
-
-Nick anderson 
-
-Four years after Obama’s election, a tale of two journeys that began full of hope
-
-Eli Saslow 
-
-Ohioans line up for early voting in the battleground state
-
-Rosalind S. Helderman 
-
-Why young voters aren’t feeling Obama-mania this time
-
-Anya Kamenetz 
-
-The Million Puppet March: Fighting for public broadcasting, with felt and fur
-
-Maura Judkis 
-
-Democrats in deep-blue Pa. voice confidence — and some nervousness
-
-Ann Gerhart 
-
-Motorcycle Sheikh sparks Saudi controversy: Does the Koran approve? WaPo-ABC tracking poll: all tied up as Romney draws even on favorability Mitt Romney’s campaign insults voters
-
-Editorial Board 
-
-Airport security checks are vulnerable to fake boarding passes, experts warn
-
-James Ball 
-
-Nevada moves to lean Obama The world is safer. But no one in Washington can talk about it.
-
-Greg Jaffe 
-
-In South Africa, disillusionment with the party that ended apartheid
-
-Sudarsan Raghavan 
-
-U.S. cities become hubs for Mexican drug cartels’ distribution networks
-
-Sari Horwitz 
-
-Hurricane Sandy helped Obama politically, Karl Rove says Five myths about the electoral college
-
-George C. Edwards III 
-
-In Turkey, Syria poses a new test for Erdogan’s authority
-
-Anthony Faiola 
-
-Milt Campbell, first black athlete to win the Olympic decathlon, dies in Ga. at 78
+2-year-old boy dies after falling into wild dog exhibit at Pittsburgh Zoo and being mauled
 
 Associated Press 
 
-Redskins vs. Panthers: Cam Newton’s struggles could provide roadmap for Robert Griffin III
+Obama and Romney begin final push with only hours until Election Day
 
-Kent Babb 
+Felicia Sonmez 
+
+Black preacher spreads the Word ... against Obama
+
+Lonnae O'Neal Parker 
+
+Video revives debate over Mitt Romney’s Mormon faith
+
+Peter Wallsten 
+
+Middle class faces quick impact from fiscal cliff in form of alternative minimum tax
+
+Lori Montgomery 
+
+The disconnect of 2012
+
+Robert J. Samuelson 
+
+The Takeaway: Redskins can count on Robert Griffin III, but hardly anyone else
+
+Jason Reid 
+
+The Redskins might be playing to evaluate players, but it’s too early for Mike Shanahan to say so
+
+Mike Wise 
+
+US soldier faces hearing in Afghanistan massacre. case includes blimp video, Afghan witnesses
+
+Associated Press 
+
+Election week Nor’easter to likely pound coastal areas, question marks inland
+
+Jason Samenow 
+
+The Gilded Age vs. the 21st century
+
+E.J. Dionne Jr. 
+
+Falcons move to 8-0 with another close win at home, beat Cowboys 19-13 on Turner’s TD run
+
+Associated Press 
+
+Mitt Romney insults the American electorate one last time
+
+Greg Sargent 
+
+Switzerland, threatened by isolation, lifting veil on secret bank accounts
+
+Michael Birnbaum 
+
+Mass. mobster ‘Whitey’ Bulger reportedly taken to hospital for chest pains
+
+Associated Press 
+
+Man mauled to death while cleaning grizzly enclosure at Montana wildlife casting agency
+
+Associated Press 
+
+Bahrain: 2 killed in bomb blasts in capital
+
+Associated Press 
+
+In Virginia, a mix of energy and exhaustion
+
+Amy Gardner 
+
+Han Suyin, Chinese-born author of ‘A Many-Splendoured Thing,’ dies at 95
+
+Alison Lake 
+
+Mitt Romney uses final days to push for a win in long-ignored Pennsylvania
+
+Associated Press 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Obama has slight lead in electoral votes. Congress expected to remain status quo
-    2.  Elite education for the masses
-    3.  Four years after Obama's election, a tale of two journeys that began full of hope
-    4.  Ohioans line up for early voting in the battleground state
-    5.  Why young voters aren't feeling Obama-mania this time
+    1.  2-year-old boy dies after falling into wild dog exhibit at Pittsburgh Zoo and being mauled
+    2.  Obama and Romney begin final push with only hours until Election Day
+    3.  Black preacher spreads the Word ... against Obama
+    4.  Video revives debate over Mitt Romney's Mormon faith
+    5.  Middle class faces quick impact from fiscal cliff in form of alternative minimum tax
 *   Top Videos
     1.  Mounds of white foam spews onto Tokyo street
-    2.  Sandy devastates Seaside Heights, NJ
-    3.  Dupont High Heel Drag Queen Race: 'I wouldn't miss this for anything'
-    4.  Behind the U.S. targeted killing program
-    5.  Inside election night at The Washington Post
+    2.  Where the Mitt winds blow
+    3.  Daily Tracking Poll: Does early voting mean an early lead?
+    4.  Suitland's Taivon Jacobs chooses Ohio State
+    5.  New York nanny charged with murder in stabbing deaths
 *   Top Galleries
-    1.  Romney's last campaign push
-    2.  Million Puppet March promotes public broadcasting
-    3.  SEAL Team 6 in action and in pop culture
-    4.  New Jersey faces daunting cleanup and recovery after Sandy
-    5.  On the campaign trail with the candidates
+    1.  SEAL Team 6 in action and in pop culture
+    2.  Notable deaths of 2012
+    3.  Million Puppet March promotes public broadcasting
+    4.  Romney's last campaign push
+    5.  Redskins lose third straight
 
 Today's Paper
 
@@ -414,13 +430,13 @@ Today's Paper
 
 Live Discussions
 
-There are no discussions scheduled today.
-
 Tending your garden after Hurricane Sandy
 
 Live Q&A transcript
 
 Adrian Higgins gave readers advice about how to care for their gardens after Hurricane Sandy hit.
+
+**10:00 AM** **Ask Boswell: Redskins, Caps, Nationals and more** **12:00 PM** **Advice from Slate's 'Dear Prudence'** **2:00 PM** **Talk about Travel**
 
 **Weekly schedule, past shows**
 
