@@ -115,9 +115,9 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Iran Partially Suspends Uranium Enrichment
-*   Obama: Militantly Secular 363 Days a Year
-*   Obama’s National Security ‘Not Top 10′ of 2012
+*   Now Up on the PJ Media Homepage
+*   Breaking: GEN Tommy Franks, GEN Hugh Shelton Among 500 American Warriors to Run Full-Page Ad Endorsing Mitt Romney for President
+*   Tired of Bronco Bamma and Mitt Romney
 
 More  
 
@@ -125,17 +125,17 @@ More  
     
     Conservative Song Gaining Popularity
     
+*   The 15 Best Books For Understanding Barack Obama’s Mysterious Political Theology
 *   Is Weight Lifting Good for Kids?
 *   Jazz &. Cocktails
-*   ‘The World is Against the Christian Man.’
 
 More
 
-*   Why Was There No October Surprise? Because Every Freakin' Day for the Last Four Years Has Been an October Surprise
-*   In Defense of Strawberries And Cream
-*   Danny DeVito's Union Thugs and Tuesday's Vote
+*   Sophocles in Benghazi
+*   Breaking: GEN Tommy Franks, GEN Hugh Shelton Among 500 American Warriors to Run Full-Page Ad Endorsing Mitt Romney for President
+*   Who's Counting? Interview: Hans von Spakovsky on Voter Fraud
 
-More   HE WOULD HAVE GOTTEN AWAY WITH IT IF IT HADN’T BEEN FOR THAT MEDDLING KID: Teenage super sleuth, 16, tracks burglar down in ONE HOUR on Facebook after raid on home and gets him jailed for two years. PELOSI’S MEDISCARE FAIL: _The Hill:_ Medicare fades as ‘majority-maker’ issue for House Dems. I WENT TO THE RALLY IN DENVER: tried to get a panorama of the crowd, but unfortunately it had started getting dark and my camera is not that good.  (Yes, yes, it is on the wish list, but things must be bought first which affect the writing…) ... More Advertisement
+More   HOW TOUGHER CLASSES IN HIGH SCHOOL can help kids make it through college. SOPHOCLES IN BENGHAZI: Victor Davis Hanson writes, “The strange thing about Libya is not so much who lied, but has anyone yet told the whole truth?” MITTMENTUM: Romney Ahead 59-41 on Amazon “Electoral Heat” Map. More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
