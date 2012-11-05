@@ -56,12 +56,20 @@ Shop^
         *   Accessories
         
         *   View All  New Arrivals
-    *   Roman Watches
+    *   Holiday Color
+        
+        *   Holiday Red
+        *   A Pop Of Pink
+        *   Go For Green
+        *   Winter Blues
+        *   All That Shimmers
+        
+        *   View All  Holiday Color
     *   A Touch Of Rose
-    *   Denim
     *   Limited Edition
-    *   Lookbook
+    *   Denim
     *   Watch Bar
+    *   Charm Builder
     *   Categories
     *   Watch Collections
         
@@ -77,8 +85,8 @@ Shop^
         *   View All  Watch Collections
     *   Watch Styles
         
-        *   Steel Watches
         *   Rose Watches
+        *   Steel Watches
         *   Leather Watches
         *   Gold-Tone Watches
         *   Exotic Leather Watches
@@ -137,10 +145,11 @@ Shop^
         *   Sterling Silver
         
         *   View All  Jewelry
+    *   Tech Cases
     *   Accessories
         
-        *   Tech Cases
         *   Novelty
+        *   Tech Cases
         *   Sunglasses
         *   Belts
         *   Scarves
@@ -149,13 +158,16 @@ Shop^
         *   View All  Accessories
     *   Fossil Finds
         
+        *   Vintage Collaboration: This is Not Ikea
         *   Vintage Collaboration: Three Potato Four
         *   Vintage Collaboration: Ed Tonderys
         *   Vintage Science
+        *   Our Favorites
         
         *   View All  Fossil Finds
     *   SALE
     *   Gifts
+    *   Top Gifts
     *   Gifts Under $50
     *   Gifts Under $100
     *   Gifts Under $200
@@ -170,11 +182,9 @@ Shop^
             *   Accessories
             
             *   View All  New Arrivals
-        *   Roman Watches
         *   Shades of Steel
-        *   Denim
         *   Limited Edition
-        *   Lookbook
+        *   Denim
         *   Watch Bar
         *   Categories
         *   Watch Collections
@@ -189,9 +199,9 @@ Shop^
             *   View All  Watch Collections
         *   Watch Styles
             
+            *   Leather Dress Watches
             *   Casual Watches
             *   Steel Dress Watches
-            *   Leather Dress Watches
             *   Mechanical Watches
             *   Sport Watches
             *   Roman Watches
@@ -237,6 +247,7 @@ Shop^
             
             *   View All  Wallets
         *   Shoes
+        *   Tech Cases
         *   Accessories
             
             *   Novelty
@@ -249,12 +260,14 @@ Shop^
         *   Fossil Finds
             
             *   Vintage Collaboration: Three Potato Four
+            *   Vintage Collaboration: This is Not Ikea
             *   Vintage Collaboration: Ed Tonderys
             *   Vintage Science
             
             *   View All  Fossil Finds
         *   SALE
         *   Gifts
+        *   Top Gifts
         *   Gifts Under $50
         *   Gifts Under $100
         *   Gifts Under $200
