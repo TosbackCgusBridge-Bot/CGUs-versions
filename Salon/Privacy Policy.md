@@ -5,14 +5,14 @@ Register Sign in Welcome, Logout
 *   Hot Topics
     *   Hot Topics
         *   2012 Elections
-        *   Hurricane Sandy
-        *   Mitt Romney
         *   Barack Obama
+        *   Mitt Romney
+        *   Hurricane Sandy
         *   Elections 2012
-        *   New York
-        *   Climate Change
+        *   From the Wires
         *   Republican Party
-        *   Unemployment
+        *   Superstorm Sandy
+        *   Ohio
         *   Election 2012
 *   RSS
     *   RSS Feeds Main RSS feed
@@ -194,28 +194,28 @@ About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service 
 
 Take Salon on the go – download our free app now
 
-Current Stories Must see morning clip
+Current Stories The Romney boys' election eve special
 
-News. Louis CK stars in the new sitcom Lincoln
+News. A world premiere video from Funny or Die
 
-Sunday update: Nate Silver makes Obama 85 percent favorite
+"In the service of my president"
 
-Politics. The president nears his high-water mark in the influential survey, rebounding almost to pre-Denver debate levels
+Politics. Bill Clinton is campaigning tirelessly because a second Obama term cements his legacy -- and rebukes racism
 
-Will China finally open up to Hollywood?
+"Homeland" recap: My eyes are open
 
-Entertainment. After years of strict regulation, a Chinese movie mogul says new party leaders are keen on the idea
+Entertainment. Carrie practices the art of self-deception
 
-Dominatrix for a day
+Another major storm may hit Northeast on Election Day
 
-Life. When I accompanied my ex-girlfriend to one of her fetish gigs, I got an unforgettable lesson in saying yes
+Life. "Prepare for more outages," advised one weather service meteorologist. "Stay indoors. Stock up again"
 
 Most Read
 
-*   Murdoch threatens Christie: Re-endorse Romney or else! David Daley
-*   Poll: Most Republicans believe in demonic possession Laura Gottesdiener, Alternet
-*   Five delusional right-wingers who have Mitt in a landslide Joshua Holland, Alternet
-*   Fox attacks Bruce Springsteen for hosting charity concert Alex Seitz-Wald
+*   Sunday update: Nate Silver makes Obama 85 percent favorite David Daley
+*   Trapped in a car with Fox News Joan Walsh
+*   Dominatrix for a day Anna Pulley
+*   Six most paranoid fears for Obama's second term Booth Gunter, Southern Poverty Law Center
 *   Why is the left defending Obama? Matt Stoller
 
 Voices
