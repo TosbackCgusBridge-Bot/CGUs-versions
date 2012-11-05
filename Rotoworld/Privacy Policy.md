@@ -56,6 +56,7 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Report: Josh Hamilton looking for $175M as FA
 *   Oliver Perez agrees to one-year deal with M's
 *   McCarthy drawing interest from multiple teams
 *   Bartolo Colon signs one-year deal with A's
@@ -67,7 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Astros plan to reach out to Lance Berkman
 *   Ortiz agrees to two-year deal with Red Sox
 *   Nats make qualifying offer to Adam LaRoche
-*   Bourn receives qualifying offer from Braves
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Hamster Time, Can't Touch This Nov 5
+*   DMC Derailed Nov 5
+*   Week 9 Live Blog Nov 4
+*   Updated Week 9 Rankings Nov 4
+*   Matchups: Pay-Dirt Due Nov 3
 *   Week 9 Starts and Sits Nov 3
 *   Week 9 Injury Questions Nov 3
-*   Matchups: Pay-Dirt Due Nov 3
 *   Friday Rundown Nov 2
-*   Week 9 Rankings Nov 2
-*   More for Mathews? Nov 2
-*   Best Available NFL Free Agents Nov 2
-*   Week 9 Chat Nov 1
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Report: Tannehill (knee) expected to start
-*   Colts downgrade Brown (knee) to questionable
-*   Report: Megatron may be limited to 3rd downs
-*   Sproles out 4-6 weeks but could return sooner
-*   Eagles activate DT Patterson from NFI list
-*   Norv: Danario Alexander has earned 'big' role
-*   Report: Tannehill 'better than 50-50' to play
-*   Megatron misses practice, listed questionable
-*   Jahvid Best out for season, but not giving up
-*   Dez Bryant (hip) listed questionable for SNF
-*   Sproles out indefinitely after breaking hand
-*   Dwyer, Mendenhall 'doubtful' for Week 9 game
+*   Titans owner fumes after 51-20 loss to Bears
+*   Matt Ryan rolls up 342 yards, Falcons now 8-0
+*   Antonio Brown doesn't have high-ankle sprain
+*   McFadden week to week with high-ankle sprain
+*   Vikings aren't considering benching Ponder
+*   Percy Harvin on his ankle: We'll see Monday
+*   Antonio Brown says he has high-ankle sprain
+*   RG3 downplays rib injury that required X-rays
+*   Packers provide no update on WR Jordy Nelson
+*   Palmer throws four TD passes as Raiders fall
+*   Doug Martin explodes for 272 yards, four TDs
+*   Peterson gashes Seahawks for 193 yards, 2 TDs
 
 NBA PAGES
 
@@ -134,14 +134,14 @@ NBA PAGES
 
 COLUMNS
 
+*   Dose: Josh Smith iffy w/ ankle Nov 5
+*   NBA chat: Monday @ 12:30 ET Nov 4
+*   Wired: NBA Hot Pickups! Nov 4
 *   Davis Goes Down Nov 3
 *   Lillard Ready for Liftoff Nov 2
 *   Parker beats OKC at buzzer Nov 2
 *   Hardened By Trade Nov 1
 *   NBA Live Chat Thursday 9 p.m. Nov 1
-*   Andy's Halloween Candy Oct 31
-*   NBA Opening Night Preview Oct 30
-*   The Bruski 150 Oct 28
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Update: Barea (concussion) hopes to play Mon.
+*   Report: Steve Nash (leg) may miss four weeks
+*   Nikola Vucevic blows up for 18 &. 13 vs. Suns
+*   Hawks hoping Josh Smith will play Wednesday
+*   Jameer Nelson out, E'Twaun Moore in for ORL
+*   Jason Richardson (ankle) ruled out for Monday
+*   Anthony Davis (concussion) iffy for Wednesday
 *   X-rays negative on Gerald Wallace's ankle
 *   Klay Thompson rests after hard fall on court
 *   Mayo scores 30 pts w/ career-high seven 3s
 *   Nicolas Batum posts all-around gem vs. HOU
 *   Varejao does it again, piling up 20 &. 17
-*   Mike Dunleavy explodes w/ 29 points, six 3s
-*   Heat beat Nuggets behind Chris Bosh's 40 pts
-*   Manimal sighting: Faried has 22 &. 12 vs. Heat
-*   Paul George drops 16 &. 17 w/ full stat line
-*   Kyle Lowry nearly triple-doubles on Saturday
-*   Kevin Seraphin (calf) scores 19 pts in return
-*   Rondo ties John Stockton w/ 10+ assist streak
 
 NHL PAGES
 
@@ -185,6 +185,7 @@ NHL PAGES
 
 COLUMNS
 
+*   Horak, Schenn and more! Nov 5
 *   Seguin Making Swiss Impact Nov 2
 *   Graovac Makes Wild Proud! Oct 30
 *   Four studs and a Minor Leaguer Oct 29
@@ -192,7 +193,6 @@ COLUMNS
 *   The Lipon &. MacKinnon Show Oct 24
 *   Keep an eye on Neiderreiter Oct 22
 *   Subban &. Brassard Net Gains Oct 16
-*   European League/KHL Update Oct 13
 
 PREMIUM CONTENT
 
@@ -207,6 +207,10 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   NHL and PA have good talks on weekend
+*   Antti Miettinen signs with hometown team
+*   Zach Boychuk scores again for Checkers
+*   Jagr continues to dominate for Kladno
 *   Scheifele records his 2nd hat trick of 12-13
 *   Mikael Granlund (leg) might be out for weeks
 *   Fehr to players: There's been no new offers
@@ -215,10 +219,6 @@ FANTASY HOCKEY NEWS
 *   Schenn and Couturier pace AHL Phantoms
 *   Darren Helm may need surgery on cheekbone
 *   Ian White thinking NHL season will be lost
-*   Daly &. Steve Fehr to meet privately Saturday
-*   Markstrom off to mediocre start in AHL
-*   McBain hopes time in Finland is short
-*   T.J. Brennan off to good start with Amerks
 
 NASCAR PAGES
 
@@ -229,6 +229,7 @@ NASCAR PAGES
 
 COLUMNS
 
+*   Wrap-up: Fort Worth Nov 4
 *   Mid-Pack: Texas AAA 500 Nov 1
 *   The AAA 500 Oct 30
 *   Wrap-up: Martinsville Speedway Oct 28
@@ -236,7 +237,6 @@ COLUMNS
 *   The Tums Fast Relief 500 Oct 23
 *   Wrap-up: Kansas Speedway Oct 21
 *   Mid-Pack: Hollywood Casino 400 Oct 18
-*   The Hollywood Casino 400 Oct 16
 
 PARTNERS
 
@@ -245,6 +245,11 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Johnson’s team won Fort Worth race awards
+*   Matt Kenseth’s crew chief wins Moog award
+*   Kyle Busch’s team won Fort Worth race awards
+*   Ryan Newman won USG Improving Finish award
+*   Jimmie Johnson makes it two in a row
 *   Harvick’s NNS team won Fort Worth race awards
 *   Jeremy Clements big Nationwide Series gainer
 *   Harvick wins O'Reilly Auto Parts Challenge
@@ -252,11 +257,6 @@ FANTASY NASCAR NEWS
 *   Chase Miller not in Fort Worth NNS field
 *   Timmy Hill not in Fort Worth NNS field
 *   Cobb misses O’Reilly Auto Parts Challenge
-*   Morgan Shepherd does not qualify in Texas
-*   T.J. Bell last in Fort Worth NNS field
-*   Joey Logano best NNS go-or-go-homer starter
-*   Austin Dillon top ROTY in NNS Texas field
-*   Kyle Busch on pole for Texas NNS race
 
 GOLF PAGES
 
@@ -268,6 +268,7 @@ GOLF PAGES
 
 COLUMNS
 
+*   Poulter's Playground Nov 4
 *   2012 Web.com Tour Graduates Nov 2
 *   Low Ryder Oct 30
 *   60-Wat? Oct 28
@@ -275,7 +276,6 @@ COLUMNS
 *   Two Gloves, One Win Oct 21
 *   Saint of Circumstances Oct 16
 *   Jonas, Brother! Oct 14
-*   California Dreamin' Oct 9
 
 PARTNERS
 
@@ -287,8 +287,6 @@ FANTASY GOLF NEWS
 
 *   Poulter emerges at the WGC-HSBC Champions
 *   Tianlang, 14, wins Asian Am and Masters berth
-*   Dufner jets home with 9 birdies in WGC finale
-*   Nick Watney does it again. goes low on Sunday
 *   Oosthuizen fades. settles for 54-hole co-lead
 *   Westwood matches career low to lead WGC-HSBC
 *   Snedeker cards 60 in his third round in China
@@ -297,6 +295,8 @@ FANTASY GOLF NEWS
 *   Oosthuizen separates in WGC-HSBC second round
 *   Scott closes birdie-birdie-eagle to co-lead
 *   Jonathan Byrd undergoes surgery on his wrist
+*   Garcia eyes return at European Tour finale
+*   Donald will not defend at the season finale
 
 NFL DRAFT PAGES
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Kenjon Barner notches 321 rush yards, 5 TDs
+*   Pitt RB Graham runs through Irish defense
+*   Klein's Mother: Think he is going to be 100%
+*   Geno continues ups and downs against TCU
+*   Wolfpack QB Glennon throws 3 INTs vs Cavs
+*   Klein leaves in 3rd Q vs Okie St with injury
 *   Razorbacks QB Wilson average in loss to Tulsa
 *   Vols WR Hunter registers 9/181/3 line vs Troy
 *   Patterson catches nine for 219 &. a TD vs Troy
 *   Tyler Bray doesn't throw an INT versus Troy
 *   Penn State DT Hill carted off field (knee)
 *   Landry Jones throws 4 TDs and 2 INTs vs ISU
-*   Illinois LB Brown hurt, taken to locker room
-*   Bridgewater throws five TDs against Temple
-*   Wolverines QB Gardner shines in first start
-*   Dysert throws 3 TDs vs Buffalo, only 5.5 ypa
-*   Burkhead out again versus Michigan State
-*   Nittany Lions TE Carter did not travel to PU
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Report: Tannehill (knee) expected to start
-*   GOL:Poulter emerges at the WGC-HSBC Champions
-*   NAS:Harvick wins O'Reilly Auto Parts Challenge
-*   NFL:Report: Megatron may be limited to 3rd downs
-*   NAS:Kyle Busch on pole for Texas NNS race
-*   NBA:Steve Nash diagnosed with fractured fibula
-*   NFL:Sproles out 4-6 weeks but could return sooner
-*   NFL:Eagles activate DT Patterson from NFI list
-*   CFB:Bridgewater throws five TDs against Temple
-*   CFB:Wolverines QB Gardner shines in first start
-*   MLB:Mariano Rivera to return for 2013 season
-*   NBA:Josh Smith (ankle) will not play on Sunday
+*   NFL:Titans owner fumes after 51-20 loss to Bears
+*   NFL:Antonio Brown doesn't have high-ankle sprain
+*   NFL:Matt Ryan rolls up 342 yards, Falcons now 8-0
+*   NFL:Doug Martin explodes for 272 yards, four TDs
+*   NFL:McFadden week to week with high-ankle sprain
+*   NFL:Vikings aren't considering benching Ponder
+*   NFL:Percy Harvin on his ankle: We'll see Monday
+*   NFL:Antonio Brown says he has high-ankle sprain
+*   NBA:Report: Steve Nash (leg) may miss four weeks
+*   NFL:Packers provide no update on WR Jordy Nelson
+*   NAS:Jimmie Johnson makes it two in a row
+*   NFL:Dez Bryant (hip) officially active for Week 9
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1J. DwyerNFL (7098)
-*   2D. MurrayNFL (6105)
-*   3D. RoseNBA (6074)
-*   4M. LeshoureNFL (6067)
-*   5J. WallNBA (5834)
+*   1J. DwyerNFL (6940)
+*   2J. NelsonNFL (6926)
+*   3D. BryantNFL (6282)
+*   4M. LeshoureNFL (6233)
+*   5D. MurrayNFL (6031)
 
-*   6D. WilliamsNFL (5747)
-*   7J. NelsonNFL (5710)
-*   8E. GordonNBA (5633)
-*   9K. LoveNBA (5627)
-*   10C. JohnsonNFL (5528)
+*   6C. JohnsonNFL (5996)
+*   7D. SprolesNFL (5930)
+*   8D. BrownNFL (5667)
+*   9D. RoseNBA (5475)
+*   10F. JonesNFL (5429)
 
   
 Video Center
@@ -525,6 +525,8 @@ Video Center
 *   4
 *   »
 
+*      
+    Start &. Sit: DAL @ ATL
 *      
     Week 9 Starts &. Sits 4 p.m.
 *      
@@ -539,39 +541,37 @@ Video Center
     Start or Sit: Bucs - Vikings
 *      
     Fix: Week 8's top pickups
-*      
-    Start &. Sit: Lions @ Bears
 
   
   
-  Headlines Week 9 Starts and Sits  
-Nov 3 Kay Adams breaks down every game in Week 9, including whether Reggie Bush will turn things around this week.  
+  Headlines Hamster Time, Can't Touch This  
+Nov 5 Doug Martin set rushing records, but which other players stood out for better or worse? Chet Gresham recaps the Week 9 action.  
   
 More NFL Columns
 
+*   »Hamster Time, Can't Touch This Nov 5
+*   »DMC Derailed Nov 5
+*   »Week 9 Live Blog Nov 4
+*   »Updated Week 9 Rankings Nov 4
+*   »Matchups: Pay-Dirt Due Nov 3
 *   »Week 9 Starts and Sits Nov 3
 *   »Week 9 Injury Questions Nov 3
-*   »Matchups: Pay-Dirt Due Nov 3
 *   »Friday Rundown Nov 2
-*   »Week 9 Rankings Nov 2
-*   »More for Mathews? Nov 2
-*   »Best Available NFL Free Agents Nov 2
-*   »Week 9 Chat Nov 1
 
 NFL Headlines
 
-*   »Report: Tannehill (knee) expected to start
-*   »Colts downgrade Brown (knee) to questionable
-*   »Report: Megatron may be limited to 3rd downs
-*   »Sproles out 4-6 weeks but could return sooner
-*   »Eagles activate DT Patterson from NFI list
-*   »Norv: Danario Alexander has earned 'big' role
-*   »Report: Tannehill 'better than 50-50' to play
-*   »Megatron misses practice, listed questionable
-*   »Jahvid Best out for season, but not giving up
-*   »Dez Bryant (hip) listed questionable for SNF
-*   »Sproles out indefinitely after breaking hand
-*   »Dwyer, Mendenhall 'doubtful' for Week 9 game
+*   »Titans owner fumes after 51-20 loss to Bears
+*   »Matt Ryan rolls up 342 yards, Falcons now 8-0
+*   »Antonio Brown doesn't have high-ankle sprain
+*   »McFadden week to week with high-ankle sprain
+*   »Vikings aren't considering benching Ponder
+*   »Percy Harvin on his ankle: We'll see Monday
+*   »Antonio Brown says he has high-ankle sprain
+*   »RG3 downplays rib injury that required X-rays
+*   »Packers provide no update on WR Jordy Nelson
+*   »Palmer throws four TD passes as Raiders fall
+*   »Doug Martin explodes for 272 yards, four TDs
+*   »Peterson gashes Seahawks for 193 yards, 2 TDs
 
 NFL Links
 
