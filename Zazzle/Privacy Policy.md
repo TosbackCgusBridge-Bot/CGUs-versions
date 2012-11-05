@@ -15,7 +15,7 @@ Skip to content
 *   Sell
 *   Gift Center
 
-**Search** TODAY ONLY! It's Daylight SAVINGS Time! 15% Off All Orders!   Use Code: DAYLIGHTSAVE   (details) Zazzle Privacy Policy Policies
+**Search** Presidential Election Sale: Take An Honest Abe ($5) Off T-Shirts &. Mugs!     Use Code: ABEISFOR5OFF   Ends Wednesday (details) Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
