@@ -145,37 +145,37 @@ Stories We Like
 
   Most Popular
 
-1.  The Coming GOP Freak Out
-2.  The ‘Marriage Gap’ Wild Card
-3.  Candidates Blitz Swing States
-4.  Fashion of a Certain Age
-5.  The Empty Quarter Turns Its Back On Obama
+1.  Heck Of a Job, Bloomberg
+2.  Pundits: It’s Obama!
+3.  Sandy’s Unmistakable Message
+4.  The Coming GOP Freak Out
+5.  Romney’s Late Pennsylvania Play
 
   Other News Entertainment
 
+*   Week in Photos for Nov. 2, 2012
 *   The "Twilight" cast talks friendship, fans, and saying goodbye
 *   Celebs in Halloween Costumes 2012
-*   Celebs Who've Run Marathons
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘SNL’: All the ‘Fox &. Friends’ ‘corrections’ from tonight’s show
-*   Louis C.K. hosts tonight’s ‘Saturday Night Live’: Talk about it here!
-*   Crashing and burning in ‘Flight’ — no airplane required
+*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
+*   ‘Saturday Night Live’ recap: Louis C.K. is best when he’s just being Louis
+*   PopWatch Planner: An election, Bond, a ‘Twilight’ battle in late night, and new ‘Top Chef’
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Libya Becomes Central Theme At Romney Rally
-*   "Million Muppet March" Descends On Capitol Hill
-*   Conservative Leader Prepares For A Long War Over Marriage
+*   Bill Clinton Is Obama's Real Running Mate, Says Romney Spokesman
+*   Occupy Movement Finds A Mission In Sandy's Wake
+*   Ryan Warns Evangelicals: Obama Threatens "Judeo-Christian Values"
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Quote of the Day
-*   For Romney to Win, State Polls Must Be Biased
+*   Romney Avoided Taxes Through Netherlands
+*   Obama Probability of Re-Election Bounces Back
 *   Latest Swing State Polls
 *   **Get More from Political Wire**
 
