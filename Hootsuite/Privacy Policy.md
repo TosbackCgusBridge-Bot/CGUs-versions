@@ -68,6 +68,11 @@ From the HootSuite Blog HootSuite Reaches 5 Million Users, 1.3 Billion Messages 
 On October 12, 2012, HootSuite reached 5 million users. Who uses HootSuite, and where in...  
 Read More
 
+HootSuite’s Newest Pro Solution Partner: Strange PR
+
+On November 6th, our HootSuite Owls in London will be attending Inbound Marketing UK 2012. Sponsored...  
+Read More
+
 5 Social Media Management Tips for the Real Estate Industry
 
 Long gone are the days of real estate marketing limited to bus stop benches and...  
@@ -76,11 +81,6 @@ Read More
 Watch the Social Media Race with HootSuite’s 2012 Election Tracker
 
 Want to see who is winning the “social media race” on the road to the 2012...  
-Read More
-
-Social Media Preparedness: British Columbia Hit With Earthquake
-
-  On October 27 at 8:04pm, a 7.7 magnitude earthquake struck just off of Haida...  
 Read More
 
 About Company Leadership Careers Contact Us Product Features Mobile App Directory Downloads Pricing Services HootSuite University Help Desk Feedback FAQ Translation Project Media Media Kit Press Releases Events Partner Becoming a Partner Solution Partners Integration Partners Affiliates API Legal Terms &. Conditions Privacy Policy ©2012 HootSuite Media Inc. All Rights Reserved. Language: Chinese Traditional (繁體中文)EnglishFrench (Français)German (Deutsch)Indonesian (Bahasa Indonesia)Italian (Italiano)Japanese (日本語)Polish (Język polski)Português (Brasil)Spanish (Español)
