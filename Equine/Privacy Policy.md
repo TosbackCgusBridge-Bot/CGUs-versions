@@ -113,17 +113,18 @@ Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad Equine.com is the Official Classifieds Site for our 25+ partner sites including: Testimonials **Don't just take our word for it...** " Equine.com has always allowed my horses to be seen by many potential buyers. "  
-**jill**  
-Gibbon , Nebraska " Wonderful experience using Equine.com. Glad I won a basic adv. to list the horse. It paid off and the buyer contacted me ..."  
-**Laura**  
-Ann Arbor, Michigan " Great Horse Website for buying or selling horses. The Customer Service is friendly, quick and helpful! "  
-**Mary**  
-Gays Mills, Wisconsin " Easy way to ensure that lots of buyers view your ad. Sold her fast and without any hassles. "  
-**Someone**  
-, Alabama "I love equine.com! It's a wonderful service and I hope to use them again in the future."  
-**Sara**  
-APEX, North Carolina View More Testimonials
+Sell a Horse **Reach over 1,000,000 buyers!** Sell My HorseStallion At StudSell My TrailerSell My ProductSell My PropertyList my Service Place An Ad **Exposure**  
+Sell online and in regional publications. Online ads have up to 24 color photos. Our network of magazines appear throughout the U.S. Testimonials **Don't just take our word for it...** " Great tool for selling.We got lots of of lookers.Will use again.Thanks Tommy Davis Tee Pee Performance Horses "  
+**Tommy**  
+Vinegar Bend , Alabama " My pony Lady was sold by using the photo. The family bought her from just the information from my ad and what description I..."  
+**Brenda**  
+Cranberry, Pennsylvania " It was great - lots of interest and emails, some lookers and then 3 buyers to choose from! We have sold a lot of horses on ..."  
+**Sandy**  
+Tottenham, Oklahoma " Equine.com is a wonderful tool for the horse industry. "  
+**Jessica**  
+Westby , Wisconsin "Very pleased with site in how they forward your messages/inquiries to you. Easy to use and set up, change and edit your ad. ..."  
+**Cindy**  
+Ward, Arkansas View More Testimonials
 
 *   Advertise
 *   |
