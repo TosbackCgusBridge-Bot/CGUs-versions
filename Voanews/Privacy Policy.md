@@ -1,6 +1,6 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Bill Clinton Joins Obama on Campaign Trail
+*   Obama, Romney Race to Close Election Finish
 *   French President in Lebanon to Discuss Syria
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
