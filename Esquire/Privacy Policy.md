@@ -23,41 +23,42 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript.
 
-WATCH AND LEARN... Women Your 2012-2013 NBA Preview  from the Cheerleaders, but Still: Are You Ready for Some Hoops?
+WATCH AND LEARN... Women Q&A: Eva Longoria on Obama, Romney, Vaginas, and More
 
-Because they're closer to the action than Van Gundy, right?
+The president's campaign co-chair is more than a (very) pretty face
+
+*   Monday Morning Cheerleader on the Football-Election Day Curse, Tebow, 'Bama, and Much More
+
+*   Your 2012-2013 NBA Preview  from the Cheerleaders, but Still: Are You Ready for Some Hoops?
 
 *   Miranda Kerr Is Esquire UK's Sexiest Woman Alive 2012
-
-*   Monday Morning Cheerleader with a Cowboys Sideline Expert on the Hail Mary That Wasn't
-
-*   Now, a Sexy Redheaded Woman
 
 Style Secrets of James Bond's Skyfall Suits, from the Costume Designer
 
 A conversation with the woman behind 007's reinvigorated style
 
-*   Fall Forward, Not Back, with Ten Watches to Buy Online Right Now
+*   Fall Forward, Not Back, with  
+    New Watches to Buy Online
 
 *   Nike's Sporty but Subdued Sneaker
 
 *   Berg &. Berg Scarves Hit the Web, Just In Time for the Cold
 
-News &. Politics Romney in Colorado: Hope 2.0, Not Revenge
+News &. Politics The Homeland Episode 6 Recap with Alex Berenson
 
-On Saturday night, he pivoted not only from a stump speech that headed into the weekend as a businessman-like return to ...
+In which things get violent, and set up the last six episodes for really good or really bad
 
-*   Bomb Scare at Florida Polls: Not Even as Ugly as It Gets
+*   Pierce on the Weekend the Pundits Went Nuts
 
-*   Romney and the Tea Party: A 2012 Microcosm
+*   Charles P. Pierce on the Trail with Obama
 
-*   Charles P. Pierce on the Florida Early Voting That Wasn't
+*   Inside a Florida Mega-Church on Election Sunday, a Strange Faith
 
-Food &. Drink The Hurricane Heroes to Salute This Weekend
+Food &. Drink The Hurricane Heroes to Salute
 
 Rescue workers, Lydia Callis, the battered states, and everyone who made a difference
 
-*   Romney's Big Weekend Ad: BBQ?
+*   Romney's Big Final Ad: BBQ?
 
 *   What They're Talking About at America's Bars After Sandy
 
