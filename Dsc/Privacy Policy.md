@@ -1,6 +1,6 @@
 discovery channel
 
-SHOWS ON TONIGHT Full Schedule 7:00PM MythBustersSquare Wheels 8:00PM MythBusters (Season 9)Mini Myth Medley 9:00PM Battlefield Cell  TV SHOWS
+SHOWS ON TONIGHT Full Schedule 7:00PM Overhaulin': Deconstructed1965 Impala 8:00PM Overhaulin': DeconstructedChevy Pickup Truck 9:00PM American Chopper (Season 9)Junior Frustration TV SHOWS
 
 American Chopper
 
@@ -326,21 +326,21 @@ Ultimate Trip Guide
 
 NEWS TOP NEWS STORIES
 
+Move to Canada? It's Not That Easy
+
+Sandy May Leave Toxic Legacy
+
+Time to Bail-out Models on Sea Level Rise
+
+Coming Soon: Free Wi-Fi for Facebook Check-In?
+
+Get Email, Text When Space Station Is Near
+
+Why Do We Have Daylight Savings Time?
+
 Microsoft's Surface, A Tablet With Many Faces
 
 New Three-Fingered Frog Discovered
-
-Workplace Cyber Bullies Worse Than School
-
-Where's Mars' Methane? Curiosity Draws a Blank
-
-'Biking Hurricane Sandy': Gotta-See Video
-
-Crowdfunded Plasma Jet Thruster for Spacecraft?
-
-Excellent Idea of the Day: Post-Sandy Birding
-
-Excellent Idea of the Day: Glow-in-the-Dark Roads
 
   facebook share0 Tweet Privacy Policy  
 
@@ -546,33 +546,34 @@ Email: privacy\_policy@discovery.com
 
 Last Updated On: Wednesday, August 19, 2010
 
-facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Nov 04,  
+facebook share0 Tweet stumbleupon share digg share reddit share   advertisement On TV Nov 05,  
 8:00 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Nov 04,  
+Nov 05,  
 8:30 am  
 30 min(s)  
 **Paid Programming**  
  …  
-Nov 04,  
+Nov 05,  
 9:00 am  
 60 min(s)  
-**Brainwashed**  
- Are we truly in command of our own minds? To find out, a group  
-Nov 04,  
+**I (Almost) Got Away With It**  
+_Got That Tough Girl Look_  
+ Juanita Liebman and two friends plan to rob a man at Biketoberfes  
+Nov 05,  
 10:00 am  
 60 min(s)  
-**Jungle Gold**  
-_Hell and High Water_  
- Scott and George struggle to get their Ghanaian gold mine to hit  
-Nov 04,  
+**I (Almost) Got Away With It**  
+_Got To Run With My Buddy_  
+ Larry McClendon, while in prison for murder, escapes with seven o  
+Nov 05,  
 11:00 am  
 60 min(s)  
-**Gold Rush (Season 3)**  
-_The Wrong Claim_  
- Dave faces disaster when he finds his new claim is un-minable. To  
+**Alaska: Ice Cold Killers**  
+_Hunting Humans_  
+ Robert Hansen was a mild-mannered family man with a passion for h  
 **More Listings »**   Shop Discovery Store      
 
 our sites
