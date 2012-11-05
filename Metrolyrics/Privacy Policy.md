@@ -147,32 +147,32 @@ The website is not directed to individuals under the age of thirteen (13), and w
 
 See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 
+*   Rihanna  
+    Fresh Off The Runway Lyrics
 *   Phillip Phillips  
-    Gone, Gone, Gone Lyrics
-*   Pitbull  
-    Party Ain't Over Lyrics
-*   Christina Aguilera  
-    Just A Fool Lyrics
+    Man On The Moon Lyrics
+*   Natalia Kills  
+    Problem Lyrics
 *   Ed Sheeran  
     A Team Lyrics
 *   Gotye  
     Somebody That I Used To Know Lyrics
 
-*   Phillip Phillips  
-    Get Up Get Down Lyrics
-*   Natalia Kills  
-    Problem Lyrics
-*   Cher  
-    Woman's World Lyrics
+*   Rihanna  
+    Stay Lyrics
+*   Kendrick Lamar  
+    Poetic Justice Lyrics
+*   Alicia Keys  
+    Fire We Make Lyrics
 *   Justin Bieber  
     As Long As You Love Me Lyrics
 *   David Guetta  
     Titanium Lyrics
 
-*   Phillip Phillips  
-    Man On The Moon Lyrics
-*   Alicia Keys  
-    Fire We Make Lyrics
+*   Rihanna  
+    Nobody Lyrics
+*   Ashlee Simpson  
+    Bat For A Heart Lyrics
 *   Kanye West  
     White Dress Lyrics
 *   Kesha  
@@ -180,10 +180,10 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 *   Adele  
     Someone Like You Lyrics
 
+*   Phillip Phillips  
+    Gone, Gone, Gone Lyrics
 *   Ludacris  
     Rest Of My Life Lyrics
-*   Christina Aguilera  
-    Best Of Me Lyrics
 *   Jonas Brothers  
     Wedding Bells Lyrics
 *   Katy Perry  
@@ -191,10 +191,10 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 *   Alex Clare  
     Too Close Lyrics
 
-*   Ashlee Simpson  
-    Bat For A Heart Lyrics
+*   Phillip Phillips  
+    Get Up Get Down Lyrics
 *   Pitbull  
-    Feel This Lyrics
+    Party Ain't Over Lyrics
 *   Bruno Mars  
     Locked Out Of Heaven Lyrics
 *   Carly Rae Jepsen  
