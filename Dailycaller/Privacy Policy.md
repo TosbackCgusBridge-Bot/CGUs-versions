@@ -1,4 +1,4 @@
-**TRENDING** MITT ROMNEY | BILL CLINTON | CHRIS CHRISTIE | BARACK OBAMA | JERSEY SHORE | HALLOWEEN
+**TRENDING** MITT ROMNEY | JOE BIDEN | SYRIA | BARACK OBAMA | PRESIDENTIAL ELECTION | LINDA MCMAHON
 
 The Daily Caller
 
@@ -26,7 +26,7 @@ No Thanks Close The Daily Caller Social Experience
 
 Let your friends help you discover the best news, features and videos on TheDC. Publish what you read and maintain full control.
 
-Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  **Pay Dues or Stay Home** Team Romney says Obama’s early-voting trends contain good news There's more: Ga. power crew turned away from Sandy-stricken NY for refusing to join union    
+Login with Facebook   Friends' Activity   Find Friends Invite Friends Most Read  TUCKER CARLSON AND NEIL PATEL: Wave goodbye to the Obama media Obama or Romney? TheDC predicts Tuesday's big winner CALM BEFORE THE STORM?    
 
 *   Social: Active  
     *   Active
@@ -152,7 +152,7 @@ Questions and comments regarding this Privacy Policy should be directed to priva
 
 Copyright (c) 2009, The Daily Caller, Inc.
 
-David Vitter vows to block potential Romney EPA chief: Opening salvo for conservatives? 10:19 AM 11/03/2012 In defense of punditry 11:45 AM 11/02/2012 Benghazi news round-up 3:57 PM 11/02/2012 Bill Clinton: Obama’s best frenemy 1:15 PM 11/02/2012 How Sandy Hurts Obama 4:14 AM 11/04/2012 Hey! Did we forget the Bradley Effect? 1:52 AM 11/04/2012 Ask Matt Labash: Hurricane Sandy lifestyle adjustments 2:19 AM 11/01/2012 John Gizzi: Benghazi will dog Obama into second term or retirement \[VIDEO\] 1:56 AM 11/03/2012 Leaders with Ginni Thomas: Filmmaker Curtis Bowers 9:45 PM 10/28/2012 Let’s take this Bob Menendez conversation and turn it to Eva Mendes \[SLIDESHOW\] 2:59 PM 11/02/2012 First world problems: Hurricane Sandy edition \[SLIDESHOW\] 2:27 AM 11/01/2012 EXCLUSIVE: Cast list leaked for Superstorm Sandy made-for-TV movie 2:25 AM 11/01/2012 ‘Eli Manning looking at things’ goes viral \[SLIDESHOW\] 6:06 PM 10/31/2012 See More Romney is what the country needs now 7:33 PM 10/31/2012 Why don’t white liberals vote for black politicians? 6:25 PM 10/24/2012 Videos Contests Sections
+David Vitter vows to block potential Romney EPA chief: Opening salvo for conservatives? 10:19 AM 11/03/2012 In defense of punditry 11:45 AM 11/02/2012 Benghazi news round-up 3:57 PM 11/02/2012 Bill Clinton: Obama’s best frenemy 1:15 PM 11/02/2012 How Sandy Hurts Obama 4:14 AM 11/04/2012 Hey! Did we forget the Bradley Effect? 1:52 AM 11/04/2012 Ask Matt Labash: Hurricane Sandy lifestyle adjustments 2:19 AM 11/01/2012 John Gizzi: Benghazi will dog Obama into second term or retirement \[VIDEO\] 1:56 AM 11/03/2012 Leaders with Ginni Thomas: Filmmaker Curtis Bowers 9:45 PM 10/28/2012 Thanks to Leonardo DiCaprio, this supermodel is now on the market \[SLIDESHOW\] 12:19 AM 11/05/2012 Sexy Sundae III: Beautiful women eating ice cream \[SLIDESHOW\] 3:29 PM 11/04/2012 Let’s take this Bob Menendez conversation and turn it to Eva Mendes \[SLIDESHOW\] 2:59 PM 11/02/2012 First world problems: Hurricane Sandy edition \[SLIDESHOW\] 2:27 AM 11/01/2012 See More Romney is what the country needs now 7:33 PM 10/31/2012 Why don’t white liberals vote for black politicians? 6:25 PM 10/24/2012 Videos Contests Sections
 
 *   2012 Elections
 *   Politics
@@ -186,9 +186,9 @@ Follow
 
 RSS The Daily Caller
 
-*   FCC: Communications situation in areas affected by Sandy improving
-*   Rand Paul endorses Denny Rehberg in tightly-contested Senate race
-*   UPDATE: Hannity show played 2011 union ‘Scabs!’ and ‘Scumbags!’ audio, called it post-Sandy outrage
+*   Does the faith of our presidents matter?
+*   Leaders with Ginni Thomas: Washington journalist John Gizzi
+*   9,000 mining jobs lost in October
 
 Corporate
 
