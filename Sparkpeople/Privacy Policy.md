@@ -143,26 +143,27 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   About Snoring Resources
+*   Pushup Stand Resources
 
   
-Stay in Touch With SparkPeople **Diabetes Weight-Loss Workout Plan**
+Stay in Touch With SparkPeople **Goal-Tracking Tools**
 
-This workout plan was designed specifically to help people with diabetes manage their blood sugar and lose weight safely.
+Find out the best way to track--and reach!--your goals.
 
 Read More
 
+*   Healthy snack ideas for under 100 calories?
 *   Who Motivates you on Sparkpeople?
-*   "New to me" foods
-*   How do you fight boredom on the treadmill?
 *   Vegetables- yuck!
-*   Healthy Halloween snacks
+*   Describe the last time you felt proud of yourself.
+*   How do you maintain your exercise long-term?
 
-View Demo **Triceps Dips on Medicine Ball**  
-Dips with a twist! **Chef Meg's Pomegranate Chicken Salad**  
+View Demo **Inner Thigh Squat Stretch**  
+Click on the picture to the left to find out more, and see an exercise demo **Chef Meg's Vegetable Paella**  
 Submitted By: **CHEF\_MEG**
 
-This seasonal salad is ready in a flash. You will love the softness of the greens with the crunch of the radish and pomegranate. Full Recipe
+I created a budget version of this rustic Spanish dish. My version skips the seafood and the saffron, and I finish the dish with an herbed-citrus olive pesto to add color and intensify the flavor.  
+Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
