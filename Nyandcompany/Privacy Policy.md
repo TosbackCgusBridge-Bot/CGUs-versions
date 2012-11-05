@@ -5,7 +5,7 @@
 
 *   My Wish List
 
-Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale Today Only: All Velour Buy One Get One Free. Select styles. Not combinable with coupons or other offers. Plus, free shipping on any order over $125 – no code needed. \*Details **Customer Service**
+Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale Limited Time Only: 40% off Everything. Excludes New Arrivals, NY Deals, Clearance &. Gift Cards. Plus, free shipping on orders $125 or more – no code needed. \*Details **Customer Service**
 
 *   Ordering &. Shipping Info
     *   Where's My Order?
