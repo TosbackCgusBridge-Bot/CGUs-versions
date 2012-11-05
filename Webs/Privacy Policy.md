@@ -1,6 +1,6 @@
 Webs - Make a Free Website Features Pricing Company Blog Sign In Email Address Password Forgot Password? Remember me Signing in... Privacy Policy A secure online experience
 
-Webs is a website building and hosting service provided at http://www.webs.com and http://www.freewebs.com and its directly associated domains, widgets, tools, services and applications that are operated by Webs, Inc. (collectively, "Webs" or "Services"). Your privacy on the Internet is very important to us. We strive to make your online experience satisfying and safe.
+Webs is a website building and hosting service provided at http://www.webs.com and http://www.freewebs.com and its directly associated domains, widgets, tools, services and applications that are operated by Webs (collectively, "Webs" or "Services"). Your privacy on the Internet is very important to us. We strive to make your online experience satisfying and safe.
 
 This "Privacy Policy" explains what information we gather from our users and how we use it. By using or accessing our Services, you are accepting the practices described in this Privacy Policy. (Capitalized terms not defined herein have the meaning set forth in our Terms of Service).
 
