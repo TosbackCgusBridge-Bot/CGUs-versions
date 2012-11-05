@@ -10,9 +10,9 @@ Sign In
 
 1 2 3 Hurricane Relief: How You Can Help
 
-Egypt
+China
 
-Egypt interior minister fires Northern Sinai regional security...
+China slams UN rights chief's criticism of it over Tibet protests
 
 Politix
 
@@ -186,7 +186,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
- 
+  Ads by Glam
 
 San Antonio, TX
 
@@ -275,7 +275,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 102,736 • Total comments across all topics: 190,064,934
+Comments made yesterday: 111,715 • Total comments across all topics: 190,165,633
 
 Copyright ©2012 Topix LLC
 
