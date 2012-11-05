@@ -279,15 +279,15 @@ Prev Next
 *   Grill Room
 
 *   WGC HSBC Champions
+*   Masters Tournament
+*   Ian Poulter
+*   Mission Hills Golf Club
 *   PGA Tour
-*   Lee Westwood
 *   Phil Mickelson
-*   British Open Championship
-*   FedEx Cup
-*   Vijay Singh
-*   Las Vegas
-*   Tiger Woods
-*   Ernie Els
+*   Rory McIlroy
+*   Ryder Cup
+*   European Tour
+*   Jack Nicklaus
 
 **Privacy Policy**
 
@@ -528,7 +528,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 234,404 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
+Social 234,476 facebook.com/GolfChannel 121,968 twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
