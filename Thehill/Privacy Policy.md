@@ -212,21 +212,21 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Obama's 'revenge' remark reverberates on presidential campaign trailMedicare fades as ‘majority-maker’ issue for House DemsConflict-of-interest concerns raised as Obama races to implement health reformShift in proportion of white, minority vote could decide Obama-Romney raceReport: NJ to use US military vehicles as polling places
+Obama's 'revenge' remark reverberates on presidential campaign trailMedicare fades as ‘majority-maker’ issue for House DemsConflict-of-interest concerns raised as Obama races to implement health reformRasmussen poll shows tight race with Obama, Romney tied at 49-49Poll: Swing-state voters split 48-48 between Obama, Romney
 
 Emailed
 
-Conflict-of-interest concerns raised as Obama races to implement health reformObama's 'revenge' remark reverberates on presidential campaign trailMedicare fades as ‘majority-maker’ issue for House DemsReid: 'Laughable' for Romney to think Dems will pass his agendaShift in proportion of white, minority vote could decide Obama-Romney race
+Conflict-of-interest concerns raised as Obama races to implement health reformOpinion: A Romney win would be a victory for shameless cynicismObama's 'revenge' remark reverberates on presidential campaign trailRussia skewers US election as undemocratic, ‘the worst in the world’Political fight over Benghazi Consulate attack shifts after CIA revelations
 
 Discussed
 
-International monitors at US polling spots draw criticism from voter fraud groupsTexas sparks international row with election observersOpinion: Here comes the landslideObama's 'revenge' remark reverberates on presidential campaign trailShift in proportion of white, minority vote could decide Obama-Romney race
+Obama's 'revenge' remark reverberates on presidential campaign trailShift in proportion of white, minority vote could decide Obama-Romney raceSen. Graham: Obama move on defense layoff notices 'patently illegal'More bad news for Mitt Romney GOP pollster: Romney up in Ohio, closing the gap in Wisconsin
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Biden: ‘Turn the clock back’ Romney’s favorite time of year
-*   Romney campaign denies Christie report
-*   Obama visits FEMA for storm briefing
+*   Van Hollen: Dems face an 'uphill battle' to win back House
+*   Toomey: 'I think Gov. Romney's going to carry Pennsylvania'
+*   Biden: GOP ‘fever’ will break after election
 
   
 More Briefing Room » Congress Blog
@@ -238,9 +238,9 @@ More Briefing Room » Congress Blog
   
 More Congress Blog » Pundits Blog
 
+*   Elizabeth Warren would be the conscience of the United States Senate
 *   The bottom line in Election 2012: TRUST
 *   Clinton barnstorms for Barack, George W. Bush barnstorms for bucks at Cayman Island tax-dodge soiree
-*   Somebody is going to be bummed
 
   
 More Pundits Blog » Twitter Room
@@ -259,23 +259,23 @@ More Twitter Room » Hillicon Valley
   
 More Hillicon Valley » E2\-Wire (Energy)
 
+*   News bites: Coastal cities look to strengthen storm defense
+*   News bites: Gas prices keep falling in Sandy’s wake
 *   Hurricane Sandy gives climate change a moment in the sun
-*   After Sandy, flood insurance reformers spring into action
-*   DOE: Sandy created 'severe energy supply interruption'
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Poll finds Romney, Obama tied at 48-48
-*   Poll: Ohio race tight as Obama holds 2-point lead over Romney
-*   House GOP ‘Young Guns’ unlikely to fare as well in 2012 as in 2010
+*   Poll: Obama holds narrow 1-point lead in Virginia
+*   Poll: Romney up 5 points in Florida
+*   Poll: Romney, Obama in dead heat at 49-49
 
   
 More Ballot Box » On The Money
 
+*   Light on details, business community calls for action to avert ‘fiscal cliff’
 *   Key Democratic senator pushing for Sandy supplemental spending bill
 *   US tries to soothe foreign leaders' fears about ‘fiscal cliff’
-*   IRS gives further relief to taxpayers affected by Sandy
 
   
 More On The Money » Healthwatch
@@ -301,16 +301,16 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
+*   Congress expected to deliver on half of Pentagon's priorities during lame-duck
 *   Political fight over Benghazi Consulate attack shifts after CIA revelations
 *   GOP senators want new Select Committee to investigate Benghazi attack
-*   Confirmation hearing scheduled for Allen, Dunford
 
   
 More DEFCON Hill » Global Affairs
 
+*   Monday's global agenda: Syrian shake-up
 *   Russia skewers US election as undemocratic, ‘the worst in the world’
 *   Report: Romney son sends assurances to Putin about rhetoric
-*   Russia, Syrian opposition slam US calls for new leadership against Assad
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Fiscal cliff looms Lanny Davis Why Obama will win More Columnists »
