@@ -1,5 +1,7 @@
 *   Saks Fifth Avenue
 
+*   SaksFirst Triple Points + get 25,000 Bonus Points online only Details
+
 CLOSE
 
 \*Triple points offer valid on approved purchases for SaksFirst members made with the Saks Fifth Avenue credit card or Saks Fifth Avenue MasterCard on saks.com and catalog orders from 11/5/12 at 12:01 AM (ET) through 11/9/12 at 11:59 PM (ET) and in Saks Fifth Avenue stores from 11/7/12 through 11/9/12. During this event, SaksFirst members will earn 2 base points plus 4 bonus points per eligible dollar spent from $1 to $4,999, 4 base points plus 8 bonus points per eligible dollar spent from $5,000 to $9,999, and 6 base points plus 12 bonus points per eligible dollar spent thereafter, based on your calendar year-to-date net purchases. Purchases of sales tax, delivery charges, beauty salon products and services, restaurants, alterations, fur storage, gratuity, repairs, at the Martin Lawrence Gallery in the Dallas Saks Fifth Avenue store, Saks Fifth Avenue OFF 5TH stores, corporate gifts, gift card purchases, Cartier, and Louis Vuitton products and services are not eligible for this points event. Select designers and leased department exclusions apply.  
@@ -125,7 +127,7 @@ SAKS CARD
 
 STORES &. CORPORATE
 
-*   Store Locator &. Events
+*   Store Locations &. Events
 *   About Us
 *   Careers
 *   Policies
