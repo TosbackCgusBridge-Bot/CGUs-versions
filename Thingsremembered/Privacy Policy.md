@@ -182,7 +182,7 @@ Store Locator
     
 
 *   Special Offers
-*   Free Keepsake Box
+*   Pickup In-Store
 *   Exclusive Online Gifts
 *   Free Shipping
 
