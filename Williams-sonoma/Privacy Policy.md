@@ -193,15 +193,15 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Sale &. Offers
     
-    *   Tools &. Gadgets Promotion
     *   Sale
     
-    ONE WEEK ONLY
+    NEW &. EXCLUSIVE
     
-    Save 15% on select Tools &. Gadgets through 11/4/12.  
-    Enter promo code: TOOLS15.
+    Perfect for the kid in all of us.
     
-    Shop Now 
+    Buy Now 
+    
+    Shop New Cooks' Tools  
     
 *   Cutlery Shop by Category
     
@@ -245,7 +245,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     Sale &. Offers
     
     *   Sale
-    *   Wüsthof Gourmet Promotion
     *   Exceptional Values
     
     NEW &. EXCLUSIVE
@@ -471,13 +470,15 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Sale &. Offers
     
+    *   Tabletop Promotion
     *   Sale
     
-    MONOGRAM SHOP
+    LIMITED TIME ONLY
     
-    Learn about our monogramming options, including font and lettering styles, thread colors and techniques.
+    Save 15% on select tabletop through 11/21/12.  
+    Enter promo code: TABLETOP15
     
-    Learn More 
+    Shop Now 
     
 *   Homekeeping Shop by Category
     
