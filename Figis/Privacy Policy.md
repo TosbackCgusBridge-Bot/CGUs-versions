@@ -114,6 +114,7 @@
 *   SALE
     *   Shop by Category
     *   Buy More Save More Gifts
+    *   Mystery Gifts
     *   Sale Gifts
     *   Weekly Special Gifts
     *   Spooky Halloween Specials
