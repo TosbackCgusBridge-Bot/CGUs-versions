@@ -195,52 +195,52 @@ Registrieren Login
 1.  Halloween
 2.  Konzert
 3.  Kostüm
-4.  Periode
-5.  Piercing
-6.  Pokemon
-7.  rauchen
-8.  Steam
-9.  Windows 8
-10.  Winter
+4.  One Direction
+5.  Periode
+6.  Pickel
+7.  Piercing
+8.  Pokemon
+9.  rauchen
+10.  Steam
 
-Top-50 Themen Thema Anzahl Apple 84831 Arbeit 65084 Ausbildung 50461 Auto 91423 Beauty 69688 Beruf 77714 Beziehung 72497 Computer 540235 Computerspiele 65088 deutsch 67305 Englisch 52342 Ernährung 50921 essen 71490 Facebook 78027 Fernsehen 60476 Film 100804 Finanzen 59149 Freizeit 264711 Fußball 51318 Games 125832 Geld 94002 Gesundheit 206575 Haare 83217 Handy 206490 Hilfe 149900 Internet 323838 iPhone 75949 Kinder 51065 Körper 50563 Laptop 74034 Liebe 166703 Lied 54798 Mädchen 56783 Medizin 62974 Minecraft 68708 Musik 281940 PC 284169 PC-Spiele 49069 Problem 55724 PS3 60836 Recht 95631 Schule 236531 Software 57275 Spiele 138110 Sport 111379 Technik 121181 Tiere 65107 TV 54603 Video 52991 Youtube 84004 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 84966 Arbeit 65156 Ausbildung 50553 Auto 91501 Beauty 69755 Beruf 77780 Beziehung 72606 Computer 540696 Computerspiele 65168 deutsch 67386 Englisch 52391 Ernährung 50976 essen 71547 Facebook 78142 Fernsehen 60521 Film 100909 Finanzen 59189 Freizeit 264791 Fußball 51349 Games 126006 Geld 94107 Gesundheit 206718 Haare 83330 Handy 206788 Hilfe 150159 Internet 324147 iPhone 76095 Kinder 51104 Körper 50607 Laptop 74125 Liebe 166962 Lied 54846 Mädchen 56867 Medizin 63023 Minecraft 68811 Musik 282200 PC 284487 PC-Spiele 49133 Problem 55816 PS3 60921 Recht 95677 Schule 236891 Software 57330 Spiele 138252 Sport 111496 Technik 121322 Tiere 65154 TV 54655 Video 53056 Youtube 84138 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  DeinPapa98
+1.  Bademeisterin
     
     Punkte:
     
-    1372
+    961
     
     Level:
     
-    DeinPapa98
+    Bademeisterin
     
-2.  Bluebird555
+2.  Chimaer
     
     Punkte:
     
-    980
+    798
     
     Level:
     
-    Bluebird555
+    Chimaer
     
-3.  BoseKlose
+3.  Siebenschlaf
     
     Punkte:
     
-    958
+    543
     
     Level:
     
-    BoseKlose
+    Siebenschlaf
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.413.693 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.422.356 gute Fragen_
 
-*   30 jetzt schon geld geld mehr.wie soll ich den monat überleben?
-*   25 Wieso ist uns Stille/Smalltalk peinlich?
-*   16 Ich habe weder WOHNUNG noch ARBEIT ! Ich kriege keins ohne das andere ! Wie komme ich da raus ?
+*   20 Hilfe! Ich kann meine Eltern beim ...... hören!!!
+*   12 Älterer Mann (75) schlägt und beschimpft seine Frau (70). Kann man da nichts tun?
+*   10 Wie kann man seine Talente finden?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
@@ -254,23 +254,23 @@ gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.983.706
+1.986.649
 
 Anzahl der Fragen
 
-8.412.402
+8.421.837
 
 Anzahl der Antworten
 
-36.458.711
+36.489.113
 
 Anzahl der Tipps
 
-75.548
+75.630
 
 Anzahl der Videos
 
-4.776
+4.786
 
 Blog
 
