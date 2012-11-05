@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Sunday, November 4, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Monday, November 5, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Sunday, November 4, 2012 Go Follow the Atlanti
 *   Magazine
 *   video
 
-How Obama Can Become the Next FDR Jack M. Balkin What the Obama Endorsements Overlooked Conor Friedersdorf The Left Is Still Worried About Vote Suppression Molly Ball Tax Cuts Have a New Name Matthew O'Brien Hurricane Sandy Guide to Working From Home Derek Thompson How Conservatives Would Reform FEMA Jordan Weissmann Are Country TV Shows About the Recession? Anthony Easton How I Enabled the Cult of Lance Armstrong Hal Espen Can Anyone Beat the NBA's One Percenters? Sports Roundtable China's Mysterious New Stealth Jet Brian Fung Istanbul's Looming Disaster Jenna Krajeski The Fight for the Iranian-American Vote Golnaz Esfandiari The Devastated New Jersey Coastline Megan Garber On 'Keeping House in Outer Space' Emma Green How Computers Could Resolve Flight Delays Rachel Swaby Stop Saying 'Fire in a Crowded Theater' Trevor Timm Why We Keep Goldfish as Pets Katrina Gulliver There Are 3 New Yorks Today Derek Thompson Why 250,000 Still Get Leprosy Every Year Lindsay Abrams Why Great ASL Interpreters Are So Animated Arika Okrent The Hottest Thing in Head Lice James Hamblin Presented by Brave Thinkers: Our Annual List of Risk-Takers Mike Bloomberg Knows What's Good for You James Bennet Jazz: How America's Most Vibrant Music Became a Relic Benjamin Schwarz Presented by The Moment the Lights Went Out in New York Megan Garber What Would Happen If We Scrapped Congress? Kasia Cieplak-Mayr von Baldegg Hurricane Sandy Looks Scary from Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
+How Obama Can Become the Next FDR Jack M. Balkin What the Obama Endorsements Overlooked Conor Friedersdorf The Left Is Still Worried About Vote Suppression Molly Ball Tax Cuts Have a New Name Matthew O'Brien Hurricane Sandy Guide to Working From Home Derek Thompson How Conservatives Would Reform FEMA Jordan Weissmann Are Country TV Shows About the Recession? Anthony Easton How I Enabled the Cult of Lance Armstrong Hal Espen Can Anyone Beat the NBA's One Percenters? Sports Roundtable China's Mysterious New Stealth Jet Brian Fung Istanbul's Looming Disaster Jenna Krajeski The Fight for the Iranian-American Vote Golnaz Esfandiari The Devastated New Jersey Coastline Megan Garber On 'Keeping House in Outer Space' Emma Green How Computers Could Resolve Flight Delays Rachel Swaby Stop Saying 'Fire in a Crowded Theater' Trevor Timm Why We Keep Goldfish as Pets Katrina Gulliver There Are 3 New Yorks Today Derek Thompson Why 250,000 Still Get Leprosy Every Year Lindsay Abrams This Season's Hottest in Head Lice James Hamblin The Midnight Evacuation of NYU Medical Center Samuel Penziner Presented by Brave Thinkers: Our Annual List of Risk-Takers Mike Bloomberg Knows What's Good for You James Bennet Jazz: How America's Most Vibrant Music Became a Relic Benjamin Schwarz Presented by The Moment the Lights Went Out in New York Megan Garber What Would Happen If We Scrapped Congress? Kasia Cieplak-Mayr von Baldegg Hurricane Sandy Looks Scary from Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -114,13 +114,13 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 Washington, DC 20037
 
 Special Report Shutterstock/Anna Paff The Sexes  
-How men and women interact in a changing society. Come join the discussion on our newest channel. Read more › Just In Sage Stossel 5:02 AM ET SNL's Louis C.K. Episode: 5 Best Scenes 1352023320 Voices
+How men and women interact in a changing society. Come join the discussion on our newest channel. Read more › Just In Frog Design 8:09 AM ET Clay Shirky on the Internet as a Distractor and Disruptor 1352120993 Voices
 
-*   James Fallows And If the GOP Doesn't Win, What Then? Nov 3, 2012
+*   Jeffrey Goldberg Why Obama is Better for Israel Than Romney 6:31 AM ET
+*   James Fallows Your Sunday Ground-Game Reports: Missouri,… Nov 4, 2012
 *   Robert Wright Things for Obama Supporters to Worry About Nov 3, 2012
 *   Ta-Nehisi Coates Slavery Is a Love Song Nov 2, 2012
 *   Derek Thompson Why the October Jobs Report Is Even Better Than… Nov 2, 2012
-*   Jeffrey Goldberg The Lieberman Threat Nov 2, 2012
 *   Clive Crook Together We Stand, Divided We Fall Nov 2, 2012
 *   Garance Franke-Ruta How to Tweet Responsibly During a Breaking-News… Nov 1, 2012
 *   Alexis C. Madrigal Credit Where It's Due: I Love the New Gmail Design Nov 1, 2012
@@ -162,23 +162,23 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Who Will Be Right This Time: Karl Rove or Nate Silver?  
+*   Republicans Blame Sandy for Killing Romney's Momentum  
     
-*   What's Behind Glenn Beck's Last Minute Cameo at a Romney Rally  
+*   Bombings Hit Bahrain After Government Bans Protests  
     
-*   The First Post-Sandy New Yorker Cover Invokes a Darker Time  
+*   Evidently, Israel Already Tried to Attack Iran  
     
 
-Last Update: 6:21 PM
+Last Update: 7:44 AM
 
+*   The Right to Recharge  
+    
 *   'We've Built Right Up to the Edge in the Most Foolish Way'  
     
-*   A Massive Earthquake in Istanbul Is Inevitable  
-    
-*   Bangalore Street Art Aimed at Curbing the Men Who Pee There  
+*   Gas Shortage Underscores NYC's Move Away From Hybrid Cabs  
     
 
-Last Update: 7:18 PM Most Popular
+Last Update: 7:23 PM Most Popular
 
 1
 
@@ -194,31 +194,31 @@ Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 4
 
-Things for Obama Supporters to Worry About
+Why Obama is Better for Israel Than Romney
 
 5
 
-SNL's Louis C.K. Episode: 5 Best Scenes
+No One in America Should Have to Wait 7 Hours to Vote
 
 6
 
-The Case for Obama and Against Liberal Despair
+Ohio's Provisional Ballot Order: The Biggest Legal Story of the Weekend
 
 7
 
-The Scariest Jobs Chart, Private Sector Edition
+Hurricane Sandy in Photos
 
 8
 
-Hurricane Sandy in Photos
+Sorting the Real Sandy Photos From the Fakes
 
 9
 
-And If the GOP Doesn't Win, What Then?
+Afghanistan: October 2012
 
 10
 
-Ohio's Provisional Ballot Order: The Biggest Legal Story of the Weekend
+Shame on the Republicans Who Curtailed Early Voting
 
 *   Subscribe Help
 *   Faq
