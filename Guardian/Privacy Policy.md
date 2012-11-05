@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** David Cameron put on the spot by cosy texts to Rebekah Brooks
-2.  2\. **Culture:** The 10 most difficult books to finish – in pictures
-3.  3\. **Sport:** What drives Jessica Ennis?
-4.  4\. **News:** Iran suspends uranium enrichment
-5.  5\. **Comment:** Barack Obama and the paradox behind his African American support base | Gary Younge
+1.  1.  **Technology:** Kim Dotcom: fund free NZ internet by suing Hollywood and US government
+2.  2\. **News:** Obama ahead in new poll as president's camp accuses Romney of desperation
+3.  3\. **News:** Gang attack blamed on Russia's ban on 'gay propaganda'
+4.  4\. **Football:** Premier League: 10 talking points from this weekend's action
+5.  5\. **Life &. style:** How to beat insomnia and sleep easy
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Technology:** Everyone wants a slice of Raspberry Pi
-2.  **Life &. style:** Observer sudoku
-3.  **News:** David Cameron put on the spot by cosy texts to Rebekah Brooks
-4.  **Life &. style:** Observer killer sudoku
-5.  **Sport:** What drives Jessica Ennis?
+1.  **Culture:** Cloud Atlas sweepstakes: Win tickets to the new film and a copy of the book
+2.  **News:** 'Bronco 'Bama and Mitt Romney' too much for four-year-old Abigael - video
+3.  **Film:** Lincoln: watch the exclusive international trailer - video
+4.  **Childrens' books:** Bonfire Night Quiz
+5.  **Books:** Alan Moore debut single released by Occupation Records
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  England made to toil and have Stuart Broad injury worry in Mumbai
-2.  2\. QPR v Reading - live!
-3.  3\. Ian Poulter wins World Golf Championship title in China
-4.  4\. Charles and Camilla visit Papua New Guinea – video
-5.  5\. What shall we do with the drunken sailors? Fire them
+1.  1.  Anfield sprinkler system soaks Liverpool fans - video
+2.  2\. Tory child sex ring claim: Cameron orders urgent inquiry
+3.  3\. Move over Alan Moore, let's hear your own political ballads | Open thread
+4.  4\. Windfarms: is community ownership the way ahead?
+5.  5\. Press Gazette's Top 50 Sports Writers, November 2012
 6.  All today's stories
 
 On the Guardian today
 
 1.  Life and style Mapping the body: the temple
-2.  World news Iran suspends uranium enrichment
-3.  Comment is free Barack Obama and the paradox behind his African American support base
-4.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-5.  Comment is free Who is the worst civil liberties president in US history?
-6.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+2.  Technology Kim Dotcom: fund free NZ internet by suing Hollywood and US government
+3.  World news Florida Republicans impinging on right to vote, say Democrats
+4.  World news Boy dies in wild dog pen at Pittsburgh zoo
+5.  World news Obama ahead in new poll as president's camp accuses Romney of desperation
+6.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
 
 *   License/buy our content
 |*   Privacy policy
