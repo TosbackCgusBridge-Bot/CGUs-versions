@@ -25,15 +25,13 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   Libya: The Truth?
-*   Hurricane Sandy
+*   Jeremiah Wright
 *   Campaign 2012
+*   Libya: The Truth?
 
 Take Action
 
-Report: Chris Christie Was Romney’s First Choice for VP — But a Bad Habit May Have Cost Him…
-
-Today at 1pm ET: Join Us for a Special Saturday Live BlazeCast — With Your Live Chat and Comments!
+Live Now on Blaze TV: Glenn Beck’s Sunday Night Election Special ‘America at a Crossroads’
 
 About TheBlaze
 
@@ -260,9 +258,9 @@ What is this? Sections
 
 Hot Topics
 
-*   Libya: The Truth?
-*   Hurricane Sandy
+*   Jeremiah Wright
 *   Campaign 2012
+*   Libya: The Truth?
 
 More from TheBlaze
 
