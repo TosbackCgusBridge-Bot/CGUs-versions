@@ -134,25 +134,25 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day HURRY! The Week's Best Deals Keep Cash in Your Pocket! $0 Value: Discount: You Save: $0 100% $0
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $69 for Duct Cleaning or New Insulation!  Save 65% or More! $69 Value: Discount: You Save: $299 77% $230
 
-Sunday: More Deals
+Monday: Target Deals
 
-1.  PARALEGAL
+1.  SALES
     
-    GREGORY LEYH, P.C.
+2.  Press &. Lamination Operators
     
-2.  PLUMBER/DRAIN CLEANER
+3.  PROGRAM DIRECTOR
     
-    Snake'n'Rooter
+4.  Parts Project Coordinator
     
-3.  Press &. Lamination Operators
+    Central Power Systems &. Services, Inc.
     
-4.  PROGRAM DIRECTOR
+5.  SEASONAL DRIVERS
     
-5.  SALES
+    Kelly Services
     
-6.  PROGRAM DIRECTOR
+6.  SALES
     
 
 View More The Most
@@ -160,16 +160,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Wildcats look like champs, but Kleins injury puts a scare into K-State
-*   Arrowhead anxiety: Turnover off the field causes concern
-*   K-State is 9-0 after beating Oklahoma State 44-30
-*   Chiefs linebacker Johnson punches through shroud of mediocrity
-*   Perry Ellis' time has arrived at KU
-*   Pedestrian killed on I-35 near Liberty
-*   Mizzou offense sputters in 14-7 loss to Florida
-*   Hereford House arson trial paints picture of desperation
-*   K-State-Oklahoma State game report
-*   Baylor hands Kansas its 18th straight Big 12 loss
+*   After latest injury, time may be up for Chiefs Glenn Dorsey
+*   Second man in a month punches KC bus driver
+*   Conference realignment goes well for some, not for others
+*   Early voting update
+*   KU basketball will be sorting out its rotation early in season
+*   Freshmen lead MU to exhibition win over Missouri Southern
+*   Recap: LA Lakers vs. Detroit
+*   K-State cruises past Emporia State in exhibition basketball
+*   Sporting KC falls to Houston to open conference semifinals
+*   Armando Salguero: Tannehill is good, but can't mask Miami Dolphins' issues
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
