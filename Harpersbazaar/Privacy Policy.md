@@ -15,6 +15,10 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
+The Style: Resortwear
+
+See November's short list to chic.
+
 Mr. Blasberg's Best-Dressed List: November 2nd, 2012
 
 Mr. Blasberg's Best-Dressed List: November 2nd, 2012
@@ -22,10 +26,6 @@ Mr. Blasberg's Best-Dressed List: November 2nd, 2012
 Outerwear Affair: Shop the Season's Best Coats
 
 Shop the top trends of the season in coats.
-
-On Fire
-
-The season's standout extras are haute and heavy.
 
 Beauty &. Hair  
 
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR Mr. Blasberg's Best-Dressed List: November 2nd, 2012 Outerwear Affair: Shop the Season's Best Coats On Fire Define Your Brows In 5 Easy Steps Supermodel Beauty SecretsRevealed! The Best Spring Nail Trends To Try Now Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Maison Martin Margiela x H&M Party Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR The Style: Resortwear Mr. Blasberg's Best-Dressed List: November 2nd, 2012 Outerwear Affair: Shop the Season's Best Coats Define Your Brows In 5 Easy Steps Supermodel Beauty SecretsRevealed! The Best Spring Nail Trends To Try Now Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Maison Martin Margiela x H&M Party Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
