@@ -3,7 +3,7 @@ Skip to content Skip to header Skip to main footer navigation
 *   Shop By:
 *   Tailored Fit
 *   Slim Fit
-*   \[Espot-FreeShip\] FREE SHIPPING ON ALL ORDERS $195+◊
+*   \[Espot-FreeShip\] FREE SHIPPING! NO MINIMUM!◊
 *   \[Espot-fly\_bkgrd\] Submit More Information \[Espot-fly\_open\]
 
 *   \[TopNav-eSpot\]
@@ -98,8 +98,8 @@ Netscape Navigator
 FREE  
 SHIPPING
 
-On all online orders  
-$195 or more◊
+NO MINIMUM  
+ORDER!◊
 
 Error messages:
 
