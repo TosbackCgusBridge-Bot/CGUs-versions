@@ -1,6 +1,6 @@
 (skip this header)
 
-Sunday Nov 04, 2012 5:05 AM PT
+Monday Nov 05, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,12 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Set clocks back
-*   Jasper Johns review
-*   World Series bats hidden in SF
-*   Best Monty Python moments
-*   $11K bra heist
+*   Chopra: Obama's morals
 *   Chron endorsements
+*   'Ralph' tops box office
+*   Bond through the years
+*   'Snicket' author's fortunate career
 
 *   Bay Area &. State
 *   Nation
@@ -340,6 +339,13 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Halloween 2012
+*   Marshawn Lynch buys Bay Area mansion
+*   World In Focus
+*   best campaigns 2012
+*   worst campaigns 2012
+*   100 best photos from the Giants' World Series run
+*   Final Presidential Debate
 *   Warriors edge Clippers, 114-110
 *   Stanford finds QB in Hogan and 48-0 win
 *   Nation in Focus
@@ -373,13 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   Nation in Focus
 *   World in Focus
 *   Sponsored: Gifts for Active People
-*   netflix
-*   Day in Pictures, Oct. 31, 2012
-*   Cosmopolitan Women of the Year Awards
-*   7th annual Museum of African Diaspora Gala
-*   Lance Armstrong
-*   San Quentin
-*   Apple Event Oct 23
 
 *   Most Read
 *   |
@@ -387,56 +386,53 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Intruder found dead in S.F. bathroom
-2.  SFPD relying on citizens with cameras
-3.  New Giants or old Dodgers: Who's better?
-4.  Police charge NYC nanny in stabbing death of kids
-5.  Horoscope, Q&A/Mailbag, 11/04/12
-6.  Warriors edge Clippers, 114-110
-7.  Daylight Saving Time Ends on Sunday – Change Your Clocks Back One Hour
+1.  Rule: Full playoff share to Melky Cabrera
+2.  Teacher fired over porn says she lost herself
+3.  Arizona group ordered to release records
+4.  The ten keys to winning the 2012 presidential election
+5.  Giants fever keeps kids out of school
+6.  Plan to bring Pier 70 back to life
+7.  2-year-old boy killed at Pa. zoo exhibit
 
-1.  Obama seems to have early voter lead in key states
-2.  S.F. runners angry N.Y. Marathon canceled
-3.  2 supervisor races have turned brutal
-4.  West Coast at risk for hybrid storms, too
-5.  Burglar dies while trying to flee S.F. house
-6.  SFPD relying on citizens with cameras
-7.  Bay Area money fills Obama campaign coffers
+1.  Much more rides on Prop. 30 than schools
+2.  PROMISES, PROMISES: Hours to go, promises to keep
+3.  Union: Raley's talks break down, strike called
+4.  The ten keys to winning the 2012 presidential election
+5.  Press pack reliably focused on Jeep fumes, not Benghazi
+6.  Merced County case study of economic woes
+7.  Arizona group ordered to release records
 
-1.  New Giants or old Dodgers: Who's better?
-2.  Superstorm spotlights home insurance
-3.  Lights in lower Manhattan, misery in outer regions
-4.  Much more rides on Prop. 30 than schools
-5.  Intruder found dead in S.F. bathroom
-6.  MY RIDE: 1948 Chrysler New Yorker
-7.  'Other Son' review: Switched at birth in Israel
+1.  Thank You, Mr. President. You Held Back the Worst
+2.  Off-road state park near Livermore debated
+3.  Rule: Full playoff share to Melky Cabrera
+4.  Bay Area money fills Obama campaign coffers
+5.  Critics: Pa. inflating success of charter schools
+6.  Beer aged like bourbon is the rage
+7.  Land of the Maya the way it was then
 
 loading... Latest News Videos From our homepage
 
 *     
-    AP / SF
+    Jennifer A. Dlouhy, Houston Chronicle / SF
     
-    New Giants or old Dodgers?
+    Hard lessons in Arctic drilling
     
-    S.F. is a throwback team, so who better to compare them to than L.A. teams of mid-1960s.
+    Six years and about $5B into its quest, Shell battles the obstacles of this forbidding frontier.
+    
+
+*   Crafty costumes winners are...
+    
+    There were many fab creations by parents and kids, but these are our picks. Tell us yours.
     
 
 *     
-    Paul Chinn, The Chronicle / SF
+    Christian Petersen, Getty Images / 2012 Getty Images
     
-    Little Brother is watching
+    Top 100 Giants playoff pics
     
-    Photos from cell phone users, social media helping SFPD pursue suspects like never before.
+    The best images from our World Series champs' amazing run.
     
-
-*     
-    Dylan Patrick / AP
-    
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 7:45 p.m., Saturday, November 3, 2012 Lights in lower Manhattan
-    
-    Residents had been in the dark for nearly five days by Sandy.
-    
-*   Christie orders gas rationing
+*   Giants: garage sale masterpiece
 
 *   Home
 *   News
