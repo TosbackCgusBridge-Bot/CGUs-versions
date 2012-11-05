@@ -1,5 +1,5 @@
   
-Users Online Now: **1,734** (Who's On?) Visitors Today: **381,606** Pageviews Today: **634,858** Threads Today: **267** Posts Today: **3,477** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,872** (Who's On?) Visitors Today: **430,686** Pageviews Today: **663,003** Threads Today: **309** Posts Today: **3,589** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,15 @@ trinity@godlikeproductions.com
   
 News
 
+*   CNN: Paranoid Much?
+*   McDelivery
+*   What Could Go Wrong? Christie Allows E-mail, Fax Voting
+*   The professional 'cuddler' who makes $260 a day
+*   NAACP ‘Ringleader’ Accused of Touching Voting Machine
+*   Nutella Loses Class Action Suit
+*   Sandy may deter storm victims from voting and extend US election
+*   Gun owners stock up on arms over fear of Obama re-election
+*   New York Faces Long-Term Housing Concerns After the Storm
 *   New Fake HIV Test to Target Poor
 *   Military Takes Over Election Day in New Jersey
 *   West Virginia: Traffic Stop Cannot Be Used to Justify Home Search
@@ -128,15 +137,6 @@ News
 *   Three States Add Their Names to the List of ObamaCare Nullifiers
 *   Megaupload and the Government's Attack on Cloud Computing
 *   Meth vaccine shows promising results in early tests
-*   Staten Island Borough President: Don’t Give Money to the Red Cross
-*   Will There Be A Q-E "Sandy" ?
-*   Troopers Deployed To N.J. Gas Stations As Frustration, Massive Lines Form At The Pump
-*   New York state asks Washington to cover all storm costs
-*   VIDEO: Four-year-old wants election to be over
-*   Parental stress linked to child obesity
-*   Cloning-like method targets mitochondrial diseases
-*   New Yorkers brace for post-Hurricane Sandy ‘ratpocalypse’
-*   Lawsuit claims jail guards flushed baby down toilet
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.046s (0 queries)
+Page generated in 0.067s (0 queries)
