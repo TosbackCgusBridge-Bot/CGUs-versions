@@ -108,13 +108,13 @@ Previous Privacy Policies
 Donate to EFF Stay in Touch  
 Follow EFF
 
-Payment processor @Stripe reinstates @niftyarchive, a publisher of erotic, legal, Constitutionally-protected fiction. https://eff.org/r.5aqe
+EFF urges California voters to oppose #Prop35. It's overbroad, misguided, and chills online speech. https://eff.org/r.5aqg
 
-Nov 2 @ 5:20pm
+Nov 4 @ 7:13pm
 
-Here's our take on the new DMCA exemptions for jailbreaking &. video remix, and how to make the process better https://eff.org/r.3aqd
+Rob Reid's newest book 'Year Zero' shows just how ridiculous the modern copyright system is. https://eff.org/r.4aqf
 
-Nov 2 @ 4:35pm
+Nov 4 @ 6:30pm
 
 *   Twitter
 *   Facebook
