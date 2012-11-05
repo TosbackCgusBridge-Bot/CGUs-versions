@@ -1,8 +1,6 @@
 Play Games at Miniclip.com P...Paintball Presidential Paintball Who will you choose?  
-Fight it out! Halloween treats Get your spooky table  
-Trick out your game RoboRampage Your weekly challenge Win the 2000ft award!  
-Robo Rampage Don't be scared! Halloween zone  
-Try our spooky games New games! Hit the homepage  
+Fight it out! RoboRampage Your weekly challenge Win the 2000ft award!  
+Robo Rampage New games! Hit the homepage  
 Great new games out now My Miniclip Credits
 
 *   Signup
@@ -32,14 +30,14 @@ Login With Facebook Login With Facebook In Your Language
 More Languages ›
 
 *   Miniclip Home
-*   Halloween
 *   Action
+*   8 Ball Pool
 *   Sports
 *   Play with Friends
 *   Puzzle
 *   iPhone
 *   Sketch Star
-*   Android
+*   3D
 *   More Categories
 
 Game Categories
