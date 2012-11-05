@@ -83,6 +83,8 @@ még több
 
 új projekt
 
+szigetvár mentőállomás, szigetvár
+
 kispesti uszoda, budapest
 
 öreg-tó, tata
@@ -91,28 +93,23 @@ kispesti uszoda, budapest
 
 messer hungarogáz kft. töltőüzem, budapest
 
-váci corner offices, budapest
-
 még több
 
 dossziék
+
+Dosszié: Széchenyi terv
+
+Dosszié: Passzív ház
 
 Dosszié: Hidak
 
 Dosszié: Megújuló energiaforrások
 
-Dosszié: Széchenyi terv
-
 Dosszié: Műemlék
-
-Dosszié: Közlekedés Operatív Program (KÖZOP)
 
 még több
 
 Aktuális programok
-
-építészettörténe  
-ti kiállítás nyílt győrben
 
 praktikum és babaszoba design kiállítás
 
@@ -122,13 +119,15 @@ jánossy györgy emlékkiállítása a hap galériában
 
 brassó építészete fotókon és előadásokon budapesten
 
+nyílt napokon mutatkoznak be a passzívházak
+
 épülettár apró
 
+redőny reluxa szerelés
+
+eladó családi ház: őrség
+
 bamboo-bambusz faiskola
-
-földhivatali idézés - épület feltüntetése : prizma földmérő kft debrecen
-
-teljes körű földmérés - geodézia, földhivatali ügyintézés- debrececen - prizma földmérő kft
 
 még több
 
@@ -146,7 +145,7 @@ vendéglátás, turisztika \[584\]
 
 oktatás \[330\]
 
-egészségügy \[107\]
+egészségügy \[109\]
 
 egyház, vallás \[2185\]
 
@@ -160,13 +159,13 @@ kulturális \[1034\]
 
 szórakoztatás \[66\]
 
-sport \[109\]
+sport \[110\]
 
 közigazgatás-igazságügy \[93\]
 
-fürdő, wellness \[98\]
+fürdő, wellness \[99\]
 
-ipar, ipari park, logisztikai központ \[280\]
+ipar, ipari park, logisztikai központ \[281\]
 
 műemlék \[804\]
 
