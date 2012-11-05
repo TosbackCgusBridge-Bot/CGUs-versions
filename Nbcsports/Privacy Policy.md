@@ -1,78 +1,78 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Alabama pulls out a big one
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Pulpit politics: Pastors endorse candidates to protest 1954 law
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Tim Shaffer / Reuters Saints set to ground Eagles?
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Kevin C. Cox / Getty Images These Falcons refuse to flinch
     
-    PFT's Picks: New Orleans primed to deliver knock out punch to Michael Vick and Philadelphia, plus other predictions this weekend.
+    PFT: Atlanta's 8-0 start hasn't been perfect, but there's something to be said for a balanced, talented team that delivers when it matters.
     
-    PFT: Vick, Reid had 'heart-to-heart' meeting Reid: Vick is the starter, period Rotoworld: Midseason mock draft PFT: Saints' Sproles sidelined with broken hand PFT: NFL wise to play Steelers-Giants on Sunday? PFT: Dungy says same-day travel not a big deal PFT: MJ has advice for neighbor Newton PFT: Chargers stick up for Turner with win Ad
+    Atlanta (8-0) edges Dallas   |  Highlights Steelers snap Giants' win streak   |  Images PFT: Martin's 251 rushing yards boost Bucs Luck throws for rookie record   |  Pagano visits Cam outguns RG3   |  Team effort  |  Bummed 'Skin D scores 2 more TDs, Bears crush Titans   |  Video PFT: Titans owner puts coaches, players on notice Could the Saints lose Sean Payton? Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Darren Calabrese / AP Rivera 'wants to play' in '13
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Reed Saxon / AP Greinke may not be worth it
     
-    HBT: Mariano Rivera contacts Yankees GM Brian Cashman and makes it clear he's not ready to retire after his ACL injury.
+    HBT: Free agent will earn a massive payday, but given his last three seasons and the other pitchers available, teams may want to reconsider.
     
-    HBT: Police make arrests in killing of Perez Athletics, suspended Colon agree on 1-year deal Red Sox, Ortiz reach $26 million deal HBT: Haren free agent after deal fails, option nixed HBT: Here's top 50 free agents DeMarco: Bargains to be had in free agent market HBT: MLB, MLBPA donate $1 million to Sandy relief HBT: McGwire reportedly new Dodgers hitting coach Ad
+    HBT: Hamilton, Greinke among top 50 free agents HBT: Dodgers might want reunion with Kuroda HBT: Padres could be a fit for free agent Haren DeMarco: Bargains to be had in free agent market HBT: Rockies are down to four candidates HBT: Rivera tells Yanks he 'wants to play' in '13 HBT: Police make arrests in killing of Perez HBT: Colon's deal with A's could be worth $6M Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Paul Sancya / AP NHL cancels Winter Classic
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Bruce Bennett / Getty Images Finally, they agree on something
     
-    PHT: It's the biggest blow yet because of the league's labor woes — the annual outdoor classic has been scrapped. The Leafs and Wings were set to play at the University of Michigan on Jan. 1.
+    PHT: Maybe it really is time to be optimistic. NHLPA Special Counsel Steve Fehr agrees with Bill Daly's encouraging words about Saturday's marathon meeting.
     
-    PHT: Michigan will get Winter Classic in '14 NHL labor talks resume after more than 2 weeks off PHT: Fehr explains NHL 'make whole' concession PHT: NHL, union won't turn to mediator yet PHT: 3 reasons fans might not come back PHT: Is this really worth it for players? PHT: AHL team scores twice in 3 seconds Pocklington gets probation extended Ad
+    NHL and union make progress, will meet again soon PHT: NHL cancels Winter Classic because of lockout PHT: Michigan will get Winter Classic in '14 PHT: Fehr explains NHL 'make whole' concession PHT: NHL, union won't turn to mediator yet PHT: 3 reasons fans might not come back PHT: Is this really worth it for players? PHT: AHL team scores twice in 3 seconds Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Wilfredo Lee / AP Bosh's 40 help Heat edge Nuggets
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Layne Murdoch / Getty Images Contributor Hawks surge past Thunder
     
-    Ray Allen had a four-point play with 6.7 seconds left that put Miami ahead for good, Chris Bosh scored 40 points and the Heat held off the Denver Nuggets 119-116 on Saturday night.
+    Kevin Durant just misses his first career triple-double, but it's still not enough to beat a Josh Smith-less Atlanta team.
     
-    Nets take down Raptors in delayed home opener Pierce leads Celtics past Wizards for first win Blazers slow Harden, take down Rockets in OT Hornets, without Davis, defeat Bulls Pacers outlast Kings in double OT Mayo, Mavericks dominate Bobcats Warriors hand Clippers first loss Parker steers Spurs past Jazz Ad
+    Lakers get first win of season in a rout PBT: Howard, 'Melo, Martin were Sunday's stars PBT: Recaps from all of Sunday's NBA games PBT: 'Melo, Knicks still look good, throttle 76ers CSN highlights: New York dominates Philly Lowry scores 22, Raptors beat Timberwolves 105-86 PBT: Ginobili 'satisfied' with return to Spurs PBT: Disgraced ref wants to be sports handicapper Ad
 *   CFB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Gerald Herbert / AP Alabama pulls out a big one
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Stephen Dunn / Getty Images Ducks, Irish flip in BCS standings
     
-    T.J. Yeldon sped into the end zone with a pass from 28 yards out with 51 seconds left, and No. 1 Alabama survived against No. 5 LSU 21-17.
+    CFT: Alabama and K-State stayed 1-2 in the latest BCS standings, but Oregon jumped over Notre Dame into third.
     
-    CFT's Fifth Quarter: Special 'Bama-LSU edition CFT: McCarron comes through when called on CFT: Overexcited Hebert booted from LSU press box CFT: No. 2 Oregon flies over USC| Barner's big night CFT: No. 3 K-State cruises, but Klein injured Notre Dame Central: Irish rally past Pitt in 3OT No. 7 Georgia closing in on SEC East title No. 6 OSU all over Illinois   |  What could've been Ad
+    Heisman Hopefuls: Barner races up the rankings CFT's Fifth Quarter: Special Alabama-LSU edition McCarron has Heisman-like moment for No. 1 Alabama Alabama pulls out a big one to beat LSU CFT: Overexcited Hebert booted from LSU press box CFT: UK coach Phillips out at end of season CFT: No. 2 Oregon flies over USC| Barner's big night Questions swirl No. 3 K-State after Klein's injury Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Jonathan Daniel / Getty Images Why wait?
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Jared C. Tilton / Getty Images Johnson wins at Texas
     
-    Brad Keselowski, 28, is wrapping up only his third full season at NASCAR's highest level and should have plenty more title chances, but that doesn't mean he wouldn't love to overtake Jimmie Johnson and win the Sprint Cup title this year.
+    Jimmie Johnson regained the lead on the final restart, beating Brad Keselowski in an ending two-lap shootout to win Sunday at Texas and add to his NASCAR Sprint Cup points lead with two races left.
     
-    Keselowski standing in Johnson's way of 6th title Cup leader Johnson on Texas pole, Keselowski 8th Danica will have to get used to 'old man' Danica's 1 regret about bumping Cassill: execution Jimmie Johnson, NASCAR giving to Sandy efforts Harvick wins at Texas, Nationwide title chase tied Belskus: IndyCar moving on, bullish about future Hamilton secures pole at Abu Dhabi GP Ad
+    Jimmie Johnson, NASCAR giving to Sandy efforts Harvick wins at Texas, Nationwide title chase tied Kimi Raikkonen wins Abu Dhabi GP Danica will have to get used to 'old man' Danica's 1 regret about bumping Cassill: execution Belskus: IndyCar moving on, bullish about future Ecclestone dismisses concerns about Bahrain GP Randy Bernard steps down as IndyCar CEO Ad
 *   BKC
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Darron Cummings / AP Indiana is No. 1
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Damian Dovarganes / AP UCLA's point guard clarified
     
-    CBT's top 25 countdown: The Hoosiers may be the favorite, but if they can’t fix some of their problems on the defensive end of the floor, they could end up getting picked off in the NCAA tournament by a team that gets hot on the right night.
+    CBT: Is Larry Drew II going to run the show for the Bruins or will it be Kyle Anderson? Well, here's some help.
     
-    CBT: Zeller tops our center rankings Conference previews: Summit  |  Southern Conference previews: Patriot  |  Ohio Valley CBT's top 25 countdown: Louisville No. 2 Arizona, UCLA lead way in Pac-12 preseason poll Stan Van Gundy to analyze games on NBCSN CBT: Buzzing about Marquette's new look CBT: Baylor lands another talented big man Ad
+    CBT's top 25 countdown: Indiana is No. 1 Position rankings: PGs  |  SGs  |  SFs  |  PFs  |  Cs CBT: Kentucky to raise money for Sandy fallout Spartans show off Armed Forces Classic uniforms CBT: The toilet paper game still must-see video Ex-Indiana signee Patterson commits to 'Cuse Conference previews: Summit  |  Southern Conference previews: Patriot  |  Ohio Valley Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines The risks/rewards of changing equipment
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines What We Learned: WGC-HSBC
     
-    A set of clubs can be a golfer's best friend. So what happens when that relationship is severed? Rory McIlroy is about to find out.
+    From a teen phenom earning a Masters bid to auctioning off Rory McIlroy's infamous Ryder Cup ride, here is What We Learned.
     
-    Poulter rides Ryder Cup momentum, wins HSBC Report: McIlroy, Nike reach deal, shoot commercials Behind the scenes with ... Charlie Rymer Cop car that raced Rory to Medinah to be auctioned Report: Bradley says he'll challenge anchoring ban Lewis comes from seven back, wins Mizuno Snedeker, Westwood continue red-hot scoring on Tour Tip of the Week: Learn to groove your takeaway Ad
+    Guan, 14, wins Asia-Pacific Am. gets Masters bid What We Learned: WGC-HSBC Report: McIlroy, Nike reach deal, shoot commercials Quotes of the Week Lehman cruises to second straight Schwab Cup title Cop car that raced Rory to Medinah to be auctioned Behind the scenes with ... Charlie Rymer Report: Bradley says he'll challenge anchoring ban Lewis comes from seven back, wins Mizuno Tip of the Week: Learn to groove your takeaway Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Patrick Mcdermott / Getty Images DC, Red Bulls in crazy tie
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Victor Decolongon / Getty Images San Jose's in control (kinda)
     
-    PST: Two own goals and a side trip into Crazy Town for one young D.C. United man made for a strange evening at RFK Stadium as the home team and the New York Red Bulls began their two-game series with a 1-1 draw.
+    PST: Earthquakes have reigning MLS champs on brink of elimination after 1-0 win, but that's not necessarily because they were the better team.
     
-    Highlights: DC, NY draw in first leg PST: Earthquakes-Galaxy preview PST: Rimando saves day for RSL Watch Rimando make save after save Not much of an Impact: Marsch steps down Roundup: Man U leads Premier League Opinion: Man U flying with Wayne-Man, Robin PST: Galaxy lucky to advance Ad
+    Earthquakes beat Galaxy in extra time Dynamo beats Sporting 2-0   |  Highlights PST: Moffat delivers for Houston  |  His take PST: Vermes says layoff didn't hurt K.C. Can Kansas City make a comeback? Euro giants struggling in Champions League PST: DC United, Red Bulls tie in first game Highlights: DC and NY draw in first leg Ad
 *   Horses
     SectionsOverview Latest news Watch live racing Results Entries Latest videos Free racing game Bet now  
     Headlines Jae C. Hong / AP Long shot Fort Larned wins Classic
     
     Saturday’s $5 million Classic delivered a fitting conclusion to the Breeders’ Cup World Championships, with an exciting battle to the finish line between two of Thoroughbred racing’s best, Fort Larned and Mucho Macho Man. In the end, Fort Larned denied his rival by a half-length.
     
-    Derby favorite? Wise Dan wins the BC Mile Little Mike wins Breeders' Cup Turf Trinniberg springs upset in Breeders' Cup Sprint Filly Mizdirection wins BC Turf Sprint Tapizar takes the BC Dirt Mile at 15-1 Groupie Doll wins BC Filly &. Mare Sprint George Vancouver wins BC Juvenile Turf Ad
+    Derby favorite? DeRosa: A truly championship weekend Replays: Classic  |  Juvenile  |  Turf  |  Ladies' Pursuit of the Cup: Recapping Breeders' weekend Mile: Wise Dan stakes Horse of the Year claim Turf: Little Mike scorches the field in 2:22 4/5 Juvenile: Shanghai Bobby survives scary moments Filly &. Mare Sprint: Groupie Doll makes it 5 straight Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines RUBEN SPRICH / Reuters Vonn's request rejected
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Streeter Lecka / Getty Images Lolo says she can beat Denard
     
-    Lindsey Vonn's request to compete in a men's World Cup downhill race was denied by the International Ski Federation on Saturday.
+    Off the Bench: USA hurdler Lolo Jones says she can beat Michigan QB Denard Robinson in a race.
     
-    Campbell, first black Olympic decathlon winner, dies Heat unveil Olympic banner for LeBron James Asada wins Cup of China with strong free skate Richardson sweeps at Long Track Championships Indonesia lifts ban on Olympic badminton pair OlympicTalk: Keeps getting worse for Lance OlympicTalk: Swimmer Thorpe denies he's gay OlympicTalk: Will Phelps be golfing in Rio? Ad
+    Campbell, 1st black Olympic decathlon winner, dies FIS rejects Vonn's request to race against men Richardson wins 1,500 at Long Track Championships Le Clos voted South Africa's sports star of 2012 Campbell, 1st black Olympic decathlon winner, dies Heat unveil Olympic banner for LeBron James Asada wins Cup of China with strong free skate Richardson sweeps at Long Track Championships Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Outdoors Tennis Action sports Fight Night Tickets Headlines Getty Images file. Reuters file First Fan credentials
+    SectionsOther sports Off the Bench Cycling Outdoors Tennis Action sports Fight Night Tickets Headlines Mehdi Taamallah / AFP - Getty Images Canceled? Tell it to the runners
     
-    Slideshow: How do Barack Obama and Mitt Romney stack up when it comes to their sports backgrounds?
+    Even though their race was called off, marathoners were still on the move in New York on Sunday.
     
-    The Week in Sports Pictures Serena says it's 'matter of time' until No. 1 again Czech Republic closing in on Fed Cup repeat Mich. high school says football player was 21 Huck beats Arslan to retain WBO cruiser belt Keflezighi understands decision to cancel marathon NYC Marathon runners fill unexpected free time Opinion: NYC Marathon debacle didn't have to be Ad
+    Opinion: NYC Marathon debacle didn't have to be Kemboi wins Soweto Marathon in new record Slideshow: Compare Obama, Romney sports cred The Week in Sports Pictures Serena says it's 'matter of time' until No. 1 again Czechs beat Serbia to keep Fed Cup title Cycling sponsor suing UCI over Armstrong saga Mich. high school says football player was 21 Ad
 
 *   Scores
 *   Odds
@@ -191,11 +191,11 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com PFT's Picks: Saints set to ground Eagles?  
-CFT's Fifth Quarter: Special Alabama-LSU edition  
+Tweet Also on NBCSports.com PFT: Falcons refuse to flinch  |  Cowboys fall short  
+CFT: Week 10 Rewind in college football  |  Latest BCS  
 HBT: Top 50 free agents  |  Bargains to be had  
 Breeders' Cup: Complete coverage of races from Santa Anita  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
-AdChoices SportsNFL College football MLB NBA NHL College basketball NASCAR/Motors Golf Tennis Soccer Other Sports Quick linksScores RSS Feeds Tickets TV Listings Fantasy Games Universal Sports NBC Sports Feedback Go Mobile Shop NBC TV Listings **Day** **Time** **Event** **Location** **Talent** **Saturday, Nov. 3** 2:30 - 3:30 p.m. Sports Illustrated N/A N/A 3:30 - 7 p.m. Pittsburgh at Notre Dame South Bend, Ind. Dan Hicks, Mike Mayock, Alex Flanagan 8 - 9 p.m. Breeder's Cup Santa Anita, Calif. Tom Hammond, Gary Stevens, Randy Moss, Mike Battaglia, Kenny Rice, Bob Neuemeier, Donna Brothers, Larry Collmus, Carolyn Manno **Sunday, Nov. 4** 2:30 - 3:30 p.m. World of Adventure Sports TBA Todd Harris 3:30 - 6 p.m. MLS: Conference Semifinals: Kansas City at Houston Houston, Texas Arlo White, Kyle Martino, Russ Thaler 7 - 8:20 p.m. Football Night in America New York Bob Costas, Dan Patrick, Tony Dungy, Rodney Harrison, Peter King, Alex Flanagan, Mike Florio, Hines Ward 8:20 - Conclusion Sunday Night Football: Cowboys at Falcons Atlanta Al Michaels, Cris Collinsworth, Michele Tafoya Note: All times ET
+AdChoices SportsNFL College football MLB NBA NHL College basketball NASCAR/Motors Golf Tennis Soccer Other Sports Quick linksScores RSS Feeds Tickets TV Listings Fantasy Games Universal Sports NBC Sports Feedback Go Mobile Shop NBC TV Listings **Day** **Time** **Event** **Location** **Talent** **Saturday, Nov. 10** 2:30 - 3:30 p.m. Red Bull Signature Series Hurricane Mills, Tenn. Jason Weigandt, David Bailey, Alex Curry 3:30 - 6 p.m. MLS Conference Championship: TBD TBD Arlo White, Kyle Martino, Russ Thaler **Sunday, Nov. 11** 4 - 6 p.m. ISU Grand Prix of Figure Skating Moscow, Russia Terry Gannon, Peter Carruthers, Tara Lipinski 7 - 8:20 p.m. Football Night in America New York Bob Costas, Dan Patrick, Tony Dungy, Rodney Harrison, Peter King, Alex Flanagan, Mike Florio, Hines Ward 8:20 - Conclusion Sunday Night Football: Texans at Bears Chicago Al Michaels, Cris Collinsworth, Michele Tafoya Note: All times ET
