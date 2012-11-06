@@ -17,7 +17,7 @@ Try: Cool Nails Dating Advice Homecoming Dresses
 *   Traumarama
 *   Share Your Thoughts
 
-What Was Your First Kiss Like?
+Share Your Tips For Having Fun Without Spending A Ton Of Money!
 
 *   Shopping
 *   Celeb Makeovers
@@ -98,17 +98,17 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     Find The Perfect College For You!
 *   entertainment
     
-    17 Minutes With Bridgit Mendler
+    One Direction Blowout
 *   fashion
     
-    The Best Scarves Under $17
+    The Right (&. Wrong!) Way to Wear Bras
 *   love
     
-    Enter Your Guy in a Boyfriend Battle!
+    Flirty Text Message Ideas!
 
-Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
+Post a comment Our privacy policy has changed.Click here for details Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win Beyonce Heat, which smells fruity and fresh. Type in the Freebie Phrase of the Day, found in the November Issue!
+**1 Winner!** Enter for a chance to win L'eau de Chloe--super-luxe and feminine. Type in the Freebie Phrase of the Day, found in the November Issue!
 
  enter now 
 
@@ -131,8 +131,8 @@ Most Popular Celebs
 
 *   Demi Lovato
 *   Justin Bieber
-*   Miley Cyrus
 *   Selena Gomez
+*   Miley Cyrus
 
 More Celebs
 
