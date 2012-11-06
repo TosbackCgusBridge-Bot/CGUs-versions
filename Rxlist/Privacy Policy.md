@@ -1,7 +1,7 @@
 *   Like Us
 *   Follow Us
 
-Pill Identifier Search November 5, 2012
+Pill Identifier Search November 6, 2012
 
 *   Home
 *   Drugs A-Z
@@ -296,11 +296,11 @@ Featured Topics
 
 New &. Updated
 
+*   Antivert
+*   Clomid
 *   Fycompa
-*   H.P. Acthar Gel
 *   Jetrea
-*   Rituxan
-*   Twynsta
+*   Synribo
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
