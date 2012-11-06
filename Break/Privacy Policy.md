@@ -4,6 +4,16 @@ Break
 *   _Popular_
 *   _Channels..._
     
+    *   SONY PICTURES HOME ENTERTAINMENT PRESENTS **Action Unleashed** _Hottest new action movies_
+    *   Super Funny Videos
+    *   Pranks &. Fails
+    *   Bizarre &. Amazing
+    *   All The Animals
+    *   Sports
+    *   Gaming
+    *   Trailers &. Clips
+    *   Heartwarming
+    
        
 
 Search 
@@ -122,8 +132,6 @@ Other Good Stuff
 *   Football Injuries
 *   Trick Shots
 
-© 2012 Break Media. All rights reserved. Advertise with us | Terms | Privacy | Feedback | RSS
-
 Other Networks  
 
 *   Made Man
@@ -139,4 +147,4 @@ Also Available On  
 *   Get it on Google Play. 
 *   Download for Windows Phone. 
 
-Follow Us  Follow @Breakcom YouTube Subscribe
+Follow Us  Follow @Breakcom YouTube Subscribe Advertise with us | Terms | Privacy | Feedback | RSS | Go back to old Break © 2012 Break Media. All rights reserved.
