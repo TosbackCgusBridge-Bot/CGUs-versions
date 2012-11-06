@@ -88,6 +88,7 @@
     *   Shop by Category
     *   Christmas Gifts
     *   Thanksgiving Gifts
+    *   Hanukkah Gifts
     *   Birthday Gifts
     *   Thank You Gifts
     *   Halloween Gifts
@@ -98,7 +99,6 @@
     *   Graduation Gifts
     *   Holiday Brunch Gifts
     *   International Food Gifts
-    *   Hanukkah Gifts
 *   Home Décor &. Accessories
     *   Features
     *   Best Selling Gifts
