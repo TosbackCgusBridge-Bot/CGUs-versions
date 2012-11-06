@@ -1,28 +1,3 @@
-*   VIDEO The Halloween lobster
-*   VIDEO 7 Year Old Blind Prodigy Shocks Jazz World
-*   VIDEO Bicycle Fail Compilation
-*   TIME FOR BATTLE VIDEO The Saga Continues
-*   CONTEST GALLERY eBaum's World Halloween Costume Contest
-*   DISNEY GREATS BLOG 10...
-*   VIDEO Octopus Eating A Crab
-*   GAME FrankenSplit
-*   VIDEO Guy Dunks Head In Piss Bucket
-*   VIDEO Wingsuit Flying in Malaysia - Red Bull Team
-*   VIDEO The Ultimate Nutshots Compilation
-*   BLOOD BATH SALTS BLOG Bath Salts: Hilarious New Cause of Tragedy
-*   VIDEO Hurricane Sandy Drifting
-*   DEMOLITION! PARTNER Cedar Point's Space Spiral Demolition
-*   VIDEO Dude Rides Jet Ski During Hurricane Sandy
-*   VIDEO Bike Ramp Lake Jump Fail
-*   Y SO CURIOUS? BLOG 5 Curious George Books Banned by the PTA
-*   EBAUM'S QUIZ GAME Quiz: What Kind of eBaum's user are you?
-*   YOUR DEAD BODY BLOG What to do With Your Dead Body
-*   CUBE MAPPING PARTNER 3D Cube Mapping Demo
-*   VIDEO Bird...
-*   VIDEO Motorcyclist Gets Hooked During Race
-*   VIDEO Chinese Man Sues His Wife For Being Ugly
-*   VIDEO Pablo Sandoval Hits Three Homers In Game 1
-
 Privacy Policy Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information.  
   
 This policy is incorporated to the Service's Terms of Service (the "Terms of Service" or the "Terms").  
@@ -108,28 +83,3 @@ Viumbe, LLC
 San Francisco, CA 94103.  
   
 Last updated: March 31, 2011.
-
-EBAUM'S PICKS The Best Of The Month: October 2012 Paramedic's Stretcher Fail Fan Rewards Her Team For Winning Woman's Running Of The Bulls Fail Top 5
-
-*   *   56,389
-    *   Totally Radical Old School
-*   *   51,889
-    *   Best Viral Pics of The Week Compilation
-*   *   34,605
-    *   GIFMANIA
-*   *   30,562
-    *   Keion Bell Dunks Over 6 People
-*   *   27,841
-    *   Awesome Slip And Slide
-
-POPULAR GALLERIES Amazing Life Hacks Monday Morning Randomness POPULAR GAMES Horror Plant 2 FrankenSplit Cloud Wars Election Ejection 2012
-
-*   Forum
-*   Advertising
-*   Privacy
-*   Terms
-*   DMCA
-*   Contact
-
-If you are the original creator of material featured on this website and want it removed, please contact the webmaster.  
-Copyright &copy 1998-2012 Viumbe, LLC
