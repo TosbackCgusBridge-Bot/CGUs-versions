@@ -33,36 +33,36 @@ The president's campaign co-chair is more than a (very) pretty face
 
 *   Miranda Kerr Is Esquire UK's Sexiest Woman Alive 2012
 
-Style Secrets of James Bond's Skyfall Suits, from the Costume Designer
+Style How to Dress Better Now That the Sun's Setting a Damn Hour Early
 
-A conversation with the woman behind 007's reinvigorated style
+We've fallen back to mark the end of Daylight Savings, which means it's time to bust out the evening wear
 
-*   Fall Forward, Not Back, with  
-    New Watches to Buy Online
+*   A Pomade That Won't Let You Down
 
-*   Nike's Sporty but Subdued Sneaker
+*   The Best Online Fashion Sales for Men Today
 
-*   Berg &. Berg Scarves Hit the Web, Just In Time for the Cold
+*   Best-Dressed Hollywood Man  
+    Just Now: Dress Like That
 
-News &. Politics The Homeland Episode 6 Recap with Alex Berenson
+News &. Politics Charles P. Pierce on Election Day 2012
 
-In which things get violent, and set up the last six episodes for really good or really bad
+The Politics Blog's live coverage from every swing state begins with a look back at the obstacle course that got us here...
 
-*   Pierce on the Weekend the Pundits Went Nuts
+*   End-to-End at the Last Early-Voting Line in Florida
 
-*   Charles P. Pierce on the Trail with Obama
+*   Sandy's Secondary Disaster: The Institution of Voting
 
-*   Inside a Florida Mega-Church on Election Sunday, a Strange Faith
+*   New Soderbergh: The Instant Trailer Review
 
-Food &. Drink The Hurricane Heroes to Salute
+Food &. Drink Cocktail of the Week: Make This One Tonight
 
-Rescue workers, Lydia Callis, the battered states, and everyone who made a difference
+A rum fizz. With whiskey.
 
-*   Romney's Big Final Ad: BBQ?
+*   The Wisdom of Emeril Lagasse, on _Treme_
 
-*   What They're Talking About at America's Bars After Sandy
+*   WATCH: Will Ferrell's Obama Ad
 
-*   The Future of _Top Chef_ Is Now
+*   The Hurricane Sandy Heroes to Salute
 
 Women
 
