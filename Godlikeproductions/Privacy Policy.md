@@ -1,5 +1,5 @@
   
-Users Online Now: **1,872** (Who's On?) Visitors Today: **430,686** Pageviews Today: **663,003** Threads Today: **309** Posts Today: **3,589** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,995** (Who's On?) Visitors Today: **417,499** Pageviews Today: **660,806** Threads Today: **356** Posts Today: **4,283** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,9 @@ trinity@godlikeproductions.com
   
 News
 
+*   Obama Ends Campaign in Half-Empty Arena
+*   Small Business Owner: I’ll Invest In 100 New Jobs – If Romney Wins
+*   EPA Planning Scorched Earth Assault on Coal
 *   CNN: Paranoid Much?
 *   McDelivery
 *   What Could Go Wrong? Christie Allows E-mail, Fax Voting
@@ -134,9 +137,6 @@ News
 *   The Kremlin’s New Internet Surveillance Plan Goes Live Today
 *   Archaeologists uncover oldest prehistoric town in Europe
 *   Enough Spent on Welfare in 2011 to Give Every Poor Household Nearly $60,000
-*   Three States Add Their Names to the List of ObamaCare Nullifiers
-*   Megaupload and the Government's Attack on Cloud Computing
-*   Meth vaccine shows promising results in early tests
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.067s (0 queries)
+Page generated in 0.017s (0 queries)
