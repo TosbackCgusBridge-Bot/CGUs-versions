@@ -382,7 +382,7 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   Ballot propositions |  Learn about the races and candidates |  Editorial endorsements
+*   Endorsements |  Learn about the races and candidates |  Ballot propositions |  Voting Guide
     
 
 Privacy Policy &. User Agreement
@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 100 comments
-*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 60 comments
-*   Editorial: The Star's ballot endorsements in Tuesday election Published 11/3/2012 at 3:00 p.m. 49 comments
-*   Camarillo residents say their neighborhood stinks and is causing illness Published 11/3/2012 at 7:42 p.m.
-*   Police seeking witnesses to Thousand Oaks fatal crash Updated 11/4/2012 at 6:41 p.m.
+*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 174 comments
+*   Editorial: The Star's ballot endorsements in Tuesday election Published 11/3/2012 at 3:00 p.m. 84 comments
+*   Rio Lindo School principal's arrest shocks Oxnard parents Published 11/5/2012 at 4:21 p.m.
+*   Ventura County drivers involved in fatal traffic crash Updated 11/5/2012 at 5:00 p.m.
+*   Relics stolen from San Buenaventura Mission in Ventura, church officials say Updated 11/4/2012 at 10:36 p.m.
 
-Photo Galleries Ventura County's Most Wanted November… Wal-Mart's new strategies allow… What was that over Camarillo?
+Photo Galleries Gary Galloway Memorial Flag Football… Ventura County's Most Wanted November… Dia de los Muertos celebration
 
-*   Morning chat Published 11/2/2012 at 12:00 a.m. 125 comments
-*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 100 comments
-*   Krauthammer: Tuesday could change America Published 11/1/2012 at 2:40 p.m. 107 comments
-*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 60 comments
-*   Editorial: The Star's ballot endorsements in Tuesday election Published 11/3/2012 at 3:00 p.m. 49 comments
+*   Ventura County voters are nearly flawless in picking presidential winners Updated // at : 174 comments
+*   Editorial: The Star's ballot endorsements in Tuesday election Updated // at : 84 comments
+*   Morning chat Updated // at : 125 comments
+*   Wal-Mart's new strategies allow access into Ventura County cities Updated // at : 63 comments
+*   Paulson: Trust, transparency and politics Updated // at : 41 comments
 
-*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 26 comments
-*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
-*   Local relatives, friends mourn 2 children stabbed to death in nanny case Published 10/26/2012 at 8:25 p.m. 0 comments
-*   Fairgrounds officials object to Christian band P.O.D.'s lyrics, cancel concert Published 10/25/2012 at 6:13 p.m. 102 comments
-*   Stonehaus to add touch of Tuscany to Westlake Village Inn Published 10/30/2012 at 5:51 p.m. 0 comments
+*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Updated // at : 26 comments
+*   Shirley: Medical device tax will impact jobs and costs Updated // at : 0 comments
+*   Oxnard school principal arrested after alleged road rage incident Updated // at : 0 comments
+*   Stonehaus to add touch of Tuscany to Westlake Village Inn Updated 10/30/2012 at 6:05 p.m. 0 comments
+*   La Reina High mock trial team wins world tournament Updated 10/29/2012 at 2:32 p.m. 5 comments
 
 Weather
 
@@ -660,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 70° Fair Wind: NE 12mph Today 87° 55° Mon 05:00 PM Sunny Temp: 73° Tue 05:00 AM Clear Temp: 56° Tue 05:00 PM Clear Temp: 67°
+Currently 56° Fair Wind: Calm Today 80° 57° Tue 05:00 PM Clear Temp: 66° Wed 05:00 AM Clear Temp: 57° Wed 05:00 PM Partly Cloudy Temp: 61°
 
-Feels Like: 73°
+Feels Like: 66°
 
-Humidity: 34%
-
-Precip: 0%
-
-Feels Like: 56°
-
-Humidity: 64%
+Humidity: 49%
 
 Precip: 0%
 
-Feels Like: 67°
+Feels Like: 57°
 
-Humidity: 47%
+Humidity: 77%
 
-Precip: 0%
+Precip: 4%
+
+Feels Like: 61°
+
+Humidity: 86%
+
+Precip: 4%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -687,9 +687,9 @@ Is it Spring yet? 3/20/12
 Reader Snapshots 12/10/11  
 8:25 a.m.  
 Reader Snapshots 11/6/11  
-8:10 p.m.  
-Reader Snapshots 11/6/11  
 8:00 p.m.  
+Reader Snapshots 11/6/11  
+8:10 p.m.  
 Untitled 3/24/11  
 8:18 a.m.  
 More Weather » Social
@@ -700,22 +700,22 @@ More Weather » Social
 *   Blogs
 *   Twitter
 
-95 percent accurate\*
+Follow @vcstar 95 percent accurate\*
 
+*   'Wisdom' of the crowd?
 *   Dirty tricks of the closing days
 *   National analyst nudges 24th CD toward 'toss-up' status
 *   Who is Nicole Parra?
-*   Strickland mailer shows he's going after every vote
 
 Brian Dennert here
 
-*   Share with us your campaign pictures
-*   Simi Valley School Board: I support Dan White
+*   Election day predictions?
+*   I support Dr. Lee Rogers
 
 Ingemusings
 
+*   McClintock on the propositions
 *   LA Times: Romney electioneers while Obama worries about storm's impact
-*   Poll shows Jesse Jackson Jr. has "whopping" lead
 
 More bloggers Wire
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Monday Nov 5
 *   Tuesday Nov 6
 *   Wednesday Nov 7
+*   Thursday Nov 8
 *   More BROWSE Icon
-
-*   Artists Three at Doyon Studio &. Gallery Doyon Studio and Gallery 9 a.m.
-*   My Baby Is In The NICU, Now What? Rainbow Connection Family Resource Center 10 a.m.
-*   “My Baby Is In The NICU, Now What?” Rainbow Connection Family Resource Center 10 a.m.
-*   Free Movie Matinee Grant R. Brimhall Library 1 p.m.
-*   FRESH &. EASY SHOPPING NIGHTS RAISE FUNDS FOR Lincoln Elementary School Fresh &. Easy Neighborhood Market. 2260 E.Thompson Blvd., Ventura, CA 4 p.m.
-
-More Events »
 
 *   "Artists Three " at Doyon Studio &. Gallery Doyon Studio and Gallery 9 a.m.
 *   La Leche League of Camarillo Meeting Camarillo Health Care District 10 a.m.
@@ -753,6 +745,14 @@ More Events »
 
 More Events »
 
+*   Economic Impact of the U.S. 2012 Election Outcome Dole Food Co., 1 Dole Drive, Westlake Village, CA 91362 7:30 a.m.
+*   Employment Law Update 2013 (Or…Should Auld Employment Laws be Forgot?) Airtel Plaza Hotel 7:30 a.m.
+*   Ventura Executive Suites November Mixer! Ventura Executive Suites 5 p.m.
+*   The Celebration of Justice Reception- Social Justice Fund of Ventura County Unitarian Universalist Church of Ventura 5:30 p.m.
+*   CI Art Program to host "Michael Todd - Sculptural Works" CSUCI California State University 6 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
@@ -761,21 +761,21 @@ More Events » Features
     
     Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
-    Measurement of Character
+    95 percent accurate
     
-    Survey determines what voters look for. Take it yourself!
+    Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
     Election Central
     
     Get prepared for November with candidate profiles and answers to your questions.
     
-*   On Campus
+*   Measurement of Character
+    
+    Survey determines what voters look for. Take it yourself!
+    
+    On Campus
     
     Video profiles of high school football programs.
-    
-    Presidential Donations
-    
-    See who's supporting who and with how much.
     
     Football Contest
     
