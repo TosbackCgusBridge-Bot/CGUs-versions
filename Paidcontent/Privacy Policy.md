@@ -49,7 +49,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-New Twitter policy lets users see tweets pulled down for copyright
+Product makers must tell a good toy story to stay focused
 
 Stay on top of tech news in your inbox
 
