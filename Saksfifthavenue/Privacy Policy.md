@@ -1,6 +1,7 @@
 *   Saks Fifth Avenue
 
-*   SaksFirst Triple Points + get 25,000 Bonus Points online only Details
+*   SNEAK PEEK SALE online only: We've Taken up to 40% off  Shop Now
+*   SaksFirst Triple Points + get 25,000 Bonus Points online only  Details
 
 CLOSE
 
