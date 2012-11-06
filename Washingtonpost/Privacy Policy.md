@@ -23,16 +23,16 @@
     
     Blogs &. Columns
     
-    *   **Paul Ryan: Obama policies threaten...**  
-        Election 2012 | Rachel Weiner
+    *   **Mormon press office: Churchs image...**  
+        Election 2012 | Jason Horowitz
     
-    *   **Biggest Pinocchios of Election...**  
+    *   **Fact checking the ‘final argument’**  
         The Fact Checker | Glenn Kessler
     
-    *   **Jonathan Dine, the Libertarian...**  
-        She The People | Diana Reese
+    *   **Arkansas misses Bill Clinton as...**  
+        She The People | Suzi Parker
     
-    *   **5 takeaways from the NBC-Wall Street...**  
+    *   **The fight over party identification...**  
         The Fix | Chris Cillizza and Aaron Blake
 *   Opinions In Opinions
     
@@ -46,14 +46,14 @@
     
     Featured Blogs
     
-    *   **Good decision on NYC marathon**  
+    *   **Sarah Palin’s Facebook endorsement**  
         ComPost | Alexandra Petri
     
-    *   **Mitt Romney insults the American...**  
-        The Plum Line | Greg Sargent
+    *   **Happy Hour Roundup**  
+        The Plum Line | Jonathan Bernstein
     
-    *   **What ‘liberal media’?**  
-        PostPartisan | James Downie
+    *   **For the Dream Act and gay marriage...**  
+        PostPartisan | E.J. Dionne Jr.
     
     *   **Morning Bits**  
         Right Turn | Jennifer Rubin
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **Forecast: Cold through Friday with...**  
-        Capital Weather Gang | Jason Samenow
+    *   **Forecast: Tranquil election day...**  
+        Capital Weather Gang | Kathryn Prociv\* and Jason Samenow
     
-    *   **The 2012 High Heel Race: ‘I wouldn’t...**  
-        Going Out Gurus | Fritz Hahn
+    *   **Nightlife Agenda**  
+        Going Out Gurus | Fritz Hahn and Rhome Anderson
     
-    *   **Man arrested in attacks on 2 women**  
-        Crime Scene |
+    *   **Father charged after son fell from...**  
+        Crime Scene | Michael Laris
     
-    *   **Va. GOP leaders go to Ohio**  
-        Virginia Politics | Laura Vozzella
+    *   **Tens of thousands voted absentee...**  
+        Virginia Politics | Patricia Sullivan
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -97,17 +97,17 @@
     
     Blogs &. Columns
     
-    *   **NHL, NHLPA to continue talks after...**  
-        Capitals Insider | Katie Carrera
+    *   **Jay Beagle on trying to keep a...**  
+        Capitals Insider | Eric Detweiler
     
-    *   **Cam Newton gives RGIII his number**  
-        DC Sports Bog | Dan Steinberg
+    *   **John Wall meets Justin Bieber (PICS)**  
+        DC Sports Bog | Sarah Kogod
     
-    *   **10 for 80 recognized at halftime...**  
-        The Insider | Mike Jones
+    *   **Redskins shouldnt rush to judgment...**  
+        The Insider | Keith McMillan
     
-    *   **Michael Gonzalez, Nationals interested...**  
-        Nationals Journal | James Wagner
+    *   **Davey Johnson, Nationals negotiations...**  
+        Nationals Journal | Adam Kilgore
 *   National In National
     
     *   Energy &. Environment
@@ -126,7 +126,7 @@
     *   **And YOU get a jet...**  
         Ideas@Innovations | Dominic Basulto
     
-    *   **Should Bloomberg keep the NYC marathon...**  
+    *   **Redskins leaders are a study in...**  
         PostLeadership | Jena McGregor
     
     *   **Romney and Obama’s quintessentially...**  
@@ -145,17 +145,17 @@
     
     Blogs &. Columns
     
-    *   **Yes, China still harvests organs...**  
+    *   **Whos to blame for Benghazi? A laymans...**  
         WorldViews | Max Fisher
     
-    *   **Germany to Indian students: Willkommen!**  
-        WorldViews | Olga Khazan
+    *   **On Tehrans streets, Obama is the...**  
+        WorldViews | Jason Rezaian
     
-    *   **BBCs Newsnight almost accuses senior...**  
+    *   **Iranian Supreme Leader’s granddaughter...**  
         WorldViews | Max Fisher
     
-    *   **Is life in North Korea really not...**  
-        WorldViews | Olga Khazan
+    *   **Zimbabwe might delay elections...**  
+        WorldViews | Max Fisher
 *   Business In Business
     
     *   Economy
@@ -173,13 +173,13 @@
     *   **Great Jobs for Everyone 50+**  
         The Color of Money | Michelle Singletary
     
-    *   **Carriers still dealing with Sandy...**  
+    *   **Netflix adopts shareholders rights...**  
         Post Tech | Hayley Tsukayama
     
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **Wonkbook: 39 hours to go**  
+    *   **First, assume a Democratic Senate**  
         Wonkblog | Ezra Klein
 *   Tech In Technology
     
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Preparing for the next natural...**  
+    *   **Instagram rolls out Web profile...**  
         Hayley Tsukayama
     
-    *   **Carriers still dealing with Sandy...**  
+    *   **Netflix adopts shareholders rights...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,17 +211,14 @@
     
     Blogs &. Columns
     
-    *   **Craft brewer marches to his own...**  
-        All We Can Eat | Greg Kitsock
+    *   **A message of hope and pork ribs...**  
+        All We Can Eat | Jim Shahin
     
-    *   **‘EL-MO! We won’t go!’**  
-        The Style Blog | Maura Judkis
+    *   **Holocaust documents reveal story...**  
+        The Style Blog | Ned Martel
     
-    *   **Answering the question ‘why vote?’**  
+    *   **The Alex P. Keaton myth**  
         On Parenting | Janice D'Arcy
-    
-    *   **Fight Night goes on without founder...**  
-        The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
     *   Books
@@ -237,13 +234,13 @@
     
     Blogs &. Columns
     
-    *   **A “Tempest” in an opera house**  
+    *   **RIP Carter and Henze**  
         Classical Beat | Anne Midgette
     
-    *   **Britney Spears, novelist?**  
-        Celebritology 2.0 | Jen Chaney
+    *   **Kristen Bell, Dax Shepard expecting...**  
+        Celebritology 2.0 | Maura Judkis
     
-    *   **Colbert and Stewart give Kimmel...**  
+    *   **‘Elementary’ lands post-Super Bowl...**  
         The TV Column | Lisa de Moraes
     
     *   **‘Wreck-It Ralph’s’ big debut**  
@@ -267,10 +264,11 @@
 In the News
 
 *   Election Day
-*   Han Suyin dies
 *   Nor’easter
-*   African painted dogs
-*   SEAL Team 6
+*   Robert Bales
+*   Henna haven
+*   Election predictions
+*   Ohio
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -321,106 +319,90 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-2-year-old boy dies after falling into wild dog exhibit at Pittsburgh Zoo and being mauled
+In Iowa, Obama gets emotional in final campaign rally
+
+David Nakamura 
+
+My election prediction: The polls will be right and Obama will win with 290 electoral votes Mitt Romney changing his tune in final hours
+
+Dana Milbank 
+
+What to watch for as Ohio counts votes
+
+Rosalind S. Helderman 
+
+Pundit accountability: The official 2012 election prediction thread Why we are voting for President Obama: Nine Mormon women speak
+
+Joanna Brooks 
+
+The trouble with Obama’s Silver lining
+
+Michael Gerson 
+
+NY, NJ officials go to considerable lengths to help residents vote in wake of superstorm
 
 Associated Press 
 
-Obama and Romney begin final push with only hours until Election Day
+On election eve, President Obama has a slim edge in polls
 
-Felicia Sonmez 
+David A. Fahrenthold 
 
-Black preacher spreads the Word ... against Obama
-
-Lonnae O'Neal Parker 
-
-Video revives debate over Mitt Romney’s Mormon faith
-
-Peter Wallsten 
-
-Middle class faces quick impact from fiscal cliff in form of alternative minimum tax
-
-Lori Montgomery 
-
-The disconnect of 2012
-
-Robert J. Samuelson 
-
-The Takeaway: Redskins can count on Robert Griffin III, but hardly anyone else
-
-Jason Reid 
-
-The Redskins might be playing to evaluate players, but it’s too early for Mike Shanahan to say so
-
-Mike Wise 
-
-US soldier faces hearing in Afghanistan massacre. case includes blimp video, Afghan witnesses
+Minnesota couple accused of starving, abusing adopted son. 8-year-old is malnourished
 
 Associated Press 
 
-Election week Nor’easter to likely pound coastal areas, question marks inland
+Lessons for kids from a long campaign
 
-Jason Samenow 
+Richard Cohen 
 
-The Gilded Age vs. the 21st century
+Washington Post endorsements for 2012 ballot
 
-E.J. Dionne Jr. 
+Editorial Board 
 
-Falcons move to 8-0 with another close win at home, beat Cowboys 19-13 on Turner’s TD run
+Young workers’ retirement hopes grow bleaker amid economic downturn
 
-Associated Press 
+Michael A. Fletcher 
 
-Mitt Romney insults the American electorate one last time
+Driverless cars are on the way. Here’s how not to regulate them.
 
-Greg Sargent 
+Marc Scribner 
 
-Switzerland, threatened by isolation, lifting veil on secret bank accounts
+Concert review: Justin Bieber at Verizon Center
 
-Michael Birnbaum 
+Chris Richards 
 
-Mass. mobster ‘Whitey’ Bulger reportedly taken to hospital for chest pains
+Why 50 million Americans wont vote tomorrow, in two charts Poll: Still a margin of error contest Elliott Carter dies. Pulitzer Prize-winning American composer was 103
 
-Associated Press 
+Anne Midgette 
 
-Man mauled to death while cleaning grizzly enclosure at Montana wildlife casting agency
+Carolyn Hax: Resisting the pressure to have a baby
 
-Associated Press 
+Carolyn Hax 
 
-Bahrain: 2 killed in bomb blasts in capital
+Election ‘Day’? With early voting, it’s more like Election Month.
 
-Associated Press 
-
-In Virginia, a mix of energy and exhaustion
-
-Amy Gardner 
-
-Han Suyin, Chinese-born author of ‘A Many-Splendoured Thing,’ dies at 95
-
-Alison Lake 
-
-Mitt Romney uses final days to push for a win in long-ignored Pennsylvania
-
-Associated Press 
+Ann Gerhart 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  2-year-old boy dies after falling into wild dog exhibit at Pittsburgh Zoo and being mauled
-    2.  Obama and Romney begin final push with only hours until Election Day
-    3.  Black preacher spreads the Word ... against Obama
-    4.  Video revives debate over Mitt Romney's Mormon faith
-    5.  Middle class faces quick impact from fiscal cliff in form of alternative minimum tax
+    1.  In Iowa, Obama gets emotional in final campaign rally
+    2.  My election prediction: The polls will be right and Obama will win with 290 electoral votes
+    3.  Mitt Romney changing his tune in final hours
+    4.  What to watch for as Ohio counts votes
+    5.  Pundit accountability: The official 2012 election prediction thread
 *   Top Videos
-    1.  Mounds of white foam spews onto Tokyo street
-    2.  Where the Mitt winds blow
-    3.  Daily Tracking Poll: Does early voting mean an early lead?
-    4.  Suitland's Taivon Jacobs chooses Ohio State
+    1.  Final day on the campaign trail in under one minute: President Obama
+    2.  Three things you need to know about Ohio — Top Toss-Up States
+    3.  Final day on the campaign trail in under one minute: Mitt Romney
+    4.  Mounds of white foam spews onto Tokyo street
     5.  New York nanny charged with murder in stabbing deaths
 *   Top Galleries
-    1.  SEAL Team 6 in action and in pop culture
-    2.  Notable deaths of 2012
-    3.  Million Puppet March promotes public broadcasting
-    4.  Romney's last campaign push
-    5.  Redskins lose third straight
+    1.  Who will win the election? A few un-or-tho-dox indicators.
+    2.  Newspaper endorsements for president: Romney or Obama?
+    3.  SEAL Team 6 in action and in pop culture
+    4.  In Wisconsin and Iowa, Obama makes final push
+    5.  Pre-election polling sites: Not just open on Tuesdays anymore
 
 Today's Paper
 
@@ -430,13 +412,13 @@ Today's Paper
 
 Live Discussions
 
-Tending your garden after Hurricane Sandy
+Dr. Gridlock
 
 Live Q&A transcript
 
-Adrian Higgins gave readers advice about how to care for their gardens after Hurricane Sandy hit.
+Robert Thomson discussed your questions about Metro, traffic throughout the region and other transportation issues for the week.
 
-**10:00 AM** **Ask Boswell: Redskins, Caps, Nationals and more** **12:00 PM** **Advice from Slate's 'Dear Prudence'** **2:00 PM** **Talk about Travel**
+**10:00 AM** **ComPost Live with Alexandra Petri** **11:00 AM** **Chatological Humor: Monthly with Moron**
 
 **Weekly schedule, past shows**
 
