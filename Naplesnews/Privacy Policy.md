@@ -143,6 +143,11 @@ Naples Daily News
 *   Cars
 *   Classified
 
+*   2012 Elections
+    
+    Where to Vote | Photos | Editorial Board Videos | Stories | Editorial Endorsements | Your Photos | Special Section »
+    
+
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -435,25 +440,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Angiolillo plans upset in Collier sheriff's race, says crazy talk 'working 100 percent' Published 11/4/2012 at 5:30 a.m. 30 comments
-*   Collier voter turnout already at 54 percent as early voting ends Published 11/3/2012 at 9:45 p.m. 82 comments
-*   Suspect sought in Obama campaign office burglary Published 11/4/2012 at 2:00 p.m. 40 comments
-*   Awaiting the winner: Job woes, debt, war and more Published 11/4/2012 at 11:15 a.m. 53 comments
-*   Judge orders 1 Florida county to extend early voting Published 11/4/2012 at 11:21 a.m. 17 comments
+*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 123 comments
+*   Romney in a landslide  in Community School of Naples mock election Published 11/5/2012 at 6:57 p.m. 73 comments
+*   Man's neck impaled by pole at swamp buggy races Published 11/5/2012 at 6:39 p.m. 14 comments
+*   Florida remains tough sell to end for Obama, Romney Published 11/5/2012 at 5:39 a.m. 67 comments
+*   On final lap, Romney, Obama focus on key states Published 11/5/2012 at 5:44 a.m. 68 comments
 
-Photo Galleries Naples Swamp Buggy Parade 2012 2012 Budweiser Fall Classic Swamp… Naples International Film Festival…
+Photo Galleries 2012 Budweiser Fall Classic Swamp… Naples International Film Festival… Naples Swamp Buggy Parade 2012
 
+*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 123 comments
+*   Obama, Romney each raise 'trust' issue as campaign enters home stretch Published 11/3/2012 at 3:08 p.m. 120 comments
+*   Collier voter turnout already at 54 percent as early voting ends Published 11/3/2012 at 9:45 p.m. 89 comments
+*   Last day to vote early. Collier seeing record numbers as some grow impatient waiting Published 11/3/2012 at 5:30 a.m. 86 comments
 *   Clinton tells Fort Myers: More reason to be excited about Obama now than '08 Published 11/2/2012 at 8:30 p.m. 170 comments
-*   Clinton: Americans have clear choice in Tuesday's election Published 11/2/2012 at 2:02 p.m. 123 comments
-*   Obama, Romney each raise 'trust' issue as campaign enters home stretch Published 11/3/2012 at 3:08 p.m. 108 comments
-*   Last day to vote early. Collier seeing record numbers as some grow impatient waiting Published 11/3/2012 at 5:30 a.m. 85 comments
-*   Collier voter turnout already at 54 percent as early voting ends Published 11/3/2012 at 9:45 p.m. 82 comments
 
 *   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 382 comments
 *   Endorsement editiorial: The 11 Florida constitutional amendments Published 10/27/2012 at 4:00 a.m. 5 comments
 *   In the Know: New dining options at former Rossopomodoro and L’Etoile restaurants Published 10/31/2012 at 5:17 a.m. 16 comments
 *   Naples' Tom Golisano is $20 million donor to Lee Memorial's new children's hospital Published 10/30/2012 at 11:41 a.m. 44 comments
-*   Hey ladies! Lee design firm draws attention with gender-bending hockey ad Published 10/26/2012 at 5:45 a.m. 4 comments
+*   Plans fizzle for SW Fla energy crop jatropha, company executive indicted Published 11/5/2012 at 8:00 a.m. 5 comments
 
 Weather
 
@@ -461,40 +466,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 65° Fog/Mist Wind: Calm Today 79° 64° Mon 08:00 PM Mostly Clear Temp: 70° Tue 08:00 AM Partly Sunny Showers Temp: 76° Tue 08:00 PM Mostly Clear Temp: 70°
+Currently 66° Fog/Mist Wind: Calm Today 79° 63° Tue 08:00 PM Mostly Cloudy Showers Temp: 70° Wed 08:00 AM Partly Sunny Temp: 72° Wed 08:00 PM Partly Cloudy Showers Temp: 65°
 
 Feels Like: 70°
+
+Humidity: 73%
+
+Precip: 20%
+
+Feels Like: 72°
+
+Humidity: 57%
+
+Precip: 6%
+
+Feels Like: 65°
 
 Humidity: 70%
 
-Precip: 11%
-
-Feels Like: 76°
-
-Humidity: 60%
-
-Precip: 42%
-
-Feels Like: 70°
-
-Humidity: 74%
-
-Precip: 11%
+Precip: 15%
 
 More Weather » Calendar
 
-*   Monday Nov 5
 *   Tuesday Nov 6
 *   Wednesday Nov 7
+*   Thursday Nov 8
 *   More BROWSE Icon
-
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Baby boot camp Miromar Outlets 9 a.m.
-*   Code Breaking During WWII FGCU Naples Center 10 a.m.
-*   PCs/Microsoft Windows 7 for Intermediates FGCU Naples Center 10 a.m.
-
-More Events »
 
 *   Social Mobile Payments: Americas Conference Biscayne Bay Marriott Hotel &. Marina 8 a.m.
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
@@ -512,57 +509,66 @@ More Events »
 
 More Events »
 
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   7th Annual Sanibel Island Writers Conference Sanibel Island 8 a.m.
+*   PR University to “Pump up the Volume” on event marketing, copyrights, and social media Embassy Suites - Estero 8:30 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Paddleboard and Fitness 1st Ave S. Old Naples 9 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   **Fall back**
-    
-    Daylight saving time begins at 2 a.m. Sunday. Remember to set clocks back an hour.
-    
-    Film Festival
-    
-    Find film trailers, previews of films at this year's Naples International Film Festival.
-    
-    Our World
-    
-    Column looks at SW Florida through eyes of Daily News photojournalists.
-    
-*   Football Rivalries
-    
-    Golden Eagles beat Trojans in 39th Coconut Bowl to remain undefeated this season.
-    
-    Biggest Catch
-    
-    See photos from local anglers with their biggest catch of the day. Submit your photos.
-    
-    f Election 2012
+*   Election 2012
     
     Find videos, photos, stories about the upcoming general election.
     
-*   2012 Halloween
+    NewsMakers
     
-    Share your Halloween photos and see winners in Halloween costume contest.
+    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
     
     Hot Home Sales
     
     Pictures, info about recently sold single-family homes in Collier and Lee.
     
-    Cuties of the Week
+*   Download iPad
     
-    We want to see photos of your adorable kids and grandkids. Share your photos »
-    
-*   NewsMakers
-    
-    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
+    Experience the Naples Daily News -- reimagined for the iPad. Download now »
     
     Mugshots
     
     Looking for daily arrest mugshots? You can find them here in our special section.
     
+    Film Festival
+    
+    Find film trailers, previews of films at this year's Naples International Film Festival.
+    
+*   Football Rivalries
+    
+    Golden Eagles beat Trojans in 39th Coconut Bowl to remain undefeated this season.
+    
+    Our World
+    
+    Column looks at SW Florida through eyes of Daily News photojournalists.
+    
+    Biggest Catch
+    
+    See photos from local anglers with their biggest catch of the day. Submit your photos.
+    
+    f
+*   Cuties of the Week
+    
+    We want to see photos of your adorable kids and grandkids. Share your photos »
+    
     Here's to our Heroes
     
     They put others before themselves. see problems &. solve them. Your nomination »
+    
+    2012 Halloween
+    
+    Share your Halloween photos and see winners in Halloween costume contest.
     
 
 Useful Links:
