@@ -131,15 +131,13 @@ Go to homepage.
         *   Décor and Art
         *   Interactive Tour
         *   Video Series
-        *   Google Art
-        *   West Wing Tour
     *   Presidents
     *   First Ladies
     *   The Oval Office
     *   The Vice President's Residence &. Office
-    
     *   Eisenhower Executive Office Building
     *   Camp David
+    
     *   Air Force One
     *   White House Fellows
         *   President’s Commission
