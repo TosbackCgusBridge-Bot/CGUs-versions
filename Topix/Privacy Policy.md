@@ -8,11 +8,15 @@ Sign Up
 
 Sign In
 
-1 2 3 Hurricane Relief: How You Can Help
+1 2 3
+
+Mitt Romney
+
+Romney campaings into Election Day
 
 China
 
-China slams UN rights chief's criticism of it over Tibet protests
+Seeking no surprises during leadership change, China cracks do...
 
 Politix
 
@@ -186,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
-  Ads by Glam
+ 
 
 San Antonio, TX
 
@@ -275,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 111,715 • Total comments across all topics: 190,165,633
+Comments made yesterday: 123,347 • Total comments across all topics: 190,276,727
 
 Copyright ©2012 Topix LLC
 
