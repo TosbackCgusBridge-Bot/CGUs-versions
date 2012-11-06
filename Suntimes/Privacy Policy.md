@@ -61,7 +61,7 @@
 
 suntimes
 
-Monday, November 5, 2012
+Tuesday, November 6, 2012
 
 Search Search Site All Papers YAHOO!
 
@@ -602,7 +602,7 @@ Advertise Here Features
     
 *   Casinos
 
-BUILDER SHOWCASE: Unbeatable prices are luring buyers Everyone's car shopping - you can, too, with our handy search tools Betting on a fun weekend? Get your tips here Advertise Here Search Search suntimes.com
+RENTERS: We have more listings than anyone else Everyone's car shopping - you can, too, with our handy search tools Betting on a fun weekend? Get your tips here Advertise Here Search Search suntimes.com
 
 *   Blogs
 *   Send Feedback
