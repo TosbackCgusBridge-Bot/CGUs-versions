@@ -688,21 +688,23 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡No te las pierdas!
+*   Ponte al día
     
-    Descubre aquí lo mejor de tus novelas.
+    Actualízate con lo mejor del Patrón del Mal.
     
-*   Los senos
+*   ¡Dieta intuitiva!
     
-    Descubre por qué son el arma letal femenina  
+    Deja que tu instinto domine las calorías  
     
-*   ¡Superhéroes de novela!
+*   Guerra Mexicana
     
-    Tú eliges el mejor de ellos... ¡Decídelo!
+    Dos bombones que derriten. ¿Quién gana?
     
-*   Camino de Miss Mexico
+      
     
-    Con una figura de cuento de hadas.  
+*   Camino de Miss Ecuador
+    
+    Carolina Aguirre, una belleza rubia que destila sensualidad, tiene todo para ser la nueva Miss Universo.
     
 
 Más en Telemundo:
