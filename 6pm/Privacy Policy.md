@@ -170,7 +170,7 @@ Learn More Customer Service Safe Shopping Guarantee Forgot Password Shipping Rat
 
 We'd like to get your feedback.
 
-\* Your email address will be subject to the terms and conditions of our Privacy Policy.  
+\* Your email address will be subject to the terms and conditions of our Privacy Policy .  
 © 2007-2012 Zappos.com, Inc. or its affiliates. 6pm.com is operated by Zappos Development, Inc.  
 Products on 6pm.com are sold by 6pm.com, LLC.  
 Gift Certificates on 6pm.com are sold by Zappos Gift Cards, Inc.
