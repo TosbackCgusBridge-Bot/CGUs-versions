@@ -4,7 +4,7 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Last Day! Take up to $60 Off your purchase + $5 Shipping! Code: 35547
+\[hol-HomepageTopBannerEMS\] Today Only! 20% Off Entire Purchase + $5 shipping! Code: 35331
 
 *   Shop Dudes
 
