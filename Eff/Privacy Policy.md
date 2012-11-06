@@ -1,13 +1,3 @@
-Skip to main content **Electronic Frontier Foundation** Defending your rights in the digital world Search form Search Main menu
-
-*   Home
-*   About
-*   Our Work
-*   Deeplinks Blog
-*   Press Room
-*   Take Action
-*   Shop
-
 Privacy Policy
 
 The Electronic Frontier Foundation (EFF) is committed to protecting the privacy of visitors to our website, as well as our members and activists. EFF has established this Privacy Policy to explain what information we collect through our websites and how it is used.
@@ -104,39 +94,3 @@ Previous Privacy Policies
 *   Jan 26 2009 - Jun 21 2011
 *   Jun 22 2011 - Oct 18 2011
 *   Oct 19 2011 - Jul 23 2012
-
-Donate to EFF Stay in Touch  
-Follow EFF
-
-EFF urges California voters to oppose #Prop35. It's overbroad, misguided, and chills online speech. https://eff.org/r.5aqg
-
-Nov 4 @ 7:13pm
-
-Rob Reid's newest book 'Year Zero' shows just how ridiculous the modern copyright system is. https://eff.org/r.4aqf
-
-Nov 4 @ 6:30pm
-
-*   Twitter
-*   Facebook
-*   Identi.ca
-
-  
-Projects
-
-*   HTTPS Everywhere
-*   Bloggers' Rights
-*   Coders' Rights
-*   Follow EFF
-*   Free Speech Weak Links
-*   Global Chokepoints
-*   Patent Busting
-*   Surveillance Self-Defense
-*   Takedown Hall of Shame
-*   Teaching Copyright
-*   Ways To Help
-
-*   Thanks
-*   RSS Feeds
-*   Copyright Policy
-*   Privacy Policy
-*   Contact EFF
