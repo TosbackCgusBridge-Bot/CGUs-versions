@@ -1,6 +1,5 @@
 **nmbuzz:** sign up for nm  
-updates via text messaging THE HOME EVENT:  
-Free tote &. goodies New FIrst Call® Arrivals:  
+updates via text messaging New FIrst Call® Arrivals:  
 Up to 50% off including SWIM FREE SHIPPING\*  
 with code NMFALL Assistance How may we help you? 1.888.888.4757 Call 24 hrs / 7 days Chat with Us Email us
 
