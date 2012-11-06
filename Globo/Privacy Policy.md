@@ -170,6 +170,7 @@ globo.com
         *   Encontro com Fátima Bernardes
         *   Esquenta!
         *   Estrelas
+        *   Fim do Mundo
         *   Louco por Elas
         *   Mais Você
         *   Na Moral
@@ -517,6 +518,7 @@ Esta política permitirá que você saiba:
         *   Esquenta!
         *   Estrelas
         *   Fantástico
+        *   Fim do Mundo
         *   Gabriela
         *   Globo Mar
         *   Globo Repórter
@@ -533,6 +535,7 @@ Esta política permitirá que você saiba:
         *   Promoção Club Mais Você
         *   Salve Jorge
         *   Som Brasil
+        *   Suburbia
         *   Tapas &. Beijos
         *   The Voice Brasil
         *   TV Xuxa
