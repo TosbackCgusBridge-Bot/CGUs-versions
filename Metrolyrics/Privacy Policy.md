@@ -153,21 +153,21 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
     Man On The Moon Lyrics
 *   Natalia Kills  
     Problem Lyrics
-*   Ed Sheeran  
-    A Team Lyrics
-*   Gotye  
-    Somebody That I Used To Know Lyrics
+*   Justin Bieber  
+    As Long As You Love Me Lyrics
+*   David Guetta  
+    Titanium Lyrics
 
 *   Rihanna  
     Stay Lyrics
 *   Kendrick Lamar  
     Poetic Justice Lyrics
-*   Alicia Keys  
-    Fire We Make Lyrics
-*   Justin Bieber  
-    As Long As You Love Me Lyrics
-*   David Guetta  
-    Titanium Lyrics
+*   Jonas Brothers  
+    Wedding Bells Lyrics
+*   Kesha  
+    Die Young Lyrics
+*   Adele  
+    Someone Like You Lyrics
 
 *   Rihanna  
     Nobody Lyrics
@@ -175,29 +175,27 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
     Bat For A Heart Lyrics
 *   Kanye West  
     White Dress Lyrics
-*   Kesha  
-    Die Young Lyrics
-*   Adele  
-    Someone Like You Lyrics
-
-*   Phillip Phillips  
-    Gone, Gone, Gone Lyrics
-*   Ludacris  
-    Rest Of My Life Lyrics
-*   Jonas Brothers  
-    Wedding Bells Lyrics
 *   Katy Perry  
     Wide Awake Lyrics
 *   Alex Clare  
     Too Close Lyrics
 
 *   Phillip Phillips  
-    Get Up Get Down Lyrics
-*   Pitbull  
-    Party Ain't Over Lyrics
+    Gone, Gone, Gone Lyrics
+*   Ludacris  
+    Rest Of My Life Lyrics
 *   Bruno Mars  
     Locked Out Of Heaven Lyrics
 *   Carly Rae Jepsen  
     Call Me Maybe Lyrics
+
+*   Phillip Phillips  
+    Get Up Get Down Lyrics
+*   Pitbull  
+    Party Ain't Over Lyrics
+*   Ed Sheeran  
+    A Team Lyrics
+*   Gotye  
+    Somebody That I Used To Know Lyrics
 
 Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
