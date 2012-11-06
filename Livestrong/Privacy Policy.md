@@ -240,16 +240,16 @@ Get the latest tips on diet, exercise and healthy living.
 
 Your email is safe with us. We hate spam too!
 
-Featured this week on livestrong.com man.
+Featured this week on livestrong.com
 
-*   Nov 3, 2012 3 Moves That Build  
-    Strength, Stability and Power
-*   Nov 2, 2012 The Scary Truth  
+*   Nov 4, 2012 'How The Gym Helped  
     
-*   Nov 1, 2012 Build A Six-Pack  
-    At Home
-*   Oct 31, 2012 4 Ways To Get  
-    Better Sleep
+*   Nov 3, 2012 The 'Better Booty'  
+    Warmup Routine
+*   Nov 2, 2012 The 20 Best Foods  
+    For Smoothies
+*   Nov 1, 2012 The New Rules  
+    Of Stretching
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
 
