@@ -4,7 +4,8 @@ Follow us
 
 Themes
 
-*   FEATURE 
+*   FEATURES  
+    *   CHRISTMAS FEATURE
     *   BUILDERS AND TRADES
 *   NEWS &. SPORT 
     *   LOCAL NEWS
@@ -18,7 +19,7 @@ Themes
 *   WEATHER
 *   THANK YOUS
 *   PRODUCTS
-*   HELP &. SUPPORT
+*   HELP
 
 Privacy Policy
 
