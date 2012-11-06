@@ -4,14 +4,18 @@ TRY: Gardening | Jewelry | Designer Inspiration | Chefs Privacy Policy Email Pri
 Most Viewed
 
 1.  Veranda's Most Memorable Holiday Rooms
-2.  Veranda's Top Holiday Desserts
-3.  Ruthie Sommers's Advice on Decorating and Being an Interior Designer
-4.  More Than Just Stuff: Surprising Stories Behind Your Decor
-5.  Pat Areias
+2.  Stylish Holiday Gift Ideas
+3.  Veranda's Top Holiday Desserts
+4.  Ruthie Sommers's Advice on Decorating and Being an Interior Designer
+5.  More Than Just Stuff: Surprising Stories Behind Your Decor
 
 Most Searched
 
-1.  Sorry, there are no search terms at this time
+1.  christmas
+2.  designer inspiration
+3.  holiday rooms
+4.  jewelry
+5.  bathroom
 
 Magazine | RSS
 
@@ -34,9 +38,9 @@ From Town &. Country Travel • Best Waterfront Makeover: Capri's Il Riccio
 • Best Exotic Retreat: Six Senses Destination Spa Phuket  
 • The Best City Resort: Aman New Delhi  
 **More from Town &. Country Travel**  
-From The Daily Green • Hotel Review: The Original Element Hotel  
+From The Daily Green • 6 Ways to Save Square Tout  
+• Hotel Review: The Original Element Hotel  
 • Shade Grown Coffee Preserves Trees  
-• Sauteed Swiss Chard  
 **More from The Daily Green**  
 From Harper's Bazaar • Celebrity Fashion  
 • Fashion Accessories  
