@@ -113,129 +113,129 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/05/2012 8:03 AM ET
+Updated: 11/06/2012 7:02 AM ET
+
+1.  1 Obama, not-so-happy warrior
+2.  2 Red-state Dems fight Obama drag
+3.  3 Early election results, via NBC
+4.  4 Romney Mormon video goes viral
+5.  5 Report: Christie turned down Romney rally request
+6.  6 The final hours
+7.  7 If Obama loses…
+8.  8 Election overtime: A winless Wednesday?
+9.  9 Cutter: Pennsylvania has 'tightened'
+10.  10 The looming GOP civil war
+
+Updated: 11/06/2012 7:02 AM ET
+
+1.  1 Early election results, via NBC
+2.  2 Obama, not-so-happy warrior
+3.  3 The looming GOP civil war
+4.  4 If Obama loses…
+5.  5 If Romney loses…
+6.  6 Romney Mormon video goes viral
+7.  7 Dems' drive to retake House falters
+8.  8 Early voting results 2012
+9.  9 Red-state Dems fight Obama drag
+10.  10 Axelrod: 'They're in deep trouble'
+
+Updated: 11/06/2012 7:02 AM ET
 
 1.  1 Axelrod: 'They're in deep trouble'
-2.  2 Dems' drive to retake House falters
-3.  3 Early voting results 2012
-4.  4 The man behind Mitt's poll questions
-5.  5 Obama interrupted by heckler
-6.  6 If Romney loses…
-7.  7 The looming GOP civil war
-8.  8 If Obama loses….
-9.  9 Christie: I support Mitt. critics don't get the destruction
-10.  10 Ryan goes dark on local reporters
-
-Updated: 11/05/2012 8:03 AM ET
-
-1.  1 Axelrod: 'They're in deep trouble'
-2.  2 Dems' drive to retake House falters
-3.  3 AFF poll: Minnesota a toss-up
-4.  4 Obama early vote edge tenuous
-5.  5 Former Hillary aide backs Romney
-6.  6 Battleground Tracking poll: It's tied
-7.  7 The man behind Mitt's poll questions
-8.  8 Exclusive: Christie was Mitt's first choice for VP
+2.  2 Early election results, via NBC
+3.  3 Dems' drive to retake House falters
+4.  4 Obama, not-so-happy warrior
+5.  5 The looming GOP civil war
+6.  6 If Obama loses…
+7.  7 If Romney loses…
+8.  8 Romney Mormon video goes viral
 9.  9 Early voting results 2012
-10.  10 Lessons learned from 2012
+10.  10 AFF poll: Minnesota a toss-up
 
-Updated: 11/05/2012 8:03 AM ET
+Updated: 11/06/2012 7:02 AM ET
 
 1.  1 Axelrod: 'They're in deep trouble'
-2.  2 Former Hillary aide backs Romney
-3.  3 Exclusive: Christie was Mitt's first choice for VP
+2.  2 Early election results, via NBC
+3.  3 Gallup suspends daily tracking poll
 4.  4 Dems' drive to retake House falters
-5.  5 AFF poll: Minnesota a toss-up
-6.  6 Obama early vote edge tenuous
-7.  7 'Swift-Boating' of Obama fails
-8.  8 Battleground Tracking poll: It's tied
-9.  9 Ryan goes dark on local reporters
-10.  10 The man behind Mitt's poll questions
-
-Updated: 11/05/2012 8:03 AM ET
-
-1.  1 Axelrod: 'They're in deep trouble'
-2.  2 Oliver Stone's new book rips Obama
-3.  3 Nate Silver: One-term celebrity?
-4.  4 Gallup suspends daily tracking poll
 5.  5 Former Hillary aide backs Romney
-6.  6 Exclusive: Christie was Mitt's first choice for VP
-7.  7 Iowa to poll-watchers: Back off
-8.  8 Obama early vote edge tenuous
-9.  9 Martin Sheen: Romney is stupid, arrogant
-10.  10 Dems' drive to retake House falters
+6.  6 Christie was Mitt's VP first choice
+7.  7 Obama, not-so-happy warrior
+8.  8 Iowa to poll-watchers: Back off
+9.  9 Obama early vote edge tenuous
+10.  10 AFF poll: Minnesota a toss-up
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/05/2012 8:03 AM ET
+Updated: 11/06/2012 7:02 AM ET
 
-1.  1 Both sides should calm down
-2.  2 Poll: Brown leads Warren by 1 point
-3.  3 Poll: Mitt ran better than McCain
-4.  4 The new 'no comment': F--- off
-5.  5 Flood of 'Obamacare' rules expected
-6.  6 Sandy shows Europe forecasting lead
-7.  7 If Obama loses….
-8.  8 If Romney loses…
-9.  9 The looming GOP civil war
-10.  10 Obama, not-so-happy warrior
+1.  1 Lame duck looking lamer
+2.  2 9 takeaways from the 2012 election
+3.  3 5 things to watch on election night
+4.  4 Next Congress to bring diversity
+5.  5 If Dems keep Senate, GOP gets blame
+6.  6 Get values back into politics
+7.  7 Reelecting the War on Terror
+8.  8 Newt: Bill Clinton 'collecting IOUs'
+9.  9 Cutter: Pennsylvania has 'tightened'
+10.  10 McCain: Vets upset after Libya
 
-Updated: 11/05/2012 8:03 AM ET
+Updated: 11/06/2012 7:02 AM ET
 
-1.  1 Both sides should calm down
-2.  2 Poll: Brown leads Warren by 1 point
-3.  3 Poll: Mitt ran better than McCain
-4.  4 The new 'no comment': F--- off
-5.  5 Flood of 'Obamacare' rules expected
-6.  6 Sandy shows Europe forecasting lead
-7.  7 If Obama loses….
-8.  8 If Romney loses…
-9.  9 The looming GOP civil war
-10.  10 Obama, not-so-happy warrior
+1.  1 Lame duck looking lamer
+2.  2 9 takeaways from the 2012 election
+3.  3 5 things to watch on election night
+4.  4 Next Congress to bring diversity
+5.  5 If Dems keep Senate, GOP gets blame
+6.  6 Get values back into politics
+7.  7 Reelecting the War on Terror
+8.  8 Newt: Bill Clinton 'collecting IOUs'
+9.  9 Cutter: Pennsylvania has 'tightened'
+10.  10 McCain: Vets upset after Libya
 
-Updated: 11/05/2012 8:03 AM ET
+Updated: 11/06/2012 7:02 AM ET
 
-1.  1 Both sides should calm down
-2.  2 Poll: Brown leads Warren by 1 point
-3.  3 Poll: Mitt ran better than McCain
-4.  4 The new 'no comment': F--- off
-5.  5 Flood of 'Obamacare' rules expected
-6.  6 Sandy shows Europe forecasting lead
-7.  7 If Obama loses….
-8.  8 If Romney loses…
-9.  9 The looming GOP civil war
-10.  10 Obama, not-so-happy warrior
+1.  1 Lame duck looking lamer
+2.  2 9 takeaways from the 2012 election
+3.  3 5 things to watch on election night
+4.  4 Next Congress to bring diversity
+5.  5 If Dems keep Senate, GOP gets blame
+6.  6 Get values back into politics
+7.  7 Reelecting the War on Terror
+8.  8 Newt: Bill Clinton 'collecting IOUs'
+9.  9 Cutter: Pennsylvania has 'tightened'
+10.  10 McCain: Vets upset after Libya
 
-Updated: 11/05/2012 8:03 AM ET
+Updated: 11/06/2012 7:02 AM ET
 
-1.  1 Both sides should calm down
-2.  2 Poll: Brown leads Warren by 1 point
-3.  3 Poll: Mitt ran better than McCain
-4.  4 The new 'no comment': F--- off
-5.  5 Flood of 'Obamacare' rules expected
-6.  6 Sandy shows Europe forecasting lead
-7.  7 If Obama loses….
-8.  8 If Romney loses…
-9.  9 The looming GOP civil war
-10.  10 Obama, not-so-happy warrior
+1.  1 Lame duck looking lamer
+2.  2 9 takeaways from the 2012 election
+3.  3 5 things to watch on election night
+4.  4 Next Congress to bring diversity
+5.  5 If Dems keep Senate, GOP gets blame
+6.  6 Get values back into politics
+7.  7 Reelecting the War on Terror
+8.  8 Newt: Bill Clinton 'collecting IOUs'
+9.  9 Cutter: Pennsylvania has 'tightened'
+10.  10 McCain: Vets upset after Libya
 
 Showing Last 7 Days
 
-Updated: 11/05/2012 8:03 AM ET
+Updated: 11/06/2012 7:02 AM ET
 
-1.  1 Exclusive: Christie was Mitt's first choice for VP
-2.  2 Obama early vote edge tenuous
-3.  3 Jobs report puts economy back in campaign spotlight
-4.  4 Liberals fear grand bargain betrayal
-5.  5 Poll-watchers: States out of line
-6.  6 Rove: 279 electoral votes for Mitt
-7.  7 Radio: The other air war
-8.  8 1 week, 2 versions of reality
-9.  9 Sandy forces anti-politics politics
-10.  10 Battleground Tracking Poll: Obama retakes lead
+1.  1 The looming GOP civil war
+2.  2 Christie was Mitt's VP first choice
+3.  3 Obama early vote edge tenuous
+4.  4 Jobs report puts economy back in campaign spotlight
+5.  5 Liberals fear grand bargain betrayal
+6.  6 Poll-watchers: States out of line
+7.  7 Rove: 279 electoral votes for Mitt
+8.  8 Radio: The other air war
+9.  9 1 week, 2 versions of reality
+10.  10 Sandy forces anti-politics politics
 
 News
 
