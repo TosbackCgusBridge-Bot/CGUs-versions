@@ -1,6 +1,6 @@
 MY ACCOUNT   /   SHOPPING BAG \[0\]  
 Complimentary Shipping  
-Through November 5
+Through November 12
 
 *   Men
     *   Shop All Brands
