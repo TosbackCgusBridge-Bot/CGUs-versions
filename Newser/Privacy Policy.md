@@ -2,16 +2,16 @@
 
 *   What's New
 *   Hot Topics
-    *   Hurricane Sandy
     *   Election 2012
-    *   timeless news
-    *   Mitt Romney 2012
-    *   New York City
-    *   entertainment
-    *   New Jersey
-    *   celebrity
     *   Obama 2012
-    *   strange stuff
+    *   Hurricane Sandy
+    *   Mitt Romney 2012
+    *   timeless news
+    *   President Obama
+    *   New York City
+    *   New Jersey
+    *   entertainment
+    *   celebrity
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -37,7 +37,7 @@
     *   MEDIA
     *   SPORTS
 
-Newser Privacy Policy
+Election 2012 Your Official Guide to Election Night »   |   Historic Tie in 1st Town to Vote » NJ, NY Adjust Voting Rules »   |   6 Key Senate Races to Watch » Newser Privacy Policy
 
 Please read this Privacy Policy (last revised as of March 1, 2010) before using this service. By continuing to use Newser.com, you acknowledge that you have read and agree to the terms of this policy.
 
@@ -120,57 +120,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   WANTED: BIGFOOT
-*   Man Accused Of Beating Girlfriend With Python
-*   Man Shocked By Dominatrix's Little Secret
+*   The Other Ohio Campaigns
+*   Obummer vs. Mittens
+*   Why Is the Surface So Bad?
+
+More from Slate »
+
+*   THE DARK KNIGHT SPEAKS: Real-Life Batman Tells All
+*   WATCH: Airplane Takes Top Off SUV
+*   Monarch Butterfly Flies South -- On An Airplane
 
 More from HuffPost Weird »
 
-*   Your Friskyscopes For The Week Of November 5-11, 2012
-*   Why Men Should Stay Home On Election Day
-*   Archaeologist Finds The Cave Of The Lone Woman AKA Karana...
+*   Miley Cyrus Offered $1 Million For “Hannah Montana” Porn
+*   VA Candidate’s Campaign HQ Vandalized With “Baby Killer”
+*   Leonard DiCaprio Gets All Up In Robsten’s Business
 
 More from The Frisky »
 
-*   UFO enthusiasts not sure if they want to believe anymore...
-*   It's Uptown vs Downtown in the impending New York City...
-*   Scientists from the Romero Institute discover that curves...
+*   Heineken executive appears on CNBC to extol its health...
+*   Man sends postcard to explain that he stole neighbor's...
+*   Can the GOP Etch-a-Sketch a Romney win, or will Obama debut...
 
 More from Fark »
 
-*   Why both Republicans and Democrats are so unjustifiably...
-*   Hurricane Sandy: New York's 'massive, massive housing...
-*   Deconstructing the 5 most ridiculous myths about Barack...
+*   Election Night 2012: A viewer's guide
+*   Why President Obama (or Romney) must tackle Alzheimer's
+*   Spite and revenge is the new hope and change
 
 More from The Week »
 
-*   Chris Christie's New Obama Friendship Doesn't Extend to...
-*   Incoming Times CEO Mark Thompson Doesn’t Read His Morning...
-*   The Black Market for Gasoline Is Booming
+*   Christie’s Dream of Befriending Springsteen Finally Comes...
+*   New York Crime Is (Mostly) Down After Sandy
+*   Frank Rich on Maddow: GOP Changing Its Tune on Latino Voters
 
 More from Daily Intel »
 
-*   How Power Outages Wreak Havoc On Sleep
-*   Poor Sleep Linked to Hard-to-Treat Hypertension
-*   Coping With Loss After Sandy
+*   Ask Healthy Living: Do You Really Need To Drink Water After...
+*   Forewarned Is Forearmed, Except When It Isn't
+*   Charge Up and Vote: Two Election Day Playlists
 
 More from HuffPost Health »
 
-*   ‘Saturday Night Live’ Recap: Louis C.K. Does Stand-Up;...
-*   No Doubt Pulls ‘Looking Hot’ Music Video Following...
-*   Katy Perry Moves ‘Forward’ at Barack Obama Rally in...
+*   Lady Gaga Flaunts Curves in Skimpy Bikini in Puerto Rico...
+*   One Direction's Harry Styles Opens Up About Sex: 'I Was...
+*   Sam Worthington Arrested: Security Guard Hasn’t Ruled Out...
 
 More from Celebuzz »
 
-*   8 of the Most Surprising Health Benefits of Sleep
-*   Toddler Killed by Wild Dogs At Pittsburgh Zoo Exhibit...
-*   5 Creative Ways Kids Can Bring Fall Inside
+*   Lil Wayne Loses Lawsuit and Now He REALLY Has Money on His...
+*   'DWTS' Recap: Kirstie Alley Should Dance Her Last Dance
+*   'Real Housewives of Beverly Hills' Season 3 Premiere Recap:...
 
 More from The Stir »
 
-*   Swimming Pools, Cakes and Mockery Are Like Facebook
-*   Eyes of the Storm
-*   Race Tightens, and So Does Ad Inventory
+*   Will Ferrell Will Do Anything for You, If You Just Vote for...
+*   Creed Has Storm Victims Covered
+*   The Spot: Can't Buy Me Love
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
