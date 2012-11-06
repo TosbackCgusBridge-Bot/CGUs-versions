@@ -71,13 +71,13 @@ Sign In Sign Out New User Sign Up Profile Management
 
 What's Hot
 
-Louis C.K.'s NY Love Letter
+Sweeps Roundup
 
-_Glee_: Finn Needs Help!
+Kristen Bell Pregnant
 
-A _Boy Meets World_ Sequel?
+_Walking Dead_ Postmortem
 
-Save These Shows!
+See Snooki Without Makeup
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -138,10 +138,10 @@ more popular celebrities Most Popular Movies
 more popular movies Top Videos
 
 1.  The Vampire Diaries
-2.  The Vampire Diaries
+2.  Arrow
 3.  Supernatural
-4.  Supernatural
-5.  Arrow
+4.  The Vampire Diaries
+5.  Hart of Dixie
 
 more top videos
 
