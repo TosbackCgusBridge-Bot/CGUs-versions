@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Technology:** Kim Dotcom: fund free NZ internet by suing Hollywood and US government
-2.  2\. **News:** Obama ahead in new poll as president's camp accuses Romney of desperation
-3.  3\. **News:** Gang attack blamed on Russia's ban on 'gay propaganda'
-4.  4\. **Football:** Premier League: 10 talking points from this weekend's action
-5.  5\. **Life &. style:** How to beat insomnia and sleep easy
+1.  1.  **News:** US elections: after the campaign, the hush of polling day descends
+2.  2\. **News:** US elections 2012: final blitz by Obama and Romney brings campaign to a close
+3.  3\. **Football:** André Santos apologises to Arsenal team-mates for Van Persie shirt swap
+4.  4\. **Technology:** Google Nexus 10 – review
+5.  5\. **News:** 'Bronco 'Bama and Mitt Romney' too much for four-year-old Abigael - video
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Culture:** Cloud Atlas sweepstakes: Win tickets to the new film and a copy of the book
-2.  **News:** 'Bronco 'Bama and Mitt Romney' too much for four-year-old Abigael - video
-3.  **Film:** Lincoln: watch the exclusive international trailer - video
-4.  **Childrens' books:** Bonfire Night Quiz
-5.  **Books:** Alan Moore debut single released by Occupation Records
+1.  **Environment:** GDT European wildlife photographer of the year 2012 – in pictures
+2.  **News:** US elections 2012: final blitz by Obama and Romney brings campaign to a close
+3.  **Environment:** Up in Smoke part 2: Honduran farmers transform families' fortunes – video
+4.  **TV &. radio:** The week in TV: Homeland, American Horror Story: Asylum, Horror Europa with Mark Gatiss and Hatfields &. McCoys - video
+5.  **Culture:** Bonfire procession in Lewes – in pictures
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Anfield sprinkler system soaks Liverpool fans - video
-2.  2\. Tory child sex ring claim: Cameron orders urgent inquiry
-3.  3\. Move over Alan Moore, let's hear your own political ballads | Open thread
-4.  4\. Windfarms: is community ownership the way ahead?
-5.  5\. Press Gazette's Top 50 Sports Writers, November 2012
+1.  1.  Vladimir Putin sacks Russian defence chief amid corruption scandal
+2.  2\. BBC1's Nick Nickelby nets 800,000 Monday afternoon viewers
+3.  3\. Hurricane Sandy: the most tweeted pictures
+4.  4\. How many fake Sandy pictures were really shared on social media?
+5.  5\. Edisto by Padgett Powell – review
 6.  All today's stories
 
 On the Guardian today
 
 1.  Life and style Mapping the body: the temple
-2.  Technology Kim Dotcom: fund free NZ internet by suing Hollywood and US government
-3.  World news Florida Republicans impinging on right to vote, say Democrats
-4.  World news Boy dies in wild dog pen at Pittsburgh zoo
-5.  World news Obama ahead in new poll as president's camp accuses Romney of desperation
-6.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+2.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+3.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+4.  Football Barcelona and Real Madrid draw El Clásico thriller at Camp Nou
+5.  Art and design Man who defaced Tate Modern's Rothko canvas says he's added value
+6.  Football Manchester United's numbers game leaves Newcastle in middle of nowhere
 
 *   License/buy our content
 |*   Privacy policy
