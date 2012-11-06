@@ -44,135 +44,118 @@ Loading Modnique - Boutique Events
 
 *   all events
     *   women
-    *   Black Diamond Jewelry and Watches
-    *   Coach Handbags and Wallets
-    *   Designer jewelry blowout
+    *   Belle &. Bloom handbags
+    *   Crystal rock by Christian Audigier
+    *   DV Italy jewelry
     *   Designer watches under $49 for her
-    *   Everything under $29
+    *   Envy Office Dresses
     *   Fall Gemstone Collections
-    *   Funky Jeans
-    *   La Jewelry Group jewelry
+    *   Finishing touch: white gold jewelry
+    *   From the Beauty Closet Cosmetics Made in USA
+    *   Hermes handbags, jewelry, watches from $129
+    *   Holiday gifts: Designer jewelry
     *   Milan Fashion Trends
     *   New York Fashion Trends
-    *   Reneta J, Cake Couture, Gold Hawk Women's Apparel
     *   Sandra Darren Sweater Dresses
-    *   Silver jewelry sale from $1
-    *   The perfect holiday gift: for him &. her
     *   Versace Jeans Handbags Made In Italy
+    *   Y-3 Adidas Shop Made In USA
     *   _more..._
     *   men
     *   Designer watches under $49 for him
+    *   Dress to Impress: Clark's, Cole Haan Men's Shoes
     *   Men's Polo Shop Featuring Armani, Burberry, Ralph Lauren
     *   _more..._
     *   other
     *   Paris Fashion Trends
-    *   Prada, Dior, Givenchy, Versace &. more Sunglasses
-    *   Winter must-haves blowout for him and her
+    *   Tonino Lamborghini, Invicta Watches
     *   _more..._
 *   apparel
     *   women
     *   Caniche women's apparel
-    *   Cocktail Hour
     *   Crystal rock by Christian Audigier
+    *   Envy Office Dresses
     *   Everything under $29
-    *   Funky Jeans
     *   Holstark Winter Outerwear
-    *   Margaret O' Leary Sweaters
     *   Milan Fashion Trends
     *   New York Fashion Trends
     *   ONNO Women's Apparel Made In USA
     *   Pajama Party!
     *   Reneta J, Cake Couture, Gold Hawk Women's Apparel
     *   Sandra Darren Sweater Dresses
-    *   See By Chloe Women's Apparel
-    *   Yuka Paris Women's Apparel
+    *   Y-3 Adidas Shop Made In USA
     *   _more..._
     *   men
     *   Men's Polo Shop Featuring Armani, Burberry, Ralph Lauren
-    *   Men's Suit Shop Featuring Hugo Boss, Valentino and more
-    *   Men's shop: Dolce &. Gabanna Denim and Shirts from $75
     *   _more..._
     *   other
     *   Paris Fashion Trends
-    *   Winter must-haves blowout for him and her
     *   _more..._
 *   Jewelry &. Watches
     *   women
     *   Black Diamond Jewelry and Watches
+    *   DV Italy jewelry
     *   Designer watches under $49 for her
     *   Fall Gemstone Collections
     *   Fall colors: silver jewelry from $5
+    *   Finishing touch: white gold jewelry
     *   Fuzion Kids Jewelry
+    *   Hermes handbags, jewelry, watches from $129
     *   Holiday gifts: Affordable jewelry
     *   Holiday gifts: Designer jewelry
     *   Jewelry sets from $12
     *   La Jewelry Group jewelry
     *   Milan Fashion Trends
-    *   November Birthstones: Topaz and Citrine jewelry
-    *   Perfect pearls
     *   Rose gold jewelry deals
     *   Sapphire jewelry under $99
     *   Silver jewelry sale from $1
-    *   The perfect holiday gift: for him &. her
     *   _more..._
     *   men
     *   Designer watches under $49 for him
     *   _more..._
     *   other
     *   Paris Fashion Trends
-    *   Rolex
+    *   Tonino Lamborghini, Invicta Watches
     *   Watches we love: Gucci, Versace, Movado
     *   _more..._
 *   Handbags &. Accessories
     *   women
+    *   Belle &. Bloom handbags
     *   Coach Handbags and Wallets
-    *   Designer jewelry blowout
-    *   Fluff Accessories
-    *   Green Hills Handbags
-    *   Holiday Gift Guide: Burberry Scarves &. Fragrances
     *   Holiday gifts: Designer jewelry
-    *   Luxury Handbags under $499: Tod's, Longchamp, Lanvin and more
     *   Milan Fashion Trends
-    *   Mulberry, Alexander McQueen, Marc Jacobs, Proenza Schouler
     *   New York Fashion Trends
     *   Versace Jeans Handbags Made In Italy
-    *   Vintage Judith Leiber Handbags Made In Italy
+    *   Y-3 Adidas Shop Made In USA
     *   _more..._
     *   other
-    *   Boucheron, Coach, Vera Wang and more Eyeglasses
     *   Paris Fashion Trends
     *   Prada, Dior, Givenchy, Versace &. more Sunglasses
     *   _more..._
 *   shoes
     *   women
-    *   Bertalini Boots and Shoes
     *   Designer shoes under $49
     *   Of-the-Moment Women's Shoes
-    *   TBS Women's Shoes
-    *   Winter Wonderland Style Boots
+    *   Y-3 Adidas Shop Made In USA
+    *   _more..._
+    *   men
+    *   Dress to Impress: Clark's, Cole Haan Men's Shoes
     *   _more..._
     *   other
     *   Henry Ferrera Kids Rainboots
     *   _more..._
 *   beauty
     *   women
-    *   Avani Dead Sea Cosmetics
-    *   Holiday Gift Guide: Burberry Scarves &. Fragrances
-    *   NuMe Style Hair Tools
+    *   From the Beauty Closet Cosmetics Made in USA
     *   _more..._
 *   men
-    *   Boucheron, Coach, Vera Wang and more Eyeglasses
-    *   Dedia Watches Made in Switzerland
     *   Designer watches under $49 for him
+    *   Dress to Impress: Clark's, Cole Haan Men's Shoes
     *   Henry Ferrera Kids Rainboots
     *   Men's Polo Shop Featuring Armani, Burberry, Ralph Lauren
-    *   Men's Suit Shop Featuring Hugo Boss, Valentino and more
-    *   Men's shop: Dolce &. Gabanna Denim and Shirts from $75
     *   Paris Fashion Trends
     *   Prada, Dior, Givenchy, Versace &. more Sunglasses
-    *   Rolex
+    *   Tonino Lamborghini, Invicta Watches
     *   Watches we love: Gucci, Versace, Movado
-    *   Winter must-haves blowout for him and her
     *   and many more...
 *   gifts
 *   daily deal
