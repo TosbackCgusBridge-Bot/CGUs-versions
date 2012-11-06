@@ -228,37 +228,37 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Villa Santai - Bali
+*   First Luxury Art Hotel - Rome
     
-    Starting Today at Noon EST
-    
-*   James Royal Palm - South Beach
-    
-    Starting Today 11/5 at 3pm EST
-    
-*   An Uptown NYC Mystery Hotel
-    
-    Starting Today 11/5 at 3pm EST
-    
-*   Sugar Ridge - Antigua
-    
-    Starting Today 11/5 at 3pm EST
+    Starting Today 11/6 at 3pm EST
     
 *   Beacon Hill Hotel - Boston
     
-    Starting Tuesday 11/6 at 3pm EST
-    
-*   Dana Hotel - Chicago
-    
-    Starting Tuesday 11/6 at 3pm EST
+    Starting Today 11/6 at 3pm EST
     
 *   Charleston Place - S.C. South Carolina
     
-    Starting Tuesday 11/6 at 3pm EST
+    Starting Today 11/6 at 3pm EST
     
-*   First Luxury Art Hotel - Rome
+*   Hotel Vitale - San Francisco
     
-    Starting Tuesday 11/6 at 3pm EST
+    Starting Wednesday 11/7 at Noon EST
+    
+*   The Palms - Las Vegas
+    
+    Starting Wednesday 11/7 at Noon EST
+    
+*   Farmhouse Inn - Sonoma, CA
+    
+    Starting Wednesday 11/7 at Noon EST
+    
+*   Ca' Sagredo Hotel - Venice
+    
+    Starting Wednesday 11/7 at Noon EST
+    
+*   Mr. C Beverly Hills
+    
+    Starting Thursday 11/8 at 3pm EST
     
 
 View All Upcoming Sales → Jetsetter
