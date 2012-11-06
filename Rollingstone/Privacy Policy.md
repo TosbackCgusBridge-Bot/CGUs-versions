@@ -32,7 +32,7 @@ Rolling Stone Skip to the content.
 *   •
 *   Green Day Timeline
 *   •
-*   Voodoo Festival
+*   Band to Watch
 *   •
 *   RS Soundtrack
 *   •
