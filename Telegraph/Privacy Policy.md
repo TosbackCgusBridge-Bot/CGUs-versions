@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Monday 05 November 2012
+Tuesday 06 November 2012
 
 *   Home
 *   News
@@ -142,17 +142,17 @@ Problems with the Telegraph for iPad? Call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Halo 4 review  
+Arsenal have lost their will to win  
 
-Halo 4 marks the first entry into Microsoft's blockbuster sci-fi shooter franchise since the departure of original developer Bungie. Can new developers 343 Industries kick off a new Halo trilogy in style? **Tom Hoggins** finds out.
+**Henry Winter:** culture of complacency has infected club from the boardroom all the way down to players.
 
 Comments
 
-Downton finale: a perfect send-off Why did no one speak out over Savile? 'China's destiny in doubt after leadership shock' Wenger in denial over Arsenal's problems Advertisement
+China's digital revolution Ben Affleck talks about his new film, Argo Just don’t expect to get much done Halo 4 review Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
-DUNHILL TRAVEL DEALS   Most competitive travel deals and vacation packages View US News   Hurricane Sandy: live coverage View FREE PRIZE DRAW TO WIN £1,000   Share with us your favourite place in the world and win £1,000 View Telegraph for iPad free trial   Try The Telegraph for iPad free for 30 days View
+US Election   The latest news on the US presidential election View DUNHILL TRAVEL DEALS   Most competitive travel deals and vacation packages View Telegraph for iPad free trial   Try The Telegraph for iPad free for 30 days View FREE PRIZE DRAW TO WIN £1,000   Share with us your favourite place in the world and win £1,000 View
 
 Back to top
 
