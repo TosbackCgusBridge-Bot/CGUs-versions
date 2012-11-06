@@ -732,7 +732,7 @@ You will need to provide your mobile phone number in order to be removed from th
 *   Get to Know Us
 *   About Us
 *   Careers
-*   Join our Affiliate Program
+*   Press Room
 *   Promo Exclusions
 *   Privacy Policy
 *   Terms of Use
