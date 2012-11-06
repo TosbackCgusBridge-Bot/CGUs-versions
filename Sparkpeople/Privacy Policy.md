@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Pushup Stand Resources
+*   Zinc Magnesium Resources
 
   
-Stay in Touch With SparkPeople **Goal-Tracking Tools**
+Stay in Touch With SparkPeople **Portable Snacking Tips and Ideas**
 
-Find out the best way to track--and reach!--your goals.
+Many of us get hungry during odd hours of the day and go for junk food to save time. Well here are snacks that are quick _and_ healthy.
 
 Read More
 
-*   Healthy snack ideas for under 100 calories?
-*   Who Motivates you on Sparkpeople?
 *   Vegetables- yuck!
-*   Describe the last time you felt proud of yourself.
-*   How do you maintain your exercise long-term?
+*   Keeping fruits and veggies fresh
+*   Any moderate eaters, exercisers, out there?
+*   Who Motivates you on Sparkpeople?
+*   How do you hold yourself accountable?
 
-View Demo **Inner Thigh Squat Stretch**  
-Click on the picture to the left to find out more, and see an exercise demo **Chef Meg's Vegetable Paella**  
+View Demo **Seated Row Machine**  
+Strengthen your back muscles with this easy exercise. **Healthy, Fruity Breakfast Hand Tarts**  
 Submitted By: **CHEF\_MEG**
 
-I created a budget version of this rustic Spanish dish. My version skips the seafood and the saffron, and I finish the dish with an herbed-citrus olive pesto to add color and intensify the flavor.  
+Ditch the toaster pastry. They're loaded with sugar and fat--and not much else. My hand tarts are full of fruit, and if you make them ahead of time your kids can grab them and go.  
 Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
@@ -171,7 +171,7 @@ Join Now For Free!
   
 Home | My Tools | Resources | Community | Blogs | Healthy Recipes | About Us | Announcements | Store | Help Desk  
   
-Diet | Weight Loss Motivation | Diabetes Diet | Emotional Overeating | Thyroid Diet | Vegan Diet  
+Sign up for a FREE SparkPeople account Diet | Weight Loss Motivation | Diabetes Diet | Emotional Overeating | Thyroid Diet | Vegan Diet  
 | Running Beginner | College Health | Senior Health | Children's Health  
   
 **Popular calorie searches:** spagettie calories | mini croissant | calories in suhi | tall nonfat latte calories | sugar free pancake syrup | calories in sara lee delightful wheat bread | coffeemate vanilla calories | chicken quesedilla | calories in horseradish cheese | oscar mayer wieners  
