@@ -1,4 +1,4 @@
-A NOTE FROM JILL MALANDRINO
+RED CROSS: HELP SANDY VICTIMS
 
 *   **Home**
 
@@ -86,14 +86,16 @@ A NOTE FROM JILL MALANDRINO
 
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
-*   AIG
-*   Hastings vs. Icahn
-*   Invest in 2013
-*   Cloud Wars
-*   Election Conspiracy
+*   BioMarin
+*   Kass
+*   iPad Mini Motivation
 *   Windows Phone 8 Review
+*   Hoboken
+*   Boeing 787
+*   Obama Will Win
+*   Zillow
 
-pjava03.dc.thestreet.com Privacy Policy
+pjava07.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -248,15 +250,15 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,093.16 -139.46 -1.05% NASDAQ 2,982.13 -37.93 -1.26% S&P 500 1,414.20 -13.39 -0.94% US 10 Yr 1.726% +0.011 Brokerage Partners Most Commented
+DOW 13,112.44 19.28 0.15% NASDAQ 2,999.66 17.53 0.59% S&P 500 1,417.26 3.06 0.22% US 10 Yr 1.684% -0.042 Brokerage Partners Most Commented
 
+*   <I>TheStreet</I>. Predicts Obama Will Win the 2012 Election
 *   Solar Panels Don't Work!
+*   Windows Phone 8 Review: Good, But Not Good Enough
 *   Yes, Apple Can Kill Microsoft Office
-*   'Put the White Back in the White House'?
-*   10 Worst Cars of All Time
-*   10 Cult TV Shows Netflix Should Revive
+*   Arena Pharma Is Still A Good Short
 
-Articles From Newser Recession Quadrupled Suicide Rate Calif. 'Frankenfood' Bill in Death Spiral After Ad War Sandy Knocks Banks Back to Pre-Electric Era See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser New GOP Tactic: Volunteers Paid With 'Secret Money' In Face of Gas Woes, Great News at the Pump Mystery Firm Donates Record $5.3M to GOP PAC See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
