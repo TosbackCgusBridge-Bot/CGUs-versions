@@ -822,7 +822,6 @@ Y*   Books + Media
         *   Stuffed Animals
     *   open Purses + Travel Bags
         *   Handbags, Totes and Wallets
-        *   Travel Collection
         *   Lunch Totes
     *   open Home Improvement
         *   Cleaning Supplies
