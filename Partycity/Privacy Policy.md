@@ -56,7 +56,7 @@ from Party City.
 
 Subscribe What is RSS? © Party City California Class Action Notice  
 Visit www.partycitysettlement.com or  
-call (877) 522-0446 for information  
+call (877) 522-0445 for information  
 about a recent class action settlement  
 that could affect your rights. **Customer Favorites**  
 Birthday Party Supplies  
