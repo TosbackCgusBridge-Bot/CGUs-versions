@@ -536,4 +536,4 @@ Top Destinations
 © 1996 - 2012 Marriott International, Inc. All rights reserved. Marriott proprietary information
 
 *   Terms of Use
-*   Privacy Statement
+*   **Privacy and Cookie Statement**
