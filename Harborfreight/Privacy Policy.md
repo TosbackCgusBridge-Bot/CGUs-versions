@@ -590,31 +590,7 @@ ATTN: Internet Customer Service
 
 We may change this Privacy and Security Policy at any time in our sole discretion. Any updates to our Privacy and Security Policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Continued use of our Sites, Stores, Customer Call Centers or other Harbor Freight services following our posting of the change notice or an updated Privacy and Security Policy will constitute binding acceptance of those changes.
 
-We thank you for your business.
-
-1.What is the main reason for your visit today?
-
-*   Checking prices before visiting a store
-*   Just looking
-*   Buying something online
-
-2\. Have you ever been to a Harbor Freight store or harborfreight.com before?
-
-*   Store
-*   Both
-*   Website
-*   Neither
-
-3\. Did you find what you were looking for?
-
-*   Yes
-*   No
-
-If "no", what were you looking for?:
-
-4\. What could we do to make your online shopping experience better?
-
-Submit Feedback of delivering quality tools at affordable prices. Corporate Information
+We thank you for your business. of delivering quality tools at affordable prices. Corporate Information
 
 *   About Us
 *   Careers
@@ -666,3 +642,28 @@ Lifetime Warranty on Hand Tools! We guarantee our Hand Tools to be free from def
 
 ABOUT HARBOR FREIGHT TOOLS  
 At Harbor Freight Tools you'll find one of the largest selections of brand-name discount tools, including hand tools, power tools...anything that fits into your tool box, and bigger equipment too! Make Harbor Freight Tools your first stop for the best prices on: Chicago Electric, Pittsburgh, Central Machinery, Central Hydraulic, Central Forge...then load-up your tool box! What customers like best about Harbor Freight Tools is that they won't find better discount tools, including hand tools and power tools, for lower prices anywhere else! Plus we're so sure you'll love the value of our hand tools, we back them with a lifetime warranty on all our hand tools!
+
+1.What is the main reason for your visit today?
+
+*   Checking prices before visiting a store
+*   Just looking
+*   Buying something online
+
+2\. Have you ever been to a Harbor Freight store or harborfreight.com before?
+
+*   Store
+*   Both
+*   Website
+*   Neither
+
+3\. Did you find what you were looking for?
+
+*   Yes
+*   No
+
+If "no", what were you looking for?: 4. Your Email:
+
+5\. What could we do to make your online shopping experience better?
+
+  
+The code you entered does not match the image
