@@ -406,22 +406,21 @@ Intel® Online Privacy Notice Intel is committed to respecting your privacy. Our
     *   Related Topics
     *   Related Products
     
-    *   Intel Human Rights...
-        
-        Summarizes Intel's position on key human rights issues and embodies common principles laid out by...  
-        Preview | Download
-        
-    *   Intel® Cookie Notice
-        
-        Intel's cookie practices on Intel websites.
-        
-    *   FAQs: Online Privacy
-        
-        Intel® Online Privacy Notice Frequently Asked Questions (FAQs)
-        
     *   Intel Export Compliance
         
         Intel export compliance adheres with business, laws, and regulations that govern trade.
+        
+    *   Intel Public Policy
+        
+        Intel public policy promotes innovation worldwide.
+        
+    *   Intel Terms of Use
+        
+        Intel Terms of Use include description for using the Intel Corporation ("Intel") web sites and materials.
+        
+    *   Intel Social Media...
+        
+        Intel Social Media Guidelines for Intel employees or contractors contributing on or off Intel.com.
         
     
     *   Technology for the Home
