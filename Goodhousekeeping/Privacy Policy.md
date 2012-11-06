@@ -172,11 +172,11 @@ Other Stories You Might Like
 
 MostPopular Stories
 
-*   Celebrity Bob Hairstyles
-*   26 Delicious One-Dish Meals
-*   Thigh Blasters
 *   How to Shop and Dress Slimmer
+*   Thigh Blasters
+*   Celebrity Bob Hairstyles
 *   Master Bedroom Decorating Ideas
+*   Best Hairstyles on Celebs Over 40
 
 See All About Articles
 
@@ -213,9 +213,9 @@ Don't Miss These:
 *   Spruce Up Your Bathroom
 *   Celebrity Bedroom Designs
 
-Product Reviews Top-Rated Hair Dryers
+Product Reviews Hot Hair Dryers
 
-These dryers will help make every day a ...Read More
+These beauty tools promise to make every...Read More
 
 Top-Rated Toothbrushes
 
