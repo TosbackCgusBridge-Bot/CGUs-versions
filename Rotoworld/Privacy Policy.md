@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Nationals, Adam LaRoche no closer to deal
+*   Joakim Soria willing to set up for Yankees
+*   Reds to reevaluate Chapman's role this winter
+*   Rays, Peralta agree to two-year, $6M contract
+*   Red Sox finalize two-year deal with Big Papi
+*   White Sox may trade a starter this offseason
+*   Tigers optimistic about V-Mart bouncing back
+*   Yankees 'have had interest' in C David Ross
+*   Wainwright ready for extension talks with STL
 *   Report: Josh Hamilton looking for $175M as FA
 *   Oliver Perez agrees to one-year deal with M's
 *   McCarthy drawing interest from multiple teams
-*   Bartolo Colon signs one-year deal with A's
-*   Mariano Rivera to return for 2013 season
-*   Indians acquire Aviles, Gomes from Blue Jays
-*   Angels decline 2013 option on Dan Haren
-*   Mariners ink Iwakuma to two-year extension
-*   Report: Haren-for-Marmol trade not happening
-*   Astros plan to reach out to Lance Berkman
-*   Ortiz agrees to two-year deal with Red Sox
-*   Nats make qualifying offer to Adam LaRoche
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Vote Vick? Nov 6
+*   Matchup: Eagles @ Saints Nov 5
 *   Hamster Time, Can't Touch This Nov 5
 *   DMC Derailed Nov 5
 *   Week 9 Live Blog Nov 4
 *   Updated Week 9 Rankings Nov 4
 *   Matchups: Pay-Dirt Due Nov 3
 *   Week 9 Starts and Sits Nov 3
-*   Week 9 Injury Questions Nov 3
-*   Friday Rundown Nov 2
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Titans owner fumes after 51-20 loss to Bears
-*   Matt Ryan rolls up 342 yards, Falcons now 8-0
-*   Antonio Brown doesn't have high-ankle sprain
-*   McFadden week to week with high-ankle sprain
-*   Vikings aren't considering benching Ponder
-*   Percy Harvin on his ankle: We'll see Monday
-*   Antonio Brown says he has high-ankle sprain
-*   RG3 downplays rib injury that required X-rays
-*   Packers provide no update on WR Jordy Nelson
-*   Palmer throws four TD passes as Raiders fall
-*   Doug Martin explodes for 272 yards, four TDs
-*   Peterson gashes Seahawks for 193 yards, 2 TDs
+*   Reid: 'Michael Vick will be the quarterback'
+*   Brees tosses 2 TDs as Saints cruise past PHI
+*   Packers expect Nelson to be 'fine' after bye
+*   Clay Matthews could miss a 'couple of weeks'
+*   DMC, Goodson both have high-ankle sprains
+*   Harvin on crutches, ankle sprained in 3 areas
+*   MJD ruled out for Thursday Night Football
+*   Crennel demotes self from coordinator duties
+*   Chiefs waive veteran corner Stanford Routt
+*   Amendola 'looks poised' to return for Week 10
+*   Tomlin: WR Brown has 'mild' high ankle sprain
+*   Frazier: No consideration of benching Ponder
 
 NBA PAGES
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Update: Barea (concussion) hopes to play Mon.
-*   Report: Steve Nash (leg) may miss four weeks
-*   Nikola Vucevic blows up for 18 &. 13 vs. Suns
-*   Hawks hoping Josh Smith will play Wednesday
-*   Jameer Nelson out, E'Twaun Moore in for ORL
-*   Jason Richardson (ankle) ruled out for Monday
-*   Anthony Davis (concussion) iffy for Wednesday
-*   X-rays negative on Gerald Wallace's ankle
-*   Klay Thompson rests after hard fall on court
-*   Mayo scores 30 pts w/ career-high seven 3s
-*   Nicolas Batum posts all-around gem vs. HOU
-*   Varejao does it again, piling up 20 &. 17
+*   Zeller goes for 15 &. 7. takes blow to face
+*   Cousins dominates the stat sheet vs. GSW
+*   Mayo explodes for 32 points with six triples
+*   Granger (knee) update could be coming soon
+*   Super-Nintendo Chalmers hands out 11 assists
+*   Griffin (elbow) dealing with bursa sac issue
+*   Waiters goes berserk with 28 pts, 7 treys
+*   AK-47 posts 16-10-6 line with four blocks
+*   Marion leaves game with left knee strain
+*   Update: Nash (leg) looking at 7-10 days
+*   Jameer Nelson (groin, knee) heading to doctor
+*   Avery Bradley still at least six weeks away
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Cherry doesn't think Luongo will join Leafs
+*   Jussi Jokinen signs new contract with Karpat
+*   Kovalchuk is the KHL's Player of the Month
+*   NHL, union expected to resume talks Tuesday
+*   Thomas Vanek is heading back to America
+*   Could we still have an NHL outdoor game?
+*   Jhonas Enroth signs with Almtuna in Sweden
 *   NHL and PA have good talks on weekend
 *   Antti Miettinen signs with hometown team
 *   Zach Boychuk scores again for Checkers
 *   Jagr continues to dominate for Kladno
 *   Scheifele records his 2nd hat trick of 12-13
-*   Mikael Granlund (leg) might be out for weeks
-*   Fehr to players: There's been no new offers
-*   Matt Cooke injured in Pens' informal skate
-*   KHL star Nail Yakupov on way to North America
-*   Schenn and Couturier pace AHL Phantoms
-*   Darren Helm may need surgery on cheekbone
-*   Ian White thinking NHL season will be lost
 
 NASCAR PAGES
 
@@ -285,6 +285,8 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Barber's DQ benefits Lafeber, five others
+*   Reed to play Disney. multiple goals in sight
 *   Poulter emerges at the WGC-HSBC Champions
 *   Tianlang, 14, wins Asian Am and Masters berth
 *   Oosthuizen fades. settles for 54-hole co-lead
@@ -295,8 +297,6 @@ FANTASY GOLF NEWS
 *   Oosthuizen separates in WGC-HSBC second round
 *   Scott closes birdie-birdie-eagle to co-lead
 *   Jonathan Byrd undergoes surgery on his wrist
-*   Garcia eyes return at European Tour finale
-*   Donald will not defend at the season finale
 
 NFL DRAFT PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Mauti Morphing Linebacker Nov 5
 *   Midseason NFL Mock Draft Nov 2
 *   Week Ten Matchup Preview Nov 2
 *   Midseason Mock Draft Nov 1
@@ -318,7 +319,6 @@ COLUMNS
 *   General Patton Oct 29
 *   Senior Prospect Rankings Oct 27
 *   Week Nine Matchup Preview Oct 26
-*   Dysert For Dinner Oct 24
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Report: WR Wilson has left the Cougars
+*   Lemonier not making any decisions on NFL, yet
+*   Nawrocki: McDonald has earned UDFA grades
+*   Pauline: Many view 2013 Draft like 2008's
+*   Pauline: Baylor WR Williams now a top-60 pick
+*   Dunn returns third kickoff for 100 yds in '12
+*   Marquess Wilson suspended by Wash St
+*   Jamie Collins adds three sacks against UAB
+*   Falcons DT Jones adds 2.5 sacks, up to 11.5
+*   South Florida QB Daniels suffers broken ankle
+*   Georgia WR Brown out for season (ACL)
 *   Kenjon Barner notches 321 rush yards, 5 TDs
-*   Pitt RB Graham runs through Irish defense
-*   Klein's Mother: Think he is going to be 100%
-*   Geno continues ups and downs against TCU
-*   Wolfpack QB Glennon throws 3 INTs vs Cavs
-*   Klein leaves in 3rd Q vs Okie St with injury
-*   Razorbacks QB Wilson average in loss to Tulsa
-*   Vols WR Hunter registers 9/181/3 line vs Troy
-*   Patterson catches nine for 219 &. a TD vs Troy
-*   Tyler Bray doesn't throw an INT versus Troy
-*   Penn State DT Hill carted off field (knee)
-*   Landry Jones throws 4 TDs and 2 INTs vs ISU
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Titans owner fumes after 51-20 loss to Bears
-*   NFL:Antonio Brown doesn't have high-ankle sprain
-*   NFL:Matt Ryan rolls up 342 yards, Falcons now 8-0
-*   NFL:Doug Martin explodes for 272 yards, four TDs
-*   NFL:McFadden week to week with high-ankle sprain
-*   NFL:Vikings aren't considering benching Ponder
-*   NFL:Percy Harvin on his ankle: We'll see Monday
-*   NFL:Antonio Brown says he has high-ankle sprain
-*   NBA:Report: Steve Nash (leg) may miss four weeks
-*   NFL:Packers provide no update on WR Jordy Nelson
-*   NAS:Jimmie Johnson makes it two in a row
-*   NFL:Dez Bryant (hip) officially active for Week 9
+*   NFL:Reid: 'Michael Vick will be the quarterback'
+*   MLB:Joakim Soria willing to set up for Yankees
+*   NFL:Brees tosses 2 TDs as Saints cruise past PHI
+*   NFL:Clay Matthews could miss a 'couple of weeks'
+*   NFL:DMC, Goodson both have high-ankle sprains
+*   NFL:Harvin on crutches, ankle sprained in 3 areas
+*   NFL:MJD ruled out for Thursday Night Football
+*   NFL:Chiefs waive veteran corner Stanford Routt
+*   NHL:Cherry doesn't think Luongo will join Leafs
+*   MLB:Reds to reevaluate Chapman's role this winter
+*   NFL:Amendola 'looks poised' to return for Week 10
+*   NBA:Zeller goes for 15 &. 7. takes blow to face
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1J. DwyerNFL (6940)
-*   2J. NelsonNFL (6926)
-*   3D. BryantNFL (6282)
-*   4M. LeshoureNFL (6233)
-*   5D. MurrayNFL (6031)
+*   1J. NelsonNFL (7067)
+*   2D. SprolesNFL (6607)
+*   3J. DwyerNFL (6548)
+*   4D. BryantNFL (6177)
+*   5C. JohnsonNFL (5997)
 
-*   6C. JohnsonNFL (5996)
-*   7D. SprolesNFL (5930)
-*   8D. BrownNFL (5667)
-*   9D. RoseNBA (5475)
-*   10F. JonesNFL (5429)
+*   6D. BrownNFL (5911)
+*   7M. LeshoureNFL (5799)
+*   8D. MurrayNFL (5691)
+*   9M. Jones-DrewNFL (5352)
+*   10A. AminuNBA (5235)
 
   
 Video Center
@@ -525,6 +525,8 @@ Video Center
 *   4
 *   »
 
+*      
+    Start or Sit: Eagles - Saints
 *      
     Start &. Sit: DAL @ ATL
 *      
@@ -539,39 +541,37 @@ Video Center
     Week 8 Starts &. Sits 1 p.m.
 *      
     Start or Sit: Bucs - Vikings
-*      
-    Fix: Week 8's top pickups
 
   
   
-  Headlines Hamster Time, Can't Touch This  
-Nov 5 Doug Martin set rushing records, but which other players stood out for better or worse? Chet Gresham recaps the Week 9 action.  
+  Headlines Vote Vick?  
+Nov 6 Patrick Daugherty examines Michael Vick's role in the Eagles' struggles and checks in on Percy Harvin and Darren McFadden in an Election Day Dose.  
   
 More NFL Columns
 
+*   »Vote Vick? Nov 6
+*   »Matchup: Eagles @ Saints Nov 5
 *   »Hamster Time, Can't Touch This Nov 5
 *   »DMC Derailed Nov 5
 *   »Week 9 Live Blog Nov 4
 *   »Updated Week 9 Rankings Nov 4
 *   »Matchups: Pay-Dirt Due Nov 3
 *   »Week 9 Starts and Sits Nov 3
-*   »Week 9 Injury Questions Nov 3
-*   »Friday Rundown Nov 2
 
 NFL Headlines
 
-*   »Titans owner fumes after 51-20 loss to Bears
-*   »Matt Ryan rolls up 342 yards, Falcons now 8-0
-*   »Antonio Brown doesn't have high-ankle sprain
-*   »McFadden week to week with high-ankle sprain
-*   »Vikings aren't considering benching Ponder
-*   »Percy Harvin on his ankle: We'll see Monday
-*   »Antonio Brown says he has high-ankle sprain
-*   »RG3 downplays rib injury that required X-rays
-*   »Packers provide no update on WR Jordy Nelson
-*   »Palmer throws four TD passes as Raiders fall
-*   »Doug Martin explodes for 272 yards, four TDs
-*   »Peterson gashes Seahawks for 193 yards, 2 TDs
+*   »Reid: 'Michael Vick will be the quarterback'
+*   »Brees tosses 2 TDs as Saints cruise past PHI
+*   »Packers expect Nelson to be 'fine' after bye
+*   »Clay Matthews could miss a 'couple of weeks'
+*   »DMC, Goodson both have high-ankle sprains
+*   »Harvin on crutches, ankle sprained in 3 areas
+*   »MJD ruled out for Thursday Night Football
+*   »Crennel demotes self from coordinator duties
+*   »Chiefs waive veteran corner Stanford Routt
+*   »Amendola 'looks poised' to return for Week 10
+*   »Tomlin: WR Brown has 'mild' high ankle sprain
+*   »Frazier: No consideration of benching Ponder
 
 NFL Links
 
