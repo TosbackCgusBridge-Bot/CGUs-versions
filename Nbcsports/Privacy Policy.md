@@ -1,78 +1,78 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Pulpit politics: Pastors endorse candidates to protest 1954 law
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Obama: 'We've come too far to let our hearts grow faint'
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Kevin C. Cox / Getty Images These Falcons refuse to flinch
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports Time for change in Dallas?
     
-    PFT: Atlanta's 8-0 start hasn't been perfect, but there's something to be said for a balanced, talented team that delivers when it matters.
+    ProFootballTalk: Carolyn Manno, Mike Florio and Rodney Harrison debate whether the Cowboys need to move on from QB Tony Romo, coach Jason Garrett and Jerry Jones in the GM role.
     
-    Atlanta (8-0) edges Dallas   |  Highlights Steelers snap Giants' win streak   |  Images PFT: Martin's 251 rushing yards boost Bucs Luck throws for rookie record   |  Pagano visits Cam outguns RG3   |  Team effort  |  Bummed 'Skin D scores 2 more TDs, Bears crush Titans   |  Video PFT: Titans owner puts coaches, players on notice Could the Saints lose Sean Payton? Ad
+    PFT: Cowboys lock Jerry Jones out of locker room Saints sack Eagles for a little 'momentum' CSN: Eagles the laughingstock of NFL PFT: Vick still the starter  |  His brother rants PFT: Eagles firing Castillo a 'miscalculation'? How did the officials do in Week 9? Luck has Colts playoff-bound  |  How good? PFT: Colts coach Pagano's cancer is in remission Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Reed Saxon / AP Greinke may not be worth it
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Layne Murdoch / Getty Images Hamilton wants $175 million?
     
-    HBT: Free agent will earn a massive payday, but given his last three seasons and the other pitchers available, teams may want to reconsider.
+    HBT: How about a genie in a bottle who doesn’t mind when you wish for more wishes. The odds of that happening are about the same as Josh Hamilton getting what he wants.
     
-    HBT: Hamilton, Greinke among top 50 free agents HBT: Dodgers might want reunion with Kuroda HBT: Padres could be a fit for free agent Haren DeMarco: Bargains to be had in free agent market HBT: Rockies are down to four candidates HBT: Rivera tells Yanks he 'wants to play' in '13 HBT: Police make arrests in killing of Perez HBT: Colon's deal with A's could be worth $6M Ad
+    Trash Talk: When you see Hamilton, think A-Rod HBT: Boras wants the Yankees to sign Soriano HBT: Ortiz says Valentine 'must have mental issues' HBT: Ortiz's contract incentives depend on his Achilles HBT: Giants win the title again ... in Japan HBT: Suspended Melky will get full playoff share HBT: Greinke may not be worth big bucks HBT: Hamilton, Greinke among top 50 free agents Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Bruce Bennett / Getty Images Finally, they agree on something
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines NBC Sports Lockout nearing an end?
     
-    PHT: Maybe it really is time to be optimistic. NHLPA Special Counsel Steve Fehr agrees with Bill Daly's encouraging words about Saturday's marathon meeting.
+    PHT Extra: Mike Halfond and Jason Brough bemoan the NHL's decision to cancel the Winter Classic, but point to positive signs that the NHL could get back on the ice as soon as Dec. 1.
     
-    NHL and union make progress, will meet again soon PHT: NHL cancels Winter Classic because of lockout PHT: Michigan will get Winter Classic in '14 PHT: Fehr explains NHL 'make whole' concession PHT: NHL, union won't turn to mediator yet PHT: 3 reasons fans might not come back PHT: Is this really worth it for players? PHT: AHL team scores twice in 3 seconds Ad
+    NHL, union to return to bargaining table Tuesday PHT: Finally, both sides agree on something PHT: Why would Luongo want to play for Toronto? PHT: Jokinen headed back to Finland, for now PHT: Vanek leaves Austria, returns to Buffalo PHT: Michigan will get Winter Classic in '14 PHT: Fehr explains NHL 'make whole' concession PHT: NHL, union won't turn to mediator yet Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Layne Murdoch / Getty Images Contributor Hawks surge past Thunder
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Ray Stubblebine / Reuters Knicks moving in on top spot
     
-    Kevin Durant just misses his first career triple-double, but it's still not enough to beat a Josh Smith-less Atlanta team.
+    PBT's power rankings: The Knicks beat the Heat and the 76ers, and Carmelo Anthony at the 4 is working out well. We’ll leave the “what happens when Stoudemire comes back?” question for another day.
     
-    Lakers get first win of season in a rout PBT: Howard, 'Melo, Martin were Sunday's stars PBT: Recaps from all of Sunday's NBA games PBT: 'Melo, Knicks still look good, throttle 76ers CSN highlights: New York dominates Philly Lowry scores 22, Raptors beat Timberwolves 105-86 PBT: Ginobili 'satisfied' with return to Spurs PBT: Disgraced ref wants to be sports handicapper Ad
+    Carmelo scores 21 as Knicks power past 76ers Heat hammer Suns   |  Cavs surprise Clippers Spurs dismantle Pacers on way to best start ever PBT: Spurs show defense behind 4-0 start PBT: When Garnett sits, Celtics struggle PBT: Barea, Sloan get first flopping warnings PBT: Kobe says he wants to play until he's 40 PBT: Nash could return in 10 days? Ad
 *   CFB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Stephen Dunn / Getty Images Ducks, Irish flip in BCS standings
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines NBC Sports Handicapping BCS title race
     
-    CFT: Alabama and K-State stayed 1-2 in the latest BCS standings, but Oregon jumped over Notre Dame into third.
+    SportsTalk: Pete Thamel breaks down the roads to the BCS title game for the nation's top four remaining unbeateans -- Alabama, Kansas State, Oregon and Notre Dame.
     
-    Heisman Hopefuls: Barner races up the rankings CFT's Fifth Quarter: Special Alabama-LSU edition McCarron has Heisman-like moment for No. 1 Alabama Alabama pulls out a big one to beat LSU CFT: Overexcited Hebert booted from LSU press box CFT: UK coach Phillips out at end of season CFT: No. 2 Oregon flies over USC| Barner's big night Questions swirl No. 3 K-State after Klein's injury Ad
+    CFT: Will K-State (No. 2 BCS) have Klein vs. TCU? CFT: Ducks, Irish flip in BCS standings Special feature: Heisman Hopefuls CFT's Fifth Quarter: Special Alabama-LSU edition McCarron has Heisman-like moment for No. 1 Alabama Bama must come back to earth with Aggies coming CFT: Overexcited Hebert booted from LSU press box CFT: UK coach Phillips out at end of season Ad
 *   Motors
     SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Jared C. Tilton / Getty Images Johnson wins at Texas
     
     Jimmie Johnson regained the lead on the final restart, beating Brad Keselowski in an ending two-lap shootout to win Sunday at Texas and add to his NASCAR Sprint Cup points lead with two races left.
     
-    Jimmie Johnson, NASCAR giving to Sandy efforts Harvick wins at Texas, Nationwide title chase tied Kimi Raikkonen wins Abu Dhabi GP Danica will have to get used to 'old man' Danica's 1 regret about bumping Cassill: execution Belskus: IndyCar moving on, bullish about future Ecclestone dismisses concerns about Bahrain GP Randy Bernard steps down as IndyCar CEO Ad
+    Hannah Storm goes in-depth with 4 NASCAR stars Jimmie Johnson, NASCAR giving to Sandy efforts Harvick wins at Texas, Nationwide title chase tied Lotus say Raikkonen's win shows they are serious Kimi Raikkonen wins Abu Dhabi GP Danica will have to get used to 'old man' Danica's 1 regret about bumping Cassill: execution Belskus: IndyCar moving on, bullish about future Ad
 *   BKC
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Damian Dovarganes / AP UCLA's point guard clarified
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Eric Risberg / AP Beware these overrated teams
     
-    CBT: Is Larry Drew II going to run the show for the Bruins or will it be Kyle Anderson? Well, here's some help.
+    CBT: Ben Howland has loads of talent at UCLA, but we think the Bruins are one team that could fall short of expectations this season.
     
-    CBT's top 25 countdown: Indiana is No. 1 Position rankings: PGs  |  SGs  |  SFs  |  PFs  |  Cs CBT: Kentucky to raise money for Sandy fallout Spartans show off Armed Forces Classic uniforms CBT: The toilet paper game still must-see video Ex-Indiana signee Patterson commits to 'Cuse Conference previews: Summit  |  Southern Conference previews: Patriot  |  Ohio Valley Ad
+    CBT: Who outside top 25 can make Final 4? CBT: Kentucky gets a scare with Mays fall Arkansas suspends Young for opener CBT: Syracuse lands 5-star forward Calhoun to make cameo in UConn broadcast booth Can anyone beat Baylor women's basketball team? CBT: Marquette's Mayo academically ineligible CBT: UCLA's point guard picture clarified Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines What We Learned: WGC-HSBC
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Teen's presence one of many unusual sights at 2013 Masters
     
-    From a teen phenom earning a Masters bid to auctioning off Rory McIlroy's infamous Ryder Cup ride, here is What We Learned.
+    Women in green jackets and Bubba Watson in his General Lee won't be the most unusual sights in the 2013 Masters. A 14-year-old will be.
     
-    Guan, 14, wins Asia-Pacific Am. gets Masters bid What We Learned: WGC-HSBC Report: McIlroy, Nike reach deal, shoot commercials Quotes of the Week Lehman cruises to second straight Schwab Cup title Cop car that raced Rory to Medinah to be auctioned Behind the scenes with ... Charlie Rymer Report: Bradley says he'll challenge anchoring ban Lewis comes from seven back, wins Mizuno Tip of the Week: Learn to groove your takeaway Ad
+    Hall of Fame instructor Flick dies at 82 Toski remembers friend and fellow instructor Flick Guan, 14, wins Asia-Pacific Am. gets Masters bid Report: Barber DQs himself late from Q-School Nike unveils new driver, noncommital on McIlroy What We Learned: WGC-HSBC Poulter jumps to 15th in latest world ranking Seinfeld star touts new Cobra gear G-Mac downplays hand injury. won't miss time Lewis comes from seven back, wins Mizuno Lehman cruises to second straight Schwab Cup title Video: Understand bounce and improve your pitching Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Victor Decolongon / Getty Images San Jose's in control (kinda)
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines George Frey / Getty Images Winners, losers from MLS semis
     
-    PST: Earthquakes have reigning MLS champs on brink of elimination after 1-0 win, but that's not necessarily because they were the better team.
+    PST: Real Salt Lake did just about everything right when it came to its opening leg vs. Seattle, but it wasn't the only one happy about the first games. Or unhappy.
     
-    Earthquakes beat Galaxy in extra time Dynamo beats Sporting 2-0   |  Highlights PST: Moffat delivers for Houston  |  His take PST: Vermes says layoff didn't hurt K.C. Can Kansas City make a comeback? Euro giants struggling in Champions League PST: DC United, Red Bulls tie in first game Highlights: DC and NY draw in first leg Ad
+    PST: Foul or not, we didn't deliver, Donovan says PST: MLS says San Jose stadium out for final PST: MLS playoffs cannot catch a break in NY Real Betis beats Getafe 4-2 in Spanish League Odemwingie leads West Brom over Southampton 2-0 Analysis: Goal line technology may be a red herring PST: San Jose's in control (kinda) Earthquakes beat Galaxy in extra time Ad
 *   Horses
     SectionsOverview Latest news Watch live racing Results Entries Latest videos Free racing game Bet now  
     Headlines Jae C. Hong / AP Long shot Fort Larned wins Classic
     
     Saturday’s $5 million Classic delivered a fitting conclusion to the Breeders’ Cup World Championships, with an exciting battle to the finish line between two of Thoroughbred racing’s best, Fort Larned and Mucho Macho Man. In the end, Fort Larned denied his rival by a half-length.
     
-    Derby favorite? DeRosa: A truly championship weekend Replays: Classic  |  Juvenile  |  Turf  |  Ladies' Pursuit of the Cup: Recapping Breeders' weekend Mile: Wise Dan stakes Horse of the Year claim Turf: Little Mike scorches the field in 2:22 4/5 Juvenile: Shanghai Bobby survives scary moments Filly &. Mare Sprint: Groupie Doll makes it 5 straight Ad
+    Derby favorite? DeRosa: A truly championship weekend Replays: Classic  |  Juvenile  |  Turf  |  Ladies' Pursuit of the Cup: Recapping Breeders' weekend Report: Jockey could get ban for betting on rival Mile: Wise Dan stakes Horse of the Year claim Turf: Little Mike scorches the field in 2:22 4/5 Juvenile: Shanghai Bobby survives scary moments Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Streeter Lecka / Getty Images Lolo says she can beat Denard
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Francois Lenoir / Reuters Is Bolt the world's best athlete?
     
-    Off the Bench: USA hurdler Lolo Jones says she can beat Michigan QB Denard Robinson in a race.
+    OlympicTalk: World record track stars Usain Bolt, David Rudisha, and Aries Merritt were named finalists for the men’s World Athlete of the Year award in Monaco Monday after receiving the most votes in a three-week poll.
     
-    Campbell, 1st black Olympic decathlon winner, dies FIS rejects Vonn's request to race against men Richardson wins 1,500 at Long Track Championships Le Clos voted South Africa's sports star of 2012 Campbell, 1st black Olympic decathlon winner, dies Heat unveil Olympic banner for LeBron James Asada wins Cup of China with strong free skate Richardson sweeps at Long Track Championships Ad
+    OlympicTalk: Lolo picked for bobsled team OlympicTalk: Lolo says she can outrace Denard Karolyi gives up some duties with US women Campbell, 1st black Olympic decathlon winner, dies FIS rejects Vonn's request to race against men Richardson wins 1,500 at Long Track Championships Le Clos voted South Africa's sports star of 2012 Campbell, 1st black Olympic decathlon winner, dies Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Outdoors Tennis Action sports Fight Night Tickets Headlines Mehdi Taamallah / AFP - Getty Images Canceled? Tell it to the runners
+    SectionsOther sports Off the Bench Cycling Outdoors Tennis Action sports Fight Night Tickets Headlines Carlos Barria / Reuters The Week in Sports Pictures
     
-    Even though their race was called off, marathoners were still on the move in New York on Sunday.
+    JJ wins a Chase race, the Giants celebrate their Series and Alabama shakes down LSU.
     
-    Opinion: NYC Marathon debacle didn't have to be Kemboi wins Soweto Marathon in new record Slideshow: Compare Obama, Romney sports cred The Week in Sports Pictures Serena says it's 'matter of time' until No. 1 again Czechs beat Serbia to keep Fed Cup title Cycling sponsor suing UCI over Armstrong saga Mich. high school says football player was 21 Ad
+    Castrodale: Redistributing wins! Election-related wishes Presidential candidates and sports OTB: Throw-in to the face — once, twice Opinion: NYC Marathon debacle didn't have to be NY marathon canceled? Tell that to the runners Djokovic, Murray win opening matches at ATP finals Serena says it's 'matter of time' until No. 1 again Czechs beat Serbia to keep Fed Cup title Ad
 
 *   Scores
 *   Odds
@@ -191,10 +191,9 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com PFT: Falcons refuse to flinch  |  Cowboys fall short  
-CFT: Week 10 Rewind in college football  |  Latest BCS  
-HBT: Top 50 free agents  |  Bargains to be had  
-Breeders' Cup: Complete coverage of races from Santa Anita  
+Tweet Also on NBCSports.com Castrodale: Election wishes  |    Sports candidates  
+NFL: Eagles the NFL laughingstock  |  Vick still starting  
+CBT: Who could make surprise Final Four runs?  |  Beware  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
