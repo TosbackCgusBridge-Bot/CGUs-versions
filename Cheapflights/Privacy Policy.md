@@ -107,7 +107,7 @@ We use the sharethis widget on this site to allow our users to tell their friend
 
 Updated: September 2011
 
-_Any comments?_ Send us your feedback Print this page Popular cities
+Popular cities
 
 *   Flights to Las Vegas
 *   Flights to New York
@@ -135,19 +135,14 @@ Popular countries
 
 Departure Gate
 
-*   Staff Picks
-*   Travel 101
-*   Flights and hotels
 *   Airline guides
 *   Airport guides
 *   Travel guides
 *   Travel tips
 *   Travel links
 *   Travel types
-*   Flight news
+*   Travel blog
 *   Airlines and agents A-Z
-*   Airlines tickets
-*   Flights
 
 *   Help
 *   Site map
@@ -168,6 +163,7 @@ Choose your country
 
 *   Cheapvols.fr (France)
 *   Cheapvoli.it (Italy)
+*   Cheapflights.co.za (South Africa)
 
 *   Privacy policy
 *   Terms &. conditions
