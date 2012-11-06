@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Sexy Mamas »
+Hot Pics! Blooming Berry »
 
-Top Stories1.  Pregnant Holly Madison: "My Belly Got Big Overnight!" »
-2.  Kristen Stewart Bares Toned Midriff, Shows Cleavage »
-3.  See Gisele Bundchen's Pregnant Bikini Body! »
-4.  Beyonce Gets Bangs! »
-5.  Amanda Bynes Was Not Nude in Public, Security Footage Confirms »
+Top Stories1.  PICTURES: Victoria Beckham Wears Flats, Is Shorter Than Son Brooklyn »
+2.  PICTURES: Lady Gaga Shows Off Fuller Bikini Body in Puerto Rico »
+3.  Rumer Willis Rocks Retro-Inspired Bikini in Hawaii »
+4.  FIRST PICTURE: Pregnant Kristen Bell Debuts Baby Bump »
+5.  Exclusive Kristen Bell, Dax Shepard Expecting a Baby! »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Defending Our Men
 
 Inside Us Weekly
 
-*   Style Kristen Stewart Bares Toned Midriff, Shows Cl
-*   Beauty Beyonce Gets Bangs!
-*   Moms See Gisele Bundchen's Pregnant Bikini Body!
-*   Body Lady Gaga: "Adele Is Bigger Than Me" But No O  
-*   Entertainment Wreck-It Ralph Tops Weekend Box Office With $
+*   Style Rachel Bilson: ‘All men hate harem pants, b
+*   Beauty See Lena Dunham Without Makeup!
+*   Moms PICTURES: Victoria Beckham Wears Flats, Is Sh
+*   Body Rumer Willis Rocks Retro-Inspired Bikini in H  
+*   Entertainment Ryan Lochte: 25 Things You Don't Know About M
 
 *   US WEEKLY
 *   Celebrity News
