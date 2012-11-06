@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Monday, November 5, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Tuesday, November 6, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Monday, November 5, 2012 Go Follow the Atlanti
 *   Magazine
 *   video
 
-How Obama Can Become the Next FDR Jack M. Balkin What the Obama Endorsements Overlooked Conor Friedersdorf The Left Is Still Worried About Vote Suppression Molly Ball Tax Cuts Have a New Name Matthew O'Brien Hurricane Sandy Guide to Working From Home Derek Thompson How Conservatives Would Reform FEMA Jordan Weissmann Are Country TV Shows About the Recession? Anthony Easton How I Enabled the Cult of Lance Armstrong Hal Espen Can Anyone Beat the NBA's One Percenters? Sports Roundtable China's Mysterious New Stealth Jet Brian Fung Istanbul's Looming Disaster Jenna Krajeski The Fight for the Iranian-American Vote Golnaz Esfandiari The Devastated New Jersey Coastline Megan Garber On 'Keeping House in Outer Space' Emma Green How Computers Could Resolve Flight Delays Rachel Swaby Stop Saying 'Fire in a Crowded Theater' Trevor Timm Why We Keep Goldfish as Pets Katrina Gulliver There Are 3 New Yorks Today Derek Thompson Why 250,000 Still Get Leprosy Every Year Lindsay Abrams This Season's Hottest in Head Lice James Hamblin The Midnight Evacuation of NYU Medical Center Samuel Penziner Presented by Brave Thinkers: Our Annual List of Risk-Takers Mike Bloomberg Knows What's Good for You James Bennet Jazz: How America's Most Vibrant Music Became a Relic Benjamin Schwarz Presented by The Moment the Lights Went Out in New York Megan Garber What Would Happen If We Scrapped Congress? Kasia Cieplak-Mayr von Baldegg Hurricane Sandy Looks Scary from Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
+And If the GOP Doesn't Win, What Then? James Fallows Life in Ohio, Center of the Political Universe Molly Ball The 10 Biggest Legal Stories on Election Night Andrew Cohen Tax Cuts Have a New Name Matthew O'Brien Hurricane Sandy Guide to Working From Home Derek Thompson How Conservatives Would Reform FEMA Jordan Weissmann 'Homeland' Is Getting Sneaky All Over Again Spencer Kornhaber Why Does Horse Racing Survive? Gary Andrew Poole The Big Lie of 'Flight': Miracles Land Planes Jason Bailey The Palestinian Guy Fawkes Michael Koplow Staying Out of Trouble During China's Power Transfer Jan Cao Who Owns the Pussy Riot Brand Claire Bigg and Natalya Dzhanpoladova Storm Power Outages From Space Rebecca J. Rosen No Twitter? Post-Its Sent to Sandy Megan Garber No 'Positive Detection' of Methane on Mars Rebecca J. Rosen 2 Key Education Votes to Watch Emily Richmond Lawn Signs Are Useless. Why Do We Love Them? Lane Wallace Stop Saying 'Fire in a Crowded Theater' Trevor Timm Why Can't We Tickle Ourselves? Maria Popova The Midnight Evacuation of NYU Medical Center Samuel Penziner The Most Contested Health Issues on the Ballot Lindsay Abrams Presented by Brave Thinkers: Our Annual List of Risk-Takers Mike Bloomberg Knows What's Good for You James Bennet Jazz: How America's Most Vibrant Music Became a Relic Benjamin Schwarz Presented by The Moment the Lights Went Out in New York Megan Garber What Would Happen If We Scrapped Congress? Kasia Cieplak-Mayr von Baldegg Hurricane Sandy Looks Scary from Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -114,13 +114,13 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 Washington, DC 20037
 
 Special Report Shutterstock/Anna Paff The Sexes  
-How men and women interact in a changing society. Come join the discussion on our newest channel. Read more › Just In Frog Design 8:09 AM ET Clay Shirky on the Internet as a Distractor and Disruptor 1352120993 Voices
+How men and women interact in a changing society. Come join the discussion on our newest channel. Read more › Just In Lindsay Abrams 8:04 AM ET Study: Cocaine Increases Long-Term Risk of Heart Attack and Stroke 1352207096 Voices
 
-*   Jeffrey Goldberg Why Obama is Better for Israel Than Romney 6:31 AM ET
-*   James Fallows Your Sunday Ground-Game Reports: Missouri,… Nov 4, 2012
-*   Robert Wright Things for Obama Supporters to Worry About Nov 3, 2012
-*   Ta-Nehisi Coates Slavery Is a Love Song Nov 2, 2012
-*   Derek Thompson Why the October Jobs Report Is Even Better Than… Nov 2, 2012
+*   Jeffrey Goldberg When Andrew Sullivan and I Agree 4:07 AM ET
+*   James Fallows Dixville Notch Has Cast Its Vote ... 2:25 AM ET
+*   Ta-Nehisi Coates Ohio We Go Hard: Sherrod Brown As You've Never… Nov 5, 2012
+*   Derek Thompson The Next President (Whoever He Is) Won't Solve… Nov 5, 2012
+*   Robert Wright Is Ohio a 'Toss-Up'? Nov 5, 2012
 *   Clive Crook Together We Stand, Divided We Fall Nov 2, 2012
 *   Garance Franke-Ruta How to Tweet Responsibly During a Breaking-News… Nov 1, 2012
 *   Alexis C. Madrigal Credit Where It's Due: I Love the New Gmail Design Nov 1, 2012
@@ -128,12 +128,12 @@ How men and women interact in a changing society. Come join the discussion on ou
 
 Correspondents
 
+*   Andrew Cohen No One in America Should Have to Wait 7 Hours to Vote
+*   Lane Wallace The Popularity and Irrelevance of Our Lawn Sign Wars
 *   Garrett Epps The Electoral Vote System is Absurd, but It's the Law
-*   Wendy Kaminer Senator Brown Woos Women
-*   Andrew Cohen Will a Marijuana-Legalization Vote Help Obama Win Colorado?
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Afghanistan: October 2012 Nov 2, 2012 Video The Rise of New York City: A Fascinating Look at Manhattan in the 1940s Let's Scrap Congress (1947) Empty America: New York City Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Hurricane Sandy: One Week After Landfall Nov 5, 2012 Video 'The Way Americans Like to Do It': What Voting Looked Like in 1944 Animated GIFs and the Election What Twitter Tells Us About Voters Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -162,23 +162,23 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Republicans Blame Sandy for Killing Romney's Momentum  
+*   Syrian Rebel Leader Is Pulling for Romney  
     
-*   Bombings Hit Bahrain After Government Bans Protests  
+*   Dixville Notch Was a Tie  
     
-*   Evidently, Israel Already Tried to Attack Iran  
-    
-
-Last Update: 7:44 AM
-
-*   The Right to Recharge  
-    
-*   'We've Built Right Up to the Edge in the Most Foolish Way'  
-    
-*   Gas Shortage Underscores NYC's Move Away From Hybrid Cabs  
+*   If You're a British Spy, Don't Drive a Jaguar with '007' Plates  
     
 
-Last Update: 7:23 PM Most Popular
+Last Update: 7:38 AM
+
+*   The Story Behind New York Magazine's Hurricane Sandy Cover  
+    
+*   Chris Anderson on Why He's Leaving Digital for DIY  
+    
+*   Romney's Murky Urban Agenda  
+    
+
+Last Update: 8:34 PM Most Popular
 
 1
 
@@ -186,39 +186,39 @@ Hurricane Sandy: After Landfall
 
 2
 
-Hurricane Sandy: The Aftermath
+No One in America Should Have to Wait 7 Hours to Vote
 
 3
 
-Noam Chomsky on Where Artificial Intelligence Went Wrong
+What If the GOP Loses? 'Atlas Shrugged' vs. 'The Fire Next Time'
 
 4
 
-Why Obama is Better for Israel Than Romney
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 5
 
-No One in America Should Have to Wait 7 Hours to Vote
+Ask Dr. Popkin: The 3 Myths of the Romney Campaign
 
 6
 
-Ohio's Provisional Ballot Order: The Biggest Legal Story of the Weekend
+Hurricane Sandy: The Aftermath
 
 7
 
-Hurricane Sandy in Photos
+Should Science Majors Pay Less for College Than Art Majors?
 
 8
 
-Sorting the Real Sandy Photos From the Fakes
+Hurricane Sandy: One Week After Landfall
 
 9
 
-Afghanistan: October 2012
+Ohio We Go Hard: Sherrod Brown As You've Never Seen Him
 
 10
 
-Shame on the Republicans Who Curtailed Early Voting
+Does Your Wage Predict Your Vote?
 
 *   Subscribe Help
 *   Faq
