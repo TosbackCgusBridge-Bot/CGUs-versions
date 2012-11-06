@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (102.2 MB) Top Mac Downloads 1 Diner Dash: Flo Through Time 2 SpongeBob SquarePants Diner Dash 3 Parking Dash 4 Avenue Flo 5 Garden Dash 6 Avenue Flo: Special Delivery 7 Dream Day Honeymoon 8 Diaper Dash 9 Soap Opera Dash 10 Fitness Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (23.6 MB) Top Mac Downloads 1 Diner Dash: Flo Through Time 2 SpongeBob SquarePants Diner Dash 3 Parking Dash 4 Garden Dash 5 Avenue Flo 6 Avenue Flo: Special Delivery 7 Diaper Dash 8 Dream Day Honeymoon 9 Soap Opera Dash 10 Fitness Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -257,27 +257,27 @@ Soak up five-star feeding fun with everyone's favorite sponge!
 
 Get behind the wheel and shift into high gear!
 
-**Play Free!** (22.6 MB) Try It Avenue Flo Adventure &. Quests Games
-
-Explore DinerTown like never before
-
-**Play Free!** (82.2 MB) Try It Garden Dash DASH™ &. Time Mgmt Games
+**Play Free!** (22.6 MB) Try It Garden Dash DASH™ &. Time Mgmt Games
 
 Fresh from the city!
 
-**Play Free!** (77.3 MB) Try It Avenue Flo: Special Delivery Adventure &. Quests Games
+**Play Free!** (77.3 MB) Try It Avenue Flo Adventure &. Quests Games
+
+Explore DinerTown like never before
+
+**Play Free!** (82.2 MB) Try It Avenue Flo: Special Delivery Adventure &. Quests Games
 
 Help DinerTown save the event of the year!
 
-**Play Free!** (146.5 MB) Try It Dream Day Honeymoon Hidden Object Games
-
-Search for the perfect souvenir!
-
-**Play Free!** (81.9 MB) Try It Diaper Dash DASH™ &. Time Mgmt Games
+**Play Free!** (146.5 MB) Try It Diaper Dash DASH™ &. Time Mgmt Games
 
 More cute, cuddly babies than you will know what to do with!
 
-**Play Free!** (22.6 MB) Try It Soap Opera Dash DASH™ &. Time Mgmt Games
+**Play Free!** (22.6 MB) Try It Dream Day Honeymoon Hidden Object Games
+
+Search for the perfect souvenir!
+
+**Play Free!** (81.9 MB) Try It Soap Opera Dash DASH™ &. Time Mgmt Games
 
 DinerTown's zaniest soap opera parody!
 
