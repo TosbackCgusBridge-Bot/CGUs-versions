@@ -134,25 +134,33 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $69 for Duct Cleaning or New Insulation!  Save 65% or More! $69 Value: Discount: You Save: $299 77% $230
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $50 for $100 of  Custom Framing for Your Art and Photos $50 Value: Discount: You Save: $100 50% $50
 
-Monday: Target Deals
+Tuesday: Top Deals
+
+1.  On the Border – Head to their Facebook page to get a coupon for free queso and sopapillas.  The coupon is good through September 13th.
+2.  Garnier Fructis – Request a free sample of Garnier Fructis Fall Flight courtesy of Target.
+3.  Biore – Sign up to see if you qualify to get 3 free sample sent to you.
 
 1.  SALES
     
-2.  Press &. Lamination Operators
+2.  Maintenance Supervisor
     
-3.  PROGRAM DIRECTOR
+    Robert's Dairy
     
-4.  Parts Project Coordinator
+3.  CAMPAIGN JOBS
     
-    Central Power Systems &. Services, Inc.
+    Grassroots Campaigns, Inc.
+    
+4.  Apartment Maintenance Tech Part Time
+    
+    Georgetown Apartments
     
 5.  SEASONAL DRIVERS
     
     Kelly Services
     
-6.  SALES
+6.  PROGRAM DIRECTOR
     
 
 View More The Most
@@ -160,16 +168,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   After latest injury, time may be up for Chiefs Glenn Dorsey
-*   Second man in a month punches KC bus driver
-*   Conference realignment goes well for some, not for others
-*   Early voting update
-*   KU basketball will be sorting out its rotation early in season
-*   Freshmen lead MU to exhibition win over Missouri Southern
-*   Recap: LA Lakers vs. Detroit
-*   K-State cruises past Emporia State in exhibition basketball
-*   Sporting KC falls to Houston to open conference semifinals
-*   Armando Salguero: Tannehill is good, but can't mask Miami Dolphins' issues
+*   When do the lines start for Star Wars Episode VII?
+*   Sam Mellinger | These fixes wont do anything for Chiefs
+*   NZealand beaching proves rarest of whales exists
+*   Woman dies from accident near downtown Kansas City
+*   Romeo Crennel removes himself as the Chiefs’ defensive coordinator
+*   KU beats pesky Washburn 62-50 in exhibition hoops
+*   Two killed in small plane crash in southwest Missouri
+*   ‘Creepy’ camera irks Platte City family
+*   Court upholds law against sex between teacher, adult student
+*   What you need to know to vote Tuesday in Kansas or Missouri
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
