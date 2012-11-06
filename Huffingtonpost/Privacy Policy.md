@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   New Jersey
+*   Auto Bailout
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-November 5, 2012 Edition: **U.S.**
+November 6, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ November 5, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Florida Early Voting Mayhem: Voters Face Long Lines At The Polls As Rick Scott Refuses To Budge25k
-    *   Christie: New Jersey Residents Can Vote By Email, Fax6k
-    *   Presidential Polls 2012: Obama's Battleground Advantage Holds26k
-    *   Former President Of Mexico Delivers Scathing Critique Of Romney 3k
-    *   Obama, Bill Clinton Electrify Virginia Crowd9k
+    *   The Polling Cake Is Baked: Obama Lead Holds In Battleground States, Inches Up Nationally34k
+    *   Christie Rejects Romney's Request To Appear At Campaign Event6k
+    *   Sarah Palin Endorses Mitt Romney One Day Before Election4k
+    *   Florida Early Voting Mayhem: Voters Face Long Lines At The Polls As Rick Scott Refuses To Budge38k
+    *   Early Voting Results 2012: Latest Figures From Key States1k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ November 5, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   In Hard-Hit Rockaways, Community Begs For Basic Necessities2k
-    *   All Talk, No Gas211
-    *   15 Major Companies That Are Helping Sandy Victims245
-    *   Gas Shortage Likely To Last For Several More Days1k
-    *   7 Things NOT To Do During A Hurricane If You're Very Wealthy190
+    *   Jack Welch: 'Thank God' I Questioned The Jobs Numbers3k
+    *   All Talk, No Gas564
+    *   NY Attorney General Launches Probe Into Price Gouging Post-Sandy1k
+    *   These Jobs Are Growing Fast And Don't Require A College Degree63
+    *   Elizabeth Warren: Break Up The Banks605
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ November 5, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   No Doubt Takes Down Controversial Music Video736
-    *   Katy Perry Wears Her Support For Obama764
-    *   Robert Pattinson Wants To Reshoot The 'Twilight' First Kiss 49
-    *   Young Mark Hamill On 'Star Wars: Episode VII'204
-    *   Taylor Swift Strikes Out At CMAs882
+    *   No Doubt Takes Down Controversial Music Video954
+    *   Melissa Joan Hart's Last-Minute Romney Endorsement2k
+    *   Katy Perry Wears Her Support For Obama1k
+    *   CRUNCH TIME: Obama Brings Out His Biggest Stars685
+    *   Sandy Telethon Dials Up $23 Million158
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ November 5, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   Hurricane Sandy Delivers 'Another Catastrophe' To Verizon's Home, Complicating Network Repairs186
-    *   Wireless Industry Resisted Calls To Backup Cell Towers Before Sandy400
-    *   Hurricane Sandy Has Major Effect On Internet Usage
-    *   Hurricane Sandy Horror Stories
-    *   The 9 Most Popular Viral Videos Of The Week
+    *   How Google Maps Can Help Victims Of Hurricane Sandy
+    *   Wireless Industry Resisted Calls To Back Up Cell Towers Before Sandy793
+    *   Hurricane Sandy Delivers 'Another Catastrophe' To Verizon's Home, Complicating Network Repairs196
+    *   28,000 PayPal Passwords Allegedly Stolen By Anonymous For Guy Fawkes Day527
+    *   Apple Pays Extremely Low Income Tax Rate Outside U.S. 822
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ November 5, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   NY Mag's Stunning Sandy Cover557
-    *   WATCH: Brian Williams Tears Into Rush Limbaugh Over Hurricane Sandy7k
-    *   Chris Kluwe Quits Newspaper Over Marriage Equality Editorial1k
-    *   WATCH: Fox News Attacks Hurricane Benefit Concert3k
-    *   'Today' Welcomes Erica Hill299
+    *   Newest 'Today' Host Greeted With Criticism831
+    *   WATCH: Scarborough's Post-Sandy Prediction 4k
+    *   WATCH: Robin Roberts' Personal Message About Sandy76
+    *   NY Mag's Stunning Sandy Cover676
+    *   Networks Help Candidates Make Their Final Pitches3k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ November 5, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
+    *   If The World Could Vote, They'd Vote For... 5k
     *   And The World's Most Prosperous Country Is.. 3k
-    *   Putin Appears In Public After Health Rumors Soar76
-    *   Tomb Of Pharaonic Princess Unearthed112
-    *   Most Insane Photos Of The Week
-    *   Kate And Will's Bodyguard Accidentally Fires Shot67
+    *   Dutch Newspaper: Bain Capital Dodged Millions In Taxes2k
+    *   Putin Appears In Public After Health Rumors Soar156
+    *   U.S. Soldier Accused Of Afghan Rampage To Face Hearing1k
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ November 5, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   After Being Homebound For 2 Years, Jennie Lost 300 Pounds: 'Believe In Yourself And Know That Quitting Is Not An Option'26
-    *   Daylight Saving Time Ends: How The Time Change Affects Your Sleep And Mood267
-    *   Generators To Blame For Several Post-Sandy Deaths66
-    *   6 November Superfoods32
-    *   Are You Good About Exercising? You Probably Still Sit Too Much21
+    *   Another Reason To Quit Your Soda Habit703
+    *   Sharon Osbourne Undergoes Double Mastectomy After Finding She Has Breast Cancer Gene23
+    *   Daylight Saving Time Ends: How The Time Change Affects Your Sleep And Mood338
+    *   Ask Healthy Living: Do You Really Need To Drink Water After A Massage?20
+    *   Are You Good About Exercising? You Probably Still Sit Too Much59
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -173,11 +173,11 @@ November 5, 2012 Edition: **U.S.**
     *   OWN
 *   Style
     
-    *   PHOTOS: That Looks Like A Bra To Us, Kristen Stewart314
-    *   PHOTOS: See Taylor Swift, Faith Hill &. All The Red Carpet Glitz From The CMAs!40
-    *   PHOTOS: Gisele Bundchen Flaunts Her Baby Bump In A Bikini241
-    *   PHOTOS: Michelle Obama's Sunny New Look365
-    *   Pippa Middleton Confronts Book Critics In The Telegraph 95
+    *   Brazilian Model Dies During Liposuction522
+    *   PHOTO: Beyonce Debuts Bangs With Jay-Z At Barclays Center116
+    *   Pippa Middleton Confronts Book Critics In The Telegraph 201
+    *   PHOTOS: That Looks Like A Bra To Us, Kristen Stewart448
+    *   PHOTOS: Victoria Beckham Did The Unthinkable And Wore Flats44
     
     Go to Style **More in Style**
     
@@ -195,11 +195,11 @@ November 5, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   WATCH: Chris Rock's Message For White Voters3k
+    *   WATCH: Chris Rock's Message For White Voters5k
+    *   23 Dogs Who Are Over The Election14
+    *   WATCH: Fox &. Friends Responds To Hurricane Sandy On 'SNL'796
     *   Cher &. Kathy Griffin: 'Don't Let Mitt Romney Turn Back Time On Women'2k
-    *   'SNL' Spoofs Lydia Callis, Chris Christie443
-    *   WATCH: Fox &. Friends Responds To Hurricane Sandy On 'SNL'520
-    *   'I'm Mitt Romney, And I'm Still Running For President'271
+    *   WATCH: This Guy Made The Best Of Hurricane Sandy
     
     Go to Comedy **More in Comedy**
     
@@ -216,11 +216,11 @@ November 5, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next Pressure At The Polls
-    *   Next More Money Than Ever
-    *   Coming Up The Right To NOT Vote
-    *   Coming Up No More Death Penalty?
-    *   Coming Up Raise The Sea BarrierGo to HuffPost Live
+    *   Next American Democracy
+    *   Next Whose Lucky Day?
+    *   Coming Up What's Happening: Polls
+    *   Coming Up Voter Fraud
+    *   Coming Up Voting For Good FoodGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
