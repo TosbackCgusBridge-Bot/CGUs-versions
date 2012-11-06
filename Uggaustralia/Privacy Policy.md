@@ -129,16 +129,16 @@ Top Categories
 
 Fall Highlights
 
-*   Empire State of Mind
-    
-    NYC: The city that inspired this season’s collection.
-    
-    Get Street Smart >.
 *   Grit &. Glam
     
     UGG® Collection goes edgy this Fall with a vintage rock vibe.
     
     Rock 'N Roll >.
+*   Brand New To UGG
+    
+    Refine your search with our fully customizable Footwear Finder
+    
+    FIND YOUR PERFECT PAIR >.
 *   Share Your Love for The Classic Boot
     
     Contribute to our global photo album of Classic fanatics.
