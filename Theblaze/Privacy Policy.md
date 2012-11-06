@@ -25,13 +25,11 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   Jeremiah Wright
 *   Campaign 2012
 *   Libya: The Truth?
+*   TheBlaze TV
 
 Take Action
-
-Live Now on Blaze TV: Glenn Beck’s Sunday Night Election Special ‘America at a Crossroads’
 
 About TheBlaze
 
@@ -258,9 +256,9 @@ What is this? Sections
 
 Hot Topics
 
-*   Jeremiah Wright
 *   Campaign 2012
 *   Libya: The Truth?
+*   TheBlaze TV
 
 More from TheBlaze
 
