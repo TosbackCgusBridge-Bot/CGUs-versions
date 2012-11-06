@@ -7,12 +7,12 @@ Register Sign in Welcome, Logout
         *   2012 Elections
         *   Barack Obama
         *   Mitt Romney
-        *   Hurricane Sandy
         *   Elections 2012
-        *   From the Wires
-        *   Republican Party
-        *   Superstorm Sandy
+        *   Hurricane Sandy
         *   Ohio
+        *   From the Wires
+        *   Television
+        *   U.S. Senate
         *   Election 2012
 *   RSS
     *   RSS Feeds Main RSS feed
@@ -190,33 +190,33 @@ If you have any further questions or concerns about Salon’s privacy policies a
 *   Corrections
 *   DMCA Policy
 
-About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service | TechTips iPhone app
+About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service | TechTips Giving Back
 
-Take Salon on the go – download our free app now
+Help support Sandy's other victims
 
-Current Stories The Romney boys' election eve special
+Current Stories Dirty Democrats
 
-News. A world premiere video from Funny or Die
+News. Anti-choice, pro-gun, you name it. Eight Democrats who want -- but don't deserve -- your vote tomorrow
 
-"In the service of my president"
+Can white voters really doom Obama?
 
-Politics. Bill Clinton is campaigning tirelessly because a second Obama term cements his legacy -- and rebukes racism
+Politics. Polls show white voters who fear racial change will back Romney. It's their loss. Let's hope it's not all of ours
 
-"Homeland" recap: My eyes are open
+No Doubt yanks too "Hot" video
 
-Entertainment. Carrie practices the art of self-deception
+Entertainment. Realizing they pushed it too far with their cowboys-and-Indians–themed video, the band preempts a controversy
 
-Another major storm may hit Northeast on Election Day
+My awesome C-section
 
-Life. "Prepare for more outages," advised one weather service meteorologist. "Stay indoors. Stock up again"
+Life. Women are supposed to dread the surgery and embrace the beauty of natural birth. Are you kidding me?
 
 Most Read
 
-*   Sunday update: Nate Silver makes Obama 85 percent favorite David Daley
-*   Trapped in a car with Fox News Joan Walsh
-*   Dominatrix for a day Anna Pulley
-*   Six most paranoid fears for Obama's second term Booth Gunter, Southern Poverty Law Center
-*   Why is the left defending Obama? Matt Stoller
+*   Mitt's religious rant goes viral Zachary Bell
+*   The Obama landslide scenario Steve Kornacki
+*   Is the GOP stealing Ohio? Brad Friedman
+*   Monday evening update: Nate Silver pushes Obama's chances above 90 percent David Daley
+*   Gallup Poll: Obama's gaining Jillian Rayfield
 
 Voices
 
