@@ -1,4 +1,4 @@
-*   Monday, November 5, 2012
+*   Tuesday, November 6, 2012
 *   NYDailyNews.com / Privacy Policy
 
 *   Jobs
@@ -48,11 +48,7 @@ Daily News
     Place An Ad
     
 
-SUPERSTORM SANDY LIVE COVERAGE:
-
-PHOTOS, VIDEO &. MORE FROM OUR TEAM AROUND NEW YORK CITY
-
-x PRIVACY POLICY
+PRIVACY POLICY
 
 This Privacy Policy discloses the privacy practices for NYDailyNews.com and any other affiliated sites, digital services, or applications on which a link to this Privacy Policy appears (collectively, the "Daily News Services"). This Privacy Policy governs the use and collection of information collected from you on the Daily News Services. This Privacy Policy does not apply to information you may provide to us offline or through any means other than the Daily News Services, other than as specifically identified below. For example, this Privacy Policy does not apply to information you may have provided when obtaining a home delivery subscription offline or when entering a sweepstakes by mail, fax or email. As used herein, "we," "us" and "our" refers to Daily News, L.P.
 
