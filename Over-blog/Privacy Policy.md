@@ -17,7 +17,7 @@ OverBlog Le portail de tous les blogs Connexion
     *   Divers
     *   Voyages
     *   PHOTOS
-    *   santé
+    *   Santé
 *   Forums
 
 Créer mon blog
