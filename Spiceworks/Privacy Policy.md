@@ -145,7 +145,7 @@ The Spiceworks Team
 *   About
 *   Support
 *   Downloads
-*   Events
+*   Training
 *   Blog
 *   Jobs
 *   Advertise
