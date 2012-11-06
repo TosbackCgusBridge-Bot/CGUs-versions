@@ -15,17 +15,17 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
+Fashion Politics
+
+The way first ladies dress has less to do with political affiliation and mo...
+
+Nicolas Ghesquière for Balenciaga in BAZAAR
+
+See our favorite moments of Nicolas Ghesquière for Balenciaga in BAZAA...
+
 The Style: Resortwear
 
 See November's short list to chic.
-
-Mr. Blasberg's Best-Dressed List: November 2nd, 2012
-
-Mr. Blasberg's Best-Dressed List: November 2nd, 2012
-
-Outerwear Affair: Shop the Season's Best Coats
-
-Shop the top trends of the season in coats.
 
 Beauty &. Hair  
 
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR The Style: Resortwear Mr. Blasberg's Best-Dressed List: November 2nd, 2012 Outerwear Affair: Shop the Season's Best Coats Define Your Brows In 5 Easy Steps Supermodel Beauty SecretsRevealed! The Best Spring Nail Trends To Try Now Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Maison Martin Margiela x H&M Party Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR Fashion Politics Nicolas Ghesquière for Balenciaga in BAZAAR The Style: Resortwear Define Your Brows In 5 Easy Steps Supermodel Beauty SecretsRevealed! The Best Spring Nail Trends To Try Now Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Maison Martin Margiela x H&M Party Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Fabulous at Every Age: Fall Preview Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
@@ -80,11 +80,11 @@ SPECIAL OFFER
 
 Most Popular
 
-1.  Nail It: Fall 2012's Top Manicure Trends
-2.  Top Hair Trends From The Fall 2012 Runways
-3.  The Most Anticipated Hair Trends For Spring 2013
-4.  The Extras: Fall 2012 Accessories Report
-5.  The New York Runway Report: Fall 2012
+1.  The Most Anticipated Hair Trends For Spring 2013
+2.  Nail It: Fall 2012's Top Manicure Trends
+3.  Top Hair Trends From The Fall 2012 Runways
+4.  Hot New Hair Trends from Spring 2012
+5.  The Extras: Fall 2012 Accessories Report
 
 **TRY:** fall 2012 trends street style best mascara 2012 **About Harper's Bazaar**
 
