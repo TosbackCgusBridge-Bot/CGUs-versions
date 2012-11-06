@@ -318,6 +318,9 @@
 *   all cameras
 
 *   cameras &. accessories
+
+*   handmade
+
 *   best selling
 *   all diy &. kits
 
@@ -529,6 +532,9 @@
 
 *   recycled
 *   best selling
+*   all uncommongoods' exclusives
+
+*   exclusive uncommongoods for her
 *   all wallets &. bags
 
 *   clutches &. purses
@@ -575,6 +581,9 @@
 *   handmade
 
 *   recycled
+*   all uncommongoods' exclusives
+
+*   exclusive uncommongoods for him
 *   all wallets &. bags
 
 *   laptop &. messenger bags
@@ -667,6 +676,9 @@
 *   handmade
 
 *   recycled
+*   all uncommongoods' exclusives
+
+*   exclusive uncommongoods for kids
 *   brand new uncommongoods added weekly!
 *   see all new items in for kids
 *   uncommongoods on sale for 30 - 70% off!
@@ -793,6 +805,9 @@
 
 *   gift certificates
 *   best selling
+*   all uncommongoods' exclusives
+
+*   exclusive uncommon gifts
 *   brand new uncommongoods added weekly!
 *   see all new items in gifts
 *   uncommongoods on sale for 30 - 70% off!
@@ -808,7 +823,6 @@
 *   all birthday gifts
 
 *   birthstones &. zodiac signs
-*   exclusive kids' goods
 *   for the party
 *   gifts for baby
 *   gifts for her
@@ -920,12 +934,14 @@
 *   accessories
 *   gifts for her
 *   jewelry
+*   uncommongoods' exclusives
 *   wallets &. bags
 *   this just in
 *   sale
 
 *   accessories
 *   gifts for him
+*   uncommongoods' exclusives
 *   wallets &. bags
 *   this just in
 *   sale
@@ -955,6 +971,7 @@
 *   by recipient
 *   collections
 *   gift certificates
+*   uncommongoods' exclusives
 *   this just in
 *   sale
 
