@@ -112,13 +112,13 @@ Skip to page content
         *   Hiking Footwear
     
 *   *   Camping Snowshoeing Cross-Country Skiing Winter Fun Hiking &. Backpacking Kayaking &. Canoeing Cycling Binoculars Car Racks &. Gear Electronics Lighting Sunglasses
-    *   Find It Fast
+    *   20% Off Thule® Roof Boxes Find It Fast
         *   Camp Sleeping Bags
-        *   Bicycles
         *   Hiking Packs
-        *   Kayaks
+        *   Ice Skates
         *   Knives &. Tools
         *   Radios
+        *   Ski Helmets
         *   Sleds &. Toboggans
         *   Snow Toys
         *   Sport Watches
@@ -142,8 +142,7 @@ Skip to page content
         *   Hunter Orange
         *   Hunter's Tote
         *   Hunting Packs &. Bags
-        *   Upland Hunting Apparel
-        *   Upland Hunting Gear
+        *   Ice Fishing
         *   Waders
         *   Waterfowl Apparel
         *   Waterfowl Gear
@@ -212,9 +211,10 @@ Skip to page content
 
 *   What's New
 *   Shop Holiday Gifts
+*   Gift Cards
 *   Outerwear Guide
 *   100 Years
-*   L.L.Bean® Visa® Card
+*   L.L.Bean Visa
 
   Your Privacy Rights  
 
