@@ -275,7 +275,6 @@ Company Info
 *   Careers
 *   Ethics &. Compliance
 *   Investor Relations
-*   Low Price Guarantee
 *   Lowe's Canada
 *   Lowe's Mexico
 *   Lowe's Newsroom
