@@ -73,14 +73,22 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 *   Ashley Greene: Look At Me Now
 *   Ashley Greene's Cover Shoot Style
 *   Project Runway's New York
+*   Gwen Stefani: Rock 'n' Rule
 *   Gwen Stefani's Cover Shoot Style
 *   Gwen Stefani's Style Evolution
-*   Gwen Stefani: Rock 'n' Rule
 *   Chelsea Everywhere
 *   Big Shots
 
 Latest blog entries
 
+*   Why This New Yorker's Vote Counts More Than Ever
+    
+    For the first time since I stepped into a ballot box, I'm going to feel like my vote will make a difference. I haven't always felt this way. 11/05/12
+    
+*   Dressed to Thrill: Kristen Stewart in Balenciaga
+    
+    Our chic celebrity look of the day. 11/05/12
+    
 *   Will Hurricane Sandy Finally Get Us Talking About Climate Change?
     
     Yesterday, New York Mayor Mike Bloomberg endorsed President Obama in an editorial for Bloomberg View, writing that Hurricane Sandy had brought the issue of climate change into stark relief. He continued: Our climate is changing. And whil 11/02/12
@@ -92,14 +100,6 @@ Latest blog entries
 *   Hurricane Sandy Is All About Politics
     
     On the surface, it would appear that Hurricane Sandy, the superstorm affecting 900 miles of the Eastern Coast, has halted the presidential campaign in its tracks. 10/30/12
-    
-*   Donatella Does Downtown: Versace Opens New SoHo Store
-    
-    It's not every day that you can say Donatella Versace gave you a private tour of the Versace store, but that is precisely what happened yesterday afternoon at the Italian label's new Soho space at 160 Mercer Street. 10/25/12
-    
-*   Meet the Only Pro-Choice Woman Running for Governor
-    
-    In an election rife with discussion of abortion, birth control, rape, and equal pay, it's hard to believe that Maggie Hassan is the only pro-choice woman running for governor, in the battleground state of New Hampshire. 10/25/12
     
 *   See all blogs
 
