@@ -136,7 +136,7 @@ Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! 
 *   Kids Shop by Occasion
     
     *   Birthday
-    *   Halloween
+    *   Christmas
     *   Get Well Soon
     
     Top Categories
@@ -202,10 +202,8 @@ Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! 
     More Gift Ideas for Babies »
 *   Occasion Upcoming
     
-    *   Breast Cancer Awareness
-    *   Halloween (10/31)
     *   Thanksgiving (11/22)
-    
+    *   Hanukkah (12/8-16)
     *   Christmas (12/25)
     
     Top Occasions
