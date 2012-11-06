@@ -1,6 +1,6 @@
 (skip this header)
 
-Monday Nov 05, 2012 5:05 AM PT
+Tuesday Nov 06, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Chopra: Obama's morals
-*   Chron endorsements
-*   'Ralph' tops box office
-*   Bond through the years
-*   'Snicket' author's fortunate career
+*   Hawaii drivers killing rare birds
+*   Chron election endorsements
+*   Rock's 'white president' bit
+*   Last week's concert pics
+*   Tackling fat phobia
 
 *   Bay Area &. State
 *   Nation
@@ -339,11 +339,28 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Jersey Shore House
+*   Warriors rally but can’t beat Kings
+*   Photos from the Campaign Trail, by AP
+*   Nation in Focus
+*   World in Focus
+*   Day in Pictures, Nov. 5, 2012
+*   49ers and their "Giant" counterparts
+*   campaign trail 2012
+*   Fremont Diner
+*   Baby2Baby Gala
+*   The 2012 Campaign Trail
+*   Flashback! Last Week's Concerts - In Pictures
+*   Nopalito
+*   Rick Perry at Republican Debates
+*   Political onesies: Babycrat or Weepublican?
 *   Halloween 2012
 *   Marshawn Lynch buys Bay Area mansion
+*   Aldon Smith makes movie debut
 *   World In Focus
 *   best campaigns 2012
 *   worst campaigns 2012
+*   USS Enterprise retires
 *   100 best photos from the Giants' World Series run
 *   Final Presidential Debate
 *   Warriors edge Clippers, 114-110
@@ -362,23 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   Favorite dishes 11/02/2012
 *   Barry Zito's Kentfield manse still wants a buyer
 *   World in Focus
-*   Best costumes from Giants victory parade
-*   SF Giants 2012 World Series Parade
-*   Movie transformations
-*   Taser run-ins
-*   Pig and Pie
-*   Harper's Bazaar Women of the Year Awards 2012
-*   Alex Smith
-*   'Mustached American of the Year'
-*   More pets in listing photos
-*   Day in Pictures, Nov. 1, 2012
-*   USC shooting
-*   Muni bus burned
-*   Previewing the new North Beach pizzeria from Tony Gemignani
-*   Coast's best surprise lookout
-*   Nation in Focus
-*   World in Focus
-*   Sponsored: Gifts for Active People
 
 *   Most Read
 *   |
@@ -386,53 +386,52 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Rule: Full playoff share to Melky Cabrera
-2.  Teacher fired over porn says she lost herself
-3.  Arizona group ordered to release records
-4.  The ten keys to winning the 2012 presidential election
-5.  Giants fever keeps kids out of school
-6.  Plan to bring Pier 70 back to life
-7.  2-year-old boy killed at Pa. zoo exhibit
+1.  Not guilty plea in Muni bus vandalism
+2.  Nude activist dresses down supervisors
+3.  Murder defendant: 'I did it. So what?'
+4.  True source of $11M contribution revealed
+5.  NZealand beaching proves rarest of whales exists
+6.  Science hopes to change events that have already occurred
+7.  Three caregivers arrested in infant's death
 
-1.  Much more rides on Prop. 30 than schools
-2.  PROMISES, PROMISES: Hours to go, promises to keep
-3.  Union: Raley's talks break down, strike called
-4.  The ten keys to winning the 2012 presidential election
-5.  Press pack reliably focused on Jeep fumes, not Benghazi
-6.  Merced County case study of economic woes
-7.  Arizona group ordered to release records
+1.  Conservative group true source of $11 million campaign contribution
+2.  Accused Muni bus vandal pleads not guilty
+3.  Obama, Romney pursue last votes in deadlocked race
+4.  Muni insurance won't replace torched bus
+5.  Fremont PD shoot, kill naked man
+6.  Murder defendant: "I did it, so what?"
+7.  Electoral College Update: Storm response boosts Obama, complicates Romney%u2019s path to 270
 
-1.  Thank You, Mr. President. You Held Back the Worst
-2.  Off-road state park near Livermore debated
-3.  Rule: Full playoff share to Melky Cabrera
-4.  Bay Area money fills Obama campaign coffers
-5.  Critics: Pa. inflating success of charter schools
-6.  Beer aged like bourbon is the rage
-7.  Land of the Maya the way it was then
+1.  Nude activist dresses down supervisors
+2.  Freeze dough, batter for surprise guests
+3.  Death penalty repeal close in poll
+4.  Beer aged like bourbon is the rage
+5.  True source of $11M contribution revealed
+6.  Murder defendant: 'I did it. So what?'
+7.  CSU eyes fee increases for some students
 
 loading... Latest News Videos From our homepage
 
 *     
-    Jennifer A. Dlouhy, Houston Chronicle / SF
+    Michael Short, Special To The Chronicle / SF
     
-    Hard lessons in Arctic drilling
+    Back in school, despite genes
     
-    Six years and about $5B into its quest, Shell battles the obstacles of this forbidding frontier.
-    
-
-*   Crafty costumes winners are...
-    
-    There were many fab creations by parents and kids, but these are our picks. Tell us yours.
+    After some convincing, Palo Alto youth with genes related to cystic fibrosis can return to class.
     
 
 *     
-    Christian Petersen, Getty Images / 2012 Getty Images
+    Carlos Puma, AP / SF
     
-    Top 100 Giants playoff pics
+    San Francisco Chronicle Copyright 2012 San Francisco Chronicle. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 9:02 p.m., Monday, November 5, 2012 Stolen cross turns up
     
-    The best images from our World Series champs' amazing run.
+    Cross found in Half Moon Bay was at center of Mojave Desert Supreme Court ruling.
     
-*   Giants: garage sale masterpiece
+
+*   Smile, you're a winner!
+    
+    Awards for the best, craftiest costumes, from earth to space. Did your favorite win? Photos
+    
 
 *   Home
 *   News
