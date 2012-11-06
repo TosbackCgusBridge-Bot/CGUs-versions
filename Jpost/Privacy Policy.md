@@ -1,4 +1,4 @@
-  Set as Homepage Mon, Nov 5, 2012   20 Heshvan, 5773  
+  Set as Homepage Tue, Nov 6, 2012   21 Heshvan, 5773  
 
 *   *   Breaking News
     *   Diplomacy &. Politics
