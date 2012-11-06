@@ -1,16 +1,3 @@
-E! Online
-
-*   All
-*   News
-*   Photos
-*   Videos
-*   TV Scoop
-*   Trends
-*   E! Shows
-*   Red Carpet
-
-*   Follow @twitter
-
 Privacy Policy
 
 The information E! Entertainment Television, Inc. and its affiliated persons and entities ("E!") collects about you at E!'s Websites, including but not limited to those Websites located at http://www.eentertainment.com, http://www.eonline.com, http://www.mystyle.com, and all cobranded Websites (collectively, "Website"), is used to provide you with a more personalized and rich experience while visiting the Website. Your use of the Website is expressly conditioned on your acceptance of and agreement to this Privacy Policy. This Privacy Policy sets forth the terms and conditions that apply to your use of the Website. By using this Website, you agree to abide by this Privacy Policy. In addition, when using specific services or entering contests or sweepstakes, you agree to abide by any guidelines or rules posted in connection with such services, contests or sweepstakes, all of which are hereby incorporated by reference into this Privacy Policy. **If you do not agree with any posted guidelines or rules, or with any part of this Privacy Policy, you must not use this Website.** If you do not comply with this Privacy Policy at all times when using this Website, E! reserves the right to deny or restrict your access. The terms and conditions of this Privacy Policy shall apply regardless of the means by which the Website was accessed, including but not limited to through the URL, electronic mail or links from other sites. Please read on for details.
@@ -122,23 +109,3 @@ For an explanation of what data E!'s third-party network advertisers collect, ho
 E! also uses products and services provided by Nielsen-NetRatings to help us better understand how people are using our Website. Visit http://www.nielsen-netratings.com/privacy/sitecensus.htm to learn more information about how we use Nielsen-NetRatings to collect and use information on this Website.
 
 **Effective Date:** The Privacy Policy posted on this Website was updated on or about July 22, 2008.
-
-  
-
-*   About Us
-*   Show Schedule
-*   Careers
-*   Shop
-*   Mobile
-*   AdChoices
-*   Advertise
-*   Sweepstakes
-*   Contact Us
-*   Site Map
-
-**Got a news tip?** Call **1-888-E-Online** | Text "**tip**" + your tip to **44264** or **Click Here** Newsletters
-
-*   E! News Now
-*   E! Online Breaking News Alerts
-
-RSS Feeds Click an RSS Feed to Subscribe E! News TV Scoop Celebrity Photos Red Carpet Videos Fashion Police Ask E! The Soup Read More... Podcasts Privacy Policy |  Terms of Use |  Independent Programming Report |  © E! Entertainment Television, LLC. A Division of NBCUniversal.  All rights reserved.
