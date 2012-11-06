@@ -278,16 +278,16 @@ Prev Next
 
 *   Grill Room
 
+*   Morning Drive
 *   WGC HSBC Champions
-*   Masters Tournament
-*   Ian Poulter
-*   Mission Hills Golf Club
+*   Tiger Woods
 *   PGA Tour
-*   Phil Mickelson
-*   Rory McIlroy
-*   Ryder Cup
+*   Masters Tournament
+*   LPGA Tour
+*   Web.com Tour
 *   European Tour
-*   Jack Nicklaus
+*   Ian Poulter
+*   Jay Haas
 
 **Privacy Policy**
 
@@ -528,7 +528,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 234,476 facebook.com/GolfChannel 121,968 twitter.com/GolfChannel Newsletter
+Social 234,540 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
