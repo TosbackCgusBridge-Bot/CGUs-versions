@@ -1,4 +1,4 @@
-Bulletin Investor Alert
+Bulletin Zillow shares fall sharply in premarket trade, off close to 19% Investor Alert
 
 New York Markets Open in:
 
@@ -198,96 +198,109 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:05 AM EST November 5, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EST November 6, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:05a
+/news/latest1.  8:01a
     
-    Entergy posts lower quarterly earnings, revenue
+    Outlook is dismal no matter who wins vote
     
-2.  8:00a
+2.  8:01a
     
-    Huntsman upped to overweight at Piper Jaffray
+    Sandy has economic silver lining
     
-3.  7:57a
-    
-    A decisive election should spur market rally
-    
-4.  7:52a
-    
-    E-Trade plans $1.3 billion senior note offering
-    
-5.  7:42a
-    
-    Stock futures steady as U.S. election looms
-    
-6.  7:41a
-    
-    IntercontinentalExchange Q3 EPS $1.79 vs $1.80
-    
-7.  7:38a
-    
-    Stifel to acquire KBW for $17.50/share in merger
-    
-8.  7:38a
-    
-    Stifel/KBW deal valed at $575 million
-    
-9.  7:37a
-    
-    BREAKING
-    
-    Stifel, KBW agree to merger
-    
-10.  7:36a
-    
-    Southern Co. Q3 EPS $1.11 vs $1.07
-    
-11.  7:34a
-    
-    Pharmacyclics Q1 EPS profit $1.02 vs loss 0.21
-    
-12.  7:34a
-    
-    Pharmacyclics Q1 adjusted EPS profit $1.06
-    
-13.  7:33a
-    
-    CORRECTED
-    
-    Stock futures steady as U.S. election looms
-    
-14.  7:32a
-    
-    Radio Update: East Coast banks go low-tech
-    
-15.  7:31a
+3.  8:01a
     
     Updates, advisories and surprises
     
-16.  7:27a
+4.  8:01a
     
-    Monday’s biggest gaining and declining stocks
+    A few reasons why the glass may be half full
     
-17.  7:26a
+5.  8:00a
     
-    Sohu.com Q3 EPS 63 c vs 28 c
+    Big earnings on Tuesday: CVS, AOL, News Corp.
     
-18.  7:23a
+6.  7:59a
     
-    Biomarin says its GALNS Phase III trial posiitve
+    Fossil down 9% in premarket
     
-19.  7:23a
+7.  7:58a
     
-    Biomarin says trial results meet primary endpoint
+    Marathon Oil Q3 net 63c vs 56c
     
-20.  7:21a
+8.  7:58a
     
-    Big earnings on Monday: Humana, Tesla, ICE
+    Marathon Oil adj Q3 net 64c vs adj 59c
+    
+9.  7:58a
+    
+    Marathon Oil Q3 revenue $4.16 bln vs $3.8 bln
+    
+10.  7:53a
+    
+    Pepco sees Sandy costs of up to $65 million
+    
+11.  7:47a
+    
+    BREAKING
+    
+    Zillow's shares selling off on soft outlook
+    
+12.  7:38a
+    
+    Pepco sees up to $65 mln in Sandy costs
+    
+13.  7:34a
+    
+    Radio Update: Futures point to win on election day
+    
+14.  7:33a
+    
+    AOL posts profit after year-ago loss
+    
+15.  7:32a
+    
+    Oil and gold prices push higher ahead of election
+    
+16.  7:25a
+    
+    CVS Caremark Q3 net up 16%. year outlook lifted
+    
+17.  7:17a
+    
+    Tuesday’s biggest gaining and declining stocks
+    
+18.  7:17a
+    
+    Office Depot swings to a loss, sales down 5%
+    
+19.  7:16a
+    
+    U.S. dollar hews to tight ranges as election looms
+    
+20.  7:06a
+    
+    CVS Q3 net 79c. adj Q3 net 85c
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,118.34 -114.28 -0.86% nasdaq /quotes/zigman/123127 2,982.13 -37.93 -1.26% s&p 500 /quotes/zigman/3870025 1,414.20 -13.39 -0.94% Kiosk
+dow /quotes/zigman/627449 13,112.44 +19.28 +0.15% nasdaq /quotes/zigman/123127 2,999.66 +17.53 +0.59% s&p 500 /quotes/zigman/3870025 1,417.26 +3.06 +0.22% Kiosk
 
+*   1341573300000 1341592200000
+    
+    From Fox Business
+    
+        gary smith  
+    Scooping up beaten-down stocks  
+    Between Sandy and the election, simple stock-picking takes a back seat, but that doesn't mean we shouldn't at least take a look around.  /conga/kiosk/marketfox.html 234092
+*   1332374700000 1332461400000
+    
+    The Trading Deck
+    
+    Michael gayed  
+    Forget the election: Stocks warned  
+    It can be difficult to determine what is and is not important to the market. In this case, a collapse in the Greek market may overshadow an election.  
+    /conga/kiosk/trading-deck-5.html 234090
 *   1238817600000 1270353600000
     
     Cars
@@ -295,12 +308,6 @@ dow /quotes/zigman/627449 13,118.34 -114.28 -0.86% nasdaq /quotes/zigman/123127 
     Dream wheels for 007  
     James Bond needs to trade in his outdated "Skyfall" DB5 for this new $300,000 beast of an Aston Martin Vanquish, says Dan Neil.   
     233901
-*   1339754400000 1340010000000
-    
-    Investing
-    
-    Piling into stocks pays off  
-    Dollar-cost averaging ends up hurting more investors than it helps, a new Vanguard study says. /conga/kiosk/investing.html 233903
 *   1347087600000 1347213600000
     
     Your Health
@@ -310,23 +317,11 @@ dow /quotes/zigman/627449 13,118.34 -114.28 -0.86% nasdaq /quotes/zigman/123127 
     /conga/kiosk/wildcard2.html 233907
 *   1309191300000 1309248000000
     
-    Beer
+    Personal Finance
     
-    Only $190 a bottle  
-    If your idea of a “cold one” is the dollar-draft special down at the corner tavern, Samuel Adams’s Utopias is probably not going to be your pour.  
-    /conga/kiosk/wildcard3.html 233909
-*   1341573300000 1341792900000
-    
-    Week In Charts
-    
-    Closer look at jobs data  
-    A report that probably will help Obama's re-election campaign shows 171,000 jobs created in October and unemployment at 7.9%. /conga/kiosk/economy-politics.html 233911
-*   1343988600000 1344810900000
-    
-    U.S. Week Ahead
-    
-    Vote takes center stage  
-    Tuesday's presidential election may be the biggest news story of the year, but there's also economic data for stock investors to assess. /conga/kiosk/video2.html 233964
+    The new case for 529 plans  
+    The latest push by advisers comes as these college-savings plans remain unused by many investors despite being around since the 1990s.  
+    /conga/kiosk/wildcard3.html 234086
 
 MarketWatch.com
 
