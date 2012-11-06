@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Obama, Romney Race to Close Election Finish
-*   French President in Lebanon to Discuss Syria
+*   Voting Begins in US Presidential Election
+*   Car Bomb Explodes Near Iraqi Army Base
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
