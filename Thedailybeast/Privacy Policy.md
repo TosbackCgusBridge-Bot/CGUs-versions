@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  Heck Of a Job, Bloomberg
-2.  Pundits: It’s Obama!
-3.  Sandy’s Unmistakable Message
-4.  The Coming GOP Freak Out
-5.  Romney’s Late Pennsylvania Play
+1.  And the Winner Is …
+2.  A Disaster to Dwarf Sandy
+3.  Anxiety in Obama’s Backyard
+4.  Heck Of a Job, Bloomberg
+5.  A Kinder, Gentler, Purpler Mitt
 
   Other News Entertainment
 
-*   Week in Photos for Nov. 2, 2012
-*   The "Twilight" cast talks friendship, fans, and saying goodbye
-*   Celebs in Halloween Costumes 2012
+*   Reveal: Model Bodies After Baby
+*   '80s Stars in Their 50s
+*   What Happened to Amanda Bynes?
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
-*   ‘Saturday Night Live’ recap: Louis C.K. is best when he’s just being Louis
-*   PopWatch Planner: An election, Bond, a ‘Twilight’ battle in late night, and new ‘Top Chef’
+*   ‘Gossip Girl’ recap: Keeping it in the family
+*   Kristen Stewart talks to Jay Leno about ‘Breaking Dawn’ twist ending
+*   ‘How I Met Your Mother’ recap: The choice
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Bill Clinton Is Obama's Real Running Mate, Says Romney Spokesman
-*   Occupy Movement Finds A Mission In Sandy's Wake
-*   Ryan Warns Evangelicals: Obama Threatens "Judeo-Christian Values"
+*   Cops Dismiss Election Night "Riot" Claims
+*   Email Voting Fails Some New Jersey Residents
+*   Elizabeth Warren And Her Allies Look Nervously To Tuesday
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Romney Avoided Taxes Through Netherlands
-*   Obama Probability of Re-Election Bounces Back
-*   Latest Swing State Polls
+*   It's Election Day!
+*   Obama is Heavy Favorite to Win Re-Election
+*   Feeling Over Polls
 *   **Get More from Political Wire**
 
 The Daily Beast
