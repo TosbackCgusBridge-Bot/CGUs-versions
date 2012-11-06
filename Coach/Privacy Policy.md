@@ -98,7 +98,6 @@ security/privacy  | site map
 *   new arrivals
 *   women's looks
 *   create your own duffle
-*   coach for a cause
 *   frye collaboration
 *   spotted
 
