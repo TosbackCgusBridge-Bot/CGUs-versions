@@ -11,8 +11,8 @@
 *   broadcasts
 *   krux &. privacy
 
-NEWS ALERT: Triad Taps Krux DMP to Power  
-Advanced Targeting for Retailers and Brands
+Wikia Taps Krux To Support Data Strategy, Driving  
+Breakthrough Resutls for Consumers and Marketers
 
 *   Home
 *   krux pro
