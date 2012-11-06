@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Obama's 'revenge' remark reverberates on presidential campaign trailMedicare fades as ‘majority-maker’ issue for House DemsConflict-of-interest concerns raised as Obama races to implement health reformRasmussen poll shows tight race with Obama, Romney tied at 49-49Poll: Swing-state voters split 48-48 between Obama, Romney
+GOP senators: Thousands of ballots unlikely to reach military voters in timePrediction: Romney 325, Obama 213 Pew poll finds Obama retaking national lead, up 48-45 over RomneyGallup: Obama cuts Romney’s lead to 1 point nationallyRepublicans pounce on Obama, CBS News over unaired Libya remarks
 
 Emailed
 
-Conflict-of-interest concerns raised as Obama races to implement health reformOpinion: A Romney win would be a victory for shameless cynicismObama's 'revenge' remark reverberates on presidential campaign trailRussia skewers US election as undemocratic, ‘the worst in the world’Political fight over Benghazi Consulate attack shifts after CIA revelations
+GOP senators: Thousands of ballots unlikely to reach military voters in timePrediction: Romney 325, Obama 213 Conflict-of-interest concerns raised as Obama races to implement health reformOpinion: A Romney win would be a victory for shameless cynicismPolls: Obama leads Romney by 5 points in Ohio, up 4 in Virginia
 
 Discussed
 
-Obama's 'revenge' remark reverberates on presidential campaign trailShift in proportion of white, minority vote could decide Obama-Romney raceSen. Graham: Obama move on defense layoff notices 'patently illegal'More bad news for Mitt Romney GOP pollster: Romney up in Ohio, closing the gap in Wisconsin
+Obama's 'revenge' remark reverberates on presidential campaign trailGOP senators: Thousands of ballots unlikely to reach military voters in timeShift in proportion of white, minority vote could decide Obama-Romney raceOpinion: A Romney win would be a victory for shameless cynicismPolls tilt for Obama in battleground Ohio
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Van Hollen: Dems face an 'uphill battle' to win back House
-*   Toomey: 'I think Gov. Romney's going to carry Pennsylvania'
-*   Biden: GOP ‘fever’ will break after election
+*   Gibbs: Obama in strong position to win undecided voters on Election Day
+*   Biden votes in Del., jokes he may be on ballot again in future
+*   MORNING READ
 
   
 More Briefing Room » Congress Blog
 
-*   What consumers want in FTC v. Google
-*   US should work to strengthen relations with Azerbaijan
-*   Multi-lingual outreach key to getting out the vote
+*   Candidates should back abortion care for military women
+*   Obama's success at filling judicial vacancies in Virginia
+*   Undermining vital child protections
 
   
 More Congress Blog » Pundits Blog
 
-*   Elizabeth Warren would be the conscience of the United States Senate
-*   The bottom line in Election 2012: TRUST
-*   Clinton barnstorms for Barack, George W. Bush barnstorms for bucks at Cayman Island tax-dodge soiree
+*   Chris Christie said it all
+*   Political messaging
+*   Too close to call
 
   
 More Pundits Blog » Twitter Room
 
-*   Study: Twitter users 'relentlessly negative' about campaigns
-*   Trump fires back at Chrysler official
-*   Foursquare announces Election Day 'check ins' at polling locations
+*   Melissa Joan Hart voting for Romney
+*   Celebrities help get-out-the-vote effort on Twitter
+*   Team Obama promotes hashtag, early voting
 
   
 More Twitter Room » Hillicon Valley
 
-*   Police drones prompt privacy concerns
-*   FCC commissioner: No 'plan B' in auction of TV airwaves to cell carriers
-*   Facebook unveils privacy education feature for new users
+*   ‘Do Not Track’ effort at a standstill
+*   Twitter to flag tweets accused of violating copyrights
+*   Two sentenced to prison for online copyright infringement
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   News bites: Coastal cities look to strengthen storm defense
-*   News bites: Gas prices keep falling in Sandy’s wake
-*   Hurricane Sandy gives climate change a moment in the sun
+*   News bites: Sandy throws obstacles in path of voters
+*   Ousted Duke Energy CEO to head Tennessee Valley Authority
+*   Report: Fossil fuels could raise global temperatures 10 degrees by century's end
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Poll: Obama holds narrow 1-point lead in Virginia
-*   Poll: Romney up 5 points in Florida
-*   Poll: Romney, Obama in dead heat at 49-49
+*   Final Ohio Poll shows Romney, Obama in virtual dead heat
+*   Dems see slight edge in race for Senate
+*   OVERNIGHT CAMPAIGN: One more day
 
   
 More Ballot Box » On The Money
 
-*   Light on details, business community calls for action to avert ‘fiscal cliff’
-*   Key Democratic senator pushing for Sandy supplemental spending bill
-*   US tries to soothe foreign leaders' fears about ‘fiscal cliff’
+*   Unions cool to Senate postal bill, but give to its backers
+*   Rising rents outpacing home sale prices
+*   Chamber tells Geithner to back off on money market funds
 
   
 More On The Money » Healthwatch
 
-*   Conflict-of-interest concerns raised as Obama races to implement health reform
-*   Medicare fades as ‘majority-maker’ issue for House Dems
-*   Fred Thompson cuts robocall against Obama on abortion
+*   FDA chief to testify on meningitis outbreak at House hearing
+*   Swing-state ballot measures take aim at 'ObamaCare,' abortion rights
+*   Heart issues hit employers' bottom lines, study finds
 
   
 More Healthwatch » Floor Action
 
-*   Sen. Paul: Clinton needs to answer for Libyan terrorist attack
-*   Democratic senators urge Commerce to make South Korea play fair in trade deal
-*   Obama administration waives shipping rule to get fuel to Northeast ports
+*   NJ senators welcome buses from DOT to aid Sandy recovery
+*   Rep. Ron Paul questions value of federal flood aid for victims of Hurricane Sandy
+*   Rep. Chu to sue GOP assemblyman for implying endorsement
 
   
 More Floor Action » Transportation
 
+*   Transportation veteran suits up
 *   Auto union files ethics complaint against Romney for alleged bailout profits
 *   Former Chrysler executive endorses Romney for president
-*   Obama blasts Romney's Jeep ads: 'This isn’t a game'
 
   
 More Transportation » DEFCON Hill
 
-*   Congress expected to deliver on half of Pentagon's priorities during lame-duck
-*   Political fight over Benghazi Consulate attack shifts after CIA revelations
-*   GOP senators want new Select Committee to investigate Benghazi attack
+*   Head of United Auto Workers alleges 'dirty tricks' by Romney camp in Ohio
+*   Number of vets in Congress could rise for first time in three decades, study finds
+*   Hearing begins for Afghan massacre suspect
 
   
 More DEFCON Hill » Global Affairs
 
-*   Monday's global agenda: Syrian shake-up
-*   Russia skewers US election as undemocratic, ‘the worst in the world’
-*   Report: Romney son sends assurances to Putin about rhetoric
+*   Treasury drops terror sanctions against US citizen after 17 years
+*   US targets Pakistani group's 'suicide operations' chief
+*   US lambastes Iranian ally Nicaragua over questionable elections
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Fiscal cliff looms Lanny Davis Why Obama will win More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris Romney 325, Obama 213 Karen Finney Closing argument More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
