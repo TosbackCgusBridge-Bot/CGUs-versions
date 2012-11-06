@@ -270,25 +270,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Union workers strike at Raley's supermarket chain. members picketing at both Redding stores Updated 11/4/2012 at 4:11 p.m. 110 comments
-*   Siskiyou County Sheriff Jon Lopey says he's fighting to protect rural America Published 11/3/2012 at 7:36 p.m. 56 comments
-*   UPDATED: Skateboarding suspect slashes man's thumb in Redding Updated 11/4/2012 at 11:08 a.m. 11 comments
-*   Better off four years later? A mixed bag of answers Published 11/4/2012 at 4:00 a.m. 79 comments
-*   Alana Burke: Romney is choice for a renewed America Published 11/4/2012 at 12:00 a.m. 107 comments
+*   Bob Williams: Is insanity the new normal, or the old? Published 11/5/2012 at 12:00 a.m. 186 comments
+*   Okla. couple drove stolen car to Redding to process pot, police say Published 11/5/2012 at 6:38 a.m. 46 comments
+*   UPDATED: Big Bend shooting victim identified Updated 11/5/2012 at 2:19 p.m. 18 comments
+*   School district loses big because of Giants parade Published 11/5/2012 at 6:48 a.m. 47 comments
+*   Red Bluff man dies after police handcuff him Published 11/5/2012 at 12:59 p.m. 16 comments
 
-Photo Galleries Redding Raley's protests Central Valley beats Anderson Enterprise wins the River Bowl
+Photo Galleries Redding Raley's protests Central Valley beats Anderson Enterprise beats Foothill
 
-*   Editorial: Golden State's Republicans fading to black Published 11/3/2012 at 12:00 a.m. 160 comments
-*   Charles Krauthammer: At stake: America's character Published 11/2/2012 at 12:00 a.m. 146 comments
-*   Keeping safe: Panhandlers, criminal activity worry businesses in downtown area Published 11/2/2012 at 11:41 p.m. 131 comments
-*   Patty Smith: If you don't respect America, then leave Published 11/2/2012 at 12:00 a.m. 136 comments
-*   UPDATED: Union workers strike at Raley's supermarket chain. members picketing at both Redding stores Published 11/4/2012 at 11:20 a.m. 110 comments
+*   Bob Williams: Is insanity the new normal, or the old? Published 11/5/2012 at 12:00 a.m. 186 comments
+*   UPDATED: Union workers strike at Raley's supermarket chain. members picketing at both Redding stores Published 11/4/2012 at 11:20 a.m. 171 comments
+*   Editorial: Golden State's Republicans fading to black Published 11/3/2012 at 12:00 a.m. 162 comments
+*   Keeping safe: Panhandlers, criminal activity worry businesses in downtown area Published 11/2/2012 at 11:41 p.m. 134 comments
+*   Alana Burke: Romney is choice for a renewed America Published 11/4/2012 at 12:00 a.m. 113 comments
 
 *   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 26 comments
 *   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
 *   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 121 comments
-*   UPDATE: Detectives arrest two men in connection with Big Bend murder Published 11/3/2012 at 9:09 a.m. 32 comments
 *   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Published 10/31/2012 at 4:55 p.m. 65 comments
+*   Siskiyou County Sheriff Jon Lopey says he's fighting to protect rural America Published 11/3/2012 at 7:36 p.m. 58 comments
 
 Weather
 
@@ -296,25 +296,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 64° Fair Wind: NW 5mph Today 85° 53° Mon 05:00 PM Sunny Temp: 68° Tue 05:00 AM Clear Temp: 54° Tue 05:00 PM Mostly Sunny Temp: 65°
+Currently 51° Fair Wind: Calm Today 80° 50° Tue 05:00 PM Mostly Sunny Temp: 63° Wed 05:00 AM Partly Cloudy Temp: 51° Wed 05:00 PM Mostly Clear Temp: 59°
 
-Feels Like: 68°
+Feels Like: 63°
 
-Humidity: 52%
-
-Precip: 0%
-
-Feels Like: 54°
-
-Humidity: 69%
+Humidity: 68%
 
 Precip: 0%
 
-Feels Like: 65°
+Feels Like: 51°
 
-Humidity: 57%
+Humidity: 77%
 
 Precip: 0%
+
+Feels Like: 59°
+
+Humidity: 55%
+
+Precip: 12%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -330,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Monday Nov 5
 *   Tuesday Nov 6
 *   Wednesday Nov 7
+*   Thursday Nov 8
 *   More BROWSE Icon
-
-*   Veterans Historical Association Presents: A Mobile Military Museum Redding Library 11 a.m.
-*   DAR Monthly Meeting Redding Library 11 a.m.
-*   Antique Tractor and Engine Club Branch 114 Meeting Round Table Pizza - Yreka 7 p.m.
-*   Reverend Peyton's Big Damn Band concert State Theatre 7 p.m.
-*   Free classes for seniors Senior Citizens Hall
-
-More Events »
 
 *   Anderson and West Valley High Schools Muscial 'The Wedding Singer' Anderson High School 7 p.m.
 *   Quilters' Sew-ciety of Redding General Meeting Senior Citizens Hall 7 p.m.
@@ -359,39 +351,43 @@ More Events »
 
 More Events »
 
+*   Forgotten Foods and Medicinal Plants of Shasta County Grilla Bites - Redding 6 p.m.
+*   Allison and Victor concert Dogwood Diner 6:30 p.m.
+*   Master Garden Meeting, Edible Landscapes Shasta College Health Sciences Center 6:30 p.m.
+*   Anderson and West Valley High Schools Muscial 'The Wedding Singer' Anderson High School 7 p.m.
+*   Foothill High School Drama, Cloud Seven Foothill High School 7:15 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Fantasy Fountain
-    
-    Community painting project ends Saturday, November 3rd! Have you registered yet?
-    
-    20 Under 40
+*   20 Under 40
     
     Nominate young leaders in the North State! Nomination deadline November. 6th
-    
-    2012 Candidates
-    
-    Use our election guide to compare your viewpoints to the candidates' views.
-    
-*   The results are in!
-    
-    See who our readers picked as the Best of the North State.
     
     Election Guide
     
     Voter resources, stories, photos, videos and more.
     
+    2012 Candidates
+    
+    Use our election guide to compare your viewpoints to the candidates' views.
+    
+*   Running on Empty?
+    
+    Check to see what the lowest gas prices are around Redding.
+    
     Weather Radio
     
     We have you covered with our **iPhone** Storm Shield.**Now available for Android!**
     
-*   Download Our Apps
+    Download Our Apps
     
     Make your smartphone even smarter. Local news is more accessible than ever.
     
-    News on Facebook
+*   News on Facebook
     
     Become a fan, get updates and breaking news.
     
@@ -399,17 +395,21 @@ More Events » Features
     
     When local breaking news happens, we'll get it to your inbox as soon as possible.
     
-*   @BreakingNews\_RS
+    @BreakingNews\_RS
     
     Follow us on Twitter and get the latest breaking news!
     
-    Subscribe
+*   Subscribe
     
     Check out videos featured on redding.com at YouTube.com
     
     Data Center
     
     Public databases containing facts, figures &. details of our community.
+    
+    Recycling locations
+    
+    Where to drop off your batteries, paint, motor oil and more...
     
 
 On the Web:
