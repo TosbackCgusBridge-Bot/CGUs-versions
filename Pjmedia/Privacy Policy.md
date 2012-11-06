@@ -115,9 +115,10 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
+*   Vote Fraud: Who You Gonna Call?
+*   Four Futures
+*   The Seven Worst Democratic Ads of 2012
 *   Now Up on the PJ Media Homepage
-*   Breaking: GEN Tommy Franks, GEN Hugh Shelton Among 500 American Warriors to Run Full-Page Ad Endorsing Mitt Romney for President
-*   Tired of Bronco Bamma and Mitt Romney
 
 More  
 
@@ -125,18 +126,18 @@ More  
     
     Conservative Song Gaining Popularity
     
-*   The 15 Best Books For Understanding Barack Obama’s Mysterious Political Theology
-*   Is Weight Lifting Good for Kids?
-*   Jazz &. Cocktails
+*   TUESDAY NEW RELEASES: Aerosmith Goes Multi-Dimensional, Third Day Prays for a _Miracle_
+*   Have You Seen the Ghost of Steve Jobs?
+*   5 Reasons Why This Pagan Won’t Vote for Barack Obama
 
 More
 
-*   Sophocles in Benghazi
-*   Breaking: GEN Tommy Franks, GEN Hugh Shelton Among 500 American Warriors to Run Full-Page Ad Endorsing Mitt Romney for President
-*   Who's Counting? Interview: Hans von Spakovsky on Voter Fraud
+*   2 Reasons Why Obama Must Be Defeated
+*   My Final Electoral Map Prediction
+*   Shut The Hell Up and Vote for Romney
 
-More   HOW TOUGHER CLASSES IN HIGH SCHOOL can help kids make it through college. SOPHOCLES IN BENGHAZI: Victor Davis Hanson writes, “The strange thing about Libya is not so much who lied, but has anyone yet told the whole truth?” MITTMENTUM: Romney Ahead 59-41 on Amazon “Electoral Heat” Map. More Advertisement
+More   ROMNEY STILL WAY AHEAD on the Amazon “Electoral Heat” Map. But he’s dropped two points in two days. #Panic! Well, no. If he does this well in the _real_ election, I’ll be very satisfied indeed. LUCY AND THE FOOTBALL: A video look back at when the MSM called Florida for Gore in 2000, while polls were still open in the state. ... More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
-Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb2
+Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMCloud1
