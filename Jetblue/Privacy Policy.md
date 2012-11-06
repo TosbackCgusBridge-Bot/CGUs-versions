@@ -127,11 +127,11 @@ Effective since January 28, 2004_
 
 **Same smart app. More smartphones.**Download the JetBlue mobile app for iPhone and Android now!
 
-*   Like us on Facebook 663,163 like this
+*   Like us on Facebook 670,143 like this
     
-*   Follow us at @JetBlue 1,687,347 followers
+*   Follow us at @JetBlue 1,692,561 followers
     
-*   Visit us on YouTube 1,946,614 total views
+*   Visit us on YouTube 1,972,235 total views
     
 *   BlueTales Blog Your destination for all things JetBlue and beyond
     
