@@ -109,6 +109,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Style Watch
     *   Men's Shop Blog
     *   GQ Selects
+    *   Black Tie Optional
     *   Ultimate Coat Guide
     *   Boots 101
     
