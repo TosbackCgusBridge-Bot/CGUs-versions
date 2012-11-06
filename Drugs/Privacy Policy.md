@@ -1,21 +1,10 @@
-Skip to Content Browse all medications  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z    Advanced Search   Phonetic Search Search:
-
-*   Drugs A-Z
-*   Pill Identifier
-*   Interactions Checker
-*   News
-*   Health Professionals
-*   Q &. A
-*   Mednotes
-*   Apps
-
-Home → Support → **Privacy Policy** Privacy Policy
+Privacy Policy
 
 For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.com" refer to our Web site www.drugs.com. The terms "You" and "End-User" refer to You as a user of this Site.
 
 **For third party advertising information and opt-out options please click here**
 
-TRUSTe Drugs.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe certification only covers information collected on our Web site www.drugs.com and does not cover information that may be collected through our Mobile Application.
+TRUSTeTRUSTe's program requirements
 
 If you have questions or concerns regarding this statement, you should first contact:
 
@@ -96,7 +85,7 @@ Mednotes
 
 To store a medication profile using Drugs.com Mednotes, you will need to create an account. When You create a Drugs.com Account, we ask for your email address and a password, which is used to protect your account from unauthorized access. You control who can access the information stored in Mednotes. You are the only user who can view and edit your Mednotes profiles. Any information in your Mednotes profiles will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical information. Drugs.com will use aggregate data to publish drug usage statistics, drug interaction data and drug treatment combinations. None of this data can be used to personally identify an individual. No data from Mednotes will be sold to any other party.
 
-Personally Identifiable Information (PII) Community/Forum/Bulletin Board/Answers/
+Personally Identifiable Information (PII)Community/Forum/Bulletin Board/Answers/
 
 If you choose to participate in any community or social oriented parts of the Drugs.com website, such as a forum, bulletin board, blog, chatroom, Q&A, reviews or comments section, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit. Drugs.com also reserves the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use.
 
@@ -125,52 +114,3 @@ Changes to the Privacy Policy
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
 Updated: June 28th, 2012
-
-Search: Sign In or Register FDA Consumer Updates
-
-*   Drops, Sprays Put Curious Kids at Risk
-*   Is Post-Surgery Codeine a Risk for Kids?
-*   Medications Target Long-Term Weight Control
-*   FDA Works to Reduce Risk of Opioid Pain Relievers
-
-More FDA Updates...
-
-Recently Approved
-
-*   SynriboSynribo (omacetaxine mepesuccinate) is a first-in-class small molecule drug for the treatment of adult...
-*   FycompaFycompa (perampanel) is a non-competitive AMPA glutamate receptor antagonist indicated as adjunctive therapy...
-*   JetreaJetrea (ocriplasmin) is a proteolytic enzyme indicated for the treatment of symptomatic vitreomacular...
-*   CystaranCystaran (cysteamine cysteamine ophthalmic solution) is a cystine-depleting agent indicated for the...
-*   Quillivant XRQuillivant XR (methylphenidate) is a central nervous system (CNS) stimulant indicated for the treatment of...
-
-More...
-
-Get Updates by Email **Email me:** FDA Medwatch Alerts News Roundup DailyWeeklyMonthly Email Weight Loss Medicine Immediate weight loss - reduces fat absorbtion - less fat means less pounds   www.pharmcom.com Support About Drugs.com Your Privacy
-
-*   Advertise With Us
-*   Frequently Asked Questions
-*   Widgets for your Website
-*   Content Submissions
-*   About Drugs.com
-*   Contact Us
-*   Sitemap
-
-Follow us: Google+ Facebook Twitter YouTube
-
-Drugs.com provides accurate and independent information on more than 24,000 prescription drugs, over-the-counter medicines &. natural products. This material is provided for educational purposes only and is not to be used for medical advice, diagnosis or treatment.
-
-Data sources include Micromedex™ (updated Oct 15th, 2012), Cerner Multum™ (updated Oct 20th, 2012), Wolters Kluwer™ (updated Oct 2nd, 2012) and others.  
-To view content sources and attributions, refer to our editorial policy.
-
-Copyright © 2000-2012 Drugs.com. All rights reserved.
-
-We comply with the HONcode standard for trustworthy health information.  
-Verify here
-
-Terms of Use · Privacy Policy
-
-Advertisement Close Recommended
-
-*   Symptom Checker
-
-(web5)
