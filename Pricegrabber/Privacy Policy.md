@@ -23,8 +23,8 @@ My Account
     *   Office Max
     *   Money
     *   Iphone
-    *   Coffee Makers
     *   Digital Cameras
+    *   Coffee Makers
     *   Camcorders
     *   Discount Tires
     *   Se
@@ -197,16 +197,16 @@ Shop by Department
     *   Kitchen &. Cooking Gadgets
     *   Wall Decor
     *   Mechanics Tools &. Tool Sets
-    *   Bedroom Quilts, Bedspreads &. Bedskirts
     *   Generators &. Air Compressors
+    *   Bedroom Quilts, Bedspreads &. Bedskirts
     *   See More...
 *   Industrial Supply Shop Industrial Supply
     *   Refrigeration &. Ice Machines
     *   Ovens, Ranges &. Toasters
     *   Other Appliances
     *   Coffee &. Espresso Makers
-    *   Grills, Broilers &. Griddles
     *   Fans &. Heaters
+    *   Grills, Broilers &. Griddles
     *   Slicers &. Dicers
     *   Beverage Dispensers
     *   Ventilation Accessories
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1492 Local Deals
+*   1482 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
