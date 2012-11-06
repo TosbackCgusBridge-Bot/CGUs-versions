@@ -194,83 +194,83 @@ Registrieren Login
 
 1.  Halloween
 2.  Konzert
-3.  Kostüm
-4.  One Direction
-5.  Periode
-6.  Pickel
-7.  Piercing
-8.  Pokemon
-9.  rauchen
-10.  Steam
+3.  One Direction
+4.  Periode
+5.  Pickel
+6.  Piercing
+7.  Pokemon
+8.  rauchen
+9.  Steam
+10.  Windows 8
 
-Top-50 Themen Thema Anzahl Apple 84966 Arbeit 65156 Ausbildung 50553 Auto 91501 Beauty 69755 Beruf 77780 Beziehung 72606 Computer 540696 Computerspiele 65168 deutsch 67386 Englisch 52391 Ernährung 50976 essen 71547 Facebook 78142 Fernsehen 60521 Film 100909 Finanzen 59189 Freizeit 264791 Fußball 51349 Games 126006 Geld 94107 Gesundheit 206718 Haare 83330 Handy 206788 Hilfe 150159 Internet 324147 iPhone 76095 Kinder 51104 Körper 50607 Laptop 74125 Liebe 166962 Lied 54846 Mädchen 56867 Medizin 63023 Minecraft 68811 Musik 282200 PC 284487 PC-Spiele 49133 Problem 55816 PS3 60921 Recht 95677 Schule 236891 Software 57330 Spiele 138252 Sport 111496 Technik 121322 Tiere 65154 TV 54655 Video 53056 Youtube 84138 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 85090 Arbeit 65236 Ausbildung 50653 Auto 91589 Beauty 69811 Beruf 77857 Beziehung 72705 Computer 541104 Computerspiele 65244 deutsch 67455 Englisch 52452 Ernährung 51012 essen 71602 Facebook 78251 Fernsehen 60556 Film 100966 Finanzen 59215 Freizeit 264892 Fußball 51383 Games 126155 Geld 94207 Gesundheit 206851 Haare 83448 Handy 207057 Hilfe 150368 Internet 324391 iPhone 76216 Kinder 51139 Körper 50669 Laptop 74216 Liebe 167156 Lied 54902 Mädchen 56944 Medizin 63079 Minecraft 68896 Musik 282438 PC 284771 PC-Spiele 49176 Problem 55906 PS3 60981 Recht 95763 Schule 237212 Software 57367 Spiele 138365 Sport 111582 Technik 121418 Tiere 65202 TV 54709 Video 53089 Youtube 84223 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  Bademeisterin
+1.  Chimaer
     
     Punkte:
     
-    961
-    
-    Level:
-    
-    Bademeisterin
-    
-2.  Chimaer
-    
-    Punkte:
-    
-    798
+    1396
     
     Level:
     
     Chimaer
     
-3.  Siebenschlaf
+2.  Yellowstone
     
     Punkte:
     
-    543
+    1245
     
     Level:
     
-    Siebenschlaf
+    Yellowstone
+    
+3.  Vargus
+    
+    Punkte:
+    
+    738
+    
+    Level:
+    
+    Vargus
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.422.356 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.430.375 gute Fragen_
 
-*   20 Hilfe! Ich kann meine Eltern beim ...... hören!!!
-*   12 Älterer Mann (75) schlägt und beschimpft seine Frau (70). Kann man da nichts tun?
-*   10 Wie kann man seine Talente finden?
+*   39 Wie kann man seine Talente finden?
+*   23 Ich beziehe sofort immer alles auf mich! Gelächter etc.
+*   23 Viele Menschen Nerven mich.
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Bastel-Anleitung: Blumenstrauß aus Herbstlaub
-*   Kräuterseitlinge mit Pasta
+*   How-To Windows 8: Normale Programme deinstallieren
 
-*   Spiel für Halloween-Kinderparty: Die Halloween-Grusel-Box
 *   Eiweißshake selber machen
+*   Kräuterseitlinge mit Pasta
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.986.649
+1.989.484
 
 Anzahl der Fragen
 
-8.421.837
+8.429.845
 
 Anzahl der Antworten
 
-36.489.113
+36.516.201
 
 Anzahl der Tipps
 
-75.630
+75.699
 
 Anzahl der Videos
 
-4.786
+4.798
 
 Blog
 
