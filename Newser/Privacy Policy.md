@@ -6,12 +6,12 @@
     *   Obama 2012
     *   Mitt Romney 2012
     *   Mitt Romney
-    *   New Jersey
-    *   President Obama
     *   Barack Obama
-    *   New York City
-    *   Republicans
-    *   timeless news
+    *   President Obama
+    *   New Jersey
+    *   entertainment
+    *   celebrity
+    *   voting
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -37,7 +37,7 @@
     *   MEDIA
     *   SPORTS
 
-Four More Years Barack Obama Wins 2nd Term He's 'more inspired than ever'. Romney concedes » Newser Privacy Policy
+Newser Privacy Policy
 
 Please read this Privacy Policy (last revised as of March 1, 2010) before using this service. By continuing to use Newser.com, you acknowledge that you have read and agree to the terms of this policy.
 
@@ -121,62 +121,62 @@ COMMUNITY
 NEWS FROM OUR PARTNERS
 
 *   Silver Medal
-*   Akin's Legacy: The Crazy Line
-*   Drudge Handled Obama's Win Just About How You'd Expect
+*   There Was a War on Women, and the Women Won
+*   The Five Stages of Fox News Grief
 
 More from Slate »
 
+*   HURRAY FOR HOLY WOOD!
 *   Lobsters Stolen For Drug Habit, Thief Faces 25 Years
 *   Man-Eating Leopard Craves 'Salty' Human Blood, Scientist...
-*   Sounds Fishy: Raw Details On Sushi Cologne
 
 More from HuffPost Weird »
 
-*   13 Celebs Rocking The Vote
-*   Barack Obama Wins 4 More Years As The President Of The...
-*   2012 Election Night Live Blog!
+*   Love Conquers Hate: Get The Details On The Latest Marriage...
+*   Sienna Miller Stripped Down For A Pregnant Portrait (NSFW)
+*   Mirror Mirror: On High Heels
 
 More from The Frisky »
 
-*   With many of the precincts now reporting in, news...
-*   Psychologists attempt to answer the question: Why is it so...
-*   Woman briefly barred from voting for wearing an MIT t-shirt...
+*   Was Diane Sawyer totally drunk last night? \[Amusing\]
+*   Giddy-up and go to jail. Drunk dude tried to shoot horse...
+*   Awesome picture, bro. The mugshot...not so much \[Florida\]
 
 More from Fark »
 
-*   10 election results you missed
-*   The multibillion-dollar 2012 election: By the numbers
-*   Democrats hold the Senate: What it means
+*   Do Republicans owe Nate Silver an apology?
+*   Is Puerto Rico on the verge of becoming the 51st state?
+*   Obama's next challenge: Can he avoid the fiscal cliff?
 
 More from The Week »
 
-*   Michele Bachmann Almost Lost Her House Seat
-*   How He Did It: Obama Sweeps Battleground States, Gets Boost...
-*   Gay Marriage, Legal Pot Lead Liberal-Pleasing Election Night
+*   What Joe Scarborough Would Look Like With Ten Famous...
+*   Mindy Meyer Got a Few Votes
+*   Jonathan Adler Is Trying Hard to Get a Drink Named After Him
 
 More from Daily Intel »
 
-*   An Open Letter To The Presidential Candidates, From...
-*   5 Ways to Cope With Election Stress
-*   The Great Cholesterol Myth
+*   The Short Sleeper, The Napper, The Snorer: Surprising Sleep...
+*   Have You Lost Your Peace of Mind? 5 Ways to Keep It
+*   Field Trial Results Guide DSM Recommendations
 
 More from HuffPost Health »
 
-*   Election 2012 TV Viewing Guide: How the Networks Are...
-*   'Real Housewives of Beverly Hills' Premiere: Alex McCord...
-*   Giuliana and Bill Rancic Celebrate Baby Duke's Baptism...
+*   'Diamonds' Singer Rihanna's Top 7 Best Songs (VIDEOS)
+*   Kristen Stewart on Relationship With Robert Pattinson: 'I...
+*   Obama Wins: 10 Best Reelection Memes (GALLERY)
 
 More from Celebuzz »
 
-*   5 Pieces of Clothing Every Mom Needs in an Emergency
-*   5 Ways to Decorate Your House for Thanksgiving on the Cheap
-*   Donald Trump's Election Twitter Meltdown Gets Hilariously...
+*   Women Offered Gas for Sex in Hurricane Sandy Aftermath
+*   'Teen Mom' Chelsea Houska Gets Parenting Help - So What?
+*   Miley Cyrus' Makeup-Free Look Is Rough but We Can Relate
 
 More from The Stir »
 
-*   4 Finalists Emerge in Charles Schwab Review
-*   Eight Local Political Spots With Huge Pricetags
-*   Ad of the Day: Hillshire Farm
+*   Ad of the Day: Whole Foods Market
+*   Don't Steal This Agency's Parking Spots, Unless You Want a...
+*   Is It Worth It? Notes on Life and Career From a Late Adman
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
