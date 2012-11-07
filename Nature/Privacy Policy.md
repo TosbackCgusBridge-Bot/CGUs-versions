@@ -24,7 +24,7 @@ Sign up for our e-newsletter!
     *   Gift Memberships
     *   More Ways to Give
 *   Donate
-    *   Donate Online
+    *   Donate Now
     *   Monthly Giving
     *   Memorial and Tribute Giving
     *   Gift Ideas
