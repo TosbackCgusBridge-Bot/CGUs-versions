@@ -80,7 +80,7 @@ Gabby Douglas and Jordyn Wieber Video!
 *   Get College Advice
 *   Electionista Blog
 
-Find Out Where to Vote!
+Election Day Excitement!
 
 *   Prom
 *   Quinceaneras
@@ -98,10 +98,10 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     Find The Perfect College For You!
 *   entertainment
     
-    The 10 Worst Celeb Breakups Of All Time
+    Sarah Habel On _Underemployed_
 *   fashion
     
-    Celeb Fashion Inspiration: Party Looks
+    Kit Rowley's Fashion Diary!
 *   love
     
     Flirty Text Message Ideas!
