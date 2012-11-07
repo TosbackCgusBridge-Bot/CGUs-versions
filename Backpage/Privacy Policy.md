@@ -78,7 +78,7 @@ dominican republic
 jamaica  
 puerto rico  
 virgin islands  
-kobenhavn, dk  
+københavn, dk  
 bordeaux  
 bretagne  
 corse  
