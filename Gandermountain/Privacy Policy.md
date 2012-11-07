@@ -104,7 +104,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   The North Face
     *   Under Armour
     
-    *   Summer Blowout SaleOther Ways to Shop: New for 2012   | Apparel Outlet   | Bestselling
+    *   Winter ShopOther Ways to Shop: New for 2012   | Apparel Outlet   | Bestselling
 *   Footwear
     
     *   Hunting Footwear
