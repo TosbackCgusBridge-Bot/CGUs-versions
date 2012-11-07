@@ -191,6 +191,7 @@ Skip Navigation
     
     Great Deals
     
+    *   Upholstery Event
     *   Dining Event
     *   Delivery Discounts
     *   Sale
@@ -629,6 +630,7 @@ Skip Navigation
     *   Bath
     *   Decor &. Pillows
     *   Tabletop
+    *   Holiday
     
     Gift Services
     
@@ -651,7 +653,9 @@ Skip Navigation
     *   Top Registry Ideas
 *   Sale Limited Time Offers
     
+    *   Veteran’s Day Sale
     *   Dining Event
+    *   Upholstery Event
     *   Free Shipping
     
     Shop By Category
