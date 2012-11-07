@@ -80,7 +80,7 @@ Gabby Douglas and Jordyn Wieber Video!
 *   Get College Advice
 *   Electionista Blog
 
-What Not To Wear To An Internship
+Find Out Where to Vote!
 
 *   Prom
 *   Quinceaneras
@@ -98,17 +98,17 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     Find The Perfect College For You!
 *   entertainment
     
-    One Direction Blowout
+    The 10 Worst Celeb Breakups Of All Time
 *   fashion
     
-    The Right (&. Wrong!) Way to Wear Bras
+    Celeb Fashion Inspiration: Party Looks
 *   love
     
     Flirty Text Message Ideas!
 
 Post a comment Our privacy policy has changed.Click here for details Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win L'eau de Chloe--super-luxe and feminine. Type in the Freebie Phrase of the Day, found in the November Issue!
+**1 Winner!** Enter for a chance to win a Philosophy Grace gift set from Sephora. Type in the Freebie Phrase of the Day, found in the November Issue!
 
  enter now 
 
