@@ -1,7 +1,3 @@
-×
-
-Your browser is out of date and may not support Vimeo's features. Please upgrade when possible.
-
 *   Join
 *   Log In
 *   Explore
@@ -191,7 +187,7 @@ Upgrade
     Professional-quality video hosting for businesses.
     
 
-Thank you for trying  
+You’re using  
 the new Vimeo
 
 Learn more about it »
