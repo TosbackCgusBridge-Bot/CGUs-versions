@@ -29,19 +29,19 @@ Welcome Imagine it, create it, share it. Learn more Upload Upload from your comp
 
 *   Products▼ Bestsellers
     
-    Prints
+    Cards
     
     Photo Books
     
-    Cards
+    Calendars
     
-    Photo Canvas
+    Prints
     
     Collage Photo Gifts
     
-    Mugs
+    Photo Canvas
     
-    Mousepads
+    Mugs
     
     See All Bestsellers
     
@@ -52,8 +52,6 @@ Welcome Imagine it, create it, share it. Learn more Upload Upload from your comp
     Birth Announcements
     
     Wedding
-    
-    Halloween Store
     
     Holiday Cards
     
@@ -172,81 +170,10 @@ Welcome Imagine it, create it, share it. Learn more Upload Upload from your comp
     
     Congratulations
     
-    American Greetings Store
-    
     See All Greeting Cards
     
 *   |
-*   Home Décor▼ Canvases
-    
-    Gallery Wrap Canvas
-    
-    Museum Wrap Canvas
-    
-    Collage Photo Canvas
-    
-    Framed Gallery Wrap
-    
-    Framed Museum Wrap
-    
-    Framed Collage Canvas
-    
-    See All Canvases
-    
-    Poster Prints
-    
-    Single Photo Poster
-    
-    Collage Poster
-    
-    Calendar Collage Poster
-    
-    Metallic Print
-    
-    Framed Single Photo
-    
-    Framed Collage Poster
-    
-    See All Poster Prints
-    
-    Photo Panels
-    
-    Wall Panel
-    
-    Collage Wall Panel
-    
-    Table-top Panel
-    
-    Collage Table-top Panel
-    
-    See All Photo Panels
-    
-    Framed Prints
-    
-    Framed Matted Print
-    
-    Table-top Print
-    
-    Single Photo Poster
-    
-    Collage Poster
-    
-    Gallery Wrap Canvas
-    
-    Museum Wrap Canvas
-    
-    Collage Canvas
-    
-    See All Frames
-    
-    Baby &. Kids' Decor
-    
-    Growth Chart
-    
-    Repositionable Poster
-    
-    See All Baby &. Kids Décor
-    
+*   Calendars
 *   |
 *   Christmas Cards
 *   |
@@ -336,7 +263,7 @@ Europe
 *   cadeau personnalisé
 *   Cartes et Faire-part
 
-    Svizzera - italiano
+     Svizzera - italiano
 
 *   Stampe Digitali
 *   foto album
