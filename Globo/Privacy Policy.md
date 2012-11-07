@@ -94,7 +94,7 @@ globo.com
         *   Calendário de provas
         *   Vídeos
     
-    *   Olimpíadas 2012 ›
+    *   Eu Atleta ›
     *   \+ esportes
         *   Atletismo
         *   Basquete
