@@ -215,10 +215,10 @@ Close Email A Friend Your email has been sent.
     *   Schrager: Draft Stock - Week 11
     *   Alabama ready for the Aggies
     *   Florida looking for more 'Swamp Magic'
-    *   Recap: Group of Death
+    *   Manchester City v Ajax UEFA Champions League Highlights 11/06/12
+    *   Davis: CFB on FOX Preview - Week 11
     *   Real Madrid v Borussia Dortmund UEFA Champions League Highlights 11/06/12
     *   Davis: Week 11 Player Watch
-    *   Manchester City v Ajax UEFA Champions League Highlights 11/06/12
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -504,33 +504,33 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
+*   NHL talks appear to make forward progress
+*   Kirilenko looks to lead Wolves against Magic
 *   Timberwolves will be patient with Roy
-*   Barker likely out for second straight week
-*   NHL labor negotiations resume again
 
-*   AUTOS: Nissan Upgrades 2014 GT-R
-*   F1: Webber Frustrated By More KERS Problems
-*   F1: Ferrari Encouraged By Update Package
+*   CUP: 2013 Cars Show Great Promise
+*   F1: Da Costa Leads Way In Abu Dhabi Test
+*   F1: Lauda Still Tipping Vettel To Beat Alonso
 
-*   K-State WBB Highlights vs Washburn
-*   JUCO LB Talks Duke Visit
-*   Wolfley's View From The Sideline
+*   Preparing For Haley's Comet
+*   Reliever Francisco Samuel: A new home
+*   Video: Drake Harris' Spectacular Playoff Game
 
-*   Cung Le: Bringing The Big Trouble To China
 *   Title Town &. Super-Fights
 *   Rude Awakening: The Ultimate UFC Sweepstakes!
+*   Cung Le: Bringing The Big Trouble To China
 
-*   Jornada 4 Champions 06 de noviembre
-*   TITU POSICIONES Champions League
-*   Yu Darvish prefiere descansar
+*   México tendrá juego amistoso
+*   Chicharito fue el mejor de octubre
+*   Matthäus habla del Balón de Oro
 
 *   Miss. St. practices in parking lot
 *   Report: Dez caught breaking curfew
 *   Vick not the problem in Philly?
 
 *   Mancini will not face action
-*   Gerrard wants to play for Mourinho
-*   Dortmund steals Real Madrid's thunder
+*   Di Matteo calls for perfection
+*   Allegri unfazed by Guardiola story
 
 *   *   NFL
     *   NFL Home
