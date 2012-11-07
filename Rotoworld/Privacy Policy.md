@@ -34,6 +34,7 @@ To search for a player use one of two formats:
 
 COLUMNS
 
+*   Arizona Fall League Prospects Nov 7
 *   2013 Top 50 Free Agents Nov 2
 *   Santana Hands In His Halo Nov 1
 *   Giant Celebration Oct 29
@@ -41,7 +42,6 @@ COLUMNS
 *   Giant Performance Oct 22
 *   Cards Ahead On Carpenter Bomb Oct 18
 *   Beltran Blasting Off Again Oct 15
-*   NLCS: Cardinals vs. Giants Oct 14
 
 PREMIUM CONTENT
 
@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Bautista progressing well after wrist surgery
+*   Yankees to ask Mariano Rivera to take paycut
+*   Dodgers name Mark McGwire as hitting coach
+*   Mets agree to part ways with Jason Bay
+*   BoSox expected to name Nieves pitching coach
+*   O's have interest in Josh Hamilton, Cody Ross
+*   Padres, Headley haven't talked long-term deal
+*   Report: Cubs interested in McCarthy, Marcum
+*   Delmon Young pleads guilty for April incident
+*   Red Sox disinclined to trade Jacob Ellsbury
+*   Indians will listen on Choo, Cabrera, others
 *   Giambi no longer in hunt for Rockies manager
-*   Dodgers considering free agent Anibal Sanchez
-*   Mets' Duda broke wrist while moving furniture
-*   League's contract could reach $33.5 million
-*   Javier Vazquez pondering MLB comeback
-*   Source: Red Sox interested in Torii Hunter
-*   Nationals, Adam LaRoche no closer to deal
-*   Joakim Soria willing to set up for Yankees
-*   Reds to reevaluate Chapman's role this winter
-*   Rays, Peralta agree to two-year, $6M contract
-*   Red Sox finalize two-year deal with Big Papi
-*   White Sox may trade a starter this offseason
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   NFL Midseason All-Pro Team Nov 7
+*   Matchup: Colts @ Jaguars Nov 7
+*   Getting Defensive: Week 10 Nov 7
+*   Week 10 Target Watch: NFC Nov 7
 *   Three Rivers to Run Nov 7
 *   Week 10 Top Pickups Nov 6
 *   Stash 'em if You Got 'em Nov 6
 *   Vote Vick? Nov 6
-*   Silva: Season Pass Chat Nov 6
-*   Best Available NFL Free Agents Nov 6
-*   Matchup: Eagles @ Saints Nov 5
-*   Hamster Time, Can't Touch This Nov 5
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Darren McFadden not practicing Wednesday
+*   Stevie Johnson not practicing Wednesday
+*   Owen Daniels misses practice with hip issue
+*   Donald Brown (knee) officially questionable
+*   Matt Cassel will make another start on Monday
+*   Vikings now consider Percy Harvin day to day
+*   Hakeem Nicks won't practice after knee swells
 *   Report: Packers LB Perry undergoes surgery
 *   Report: Good chance Herremans out for season
 *   Locker cleared for practice, will split reps
 *   Donald Brown (knee) misses practice Tuesday
 *   Beanie: There's no doubt I'll play in Week 12
-*   Garcon: There has been no 'overnight miracle'
-*   Donnie Avery gets in full practice on Tuesday
-*   Hernandez, Bolden not practicing Tuesday
-*   Tomlin expects Dwyer to return for Week 10
-*   Colts tab Donnie Avery as a game-time call
-*   Antonio Brown considered doubtful for Monday
-*   Report: DeMarco not expected back this week
 
 NBA PAGES
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Kyle Lowry (ankle) doubtful Wednesday
+*   Kyle Lowry (ankle) will not play on Wednesday
+*   Anthony Davis, Austin Rivers out Wednesday
+*   Update: Josh Smith (ankle) to play Wednesday
+*   Zeller has concussion, fractured cheekbone
+*   Gerald Wallace (ankle) out again on Wednesday
+*   Danny Granger (knee) out about 3 months
+*   Del Negro: Blake Griffin's elbow is a concern
 *   Kenneth Faried plays well on Tuesday
 *   Nikola Vucevic stays hot in Tuesday's loss
 *   E'Twaun Moore scores career-high 17
 *   Arron Afflalo drops 28 with big line in loss
 *   Kobe Bryant skips practice, will play Weds.
-*   Jae Crowder looking like starter for Mavs
-*   Marion has MCL sprain, out at least 3 games
-*   Ryan Anderson likely to start for Davis Wed.
-*   Josh Smith (ankle) resumes practicing Tuesday
-*   Update: Jameer Nelson will not play Tuesday
-*   Gerald Henderson out 2-4 weeks w/ foot sprain
 
 NHL PAGES
 
@@ -207,6 +207,9 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   AHL gives Andrew Shaw a six-game suspension
+*   Mikhail Grigorenko has been a force in junior
+*   J. Brodin undergoes surgery. out 2-3 months
 *   Maxime Talbot signs on in Finland
 *   NHL, NHLPA will resume talks on Wednesday
 *   ECHL Bulls sign Sharks winger Ryane Clowe
@@ -216,9 +219,6 @@ FANTASY HOCKEY NEWS
 *   Robin Lehner should challenge for backup job
 *   Rick DiPietro denies he has a groin injury
 *   Martin Brodeur wants to help Sandy victims
-*   Patrick Marleau taking softer stance
-*   Devan Dubnyk hopeful of CBA deal
-*   Cherry doesn't think Luongo will join Leafs
 
 NASCAR PAGES
 
@@ -229,6 +229,7 @@ NASCAR PAGES
 
 COLUMNS
 
+*   The AdvoCare 500 Nov 7
 *   Wrap-up: Fort Worth Nov 4
 *   Mid-Pack: Texas AAA 500 Nov 1
 *   The AAA 500 Oct 30
@@ -236,7 +237,6 @@ COLUMNS
 *   Mid-Pack: Tums Fast Relief 500 Oct 25
 *   The Tums Fast Relief 500 Oct 23
 *   Wrap-up: Kansas Speedway Oct 21
-*   Mid-Pack: Hollywood Casino 400 Oct 18
 
 PARTNERS
 
@@ -285,6 +285,7 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Holmes WDs from Disney. solid season ends
 *   Barber's DQ benefits Lafeber, five others
 *   Reed to play Disney. multiple goals in sight
 *   Poulter emerges at the WGC-HSBC Champions
@@ -296,7 +297,6 @@ FANTASY GOLF NEWS
 *   Hanson will accept 2013 PGA TOUR membership
 *   Oosthuizen separates in WGC-HSBC second round
 *   Scott closes birdie-birdie-eagle to co-lead
-*   Jonathan Byrd undergoes surgery on his wrist
 
 NFL DRAFT PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Denard's NFL Projection Nov 7
 *   Mauti Morphing Linebacker Nov 5
 *   Midseason NFL Mock Draft Nov 2
 *   Week Ten Matchup Preview Nov 2
@@ -318,7 +319,6 @@ COLUMNS
 *   Geno's Learning Process Oct 31
 *   General Patton Oct 29
 *   Senior Prospect Rankings Oct 27
-*   Week Nine Matchup Preview Oct 26
 
 PARTNERS
 
@@ -327,6 +327,9 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Auburn G: Not that hard to stop Jarvis Jones
+*   McShay: Dion Jordan now 13th overall prospect
+*   Dee Milliner may be top Bama player drafted
 *   Hogan supplants Nunes as Stanford's QB
 *   Vaz will start over Mannion versus Stanford
 *   Clowney may need offseason foot surgery
@@ -336,9 +339,6 @@ NFL DRAFT NEWS
 *   Report: Klein removed for possible concussion
 *   Georgia DE Abry Jones officially out for year
 *   Jordan Poyer returns to practice for Beavers
-*   Report: WR Wilson has left the Cougars
-*   Lemonier not making any decisions on NFL, yet
-*   Nawrocki: McDonald has earned UDFA grades
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NBA:Kyle Lowry (ankle) doubtful Wednesday
-*   NFL:Report: Good chance Herremans out for season
-*   NFL:Locker cleared for practice, will split reps
-*   NFL:Donald Brown (knee) misses practice Tuesday
-*   NFL:Beanie: There's no doubt I'll play in Week 12
-*   MLB:Giambi no longer in hunt for Rockies manager
-*   MLB:Dodgers considering free agent Anibal Sanchez
-*   NFL:Donnie Avery gets in full practice on Tuesday
-*   NFL:Hernandez, Bolden not practicing Tuesday
-*   NFL:Tomlin expects Dwyer to return for Week 10
-*   CFB:Clowney may need offseason foot surgery
-*   NBA:Kenneth Faried plays well on Tuesday
+*   MLB:Bautista progressing well after wrist surgery
+*   NBA:Danny Granger (knee) out about 3 months
+*   NBA:Kyle Lowry (ankle) will not play on Wednesday
+*   MLB:Yankees to ask Mariano Rivera to take paycut
+*   NFL:Darren McFadden not practicing Wednesday
+*   MLB:Mets agree to part ways with Jason Bay
+*   NFL:Stevie Johnson not practicing Wednesday
+*   MLB:Dodgers name Mark McGwire as hitting coach
+*   NFL:Owen Daniels misses practice with hip issue
+*   NFL:Donald Brown (knee) officially questionable
+*   MLB:O's have interest in Josh Hamilton, Cody Ross
+*   NFL:Vikings now consider Percy Harvin day to day
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. SprolesNFL (7321)
-*   2J. DwyerNFL (6655)
-*   3J. NelsonNFL (6587)
-*   4D. BrownNFL (6365)
-*   5D. McFaddenNFL (6210)
+*   1D. SprolesNFL (7676)
+*   2J. DwyerNFL (6972)
+*   3D. McFaddenNFL (6820)
+*   4D. BrownNFL (6777)
+*   5J. NelsonNFL (6740)
 
-*   6D. BryantNFL (6180)
-*   7C. JohnsonNFL (5801)
-*   8D. MurrayNFL (5483)
-*   9K. SeraphinNBA (5482)
-*   10I. RedmanNFL (5419)
+*   6D. BryantNFL (6413)
+*   7C. JohnsonNFL (5974)
+*   8D. MurrayNFL (5863)
+*   9P. HarvinNFL (5831)
+*   10K. SeraphinNBA (5746)
 
   
 Video Center
@@ -526,7 +526,7 @@ Video Center
 *   »
 
 *      
-    Week 9's top pickups
+    Week 10's top pickups
 *      
     Start or Sit: Eagles - Saints
 *      
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines Three Rivers to Run  
-Nov 7 Adam Levitan discusses the Steelers' dominant running game and recaps all of Tuesday's news in the Dose.  
+  Headlines NFL Midseason All-Pro Team  
+Nov 7 With the regular season at its halfway point, Evan Silva unveils his Midseason All-Pro Team.  
   
 More NFL Columns
 
+*   »NFL Midseason All-Pro Team Nov 7
+*   »Matchup: Colts @ Jaguars Nov 7
+*   »Getting Defensive: Week 10 Nov 7
+*   »Week 10 Target Watch: NFC Nov 7
 *   »Three Rivers to Run Nov 7
 *   »Week 10 Top Pickups Nov 6
 *   »Stash 'em if You Got 'em Nov 6
 *   »Vote Vick? Nov 6
-*   »Silva: Season Pass Chat Nov 6
-*   »Best Available NFL Free Agents Nov 6
-*   »Matchup: Eagles @ Saints Nov 5
-*   »Hamster Time, Can't Touch This Nov 5
 
 NFL Headlines
 
+*   »Darren McFadden not practicing Wednesday
+*   »Stevie Johnson not practicing Wednesday
+*   »Owen Daniels misses practice with hip issue
+*   »Donald Brown (knee) officially questionable
+*   »Matt Cassel will make another start on Monday
+*   »Vikings now consider Percy Harvin day to day
+*   »Hakeem Nicks won't practice after knee swells
 *   »Report: Packers LB Perry undergoes surgery
 *   »Report: Good chance Herremans out for season
 *   »Locker cleared for practice, will split reps
 *   »Donald Brown (knee) misses practice Tuesday
 *   »Beanie: There's no doubt I'll play in Week 12
-*   »Garcon: There has been no 'overnight miracle'
-*   »Donnie Avery gets in full practice on Tuesday
-*   »Hernandez, Bolden not practicing Tuesday
-*   »Tomlin expects Dwyer to return for Week 10
-*   »Colts tab Donnie Avery as a game-time call
-*   »Antonio Brown considered doubtful for Monday
-*   »Report: DeMarco not expected back this week
 
 NFL Links
 
