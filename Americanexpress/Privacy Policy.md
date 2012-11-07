@@ -18,10 +18,10 @@ American Express Internet Privacy Statement Skip to main content
     Other Accounts
     
     *   Savings Accounts and CDs
-    *   Gift Card Balance
     *   Membership Rewards® Point Summary
     *   Credit Secure
     *   ID Protect
+    *   Bluebird Checking &. Debit Alternative
     
     Mobile Account Management Check your balance, review recent transactions and pay your bill on the go.  
     Go Mobile
@@ -77,7 +77,6 @@ American Express Internet Privacy Statement Skip to main content
     *   Explore Your Cards Rewards Program
     *   Entertainment and Events
     *   Shopping Discounts
-    *   Refer a friend
     
     Always the right gift. Give an American Express® Gift Card. Select from over 35 designs.  
     Order Now
@@ -296,7 +295,7 @@ More Products &. Services
 *   Savings Accounts &. CDs
 *   Mobile Services
 *   Small Business Apps
-*   Accept American Express® Cards
+*   Bluebird Checking &. Debit Alternative
 
 Protection Services
 
