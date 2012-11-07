@@ -143,26 +143,27 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Zinc Magnesium Resources
+*   Tyramine Rich Foods Resources
 
   
-Stay in Touch With SparkPeople **Portable Snacking Tips and Ideas**
+Stay in Touch With SparkPeople **Small Bits of Fitness Add Up**
 
-Many of us get hungry during odd hours of the day and go for junk food to save time. Well here are snacks that are quick _and_ healthy.
+Did you know that you can stay healthy and fit simply by fitting exercise into 10-minute breaks throughout your day?
 
 Read More
 
-*   Vegetables- yuck!
-*   Keeping fruits and veggies fresh
-*   Any moderate eaters, exercisers, out there?
-*   Who Motivates you on Sparkpeople?
 *   How do you hold yourself accountable?
+*   Healthy snack ideas for under 100 calories?
+*   Vegetables- yuck!
+*   Whats the 1st thing you noticed w/your weightloss?
+*   How do you fight boredom on the treadmill?
 
-View Demo **Seated Row Machine**  
-Strengthen your back muscles with this easy exercise. **Healthy, Fruity Breakfast Hand Tarts**  
+View Demo **Decline Pushups**  
+Turn ordinary pushups into an advanced exercise by adding a decline. **Slow Cooker Pork with Greens and Beans**  
 Submitted By: **CHEF\_MEG**
 
-Ditch the toaster pastry. They're loaded with sugar and fat--and not much else. My hand tarts are full of fruit, and if you make them ahead of time your kids can grab them and go.  
+My kids never complain about eating both beans and greens in one meal when they're served alongside rich, slow-cooked pork. I used pork shoulder, but you could use a leaner cut to save on fat and calories.  
+  
 Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
