@@ -382,7 +382,7 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   View the latest local race results |   Statewide results |   Results from the county elections office
+*   Complete election coverage |   View the latest local race results |   Statewide results
     
 
 Privacy Policy &. User Agreement
@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 137 comments
-*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 185 comments
-*   Early surge of voters persists as polls near closure Updated 11/6/2012 at 6:50 p.m.
-*   Editorial: The Star's ballot endorsements in Tuesday election Published 11/3/2012 at 3:00 p.m. 101 comments
-*   Police recover stolen relics, identify suspect in San Buenaventura Mission burglary Updated 11/6/2012 at 4:49 p.m.
+*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 235 comments
+*   Brownley edges past Strickland in 26th Congressional District race Updated 11/7/2012 at 5:07 a.m. 61 comments
+*   Oxnard picks Flynn as mayor and backs measures. council, school, special district races decided Updated 11/7/2012 at 5:08 a.m. 8 comments
+*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 190 comments
+*   Intensity felt at the polls in Ventura County Tuesday Published 11/6/2012 at 7:11 p.m. 24 comments
 
-Photo Galleries Intensity felt at the polls in… Ventura County's Most Wanted November… Election night 2012
+Photo Galleries Election night 2012 Intensity felt at the polls in… Ventura County's Most Wanted November…
 
-*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 185 comments
-*   Obama: 'We have picked ourselves up,' fought back Published 11/6/2012 at 10:08 a.m. 137 comments
-*   Editorial: The Star's ballot endorsements in Tuesday election Published 11/3/2012 at 3:00 p.m. 101 comments
-*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 66 comments
-*   Paulson: Trust, transparency and politics Published 11/4/2012 at 3:00 p.m. 30 comments
+*   Obama: 'We have picked ourselves up,' fought back Published 11/6/2012 at 10:08 a.m. 235 comments
+*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 190 comments
+*   Editorial: The Star's ballot endorsements in Tuesday election Published 11/3/2012 at 3:00 p.m. 102 comments
+*   Brownley edges past Strickland in 26th Congressional District race Published 11/6/2012 at 8:10 p.m. 61 comments
+*   Morning chat Published 11/6/2012 at 12:00 a.m. 41 comments
 
 *   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
 *   Oxnard school principal arrested after alleged road rage incident Published 11/2/2012 at 5:47 p.m. 0 comments
-*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 26 comments
+*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 67 comments
 *   Stonehaus to add touch of Tuscany to Westlake Village Inn Published 10/30/2012 at 5:51 p.m. 0 comments
-*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 66 comments
+*   Small manufacturers join trust for health insurance coverage Published 11/3/2012 at 11:10 a.m. 7 comments
 
 Weather
 
@@ -660,26 +660,38 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 59° Fog Wind: E 4mph Today 67° 53° Wed 05:00 PM Fog Temp: 62° Thu 05:00 AM Mostly Clear Temp: 53° Thu 05:00 PM Mostly Cloudy Showers Temp: 58°
+Currently 63° Mostly Cloudy with Haze Wind: Calm Today 67° 53° Thu 12:00 AM Mostly Clear Temp: 56° Thu 12:00 PM Partly Sunny Temp: 62° Fri 12:00 AM Mostly Cloudy Showers Temp: 53°
 
-Feels Like: 62°
+Feels Like: 56°
 
-Humidity: 87%
+Humidity: 89%
 
 Precip: 4%
 
-Feels Like: 53°
+Feels Like: 62°
 
-Humidity: 100%
+Humidity: 78%
 
 Precip: 9%
 
-Feels Like: 58°
+Feels Like: 53°
 
-Humidity: 77%
+Humidity: 80%
 
 Precip: 17%
 
+Reader Snapshots 10/12/12  
+1:45 a.m.  
+Is it Spring yet? 3/20/12  
+7:42 p.m.  
+Reader Snapshots 12/10/11  
+8:25 a.m.  
+Reader Snapshots 11/6/11  
+8:00 p.m.  
+Reader Snapshots 11/6/11  
+8:10 p.m.  
+Untitled 3/24/11  
+8:18 a.m.  
 More Weather » Social
 
 *   Follow @vcstar
@@ -690,10 +702,10 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   Some quick post-election takes
 *   What to watch for when the vote counts start coming in
 *   Now, vote for the worst political ad of the season
 *   'Wisdom' of the crowd?
-*   Dirty tricks of the closing days
 
 Brian Dennert here
 
