@@ -1,6 +1,6 @@
 (skip this header)
 
-Wednesday Nov 07, 2012 5:05 AM PT
+Wednesday Nov 07, 2012 11:54 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   OK, who voted for 'Gangnam style'?
-*   Ex-NFL'er convicted
-*   Bon Jovi slams 'Jersey Shore'
-*   Woman in labor stops to vote
-*   S.F. election day parties
+*   Roam Artisan Burgers
+*   Union City Station District
+*   Appreciation: Elliott Carter
+*   What we can learn from Sandy
+*   Overheard at Apple store
 
 *   Bay Area &. State
 *   Nation
@@ -339,10 +339,14 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Election night
+*   Colorado, Washington Celebrate Legalizing Pot
+*   2012 Election Night
 *   Election night in focus
 *   World in Focus
-*   Obama's election night party in Chicago
+*   Big night for women in Senate
 *   Election night
+*   Obama's election night party in Chicago
 *   Voting in Florida
 *   Voting across the nation
 *   Voting in the Bay Area
@@ -375,10 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   Marshawn Lynch buys Bay Area mansion
 *   Aldon Smith makes movie debut
 *   World In Focus
-*   best campaigns 2012
-*   worst campaigns 2012
-*   USS Enterprise retires
-*   100 best photos from the Giants' World Series run
 
 *   Most Read
 *   |
@@ -386,53 +386,55 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Props. 30, 38 - California tax measures
-2.  Prop. 37: Genetic food labels losing
-3.  NBC, Fox News call election for Obama
-4.  Obama wins re-election
-5.  Puerto Rico vote could change ties to U.S.
-6.  Wash. voters legalize recreational pot use
-7.  Death penalty repeal trails midway through
+1.  Prop. 30 wins, Prop. 38 flames out
+2.  Prop. 37: Genetic food labels defeated
+3.  Washington, Colorado Allow Recreational Use of Marijuana
+4.  Quiet media night explodes suddenly, Rove protests
+5.  Democrats get supermajority in Legislature
+6.  Diane Sawyer’s performance sparks wild Twitter speculation
+7.  Obama wins re-election
 
-1.  Race tight as election night count goes to wire
-2.  Thousands report voting problems
-3.  Much at stake as voters head to polls
-4.  Obama wins re-election
-5.  Nude activist dresses down supervisors
-6.  Accused Muni bus vandal pleads not guilty
-7.  Bus driver sets up sting for %u2018idiot%u2019
+1.  Obama wins re-election
+2.  Race tight as election night count goes to wire
+3.  Thousands report voting problems
+4.  Democrats seize supermajority in state Legislature
+5.  Much at stake as voters head to polls
+6.  Prop. 30 trailing in early returns
+7.  Nude activist dresses down supervisors
 
-1.  Wash. voters legalize recreational pot use
-2.  China's next leaders might curb Macau's fortunes
-3.  Obama powers to re-election despite weak economy
-4.  City College: good news on 2 measures
-5.  Streisand still has that certain something
-6.  Prop. 35: Trafficking measure passes
-7.  FilmHouse gives boost to indie world
+1.  Democrats get supermajority in Legislature
+2.  Prop. 37: Genetic food labels defeated
+3.  Prop. 30 wins, Prop. 38 flames out
+4.  Washington, Colorado Allow Recreational Use of Marijuana
+5.  Peralta Junction - Oakland's pop-up carnival
+6.  Stanford promotes QB Hogan to starter
+7.  Obama wins re-election
 
 loading... Latest News Videos From our homepage
 
 *     
     Michael Macor, The Chronicle / SF
     
-    Prop. 30 victorious
+    San Francisco Chronicle Copyright 2012 San Francisco Chronicle. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 9:17 a.m., Wednesday, November 7, 2012 Decisive win for Prop. 30
     
-    Brown's tax measure solidly over 50 percent, Prop 38 falls.
+    Brown's tax measure gets strong support, rival measure falls.
     
-*   Prop 37 trails | Prop 30 results
+*   Prop 32, limits on unions, fails
 
 *     
-    Alvin Jornada, Special To The Chronicle / SF
+    OpenHomesPhotography.com / SF
     
-    Supe Olague likely done
+    1890 Victorian gone modern
     
-    S.F. races: Ed Lee pick trailing in hotly contested District 5.
+    This home in S.F.'s Cow Hollow has been totally redone, offers great bay views. Asking $2.75M.
     
-*   CCSF buoyed | S.F. results
 
-*   The best movie president?
+*     
+    Donna Svennevik, Associated Press / SF
     
-    Brolin as Dubya? Langella as Nixon? Or one of the many who played FDR, perhaps?
+    Calling Diane Sawyer's state
+    
+    What was up with the anchor's odd, slow election night behavior? Twitter folks have ideas.
     
 
 *   Home
