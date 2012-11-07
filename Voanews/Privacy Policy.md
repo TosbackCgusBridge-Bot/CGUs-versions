@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Obama Wins Re-election
-*   China’s New Leaders Face Rise of Individual
+*   US Election Draws Global Attention
+*   US Congress Still Divided After Election
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
