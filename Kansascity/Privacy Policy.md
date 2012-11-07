@@ -134,28 +134,26 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $30 for $200 Towards Frames and Lenses. Over 2000 Frames to choose from! $30 Value: Discount: You Save: $200 85% $170
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Shawnee Optix. $30 for $200 Towards Frames and Lenses. Over 2000 Frames to choose from! $30 Value: Discount: You Save: $200 85% $170
 
-Wednesday: Hen House, HyVee, Price Chopper Deals Hen House
+Wednesday: Hen House, HyVee, Price Chopper Deals Price Chopper
 
-*   General Mills Fiber One or Nature Valley Granola Bars 5-10-ct. - 2/$5 or $2.50 each
-*   Hunt's Canned Pasta Sauce 24-oz. - 10/$10 or $1 each
-*   Swanson Flavor Boost Concentrated Broth Liquid Packets 4-ct., Seafood, Beef, Vegetable or Chicken - 2/$3 or $1.50 each
+*   Fresh Gourmet Croutons 5-oz., Selected Varieties - 2/$3 or $1.50 each
+*   Kellogg’s Cereals 10.5-13.7-oz. Corn Flakes, Frosted Flakes or Raisin Bran - $1.99
+*   Green Giant Vegetables 14.5-15.25-oz., Selected Varieties - 2/$0.88 or $0.44 each
 *   more...
 
-1.  PARALEGAL
+1.  FIELD TECHNICIAN
     
-    GREGORY LEYH, P.C.
+2.  Maintenance Supervisor
     
-2.  Apartment Maintenance Tech Part Time
+    Robert's Dairy
     
-    Georgetown Apartments
+3.  PLUMBER/DRAIN CLEANER
     
-3.  Apartment Maintenance Helper
+    Snake'n'Rooter
     
-4.  SEASONAL DRIVERS
-    
-    Kelly Services
+4.  Press &. Lamination Operators
     
 5.  PROGRAM DIRECTOR
     
@@ -167,16 +165,16 @@ View More The Most
 *   Read
 *   Commented
 
+*   Analysis: Todd Akin can blame his own words for Senate race loss
 *   Missouri voters say no to tobacco tax hike
-*   Senate race offers one final twist: A decisive McCaskill win
-*   On social media: Obamas victory speech. Twitters 20-million-tweet day. Romney concedes
-*   Akin can blame loss in Senate race on his own words
 *   Prominent KC lawyer is disbarred
-*   Chiefs decision to release Routt baffles his agent
-*   FedEx plane crashes south of Wichita Mid-Continent Airport. Lawrence man dead
-*   With Routt gone, Arenas is the next man up at cornerback
+*   ABC's Diane Sawyer spurs jokes from Twitterverse
+*   Senate race offers one final twist: A decisive McCaskill win
 *   Two states say yes to gay marriage. two OK legal marijuana
-*   Text of Barack Obama's speech after re-election
+*   On social media: Obamas victory speech. Twitters 20-million-tweet day. Romney concedes
+*   Chiefs decision to release Routt baffles his agent
+*   With Routt gone, Arenas is the next man up at cornerback
+*   FedEx plane crashes south of Wichita Mid-Continent Airport. Lawrence man dead
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
