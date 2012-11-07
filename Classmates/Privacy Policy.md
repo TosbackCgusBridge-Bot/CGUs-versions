@@ -235,7 +235,7 @@ Copyright © 1995-2012 Memory Lane, Inc., d/b/a Classmates.com. All Rights Reser
 
 *   Join us on Facebook
 *   Yearbooks
-*   Magazines
+*   Join Us on Facebook
 *   Movies
 *   Music
 
