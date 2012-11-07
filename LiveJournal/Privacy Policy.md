@@ -157,7 +157,7 @@ Store
 
 Current version:
 
-v.98.1
+v.98.2
 
 » View Full Sitemap
 
