@@ -101,10 +101,10 @@ Shop^
         
         *   Jackets &. Outerwear
         *   Sweaters
-        *   Blouses
-        *   Denim
+        *   Shirts &. Tops
         *   Dresses &. Skirts
         *   Knits &. Tees
+        *   Denim
         *   Bottoms
         *   Belts
         
@@ -160,13 +160,12 @@ Shop^
         
         *   Vintage Collaboration: This is Not Ikea
         *   Vintage Collaboration: Three Potato Four
-        *   Vintage Collaboration: Ed Tonderys
         *   Vintage Science
         *   Our Favorites
         
         *   View All  Fossil Finds
     *   SALE
-    *   Gifts
+    *   Our Favorite Gifts
     *   Top Gifts
     *   Gifts Under $50
     *   Gifts Under $100
@@ -213,10 +212,12 @@ Shop^
             *   View All  Watch Styles
         *   Clothing
             
-            *   Outerwear &. Sweaters
-            *   Shirts &. Tees
+            *   Outerwear
+            *   Shirts
+            *   Sweaters
             *   Denim
-            *   Bottoms
+            *   Pants
+            *   Tees
             *   Ties &. Belts
             
             *   View All  Clothing
@@ -261,13 +262,13 @@ Shop^
             
             *   Vintage Collaboration: Three Potato Four
             *   Vintage Collaboration: This is Not Ikea
-            *   Vintage Collaboration: Ed Tonderys
             *   Vintage Science
+            *   Our Favorites
             
             *   View All  Fossil Finds
         *   SALE
         *   Gifts
-        *   Top Gifts
+        *   Our Favorite Gifts
         *   Gifts Under $50
         *   Gifts Under $100
         *   Gifts Under $200
