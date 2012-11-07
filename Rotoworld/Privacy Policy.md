@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Giambi no longer in hunt for Rockies manager
+*   Dodgers considering free agent Anibal Sanchez
+*   Mets' Duda broke wrist while moving furniture
+*   League's contract could reach $33.5 million
+*   Javier Vazquez pondering MLB comeback
+*   Source: Red Sox interested in Torii Hunter
 *   Nationals, Adam LaRoche no closer to deal
 *   Joakim Soria willing to set up for Yankees
 *   Reds to reevaluate Chapman's role this winter
 *   Rays, Peralta agree to two-year, $6M contract
 *   Red Sox finalize two-year deal with Big Papi
 *   White Sox may trade a starter this offseason
-*   Tigers optimistic about V-Mart bouncing back
-*   Yankees 'have had interest' in C David Ross
-*   Wainwright ready for extension talks with STL
-*   Report: Josh Hamilton looking for $175M as FA
-*   Oliver Perez agrees to one-year deal with M's
-*   McCarthy drawing interest from multiple teams
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Three Rivers to Run Nov 7
+*   Week 10 Top Pickups Nov 6
+*   Stash 'em if You Got 'em Nov 6
 *   Vote Vick? Nov 6
+*   Silva: Season Pass Chat Nov 6
+*   Best Available NFL Free Agents Nov 6
 *   Matchup: Eagles @ Saints Nov 5
 *   Hamster Time, Can't Touch This Nov 5
-*   DMC Derailed Nov 5
-*   Week 9 Live Blog Nov 4
-*   Updated Week 9 Rankings Nov 4
-*   Matchups: Pay-Dirt Due Nov 3
-*   Week 9 Starts and Sits Nov 3
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Reid: 'Michael Vick will be the quarterback'
-*   Brees tosses 2 TDs as Saints cruise past PHI
-*   Packers expect Nelson to be 'fine' after bye
-*   Clay Matthews could miss a 'couple of weeks'
-*   DMC, Goodson both have high-ankle sprains
-*   Harvin on crutches, ankle sprained in 3 areas
-*   MJD ruled out for Thursday Night Football
-*   Crennel demotes self from coordinator duties
-*   Chiefs waive veteran corner Stanford Routt
-*   Amendola 'looks poised' to return for Week 10
-*   Tomlin: WR Brown has 'mild' high ankle sprain
-*   Frazier: No consideration of benching Ponder
+*   Report: Packers LB Perry undergoes surgery
+*   Report: Good chance Herremans out for season
+*   Locker cleared for practice, will split reps
+*   Donald Brown (knee) misses practice Tuesday
+*   Beanie: There's no doubt I'll play in Week 12
+*   Garcon: There has been no 'overnight miracle'
+*   Donnie Avery gets in full practice on Tuesday
+*   Hernandez, Bolden not practicing Tuesday
+*   Tomlin expects Dwyer to return for Week 10
+*   Colts tab Donnie Avery as a game-time call
+*   Antonio Brown considered doubtful for Monday
+*   Report: DeMarco not expected back this week
 
 NBA PAGES
 
@@ -134,14 +134,14 @@ NBA PAGES
 
 COLUMNS
 
+*   Dose: Kyle Lowry Lowdown Nov 7
+*   Dose: Waiters Explosion Nov 6
 *   Dose: Josh Smith iffy w/ ankle Nov 5
 *   NBA chat: Monday @ 12:30 ET Nov 4
 *   Wired: NBA Hot Pickups! Nov 4
 *   Davis Goes Down Nov 3
 *   Lillard Ready for Liftoff Nov 2
 *   Parker beats OKC at buzzer Nov 2
-*   Hardened By Trade Nov 1
-*   NBA Live Chat Thursday 9 p.m. Nov 1
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Zeller goes for 15 &. 7. takes blow to face
-*   Cousins dominates the stat sheet vs. GSW
-*   Mayo explodes for 32 points with six triples
-*   Granger (knee) update could be coming soon
-*   Super-Nintendo Chalmers hands out 11 assists
-*   Griffin (elbow) dealing with bursa sac issue
-*   Waiters goes berserk with 28 pts, 7 treys
-*   AK-47 posts 16-10-6 line with four blocks
-*   Marion leaves game with left knee strain
-*   Update: Nash (leg) looking at 7-10 days
-*   Jameer Nelson (groin, knee) heading to doctor
-*   Avery Bradley still at least six weeks away
+*   Kyle Lowry (ankle) doubtful Wednesday
+*   Kenneth Faried plays well on Tuesday
+*   Nikola Vucevic stays hot in Tuesday's loss
+*   E'Twaun Moore scores career-high 17
+*   Arron Afflalo drops 28 with big line in loss
+*   Kobe Bryant skips practice, will play Weds.
+*   Jae Crowder looking like starter for Mavs
+*   Marion has MCL sprain, out at least 3 games
+*   Ryan Anderson likely to start for Davis Wed.
+*   Josh Smith (ankle) resumes practicing Tuesday
+*   Update: Jameer Nelson will not play Tuesday
+*   Gerald Henderson out 2-4 weeks w/ foot sprain
 
 NHL PAGES
 
@@ -185,6 +185,7 @@ NHL PAGES
 
 COLUMNS
 
+*   Strome Raising his Game Nov 6
 *   Horak, Schenn and more! Nov 5
 *   Seguin Making Swiss Impact Nov 2
 *   Graovac Makes Wild Proud! Oct 30
@@ -192,7 +193,6 @@ COLUMNS
 *   Omark and Brunner Burning! Oct 27
 *   The Lipon &. MacKinnon Show Oct 24
 *   Keep an eye on Neiderreiter Oct 22
-*   Subban &. Brassard Net Gains Oct 16
 
 PREMIUM CONTENT
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Maxime Talbot signs on in Finland
+*   NHL, NHLPA will resume talks on Wednesday
+*   ECHL Bulls sign Sharks winger Ryane Clowe
+*   Mikael Granlund (ankle) out 2-4 weeks
+*   David Clarkson, Enstrom haven't left EBEL yet
+*   Lauri Korpikoski re-ups with TPS Turku
+*   Robin Lehner should challenge for backup job
+*   Rick DiPietro denies he has a groin injury
+*   Martin Brodeur wants to help Sandy victims
+*   Patrick Marleau taking softer stance
+*   Devan Dubnyk hopeful of CBA deal
 *   Cherry doesn't think Luongo will join Leafs
-*   Jussi Jokinen signs new contract with Karpat
-*   Kovalchuk is the KHL's Player of the Month
-*   NHL, union expected to resume talks Tuesday
-*   Thomas Vanek is heading back to America
-*   Could we still have an NHL outdoor game?
-*   Jhonas Enroth signs with Almtuna in Sweden
-*   NHL and PA have good talks on weekend
-*   Antti Miettinen signs with hometown team
-*   Zach Boychuk scores again for Checkers
-*   Jagr continues to dominate for Kladno
-*   Scheifele records his 2nd hat trick of 12-13
 
 NASCAR PAGES
 
@@ -245,6 +245,9 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Pastrana full-time with Roush Fenway in 2013
+*   David Reutimann to debut new team at Phoenix
+*   Vickers full-time with JGR in NNS for 2013
 *   Johnson’s team won Fort Worth race awards
 *   Matt Kenseth’s crew chief wins Moog award
 *   Kyle Busch’s team won Fort Worth race awards
@@ -254,9 +257,6 @@ FANTASY NASCAR NEWS
 *   Jeremy Clements big Nationwide Series gainer
 *   Harvick wins O'Reilly Auto Parts Challenge
 *   Brad Keselowski paces both Saturday practices
-*   Chase Miller not in Fort Worth NNS field
-*   Timmy Hill not in Fort Worth NNS field
-*   Cobb misses O’Reilly Auto Parts Challenge
 
 GOLF PAGES
 
@@ -268,6 +268,7 @@ GOLF PAGES
 
 COLUMNS
 
+*   Grand Finale Nov 6
 *   Poulter's Playground Nov 4
 *   2012 Web.com Tour Graduates Nov 2
 *   Low Ryder Oct 30
@@ -275,7 +276,6 @@ COLUMNS
 *   Go East, Young Men Oct 23
 *   Two Gloves, One Win Oct 21
 *   Saint of Circumstances Oct 16
-*   Jonas, Brother! Oct 14
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Hogan supplants Nunes as Stanford's QB
+*   Vaz will start over Mannion versus Stanford
+*   Clowney may need offseason foot surgery
+*   NFL Scouts on Barkley: This is the top guy?
+*   Despite knee injury, DT HIll is 'day-to-day'
+*   Denard, Gardner will split reps in practice
+*   Report: Klein removed for possible concussion
+*   Georgia DE Abry Jones officially out for year
+*   Jordan Poyer returns to practice for Beavers
 *   Report: WR Wilson has left the Cougars
 *   Lemonier not making any decisions on NFL, yet
 *   Nawrocki: McDonald has earned UDFA grades
-*   Pauline: Many view 2013 Draft like 2008's
-*   Pauline: Baylor WR Williams now a top-60 pick
-*   Dunn returns third kickoff for 100 yds in '12
-*   Marquess Wilson suspended by Wash St
-*   Jamie Collins adds three sacks against UAB
-*   Falcons DT Jones adds 2.5 sacks, up to 11.5
-*   South Florida QB Daniels suffers broken ankle
-*   Georgia WR Brown out for season (ACL)
-*   Kenjon Barner notches 321 rush yards, 5 TDs
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Reid: 'Michael Vick will be the quarterback'
-*   MLB:Joakim Soria willing to set up for Yankees
-*   NFL:Brees tosses 2 TDs as Saints cruise past PHI
-*   NFL:Clay Matthews could miss a 'couple of weeks'
-*   NFL:DMC, Goodson both have high-ankle sprains
-*   NFL:Harvin on crutches, ankle sprained in 3 areas
-*   NFL:MJD ruled out for Thursday Night Football
-*   NFL:Chiefs waive veteran corner Stanford Routt
-*   NHL:Cherry doesn't think Luongo will join Leafs
-*   MLB:Reds to reevaluate Chapman's role this winter
-*   NFL:Amendola 'looks poised' to return for Week 10
-*   NBA:Zeller goes for 15 &. 7. takes blow to face
+*   NBA:Kyle Lowry (ankle) doubtful Wednesday
+*   NFL:Report: Good chance Herremans out for season
+*   NFL:Locker cleared for practice, will split reps
+*   NFL:Donald Brown (knee) misses practice Tuesday
+*   NFL:Beanie: There's no doubt I'll play in Week 12
+*   MLB:Giambi no longer in hunt for Rockies manager
+*   MLB:Dodgers considering free agent Anibal Sanchez
+*   NFL:Donnie Avery gets in full practice on Tuesday
+*   NFL:Hernandez, Bolden not practicing Tuesday
+*   NFL:Tomlin expects Dwyer to return for Week 10
+*   CFB:Clowney may need offseason foot surgery
+*   NBA:Kenneth Faried plays well on Tuesday
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1J. NelsonNFL (7067)
-*   2D. SprolesNFL (6607)
-*   3J. DwyerNFL (6548)
-*   4D. BryantNFL (6177)
-*   5C. JohnsonNFL (5997)
+*   1D. SprolesNFL (7321)
+*   2J. DwyerNFL (6655)
+*   3J. NelsonNFL (6587)
+*   4D. BrownNFL (6365)
+*   5D. McFaddenNFL (6210)
 
-*   6D. BrownNFL (5911)
-*   7M. LeshoureNFL (5799)
-*   8D. MurrayNFL (5691)
-*   9M. Jones-DrewNFL (5352)
-*   10A. AminuNBA (5235)
+*   6D. BryantNFL (6180)
+*   7C. JohnsonNFL (5801)
+*   8D. MurrayNFL (5483)
+*   9K. SeraphinNBA (5482)
+*   10I. RedmanNFL (5419)
 
   
 Video Center
@@ -525,6 +525,8 @@ Video Center
 *   4
 *   »
 
+*      
+    Week 9's top pickups
 *      
     Start or Sit: Eagles - Saints
 *      
@@ -539,39 +541,37 @@ Video Center
     Week 8 Starts &. Sits 4 p.m.
 *      
     Week 8 Starts &. Sits 1 p.m.
-*      
-    Start or Sit: Bucs - Vikings
 
   
   
-  Headlines Vote Vick?  
-Nov 6 Patrick Daugherty examines Michael Vick's role in the Eagles' struggles and checks in on Percy Harvin and Darren McFadden in an Election Day Dose.  
+  Headlines Three Rivers to Run  
+Nov 7 Adam Levitan discusses the Steelers' dominant running game and recaps all of Tuesday's news in the Dose.  
   
 More NFL Columns
 
+*   »Three Rivers to Run Nov 7
+*   »Week 10 Top Pickups Nov 6
+*   »Stash 'em if You Got 'em Nov 6
 *   »Vote Vick? Nov 6
+*   »Silva: Season Pass Chat Nov 6
+*   »Best Available NFL Free Agents Nov 6
 *   »Matchup: Eagles @ Saints Nov 5
 *   »Hamster Time, Can't Touch This Nov 5
-*   »DMC Derailed Nov 5
-*   »Week 9 Live Blog Nov 4
-*   »Updated Week 9 Rankings Nov 4
-*   »Matchups: Pay-Dirt Due Nov 3
-*   »Week 9 Starts and Sits Nov 3
 
 NFL Headlines
 
-*   »Reid: 'Michael Vick will be the quarterback'
-*   »Brees tosses 2 TDs as Saints cruise past PHI
-*   »Packers expect Nelson to be 'fine' after bye
-*   »Clay Matthews could miss a 'couple of weeks'
-*   »DMC, Goodson both have high-ankle sprains
-*   »Harvin on crutches, ankle sprained in 3 areas
-*   »MJD ruled out for Thursday Night Football
-*   »Crennel demotes self from coordinator duties
-*   »Chiefs waive veteran corner Stanford Routt
-*   »Amendola 'looks poised' to return for Week 10
-*   »Tomlin: WR Brown has 'mild' high ankle sprain
-*   »Frazier: No consideration of benching Ponder
+*   »Report: Packers LB Perry undergoes surgery
+*   »Report: Good chance Herremans out for season
+*   »Locker cleared for practice, will split reps
+*   »Donald Brown (knee) misses practice Tuesday
+*   »Beanie: There's no doubt I'll play in Week 12
+*   »Garcon: There has been no 'overnight miracle'
+*   »Donnie Avery gets in full practice on Tuesday
+*   »Hernandez, Bolden not practicing Tuesday
+*   »Tomlin expects Dwyer to return for Week 10
+*   »Colts tab Donnie Avery as a game-time call
+*   »Antonio Brown considered doubtful for Monday
+*   »Report: DeMarco not expected back this week
 
 NFL Links
 
