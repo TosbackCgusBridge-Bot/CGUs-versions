@@ -62,11 +62,26 @@ Go My Bag0 LOG IN WITH: My Account
 *   Wish List
 *   Order Status
 
-Pacsun
+Pacsun Ship to Store
+
+*   **When will my Ship to Store order arrive?**  
+    Your order will be waiting for you 3-4 business days after it ships.
+*   **How much does shipping cost?**  
+    Shipping is free unless you’re having your order shipped to Alaska or Hawaii, in which case it will be $7.00. Ship to Store is not available in our Puerto Rico stores yet.
+*   **Who can pick up the order?**  
+    You must bring a photo ID to pick up your package. If someone else goes to pick it up for you, they need to bring your email confirmation, either printed out or on their smart phone or similar device.
+*   **How will I know when it’s ready for pickup?**  
+    Please click on the tracking link on the shipment notification email that we send you. This will take you to the FedEx site where you can track your package.
+*   **How soon do I have to pick it up from the store?**  
+    If you do not pick up your order from the store within 10 business days from when it arrives, you will be refunded and the product will be added to the store’s inventory for sale to the public.
+*   **Can I open the order to make sure I like it?**  
+    Yes! We strongly encourage you to check out your items and even try them on in the store to make sure you like the look and fit.
+*   **What if I don’t like an item?**  
+    You can return items in the store or simply follow the return instructions on the back of your packing slip.
 
 *   Mens
 *   Womens
-*   Shoes
+*   Gifts
 *   Denim
 *   Snow
 *   Sale
@@ -146,44 +161,7 @@ Men's Accessories
 *   Wallets
 *   Cologne
 
-Don't miss Men's
-
-*   **Shop All**
-*   Boots
-*   Casual
-*   Sandals
-*   Sneakers
-
-*   Shop by Brand
-*   Converse
-*   DC Shoes
-*   Emerica
-*   Etnies
-*   Globe
-*   New Balance
-*   Nike
-*   Vans
-
-Women's
-
-*   **Shop All**
-*   Boots
-*   Flats
-*   Heels &. Wedges
-*   Sandals
-*   Sneakers
-
-*   Shop by Brand
-*   Converse
-*   Kirra
-*   Nike
-*   Qupid
-*   Report
-*   Roxy
-*   Steve Madden
-*   Vans
-
-Don't miss Reg. price only. Free standard shipping and returns apply to U.S. orders only. Women's
+Don't miss Women's
 
 *   **Shop All**
 *   Shop by Style
@@ -279,12 +257,12 @@ Don't miss Men's Women's Men's
 
 *   New Offers
 *   Tees
-*   V-Neck &. Crew Tees
-*   Fox Fleece
+*   Fleece &. Outerwear
+*   Volcom Thermals
 *   Bullhead Denim &. Pants
 *   Levi's Denim
-*   Sunglasses
-*   Markdowns
+*   Hats
+*   Socks
 
 Women's
 
@@ -302,9 +280,9 @@ Women's
 *   Branded Fleece
 *   Dresses &. Skirts
 *   Bullhead Black Denim
+*   Bullhead Black Fashion Denim
 *   Denim, Skirts &. Shorts
-*   Camis
-*   Essential Tops
+*   Wovens
 
 Don't miss Brands
 
