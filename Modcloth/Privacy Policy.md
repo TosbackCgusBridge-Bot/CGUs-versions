@@ -239,9 +239,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Tenenbaums Tomes You’ll Want for Your Own
-    *   Shake &. Sip: A Vintage Cocktail Recipe from Lesley M. M. Blume
-    *   Cozy Up to the Indie-Folk Tunes of Big Tree
+    latest blog posts*   Touring Designer Corey Lynn Calter’s Chic LA Studio
+    *   Meet the ModDog: Colin
+    *   Guest Gal: ModFan Daria’s Chocolatey Peanut Biscuit Roll
     
     *   modcloth blog
     *   In Other Words
