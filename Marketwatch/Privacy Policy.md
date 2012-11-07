@@ -1,10 +1,4 @@
-Bulletin Zillow shares fall sharply in premarket trade, off close to 19% Investor Alert
-
-New York Markets Open in:
-
-Pre-Market Indications Analyst Ratings Oil News EarningsWatch
-
-Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
+Bulletin Investor Alert Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
@@ -198,93 +192,91 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EST November 6, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:05 AM EST November 7, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:01a
+/news/latest1.  8:03a
     
-    Outlook is dismal no matter who wins vote
+    Macy's sees 2012 profit of $3.35-$3.40
     
 2.  8:01a
     
-    Sandy has economic silver lining
+    Macy's Q3 net 36c vs 32c
     
 3.  8:01a
     
     Updates, advisories and surprises
     
-4.  8:01a
+4.  8:00a
     
-    A few reasons why the glass may be half full
+    Plexus Corp. down 24.7% in premarket
     
-5.  8:00a
+5.  7:56a
     
-    Big earnings on Tuesday: CVS, AOL, News Corp.
+    Europe stocks erase gains as banks move lower
     
-6.  7:59a
+6.  7:56a
     
-    Fossil down 9% in premarket
+    VirnetX up 29% in premarket
     
-7.  7:58a
+7.  7:55a
     
-    Marathon Oil Q3 net 63c vs 56c
+    Molson Coors profit rises on 25% sales jump
     
-8.  7:58a
+8.  7:52a
     
-    Marathon Oil adj Q3 net 64c vs adj 59c
+    U.S. stock futures slump in post-election action
     
-9.  7:58a
+9.  7:47a
     
-    Marathon Oil Q3 revenue $4.16 bln vs $3.8 bln
+    Euro drops. Draghi says debt crisis hits Germany
     
-10.  7:53a
+10.  7:46a
     
-    Pepco sees Sandy costs of up to $65 million
+    Sprint Nextel paying $480 mln for Midwest spectrum
     
-11.  7:47a
+11.  7:46a
     
-    BREAKING
+    Investors talk about stocks, bonds after Obama's win
     
-    Zillow's shares selling off on soft outlook
+12.  7:40a
     
-12.  7:38a
+    Molson Coors Q3 net $1.09 vs $1.05
     
-    Pepco sees up to $65 mln in Sandy costs
+13.  7:40a
     
-13.  7:34a
+    Molson Coors Q3 adj net $1.37 vs $1.14
     
-    Radio Update: Futures point to win on election day
+14.  7:36a
     
-14.  7:33a
+    Time Warner profit climbs on Networks unit growth
     
-    AOL posts profit after year-ago loss
+15.  7:34a
     
-15.  7:32a
+    Sprint Nextel buying spectrum for $480 million
     
-    Oil and gold prices push higher ahead of election
+16.  7:34a
     
-16.  7:25a
+    Sprint Nextel in deal with U.S. Cellular
     
-    CVS Caremark Q3 net up 16%. year outlook lifted
+17.  7:29a
     
-17.  7:17a
+    DJIA futures now down 98 pts to 13,103
     
-    Tuesday’s biggest gaining and declining stocks
+18.  7:28a
     
-18.  7:17a
+    Europe stocks trim gains, Stoxx 600 wobbles
     
-    Office Depot swings to a loss, sales down 5%
+19.  7:27a
     
-19.  7:16a
+    Crude futures off $1.28, or 1.4%, to $87.45 barrel
     
-    U.S. dollar hews to tight ranges as election looms
+20.  7:26a
     
-20.  7:06a
-    
-    CVS Q3 net 79c. adj Q3 net 85c
+    Big earnings on Wednesday: WellPoint, Time Warner
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,112.44 +19.28 +0.15% nasdaq /quotes/zigman/123127 2,999.66 +17.53 +0.59% s&p 500 /quotes/zigman/3870025 1,417.26 +3.06 +0.22% Kiosk
+dow /quotes/zigman/627449 13,245.68 +133.24 +1.02% nasdaq /quotes/zigman/123127 3,011.93 +12.27 +0.41% s&p 500 /quotes/zigman/3870025 1,428.39 +11.13 +0.79% Kiosk
 
 *   1341573300000 1341592200000
     
@@ -308,13 +300,20 @@ dow /quotes/zigman/627449 13,112.44 +19.28 +0.15% nasdaq /quotes/zigman/123127 2
     Dream wheels for 007  
     James Bond needs to trade in his outdated "Skyfall" DB5 for this new $300,000 beast of an Aston Martin Vanquish, says Dan Neil.   
     233901
+*   1330965900000 1330992600000
+    
+    The Trading Deck
+    
+      kevin marder  
+    Why the glass may be half full  
+    The backdrop is improving. Notwithstanding the impact it may have on certain sectors, the election shouldn't affect the averages in a material way.   /conga/kiosk/trading-deck-4.html 234193
 *   1347087600000 1347213600000
     
     Your Health
     
     What clinics won't tell you  
-    This are 10 things you need to know before you seek treatment at a walk-in medical clinic. (slide show)  
-    /conga/kiosk/wildcard2.html 233907
+    These are the 10 things you need to know before you seek treatment at a walk-in medical clinic. (slide show)  
+    /conga/kiosk/wildcard2.html 234264
 *   1309191300000 1309248000000
     
     Personal Finance
