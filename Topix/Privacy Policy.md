@@ -10,9 +10,9 @@ Sign In
 
 1 2 3 Find all of your 2012 Election News on Politix
 
-Gay Marriage
+Mitt Romney
 
-French bill legalizing gay marriage goes to legislature after ...
+The story behind the Romney loss: Drama, infighting and mistakes
 
 Politix
 
@@ -275,7 +275,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 122,011 • Total comments across all topics: 190,386,377
+Comments made yesterday: 123,695 • Total comments across all topics: 190,422,855
 
 Copyright ©2012 Topix LLC
 
