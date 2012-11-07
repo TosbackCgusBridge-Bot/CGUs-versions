@@ -34,9 +34,9 @@ provided until after midnight ET of the day your package ships.
     *   outerwear
     *   school uniforms
 *   shoes
+    *   boots
     *   casuals &. flats
     *   sneakers
-    *   boots
     *   sandals &. flip flops
     *   slippers
     *   socks
