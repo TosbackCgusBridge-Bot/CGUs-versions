@@ -1,114 +1,112 @@
-WGC
+European Tour
 
-*   WGC
-    *   WGC - HSBC Champions
+*   European Tour
+    *   Barclays Singapore Open
 *   LPGA
-    *   Mizuno Classic
-*   Champions Tour
-    *   Charles Schwab Cup Championship
+    *   Lorena Ochoa Invitational presen...
 *   Titleist On Tour
 
-WGC - HSBC Champions View Leaderboard >.
+Barclays Singapore Open View Tee Times >.
 
-*   1
-*   I.Poulter
-*   \-21
-*   F
+*   12:50 AM ET
+*   F.Aguilar
+*   \-
+*   \-
 
-*   T2
-*   J.Dufner
-*   \-19
-*   F
+*   11:00 PM ET
+*   T.Aiken
+*   \-
+*   \-
 
-*   T2
-*   E.Els
-*   \-19
-*   F
+*   11:20 PM ET
+*   F.Andersson Hed
+*   \-
+*   \-
 
-*   T2
-*   P.Mickelson
-*   \-19
-*   F
+*   6:30 PM ET
+*   K.Aphibarnrat
+*   \-
+*   \-
 
-*   T2
-*   S.Piercy
-*   \-19
-*   F
+*   7:50 PM ET
+*   W.Artjanawat
+*   \-
+*   \-
 
-*   T6
-*   L.Oosthuizen
-*   \-18
-*   F
+*   12:40 AM ET
+*   S.Baek
+*   \-
+*   \-
 
-*   T6
-*   L.Westwood
-*   \-18
-*   F
+*   12:10 AM ET
+*   R.Bain
+*   \-
+*   \-
 
-*   8
-*   A.Scott
-*   \-17
-*   F
+*   12:30 AM ET
+*   S.Barr
+*   \-
+*   \-
 
-*   9
-*   M.Kaymer
-*   \-16
-*   F
+*   12:00 AM ET
+*   J.Bayron
+*   \-
+*   \-
 
-*   10
-*   B.Haas
-*   \-15
-*   F
+*   7:40 PM ET
+*   D.Beck
+*   \-
+*   \-
 
-*   T11
-*   H.Fujita
-*   \-14
-*   F
-
-*   T11
-*   P.Meesawat
-*   \-14
-*   F
-
-*   T11
-*   T.Olesen
-*   \-14
-*   F
-
-*   T11
-*   M.Siem
-*   \-14
-*   F
-
-*   T11
-*   B.Snedeker
-*   \-14
-*   F
-
-*   T16
-*   C.Pettersson
-*   \-13
-*   F
-
-*   T16
-*   N.Watney
-*   \-13
-*   F
-
-*   T18
+*   7:00 PM ET
 *   G.Bhullar
-*   \-12
-*   F
+*   \-
+*   \-
 
-*   T18
-*   L.Donald
-*   \-12
-*   F
+*   7:00 PM ET
+*   T.Bjorn
+*   \-
+*   \-
 
-*   T18
-*   M.Leishman
-*   \-12
-*   F
+*   7:30 PM ET
+*   M.Both
+*   \-
+*   \-
+
+*   11:50 PM ET
+*   G.Bourdy
+*   \-
+*   \-
+
+*   11:30 PM ET
+*   R.Cabrera-Bello
+*   \-
+*   \-
+
+*   12:20 AM ET
+*   M.Campbell
+*   \-
+*   \-
+
+*   6:20 PM ET
+*   A.Canizares
+*   \-
+*   \-
+
+*   6:10 PM ET
+*   P.Casey
+*   \-
+*   \-
+
+*   10:50 PM ET
+*   Y.Chan
+*   \-
+*   \-
+
+*   8:00 PM ET
+*   G.Charoenkul
+*   \-
+*   \-
 
 *   **FULL LEADERBOARD**
 
@@ -116,9 +114,8 @@ Prev Next
 
 *   Scores View all tours &. Tournaments Tournaments
     
-    *   WGC - HSBC Champions
-    *   Mizuno Classic
-    *   Charles Schwab Cup Championship
+    *   Barclays Singapore Open
+    *   Lorena Ochoa Invitational presented by Banamex and Corona Light
     
     Tours
     *   PGA Tour
@@ -281,14 +278,14 @@ Prev Next
 *   Jim Flick
 *   Tianlang Guan
 *   PGA Tour
-*   Rory McIlroy
 *   Morning Drive
+*   Rory McIlroy
+*   WGC HSBC Champions
 *   Tiger Woods
 *   FedEx Cup
-*   WGC HSBC Champions
-*   Davis Love III
-*   Ian Poulter
 *   Stacy Lewis
+*   Ian Poulter
+*   Davis Love III
 *   Champions Tour
 
 **Privacy Policy**
@@ -530,7 +527,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 234,642 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
+Social 234,662 facebook.com/GolfChannel 122,570 twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
