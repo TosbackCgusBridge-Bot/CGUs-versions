@@ -23,7 +23,7 @@ Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript.
 
-WATCH AND LEARN... Women Q&A: Eva Longoria on Obama, Romney, Vaginas, and More
+WATCH AND LEARN... Women Election Day with a Beautiful Woman: Eva Longoria Talks Obama, Romney &. Vaginas
 
 The president's campaign co-chair is more than a (very) pretty face
 
@@ -33,36 +33,35 @@ The president's campaign co-chair is more than a (very) pretty face
 
 *   Miranda Kerr Is Esquire UK's Sexiest Woman Alive 2012
 
-Style How to Dress Better Now That the Sun's Setting a Damn Hour Early
+Style 5 Presidential Fleeces You Can Buy Online for Your Own Trail
 
-We've fallen back to mark the end of Daylight Savings, which means it's time to bust out the evening wear
+Who knew outerwear could unite two political parties?
 
-*   A Pomade That Won't Let You Down
+*   Today's Best Online Style Sales
 
-*   The Best Online Fashion Sales for Men Today
+*   Deerskin Gloves by Kent Wang
 
-*   Best-Dressed Hollywood Man  
-    Just Now: Dress Like That
+*   A Lace-Up Leather Dress Shoe by Burberry
 
-News &. Politics Charles P. Pierce on Election Day 2012
+News &. Politics Tom Junod at President Obama's Victory Speech
 
-The Politics Blog's live coverage from every swing state begins with a look back at the obstacle course that got us here...
+On Election Night in Chicago he celebrated the most sweeping political transformation in American political culture sinc...
 
-*   End-to-End at the Last Early-Voting Line in Florida
+*   Mark Warren at the Worst Victory Party in Ohio
 
-*   Sandy's Secondary Disaster: The Institution of Voting
+*   The Greatness of Barack Obama Is Our Great Project, by Charles P. Pierce
 
-*   New Soderbergh: The Instant Trailer Review
+*   Election Night in America: Coverage in Every Swing State
 
-Food &. Drink Cocktail of the Week: Make This One Tonight
+Food &. Drink Eric Ripert and Roger Waters Cook, Talk Election
 
-A rum fizz. With whiskey.
+The liberalism of Pink Floyd, rehashed
+
+*   Cocktail of the Week: Make This Tonite
 
 *   The Wisdom of Emeril Lagasse, on _Treme_
 
 *   WATCH: Will Ferrell's Obama Ad
-
-*   The Hurricane Sandy Heroes to Salute
 
 Women
 
