@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Voters back Obama despite economic concerns
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Wall Street now has to mend fences with Obama
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Doug Pensinger / Getty Images Our midseason All-Pro team
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Joe Howell / AP Midseason report on all 32 teams
     
-    Silva: Clay Matthews and Peyton Manning are two easy choices as the top NFL players during the midway point.
+    Kacsmar: With 132 games in the books, we've crossed the midpoint. How has your team done? Where are they headed? Let’s review.
     
-    Kacsmar: Midseason report on all 32 NFL teams Kacsmar: Pretenders or contenders?   |  Biggest surprises PFT: Giants donate $500,000 for storm relief PFT: Colts shaving heads in support of Pagano Painting the NFC South playoff picture PFT: Is it time for a big change in Dallas? PFT: Jerry Jones says he's not quitting as GM Payton's new deal coming soon? Ad
+    Slideshow: Our midseason All-Pro team Dan Patrick Show: Luck is out-shining Manning Kacsmar: Who are pretending, and contending? Kacsmar: Five biggest surprises of this season PFT: Bears might not have Tillman for Texans PFT Live: Tillman needs to family plan better PFT: Jimmy calls Jerry's GM claims 'a crock' PFT Live: Time for Jerry Jones to hire a GM? Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Andy Lyons / Getty Images Plenty of bargains to be had
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Ezra Shaw / Getty Images When you see Hamilton, think A-Rod
     
-    DeMarco: Pagan and Ludwick are price-is-right acquisitions who could make an impact in 2013.
+    Trash Talk: Texas is home to the most egregious example of reckless spending in baseball.
     
-    HBT: Hamilton, Greinke among top 50 free agents HBT: Dodgers eyeing Greinke, Anibal Sanchez HBT: Greinke may not be worth big bucks Trash Talk: When you see Hamilton, think A-Rod HBT: Hamilton wants $175M? Good luck, guy HBT: Darvish won't play in World Baseball Classic HBT: Red Sox are interested in Torii Hunter HBT: Boras wants the Yankees to sign Soriano Ad
+    HBT: Orioles to make a run at Josh Hamilton HBT: Hamilton wants $175M? Good luck, guy DeMarco: Bargains to be had in free agent market HBT: Hamilton, Greinke among top 50 free agents HBT: Mariners and Rockies still can't smoke pot HBT: Weiss leads Matt Williams for Rockies job HBT: Brewers signing Greinke is a 'long shot' HBT: Darvish won't play in World Baseball Classic Ad
 *   NHL
     SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Bruce Bennett / Getty Images Meetings close, will resume Wed.
     
     PHT: League, players' association set to resume talks, which may be a good sign when it comes to the labor stoppage ending.
     
-    NHL, union back at bargaining table for new talks NHL owners, players negotiating again PHT: Finally, both sides agree on something PHT: Why would Luongo want to play for Toronto? PHT: Jokinen headed back to Finland, for now PHT: Vanek leaves Austria, returns to Buffalo PHT: Michigan will get Winter Classic in '14 PHT: Fehr explains NHL 'make whole' concession Ad
+    NHL, union back to bargaining for 2nd straight day NHL owners, players negotiating again PHT: Finally, both sides agree on something PHT: Why would Luongo want to play for Toronto? PHT: Jokinen headed back to Finland, for now PHT: Vanek leaves Austria, returns to Buffalo PHT: Michigan will get Winter Classic in '14 PHT: Fehr explains NHL 'make whole' concession Ad
 *   NBA
     Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines NBC Sports Inside Harden's OKC exit
     
     SportsTalk: Adrian Wojnarowski shines light on the controversial circumstances surrounding James Harden's trade to Houston, and updates Steve Nash's injury status and Kobe Bryant's future plans.
     
-    PBT: Thunder get right, rout Raptors PBT: Noah, Afflalo, Faried stars of the night CSN: Bulls edge Magic (with video highlights) CSN: Bulls may be fine without Rose? Nuggets snap skid by beating Pistons PBT: Obama hooped with Pippen on election day PBT: Griffin playing with burst bursa sac on elbow Hornets coach fined $25K for concussion comments Ad
+    PBT: Blake picked the wrong guy to cuss at LeBron thanks Ohio for delivering for Obama PBT: Noah, Afflalo, Faried stars of the night CSN: Bulls edge Magic (with video highlights) CSN: Bulls may be fine without Rose? PBT: Obama hooped with Pippen on election day PBT: Griffin playing with burst bursa sac on elbow Hornets coach fined $25K for concussion comments Ad
 *   NCAA FB
     SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines NBC Sports Will Klein play in Week 11?
     
     SportsTalk: Pat Forde handicaps the Heisman race and updates Kansas State QB Collin Klein's injury status and what it means for the Wildcats against TCU.
     
-    CFT: New Orleans to host '14 ‘Champions Bowl’ Late TD costs No. 23 Toledo in loss to Ball State California may use backup QB vs. No. 2 Oregon CFT: Ducks, Irish flip in BCS standings Kelly will let others worry about BCS debate Special feature: Heisman Hopefuls CSN: Golson getting longer leash with No. 4 ND CFT's Fifth Quarter: Special Alabama-LSU edition Ad
+    CFT: New Orleans to host '14 ‘Champions Bowl’ Late TD costs No. 23 Toledo in loss to Ball State California may use backup QB vs. No. 2 Oregon CFT: Ducks, Irish flip in BCS standings Kelly will let others worry about BCS debate CFT: USC launches Lee's Heisman campaign Special feature: Heisman Hopefuls CSN: Golson getting longer leash with No. 4 ND Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Tony Gutierrez / AP Final finish saved sluggish race
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Tom Pennington / Getty Images Keselowski not feeling pressure
     
-    Brad Keselowski held off Kyle Busch on one late restart, and Jimmie Johnson on another. Doing it a third time was just too much to ask during a tense closing sequence at Texas Motor Speedway.
+    Brad Keselowski recognizes how fortunate he is to be racing at NASCAR's top level, and uses the kind of joke a guy would tell his buddy over a beer as a metaphor for the situation he finds himself in.
     
-    Johnson holds off Keselowski to win at Texas Hannah Storm goes in-depth with 4 NASCAR stars Jimmie Johnson, NASCAR giving to Sandy efforts Vickers to run for Nationwide title with JGR Lotus say Raikkonen's win shows they are serious Danica will have to get used to 'old man' Danica's 1 regret about bumping Cassill: execution Pocono hears from fans upset with IndyCar Ad
+    In The Pits: Final finish saved sluggish race Johnson holds off Keselowski to win at Texas Hannah Storm goes in-depth with 4 NASCAR stars Jimmie Johnson, NASCAR giving to Sandy efforts Vickers to run for Nationwide title with JGR Lotus say Raikkonen's win shows they are serious Danica will have to get used to 'old man' Danica's 1 regret about bumping Cassill: execution Ad
 *   NCAA HOOPS
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Stephen Lance Dennee / AP Which All-American will flop?
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Andy Lyons / Getty Images Our preseason tourney projections
     
-    CBT's Burning Questions: Murray State's Isaiah Canaan, UNLV's Mike Moser ... who could go bust?
+    CBT: Make way for the Big Ten. Led by No. 1 overall seed Indiana, four teams – including Michigan State, Ohio State, and Michigan – grab top three seeds in our NCAA Tournament preseason bracket projection.
     
-    CBT: Two Indiana freshmen suspended 9 games CBT: Battle of the Midway moved to Sunday No. 13 UCLA preparing without Muhammad Conference previews for men's 2012-'13 season CBT: What top 25 team misses the tournament? CBT: Who outside top 25 can make Final 4? CBT: Kentucky gets a scare with Mays fall Arkansas suspends Young for opener Ad
+    CBT: Which is the best team in Kentuckiana? CBT: Tarkanian's son loses House race in Nevada CBT: Which All-American will flop this season? CBT: Two Indiana freshmen suspended 9 games CBT: Battle of the Midway moved to Sunday No. 13 UCLA preparing without Muhammad Conference previews for men's 2012-'13 season CBT: What top 25 team misses the tournament? Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Hall of Fame instructor Flick dies at 82
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Q-School DQ: Barber's nine days of doubt
     
-    Legendary instructor Jim Flick, who coached Jack Nicklaus and Tom Lehman, among others, has passed away at age 82.
+    Blayne Barber knew he had a tough decision to make. Continue his effort to earn his PGA Tour card – or live with underlying guilt.
     
-    Lehman on Flick: 'He made me feel special' Scott challenges Tiger and anchoring ban Poulter 'burns' to shed label, win elusive first major G-Mac: Rory's mega-deal not just about money Notes: Love not interested in Champions Tour yet Lots of players fighting for their careers at Disney Power Rankings: CMN Hospitals Classic Guan, 14, wins Asia-Pacific Am. gets Masters bid Nike unveils new driver, noncommital on McIlroy Seinfeld star touts new Cobra gear Understand impact and create forward shaft lean Ad
+    Rory: Equipment news coming in a 'few weeks' Players take to Twitter to comment on presidential election Scott challenges Tiger and anchoring ban Mickelson optimistic after overcoming mid-season slump McIlroy struggles to find balance with work, play Lots of players fighting for their careers at Disney Power Rankings: CMN Hospitals Classic G-Mac: Rory's mega-deal not just about money Hall of Fame instructor Flick dies at 82 Notes: Love not interested in Champions Tour yet Nike unveils new driver, noncommital on McIlroy Understand impact and create forward shaft lean Ad
 *   Soccer
     SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Mike Stobe / Getty Images Will Red Bulls close it out?
     
     PST's preview of NY-DC asks all the tough questions, including how Rafa Marquez's odd behavior continues to impact the team.
     
-    PST: Previewing Dynamo-Sporting KC PST: Galaxy-Earthquakes playoff preview PST: Analysis of Tuesday's Champions League results Man City, Real Madrid earn draws in Champs League PST: Sounders' Johnson ready, Rosales in doubt 3 get first call-ups for Australia against SKorea PST: Winners, losers from MLS semifinals PST: Foul or not, we didn't deliver, Donovan says Ad
+    PST: Previewing Dynamo-Sporting KC PST: Galaxy-Earthquakes playoff preview PST: Sounders' Johnson ready, Rosales in doubt Millwall ban 13-year-old fan for racist abuse Struggling Liverpool faces difficult trip to Anzhi PST: Analysis of Tuesday's Champions League results Man City, Real Madrid earn draws in Champs League Spain leads, Argentina rises in FIFA rankings Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Al Bello / Getty Images 7 gold medalists who still can't vote
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Giovanni Auletta / AP Vonn to miss World Cup slalom opener
     
-    OlympicTalk: With the London Olympics is in the books, there are several 2012 American gold medalists still too young to vote.
+    Lindsey Vonn has decided to skip the first World Cup slalom of the season in Finland this weekend, choosing instead to prepare for home races in Colorado later this month.
     
-    OlympicTalk: Japan’s Yamaguchi swimming TOO fast OlympicTalk: Martha Karolyi won't quit Team USA OlympicTalk: Is Bolt the world's best athlete? AP Source: Wrestler stripped of Olympic medal OlympicTalk: Lolo picked for bobsled team OlympicTalk: Lolo says she can outrace Denard Karolyi gives up some duties with US women Campbell, 1st black Olympic decathlon winner, dies Ad
+    OlympicTalk: Wrestler stripped of medal 7 American gold medalists who still can't vote OlympicTalk: Japan’s Yamaguchi swimming TOO fast OlympicTalk: Martha Karolyi won't quit Team USA OlympicTalk: Is Bolt the world's best athlete? AP Source: Wrestler stripped of Olympic medal OlympicTalk: Lolo picked for bobsled team OlympicTalk: Lolo says she can outrace Denard Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Ezra Shaw / Getty Images Some pleas for the president
+    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines NBC Sports Utah girl a star in youth football
     
-    Castrodale: What the new president — Obama or Romney — could really accomplish in the sports world.
+    Video: Dan Patrick and company talk about Sam Gordon, the little girl from Utah outplaying all the boys in her youth football program.
     
-    Presidential candidates and sports The Week in Sports Pictures PhotoBlog: Six boys, one skateboard OTB: Throw-in to the face — once, twice Pursuit of the Cup: Fort Larned's Classic surprise Opinion: NYC Marathon debacle didn't have to be NY marathon canceled? Tell that to the runners Former US Postal rider has chance to tell all Ad
+    Presidential candidates and sports Big names in sports thrown for losses by voters The lineup for sports on election night Castrodale: Some pleas for the president The Week in Sports Pictures PhotoBlog: Six boys and one skateboard OTB: Throw-in to the face — once, twice Pursuit of the Cup: Fort Larned's Classic surprise Ad
 
 *   Scores
 *   Odds
