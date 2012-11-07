@@ -10,9 +10,7 @@ You may also call **1.800.991.6813** to place your order!
 *   Log In
 *   1.800.991.6813
 
-MY CART 0 Items0
-
-  Welcome, Guest, click here to log in or register.  
+MY CART 0 Items0   Welcome, Guest, click here to log in or register.  
 
 *   Shoes
     
