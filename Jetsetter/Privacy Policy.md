@@ -228,29 +228,13 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Ca' Sagredo Hotel - Venice
+*   Exclusive Hotels by Lexus
     
-    Starting Today at Noon EST
-    
-*   Hotel Vitale - San Francisco
-    
-    Starting Today at Noon EST
-    
-*   Farmhouse Inn - Sonoma, CA
-    
-    Starting Today at Noon EST
+    Starting Today 11/7 at 3pm EST
     
 *   The Palms - Las Vegas
     
     Starting Today 11/7 at 4pm EST
-    
-*   Mr. C Beverly Hills
-    
-    Starting Thursday 11/8 at 3pm EST
-    
-*   La Quinta Troppo - Mexico
-    
-    Starting Thursday 11/8 at 3pm EST
     
 *   Le Meridien Philadelphia
     
@@ -259,6 +243,22 @@ Upcoming Sales
 *   Hutton Hotel - Nashville
     
     Starting Thursday 11/8 at 3pm EST
+    
+*   Hotel on Rivington - New York
+    
+    Starting Thursday 11/8 at 3pm EST
+    
+*   La Quinta Troppo - Mexico
+    
+    Starting Thursday 11/8 at 3pm EST
+    
+*   Mr. C Beverly Hills
+    
+    Starting Thursday 11/8 at 3pm EST
+    
+*   Terranea Resort - California
+    
+    Starting Friday 11/9 at 3pm EST
     
 
 View All Upcoming Sales → Jetsetter
