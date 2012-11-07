@@ -242,14 +242,14 @@ Your email is safe with us. We hate spam too!
 
 Featured this week on livestrong.com
 
-*   Nov 4, 2012 'How The Gym Helped  
+*   Nov 6, 2012 Run Without Pain  
+    For Life!
+*   Nov 5, 2012 'How The Gym Helped  
     
-*   Nov 3, 2012 The 'Better Booty'  
+*   Nov 4, 2012 The 'Better Booty'  
     Warmup Routine
-*   Nov 2, 2012 The 20 Best Foods  
+*   Nov 3, 2012 The 20 Best Foods  
     For Smoothies
-*   Nov 1, 2012 The New Rules  
-    Of Stretching
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
 
