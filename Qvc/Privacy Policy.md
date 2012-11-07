@@ -319,24 +319,29 @@ Shop by Brand
 *   Electronics Forum
 *   Electronics Blogs
 
-Departments
+Shop by Category
 
-*   Beauty
-*   Electronics
-*   Fashion
-*   For the Home
-*   Jewelry
-*   Kitchen &. Food
-*   Shoes &. Handbags
+*   Beauty Gifts
+*   Electronics Gifts
+*   Gifts For the Home
+*   Kitchen &. Food Gifts
 *   Toys
 
-More Gift Ideas
+Top Finds
 
-*   Customer Choice Wish List
-*   Electronics Holiday Hot List
-*   Gift Cards
-*   Holiday Advice
-*   Holiday Giving Event
+*   Best Sellers
+*   Customer Top Rated
+*   Easy Pay Offers
+*   Items Recently On Air
+*   New Arrivals
+*   Special Prices
+
+Shop by Price
+
+*   $25 &. Under
+*   $50 &. Under
+*   $100 &. Under
+*   Luxury Gifts
 
 *   New Arrivals
 *   Customer Top Rated
