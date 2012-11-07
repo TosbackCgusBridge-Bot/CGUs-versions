@@ -1,4 +1,4 @@
-OBAMA WINS RE-ELECTION
+INTRODUCING JOSH BROWN'S SIDE STREET
 
 *   **Home**
 
@@ -23,7 +23,6 @@ OBAMA WINS RE-ELECTION
     *   Automotive News
     *   Small Business News
     *   Political News
-    *   Election 2012
     *   Opinion
 
 *   **How to Invest**
@@ -50,6 +49,7 @@ OBAMA WINS RE-ELECTION
     *   Dividend Stock Picks
     *   Option Trading Strategies
     *   Real Money Previews
+    *   Side Street
 
 *   **Personal Finance**
     *   Retirement (IRAs, 401ks)
@@ -86,13 +86,14 @@ OBAMA WINS RE-ELECTION
 
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
-*   Morning Reads
-*   Bank Dividends
-*   Apple Over Intel
-*   President Obama Wins Re-Election
-*   Twitter vs. Facebook
+*   Gold Prices
+*   Obama Financial Selloff
+*   Side Street
+*   High-Yield Banks
+*   iPhone 5
+*   Stocks Fall Sharply
 
-pjava05.dc.thestreet.com Privacy Policy
+pjava04.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -247,15 +248,15 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,245.68 133.24 1.02% NASDAQ 3,011.93 12.27 0.41% S&P 500 1,428.39 11.13 0.79% US 10 Yr 1.742% +0.058 Brokerage Partners Most Commented
+DOW 12,959.96 -285.72 -2.16% NASDAQ 2,941.14 -70.79 -2.35% S&P 500 1,398.21 -30.18 -2.11% US 10 Yr 1.625% -0.117 Brokerage Partners Most Commented
 
-*   <I>TheStreet</I>. Predicts Obama Will Win the 2012 Election
+*   TheStreet Predicts Obama Will Win the 2012 Election
 *   Solar Panels Don't Work!
 *   Windows Phone 8 Review: Good, But Not Good Enough
 *   10 Worst Cars of All Time
 *   Arena Pharma Is Still A Good Short
 
-Articles From Newser Suzuki Pulls Out of US Market Icahn Sours at Taste of Netflix's 'Poison Pill' New GOP Tactic: Volunteers Paid With 'Secret Money' See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Dow Plunges 300+ on Obama Win Suzuki Pulls Out of US Market Icahn Sours at Taste of Netflix's 'Poison Pill' See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
