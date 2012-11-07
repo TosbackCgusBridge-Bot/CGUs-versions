@@ -239,9 +239,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Touring Designer Corey Lynn Calter’s Chic LA Studio
-    *   Meet the ModDog: Colin
-    *   Guest Gal: ModFan Daria’s Chocolatey Peanut Biscuit Roll
+    latest blog posts*   Travel Bug: Rock Right to Nashville with Heidi of Under the Guise
+    *   Page Turners: Life in a Bubble Has Never Looked So Good
+    *   Touring Designer Corey Lynn Calter’s Chic LA Studio
     
     *   modcloth blog
     *   In Other Words
