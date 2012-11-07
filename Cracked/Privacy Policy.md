@@ -78,6 +78,8 @@ Cracked.com
     
     Ian Fortey
     
+    Kristi Harrison
+    
 *   Forums
 *   Quick Fixes
 *   Photoplasty
