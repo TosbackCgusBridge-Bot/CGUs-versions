@@ -38,7 +38,7 @@ REGION SELECTOR
 *   الدول العربية
 *   中华人民共和国
 
-Protecting **165+** million PCs, Macs, &. Mobiles – more than any other antivirus
+Protecting **170+** million PCs, Macs, &. Mobiles – more than any other antivirus
 
 Main navigation
 
