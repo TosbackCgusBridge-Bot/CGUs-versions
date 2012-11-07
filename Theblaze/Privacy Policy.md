@@ -25,11 +25,15 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   Campaign 2012
+*   Election Day
 *   Libya: The Truth?
 *   TheBlaze TV
 
 Take Action
+
+Watch Live: Obama Victory Speech
+
+Blaze Election Special: Sound off on Election results
 
 About TheBlaze
 
@@ -256,7 +260,7 @@ What is this? Sections
 
 Hot Topics
 
-*   Campaign 2012
+*   Election Day
 *   Libya: The Truth?
 *   TheBlaze TV
 
