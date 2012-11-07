@@ -233,9 +233,10 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   My Job in Agriculture: Kerrie Roach, North Carolina Cooperative Extension
-*   Which Way for Soybean Prices?
-*   How Does Wiinter Wheat Look in Your Area?
+*   2012 Election Themes, Issues
+*   Election 2012: California Turns Down GMO Labels and More
+*   Revolution in African Agriculture
+*   Uncertainty the Name of the Game with Wheat
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
