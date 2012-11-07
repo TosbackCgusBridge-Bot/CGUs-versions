@@ -171,11 +171,11 @@ More Love &. Sex News
 
 More News Featured
 
-*   Summer Party Ideas
-*   Wavy Hair
-*   Is He the One?
-*   How to Get Shiny Hair
-*   Dating Advice
+*   Christmas Party Ideas
+*   Gifts for Women
+*   Christmas Cocktails
+*   What to Wear to a Christmas Party
+*   Holiday Party Dresses
 
 *   Love Horoscopes
 *   Red Carpet Fashion
