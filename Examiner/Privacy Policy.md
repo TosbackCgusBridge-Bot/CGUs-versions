@@ -7,12 +7,12 @@ OnTopic custom content solutions Learn more about how Examiner.com can help your
 *   Log in
 *   Sign up
 
-*   Elections 2012
 *   Arts &. Entertainment
 *   Home &. Life
 *   Interests
 *   News &. Info
 *   Video
+*   Celebrity
 *   More
 
 Privacy Policy
