@@ -54,7 +54,7 @@ Side Navigation:
 
 Main Content: Privacy Policy
 
-_Last revised February 24, 2011_
+_Last revised October 24, 2012_
 
 Our Commitment to Privacy
 
@@ -73,8 +73,8 @@ Privacy Policy
 *   How do I make choices about receiving promotional communications?
 *   How do I stop receiving Athleta catalogs?
 *   How does Gap Inc. protect kids' privacy?
-*   How does Gap Inc. use cookies?
-*   How does Gap Inc. use pixel tags?
+*   How does Gap Inc. use cookies and other tracking technologies?
+*   How is my information used for behavioral or interest-based advertising?
 *   How do I know my personal information is secure?
 *   What is "phishing"?
 *   I received a suspicious email from a Gap Inc. brand regarding an order I did not place. What should I do?
@@ -157,7 +157,7 @@ Gap Inc. is concerned about the privacy and safety of children when they use the
 
 back to top
 
-How does Gap Inc. use cookies?
+How does Gap Inc. use cookies and other tracking technologies?
 
 Our websites use "cookies," which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
 
@@ -165,19 +165,19 @@ For example, we may use cookies to enable you to use certain website features, r
 
 You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our websites.
 
-back to top
-
-How does Gap Inc. use pixel tags?
-
-We use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, on our websites and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information.
+We also use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, on our websites and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information.
 
 Pixel tags on our sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. We do not otherwise track any information about your use of other websites.
 
 Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
 
-We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. These companies may collect information about your visits to our websites and your interaction with our advertising and other communications. If you would like more information about this practice and to know your choices about not having your information used by these companies, please visit http://www.networkadvertising.org/managing/opt\_out.asp.
+We may combine the information we collect through cookies and pixel tags with other information we have collected from and about you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, and for other internal business purposes.
 
-We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, and for other internal business purposes.
+back to top
+
+How is my information used for behavioral or interest-based advertising?
+
+We work with third-party companies that use tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. For more information about this practice and to understand your options, please visit http://www.aboutads.info.
 
 back to top
 
@@ -267,7 +267,9 @@ San Francisco, CA 94105
 
 back to top
 
-\*Offer valid for first registrants only. Privacy Policy Stay connected
+STYLE, NEWS, AND AN EXCLUSIVE OFFER WHEN YOU SIGN UP!\*
+
+SUBMIT \*Offer valid for first registrants only. Privacy Policy Stay connected
 
 Introducing **INTERNATIONAL SHIPPING** to over 80 countries
 
