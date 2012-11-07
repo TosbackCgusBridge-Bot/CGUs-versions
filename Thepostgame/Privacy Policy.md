@@ -12,7 +12,7 @@
 *   UFC
 *   Fantasy
 
-ThePostGame. tuesday, november 6, 2012
+ThePostGame. wednesday, november 7, 2012
 
 *   TPG home.
 *   voices.
