@@ -7,7 +7,7 @@ Rachael Ray
     *   Recipe Search
     *   Recipes On the Go!
     *   Easy Weeknight Meals
-    *   Little Chefs
+    *   Holiday Entertaining
     *   Seamus Mullen's Hero Foods
     *   Salads
     *   In Season Now
@@ -30,7 +30,7 @@ Rachael Ray
     *   Travel Blog
     *   Travel Articles
     *   Feedback
-    *   Easy Entertaining
+    *   Holiday Entertaining
     *   Travel Tote Bags
     *   Evette Rios
     *   The Cleaning Lady
