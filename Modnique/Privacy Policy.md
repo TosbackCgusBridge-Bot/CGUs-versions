@@ -45,39 +45,40 @@ Loading Modnique - Boutique Events
 *   all events
     *   women
     *   5th Avenue Women's Apparel
-    *   Amplified Women's apparel
-    *   Breil Milano Jewelry
+    *   Access Pass Australia: Summer dresses sale
     *   Creed, Bond No 9 and Annick Goutal Women's Fragrances
-    *   Da Vinci Cosmetics Made In USA
     *   Dex Women's Apparel
-    *   Dolce &. Gabbana: Shoes, Accessories and Fragrances
-    *   Envy Office Dresses
-    *   Fall Gemstone Collections
-    *   From the Beauty Closet Cosmetics Made in USA
-    *   Hermes handbags, jewelry, watches from $129
-    *   Holiday gifts: Affordable jewelry
-    *   Kate Bissett Jewelry
-    *   Louis Vuitton
+    *   Emporio Armani Intimates
+    *   French Twist: Un coeur en ete women's apparel
+    *   Krementz jewelry
+    *   Luca Carati &. Zydo luxury jewelry
     *   Merchant and Betty Paige Apparel
-    *   One &. Only: Luxury jewelry for her
+    *   Nuvula Women's Apparel
+    *   Ore10 Genuine Leather Handbags Made in Italy
+    *   Pearl jewelry deals from $5
+    *   Rock Revolution Sweaters
+    *   StyleMax Women's Shoes
     *   Versace Jeans Handbags Made In Italy
-    *   _more..._
-    *   men
-    *   Dress to Impress: Clark's, Cole Haan Men's Shoes
-    *   Men's Polo Shop Featuring Armani, Burberry, Ralph Lauren
+    *   Vivienne Westwood Accessories
     *   _more..._
     *   other
-    *   Get the look: Men's &. Women's leather strap watches
+    *   Emilio Pucci sunglasses
+    *   French Beauty featuring YSL
+    *   Italian Watches: 3H Italia, Gai Mattiolo, Officina del Tempo
+    *   Made in Switzerland: Patek Philippe, Maurice LaCroix and more
     *   _more..._
 *   apparel
     *   women
     *   5th Avenue Women's Apparel
+    *   Access Pass Australia: Summer dresses sale
     *   Amplified Women's apparel
-    *   Crystal rock by Christian Audigier
     *   Dex Women's Apparel
+    *   Emporio Armani Intimates
     *   Envy Office Dresses
+    *   French Twist: Un coeur en ete women's apparel
     *   Merchant and Betty Paige Apparel
-    *   Reneta J, Cake Couture, Gold Hawk Women's Apparel
+    *   Nuvula Women's Apparel
+    *   Rock Revolution Sweaters
     *   Sandra Darren Sweater Dresses
     *   Y-3 Adidas Shop Made In USA
     *   _more..._
@@ -89,23 +90,24 @@ Loading Modnique - Boutique Events
     *   Black Diamond Jewelry and Watches
     *   Breil Milano Jewelry
     *   DV Italy jewelry
-    *   Designer watches under $49 for her
     *   Fall Gemstone Collections
     *   Finishing touch: white gold jewelry
-    *   Hermes handbags, jewelry, watches from $129
     *   Holiday gifts: Affordable jewelry
     *   Holiday gifts: Designer jewelry
-    *   Jewelry sets from $12
     *   Kate Bissett Jewelry
+    *   Krementz jewelry
     *   LAUREN G. ADAMS Jewelry Set
-    *   La Jewelry Group jewelry
+    *   Luca Carati &. Zydo luxury jewelry
     *   One &. Only: Luxury jewelry for her
+    *   Pearl jewelry deals from $5
     *   _more..._
     *   men
     *   Designer watches under $49 for him
     *   _more..._
     *   other
     *   Get the look: Men's &. Women's leather strap watches
+    *   Italian Watches: 3H Italia, Gai Mattiolo, Officina del Tempo
+    *   Made in Switzerland: Patek Philippe, Maurice LaCroix and more
     *   Tonino Lamborghini, Invicta Watches
     *   _more..._
 *   Handbags &. Accessories
@@ -114,11 +116,17 @@ Loading Modnique - Boutique Events
     *   Dolce &. Gabbana: Shoes, Accessories and Fragrances
     *   Holiday gifts: Designer jewelry
     *   Louis Vuitton
+    *   Ore10 Genuine Leather Handbags Made in Italy
     *   Versace Jeans Handbags Made In Italy
+    *   Vivienne Westwood Accessories
     *   Y-3 Adidas Shop Made In USA
+    *   _more..._
+    *   other
+    *   Emilio Pucci sunglasses
     *   _more..._
 *   shoes
     *   women
+    *   StyleMax Women's Shoes
     *   Y-3 Adidas Shop Made In USA
     *   _more..._
     *   men
@@ -130,14 +138,21 @@ Loading Modnique - Boutique Events
     *   Da Vinci Cosmetics Made In USA
     *   From the Beauty Closet Cosmetics Made in USA
     *   _more..._
+    *   other
+    *   French Beauty featuring YSL
+    *   _more..._
 *   men
     *   Designer watches under $49 for him
     *   Dress to Impress: Clark's, Cole Haan Men's Shoes
+    *   Emilio Pucci sunglasses
+    *   French Beauty featuring YSL
     *   Get the look: Men's &. Women's leather strap watches
+    *   Italian Watches: 3H Italia, Gai Mattiolo, Officina del Tempo
+    *   Made in Switzerland: Patek Philippe, Maurice LaCroix and more
     *   Men's Polo Shop Featuring Armani, Burberry, Ralph Lauren
     *   Tonino Lamborghini, Invicta Watches
     *   and many more...
-*   Shops
+*   Gifts
 *   daily deal
 
 Live Chat ▶ **Two simple ways to join** With your social network profile
