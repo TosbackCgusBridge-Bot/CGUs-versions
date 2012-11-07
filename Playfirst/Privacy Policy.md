@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (23.6 MB) Top Mac Downloads 1 Diner Dash: Flo Through Time 2 SpongeBob SquarePants Diner Dash 3 Parking Dash 4 Garden Dash 5 Avenue Flo 6 Avenue Flo: Special Delivery 7 Diaper Dash 8 Dream Day Honeymoon 9 Soap Opera Dash 10 Fitness Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (102.2 MB) Top Mac Downloads 1 Diner Dash: Flo Through Time 2 SpongeBob SquarePants Diner Dash 3 Parking Dash 4 Garden Dash 5 Avenue Flo 6 Avenue Flo: Special Delivery 7 Diaper Dash 8 Fitness Dash 9 Soap Opera Dash 10 Dream Day Honeymoon » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -273,19 +273,19 @@ Help DinerTown save the event of the year!
 
 More cute, cuddly babies than you will know what to do with!
 
-**Play Free!** (22.6 MB) Try It Dream Day Honeymoon Hidden Object Games
-
-Search for the perfect souvenir!
-
-**Play Free!** (81.9 MB) Try It Soap Opera Dash DASH™ &. Time Mgmt Games
-
-DinerTown's zaniest soap opera parody!
-
-**Play Free!** (62.4 MB) Try It Fitness Dash DASH™ &. Time Mgmt Games
+**Play Free!** (22.6 MB) Try It Fitness Dash DASH™ &. Time Mgmt Games
 
 Get your DASH game in peak condition!
 
-**Play Free!** (20.3 MB) Try It Log In New to PlayFirst?
+**Play Free!** (20.3 MB) Try It Soap Opera Dash DASH™ &. Time Mgmt Games
+
+DinerTown's zaniest soap opera parody!
+
+**Play Free!** (62.4 MB) Try It Dream Day Honeymoon Hidden Object Games
+
+Search for the perfect souvenir!
+
+**Play Free!** (81.9 MB) Try It Log In New to PlayFirst?
 
 Sign up below to create a new PlayFirst account.
 
