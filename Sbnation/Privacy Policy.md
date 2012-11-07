@@ -20,7 +20,7 @@
 *   Running
 *   Water Polo
 *   Wrestling
-*   View All 318 Blogs
+*   View All 320 Blogs
 
   Privacy Policy Vox Media Privacy Policy Effective, November 2011
 
@@ -129,4 +129,4 @@ Your privacy is important to us and we have prepared this Privacy Policy to expl
 *   Browse Blogs
 *   Contact Us
 
-SBNU v1.0.5, November 1, 2012 Guiding Principles - Terms of Use - Privacy Policy 2012 Vox Media, Inc. All Rights Reserved
+SBNU v1.0.6, November 4, 2012 Guiding Principles - Terms of Use - Privacy Policy 2012 Vox Media, Inc. All Rights Reserved
