@@ -1,6 +1,6 @@
 (skip this header)
 
-Tuesday Nov 06, 2012 5:05 AM PT
+Wednesday Nov 07, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Hawaii drivers killing rare birds
-*   Chron election endorsements
-*   Rock's 'white president' bit
-*   Last week's concert pics
-*   Tackling fat phobia
+*   OK, who voted for 'Gangnam style'?
+*   Ex-NFL'er convicted
+*   Bon Jovi slams 'Jersey Shore'
+*   Woman in labor stops to vote
+*   S.F. election day parties
 
 *   Bay Area &. State
 *   Nation
@@ -339,6 +339,24 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Election night in focus
+*   World in Focus
+*   Obama's election night party in Chicago
+*   Election night
+*   Voting in Florida
+*   Voting across the nation
+*   Voting in the Bay Area
+*   Start-Ups: Silicon Valley reality show
+*   ACE Awards 2012
+*   Jerry Brown election day
+*   Day in Pictures, Nov. 6, 2012
+*   campaign trail 2012
+*   Oracle boat becomes Flugtag for Red Bull
+*   Halo 4 launches in Seattle, London
+*   Dandelion Chocolate
+*   U.S. Presidents on film
+*   Obama Election Day
+*   California Votes
 *   Jersey Shore House
 *   Warriors rally but can’t beat Kings
 *   Photos from the Campaign Trail, by AP
@@ -346,7 +364,6 @@ Ads by Yahoo! Photo Galleries
 *   World in Focus
 *   Day in Pictures, Nov. 5, 2012
 *   49ers and their "Giant" counterparts
-*   campaign trail 2012
 *   Fremont Diner
 *   Baby2Baby Gala
 *   The 2012 Campaign Trail
@@ -362,23 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   worst campaigns 2012
 *   USS Enterprise retires
 *   100 best photos from the Giants' World Series run
-*   Final Presidential Debate
-*   Warriors edge Clippers, 114-110
-*   Stanford finds QB in Hogan and 48-0 win
-*   Nation in Focus
-*   World in Focus
-*   5 hits and 5 misses on the campaign trail, Oct. 29-Nov. 2
-*   Candidates eat
-*   Michael Macor on The World Series
-*   Rush hurt in Warriors’ loss to Grizzlies
-*   Nation in Focus
-*   World in Focus
-*   Kirk Hammett's Day of the Dead book launch
-*   Scenes from a hula festival
-*   Day in Pictures, Nov. 2, 2012
-*   Favorite dishes 11/02/2012
-*   Barry Zito's Kentfield manse still wants a buyer
-*   World in Focus
 
 *   Most Read
 *   |
@@ -386,51 +386,53 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Not guilty plea in Muni bus vandalism
-2.  Nude activist dresses down supervisors
-3.  Murder defendant: 'I did it. So what?'
-4.  True source of $11M contribution revealed
-5.  NZealand beaching proves rarest of whales exists
-6.  Science hopes to change events that have already occurred
-7.  Three caregivers arrested in infant's death
+1.  Props. 30, 38 - California tax measures
+2.  Prop. 37: Genetic food labels losing
+3.  NBC, Fox News call election for Obama
+4.  Obama wins re-election
+5.  Puerto Rico vote could change ties to U.S.
+6.  Wash. voters legalize recreational pot use
+7.  Death penalty repeal trails midway through
 
-1.  Conservative group true source of $11 million campaign contribution
-2.  Accused Muni bus vandal pleads not guilty
-3.  Obama, Romney pursue last votes in deadlocked race
-4.  Muni insurance won't replace torched bus
-5.  Fremont PD shoot, kill naked man
-6.  Murder defendant: "I did it, so what?"
-7.  Electoral College Update: Storm response boosts Obama, complicates Romney%u2019s path to 270
+1.  Race tight as election night count goes to wire
+2.  Thousands report voting problems
+3.  Much at stake as voters head to polls
+4.  Obama wins re-election
+5.  Nude activist dresses down supervisors
+6.  Accused Muni bus vandal pleads not guilty
+7.  Bus driver sets up sting for %u2018idiot%u2019
 
-1.  Nude activist dresses down supervisors
-2.  Freeze dough, batter for surprise guests
-3.  Death penalty repeal close in poll
-4.  Beer aged like bourbon is the rage
-5.  True source of $11M contribution revealed
-6.  Murder defendant: 'I did it. So what?'
-7.  CSU eyes fee increases for some students
+1.  Wash. voters legalize recreational pot use
+2.  China's next leaders might curb Macau's fortunes
+3.  Obama powers to re-election despite weak economy
+4.  City College: good news on 2 measures
+5.  Streisand still has that certain something
+6.  Prop. 35: Trafficking measure passes
+7.  FilmHouse gives boost to indie world
 
 loading... Latest News Videos From our homepage
 
 *     
-    Michael Short, Special To The Chronicle / SF
+    Michael Macor, The Chronicle / SF
     
-    Back in school, despite genes
+    Prop. 30 victorious
     
-    After some convincing, Palo Alto youth with genes related to cystic fibrosis can return to class.
+    Brown's tax measure solidly over 50 percent, Prop 38 falls.
     
+*   Prop 37 trails | Prop 30 results
 
 *     
-    Carlos Puma, AP / SF
+    Alvin Jornada, Special To The Chronicle / SF
     
-    San Francisco Chronicle Copyright 2012 San Francisco Chronicle. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 9:02 p.m., Monday, November 5, 2012 Stolen cross turns up
+    Supe Olague likely done
     
-    Cross found in Half Moon Bay was at center of Mojave Desert Supreme Court ruling.
+    S.F. races: Ed Lee pick trailing in hotly contested District 5.
     
+*   CCSF buoyed | S.F. results
 
-*   Smile, you're a winner!
+*   The best movie president?
     
-    Awards for the best, craftiest costumes, from earth to space. Did your favorite win? Photos
+    Brolin as Dubya? Langella as Nixon? Or one of the many who played FDR, perhaps?
     
 
 *   Home
