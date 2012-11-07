@@ -49,7 +49,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Product makers must tell a good toy story to stay focused
+If Facebook isn’t thinking about buying Tumblr, it should be
 
 Stay on top of tech news in your inbox
 
