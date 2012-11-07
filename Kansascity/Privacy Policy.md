@@ -134,33 +134,32 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $50 for $100 of  Custom Framing for Your Art and Photos $50 Value: Discount: You Save: $100 50% $50
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $30 for $200 Towards Frames and Lenses. Over 2000 Frames to choose from! $30 Value: Discount: You Save: $200 85% $170
 
-Tuesday: Top Deals
+Wednesday: Hen House, HyVee, Price Chopper Deals Hen House
 
-1.  On the Border – Head to their Facebook page to get a coupon for free queso and sopapillas.  The coupon is good through September 13th.
-2.  Garnier Fructis – Request a free sample of Garnier Fructis Fall Flight courtesy of Target.
-3.  Biore – Sign up to see if you qualify to get 3 free sample sent to you.
+*   General Mills Fiber One or Nature Valley Granola Bars 5-10-ct. - 2/$5 or $2.50 each
+*   Hunt's Canned Pasta Sauce 24-oz. - 10/$10 or $1 each
+*   Swanson Flavor Boost Concentrated Broth Liquid Packets 4-ct., Seafood, Beef, Vegetable or Chicken - 2/$3 or $1.50 each
+*   more...
 
-1.  SALES
+1.  PARALEGAL
     
-2.  Maintenance Supervisor
+    GREGORY LEYH, P.C.
     
-    Robert's Dairy
-    
-3.  CAMPAIGN JOBS
-    
-    Grassroots Campaigns, Inc.
-    
-4.  Apartment Maintenance Tech Part Time
+2.  Apartment Maintenance Tech Part Time
     
     Georgetown Apartments
     
-5.  SEASONAL DRIVERS
+3.  Apartment Maintenance Helper
+    
+4.  SEASONAL DRIVERS
     
     Kelly Services
     
-6.  PROGRAM DIRECTOR
+5.  PROGRAM DIRECTOR
+    
+6.  OPERATING MANAGER
     
 
 View More The Most
@@ -168,16 +167,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   When do the lines start for Star Wars Episode VII?
-*   Sam Mellinger | These fixes wont do anything for Chiefs
-*   NZealand beaching proves rarest of whales exists
-*   Woman dies from accident near downtown Kansas City
-*   Romeo Crennel removes himself as the Chiefs’ defensive coordinator
-*   KU beats pesky Washburn 62-50 in exhibition hoops
-*   Two killed in small plane crash in southwest Missouri
-*   ‘Creepy’ camera irks Platte City family
-*   Court upholds law against sex between teacher, adult student
-*   What you need to know to vote Tuesday in Kansas or Missouri
+*   Missouri voters say no to tobacco tax hike
+*   Senate race offers one final twist: A decisive McCaskill win
+*   On social media: Obamas victory speech. Twitters 20-million-tweet day. Romney concedes
+*   Akin can blame loss in Senate race on his own words
+*   Prominent KC lawyer is disbarred
+*   Chiefs decision to release Routt baffles his agent
+*   FedEx plane crashes south of Wichita Mid-Continent Airport. Lawrence man dead
+*   With Routt gone, Arenas is the next man up at cornerback
+*   Two states say yes to gay marriage. two OK legal marijuana
+*   Text of Barack Obama's speech after re-election
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
