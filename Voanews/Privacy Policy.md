@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Voting Begins in US Presidential Election
-*   Car Bomb Explodes Near Iraqi Army Base
+*   Obama Wins Re-election
+*   China’s New Leaders Face Rise of Individual
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
