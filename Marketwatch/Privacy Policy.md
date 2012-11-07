@@ -1,4 +1,10 @@
-Bulletin Investor Alert Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
+Bulletin Investor Alert Stocks slammed
+
+New York Markets Close in:
+
+After Hours Preview Winners and Losers
+
+Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
@@ -192,107 +198,99 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:05 AM EST November 7, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 2:54 PM EST November 7, 2012 /marketstate/country/us New York Open /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:03a
+/news/latest1.  2:51p
     
-    Macy's sees 2012 profit of $3.35-$3.40
+    Oil settles back below $85, down nearly 5%
     
-2.  8:01a
+2.  2:50p
     
-    Macy's Q3 net 36c vs 32c
+    B. of A., Morgan Stanley paint financials red
     
-3.  8:01a
+3.  2:38p
     
-    Updates, advisories and surprises
+    Crude-oil futures drop 4.8% at close
     
-4.  8:00a
+4.  2:38p
     
-    Plexus Corp. down 24.7% in premarket
+    Dec. oil down $4.27 to settle at $84.44/bbl
     
-5.  7:56a
+5.  2:38p
     
-    Europe stocks erase gains as banks move lower
+    Dec. heating oil down 3%, gasoline falls 4.1%
     
-6.  7:56a
+6.  2:35p
     
-    VirnetX up 29% in premarket
+    Gold slips. market mulls dollar, debt woes, Obama
     
-7.  7:55a
+7.  2:35p
     
-    Molson Coors profit rises on 25% sales jump
+    Say it in 63 seconds or less, and hit send
     
-8.  7:52a
+8.  2:34p
     
-    U.S. stock futures slump in post-election action
+    Qualcomm helped, hurt by close Apple ties
     
-9.  7:47a
+9.  2:31p
     
-    Euro drops. Draghi says debt crisis hits Germany
+    Whole Foods on deck after hours
     
-10.  7:46a
+10.  2:30p
     
-    Sprint Nextel paying $480 mln for Midwest spectrum
+    Coming up: Consumer credit for September
     
-11.  7:46a
+11.  2:27p
     
-    Investors talk about stocks, bonds after Obama's win
+    Radio Update: Investors looking over fiscal cliff
     
-12.  7:40a
+12.  2:22p
     
-    Molson Coors Q3 net $1.09 vs $1.05
+    Taxes a moving target in fiscal cliff deal
     
-13.  7:40a
+13.  2:15p
     
-    Molson Coors Q3 adj net $1.37 vs $1.14
+    Wednesday’s biggest movers: Boeing plans layoffs
     
-14.  7:36a
+14.  2:12p
     
-    Time Warner profit climbs on Networks unit growth
+    Time Warner: Hurrah for movie franchises
     
-15.  7:34a
+15.  2:10p
     
-    Sprint Nextel buying spectrum for $480 million
+    High end hit hard in retail’s post-election worry
     
-16.  7:34a
+16.  2:00p
     
-    Sprint Nextel in deal with U.S. Cellular
+    Gold ends lower. dollar rise outweighs Obama win
     
-17.  7:29a
+17.  1:55p
     
-    DJIA futures now down 98 pts to 13,103
+    Dollar at 2-month high. stocks fall after election
     
-18.  7:28a
+18.  1:55p
     
-    Europe stocks trim gains, Stoxx 600 wobbles
+    Gold futures settle slightly lower for the session
     
-19.  7:27a
+19.  1:55p
     
-    Crude futures off $1.28, or 1.4%, to $87.45 barrel
+    Dec. gold falls $1 to settle at $1,714/oz
     
-20.  7:26a
+20.  1:46p
     
-    Big earnings on Wednesday: WellPoint, Time Warner
+    Boeing to close some Calif. facilities
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 13,245.68 +133.24 +1.02% nasdaq /quotes/zigman/123127 3,011.93 +12.27 +0.41% s&p 500 /quotes/zigman/3870025 1,428.39 +11.13 +0.79% Kiosk
+dow /quotes/zigman/627449 12,959.27 -286.41 -2.16% nasdaq /quotes/zigman/123127 2,941.21 -70.72 -2.35% s&p 500 /quotes/zigman/3870025 1,397.52 -30.87 -2.16% Kiosk
 
 *   1341573300000 1341592200000
     
     From Fox Business
     
-        gary smith  
-    Scooping up beaten-down stocks  
-    Between Sandy and the election, simple stock-picking takes a back seat, but that doesn't mean we shouldn't at least take a look around.  /conga/kiosk/marketfox.html 234092
-*   1332374700000 1332461400000
-    
-    The Trading Deck
-    
-    Michael gayed  
-    Forget the election: Stocks warned  
-    It can be difficult to determine what is and is not important to the market. In this case, a collapse in the Greek market may overshadow an election.  
-    /conga/kiosk/trading-deck-5.html 234090
+        emily driscoll  
+    4 alternatives to college  
+    With the economy still struggling, many potential students are having second thoughts about higher education, as the cost of a degree spirals skyward.  /conga/kiosk/marketfox.html 234582
 *   1238817600000 1270353600000
     
     Cars
@@ -300,13 +298,13 @@ dow /quotes/zigman/627449 13,245.68 +133.24 +1.02% nasdaq /quotes/zigman/123127 
     Dream wheels for 007  
     James Bond needs to trade in his outdated "Skyfall" DB5 for this new $300,000 beast of an Aston Martin Vanquish, says Dan Neil.   
     233901
-*   1330965900000 1330992600000
+*   1332953700000 1332979800000
     
     The Trading Deck
     
-      kevin marder  
-    Why the glass may be half full  
-    The backdrop is improving. Notwithstanding the impact it may have on certain sectors, the election shouldn't affect the averages in a material way.   /conga/kiosk/trading-deck-4.html 234193
+    L.A. Little  
+    The best trade setup is setting up  
+    Whenever you can get a move in one direction off of multiple levels over multiple time frames, you have one heck of a set up. That may be happening now. /conga/kiosk/trading-deck-7.html 234568
 *   1347087600000 1347213600000
     
     Your Health
