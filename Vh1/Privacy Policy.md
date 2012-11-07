@@ -11,7 +11,7 @@
 *   Shop
 *   VH1 Costar
 
-VH1 BlogVH1 Tuner Music BlogVH1 CelebrityBest Week EverVH1 MobileVH1 ClassicAll VideosFull EpisodesMusic VideosBehind The MusicGreatest ListsMusic VideosPop Up VideoPostedVH1 ClassicVH1 Soul VH1 StorytellersVH1 Top 20VH1 Tuner Music BlogYou Oughta KnowUnpluggedArtists A-ZCelebrity GossipVH1 BlogGreatest ListsMovie GossipVH1 &. Celeb Photos VH1 EMAILVH1 MUSIC AND  
+VH1 BlogVH1 Tuner Music BlogVH1 CelebrityBest Week EverVH1 MobileVH1 ClassicAll VideosFull EpisodesMusic VideosArtists.VH1Behind The MusicGreatest ListsMusic VideosPop Up VideoPostedVH1 ClassicVH1 Soul VH1 StorytellersVH1 Top 20VH1 Tuner Music BlogYou Oughta KnowUnpluggedCelebrity GossipVH1 BlogGreatest ListsMovie GossipVH1 &. Celeb Photos VH1 EMAILVH1 MUSIC AND  
 NEWS STRAIGHT  
 TO YOU» VH1 COSTARWatch Video  
 \+ More» VH1 EMAILGET YOUR DAILY  
@@ -257,7 +257,7 @@ Copyright © 2011 MTV Networks, a division of Viacom International Inc. - All Ri
 4.  Music
 5.  Shows
 6.  Gossip &. Pics
-7.  Browse Artist A-Z
+7.  Artists.VH1
 8.  VH1 TV Schedule
 9.  GO Web
 
