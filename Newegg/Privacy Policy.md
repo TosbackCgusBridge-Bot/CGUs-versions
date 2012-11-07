@@ -24,6 +24,9 @@ If you see this message, your web browser doesn't support JavaScript or JavaScri
     Tools &. ResourcesNotebook Buying GuideTablet Buying GuideMemory FinderBattery FinderExtended Service Plans
     
 *   Ultrabooks Ultrabooks
+    
+    Screen Size
+    
 *   Electronics Electronics
     
     TelevisionsHome VideoBlu-Ray PlayersHome AudioReceiversHome Audio SpeakersHome Theater in a BoxPortable ElectronicsApple StoreHeadphones &. AccessoriesMP3 Players &. AccessoriesGPS &. AccessoriesTablets &. Accessories
@@ -86,7 +89,7 @@ If you see this message, your web browser doesn't support JavaScript or JavaScri
     
 *   Warranty &. Services Warranty &. Services
     
-    Extended Service PlansData Recovery
+    Extended Service PlansData RecoveryInstallation - Home Theater
     
 *   More More
     
