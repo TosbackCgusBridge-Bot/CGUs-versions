@@ -114,8 +114,8 @@ Popular cities
 *   Flights to Orlando
 *   Flights to Los Angeles
 *   Flights to Miami
-*   Flights to Atlanta
 *   Flights to Chicago
+*   Flights to Atlanta
 *   Flights to Phoenix
 *   Flights to Fort Lauderdale
 *   Flights to Honolulu
