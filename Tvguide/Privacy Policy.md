@@ -73,11 +73,11 @@ What's Hot
 
 Sweeps Roundup
 
-Kristen Bell Pregnant
+_NCIS_ Cast Tells All
 
-_Walking Dead_ Postmortem
+Harrison Ford Returning to _Star Wars_?
 
-See Snooki Without Makeup
+_The Voice_ Playoffs
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -138,9 +138,9 @@ more popular celebrities Most Popular Movies
 more popular movies Top Videos
 
 1.  The Vampire Diaries
-2.  Arrow
-3.  Supernatural
-4.  The Vampire Diaries
+2.  The Vampire Diaries
+3.  Lauren Graham's Watchlist
+4.  Peter Krause's Watchlist
 5.  Hart of Dixie
 
 more top videos
