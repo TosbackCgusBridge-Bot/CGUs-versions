@@ -27,7 +27,7 @@ close x Search Catalog Search Catalog Navigation
             *   Table Linens
             *   Dining Furniture
             *   Clearance
-            *   Special SavingsSave on our Luminous Porcelain Dinnerware. Get set for Thanksgiving with a true classic
+            *   Special SavingsSave on all placemats, napkins and napkin rings. Order by November 13, and you’ll be set for Thanksgiving delivery
         *   Home Decor &. Accents
             *   Accent Pieces
             *   Lighting
