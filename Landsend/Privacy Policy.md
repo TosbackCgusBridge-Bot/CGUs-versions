@@ -400,7 +400,7 @@ Homepage >. Customer Service >. Legal Policies >. Privacy
     *   Site Map
     *   Glossary
 
-Privacy To cancel a catalog subscription
+  Privacy To cancel a catalog subscription
 
 To cancel your subscription to any of our catalogs, please call **1-800-963-4816** or send an email to websiteinquiry@landsend.com. Please allow 2-4 weeks to process your request.
 
@@ -424,7 +424,7 @@ We ask you for certain kinds of personal information in order to provide you wit
 
 In addition, our site utilizes 'cookies.' Cookies do not gather any of your personally identifiable information. They do allow us to provide you with a more personalized shopping experience and enable you to fully interact with and complete your transaction on our site.
 
-Lands' End shares its customer information with its affiliated companies, including Sears® and Kmart®. We also may share your information with our business partners (below) in order to provide you with certain services. Finally, we do make our mailing list available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to websiteinquiry@landsend.com
+Lands' End shares its customer information with its affiliated companies, including SearsÂ® and KmartÂ®. We also may share your information with our business partners (below) in order to provide you with certain services. Finally, we do make our mailing list available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to websiteinquiry@landsend.com
 
 In addition, Lands' End cooperates in advertising member networks with other consumer entities where we may communicate your personal information so that select members may inform you about products or services that might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to websiteinquiry@landsend.com.
 
