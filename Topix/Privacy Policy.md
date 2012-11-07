@@ -8,19 +8,15 @@ Sign Up
 
 Sign In
 
-1 2 3
+1 2 3 Find all of your 2012 Election News on Politix
 
-Mitt Romney
+Gay Marriage
 
-Romney campaings into Election Day
-
-China
-
-Seeking no surprises during leadership change, China cracks do...
+French bill legalizing gay marriage goes to legislature after ...
 
 Politix
 
-Who are you voting for as president in the 2012 election?
+Are you happy that President Obama has been re-elected?
 
 *   Home
 *   Forums
@@ -279,7 +275,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 123,347 • Total comments across all topics: 190,276,727
+Comments made yesterday: 122,011 • Total comments across all topics: 190,386,377
 
 Copyright ©2012 Topix LLC
 
