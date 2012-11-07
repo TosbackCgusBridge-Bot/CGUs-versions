@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Tuesday 06 November 2012
+Wednesday 07 November 2012
 
 *   Home
 *   News
@@ -142,23 +142,24 @@ Problems with the Telegraph for iPad? Call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Arsenal have lost their will to win  
+A bitter sweet victory for Obama
 
-**Henry Winter:** culture of complacency has infected club from the boardroom all the way down to players.
+Barack Obama won four more years in power, but it was a bitter-sweet victory when set against the euphoria of 2008, writes **Peter Foster**.
 
 Comments
 
-China's digital revolution Ben Affleck talks about his new film, Argo Just don’t expect to get much done Halo 4 review Advertisement
+Damian Thompson: Religious Right is dead The golden fleecers Mancini blameless as City exposed again Why Primark has only scratched the surface Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
-US Election   The latest news on the US presidential election View DUNHILL TRAVEL DEALS   Most competitive travel deals and vacation packages View Telegraph for iPad free trial   Try The Telegraph for iPad free for 30 days View FREE PRIZE DRAW TO WIN £1,000   Share with us your favourite place in the world and win £1,000 View
+US Election   Obama re-elected as US president View FREE PRIZE DRAW TO WIN £1,000   Share with us your favourite place in the world and win £1,000 View Telegraph for iPad free trial   Try The Telegraph for iPad free for 30 days View DUNHILL TRAVEL DEALS   Most competitive travel deals and vacation packages View
 
 Back to top
 
 Hot Topics
 
 *   US Election
+*   Barack Obama
 *   Jimmy Savile
 *   Syria
 *   Weather
