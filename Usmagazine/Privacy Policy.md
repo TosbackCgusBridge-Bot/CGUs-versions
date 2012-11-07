@@ -17,9 +17,9 @@ Give a Gift
 
 Trending
 
-*   VIP Scene
+*   Love Lives
 *   |
-*   CMA Awards Style
+*   Celebs At The Polls
 *   |
 *   Watch TV With Us
 *   |
@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Blooming Berry »
+Hot Pics! Christina Rocks the Vote »
 
 Top Stories1.  PICTURES: Victoria Beckham Wears Flats, Is Shorter Than Son Brooklyn »
-2.  PICTURES: Lady Gaga Shows Off Fuller Bikini Body in Puerto Rico »
-3.  Rumer Willis Rocks Retro-Inspired Bikini in Hawaii »
-4.  FIRST PICTURE: Pregnant Kristen Bell Debuts Baby Bump »
-5.  Exclusive Kristen Bell, Dax Shepard Expecting a Baby! »
+2.  Kim Kardashian Flaunts Bod in Tiny String Bikini in Miami »
+3.  Melissa McCarthy: "Sometimes I Wish I Were Just Magically a Size 6" »
+4.  PICTURES: Lady Gaga Shows Off Fuller Bikini Body in Puerto Rico »
+5.  Giuliana, Bill Rancic's Baby Boy Edward Duke Gets Baptized! »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Defending Our Men
 
 Inside Us Weekly
 
-*   Style Rachel Bilson: ‘All men hate harem pants, b
-*   Beauty See Lena Dunham Without Makeup!
-*   Moms PICTURES: Victoria Beckham Wears Flats, Is Sh
-*   Body Rumer Willis Rocks Retro-Inspired Bikini in H  
-*   Entertainment Ryan Lochte: 25 Things You Don't Know About M
+*   Style Rachel Bilson: 'All men hate harem pants, but
+*   Beauty Christina Aguilera's Colorful Hair and Makeup
+*   Moms Devon Aoki Is Pregnant With Second Child -- S
+*   Body Kim Kardashian Flaunts Bod in Tiny String Bik  
+*   Entertainment Britney Spears: Mario Lopez Can Be My Backup
 
 *   US WEEKLY
 *   Celebrity News
