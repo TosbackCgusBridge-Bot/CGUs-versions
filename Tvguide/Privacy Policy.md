@@ -139,9 +139,9 @@ more popular movies Top Videos
 
 1.  The Vampire Diaries
 2.  The Vampire Diaries
-3.  Lauren Graham's Watchlist
-4.  Peter Krause's Watchlist
-5.  Hart of Dixie
+3.  Hart of Dixie
+4.  Lauren Graham's Watchlist
+5.  Peter Krause's Watchlist
 
 more top videos
 
