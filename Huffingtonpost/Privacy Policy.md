@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Elections 2012
+*   Hinduism
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -22,11 +22,11 @@ November 7, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
+    *   Trump: It's A 'Total Sham,' Time For 'Revolution'12k
     *   LIVE UPDATES: Election Results Roll In25k
     *   LIVE UPDATES: Voters Hit The Polls On Election Day 26k
-    *   Final Polls: Obama Leads10k
-    *   Early Voting Results 2012: Latest Figures From Key States3k
-    *   Chris Christie Slams 'Know-Nothing, Disgruntled Romney Staffers'5k
+    *   Obama Victory Speech: 'The Best Is Yet To Come'27k
+    *   Obama's Reelection Signals Rise Of New America16k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ November 7, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   Stock Market Has Picked An Election Winner769
-    *   Woman Pays $1 Million For House, Finds It's Infested With Mice162
-    *   4 CEOs That Threatened To Fire Workers If Obama Won358
-    *   Walmart Busts Dumb Thief 75
-    *   CEOs Urging Employees To Vote Romney: 'This Election Is Different'792
+    *   4 CEOs That Threatened To Fire Workers If Obama Won1k
+    *   Stock Market Has Picked An Election Winner880
+    *   Walmart Busts Dumb Thief 119
+    *   CEOs Urging Employees To Vote Romney: 'This Election Is Different'811
+    *   Stocks Plunge As Europe Reveals Bad Economic News1k
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ November 7, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   Melissa Joan Hart's Last-Minute Romney Endorsement3k
-    *   Motorhead Frontman: Romney Is A 'F---ing Monster'959
-    *   Bob Dylan: Obama Will Win In A 'Landslide'1k
-    *   No Doubt Takes Down Controversial Music Video1k
-    *   Is James Bond Bi? 'Skyfall' Screenwriter Discusses Controversial Scene163
+    *   Victoria Jackson LOSES IT Over Obama's Win3k
+    *   Band Abruptly Cancels Tour, Citing 'Internal Discord'186
+    *   Is James Bond Bi? 'Skyfall' Screenwriter Discusses Controversial Scene209
+    *   Motorhead Frontman: Romney Is A 'F---ing Monster'1k
+    *   The Real Reason Sarah Jessica Parker Hosted Obama12
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,10 +86,10 @@ November 7, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   Cell Phone Salesmen Allegedly Steal Nude Pics Of Customer While 'Transferring Data'248
-    *   Who Will Win The Election? 29
-    *   iPad Loses Ground To Rival Tablets 256
-    *   The 2 Photos That Will Determine The Fate Of Samsung's Huge New Phone209
+    *   Cell Phone Salesmen Allegedly Steal Nude Pics Of Customer While 'Transferring Data'322
+    *   The Most Popular Facebook Photo Ever19
+    *   Who Will Win The Election? 30
+    *   iPad Loses Ground To Rival Tablets 267
     *   13 Dogs Who Committed Voter Fraud
     
     Go to Tech **More in Tech**
@@ -109,10 +109,10 @@ November 7, 2012 Edition: **U.S.**
 *   Media
     
     *   Did Sean Hannity Just Break The Law?5k
-    *   Fox News Argues With Itself Over Whether Obama Won3k
-    *   WATCH: Rather's Warning To Obama Supporters1k
-    *   The Biggest Moments From 2012 Election Coverage137
-    *   TV News Networks Unite In Major Decision656
+    *   Fox News Argues With Itself Over Whether Obama Won7k
+    *   WATCH: Brian Williams Condemns Donald Trump1k
+    *   Diane Sawyer Drunk Rumor Explodes On Twitter845
+    *   Nate Silver Takes A Victory Lap1k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ November 7, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   PHOTOS: World Watches Election Results Trickle In185
-    *   If The World Could Vote, They'd Vote For... 7k
-    *   American Student Arrested In Rome Stabbing214
-    *   LOOK: Obama Wins HuffPost Front Pages Around The World35
-    *   World Reacts To Obama's Victory106
+    *   PHOTOS: World Watches Election Results Trickle In205
+    *   World Reacts To Obama's Victory1k
+    *   Divers Find Sunken Russian Ship Carrying Tons Of Gold Ore32
+    *   Netanyahu Faces Rocky Road After Obama Re-Election1k
+    *   LOOK: Front Pages Around The World Mark Obama Victory29
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ November 7, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Fit For Duty: How Obama And Romney Stack Up On BMI, Physical Fitness And More56
-    *   Sharon Osbourne Undergoes Double Mastectomy After Finding She Has Breast Cancer Gene75
+    *   10 Ways To Lower Your Blood Pressure Naturally19
+    *   Fit For Duty: How Obama And Romney Stack Up On BMI, Physical Fitness And More64
     *   New Class Of Cholesterol Drugs Shows Promise In Trials
-    *   How Much Exercise Does It Take To Burn Off A Coke?21
-    *   Get Stressed Easily? It Could Affect Your Health Later On
+    *   Sharon Osbourne Undergoes Double Mastectomy After Finding She Has Breast Cancer Gene78
+    *   How Much Exercise Does It Take To Burn Off A Coke?28
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -173,11 +173,11 @@ November 7, 2012 Edition: **U.S.**
     *   OWN
 *   Style
     
-    *   PHOTOS: Christina Aguilera Wears Hot Pink Braided Hairstyle328
-    *   Brazilian Model Dies During Liposuction613
-    *   New Orleans Beauty Guru Posts Video Claiming She Was Raped By Her Father841
-    *   Kim Kardashian Wants To Be Friends With Kate Middleton 92
-    *   PHOTOS: Michelle Obama Celebrates Barack's Second Election Victory In Style58
+    *   PHOTOS: Michelle Obama Celebrates Barack's Second Election Victory In Style312
+    *   New Orleans Beauty Guru Posts Video Claiming She Was Raped By Her Father1k
+    *   PHOTO: Sarah Takes Us Back To 1989516
+    *   PHOTO: Michelle Obama Kills It In ASOS Africa32
+    *   PHOTOS: Ann Romney Finishes The Election In Red197
     
     Go to Style **More in Style**
     
@@ -195,11 +195,11 @@ November 7, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   'What The F\*ck Are You People Doing There?'1k
     *   You'd Think Rick Santorum Understood Double Entendre By Now1k
-    *   23 Dogs Who Are Over The Election34
+    *   'What The F\*ck Are You People Doing There?'1k
     *   Tweets From Romney's Funniest Critic
     *   The Best Political Memes Of The Year
+    *   'Claire McCaskill Has Legitimately Raped Todd Akin'267
     
     Go to Comedy **More in Comedy**
     
@@ -216,11 +216,11 @@ November 7, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next Voting Problems
-    *   Next Post Partisan-Depression
-    *   Coming Up The GOD Vote
-    *   Coming Up Mr. Chairman....
-    *   Coming Up Colorblind PoliticsGo to HuffPost Live
+    *   Now The Republican Hangover
+    *   Next The GOD Vote
+    *   Coming Up The Blame Game
+    *   Coming Up Gay Marriage Ballots Win
+    *   Coming Up Mr. Chairman....Go to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
