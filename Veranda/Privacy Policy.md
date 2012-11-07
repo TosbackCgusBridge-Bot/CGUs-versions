@@ -11,11 +11,11 @@ Most Viewed
 
 Most Searched
 
-1.  jewelry
-2.  bedrooms
-3.  designer inspiration
-4.  holiday
-5.  upholstered headboard
+1.  designer inspiration
+2.  holiday rooms
+3.  christmas
+4.  bedrooms
+5.  bathroom
 
 Magazine | RSS
 
