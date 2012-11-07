@@ -157,11 +157,11 @@ Edmunds.com Edmunds InsideLine
 
 More on Edmunds
 
-*   Car Videos
 *   Compare Popular Vehicles
-*   2012 Paris Auto Show
-*   Auto Calculators
-*   Consumers' Favorites: Vote Now: Best Off-Roader
+*   Car Picture Galleries
+*   Car News
+*   Guide for First-Time New-Car Buyers
+*   Auto Shows
 
 Explore Edmunds
 
