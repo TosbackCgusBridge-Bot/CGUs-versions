@@ -1,11 +1,3 @@
-FilesTube  Groups  Video  Games  Lyrics  Software  Message Box  Alerts  More▼APPSNEW! EnglishYou are not logged in Log in | Sign up History  
-Deutsch  
-English  
-Español  
-Français  
-Polski  
-Русский  
-中文  
 Privacy Policy
 
 **FilesTube Privacy Policy**
@@ -179,17 +171,3 @@ Red Sky Sp. z o. o. hereby declares as follows:
 **How to contact us**
 
 If You have questions or comments about this Privacy Policy, please email us at support@filestube.com
-
-  
-  
-stephen king kindle 0s    gianna michaels 0s    deshi 3gp 0s    day vaginal 0s    anal supersluts 0s    slipknot 0s    new girl s02e04 0s    groped 0s    crack dos2usb 0s    classic porn black 1s    free sexy video download from… 1s    gnomon workshop global… 1s    a simple plan dvdrip 1s    club dance hits 2012 1s    club dances 1s    landscape sustainability 1s    desert storm 2 pc game 1s    dead game 1s    day of mourning 1s    jiggly 0s    schiller 0s    skyfall 2012 0s    rapidshare grannies 0s    one direction take me home 0s     
-  
-
-About | Privacy | Terms | DMCA Policy | Contact | Api | Trends | Recent searches
-
-  
-
-FilesTube lets you search for shared files from various file hosting sites like:  
-Uploaded.to, Rapidgator.net, Netload.in, 4shared.com, Extabit.com, Turbobit.net, Mediafire.com and many others.
-
-Copyright 2012 © FilesTube.com, 476,880,087 files indexed
