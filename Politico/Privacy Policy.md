@@ -113,54 +113,54 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/06/2012 7:02 AM ET
+Updated: 11/07/2012 7:02 AM ET
 
-1.  1 Obama, not-so-happy warrior
-2.  2 Red-state Dems fight Obama drag
-3.  3 Early election results, via NBC
-4.  4 Romney Mormon video goes viral
-5.  5 Report: Christie turned down Romney rally request
-6.  6 The final hours
-7.  7 If Obama loses…
-8.  8 Election overtime: A winless Wednesday?
-9.  9 Cutter: Pennsylvania has 'tightened'
-10.  10 The looming GOP civil war
+1.  1 Gary Johnson: Obama will win
+2.  2 Bill O'Reilly: 'The white establishment is now the minority'
+3.  3 Chrysler gives workers day off to vote
+4.  4 Karl Rove: Fox News Ohio call 'premature'
+5.  5 Christie lashes 'know-nothing, disgruntled' Romney aides
+6.  6 Early election results, via NBC
+7.  7 Fox News obsessed with lone Black Panther
+8.  8 Huckabee slams GOP on minority outreach
+9.  9 Obama: I can do 'Gangnam Style' dance
+10.  10 MSNBC weighs in on Karl Rove
 
-Updated: 11/06/2012 7:02 AM ET
+Updated: 11/07/2012 7:02 AM ET
+
+1.  1 Chrysler gives workers day off to vote
+2.  2 Early election results, via NBC
+3.  3 Christie lashes 'know-nothing, disgruntled' Romney aides
+4.  4 Obama, not-so-happy warrior
+5.  5 Obama sheds a tear at final campaign rally
+6.  6 Gary Johnson: Obama will win
+7.  7 Red-state Dems fight Obama drag
+8.  8 Fox News obsessed with lone Black Panther
+9.  9 Bill O'Reilly: 'The white establishment is now the minority'
+10.  10 Romney Mormon video goes viral
+
+Updated: 11/07/2012 7:02 AM ET
 
 1.  1 Early election results, via NBC
-2.  2 Obama, not-so-happy warrior
-3.  3 The looming GOP civil war
-4.  4 If Obama loses…
-5.  5 If Romney loses…
-6.  6 Romney Mormon video goes viral
-7.  7 Dems' drive to retake House falters
-8.  8 Early voting results 2012
-9.  9 Red-state Dems fight Obama drag
-10.  10 Axelrod: 'They're in deep trouble'
-
-Updated: 11/06/2012 7:02 AM ET
-
-1.  1 Axelrod: 'They're in deep trouble'
-2.  2 Early election results, via NBC
-3.  3 Dems' drive to retake House falters
-4.  4 Obama, not-so-happy warrior
-5.  5 The looming GOP civil war
+2.  2 Chrysler gives workers day off to vote
+3.  3 Obama, not-so-happy warrior
+4.  4 The looming GOP civil war
+5.  5 Romney Mormon video goes viral
 6.  6 If Obama loses…
 7.  7 If Romney loses…
-8.  8 Romney Mormon video goes viral
-9.  9 Early voting results 2012
-10.  10 AFF poll: Minnesota a toss-up
+8.  8 Dems' drive to retake House falters
+9.  9 Christie lashes 'know-nothing, disgruntled' Romney aides
+10.  10 Red-state Dems fight Obama drag
 
-Updated: 11/06/2012 7:02 AM ET
+Updated: 11/07/2012 7:02 AM ET
 
 1.  1 Axelrod: 'They're in deep trouble'
 2.  2 Early election results, via NBC
-3.  3 Gallup suspends daily tracking poll
-4.  4 Dems' drive to retake House falters
-5.  5 Former Hillary aide backs Romney
-6.  6 Christie was Mitt's VP first choice
-7.  7 Obama, not-so-happy warrior
+3.  3 Chrysler gives workers day off to vote
+4.  4 Obama, not-so-happy warrior
+5.  5 Dems' drive to retake House falters
+6.  6 Former Hillary aide backs Romney
+7.  7 Christie was Mitt's VP first choice
 8.  8 Iowa to poll-watchers: Back off
 9.  9 Obama early vote edge tenuous
 10.  10 AFF poll: Minnesota a toss-up
@@ -170,72 +170,72 @@ Updated: 11/06/2012 7:02 AM ET
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/06/2012 7:02 AM ET
+Updated: 11/07/2012 7:02 AM ET
 
-1.  1 Lame duck looking lamer
-2.  2 9 takeaways from the 2012 election
-3.  3 5 things to watch on election night
-4.  4 Next Congress to bring diversity
-5.  5 If Dems keep Senate, GOP gets blame
-6.  6 Get values back into politics
-7.  7 Reelecting the War on Terror
-8.  8 Newt: Bill Clinton 'collecting IOUs'
-9.  9 Cutter: Pennsylvania has 'tightened'
-10.  10 McCain: Vets upset after Libya
+1.  1 Rep. West's race still undecided
+2.  2 GOP soul-searching must now begin
+3.  3 'Hair flag lady' stars at Obama speech
+4.  4 Heitkamp on brink of upset win
+5.  5 Obama claims victory: 'Long campaign now over'
+6.  6 Obama's speech: 5 best lines
+7.  7 12 takeaways from Obama's win
+8.  8 Exit polls 2012: How Obama won
+9.  9 Romney's speech: 5 best lines
+10.  10 Schmidt: GOP must muzzle Rush
 
-Updated: 11/06/2012 7:02 AM ET
+Updated: 11/07/2012 7:02 AM ET
 
-1.  1 Lame duck looking lamer
-2.  2 9 takeaways from the 2012 election
-3.  3 5 things to watch on election night
-4.  4 Next Congress to bring diversity
-5.  5 If Dems keep Senate, GOP gets blame
-6.  6 Get values back into politics
-7.  7 Reelecting the War on Terror
-8.  8 Newt: Bill Clinton 'collecting IOUs'
-9.  9 Cutter: Pennsylvania has 'tightened'
-10.  10 McCain: Vets upset after Libya
+1.  1 Rep. West's race still undecided
+2.  2 GOP soul-searching must now begin
+3.  3 'Hair flag lady' stars at Obama speech
+4.  4 Heitkamp on brink of upset win
+5.  5 Obama claims victory: 'Long campaign now over'
+6.  6 Obama's speech: 5 best lines
+7.  7 12 takeaways from Obama's win
+8.  8 Exit polls 2012: How Obama won
+9.  9 Romney's speech: 5 best lines
+10.  10 Schmidt: GOP must muzzle Rush
 
-Updated: 11/06/2012 7:02 AM ET
+Updated: 11/07/2012 7:02 AM ET
 
-1.  1 Lame duck looking lamer
-2.  2 9 takeaways from the 2012 election
-3.  3 5 things to watch on election night
-4.  4 Next Congress to bring diversity
-5.  5 If Dems keep Senate, GOP gets blame
-6.  6 Get values back into politics
-7.  7 Reelecting the War on Terror
-8.  8 Newt: Bill Clinton 'collecting IOUs'
-9.  9 Cutter: Pennsylvania has 'tightened'
-10.  10 McCain: Vets upset after Libya
+1.  1 Rep. West's race still undecided
+2.  2 GOP soul-searching must now begin
+3.  3 'Hair flag lady' stars at Obama speech
+4.  4 Heitkamp on brink of upset win
+5.  5 Obama claims victory: 'Long campaign now over'
+6.  6 Obama's speech: 5 best lines
+7.  7 12 takeaways from Obama's win
+8.  8 Exit polls 2012: How Obama won
+9.  9 Romney's speech: 5 best lines
+10.  10 Schmidt: GOP must muzzle Rush
 
-Updated: 11/06/2012 7:02 AM ET
+Updated: 11/07/2012 7:02 AM ET
 
-1.  1 Lame duck looking lamer
-2.  2 9 takeaways from the 2012 election
-3.  3 5 things to watch on election night
-4.  4 Next Congress to bring diversity
-5.  5 If Dems keep Senate, GOP gets blame
-6.  6 Get values back into politics
-7.  7 Reelecting the War on Terror
-8.  8 Newt: Bill Clinton 'collecting IOUs'
-9.  9 Cutter: Pennsylvania has 'tightened'
-10.  10 McCain: Vets upset after Libya
+1.  1 Rep. West's race still undecided
+2.  2 GOP soul-searching must now begin
+3.  3 'Hair flag lady' stars at Obama speech
+4.  4 Heitkamp on brink of upset win
+5.  5 Obama claims victory: 'Long campaign now over'
+6.  6 Obama's speech: 5 best lines
+7.  7 12 takeaways from Obama's win
+8.  8 Exit polls 2012: How Obama won
+9.  9 Romney's speech: 5 best lines
+10.  10 Schmidt: GOP must muzzle Rush
 
 Showing Last 7 Days
 
-Updated: 11/06/2012 7:02 AM ET
+Updated: 11/07/2012 7:02 AM ET
 
-1.  1 The looming GOP civil war
-2.  2 Christie was Mitt's VP first choice
-3.  3 Obama early vote edge tenuous
-4.  4 Jobs report puts economy back in campaign spotlight
-5.  5 Liberals fear grand bargain betrayal
-6.  6 Poll-watchers: States out of line
-7.  7 Rove: 279 electoral votes for Mitt
-8.  8 Radio: The other air war
-9.  9 1 week, 2 versions of reality
-10.  10 Sandy forces anti-politics politics
+1.  1 Four more for 44
+2.  2 The looming GOP civil war
+3.  3 Christie was Mitt's VP first choice
+4.  4 Obama early vote edge tenuous
+5.  5 Jobs report puts economy back in campaign spotlight
+6.  6 Liberals fear grand bargain betrayal
+7.  7 Poll-watchers: States out of line
+8.  8 Rove: 279 electoral votes for Mitt
+9.  9 Radio: The other air war
+10.  10 1 week, 2 versions of reality
 
 News
 
