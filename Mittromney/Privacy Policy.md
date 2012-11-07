@@ -33,7 +33,7 @@ Skip to Main Content Area Home   X Connect With Mitt Follow @MittRomney Login |
 *   News &. Media
     
     *   Featured Blog
-    *   A Better America Begins Tomorrow Read More
+    *   A Few More Hours Read More
     *   More News
     
     *   Videos
