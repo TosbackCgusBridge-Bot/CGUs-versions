@@ -207,7 +207,7 @@ Scottrade, Inc. and Scottrade Bank are separate but affiliated companies and are
 
 Online market and limit stock trades are just $7 for stocks priced $1 and above.  
   
-\*May 2012, Smart Money recognized Scottrade as its overall second-highest ranking broker, with the highest score for fees and commissions and banking services.  
+1May 2012, Smart Money recognized Scottrade as its overall second-highest ranking broker, with the highest score for fees and commissions and banking services.  
 
 Scottrade does not charge setup, inactivity or annual maintenance fees. Applicable transaction fees still apply.  
 
@@ -229,6 +229,6 @@ Market volatility, volume, and system availability may impact account access and
   
 Testimonials may not be representative of the experience of other clients and are no guarantee of future performance or success.  
   
-Scottrade® and the Scottrade® logo are the registered and unregistered trademarks of Scottrade, Inc. and its affiliates.  
+Scottrade®, the Scottrade® logo, and all other trademarks, whether registered or unregistered, are the property of Scottrade, Inc. and its affiliates.  
   
 © 2012 Scottrade, Inc. All rights reserved.
