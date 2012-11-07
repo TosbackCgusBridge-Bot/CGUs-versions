@@ -1,3 +1,5 @@
+*   $39 &. $59 DRESSES!  
+    Shop Now >.
 *   Save $20 On Your First Purchase of $100 Or More\*  
     Sign Up for JNY.com Emails >.
 *   Build Your Wardrobe &. Save With JNY Rewards  
