@@ -68,6 +68,11 @@ From the HootSuite Blog Watch the Social Media Race with HootSuite’s 2012 Elec
 Want to see who is winning the “social media race” on the road to the 2012...  
 Read More
 
+Social Media Compliance ~ An Interview with CMP.LY
+
+One of the biggest risks for brands is losing consumer trust. Transparency can be a...  
+Read More
+
 How to Use Social Video to Drive Results ~ HootSuite University Lecture Series
 
 Inspiring, shocking, cute, sexy, fearful, angry, controversial. These are just a few of the emotive...  
@@ -76,11 +81,6 @@ Read More
 #OwlOween Contest Winners
 
 After combing through dozens of submissions, we’ve reached a consensus for HootSuite’s #OwlOween Costume Contest winners....  
-Read More
-
-The Importance of Collaboration in the Social Realm
-
-As Director of HootSuite’s Partner Program, I work with agencies and consultants to help drive...  
 Read More
 
 About Company Leadership Careers Contact Us Product Features Mobile App Directory Downloads Pricing Services HootSuite University Help Desk Feedback FAQ Translation Project Media Media Kit Press Releases Events Partner Becoming a Partner Solution Partners Integration Partners Affiliates API Legal Terms &. Conditions Privacy Policy ©2012 HootSuite Media Inc. All Rights Reserved. Language: Chinese Traditional (繁體中文)EnglishFrench (Français)German (Deutsch)Indonesian (Bahasa Indonesia)Italian (Italiano)Japanese (日本語)Polish (Język polski)Português (Brasil)Spanish (Español)
