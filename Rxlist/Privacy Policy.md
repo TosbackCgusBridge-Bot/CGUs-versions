@@ -296,11 +296,11 @@ Featured Topics
 
 New &. Updated
 
-*   Anafranil
-*   Antivert
-*   Clomid
-*   Synribo
+*   Avastin
+*   Micardis
+*   Pamelor
 *   Teflaro
+*   Velcade
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
