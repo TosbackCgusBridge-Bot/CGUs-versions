@@ -4,14 +4,14 @@
 *   Hot Topics
     *   Election 2012
     *   Obama 2012
-    *   Hurricane Sandy
     *   Mitt Romney 2012
-    *   timeless news
-    *   President Obama
-    *   New York City
+    *   Mitt Romney
     *   New Jersey
-    *   entertainment
-    *   celebrity
+    *   President Obama
+    *   Barack Obama
+    *   New York City
+    *   Republicans
+    *   timeless news
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -37,7 +37,7 @@
     *   MEDIA
     *   SPORTS
 
-Election 2012 Your Official Guide to Election Night »   |   Historic Tie in 1st Town to Vote » NJ, NY Adjust Voting Rules »   |   6 Key Senate Races to Watch » Newser Privacy Policy
+Four More Years Barack Obama Wins 2nd Term He's 'more inspired than ever'. Romney concedes » Newser Privacy Policy
 
 Please read this Privacy Policy (last revised as of March 1, 2010) before using this service. By continuing to use Newser.com, you acknowledge that you have read and agree to the terms of this policy.
 
@@ -120,63 +120,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   The Other Ohio Campaigns
-*   Obummer vs. Mittens
-*   Why Is the Surface So Bad?
+*   Silver Medal
+*   Akin's Legacy: The Crazy Line
+*   Drudge Handled Obama's Win Just About How You'd Expect
 
 More from Slate »
 
-*   THE DARK KNIGHT SPEAKS: Real-Life Batman Tells All
-*   WATCH: Airplane Takes Top Off SUV
-*   Monarch Butterfly Flies South -- On An Airplane
+*   Lobsters Stolen For Drug Habit, Thief Faces 25 Years
+*   Man-Eating Leopard Craves 'Salty' Human Blood, Scientist...
+*   Sounds Fishy: Raw Details On Sushi Cologne
 
 More from HuffPost Weird »
 
-*   Miley Cyrus Offered $1 Million For “Hannah Montana” Porn
-*   VA Candidate’s Campaign HQ Vandalized With “Baby Killer”
-*   Leonard DiCaprio Gets All Up In Robsten’s Business
+*   13 Celebs Rocking The Vote
+*   Barack Obama Wins 4 More Years As The President Of The...
+*   2012 Election Night Live Blog!
 
 More from The Frisky »
 
-*   Heineken executive appears on CNBC to extol its health...
-*   Man sends postcard to explain that he stole neighbor's...
-*   Can the GOP Etch-a-Sketch a Romney win, or will Obama debut...
+*   With many of the precincts now reporting in, news...
+*   Psychologists attempt to answer the question: Why is it so...
+*   Woman briefly barred from voting for wearing an MIT t-shirt...
 
 More from Fark »
 
-*   Election Night 2012: A viewer's guide
-*   Why President Obama (or Romney) must tackle Alzheimer's
-*   Spite and revenge is the new hope and change
+*   10 election results you missed
+*   The multibillion-dollar 2012 election: By the numbers
+*   Democrats hold the Senate: What it means
 
 More from The Week »
 
-*   Christie’s Dream of Befriending Springsteen Finally Comes...
-*   New York Crime Is (Mostly) Down After Sandy
-*   Frank Rich on Maddow: GOP Changing Its Tune on Latino Voters
+*   Michele Bachmann Almost Lost Her House Seat
+*   How He Did It: Obama Sweeps Battleground States, Gets Boost...
+*   Gay Marriage, Legal Pot Lead Liberal-Pleasing Election Night
 
 More from Daily Intel »
 
-*   Ask Healthy Living: Do You Really Need To Drink Water After...
-*   Forewarned Is Forearmed, Except When It Isn't
-*   Charge Up and Vote: Two Election Day Playlists
+*   An Open Letter To The Presidential Candidates, From...
+*   5 Ways to Cope With Election Stress
+*   The Great Cholesterol Myth
 
 More from HuffPost Health »
 
-*   Lady Gaga Flaunts Curves in Skimpy Bikini in Puerto Rico...
-*   One Direction's Harry Styles Opens Up About Sex: 'I Was...
-*   Sam Worthington Arrested: Security Guard Hasn’t Ruled Out...
+*   Election 2012 TV Viewing Guide: How the Networks Are...
+*   'Real Housewives of Beverly Hills' Premiere: Alex McCord...
+*   Giuliana and Bill Rancic Celebrate Baby Duke's Baptism...
 
 More from Celebuzz »
 
-*   Lil Wayne Loses Lawsuit and Now He REALLY Has Money on His...
-*   'DWTS' Recap: Kirstie Alley Should Dance Her Last Dance
-*   'Real Housewives of Beverly Hills' Season 3 Premiere Recap:...
+*   5 Pieces of Clothing Every Mom Needs in an Emergency
+*   5 Ways to Decorate Your House for Thanksgiving on the Cheap
+*   Donald Trump's Election Twitter Meltdown Gets Hilariously...
 
 More from The Stir »
 
-*   Will Ferrell Will Do Anything for You, If You Just Vote for...
-*   Creed Has Storm Victims Covered
-*   The Spot: Can't Buy Me Love
+*   4 Finalists Emerge in Charles Schwab Review
+*   Eight Local Political Spots With Huge Pricetags
+*   Ad of the Day: Hillshire Farm
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
