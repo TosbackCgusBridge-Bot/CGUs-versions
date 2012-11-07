@@ -497,12 +497,12 @@ Would you like to receive special offers, promotions, coupons, and free samples 
 
 See All Newsletters  
 
-*   Homeandgarden My Best Idea Never Lose a Sock Again! You Won't Believe How Easy It Is
+*   Entertainment Featured Michelle Obama on Malia &. Sasha: Growing Up Before Our Eyes!
+*   Homeandgarden My Best Idea Too Cute! Plate + Marker + Oven = Instant Gift
 *   Beauty DIY Beautify Contour Competition – See Who Gets Voted Off Our New Show!
+*   Global iVoices Politics, Friends and Facebook: Staying Civil on Social Media
 *   Entertainment Kitchen Confessions Leighton Meester on Love: Acting Teaches Me What Not to Do
-*   Parenting The Conversation Thread How Do You Talk To Your Kids About Tragedy?
-*   Food Learn How Now 3 Surprising Things You Need in Your Pantry
-*   Entertainment Celebrity Spotlight Tia Mowry: Why I Cut My Hair Since Becoming a Mom
+*   Food Learn How Now 3 Surprising Things You Need in Your Spice Rack
 
   
   
@@ -511,7 +511,7 @@ See All Newsletters  
 *   Health Slideshow The Total Body Workout for Beginners: Start Here!
 *   Food Thanksgiving Ditch the Can! 10 Easy Cranberry Sauce Recipes for Thanksgiving
 *   Parenting Maternity Style Pregnant and Posh: Red Carpet Baby Bumps
-*   Beauty DIY Beautify Contour Competition – See Who Gets Voted Off Our New Show!
+*   Homeandgarden My Best Idea Too Cute! Plate + Marker + Oven = Instant Gift
 
 *   Join iVillage
 *   Message Boards
