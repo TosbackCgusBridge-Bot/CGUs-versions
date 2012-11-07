@@ -4,11 +4,13 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Today Only! 20% Off Entire Purchase + $5 shipping! Code: 35331
+\[hol-HomepageTopBannerEMS\] Members get Free Shipping on orders over $100 when signed in!
 
-*   Shop Dudes
+*   Join
 
-*   Shop Bettys
+*   Sign In
+
+*   Learn More
 
 *   see details
 
