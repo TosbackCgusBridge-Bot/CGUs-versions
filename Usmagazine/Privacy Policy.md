@@ -19,7 +19,7 @@ Trending
 
 *   Love Lives
 *   |
-*   Celebs At The Polls
+*   Red Carpet Style
 *   |
 *   Watch TV With Us
 *   |
@@ -156,17 +156,17 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Christina Rocks the Vote »
+Hot Pics! Jen's Man Voted! »
 
 Top Stories1.  PICTURES: Victoria Beckham Wears Flats, Is Shorter Than Son Brooklyn »
-2.  Kim Kardashian Flaunts Bod in Tiny String Bikini in Miami »
-3.  Melissa McCarthy: "Sometimes I Wish I Were Just Magically a Size 6" »
-4.  PICTURES: Lady Gaga Shows Off Fuller Bikini Body in Puerto Rico »
-5.  Giuliana, Bill Rancic's Baby Boy Edward Duke Gets Baptized! »
+2.  Exclusive Emily Maynard Dating Nascar Racer Jason White »
+3.  Kim Kardashian Flaunts Bod in Tiny String Bikini in Miami »
+4.  Pregnant Kristen Bell: "I Am Getting Fatter by the Day" »
+5.  President Barack Obama Wins Re-Election: Celebs React »
 
  
 
-subscribe to Us Weekly Defending Our Men
+subscribe to Us Weekly Why She Can't Find Love
 
 *   Subscribe »
 *   Gift Subscriptions »
@@ -175,11 +175,11 @@ subscribe to Us Weekly Defending Our Men
 
 Inside Us Weekly
 
-*   Style Rachel Bilson: 'All men hate harem pants, but
+*   Style Michelle Obama's Stunning Election Night Look
 *   Beauty Christina Aguilera's Colorful Hair and Makeup
-*   Moms Devon Aoki Is Pregnant With Second Child -- S
+*   Moms Pregnant Kristen Bell: "I Am Getting Fatter b
 *   Body Kim Kardashian Flaunts Bod in Tiny String Bik  
-*   Entertainment Britney Spears: Mario Lopez Can Be My Backup
+*   Entertainment See Stunning New Images of Scarlett Johansson
 
 *   US WEEKLY
 *   Celebrity News
