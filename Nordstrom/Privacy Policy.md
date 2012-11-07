@@ -27,33 +27,35 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Complete Looks
     *   Women's Brands
     *   Half-Yearly Sale
+    *   Nordstrom Gift Cards
+    *   Holiday Gifts for Her
     
     *   Featured Shops
     *   Topshop
     *   Contemporary
-    *   Wardrobe Staples
     *   Cashmere
-    
-    *   Nordstrom Gift Cards
+    *   Wardrobe Essentials
+    *   Work
     
     *   Clothing
     *   Dresses
     *   Tops
+    *   Sweaters
     *   Coats &. Jackets
     *   Activewear
     *   Jeans
     *   Pants &. Shorts
     *   Skirts
-    *   Work Clothing &. Suiting
+    *   Suiting
     *   Bras, Panties &. Lingerie
     *   Shapewear
     *   Hosiery, Leggings &. Socks
     *   Sleep, Lounge &. Robes
     *   Swimsuits &. Cover-Ups
     
-    *   Special Sizes
     *   Plus
     *   Petite
+    *   Maternity
     
     *   Shoes
     *   All Women's Shoes
@@ -100,6 +102,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Bath &. Body
     *   Nails
     *   Gifts &. Sets
+    *   Travel-Size Beauty
     *   New Arrivals
     *   Beauty Brands
     *   Gifts with Purchase
@@ -107,23 +110,24 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
 *   Men
     
     *   Style Watch
-    *   Men's Shop Blog
-    *   GQ Selects
-    *   Black Tie Optional
     *   Ultimate Coat Guide
+    *   Black Tie Optional
+    *   GQ Selects
     *   Boots 101
+    *   Men's Shop Blog
     
     *   All Men's
     *   New Arrivals
     *   Complete Looks
     *   Men's Brands
-    *   All Men's Sale
+    *   Men's Sale
+    *   Nordstrom Gift Cards
+    *   Holiday Gifts for Him
     
     *   Featured Shops
-    *   Surf &. Skate
+    *   Snow Shop
     *   Tuxedos &. Formalwear
-    
-    *   Nordstrom Gift Cards
+    *   Topman
     
     *   Clothing
     *   Suits &. Sportcoats
@@ -182,7 +186,10 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   All Fragrance
     *   Shave
     *   Hair Care
+    *   New Arrivals
+    *   Brands
     *   Value Sets &. Sizes
+    *   Gifts with Purchase
     
 *   Juniors
     
@@ -199,8 +206,8 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   All Juniors'
     *   Under $30
     *   Half-Yearly Sale
-    
     *   Nordstrom Gift Cards
+    *   Holiday Gifts for Juniors
     
     *   Clothing
     *   Coats
@@ -253,6 +260,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Under $30
     *   Half-Yearly Sale
     *   Nordstrom Gift Cards
+    *   Holiday Gifts for Baby &. Kids
     
     *   Featured Shops
     *   Toys
@@ -263,7 +271,6 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Basics
     *   Jeans
     *   Sparkle &. Shine
-    *   Sports Fan Gear
     *   Wedding
     
     *   Girls
@@ -349,7 +356,6 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Accessories
     *   Beauty &. Fragrance
     *   Designer
-    *   Contemporary
     
     *   Men's Brands
     *   Juniors' Brands
@@ -409,13 +415,15 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Gifts for Juniors
     *   Gifts for Kids
     
+    *   More Ways to Shop
     *   Nordstrom Gift Cards
+    *   Gifts for All Occasions
     
-    *   More to Explore
-    *   Services
-    *   Store Locations &. Hours
+    *   Special Services
     *   Wish List
-    *   Shipping
+    *   Our Services
+    *   Shipping Information
+    *   Store Locations &. Hours
 
 Nordstrom Customer Privacy Policy
 
