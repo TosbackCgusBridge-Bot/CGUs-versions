@@ -205,9 +205,6 @@ Find an answer announcements
 *   Click here for information on Macy's $1 Million Drive for Hurricane Sandy Recovery Efforts  
     As the effects of Hurricane Sandy continue to unfold, we're in this together and Macy's wants...  
     
-*   Need more information on the promo code ELECT exclusions?  
-    Details on the Election Day Sale Event: Only one promo code may be used per transaction. Savings do...  
-    
 
 related tools My Profile Macy's Credit Card Order Status Store Locator Gift Card Balance Password Assistance Contact Us
 
