@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  And the Winner Is …
-2.  A Disaster to Dwarf Sandy
-3.  Anxiety in Obama’s Backyard
-4.  Heck Of a Job, Bloomberg
-5.  A Kinder, Gentler, Purpler Mitt
+1.  5 Amazing Fox News Freak-outs
+2.  Five Stages of GOP Grief
+3.  A Thrashing
+4.  Michelle’s Signs of Restraint
+5.  Ryan Was a Dud
 
   Other News Entertainment
 
-*   Reveal: Model Bodies After Baby
-*   '80s Stars in Their 50s
-*   What Happened to Amanda Bynes?
+*   Luck of the draw: Scarlett Johansson reveals new rib cage tattoo
+*   Hollywood's Oldest Party Animals
+*   Celebs With Rebellious Spirits
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘Gossip Girl’ recap: Keeping it in the family
-*   Kristen Stewart talks to Jay Leno about ‘Breaking Dawn’ twist ending
-*   ‘How I Met Your Mother’ recap: The choice
+*   Obama’s victory speech and Romney’s concession speech — Watch them here
+*   Election 2012: From Brian Williams to Jon Stewart to Shep Smith, how each network covered the election
+*   Watch Key &. Peele’s ‘Obama’s Anger Translator: Victory’ skit — VIDEO
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Cops Dismiss Election Night "Riot" Claims
-*   Email Voting Fails Some New Jersey Residents
-*   Elizabeth Warren And Her Allies Look Nervously To Tuesday
+*   Democratic Victory Will Unleash Obama, Top Backers Say
+*   Barack Obama Wins Four More Years
+*   Mayhem At The White House As Obama Supporters Celebrate
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   It's Election Day!
-*   Obama is Heavy Favorite to Win Re-Election
-*   Feeling Over Polls
+*   A Big Night for Liberals
+*   Blame Game Begins
+*   Time for Republican Soul Searching
 *   **Get More from Political Wire**
 
 The Daily Beast
