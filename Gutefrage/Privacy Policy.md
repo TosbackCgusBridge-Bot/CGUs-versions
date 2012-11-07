@@ -190,13 +190,13 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Top-50 Themen Thema Anzahl Apple 85199 Arbeit 65335 Ausbildung 50742 Auto 91650 Beauty 69883 Beruf 77944 Beziehung 72787 Computer 541462 Computerspiele 65314 deutsch 67551 Englisch 52527 Ernährung 51045 essen 71646 Facebook 78348 Fernsehen 60601 Film 101049 Finanzen 59248 Freizeit 265118 Fußball 51436 Games 126313 Geld 94294 Gesundheit 207031 Haare 83546 Handy 207314 Hilfe 150590 Internet 324646 iPhone 76319 Kinder 51178 Körper 50737 Laptop 74289 Liebe 167364 Lied 54960 Mädchen 57013 Medizin 63139 Minecraft 68977 Musik 282677 PC 285011 PC-Spiele 49222 Problem 55975 PS3 61062 Recht 95817 Schule 237594 Software 57398 Spiele 138471 Sport 111698 Technik 121533 Tiere 65261 TV 54752 Video 53130 Youtube 84312 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
 1.  Bademeisterin
     
     Punkte:
     
-    781
+    1050
     
     Level:
     
@@ -206,28 +206,28 @@ Registrieren Login
     
     Punkte:
     
-    657
+    1031
     
     Level:
     
     betti1256
     
-3.  Chimaer
+3.  blaueLampe
     
     Punkte:
     
-    549
+    988
     
     Level:
     
-    Chimaer
+    blaueLampe
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.438.379 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.443.698 gute Fragen_
 
-*   26 Eltern werden langsam alt
-*   21 Wie wirklich sind fiktive Welten?
-*   13 Ich würde gerne Glauben, wie? Ihr fragt warum?
+*   55 Eltern werden langsam alt
+*   23 Ich würde gerne Glauben, wie? Ihr fragt warum?
+*   22 Wie wirklich sind fiktive Welten?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
@@ -241,23 +241,23 @@ gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.992.799
+1.994.153
 
 Anzahl der Fragen
 
-8.437.840
+8.443.058
 
 Anzahl der Antworten
 
-36.543.534
+36.559.662
 
 Anzahl der Tipps
 
-75.778
+75.820
 
 Anzahl der Videos
 
-4.803
+4.805
 
 Blog
 
