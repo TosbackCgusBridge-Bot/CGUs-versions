@@ -63,9 +63,14 @@ Any questions about this Privacy Policy should be addressed to HootSuite Twitter
 Vancouver, BC, Canada  
 V6A 3A3
 
-From the HootSuite Blog Extend Your Reach – Free Webinar: LinkedIn for Sales
+From the HootSuite Blog Watch the Social Media Race with HootSuite’s 2012 Election Tracker
 
-With the emergence of social media, how we connect with each other has changed. Social...  
+Want to see who is winning the “social media race” on the road to the 2012...  
+Read More
+
+How to Use Social Video to Drive Results ~ HootSuite University Lecture Series
+
+Inspiring, shocking, cute, sexy, fearful, angry, controversial. These are just a few of the emotive...  
 Read More
 
 #OwlOween Contest Winners
@@ -76,11 +81,6 @@ Read More
 The Importance of Collaboration in the Social Realm
 
 As Director of HootSuite’s Partner Program, I work with agencies and consultants to help drive...  
-Read More
-
-Top 10 International Twitter Trends of the Week, Volume 31
-
-Celebrating international pop culture icons to Muslim holidays, discover the meaning behind the top ten...  
 Read More
 
 About Company Leadership Careers Contact Us Product Features Mobile App Directory Downloads Pricing Services HootSuite University Help Desk Feedback FAQ Translation Project Media Media Kit Press Releases Events Partner Becoming a Partner Solution Partners Integration Partners Affiliates API Legal Terms &. Conditions Privacy Policy ©2012 HootSuite Media Inc. All Rights Reserved. Language: Chinese Traditional (繁體中文)EnglishFrench (Français)German (Deutsch)Indonesian (Bahasa Indonesia)Italian (Italiano)Japanese (日本語)Polish (Język polski)Português (Brasil)Spanish (Español)
