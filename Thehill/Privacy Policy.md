@@ -212,105 +212,105 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-GOP senators: Thousands of ballots unlikely to reach military voters in timePrediction: Romney 325, Obama 213 Pew poll finds Obama retaking national lead, up 48-45 over RomneyGallup: Obama cuts Romney’s lead to 1 point nationallyRepublicans pounce on Obama, CBS News over unaired Libya remarks
+Axelrod says Obama has Election Day edge, touts ‘cold, hard data’First-ever tie in Dixville Notch's midnight voteRep. Allen West in close raceElection results will render verdict on influence of high-profile super-PACsGOP senators: Thousands of ballots unlikely to reach military voters in time
 
 Emailed
 
-GOP senators: Thousands of ballots unlikely to reach military voters in timePrediction: Romney 325, Obama 213 Conflict-of-interest concerns raised as Obama races to implement health reformOpinion: A Romney win would be a victory for shameless cynicismPolls: Obama leads Romney by 5 points in Ohio, up 4 in Virginia
+GOP senators: Thousands of ballots unlikely to reach military voters in timePrediction: Romney 325, Obama 213 Chamber tells Geithner to back off on money market fundsConflict-of-interest concerns raised as Obama races to implement health reformPoll: Swing-state voters split 48-48 between Obama, Romney
 
 Discussed
 
-Obama's 'revenge' remark reverberates on presidential campaign trailGOP senators: Thousands of ballots unlikely to reach military voters in timeShift in proportion of white, minority vote could decide Obama-Romney raceOpinion: A Romney win would be a victory for shameless cynicismPolls tilt for Obama in battleground Ohio
+Texas sparks international row with election observersOpinion: Here comes the landslideObama's 'revenge' remark reverberates on presidential campaign trailGOP senators: Thousands of ballots unlikely to reach military voters in timeMadonna strips for Obama, offers profanity-laced endorsement
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Gibbs: Obama in strong position to win undecided voters on Election Day
-*   Biden votes in Del., jokes he may be on ballot again in future
-*   MORNING READ
+*   Al Gore: Florida voting problems reminiscent of Jim Crow days
+*   Mitt Romney: 'I feel like we put it all on the field'
+*   Pelosi's home in Calif. burglarized
 
   
 More Briefing Room » Congress Blog
 
-*   Candidates should back abortion care for military women
-*   Obama's success at filling judicial vacancies in Virginia
-*   Undermining vital child protections
+*   Sandy shows costs of climate change
+*   Obama recognized importance of Asia early on
+*   Change in law necessary to address HIV discrimination
 
   
 More Congress Blog » Pundits Blog
 
-*   Chris Christie said it all
-*   Political messaging
-*   Too close to call
+*   Waiting for 2016: Elizabeth Warren, Sarah Palin, Rick Perry, Chris Christie, Jeb Bush and David Petraeus
+*   For the right, a lone bastion left
+*   The what-ifs
 
   
 More Pundits Blog » Twitter Room
 
-*   Melissa Joan Hart voting for Romney
-*   Celebrities help get-out-the-vote effort on Twitter
-*   Team Obama promotes hashtag, early voting
+*   ‘Hillary2016’ trending worldwide
+*   Trump calls for revolution, blasts Electoral College
+*   Obama tweets 'thank you' following projected win
 
   
 More Twitter Room » Hillicon Valley
 
-*   ‘Do Not Track’ effort at a standstill
-*   Twitter to flag tweets accused of violating copyrights
-*   Two sentenced to prison for online copyright infringement
+*   AT&T to pay $700,000 for overcharging customers
+*   NJ extends deadline for voters casting ballots via email, fax
+*   Report: Pandora sues ASCAP for lower music licensing fees
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   News bites: Sandy throws obstacles in path of voters
-*   Ousted Duke Energy CEO to head Tennessee Valley Authority
-*   Report: Fossil fuels could raise global temperatures 10 degrees by century's end
+*   News bites: Energy in Obama’s second term
+*   Energy winners and losers: A snapshot
+*   House Energy chairman Upton wins
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Final Ohio Poll shows Romney, Obama in virtual dead heat
-*   Dems see slight edge in race for Senate
-*   OVERNIGHT CAMPAIGN: One more day
+*   Freshman Rep. Denham wins reelection
+*   Dean of California delegation loses reelection bid
+*   Rep. Sherman beats Rep. Berman in Calif. member matchup
 
   
 More Ballot Box » On The Money
 
-*   Unions cool to Senate postal bill, but give to its backers
-*   Rising rents outpacing home sale prices
-*   Chamber tells Geithner to back off on money market funds
+*   Top tax-writers cruise to reelection
+*   Paul Ryan wins reelection in House campaign
+*   Consumer advocate Warren wins Senate seat
 
   
 More On The Money » Healthwatch
 
-*   FDA chief to testify on meningitis outbreak at House hearing
-*   Swing-state ballot measures take aim at 'ObamaCare,' abortion rights
-*   Heart issues hit employers' bottom lines, study finds
+*   Abortion-rights groups cheer Akin, Mourdock defeats
+*   Healthcare law faces new road bump in Missouri
+*   SBA List says Romney underplayed social issues
 
   
 More Healthwatch » Floor Action
 
-*   NJ senators welcome buses from DOT to aid Sandy recovery
-*   Rep. Ron Paul questions value of federal flood aid for victims of Hurricane Sandy
-*   Rep. Chu to sue GOP assemblyman for implying endorsement
+*   Boehner to urge GOP, Dems to find ‘common ground’ to avert fiscal cliff
+*   Rep. Cole calls on DOD to revamp system for mailing military ballots
+*   NJ senators thank EPA for easing fuel shipping rules to aid storm recovery
 
   
 More Floor Action » Transportation
 
-*   Transportation veteran suits up
-*   Auto union files ethics complaint against Romney for alleged bailout profits
-*   Former Chrysler executive endorses Romney for president
+*   Leading House Transportation Dem defeats repeat opponent
+*   CNN exit poll: 56 percent of Ohio voters approved of auto bailout
+*   Spirit Airlines ad: ‘Romney wins’
 
   
 More Transportation » DEFCON Hill
 
-*   Head of United Auto Workers alleges 'dirty tricks' by Romney camp in Ohio
-*   Number of vets in Congress could rise for first time in three decades, study finds
-*   Hearing begins for Afghan massacre suspect
+*   GOP defense push doesn’t lead to election victories in Virginia
+*   Ten-term GOP congressman ousted after Md. redistricting
+*   Israeli think tank simulates war game after Iran strike
 
   
 More DEFCON Hill » Global Affairs
 
-*   Treasury drops terror sanctions against US citizen after 17 years
-*   US targets Pakistani group's 'suicide operations' chief
-*   US lambastes Iranian ally Nicaragua over questionable elections
+*   Obama down with Jewish voters from 2008 results
+*   Warren wins in Massachusetts, dampens Kerry's secretary of State chances
+*   Top Republican on Foreign Affairs panel projected to win reelection
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris Romney 325, Obama 213 Karen Finney Closing argument More Columnists »
