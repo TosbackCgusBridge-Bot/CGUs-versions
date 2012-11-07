@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Mormon press office: Churchs image...**  
-        Election 2012 | Jason Horowitz
+    *   **Jeff Flake wins Arizona Senate...**  
+        Election 2012 | Rachel Weiner
     
-    *   **Fact checking the ‘final argument’**  
+    *   **The science of the Pinocchios**  
         The Fact Checker | Glenn Kessler
     
-    *   **Arkansas misses Bill Clinton as...**  
-        She The People | Suzi Parker
+    *   **American expats in Israel: A mother...**  
+        She The People | Annie Groer
     
-    *   **The fight over party identification...**  
-        The Fix | Chris Cillizza and Aaron Blake
+    *   **Guess what. The polls (and Nate...**  
+        The Fix | Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,14 +46,14 @@
     
     Featured Blogs
     
-    *   **Sarah Palin’s Facebook endorsement**  
+    *   **Election 2012: modified rapture**  
         ComPost | Alexandra Petri
     
-    *   **Happy Hour Roundup**  
-        The Plum Line | Jonathan Bernstein
+    *   **A big night for Democrats and liberals**  
+        The Plum Line | Greg Sargent
     
-    *   **For the Dream Act and gay marriage...**  
-        PostPartisan | E.J. Dionne Jr.
+    *   **A story worth hyping: Democrats...**  
+        PostPartisan | Jonathan Bernstein
     
     *   **Morning Bits**  
         Right Turn | Jennifer Rubin
@@ -72,14 +72,14 @@
     
     Blogs &. Columns
     
-    *   **Forecast: Tranquil election day...**  
-        Capital Weather Gang | Kathryn Prociv\* and Jason Samenow
+    *   **D.C. area forecast: Breezy chill...**  
+        Capital Weather Gang | Dan Stillman
     
-    *   **Nightlife Agenda**  
-        Going Out Gurus | Fritz Hahn and Rhome Anderson
+    *   **You’ve stood in line, now get your...**  
+        Going Out Gurus | Justin Rude
     
-    *   **Father charged after son fell from...**  
-        Crime Scene | Michael Laris
+    *   **Reported suicide investigated as...**  
+        Crime Scene | Maggie Fazeli Fard
     
     *   **Tens of thousands voted absentee...**  
         Virginia Politics | Patricia Sullivan
@@ -100,14 +100,14 @@
     *   **Jay Beagle on trying to keep a...**  
         Capitals Insider | Eric Detweiler
     
-    *   **John Wall meets Justin Bieber (PICS)**  
+    *   **Athletes and politics on Twitter**  
         DC Sports Bog | Sarah Kogod
     
-    *   **Redskins shouldnt rush to judgment...**  
-        The Insider | Keith McMillan
+    *   **Garcon says injured foot still...**  
+        The Insider | Mark Maske
     
-    *   **Davey Johnson, Nationals negotiations...**  
-        Nationals Journal | Adam Kilgore
+    *   **Nationals batting practice pitcher...**  
+        Nationals Journal | James Wagner
 *   National In National
     
     *   Energy &. Environment
@@ -123,14 +123,14 @@
     
     Blogs &. Columns
     
-    *   **And YOU get a jet...**  
+    *   **Are we voting in the dark?**  
         Ideas@Innovations | Dominic Basulto
     
-    *   **Redskins leaders are a study in...**  
+    *   **What we’ll learn about the loser**  
         PostLeadership | Jena McGregor
     
-    *   **Romney and Obama’s quintessentially...**  
-        Under God | Georgetown/ On Faith
+    *   **Looking for emotional reaction...**  
+        Under God | Michelle Boorstein
 *   World In World
     
     *   Africa
@@ -145,17 +145,17 @@
     
     Blogs &. Columns
     
-    *   **Whos to blame for Benghazi? A laymans...**  
+    *   **Watching Obamas victory from Moscow...**  
+        WorldViews | Kathy Lally
+    
+    *   **Kenya cools on Obama**  
+        WorldViews | Sudarsan Raghavan
+    
+    *   **British web users are furiously...**  
         WorldViews | Max Fisher
     
-    *   **On Tehrans streets, Obama is the...**  
-        WorldViews | Jason Rezaian
-    
-    *   **Iranian Supreme Leader’s granddaughter...**  
-        WorldViews | Max Fisher
-    
-    *   **Zimbabwe might delay elections...**  
-        WorldViews | Max Fisher
+    *   **Think your wait was bad? Photos...**  
+        WorldViews | Anup Kaphle and Max Fisher
 *   Business In Business
     
     *   Economy
@@ -170,17 +170,17 @@
     
     Blogs &. Columns
     
-    *   **Great Jobs for Everyone 50+**  
+    *   **Electing a health-care plan**  
         The Color of Money | Michelle Singletary
     
-    *   **Netflix adopts shareholders rights...**  
+    *   **New Jersey voting raises concerns...**  
         Post Tech | Hayley Tsukayama
     
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **First, assume a Democratic Senate**  
-        Wonkblog | Ezra Klein
+    *   **Wonkbook: Obama reelected**  
+        Wonkblog | williamsm
 *   Tech In Technology
     
     *   Policy
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Instagram rolls out Web profile...**  
+    *   **Amazon Prime: Monthly subscription...**  
         Hayley Tsukayama
     
-    *   **Netflix adopts shareholders rights...**  
+    *   **New Jersey voting raises concerns...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,14 +211,17 @@
     
     Blogs &. Columns
     
-    *   **A message of hope and pork ribs...**  
+    *   **Hope and pork ribs on Election...**  
         All We Can Eat | Jim Shahin
     
-    *   **Holocaust documents reveal story...**  
-        The Style Blog | Ned Martel
+    *   **Bob Dylan predicts an Obama win...**  
+        The Style Blog | Maura Judkis
     
-    *   **The Alex P. Keaton myth**  
+    *   **Post election: lessons from kindergarten**  
         On Parenting | Janice D'Arcy
+    
+    *   **On Election Day, retiring politicians...**  
+        The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
     *   Books
@@ -234,16 +237,16 @@
     
     Blogs &. Columns
     
-    *   **RIP Carter and Henze**  
+    *   **Review digest: of Lang Lang, Midori...**  
         Classical Beat | Anne Midgette
     
-    *   **Kristen Bell, Dax Shepard expecting...**  
+    *   **Celebrities get out the vote on...**  
         Celebritology 2.0 | Maura Judkis
     
-    *   **‘Elementary’ lands post-Super Bowl...**  
+    *   **Election already called, by Jimmy...**  
         The TV Column | Lisa de Moraes
     
-    *   **‘Wreck-It Ralph’s’ big debut**  
+    *   **‘Obama wins’ cartoons**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -263,12 +266,11 @@
 
 In the News
 
-*   Election Day
-*   Nor’easter
-*   Robert Bales
-*   Henna haven
-*   Election predictions
-*   Ohio
+*   Obama speech
+*   Todd Akin
+*   Michele Bachmann
+*   Elizabeth Warren
+*   Va. Senate race
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -319,90 +321,58 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-In Iowa, Obama gets emotional in final campaign rally
+Obama wins a second term as U.S. president
 
-David Nakamura 
+Robert Barnes 
 
-My election prediction: The polls will be right and Obama will win with 290 electoral votes Mitt Romney changing his tune in final hours
+When will we know who won the election?
+
+Washington Post Staff 
+
+Wonkblogs guide to watching the exit polls What you need to know about exit polls Obama’s and Romney’s most likely paths to 270 electoral votes goes through Ohio
+
+Washington Post Staff 
+
+Exit polls: Electorate slightly more Republican than 2008 Election night viewer's guide The 7 most important counties in 2012 Footnoting the election! Mitt Romney moved by surprise show of support Fla. GOP memo: Romney already beating McCains 08 tally Voter irregularities roundup Why 50 million Americans wont vote tomorrow, in two charts Pundit accountability: The official 2012 election prediction thread Poll shows widening racial gap in presidential contest
+
+Jon Cohen 
+
+Mitt Romney changing his tune in final hours
 
 Dana Milbank 
 
-What to watch for as Ohio counts votes
+In battleground Virginia, long waits at the polls
 
-Rosalind S. Helderman 
+Carol Morello 
 
-Pundit accountability: The official 2012 election prediction thread Why we are voting for President Obama: Nine Mormon women speak
-
-Joanna Brooks 
-
-The trouble with Obama’s Silver lining
-
-Michael Gerson 
-
-NY, NJ officials go to considerable lengths to help residents vote in wake of superstorm
-
-Associated Press 
-
-On election eve, President Obama has a slim edge in polls
-
-David A. Fahrenthold 
-
-Minnesota couple accused of starving, abusing adopted son. 8-year-old is malnourished
-
-Associated Press 
-
-Lessons for kids from a long campaign
-
-Richard Cohen 
-
-Washington Post endorsements for 2012 ballot
-
-Editorial Board 
-
-Young workers’ retirement hopes grow bleaker amid economic downturn
-
-Michael A. Fletcher 
-
-Driverless cars are on the way. Here’s how not to regulate them.
-
-Marc Scribner 
-
-Concert review: Justin Bieber at Verizon Center
-
-Chris Richards 
-
-Why 50 million Americans wont vote tomorrow, in two charts Poll: Still a margin of error contest Elliott Carter dies. Pulitzer Prize-winning American composer was 103
+Elliott Carter dies. Pulitzer Prize-winning American composer was 103
 
 Anne Midgette 
 
-Carolyn Hax: Resisting the pressure to have a baby
+Near death and birth at the polls Exit poll shows joblessness, high prices top worries. 4 in 10 think economy on the mend
 
-Carolyn Hax 
-
-Election ‘Day’? With early voting, it’s more like Election Month.
-
-Ann Gerhart 
+Associated Press 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  In Iowa, Obama gets emotional in final campaign rally
-    2.  My election prediction: The polls will be right and Obama will win with 290 electoral votes
-    3.  Mitt Romney changing his tune in final hours
-    4.  What to watch for as Ohio counts votes
-    5.  Pundit accountability: The official 2012 election prediction thread
+    1.  Battleground states too close to call
+    2.  When will we know who won the election?
+    3.  Wonkblogs guide to watching the exit polls
+    4.  What you need to know about exit polls
+    5.  Obama's and Romney's most likely paths to 270 electoral votes goes through Ohio
 *   Top Videos
-    1.  Final day on the campaign trail in under one minute: President Obama
-    2.  Three things you need to know about Ohio — Top Toss-Up States
-    3.  Final day on the campaign trail in under one minute: Mitt Romney
-    4.  Mounds of white foam spews onto Tokyo street
-    5.  New York nanny charged with murder in stabbing deaths
+    1.  Obama: We've got the votes to win
+    2.  Final day on the campaign trail in under one minute: President Obama
+    3.  Mitt Romney in Ohio: This is a 'big day for big change'
+    4.  Ohio Voter: 'I struggled'
+    5.  Three things you need to know about Ohio — Top Toss-Up States
 *   Top Galleries
-    1.  Who will win the election? A few un-or-tho-dox indicators.
-    2.  Newspaper endorsements for president: Romney or Obama?
-    3.  SEAL Team 6 in action and in pop culture
-    4.  In Wisconsin and Iowa, Obama makes final push
-    5.  Pre-election polling sites: Not just open on Tuesdays anymore
+    1.  'Don't ask, don't tell' repeal: Closing a chapter in history
+    2.  Carol Guzy's Pulitzer-winning work
+    3.  Election Day 2012
+    4.  Who will win the election? A few un-or-tho-dox indicators.
+    5.  Justin Bieber at the Verizon Center
 
 Today's Paper
 
@@ -412,13 +382,13 @@ Today's Paper
 
 Live Discussions
 
-Dr. Gridlock
+Eugene Robinson Live: How President Obama got re-elected
 
-Live Q&A transcript
+Live Q&A, 1 p.m. ET
 
-Robert Thomson discussed your questions about Metro, traffic throughout the region and other transportation issues for the week.
+Discuss President Obama’s re-election with Eugene Robinson in this live chat.
 
-**10:00 AM** **ComPost Live with Alexandra Petri** **11:00 AM** **Chatological Humor: Monthly with Moron**
+**12:00 AM** **The Reliable Source Live** **12:00 PM** **Free Range on Food** **12:00 PM** **Eugene Robinson Live: How Obama got re-elected** **12:00 PM** **Brad Hirschfield Live:Can we be one nation following such a closely contested and often bitterly fought election?** **1:00 PM** **Brad Hirschfield Live: Can the nation come together after a bitter election?** **2:00 PM** **Web Hostess Live: The latest from the Web**
 
 **Weekly schedule, past shows**
 
