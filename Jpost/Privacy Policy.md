@@ -1,4 +1,4 @@
-  Set as Homepage Tue, Nov 6, 2012   21 Heshvan, 5773  
+  Set as Homepage Wed, Nov 7, 2012   22 Heshvan, 5773  
 
 *   *   Breaking News
     *   Diplomacy &. Politics
@@ -177,15 +177,13 @@ We recommend that you read the full terms of service prior to posting any conten
 
                                     Israel Focus JPost2go  
 Don't have time to read The Jerusalem Post ? Now you can listen to it!   Nefesh B'Nefesh Guided Aliyah  
-Already living in Israel? Enjoy the Benefits of Aliyah!   Watch Hadassah LIVE  
-See events from Hadassah Centennial in Jerusalem as they happen   Bank Leumi USA  
+Already living in Israel? Enjoy the Benefits of Aliyah!   Bank Leumi USA  
 Coast to Coast Financial Expertise   Naale Elite Academy  
-The World's Jewish High School in Israel.Register now   STOP HUNGER  
+The World's Jewish High School in Israel.Register now   OPEN HOUSE @ IDC HERZLIYA  
+Live in Israel Study in English, November 30, 2012, 5:30 PM   STOP HUNGER  
 For thousands of desperate Israelis who go to bed hungry every night   Up to $ 250,000 Discount  
 Mishkenot Ha'uma the Most Desirable Address in Jerusalem   50,000 abortions in Israel  
-every year! EFRAT: Saving Lives of Children   THE ULTIMATE MISSION TO ISRAEL  
-Nov 5-12.2012   Learn Hebrew in 10 days!  
-Private schools in Israel Also available Online. Fast. Efficient. Friendly.   SAVE UP TO 60%!  
+every year! EFRAT: Saving Lives of Children   SAVE UP TO 60%!  
 Same day dental implants &. advanced bone graft procedure in Israel   JPost newsletters  
 Sign up for the JPost newsletters and receive one month free subscription   Eldan Rent a Car  
 20% off all Car Rental Reservations in Israel   Learn Hebrew with us  
