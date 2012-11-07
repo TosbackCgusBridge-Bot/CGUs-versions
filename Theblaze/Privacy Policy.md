@@ -25,7 +25,7 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   Election Day
+*   Campaign 2012
 *   Libya: The Truth?
 *   TheBlaze TV
 
@@ -33,7 +33,7 @@ Take Action
 
 Watch Live: Obama Victory Speech
 
-Blaze Election Special: Sound off on Election results
+Live BlazeCast at 1pm ET: So Now What? Post Election Wrap-up With Your Comments and Questions
 
 About TheBlaze
 
@@ -260,7 +260,7 @@ What is this? Sections
 
 Hot Topics
 
-*   Election Day
+*   Campaign 2012
 *   Libya: The Truth?
 *   TheBlaze TV
 
