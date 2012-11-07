@@ -158,8 +158,7 @@ Buscar
         *   Mes de la Hispanidad
         *   Mi Corazon Insiste
         *   Mia Mundo
-        *   Miss Universo 2012
-        *   Miss Universo 2009
+        *   Miss Universo
         *   N
         *   Niños Ricos, Pobres Padres
         *   Nitido
@@ -688,23 +687,21 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   Ponte al día
+*   ¡Caliente!
     
-    Actualízate con lo mejor del Patrón del Mal.
+    David Chocarro, todo un papazote. Mira sus fotos
     
-*   ¡Dieta intuitiva!
+*   ¡Rayitos de Hollywood!
     
-    Deja que tu instinto domine las calorías  
+    Róbale el look a las estrellas  
     
-*   Guerra Mexicana
+*   ¡Exclusivo!
     
-    Dos bombones que derriten. ¿Quién gana?
+    Rebecca Jones brillará en Pasión Prohibida
     
-      
+*   Camino de Miss Nicaragua
     
-*   Camino de Miss Ecuador
-    
-    Carolina Aguirre, una belleza rubia que destila sensualidad, tiene todo para ser la nueva Miss Universo.
+    Con la deslumbrante modelo Farah Eslaquit, Nicaragua quiere repetir su gran campaña del año pasado. ¿Alcanzará la corona esta vez? ¡Opina!
     
 
 Más en Telemundo:
