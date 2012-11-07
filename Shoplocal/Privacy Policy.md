@@ -24,7 +24,7 @@ Close
 
 Change Location
 
-Savings of over $176,123!   10,552 sales and 208 coupons right now.  
+Savings of over $167,221!   9,204 sales and 207 coupons right now.  
 ShopLocal.com Weekly Ads B 1440 Terms of Use and Privacy Policy Terms of Use
 
 Last Updated: January 26th, 2010
