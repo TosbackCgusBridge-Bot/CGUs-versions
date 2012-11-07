@@ -11,11 +11,11 @@ Most Viewed
 
 Most Searched
 
-1.  christmas
-2.  designer inspiration
-3.  holiday rooms
-4.  jewelry
-5.  bathroom
+1.  jewelry
+2.  bedrooms
+3.  designer inspiration
+4.  holiday
+5.  upholstered headboard
 
 Magazine | RSS
 
@@ -38,9 +38,9 @@ From Town &. Country Travel • Best Waterfront Makeover: Capri's Il Riccio
 • Best Exotic Retreat: Six Senses Destination Spa Phuket  
 • The Best City Resort: Aman New Delhi  
 **More from Town &. Country Travel**  
-From The Daily Green • 6 Ways to Save Square Tout  
-• Hotel Review: The Original Element Hotel  
-• Shade Grown Coffee Preserves Trees  
+From The Daily Green • Pay Bills Online  
+• Apple Cider Braised Greens  
+• 6 Ways to Save Square Tout  
 **More from The Daily Green**  
 From Harper's Bazaar • Celebrity Fashion  
 • Fashion Accessories  
