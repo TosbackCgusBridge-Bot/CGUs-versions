@@ -687,13 +687,13 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡Caliente!
+*   ¡Vota ya!
     
-    David Chocarro, todo un papazote. Mira sus fotos
+    ¿Quién es la más malvada en Rosa Diamante?
     
-*   ¡Rayitos de Hollywood!
+*   ¡Cuida tu piel!
     
-    Róbale el look a las estrellas  
+    Es tu mejor atributo a cualquier edad  
     
 *   ¡Exclusivo!
     
