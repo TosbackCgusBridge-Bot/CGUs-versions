@@ -2,7 +2,7 @@ Give a Gift Customer Service RB Offers Sweepstakes
 
 *   loading
 
-Search **Try:** Best DessertsForeplay TipsShort HairFast Metabolism
+Search **Try:** 2012 Gift GuidesFast MetabolismHairstyle IdeasDate Night
 
 *   Sex &. Love
     *   Sex &. Relationship Articles
@@ -126,7 +126,7 @@ Holidays &. Entertaining
 *   Cheap Gift Ideas
 *   Unique Gifts
 
-Search **Try:** Best Desserts Foreplay Tips Short Hair Fast Metabolism About Redbook About Us  
+Search **Try:** 2012 Gift Guides Fast Metabolism Hairstyle Ideas Date Night About Redbook About Us  
 Media Kit  
 Press Room  
 Privacy Policy  
