@@ -115,24 +115,24 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   In defeat, Mia Love Still Shines
-*   Now Up on the PJ Media Homepage
-*   Wishful Thinking
+*   What We Have Here is … Failure … to Communicate
+*   Yes, George W. Bush Might Well Be The Last Republican President
+*   Tester Squeaks by Rehberg in Montana
 
 More  
 
+*   Alone, Together
 *   The Serenity Prayer
 *   Harrison Ford: Han Solo Should Have Died in _Return of the Jedi_
-*   The 6 Best Beatles Songs For This Election Day
 
 More
 
-*   Why Obama Won — and What Conservatives Must Do
-*   November, 2012
-*   Catastrophe
+*   Some Thoughts on the Election
+*   No Regrets, No Apologies
+*   The Whirlwind Is Here
 
-More   “WHEN ANGRY, REDISTRIBUTIONISTS TEND TO PLOT REVENGE.” And they’re always angry. PETE STARK (D-CA) LOST, to his fellow Bay Area Democrat: “Stark, D-Fremont, won office 40 years ago by beating a seasoned Democratic incumbent whom he painted as out of touch with the times and his constituents — just as challenger Eric Swalwell, 31, a Dublin councilman and Alameda County prosecutor, described Stark, 80, this year in the newly drawn 15th Congressional District,” The _San Jose Mercury_ reports. “At shortly after midnight, returns showed Swalwell leading Stark by about 6 percentage points.” ... TEA PARTY FAVORITE MIA LOVE ALSO LOST LAST NIGHT: “Jim Matheson claims victory over Mia Love in very close 4th District race,” Utah’s _Deseret News_ reports. “After a seesaw battle all night long, Matheson bested Love 49.34 percent to 48.06 percent, a 2,818-vote difference, according to unofficial results.” ... More Advertisement
+More   53 HOUSE MEMBERS TO OBAMA: Were Pre-9/11/12 Benghazi Bombings in Presidential Daily Briefs? ADVICE ON WHAT TO DO NEXT, from the Insta-Wife. She’s a wise woman. (Bumped). GOING NUCLEAR: Harry Reid Nuking Filibuster Rules. More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
-Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMCloud1
+Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb2
