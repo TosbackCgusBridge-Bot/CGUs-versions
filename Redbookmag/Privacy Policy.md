@@ -116,15 +116,15 @@ Mind &. Body
 
 Gift Ideas
 
-*   Gifts for Friends
+*   Family Gifts
 *   Gifts for Husbands
 *   Hostess Gift Ideas
 
 Holidays &. Entertaining
 
-*   Healthy Halloween Candy
-*   Candy Apple Recipes
-*   Pumpkin Seed Recipes
+*   Cool Gifts Under $50
+*   Cheap Gift Ideas
+*   Unique Gifts
 
 Search **Try:** Best Desserts Foreplay Tips Short Hair Fast Metabolism About Redbook About Us  
 Media Kit  
