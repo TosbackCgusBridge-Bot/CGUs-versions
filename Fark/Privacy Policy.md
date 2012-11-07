@@ -150,47 +150,47 @@ Report **From the Fark Shop:**
 *     
     There Castle
 *     
-    Student Drinker
+    Save The Earth, It's The Only One with Chocolate
 *     
-    Green Lantern - Mighty Wallet
+    Android - Mini Squishable
 *     
-    Space Shuttle Cutaway Model &. Puzzle
+    Bump-N-Go Cybermat
 
 **More from the Fark Shop »**   
 Stories from our partner sites:  
   
   
 The iPad Mini's Dirty Little Samsung...  
-Honestly: The Not So Amazing Spider-Man  
+Would You Get in this Ball in a Natur...  
+Coke Bottle Turned into Elaborate Che...  
 Glow in the Dark Roads will be Here i...  
-31 Most Perfectly Looped GIFS Ever!  
 More news at Scribol »  
   
   
-Walking Dead: The Killer Within  
-Louis CK And Fun  
-The Sunniest Moments From Always Sunny  
-Obama Wants You To Call Him, Maybe?  
-More news at UPROXX »  
+Joe Frazier: Remembering a Warrior  
+Ohio: Portrait of a Swing State, 1944  
+Lights Out New York: The 1959 Blackout  
+Larger Than Life: Howard Hughes and t...  
+More news at Life »  
   
   
-Miley Cyrus Offered $1 Million For "H...  
-VA Candidate's Campaign HQ Vandalized...  
-Leonard DiCaprio Gets All Up In Robst...  
-November 5: What Are We Wearing Today?  
-More news at The Frisky »  
+Pre-Labor Day Pregnant Bikini Contest  
+The State Fair Food That Will Cause Y...  
+The 20 Worst Hipster Bands: The Compl...  
+Internet Cat Video Film Festival Exists  
+More news at Village Voice »  
   
   
-'The Big Bang Theory' Star Kaley Cuoc...  
-Sexy Penelope Cruz Wears A Black Leat...  
-'Star Wars Episode VII' Trailer Bring...  
-A Very Pregnant Gisele Bundchen Rocks...  
-More news at Starpulse »  
+10 Presidential Elections That Were P...  
+We Show It ALL  
+Naughty Fruit Photos  
+Dumb Hangover Cures  
+More news at truTV »  
   
 
 Also on Fark
 
-Main Heineken executive appears on CNBC to extol its health benefits. "There is everything which is healthy about beer" ( huffingtonpost.com ) » (19 comments) Sports Headline: 'Jets coach Ryan still has no power'. Well that's pretty obvious when you look at his record.....wait, oh they mean electricity. NEVER MIND ( sports.yahoo.com ) » (17 comments) Business Suzuki Motor Corp. to file Chapter 11, end car sales in U.S. Subby starting to regret his decision to buy a new model with "lifetime warranty" last year ( msnbc.msn.com ) » (17 comments) Geek Apple tells guy that even though the dirt cheap prices on his order were in error, they'll honor them on items already shipped. They then turn around hand have the packages intercepted in transit ( macworld.co.uk ) » (20 comments) Entertainment Anheuser-Busch wants all shots of Budweiser removed from new Denzel Washington movie, outraged at the implication that anyone could get drunk off of their product ( bigstory.ap.org ) » (45 comments) Politics Results are in from Dixville Notch: Of 10 registered voters: Obama 5, Romney 5. We are completely farked, let the rioting begin ( politisite.com ) » (20 comments) Video What happens when a plane meets a car on the road? Well watch ( huffingtonpost.com ) » (34 comments) FarkUs OK, Fark politics junkies, what's your game plan for tonight? How about Wednesday, are you calling in sick or taking a vacation day? ( bartsblackboard.com ) » (11 comments)
+Main With many of the precincts now reporting in, news organizations are now calling the election for Obama, which obviously means we are \[ \] saved \[ \] doomed ( abcnews.go.com ) » (3952 comments) Sports As if the New York Mets don't have enough bad luck, Lucas Duda hurts his wrist while moving furniture ( msn.foxsports.com ) » (10 comments) Business Robots tuk oor jerbs ( voxeu.org ) » (15 comments) Geek First Orcish-American candidate elected to Maine State Senate, living up to her campaign slogan of "Lok'tar ogar" ( wow.joystiq.com ) » (51 comments) Entertainment Sylvester Stallone denies Nic Cage is Expendable ( deadline.com ) » (11 comments) Politics First Orcish-American candidate elected to Maine State Senate, living up to her campaign slogan of "Lok'tar ogar" ( wow.joystiq.com ) » (51 comments) Video Guy flippers out in police station. (Not safe for work) ( liveleak.com ) » (13 comments) FarkUs Subby went to vote after registering two years ago in his county, only to learn today the state considers him unregistered, and therefore can't. What can be done? Does Subby still have the right to gripe? ( canivote.org ) » (27 comments)
 
 *   Fark :: Main | Sports | Business | Geek | Entertainment | Politics | Video | FarkUs
 *   Total Fark :: TotalFark | TF Discussion | All | Commented | Top Voted | Greenlit
@@ -200,5 +200,5 @@ Main Heineken executive appears on CNBC to extol its health benefits. "There is 
 
 Submit a Link »
 
-Copyright © 1999 - 2012 Fark, Inc | Last updated: Nov 06 2012 08:00:38  
+Copyright © 1999 - 2012 Fark, Inc | Last updated: Nov 07 2012 08:00:40  
 Contact Us  |  Report a bug/error msg  |  Advertise on Fark  |  Terms of service/legal/privacy policy
