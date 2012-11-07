@@ -115,28 +115,23 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Vote Fraud: Who You Gonna Call?
-*   Four Futures
-*   The Seven Worst Democratic Ads of 2012
+*   In defeat, Mia Love Still Shines
 *   Now Up on the PJ Media Homepage
+*   Wishful Thinking
 
 More  
 
-*   Advertorial:
-    
-    Conservative Song Gaining Popularity
-    
-*   TUESDAY NEW RELEASES: Aerosmith Goes Multi-Dimensional, Third Day Prays for a _Miracle_
-*   Have You Seen the Ghost of Steve Jobs?
-*   5 Reasons Why This Pagan Won’t Vote for Barack Obama
+*   The Serenity Prayer
+*   Harrison Ford: Han Solo Should Have Died in _Return of the Jedi_
+*   The 6 Best Beatles Songs For This Election Day
 
 More
 
-*   2 Reasons Why Obama Must Be Defeated
-*   My Final Electoral Map Prediction
-*   Shut The Hell Up and Vote for Romney
+*   Why Obama Won — and What Conservatives Must Do
+*   November, 2012
+*   Catastrophe
 
-More   ROMNEY STILL WAY AHEAD on the Amazon “Electoral Heat” Map. But he’s dropped two points in two days. #Panic! Well, no. If he does this well in the _real_ election, I’ll be very satisfied indeed. LUCY AND THE FOOTBALL: A video look back at when the MSM called Florida for Gore in 2000, while polls were still open in the state. ... More Advertisement
+More   “WHEN ANGRY, REDISTRIBUTIONISTS TEND TO PLOT REVENGE.” And they’re always angry. PETE STARK (D-CA) LOST, to his fellow Bay Area Democrat: “Stark, D-Fremont, won office 40 years ago by beating a seasoned Democratic incumbent whom he painted as out of touch with the times and his constituents — just as challenger Eric Swalwell, 31, a Dublin councilman and Alameda County prosecutor, described Stark, 80, this year in the newly drawn 15th Congressional District,” The _San Jose Mercury_ reports. “At shortly after midnight, returns showed Swalwell leading Stark by about 6 percentage points.” ... TEA PARTY FAVORITE MIA LOVE ALSO LOST LAST NIGHT: “Jim Matheson claims victory over Mia Love in very close 4th District race,” Utah’s _Deseret News_ reports. “After a seesaw battle all night long, Matheson bested Love 49.34 percent to 48.06 percent, a 2,818-vote difference, according to unofficial results.” ... More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
