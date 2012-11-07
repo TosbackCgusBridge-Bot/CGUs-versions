@@ -34,7 +34,11 @@ As per our company policy, we never use or share any personally identifiable inf
 Customer Feedback and Complaints  
 We welcome your questions and comments about our web site. Please email us at support@TheLawPortal.co.uk .  
   
- 
+  
+  
+  
+  
+seal background criminal records  
 
 *   Terms &. Conditions
 *   Privacy Policy
