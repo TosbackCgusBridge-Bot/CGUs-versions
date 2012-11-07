@@ -1,6 +1,7 @@
-Play Games at Miniclip.com P...Paintball Presidential Paintball Who will you choose?  
-Fight it out! GravityGuy Your weekly challenge Win the Silver award!  
-Gravity Guy New games! Hit the homepage  
+Play Games at Miniclip.com Empire A new kingdom awaits! Join a faction  
+Fight for the crown! GravityGuy Your weekly challenge Win the Silver award!  
+Gravity Guy Bullfrog Poker Texas Hold’em! Show your poker face  
+Go all-in! New games! Hit the homepage  
 Great new games out now My Miniclip Credits
 
 *   Signup
@@ -31,12 +32,13 @@ More Languages ›
 
 *   Miniclip Home
 *   Action
-*   8 Ball Pool
+*   Pool
 *   Sports
-*   Play with Friends
+*   Multiplayer
 *   Puzzle
 *   iPhone
 *   Sketch Star
+*   Android
 *   3D
 *   More Categories
 
