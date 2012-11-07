@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Tuesday, November 6, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Wednesday, November 7, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Tuesday, November 6, 2012 Go Follow the Atlant
 *   Magazine
 *   video
 
-And If the GOP Doesn't Win, What Then? James Fallows Life in Ohio, Center of the Political Universe Molly Ball The 10 Biggest Legal Stories on Election Night Andrew Cohen Tax Cuts Have a New Name Matthew O'Brien Hurricane Sandy Guide to Working From Home Derek Thompson How Conservatives Would Reform FEMA Jordan Weissmann 'Homeland' Is Getting Sneaky All Over Again Spencer Kornhaber Why Does Horse Racing Survive? Gary Andrew Poole The Big Lie of 'Flight': Miracles Land Planes Jason Bailey The Palestinian Guy Fawkes Michael Koplow Staying Out of Trouble During China's Power Transfer Jan Cao Who Owns the Pussy Riot Brand Claire Bigg and Natalya Dzhanpoladova Storm Power Outages From Space Rebecca J. Rosen No Twitter? Post-Its Sent to Sandy Megan Garber No 'Positive Detection' of Methane on Mars Rebecca J. Rosen 2 Key Education Votes to Watch Emily Richmond Lawn Signs Are Useless. Why Do We Love Them? Lane Wallace Stop Saying 'Fire in a Crowded Theater' Trevor Timm Why Can't We Tickle Ourselves? Maria Popova The Midnight Evacuation of NYU Medical Center Samuel Penziner The Most Contested Health Issues on the Ballot Lindsay Abrams Presented by Brave Thinkers: Our Annual List of Risk-Takers Mike Bloomberg Knows What's Good for You James Bennet Jazz: How America's Most Vibrant Music Became a Relic Benjamin Schwarz Presented by The Moment the Lights Went Out in New York Megan Garber What Would Happen If We Scrapped Congress? Kasia Cieplak-Mayr von Baldegg Hurricane Sandy Looks Scary from Space Kasia Cieplak-Mayr von Baldegg Privacy Policy
+No One Should Have to Wait 7 Hours to Vote Andrew Cohen The 3 Myths of the Romney Campaign James Fallows Are Unions Obama's Secret Weapon in Ohio? Molly Ball The Winner Won't Save the Middle-Class Derek Thompson Why the 'I Voted' Sticker Matters Derek Thompson How Obama Beat the Super PACs Jordan Weissmann Baseball's Grad School: The Arizona Fall League Chris Feliciano Arnold 'The Walking Dead': A Zombie Apocalypse Jeffrey Goldberg, J.J. Gould, and Scott Meslow Why Does Horse Racing Survive? Gary Andrew Poole China's Transparency Reform: Is It for Real? David Caragliano Strategic Advice for the Next President Ali Wyne Saudi Arabia Sets Its Sights on Afghanistan Frud Bezhan Romney's Facebook Fans vs. Obama's Rebecca J. Rosen Googling 'Who Is Running for President?' Megan Garber It May Be Illegal to Instagram Your Ballot Rebecca J. Rosen 2 Key Education Votes to Watch Emily Richmond Lawn Signs Are Useless. Why Do We Love Them? Lane Wallace Stop Saying 'Fire in a Crowded Theater' Trevor Timm 1 in 3 Men Can't See His Penis Lindsay Abrams The Midnight Evacuation of NYU Medical Center Samuel Penziner The Most Contested Health Issues on the Ballot Lindsay Abrams Presented by Brave Thinkers: Our Annual List of Risk-Takers Mike Bloomberg Knows What's Good for You James Bennet Jazz: How America's Most Vibrant Music Became a Relic Benjamin Schwarz Presented by How the Animated GIF Took Over the Election Kasia Cieplak-Mayr von Baldegg What Voting Looked Like in 1944 Kasia Cieplak-Mayr von Baldegg The Moment the Lights Went Out in New York Megan Garber Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,18 +113,18 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report Shutterstock/Anna Paff The Sexes  
-How men and women interact in a changing society. Come join the discussion on our newest channel. Read more › Just In Lindsay Abrams 8:04 AM ET Study: Cocaine Increases Long-Term Risk of Heart Attack and Stroke 1352207096 Voices
+Special Report Reuters Full Political Coverage  
+For analysis and commentary from Atlantic writers, check out our Politics channel. And follow our all-election twitter feed @TheAtlantic. Read more › Just In Ashley Fetters 8:04 AM ET Did Inflammatory Remarks About Rape and Abortion Doom GOP Candidates? 1352293470 Voices
 
-*   Jeffrey Goldberg When Andrew Sullivan and I Agree 4:07 AM ET
-*   James Fallows Dixville Notch Has Cast Its Vote ... 2:25 AM ET
-*   Ta-Nehisi Coates Ohio We Go Hard: Sherrod Brown As You've Never… Nov 5, 2012
-*   Derek Thompson The Next President (Whoever He Is) Won't Solve… Nov 5, 2012
-*   Robert Wright Is Ohio a 'Toss-Up'? Nov 5, 2012
+*   Robert Wright The New Barack Obama 3:42 AM ET
+*   James Fallows The Election-Night Thoughts of the Atlas Shrugged… 2:43 AM ET
+*   Ta-Nehisi Coates Marriage Equality's Southern Offensive 12:51 AM ET
+*   Garance Franke-Ruta 2012 Election Winners and Losers Nov 6, 2012
+*   Derek Thompson The 10 Best Stocks Since the Last Presidential… Nov 6, 2012
+*   Jeffrey Goldberg 'I'm Keeping My Eye on Virginia,' the Palestinian… Nov 6, 2012
+*   Steve Clemons Ed Gillespie's Absurd Bluster Nov 6, 2012
 *   Clive Crook Together We Stand, Divided We Fall Nov 2, 2012
-*   Garance Franke-Ruta How to Tweet Responsibly During a Breaking-News… Nov 1, 2012
 *   Alexis C. Madrigal Credit Where It's Due: I Love the New Gmail Design Nov 1, 2012
-*   Steve Clemons GOP Presidents Have Been the Worst Contributors… Oct 27, 2012
 
 Correspondents
 
@@ -133,7 +133,7 @@ Correspondents
 *   Garrett Epps The Electoral Vote System is Absurd, but It's the Law
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Hurricane Sandy: One Week After Landfall Nov 5, 2012 Video 'The Way Americans Like to Do It': What Voting Looked Like in 1944 Animated GIFs and the Election What Twitter Tells Us About Voters Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Campaign 2012: The Story in Photos Nov 6, 2012 Video 'The Way Americans Like to Do It': What Voting Looked Like in 1944 Animated GIFs and the Election What Twitter Tells Us About Voters Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -162,23 +162,23 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Syrian Rebel Leader Is Pulling for Romney  
+*   Loss of the Senate Stings Republicans Most of All  
     
-*   Dixville Notch Was a Tie  
+*   Obama Wins Tomorrow's Front Pages  
     
-*   If You're a British Spy, Don't Drive a Jaguar with '007' Plates  
-    
-
-Last Update: 7:38 AM
-
-*   The Story Behind New York Magazine's Hurricane Sandy Cover  
-    
-*   Chris Anderson on Why He's Leaving Digital for DIY  
-    
-*   Romney's Murky Urban Agenda  
+*   NBC Is Sick and Tired of Employing Donald Trump  
     
 
-Last Update: 8:34 PM Most Popular
+Last Update: 7:45 AM
+
+*   The Skyrocketing Costs of Running for Mayor of a Major U.S. City  
+    
+*   The Surprisingly Versatile Design of the Voting Booth  
+    
+*   The Congressional Races Urbanists Should Be Watching  
+    
+
+Last Update: 9:07 PM Most Popular
 
 1
 
@@ -186,19 +186,19 @@ Hurricane Sandy: After Landfall
 
 2
 
-No One in America Should Have to Wait 7 Hours to Vote
+How Conservative Media Lost to the MSM and Failed the Rank-and-File
 
 3
 
-What If the GOP Loses? 'Atlas Shrugged' vs. 'The Fire Next Time'
+Via @BarackObama, the Most Popular Tweet of All Time
 
 4
 
-Noam Chomsky on Where Artificial Intelligence Went Wrong
+OBAMA'S BIG NIGHT
 
 5
 
-Ask Dr. Popkin: The 3 Myths of the Romney Campaign
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 6
 
@@ -206,19 +206,19 @@ Hurricane Sandy: The Aftermath
 
 7
 
-Should Science Majors Pay Less for College Than Art Majors?
+Campaign 2012: The Story in Photos
 
 8
 
-Hurricane Sandy: One Week After Landfall
+2012 Election Winners and Losers
 
 9
 
-Ohio We Go Hard: Sherrod Brown As You've Never Seen Him
+On Ballot Issues, Double-Timing The March of Progress
 
 10
 
-Does Your Wage Predict Your Vote?
+The Election-Night Thoughts of the Atlas Shrugged Guy
 
 *   Subscribe Help
 *   Faq
