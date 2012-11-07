@@ -15,7 +15,7 @@ Skip to content
 *   Sell
 *   Gift Center
 
-**Search** Presidential Election Sale: Take An Honest Abe ($5) Off T-Shirts &. Mugs!     Use Code: ABEISFOR5OFF   LAST DAY! (details) Zazzle Privacy Policy Policies
+**Search** Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
