@@ -113,33 +113,33 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/07/2012 7:02 AM ET
+Updated: 11/07/2012 2:17 PM ET
 
-1.  1 Gary Johnson: Obama will win
-2.  2 Bill O'Reilly: 'The white establishment is now the minority'
-3.  3 Chrysler gives workers day off to vote
-4.  4 Karl Rove: Fox News Ohio call 'premature'
+1.  1 Bill O'Reilly: 'The white establishment is now the minority'
+2.  2 MSNBC weighs in on Karl Rove
+3.  3 Karl Rove: Fox News Ohio call 'premature'
+4.  4 Gary Johnson: Obama will win
 5.  5 Christie lashes 'know-nothing, disgruntled' Romney aides
-6.  6 Early election results, via NBC
-7.  7 Fox News obsessed with lone Black Panther
-8.  8 Huckabee slams GOP on minority outreach
-9.  9 Obama: I can do 'Gangnam Style' dance
-10.  10 MSNBC weighs in on Karl Rove
+6.  6 Obama calls Clinton (Updated)
+7.  7 Allen West: It ain’t over til it’s over
+8.  8 Fox News obsessed with lone Black Panther
+9.  9 Nate Silver: One-term celebrity?
+10.  10 Chrysler gives workers day off to vote
 
-Updated: 11/07/2012 7:02 AM ET
+Updated: 11/07/2012 2:17 PM ET
 
 1.  1 Chrysler gives workers day off to vote
-2.  2 Early election results, via NBC
-3.  3 Christie lashes 'know-nothing, disgruntled' Romney aides
+2.  2 Christie lashes 'know-nothing, disgruntled' Romney aides
+3.  3 Early election results, via NBC
 4.  4 Obama, not-so-happy warrior
-5.  5 Obama sheds a tear at final campaign rally
-6.  6 Gary Johnson: Obama will win
-7.  7 Red-state Dems fight Obama drag
-8.  8 Fox News obsessed with lone Black Panther
-9.  9 Bill O'Reilly: 'The white establishment is now the minority'
-10.  10 Romney Mormon video goes viral
+5.  5 Gary Johnson: Obama will win
+6.  6 Bill O'Reilly: 'The white establishment is now the minority'
+7.  7 Karl Rove: Fox News Ohio call 'premature'
+8.  8 Obama sheds a tear at final campaign rally
+9.  9 Fox News obsessed with lone Black Panther
+10.  10 Red-state Dems fight Obama drag
 
-Updated: 11/07/2012 7:02 AM ET
+Updated: 11/07/2012 2:17 PM ET
 
 1.  1 Early election results, via NBC
 2.  2 Chrysler gives workers day off to vote
@@ -148,18 +148,18 @@ Updated: 11/07/2012 7:02 AM ET
 5.  5 Romney Mormon video goes viral
 6.  6 If Obama loses…
 7.  7 If Romney loses…
-8.  8 Dems' drive to retake House falters
-9.  9 Christie lashes 'know-nothing, disgruntled' Romney aides
+8.  8 Christie lashes 'know-nothing, disgruntled' Romney aides
+9.  9 Dems' drive to retake House falters
 10.  10 Red-state Dems fight Obama drag
 
-Updated: 11/07/2012 7:02 AM ET
+Updated: 11/07/2012 2:17 PM ET
 
 1.  1 Axelrod: 'They're in deep trouble'
 2.  2 Early election results, via NBC
 3.  3 Chrysler gives workers day off to vote
 4.  4 Obama, not-so-happy warrior
-5.  5 Dems' drive to retake House falters
-6.  6 Former Hillary aide backs Romney
+5.  5 Former Hillary aide backs Romney
+6.  6 Dems' drive to retake House falters
 7.  7 Christie was Mitt's VP first choice
 8.  8 Iowa to poll-watchers: Back off
 9.  9 Obama early vote edge tenuous
@@ -170,68 +170,68 @@ Updated: 11/07/2012 7:02 AM ET
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/07/2012 7:02 AM ET
+Updated: 11/07/2012 2:17 PM ET
 
-1.  1 Rep. West's race still undecided
-2.  2 GOP soul-searching must now begin
-3.  3 'Hair flag lady' stars at Obama speech
-4.  4 Heitkamp on brink of upset win
-5.  5 Obama claims victory: 'Long campaign now over'
-6.  6 Obama's speech: 5 best lines
-7.  7 12 takeaways from Obama's win
-8.  8 Exit polls 2012: How Obama won
-9.  9 Romney's speech: 5 best lines
-10.  10 Schmidt: GOP must muzzle Rush
+1.  1 Auto bailout may have saved Obama
+2.  2 Study: Youth vote was decisive
+3.  3 Foreign media eyes U.S. results
+4.  4 Portman may take a run at NRSC
+5.  5 Palin finds comfort in Corinthians
+6.  6 Ted Cruz: Obama must triangulate
+7.  7 Obama sees voter mandate on taxes
+8.  8 Ryan returns to House: What next?
+9.  9 Dems on track to get 7 House seats
+10.  10 Rove mum on election call uproar
 
-Updated: 11/07/2012 7:02 AM ET
+Updated: 11/07/2012 2:17 PM ET
 
-1.  1 Rep. West's race still undecided
-2.  2 GOP soul-searching must now begin
-3.  3 'Hair flag lady' stars at Obama speech
-4.  4 Heitkamp on brink of upset win
-5.  5 Obama claims victory: 'Long campaign now over'
-6.  6 Obama's speech: 5 best lines
-7.  7 12 takeaways from Obama's win
-8.  8 Exit polls 2012: How Obama won
-9.  9 Romney's speech: 5 best lines
-10.  10 Schmidt: GOP must muzzle Rush
+1.  1 Auto bailout may have saved Obama
+2.  2 Study: Youth vote was decisive
+3.  3 Foreign media eyes U.S. results
+4.  4 Portman may take a run at NRSC
+5.  5 Palin finds comfort in Corinthians
+6.  6 Ted Cruz: Obama must triangulate
+7.  7 Obama sees voter mandate on taxes
+8.  8 Ryan returns to House: What next?
+9.  9 Dems on track to get 7 House seats
+10.  10 Rove mum on election call uproar
 
-Updated: 11/07/2012 7:02 AM ET
+Updated: 11/07/2012 2:17 PM ET
 
-1.  1 Rep. West's race still undecided
-2.  2 GOP soul-searching must now begin
-3.  3 'Hair flag lady' stars at Obama speech
-4.  4 Heitkamp on brink of upset win
-5.  5 Obama claims victory: 'Long campaign now over'
-6.  6 Obama's speech: 5 best lines
-7.  7 12 takeaways from Obama's win
-8.  8 Exit polls 2012: How Obama won
-9.  9 Romney's speech: 5 best lines
-10.  10 Schmidt: GOP must muzzle Rush
+1.  1 Auto bailout may have saved Obama
+2.  2 Study: Youth vote was decisive
+3.  3 Foreign media eyes U.S. results
+4.  4 Portman may take a run at NRSC
+5.  5 Palin finds comfort in Corinthians
+6.  6 Ted Cruz: Obama must triangulate
+7.  7 Obama sees voter mandate on taxes
+8.  8 Ryan returns to House: What next?
+9.  9 Dems on track to get 7 House seats
+10.  10 Rove mum on election call uproar
 
-Updated: 11/07/2012 7:02 AM ET
+Updated: 11/07/2012 2:17 PM ET
 
-1.  1 Rep. West's race still undecided
-2.  2 GOP soul-searching must now begin
-3.  3 'Hair flag lady' stars at Obama speech
-4.  4 Heitkamp on brink of upset win
-5.  5 Obama claims victory: 'Long campaign now over'
-6.  6 Obama's speech: 5 best lines
-7.  7 12 takeaways from Obama's win
-8.  8 Exit polls 2012: How Obama won
-9.  9 Romney's speech: 5 best lines
-10.  10 Schmidt: GOP must muzzle Rush
+1.  1 Auto bailout may have saved Obama
+2.  2 Study: Youth vote was decisive
+3.  3 Foreign media eyes U.S. results
+4.  4 Portman may take a run at NRSC
+5.  5 Palin finds comfort in Corinthians
+6.  6 Ted Cruz: Obama must triangulate
+7.  7 Obama sees voter mandate on taxes
+8.  8 Ryan returns to House: What next?
+9.  9 Dems on track to get 7 House seats
+10.  10 Rove mum on election call uproar
 
 Showing Last 7 Days
 
-Updated: 11/07/2012 7:02 AM ET
+Updated: 11/07/2012 2:17 PM ET
 
-1.  1 Four more for 44
-2.  2 The looming GOP civil war
-3.  3 Christie was Mitt's VP first choice
-4.  4 Obama early vote edge tenuous
-5.  5 Jobs report puts economy back in campaign spotlight
-6.  6 Liberals fear grand bargain betrayal
+1.  1 GOP soul-searching: 'Too old, too white, too male'?
+2.  2 Four more for 44
+3.  3 The looming GOP civil war
+4.  4 Christie was Mitt's VP first choice
+5.  5 Obama early vote edge tenuous
+6.  6 Jobs report puts economy back in campaign spotlight
 7.  7 Poll-watchers: States out of line
 8.  8 Rove: 279 electoral votes for Mitt
 9.  9 Radio: The other air war
