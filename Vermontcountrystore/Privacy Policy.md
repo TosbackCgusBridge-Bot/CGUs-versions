@@ -7,6 +7,7 @@ Live Help |
 *   Customer Service
 
 *   Christmas
+    *   New This Christmas
     *   Seasonal Favorites
     *   Holiday Decorations
     *   Holiday Food &. Candy
@@ -84,6 +85,7 @@ Live Help |
     *   Shop By Brand
     *   Calida
     *   Eileen West
+    *   IZOD
     *   FeelGood by The Vermont Country Store
     *   Lanz of Salzburg
     *   Munsingwear
