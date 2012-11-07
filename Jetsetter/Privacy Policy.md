@@ -51,10 +51,10 @@ Looking for more about your trip? Checkout New York City and The Caribbean spotl
 
 Collections Travel Ideas
 
+*   Exclusive Hotels by Lexus
 *   Secret Five-Star Stunners
 *   Bring the Brood
 *   Steals on Ski Stays
-*   Bucket List Trips
 
 *   Jetsetter Journeys
 *   Honeymoon Planning
@@ -228,35 +228,35 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   First Luxury Art Hotel - Rome
+*   Ca' Sagredo Hotel - Venice
     
-    Starting Today 11/6 at 3pm EST
-    
-*   Beacon Hill Hotel - Boston
-    
-    Starting Today 11/6 at 3pm EST
-    
-*   Charleston Place - S.C. South Carolina
-    
-    Starting Today 11/6 at 3pm EST
+    Starting Today at Noon EST
     
 *   Hotel Vitale - San Francisco
     
-    Starting Wednesday 11/7 at Noon EST
-    
-*   The Palms - Las Vegas
-    
-    Starting Wednesday 11/7 at Noon EST
+    Starting Today at Noon EST
     
 *   Farmhouse Inn - Sonoma, CA
     
-    Starting Wednesday 11/7 at Noon EST
+    Starting Today at Noon EST
     
-*   Ca' Sagredo Hotel - Venice
+*   The Palms - Las Vegas
     
-    Starting Wednesday 11/7 at Noon EST
+    Starting Today 11/7 at 4pm EST
     
 *   Mr. C Beverly Hills
+    
+    Starting Thursday 11/8 at 3pm EST
+    
+*   La Quinta Troppo - Mexico
+    
+    Starting Thursday 11/8 at 3pm EST
+    
+*   Le Meridien Philadelphia
+    
+    Starting Thursday 11/8 at 3pm EST
+    
+*   Hutton Hotel - Nashville
     
     Starting Thursday 11/8 at 3pm EST
     
