@@ -117,7 +117,6 @@
     *   Mystery Gifts
     *   Sale Gifts
     *   Weekly Special Gifts
-    *   Spooky Halloween Specials
 
 Christmas Gifts | Assortments | New Gifts FAQContact UsFigis GuaranteeShipping InformationLow PaymentsFree GiftsSafe &. SecureReturns PolicyPrivacy PolicyCredit DetailsTerms of UseEmail Us Internet Privacy Policy
 
