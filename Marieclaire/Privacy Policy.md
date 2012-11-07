@@ -81,6 +81,10 @@ enter now See all giveaways celeb stories The New Angelina Jolie The movie star/
 
 Latest blog entries
 
+*   The War on Women: Surrendered (For Now)
+    
+    Something happened last night besides a surprisingly speedy Barack Obama victory: The war on women suffered major setbacks. 11/07/12
+    
 *   Why This New Yorker's Vote Counts More Than Ever
     
     For the first time since I stepped into a ballot box, I'm going to feel like my vote will make a difference. I haven't always felt this way. 11/05/12
@@ -96,10 +100,6 @@ Latest blog entries
 *   How to Help Hurricane Sandy Victims
     
     A week ago, Hurricane Sandy was barely even mentioned on the hourly weather forecast, and now, the epic cyclone's damage is almost irreversible. 10/31/12
-    
-*   Hurricane Sandy Is All About Politics
-    
-    On the surface, it would appear that Hurricane Sandy, the superstorm affecting 900 miles of the Eastern Coast, has halted the presidential campaign in its tracks. 10/30/12
     
 *   See all blogs
 
