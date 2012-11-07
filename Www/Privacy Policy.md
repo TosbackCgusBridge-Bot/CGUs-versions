@@ -1,4 +1,4 @@
-Amazon Join Prime
+Amazon
 
 *   Your Amazon.com
 *   Today's Deals
@@ -142,10 +142,12 @@ Examples of information you can access easily at Amazon.com include up-to-date i
 
 *   Track or Manage Purchases
 *   Manage Payment Options
-*   Return Items
+*   Return or Replace Items
 *   Change Name, E-mail, or Password
 *   Manage Address Book
 *   Manage Your Kindle
+
+Support
 
 *   Kindle Help Forum
 *   General Help Forum
@@ -243,8 +245,6 @@ Kindle Owners' Lending Library
 Borrow from over 180,000 titles for free
 
 \>. Get started
-
-Watch. Read. Shop. Relax. Millions of Amazon Prime members enjoy instant videos, free Kindle books and unlimited free two-day shipping. >. Get started
 
 *   Unlimited Instant Videos
 *   Prime Instant VideosUnlimited streaming of thousands of  
@@ -404,17 +404,13 @@ Watch. Read. Shop. Relax. Millions of Amazon Prime members enjoy instant videos,
 *   Golf
 *   All Sports &. Outdoors
 
-*   Automotive
+*   Automotive &. Industrial
 *   Automotive Parts &. Accessories
 *   Automotive Tools &. Equipment
 *   Car Electronics &. GPS
 *   Tires &. Wheels
 *   Motorcycle &. ATV
 *   Industrial &. Scientific
-*   Industrial Supplies
-*   Lab &. Scientific
-*   Janitorial
-*   Safety
 
 *   Unlimited Instant Videos
 *   MP3s &. Cloud Player20 million songs, play anywhere
@@ -466,5 +462,3 @@ View Cart (0 items) (0 item) (0 items)
 *   Wish from Any WebsiteAdd items to your List from anywhere
 *   Wedding Registry
 *   Baby Registry
-*   Kids' Birthdays
-*   Friends &. Family Gifting
