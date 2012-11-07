@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Christmas Cooks UP NEXT › Andy Bates Amer...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Diners, Drive-I... UP NEXT › Diners, Drive-I...
 
 *   Channel  
     Guide
@@ -274,7 +274,20 @@ Newsletter
 
 Delicious new recipe ideas delivered weekly to your inbox.
 
-Your email address: Follow Us
+Your email address:
+
+*   Anyone for chocolate almond and salted caramel cake???? @FoodNetwork\_UK Christmas cookery school. 💕💗💖💖💖💖 t.co/sNkztB6J
+*   Get your mitts on these 58 nostalgic sweets &. your copy of Andy Bates's new cookbook. Plus tonight, it's sausage night t.co/PUBi91wN
+*   RT @davidfiske: Not long until @FoodNetwork\_UK clogs up my @freesat\_TV box with plenty of Christmas programmes :-D #addict
+*   Recipe of the Day: Cashew Nut and White Chocolate Fudge t.co/0W0ZuIpl - We just couldn't resist!
+*   A little blowtorch action going on on set with @lotteduncan #christmas t.co/eIUnQpbe
+*   @FoodNetwork\_UK @lotteduncan So beautiful! I want to decorate my whole apartment!
+*   Christmas cooking in the @foodnetwork\_uk kitchen!! t.co/xR6vMBsO
+*   Going all out red and white on set today with @lotteduncan #christmas t.co/nRvdioyb
+*   Look who we've got in our Christmas cookery school kitchen today! It's none other than @lotteduncan t.co/TJcFtY1H
+*   Check out our gorgeous little gingerbread house #christmas t.co/WhwlQk1h
+
+Follow Us
 
 *   Top collections
 *   Beef recipes
