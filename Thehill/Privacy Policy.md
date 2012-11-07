@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Axelrod says Obama has Election Day edge, touts ‘cold, hard data’First-ever tie in Dixville Notch's midnight voteRep. Allen West in close raceElection results will render verdict on influence of high-profile super-PACsGOP senators: Thousands of ballots unlikely to reach military voters in time
+Rep. Allen West in close raceTrump calls for revolution, blasts Electoral CollegePoll closing times: Key presidential, Senate, House statesObama projected as winner in Michigan, PennsylvaniaBoth campaigns predict victory
 
 Emailed
 
-GOP senators: Thousands of ballots unlikely to reach military voters in timePrediction: Romney 325, Obama 213 Chamber tells Geithner to back off on money market fundsConflict-of-interest concerns raised as Obama races to implement health reformPoll: Swing-state voters split 48-48 between Obama, Romney
+Prediction: Romney 325, Obama 213 GOP senators: Thousands of ballots unlikely to reach military voters in timePoll: Swing-state voters split 48-48 between Obama, RomneyObama win ensures health law's futureConflict-of-interest concerns raised as Obama races to implement health reform
 
 Discussed
 
-Texas sparks international row with election observersOpinion: Here comes the landslideObama's 'revenge' remark reverberates on presidential campaign trailGOP senators: Thousands of ballots unlikely to reach military voters in timeMadonna strips for Obama, offers profanity-laced endorsement
+Texas sparks international row with election observersOpinion: Here comes the landslideDemocratic senators offer gun control amendment for cybersecurity bill Obama's 'revenge' remark reverberates on presidential campaign trailGOP senators: Thousands of ballots unlikely to reach military voters in time
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Al Gore: Florida voting problems reminiscent of Jim Crow days
-*   Mitt Romney: 'I feel like we put it all on the field'
-*   Pelosi's home in Calif. burglarized
+*   Puerto Rico votes to seek statehood
+*   Paul Ryan ‘proud’ of campaign, ‘looking forward’ to DC return
+*   Florida remains too close to call
 
   
 More Briefing Room » Congress Blog
 
-*   Sandy shows costs of climate change
-*   Obama recognized importance of Asia early on
-*   Change in law necessary to address HIV discrimination
+*   Congress must act on Pandemic and All-Hazards Preparedness bill
+*   113th Congress will be more diverse
+*   Now Obama must act boldly to solve nation's problems
 
   
 More Congress Blog » Pundits Blog
 
-*   Waiting for 2016: Elizabeth Warren, Sarah Palin, Rick Perry, Chris Christie, Jeb Bush and David Petraeus
-*   For the right, a lone bastion left
-*   The what-ifs
+*   Tea leaves — 2012
+*   Why Obama won
+*   Widening the GOP tent to include more minorities and single women
 
   
 More Pundits Blog » Twitter Room
 
+*   Anthony Weiner returns to Twitter with Sandy plea
 *   ‘Hillary2016’ trending worldwide
 *   Trump calls for revolution, blasts Electoral College
-*   Obama tweets 'thank you' following projected win
 
   
 More Twitter Room » Hillicon Valley
 
-*   AT&T to pay $700,000 for overcharging customers
-*   NJ extends deadline for voters casting ballots via email, fax
-*   Report: Pandora sues ASCAP for lower music licensing fees
+*   AT&T to invest $14 billion to expand networks
+*   House Judiciary roster faces post-election shake-up
+*   News bites: Twitter played big role in 2012 election
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
+*   Green groups tout election results as victory for clean energy
+*   Two pro-Keystone pipeline Dems have good nights
 *   News bites: Energy in Obama’s second term
-*   Energy winners and losers: A snapshot
-*   House Energy chairman Upton wins
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Freshman Rep. Denham wins reelection
-*   Dean of California delegation loses reelection bid
-*   Rep. Sherman beats Rep. Berman in Calif. member matchup
+*   Waxman fights off independent opponent
+*   Tea Party favorite West calls for a recount
+*   Recount likely in ND Senate race
 
   
 More Ballot Box » On The Money
 
+*   Baucus urges post-election compromise on fiscal cliff
+*   News bites: Aftermath
 *   Top tax-writers cruise to reelection
-*   Paul Ryan wins reelection in House campaign
-*   Consumer advocate Warren wins Senate seat
 
   
 More On The Money » Healthwatch
 
+*   Insurers: Health law still flawed
+*   News bites: Obama's win cements 'ObamaCare'
 *   Abortion-rights groups cheer Akin, Mourdock defeats
-*   Healthcare law faces new road bump in Missouri
-*   SBA List says Romney underplayed social issues
 
   
 More Healthwatch » Floor Action
 
-*   Boehner to urge GOP, Dems to find ‘common ground’ to avert fiscal cliff
-*   Rep. Cole calls on DOD to revamp system for mailing military ballots
-*   NJ senators thank EPA for easing fuel shipping rules to aid storm recovery
+*   House Dems announce online 'resume bank' to help hire staff
+*   Boehner: Focus on ‘common ground’ to help avert fiscal cliff
+*   AP projects Tester as winner
 
   
 More Floor Action » Transportation
 
+*   Obama victory likely to preserve highway, Amtrak funding
 *   Leading House Transportation Dem defeats repeat opponent
 *   CNN exit poll: 56 percent of Ohio voters approved of auto bailout
-*   Spirit Airlines ad: ‘Romney wins’
 
   
 More Transportation » DEFCON Hill
 
+*   Big changes on horizon for defense panels
 *   GOP defense push doesn’t lead to election victories in Virginia
 *   Ten-term GOP congressman ousted after Md. redistricting
-*   Israeli think tank simulates war game after Iran strike
 
   
 More DEFCON Hill » Global Affairs
 
-*   Obama down with Jewish voters from 2008 results
-*   Warren wins in Massachusetts, dampens Kerry's secretary of State chances
-*   Top Republican on Foreign Affairs panel projected to win reelection
+*   Rep. Royce gets endorsement for top spot on Foreign Affairs panel
+*   Official: Obama to visit Burma
+*   Kremlin applauds Obama win, takes dig at Romney
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Dick Morris Romney 325, Obama 213 Karen Finney Closing argument More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Brent Budowsky Why Obama won Karen Finney Closing argument More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
