@@ -1,5 +1,25 @@
 Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and more. Welcome:  Log in|Register | Wish List | Live Chat | Cart{ View Cart } (0) Shopping cart is empty Search Search Site Counterfeit Protection >.
 
+*   Gift Boutique|
+    *   Gifts for Her
+        *   Hot Holiday Hues
+        *   Slippers
+        *   Animal Prints
+        *   View All
+    *   Gifts for Him
+        *   Bestselling Boots
+        *   Season's Best Slippers
+        *   Outdoor Essentials
+        *   View All
+    *   Gifts for Kids
+        *   Bestselling Boots
+        *   Season's Best Slippers
+        *   Snow Day Gear
+        *   View All
+    *   Gifts $100 and Under
+    *   Family Style Slippers
+    *   Gifts That Glam
+    
 *   Women|
     *   New Arrivals
     *   Fashion
@@ -90,7 +110,7 @@ Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and mor
     *   Cold Weather Accessories
     *   Apparel
     
-*   Our Blog |
+*   Blog |
 *   UGG Collection |
 *   WORLD OF UGG
 *   | Store Locations
