@@ -64,7 +64,7 @@ Try: 7 Years Younger • Travel Mugs • Quick Dinners
     *   Virtual Makeover Tool
 *   Family &. Relationships
     
-    At Home with **Miranda Lambert**
+    At Home with Miranda Lambert
     
     Read More!
     *   Marriage &. Sex Advice
@@ -144,7 +144,7 @@ In order to view the Privacy Policy you must enable javaScript. Print Share Late
 *   Family  
     &. Relationships
     
-    At Home with **Miranda Lambert**
+    At Home with Miranda Lambert
     
     The country music star discusses her childhood, marriage, and Thanksgiving tradition
     
@@ -194,24 +194,24 @@ Connect with GOOD HOUSEKEEPING
 
 Advertisement
 
-Don't Miss These:
+Don't Miss These: Good Housekeeping Smart Touts
 
-*   Bob Hairstyle Tips
-*   Shop and Dress Slimmer
 *   Haircuts That Take Off 10 Years
-*   Master Bedroom Decorating Ideas
-*   Beauty Bargains Under $25
-*   Easy Decor Ideas for Every Room
-*   The Layered Look That is Perfect for You
-*   Gorgeous Wavy Hairstyles
-*   How to Dress Slimmer
-*   The Best Anti-Aging Products
+*   Shop and Dress Slimmer
+*   Scheduling Secrets of Busy Moms
+*   Superfast Slow-Cooker Suppers
+*   Bob Hairstyle Tips
+*   Lake Home Inspiration
+*   16 Low-Calorie Food Swaps
+*   12 Gorgeous Cuts
+*   Tips for Stand-Out Eyes
+*   Dreaming of a Sumptuous Bedroom?
+*   Cute, Affordable Winter Accessories
+*   Living Large: Grand Living Rooms
+*   7 Strategies for a Divorce-Proof Marriage
+*   Shop the Trend: Trench Coats
 *   Is Your Makeup Aging You?
-*   Most-Requested Hairstyles
-*   Tips for Stand Out Eyes
-*   The Best Budget Makeup
-*   Spruce Up Your Bathroom
-*   Celebrity Bedroom Designs
+*   Unique Gift Ideas
 
 Product Reviews Hot Hair Dryers
 
