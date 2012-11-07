@@ -143,7 +143,7 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Tyramine Rich Foods Resources
+*   Pro Collagen Resources
 
   
 Stay in Touch With SparkPeople **Small Bits of Fitness Add Up**
@@ -152,19 +152,17 @@ Did you know that you can stay healthy and fit simply by fitting exercise into 1
 
 Read More
 
-*   How do you hold yourself accountable?
-*   Healthy snack ideas for under 100 calories?
-*   Vegetables- yuck!
+*   How do you maintain your exercise long-term?
+*   Who Motivates you on Sparkpeople?
+*   Describe the last time you felt proud of yourself.
 *   Whats the 1st thing you noticed w/your weightloss?
 *   How do you fight boredom on the treadmill?
 
 View Demo **Decline Pushups**  
-Turn ordinary pushups into an advanced exercise by adding a decline. **Slow Cooker Pork with Greens and Beans**  
+Turn ordinary pushups into an advanced exercise by adding a decline. **Slow Cooker Moroccan Beef Stew**  
 Submitted By: **CHEF\_MEG**
 
-My kids never complain about eating both beans and greens in one meal when they're served alongside rich, slow-cooked pork. I used pork shoulder, but you could use a leaner cut to save on fat and calories.  
-  
-Full Recipe
+Chef Meg turned a member-submitted dish into a slow cooker meal that's easy yet exotic! Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
