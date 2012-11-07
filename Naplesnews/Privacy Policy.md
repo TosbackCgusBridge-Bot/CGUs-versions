@@ -145,7 +145,23 @@ Naples Daily News
 
 *   2012 Elections
     
-    Where to Vote | Photos | Editorial Board Videos | Stories | Editorial Endorsements | Your Photos | Special Section »
+    Unofficial: Collier | Unofficial: Lee | Presidential State-by-State | Photos | Stories | Share Your Photos | More »
+    
+*   2012 Election Photos
+    
+    Connie Mack concedes in Senate race | Jeanne Dozier Watch Party | Marco Island City Council Race
+    
+*   2012 Election Photos
+    
+    Voting in Collier County | Voting in Lee County | Voting on Marco Island
+    
+*   2012 Election Video
+    
+    Bill Nelson speaks about victory
+    
+*   Coming Today
+    
+    Participate in live chat about post-election analysis beginning at noon on Wednesday »
     
 
 Privacy Policy
@@ -440,22 +456,22 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 123 comments
-*   Romney in a landslide  in Community School of Naples mock election Published 11/5/2012 at 6:57 p.m. 73 comments
-*   Man's neck impaled by pole at swamp buggy races Published 11/5/2012 at 6:39 p.m. 14 comments
-*   Florida remains tough sell to end for Obama, Romney Published 11/5/2012 at 5:39 a.m. 67 comments
-*   On final lap, Romney, Obama focus on key states Published 11/5/2012 at 5:44 a.m. 68 comments
+*   4 more years: Obama wins re-election Updated 11/7/2012 at 12:33 a.m. 247 comments
+*   Obama? Romney? Nation decides after long campaign Updated 11/6/2012 at 4:36 p.m. 134 comments
+*   Man's neck impaled by pole at swamp buggy races Published 11/5/2012 at 6:39 p.m. 36 comments
+*   Romney in a landslide  in Community School of Naples mock election Published 11/5/2012 at 6:57 p.m. 115 comments
+*   Election 2012: Collier judge race a win for McGarity over Turner Updated 11/6/2012 at 11:02 p.m. 5 comments
 
-Photo Galleries 2012 Budweiser Fall Classic Swamp… Naples International Film Festival… Naples Swamp Buggy Parade 2012
+Photo Galleries Election 2012: Voting in Collier County Naples International Film Festival… 2012 Budweiser Fall Classic Swamp…
 
-*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 123 comments
+*   4 more years: Obama wins re-election Published 11/6/2012 at 8:00 a.m. 247 comments
+*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 139 comments
+*   Obama? Romney? Nation decides after long campaign Published 11/5/2012 at 11:11 p.m. 134 comments
+*   Romney in a landslide  in Community School of Naples mock election Published 11/5/2012 at 6:57 p.m. 115 comments
 *   Obama, Romney each raise 'trust' issue as campaign enters home stretch Published 11/3/2012 at 3:08 p.m. 120 comments
-*   Collier voter turnout already at 54 percent as early voting ends Published 11/3/2012 at 9:45 p.m. 89 comments
-*   Last day to vote early. Collier seeing record numbers as some grow impatient waiting Published 11/3/2012 at 5:30 a.m. 86 comments
-*   Clinton tells Fort Myers: More reason to be excited about Obama now than '08 Published 11/2/2012 at 8:30 p.m. 170 comments
 
 *   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 382 comments
-*   Endorsement editiorial: The 11 Florida constitutional amendments Published 10/27/2012 at 4:00 a.m. 5 comments
+*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 139 comments
 *   In the Know: New dining options at former Rossopomodoro and L’Etoile restaurants Published 10/31/2012 at 5:17 a.m. 16 comments
 *   Naples' Tom Golisano is $20 million donor to Lee Memorial's new children's hospital Published 10/30/2012 at 11:41 a.m. 44 comments
 *   Plans fizzle for SW Fla energy crop jatropha, company executive indicted Published 11/5/2012 at 8:00 a.m. 5 comments
@@ -466,40 +482,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 66° Fog/Mist Wind: Calm Today 79° 63° Tue 08:00 PM Mostly Cloudy Showers Temp: 70° Wed 08:00 AM Partly Sunny Temp: 72° Wed 08:00 PM Partly Cloudy Showers Temp: 65°
+Currently 68° Fair Wind: NW 9mph Today 72° 56° Wed 08:00 PM Mostly Clear Temp: 64° Thu 08:00 AM Mostly Cloudy Temp: 64° Thu 08:00 PM Mostly Clear Temp: 59°
 
-Feels Like: 70°
+Feels Like: 64°
 
-Humidity: 73%
+Humidity: 65%
 
-Precip: 20%
+Precip: 12%
 
-Feels Like: 72°
+Feels Like: 64°
 
-Humidity: 57%
+Humidity: 48%
 
-Precip: 6%
+Precip: 0%
 
-Feels Like: 65°
+Feels Like: 59°
 
-Humidity: 70%
+Humidity: 60%
 
-Precip: 15%
+Precip: 1%
 
 More Weather » Calendar
 
-*   Tuesday Nov 6
 *   Wednesday Nov 7
 *   Thursday Nov 8
+*   Friday Nov 9
 *   More BROWSE Icon
-
-*   Social Mobile Payments: Americas Conference Biscayne Bay Marriott Hotel &. Marina 8 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Barrier Islands Guided Walk Bowditch Point Recreational Park 9:30 a.m.
-*   Printmaking from a Gelatin Plate with Cheryl Martin Art Center Sarasota 707 N. Tamaimi Tr. Sarasota, FL 34236 10 a.m.
-
-More Events »
 
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   Yamuna Body Rolling Class Etudes de Ballet 8:50 a.m.
@@ -517,27 +525,43 @@ More Events »
 
 More Events »
 
+*   7th Annual Sanibel Island Writers Conference Sanibel Island 7:30 a.m.
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
+*   Baby boot camp Miromar Outlets 9 a.m.
+*   Spirituality - There's an App for that!! St. Peter the Apostle Catholic Church 9 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
 *   Election 2012
     
-    Find videos, photos, stories about the upcoming general election.
+    Find results, presidential state-by-state map, photos and stories about the election.
     
-    NewsMakers
+    Editorial Cartoons
     
-    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
+    Check out our galleries of editorial cartoons about current events or personalities.
+    
+    Download iPad
+    
+    Experience the Naples Daily News -- reimagined for the iPad. Download now »
+    
+*   Football Rivalries
+    
+    Some football games are played for bragging rights. Coming Friday: Catfish Bowl.
     
     Hot Home Sales
     
     Pictures, info about recently sold single-family homes in Collier and Lee.
     
-*   Download iPad
+    NewsMakers
     
-    Experience the Naples Daily News -- reimagined for the iPad. Download now »
+    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
     
-    Mugshots
+*   Mugshots
     
     Looking for daily arrest mugshots? You can find them here in our special section.
     
@@ -545,30 +569,21 @@ More Events » Features
     
     Find film trailers, previews of films at this year's Naples International Film Festival.
     
-*   Football Rivalries
-    
-    Golden Eagles beat Trojans in 39th Coconut Bowl to remain undefeated this season.
-    
     Our World
     
     Column looks at SW Florida through eyes of Daily News photojournalists.
     
-    Biggest Catch
+*   Biggest Catch
     
     See photos from local anglers with their biggest catch of the day. Submit your photos.
     
-    f
-*   Cuties of the Week
+    f Cuties of the Week
     
     We want to see photos of your adorable kids and grandkids. Share your photos »
     
     Here's to our Heroes
     
     They put others before themselves. see problems &. solve them. Your nomination »
-    
-    2012 Halloween
-    
-    Share your Halloween photos and see winners in Halloween costume contest.
     
 
 Useful Links:
