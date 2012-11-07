@@ -8,12 +8,12 @@ Register Sign in Welcome, Logout
         *   Barack Obama
         *   Mitt Romney
         *   Elections 2012
-        *   Hurricane Sandy
         *   Election 2012
-        *   Ohio
+        *   Hurricane Sandy
         *   2012 election
-        *   Politics
-        *   From the Wires
+        *   Ohio
+        *   Donald Trump
+        *   Republican Party
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -190,21 +190,21 @@ If you have any further questions or concerns about Salon’s privacy policies a
 *   Corrections
 *   DMCA Policy
 
-About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service | TechTips 2012 Election
+About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service | TechTips iPhone app
 
-It's judgment day
+Take Salon on the go – download our free app now
 
-Current Stories Obama re-election signals new phase in Syria war
+Current Stories NOM: Americans still oppose gay marriage
 
-News. Britain is urging the U.S. to support the rebels
+News. Despite last night's ample evidence to the contrary
 
-Why losing is good for Mitt
+Is China envious of US democracy?
 
-Politics. In one way, his defeat will actually improve his place in history
+Politics. Chinese netizens acknowledge the stark contrast between US elections and their own government's transfer of power
 
-Election 2012: Can someone call it a night?
+Trump Cares
 
-Entertainment. The networks delivered an ice skating rink map, wacked-out pundits and a lot of drawn-out Romney drama
+Entertainment. Between angry rants, Donald Trump takes a moment to remember Sandy victims
 
 My dad's gone off the rails
 
@@ -213,10 +213,10 @@ Life. He nursed mom until she died. now he's like a lost soul. It's scary
 Most Read
 
 *   Donald Trump loses it, calls for "revolution" David Daley
-*   Is the GOP stealing Ohio? Brad Friedman
-*   Mitt's religious rant goes viral Zachary Bell
-*   Obama's elegant acceptance Salon Staff
 *   Fox News' dark night of the soul Andrew O'Hehir
+*   Is the GOP stealing Ohio? Brad Friedman
+*   The 20 biggest sore losers of election night Jillian Rayfield
+*   Nate Silver nails it Jacob Sugarman
 
 Voices
 
