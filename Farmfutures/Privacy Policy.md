@@ -1,32 +1,4 @@
-*   Magazines
-    *   American Agriculturist
-    *   California Farmer
-    *   Carolina-Virginia Farmer
-    *   Dakota Farmer
-    *   Indiana Prairie Farmer
-    *   Kansas Farmer
-    *   Michigan Farmer
-    *   Mid-South Farmer
-    *   Missouri Ruralist
-    *   Nebraska Farmer
-    *   Ohio Farmer
-    *   Prairie Farmer
-    *   Southern Farmer
-    *   The Farmer
-    *   The Farmer-Stockman
-    *   Wallaces Farmer
-    *   Western Farmer-Stockman
-    *   Wisconsin Agriculturist
-*   Farm Futures
-*   Beef Producer
-*   Shows
-    *   Farm Progress Show
-    *   Hay Expo
-    *   Husker Harvest Days
-    *   New York Farm Show
-*   Farm Progress America
-
-Search    **Search Site:**   Wednesday, November 07, 2012 | **Bookmark This Site**    Home Markets News Weather Farm Futures NOW! Magazine Online RSS News Land For Sale Mobile Subscribe Reprints Register Login About Us Advertise **PRIVACY POLICY**
+**PRIVACY POLICY**
 
 Thank you for visiting this Farm Progress Web site. Our Web site has much to offer. While we want you to enjoy your stay at our site, we also wish to stress that your privacy is very important to us.
 
@@ -59,54 +31,3 @@ _**The links that appear on this Farm Progress Web site are solely for the infor
 
 **Other Incidental Information  
 **In the course of normal business, Farm Progress may obtain and analyze certain other pieces of customer information. Examples of these types of information might include network (IP) addresses, browser types, pages and files retrieved from servers, and so forth. This information is used only in the aggregate for statistical analysis and problem determination. Individuals are not identified through this analysis.
-
-Go to Top Account
-
-*   Login
-*   Register
-
-Information Center
-
-*   Customer Service
-*   Contact Us
-*   Advertising Inquiries
-*   Subscriptions
-*   Privacy Policy
-*   Advertising Specs
-*   Reprints
-
-About
-
-*   Company Overview
-*   General Inquiries
-*   Corporate Communications
-*   News
-*   Editorial Offices
-*   Sales
-*   Careers
-
-Products
-
-*   State &. Regional Magazines
-*   Farm Futures
-*   Beef Producer
-*   Shows
-*   Farm Progress Library
-*   Farm Progress America, Broadcast
-*   Data Solutions
-*   Custom Publishing
-*   Digital Solutions
-*   Email Newsletter
-
-Toolbox
-
-*   Classified
-*   Land for Sale
-*   Magazine Online
-*   Mobile Alerts
-*   Growing Degree Days App
-*   Farm Futures App
-*   Beef Producer App
-*   Farm Progress App
-
-Powered by iNet Solutions Group ©2011 All Rights Reserved.
