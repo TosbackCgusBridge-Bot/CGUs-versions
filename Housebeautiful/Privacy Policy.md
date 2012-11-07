@@ -29,9 +29,9 @@ More Kitchens &. Entertaining Photo Galleries
 
 More Photo Galleries Shopping &. Gifts
 
+*   Holiday Gift Guide
 *   11 Cool Accent Chairs
 *   Pretty Floral Wallpapers
-*   The Salon: Art &. Design
 
 More Shopping &. Gifts Most Popular
 
