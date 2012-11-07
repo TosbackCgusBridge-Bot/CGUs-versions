@@ -190,87 +190,74 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Themen der Woche
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Top-50 Themen Thema Anzahl Apple 85199 Arbeit 65335 Ausbildung 50742 Auto 91650 Beauty 69883 Beruf 77944 Beziehung 72787 Computer 541462 Computerspiele 65314 deutsch 67551 Englisch 52527 Ernährung 51045 essen 71646 Facebook 78348 Fernsehen 60601 Film 101049 Finanzen 59248 Freizeit 265118 Fußball 51436 Games 126313 Geld 94294 Gesundheit 207031 Haare 83546 Handy 207314 Hilfe 150590 Internet 324646 iPhone 76319 Kinder 51178 Körper 50737 Laptop 74289 Liebe 167364 Lied 54960 Mädchen 57013 Medizin 63139 Minecraft 68977 Musik 282677 PC 285011 PC-Spiele 49222 Problem 55975 PS3 61062 Recht 95817 Schule 237594 Software 57398 Spiele 138471 Sport 111698 Technik 121533 Tiere 65261 TV 54752 Video 53130 Youtube 84312 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  Halloween
-2.  Konzert
-3.  One Direction
-4.  Periode
-5.  Pickel
-6.  Piercing
-7.  Pokemon
-8.  rauchen
-9.  Steam
-10.  Windows 8
-
-Top-50 Themen Thema Anzahl Apple 85090 Arbeit 65236 Ausbildung 50653 Auto 91589 Beauty 69811 Beruf 77857 Beziehung 72705 Computer 541104 Computerspiele 65244 deutsch 67455 Englisch 52452 Ernährung 51012 essen 71602 Facebook 78251 Fernsehen 60556 Film 100966 Finanzen 59215 Freizeit 264892 Fußball 51383 Games 126155 Geld 94207 Gesundheit 206851 Haare 83448 Handy 207057 Hilfe 150368 Internet 324391 iPhone 76216 Kinder 51139 Körper 50669 Laptop 74216 Liebe 167156 Lied 54902 Mädchen 56944 Medizin 63079 Minecraft 68896 Musik 282438 PC 284771 PC-Spiele 49176 Problem 55906 PS3 60981 Recht 95763 Schule 237212 Software 57367 Spiele 138365 Sport 111582 Technik 121418 Tiere 65202 TV 54709 Video 53089 Youtube 84223 Themen von A-Z Suchbegriff Top-Nutzer des Tages
-
-1.  Chimaer
+1.  Bademeisterin
     
     Punkte:
     
-    1396
+    781
+    
+    Level:
+    
+    Bademeisterin
+    
+2.  betti1256
+    
+    Punkte:
+    
+    657
+    
+    Level:
+    
+    betti1256
+    
+3.  Chimaer
+    
+    Punkte:
+    
+    549
     
     Level:
     
     Chimaer
     
-2.  Yellowstone
-    
-    Punkte:
-    
-    1245
-    
-    Level:
-    
-    Yellowstone
-    
-3.  Vargus
-    
-    Punkte:
-    
-    738
-    
-    Level:
-    
-    Vargus
-    
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.430.375 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.438.379 gute Fragen_
 
-*   39 Wie kann man seine Talente finden?
-*   23 Ich beziehe sofort immer alles auf mich! Gelächter etc.
-*   23 Viele Menschen Nerven mich.
+*   26 Eltern werden langsam alt
+*   21 Wie wirklich sind fiktive Welten?
+*   13 Ich würde gerne Glauben, wie? Ihr fragt warum?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
-*   Bastel-Anleitung: Blumenstrauß aus Herbstlaub
+*   Eiweißshake selber machen
 *   How-To Windows 8: Normale Programme deinstallieren
 
-*   Eiweißshake selber machen
 *   Kräuterseitlinge mit Pasta
+*   How-To: Wie ändere ich bei Windows 8 das Sperrbildschirmbild
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.989.484
+1.992.799
 
 Anzahl der Fragen
 
-8.429.845
+8.437.840
 
 Anzahl der Antworten
 
-36.516.201
+36.543.534
 
 Anzahl der Tipps
 
-75.699
+75.778
 
 Anzahl der Videos
 
-4.798
+4.803
 
 Blog
 
