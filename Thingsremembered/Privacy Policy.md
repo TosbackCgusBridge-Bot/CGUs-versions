@@ -182,7 +182,7 @@ Store Locator
     
 
 *   Special Offers
-*   Pickup In-Store
+*   NEW! Pickup In-Store
 *   Exclusive Online Gifts
 *   Free Shipping
 
