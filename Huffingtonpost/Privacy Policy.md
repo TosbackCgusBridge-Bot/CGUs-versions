@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Auto Bailout
+*   Elections 2012
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-November 6, 2012 Edition: **U.S.**
+November 7, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ November 6, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   The Polling Cake Is Baked: Obama Lead Holds In Battleground States, Inches Up Nationally34k
-    *   Christie Rejects Romney's Request To Appear At Campaign Event6k
-    *   Sarah Palin Endorses Mitt Romney One Day Before Election4k
-    *   Florida Early Voting Mayhem: Voters Face Long Lines At The Polls As Rick Scott Refuses To Budge38k
-    *   Early Voting Results 2012: Latest Figures From Key States1k
+    *   LIVE UPDATES: Election Results Roll In25k
+    *   LIVE UPDATES: Voters Hit The Polls On Election Day 26k
+    *   Final Polls: Obama Leads10k
+    *   Early Voting Results 2012: Latest Figures From Key States3k
+    *   Chris Christie Slams 'Know-Nothing, Disgruntled Romney Staffers'5k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ November 6, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   Jack Welch: 'Thank God' I Questioned The Jobs Numbers3k
-    *   All Talk, No Gas564
-    *   NY Attorney General Launches Probe Into Price Gouging Post-Sandy1k
-    *   These Jobs Are Growing Fast And Don't Require A College Degree63
-    *   Elizabeth Warren: Break Up The Banks605
+    *   Stock Market Has Picked An Election Winner769
+    *   Woman Pays $1 Million For House, Finds It's Infested With Mice162
+    *   4 CEOs That Threatened To Fire Workers If Obama Won358
+    *   Walmart Busts Dumb Thief 75
+    *   CEOs Urging Employees To Vote Romney: 'This Election Is Different'792
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ November 6, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   No Doubt Takes Down Controversial Music Video954
-    *   Melissa Joan Hart's Last-Minute Romney Endorsement2k
-    *   Katy Perry Wears Her Support For Obama1k
-    *   CRUNCH TIME: Obama Brings Out His Biggest Stars685
-    *   Sandy Telethon Dials Up $23 Million158
+    *   Melissa Joan Hart's Last-Minute Romney Endorsement3k
+    *   Motorhead Frontman: Romney Is A 'F---ing Monster'959
+    *   Bob Dylan: Obama Will Win In A 'Landslide'1k
+    *   No Doubt Takes Down Controversial Music Video1k
+    *   Is James Bond Bi? 'Skyfall' Screenwriter Discusses Controversial Scene163
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ November 6, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   How Google Maps Can Help Victims Of Hurricane Sandy
-    *   Wireless Industry Resisted Calls To Back Up Cell Towers Before Sandy793
-    *   Hurricane Sandy Delivers 'Another Catastrophe' To Verizon's Home, Complicating Network Repairs196
-    *   28,000 PayPal Passwords Allegedly Stolen By Anonymous For Guy Fawkes Day527
-    *   Apple Pays Extremely Low Income Tax Rate Outside U.S. 822
+    *   Cell Phone Salesmen Allegedly Steal Nude Pics Of Customer While 'Transferring Data'248
+    *   Who Will Win The Election? 29
+    *   iPad Loses Ground To Rival Tablets 256
+    *   The 2 Photos That Will Determine The Fate Of Samsung's Huge New Phone209
+    *   13 Dogs Who Committed Voter Fraud
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ November 6, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   Newest 'Today' Host Greeted With Criticism831
-    *   WATCH: Scarborough's Post-Sandy Prediction 4k
-    *   WATCH: Robin Roberts' Personal Message About Sandy76
-    *   NY Mag's Stunning Sandy Cover676
-    *   Networks Help Candidates Make Their Final Pitches3k
+    *   Did Sean Hannity Just Break The Law?5k
+    *   Fox News Argues With Itself Over Whether Obama Won3k
+    *   WATCH: Rather's Warning To Obama Supporters1k
+    *   The Biggest Moments From 2012 Election Coverage137
+    *   TV News Networks Unite In Major Decision656
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ November 6, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   If The World Could Vote, They'd Vote For... 5k
-    *   And The World's Most Prosperous Country Is.. 3k
-    *   Dutch Newspaper: Bain Capital Dodged Millions In Taxes2k
-    *   Putin Appears In Public After Health Rumors Soar156
-    *   U.S. Soldier Accused Of Afghan Rampage To Face Hearing1k
+    *   PHOTOS: World Watches Election Results Trickle In185
+    *   If The World Could Vote, They'd Vote For... 7k
+    *   American Student Arrested In Rome Stabbing214
+    *   LOOK: Obama Wins HuffPost Front Pages Around The World35
+    *   World Reacts To Obama's Victory106
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ November 6, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Another Reason To Quit Your Soda Habit703
-    *   Sharon Osbourne Undergoes Double Mastectomy After Finding She Has Breast Cancer Gene23
-    *   Daylight Saving Time Ends: How The Time Change Affects Your Sleep And Mood338
-    *   Ask Healthy Living: Do You Really Need To Drink Water After A Massage?20
-    *   Are You Good About Exercising? You Probably Still Sit Too Much59
+    *   Fit For Duty: How Obama And Romney Stack Up On BMI, Physical Fitness And More56
+    *   Sharon Osbourne Undergoes Double Mastectomy After Finding She Has Breast Cancer Gene75
+    *   New Class Of Cholesterol Drugs Shows Promise In Trials
+    *   How Much Exercise Does It Take To Burn Off A Coke?21
+    *   Get Stressed Easily? It Could Affect Your Health Later On
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -173,11 +173,11 @@ November 6, 2012 Edition: **U.S.**
     *   OWN
 *   Style
     
-    *   Brazilian Model Dies During Liposuction522
-    *   PHOTO: Beyonce Debuts Bangs With Jay-Z At Barclays Center116
-    *   Pippa Middleton Confronts Book Critics In The Telegraph 201
-    *   PHOTOS: That Looks Like A Bra To Us, Kristen Stewart448
-    *   PHOTOS: Victoria Beckham Did The Unthinkable And Wore Flats44
+    *   PHOTOS: Christina Aguilera Wears Hot Pink Braided Hairstyle328
+    *   Brazilian Model Dies During Liposuction613
+    *   New Orleans Beauty Guru Posts Video Claiming She Was Raped By Her Father841
+    *   Kim Kardashian Wants To Be Friends With Kate Middleton 92
+    *   PHOTOS: Michelle Obama Celebrates Barack's Second Election Victory In Style58
     
     Go to Style **More in Style**
     
@@ -195,11 +195,11 @@ November 6, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   WATCH: Chris Rock's Message For White Voters5k
-    *   23 Dogs Who Are Over The Election14
-    *   WATCH: Fox &. Friends Responds To Hurricane Sandy On 'SNL'796
-    *   Cher &. Kathy Griffin: 'Don't Let Mitt Romney Turn Back Time On Women'2k
-    *   WATCH: This Guy Made The Best Of Hurricane Sandy
+    *   'What The F\*ck Are You People Doing There?'1k
+    *   You'd Think Rick Santorum Understood Double Entendre By Now1k
+    *   23 Dogs Who Are Over The Election34
+    *   Tweets From Romney's Funniest Critic
+    *   The Best Political Memes Of The Year
     
     Go to Comedy **More in Comedy**
     
@@ -216,11 +216,11 @@ November 6, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next American Democracy
-    *   Next Whose Lucky Day?
-    *   Coming Up What's Happening: Polls
-    *   Coming Up Voter Fraud
-    *   Coming Up Voting For Good FoodGo to HuffPost Live
+    *   Next Voting Problems
+    *   Next Post Partisan-Depression
+    *   Coming Up The GOD Vote
+    *   Coming Up Mr. Chairman....
+    *   Coming Up Colorblind PoliticsGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
@@ -310,17 +310,16 @@ November 6, 2012 Edition: **U.S.**
     *   Real Estate
 
 *   Election Maps
+*   Election Results
+*   2012 Blog
+*   Opportunity
 *   Hurricane
 *   TEDWeekends
 *   OWN
-*   Opportunity
-*   2012 Blog
 *   GPS for the Soul
 *   Black Voices
 *   Gay Voices
-*   Science
 *   Crime
-*   Sports
 *   Religion
 
   
