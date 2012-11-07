@@ -382,7 +382,7 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   Endorsements |  Learn about the races and candidates |  Ballot propositions |  Voting Guide
+*   View the latest local race results |   Statewide results |   Results from the county elections office
     
 
 Privacy Policy &. User Agreement
@@ -618,9 +618,9 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos Iran hostage crisis remains vivid memory for Oxnard man Local man narrowly escapes crisis
+Videos Excited about casting votes Election sparks engagement for voters
 
-*   Iran hostage crisis remains vivid ... On Campus: Showdown Set Chemistry professor uses pizzazz to ... On Campus: Rivalry Renewed
+*   Excited about casting votes Iran hostage crisis remains vivid ... On Campus: Showdown Set Chemistry professor uses pizzazz to ...
 *   Students learn what to throw ... Celebrating Adolfo Camarillo
 
   
@@ -634,25 +634,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 174 comments
-*   Editorial: The Star's ballot endorsements in Tuesday election Published 11/3/2012 at 3:00 p.m. 84 comments
-*   Rio Lindo School principal's arrest shocks Oxnard parents Published 11/5/2012 at 4:21 p.m.
-*   Ventura County drivers involved in fatal traffic crash Updated 11/5/2012 at 5:00 p.m.
-*   Relics stolen from San Buenaventura Mission in Ventura, church officials say Updated 11/4/2012 at 10:36 p.m.
+*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 137 comments
+*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 185 comments
+*   Early surge of voters persists as polls near closure Updated 11/6/2012 at 6:50 p.m.
+*   Editorial: The Star's ballot endorsements in Tuesday election Published 11/3/2012 at 3:00 p.m. 101 comments
+*   Police recover stolen relics, identify suspect in San Buenaventura Mission burglary Updated 11/6/2012 at 4:49 p.m.
 
-Photo Galleries Gary Galloway Memorial Flag Football… Ventura County's Most Wanted November… Dia de los Muertos celebration
+Photo Galleries Intensity felt at the polls in… Ventura County's Most Wanted November… Election night 2012
 
-*   Ventura County voters are nearly flawless in picking presidential winners Updated // at : 174 comments
-*   Editorial: The Star's ballot endorsements in Tuesday election Updated // at : 84 comments
-*   Morning chat Updated // at : 125 comments
-*   Wal-Mart's new strategies allow access into Ventura County cities Updated // at : 63 comments
-*   Paulson: Trust, transparency and politics Updated // at : 41 comments
+*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 185 comments
+*   Obama: 'We have picked ourselves up,' fought back Published 11/6/2012 at 10:08 a.m. 137 comments
+*   Editorial: The Star's ballot endorsements in Tuesday election Published 11/3/2012 at 3:00 p.m. 101 comments
+*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 66 comments
+*   Paulson: Trust, transparency and politics Published 11/4/2012 at 3:00 p.m. 30 comments
 
-*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Updated // at : 26 comments
-*   Shirley: Medical device tax will impact jobs and costs Updated // at : 0 comments
-*   Oxnard school principal arrested after alleged road rage incident Updated // at : 0 comments
-*   Stonehaus to add touch of Tuscany to Westlake Village Inn Updated 10/30/2012 at 6:05 p.m. 0 comments
-*   La Reina High mock trial team wins world tournament Updated 10/29/2012 at 2:32 p.m. 5 comments
+*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
+*   Oxnard school principal arrested after alleged road rage incident Published 11/2/2012 at 5:47 p.m. 0 comments
+*   Cave that may have housed Lone Woman of San Nicolas Island uncovered Published 10/25/2012 at 6:24 p.m. 26 comments
+*   Stonehaus to add touch of Tuscany to Westlake Village Inn Published 10/30/2012 at 5:51 p.m. 0 comments
+*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 66 comments
 
 Weather
 
@@ -660,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 56° Fair Wind: Calm Today 80° 57° Tue 05:00 PM Clear Temp: 66° Wed 05:00 AM Clear Temp: 57° Wed 05:00 PM Partly Cloudy Temp: 61°
+Currently 57° Fog/Mist Wind: NE 4mph Today 67° 53° Wed 05:00 PM Fog Temp: 62° Thu 05:00 AM Mostly Clear Temp: 53° Thu 05:00 PM Mostly Cloudy Showers Temp: 58°
 
-Feels Like: 66°
+Feels Like: 62°
 
-Humidity: 49%
+Humidity: 87%
 
-Precip: 0%
+Precip: 4%
 
-Feels Like: 57°
+Feels Like: 53°
+
+Humidity: 100%
+
+Precip: 9%
+
+Feels Like: 58°
 
 Humidity: 77%
 
-Precip: 4%
-
-Feels Like: 61°
-
-Humidity: 86%
-
-Precip: 4%
+Precip: 17%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -702,15 +702,15 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   What to watch for when the vote counts start coming in
+*   Now, vote for the worst political ad of the season
 *   'Wisdom' of the crowd?
 *   Dirty tricks of the closing days
-*   National analyst nudges 24th CD toward 'toss-up' status
-*   Who is Nicole Parra?
 
 Brian Dennert here
 
+*   Election results
 *   Election day predictions?
-*   I support Dr. Lee Rogers
 
 Ingemusings
 
@@ -724,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Tuesday Nov 6
 *   Wednesday Nov 7
 *   Thursday Nov 8
+*   Friday Nov 9
 *   More BROWSE Icon
-
-*   "Artists Three " at Doyon Studio &. Gallery Doyon Studio and Gallery 9 a.m.
-*   La Leche League of Camarillo Meeting Camarillo Health Care District 10 a.m.
-*   Make a Difference and Volunteer at the Adult Literacy Center at the Camarillo Public Library! Camarillo Public Library 1:30 p.m.
-*   Westlake Village Art Guild Presents PONG APINYAVAT – Watercolor Demo Louise's Trattoria 5:30 p.m.
-*   Writer's Group A Place of Peace 7 p.m.
-
-More Events »
 
 *   My Baby Is In The NICU, Now What? Rainbow Connection Family Resource Center 10 a.m.
 *   My Baby Is In The NICU, Now What? Rainbow Connection Family Resource Center 11 a.m.
@@ -753,6 +745,14 @@ More Events »
 
 More Events »
 
+*   Bags, Bling &. Bubbly Las Posas Country Club 11 a.m.
+*   "The Good Life"! The Bonaventure 3 p.m.
+*   Big Jugs and The Iron Outlaws at The Tavern The Tavern 9 p.m.
+*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
@@ -761,37 +761,25 @@ More Events » Features
     
     Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
-    95 percent accurate
+    #Ojai: How You See It
     
-    Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
-    
-    Election Central
-    
-    Get prepared for November with candidate profiles and answers to your questions.
-    
-*   Measurement of Character
-    
-    Survey determines what voters look for. Take it yourself!
+    Your photos, your tweets, your Facebook posts about Ojai.
     
     On Campus
     
     Video profiles of high school football programs.
     
-    Football Contest
+*   Football Contest
     
     Follow Loren Ledin's picks and choose your own leaderboard.
     
-*   Storm Shield
+    Storm Shield
     
     A sophisticated weather radio on your iPhone and Android.
     
     Pigskin Picks
     
     Play our pro football picks contest for a shot at $500 and other prizes.
-    
-    #Ojai: How You See It
-    
-    Your photos, your tweets, your Facebook posts about Ojai.
     
 
 On this site:
