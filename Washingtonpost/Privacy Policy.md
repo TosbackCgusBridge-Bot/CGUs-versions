@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Jeff Flake wins Arizona Senate...**  
+    *   **President Obamas top five challenges**  
         Election 2012 | Rachel Weiner
     
     *   **The science of the Pinocchios**  
         The Fact Checker | Glenn Kessler
     
-    *   **American expats in Israel: A mother...**  
-        She The People | Annie Groer
+    *   **Women win in New Hampshire, now...**  
+        She The People | Diana Reese
     
-    *   **Guess what. The polls (and Nate...**  
-        The Fix | Aaron Blake
+    *   **Republican Rick Berg concedes to...**  
+        The Fix | Rosalind S. Helderman and Sean Sullivan
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **Election 2012: modified rapture**  
+    *   **Nate Silver, American wizard**  
         ComPost | Alexandra Petri
     
-    *   **A big night for Democrats and liberals**  
+    *   **Why having a more liberal Senate...**  
         The Plum Line | Greg Sargent
     
-    *   **A story worth hyping: Democrats...**  
-        PostPartisan | Jonathan Bernstein
+    *   **GOP reality check**  
+        PostPartisan | Charles Lane
     
-    *   **Morning Bits**  
+    *   **A wish list**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Breezy chill...**  
-        Capital Weather Gang | Dan Stillman
+    *   **Nor’easter battering Northeast...**  
+        Capital Weather Gang | Jason Samenow
     
-    *   **You’ve stood in line, now get your...**  
-        Going Out Gurus | Justin Rude
+    *   **Bars and restaurants raise money...**  
+        Going Out Gurus | Fritz Hahn and Justin Rude
     
-    *   **Reported suicide investigated as...**  
-        Crime Scene | Maggie Fazeli Fard
+    *   **Knife-wielding man in wheelchair...**  
+        Crime Scene | Allison Klein
     
-    *   **Tens of thousands voted absentee...**  
-        Virginia Politics | Patricia Sullivan
+    *   **Kaine vows to push for compromise**  
+        Virginia Politics |
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -100,14 +100,14 @@
     *   **Jay Beagle on trying to keep a...**  
         Capitals Insider | Eric Detweiler
     
-    *   **Athletes and politics on Twitter**  
+    *   **Wizards take Business of Basketball...**  
         DC Sports Bog | Sarah Kogod
     
-    *   **Garcon says injured foot still...**  
-        The Insider | Mark Maske
+    *   **Bye-week glance: Redskins offense**  
+        The Insider | Mike Jones
     
-    *   **Nationals batting practice pitcher...**  
-        Nationals Journal | James Wagner
+    *   **Baseball’s general manager meetings...**  
+        Nationals Journal | Adam Kilgore
 *   National In National
     
     *   Energy &. Environment
@@ -126,11 +126,11 @@
     *   **Are we voting in the dark?**  
         Ideas@Innovations | Dominic Basulto
     
-    *   **What we’ll learn about the loser**  
+    *   **A tale of two Obama victory speeches**  
         PostLeadership | Jena McGregor
     
-    *   **Looking for emotional reaction...**  
-        Under God | Michelle Boorstein
+    *   **Hindu American elected to Congress**  
+        Under God | Jeannine Hunter
 *   World In World
     
     *   Africa
@@ -145,17 +145,17 @@
     
     Blogs &. Columns
     
-    *   **Watching Obamas victory from Moscow...**  
-        WorldViews | Kathy Lally
-    
-    *   **Kenya cools on Obama**  
-        WorldViews | Sudarsan Raghavan
-    
-    *   **British web users are furiously...**  
+    *   **A Chinese consolation for Romney...**  
         WorldViews | Max Fisher
     
-    *   **Think your wait was bad? Photos...**  
-        WorldViews | Anup Kaphle and Max Fisher
+    *   **A very awkward video of Netanyahu...**  
+        WorldViews | Max Fisher
+    
+    *   **Why does Puerto Rico want statehood...**  
+        WorldViews | Olga Khazan
+    
+    *   **Does Obamas victory mean defeat...**  
+        WorldViews | Max Fisher
 *   Business In Business
     
     *   Economy
@@ -173,14 +173,14 @@
     *   **Electing a health-care plan**  
         The Color of Money | Michelle Singletary
     
-    *   **New Jersey voting raises concerns...**  
+    *   **Sprint, U.S. Cellular strike a...**  
         Post Tech | Hayley Tsukayama
     
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **Wonkbook: Obama reelected**  
-        Wonkblog | williamsm
+    *   **How Republicans are trying to look...**  
+        Wonkblog | Suzy Khimm
 *   Tech In Technology
     
     *   Policy
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Amazon Prime: Monthly subscription...**  
+    *   **Obama victory tweet becomes his...**  
         Hayley Tsukayama
     
-    *   **New Jersey voting raises concerns...**  
+    *   **Sprint, U.S. Cellular strike a...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Hope and pork ribs on Election...**  
-        All We Can Eat | Jim Shahin
+    *   **Chat Leftovers: Name That Dessert**  
+        All We Can Eat | Jane Touzalin
     
-    *   **Bob Dylan predicts an Obama win...**  
-        The Style Blog | Maura Judkis
+    *   **FLOTUS’ re-election style**  
+        The Style Blog | Veronica Toney
     
-    *   **Post election: lessons from kindergarten**  
+    *   **Parenting through the non-post-racial...**  
         On Parenting | Janice D'Arcy
     
-    *   **On Election Day, retiring politicians...**  
+    *   **Reliable Source live discussion...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,10 +240,10 @@
     *   **Review digest: of Lang Lang, Midori...**  
         Classical Beat | Anne Midgette
     
-    *   **Celebrities get out the vote on...**  
-        Celebritology 2.0 | Maura Judkis
+    *   **What’s up with Diane Sawyer?**  
+        Celebritology 2.0 | Veronica Toney
     
-    *   **Election already called, by Jimmy...**  
+    *   **Early stats suggest NBC led election...**  
         The TV Column | Lisa de Moraes
     
     *   **‘Obama wins’ cartoons**  
@@ -321,58 +321,76 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Obama wins a second term as U.S. president
+Florida Election Results 2012: Sen. Bill Nelson coasts to reelection. Rivera loses House seat. Obama leads Romney
 
-Robert Barnes 
+::unspecified:: 
 
-When will we know who won the election?
-
-Washington Post Staff 
-
-Wonkblogs guide to watching the exit polls What you need to know about exit polls Obama’s and Romney’s most likely paths to 270 electoral votes goes through Ohio
-
-Washington Post Staff 
-
-Exit polls: Electorate slightly more Republican than 2008 Election night viewer's guide The 7 most important counties in 2012 Footnoting the election! Mitt Romney moved by surprise show of support Fla. GOP memo: Romney already beating McCains 08 tally Voter irregularities roundup Why 50 million Americans wont vote tomorrow, in two charts Pundit accountability: The official 2012 election prediction thread Poll shows widening racial gap in presidential contest
-
-Jon Cohen 
-
-Mitt Romney changing his tune in final hours
+At Romney headquarters, the defeat of the 1 percent
 
 Dana Milbank 
 
-In battleground Virginia, long waits at the polls
+What the 2012 election taught us Obama, buoyed by reelection, faces stark fiscal battles with Congress in second term
 
-Carol Morello 
+David A. Fahrenthold 
 
-Elliott Carter dies. Pulitzer Prize-winning American composer was 103
+Obama’s victory should settle a bitter argument
 
-Anne Midgette 
+E.J. Dionne Jr. 
 
-Near death and birth at the polls Exit poll shows joblessness, high prices top worries. 4 in 10 think economy on the mend
+Guess what? The polls were right. Republicans face murky political future in increasingly diverse U.S.
 
-Associated Press 
+Peter Wallsten 
+
+Michelle Bachmann squeaks by in Minnesota The strategy that paved a winning path
+
+Scott Wilson 
+
+Markets sell off in wake of Obama’s win, fears over Europe
+
+Neil Irwin 
+
+What races still arent called after Election Day? President Obama’s acceptance speech (Full transcript)
+
+Washington Post Staff 
+
+His party doomed Romney
+
+Richard Cohen 
+
+The Republicans’ 1950s campaign
+
+Eugene Robinson 
+
+The next four years
+
+Jennifer Rubin 
+
+The art of a concession speech Florida results due Wednesday afternoon Gay marriage: Republicans should move on
+
+Jennifer Rubin 
+
+Obamacare stands. Now states need to make it work. Romney: We screwed up guys.
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Battleground states too close to call
-    2.  When will we know who won the election?
-    3.  Wonkblogs guide to watching the exit polls
-    4.  What you need to know about exit polls
-    5.  Obama's and Romney's most likely paths to 270 electoral votes goes through Ohio
+    1.  Florida Election Results 2012: Sen. Bill Nelson coasts to reelection. Rivera loses House seat. Obama leads Romney
+    2.  At Romney headquarters, the defeat of the 1 percent
+    3.  What the 2012 election taught us
+    4.  Obama, buoyed by reelection, faces stark fiscal battles with Congress in second term
+    5.  Obama's victory should settle a bitter argument
 *   Top Videos
-    1.  Obama: We've got the votes to win
-    2.  Final day on the campaign trail in under one minute: President Obama
-    3.  Mitt Romney in Ohio: This is a 'big day for big change'
-    4.  Ohio Voter: 'I struggled'
-    5.  Three things you need to know about Ohio — Top Toss-Up States
+    1.  President Obama's full victory speech
+    2.  Election night in two minutes
+    3.  Mitt Romney's full concession speech
+    4.  Highlights from Mitt Romney's concession speech
+    5.  Scott Brown concession speech: 'Defeat is only temporary'
 *   Top Galleries
-    1.  'Don't ask, don't tell' repeal: Closing a chapter in history
-    2.  Carol Guzy's Pulitzer-winning work
-    3.  Election Day 2012
-    4.  Who will win the election? A few un-or-tho-dox indicators.
-    5.  Justin Bieber at the Verizon Center
+    1.  President Obama elected to a second term
+    2.  Tom Toles draws Obama
+    3.  Recipes: Make It, Freeze It, Take It
+    4.  10 Senate seats most likely to change hands
+    5.  Best of the Obama campaign
 
 Today's Paper
 
@@ -382,13 +400,16 @@ Today's Paper
 
 Live Discussions
 
-Eugene Robinson Live: How President Obama got re-elected
+President Obama’s re-election: What do you think?
 
-Live Q&A, 1 p.m. ET
+Live Q&A, Noon ET
 
-Discuss President Obama’s re-election with Eugene Robinson in this live chat.
+Discuss President Obama’s re-election with Robert Kaiser in this live chat.
 
-**12:00 AM** **The Reliable Source Live** **12:00 PM** **Free Range on Food** **12:00 PM** **Eugene Robinson Live: How Obama got re-elected** **12:00 PM** **Brad Hirschfield Live:Can we be one nation following such a closely contested and often bitterly fought election?** **1:00 PM** **Brad Hirschfield Live: Can the nation come together after a bitter election?** **2:00 PM** **Web Hostess Live: The latest from the Web**
+**12:00 PM** **Brad Hirschfield Live:Can we be one nation following such a closely contested and often bitterly fought election?** **1:00 PM** **CANCELED: Eugene Robinson Live: How Obama got re-elected** **2:00 PM** **Brad Hirschfield Live: Can the nation come together after a bitter election?**   LIVE NOW **2:00 PM** **Web Hostess Live: The latest from the Web**   LIVE NOW
+
+*   Earlier Today
+    *   **12:00 AM** **The Reliable Source Live** **12:00 PM** **Free Range on Food**
 
 **Weekly schedule, past shows**
 
