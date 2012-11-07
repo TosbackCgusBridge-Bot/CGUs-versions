@@ -174,7 +174,9 @@ Record Searchlight
 *   Cars
 *   Classified
 
-*   Campaign Contributions (CA   •   Presidential)   •   Candidates  •   Endorsements   •   Voter Resources
+*   Results   •   Election coverage
+    
+*   Election coverage   •   Candidates  •   Endorsements   •   Voter Resources
     
 
 Privacy Policy Redding.com Privacy Policy
@@ -270,25 +272,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Bob Williams: Is insanity the new normal, or the old? Published 11/5/2012 at 12:00 a.m. 186 comments
-*   Okla. couple drove stolen car to Redding to process pot, police say Published 11/5/2012 at 6:38 a.m. 46 comments
-*   UPDATED: Big Bend shooting victim identified Updated 11/5/2012 at 2:19 p.m. 18 comments
-*   School district loses big because of Giants parade Published 11/5/2012 at 6:48 a.m. 47 comments
-*   Red Bluff man dies after police handcuff him Published 11/5/2012 at 12:59 p.m. 16 comments
+*   Triumphant Obama: 'We have picked ourselves up' Updated 11/6/2012 at 7:24 p.m. 133 comments
+*   UPDATED: Shasta County polls close, turnout appeared strong Updated 11/6/2012 at 1:56 p.m. 62 comments
+*   UPDATED: Shasta Lake father sentenced today in daughter's death Updated 11/6/2012 at 3:14 p.m. 30 comments
+*   Fall River Mills man found with 56 lbs. of pot in Oregon, police say Published 11/6/2012 at 7:36 a.m. 42 comments
+*   Judy Pearson: Voter disgusted with the choices Published 11/6/2012 at 12:00 a.m. 88 comments
 
-Photo Galleries Redding Raley's protests Central Valley beats Anderson Enterprise beats Foothill
+Photo Galleries People rally Monday at corner of… Redding Raley's protests Foothill vs. Chico
 
-*   Bob Williams: Is insanity the new normal, or the old? Published 11/5/2012 at 12:00 a.m. 186 comments
-*   UPDATED: Union workers strike at Raley's supermarket chain. members picketing at both Redding stores Published 11/4/2012 at 11:20 a.m. 171 comments
-*   Editorial: Golden State's Republicans fading to black Published 11/3/2012 at 12:00 a.m. 162 comments
-*   Keeping safe: Panhandlers, criminal activity worry businesses in downtown area Published 11/2/2012 at 11:41 p.m. 134 comments
+*   Bob Williams: Is insanity the new normal, or the old? Published 11/5/2012 at 12:00 a.m. 203 comments
+*   UPDATED: Union workers strike at Raley's supermarket chain. members picketing at both Redding stores Published 11/4/2012 at 11:20 a.m. 172 comments
+*   Triumphant Obama: 'We have picked ourselves up' Published 11/6/2012 at 7:24 p.m. 133 comments
 *   Alana Burke: Romney is choice for a renewed America Published 11/4/2012 at 12:00 a.m. 113 comments
+*   Judy Pearson: Voter disgusted with the choices Published 11/6/2012 at 12:00 a.m. 88 comments
 
-*   Shark falls from the sky on to a golf course Published 10/26/2012 at 9:28 a.m. 26 comments
 *   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
 *   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 121 comments
-*   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Published 10/31/2012 at 4:55 p.m. 65 comments
-*   Siskiyou County Sheriff Jon Lopey says he's fighting to protect rural America Published 11/3/2012 at 7:36 p.m. 58 comments
+*   Wild horse, burro adoption falls short. economic factors leave trail of uncertainty Published 11/4/2012 at 6:52 p.m. 11 comments
+*   Siskiyou County Sheriff Jon Lopey says he's fighting to protect rural America Published 11/3/2012 at 7:36 p.m. 59 comments
+*   UPDATE: Detectives arrest two men in connection with Big Bend murder Published 11/3/2012 at 9:09 a.m. 31 comments
 
 Weather
 
@@ -296,25 +298,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 51° Fair Wind: Calm Today 80° 50° Tue 05:00 PM Mostly Sunny Temp: 63° Wed 05:00 AM Partly Cloudy Temp: 51° Wed 05:00 PM Mostly Clear Temp: 59°
-
-Feels Like: 63°
-
-Humidity: 68%
-
-Precip: 0%
-
-Feels Like: 51°
-
-Humidity: 77%
-
-Precip: 0%
+Currently 49° Fair Wind: NW 4mph Today 72° 44° Wed 05:00 PM Mostly Clear Temp: 59° Thu 05:00 AM Mostly Cloudy Showers Temp: 45° Thu 05:00 PM Mostly Cloudy Showers Temp: 47°
 
 Feels Like: 59°
 
 Humidity: 55%
 
-Precip: 12%
+Precip: 15%
+
+Feels Like: 44°
+
+Humidity: 82%
+
+Precip: 75%
+
+Feels Like: 47°
+
+Humidity: 76%
+
+Precip: 58%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -330,18 +332,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Tuesday Nov 6
 *   Wednesday Nov 7
 *   Thursday Nov 8
+*   Friday Nov 9
 *   More BROWSE Icon
-
-*   Anderson and West Valley High Schools Muscial 'The Wedding Singer' Anderson High School 7 p.m.
-*   Quilters' Sew-ciety of Redding General Meeting Senior Citizens Hall 7 p.m.
-*   Foothill High School Drama, Cloud Seven Foothill High School 7:15 p.m.
-*   South Shasta Seniors dancing Frontier Senior Center 7:30 p.m.
-*   Cimmeron Concert Frontier Senior Center 7:30 p.m.
-
-More Events »
 
 *   Pre-Stuff the Truck Thanksgiving Food Drive (Nov 7-14) Holiday Inn 7 a.m.
 *   Healthy Kids, Healthy Planet Preschool Day Turtle Bay Exploration Park 9 a.m.
@@ -359,17 +353,25 @@ More Events »
 
 More Events »
 
+*   First Christian Church Holiday Boutique First Christian Church 9 a.m.
+*   Veterans Memorial Hall Christmas Bazaar and Craft Fair Redding Veterans Memorial Hall 9 a.m.
+*   West Coast Biennial Art Exhibition, Competition Turtle Bay Exploration Park 9 a.m.
+*   Historical Walk, Early Bridges and Other Doings See Description 5 p.m.
+*   University Preparatory School musical 'Thoroughly Modern Millie' David Marr Auditorium (Shasta Learning Center) 7 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   20 Under 40
-    
-    Nominate young leaders in the North State! Nomination deadline November. 6th
-    
-    Election Guide
+*   Election Guide
     
     Voter resources, stories, photos, videos and more.
+    
+    Voting Results
+    
+    Get all the latest election results here!
     
     2012 Candidates
     
