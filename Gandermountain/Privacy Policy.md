@@ -1251,7 +1251,7 @@ The Company
 *   Gander Credit Card
 *   Careers
 *   Conservation Partners
-*   Affiliates
+*   Affiliate Program
 *   Gift Cards
 
 Our Sites
