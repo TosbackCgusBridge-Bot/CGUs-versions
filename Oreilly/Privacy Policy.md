@@ -4,7 +4,10 @@ Shopping Cart
 
 *   Home
 *   Shop
-*   Radar: News &. Commentary
+*   News &. Commentary
+    *   O'Reilly Radar
+    *   Strata
+    *   Tools of Change for Publishing
 *   Answers
 *   Safari Books Online
 *   Conferences
