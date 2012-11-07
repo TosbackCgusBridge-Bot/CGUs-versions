@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** US elections: after the campaign, the hush of polling day descends
-2.  2\. **News:** US elections 2012: final blitz by Obama and Romney brings campaign to a close
-3.  3\. **Football:** André Santos apologises to Arsenal team-mates for Van Persie shirt swap
-4.  4\. **Technology:** Google Nexus 10 – review
-5.  5\. **News:** 'Bronco 'Bama and Mitt Romney' too much for four-year-old Abigael - video
+1.  1.  **News:** President Obama wins four more years as America delivers decisive verdict
+2.  2\. **Comment:** US elections: a victory for Barack Obama and good judgment | Editorial
+3.  3\. **News:** Karl Rove chastises Fox News for calling Ohio for Obama
+4.  4\. **News:** Barack Obama victory tweet becomes most retweeted ever
+5.  5\. **News:** What time do US states declare election results? Your printout guide to the 2012 US election
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Environment:** GDT European wildlife photographer of the year 2012 – in pictures
-2.  **News:** US elections 2012: final blitz by Obama and Romney brings campaign to a close
-3.  **Environment:** Up in Smoke part 2: Honduran farmers transform families' fortunes – video
-4.  **TV &. radio:** The week in TV: Homeland, American Horror Story: Asylum, Horror Europa with Mark Gatiss and Hatfields &. McCoys - video
-5.  **Culture:** Bonfire procession in Lewes – in pictures
+1.  **News:** Barack Obama's victory speech – video
+2.  **News:** President Obama wins four more years as America delivers decisive verdict
+3.  **News:** Barack Obama wins second term in decisive victory – live reaction
+4.  **News:** Mitt Romney's concession speech – video
+5.  **News:** Bill O'Reilly: the white establishment is the minority – video
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Vladimir Putin sacks Russian defence chief amid corruption scandal
-2.  2\. BBC1's Nick Nickelby nets 800,000 Monday afternoon viewers
-3.  3\. Hurricane Sandy: the most tweeted pictures
-4.  4\. How many fake Sandy pictures were really shared on social media?
-5.  5\. Edisto by Padgett Powell – review
+1.  1.  Can ash dieback be stopped in the UK?
+2.  2\. Picture desk live: the best news pictures of the day
+3.  3\. Charlie Hodgson out for 'number of weeks' after fracturing cheekbone
+4.  4\. Society daily 7.11.12
+5.  5\. Are you optimistic about Barack Obama's second term as president? | Poll
 6.  All today's stories
 
 On the Guardian today
 
-1.  Life and style Mapping the body: the temple
-2.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-3.  Comment is free Iran sanctions now causing food insecurity, mass suffering
-4.  Football Barcelona and Real Madrid draw El Clásico thriller at Camp Nou
-5.  Art and design Man who defaced Tate Modern's Rothko canvas says he's added value
-6.  Football Manchester United's numbers game leaves Newcastle in middle of nowhere
+1.  World news Barack Obama wins second term in decisive victory – live reaction
+2.  World news Todd Akin and Richard Mourdock fall to Senate defeats
+3.  World news Barack Obama's victory speech – video
+4.  World news Mitt Romney's concession speech – video
+5.  Comment is free Obama's second victory is more low key, but in some ways more impressive
+6.  World news Bill O'Reilly: the white establishment is the minority – video
 
 *   License/buy our content
 |*   Privacy policy
