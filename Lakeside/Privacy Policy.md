@@ -615,7 +615,6 @@ Y*   Books + Media
     *   Pets
     *   open Books + Media
         *   Inspirational
-        *   Cookbooks
         *   Activity
         *   Children's
     *   open Purses + Travel Bags
@@ -625,7 +624,6 @@ Y*   Books + Media
         *   Outdoor Decor
     *   open Housewares + Dining
         *   Furniture
-        *   Cookbooks
         *   Bowls
         *   open Tabletop
             *   Drinkware
@@ -841,16 +839,12 @@ Y*   Books + Media
         *   open Baking + Cooking
             *   Bakeware
             *   BBQ
-    *   open Storage
-        *   Laundry
     *   open For the Home
         *   open Furniture
             *   Outdoor Furniture
             *   Furniture Covers
             *   Bathroom Furniture
             *   Chairs, Benches, Stools
-        *   open Storage
-            *   Laundry
         *   Slipcovers
         *   Rugs + Mats
         *   Throws + Accent Pillows
@@ -865,7 +859,6 @@ Y*   Books + Media
         *   Humor, History, Favorites
         *   Inspirational
         *   Activity
-        *   Accessories
         *   Children's
 
 *   Shop Online Only Specials
@@ -939,7 +932,6 @@ Y*   Books + Media
         *   Inspirational
         *   Cookbooks
         *   Activity
-        *   Accessories
         *   Children's
     *   open For the Home
         *   open Furniture
@@ -1150,7 +1142,6 @@ Y*   Books + Media
         *   Banks
         *   Animated Novelty
         *   Construction
-        *   Bath
         *   Push Pull Toys
         *   Musical Toys
         *   Vehicles
