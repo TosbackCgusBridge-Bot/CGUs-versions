@@ -39,7 +39,7 @@ Inscrivez-vous
 
 *   Imprimer
 
-Conditions générales d'utilisation Article Table des matières
+Posez votre question » Conditions générales d'utilisation Article Table des matières
 
 *   Guide d'utilisation
     *   Introduction
@@ -184,7 +184,7 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 
 *   Conditions générales d'utilisation
 *   Vous cherchez une réponse précise ?  
-    Posez votre question à la communauté »
+    Posez votre question »
 
   
 Allgemeine Nutzungsbedingungen  
