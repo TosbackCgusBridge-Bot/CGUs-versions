@@ -435,8 +435,8 @@ Thank you for visiting Dick's Sporting Goods. If you need assistance with shoppi
         *   Foosball Tables
         *   Darts &. Billiards
         *   Bowling
-        *   Scooters &. Ride-Ons
         *   All Outdoor Games
+        *   Scooters &. Ride-Ons
         *   All Indoor Games
         *   View All »
         
