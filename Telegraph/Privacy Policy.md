@@ -142,13 +142,13 @@ Problems with the Telegraph for iPad? Call 0800 332020 Advertisement
 
 Editor's Choice »
 
-A bitter sweet victory for Obama
+A bitter sweet victory for Obama  
 
 Barack Obama won four more years in power, but it was a bitter-sweet victory when set against the euphoria of 2008, writes **Peter Foster**.
 
 Comments
 
-Damian Thompson: Religious Right is dead The golden fleecers Mancini blameless as City exposed again Why Primark has only scratched the surface Advertisement
+'The Religious Right is dead' The golden fleecers Mancini blameless as City exposed again Why Primark has only scratched the surface Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
