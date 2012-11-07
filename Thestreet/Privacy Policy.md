@@ -1,4 +1,4 @@
-RED CROSS: HELP SANDY VICTIMS
+OBAMA WINS RE-ELECTION
 
 *   **Home**
 
@@ -86,16 +86,13 @@ RED CROSS: HELP SANDY VICTIMS
 
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
-*   BioMarin
-*   Kass
-*   iPad Mini Motivation
-*   Windows Phone 8 Review
-*   Hoboken
-*   Boeing 787
-*   Obama Will Win
-*   Zillow
+*   Morning Reads
+*   Bank Dividends
+*   Apple Over Intel
+*   President Obama Wins Re-Election
+*   Twitter vs. Facebook
 
-pjava07.dc.thestreet.com Privacy Policy
+pjava05.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -250,15 +247,15 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 13,112.44 19.28 0.15% NASDAQ 2,999.66 17.53 0.59% S&P 500 1,417.26 3.06 0.22% US 10 Yr 1.684% -0.042 Brokerage Partners Most Commented
+DOW 13,245.68 133.24 1.02% NASDAQ 3,011.93 12.27 0.41% S&P 500 1,428.39 11.13 0.79% US 10 Yr 1.742% +0.058 Brokerage Partners Most Commented
 
 *   <I>TheStreet</I>. Predicts Obama Will Win the 2012 Election
 *   Solar Panels Don't Work!
 *   Windows Phone 8 Review: Good, But Not Good Enough
-*   Yes, Apple Can Kill Microsoft Office
+*   10 Worst Cars of All Time
 *   Arena Pharma Is Still A Good Short
 
-Articles From Newser New GOP Tactic: Volunteers Paid With 'Secret Money' In Face of Gas Woes, Great News at the Pump Mystery Firm Donates Record $5.3M to GOP PAC See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Suzuki Pulls Out of US Market Icahn Sours at Taste of Netflix's 'Poison Pill' New GOP Tactic: Volunteers Paid With 'Secret Money' See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
