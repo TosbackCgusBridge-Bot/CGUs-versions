@@ -174,9 +174,7 @@ Record Searchlight
 *   Cars
 *   Classified
 
-*   Results   •   Election coverage
-    
-*   Election coverage   •   Candidates  •   Endorsements   •   Voter Resources
+*   Results   •   Election stories   •   Candidates
     
 
 Privacy Policy Redding.com Privacy Policy
@@ -272,25 +270,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Triumphant Obama: 'We have picked ourselves up' Updated 11/6/2012 at 7:24 p.m. 133 comments
-*   UPDATED: Shasta County polls close, turnout appeared strong Updated 11/6/2012 at 1:56 p.m. 62 comments
-*   UPDATED: Shasta Lake father sentenced today in daughter's death Updated 11/6/2012 at 3:14 p.m. 30 comments
-*   Fall River Mills man found with 56 lbs. of pot in Oregon, police say Published 11/6/2012 at 7:36 a.m. 42 comments
-*   Judy Pearson: Voter disgusted with the choices Published 11/6/2012 at 12:00 a.m. 88 comments
+*   Triumphant Obama: 'We have picked ourselves up' Updated 11/6/2012 at 7:24 p.m. 347 comments
+*   UPDATED: Shasta County polls close, turnout appeared strong Updated 11/6/2012 at 1:56 p.m. 68 comments
+*   UPDATED: Pregnant woman, man hurt in head-on collision on I-5 Updated 11/6/2012 at 7:19 p.m. 14 comments
+*   Shasta County supervisors say they don't have resources to battle pot growers Published 11/7/2012 at 12:36 a.m. 49 comments
+*   UPDATED: Shasta Lake father sentenced today in daughter's death Updated 11/6/2012 at 3:14 p.m. 35 comments
 
-Photo Galleries People rally Monday at corner of… Redding Raley's protests Foothill vs. Chico
+Photo Galleries People rally Monday at corner of… Kool April Nights Redding Raley's protests
 
-*   Bob Williams: Is insanity the new normal, or the old? Published 11/5/2012 at 12:00 a.m. 203 comments
+*   Triumphant Obama: 'We have picked ourselves up' Published 11/6/2012 at 7:24 p.m. 347 comments
+*   Bob Williams: Is insanity the new normal, or the old? Published 11/5/2012 at 12:00 a.m. 205 comments
 *   UPDATED: Union workers strike at Raley's supermarket chain. members picketing at both Redding stores Published 11/4/2012 at 11:20 a.m. 172 comments
-*   Triumphant Obama: 'We have picked ourselves up' Published 11/6/2012 at 7:24 p.m. 133 comments
-*   Alana Burke: Romney is choice for a renewed America Published 11/4/2012 at 12:00 a.m. 113 comments
-*   Judy Pearson: Voter disgusted with the choices Published 11/6/2012 at 12:00 a.m. 88 comments
+*   Judy Pearson: Voter disgusted with the choices Published 11/6/2012 at 12:00 a.m. 89 comments
+*   UPDATED: Shasta County polls close, turnout appeared strong Published 11/6/2012 at 6:57 a.m. 68 comments
 
 *   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
-*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 121 comments
+*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 122 comments
 *   Wild horse, burro adoption falls short. economic factors leave trail of uncertainty Published 11/4/2012 at 6:52 p.m. 11 comments
+*   More than 80,000 lbs. of walnuts stolen. Tehama deputies say delivery driver is the suspect Published 10/29/2012 at 11:27 a.m. 23 comments
 *   Siskiyou County Sheriff Jon Lopey says he's fighting to protect rural America Published 11/3/2012 at 7:36 p.m. 59 comments
-*   UPDATE: Detectives arrest two men in connection with Big Bend murder Published 11/3/2012 at 9:09 a.m. 31 comments
 
 Weather
 
@@ -298,23 +296,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 49° Fair Wind: NW 4mph Today 72° 44° Wed 05:00 PM Mostly Clear Temp: 59° Thu 05:00 AM Mostly Cloudy Showers Temp: 45° Thu 05:00 PM Mostly Cloudy Showers Temp: 47°
+Currently 66° Fair Wind: Calm Today 72° 44° Thu 12:00 AM Mostly Cloudy Showers Temp: 50° Thu 12:00 PM Mostly Cloudy Showers Temp: 53° Fri 12:00 AM Mostly Cloudy Showers Temp: 43°
 
-Feels Like: 59°
+Feels Like: 50°
 
-Humidity: 55%
+Humidity: 71%
 
 Precip: 15%
 
-Feels Like: 44°
+Feels Like: 53°
 
-Humidity: 82%
+Humidity: 59%
 
 Precip: 75%
 
-Feels Like: 47°
+Feels Like: 41°
 
-Humidity: 76%
+Humidity: 89%
 
 Precip: 58%
 
