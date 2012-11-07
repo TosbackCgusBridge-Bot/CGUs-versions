@@ -1,5 +1,5 @@
   
-Users Online Now: **1,995** (Who's On?) Visitors Today: **417,499** Pageviews Today: **660,806** Threads Today: **356** Posts Today: **4,283** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **2,725** (Who's On?) Visitors Today: **467,834** Pageviews Today: **880,213** Threads Today: **864** Posts Today: **7,953** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,10 @@ trinity@godlikeproductions.com
   
 News
 
+*   Here's What The East Coast Blackouts Looked Like From Space
+*   Pa. pupils to wear tracking devices in flu study
+*   ACLU says some unable to vote by e-mail, asks judge to intervene
+*   Markets want clear decision from presidential vote
 *   Obama Ends Campaign in Half-Empty Arena
 *   Small Business Owner: I’ll Invest In 100 New Jobs – If Romney Wins
 *   EPA Planning Scorched Earth Assault on Coal
@@ -133,10 +137,6 @@ News
 *   Looking Beyond Election Day: The Issues That Threaten to Derail the Nation
 *   Mexican Cartels Enslave Engineers to Build Radio Network
 *   Federal court approves use of hidden surveillance cameras on private property without warrants
-*   EFF Demands Answers About Predator Drone Flights in the U.S.
-*   The Kremlin’s New Internet Surveillance Plan Goes Live Today
-*   Archaeologists uncover oldest prehistoric town in Europe
-*   Enough Spent on Welfare in 2011 to Give Every Poor Household Nearly $60,000
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.017s (0 queries)
+Page generated in 0.015s (0 queries)
