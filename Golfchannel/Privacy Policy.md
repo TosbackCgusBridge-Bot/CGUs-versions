@@ -278,16 +278,18 @@ Prev Next
 
 *   Grill Room
 
-*   Morning Drive
-*   WGC HSBC Champions
-*   Tiger Woods
+*   Jim Flick
+*   Tianlang Guan
 *   PGA Tour
-*   Masters Tournament
-*   LPGA Tour
-*   Web.com Tour
-*   European Tour
+*   Rory McIlroy
+*   Morning Drive
+*   Tiger Woods
+*   FedEx Cup
+*   WGC HSBC Champions
+*   Davis Love III
 *   Ian Poulter
-*   Jay Haas
+*   Stacy Lewis
+*   Champions Tour
 
 **Privacy Policy**
 
@@ -528,13 +530,13 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 234,540 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
+Social 234,642 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
 *   Tell a Friend
 
-WGC-HSBC Champions Mission Hills' Olazabal Course was developed by the late David Chu and is considered one of the first golf and tournament facilities in China. Visit GolfNow to book a tee time near you.
+Children's Miracle Network Hospitals Classic Walt Disney World Resort's Magnolia (Par/Yardage: 72/7,516) and Palm Courses (72/7,010) host the first and second rounds of the CMNHC. The third and fourth rounds are played on the Magnolia. Visit GolfNow to book a tee time near you.
 
 *   Partner Pavilion
 *   Press Releases
