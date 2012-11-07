@@ -9,11 +9,11 @@ Register Sign in Welcome, Logout
         *   Mitt Romney
         *   Elections 2012
         *   Hurricane Sandy
-        *   Ohio
-        *   From the Wires
-        *   Television
-        *   U.S. Senate
         *   Election 2012
+        *   Ohio
+        *   2012 election
+        *   Politics
+        *   From the Wires
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -190,33 +190,33 @@ If you have any further questions or concerns about Salon’s privacy policies a
 *   Corrections
 *   DMCA Policy
 
-About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service | TechTips Giving Back
+About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service | TechTips 2012 Election
 
-Help support Sandy's other victims
+It's judgment day
 
-Current Stories Dirty Democrats
+Current Stories Obama re-election signals new phase in Syria war
 
-News. Anti-choice, pro-gun, you name it. Eight Democrats who want -- but don't deserve -- your vote tomorrow
+News. Britain is urging the U.S. to support the rebels
 
-Can white voters really doom Obama?
+Why losing is good for Mitt
 
-Politics. Polls show white voters who fear racial change will back Romney. It's their loss. Let's hope it's not all of ours
+Politics. In one way, his defeat will actually improve his place in history
 
-No Doubt yanks too "Hot" video
+Election 2012: Can someone call it a night?
 
-Entertainment. Realizing they pushed it too far with their cowboys-and-Indians–themed video, the band preempts a controversy
+Entertainment. The networks delivered an ice skating rink map, wacked-out pundits and a lot of drawn-out Romney drama
 
-My awesome C-section
+My dad's gone off the rails
 
-Life. Women are supposed to dread the surgery and embrace the beauty of natural birth. Are you kidding me?
+Life. He nursed mom until she died. now he's like a lost soul. It's scary
 
 Most Read
 
-*   Mitt's religious rant goes viral Zachary Bell
-*   The Obama landslide scenario Steve Kornacki
+*   Donald Trump loses it, calls for "revolution" David Daley
 *   Is the GOP stealing Ohio? Brad Friedman
-*   Monday evening update: Nate Silver pushes Obama's chances above 90 percent David Daley
-*   Gallup Poll: Obama's gaining Jillian Rayfield
+*   Mitt's religious rant goes viral Zachary Bell
+*   Obama's elegant acceptance Salon Staff
+*   Fox News' dark night of the soul Andrew O'Hehir
 
 Voices
 
