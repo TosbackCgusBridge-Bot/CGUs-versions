@@ -1,6 +1,6 @@
 Play Games at Miniclip.com P...Paintball Presidential Paintball Who will you choose?  
-Fight it out! RoboRampage Your weekly challenge Win the 2000ft award!  
-Robo Rampage New games! Hit the homepage  
+Fight it out! GravityGuy Your weekly challenge Win the Silver award!  
+Gravity Guy New games! Hit the homepage  
 Great new games out now My Miniclip Credits
 
 *   Signup
@@ -192,11 +192,11 @@ Click Here! Advertisement Feedback Top 10 Games
 3.  Extreme Skater
 4.  Goodgame Empire
 5.  Club Penguin
-6.  NeoMech
-7.  Hambo
-8.  Knight Age Nightmare
-9.  Shooting Cybertrash XL
-10.  After Sunset
+6.  Ekoloko
+7.  NeoMech
+8.  Hambo
+9.  Knight Age Nightmare
+10.  Shooting Cybertrash XL
 
 Click Here! Click Here!
 
