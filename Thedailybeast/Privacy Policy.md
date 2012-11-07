@@ -147,36 +147,36 @@ Stories We Like
 
 1.  5 Amazing Fox News Freak-outs
 2.  Five Stages of GOP Grief
-3.  A Thrashing
-4.  Michelle’s Signs of Restraint
-5.  Ryan Was a Dud
+3.  Revenge of the Nerd
+4.  A Thrashing
+5.  13 Must-See Moments From Election Night
 
   Other News Entertainment
 
-*   Luck of the draw: Scarlett Johansson reveals new rib cage tattoo
-*   Hollywood's Oldest Party Animals
-*   Celebs With Rebellious Spirits
+*   Exclusive: Kendra Wilkinson on Hank Jr.'s Fears and More
+*   Voting: Are These Looks Age Appropriate?
+*   Jennifer Garner, Beyonce and More Celeb Bodies After Baby
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   Obama’s victory speech and Romney’s concession speech — Watch them here
-*   Election 2012: From Brian Williams to Jon Stewart to Shep Smith, how each network covered the election
-*   Watch Key &. Peele’s ‘Obama’s Anger Translator: Victory’ skit — VIDEO
+*   How should Han Solo die in the new ‘Star Wars’?
+*   Mindy Kaling kisses-and-tells about ‘harassing’ the hot actors she gets to smooch — VIDEO
+*   Taylor Lautner’s Madame Tussauds wax figure will not be shirtless
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Democratic Victory Will Unleash Obama, Top Backers Say
-*   Barack Obama Wins Four More Years
-*   Mayhem At The White House As Obama Supporters Celebrate
+*   20 Incumbent Members Of Congress Who Lost Reelection
+*   So, You Want To Be A Congressional Staffer?
+*   Twitter Users Say They Voted For Obama 2 To 1
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   A Big Night for Liberals
-*   Blame Game Begins
-*   Time for Republican Soul Searching
+*   Dick Morris Explains Why He Was Wrong
+*   The Most Accurate Polls
+*   The Difference Between Barack Obama and Mitt Romney
 *   **Get More from Political Wire**
 
 The Daily Beast
