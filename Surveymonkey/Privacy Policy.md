@@ -1,8 +1,6 @@
 1.  Sign In
 2.  Help
 
-SurveyMonkey®
-
 1.  Home
 2.  How It Works
 3.  Examples
@@ -278,8 +276,7 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Our Blog
 
 *   Help:
-*   Tutorials
-*   Answers &. FAQs
+*   FAQs &. Tutorials
 *   Contact Support
 
 *   About Us:
@@ -288,7 +285,7 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Partners
 *   Newsroom
 *   Contact Us
-*   We're Hiring
+*   Jobs
 *   Sitemap
 
 *   Policies:
