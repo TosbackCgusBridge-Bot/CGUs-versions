@@ -837,59 +837,59 @@ Effective Date: November 16. 2011
 
 Top Customer Picks: Pottery Barn \[+\] PBteen \[+\] Pottery Barn Kids \[+\] West Elm \[+\] Williams-Sonoma \[+\] WS Home \[+\] Rejuvenation \[+\] Cultivate \[+\]
 
-*   girls quilts
-*   jewelry storage
-*   wall decals
-*   beach towels
-*   decorative pillows
-*   duvet covers
-*   gifts for girls
-*   bean bag chairs
+*   bunk beds
+*   bed skirts
 *   boys bedding
-*   beach totes
+*   duvet cover sets
+*   burton shop
+*   gift ideas
+*   rolling backpacks
+*   dorm bedding
+*   dorm essentials
+*   bean bag chairs
 
-*   beach totes
-*   baby bedding
+*   christmas stockings
+*   childrens books
+*   baby diaper bags
+*   personalized baby blankets
+*   toy storage
 *   baby gifts
-*   baby toys
-*   kids beds
-*   personalized beach towels
-*   toddler bedding
-*   kids backpacks
-*   beach gear
-*   nursery decorating ideas
+*   crib bedding sets
+*   bunk beds
+*   baby registry
+*   baby room ideas
 
 *   furniture
-*   bedroom furniture
-*   rugs
-*   beach towels
-*   duvet covers
-*   interior design ideas
-*   outdoor lighting
-*   outdoor furniture
-*   bedding sets
+*   bathroom vanities
+*   personalized gifts
+*   area rugs
+*   christmas ornaments
+*   christmas stockings
 *   wedding registry
+*   accent chairs
+*   christmas decorations
+*   interior design ideas
 
-*   Design Blog
-*   Modern Furniture
+*   MARKET
+*   Top Gift Ideas
+*   Christmas Ornaments
 *   Unique Gifts
-*   Modern Outdoor Furniture
-*   Outdoor Dining Sets
-*   Bedding
-*   Modern Rugs
+*   Bedding Sets
 *   Decorative Pillows
-*   Wall Decor
-*   Kitchen Accessories
+*   Modern Chairs
+*   Modern Furniture
+*   Sectional Sofas
+*   Design Blog
 
-*   Cookware
-*   Agrarian
-*   Gardening Tools
-*   Grills
-*   Grill Accessories
-*   Grilling Recipes
-*   Blenders
-*   Glassware
+*   Thanksgiving Food
+*   Roasting Pans
+*   Christmas Tablecloths
+*   Hostess Gifts
+*   Wine Racks
 *   Dinnerware
+*   Agrarian
+*   Cookware
+*   Blenders
 *   Wedding Registry
 
 *   luxury bedding
@@ -904,14 +904,14 @@ Top Customer Picks: Pottery Barn \[+\] PBteen \[+\] Pottery Barn Kids \[+\] West
 *   bedding sets
 
 *   lighting
-*   lighting fixtures
+*   custom lighting
 *   shades
 *   hardware
 *   window hardware
-*   vintage lighting
-*   custom lighting
-*   chandeliers
-*   door sets
+*   antique lighting
+*   kitchen lighting
+*   home décor
+*   door hardware
 *   bathroom lighting
 
 *   kitchen design
