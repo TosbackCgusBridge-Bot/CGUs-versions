@@ -384,7 +384,7 @@ Ventura County Star
 
 *   Today
     
-    View the latest local race results |   Statewide results
+    The latest local election results |   Statewide results |   Coverage
     
 
 Privacy Policy &. User Agreement
@@ -636,24 +636,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Brownley wins 26th Congressional District race over Strickland Updated 11/7/2012 at 12:52 p.m. 109 comments
-*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 347 comments
-*   Oxnard picks Flynn as mayor and backs measures. council, school, special district races decided Updated 11/7/2012 at 12:43 p.m. 18 comments
-*   Educators relieved with passage of Proposition 30 Updated 11/7/2012 at 5:08 p.m. 44 comments
-*   Voters narrowly approve Measure Q for Ventura schools Updated 11/7/2012 at 6:16 a.m. 34 comments
+*   Educators relieved with passage of Proposition 30 Updated 11/7/2012 at 5:08 p.m. 84 comments
+*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 382 comments
+*   Brownley wins 26th Congressional District race over Strickland Updated 11/7/2012 at 12:52 p.m. 117 comments
+*   Brownley says her victory was built from grass-roots efforts Updated 11/7/2012 at 7:20 p.m. 31 comments
+*   Bennett says he has a strong mandate in wake of election Updated 11/7/2012 at 6:16 p.m. 17 comments
 
-Photo Galleries Election night 2012 Ventura County's Most Wanted November… Intensity felt at the polls in…
+Photo Galleries Election night 2012 Ventura County's Most Wanted November… Horses are integral part of Thacher…
 
-*   Obama: 'We have picked ourselves up,' fought back Published 11/6/2012 at 10:08 a.m. 347 comments
-*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 190 comments
-*   Brownley wins 26th Congressional District race over Strickland Published 11/6/2012 at 8:10 p.m. 109 comments
-*   Morning chat Published 11/6/2012 at 12:00 a.m. 85 comments
-*   Editorial: The Star's ballot endorsements in Tuesday election Published 11/3/2012 at 3:00 p.m. 102 comments
+*   Obama: 'We have picked ourselves up,' fought back Published 11/6/2012 at 10:08 a.m. 382 comments
+*   Brownley wins 26th Congressional District race over Strickland Published 11/6/2012 at 8:10 p.m. 117 comments
+*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 186 comments
+*   Morning chat Published 11/6/2012 at 12:00 a.m. 93 comments
+*   Educators relieved with passage of Proposition 30 Published 11/7/2012 at 3:39 p.m. 84 comments
 
 *   Oxnard school principal arrested after alleged road rage incident Published 11/2/2012 at 5:47 p.m. 0 comments
-*   Stonehaus to add touch of Tuscany to Westlake Village Inn Published 10/30/2012 at 5:51 p.m. 0 comments
 *   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 67 comments
-*   La Reina High mock trial team wins world tournament Published 10/29/2012 at 12:38 p.m. 5 comments
+*   Stonehaus to add touch of Tuscany to Westlake Village Inn Published 10/30/2012 at 5:51 p.m. 0 comments
+*   Rio Lindo School principal's arrest shocks Oxnard parents Published 11/5/2012 at 4:21 p.m. 0 comments
 *   County pay error puts two managers in costly bind Published 10/30/2012 at 6:13 p.m. 29 comments
 
 Weather
@@ -662,23 +662,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 61° Overcast Wind: E 5mph Today 61° 51° Thu 05:00 PM Mostly Cloudy Showers Temp: 58° Fri 05:00 AM Mostly Cloudy Showers Temp: 51° Fri 05:00 PM Mostly Cloudy Showers Temp: 57°
-
-Feels Like: 58°
-
-Humidity: 80%
-
-Precip: 48%
+Currently 63° Overcast Wind: Calm Today 63° 51° Fri 01:00 AM Mostly Cloudy Showers Temp: 51° Fri 01:00 PM Mostly Cloudy Showers Temp: 60° Sat 01:00 AM Mostly Cloudy Showers Temp: 51°
 
 Feels Like: 51°
 
-Humidity: 93%
+Humidity: 86%
+
+Precip: 44%
+
+Feels Like: 60°
+
+Humidity: 75%
 
 Precip: 27%
 
-Feels Like: 57°
+Feels Like: 51°
 
-Humidity: 78%
+Humidity: 80%
 
 Precip: 36%
 
