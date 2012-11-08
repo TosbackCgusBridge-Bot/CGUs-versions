@@ -25,7 +25,7 @@ If you see this message, your web browser doesn't support JavaScript or JavaScri
     
 *   Ultrabooks Ultrabooks
     
-    Screen Size
+    Screen Size10.4" and Bigger12.1" - 13.4"14" - 14.5"15" - 15.6"CPU TypeIntel Core i3Intel Core i5Intel Core i7Ultrabook Buying Guide
     
 *   Electronics Electronics
     
