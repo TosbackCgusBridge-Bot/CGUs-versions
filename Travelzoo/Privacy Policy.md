@@ -102,8 +102,8 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Providence
     *   Raleigh-Durham
     *   Reno-Tahoe
-    
     *   Richmond
+    
     *   Sacramento
     *   Salt Lake City
     *   San Antonio
@@ -117,6 +117,7 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Tulsa
     *   Washington, D.C.
     *   West Palm Beach
+    *   Wichita
     *   Other Cities
 *   SuperSearch
     *   Flights
