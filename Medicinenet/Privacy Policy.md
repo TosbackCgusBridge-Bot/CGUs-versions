@@ -413,11 +413,11 @@ New on MedicineNet
 
 Latest MedicineNet News
 
+*   Barack Obama Wins: What It Means for Health Care
 *   Doctors With More Experience May Have Lower Cost
 *   An Elephant That Speaks Korean?
 *   Sandy's Death Toll Rises
 *   Canada Health System as Model Might Cut U.S. Costs
-*   Health Risks Will Rise in Sandy's Wake
 *   Want More News? Sign Up for MedicineNet Newsletters!
 *   Health News Feed
 
