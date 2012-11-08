@@ -23,23 +23,23 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: November 07 10:00 AM · CINE CLASICO Y COOL: BUENOS DIAS ACAPULCO coming up next:
+schedule right now: November 08 03:00 AM · MORNING BREATH coming up next:
 
-*   12:00 PM · L'CREME
-*   1:00 PM · AL CIEN 100%
-*   2:00 PM · L'CREME
-*   3:00 PM · DELICIOUS
-*   4:00 PM · BARBACOA CLASSICS
-*   5:00 PM · CHIQUIS 'N CONTROL
-*   6:00 PM · 12 CORAZONES
-*   7:00 PM · WWE RAW
-*   10:00 PM · OJO POR OJO
-*   11:00 PM · OJO POR OJO
-*   12:00 AM · LARRYMANIA
-*   1:00 AM · DECISIONES
-*   2:00 AM · L'CREME
-*   3:00 AM · MORNING BREATH
 *   4:00 AM · MORNING BREATH
+*   5:00 AM · MORNING BREATH
+*   6:00 AM · SMB
+*   8:00 AM · MORNING BREATH
+*   9:30 AM · OPERACION REPO
+*   10:00 AM · CINE CLASICO Y COOL: OPERACION CARAMBOLA
+*   12:00 PM · L'CREME
+*   1:00 PM · PREMIOS BILLBOARD DE LA MUSICA MEXICANA ALL-ACCESS
+*   2:00 PM · L'CREME
+*   3:00 PM · L'CREME
+*   4:00 PM · mun2 CINCO
+*   4:30 PM · L'CREME
+*   5:30 PM · DUB LATINO
+*   6:00 PM · 12 CORAZONES
+*   7:00 PM · OPERACION REPO
 
 see full schedule >>.
 
