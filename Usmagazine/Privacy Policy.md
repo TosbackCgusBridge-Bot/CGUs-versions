@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Jen's Man Voted! »
+Hot Pics! Mars and Stripes »
 
-Top Stories1.  PICTURES: Victoria Beckham Wears Flats, Is Shorter Than Son Brooklyn »
-2.  Exclusive Emily Maynard Dating Nascar Racer Jason White »
+Top Stories1.  PICTURES: Victoria Beckham Wears Flats, Nearly Shorter Than Son, 13 »
+2.  PIC: Victoria's Secret Angel Candice Swanepoel Flaunts Shrunken Stomach »
 3.  Kim Kardashian Flaunts Bod in Tiny String Bikini in Miami »
-4.  Pregnant Kristen Bell: "I Am Getting Fatter by the Day" »
-5.  President Barack Obama Wins Re-Election: Celebs React »
+4.  NEW PICTURES: Lady Gaga Goes Nearly Nude on Hotel Balcony »
+5.  Anna Paquin, Stephen Moyer Go for a Stroll With Their Newborn  »
 
  
 
@@ -176,10 +176,10 @@ subscribe to Us Weekly Why She Can't Find Love
 Inside Us Weekly
 
 *   Style Michelle Obama's Stunning Election Night Look
-*   Beauty Christina Aguilera's Colorful Hair and Makeup
-*   Moms Pregnant Kristen Bell: "I Am Getting Fatter b
-*   Body Kim Kardashian Flaunts Bod in Tiny String Bik  
-*   Entertainment See Stunning New Images of Scarlett Johansson
+*   Beauty Meet DJ Duo NERVO, CoverGirl's Edgy New Spoke
+*   Moms Anna Paquin, Stephen Moyer Go for a Stroll Wi
+*   Body PIC: Victoria's Secret Angel Candice Swanepoe  
+*   Entertainment Nashville Sneak Peek: Hayden Panettiere's Alc
 
 *   US WEEKLY
 *   Celebrity News
