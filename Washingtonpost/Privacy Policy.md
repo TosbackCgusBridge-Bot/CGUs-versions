@@ -23,8 +23,8 @@
     
     Blogs &. Columns
     
-    *   **Obama campaign surprised how fast...**  
-        Election 2012 | David Nakamura
+    *   **Terry McAuliffe says hes running...**  
+        Election 2012 | Rachel Weiner
     
     *   **Tracing the impact of negative...**  
         The Fact Checker | Glenn Kessler
@@ -32,8 +32,8 @@
     *   **Will President Obama get the respect...**  
         She The People | Mary C. Curtis
     
-    *   **The 10 closest states in Election...**  
-        The Fix | Chris Cillizza and Aaron Blake
+    *   **President Obama and the white vote?...**  
+        The Fix | Chris Cillizza and Jon Cohen
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **A Senate full of women?**  
+    *   **Drunk Nate Silver**  
         ComPost | Alexandra Petri
     
-    *   **Happy Hour Roundup**  
-        The Plum Line | Jonathan Bernstein
+    *   **Axelrod rubs Rove’s face in it**  
+        The Plum Line | Greg Sargent
     
-    *   **Gay marriage takes four steps forward**  
-        PostPartisan | Jonathan Capehart
+    *   **PostScript: Gerson and changing...**  
+        PostPartisan | Rachel Manteuffel
     
-    *   **Morning bits**  
+    *   **Tuning up the GOP presidential...**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,16 +72,16 @@
     
     Blogs &. Columns
     
-    *   **Forecast: Sunshine returns today**  
-        Capital Weather Gang | David Streit
+    *   **October cooler than average across...**  
+        Capital Weather Gang | Jason Samenow
     
-    *   **Concert preivew: Benjamin Gibbard**  
-        Going Out Gurus | Mark Jenkins
+    *   **Review: Daniel Craig returns as...**  
+        Going Out Gurus | Amy Joyce
     
-    *   **Jury selection in Bowie State murder...**  
-        Crime Scene | Maggie Fazeli Fard
+    *   **Wanted: men who robbed Alexandria...**  
+        Crime Scene | Allison Klein
     
-    *   **‘Lucky tie’ fails George Allen**  
+    *   **Virgil Goode fails to play spoiler...**  
         Virginia Politics | Laura Vozzella
 *   Sports In Sports
     
@@ -100,13 +100,13 @@
     *   **Jay Beagle on trying to keep a...**  
         Capitals Insider | Eric Detweiler
     
-    *   **KidsPost gives Mike Shanahan a...**  
-        DC Sports Bog | Dan Steinberg
+    *   **Chris Singletons game-tying dunk...**  
+        DC Sports Bog | Sarah Kogod
     
-    *   **Bye-week glance: Redskins offense**  
+    *   **Bye-week glance: Redskins defense**  
         The Insider | Mike Jones
     
-    *   **Are the Nationals and Zack Greinke...**  
+    *   **Are the Nats and Greinke a fit...**  
         Nationals Journal | Adam Kilgore
 *   National In National
     
@@ -126,7 +126,7 @@
     *   **Are we voting in the dark?**  
         Ideas@Innovations | Dominic Basulto
     
-    *   **A new ‘Year of the Woman’?**  
+    *   **The power of a new Obama team**  
         PostLeadership | Jena McGregor
     
     *   **Hindu American elected to Congress**  
@@ -145,17 +145,17 @@
     
     Blogs &. Columns
     
-    *   **Fair warning: Bulgarian prophet...**  
+    *   **Map: Where was the drone that Iran...**  
         WorldViews | Max Fisher
     
-    *   **A weary Afghanistan sighs at Obama’s...**  
-        WorldViews | Pamela Constable
-    
-    *   **Canadians want to legalize marijuana...**  
+    *   **Why Russians think U.S. elections...**  
         WorldViews | Olga Khazan
     
-    *   **Are Chinese Web users discussing...**  
+    *   **A revealing map of which world...**  
         WorldViews | Max Fisher
+    
+    *   **Smog over Delhi, gloom over India’s...**  
+        WorldViews | Simon Denyer
 *   Business In Business
     
     *   Economy
@@ -170,16 +170,16 @@
     
     Blogs &. Columns
     
-    *   **Electing a health-care plan**  
+    *   **Costly votes**  
         The Color of Money | Michelle Singletary
     
-    *   **Sprint, U.S. Cellular strike a...**  
-        Post Tech | Hayley Tsukayama
+    *   **AT&T lifts FaceTime restrictions...**  
+        Post Tech | Cecilia Kang
     
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **Wonkbook: The election is over...**  
+    *   **Dont blame Romneys message**  
         Wonkblog | Ezra Klein
 *   Tech In Technology
     
@@ -191,11 +191,11 @@
     
     Blogs &. Columns
     
-    *   **Internet data usage jumps. Netflix...**  
+    *   **Twitter ‘unintentionally’ sends...**  
         Hayley Tsukayama
     
-    *   **Sprint, U.S. Cellular strike a...**  
-        Post Tech | Hayley Tsukayama
+    *   **AT&T lifts FaceTime restrictions...**  
+        Post Tech | Cecilia Kang
 *   Lifestyle In Lifestyle
     
     *   Advice
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Regs would limit food trucks in...**  
-        All We Can Eat | Tim Carman
+    *   **Wine.com looks to one-up new Amazon...**  
+        All We Can Eat | Dave McIntyre
     
     *   **Michelle Obama’s election night...**  
         The Style Blog | Veronica Toney
     
-    *   **Parenting through the non-post-racial...**  
+    *   **Kids not as sweet as they may appear**  
         On Parenting | Janice D'Arcy
     
-    *   **Obama family fashion: Color-coordinated...**  
+    *   **In other news: Jermaine Jackson...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,13 +240,13 @@
     *   **Review digest: of Lang Lang, Midori...**  
         Classical Beat | Anne Midgette
     
-    *   **‘American Horror Story: Asylum’...**  
+    *   **‘Skyfall’ reviews**  
         Celebritology 2.0 | Jen Chaney
     
     *   **‘The X Factor’: Diamond returns**  
         The TV Column | Lisa de Moraes
     
-    *   **Rounding up the top ‘Obama wins’...**  
+    *   **Bram Stoker books:**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -266,11 +266,10 @@
 
 In the News
 
-*   Sasha and Malia Obama
-*   Marijuana
-*   Nate Silver
-*   Mitt Romney
 *   Jared Loughner
+*   Nor'easter
+*   Sasha and Malia Obama
+*   Jesse Jackson Jr.
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -321,97 +320,77 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Obama re-election protest escalates at Univ. of Mississippi. racial slurs, 2 arrests reported
-
-Associated Press 
-
 Life after defeat for Mitt Romney: Public praise, private questions
 
 Philip Rucker 
 
-The 10 closest states in Election 2012 Republican leader Boehner may be ready to bargain
+Obama re-election protest escalates at Univ. of Mississippi. racial slurs, 2 arrests reported
+
+Associated Press 
+
+What is Nate Silver doing?
+
+Alexandra Petri 
+
+And the winner is: The status quo
+
+George F. Will 
+
+Republican governors scramble over next Obamacare steps Republican leader Boehner may be ready to bargain
 
 Dana Milbank 
-
-Critic’s Notebook: Obama photo is a snapshot of a modern, equal marriage
-
-Philip Kennicott 
 
 Election Day indicates nation’s political divide is deepening
 
 Joel Achenbach 
 
-For Sasha and Malia Obama, four more years as the first daughters
+Critic’s Notebook: Obama photo is a snapshot of a modern, equal marriage
+
+Philip Kennicott 
+
+Make a deficit deal now
+
+Erskine Bowles 
+
+Whither Karl Rove? Faulty predictions for Election 2012
+
+Paul Farhi 
+
+We definitely lost four or five points between the storm and Chris Christie For Sasha and Malia Obama, four more years as the first daughters
 
 Krissah Thompson 
 
-Florida Election Results 2012: Sen. Bill Nelson coasts to reelection. Rivera loses House seat. Obama leads Romney
+The 10 closest states in Election 2012 Reports: Jesse Jackson Jr. in plea deal talks Stephen Colbert on polling irregularities (video) Obama’s changing Cabinet
 
-::unspecified:: 
+Al Kamen 
 
-Election 2012: Winners and losers And the winner is: The status quo
+What do voters really think about the economy? Three lessons from exit polls
 
-George F. Will 
+Neil Irwin 
 
-A GOP that’s off-track
+USC fires manager who deflated balls vs. Oregon A time for Obama to be bold
 
-Michael Gerson 
-
-Florida Republicans left to ponder future as Obama victory in state looks likely
-
-Brady Dennis 
-
-Republicans face murky political future in increasingly diverse U.S.
-
-Peter Wallsten 
-
-Faulty predictions for Election 2012
-
-::unspecified:: 
-
-Grandmom, playing favorites, treats lone grandson like king
-
-Carolyn Hax 
-
-Obama faces a host of tough issues as second term begins
-
-Scott Wilson 
-
-Obama confronts thorny security issues immediately
-
-Joby Warrick 
-
-Boehner, GOP leaders take new tone, pledging compromise
-
-Paul Kane 
-
-Obama’s victory should settle a bitter argument
-
-E.J. Dionne Jr. 
-
-At Romney headquarters, the defeat of the 1 percent
-
-Dana Milbank 
+David Ignatius 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Obama re-election protest escalates at Univ. of Mississippi. racial slurs, 2 arrests reported
-    2.  Life after defeat for Mitt Romney: Public praise, private questions
-    3.  The 10 closest states in Election 2012
-    4.  Republican leader Boehner may be ready to bargain
-    5.  Critic's Notebook: Obama photo is a snapshot of a modern, equal marriage
+    1.  Life after defeat for Mitt Romney: Public praise, private questions
+    2.  Obama re-election protest escalates at Univ. of Mississippi. racial slurs, 2 arrests reported
+    3.  Nate Silver, American wizard
+    4.  And the winner is: The status quo
+    5.  Republican governors scramble over next Obamacare steps
 *   Top Videos
-    1.  President Obama's full victory speech
-    2.  Election night in two minutes
-    3.  Washington state approves marijuana legalization
-    4.  Mitt Romney's full concession speech
-    5.  Highlights from Mitt Romney's concession speech
+    1.  Rihanna, Justin Bieber rock Victoria's Secret fashion show
+    2.  The story behind the Romney loss: Drama, regrets and mistakes
+    3.  President Obama's full victory speech
+    4.  Election night in two minutes
+    5.  Powerful Guatemala earthquake kills at least 48 people
 *   Top Galleries
     1.  Obamas talk 'First Parents' role
-    2.  Women Power: A record-breaking moment for women in the U.S. Senate
-    3.  President Obama elected to a second term
-    4.  Smartphones galore
+    2.  Election 2016: Chris Cillizza's 13 front-runners
+    3.  Nor'easter hits New York and New Jersey
+    4.  Women Power: A record-breaking moment for women in the U.S. Senate
     5.  Recipes: Make It, Freeze It, Take It
 
 Today's Paper
@@ -422,13 +401,16 @@ Today's Paper
 
 Live Discussions
 
-Home Front: Robert and Cortney Novogratz on design trends and home renovation
+The Fix Live
 
-Live Q&A, Thursday 11 a.m. ET
+Live Q&A: Friday at 11 a.m. ET
 
-Robert and Cortney Novogratz discuss design trends, home renovations and take questions.
+The Fix’s Chris Cillizza discusses the latest in political news.
 
-**11:00 AM** **Tracee Hamilton discusses local and national sports -- and whatever else you want to talk about.** **11:00 AM** **Home Front: Robert and Cortney Novogratz on design trends and home renovation** **1:00 PM** **Got Plans: Advice from the Going Out Gurus** **2:00 PM** **Celebritology Live**
+**1:00 PM** **Got Plans: Advice from the Going Out Gurus**   LIVE NOW
+
+*   Earlier Today
+    *   **11:00 AM** **Tracee Hamilton discusses local and national sports -- and whatever else you want to talk about.** **11:00 AM** **Home Front: Robert and Cortney Novogratz on design trends and home renovation** **2:00 PM** **Celebritology Live**
 
 **Weekly schedule, past shows**
 
