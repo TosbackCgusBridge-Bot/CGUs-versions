@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Obama Faces Immediate Spending, Tax Issues
-*   California Man Behind Anti-Muslim Movie Sentenced To Prison
+*   China's Hu Issues Warning About Corruption
+*   Obama, Congress Begin Budget Negotiations
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
