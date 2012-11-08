@@ -45,6 +45,11 @@ MyPoints Search MyPoints Search Web
     *   Coupons.com
     *   Office Depot
     *   Magazines.com
+    *   MyStars
+    *   Kara DioGuardi
+    *   Carmen Electra
+    *   Kyle Richards
+    *   Total Beauty
     *   All Merchants
 *   Deals
     *   Grocery Coupons
@@ -282,7 +287,7 @@ MYPOINTS.COM PARTNERSHIPS
 
 Did You Know?
 
-MyPoints shopping can be overwhelming at times. Use the search bar on top to make things easy. Search for an online retailer, or product.
+MyPoints is one of the top online coupon sites. Yup, we're here to save you money.
 
 Contact Us
 
