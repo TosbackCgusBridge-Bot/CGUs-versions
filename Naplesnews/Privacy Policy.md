@@ -435,25 +435,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   4 more years: Obama wins re-election Updated 11/7/2012 at 12:33 a.m. 545 comments
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 62 comments
-*   Crane crashes down on U.S. 41 in Naples Updated 11/7/2012 at 4:13 p.m. 10 comments
-*   In the Know: What’s happening at former Sweet Mama’s diner and Doc’s Pizza House? Published 11/7/2012 at 5:15 a.m. 12 comments
-*   Stocks plunge after election. Europe woes deepen Published 11/7/2012 at 12:16 p.m. 66 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 148 comments
+*   4 more years: Obama wins re-election Updated 11/7/2012 at 12:33 a.m. 598 comments
+*   Commissioner Bigelow linked to Fort Myers drug arrest Published 11/7/2012 at 11:29 p.m.
+*   Crane crashes down on U.S. 41 in Naples Updated 11/7/2012 at 4:13 p.m. 13 comments
+*   Election 2012: Florida counting last presidential votes. Obama still narrowly leads Updated 11/8/2012 at 3:53 p.m. 44 comments
 
-Photo Galleries Editorial Cartoons: November 7, 2012 Crane collapes onto US 41 in Naples Naples International Film Festival…
+Photo Galleries Crane collapes onto US 41 in Naples Catch of the Day: Nov. 8, 2012 Editorial Cartoons: November 7, 2012
 
-*   4 more years: Obama wins re-election Published 11/6/2012 at 8:00 a.m. 545 comments
+*   4 more years: Obama wins re-election Published 11/6/2012 at 8:00 a.m. 598 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 148 comments
 *   Obama? Romney? Nation decides after long campaign Published 11/5/2012 at 11:11 p.m. 142 comments
-*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 141 comments
-*   Romney in a landslide  in Community School of Naples mock election Published 11/5/2012 at 6:57 p.m. 118 comments
-*   Stocks plunge after election. Europe woes deepen Published 11/7/2012 at 12:16 p.m. 66 comments
+*   Romney in a landslide  in Community School of Naples mock election Published 11/5/2012 at 6:57 p.m. 119 comments
+*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 142 comments
 
-*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 141 comments
+*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 142 comments
 *   In the Know: New dining options at former Rossopomodoro and L’Etoile restaurants Published 10/31/2012 at 5:17 a.m. 16 comments
 *   Naples' Tom Golisano is $20 million donor to Lee Memorial's new children's hospital Published 10/30/2012 at 11:41 a.m. 44 comments
 *   Plans fizzle for SW Fla energy crop jatropha, company executive indicted Published 11/5/2012 at 8:00 a.m. 5 comments
-*   Editorial: President of the United States Published 10/28/2012 at 4:00 a.m. 382 comments
+*   Naples resident gives more than $750,000 to Republican groups, candidates Published 11/1/2012 at 5:45 a.m. 185 comments
 
 Weather
 
@@ -461,23 +461,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 58° Overcast Wind: NE 8mph Today 67° 54° Thu 08:00 PM Mostly Clear Temp: 59° Fri 08:00 AM Mostly Sunny Temp: 67° Fri 08:00 PM Mostly Clear Temp: 65°
+Currently 69° Fair Wind: N 13mph Today 71° 52° Fri 04:00 AM Mostly Clear Temp: 54° Fri 04:00 PM Mostly Sunny Temp: 74° Sat 04:00 AM Mostly Clear Temp: 59°
+
+Feels Like: 54°
+
+Humidity: 72%
+
+Precip: 1%
+
+Feels Like: 74°
+
+Humidity: 41%
+
+Precip: 5%
 
 Feels Like: 59°
 
-Humidity: 57%
-
-Precip: 1%
-
-Feels Like: 67°
-
-Humidity: 51%
-
-Precip: 1%
-
-Feels Like: 65°
-
-Humidity: 63%
+Humidity: 81%
 
 Precip: 5%
 
@@ -505,10 +505,10 @@ More Events »
 More Events »
 
 *   Free to Breathe® Run/Walk Unites Southwest Florida to Defeat Lung Cancer November 10 Charlotte Sports Park 6 a.m.
+*   2nd Annual Save a Life Golf Scramble Naples Beach Hotel &. Golf Club 7 a.m.
 *   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
 *   Third Street South Farmers Market Third Street South 7:30 a.m.
 *   7th Annual Sanibel Island Writers Conference Sanibel Island 7:30 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 
 More Events »
 
