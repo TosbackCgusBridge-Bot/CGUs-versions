@@ -16,6 +16,10 @@ Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! 
     
     *   Kids Toys
     *   Flowers &. Plants
+    *   2012 Giftees Nominees
+    
+    *   Toy Safety Guide
+    *   Stocking Stuffer Guide
     *   All Christmas Gifts
     
 *   Men Shop by Occasion
@@ -95,13 +99,13 @@ Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! 
     More Gift Ideas for Women »
 *   Teens Shop by Occasion
     
-    *   Birthday
-    *   16th Birthday
-    *   Back To School
-    
-    *   Room Decor
-    *   Halloween
     *   Christmas
+    *   Birthday
+    *   Room Decor
+    
+    *   Hanukkah
+    *   16th Birthday
+    *   Clothing &. Accessories
     
     Top Categories
     
@@ -231,19 +235,19 @@ Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! 
     View All Occasions »
 *   Category Top Categories
     
-    *   Baby Keepsakes
+    *   2012 Giftees Nominees
     *   Experiential Gifts
     *   Made in the USA
     
-    *   Beauty &. Spa
+    *   Baby Keepsakes
     *   Flowers
     *   **Our Newest Gifts**
     
-    *   Business &. Executive
+    *   Beauty &. Spa
     *   Gag Gifts
     *   Personalized Gifts
     
-    *   Computers &. Electronics
+    *   Business &. Executive
     *   **Gift Baskets**
     *   Pets
     
@@ -251,11 +255,11 @@ Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! 
     *   Gloves, Hats &. Scarves
     *   Same Day Delivery
     
-    *   **Eco-Friendly Gifts**
+    *   Computers &. Electronics
     *   Gourmet Food &. Beverages
     *   Toys &. Games
     
-    *   Election 2012
+    *   **Eco-Friendly Gifts**
     *   Home Decor
     *   Unique Gifts
     
