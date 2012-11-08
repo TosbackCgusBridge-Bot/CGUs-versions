@@ -54,6 +54,7 @@
     *   the big bang theory
     *   conan
     *   everybody loves raymond
+    *   family guy
     *   for better or worse
     *   fresh prince of bel-air
     *   friends
