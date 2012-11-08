@@ -275,13 +275,13 @@ Cart: 0 items
     Accessories
     
     *   All Purpose Totes
+    *   Anti-Theft Accessories
     *   Day Travel Handbags
     *   Luggage Accessories
     *   Lunch Bags &. Coolers
     *   Packable Lightweight Bags
     *   Packing Cubes
     *   Toiletry Kits
-    *   Travel Security
     *   Travel Wallets
     *   Sale &. Clearance
     *   See All
