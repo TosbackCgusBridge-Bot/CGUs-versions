@@ -7,6 +7,26 @@
 
 Welcome (Sign In) My Closet (0 items) Checkout (0 items)  
 
+*    
+    *   Shop By Look
+    *   Easy Care Shirt Shop
+    *   Suit Shop
+    *   Dresses
+    *   Tops
+    *   Bottoms
+    *   Jackets
+    *   Accessories
+    *   Petite
+    *   Plus
+    *   Sale
+*   New Arrivals
+
+*   Wendy's Wisdom
+
+*   As Seen In
+
+*   **JNY**Rewards
+
 Enter keyword... This jny.com web site is a service of JAG Footwear, Accessories and Retail Corporation.  
   
 Jones New York respects the privacy of our customers and the users of our website and has instituted the policies and practices described below to ensure that your personal information is handled in a responsible manner. Our online privacy policy describes the types of personal information we may collect from you when you visit our websites or our stores, how we use this information, and when we share it with third parties or our affiliated brands. The information on this website and our privacy policy are subject to change from time to time. Any material changes to our privacy policy and practices will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our website, you consent to the collection and use of this information by Jones New York.  
