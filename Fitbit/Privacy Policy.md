@@ -5,7 +5,6 @@ Fitbit Sign up • Log in
     *   Devices
     *   **Zip™** Wireless Activity Tracker
     *   **One™** Wireless Activity + Sleep Tracker
-    *   **Ultra™** Wireless Activity + Sleep Tracker
     *   **Aria™** Wi-Fi Smart Scale
     
     *   Online and Mobile
@@ -210,8 +209,6 @@ Products
 *   Zip™  
     Wireless Activity Tracker
 *   One™  
-    Wireless Activity + Sleep Tracker
-*   Ultra™  
     Wireless Activity + Sleep Tracker
 *   Aria™  
     Wi-Fi Smart Scale
