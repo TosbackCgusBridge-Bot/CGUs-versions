@@ -878,10 +878,6 @@ SYNC not available on Fiesta S model. Valid only on non-binding U.S. reservation
 
 SiriusXM Satellite Radio, Traffic and Travel Link subscriptions sold separately or as a package after trial expires. SiriusXM Traffic and Travel Link service available in select markets. Subscriptions are governed by SiriusXM Customer Agreement. see www.siriusxm.com. Sirius U.S. Satellite Service available only to those 18 and older in the 48 contiguous U.S.A, D.C. and Puerto Rico (with coverage limitations). Sirius, XM and all related marks and logos are trademarks of Sirius XM Radio Inc. and its subsidiaries.
 
-36
-
-Optional. 3.5L EcoBoost V6 available on F-150, Flex and Taurus SHO. The 2.0L EcoBoost I-4 will be available summer 2011 on 2012 Edge and 2012 Explorer. \[Taurus SHO: EPA-estimated 17 city/25 hwy/20 combined mpg. Flex: EPA-estimated 16 city/21 hwy/18 combined mpg, EcoBoost AWD.\]
-
 37
 
 Based on total number of first-in-class features. Class is full size non-luxury sedans.
@@ -918,10 +914,6 @@ The Ford Focus, Ford Mustang and Ford Taurus each received the lowest number of 
 
 EPA-estimated 41 city/34 hwy combined mpg, Fusion Hybrid. Midsize class per R.L. Polk &. Co. Actual mileage will vary. Ford reserves the right to change product specifications at any time without incurring obligations.
 
-46
-
-2011 EPA-estimated fuel economy 41 city/36 hwy/39 combined mpg. Actual mileage will vary.
-
 47
 
 2011 EPA-estimated fuel economy 29 city/40 hwy/33 combined mpg, SE automatic with SFE Package.
@@ -929,10 +921,6 @@ EPA-estimated 41 city/34 hwy combined mpg, Fusion Hybrid. Midsize class per R.L.
 48
 
 2012 EPA-estimated fuel economy 28 city/40 hwy/33 combined mpg, SE automatic with SFE Package.
-
-49
-
-2011 EPA-estimated fuel economy 23 city/33 hwy/26 combined mpg, Fusion I-4 automatic.
 
 50
 
@@ -1088,7 +1076,7 @@ MPG – EPA estimated base engine/transmission unless otherwise noted. Fiesta cl
 
 88
 
-No other brand offers more vehicles with 40 mpg.
+Fiesta/Focus SE with SFE 40 hwy mpg, Fusion Hybrid 47 combined mpg.
 
 89
 
