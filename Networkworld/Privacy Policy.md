@@ -19,16 +19,10 @@ Skip Links
 *   Acquia and Drupal: Building for Your Digital Future with OpenWEM
 *   Aruba Networks Bring Your Own Device (BYOD)
 *   Aerohive Enterprise Networking Solution Center
-*   BMC Control-M Workload Automation
-*   CA Technologies Executive Resource Center
 *   CA Technologies Transform Your IT Strategy
-*   Dell 12th Generation PowerEdge Servers Solution Center
 *   HP + Microsoft Data Management Appliances &. Architectures
-*   Network World Accelerating the Cloud Challenge
 *   Network World Data Center Challenge 2012
 *   Network World Mobility Management Challenge 2012
-*   Network World Next Generation Firewall Challenge
-*   Network World Wi-Fi Challenge
 *   Riverbed Accelerate Business Performance Solution Center
 *   Silver Peak's Virtual WAN Optimization Center
 *   **_View all Solution Centers_**
