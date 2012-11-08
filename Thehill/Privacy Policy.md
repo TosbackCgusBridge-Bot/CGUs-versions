@@ -212,105 +212,105 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Boehner pivots on taxes after President Obama’s reelectionTrump calls for revolution, blasts Electoral CollegeConservatives lambast Romney, vow to take over Republican PartySpeculation about Pelosi’s future grows as Republicans retain House controlTea Party favorite West calls for a recount
+Boehner pivots on taxes after Obama winConservatives lambast Romney, vow to take over Republican PartyHealth group asks Obama to stop eating junk food in public Victims to address Giffords’s shooter at sentencing hearing25 problems facing Obama, Congress
 
 Emailed
 
-Reid soars, Warren shinesObama win ensures health law's futureWith no pause for breath, leaders Reid, Boehner stake out 'fiscal cliff' stancesConservatives lambast Romney, vow to take over Republican PartyPrediction: Romney 325, Obama 213
+Reid soars, Warren shines25 problems facing Obama, CongressUS helps advance UN arms treatyConservatives lambast Romney, vow to take over Republican PartyWall St. ready to reconcile with Obama
 
 Discussed
 
-Opinion: Here comes the landslideGOP senators: Thousands of ballots unlikely to reach military voters in timeObama wins a second term, calls for national unity in victory speechGOP takes aim at ‘skewed’ pollsOpinion: A Romney win would be a victory for shameless cynicism
+Opinion: Here comes the landslideGOP senators: Thousands of ballots unlikely to reach military voters in timeObama wins a second term, calls for national unity in victory speechSen. Graham: Obama move on defense layoff notices 'patently illegal'Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   House panel to hold closed hearing on deadly Libya attack
-*   DAY'S END ROUNDUP
-*   Puerto Rico votes to seek statehood
+*   Romney adviser concedes Florida vote to Obama
+*   Rep. Hansen Clarke's office burglarized
+*   Giffords confronts her shooter in court: 'Done thinking about you'
 
   
 More Briefing Room » Congress Blog
 
-*   For the GOP, 2016 begins now
-*   What's next for the president's science agenda?
-*   In the new norm, neither party has clear or durable mandate
+*   Pass a fiscally responsible Farm Bill extension
+*   LGBT Americans are part of country's social fabric
+*   Fiscal responsibility, not sequestration, is the goal
 
   
 More Congress Blog » Pundits Blog
 
-*   Memo to the Republicans
-*   Tea leaves — 2012
-*   Why Obama won
+*   A job for Mitt Romney
+*   Dear Matt Drudge: Stop the race stories
+*   Can we sell conservatism in the foreseeable future?
 
   
 More Pundits Blog » Twitter Room
 
-*   Global leaders congratulate Obama on Twitter
-*   Romney spends morning after election with family
-*   Anthony Weiner returns to Twitter with Sandy plea
+*   Axelrod suggests a charity for Trump's $5 million offer
+*   Nate Silver becomes social media sensation
+*   Huntsman to GOP: 'Put country first'
 
   
 More Twitter Room » Hillicon Valley
 
-*   Roku rolls out post-election ads that poke fun at Romney
-*   ACLU sues to protect online privacy of sex offenders
-*   House Energy and Commerce panels to face membership changes
+*   AT&T backs down from FaceTime restriction following net-neutrality complaints
+*   Data collectors admit to lawmakers they mine Facebook for personal information
+*   DOJ's antitrust chief to step down
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   House Energy and Commerce faces leadership changes
-*   Reid on climate change: ‘I hope we can address it’
-*   Senate filibuster reform atop green group priorities
+*   Wind tax credit backers ramp up campaign to greet Congress
+*   Oil-and-gas lobby says despite losses, election not a referendum on industry
+*   Energy lobbyist: Keystone an ‘early test’ of Obama's pro-oil stance
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Democrat wins Ventura County for first time in 70 years
-*   Romney loss reveals gap with Hispanics
-*   Democrat Kirkpatrick wins in Arizona House race
+*   Graham: Immigration reform must be dealt with 'once and for all'
+*   Rep. Barber trailing in race for Giffords's seat
+*   Rubio headed to Iowa
 
   
 More Ballot Box » On The Money
 
-*   25 problems facing Obama, Congress
-*   Wall St. ready to reconcile with Obama
-*   Business groups urge quick extension of tax policies in lame duck
+*   CBO lays out fiscal cliff costs
+*   Liberals outline fiscal cliff demands for taxes, spending
+*   Mortgage rates hover around record lows
 
   
 More On The Money » Healthwatch
 
-*   Cantor vows bill to repeal health law's contentious board
-*   Conservatives begin to admit defeat in their 3-year war against 'ObamaCare'
-*   Analysis: 20 states will run their health-law exchanges
+*   Health group asks Obama to stop eating junk food in public
+*   CBO: GOP bill revising health law ratio will add to deficit
+*   News bites: Here to stay
 
   
 More Healthwatch » Floor Action
 
-*   DelBene gets a month's head start on her new colleagues
-*   House Dems announce online 'resume bank' to help hire staff
-*   Boehner: Focus on ‘common ground’ to help avoid fiscal cliff
+*   After Maryland referendums pass, Cardin says Congress should act on DOMA, DREAM Act
+*   Rep. King promises to push balanced-budget amendment next year
+*   Grassley tells federal courts to cut conference spending before jobs
 
   
 More Floor Action » Transportation
 
-*   Donald Trump triples down on disputed Jeeps-to-China claim
-*   Road to President Obama's win in Ohio paved by support for auto bailout
-*   Transportation observers unclear on LaHood's future
+*   Shuster confident in transportation panel bid despite possible Mica waiver
+*   Second Northeast storm cancels nearly 2,400 flights
+*   Rep. Shuster announces bid for House Transportation Committee chairmanship
 
   
 More Transportation » DEFCON Hill
 
-*   Inhofe says he expects to succeed McCain on Armed Services
-*   US says no deal with NATO to supply missiles to Turkey
-*   Armed Services panel could bypass Senate floor for defense bill
+*   DOD confirms Iranian attack on US drone
+*   Rivalries form for vacant Armed Services subcommittee chairs
+*   Ahmadinejad: Countries stockpiling nuclear weapons ‘mentally retarded’
 
   
 More DEFCON Hill » Global Affairs
 
-*   US helps advance UN arms treaty
-*   Top Dem's defeat portends intra-party fight on foreign affairs panel
-*   Rep. Royce gets endorsement for top spot on Foreign Affairs panel
+*   Dem Reps. Sherman, Engel will seek Foreign Affairs leadership post
+*   Netanyahu denies rooting for Romney, as critics fear weakened US-Israel ties
+*   White House confirms Obama to be first US president to visit Burma, Cambodia
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Seizing the moment Brent Budowsky Reid soars, Warren shines More Columnists »
