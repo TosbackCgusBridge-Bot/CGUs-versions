@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Christmas Cooks UP NEXT › Andy Bates Amer...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › The Best Thing ... UP NEXT › Andy Bates Amer...
 
 *   Channel  
     Guide
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   Recipe of the Day: Gorgonzola Tagliatelle with Walnuts, Leeks and Parma Ham t.co/c4KHNclN #recipe
+*   Christmas elf up a ladder on set with @thomasinamiers and @CrowsNestFilms t.co/qd7gSXqK
+*   Can anyone guess what @thomasinamiers is about to make? We'll give you a clue - that's chocolate, cream and tequila! t.co/7NU8aKaw
+*   Liver, pomegranate and balsamic toasts with a touch of chilli. @foodnetwork\_uk t.co/UukzzjGP
 *   Glad to hear it! We can't wait either! @adsmills @thomasinamiers
 *   You're making us hungry! @Capsicana @thomasinamiers
 *   @thomasinamiers @FoodNetwork\_UK let's try getting thomasina in shot... t.co/47BAXBHP
 *   @FoodNetwork\_UK Feel all Christmassy and happy! Wow how amazing the food looks and smells! #hungry t.co/JdS75mjf
 *   @thomasinamiers has arrived into the Mexican Christmas kitchen. Time to cook up some wickedly-spicy dishes! t.co/1MZnIY6w
 *   From top pastry tips to British classics, @eatmypies cookbook has the lot. Have you ordered your copy? t.co/o3qlOki1
-*   Spicy Christmas with a Mexican twist! “@Capsicana: @FoodNetwork\_UK @thomasinamiers What are you going to be cooking?”
-*   Filming @FoodNetwork\_UK for Christmas. So Christmassy here on set, getting in the mood!
-*   @FoodNetwork\_UK @thomasinamiers Loving the vibrant set!
-*   Going all out Mexican on set today with the lovely @thomasinamiers #christmas t.co/5isAEm05
 
 Follow Us
 
