@@ -1,5 +1,5 @@
 **Basket**  
-0 items $0.00 Your shopping basket is empty. Shipping to:  
+1 item $3.99 Item Name Qty Child Glitter Cat Costume Kit $3.99 1 Shipping to:  
 Halloween Costumes Customer Service Store Locator Change to Canada
 
 *   Birthday Party Supplies
@@ -18,7 +18,7 @@ Halloween Costumes Customer Service Store Locator Change to Canada
     *   Baby, Toddler Costumes Boys Costumes Girls Costumes Teen Costumes Womens Costumes Sexy Costumes Mens Costumes Plus Size Costumes Couples, Group Costumes Dog Costumes Costume Accessories Decorations, Supplies
 
 *   Entertaining &. Serving
-    *   Fashion Tableware Premium Tableware Eco Friendly Tableware Chargers Placemats Table Covers Hand Towels Cutlery Candles Table Decorations Cups Stemware Pitchers, Ice Buckets Serving Trays Serving Bowls Serving Utensils Aluminum Pans Chafing Dishes Serving Accessories Mini Tasting Party Cocktail Napkins Appetizer Plates Picks, Stirrers, Straws Bar Accessories Drink Mixes Party Games Drink Tickets Housewarming Gifts
+    *   Fashion Tableware Premium Tableware Eco Friendly Tableware Chargers Placemats Tablecloths Hand Towels Cutlery Candles Table Decorations Cups Stemware Pitchers, Ice Buckets Serving Trays Serving Bowls Serving Utensils Aluminum Pans Chafing Dishes Serving Accessories Mini Tasting Party Cocktail Napkins Appetizer Plates Picks, Stirrers, Straws Bar Accessories Drink Mixes Party Games Drink Tickets Housewarming Gifts
 
 *   Solid Color Tableware
     *   Shop By Color Clear Tableware Paper, Plastic Plates Plastic Bowls Paper, Plastic Cups Coffee Cups Paper Napkins Plastic Cutlery Table Covers 99¢ Tableware BOGO Cups Big Party Packs Premium Plates Premium Bowls Premium Stemware Premium Cups
