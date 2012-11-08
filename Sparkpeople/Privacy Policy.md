@@ -143,7 +143,7 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Bulking Up Exercises Resources
+*   Cardio Pool Workouts Resources
 
   
 Stay in Touch With SparkPeople **How to Feed a Vegetarian**
@@ -152,17 +152,17 @@ Stumped about what to cook when a vegetarian comes over for dinner? Here's what 
 
 Read More
 
-*   How do you hold yourself accountable?
-*   Keeping fruits and veggies fresh
 *   Any moderate eaters, exercisers, out there?
-*   Describe the last time you felt proud of yourself.
-*   Strateies needed from Thanksgiving to New Year's
+*   Do you have a goal after weight loss?
+*   How do you fight boredom on the treadmill?
+*   How do you hold yourself accountable?
+*   Pantry staples
 
 View Demo **Knee Raises on Captains Chair**  
-One of the best exercises for the abs! **Healthy Moussaka**  
-Submitted By: **KHILKEY**
+One of the best exercises for the abs! **Slow-Cooker Salsa Chicken**  
+Submitted By: **CHEF\_MEG**
 
-A healthy take on the Greek eggplant casserole. Full Recipe
+This is THE most popular recipe on SparkRecipes. We've added more vegetables and reduced the sodium drastically to make it even better. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
