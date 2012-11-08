@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Pro Collagen Resources
+*   Bulking Up Exercises Resources
 
   
-Stay in Touch With SparkPeople **Small Bits of Fitness Add Up**
+Stay in Touch With SparkPeople **How to Feed a Vegetarian**
 
-Did you know that you can stay healthy and fit simply by fitting exercise into 10-minute breaks throughout your day?
+Stumped about what to cook when a vegetarian comes over for dinner? Here's what you need to know.
 
 Read More
 
-*   How do you maintain your exercise long-term?
-*   Who Motivates you on Sparkpeople?
+*   How do you hold yourself accountable?
+*   Keeping fruits and veggies fresh
+*   Any moderate eaters, exercisers, out there?
 *   Describe the last time you felt proud of yourself.
-*   Whats the 1st thing you noticed w/your weightloss?
-*   How do you fight boredom on the treadmill?
+*   Strateies needed from Thanksgiving to New Year's
 
-View Demo **Decline Pushups**  
-Turn ordinary pushups into an advanced exercise by adding a decline. **Slow Cooker Moroccan Beef Stew**  
-Submitted By: **CHEF\_MEG**
+View Demo **Knee Raises on Captains Chair**  
+One of the best exercises for the abs! **Healthy Moussaka**  
+Submitted By: **KHILKEY**
 
-Chef Meg turned a member-submitted dish into a slow cooker meal that's easy yet exotic! Full Recipe
+A healthy take on the Greek eggplant casserole. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
