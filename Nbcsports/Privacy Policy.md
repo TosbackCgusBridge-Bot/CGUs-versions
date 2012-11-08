@@ -1,53 +1,53 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: 'Super-Earth' alien planet may support life
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Record snow, new outages as storm hits Northeast
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Larry French / Getty Images Pretenders and contenders
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines John Sommers Ii / Reuters The five biggest surprises
     
-    Kacsmar: As we reach the midpoint of the season, things only get slightly clearer on which teams are the best. We know who the worst teams are — here’s looking at you, Kansas City and Jacksonville — but that is the easy part. How do we sort out the playoff picture halfway through the season?
+    Kacsmar: Peyton's return, Saints sinking and those remarkable rookie QBs are among our picks.
     
-    Midseason report for every team   |  All-Pro team Kacsmar: Five biggest surprises of this season Dan Patrick Show: Luck is out-shining Manning PFT: Bears might not have Tillman for Texans PFT Live: Tillman needs to family plan better PFT: Jimmy calls Jerry's control claims 'a crock' PFT Live: Time for Jerry Jones to hire a GM? PFT Live: Florio's Week 10 coaching hot seat Ad
+    Kacsmar: Who are pretending, and contending? Midseason report for every team   |  All-Pro team PFT Live: Reigniting Carroll vs. Sanchez Carroll: Sanchez left too early  |  Tebow frustrated PFT: Rodgers didn't like his '60 Minutes' profile PFT's picks: 7-1 Bears will topple 7-1 Texans PFT: Backtracking on our Tillman baby outrage PFT: Roddy White thinks Falcons can go 16-0 Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Darren Calabrese / AP Yankees want Rivera to take a cut
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Leon Halip / Getty Images 'We're not trading Alex Rodriguez'
     
-    HBT: The Yankees reportedly are expected to ask Mariano Rivera to take a “significant paycut” as part of a new contract.
+    HBT: Every couple weeks Yankees general manager Brian Cashman reiterates that he has no plans to trade Alex Rodriguez.
     
-    HBT: Finalists announced for MLB awards HBT: Rockies hire Weiss as manager MLB considering wider expansion of instant replay GMs discussing head protection for pitchers Trash Talk: When you see Hamilton, think A-Rod Ryan no gut feel on Hamilton future with Rangers HBT: O's to make a run at Hamilton  |  M's, too? HBT: Padre catcher suspended 50 games for PEDs Ad
+    HBT: Weiss better have a good first year with Rockies HBT: 2013 free-agent tracker HBT: Yankees expect Rivera to take pay cut HBT: Sizemore plans to play in '13 after missing '12 HBT: Finalists announced for MLB awards MLB considering expansion of instant replay GMs discussing head protection for pitchers HBT: The top 50 free agents  |   Nos. 51-111 Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Chris Young / AP NHL, NHLPA talks continue
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Bruce Bennett / Getty Images 'You’ve been writing filth about me'
     
-    PHT: Sides meet for almost six hours. negotiations will continue Thursday.
+    PHT: It appears relations have soured between Ilya Bryzgalov and the Russian media.
     
-    CSN: Owners, players finally working together CSN: NHL deal won't be appealing to either side PHT: Luongo to Leafs? Cherry puzzled PHT: Won't somebody think of the beer companies? PHT: Three reasons fans might not come back PHT: Canucks to retire Bure's number NHL.com: Injury-prone Bure displayed elite skills NHL.com: Quiet steadiness defined Sakic's career Ad
+    PHT: Dynamo prez wants to keep Ovie in KHL NHL, union hold labor talks a 3rd straight day CSN: Owners, players finally working together CSN: NHL deal won't be appealing to either side PHT: Luongo to Leafs? Cherry puzzled PHT: Won't somebody think of the beer companies? PHT: Three reasons fans might not come back PHT: Canucks to retire Bure's number Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines NBC Sports LeBron making the Knicks better?
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Jim Urquhart / Reuters Howard to Kobe: Chill out!
     
-    SportsTalk: Erik Kuselias and Knicks beat writer Frank Isola discuss if LeBron James' extensive resume has Carmelo Anthony playing with a new fire to attain the same goals as his friend.
+    PBT: Kobe Bryant was angry the Lakers fell to 1-4 in Utah. He argued with a ref, gave Mike Brown a death stare and stormed off the court after the game. Dwight Howard thinks he needs to chill out.
     
-    Nets simply no match for Heat LeBron thanks Ohio for delivering for Obama PBT: Panic time as Lakers fall to 1-4 Trash Talk: Most vital Laker stat — health Clippers hand Spurs first defeat CSN: Harden struggles in Rockets' loss to Nuggets CSN: Celtics clip Wizards in OT CSN: 76ers hold Hornets to record-low 62 points Ad
+    Nets are simply no match for Heat SportsTalk: Is LeBron making Knicks better? LeBron thanks Ohio for delivering for Obama Clippers hand Spurs first defeat CSN: Celtics clip Wizards in OT CSN: Harden struggles in Rockets' loss to Nuggets CSN: 76ers hold Hornets to record-low 62 points CSN: Bulls may be fine without Rose? Ad
 *   NCAA FB
     SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Sean Gardner / Reuters No slowing the rising Tide
     
     CFT's Predictions 101: It's been a good season so far for Johnny Manziel and No. 15 Texas A&M, but they're simply no match for No. 1 'Bama.
     
-    No. 8 FSU expecting Va. Tech's best performance Special feature: Heisman Hopefuls CFT: USC launches Lee's Heisman campaign USC manager fired for deflating balls in loss Which undefeated team is on upset alert? SportsTalk: Will Klein play Saturday? CFT: Petrino in line to coach at Kentucky? CFT: Richt to have hip surgey in offseason Ad
+    Which undefeated team is on upset alert? Irish blog: Is there something wrong with ND? CFT: Lattimore has surgery, so what's next? No. 8 FSU expecting Va. Tech's best performance Special feature: Heisman Hopefuls CFT: USC manager fired for deflating game balls CFT: USC launches Lee's Heisman campaign CFT: Houston player suffers near-fatal injury Ad
 *   NCAA HOOPS
     SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Andy Lyons / Getty Images Who can cage these Wildcats?
     
     CBT: Kentucky lost nearly everyone from its 2012 title team, but it's still No. 3 in our preseason Top 25. How is that possible? We break it down.
     
-    Moore: Shorter shot clock wouldn't mean better hoops Missouri senior guard Dixon remains suspended CBT: Tarkanian's son loses House race in Nevada CBT: Our preseason NCAA tourney projections CBT: Which All-American will flop this season? AD: NCAA accepts Texas Tech-imposed penalties CBT: Two Indiana freshmen suspended 9 games CBT: Battle of the Midway moved to Sunday Ad
+    Moore: Shorter shot clock wouldn't mean better hoops CBT: Kentucky donates $500K for Sandy relief efforts Missouri senior guard Dixon remains suspended CBT: Tarkanian's son loses House race in Nevada CBT: Our preseason NCAA tourney projections CBT: Which All-American will flop this season? AD: NCAA accepts Texas Tech-imposed penalties CBT: Two Indiana freshmen suspended 9 games Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Tom Pennington / Getty Images Keselowski not feeling pressure
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Dimitar Dilkoff / AFP - Getty Images F1: Watch the language, guys
     
-    Brad Keselowski recognizes how fortunate he is to be racing at NASCAR's top level, and uses the kind of joke a guy would tell his buddy over a beer as a metaphor for the situation he finds himself in.
+    Formula One drivers have been told to mind their language after Sebastian Vettel and Kimi Raikkonen turned the air blue Sunday.
     
-    In The Pits: Final finish saved sluggish race Johnson holds off Keselowski to win at Texas Hannah Storm goes in-depth with 4 NASCAR stars Jimmie Johnson, NASCAR giving to Sandy efforts Vickers to run for Nationwide title with JGR Lotus say Raikkonen's win shows they are serious Danica will have to get used to 'old man' Danica's 1 regret about bumping Cassill: execution Ad
+    Keselowski not feeling pressure headed to Phoenix In The Pits: Final finish saved sluggish race Henry suspended for substance abuse violation Hannah Storm goes in-depth with 4 NASCAR stars Jimmie Johnson, NASCAR giving to Sandy efforts Vickers to run for Nationwide title with JGR Lotus say Raikkonen's win shows they are serious Danica will have to get used to 'old man' Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Marcio Jose Sanchez / AP Galaxy gets the job done
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Bill Kostroun / AP MLS wise to postpone United-Bulls
     
-    PST: Robbie Keane scored two goals and Mike Magee added another as Los Angeles beat San Jose 3-1 to complete a 3-2 aggregate victory in the teams' Western Conference semifinal series.
+    PST: Moving the game to Thursday was right. The crews tried, but they couldn’t stay ahead of the storm, which reserved its heaviest period for the hour before game time.
     
-    PST: Dynamo defeated, but still advances Highlights: Great header by Sporting KC PST: Playoff preview — Seattle at Salt Lake PST: United-Red Bulls game postponed by snow De Rosario on the chilly weather conditions Barcelona loses, Man United advances in wild night PST: A look at Wednesday's Champions games US opens final WCup qualifying round at Honduras Ad
+    De Rosario on the chilly weather conditions PST: Galaxy's Keane was cruel test for Quakes PST: Highlights from Galaxy, Dynamo playoff wins PST: Playoff preview — Seattle at Salt Lake Brazilian suspended for rubbing blood on opponent Messi's young son already member of Argentine club Barcelona loses, Man United advances in wild night PST: A look at Wednesday's Champions games Ad
 *   Golf
     SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Bjorn leads in Singapore as weather halts play
     
@@ -55,17 +55,17 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     Rory: Equipment news coming in a 'few weeks' Bjorn leads in Singapore as weather halts play Lefty on potential anchoring ban: 'Grossly unfair' Players take to Twitter to comment on presidential election Featured pairings: CMN Hospitals Classic Scott challenges Tiger and anchoring ban Compton gets Zaharias Courage Award at Disney McIlroy struggles to find balance with work, play Report: Bevacqua to replace Steranka as PGA CEO Lots of players fighting for their careers at Disney G-Mac: Rory's mega-deal not just about money Hall of Fame instructor Flick dies at 82 Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines AP White to seek treatment for alcohol
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Matthias Schrader / AP Sochi Games to feature 12 new events
     
-    Gold medal snowboarder will seek alcohol treatment in order to settle public intoxication and vandalism charges.
+    Russia's 2014 Olympics will be the biggest and the most expansionist Winter Games with 12 new sports.
     
-    Sochi to feature figure skating team event OlympicTalk: Vonn skipping Cup slalom opener OlympicTalk: Torres, other Olympians make 'fittest' slideshow OlympicTalk: Uzbekistani wrestler stripped of medal 7 American gold medalists who still can't vote OlympicTalk: Japan’s Yamaguchi swimming TOO fast OlympicTalk: Martha Karolyi won't quit Team USA OlympicTalk: Is Bolt the world's best athlete? Ad
+    Shaun White to seek treatment for alcohol abuse Canada 1-2 at skeleton World Cup after 2 runs OlympicTalk: Gold medalist Wiggins hit by van OlympicTalk: London world records finally ratified OlympicTalk: Discus champion faces lifetime ban OlympicTalk: Vonn skipping Cup slalom opener Torres, other Olympians make 'fittest' slideshow OlympicTalk: Uzbekistani wrestler stripped of medal Ad
 *   More
-    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines NBC Sports Utah girl a star in youth football
+    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Glyn Kirk / AFP - Getty Images Federer reaches ATP semifinals
     
-    Video: Dan Patrick and company talk about Sam Gordon, the little girl from Utah outplaying all the boys in her youth football program.
+    The six-time champion earned his second straight victory at the season-ending tournament, beating David Ferrer 6-4, 7-6 (5) on Thursday.
     
-    Wiggins hospitalized after colliding with car Newton TD celebration gets prep star ejected Big names in sports thrown for losses by voters The lineup for sports on election night Castrodale: Some pleas for the president The Week in Sports Pictures PhotoBlog: Six boys and one skateboard OTB: Throw-in to the face — once, twice Ad
+    Dan Patrick: Utah girl a star in youth football Klitschko and the heavyweight mess Wiggins and British coach both hit by vehicles Newton TD celebration gets prep star ejected Big names in sports thrown for losses by voters The lineup for sports on election night Castrodale: Some pleas for the president The Week in Sports Pictures Ad
 
 *   Scores
 *   Odds
@@ -191,4 +191,4 @@ HBT: Finalists announced for MLB awards
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
-AdChoices SportsNFL College football MLB NBA NHL College basketball NASCAR/Motors Golf Tennis Soccer Other Sports Quick linksScores RSS Feeds Tickets TV Listings Fantasy Games Universal Sports NBC Sports Feedback Go Mobile Shop NBC TV Listings **Day** **Time** **Event** **Location** **Talent** **Saturday, Nov. 10** 2:30 - 3:30 p.m. Red Bull Signature Series Hurricane Mills, Tenn. Jason Weigandt, David Bailey, Alex Curry 3:30 - 6 p.m. MLS Conference Championship: TBD TBD Arlo White, Kyle Martino, Russ Thaler **Sunday, Nov. 11** 4 - 6 p.m. ISU Grand Prix of Figure Skating Moscow, Russia Terry Gannon, Peter Carruthers, Tara Lipinski 7 - 8:20 p.m. Football Night in America New York Bob Costas, Dan Patrick, Tony Dungy, Rodney Harrison, Peter King, Alex Flanagan, Mike Florio, Hines Ward 8:20 - Conclusion Sunday Night Football: Texans at Bears Chicago Al Michaels, Cris Collinsworth, Michele Tafoya Note: All times ET
+AdChoices SportsNFL College football MLB NBA NHL College basketball NASCAR/Motors Golf Tennis Soccer Other Sports Quick linksScores RSS Feeds Tickets TV Listings Fantasy Games Universal Sports NBC Sports Feedback Go Mobile Shop NBC TV Listings **Day** **Time** **Event** **Location** **Talent** **Saturday, Nov. 10** 2:30 - 3:30 p.m. Red Bull Signature Series Hurricane Mills, Tenn. Jason Weigandt, David Bailey, Alex Curry 3:30 - 5 p.m. Ironman World Championship Kona, Hawaii TBA 5 - 6 p.m. Onward Notre Dame: South Bend to Soldier Field N/A N/A **Sunday, Nov. 11** 4 - 6 p.m. ISU Grand Prix of Figure Skating Moscow, Russia Terry Gannon, Peter Carruthers, Tara Lipinski 7 - 8:20 p.m. Football Night in America New York Bob Costas, Dan Patrick, Tony Dungy, Rodney Harrison, Peter King, Alex Flanagan, Mike Florio, Hines Ward 8:20 - Conclusion Sunday Night Football: Texans at Bears Chicago Al Michaels, Cris Collinsworth, Michele Tafoya Note: All times ET
