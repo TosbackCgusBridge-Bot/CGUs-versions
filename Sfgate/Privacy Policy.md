@@ -1,6 +1,6 @@
 (skip this header)
 
-Thursday Nov 08, 2012 5:05 AM PT
+Thursday Nov 08, 2012 1:15 PM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   OK for little boys to pee outdoors?
-*   Karl Rove's bizarre moment
-*   Most retweeted tweet ever
-*   Scarlett's new tattoo
-*   Prez 'Alection' winner
+*   Weird apologies on SorryWatch
+*   Mission Chinese a mixed blessing
+*   Jewish awards for teens
+*   Floating Sandy bar
+*   Blue Gingko's fab sushi
 
 *   Bay Area &. State
 *   Nation
@@ -339,8 +339,12 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Bay Area Billionaires
+*   Hakka
+*   Victoria's Secret Fashion Show 2012
 *   San Francisco Zoo
 *   Hellman mansion up for sale
+*   Victoria's Secret Fashion Show
 *   Quakes eliminated after 3-1 loss to Galaxy
 *   Warriors 106, Cavaliers 96
 *   Nor’easter drops snow, zaps power lines
@@ -375,10 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   Start-Ups: Silicon Valley reality show
 *   ACE Awards 2012
 *   Jerry Brown election day
-*   Day in Pictures, Nov. 6, 2012
-*   Oracle boat becomes Flugtag for Red Bull
-*   Halo 4 launches in Seattle, London
-*   Dandelion Chocolate
 
 *   Most Read
 *   |
@@ -386,48 +386,49 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Same-sex marriage backers hail wins
-2.  Calif. proposition results mixed, liberal or not
-3.  2nd suspect arrested in SF bus vandalism
-4.  Mitt Romney's plans remain unclear
-5.  Nor'easter drops snow, zaps power lines
-6.  Stolen SPCA puppy turns up, finds new home
-7.  Prop. 30 wins, Prop. 38 flames out
+1.  Why Apple's Stock Is Getting Demolished Lately (AAPL)
+2.  USC manager fired for deflating balls in loss
+3.  Jeff Kent’s epic “Survivor” loser speech …
+4.  Calif. proposition results mixed, liberal or not
+5.  Hidden danger lurks under pavement
+6.  Sheriff Ross Mirkarimi recall in works
+7.  Calif. teen says she lied about rape
 
 1.  Obama wins re-election
 2.  Democrats seize supermajority in state Legislature
 3.  Prop. 30 trailing in early returns
-4.  House speaker says he'll consider tax increase
-5.  Ten hard lessons from Tuesday
-6.  Quiet media night explodes suddenly, Rove protests
-7.  Prop. 37: Genetic food labels trailing
-
-1.  Hakka Restaurant has affordable quality
-2.  Paragon Outlets Livermore Valley opening
-3.  Freeze dough, batter for surprise guests
 4.  Sheriff Ross Mirkarimi recall in works
-5.  'The Master' review: A cult is born
-6.  Sandy's damage shuts popular RI wildlife refuge
-7.  Successful soccer coach dies in Westfield crash
+5.  House speaker says he'll consider tax increase
+6.  Ten hard lessons from Tuesday
+7.  Quiet media night explodes suddenly, Rove protests
+
+1.  Paragon Outlets Livermore Valley opening
+2.  USC manager fired for deflating balls in loss
+3.  Why Apple's Stock Is Getting Demolished Lately (AAPL)
+4.  Obama may tap Californians for Cabinet
+5.  Google staffers, janitors pair up for ESL
+6.  Tree rings to help date old Presidio fort
+7.  Main Street, Penngrove
 
 loading... Latest News Videos From our homepage
 
 *     
-    Seth Wenig, Associated Press / SF
+    Mel Evans, Associated Press / SF
     
-    Snow on top of Sandy
+    New storm slams Northeast
     
-    Photos: New storm bears down on the battered Northeast.
+    Photos: Recovering from Sandy devastation, region's hit again.
     
-*   A bar floats into N.Y. town
+*   Storm brings new outages
 
 *     
-    OpenHomesPhotography.com / SF
+    J. Scott Applewhite, Associated Press / SF
     
-    1890 Victorian gone modern
+    Will she step down as leader?
     
-    This home in S.F.'s Cow Hollow has been totally redone, offers great bay views. Asking $2.75M.
+    Lackluster Dem results fuel speculation about Pelosi's future.
     
+*   Cabinet-bound Californians?
 
 *     
     Chronicle File, The Chronicle / ONLINE\_YES
