@@ -34,9 +34,9 @@ Exponential
 
 \>. News
 
-Appsnack announced as finalist in iMedia’s Next Wave Challenge for top mobile start-ups Oct 15, 2012
+Tribal Fusion appoints first global GM Nov 06, 2012
 
-Appsnack recognized for mobile campaign management and analysis capabilities in community voting phase. prepares to premiere mobile advertising platform at industry summit
+Former LivePerson, The Weather Channel, AOL and Advertising.com executive, Rob Deichert, joins Exponential-owned global display advertising provider to drive audience-focused advertising and high-impact creative solutions
 
 more news Careers
 
