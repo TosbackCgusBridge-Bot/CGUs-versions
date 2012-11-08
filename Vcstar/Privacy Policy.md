@@ -382,7 +382,9 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   Complete election coverage |   View the latest local race results |   Statewide results
+*   Today
+    
+    View the latest local race results |   Statewide results
     
 
 Privacy Policy &. User Agreement
@@ -634,25 +636,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 236 comments
-*   Brownley edges past Strickland in 26th Congressional District race Updated 11/7/2012 at 5:07 a.m. 62 comments
-*   Oxnard picks Flynn as mayor and backs measures. council, school, special district races decided Updated 11/7/2012 at 5:08 a.m. 8 comments
-*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 190 comments
-*   Intensity felt at the polls in Ventura County Tuesday Published 11/6/2012 at 7:11 p.m. 24 comments
+*   Brownley wins 26th Congressional District race over Strickland Updated 11/7/2012 at 12:52 p.m. 109 comments
+*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 348 comments
+*   Oxnard picks Flynn as mayor and backs measures. council, school, special district races decided Updated 11/7/2012 at 12:43 p.m. 18 comments
+*   Educators relieved with passage of Proposition 30 Updated 11/7/2012 at 5:08 p.m. 44 comments
+*   Voters narrowly approve Measure Q for Ventura schools Updated 11/7/2012 at 6:16 a.m. 34 comments
 
-Photo Galleries Election night 2012 Intensity felt at the polls in… Ventura County's Most Wanted November…
+Photo Galleries Election night 2012 Ventura County's Most Wanted November… Intensity felt at the polls in…
 
-*   Obama: 'We have picked ourselves up,' fought back Published 11/6/2012 at 10:08 a.m. 236 comments
-*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 190 comments
-*   Editorial: The Star's ballot endorsements in Tuesday election Published 11/3/2012 at 3:00 p.m. 102 comments
-*   Brownley edges past Strickland in 26th Congressional District race Published 11/6/2012 at 8:10 p.m. 62 comments
-*   Morning chat Published 11/6/2012 at 12:00 a.m. 41 comments
+*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 348 comments
+*   Ventura County voters are nearly flawless in picking presidential winners Updated // at : 190 comments
+*   Brownley wins 26th Congressional District race over Strickland Updated 11/7/2012 at 12:52 p.m. 109 comments
+*   Morning chat Updated // at : 85 comments
+*   Editorial: The Star's ballot endorsements in Tuesday election Updated // at : 102 comments
 
-*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
-*   Oxnard school principal arrested after alleged road rage incident Published 11/2/2012 at 5:47 p.m. 0 comments
-*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 67 comments
-*   Stonehaus to add touch of Tuscany to Westlake Village Inn Published 10/30/2012 at 5:51 p.m. 0 comments
-*   Small manufacturers join trust for health insurance coverage Published 11/3/2012 at 11:10 a.m. 7 comments
+*   Oxnard school principal arrested after alleged road rage incident Updated // at : 0 comments
+*   Stonehaus to add touch of Tuscany to Westlake Village Inn Updated 10/30/2012 at 6:05 p.m. 0 comments
+*   Wal-Mart's new strategies allow access into Ventura County cities Updated // at : 67 comments
+*   La Reina High mock trial team wins world tournament Updated 10/29/2012 at 2:32 p.m. 5 comments
+*   County pay error puts two managers in costly bind Updated 10/30/2012 at 6:28 p.m. 29 comments
 
 Weather
 
@@ -660,25 +662,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 63° Mostly Cloudy with Haze Wind: Calm Today 67° 53° Thu 12:00 AM Mostly Clear Temp: 56° Thu 12:00 PM Partly Sunny Temp: 62° Fri 12:00 AM Mostly Cloudy Showers Temp: 53°
+Currently 61° Overcast with Haze Wind: NE 10mph Today 61° 51° Thu 05:00 PM Mostly Cloudy Showers Temp: 58° Fri 05:00 AM Mostly Cloudy Showers Temp: 51° Fri 05:00 PM Mostly Cloudy Showers Temp: 57°
 
-Feels Like: 56°
-
-Humidity: 89%
-
-Precip: 4%
-
-Feels Like: 62°
-
-Humidity: 78%
-
-Precip: 9%
-
-Feels Like: 53°
+Feels Like: 58°
 
 Humidity: 80%
 
-Precip: 17%
+Precip: 48%
+
+Feels Like: 51°
+
+Humidity: 93%
+
+Precip: 27%
+
+Feels Like: 57°
+
+Humidity: 78%
+
+Precip: 36%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -702,10 +704,10 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   Oxnard is where the race was won
+*   Strategy of Prop. 32 proponents backfired
 *   Some quick post-election takes
 *   What to watch for when the vote counts start coming in
-*   Now, vote for the worst political ad of the season
-*   'Wisdom' of the crowd?
 
 Brian Dennert here
 
@@ -724,18 +726,10 @@ More bloggers Wire
 
 Calendar
 
-*   Wednesday Nov 7
 *   Thursday Nov 8
 *   Friday Nov 9
+*   Saturday Nov 10
 *   More BROWSE Icon
-
-*   My Baby Is In The NICU, Now What? Rainbow Connection Family Resource Center 10 a.m.
-*   My Baby Is In The NICU, Now What? Rainbow Connection Family Resource Center 11 a.m.
-*   Women's Top Health Concerns - Free Health Seminar Conejo Valley YMCA 2 p.m.
-*   Rainbow Connection Fundraiser Yolanda's Mexican Cafe 4 p.m.
-*   Rainbow Connection Fndraiser Yolanda's Mexican Cafe 4 p.m.
-
-More Events »
 
 *   Economic Impact of the U.S. 2012 Election Outcome Dole Food Co., 1 Dole Drive, Westlake Village, CA 91362 7:30 a.m.
 *   Employment Law Update 2013 (Or…Should Auld Employment Laws be Forgot?) Airtel Plaza Hotel 7:30 a.m.
@@ -753,6 +747,14 @@ More Events »
 
 More Events »
 
+*   Purrs n' Paws Holiday Boutique Balboa Middle School Cafeteria, 247 S. Hill Road, Ventura 8 a.m.
+*   Birding Field trip Ventura Wildlife Ponds 8 a.m.
+*   At the Helm: Women in Biz 2012 ROC Santa Monica, 604 Arizona Ave, Santa Monica, CA 90401 9 a.m.
+*   CI to host CSSA Plenary Meeting CSUCI California State University 9 a.m.
+*   Camera Fundamentals- Photo Workshop Studio 5 9 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
@@ -761,9 +763,9 @@ More Events » Features
     
     Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
-    #Ojai: How You See It
+    #Your Community: How You See It
     
-    Your photos, your tweets, your Facebook posts about Ojai.
+    Your Instagram photos from your community.
     
     On Campus
     
