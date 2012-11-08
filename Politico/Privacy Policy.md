@@ -18,8 +18,6 @@ Expand
     *   2012 Live Home
     *   Polling Center
     *   Swing-State Map
-    *   Candidate Tracker
-    *   Today's Calendar
     *   Election Results
 *   44
 *   Congress
@@ -113,46 +111,46 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/07/2012 2:17 PM ET
+Updated: 11/08/2012 7:02 AM ET
 
-1.  1 Bill O'Reilly: 'The white establishment is now the minority'
+1.  1 Christie says no 'embrace' of Obama: 'I did my job' for Romney
 2.  2 MSNBC weighs in on Karl Rove
-3.  3 Karl Rove: Fox News Ohio call 'premature'
+3.  3 Rush Limbaugh: 'Conservatism did not lose'
+4.  4 Bill O'Reilly: 'The white establishment is now the minority'
+5.  5 Karl Rove: Fox News Ohio call 'premature'
+6.  6 Nate Silver: One-term celebrity?
+7.  7 Allen West: It ain’t over til it’s over
+8.  8 Obama calls Clinton (Updated)
+9.  9 Nate Silver's book sales skyrocket
+10.  10 Chris Matthews on the GOP civil war
+
+Updated: 11/08/2012 7:02 AM ET
+
+1.  1 Karl Rove: Fox News Ohio call 'premature'
+2.  2 Bill O'Reilly: 'The white establishment is now the minority'
+3.  3 MSNBC weighs in on Karl Rove
 4.  4 Gary Johnson: Obama will win
 5.  5 Christie lashes 'know-nothing, disgruntled' Romney aides
 6.  6 Obama calls Clinton (Updated)
 7.  7 Allen West: It ain’t over til it’s over
-8.  8 Fox News obsessed with lone Black Panther
-9.  9 Nate Silver: One-term celebrity?
-10.  10 Chrysler gives workers day off to vote
+8.  8 Christie says no 'embrace' of Obama: 'I did my job' for Romney
+9.  9 Rush Limbaugh: 'Conservatism did not lose'
+10.  10 Nate Silver: One-term celebrity?
 
-Updated: 11/07/2012 2:17 PM ET
+Updated: 11/08/2012 7:02 AM ET
 
 1.  1 Chrysler gives workers day off to vote
 2.  2 Christie lashes 'know-nothing, disgruntled' Romney aides
 3.  3 Early election results, via NBC
-4.  4 Obama, not-so-happy warrior
-5.  5 Gary Johnson: Obama will win
-6.  6 Bill O'Reilly: 'The white establishment is now the minority'
-7.  7 Karl Rove: Fox News Ohio call 'premature'
-8.  8 Obama sheds a tear at final campaign rally
+4.  4 Bill O'Reilly: 'The white establishment is now the minority'
+5.  5 Obama, not-so-happy warrior
+6.  6 Karl Rove: Fox News Ohio call 'premature'
+7.  7 Gary Johnson: Obama will win
+8.  8 MSNBC weighs in on Karl Rove
 9.  9 Fox News obsessed with lone Black Panther
-10.  10 Red-state Dems fight Obama drag
+10.  10 Obama sheds a tear at final campaign rally
 
-Updated: 11/07/2012 2:17 PM ET
-
-1.  1 Early election results, via NBC
-2.  2 Chrysler gives workers day off to vote
-3.  3 Obama, not-so-happy warrior
-4.  4 The looming GOP civil war
-5.  5 Romney Mormon video goes viral
-6.  6 If Obama loses…
-7.  7 If Romney loses…
-8.  8 Christie lashes 'know-nothing, disgruntled' Romney aides
-9.  9 Dems' drive to retake House falters
-10.  10 Red-state Dems fight Obama drag
-
-Updated: 11/07/2012 2:17 PM ET
+Updated: 11/08/2012 7:02 AM ET
 
 1.  1 Axelrod: 'They're in deep trouble'
 2.  2 Early election results, via NBC
@@ -161,70 +159,70 @@ Updated: 11/07/2012 2:17 PM ET
 5.  5 Former Hillary aide backs Romney
 6.  6 Dems' drive to retake House falters
 7.  7 Christie was Mitt's VP first choice
-8.  8 Iowa to poll-watchers: Back off
-9.  9 Obama early vote edge tenuous
-10.  10 AFF poll: Minnesota a toss-up
+8.  8 Obama early vote edge tenuous
+9.  9 AFF poll: Minnesota a toss-up
+10.  10 The looming GOP civil war
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/07/2012 2:17 PM ET
+Updated: 11/08/2012 7:02 AM ET
 
-1.  1 Auto bailout may have saved Obama
-2.  2 Study: Youth vote was decisive
-3.  3 Foreign media eyes U.S. results
-4.  4 Portman may take a run at NRSC
-5.  5 Palin finds comfort in Corinthians
-6.  6 Ted Cruz: Obama must triangulate
-7.  7 Obama sees voter mandate on taxes
-8.  8 Ryan returns to House: What next?
-9.  9 Dems on track to get 7 House seats
-10.  10 Rove mum on election call uproar
+1.  1 Immigration reform returns to fore
+2.  2 Back to the future: Clinton vs. Bush in 2016?
+3.  3 The GOP's middle-class problem
+4.  4 Republicans ponder painful way forward
+5.  5 Swift deadline on health exchanges
+6.  6 Arrest in Pelosi home break-in
+7.  7 Reid emboldened by big gains
+8.  8 For GOP, 'reflection and recalibration'
+9.  9 Record day for women in Senate
+10.  10 Romneyworld reckoning begins
 
-Updated: 11/07/2012 2:17 PM ET
+Updated: 11/08/2012 7:02 AM ET
 
-1.  1 Auto bailout may have saved Obama
-2.  2 Study: Youth vote was decisive
-3.  3 Foreign media eyes U.S. results
-4.  4 Portman may take a run at NRSC
-5.  5 Palin finds comfort in Corinthians
-6.  6 Ted Cruz: Obama must triangulate
-7.  7 Obama sees voter mandate on taxes
-8.  8 Ryan returns to House: What next?
-9.  9 Dems on track to get 7 House seats
-10.  10 Rove mum on election call uproar
+1.  1 Immigration reform returns to fore
+2.  2 Back to the future: Clinton vs. Bush in 2016?
+3.  3 The GOP's middle-class problem
+4.  4 Republicans ponder painful way forward
+5.  5 Swift deadline on health exchanges
+6.  6 Arrest in Pelosi home break-in
+7.  7 Reid emboldened by big gains
+8.  8 For GOP, 'reflection and recalibration'
+9.  9 Record day for women in Senate
+10.  10 Romneyworld reckoning begins
 
-Updated: 11/07/2012 2:17 PM ET
+Updated: 11/08/2012 7:02 AM ET
 
-1.  1 Auto bailout may have saved Obama
-2.  2 Study: Youth vote was decisive
-3.  3 Foreign media eyes U.S. results
-4.  4 Portman may take a run at NRSC
-5.  5 Palin finds comfort in Corinthians
-6.  6 Ted Cruz: Obama must triangulate
-7.  7 Obama sees voter mandate on taxes
-8.  8 Ryan returns to House: What next?
-9.  9 Dems on track to get 7 House seats
-10.  10 Rove mum on election call uproar
+1.  1 Immigration reform returns to fore
+2.  2 Back to the future: Clinton vs. Bush in 2016?
+3.  3 The GOP's middle-class problem
+4.  4 Republicans ponder painful way forward
+5.  5 Swift deadline on health exchanges
+6.  6 Arrest in Pelosi home break-in
+7.  7 Reid emboldened by big gains
+8.  8 For GOP, 'reflection and recalibration'
+9.  9 Record day for women in Senate
+10.  10 Romneyworld reckoning begins
 
-Updated: 11/07/2012 2:17 PM ET
+Updated: 11/08/2012 7:02 AM ET
 
-1.  1 Auto bailout may have saved Obama
-2.  2 Study: Youth vote was decisive
-3.  3 Foreign media eyes U.S. results
-4.  4 Portman may take a run at NRSC
-5.  5 Palin finds comfort in Corinthians
-6.  6 Ted Cruz: Obama must triangulate
-7.  7 Obama sees voter mandate on taxes
-8.  8 Ryan returns to House: What next?
-9.  9 Dems on track to get 7 House seats
-10.  10 Rove mum on election call uproar
+1.  1 Immigration reform returns to fore
+2.  2 Back to the future: Clinton vs. Bush in 2016?
+3.  3 The GOP's middle-class problem
+4.  4 Republicans ponder painful way forward
+5.  5 Swift deadline on health exchanges
+6.  6 Arrest in Pelosi home break-in
+7.  7 Reid emboldened by big gains
+8.  8 For GOP, 'reflection and recalibration'
+9.  9 Record day for women in Senate
+10.  10 Romneyworld reckoning begins
 
 Showing Last 7 Days
 
-Updated: 11/07/2012 2:17 PM ET
+Updated: 11/08/2012 7:02 AM ET
 
 1.  1 GOP soul-searching: 'Too old, too white, too male'?
 2.  2 Four more for 44
@@ -232,10 +230,10 @@ Updated: 11/07/2012 2:17 PM ET
 4.  4 Christie was Mitt's VP first choice
 5.  5 Obama early vote edge tenuous
 6.  6 Jobs report puts economy back in campaign spotlight
-7.  7 Poll-watchers: States out of line
-8.  8 Rove: 279 electoral votes for Mitt
-9.  9 Radio: The other air war
-10.  10 1 week, 2 versions of reality
+7.  7 Liberals fear grand bargain betrayal
+8.  8 Poll-watchers: States out of line
+9.  9 Rove: 279 electoral votes for Mitt
+10.  10 Radio: The other air war
 
 News
 
