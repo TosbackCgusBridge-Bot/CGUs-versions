@@ -16,7 +16,6 @@ close x Search Catalog Search Catalog Navigation
         *   Seasons &. Holidays
             *   Decor
             *   Outdoor Furnishings
-            *   Christmas Stories
             *   Clearance
             *   Special SavingsOn the lookout for unique, handcrafted harvest decorations? Find everything you need for a colorful celebration here
         *   Dining &. Entertaining
@@ -65,6 +64,12 @@ close x Search Catalog Search Catalog Navigation
             *   Gifts for Fun
             *   Cards &. Gift Wrap
             *   Special Occasions
+            *   NEW - Scarves &. Accessories
+            *   NEW - Office &. Desk
+            *   NEW - Jewelry
+            *   NEW - Bath &. Body
+            *   NEW - Sports &. Games
+            *   NEW - Bar Accessories
             *   Clearance
             *   Special SavingsLooking for hostess gift ideas? Be our guest. You’re invited to explore these easy, original, charming gifts
     *   Room
