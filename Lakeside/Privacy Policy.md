@@ -666,6 +666,7 @@ Y*   Books + Media
             *   Bath
         *   Curtains + Window Coverings
         *   open Comforters + Quilts
+            *   Quilts
             *   Comforters
         *   open Bath
             *   Collections
@@ -723,9 +724,11 @@ Y*   Books + Media
         *   Baby
         *   open Men
             *   Coats, Jackets
+            *   Shirts
             *   Sleepwear, Loungewear
         *   open Women
             *   Beachwear
+            *   Blouse Tops
             *   Activewear
             *   Lingerie
             *   Pants
@@ -734,7 +737,6 @@ Y*   Books + Media
         *   Jewelry
         *   Health + Beauty
         *   open Fashion Accessories
-            *   Outerwear
             *   Accessories
             *   Socks, Hosiery
             *   Sandals, Shoes
