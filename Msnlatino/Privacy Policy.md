@@ -695,9 +695,9 @@ contactos Telemundo TV Ahora
     
     Es tu mejor atributo a cualquier edad  
     
-*   ¡Exclusivo!
+*   ¿Cuál es su cara más sexy?
     
-    Rebecca Jones brillará en Pasión Prohibida
+    Mauricio Ochmann tiene una cara que seduce. ¡Elígela!
     
 *   Camino de Miss Nicaragua
     
