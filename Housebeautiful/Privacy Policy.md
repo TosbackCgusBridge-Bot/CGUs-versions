@@ -13,7 +13,7 @@ Sponsored Links advertisement Decorating &. Ideas
 
 *   Do-It-Now Ideas
 *   A Layered TriBeCa Apartment
-*   10 Emerging Interior Designers
+*   Alex Hitz's Perfect House for ...
 
 More Decorating &. Ideas Kitchens &. Entertaining
 
