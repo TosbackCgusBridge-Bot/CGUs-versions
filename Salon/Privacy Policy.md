@@ -9,11 +9,11 @@ Register Sign in Welcome, Logout
         *   Mitt Romney
         *   Elections 2012
         *   Election 2012
-        *   Hurricane Sandy
+        *   Fox News
         *   2012 election
         *   Republican Party
-        *   Fox News
-        *   Donald Trump
+        *   Hurricane Sandy
+        *   Republicans
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -194,17 +194,17 @@ About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service 
 
 Take Salon on the go – download our free app now
 
-Current Stories Maine Dem wins race despite “World of Warcraft” hobby
+Current Stories Life sentence in Ariz attack that wounded Giffords
 
-News. Colleen Lachowicz was elected to the state Senate, despite fears about her “disturbing alter ego"
+News. Jared Lee Loughner will serve seven consecutive life sentences, plus 140 years in federal prison
 
-Don't bust pot states, Obama
+Gay marriage groups hope to turn focus from the ballot box
 
-Politics. Voters in Washington and Colorado have OK'd marijuana legalization. The president should respect their will
+Politics. Despite the election day successes, gay marriage groups would like to focus on court and legislature battles
 
-Conservatives fail to oust judges in Iowa and Florida
+"Skyfall": Bi-curious Bond?
 
-Entertainment. Right-wing groups, some backed by the Koch brothers, lost a campaign to vote out state Supreme Court justices
+Entertainment. Daniel Craig's grittier 007 faces contemporary sexuality and imperial angst in the moody, spectacular "Skyfall"
 
 My BFF's family is nuts!
 
