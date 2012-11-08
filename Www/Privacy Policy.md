@@ -34,7 +34,7 @@ Search form Search
 *   Open Government
     *   Open Data Sites
     *   For Developers
-*   Blog
+*   Blogs
 
 Data Policy Statements Public Information
 
