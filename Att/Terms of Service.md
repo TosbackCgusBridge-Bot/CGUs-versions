@@ -37,7 +37,7 @@ Skip navigation
         *   Accessories
         *   Messaging, Data &. More
         *   Ringtones &. Apps
-        *   Transfer My Number
+        *   Holiday Gift Center
         *   Coverage Maps
         
         Existing Customers
