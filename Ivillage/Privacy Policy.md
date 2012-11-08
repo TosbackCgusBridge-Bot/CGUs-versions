@@ -495,22 +495,23 @@ Would you like to receive special offers, promotions, coupons, and free samples 
 *   Today's Big Story (SAMPLE)
     
 
-See All Newsletters  
+See All Newsletters   best of video village
 
-*   Entertainment Featured Michelle Obama on Malia &. Sasha: Growing Up Before Our Eyes!
 *   Homeandgarden My Best Idea Too Cute! Plate + Marker + Oven = Instant Gift
 *   Beauty DIY Beautify Contour Competition – See Who Gets Voted Off Our New Show!
 *   Global iVoices Politics, Friends and Facebook: Staying Civil on Social Media
+*   Entertainment Featured How Malia and Sasha Deal with Body Image
 *   Entertainment Kitchen Confessions Leighton Meester on Love: Acting Teaches Me What Not to Do
 *   Food Learn How Now 3 Surprising Things You Need in Your Spice Rack
 
   
   
+best of iVillage
 
-*   Entertainment iVote Election Day in Hollywood! Celebs Reveal "Why I Vote"
+*   Entertainment Photos Obama Wins the Election! See His Famous Friends
 *   Health Slideshow The Total Body Workout for Beginners: Start Here!
+*   Entertainment iVote Election Day in Hollywood! Celebs Reveal "Why I Vote"
 *   Food Thanksgiving Ditch the Can! 10 Easy Cranberry Sauce Recipes for Thanksgiving
-*   Parenting Maternity Style Pregnant and Posh: Red Carpet Baby Bumps
 *   Homeandgarden My Best Idea Too Cute! Plate + Marker + Oven = Instant Gift
 
 *   Join iVillage
