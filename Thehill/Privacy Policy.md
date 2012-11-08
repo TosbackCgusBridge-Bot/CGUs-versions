@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Rep. Allen West in close raceTrump calls for revolution, blasts Electoral CollegePoll closing times: Key presidential, Senate, House statesObama projected as winner in Michigan, PennsylvaniaBoth campaigns predict victory
+Boehner pivots on taxes after President Obama’s reelectionTrump calls for revolution, blasts Electoral CollegeConservatives lambast Romney, vow to take over Republican PartySpeculation about Pelosi’s future grows as Republicans retain House controlTea Party favorite West calls for a recount
 
 Emailed
 
-Prediction: Romney 325, Obama 213 GOP senators: Thousands of ballots unlikely to reach military voters in timePoll: Swing-state voters split 48-48 between Obama, RomneyObama win ensures health law's futureConflict-of-interest concerns raised as Obama races to implement health reform
+Reid soars, Warren shinesObama win ensures health law's futureWith no pause for breath, leaders Reid, Boehner stake out 'fiscal cliff' stancesConservatives lambast Romney, vow to take over Republican PartyPrediction: Romney 325, Obama 213
 
 Discussed
 
-Texas sparks international row with election observersOpinion: Here comes the landslideDemocratic senators offer gun control amendment for cybersecurity bill Obama's 'revenge' remark reverberates on presidential campaign trailGOP senators: Thousands of ballots unlikely to reach military voters in time
+Opinion: Here comes the landslideGOP senators: Thousands of ballots unlikely to reach military voters in timeObama wins a second term, calls for national unity in victory speechGOP takes aim at ‘skewed’ pollsOpinion: A Romney win would be a victory for shameless cynicism
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
+*   House panel to hold closed hearing on deadly Libya attack
+*   DAY'S END ROUNDUP
 *   Puerto Rico votes to seek statehood
-*   Paul Ryan ‘proud’ of campaign, ‘looking forward’ to DC return
-*   Florida remains too close to call
 
   
 More Briefing Room » Congress Blog
 
-*   Congress must act on Pandemic and All-Hazards Preparedness bill
-*   113th Congress will be more diverse
-*   Now Obama must act boldly to solve nation's problems
+*   For the GOP, 2016 begins now
+*   What's next for the president's science agenda?
+*   In the new norm, neither party has clear or durable mandate
 
   
 More Congress Blog » Pundits Blog
 
+*   Memo to the Republicans
 *   Tea leaves — 2012
 *   Why Obama won
-*   Widening the GOP tent to include more minorities and single women
 
   
 More Pundits Blog » Twitter Room
 
+*   Global leaders congratulate Obama on Twitter
+*   Romney spends morning after election with family
 *   Anthony Weiner returns to Twitter with Sandy plea
-*   ‘Hillary2016’ trending worldwide
-*   Trump calls for revolution, blasts Electoral College
 
   
 More Twitter Room » Hillicon Valley
 
-*   AT&T to invest $14 billion to expand networks
-*   House Judiciary roster faces post-election shake-up
-*   News bites: Twitter played big role in 2012 election
+*   Roku rolls out post-election ads that poke fun at Romney
+*   ACLU sues to protect online privacy of sex offenders
+*   House Energy and Commerce panels to face membership changes
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Green groups tout election results as victory for clean energy
-*   Two pro-Keystone pipeline Dems have good nights
-*   News bites: Energy in Obama’s second term
+*   House Energy and Commerce faces leadership changes
+*   Reid on climate change: ‘I hope we can address it’
+*   Senate filibuster reform atop green group priorities
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Waxman fights off independent opponent
-*   Tea Party favorite West calls for a recount
-*   Recount likely in ND Senate race
+*   Democrat wins Ventura County for first time in 70 years
+*   Romney loss reveals gap with Hispanics
+*   Democrat Kirkpatrick wins in Arizona House race
 
   
 More Ballot Box » On The Money
 
-*   Baucus urges post-election compromise on fiscal cliff
-*   News bites: Aftermath
-*   Top tax-writers cruise to reelection
+*   25 problems facing Obama, Congress
+*   Wall St. ready to reconcile with Obama
+*   Business groups urge quick extension of tax policies in lame duck
 
   
 More On The Money » Healthwatch
 
-*   Insurers: Health law still flawed
-*   News bites: Obama's win cements 'ObamaCare'
-*   Abortion-rights groups cheer Akin, Mourdock defeats
+*   Cantor vows bill to repeal health law's contentious board
+*   Conservatives begin to admit defeat in their 3-year war against 'ObamaCare'
+*   Analysis: 20 states will run their health-law exchanges
 
   
 More Healthwatch » Floor Action
 
+*   DelBene gets a month's head start on her new colleagues
 *   House Dems announce online 'resume bank' to help hire staff
-*   Boehner: Focus on ‘common ground’ to help avert fiscal cliff
-*   AP projects Tester as winner
+*   Boehner: Focus on ‘common ground’ to help avoid fiscal cliff
 
   
 More Floor Action » Transportation
 
-*   Obama victory likely to preserve highway, Amtrak funding
-*   Leading House Transportation Dem defeats repeat opponent
-*   CNN exit poll: 56 percent of Ohio voters approved of auto bailout
+*   Donald Trump triples down on disputed Jeeps-to-China claim
+*   Road to President Obama's win in Ohio paved by support for auto bailout
+*   Transportation observers unclear on LaHood's future
 
   
 More Transportation » DEFCON Hill
 
-*   Big changes on horizon for defense panels
-*   GOP defense push doesn’t lead to election victories in Virginia
-*   Ten-term GOP congressman ousted after Md. redistricting
+*   Inhofe says he expects to succeed McCain on Armed Services
+*   US says no deal with NATO to supply missiles to Turkey
+*   Armed Services panel could bypass Senate floor for defense bill
 
   
 More DEFCON Hill » Global Affairs
 
+*   US helps advance UN arms treaty
+*   Top Dem's defeat portends intra-party fight on foreign affairs panel
 *   Rep. Royce gets endorsement for top spot on Foreign Affairs panel
-*   Official: Obama to visit Burma
-*   Kremlin applauds Obama win, takes dig at Romney
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Brent Budowsky Why Obama won Karen Finney Closing argument More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Seizing the moment Brent Budowsky Reid soars, Warren shines More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
