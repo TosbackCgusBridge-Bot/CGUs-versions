@@ -8,6 +8,7 @@ OnTopic custom content solutions Learn more about how Examiner.com can help your
 *   Sign up
 
 *   Arts &. Entertainment
+*   Recreation
 *   Home &. Life
 *   Interests
 *   News &. Info
