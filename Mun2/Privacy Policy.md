@@ -23,16 +23,8 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: November 08 03:00 AM · MORNING BREATH coming up next:
+schedule right now: November 08 01:00 PM · PREMIOS BILLBOARD DE LA MUSICA MEXICANA ALL-ACCESS coming up next:
 
-*   4:00 AM · MORNING BREATH
-*   5:00 AM · MORNING BREATH
-*   6:00 AM · SMB
-*   8:00 AM · MORNING BREATH
-*   9:30 AM · OPERACION REPO
-*   10:00 AM · CINE CLASICO Y COOL: OPERACION CARAMBOLA
-*   12:00 PM · L'CREME
-*   1:00 PM · PREMIOS BILLBOARD DE LA MUSICA MEXICANA ALL-ACCESS
 *   2:00 PM · L'CREME
 *   3:00 PM · L'CREME
 *   4:00 PM · mun2 CINCO
@@ -40,6 +32,14 @@ schedule right now: November 08 03:00 AM · MORNING BREATH coming up next:
 *   5:30 PM · DUB LATINO
 *   6:00 PM · 12 CORAZONES
 *   7:00 PM · OPERACION REPO
+*   7:30 PM · OPERACION REPO
+*   8:00 PM · HAVE YOU CINE?: BAD BOYS 2
+*   10:00 PM · OJO POR OJO
+*   11:00 PM · OJO POR OJO
+*   12:00 AM · PREMIOS BILLBOARD DE LA MUSICA MEXICANA ALL-ACCESS
+*   1:00 AM · DECISIONES
+*   2:00 AM · DELICIOUS
+*   3:00 AM · MORNING BREATH
 
 see full schedule >>.
 
