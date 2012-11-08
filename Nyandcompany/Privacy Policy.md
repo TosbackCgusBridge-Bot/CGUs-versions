@@ -5,7 +5,7 @@
 
 *   My Wish List
 
-Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale Take $50 off your order of $150 or more (use promo code 2238) or $30 off your order of $100 or more (use promo code 2237). Excludes clearance. Plus, enjoy free shipping on any order over $125 – no code needed. \*Details **Customer Service**
+Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale Take $50 off your order of $150 or more (use promo code 2238) or $30 off your order of $100 or more (use promo code 2237). Excludes NY Deals and Clearance. Plus, enjoy free shipping on any order over $125 – no code needed. \*Details **Customer Service**
 
 *   Ordering &. Shipping Info
     *   Where's My Order?
