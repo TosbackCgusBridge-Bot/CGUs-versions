@@ -7,8 +7,8 @@ My Account
     *   Best Buy
     *   Verizon Wireless
     *   White Pages
-    *   Verizon
     *   Juicers
+    *   Verizon
     *   Target
     *   Luster Now
     *   Kohls
@@ -23,25 +23,24 @@ My Account
     *   Office Max
     *   Money
     *   Iphone
-    *   Coffee Makers
     *   Digital Cameras
-    *   Discount Tires
+    *   Coffee Makers
     *   Camcorders
+    *   Discount Tires
     *   Se
     *   Radio Shack
     *   At
     *   Sears
     *   Tax
     *   Www.yahoo.com
-    *   T Mobile
     *   Truck
     *   Ipod
     *   Contact
-    *   Flowers
     *   Pressure Cookers
     *   Leappad
     *   Costco
-    *   North Face Jackets
+    *   Flowers
+    *   T Mobile
     *   Mp3 Players
     *   Android Tablets
     *   Barnes And Noble
@@ -229,8 +228,8 @@ Shop by Department
     *   Other Magazines
     *   Home, Gardening &. Food Magazines
     *   Entertainment Magazines
-    *   Comics, Collectibles &. Hobbies
     *   Childrens, Teens &. Families
+    *   Comics, Collectibles &. Hobbies
     *   Automobile &. Motorcycles Magazines
     *   Business &. Finance Magazines
     *   News, Politics &. Newspapers
@@ -383,7 +382,7 @@ All Products
     
 
 *   Buying Guides
-*   1593 Local Deals
+*   1589 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
@@ -635,11 +634,69 @@ Copyright ©2012 PriceGrabber.com, Inc. All Rights Reserved What is this? |
 *   0Price Alerts Price Alerts
 *   Feedback Feedback
     
-    We would like your feedback on our site!  
-    \*note: this feedback is not shared with merchants
+    We want to improve your experience!
     
-    Name:
+    Please take a moment to answer the questions below:
     
-    Email:
+    How likely would you be to recommend PriceGrabber to a friend or colleague?
     
-    Your comments:
+    Not likely at all Neutral Extremely likely 0  
+    1  
+    2  
+    3  
+    4  
+    5  
+    6  
+    7  
+    8  
+    9  
+    10  
+    
+    What is your main purpose for visiting PriceGrabber today?
+    
+    *   Research a product
+    *   Find the lowest price on a product
+    *   Purchase a product
+    *   Find deals
+    *   Other
+    
+    What areas can PriceGrabber improve to better serve your needs?
+    
+    *   Search results
+    *   Site navigation
+    *   Content (blogs, tips, guides, reviews)
+    *   Compare products
+    *   Other
+    
+    How easy was it to find what you were looking for?
+    
+    *   Very Easy
+    *   Easy
+    *   Fair
+    *   Not Easy
+    *   Difficult
+    *   Not Applicable (just browsing)
+    
+    Gender (Optional)
+    
+    *   Male
+    *   Female
+    
+    Age (Optional)
+    
+    *   24 and under
+    *   25-34
+    *   35-44
+    *   45-54
+    *   55-64
+    *   65+
+    
+    Annual Income (Optional)
+    
+    *   $0 - $29,999
+    *   $30,000 - $59,999
+    *   $60,000 - $99,999
+    *   $100,000 - $149,999
+    *   $150,000+
+    
+    Thank you!
