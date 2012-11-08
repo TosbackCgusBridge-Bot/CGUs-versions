@@ -1,6 +1,6 @@
 ADVERTISEMENT Shop Bazaar
 
-Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style best mascara 2012 Fashion  
+Give a Gift Customer Service Video Blog **TRY:** hair trends 2013 street style best mascara 2012 Fashion  
 
 *   Fall Trends &. Shopping
 *   Street Style
@@ -15,6 +15,10 @@ Give a Gift Customer Service Video Blog **TRY:** fall 2012 trends street style b
 *   Fashion Videos
 *   Bazaar Report
 
+Victoria's Secret Fashion Show: Behind the Scenes
+
+A behind-the-scenes peak at the Angels getting ready for sexiest fashion sh...
+
 Hedi's Girls: A Behind the Scenes Look in Portraits at Saint Laurent Spring 2013
 
 See backstage at Hedi Slimane's show for Saint Laurent Paris.
@@ -22,10 +26,6 @@ See backstage at Hedi Slimane's show for Saint Laurent Paris.
 Fashion Politics
 
 The way first ladies dress has less to do with political affiliation and mo...
-
-Nicolas Ghesquière for Balenciaga in BAZAAR
-
-See our favorite moments of Nicolas Ghesquière for Balenciaga in BAZAA...
 
 Beauty &. Hair  
 
@@ -37,13 +37,13 @@ Beauty &. Hair  
 *   Beauty at Every Age
 *   Health &. Wellness
 
+12 Skin Masks That Work Wonders During Winter
+
+Protect your visage this winter with these 12 must-have masks.
+
 Define Your Brows In 5 Easy Steps
 
 Makeup pro Kate Lee shares pointers for enhancing your brows.
-
-Supermodel Beauty SecretsRevealed!
-
-Read our insider hair and beauty tips directly from the models backstage an...
 
 CELEBRITY STYLE &. PARTIES   Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson
 
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR Hedi's Girls: A Behind the Scenes Look in Portraits at Saint Laurent Spring 2013 Fashion Politics Nicolas Ghesquière for Balenciaga in BAZAAR Define Your Brows In 5 Easy Steps Supermodel Beauty SecretsRevealed! The Best Spring Nail Trends To Try Now Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Maison Martin Margiela x H&M Party Fabulous at Every Age: Resort Chic Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR Victoria's Secret Fashion Show: Behind the Scenes Hedi's Girls: A Behind the Scenes Look in Portraits at Saint Laurent Spring 2013 Fashion Politics 12 Skin Masks That Work Wonders During Winter Define Your Brows In 5 Easy Steps Supermodel Beauty SecretsRevealed! Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Maison Martin Margiela x H&M Party Fabulous at Every Age: Resort Chic Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
@@ -86,7 +86,7 @@ Most Popular
 4.  Hot New Hair Trends from Spring 2012
 5.  The Extras: Fall 2012 Accessories Report
 
-**TRY:** fall 2012 trends street style best mascara 2012 **About Harper's Bazaar**
+**TRY:** hair trends 2013 street style best mascara 2012 **About Harper's Bazaar**
 
 About Our Ads Media Kit Press Room Privacy Policy Your California Privacy Rights Terms of Use Site Map Contact Us Community Guidelines Advertise Online
 
