@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Is Tumblr the new GeoCities? VC Fred Wilson says no, points to ads
+How media companies can think more like startups
 
 Stay on top of tech news in your inbox
 
