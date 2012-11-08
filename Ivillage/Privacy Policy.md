@@ -1,9 +1,9 @@
 Sign in | Join Now Hi, User! Edit Profile | Sign Out Want more iVillage? Sign up for our Newsletters iVillage
 
-*   HOLIDAILY
 *   Challenges
 *   Videos
 *   Free Stuff
+*   iVote
 
 Search iVillage.com Search
 
@@ -498,20 +498,20 @@ Would you like to receive special offers, promotions, coupons, and free samples 
 See All Newsletters   best of video village
 
 *   Homeandgarden My Best Idea Too Cute! Plate + Marker + Oven = Instant Gift
+*   Entertainment iVillage 5 Four More Years for Obama? Maybe Three for Malia!
 *   Beauty DIY Beautify Contour Competition – See Who Gets Voted Off Our New Show!
-*   Global iVoices Politics, Friends and Facebook: Staying Civil on Social Media
+*   Global iVoices Cheers and Jeers for Obama’s Big Win
 *   Entertainment Featured How Malia and Sasha Deal with Body Image
-*   Entertainment Kitchen Confessions Leighton Meester on Love: Acting Teaches Me What Not to Do
 *   Food Learn How Now 3 Surprising Things You Need in Your Spice Rack
 
   
   
 best of iVillage
 
+*   Health Slideshow Dating Online? Watch Out for These Red Flags
 *   Entertainment Photos Obama Wins the Election! See His Famous Friends
-*   Health Slideshow The Total Body Workout for Beginners: Start Here!
-*   Entertainment iVote Election Day in Hollywood! Celebs Reveal "Why I Vote"
-*   Food Thanksgiving Ditch the Can! 10 Easy Cranberry Sauce Recipes for Thanksgiving
+*   Beauty Celeb Hair 35 Celeb Hair and Makeup Looks to Try at Home
+*   Food Holiday Cooking The 11 Cooking Tools You Need for the Holidays
 *   Homeandgarden My Best Idea Too Cute! Plate + Marker + Oven = Instant Gift
 
 *   Join iVillage
