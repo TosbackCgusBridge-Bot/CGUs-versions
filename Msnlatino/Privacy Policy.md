@@ -687,13 +687,13 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡Vota ya!
+*   Ojos soñadores
     
-    ¿Quién es la más malvada en Rosa Diamante?
+    Ximena Duque, toda una estrella de novela.
     
-*   ¡Cuida tu piel!
+*   ¿No sabes cómo atraparlo?
     
-    Es tu mejor atributo a cualquier edad  
+    Entérate de que se puede enamorar  
     
 *   ¿Cuál es su cara más sexy?
     
