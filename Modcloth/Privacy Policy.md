@@ -239,9 +239,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Travel Bug: Rock Right to Nashville with Heidi of Under the Guise
-    *   Page Turners: Life in a Bubble Has Never Looked So Good
-    *   Touring Designer Corey Lynn Calter’s Chic LA Studio
+    latest blog posts*   3 Cute &. Simple Party Decor DIYs Using Washi Tape
+    *   Fave Finds: Cassidy’s Sweet Thrifted Frock
+    *   Travel Bug: Rock Right to Nashville with Heidi of Under the Guise
     
     *   modcloth blog
     *   In Other Words
