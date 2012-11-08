@@ -207,18 +207,19 @@ Close Email A Friend Your email has been sent.
     *   ONLINE OT
     *   COACH SPEAK
     *   MY HOMETOWN
+    *   NFL EPIC MOMENTS
     
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
-    *   Braga v Manchester United UEFA Champions League Highlights 11/07/12
+    *   Online OT: Pick 'em Week 10
     *   Chelsea v Shakhtar Donetsk UEFA Champions League Highlights 11/07/12
+    *   Braga v Manchester United UEFA Champions League Highlights 11/07/12
     *   Celtic v Barcelona UEFA Champions League Highlights 11/07/12
     *   Recap: Celtic beats Barcelona.
-    *   Bayern Munich v Lille UEFA Champions League Highlights 11/07/12
     *   CONCACAF Hex draw
-    *   Fearless Predictions: (21) MSU /(7) LSU
-    *   King James on besting Brooklyn
+    *   Bayern Munich v Lille UEFA Champions League Highlights 11/07/12
+    *   Extra Point: Time to tank?
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -504,33 +505,33 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
+*   Vikings' Peterson misses practice with illnes...
 *   Stiemsma embodies underdog Timberwolves
 *   Illinois appears ripe for Gophers' picking
-*   Wolves Wednesday: Wing play must improve
 
-*   AUTOS: Custom Mustang Gets Game
-*   MCREYNOLDS: Anything Could Happen
-*   VINTAGE: Maserati Brothers’ Last Race Car
+*   VINTAGE: The Unique Iso Varedo
+*   MOTOGP: Rossi, Lorenzo Pay Tribute To Biaggi
+*   CUP: Phoenix Still Has Some ‘New’
 
-*   TDDTV: FB Recruiting Review
-*   Previewing Georgia State
-*   Walsh meeting pressure with success
+*   Hayden’s comfort level growing
+*   Gilmore to Announce Decision
+*   Starting Lineup Still in Flux
 
+*   UFC Unrestricted - Sneak Preview
 *   UFC On FUEL TV 6: Pre-Fight Press Conference
 *   Title Town &. Super-Fights
-*   Rude Awakening: The Ultimate UFC Sweepstakes!
 
-*   Heat se impone 103-73 a los Nets
-*   Hicimos todo lo que pudimos: Messi
-*   NFL prohíbe el uso de marihuana
+*   Europa League en VIVO
+*   Bilbao vs Lyon
+*   Messi y Villa volvieron a discutir
 
-*   Jeff Kent booted from 'Survivor'
-*   Yanks hope Rivera takes pay cut?
-*   White to undergo alcohol treatment
+*   Bears CB says he'll skip game for birth
+*   Kidd reacts to Cuban's comments
+*   Cashman: Team not trading A-Rod
 
-*   Wilshere returns to England squad
-*   Liverpool winning Djuricic battle
-*   LA Galaxy eliminates San Jose
+*   Europa League - Scores
+*   Europa League: Tottenham vs. Maribor
+*   Europa League: Partizan vs. Internazionale
 
 *   *   NFL
     *   NFL Home
