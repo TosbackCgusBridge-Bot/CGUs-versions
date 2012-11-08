@@ -1,4 +1,4 @@
-**Ning** **The World's Largest Platform for Creating Social Websites™ Already have an account? Sign In**
+**Ning** **The World's Largest Platform for Creating Social Websites™ Already have an account? Sign In** Call Sales: 1-866-992-0971
 
 *   _Home_
 *   _Features_
@@ -8,7 +8,7 @@
 
 Privacy Policy
 
-Effective Date: December 16, 2010
+_Effective Date: December 16, 2010_
 
 Ning, Inc. (“Ning”, “we” or “us”) is an online service provider that provides a set of services and technology applications that enable users to create their own Networks utilizing our technology platform (the “Ning Platform”). Ning is not involved in the management of Networks on the Ning Platform and is not involved in the decisions relating to the focus of Networks or the Content uploaded or published to Networks using the Ning Platform. These are your Networks and, as a Network Creator, you are responsible for managing them in all respects (including the actions, conduct, and Content of Your Members) in compliance with the Ning Terms of Service.
 
