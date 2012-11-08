@@ -339,7 +339,7 @@ In addition, please review the Sites' Terms of Use, which governs your use of th
       
     
 
-Advertisement Start Your FREE 21-Day Meditation Challenge Now! Discover new ways to bring a sense of abundance to your life through the power of meditation! Take Deepak Chopra's FREE three-week meditation challenge and focus on creating abundance. Register now! Get Our App and Watch OWN in A Whole New Way The free OWN app allows you to go behind the scenes and explore special extras from your favorite OWN shows. Learn more! Advertisement “Be the heroine of your life, not the victim.” — Nora Ephron from Quotes We Love View more quotes like this “When people show you who they are, believe them the first time.” — Maya Angelou from Quotes We Love View more quotes like this “A single day is enough to make us a little larger.” — Paul Klee from Quotes to Make the Most of... View more quotes like this “Life always bursts the boundaries of formulas.” — Antoine de Saint-Exupéry from Quotes We Love View more quotes like this “Our greatest weapon against stress is our ability to choose one thought over another.” — William James from Quotes to Help You Unwind View more quotes like this Explore quotes by:   Topic | People Share Your Story
+Advertisement Get Our App and Watch OWN in A Whole New Way The free OWN app allows you to go behind the scenes and explore special extras from your favorite OWN shows. Learn more! “Be the heroine of your life, not the victim.” — Nora Ephron from Quotes We Love View more quotes like this “When people show you who they are, believe them the first time.” — Maya Angelou from Quotes We Love View more quotes like this “A single day is enough to make us a little larger.” — Paul Klee from Quotes to Make the Most of... View more quotes like this “Life always bursts the boundaries of formulas.” — Antoine de Saint-Exupéry from Quotes We Love View more quotes like this “Our greatest weapon against stress is our ability to choose one thought over another.” — William James from Quotes to Help You Unwind View more quotes like this Explore quotes by:   Topic | People Advertisement Share Your Story
 
 *   ARE YOU AND YOUR FAMILY STRUGGLING AND NEED HELP?
 *   What's Your Biggest Makeup Problem?
@@ -350,9 +350,9 @@ Advertisement Start Your FREE 21-Day Meditation Challenge Now! Discover new ways
 *   Where do you find beauty in the world?
 *   Do you need help with your marriage?
 
-See more » Advertisement Hot Topics
+See more » Hot Topics
 
-More Hot Topics »
+More Hot Topics » Advertisement
 
 Your browser does not support iframes.
 
