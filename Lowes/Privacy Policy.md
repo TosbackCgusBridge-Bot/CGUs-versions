@@ -275,6 +275,7 @@ Company Info
 *   Careers
 *   Ethics &. Compliance
 *   Investor Relations
+*   Low Price Guarantee
 *   Lowe's Canada
 *   Lowe's Mexico
 *   Lowe's Newsroom
@@ -307,7 +308,6 @@ Need Help? Call 1-800-445-6937 Get Exclusive Email Alerts Get the
 Lowe's Apps
 
 *   BBB Accredited Business
-*   Security &. Privacy Pledge
 *   Lowe's Safe Shopping Pledge
 
 *   Follow Us:
