@@ -174,7 +174,7 @@ Record Searchlight
 *   Cars
 *   Classified
 
-*   Results   •   Election stories   •   Candidates
+*   Get severe weather notifications anywhere via our new iPhone and Android app
     
 
 Privacy Policy Redding.com Privacy Policy
@@ -270,22 +270,22 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Triumphant Obama: 'We have picked ourselves up' Updated 11/6/2012 at 7:24 p.m. 441 comments
-*   Shasta County supervisors say they don't have resources to battle pot growers Published 11/7/2012 at 12:36 a.m. 86 comments
-*   UPDATE: Two arrested in Shasta Lake medical marijuana robbery Updated 11/7/2012 at 10:25 a.m. 41 comments
-*   UPDATE: Man arrested after driving through traffic accident closure, police say Updated 11/7/2012 at 9:18 p.m. 22 comments
-*   Obama re-elected to second term as president Published 11/7/2012 at 1:52 a.m. 67 comments
+*   UPDATED (with photo, video): Two dead in fiery Hwy. 273 crash. blaze closes portion of highway Updated 11/8/2012 at 9:09 a.m. 66 comments
+*   Sex offender offered teen drugs in exchange for a girl at Caldwell Park, police say Published 11/8/2012 at 6:37 a.m. 22 comments
+*   Triumphant Obama: 'We have picked ourselves up' Updated 11/6/2012 at 7:24 p.m. 457 comments
+*   UPDATE: Man arrested after driving through traffic accident closure, police say Updated 11/7/2012 at 9:18 p.m. 32 comments
+*   Larry Kay: Let's turn off fear-mongerers Published 11/8/2012 at 12:00 a.m. 86 comments
 
-Photo Galleries People rally Monday at corner of… Fallis Around Town Kool April Nights
+Photo Galleries Fallis Around Town People rally Monday at corner of… Election 2012
 
-*   Triumphant Obama: 'We have picked ourselves up' Published 11/6/2012 at 7:24 p.m. 441 comments
+*   Triumphant Obama: 'We have picked ourselves up' Published 11/6/2012 at 7:24 p.m. 457 comments
 *   Bob Williams: Is insanity the new normal, or the old? Published 11/5/2012 at 12:00 a.m. 207 comments
+*   Shasta County supervisors say they don't have resources to battle pot growers Published 11/7/2012 at 12:36 a.m. 100 comments
 *   Judy Pearson: Voter disgusted with the choices Published 11/6/2012 at 12:00 a.m. 89 comments
-*   Shasta County supervisors say they don't have resources to battle pot growers Published 11/7/2012 at 12:36 a.m. 86 comments
-*   UPDATED: Shasta County polls close, turnout appeared strong Published 11/6/2012 at 6:57 a.m. 68 comments
+*   Larry Kay: Let's turn off fear-mongerers Published 11/8/2012 at 12:00 a.m. 86 comments
 
 *   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
-*   More than 80,000 lbs. of walnuts stolen. Tehama deputies say delivery driver is the suspect Published 10/29/2012 at 11:27 a.m. 23 comments
+*   UPDATED (with photo, video): Two dead in fiery Hwy. 273 crash. blaze closes portion of highway Published 11/8/2012 at 3:27 a.m. 66 comments
 *   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 122 comments
 *   Wild horse, burro adoption falls short. economic factors leave trail of uncertainty Published 11/4/2012 at 6:52 p.m. 11 comments
 *   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Published 10/31/2012 at 4:55 p.m. 65 comments
@@ -296,23 +296,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 53° Overcast Wind: Calm Today 55° 39° Thu 05:00 PM Mostly Cloudy Showers Temp: 47° Fri 05:00 AM Mostly Cloudy Showers Temp: 40° Fri 05:00 PM Mostly Cloudy Showers Temp: 46°
+Currently 48° Mostly Cloudy Wind: SE 10mph Today 55° 39° Fri 01:00 AM Mostly Cloudy Showers Temp: 43° Fri 01:00 PM Mostly Cloudy Showers Temp: 51° Sat 01:00 AM Mostly Cloudy Showers Temp: 42°
 
-Feels Like: 47°
+Feels Like: 43°
 
-Humidity: 79%
+Humidity: 86%
 
 Precip: 72%
 
-Feels Like: 40°
+Feels Like: 51°
 
-Humidity: 93%
+Humidity: 56%
 
 Precip: 47%
 
-Feels Like: 46°
+Feels Like: 42°
 
-Humidity: 80%
+Humidity: 93%
 
 Precip: 32%
 
@@ -346,8 +346,8 @@ More Events »
 *   First Christian Church Holiday Boutique First Christian Church 9 a.m.
 *   Veterans Memorial Hall Christmas Bazaar and Craft Fair Redding Veterans Memorial Hall 9 a.m.
 *   West Coast Biennial Art Exhibition, Competition Turtle Bay Exploration Park 9 a.m.
+*   Guitar Strings for Food See Description 2 p.m.
 *   Historical Walk, Early Bridges and Other Doings See Description 5 p.m.
-*   University Preparatory School musical 'Thoroughly Modern Millie' David Marr Auditorium (Shasta Learning Center) 7 p.m.
 
 More Events »
 
