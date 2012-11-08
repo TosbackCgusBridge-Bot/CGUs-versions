@@ -45,11 +45,11 @@ Loading Modnique - Boutique Events
 *   all events
     *   women
     *   5th Avenue Women's Apparel
-    *   Access Pass Australia: Summer dresses sale
+    *   Access Pass Australia: Summer Dresses Sale
     *   Creed, Bond No 9 and Annick Goutal Women's Fragrances
     *   Dex Women's Apparel
     *   Emporio Armani Intimates
-    *   French Twist: Un coeur en ete women's apparel
+    *   French Twist: Un Coeur En Ete Women's Apparel
     *   Krementz jewelry
     *   Luca Carati &. Zydo luxury jewelry
     *   Merchant and Betty Paige Apparel
@@ -70,12 +70,11 @@ Loading Modnique - Boutique Events
 *   apparel
     *   women
     *   5th Avenue Women's Apparel
-    *   Access Pass Australia: Summer dresses sale
+    *   Access Pass Australia: Summer Dresses Sale
     *   Amplified Women's apparel
     *   Dex Women's Apparel
     *   Emporio Armani Intimates
-    *   Envy Office Dresses
-    *   French Twist: Un coeur en ete women's apparel
+    *   French Twist: Un Coeur En Ete Women's Apparel
     *   Merchant and Betty Paige Apparel
     *   Nuvula Women's Apparel
     *   Rock Revolution Sweaters
@@ -96,7 +95,7 @@ Loading Modnique - Boutique Events
     *   Holiday gifts: Designer jewelry
     *   Kate Bissett Jewelry
     *   Krementz jewelry
-    *   LAUREN G. ADAMS Jewelry Set
+    *   Ladies Shell Necklace
     *   Luca Carati &. Zydo luxury jewelry
     *   One &. Only: Luxury jewelry for her
     *   Pearl jewelry deals from $5
