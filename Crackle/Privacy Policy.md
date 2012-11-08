@@ -1,28 +1,4 @@
-Social is ON Remind me every time my watch activity is posted. Social is OFF To turn on Social Sharing Log In with Facebook My Watchlist Profile Sign Out X Social Sharing is ON. Your Facebook friends can now see your activities on Crackle. More Info Social Sharing is OFF. Your Facebook friends will not be able to see your activities on Crackle. More Info Crackle + Facebook Social Sharing and Crackle - It's On
-
-It's easier than ever to share your favorite Crackle content with your Facebook friends. Just log in with Facebook and you're done. Social Sharing allows you to...
-
-*   Comment, rate and create a personal Watchlist
-*   Seamlessly share what you're watching and all your Crackle activity
-*   Discover what your Facebook friends are watching, rating and sharing.
-
-Control your social voice
-
-You have full control over what you share with your Facebook friends. You can choose to be notified instantly of every watch activity before you share or turn off Social Sharing completely. Click here to learn more.
-
-Ready to get your Social on? Turn Social Off Keep Social On Download Apps Apple iOS | Android Sign In | Register Social Off Social Crackle Movies
-
-Free &. Uncut
-
-Shows
-
-TV &. Originals
-
-Browse
-
-See All
-
-Search Crackle Genres | Watchlists | Trailers Crackle Privacy Policy Welcome to the Crackle online service (the "Service") operated by Crackle, Inc. ("Crackle"). Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share your personal information. Because the Service is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using the Service, you explicitly consent to the collection and use of your personal information as outlined in this Privacy Policy. Please read this Privacy Policy carefully, and if you have any questions, feel free to contact us. When you use the Service, you also consent to our Terms of Service. Opting Out Of Future Communications. Updating And Deleting Your Information
+Crackle Privacy Policy Welcome to the Crackle online service (the "Service") operated by Crackle, Inc. ("Crackle"). Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share your personal information. Because the Service is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using the Service, you explicitly consent to the collection and use of your personal information as outlined in this Privacy Policy. Please read this Privacy Policy carefully, and if you have any questions, feel free to contact us. When you use the Service, you also consent to our Terms of Service. Opting Out Of Future Communications. Updating And Deleting Your Information
 
 We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy, please feel free to contact us. If you wish to exclude your personal information from our direct marketing purposes or would like to update or delete your email address or other personal information that you previously submitted to us, you may do so by editing your Profile page by following the process described here.
 
@@ -90,36 +66,3 @@ Additional Questions
 Again, feel free to contact us any time if you have further questions about the Service. Click here to contact us.
 
 The effective date of this Privacy Policy is May 11, 2009.
-
-*   Top Movies
-    *   District 9
-    *   Boyz n' the Hood
-    *   Step Brothers
-    *   The Exorcism of Emily Rose
-    *   Balls Out: Gary the Tennis Coach
-    *   Zombie Strippers
-*   JUST ADDED
-    *   The Fifth Element
-    *   Rescue Me
-    *   The Virginity Hit
-    *   Unthinkable
-    *   Baby Boy
-    *   Bottle Rocket
-*   Explore
-    *   Movies
-    *   Shows
-    *   Topics
-    *   Site Map
-*   About
-    *   About Us
-    *   Company News
-    *   FAQ
-    *   Crackle Everywhere
-    *   Terms of Service
-    *   Privacy Policy
-*   HOW TO
-    *   Advertise With Us
-    *   Contact Us
-    *   Unsubscribe
-
-Search Crackle Crackle Newsletter Want to know what new movies and shows are on Crackle? ‘Course you do. Join Us Follow us:
