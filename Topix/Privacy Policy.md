@@ -12,11 +12,11 @@ Sign In
 
 China
 
-Major change in China begins
+The World Holds Its Breath for China
 
 Politix
 
-Are you happy that President Obama has been re-elected?
+Should the president be chosen by popular vote or the electora...
 
 *   Home
 *   Forums
@@ -275,7 +275,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 120,220 • Total comments across all topics: 190,495,052
+Comments made yesterday: 117,204 • Total comments across all topics: 190,536,247
 
 Copyright ©2012 Topix LLC
 
