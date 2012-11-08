@@ -4,13 +4,11 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Members get Free Shipping on orders over $100 when signed in!
+\[hol-HomepageTopBannerEMS\] Outerwear Sale - Up to 50% Off!
 
-*   Join
+*   Shop Dudes Outerwear
 
-*   Sign In
-
-*   Learn More
+*   Shop Bettys Outerwear
 
 *   see details
 
