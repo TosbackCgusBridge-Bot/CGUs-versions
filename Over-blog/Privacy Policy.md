@@ -389,7 +389,7 @@ Rechercher sur OverBlog Annuaire
 *   Famille
 *   Couture
 *   Histoire
-*   écriture
+*   Animaux
 *   Société
 *   Vidéo
 
@@ -410,7 +410,7 @@ Rechercher sur OverBlog Annuaire
 *   Bijoux
 *   Manga
 *   Recettes
-*   Animaux
+*   écriture
 *   Loisirs...
 *   Jeux
 
