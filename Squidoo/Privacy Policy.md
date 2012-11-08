@@ -63,9 +63,9 @@ Go Squidoo THIS LENS »
 
 Close Home » Squidoo Community » Official SquidTeam Lenses » Official Lensmaking Tips Getting Started With Squidoo (The official overview, FAQ and TOS)
 
-*   4548 Like
+*   4554 Like
 
-*   Like 4548
+*   Like 4554
 
 *   Pin It
 
@@ -229,7 +229,7 @@ SquidU
 
 WHEW! You made it. You read the whole Squidoo Terms of Service. Please let us know how we can do better. And thanks!
 
-*   4548 Like
+*   4554 Like
 
 by SquidTeam
 
