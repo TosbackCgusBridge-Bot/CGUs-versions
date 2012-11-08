@@ -233,9 +233,8 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Prices, Nutrient Carryover to Drive 2013 Fertilizer Applications
-*   Dairy Lobbyist: Changes in Cabinets, Congressional Committees to Influence Farm Policy Most
-*   2013 Tractor of the Year Announced
+*   Power Hour: Pre-Report Analysis of Nov. 9 Reports
+*   House Ag Leader Peterson Wants Farm-Bill Vote Next Week
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
