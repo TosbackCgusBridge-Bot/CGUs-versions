@@ -190,74 +190,74 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Themen von A-Z Suchbegriff Top-Nutzer des Tages
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Top-50 Themen Thema Anzahl Apple 85291 Arbeit 65450 Ausbildung 50822 Auto 91735 Beauty 69957 Beruf 78041 Beziehung 72889 Computer 541912 Computerspiele 65368 deutsch 67640 Englisch 52607 Ernährung 51085 essen 71705 Facebook 78454 Fernsehen 60649 Film 101131 Finanzen 59284 Freizeit 265385 Fußball 51487 Games 126476 Geld 94363 Gesundheit 207194 Haare 83633 Handy 207612 Hilfe 150830 Internet 324893 iPhone 76411 Kinder 51208 Körper 50790 Laptop 74353 Liebe 167599 Lied 55031 Mädchen 57089 Medizin 63192 Minecraft 69058 Musik 282928 PC 285292 PC-Spiele 49261 Problem 56054 PS3 61144 Recht 95888 Schule 237986 Software 57443 Spiele 138588 Sport 111816 Technik 121641 Tiere 65299 TV 54790 Video 53175 Youtube 84433 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  Bademeisterin
+1.  famous17
     
     Punkte:
     
-    1050
+    1110
+    
+    Level:
+    
+    famous17
+    
+2.  Bademeisterin
+    
+    Punkte:
+    
+    1034
     
     Level:
     
     Bademeisterin
     
-2.  betti1256
+3.  schildi
     
     Punkte:
     
-    1031
+    657
     
     Level:
     
-    betti1256
-    
-3.  blaueLampe
-    
-    Punkte:
-    
-    988
-    
-    Level:
-    
-    blaueLampe
+    schildi
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.443.698 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.446.812 gute Fragen_
 
-*   55 Eltern werden langsam alt
-*   23 Ich würde gerne Glauben, wie? Ihr fragt warum?
-*   22 Wie wirklich sind fiktive Welten?
+*   28 Ich habe Angst, meine Jugend zu "verschwenden"
+*   21 kein ausweg
+*   14 Wie merke ich das ein Mädchen mich mag ?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Eiweißshake selber machen
-*   How-To Windows 8: Normale Programme deinstallieren
+*   Hilfe ich bin verliebt ! Was soll ich tun?
 
-*   Kräuterseitlinge mit Pasta
-*   How-To: Wie ändere ich bei Windows 8 das Sperrbildschirmbild
+*   How-To Windows 8: Normale Programme deinstallieren
+*   Einfache Martinslaterne basteln
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.994.153
+1.995.455
 
 Anzahl der Fragen
 
-8.443.058
+8.446.295
 
 Anzahl der Antworten
 
-36.559.662
+36.572.248
 
 Anzahl der Tipps
 
-75.820
+75.842
 
 Anzahl der Videos
 
-4.805
+4.808
 
 Blog
 
