@@ -265,12 +265,12 @@ View full agreement (PDF)
     *   Check Email
     *   Check Voicemail
 *   Support 
-    *   Support Home
+    *   Comcast Customer Service
     *   Bill &. Payments
-    *   TV
-    *   Internet
-    *   Voice
-    *   Home
+    *   TV Help
+    *   Internet Help
+    *   Voice Help
+    *   Home Help
 *    
     *   Find a Service Center
     *   Contact Us
