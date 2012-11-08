@@ -134,34 +134,29 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $39 -- 6 Video to DVD Transfers ($99 value) $39 Value: Discount: You Save: $99 61% $60
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $39 for 6 Video to DVD Transfers ($99 value) $39 Value: Discount: You Save: $99 61% $60
 
 Thursday: Wal Mart, Sunfresh Deals Wal Mart
 
-*   Advil PM 4ct - $0.97
-*   Buddig 2oz package - $0.50
-*   Carefree Liners - $0.97
 *   more...
 
-1.  PARALEGAL
+1.  FIELD TECHNICIAN
+    
+2.  PARALEGAL
     
     GREGORY LEYH, P.C.
     
-2.  SALES
+3.  Maintenance Supervisor
     
-3.  CAMPAIGN JOBS
+    Robert's Dairy
     
-    Grassroots Campaigns, Inc.
+4.  Press &. Lamination Operators
     
-4.  Apartment Maintenance Tech Part Time
+5.  Apartment Maintenance Tech Part Time
     
     Georgetown Apartments
     
-5.  Parts Project Coordinator
-    
-    Central Power Systems &. Services, Inc.
-    
-6.  OPERATING MANAGER
+6.  Apartment Maintenance Helper
     
 
 View More The Most
@@ -169,16 +164,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Colorados vote to legalize marijuana fires up doubters
-*   Celebrity election reaction: Donald Trump, Ted Nugent, Mariah Carey
+*   Colorados vote to legalize marijuana fires up doubters (poll)
+*   Wal-Mart raises Black Friday stakes, announces deals
+*   Area restaurants, grocers cited for health-code violations
+*   Its all about family for K-State's Arthur Brown Jr.
 *   Quinn, still out of Chiefs lineup, says he ignored concussion signs
-*   Jessica Ridgeway’s family takes issue with group
+*   Celebrity election reaction: Donald Trump, Ted Nugent, Mariah Carey
 *   Roethlisberger senses Haleys desire to beat Chiefs
-*   Can status quo crowd find post-election compromise?
-*   Royals interested in Guthrie but looking elsewhere as he gauges free-agent market
-*   Election locks in Obamacare  but not scores of details
-*   Zebra mussels found in Wyandotte County Lake
-*   Its all about family for K-State linebacker Arthur Brown Jr.
+*   2 days after pot votes, marijuana industry gathers in Denver
+*   Kobach wants to make it illegal to photograph your completed ballot
+*   KCPD investigating Northland homicide as possible home-invasion robbery
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
