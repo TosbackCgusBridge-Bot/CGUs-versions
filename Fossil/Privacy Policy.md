@@ -124,7 +124,7 @@ Shop^
         *   Crossbody
         *   Tote
         *   Small
-        *   Wallets &. Wristlets
+        *   Wristlets
         
         *   View All  Handbag Silhouettes
     *   Wallets
@@ -166,7 +166,7 @@ Shop^
         *   View All  Fossil Finds
     *   SALE
     *   Our Favorite Gifts
-    *   Top Gifts
+    *   Our Favorite Gifts
     *   Gifts Under $50
     *   Gifts Under $100
     *   Gifts Under $200
