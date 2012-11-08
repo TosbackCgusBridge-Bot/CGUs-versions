@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Wednesday 07 November 2012
+Thursday 08 November 2012
 
 *   Home
 *   News
@@ -138,33 +138,31 @@ In About us
 
 Contact Us »
 
-Problems with the Telegraph for iPad? Call 0800 332020 Advertisement
+For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-A bitter sweet victory for Obama  
+Forget the TV shows, what are the ads like?  
 
-Barack Obama won four more years in power, but it was a bitter-sweet victory when set against the euphoria of 2008, writes **Peter Foster**.
+Christmas adverts have become so celebrated that they are previewed by 'teaser’ commercials, says **Harry Wallop**
 
 Comments
 
-'The Religious Right is dead' The golden fleecers Mancini blameless as City exposed again Why Primark has only scratched the surface Advertisement
+It’s time for a big Republican clear-out A bitter sweet victory for Obama 'The Religious Right is dead' The golden fleecers Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
-
-US Election   Obama re-elected as US president View FREE PRIZE DRAW TO WIN £1,000   Share with us your favourite place in the world and win £1,000 View Telegraph for iPad free trial   Try The Telegraph for iPad free for 30 days View DUNHILL TRAVEL DEALS   Most competitive travel deals and vacation packages View
 
 Back to top
 
 Hot Topics
 
-*   US Election
 *   Barack Obama
 *   Jimmy Savile
 *   Syria
 *   Weather
 *   Football
 *   Rugby Union
+*   Victoria's Secret
 *   Wonder Women
 *   More...
 
