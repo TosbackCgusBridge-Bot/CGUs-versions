@@ -11,104 +11,104 @@ PGA Tour
 Children's Miracle Ne... View Leaderboard >.
 
 *   T1
-*   M.Dawson
-*   \-2
-*   4
+*   T.Gainey
+*   \-7
+*   F
 
 *   T1
-*   M.Every
-*   \-2
-*   4
+*   C.Villegas
+*   \-7
+*   F
 
-*   T1
-*   J.Maggert
-*   \-2
-*   4
+*   T3
+*   B.Harman
+*   \-6
+*   F
 
-*   T1
-*   J.Rollins
-*   \-2
-*   4
+*   T3
+*   C.Wi
+*   \-6
+*   16
 
-*   T5
-*   J.Blixt
-*   \-1
-*   4
+*   T3
+*   S.Stallings
+*   \-6
+*   15
 
-*   T5
-*   B.Bryant
-*   \-1
-*   4
-
-*   T5
-*   K.Duke
-*   \-1
-*   4
-
-*   T5
-*   M.Flores
-*   \-1
-*   4
-
-*   T5
-*   H.Kuehne
-*   \-1
-*   4
-
-*   T5
-*   C.Stroud
-*   \-1
-*   4
-
-*   T5
-*   D.Summerhays
-*   \-1
-*   4
-
-*   T5
-*   D.Pride
-*   \-1
-*   3
-
-*   T5
-*   L.Janzen
-*   \-1
-*   2
-
-*   T5
+*   T6
 *   K.Chappell
-*   \-1
-*   1
+*   \-5
+*   F
 
-*   T5
-*   B.Horschel
-*   \-1
-*   1
+*   T6
+*   K.Duke
+*   \-5
+*   F
 
-*   T5
-*   J.Kelly
-*   \-1
-*   1
+*   T6
+*   M.Every
+*   \-5
+*   F
 
-*   T5
-*   K.Kisner
-*   \-1
-*   1
+*   T6
+*   B.Steele
+*   \-5
+*   16
 
-*   T5
-*   J.Kokrak
-*   \-1
-*   1
+*   T6
+*   C.Howell III
+*   \-5
+*   15
 
-*   T5
+*   T6
+*   M.Bettencourt
+*   \-5
+*   14
+
+*   T12
+*   C.Beljan
+*   \-4
+*   F
+
+*   T12
+*   S.Bertsch
+*   \-4
+*   F
+
+*   T12
+*   M.Dawson
+*   \-4
+*   F
+
+*   T12
+*   H.English
+*   \-4
+*   F
+
+*   T12
+*   R.Garrigus
+*   \-4
+*   F
+
+*   T12
+*   D.Pride
+*   \-4
+*   F
+
+*   T12
+*   C.Reavie
+*   \-4
+*   F
+
+*   T12
 *   H.Stenson
-*   \-1
-*   1
+*   \-4
+*   F
 
-*   T5
-*   D.Wilson
-*   \-1
-*   1
+*   T12
+*   C.Knost
+*   \-4
+*   17
 
 *   **FULL LEADERBOARD**
 
@@ -236,7 +236,7 @@ Prev Next
     *   On The Range
     *   School of Golf
     *   The Golf Fix
-    *   The Haney Project
+    *   The Haney Project Michael Phelps
     *   Playing Lessons
     
     Full Episodes
@@ -282,14 +282,14 @@ Prev Next
 *   Tianlang Guan
 *   PGA Tour
 *   The Haney Project Michael Phelps
-*   Barclays Singapore Open
 *   The Barclays
+*   Barclays Singapore Open
 *   Morning Drive
 *   Scottish Open
 *   Rory McIlroy
-*   Web.com Tour
 *   Phil Mickelson
 *   Children's Miracle Network Hospitals Classic
+*   The First Tee
 
 **Privacy Policy**
 
@@ -530,7 +530,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 234,707 facebook.com/GolfChannel 122,677 twitter.com/GolfChannel Newsletter
+Social 234,735 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
