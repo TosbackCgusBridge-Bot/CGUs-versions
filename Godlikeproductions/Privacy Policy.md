@@ -1,5 +1,5 @@
   
-Users Online Now: **2,182** (Who's On?) Visitors Today: **309,803** Pageviews Today: **563,179** Threads Today: **395** Posts Today: **4,377** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **3,276** (Who's On?) Visitors Today: **650,795** Pageviews Today: **1,341,366** Threads Today: **965** Posts Today: **12,482** 04:24 PM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,12 @@ trinity@godlikeproductions.com
   
 News
 
+*   Marc Faber's Asset Protection Plan: "Buy A Machine Gun", No Really, "You're Right, Buy A Tank"
+*   Implantable medical devices powered by the ear itself
+*   Crypto keys can be stolen from neighbours in the cloud
+*   Planetary scientists propose two explanations for true polar wander
+*   Experience Relativity Firsthand In MIT Video Game That Slows The Speed Of Light
+*   Privacy in Ubuntu 12.10: Full Disk Encryption
 *   Here's What The East Coast Blackouts Looked Like From Space
 *   Pa. pupils to wear tracking devices in flu study
 *   ACLU says some unable to vote by e-mail, asks judge to intervene
@@ -131,12 +137,6 @@ News
 *   New Fake HIV Test to Target Poor
 *   Military Takes Over Election Day in New Jersey
 *   West Virginia: Traffic Stop Cannot Be Used to Justify Home Search
-*   Homeland Security worker charged with soliciting kids on Facebook
-*   Police state: Growth rate of US cops exceeds population growth
-*   TSA agent arrested over 'rape of young boy'
-*   Looking Beyond Election Day: The Issues That Threaten to Derail the Nation
-*   Mexican Cartels Enslave Engineers to Build Radio Network
-*   Federal court approves use of hidden surveillance cameras on private property without warrants
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.015s (0 queries)
+Page generated in 0.017s (0 queries)
