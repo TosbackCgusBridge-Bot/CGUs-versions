@@ -1,4 +1,4 @@
-Skip Navigation The Atlantic Home Wednesday, November 7, 2012 Go Follow the Atlantic »
+Skip Navigation The Atlantic Home Thursday, November 8, 2012 Go Follow the Atlantic »
 
 *   Politics
 *   Business
@@ -10,7 +10,7 @@ Skip Navigation The Atlantic Home Wednesday, November 7, 2012 Go Follow the Atla
 *   Magazine
 *   video
 
-No One Should Have to Wait 7 Hours to Vote Andrew Cohen The 3 Myths of the Romney Campaign James Fallows Are Unions Obama's Secret Weapon in Ohio? Molly Ball The Winner Won't Save the Middle-Class Derek Thompson Why the 'I Voted' Sticker Matters Derek Thompson How Obama Beat the Super PACs Jordan Weissmann Baseball's Grad School: The Arizona Fall League Chris Feliciano Arnold 'The Walking Dead': A Zombie Apocalypse Jeffrey Goldberg, J.J. Gould, and Scott Meslow Why Does Horse Racing Survive? Gary Andrew Poole Leader of the Free World Heather Maher China's Transparency Reform: Is It for Real? David Caragliano Strategic Advice for the Next President Ali Wyne Romney's Facebook Fans vs. Obama's Rebecca J. Rosen Googling 'Who Is Running for President?' Megan Garber It May Be Illegal to Instagram Your Ballot Rebecca J. Rosen Double-Timing the March of Social Progress Andrew Cohen 2 Key Education Votes to Watch Emily Richmond Lawn Signs Are Useless. Why Do We Love Them? Lane Wallace 1 in 3 Men Can't See His Penis Lindsay Abrams The Psychology of Post-Election Melodrama Adam Alter Results of Public Health Votes Lindsay Abrams Presented by Brave Thinkers: Our Annual List of Risk-Takers Mike Bloomberg Knows What's Good for You James Bennet Jazz: How America's Most Vibrant Music Became a Relic Benjamin Schwarz Presented by How the Animated GIF Took Over the Election Kasia Cieplak-Mayr von Baldegg What Voting Looked Like in 1944 Kasia Cieplak-Mayr von Baldegg The Moment the Lights Went Out in New York Megan Garber Privacy Policy
+No One Should Have to Wait 7 Hours to Vote Andrew Cohen The 3 Myths of the Romney Campaign James Fallows Are Unions Obama's Secret Weapon in Ohio? Molly Ball The Winner Won't Save the Middle-Class Derek Thompson Why the 'I Voted' Sticker Matters Derek Thompson How Obama Beat the Super PACs Jordan Weissmann A Graded, Ranked Guide to Every 'Bond' Song Michael Dunaway Why Pitchfork's Paris Fest Felt So... Brooklyn Jason Orlovich How to Write the (Readable) Book on Jazz Scott Krane Leader of the Free World Heather Maher China's Transparency Reform: Is It for Real? David Caragliano Strategic Advice for the Next President Ali Wyne Romney's Facebook Fans vs. Obama's Rebecca J. Rosen Googling 'Who Is Running for President?' Megan Garber It May Be Illegal to Instagram Your Ballot Rebecca J. Rosen Double-Timing the March of Social Progress Andrew Cohen 2 Key Education Votes to Watch Emily Richmond Lawn Signs Are Useless. Why Do We Love Them? Lane Wallace The Election's Consequences for Health Care Law Richard E. Cohen Results of Public Health Votes Lindsay Abrams The Psychology of Post-Election Melodrama Adam Alter Presented by Brave Thinkers: Our Annual List of Risk-Takers Mike Bloomberg Knows What's Good for You James Bennet Jazz: How America's Most Vibrant Music Became a Relic Benjamin Schwarz Presented by How the Animated GIF Took Over the Election Kasia Cieplak-Mayr von Baldegg What Voting Looked Like in 1944 Kasia Cieplak-Mayr von Baldegg The Moment the Lights Went Out in New York Megan Garber Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -113,18 +113,18 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report Tancha/Shutterstock The Sexes  
-Welcome to _The Atlantic_'s new channel, looking at gender dynamics in a changing world. Read more › Just In Kerry Eleveld 1:52 PM ET Why Barack Obama Will Be a Better Progressive in His Second Term 1352314348 Voices
+Special Report Alex Hoyt How the Map Changed as the Polls Came In  
+A state-by state guide. And it's never too late to check out _The Atlantic_'s obsessive all-night coverage of the whole election. Read more › Just In James Hamblin 8:02 AM ET Study: More Black Tea, Less Diabetes 1352379759 Voices
 
-*   Alexis C. Madrigal Data Doesn't Belong to the Democrats 12:03 PM ET
-*   Derek Thompson Obama Won the Election Thanks to the Very Thing… 12:03 PM ET
-*   Jeffrey Goldberg 'Now I'm Going to Offer You a Hamburger' 11:30 AM ET
-*   Ta-Nehisi Coates Post-Election Open Thread 11:26 AM ET
-*   Garance Franke-Ruta The 3 Biggest Day-After Mea Culpas 10:57 AM ET
-*   Robert Wright The New Barack Obama 3:42 AM ET
-*   James Fallows The Election-Night Thoughts of the 'Atlas… 2:43 AM ET
+*   Ta-Nehisi Coates When Your Mind Is Playing Tricks On Ya Nov 7, 2012
+*   James Fallows Placeholder on Atlas Shrugged Guy: Uncle! Nov 7, 2012
+*   Derek Thompson The GOP Needs a Economic Plan For More Than the… Nov 7, 2012
+*   Clive Crook Obama's Victory After Cyclical Adjustment Nov 7, 2012
+*   Alexis C. Madrigal Data Doesn't Belong to the Democrats Nov 7, 2012
+*   Jeffrey Goldberg 'Now I'm Going to Offer You a Hamburger' Nov 7, 2012
+*   Garance Franke-Ruta The 3 Biggest Day-After Mea Culpas Nov 7, 2012
+*   Robert Wright The New Barack Obama Nov 7, 2012
 *   Steve Clemons Ed Gillespie's Absurd Bluster Nov 6, 2012
-*   Clive Crook Together We Stand, Divided We Fall Nov 2, 2012
 
 Correspondents
 
@@ -133,7 +133,7 @@ Correspondents
 *   Andrew Cohen On Ballot Issues, Double-Timing the March of Progress
 
 View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
-The Biggest Story in Photos Election Night 2012: Reactions in Photos Nov 7, 2012 Video 'The Way Americans Like to Do It': What Voting Looked Like in 1944 Animated GIFs and the Election What Twitter Tells Us About Voters Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Election Night 2012: Reactions in Photos Nov 7, 2012 Video Go Behind the Scenes at the New York City Ballet NYC Dark VHS and Vinyl Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -162,23 +162,23 @@ I want to receive updates from our partners and sponsors
 
 what matters now
 
-*   Rove's War with Fox's Nerds: The Backstory  
+*   Wal-Mart's Black Friday Moves Deeper Into Thanksgiving  
     
-*   Europe's E-Book Price Fixing Suit Settled. Sales of Nate Silver's Book Soar  
+*   Bashar al-Assad Says 'I Will Live and Die in Syria'  
     
-*   What's in the Name of Nor'easter Athena?  
-    
-
-Last Update: 2:03 PM
-
-*   8 Urban Policy Ideas for Obama's 2nd Term  
-    
-*   The Ecstasy, the Agony: Reactions to Election 2012  
-    
-*   Do Foreclosures Increase Crime After All?  
+*   Gabrielle Giffords to Appear at Her Shooter's Sentence Hearing Today  
     
 
-Last Update: 6:47 PM Most Popular
+Last Update: 7:50 AM
+
+*   Why Republicans Can't Afford to Concede the City Vote Ever Again  
+    
+*   Superstorm Sandy Meets Tim Burton in This Creepy Animation  
+    
+*   The Power of Bicycles in Disaster Recovery  
+    
+
+Last Update: 10:25 PM Most Popular
 
 1
 
@@ -186,39 +186,39 @@ How Conservative Media Lost to the MSM and Failed the Rank and File
 
 2
 
-The GOP's Future: A Republican Reflects
+Hurricane Sandy: After Landfall
 
 3
 
-Why Mitt Romney Lost: A Simple, Overriding Theory
+The GOP's Future: A Republican Reflects
 
 4
 
-Obama's Big Night
+Hippies Wander Into the Lions' Den, Maul Lions
 
 5
 
-Why Barack Obama Will Be a Better Progressive in His Second Term
+Why Mitt Romney Lost: A Simple, Overriding Theory
 
 6
 
-Hurricane Sandy: After Landfall
+Election Night 2012: Reactions in Photos
 
 7
 
-Election Night 2012: Reactions in Photos
+Hurricane Sandy: The Aftermath
 
 8
 
-The 3 Biggest Day-After Mea Culpas
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 9
 
-Obama Won the Election Thanks to the Very Thing We Thought Would Sink Him: The Economy
+Why Barack Obama Will Be a Better Progressive in His Second Term
 
 10
 
-This Is the Worst Election for Wall Street in Decades
+The 3 Biggest Day-After Mea Culpas
 
 *   Subscribe Help
 *   Faq
