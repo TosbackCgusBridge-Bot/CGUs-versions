@@ -28,18 +28,26 @@ GigaOM  
 Comments Off
 
 *   Hot in Media
-    *   ReadWriteWeb rebrands, hires Dan Lyons as EIC 10/22/2012
-    *   Google, Yahoo see contrasting fortunes in South Korea 10/22/2012
-    *   Amazon apparently discontinues Kindle Touch in favor of Paperwhite 10/22/2012
-    *   Rupert Murdoch and the _LA Times_: fact or folly? 10/20/2012
-    *   Notorious ad hijacker spreads to more media, retail sites 10/19/2012
+    *   DC brings its monthly comics to Kindle, Nook and iBookstore 11/07/2012
+    *   Top jobs of the week in digital media 11/07/2012
+    *   Two years later, Virgin’s two-screen app takes TV wireless – via Eth... 11/07/2012
+    *   Why the NYT announced Obama’s win 49 minutes after Obama did 11/07/2012
+    *   Buying another classified site, Axel Springer sees digital filling print gap 11/07/2012
 
 *   Search for:
 *   Related
     
+    *   How video will provide a third act for AOL
+        
+        AOL has been a basket case for years as it tried to figure out if was a...
+        
     *   HuffPost Live’s new iPad app could be a second screen breakthrough
         
         HuffPost Live's new app could help usher in an era where content producers seek to dominate not...
+        
+    *   Debate sponsor taps YouTube, Yahoo and AOL to quiz, inform voters
+        
+        The Commission on Presidential Debates is partnering with three online media companies to stream debates and educate...
         
     
     See More Related Stories For:  
@@ -49,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-If Facebook isn’t thinking about buying Tumblr, it should be
+Is Tumblr the new GeoCities? VC Fred Wilson says no, points to ads
 
 Stay on top of tech news in your inbox
 
