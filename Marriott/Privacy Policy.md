@@ -504,10 +504,10 @@ Within Marriott.com are numerous other Marriott Web sites that are accessible fr
 *   Affiliates
 *   Mobile
 
+*   Insiders
 *   Twitter
 *   Blog
 *   Facebook
-*   Insiders
 
 Top Destinations
 
