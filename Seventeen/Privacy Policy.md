@@ -106,7 +106,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     
     Flirty Text Message Ideas!
 
-Post a comment Our privacy policy has changed.Click here for details Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
+Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
 **1 Winner!** Enter for a chance to win Britney Spears Fantasy--it's super-light and pretty! Type in the Freebie Phrase of the Day, found in the November Issue!
 
