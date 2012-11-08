@@ -16,7 +16,7 @@ Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! 
     
     *   Kids Toys
     *   Flowers &. Plants
-    *   2012 Giftees Nominees
+    *   2012 Giftees Finalists
     
     *   Toy Safety Guide
     *   Stocking Stuffer Guide
@@ -235,7 +235,7 @@ Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! 
     View All Occasions »
 *   Category Top Categories
     
-    *   2012 Giftees Nominees
+    *   2012 Giftees Finalists
     *   Experiential Gifts
     *   Made in the USA
     
