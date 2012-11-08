@@ -1106,10 +1106,6 @@ Most popular media players and file formats are compatible with SYNC. Supported 
 
 Your mobile phone or media device must support Bluetooth® streaming audio.
 
-96
-
-Only with SYNC® AppLink™, available on 2011/2012 Fiesta and 2012 Mustang, Fusion, Expedition, Super Duty and F-150.
-
 97
 
 Only on vehicles equipped with SYNC with MyFord Touch
@@ -1129,18 +1125,6 @@ Available on 2011/2012 Edge and Explorer and 2012 Focus.
 101
 
 This feature is locked out when the vehicle is in gear.
-
-102
-
-Available only on vehicles equipped with SYNC® with MyFord® and SYNC® with MyFord Touch®.
-
-103
-
-2012 Focus models come with a single screen.
-
-104
-
-In select vehicles, available ambient lighting cannot be controlled using the eight-inch color touch screen.
 
 105
 
@@ -1186,10 +1170,6 @@ Based on Ford drive-cycle tests of comparably equipped 2012 Ford and 2011/2012 c
 
 Sony is a registered trademark of the Sony Corporation.
 
-117
-
-Transit Connect basic SYNC system comes with Hands-Free Calling and voice control of your MP3/USB player features only.
-
 118
 
 Based on analysis of data published by EPA, 11/10.
@@ -1217,10 +1197,6 @@ Based on RDA Group’s GQRS cumulative survey at three months of service in thre
 124
 
 Feature not available on Focus equipped with SYNC® with MyFord Touch®.
-
-125
-
-Commands may vary by model year and SYNC® configuration.
 
 126
 
