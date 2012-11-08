@@ -105,18 +105,19 @@ Store Locator
     *   Wedding Frames &. Albums
     *   Wedding Throws
     
+    *   Cut Crystal Gifts
     *   Wedding Photo to Canvas Art
     *   Wedding Clocks
     *   Religious &. Inspirational Gifts
     *   Bridal Jewelry
-    *   The Couple
     *   Bride
     *   Groom
     *   The Parents
     *   Grandparents
-    *   Flower Girl
-    
     *   Ring Bearer
+    
+    *   Flower Girl
+    *   The Couple
     *   Top 10 Wedding Gifts
     *   Top 10 Bridesmaid Gifts
     *   Top 10 Groomsmen Gifts
