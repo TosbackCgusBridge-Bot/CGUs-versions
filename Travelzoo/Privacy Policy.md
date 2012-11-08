@@ -57,6 +57,7 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Atlanta
     *   Austin
     *   Baltimore
+    *   Birmingham
     *   Boise
     *   Boston
     *   Buffalo
@@ -67,9 +68,10 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Cincinnati
     *   Cleveland
     *   Colorado Springs
+    *   Columbia
     *   Columbus
-    *   Dallas
     
+    *   Dallas
     *   Denver
     *   Des Moines
     *   Detroit
@@ -80,13 +82,15 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Houston
     *   Indianapolis
     *   International
+    *   Jacksonville
     *   Kansas City
+    *   Knoxville
     *   Long Island
     *   Madison
     *   Memphis
+    
     *   Miami
     *   Milwaukee
-    
     *   Minneapolis
     *   New Orleans
     *   Northern New Jersey
@@ -102,8 +106,8 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Providence
     *   Raleigh-Durham
     *   Reno-Tahoe
-    *   Richmond
     
+    *   Richmond
     *   Sacramento
     *   Salt Lake City
     *   San Antonio
