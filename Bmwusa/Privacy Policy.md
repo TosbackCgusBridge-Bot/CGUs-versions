@@ -21,7 +21,6 @@
 *   My BMW
 *   Owners
 *   Accessories
-*   Search
 
 Privacy Policy
 
