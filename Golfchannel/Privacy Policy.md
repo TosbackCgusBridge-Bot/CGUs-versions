@@ -1,112 +1,114 @@
-European Tour
+PGA Tour
 
+*   PGA Tour
+    *   Children's Miracle Network Hospi...
 *   European Tour
     *   Barclays Singapore Open
 *   LPGA
     *   Lorena Ochoa Invitational presen...
 *   Titleist On Tour
 
-Barclays Singapore Open View Tee Times >.
+Children's Miracle Ne... View Leaderboard >.
 
-*   12:50 AM ET
-*   F.Aguilar
-*   \-
-*   \-
+*   T1
+*   M.Dawson
+*   \-2
+*   4
 
-*   11:00 PM ET
-*   T.Aiken
-*   \-
-*   \-
+*   T1
+*   M.Every
+*   \-2
+*   4
 
-*   11:20 PM ET
-*   F.Andersson Hed
-*   \-
-*   \-
+*   T1
+*   J.Maggert
+*   \-2
+*   4
 
-*   6:30 PM ET
-*   K.Aphibarnrat
-*   \-
-*   \-
+*   T1
+*   J.Rollins
+*   \-2
+*   4
 
-*   7:50 PM ET
-*   W.Artjanawat
-*   \-
-*   \-
+*   T5
+*   J.Blixt
+*   \-1
+*   4
 
-*   12:40 AM ET
-*   S.Baek
-*   \-
-*   \-
+*   T5
+*   B.Bryant
+*   \-1
+*   4
 
-*   12:10 AM ET
-*   R.Bain
-*   \-
-*   \-
+*   T5
+*   K.Duke
+*   \-1
+*   4
 
-*   12:30 AM ET
-*   S.Barr
-*   \-
-*   \-
+*   T5
+*   M.Flores
+*   \-1
+*   4
 
-*   12:00 AM ET
-*   J.Bayron
-*   \-
-*   \-
+*   T5
+*   H.Kuehne
+*   \-1
+*   4
 
-*   7:40 PM ET
-*   D.Beck
-*   \-
-*   \-
+*   T5
+*   C.Stroud
+*   \-1
+*   4
 
-*   7:00 PM ET
-*   G.Bhullar
-*   \-
-*   \-
+*   T5
+*   D.Summerhays
+*   \-1
+*   4
 
-*   7:00 PM ET
-*   T.Bjorn
-*   \-
-*   \-
+*   T5
+*   D.Pride
+*   \-1
+*   3
 
-*   7:30 PM ET
-*   M.Both
-*   \-
-*   \-
+*   T5
+*   L.Janzen
+*   \-1
+*   2
 
-*   11:50 PM ET
-*   G.Bourdy
-*   \-
-*   \-
+*   T5
+*   K.Chappell
+*   \-1
+*   1
 
-*   11:30 PM ET
-*   R.Cabrera-Bello
-*   \-
-*   \-
+*   T5
+*   B.Horschel
+*   \-1
+*   1
 
-*   12:20 AM ET
-*   M.Campbell
-*   \-
-*   \-
+*   T5
+*   J.Kelly
+*   \-1
+*   1
 
-*   6:20 PM ET
-*   A.Canizares
-*   \-
-*   \-
+*   T5
+*   K.Kisner
+*   \-1
+*   1
 
-*   6:10 PM ET
-*   P.Casey
-*   \-
-*   \-
+*   T5
+*   J.Kokrak
+*   \-1
+*   1
 
-*   10:50 PM ET
-*   Y.Chan
-*   \-
-*   \-
+*   T5
+*   H.Stenson
+*   \-1
+*   1
 
-*   8:00 PM ET
-*   G.Charoenkul
-*   \-
-*   \-
+*   T5
+*   D.Wilson
+*   \-1
+*   1
 
 *   **FULL LEADERBOARD**
 
@@ -114,8 +116,9 @@ Prev Next
 
 *   Scores View all tours &. Tournaments Tournaments
     
+    *   Children's Miracle Network Hospitals Classic
     *   Barclays Singapore Open
-    *   Lorena Ochoa Invitational presented by Banamex and Corona Light
+    *   Lorena Ochoa Invitational presented by Banamex and Jalisco
     
     Tours
     *   PGA Tour
@@ -278,15 +281,15 @@ Prev Next
 *   Jim Flick
 *   Tianlang Guan
 *   PGA Tour
+*   The Haney Project Michael Phelps
+*   Barclays Singapore Open
+*   The Barclays
 *   Morning Drive
+*   Scottish Open
 *   Rory McIlroy
-*   WGC HSBC Champions
-*   Tiger Woods
-*   FedEx Cup
-*   Stacy Lewis
-*   Ian Poulter
-*   Davis Love III
-*   Champions Tour
+*   Web.com Tour
+*   Phil Mickelson
+*   Children's Miracle Network Hospitals Classic
 
 **Privacy Policy**
 
@@ -527,7 +530,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 234,662 facebook.com/GolfChannel 122,570 twitter.com/GolfChannel Newsletter
+Social 234,707 facebook.com/GolfChannel 122,677 twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
