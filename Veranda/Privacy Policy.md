@@ -3,11 +3,11 @@ TRY: Gardening | Jewelry | Designer Inspiration | Chefs Privacy Policy Email Pri
 
 Most Viewed
 
-1.  Veranda's Most Memorable Holiday Rooms
-2.  Stylish Holiday Gift Ideas
-3.  Veranda's Top Holiday Desserts
-4.  Ruthie Sommers's Advice on Decorating and Being an Interior Designer
-5.  More Than Just Stuff: Surprising Stories Behind Your Decor
+1.  Meet the Magic Makers
+2.  Veranda's Most Memorable Holiday Rooms
+3.  Stylish Holiday Gift Ideas
+4.  Veranda's Top Holiday Desserts
+5.  Ruthie Sommers's Advice on Decorating and Being an Interior Designer
 
 Most Searched
 
