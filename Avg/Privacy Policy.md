@@ -13,8 +13,8 @@
     
     *   For your mobile devices
         *   AVG AntiVirus FREE for Android™ Smartphones Essential protection for your mobile.
-        *   AVG AntiVirus Pro for Android™ Smartphones Essential protection for your mobile.
-        *   AVG AntiVirus Pro for Android™ Tablets Use it like a PC? Protect it like one.
+        *   AVG AntiVirus PRO for Android™ Smartphones Essential protection for your mobile.
+        *   AVG AntiVirus PRO for Android™ Tablets Use it like a PC? Protect it like one.
 *   For Business
     
     *   For your PCs
@@ -25,13 +25,13 @@
         *   AVG Rescue CD Get your business back up and running rapidly in case of system crashes.
     
     *   For your mobile devices
-        *   AVG AntiVirus Pro for Android™ Smartphones Essential protection for your mobile.
-        *   AVG AntiVirus Pro for Android™ Tablets Use it like a PC? Protect it like one.
+        *   AVG AntiVirus PRO for Android™ Smartphones Essential protection for your mobile.
+        *   AVG AntiVirus PRO for Android™ Tablets Use it like a PC? Protect it like one.
 *   For Mobile
     *   Mobile Protection
         *   AVG AntiVirus FREE for Android™ Smartphones Essential protection for your mobile.
-        *   AVG AntiVirus Pro for Android™ Smartphones Essential protection for your mobile.
-        *   AVG AntiVirus Pro for Android™ Tablets Use it like a PC? Protect it like one.
+        *   AVG AntiVirus PRO for Android™ Smartphones Essential protection for your mobile.
+        *   AVG AntiVirus PRO for Android™ Tablets Use it like a PC? Protect it like one.
         *   AVG Family Safety® for iOS Essential protection for your children.
         *   AVG Family Safety® for Windows Phone Essential protection for your children.
 *   Company
