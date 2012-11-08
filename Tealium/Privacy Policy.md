@@ -21,7 +21,8 @@ Tealium
         *   Management
         *   Clients
         *   Partners
-        *   Press
+        *   Press Releases
+        *   News Coverage
         *   Careers
 *   Contact Us
 
