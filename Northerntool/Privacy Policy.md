@@ -19,9 +19,8 @@ Northern Tool + Equipment, Generators, pressure washers, air compressors, power 
     *   Electrical
     *   Engines
     *   Farm + Acreage
-    *   Food Processing
-    
     *   Fuel Transfer + Lubrication
+    
     *   Garage + Workshop Supplies
     *   Generators
     *   Grounds Maintenance
@@ -33,8 +32,8 @@ Northern Tool + Equipment, Generators, pressure washers, air compressors, power 
     *   Metal Fabrication
     *   Power Tools
     *   Pressure Washers
-    
     *   Seats
+    
     *   Snow + Ice Removal
     *   Snow Blowers
     *   Sprayers
@@ -43,6 +42,7 @@ Northern Tool + Equipment, Generators, pressure washers, air compressors, power 
     *   Tires + Wheels
     *   Tractors
     *   Trailers + Trailer Parts
+    *   Water Pumps
     *   Welding
     *   Winches
     *   See All Categories
