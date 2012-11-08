@@ -45,7 +45,7 @@ Stay Connected close
 *   Books &. Magazines
 *   Clothing, Shoes &. Jewelry
 *   Christmas
-*   Electronics &. TVs
+*   Electronics, TVs &. Office
 *   Fashion
 *   Fitness &. Sports
 *   Lawn &. Garden
