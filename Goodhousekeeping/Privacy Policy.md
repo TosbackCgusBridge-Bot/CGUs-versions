@@ -14,7 +14,7 @@ Try: 7 Years Younger • Travel Mugs • Quick Dinners
 
 *   Food &amp Recipes
     
-    9 Quick Pasta Dinners
+    5 Perfect Pie Recipes
     
     Read More!
     *   Recipe Finder
@@ -116,9 +116,9 @@ In order to view the Privacy Policy you must enable javaScript. Print Share Late
 *   Food  
     &. Recipes
     
-    9 Quick Pasta Dinners
+    5 Perfect Pie Recipes
     
-    Hearty dinners loaded with autumn flavor
+    Easy pies for your holiday party
     
 *   Home  
     &. Organizing
