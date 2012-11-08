@@ -61,7 +61,7 @@
 
 suntimes
 
-Wednesday, November 7, 2012
+Thursday, November 8, 2012
 
 Search Search Site All Papers YAHOO!
 
