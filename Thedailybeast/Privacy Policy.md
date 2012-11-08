@@ -133,50 +133,50 @@ If you have any questions or concerns about this privacy policy, you may contact
 
 Stories We Like
 
-1.  Us Weekly See Robert Pattinson and Kristen Stewart's First Interview Together Post-Scandal
-2.  Huffington Post Politics Will Obama Fall Prey to the Incumbent Rule?
-3.  Buzzfeed 11 Sweet and Strange Missed Connections of Hurricane Sandy
-4.  Mental Floss Why Do Sign Language Interpreters Look So Animated?
-5.  Pop Sugar Ashton Kutcher and Mila Kunis Show PDA Down Under
-6.  Buzzfeed The Time a Cat Adopted Four Baby Hedgehogs
-7.  Your Tango 21 Undeniable Benefits of Being Divorced
-8.  Ask Men How to Become a Better Networker
-9.  Fab Sugar Taylor Swift and Carrie Underwood Steal the Spotlight at the CMAs
+1.  Huffington Post Politics Super PACs Didn't Buy the 2012 Election
+2.  Mental Floss When Victoria's Secret Rescued the National Guard
+3.  Buzzfeed The Sasha and Malia Obama Aging Timeline
+4.  Fab Sugar Michelle Obama Wore Michael Kors on Election Night
+5.  Political Wire Now That It's Over, Which Polls Were the Most Accurate?
+6.  Huffington Post Politics Reid Makes Bold Promise on Reform For Next Congress
+7.  Your Tango How 'Four More Years' of Obama Will Affect Your Marriage
+8.  Buzzfeed Beautiful Pictures of Two Women From Maryland Getting Engaged on Election Night
+9.  Us Weekly Stunning New Pictures of Scarlett Johansson, Jessica Biel in 'Hitchcock'
 
   Most Popular
 
-1.  5 Amazing Fox News Freak-outs
-2.  Five Stages of GOP Grief
-3.  Revenge of the Nerd
-4.  A Thrashing
-5.  13 Must-See Moments From Election Night
+1.  Second-Term Surprise
+2.  R.I.P. Romney
+3.  Obama’s Reality Check
+4.  Let’s All Get Stoned
+5.  Who’s Skewed Now?
 
   Other News Entertainment
 
-*   Exclusive: Kendra Wilkinson on Hank Jr.'s Fears and More
-*   Voting: Are These Looks Age Appropriate?
-*   Jennifer Garner, Beyonce and More Celeb Bodies After Baby
+*   Stars Who Shun the Spotlight
+*   Celebs With Surprising Ages
+*   Miranda Kerr on Sexy Moms: It Doesn't Mean You Have to Let Yourself Go
 *   **Get More from Wonderwall**
 
 Entertainment
 
+*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
+*   New York Comedy Fest kicks off tonight: Patton Oswalt explains how it’ll make Sandy funny
 *   How should Han Solo die in the new ‘Star Wars’?
-*   Mindy Kaling kisses-and-tells about ‘harassing’ the hot actors she gets to smooch — VIDEO
-*   Taylor Lautner’s Madame Tussauds wax figure will not be shirtless
 *   **Get More from EW.com**
 
 Entertainment
 
-*   20 Incumbent Members Of Congress Who Lost Reelection
-*   So, You Want To Be A Congressional Staffer?
-*   Twitter Users Say They Voted For Obama 2 To 1
+*   The Donald Problem
+*   Biden: Democrats Have A Mandate To Raise Taxes On The Rich
+*   Yep, Google Looks Different Now
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Dick Morris Explains Why He Was Wrong
-*   The Most Accurate Polls
-*   The Difference Between Barack Obama and Mitt Romney
+*   Obama Campaign Surprised at Quick Call
+*   Romney Meets with Donors After Defeat
+*   Clinton vs. Bush in 2016?
 *   **Get More from Political Wire**
 
 The Daily Beast
