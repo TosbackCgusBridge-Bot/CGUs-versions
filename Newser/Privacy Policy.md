@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   Election 2012
-    *   Obama 2012
-    *   Mitt Romney 2012
-    *   Mitt Romney
-    *   Barack Obama
     *   President Obama
-    *   New Jersey
+    *   Mitt Romney 2012
+    *   Hurricane Sandy
+    *   Obama 2012
+    *   Mitt Romney
     *   entertainment
     *   celebrity
-    *   voting
+    *   Barack Obama
+    *   New York City
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -120,63 +120,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Silver Medal
-*   There Was a War on Women, and the Women Won
-*   The Five Stages of Fox News Grief
+*   You’re on Your Own, Javelin
+*   REMINDER: The "Fiscal Cliff" Is Nothing Like a...
+*   In Praise of the Foreign-Language Pop Song
 
 More from Slate »
 
-*   HURRAY FOR HOLY WOOD!
-*   Lobsters Stolen For Drug Habit, Thief Faces 25 Years
-*   Man-Eating Leopard Craves 'Salty' Human Blood, Scientist...
+*   MAN'S POSITIVE PREGNANCY TEST SHOCK
+*   Verbally Abusive Man Slices Tongue To Win Back Wife
+*   Virgin Mary Spotted In Utah Log
 
 More from HuffPost Weird »
 
-*   Love Conquers Hate: Get The Details On The Latest Marriage...
-*   Sienna Miller Stripped Down For A Pregnant Portrait (NSFW)
-*   Mirror Mirror: On High Heels
+*   Tabloid Claims Yet Again That Jennifer Aniston Is Pregnant
+*   18 WTF?! Political Gag Gifts
+*   L.A. County Votes To Require Condoms In Porn
 
 More from The Frisky »
 
-*   Was Diane Sawyer totally drunk last night? \[Amusing\]
-*   Giddy-up and go to jail. Drunk dude tried to shoot horse...
-*   Awesome picture, bro. The mugshot...not so much \[Florida\]
+*   The Russians are coming, the Russians are coming \[Obvious\]
+*   Budget airline Ryanair plans $2 tickets for trans-European...
+*   18-year-old from Georgia tweets she wants to move to...
 
 More from Fark »
 
-*   Do Republicans owe Nate Silver an apology?
-*   Is Puerto Rico on the verge of becoming the 51st state?
-*   Obama's next challenge: Can he avoid the fiscal cliff?
+*   10 things you need to know today: November 8, 2012
+*   Everything you need to know about the fiscal cliff
+*   What Republicans need to do now
 
 More from The Week »
 
-*   What Joe Scarborough Would Look Like With Ten Famous...
-*   Mindy Meyer Got a Few Votes
-*   Jonathan Adler Is Trying Hard to Get a Drink Named After Him
+*   Gabby Giffords Set to Appear at Jared Loughner’s Sentencing
+*   Florida Still Figuring Out That Whole ‘Voting’ Thing
+*   Leslie Knope Will Finally Get a Shot With Joe Biden
 
 More from Daily Intel »
 
 *   The Short Sleeper, The Napper, The Snorer: Surprising Sleep...
-*   Have You Lost Your Peace of Mind? 5 Ways to Keep It
-*   Field Trial Results Guide DSM Recommendations
+*   Mental Health and Hurricane Sandy: What Can We Expect, What...
+*   Sleepless With Spot? How Your Pet Affects Your Sleep
 
 More from HuffPost Health »
 
-*   'Diamonds' Singer Rihanna's Top 7 Best Songs (VIDEOS)
-*   Kristen Stewart on Relationship With Robert Pattinson: 'I...
-*   Obama Wins: 10 Best Reelection Memes (GALLERY)
+*   Prince William, Kate Middleton Did Not Send ‘Personal Note’...
+*   Election 2012: Donald Trump Fires Back at Brian Williams,...
+*   Lady Gaga Dons Strapless Bikini Top, Waves to Fans in...
 
 More from Celebuzz »
 
-*   Women Offered Gas for Sex in Hurricane Sandy Aftermath
-*   'Teen Mom' Chelsea Houska Gets Parenting Help - So What?
-*   Miley Cyrus' Makeup-Free Look Is Rough but We Can Relate
+*   Mitt Romney's 'Victory' Website Offers a Frightening...
+*   8-Year-Old Youth Football League Star Is a Girl -- So What?...
+*   Lindsay Lohan Starring as Victim of Crazy Cop Conspiracy...
 
 More from The Stir »
 
-*   Ad of the Day: Whole Foods Market
-*   Don't Steal This Agency's Parking Spots, Unless You Want a...
-*   Is It Worth It? Notes on Life and Career From a Late Adman
+*   Perspective: Hey, Tough Guy
+*   Portrait: Hush
+*   Reckitt Benckiser Conducts Digital Search
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
