@@ -867,7 +867,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Vest &. Skid Plates
     
     *   New Kenny CostasPopular Categories: Yard Games   | Sunglasses   | Watersports
-*   Outlet
+*      Holiday Specials   
     
     *   Apparel
     *   Hunting Apparel
@@ -900,7 +900,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Gander Mountain
     *   Guide Series
     
-    *   Summer Blowout SaleOther Ways to Shop: On Sale   | Rebates   | Promos
+    Other Ways to Shop: On Sale   | Rebates   | Promos
 
   
 
