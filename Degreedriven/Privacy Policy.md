@@ -221,8 +221,6 @@ International Jobs
   
 Fun Stuff
 
-*   Monk-e-Mail
-*   Monk-e-Maker
-*   TV Commercial
+*   Jobology
 
 © 2012 CareerBuilder, LLC. All rights reserved. This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
