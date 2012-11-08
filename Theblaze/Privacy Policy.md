@@ -33,7 +33,7 @@ Take Action
 
 Watch Live: Obama Victory Speech
 
-Live BlazeCast at 1pm ET: So Now What? Post Election Wrap-up With Your Comments and Questions
+The Blaze Radio’s Severin: Obama Victory Is Not Terrible, It’s ‘Catastrophic’
 
 About TheBlaze
 
