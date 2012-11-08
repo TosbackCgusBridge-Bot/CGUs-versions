@@ -1,6 +1,6 @@
 Editions:
 
-Login or Register Username: Password: Keep me logged in Forgot Password? Don't have an account? Register Here.  
+  Login or Register Username: Password: Keep me logged in Forgot Password? Don't have an account? Register Here.  
 Official partner of the LIVESTRONG Foundation
 
 Our partner, the LIVESTRONG Foundation  
@@ -242,14 +242,14 @@ Your email is safe with us. We hate spam too!
 
 Featured this week on livestrong.com
 
-*   Nov 6, 2012 Run Without Pain  
+*   Nov 6, 2012 The Right (And Wrong)  
+    Ways To Warm Up
+*   Nov 5, 2012 Run Without Pain  
     For Life!
-*   Nov 5, 2012 'How The Gym Helped  
+*   Nov 4, 2012 'How The Gym Helped  
     
-*   Nov 4, 2012 The 'Better Booty'  
+*   Nov 3, 2012 The 'Better Booty'  
     Warmup Routine
-*   Nov 3, 2012 The 20 Best Foods  
-    For Smoothies
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
 
