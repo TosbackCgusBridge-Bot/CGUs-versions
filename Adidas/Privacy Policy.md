@@ -1,6 +1,6 @@
 **You can browse this site without having JavaScript enabled, but to experience the full benefits of the site, please enable JavaScript.**
 
-_free shipping_ on orders of $49
+_free ground shipping_ on all orders\*
 
 SIGN UP FOR EMAIL &. SAVE:
 
