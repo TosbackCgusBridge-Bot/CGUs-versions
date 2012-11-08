@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Hinduism
+*   Colorado Amendment 64
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-November 7, 2012 Edition: **U.S.**
+November 8, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ November 7, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Trump: It's A 'Total Sham,' Time For 'Revolution'12k
-    *   LIVE UPDATES: Election Results Roll In25k
-    *   LIVE UPDATES: Voters Hit The Polls On Election Day 26k
-    *   Obama Victory Speech: 'The Best Is Yet To Come'27k
-    *   Obama's Reelection Signals Rise Of New America16k
+    *   Trump: It's A 'Total Sham,' Time For 'Revolution'14k
+    *   Who Won The Popular Vote?3k
+    *   Obama Victory Speech: 'The Best Is Yet To Come'40k
+    *   Obama Defeats Romney In Presidential Election9k
+    *   Obama's Reelection Signals Rise Of New America17k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ November 7, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   4 CEOs That Threatened To Fire Workers If Obama Won1k
-    *   Stock Market Has Picked An Election Winner880
-    *   Walmart Busts Dumb Thief 119
-    *   CEOs Urging Employees To Vote Romney: 'This Election Is Different'811
-    *   Stocks Plunge As Europe Reveals Bad Economic News1k
+    *   What Obama And FDR Have In Common8k
+    *   Donald Trump's Tweets Deleted Following Post-Election Tirade4k
+    *   4 CEOs That Threatened To Fire Workers If Obama Won2k
+    *   LOOK: Upside Down Flag At McDonald's Raises Questions1k
+    *   14 Ways Pot Legalization Could Boost The Economy126
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ November 7, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   Victoria Jackson LOSES IT Over Obama's Win3k
-    *   Band Abruptly Cancels Tour, Citing 'Internal Discord'186
-    *   Is James Bond Bi? 'Skyfall' Screenwriter Discusses Controversial Scene209
-    *   Motorhead Frontman: Romney Is A 'F---ing Monster'1k
-    *   The Real Reason Sarah Jessica Parker Hosted Obama12
+    *   Victoria Jackson LOSES IT Over Obama's Win7k
+    *   Stacey Dash's 1,344 Words On The Election742
+    *   Band Abruptly Cancels Tour, Citing 'Internal Discord'243
+    *   The Real Reason Sarah Jessica Parker Hosted Obama52
+    *   The Best Bond Ever?123
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ November 7, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   Cell Phone Salesmen Allegedly Steal Nude Pics Of Customer While 'Transferring Data'322
-    *   The Most Popular Facebook Photo Ever19
-    *   Who Will Win The Election? 30
-    *   iPad Loses Ground To Rival Tablets 267
-    *   13 Dogs Who Committed Voter Fraud
+    *   The Most Popular Facebook Photo Ever36
+    *   The 7 Best Tweets From Election Night 2012 27
+    *   WATCH: Surface CRUSHES iPad In New Parody Video346
+    *   Scoot Over, Bieber18
+    *   Cell Phone Salesmen Allegedly Steal Nude Pics Of Customer While 'Transferring Data'350
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ November 7, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   Did Sean Hannity Just Break The Law?5k
-    *   Fox News Argues With Itself Over Whether Obama Won7k
-    *   WATCH: Brian Williams Condemns Donald Trump1k
-    *   Diane Sawyer Drunk Rumor Explodes On Twitter845
-    *   Nate Silver Takes A Victory Lap1k
+    *   Rush Limbaugh Reacts To Obama's Win13k
+    *   WATCH: Brian Williams Condemns Donald Trump2k
+    *   Diane Sawyer Drunk Rumor Explodes On Twitter1k
+    *   Matthews Addresses Controversial Hurricane Sandy Comments1k
+    *   Fox News Argues With Itself Over Whether Obama Won8k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ November 7, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   PHOTOS: World Watches Election Results Trickle In205
+    *   Divers Find Sunken Russian Ship Carrying Tons Of Gold Ore149
     *   World Reacts To Obama's Victory1k
-    *   Divers Find Sunken Russian Ship Carrying Tons Of Gold Ore32
-    *   Netanyahu Faces Rocky Road After Obama Re-Election1k
-    *   LOOK: Front Pages Around The World Mark Obama Victory29
+    *   LOOK: Front Pages Around The World Mark Obama Victory66
+    *   Netanyahu Faces Rocky Road After Obama Re-Election2k
+    *   LOOK: World Leaders Hail Obama's Victory131
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ November 7, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   10 Ways To Lower Your Blood Pressure Naturally19
-    *   Fit For Duty: How Obama And Romney Stack Up On BMI, Physical Fitness And More64
-    *   New Class Of Cholesterol Drugs Shows Promise In Trials
-    *   Sharon Osbourne Undergoes Double Mastectomy After Finding She Has Breast Cancer Gene78
-    *   How Much Exercise Does It Take To Burn Off A Coke?28
+    *   The Short Sleeper, The Napper, The Snorer: Surprising Sleep Habits Of Past Presidents79
+    *   10 Ways To Lower Your Blood Pressure Naturally36
+    *   10 Uplifting Books To Help You Through A Hard Day
+    *   Fit For Duty: How Obama And Romney Stack Up On BMI, Physical Fitness And More110
+    *   Could A Treatment For Peanut Allergy Be Coming Soon?17
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -173,11 +173,11 @@ November 7, 2012 Edition: **U.S.**
     *   OWN
 *   Style
     
-    *   PHOTOS: Michelle Obama Celebrates Barack's Second Election Victory In Style312
+    *   PHOTOS: Michelle Obama Celebrates Barack's Second Election Victory In Style368
     *   New Orleans Beauty Guru Posts Video Claiming She Was Raped By Her Father1k
-    *   PHOTO: Sarah Takes Us Back To 1989516
-    *   PHOTO: Michelle Obama Kills It In ASOS Africa32
-    *   PHOTOS: Ann Romney Finishes The Election In Red197
+    *   PHOTO: Sarah Takes Us Back To 1989613
+    *   PHOTO: Michelle Obama Kills It In ASOS Africa74
+    *   PHOTOS: Ann Romney Finishes The Election In Red280
     
     Go to Style **More in Style**
     
@@ -196,10 +196,10 @@ November 7, 2012 Edition: **U.S.**
 *   Comedy
     
     *   You'd Think Rick Santorum Understood Double Entendre By Now1k
-    *   'What The F\*ck Are You People Doing There?'1k
-    *   Tweets From Romney's Funniest Critic
-    *   The Best Political Memes Of The Year
-    *   'Claire McCaskill Has Legitimately Raped Todd Akin'267
+    *   'Claire McCaskill Has Legitimately Raped Todd Akin'482
+    *   7 Sites You Should Be Wasting Time On Right Now
+    *   Tweets From Romney's Funniest Critic16
+    *   Four More Years146
     
     Go to Comedy **More in Comedy**
     
@@ -216,11 +216,11 @@ November 7, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Now The Republican Hangover
-    *   Next The GOD Vote
-    *   Coming Up The Blame Game
-    *   Coming Up Gay Marriage Ballots Win
-    *   Coming Up Mr. Chairman....Go to HuffPost Live
+    *   Next China's Power Shift
+    *   Next Legalized It
+    *   Coming Up I Want To Be In America
+    *   Coming Up The L Word
+    *   Coming Up Tech Game ChangersGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
