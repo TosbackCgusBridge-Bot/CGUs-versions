@@ -1,5 +1,3 @@
-     
-
 *   CA  
 *   EU  
 *   UK  
@@ -7,359 +5,125 @@
 *   JP  
 *   CN  
 
-TRACK ORDER STORE LOCATOR US       0 ITEMS $0.00 SIGN IN / JOIN  
-    NEW ARRIVALS APPAREL ACCESSORIES SHOES BEAUTY SHOP BY LOVE 21 PLUS SIZES MENS GIRLS SALE BLOG BY CATEGORY         
+SIGN IN / JOIN GIFT CARDS MY BAG (**0**) $0.00   NEW ARRIVALS APPAREL ACCESSORIES SHOES BEAUTY SHOP BY LOVE 21 PLUS SIZES MENS GIRLS SALE BLOG
 
+*   SHOP ALL
 *   DRESSES
 *   TOPS
 *   SWEATERS &. CARDIGANS
 *   OUTERWEAR
 *   BOTTOMS
 *   JUMPSUITS &. ROMPERS
-*   ACTIVEWEAR
 *   LINGERIE
-*   SWIM
 *   ACCESSORIES
 *   SHOES
 *   BEAUTY
 
-BY FEATURE
+*   DRESSES
+*   TOPS
+*   SWEATERS &. CARDIGANS
+*   COATS &. JACKETS
+*   BLAZERS
+*   SWEATSHIRTS &. HOODIES
+*   DENIM
+*   PANTS
+*   SKIRTS
+*   SHORTS
+*   LEGGINGS
+*   JUMPSUITS &. ROMPERS
+*   ACTIVEWEAR
+*   PAJAMAS &. LOUNGEWEAR
+*   LINGERIE
 
-*   BACK IN STOCK
-*   STYLE DEALS
-*   NEW ARRIVALS
-*   FLASH DEALS
+*   SHOP ALL
+*   JEWELRY
+*   BAGS &. WALLETS
+*   HAIR ACCESSORIES
+*   HATS
+*   SCARVES &. GLOVES
+*   BELTS
+*   SUNGLASSES &. EYEWEAR
+*   SOCKS &. TIGHTS
+*   HOME &. GIFTS
 *   GIFT CARDS
 
-BY BRAND  
-
-*   FOREVER 21+ PLUS SIZES
-*   LOVE 21 CONTEMPORARY
-
-BY CATEGORY         
-
-*   **DRESSES**
-*   Casual
-*   Club
-*   Evening/Cocktail
-*   Maxi &. Midi
-*   Little Black Dresses
-*   Special Occasion
-
-*   **TOPS**
-*   Basics
-*   Knit Tops
-*   Blouses &. Shirts
-*   Graphic Tees &. Tanks
-*   Camis &. Tanks
-*   Dressy
-*   Tunics
-*   Sweatshirts &. Hoodies
-
- 
-
-*   **SWEATERS &. CARDIGANS**
-*   Short Sleeve
-*   Long Sleeve
-*   Cardigans
-*   Ponchos &. Shawls
-
-*   **OUTERWEAR**
-*   Leather &. PU Jackets
-*   Jackets
-*   Blazers
-*   Vests
-*   Coats
-*   Athletic
-
-*   **BOTTOMS**
-*   Jeans
-*   Pants
-*   Shorts
-*   Skirts
-*   Leggings
-
- 
-
-*   **JUMPSUITS &. ROMPERS**
-
-*   **ACTIVEWEAR**
-
-*   **LINGERIE**
-*   Bras &. Corsets
-*   Thongs
-*   Boyshorts &. Bikinis
-*   Sleep &. Lounge
-*   Lingerie Sets
-*   Lingerie Extras
-
-*   **SWIM**
-
-BY FEATURE
-
-*   NEW ARRIVALS
-*   BACK IN STOCK
-*   STYLE DEALS
-*   TOP RATED
-*   SHOP BY TREND
-*   SHOP BY OUTFIT
-*   ESSENTIALS
-*   FLASH DEALS
-*   ALMOST SOLD OUT
-*   SALE
-*   GIFT CARDS
-
-BY BRAND  
-
-*   FOREVER 21+ PLUS SIZES
-*   LOVE 21 CONTEMPORARY
-
-BY COLLECTION  
-
-*   EXCLUSIVE COLLECTION
-*   HELLO KITTY
-
-BY CATEGORY         
-
-*   **JEWELRY**
-*   Necklaces
-*   Earrings
-*   Bracelets
-*   Rings &. Pins
-*   Watches
-
-*   **BAGS &. WALLETS**
-*   Shoulder Bags
-*   Hobos
-*   Totes
-*   Clutches
-*   Wallets
-
-*   **HAIR ACCESSORIES**
-
-*   **HATS**
-
-*   **SCARVES &. GLOVES**
-
- 
-
-*   **BELTS**
-
-*   **EYEWEAR**
-*   Sunglasses
-*   Readers
-
-*   **LEGWEAR**
-*   Socks
-*   Tights
-
-*   **GIFT ITEMS**
-
-*   **GIFT CARDS/CERTIFICATES**
-
-BY FEATURE
-
-*   NEW ARRIVALS
-*   BACK IN STOCK
-*   STYLE DEALS
-*   SALE
-
-BY CATEGORY         
-
+*   SHOP ALL
 *   BOOTS
-*   HEELS &. WEDGES
+*   HEELS
+*   WEDGES
 *   FLATS
+*   SNEAKERS
 *   SANDALS &. FLIP FLOPS
-*   SLIPPERS
 
-BY FEATURE
+*   SHOP ALL
+*   NAILS
+*   EYES
+*   LIPS
+*   FACE
+*   SKINCARE
+*   FRAGRANCE &. BATH
+*   ACCESSORIES &. TOOLS
 
-*   NEW ARRIVALS
-*   STYLE DEALS
-*   SALE
-*   GIFT CARDS
-
-BY CATEGORY         
-
-*   **MAKEUP**
-*   Eyes
-*   Lips
-*   Face
-
-*   **NAILS**
-*   Nail Polish
-*   Nail Accessories
-
-*   **FRAGRANCE &. BATH**
-
-*   **SKINCARE**
-
-*   **ACCESSORIES**
-*   Cosmetic Bags
-*   Tools
-
-BY FEATURE
-
-*   NEW ARRIVALS
-*   STYLE DEALS
-*   SALE
-*   GIFT CARDS
-
-BY FEATURE
-
-*   TREND
 *   OUTFIT
-
-BY CATEGORY         
-
-*   **KNIT TOPS**
-
-*   **WOVEN TOPS**
-
-*   **DRESSES**
-
-*   **PANTS**
-
-*   **SKIRTS**
-
-*   **SHORTS**
-
-*   **DENIM**
-
-*   **OUTERWEAR**
-
-*   **SWEATERS**
-
-BY FEATURE
-
-*   NEW ARRIVALS
-*   SHOP BY OUTFIT
-*   SALE
-*   GIFT CARDS
-
-BY CATEGORY         
-
-*   **TOPS**
-*   Knit Tops
-*   Basics
-*   Graphic Tees
-*   Blouses &. Shirts
-
-*   **DRESSES**
-*   Club
-*   Casual
-
-*   **SWEATERS &. CARDIGANS**
-
-*   **OUTERWEAR**
-
- 
-
-*   **BOTTOMS**
-*   Jeans
-*   Pants
-*   Shorts
-*   Skirts
-*   Leggings
-*   Jumpsuits &. Rompers
-
-*   **LINGERIE**
-
-*   **SWIM**
-
-*   **ACCESSORIES**
-
-BY FEATURE
-
-*   NEW ARRIVALS
+*   TREND
+*   COLLECTIONS
+*      Essentials
+*      Exclusives
+*      Hello Kitty
+*   BACK IN STOCK
+*   TOP RATED
+*   ALMOST SOLD OUT
 *   STYLE DEALS
-*   SHOP BY OUTFIT
-*   ALMOST SOLD OUT
-*   SALE
-*   GIFT CARDS
+*   FLASH DEALS
 
-BY CATEGORY         
-
-*   **TOPS**
-*   Basics
-*   Graphic Tees
-*   Knit Tops
-*   Hoodies
-*   Sweaters &. Cardigans
-*   Woven Shirts
-
-*   **OUTERWEAR**
-*   Jackets
-*   Vests
-
-*   **BOTTOMS**
-*   Jeans
-*   Pants
-*   Shorts
-
- 
-
-*   **SUITS**
-*   Blazers
-*   Vests
-*   Dress Pants
-*   Dress Shirts
-
-*   **ACCESSORIES**
-*   Hats
-*   Sunglasses &. Readers
-*   Socks
-*   Ties &. Bowties
-*   Bags
-*   Belts
-*   Jewelry
-*   Other
-
-*   **SHOES**
-
-BY FEATURE
-
-*   NEW ARRIVALS
-*   STYLE DEALS
-*   SHOP BY OUTFIT
-*   ALMOST SOLD OUT
-*   SALE
-*   GIFT CARDS
-
-BY CATEGORY         
-
-*   **TOPS**
-*   Knit Tops
-*   Graphic Tees
-*   Blouses &. Shirts
-
-*   **DRESSES**
-
-*   **SWEATERS &. CARDIGANS**
-
-*   **OUTERWEAR**
-
-*   **BOTTOMS**
-*   Jeans
-*   Pants
-*   Shorts
-*   Skirts
-
-*   **ACCESSORIES**
-
-BY FEATURE
-
+*   SHOP ALL
 *   NEW ARRIVALS
 *   SHOP BY OUTFIT
-*   ALMOST SOLD OUT
-*   SALE
-*   GIFT CARDS
+*   DRESSES
+*   TOPS
+*   PANTS
+*   SKIRTS
+*   SHORTS
+*   DENIM
+*   COATS &. JACKETS
+*   SWEATERS
 
+*   SHOP ALL
+*   NEW ARRIVALS
+*   SHOP BY OUTFIT
+*   DRESSES
+*   TOPS
+*   DENIM
+*   PANTS
+*   SKIRTS
+*   LEGGINGS
+*   SWEATERS &. CARDIGANS
+*   OUTERWEAR
+
+*   SHOP ALL
+*   NEW ARRIVALS
+*   SHOP BY OUTFIT
+*   TOPS
+*   BOTTOMS
+*   BLAZERS &. VESTS
+*   JACKETS &. COATS
+*   ACCESSORIES
+*   SHOES
+
+*   SHOP ALL
+*   NEW ARRIVALS
+*   TOPS
+*   DRESSES
+*   SWEATERS &. CARDIGANS
+*   OUTERWEAR
+*   BOTTOMS
+*   ACCESSORIES
+
+*   SHOP ALL
 *   WOMEN
 *   PLUS SIZES
 *   MEN
 *   GIRLS
-*   STYLE DEALS
 *   FLASH DEALS
 
 *   NEW ARRIVALS
