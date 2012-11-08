@@ -73,11 +73,11 @@ What's Hot
 
 Sweeps Roundup
 
-_NCIS_ Cast Tells All
+Best Election Tweets
 
-Harrison Ford Returning to _Star Wars_?
+Alley Reveals Affair with Swayze
 
-_The Voice_ Playoffs
+Mega Buzz
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -113,11 +113,11 @@ For any questions, suggestions, or concerns related to this Privacy Policy, plea
   
 © 2011 Lionsgate Entertainment Inc. All rights reserved. Most Popular TV Shows
 
-1.  American Idol
+1.  Big Bang Theory
 2.  Dancing with the Stars
-3.  Bones
-4.  Revenge
-5.  NCIS
+3.  Person of Interest
+4.  Voice
+5.  Modern Family
 
 more popular tv shows Most Popular Celebrities
 
@@ -138,10 +138,10 @@ more popular celebrities Most Popular Movies
 more popular movies Top Videos
 
 1.  The Vampire Diaries
-2.  The Vampire Diaries
-3.  Hart of Dixie
+2.  Arrow
+3.  The Vampire Diaries
 4.  Lauren Graham's Watchlist
-5.  Peter Krause's Watchlist
+5.  Supernatural
 
 more top videos
 
