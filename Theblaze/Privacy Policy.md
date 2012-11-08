@@ -31,9 +31,9 @@ Sign In Sign Up
 
 Take Action
 
-Watch Live: Obama Victory Speech
+Developing: Pentagon Confirms Iran Fired on U.S. Drone — But Did Not Release Info Before Election
 
-The Blaze Radio’s Severin: Obama Victory Is Not Terrible, It’s ‘Catastrophic’
+Live BlazeCast at 1:30pm ET: Is the GOP really imploding?
 
 About TheBlaze
 
