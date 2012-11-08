@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Wall Street now has to mend fences with Obama
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: 'Super-Earth' alien planet may support life
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Joe Howell / AP Midseason report on all 32 teams
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Larry French / Getty Images Pretenders and contenders
     
-    Kacsmar: With 132 games in the books, we've crossed the midpoint. How has your team done? Where are they headed? Let’s review.
+    Kacsmar: As we reach the midpoint of the season, things only get slightly clearer on which teams are the best. We know who the worst teams are — here’s looking at you, Kansas City and Jacksonville — but that is the easy part. How do we sort out the playoff picture halfway through the season?
     
-    Slideshow: Our midseason All-Pro team Dan Patrick Show: Luck is out-shining Manning Kacsmar: Who are pretending, and contending? Kacsmar: Five biggest surprises of this season PFT: Bears might not have Tillman for Texans PFT Live: Tillman needs to family plan better PFT: Jimmy calls Jerry's GM claims 'a crock' PFT Live: Time for Jerry Jones to hire a GM? Ad
+    Midseason report for every team   |  All-Pro team Kacsmar: Five biggest surprises of this season Dan Patrick Show: Luck is out-shining Manning PFT: Bears might not have Tillman for Texans PFT Live: Tillman needs to family plan better PFT: Jimmy calls Jerry's control claims 'a crock' PFT Live: Time for Jerry Jones to hire a GM? PFT Live: Florio's Week 10 coaching hot seat Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Ezra Shaw / Getty Images When you see Hamilton, think A-Rod
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Darren Calabrese / AP Yankees want Rivera to take a cut
     
-    Trash Talk: Texas is home to the most egregious example of reckless spending in baseball.
+    HBT: The Yankees reportedly are expected to ask Mariano Rivera to take a “significant paycut” as part of a new contract.
     
-    HBT: Orioles to make a run at Josh Hamilton HBT: Hamilton wants $175M? Good luck, guy DeMarco: Bargains to be had in free agent market HBT: Hamilton, Greinke among top 50 free agents HBT: Mariners and Rockies still can't smoke pot HBT: Weiss leads Matt Williams for Rockies job HBT: Brewers signing Greinke is a 'long shot' HBT: Darvish won't play in World Baseball Classic Ad
+    HBT: Finalists announced for MLB awards HBT: Rockies hire Weiss as manager MLB considering wider expansion of instant replay GMs discussing head protection for pitchers Trash Talk: When you see Hamilton, think A-Rod Ryan no gut feel on Hamilton future with Rangers HBT: O's to make a run at Hamilton  |  M's, too? HBT: Padre catcher suspended 50 games for PEDs Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Bruce Bennett / Getty Images Meetings close, will resume Wed.
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Chris Young / AP NHL, NHLPA talks continue
     
-    PHT: League, players' association set to resume talks, which may be a good sign when it comes to the labor stoppage ending.
+    PHT: Sides meet for almost six hours. negotiations will continue Thursday.
     
-    NHL, union back to bargaining for 2nd straight day NHL owners, players negotiating again PHT: Finally, both sides agree on something PHT: Why would Luongo want to play for Toronto? PHT: Jokinen headed back to Finland, for now PHT: Vanek leaves Austria, returns to Buffalo PHT: Michigan will get Winter Classic in '14 PHT: Fehr explains NHL 'make whole' concession Ad
+    CSN: Owners, players finally working together CSN: NHL deal won't be appealing to either side PHT: Luongo to Leafs? Cherry puzzled PHT: Won't somebody think of the beer companies? PHT: Three reasons fans might not come back PHT: Canucks to retire Bure's number NHL.com: Injury-prone Bure displayed elite skills NHL.com: Quiet steadiness defined Sakic's career Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines NBC Sports Inside Harden's OKC exit
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines NBC Sports LeBron making the Knicks better?
     
-    SportsTalk: Adrian Wojnarowski shines light on the controversial circumstances surrounding James Harden's trade to Houston, and updates Steve Nash's injury status and Kobe Bryant's future plans.
+    SportsTalk: Erik Kuselias and Knicks beat writer Frank Isola discuss if LeBron James' extensive resume has Carmelo Anthony playing with a new fire to attain the same goals as his friend.
     
-    PBT: Blake picked the wrong guy to cuss at LeBron thanks Ohio for delivering for Obama PBT: Noah, Afflalo, Faried stars of the night CSN: Bulls edge Magic (with video highlights) CSN: Bulls may be fine without Rose? PBT: Obama hooped with Pippen on election day PBT: Griffin playing with burst bursa sac on elbow Hornets coach fined $25K for concussion comments Ad
+    Nets simply no match for Heat LeBron thanks Ohio for delivering for Obama PBT: Panic time as Lakers fall to 1-4 Trash Talk: Most vital Laker stat — health Clippers hand Spurs first defeat CSN: Harden struggles in Rockets' loss to Nuggets CSN: Celtics clip Wizards in OT CSN: 76ers hold Hornets to record-low 62 points Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines NBC Sports Will Klein play in Week 11?
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Sean Gardner / Reuters No slowing the rising Tide
     
-    SportsTalk: Pat Forde handicaps the Heisman race and updates Kansas State QB Collin Klein's injury status and what it means for the Wildcats against TCU.
+    CFT's Predictions 101: It's been a good season so far for Johnny Manziel and No. 15 Texas A&M, but they're simply no match for No. 1 'Bama.
     
-    CFT: New Orleans to host '14 ‘Champions Bowl’ Late TD costs No. 23 Toledo in loss to Ball State California may use backup QB vs. No. 2 Oregon CFT: Ducks, Irish flip in BCS standings Kelly will let others worry about BCS debate CFT: USC launches Lee's Heisman campaign Special feature: Heisman Hopefuls CSN: Golson getting longer leash with No. 4 ND Ad
+    No. 8 FSU expecting Va. Tech's best performance Special feature: Heisman Hopefuls CFT: USC launches Lee's Heisman campaign USC manager fired for deflating balls in loss Which undefeated team is on upset alert? SportsTalk: Will Klein play Saturday? CFT: Petrino in line to coach at Kentucky? CFT: Richt to have hip surgey in offseason Ad
+*   NCAA HOOPS
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Andy Lyons / Getty Images Who can cage these Wildcats?
+    
+    CBT: Kentucky lost nearly everyone from its 2012 title team, but it's still No. 3 in our preseason Top 25. How is that possible? We break it down.
+    
+    Moore: Shorter shot clock wouldn't mean better hoops Missouri senior guard Dixon remains suspended CBT: Tarkanian's son loses House race in Nevada CBT: Our preseason NCAA tourney projections CBT: Which All-American will flop this season? AD: NCAA accepts Texas Tech-imposed penalties CBT: Two Indiana freshmen suspended 9 games CBT: Battle of the Midway moved to Sunday Ad
 *   Motors
     SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Tom Pennington / Getty Images Keselowski not feeling pressure
     
     Brad Keselowski recognizes how fortunate he is to be racing at NASCAR's top level, and uses the kind of joke a guy would tell his buddy over a beer as a metaphor for the situation he finds himself in.
     
     In The Pits: Final finish saved sluggish race Johnson holds off Keselowski to win at Texas Hannah Storm goes in-depth with 4 NASCAR stars Jimmie Johnson, NASCAR giving to Sandy efforts Vickers to run for Nationwide title with JGR Lotus say Raikkonen's win shows they are serious Danica will have to get used to 'old man' Danica's 1 regret about bumping Cassill: execution Ad
-*   NCAA HOOPS
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Andy Lyons / Getty Images Our preseason tourney projections
-    
-    CBT: Make way for the Big Ten. Led by No. 1 overall seed Indiana, four teams – including Michigan State, Ohio State, and Michigan – grab top three seeds in our NCAA Tournament preseason bracket projection.
-    
-    CBT: Which is the best team in Kentuckiana? CBT: Tarkanian's son loses House race in Nevada CBT: Which All-American will flop this season? CBT: Two Indiana freshmen suspended 9 games CBT: Battle of the Midway moved to Sunday No. 13 UCLA preparing without Muhammad Conference previews for men's 2012-'13 season CBT: What top 25 team misses the tournament? Ad
-*   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Q-School DQ: Barber's nine days of doubt
-    
-    Blayne Barber knew he had a tough decision to make. Continue his effort to earn his PGA Tour card – or live with underlying guilt.
-    
-    Rory: Equipment news coming in a 'few weeks' Players take to Twitter to comment on presidential election Scott challenges Tiger and anchoring ban Mickelson optimistic after overcoming mid-season slump McIlroy struggles to find balance with work, play Lots of players fighting for their careers at Disney Power Rankings: CMN Hospitals Classic G-Mac: Rory's mega-deal not just about money Hall of Fame instructor Flick dies at 82 Notes: Love not interested in Champions Tour yet Nike unveils new driver, noncommital on McIlroy Understand impact and create forward shaft lean Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Mike Stobe / Getty Images Will Red Bulls close it out?
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Marcio Jose Sanchez / AP Galaxy gets the job done
     
-    PST's preview of NY-DC asks all the tough questions, including how Rafa Marquez's odd behavior continues to impact the team.
+    PST: Robbie Keane scored two goals and Mike Magee added another as Los Angeles beat San Jose 3-1 to complete a 3-2 aggregate victory in the teams' Western Conference semifinal series.
     
-    PST: Previewing Dynamo-Sporting KC PST: Galaxy-Earthquakes playoff preview PST: Sounders' Johnson ready, Rosales in doubt Millwall ban 13-year-old fan for racist abuse Struggling Liverpool faces difficult trip to Anzhi PST: Analysis of Tuesday's Champions League results Man City, Real Madrid earn draws in Champs League Spain leads, Argentina rises in FIFA rankings Ad
+    PST: Dynamo defeated, but still advances Highlights: Great header by Sporting KC PST: Playoff preview — Seattle at Salt Lake PST: United-Red Bulls game postponed by snow De Rosario on the chilly weather conditions Barcelona loses, Man United advances in wild night PST: A look at Wednesday's Champions games US opens final WCup qualifying round at Honduras Ad
+*   Golf
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Bjorn leads in Singapore as weather halts play
+    
+    Thomas Bjorn fired 5-under 66 to take the early Day 1 lead at the Barclays Singapore Open before play was suspended due to weather.
+    
+    Rory: Equipment news coming in a 'few weeks' Bjorn leads in Singapore as weather halts play Lefty on potential anchoring ban: 'Grossly unfair' Players take to Twitter to comment on presidential election Featured pairings: CMN Hospitals Classic Scott challenges Tiger and anchoring ban Compton gets Zaharias Courage Award at Disney McIlroy struggles to find balance with work, play Report: Bevacqua to replace Steranka as PGA CEO Lots of players fighting for their careers at Disney G-Mac: Rory's mega-deal not just about money Hall of Fame instructor Flick dies at 82 Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Giovanni Auletta / AP Vonn to miss World Cup slalom opener
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines AP White to seek treatment for alcohol
     
-    Lindsey Vonn has decided to skip the first World Cup slalom of the season in Finland this weekend, choosing instead to prepare for home races in Colorado later this month.
+    Gold medal snowboarder will seek alcohol treatment in order to settle public intoxication and vandalism charges.
     
-    OlympicTalk: Wrestler stripped of medal 7 American gold medalists who still can't vote OlympicTalk: Japan’s Yamaguchi swimming TOO fast OlympicTalk: Martha Karolyi won't quit Team USA OlympicTalk: Is Bolt the world's best athlete? AP Source: Wrestler stripped of Olympic medal OlympicTalk: Lolo picked for bobsled team OlympicTalk: Lolo says she can outrace Denard Ad
+    Sochi to feature figure skating team event OlympicTalk: Vonn skipping Cup slalom opener OlympicTalk: Torres, other Olympians make 'fittest' slideshow OlympicTalk: Uzbekistani wrestler stripped of medal 7 American gold medalists who still can't vote OlympicTalk: Japan’s Yamaguchi swimming TOO fast OlympicTalk: Martha Karolyi won't quit Team USA OlympicTalk: Is Bolt the world's best athlete? Ad
 *   More
-    SectionsOther sports Off the Bench Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines NBC Sports Utah girl a star in youth football
+    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines NBC Sports Utah girl a star in youth football
     
     Video: Dan Patrick and company talk about Sam Gordon, the little girl from Utah outplaying all the boys in her youth football program.
     
-    Presidential candidates and sports Big names in sports thrown for losses by voters The lineup for sports on election night Castrodale: Some pleas for the president The Week in Sports Pictures PhotoBlog: Six boys and one skateboard OTB: Throw-in to the face — once, twice Pursuit of the Cup: Fort Larned's Classic surprise Ad
+    Wiggins hospitalized after colliding with car Newton TD celebration gets prep star ejected Big names in sports thrown for losses by voters The lineup for sports on election night Castrodale: Some pleas for the president The Week in Sports Pictures PhotoBlog: Six boys and one skateboard OTB: Throw-in to the face — once, twice Ad
 
 *   Scores
 *   Odds
@@ -185,8 +185,9 @@ New York, NY
 *   Print
 
 Tweet Also on NBCSports.com PFT: Falcons top power rankings  |    NFC South rising?  
-  SportsTalk: Inside James Harden's OKC exit  
+CFT's Predictions 101: No slowing rising Tide  
 CBT: Big-name players who could flop  |  Future stars  
+HBT: Finalists announced for MLB awards  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
