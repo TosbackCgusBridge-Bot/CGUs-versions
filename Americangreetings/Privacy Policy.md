@@ -33,7 +33,6 @@ become a fan AG twitters!
     Innovative ecards to send, share or post
     
     *   **Holidays**
-    *   election day
     *   veterans day
     *   diwali
     *   thanksgiving
