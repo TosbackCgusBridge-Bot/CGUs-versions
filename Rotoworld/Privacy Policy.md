@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Red Sox have 'reached out' to Hiroki Kuroda
+*   Red Sox 'have eye on' righty Anibal Sanchez
+*   Jays reach three-year, $9M deal with Izturis
+*   Red Sox have interest in Choo and Masterson
+*   Mets discussing trades involving R.A. Dickey
+*   Cashman: 'We're not trading Alex Rodriguez'
+*   Jaime Garcia (shoulder) on 'the right track'
+*   Boston considering Mike Napoli for first base
+*   Yanks can only do one-year deal with Hunter
+*   O's unlikely to land free agent Josh Hamilton
 *   Rockies select Walt Weiss as next manager
 *   Joakim Soria looking for multi-year contract
-*   Red Sox no longer in running for Justin Upton
-*   BoSox, Rangers interested in Adam LaRoche
-*   Heyman: Mariners could pursue Josh Hamilton
-*   Jair Jurrjens drawing some trade interest
-*   Dickey says talks with Mets have progressed
-*   Torii Hunter generating 'a lot of interest'
-*   Report: Zack Greinke looking for $150M deal
-*   Matusz had surgery for torn abdominal muscle
-*   D'Backs may listen to offers for Trevor Bauer
-*   Guthrie said to be seeking three years, $34M
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
-*   Jonesing for Reece Nov 8
+*   Week 10 Rankings Nov 8
 *   Week 10 Target Watch: AFC Nov 8
+*   Jonesing for Reece Nov 8
+*   Matchup: Colts @ Jaguars Nov 8
 *   Week 10 Target Watch: NFC Nov 7
 *   Getting Defensive: Week 10 Nov 7
 *   NFL Midseason All-Pro Team Nov 7
-*   Matchup: Colts @ Jaguars Nov 7
 *   Three Rivers to Run Nov 7
-*   Best Available NFL Free Agents Nov 7
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Nicks' swelling is gone, vows to play Sunday
+*   Nerve damage behind Calvin Johnson's drops?
+*   DeMarco Murray returns to individual drills
+*   Report: 'Very doubtful' Harvin plays vs. DET
+*   Titus Young misses second straight practice
+*   Donnie Avery expected to play Thursday night
+*   Steelers will start Mendenhall once healthy
+*   Taiwan Jones running w/ starters in practice
 *   Peterson (ankle) practicing in full for Vikes
 *   Bryant a full participant in Cowboys practice
 *   Marshawn Lynch misses practice on Wednesday
 *   Aaron Hernandez returns to Patriots practice
-*   Titans expect Locker to start versus Dolphins
-*   Eagles officially place RT Herremans on I.R.
-*   Darren McFadden not practicing Wednesday
-*   Stevie Johnson not practicing Wednesday
-*   Owen Daniels misses practice with hip issue
-*   Donald Brown (knee) officially questionable
-*   Matt Cassel will make another start on Monday
-*   Vikings now consider Percy Harvin day to day
 
 NBA PAGES
 
@@ -134,14 +134,14 @@ NBA PAGES
 
 COLUMNS
 
+*   NBA Live Chat Thursday Nov 8
+*   Dose: Big Wednesday Nov 8
 *   Dose: Kyle Lowry Lowdown Nov 7
 *   Dose: Waiters Explosion Nov 6
 *   Dose: Josh Smith iffy w/ ankle Nov 5
 *   NBA chat: Monday @ 12:30 ET Nov 4
 *   Wired: NBA Hot Pickups! Nov 4
 *   Davis Goes Down Nov 3
-*   Lillard Ready for Liftoff Nov 2
-*   Parker beats OKC at buzzer Nov 2
 
 PREMIUM CONTENT
 
@@ -156,6 +156,9 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Bogut (ankle) to be shut down for 7-10 days
+*   Davis (concussion) hopes to play Friday
+*   Al Jefferson iffy for Friday w/ stomach virus
 *   David Lee posts big line despite flu
 *   Greg Monroe posts big triple-double in loss
 *   Al-Farouq Aminu grabs 16 rebounds in loss
@@ -165,9 +168,6 @@ FANTASY BASKETBALL NEWS
 *   Byron Mullens hits six 3-pointers in loss
 *   Anderson Varejao (knee) out for Wednesday
 *   Shannon Brown hits six treys in win
-*   Marcin Gortat goes for 23, 10 &. 7 blocks
-*   Eric Gordon to go to L.A. for knee treatment
-*   Josh McRoberts starting at SF for Magic
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Report: PA expects league response to offers
+*   Niklas Hjalmarsson agrees to play in Italy
+*   KHL teams want to keep Ovechkin, Kovalchuk
+*   Henrik Lundqvist not close to playing in SEL
+*   Tyler Seguin longs for NHL action
+*   Ryan: Sport can't afford to lose a season
 *   CBA talks end, will resume Thursday
 *   NHL not committed to term limits on deals
 *   Scott Gomez is really joining ECHL's Aces now
 *   Cody Hodgson (hand) will miss a couple weeks
 *   AHL gives Andrew Shaw a six-game suspension
 *   Mikhail Grigorenko has been a force in junior
-*   J. Brodin undergoes surgery. out 2-3 months
-*   Maxime Talbot signs on in Finland
-*   NHL, NHLPA will resume talks on Wednesday
-*   ECHL Bulls sign Sharks winger Ryane Clowe
-*   Mikael Granlund (ankle) out 2-4 weeks
-*   David Clarkson, Enstrom haven't left EBEL yet
 
 NASCAR PAGES
 
@@ -285,6 +285,10 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Bogey-free Beljan co-low on Magnolia Course
+*   C. Villegas buries 8 birdies. co-leads CMNHC
+*   Stenson low man at Magnolia in opening round
+*   Red-hot Gainey takes control at Disney World
 *   Holmes WDs from Disney. solid season ends
 *   Barber's DQ benefits Lafeber, five others
 *   Reed to play Disney. multiple goals in sight
@@ -293,10 +297,6 @@ FANTASY GOLF NEWS
 *   Oosthuizen fades. settles for 54-hole co-lead
 *   Westwood matches career low to lead WGC-HSBC
 *   Snedeker cards 60 in his third round in China
-*   McDowell admits having dust-up...with a door
-*   Hanson will accept 2013 PGA TOUR membership
-*   Oosthuizen separates in WGC-HSBC second round
-*   Scott closes birdie-birdie-eagle to co-lead
 
 NFL DRAFT PAGES
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   NFL will conduct 10 regional combines
+*   Buckeyes LB Sabino hopes to play vs Badgers
+*   Kiffin: WR Marqise Lee practicing on defense
+*   Minn DT Hageman will consider move to NFL
+*   Joeckel now top prospect for Rang &. Brugler
+*   D.J. Swearinger practicing at CB for SoCar
 *   Cal QB Zach Maynard carted off practice field
 *   McShay: Trojans WR Woods top slot prospect
 *   Phillips, not O'Brien, will start for Badgers
 *   Auburn G: Not that hard to stop Jarvis Jones
 *   McShay: Dion Jordan now 13th overall prospect
 *   Dee Milliner may be top Bama player drafted
-*   Hogan supplants Nunes as Stanford's QB
-*   Vaz will start over Mannion versus Stanford
-*   Clowney may need offseason foot surgery
-*   NFL Scouts on Barkley: This is the top guy?
-*   Despite knee injury, DT HIll is 'day-to-day'
-*   Denard, Gardner will split reps in practice
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NBA:Greg Monroe posts big triple-double in loss
-*   MLB:Rockies select Walt Weiss as next manager
-*   MLB:Red Sox no longer in running for Justin Upton
-*   MLB:BoSox, Rangers interested in Adam LaRoche
-*   NBA:Byron Mullens hits six 3-pointers in loss
-*   NFL:Peterson (ankle) practicing in full for Vikes
-*   NFL:Bryant a full participant in Cowboys practice
-*   NFL:Marshawn Lynch misses practice on Wednesday
-*   NFL:Aaron Hernandez returns to Patriots practice
-*   NFL:Titans expect Locker to start versus Dolphins
-*   MLB:Cards have 'real' interest in Tribe's Cabrera
-*   MLB:Grandal suspended 50 games for testosterone
+*   MLB:Red Sox have 'reached out' to Hiroki Kuroda
+*   NFL:Report: 'Very doubtful' Harvin plays vs. DET
+*   NFL:Nicks' swelling is gone, vows to play Sunday
+*   NFL:DeMarco Murray returns to individual drills
+*   MLB:Jays reach three-year, $9M deal with Izturis
+*   MLB:Mets discussing trades involving R.A. Dickey
+*   NFL:Titus Young misses second straight practice
+*   NFL:Donnie Avery expected to play Thursday night
+*   MLB:Cashman: 'We're not trading Alex Rodriguez'
+*   MLB:Boston considering Mike Napoli for first base
+*   NFL:Steelers will start Mendenhall once healthy
+*   NBA:Bogut (ankle) to be shut down for 7-10 days
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. SprolesNFL (7710)
-*   2D. McFaddenNFL (7237)
-*   3D. BrownNFL (6734)
-*   4J. DwyerNFL (6541)
-*   5D. BryantNFL (6117)
+*   1D. SprolesNFL (8116)
+*   2D. McFaddenNFL (7690)
+*   3D. BrownNFL (7369)
+*   4J. DwyerNFL (6968)
+*   5D. BryantNFL (6347)
 
-*   6J. NelsonNFL (6113)
-*   7M. ReeceNFL (5874)
-*   8K. SeraphinNBA (5852)
-*   9I. RedmanNFL (5755)
-*   10P. HarvinNFL (5656)
+*   6M. ReeceNFL (6289)
+*   7J. NelsonNFL (6284)
+*   8K. SeraphinNBA (6175)
+*   9P. HarvinNFL (6142)
+*   10I. RedmanNFL (6113)
 
   
 Video Center
@@ -526,6 +526,10 @@ Video Center
 *   »
 
 *      
+    NBA: Hot fantasy starts
+*      
+    Start or Sit: Colts - Jaguars
+*      
     Week 10's top pickups
 *      
     Start or Sit: Eagles - Saints
@@ -537,41 +541,37 @@ Video Center
     Week 9 Starts &. Sits 1 p.m.
 *      
     Start or Sit: Saints - Broncos
-*      
-    Week 8 Starts &. Sits 4 p.m.
-*      
-    Week 8 Starts &. Sits 1 p.m.
 
   
   
-  Headlines Jonesing for Reece  
-Nov 8 Jeff Ratcliffe takes a look at the Raiders' RB situation and checks in on the Eagles offensive line woes, Jake Locker, and Percy Havin in Thursday's Dose.  
+  Headlines Week 10 Rankings  
+Nov 8 Chris Wesseling has all of your Week 10 rankings in Goal Line Stand. Send out the trade offers for C.J. Spiller before it's too late.  
   
 More NFL Columns
 
-*   »Jonesing for Reece Nov 8
+*   »Week 10 Rankings Nov 8
 *   »Week 10 Target Watch: AFC Nov 8
+*   »Jonesing for Reece Nov 8
+*   »Matchup: Colts @ Jaguars Nov 8
 *   »Week 10 Target Watch: NFC Nov 7
 *   »Getting Defensive: Week 10 Nov 7
 *   »NFL Midseason All-Pro Team Nov 7
-*   »Matchup: Colts @ Jaguars Nov 7
 *   »Three Rivers to Run Nov 7
-*   »Best Available NFL Free Agents Nov 7
 
 NFL Headlines
 
+*   »Nicks' swelling is gone, vows to play Sunday
+*   »Nerve damage behind Calvin Johnson's drops?
+*   »DeMarco Murray returns to individual drills
+*   »Report: 'Very doubtful' Harvin plays vs. DET
+*   »Titus Young misses second straight practice
+*   »Donnie Avery expected to play Thursday night
+*   »Steelers will start Mendenhall once healthy
+*   »Taiwan Jones running w/ starters in practice
 *   »Peterson (ankle) practicing in full for Vikes
 *   »Bryant a full participant in Cowboys practice
 *   »Marshawn Lynch misses practice on Wednesday
 *   »Aaron Hernandez returns to Patriots practice
-*   »Titans expect Locker to start versus Dolphins
-*   »Eagles officially place RT Herremans on I.R.
-*   »Darren McFadden not practicing Wednesday
-*   »Stevie Johnson not practicing Wednesday
-*   »Owen Daniels misses practice with hip issue
-*   »Donald Brown (knee) officially questionable
-*   »Matt Cassel will make another start on Monday
-*   »Vikings now consider Percy Harvin day to day
 
 NFL Links
 
