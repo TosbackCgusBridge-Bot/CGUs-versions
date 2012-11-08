@@ -1,9 +1,8 @@
-Log in Donate Watch Practice Coach Volunteer About
+Sign up Log in Donate Watch Practice Coach Volunteer About
 
 *   Math
     *   Arithmetic and Pre-Algebra
     *   Algebra
-    *   Applied Math
     *   Geometry
     *   Trigonometry
     *   Probability
@@ -12,6 +11,7 @@ Log in Donate Watch Practice Coach Volunteer About
     *   Calculus
     *   Differential Equations
     *   Linear Algebra
+    *   Applied Math
     *   Brain Teasers
     *   Vi Hart
 *   Science
