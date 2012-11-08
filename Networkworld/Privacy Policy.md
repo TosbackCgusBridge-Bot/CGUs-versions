@@ -26,6 +26,7 @@ Skip Links
 *   HP + Microsoft Data Management Appliances &. Architectures
 *   Network World Accelerating the Cloud Challenge
 *   Network World Data Center Challenge 2012
+*   Network World Mobility Management Challenge 2012
 *   Network World Next Generation Firewall Challenge
 *   Network World Wi-Fi Challenge
 *   Riverbed Accelerate Business Performance Solution Center
