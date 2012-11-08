@@ -1,4 +1,4 @@
-Search Our Store Recipes &. Meals Healthy Living Blog Grocery Delivery Safeway Privacy Policy (United States) Introduction  
+Search Our Store Recipes &. Meals Healthy Living Blog Grocery Delivery Thanksgiving Savings Safeway Privacy Policy (United States) Introduction  
 Safeway Inc. is committed to providing our customers with the finest quality and service. This commitment includes protecting the privacy of your information. You can be confident that we have safeguards to protect the personal information you give us. The World of Safeway  
 In order to facilitate access to the products and services we offer, Safeway operates many retail outlets as well as mobile application(s) and several websites directly and through its related companies and service providers. Our family of web sites includes:  
 www.safeway.com www.dominicks.com www.randalls.com www.vons.com www.pavilions.com www.tomthumb.com www.safewayfoundation.org www.carrsqc.com  
