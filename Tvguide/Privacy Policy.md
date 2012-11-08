@@ -73,11 +73,11 @@ What's Hot
 
 Sweeps Roundup
 
+Thursday Night Football
+
 Best Election Tweets
 
-Alley Reveals Affair with Swayze
-
-Mega Buzz
+Kirstie Alley: I Had an Affair with Patrick Swayze
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -138,10 +138,10 @@ more popular celebrities Most Popular Movies
 more popular movies Top Videos
 
 1.  The Vampire Diaries
-2.  Arrow
-3.  The Vampire Diaries
-4.  Lauren Graham's Watchlist
-5.  Supernatural
+2.  The Vampire Diaries
+3.  Arrow
+4.  Arrow
+5.  Lauren Graham's Watchlist
 
 more top videos
 
