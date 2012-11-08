@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** President Obama wins four more years as America delivers decisive verdict
-2.  2\. **News:** Karl Rove chastises Fox News for calling Ohio for Obama
-3.  3\. **Comment:** Mitt Romney lost because hardline Republicans betrayed him | Simon Tisdall
-4.  4\. **News:** Barack Obama's victory speech – video
-5.  5\. **News:** Donald Trump launches Twitter tirade over Barack Obama's victory
+1.  1.  **Life &. style:** How to cook the perfect fried egg
+2.  2\. **Football:** Celtic shock Barcelona with goals from Victor Wanyama and Tony Watt
+3.  3\. **News:** Anger in Athens as Greek austerity measures passed
+4.  4\. **Sport:** Bradley Wiggins in hospital with rib injuries after being hit by van
+5.  5\. **Comment:** Sienna Miller nude: pregnancy is now a fig leaf for artists painting nakedness | Jonathan Jones
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Fashion:** How to dress: wearing your jacket as a cape - video
-2.  **News:** Barack Obama's victory speech – video
-3.  **Books:** Great American novels – quiz
-4.  **News:** Republicans contemplate Romney loss as Florida tallies votes – US politics live
-5.  **Comment:** Mitt Romney lost because hardline Republicans betrayed him | Simon Tisdall
+1.  **Childrens' books:** Eddie Izzard: curious characters and Christmas wishes
+2.  **Politics:** Andrew Mitchell quizzed on aid to Rwanda: Politics live blog
+3.  **Technology:** Bram Stoker books: a Google doodle that really sucks
+4.  **Science:** Bionic hand makes amputee 'feel human again' – video
+5.  **News:** Robbers on motorcycles ride into Brent Cross shopping centre - CCTV video
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Chelsea v Shakhtar Donetsk – live!
-2.  2\. Celtic v Barcelona – live!
-3.  3\. Braga v Manchester United – live!
-4.  4\. Yoko Ono named Meltdown festival curator
-5.  5\. Violent scenes outside Athens parliament as tens of thousands hold austerity protest - live
+1.  1.  Justin Welby went to Eton – of course he understands misery | Andrew Brown
+2.  2\. Birmingham prison staff wounded in fracas with inmate
+3.  3\. Andrew Mitchell quizzed on aid to Rwanda: Politics live blog
+4.  4\. Inadequate health systems damage the growth of developing nations
+5.  5\. Picture desk live: the best news pictures of the day
 6.  All today's stories
 
 On the Guardian today
 
 1.  World news Barack Obama's victory speech – video
-2.  World news Binyamin Netanyahu faces risk of 'payback' after Barack Obama victory
-3.  World news Republicans contemplate Romney loss as Florida tallies votes – US politics live
-4.  World news Mitt Romney's concession speech – video
-5.  Comment is free Mitt Romney lost because hardline Republicans betrayed him
-6.  World news Barack Obama wins second term – reaction as it happened
+2.  Comment is free Barack Obama's odyssey continues
+3.  Comment is free Obama and progressives: what will liberals do with their big election victory?
+4.  World news Anger in Athens as Greek austerity measures passed
+5.  World news Mitt Romney's concession speech – video
+6.  World news Binyamin Netanyahu faces risk of 'payback' after Barack Obama victory
 
 *   License/buy our content
 |*   Privacy policy
