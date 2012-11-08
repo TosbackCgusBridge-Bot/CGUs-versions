@@ -228,35 +228,35 @@ New York, New York 10016
 
 Upcoming Sales
 
-*   Exclusive Hotels by Lexus
-    
-    Starting Today 11/7 at 3pm EST
-    
-*   The Palms - Las Vegas
-    
-    Starting Today 11/7 at 4pm EST
-    
 *   Le Meridien Philadelphia
     
-    Starting Thursday 11/8 at 3pm EST
+    Starting Today 11/8 at 3pm EST
     
 *   Hutton Hotel - Nashville
     
-    Starting Thursday 11/8 at 3pm EST
+    Starting Today 11/8 at 3pm EST
     
 *   Hotel on Rivington - New York
     
-    Starting Thursday 11/8 at 3pm EST
+    Starting Today 11/8 at 3pm EST
     
 *   La Quinta Troppo - Mexico
     
-    Starting Thursday 11/8 at 3pm EST
+    Starting Today 11/8 at 3pm EST
     
 *   Mr. C Beverly Hills
     
-    Starting Thursday 11/8 at 3pm EST
+    Starting Today 11/8 at 3pm EST
+    
+*   Exclusive Hotels by Lexus
+    
+    Starting Today 11/8 at 3pm EST
     
 *   Terranea Resort - California
+    
+    Starting Friday 11/9 at 3pm EST
+    
+*   Vail Cascade - Colorado Vail, Colorado
     
     Starting Friday 11/9 at 3pm EST
     
