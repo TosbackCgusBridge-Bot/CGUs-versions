@@ -187,7 +187,6 @@ globo.com
     
     *   \+ entretenimento
         *   Bem Estar
-        *   Canal Viva
         *   Casa e Jardim
         *   Casa Vogue
         *   Crescer
@@ -204,6 +203,7 @@ globo.com
         *   Receitas.com
         *   Telecine
         *   Top TVZ
+        *   Viva
         *   Vogue
     *   mais entretenimento ›
 *   tecnologia página principal › techtudo.globo.com
