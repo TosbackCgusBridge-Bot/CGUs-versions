@@ -40,11 +40,11 @@ Mattress Giant | Mattress Online | Bed Furniture Search this site... Find 0 item
     *   Sheets
     *   Bed-in-a-Bag
     *   Duvets
+    *   Futon Covers
     *   Comforters &. Blankets
     *   Daybed Bedding
     *   Bedding Accessories
     *   Kids Bedding
-    *   Futon Covers
 *   **Furniture**
     *   Bed Frames
     *   Headboards &. Footboards
