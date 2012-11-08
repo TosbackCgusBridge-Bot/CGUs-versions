@@ -290,7 +290,6 @@ Safe &. Secure Shopping
 Top Searches
 
 *   Lego
-*   Halloween 2012
 *   Monster High
 *   Skylanders
 *   Doc McStuffins
