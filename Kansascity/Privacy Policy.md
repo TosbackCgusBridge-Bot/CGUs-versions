@@ -134,28 +134,32 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Shawnee Optix. $30 for $200 Towards Frames and Lenses. Over 2000 Frames to choose from! $30 Value: Discount: You Save: $200 85% $170
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $39 -- 6 Video to DVD Transfers ($99 value) $39 Value: Discount: You Save: $99 61% $60
 
-Wednesday: Hen House, HyVee, Price Chopper Deals Price Chopper
+Thursday: Wal Mart, Sunfresh Deals Wal Mart
 
-*   Fresh Gourmet Croutons 5-oz., Selected Varieties - 2/$3 or $1.50 each
-*   Kellogg’s Cereals 10.5-13.7-oz. Corn Flakes, Frosted Flakes or Raisin Bran - $1.99
-*   Green Giant Vegetables 14.5-15.25-oz., Selected Varieties - 2/$0.88 or $0.44 each
+*   Advil PM 4ct - $0.97
+*   Buddig 2oz package - $0.50
+*   Carefree Liners - $0.97
 *   more...
 
-1.  FIELD TECHNICIAN
+1.  PARALEGAL
     
-2.  Maintenance Supervisor
+    GREGORY LEYH, P.C.
     
-    Robert's Dairy
+2.  SALES
     
-3.  PLUMBER/DRAIN CLEANER
+3.  CAMPAIGN JOBS
     
-    Snake'n'Rooter
+    Grassroots Campaigns, Inc.
     
-4.  Press &. Lamination Operators
+4.  Apartment Maintenance Tech Part Time
     
-5.  PROGRAM DIRECTOR
+    Georgetown Apartments
+    
+5.  Parts Project Coordinator
+    
+    Central Power Systems &. Services, Inc.
     
 6.  OPERATING MANAGER
     
@@ -165,16 +169,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Analysis: Todd Akin can blame his own words for Senate race loss
-*   Missouri voters say no to tobacco tax hike
-*   Prominent KC lawyer is disbarred
-*   ABC's Diane Sawyer spurs jokes from Twitterverse
-*   Senate race offers one final twist: A decisive McCaskill win
-*   Two states say yes to gay marriage. two OK legal marijuana
-*   On social media: Obamas victory speech. Twitters 20-million-tweet day. Romney concedes
-*   Chiefs decision to release Routt baffles his agent
-*   With Routt gone, Arenas is the next man up at cornerback
-*   FedEx plane crashes south of Wichita Mid-Continent Airport. Lawrence man dead
+*   Colorados vote to legalize marijuana fires up doubters
+*   Celebrity election reaction: Donald Trump, Ted Nugent, Mariah Carey
+*   Quinn, still out of Chiefs lineup, says he ignored concussion signs
+*   Jessica Ridgeway’s family takes issue with group
+*   Roethlisberger senses Haleys desire to beat Chiefs
+*   Can status quo crowd find post-election compromise?
+*   Royals interested in Guthrie but looking elsewhere as he gauges free-agent market
+*   Election locks in Obamacare  but not scores of details
+*   Zebra mussels found in Wyandotte County Lake
+*   Its all about family for K-State linebacker Arthur Brown Jr.
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
