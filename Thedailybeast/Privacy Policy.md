@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  Second-Term Surprise
-2.  R.I.P. Romney
-3.  Obama’s Reality Check
-4.  Let’s All Get Stoned
-5.  Who’s Skewed Now?
+1.  Fortunate One
+2.  Second-Term Surprise
+3.  Who’s Skewed Now?
+4.  Five Amazing Fox News Freak-Outs
+5.  Let’s All Get Stoned
 
   Other News Entertainment
 
-*   Stars Who Shun the Spotlight
-*   Celebs With Surprising Ages
-*   Miranda Kerr on Sexy Moms: It Doesn't Mean You Have to Let Yourself Go
+*   Stars Attend the 2012 Victoria's Secret Fashion Show
+*   Week in Photos for Nov. 9, 2012
+*   Undressed 2012: The Year (So Far) in Celebrity Fashion Faux Pas
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
-*   New York Comedy Fest kicks off tonight: Patton Oswalt explains how it’ll make Sandy funny
-*   How should Han Solo die in the new ‘Star Wars’?
+*   Diane Warren’s melodies head to Broadway
+*   Hey girl, watch Mario channel Ryan Gosling in ‘Mario Kart’/'Drive’ mashup — VIDEO
+*   Google goes gothic in new Doodle: Happy Birthday, Bram Stoker
 *   **Get More from EW.com**
 
 Entertainment
 
-*   The Donald Problem
-*   Biden: Democrats Have A Mandate To Raise Taxes On The Rich
-*   Yep, Google Looks Different Now
+*   Career Confidential: The Animal Behaviorist Who Rescues And Trains Pit Bulls
+*   New Hampshire Elects Nation's First Out Trans Lawmaker
+*   How Would You React To Sexual Harassment?
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Obama Campaign Surprised at Quick Call
-*   Romney Meets with Donors After Defeat
-*   Clinton vs. Bush in 2016?
+*   Romney Campaign Concedes Florida
+*   Rachel Maddow Has the Last Word
+*   The House Could Stay in GOP Hands for a Long Time
 *   **Get More from Political Wire**
 
 The Daily Beast
