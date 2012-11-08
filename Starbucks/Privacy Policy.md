@@ -112,8 +112,9 @@ Navigation
         1.  Starbucks Digital Network
     3.  Mobile Applications
         
-        1.  Starbucks Android App
-        2.  Starbucks iPhone App
+        1.  Starbucks for Android
+        2.  Square Wallet
+        3.  Starbucks for iPhone
     4.  Online Community
         
         1.  MyStarbucksIdea.com
@@ -134,9 +135,9 @@ Navigation
     *   Whole Bean Coffees
     *   About Us
     
-    **The new Android™ App**
+    **Pay with Your Phone**
     
-    See how the fastest way to pay just got better.
+    The Square Wallet app has come to Starbucks.
     
 4.  1.  Community
         
@@ -214,7 +215,7 @@ Navigation
     
     Looking for Starbucks Mobile Applications?
     
-    *   Mobile Applications
+    *   Mobile Apps
     
     **In Honor of Autumn**
     
