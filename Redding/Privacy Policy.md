@@ -270,25 +270,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Triumphant Obama: 'We have picked ourselves up' Updated 11/6/2012 at 7:24 p.m. 347 comments
-*   UPDATED: Shasta County polls close, turnout appeared strong Updated 11/6/2012 at 1:56 p.m. 68 comments
-*   UPDATED: Pregnant woman, man hurt in head-on collision on I-5 Updated 11/6/2012 at 7:19 p.m. 14 comments
-*   Shasta County supervisors say they don't have resources to battle pot growers Published 11/7/2012 at 12:36 a.m. 49 comments
-*   UPDATED: Shasta Lake father sentenced today in daughter's death Updated 11/6/2012 at 3:14 p.m. 35 comments
+*   Triumphant Obama: 'We have picked ourselves up' Updated 11/6/2012 at 7:24 p.m. 441 comments
+*   Shasta County supervisors say they don't have resources to battle pot growers Published 11/7/2012 at 12:36 a.m. 86 comments
+*   UPDATE: Two arrested in Shasta Lake medical marijuana robbery Updated 11/7/2012 at 10:25 a.m. 41 comments
+*   UPDATE: Man arrested after driving through traffic accident closure, police say Updated 11/7/2012 at 9:18 p.m. 22 comments
+*   Obama re-elected to second term as president Published 11/7/2012 at 1:52 a.m. 67 comments
 
-Photo Galleries People rally Monday at corner of… Kool April Nights Redding Raley's protests
+Photo Galleries People rally Monday at corner of… Fallis Around Town Kool April Nights
 
-*   Triumphant Obama: 'We have picked ourselves up' Published 11/6/2012 at 7:24 p.m. 347 comments
-*   Bob Williams: Is insanity the new normal, or the old? Published 11/5/2012 at 12:00 a.m. 205 comments
-*   UPDATED: Union workers strike at Raley's supermarket chain. members picketing at both Redding stores Published 11/4/2012 at 11:20 a.m. 172 comments
+*   Triumphant Obama: 'We have picked ourselves up' Published 11/6/2012 at 7:24 p.m. 441 comments
+*   Bob Williams: Is insanity the new normal, or the old? Published 11/5/2012 at 12:00 a.m. 207 comments
 *   Judy Pearson: Voter disgusted with the choices Published 11/6/2012 at 12:00 a.m. 89 comments
+*   Shasta County supervisors say they don't have resources to battle pot growers Published 11/7/2012 at 12:36 a.m. 86 comments
 *   UPDATED: Shasta County polls close, turnout appeared strong Published 11/6/2012 at 6:57 a.m. 68 comments
 
 *   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
+*   More than 80,000 lbs. of walnuts stolen. Tehama deputies say delivery driver is the suspect Published 10/29/2012 at 11:27 a.m. 23 comments
 *   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 122 comments
 *   Wild horse, burro adoption falls short. economic factors leave trail of uncertainty Published 11/4/2012 at 6:52 p.m. 11 comments
-*   More than 80,000 lbs. of walnuts stolen. Tehama deputies say delivery driver is the suspect Published 10/29/2012 at 11:27 a.m. 23 comments
-*   Siskiyou County Sheriff Jon Lopey says he's fighting to protect rural America Published 11/3/2012 at 7:36 p.m. 59 comments
+*   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Published 10/31/2012 at 4:55 p.m. 65 comments
 
 Weather
 
@@ -296,25 +296,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 66° Fair Wind: Calm Today 72° 44° Thu 12:00 AM Mostly Cloudy Showers Temp: 50° Thu 12:00 PM Mostly Cloudy Showers Temp: 53° Fri 12:00 AM Mostly Cloudy Showers Temp: 43°
+Currently 53° Overcast Wind: Calm Today 55° 39° Thu 05:00 PM Mostly Cloudy Showers Temp: 47° Fri 05:00 AM Mostly Cloudy Showers Temp: 40° Fri 05:00 PM Mostly Cloudy Showers Temp: 46°
 
-Feels Like: 50°
+Feels Like: 47°
 
-Humidity: 71%
+Humidity: 79%
 
-Precip: 15%
+Precip: 72%
 
-Feels Like: 53°
+Feels Like: 40°
 
-Humidity: 59%
+Humidity: 93%
 
-Precip: 75%
+Precip: 47%
 
-Feels Like: 41°
+Feels Like: 46°
 
-Humidity: 89%
+Humidity: 80%
 
-Precip: 58%
+Precip: 32%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -330,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Wednesday Nov 7
 *   Thursday Nov 8
 *   Friday Nov 9
+*   Saturday Nov 10
 *   More BROWSE Icon
-
-*   Pre-Stuff the Truck Thanksgiving Food Drive (Nov 7-14) Holiday Inn 7 a.m.
-*   Healthy Kids, Healthy Planet Preschool Day Turtle Bay Exploration Park 9 a.m.
-*   NAMI Shasta County Peer to Peer Classes Contact for Location Information 1 p.m.
-*   Conservation Easements: An Informational Workshop Western Shasta Resource Conservation District 1 p.m.
-*   Pets Without Partners Roundup Fundraiser Logan's Roadhouse - Redding 5 p.m.
-
-More Events »
 
 *   Forgotten Foods and Medicinal Plants of Shasta County Grilla Bites - Redding 6 p.m.
 *   Allison and Victor concert Dogwood Diner 6:30 p.m.
@@ -356,6 +348,14 @@ More Events »
 *   West Coast Biennial Art Exhibition, Competition Turtle Bay Exploration Park 9 a.m.
 *   Historical Walk, Early Bridges and Other Doings See Description 5 p.m.
 *   University Preparatory School musical 'Thoroughly Modern Millie' David Marr Auditorium (Shasta Learning Center) 7 p.m.
+
+More Events »
+
+*   20th Annual Veterans Day Parade - Shasta Lake City See Description 6 a.m.
+*   Veterans Memorial Hall Christmas Bazaar and Craft Fair Redding Veterans Memorial Hall 8 a.m.
+*   Semi Annual Jewelry Sale Another Chance Animal Welfare League Adoption Center and Thrift Store 9 a.m.
+*   United Methodist Women annual Holiday Bazaar First United Methodist Church, Redding 9 a.m.
+*   Trinity Alliance Church Holiday Craft Fair Trinity Alliance Church 10 a.m.
 
 More Events »
 
