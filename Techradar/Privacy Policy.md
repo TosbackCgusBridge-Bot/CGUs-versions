@@ -10,7 +10,7 @@ Future Publishing - Media With Passion AOP Consumer Digital Publisher of the Yea
 *   Responsibility
 *   Contact
 
-You are here: Future plc >. Privacy Policy Privacy Policy
+You are here: Future plc >. Privacy Policy Privacy Policy Privacy Policy
 
 1**. Introduction**: This website is operated by Future Publishing Limited (“**Future**“, “**we**” or “**us**“). Future is committed to protecting the privacy of your personal information whilst striving to provide the very best user experience. We want our websites to be safe and enjoyable for everyone. Under the Data Protection Act 1998 and related laws, we have a legal duty to protect the personal information we collect from you.
 
@@ -18,7 +18,7 @@ If you have any concerns, questions or comments about this privacy policy or the
 
 2\. **The types of personal information we collect and how we collect it**:
 
-**Information you provide upon registration**: in order to make use of certain services provided through the website such as the forums and email newsletters, you will need to register an account with us. When you do so, you will provide us with information about yourself and you will be able to select how we use your information for marketing purposes. You can update your marketing preferences at any time by following the instructions to amend your details in the account registration section. We will only use your information in accordance with your instructions and as set out in this privacy policy.
+**Information you provide upon registration**: in order to make use of certain services provided through the website such as the forums and email newsletters, you will either need to: (a) register an account with us. When you do so, you will provide us with information about yourself and you will be able to select how we use your information for marketing purposes. (b) log in using a social media account of your choice. When you do so, we will be provided with certain information about you from the social media site, as specified when you log in. You will be able to select how we use your information for marketing purposes. You can update your marketing preferences at any time by following the instructions to amend your details in the account registration section. We will only use your information in accordance with your instructions and as set out in this privacy policy.
 
 **Information you provide upon ordering a product or service from us**: if you order a product or service from us, you will need to provide certain personal details so that the order can be fulfilled. In some cases, we will direct you to a third party partner site which will collect this information from you and fulfill your order.
 
@@ -42,7 +42,7 @@ We own the information we collect through this website. We will use it, as appli
 *   contact you regarding your registered account with us;
 *   confirm or fulfill an order you have submitted
 *   inform you if you have won a prize
-*   monitor or improve the performance of, and products and services available through, this website
+*   monitor or improve the performance of,and products and services available through, this website
 *   customise the advertising and content that you see
 *   monitor compliance with our terms and conditions of use of this website, enforce our rights and protect the safety of others including investigating and if necessary removing any content about which we receive a complaint
 *   send you promotional materials or special offers on our behalf or on behalf of our group companies and marketing partners. If you do not want to receive this marketing information you can notify us of this as part of the registration process. You can stop receiving this information at any time by following the unsubscribe instructions on the correspondence you receive, by amending your marketing preferences, or by emailing futurenet-webmaster@futurenet.co.uk, giving your email address and details of the information you no longer wish to receive
@@ -54,7 +54,7 @@ By providing us with your personal information, you consent to us: (a) processin
 
 4**. Who we may share your personal information with**
 
-**Agents:** we use third parties to perform certain functions on our behalf including fulfilling orders, sending emails, organising and managing competitions, promotions, surveys or polls, removing repetitive information from customer lists, website analysis, data analysis and processing credit card payments. They will have access to your personal information if necessary to perform their function but they cannot use it or disclose it for any other purpose, unless you have specifically given them consent to do so.
+**Agents:** we use third parties to perform certain functions on our behalf including fulfilling orders, sending emails, organising and managing competitions, promotions, surveys or polls, removing repetitive information from customer lists, comment hosting, website analysis, data analysis and processing credit card payments. They will have access to your personal information if necessary to perform their function but they cannot use it or disclose it for any other purpose, unless you have specifically given them consent to do so.
 
 **Aggregate Information**: we may share aggregate, non-personally identifiable information, such as demographics and website usage statistics, with advertisers, sponsors and other organisations.
 
@@ -72,11 +72,11 @@ By providing us with your personal information, you consent to us: (a) processin
 
 **7\. Security**: In accordance with our requirements under the Data Protection Act 1998, we will adopt appropriate security procedures to help prevent unauthorised access to your information. Neither Future nor any of its group companies shall be liable for any attempt to hack or crack or otherwise gain access to any part of this website including any of your information.
 
-8**. A note for parents concerning privacy**: this website is a general audience website. On the website, we do not currently knowingly collect any personal information from children under the age of sixteen. If, in the future, we collect personally identifiable information from children on the Website, we will do so in compliance with all relevant laws and regulations including, without limitation, obtaining parental consent where necessary. The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit www.google.co.uk/goodtoknow/familysafety and the GetNetWise websiteto learn more about parental control tools.
+8**. A note for parents concerning privacy**: this website is a general audience website. On the website, we do not currently knowingly collect any personal information from children under the age of sixteen. If, in the future, we collect personally identifiable information from children on the Website, we will do so in compliance with all relevant laws and regulations including, without limitation, obtaining parental consent where necessary. The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit www.google.co.uk/goodtoknow/familysafety and the GetNetWise website to learn more about parental control tools.
 
 **9\. Policy changes**: By using this website you agree to the terms of this privacy policy and our terms of use. We may amend this privacy policy and the terms of use from time to time. If we do so, we will post an updated version on this website. You will be bound by the new terms upon your continued use of this website.
 
-**10\. Questions about this website and the information we hold about you**: if you have any general questions about this website or the information we have collected about you and how we use it, you can contact the Future New Media Team at Future Publishing Limited, Beauford Court, 30 Monmouth Street, Bath, BA1 2BW, telephone 00 44 1225 442244, email futurenet–webmaster@futurenet.co.uk. If you have any questions about your information including what we hold and how it is used, you can contact us at futurenet-webmaster@futurenet.co.uk. You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected.
+**10\. Questions about this website and the information we hold about you**: if you have any general questions about this website or the information we have collected about you and how we use it, you can contact the Future New Media Team at Future Publishing Limited, Beauford Court, 30 Monmouth Street, Bath, BA1 2BW, telephone 00 44 1225 442244, email futurenet-webmaster@futurenet.co.uk. If you have any questions about your information including what we hold and how it is used, you can contact us at futurenet-webmaster@futurenet.co.uk. You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected.
 
 Footer
 
