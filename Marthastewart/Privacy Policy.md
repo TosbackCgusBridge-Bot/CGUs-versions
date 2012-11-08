@@ -191,8 +191,9 @@ Give a Gift Subscription Today!
     *   Investor Relations
     *   Public Relations
     *   Community Relations
-    *   Careers
     *   Martha Stewart Foundation
+    *   International
+    *   Careers
     *   Privacy Policy
     *   Terms of Use
 *   Partners
