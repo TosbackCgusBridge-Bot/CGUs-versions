@@ -1,30 +1,31 @@
-Language
+Text Only
 
-*   English
-*   Français
-*   Español
-*   Deutsch
-*   日本語
-*   中文(简体)
-*   Italiano
-*   Português
+*   Sign In to SPG.com
+*   Help 
+    *   1-800-328-6242
+    *   Reservations
+    *   Online Chat
+    *   Email
+    *   All Options
+*   Our Brand Sites 
+*   Language 
+    *   English
+    *   Français
+    *   Español
+    *   Deutsch
+    *   日本語
+    *   中文(简体)
+    *   Italiano
+    *   Português
 
-*   HOME
-*   OVERVIEW
-*   NEWS
-*   INVESTOR  
-    RELATIONS
-*   MANAGEMENT  
-    PROFILES
-*   COMPANY  
-    VALUES
-*   CAREERS
-*   NEW HOTELS
-*   CONTACT US
+*   Book &. Stay
+*   Our Company
+*   Careers
+*   Travel Professionals _starwoodpro.com_
+*   Meeting Planners _starwoodmeetings.com_
+*   Developers _development.starwoodhotels.com_
 
-  
-  
-  
+Hotel Directory New Hotels Resorts Customer Service Reservations Destination Sites Vacation Ownership Best Rate Guarantee Advanced Search Offers Residences Sign In to SPG.com  Go to SPG.com  Join now 
 
 Starwood Hotels &. Resorts Worldwide, Inc. Online Privacy Statement
 
@@ -290,8 +291,590 @@ Back to Top
 
   
   
-  Best Rate Guarantee | Starwood Hotels Careers | Hotel Directory | Website Terms of Use | Updated Privacy Statement | Top Destinations North America Atlanta HotelsBoston HotelsCaribbean HotelsChicago HotelsDallas HotelsHawaii HotelsHouston HotelsLos Angeles HotelsMexico HotelsMiami HotelsMontreal HotelsNew Orleans HotelsNew York City HotelsOrlando HotelsPhiladelphia HotelsSan Diego HotelsSan Francisco HotelsScottsdale HotelsSeattle HotelsToronto HotelsWashington DC Hotels Central &. South America Buenos Aires HotelsSantiago Hotels Europe &. Middle East Dubai HotelsLondon HotelsMadrid HotelsMunich HotelsParis HotelsRome Hotels Asia Pacific Bangkok HotelsBeijing HotelsHong Kong HotelsMumbai HotelsShanghai HotelsSydney HotelsTokyo Hotels | Text Only   You are on Other Starwood Brands >. | Four Points Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Starwood Preferred Guest Starwood Hotels Learn about our brands Starwood Hotels &. Resorts
+
+*   Find &. Book
+    *   Starwood Preferred Guest
+    *   Hotel Directory
+    *   Reservations
+    *   New Hotels
+    *   SPG Resorts
+    *   Top Destinations
+    *   Best Rate Guarantee North America Atlanta HotelsBoston HotelsCaribbean HotelsChicago HotelsDallas HotelsHawaii HotelsHouston HotelsLos Angeles HotelsMexico HotelsMiami HotelsMontreal HotelsNew Orleans HotelsNew York City HotelsOrlando HotelsPhiladelphia HotelsSan Diego HotelsSan Francisco HotelsScottsdale HotelsSeattle HotelsToronto HotelsWashington DC Hotels Central &. South America Buenos Aires HotelsSantiago Hotels Europe &. Middle East Dubai HotelsLondon HotelsMadrid HotelsMunich HotelsParis HotelsRome Hotels Asia Pacific Bangkok HotelsBeijing HotelsHong Kong HotelsMumbai HotelsShanghai HotelsSydney HotelsTokyo Hotels
+    *   Help
+*   Offers
+    *   All Offers
+    *   Resort Offers
+    *   Spa Offers
+    *   Partner Offers
+    *   Golf Offers
+    *   Beach Offers
+    *   Weekend Offers
+    *   Starpoints® Offers
+*   Media &. Investors
+    *   News
+    *   Company Overview
+    *   Investor Relations
+    *   Global Citizenship
+    *   Service Commitment
+    *   Leadership
+*   Sites &. Services
+    *   Careers
+    *   Meeting Planners
+    *   Travel Professionals
+    *   Developers
+    *   Government &. Military
+    *   Auto Clubs
+    *   Starwood Vacation Ownership
+    *   Residences
+
+Destination Guides
+
+*   UNITED STATES
+    *   Alabama
+        *   Birmingham
+        *   Huntsville
+    *   Alaska
+        *   Anchorage
+    *   Arizona
+        *   Phoenix
+        *   Scottsdale
+        *   Tempe
+        *   Tuscon
+    *   Arkansas
+        *   Rogers
+    *   California
+        *   Anaheim
+        *   Los Angeles
+        *   Ontario
+        *   Orange County
+        *   Palm Springs
+        *   Pasadena
+        *   Pleasanton
+        *   Sacramento
+        *   San Diego
+        *   San Francisco
+        *   Silicon Valley
+        *   Wine Country
+    *   Colorado
+        *   Denver
+    *   District of Columbia
+        *   DC Metro Area
+        *   Washington, D.C.
+    *   Florida
+        *   Clearwater beach
+        *   Fort Lauderdale
+        *   Fort Lauderdale Cruise Port Hotels
+        *   Fort Walton Beach
+        *   Hollywood, FL
+        *   Jacksonville
+        *   Key West
+        *   Miami
+        *   Orlando
+        *   Punta Gorda
+        *   Tallahassee
+        *   Tampa
+    *   Georgia
+        *   Atlanta
+        *   Augusta
+        *   Buckhead
+        *   Savannah
+    *   Hawaii
+        *   Big Island
+        *   Kauai
+        *   Maui
+        *   Oahu
+    *   Illinois
+        *   Chicago
+    *   Indiana
+        *   Indianapolis
+    *   Lousiana
+        *   New Orleans
+    *   Maryland
+        *   Annapolis
+        *   Baltimore
+        *   BWI Airport
+        *   National - Harbor
+    *   Massachusetts
+        *   Boston
+    *   Michigan
+        *   Detroit
+    *   Minnesota
+        *   Minneapolis
+    *   New Mexico
+        *   Albuquerque
+    *   New York
+        *   Brooklyn
+        *   Metro New York Hotels
+        *   New York Airport hotels
+        *   New York City
+    *   Oregon
+        *   Portland
+    *   Pennsylvania
+        *   Philadelphia
+        *   Pittsburgh
+    *   South Carolina
+        *   Charleston
+        *   Columbia
+        *   Greenville
+        *   Hilton Head Island
+        *   Myrtle Beach
+    *   Tennessee
+        *   Chattanooga
+        *   Knoxville
+        *   Memphis
+        *   Nashville
+    *   Texas
+        *   Austin
+        *   Dallas
+        *   Houston
+        *   San Antonio
+    *   Virginia
+        *   Alexandria
+        *   Arlington
+        *   Dulles Airport
+        *   Norfolk
+        *   Reston
+        *   Richmond
+        *   Virginia Beach
+    *   Washington
+        *   Seattle
+*   CARIBBEAN
+    *   Bahamas
+        *   Nassau
+    *   Cayman islands
+        *   Grand Cayman
+    *   Puerto Rico
+        *   Caguas
+        *   Rio Grande
+        *   San Juan
+        *   Vieques Island
+    *   Virgin Islands
+        *   St John
+*   AFRICA
+    *   Algeria
+        *   Oran
+    *   Cameroon
+        *   Douala
+    *   Chad
+    *   Djibouti
+    *   Egypt
+    *   Ethiopia
+    *   Gabon
+    *   Indian Ocean
+    *   Libya
+    *   Mauritius
+    *   Morocco
+    *   Senegal
+    *   Seychelles
+        *   Mahe
+    *   South Africa
+        *   Capetown
+        *   Pretoria
+    *   Tunisia
+    *   Uganda
+*   ALBANIA
+    *   Tirana
+*   ARGENTINA
+    *   Buenos Aires
+    *   Cordoba
+    *   Iguazu
+    *   Mar del Plata
+    *   Mendoza
+    *   Salta
+*   ASIA PACIFIC
+*   AUSTRALIA
+    *   New South Wales
+        *   Katoomba
+        *   Sydney
+    *   Queensland
+        *   Gold Coast
+        *   Noosa Heads
+        *   Port Douglas
+    *   Victoria
+        *   Geelong
+        *   Melbourne
+*   AUSTRIA
+    *   Dornbirn
+    *   Salzburg
+    *   Vienna
+*   BELGIUM
+    *   Brussels
+*   BRAZIL
+    *   Curitiba
+    *   Macaé
+    *   Porto Alegre
+    *   Rio de Janeiro
+    *   Sao Paulo
+*   CAMBODIA
+    *   Siem Reap
+*   CANADA
+    *   Alberta
+        *   Calgary
+        *   Edmonton
+    *   Bristish Columbia
+        *   Vancouver
+        *   Victoria
+        *   Whistler
+    *   Ontario
+        *   Ottawa
+        *   Toronto
+    *   Quebec
+        *   Montreal
+*   CHILE
+    *   Anhui
+    *   Los Angeles
+    *   Santiago
+    *   Villarrica
+    *   Vina del Mar
+*   CHINA
+    *   Anhui
+        *   Hefei
+        *   Huangshan
+    *   Bejing
+    *   Changsha
+    *   Chongqing
+    *   Dalian
+    *   Fujian
+        *   Fuzhou
+        *   Xiamen
+    *   Guangdong
+        *   Dongguan
+        *   Foshan
+        *   Guangzhou
+        *   Heshan
+        *   Huizhou
+        *   Qingyuan
+        *   Shantou
+        *   Shenzhen
+        *   Shunde
+        *   Zhanjiang
+        *   Zhongshan
+    *   Guangxi
+    *   Guilin
+    *   Guizhou
+        *   Guiyang
+    *   Hainan
+        *   Haikou
+        *   Sanya
+        *   Wanning
+    *   Hefei
+    *   Heibei
+    *   Heilongjiang
+        *   Daqing
+    *   Henan
+        *   Kaifeng
+        *   Luohe
+        *   Zhengzhou
+    *   Hohhot
+    *   Hong Kong
+    *   Hubei
+        *   Wuhan
+    *   Hunan
+        *   Changsha
+    *   Inner Mongolia
+        *   Erdos
+        *   Hohhot
+    *   Jiangsu
+    *   Jiangxi
+        *   Nanchang
+    *   Jilin
+        *   Baishan
+    *   Lhasa
+    *   Liaoning
+    *   Macau
+    *   Shaanix
+    *   Shandong
+    *   Shanghai
+    *   Shanxi
+    *   Shenyang
+    *   Sichuan
+        *   Chengdu
+        *   Jiuzhaigou
+        *   Leshan
+    *   Suzhou
+    *   Tianjin
+    *   Tibet
+    *   Urumqi
+    *   Xian
+    *   Xinjiang
+    *   Yunnan
+        *   Diqing
+        *   Jinghong
+    *   Zhejiang
+        *   Hangzhou
+        *   Huzhou
+        *   Ningbo
+        *   Pinghu
+        *   Qiandao Lake
+        *   Taizhou
+        *   Wenzhou
+        *   Zhoushan
+*   COLUMBIA
+    *   Bogota
+    *   Cali
+    *   Medellin
+*   COSTA RICA
+    *   Playa Conchal
+    *   San Jose
+*   CROATIA
+    *   Split Podstrana
+*   CYPRUS
+*   CZECH REPUBLIC
+*   ECUADOR
+    *   Guayaquil
+    *   Quito
+*   EL SALVADOR
+    *   San Salvador
+*   FIJI
+    *   Nadi
+*   FRANCE
+    *   Nice
+    *   Paris
+*   GERMANY
+    *   Berlin
+    *   Cologne
+    *   Dresden
+    *   Dresseldorf
+    *   Essen
+    *   Frankfurt
+    *   Hamburg
+    *   Hanover
+    *   Leipzig
+    *   Munich
+    *   Nuremberg
+    *   Struttgart
+    *   Weimar
+*   GREECE
+    *   Athens
+    *   Costa Navarino
+    *   EloundaCrete
+    *   Mykonos
+    *   Rhodes
+    *   Santorini
+*   GUATEMALA
+    *   Guatemala City
+*   HUNGARY
+*   INDIA
+    *   Andhra Pradesh
+        *   Hyderabad
+        *   Visakhapatnam
+    *   Goa
+    *   Gujarat
+        *   Ahmedabad
+    *   Haryana
+        *   Chandigarh
+        *   Faridabad
+        *   Gurgaon
+        *   Sohna
+    *   Karnataka
+        *   Bangalore
+        *   Mysore
+    *   Kerala
+        *   Cochin
+    *   Maharashtra
+        *   Lonavala
+        *   Mahabaleshwar
+        *   Mumbai
+        *   Pune
+    *   New Delhi
+    *   Punjab
+        *   Amritsar
+    *   Rajasthan
+        *   Jaipur
+        *   Udaipur
+    *   Tamil Nadu
+        *   Chennai
+        *   Coimbatore
+    *   Uttar Pradesh
+        *   Agra
+        *   Noida
+    *   West Bengal
+        *   Kolkata
+*   INDONESIA
+    *   Bali
+        *   Jimbaran
+        *   Kuta
+        *   Nusa Dua
+        *   Seminyak
+        *   Ubud
+    *   East Java
+        *   Surabaya
+    *   Jakarta
+    *   Lampung
+        *   Bandar
+    *   West Java
+        *   Bandung
+    *   West Nusa
+        *   Lombok
+    *   Yogyakarta
+*   ISRAEL
+    *   Tel Aviv
+*   ITALY
+    *   Florence
+    *   Milan
+    *   Naples
+    *   Port Cervo
+    *   Rimini
+    *   Rome
+    *   Venice
+*   JAPAN
+    *   Aichi
+        *   Nagoya
+    *   Chiba
+        *   Urayasu
+    *   Hiroshima
+        *   Hiroshima City
+    *   Hokkaido
+        *   Sapporo
+    *   Hyogo
+        *   Awaji
+        *   Kobe
+    *   Kanagawa
+        *   Yokohama
+    *   Kyoto
+    *   Miyagi
+        *   Sendai
+    *   Miyazaki
+    *   Osaka
+    *   Tokyo
+*   JORDAN
+    *   Amman
+*   KOREA
+    *   Busan
+    *   Seoul
+*   MALAYSIA
+    *   KotaKinabalu
+    *   Kuala Lumpur
+    *   Kuching
+    *   Langkawi
+    *   Sandakan
+*   MALDIVES
+*   MALTA
+    *   St Julians
+*   MEXICO
+    *   Campeche
+    *   Cancuun
+    *   Guadalajara
+    *   Los Cabos
+    *   Mexico City
+    *   Monclova
+    *   Monterrey
+    *   Puerto Vallarta
+    *   Punta Milta
+    *   San Luis de Potosi
+    *   Yucatan
+*   MONACO
+    *   Monte Carlo
+*   NEW CALEDONIA
+    *   Ile des Pins
+    *   Noumea
+*   PANAMA
+    *   Colon
+    *   Panama City
+    *   Santa Clara
+*   PARAGUAY
+    *   Asuncion
+*   PERU
+    *   Lima
+    *   Paracas
+    *   Sacred Valley
+*   POLAND
+    *   Krakow
+    *   Mazury Lakes
+    *   Poznan
+    *   Sopot
+    *   Warsaw
+*   PORTUGAL
+    *   Albufeira
+    *   Evora
+    *   Lisbon
+    *   Portimao
+    *   Porto
+*   QATAR
+    *   Doha
+*   RUSSIA
+    *   Moscow
+*   SAUDI ARABIA
+    *   Jeddah
+*   SCOTLAND
+    *   Ayrshire
+    *   Edinburgh
+*   SINGAPORE
+*   SLOVAKIA
+    *   Bratislava
+*   SPAIN
+    *   Barcelona
+    *   Elciego
+    *   Fuerteventura
+    *   Gran Canaria
+    *   Madrid
+    *   Majorca
+    *   Rascafria
+    *   San Sebastian
+    *   Sant Salvador Beach
+    *   Seville
+    *   Tenerife
+    *   Valencia
+*   SULTANATE OF OMAN
+    *   Muscat
+*   SWEDEN
+    *   Stockholm
+*   SWITZERLAND
+    *   Davos
+    *   Geneva
+    *   Zurich
+*   TAIWAN
+    *   Hsinchu
+    *   Taipei
+*   THAILAND
+    *   Bangkok
+    *   Chiang Rai
+    *   Chiangmai
+    *   Huahin
+    *   Khao Lak
+    *   Koh Samui
+    *   Krabi
+    *   Pattaya
+    *   Phuket
+*   THE NETHERLANDS
+    *   Amersterdam
+    *   The Hague
+*   TURKEY
+    *   Ankara
+    *   Istanbul
+    *   Izmir
+*   UNITED ARAB EMIRATES
+    *   Abu Dhabi
+    *   Dubai
+*   UNITED KINGDOM
+    *   London
+    *   Scotland
+*   URUGUAY
+    *   Colonia del Sacramento
+*   VIETNAM
+    *   Dalat
+    *   Hanoi
+    *   Ho Chi Minh City
+    *   Nha Trang
+
+*   Stay connected to Starwood Hotels:
+
+*   More
+*   Mobile Options
+*   Guest Reviews
+
+  You are on StarwoodHotels.com Other Starwood Brands >. | Four Points Sheraton Aloft W Hotels Le Méridien Luxury Collection Element Westin St. Regis Starwood Preferred Guest Starwood Hotels Learn about our brands Starwood Hotels &. Resorts
 
 © 2012 Starwood Hotels &. Resorts Worldwide, Inc.
 
 All rights reserved.
+
+*   Website Terms of Use |
+*   Updated Privacy Statement
+*   | Text Only
+
+Close X Get a Better View
+
+Upgrade your browser from Internet Explorer 6 or Firefox 3.0, 3.5 or 4.0 to the latest version for the best possible StarwoodHotels.com experience.
+
+Upgrade FF Now Continue Without Updating (Not Recommended)
