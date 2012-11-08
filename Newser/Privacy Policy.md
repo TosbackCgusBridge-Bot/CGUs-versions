@@ -4,14 +4,14 @@
 *   Hot Topics
     *   Election 2012
     *   President Obama
-    *   Mitt Romney 2012
-    *   Hurricane Sandy
-    *   Obama 2012
-    *   Mitt Romney
     *   entertainment
     *   celebrity
+    *   Mitt Romney
+    *   Hurricane Sandy
+    *   Mitt Romney 2012
     *   Barack Obama
     *   New York City
+    *   strange stuff
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -120,63 +120,57 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   You’re on Your Own, Javelin
-*   REMINDER: The "Fiscal Cliff" Is Nothing Like a...
-*   In Praise of the Foreign-Language Pop Song
+*   Why I’m Bearish on Apple
+*   The Refreshing Honesty of Trump's Advisers
+*   Boss Will Oremus Around
 
 More from Slate »
 
-*   MAN'S POSITIVE PREGNANCY TEST SHOCK
-*   Verbally Abusive Man Slices Tongue To Win Back Wife
-*   Virgin Mary Spotted In Utah Log
+*   LOVE HURTS
+*   Chiropractor Accused Of 'Intravaginal Massages'
+*   Man's Positive Pregnancy Test Reveals Big Medical Problem
 
 More from HuffPost Weird »
 
-*   Tabloid Claims Yet Again That Jennifer Aniston Is Pregnant
-*   18 WTF?! Political Gag Gifts
-*   L.A. County Votes To Require Condoms In Porn
+*   Style Stealer: Taylor Swift’s Polka-Dot Persuasion
+*   Story Of A Boy And His Cat Set To Become A Movie
+*   13 Dos And Don’ts Of Wearing … Plaid
 
 More from The Frisky »
 
-*   The Russians are coming, the Russians are coming \[Obvious\]
-*   Budget airline Ryanair plans $2 tickets for trans-European...
-*   18-year-old from Georgia tweets she wants to move to...
+*   Photoshop this photoshoot \[Photoshop\]
+*   What you missed while refreshing Drudge and Five Thirty...
+*   Man jailed for 1962 murders freed. That's a lot of murders...
 
 More from Fark »
 
-*   10 things you need to know today: November 8, 2012
-*   Everything you need to know about the fiscal cliff
-*   What Republicans need to do now
-
-More from The Week »
-
-*   Gabby Giffords Set to Appear at Jared Loughner’s Sentencing
-*   Florida Still Figuring Out That Whole ‘Voting’ Thing
-*   Leslie Knope Will Finally Get a Shot With Joe Biden
+*   Gas Rationing to Go Into Effect for New York City and Long...
+*   Waiting for the L Train Is Now a Little Bit Less Futile
+*   Long Island Man Arrested in Plot to Pipe-Bomb Home Depot on...
 
 More from Daily Intel »
 
-*   The Short Sleeper, The Napper, The Snorer: Surprising Sleep...
-*   Mental Health and Hurricane Sandy: What Can We Expect, What...
-*   Sleepless With Spot? How Your Pet Affects Your Sleep
+*   25 Of The Healthiest Herbs And Spices In The World
+*   Turn the Page on Stress: Tapping Into the De-Stressing...
+*   The Need for Connection in the Age of Anxiety
 
 More from HuffPost Health »
 
-*   Prince William, Kate Middleton Did Not Send ‘Personal Note’...
-*   Election 2012: Donald Trump Fires Back at Brian Williams,...
-*   Lady Gaga Dons Strapless Bikini Top, Waves to Fans in...
+*   'Twilight' Star Kristen Stewart Talks 'Fake' Babies and...
+*   Victoria's Secret Model Lily Aldridge Reveals Her Post-Baby...
+*   Ariel Winter's Mother Denies Abuse Allegations: 'It's All...
 
 More from Celebuzz »
 
-*   Mitt Romney's 'Victory' Website Offers a Frightening...
-*   8-Year-Old Youth Football League Star Is a Girl -- So What?...
-*   Lindsay Lohan Starring as Victim of Crazy Cop Conspiracy...
+*   Latest Jennifer Aniston Pregnancy Rumor Could Be the Real...
+*   Father Allegedly Drowns Toddler Son and Poisons 7-Year-Old...
+*   Gabby Giffords' Shooter Jared Loughner Sentenced and His...
 
 More from The Stir »
 
-*   Perspective: Hey, Tough Guy
-*   Portrait: Hush
-*   Reckitt Benckiser Conducts Digital Search
+*   Mad Magazine's Old Parody Ads Were Better Than the Real...
+*   Ad of the Day: Sony Xperia
+*   Knifing People on Trains Is a Great Idea, Says PlayStation...
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
