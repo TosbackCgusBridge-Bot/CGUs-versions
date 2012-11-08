@@ -569,8 +569,8 @@ Enjoy special discounts and offers.
 *   Manage My Account
 *   Card Benefits
 
-Plus size clothing - BizRate Customer Certified (GOLD) Site HACKER safe certified sites prevent over 99.9% of hacker crime. OneStopPlus.com Mobile   |   Woman Within ®   |   Roaman's ®   |   Jessica London®  |   BrylaneHome ®   |   KingSize®  
-fullbeauty   |   Bargain Catalog Outlet ®   |   OneStopPlus France
+Plus size clothing - BizRate Customer Certified (GOLD) Site HACKER safe certified sites prevent over 99.9% of hacker crime. OneStopPlus.com Mobile   |   Woman Within ®   |   Roaman's ®   |   Jessica London®  |   BrylaneHome ®   |    
+KingSize®   |   fullbeauty   |   Bargain Catalog Outlet ®
 
 OneStopPlus.com is a secure site that respects your privacy. Please read about our Privacy Policy and Terms of Use  
-and California Transparency in Supply Chains Act ©2012 Redcats USA, L.P. All Rights Reserved
+and California Transparency in Supply Chains Act ©2012 Redcats USA, L.P. All Rights Reserved.
