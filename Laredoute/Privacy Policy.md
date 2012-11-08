@@ -78,7 +78,7 @@ B 477 180 186 - RCS de Roubaix-Tourcoing **Directeur de la publication** : Natha
 75381 Paris Cedex 08  
 generalcounsel@redcatusa.com  
 **PROFITEZ-EN !** Vous retournez un article : votre nouvelle commande  
-enregistrée immédiatement est livrée **GRATUITEMENT !**         DEVENIR FAN ! 890 000 et + PARTAGER AVEC SES PROCHES
+enregistrée immédiatement est livrée **GRATUITEMENT !**         DEVENIR FAN ! 939 000 et + PARTAGER AVEC SES PROCHES
 
 *   +1500
 
