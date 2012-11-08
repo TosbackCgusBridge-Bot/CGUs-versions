@@ -1,8 +1,8 @@
-Print Close Everyday Health, LLC Privacy Policy
+Print Close Everyday Health Privacy Policy
 
-This Policy was last changed on November 23, 2011
+This Policy was last changed on November 8, 2012
 
-Everyday Health, LLC and its subsidiaries ("Everyday Health," “us” or “we”) operates this website (the "Site"), and other health, wellness, diet and fitness websites that are part of the Everyday Health portfolio of websites (collectively, the "Sites") and the services related to or offered on the Sites (hereinafter, the "Services"). Some of the Sites are websites that we operate on behalf of third party licensors, for example, JillianMichaels.com, PDRHealth.com and SouthBeachDiet.com (collectively, "Licensors"). Everyday Health's Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Sites or provided through the Sites.
+Everyday Health Media, LLC and its subsidiaries ("Everyday Health," “us” or “we”) operate this website (the "Site"), and other health, wellness, diet and fitness websites that are part of the Everyday Health portfolio of websites (collectively, the "Sites") and the services related to or offered on the Sites (hereinafter, the "Services"). Some of the Sites are websites that we operate on behalf of third party licensors, for example, JillianMichaels.com, PDRHealth.com and SouthBeachDiet.com (collectively, "Licensors"). Everyday Health's Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Sites or provided through the Sites.
 
 We provide you this privacy policy (the "Policy") to help you understand the kinds of information we may gather about you when you visit the Site or use any of our Services, how we may use and disclose the information, and how you can control, correct and/or update the information.
 
@@ -126,9 +126,11 @@ The Site and Services are not directed or intended for children under 13 years o
 
 **7\. Updating and Control of Your Personal Information**
 
-We offer you choices regarding the collection, use, and sharing of your Personal Information. When you receive promotional communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail or newsletter you receive or by editing your preference to receive these communications within the "Manage My Email" or similar feature on the individual Sites when you are logged in as a registered user..
+We offer you choices regarding the collection, use, and sharing of your Personal Information. When you receive promotional communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail or newsletter you receive or by editing your preference to receive these communications within the "Manage My Email" or similar feature on the individual Sites when you are logged in as a registered user.
 
-If your Personal Information changes or if you no longer desire to use or access one of the Sites or Services, we encourage you to correct, update or remove the Personal Information from your profile. This can be done at the "Profile" or "My Account" section on each of the Sites. (On some Sites the profile section is accessed through the MySite tab, e.g., MyEverydayHealth or MyRevolution). Keep in mind, however, that even if you delete information from your profile, we may retain your Personal Information in conformance with our data retention policy and Personal Information may remain within our databases, access logs, and other records. In addition, we are not responsible for updating or removing your Personal Information contained in the lists or databases of third parties who have been provided information as permitted by this Policy.
+If your Personal Information changes or if you no longer desire to use or access one of the Sites or Services, we encourage you to correct, update or remove the Personal Information from your profile. This can be done at the "Profile" or "My Account" section on each of the Sites. (On some Sites the profile section is accessed through the MySite tab). If you would like assistance disabling your account please contact customer service at support@everydayhealth.com or call 1-888-795-4719.
+
+Keep in mind, however, that even if you delete information from your profile, we may retain your Personal Information in conformance with our data retention policy and Personal Information may remain within our databases, access logs, and other records. In addition, we are not responsible for updating or removing your Personal Information contained in the lists or databases of third parties who have been provided information as permitted by this Policy.
 
 **8\. Co-branded Sections of the Sites**
 
