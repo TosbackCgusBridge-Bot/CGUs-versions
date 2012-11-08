@@ -86,14 +86,15 @@ INTRODUCING JOSH BROWN'S SIDE STREET
 
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
-*   Gold Prices
-*   Obama Financial Selloff
+*   Gold
+*   Big Bank Bloodbath
 *   Side Street
-*   High-Yield Banks
+*   Elizabeth Warren
 *   iPhone 5
 *   Stocks Fall Sharply
+*   Qualcomm
 
-pjava04.dc.thestreet.com Privacy Policy
+pjava01.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -248,15 +249,15 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 12,959.96 -285.72 -2.16% NASDAQ 2,941.14 -70.79 -2.35% S&P 500 1,398.21 -30.18 -2.11% US 10 Yr 1.625% -0.117 Brokerage Partners Most Commented
+DOW 12,932.73 -312.95 -2.36% NASDAQ 2,937.29 -74.64 -2.48% S&P 500 1,394.53 -33.86 -2.37% US 10 Yr 1.632% -0.110 Brokerage Partners Most Commented
 
 *   TheStreet Predicts Obama Will Win the 2012 Election
 *   Solar Panels Don't Work!
+*   Tesla Motors Pollutes Today for a Greener Tomorrow
 *   Windows Phone 8 Review: Good, But Not Good Enough
 *   10 Worst Cars of All Time
-*   Arena Pharma Is Still A Good Short
 
-Articles From Newser Dow Plunges 300+ on Obama Win Suzuki Pulls Out of US Market Icahn Sours at Taste of Netflix's 'Poison Pill' See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Suddenly, Apple Stock Looks Rotten Austerity Ekes Out Victory in Greece Boehner to Obama: Let's Make a Deal See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
