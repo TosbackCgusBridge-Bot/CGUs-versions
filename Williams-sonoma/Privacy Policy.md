@@ -586,6 +586,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     Shop the Look
     
     *   Living Room
+    *   Dining Room
     *   Kitchen
     *   Bedroom
     
@@ -908,15 +909,15 @@ All of the Content on this website is subject to copyright, trademark, service m
 
 Follow @twitter   International Shipping Shipping To: From Our Family of Brands Williams-Sonoma \[+\] Pottery Barn \[+\] Pottery Barn Kids \[+\] PBteen \[+\] West Elm \[+\] Williams-Sonoma Home \[+\] Rejuvenation \[+\] Cultivate \[+\]
 
-*   Cookware
-*   Agrarian
-*   Gardening Tools
-*   Grills
-*   Grill Accessories
-*   Grilling Recipes
-*   Blenders
-*   Glassware
+*   Thanksgiving Food
+*   Roasting Pans
+*   Christmas Tablecloths
+*   Hostess Gifts
+*   Wine Racks
 *   Dinnerware
+*   Agrarian
+*   Cookware
+*   Blenders
 *   Wedding Registry
 
 *   luxury bedding
@@ -931,58 +932,58 @@ Follow @twitter   International Shipping Shipping To: From Our Family of Brands
 *   bedding sets
 
 *   furniture
-*   bedroom furniture
-*   rugs
-*   beach towels
-*   duvet covers
-*   interior design ideas
-*   outdoor lighting
-*   outdoor furniture
-*   bedding sets
+*   bathroom vanities
+*   personalized gifts
+*   area rugs
+*   christmas ornaments
+*   christmas stockings
 *   wedding registry
+*   accent chairs
+*   christmas decorations
+*   interior design ideas
 
-*   beach totes
-*   baby bedding
+*   christmas stockings
+*   childrens books
+*   baby diaper bags
+*   personalized baby blankets
+*   toy storage
 *   baby gifts
-*   baby toys
-*   kids beds
-*   personalized beach towels
-*   toddler bedding
-*   kids backpacks
-*   beach gear
-*   nursery decorating ideas
+*   crib bedding sets
+*   bunk beds
+*   baby registry
+*   baby room ideas
 
-*   girls quilts
-*   jewelry storage
-*   wall decals
-*   beach towels
-*   decorative pillows
-*   duvet covers
-*   gifts for girls
-*   bean bag chairs
+*   bunk beds
+*   bed skirts
 *   boys bedding
-*   beach totes
+*   duvet cover sets
+*   burton shop
+*   gift ideas
+*   rolling backpacks
+*   dorm bedding
+*   dorm essentials
+*   bean bag chairs
 
-*   Design Blog
-*   Modern Furniture
+*   MARKET
+*   Top Gift Ideas
+*   Christmas Ornaments
 *   Unique Gifts
-*   Modern Outdoor Furniture
-*   Outdoor Dining Sets
-*   Bedding
-*   Modern Rugs
+*   Bedding Sets
 *   Decorative Pillows
-*   Wall Decor
-*   Kitchen Accessories
+*   Modern Chairs
+*   Modern Furniture
+*   Sectional Sofas
+*   Design Blog
 
 *   lighting
-*   lighting fixtures
+*   custom lighting
 *   shades
 *   hardware
 *   window hardware
-*   vintage lighting
-*   custom lighting
-*   chandeliers
-*   door sets
+*   antique lighting
+*   kitchen lighting
+*   home décor
+*   door hardware
 *   bathroom lighting
 
 *   kitchen design
