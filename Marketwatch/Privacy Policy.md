@@ -1,8 +1,8 @@
-Bulletin Investor Alert Stocks slammed
+Bulletin McDonald's monthly comparable-store sales dip Investor Alert
 
-New York Markets Close in:
+New York Markets Open in:
 
-After Hours Preview Winners and Losers
+Pre-Market Indications Analyst Ratings Oil News EarningsWatch
 
 Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
@@ -198,91 +198,93 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 2:54 PM EST November 7, 2012 /marketstate/country/us New York Open /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:05 AM EST November 8, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  2:51p
+/news/latest1.  8:03a
     
-    Oil settles back below $85, down nearly 5%
+    McDonald's Oct. systemwide sales down 0.8%
     
-2.  2:50p
+2.  8:02a
     
-    B. of A., Morgan Stanley paint financials red
+    Focus on Draghi as ECB leaves rates unchanged
     
-3.  2:38p
+3.  8:02a
     
-    Crude-oil futures drop 4.8% at close
+    McDonald's Europe same-store sales also dip 2.2%
     
-4.  2:38p
+4.  8:01a
     
-    Dec. oil down $4.27 to settle at $84.44/bbl
+    Updates, advisories and surprises
     
-5.  2:38p
+5.  8:01a
     
-    Dec. heating oil down 3%, gasoline falls 4.1%
+    McDonald's U.S. Oct. same-store sales down 2.2%
     
-6.  2:35p
+6.  8:01a
     
-    Gold slips. market mulls dollar, debt woes, Obama
+    BREAKING
     
-7.  2:35p
+    McDonald's Oct. comparable sales dip 1.8%
     
-    Say it in 63 seconds or less, and hit send
+7.  8:00a
     
-8.  2:34p
+    Coffee prices fall, but not at Starbucks
     
-    Qualcomm helped, hurt by close Apple ties
+8.  8:00a
     
-9.  2:31p
+    Coming up: Weekly jobless claims, trade deficit
     
-    Whole Foods on deck after hours
+9.  7:59a
     
-10.  2:30p
+    TPC Group buyout price upped to $45 a share
     
-    Coming up: Consumer credit for September
+10.  7:59a
     
-11.  2:27p
+    TPC Group's earlier price was $40 a share
     
-    Radio Update: Investors looking over fiscal cliff
+11.  7:59a
     
-12.  2:22p
+    First Reserve, SK Capital up price by 12.5%
     
-    Taxes a moving target in fiscal cliff deal
+12.  7:58a
     
-13.  2:15p
+    U.S. stock futures up ahead of jobless claims
     
-    Wednesday’s biggest movers: Boeing plans layoffs
+13.  7:55a
     
-14.  2:12p
+    Boston Scientific paying up to $425 mln for Vessix
     
-    Time Warner: Hurrah for movie franchises
+14.  7:53a
     
-15.  2:10p
+    Big earnings on Thursday: Dean, Kohl’s, Disney
     
-    High end hit hard in retail’s post-election worry
+15.  7:49a
     
-16.  2:00p
+    Duke profit climbs 26% after Progress acquisition
     
-    Gold ends lower. dollar rise outweighs Obama win
+16.  7:49a
     
-17.  1:55p
+    Boston Scientific paying up to $425 mln for Vessix
     
-    Dollar at 2-month high. stocks fall after election
+17.  7:48a
     
-18.  1:55p
+    Europe stocks stay higher after ECB stands pat
     
-    Gold futures settle slightly lower for the session
+18.  7:46a
     
-19.  1:55p
+    ECB leaves rates on hold. Draghi in focus
     
-    Dec. gold falls $1 to settle at $1,714/oz
+19.  7:45a
     
-20.  1:46p
+    ECB leaves key lending rate unchanged at 0.75%
     
-    Boeing to close some Calif. facilities
+20.  7:43a
+    
+    U.S. stock market futures add to gains
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 12,959.27 -286.41 -2.16% nasdaq /quotes/zigman/123127 2,941.21 -70.72 -2.35% s&p 500 /quotes/zigman/3870025 1,397.52 -30.87 -2.16% Kiosk
+dow /quotes/zigman/627449 12,932.73 -312.95 -2.36% nasdaq /quotes/zigman/123127 2,937.29 -74.64 -2.48% s&p 500 /quotes/zigman/3870025 1,394.53 -33.86 -2.37% Kiosk
 
 *   1341573300000 1341592200000
     
