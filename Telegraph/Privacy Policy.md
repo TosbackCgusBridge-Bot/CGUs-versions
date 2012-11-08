@@ -142,15 +142,15 @@ For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Forget the TV shows, what are the ads like?  
+Secret quest for democracy in Beijing  
 
-Christmas adverts have become so celebrated that they are previewed by 'teaser’ commercials, says **Harry Wallop**
+Protesters tell **Tom Phillips** the cloak and dagger measures they must take to petition the 18th Congress of the Chinese Communist Party.
 
-Comments
-
-It’s time for a big Republican clear-out A bitter sweet victory for Obama 'The Religious Right is dead' The golden fleecers Advertisement
+Stretchers at the ready as delegates yawn through China's event of the decade Forget the TV shows, what are the ads like? It’s time for a big Republican clear-out A bitter sweet victory for Obama Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
+
+US Election   Obama re-elected as US president View FREE PRIZE DRAW TO WIN £1,000   Share with us your favourite place in the world and win £1,000 View Telegraph for iPad free trial   Try The Telegraph for iPad free for 30 days View DUNHILL TRAVEL DEALS   Most competitive travel deals and vacation packages View
 
 Back to top
 
