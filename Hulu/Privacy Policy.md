@@ -16,6 +16,8 @@ BROWSE
     *   Staff Picks
     *   Criterion
 
+*   Kids
+
 *   Latino
 
 *   Recommendations
