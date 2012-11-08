@@ -190,49 +190,49 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Top-50 Themen Thema Anzahl Apple 85291 Arbeit 65450 Ausbildung 50822 Auto 91735 Beauty 69957 Beruf 78041 Beziehung 72889 Computer 541912 Computerspiele 65368 deutsch 67640 Englisch 52607 Ernährung 51085 essen 71705 Facebook 78454 Fernsehen 60649 Film 101131 Finanzen 59284 Freizeit 265385 Fußball 51487 Games 126476 Geld 94363 Gesundheit 207194 Haare 83633 Handy 207612 Hilfe 150830 Internet 324893 iPhone 76411 Kinder 51208 Körper 50790 Laptop 74353 Liebe 167599 Lied 55031 Mädchen 57089 Medizin 63192 Minecraft 69058 Musik 282928 PC 285292 PC-Spiele 49261 Problem 56054 PS3 61144 Recht 95888 Schule 237986 Software 57443 Spiele 138588 Sport 111816 Technik 121641 Tiere 65299 TV 54790 Video 53175 Youtube 84433 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Top-50 Themen Thema Anzahl Apple 85361 Arbeit 65492 Ausbildung 50867 Auto 91796 Beauty 70047 Beruf 78094 Beziehung 72948 Computer 542276 Computerspiele 65411 deutsch 67701 Englisch 52640 Ernährung 51105 essen 71746 Facebook 78520 Fernsehen 60672 Film 101174 Finanzen 59320 Freizeit 265761 Fußball 51506 Games 126564 Geld 94442 Gesundheit 207336 Haare 83697 Handy 207792 Hilfe 150977 Internet 325058 iPhone 76471 Kinder 51226 Körper 50854 Laptop 74407 Liebe 167732 Lied 55071 Mädchen 57148 Medizin 63223 Minecraft 69109 Musik 283094 PC 285489 PC-Spiele 49293 Problem 56114 PS3 61176 Recht 95938 Schule 238218 Software 57466 Spiele 138660 Sport 111907 Technik 121716 Tiere 65321 TV 54813 Video 53204 Youtube 84472 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  famous17
+1.  Pech1
     
     Punkte:
     
-    1110
+    1334
     
     Level:
     
-    famous17
+    Pech1
     
 2.  Bademeisterin
     
     Punkte:
     
-    1034
+    1114
     
     Level:
     
     Bademeisterin
     
-3.  schildi
+3.  Bluebird555
     
     Punkte:
     
-    657
+    1090
     
     Level:
     
-    schildi
+    Bluebird555
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.446.812 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.452.577 gute Fragen_
 
-*   28 Ich habe Angst, meine Jugend zu "verschwenden"
-*   21 kein ausweg
-*   14 Wie merke ich das ein Mädchen mich mag ?
+*   83 Ich habe Angst, meine Jugend zu "verschwenden"
+*   43 kein ausweg
+*   19 Wie merke ich das ein Mädchen mich mag ?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
-*   Eiweißshake selber machen
 *   Hilfe ich bin verliebt ! Was soll ich tun?
+*   Eiweißshake selber machen
 
 *   How-To Windows 8: Normale Programme deinstallieren
 *   Einfache Martinslaterne basteln
@@ -241,23 +241,23 @@ gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.995.455
+1.998.280
 
 Anzahl der Fragen
 
-8.446.295
+8.450.986
 
 Anzahl der Antworten
 
-36.572.248
+36.586.671
 
 Anzahl der Tipps
 
-75.842
+75.889
 
 Anzahl der Videos
 
-4.808
+4.818
 
 Blog
 
