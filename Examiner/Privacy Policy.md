@@ -105,15 +105,15 @@ We reserve the right to update or modify this Privacy Policy, at any time and wi
 
 Follow UsTwitter
 
-*   Kristen Stewart and Robert Pattinson latest news: MTV interview may get personal (Video) t.co/5KHvOOAc
-    
-    38 minutes ago
-*   Make an easy bowed scarf from dollar store scarves t.co/iRg35yM7
-    
-    1 hour ago
-*   Emblem3, Lyric 145 groups impress Simon with first 'X Factor' live performances t.co/w8sWimfb
+*   Gadget deal of the day Nov 8, 2012: JVC 1080p LCD TV on Woot t.co/V47xN0b0
     
     2 hours ago
+*   Chris Matthews apologizes: 'I said something terrible': Chris Matthews apologized on Wednesday night's episode o... t.co/dNeTdqdh
+    
+    3 hours ago
+*   Everything that was happening was perfect t.co/ZXkRcJjm
+    
+    3 hours ago
 
 © 2006-2012 Clarity Digital Group LLC d/b/a Examiner.com. About examiner.com
 
