@@ -1,8 +1,8 @@
-Bulletin McDonald's monthly comparable-store sales dip Investor Alert
+Bulletin Online travel site Priceline to buy rival Kayak for $40 a share Investor Alert
 
-New York Markets Open in:
+New York Markets After Hours
 
-Pre-Market Indications Analyst Ratings Oil News EarningsWatch
+After Hours EarningsWatch Evening Winners and Losers
 
 Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
@@ -198,93 +198,101 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:05 AM EST November 8, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 4:17 PM EST November 8, 2012 /marketstate/country/us New York After /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:03a
+/news/latest1.  4:17p
     
-    McDonald's Oct. systemwide sales down 0.8%
+    Disney Q4 FactSet EPS 68c
     
-2.  8:02a
+2.  4:17p
     
-    Focus on Draghi as ECB leaves rates unchanged
+    Commute reads: Will Obama crack down on legal pot?
     
-3.  8:02a
+3.  4:17p
     
-    McDonald's Europe same-store sales also dip 2.2%
+    Oil futures regain $85 level after heavy drop
     
-4.  8:01a
+4.  4:16p
     
-    Updates, advisories and surprises
+    Disney Q4 net $1.24B vs. $1.09B
     
-5.  8:01a
-    
-    McDonald's U.S. Oct. same-store sales down 2.2%
-    
-6.  8:01a
+5.  4:16p
     
     BREAKING
     
-    McDonald's Oct. comparable sales dip 1.8%
+    Disney Q4 EPS 68c vs. 58c
     
-7.  8:00a
+6.  4:13p
     
-    Coffee prices fall, but not at Starbucks
+    BREAKING
     
-8.  8:00a
+    U.S. stocks end sharply lower for second session
     
-    Coming up: Weekly jobless claims, trade deficit
+7.  4:12p
     
-9.  7:59a
+    Priceline.com shares down 2.2% after hours
     
-    TPC Group buyout price upped to $45 a share
+8.  4:10p
     
-10.  7:59a
+    BREAKING
     
-    TPC Group's earlier price was $40 a share
+    Kayak shares halted in trading after hours
     
-11.  7:59a
+9.  4:10p
     
-    First Reserve, SK Capital up price by 12.5%
+    S&P says 15% chance U.S. to fall over fiscal cliff
     
-12.  7:58a
+10.  4:09p
     
-    U.S. stock futures up ahead of jobless claims
+    Priceline to buy Kayak Software for $40 a share
     
-13.  7:55a
+11.  4:09p
     
-    Boston Scientific paying up to $425 mln for Vessix
+    Stocks, Treasury yields drop more as Europe worries add to fiscal cliff
     
-14.  7:53a
+12.  4:08p
     
-    Big earnings on Thursday: Dean, Kohl’s, Disney
+    Groupon reports net loss, missing estimates
     
-15.  7:49a
+13.  4:07p
     
-    Duke profit climbs 26% after Progress acquisition
+    BREAKING
     
-16.  7:49a
+    Groupon shares fall 13% after Q3 report
     
-    Boston Scientific paying up to $425 mln for Vessix
+14.  4:02p
     
-17.  7:48a
+    Don’t play politics with your investment portfolio
     
-    Europe stocks stay higher after ECB stands pat
+15.  4:02p
     
-18.  7:46a
+    Nasdaq Composite at lowest since late July
     
-    ECB leaves rates on hold. Draghi in focus
+16.  4:01p
     
-19.  7:45a
+    S&P 500 ends at lowest since early August
     
-    ECB leaves key lending rate unchanged at 0.75%
+17.  4:01p
     
-20.  7:43a
+    Updates, advisories and surprises
     
-    U.S. stock market futures add to gains
+18.  4:00p
+    
+    Dow industrials finish at lowest level since July
+    
+19.  4:00p
+    
+    BREAKING
+    
+    U.S. stock indexes finish at session lows
+    
+20.  3:56p
+    
+    Economy would shrink 0.5% in 2013 if U.S. goes over fiscal cliff: CBO
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 12,932.73 -312.95 -2.36% nasdaq /quotes/zigman/123127 2,937.29 -74.64 -2.48% s&p 500 /quotes/zigman/3870025 1,394.53 -33.86 -2.37% Kiosk
+dow /quotes/zigman/627449 12,811.32 -121.41 -0.94% nasdaq /quotes/zigman/123127 2,895.58 -41.70 -1.42% s&p 500 /quotes/zigman/3870025 1,377.51 -17.02 -1.22% Kiosk
 
 *   1341573300000 1341592200000
     
@@ -293,34 +301,36 @@ dow /quotes/zigman/627449 12,932.73 -312.95 -2.36% nasdaq /quotes/zigman/123127 
         emily driscoll  
     4 alternatives to college  
     With the economy still struggling, many potential students are having second thoughts about higher education, as the cost of a degree spirals skyward.  /conga/kiosk/marketfox.html 234582
-*   1238817600000 1270353600000
-    
-    Cars
-    
-    Dream wheels for 007  
-    James Bond needs to trade in his outdated "Skyfall" DB5 for this new $300,000 beast of an Aston Martin Vanquish, says Dan Neil.   
-    233901
-*   1332953700000 1332979800000
+*   1332374700000 1332461400000
     
     The Trading Deck
     
-    L.A. Little  
-    The best trade setup is setting up  
-    Whenever you can get a move in one direction off of multiple levels over multiple time frames, you have one heck of a set up. That may be happening now. /conga/kiosk/trading-deck-7.html 234568
+    Michael gayed  
+    Obama not to blame for correction  
+    The hard selloff has various pundits arguing that the drop was directly because of Barack Obama's win, but this fall has been in place since QE3.  
+    /conga/kiosk/trading-deck-5.html 234781
+*   1329437100000 1329783000000
+    
+    The Trading Deck
+    
+    Why freak out over 'fiscal cliff'?  
+    Attention now turns to the "fiscal cliff," which threatens to slow down a U.S. economy that is just beginning to recover, writes Mick Weinstein.  
+    • See Trading Deck for more market ideas /conga/kiosk/trading-deck-2.html 234780
 *   1347087600000 1347213600000
     
-    Your Health
+    Storm aftermath
     
-    What clinics won't tell you  
-    These are the 10 things you need to know before you seek treatment at a walk-in medical clinic. (slide show)  
-    /conga/kiosk/wildcard2.html 234264
-*   1309191300000 1309248000000
+    Tax hit for Sandy’s victims?  
+    Those affected by last week’s superstorm may have a tax deduction — or an unexpected gain.  
+    • Investment scams after Sandy  
+    /conga/kiosk/wildcard2.html 234772
+*   1349089200000 1349137500000
     
-    Personal Finance
+    Commentary
     
-    The new case for 529 plans  
-    The latest push by advisers comes as these college-savings plans remain unused by many investors despite being around since the 1990s.  
-    /conga/kiosk/wildcard3.html 234086
+    Writing on the Wall  
+    Wall Street took a beating at polls  
+    The financial industry spent more than $400 million supporting various candidates nationwide, but ended up with little to show for it.  /conga/kiosk/commentary2.html 234775
 
 MarketWatch.com
 
