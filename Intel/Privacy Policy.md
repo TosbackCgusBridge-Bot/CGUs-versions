@@ -406,22 +406,21 @@ Intel® Online Privacy Notice Intel is committed to respecting your privacy. Our
     *   Related Topics
     *   Related Products
     
-    *   Intel Human Rights...
+    *   Intel® Cookie Notice
         
-        Summarizes Intel's position on key human rights issues and embodies common principles laid out by...  
-        Preview | Download
+        Intel's cookie practices on Intel websites.
         
-    *   Privacy: Thank You
+    *   Ultrabook™ Project Terms...
         
-        Privacy: Thank You
+        Ultrabook™ Project Terms of Use include description for using the Intel Corporation ("Intel") web sites...
         
     *   Intel Social Media...
         
         Intel Social Media Guidelines for Intel employees or contractors contributing on or off Intel.com.
         
-    *   Intel Social Media...
+    *   Intel Terms of Use
         
-        Guide for Intel sponsored, seeded, or incentivized social media practitioners.
+        Intel Terms of Use include description for using the Intel Corporation ("Intel") web sites and materials.
         
     
     *   Technology for the Home
