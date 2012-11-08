@@ -24,6 +24,7 @@ Skip to main content
     *   Statement Jewelry
     *   Solitaire Jewelry
     *   Wedding Bands
+    *   Tiffany Diamonds
     
 *   Watches
     
@@ -68,9 +69,9 @@ Skip to main content
     
 *   Gifts
     
-    *   Gifts for Her
-    *   Gifts for Him
-    *   Gifts for the Home
+    *   Holiday Gifts For Her
+    *   Holiday Gifts for Him
+    *   Holiday Gifts for the Home
     
     *   $150 &. Under
     *   $300 &. Under
