@@ -1,6 +1,6 @@
 (skip this header)
 
-Wednesday Nov 07, 2012 11:54 AM PT
+Thursday Nov 08, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Roam Artisan Burgers
-*   Union City Station District
-*   Appreciation: Elliott Carter
-*   What we can learn from Sandy
-*   Overheard at Apple store
+*   OK for little boys to pee outdoors?
+*   Karl Rove's bizarre moment
+*   Most retweeted tweet ever
+*   Scarlett's new tattoo
+*   Prez 'Alection' winner
 
 *   Bay Area &. State
 *   Nation
@@ -339,12 +339,34 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   San Francisco Zoo
+*   Hellman mansion up for sale
+*   Quakes eliminated after 3-1 loss to Galaxy
+*   Warriors 106, Cavaliers 96
+*   Nor’easter drops snow, zaps power lines
+*   China gears up for leadership change
+*   Embarcadero rink open for holidays
+*   Nation in Focus
+*   World in Focus
+*   Obama Romney tweets election
+*   Trends called election
+*   Trends Obama speech
+*   Snow hits Northeast rebounding from Superstorm Sandy
+*   Gerritsen Beach after Sandy
+*   Day in Pictures, Nov. 7, 2012
+*   InStyle UK's Best-Dressed Celebs
+*   Big night for women in Senate
+*   campaign trail 2012
+*   Celebrities with tattoos
+*   The Obamas through the years
+*   'Skyfall' New York premiere
+*   The World Reacts to the US Presidential Election
 *   Election night
 *   Colorado, Washington Celebrate Legalizing Pot
+*   Top spenders and winners
 *   2012 Election Night
 *   Election night in focus
 *   World in Focus
-*   Big night for women in Senate
 *   Election night
 *   Obama's election night party in Chicago
 *   Voting in Florida
@@ -354,31 +376,9 @@ Ads by Yahoo! Photo Galleries
 *   ACE Awards 2012
 *   Jerry Brown election day
 *   Day in Pictures, Nov. 6, 2012
-*   campaign trail 2012
 *   Oracle boat becomes Flugtag for Red Bull
 *   Halo 4 launches in Seattle, London
 *   Dandelion Chocolate
-*   U.S. Presidents on film
-*   Obama Election Day
-*   California Votes
-*   Jersey Shore House
-*   Warriors rally but can’t beat Kings
-*   Photos from the Campaign Trail, by AP
-*   Nation in Focus
-*   World in Focus
-*   Day in Pictures, Nov. 5, 2012
-*   49ers and their "Giant" counterparts
-*   Fremont Diner
-*   Baby2Baby Gala
-*   The 2012 Campaign Trail
-*   Flashback! Last Week's Concerts - In Pictures
-*   Nopalito
-*   Rick Perry at Republican Debates
-*   Political onesies: Babycrat or Weepublican?
-*   Halloween 2012
-*   Marshawn Lynch buys Bay Area mansion
-*   Aldon Smith makes movie debut
-*   World In Focus
 
 *   Most Read
 *   |
@@ -386,40 +386,40 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Prop. 30 wins, Prop. 38 flames out
-2.  Prop. 37: Genetic food labels defeated
-3.  Washington, Colorado Allow Recreational Use of Marijuana
-4.  Quiet media night explodes suddenly, Rove protests
-5.  Democrats get supermajority in Legislature
-6.  Diane Sawyer’s performance sparks wild Twitter speculation
-7.  Obama wins re-election
+1.  Same-sex marriage backers hail wins
+2.  Calif. proposition results mixed, liberal or not
+3.  2nd suspect arrested in SF bus vandalism
+4.  Mitt Romney's plans remain unclear
+5.  Nor'easter drops snow, zaps power lines
+6.  Stolen SPCA puppy turns up, finds new home
+7.  Prop. 30 wins, Prop. 38 flames out
 
 1.  Obama wins re-election
-2.  Race tight as election night count goes to wire
-3.  Thousands report voting problems
-4.  Democrats seize supermajority in state Legislature
-5.  Much at stake as voters head to polls
-6.  Prop. 30 trailing in early returns
-7.  Nude activist dresses down supervisors
+2.  Democrats seize supermajority in state Legislature
+3.  Prop. 30 trailing in early returns
+4.  House speaker says he'll consider tax increase
+5.  Ten hard lessons from Tuesday
+6.  Quiet media night explodes suddenly, Rove protests
+7.  Prop. 37: Genetic food labels trailing
 
-1.  Democrats get supermajority in Legislature
-2.  Prop. 37: Genetic food labels defeated
-3.  Prop. 30 wins, Prop. 38 flames out
-4.  Washington, Colorado Allow Recreational Use of Marijuana
-5.  Peralta Junction - Oakland's pop-up carnival
-6.  Stanford promotes QB Hogan to starter
-7.  Obama wins re-election
+1.  Hakka Restaurant has affordable quality
+2.  Paragon Outlets Livermore Valley opening
+3.  Freeze dough, batter for surprise guests
+4.  Sheriff Ross Mirkarimi recall in works
+5.  'The Master' review: A cult is born
+6.  Sandy's damage shuts popular RI wildlife refuge
+7.  Successful soccer coach dies in Westfield crash
 
 loading... Latest News Videos From our homepage
 
 *     
-    Michael Macor, The Chronicle / SF
+    Seth Wenig, Associated Press / SF
     
-    San Francisco Chronicle Copyright 2012 San Francisco Chronicle. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 9:17 a.m., Wednesday, November 7, 2012 Decisive win for Prop. 30
+    Snow on top of Sandy
     
-    Brown's tax measure gets strong support, rival measure falls.
+    Photos: New storm bears down on the battered Northeast.
     
-*   Prop 32, limits on unions, fails
+*   A bar floats into N.Y. town
 
 *     
     OpenHomesPhotography.com / SF
@@ -430,11 +430,11 @@ loading... Latest News Videos From our homepage
     
 
 *     
-    Donna Svennevik, Associated Press / SF
+    Chronicle File, The Chronicle / ONLINE\_YES
     
-    Calling Diane Sawyer's state
+    S.F. Zoo: Then and now
     
-    What was up with the anchor's odd, slow election night behavior? Twitter folks have ideas.
+    Come back to the early years when cages were tiny and there were few rules about feeding.
     
 
 *   Home
