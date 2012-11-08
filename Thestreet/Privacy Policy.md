@@ -86,15 +86,15 @@ INTRODUCING JOSH BROWN'S SIDE STREET
 
 *   HOT TOPICS:
 *   TheStreet Ratings' #1 Stock
-*   Gold
-*   Big Bank Bloodbath
+*   Apple Selloff
+*   Bram Stoker Google Doodle
 *   Side Street
-*   Elizabeth Warren
-*   iPhone 5
-*   Stocks Fall Sharply
-*   Qualcomm
+*   Letters to Obama
+*   Netflix Traffic
+*   Jim Cramer
+*   Gold
 
-pjava01.dc.thestreet.com Privacy Policy
+pjava02.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -249,7 +249,7 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 12,932.73 -312.95 -2.36% NASDAQ 2,937.29 -74.64 -2.48% S&P 500 1,394.53 -33.86 -2.37% US 10 Yr 1.632% -0.110 Brokerage Partners Most Commented
+DOW 12,811.32 -121.41 -0.94% NASDAQ 2,896.62 -40.67 -1.38% S&P 500 1,377.68 -16.85 -1.21% US 10 Yr 1.632% +0.000 Brokerage Partners Most Commented
 
 *   TheStreet Predicts Obama Will Win the 2012 Election
 *   Solar Panels Don't Work!
@@ -257,7 +257,7 @@ DOW 12,932.73 -312.95 -2.36% NASDAQ 2,937.29 -74.64 -2.48% S&P 500 1,394.53 -33.
 *   Windows Phone 8 Review: Good, But Not Good Enough
 *   10 Worst Cars of All Time
 
-Articles From Newser Suddenly, Apple Stock Looks Rotten Austerity Ekes Out Victory in Greece Boehner to Obama: Let's Make a Deal See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser McDonald's Sales Take First Dip in Almost a Decade Victim of NHL Lockout: Coors Light Walmart's 'Black Friday' to Start 2 Hours Earlier See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
