@@ -63,9 +63,9 @@ Any questions about this Privacy Policy should be addressed to HootSuite Twitter
 Vancouver, BC, Canada  
 V6A 3A3
 
-From the HootSuite Blog Watch the Social Media Race with HootSuite’s 2012 Election Tracker
+From the HootSuite Blog Social Media’s Role in the 2012 US Election: Obama Breaks Twitter Records
 
-Want to see who is winning the “social media race” on the road to the 2012...  
+It looks like President Barack Obama won in more than one way yesterday. The Democratic...  
 Read More
 
 Social Media Compliance ~ An Interview with CMP.LY
