@@ -1,4 +1,16 @@
-Download Apps Apple iOS | Android Follow us: Sign In | Register | Log Out Crackle Movies
+Social is ON Remind me every time my watch activity is posted. Social is OFF To turn on Social Sharing Log In with Facebook My Watchlist Profile Sign Out X Social Sharing is ON. Your Facebook friends can now see your activities on Crackle. More Info Social Sharing is OFF. Your Facebook friends will not be able to see your activities on Crackle. More Info Crackle + Facebook Social Sharing and Crackle - It's On
+
+It's easier than ever to share your favorite Crackle content with your Facebook friends. Just log in with Facebook and you're done. Social Sharing allows you to...
+
+*   Comment, rate and create a personal Watchlist
+*   Seamlessly share what you're watching and all your Crackle activity
+*   Discover what your Facebook friends are watching, rating and sharing.
+
+Control your social voice
+
+You have full control over what you share with your Facebook friends. You can choose to be notified instantly of every watch activity before you share or turn off Social Sharing completely. Click here to learn more.
+
+Ready to get your Social on? Turn Social Off Keep Social On Download Apps Apple iOS | Android Sign In | Register Social Off Social Crackle Movies
 
 Free &. Uncut
 
