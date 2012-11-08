@@ -1,9 +1,11 @@
+Skip Navigation
+
 *   |
 *   *   Your Account
     *   |
-    *   Our Stores &. Events
+    *   new Get Recommendations
     *   |
-    *   Get E-mail Updates
+    *   Our Stores &. Events
     *   |
     *   Wish List
     *   |
@@ -425,7 +427,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Shipping Information
     *   Store Locations &. Hours
 
-Nordstrom Customer Privacy Policy
+Back to Top Nordstrom Customer Privacy Policy
 
 *   Customer Service
 *   Contact Us
@@ -495,7 +497,7 @@ Customer Service
 *   Check Order Status
 *   Returns &. Exchanges
 *   Product Recall
-*   Live Help
+*   Live Chat
 *   Nordstrom Stylists
 *   Find Your True Fit
 
@@ -520,7 +522,7 @@ Gift Cards About Us
 *   Mobile Site
 *   Site Map
 
-Connect with Us
+Nordstrom Connect with Us
 
 *   Follow Us on Twitter
 *   Read Our Blog
