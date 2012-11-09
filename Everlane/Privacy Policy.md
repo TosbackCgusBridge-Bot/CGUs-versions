@@ -85,11 +85,8 @@ If you have questions or suggestions regarding our privacy standards please emai
     edited collections.
     
     I'm interested, show me the goods →
-*     
-      
-    **There's a new way**: Designer clothes sell for 8 times what they cost to make. But we skip the middlemen to  
-    offer the finest essentials at truly disruptive prices.  
-      
+*   **There's a new way**: Designer clothes sell for 8 times what they cost to make. But we skip the middlemen to  
+    offer the finest essentials at truly disruptive prices.
     
 
 Already a member? Click here to log in.
