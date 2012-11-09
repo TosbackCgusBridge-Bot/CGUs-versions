@@ -8,15 +8,16 @@ ship to: United States | change $8.95 flat-rate shipping &. free shipping on ord
 *   Men
 *   kids
 *   Bags
-*   Jewelry
 *   Shoes
+*   Jewelry
 *   Wedding
 *   sale
+*   101 GIFT IDEAS
 *   FACTORY
 
 *   Shopping Bag
 
-25% OFF &. FREE SHIPPING ON YOUR ORDER OF $150+ WITH CODE OURTREAT. IN STORES &. ONLINE. \*details CLOSE X \*Offer valid at jcrew.com and J.Crew retail stores only. Offer not valid at jcrewfactory.com or J.Crew Factory stores. Offer valid in the U.S. and Canada only. Offer not applicable on In Good Company third-party branded partnerships or men's suiting. Offer does not apply to previous purchases, alterations or the purchase of gift cards. 25% discount applies to online orders of $150 or more before shipping, handling and taxes are added. Free shipping offer is valid on Internet orders shipped via regular shipping (3 to 6 business days). Free shipping applies only to online orders of $150 or more before shipping, handling and taxes are added. Offer valid through Thursday, November 8, 2012, 11:59pm ET. Savings and free shipping are applied at checkout with code OURTREAT. Offer not valid on phone orders. Cannot be combined with any other promotion or redeemed for cash. Limit one promotional code per order. Details of offer are subject to change.
+25% off &. free shipping on your order of $150+ with code OURTREAT. Online only. \*details CLOSE X \*Offer valid at jcrew.com only. Offer not valid at jcrewfactory.com, J.Crew retail stores or J.Crew Factory stores. Offer valid in the U.S. and Canada only. Offer not applicable on In Good Company third-party branded partnerships or men's suiting. Offer does not apply to previous purchases, alterations or the purchase of gift cards. 25% discount applies to online orders of $150 or more before shipping, handling and taxes are added. Free shipping offer is valid on Internet orders shipped via regular shipping (3 to 6 business days). Free shipping applies only to online orders of $150 or more before shipping, handling and taxes are added. Offer valid through Friday, November 9, 2012, 11:59pm ET. Savings and free shipping are applied at checkout with code OURTREAT. Offer not valid on phone orders. Cannot be combined with any other promotion or redeemed for cash. Limit one promotional code per order. Details of offer are subject to change.
 
 *   CHECK ORDER STATUS
 *   REGISTRATION Q&A
