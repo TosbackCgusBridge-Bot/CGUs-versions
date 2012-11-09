@@ -32,7 +32,7 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Featured Destinations
     *   Thanksgiving
     
-    *   Deal Locator
+    *   Deals Near Me
     
     *   From the Deal Experts
 *   Entertainment Deals
