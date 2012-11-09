@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (23.6 MB) Top Mac Downloads 1 Diner Dash: Flo Through Time 2 SpongeBob SquarePants Diner Dash 3 Parking Dash 4 Garden Dash 5 Avenue Flo 6 Avenue Flo: Special Delivery 7 Diaper Dash 8 Fitness Dash 9 Doggie Dash 10 Soap Opera Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (77.3 MB) Top Mac Downloads 1 Diner Dash: Flo Through Time 2 SpongeBob SquarePants Diner Dash 3 Parking Dash 4 Garden Dash 5 Avenue Flo 6 Diaper Dash 7 Avenue Flo: Special Delivery 8 Fitness Dash 9 Doggie Dash 10 Dairy Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
@@ -265,15 +265,15 @@ Fresh from the city!
 
 Explore DinerTown like never before
 
-**Play Free!** (82.2 MB) Try It Avenue Flo: Special Delivery Adventure &. Quests Games
-
-Help DinerTown save the event of the year!
-
-**Play Free!** (146.5 MB) Try It Diaper Dash DASH™ &. Time Mgmt Games
+**Play Free!** (82.2 MB) Try It Diaper Dash DASH™ &. Time Mgmt Games
 
 More cute, cuddly babies than you will know what to do with!
 
-**Play Free!** (22.6 MB) Try It Fitness Dash DASH™ &. Time Mgmt Games
+**Play Free!** (22.6 MB) Try It Avenue Flo: Special Delivery Adventure &. Quests Games
+
+Help DinerTown save the event of the year!
+
+**Play Free!** (146.5 MB) Try It Fitness Dash DASH™ &. Time Mgmt Games
 
 Get your DASH game in peak condition!
 
@@ -281,11 +281,11 @@ Get your DASH game in peak condition!
 
 Cleanliness is next to Dogliness!
 
-**Play Free!** (17.5 MB) Try It Soap Opera Dash DASH™ &. Time Mgmt Games
+**Play Free!** (17.5 MB) Try It Dairy Dash DASH™ &. Time Mgmt Games
 
-DinerTown's zaniest soap opera parody!
+Play 'til the cows come home!
 
-**Play Free!** (62.4 MB) Try It Log In New to PlayFirst?
+**Play Free!** (16.7 MB) Try It Log In New to PlayFirst?
 
 Sign up below to create a new PlayFirst account.
 
