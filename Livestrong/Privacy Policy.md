@@ -240,7 +240,7 @@ Get the latest tips on diet, exercise and healthy living.
 
 Your email is safe with us. We hate spam too!
 
-Featured this week on livestrong.com woman.
+Featured this week on livestrong.com
 
 *   Nov 7, 2012 Solutions For Common  
     Food Allergies
