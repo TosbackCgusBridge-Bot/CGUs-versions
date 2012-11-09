@@ -1,5 +1,5 @@
   
-Users Online Now: **2,197** (Who's On?) Visitors Today: **406,338** Pageviews Today: **660,441** Threads Today: **337** Posts Today: **4,594** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **3,021** (Who's On?) Visitors Today: **839,030** Pageviews Today: **1,567,952** Threads Today: **945** Posts Today: **13,899** 05:05 PM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,18 @@ trinity@godlikeproductions.com
   
 News
 
+*   Boeing Announces Big Layoffs in Defense Division
+*   Organ-on-a-Chip Mimics Deadly Lung Condition
+*   This Is Why Nobody Will Use Credit Cards In A Few Years
+*   School: Bus driver asks student to pick up gun from roadside(MN)
+*   Louisiana Petitions to Leave Union
+*   America Has Shifted To The Left And The Culture War Is Over
+*   Gas Rationing: New Yorkers, Welcome to the Third World
+*   Obama Wins 8 of the Nation’s 10 Wealthiest Counties…Impressive Stats for a “Socialist”
+*   Ex-chief of Iraq central bank says his sudden removal was government effort to seize control
+*   Millions of GMO Mosquitoes Released Without Risk Assessment or Oversight
+*   Pepsi will layoff 4000 employees
+*   WOW Player Accidentally Live Streams Sex W/Girlfriend
 *   Marc Faber's Asset Protection Plan: "Buy A Machine Gun", No Really, "You're Right, Buy A Tank"
 *   Implantable medical devices powered by the ear itself
 *   Crypto keys can be stolen from neighbours in the cloud
@@ -125,18 +137,6 @@ News
 *   Obama Ends Campaign in Half-Empty Arena
 *   Small Business Owner: I’ll Invest In 100 New Jobs – If Romney Wins
 *   EPA Planning Scorched Earth Assault on Coal
-*   CNN: Paranoid Much?
-*   McDelivery
-*   What Could Go Wrong? Christie Allows E-mail, Fax Voting
-*   The professional 'cuddler' who makes $260 a day
-*   NAACP ‘Ringleader’ Accused of Touching Voting Machine
-*   Nutella Loses Class Action Suit
-*   Sandy may deter storm victims from voting and extend US election
-*   Gun owners stock up on arms over fear of Obama re-election
-*   New York Faces Long-Term Housing Concerns After the Storm
-*   New Fake HIV Test to Target Poor
-*   Military Takes Over Election Day in New Jersey
-*   West Virginia: Traffic Stop Cannot Be Used to Justify Home Search
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.015s (0 queries)
+Page generated in 0.016s (0 queries)
