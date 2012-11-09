@@ -1,4 +1,4 @@
-**Universal Time:**  Friday, 09 Nov 2012, 13:12 | Member of The Weather Channel Group    National News
+**Universal Time:**  Friday, 09 Nov 2012, 22:06 | Member of The Weather Channel Group    National News
 
 *   Local
     *   Weather Report
