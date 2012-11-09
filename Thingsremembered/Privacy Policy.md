@@ -1,4 +1,4 @@
-iMuse Personalization Studio
+Rewards Club
 
 *   Gift Services
 
