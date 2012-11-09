@@ -1,8 +1,8 @@
-Bulletin Online travel site Priceline to buy rival Kayak for $40 a share Investor Alert
+Bulletin Coming up: U.S. import prices for October Investor Alert
 
-New York Markets After Hours
+New York Markets Open in:
 
-After Hours EarningsWatch Evening Winners and Losers
+Pre-Market Indications Analyst Ratings Oil News EarningsWatch
 
 Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
@@ -198,97 +198,87 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 4:17 PM EST November 8, 2012 /marketstate/country/us New York After /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:05 AM EST November 9, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  4:17p
+/news/latest1.  8:02a
     
-    Disney Q4 FactSet EPS 68c
+    4 investing moves as China shuffles leaders
     
-2.  4:17p
+2.  8:02a
     
-    Commute reads: Will Obama crack down on legal pot?
+    Is the Dow Theory now on a sell signal?
     
-3.  4:17p
+3.  8:01a
     
-    Oil futures regain $85 level after heavy drop
+    Big earnings on Friday: J.C. Penney, Covidien
     
-4.  4:16p
+4.  8:00a
     
-    Disney Q4 net $1.24B vs. $1.09B
+    Coming up: U.S. import prices for October
     
-5.  4:16p
+5.  7:59a
     
-    BREAKING
+    Firmer dollar weighs on crude-oil prices
     
-    Disney Q4 EPS 68c vs. 58c
+6.  7:41a
     
-6.  4:13p
+    Zipcar Inc. up 19% in premarket
     
-    BREAKING
+7.  7:41a
     
-    U.S. stocks end sharply lower for second session
+    Kayak Software jumps 26% in premarket
     
-7.  4:12p
+8.  7:41a
     
-    Priceline.com shares down 2.2% after hours
+    Hallwood Group up 27% in premarket
     
-8.  4:10p
+9.  7:40a
     
-    BREAKING
+    Array BioPharma falls 10% in premarket
     
-    Kayak shares halted in trading after hours
+10.  7:40a
     
-9.  4:10p
+    Groupon down 19% in premarket
     
-    S&P says 15% chance U.S. to fall over fiscal cliff
+11.  7:36a
     
-10.  4:09p
+    MoneyGram settles case with U.S., to pay $100 mln
     
-    Priceline to buy Kayak Software for $40 a share
+12.  7:34a
     
-11.  4:09p
+    Are some corporate bonds safer than Treasurys?
     
-    Stocks, Treasury yields drop more as Europe worries add to fiscal cliff
+13.  7:33a
     
-12.  4:08p
+    MoneyGram settles with Justice Dept.
     
-    Groupon reports net loss, missing estimates
+14.  7:33a
     
-13.  4:07p
+    MoneyGram agrees to $100 mln forfeiture
     
-    BREAKING
+15.  7:33a
     
-    Groupon shares fall 13% after Q3 report
+    MoneyGram agrees to independent monitor
     
-14.  4:02p
+16.  7:33a
     
-    Don’t play politics with your investment portfolio
+    MoneyGram faced charges from 2003-2009
     
-15.  4:02p
+17.  7:33a
     
-    Nasdaq Composite at lowest since late July
+    MoneyGram has invested $84 mln for compliance
     
-16.  4:01p
+18.  7:32a
     
-    S&P 500 ends at lowest since early August
+    Stock futures slip. focus on Obama, fiscal cliff
     
-17.  4:01p
+19.  7:31a
     
     Updates, advisories and surprises
     
-18.  4:00p
+20.  7:27a
     
-    Dow industrials finish at lowest level since July
-    
-19.  4:00p
-    
-    BREAKING
-    
-    U.S. stock indexes finish at session lows
-    
-20.  3:56p
-    
-    Economy would shrink 0.5% in 2013 if U.S. goes over fiscal cliff: CBO
+    Apollo swings to profit, AUMs reach $110 bln
     
 21.  Loading more headlines...
 
