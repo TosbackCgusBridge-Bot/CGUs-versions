@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** 'Mistaken identity' led to top Tory abuse claim
-2.  2\. **News:** Mitt Romney thanks wealthy donors as Republican strategists search for blame
+1.  1.  **News:** Mitt Romney thanks wealthy donors as Republican strategists search for blame
+2.  2\. **News:** 'Mistaken identity' led to top Tory abuse claim
 3.  3\. **Business:** 'Congratulations, you've become a Goldman Sachs partner'
-4.  4\. **Technology:** Bram Stoker books: a Google doodle that really sucks
-5.  5\. **News:** Bulgarian archaeologists find golden treasures in ancient Thracian tomb
+4.  4\. **News:** Bulgarian archaeologists find golden treasures in ancient Thracian tomb
+5.  5\. **News:** Tearful Obama thanks campaign team as Democrats ponder next moves
 6.  More most viewed
 
 Last 24 hours
 
 1.  **Education:** What kind of student spender are you?
 2.  **Global development:** Britain to stop aid to India
-3.  **Environment:** Satellite eye on Earth: October 2012 – in pictures
-4.  **Business:** Eurozone crisis live: Greece calls for calm over bailout delay
-5.  **Global development:** Developing economies to eclipse west by 2060, OECD forecasts
+3.  **Global development:** India will shed few tears over the end of UK aid
+4.  **Sport:** Rugby union: new faces in the 2012 autumn internationals – in pictures
+5.  **Global development:** UK to halt India aid and focus on trade
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,27 +312,27 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Media Talk podcast: Robbie Williams is the new Status Quo
-2.  2\. Syria's humanitarian crisis getting 'rapidly worse' UN warns - live updates
-3.  3\. Seduction playlist: get jiggy with these tracks
-4.  4\. Ansel Adams: Photography from the Mountains to the Sea exhibition opens in London
-5.  5\. Premier League live webchat: Jacob Steinberg answers your questions
+1.  1.  David Petraeus resigns as director of CIA over affair - US politics live
+2.  2\. Andy Murray v Jo-Wilfried Tsonga – as it happened
+3.  3\. The Middle East greets Barack Obama's re-election with a shrug | Issandr El Amrani
+4.  4\. Should an extramarital affair have compelled Petraeus' resignation as CIA director? | Poll
+5.  5\. The phony fiscal cliff: expect tax cuts extended and spending cuts postponed | Grover Norquist
 6.  All today's stories
 
 On the Guardian today
 
 1.  World news Mitt Romney thanks wealthy donors as Republican strategists search for blame
-2.  World news US election 2012: winners and losers
-3.  World news Bulgarian archaeologists find golden treasures in ancient Thracian tomb
-4.  Comment is free CNN claims Iran shot at a US drone, revealing the news network's mindset
-5.  World news Tearful Obama thanks campaign team as Democrats ponder next moves
-6.  World news Republicans debate future as 2016 jostling begins - US politics live
+2.  World news Iran's strike on US drone demonstrates the fragility of uneasy peace
+3.  World news US election 2012: winners and losers
+4.  World news Bulgarian archaeologists find golden treasures in ancient Thracian tomb
+5.  World news David Petraeus resigns as director of CIA over affair - US politics live
+6.  Football Premier League: 10 things to look out for this weekend
 
 Most popular in this section From the Guardian today
 
-*   Hurricane Sandy: 10 statistics that place this powerful storm in perspective **Harry Enten**: Overhyped? Hardly – this storm system is massive and its effects will be felt for days by much of the US east coast
-*   San Francisco Giants win World Series by sweeping the Detroit Tigers **MLB:** San Francisco Giants win fluctuating Game Four 4-3 in extra inning to sweep Detroit Tigers and claim 2012 World Series
-*   Eurozone crisis: three years of pain - interactive timeline Three years ago this week Greece's finance minister revealed a black hole in the country's budget – the first sign of a debt crisis that has shaken markets and sparked unprecedented austerity and protests
+*   The new rules of the dancefloor With fewer self-policing pop culture tribes, the dancefloor is more mixed up than ever. Fortunately, our clubland correspondent has compiled this etiquette guide
+*   How to cook the perfect fried egg If you can turn out exquisite fried eggs every single time you've got one over on most cooks. What's your secret?
+*   Argo – film review Ben Affleck's smart comedy about a bogus film shoot cooked up by the CIA to rescue Americans trapped in Tehran takes an unfortunate last turn
 
 Today's best video
 
@@ -341,8 +341,8 @@ Today's best video
 
 Most popular on the Guardian Today in pictures
 
-*   Hurricane Sandy approaches north-eastern US - in pictures Hurricane Sandy, which could affect tens of millions of people in the northeast US, is expected to bring days of rain, high winds and possibly heavy snow
-*   London Comic Con 2012 – in pictures Visitors to the MCM Comic Con at the ExCel centre in London dress up as their favourite characters
+*   Ansel Adams: Photography from the Mountains to the Sea exhibition opens in London Ansel Adams' (1902-1984) spectacular images capturing America's great wildernesses have made him one of the most influential photographers of all time. A new exhibition at the National Maritime Museum in Greenwich, London offers a rare chance to see his work exhibited on a large scale in the UK
+*   Satellite eye on Earth: October 2012 – in pictures Cloud vortices, salt flats, superstorms and desert wetlands were among the images captured by European Space Agency and Nasa satellites last month
 
 *   License/buy our content
 |*   Privacy policy
