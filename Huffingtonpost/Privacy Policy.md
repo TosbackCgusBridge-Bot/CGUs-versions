@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Hurricane Sandy 2012
+*   Prince Charles
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-November 8, 2012 Edition: **U.S.**
+November 9, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ November 8, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Obama's Next Urgent Task9k
-    *   Trump: It's A 'Total Sham,' Time For 'Revolution'14k
-    *   Romney Transition Website Draft Uncovered4k
-    *   Who Won The Popular Vote?4k
-    *   Harry Reid: Filibuster Reform Will Be Pursued In The Next Congress12k
+    *   Romney 'Shellshocked' By Loss28k
+    *   Romney Campaign: We Lost Florida11k
+    *   Romney Transition Website Draft Uncovered8k
+    *   WATCH: Obama Tears Up While Addressing Campaign Staff8k
+    *   Karl Rove Spins GOP Election Losses14k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ November 8, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   What Obama And FDR Have In Common8k
+    *   CEO Fires 22 Workers After Obama Wins Reelection8k
+    *   LOOK: Upside Down Flag At McDonald's Raises Questions3k
+    *   Peyton Manning's Amazing Marijuana Timing227
     *   Donald Trump's Tweets Deleted Following Post-Election Tirade5k
-    *   LOOK: Upside Down Flag At McDonald's Raises Questions2k
-    *   4 CEOs That Threatened To Fire Workers If Obama Won2k
-    *   14 Ways Pot Legalization Could Boost The Economy161
+    *   CEO Who Promised Huge Layoffs After Obama Reelection Has Change Of Heart593
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ November 8, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   Victoria Jackson LOSES IT Over Obama's Win9k
-    *   Stacey Dash's 1,344 Words On The Election993
-    *   PHOTOS: Rihanna Stuns At Victoria's Secret Fashion Show25
-    *   'Spy Kids' Star Like You've Never Seen Her94
-    *   The Best Bond Ever?150
+    *   Victoria Jackson LOSES IT Over Obama's Win10k
+    *   PHOTOS: Rihanna Stuns At Victoria's Secret Fashion Show52
+    *   'Spy Kids' Star Like You've Never Seen Her145
+    *   Stacey Dash's 1,344 Words On The Election1k
+    *   Ted Nugent Goes On Angry Twitter Rant After Obama Reelection 4k
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ November 8, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   Teen Son Of Billionaire Jokes About Killing Obama, Posts Convo On Instagram 4k
-    *   The 7 Best Tweets From Election Night 2012 27
-    *   WATCH: Surface CRUSHES iPad In New Parody Video561
-    *   The Most Popular Facebook Photo Ever63
-    *   Scoot Over, Bieber18
+    *   Teen Son Of Billionaire Jokes About Killing Obama, Posts Convo On Instagram 5k
+    *   Bank Doesn't Want To Own Up To Facebook's Botched IPO270
+    *   The Most Popular Facebook Photo Ever68
+    *   The 7 Best Tweets From Election Night 2012 41
+    *   7 Numbers That Apple Should Be Worried About49
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ November 8, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   Rush Limbaugh Reacts To Obama's Win15k
-    *   Matthews Addresses Controversial Hurricane Sandy Comments2k
+    *   LISTEN: 'Demoralized' Ann Coulter Laments Romney Loss8k
+    *   WATCH: Rachel Maddow Relishes Republican Losses4k
+    *   Rush Limbaugh Reacts To Obama's Win16k
     *   WATCH: Brian Williams Condemns Donald Trump2k
-    *   LISTEN: 'Demoralized' Ann Coulter Laments Romney Loss6k
-    *   Diane Sawyer Drunk Rumor Explodes On Twitter1k
+    *   Megyn Kelly Tells Karl Rove Obama Won1k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ November 8, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   Divers Find Sunken Russian Ship Carrying Tons Of Gold Ore187
     *   Ahmadinejad: U.S. Election Is 'Battleground For Capitalists'1k
-    *   Strong Quake Rattles Guatemala142
-    *   World Reacts To Obama's Victory1k
-    *   Assad: I Won't Leave Syria401
+    *   Pentagon: Iran Fired On U.S. Drone7k
+    *   Ancient Well Discovered In Israel133
+    *   Divers Find Sunken Russian Ship Carrying Tons Of Gold Ore192
+    *   Archeologists Explore War-Torn Site Of Ancient City166
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ November 8, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Jane Lost More Than 100 Pounds: 'Now I Know That I'm Truly Worth Fighting For'44
-    *   The Short Sleeper, The Napper, The Snorer: Surprising Sleep Habits Of Past Presidents100
-    *   25 Of The Healthiest Herbs And Spices In The World36
-    *   10 Ways To Lower Your Blood Pressure Naturally46
-    *   10 Uplifting Books To Help You Through A Hard Day15
+    *   Jane Lost More Than 100 Pounds: 'Now I Know That I'm Truly Worth Fighting For'56
+    *   25 Of The Healthiest Herbs And Spices In The World52
+    *   The Short Sleeper, The Napper, The Snorer: Surprising Sleep Habits Of Past Presidents114
+    *   WATCH: My Mother Misdiagnosed Me With Asperger’s31
+    *   10 Ways To Lower Your Blood Pressure Naturally53
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -173,11 +173,11 @@ November 8, 2012 Edition: **U.S.**
     *   OWN
 *   Style
     
-    *   Mary Hart Palled Around With Warhol, Still Loves Sensible Pumps16
-    *   Rihanna, Justin Bieber &. The Angels At Victoria's Secret Fashion Show19
-    *   PHOTOS: The Most Controversial Look At The Victoria's Secret Fashion Show485
-    *   PHOTOS: Michelle Obama Celebrates Barack's Second Election Victory In Style388
-    *   PHOTOS: Miranda Kerr Braves The Cold In Short Leather Shorts208
+    *   Rihanna, Justin Bieber &. The Angels At Victoria's Secret Fashion Show61
+    *   Mary Hart Palled Around With Warhol, Still Loves Sensible Pumps39
+    *   PHOTOS: The Most Controversial Look At The Victoria's Secret Fashion Show746
+    *   Move Over, Rachel: There's A New Signature Haircut In Town134
+    *   PHOTOS: Michelle Obama Celebrates Barack's Second Election Victory In Style424
     
     Go to Style **More in Style**
     
@@ -195,11 +195,11 @@ November 8, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   'There Was An Avalanche On Bullsh\*t Mountain' 1k
-    *   7 Sites You Should Be Wasting Time On Right Now
-    *   'Claire McCaskill Has Legitimately Raped Todd Akin'504
-    *   You'd Think Rick Santorum Understood Double Entendre By Now1k
-    *   Four More Years152
+    *   'There Was An Avalanche On Bullsh\*t Mountain' 2k
+    *   Uh Oh, Drunk Nate Silver Has Gone Mad With Power64
+    *   21 People Who Probably Didn't Get The Job19
+    *   WATCH: Was Diane Sawyer Drunk?75
+    *   WATCH: Colbert Copes With Obama's Reelection318
     
     Go to Comedy **More in Comedy**
     
@@ -216,11 +216,11 @@ November 8, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Now Sound Off On Loughner
-    *   Next The New NBA
-    *   Coming Up Dying For A Cause
-    *   Coming Up Don't Judge Me, I'm 2!
-    *   Coming Up Domestic Prison HellGo to HuffPost Live
+    *   Next Obama and Wall Street
+    *   Next Immigration Deal?
+    *   Coming Up Busting The Filibuster
+    *   Coming Up Foreign Policy Storm
+    *   Coming Up Obama: The Next Reagan?Go to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
