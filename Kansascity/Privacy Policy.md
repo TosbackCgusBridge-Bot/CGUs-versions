@@ -134,33 +134,33 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $50 for $200 off mattress sale price $50 Value: Discount: You Save: $200 75% $150
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Mattress City: $50 for $200 off of Sale Price of any Simmons Beautyrest $50 Value: Discount: You Save: $200 75% $150
 
 Friday: Five things to do
 
-*   Fall Harvest Art &. Craft Fair
-*   Free Museum Admission for Bank of America &. Merrill Lynch Cardholders
-*   Turkey Napkin Holder
-*   Clay Handprint Day
-*   Colors of Fall Wreath
+*   Airplane Craft
+*   Holiday Ornament
+*   LEGO Nameplate Building Event
+*   Time Warner Cable STEMfest
+*   Kids Fun Fest – Red Panda Day
 
-1.  SALES
+1.  FIELD TECHNICIAN
     
-2.  Maintenance Supervisor
+2.  PARALEGAL
+    
+    GREGORY LEYH, P.C.
+    
+3.  Maintenance Supervisor
     
     Robert's Dairy
     
-3.  CAMPAIGN JOBS
+4.  PLUMBER/DRAIN CLEANER
     
-    Grassroots Campaigns, Inc.
+    Snake'n'Rooter
     
-4.  Press &. Lamination Operators
+5.  Press &. Lamination Operators
     
-5.  Apartment Maintenance Tech Part Time
-    
-    Georgetown Apartments
-    
-6.  PROGRAM DIRECTOR
+6.  Apartment Maintenance Helper
     
 
 View More The Most
@@ -168,16 +168,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   KC's Tate Stevens top vote-getter on 'X Factor'
+*   Man dies in late night crash into rock wall in Kansas City
+*   Excelsior Springs man dies in crash while trying to avoid deer
+*   St. Louis County police to go undercover on pizza deliveries
 *   Royals trade Jeffress to Toronto and Hottovy to Texas
-*   Women voters lead way in rejecting extremism
+*   Clinton, Geithner among those expected to leave cabinet
+*   Man found dead in KCK lake is identified
 *   Steelers know that Chiefs game is huge for Haley
-*   Video-game review: 'Halo 4' diminishes the aura surrounding Master Chief
-*   Area restaurants, grocers cited for health-code violations
+*   KC's Tate Stevens top vote-getter on 'X Factor'
 *   K-State gives Pease a chance at running back
-*   Royals’ Butler wins Silver Slugger as DH
-*   Quinn, still out of Chiefs lineup, says he ignored concussion signs
-*   Colorados vote to legalize marijuana fires up doubters (poll)
+*   Crennel: Turnovers will send Chiefs to the bench
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
