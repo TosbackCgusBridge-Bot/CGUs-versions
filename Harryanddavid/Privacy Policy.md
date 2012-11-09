@@ -221,6 +221,9 @@ This Website is owned by Harry &. David. For questions, comments, or assistance,
     *   View Catalog Online
     *   Gift Cards
     *   Harry and David Coupons
+    *   Cheese and Sausage Gifts
+    *   Chocolate Dipped Fruit
+    *   Edible Fruit Gifts
     *   \>. more
 *   In Our Stores
     *   Store Locator
@@ -230,6 +233,7 @@ This Website is owned by Harry &. David. For questions, comments, or assistance,
     *   Shop Business Gifts
     *   \>. more
 *   Community Information
+    *   Harry &. David Blog
     *   Recipes
     *   Harvest Report &. Club  
         Arrival Updates
