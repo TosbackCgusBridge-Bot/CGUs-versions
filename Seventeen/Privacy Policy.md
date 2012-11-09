@@ -17,7 +17,7 @@ Try: Cool Nails Dating Advice Homecoming Dresses
 *   Traumarama
 *   Share Your Thoughts
 
-Share Your Tips For Having Fun Without Spending A Ton Of Money!
+Enter the Fiction Contest (and Win $5K!)
 
 *   Shopping
 *   Celeb Makeovers
@@ -101,14 +101,14 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     Sarah Habel On _Underemployed_
 *   fashion
     
-    Kit's Diary: Tokyo Travels
+    Karlie Kloss Dishes On The VS Show!
 *   love
     
     Flirty Text Message Ideas!
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win Britney Spears Fantasy--it's super-light and pretty! Type in the Freebie Phrase of the Day, found in the November Issue!
+**1 Winner!** Enter for a chance to win Elixir by Shakira, a blend of orange and pepper. Type in the Freebie Phrase of the Day, found in the November Issue!
 
  enter now 
 
@@ -233,7 +233,7 @@ Site Service
 *   Mobile
 *   Shop
 
-Hair Ideas Hairstyles Formal Hairstyles Hair Color Ideas Sexy Hair Celebrity Hairstyles Long Hairstyles Red Hair Colors Hairstyles with Bangs Curly Hairstyles Blonde Hair Colors Short Hair Styles Makeup Tips Beauty Tips Virtual Makeover Best Foundation Lipstick Mascara Best Eye Cream Makeup Trends Spring 2013 Nail Polish Eyeliner Makeup Tips How to Look Younger Fashion Fall 2012 Fashion Trends Fashion 2012 Fashion Blog Mad Men Fashion Celebrity Style Best Fall Boots Street Style 2 Week Diet Red Carpet Dresses French Style Fashion Trends Relationship Advice Love Horoscopes How to Kiss Daily Horoscope Gifts for Boyfriend Date Night Romantic Ideas Date Ideas How to Flirt How to Be Sexy Sex Advice More Date Ideas
+Hair Ideas Hairstyles Formal Hairstyles Hair Color Ideas Sexy Hair Celebrity Hairstyles Long Hairstyles Red Hair Colors Hairstyles with Bangs Curly Hairstyles Blonde Hair Colors Short Hair Styles Makeup Tips Beauty Tips Virtual Makeover Best Foundation Lipstick Mascara Best Eye Cream Makeup Trends Spring 2013 Nail Polish Eyeliner Makeup Tips How to Look Younger Fashion Fashion Winter 2012 Fashion 2012 Fashion Blog Mad Men Fashion Celebrity Style Best Fall Boots Street Style 2 Week Diet Red Carpet Dresses French Style Fashion Trends Relationship Advice Love Horoscopes How to Kiss Daily Horoscope Gifts for Boyfriend Date Night Romantic Ideas Date Ideas How to Flirt How to Be Sexy Sex Advice More Date Ideas
 
 Connect with Seventeen
 
