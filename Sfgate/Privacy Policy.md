@@ -1,6 +1,6 @@
 (skip this header)
 
-Thursday Nov 08, 2012 1:15 PM PT
+Friday Nov 09, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Weird apologies on SorryWatch
-*   Mission Chinese a mixed blessing
-*   Jewish awards for teens
-*   Floating Sandy bar
-*   Blue Gingko's fab sushi
+*   3 things to get you promotion
+*   Mustaches for Movember
+*   Snow on Sierra crest
+*   '95 Jobs interview released
+*   Rita Ora's embarrassing flash
 
 *   Bay Area &. State
 *   Nation
@@ -339,6 +339,19 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Homes on the market in Atherton and Ross
+*   Celebrity offspring
+*   Tree rings to help date old Presidio fort
+*   Earthquake wreaks havoc in Guatemala
+*   Nation in Focus
+*   World in Focus
+*   Joe Biden
+*   Mitt Romney and the Secret Service
+*   Narcisco Rodriguez Collection
+*   Day in Pictures, Nov. 8, 2012
+*   2012 BAFTA/LA Britannia Awards
+*   Black Friday craziness
+*   Sierra snow watch, Nov. 8
 *   Bay Area Billionaires
 *   Hakka
 *   Victoria's Secret Fashion Show 2012
@@ -366,19 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   'Skyfall' New York premiere
 *   The World Reacts to the US Presidential Election
 *   Election night
-*   Colorado, Washington Celebrate Legalizing Pot
-*   Top spenders and winners
-*   2012 Election Night
-*   Election night in focus
-*   World in Focus
-*   Election night
-*   Obama's election night party in Chicago
-*   Voting in Florida
-*   Voting across the nation
-*   Voting in the Bay Area
-*   Start-Ups: Silicon Valley reality show
-*   ACE Awards 2012
-*   Jerry Brown election day
 
 *   Most Read
 *   |
@@ -386,56 +386,54 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Why Apple's Stock Is Getting Demolished Lately (AAPL)
-2.  USC manager fired for deflating balls in loss
-3.  Jeff Kent’s epic “Survivor” loser speech …
-4.  Calif. proposition results mixed, liberal or not
-5.  Hidden danger lurks under pavement
-6.  Sheriff Ross Mirkarimi recall in works
-7.  Calif. teen says she lied about rape
+1.  Where Fox News goes from here
+2.  Injured World Series reveler dies
+3.  Cold and wet in Bay Area - snow?
+4.  Best, worst and baddest Bond women
+5.  Oakland robbers attack TV cameraman
+6.  Jeff Kent’s epic “Survivor” loser speech …
+7.  'Skyfall' review: M is for mommy figure
 
-1.  Obama wins re-election
-2.  Democrats seize supermajority in state Legislature
-3.  Prop. 30 trailing in early returns
-4.  Sheriff Ross Mirkarimi recall in works
-5.  House speaker says he'll consider tax increase
-6.  Ten hard lessons from Tuesday
-7.  Quiet media night explodes suddenly, Rove protests
+1.  Sheriff Ross Mirkarimi recall in works
+2.  Obama's health care overhaul turns into a sprint
+3.  Oakland robbers assault, rob TV cameraman
+4.  Jeff Kent's epic "Survivor" loser speech ...
+5.  Republicans vilified, Democrats excused
+6.  Will Pelosi step down as Dem leader?
+7.  Obama may tap Californians for Cabinet
 
-1.  Paragon Outlets Livermore Valley opening
-2.  USC manager fired for deflating balls in loss
-3.  Why Apple's Stock Is Getting Demolished Lately (AAPL)
-4.  Obama may tap Californians for Cabinet
-5.  Google staffers, janitors pair up for ESL
-6.  Tree rings to help date old Presidio fort
+1.  Police: Drunk man fixes dinner in strange home
+2.  Paragon Outlets Livermore Valley opening
+3.  Obama's health care overhaul turns into a sprint
+4.  Take it easy: Freeze now and bake later
+5.  Cold and wet in Bay Area - snow?
+6.  Hawk's Tavern closes abruptly
 7.  Main Street, Penngrove
 
 loading... Latest News Videos From our homepage
 
 *     
-    Mel Evans, Associated Press / SF
+    SF Gate / Douglas Zimmerman / SF
     
-    New storm slams Northeast
+    It's going to get cold
     
-    Photos: Recovering from Sandy devastation, region's hit again.
+    Thunderstorms, hail and even snow on Mount Diablo and Mount Hamilton are possible.
     
-*   Storm brings new outages
 
 *     
     J. Scott Applewhite, Associated Press / SF
     
     Will she step down as leader?
     
-    Lackluster Dem results fuel speculation about Pelosi's future.
+    Lackluster Dem results fuel speculation about Nancy Pelosi's future.
     
-*   Cabinet-bound Californians?
 
 *     
-    Chronicle File, The Chronicle / ONLINE\_YES
+    Devin MacDonald / SF
     
-    S.F. Zoo: Then and now
+    1897 Victorian redone in S.F.
     
-    Come back to the early years when cages were tiny and there were few rules about feeding.
+    This Hayes Valley condo features a yard, 3 bdrms, garage, updated kitchen. Asking $1.6M.
     
 
 *   Home
