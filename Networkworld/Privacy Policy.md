@@ -30,12 +30,13 @@ Skip Links
 Network World
 
 *   News
-*   Blogs &. Columns
-*   Subscriptions
+*   Blogs
+*   Newsletters
 *   Videos
 *   Events
 *   Insider
 *   More
+
 *   Twitter
 *   Facebook
 *   Linked In
