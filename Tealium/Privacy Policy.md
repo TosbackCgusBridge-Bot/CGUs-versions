@@ -42,7 +42,7 @@ United Kingdom
 20 Hanover Square  
 London, W1S 1JY
 
-+44 (0) 7771 924754
++44 (0) 207 084 6268
 
 Germany
 
