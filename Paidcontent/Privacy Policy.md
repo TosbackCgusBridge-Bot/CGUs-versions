@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-How media companies can think more like startups
+Online viewers start leaving if video doesn’t play in 2 seconds, says study
 
 Stay on top of tech news in your inbox
 
