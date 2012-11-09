@@ -1,5 +1,5 @@
 3-DAY SPREE SALE: Shop  
-designer deals through Sunday only Get up to a $400 GIFT CARD  
+designer deals through Saturday only Get up to a $400 GIFT CARD  
 with select purchase. Find out how **nmbuzz:** sign up for nm  
 updates via text messaging FREE SHIPPING\*  
 with code NMFALL Assistance How may we help you? 1.888.888.4757 Call 24 hrs / 7 days Chat with Us Email us
