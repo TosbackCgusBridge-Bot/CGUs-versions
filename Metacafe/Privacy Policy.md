@@ -27,9 +27,6 @@ Metacafe
 
 Safe Search OFF Go Sign In
 
-*   Upload
-*   My Channel
-
 1.  Your Account
     *   My Channel
     *   Subscriptions
