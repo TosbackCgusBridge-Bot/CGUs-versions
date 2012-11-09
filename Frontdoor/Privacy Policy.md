@@ -18,7 +18,7 @@ Your Account   Log Out Hi, Your Account   Log Out
     *   1st Time Homebuyer Guide
     *   Home Finance Guide
     *   Home Loan Types
-    *   Find an Agent
+    *   Explore Home Plans
     
     *   Experienced Buyer Guide
     *   Moving Guide
@@ -68,7 +68,7 @@ Your Account   Log Out Hi, Your Account   Log Out
     
     *   1st Time Homebuyer Guide
     *   Home Selling Guide
-    *   Moving Guide
+    *   Home Plans by Style
     *   Home Finance Guide
     *   Foreclosure Guide
     *   Maximum Value Projects
@@ -139,7 +139,7 @@ Your Account   Log Out Hi, Your Account   Log Out
     
     *   Tax Savings
     *   Can I Afford It?
-    *   Find an Agent
+    *   Home Plan Finder
 *   For Agents  For Agents
     
     *   Log in/Sign Up
