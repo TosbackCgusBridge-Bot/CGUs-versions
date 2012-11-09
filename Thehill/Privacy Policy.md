@@ -212,35 +212,35 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Health group asks Obama to stop eating junk food in public Boehner 'confident' GOP, Obama can reach deal on immigration reformChristie calls Obama to congratulate, emails Romney condolencesCongress expected to ignore Puerto Rico's vote for statehoodRomney adviser concedes Florida vote to Obama
+Dear Matt Drudge: Stop the race storiesInterior proposal would block oil shale development on federal lands in WestObama says deficit plan must include higher taxes for wealthyHealth group asks Obama to stop eating junk food in public Data drove Obama’s ground game
 
 Emailed
 
-Congress expected to ignore Puerto Rico's vote for statehoodUS helps advance UN arms treatyConservatives lambast Romney, vow to take over Republican PartyBoehner 'confident' GOP, Obama can reach deal on immigration reformWall St. ready to reconcile with Obama
+Interior proposal would block oil shale development on federal lands in WestCongress expected to ignore Puerto Rico's vote for statehoodDear Matt Drudge: Stop the race storiesBoehner 'confident' GOP, Obama can reach deal on immigration reformCBO lays out 'fiscal cliff' costs
 
 Discussed
 
-Opinion: Here comes the landslideObama's 'revenge' remark reverberates on presidential campaign trailGOP senators: Thousands of ballots unlikely to reach military voters in timeObama wins a second term, calls for national unity in victory speechMore bad news for Mitt Romney
+Dear Matt Drudge: Stop the race storiesOpinion: Here comes the landslideObama's 'revenge' remark reverberates on presidential campaign trailGOP senators: Thousands of ballots unlikely to reach military voters in timeObama wins a second term, calls for national unity in victory speech
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   MORNING READ
-*   Boehner 'confident' GOP, Obama can reach deal on immigration reform
-*   Obama to speak on 'fiscal cliff'
+*   Supreme Court to consider rolling back minority protections in Voting Rights Act
+*   Gallup: 2012 election had the largest gender gap in recorded history
+*   President to dine with Mass. Gov. Patrick, stoking Cabinet speculation
 
   
 More Briefing Room » Congress Blog
 
-*   Pass a fiscally responsible Farm Bill extension
-*   LGBT Americans are part of country's social fabric
-*   Fiscal responsibility, not sequestration, is the goal
+*   Obama neutralized Republicans on the economy - and won
+*   Let's find agreement on new offshore access
+*   Time to listen to Rick Perry and Jeb Bush
 
   
 More Congress Blog » Pundits Blog
 
-*   A job for Mitt Romney
-*   Dear Matt Drudge: Stop the race stories
-*   Can we sell conservatism in the foreseeable future?
+*   The Drudge debate
+*   Let the poker game begin
+*   Why is Wall Street worried?
 
   
 More Pundits Blog » Twitter Room
@@ -252,68 +252,68 @@ More Pundits Blog » Twitter Room
   
 More Twitter Room » Hillicon Valley
 
-*   News bites: Priceline to buy Kayak for $1.8 billlion
-*   Data drove Obama’s ground game
-*   AT&T backs down from FaceTime restriction following net-neutrality complaints
+*   Google services blocked in China
+*   NAACP blasts Pandora-backed Internet royalty bill
+*   News bites: Priceline to buy Kayak for $1.8 billion
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   SEC nixes Big Oil, US Chamber push to delay disclosure rule
-*   News bites: Gas rationing in New York, gloomy climate forecast, and more
-*   Wind tax credit backers ramp up campaign to greet Congress
+*   Interior proposal would block oil shale development on federal lands in West
+*   White House says Obama is not planning a carbon tax proposal
+*   GOP Sen.-elect Jeff Flake disavows carbon tax plan
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Senate, House Dems face tough election fundamentals in 2014
-*   Report: NRA shoots blanks this election
-*   Florida Democratic Party calls for voting reform
+*   Anti-incumbent group will be back for 2014
+*   George P. Bush eyes campaign in Texas
+*   Steve King doesn't rule out 2014 Senate bid
 
   
 More Ballot Box » On The Money
 
-*   News bites: Topsy-turvy taxes
-*   CBO lays out 'fiscal cliff' costs
-*   Liberals outline fiscal cliff demands for taxes, spending
+*   Geithner staying at Treasury into 2013
+*   Obama says deficit plan must include higher taxes for wealthy
+*   Conrad: Tax code can be more progressive without higher rates
 
   
 More On The Money » Healthwatch
 
-*   Boehner: 'ObamaCare is the law of the land'
-*   CBO: Federal healthcare costs skyrocketing
-*   Analysis: Planned Parenthood saw near perfect return on election spending
+*   HHS offers states extra time on exchanges
+*   Groups to launch campaign to keep federal research funding
+*   Conservatives press the states to keep  fighting ‘ObamaCare’
 
   
 More Healthwatch » Floor Action
 
-*   House members announce study on impact of DC building height restrictions
-*   After Maryland referendums pass, Cardin says Congress should act on DOMA, DREAM Act
-*   Rep. King promises to push balanced-budget amendment next year
+*   Senate to hold hearings on Libyan terrorist attack, meningitis outbreak
+*   RSC chair Jordan to Obama: Send 'cliff' legislation to Congress
+*   Reid tells GOP to 'come to grips,' extend tax rates for those making less than $250K a year
 
   
 More Floor Action » Transportation
 
-*   Shuster confident in transportation panel bid despite possible Mica waiver
-*   Second Northeast storm cancels nearly 2,400 flights
-*   Rep. Shuster announces bid for House Transportation Committee chairmanship
+*   Auto union: Obama thankful for election support
+*   TSA ratifies contract with government employee union
+*   Mica, Boehner to talk Transportation Committee chairmanship next week
 
   
 More Transportation » DEFCON Hill
 
-*   Pentagon insiders seen as most likely successors for Panetta at DoD
-*   US issues new round of economic sanctions on Iran
-*   DOD confirms Iranian attack on US drone
+*   Petraeus resigns as CIA chief over extramarital affair
+*   Top Senate Republican demands more Navy dollars in wake of Iran attack
+*   Report: Afghanistan seeks peace talks with Taliban
 
   
 More DEFCON Hill » Global Affairs
 
-*   Rep. Berman rumored for secretary of State job after losing California seat
-*   Dem Reps. Sherman, Engel will seek Foreign Affairs leadership post
-*   Netanyahu denies rooting for Romney, as critics fear weakened US-Israel ties
+*   Obama renews 33-year-old state of emergency with Iran as Senate mulls crippling sanctions
+*   Clinton to travel with Obama to Burma
+*   US announces $34 million in new humanitarian aid to Syria as winter approaches
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Seizing the moment Brent Budowsky Reid soars, Warren shines More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Seizing the moment Brent Budowsky Drudge: Stop race stories More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
