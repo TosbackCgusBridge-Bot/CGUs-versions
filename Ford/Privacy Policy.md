@@ -1090,21 +1090,9 @@ Based on Ford drive-cycle tests of comparably equipped 2012 Ford and 2011/2012 c
 
 EPA-estimated fuel economy 16 city/22 hwy/18 combined mpg, 3.5L V6 4x2.
 
-92
-
-Includes iPhone and Blackberry.
-
 93
 
 Only on vehicles equipped with SYNC® with MyFord Touch™ or SYNC with hard drive-based, voice-activated Navigation System.
-
-94
-
-Most popular media players and file formats are compatible with SYNC. Supported audio formats include MP3, AAC, WMA and WAV. You can also use voice commands to tune to your favorite AM/FM/SiriusXM channels with SYNC® with MyFord Touch®.
-
-95
-
-Your mobile phone or media device must support Bluetooth® streaming audio.
 
 97
 
@@ -1194,10 +1182,6 @@ SYNC® with MyLincoln Touch® is standard on the 2012 Lincoln MKX. SD card navig
 
 Based on RDA Group’s GQRS cumulative survey at three months of service in three surveys of 2010 Ford and competitive owners conducted 9/09-5/10.
 
-124
-
-Feature not available on Focus equipped with SYNC® with MyFord Touch®.
-
 126
 
 Some features only on vehicles equipped with SYNC® and optional Navigation System or available SYNC® with MyFord Touch.® Commands may vary by model year.
@@ -1234,10 +1218,6 @@ Center stack images displayed vary by model selected.
 
 The Ford Fusion received the lowest number of problems per 100 vehicles among midsize cars in the proprietary J.D. Power and Associates 2011 Vehicle Dependability Study.SM Study based on 43,779 consumer responses measuring problems consumers experienced in the past 12 months with three-year old vehicles (2008 model-year cars and trucks). Proprietary study results are based on experiences and perceptions of consumers surveyed October-December 2010. Your experiences may vary. Visit jdpower.com
 
-136
-
-Only available with SYNC® with MyFord Touch® with available Navigation System.
-
 137
 
 SYNC Destinations is available to owners of SYNC-equipped vehicles who have registered an active SYNC Services account at SYNC OWNER (syncmyride.com/support).
@@ -1253,10 +1233,6 @@ iHeartRadio is a registered trademark of Clear Channel Broadcasting, Inc.
 140
 
 Slacker® is a registered trademark of Slacker®, Inc.
-
-141
-
-Requires Premium Combination Audio/Navigation System
 
 142
 
@@ -1301,10 +1277,6 @@ EPA-estimated 110 city/99 hwy/105 combined MPGe. MPGe is the equivalent measure 
 152
 
 EPA-estimated. Actual mileage will vary. Class is Small Electric Cars.
-
-153
-
-EPA estimated 47 city/47 hwy/47 combined mpg. Actual mileage will vary. Class is Midsize Hybrid Sedans vs. 2012/2013 competitors.
 
 154
 
