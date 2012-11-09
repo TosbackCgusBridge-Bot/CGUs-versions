@@ -270,25 +270,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Updated 11/8/2012 at 4:08 p.m. 96 comments
-*   Sex offender offered teen drugs in exchange for a girl at Caldwell Park, police say Published 11/8/2012 at 6:37 a.m. 22 comments
-*   Larry Kay: Let's turn off fear-mongerers Published 11/8/2012 at 12:00 a.m. 120 comments
-*   Election 2012: How the north state voted Published 11/7/2012 at 11:29 p.m. 38 comments
-*   UPDATED: Red Bluff man dies after police handcuff him. 42-year-old identified Updated 11/8/2012 at 12:21 p.m. 42 comments
+*   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Updated 11/8/2012 at 4:08 p.m. 97 comments
+*   UPDATE: Names released for two killed in fiery south Redding crash early Thursday Updated 11/9/2012 at 8:23 a.m. 29 comments
+*   UPDATED: Police use stun gun to stop 'violent, crazed' man carrying crowbar, knife Updated 11/9/2012 at 7:19 a.m. 47 comments
+*   San Francisco plans to cover cost of transgender surgeries Published 11/9/2012 at 4:00 a.m. 61 comments
+*   Charles Krauthammer: The Republicans' way forward Published 11/9/2012 at 12:00 a.m. 69 comments
 
-Photo Galleries Fallis Around Town Artist Bev McQuillan Opening night of the Redding Rodeo
+Photo Galleries NSCIF Cross Country Championships Fallis Around Town Opening night of the Redding Rodeo
 
-*   Triumphant Obama: 'We have picked ourselves up' Published 11/6/2012 at 7:24 p.m. 466 comments
-*   Larry Kay: Let's turn off fear-mongerers Published 11/8/2012 at 12:00 a.m. 120 comments
+*   Triumphant Obama: 'We have picked ourselves up' Published 11/6/2012 at 7:24 p.m. 467 comments
+*   Larry Kay: Let's turn off fear-mongerers Published 11/8/2012 at 12:00 a.m. 130 comments
+*   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
 *   Shasta County supervisors say they don't have resources to battle pot growers Published 11/7/2012 at 12:36 a.m. 100 comments
-*   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 96 comments
-*   Judy Pearson: Voter disgusted with the choices Published 11/6/2012 at 12:00 a.m. 90 comments
+*   Pot votes in 2 states challenge US drug war Published 11/8/2012 at 4:00 a.m. 76 comments
 
-*   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 96 comments
+*   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
 *   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
 *   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 122 comments
 *   Wild horse, burro adoption falls short. economic factors leave trail of uncertainty Published 11/4/2012 at 6:52 p.m. 11 comments
-*   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Published 10/31/2012 at 4:55 p.m. 65 comments
+*   Siskiyou County Sheriff Jon Lopey says he's fighting to protect rural America Published 11/3/2012 at 7:36 p.m. 59 comments
 
 Weather
 
@@ -296,23 +296,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 37° Overcast Wind: Calm Today 51° 33° Fri 05:00 PM Mostly Cloudy Showers Temp: 42° Sat 05:00 AM Mostly Cloudy Showers Temp: 34° Sat 05:00 PM Mostly Clear Temp: 43°
-
-Feels Like: 38°
-
-Humidity: 83%
-
-Precip: 37%
+Currently 50° Fair Wind: Calm Today 51° 33° Sat 02:00 AM Mostly Cloudy Showers Temp: 34° Sat 02:00 PM Mostly Sunny Temp: 53° Sun 02:00 AM Cold Temp: 31°
 
 Feels Like: 34°
 
 Humidity: 92%
 
+Precip: 37%
+
+Feels Like: 53°
+
+Humidity: 47%
+
 Precip: 20%
 
-Feels Like: 43°
+Feels Like: 25°
 
-Humidity: 67%
+Humidity: 72%
 
 Precip: 5%
 
@@ -363,19 +363,11 @@ Loading...
 
 More Events » Features
 
-*   Election Guide
-    
-    Voter resources, stories, photos, videos and more.
-    
-    Voting Results
+*   Voting Results
     
     Get all the latest election results here!
     
-    2012 Candidates
-    
-    Use our election guide to compare your viewpoints to the candidates' views.
-    
-*   Running on Empty?
+    Running on Empty?
     
     Check to see what the lowest gas prices are around Redding.
     
@@ -383,11 +375,11 @@ More Events » Features
     
     We have you covered with our **iPhone** Storm Shield.**Now available for Android!**
     
-    Download Our Apps
+*   Download Our Apps
     
     Make your smartphone even smarter. Local news is more accessible than ever.
     
-*   News on Facebook
+    News on Facebook
     
     Become a fan, get updates and breaking news.
     
@@ -395,21 +387,17 @@ More Events » Features
     
     When local breaking news happens, we'll get it to your inbox as soon as possible.
     
-    @BreakingNews\_RS
+*   @BreakingNews\_RS
     
     Follow us on Twitter and get the latest breaking news!
     
-*   Subscribe
+    Subscribe
     
     Check out videos featured on redding.com at YouTube.com
     
     Data Center
     
     Public databases containing facts, figures &. details of our community.
-    
-    Recycling locations
-    
-    Where to drop off your batteries, paint, motor oil and more...
     
 
 On the Web:
