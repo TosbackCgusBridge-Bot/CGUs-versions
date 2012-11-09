@@ -157,7 +157,7 @@ We may change our privacy policy in the future, but we will not change our pract
 *   Email this page Recipient Email \*Required Your Email \*Required Your Name \*Required
 *   Print this page
 
-Can't find what you are looking for? Ask a Question Chat Was this answer helpful? Rate answer 1 of 5 Rate answer 2 of 5 Rate answer 3 of 5 Rate answer 4 of 5 Rate answer 5 of 5    Please tell us how we can make this answer more useful. Email \*Required Your Feedback \*Required Answers others found helpful
+Can't find what you are looking for? Ask a Question Was this answer helpful? Rate answer 1 of 5 Rate answer 2 of 5 Rate answer 3 of 5 Rate answer 4 of 5 Rate answer 5 of 5    Please tell us how we can make this answer more useful. Email \*Required Your Feedback \*Required Answers others found helpful
 
 *   Contact Us
 *   Equifax Online Privacy Policy
