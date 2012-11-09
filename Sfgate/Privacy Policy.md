@@ -1,6 +1,6 @@
 (skip this header)
 
-Friday Nov 09, 2012 5:05 AM PT
+Friday Nov 09, 2012 1:58 PM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   3 things to get you promotion
-*   Mustaches for Movember
-*   Snow on Sierra crest
-*   '95 Jobs interview released
-*   Rita Ora's embarrassing flash
+*   ‘Fifty Shades’ baby onesies
+*   'Williams is going full metal stoner'
+*   Appreciating Belva
+*   Sean Penn bore
+*   Dining at Bouchon, Meadowood
 
 *   Bay Area &. State
 *   Nation
@@ -339,6 +339,11 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Dior Homme party
+*   'Lincoln' premiere at AFI Fest 2012
+*   50 Shades of Grey baby onesies
+*   China Prepares for New Leadership
+*   Favorite dishes 11/9/2012
 *   Homes on the market in Atherton and Ross
 *   Celebrity offspring
 *   Tree rings to help date old Presidio fort
@@ -374,11 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   InStyle UK's Best-Dressed Celebs
 *   Big night for women in Senate
 *   campaign trail 2012
-*   Celebrities with tattoos
-*   The Obamas through the years
-*   'Skyfall' New York premiere
-*   The World Reacts to the US Presidential Election
-*   Election night
 
 *   Most Read
 *   |
@@ -387,37 +387,37 @@ Ads by Yahoo! Photo Galleries
 *   Most Emailed
 
 1.  Where Fox News goes from here
-2.  Injured World Series reveler dies
-3.  Cold and wet in Bay Area - snow?
-4.  Best, worst and baddest Bond women
-5.  Oakland robbers attack TV cameraman
-6.  Jeff Kent’s epic “Survivor” loser speech …
-7.  'Skyfall' review: M is for mommy figure
+2.  Woman fired for Obama racial slur on Facebook
+3.  Two of Most Expensive Neighborhoods are in the Bay Area
+4.  Island residents in the dark over outages
+5.  CIA director quits over extramarital affair
+6.  Norwegian killer complains of prison conditions
+7.  Celebrity offspring
 
 1.  Sheriff Ross Mirkarimi recall in works
-2.  Obama's health care overhaul turns into a sprint
-3.  Oakland robbers assault, rob TV cameraman
-4.  Jeff Kent's epic "Survivor" loser speech ...
-5.  Republicans vilified, Democrats excused
-6.  Will Pelosi step down as Dem leader?
-7.  Obama may tap Californians for Cabinet
+2.  Business leader frets over tax increases
+3.  Where Fox News goes from here
+4.  Woman fired for Obama racial slur on Facebook
+5.  Obama invites lawmakers to WH to talk fiscal cliff
+6.  Obama's health care overhaul turns into a sprint
+7.  Oakland robbers assault, rob TV cameraman
 
-1.  Police: Drunk man fixes dinner in strange home
-2.  Paragon Outlets Livermore Valley opening
-3.  Obama's health care overhaul turns into a sprint
-4.  Take it easy: Freeze now and bake later
-5.  Cold and wet in Bay Area - snow?
-6.  Hawk's Tavern closes abruptly
-7.  Main Street, Penngrove
+1.  Where Fox News goes from here
+2.  Woman fired for Obama racial slur on Facebook
+3.  'Lincoln' review: Daniel Day-Lewis brilliant
+4.  Genomic Health: Cancer options tailored
+5.  VA errors add to huge delays in benefits
+6.  Hayes Valley condo in Victorian building
+7.  Island residents in the dark over outages
 
 loading... Latest News Videos From our homepage
 
 *     
-    SF Gate / Douglas Zimmerman / SF
+    Mandel Ngan, AFP/Getty Images / SF
     
-    It's going to get cold
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 12:12 p.m., Friday, November 9, 2012 Spy chief quits over affair
     
-    Thunderstorms, hail and even snow on Mount Diablo and Mount Hamilton are possible.
+    David Petraeus steps down as CIA director, admits showing 'extremely poor judgment.'
     
 
 *     
@@ -431,9 +431,9 @@ loading... Latest News Videos From our homepage
 *     
     Devin MacDonald / SF
     
-    1897 Victorian redone in S.F.
+    Remodeled Victorian in S.F.
     
-    This Hayes Valley condo features a yard, 3 bdrms, garage, updated kitchen. Asking $1.6M.
+    This Hayes Valley condo in an 1897 building has 3 bdrms, updated kitchen. Asking $1.6M.
     
 
 *   Home
