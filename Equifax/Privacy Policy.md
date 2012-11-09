@@ -1,54 +1,3 @@
-*   My Account
-*   Contact Us
-
-*   Back to Equifax.com
-
-Skip To Navigation
-
-*   Products
-*   Customer Service  
-*   Resources
-    *   Equifax Mortgage Match™
-    *   Learn At Equifax
-    *   Equifax Rate Finder™
-*   Member Center
-
-Home >>. Policies/Rights >>. Frequently Asked Questions Search Search by Keyword Advanced Search Limit by product (accessible option)  Limit by product Select a product  - Sorry, this control is not accessible. Please use above link instead.
-
-*   Reports
-*   *   Disputes
-*   *   Free Report
-*   *   Freeze a Report
-*   *   General Information
-*   *   Lock A Report
-*   *   Share a Report
-*   Scores
-*   *   General Information
-*   Debt
-*   *   General Information
-*   *   Alert Notifications
-*   Alerts
-*   *   General Information
-*   *   Report
-*   *   Score
-*   *   Monitoring
-*   *   General Information
-*   Policies/Rights
-*   Contact Us
-
-*   Privacy Policies
-*   *   Personal Credit Reports
-*   *   Equifax Personal Products
-*   *   Equifax Small Business Products
-*   *   About Equifax Business Solutions
-*   *   Equifax Settlement Services
-*   *   Information about Equifax Corporation
-*   *   Applying for a Job at Equifax
-*   *   U.S.- EU Safe Harbor
-*   *   Privacy Glossary
-
-Equifax Online Privacy Policy About Equifax
-
 Effective Date:  December 1, 2011  
   
 This privacy policy applies when you are obtaining information about Equifax Corporation through the US Equifax.com web site.  
@@ -149,28 +98,4 @@ Install antivirus software and spyware protection: Viruses are dangerous. They c
 CHANGES TO THIS POLICY  
 
   
-We may change our privacy policy in the future, but we will not change our practices until they have been posted at this web site. If changes occur, we will also show the date of revision. By using our web sites to which this privacy policy applies you agree that we may notify you of changes in our privacy policy through this web site.  
-  
-
-*   Updated 06/06/2012 04:59 PM
-*   Answer ID 467
-*   Email this page Recipient Email \*Required Your Email \*Required Your Name \*Required
-*   Print this page
-
-Can't find what you are looking for? Ask a Question Was this answer helpful? Rate answer 1 of 5 Rate answer 2 of 5 Rate answer 3 of 5 Rate answer 4 of 5 Rate answer 5 of 5    Please tell us how we can make this answer more useful. Email \*Required Your Feedback \*Required Answers others found helpful
-
-*   Contact Us
-*   Equifax Online Privacy Policy
-*   Correcting Errors on Your Credit File
-*   FCRA Summary of Rights
-*   Product &. Site Terms of Use
-
-Go Back to Search Results
-
-Powered By RightNow Technologies  
-
-©2012 Equifax, Inc., All rights reserved   
-
-*   Privacy Policy
-*   Terms of Use
-*   FACT Act
+We may change our privacy policy in the future, but we will not change our practices until they have been posted at this web site. If changes occur, we will also show the date of revision. By using our web sites to which this privacy policy applies you agree that we may notify you of changes in our privacy policy through this web site.
