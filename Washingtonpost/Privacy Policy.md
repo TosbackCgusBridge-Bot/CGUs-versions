@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Terry McAuliffe says hes running...**  
-        Election 2012 | Rachel Weiner
+    *   **Video: President Obama cries while...**  
+        Election 2012 | David Nakamura
     
-    *   **Tracing the impact of negative...**  
+    *   **Would a tax hike on the wealthy...**  
         The Fact Checker | Glenn Kessler
     
-    *   **Will President Obama get the respect...**  
-        She The People | Mary C. Curtis
+    *   **The end of a long, ugly road for...**  
+        She The People | Melinda Henneberger
     
-    *   **President Obama and the white vote?...**  
-        The Fix | Chris Cillizza and Jon Cohen
+    *   **The (next) 10 closest states in...**  
+        The Fix | Chris Cillizza and Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **Drunk Nate Silver**  
+    *   **‘Drunk Nate Silver’ rules the internet**  
         ComPost | Alexandra Petri
     
-    *   **Axelrod rubs Rove’s face in it**  
+    *   **Happy Hour Roundup**  
         The Plum Line | Greg Sargent
     
-    *   **PostScript: Gerson and changing...**  
-        PostPartisan | Rachel Manteuffel
+    *   **Friday’s p-Op quiz**  
+        PostPartisan | Jonathan Capehart
     
-    *   **Tuning up the GOP presidential...**  
+    *   **Morning Bits**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,16 +72,16 @@
     
     Blogs &. Columns
     
-    *   **October cooler than average across...**  
-        Capital Weather Gang | Jason Samenow
+    *   **D.C. area forecast: Cold air retreating...**  
+        Capital Weather Gang | A. Camden Walker
     
-    *   **Review: Daniel Craig returns as...**  
-        Going Out Gurus | Amy Joyce
+    *   **‘Lincoln,’ ‘Skyfall’ and more new...**  
+        Going Out Gurus | Jess Righthand
     
-    *   **Wanted: men who robbed Alexandria...**  
-        Crime Scene | Allison Klein
+    *   **Man injured in Prince George’s...**  
+        Crime Scene | Maggie Fazeli Fard
     
-    *   **Virgil Goode fails to play spoiler...**  
+    *   **Governors face Obamacare deadlines**  
         Virginia Politics | Laura Vozzella
 *   Sports In Sports
     
@@ -103,10 +103,10 @@
     *   **Chris Singletons game-tying dunk...**  
         DC Sports Bog | Sarah Kogod
     
-    *   **Bye-week glance: Redskins defense**  
-        The Insider | Mike Jones
+    *   **Bye-week glance: Redskins special...**  
+        The Insider | Mark Maske
     
-    *   **Are the Nats and Greinke a fit...**  
+    *   **The state of the Nationals bullpen...**  
         Nationals Journal | Adam Kilgore
 *   National In National
     
@@ -145,6 +145,9 @@
     
     Blogs &. Columns
     
+    *   **A Kickstarter campaign for an ancient...**  
+        WorldViews | Olga Khazan
+    
     *   **Map: Where was the drone that Iran...**  
         WorldViews | Max Fisher
     
@@ -153,9 +156,6 @@
     
     *   **A revealing map of which world...**  
         WorldViews | Max Fisher
-    
-    *   **Smog over Delhi, gloom over India’s...**  
-        WorldViews | Simon Denyer
 *   Business In Business
     
     *   Economy
@@ -179,7 +179,7 @@
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **Dont blame Romneys message**  
+    *   **Wonkbook: Game change? Hannity...**  
         Wonkblog | Ezra Klein
 *   Tech In Technology
     
@@ -211,8 +211,8 @@
     
     Blogs &. Columns
     
-    *   **Wine.com looks to one-up new Amazon...**  
-        All We Can Eat | Dave McIntyre
+    *   **Cauliflower’s 140-character study**  
+        All We Can Eat | Edward Schneider
     
     *   **Michelle Obama’s election night...**  
         The Style Blog | Veronica Toney
@@ -220,7 +220,7 @@
     *   **Kids not as sweet as they may appear**  
         On Parenting | Janice D'Arcy
     
-    *   **In other news: Jermaine Jackson...**  
+    *   **Congress’s Class of 2012: Which...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -243,10 +243,10 @@
     *   **‘Skyfall’ reviews**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **‘The X Factor’: Diamond returns**  
+    *   **‘X Factor’: Jason Brock gets the...**  
         The TV Column | Lisa de Moraes
     
-    *   **Bram Stoker books:**  
+    *   **AFI FEST WINNERS**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -266,10 +266,11 @@
 
 In the News
 
-*   Jared Loughner
-*   Nor'easter
-*   Sasha and Malia Obama
-*   Jesse Jackson Jr.
+*   SEALs punished
+*   Obama cries
+*   Justin Welby
+*   Davey Johnson
+*   ‘Skyfall’
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -320,78 +321,94 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Life after defeat for Mitt Romney: Public praise, private questions
+The way forward
 
-Philip Rucker 
+Charles Krauthammer 
+
+Republican Party begins election review to find out what went wrong
+
+Peter Wallsten 
+
+Video: President Obama cries while addressing campaign staff A new America speaks
+
+Eugene Robinson 
+
+Dulles-bound flight declares emergency
+
+Clarence Williams 
+
+GOP’s rejection of higher tax rates an obstacle to debt deal
+
+Paul Kane 
+
+Real-life CSI: When one identical twin is accused of killing the other
+
+Michael S. Rosenwald 
+
+‘Mormon Moment’ RIP
+
+David Mason 
+
+Whither Karl Rove? Man executed in Texas for 2002 slaying of woman during break-in at her home
+
+Associated Press 
+
+Mexico says marijuana legalization in U.S. could change anti-drug strategies
+
+William Booth 
+
+Rebuilding the GOP’s appeal
+
+Michael Gerson 
 
 Obama re-election protest escalates at Univ. of Mississippi. racial slurs, 2 arrests reported
 
 Associated Press 
 
+Think you’re clever? Macedonian health minister is seeking to hire geniuses
+
+Associated Press 
+
+The emerging America
+
+Fareed Zakaria 
+
+Sam Gordon, 9-year-old girl, is already a football star (video) For Republicans, less purity and more reality
+
+Alan Charles Raul 
+
 What is Nate Silver doing?
 
 Alexandra Petri 
 
-And the winner is: The status quo
+Israel’s Netanyahu comes in for criticism in wake of U.S. presidential election
 
-George F. Will 
+Joel Greenberg 
 
-Republican governors scramble over next Obamacare steps Republican leader Boehner may be ready to bargain
+Charles Darwin earns 4,000 write-in votes against creationist Ga. congressman
 
-Dana Milbank 
-
-Election Day indicates nation’s political divide is deepening
-
-Joel Achenbach 
-
-Critic’s Notebook: Obama photo is a snapshot of a modern, equal marriage
-
-Philip Kennicott 
-
-Make a deficit deal now
-
-Erskine Bowles 
-
-Whither Karl Rove? Faulty predictions for Election 2012
-
-Paul Farhi 
-
-We definitely lost four or five points between the storm and Chris Christie For Sasha and Malia Obama, four more years as the first daughters
-
-Krissah Thompson 
-
-The 10 closest states in Election 2012 Reports: Jesse Jackson Jr. in plea deal talks Stephen Colbert on polling irregularities (video) Obama’s changing Cabinet
-
-Al Kamen 
-
-What do voters really think about the economy? Three lessons from exit polls
-
-Neil Irwin 
-
-USC fires manager who deflated balls vs. Oregon A time for Obama to be bold
-
-David Ignatius 
+Associated Press 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Life after defeat for Mitt Romney: Public praise, private questions
-    2.  Obama re-election protest escalates at Univ. of Mississippi. racial slurs, 2 arrests reported
-    3.  Nate Silver, American wizard
-    4.  And the winner is: The status quo
-    5.  Republican governors scramble over next Obamacare steps
+    1.  The way forward
+    2.  Republican Party begins election review to find out what went wrong
+    3.  Video: President Obama cries while addressing campaign staff
+    4.  A new America speaks
+    5.  Flight makes emergency landing at Dulles
 *   Top Videos
-    1.  Rihanna, Justin Bieber rock Victoria's Secret fashion show
-    2.  The story behind the Romney loss: Drama, regrets and mistakes
-    3.  President Obama's full victory speech
-    4.  Election night in two minutes
-    5.  Powerful Guatemala earthquake kills at least 48 people
+    1.  The story behind the Romney loss: Drama, regrets and mistakes
+    2.  President Obama's full victory speech
+    3.  Rihanna, Justin Bieber rock Victoria's Secret fashion show
+    4.  Powerful Guatemala earthquake kills at least 48 people
+    5.  The GOP's not-so-happy hour
 *   Top Galleries
-    1.  Obamas talk 'First Parents' role
+    1.  Powerful earthquake kills at least 52 in Guatemala
     2.  Election 2016: Chris Cillizza's 13 front-runners
-    3.  Nor'easter hits New York and New Jersey
-    4.  Women Power: A record-breaking moment for women in the U.S. Senate
-    5.  Recipes: Make It, Freeze It, Take It
+    3.  Obamas talk 'First Parents' role
+    4.  Wael Ali cleared of charges in his identical twin's murder
+    5.  Smartphones galore
 
 Today's Paper
 
@@ -407,10 +424,7 @@ Live Q&A: Friday at 11 a.m. ET
 
 The Fix’s Chris Cillizza discusses the latest in political news.
 
-**1:00 PM** **Got Plans: Advice from the Going Out Gurus**   LIVE NOW
-
-*   Earlier Today
-    *   **11:00 AM** **Tracee Hamilton discusses local and national sports -- and whatever else you want to talk about.** **11:00 AM** **Home Front: Robert and Cortney Novogratz on design trends and home renovation** **2:00 PM** **Celebritology Live**
+**11:00 AM** **Real Wheels Live** **11:00 AM** **The Fix Live** **12:00 PM** **Carolyn Hax Live: Advice columnist tackles your problems (Friday, November 9)** **1:00 PM** **The Latest in TV with Lisa de Moraes**
 
 **Weekly schedule, past shows**
 
