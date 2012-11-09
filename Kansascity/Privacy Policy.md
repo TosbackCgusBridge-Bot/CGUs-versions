@@ -134,21 +134,25 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $39 for 6 Video to DVD Transfers ($99 value) $39 Value: Discount: You Save: $99 61% $60
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day $50 for $200 off mattress sale price $50 Value: Discount: You Save: $200 75% $150
 
-Thursday: Wal Mart, Sunfresh Deals Wal Mart
+Friday: Five things to do
 
-*   more...
+*   Fall Harvest Art &. Craft Fair
+*   Free Museum Admission for Bank of America &. Merrill Lynch Cardholders
+*   Turkey Napkin Holder
+*   Clay Handprint Day
+*   Colors of Fall Wreath
 
-1.  FIELD TECHNICIAN
+1.  SALES
     
-2.  PARALEGAL
-    
-    GREGORY LEYH, P.C.
-    
-3.  Maintenance Supervisor
+2.  Maintenance Supervisor
     
     Robert's Dairy
+    
+3.  CAMPAIGN JOBS
+    
+    Grassroots Campaigns, Inc.
     
 4.  Press &. Lamination Operators
     
@@ -156,7 +160,7 @@ Thursday: Wal Mart, Sunfresh Deals Wal Mart
     
     Georgetown Apartments
     
-6.  Apartment Maintenance Helper
+6.  PROGRAM DIRECTOR
     
 
 View More The Most
@@ -164,16 +168,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Colorados vote to legalize marijuana fires up doubters (poll)
-*   Wal-Mart raises Black Friday stakes, announces deals
+*   KC's Tate Stevens top vote-getter on 'X Factor'
+*   Royals trade Jeffress to Toronto and Hottovy to Texas
+*   Women voters lead way in rejecting extremism
+*   Steelers know that Chiefs game is huge for Haley
+*   Video-game review: 'Halo 4' diminishes the aura surrounding Master Chief
 *   Area restaurants, grocers cited for health-code violations
-*   Its all about family for K-State's Arthur Brown Jr.
+*   K-State gives Pease a chance at running back
+*   Royals’ Butler wins Silver Slugger as DH
 *   Quinn, still out of Chiefs lineup, says he ignored concussion signs
-*   Celebrity election reaction: Donald Trump, Ted Nugent, Mariah Carey
-*   Roethlisberger senses Haleys desire to beat Chiefs
-*   2 days after pot votes, marijuana industry gathers in Denver
-*   Kobach wants to make it illegal to photograph your completed ballot
-*   KCPD investigating Northland homicide as possible home-invasion robbery
+*   Colorados vote to legalize marijuana fires up doubters (poll)
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
