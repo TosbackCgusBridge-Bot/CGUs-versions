@@ -1,32 +1,4 @@
-Hauptinhalt anzeigen eBay Willkommen, (Einloggen zum Bieten oder Kaufen)
-
-*   Kaufen
-*   Mein eBay
-*   Verkaufen
-*   Community
-*   Kundenservice
-
-*   KATEGORIEN
-
-*   ELEKTRONIK
-*   MODE
-*   MOTORS
-*   WOW! ANGEBOTE
-
-  Startseite >. Hilfe >Mitgliedskonto>Mitgliedskonto schützen>Datenschutzerklärung Hilfe **Vielen Dank für Ihren Kommentar.** Durch Ihre Mitwirkung helfen Sie die Qualität der eBay-Hilfeseiten zu verbessern. Es tut uns Leid, aber wir können Ihren Kommentar zurzeit leider nicht veröffentlichen. Bitte versuchen Sie es zu einem späteren Zeitpunkt erneut. Hilfe: Übersicht Artikel finden Artikel finden Suchergebnisse verwalten Testberichte &. Ratgeber Bieten &. Kaufen Kaufen: Übersicht Bieten: Übersicht Mein eBay Probleme beim Kaufen lösen Clever einkaufen Verkaufen &. Gebühren Verkaufen: Grundlagen Verkäufergebühren Erfolgreiche Angebote gestalten Verkaufsaktivitäten verwalten Gewerbliche Verkäufer Probleme beim Verkaufen lösen Erfolgreicher verkaufen Verkäufertools eBay Shops Bezahlen &. Versenden Artikel bezahlen Zahlungen erhalten Verpacken und versenden Bewertungen Bewertungen: Übersicht Mitgliedskonto Neu bei eBay Anmelden und einloggen Mitgliedskonto verwalten Mit eBay-Mitgliedern kommunizieren Mitgliedskonto schützen Grundsätze
-
-Hilfe-Index: A-Z
-
-Verkäufer-News Herbst 2012
-
-Sicherheitsportal
-
-Rechtsportal
-
-eBay-Community
-
-**Hilfeseiten durchsuchen**  
-(Keine Artikel- oder Produktsuche) ****Suchen**** Tipps Einwilligung in die Verarbeitung meiner personenbezogenen Daten (Datenschutzerklärung)
+Einwilligung in die Verarbeitung meiner personenbezogenen Daten (Datenschutzerklärung)
 
 Die folgende Datenschutzerklärung gilt für alle Mitglieder, die sich am oder nach dem 20. September 2010 bei eBay anmelden, ab dem Zeitpunkt, zu dem sie sich unter Zustimmung zu dieser Datenschutzerklärung angemeldet haben. Sie wird mit dem Datum der Anmeldung wirksam. Für Mitglieder, die sich bereits vor dem 20.September 2010 angemeldet haben, wird die Datenschutzerklärung zum 1. November 2010 wirksam. Die bisherige Datenschutzerklärung finden Sie hier.
 
@@ -215,29 +187,3 @@ Wenn Sie Fragen in Bezug auf diese Datenschutzerklärung haben, die nicht auf un
 Falls Sie mit unserer Bearbeitung Ihrer Fragen nicht zufrieden sind, können Sie sich jederzeit an Ihre nationale Datenaufsichtsbehörde oder direkt an die Commission Nationale pour la Protection des Données in Luxemburg wenden. In ersterem Fall wird Ihre nationale Datenaufsichtsbehörde Ihre Anfrage an die Commission Nationale pour la Protection des Données weiterleiten.
 
 Diese Einwilligungserklärung kann ich jederzeit mit Wirkung für die Zukunft hier widerrufen.
-
-Kundenservice
-
-Haben Sie Fragen? Wir helfen Ihnen weiter.
-
- ****Kontakt**** eBay-Community
-
-Profitieren Sie von den Erfahrungen anderer Mitglieder. 
-
-Fragen stellen, Lösungen finden und Diskussionen verfolgen in den Hilfeforen
-
-**Weitere Hilfe zum Thema**
-
-*   Fragen und Antworten zur neuen Datenschutzerklärung
-    
-*   Binding Corporate Rules
-    
-*   Cookies, Web-Beacons und Datenschutz
-    
-*   Bisherige Datenschutzerklärung
-    
-*   So schützen Sie Ihr Mitgliedskonto
-    
-
-   
-Über eBay | Anmelden | Kaufen | Grundsätze | Sicherheitsportal | Bewertungsportal | eBay News | eBay-Wunschliste | Übersicht | Offizielle eBay-Zeit _eBay Käuferschutz_Copyright © 1995-2012 eBay Inc. Alle Rechte vorbehalten. Ausgewiesene Marken gehören ihren jeweiligen Eigentümern. Mit der Benutzung dieser Seite erkennen Sie die eBay-AGB und die Datenschutzerklärung an. eBay übernimmt keine Haftung für den Inhalt verlinkter externer Internetseiten.
