@@ -111,46 +111,46 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/08/2012 3:17 PM ET
+Updated: 11/09/2012 7:01 AM ET
 
-1.  1 MSNBC weighs in on Karl Rove
-2.  2 Rush Limbaugh: 'Conservatism did not lose'
-3.  3 Chris Matthews on the GOP civil war
-4.  4 Nate Silver: One-term celebrity?
+1.  1 Rove: Obama won 'by suppressing the vote'
+2.  2 Hannity: I've 'evolved' on immigration and support a 'pathway to citizenship'
+3.  3 Exclusive: Clinton would dominate 2016 Iowa caucuses, PPP shows
+4.  4 Obama cries as he thanks campaign staff
 5.  5 Hannity: 'America now deserves Obama'
-6.  6 Bill O'Reilly: 'The white establishment is now the minority'
-7.  7 Yarmuth talks up Ashley Judd for Senate
-8.  8 Rove: Obama won 'by suppressing the vote'
-9.  9 Allen West: It ain’t over til it’s over
-10.  10 Nate Silver's book sales skyrocket
+6.  6 Ashley Judd responds to Senate buzz
+7.  7 MSNBC weighs in on Karl Rove
+8.  8 Romney camp sees Obama winning Florida
+9.  9 Karl Rove: Fox News Ohio call 'premature'
+10.  10 Rove: Obama suppressed the vote, encouraged Romney backers not to vote
 
-Updated: 11/08/2012 3:17 PM ET
+Updated: 11/09/2012 7:01 AM ET
+
+1.  1 Rove: Obama won 'by suppressing the vote'
+2.  2 Hannity: 'America now deserves Obama'
+3.  3 MSNBC weighs in on Karl Rove
+4.  4 Rush Limbaugh: 'Conservatism did not lose'
+5.  5 Hannity: I've 'evolved' on immigration and support a 'pathway to citizenship'
+6.  6 Exclusive: Clinton would dominate 2016 Iowa caucuses, PPP shows
+7.  7 Rove: Obama suppressed the vote, encouraged Romney backers not to vote
+8.  8 Chris Matthews on the GOP civil war
+9.  9 Yarmuth talks up Ashley Judd for Senate
+10.  10 Bill O'Reilly: 'The white establishment is now the minority'
+
+Updated: 11/09/2012 7:01 AM ET
 
 1.  1 MSNBC weighs in on Karl Rove
-2.  2 Bill O'Reilly: 'The white establishment is now the minority'
-3.  3 Karl Rove: Fox News Ohio call 'premature'
-4.  4 Gary Johnson: Obama will win
-5.  5 Rush Limbaugh: 'Conservatism did not lose'
-6.  6 Obama calls Clinton (Updated)
-7.  7 Christie lashes 'know-nothing, disgruntled' Romney aides
-8.  8 Allen West: It ain’t over til it’s over
-9.  9 Christie says no 'embrace' of Obama: 'I did my job' for Romney
+2.  2 Karl Rove: Fox News Ohio call 'premature'
+3.  3 Bill O'Reilly: 'The white establishment is now the minority'
+4.  4 Rove: Obama won 'by suppressing the vote'
+5.  5 Gary Johnson: Obama will win
+6.  6 Rush Limbaugh: 'Conservatism did not lose'
+7.  7 Obama calls Clinton (Updated)
+8.  8 Christie lashes 'know-nothing, disgruntled' Romney aides
+9.  9 Allen West: It ain’t over til it’s over
 10.  10 Nate Silver: One-term celebrity?
 
-Updated: 11/08/2012 3:17 PM ET
-
-1.  1 Chrysler gives workers day off to vote
-2.  2 Christie lashes 'know-nothing, disgruntled' Romney aides
-3.  3 Early election results, via NBC
-4.  4 Bill O'Reilly: 'The white establishment is now the minority'
-5.  5 Karl Rove: Fox News Ohio call 'premature'
-6.  6 MSNBC weighs in on Karl Rove
-7.  7 Obama, not-so-happy warrior
-8.  8 Gary Johnson: Obama will win
-9.  9 Fox News obsessed with lone Black Panther
-10.  10 Obama sheds a tear at final campaign rally
-
-Updated: 11/08/2012 3:17 PM ET
+Updated: 11/09/2012 7:01 AM ET
 
 1.  1 Axelrod: 'They're in deep trouble'
 2.  2 Early election results, via NBC
@@ -168,72 +168,72 @@ Updated: 11/08/2012 3:17 PM ET
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/08/2012 3:17 PM ET
+Updated: 11/09/2012 7:01 AM ET
 
-1.  1 Rush: Dems want 'amnesty' voters
-2.  2 Ron Paul: Already over fiscal cliff
-3.  3 The Facebook bump
-4.  4 What Republicans learned
-5.  5 LaTourette: Tea party claim is 'crap'
-6.  6 Schumer mocks Rove over losses
-7.  7 Twins named after Obama, Romney
-8.  8 The serious side of Comedy Central
-9.  9 Pols: Texas is Hispanic model
-10.  10 Scarborough's close shave
+1.  1 Christie calls Obama, emails Romney
+2.  2 Five ways to fuel sustainable growth
+3.  3 Revisiting Clinton: A critical factor
+4.  4 Energy sector winners, losers
+5.  5 Can Rubio save GOP on immigration?
+6.  6 'Next Bush' makes campaign filing
+7.  7 5 traits of the House freshman class
+8.  8 How will GOP solve fiscal cliff riddle?
+9.  9 How Sessions helped keep a GOP House
+10.  10 Portraits of senators as legislators
 
-Updated: 11/08/2012 3:17 PM ET
+Updated: 11/09/2012 7:01 AM ET
 
-1.  1 Rush: Dems want 'amnesty' voters
-2.  2 Ron Paul: Already over fiscal cliff
-3.  3 The Facebook bump
-4.  4 What Republicans learned
-5.  5 LaTourette: Tea party claim is 'crap'
-6.  6 Schumer mocks Rove over losses
-7.  7 Twins named after Obama, Romney
-8.  8 The serious side of Comedy Central
-9.  9 Pols: Texas is Hispanic model
-10.  10 Scarborough's close shave
+1.  1 Christie calls Obama, emails Romney
+2.  2 Five ways to fuel sustainable growth
+3.  3 Revisiting Clinton: A critical factor
+4.  4 Energy sector winners, losers
+5.  5 Can Rubio save GOP on immigration?
+6.  6 'Next Bush' makes campaign filing
+7.  7 5 traits of the House freshman class
+8.  8 How will GOP solve fiscal cliff riddle?
+9.  9 How Sessions helped keep a GOP House
+10.  10 Portraits of senators as legislators
 
-Updated: 11/08/2012 3:17 PM ET
+Updated: 11/09/2012 7:01 AM ET
 
-1.  1 Rush: Dems want 'amnesty' voters
-2.  2 Ron Paul: Already over fiscal cliff
-3.  3 The Facebook bump
-4.  4 What Republicans learned
-5.  5 LaTourette: Tea party claim is 'crap'
-6.  6 Schumer mocks Rove over losses
-7.  7 Twins named after Obama, Romney
-8.  8 The serious side of Comedy Central
-9.  9 Pols: Texas is Hispanic model
-10.  10 Scarborough's close shave
+1.  1 Christie calls Obama, emails Romney
+2.  2 Five ways to fuel sustainable growth
+3.  3 Revisiting Clinton: A critical factor
+4.  4 Energy sector winners, losers
+5.  5 Can Rubio save GOP on immigration?
+6.  6 'Next Bush' makes campaign filing
+7.  7 5 traits of the House freshman class
+8.  8 How will GOP solve fiscal cliff riddle?
+9.  9 How Sessions helped keep a GOP House
+10.  10 Portraits of senators as legislators
 
-Updated: 11/08/2012 3:17 PM ET
+Updated: 11/09/2012 7:01 AM ET
 
-1.  1 Rush: Dems want 'amnesty' voters
-2.  2 Ron Paul: Already over fiscal cliff
-3.  3 The Facebook bump
-4.  4 What Republicans learned
-5.  5 LaTourette: Tea party claim is 'crap'
-6.  6 Schumer mocks Rove over losses
-7.  7 Twins named after Obama, Romney
-8.  8 The serious side of Comedy Central
-9.  9 Pols: Texas is Hispanic model
-10.  10 Scarborough's close shave
+1.  1 Christie calls Obama, emails Romney
+2.  2 Five ways to fuel sustainable growth
+3.  3 Revisiting Clinton: A critical factor
+4.  4 Energy sector winners, losers
+5.  5 Can Rubio save GOP on immigration?
+6.  6 'Next Bush' makes campaign filing
+7.  7 5 traits of the House freshman class
+8.  8 How will GOP solve fiscal cliff riddle?
+9.  9 How Sessions helped keep a GOP House
+10.  10 Portraits of senators as legislators
 
 Showing Last 7 Days
 
-Updated: 11/08/2012 3:17 PM ET
+Updated: 11/09/2012 7:01 AM ET
 
-1.  1 Republicans ponder painful way forward
+1.  1 Republicans ponder way forward
 2.  2 GOP soul-searching: 'Too old, too white, too male'?
 3.  3 Four more for 44
-4.  4 If Obama loses…
-5.  5 The looming GOP civil war
-6.  6 Obama, not-so-happy warrior
-7.  7 Christie was Mitt's VP first choice
-8.  8 Obama early vote edge tenuous
-9.  9 Jobs report puts economy back in campaign spotlight
-10.  10 Liberals fear grand bargain betrayal
+4.  4 Why 2012 turned small
+5.  5 If Obama loses…
+6.  6 The looming GOP civil war
+7.  7 Obama, not-so-happy warrior
+8.  8 Christie was Mitt's VP first choice
+9.  9 Obama early vote edge tenuous
+10.  10 Jobs report puts economy back in campaign spotlight
 
 News
 
