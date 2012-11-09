@@ -143,6 +143,11 @@ Naples Daily News
 *   Cars
 *   Classified
 
+*   PrepZone: Football
+    
+    Live chat begins at 7 p.m. | Catfish Bowl | Blog | Twitter | Send Us Your Fan Photos | More PrepZone »
+    
+
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -435,25 +440,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 148 comments
-*   4 more years: Obama wins re-election Updated 11/7/2012 at 12:33 a.m. 598 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 172 comments
+*   4 more years: Obama wins re-election Updated 11/7/2012 at 12:33 a.m. 621 comments
+*   Election 2012: Florida counting last presidential votes. Obama still narrowly leads Updated 11/8/2012 at 3:53 p.m. 65 comments
+*   Traffic stop leads to winding story of unpaid bar tab, church sex and battery Published 11/8/2012 at 6:32 p.m. 17 comments
 *   Commissioner Bigelow linked to Fort Myers drug arrest Published 11/7/2012 at 11:29 p.m.
-*   Crane crashes down on U.S. 41 in Naples Updated 11/7/2012 at 4:13 p.m. 13 comments
-*   Election 2012: Florida counting last presidential votes. Obama still narrowly leads Updated 11/8/2012 at 3:53 p.m. 44 comments
 
-Photo Galleries Crane collapes onto US 41 in Naples Catch of the Day: Nov. 8, 2012 Editorial Cartoons: November 7, 2012
+Photo Galleries 2012 Victoria's Secret fashion show Catch of the Day: Nov. 8, 2012 Crane collapes onto US 41 in Naples
 
-*   4 more years: Obama wins re-election Published 11/6/2012 at 8:00 a.m. 598 comments
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 148 comments
+*   4 more years: Obama wins re-election Published 11/6/2012 at 8:00 a.m. 621 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 172 comments
 *   Obama? Romney? Nation decides after long campaign Published 11/5/2012 at 11:11 p.m. 142 comments
-*   Romney in a landslide  in Community School of Naples mock election Published 11/5/2012 at 6:57 p.m. 119 comments
-*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 142 comments
+*   Stocks plunge after election. Europe woes deepen Published 11/7/2012 at 12:16 p.m. 67 comments
+*   Election 2012: Florida counting last presidential votes. Obama still narrowly leads Published 11/8/2012 at 6:52 a.m. 65 comments
 
 *   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 142 comments
 *   In the Know: New dining options at former Rossopomodoro and L’Etoile restaurants Published 10/31/2012 at 5:17 a.m. 16 comments
 *   Naples' Tom Golisano is $20 million donor to Lee Memorial's new children's hospital Published 10/30/2012 at 11:41 a.m. 44 comments
 *   Plans fizzle for SW Fla energy crop jatropha, company executive indicted Published 11/5/2012 at 8:00 a.m. 5 comments
-*   Naples resident gives more than $750,000 to Republican groups, candidates Published 11/1/2012 at 5:45 a.m. 185 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 172 comments
 
 Weather
 
@@ -461,40 +466,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 69° Fair Wind: N 13mph Today 71° 52° Fri 04:00 AM Mostly Clear Temp: 54° Fri 04:00 PM Mostly Sunny Temp: 74° Sat 04:00 AM Mostly Clear Temp: 59°
+Currently 54° Fair Wind: NE 9mph Today 74° 60° Fri 08:00 PM Clear Temp: 64° Sat 08:00 AM Sunny Temp: 72° Sat 08:00 PM Mostly Clear Temp: 66°
 
-Feels Like: 54°
+Feels Like: 64°
 
-Humidity: 72%
+Humidity: 63%
+
+Precip: 5%
+
+Feels Like: 72°
+
+Humidity: 53%
+
+Precip: 5%
+
+Feels Like: 66°
+
+Humidity: 70%
 
 Precip: 1%
 
-Feels Like: 74°
-
-Humidity: 41%
-
-Precip: 5%
-
-Feels Like: 59°
-
-Humidity: 81%
-
-Precip: 5%
-
 More Weather » Calendar
 
-*   Thursday Nov 8
 *   Friday Nov 9
 *   Saturday Nov 10
+*   Sunday Nov 11
 *   More BROWSE Icon
-
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   7th Annual Sanibel Island Writers Conference Sanibel Island 8 a.m.
-*   PR University to “Pump up the Volume” on event marketing, copyrights, and social media Embassy Suites - Estero 8:30 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Paddleboard and Fitness 1st Ave S. Old Naples 9 a.m.
-
-More Events »
 
 *   7th Annual Sanibel Island Writers Conference Sanibel Island 7:30 a.m.
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
@@ -512,15 +509,31 @@ More Events »
 
 More Events »
 
+*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
+*   7th Annual Sanibel Island Writers Conference Sanibel Island 7:30 a.m.
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   FREE Admission to Veterans and their Families Edison and Ford Winter Estates 8 a.m.
+*   Laughter Yoga Bija Yoga 9 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Election 2012
+*   Football Rivalries
+    
+    Some football games are played for bragging rights. Coming Friday: Catfish Bowl.
+    
+    Biggest Catch
+    
+    See photos from local anglers with their biggest catch of the day. Submit your photos.
+    
+    f Election 2012
     
     Find results, presidential state-by-state map, photos and stories about the election.
     
-    Mugshots
+*   Mugshots
     
     Looking for daily arrest mugshots? You can find them here in our special section.
     
@@ -528,19 +541,15 @@ More Events » Features
     
     They put others before themselves. see problems &. solve them. Your nomination »
     
-*   Editorial Cartoons
+    Editorial Cartoons
     
     Check out our galleries of editorial cartoons about current events or personalities.
     
-    Download iPad
+*   Download iPad
     
     Experience the Naples Daily News -- reimagined for the iPad. Download now »
     
-    Football Rivalries
-    
-    Some football games are played for bragging rights. Coming Friday: Catfish Bowl.
-    
-*   Hot Home Sales
+    Hot Home Sales
     
     Pictures, info about recently sold single-family homes in Collier and Lee.
     
@@ -548,19 +557,15 @@ More Events » Features
     
     Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
     
-    Film Festival
+*   Film Festival
     
     Find film trailers, previews of films at this year's Naples International Film Festival.
     
-*   Our World
+    Our World
     
     Column looks at SW Florida through eyes of Daily News photojournalists.
     
-    Biggest Catch
-    
-    See photos from local anglers with their biggest catch of the day. Submit your photos.
-    
-    f Cuties of the Week
+    Cuties of the Week
     
     We want to see photos of your adorable kids and grandkids. Share your photos »
     
