@@ -7,9 +7,9 @@ My Account
     *   Best Buy
     *   Verizon Wireless
     *   White Pages
-    *   Juicers
     *   Verizon
     *   Target
+    *   Juicers
     *   Luster Now
     *   Kohls
     *   Toys R Us
@@ -17,33 +17,33 @@ My Account
     *   Hsn
     *   Kmart
     *   Counseling
-    *   Windows 7
     *   Qvc
     *   Walmart
+    *   Windows 7
     *   Office Max
     *   Money
     *   Iphone
     *   Digital Cameras
     *   Coffee Makers
     *   Camcorders
-    *   Discount Tires
-    *   Se
     *   Radio Shack
     *   At
     *   Sears
-    *   Tax
+    *   Discount Tires
     *   Www.yahoo.com
+    *   Tax
     *   Truck
-    *   Ipod
     *   Contact
-    *   Pressure Cookers
     *   Leappad
     *   Costco
-    *   Flowers
     *   T Mobile
-    *   Mp3 Players
+    *   Ipod
+    *   Flowers
+    *   Pressure Cookers
     *   Android Tablets
     *   Barnes And Noble
+    *   Coupons
+    *   Value City Furniture
     *   More Top Searches
 *   Coupons See all coupons See all rebates
 *   Mobile Apps
@@ -382,7 +382,7 @@ All Products
     
 
 *   Buying Guides
-*   1583 Local Deals
+*   1585 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
@@ -698,5 +698,7 @@ Copyright ©2012 PriceGrabber.com, Inc. All Rights Reserved What is this? |
     *   $60,000 - $99,999
     *   $100,000 - $149,999
     *   $150,000+
+    
+    Comments
     
     Thank you!
