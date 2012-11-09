@@ -190,44 +190,57 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Top-50 Themen Thema Anzahl Apple 85361 Arbeit 65492 Ausbildung 50867 Auto 91796 Beauty 70047 Beruf 78094 Beziehung 72948 Computer 542276 Computerspiele 65411 deutsch 67701 Englisch 52640 Ernährung 51105 essen 71746 Facebook 78520 Fernsehen 60672 Film 101174 Finanzen 59320 Freizeit 265761 Fußball 51506 Games 126564 Geld 94442 Gesundheit 207336 Haare 83697 Handy 207792 Hilfe 150977 Internet 325058 iPhone 76471 Kinder 51226 Körper 50854 Laptop 74407 Liebe 167732 Lied 55071 Mädchen 57148 Medizin 63223 Minecraft 69109 Musik 283094 PC 285489 PC-Spiele 49293 Problem 56114 PS3 61176 Recht 95938 Schule 238218 Software 57466 Spiele 138660 Sport 111907 Technik 121716 Tiere 65321 TV 54813 Video 53204 Youtube 84472 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Themen der Woche
 
-1.  Pech1
+1.  Konzert
+2.  Kunst
+3.  One Direction
+4.  Online-Shop
+5.  Periode
+6.  Pickel
+7.  Piercing
+8.  Pokemon
+9.  Tattoo
+10.  Zähne
+
+Top-50 Themen Thema Anzahl Apple 85398 Arbeit 65527 Ausbildung 50897 Auto 91825 Beauty 70059 Beruf 78122 Beziehung 72989 Computer 542428 Computerspiele 65432 deutsch 67727 Englisch 52651 Ernährung 51117 essen 71761 Facebook 78556 Fernsehen 60684 Film 101198 Finanzen 59323 Freizeit 265771 Fußball 51517 Games 126612 Geld 94482 Gesundheit 207401 Haare 83735 Handy 207890 Hilfe 151057 Internet 325148 iPhone 76507 Kinder 51244 Körper 50873 Laptop 74433 Liebe 167824 Lied 55102 Mädchen 57169 Medizin 63243 Minecraft 69125 Musik 283203 PC 285596 PC-Spiele 49305 Problem 56146 PS3 61202 Recht 95962 Schule 238327 Software 57480 Spiele 138706 Sport 111952 Technik 121756 Tiere 65339 TV 54824 Video 53222 Youtube 84497 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+
+1.  RudolfHansen
     
     Punkte:
     
-    1334
+    1200
     
     Level:
     
-    Pech1
+    RudolfHansen
     
-2.  Bademeisterin
+2.  asklady
     
     Punkte:
     
-    1114
+    664
     
     Level:
     
-    Bademeisterin
+    asklady
     
 3.  Bluebird555
     
     Punkte:
     
-    1090
+    553
     
     Level:
     
     Bluebird555
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.452.577 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.454.616 gute Fragen_
 
-*   83 Ich habe Angst, meine Jugend zu "verschwenden"
-*   43 kein ausweg
-*   19 Wie merke ich das ein Mädchen mich mag ?
+*   31 Wozu dient der Zahlen- und Buchstabensalat?
+*   29 Lieder die Trost spenden und Kraft geben in schweren Stunden?
+*   12 Ich bin "Hässlich" - Mensch zweiter Klasse?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
@@ -235,29 +248,29 @@ Registrieren Login
 *   Eiweißshake selber machen
 
 *   How-To Windows 8: Normale Programme deinstallieren
-*   Einfache Martinslaterne basteln
+*   Mamas Rezept für Nutella-Kuchen
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.998.280
+1.999.542
 
 Anzahl der Fragen
 
-8.450.986
+8.454.051
 
 Anzahl der Antworten
 
-36.586.671
+36.598.727
 
 Anzahl der Tipps
 
-75.889
+75.919
 
 Anzahl der Videos
 
-4.818
+4.820
 
 Blog
 
