@@ -1,16 +1,96 @@
-Skip Navigation The Atlantic Home Thursday, November 8, 2012 Go Follow the Atlantic »
+Skip Navigation
+
+*   Hacking the President’s DNA
+*   Did the Rape Remarks Doom the GOP?
+*   Why Do So Many More Women Live in Poverty?
+*   8 Urban Policy Ideas for Obama's 2nd Term
 
 *   Politics
+    *   Top Stories
+    *   Why the GOP Will Struggle to Close the Big-Data Gap
+    *   The Unsatisfying Election Aftermath
+    *   Election 2012: Results and Analysis
+    *   Jonah Goldberg's Chance to Prove Critics of Conservatism Wrong
+    *   The GOP Must Choose: Rush Limbaugh or Minority Voters
+    *   Please Proceed, Senator
 *   Business
-*   Entertainment
-*   International
-*   Technology
+    *   Top Stories
+    *   The GOP's 'White Establishment' Problem
+    *   Obama Won the Election Thanks to the Very Thing We Thought Would Sink Him: The Economy
+    *   This Is the Worst Election for Wall Street in Decades
+    *   Don't Believe the Grand Bargain Hype
+    *   The Smashing Global Consequences of the iPhone 5
+    *   What's Going to Kill the TV Business?
+*   Tech
+    *   Top Stories
+    *   Did Facebook Give Democrats the Upper Hand?
+    *   What It's Like to Vote for President ... From Space
+    *   Data Doesn't Belong to the Democrats
+    *   Apple Just Got Granted a Patent for Rounded Corners on Electronic Devices
+    *   The Greatest Bond Villain of All: Technology
+    *   How the Office Chair Came to Be
 *   National
+    *   Top Stories
+    *   How Obama Should 'Preserve, Protect, and Defend the Constitution' in His Second Term
+    *   Should Climate Science Be Political?
+    *   A Shore Town, Reduced to Rubble
+    *   Sordid Casino Battle Ends, Inevitably, in Victory of Casinos
+    *   On Ballot Issues, Double-Timing the March of Progress
+    *   Sick of the Presidential Race? Here Are 2 Education Ballot Measures to Watch
+*   Global
+    *   Top Stories
+    *   China's Power Transition: What to Look For
+    *   Inside China's 'Gang of Seven'
+    *   How China Picks Its Leaders: A Chart
+    *   The Death of Sattar Beheshti, Dissident Blogger, in Iranian Police Custody
+    *   How to Stop Reactionaries From Derailing Reform in China
+    *   America Abroad in Obama's Second Term: Who Will Lead U.S. Diplomacy?
 *   Health
+    *   Top Stories
+    *   Earlobe Creases as a Sign of Heart Disease
+    *   The Psychology of Post-Election Melodrama
+    *   The Public Health Results
+    *   Study: Statins Appear to Improve Cancer Survival
+    *   Stop Saying 'Drink the Kool-Aid'
+    *   No Flowers on the Psych Ward
+*   Sexes
+    *   Top Stories
+    *   Did Inflammatory Remarks About Rape and Abortion Doom GOP Candidates?
+    *   Same-Sex Marriage Wins on the Ballot for the First Time in American History
+    *   'Vote No on Women's Suffrage': Bizarre Reasons For Not Letting Women Vote
+    *   What I Learned From Hiring a Love Coach
+    *   Female Doctors on TV: Professionally Competent, Socially Inept
+    *   There Are Decent Men on TV, If You Know Where to Look
+*   Entertainment
+    *   Top Stories
+    *   Can Yesterday's Hip Font Designers Still Break Rules?
+    *   What Obama Can Learn from His Friend Jay-Z
+    *   Grimms' Fairy Tales: Pandering to Your Worst Desires
+    *   The Subtle Eloquence of 'Lincoln'
+    *   Great Emancipator or Creepy Slob? Historic Portrayals of Abraham Lincoln
+    *   'I Will Never Make a Movie on Tape': Eye-Opening Movies About the Movies
 *   Magazine
-*   video
+    *   In This Month's Issue
+    *   Our 2012 Brave Thinkers List
+    *   The Bloomberg Way
+    *   General Failure
+    *   The End of Jazz
+    *   Busy and Busier
+    *   The Court Crasher
+    *   *   Subscribe
+        *   Renew
+        *   Give a Gift
+        *   Digital Editions
 
-Conservative Media Lost to MSM, Failed Audience Conor Friedersdorf Why Romney Lost: A Simple Theory Andrew Cohen The GOP's Future: A Republican Reflects Molly Ball The Winner Won't Save the Middle-Class Derek Thompson Why the 'I Voted' Sticker Matters Derek Thompson How Obama Beat the Super PACs Jordan Weissmann A Graded, Ranked Guide to Every 'Bond' Song Michael Dunaway Why Pitchfork's Paris Fest Felt So... Brooklyn Jason Orlovich How to Write the (Readable) Book on Jazz Scott Krane When Will China Have Its First Minority President? James Leibold What's the Conservative Equivalent of 'Moving to Canada'? Brian Fung What Pussy Riot's 'Punk Prayer' Really Said Jeffrey Tayler Romney's Facebook Fans vs. Obama's Rebecca J. Rosen Googling 'Who Is Running for President?' Megan Garber It May Be Illegal to Instagram Your Ballot Rebecca J. Rosen Obama Could Reframe the Constitution Debate Garrett Epps 2 Key Education Votes to Watch Emily Richmond Lawn Signs Are Useless. Why Do We Love Them? Lane Wallace The Election's Consequences for Health Care Law Richard E. Cohen The Psychology of Post-Election Melodrama Adam Alter ORLY? Looking Old Means Heart Disease James Hamblin Presented by Brave Thinkers: Our Annual List of Risk-Takers Mike Bloomberg Knows What's Good for You James Bennet Jazz: How America's Most Vibrant Music Became a Relic Benjamin Schwarz Presented by How the Animated GIF Took Over the Election Kasia Cieplak-Mayr von Baldegg What Voting Looked Like in 1944 Kasia Cieplak-Mayr von Baldegg The Moment the Lights Went Out in New York Megan Garber Privacy Policy
+*   ▶
+
+*   Special Reports
+*   Video
+*   Photo
+*   Newsletters
+*   The Subtle Eloquence of 'Lincoln'Christopher Orr
+
+Privacy Policy
 
 **Last Updated:  August 28, 2012**
 
@@ -114,25 +194,18 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 Washington, DC 20037
 
 Special Report Alex Hoyt How the Map Changed as the Polls Came In  
-A state-by state guide. And it's never too late to check out _The Atlantic_'s obsessive all-night coverage of the whole election. Read more › Just In Ben W. Heineman Jr. 4:17 PM ET In Praise of CNN 1352409475 Voices
+A state-by state guide. And it's never too late to check out _The Atlantic_'s obsessive all-night coverage of the whole election. Read more › Writers
 
-*   Ta-Nehisi Coates Dear Republicans, Marco Rubio Will Not Save You 3:22 PM ET
-*   James Fallows Congressional Republicans: Meet the President Who… 1:15 PM ET
-*   Derek Thompson What's Going to Kill the TV Business? 12:23 PM ET
-*   Robert Wright Why Should Obama Compromise on Taxes? 11:33 AM ET
-*   Alexis C. Madrigal The Question I Didn't Get to Ask Pinterest CEO… 11:22 AM ET
+*   Ta-Nehisi Coates Please Proceed, Senator Nov 8, 2012
+*   James Fallows Congressional Republicans: Meet the President Who… Nov 8, 2012
+*   Derek Thompson What's Going to Kill the TV Business? Nov 8, 2012
+*   Robert Wright Why Should Obama Compromise on Taxes? Nov 8, 2012
+*   Alexis C. Madrigal The Question I Didn't Get to Ask Pinterest CEO… Nov 8, 2012
 *   Clive Crook Obama's Victory After Cyclical Adjustment Nov 7, 2012
 *   Jeffrey Goldberg 'Now I'm Going to Offer You a Hamburger' Nov 7, 2012
 *   Garance Franke-Ruta The 3 Biggest Day-After Mea Culpas Nov 7, 2012
 *   Steve Clemons Ed Gillespie's Absurd Bluster Nov 6, 2012
 
-Correspondents
-
-*   Ben W. Heineman Jr. Barack Obama, Organization Man
-*   Edward Tenner How the Office Chair Came to Be
-*   Nancy Scola Why It's Going to Be Hard for Republicans to Match the Big Data Advantage Democrats Have Built
-
-View All Correspondents Yoni AppelbaumHistory, politics Jack M. BalkinThe law Raymond BonnerInternational affairs, civil liberties Thanassis CambanisInternational affairs Andrew CohenThe law, society Bill DavidowTechnology, economics Mickey EdwardsPolitics Garrett EppsLaw professor and journalist Richard FloridaCities, creativity Joshua FoustInternational affairs Howard W. FrenchInternational affairs D.B. GradyThe military, politics Shadi HamidThe Middle East Ben W. Heineman Jr.Politics, economics Steven HellerGraphic design Jeff HoweLiterature, new media Wendy KaminerCivil liberties, the law Zvika KriegerThe Middle East Lawrence LessigLegal and political ethics Jon LovettPolitics Damien MaChina Lisa MargonelliEnergy, the environment Peter OsnosMedia, publishing Alyssa RosenbergPopular culture Cristine RussellScience, health Nancy ScolaTechnology, politics Ellen Ruppel ShellScience David ShenkScience, culture Anne-Marie SlaughterForeign policy Erik TarloffPolitics, media Edward TennerCulture, technology Dominic TierneyInternational affairs John TierneyEducation, history Brian TillInternational affairs Kathleen Kennedy TownsendPolitics, religion Steve TuttleAmericana Ford VoxHealth, medicine Lane WallacePolitics, media, aviation James WarrenPolitics Adam WerbachSustainability Graeme WoodInternational affairs, travel        
 The Biggest Story in Photos Syria in Ruins Nov 8, 2012 Video Go Behind the Scenes at New York City Ballet Turning Everyday Machines into Abstract Art NYC Dark Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
@@ -160,84 +233,116 @@ New from **In Focus:** (sample)
 
 I want to receive updates from our partners and sponsors
 
-what matters now
-
-*   Watch the New York Subway Come Back to Life  
-    
-*   The Election Is Finally, Really Over: Romney Lost Florida  
-    
-*   Who You Calling Fratty?  
-    
-
-Last Update: 4:15 PM
-
-*   These Are the Cities That Can Show Us How to Create Jobs  
-    
-*   The Super Light Folding E-Bike That Looks Like a 'Star Wars' Droid  
-    
-*   The Strike Is Over, But Chicago Public Schools Face an Even Uglier Fight  
-    
-
-Last Update: 3:59 PM Most Popular
+Most Popular
 
 1
 
-How Conservative Media Lost to the MSM and Failed the Rank and File
+The GOP Must Choose: Rush Limbaugh or Minority Voters
 
 2
 
-Did Facebook Give Democrats the Upper Hand?
+Syria in Ruins
 
 3
 
-The Right's Jennifer Rubin Problem: An Information Disadvantage Case Study
+How Conservative Media Lost to the MSM and Failed the Rank and File
 
 4
 
-Congressional Republicans: Meet the President Who Suddenly Has the Upper Hand
+Hurricane Sandy: After Landfall
 
 5
 
-Syria in Ruins
+The Right's Jennifer Rubin Problem: A Case Study in Info Disadvantage
 
 6
 
-Hurricane Sandy: After Landfall
+Did Facebook Give Democrats the Upper Hand?
 
 7
 
-Voter Suppression Backfires
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 8
 
-The 2012 Election Results: Obama's Win in 1 Map
+Congressional Republicans: Meet the President Who Suddenly Has the Upper Hand
 
 9
 
-Dear Republicans, Marco Rubio Will Not Save You
+No Flowers on the Psych Ward
 
 10
 
-Why It's Going to Be Hard for Republicans to Match the Big Data Advantage Democrats Have Built
+Hurricane Sandy: The Aftermath
 
+ATLANTIC MEDIA Atlantic Wire
+
+*   Romney's Get Out The Vote Plan Was a Complete Disaster
+*   Iran Tried to Shoot Down a U.S. Drone and Missed
+*   Amazingly, Sean Hannity Can Evolve
+
+**More from Atlantic Wire**
+
+Atlantic Cities
+
+*   Miserable Airport of the Day: Dallas/Fort Worth International
+*   Fearing Political Unrest, Beijing Outlaws Basically Everything: This Week in Bans
+*   The 'Covert Cloak' Protects the Privacy of the Painfully Shy
+
+**More from Atlantic Cities**
+
+Quartz
+
+*   5 things Obama must do to help the US maintain a global edge
+*   The US and China make tentative progress on dealing with Chinese “stir-fry” accounting frauds
+*   Quartz Daily Brief – Europe Edition – Chinese opacity, SEC hacked, business of pot
+
+**More from Quartz**
+
+National Journal
+
+*   House and Senate Leaders, Chairmen in the 113th Congress
+*   5 Milestones In Congressional Demographics
+*   SEAL Team Six Members Reprimanded in Video Game Consulting Deal
+
+**More from National Journal**
+
+Follow The Atlantic
+
+*   App store
+*   Facebook
+*   Twitter
+*   Linkedin
+*   Google Plus
+*   Tumblr
+*   RSS
+
+E-Newsletters
+
+*   Today's Top Stories
+*   This Week
+*   This Month
+*   New at In Focus
+*   Atlantic Cities
+*   5 Best Columns
+
+Information
+
+*   FAQ
 *   Subscribe Help
-*   Faq
-*   Follow the Atlantic
 *   Masthead
 *   Store
 *   Merchandise
 *   Jobs
-*   Educational Program
-*   Privacy Policy
-
+*   Privacy
 *   Site Map
-*   Terms &. Conditions
+*   Terms and Conditions
 *   Advertise
 *   Press
 *   Contact Us
 *   Special Reports
 *   Atlantic Scene
 *   Events
+*   Atlantic Media Company
 
-Copyright © 2012 by The Atlantic Monthly Group. All Rights Reserved.  
-CDN powered by Edgecast Networks. Powered by the Parse.ly Publisher Platform (P3).
+Subscribe Get 10 issues a year and save 59% off the cover price STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT Next ► Copyright © 2012 by The Atlantic Monthly Group. All Rights Reserved. CDN powered by Edgecast Networks. Powered by the Parse.ly Publisher Platform (P3).
