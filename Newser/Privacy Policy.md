@@ -4,14 +4,14 @@
 *   Hot Topics
     *   Election 2012
     *   President Obama
-    *   entertainment
-    *   celebrity
     *   Mitt Romney
     *   strange stuff
     *   Mitt Romney 2012
-    *   Hurricane Sandy
-    *   New York City
+    *   entertainment
+    *   celebrity
     *   Barack Obama
+    *   Karl Rove
+    *   John Boehner
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -121,62 +121,50 @@ COMMUNITY
 NEWS FROM OUR PARTNERS
 
 *   Here Comes the Groom
-*   Secretary Clinton II
+*   Lights in Shining Armor
 *   The Real Story of the Most-Liked Photograph of All Time
 
 More from Slate »
 
-*   LOVE HURTS
-*   Chiropractor Accused Of 'Intravaginal Massages'
-*   Man's Positive Pregnancy Test Reveals Big Medical Problem
-
-More from HuffPost Weird »
-
-*   Big Poppa From “The Real Housewives Of Atlanta” Got Arrested
-*   What Do You Do To Avoid Sexual Assault And Harassment?
-*   Hot Links: Jermaine Is A Jackson No More!
+*   Watch This Right Now: The Tween Pop Thanksgiving Song No...
+*   Modern Love Tackles One Woman’s Spanking Fetish
+*   Chris Brown Posters In Stockholm Show A Beaten And Bruised...
 
 More from The Frisky »
 
-*   "Children should still learn how to write in cursive"...
-*   Man arrested for robbing Radio Shack. In other news, Radio...
-*   A clutch of snakes with tentacles growing out of their...
+*   I just...i can't.....wtf \[Fail\]
+*   Photoshop these 1940s gasmasks \[Photoshop\]
+*   CIA Director David Petraeus resigns after successfully...
 
 More from Fark »
 
-*   10 things you need to know today: November 9, 2012
-*   Obama's second term: The case for immigration reform
-*   The GOP must become modern -- but not moderate
+*   Should Petraeus have resigned?
+*   President Obama's victory: 6 conservatives behaving like...
+*   After the election: Could civility possibly return to D.C.?
 
 More from The Week »
 
-*   Gay Marriage Passes in Washington State
-*   President Obama Cries While Thanking Campaign Staff
-*   MTA Chief Joe Lhota Says Bloomberg Is Making Predictions...
+*   Tomorrow’s Post David Petraeus Headline ... Today!
+*   John Heilemann on Morning Joe: Romney Campaign Was ‘Stuck...
+*   David Petraeus Resigns As CIA Director Over Extramarital...
 
 More from Daily Intel »
 
-*   25 Of The Healthiest Herbs And Spices In The World
-*   Turn the Page on Stress: Tapping Into the De-Stressing...
-*   The Need for Connection in the Age of Anxiety
-
-More from HuffPost Health »
-
-*   Ariel Winter's Mom Claims She 'Found Daughter in Bed With...
-*   Victoria's Secret Fashion Show 2012: Which Angel Flaunted...
-*   Miley Cyrus Confirms She's Having One Wedding: 'That Day...
+*   Robert Pattinson Plays Water War With Jimmy Fallon on ‘Late...
+*   Rihanna Returns to Her 'Diamonds' Hairdo in Time for Her...
+*   One Direction's Harry Styles Shows Off New Chest Tattoos,...
 
 More from Celebuzz »
 
-*   A Perfectly Darling Nursery for a Beautiful Baby Girl
-*   Leonardo DiCaprio's $23 Million Malibu Home Is Even Hotter...
-*   'Twilight' Stars Then and Now (PHOTOS)
+*   Your Baby May Be Killing Your Relationship
+*   Mom Learns She's Pregnant With 'Miracle Baby' Days After...
+*   7 Baby Pandas Sleeping in a Crib Will Slay You (VIDEO)
 
 More from The Stir »
 
-*   Horrible Client Feedback Turned Into Hilarious Works of Art
-*   McCann Worldgroup Wins AOL Assignment
-*   Top 10 Commercials of the Week: Nov. 2-9
+*   Leo Burnett Has Its Own "Saatchi 17" Problem
+*   Cats Win as America's Favorite Pet
+*   Little Caesars Looks to Mimes, and the Stars, for Latest...
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
