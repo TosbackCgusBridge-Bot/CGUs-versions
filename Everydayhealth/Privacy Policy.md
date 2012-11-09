@@ -1,4 +1,4 @@
-Print Close Everyday Health Privacy Policy
+Everyday Health Privacy Policy
 
 This Policy was last changed on November 8, 2012
 
@@ -157,6 +157,3 @@ Address: Everyday Health, LLC 345 Hudson Street, 16th Floor New York, NY 10014
 **12\. Privacy Policy Changes**
 
 We reserve the right to change, modify, add or remove portions of this Policy at any time and without prior notice, and any changes will become effective immediately upon being posted unless we advise you otherwise. Your continued use of the Site or Services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.
-
-**Copyright &copy 2012 Everyday Health Media, LLC**  
-The material on this web site is provided for educational purposes only, and is not to be used for medical advice, diagnosis or treatment. See additional information. Use of this site is subject to our terms of service and privacy policy.
