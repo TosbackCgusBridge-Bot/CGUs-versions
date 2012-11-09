@@ -64,7 +64,7 @@
 *   Diplomatic Club
 *   Green Israel
 
-                                 Breaking News    
+                                   Breaking News    
 
 *   JPost.com
 *   Terms Of Service
@@ -175,7 +175,7 @@ We recommend that you read the full terms of service prior to posting any conten
 11.  11.**Entire Agreement, Waiver:** These TOS constitute the entire understandings between parties and will only be amended in writing. No waiver to perform any The Jerusalem Post' rights under this agreement shall constitute amendments of it.
 12.  12.**Governing Laws, Jurisdiction, No Class Action:** These Terms shall be solely governed by the laws of the state of Israel, including their statutes regarding conflict of laws and may be solely brought to the competent courts of the Tel-Aviv-Jaffa District. You undertake not to initiate any class action, for any reason, against The Jerusalem Post and to claim your damages only according to this agreement.
 
-                                    Israel Focus JPost2go  
+                                      Israel Focus JPost2go  
 Don't have time to read The Jerusalem Post ? Now you can listen to it!   Nefesh B'Nefesh Guided Aliyah  
 Already living in Israel? Enjoy the Benefits of Aliyah!   Bank Leumi USA  
 Coast to Coast Financial Expertise   Naale Elite Academy  
