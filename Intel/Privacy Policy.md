@@ -79,7 +79,7 @@
 *   Server Management
 *   Server Services
 *   Server Systems
-*   Solid State Drives
+*   Solid-State Drives
 *   Software Products
 *   Intel® True Scale Fabric
 *   Wireless Products
@@ -149,7 +149,8 @@ Experience the New Era in Computing>.
 *   Before You Buy
 *   Creative Tools
 *   Entertainment
-*   Gaming
+*   Casual Gaming
+*   Extreme Gaming
 *   Security
 *   Tech Tips
 *   Wireless
@@ -406,21 +407,25 @@ Intel® Online Privacy Notice Intel is committed to respecting your privacy. Our
     *   Related Topics
     *   Related Products
     
-    *   Intel® Cookie Notice
+    *   Intel Supports EICC...
         
-        Intel's cookie practices on Intel websites.
+        Letter from Intel executives stating support for Electronic Industry Citizenship Coalition’s vision and...  
+        Preview | Download
         
-    *   Ultrabook™ Project Terms...
+    *   Intel Business...
         
-        Ultrabook™ Project Terms of Use include description for using the Intel Corporation ("Intel") web sites...
+        Guide: Intel business continuity practices, policies, guidelines designed to enable continuation of...  
+        Preview | Download
         
-    *   Intel Social Media...
+    *   Intel Code of Conduct
         
-        Intel Social Media Guidelines for Intel employees or contractors contributing on or off Intel.com.
+        Contains Intel's mission, values, code of conduct and statement from Intel CEO Paul Otellini.  
+        Preview | Download
         
-    *   Intel Terms of Use
+    *   Public Policy:...
         
-        Intel Terms of Use include description for using the Intel Corporation ("Intel") web sites and materials.
+        Intel promotes communications policies that encourage deployment of wireless, wired broadband services.  
+        Preview | Download
         
     
     *   Technology for the Home
