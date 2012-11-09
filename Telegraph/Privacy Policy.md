@@ -142,13 +142,13 @@ For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Ben Affleck's Argo, review  
+Farewell to our warrior nation  
 
-Ben Affleck's new film Argo is a tremendously accomplished thriller, writes **Robbie Collin**.
+The Government is making huge cuts to the Armed Forces in the mistaken belief that they no longer matter, argues **Max Hastings**
 
 Comments
 
-The traumas of war that haunt us still In writing about death, all life is there Titchmarsh: 'secret' Eden is my labour of love Apple's dominance shaken to its core Advertisement
+Ben Affleck's Argo, review Katy Brand: Welby bodes well for women The traumas of war that haunt us still In writing about death, all life is there Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
