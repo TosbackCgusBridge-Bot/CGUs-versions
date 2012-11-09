@@ -240,16 +240,16 @@ Get the latest tips on diet, exercise and healthy living.
 
 Your email is safe with us. We hate spam too!
 
-Featured this week on livestrong.com
+Featured this week on livestrong.com woman.
 
+*   Nov 7, 2012 Solutions For Common  
+    Food Allergies
 *   Nov 6, 2012 The Right (And Wrong)  
     Ways To Warm Up
 *   Nov 5, 2012 Run Without Pain  
     For Life!
 *   Nov 4, 2012 'How The Gym Helped  
     
-*   Nov 3, 2012 The 'Better Booty'  
-    Warmup Routine
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
 
