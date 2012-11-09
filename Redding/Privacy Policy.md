@@ -270,22 +270,22 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED (with photo, video): Two dead in fiery Hwy. 273 crash. blaze closes portion of highway Updated 11/8/2012 at 9:09 a.m. 66 comments
+*   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Updated 11/8/2012 at 4:08 p.m. 96 comments
 *   Sex offender offered teen drugs in exchange for a girl at Caldwell Park, police say Published 11/8/2012 at 6:37 a.m. 22 comments
-*   Triumphant Obama: 'We have picked ourselves up' Updated 11/6/2012 at 7:24 p.m. 457 comments
-*   UPDATE: Man arrested after driving through traffic accident closure, police say Updated 11/7/2012 at 9:18 p.m. 32 comments
-*   Larry Kay: Let's turn off fear-mongerers Published 11/8/2012 at 12:00 a.m. 86 comments
+*   Larry Kay: Let's turn off fear-mongerers Published 11/8/2012 at 12:00 a.m. 120 comments
+*   Election 2012: How the north state voted Published 11/7/2012 at 11:29 p.m. 38 comments
+*   UPDATED: Red Bluff man dies after police handcuff him. 42-year-old identified Updated 11/8/2012 at 12:21 p.m. 42 comments
 
-Photo Galleries Fallis Around Town People rally Monday at corner of… Election 2012
+Photo Galleries Fallis Around Town Artist Bev McQuillan Opening night of the Redding Rodeo
 
-*   Triumphant Obama: 'We have picked ourselves up' Published 11/6/2012 at 7:24 p.m. 457 comments
-*   Bob Williams: Is insanity the new normal, or the old? Published 11/5/2012 at 12:00 a.m. 207 comments
+*   Triumphant Obama: 'We have picked ourselves up' Published 11/6/2012 at 7:24 p.m. 466 comments
+*   Larry Kay: Let's turn off fear-mongerers Published 11/8/2012 at 12:00 a.m. 120 comments
 *   Shasta County supervisors say they don't have resources to battle pot growers Published 11/7/2012 at 12:36 a.m. 100 comments
-*   Judy Pearson: Voter disgusted with the choices Published 11/6/2012 at 12:00 a.m. 89 comments
-*   Larry Kay: Let's turn off fear-mongerers Published 11/8/2012 at 12:00 a.m. 86 comments
+*   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 96 comments
+*   Judy Pearson: Voter disgusted with the choices Published 11/6/2012 at 12:00 a.m. 90 comments
 
+*   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 96 comments
 *   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
-*   UPDATED (with photo, video): Two dead in fiery Hwy. 273 crash. blaze closes portion of highway Published 11/8/2012 at 3:27 a.m. 66 comments
 *   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 122 comments
 *   Wild horse, burro adoption falls short. economic factors leave trail of uncertainty Published 11/4/2012 at 6:52 p.m. 11 comments
 *   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Published 10/31/2012 at 4:55 p.m. 65 comments
@@ -296,25 +296,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 48° Mostly Cloudy Wind: SE 10mph Today 55° 39° Fri 01:00 AM Mostly Cloudy Showers Temp: 43° Fri 01:00 PM Mostly Cloudy Showers Temp: 51° Sat 01:00 AM Mostly Cloudy Showers Temp: 42°
+Currently 37° Overcast Wind: Calm Today 51° 33° Fri 05:00 PM Mostly Cloudy Showers Temp: 42° Sat 05:00 AM Mostly Cloudy Showers Temp: 34° Sat 05:00 PM Mostly Clear Temp: 43°
+
+Feels Like: 38°
+
+Humidity: 83%
+
+Precip: 37%
+
+Feels Like: 34°
+
+Humidity: 92%
+
+Precip: 20%
 
 Feels Like: 43°
 
-Humidity: 86%
+Humidity: 67%
 
-Precip: 72%
-
-Feels Like: 51°
-
-Humidity: 56%
-
-Precip: 47%
-
-Feels Like: 42°
-
-Humidity: 93%
-
-Precip: 32%
+Precip: 5%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -330,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Thursday Nov 8
 *   Friday Nov 9
 *   Saturday Nov 10
+*   Sunday Nov 11
 *   More BROWSE Icon
-
-*   Forgotten Foods and Medicinal Plants of Shasta County Grilla Bites - Redding 6 p.m.
-*   Allison and Victor concert Dogwood Diner 6:30 p.m.
-*   Master Garden Meeting, Edible Landscapes Shasta College Health Sciences Center 6:30 p.m.
-*   Anderson and West Valley High Schools Muscial 'The Wedding Singer' Anderson High School 7 p.m.
-*   Foothill High School Drama, Cloud Seven Foothill High School 7:15 p.m.
-
-More Events »
 
 *   First Christian Church Holiday Boutique First Christian Church 9 a.m.
 *   Veterans Memorial Hall Christmas Bazaar and Craft Fair Redding Veterans Memorial Hall 9 a.m.
@@ -356,6 +348,14 @@ More Events »
 *   Semi Annual Jewelry Sale Another Chance Animal Welfare League Adoption Center and Thrift Store 9 a.m.
 *   United Methodist Women annual Holiday Bazaar First United Methodist Church, Redding 9 a.m.
 *   Trinity Alliance Church Holiday Craft Fair Trinity Alliance Church 10 a.m.
+
+More Events »
+
+*   Honoring Our American Heroes Elks Lodge 10:30 a.m.
+*   Ride On Race Series Contact for Location Information 11 a.m.
+*   United Bikers of Northern California Presents The 29th Annual Toy Run Walmart - Anderson noon
+*   Acorns — A Native American Staple Horsetown-Clear Creek Preserve 1 p.m.
+*   Dinner with the Doctor Seventh-day Adventist Church 6 p.m.
 
 More Events »
 
