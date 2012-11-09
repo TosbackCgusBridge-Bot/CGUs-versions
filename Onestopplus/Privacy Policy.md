@@ -1,6 +1,4 @@
-  OneStopPlus.com ships to over  
-90 countries including Canada  
-and Australia. Learn more   Shop the entire European collection from the websites below:   **Sweden** OneStopPlus.se **UK** OneStopPlus.co.uk **Belgium** OneStopPlus.be **Norway** OneStopPlus.no **Finland** OneStopPlus.fi **Denmark** OneStopPlus.dk **Portugal** OneStopPlus.pt **Spain** OneStopPlus.es **France** OneStopPlus.fr Call us 1-800-400-4481 _|_ Live Chat _|_ Welcome. Log in or register My Account Order Status Shopper's Club Help My Bag (0)
+Call 1-800-400-4481 _|_ Live Chat _|_ Welcome. Log in or register My Account Order Status Shopper's Club Help My Bag (0)
 
 *   Designers
 *   Juniors
