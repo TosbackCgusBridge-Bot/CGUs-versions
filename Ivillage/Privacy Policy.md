@@ -1,5 +1,6 @@
 Sign in | Join Now Hi, User! Edit Profile | Sign Out Want more iVillage? Sign up for our Newsletters iVillage
 
+*   HOLIDAILY
 *   Challenges
 *   Videos
 *   Free Stuff
@@ -144,6 +145,7 @@ Search iVillage.com Search
             *   Gear Guides -- what should I buy?
             *   Family Travel
             *   Holiday Travel
+            *   The Big Guide to Kids and the Holidays
     *   Love &. Sex
         *   *   Mommy Sex Survey
             *   Sex During Pregnancy
@@ -501,12 +503,12 @@ Would you like to receive special offers, promotions, coupons, and free samples 
 
 See All Newsletters   best of video village
 
-*   Homeandgarden My Best Idea Too Cute! Plate + Marker + Oven = Instant Gift
 *   Entertainment iVillage 5 Four More Years for Obama? Maybe Three for Malia!
-*   Beauty DIY Beautify Contour Competition – See Who Gets Voted Off Our New Show!
-*   Global iVoices Cheers and Jeers for Obama’s Big Win
-*   Entertainment Featured How Malia and Sasha Deal with Body Image
-*   Food Learn How Now 3 Surprising Things You Need in Your Spice Rack
+*   Entertainment Kitchen Confessions Leighton Meester's Go-to Breakfast: Avocado and Red Pepper Flakes!
+*   Entertainment Featured Michelle Obama's Me Time: The Remote All to Herself!
+*   Beauty DIY Beautify Kelly Bensimon Picks the Best Party Look
+*   Homeandgarden My Best Idea Too Cute! Plate + Marker + Oven = Instant Gift
+*   Food Featured (Food) How to Truss a Turkey
 
   
   
