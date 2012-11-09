@@ -1,5 +1,5 @@
 **Basket**  
-1 item $3.99 Item Name Qty Child Glitter Cat Costume Kit $3.99 1 Shipping to:  
+0 items $0.00 Your shopping basket is empty. Shipping to:  
 Halloween Costumes Customer Service Store Locator Change to Canada
 
 *   Birthday Party Supplies
