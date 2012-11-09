@@ -7,11 +7,11 @@
     *   entertainment
     *   celebrity
     *   Mitt Romney
-    *   Hurricane Sandy
-    *   Mitt Romney 2012
-    *   Barack Obama
-    *   New York City
     *   strange stuff
+    *   Mitt Romney 2012
+    *   Hurricane Sandy
+    *   New York City
+    *   Barack Obama
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -120,9 +120,9 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Why I’m Bearish on Apple
-*   The Refreshing Honesty of Trump's Advisers
-*   Boss Will Oremus Around
+*   Here Comes the Groom
+*   Secretary Clinton II
+*   The Real Story of the Most-Liked Photograph of All Time
 
 More from Slate »
 
@@ -132,21 +132,27 @@ More from Slate »
 
 More from HuffPost Weird »
 
-*   Style Stealer: Taylor Swift’s Polka-Dot Persuasion
-*   Story Of A Boy And His Cat Set To Become A Movie
-*   13 Dos And Don’ts Of Wearing … Plaid
+*   Big Poppa From “The Real Housewives Of Atlanta” Got Arrested
+*   What Do You Do To Avoid Sexual Assault And Harassment?
+*   Hot Links: Jermaine Is A Jackson No More!
 
 More from The Frisky »
 
-*   Photoshop this photoshoot \[Photoshop\]
-*   What you missed while refreshing Drudge and Five Thirty...
-*   Man jailed for 1962 murders freed. That's a lot of murders...
+*   "Children should still learn how to write in cursive"...
+*   Man arrested for robbing Radio Shack. In other news, Radio...
+*   A clutch of snakes with tentacles growing out of their...
 
 More from Fark »
 
-*   Gas Rationing to Go Into Effect for New York City and Long...
-*   Waiting for the L Train Is Now a Little Bit Less Futile
-*   Long Island Man Arrested in Plot to Pipe-Bomb Home Depot on...
+*   10 things you need to know today: November 9, 2012
+*   Obama's second term: The case for immigration reform
+*   The GOP must become modern -- but not moderate
+
+More from The Week »
+
+*   Gay Marriage Passes in Washington State
+*   President Obama Cries While Thanking Campaign Staff
+*   MTA Chief Joe Lhota Says Bloomberg Is Making Predictions...
 
 More from Daily Intel »
 
@@ -156,21 +162,21 @@ More from Daily Intel »
 
 More from HuffPost Health »
 
-*   'Twilight' Star Kristen Stewart Talks 'Fake' Babies and...
-*   Victoria's Secret Model Lily Aldridge Reveals Her Post-Baby...
-*   Ariel Winter's Mother Denies Abuse Allegations: 'It's All...
+*   Ariel Winter's Mom Claims She 'Found Daughter in Bed With...
+*   Victoria's Secret Fashion Show 2012: Which Angel Flaunted...
+*   Miley Cyrus Confirms She's Having One Wedding: 'That Day...
 
 More from Celebuzz »
 
-*   Latest Jennifer Aniston Pregnancy Rumor Could Be the Real...
-*   Father Allegedly Drowns Toddler Son and Poisons 7-Year-Old...
-*   Gabby Giffords' Shooter Jared Loughner Sentenced and His...
+*   A Perfectly Darling Nursery for a Beautiful Baby Girl
+*   Leonardo DiCaprio's $23 Million Malibu Home Is Even Hotter...
+*   'Twilight' Stars Then and Now (PHOTOS)
 
 More from The Stir »
 
-*   Mad Magazine's Old Parody Ads Were Better Than the Real...
-*   Ad of the Day: Sony Xperia
-*   Knifing People on Trains Is a Great Idea, Says PlayStation...
+*   Horrible Client Feedback Turned Into Hilarious Works of Art
+*   McCann Worldgroup Wins AOL Assignment
+*   Top 10 Commercials of the Week: Nov. 2-9
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
