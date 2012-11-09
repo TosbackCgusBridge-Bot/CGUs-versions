@@ -91,6 +91,7 @@ Search: Keyword or product code Search area
     *   Chipmunk Products
 *   Fish
     *   Fish Products On Special Offer
+    *   New Fish Products
     *   Fish Food
     *   Fish Books &. DVDs
     *   Fish Tanks
