@@ -687,21 +687,21 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   Ojos soñadores
+*   ¡No te las pierdas!
     
-    Ximena Duque, toda una estrella de novela.
+    Mira aquí lo mejor de tus novelas.
     
-*   ¿No sabes cómo atraparlo?
+*   La infidelidad femenina
     
-    Entérate de que se puede enamorar  
+    Descubre por qué son infieles las mujeres  
     
-*   ¿Cuál es su cara más sexy?
+*   ¿Quién es el galán con cuerpo perfecto?
     
-    Mauricio Ochmann tiene una cara que seduce. ¡Elígela!
+    Nosotros te lo decimos...
     
-*   Camino de Miss Nicaragua
+*   Camino de Miss Puerto Rico
     
-    Con la deslumbrante modelo Farah Eslaquit, Nicaragua quiere repetir su gran campaña del año pasado. ¿Alcanzará la corona esta vez? ¡Opina!
+    Descubre a Bodine Koehler, la exótica belleza que ilusiona a Puerto Rico con alcanzar su sexta corona.
     
 
 Más en Telemundo:
@@ -718,7 +718,7 @@ Mujer De Hoy
 
 Yo Me Llamo
 
-Hablemos Claro
+Miss Universo
 
 Videos
 
