@@ -120,10 +120,10 @@ Shop^
         *   View All  Handbag Collections
     *   Handbag Silhouettes
         
-        *   Satchel &. Shoulder
-        *   Crossbody
-        *   Tote
-        *   Small
+        *   Satchel &. Shoulder Handbags
+        *   Crossbody Handbags
+        *   Tote Handbags
+        *   Small Handbags
         *   Wristlets
         
         *   View All  Handbag Silhouettes
@@ -159,9 +159,8 @@ Shop^
     *   Fossil Finds
         
         *   Vintage Collaboration: This is Not Ikea
-        *   Vintage Collaboration: Three Potato Four
-        *   Vintage Science
         *   Our Favorites
+        *   Vintage Collaboration: Three Potato Four
         
         *   View All  Fossil Finds
     *   SALE
@@ -230,9 +229,9 @@ Shop^
             *   View All  Bag Collections
         *   Bag Styles
             
-            *   Work Brief
-            *   Messenger
-            *   City
+            *   Work Brief Bags
+            *   Messenger Bags
+            *   City Bags
             *   Backpack &. Travel Bags
             *   Wallets
             
@@ -260,10 +259,9 @@ Shop^
             *   View All  Accessories
         *   Fossil Finds
             
-            *   Vintage Collaboration: Three Potato Four
             *   Vintage Collaboration: This is Not Ikea
-            *   Vintage Science
             *   Our Favorites
+            *   Vintage Collaboration: Three Potato Four
             
             *   View All  Fossil Finds
         *   SALE
