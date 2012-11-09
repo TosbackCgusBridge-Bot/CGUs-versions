@@ -4,11 +4,15 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] Outerwear Sale - Up to 50% Off!
+\[hol-HomepageTopBannerEMS\] 20% off! code: 35248 + Members Get Free Shipping over $100 When signed in!
 
-*   Shop Dudes Outerwear
+*   Shop Dudes
 
-*   Shop Bettys Outerwear
+*   Shop Bettys
+
+*   Join
+
+*   Learn More
 
 *   see details
 
@@ -24,6 +28,7 @@ Go to the Hollister Co. home page.
 *   Dudes
 *   Bettys
 *   So Cal Looks
+*   Gifts
 *   HCo Life
 *   Search
 
