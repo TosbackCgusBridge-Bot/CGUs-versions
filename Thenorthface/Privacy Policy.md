@@ -491,6 +491,7 @@ Shop Now Shop by Women's
 *   Athlete Picks
 *   Gift Cards
 *   Outfits
+*   Custom
 
 Jackets &. Vests*   Triclimate®
 *   Insulated
@@ -503,6 +504,7 @@ Jackets &. Vests*   Triclimate®
 *   Lifestyle
 *   Vests
 *   Extended Sizes
+*   Custom Denali
 *   All Jackets &. Vests
 
 Footwear*   Boots
@@ -567,6 +569,7 @@ Shop Now Shop by Men's
 *   Athlete Picks
 *   Gift Cards
 *   Outfits
+*   Custom
 
 Jackets &. Vests*   Triclimate®
 *   Insulated
@@ -579,6 +582,7 @@ Jackets &. Vests*   Triclimate®
 *   Lifestyle
 *   Vests
 *   Extended Sizes
+*   Custom Denali
 *   All Jackets &. Vests
 
 Footwear*   Boots
