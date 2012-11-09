@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Life &. style:** How to cook the perfect fried egg
-2.  2\. **Society:** David Cameron warns against 'witch-hunt' amid paedophilia allegations
-3.  3\. **Technology:** Bram Stoker's books are all very well... but what are the best vampire games?
-4.  4\. **Football:** Celtic shock Barcelona with goals from Victor Wanyama and Tony Watt
-5.  5\. **Film:** Daniel Craig reveals he wanted Skyfall to be his last James Bond film
+1.  1.  **News:** 'Mistaken identity' led to top Tory abuse claim
+2.  2\. **News:** Mitt Romney thanks wealthy donors as Republican strategists search for blame
+3.  3\. **Business:** 'Congratulations, you've become a Goldman Sachs partner'
+4.  4\. **Technology:** Bram Stoker books: a Google doodle that really sucks
+5.  5\. **News:** Bulgarian archaeologists find golden treasures in ancient Thracian tomb
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Society:** David Cameron warns against 'witch-hunt' amid paedophilia allegations
-2.  **Science:** Bionic hand makes amputee 'feel human again' – video
-3.  **News:** Robbers on motorcycles ride into Brent Cross shopping centre - CCTV video
-4.  **Society:** David Cameron challenged over paedophiles by This Morning's Philip Schofield – video
-5.  **Football:** Rod Stewart weeps tears of joy after Celtic beat Barcelona – video
+1.  **Education:** What kind of student spender are you?
+2.  **Global development:** Britain to stop aid to India
+3.  **Environment:** Satellite eye on Earth: October 2012 – in pictures
+4.  **Business:** Eurozone crisis live: Greece calls for calm over bailout delay
+5.  **Global development:** Developing economies to eclipse west by 2060, OECD forecasts
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,23 +312,23 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  TV review: Kirstie's Vintage Home
-2.  2\. Tottenham v NK Maribor – live!
-3.  3\. Mitt Romney thanks wealthy donors as Republican strategists search for blame
-4.  4\. Leveson inquiry: bring in new law to curb press excesses, Tories urge PM
-5.  5\. In Obama's second term, hope for change rests with us, the people | Amy Goodman
+1.  1.  Media Talk podcast: Robbie Williams is the new Status Quo
+2.  2\. Syria's humanitarian crisis getting 'rapidly worse' UN warns - live updates
+3.  3\. Seduction playlist: get jiggy with these tracks
+4.  4\. Ansel Adams: Photography from the Mountains to the Sea exhibition opens in London
+5.  5\. Premier League live webchat: Jacob Steinberg answers your questions
 6.  All today's stories
 
 On the Guardian today
 
-1.  World news US election 2012: winners and losers
-2.  Science How did Nate Silver predict the US election?
-3.  Comment is free Barack Obama's odyssey continues
-4.  Football Anzhi Makhachkala v Liverpool – as it happened
-5.  World news Republicans debate future as 2016 jostling begins - US politics live
-6.  World news Barack Obama's victory speech – video
+1.  World news Mitt Romney thanks wealthy donors as Republican strategists search for blame
+2.  World news US election 2012: winners and losers
+3.  World news Bulgarian archaeologists find golden treasures in ancient Thracian tomb
+4.  Comment is free CNN claims Iran shot at a US drone, revealing the news network's mindset
+5.  World news Tearful Obama thanks campaign team as Democrats ponder next moves
+6.  World news Republicans debate future as 2016 jostling begins - US politics live
 
-From the Guardian today
+Most popular in this section From the Guardian today
 
 *   Hurricane Sandy: 10 statistics that place this powerful storm in perspective **Harry Enten**: Overhyped? Hardly – this storm system is massive and its effects will be felt for days by much of the US east coast
 *   San Francisco Giants win World Series by sweeping the Detroit Tigers **MLB:** San Francisco Giants win fluctuating Game Four 4-3 in extra inning to sweep Detroit Tigers and claim 2012 World Series
@@ -339,7 +339,7 @@ Today's best video
 *   Ben Affleck discusses new film Argo Ben Affleck discusses his Oscar frontrunner Argo, a drama based on the 1979-81 Iran hostage crisis
 *   Robbers on motorcycles on CCTV Six jewellery thieves ride into a London shopping centre on motorbikes
 
-Today in pictures
+Most popular on the Guardian Today in pictures
 
 *   Hurricane Sandy approaches north-eastern US - in pictures Hurricane Sandy, which could affect tens of millions of people in the northeast US, is expected to bring days of rain, high winds and possibly heavy snow
 *   London Comic Con 2012 – in pictures Visitors to the MCM Comic Con at the ExCel centre in London dress up as their favourite characters
