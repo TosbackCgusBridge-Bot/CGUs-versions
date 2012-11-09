@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Thursday 08 November 2012
+Friday 09 November 2012
 
 *   Home
 *   News
@@ -142,11 +142,13 @@ For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Secret quest for democracy in Beijing  
+Ben Affleck's Argo, review  
 
-Protesters tell **Tom Phillips** the cloak and dagger measures they must take to petition the 18th Congress of the Chinese Communist Party.
+Ben Affleck's new film Argo is a tremendously accomplished thriller, writes **Robbie Collin**.
 
-Stretchers at the ready as delegates yawn through China's event of the decade Forget the TV shows, what are the ads like? It’s time for a big Republican clear-out A bitter sweet victory for Obama Advertisement
+Comments
+
+The traumas of war that haunt us still In writing about death, all life is there Titchmarsh: 'secret' Eden is my labour of love Apple's dominance shaken to its core Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
