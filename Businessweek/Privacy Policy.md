@@ -116,6 +116,6 @@ Links
 *   Terms of Use
 *   \[+\] Rate This Page
 
-Get Businessweek Delivered It's Global Warming, Stupid Subscribe
+Get Businessweek Delivered The Next Four Years Subscribe
 
 ©2012 Bloomberg L.P. All Rights Reserved. Made in NYC Ad Choices
