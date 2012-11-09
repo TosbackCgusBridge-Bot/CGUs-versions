@@ -45,6 +45,7 @@ Mattress Giant | Mattress Online | Bed Furniture Search this site... Find 0 item
     *   Daybed Bedding
     *   Bedding Accessories
     *   Kids Bedding
+    *   Pet Beds
 *   **Furniture**
     *   Bed Frames
     *   Headboards &. Footboards
