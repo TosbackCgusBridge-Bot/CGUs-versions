@@ -23,6 +23,8 @@ Skip Navigation
 *   Rejuvenation
 *   /
 *   Cultivate
+*   /
+*   Mark and Graham
 
 *   *   Living Rooms
     *   Media Rooms
@@ -696,7 +698,7 @@ Main Content Starts Here Our Company
 
 PRIVACY POLICY
 
-We are part of "Williams–Sonoma, Inc. Brands" which includes Williams–Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm and Rejunvenation. Williams–Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting the practices described in this Privacy Policy.
+We are part of "Williams–Sonoma, Inc. Brands" which includes Williams–Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams–Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting the practices described in this Privacy Policy.
 
 As a part of our commitment to your privacy, Williams–Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers. (2) honor customers' requests not to share their contact information with other marketers. and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams–Sonoma, Inc. Brands.
 
@@ -780,7 +782,7 @@ Your Feedback
 
 To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 800.541.1262 or send us an email. Outside of the U.S., you can call us at 405.717.6139 or send us an email.
 
-Effective Date: November 16. 2011
+Effective Date: November 2012
 
 *   *   *   About Us
         *   Store Locations
@@ -835,7 +837,7 @@ Effective Date: November 16. 2011
 
 © 2012 Williams-Sonoma Inc. All Rights Reserved / Privacy Policy / Terms &. Conditions
 
-Top Customer Picks: Pottery Barn \[+\] PBteen \[+\] Pottery Barn Kids \[+\] West Elm \[+\] Williams-Sonoma \[+\] WS Home \[+\] Rejuvenation \[+\] Cultivate \[+\]
+Top Customer Picks: Pottery Barn \[+\] PBteen \[+\] Pottery Barn Kids \[+\] West Elm \[+\] Williams-Sonoma \[+\] WS Home \[+\] Rejuvenation \[+\] Cultivate \[+\] Mark and Graham \[+\]
 
 *   bunk beds
 *   bed skirts
@@ -924,3 +926,14 @@ Top Customer Picks: Pottery Barn \[+\] PBteen \[+\] Pottery Barn Kids \[+\] West
 *   kitchen backsplash ideas
 *   kitchen designers
 *   kitchen design tools
+
+*   Monogrammed Gifts
+*   Gift Shops
+*   Holiday Gifts
+*   Housewarming Gifts
+*   Personalized Throws
+*   Leather Gifts
+*   Personalized Jewelry
+*   Monogrammed Napkins
+*   Hostess Gifts
+*   Personalized Christmas Gifts
