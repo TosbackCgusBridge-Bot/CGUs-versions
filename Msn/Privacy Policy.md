@@ -212,14 +212,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
-    *   Online OT: Pick 'em Week 10
-    *   Chelsea v Shakhtar Donetsk UEFA Champions League Highlights 11/07/12
-    *   Braga v Manchester United UEFA Champions League Highlights 11/07/12
-    *   Celtic v Barcelona UEFA Champions League Highlights 11/07/12
-    *   Recap: Celtic beats Barcelona.
-    *   CONCACAF Hex draw
-    *   Bayern Munich v Lille UEFA Champions League Highlights 11/07/12
-    *   Extra Point: Time to tank?
+    *   'Family first' for Bears
+    *   Fearless Predictions: (15) TAMU/(1) ALA
+    *   Joey Barton scores direct from a corner kick for Marseille.
+    *   Fearless Predictions: (21) MSU /(7) LSU
+    *   Coach Speak: HOU/CHI Preview
+    *   McReynolds: NASCAR Craziness
+    *   Davis: CFB on FOX Preview - Week 11
+    *   Marvez: DAL/PHI Preview
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -505,33 +505,29 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   Vikings' Peterson misses practice with illnes...
-*   Stiemsma embodies underdog Timberwolves
-*   Illinois appears ripe for Gophers' picking
+*   Gophers must move past loss to top Illini
+*   Willingham wins first Silver Slugger
+*   Incmikoski: 'FOX made me what I am today'
 
 *   VINTAGE: The Unique Iso Varedo
 *   MOTOGP: Rossi, Lorenzo Pay Tribute To Biaggi
 *   CUP: Phoenix Still Has Some ‘New’
 
-*   Hayden’s comfort level growing
-*   Gilmore to Announce Decision
-*   Starting Lineup Still in Flux
+*   Sam-n-Kyle Slip-Rock Preview, Part 2 (video)
+*   Pirates hire Livesey as senior advisor to GM
+*   Finally, Part of Mix
 
-*   UFC Unrestricted - Sneak Preview
-*   UFC On FUEL TV 6: Pre-Fight Press Conference
-*   Title Town &. Super-Fights
+*   Thiago Silva “Light Heavyweight Is The Hardes...
+*   Cung Le Prepared For An “Explosion” In Fight...
+*   Rich Franklin Weighs In On Fighting Cung Le
 
-*   Europa League en VIVO
-*   Bilbao vs Lyon
-*   Messi y Villa volvieron a discutir
+*   Universidad Católica se clasifica
+*   Durant impulsa al Thunder
+*   Se definen las cosas en la MLS
 
-*   Bears CB says he'll skip game for birth
-*   Kidd reacts to Cuban's comments
-*   Cashman: Team not trading A-Rod
-
-*   Europa League - Scores
-*   Europa League: Tottenham vs. Maribor
-*   Europa League: Partizan vs. Internazionale
+*   Tigre, Universidad advance to semis
+*   Protest over Maracana privatization
+*   Palmeiras players threatened
 
 *   *   NFL
     *   NFL Home
