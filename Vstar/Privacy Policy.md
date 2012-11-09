@@ -636,25 +636,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Educators relieved with passage of Proposition 30 Updated 11/7/2012 at 5:08 p.m. 112 comments
-*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 386 comments
+*   Obama's support dropped from '08 in east county cities Published 11/8/2012 at 4:49 p.m. 65 comments
+*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 408 comments
+*   Educators relieved with passage of Proposition 30 Updated 11/7/2012 at 5:08 p.m. 120 comments
+*   18-year-old son accused of setting family's dog on fire Updated 11/9/2012 at 12:16 p.m.
 *   Authorities warn of "knock knock" burglaries in east Ventura County Updated 11/8/2012 at 2:04 p.m.
-*   Obama's support dropped from '08 in east county cities Published 11/8/2012 at 4:49 p.m. 31 comments
-*   Oxnard council realignment creates opening Updated 11/7/2012 at 6:41 p.m. 21 comments
 
-Photo Galleries Election night 2012 Ventura County's Most Wanted November… Kids enjoy thrill of racing
+Photo Galleries Election night 2012 Ventura County's Most Wanted November… One restaurant, two cuisines in Ojai
 
-*   Obama: 'We have picked ourselves up,' fought back Published 11/6/2012 at 10:08 a.m. 386 comments
-*   Brownley wins 26th Congressional District race over Strickland Published 11/6/2012 at 8:10 p.m. 113 comments
-*   Educators relieved with passage of Proposition 30 Published 11/7/2012 at 3:39 p.m. 112 comments
-*   Morning chat Published 11/6/2012 at 12:00 a.m. 94 comments
-*   Morning chat Published 11/8/2012 at 12:00 a.m. 66 comments
+*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 408 comments
+*   Educators relieved with passage of Proposition 30 Updated 11/7/2012 at 5:08 p.m. 120 comments
+*   Brownley wins 26th Congressional District race over Strickland Updated 11/7/2012 at 12:52 p.m. 113 comments
+*   Morning chat Updated // at : 94 comments
+*   Obama's support dropped from '08 in east county cities Updated // at : 65 comments
 
-*   Authorities warn of "knock knock" burglaries in east Ventura County Published 11/8/2012 at 12:11 p.m. 0 comments
-*   Oxnard school principal arrested after alleged road rage incident Published 11/2/2012 at 5:47 p.m. 0 comments
-*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 67 comments
-*   Stonehaus to add touch of Tuscany to Westlake Village Inn Published 10/30/2012 at 5:51 p.m. 0 comments
-*   Small manufacturers join trust for health insurance coverage Published 11/3/2012 at 11:10 a.m. 7 comments
+*   Authorities warn of "knock knock" burglaries in east Ventura County Updated 11/8/2012 at 2:04 p.m. 0 comments
+*   Shirley: Medical device tax will impact jobs and costs Updated // at : 0 comments
+*   Oxnard school principal arrested after alleged road rage incident Updated // at : 0 comments
+*   Stonehaus to add touch of Tuscany to Westlake Village Inn Updated 10/30/2012 at 6:05 p.m. 0 comments
+*   Wal-Mart's new strategies allow access into Ventura County cities Updated // at : 67 comments
 
 Weather
 
@@ -662,23 +662,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 57° Fair Wind: W 12mph Today 63° 46° Fri 05:00 PM Mostly Cloudy Showers Temp: 51° Sat 05:00 AM Mostly Cloudy Showers Temp: 46° Sat 05:00 PM Partly Cloudy Temp: 47°
-
-Feels Like: 51°
-
-Humidity: 86%
-
-Precip: 31%
+Currently 63° Fair and Breezy Wind: W 23mph Today 63° 46° Sat 02:00 AM Mostly Cloudy Showers Temp: 46° Sat 02:00 PM Partly Sunny Temp: 57° Sun 02:00 AM Mostly Clear Temp: 42°
 
 Feels Like: 46°
 
-Humidity: 89%
+Humidity: 79%
+
+Precip: 31%
+
+Feels Like: 57°
+
+Humidity: 70%
 
 Precip: 26%
 
-Feels Like: 47°
+Feels Like: 34°
 
-Humidity: 82%
+Humidity: 62%
 
 Precip: 9%
 
@@ -704,10 +704,10 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   The 'Big Sort' in action
 *   Oxnard is where the race was won
 *   Strategy of Prop. 32 proponents backfired
 *   Some quick post-election takes
-*   What to watch for when the vote counts start coming in
 
 Brian Dennert here
 
@@ -763,9 +763,9 @@ More Events » Features
     
     VCS Preps game of the week: Harvard-Westlake vs. Camarillo
     
-    #Your Community: How You See It
+    California State News
     
-    Your Instagram photos from your community.
+    Stay up to date with what's happening across the state.
     
     On Campus
     
@@ -775,13 +775,21 @@ More Events » Features
     
     Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
-    Football Contest
+    #Your Community: How You See It
     
-    Follow Loren Ledin's picks and choose your own leaderboard.
+    Your Instagram photos from your community.
     
     Pigskin Picks
     
     Play our pro football picks contest for a shot at $500 and other prizes.
+    
+*   Football Contest
+    
+    Follow Loren Ledin's picks and choose your own leaderboard.
+    
+    National News
+    
+    Stay up to date with what's happening across the nation.
     
 
 On this site:
