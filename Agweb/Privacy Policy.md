@@ -233,11 +233,7 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Seed Prices Going Up, But so Will Revenues
-*   California Dairies, Inc. to Acquire Security Milk Producers Association Assets and Members
-*   Fed Economist Predicts Healthy Agriculture Profits in 2013
-*   Know an Outstanding Young Farmer?
-*   Power Hour: Pre-Report Analysis of Nov. 9 Reports
+*   AgDay Daily Recap -November 9, 2012
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
