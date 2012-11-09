@@ -272,6 +272,7 @@ Search iVillage.com Search
     *   Boards
     *   Videos
         *   *   iVoices
+    *   En Español
 *   Entertainment
     *   Celebrity News
     *   Photos
@@ -306,6 +307,7 @@ Search iVillage.com Search
     *   Boards
     *   Videos
         *   *   DIY Beautify
+    *   En Español
 *   Food
     *   Recipes
         *   *   Thanksgiving Recipes
@@ -318,6 +320,7 @@ Search iVillage.com Search
     *   Boards
     *   Videos
         *   *   My Best Idea
+    *   En Español
 *   Home &. Garden
     *   Decorate
         
@@ -330,8 +333,9 @@ Search iVillage.com Search
     *   Boards
     *   Videos
         *   *   My Best Idea
+    *   En Español
 *   Love &. Sex
-    
+    *   En Español
 *   Boards
     *   Pregnancy &. Parenting
     *   Health &. Fitness
@@ -512,7 +516,7 @@ best of iVillage
 *   Entertainment Photos Obama Wins the Election! See His Famous Friends
 *   Beauty Celeb Hair 35 Celeb Hair and Makeup Looks to Try at Home
 *   Food Holiday Cooking The 11 Cooking Tools You Need for the Holidays
-*   Homeandgarden My Best Idea Too Cute! Plate + Marker + Oven = Instant Gift
+*   Parenting Vacation + Travel Tips for Traveling While You're Pregnant
 
 *   Join iVillage
 *   Message Boards
