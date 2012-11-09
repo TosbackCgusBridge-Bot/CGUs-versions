@@ -1,32 +1,4 @@
-Skip to main content eBay Welcome, (Sign in to bid or buy)
-
-*   Buy
-*   My eBay
-*   Sell
-*   Community
-*   Customer Support
-*   Basket
-
-*   CATEGORIES
-
-*   ELECTRONICS
-*   FASHION
-*   MOTORS
-*   DAILY DEALS
-*   _eBay Buyer Protection -- Find out more_
-
-  Home >. Help >Membership &. account>Protecting your account>Privacy Policy Help **Thanks for your Comment!** Community input helps improve eBay's Help pages. We're sorry, but we are not able to post your comment at this time. Please try again later. Browse help Searching &. researching Finding items Managing your results Using Reviews &. Guides Bidding &. buying Buying basics All about bidding Managing your buying activity Resolving buying problems Becoming a better buyer Selling &. seller fees Selling basics Seller fees Creating effective listings Managing your selling activity Resolving selling problems Increasing your selling Using seller tools Selling with an eBay Shop Payment &. postage Paying for items Receiving payment Packaging &. posting items Feedback All about Feedback Membership &. account Getting started on eBay Registration &. signing in Managing your account Sharing with eBay members Protecting your account Rules &. policies
-
-eBay glossary
-
-eBay acronyms
-
-A-Z index
-
-Important news for sellers
-
-**Search Help pages**  
-(Does not search for items or products) ****Search**** tips eBay Privacy Policy
+eBay Privacy Policy
 
 The following Privacy Policy shall apply to users registering on or after 22 August 2011, as from the date of registration. For users who registered prior to 22 August 2011, the Privacy Policy shall apply as from 30 September 2011. You can find the old Privacy Policy here.
 
@@ -391,23 +363,3 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 General
 
 We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted. In addition, we will notify you through the eBay Message Centre or via email at the address you provide in My eBay. If our help pages do not answer the questions you may have related to the Privacy Policy, you can write to the Data Controller within the European Union: eBay Europe S.à r.l. – Privacy Policy Requests, 22-24 Boulevard Royal, L-2449 Luxembourg, or you may contact eBay Customer Support.
-
-Was this page helpful? YesNo How can we improve this page? (optional) 700 characters left ****Submit Comment**** Contact us
-
-Have a question? We can help.
-
- ****Contact us**** Ask eBay members
-
-Get help from other eBay members. Visit the Answer Centre to post a question.
-
-**Related Help topics**
-
-*   Privacy Overview
-    
-*   Publishing Contact Information
-    
-*   eBay User Agreement
-    
-
-   
-About eBay | Announcements | Buy Hub | Safety Centre | Partner Centre | VeRO: Protecting Intellectual Property | Policies | Feedback Forum | eBay Wish list | Site Map | Customer Support | eBay official time _eBay Buyer Protection -- Find out more_Copyright © 1995-2012 eBay Inc. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. Use of this website constitutes acceptance of the eBay User Agreement and Privacy Policy.
