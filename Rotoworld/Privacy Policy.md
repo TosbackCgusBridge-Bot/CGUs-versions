@@ -34,6 +34,7 @@ To search for a player use one of two formats:
 
 COLUMNS
 
+*   Non-Tender Tango Nov 9
 *   Arizona Fall League Prospects Nov 7
 *   2013 Top 50 Free Agents Nov 2
 *   Santana Hands In His Halo Nov 1
@@ -41,7 +42,6 @@ COLUMNS
 *   Kung Fu Pandamonium Oct 25
 *   Giant Performance Oct 22
 *   Cards Ahead On Carpenter Bomb Oct 18
-*   Beltran Blasting Off Again Oct 15
 
 PREMIUM CONTENT
 
@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Kuroda declines qualifying offer from Yankees
+*   B.J. Upton declines Rays' qualifying offer
+*   Giants confident they can re-sign Affeldt
+*   Nationals, Davey Johnson agree to new deal
+*   Reds interested in Bourn for leadoff spot
+*   Tigers offer Jeremy Bonderman a contract
+*   Brewers talking extension with Corey Hart
+*   M's considering Mike Napoli, Russell Martin
+*   Rangers won't give Hamilton more than 3 years
+*   Angel Pagan on top of Braves' CF wish list
 *   Rosenthal: Brewers interested in Dempster
 *   Report: Anibal Sanchez looking for $90M deal
-*   Cubs among teams to submit bid for Hyun-Jin
-*   Rangers, Mariners in on FA OF Nick Swisher
-*   Rangers won't deal Andrus or Profar for Upton
-*   Red Sox have 'reached out' to Hiroki Kuroda
-*   Red Sox 'have eye on' righty Anibal Sanchez
-*   Jays reach three-year, $9M deal with Izturis
-*   Red Sox have interest in Choo and Masterson
-*   Mets discussing trades involving R.A. Dickey
-*   Cashman: 'We're not trading Alex Rodriguez'
-*   Jaime Garcia (shoulder) on 'the right track'
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Friday Rundown Nov 9
+*   Matchups: Dez'll Do It Nov 9
 *   Running Luck Nov 9
 *   Week 10 Live Chat Nov 8
 *   Week 10 Rankings Nov 8
 *   Week 10 Target Watch: AFC Nov 8
 *   Jonesing for Reece Nov 8
 *   Matchup: Colts @ Jaguars Nov 8
-*   Week 10 Target Watch: NFC Nov 7
-*   Getting Defensive: Week 10 Nov 7
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Pats RB Bolden hit with 4-gm PED suspension
+*   Kubiak: Owen Daniels 'very limited very sore'
+*   Vikings leaving door open for Harvin to play
+*   Saints rule out Darren Sproles versus Atlanta
+*   Vikes list Percy Harvin as doubtful for Wk 10
+*   Owen Daniels limited, to be game-day decision
+*   Hakeem Nicks listed probable for Week 10
+*   Stevie Johnson listed questionable for Sunday
+*   Percy Harvin misses practice again on Friday
+*   Titus, Megatron return for Friday's practice
+*   Gabbert 'hopes' to be back for Texans game
 *   Luck runs for 2 TDs as Colts defeat Jaguars
-*   Gabbert re-aggravates left shoulder injury
-*   Weeden has 7 games to prove he's the future
-*   Jones-Drew believes he is 'two weeks away'
-*   Ballard gets the start for Colts over Brown
-*   Marshawn Lynch held out again on Thursday
-*   Redman expected to draw start versus Chiefs
-*   Texans will double-team Marshall every play
-*   Vikings hope to have Harvin practice Friday
-*   Nicks' swelling is gone, vows to play Sunday
-*   Stevie Johnson returns to practice Thursday
-*   Nerve damage behind Calvin Johnson's drops?
 
 NBA PAGES
 
@@ -134,6 +134,7 @@ NBA PAGES
 
 COLUMNS
 
+*   DeAndre the Giant Nov 9
 *   Dose: Serge Ibaka Explosion Nov 9
 *   NBA Live Chat Thursday Nov 8
 *   Dose: Big Wednesday Nov 8
@@ -141,7 +142,6 @@ COLUMNS
 *   Dose: Waiters Explosion Nov 6
 *   Dose: Josh Smith iffy w/ ankle Nov 5
 *   NBA chat: Monday @ 12:30 ET Nov 4
-*   Wired: NBA Hot Pickups! Nov 4
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Alan Anderson to start for Raptors?
+*   Al Jefferson (flu) to play on Friday
+*   Kyle Lowry skips practice, GTD vs. Sixers
+*   Lakers fire coach Mike Brown after 1-4 start
+*   Dion Waiters moving better at shootaround
+*   Dwyane Wade skips shootaround with illness
+*   Anthony Davis, Austin Rivers to return Friday
 *   Waiters (thigh) questionable for Friday
 *   Bogut (ankle) to be shut down for 7-10 days
-*   Davis (concussion) hopes to play Friday
-*   Al Jefferson iffy for Friday w/ stomach virus
 *   David Lee posts big line despite flu
 *   Greg Monroe posts big triple-double in loss
 *   Al-Farouq Aminu grabs 16 rebounds in loss
-*   Larry Sanders double-doubles in loss
-*   Vucevic, Davis disappear for Magic
-*   James Harden's cooling-off period continues
-*   Byron Mullens hits six 3-pointers in loss
-*   Anderson Varejao (knee) out for Wednesday
 
 NHL PAGES
 
@@ -207,6 +207,9 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Crosby: A 60-game season would be pretty fair
+*   Fehr to players: Still a lot of work ahead
+*   Still much work to be done in labor talks
 *   NHL, NHLPA to continue talks Friday
 *   Carl Hagelin will return to NY for rehab
 *   Report: PA expects league response to offers
@@ -216,9 +219,6 @@ FANTASY HOCKEY NEWS
 *   Tyler Seguin longs for NHL action
 *   Ryan: Sport can't afford to lose a season
 *   CBA talks end, will resume Thursday
-*   NHL not committed to term limits on deals
-*   Scott Gomez is really joining ECHL's Aces now
-*   Cody Hodgson (hand) will miss a couple weeks
 
 NASCAR PAGES
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Kyle Larson to run final two with Turner
+*   Hornish defending winner of Phoenix NNS race
+*   Marcos Ambrose Phoenix advance
+*   Phoenix notes of interest on Montoya
+*   Jamie McMurray at Phoenix
+*   Austin Dillon to make first Daytona 500 start
 *   Jason White making 150th truck start
 *   Kurt Busch AdvoCare 500 advance
 *   Lofton considers Phoenix his home track
 *   Coulter has top 10-laps in truck Happy Hour
 *   Nelson Piquet Jr. fastest in truck Happy Hour
 *   Coulter to Kyle Busch Motorsports in 2013
-*   Ryan Blaney team news at Phoenix
-*   Ricky Stenhouse Jr. notes at Phoenix
-*   Fast facts at Phoenix on Matt Kenseth
-*   Carl Edwards reaches a milestone at Phoenix
-*   Peck to race SS Green Light entry at Phoenix
-*   Ryan Truex back behind the truck wheel
 
 GOLF PAGES
 
@@ -285,18 +285,18 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
-*   Stallings nabs field-high 9 birdies in opener
+*   Stenson seventh 36-hole clubhouse co-leader
+*   M. Anderson putting on clinic. co-leads CMNHC
+*   CH3 one of many 36-hole clubhouse co-leaders
+*   Wi regresses but retains a piece of the lead
+*   M. Jones cards his low of 2012. shares lead
+*   English wearing out greens. co-leads CMNHC
+*   Back against wall, co-leader Imada finds form
 *   Wi maximizes on his chances to lead the CMNHC
 *   Holmes WDs from Disney. solid season ends
 *   Barber's DQ benefits Lafeber, five others
 *   Reed to play Disney. multiple goals in sight
 *   Poulter emerges at the WGC-HSBC Champions
-*   Tianlang, 14, wins Asian Am and Masters berth
-*   Oosthuizen fades. settles for 54-hole co-lead
-*   Westwood matches career low to lead WGC-HSBC
-*   Snedeker cards 60 in his third round in China
-*   McDowell admits having dust-up...with a door
-*   Hanson will accept 2013 PGA TOUR membership
 
 NFL DRAFT PAGES
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Wolverines' Lewan is Pauline's top ranked T
+*   Buckeye RB Hall granted redshirt, back in '13
+*   Muench: DT Williams compares to Geno Atkins
+*   Rex Burkhead listed as doubtful, again
+*   Barkevious Mingo heads Pauline's top-50
+*   'Door remains open' for WR Wilson to return
+*   Noles WR Greene catches six for 125, 2 TDs
+*   E.J. Manuel throws for 326 yards, 3 TDs vs VT
 *   Cougars DE Ansah invited to the Senior Bowl
 *   Marcus Lattimore undergoes successful surgery
 *   NFL will conduct 10 regional combines
 *   Buckeyes LB Sabino hopes to play vs Badgers
-*   Kiffin: WR Marqise Lee practicing on defense
-*   Minn DT Hageman will consider move to NFL
-*   Joeckel now top prospect for Rang &. Brugler
-*   D.J. Swearinger practicing at CB for SoCar
-*   Cal QB Zach Maynard carted off practice field
-*   McShay: Trojans WR Woods top slot prospect
-*   Phillips, not O'Brien, will start for Badgers
-*   Auburn G: Not that hard to stop Jarvis Jones
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Luck runs for 2 TDs as Colts defeat Jaguars
-*   NFL:Gabbert re-aggravates left shoulder injury
-*   NFL:Weeden has 7 games to prove he's the future
-*   NFL:Ballard gets the start for Colts over Brown
-*   NFL:Jones-Drew believes he is 'two weeks away'
-*   NFL:Marshawn Lynch held out again on Thursday
-*   NFL:Redman expected to draw start versus Chiefs
-*   NFL:Vikings hope to have Harvin practice Friday
-*   MLB:Red Sox have 'reached out' to Hiroki Kuroda
-*   NFL:Nicks' swelling is gone, vows to play Sunday
-*   NFL:DeMarco Murray returns to individual drills
-*   MLB:Rosenthal: Brewers interested in Dempster
+*   MLB:Kuroda declines qualifying offer from Yankees
+*   MLB:B.J. Upton declines Rays' qualifying offer
+*   NFL:Pats RB Bolden hit with 4-gm PED suspension
+*   NBA:Lakers fire coach Mike Brown after 1-4 start
+*   NFL:Kubiak: Owen Daniels 'very limited very sore'
+*   NFL:Vikings leaving door open for Harvin to play
+*   NFL:Saints rule out Darren Sproles versus Atlanta
+*   NFL:Vikes list Percy Harvin as doubtful for Wk 10
+*   NFL:Owen Daniels limited, to be game-day decision
+*   NFL:Hakeem Nicks listed probable for Week 10
+*   NFL:Stevie Johnson listed questionable for Sunday
+*   NFL:Percy Harvin misses practice again on Friday
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. McFaddenNFL (7847)
-*   2D. BrownNFL (7406)
-*   3D. SprolesNFL (6763)
-*   4M. ReeceNFL (6762)
-*   5D. AveryNFL (6462)
+*   1D. McFaddenNFL (8274)
+*   2D. BrownNFL (7672)
+*   3D. SprolesNFL (7142)
+*   4M. ReeceNFL (7094)
+*   5T. JonesNFL (6655)
 
-*   6T. JonesNFL (6207)
-*   7K. SeraphinNBA (6157)
-*   8J. DwyerNFL (6149)
-*   9V. BallardNFL (6069)
-*   10T. HiltonNFL (6061)
+*   6D. AveryNFL (6609)
+*   7P. HarvinNFL (6518)
+*   8J. DwyerNFL (6457)
+*   9K. SeraphinNBA (6415)
+*   10V. BallardNFL (6336)
 
   
 Video Center
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines Running Luck  
-Nov 9 Adam Levitan talks Andrew Luck's legs and recaps all of Thursday's news in the Dose.  
+  Headlines Friday Rundown  
+Nov 9 Frank DuPont looks at Taiwan Jones, Malcom Floyd, and Ryan Mathews, in the weekly trip through the stat sheet.  
   
 More NFL Columns
 
+*   »Friday Rundown Nov 9
+*   »Matchups: Dez'll Do It Nov 9
 *   »Running Luck Nov 9
 *   »Week 10 Live Chat Nov 8
 *   »Week 10 Rankings Nov 8
 *   »Week 10 Target Watch: AFC Nov 8
 *   »Jonesing for Reece Nov 8
 *   »Matchup: Colts @ Jaguars Nov 8
-*   »Week 10 Target Watch: NFC Nov 7
-*   »Getting Defensive: Week 10 Nov 7
 
 NFL Headlines
 
+*   »Pats RB Bolden hit with 4-gm PED suspension
+*   »Kubiak: Owen Daniels 'very limited very sore'
+*   »Vikings leaving door open for Harvin to play
+*   »Saints rule out Darren Sproles versus Atlanta
+*   »Vikes list Percy Harvin as doubtful for Wk 10
+*   »Owen Daniels limited, to be game-day decision
+*   »Hakeem Nicks listed probable for Week 10
+*   »Stevie Johnson listed questionable for Sunday
+*   »Percy Harvin misses practice again on Friday
+*   »Titus, Megatron return for Friday's practice
+*   »Gabbert 'hopes' to be back for Texans game
 *   »Luck runs for 2 TDs as Colts defeat Jaguars
-*   »Gabbert re-aggravates left shoulder injury
-*   »Weeden has 7 games to prove he's the future
-*   »Jones-Drew believes he is 'two weeks away'
-*   »Ballard gets the start for Colts over Brown
-*   »Marshawn Lynch held out again on Thursday
-*   »Redman expected to draw start versus Chiefs
-*   »Texans will double-team Marshall every play
-*   »Vikings hope to have Harvin practice Friday
-*   »Nicks' swelling is gone, vows to play Sunday
-*   »Stevie Johnson returns to practice Thursday
-*   »Nerve damage behind Calvin Johnson's drops?
 
 NFL Links
 
