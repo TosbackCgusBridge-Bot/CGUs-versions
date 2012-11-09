@@ -1,8 +1,8 @@
-Bulletin Coming up: U.S. import prices for October Investor Alert
+Bulletin Lockheed Martin's incoming CEO resigns over relationship with subordinate Investor Alert
 
-New York Markets Open in:
+New York Markets After Hours
 
-Pre-Market Indications Analyst Ratings Oil News EarningsWatch
+After Hours EarningsWatch Evening Winners and Losers
 
 Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
@@ -198,114 +198,113 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:05 AM EST November 9, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 4:58 PM EST November 9, 2012 /marketstate/country/us New York After /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:02a
+/news/latest1.  4:57p
     
-    4 investing moves as China shuffles leaders
+    Lockheed Martin exec resigns after affair
     
-2.  8:02a
+2.  4:50p
     
-    Is the Dow Theory now on a sell signal?
+    Friday’s biggest movers. Apple catches a break
     
-3.  8:01a
+3.  4:45p
     
-    Big earnings on Friday: J.C. Penney, Covidien
+    Obama to hold news conference next Wednesday
     
-4.  8:00a
+4.  4:44p
     
-    Coming up: U.S. import prices for October
+    Washington events for Nov. 12 - 16
     
-5.  7:59a
+5.  4:44p
     
-    Firmer dollar weighs on crude-oil prices
+    Titanium Metals shares soar 43% on Precision deal
     
-6.  7:41a
+6.  4:43p
     
-    Zipcar Inc. up 19% in premarket
+    U.S. stocks edge up but post weekly losses
     
-7.  7:41a
+7.  4:43p
     
-    Kayak Software jumps 26% in premarket
+    Precision to pay $16.50/share for Ttitanium Metals
     
-8.  7:41a
+8.  4:43p
     
-    Hallwood Group up 27% in premarket
+    Precision Castparts to acquire Titanium Metals
     
-9.  7:40a
+9.  4:43p
     
-    Array BioPharma falls 10% in premarket
+    Precision deal values Titanium Metals at $2.9B
     
-10.  7:40a
+10.  4:42p
     
-    Groupon down 19% in premarket
+    Priceline seen gaining strength with Kayak
     
-11.  7:36a
+11.  4:41p
     
-    MoneyGram settles case with U.S., to pay $100 mln
+    Financials end higher, Basel call may help banks
     
-12.  7:34a
+12.  4:40p
     
-    Are some corporate bonds safer than Treasurys?
+    Energy stocks shake off early weakness, post gains
     
-13.  7:33a
+13.  4:39p
     
-    MoneyGram settles with Justice Dept.
+    Dollar probes two-month high on ‘cliff,’ Greece
     
-14.  7:33a
+14.  4:37p
     
-    MoneyGram agrees to $100 mln forfeiture
+    MarketWatch’s top 10 stories, Nov. 5 - 9
     
-15.  7:33a
+15.  4:32p
     
-    MoneyGram agrees to independent monitor
+    Wal-Mart, Home Depot may offer holiday signals
     
-16.  7:33a
+16.  4:30p
     
-    MoneyGram faced charges from 2003-2009
+    CIA chief Petraeus resigns, citing affair
     
-17.  7:33a
+17.  4:28p
     
-    MoneyGram has invested $84 mln for compliance
+    Radio Update: Wall Street stops two-day slide
     
-18.  7:32a
+18.  4:25p
     
-    Stock futures slip. focus on Obama, fiscal cliff
+    Tech stocks rise, but Groupon sinks further
     
-19.  7:31a
+19.  4:24p
     
-    Updates, advisories and surprises
+    Time to warm up to J.C. Penney yet?
     
-20.  7:27a
+20.  4:20p
     
-    Apollo swings to profit, AUMs reach $110 bln
+    10 things 401(k) plans won’t tell you
     
 21.  Loading more headlines...
 
-dow /quotes/zigman/627449 12,811.32 -121.41 -0.94% nasdaq /quotes/zigman/123127 2,895.58 -41.70 -1.42% s&p 500 /quotes/zigman/3870025 1,377.51 -17.02 -1.22% Kiosk
+dow /quotes/zigman/627449 12,815.39 +4.07 +0.03% nasdaq /quotes/zigman/123127 2,904.87 +9.29 +0.32% s&p 500 /quotes/zigman/3870025 1,379.85 +2.34 +0.17% Kiosk
 
 *   1341573300000 1341592200000
     
     From Fox Business
     
-        emily driscoll  
-    4 alternatives to college  
-    With the economy still struggling, many potential students are having second thoughts about higher education, as the cost of a degree spirals skyward.  /conga/kiosk/marketfox.html 234582
-*   1332374700000 1332461400000
-    
-    The Trading Deck
-    
-    Michael gayed  
-    Obama not to blame for correction  
-    The hard selloff has various pundits arguing that the drop was directly because of Barack Obama's win, but this fall has been in place since QE3.  
-    /conga/kiosk/trading-deck-5.html 234781
+        elizabeth macdonald  
+    The catch-22 of legal pot  
+    Marijuana was legalized in both Colorado and Washington on Tuesday, but don't light up yet because federal law may have something to say.  /conga/kiosk/marketfox.html 234969
 *   1329437100000 1329783000000
     
     The Trading Deck
     
-    Why freak out over 'fiscal cliff'?  
-    Attention now turns to the "fiscal cliff," which threatens to slow down a U.S. economy that is just beginning to recover, writes Mick Weinstein.  
-    • See Trading Deck for more market ideas /conga/kiosk/trading-deck-2.html 234780
+    Drop echoes 1987 crash prelude  
+    The charts, timing and news cycle bear more than a passing similarity to the period before October 1987, writes Jon D. Markman.  
+    • See Trading Deck for more market ideas /conga/kiosk/trading-deck-2.html 234960
+*   1326931500000 1327018200000
+    
+    The Trading Deck
+    
+    Dow Theory now on a sell signal?  
+    Did the Dow Theory generate an official sell signal earlier this month? Two of the Dow Theorists whom Mark Hulbert monitors say yes.  
+    • See Trading Deck for more market ideas /conga/kiosk/trading-deck-3.html 234965
 *   1347087600000 1347213600000
     
     Storm aftermath
@@ -314,13 +313,14 @@ dow /quotes/zigman/627449 12,811.32 -121.41 -0.94% nasdaq /quotes/zigman/123127 
     Those affected by last week’s superstorm may have a tax deduction — or an unexpected gain.  
     • Investment scams after Sandy  
     /conga/kiosk/wildcard2.html 234772
-*   1349089200000 1349137500000
+*   1329804000000 1329804000000
     
-    Commentary
+    MarketWatch Blogs
     
-    Writing on the Wall  
-    Wall Street took a beating at polls  
-    The financial industry spent more than $400 million supporting various candidates nationwide, but ended up with little to show for it.  /conga/kiosk/commentary2.html 234775
+    THE CODY WORD  
+    Apple dividend beats Treasurys  
+    Are some corporate bonds safer than Treasurys? Plus more stories that every trader and investor should be reading this weekend.  
+    /conga/kiosk/cody.html 235000
 
 MarketWatch.com
 
