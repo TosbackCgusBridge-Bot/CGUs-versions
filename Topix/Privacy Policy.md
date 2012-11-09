@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
-Earthquake
+Iran
 
-Earthquake: 3.2 quake strikes near Newhall
+Iran acknowledges firing at U.S. drone
 
-Syria
+China
 
-\[blowback\] Erdogan's Global Caliphate and Assad's Syria at War
+Web monitor: China takes extraordinary step of blocking Google
 
 Politix
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 115,687 • Total comments across all topics: 190,599,666
+Comments made yesterday: 112,361 • Total comments across all topics: 190,641,126
 
 Copyright ©2012 Topix LLC
 
