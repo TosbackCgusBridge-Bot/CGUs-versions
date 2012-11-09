@@ -9,6 +9,7 @@ MyPoints Search MyPoints Search Web
 *   Shop
     
     *   What's New
+    *   Happy Holidays
     *   New Additions
     *   Shop by Category
     *   Automotive
@@ -22,8 +23,8 @@ MyPoints Search MyPoints Search Web
     *   Clubs &. Memberships
     *   Computers &. Apps
     *   Department Stores
-    *   Electronics
     
+    *   Electronics
     *   Entertainment
     *   Flowers &. Gifts
     *   Food &. Drinks
@@ -38,8 +39,8 @@ MyPoints Search MyPoints Search Web
     *   Shoes
     *   Sports &. Leisure
     *   Toys &. Hobbies
-    *   Travel
     
+    *   Travel
     *   Weddings
     *   Featured Merchants
     *   Coupons.com
@@ -68,6 +69,7 @@ MyPoints Search MyPoints Search Web
     *   Registrations
     *   SurveyZone
 *   Games
+*   Happy Holidays
 *   Rewards
     
     *   Rewards by Category
@@ -287,7 +289,7 @@ MYPOINTS.COM PARTNERSHIPS
 
 Did You Know?
 
-MyPoints is one of the top online coupon sites. Yup, we're here to save you money.
+MyPoints shopping can be overwhelming at times. Use the search bar on top to make things easy. Search for an online retailer, or product.
 
 Contact Us
 
