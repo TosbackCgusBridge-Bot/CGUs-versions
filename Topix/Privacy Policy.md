@@ -8,15 +8,19 @@ Sign Up
 
 Sign In
 
-1 2 3 Find all of your 2012 Election News on Politix
+1 2 3
 
-China
+Earthquake
 
-The World Holds Its Breath for China
+Earthquake: 3.2 quake strikes near Newhall
+
+Syria
+
+\[blowback\] Erdogan's Global Caliphate and Assad's Syria at War
 
 Politix
 
-Should the president be chosen by popular vote or the electora...
+Are you happy that President Obama has been re-elected?
 
 *   Home
 *   Forums
@@ -275,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 117,204 • Total comments across all topics: 190,536,247
+Comments made yesterday: 115,687 • Total comments across all topics: 190,599,666
 
 Copyright ©2012 Topix LLC
 
