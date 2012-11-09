@@ -39,7 +39,7 @@ Food Gifts | Gourmet Sausage &. Cheese Food Gift Baskets | Hickory Farms Close x
       
       
       
-    *   800.753.8558b
+    *   800.753.8558
     *   Hickory Farms Canada
     *   Gift Certificates
     *   Privacy
@@ -47,3 +47,4 @@ Food Gifts | Gourmet Sausage &. Cheese Food Gift Baskets | Hickory Farms Close x
     *   Site Map
     *   Employment
     *   Terms of Use
+    *   Blog
