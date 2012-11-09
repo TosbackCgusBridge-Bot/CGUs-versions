@@ -620,10 +620,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos Excited about casting votes Election sparks engagement for voters
+Videos On Campus: Pac 5 Playoff Preview 4 teams prepare for playoffs
 
-*   Excited about casting votes Iran hostage crisis remains vivid ... On Campus: Showdown Set Chemistry professor uses pizzazz to ...
-*   Students learn what to throw ... Celebrating Adolfo Camarillo
+*   On Campus: Pac 5 Playoff ... Excited about casting votes Iran hostage crisis remains vivid ... On Campus: Showdown Set
+*   Chemistry professor uses pizzazz to ... Students learn what to throw ...
 
   
 
@@ -636,25 +636,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Educators relieved with passage of Proposition 30 Updated 11/7/2012 at 5:08 p.m. 84 comments
-*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 382 comments
-*   Brownley wins 26th Congressional District race over Strickland Updated 11/7/2012 at 12:52 p.m. 117 comments
-*   Brownley says her victory was built from grass-roots efforts Updated 11/7/2012 at 7:20 p.m. 31 comments
-*   Bennett says he has a strong mandate in wake of election Updated 11/7/2012 at 6:16 p.m. 17 comments
+*   Educators relieved with passage of Proposition 30 Updated 11/7/2012 at 5:08 p.m. 112 comments
+*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 386 comments
+*   Authorities warn of "knock knock" burglaries in east Ventura County Updated 11/8/2012 at 2:04 p.m.
+*   Obama's support dropped from '08 in east county cities Published 11/8/2012 at 4:49 p.m. 31 comments
+*   Oxnard council realignment creates opening Updated 11/7/2012 at 6:41 p.m. 21 comments
 
-Photo Galleries Election night 2012 Ventura County's Most Wanted November… Horses are integral part of Thacher…
+Photo Galleries Election night 2012 Ventura County's Most Wanted November… Kids enjoy thrill of racing
 
-*   Obama: 'We have picked ourselves up,' fought back Published 11/6/2012 at 10:08 a.m. 382 comments
-*   Brownley wins 26th Congressional District race over Strickland Published 11/6/2012 at 8:10 p.m. 117 comments
-*   Ventura County voters are nearly flawless in picking presidential winners Published 11/3/2012 at 6:49 p.m. 186 comments
-*   Morning chat Published 11/6/2012 at 12:00 a.m. 93 comments
-*   Educators relieved with passage of Proposition 30 Published 11/7/2012 at 3:39 p.m. 84 comments
+*   Obama: 'We have picked ourselves up,' fought back Published 11/6/2012 at 10:08 a.m. 386 comments
+*   Brownley wins 26th Congressional District race over Strickland Published 11/6/2012 at 8:10 p.m. 113 comments
+*   Educators relieved with passage of Proposition 30 Published 11/7/2012 at 3:39 p.m. 112 comments
+*   Morning chat Published 11/6/2012 at 12:00 a.m. 94 comments
+*   Morning chat Published 11/8/2012 at 12:00 a.m. 66 comments
 
+*   Authorities warn of "knock knock" burglaries in east Ventura County Published 11/8/2012 at 12:11 p.m. 0 comments
 *   Oxnard school principal arrested after alleged road rage incident Published 11/2/2012 at 5:47 p.m. 0 comments
 *   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 67 comments
 *   Stonehaus to add touch of Tuscany to Westlake Village Inn Published 10/30/2012 at 5:51 p.m. 0 comments
-*   Rio Lindo School principal's arrest shocks Oxnard parents Published 11/5/2012 at 4:21 p.m. 0 comments
-*   County pay error puts two managers in costly bind Published 10/30/2012 at 6:13 p.m. 29 comments
+*   Small manufacturers join trust for health insurance coverage Published 11/3/2012 at 11:10 a.m. 7 comments
 
 Weather
 
@@ -662,25 +662,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 63° Overcast Wind: Calm Today 63° 51° Fri 01:00 AM Mostly Cloudy Showers Temp: 51° Fri 01:00 PM Mostly Cloudy Showers Temp: 60° Sat 01:00 AM Mostly Cloudy Showers Temp: 51°
+Currently 57° Fair Wind: W 12mph Today 63° 46° Fri 05:00 PM Mostly Cloudy Showers Temp: 51° Sat 05:00 AM Mostly Cloudy Showers Temp: 46° Sat 05:00 PM Partly Cloudy Temp: 47°
 
 Feels Like: 51°
 
 Humidity: 86%
 
-Precip: 44%
+Precip: 31%
 
-Feels Like: 60°
+Feels Like: 46°
 
-Humidity: 75%
+Humidity: 89%
 
-Precip: 27%
+Precip: 26%
 
-Feels Like: 51°
+Feels Like: 47°
 
-Humidity: 80%
+Humidity: 82%
 
-Precip: 36%
+Precip: 9%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -716,8 +716,8 @@ Brian Dennert here
 
 Ingemusings
 
+*   Aftermath
 *   McClintock on the propositions
-*   LA Times: Romney electioneers while Obama worries about storm's impact
 
 More bloggers Wire
 
@@ -726,18 +726,10 @@ More bloggers Wire
 
 Calendar
 
-*   Thursday Nov 8
 *   Friday Nov 9
 *   Saturday Nov 10
+*   Sunday Nov 11
 *   More BROWSE Icon
-
-*   Economic Impact of the U.S. 2012 Election Outcome Dole Food Co., 1 Dole Drive, Westlake Village, CA 91362 7:30 a.m.
-*   Employment Law Update 2013 (Or…Should Auld Employment Laws be Forgot?) Airtel Plaza Hotel 7:30 a.m.
-*   Ventura Executive Suites November Mixer! Ventura Executive Suites 5 p.m.
-*   The Celebration of Justice Reception- Social Justice Fund of Ventura County Unitarian Universalist Church of Ventura 5:30 p.m.
-*   CI Art Program to host "Michael Todd - Sculptural Works" CSUCI California State University 6 p.m.
-
-More Events »
 
 *   Bags, Bling &. Bubbly Las Posas Country Club 11 a.m.
 *   "The Good Life"! The Bonaventure 3 p.m.
@@ -755,13 +747,21 @@ More Events »
 
 More Events »
 
+*   Veterans Day Ceremony El Presidio de Santa Bárbara State Historic Park, 123 East Canon Perdido Street, Santa Barbara 10:30 a.m.
+*   Veterans Day Ceremony El Presidio de Santa Bárbara State Historic Park, 123 East Canon Perdido Street, Santa Barbara 10:30 a.m.
+*   "Veteran's Day Celebration at The Bonaventure" The Bonaventure 11:30 a.m.
+*   Felted Fashion (Art Workshop) California African American Museum noon
+*   "Talbot, Crowe &. Ford" Camarillo Art Center 1 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   95 percent accurate
+*   Live Friday night
     
-    Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
+    VCS Preps game of the week: Harvard-Westlake vs. Camarillo
     
     #Your Community: How You See It
     
@@ -771,13 +771,13 @@ More Events » Features
     
     Video profiles of high school football programs.
     
-*   Football Contest
+*   95 percent accurate
+    
+    Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
+    
+    Football Contest
     
     Follow Loren Ledin's picks and choose your own leaderboard.
-    
-    Storm Shield
-    
-    A sophisticated weather radio on your iPhone and Android.
     
     Pigskin Picks
     
