@@ -121,7 +121,7 @@ International Sites: IMDb Germany | IMDb Italy | IMDb Spain | IMDb France | IMDb
   
 
 Copyright © 1990-2012 IMDb.com, Inc.  
-Terms and Privacy Policy under which this service is provided to you.  
+Terms of Use | Privacy Policy | Interest-Based Ads  
 An company.
 
 Amazon Affiliates Amazon Instant Video  
