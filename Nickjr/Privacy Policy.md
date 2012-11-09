@@ -181,13 +181,13 @@ What's New on Nick Jr.?
 
 Find out more about NickMom and other new Nick Jr. features right here
 
+Join the Umizoomi Fan Club
+
+Calling all UmiFriends! Sign up today &. get Umizoomi exclusives!
+
 Sing &. Dance Along With Dora!
 
 Watch Dora's best musical moments with your kids online, anytime!
-
-UmiCar's Shape Race Game
-
-Collect super power shapes, avoid obstacles &. speed past Dump Truck to win!
 
 Get Your Guppies Fan Club Kit!
 
