@@ -17,7 +17,7 @@ Give a Gift
 
 Trending
 
-*   Love Lives
+*   Charitable Celebs
 *   |
 *   Red Carpet Style
 *   |
@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Affleck's Lil' Angel »
+Hot Pics! Cameron Cracks Up »
 
-Top Stories1.  Victoria's Secret Show: Rihanna Grabs Model's Underwear Onstage! »
-2.  Victoria's Secret Show: Miranda Kerr Flaunts Long Legs in Green Leotard »
+Top Stories1.  FIRST PICTURES: Meet Reese Witherspoon's Baby Son Tennessee! »
+2.  Victoria's Secret Show: Rihanna Grabs Model's Underwear Onstage! »
 3.  Jennifer Hudson: I'm Done Losing Weight! »
-4.  Robert Pattinson Dodges Savannah Guthrie's Kristen Stewart Question  »
-5.  PICTURES: Victoria Beckham Wears Flats, Nearly Shorter Than Son, 13 »
+4.  Kim Kardashian Flaunts Bod in Tiny String Bikini in Miami »
+5.  Lily Aldridge Pigs Out After Victoria's Secret Fashion Show »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Why She Can't Find Love
 
 Inside Us Weekly
 
-*   Style Alessandra Ambrosio Models $2.5 Million Bra a
-*   Beauty Meet DJ Duo NERVO, CoverGirl's Edgy New Spoke
-*   Moms FIRST PICTURES: Meet Reese Witherspoon's Baby
-*   Body Lily Aldridge Pigs Out After Victoria's Secre  
-*   Entertainment The X Factor: Diamond White Returns as Surpri
+*   Style Write a Fashion Police Caption for Demi Lovat
+*   Beauty Christa B. Allen: What's in My Bag?
+*   Moms Bryan Adams' Girlfriend Alicia Grimaldi Pregn
+*   Body Whoa! David Arquette, 41, Shows Off Muscular  
+*   Entertainment Brad Pitt Battles Zombies in World War Z Movi
 
 *   US WEEKLY
 *   Celebrity News
