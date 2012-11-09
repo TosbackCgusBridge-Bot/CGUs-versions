@@ -111,7 +111,7 @@ V.    Information Provided To EA By Third Parties.
   
 EA also obtains personal and non-personal information from third parties as discussed below.  EA only uses this data for purposes consistent with this policy.  
   
-**1\. PlayStation®3 System**  
+**1\. PlayStation®3 system**  
   
 If you sign up to play EA games through a PlayStation®3 system, your Sony Entertainment Network account information will be provided to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's titles online. By signing up to play EA's titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your name, email address, online ID, country, language and date of birth but does not include credit card number or other financial account information.  
   
