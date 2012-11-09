@@ -207,7 +207,7 @@ Don't Miss These: Good Housekeeping Smart Touts
 *   Tips for Stand-Out Eyes
 *   Dreaming of a Sumptuous Bedroom?
 *   Cute, Affordable Winter Accessories
-*   Living Large: Grand Living Rooms
+*   The 10 Game Changers in Design 2012
 *   7 Strategies for a Divorce-Proof Marriage
 *   Shop the Trend: Trench Coats
 *   Is Your Makeup Aging You?
