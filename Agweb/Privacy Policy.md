@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Nov 8, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Nov 9, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -233,8 +233,11 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
+*   Seed Prices Going Up, But so Will Revenues
+*   California Dairies, Inc. to Acquire Security Milk Producers Association Assets and Members
+*   Fed Economist Predicts Healthy Agriculture Profits in 2013
+*   Know an Outstanding Young Farmer?
 *   Power Hour: Pre-Report Analysis of Nov. 9 Reports
-*   House Ag Leader Peterson Wants Farm-Bill Vote Next Week
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
