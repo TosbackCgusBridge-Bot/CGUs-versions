@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Prince Charles
+*   Deficit
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -22,11 +22,11 @@ November 9, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Romney 'Shellshocked' By Loss28k
+    *   Romney 'Shellshocked' By Loss44k
     *   Romney Campaign: We Lost Florida11k
-    *   Romney Transition Website Draft Uncovered8k
-    *   WATCH: Obama Tears Up While Addressing Campaign Staff8k
-    *   Karl Rove Spins GOP Election Losses14k
+    *   WATCH: Obama Tears Up While Addressing Campaign Staff16k
+    *   Rice Hits GOP For Sending 'Mixed Messages'5k
+    *   Chris Christie Called Obama, Emailed Romney4k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ November 9, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   CEO Fires 22 Workers After Obama Wins Reelection8k
-    *   LOOK: Upside Down Flag At McDonald's Raises Questions3k
-    *   Peyton Manning's Amazing Marijuana Timing227
-    *   Donald Trump's Tweets Deleted Following Post-Election Tirade5k
-    *   CEO Who Promised Huge Layoffs After Obama Reelection Has Change Of Heart593
+    *   Matt Taibbi: Romney Could Have Easily Won6k
+    *   CEO Fires 22 Workers After Obama Wins Reelection11k
+    *   Romney Campaign Cancels Aides' Credit Cards ON Election Night1k
+    *   Peyton Manning's Amazing Marijuana Timing362
+    *   CEO Enters 'Survival Mode' After Obama Reelection, Announces Layoffs4k
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ November 9, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   Victoria Jackson LOSES IT Over Obama's Win10k
-    *   PHOTOS: Rihanna Stuns At Victoria's Secret Fashion Show52
-    *   'Spy Kids' Star Like You've Never Seen Her145
-    *   Stacey Dash's 1,344 Words On The Election1k
-    *   Ted Nugent Goes On Angry Twitter Rant After Obama Reelection 4k
+    *   Victoria Jackson LOSES IT Over Obama's Win11k
+    *   Ted Nugent Goes On Angry Twitter Rant After Obama Reelection 10k
+    *   PHOTOS: Rihanna Stuns At Victoria's Secret Fashion Show62
+    *   'Spy Kids' Star Like You've Never Seen Her157
+    *   Kristen Stewart On 'Fifty Shades Of Grey': Its Like 'Reading Porn'59
     
     Go to Entertainment **More in Entertainment**
     
@@ -87,10 +87,10 @@ November 9, 2012 Edition: **U.S.**
 *   Tech
     
     *   Teen Son Of Billionaire Jokes About Killing Obama, Posts Convo On Instagram 5k
-    *   Bank Doesn't Want To Own Up To Facebook's Botched IPO270
-    *   The Most Popular Facebook Photo Ever68
-    *   The 7 Best Tweets From Election Night 2012 41
-    *   7 Numbers That Apple Should Be Worried About49
+    *   7 Numbers That Apple Should Be Worried About84
+    *   World's Favorite Smartphone208
+    *   The 7 Best Tweets From Election Night 2012 42
+    *   Is Microsoft Cool Now?392
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ November 9, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   LISTEN: 'Demoralized' Ann Coulter Laments Romney Loss8k
+    *   Megyn Kelly Tells Karl Rove Obama Won2k
     *   WATCH: Rachel Maddow Relishes Republican Losses4k
-    *   Rush Limbaugh Reacts To Obama's Win16k
-    *   WATCH: Brian Williams Condemns Donald Trump2k
-    *   Megyn Kelly Tells Karl Rove Obama Won1k
+    *   LISTEN: 'Demoralized' Ann Coulter Laments Romney Loss8k
+    *   WATCH: Local Traffic Reporters Directs Fleeing Romney Supporters To Canada1k
+    *   That Was Fast: Hannity Flips On Immigration Reform2k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ November 9, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   Ahmadinejad: U.S. Election Is 'Battleground For Capitalists'1k
-    *   Pentagon: Iran Fired On U.S. Drone7k
-    *   Ancient Well Discovered In Israel133
-    *   Divers Find Sunken Russian Ship Carrying Tons Of Gold Ore192
-    *   Archeologists Explore War-Torn Site Of Ancient City166
+    *   Pentagon: Iran Fired On U.S. Drone8k
+    *   Iran Official: U.S. Drone Violated Airspace1k
+    *   Archeologists Explore War-Torn Site Of Ancient City254
+    *   Ancient Well Discovered In Israel191
+    *   Look: The World Explains Why Romney Lost1k
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ November 9, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   Jane Lost More Than 100 Pounds: 'Now I Know That I'm Truly Worth Fighting For'56
-    *   25 Of The Healthiest Herbs And Spices In The World52
-    *   The Short Sleeper, The Napper, The Snorer: Surprising Sleep Habits Of Past Presidents114
-    *   WATCH: My Mother Misdiagnosed Me With Asperger’s31
-    *   10 Ways To Lower Your Blood Pressure Naturally53
+    *   Jane Lost More Than 100 Pounds: 'Now I Know That I'm Truly Worth Fighting For'57
+    *   25 Of The Healthiest Herbs And Spices In The World60
+    *   WATCH: My Mother Misdiagnosed Me With Asperger’s36
+    *   Brooke Burke-Charvet Diagnosed With Thyroid Cancer: What Is It?26
+    *   The Short Sleeper, The Napper, The Snorer: Surprising Sleep Habits Of Past Presidents115
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -173,11 +173,11 @@ November 9, 2012 Edition: **U.S.**
     *   OWN
 *   Style
     
-    *   Rihanna, Justin Bieber &. The Angels At Victoria's Secret Fashion Show61
-    *   Mary Hart Palled Around With Warhol, Still Loves Sensible Pumps39
-    *   PHOTOS: The Most Controversial Look At The Victoria's Secret Fashion Show746
-    *   Move Over, Rachel: There's A New Signature Haircut In Town134
-    *   PHOTOS: Michelle Obama Celebrates Barack's Second Election Victory In Style424
+    *   Rihanna, Justin Bieber &. The Angels At Victoria's Secret Fashion Show79
+    *   PHOTOS: Sasha Obama Wore Malia's Hand-Me-Down Skirt On Election Night172
+    *   Mary Hart Palled Around With Warhol, Still Loves Sensible Pumps40
+    *   Move Over, Rachel: There's A New Signature Haircut In Town151
+    *   PHOTOS: The Most Controversial Look At The Victoria's Secret Fashion Show808
     
     Go to Style **More in Style**
     
@@ -196,10 +196,10 @@ November 9, 2012 Edition: **U.S.**
 *   Comedy
     
     *   'There Was An Avalanche On Bullsh\*t Mountain' 2k
-    *   Uh Oh, Drunk Nate Silver Has Gone Mad With Power64
-    *   21 People Who Probably Didn't Get The Job19
-    *   WATCH: Was Diane Sawyer Drunk?75
-    *   WATCH: Colbert Copes With Obama's Reelection318
+    *   Uh Oh, Drunk Nate Silver Has Gone Mad With Power125
+    *   21 People Who Probably Didn't Get The Job25
+    *   WATCH: Was Diane Sawyer Drunk?92
+    *   WATCH: Colbert Copes With Obama's Reelection346
     
     Go to Comedy **More in Comedy**
     
@@ -216,11 +216,11 @@ November 9, 2012 Edition: **U.S.**
     *   College
     *   Arts
 *   LIVE
-    *   Next Obama and Wall Street
-    *   Next Immigration Deal?
-    *   Coming Up Busting The Filibuster
-    *   Coming Up Foreign Policy Storm
-    *   Coming Up Obama: The Next Reagan?Go to HuffPost Live
+    *   Now Replacing Hillary
+    *   Next I'll Give You A Tip...
+    *   Coming Up HuffPost Top Stories
+    *   Coming Up Piven Family Theatre
+    *   Coming Up Second Term First LadyGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
