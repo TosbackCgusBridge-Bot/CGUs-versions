@@ -635,47 +635,49 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         
         **See All**
 *   Home
-    *   Furniture
+    *   Kitchen &. Dining
         
-        Living Room Furniture
+        Bakeware &. Cookware
         
-        Dining Room Furniture
+        Dining &. Entertaining
         
-        Mattresses - Mattress Sets
+        Small Appliances
         
-        Bedroom Furniture
+        Food Preparation &. Storage
         
-        Kids Furniture
+        Bed &. Bath
         
-        Office Furniture
+        Towels
         
-        Home Furnishings
+        Pillows
         
-        Recreation Rooms
+        Comforters
         
-        Mattresses - Mattress Sets
+        Blankets
         
-        California King Mattresses
+        Sheets
         
-        King Mattresses
+        Laundry
         
-        Queen Mattresses
+        Mattress Pads &. Toppers
         
-        Full Mattresses
+        Vanities &. Bathroom Furniture
         
-        Twin Mattresses
+        Bathroom Hardware
         
-        Memory Foam &. Latex
+        Appliances
         
-        Hotel Mattresses
+        Refrigerators &. Freezers
         
-        Adjustable &. Other Mattresses
+        Small Appliances
         
-        Bed Frames &. Bedding
+        Vacuums
         
-        Bedroom Furniture
+        Air Conditioners
         
-        Kids Furniture
+        Water &. Air Treatment
+        
+        Laundry
         
         Home Improvement
         
@@ -707,21 +709,21 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         
         Mailboxes
         
-        Appliances
+        Home Furnishings
         
-        Refrigerators &. Freezers
+        Rugs
         
-        Small Appliances
+        Decorative Accents
         
-        Drink &. Beverage Needs
+        Framed Art &. Paintings
         
-        Vacuums
+        Window Treatments
         
-        Air Conditioners
+        Botanicals
         
-        Laundry
+        Mirrors
         
-        Housewares **See All**
+        **See All**
 *   Jewelry
     *   Diamonds
         
