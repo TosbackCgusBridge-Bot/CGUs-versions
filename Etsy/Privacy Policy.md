@@ -2,7 +2,6 @@ Take full advantage of our site features by enabling JavaScript. Learn more.
 
 Etsy
 
-*   Buy
 *   Sell
 *   Registry
 *   Community
