@@ -143,7 +143,7 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Brahmi Gotu Kola Resources
+*   Rls Natural Remedies Resources
 
   
 Stay in Touch With SparkPeople **What to Eat This Fall**
@@ -152,19 +152,17 @@ Eating seasonally can be a boon to your health and your wallet. Find out which p
 
 Read More
 
-*   How do you fight boredom on the treadmill?
-*   Any moderate eaters, exercisers, out there?
-*   Vegetables- yuck!
-*   Whats the 1st thing you noticed w/your weightloss?
-*   Healthy snack ideas for under 100 calories?
+*   Pantry staples
+*   Do you have a goal after weight loss?
+*   Keeping fruits and veggies fresh
+*   Describe the last time you felt proud of yourself.
+*   Strateies needed from Thanksgiving to New Year's
 
 View Demo **Bridges on Ball**  
-An effective exercise for targeting your glutes and hamstrings. **Chef Meg's Tapenade, Tomato, and Feta Stuffed Chicken**  
+An effective exercise for targeting your glutes and hamstrings. **Best Chicken Soup**  
 Submitted By: **CHEF\_MEG**
 
-Make this chicken the next you have company for dinner, and they'll swear you hired caterers. It tastes like it came from a restaurant, but for much less money and effort.  
-  
-Full Recipe
+The perfect soup to warm your belly on a cold night or soothe you when you're sick. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
