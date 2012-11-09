@@ -239,9 +239,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   3 Cute &. Simple Party Decor DIYs Using Washi Tape
-    *   Fave Finds: Cassidy’s Sweet Thrifted Frock
-    *   Travel Bug: Rock Right to Nashville with Heidi of Under the Guise
+    latest blog posts*   ModCloth + Mobile Devices =
+    *   Pretty in Plaid for Late Autumn
+    *   Bag of Tricks: How to Make a DIY Bike Pouch
     
     *   modcloth blog
     *   In Other Words
