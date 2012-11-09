@@ -25,15 +25,15 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   Campaign 2012
 *   Libya: The Truth?
+*   Israel
 *   TheBlaze TV
 
 Take Action
 
-Developing: Pentagon Confirms Iran Fired on U.S. Drone — But Did Not Release Info Before Election
+CIA Dir. Resigns Over Affair…Cites Teddy Roosevelt in Letter…Married 37 Yrs…Wife Also Works in Admin….Obama: ‘Thoughts and Prayers’ With Them
 
-Live BlazeCast at 1:30pm ET: Is the GOP really imploding?
+How Will Obama’s Cabinet Shake Up? See Our Predictions here
 
 About TheBlaze
 
@@ -260,8 +260,8 @@ What is this? Sections
 
 Hot Topics
 
-*   Campaign 2012
 *   Libya: The Truth?
+*   Israel
 *   TheBlaze TV
 
 More from TheBlaze
