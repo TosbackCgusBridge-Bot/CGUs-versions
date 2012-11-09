@@ -148,6 +148,17 @@ The website is not directed to individuals under the age of thirteen (13), and w
 See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 
 *   Rihanna  
+    Get It Over With Lyrics
+*   Phillip Phillips  
+    Man On The Moon Lyrics
+*   Pitbull  
+    Party Ain't Over Lyrics
+*   Justin Bieber  
+    As Long As You Love Me Lyrics
+*   David Guetta  
+    Titanium Lyrics
+
+*   Rihanna  
     Nobody Lyrics
 *   Phillip Phillips  
     Gone, Gone, Gone Lyrics
@@ -171,8 +182,8 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 
 *   Rihanna  
     Stay Lyrics
-*   Ludacris  
-    Rest Of My Life Lyrics
+*   Ashlee Simpson  
+    Bat For A Heart Lyrics
 *   Bruno Mars  
     Locked Out Of Heaven Lyrics
 *   Gotye  
@@ -180,20 +191,11 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 
 *   Phillip Phillips  
     Get Up Get Down Lyrics
-*   Ashlee Simpson  
-    Bat For A Heart Lyrics
+*   Ludacris  
+    Rest Of My Life Lyrics
 *   Ed Sheeran  
     A Team Lyrics
 *   Carly Rae Jepsen  
     Call Me Maybe Lyrics
-
-*   Phillip Phillips  
-    Man On The Moon Lyrics
-*   Pitbull  
-    Party Ain't Over Lyrics
-*   Justin Bieber  
-    As Long As You Love Me Lyrics
-*   David Guetta  
-    Titanium Lyrics
 
 Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
