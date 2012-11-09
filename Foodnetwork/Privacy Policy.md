@@ -111,7 +111,7 @@ Skip to main content Food Network UK uses cookies to enhance your experience. Fi
 
 *   Sign In
 
-You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › The Best Thing ... UP NEXT › Andy Bates Amer...
+You are here YOU ARE HERE: › home › RECIPES › Privacy And Cookies Policy Search form x ON NOW › Barefoot Contes... UP NEXT › Barefoot Contes...
 
 *   Channel  
     Guide
@@ -276,16 +276,16 @@ Delicious new recipe ideas delivered weekly to your inbox.
 
 Your email address:
 
+*   It’s British Pudding Day! The perfect excuse for a slice of one of these: t.co/Q7COP3kl #britishpuddingday #recipe
+*   @smavalentine chocolate cake? That wouldn't last two minutes under our tree!
+*   @gingeybites a slow cooker's a good one. Anything else?
+*   We’re talking Christmas gifts today. What’s the one foodie item you want to find under the tree this year? #Christmas
+*   We're missing you too! RT @lou258: Missing my fix of @FoodNetwork\_UK now I've finished maternity leave :(
 *   Recipe of the Day: Gorgonzola Tagliatelle with Walnuts, Leeks and Parma Ham t.co/c4KHNclN #recipe
 *   Christmas elf up a ladder on set with @thomasinamiers and @CrowsNestFilms t.co/qd7gSXqK
 *   Can anyone guess what @thomasinamiers is about to make? We'll give you a clue - that's chocolate, cream and tequila! t.co/7NU8aKaw
 *   Liver, pomegranate and balsamic toasts with a touch of chilli. @foodnetwork\_uk t.co/UukzzjGP
 *   Glad to hear it! We can't wait either! @adsmills @thomasinamiers
-*   You're making us hungry! @Capsicana @thomasinamiers
-*   @thomasinamiers @FoodNetwork\_UK let's try getting thomasina in shot... t.co/47BAXBHP
-*   @FoodNetwork\_UK Feel all Christmassy and happy! Wow how amazing the food looks and smells! #hungry t.co/JdS75mjf
-*   @thomasinamiers has arrived into the Mexican Christmas kitchen. Time to cook up some wickedly-spicy dishes! t.co/1MZnIY6w
-*   From top pastry tips to British classics, @eatmypies cookbook has the lot. Have you ordered your copy? t.co/o3qlOki1
 
 Follow Us
 
