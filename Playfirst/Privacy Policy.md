@@ -50,7 +50,7 @@ Find a Game
 *   New Releases
 *   Free Online Games
 
-**Play for Free!** Trial version (77.3 MB) Top Mac Downloads 1 Diner Dash: Flo Through Time 2 SpongeBob SquarePants Diner Dash 3 Parking Dash 4 Garden Dash 5 Avenue Flo 6 Diaper Dash 7 Avenue Flo: Special Delivery 8 Fitness Dash 9 Doggie Dash 10 Dairy Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
+**Play for Free!** Trial version (23.6 MB) Top Mac Downloads 1 Diner Dash: Flo Through Time 2 SpongeBob SquarePants Diner Dash 3 Parking Dash 4 Garden Dash 5 Avenue Flo 6 Diaper Dash 7 Avenue Flo: Special Delivery 8 Fitness Dash 9 Doggie Dash 10 Dairy Dash » Top 100 PlayFirst, Inc. Online Privacy Policy
 
 Last updated November 9, 2011
 
