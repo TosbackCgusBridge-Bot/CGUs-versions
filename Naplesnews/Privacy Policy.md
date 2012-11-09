@@ -145,7 +145,7 @@ Naples Daily News
 
 *   PrepZone: Football
     
-    Live chat begins at 7 p.m. | Catfish Bowl | Blog | Twitter | Send Us Your Fan Photos | More PrepZone »
+    Live chat begins at 7 p.m. | Preview | Catfish Bowl | Blog | Twitter | Send Us Your Fan Photos | More »
     
 
 Privacy Policy
@@ -440,25 +440,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 172 comments
-*   4 more years: Obama wins re-election Updated 11/7/2012 at 12:33 a.m. 621 comments
-*   Election 2012: Florida counting last presidential votes. Obama still narrowly leads Updated 11/8/2012 at 3:53 p.m. 65 comments
-*   Traffic stop leads to winding story of unpaid bar tab, church sex and battery Published 11/8/2012 at 6:32 p.m. 17 comments
-*   Commissioner Bigelow linked to Fort Myers drug arrest Published 11/7/2012 at 11:29 p.m.
+*   Court: Valet not liable for letting drunken driver leave Updated 11/9/2012 at 9:20 a.m. 42 comments
+*   Traffic stop leads to winding story of unpaid bar tab, church sex and battery Published 11/8/2012 at 6:32 p.m. 26 comments
+*   4 more years: Obama wins re-election Updated 11/7/2012 at 12:33 a.m. 656 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 74 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 193 comments
 
-Photo Galleries 2012 Victoria's Secret fashion show Catch of the Day: Nov. 8, 2012 Crane collapes onto US 41 in Naples
+Photo Galleries 2012 Victoria's Secret fashion show Catch of the Day: Nov. 8, 2012 Baker Field opens in Naples
 
-*   4 more years: Obama wins re-election Published 11/6/2012 at 8:00 a.m. 621 comments
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 172 comments
-*   Obama? Romney? Nation decides after long campaign Published 11/5/2012 at 11:11 p.m. 142 comments
+*   4 more years: Obama wins re-election Published 11/6/2012 at 8:00 a.m. 656 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 193 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Published 11/9/2012 at 6:10 a.m. 74 comments
+*   Election 2012: Florida counting last presidential votes. Obama still narrowly leads Published 11/8/2012 at 6:52 a.m. 69 comments
 *   Stocks plunge after election. Europe woes deepen Published 11/7/2012 at 12:16 p.m. 67 comments
-*   Election 2012: Florida counting last presidential votes. Obama still narrowly leads Published 11/8/2012 at 6:52 a.m. 65 comments
 
+*   Big land deals again big deal in Southwest Florida, housing expert says Published 11/9/2012 at 5:30 a.m. 11 comments
 *   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 142 comments
 *   In the Know: New dining options at former Rossopomodoro and L’Etoile restaurants Published 10/31/2012 at 5:17 a.m. 16 comments
-*   Naples' Tom Golisano is $20 million donor to Lee Memorial's new children's hospital Published 10/30/2012 at 11:41 a.m. 44 comments
 *   Plans fizzle for SW Fla energy crop jatropha, company executive indicted Published 11/5/2012 at 8:00 a.m. 5 comments
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 172 comments
+*   Naples' Tom Golisano is $20 million donor to Lee Memorial's new children's hospital Published 10/30/2012 at 11:41 a.m. 44 comments
 
 Weather
 
@@ -466,23 +466,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 54° Fair Wind: NE 9mph Today 74° 60° Fri 08:00 PM Clear Temp: 64° Sat 08:00 AM Sunny Temp: 72° Sat 08:00 PM Mostly Clear Temp: 66°
+Currently 76° Fair Wind: N 12mph Today 74° 60° Sat 05:00 AM Clear Temp: 61° Sat 05:00 PM Mostly Sunny Temp: 71° Sun 05:00 AM Mostly Clear Temp: 63°
 
-Feels Like: 64°
+Feels Like: 61°
 
-Humidity: 63%
+Humidity: 72%
+
+Precip: 3%
+
+Feels Like: 71°
+
+Humidity: 57%
 
 Precip: 5%
 
-Feels Like: 72°
+Feels Like: 63°
 
-Humidity: 53%
-
-Precip: 5%
-
-Feels Like: 66°
-
-Humidity: 70%
+Humidity: 84%
 
 Precip: 1%
 
