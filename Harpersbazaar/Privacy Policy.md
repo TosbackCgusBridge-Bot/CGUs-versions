@@ -37,15 +37,15 @@ Beauty &. Hair  
 *   Beauty at Every Age
 *   Health &. Wellness
 
-Victoria's Secret Fashion Show: Behind the Scenes
-
-A behind-the-scenes peak at the Angels getting ready for sexiest fashion sh...
-
 12 Skin Masks That Work Wonders During Winter
 
 Protect your visage this winter with these 12 must-have masks.
 
-CELEBRITY STYLE &. PARTIES   Victoria's Secret Fashion Show
+Victoria's Secret Fashion Show: Behind the Scenes
+
+A behind-the-scenes peak at the Angels getting ready for sexiest fashion sh...
+
+CELEBRITY STYLE &. PARTIES   Victoria's Secret Fashion Show 2012
 
 See snaps from the annual extravagant showcase.
 
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR Hedi's Girls: A Behind the Scenes Look in Portraits at Saint Laurent Spring 2013 Fashion Politics Nicolas Ghesquière for Balenciaga in BAZAAR Victoria's Secret Fashion Show: Behind the Scenes 12 Skin Masks That Work Wonders During Winter Define Your Brows In 5 Easy Steps Victoria's Secret Fashion Show Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Fabulous at Every Age: Resort Chic Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR Hedi's Girls: A Behind the Scenes Look in Portraits at Saint Laurent Spring 2013 Fashion Politics Nicolas Ghesquière for Balenciaga in BAZAAR 12 Skin Masks That Work Wonders During Winter Victoria's Secret Fashion Show: Behind the Scenes Define Your Brows In 5 Easy Steps Victoria's Secret Fashion Show 2012 Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Fabulous at Every Age: Resort Chic Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
