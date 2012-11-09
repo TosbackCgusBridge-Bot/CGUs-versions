@@ -115,24 +115,24 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Arise Libertarians
-*   DeMint to Conservatives: ‘We Must Redouble Our Efforts’
-*   CBC Chairman to GOP: Fear Being ‘Cast Into the Reptile Cemetery’
+*   Now Up on the PJ Media Homepage
+*   Race and Islamic Radicalization in the USA
+*   Was 2012 the Last Stand of the White Voter?
 
 More  
 
+*   Marxist Counterculturalists Already Regretting Obama Vote
 *   Mommy, Why Would You Write a Book with Such a Mean Title?
-*   Politicizing Ourselves To Death: Is the Culture War Over?
-*   When Your Dog Dies, You Can Bring Him Back to Life
+*   Politicizing Ourselves to Death: Is the Culture War Over?
 
 More
 
+*   It's the Culture, Stupid: Facing the Long Road Ahead
 *   The Market for Defiance
-*   Quote of the Day
-*   5 Reasons Why Liberal Jews Will Never Support Israel
+*   The ‘Empathy Slander’: A Lie That Would End Civilization, A Truth That Would Save It
 
-More   AT AMAZON, pre-Black Friday deals in Toys &. Games. WELL, THEY SHOULD BE: Poll: Vast Majority of Voters Concerned About Federal Government Corruption. HOPEY-CHANGEY: 4 More Drones! Robot Attacks Are on Deck for Obama’s Next Term. “Welcome to Obama’s second-term agenda for dealing with the world. As the Ramones sang: second verse, same as the first.” More Advertisement
+More   I’M NOT SURE, BUT THIS DOESN’T SOUND LIKE A POSITIVE ECONOMIC INDICATOR: McDonald’s Suffers First Monthly Sales Drop In 9 Years. The desire to keep on spending in the face of economic crisis is universal. In Greece, parliament voted Wednesday to implement $17 billion in spending cuts, and the reaction was swift and violent. Public-service employees and others affected by the proposal erupted in riots on the streets of Athens. ... LISA DE PASQUALE: Occupy The Media: If You Can’t Beat Them, Join Them. More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
-Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb1
+Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb2
