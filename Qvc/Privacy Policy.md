@@ -202,6 +202,7 @@ Kitchen
 *   Kitchen Electrics
 *   Kitchen Tools
 *   Knives
+*   Major Appliances
 *   Storage &. Organization
 *   Tabletop
 
@@ -248,7 +249,7 @@ Home Decor
 *   Decorative Accents
 *   Flowers &. Houseplants
 *   Furniture
-*   Holiday Décor
+*   Holiday &. Party
 *   Indoor Lighting
 *   Mattresses
 *   Outdoor Living
@@ -262,6 +263,7 @@ Home Improvement
 *   Heating &. Cooling
 *   Home Projects &. Tools
 *   Laundry &. Storage
+*   Major Appliances
 
 Shop by Brand
 
@@ -348,15 +350,17 @@ Shop by Price
 
 Departments
 
-*   Christmas
-*   Costumes
-*   Easter
-*   Fresh Balsam
-*   Gift Wrap
-*   Halloween
-*   Harvest
-*   Judaica
-*   St. Patrick's Day
+*   Candles
+*   Christmas Collectibles
+*   Christmas Trees
+*   Home Textiles
+*   Lights
+*   Nativity Scenes
+*   Ornaments, Etc.
+*   Outdoor Decorations
+*   Table Accents
+*   Wreaths &. Garlands
+*   More
 
 Shop by Brand
 
