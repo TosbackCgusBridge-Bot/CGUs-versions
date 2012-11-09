@@ -101,7 +101,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     Sarah Habel On _Underemployed_
 *   fashion
     
-    Karlie Kloss Dishes On The VS Show!
+    Holiday Outfits Under $50
 *   love
     
     Flirty Text Message Ideas!
@@ -120,10 +120,10 @@ Type your anonymous question below and get personalized answers
 
 SEARCH GET ADVICE! Quizzes
 
+*   Should You Ask Your Crush To Be Your NYE Date?
 *   What's the Best Halloween Costume for You?
 *   What Movie Couple Are You and Your Boyfriend?
 *   What's Your One Direction Theme Song?
-*   Who's Your Celeb Shopping Buddy?
 
 More Quizzes
 
