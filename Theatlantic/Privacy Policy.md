@@ -1,71 +1,71 @@
 Skip Navigation
 
-*   Hacking the President’s DNA
-*   Did the Rape Remarks Doom the GOP?
-*   Why Do So Many More Women Live in Poverty?
-*   8 Urban Policy Ideas for Obama's 2nd Term
+*   The Democratic Data Advantage
+*   The Past, Present, and Future of Note-Taking
+*   It's Not Too Early to Talk About Freezing Your Eggs
+*   Where America's Racist Tweets Come From
 
 *   Politics
     *   Top Stories
     *   Why the GOP Will Struggle to Close the Big-Data Gap
     *   The Unsatisfying Election Aftermath
     *   Election 2012: Results and Analysis
-    *   Jonah Goldberg's Chance to Prove Critics of Conservatism Wrong
-    *   The GOP Must Choose: Rush Limbaugh or Minority Voters
-    *   Please Proceed, Senator
+    *   How Business Expertise Translates Into Politics
+    *   'It Was Like A Sucker Punch'
+    *   2 Graphs That Should Accompany Every Discussion of the GOP's Demographics Problem
 *   Business
     *   Top Stories
-    *   The GOP's 'White Establishment' Problem
-    *   Obama Won the Election Thanks to the Very Thing We Thought Would Sink Him: The Economy
-    *   This Is the Worst Election for Wall Street in Decades
+    *   Will Obama Let Washington and Colorado Keep Their Legal Pot?
     *   Don't Believe the Grand Bargain Hype
-    *   The Smashing Global Consequences of the iPhone 5
-    *   What's Going to Kill the TV Business?
+    *   A New Era for Books
+    *   What the Fiscal Cliff Means for Jobs, in 1 Chart
+    *   The Next Trillion-Dollar Stimulus? It's Immigration Reform
+    *   It's Not a Fiscal Cliff, It's a Fiscal Fast
 *   Tech
     *   Top Stories
+    *   Write-In Campaign for Darwin Garners the Dead Scientist 4,000 Votes
+    *   Duly Noted: The Future of Note-Taking
     *   Did Facebook Give Democrats the Upper Hand?
-    *   What It's Like to Vote for President ... From Space
-    *   Data Doesn't Belong to the Democrats
+    *   The Wright Brothers' Famous 1903 Flying Machine Patent Is Missing
+    *   Where America's Racist Tweets Come From
     *   Apple Just Got Granted a Patent for Rounded Corners on Electronic Devices
-    *   The Greatest Bond Villain of All: Technology
-    *   How the Office Chair Came to Be
 *   National
     *   Top Stories
-    *   How Obama Should 'Preserve, Protect, and Defend the Constitution' in His Second Term
-    *   Should Climate Science Be Political?
-    *   A Shore Town, Reduced to Rubble
+    *   A Perfect New Mission for Eric Holder? Voting Rights
+    *   NYC Restaurants Beat Sandy
+    *   Defending the Constitution, Term 2
     *   Sordid Casino Battle Ends, Inevitably, in Victory of Casinos
     *   On Ballot Issues, Double-Timing the March of Progress
-    *   Sick of the Presidential Race? Here Are 2 Education Ballot Measures to Watch
+    *   Is It Time for Climate Scientists to Get Political?
 *   Global
     *   Top Stories
-    *   China's Power Transition: What to Look For
-    *   Inside China's 'Gang of Seven'
-    *   How China Picks Its Leaders: A Chart
-    *   The Death of Sattar Beheshti, Dissident Blogger, in Iranian Police Custody
-    *   How to Stop Reactionaries From Derailing Reform in China
+    *   What's the Conservative Equivalent of 'Moving to Canada'?
     *   America Abroad in Obama's Second Term: Who Will Lead U.S. Diplomacy?
+    *   How to Stop Reactionaries From Derailing Reform in China
+    *   How the United States Can Maintain Its Global Edge
+    *   No, America, Outside Election Monitors Aren't Beneath You
+    *   The Death of Sattar Beheshti, Dissident Blogger, in Iranian Police Custody
 *   Health
     *   Top Stories
+    *   It's Not Too Early to Talk About Freezing Your Eggs
+    *   Bringing Back Meekness as a Virtue
     *   Earlobe Creases as a Sign of Heart Disease
-    *   The Psychology of Post-Election Melodrama
-    *   The Public Health Results
     *   Study: Statins Appear to Improve Cancer Survival
     *   Stop Saying 'Drink the Kool-Aid'
     *   No Flowers on the Psych Ward
 *   Sexes
     *   Top Stories
-    *   Did Inflammatory Remarks About Rape and Abortion Doom GOP Candidates?
-    *   Same-Sex Marriage Wins on the Ballot for the First Time in American History
-    *   'Vote No on Women's Suffrage': Bizarre Reasons For Not Letting Women Vote
+    *   Women Are Not a Unified Voting Bloc
     *   What I Learned From Hiring a Love Coach
-    *   Female Doctors on TV: Professionally Competent, Socially Inept
+    *   Female Doctors on TV, Pop-Culture Cliche
+    *   Obama Shows, Once Again, That Crying Is for Winners
+    *   Why Demographics Can't Fully Predict How People Vote
     *   There Are Decent Men on TV, If You Know Where to Look
 *   Entertainment
     *   Top Stories
-    *   Can Yesterday's Hip Font Designers Still Break Rules?
-    *   What Obama Can Learn from His Friend Jay-Z
-    *   Grimms' Fairy Tales: Pandering to Your Worst Desires
+    *   The Barack Obama of Pro Football Is ...
+    *   'Skyfall': James Bond Rises Again, Spectacularly
+    *   A Storm in a Jar: Art Installations That Imitate Weather
     *   The Subtle Eloquence of 'Lincoln'
     *   Great Emancipator or Creepy Slob? Historic Portrayals of Abraham Lincoln
     *   'I Will Never Make a Movie on Tape': Eye-Opening Movies About the Movies
@@ -88,7 +88,7 @@ Skip Navigation
 *   Video
 *   Photo
 *   Newsletters
-*   The Subtle Eloquence of 'Lincoln'Christopher Orr
+*   The Wright Brothers' Famous 1903 Flying Machine Patent Is MissingRebecca J. Rosen
 
 Privacy Policy
 
@@ -196,10 +196,10 @@ Washington, DC 20037
 Special Report Alex Hoyt How the Map Changed as the Polls Came In  
 A state-by state guide. And it's never too late to check out _The Atlantic_'s obsessive all-night coverage of the whole election. Read more › Writers
 
-*   Ta-Nehisi Coates Please Proceed, Senator Nov 8, 2012
+*   Ta-Nehisi Coates How Business Expertise Translates Into Politics 4:29 PM ET
+*   Derek Thompson 2 Graphs That Should Accompany Every Discussion… 2:39 PM ET
+*   Robert Wright Food for Republican Thought from Nate Silver 2:10 PM ET
 *   James Fallows Congressional Republicans: Meet the President Who… Nov 8, 2012
-*   Derek Thompson What's Going to Kill the TV Business? Nov 8, 2012
-*   Robert Wright Why Should Obama Compromise on Taxes? Nov 8, 2012
 *   Alexis C. Madrigal The Question I Didn't Get to Ask Pinterest CEO… Nov 8, 2012
 *   Clive Crook Obama's Victory After Cyclical Adjustment Nov 7, 2012
 *   Jeffrey Goldberg 'Now I'm Going to Offer You a Hamburger' Nov 7, 2012
@@ -237,73 +237,73 @@ Most Popular
 
 1
 
-The GOP Must Choose: Rush Limbaugh or Minority Voters
+Where America's Racist Tweets Come From
 
 2
 
-Syria in Ruins
+How Conservative Media Lost to the MSM and Failed the Rank and File
 
 3
 
-How Conservative Media Lost to the MSM and Failed the Rank and File
+Syria in Ruins
 
 4
 
-Hurricane Sandy: After Landfall
+'It Was Like A Sucker Punch'
 
 5
 
-The Right's Jennifer Rubin Problem: A Case Study in Info Disadvantage
+The GOP Must Choose: Rush Limbaugh or Minority Voters
 
 6
 
-Did Facebook Give Democrats the Upper Hand?
+The Fiscal Cliff Explainer: What It Is, Where It's From, Who Will Pay, and Why It Matters
 
 7
 
-Noam Chomsky on Where Artificial Intelligence Went Wrong
+Hurricane Sandy: After Landfall
 
 8
 
-Congressional Republicans: Meet the President Who Suddenly Has the Upper Hand
+'Skyfall': James Bond Rises Again, Spectacularly
 
 9
 
-No Flowers on the Psych Ward
+Did Facebook Give Democrats the Upper Hand?
 
 10
 
-Hurricane Sandy: The Aftermath
+Obama on the Fiscal Cliff: Go Ahead, Make My Day
 
 ATLANTIC MEDIA Atlantic Wire
 
-*   Romney's Get Out The Vote Plan Was a Complete Disaster
-*   Iran Tried to Shoot Down a U.S. Drone and Missed
-*   Amazingly, Sean Hannity Can Evolve
+*   Maya Civilization Changed with the Climate. What's Next For Green Legislation
+*   Mummified Iceman Was European. People Prefer Familiar-Looking Body Types
+*   CIA Director David Petraeus Resigns Over Extramarital Affair
 
 **More from Atlantic Wire**
 
 Atlantic Cities
 
-*   Miserable Airport of the Day: Dallas/Fort Worth International
-*   Fearing Political Unrest, Beijing Outlaws Basically Everything: This Week in Bans
-*   The 'Covert Cloak' Protects the Privacy of the Painfully Shy
+*   Will Obama Fight Colorado and Washington's New Pot Laws?
+*   Saving Seattle's Neighborhood Authenticity Through Better Buildings
+*   An App That Tries to Predict the Future of Cities
 
 **More from Atlantic Cities**
 
 Quartz
 
-*   5 things Obama must do to help the US maintain a global edge
-*   The US and China make tentative progress on dealing with Chinese “stir-fry” accounting frauds
-*   Quartz Daily Brief – Europe Edition – Chinese opacity, SEC hacked, business of pot
+*   The fiscal cliff deal shaping up between Obama and Boehner
+*   Can America solve its fiscal cliff with a carbon tax? Probably not
+*   It’s easier to get your kid into Harvard than into a London kindergarten
 
 **More from Quartz**
 
 National Journal
 
-*   House and Senate Leaders, Chairmen in the 113th Congress
-*   5 Milestones In Congressional Demographics
-*   SEAL Team Six Members Reprimanded in Video Game Consulting Deal
+*   Media Rules for Covering New Member Orientation
+*   Caption This: Sen. Jeanne Shaheen and the Pats' Vince Wilfork
+*   The Art of the Friday News-Dump
 
 **More from National Journal**
 
