@@ -24,7 +24,6 @@ Skip Links
 *   Network World Data Center Challenge 2012
 *   Network World Mobility Management Challenge 2012
 *   Riverbed Accelerate Business Performance Solution Center
-*   Silver Peak's Virtual WAN Optimization Center
 *   **_View all Solution Centers_**
 
 Network World
@@ -44,15 +43,16 @@ Network World
 *   Security
 *   LAN &. WAN
 *   Unified Communications
-*   Cloud Computing
+*   Cloud
 *   Infrastructure Management
 *   Wireless
 *   Software
 *   Data Center
 *   SMB Networking
 *   IT Careers
-*   Gearhead
+*   Toolshed
 *   Tech Debate
+*   Tests
 *   Community
     *   Cisco Subnet
     *   Microsoft Subnet
@@ -153,6 +153,9 @@ Network World
 *   Webcasts
 *   Tests
 
+*   Cool Tools
+*   Gearhead
+*   IT Asked &. Answered
 *   White Papers
 *   Webcasts
 *   Tests
@@ -161,7 +164,6 @@ Network World
 *   Webcasts
 *   Tests
 
-*   Tests
 *   White Papers
 *   Webcasts
 *   Solution Centers
