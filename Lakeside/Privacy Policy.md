@@ -680,7 +680,6 @@ Y*   Books + Media
         *   Outdoor Decor
     *   Pets
     *   open Home Improvement
-        *   Flashlights, Lanterns
         *   Household Helpers
     *   open For the Home
         *   open Furniture
@@ -890,7 +889,6 @@ Y*   Books + Media
         *   Baby
         *   Arts + Crafts
         *   open Books
-            *   Educational
             *   Activity
             *   Children's
         *   Play Sets
