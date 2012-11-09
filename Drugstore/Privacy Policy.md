@@ -9,7 +9,7 @@ pharmacy photo contact lenses
 *   vitamins »
 *   diet &. fitness »
 *   sexual well-being »
-*   FSA store »
+*   holiday »
 *   GNC store »
 *   green &. natural »
 *   the sale »
