@@ -296,11 +296,11 @@ Featured Topics
 
 New &. Updated
 
-*   Avastin
-*   Micardis
-*   Pamelor
-*   Teflaro
-*   Velcade
+*   Avalide
+*   Janumet
+*   Janumet XR
+*   Januvia
+*   Yervoy
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
