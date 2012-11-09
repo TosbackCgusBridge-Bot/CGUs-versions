@@ -63,10 +63,6 @@ Click here for additional shipping and tax information.
 *   Fashion Fix
 *     ? Items  
 
-IN ORDER TO USE ALL OF THE SITE FUNCTIONALITY ON THE SAKS FIFTH AVENUE WEBSITE,  
-YOU MUST HAVE **JAVASCRIPT ENABLED** ON YOUR BROWSER.  
-For instructions to enable JavaScript, click here.  
-  
 **24/7 Customer Service:** Live Chat  •  Email  • 1.877.551.7257 Our Privacy Policy &. Our Website Terms Of Use Our Privacy Policy  •  Our Website Terms Of Use Our Privacy Policy  
 Last updated October 8, 2012.  
   
