@@ -225,4 +225,4 @@ If you have any additional questions about this Policy, you are encouraged to co
 *   Add Link
 *   Advertise
 
-© 2011 TwoWayLove.com Dating Directory - All rights reserved   |   Made in Switzerland Designed by Roger
+©2009-2012 TwoWayLove.com Dating Directory - All rights reserved Made in Switzerland Designed by Roger
