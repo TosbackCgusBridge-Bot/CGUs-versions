@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  Fortunate One
-2.  Second-Term Surprise
-3.  Who’s Skewed Now?
-4.  Five Amazing Fox News Freak-Outs
-5.  Let’s All Get Stoned
+1.  How the GOP Got Stuck in the Past
+2.  6 Absurd Excuses for Mitt’s Defeat
+3.  Obama’s Next Inner Circle
+4.  The War on Women Backfires
+5.  R.I.P. Romney
 
   Other News Entertainment
 
+*   Life in Pictures: Demi Moore
 *   Stars Attend the 2012 Victoria's Secret Fashion Show
-*   Week in Photos for Nov. 9, 2012
-*   Undressed 2012: The Year (So Far) in Celebrity Fashion Faux Pas
+*   50 Stars Turning 50
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   Diane Warren’s melodies head to Broadway
-*   Hey girl, watch Mario channel Ryan Gosling in ‘Mario Kart’/'Drive’ mashup — VIDEO
-*   Google goes gothic in new Doodle: Happy Birthday, Bram Stoker
+*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
+*   Taylor Swift unveils new photo book — EXCLUSIVE PHOTOS
+*   Got a spare two hours? Why not watch every James Bond movie as a single James Bond movie?
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Career Confidential: The Animal Behaviorist Who Rescues And Trains Pit Bulls
-*   New Hampshire Elects Nation's First Out Trans Lawmaker
-*   How Would You React To Sexual Harassment?
+*   How Bioethicists Want Doctors to Approach LGBT Patients Differently
+*   Mr. MFN eXquire's Struggle To Stay Weird
+*   Awesome Dad Reprograms Zelda So His Daughter Can Identify With Link
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Romney Campaign Concedes Florida
-*   Rachel Maddow Has the Last Word
-*   The House Could Stay in GOP Hands for a Long Time
+*   Ashley Judd Won't Rule Out Senate Bid
+*   George P. Bush Initiates Bid for Office
+*   Republicans Drop Efforts to Repeal Obamacare
 *   **Get More from Political Wire**
 
 The Daily Beast
