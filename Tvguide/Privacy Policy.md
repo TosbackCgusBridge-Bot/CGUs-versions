@@ -73,11 +73,11 @@ What's Hot
 
 Sweeps Roundup
 
-Thursday Night Football
+Ariel Winter's Parental Drama
 
-Best Election Tweets
+_Once_ Video: Royal Vengeance!
 
-Kirstie Alley: I Had an Affair with Patrick Swayze
+This Weekend's Football
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -140,7 +140,7 @@ more popular movies Top Videos
 1.  The Vampire Diaries
 2.  The Vampire Diaries
 3.  Arrow
-4.  Arrow
+4.  The Vampire Diaries
 5.  Lauren Graham's Watchlist
 
 more top videos
