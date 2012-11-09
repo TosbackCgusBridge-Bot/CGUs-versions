@@ -34,7 +34,7 @@ Welcome to Free Online Games New Free Online Games 1 / 2 Angry Gran Run sqirlz G
 *   Sports Games (301)
 *   Platform Games (289)
 *   Car Games (276)
-*   Animal Games (263)
+*   Strategy Games (264)
 *   Arcade Games (254)
 *   Fighting Games (216)
 *   Action Games (193)
@@ -76,11 +76,11 @@ Welcome to Free Online Games New Free Online Games 1 / 2 Angry Gran Run sqirlz G
 
 *   Shooting Games (818)
 *   Adventure Games (327)
-*   Racing Games (294)
-*   Driving Games (276)
-*   Strategy Games (264)
+*   Racing Games (298)
+*   Driving Games (277)
+*   Animal Games (268)
 *   War Games (261)
-*   Fun Games (236)
+*   Fun Games (238)
 *   Defense Games (199)
 *   RPG Games (188)
 *   3D Games (168)
@@ -101,7 +101,7 @@ Welcome to Free Online Games New Free Online Games 1 / 2 Angry Gran Run sqirlz G
 *   Shockwave Games (74)
 *   Motorbike Games (67)
 *   Robot Games (64)
-*   Truck Games (62)
+*   Truck Games (63)
 *   Shape Games (57)
 *   Archery Games (51)
 *   Running Games (49)
@@ -139,7 +139,7 @@ Welcome to Free Online Games New Free Online Games 1 / 2 Angry Gran Run sqirlz G
 
 *   Free Games For Your Website
 
-Puzzle, Shooting, Physics, Adventure, Sports, Racing, Platform, Driving, Car, Strategy, Animal, War, Arcade, Fun, Fighting, View More..
+Puzzle, Shooting, Physics, Adventure, Sports, Racing, Platform, Driving, Car, Animal, Strategy, War, Arcade, Fun, Fighting, View More..
 
 Follow @followfog © Free Online Games × Log in to your FOG account! Username Password Facebook Login Login Signup Reset Password × Warn this user Send Cancel × Sign up for your FOG account! Username Email Password Signup Join using Facebook
 
