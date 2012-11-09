@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   China's Hu Issues Warning About Corruption
-*   Obama, Congress Begin Budget Negotiations
+*   Obama to Visit Burma
+*   US Confirms Iran Fired on Drone
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
