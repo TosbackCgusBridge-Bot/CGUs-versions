@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Video: President Obama cries while...**  
-        Election 2012 | David Nakamura
+    *   **Harry Reid could keep John Kerry...**  
+        Election 2012 | Rachel Weiner
     
-    *   **Would a tax hike on the wealthy...**  
+    *   **Would a tax hike kill 700,000 jobs?**  
         The Fact Checker | Glenn Kessler
     
-    *   **The end of a long, ugly road for...**  
-        She The People | Melinda Henneberger
+    *   **Do Democrats owe their Senate majority...**  
+        She The People | Krissah Thompson
     
-    *   **The (next) 10 closest states in...**  
-        The Fix | Chris Cillizza and Aaron Blake
+    *   **Where Obama did better in 2012...**  
+        The Fix | Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **‘Drunk Nate Silver’ rules the internet**  
+    *   **Best of the Star Wars Fiscal Cliff**  
         ComPost | Alexandra Petri
     
-    *   **Happy Hour Roundup**  
+    *   **As Obama lays down marker on taxes...**  
         The Plum Line | Greg Sargent
     
-    *   **Friday’s p-Op quiz**  
-        PostPartisan | Jonathan Capehart
+    *   **Republicans’ policy gap**  
+        PostPartisan | Jonathan Bernstein
     
-    *   **Morning Bits**  
+    *   **Romney’s what-went-wrong press...**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Cold air retreating...**  
-        Capital Weather Gang | A. Camden Walker
+    *   **PM Update: Warmer weekend awaits**  
+        Capital Weather Gang | Dan Stillman
     
-    *   **‘Lincoln,’ ‘Skyfall’ and more new...**  
-        Going Out Gurus | Jess Righthand
+    *   **National Gallery of Art ice rink...**  
+        Going Out Gurus | Alex Baldinger
     
-    *   **Man injured in Prince George’s...**  
-        Crime Scene | Maggie Fazeli Fard
+    *   **Police: Md. trooper hurt trying...**  
+        Crime Scene | Michael Laris
     
-    *   **Governors face Obamacare deadlines**  
-        Virginia Politics | Laura Vozzella
+    *   **D.C. youth trust hires new director**  
+        D.C. Wire | Tim Craig
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -100,13 +100,13 @@
     *   **Jay Beagle on trying to keep a...**  
         Capitals Insider | Eric Detweiler
     
-    *   **Chris Singletons game-tying dunk...**  
-        DC Sports Bog | Sarah Kogod
+    *   **Maryland offers ACC tournament...**  
+        DC Sports Bog | Dan Steinberg
     
-    *   **Bye-week glance: Redskins special...**  
-        The Insider | Mark Maske
+    *   **Redskins work out defensive backs...**  
+        The Insider | Mike Jones
     
-    *   **The state of the Nationals bullpen...**  
+    *   **Davey Johnson planning on retiring...**  
         Nationals Journal | Adam Kilgore
 *   National In National
     
@@ -123,14 +123,14 @@
     
     Blogs &. Columns
     
-    *   **Are we voting in the dark?**  
+    *   **It works, but chuck it anyway**  
         Ideas@Innovations | Dominic Basulto
     
-    *   **The power of a new Obama team**  
+    *   **Tears, thanks and truth at the...**  
         PostLeadership | Jena McGregor
     
-    *   **Hindu American elected to Congress**  
-        Under God | Jeannine Hunter
+    *   **God after 2012: How did election...**  
+        Under God | Elizabeth Tenety
 *   World In World
     
     *   Africa
@@ -145,17 +145,17 @@
     
     Blogs &. Columns
     
-    *   **A Kickstarter campaign for an ancient...**  
+    *   **How marijuana legalization will...**  
         WorldViews | Olga Khazan
     
-    *   **Map: Where was the drone that Iran...**  
-        WorldViews | Max Fisher
-    
-    *   **Why Russians think U.S. elections...**  
+    *   **Russia’s secret new Internet blacklist**  
         WorldViews | Olga Khazan
     
-    *   **A revealing map of which world...**  
+    *   **Web monitor: China takes extraordinary...**  
         WorldViews | Max Fisher
+    
+    *   **Tens of thousands want Malala to...**  
+        WorldViews | Olga Khazan
 *   Business In Business
     
     *   Economy
@@ -173,14 +173,14 @@
     *   **Costly votes**  
         The Color of Money | Michelle Singletary
     
-    *   **AT&T lifts FaceTime restrictions...**  
-        Post Tech | Cecilia Kang
+    *   **Priceline agrees to acquire Kayak...**  
+        Post Tech | Hayley Tsukayama
     
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **Wonkbook: Game change? Hannity...**  
-        Wonkblog | Ezra Klein
+    *   **For hurried states, Obama administration...**  
+        Wonkblog | Sarah Kliff
 *   Tech In Technology
     
     *   Policy
@@ -191,11 +191,11 @@
     
     Blogs &. Columns
     
-    *   **Twitter ‘unintentionally’ sends...**  
+    *   **Apple shipments of LTE iPad mini...**  
         Hayley Tsukayama
     
-    *   **AT&T lifts FaceTime restrictions...**  
-        Post Tech | Cecilia Kang
+    *   **Priceline agrees to acquire Kayak...**  
+        Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
     *   Advice
@@ -214,13 +214,13 @@
     *   **Cauliflower’s 140-character study**  
         All We Can Eat | Edward Schneider
     
-    *   **Michelle Obama’s election night...**  
-        The Style Blog | Veronica Toney
+    *   **How to dress like James Bond**  
+        The Style Blog | Cara Kelly
     
-    *   **Kids not as sweet as they may appear**  
-        On Parenting | Janice D'Arcy
+    *   **Take the kids this weekend: National...**  
+        On Parenting | On Parenting
     
-    *   **Congress’s Class of 2012: Which...**  
+    *   **Quoted: Ashley Judd on running...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,10 +240,10 @@
     *   **Review digest: of Lang Lang, Midori...**  
         Classical Beat | Anne Midgette
     
-    *   **‘Skyfall’ reviews**  
+    *   **A conversation with Robert Pattinson**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **‘X Factor’: Jason Brock gets the...**  
+    *   **NBC’s dysfunctional First Family...**  
         The TV Column | Lisa de Moraes
     
     *   **AFI FEST WINNERS**  
@@ -266,11 +266,12 @@
 
 In the News
 
-*   SEALs punished
+*   David Petraeus
+*   U.S. drone
 *   Obama cries
-*   Justin Welby
-*   Davey Johnson
-*   ‘Skyfall’
+*   Lakers coach
+*   Jeep recall
+*   ‘Lincoln’
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -321,94 +322,88 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
+After Obama reelection, Murray Energy CEO reads prayer, announces layoffs
+
+Steven Mufson 
+
 The way forward
 
 Charles Krauthammer 
 
-Republican Party begins election review to find out what went wrong
+Obama calls for immediate freeze on middle-class tax rates
+
+Zachary A. Goldfarb 
+
+House Speaker John A. Boehner’s remarks on the fiscal cliff at news conference on Nov. 9, 2012 (Full Transcript)
+
+::unspecified:: 
+
+Why Republican governors want to leave Obamacare to the feds Republican Party begins election review to find out what went wrong
 
 Peter Wallsten 
-
-Video: President Obama cries while addressing campaign staff A new America speaks
-
-Eugene Robinson 
-
-Dulles-bound flight declares emergency
-
-Clarence Williams 
-
-GOP’s rejection of higher tax rates an obstacle to debt deal
-
-Paul Kane 
 
 Real-life CSI: When one identical twin is accused of killing the other
 
 Michael S. Rosenwald 
 
-‘Mormon Moment’ RIP
+If the U.S. goes over the fiscal cliff, do we still need to raise the debt ceiling? Victims of armed robbery chase assailants through downtown D.C. as shots fired
 
-David Mason 
+Peter Hermann 
 
-Whither Karl Rove? Man executed in Texas for 2002 slaying of woman during break-in at her home
+Republicans better get rid of the angry-white-guy voters Man executed in Texas for 2002 slaying of woman during break-in at her home
 
 Associated Press 
 
-Mexico says marijuana legalization in U.S. could change anti-drug strategies
+Would a tax hike on the wealthy kill 700,000 jobs?
 
-William Booth 
+Glenn Kessler 
+
+A new America speaks
+
+Eugene Robinson 
+
+House Democrats got more votes than House Republicans. Yet Boehner says hes got a mandate? President Obama’s statement on the fiscal cliff and tax rates, Nov. 9, 2012 (Full Transcript)
+
+::unspecified:: 
+
+Life after defeat for Mitt Romney: Public praise, private questions
+
+Philip Rucker 
 
 Rebuilding the GOP’s appeal
 
 Michael Gerson 
 
-Obama re-election protest escalates at Univ. of Mississippi. racial slurs, 2 arrests reported
+Mexico says marijuana legalization in U.S. could change anti-drug strategies
 
-Associated Press 
+William Booth 
 
-Think you’re clever? Macedonian health minister is seeking to hire geniuses
+Hate is not a plan
 
-Associated Press 
+Joel Achenbach 
 
-The emerging America
-
-Fareed Zakaria 
-
-Sam Gordon, 9-year-old girl, is already a football star (video) For Republicans, less purity and more reality
-
-Alan Charles Raul 
-
-What is Nate Silver doing?
-
-Alexandra Petri 
-
-Israel’s Netanyahu comes in for criticism in wake of U.S. presidential election
-
-Joel Greenberg 
-
-Charles Darwin earns 4,000 write-in votes against creationist Ga. congressman
-
-Associated Press 
+George P. Bush files election papers
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  The way forward
-    2.  Republican Party begins election review to find out what went wrong
-    3.  Video: President Obama cries while addressing campaign staff
-    4.  A new America speaks
-    5.  Flight makes emergency landing at Dulles
+    1.  After Obama reelection coal company CEO reads prayer to staff, announces layoffs
+    2.  The way forward
+    3.  Obama calls for immediate freeze on middle-class tax rates
+    4.  House Speaker John A. Boehner's remarks on the fiscal cliff at news conference on Nov. 9, 2012 (Full Transcript)
+    5.  Why Republican governors want to leave Obamacare to the feds
 *   Top Videos
     1.  The story behind the Romney loss: Drama, regrets and mistakes
     2.  President Obama's full victory speech
-    3.  Rihanna, Justin Bieber rock Victoria's Secret fashion show
-    4.  Powerful Guatemala earthquake kills at least 48 people
-    5.  The GOP's not-so-happy hour
+    3.  Obama tears up while addressing staff
+    4.  The GOP's not-so-happy hour
+    5.  Rihanna, Justin Bieber rock Victoria's Secret fashion show
 *   Top Galleries
-    1.  Powerful earthquake kills at least 52 in Guatemala
-    2.  Election 2016: Chris Cillizza's 13 front-runners
-    3.  Obamas talk 'First Parents' role
-    4.  Wael Ali cleared of charges in his identical twin's murder
-    5.  Smartphones galore
+    1.  James Bond's "Skyfall" fashion
+    2.  Obamas talk 'First Parents' role
+    3.  Election 2016: Chris Cillizza's 13 front-runners
+    4.  Wael Ali, accused of killing his twin, celebrates his release from jail
+    5.  The 'fiscal cliff' explained in charts
 
 Today's Paper
 
@@ -418,13 +413,14 @@ Today's Paper
 
 Live Discussions
 
-The Fix Live
+Carolyn Hax
 
-Live Q&A: Friday at 11 a.m. ET
+Live Q&A Transcript
 
-The Fix’s Chris Cillizza discusses the latest in political news.
+Hax advised readers on life, love and how to help a friend in need.
 
-**11:00 AM** **Real Wheels Live** **11:00 AM** **The Fix Live** **12:00 PM** **Carolyn Hax Live: Advice columnist tackles your problems (Friday, November 9)** **1:00 PM** **The Latest in TV with Lisa de Moraes**
+*   Earlier Today
+    *   **11:00 AM** **Real Wheels Live** **11:00 AM** **The Fix Live** **12:00 PM** **Carolyn Hax Live: Advice columnist tackles your problems (Friday, November 9)** **1:00 PM** **The Latest in TV with Lisa de Moraes**
 
 **Weekly schedule, past shows**
 
