@@ -1,41 +1,41 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Chocolate Nesquik mix recalled over salmonella
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: CIA chief Petraeus resigns, cites extramarital affair
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Mike Ehrmann / Getty Images It's not just Luck for the Colts
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Joe Howell / AP 7-1 Bears will topple 7-1 Texans
     
-    PFT: Andrew Luck continued to shine — and Indy's defense came to play — as the surprising Colts galloped to a 27-10 victory over lowly Jacksonville to win their fourth straight game and improve to 6-3.
+    PFT's picks: And the Saints could give the undefeated Falcons a headache in New Orleans.
     
-    PFT's picks: 7-1 Bears will topple 7-1 Texans Kacsmar: The five biggest surprises Kacsmar: Who are pretending, and contending? Midseason report for every team   |  All-Pro team PFT Live: Perfect Falcons face improving Saints PFT Live: Reigniting Carroll vs. Sanchez Carroll: Sanchez left too early  |  Tebow frustrated PFT: Rodgers didn't like his '60 Minutes' profile Ad
+    PFT: It's not just Luck for the Colts PFT: Tebow still considered most overrated Kacsmar: The five biggest surprises Kacsmar: Who are pretending, and contending? Midseason report for every team   |  All-Pro team PFT Live: Perfect Falcons face improving Saints PFT Live: Reigniting Carroll vs. Sanchez Carroll: Sanchez left too early  |  Tebow frustrated Ad
 *   MLB
     SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Leon Halip / Getty Images 'We're not trading Alex Rodriguez'
     
     HBT: Every couple weeks Yankees general manager Brian Cashman reiterates that he has no plans to trade Alex Rodriguez.
     
-    HBT: Weiss better have good first year with Rockies Izturis agrees to $10M contract with Blue Jays HBT: Follow our free-agent tracker HBT: Yankees expect Rivera to take pay cut HBT: Sizemore plans to play in '13 after missing '12 HBT: Finalists announced for MLB awards MLB considering expansion of instant replay GMs discussing head protection for pitchers Ad
+    HBT: Rangers will only offer Hamilton 3-year deal HBT: Hall of Famer Lee MacPhail dies at 95 HBT: Weiss better have good first year with Rockies Izturis agrees to $10M contract with Blue Jays HBT: Follow our free-agent tracker HBT: Yankees expect Rivera to take pay cut HBT: Sizemore plans to play in '13 after missing '12 HBT: Finalists announced for MLB awards Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Bruce Bennett / Getty Images 'You’ve been writing filth about me'
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Brendan Mcdermid / Reuters 'Still a lot of work to be done'
     
-    PHT: It appears relations have soured between Ilya Bryzgalov and the Russian media.
+    PHT has obtained a copy of Donald Fehr’s memo to union members following Thursday’s CBA meetings. The letter, obtained from an NHL player, suggests the union is displeased with the league’s latest offerings.
     
-    NHL, union to meet Friday for 4th straight day PHT: NHL counters NHLPA's proposals PHT: Bettman says it's 'very tough to handicap' talks PHT: Dynamo prez wants to keep Ovie in KHL PHT: Lundqvist still in Sweden, still not playing NHL fights Canadian sports-betting bill CSN: NHL deal won't be appealing to either side PHT: Canucks retiring Bure's number? Maybe not Ad
+    NHL labor talks under way on 4th straight day CSN: NHL, NHLPA still short of goal PHT: NHL counters NHLPA's proposals PHT: Bettman says it's 'very tough to handicap' talks PHT: Dynamo prez wants to keep Ovie in KHL PHT: Lundqvist still in Sweden, still not playing PHT: Bryzgalov rips into Russian media NHL fights Canadian sports-betting bill Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Adam Hunger / Reuters Nets still trying to find identity
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Don Ryan / AP Lakers reportedly fire Mike Brown
     
-    Winderman: The start of 2012-13 season was supposed to be about a new vision taking root for the Nets, a tree growing in Brooklyn, if you will. Instead, to this point, little has taken root.
+    Despite an ugly 1-4 start, Lakers president Jim Buss said fans were going to have to be patient with head coach Mike Brown. Apparently, Buss' patience wore out on Friday.
     
-    CSN: Durant, Thunder take care of Bulls Winderman: Rose need not rush back now Clippers top Trail Blazers in first road game PBT: Howard tells frustrated Kobe to chill out SportsTalk: Is LeBron making Knicks better? PBT: Okur announces retirement from NBA PBT: Lakers fan pepper-sprays Jazz fan after game LeBron thanks Ohio for delivering for Obama Ad
+    PBT: Lots of big names available for Lakers' job PBT: Mike Brown's son got death threat Nets still trying to find identity CSN: Durant, Thunder take care of Bulls Winderman: Rose need not rush back now Clippers top Trail Blazers in first road game PBT: Howard tells frustrated Kobe to chill out SportsTalk: Is LeBron making Knicks better? Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Geoff Burke / Getty Images Seminoles win a squeaker
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Christopher Jackson / AP Heisman race heating up
     
-    CFT: No. 8 Florida State rallies to score late TD, defeat struggling Virginia Tech 28-22 on Thursday.
+    Follow along this season as NBCSports.com updates the race for the top individual prize in the country. After seeing our list, it's your turn to rank the candidates.
     
-    CFT: Auburn 'making preparations' to fire Chizik? SportsTalk: Is Fisher first choice for Auburn? CFT's Predictions 101: No slowing rising Tide Pitt, UConn both try to salvage season Friday CFT: USC might use Lee on defense CFT: USC manager fired for deflating game balls Special feature: Heisman Hopefuls CFT: Cal's backup QB to start vs. No. 2 Oregon Ad
+    Pitt, UConn both try to salvage season Friday CFT: No. 8 Seminoles win squeaker over Hokies CFT: Auburn 'making preparations' to fire Chizik? SportsTalk: Is Fisher first choice for Auburn? CFT: USC might use Lee on defense CFT: USC manager fired for deflating game balls CFT: Cal's backup QB to start vs. No. 2 Oregon CFT: Lattimore has surgery, so what's next? Ad
 *   NCAA HOOPS
     SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Andy Lyons / Getty Images Burning questions entering season
     
     CBT: It's time to tip off the 2012-13 college basketball season. Here's everything you need to know.
     
-    CBT: Here's our preseason Top 25 SportsTalk: Ohio State-Marquette preview College hoops season starts with a military flair Coaches honored to take part in Carrier Classic No. 3 Kentucky seeks early answers vs. Maryland CBT: Kentucky donates $500K for Sandy relief Mich St.-UConn at Air Base hangar in Germany Moore: Shorter shot clock equal better hoops? No Ad
+    CBT: Here's our preseason Top 25 CBT: Ohio State, Marquette set to kick off season CBT: Florida meets Georgetown in Carrier Classic CBT: Syracuse-SDSU tops strong weekend slate CBT: 60 things we're looking forward to this season SportsTalk: Ohio State-Marquette preview CBT: Fine won't be charged in molestation case College hoops season starts with a military flair Ad
 *   Motors
     SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Dimitar Dilkoff / AFP - Getty Images F1: Watch the language, guys
     
@@ -49,23 +49,23 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     Martinez's late goal lifts Sounders PST: United tops Red Bulls to reach Eastern finals Highlights of United's victory over Red Bulls DeLeon speechless over deciding goal Red Bulls pledge half of gate revenue for Sandy American Bedoya scores first European goal PST: Galaxy's Keane was cruel test for Quakes PST: Highlights from Galaxy, Dynamo playoff wins Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines #AskLav: Do the right thing
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Cut Line: Too close to call
     
-    Blayne Barber was applauded for disqualifying himself from Q-School ... then was called a 'cheat.' So, what happened?
+    It's only fitting the PGA Tour's finale is played in Florida, Cut Line says, because all eyes will be on the scoreboard right up to the finish.
     
-    Wi leads Villegas, Gainey on Day 1 at Disney Gainey in mix at Disney, wants Masters invite Video: Tiger, Rory joint interview on CNN Bubble watch: Who's playing their way in, out at Disney Dyson, Nirat lead in Singapore as rains continue Rory: Equipment news coming in a 'few weeks' Behind the scenes with ... Lara Baldesarra Seven Ryder Cuppers highlight field at Franklin Templeton Shootout Intriguing possibilities for impending putter ruling Lefty on potential anchoring ban: 'Grossly unfair' Ad
+    Video: Tiger, Rory joint interview on CNN Wi leads Villegas, Gainey on Day 1 at Disney Appleby among those who may require 2013 lifeline Howell continues solid play, pushing for Masters Dyson, Nirat lead in Singapore as rains continue Rain in Singapore may shorten event to 54 holes Behind the scenes with ... Lara Baldesarra Gainey in mix at Disney, wants Masters invite Ochoa remains 'happy' in retirement Rory: Equipment news coming in a 'few weeks' Tip of the Week: Preparing properly for your round Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Matthias Schrader / AP Sochi Games to feature 12 new events
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Mike Groll / AP Lolo scores silver in bobsled debut
     
-    Russia's 2014 Olympics will be the biggest and the most expansionist Winter Games with 12 new sports.
+    American track star turned bobsledder Lolo Jones kicked off her new career nicely on Friday, finishing second at her winter sports debut during an event in Lake Placid, N.Y.
     
-    OlympicTalk: Lochte, Franklin return to pool 5 US Olympic boxers making pro debuts together Shaun White to seek treatment for alcohol abuse Martins Dukurs of Latvia leads men's WC skeleton OlympicTalk: Gold medalist Wiggins hit by van OlympicTalk: London world records finally ratified OlympicTalk: Discus champion faces lifetime ban OlympicTalk: Vonn skipping Cup slalom opener Ad
+    Sochi Games to feature 12 new events OlympicTalk: Lochte, Franklin return to pool 5 US Olympic boxers making pro debuts together Shaun White to seek treatment for alcohol abuse Dukurs brothers 1-2 in men's WCup skeleton race OlympicTalk: Gold medalist Wiggins hit by van OlympicTalk: London world records finally ratified OlympicTalk: Discus champion faces lifetime ban Ad
 *   More
-    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Glyn Kirk / AFP - Getty Images Federer reaches ATP semifinals
+    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Mike Groll / AP Lolo wins silver in bobsled
     
-    The six-time champion earned his second straight victory at the season-ending tournament, beating David Ferrer 6-4, 7-6 (5) on Thursday.
+    Lolo Jones and Jazmine Fenlator claimed the silver medal in the World Cup bobsled season-opener in Lake Placid, N.Y.
     
-    Dan Patrick: Utah girl a star in youth football Klitschko and the heavyweight mess Wiggins and British coach both hit by vehicles Newton TD celebration gets prep star ejected Big names in sports thrown for losses by voters The lineup for sports on election night Castrodale: Some pleas for the president The Week in Sports Pictures Ad
+    Djokovic, Murray advance to semis at ATP finals Without Vonn, Maze favorite at slalom opener Chan, Gold lead Rostelecom Cup Tour champion released from hospital Dan Patrick: Utah girl a star in youth football Boxing champ Klitschko facing taller, heavier Wach Wiggins and British coach both hit by vehicles Newton TD celebration gets prep star ejected Ad
 
 *   Scores
 *   Odds
