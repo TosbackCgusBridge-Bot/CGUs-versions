@@ -11,9 +11,9 @@ search now
   
 Sponsored Links advertisement Decorating &. Ideas
 
-*   10 Emerging Interior Designers
+*   Alex Hitz's Los Angeles House
 *   Bunny Williams's Bedroom
-*   Alex Hitz's Perfect House for ...
+*   Do-It-Now Ideas
 
 More Decorating &. Ideas Kitchens &. Entertaining
 
@@ -29,7 +29,7 @@ More Kitchens &. Entertaining Photo Galleries
 
 More Photo Galleries Shopping &. Gifts
 
-*   9 Stylish Welcome Mats
+*   Designer Teapots
 *   The Salon: Art &. Design
 *   Holiday Gift Guide
 
