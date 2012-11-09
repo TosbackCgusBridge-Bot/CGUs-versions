@@ -143,26 +143,28 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Cardio Pool Workouts Resources
+*   Brahmi Gotu Kola Resources
 
   
-Stay in Touch With SparkPeople **How to Feed a Vegetarian**
+Stay in Touch With SparkPeople **What to Eat This Fall**
 
-Stumped about what to cook when a vegetarian comes over for dinner? Here's what you need to know.
+Eating seasonally can be a boon to your health and your wallet. Find out which produce items are delicious--and affordable--right now!
 
 Read More
 
-*   Any moderate eaters, exercisers, out there?
-*   Do you have a goal after weight loss?
 *   How do you fight boredom on the treadmill?
-*   How do you hold yourself accountable?
-*   Pantry staples
+*   Any moderate eaters, exercisers, out there?
+*   Vegetables- yuck!
+*   Whats the 1st thing you noticed w/your weightloss?
+*   Healthy snack ideas for under 100 calories?
 
-View Demo **Knee Raises on Captains Chair**  
-One of the best exercises for the abs! **Slow-Cooker Salsa Chicken**  
+View Demo **Bridges on Ball**  
+An effective exercise for targeting your glutes and hamstrings. **Chef Meg's Tapenade, Tomato, and Feta Stuffed Chicken**  
 Submitted By: **CHEF\_MEG**
 
-This is THE most popular recipe on SparkRecipes. We've added more vegetables and reduced the sodium drastically to make it even better. Full Recipe
+Make this chicken the next you have company for dinner, and they'll swear you hired caterers. It tastes like it came from a restaurant, but for much less money and effort.  
+  
+Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
