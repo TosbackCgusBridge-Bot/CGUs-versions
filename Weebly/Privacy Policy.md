@@ -7,6 +7,9 @@ Home Features Themes Blog About Us English
 *   Português
 *   Nederlands
 *   中文
+*   日本語
+*   Türkçe
+*   Pусский
 
 Sign up Login Privacy Policy  
   
@@ -132,7 +135,7 @@ Weebly, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy
   
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@weebly.com. If you are not satisfied with our response you can contact TRUSTe here.
 
-**Last updated on November 8th 2012.**
+**Last updated on November 9th 2012.**
 
   Weebly
 
@@ -173,3 +176,6 @@ Languages
 *   Português
 *   Nederlands
 *   中文
+*   日本語
+*   Türkçe
+*   Pусский
