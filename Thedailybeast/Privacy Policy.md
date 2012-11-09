@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  How the GOP Got Stuck in the Past
-2.  6 Absurd Excuses for Mitt’s Defeat
-3.  Obama’s Next Inner Circle
-4.  The War on Women Backfires
-5.  R.I.P. Romney
+1.  World on a Page
+2.  How the GOP Got Stuck in the Past
+3.  Florida’s Messy Democracy
+4.  Obama’s Next Inner Circle
+5.  The Best (and Gayest) Bond Yet?
 
   Other News Entertainment
 
-*   Life in Pictures: Demi Moore
-*   Stars Attend the 2012 Victoria's Secret Fashion Show
-*   50 Stars Turning 50
+*   Will They Wed?
+*   Week in Photos for Nov. 9, 2012
+*   Celeb Double Daters
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
-*   Taylor Swift unveils new photo book — EXCLUSIVE PHOTOS
-*   Got a spare two hours? Why not watch every James Bond movie as a single James Bond movie?
+*   ‘Disney Epic Mickey 2: The Power of Two’: Welcome to Autotopia — EXCLUSIVE IMAGES
+*   Lindsay Lohan pulls out of Barbara Walters interview — Maybe for the best?
+*   Favorite and least favorite James Bond movies: The EW Staff speaks!
 *   **Get More from EW.com**
 
 Entertainment
 
-*   How Bioethicists Want Doctors to Approach LGBT Patients Differently
-*   Mr. MFN eXquire's Struggle To Stay Weird
-*   Awesome Dad Reprograms Zelda So His Daughter Can Identify With Link
+*   Micromanagers Beware: How To Go Pro As A Basketball Coach
+*   A Different Kind Of Instagram Account
+*   The Obama Campaign Won't Go Away
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Ashley Judd Won't Rule Out Senate Bid
-*   George P. Bush Initiates Bid for Office
-*   Republicans Drop Efforts to Repeal Obamacare
+*   Obama's Pursuit of Greatness
+*   Petraeus Resigns Over Extramarital Affair
+*   Energy Company CEO Blames Layoffs on Obama
 *   **Get More from Political Wire**
 
 The Daily Beast
