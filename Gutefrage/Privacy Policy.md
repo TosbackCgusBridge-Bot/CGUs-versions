@@ -203,74 +203,74 @@ Registrieren Login
 9.  Tattoo
 10.  Zähne
 
-Top-50 Themen Thema Anzahl Apple 85398 Arbeit 65527 Ausbildung 50897 Auto 91825 Beauty 70059 Beruf 78122 Beziehung 72989 Computer 542428 Computerspiele 65432 deutsch 67727 Englisch 52651 Ernährung 51117 essen 71761 Facebook 78556 Fernsehen 60684 Film 101198 Finanzen 59323 Freizeit 265771 Fußball 51517 Games 126612 Geld 94482 Gesundheit 207401 Haare 83735 Handy 207890 Hilfe 151057 Internet 325148 iPhone 76507 Kinder 51244 Körper 50873 Laptop 74433 Liebe 167824 Lied 55102 Mädchen 57169 Medizin 63243 Minecraft 69125 Musik 283203 PC 285596 PC-Spiele 49305 Problem 56146 PS3 61202 Recht 95962 Schule 238327 Software 57480 Spiele 138706 Sport 111952 Technik 121756 Tiere 65339 TV 54824 Video 53222 Youtube 84497 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
 1.  RudolfHansen
     
     Punkte:
     
-    1200
+    2110
     
     Level:
     
     RudolfHansen
     
-2.  asklady
+2.  Pech1
     
     Punkte:
     
-    664
+    1398
     
     Level:
     
-    asklady
+    Pech1
     
 3.  Bluebird555
     
     Punkte:
     
-    553
+    1368
     
     Level:
     
     Bluebird555
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.454.616 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.459.966 gute Fragen_
 
-*   31 Wozu dient der Zahlen- und Buchstabensalat?
-*   29 Lieder die Trost spenden und Kraft geben in schweren Stunden?
-*   12 Ich bin "Hässlich" - Mensch zweiter Klasse?
+*   49 Wozu dient der Zahlen- und Buchstabensalat?
+*   48 Ich bin "Hässlich" - Mensch zweiter Klasse?
+*   44 Lieder die Trost spenden und Kraft geben in schweren Stunden?
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Hilfe ich bin verliebt ! Was soll ich tun?
 *   Eiweißshake selber machen
 
-*   How-To Windows 8: Normale Programme deinstallieren
 *   Mamas Rezept für Nutella-Kuchen
+*   How-To Windows 8: Normale Programme deinstallieren
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-1.999.542
+2.000.565
 
 Anzahl der Fragen
 
-8.454.051
+8.458.259
 
 Anzahl der Antworten
 
-36.598.727
+36.612.309
 
 Anzahl der Tipps
 
-75.919
+75.953
 
 Anzahl der Videos
 
-4.820
+4.825
 
 Blog
 
