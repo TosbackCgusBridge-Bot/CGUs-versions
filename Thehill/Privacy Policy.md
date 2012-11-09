@@ -212,21 +212,21 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Boehner pivots on taxes after Obama winConservatives lambast Romney, vow to take over Republican PartyHealth group asks Obama to stop eating junk food in public Victims to address Giffords’s shooter at sentencing hearing25 problems facing Obama, Congress
+Health group asks Obama to stop eating junk food in public Boehner 'confident' GOP, Obama can reach deal on immigration reformChristie calls Obama to congratulate, emails Romney condolencesCongress expected to ignore Puerto Rico's vote for statehoodRomney adviser concedes Florida vote to Obama
 
 Emailed
 
-Reid soars, Warren shines25 problems facing Obama, CongressUS helps advance UN arms treatyConservatives lambast Romney, vow to take over Republican PartyWall St. ready to reconcile with Obama
+Congress expected to ignore Puerto Rico's vote for statehoodUS helps advance UN arms treatyConservatives lambast Romney, vow to take over Republican PartyBoehner 'confident' GOP, Obama can reach deal on immigration reformWall St. ready to reconcile with Obama
 
 Discussed
 
-Opinion: Here comes the landslideGOP senators: Thousands of ballots unlikely to reach military voters in timeObama wins a second term, calls for national unity in victory speechSen. Graham: Obama move on defense layoff notices 'patently illegal'Actor Bill Murray to CNBC: 'I think we ought to be personally responsible'
+Opinion: Here comes the landslideObama's 'revenge' remark reverberates on presidential campaign trailGOP senators: Thousands of ballots unlikely to reach military voters in timeObama wins a second term, calls for national unity in victory speechMore bad news for Mitt Romney
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Romney adviser concedes Florida vote to Obama
-*   Rep. Hansen Clarke's office burglarized
-*   Giffords confronts her shooter in court: 'Done thinking about you'
+*   MORNING READ
+*   Boehner 'confident' GOP, Obama can reach deal on immigration reform
+*   Obama to speak on 'fiscal cliff'
 
   
 More Briefing Room » Congress Blog
@@ -245,51 +245,51 @@ More Congress Blog » Pundits Blog
   
 More Pundits Blog » Twitter Room
 
+*   Twitter wins Election Night
 *   Axelrod suggests a charity for Trump's $5 million offer
 *   Nate Silver becomes social media sensation
-*   Huntsman to GOP: 'Put country first'
 
   
 More Twitter Room » Hillicon Valley
 
+*   News bites: Priceline to buy Kayak for $1.8 billlion
+*   Data drove Obama’s ground game
 *   AT&T backs down from FaceTime restriction following net-neutrality complaints
-*   Data collectors admit to lawmakers they mine Facebook for personal information
-*   DOJ's antitrust chief to step down
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
+*   SEC nixes Big Oil, US Chamber push to delay disclosure rule
+*   News bites: Gas rationing in New York, gloomy climate forecast, and more
 *   Wind tax credit backers ramp up campaign to greet Congress
-*   Oil-and-gas lobby says despite losses, election not a referendum on industry
-*   Energy lobbyist: Keystone an ‘early test’ of Obama's pro-oil stance
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Graham: Immigration reform must be dealt with 'once and for all'
-*   Rep. Barber trailing in race for Giffords's seat
-*   Rubio headed to Iowa
+*   Senate, House Dems face tough election fundamentals in 2014
+*   Report: NRA shoots blanks this election
+*   Florida Democratic Party calls for voting reform
 
   
 More Ballot Box » On The Money
 
-*   CBO lays out fiscal cliff costs
+*   News bites: Topsy-turvy taxes
+*   CBO lays out 'fiscal cliff' costs
 *   Liberals outline fiscal cliff demands for taxes, spending
-*   Mortgage rates hover around record lows
 
   
 More On The Money » Healthwatch
 
-*   Health group asks Obama to stop eating junk food in public
-*   CBO: GOP bill revising health law ratio will add to deficit
-*   News bites: Here to stay
+*   Boehner: 'ObamaCare is the law of the land'
+*   CBO: Federal healthcare costs skyrocketing
+*   Analysis: Planned Parenthood saw near perfect return on election spending
 
   
 More Healthwatch » Floor Action
 
+*   House members announce study on impact of DC building height restrictions
 *   After Maryland referendums pass, Cardin says Congress should act on DOMA, DREAM Act
 *   Rep. King promises to push balanced-budget amendment next year
-*   Grassley tells federal courts to cut conference spending before jobs
 
   
 More Floor Action » Transportation
@@ -301,16 +301,16 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
+*   Pentagon insiders seen as most likely successors for Panetta at DoD
+*   US issues new round of economic sanctions on Iran
 *   DOD confirms Iranian attack on US drone
-*   Rivalries form for vacant Armed Services subcommittee chairs
-*   Ahmadinejad: Countries stockpiling nuclear weapons ‘mentally retarded’
 
   
 More DEFCON Hill » Global Affairs
 
+*   Rep. Berman rumored for secretary of State job after losing California seat
 *   Dem Reps. Sherman, Engel will seek Foreign Affairs leadership post
 *   Netanyahu denies rooting for Romney, as critics fear weakened US-Israel ties
-*   White House confirms Obama to be first US president to visit Burma, Cambodia
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Seizing the moment Brent Budowsky Reid soars, Warren shines More Columnists »
