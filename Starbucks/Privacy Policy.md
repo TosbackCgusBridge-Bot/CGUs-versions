@@ -221,7 +221,11 @@ Navigation
     
     Add this special Braille Starbucks Card to your collection.
     
-6.  1.  Coffee
+6.  1.  Buy a Card
+        
+        1.  Give a Card
+        2.  Corporate Buying
+    2.  Coffee
         
         1.  Blonde Roast Coffee
         2.  Medium Roast Coffee
@@ -231,7 +235,7 @@ Navigation
         6.  Starbucks® K-Cup® Packs
         7.  Subscriptions
         8.  For Business
-    2.  Tazo® Tea
+    3.  Tazo® Tea
         
         1.  Black Teas
         2.  Chai Teas
@@ -241,23 +245,19 @@ Navigation
         6.  Herbal Infusions
         7.  Subscriptions
         8.  For Business
-    3.  Brewing Equipment
+    4.  Brewing Equipment
         
         1.  Coffee Presses
         2.  Coffeemakers
         3.  Espresso Machines
         4.  Grinders
         5.  Teapots &. Tea Kettles
-    4.  Verismo™
+    5.  Verismo™
         
         1.  Verismo™ Machines
         2.  Verismo™ Pods
         3.  Registration
         4.  Subscriptions
-    5.  Buy a Card
-        
-        1.  Give a Card
-        2.  Corporate Buying
     6.  Merchandise
         
         1.  Apparel
@@ -432,7 +432,7 @@ Search Online Policies
 
 Change Region
 
-© 2011 Starbucks Corporation. All rights reserved.
+© 2012 Starbucks Corporation. All rights reserved.
 
 *   .Responsibility
 *   .Web Accessibility
