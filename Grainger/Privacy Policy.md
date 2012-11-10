@@ -22,9 +22,10 @@ Skip to: Content, Skip to: Main Content, Skip to: Footer
     *   Furniture, Hospitality and Food Service
     *   HVAC and Refrigeration
     *   Hand Tools
-    
     *   Hardware
+    
     *   Hydraulics
+    *   Lab Supplies
     *   Lighting
     *   Lubrication
     *   Machining
@@ -211,7 +212,11 @@ and password?**  **How do I place
 an order?**  **Where is my order?**  **How do I place a  
 Will Call order online?** **Customer Service, 24/7** ** Questions on ordering,  products or Repair Parts:**    Call 800-323-0620  
    Contact your local branch ** Help with Grainger.com:**    Call 888-361-8649  
-   E-mail us Email Sign Up
+   E-mail us
+
+*   Questions? Call us **1-888-361-8649**
+
+Email Sign Up
 
 *   Get industry news,  
     new product information,  
@@ -219,4 +224,4 @@ Will Call order online?** **Customer Service, 24/7** ** Questions on ordering, 
 
 *   **Connect With Us**
 
-Home  |   Terms of Access  |  Terms of Sale  |  Return Policy  |  Privacy Policy   (Rev. December, 2011)  |  Sitemap © 1994 - 2012 W.W. Grainger, Inc. All rights reserved. false false 0 false -28008
+Home  |   Terms of Access  |  Terms of Sale  |  Return Policy  |  Privacy Policy   (Rev. December, 2011)  |  Sitemap © 1994 - 2012 W.W. Grainger, Inc. All rights reserved. false false 0 false -1313
