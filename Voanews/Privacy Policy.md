@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Iran Confirms Attack on US Drone
-*   Tibetan Protests Erupt in W. China
+*   Petraeus Resigns
+*   UN: Syria 'Dramatically Deteriorating'
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
