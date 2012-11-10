@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Nov 9, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Nov 10, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -233,7 +233,9 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   AgDay Daily Recap -November 9, 2012
+*   Program Information for November 10-11, 2012
+*   Soybean Yields Jump, Sending Market Spiraling Down
+*   Farmers Feeding the World Co-Hosts Hunger and Agriculture Briefing
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
