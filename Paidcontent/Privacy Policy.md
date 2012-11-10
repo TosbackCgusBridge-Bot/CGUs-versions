@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Online viewers start leaving if video doesn’t play in 2 seconds, says study
+When does shaming racist kids turn into online bullying?
 
 Stay on top of tech news in your inbox
 
