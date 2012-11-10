@@ -13,7 +13,7 @@ Children's Miracle Ne... View Leaderboard >.
 *   1
 *   C.Beljan
 *   \-12
-*   17
+*   F
 
 *   T2
 *   M.Anderson
@@ -281,15 +281,15 @@ Prev Next
 *   Jim Flick
 *   Tianlang Guan
 *   PGA Tour
-*   Children's Miracle Network Hospitals Classic
+*   The Barclays
+*   Phil Mickelson
 *   Magnolia Golf Club
-*   Tiger Woods
-*   Rory McIlroy
-*   Tommy Gainey
-*   Masters Tournament
-*   Charlie Wi
-*   Camilo Villegas
+*   Children's Miracle Network Hospitals Classic
+*   Scottish Open
+*   Barclays Singapore Open
 *   Davis Love III
+*   Ernie Els
+*   Ryder Cup
 
 **Privacy Policy**
 
@@ -530,7 +530,7 @@ Golf Channel Mobile offers instant access to scores, the latest news and video, 
 *   Android
 *   Amazon
 
-Social 234,821 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
+Social 234,846 facebook.com/GolfChannel @GolfChannel twitter.com/GolfChannel Newsletter
 
 Stay up to date with the Golf Channel Newsletter.
 
