@@ -402,19 +402,19 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Sale &. Offers
     
+    *   Favorite Fall Food Promotion
+    *   Thanksgiving Turkey &. Sides Promotion
     *   Sale
     
     Learn More
     
     *   Guide to Grains
     
-    TOP-RATED
+    2 DAYS ONLY
     
-    Our signature confection has been a customer favorite for more than a decade.
+    Save 20% on Favorite Fall Foods through 11/11/12.
     
-    Buy Now 
-    
-    Shop Top-Rated Food 
+    Shop Now 
     
 *   Tabletop &. Bar Shop by Category
     
