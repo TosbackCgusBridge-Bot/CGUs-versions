@@ -111,46 +111,46 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/09/2012 4:16 PM ET
+Updated: 11/10/2012 7:01 AM ET
+
+1.  1 Oliver Stone: 'I find Obama scary'
+2.  2 Christie: Talks to Obama, emails Mitt
+3.  3 Pelosi mum about future
+4.  4 A long fall for Gen. Petraeus
+5.  5 Romney's ORCA program couldn't stay afloat
+6.  6 Critics question Petraeus's timing
+7.  7 Rep. Bono Mack loses Calif. seat
+8.  8 Citing affair, Petraeus resigns as CIA director
+9.  9 Frum: Republicans lied to by 'conservative entertainment complex'
+10.  10 Romney's fail whale: ORCA the vote-tracker left team 'flying blind' (Updated)
+
+Updated: 11/10/2012 7:01 AM ET
+
+1.  1 Oliver Stone: 'I find Obama scary'
+2.  2 Citing affair, Petraeus resigns as CIA director
+3.  3 Christie: Talks to Obama, emails Mitt
+4.  4 Rove: Obama won 'by suppressing the vote'
+5.  5 Romney's fail whale: ORCA the vote-tracker left team 'flying blind' (Updated)
+6.  6 Frum: Republicans lied to by 'conservative entertainment complex'
+7.  7 Pelosi mum about future
+8.  8 Critics question Petraeus's timing
+9.  9 Hannity: I've 'evolved' on immigration and support a 'pathway to citizenship'
+10.  10 Hank Williams Jr. upset about Obama win
+
+Updated: 11/10/2012 7:01 AM ET
 
 1.  1 Oliver Stone: 'I find Obama scary'
 2.  2 Rove: Obama won 'by suppressing the vote'
-3.  3 Romney's fail whale: ORCA the vote-tracker left team 'flying blind' (Updated)
-4.  4 Frum: Republicans lied to by 'conservative entertainment complex'
-5.  5 Citing affair, Petraeus resigns
-6.  6 Hannity: I've 'evolved' on immigration and support a 'pathway to citizenship'
-7.  7 Obama cries as he thanks campaign staff
-8.  8 Hank Williams Jr. upset about Obama win
-9.  9 Exclusive: Clinton would dominate 2016 Iowa caucuses, PPP shows
-10.  10 Christie: Talks to Obama, emails Mitt
+3.  3 Citing affair, Petraeus resigns as CIA director
+4.  4 Christie: Talks to Obama, emails Mitt
+5.  5 Hannity: I've 'evolved' on immigration and support a 'pathway to citizenship'
+6.  6 Hannity: 'America now deserves Obama'
+7.  7 Romney's fail whale: ORCA the vote-tracker left team 'flying blind' (Updated)
+8.  8 Exclusive: Clinton would dominate 2016 Iowa caucuses, PPP shows
+9.  9 Frum: Republicans lied to by 'conservative entertainment complex'
+10.  10 MSNBC weighs in on Karl Rove
 
-Updated: 11/09/2012 4:16 PM ET
-
-1.  1 Rove: Obama won 'by suppressing the vote'
-2.  2 Hannity: 'America now deserves Obama'
-3.  3 Hannity: I've 'evolved' on immigration and support a 'pathway to citizenship'
-4.  4 MSNBC weighs in on Karl Rove
-5.  5 Exclusive: Clinton would dominate 2016 Iowa caucuses, PPP shows
-6.  6 Oliver Stone: 'I find Obama scary'
-7.  7 Rush Limbaugh: 'Conservatism did not lose'
-8.  8 Romney's fail whale: ORCA the vote-tracker left team 'flying blind' (Updated)
-9.  9 Rove: Obama suppressed the vote, encouraged Romney backers not to vote
-10.  10 Obama cries as he thanks campaign staff
-
-Updated: 11/09/2012 4:16 PM ET
-
-1.  1 Rove: Obama won 'by suppressing the vote'
-2.  2 MSNBC weighs in on Karl Rove
-3.  3 Karl Rove: Fox News Ohio call 'premature'
-4.  4 Bill O'Reilly: 'The white establishment is now the minority'
-5.  5 Gary Johnson: Obama will win
-6.  6 Rush Limbaugh: 'Conservatism did not lose'
-7.  7 Obama calls Clinton (Updated)
-8.  8 Christie lashes 'know-nothing, disgruntled' Romney aides
-9.  9 Allen West: It ain’t over til it’s over
-10.  10 Hannity: 'America now deserves Obama'
-
-Updated: 11/09/2012 4:16 PM ET
+Updated: 11/10/2012 7:01 AM ET
 
 1.  1 Axelrod: 'They're in deep trouble'
 2.  2 Early election results, via NBC
@@ -159,7 +159,7 @@ Updated: 11/09/2012 4:16 PM ET
 5.  5 Former Hillary aide backs Romney
 6.  6 Dems' drive to retake House falters
 7.  7 Christie was Mitt's VP first choice
-8.  8 Obama early vote edge tenuous
+8.  8 Oliver Stone: 'I find Obama scary'
 9.  9 AFF poll: Minnesota a toss-up
 10.  10 The looming GOP civil war
 
@@ -168,72 +168,66 @@ Updated: 11/09/2012 4:16 PM ET
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/09/2012 4:16 PM ET
+Updated: 11/10/2012 7:01 AM ET
 
-1.  1 Pelosi mum about future
-2.  2 Citing affair, Petraeus resigns
-3.  3 Oliver Stone: 'I find Obama scary'
-4.  4 10 facts about George P. Bush
-5.  5 Obama: Ball's in my court on fiscal cliff
-6.  6 Communication lessons from election
-7.  7 Report: Rep. Jackson in plea talks
-8.  8 Price gets support for leadership job
-9.  9 Sosnik: Obama followed Bush path
-10.  10 Conde Nast cites political whiz kid
+1.  1 Rep. Bono Mack loses Calif. seat
+2.  2 McKenna concedes Wash. gov race
+3.  3 A long fall for Gen. Petraeus
+4.  4 Incoming Lockheed CEO steps down
 
-Updated: 11/09/2012 4:16 PM ET
+Updated: 11/10/2012 7:01 AM ET
 
-1.  1 Pelosi mum about future
-2.  2 Citing affair, Petraeus resigns
-3.  3 Oliver Stone: 'I find Obama scary'
-4.  4 10 facts about George P. Bush
-5.  5 Obama: Ball's in my court on fiscal cliff
-6.  6 Communication lessons from election
-7.  7 Report: Rep. Jackson in plea talks
-8.  8 Price gets support for leadership job
-9.  9 Sosnik: Obama followed Bush path
-10.  10 Conde Nast cites political whiz kid
+1.  1 Rep. Bono Mack loses Calif. seat
+2.  2 McKenna concedes Wash. gov race
+3.  3 A long fall for Gen. Petraeus
+4.  4 Incoming Lockheed CEO steps down
+5.  5 Barber inches ahead in uncalled race
+6.  6 Critics question Petraeus's timing
+7.  7 Romney's ORCA program couldn't stay afloat
+8.  8 6 possible post-David Petraeus CIA picks
+9.  9 SCOTUS will hear voting rights case
+10.  10 Morell to testify on Benghazi
 
-Updated: 11/09/2012 4:16 PM ET
+Updated: 11/10/2012 7:01 AM ET
 
-1.  1 Pelosi mum about future
-2.  2 Citing affair, Petraeus resigns
-3.  3 Oliver Stone: 'I find Obama scary'
-4.  4 10 facts about George P. Bush
-5.  5 Obama: Ball's in my court on fiscal cliff
-6.  6 Communication lessons from election
-7.  7 Report: Rep. Jackson in plea talks
-8.  8 Price gets support for leadership job
-9.  9 Sosnik: Obama followed Bush path
-10.  10 Conde Nast cites political whiz kid
+1.  1 Rep. Bono Mack loses Calif. seat
+2.  2 McKenna concedes Wash. gov race
+3.  3 A long fall for Gen. Petraeus
+4.  4 Incoming Lockheed CEO steps down
+5.  5 Barber inches ahead in uncalled race
+6.  6 Critics question Petraeus's timing
+7.  7 Romney's ORCA program couldn't stay afloat
+8.  8 6 possible post-David Petraeus CIA picks
+9.  9 SCOTUS will hear voting rights case
+10.  10 Morell to testify on Benghazi
 
-Updated: 11/09/2012 4:16 PM ET
+Updated: 11/10/2012 7:01 AM ET
 
-1.  1 Pelosi mum about future
-2.  2 Citing affair, Petraeus resigns
-3.  3 Oliver Stone: 'I find Obama scary'
-4.  4 10 facts about George P. Bush
-5.  5 Obama: Ball's in my court on fiscal cliff
-6.  6 Communication lessons from election
-7.  7 Report: Rep. Jackson in plea talks
-8.  8 Price gets support for leadership job
-9.  9 Sosnik: Obama followed Bush path
-10.  10 Conde Nast cites political whiz kid
+1.  1 Rep. Bono Mack loses Calif. seat
+2.  2 McKenna concedes Wash. gov race
+3.  3 A long fall for Gen. Petraeus
+4.  4 Incoming Lockheed CEO steps down
+5.  5 Barber inches ahead in uncalled race
+6.  6 Critics question Petraeus's timing
+7.  7 Romney's ORCA program couldn't stay afloat
+8.  8 6 possible post-David Petraeus CIA picks
+9.  9 SCOTUS will hear voting rights case
+10.  10 Morell to testify on Benghazi
 
 Showing Last 7 Days
 
-Updated: 11/09/2012 4:16 PM ET
+Updated: 11/10/2012 7:01 AM ET
 
-1.  1 Can Rubio save GOP on immigration?
-2.  2 Republicans ponder way forward
-3.  3 GOP soul-searching: 'Too old, too white, too male'?
-4.  4 Four more for 44
-5.  5 Why 2012 turned small
-6.  6 If Obama loses…
-7.  7 The looming GOP civil war
-8.  8 Obama, not-so-happy warrior
-9.  9 Christie was Mitt's VP first choice
-10.  10 Obama early vote edge tenuous
+1.  1 How Obama, Boehner could get revenue
+2.  2 Can Rubio save GOP on immigration?
+3.  3 Republicans ponder way forward
+4.  4 GOP soul-searching: 'Too old, too white, too male'?
+5.  5 Four more for 44
+6.  6 Why 2012 turned small
+7.  7 If Obama loses…
+8.  8 The looming GOP civil war
+9.  9 Obama, not-so-happy warrior
+10.  10 Christie was Mitt's VP first choice
 
 News
 
