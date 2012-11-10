@@ -14,7 +14,7 @@ Groupon: Collective Buying Power
 *   Sign In
 *   Sign Up
 
-Privacy Statement PRIVACY STATEMENT Last Updated: September 13, 2012
+Grouponicus is the holiday that celebrates giving! Check out the deals I’ll be dropping off in an oven near you this Grouponicus season. Privacy Statement PRIVACY STATEMENT Last Updated: September 13, 2012
 
 This Privacy Statement (“**Privacy Statement**”) explains how Groupon, Inc. (“**Groupon**,” “**us**,” “**our**,” and “**we**”) uses your information and applies to all who use our Web site, mobile applications, electronic services, social networking sites, or any individual, business partner-specific, merchant-specific, city-specific, or other area-specific Web sites we offer that link to or reference this Privacy Statement (collectively, the “**Site**”) and when you receive electronic communications from us.
 
@@ -303,6 +303,8 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
     Groupon Referral Widget
     
     Help Your Community
+    
+    Merchant Terms &. Conditions
     
 *   More...
     
