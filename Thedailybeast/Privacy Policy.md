@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  World on a Page
-2.  How the GOP Got Stuck in the Past
-3.  Florida’s Messy Democracy
-4.  Obama’s Next Inner Circle
-5.  The Best (and Gayest) Bond Yet?
+1.  Meet Paula Broadwell
+2.  Petraeus’s Rules for Living
+3.  Thank You, GOP!
+4.  Is the Cult of Karl Over?
+5.  Petraeus Quits and Questions Mount
 
   Other News Entertainment
 
-*   Will They Wed?
-*   Week in Photos for Nov. 9, 2012
-*   Celeb Double Daters
+*   Hairdos and Don'ts: Anne Hathaway Edition
+*   Victoria's other secret: Justin Bieber may want to be touched by an angel
+*   Halle Berry reportedly loses battle to move daughter to France
 *   **Get More from Wonderwall**
 
 Entertainment
 
+*   The 4 most ridiculous quotes from David Hasselhoff’s latest interview
 *   ‘Disney Epic Mickey 2: The Power of Two’: Welcome to Autotopia — EXCLUSIVE IMAGES
 *   Lindsay Lohan pulls out of Barbara Walters interview — Maybe for the best?
-*   Favorite and least favorite James Bond movies: The EW Staff speaks!
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Micromanagers Beware: How To Go Pro As A Basketball Coach
-*   A Different Kind Of Instagram Account
-*   The Obama Campaign Won't Go Away
+*   Conservative Republican Rejects Boehner Compromise Offer In Leadership Bid
+*   Kylie Minogue Puts A New Spin On Her Old Hits
+*   Messina: Obama Won On The Small Stuff
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Obama's Pursuit of Greatness
+*   Romney Voter Targeting System a Total Bust
+*   Coolidge
 *   Petraeus Resigns Over Extramarital Affair
-*   Energy Company CEO Blames Layoffs on Obama
 *   **Get More from Political Wire**
 
 The Daily Beast
