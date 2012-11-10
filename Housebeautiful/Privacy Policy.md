@@ -18,7 +18,7 @@ Sponsored Links advertisement Decorating &. Ideas
 More Decorating &. Ideas Kitchens &. Entertaining
 
 *   Pesto Cheese Straws
-*   Sweet Potato, Apple, and Cranb...
+*   Carla Hall's Dessert Potpie
 *   American Whiskey Punch
 
 More Kitchens &. Entertaining Photo Galleries
@@ -54,7 +54,7 @@ More What's New Featured
 More Featured Recipes
 
 *   Pesto Cheese Straws
-*   Sweet Potato, Apple, and Cranb...
+*   Carla Hall's Dessert Potpie
 *   American Whiskey Punch
 
 More Recipes
