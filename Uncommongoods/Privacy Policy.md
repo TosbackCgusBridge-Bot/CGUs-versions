@@ -91,6 +91,7 @@
 *   dolan geiman
 *   james gulliver hancock
 *   jessica swift
+*   kate lewis
 *   matthew amey
 *   oliver jeffers
 *   piotr fafrowicz
