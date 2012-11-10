@@ -16,7 +16,7 @@ OverBlog Le portail de tous les blogs Connexion
     *   art
     *   Divers
     *   Voyages
-    *   PHOTOS
+    *   Photos
     *   Santé
 *   Forums
 
