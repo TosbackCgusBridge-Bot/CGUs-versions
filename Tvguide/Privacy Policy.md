@@ -71,13 +71,13 @@ Sign In Sign Out New User Sign Up Profile Management
 
 What's Hot
 
-_Grey's_ Recap
-
-Ariel Winter's Parental Drama
-
-_Voice_ Judge Accused of Sexual Battery
-
 NFL Schedule
+
+_Dancing_ Star the Next _Bachelorette_?
+
+_Voice_ Judge Accused
+
+Ariel Winter
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -137,10 +137,10 @@ more popular celebrities Most Popular Movies
 
 more popular movies Top Videos
 
-1.  The Vampire Diaries
-2.  Arrow
-3.  The Vampire Diaries
-4.  Lauren Graham's Watchlist
+1.  Arrow
+2.  The Vampire Diaries
+3.  Lauren Graham's Watchlist
+4.  The Vampire Diaries
 5.  The Vampire Diaries
 
 more top videos
