@@ -26,33 +26,33 @@ Skip Navigation
     *   Write-In Campaign for Darwin Garners the Dead Scientist 4,000 Votes
     *   Duly Noted: The Future of Note-Taking
     *   Did Facebook Give Democrats the Upper Hand?
+    *   David Petraeus Was Brought Down by ... Gmail
     *   The Wright Brothers' Famous 1903 Flying Machine Patent Is Missing
     *   Where America's Racist Tweets Come From
-    *   Apple Just Got Granted a Patent for Rounded Corners on Electronic Devices
 *   National
     *   Top Stories
     *   A Perfect New Mission for Eric Holder? Voting Rights
     *   NYC Restaurants Beat Sandy
     *   Defending the Constitution, Term 2
+    *   Residents Survive Fire and Ice in Breezy Point, Queens
+    *   The Supreme Court Will Hear a Challenge to the Voting Rights Act
     *   Sordid Casino Battle Ends, Inevitably, in Victory of Casinos
-    *   On Ballot Issues, Double-Timing the March of Progress
-    *   Is It Time for Climate Scientists to Get Political?
 *   Global
     *   Top Stories
     *   What's the Conservative Equivalent of 'Moving to Canada'?
     *   America Abroad in Obama's Second Term: Who Will Lead U.S. Diplomacy?
     *   How to Stop Reactionaries From Derailing Reform in China
+    *   Moyers, Chinese Education, China Airborne
     *   How the United States Can Maintain Its Global Edge
     *   No, America, Outside Election Monitors Aren't Beneath You
-    *   The Death of Sattar Beheshti, Dissident Blogger, in Iranian Police Custody
 *   Health
     *   Top Stories
     *   It's Not Too Early to Talk About Freezing Your Eggs
-    *   Bringing Back Meekness as a Virtue
+    *   Flowers on the Psych Ward
     *   Earlobe Creases as a Sign of Heart Disease
+    *   Bringing Back Meekness as a Virtue
     *   Study: Statins Appear to Improve Cancer Survival
     *   Stop Saying 'Drink the Kool-Aid'
-    *   No Flowers on the Psych Ward
 *   Sexes
     *   Top Stories
     *   Women Are Not a Unified Voting Bloc
@@ -88,7 +88,7 @@ Skip Navigation
 *   Video
 *   Photo
 *   Newsletters
-*   The Wright Brothers' Famous 1903 Flying Machine Patent Is MissingRebecca J. Rosen
+*   Residents Survive Fire and Ice in Breezy Point, QueensJulie Dermansky
 
 Privacy Policy
 
@@ -196,10 +196,10 @@ Washington, DC 20037
 Special Report Alex Hoyt How the Map Changed as the Polls Came In  
 A state-by state guide. And it's never too late to check out _The Atlantic_'s obsessive all-night coverage of the whole election. Read more › Writers
 
-*   Ta-Nehisi Coates How Business Expertise Translates Into Politics 4:29 PM ET
-*   Derek Thompson 2 Graphs That Should Accompany Every Discussion… 2:39 PM ET
-*   Robert Wright Food for Republican Thought from Nate Silver 2:10 PM ET
-*   James Fallows Congressional Republicans: Meet the President Who… Nov 8, 2012
+*   Ta-Nehisi Coates Uppers And The Horde Unite Like Voltron 8:00 AM ET
+*   James Fallows Moyers, Chinese Education, China Airborne 1:35 AM ET
+*   Derek Thompson 2 Graphs That Should Accompany Every Discussion… Nov 9, 2012
+*   Robert Wright Food for Republican Thought From Nate Silver Nov 9, 2012
 *   Alexis C. Madrigal The Question I Didn't Get to Ask Pinterest CEO… Nov 8, 2012
 *   Clive Crook Obama's Victory After Cyclical Adjustment Nov 7, 2012
 *   Jeffrey Goldberg 'Now I'm Going to Offer You a Hamburger' Nov 7, 2012
@@ -237,73 +237,73 @@ Most Popular
 
 1
 
-Where America's Racist Tweets Come From
+David Petraeus Was Brought Down by ... Gmail
 
 2
 
-How Conservative Media Lost to the MSM and Failed the Rank and File
+Syria in Ruins
 
 3
 
-Syria in Ruins
+How Conservative Media Lost to the MSM and Failed the Rank and File
 
 4
 
-'It Was Like A Sucker Punch'
+Hurricane Sandy: After Landfall
 
 5
 
-The GOP Must Choose: Rush Limbaugh or Minority Voters
+Where America's Racist Tweets Come From
 
 6
 
-The Fiscal Cliff Explainer: What It Is, Where It's From, Who Will Pay, and Why It Matters
+The GOP Must Choose: Rush Limbaugh or Minority Voters
 
 7
 
-Hurricane Sandy: After Landfall
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 8
 
-'Skyfall': James Bond Rises Again, Spectacularly
+The Right's Jennifer Rubin Problem: A Case Study in Info Disadvantage
 
 9
 
-Did Facebook Give Democrats the Upper Hand?
+Hurricane Sandy: The Aftermath
 
 10
 
-Obama on the Fiscal Cliff: Go Ahead, Make My Day
+The Fiscal Cliff Explainer: What It Is, Where It's From, Who Will Pay, and Why It Matters
 
 ATLANTIC MEDIA Atlantic Wire
 
+*   Lots of Groundwater Will Stay Polluted. More Work Needed on Malaria Vaccines
+*   Jimmy Kimmel's Family Members Are Apparently Fair Game
 *   Maya Civilization Changed with the Climate. What's Next For Green Legislation
-*   Mummified Iceman Was European. People Prefer Familiar-Looking Body Types
-*   CIA Director David Petraeus Resigns Over Extramarital Affair
 
 **More from Atlantic Wire**
 
 Atlantic Cities
 
+*   Balloon Flight of the Day: Across the Atlantic
 *   Will Obama Fight Colorado and Washington's New Pot Laws?
 *   Saving Seattle's Neighborhood Authenticity Through Better Buildings
-*   An App That Tries to Predict the Future of Cities
 
 **More from Atlantic Cities**
 
 Quartz
 
-*   The fiscal cliff deal shaping up between Obama and Boehner
-*   Can America solve its fiscal cliff with a carbon tax? Probably not
-*   It’s easier to get your kid into Harvard than into a London kindergarten
+*   How much would you pay to never see an online ad again?
+*   Thank goodness it’s Friday, the day no one will ever read about this story, ever
+*   Lessons from IBM’s near-implosion in the mid-1990s
 
 **More from Quartz**
 
 National Journal
 
-*   Media Rules for Covering New Member Orientation
-*   Caption This: Sen. Jeanne Shaheen and the Pats' Vince Wilfork
-*   The Art of the Friday News-Dump
+*   2 Mandatory Graphs for Pairing With GOP Demographic Analyses
+*   Next Trillion-Dollar Stimulus? It'll Be Immigration Reform
+*   Kubasik Out at Lockheed Martin. Hewson to Become Next CEO
 
 **More from National Journal**
 
