@@ -134,15 +134,14 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day Mattress City: $50 for $200 off of Sale Price of any Simmons Beautyrest $50 Value: Discount: You Save: $200 75% $150
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day This Week's Best Deals Will Keep Cash in Your Pocket! $0 Value: Discount: You Save: $0 100% $0
 
-Friday: Five things to do
+Saturday: CVS, Walgreens Deals Walgreens
 
-*   Airplane Craft
-*   Holiday Ornament
-*   LEGO Nameplate Building Event
-*   Time Warner Cable STEMfest
-*   Kids Fun Fest – Red Panda Day
+*   Schick Disposable Razors - $6.99
+*   Soft Scrub Cleaner (24 or 25.4 oz) - $2.49
+*   Pro-Health Dental Care - $2.99
+*   more...
 
 1.  FIELD TECHNICIAN
     
@@ -154,13 +153,13 @@ Friday: Five things to do
     
     Robert's Dairy
     
-4.  PLUMBER/DRAIN CLEANER
+4.  Press &. Lamination Operators
     
-    Snake'n'Rooter
+5.  PROGRAM DIRECTOR
     
-5.  Press &. Lamination Operators
+6.  Parts Project Coordinator
     
-6.  Apartment Maintenance Helper
+    Central Power Systems &. Services, Inc.
     
 
 View More The Most
@@ -168,16 +167,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   Man dies in late night crash into rock wall in Kansas City
-*   Excelsior Springs man dies in crash while trying to avoid deer
 *   St. Louis County police to go undercover on pizza deliveries
-*   Royals trade Jeffress to Toronto and Hottovy to Texas
-*   Clinton, Geithner among those expected to leave cabinet
-*   Man found dead in KCK lake is identified
-*   Steelers know that Chiefs game is huge for Haley
-*   KC's Tate Stevens top vote-getter on 'X Factor'
-*   K-State gives Pease a chance at running back
-*   Crennel: Turnovers will send Chiefs to the bench
+*   A Missouri mystery: Timber wolf or coyote?
+*   Wichita man is found guilty of raping two KCK girls
+*   Don’t expect KU-MU game if Big 12, SEC agree to hoops challenge
+*   Excerpt: Pioli and Peterson's first four years with Chiefs
+*   Dallas Mavericks dancers: New uniforms too skimpy? (poll)
+*   KU struggles with shooting, but eases past Southeast Missouri State
+*   Substitute teacher is accused of threatening student with knife
+*   ICE arrests 16 illegal immigrants in Kansas sweep
+*   Royals sign two former Atlanta minor-leaguers, confirm Piña signing
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
