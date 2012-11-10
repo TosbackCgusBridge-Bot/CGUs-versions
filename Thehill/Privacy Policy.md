@@ -212,28 +212,28 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Dear Matt Drudge: Stop the race storiesInterior proposal would block oil shale development on federal lands in WestObama says deficit plan must include higher taxes for wealthyHealth group asks Obama to stop eating junk food in public Data drove Obama’s ground game
+Interior proposal would limit commercial oil shale development on federal landsDear Matt Drudge: Stop the race storiesGallup: 2012 election had the largest gender gap in recorded historyObama says deficit plan must include higher taxes for wealthyWar opens inside Republican Party over immigration
 
 Emailed
 
-Interior proposal would block oil shale development on federal lands in WestCongress expected to ignore Puerto Rico's vote for statehoodDear Matt Drudge: Stop the race storiesBoehner 'confident' GOP, Obama can reach deal on immigration reformCBO lays out 'fiscal cliff' costs
+Interior proposal would limit commercial oil shale development on federal landsDear Matt Drudge: Stop the race storiesCongress expected to ignore Puerto Rico's vote for statehoodData drove Obama’s ground gameGallup: 2012 election had the largest gender gap in recorded history
 
 Discussed
 
-Dear Matt Drudge: Stop the race storiesOpinion: Here comes the landslideObama's 'revenge' remark reverberates on presidential campaign trailGOP senators: Thousands of ballots unlikely to reach military voters in timeObama wins a second term, calls for national unity in victory speech
+Dear Matt Drudge: Stop the race storiesObama wins a second term, calls for national unity in victory speechInterior proposal would limit commercial oil shale development on federal landsObama says deficit plan must include higher taxes for wealthyGallup: 2012 election had the largest gender gap in recorded history
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
+*   Biden: 'We've got to get this economy working' before considering 2016
+*   DAY'S END ROUNDUP
 *   Supreme Court to consider rolling back minority protections in Voting Rights Act
-*   Gallup: 2012 election had the largest gender gap in recorded history
-*   President to dine with Mass. Gov. Patrick, stoking Cabinet speculation
 
   
 More Briefing Room » Congress Blog
 
+*   Mitt Romney's Latino doomsday prophesy
 *   Obama neutralized Republicans on the economy - and won
 *   Let's find agreement on new offshore access
-*   Time to listen to Rick Perry and Jeb Bush
 
   
 More Congress Blog » Pundits Blog
@@ -259,42 +259,42 @@ More Twitter Room » Hillicon Valley
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Interior proposal would block oil shale development on federal lands in West
+*   Interior proposal would limit commercial oil shale development on federal lands
 *   White House says Obama is not planning a carbon tax proposal
 *   GOP Sen.-elect Jeff Flake disavows carbon tax plan
 
   
 More E2\-Wire (Energy) » Ballot Box
 
+*   Rep. Bono Mack concedes defeat
 *   Anti-incumbent group will be back for 2014
 *   George P. Bush eyes campaign in Texas
-*   Steve King doesn't rule out 2014 Senate bid
 
   
 More Ballot Box » On The Money
 
+*   Boehner: Election a 'mandate to work together' with Dems
 *   Geithner staying at Treasury into 2013
 *   Obama says deficit plan must include higher taxes for wealthy
-*   Conrad: Tax code can be more progressive without higher rates
 
   
 More On The Money » Healthwatch
 
+*   Firm investigated amid meningitis outbreak cuts staff
 *   HHS offers states extra time on exchanges
 *   Groups to launch campaign to keep federal research funding
-*   Conservatives press the states to keep  fighting ‘ObamaCare’
 
   
 More Healthwatch » Floor Action
 
-*   Senate to hold hearings on Libyan terrorist attack, meningitis outbreak
+*   A closer look at next week…
+*   Senate to hold hearings on Libya terrorist attack, meningitis outbreak
 *   RSC chair Jordan to Obama: Send 'cliff' legislation to Congress
-*   Reid tells GOP to 'come to grips,' extend tax rates for those making less than $250K a year
 
   
 More Floor Action » Transportation
 
-*   Auto union: Obama thankful for election support
+*   Auto workers' union: Obama thankful for election support
 *   TSA ratifies contract with government employee union
 *   Mica, Boehner to talk Transportation Committee chairmanship next week
 
@@ -302,8 +302,8 @@ More Floor Action » Transportation
 More Transportation » DEFCON Hill
 
 *   Petraeus resigns as CIA chief over extramarital affair
-*   Top Senate Republican demands more Navy dollars in wake of Iran attack
-*   Report: Afghanistan seeks peace talks with Taliban
+*   Morell to testify on Libya attack in place of Petraeus
+*   Incoming Lockheed CEO resigns after ethics investigation
 
   
 More DEFCON Hill » Global Affairs
