@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
-Iran
+Sri Lanka
 
-Iran acknowledges firing at U.S. drone
+Sri Lanka's bar association wants withdrawal of gov't impeachm...
 
 China
 
-Web monitor: China takes extraordinary step of blocking Google
+China's leadership transition formally edges ahead with forwar...
 
 Politix
 
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
-  Ads by Glam
+ 
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 112,361 • Total comments across all topics: 190,641,126
+Comments made yesterday: 105,366 • Total comments across all topics: 190,695,477
 
 Copyright ©2012 Topix LLC
 
