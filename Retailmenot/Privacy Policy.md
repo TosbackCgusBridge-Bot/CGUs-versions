@@ -1,6 +1,6 @@
 RetailMeNot Score the Savings You Want™ Search for savings from your favorite stores Search!
 
-e.g. black fridaykohl'ssearstargetamazonold navyamerican eagle
+e.g. black fridaymacy'skohl'ssearscrate &. barrelthe container storewalmart
 
 *   Coupon Codes
 *   Free Shipping
