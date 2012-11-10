@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Friday 09 November 2012
+Saturday 10 November 2012
 
 *   Home
 *   News
@@ -148,7 +148,7 @@ The Government is making huge cuts to the Armed Forces in the mistaken belief th
 
 Comments
 
-Ben Affleck's Argo, review Katy Brand: Welby bodes well for women The traumas of war that haunt us still In writing about death, all life is there Advertisement
+Julie Burchill: Why I’m too cool for shul A dog’s life: Uggie's sniff-and-tell memoir The new brain drain Who will help the likes of Malala? Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
