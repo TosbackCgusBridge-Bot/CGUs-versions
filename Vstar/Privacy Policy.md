@@ -382,11 +382,6 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   Today
-    
-    The latest local election results |   Statewide results |   Coverage
-    
-
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -620,10 +615,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos On Campus: Pac 5 Playoff Preview 4 teams prepare for playoffs
+Videos On Campus: West County Playoff Preview Teams prep for Friday night games
 
-*   On Campus: Pac 5 Playoff ... Excited about casting votes Iran hostage crisis remains vivid ... On Campus: Showdown Set
-*   Chemistry professor uses pizzazz to ... Students learn what to throw ...
+*   On Campus: West County Playoff ... Releasing a hawk Excited about casting votes Iran hostage crisis remains vivid ...
+*   On Campus: Showdown Set Chemistry professor uses pizzazz to ...
 
   
 
@@ -636,24 +631,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Obama's support dropped from '08 in east county cities Published 11/8/2012 at 4:49 p.m. 65 comments
-*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 408 comments
-*   Educators relieved with passage of Proposition 30 Updated 11/7/2012 at 5:08 p.m. 120 comments
-*   18-year-old son accused of setting family's dog on fire Updated 11/9/2012 at 12:16 p.m.
-*   Authorities warn of "knock knock" burglaries in east Ventura County Updated 11/8/2012 at 2:04 p.m.
+*   18-year-old accused of setting family's basset hound on fire near Camarillo Updated 11/9/2012 at 11:01 p.m.
+*   Obama's support dropped from '08 in east county cities Published 11/8/2012 at 4:49 p.m. 82 comments
+*   CLU economists expect local income disparity to grow Published 11/9/2012 at 12:01 a.m. 45 comments
+*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 435 comments
+*   Erbe: GOP, take a hint and move to the middle Published 11/8/2012 at 3:42 p.m. 34 comments
 
-Photo Galleries Election night 2012 Ventura County's Most Wanted November… One restaurant, two cuisines in Ojai
+Photo Galleries Election night 2012 One restaurant, two cuisines in Ojai Ventura County's Most Wanted November…
 
-*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 408 comments
-*   Educators relieved with passage of Proposition 30 Updated 11/7/2012 at 5:08 p.m. 120 comments
+*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 435 comments
+*   Educators relieved with passage of Proposition 30 Updated 11/7/2012 at 5:08 p.m. 121 comments
+*   Morning chat Updated // at : 102 comments
 *   Brownley wins 26th Congressional District race over Strickland Updated 11/7/2012 at 12:52 p.m. 113 comments
-*   Morning chat Updated // at : 94 comments
-*   Obama's support dropped from '08 in east county cities Updated // at : 65 comments
+*   Obama's support dropped from '08 in east county cities Updated // at : 82 comments
 
-*   Authorities warn of "knock knock" burglaries in east Ventura County Updated 11/8/2012 at 2:04 p.m. 0 comments
 *   Shirley: Medical device tax will impact jobs and costs Updated // at : 0 comments
+*   Authorities warn of "knock knock" burglaries in east Ventura County Updated 11/8/2012 at 2:04 p.m. 0 comments
+*   18-year-old accused of setting family's basset hound on fire near Camarillo Updated 11/9/2012 at 11:01 p.m. 0 comments
 *   Oxnard school principal arrested after alleged road rage incident Updated // at : 0 comments
-*   Stonehaus to add touch of Tuscany to Westlake Village Inn Updated 10/30/2012 at 6:05 p.m. 0 comments
 *   Wal-Mart's new strategies allow access into Ventura County cities Updated // at : 67 comments
 
 Weather
@@ -662,25 +657,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 63° Fair and Breezy Wind: W 23mph Today 63° 46° Sat 02:00 AM Mostly Cloudy Showers Temp: 46° Sat 02:00 PM Partly Sunny Temp: 57° Sun 02:00 AM Mostly Clear Temp: 42°
+Currently 39° Fair Wind: Calm Today 63° 41° Sat 05:00 PM Partly Cloudy Temp: 49° Sun 05:00 AM Clear Temp: 43° Sun 05:00 PM Clear Temp: 51°
 
-Feels Like: 46°
+Feels Like: 49°
 
-Humidity: 79%
+Humidity: 83%
 
-Precip: 31%
+Precip: 6%
 
-Feels Like: 57°
+Feels Like: 36°
 
-Humidity: 70%
+Humidity: 76%
 
-Precip: 26%
+Precip: 0%
 
-Feels Like: 34°
+Feels Like: 51°
 
-Humidity: 62%
+Humidity: 66%
 
-Precip: 9%
+Precip: 0%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -711,8 +706,8 @@ Follow @vcstar 95 percent accurate\*
 
 Brian Dennert here
 
+*   Word choice
 *   Election results
-*   Election day predictions?
 
 Ingemusings
 
@@ -726,18 +721,10 @@ More bloggers Wire
 
 Calendar
 
-*   Friday Nov 9
 *   Saturday Nov 10
 *   Sunday Nov 11
+*   Monday Nov 12
 *   More BROWSE Icon
-
-*   Bags, Bling &. Bubbly Las Posas Country Club 11 a.m.
-*   "The Good Life"! The Bonaventure 3 p.m.
-*   Big Jugs and The Iron Outlaws at The Tavern The Tavern 9 p.m.
-*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
-*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
-
-More Events »
 
 *   Purrs n' Paws Holiday Boutique Balboa Middle School Cafeteria, 247 S. Hill Road, Ventura 8 a.m.
 *   Birding Field trip Ventura Wildlife Ponds 8 a.m.
@@ -755,15 +742,19 @@ More Events »
 
 More Events »
 
+*   United Parents Support Group United Parents Support Group 6 p.m.
+*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
+*   Children's Art Classes SCIART Gallery 3:30 p.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Live Friday night
-    
-    VCS Preps game of the week: Harvard-Westlake vs. Camarillo
-    
-    California State News
+*   California State News
     
     Stay up to date with what's happening across the state.
     
@@ -771,11 +762,11 @@ More Events » Features
     
     Video profiles of high school football programs.
     
-*   95 percent accurate
+    95 percent accurate
     
     Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
-    #Your Community: How You See It
+*   #Your Community: How You See It
     
     Your Instagram photos from your community.
     
@@ -783,13 +774,17 @@ More Events » Features
     
     Play our pro football picks contest for a shot at $500 and other prizes.
     
-*   Football Contest
+    Football Contest
     
     Follow Loren Ledin's picks and choose your own leaderboard.
     
-    National News
+*   National News
     
     Stay up to date with what's happening across the nation.
+    
+    Storm Shield
+    
+    A sophisticated weather radio on your iPhone and Android.
     
 
 On this site:
