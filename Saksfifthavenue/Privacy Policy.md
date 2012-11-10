@@ -1,11 +1,19 @@
 *   Saks Fifth Avenue
 
-*   SNEAK PEEK SALE: We've Taken up to 40% off  Shop Now
+*   EXTENDED SALE: We've Taken up to 40% off  Shop Now
 *   SaksFirst Triple Points + get 25,000 Bonus Points  Details
 
 CLOSE
 
 \*Triple points offer valid on approved purchases for SaksFirst members made with the Saks Fifth Avenue credit card or Saks Fifth Avenue MasterCard on saks.com and catalog orders from 11/5/12 at 12:01 AM (ET) through 11/9/12 at 11:59 PM (ET) and in Saks Fifth Avenue stores from 11/7/12 through 11/9/12. During this event, SaksFirst members will earn 2 base points plus 4 bonus points per eligible dollar spent from $1 to $4,999, 4 base points plus 8 bonus points per eligible dollar spent from $5,000 to $9,999, and 6 base points plus 12 bonus points per eligible dollar spent thereafter, based on your calendar year-to-date net purchases. Purchases of sales tax, delivery charges, beauty salon products and services, restaurants, alterations, fur storage, gratuity, repairs, at the Martin Lawrence Gallery in the Dallas Saks Fifth Avenue store, Saks Fifth Avenue OFF 5TH stores, corporate gifts, gift card purchases, Cartier, and Louis Vuitton products and services are not eligible for this points event. Select designers and leased department exclusions apply.  
+  
+\*\*To receive 25,000 bonus points offer, total spend must be at least $2500 or more in jewelry. Please allow 8-10 weeks for bonus points to be credited to your account.
+
+  
+  
+CLOSE
+
+\*Triple points offer valid on approved purchases for SaksFirst members made with the Saks Fifth Avenue credit card or Saks Fifth Avenue MasterCard on saks.com through 11/20/12 at 11:59 PM (ET) and in Saks Fifth Avenue stores through 11/20/12. During this event, SaksFirst members will earn 2 base points plus 4 bonus points per eligible dollar spent from $1 to $4,999, 4 base points plus 8 bonus points per eligible dollar spent from $5,000 to $9,999, and 6 base points plus 12 bonus points per eligible dollar spent thereafter, based on your calendar year-to-date net purchases. Purchases of sales tax, delivery charges, beauty salon products and services, restaurants, alterations, fur storage, gratuity, repairs, at The Martin Lawrence Gallery in the Dallas Saks Fifth Avenue store, Saks Fifth Avenue OFF 5TH stores, corporate gifts, gift card purchases and Cartier, and Louis Vuitton products and services are not eligible for this bonus points event. Select designers and leased department exclusions apply.  
   
 \*\*To receive 25,000 bonus points offer, total spend must be at least $2500 or more in jewelry. Please allow 8-10 weeks for bonus points to be credited to your account.
 
@@ -63,6 +71,10 @@ Click here for additional shipping and tax information.
 *   Fashion Fix
 *     ? Items  
 
+IN ORDER TO USE ALL OF THE SITE FUNCTIONALITY ON THE SAKS FIFTH AVENUE WEBSITE,  
+YOU MUST HAVE **JAVASCRIPT ENABLED** ON YOUR BROWSER.  
+For instructions to enable JavaScript, click here.  
+  
 **24/7 Customer Service:** Live Chat  •  Email  • 1.877.551.7257 Our Privacy Policy &. Our Website Terms Of Use Our Privacy Policy  •  Our Website Terms Of Use Our Privacy Policy  
 Last updated October 8, 2012.  
   
