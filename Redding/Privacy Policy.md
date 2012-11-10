@@ -176,6 +176,12 @@ Record Searchlight
 
 *   Get severe weather notifications anywhere via our new iPhone and Android app
     
+*   Frost Advisory
+    
+    IN EFFECT UNTIL NOV 10, 4:00 p.m.
+    
+    issued for Northern Sacramento Valley
+    
 
 Privacy Policy Redding.com Privacy Policy
 
@@ -270,25 +276,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Updated 11/8/2012 at 4:08 p.m. 97 comments
-*   UPDATE: Names released for two killed in fiery south Redding crash early Thursday Updated 11/9/2012 at 8:23 a.m. 29 comments
-*   UPDATED: Police use stun gun to stop 'violent, crazed' man carrying crowbar, knife Updated 11/9/2012 at 7:19 a.m. 47 comments
-*   San Francisco plans to cover cost of transgender surgeries Published 11/9/2012 at 4:00 a.m. 61 comments
-*   Charles Krauthammer: The Republicans' way forward Published 11/9/2012 at 12:00 a.m. 69 comments
+*   UPDATE: Names released for two killed in fiery south Redding crash early Thursday Updated 11/9/2012 at 8:23 a.m. 38 comments
+*   UPDATED: Police use stun gun to stop 'violent, crazed' man carrying crowbar, knife Updated 11/9/2012 at 6:17 p.m. 59 comments
+*   CIA Director Petraeus quits, cites extramarital affair Published 11/9/2012 at 12:56 p.m. 115 comments
+*   Guard shoots, kills inmate at Susanville prison Published 11/9/2012 at 3:33 p.m. 43 comments
+*   Charles Krauthammer: The Republicans' way forward Published 11/9/2012 at 12:00 a.m. 102 comments
 
-Photo Galleries NSCIF Cross Country Championships Fallis Around Town Opening night of the Redding Rodeo
+Photo Galleries NSCIF Cross Country Championships West Valley beats Lassen Fallis Around Town
 
 *   Triumphant Obama: 'We have picked ourselves up' Published 11/6/2012 at 7:24 p.m. 467 comments
-*   Larry Kay: Let's turn off fear-mongerers Published 11/8/2012 at 12:00 a.m. 130 comments
+*   Larry Kay: Let's turn off fear-mongerers Published 11/8/2012 at 12:00 a.m. 133 comments
+*   CIA Director Petraeus quits, cites extramarital affair Published 11/9/2012 at 12:56 p.m. 115 comments
+*   Charles Krauthammer: The Republicans' way forward Published 11/9/2012 at 12:00 a.m. 102 comments
 *   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
-*   Shasta County supervisors say they don't have resources to battle pot growers Published 11/7/2012 at 12:36 a.m. 100 comments
-*   Pot votes in 2 states challenge US drug war Published 11/8/2012 at 4:00 a.m. 76 comments
 
 *   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
 *   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
-*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 122 comments
 *   Wild horse, burro adoption falls short. economic factors leave trail of uncertainty Published 11/4/2012 at 6:52 p.m. 11 comments
-*   Siskiyou County Sheriff Jon Lopey says he's fighting to protect rural America Published 11/3/2012 at 7:36 p.m. 59 comments
+*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 122 comments
+*   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Published 10/31/2012 at 4:55 p.m. 65 comments
 
 Weather
 
@@ -296,25 +302,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 50° Fair Wind: Calm Today 51° 33° Sat 02:00 AM Mostly Cloudy Showers Temp: 34° Sat 02:00 PM Mostly Sunny Temp: 53° Sun 02:00 AM Cold Temp: 31°
+Currently 33° Fog/Mist Wind: Calm Today 55° 29° Sat 05:00 PM Partly Cloudy Temp: 41° Sun 05:00 AM Cold Temp: 31° Sun 05:00 PM Mostly Clear Temp: 43°
 
-Feels Like: 34°
+Feels Like: 41°
 
-Humidity: 92%
+Humidity: 65%
 
-Precip: 37%
-
-Feels Like: 53°
-
-Humidity: 47%
-
-Precip: 20%
+Precip: 5%
 
 Feels Like: 25°
 
-Humidity: 72%
+Humidity: 78%
 
-Precip: 5%
+Precip: 1%
+
+Feels Like: 40°
+
+Humidity: 71%
+
+Precip: 7%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -330,18 +336,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Friday Nov 9
 *   Saturday Nov 10
 *   Sunday Nov 11
+*   Monday Nov 12
 *   More BROWSE Icon
-
-*   First Christian Church Holiday Boutique First Christian Church 9 a.m.
-*   Veterans Memorial Hall Christmas Bazaar and Craft Fair Redding Veterans Memorial Hall 9 a.m.
-*   West Coast Biennial Art Exhibition, Competition Turtle Bay Exploration Park 9 a.m.
-*   Guitar Strings for Food See Description 2 p.m.
-*   Historical Walk, Early Bridges and Other Doings See Description 5 p.m.
-
-More Events »
 
 *   20th Annual Veterans Day Parade - Shasta Lake City See Description 6 a.m.
 *   Veterans Memorial Hall Christmas Bazaar and Craft Fair Redding Veterans Memorial Hall 8 a.m.
@@ -356,6 +354,14 @@ More Events »
 *   United Bikers of Northern California Presents The 29th Annual Toy Run Walmart - Anderson noon
 *   Acorns — A Native American Staple Horsetown-Clear Creek Preserve 1 p.m.
 *   Dinner with the Doctor Seventh-day Adventist Church 6 p.m.
+
+More Events »
+
+*   RABA Veteran's Day Fundraiser Mt. Shasta Mall 6 a.m.
+*   Pitty Party spay and neuter day Haven Humane 7:30 a.m.
+*   Veterans Appreciation Free Driver Safety Class BloodSource 9 a.m.
+*   Free Cooking Class Cow Creek Community Church 9:30 a.m.
+*   Free Cooking Class Cow Creek Community Church 6 p.m.
 
 More Events »
 
