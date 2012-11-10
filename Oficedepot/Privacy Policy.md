@@ -1,18 +1,25 @@
-Loading Results... Skip to content
+Skip to content
 
 *   Home
 *   Corporate/Government Customers
 
 *   **Shop by Catalog**
+    
     *   Order by Item #
     *   View Online Catalog
     *   Request a Catalog
+    
+    Close
+    
 *   **Store Locator** **Your Local Store:** Store Details | Need Directions? **Change Store**
+    
+    Close
+    
 
 *   Customer Service
 *   1.800­.GO.DEPOT (1.800.­463.3768) Close X
     
-    **Session:** 0000\_atvc\_-xb0iAUsx6VeW9f24  
+    **Session:** 0000GL\_cwKHzOkJWJlxGwSNESQZ  
     **Clone:** 1659q38ci
     
 
@@ -52,7 +59,7 @@ Subtotal
     *   Address Book
     *   Shopping Lists
     *   Submit Return
-    *   Reorder
+    *   ReorderClose
 *   Our Services Most Popular Categories
     
     *   Custom Printing
@@ -86,7 +93,7 @@ Subtotal
         *   Google Business Resource Center
         *   See all
     
-    All Categories
+    Close All Categories
     *   Business Resource Center
     *   Custom Printing
     *   Copy &. Print Depot
@@ -135,7 +142,7 @@ Subtotal
         *   Pens
         *   See all
     
-    All Categories
+    Close All Categories
     
     *   Meeting &. Presentation Supplies
     *   Basic Supplies
@@ -204,7 +211,7 @@ Subtotal
         *   Writing Pads
         *   See all
     
-    All Categories
+    Close All Categories
     *   Art &. Craft Papers
     *   Certificates &. Certificate Holders
     *   Computer Paper &. POS Rolls
@@ -213,7 +220,9 @@ Subtotal
     *   Notebooks &. Journals
     *   Photo &. Presentation Papers
     *   Résumé &. Business Paper
-    *   Writing Pads &. Filler PaperCurrent Offers
+    *   Writing Pads &. Filler Paper
+    
+    Current Offers
 *   Ink &. Toner
     *   Search by Cartridge or Printer
         
@@ -238,7 +247,7 @@ Subtotal
         *   Panasonic
         *   Sharp
         *   Kodak
-        *   See All Brands
+        *   See All BrandsClose
 *   Breakroom Most Popular Categories
     
     *   Appliances
@@ -279,7 +288,7 @@ Subtotal
         *   Water
         *   See all
     
-    All Categories
+    Close All Categories
     
     *   Appliances
     *   Coffee &. Coffee Supplies
@@ -334,7 +343,7 @@ Subtotal
         *   Wastebaskets-Plastic
         *   See all
     
-    All Categories
+    Close All Categories
     
     *   Air Fresheners
     *   Cleaning Chemicals
@@ -390,7 +399,7 @@ Subtotal
         *   Laser Printers
         *   See all
     
-    All Categories
+    Close All Categories
     
     *   Audio &. Video Electronics
     *   Batteries &. Power Protection
@@ -455,7 +464,7 @@ Subtotal
         *   Stands
         *   See all
     
-    All Categories
+    Close All Categories
     
     *   Bookcases
     *   Chair Mats &. Floor Mats
