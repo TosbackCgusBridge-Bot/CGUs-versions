@@ -42,6 +42,9 @@ New Incentives Program - 10/11/2012
 **Eroyalties System**  
 Income Share (including bonus for Leads, Moderators, and Advisers) is processed by the 15th of each month. Checks are processed on the 15th and mailed out soon after.  
   
+November  
+Mod &. CL Bonus - 11/09/2012  
+  
 October  
 Back To School Sweepstakes - 10/08/2012  
 Most Popular Lists - 10/08/2012  
@@ -66,12 +69,6 @@ Most Popular Lists - 07/09/2012
 Advisor Bonus - 07/09/2012  
 Income Share - 07/06/2012  
 Mod &. CL Bonus - 07/06/2012  
-  
-June  
-Most Popular Lists - 06/2012  
-Advisor Bonus - 06/2012  
-Income Share - 06/2012  
-Mod &. CL Bonus - 06/2012  
 
 **Shopping.com Network Privacy Policy**
 
