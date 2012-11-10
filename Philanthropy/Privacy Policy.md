@@ -4,7 +4,7 @@
 *   Create a Free Account |
 *   Subscribe Now
 
-*   Friday, November 9, 2012
+*   Saturday, November 10, 2012
 
 Subscribe Today
 
