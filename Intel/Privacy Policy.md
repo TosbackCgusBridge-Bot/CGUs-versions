@@ -407,25 +407,22 @@ Intel® Online Privacy Notice Intel is committed to respecting your privacy. Our
     *   Related Topics
     *   Related Products
     
-    *   Intel Supports EICC...
+    *   Intel Human Rights...
         
-        Letter from Intel executives stating support for Electronic Industry Citizenship Coalition’s vision and...  
+        Summarizes Intel's position on key human rights issues and embodies common principles laid out by...  
         Preview | Download
         
-    *   Intel Business...
+    *   Privacy: Thank You
         
-        Guide: Intel business continuity practices, policies, guidelines designed to enable continuation of...  
-        Preview | Download
+        Privacy: Thank You
         
-    *   Intel Code of Conduct
+    *   Intel Social Media...
         
-        Contains Intel's mission, values, code of conduct and statement from Intel CEO Paul Otellini.  
-        Preview | Download
+        Intel Social Media Guidelines for Intel employees or contractors contributing on or off Intel.com.
         
-    *   Public Policy:...
+    *   Intel Social Media...
         
-        Intel promotes communications policies that encourage deployment of wireless, wired broadband services.  
-        Preview | Download
+        Guide for Intel sponsored, seeded, or incentivized social media practitioners.
         
     
     *   Technology for the Home
