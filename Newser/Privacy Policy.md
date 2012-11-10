@@ -5,12 +5,12 @@
     *   Election 2012
     *   President Obama
     *   Mitt Romney
-    *   strange stuff
-    *   Mitt Romney 2012
     *   entertainment
     *   celebrity
-    *   Barack Obama
-    *   Karl Rove
+    *   strange stuff
+    *   Mitt Romney 2012
+    *   Obama 2012
+    *   fiscal cliff
     *   John Boehner
 *   Log In
 
@@ -120,45 +120,57 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Here Comes the Groom
-*   Lights in Shining Armor
-*   The Real Story of the Most-Liked Photograph of All Time
+*   Boehner Is Bluffing
+*   Lincoln
+*   Citizens United Is Still Worth Hating
 
 More from Slate »
 
-*   Watch This Right Now: The Tween Pop Thanksgiving Song No...
-*   Modern Love Tackles One Woman’s Spanking Fetish
-*   Chris Brown Posters In Stockholm Show A Beaten And Bruised...
+*   MILKIN' IT
+*   100 UFOs Sighted Near India And China Border
+*   GOP Office Finds Dead Pig Wearing Mitt Romney Shirt At...
+
+More from HuffPost Weird »
+
+*   No More Ice Cream For Woman Who Called Obama N-Word On...
+*   Christina Aguilera Allegedly Propositioned Vanessa Hudgens...
+*   Today’s Lady News: Douchey Ads For New York Knicks Removed
 
 More from The Frisky »
 
-*   I just...i can't.....wtf \[Fail\]
-*   Photoshop these 1940s gasmasks \[Photoshop\]
-*   CIA Director David Petraeus resigns after successfully...
+*   Student angers substitute teacher, finds out what happens...
+*   Gingers are friendly and adorable, whites are seen as aloof...
+*   We're about to reach Peak Coffee \[Sad\]
 
 More from Fark »
 
-*   Should Petraeus have resigned?
-*   President Obama's victory: 6 conservatives behaving like...
-*   After the election: Could civility possibly return to D.C.?
+*   10 things you need to know today: November 10, 2012
+*   5 smart reads for the weekend
+*   David Petraeus resigns from the CIA over an affair: What we...
 
 More from The Week »
 
+*   Ousted Citigroup CEO Vikram Pandit Gets $6.7 Million In...
 *   Tomorrow’s Post David Petraeus Headline ... Today!
 *   John Heilemann on Morning Joe: Romney Campaign Was ‘Stuck...
-*   David Petraeus Resigns As CIA Director Over Extramarital...
 
 More from Daily Intel »
 
-*   Robert Pattinson Plays Water War With Jimmy Fallon on ‘Late...
-*   Rihanna Returns to Her 'Diamonds' Hairdo in Time for Her...
-*   One Direction's Harry Styles Shows Off New Chest Tattoos,...
+*   8 Famous Faces Who Have Been Touched By Lung Cancer
+*   Time to Sweep Up the Confetti and Start Saving Lives
+*   Does Exercise Have to Be About Weight Loss?
+
+More from HuffPost Health »
+
+*   Chris Brown Denies Rihanna Relationship: We Will 'Always Be...
+*   Matthew McConaughey Shows Frail Figure as He Departs From...
+*   Rihanna Strips Down With Kate Moss for 'V' Magazine (PHOTOS)
 
 More from Celebuzz »
 
-*   Your Baby May Be Killing Your Relationship
-*   Mom Learns She's Pregnant With 'Miracle Baby' Days After...
-*   7 Baby Pandas Sleeping in a Crib Will Slay You (VIDEO)
+*   Easy Cinnamon Coffee Cake Recipe
+*   President Obama's Tears Show How Vulnerability Can Be the...
+*   Hurricane Sandy Gas Shortage: When and Where You Can Fill Up
 
 More from The Stir »
 
