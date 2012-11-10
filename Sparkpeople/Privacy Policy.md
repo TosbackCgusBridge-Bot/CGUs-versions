@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Rls Natural Remedies Resources
+*   Acupuncture Center Resources
 
   
-Stay in Touch With SparkPeople **What to Eat This Fall**
+Stay in Touch With SparkPeople **Tune In to a Healthier You**
 
-Eating seasonally can be a boon to your health and your wallet. Find out which produce items are delicious--and affordable--right now!
+Learn some surprising facts about America's TV habits, and healthy things you can do _without_ watching the tube.
 
 Read More
 
-*   Pantry staples
-*   Do you have a goal after weight loss?
 *   Keeping fruits and veggies fresh
+*   Whats the 1st thing you noticed w/your weightloss?
 *   Describe the last time you felt proud of yourself.
-*   Strateies needed from Thanksgiving to New Year's
+*   Pantry staples
+*   Healthy snack ideas for under 100 calories?
 
-View Demo **Bridges on Ball**  
-An effective exercise for targeting your glutes and hamstrings. **Best Chicken Soup**  
+View Demo **Hip Flexor**  
+Strong hips and abs can improve your overall balance. **Beef and Blue Sandwich**  
 Submitted By: **CHEF\_MEG**
 
-The perfect soup to warm your belly on a cold night or soothe you when you're sick. Full Recipe
+So good, you'll think someone brought home takeout! Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
