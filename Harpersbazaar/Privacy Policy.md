@@ -15,17 +15,17 @@ Give a Gift Customer Service Video Blog **TRY:** hair trends 2013 2012 innovator
 *   Fashion Videos
 *   Bazaar Report
 
+Shop the Season's Chicest Holiday Dresses
+
+Shop the top trends in holiday dresses.
+
+Mr. Blasberg's Best-Dressed List: November 9th, 2012
+
+See the best dressed ladies of the week.
+
 Hedi's Girls: A Behind the Scenes Look in Portraits at Saint Laurent Spring 2013
 
 See backstage at Hedi Slimane's show for Saint Laurent Paris.
-
-Fashion Politics
-
-The way first ladies dress has less to do with political affiliation and mo...
-
-Nicolas Ghesquière for Balenciaga in BAZAAR
-
-See our favorite moments of Nicolas Ghesquière for Balenciaga in BAZAA...
 
 Beauty &. Hair  
 
@@ -37,13 +37,13 @@ Beauty &. Hair  
 *   Beauty at Every Age
 *   Health &. Wellness
 
-12 Skin Masks That Work Wonders During Winter
-
-Protect your visage this winter with these 12 must-have masks.
-
 Victoria's Secret Fashion Show: Behind the Scenes
 
 A behind-the-scenes peak at the Angels getting ready for sexiest fashion sh...
+
+12 Skin Masks That Work Wonders During Winter
+
+Protect your visage this winter with these 12 must-have masks.
 
 CELEBRITY STYLE &. PARTIES   Victoria's Secret Fashion Show 2012
 
@@ -72,7 +72,7 @@ Shop Bazaar Summer Style Best in Beauty Fashion Week Privacy Policy
 
 In order to view the Privacy Policy you must enable javaScript. Connect with Facebook @harpersbazaarus FOLLOW OUR BOARDS FOLLOW US ADVERTISEMENT  
 Video coverage from NY fashion week...  
-MORE FROM HARPER'S BAZAAR Hedi's Girls: A Behind the Scenes Look in Portraits at Saint Laurent Spring 2013 Fashion Politics Nicolas Ghesquière for Balenciaga in BAZAAR 12 Skin Masks That Work Wonders During Winter Victoria's Secret Fashion Show: Behind the Scenes Define Your Brows In 5 Easy Steps Victoria's Secret Fashion Show 2012 Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Fabulous at Every Age: Resort Chic Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
+MORE FROM HARPER'S BAZAAR Shop the Season's Chicest Holiday Dresses Mr. Blasberg's Best-Dressed List: November 9th, 2012 Hedi's Girls: A Behind the Scenes Look in Portraits at Saint Laurent Spring 2013 Victoria's Secret Fashion Show: Behind the Scenes 12 Skin Masks That Work Wonders During Winter Define Your Brows In 5 Easy Steps Victoria's Secret Fashion Show 2012 Last Night's Parties: Dream Catchers, Jimmy Choo, Reece Hudson Versace Celebrates SoHo Store Opening Fabulous at Every Age: Resort Chic Fabulous at Every Age: Chic Coats Fabulous at Every Age: Fall Color Theory Nicole Kidman's Wild Ride Kate Hudson: Blondes Have More Fun September Cover Girl: Gwen Stefani
 
 SPONSORED LINKS
 
