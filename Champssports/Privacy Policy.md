@@ -351,12 +351,6 @@ MY CART 0 Items0   Welcome, Guest, click here to log in or register.  
 
 *   Win Daily Prizes
 
-FREE SHIPPING on select styles with FIT GUARANTEED\*
-
-We offer FREE SHIPPING on select styles every day with a FIT GUARANTEE that offers free returns or exchanges at any Champs Sports store if your kicks or clothing don't fit just right.
-
-\*Please note: This offer is valid only on eligible items, and does not apply to in-store orders. Offer is limited to standard ground delivery within the 48 contiguous United States and APO/FPO addresses. Excludes bulk orders and drop ships. Entire order must ship to a single address. Does not apply to prior purchases or open orders. Free return shipping is limited to exchanged items only. May not be used toward purchase of Gift Cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply.
-
 *   My Account
 *   Order Information
 *   Shipping Information
