@@ -52,7 +52,7 @@ The Coolest Nail Looks!
 *   Celebrity Quizzes
 *   Celebrity Videos
 
-17 Minutes With Bridgit Mendler
+The 10 Worst Celeb Breakups Of All Time
 
 *   Hot Guy Panel
 *   Boyfriend Battle
@@ -71,7 +71,7 @@ Gift Ideas for Your Boyfriend!
 *   Health &. Fitness Videos
 *   Get Health Advice
 
-Gabby Douglas and Jordyn Wieber Video!
+Work Out Like a Star
 
 *   Freshman 15
 *   Dorm Room Battle
@@ -95,10 +95,10 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
 
 *   college
     
-    Find The Perfect College For You!
+    30 Ways To Save Money Over Winter Break
 *   entertainment
     
-    Sarah Habel On _Underemployed_
+    Selena And Justin Break Up
 *   fashion
     
     Holiday Outfits Under $50
@@ -108,7 +108,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win Elixir by Shakira, a blend of orange and pepper. Type in the Freebie Phrase of the Day, found in the November Issue!
+**1 Winner!** Enter for a chance to win Victoria's Secret PINK body mist in Clean &. Fresh. Type in the Freebie Phrase of the Day, found in the November Issue!
 
  enter now 
 
