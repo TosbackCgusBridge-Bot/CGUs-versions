@@ -242,14 +242,14 @@ Your email is safe with us. We hate spam too!
 
 Featured this week on livestrong.com
 
+*   Nov 8, 2012 Make Your Oatmeal More  
+    Nutritious And Filling
 *   Nov 7, 2012 Solutions For Common  
     Food Allergies
 *   Nov 6, 2012 The Right (And Wrong)  
     Ways To Warm Up
 *   Nov 5, 2012 Run Without Pain  
     For Life!
-*   Nov 4, 2012 'How The Gym Helped  
-    
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
 
