@@ -1,5 +1,3 @@
-World's largest selection of UA gear. free shipping on all orders over $49. no code, no sweat.
-
 *   1.888.727.6687
 *   Customer Service
 *    US (change) 
@@ -162,7 +160,7 @@ VIEW CART &. CHECKOUT
     *   Loose
     *   Fit Guide ►
     *   Shop All Women's ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
-*   Youth
+*   Boys
     
     *   Boys  
         (8-20)
@@ -171,30 +169,27 @@ VIEW CART &. CHECKOUT
     *   Footwear
     *   All Boys►
     
-    *   Little Boys  
+    *   Little boys  
         (4-7)
-    *   Shirts &. Tops
-    *   Bottoms
-    *   All Little Boys►
-    
     *   Toddler Boys  
         (2T-4T)
     *   Infant Boys  
         (0-24M)
-    
-    *   Boys Sports
-    *   Training
-    *   Football
-    *   Basketball
-    *   Baseball
-    *   All Boys' Sports►
     
     *   Featured
     *   New Arrivals
     *   HeatGear®
     *   ColdGear®
     *   Youth Movement
-    *   All Boys►
+    
+    *   Sports
+    *   Training
+    *   Football
+    *   Basketball
+    *   Baseball
+    *   All Boys' Sports►
+    *   All Boys►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
+*   Girls
     
     *   Girls  
         (8-20)
@@ -205,26 +200,22 @@ VIEW CART &. CHECKOUT
     
     *   Little Girls  
         (4-7)
-    *   Shirts &. Tops
-    *   Bottoms
-    *   All Little Girls►
-    
     *   Toddler Girls  
         (2T-4T)
     *   Infant Girls  
         (0-24M)
-    
-    *   Girls Sports
-    *   Training
-    *   Soccer
-    *   Running
-    *   All Girls' Sports►
     
     *   Featured
     *   New Arrivals
     *   HeatGear®
     *   ColdGear®
     *   Youth Movement
+    
+    *   Sports
+    *   Training
+    *   Soccer
+    *   Running
+    *   All Girls' Sports►
     *   All Girls►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
 *   Footwear
     
@@ -263,16 +254,6 @@ VIEW CART &. CHECKOUT
     *   Slides &. Sandals
     *   Socks
     *   All Girls' Footwear ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
-*   Accessories
-    *   Bags &. Backpacks
-    *   Socks
-    *   Gloves
-    *   Headwear
-    *   Winter Accessories
-    *   Eyewear
-    *   Protective Gear
-    *   Equipment
-    *   All Accessories►
 
 *   Outlet
     *   Men's
@@ -290,7 +271,7 @@ VIEW CART &. CHECKOUT
     *   Youth Movement
     *   Tough Mudder
 
-email my cart page successemail my cart pageshare page successshare pagechange passwordreset passwordregister-completeforgot-password home / customer-service / security-and-privacy-policy SECURITY &. PRIVACY WHEN WAS THIS PRIVACY STATEMENT LAST UPDATED? Last revised: October 19, 2012 WHAT IS YOUR PRIVACY STATEMENT? **PRIVACY STATEMENT:**  
+free shipping on all orders over $49.00. email my cart page successemail my cart pageshare page successshare pagechange passwordreset passwordregister-completeforgot-password home / customer-service / security-and-privacy-policy SECURITY &. PRIVACY WHEN WAS THIS PRIVACY STATEMENT LAST UPDATED? Last revised: October 19, 2012 WHAT IS YOUR PRIVACY STATEMENT? **PRIVACY STATEMENT:**  
   
 **Notice To California Residents – Your California Privacy Rights:**  
   
