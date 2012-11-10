@@ -1,33 +1,31 @@
 Metacafe
 
+*   Most Popular
+*   Trending Now
 *   Movies
 *   Games
-*   Music
-*   Most Popular
-*   More
-    *   Channels
-    *   Today
-    *   All Videos
-    *   Comedy
-    *   Entertainment
-    *   How To
-    *   News &. Events
-    *   Pets &. Animals
-    *   Science &. Tech
-    *   Wheels &. Wings
-    *   TV Clips
-    *   Sports Highlights
-    *   Other
-    *   Classics
-    *   18+ Only
+*   Unfiltered
+*   Epic Meal Time
+*   Caught on Tape
+*   Game Reviews
+*   Corridor Digital
+*   family-guys
+*   Kittens
+*   Game Glitches
+*   Movie Reviews
+*   Pause/Play
+*   PlayStation
+*   Stand-up Comedy
+*   Tech Tips
+*   The Tribe Has Spoken
+*   Ultimate Unboxings
+*   Video Game High School
+*   Weird News
+*   Xbox
+*   More...
+    
 
-*   Facebook
-*   Follow Metacafe on Facebook Twitter
-*   Upload
-*   Sign In
-*   Family Filter On
-
-Go  
+Safe Search OFF Go Sign In
 
 1.  Your Account
     *   My Channel
