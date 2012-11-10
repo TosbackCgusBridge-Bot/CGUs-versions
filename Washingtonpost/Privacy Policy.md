@@ -23,7 +23,7 @@
     
     Blogs &. Columns
     
-    *   **Harry Reid could keep John Kerry...**  
+    *   **Shorthand**  
         Election 2012 | Rachel Weiner
     
     *   **Would a tax hike kill 700,000 jobs?**  
@@ -32,7 +32,7 @@
     *   **Do Democrats owe their Senate majority...**  
         She The People | Krissah Thompson
     
-    *   **Where Obama did better in 2012...**  
+    *   **Democrat Jay Inslee wins Washington...**  
         The Fix | Aaron Blake
 *   Opinions In Opinions
     
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **Best of the Star Wars Fiscal Cliff**  
+    *   **Petraeus solution: End sex**  
         ComPost | Alexandra Petri
     
-    *   **As Obama lays down marker on taxes...**  
+    *   **Happy Hour Roundup**  
         The Plum Line | Greg Sargent
     
-    *   **Republicans’ policy gap**  
-        PostPartisan | Jonathan Bernstein
+    *   **Petraeus’s bumpy ride**  
+        PostPartisan | David Ignatius
     
-    *   **Romney’s what-went-wrong press...**  
+    *   **Friday question**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,14 +72,14 @@
     
     Blogs &. Columns
     
-    *   **PM Update: Warmer weekend awaits**  
-        Capital Weather Gang | Dan Stillman
+    *   **D.C. area forecast: Beautiful Saturday...**  
+        Capital Weather Gang | Ian Livingston
     
     *   **National Gallery of Art ice rink...**  
         Going Out Gurus | Alex Baldinger
     
-    *   **Police: Md. trooper hurt trying...**  
-        Crime Scene | Michael Laris
+    *   **3 convicted of stealing, reselling...**  
+        Crime Scene | Keith L. Alexander
     
     *   **D.C. youth trust hires new director**  
         D.C. Wire | Tim Craig
@@ -106,8 +106,8 @@
     *   **Redskins work out defensive backs...**  
         The Insider | Mike Jones
     
-    *   **Davey Johnson planning on retiring...**  
-        Nationals Journal | Adam Kilgore
+    *   **On one-year anniversary of kidnapping...**  
+        Nationals Journal | James Wagner
 *   National In National
     
     *   Energy &. Environment
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **How marijuana legalization will...**  
-        WorldViews | Olga Khazan
-    
-    *   **Russia’s secret new Internet blacklist**  
-        WorldViews | Olga Khazan
-    
-    *   **Web monitor: China takes extraordinary...**  
+    *   **Why Obamas trip to Burma is such...**  
         WorldViews | Max Fisher
     
-    *   **Tens of thousands want Malala to...**  
+    *   **Did Petraeus have to resign?**  
+        WorldViews | Olga Khazan
+    
+    *   **The Iraq success story that propelled...**  
+        WorldViews | Max Fisher
+    
+    *   **How marijuana legalization will...**  
         WorldViews | Olga Khazan
 *   Business In Business
     
@@ -179,7 +179,7 @@
     *   **Pearlstein: A hot new model in...**  
         Steven Pearlstein
     
-    *   **For hurried states, Obama administration...**  
+    *   **Reconciliation**  
         Wonkblog | Sarah Kliff
 *   Tech In Technology
     
@@ -220,7 +220,7 @@
     *   **Take the kids this weekend: National...**  
         On Parenting | On Parenting
     
-    *   **Quoted: Ashley Judd on running...**  
+    *   **Petraeus, other political sex scandals...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,7 +240,7 @@
     *   **Review digest: of Lang Lang, Midori...**  
         Classical Beat | Anne Midgette
     
-    *   **A conversation with Robert Pattinson**  
+    *   **The 10 best James Bond theme songs**  
         Celebritology 2.0 | Jen Chaney
     
     *   **NBC’s dysfunctional First Family...**  
@@ -267,10 +267,9 @@
 In the News
 
 *   David Petraeus
-*   U.S. drone
-*   Obama cries
-*   Lakers coach
-*   Jeep recall
+*   Paula Broadwell
+*   Legal pot quandary
+*   Terps
 *   ‘Lincoln’
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
@@ -322,88 +321,90 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
+David Petraeus resigns as CIA director
+
+Greg Miller 
+
 After Obama reelection, Murray Energy CEO reads prayer, announces layoffs
 
 Steven Mufson 
 
-The way forward
+The party that doomed its nominee
 
-Charles Krauthammer 
+Kathleen Parker 
 
-Obama calls for immediate freeze on middle-class tax rates
+The GOP’s blame game
+
+Dana Milbank 
+
+A reformed Republican party
+
+George F. Will 
+
+President Obama and the white vote? No problem. Democrat Jay Inslee wins Washington governors race Obama calls for immediate freeze on middle-class tax rates
 
 Zachary A. Goldfarb 
-
-House Speaker John A. Boehner’s remarks on the fiscal cliff at news conference on Nov. 9, 2012 (Full Transcript)
-
-::unspecified:: 
-
-Why Republican governors want to leave Obamacare to the feds Republican Party begins election review to find out what went wrong
-
-Peter Wallsten 
-
-Real-life CSI: When one identical twin is accused of killing the other
-
-Michael S. Rosenwald 
-
-If the U.S. goes over the fiscal cliff, do we still need to raise the debt ceiling? Victims of armed robbery chase assailants through downtown D.C. as shots fired
-
-Peter Hermann 
-
-Republicans better get rid of the angry-white-guy voters Man executed in Texas for 2002 slaying of woman during break-in at her home
-
-Associated Press 
 
 Would a tax hike on the wealthy kill 700,000 jobs?
 
 Glenn Kessler 
 
-A new America speaks
+The storied career of David H. Petraeus
 
-Eugene Robinson 
+Rajiv Chandrasekaran 
 
-House Democrats got more votes than House Republicans. Yet Boehner says hes got a mandate? President Obama’s statement on the fiscal cliff and tax rates, Nov. 9, 2012 (Full Transcript)
+Obama calls for wealthy to pay more in taxes, says nation supports his position
 
-::unspecified:: 
+Associated Press 
+
+Shorthand Mitt Romney losing (Facebook) friends by the minute The way forward
+
+Charles Krauthammer 
+
+Legalized marijuana initiatives leave federal government wrestling with policy
+
+Sari Horwitz 
+
+A former spy on life in the CIA: It’s like Bond, with more boredom
+
+Robert Baer 
 
 Life after defeat for Mitt Romney: Public praise, private questions
 
 Philip Rucker 
 
-Rebuilding the GOP’s appeal
+Gun control at center of Tucson shooting case
 
-Michael Gerson 
+Editorial Board 
 
-Mexico says marijuana legalization in U.S. could change anti-drug strategies
+David Petraeus resigns after a bumpy ride
 
-William Booth 
+David Ignatius 
 
-Hate is not a plan
+Supreme Court to review key section of Voting Rights Act
 
-Joel Achenbach 
-
-George P. Bush files election papers
+Robert Barnes 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  After Obama reelection coal company CEO reads prayer to staff, announces layoffs
-    2.  The way forward
-    3.  Obama calls for immediate freeze on middle-class tax rates
-    4.  House Speaker John A. Boehner's remarks on the fiscal cliff at news conference on Nov. 9, 2012 (Full Transcript)
-    5.  Why Republican governors want to leave Obamacare to the feds
+    1.  David Petraeus resigns as CIA director
+    2.  After Obama reelection, Murray Energy CEO reads prayer, announces layoffs
+    3.  The party that doomed its nominee
+    4.  The GOP's blame game
+    5.  A reformed Republican party
 *   Top Videos
-    1.  The story behind the Romney loss: Drama, regrets and mistakes
-    2.  President Obama's full victory speech
-    3.  Obama tears up while addressing staff
-    4.  The GOP's not-so-happy hour
-    5.  Rihanna, Justin Bieber rock Victoria's Secret fashion show
+    1.  CIA Director David Petraeus resigns, citing extramarital affair
+    2.  The story behind the Romney loss: Drama, regrets and mistakes
+    3.  Obama on fiscal cliff: 'Our job now is to get a majority in Congress to reflect the will of the American people'
+    4.  President Obama's full victory speech
+    5.  The GOP's not-so-happy hour
 *   Top Galleries
-    1.  James Bond's "Skyfall" fashion
-    2.  Obamas talk 'First Parents' role
-    3.  Election 2016: Chris Cillizza's 13 front-runners
-    4.  Wael Ali, accused of killing his twin, celebrates his release from jail
-    5.  The 'fiscal cliff' explained in charts
+    1.  Election 2016: Chris Cillizza's 13 front-runners
+    2.  Gen. David Petraeus
+    3.  A guide to holiday movies
+    4.  Elizabeth Warren: 2012 Election brings her back to Washington
+    5.  The Afghan army's four-legged transition
 
 Today's Paper
 
@@ -413,14 +414,13 @@ Today's Paper
 
 Live Discussions
 
+There are no discussions scheduled today.
+
 Carolyn Hax
 
 Live Q&A Transcript
 
 Hax advised readers on life, love and how to help a friend in need.
-
-*   Earlier Today
-    *   **11:00 AM** **Real Wheels Live** **11:00 AM** **The Fix Live** **12:00 PM** **Carolyn Hax Live: Advice columnist tackles your problems (Friday, November 9)** **1:00 PM** **The Latest in TV with Lisa de Moraes**
 
 **Weekly schedule, past shows**
 
