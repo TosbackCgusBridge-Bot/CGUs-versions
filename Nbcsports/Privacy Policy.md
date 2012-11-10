@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: CIA chief Petraeus resigns, cites extramarital affair
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Afghan kids tell of massacre by lone US soldier
 
 *   NFL
     SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Joe Howell / AP 7-1 Bears will topple 7-1 Texans
     
     PFT's picks: And the Saints could give the undefeated Falcons a headache in New Orleans.
     
-    PFT: It's not just Luck for the Colts PFT: Tebow still considered most overrated Kacsmar: The five biggest surprises Kacsmar: Who are pretending, and contending? Midseason report for every team   |  All-Pro team PFT Live: Perfect Falcons face improving Saints PFT Live: Reigniting Carroll vs. Sanchez Carroll: Sanchez left too early  |  Tebow frustrated Ad
+    PFT: Eli's struggles may be due to 'tired arm' PFT: Tebow still considered most overrated Kacsmar: The five biggest surprises Kacsmar: Who are pretending, and contending? Midseason report for every team   |  All-Pro team PFT Live: Perfect Falcons face improving Saints PFT Live: Reigniting Carroll vs. Sanchez Carroll: Sanchez left too early  |  Tebow frustrated Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Leon Halip / Getty Images 'We're not trading Alex Rodriguez'
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Scott Cunningham / Getty Images It's major decision time
     
-    HBT: Every couple weeks Yankees general manager Brian Cashman reiterates that he has no plans to trade Alex Rodriguez.
+    DeMarco: Their financial coffers are full, their successes in the near-past, and their futures uncertain. Welcome to the off-seasons of the Texas Rangers, Philadelphia Phillies and Boston Red Sox — major-market franchises facing major decisions.
     
-    HBT: Rangers will only offer Hamilton 3-year deal HBT: Hall of Famer Lee MacPhail dies at 95 HBT: Weiss better have good first year with Rockies Izturis agrees to $10M contract with Blue Jays HBT: Follow our free-agent tracker HBT: Yankees expect Rivera to take pay cut HBT: Sizemore plans to play in '13 after missing '12 HBT: Finalists announced for MLB awards Ad
+    HBT: Yanks 'not trading Alex Rodriguez' HBT: Rangers will only offer Hamilton 3-year deal HBT: Hall of Famer MacPhail dies at 95 HBT: Weiss better have good first year with Rockies Izturis agrees to $10M contract with Blue Jays HBT: Follow our free-agent tracker HBT: Yankees expect Rivera to take pay cut HBT: Sizemore plans to play in '13 after missing '12 Ad
 *   NHL
     SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Brendan Mcdermid / Reuters 'Still a lot of work to be done'
     
     PHT has obtained a copy of Donald Fehr’s memo to union members following Thursday’s CBA meetings. The letter, obtained from an NHL player, suggests the union is displeased with the league’s latest offerings.
     
-    NHL labor talks under way on 4th straight day CSN: NHL, NHLPA still short of goal PHT: NHL counters NHLPA's proposals PHT: Bettman says it's 'very tough to handicap' talks PHT: Dynamo prez wants to keep Ovie in KHL PHT: Lundqvist still in Sweden, still not playing PHT: Bryzgalov rips into Russian media NHL fights Canadian sports-betting bill Ad
+    PHT: NHL takes issue with Fehr's memo CSN: NHL, NHLPA still short of goal PHT: Crosby says 60-game season seems fine Trouble brewing for NHL as lockout drags on PHT: Bettman says it's 'very tough to handicap' talks PHT: Dynamo prez wants to keep Ovie in KHL PHT: Bryzgalov rips into Russian media NHL fights Canadian sports-betting bill Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Don Ryan / AP Lakers reportedly fire Mike Brown
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Darron Cummings / AP Jackson again with L.A.?
     
-    Despite an ugly 1-4 start, Lakers president Jim Buss said fans were going to have to be patient with head coach Mike Brown. Apparently, Buss' patience wore out on Friday.
+    PBT: Hours after firing Mike Brown, thwe Lakers have reportedly narrowed their search to two top candidates: Phil Jackson and Mike D'Antoni.
     
-    PBT: Lots of big names available for Lakers' job PBT: Mike Brown's son got death threat Nets still trying to find identity CSN: Durant, Thunder take care of Bulls Winderman: Rose need not rush back now Clippers top Trail Blazers in first road game PBT: Howard tells frustrated Kobe to chill out SportsTalk: Is LeBron making Knicks better? Ad
+    Lakers take out their frustrations on Warriors PBT: Lots of big names available for Lakers' job PBT: Kobe thanks Brown, calls it a 'tough day' Lakers' patience with Brown runs out Knicks down Mavs, stay perfect behind Carmelo's 31 Hawks keep it close, but Heat win without Wade Brooklyn demolishes Orlando by 39 Grizzlies down Rockets for 4th straight win Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Christopher Jackson / AP Heisman race heating up
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Jonathan Ferrey / Getty Images Heisman race heating up
     
     Follow along this season as NBCSports.com updates the race for the top individual prize in the country. After seeing our list, it's your turn to rank the candidates.
     
-    Pitt, UConn both try to salvage season Friday CFT: No. 8 Seminoles win squeaker over Hokies CFT: Auburn 'making preparations' to fire Chizik? SportsTalk: Is Fisher first choice for Auburn? CFT: USC might use Lee on defense CFT: USC manager fired for deflating game balls CFT: Cal's backup QB to start vs. No. 2 Oregon CFT: Lattimore has surgery, so what's next? Ad
+    Aggies defense, Tide offense pretty good, too Manziel among frosh having huge impact in SEC Dilemma for Patterson vs. alma mater K-State No. 11 Louisville ready for erratic Syracuse UConn tops Pitt for 1st Big East win Notre Dame Central: Special section on Irish PFT: Growing belief Chip Kelly to soon land in NFL CFT: Auburn 'making preparations' to fire Chizik? Ad
 *   NCAA HOOPS
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Andy Lyons / Getty Images Burning questions entering season
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Michael Probst / AP Upset! Huskies shock Spartans
     
-    CBT: It's time to tip off the 2012-13 college basketball season. Here's everything you need to know.
+    CBT: If there were any questions about Kevin Ollie as the UConn head coach, they are quickly getting answered. Ollie led the Huskies to a 66-62 victory Friday night over No. 14 Michigan State in Germany as part of the Armed Forces Classic.
     
-    CBT: Here's our preseason Top 25 CBT: Ohio State, Marquette set to kick off season CBT: Florida meets Georgetown in Carrier Classic CBT: Syracuse-SDSU tops strong weekend slate CBT: 60 things we're looking forward to this season SportsTalk: Ohio State-Marquette preview CBT: Fine won't be charged in molestation case College hoops season starts with a military flair Ad
+    CBT: No. 3 Kentucky survives Alex Len, Maryland CBT: Former walk-on saves No. 3 Kentucky's bacon CBT: Late-Night Snacks — recap of Friday's action Burning questions entering season CBT: Here's our preseason Top 25 CBT: UCLA's Shabazz Muhammad ruled ineligible CBT: Syracuse-SDSU tops strong weekend slate CBT: 60 things we're looking forward to this season Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Dimitar Dilkoff / AFP - Getty Images F1: Watch the language, guys
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Tyler Barrick / Getty Images Busch wins pole in Phoenix
     
-    Formula One drivers have been told to mind their language after Sebastian Vettel and Kimi Raikkonen turned the air blue Sunday.
+    Kyle Busch set a track record in winning the pole at Phoenix International Raceway, where Brad Keselowski got a jump on Jimmie Johnson in their tight championship race.
     
-    Go Daddy to air 2 Super Bowl spots with Patrick Keselowski not feeling pressure headed to Phoenix In The Pits: Final finish saved sluggish race Henry suspended for substance abuse violation Hannah Storm goes in-depth with 4 NASCAR stars Jimmie Johnson, NASCAR giving to Sandy efforts Vickers to run for Nationwide title with JGR Lotus say Raikkonen's win shows they are serious Ad
+    Sebastien Bourdais re-signs with Dragon Racing Go Daddy to air 2 Super Bowl spots with Patrick F1: Watch the language, guys Keselowski not feeling pressure headed to Phoenix In The Pits: Final finish saved sluggish race Henry suspended for substance abuse violation Hannah Storm goes in-depth with 4 NASCAR stars Jimmie Johnson, NASCAR giving to Sandy efforts Ad
 *   Soccer
     SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines George Frey / Getty Images Sounders survive
     
     PST: The fourth time was the charm for Seattle, which defeated Real Salt Lake 1-0 to win a playoff series for the first time and advance to the Western finals against L.A.
     
-    Martinez's late goal lifts Sounders PST: United tops Red Bulls to reach Eastern finals Highlights of United's victory over Red Bulls DeLeon speechless over deciding goal Red Bulls pledge half of gate revenue for Sandy American Bedoya scores first European goal PST: Galaxy's Keane was cruel test for Quakes PST: Highlights from Galaxy, Dynamo playoff wins Ad
+    Martinez's late goal lifts Sounders DC United's Najar suspended by MLS for 2 games Red Bulls cut ties with coach Hans Backe PST: United tops Red Bulls to reach Eastern finals Highlights of United's victory over Red Bulls DeLeon speechless over deciding goal Red Bulls pledge half of gate revenue for Sandy Sheard: Phil Taylor is a difference maker Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Cut Line: Too close to call
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Beljan says he'll try to play on Saturday
     
-    It's only fitting the PGA Tour's finale is played in Florida, Cut Line says, because all eyes will be on the scoreboard right up to the finish.
+    Charlie Beljan played a great round of golf that put him in the lead at Disney, but also sent him to the hospital.
     
-    Video: Tiger, Rory joint interview on CNN Wi leads Villegas, Gainey on Day 1 at Disney Appleby among those who may require 2013 lifeline Howell continues solid play, pushing for Masters Dyson, Nirat lead in Singapore as rains continue Rain in Singapore may shorten event to 54 holes Behind the scenes with ... Lara Baldesarra Gainey in mix at Disney, wants Masters invite Ochoa remains 'happy' in retirement Rory: Equipment news coming in a 'few weeks' Tip of the Week: Preparing properly for your round Ad
+    Beljan grabs Disney lead, leaves in ambulance Video: Tiger, Rory joint interview on CNN D-III coach fired after profane rant against team Appleby among those who may require 2013 lifeline Bjorn regains lead in Singapore as delays continue Howell continues solid play, pushing for Masters Ochoa remains 'happy' in retirement Rory: Equipment news coming in a 'few weeks' Tip of the Week: Preparing properly for your round Ad
 *   Olympics
     SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Mike Groll / AP Lolo scores silver in bobsled debut
     
     American track star turned bobsledder Lolo Jones kicked off her new career nicely on Friday, finishing second at her winter sports debut during an event in Lake Placid, N.Y.
     
-    Sochi Games to feature 12 new events OlympicTalk: Lochte, Franklin return to pool 5 US Olympic boxers making pro debuts together Shaun White to seek treatment for alcohol abuse Dukurs brothers 1-2 in men's WCup skeleton race OlympicTalk: Gold medalist Wiggins hit by van OlympicTalk: London world records finally ratified OlympicTalk: Discus champion faces lifetime ban Ad
+    Holcomb wins 2-man. US women take 2 medals OlympicTalk: Lochte, Franklin return to pool 2016 Olympic committee announces Levy as new CEO 5 US Olympic boxers making pro debuts together Shaun White to seek treatment for alcohol abuse Sochi Games to feature 12 new events Dukurs brothers 1-2 in men's WCup skeleton race OlympicTalk: Gold medalist Wiggins hit by van Ad
 *   More
-    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Mike Groll / AP Lolo wins silver in bobsled
+    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Mike Groll / AP Lolo scores silver in bobsled debut
     
-    Lolo Jones and Jazmine Fenlator claimed the silver medal in the World Cup bobsled season-opener in Lake Placid, N.Y.
+    American track star turned bobsledder Lolo Jones kicked off her new career nicely on Friday, finishing second at her winter sports debut during an event in Lake Placid, N.Y.
     
-    Djokovic, Murray advance to semis at ATP finals Without Vonn, Maze favorite at slalom opener Chan, Gold lead Rostelecom Cup Tour champion released from hospital Dan Patrick: Utah girl a star in youth football Boxing champ Klitschko facing taller, heavier Wach Wiggins and British coach both hit by vehicles Newton TD celebration gets prep star ejected Ad
+    Djokovic, Murray advance to semis at ATP finals 5 US Olympic boxers victorious in their pro debuts Without Vonn, Maze favorite at slalom opener Chan, Gold lead Rostelecom Cup Tour champion released from hospital Dan Patrick: Utah girl a star in youth football Boxing champ Klitschko facing taller, heavier Wach Wiggins and British coach both hit by vehicles Ad
 
 *   Scores
 *   Odds
