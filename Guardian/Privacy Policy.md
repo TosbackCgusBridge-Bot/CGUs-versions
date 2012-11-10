@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** Mitt Romney thanks wealthy donors as Republican strategists search for blame
-2.  2\. **News:** 'Mistaken identity' led to top Tory abuse claim
-3.  3\. **Business:** 'Congratulations, you've become a Goldman Sachs partner'
-4.  4\. **News:** Bulgarian archaeologists find golden treasures in ancient Thracian tomb
-5.  5\. **News:** Tearful Obama thanks campaign team as Democrats ponder next moves
+1.  1.  **Media:** BBC in turmoil as Newsnight's Tory abuse story falls apart
+2.  2\. **Life &. style:** Sex: 'Whatever you're doing, double it'
+3.  3\. **News:** CIA director David Petraeus resigns over 'unacceptable' extramarital affair
+4.  4\. **Technology:** Google services blocked in China
+5.  5\. **Life &. style:** Experience: My bra saved my life
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Education:** What kind of student spender are you?
-2.  **Global development:** Britain to stop aid to India
-3.  **Global development:** India will shed few tears over the end of UK aid
-4.  **Sport:** Rugby union: new faces in the 2012 autumn internationals – in pictures
-5.  **Global development:** UK to halt India aid and focus on trade
+1.  **Media:** BBC in turmoil as Newsnight's Tory abuse story falls apart
+2.  **Media:** Newsnight – review
+3.  **Life &. style:** Sex: 'Whatever you're doing, double it'
+4.  **Life &. style:** Sudoku 2,341 hard
+5.  **Media:** BBC chief unaware of Newsnight's Tory peer child abuse story
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,21 +312,21 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  David Petraeus resigns as director of CIA over affair - US politics live
-2.  2\. Andy Murray v Jo-Wilfried Tsonga – as it happened
-3.  3\. The Middle East greets Barack Obama's re-election with a shrug | Issandr El Amrani
-4.  4\. Should an extramarital affair have compelled Petraeus' resignation as CIA director? | Poll
-5.  5\. The phony fiscal cliff: expect tax cuts extended and spending cuts postponed | Grover Norquist
+1.  1.  BBC Newsnight crisis - live updates
+2.  2\. Republican right weeps over Obama's victory – then begins internal civil war
+3.  3\. Nasa's new Moon missions: Will Europe be involved?
+4.  4\. Syrian opposition leader calls for foreign help without conditions
+5.  5\. 17 Turkish troops killed in helicopter crash
 6.  All today's stories
 
 On the Guardian today
 
-1.  World news Mitt Romney thanks wealthy donors as Republican strategists search for blame
-2.  World news Iran's strike on US drone demonstrates the fragility of uneasy peace
-3.  World news US election 2012: winners and losers
-4.  World news Bulgarian archaeologists find golden treasures in ancient Thracian tomb
-5.  World news David Petraeus resigns as director of CIA over affair - US politics live
-6.  Football Premier League: 10 things to look out for this weekend
+1.  World news CIA director David Petraeus resigns over 'unacceptable' extramarital affair
+2.  World news US election 2012: winners and losers
+3.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+4.  Comment is free Iran sanctions now causing food insecurity, mass suffering
+5.  World news Mitt Romney thanks wealthy donors as Republican strategists search for blame
+6.  Football Barcelona and Real Madrid draw El Clásico thriller at Camp Nou
 
 Most popular in this section From the Guardian today
 
@@ -336,8 +336,8 @@ Most popular in this section From the Guardian today
 
 Today's best video
 
-*   Ben Affleck discusses new film Argo Ben Affleck discusses his Oscar frontrunner Argo, a drama based on the 1979-81 Iran hostage crisis
-*   Robbers on motorcycles on CCTV Six jewellery thieves ride into a London shopping centre on motorbikes
+*   The Guardian Film Show Our team review this week's big cinema releases Argo, Alps, My Brother the Devil and The Sapphires
+*   The week in TV Andrew Collins asks whether Homeland has jumped the shark and gets his teeth into American Horror Story
 
 Most popular on the Guardian Today in pictures
 
