@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! RiRi Tells All to Andy »
+Hot Pics! K-Stew's Enchanted! »
 
-Top Stories1.  HOT! Britney Spears Rocks Midriff-Baring Top on X Factor »
-2.  Inside Taylor Swift's "Weird" Past Romance With "Normal Dude" »
-3.  FIRST PICTURES: Meet Reese Witherspoon's Baby Son Tennessee! »
-4.  Robert Pattinson Suffered From Depression After Twilight Fame Hit »
-5.  Lindsay Lohan Snubs Barbara Walters, Bails on 20/20 Interview »
+Top Stories1.  FIRST PICTURES: Meet Reese Witherspoon's Baby Son Tennessee! »
+2.  Justin Bieber, Selena Gomez Split »
+3.  Nick and Vanessa's Birthday: See Son Camden's Baby Album! »
+4.  HOT! Britney Spears Rocks Midriff-Baring Top on X Factor »
+5.  FIRST PICS: Jessica Biel Resurfaces in NYC After JT Honeymooon »
 
  
 
@@ -179,7 +179,7 @@ Inside Us Weekly
 *   Beauty Christa B. Allen: What's in My Bag?
 *   Moms Nick and Vanessa's Birthday: See Son Camden's
 *   Body Adele: "I Would Only Lose Weight If It Affect  
-*   Entertainment Teen Mom 2's Leah Messer: Corey Simms and I D
+*   Entertainment Kristen Bell to Appear On Gossip Girl's Final
 
 *   US WEEKLY
 *   Celebrity News
