@@ -1,6 +1,6 @@
 (skip this header)
 
-Friday Nov 09, 2012 1:58 PM PT
+Saturday Nov 10, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,7 +60,7 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   ‘Fifty Shades’ baby onesies
+*   Veterans Day parade
 *   'Williams is going full metal stoner'
 *   Appreciating Belva
 *   Sean Penn bore
@@ -339,10 +339,15 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Prop. 30 OK doesn’t stop student protests
+*   Nation in Focus
+*   Javier Bardem gets Walk of Fame star
+*   Pakistani Transgenders
 *   Dior Homme party
 *   'Lincoln' premiere at AFI Fest 2012
 *   50 Shades of Grey baby onesies
 *   China Prepares for New Leadership
+*   Day in Pictures, Nov. 9, 2012
 *   Favorite dishes 11/9/2012
 *   Homes on the market in Atherton and Ross
 *   Celebrity offspring
@@ -374,11 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   Trends called election
 *   Trends Obama speech
 *   Snow hits Northeast rebounding from Superstorm Sandy
-*   Gerritsen Beach after Sandy
-*   Day in Pictures, Nov. 7, 2012
-*   InStyle UK's Best-Dressed Celebs
-*   Big night for women in Senate
-*   campaign trail 2012
 
 *   Most Read
 *   |
@@ -386,39 +386,40 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Where Fox News goes from here
-2.  Woman fired for Obama racial slur on Facebook
+1.  Woman fired for Obama racial slur on Facebook
+2.  CIA Director David Petraeus quits over affair
 3.  Two of Most Expensive Neighborhoods are in the Bay Area
-4.  Island residents in the dark over outages
-5.  CIA director quits over extramarital affair
-6.  Norwegian killer complains of prison conditions
-7.  Celebrity offspring
+4.  View Internet Porn, Get Blackmailed By Hackers (SYMC)
+5.  3rd arrest in Muni bus destruction
+6.  Lockheed Martin ousts new CEO for relationship
+7.  24 doctors certify most in Ariz.'s pot program
 
-1.  Sheriff Ross Mirkarimi recall in works
-2.  Business leader frets over tax increases
+1.  Woman fired for Obama racial slur on Facebook
+2.  Where Fox News goes from here
+3.  Business leader frets over tax increases
+4.  CIA director quits over extramarital affair
+5.  Obama approaches 'fiscal cliff' days after victory
+6.  Obama invites lawmakers to WH to talk fiscal cliff
+7.  Latino power: Suddenly, Sean Hannity wants immigration reform
+
+1.  Woman fired for Obama racial slur on Facebook
+2.  Disbarment urged for Greenbrae lawyer
 3.  Where Fox News goes from here
-4.  Woman fired for Obama racial slur on Facebook
-5.  Obama invites lawmakers to WH to talk fiscal cliff
-6.  Obama's health care overhaul turns into a sprint
-7.  Oakland robbers assault, rob TV cameraman
-
-1.  Where Fox News goes from here
-2.  Woman fired for Obama racial slur on Facebook
-3.  'Lincoln' review: Daniel Day-Lewis brilliant
-4.  Genomic Health: Cancer options tailored
-5.  VA errors add to huge delays in benefits
-6.  Hayes Valley condo in Victorian building
-7.  Island residents in the dark over outages
+4.  Cal's 1937 'Thunder Team' rumbled to Roses
+5.  CIA Director David Petraeus quits over affair
+6.  Hawaii changes renewable energy tax credit
+7.  Cal women crush Lehigh 80-48 in opener
 
 loading... Latest News Videos From our homepage
 
 *     
     Mandel Ngan, AFP/Getty Images / SF
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 12:12 p.m., Friday, November 9, 2012 Spy chief quits over affair
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 7:48 p.m., Friday, November 9, 2012 Petraeus affair uncovered
     
-    David Petraeus steps down as CIA director, admits showing 'extremely poor judgment.'
+    CIA director had relationship affair with his biographer, sources say.
     
+*   Photos: Political sex scandals
 
 *     
     J. Scott Applewhite, Associated Press / SF
@@ -428,12 +429,9 @@ loading... Latest News Videos From our homepage
     Lackluster Dem results fuel speculation about Nancy Pelosi's future.
     
 
-*     
-    Devin MacDonald / SF
+*   Priciest places to live
     
-    Remodeled Victorian in S.F.
-    
-    This Hayes Valley condo in an 1897 building has 3 bdrms, updated kitchen. Asking $1.6M.
+    Two of the top 5 most-expensive communities in the U.S. are in the Bay Area.
     
 
 *   Home
