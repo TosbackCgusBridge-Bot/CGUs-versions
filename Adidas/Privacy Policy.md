@@ -14,6 +14,11 @@ Offer valid for first time subscribers only.
 *   Spain
 *   Italy
 *   Russia
+*   Japan
+*   Korea
+*   China
+*   Columbia
+*   Brazil
 
 *   Sign up &. Save
 *   Store Locator
