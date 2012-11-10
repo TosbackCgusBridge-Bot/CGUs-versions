@@ -1,5 +1,5 @@
   
-Users Online Now: **3,021** (Who's On?) Visitors Today: **839,030** Pageviews Today: **1,567,952** Threads Today: **945** Posts Today: **13,899** 05:05 PM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,716** (Who's On?) Visitors Today: **334,027** Pageviews Today: **558,947** Threads Today: **283** Posts Today: **4,021** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,15 @@ trinity@godlikeproductions.com
   
 News
 
+*   For Obama’s Second Term, NASA Revives a Plan from Clinton’s Second Term
+*   Video: 5 Years of Incredible X-Ray Explosions From the Sun
+*   New Australian telescope set to find 700,000 new galaxies
+*   Supreme Court Will Take New Look At Voting Rights Act
+*   Suit: China Bankrolls Hamas Terror
+*   Collapse of Maya civilization tied to drought: study
+*   Nevada Court Considers Ordering Abortion
+*   Texas cotton getting a genetic 'tune-up'
+*   Extra chromosome 21 removed from Down syndrome cell line
 *   Boeing Announces Big Layoffs in Defense Division
 *   Organ-on-a-Chip Mimics Deadly Lung Condition
 *   This Is Why Nobody Will Use Credit Cards In A Few Years
@@ -128,15 +137,6 @@ News
 *   Implantable medical devices powered by the ear itself
 *   Crypto keys can be stolen from neighbours in the cloud
 *   Planetary scientists propose two explanations for true polar wander
-*   Experience Relativity Firsthand In MIT Video Game That Slows The Speed Of Light
-*   Privacy in Ubuntu 12.10: Full Disk Encryption
-*   Here's What The East Coast Blackouts Looked Like From Space
-*   Pa. pupils to wear tracking devices in flu study
-*   ACLU says some unable to vote by e-mail, asks judge to intervene
-*   Markets want clear decision from presidential vote
-*   Obama Ends Campaign in Half-Empty Arena
-*   Small Business Owner: I’ll Invest In 100 New Jobs – If Romney Wins
-*   EPA Planning Scorched Earth Assault on Coal
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.016s (0 queries)
+Page generated in 0.015s (0 queries)
