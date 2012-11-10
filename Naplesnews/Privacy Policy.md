@@ -143,9 +143,21 @@ Naples Daily News
 *   Cars
 *   Classified
 
-*   PrepZone: Football
+*   PrepZone: Catfish Bowl
     
-    Live chat begins at 7 p.m. | Preview | Catfish Bowl | Blog | Twitter | Send Us Your Fan Photos | More »
+    Scores &. Chat Archive | Game Photos | Game Video | Special Section: Catfish Bowl | More PrepZone »
+    
+*   Game Photos
+    
+    Venice vs. Naples | First Baptist vs. Marco Island Academy | More Photos »
+    
+*   Game Videos
+    
+    Naples vs. Venice | Estero vs. Bishop Verot | First Baptist vs. Marco Island Academy | Immokalee vs. Dunbar
+    
+*   From the Stands
+    
+    Naples Fans | Naples Band | Barron Collier Fans &. Band | Send us your photos »
     
 
 Privacy Policy
@@ -440,25 +452,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Court: Valet not liable for letting drunken driver leave Updated 11/9/2012 at 9:20 a.m. 42 comments
-*   Traffic stop leads to winding story of unpaid bar tab, church sex and battery Published 11/8/2012 at 6:32 p.m. 26 comments
-*   4 more years: Obama wins re-election Updated 11/7/2012 at 12:33 a.m. 656 comments
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 74 comments
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 193 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 105 comments
+*   Court: Valet not liable for letting drunken driver leave Updated 11/9/2012 at 9:20 a.m. 45 comments
+*   Prep Football: Chat, scores, videos, photos and stories from Week 11 Updated 11/10/2012 at 12:07 a.m. 0 comments
+*   CIA Director David Petraeus resigns because of extramarital affair Updated 11/9/2012 at 4:08 p.m. 47 comments
+*   4 more years: Obama wins re-election Updated 11/7/2012 at 12:33 a.m. 646 comments
 
-Photo Galleries 2012 Victoria's Secret fashion show Catch of the Day: Nov. 8, 2012 Baker Field opens in Naples
+Photo Galleries Prep Football: Venice vs. Naples 2012 Victoria's Secret fashion show Prep Football: Gulf Coast vs. Barron…
 
-*   4 more years: Obama wins re-election Published 11/6/2012 at 8:00 a.m. 656 comments
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 193 comments
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Published 11/9/2012 at 6:10 a.m. 74 comments
-*   Election 2012: Florida counting last presidential votes. Obama still narrowly leads Published 11/8/2012 at 6:52 a.m. 69 comments
-*   Stocks plunge after election. Europe woes deepen Published 11/7/2012 at 12:16 p.m. 67 comments
+*   4 more years: Obama wins re-election Published 11/6/2012 at 8:00 a.m. 646 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 200 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Published 11/9/2012 at 6:10 a.m. 105 comments
+*   Election 2012: Florida counting last presidential votes. Obama still narrowly leads Published 11/8/2012 at 6:52 a.m. 70 comments
+*   Stocks plunge after election. Europe woes deepen Published 11/7/2012 at 12:16 p.m. 65 comments
 
-*   Big land deals again big deal in Southwest Florida, housing expert says Published 11/9/2012 at 5:30 a.m. 11 comments
+*   Big land deals again big deal in Southwest Florida, housing expert says Published 11/9/2012 at 5:30 a.m. 14 comments
 *   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 142 comments
-*   In the Know: New dining options at former Rossopomodoro and L’Etoile restaurants Published 10/31/2012 at 5:17 a.m. 16 comments
 *   Plans fizzle for SW Fla energy crop jatropha, company executive indicted Published 11/5/2012 at 8:00 a.m. 5 comments
-*   Naples' Tom Golisano is $20 million donor to Lee Memorial's new children's hospital Published 10/30/2012 at 11:41 a.m. 44 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 200 comments
+*   Court: Valet not liable for letting drunken driver leave Published 11/9/2012 at 5:00 a.m. 45 comments
 
 Weather
 
@@ -466,40 +478,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 76° Fair Wind: N 12mph Today 74° 60° Sat 05:00 AM Clear Temp: 61° Sat 05:00 PM Mostly Sunny Temp: 71° Sun 05:00 AM Mostly Clear Temp: 63°
+Currently 58° Partly Cloudy Wind: NE 4mph Today 78° 63° Sat 08:00 PM Partly Cloudy Temp: 68° Sun 08:00 AM Mostly Sunny Temp: 74° Sun 08:00 PM Mostly Clear Temp: 69°
 
-Feels Like: 61°
+Feels Like: 68°
 
-Humidity: 72%
+Humidity: 66%
 
 Precip: 3%
 
-Feels Like: 71°
+Feels Like: 74°
 
-Humidity: 57%
+Humidity: 59%
+
+Precip: 6%
+
+Feels Like: 69°
+
+Humidity: 76%
 
 Precip: 5%
 
-Feels Like: 63°
-
-Humidity: 84%
-
-Precip: 1%
-
 More Weather » Calendar
 
-*   Friday Nov 9
 *   Saturday Nov 10
 *   Sunday Nov 11
+*   Monday Nov 12
 *   More BROWSE Icon
-
-*   7th Annual Sanibel Island Writers Conference Sanibel Island 7:30 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Florida Fish and Game Art Fusion Exhibit Rookery Bay Environmental Learning Center 9 a.m.
-*   Baby boot camp Miromar Outlets 9 a.m.
-*   Spirituality - There's an App for that!! St. Peter the Apostle Catholic Church 9 a.m.
-
-More Events »
 
 *   Free to Breathe® Run/Walk Unites Southwest Florida to Defeat Lung Cancer November 10 Charlotte Sports Park 6 a.m.
 *   2nd Annual Save a Life Golf Scramble Naples Beach Hotel &. Golf Club 7 a.m.
@@ -517,23 +521,35 @@ More Events »
 
 More Events »
 
+*   TIF 2012 Charity Classic Pro-Am Bay Colony Golf Club 7:30 a.m.
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Baby boot camp Miromar Outlets 9 a.m.
+*   Yoga class Saint Paul's Episcopal Church 9 a.m.
+*   Veteran's Day Weekend at Naples Zoo Naples Zoo at Caribbean Gardens 9 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Football Rivalries
+*   Prep Football
     
-    Some football games are played for bragging rights. Coming Friday: Catfish Bowl.
+    Find videos, photos from Friday's high school football games.
     
-    Biggest Catch
+    Veterans Day
     
-    See photos from local anglers with their biggest catch of the day. Submit your photos.
+    Find interactive features honoring local veterans and Veterans Day events.
     
-    f Election 2012
+    Election 2012
     
     Find results, presidential state-by-state map, photos and stories about the election.
     
-*   Mugshots
+*   Biggest Catch
+    
+    See photos from local anglers with their biggest catch of the day. Submit your photos.
+    
+    f Mugshots
     
     Looking for daily arrest mugshots? You can find them here in our special section.
     
@@ -541,11 +557,11 @@ More Events » Features
     
     They put others before themselves. see problems &. solve them. Your nomination »
     
-    Editorial Cartoons
+*   Editorial Cartoons
     
     Check out our galleries of editorial cartoons about current events or personalities.
     
-*   Download iPad
+    Download iPad
     
     Experience the Naples Daily News -- reimagined for the iPad. Download now »
     
@@ -553,13 +569,9 @@ More Events » Features
     
     Pictures, info about recently sold single-family homes in Collier and Lee.
     
-    NewsMakers
+*   NewsMakers
     
     Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
-    
-*   Film Festival
-    
-    Find film trailers, previews of films at this year's Naples International Film Festival.
     
     Our World
     
