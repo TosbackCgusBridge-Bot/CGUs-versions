@@ -1,4 +1,4 @@
-Register Sign In login Home Documents Browse All » All DocsDocstoreLegalBusinessPersonal FinanceTechnologyEducationJobs &. CareersTaxReal EstateCurrent Events Politics &. HistoryGuidesScienceEntertainmentHealth &. FitnessMedicineConferencesArt &. LiteratureLifestyleTravelTemplates Resources Browse All »Premium DocumentsDocument PackagesArticlesVideos Upload Share DocumentsSell Documents PremiumNEW All Documents All DocumentsDocStoreLegalBusinessPersonal FinanceTechnologyEducationJobs &. CareersTaxReal EstateCurrent EventsPolitics &. HistoryGuidesScienceEntertainmentHealth &. FitnessMedicineConferencesArt &. LiteratureLifestyleTravelTemplates Docstoc, Inc. Privacy Policy
+Docstoc, Inc. Privacy Policy
 
 EFFECTIVE IMMEDIATELY
 
@@ -99,40 +99,3 @@ If You have any questions regarding this Privacy Policy please contact us via em
 This Privacy Policy was last updated on September 5th, 2012, only by moving some text to a page linked at this link (http://www.docstoc.com/Pages/Static.aspx?page\_id=197)   
   
 This Privacy Policy is effective as of: March 13, 2012
-
-About Us
-
-*   What is Docstoc?
-*   FAQs
-*   Contact Us
-*   Blog
-*   Join Our Team
-*   RSS Feeds
-
-Products
-
-*   Docstoc Premium
-*   Docstoc Desktop
-*   License123™
-*   Custom Docs
-*   Mobile Apps
-*   Docstoc iPad
-*   Docstore
-
-Upload and Share
-
-*   Why Upload?
-*   Embed Documents
-*   Docstoc OneClick
-*   Docstoc Sync
-*   Docstoc API
-
-Legal
-
-*   Docstoc Terms of Service
-*   DocStore Terms of Service
-*   Copyright
-*   DMCA Guidelines
-*   Privacy Policy
-
-© Docstoc® 2011. All rights reserved. | "Disclaimer: Legal information is not legal advice. " Read More Home Contact
