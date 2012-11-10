@@ -547,7 +547,6 @@ Y*   Books + Media
     *   Baby
     *   open Home Improvement
         *   Wall Borders, Appliques
-        *   Cleaning Supplies
         *   Household Helpers
     *   Electronics
     *   open Toys + Sports
@@ -652,8 +651,6 @@ Y*   Books + Media
         *   Sports + Outdoor
         *   Water Fun
         *   Arts + Crafts
-        *   open Books
-            *   Activity
         *   Play Sets
         *   open Games + Puzzles
             *   Family Games
@@ -702,7 +699,6 @@ Y*   Books + Media
         *   DVDs, Videos
         *   Inspirational
         *   Cookbooks
-        *   Activity
     *   open Storage
         *   Household
     *   open Housewares + Dining
@@ -723,7 +719,6 @@ Y*   Books + Media
         *   Baby
         *   open Men
             *   Coats, Jackets
-            *   Shirts
             *   Sleepwear, Loungewear
         *   open Women
             *   Beachwear
@@ -798,7 +793,6 @@ Y*   Books + Media
             *   Furniture
             *   Collections
     *   open Gifts
-        *   Collectibles
         *   Food Gifts
         *   Wedding
         *   Gift Ideas
@@ -1024,7 +1018,6 @@ Y*   Books + Media
         *   Kitchen and Dining
     *   open Storage
         *   Seasonal
-        *   Cabinet Storage
         *   Bathroom
         *   Furniture
         *   Household
@@ -1112,7 +1105,6 @@ Y*   Books + Media
     *   open Storage + Organization
         *   Bowls
         *   Household Organization
-        *   Cabinet
         *   Countertop Accessories
     *   Appliances
     *   open Baking + Cooking
@@ -1189,7 +1181,6 @@ Y*   Books + Media
     *   Lunch Totes
 *   Electronics
 *   open Storage
-    *   Cabinet Storage
     *   Bathroom
     *   Furniture
     *   Closet
