@@ -44,10 +44,10 @@ Loading Modnique - Boutique Events
 
 *   Events
     *   _Very time-limited shopping experiences that allow us to offer the greatest savings. Don't wait, they only last 2-4 days before they're gone!_
-    *   *   apparel Bamboos women's apparel Girls Night Out: Dresses &. Jewelry Tough Luv Women's Apparel Made In U... RED Valentino Featuring Shoes &. App... La fille au couturier women's appar... Ferrari Men's Apparel &. Accessories Kamali Kulture Women's Dresses Emporio Armani Intimates French Twist: Un Coeur En Ete Women... Nuvula Women's Apparel Access Pass Australia: Summer Dress... Rock Revolution Sweaters Dex Women's Apparel _more..._
-        *   Jewelry &. Watches Pearls. Pearls. Pearls. Girls Night Out: Dresses &. Jewelry Lauren G. Adams Jewelry The dress watch: for him &. her Touch of Color: gemstone jewelry Holiday gifts: Silver jewelry under... Holiday gifts: Affordable jewelry Watches we love: Charriol, Graham, ... Krementz - American Jewelry Traditi... Foreli Jewelry Made In USA Holiday gifts: Designer jewelry Sparkle &. Shine: Our Favorite Diamo... Pearl jewelry deals from $5 Luca Carati &. Zydo luxury jewelry Italian Watches: 3H Italia, Gai Mat... One &. Only: Luxury jewelry for her Get the look: Men's &. Women's leath... PILGRIM Ladies Crystal Bracelet _more..._
+    *   *   apparel Week in Rewind Bamboos women's apparel Girls Night Out: Dresses &. Jewelry Tough Luv Women's Apparel Made In U... RED Valentino Featuring Shoes &. App... La fille au couturier women's appar... Ferrari Men's Apparel &. Accessories Kamali Kulture Women's Dresses Emporio Armani Intimates French Twist: Un Coeur En Ete Women... Nuvula Women's Apparel Access Pass Australia: Summer Dress... Rock Revolution Sweaters Dex Women's Apparel _more..._
+        *   Jewelry &. Watches Week in Rewind Pearls. Pearls. Pearls. Girls Night Out: Dresses &. Jewelry Lauren G. Adams Jewelry The dress watch: for him &. her Touch of Color: gemstone jewelry Holiday gifts: Silver jewelry under... Holiday gifts: Affordable jewelry Watches we love: Charriol, Graham, ... Krementz - American Jewelry Traditi... Foreli Jewelry Made In USA Holiday gifts: Designer jewelry Sparkle &. Shine: Our Favorite Diamo... Pearl jewelry deals from $5 Luca Carati &. Zydo luxury jewelry Italian Watches: 3H Italia, Gai Mat... One &. Only: Luxury jewelry for her Get the look: Men's &. Women's leath... Ladies Earrings Designed In 925 Ste... _more..._
         *   Handbags &. Accessories MariAngel Handbags Made in Italy Tom Ford Sunglasses Made In Italy Charles Jordan &. Just Cavalli Handb... Ferrari Men's Apparel &. Accessories Italian designer handbags: Gucci, F... Holiday gifts: Designer jewelry Kenneth Cole Men's Accessories Vivienne Westwood Accessories Ore10 Genuine Leather Handbags Made... Emilio Pucci sunglasses _more..._
-        *   shoes Badgley Mischka shoes StyleMax Women's Shoes Pirelli Pzero Shoes _more..._ beauty Women's Fragrances: Versace, Lanvin... Men's Fragrances: Gucci, Versace, H... Lather, Rinse, Repeat: Hot Hair Ess... French Beauty featuring YSL _more..._ men Men's Fragrances: Gucci, Versace, H... The dress watch: for him &. her Tom Ford Sunglasses Made In Italy Ferrari Men's Apparel &. Accessories Watches we love: Charriol, Graham, ... Kenneth Cole Men's Accessories _more..._
+        *   shoes Week in Rewind Badgley Mischka shoes StyleMax Women's Shoes Pirelli Pzero Shoes _more..._ beauty Men's Fragrances: Gucci, Versace, H... Women's Fragrances: Versace, Lanvin... Lather, Rinse, Repeat: Hot Hair Ess... French Beauty featuring YSL _more..._ men Week in Rewind Men's Fragrances: Gucci, Versace, H... The dress watch: for him &. her Tom Ford Sunglasses Made In Italy Ferrari Men's Apparel &. Accessories Watches we love: Charriol, Graham, ... _more..._
 *   Shops
     *   _These shops won't last forever, but they will stick around for awhile. We specially curate our shops and continually update the merchandise to give you the best of what's available._
     *   _THE HOLIDAY STYLE SHOP_ Shop the perfect festive pieces - just in time for soiree season! _GIFTS FOR HER_ Find that perfect something for every woman on your list _GIFTS FOR HIM_ Find that perfect gift for every man on your list. _THE JEWELRY BOX_ Lust-worthy jewelry that will instantly transform your look! _PRELOVED DESIGNER JEWELRY &. WATCHES_ Timeless classics that transform any look from ordinary to extraordinary _PRELOVED DESIGNER HANDBAGS_ Celebrate The Holidays With A Designer Bag For You Or Someone You Love _THE WINTER ESSENTIALS FOR HER_ Packed with statement coats, cozy sweaters, chic boots, and more. _THE WINTER ESSENTIALS FOR HIM_ Seize the season with winter essentials for him. _THE COLOR SHOP: GREY, BLACK, RED_ You shopped, we listened! Paint your wardrobe with Modniques favorite color palette.
@@ -78,7 +78,7 @@ Loading Modnique - Boutique Events
     *   Lauren G. Adams Jewelry
     *   The dress watch: for him &. her
     *   Tom Ford Sunglasses Made In Italy
-    *   Watches we love: Charriol, Graham, Movado
+    *   Week in Rewind
     *   _more..._
 *   apparel
     *   women
@@ -98,6 +98,9 @@ Loading Modnique - Boutique Events
     *   men
     *   Ferrari Men's Apparel &. Accessories
     *   _more..._
+    *   other
+    *   Week in Rewind
+    *   _more..._
 *   Jewelry &. Watches
     *   women
     *   Foreli Jewelry Made In USA
@@ -106,9 +109,9 @@ Loading Modnique - Boutique Events
     *   Holiday gifts: Designer jewelry
     *   Holiday gifts: Silver jewelry under $39
     *   Krementz - American Jewelry Tradition Since 1866
+    *   Ladies Earrings Designed In 925 Sterling Silver
     *   Luca Carati &. Zydo luxury jewelry
     *   One &. Only: Luxury jewelry for her
-    *   PILGRIM Ladies Crystal Bracelet
     *   Pearl jewelry deals from $5
     *   Pearls. Pearls. Pearls.
     *   Sparkle &. Shine: Our Favorite Diamond Styles
@@ -120,6 +123,7 @@ Loading Modnique - Boutique Events
     *   Lauren G. Adams Jewelry
     *   The dress watch: for him &. her
     *   Watches we love: Charriol, Graham, Movado
+    *   Week in Rewind
     *   _more..._
 *   Handbags &. Accessories
     *   women
@@ -144,6 +148,9 @@ Loading Modnique - Boutique Events
     *   Pirelli Pzero Shoes
     *   StyleMax Women's Shoes
     *   _more..._
+    *   other
+    *   Week in Rewind
+    *   _more..._
 *   beauty
     *   women
     *   Women's Fragrances: Versace, Lanvin, Bvlgari and more
@@ -166,6 +173,7 @@ Loading Modnique - Boutique Events
     *   The dress watch: for him &. her
     *   Tom Ford Sunglasses Made In Italy
     *   Watches we love: Charriol, Graham, Movado
+    *   Week in Rewind
     *   and many more...
 *   Shops
     *   THE HOLIDAY STYLE SHOP
