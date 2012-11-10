@@ -250,7 +250,6 @@ Allemagne | Canada | Chine | Espagne | États-Unis | Italie | Japon | Royaume-Un
 *   KindlePetit, léger, parfait pour la lecture
 *   Kindle PaperwhiteLa liseuse la plus perfectionnée au monde
 *   Kindle Paperwhite 3GAvec connexion 3G gratuite
-*   Kindle TouchÉcran tactile simple d'utilisation avec Wi-Fi
 *   Applications de lecture gratuitesPour PC, iPad, iPhone, Android, et plus encore
 *   Accessoires
 
