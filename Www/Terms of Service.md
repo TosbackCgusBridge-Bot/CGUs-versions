@@ -2,7 +2,7 @@ Close Window Print
   Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: October 17, 2012**
+**Last Revised: November 9, 2012**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -648,9 +648,23 @@ If, at the time Go Daddy receives confirmation of payment from the IPP (through 
 
 In the event that your Account contains an in-store credit balance, you may apply any available credit balance to any future purchase in your Account.  In the event that your Account contains an in-store credit balance, you hereby authorize Go Daddy to apply any available credit balance to any outstanding administrative fees, chargebacks or other fees related to your Account.  In the event that your default Payment Method fails for an automated billing in connection with the processing of any Service renewals, Go Daddy may utilize any available in-store credit balance if there are enough funds to cover the entire transaction. Regardless of the amount of in-store credit available in your account, Go Daddy is not responsible for the loss of products resulting from an inability to collect funds from your default Payment Methods or the in-store credit.  In-store credits will be applied based on the currency selected in the shopping cart at the time of purchase (or renewal). If you have more than one in-store credit, then the credits will be processed according to the age of the credit, with the oldest in-store credit being applied first. If additional funds are required to complete the purchase or renewal, credits held in a non-selected currency will be converted using Go Daddy’s daily exchange rate based on the age of the credit (oldest to newest) until (i) enough funds are allocated to complete the transaction, or (ii) there is no available balance left in your account. You understand and agree that at the time of conversion, Go Daddy may also impose an additional administrative fee to compensate for the risks and costs associated with providing currency conversion services.
 
-You can verify your available in-store credit balance at any time by logging into “Manage Your Account” or through the shopping cart on the Go Daddy website. You acknowledge that in-store credit balances are non-transferrable, may only be used in the Account in which they were acquired and may expire. Complimentary in-store credits will expire two years after issuance.  In the event that Go Daddy terminates your Account, you acknowledge and agree that any remaining available in-store credit balance will be forfeited.  In-store credit balances may be redeemed to your Payment Method, only if: (i) requested by you and (ii) if the available in-store credit was from a product or service purchase charged to your Payment Method.  If your Payment Method imposes limitations on refunds, you may be issued a check, in USD for refundable in-store credits and subject to the terms described in Section 15.(A).  All refunds of in-store credits must be requested within two years of issuance.  In no event will in-store credit refunds exceed the amount originally charged to the Payment Method.
+You can verify your available in-store credit balance at any time by logging into “Manage Your Account” or through the shopping cart on the Go Daddy website. You acknowledge that in-store credit balances are non-transferrable, may only be used in the Account in which they were acquired and may expire. Complimentary in-store credits will expire two years after issuance.  In the event that Go Daddy terminates your Account, you acknowledge and agree that any remaining available in-store credit balance will be forfeited.  In-store credit balances may be redeemed to your Payment Method, only if: (i) requested by you and (ii) if the available in-store credit was from a product or service purchase charged to your Payment Method.  If your Payment Method imposes limitations on refunds, you may be issued a check, in USD for refundable in-store credits and subject to the terms described in Section 15.(A).  All refunds of in-store credits must be requested within two years of issuance.  In no event will in-store credit refunds exceed the amount refunded to in-store credit for any associated Payment Method.
 
 You also acknowledge that funds available in your in-store credit balance will be held by Go Daddy and will not accrue or pay interest for your behalf. To the extent any interest may accrue, you understand and agree that Go Daddy shall be entitled to receive and keep any such amounts to cover costs associated with supporting the in-store credit balance functionality.
+
+_**(G) GIFT CARDS**_
+
+This section sets forth the terms and conditions of Your use of Go Daddy's Gift Card service and its related services (collectively, the "Card").  Go Daddy grants You a non-exclusive license to use the Card, provided, however, that You abide by the terms and conditions set forth herein and in each of Go Daddy's policies and procedures.
+
+The Services generally allow You to redeem the Card for goods and services from Go Daddy except to purchase another gift card, an auction membership, a product that would include a free auction membership, or any offer that excludes purchase by gift card.
+
+The Card is a non-reloadable, non-refundable, non-personalized prepaid gift card, and may not be re-sold, transferred, redeemed for cash or applied to any account, except to the extent required by law. The Card is not an account, does not earn interest, and is not FDIC insured. The Card is not a credit card. You authorize us to pay all transactions made using the Card with the funds credited to the Card. You agree to use the Card only as provided in this Agreement and in accordance with applicable law. You agree the amount of funds shown on our records regarding the Card will determine the balance on the Card. Once the Card balance reaches zero dollars ($0), all transactions will be declined. In any case where the recipient of the Card is given value through the use of the Card greater than the remaining balance, You will pay us on demand the amount by which the transactions exceeded the balance.
+
+You may give the Card to any recipient, however in order for the recipient to redeem the value credited to the Card, they will have to create an account with Go Daddy and agree to any policies and agreements related to the product or service purchased.
+
+The Card is like cash in that it may be used immediately without identification. You agree to use Your best efforts to protect the Card against loss, theft, or unauthorized use. You may call customer service to report a lost or stolen Card. At our discretion, a replacement Card may be issued, less any applicable fees.
+
+Go Daddy reserves the right, in its sole discretion, to deem any value on a Card not redeemed within five (5) years from purchase date to be expired.
 
 ****16**. UNCLAIMED PROPERTY. DORMANCY CHARGES**
 
@@ -691,5 +705,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 10/17/2012  
+Revised: 11/9/2012  
 Copyright © 2005-2012 GoDaddy.com, LLC All Rights Reserved. close **Este Acuerdo traducido se proporciona solamente como una comodidad y no más para facilitar la lectura y la comprensión de la versión en ingles. El propósito de proporcionar el Acuerdo en idioma extranjero no es para crear un acuerdo jurídicamente vinculante, ni es un substituto para la validez legal de la versión en ingles. En caso de cualquier controversia o conflicto, la versión en ingles de este Acuerdo en todos los casos gobernará nuestra relación y prevalecerá sobre los términos en cualesquier otro idioma.** Close
