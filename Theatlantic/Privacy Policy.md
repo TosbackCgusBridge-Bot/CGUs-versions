@@ -1,9 +1,9 @@
 Skip Navigation
 
-*   The Democratic Data Advantage
+*   The Evolution of Urban Planning in 10 Diagrams
+*   Bond to Swift: The Week's Best Pop-Culture Writing
+*   In China, You Can't Say 'I Voted!' in Chinese
 *   The Past, Present, and Future of Note-Taking
-*   It's Not Too Early to Talk About Freezing Your Eggs
-*   Where America's Racist Tweets Come From
 
 *   Politics
     *   Top Stories
@@ -23,28 +23,28 @@ Skip Navigation
     *   It's Not a Fiscal Cliff, It's a Fiscal Fast
 *   Tech
     *   Top Stories
-    *   Write-In Campaign for Darwin Garners the Dead Scientist 4,000 Votes
-    *   Duly Noted: The Future of Note-Taking
+    *   What It's Like to Vote for President ... From Space
     *   Did Facebook Give Democrats the Upper Hand?
+    *   Data Doesn't Belong to the Democrats
+    *   How Much Would You Pay to Never See an Online Ad Again?
     *   David Petraeus Was Brought Down by ... Gmail
     *   The Wright Brothers' Famous 1903 Flying Machine Patent Is Missing
-    *   Where America's Racist Tweets Come From
 *   National
     *   Top Stories
     *   A Perfect New Mission for Eric Holder? Voting Rights
     *   NYC Restaurants Beat Sandy
     *   Defending the Constitution, Term 2
-    *   Residents Survive Fire and Ice in Breezy Point, Queens
-    *   The Supreme Court Will Hear a Challenge to the Voting Rights Act
-    *   Sordid Casino Battle Ends, Inevitably, in Victory of Casinos
+    *   Media Wrapup: Moyers, Petraeus, Kaplan, Juneau
+    *   A Veterans Day Like None Other Before
+    *   Charter Schools, the Cliffhanger Issue of the 2012 Election
 *   Global
     *   Top Stories
     *   What's the Conservative Equivalent of 'Moving to Canada'?
     *   America Abroad in Obama's Second Term: Who Will Lead U.S. Diplomacy?
     *   How to Stop Reactionaries From Derailing Reform in China
-    *   Moyers, Chinese Education, China Airborne
-    *   How the United States Can Maintain Its Global Edge
-    *   No, America, Outside Election Monitors Aren't Beneath You
+    *   Why You Can't Say 'I Voted!' in Chinese—at Least in China
+    *   Electoral Map: What If China Became a Multiparty Democracy Tomorrow?
+    *   The Death of Leonid Brezhnev and the Long Battle for Russia's Future
 *   Health
     *   Top Stories
     *   It's Not Too Early to Talk About Freezing Your Eggs
@@ -58,17 +58,17 @@ Skip Navigation
     *   Women Are Not a Unified Voting Bloc
     *   What I Learned From Hiring a Love Coach
     *   Female Doctors on TV, Pop-Culture Cliche
+    *   Obama Did Better In States Where Lots of People Search for 'Top Chef'
     *   Obama Shows, Once Again, That Crying Is for Winners
     *   Why Demographics Can't Fully Predict How People Vote
-    *   There Are Decent Men on TV, If You Know Where to Look
 *   Entertainment
     *   Top Stories
     *   The Barack Obama of Pro Football Is ...
     *   'Skyfall': James Bond Rises Again, Spectacularly
     *   A Storm in a Jar: Art Installations That Imitate Weather
+    *   SNL's Anne Hathaway Episode: 5 Best Scenes
+    *   Nickelback, Hipsters, and Fox News: The Week's Best Pop-Culture Writing
     *   The Subtle Eloquence of 'Lincoln'
-    *   Great Emancipator or Creepy Slob? Historic Portrayals of Abraham Lincoln
-    *   'I Will Never Make a Movie on Tape': Eye-Opening Movies About the Movies
 *   Magazine
     *   In This Month's Issue
     *   Our 2012 Brave Thinkers List
@@ -88,7 +88,7 @@ Skip Navigation
 *   Video
 *   Photo
 *   Newsletters
-*   Residents Survive Fire and Ice in Breezy Point, QueensJulie Dermansky
+*   Media Wrapup: Moyers, Petraeus, Kaplan, JuneauJames Fallows
 
 Privacy Policy
 
@@ -196,8 +196,8 @@ Washington, DC 20037
 Special Report Alex Hoyt How the Map Changed as the Polls Came In  
 A state-by state guide. And it's never too late to check out _The Atlantic_'s obsessive all-night coverage of the whole election. Read more › Writers
 
-*   Ta-Nehisi Coates Uppers And The Horde Unite Like Voltron 8:00 AM ET
-*   James Fallows Moyers, Chinese Education, China Airborne 1:35 AM ET
+*   James Fallows Media Wrapup: Moyers, Petraeus, Kaplan, Juneau 5:45 AM ET
+*   Ta-Nehisi Coates Uppers And The Horde Unite Like Voltron Nov 10, 2012
 *   Derek Thompson 2 Graphs That Should Accompany Every Discussion… Nov 9, 2012
 *   Robert Wright Food for Republican Thought From Nate Silver Nov 9, 2012
 *   Alexis C. Madrigal The Question I Didn't Get to Ask Pinterest CEO… Nov 8, 2012
@@ -237,35 +237,35 @@ Most Popular
 
 1
 
-David Petraeus Was Brought Down by ... Gmail
+Syria in Ruins
 
 2
 
-Syria in Ruins
+How Conservative Media Lost to the MSM and Failed the Rank and File
 
 3
 
-How Conservative Media Lost to the MSM and Failed the Rank and File
+Hurricane Sandy: After Landfall
 
 4
 
-Hurricane Sandy: After Landfall
+Where America's Racist Tweets Come From
 
 5
 
-Where America's Racist Tweets Come From
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 6
 
-The GOP Must Choose: Rush Limbaugh or Minority Voters
+General Failure
 
 7
 
-Noam Chomsky on Where Artificial Intelligence Went Wrong
+SNL's Anne Hathaway Episode: 5 Best Scenes
 
 8
 
-The Right's Jennifer Rubin Problem: A Case Study in Info Disadvantage
+The Graded, Ranked, and Non-Negotiable Guide to Every 'Bond' Song
 
 9
 
@@ -273,13 +273,13 @@ Hurricane Sandy: The Aftermath
 
 10
 
-The Fiscal Cliff Explainer: What It Is, Where It's From, Who Will Pay, and Why It Matters
+You're Not Moving to Canada: The Psychology of Post-Election Melodrama
 
 ATLANTIC MEDIA Atlantic Wire
 
-*   Lots of Groundwater Will Stay Polluted. More Work Needed on Malaria Vaccines
-*   Jimmy Kimmel's Family Members Are Apparently Fair Game
-*   Maya Civilization Changed with the Climate. What's Next For Green Legislation
+*   Allen West Will Not Go Quietly Into that Good Night
+*   Pair of Scandals Lead to BBC Director General's Resignation
+*   There's a Mystery Third Woman in the Petraeus Affair
 
 **More from Atlantic Wire**
 
@@ -293,17 +293,17 @@ Atlantic Cities
 
 Quartz
 
+*   In the global economy of 2060, China and India will be the biggest, but still not the richest
 *   How much would you pay to never see an online ad again?
 *   Thank goodness it’s Friday, the day no one will ever read about this story, ever
-*   Lessons from IBM’s near-implosion in the mid-1990s
 
 **More from Quartz**
 
 National Journal
 
-*   2 Mandatory Graphs for Pairing With GOP Demographic Analyses
-*   Next Trillion-Dollar Stimulus? It'll Be Immigration Reform
-*   Kubasik Out at Lockheed Martin. Hewson to Become Next CEO
+*   Four Days Later, Obama Wins Florida
+*   Election Recap: A Party in Flux, a Changed Electorate, a Divided House, Senate
+*   Bono and Mack Fail in Election Bids
 
 **More from National Journal**
 
