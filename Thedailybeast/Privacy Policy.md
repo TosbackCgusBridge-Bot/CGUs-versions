@@ -145,11 +145,11 @@ Stories We Like
 
   Most Popular
 
-1.  Meet Paula Broadwell
-2.  Petraeus’s Rules for Living
-3.  Thank You, GOP!
-4.  Is the Cult of Karl Over?
-5.  Petraeus Quits and Questions Mount
+1.  The Woman Behind the General
+2.  The Happiness Project
+3.  Petraeus’s Rules for Living
+4.  Mitt Romney’s Fast Fade
+5.  Is She the ‘Other Woman’?
 
   Other News Entertainment
 
@@ -160,23 +160,23 @@ Stories We Like
 
 Entertainment
 
-*   The 4 most ridiculous quotes from David Hasselhoff’s latest interview
-*   ‘Disney Epic Mickey 2: The Power of Two’: Welcome to Autotopia — EXCLUSIVE IMAGES
-*   Lindsay Lohan pulls out of Barbara Walters interview — Maybe for the best?
+*   Anne Hathaway hosts tonight’s ‘Saturday Night Live’: Talk about it here!
+*   Javier Bardem in ‘Skyfall’: Give this man an(other) Oscar!
+*   In defense of ‘Die Another Day’: Thirteen reasons why Pierce Brosnan’s last Bond film is better, weirder, and more wonderful than you remember
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Conservative Republican Rejects Boehner Compromise Offer In Leadership Bid
-*   Kylie Minogue Puts A New Spin On Her Old Hits
-*   Messina: Obama Won On The Small Stuff
+*   Aide: Deval Patrick Doesn't Want To Be Attorney General
+*   With Petraeus Gone, Administration Shuffle Begins In Earnest
+*   Anonymous May Have Hacked Petraeus Mistress
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Romney Voter Targeting System a Total Bust
-*   Coolidge
-*   Petraeus Resigns Over Extramarital Affair
+*   Karl Rove and His Super PAC Press On
+*   Huntsman for Secretary of State?
+*   Bonus Quote of the Day
 *   **Get More from Political Wire**
 
 The Daily Beast
