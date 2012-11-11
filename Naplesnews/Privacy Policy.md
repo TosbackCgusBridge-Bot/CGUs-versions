@@ -143,23 +143,6 @@ Naples Daily News
 *   Cars
 *   Classified
 
-*   PrepZone: Catfish Bowl
-    
-    Scores &. Chat Archive | Game Photos | Game Video | Special Section: Catfish Bowl | More PrepZone »
-    
-*   Game Photos
-    
-    Venice vs. Naples | First Baptist vs. Marco Island Academy | More Photos »
-    
-*   Game Videos
-    
-    Naples vs. Venice | Estero vs. Bishop Verot | First Baptist vs. Marco Island Academy | Immokalee vs. Dunbar
-    
-*   From the Stands
-    
-    Naples Fans | Naples Band | Barron Collier Fans &. Band | Send us your photos »
-    
-
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -452,25 +435,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 105 comments
+*   Four days later: Obama declared winner of Florida's 29 electoral votes Updated 11/10/2012 at 1:21 p.m. 124 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 200 comments
+*   Judge Turner: Colleagues praise his work as decades on bench end Published 11/10/2012 at 9:00 a.m. 32 comments
+*   Country star LeAnn Rimes gives private concert to 150 in Naples home Published 11/10/2012 at 10:59 p.m. 6 comments
+*   Naked East Naples man accused of undressing passed out woman Published 11/9/2012 at 8:00 p.m. 36 comments
+
+Photo Galleries Immokalee Homecoming King: Julio Loya LeAnn Rimes performs a private concert Prep Football: Venice vs. Naples
+
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 200 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Updated // at : 202 comments
+*   4 more years: Obama wins re-election Updated 11/7/2012 at 12:33 a.m. 645 comments
+*   Four days later: Obama declared winner of Florida's 29 electoral votes Updated 11/10/2012 at 1:21 p.m. 124 comments
+*   CIA Director David Petraeus resigns because of extramarital affair Updated 11/9/2012 at 4:08 p.m. 77 comments
+
+*   Big land deals again big deal in Southwest Florida, housing expert says Updated // at : 16 comments
+*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Updated // at : 142 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Updated // at : 202 comments
+*   Plans fizzle for SW Fla energy crop jatropha, company executive indicted Updated // at : 5 comments
 *   Court: Valet not liable for letting drunken driver leave Updated 11/9/2012 at 9:20 a.m. 45 comments
-*   Prep Football: Chat, scores, videos, photos and stories from Week 11 Updated 11/10/2012 at 12:07 a.m. 0 comments
-*   CIA Director David Petraeus resigns because of extramarital affair Updated 11/9/2012 at 4:08 p.m. 47 comments
-*   4 more years: Obama wins re-election Updated 11/7/2012 at 12:33 a.m. 646 comments
-
-Photo Galleries Prep Football: Venice vs. Naples 2012 Victoria's Secret fashion show Prep Football: Gulf Coast vs. Barron…
-
-*   4 more years: Obama wins re-election Published 11/6/2012 at 8:00 a.m. 646 comments
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 200 comments
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Published 11/9/2012 at 6:10 a.m. 105 comments
-*   Election 2012: Florida counting last presidential votes. Obama still narrowly leads Published 11/8/2012 at 6:52 a.m. 70 comments
-*   Stocks plunge after election. Europe woes deepen Published 11/7/2012 at 12:16 p.m. 65 comments
-
-*   Big land deals again big deal in Southwest Florida, housing expert says Published 11/9/2012 at 5:30 a.m. 14 comments
-*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 142 comments
-*   Plans fizzle for SW Fla energy crop jatropha, company executive indicted Published 11/5/2012 at 8:00 a.m. 5 comments
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 200 comments
-*   Court: Valet not liable for letting drunken driver leave Published 11/9/2012 at 5:00 a.m. 45 comments
 
 Weather
 
@@ -478,40 +461,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 58° Partly Cloudy Wind: NE 4mph Today 78° 63° Sat 08:00 PM Partly Cloudy Temp: 68° Sun 08:00 AM Mostly Sunny Temp: 74° Sun 08:00 PM Mostly Clear Temp: 69°
+Currently 62° Mostly Cloudy Wind: NE 5mph Today 80° 66° Sun 08:00 PM Mostly Clear Temp: 70° Mon 08:00 AM Partly Sunny Temp: 76° Mon 08:00 PM Mostly Clear Temp: 72°
 
-Feels Like: 68°
+Feels Like: 70°
 
-Humidity: 66%
+Humidity: 71%
 
 Precip: 3%
 
-Feels Like: 74°
+Feels Like: 76°
 
-Humidity: 59%
+Humidity: 65%
 
-Precip: 6%
+Precip: 14%
 
-Feels Like: 69°
+Feels Like: 72°
 
-Humidity: 76%
+Humidity: 71%
 
-Precip: 5%
+Precip: 10%
 
 More Weather » Calendar
 
-*   Saturday Nov 10
 *   Sunday Nov 11
 *   Monday Nov 12
+*   Tuesday Nov 13
 *   More BROWSE Icon
-
-*   Free to Breathe® Run/Walk Unites Southwest Florida to Defeat Lung Cancer November 10 Charlotte Sports Park 6 a.m.
-*   2nd Annual Save a Life Golf Scramble Naples Beach Hotel &. Golf Club 7 a.m.
-*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
-*   Third Street South Farmers Market Third Street South 7:30 a.m.
-*   7th Annual Sanibel Island Writers Conference Sanibel Island 7:30 a.m.
-
-More Events »
 
 *   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
 *   7th Annual Sanibel Island Writers Conference Sanibel Island 7:30 a.m.
@@ -526,6 +501,14 @@ More Events »
 *   Baby boot camp Miromar Outlets 9 a.m.
 *   Yoga class Saint Paul's Episcopal Church 9 a.m.
 *   Veteran's Day Weekend at Naples Zoo Naples Zoo at Caribbean Gardens 9 a.m.
+
+More Events »
+
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Veterans Portrait Project Exhibit IberiaBank on Marco Island 9 a.m.
+*   Barrier Islands Guided Walk Bowditch Point Recreational Park 9:30 a.m.
+*   Understanding Technology – Phones, Kindles, Nooks, iPads, Tablets, PC’s &. Macs FGCU Naples Center 10 a.m.
+*   Oil painting with Christine Rosen Gallery and Studios 10 a.m.
 
 More Events »
 
