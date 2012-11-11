@@ -1,5 +1,5 @@
   
-Users Online Now: **1,716** (Who's On?) Visitors Today: **334,027** Pageviews Today: **558,947** Threads Today: **283** Posts Today: **4,021** 08:12 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **1,930** (Who's On?) Visitors Today: **319,849** Pageviews Today: **617,794** Threads Today: **293** Posts Today: **5,045** 08:15 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,16 @@ trinity@godlikeproductions.com
   
 News
 
+*   Economy: Post-Election Firings and Layoffs Surge
+*   US bishops call for renewed view of marriage in wake of election
+*   Four years later, Vatican takes a different approach toward Obama
+*   Is this why CIA chief really resigned? Gun running to jihadists could dwarf 'Fast and Furious' scandal
+*   California's landmark global warming law becomes real this week with first cap-and-trade auctions
+*   View Internet Porn, Get Blackmailed By Hackers
+*   NASA Expected To Unveil New Manned Moon Mission
+*   Cash-free Greek communities take off while economy collapses
+*   Lawyer owes $300,000 for showing child pornography at trial
+*   After Obama win, U.S. backs new U.N. arms treaty talks
 *   For Obama’s Second Term, NASA Revives a Plan from Clinton’s Second Term
 *   Video: 5 Years of Incredible X-Ray Explosions From the Sun
 *   New Australian telescope set to find 700,000 new galaxies
@@ -127,16 +137,6 @@ News
 *   School: Bus driver asks student to pick up gun from roadside(MN)
 *   Louisiana Petitions to Leave Union
 *   America Has Shifted To The Left And The Culture War Is Over
-*   Gas Rationing: New Yorkers, Welcome to the Third World
-*   Obama Wins 8 of the Nation’s 10 Wealthiest Counties…Impressive Stats for a “Socialist”
-*   Ex-chief of Iraq central bank says his sudden removal was government effort to seize control
-*   Millions of GMO Mosquitoes Released Without Risk Assessment or Oversight
-*   Pepsi will layoff 4000 employees
-*   WOW Player Accidentally Live Streams Sex W/Girlfriend
-*   Marc Faber's Asset Protection Plan: "Buy A Machine Gun", No Really, "You're Right, Buy A Tank"
-*   Implantable medical devices powered by the ear itself
-*   Crypto keys can be stolen from neighbours in the cloud
-*   Planetary scientists propose two explanations for true polar wander
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.015s (0 queries)
+Page generated in 0.017s (0 queries)
