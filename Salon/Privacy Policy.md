@@ -7,13 +7,13 @@ Register Sign in Welcome, Logout
         *   2012 Elections
         *   Barack Obama
         *   Mitt Romney
+        *   From the Wires
         *   Elections 2012
         *   U.S. Economy
-        *   From the Wires
-        *   John Boehner
-        *   New York
-        *   Hurricane Sandy
         *   Republicans
+        *   Books
+        *   Hurricane Sandy
+        *   New York
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -198,25 +198,25 @@ Current Stories Weird news: Woman pays $200 for iPad that turns out to be mirror
 
 News. Jalonta Freeman has learned from her mistake and advises others not to do the same
 
-Obama's foreign policy needs to get ambitious
+Hey, liberals: You haven't won the culture war
 
-Politics. His first term was spent playing defense. Now it's time the president boldly forge a liberal international movement
+Politics. Bill O'Reilly may have surrendered, but America's dangerous divisions go deeper than party, race or religion
 
-Rule-breaking isn't anarchy!
+Book publishing crisis: Capitalism kills culture
 
-Entertainment. James C. Scott's new book debases its political philosophy by transforming it into self-help tripe
+Entertainment. Publishing teeters as Random House and Penguin plan to merge. It's time for a government policy to protect the arts
 
-I ruined the family vacation
+I'm gay. Why did I marry a woman?
 
-Life. With one little screw-up, I reminded myself what a loser I am -- and how forgiving life can be
+Life. I knew I loved guys in high school and never stopped sleeping with them. But then I met a woman who fascinated me
 
 Most Read
 
-*   Philip Roth: "I'm done" David Daley
 *   Fordham head blasts Ann Coulter Joan Walsh
-*   America didn't vote for a "grand bargain" Rick Perlstein
-*   17 best excuses for Romney's defeat Elissa Schappell, The Weeklings
-*   Conservatives turn on Karl Rove Jillian Rayfield
+*   Karl Rove's having a bad week Lauren Kelley, Alternet
+*   Is the conservative media killing conservatives? Paul Waldman, The American Prospect
+*   Hey, liberals: You haven't won the culture war Andrew O'Hehir
+*   Philip Roth: "I'm done" David Daley
 
 Voices
 
