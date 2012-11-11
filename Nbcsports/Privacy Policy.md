@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Afghan kids tell of massacre by lone US soldier
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Sweeping child abuse scandal shakes UK institutions
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Joe Howell / AP 7-1 Bears will topple 7-1 Texans
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Bob Levey / Getty Images Texans-Bears all about offenses
     
-    PFT's picks: And the Saints could give the undefeated Falcons a headache in New Orleans.
+    Bedard: When the Bears and Texans meet on Sunday Night Football in one of the top matchups so far this season — both teams are 7-1 — the defenses for each team will be spotlighted. But the better offense will likely determine the winner.
     
-    PFT: Eli's struggles may be due to 'tired arm' PFT: Tebow still considered most overrated Kacsmar: The five biggest surprises Kacsmar: Who are pretending, and contending? Midseason report for every team   |  All-Pro team PFT Live: Perfect Falcons face improving Saints PFT Live: Reigniting Carroll vs. Sanchez Carroll: Sanchez left too early  |  Tebow frustrated Ad
+    PFT's picks: 7-1 Bears will topple 7-1 Texans PFT Live: Perfect Falcons face improving Saints PFT Live: Reigniting Carroll vs. Sanchez PFT Live: Time for Jerry Jones to hire a GM? PFT Live: Florio's Week 10 coaching hot seat 4-year-old son of Raiders assistant dies PFT: Eli's struggles may be due to 'tired arm' PFT: Tebow still considered most overrated Ad
 *   MLB
     SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Scott Cunningham / Getty Images It's major decision time
     
     DeMarco: Their financial coffers are full, their successes in the near-past, and their futures uncertain. Welcome to the off-seasons of the Texas Rangers, Philadelphia Phillies and Boston Red Sox — major-market franchises facing major decisions.
     
-    HBT: Yanks 'not trading Alex Rodriguez' HBT: Rangers will only offer Hamilton 3-year deal HBT: Hall of Famer MacPhail dies at 95 HBT: Weiss better have good first year with Rockies Izturis agrees to $10M contract with Blue Jays HBT: Follow our free-agent tracker HBT: Yankees expect Rivera to take pay cut HBT: Sizemore plans to play in '13 after missing '12 Ad
+    HBT: Dodgers have winning bid for Hyun-Jin HBT: Dodgers making strong pitch for Hunter HBT: Yanks 'not trading Alex Rodriguez' HBT: Rangers will only offer Hamilton 3-year deal HBT: Hall of Famer MacPhail dies at 95 HBT: Weiss better have good first year with Rockies Izturis agrees to $10M contract with Blue Jays HBT: Follow our free-agent tracker Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Brendan Mcdermid / Reuters 'Still a lot of work to be done'
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Chris Young / AP Avoid the noise — and find deal now
     
-    PHT has obtained a copy of Donald Fehr’s memo to union members following Thursday’s CBA meetings. The letter, obtained from an NHL player, suggests the union is displeased with the league’s latest offerings.
+    CSN's Haggerty: The most livable solution for the NHL owners and players is to exchange their best offers right now and allow for the season to begin Dec. 1. Otherwise, the deals get worse, and the animosity gets stronger.
     
-    PHT: NHL takes issue with Fehr's memo CSN: NHL, NHLPA still short of goal PHT: Crosby says 60-game season seems fine Trouble brewing for NHL as lockout drags on PHT: Bettman says it's 'very tough to handicap' talks PHT: Dynamo prez wants to keep Ovie in KHL PHT: Bryzgalov rips into Russian media NHL fights Canadian sports-betting bill Ad
+    PHT: 'Still a lot of work to be done' NHL, NHLPA meet for small, informal lunch CSN: NHL, NHLPA still short of goal Canadiens' Geoffrion has skull-fracture surgery NHL.com: Quiet steadiness defined Sakic's career NHL.com: Injury-prone Bure displayed elite skills PHT: Canucks retiring Bure's number? Maybe not NHL.com: Sundin's start in Quebec was critical Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Darron Cummings / AP Jackson again with L.A.?
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Frazer Harrison / Getty Images Jackson's if he wants it
     
-    PBT: Hours after firing Mike Brown, thwe Lakers have reportedly narrowed their search to two top candidates: Phil Jackson and Mike D'Antoni.
+    PBT: The Lakers and Phil Jackson sat down Saturday to discuss the team's head coaching vacancy, according to multiple reports. While no job offer was made, the understanding is that the job is his if he wants it.
     
-    Lakers take out their frustrations on Warriors PBT: Lots of big names available for Lakers' job PBT: Kobe thanks Brown, calls it a 'tough day' Lakers' patience with Brown runs out Knicks down Mavs, stay perfect behind Carmelo's 31 Hawks keep it close, but Heat win without Wade Brooklyn demolishes Orlando by 39 Grizzlies down Rockets for 4th straight win Ad
+    Bobcats snap 16-game losing streak vs. Mavs PBT: Scott won't leave Cavs for Lakers CSN: Rockets' McHale taking leave of absence Celtics even score, record against Bucks Winderman: Nets still trying to find identity Winderman: Rose need not rush back now SportsTalk: Is LeBron making Knicks better? PBT: Teams are adjusting, now it's Harden's turn Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Jonathan Ferrey / Getty Images Heisman race heating up
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Dave Martin / AP Johnny be stunningly good
     
-    Follow along this season as NBCSports.com updates the race for the top individual prize in the country. After seeing our list, it's your turn to rank the candidates.
+    Alabama football had been invincible all season. And then Johnny Football came to town. Texas A&M freshman QB Johnny Manziel led the No. 15 Aggies to a 29-24 upset of defending national champ and No. 1 Alabama.
     
-    Aggies defense, Tide offense pretty good, too Manziel among frosh having huge impact in SEC Dilemma for Patterson vs. alma mater K-State No. 11 Louisville ready for erratic Syracuse UConn tops Pitt for 1st Big East win Notre Dame Central: Special section on Irish PFT: Growing belief Chip Kelly to soon land in NFL CFT: Auburn 'making preparations' to fire Chizik? Ad
+    CFT: Does SEC’s title streak fall along with Tide? CFT: Saban: 'Couldn't get the ... intensity we needed' No. 2 Oregon races past Cal CFT: 'Bama loss takes pressure off No. 3 K-State Notre Dame Central: No. 4 Irish handle BC CFT: Manziel breaks Heisman rules as freshman CFT: 'Cuse deals No. 11 Louisville first loss CFT: No. 5 Georgia claims SEC East crown Ad
 *   NCAA HOOPS
     SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Michael Probst / AP Upset! Huskies shock Spartans
     
     CBT: If there were any questions about Kevin Ollie as the UConn head coach, they are quickly getting answered. Ollie led the Huskies to a 66-62 victory Friday night over No. 14 Michigan State in Germany as part of the Armed Forces Classic.
     
-    CBT: No. 3 Kentucky survives Alex Len, Maryland CBT: Former walk-on saves No. 3 Kentucky's bacon CBT: Late-Night Snacks — recap of Friday's action Burning questions entering season CBT: Here's our preseason Top 25 CBT: UCLA's Shabazz Muhammad ruled ineligible CBT: Syracuse-SDSU tops strong weekend slate CBT: 60 things we're looking forward to this season Ad
+    'Cuse, SDSU practice in breeze for carrier game Bowers back as No. 15 Missouri triumphs No. 22 Notre Dame wins opener over Evansville CBT: No. 3 Kentucky survives Alex Len, Maryland CBT: Former walk-on saves No. 3 Kentucky's bacon CBT: Late-Night Snacks — recap of Friday's action Burning questions entering season CBT: Here's our preseason Top 25 Ad
 *   Motors
     SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Tyler Barrick / Getty Images Busch wins pole in Phoenix
     
     Kyle Busch set a track record in winning the pole at Phoenix International Raceway, where Brad Keselowski got a jump on Jimmie Johnson in their tight championship race.
     
-    Sebastien Bourdais re-signs with Dragon Racing Go Daddy to air 2 Super Bowl spots with Patrick F1: Watch the language, guys Keselowski not feeling pressure headed to Phoenix In The Pits: Final finish saved sluggish race Henry suspended for substance abuse violation Hannah Storm goes in-depth with 4 NASCAR stars Jimmie Johnson, NASCAR giving to Sandy efforts Ad
+    AP Sources: Patrick won't run Indianapolis 500 Logano wins. Sadler hurts Nationwide chances Bourdais re-signs with Dragon Racing Go Daddy to air 2 Super Bowl spots with Patrick F1: Watch the language, guys Keselowski not feeling pressure headed to Phoenix In The Pits: Final finish saved sluggish race Henry suspended for substance abuse violation Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines George Frey / Getty Images Sounders survive
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Bob Levey / Getty Images United, Dynamo ready
     
-    PST: The fourth time was the charm for Seattle, which defeated Real Salt Lake 1-0 to win a playoff series for the first time and advance to the Western finals against L.A.
+    PST: D.C. plays at Houston on Sunday to kick off the home-and-away, total goals Eastern Conference finals.
     
-    Martinez's late goal lifts Sounders DC United's Najar suspended by MLS for 2 games Red Bulls cut ties with coach Hans Backe PST: United tops Red Bulls to reach Eastern finals Highlights of United's victory over Red Bulls DeLeon speechless over deciding goal Red Bulls pledge half of gate revenue for Sandy Sheard: Phil Taylor is a difference maker Ad
+    PST: Which Galaxy will show up vs. Sounders? English roundup: Man U rallies for victory Sounders' Burch suspended, fined United's Najar suspended by MLS for 2 games PST: Sounders survive, face Galaxy Martinez's late goal lifts Sounders Red Bulls cut ties with coach Hans Backe PST: United tops Red Bulls to reach Eastern finals Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Beljan says he'll try to play on Saturday
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Beljan's crazy year adds another chapter
     
-    Charlie Beljan played a great round of golf that put him in the lead at Disney, but also sent him to the hospital.
+    Charlie Beljan's health scare at Disney was just the latest bizarre chapter in a year that he describes as 'exciting, hectic, crazy, stressful.'
     
-    Beljan grabs Disney lead, leaves in ambulance Video: Tiger, Rory joint interview on CNN D-III coach fired after profane rant against team Appleby among those who may require 2013 lifeline Bjorn regains lead in Singapore as delays continue Howell continues solid play, pushing for Masters Ochoa remains 'happy' in retirement Rory: Equipment news coming in a 'few weeks' Tip of the Week: Preparing properly for your round Ad
+    Beljan paces himself to two-shot lead at Disney You Oughta Know: CMN Hospitals Classic Bubble watch at Disney Forbes lists Woods, Nike among most valuable sports brands D-III coach fired after profane rant against team Vote for your favorite LPGA player Video: Tiger, Rory joint interview on CNN Bjorn regains lead in Singapore as delays continue Bevacqua named PGA of America CEO Rory: Equipment news coming in a 'few weeks' Tip of the Week: Preparing properly for your round Ad
 *   Olympics
     SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Mike Groll / AP Lolo scores silver in bobsled debut
     
     American track star turned bobsledder Lolo Jones kicked off her new career nicely on Friday, finishing second at her winter sports debut during an event in Lake Placid, N.Y.
     
-    Holcomb wins 2-man. US women take 2 medals OlympicTalk: Lochte, Franklin return to pool 2016 Olympic committee announces Levy as new CEO 5 US Olympic boxers making pro debuts together Shaun White to seek treatment for alcohol abuse Sochi Games to feature 12 new events Dukurs brothers 1-2 in men's WCup skeleton race OlympicTalk: Gold medalist Wiggins hit by van Ad
+    Franklin is double winner at Minneapolis swim meet Russia's Zubkov wins WC 4-man. Holcomb of US 2nd Hoefl-Riesch wins WCup slalom. Shiffrin of US 3rd Rushlaw, Lamy and Hollrock in US bobsled hall Tour champion released from hospital Korpi wins gold in Rostelecom Cup OlympicTalk: Lochte, Franklin return to pool Anna Meares to keep cycling to Rio 2016 Ad
 *   More
-    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Mike Groll / AP Lolo scores silver in bobsled debut
+    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Morris Mac Matzen / Reuters Wladimir Klitschko wins again
     
-    American track star turned bobsledder Lolo Jones kicked off her new career nicely on Friday, finishing second at her winter sports debut during an event in Lake Placid, N.Y.
+    Wladimir Klitschko retained his WBA, IBF and WBO heavyweight titles, unanimously outpointing Poland's Mariusz Wach in Germany on Saturday night.
     
-    Djokovic, Murray advance to semis at ATP finals 5 US Olympic boxers victorious in their pro debuts Without Vonn, Maze favorite at slalom opener Chan, Gold lead Rostelecom Cup Tour champion released from hospital Dan Patrick: Utah girl a star in youth football Boxing champ Klitschko facing taller, heavier Wach Wiggins and British coach both hit by vehicles Ad
+    Del Potro beats Federer to reach semis in London Mares beats Moreno, defends 122-pound title Tour champ Wiggins released from hospital Dan Patrick: Utah girl a star in youth football Newton TD celebration gets prep star ejected Big names in sports thrown for losses by voters The lineup for sports on election night Castrodale: Some pleas for the president Ad
 
 *   Scores
 *   Odds
@@ -184,10 +184,9 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com PFT: Falcons top power rankings  |    NFC South rising?  
-CFT's Predictions 101: No slowing rising Tide  
+Tweet Also on NBCSports.com CFT: SEC's title streak fall along with the Tide?  
+PFT: Falcons top power rankings  |    NFC South rising?  
 CBT: Big-name players who could flop  |  Future stars  
-Winderman: Struggling Nets still trying to find their identity  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
