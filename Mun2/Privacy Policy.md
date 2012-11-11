@@ -23,23 +23,23 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: November 10 03:00 AM · MORNING BREATH coming up next:
+schedule right now: November 11 04:00 AM · MORNING BREATH coming up next:
 
-*   4:00 AM · MORNING BREATH
-*   5:00 AM · MORNING BREATH
-*   6:00 AM · SMB
-*   8:00 AM · MORNING BREATH
-*   9:30 AM · mun2 PRESENTS: BABY RASTA &. GRINGO
-*   10:30 AM · PREMIOS BILLBOARD DE LA MUSICA MEXICANA ALL-ACCESS
-*   11:30 AM · 18 &. OVER
-*   1:00 PM · LARRYMANIA
-*   2:00 PM · I LOVE JENNI
-*   3:00 PM · CHIQUIS 'N CONTROL
+*   6:00 AM · MORNING BREATH
+*   7:00 AM · WWE RAW EN ESPAÑOL
+*   10:00 AM · mun2 CINCO
+*   10:30 AM · 18 &. OVER
+*   12:00 PM · REVENTON
+*   1:00 PM · I LOVE JENNI
+*   2:00 PM · CHIQUIS 'N CONTROL
+*   3:00 PM · LARRYMANIA
 *   4:00 PM · OPERACION REPO
-*   4:30 PM · OPERACION REPO
-*   5:00 PM · YO ME LLAMO
-*   7:00 PM · CINE CLASICO Y COOL: A VOLAR JOVEN
-*   9:00 PM · WWE SMACKDOWN
+*   4:30 PM · DUB LATINO
+*   5:00 PM · WWE RAW
+*   8:00 PM · FUGITIVOS DE LA LEY
+*   9:00 PM · LARRYMANIA
+*   10:00 PM · DECISIONES DE FAMOSOS
+*   11:00 PM · DUB LATINO
 
 see full schedule >>.
 
