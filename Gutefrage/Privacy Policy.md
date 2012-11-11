@@ -203,44 +203,36 @@ Registrieren Login
 9.  Tattoo
 10.  Zähne
 
-Top-50 Themen Thema Anzahl Apple 85521 Arbeit 65585 Ausbildung 50948 Auto 91895 Beauty 70127 Beruf 78182 Beziehung 73075 Computer 542900 Computerspiele 65520 deutsch 67766 Englisch 52698 Ernährung 51150 essen 71797 Facebook 78665 Fernsehen 60720 Film 101313 Finanzen 59336 Freizeit 265962 Fußball 51551 Games 126790 Geld 94574 Gesundheit 207567 Haare 83840 Handy 208181 Hilfe 151273 Internet 325454 iPhone 76645 Kinder 51287 Körper 50938 Laptop 74546 Liebe 168045 Lied 55156 Mädchen 57258 Medizin 63300 Minecraft 69275 Musik 283494 PC 285959 PC-Spiele 49385 Problem 56238 PS3 61291 Recht 96024 Schule 238562 Software 57523 Spiele 138882 Sport 112037 Technik 121872 Tiere 65374 TV 54864 Video 53278 Youtube 84637 Themen von A-Z Suchbegriff Top-Nutzer des Tages
+Top-50 Themen Thema Anzahl Apple 85682 Arbeit 65625 Ausbildung 50993 Auto 91975 Beauty 70194 Beruf 78242 Beziehung 73171 Computer 543440 Computerspiele 65620 deutsch 67848 Englisch 52756 Ernährung 51192 essen 71838 Facebook 78783 Fernsehen 60762 Film 101426 Finanzen 59386 Freizeit 266044 Fußball 51591 Games 126966 Geld 94663 Gesundheit 207702 Haare 83955 Handy 208537 Hilfe 151516 Internet 325753 iPhone 76753 Kinder 51315 Körper 50978 Laptop 74641 Liebe 168249 Lied 55225 Mädchen 57348 Medizin 63353 Minecraft 69417 Musik 283828 PC 286382 PC-Spiele 49481 Problem 56313 PS3 61419 Recht 96102 Schule 238788 Software 57572 Spiele 139073 Sport 112153 Technik 122016 Tiere 65411 TV 54917 Video 53361 Youtube 84758 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  RudolfHansen
+1.  Bloodyrainbow
     
     Punkte:
     
-    1328
+    637
     
-    Level:
-    
-    RudolfHansen
-    
-2.  HerrAlliierter
+2.  Tomdub
     
     Punkte:
     
-    597
+    632
     
-    Level:
-    
-    HerrAlliierter
-    
-3.  pickmycotton
+3.  einfachgesagt
     
     Punkte:
     
-    548
+    607
     
     Level:
     
-    pickmycotton
+    einfachgesagt
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.463.651 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.473.157 gute Fragen_
 
-*   49 Ich bin "Hässlich" - Mensch zweiter Klasse?
-*   11 wie kann man menschen helfen?
-*   11 Weihnachtsgeschenk aber was genau
+*   34 Andere Persönlichkeit Zuhause und in der Schule
+*   30 Peinlicher gehts nicht. ²
+*   15 Ich fühle mich missbraucht
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
@@ -248,29 +240,29 @@ Top-50 Themen Thema Anzahl Apple 85521 Arbeit 65585 Ausbildung 50948 Auto 91895 
 *   Mamas Rezept für Nutella-Kuchen
 
 *   Aufklärung über das verliebt sein Teil 1
-*   How-To Windows 8: Normale Programme deinstallieren
+*   Einfache Martinslaterne basteln
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-2.001.634
+2.003.955
 
 Anzahl der Fragen
 
-8.462.489
+8.471.709
 
 Anzahl der Antworten
 
-36.626.385
+36.656.615
 
 Anzahl der Tipps
 
-75.996
+76.080
 
 Anzahl der Videos
 
-4.826
+4.832
 
 Blog
 
