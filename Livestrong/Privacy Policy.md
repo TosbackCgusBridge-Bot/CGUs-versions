@@ -242,13 +242,13 @@ Your email is safe with us. We hate spam too!
 
 Featured this week on livestrong.com
 
-*   Nov 8, 2012 Make Your Oatmeal More  
+*   Nov 9, 2012 Make Your Oatmeal More  
     Nutritious And Filling
-*   Nov 7, 2012 Solutions For Common  
+*   Nov 8, 2012 Solutions For Common  
     Food Allergies
-*   Nov 6, 2012 The Right (And Wrong)  
+*   Nov 7, 2012 The Right (And Wrong)  
     Ways To Warm Up
-*   Nov 5, 2012 Run Without Pain  
+*   Nov 6, 2012 Run Without Pain  
     For Life!
 
 About Blog Contact us &. FAQ Advertise with us Press Sitemap
