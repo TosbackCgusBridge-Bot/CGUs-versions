@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Acupuncture Center Resources
+*   Pilates Equipment Resources
 
   
-Stay in Touch With SparkPeople **Tune In to a Healthier You**
+Stay in Touch With SparkPeople **Thanksgiving Survival Guide**
 
-Learn some surprising facts about America's TV habits, and healthy things you can do _without_ watching the tube.
+Start planning now! Here's what you need to know so that the only thing you're 'adding on' during this holiday is joy.
 
 Read More
 
-*   Keeping fruits and veggies fresh
-*   Whats the 1st thing you noticed w/your weightloss?
-*   Describe the last time you felt proud of yourself.
 *   Pantry staples
-*   Healthy snack ideas for under 100 calories?
+*   How do you fight boredom on the treadmill?
+*   Feeling Embarrassed at the Gym..
+*   Keeping fruits and veggies fresh
+*   Describe the last time you felt proud of yourself.
 
-View Demo **Hip Flexor**  
-Strong hips and abs can improve your overall balance. **Beef and Blue Sandwich**  
-Submitted By: **CHEF\_MEG**
+View Demo **Forward Lunges**  
+Lunges are one of the best ways to tone your glutes. Are you performing yours correctly? **Stepfanie's Quinoa-Black Bean Casserole**  
+Submitted By: **SP\_STEPF**
 
-So good, you'll think someone brought home takeout! Full Recipe
+An experiment with leftovers yield a delightful, filling vegetarian meal. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
