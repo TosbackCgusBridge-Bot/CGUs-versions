@@ -192,129 +192,136 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:05 AM EST November 10, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:06 AM EST November 11, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  8:00a
+/news/latest1.  7:01a
+    
+    Storm and ‘cliff’ muddy economic picture
+    
+2.  5:00p
     
     U.S. stocks to follow erratic ‘fiscal cliff’ path
     
-2.  7:02a
+3.  4:39p
     
-    ‘All In the Family’s’ 3 levels of brilliance
+    Occupy movement now part of Sandy relief
     
-3.  7:01a
+4.  3:32p
     
-    The 10 best ‘All In the Family’ episodes
+    CIA’s acting director to testify on Benghazi
     
-4.  7:00a
+5.  3:14p
     
-    At the NYSE, Larry Kofsky looks at the week ahead
+    Obama again urges middle-class tax cuts
     
-5.  6:01a
+6.  3:00p
     
-    Big earnings Monday: D.R. Horton, Beazer
+    Inside wine guru Robert Parker’s cellar sanctum
     
-6.  6:01a
+7.  1:25p
     
-    9 cars Americans drive longest
+    Florida finishes counting: Obama wins
     
-7.  6:29p
+8.  12:00p
     
-    Radio Update: Dow has worst week since June
+    U.S. stocks to follow erratic ‘fiscal cliff’ path
     
-8.  6:15p
-    
-    American Airlines, pilots agree on new pact: AP
-    
-9.  5:58p
-    
-    Citigroup's Pandit to get $6.7 million payout: rep
-    
-10.  5:29p
-    
-    Fiscal-cliff talks to start next Friday
-    
-11.  5:25p
-    
-    Aerospace deal lights up after-hours trade
-    
-12.  5:22p
-    
-    10 things 401(k) plans won’t tell you
-    
-13.  5:20p
+9.  11:05a
     
     Markets eye 4 horsemen of Obama’s second term
     
-14.  5:00p
+10.  11:04a
+    
+    Hunting for luxury car buyers
+    
+11.  10:46a
+    
+    Range Rover: If you must buy a luxury SUV ...
+    
+12.  10:40a
+    
+    Imbibers on the storm: Hurricane Sandy wine picks
+    
+13.  9:00a
     
     U.S. stocks edge up but post weekly losses
     
-15.  5:00p
+14.  9:00a
     
-    Investors slam Groupon after disappointing results
+    Plastic cards for Google’s digital wallet?
     
-16.  4:57p
+15.  8:00a
     
-    Lockheed Martin exec resigns after affair
+    U.S. stocks to follow erratic ‘fiscal cliff’ path
     
-17.  4:50p
+16.  7:02a
     
-    Friday’s biggest movers. Apple catches a break
+    ‘All In the Family’s’ 3 levels of brilliance
     
-18.  4:45p
+17.  7:01a
     
-    Obama to hold news conference next Wednesday
+    The 10 best ‘All In the Family’ episodes
     
-19.  4:44p
+18.  7:00a
     
-    Washington events for Nov. 12 - 16
+    At the NYSE, Larry Kofsky looks at the week ahead
     
-20.  4:44p
+19.  6:01a
     
-    Titanium Metals shares soar 43% on Precision deal
+    Big earnings Monday: D.R. Horton, Beazer
+    
+20.  6:01a
+    
+    9 cars Americans drive longest
     
 21.  Loading more headlines...
 
 dow /quotes/zigman/627449 12,815.39 +4.07 +0.03% nasdaq /quotes/zigman/123127 2,904.87 +9.29 +0.32% s&p 500 /quotes/zigman/3870025 1,379.85 +2.34 +0.17% Kiosk
 
-*   1341573300000 1341592200000
+*   1245657600000 1277280000000
     
-    From Fox Business
+    Real Estate
     
-        elizabeth macdonald  
-    The catch-22 of legal pot  
-    Marijuana was legalized in both Colorado and Washington on Tuesday, but don't light up yet because federal law may have something to say.  /conga/kiosk/marketfox.html 234969
-*   1329437100000 1329783000000
+      The cash-buyer head faker  
+    A growing number of wealthy home buyers are bucking tradition by closing their purchase first , then moving to line up their financing. /conga/kiosk/real\_estate.html 235161
+*   1320414900000 1320620100000
     
-    The Trading Deck
+    Slide Show
     
-    Drop echoes 1987 crash prelude  
-    The charts, timing and news cycle bear more than a passing similarity to the period before October 1987, writes Jon D. Markman.  
-    • See Trading Deck for more market ideas /conga/kiosk/trading-deck-2.html 234960
-*   1326931500000 1327018200000
+    9 cars driven the longest  
+    24/7 Wall St. looks at the vehicles we drive for the longest number of years before buying a new vehicle.  
+    • Why we keep some cars longer /conga/kiosk/consumer.html 235170
+*   1238817600000 1270353600000
     
-    The Trading Deck
+    Cars
     
-    Dow Theory now on a sell signal?  
-    Did the Dow Theory generate an official sell signal earlier this month? Two of the Dow Theorists whom Mark Hulbert monitors say yes.  
-    • See Trading Deck for more market ideas /conga/kiosk/trading-deck-3.html 234965
-*   1347087600000 1347213600000
+    Holiday deals on luxury  
+    This year, buyers can expect more and earlier deals on luxury brands during the final weeks of the year, predicts Joseph B. White.   
+    235159
+*   1309191300000 1309248000000
     
-    Storm aftermath
+    Entertainment
     
-    Tax hit for Sandy’s victims?  
-    Those affected by last week’s superstorm may have a tax deduction — or an unexpected gain.  
-    • Investment scams after Sandy  
-    /conga/kiosk/wildcard2.html 234772
-*   1329804000000 1329804000000
+    'All in the Family' still shines  
+    The groundbreaking comedy, which appeared on television from 1971-1979 and now is out on DVD, was brilliant on three levels.  
+    /conga/kiosk/wildcard3.html 235167
+*   1348302600000 1348443000000
     
-    MarketWatch Blogs
+    Car Review
     
-    THE CODY WORD  
-    Apple dividend beats Treasurys  
-    Are some corporate bonds safer than Treasurys? Plus more stories that every trader and investor should be reading this weekend.  
-    /conga/kiosk/cody.html 235000
+    Roughing it in luxury  
+    The Range Rover can negotiate a standing yard of water and still deliver the best that British luxury can offer in a SUV, writes Dan Neil.
+    
+    .
+    
+    235156
+*   1346367900000 1347868800000
+    
+    Retirement
+    
+    What 401(k)s won’t tell you  
+    How to take steps to prevent out-of-control fees and below-par investment options from delaying your retirement — or robbing  you of it entirely.  
+    /conga/kiosk/wildcard1.html 235153
 
 MarketWatch.com
 
