@@ -176,9 +176,9 @@ Record Searchlight
 
 *   Get severe weather notifications anywhere via our new iPhone and Android app
     
-*   Frost Advisory
+*   Freeze Warning
     
-    IN EFFECT UNTIL NOV 10, 4:00 p.m.
+    IN EFFECT UNTIL NOV 11, 9:00 a.m.
     
     issued for Northern Sacramento Valley
     
@@ -276,25 +276,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATE: Names released for two killed in fiery south Redding crash early Thursday Updated 11/9/2012 at 8:23 a.m. 38 comments
-*   UPDATED: Police use stun gun to stop 'violent, crazed' man carrying crowbar, knife Updated 11/9/2012 at 6:17 p.m. 59 comments
-*   CIA Director Petraeus quits, cites extramarital affair Published 11/9/2012 at 12:56 p.m. 115 comments
-*   Guard shoots, kills inmate at Susanville prison Published 11/9/2012 at 3:33 p.m. 43 comments
-*   Charles Krauthammer: The Republicans' way forward Published 11/9/2012 at 12:00 a.m. 102 comments
+*   Obama wins Fla., topping Romney in final tally 332-206 Published 11/10/2012 at 12:31 p.m. 134 comments
+*   Pot votes in Colorado, Washington raise possibility of marijuana tourism Published 11/10/2012 at 4:00 a.m. 85 comments
+*   UPDATE: Vehicle crashes on westbound Highway 44 Published 11/10/2012 at 3:49 p.m. 4 comments
+*   Marc Beauchamp: Taking arms against a sea of troubles Published 11/10/2012 at 12:00 a.m. 47 comments
+*   Guard shoots, kills inmate at Susanville prison Published 11/9/2012 at 3:33 p.m. 63 comments
 
-Photo Galleries NSCIF Cross Country Championships West Valley beats Lassen Fallis Around Town
+Photo Galleries West Valley beats Lassen Fallis Around Town Foothill vs. Chico
 
-*   Triumphant Obama: 'We have picked ourselves up' Published 11/6/2012 at 7:24 p.m. 467 comments
+*   Obama wins Fla., topping Romney in final tally 332-206 Published 11/10/2012 at 12:31 p.m. 134 comments
 *   Larry Kay: Let's turn off fear-mongerers Published 11/8/2012 at 12:00 a.m. 133 comments
-*   CIA Director Petraeus quits, cites extramarital affair Published 11/9/2012 at 12:56 p.m. 115 comments
-*   Charles Krauthammer: The Republicans' way forward Published 11/9/2012 at 12:00 a.m. 102 comments
+*   CIA Director Petraeus quits, cites extramarital affair Published 11/9/2012 at 12:56 p.m. 127 comments
+*   Charles Krauthammer: The Republicans' way forward Published 11/9/2012 at 12:00 a.m. 120 comments
 *   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
 
 *   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
 *   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
 *   Wild horse, burro adoption falls short. economic factors leave trail of uncertainty Published 11/4/2012 at 6:52 p.m. 11 comments
-*   PETA wants roadside memorial to honor fish killed in crash Published 10/31/2012 at 4:00 a.m. 122 comments
-*   UPDATED: Man, 37, taken to hospital after being stabbed in abdomen Published 10/31/2012 at 4:55 p.m. 65 comments
+*   UPDATE: Detectives arrest two men in connection with Big Bend murder Published 11/3/2012 at 9:09 a.m. 31 comments
+*   Siskiyou County Sheriff Jon Lopey says he's fighting to protect rural America Published 11/3/2012 at 7:36 p.m. 59 comments
 
 Weather
 
@@ -302,25 +302,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 33° Fog/Mist Wind: Calm Today 55° 29° Sat 05:00 PM Partly Cloudy Temp: 41° Sun 05:00 AM Cold Temp: 31° Sun 05:00 PM Mostly Clear Temp: 43°
+Currently 31° Fair Wind: Calm Today 58° 35° Sun 05:00 PM Mostly Clear Temp: 45° Mon 05:00 AM Mostly Cloudy Showers Temp: 37° Mon 05:00 PM Mostly Cloudy Showers Temp: 50°
 
-Feels Like: 41°
+Feels Like: 44°
 
 Humidity: 65%
 
-Precip: 5%
+Precip: 10%
 
-Feels Like: 25°
+Feels Like: 34°
 
-Humidity: 78%
+Humidity: 79%
 
-Precip: 1%
+Precip: 30%
 
-Feels Like: 40°
+Feels Like: 50°
 
-Humidity: 71%
+Humidity: 74%
 
-Precip: 7%
+Precip: 29%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -336,18 +336,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Saturday Nov 10
 *   Sunday Nov 11
 *   Monday Nov 12
+*   Tuesday Nov 13
 *   More BROWSE Icon
-
-*   20th Annual Veterans Day Parade - Shasta Lake City See Description 6 a.m.
-*   Veterans Memorial Hall Christmas Bazaar and Craft Fair Redding Veterans Memorial Hall 8 a.m.
-*   Semi Annual Jewelry Sale Another Chance Animal Welfare League Adoption Center and Thrift Store 9 a.m.
-*   United Methodist Women annual Holiday Bazaar First United Methodist Church, Redding 9 a.m.
-*   Trinity Alliance Church Holiday Craft Fair Trinity Alliance Church 10 a.m.
-
-More Events »
 
 *   Honoring Our American Heroes Elks Lodge 10:30 a.m.
 *   Ride On Race Series Contact for Location Information 11 a.m.
@@ -362,6 +354,14 @@ More Events »
 *   Veterans Appreciation Free Driver Safety Class BloodSource 9 a.m.
 *   Free Cooking Class Cow Creek Community Church 9:30 a.m.
 *   Free Cooking Class Cow Creek Community Church 6 p.m.
+
+More Events »
+
+*   Flagging Shasta Builder's Exchange 8 a.m.
+*   Basic Traffic Control Shasta Builder's Exchange 1 p.m.
+*   2nd Tuesday Dining Club Mary's Pizza Shack 5 p.m.
+*   Shasta County Democratic Women's Club meeting Market St Pizza &. Deli 6:30 p.m.
+*   Suicide Loss Support Group St James Church 7 p.m.
 
 More Events »
 
