@@ -1,4 +1,4 @@
-Consumers Video Solutions Business Ready My Moto Care   Cart (0) Your Cart is Empty Total Items in Cart: 0 Subtotal: 0.00 VIEW/EDIT CART Need help with your order? 800-520-6412 M-F 9:00AM-8:00PM ET
+Consumers Video Solutions My Moto Care   Cart (0) Your Cart is Empty Total Items in Cart: 0 Subtotal: 0.00 VIEW/EDIT CART Need help with your order? 800-520-6412 M-F 9:00AM-8:00PM ET
 
 *   %qty% - %name% %price%
 
@@ -174,7 +174,7 @@ USA (Change)
 
 ©2012 Motorola Mobility LLC. All Rights Reserved.  
   
-ABOUT YOUR PRIVACY: Motorola uses cookies on this site. Select "Privacy settings" to learn more and set your preferences.
+ABOUT YOUR PRIVACY: Motorola uses cookies on this site. Some are essential but we set others based on"Privacy settings" you choose. Skipping this step implies that you accept our default settings.
 
 Are you looking for two-way radios, mobile computers, bar code scanners, OEM, wireless broadband networks and other business products and solutions?  
 Visit Motorola Solutions
