@@ -147,55 +147,53 @@ The website is not directed to individuals under the age of thirteen (13), and w
 
 See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 
-*   Rihanna  
-    Get It Over With Lyrics
-*   Phillip Phillips  
-    Man On The Moon Lyrics
-*   Pitbull  
-    Party Ain't Over Lyrics
-*   Justin Bieber  
-    As Long As You Love Me Lyrics
-*   David Guetta  
-    Titanium Lyrics
-
-*   Rihanna  
-    Nobody Lyrics
+*   Ellie Goulding  
+    Bittersweet Lyrics
 *   Phillip Phillips  
     Gone, Gone, Gone Lyrics
-*   Natalia Kills  
-    Problem Lyrics
+*   Ludacris  
+    Rest Of My Life Lyrics
 *   Kesha  
     Die Young Lyrics
 *   Adele  
     Someone Like You Lyrics
 
 *   Rihanna  
-    Fresh Off The Runway Lyrics
-*   Kendrick Lamar  
-    Poetic Justice Lyrics
-*   Jonas Brothers  
-    Wedding Bells Lyrics
+    Get It Over With Lyrics
+*   Phillip Phillips  
+    Get Up Get Down Lyrics
+*   Pitbull  
+    Party Ain't Over Lyrics
 *   Katy Perry  
     Wide Awake Lyrics
 *   Alex Clare  
     Too Close Lyrics
 
 *   Rihanna  
-    Stay Lyrics
-*   Ashlee Simpson  
-    Bat For A Heart Lyrics
+    Fresh Off The Runway Lyrics
+*   Phillip Phillips  
+    Man On The Moon Lyrics
 *   Bruno Mars  
     Locked Out Of Heaven Lyrics
+*   Carly Rae Jepsen  
+    Call Me Maybe Lyrics
+
+*   Rihanna  
+    Stay Lyrics
+*   Kendrick Lamar  
+    Poetic Justice Lyrics
+*   Ed Sheeran  
+    A Team Lyrics
 *   Gotye  
     Somebody That I Used To Know Lyrics
 
-*   Phillip Phillips  
-    Get Up Get Down Lyrics
-*   Ludacris  
-    Rest Of My Life Lyrics
-*   Ed Sheeran  
-    A Team Lyrics
-*   Carly Rae Jepsen  
-    Call Me Maybe Lyrics
+*   Rihanna  
+    Nobody Lyrics
+*   Ashlee Simpson  
+    Bat For A Heart Lyrics
+*   Justin Bieber  
+    As Long As You Love Me Lyrics
+*   David Guetta  
+    Titanium Lyrics
 
 Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
