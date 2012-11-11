@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **Media:** BBC in turmoil as Newsnight's Tory abuse story falls apart
-2.  2\. **Life &. style:** Sex: 'Whatever you're doing, double it'
-3.  3\. **News:** CIA director David Petraeus resigns over 'unacceptable' extramarital affair
-4.  4\. **Technology:** Google services blocked in China
-5.  5\. **Life &. style:** Experience: My bra saved my life
+1.  1.  **News:** Republican right weeps over Obama's victory – then begins internal civil war
+2.  2\. **Education:** Do online courses spell the end for the traditional university?
+3.  3\. **Media:** BBC in crisis as George Entwistle quits over Newsnight fiasco
+4.  4\. **News:** Valerie Trierweiler: affairs of state
+5.  5\. **Comment:** As US states legalise marijuana, is this the end of the drugs war?
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Media:** BBC in turmoil as Newsnight's Tory abuse story falls apart
-2.  **Media:** Newsnight – review
-3.  **Life &. style:** Sex: 'Whatever you're doing, double it'
-4.  **Life &. style:** Sudoku 2,341 hard
-5.  **Media:** BBC chief unaware of Newsnight's Tory peer child abuse story
+1.  **Media:** BBC in crisis as George Entwistle resigns - live updates
+2.  **Media:** Jimmy Savile abuse inquiry: third man arrested
+3.  **Books:** Sean Bean and others read first world war poetry – video
+4.  **Media:** George Entwistle resigns as director general of the BBC
+5.  **Media:** BBC crisis: appointment of Tim Davie greeted with surprise
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,37 +312,38 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  BBC Newsnight crisis - live updates
-2.  2\. Republican right weeps over Obama's victory – then begins internal civil war
-3.  3\. Nasa's new Moon missions: Will Europe be involved?
-4.  4\. Syrian opposition leader calls for foreign help without conditions
-5.  5\. 17 Turkish troops killed in helicopter crash
+1.  1.  Manchester City v Tottenham Hotspur - live!
+2.  2\. Supreme court urged to rule on Sikh leader's claim he is a 'holy saint'
+3.  3\. England need to raise game despite Fiji win, says Stuart Lancaster - video
+4.  4\. Back to Blood by Tom Wolfe – digested read
+5.  5\. James McClean's decision not to wear poppy was his own say Sunderland
 6.  All today's stories
 
 On the Guardian today
 
-1.  World news CIA director David Petraeus resigns over 'unacceptable' extramarital affair
-2.  World news US election 2012: winners and losers
-3.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
-4.  Comment is free Iran sanctions now causing food insecurity, mass suffering
-5.  World news Mitt Romney thanks wealthy donors as Republican strategists search for blame
-6.  Football Barcelona and Real Madrid draw El Clásico thriller at Camp Nou
+1.  World news US election 2012: the inside track on Obama's victory and Romney's defeat
+2.  World news Republican right weeps over Obama's victory – then begins internal civil war
+3.  World news Valerie Trierweiler: affairs of state
+4.  Comment is free Petraeus scandal is reported with compelled veneration of all things military
+5.  World news FBI probe of CIA chief David Petraeus's emails led to affair discovery – reports
+6.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
 
 Most popular in this section From the Guardian today
 
-*   The new rules of the dancefloor With fewer self-policing pop culture tribes, the dancefloor is more mixed up than ever. Fortunately, our clubland correspondent has compiled this etiquette guide
-*   How to cook the perfect fried egg If you can turn out exquisite fried eggs every single time you've got one over on most cooks. What's your secret?
-*   Argo – film review Ben Affleck's smart comedy about a bogus film shoot cooked up by the CIA to rescue Americans trapped in Tehran takes an unfortunate last turn
+*   Valerie Trierweiler: affairs of state She's the partner of the French president and her complicated love life and impulsive nature is causing outrage at the Elysée Palace. But is Valérie Trierweiler a divisive force or is her real crime that she's refused to play the role of the pliant woman? By **Elizabeth Day**
+*   How I learned a language in 22 hours Could **Joshua Foer** really learn a language from scratch in less than three months?
+*   Comment: The BBC is a force for good. The Newsnight affair is an aberration **John Ware:** The BBC's journalism is justly renowned. But the post-Savile paralysis at the top left the programme exposed
 
 Today's best video
 
-*   The Guardian Film Show Our team review this week's big cinema releases Argo, Alps, My Brother the Devil and The Sapphires
-*   The week in TV Andrew Collins asks whether Homeland has jumped the shark and gets his teeth into American Horror Story
+*   War poetry for Remembrance Sunday More4 is marking Remembrance Sunday with short films featuring actors reading war poetry
+*   British Pathé archive: Marriage bureau, 1939 Heather Jenner and Mary Oliver are busy in the Mayfair office of their marriage bureau
 
 Most popular on the Guardian Today in pictures
 
-*   Ansel Adams: Photography from the Mountains to the Sea exhibition opens in London Ansel Adams' (1902-1984) spectacular images capturing America's great wildernesses have made him one of the most influential photographers of all time. A new exhibition at the National Maritime Museum in Greenwich, London offers a rare chance to see his work exhibited on a large scale in the UK
-*   Satellite eye on Earth: October 2012 – in pictures Cloud vortices, salt flats, superstorms and desert wetlands were among the images captured by European Space Agency and Nasa satellites last month
+*   Censored cinema - in pictures The British Board of Film Classification has been cutting and censoring films for 100 years, here is a selection
+*   The Joy of Six: favourite football grounds – in pictures Half-a-dozen cherished stadiums of our writers, from Nottingham to Madagascar and Stoke to Rio de Janeiro
+*   Snooping around – in pictures From a country home in Suffolk to a run down cottage in Northumberland
 
 *   License/buy our content
 |*   Privacy policy
