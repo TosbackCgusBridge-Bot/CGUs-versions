@@ -136,26 +136,23 @@ If you have any questions or comments about our policies, we may be reached at K
 
 KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day This Week's Best Deals Will Keep Cash in Your Pocket! $0 Value: Discount: You Save: $0 100% $0
 
-Saturday: CVS, Walgreens Deals Walgreens
+Sunday: More Deals
 
-*   Schick Disposable Razors - $6.99
-*   Soft Scrub Cleaner (24 or 25.4 oz) - $2.49
-*   Pro-Health Dental Care - $2.99
-*   more...
-
-1.  FIELD TECHNICIAN
+1.  DEAF EDUCATION CONSULTANT
+    
+    The Missouri School for the Deaf
     
 2.  PARALEGAL
     
     GREGORY LEYH, P.C.
     
-3.  Maintenance Supervisor
+3.  PLUMBER/DRAIN CLEANER
     
-    Robert's Dairy
+    Snake'n'Rooter
     
 4.  Press &. Lamination Operators
     
-5.  PROGRAM DIRECTOR
+5.  Apartment Maintenance Helper
     
 6.  Parts Project Coordinator
     
@@ -167,16 +164,16 @@ View More The Most
 *   Read
 *   Commented
 
-*   St. Louis County police to go undercover on pizza deliveries
-*   A Missouri mystery: Timber wolf or coyote?
-*   Wichita man is found guilty of raping two KCK girls
-*   Don’t expect KU-MU game if Big 12, SEC agree to hoops challenge
-*   Excerpt: Pioli and Peterson's first four years with Chiefs
-*   Dallas Mavericks dancers: New uniforms too skimpy? (poll)
-*   KU struggles with shooting, but eases past Southeast Missouri State
-*   Substitute teacher is accused of threatening student with knife
-*   ICE arrests 16 illegal immigrants in Kansas sweep
-*   Royals sign two former Atlanta minor-leaguers, confirm Piña signing
+*   Woman was murdered to cover sexual assaults, authorities allege
+*   Justin and Selena break up: Never say never
+*   One dead, one wounded in apparent gun battle
+*   Door open for Wildcats in BCS title-game race
+*   Piolis first four years with Chiefs not up to level of Peterson
+*   No. 3 K-State beats TCU, stays on course for title game
+*   Missouri girl found near road after missing 8 hours
+*   Missouri beats Tennessee 51-48 in four overtimes
+*   K-State Notebook | Banged-up Cats. ineffective offense
+*   King Carl vs. Patriot Way: A comparison of the general managers’ first four years in KC
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
