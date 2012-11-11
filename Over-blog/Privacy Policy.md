@@ -381,7 +381,7 @@ Rechercher sur OverBlog Annuaire
 *   Environnement
 *   Hi Tech
 *   Photo
-*   Économie
+*   économie
 *   Nature
 *   Photographie
 *   Poésie
