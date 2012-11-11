@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Saturday 10 November 2012
+Sunday 11 November 2012
 
 *   Home
 *   News
@@ -142,17 +142,15 @@ For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Farewell to our warrior nation  
+The traumas of war that haunt us still  
 
-The Government is making huge cuts to the Armed Forces in the mistaken belief that they no longer matter, argues **Max Hastings**
+When **Caroline Greene** unearthed her grandfather’s wartime correspondence, she was stunned to learn the truth about his death.
 
-Comments
-
-Julie Burchill: Why I’m too cool for shul A dog’s life: Uggie's sniff-and-tell memoir The new brain drain Who will help the likes of Malala? Advertisement
+Remembrance Day: In Search of Lost Time Farewell to our warrior nation Julie Burchill: Why I’m too cool for shul A dog’s life: Uggie's sniff-and-tell memoir Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
-US Election   Obama re-elected as US president View FREE PRIZE DRAW TO WIN £1,000   Share with us your favourite place in the world and win £1,000 View Telegraph for iPad free trial   Try The Telegraph for iPad free for 30 days View DUNHILL TRAVEL DEALS   Most competitive travel deals and vacation packages View
+RETIREMENT WITH AVIVA   Win £5000: Submit your questions to retirement experts for a chance to win View AUTUMN FASHION AT FENWICK   Request an invitation to our Fenwick Christmas shopping events View DRIVING ROUTES   Win one of 50 Michelin book bundles, including road atlases and Michelin guides View TELEGRAPH SELECTED   Enjoy a rather elegant fish 'n chips at the Northall in London, only £30 for two View
 
 Back to top
 
