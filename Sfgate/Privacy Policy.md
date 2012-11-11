@@ -1,6 +1,6 @@
 (skip this header)
 
-Saturday Nov 10, 2012 5:05 AM PT
+Sunday Nov 11, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,12 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Veterans Day parade
-*   'Williams is going full metal stoner'
+*   Fire at Gitane
+*   S.F.'s election shocker
+*   S.F. Veterans Day parade
+*   Bieber, Gomez split
+*   Hackers blackmail porn viewers
 *   Appreciating Belva
-*   Sean Penn bore
-*   Dining at Bouchon, Meadowood
 
 *   Bay Area &. State
 *   Nation
@@ -339,6 +340,15 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Oregon powers past Cal
+*   Warriors defeated in double overtime
+*   Texas A&M defeats No. 1 Alabama
+*   Stanford defeats Oregon State 27-23
+*   Waiting for Obama
+*   Nation in Focus
+*   World in Focus
+*   Flugtag back in S.F. with flying colors
+*   Protesters march for more freedom in Tibet
 *   Prop. 30 OK doesn’t stop student protests
 *   Nation in Focus
 *   Javier Bardem gets Walk of Fame star
@@ -370,15 +380,6 @@ Ads by Yahoo! Photo Galleries
 *   Victoria's Secret Fashion Show
 *   Quakes eliminated after 3-1 loss to Galaxy
 *   Warriors 106, Cavaliers 96
-*   Nor’easter drops snow, zaps power lines
-*   China gears up for leadership change
-*   Embarcadero rink open for holidays
-*   Nation in Focus
-*   World in Focus
-*   Obama Romney tweets election
-*   Trends called election
-*   Trends Obama speech
-*   Snow hits Northeast rebounding from Superstorm Sandy
 
 *   Most Read
 *   |
@@ -386,52 +387,56 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Woman fired for Obama racial slur on Facebook
-2.  CIA Director David Petraeus quits over affair
-3.  Two of Most Expensive Neighborhoods are in the Bay Area
-4.  View Internet Porn, Get Blackmailed By Hackers (SYMC)
-5.  3rd arrest in Muni bus destruction
-6.  Lockheed Martin ousts new CEO for relationship
-7.  24 doctors certify most in Ariz.'s pot program
+1.  Official: Emails from paramour led to FBI probe
+2.  Airline exec: 'Seatbelts don't matter'
+3.  Officials say 2 dead, 4 sick from wild mushrooms
+4.  Woman fired for Obama racial slur on Facebook
+5.  49ers' stadium being built the right way
+6.  Robert Pattinson on life after 'Twilight'
+7.  SF District 7 tally gives Yee slim lead
 
-1.  Woman fired for Obama racial slur on Facebook
-2.  Where Fox News goes from here
-3.  Business leader frets over tax increases
-4.  CIA director quits over extramarital affair
-5.  Obama approaches 'fiscal cliff' days after victory
-6.  Obama invites lawmakers to WH to talk fiscal cliff
-7.  Latino power: Suddenly, Sean Hannity wants immigration reform
+1.  Admitting to affair, Petraeus resigns as CIA chief
+2.  Airline exec: 'Seatbelts don't matter'
+3.  Vatican digs in after gay marriage advances
+4.  Obama wins Fla., topping Romney in final tally
+5.  Woman fired for Obama racial slur on Facebook
+6.  Warriors arena means millions for S.F.
+7.  CIA director quits over extramarital affair
 
-1.  Woman fired for Obama racial slur on Facebook
-2.  Disbarment urged for Greenbrae lawyer
-3.  Where Fox News goes from here
-4.  Cal's 1937 'Thunder Team' rumbled to Roses
-5.  CIA Director David Petraeus quits over affair
-6.  Hawaii changes renewable energy tax credit
-7.  Cal women crush Lehigh 80-48 in opener
+1.  Cowgirl Creamery's founders blend traits
+2.  Roasting apples for Thanksgiving
+3.  Strong quake strikes Myanmar, 12 feared dead
+4.  Tedford firing shouldn't be public debate
+5.  Windows 8 - best to pass it up: review
+6.  Afghanistan prepares to rebuild Buddha
+7.  5 places to sample Moroccan treats
 
 loading... Latest News Videos From our homepage
 
 *     
-    Mandel Ngan, AFP/Getty Images / SF
+    Ezra Shaw, Getty Images / SF
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 7:48 p.m., Friday, November 9, 2012 Petraeus affair uncovered
+    Hogan's the hero
     
-    CIA director had relationship affair with his biographer, sources say.
+    Stanford QB, in his first college start, throws for 3 TDs as Cardinal beat Oregon St. 27-23.
     
-*   Photos: Political sex scandals
 
 *     
-    J. Scott Applewhite, Associated Press / SF
+    The Charlotte Observer, T. Ortega Gaines / AP
     
-    Will she step down as leader?
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 9:26 p.m., Saturday, November 10, 2012 Petraeus love triangle?
     
-    Lackluster Dem results fuel speculation about Nancy Pelosi's future.
+    Harassing emails uncovered affair.
     
+*   Did husband write to 'Ethicist'?
+*   Broadwell a reservist, scholar
 
-*   Priciest places to live
+*     
+    DANI POZO, AFP/Getty Images / 2012 AFP
     
-    Two of the top 5 most-expensive communities in the U.S. are in the Bay Area.
+    Seattle Post-Intelligencer Copyright 2012 Seattle Post-Intelligencer. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Published 10:51 p.m., Friday, November 9, 2012 'Seatbelts don't matter'
+    
+    Airline exec says they are pointless on planes and he wants standing-room-only tickets.
     
 
 *   Home
