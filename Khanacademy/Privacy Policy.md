@@ -1,4 +1,4 @@
-Sign up Log in Donate Watch Practice Coach Volunteer About
+Log in Sign up Donate Watch Practice Coach Volunteer About
 
 *   Math
     *   Arithmetic and Pre-Algebra
