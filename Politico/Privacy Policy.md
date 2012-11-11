@@ -111,123 +111,121 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/10/2012 7:01 AM ET
+Updated: 11/11/2012 8:01 AM ET
 
-1.  1 Oliver Stone: 'I find Obama scary'
-2.  2 Christie: Talks to Obama, emails Mitt
-3.  3 Pelosi mum about future
-4.  4 A long fall for Gen. Petraeus
-5.  5 Romney's ORCA program couldn't stay afloat
-6.  6 Critics question Petraeus's timing
-7.  7 Rep. Bono Mack loses Calif. seat
-8.  8 Citing affair, Petraeus resigns as CIA director
-9.  9 Frum: Republicans lied to by 'conservative entertainment complex'
-10.  10 Romney's fail whale: ORCA the vote-tracker left team 'flying blind' (Updated)
+1.  1 6 questions on Petraeus's exit
+2.  2 Rove under fire
+3.  3 Paula Broadwell in media spotlight
+4.  4 FBI whistle-blower contacted Cantor
+5.  5 Oliver Stone: 'I find Obama scary'
+6.  6 The GOP polling debacle
+7.  7 What's the matter with Florida?
+8.  8 West won't concede
+9.  9 Reports: Probe began with 2 women
+10.  10 No pass for Petraeus
 
-Updated: 11/10/2012 7:01 AM ET
+Updated: 11/11/2012 8:01 AM ET
 
-1.  1 Oliver Stone: 'I find Obama scary'
-2.  2 Citing affair, Petraeus resigns as CIA director
-3.  3 Christie: Talks to Obama, emails Mitt
-4.  4 Rove: Obama won 'by suppressing the vote'
-5.  5 Romney's fail whale: ORCA the vote-tracker left team 'flying blind' (Updated)
-6.  6 Frum: Republicans lied to by 'conservative entertainment complex'
-7.  7 Pelosi mum about future
-8.  8 Critics question Petraeus's timing
-9.  9 Hannity: I've 'evolved' on immigration and support a 'pathway to citizenship'
-10.  10 Hank Williams Jr. upset about Obama win
+1.  1 6 questions on Petraeus's exit
+2.  2 Rove under fire
+3.  3 Oliver Stone: 'I find Obama scary'
+4.  4 Paula Broadwell in media spotlight
+5.  5 No pass for Petraeus
+6.  6 Pelosi mum about future
+7.  7 What's the matter with Florida?
+8.  8 Romney's ORCA program sank
+9.  9 Rep. Bono Mack loses Calif. seat
+10.  10 Reports: Probe began with 2 women
 
-Updated: 11/10/2012 7:01 AM ET
+Updated: 11/11/2012 8:01 AM ET
 
-1.  1 Oliver Stone: 'I find Obama scary'
-2.  2 Rove: Obama won 'by suppressing the vote'
-3.  3 Citing affair, Petraeus resigns as CIA director
+1.  1 6 questions on Petraeus's exit
+2.  2 Rove under fire
+3.  3 Oliver Stone: 'I find Obama scary'
 4.  4 Christie: Talks to Obama, emails Mitt
-5.  5 Hannity: I've 'evolved' on immigration and support a 'pathway to citizenship'
-6.  6 Hannity: 'America now deserves Obama'
-7.  7 Romney's fail whale: ORCA the vote-tracker left team 'flying blind' (Updated)
-8.  8 Exclusive: Clinton would dominate 2016 Iowa caucuses, PPP shows
-9.  9 Frum: Republicans lied to by 'conservative entertainment complex'
-10.  10 MSNBC weighs in on Karl Rove
+5.  5 Paula Broadwell in media spotlight
+6.  6 Citing affair, Petraeus resigns at CIA
+7.  7 Pelosi mum about future
+8.  8 Rove: Obama won 'by suppressing the vote'
+9.  9 Romney's fail whale: ORCA the vote-tracker left team 'flying blind' (Updated)
+10.  10 Frum: Republicans lied to by 'conservative entertainment complex'
 
-Updated: 11/10/2012 7:01 AM ET
+Updated: 11/11/2012 8:01 AM ET
 
 1.  1 Axelrod: 'They're in deep trouble'
 2.  2 Early election results, via NBC
-3.  3 Chrysler gives workers day off to vote
-4.  4 Obama, not-so-happy warrior
-5.  5 Former Hillary aide backs Romney
-6.  6 Dems' drive to retake House falters
-7.  7 Christie was Mitt's VP first choice
-8.  8 Oliver Stone: 'I find Obama scary'
-9.  9 AFF poll: Minnesota a toss-up
-10.  10 The looming GOP civil war
+3.  3 6 questions on Petraeus's exit
+4.  4 Rove under fire
+5.  5 Chrysler gives workers day off to vote
+6.  6 Oliver Stone: 'I find Obama scary'
+7.  7 Obama, not-so-happy warrior
+8.  8 Dems' drive to retake House falters
+9.  9 The looming GOP civil war
+10.  10 Romney Mormon video goes viral
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/10/2012 7:01 AM ET
+Updated: 11/11/2012 8:01 AM ET
 
-1.  1 Rep. Bono Mack loses Calif. seat
-2.  2 McKenna concedes Wash. gov race
-3.  3 A long fall for Gen. Petraeus
-4.  4 Incoming Lockheed CEO steps down
+1.  1 Media fight on the right over GOP
+2.  2 The GOP polling debacle
+3.  3 FBI whistle-blower contacted Cantor
 
-Updated: 11/10/2012 7:01 AM ET
+Updated: 11/11/2012 8:01 AM ET
 
-1.  1 Rep. Bono Mack loses Calif. seat
-2.  2 McKenna concedes Wash. gov race
-3.  3 A long fall for Gen. Petraeus
-4.  4 Incoming Lockheed CEO steps down
-5.  5 Barber inches ahead in uncalled race
-6.  6 Critics question Petraeus's timing
-7.  7 Romney's ORCA program couldn't stay afloat
-8.  8 6 possible post-David Petraeus CIA picks
-9.  9 SCOTUS will hear voting rights case
-10.  10 Morell to testify on Benghazi
+1.  1 Media fight on the right over GOP
+2.  2 The GOP polling debacle
+3.  3 FBI whistle-blower contacted Cantor
+4.  4 Obama's bold push to win Latinos
+5.  5 6 questions on Petraeus's exit
+6.  6 West won't concede
+7.  7 Norquist: Lame duck tax hike unlikely
+8.  8 Reports: Probe began with 2 women
+9.  9 Paula Broadwell in media spotlight
 
-Updated: 11/10/2012 7:01 AM ET
+Updated: 11/11/2012 8:01 AM ET
 
-1.  1 Rep. Bono Mack loses Calif. seat
-2.  2 McKenna concedes Wash. gov race
-3.  3 A long fall for Gen. Petraeus
-4.  4 Incoming Lockheed CEO steps down
-5.  5 Barber inches ahead in uncalled race
-6.  6 Critics question Petraeus's timing
-7.  7 Romney's ORCA program couldn't stay afloat
-8.  8 6 possible post-David Petraeus CIA picks
-9.  9 SCOTUS will hear voting rights case
-10.  10 Morell to testify on Benghazi
+1.  1 Media fight on the right over GOP
+2.  2 The GOP polling debacle
+3.  3 FBI whistle-blower contacted Cantor
+4.  4 Obama's bold push to win Latinos
+5.  5 6 questions on Petraeus's exit
+6.  6 West won't concede
+7.  7 Norquist: Lame duck tax hike unlikely
+8.  8 Reports: Probe began with 2 women
+9.  9 Paula Broadwell in media spotlight
+10.  10 Obama: Voters agreed with me
 
-Updated: 11/10/2012 7:01 AM ET
+Updated: 11/11/2012 8:01 AM ET
 
-1.  1 Rep. Bono Mack loses Calif. seat
-2.  2 McKenna concedes Wash. gov race
-3.  3 A long fall for Gen. Petraeus
-4.  4 Incoming Lockheed CEO steps down
-5.  5 Barber inches ahead in uncalled race
-6.  6 Critics question Petraeus's timing
-7.  7 Romney's ORCA program couldn't stay afloat
-8.  8 6 possible post-David Petraeus CIA picks
-9.  9 SCOTUS will hear voting rights case
-10.  10 Morell to testify on Benghazi
+1.  1 Media fight on the right over GOP
+2.  2 The GOP polling debacle
+3.  3 FBI whistle-blower contacted Cantor
+4.  4 Obama's bold push to win Latinos
+5.  5 6 questions on Petraeus's exit
+6.  6 West won't concede
+7.  7 Norquist: Lame duck tax hike unlikely
+8.  8 Reports: Probe began with 2 women
+9.  9 Paula Broadwell in media spotlight
+10.  10 Obama: Voters agreed with me
 
 Showing Last 7 Days
 
-Updated: 11/10/2012 7:01 AM ET
+Updated: 11/11/2012 8:01 AM ET
 
-1.  1 How Obama, Boehner could get revenue
-2.  2 Can Rubio save GOP on immigration?
-3.  3 Republicans ponder way forward
-4.  4 GOP soul-searching: 'Too old, too white, too male'?
-5.  5 Four more for 44
-6.  6 Why 2012 turned small
-7.  7 If Obama loses…
-8.  8 The looming GOP civil war
-9.  9 Obama, not-so-happy warrior
-10.  10 Christie was Mitt's VP first choice
+1.  1 Rove under fire
+2.  2 How Obama, Boehner could agree
+3.  3 Can Rubio save GOP on immigration?
+4.  4 Republicans ponder way forward
+5.  5 GOP soul-searching: 'Too old, too white, too male'?
+6.  6 Four more for 44
+7.  7 Why 2012 turned small
+8.  8 If Obama loses…
+9.  9 The looming GOP civil war
+10.  10 Obama, not-so-happy warrior
 
 News
 
