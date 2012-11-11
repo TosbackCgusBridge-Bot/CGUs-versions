@@ -147,8 +147,6 @@ Examples of information you can access easily at Amazon.com include up-to-date i
 *   Manage Address Book
 *   Manage Your Kindle
 
-Support
-
 *   Kindle Help Forum
 *   General Help Forum
 
@@ -327,6 +325,7 @@ Borrow from over 180,000 titles for free
 *   Music
 *   MP3 Downloads
 *   Musical Instruments
+*   Entertainment Collectibles
 *   Video Games
 *   Game Downloads
 
@@ -463,5 +462,3 @@ View Cart (0 items) (0 item) (0 items)
 *   Wish from Any WebsiteAdd items to your List from anywhere
 *   Wedding Registry
 *   Baby Registry
-*   Kids' Birthdays
-*   Friends &. Family Gifting
