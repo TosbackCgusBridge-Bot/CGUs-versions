@@ -113,7 +113,7 @@ Stay Connected close
 *   WV
 *   WY
 
-get it today with FREE store pick up Deal of the Day layaway   member exclusives FREE SHIPPING AND 2X REWARDS POINTS WITH SHOP YOUR WAY MAX Free Shipping on orders of $49 or more See details - or - 3 months Free Shipping learn more Contact Us **Sears Stores** 1-800-549-4505 Email Us **Sears.com** 1-800-697-3277 Email Us Click to Call Click to Chat **Sears.com en Espanol** 1-800-377-8634 **Sears international** Email Us Services **Delivery** 1-800-732-7747 **Installation** 1-800-326-8738 **Part Orders &. Inquiries**1-800-366-7278 **Repair** 1-800-469-4663 **Cleaning** **Home Improvement** **Computer Repair** 1-800-877-8701 Clubs &. Rewards **Craftsman Club** 1-800-682-8691 **Shop Your Way Rewards** 1-800-991-8708
+get it today with FREE store pick up Deal of the Day layaway   member exclusives FREE SHIPPING AND 2X REWARDS POINTS WITH SHOP YOUR WAY MAX Contact Us **Sears Stores** 1-800-549-4505 Email Us **Sears.com** 1-800-697-3277 Email Us Click to Call Click to Chat **Sears.com en Espanol** 1-800-377-8634 **Sears international** Email Us Services **Delivery** 1-800-732-7747 **Installation** 1-800-326-8738 **Part Orders &. Inquiries**1-800-366-7278 **Repair** 1-800-469-4663 **Cleaning** **Home Improvement** **Computer Repair** 1-800-877-8701 Clubs &. Rewards **Craftsman Club** 1-800-682-8691 **Shop Your Way Rewards** 1-800-991-8708
 
 Privacy Policy
 
