@@ -56,7 +56,10 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
-*   Winning bid for Ryu Hyun-Jin is $25.7 million
+*   Several teams interested in Shane Victorino
+*   Dodgers do not have Ethier on trading block
+*   Dodgers win bidding for LHP Ryu Hyun-Jin
+*   Red Sox sign David Ross to two-year deal
 *   Rivera (knee) throws 25 pitches off mound
 *   Kuroda declines qualifying offer from Yankees
 *   B.J. Upton declines Rays' qualifying offer
@@ -65,9 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Reds interested in Bourn for leadoff spot
 *   Tigers offer Jeremy Bonderman a contract
 *   Brewers talking extension with Corey Hart
-*   M's considering Mike Napoli, Russell Martin
-*   Rangers won't give Hamilton more than 3 years
-*   Angel Pagan on top of Braves' CF wish list
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Week 10 Injury Questions Nov 10
+*   Best Available NFL Free Agents Nov 10
 *   Friday Rundown Nov 9
 *   Week 10 Rankings Nov 9
 *   Matchups: Dez'll Do It Nov 9
 *   Running Luck Nov 9
 *   Week 10 Live Chat Nov 8
 *   Week 10 Target Watch: AFC Nov 8
-*   Jonesing for Reece Nov 8
-*   Matchup: Colts @ Jaguars Nov 8
 
 PREMIUM CONTENT
 
@@ -106,6 +106,11 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
+*   Report: Hernandez 'will not play' vs. Bills
+*   Report: Harvin (ankle) ruled out for Week 10
+*   Mark Ingram just now getting to peak form?
+*   Report: Antonio Brown may 'miss a few games'
+*   Redman to get the start for Steelers on MNF
 *   Pats list 14 players 'questionable' for Wk 10
 *   Report: Eli Manning experiencing 'tired arm'
 *   Lynch (wrist, back) probable for Week 10
@@ -113,11 +118,6 @@ FANTASY FOOTBALL HEADLINES
 *   Kubiak: Owen Daniels 'very limited very sore'
 *   Vikings leaving door open for Harvin to play
 *   Saints rule out Darren Sproles versus Atlanta
-*   Vikes list Percy Harvin as doubtful for Wk 10
-*   Owen Daniels limited, to be game-day decision
-*   Hakeem Nicks listed probable for Week 10
-*   Stevie Johnson listed questionable for Sunday
-*   Percy Harvin misses practice again on Friday
 
 NBA PAGES
 
@@ -134,6 +134,7 @@ NBA PAGES
 
 COLUMNS
 
+*   Dose: Lakers in Transition Nov 10
 *   DeAndre the Giant Nov 9
 *   Dose: Serge Ibaka Explosion Nov 9
 *   NBA Live Chat Thursday Nov 8
@@ -141,7 +142,6 @@ COLUMNS
 *   Dose: Kyle Lowry Lowdown Nov 7
 *   Dose: Waiters Explosion Nov 6
 *   Dose: Josh Smith iffy w/ ankle Nov 5
-*   NBA chat: Monday @ 12:30 ET Nov 4
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Source: Phil Jackson met w/ Lakers last week
-*   Kobe posts 27-9-7 line in blowout win vs. GSW
-*   Duncan goes for 23 and 12 vs. lowly Kings
-*   Shannon Brown scores 22 points vs. Cavs
-*   Waiters scores 23 points, gets X-rays on leg
-*   Budinger scores 18 points with game-winner
-*   George Hill explodes for 29-5-7 line vs. MIN
-*   Brow goes for 23 &. 11. Ryno scores 25 points
-*   Ben Gordon scores 34 points vs. Hornets
-*   Ibaka scores career-high 25 points vs. DET
-*   Drummond goes for 22 and eight vs. Thunder
-*   Nash (leg) to be out at least one more week
+*   LeBron James (knee) expects to play Sunday
+*   Gary Neal scores career-high 27 pts off bench
+*   Jamaal Tinsley hands out 14 assists vs. Suns
+*   Dwyane Wade (illness) will play on Sunday
+*   X-rays negative for Chase Budinger (knee)
+*   Michael Kidd-Gilchrist goes off on Saturday
+*   Kemba steals 8 in Bobcats' 1st win vs. Dallas
+*   A.J. Price double-doubles w/ 12 pts, 14 ast
+*   Kirk Hinrich strains hip, iffy to return
+*   Tony Parker (flu) will not play Saturday
+*   Brandon Jennings will not be suspended
+*   Terry &. Bass start for Celts, C-Lee to bench
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Blake Geoffrion (skull) in stable condition
+*   Nathan Horton's agent: "He's ready to play"
+*   Joe Colborne healthy scratch Friday
+*   Salaries for this season now a CBA issue
+*   Jared Cowen sitting out with LB injury
+*   Habs' Blake Geoffrion out indefinitely
+*   NHL players wonder about scheduling problems
+*   Louis Leblanc out with ankle sprain
+*   Labor talks will resume today, newspaper says
+*   Justin Faulk primed for breakout season
+*   Chris Bourque continues to lead Baby B's
 *   Stefan Noesen a force with four points
-*   Jonathan Drouin has another solid game
-*   Adam Henrique scores for just third time
-*   Tim Erixon haunts Rangers organization
-*   Report: NHL offers 50-50, would honor deals
-*   NHLPA's Donald Fehr has 'things to consider'
-*   Crosby: A 60-game season would be pretty fair
-*   Fehr to players: Still a lot of work ahead
-*   Still much work to be done in labor talks
-*   NHL, NHLPA to continue talks Friday
-*   Carl Hagelin will return to NY for rehab
-*   Report: PA expects league response to offers
 
 NASCAR PAGES
 
@@ -245,6 +245,10 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Logano’s NNS team wins Phoenix race awards
+*   Austin Dillon wins race awards at Phoenix
+*   Jason Bowles big Nationwide Series gainer
+*   Ninth 2012 Nationwide Series win for Logano
 *   Brian Scott’s team wins Mahle Clevite award
 *   Kyle Larson wins Mobil 1 driver award
 *   Ryan Blaney big gainer in Truck Series
@@ -253,10 +257,6 @@ FANTASY NASCAR NEWS
 *   J.J. Yeley misses AdvoCare 500 field
 *   Nemechek gets last Cup slot at Phoenix
 *   McDowell top Phoenix Cup go-or-go-homer
-*   Stephen Leicht top rookie starter at Phoenix
-*   Kyle Busch on pole for AdvoCare 500
-*   Jennifer Jo Cobb misses Phoenix NCWTS field
-*   John King gets last spot in NCWTS field
 
 GOLF PAGES
 
@@ -285,6 +285,7 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Beljan perseveres. stakes 2-stroke CMNHC lead
 *   Beljan labors thru health scare. leads CMNHC
 *   Wi maximizes on his chances to lead the CMNHC
 *   Holmes WDs from Disney. solid season ends
@@ -296,7 +297,6 @@ FANTASY GOLF NEWS
 *   Westwood matches career low to lead WGC-HSBC
 *   Snedeker cards 60 in his third round in China
 *   McDowell admits having dust-up...with a door
-*   Hanson will accept 2013 PGA TOUR membership
 
 NFL DRAFT PAGES
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
-*   Chip Kelly may be headed to the NFL soon
-*   Wolverines' Lewan is Pauline's top ranked T
-*   Buckeye RB Hall granted redshirt, back in '13
-*   Muench: DT Williams compares to Geno Atkins
-*   Rex Burkhead listed as doubtful, again
-*   Barkevious Mingo heads Pauline's top-50
-*   'Door remains open' for WR Wilson to return
-*   Noles WR Greene catches six for 125, 2 TDs
-*   E.J. Manuel throws for 326 yards, 3 TDs vs VT
-*   Cougars DE Ansah invited to the Senior Bowl
-*   Marcus Lattimore undergoes successful surgery
-*   NFL will conduct 10 regional combines
+*   Marquess Wilson cites 'abuse' at Wash St.
+*   Vols TE Rivera goes off for 10/129/1 line
+*   Tyler Bray throws for 404 yards, three TDs
+*   Jayhawks RB Sims rushes for 127 yds, 2 TDs
+*   Sammy Watkins will not return in second half
+*   Montee Ball rushes for 198 yards, three TDs
+*   Bridgewater tosses 3 TDs, 424 yards in loss
+*   Former Vol WR Rogers will enter 2013 Draft
+*   McNeal will start at RB over Redd for Trojans
+*   Marqise Lee may see snaps at FS vs ASU
+*   Razorbacks RB Davis not dressed vs SoCar
+*   Clint Chelf will start at QB for Okie State
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NBA:Source: Phil Jackson met w/ Lakers last week
-*   NBA:LeBron nears triple-double after collision
-*   NAS:Brian Scott wins Lucas Oil 150 in Phoenix
-*   MLB:Winning bid for Ryu Hyun-Jin is $25.7 million
-*   NAS:Kyle Busch on pole for AdvoCare 500
-*   NFL:Pats list 14 players 'questionable' for Wk 10
-*   NHL:NHLPA's Donald Fehr has 'things to consider'
-*   NFL:Lynch (wrist, back) probable for Week 10
-*   NAS:Piquet Jr. on pole for Lucas Oil 150
-*   NFL:Report: Eli Manning experiencing 'tired arm'
-*   MLB:Rivera (knee) throws 25 pitches off mound
-*   MLB:Kuroda declines qualifying offer from Yankees
+*   NFL:Report: Hernandez 'will not play' vs. Bills
+*   CFB:Marquess Wilson cites 'abuse' at Wash St.
+*   NFL:Report: Harvin (ankle) ruled out for Week 10
+*   NHL:Blake Geoffrion (skull) in stable condition
+*   MLB:Dodgers win bidding for LHP Ryu Hyun-Jin
+*   NAS:Ninth 2012 Nationwide Series win for Logano
+*   NFL:Report: Antonio Brown may 'miss a few games'
+*   CFB:Former Vol WR Rogers will enter 2013 Draft
+*   NFL:Redman to get the start for Steelers on MNF
+*   MLB:Red Sox sign David Ross to two-year deal
+*   NBA:LeBron James (knee) expects to play Sunday
+*   NBA:Gary Neal scores career-high 27 pts off bench
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. McFaddenNFL (8423)
-*   2M. ReeceNFL (7378)
-*   3D. BrownNFL (7156)
-*   4T. JonesNFL (7145)
-*   5P. HarvinNFL (6772)
+*   1D. McFaddenNFL (7940)
+*   2M. ReeceNFL (7751)
+*   3T. JonesNFL (7742)
+*   4P. HarvinNFL (6810)
+*   5D. AveryNFL (6156)
 
-*   6D. AveryNFL (6572)
-*   7T. HiltonNFL (6262)
-*   8K. SeraphinNBA (6146)
-*   9D. SprolesNFL (5988)
-*   10V. BallardNFL (5963)
+*   6T. HiltonNFL (6074)
+*   7D. BrownNFL (5989)
+*   8A. BrownNFL (5873)
+*   9A. HernandezNFL (5872)
+*   10N. HilarioNBA (5766)
 
   
 Video Center
@@ -544,22 +544,27 @@ Video Center
 
   
   
-  Headlines Friday Rundown  
-Nov 9 Frank DuPont looks at Taiwan Jones, Malcom Floyd, and Ryan Mathews, in the weekly trip through the stat sheet.  
+  Headlines Week 10 Injury Questions  
+Nov 10 Get up to speed with the latest on all the hurt folks as we get set for Week 10.  
   
 More NFL Columns
 
+*   »Week 10 Injury Questions Nov 10
+*   »Best Available NFL Free Agents Nov 10
 *   »Friday Rundown Nov 9
 *   »Week 10 Rankings Nov 9
 *   »Matchups: Dez'll Do It Nov 9
 *   »Running Luck Nov 9
 *   »Week 10 Live Chat Nov 8
 *   »Week 10 Target Watch: AFC Nov 8
-*   »Jonesing for Reece Nov 8
-*   »Matchup: Colts @ Jaguars Nov 8
 
 NFL Headlines
 
+*   »Report: Hernandez 'will not play' vs. Bills
+*   »Report: Harvin (ankle) ruled out for Week 10
+*   »Mark Ingram just now getting to peak form?
+*   »Report: Antonio Brown may 'miss a few games'
+*   »Redman to get the start for Steelers on MNF
 *   »Pats list 14 players 'questionable' for Wk 10
 *   »Report: Eli Manning experiencing 'tired arm'
 *   »Lynch (wrist, back) probable for Week 10
@@ -567,11 +572,6 @@ NFL Headlines
 *   »Kubiak: Owen Daniels 'very limited very sore'
 *   »Vikings leaving door open for Harvin to play
 *   »Saints rule out Darren Sproles versus Atlanta
-*   »Vikes list Percy Harvin as doubtful for Wk 10
-*   »Owen Daniels limited, to be game-day decision
-*   »Hakeem Nicks listed probable for Week 10
-*   »Stevie Johnson listed questionable for Sunday
-*   »Percy Harvin misses practice again on Friday
 
 NFL Links
 
