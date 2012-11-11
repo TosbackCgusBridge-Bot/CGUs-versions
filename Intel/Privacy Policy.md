@@ -407,22 +407,24 @@ Intel® Online Privacy Notice Intel is committed to respecting your privacy. Our
     *   Related Topics
     *   Related Products
     
-    *   Intel Human Rights...
+    *   Intel® Online Privacy...
         
-        Summarizes Intel's position on key human rights issues and embodies common principles laid out by...  
+        The full Intel Online Privacy Notice and this summary apply to Intel Corporate web sites worldwide.
+        
+    *   Proposed Rule for Health...
+        
+        Discusses working together to achieve a fully interoperable and secure health IT system.  
         Preview | Download
         
-    *   Privacy: Thank You
+    *   HIT and the Affordable...
         
-        Privacy: Thank You
+        Advises IT provisions in ACA to improve efficiency, quality, and reporting accuracy in health care.  
+        Preview | Download
         
-    *   Intel Social Media...
+    *   Intel Comments on...
         
-        Intel Social Media Guidelines for Intel employees or contractors contributing on or off Intel.com.
-        
-    *   Intel Social Media...
-        
-        Guide for Intel sponsored, seeded, or incentivized social media practitioners.
+        Suggestions to Health Information Technology Coordinator on electronic health record technology...  
+        Preview | Download
         
     
     *   Technology for the Home
