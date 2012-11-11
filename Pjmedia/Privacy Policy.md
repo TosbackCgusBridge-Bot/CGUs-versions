@@ -115,24 +115,24 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   Report: FBI Uncovered Petreaus Infidelity
-*   The Competent Man
-*   Winner of ‘Four More Years and All Our Fears’ Photo Caption Contest
+*   FBI Probe of Petreaus Triggered by Threatening Emails Sent by Mistress
+*   Jesse Jackson, Jr. Plea Deal to Include Resigning from Congress
+*   Will a Deal to Avoid the Fiscal Cliff be Reached this Year?
 
 More  
 
-*   Understanding _The Egyptian Book of the Dead_
-*   It’s All Over. Not.
-*   ‘Something’s Wrong When You Regret / Things That Haven’t Happened Yet’
+*   VIDEO: Man Dressed as Charlie Brown Proposes with R2D2 Engagement Ring
+*   The Anti-Slavery Party
+*   Classic Rock: What Are Your Cat Stevens Music Memories?
 
 More
 
-*   David and Bathsheba
-*   Mommy, Why Would You Write a Book with Such a Mean Title?
 *   Anatomies of Electoral Madness
+*   A Tale of Three (or More) Roger Simons
+*   The First Emperor
 
-More   MICHAEL MOYNIHAN: From Katrina To Sandy, FEMA Rumors and Failures Keep Swirling. THE COUNTRY’S IN THE VERY BEST OF HANDS: IRS Flunks GAO Audit . . . Again. A GLOOMY TAKE ON THINGS FROM DAN GIFFORD: ... More Advertisement
+More   MEGAN MCARDLE: DC Government vs. Market Competition, Round 7,894. ... ROGER SIMON: A Tale of Three (or More) Roger Simons. “Everyone was confused by this, including me. It went so far as my being flown across country to appear on Meet the Press only to find they expected the other Roger Simon. (Yes, that really happened. My consolation prize was five minutes on air with Norah O’Donnell, who had no idea what to make of my strange libertarian utterings.) I finally did bump into the other Roger at some Washington news gathering or other. He didn’t look pleased to see me, though perhaps that was projection.” ... WHAT EVERYONE NEEDS: Bacon Band-Aids. More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
-Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb2
+Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb1
