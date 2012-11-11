@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Petraeus Resigns
-*   UN: Syria 'Dramatically Deteriorating'
+*   BBC Chief Resigns
+*   Iraq Cancels Russian Arms Deal
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
