@@ -124,13 +124,11 @@ Your browser currently is not set to accept Cookies. Please turn it on or check 
 
 A Free return label will be included with your order. This offer only applies to orders shipped via UPS ground within the continental United States and placed on uggaustralia.com.
 
-Live Chat Chat online with a customer service representative now. Chat Now Call Us 1.888.432.8530 Email Us Email us 24 hours a day. We'll reply within one business day. email us now Hours of Operation: MON-FRI: 9AM-10PM (EST)  
-SATURDAY: 11AM-8PM (EST)  
-SUNDAY: 11AM-8PM (EST)  
+Live Chat Chat online with a customer service representative now. Chat Now Call Us 1.888.432.8530 Email Us Email us 24 hours a day. We'll reply within one business day. email us now Hours of Operation: MON-FRI: 8AM-9PM (EST)  
+SATURDAY: 10AM-7PM (EST)  
+SUNDAY: 10AM-7PM (EST)  
   
   
-
-**Important Notice** – Areas impacted by Hurricane Sandy may have disruption of delivery service by UPS and USPS. For up to date delivery information, please go to a UPS or USPS
 
 We're Sorry...
 
