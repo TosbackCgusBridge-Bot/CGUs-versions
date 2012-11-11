@@ -10,18 +10,18 @@ My Account
     *   Verizon
     *   Target
     *   Juicers
-    *   Luster Now
     *   Kohls
+    *   Luster Now
     *   Toys R Us
     *   Webkinz
     *   Hsn
-    *   Kmart
     *   Counseling
+    *   Kmart
     *   Qvc
     *   Walmart
     *   Windows 7
-    *   Office Max
     *   Money
+    *   Office Max
     *   Iphone
     *   Digital Cameras
     *   Coffee Makers
@@ -29,17 +29,17 @@ My Account
     *   Radio Shack
     *   At
     *   Sears
-    *   Discount Tires
     *   Tax
+    *   Discount Tires
     *   Www.yahoo.com
     *   Contact
     *   Truck
-    *   Leappad
     *   Costco
-    *   T Mobile
-    *   North Face Jackets
-    *   Pressure Cookers
+    *   Leappad
     *   Flowers
+    *   T Mobile
+    *   Pressure Cookers
+    *   North Face Jackets
     *   Ipod
     *   Android Tablets
     *   Barnes And Noble
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1590 Local Deals
+*   1556 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
