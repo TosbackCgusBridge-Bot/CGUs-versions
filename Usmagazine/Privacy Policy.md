@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! K-Stew's Enchanted! »
+Hot Pics! Team Jacob »
 
-Top Stories1.  FIRST PICTURES: Meet Reese Witherspoon's Baby Son Tennessee! »
-2.  Justin Bieber, Selena Gomez Split »
-3.  Nick and Vanessa's Birthday: See Son Camden's Baby Album! »
-4.  HOT! Britney Spears Rocks Midriff-Baring Top on X Factor »
-5.  FIRST PICS: Jessica Biel Resurfaces in NYC After JT Honeymooon »
+Top Stories1.  NEW PICTURES: Matthew McConaughey Looks More Skeletal Than Ever »
+2.  Jake Gyllenhaal Holds Hands With Mystery Girl »
+3.  Sally Field: I Lost and Gained 25 Pounds While Making Lincoln »
+4.  Justin Bieber, Selena Gomez Split »
+5.  FIRST PICTURES: Meet Reese Witherspoon's Baby Son Tennessee! »
 
  
 
@@ -178,8 +178,8 @@ Inside Us Weekly
 *   Style Christina Aguilera Flashes Leopard Bra Under
 *   Beauty Christa B. Allen: What's in My Bag?
 *   Moms Nick and Vanessa's Birthday: See Son Camden's
-*   Body Adele: "I Would Only Lose Weight If It Affect  
-*   Entertainment Kristen Bell to Appear On Gossip Girl's Final
+*   Body NEW PICTURES: Matthew McConaughey Looks More  
+*   Entertainment Chris Hardwick: Hollywood's 1st Nerd!
 
 *   US WEEKLY
 *   Celebrity News
