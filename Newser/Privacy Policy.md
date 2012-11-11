@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   Election 2012
+    *   David Petraeus
+    *   CIA
+    *   Paula Broadwell
+    *   timeless news
     *   President Obama
-    *   Mitt Romney
+    *   strange stuff
     *   entertainment
     *   celebrity
-    *   strange stuff
-    *   Mitt Romney 2012
-    *   Obama 2012
-    *   fiscal cliff
-    *   John Boehner
+    *   Mitt Romney
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -122,61 +122,61 @@ NEWS FROM OUR PARTNERS
 
 *   Boehner Is Bluffing
 *   Lincoln
-*   Citizens United Is Still Worth Hating
+*   Liberal Schadenfreude Is Out of Control
 
 More from Slate »
 
-*   MILKIN' IT
-*   100 UFOs Sighted Near India And China Border
-*   GOP Office Finds Dead Pig Wearing Mitt Romney Shirt At...
+*   DODGE _THIS_
+*   Woman Stuck Between 2 Buildings Says She Didn't Fall Off...
+*   She Has To Drink 6 Pints Of Milk Every Day To Survive
 
 More from HuffPost Weird »
 
-*   No More Ice Cream For Woman Who Called Obama N-Word On...
-*   Christina Aguilera Allegedly Propositioned Vanessa Hudgens...
-*   Today’s Lady News: Douchey Ads For New York Knicks Removed
+*   The 10 Coolest Fictional Pets
+*   Rep. Tammy Baldwin Respond’s To Male Colleague’s Offer To...
+*   Saturday Playlist: Chill Out, Dude
 
 More from The Frisky »
 
-*   Student angers substitute teacher, finds out what happens...
-*   Gingers are friendly and adorable, whites are seen as aloof...
-*   We're about to reach Peak Coffee \[Sad\]
+*   After Hurricane Sandy, Nestle donates hundreds of Hot...
+*   Rich people have thought of the poor as moochers since the...
+*   Want to create a little lunchtime excitement at a police...
 
 More from Fark »
 
+*   How Obama won re-election
 *   10 things you need to know today: November 10, 2012
 *   5 smart reads for the weekend
-*   David Petraeus resigns from the CIA over an affair: What we...
 
 More from The Week »
 
-*   Ousted Citigroup CEO Vikram Pandit Gets $6.7 Million In...
-*   Tomorrow’s Post David Petraeus Headline ... Today!
-*   John Heilemann on Morning Joe: Romney Campaign Was ‘Stuck...
+*   Allen West Will Not Admit That He Lost
+*   BBC Director General George Entwistle Resigns Over Sex...
+*   New Yorkers Suddenly Remember What Exactly They Had in...
 
 More from Daily Intel »
 
-*   8 Famous Faces Who Have Been Touched By Lung Cancer
-*   Time to Sweep Up the Confetti and Start Saving Lives
-*   Does Exercise Have to Be About Weight Loss?
+*   _Feeling The Winter Chill?_
+*   25 Things I Learned In 25 Years (Of Marriage)
+*   5 Ways to Get Over Yourself in Under 5 Minutes
 
 More from HuffPost Health »
 
-*   Chris Brown Denies Rihanna Relationship: We Will 'Always Be...
-*   Matthew McConaughey Shows Frail Figure as He Departs From...
-*   Rihanna Strips Down With Kate Moss for 'V' Magazine (PHOTOS)
+*   Jessica Biel Emerges in New York City Post Honeymoon...
+*   Kim, Kourtney and Khloe Kardashian Launch Kardashian...
+*   Justin Bieber and Selena Gomez Break Up (REPORT)
 
 More from Celebuzz »
 
-*   Easy Cinnamon Coffee Cake Recipe
-*   President Obama's Tears Show How Vulnerability Can Be the...
-*   Hurricane Sandy Gas Shortage: When and Where You Can Fill Up
+*   Out of This World 3 Cheese Macaroni and Cheese Recipe
+*   Body of Missing Teen Found, But Could an Amber Alert Have...
+*   'Skyfall' Is Best, Best James Bond Movie Ever, Says James...
 
 More from The Stir »
 
-*   Leo Burnett Has Its Own "Saatchi 17" Problem
+*   Trailer Mash 11-09-12
+*   Leo Burnett Has Its Own 'Saatchi 17' Problem
 *   Cats Win as America's Favorite Pet
-*   Little Caesars Looks to Mimes, and the Stars, for Latest...
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
