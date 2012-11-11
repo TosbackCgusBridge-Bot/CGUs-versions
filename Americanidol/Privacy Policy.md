@@ -33,8 +33,8 @@ American Idol.com Home Audition for Season 12 American Idol Search
     *   Moments That Make You Smile
     *   Recaps
     *   Idol Style
-    *   Idol Crew
     *   Idol Alumni
+    *   Idol Crew
 *   Community
     *   Idol Nation Fan Hub
     *   Idol Nation Fan Wall
