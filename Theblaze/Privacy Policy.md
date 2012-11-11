@@ -31,7 +31,7 @@ Sign In Sign Up
 
 Take Action
 
-CIA Dir. Resigns Over Affair…Cites Teddy Roosevelt in Letter…Married 37 Yrs…Wife Also Works in Admin….Obama: ‘Thoughts and Prayers’ With Them
+Check Out the Hot Posts on TheBlaze Blog!
 
 How Will Obama’s Cabinet Shake Up? See Our Predictions here
 
