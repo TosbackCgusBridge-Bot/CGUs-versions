@@ -1,4 +1,4 @@
-About Us| Newsletter November 10, 2012
+About Us| Newsletter November 11, 2012
 
 *   Like Us
 *   Follow Us
@@ -403,21 +403,21 @@ Please acknowledge your agreement I have read and agree to WebMD's Privacy Polic
 
 New on MedicineNet
 
+*   Ulcerative Colitis Diet
+*   Ulcerative Colitis Surgery
 *   Yeast Infections in Men
 *   Nosebleed Remedies
 *   Eustachian Tube Problems
 *   Sinus Surgery
-*   Epidurals &. Fungal Meningitis
-*   Fungal Meningitis Outbreak
 *   Healthy Living Tips
 
 Latest MedicineNet News
 
+*   DNA 'Telomere' Length Tied to Aging, Death Risk
+*   Doctors Often Misinterpret Patients' Wishes
 *   Barack Obama Wins: What It Means for Health Care
 *   Doctors With More Experience May Have Lower Cost
 *   An Elephant That Speaks Korean?
-*   Sandy's Death Toll Rises
-*   Canada Health System as Model Might Cut U.S. Costs
 *   Want More News? Sign Up for MedicineNet Newsletters!
 *   Health News Feed
 
