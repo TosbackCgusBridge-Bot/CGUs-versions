@@ -556,7 +556,7 @@ Greenwood Village, CO 80111
 
 We always enjoy hearing from you and appreciate your business.
 
-20% Off plus Free Shipping over $49 Emails
+30% Off plus Free Shipping over $99 Emails
 
 Get exclusive offers, and be the first to hear about new brands, styles and more!
 
