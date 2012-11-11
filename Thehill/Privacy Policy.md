@@ -212,28 +212,28 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Interior proposal would limit commercial oil shale development on federal landsDear Matt Drudge: Stop the race storiesGallup: 2012 election had the largest gender gap in recorded historyObama says deficit plan must include higher taxes for wealthyWar opens inside Republican Party over immigration
+Dear Matt Drudge: Stop the race storiesInterior proposal would limit commercial oil shale development on federal landsFBI uncovered Petraeus affair by chanceGallup: 2012 election had the largest gender gap in recorded historyFlorida vote count: Obama wins state
 
 Emailed
 
-Interior proposal would limit commercial oil shale development on federal landsDear Matt Drudge: Stop the race storiesCongress expected to ignore Puerto Rico's vote for statehoodData drove Obama’s ground gameGallup: 2012 election had the largest gender gap in recorded history
+Interior proposal would limit commercial oil shale development on federal landsGallup: 2012 election had the largest gender gap in recorded historyDear Matt Drudge: Stop the race storiesObama neutralized Republicans on the economy - and wonFBI uncovered Petraeus affair by chance
 
 Discussed
 
-Dear Matt Drudge: Stop the race storiesObama wins a second term, calls for national unity in victory speechInterior proposal would limit commercial oil shale development on federal landsObama says deficit plan must include higher taxes for wealthyGallup: 2012 election had the largest gender gap in recorded history
+Dear Matt Drudge: Stop the race storiesInterior proposal would limit commercial oil shale development on federal landsObama wins a second term, calls for national unity in victory speechGallup: 2012 election had the largest gender gap in recorded historyObama says deficit plan must include higher taxes for wealthy
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Biden: 'We've got to get this economy working' before considering 2016
-*   DAY'S END ROUNDUP
-*   Supreme Court to consider rolling back minority protections in Voting Rights Act
+*   Rove: Crossroads ‘did good things,’ defends super-PAC’s efforts
+*   10 players to watch on immigration
+*   Fla. certifies victory for Dem Murphy, West refuses to concede
 
   
 More Briefing Room » Congress Blog
 
+*   Remember the families of our fallen military
 *   Mitt Romney's Latino doomsday prophesy
 *   Obama neutralized Republicans on the economy - and won
-*   Let's find agreement on new offshore access
 
   
 More Congress Blog » Pundits Blog
@@ -252,9 +252,9 @@ More Pundits Blog » Twitter Room
   
 More Twitter Room » Hillicon Valley
 
+*   Without an agreement, Reid eyes last 2012 effort on Cybersecurity Act
+*   Google braces for antitrust suit following Obama reelection
 *   Google services blocked in China
-*   NAACP blasts Pandora-backed Internet royalty bill
-*   News bites: Priceline to buy Kayak for $1.8 billion
 
   
 More Hillicon Valley » E2\-Wire (Energy)
@@ -273,9 +273,9 @@ More E2\-Wire (Energy) » Ballot Box
   
 More Ballot Box » On The Money
 
-*   Boehner: Election a 'mandate to work together' with Dems
-*   Geithner staying at Treasury into 2013
-*   Obama says deficit plan must include higher taxes for wealthy
+*   Business groups look for congressional finish line on Russian trade bill
+*   Norquist OK with Boehner tax stance
+*   Investors fear the fallout from election
 
   
 More On The Money » Healthwatch
@@ -301,16 +301,16 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
+*   Report: FBI employee told Rep. Cantor about Petraeus affair
 *   Petraeus resigns as CIA chief over extramarital affair
 *   Morell to testify on Libya attack in place of Petraeus
-*   Incoming Lockheed CEO resigns after ethics investigation
 
   
 More DEFCON Hill » Global Affairs
 
+*   Benghazi Consulate attack back on front burner in Congress
 *   Obama renews 33-year-old state of emergency with Iran as Senate mulls crippling sanctions
 *   Clinton to travel with Obama to Burma
-*   US announces $34 million in new humanitarian aid to Syria as winter approaches
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Seizing the moment Brent Budowsky Drudge: Stop race stories More Columnists »
