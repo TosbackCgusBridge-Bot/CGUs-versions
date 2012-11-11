@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Waldrobe Malfunctions
+*   Julian Assange
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-November 10, 2012 Edition: **U.S.**
+November 11, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ November 10, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Romney 'Shellshocked' By Loss47k
-    *   Reported Petraeus Mistress Revealed4k
-    *   Rice Hits GOP For Sending 'Mixed Messages'6k
-    *   CIA Director Resigns Over Extramarital Affair14k
-    *   WATCH: Obama Tears Up While Addressing Campaign Staff17k
+    *   Petraeus Resigns As CIA Director After Admitting To Affair6k
+    *   Reported Petraeus Mistress Revealed8k
+    *   All Ballots Counted, Allen West Solidly Defeated By Patrick Murphy9k
+    *   Meet Holly Petraeus753
+    *   Romney 'Shellshocked' By Loss48k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ November 10, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   Matt Taibbi: Romney Could Have Easily Won13k
-    *   Romney Campaign Cancels Aides' Credit Cards ON Election Night3k
-    *   CEO Enters 'Survival Mode' After Obama Reelection, Announces Layoffs9k
-    *   Pizza Chain CEO: 'I Don't Think People Know What They're Going To Pay For' Obamacare6k
-    *   CEO Fires 22 Workers After Obama Wins Reelection11k
+    *   Pizza Chain CEO: 'I Don't Think People Know What They're Going To Pay For' Obamacare33k
+    *   Matt Taibbi: Romney Could Have Easily Won17k
+    *   Romney Campaign Cancels Aides' Credit Cards ON Election Night5k
+    *   CEO Enters 'Survival Mode' After Obama Reelection, Announces Layoffs15k
+    *   LOOK: Major Gas Shortage Bring Insane 1970s-Style Lines At The Pump280
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ November 10, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   Ted Nugent Goes On Angry Twitter Rant After Obama Reelection 12k
-    *   Victoria Jackson LOSES IT Over Obama's Win11k
-    *   Recognize That Voice?
-    *   PHOTOS: Rihanna Stuns At Victoria's Secret Fashion Show77
-    *   Why Matt Damon's Phone Stopped Ringing76
+    *   WATCH: Newly Unearthed Footage Of Elvis At MSG436
+    *   Ted Nugent Goes On Angry Twitter Rant After Obama Reelection 15k
+    *   Biggest Bond Ever: 'Skyfall' Sets Records101
+    *   Mick Jagger Love Letters Reveal 'Brown Sugar' Inspiration150
+    *   Great News For 'Star Wars' Fans224
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ November 10, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   Microsoft Brings Star Trek's Voice Translator to Life599
-    *   Teen Son Of Billionaire Jokes About Killing Obama, Posts Convo On Instagram 5k
-    *   7 Numbers That Apple Should Be Worried About98
-    *   'A Lifeline' After Sandy, Copper Phone Networks Are Phased Out82
-    *   The 7 Best Tweets From Election Night 2012 44
+    *   I Was Just Friended By Myself On Facebook (And It Only Gets Weirder From There)556
+    *   The 9 Most Popular Viral Videos Of The Week43
+    *   How Romney's Broken App Cost Him Thousands Of Votes 52
+    *   7 Numbers That Apple Should Be Worried About136
+    *   'A Lifeline' After Sandy, Copper Phone Networks Are Phased Out143
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ November 10, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
-    *   'I Don't Want To Kill Anyone's Dreams But...' 2k
-    *   Megyn Kelly Tells Karl Rove Obama Won3k
-    *   WATCH: MSNBC Host Says Good-Bye 369
-    *   Robin Roberts Celebrates Milestone77
-    *   FEUD!653
+    *   'I Don't Want To Kill Anyone's Dreams But...' 4k
+    *   BBC Chief Resigns265
+    *   WATCH: Scarborough's Post-Election Mourning 1k
+    *   WATCH: MSNBC Host Says Good-Bye 518
+    *   Conservatives' 'Chief Psychologist'1k
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ November 10, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   Iran Official: U.S. Drone Violated Airspace1k
-    *   Chavez: Obama Should Forget Wars, Fix Domestic Problems682
-    *   Ancient Well Discovered In Israel208
-    *   Archeologists Explore War-Torn Site Of Ancient City280
-    *   Look: The World Explains Why Romney Lost1k
+    *   Most Insane Photos Of The Week
+    *   Iran Official: U.S. Drone Violated Airspace2k
+    *   17 Soldiers Killed In Turkish Helicopter Crash46
+    *   Who Said What? Outlandish Quotes By World Leaders12
+    *   High-Level Nuclear Talks Called Off1k
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ November 10, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   25 Of The Healthiest Herbs And Spices In The World79
-    *   Jane Lost More Than 100 Pounds: 'Now I Know That I'm Truly Worth Fighting For'58
-    *   8 Famous Faces Who Have Been Touched By Lung Cancer
-    *   10 Uplifting Books To Help You Through A Hard Day17
-    *   Brooke Burke-Charvet Diagnosed With Thyroid Cancer: What Is It?34
+    *   25 Of The Healthiest Herbs And Spices In The World86
+    *   Top 5 Foods To Fight Inflammation
+    *   Rosie Rose Lost More Than 100 Pounds: 'With Fitness, We Have The Power To Change Our Lives'
+    *   Feeling The Winter Chill? 8 Healthy Ways To Warm Up
+    *   8 Famous Faces Who Have Been Touched By Lung Cancer13
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -173,11 +173,11 @@ November 10, 2012 Edition: **U.S.**
     *   OWN
 *   Style
     
-    *   Rihanna, Justin Bieber &. The Angels At Victoria's Secret Fashion Show84
-    *   LOOK: Adriana Lima Hits The Runway 8 Weeks After Giving Birth 174
-    *   PHOTOS: Wow... Wait Until You See The Dallas Mavericks Dancers' New Uniforms986
-    *   PHOTOS: Sasha Obama Wore Malia's Hand-Me-Down Skirt On Election Night181
-    *   PHOTOS: Kate Middleton Pulls Off Michelle Obama's Favorite Trend59
+    *   PHOTOS: Wow... Wait Until You See The Dallas Mavericks Dancers' New Uniforms2k
+    *   LOOK: Adriana Lima Hits The Runway 8 Weeks After Giving Birth 196
+    *   PHOTOS: Kim Kardashian Tries A Plunging Velvet Jumpsuit330
+    *   PHOTOS: See This Week's Near Wardrobe Malfunctions! 15
+    *   PHOTOS: A Look Back At Justin Bieber &. Selena Gomez's Couple Style28
     
     Go to Style **More in Style**
     
@@ -195,11 +195,11 @@ November 10, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   'There Was An Avalanche On Bullsh\*t Mountain' 2k
-    *   Uh Oh, Drunk Nate Silver Has Gone Mad With Power172
-    *   21 People Who Probably Didn't Get The Job28
-    *   Stewart Mocks FOX News Marijuana Coverage: 'Find The Narc!"431
-    *   Lewis Black: The Election Was Over The First Time Mitt Romney Spoke352
+    *   WATCH: Maher Issues Stern Warning To White People4k
+    *   Uh Oh, Drunk Nate Silver Has Gone Mad With Power237
+    *   'There Was An Avalanche On Bullsh\*t Mountain' 3k
+    *   21 People Who Probably Didn't Get The Job34
+    *   Lewis Black: The Election Was Over The First Time Mitt Romney Spoke673
     
     Go to Comedy **More in Comedy**
     
@@ -218,9 +218,9 @@ November 10, 2012 Edition: **U.S.**
 *   LIVE
     *   Next Close To The Edge
     *   Next Obamacare Layoffs
-    *   Later Fixing Service Academies
-    *   Later Cubans Smoke Romney
-    *   Later Vet HuntersGo to HuffPost Live
+    *   Tomorrow Fixing Service Academies
+    *   Tomorrow A Less Bigoted Union?
+    *   Tomorrow No Military AbortionsGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
