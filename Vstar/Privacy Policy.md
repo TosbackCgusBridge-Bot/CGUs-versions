@@ -631,25 +631,25 @@ Most Popular
 *   Commented
 *   Emailed
 
+*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 82 comments
 *   18-year-old accused of setting family's basset hound on fire near Camarillo Updated 11/9/2012 at 11:01 p.m.
-*   Obama's support dropped from '08 in east county cities Published 11/8/2012 at 4:49 p.m. 82 comments
-*   CLU economists expect local income disparity to grow Published 11/9/2012 at 12:01 a.m. 45 comments
-*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 435 comments
-*   Erbe: GOP, take a hint and move to the middle Published 11/8/2012 at 3:42 p.m. 34 comments
+*   Officers used surprise to apprehend Fillmore student accused of carrying gun to school Published 11/9/2012 at 8:23 p.m.
+*   Ventura High educator is named state Teacher of the Year Published 11/9/2012 at 8:30 p.m. 13 comments
+*   Latest vote count tightens races for Oxnard council and harbor district Published 11/9/2012 at 5:25 p.m. 14 comments
 
-Photo Galleries Election night 2012 One restaurant, two cuisines in Ojai Ventura County's Most Wanted November…
+Photo Galleries One restaurant, two cuisines in Ojai Bradbury forever Camarillo vs. Harvard-Westlake
 
-*   Obama: 'We have picked ourselves up,' fought back Updated 11/7/2012 at 12:41 a.m. 435 comments
-*   Educators relieved with passage of Proposition 30 Updated 11/7/2012 at 5:08 p.m. 121 comments
-*   Morning chat Updated // at : 102 comments
-*   Brownley wins 26th Congressional District race over Strickland Updated 11/7/2012 at 12:52 p.m. 113 comments
-*   Obama's support dropped from '08 in east county cities Updated // at : 82 comments
+*   Morning chat Published 11/9/2012 at 12:00 a.m. 197 comments
+*   Obama: 'We have picked ourselves up,' fought back Published 11/6/2012 at 10:08 a.m. 440 comments
+*   Obama's support dropped from '08 in east county cities Published 11/8/2012 at 4:49 p.m. 96 comments
+*   Educators relieved with passage of Proposition 30 Published 11/7/2012 at 3:39 p.m. 122 comments
+*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 82 comments
 
-*   Shirley: Medical device tax will impact jobs and costs Updated // at : 0 comments
-*   Authorities warn of "knock knock" burglaries in east Ventura County Updated 11/8/2012 at 2:04 p.m. 0 comments
-*   18-year-old accused of setting family's basset hound on fire near Camarillo Updated 11/9/2012 at 11:01 p.m. 0 comments
-*   Oxnard school principal arrested after alleged road rage incident Updated // at : 0 comments
-*   Wal-Mart's new strategies allow access into Ventura County cities Updated // at : 67 comments
+*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
+*   Authorities warn of "knock knock" burglaries in east Ventura County Published 11/8/2012 at 12:11 p.m. 0 comments
+*   18-year-old accused of setting family's basset hound on fire near Camarillo Published 11/9/2012 at 10:13 a.m. 0 comments
+*   Oxnard school principal arrested after alleged road rage incident Published 11/2/2012 at 5:47 p.m. 0 comments
+*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 75 comments
 
 Weather
 
@@ -657,23 +657,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 39° Fair Wind: Calm Today 63° 41° Sat 05:00 PM Partly Cloudy Temp: 49° Sun 05:00 AM Clear Temp: 43° Sun 05:00 PM Clear Temp: 51°
+Currently 38° Fair Wind: NW 4mph Today 65° 44° Sun 05:00 PM Clear Temp: 55° Mon 05:00 AM Clear Temp: 44° Mon 05:00 PM Mostly Clear Temp: 61°
 
-Feels Like: 49°
+Feels Like: 55°
 
-Humidity: 83%
-
-Precip: 6%
-
-Feels Like: 36°
-
-Humidity: 76%
+Humidity: 43%
 
 Precip: 0%
 
-Feels Like: 51°
+Feels Like: 39°
 
-Humidity: 66%
+Humidity: 71%
+
+Precip: 0%
+
+Feels Like: 61°
+
+Humidity: 58%
 
 Precip: 0%
 
@@ -706,8 +706,8 @@ Follow @vcstar 95 percent accurate\*
 
 Brian Dennert here
 
-*   Word choice
-*   Election results
+*   The Kite Runner is not getting banned
+*   Community College Board results: Ash Givargis and Bernardo Perez
 
 Ingemusings
 
@@ -721,18 +721,10 @@ More bloggers Wire
 
 Calendar
 
-*   Saturday Nov 10
 *   Sunday Nov 11
 *   Monday Nov 12
+*   Tuesday Nov 13
 *   More BROWSE Icon
-
-*   Purrs n' Paws Holiday Boutique Balboa Middle School Cafeteria, 247 S. Hill Road, Ventura 8 a.m.
-*   Birding Field trip Ventura Wildlife Ponds 8 a.m.
-*   At the Helm: Women in Biz 2012 ROC Santa Monica, 604 Arizona Ave, Santa Monica, CA 90401 9 a.m.
-*   CI to host CSSA Plenary Meeting CSUCI California State University 9 a.m.
-*   Camera Fundamentals- Photo Workshop Studio 5 9 a.m.
-
-More Events »
 
 *   Veterans Day Ceremony El Presidio de Santa Bárbara State Historic Park, 123 East Canon Perdido Street, Santa Barbara 10:30 a.m.
 *   Veterans Day Ceremony El Presidio de Santa Bárbara State Historic Park, 123 East Canon Perdido Street, Santa Barbara 10:30 a.m.
@@ -747,6 +739,14 @@ More Events »
 *   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
 *   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
 *   Children's Art Classes SCIART Gallery 3:30 p.m.
+
+More Events »
+
+*   You’re Not the Boss of Me! Effective Management of Employees Courtyard by Marriott - Oxnard 7:30 a.m.
+*   CI Announces IGER Advanced Export Workshop on Trade Finance and Insurance CSUCI California State University 9 a.m.
+*   Opera on the GO! Santa Barbara Public Library - Central Library 5:30 p.m.
+*   FREE First-Time Home Buyers Workshop Simi Valley Library 7 p.m.
+*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
 
 More Events »
 
