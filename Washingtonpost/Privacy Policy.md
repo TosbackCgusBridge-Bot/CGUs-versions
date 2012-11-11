@@ -32,7 +32,7 @@
     *   **Do Democrats owe their Senate majority...**  
         She The People | Krissah Thompson
     
-    *   **Democrat Jay Inslee wins Washington...**  
+    *   **Rep. Allen West is apparently defeated**  
         The Fix | Aaron Blake
 *   Opinions In Opinions
     
@@ -49,13 +49,13 @@
     *   **Petraeus solution: End sex**  
         ComPost | Alexandra Petri
     
-    *   **Happy Hour Roundup**  
+    *   **Open Thread**  
         The Plum Line | Greg Sargent
     
     *   **Petraeus’s bumpy ride**  
         PostPartisan | David Ignatius
     
-    *   **Friday question**  
+    *   **Morning Bits**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,14 +72,14 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Beautiful Saturday...**  
-        Capital Weather Gang | Ian Livingston
+    *   **D.C. area forecast: Veterans Day...**  
+        Capital Weather Gang | Kathryn Prociv\* and Dan Stillman
     
     *   **National Gallery of Art ice rink...**  
         Going Out Gurus | Alex Baldinger
     
-    *   **3 convicted of stealing, reselling...**  
-        Crime Scene | Keith L. Alexander
+    *   **Fugitive arrested after taunting...**  
+        Crime Scene | Del Quentin Wilber
     
     *   **D.C. youth trust hires new director**  
         D.C. Wire | Tim Craig
@@ -97,8 +97,8 @@
     
     Blogs &. Columns
     
-    *   **Jay Beagle on trying to keep a...**  
-        Capitals Insider | Eric Detweiler
+    *   **NHL lockout: Negotiations sour...**  
+        Capitals Insider | Katie Carrera
     
     *   **Maryland offers ACC tournament...**  
         DC Sports Bog | Dan Steinberg
@@ -106,7 +106,7 @@
     *   **Redskins work out defensive backs...**  
         The Insider | Mike Jones
     
-    *   **On one-year anniversary of kidnapping...**  
+    *   **Davey Johnson, Nationals officially...**  
         Nationals Journal | James Wagner
 *   National In National
     
@@ -145,17 +145,17 @@
     
     Blogs &. Columns
     
-    *   **Why Obamas trip to Burma is such...**  
+    *   **Yet more security concerns emerge...**  
         WorldViews | Max Fisher
     
-    *   **Did Petraeus have to resign?**  
+    *   **Petraeus resignation: Who is Paula...**  
         WorldViews | Olga Khazan
     
-    *   **The Iraq success story that propelled...**  
+    *   **Why David Petraeus’s Gmail account...**  
         WorldViews | Max Fisher
     
-    *   **How marijuana legalization will...**  
-        WorldViews | Olga Khazan
+    *   **Why Obama’s trip to Burma is such...**  
+        WorldViews | Max Fisher
 *   Business In Business
     
     *   Economy
@@ -170,16 +170,16 @@
     
     Blogs &. Columns
     
-    *   **Costly votes**  
+    *   **Avoiding the oncoming ‘caregiver...**  
         The Color of Money | Michelle Singletary
     
     *   **Priceline agrees to acquire Kayak...**  
         Post Tech | Hayley Tsukayama
     
-    *   **Pearlstein: A hot new model in...**  
+    *   **How business can bounce back from...**  
         Steven Pearlstein
     
-    *   **Reconciliation**  
+    *   **What happens when you get your...**  
         Wonkblog | Sarah Kliff
 *   Tech In Technology
     
@@ -266,11 +266,10 @@
 
 In the News
 
-*   David Petraeus
+*   Veterans Day
 *   Paula Broadwell
-*   Legal pot quandary
-*   Terps
-*   ‘Lincoln’
+*   Burma earthquake
+*   Alabama football
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -321,90 +320,78 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-David Petraeus resigns as CIA director
+FBI probe of Petraeus triggered by e-mail threats from biographer, officials say
 
-Greg Miller 
+Sari Horwitz 
 
-After Obama reelection, Murray Energy CEO reads prayer, announces layoffs
+With Paula Broadwell, Gen. David Petraeus let his guard down
 
-Steven Mufson 
+Joby Warrick 
 
-The party that doomed its nominee
+Karl Rove and his super PAC vow to press on
 
-Kathleen Parker 
+Karen Tumulty 
 
-The GOP’s blame game
+Why David Petraeus's Gmail account is a national security issue Supreme Court to review key section of Voting Rights Act
 
-Dana Milbank 
+Robert Barnes 
+
+Yet more security concerns emerge about Paula Broadwell's access to Petraeus Petraeus resignation: Who is Paula Broadwell? The creepiest sight in China? Tiananmen anti-self-immolator firefighters Mitt Romney losing (Facebook) friends by the minute Obama and the press: an inauspicious start
+
+Al Kamen 
 
 A reformed Republican party
 
 George F. Will 
 
-President Obama and the white vote? No problem. Democrat Jay Inslee wins Washington governors race Obama calls for immediate freeze on middle-class tax rates
+Gen. Petraeus’s affair tarnishes seemingly idyllic marriage
 
-Zachary A. Goldfarb 
+Ian Shapira 
 
-Would a tax hike on the wealthy kill 700,000 jobs?
+The party that doomed its nominee
 
-Glenn Kessler 
+Kathleen Parker 
 
-The storied career of David H. Petraeus
+The GOP has lost its way. Here’s how it can return to its roots.
 
-Rajiv Chandrasekaran 
+Craig Shirley 
 
-Obama calls for wealthy to pay more in taxes, says nation supports his position
+Ducking Google in search engines
+
+Michael Rosenwald 
+
+East Coast Rapist suspect acknowledges attacks in several states
+
+Josh White 
+
+GOP firebrand Allen West refuses to concede. Fla. vote count is beyond recount margin Florida called for Obama Indianapolis blast and fire devastates residential neighborhood, 1 dead. like a ‘war zone’
 
 Associated Press 
 
-Shorthand Mitt Romney losing (Facebook) friends by the minute The way forward
+How business can bounce back from its 2012 election debacle
 
-Charles Krauthammer 
-
-Legalized marijuana initiatives leave federal government wrestling with policy
-
-Sari Horwitz 
-
-A former spy on life in the CIA: It’s like Bond, with more boredom
-
-Robert Baer 
-
-Life after defeat for Mitt Romney: Public praise, private questions
-
-Philip Rucker 
-
-Gun control at center of Tucson shooting case
-
-Editorial Board 
-
-David Petraeus resigns after a bumpy ride
-
-David Ignatius 
-
-Supreme Court to review key section of Voting Rights Act
-
-Robert Barnes 
+Steven Pearlstein 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  David Petraeus resigns as CIA director
-    2.  After Obama reelection, Murray Energy CEO reads prayer, announces layoffs
-    3.  The party that doomed its nominee
-    4.  The GOP's blame game
-    5.  A reformed Republican party
+    1.  FBI probe of Petraeus triggered by e-mail threats from biographer, officials say
+    2.  With Paula Broadwell, Gen. David Petraeus let his guard down
+    3.  Karl Rove and his super PAC vow to press on
+    4.  Why David Petraeus's Gmail account is a national security issue
+    5.  Supreme Court to review key section of Voting Rights Act
 *   Top Videos
-    1.  CIA Director David Petraeus resigns, citing extramarital affair
-    2.  The story behind the Romney loss: Drama, regrets and mistakes
-    3.  Obama on fiscal cliff: 'Our job now is to get a majority in Congress to reflect the will of the American people'
-    4.  President Obama's full victory speech
+    1.  Official: Harassing Emails Led to FBI Probe
+    2.  CIA Director David Petraeus resigns, citing extramarital affair
+    3.  President Obama's full victory speech
+    4.  The story behind the Romney loss: Drama, regrets and mistakes
     5.  The GOP's not-so-happy hour
 *   Top Galleries
-    1.  Election 2016: Chris Cillizza's 13 front-runners
-    2.  Gen. David Petraeus
-    3.  A guide to holiday movies
+    1.  Gen. David Petraeus
+    2.  A guide to holiday movies
+    3.  China's first ladies
     4.  Elizabeth Warren: 2012 Election brings her back to Washington
-    5.  The Afghan army's four-legged transition
+    5.  James Bond's "Skyfall" fashion
 
 Today's Paper
 
