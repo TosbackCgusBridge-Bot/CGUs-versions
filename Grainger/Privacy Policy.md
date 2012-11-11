@@ -224,4 +224,4 @@ Email Sign Up
 
 *   **Connect With Us**
 
-Home  |   Terms of Access  |  Terms of Sale  |  Return Policy  |  Privacy Policy   (Rev. December, 2011)  |  Sitemap © 1994 - 2012 W.W. Grainger, Inc. All rights reserved. false false 0 false -1313
+Home  |   Terms of Access  |  Terms of Sale  |  Return Policy  |  Privacy Policy   (Rev. December, 2011)  |  Sitemap © 1994 - 2012 W.W. Grainger, Inc. All rights reserved. false false 0 false -8462
