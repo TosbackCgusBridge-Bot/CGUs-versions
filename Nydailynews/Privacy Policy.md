@@ -1,4 +1,4 @@
-*   Saturday, November 10, 2012
+*   Sunday, November 11, 2012
 *   NYDailyNews.com / Privacy Policy
 
 *   Jobs
