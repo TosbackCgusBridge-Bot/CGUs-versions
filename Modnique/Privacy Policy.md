@@ -44,10 +44,10 @@ Loading Modnique - Boutique Events
 
 *   Events
     *   _Very time-limited shopping experiences that allow us to offer the greatest savings. Don't wait, they only last 2-4 days before they're gone!_
-    *   *   apparel Week in Rewind Bamboos women's apparel Girls Night Out: Dresses &. Jewelry Tough Luv Women's Apparel Made In U... RED Valentino Featuring Shoes &. App... La fille au couturier women's appar... Ferrari Men's Apparel &. Accessories Kamali Kulture Women's Dresses Emporio Armani Intimates French Twist: Un Coeur En Ete Women... Nuvula Women's Apparel Access Pass Australia: Summer Dress... Rock Revolution Sweaters Dex Women's Apparel _more..._
-        *   Jewelry &. Watches Week in Rewind Pearls. Pearls. Pearls. Girls Night Out: Dresses &. Jewelry Lauren G. Adams Jewelry The dress watch: for him &. her Touch of Color: gemstone jewelry Holiday gifts: Silver jewelry under... Holiday gifts: Affordable jewelry Watches we love: Charriol, Graham, ... Krementz - American Jewelry Traditi... Foreli Jewelry Made In USA Holiday gifts: Designer jewelry Sparkle &. Shine: Our Favorite Diamo... Pearl jewelry deals from $5 Luca Carati &. Zydo luxury jewelry Italian Watches: 3H Italia, Gai Mat... One &. Only: Luxury jewelry for her Get the look: Men's &. Women's leath... Ladies Earrings Designed In 925 Ste... _more..._
-        *   Handbags &. Accessories MariAngel Handbags Made in Italy Tom Ford Sunglasses Made In Italy Charles Jordan &. Just Cavalli Handb... Ferrari Men's Apparel &. Accessories Italian designer handbags: Gucci, F... Holiday gifts: Designer jewelry Kenneth Cole Men's Accessories Vivienne Westwood Accessories Ore10 Genuine Leather Handbags Made... Emilio Pucci sunglasses _more..._
-        *   shoes Week in Rewind Badgley Mischka shoes StyleMax Women's Shoes Pirelli Pzero Shoes _more..._ beauty Men's Fragrances: Gucci, Versace, H... Women's Fragrances: Versace, Lanvin... Lather, Rinse, Repeat: Hot Hair Ess... French Beauty featuring YSL _more..._ men Week in Rewind Men's Fragrances: Gucci, Versace, H... The dress watch: for him &. her Tom Ford Sunglasses Made In Italy Ferrari Men's Apparel &. Accessories Watches we love: Charriol, Graham, ... _more..._
+    *   *   apparel Winter essentials blowout Ed Hardy Womens apparel Made in USA La Class Women's Apparel High street Women's Apparel Girls Night Out: Dresses &. Jewelry Bamboos women's apparel Ferrari Men's Apparel &. Accessories Week in Rewind Tough Luv Women's Apparel Made In U... RED Valentino Featuring Shoes &. App... La fille au couturier women's appar... Kamali Kulture Women's Dresses Emporio Armani Intimates French Twist: Un Coeur En Ete Women... Nuvula Women's Apparel Access Pass Australia: Summer Dress... Rock Revolution Sweaters Dex Women's Apparel _more..._
+        *   Jewelry &. Watches For Holiday season: Precious stone ... Pearls. Pearls. Pearls. Touch of Color: gemstone jewelry Seiko, Citizen watches Signity jewelry Girls Night Out: Dresses &. Jewelry Lauren G. Adams Jewelry Week in Rewind The dress watch: for him &. her Holiday gifts: Silver jewelry under... Holiday gifts: Affordable jewelry Watches we love: Charriol, Graham, ... Krementz - American Jewelry Traditi... Foreli Jewelry Made In USA Holiday gifts: Designer jewelry Sparkle &. Shine: Our Favorite Diamo... Pearl jewelry deals from $5 Luca Carati &. Zydo luxury jewelry Italian Watches: 3H Italia, Gai Mat... One &. Only: Luxury jewelry for her _more..._
+        *   Handbags &. Accessories Boma jewelry Vianova Handbags Gena Accessories Designer handbags sale Animal Hats MariAngel Handbags Made in Italy Ferrari Men's Apparel &. Accessories Tom Ford Sunglasses Made In Italy Charles Jordan &. Just Cavalli Handb... Italian designer handbags: Gucci, F... Holiday gifts: Designer jewelry Kenneth Cole Men's Accessories Vivienne Westwood Accessories Ore10 Genuine Leather Handbags Made... Emilio Pucci sunglasses _more..._
+        *   shoes Jen + Kim Women's shoes Badgley Mischka shoes Week in Rewind StyleMax Women's Shoes _more..._ beauty Women's Fragrances: Versace, Lanvin... Men's Fragrances: Gucci, Versace, H... Lather, Rinse, Repeat: Hot Hair Ess... French Beauty featuring YSL _more..._ men Seiko, Citizen watches Animal Hats Men's Fragrances: Gucci, Versace, H... Ferrari Men's Apparel &. Accessories Week in Rewind The dress watch: for him &. her _more..._
 *   Shops
     *   _These shops won't last forever, but they will stick around for awhile. We specially curate our shops and continually update the merchandise to give you the best of what's available._
     *   _THE HOLIDAY STYLE SHOP_ Shop the perfect festive pieces - just in time for soiree season! _GIFTS FOR HER_ Find that perfect something for every woman on your list _GIFTS FOR HIM_ Find that perfect gift for every man on your list. _THE JEWELRY BOX_ Lust-worthy jewelry that will instantly transform your look! _PRELOVED DESIGNER JEWELRY &. WATCHES_ Timeless classics that transform any look from ordinary to extraordinary _PRELOVED DESIGNER HANDBAGS_ Celebrate The Holidays With A Designer Bag For You Or Someone You Love _THE WINTER ESSENTIALS FOR HER_ Packed with statement coats, cozy sweaters, chic boots, and more. _THE WINTER ESSENTIALS FOR HIM_ Seize the season with winter essentials for him. _THE COLOR SHOP: GREY, BLACK, RED_ You shopped, we listened! Paint your wardrobe with Modniques favorite color palette.
@@ -56,44 +56,46 @@ Loading Modnique - Boutique Events
 *   all events
     *   women
     *   Badgley Mischka shoes
-    *   Bamboos women's apparel
-    *   Charles Jordan &. Just Cavalli Handbags
+    *   Boma jewelry
+    *   Designer handbags sale
+    *   Ed Hardy Womens apparel Made in USA
+    *   For Holiday season: Precious stone jewelry blowout
+    *   Gena Accessories
     *   Girls Night Out: Dresses &. Jewelry
-    *   Holiday gifts: Affordable jewelry
-    *   Holiday gifts: Silver jewelry under $39
-    *   Italian designer handbags: Gucci, Fendi, Prada and more
-    *   La fille au couturier women's apparel
+    *   High street Women's Apparel
+    *   Jen + Kim Women's shoes
+    *   La Class Women's Apparel
+    *   Lauren G. Adams Jewelry
     *   MariAngel Handbags Made in Italy
     *   Pearls. Pearls. Pearls.
-    *   RED Valentino Featuring Shoes &. Apparel
+    *   Signity jewelry
     *   Touch of Color: gemstone jewelry
-    *   Tough Luv Women's Apparel Made In USA
+    *   Vianova Handbags
+    *   Winter essentials blowout
     *   Women's Fragrances: Versace, Lanvin, Bvlgari and more
     *   _more..._
-    *   men
-    *   Ferrari Men's Apparel &. Accessories
-    *   Men's Fragrances: Gucci, Versace, Hugo Boss and more
-    *   _more..._
     *   other
-    *   Lauren G. Adams Jewelry
-    *   The dress watch: for him &. her
-    *   Tom Ford Sunglasses Made In Italy
-    *   Week in Rewind
+    *   Animal Hats
+    *   Seiko, Citizen watches
     *   _more..._
 *   apparel
     *   women
     *   Access Pass Australia: Summer Dresses Sale
     *   Bamboos women's apparel
     *   Dex Women's Apparel
+    *   Ed Hardy Womens apparel Made in USA
     *   Emporio Armani Intimates
     *   French Twist: Un Coeur En Ete Women's Apparel
     *   Girls Night Out: Dresses &. Jewelry
+    *   High street Women's Apparel
     *   Kamali Kulture Women's Dresses
+    *   La Class Women's Apparel
     *   La fille au couturier women's apparel
     *   Nuvula Women's Apparel
     *   RED Valentino Featuring Shoes &. Apparel
     *   Rock Revolution Sweaters
     *   Tough Luv Women's Apparel Made In USA
+    *   Winter essentials blowout
     *   _more..._
     *   men
     *   Ferrari Men's Apparel &. Accessories
@@ -103,35 +105,40 @@ Loading Modnique - Boutique Events
     *   _more..._
 *   Jewelry &. Watches
     *   women
+    *   For Holiday season: Precious stone jewelry blowout
     *   Foreli Jewelry Made In USA
     *   Girls Night Out: Dresses &. Jewelry
     *   Holiday gifts: Affordable jewelry
     *   Holiday gifts: Designer jewelry
     *   Holiday gifts: Silver jewelry under $39
     *   Krementz - American Jewelry Tradition Since 1866
-    *   Ladies Earrings Designed In 925 Sterling Silver
+    *   Lauren G. Adams Jewelry
     *   Luca Carati &. Zydo luxury jewelry
     *   One &. Only: Luxury jewelry for her
     *   Pearl jewelry deals from $5
     *   Pearls. Pearls. Pearls.
+    *   Signity jewelry
     *   Sparkle &. Shine: Our Favorite Diamond Styles
     *   Touch of Color: gemstone jewelry
     *   _more..._
     *   other
-    *   Get the look: Men's &. Women's leather strap watches
     *   Italian Watches: 3H Italia, Gai Mattiolo, Officina del Tempo
-    *   Lauren G. Adams Jewelry
+    *   Seiko, Citizen watches
     *   The dress watch: for him &. her
     *   Watches we love: Charriol, Graham, Movado
     *   Week in Rewind
     *   _more..._
 *   Handbags &. Accessories
     *   women
+    *   Boma jewelry
     *   Charles Jordan &. Just Cavalli Handbags
+    *   Designer handbags sale
+    *   Gena Accessories
     *   Holiday gifts: Designer jewelry
     *   Italian designer handbags: Gucci, Fendi, Prada and more
     *   MariAngel Handbags Made in Italy
     *   Ore10 Genuine Leather Handbags Made in Italy
+    *   Vianova Handbags
     *   Vivienne Westwood Accessories
     *   _more..._
     *   men
@@ -139,12 +146,14 @@ Loading Modnique - Boutique Events
     *   Kenneth Cole Men's Accessories
     *   _more..._
     *   other
+    *   Animal Hats
     *   Emilio Pucci sunglasses
     *   Tom Ford Sunglasses Made In Italy
     *   _more..._
 *   shoes
     *   women
     *   Badgley Mischka shoes
+    *   Jen + Kim Women's shoes
     *   Pirelli Pzero Shoes
     *   StyleMax Women's Shoes
     *   _more..._
@@ -163,6 +172,7 @@ Loading Modnique - Boutique Events
     *   Lather, Rinse, Repeat: Hot Hair Essentials
     *   _more..._
 *   men
+    *   Animal Hats
     *   Emilio Pucci sunglasses
     *   Ferrari Men's Apparel &. Accessories
     *   French Beauty featuring YSL
@@ -170,6 +180,7 @@ Loading Modnique - Boutique Events
     *   Italian Watches: 3H Italia, Gai Mattiolo, Officina del Tempo
     *   Kenneth Cole Men's Accessories
     *   Men's Fragrances: Gucci, Versace, Hugo Boss and more
+    *   Seiko, Citizen watches
     *   The dress watch: for him &. her
     *   Tom Ford Sunglasses Made In Italy
     *   Watches we love: Charriol, Graham, Movado
