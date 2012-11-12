@@ -1,18 +1,18 @@
 Skip Navigation
 
-*   The Evolution of Urban Planning in 10 Diagrams
-*   Bond to Swift: The Week's Best Pop-Culture Writing
 *   In China, You Can't Say 'I Voted!' in Chinese
-*   The Past, Present, and Future of Note-Taking
+*   The Growing Costs of Natural Disasters
+*   007 to Taylor Swift: The Week's Best Pop-Culture Writing
+*   The GOP's Demographics Problem in 2 Graphs
 
 *   Politics
     *   Top Stories
-    *   Why the GOP Will Struggle to Close the Big-Data Gap
-    *   The Unsatisfying Election Aftermath
+    *   ORCA: What the GOP Should Have Learned from 2008
+    *   Why Women Rule New Hampshire
     *   Election 2012: Results and Analysis
-    *   How Business Expertise Translates Into Politics
-    *   'It Was Like A Sucker Punch'
-    *   2 Graphs That Should Accompany Every Discussion of the GOP's Demographics Problem
+    *   What It Implies If an Extramarital Affair Threatens National Security
+    *   Fake History in the Making: Karen Hughes' Bad Advice for the GOP
+    *   Obama Did Better In States Where Lots of People Search for 'Top Chef'
 *   Business
     *   Top Stories
     *   Will Obama Let Washington and Colorado Keep Their Legal Pot?
@@ -26,39 +26,39 @@ Skip Navigation
     *   What It's Like to Vote for President ... From Space
     *   Did Facebook Give Democrats the Upper Hand?
     *   Data Doesn't Belong to the Democrats
+    *   'Scapple': Very Interesting New Software From the Creator of Scrivener
     *   How Much Would You Pay to Never See an Online Ad Again?
     *   David Petraeus Was Brought Down by ... Gmail
-    *   The Wright Brothers' Famous 1903 Flying Machine Patent Is Missing
 *   National
     *   Top Stories
     *   A Perfect New Mission for Eric Holder? Voting Rights
     *   NYC Restaurants Beat Sandy
     *   Defending the Constitution, Term 2
-    *   Media Wrapup: Moyers, Petraeus, Kaplan, Juneau
+    *   The Growing Costs of Natural Disasters
+    *   Media Wrap-Up: Moyers, Petraeus, Kaplan, Juneau
     *   A Veterans Day Like None Other Before
-    *   Charter Schools, the Cliffhanger Issue of the 2012 Election
 *   Global
     *   Top Stories
     *   What's the Conservative Equivalent of 'Moving to Canada'?
     *   America Abroad in Obama's Second Term: Who Will Lead U.S. Diplomacy?
     *   How to Stop Reactionaries From Derailing Reform in China
+    *   The Rockets of Gaza
+    *   When Leaders Die in Battle: What It Means for the Soldiers Who Live On
     *   Why You Can't Say 'I Voted!' in Chinese—at Least in China
-    *   Electoral Map: What If China Became a Multiparty Democracy Tomorrow?
-    *   The Death of Leonid Brezhnev and the Long Battle for Russia's Future
 *   Health
     *   Top Stories
-    *   It's Not Too Early to Talk About Freezing Your Eggs
+    *   Health Professionals in Detainee Interrogation
+    *   Talk About Freezing Your Eggs
     *   Flowers on the Psych Ward
-    *   Earlobe Creases as a Sign of Heart Disease
+    *   Study: Farm Stank Is Bad for Your Health
     *   Bringing Back Meekness as a Virtue
     *   Study: Statins Appear to Improve Cancer Survival
-    *   Stop Saying 'Drink the Kool-Aid'
 *   Sexes
     *   Top Stories
     *   Women Are Not a Unified Voting Bloc
     *   What I Learned From Hiring a Love Coach
     *   Female Doctors on TV, Pop-Culture Cliche
-    *   Obama Did Better In States Where Lots of People Search for 'Top Chef'
+    *   Why Are So Many Single-Parent Families in Poverty?
     *   Obama Shows, Once Again, That Crying Is for Winners
     *   Why Demographics Can't Fully Predict How People Vote
 *   Entertainment
@@ -66,9 +66,9 @@ Skip Navigation
     *   The Barack Obama of Pro Football Is ...
     *   'Skyfall': James Bond Rises Again, Spectacularly
     *   A Storm in a Jar: Art Installations That Imitate Weather
+    *   'The Walking Dead': Only the Insane Have Strength Enough to Survive
     *   SNL's Anne Hathaway Episode: 5 Best Scenes
     *   Nickelback, Hipsters, and Fox News: The Week's Best Pop-Culture Writing
-    *   The Subtle Eloquence of 'Lincoln'
 *   Magazine
     *   In This Month's Issue
     *   Our 2012 Brave Thinkers List
@@ -88,7 +88,7 @@ Skip Navigation
 *   Video
 *   Photo
 *   Newsletters
-*   Media Wrapup: Moyers, Petraeus, Kaplan, JuneauJames Fallows
+*   Study: Farm Stank Is Bad for Your HealthLindsay Abrams
 
 Privacy Policy
 
@@ -196,13 +196,13 @@ Washington, DC 20037
 Special Report Alex Hoyt How the Map Changed as the Polls Came In  
 A state-by state guide. And it's never too late to check out _The Atlantic_'s obsessive all-night coverage of the whole election. Read more › Writers
 
-*   James Fallows Media Wrapup: Moyers, Petraeus, Kaplan, Juneau 5:45 AM ET
+*   Jeffrey Goldberg The Rockets of Gaza 7:05 AM ET
+*   James Fallows 'Scapple': Very Interesting New Software From the… Nov 11, 2012
 *   Ta-Nehisi Coates Uppers And The Horde Unite Like Voltron Nov 10, 2012
 *   Derek Thompson 2 Graphs That Should Accompany Every Discussion… Nov 9, 2012
 *   Robert Wright Food for Republican Thought From Nate Silver Nov 9, 2012
 *   Alexis C. Madrigal The Question I Didn't Get to Ask Pinterest CEO… Nov 8, 2012
 *   Clive Crook Obama's Victory After Cyclical Adjustment Nov 7, 2012
-*   Jeffrey Goldberg 'Now I'm Going to Offer You a Hamburger' Nov 7, 2012
 *   Garance Franke-Ruta The 3 Biggest Day-After Mea Culpas Nov 7, 2012
 *   Steve Clemons Ed Gillespie's Absurd Bluster Nov 6, 2012
 
@@ -241,69 +241,69 @@ Syria in Ruins
 
 2
 
-How Conservative Media Lost to the MSM and Failed the Rank and File
+Hurricane Sandy: After Landfall
 
 3
 
-Hurricane Sandy: After Landfall
+Where America's Racist Tweets Come From
 
 4
 
-Where America's Racist Tweets Come From
+How Conservative Media Lost to the MSM and Failed the Rank and File
 
 5
 
-Noam Chomsky on Where Artificial Intelligence Went Wrong
+Hurricane Sandy: The Aftermath
 
 6
 
-General Failure
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 7
 
-SNL's Anne Hathaway Episode: 5 Best Scenes
+Fake History in the Making: Karen Hughes' Bad Advice for the GOP
 
 8
 
-The Graded, Ranked, and Non-Negotiable Guide to Every 'Bond' Song
+'Scapple': Very Interesting New Software From the Creator of Scrivener
 
 9
 
-Hurricane Sandy: The Aftermath
+'The Walking Dead': Only the Insane Have Strength Enough to Survive
 
 10
 
-You're Not Moving to Canada: The Psychology of Post-Election Melodrama
+The Rockets of Gaza
 
 ATLANTIC MEDIA Atlantic Wire
 
-*   Allen West Will Not Go Quietly Into that Good Night
-*   Pair of Scandals Lead to BBC Director General's Resignation
-*   There's a Mystery Third Woman in the Petraeus Affair
+*   MSNBC Beats Fox News By Following Its Example
+*   BBC Scandal Claims Three More News Executives
+*   Evidently, the FBI Knew About the Petraeus Affair for Months
 
 **More from Atlantic Wire**
 
 Atlantic Cities
 
+*   Rebuilding After the Storm: The Best #CityReads of the Week
 *   Balloon Flight of the Day: Across the Atlantic
 *   Will Obama Fight Colorado and Washington's New Pot Laws?
-*   Saving Seattle's Neighborhood Authenticity Through Better Buildings
 
 **More from Atlantic Cities**
 
 Quartz
 
-*   In the global economy of 2060, China and India will be the biggest, but still not the richest
-*   How much would you pay to never see an online ad again?
-*   Thank goodness it’s Friday, the day no one will ever read about this story, ever
+*   2,780 reasons why coal isn’t finished quite yet
+*   China’s railway ministry will spend $32 billion by Christmas, even though demand for its services is muted
+*   Quartz Daily Brief – Americas Edition – Multinational tax tactics, James Bond, $20 tablet, fat tax
 
 **More from Quartz**
 
 National Journal
 
-*   Four Days Later, Obama Wins Florida
-*   Election Recap: A Party in Flux, a Changed Electorate, a Divided House, Senate
-*   Bono and Mack Fail in Election Bids
+*   Kristol Open to Raising Rates on Wealthiest Americans
+*   Meningitis Hearings Set for This Week
+*   Wiggins Launches Winn Strategies and Introducing Kountoupes | Denham
 
 **More from National Journal**
 
