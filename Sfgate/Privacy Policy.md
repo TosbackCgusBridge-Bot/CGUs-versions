@@ -1,6 +1,6 @@
 (skip this header)
 
-Sunday Nov 11, 2012 5:05 AM PT
+Monday Nov 12, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,12 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Fire at Gitane
-*   S.F.'s election shocker
-*   S.F. Veterans Day parade
-*   Bieber, Gomez split
-*   Hackers blackmail porn viewers
-*   Appreciating Belva
+*   Chopra: Quanta to Qualia
+*   'Skyfall' record
+*   Hartlaub's fantasy football apology
+*   Cowgirl Creamery talent
+*   Open, closed for Veterans Day
 
 *   Bay Area &. State
 *   Nation
@@ -340,6 +339,10 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Week 10: 49ers vs. Rams
+*   MTV EMAs 2012: Red carpet
+*   MTV EMAs 2012: Show moments
+*   The worst athlete-turned-musician songs of all time
 *   Oregon powers past Cal
 *   Warriors defeated in double overtime
 *   Texas A&M defeats No. 1 Alabama
@@ -352,6 +355,7 @@ Ads by Yahoo! Photo Galleries
 *   Prop. 30 OK doesn’t stop student protests
 *   Nation in Focus
 *   Javier Bardem gets Walk of Fame star
+*   Demi Moore turns 50
 *   Pakistani Transgenders
 *   Dior Homme party
 *   'Lincoln' premiere at AFI Fest 2012
@@ -374,12 +378,6 @@ Ads by Yahoo! Photo Galleries
 *   Sierra snow watch, Nov. 8
 *   Bay Area Billionaires
 *   Hakka
-*   Victoria's Secret Fashion Show 2012
-*   San Francisco Zoo
-*   Hellman mansion up for sale
-*   Victoria's Secret Fashion Show
-*   Quakes eliminated after 3-1 loss to Galaxy
-*   Warriors 106, Cavaliers 96
 
 *   Most Read
 *   |
@@ -387,56 +385,55 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Official: Emails from paramour led to FBI probe
-2.  Airline exec: 'Seatbelts don't matter'
-3.  Officials say 2 dead, 4 sick from wild mushrooms
-4.  Woman fired for Obama racial slur on Facebook
-5.  49ers' stadium being built the right way
-6.  Robert Pattinson on life after 'Twilight'
-7.  SF District 7 tally gives Yee slim lead
+1.  Congress wants answers on Petraeus affair
+2.  49ers, Rams tie. Alex Smith hurt
+3.  Foreign students flood U.S. universities
+4.  Alex Smith's concussion hurts 49ers
+5.  What happens next for Alex Smith
+6.  If NASCAR had a penalty box ...
+7.  2 Calif. deaths from mushrooms despite warnings
 
-1.  Admitting to affair, Petraeus resigns as CIA chief
-2.  Airline exec: 'Seatbelts don't matter'
-3.  Vatican digs in after gay marriage advances
-4.  Obama wins Fla., topping Romney in final tally
-5.  Woman fired for Obama racial slur on Facebook
-6.  Warriors arena means millions for S.F.
-7.  CIA director quits over extramarital affair
+1.  GOP's state losses hint at national fate
+2.  Congress wants answers from FBI, CIA on Petraeus
+3.  49ers, Rams tie. Alex Smith hurt
+4.  Vvaried rules for overweight air travelers
+5.  Next up for Jerry Brown - Prop. 13
+6.  Family violence reports in S.F. soaring
+7.  California Democratic leaders rile allies
 
-1.  Cowgirl Creamery's founders blend traits
-2.  Roasting apples for Thanksgiving
-3.  Strong quake strikes Myanmar, 12 feared dead
-4.  Tedford firing shouldn't be public debate
-5.  Windows 8 - best to pass it up: review
-6.  Afghanistan prepares to rebuild Buddha
-7.  5 places to sample Moroccan treats
+1.  Precious days with Buddy
+2.  Investors rushing into real estate deals
+3.  Mountain Lake invaders fished out
+4.  5 places to sample Moroccan treats
+5.  Family violence reports in S.F. soaring
+6.  Here's A Charming Story About Steve Jobs Being A Regular Guy (AAPL)
+7.  US colleges look to foreign students
 
 loading... Latest News Videos From our homepage
 
 *     
-    Ezra Shaw, Getty Images / SF
+    ISAF / AP
     
-    Hogan's the hero
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 7:20 p.m., Sunday, November 11, 2012 2nd woman in scandal ID'd
     
-    Stanford QB, in his first college start, throws for 3 TDs as Cardinal beat Oregon St. 27-23.
+    Liaison was apparent target of emails from Petraeus' biographer. questions on national security.
     
 
 *     
-    The Charlotte Observer, T. Ortega Gaines / AP
+    Brant Ward, The Chronicle / SF
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 9:26 p.m., Saturday, November 10, 2012 Petraeus love triangle?
+    49ers, Rams miss to be tied
     
-    Harassing emails uncovered affair.
+    Alex Smith knocked out, teams miss kicks in OT of wild tie. Photos
     
-*   Did husband write to 'Ethicist'?
-*   Broadwell a reservist, scholar
+*   49ers beaten to the punch
 
 *     
-    DANI POZO, AFP/Getty Images / 2012 AFP
+    Keith Srakocic, AP / SF
     
-    Seattle Post-Intelligencer Copyright 2012 Seattle Post-Intelligencer. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Published 10:51 p.m., Friday, November 9, 2012 'Seatbelts don't matter'
+    Worst songs by jocks ever
     
-    Airline exec says they are pointless on planes and he wants standing-room-only tickets.
+    There is nothing like seeing your sporting heroes singing really badly. Here are some all-timers.
     
 
 *   Home
