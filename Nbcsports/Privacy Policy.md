@@ -1,11 +1,11 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Sweeping child abuse scandal shakes UK institutions
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: BBC chief quits after 54 days, gets $715,000 payoff
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Bob Levey / Getty Images Texans-Bears all about offenses
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Charles Rex Arbogast / AP Texans take care of Bears
     
-    Bedard: When the Bears and Texans meet on Sunday Night Football in one of the top matchups so far this season — both teams are 7-1 — the defenses for each team will be spotlighted. But the better offense will likely determine the winner.
+    Houston (8-1) triumphs 13-6 in defensive struggle. Cutler suffers concussion.
     
-    PFT's picks: 7-1 Bears will topple 7-1 Texans PFT Live: Perfect Falcons face improving Saints PFT Live: Reigniting Carroll vs. Sanchez PFT Live: Time for Jerry Jones to hire a GM? PFT Live: Florio's Week 10 coaching hot seat 4-year-old son of Raiders assistant dies PFT: Eli's struggles may be due to 'tired arm' PFT: Tebow still considered most overrated Ad
+    PFT: Texans out-Bearsed the Bears Saints put an end to Falcons' unbeaten run 49ers, Rams play to a ... tie?   |  Bizarre game Seahawks fly past Jets   |  Sanchez still starter 'Boys KO Vick, Eagles   |  Start Reid countdown PFT: Bengals rout sloppy Giants  |  Eli says arm fine PFT: Vikings beat Lions, Peterson tops 1,000 PFT: Happy homecoming for Fox. Broncos cruise Ad
 *   MLB
     SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Scott Cunningham / Getty Images It's major decision time
     
@@ -13,59 +13,59 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     HBT: Dodgers have winning bid for Hyun-Jin HBT: Dodgers making strong pitch for Hunter HBT: Yanks 'not trading Alex Rodriguez' HBT: Rangers will only offer Hamilton 3-year deal HBT: Hall of Famer MacPhail dies at 95 HBT: Weiss better have good first year with Rockies Izturis agrees to $10M contract with Blue Jays HBT: Follow our free-agent tracker Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Chris Young / AP Avoid the noise — and find deal now
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Dave Sandford / Getty Images Contributor Sakic was no ordinary Joe
     
-    CSN's Haggerty: The most livable solution for the NHL owners and players is to exchange their best offers right now and allow for the season to begin Dec. 1. Otherwise, the deals get worse, and the animosity gets stronger.
+    PHT: Joe Sakic headlines an impressive class heading into the Hockey Hall of Fame on Monday night. Sakic might not have provided explosive quotes, but his staggering numbers and all-time-great wrist shot were memorable enough.
     
-    PHT: 'Still a lot of work to be done' NHL, NHLPA meet for small, informal lunch CSN: NHL, NHLPA still short of goal Canadiens' Geoffrion has skull-fracture surgery NHL.com: Quiet steadiness defined Sakic's career NHL.com: Injury-prone Bure displayed elite skills PHT: Canucks retiring Bure's number? Maybe not NHL.com: Sundin's start in Quebec was critical Ad
+    NHL.com: Quiet steadiness defined Sakic's career PHT: Yes, Bure was very, very good  |  Elite skills PHT: Sudin a machine for Leafs  |  Quebec start key PHT: Oates' top accomplishments  |  Master passer PHT: Talks end early, not going well PHT: Fehr doesn't see path to a deal CSN: Fehr becomes lightning rod for criticism CSN: Avoid the noise — and find deal now Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Frazer Harrison / Getty Images Jackson's if he wants it
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Rocky Widner / Getty Images Contributor Lakers hire D'Antoni, not Jackson
     
-    PBT: The Lakers and Phil Jackson sat down Saturday to discuss the team's head coaching vacancy, according to multiple reports. While no job offer was made, the understanding is that the job is his if he wants it.
+    PBT: After negotiations with Phil Jackson didn’t work out — there are suggestions he was asking for too much money and time off — L.A. wisely turns to Mike D'Antoni to be the team's next coach.
     
-    Bobcats snap 16-game losing streak vs. Mavs PBT: Scott won't leave Cavs for Lakers CSN: Rockets' McHale taking leave of absence Celtics even score, record against Bucks Winderman: Nets still trying to find identity Winderman: Rose need not rush back now SportsTalk: Is LeBron making Knicks better? PBT: Teams are adjusting, now it's Harden's turn Ad
+    Lakers easily take care of Kings Hot Grizzlies beat Heat   |  Thunder cruise past Cavs Nets sweep Magic in home-and-home series Griffin, Paul lead Clippers past Hawks CSN: Rockets' McHale taking leave of absence Rap-reality TV star sits in on Hawks broadcast Winderman: Rose need not rush back now SportsTalk: Is LeBron making Knicks better? Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Dave Martin / AP Johnny be stunningly good
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Ronald Martinez / Getty Images K-State new No. 1 in BCS
     
-    Alabama football had been invincible all season. And then Johnny Football came to town. Texas A&M freshman QB Johnny Manziel led the No. 15 Aggies to a 29-24 upset of defending national champ and No. 1 Alabama.
+    CFT: Thanks to Texas A&M's win over Alabama, there are now only three undefeated teams fighting for the two spots in the BCS championship game. Your new No. 1? Kansas State. And Oregon is no. 2.
     
-    CFT: Does SEC’s title streak fall along with Tide? CFT: Saban: 'Couldn't get the ... intensity we needed' No. 2 Oregon races past Cal CFT: 'Bama loss takes pressure off No. 3 K-State Notre Dame Central: No. 4 Irish handle BC CFT: Manziel breaks Heisman rules as freshman CFT: 'Cuse deals No. 11 Louisville first loss CFT: No. 5 Georgia claims SEC East crown Ad
+    K-State so close to first BCS title shot Heisman Hopefuls: Could a freshman win? CFT: Oregon ranked No. 1 by AP and coaches Oregon overcomes injuries to move to No. 1 PFT: Would Kelly ditch No. 1 Oregon for NFL? Bama's aura of invincibility gone after near-miss CFT: Saban: 'Couldn't get the ... intensity we needed' Notre Dame Central: Special section on Irish Ad
 *   NCAA HOOPS
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Michael Probst / AP Upset! Huskies shock Spartans
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Harry How / Getty Images Orange shoot down Aztecs
     
-    CBT: If there were any questions about Kevin Ollie as the UConn head coach, they are quickly getting answered. Ollie led the Huskies to a 66-62 victory Friday night over No. 14 Michigan State in Germany as part of the Armed Forces Classic.
+    C.J. Fair and Michael Carter-Williams each scored 16 points and No. 9 Syracuse blew past No. 20 San Diego State 62-49 on the flight deck of the decommissioned USS Midway on a sunny, windy Sunday afternoon.
     
-    'Cuse, SDSU practice in breeze for carrier game Bowers back as No. 15 Missouri triumphs No. 22 Notre Dame wins opener over Evansville CBT: No. 3 Kentucky survives Alex Len, Maryland CBT: Former walk-on saves No. 3 Kentucky's bacon CBT: Late-Night Snacks — recap of Friday's action Burning questions entering season CBT: Here's our preseason Top 25 Ad
+    CBT: Don't rush to judge SDSU after loss Moore: Shorter shot clock equal better hoops? No Manning wins first game as Tulsa coach No. 2 Louisville cruises past Manhattan Angry timeout talk ignites No. 4 Ohio St. No. 10 Florida routs Alabama St. by 49 Martin winner in first game at South Carolina CBT: Burning questions entering season Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Tyler Barrick / Getty Images Busch wins pole in Phoenix
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Christian Petersen / Getty Images Keselowski on brink of Cup title
     
-    Kyle Busch set a track record in winning the pole at Phoenix International Raceway, where Brad Keselowski got a jump on Jimmie Johnson in their tight championship race.
+    A chaotic race at Phoenix — with a crash-marred finish and a brawl in the garage — moved Brad Keselowski to the brink of a first Sprint Cup title for himself and team owner Roger Penske on Sunday.
     
-    AP Sources: Patrick won't run Indianapolis 500 Logano wins. Sadler hurts Nationwide chances Bourdais re-signs with Dragon Racing Go Daddy to air 2 Super Bowl spots with Patrick F1: Watch the language, guys Keselowski not feeling pressure headed to Phoenix In The Pits: Final finish saved sluggish race Henry suspended for substance abuse violation Ad
+    Notebook: Gordon, Bowyer tangle at Phoenix Patrick won't run Indianapolis 500 Go Daddy to air 2 Super Bowl spots with Patrick Brown first black NHRA champion Logano wins. Sadler hurts Nationwide chances Bourdais re-signs with Dragon Racing F1: Watch the language, guys Henry suspended for substance abuse violation Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Bob Levey / Getty Images United, Dynamo ready
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Bob Levey / Getty Images Dynamo strike first
     
-    PST: D.C. plays at Houston on Sunday to kick off the home-and-away, total goals Eastern Conference finals.
+    PST: Houston has a leg up on D.C. in the Eastern Conference finals following 3-1 victory Sunday.
     
-    PST: Which Galaxy will show up vs. Sounders? English roundup: Man U rallies for victory Sounders' Burch suspended, fined United's Najar suspended by MLS for 2 games PST: Sounders survive, face Galaxy Martinez's late goal lifts Sounders Red Bulls cut ties with coach Hans Backe PST: United tops Red Bulls to reach Eastern finals Ad
+    Highlights of Dynamo's victory Bruin propels Dynamo to win PST: Ranking four remaining MLS goalkeepers Roundup: Messi passes Pele's goals in one year Ronaldo forced out of game with head injury Terry hurt after scoring in Chelsea return Injured Rooney out of England squad vs. Sweden Man City fights back to beat Tottenham in EPL Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Beljan's crazy year adds another chapter
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Beljan completes amazing Disney win after panic attack
     
-    Charlie Beljan's health scare at Disney was just the latest bizarre chapter in a year that he describes as 'exciting, hectic, crazy, stressful.'
+    In a scene that looked like it was written for a Disney movie, Charlie Beljan played through major health concerns to nab his first Tour win.
     
-    Beljan paces himself to two-shot lead at Disney You Oughta Know: CMN Hospitals Classic Bubble watch at Disney Forbes lists Woods, Nike among most valuable sports brands D-III coach fired after profane rant against team Vote for your favorite LPGA player Video: Tiger, Rory joint interview on CNN Bjorn regains lead in Singapore as delays continue Bevacqua named PGA of America CEO Rory: Equipment news coming in a 'few weeks' Tip of the Week: Preparing properly for your round Ad
+    Beljan completes amazing fairy-tale win at Disney Bubble watch from Disney finale Rory wins Euro money title, youngest in 32 years What We Learned: Beljan wins Disney Faldo doesn't believe Woods will catch Nicklaus Quotes of the Week Forbes lists Woods, Nike among most valuable sports brands Vote for your favorite LPGA player Video: Tiger, Rory joint interview on CNN Tip of the Week: Preparing properly for your round Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Mike Groll / AP Lolo scores silver in bobsled debut
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Andy Clayton King / AP Franklin, Lochte coast to victory in Grand Prix
     
-    American track star turned bobsledder Lolo Jones kicked off her new career nicely on Friday, finishing second at her winter sports debut during an event in Lake Placid, N.Y.
+    Olympians Missy Franklin and Ryan Lochte each coasted to victory in their first major competition since the London Games, winning two events apiece on the final night of the short-course Minneapolis Grand Prix.
     
-    Franklin is double winner at Minneapolis swim meet Russia's Zubkov wins WC 4-man. Holcomb of US 2nd Hoefl-Riesch wins WCup slalom. Shiffrin of US 3rd Rushlaw, Lamy and Hollrock in US bobsled hall Tour champion released from hospital Korpi wins gold in Rostelecom Cup OlympicTalk: Lochte, Franklin return to pool Anna Meares to keep cycling to Rio 2016 Ad
+    Myhrer wins World Cup slalom Chan, Korpi win gold at Rostelecom Cup OlympicTalk: Lolo scores silver in bobsled debut Windsurfing stays in Olympics over kiteboarding Myhrer wins World Cup slalom premier in Finland Franklin is double winner at Minneapolis swim meet Russia's Zubkov wins WC 4-man. Holcomb of US 2nd Hoefl-Riesch wins WCup slalom. Shiffrin of US 3rd Ad
 *   More
-    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Morris Mac Matzen / Reuters Wladimir Klitschko wins again
+    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Glyn Kirk / AFP - Getty Images Djokovic, Federer reach ATP final
     
-    Wladimir Klitschko retained his WBA, IBF and WBO heavyweight titles, unanimously outpointing Poland's Mariusz Wach in Germany on Saturday night.
+    As usual, Roger Federer is looking to add to one of his many records. And as many expected, Novak Djokovic will be trying to stop him. The top two players in the world advanced to the championship match at the ATP finals on Sunday, each looking beatable early before turning things around.
     
-    Del Potro beats Federer to reach semis in London Mares beats Moreno, defends 122-pound title Tour champ Wiggins released from hospital Dan Patrick: Utah girl a star in youth football Newton TD celebration gets prep star ejected Big names in sports thrown for losses by voters The lineup for sports on election night Castrodale: Some pleas for the president Ad
+    North Carolina QB sets prep mark in 104-80 win Wladimir Klitschko retains heavyweight belts Mares beats Moreno, defends 122-pound title Tour champ Wiggins released from hospital Dan Patrick: Utah girl a star in youth football Newton TD celebration gets prep star ejected Big names in sports thrown for losses by voters The lineup for sports on election night Ad
 
 *   Scores
 *   Odds
@@ -184,10 +184,11 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com CFT: SEC's title streak fall along with the Tide?  
-PFT: Falcons top power rankings  |    NFC South rising?  
-CBT: Big-name players who could flop  |  Future stars  
+Tweet Also on NBCSports.com PFT: Texans take care of Bears  |  Falcons finally lose  
+CFT: Kansas State climbs to No. 1 in BCS standings  
+PHT: New Hall of Famer Sakic was clearly no ordinary Joe  
+NASCAR: Keselowski nears Sprint title. Gordon brawls  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
-AdChoices SportsNFL College football MLB NBA NHL College basketball NASCAR/Motors Golf Tennis Soccer Other Sports Quick linksScores RSS Feeds Tickets TV Listings Fantasy Games Universal Sports NBC Sports Feedback Go Mobile Shop NBC TV Listings **Day** **Time** **Event** **Location** **Talent** **Saturday, Nov. 10** 2:30 - 3:30 p.m. Red Bull Signature Series Hurricane Mills, Tenn. Jason Weigandt, David Bailey, Alex Curry 3:30 - 5 p.m. Ironman World Championship Kona, Hawaii TBA 5 - 6 p.m. Onward Notre Dame: South Bend to Soldier Field N/A N/A **Sunday, Nov. 11** 4 - 6 p.m. ISU Grand Prix of Figure Skating Moscow, Russia Terry Gannon, Peter Carruthers, Tara Lipinski 7 - 8:20 p.m. Football Night in America New York Bob Costas, Dan Patrick, Tony Dungy, Rodney Harrison, Peter King, Alex Flanagan, Mike Florio, Hines Ward 8:20 - Conclusion Sunday Night Football: Texans at Bears Chicago Al Michaels, Cris Collinsworth, Michele Tafoya Note: All times ET
+AdChoices SportsNFL College football MLB NBA NHL College basketball NASCAR/Motors Golf Tennis Soccer Other Sports Quick linksScores RSS Feeds Tickets TV Listings Fantasy Games Universal Sports NBC Sports Feedback Go Mobile Shop NBC TV Listings **Day** **Time** **Event** **Location** **Talent** **Saturday, Nov. 17** 3:30 - 7 p.m. Wake Forest at Notre Dame South Bend, Ind. Tom Hammond, Mike Mayock, Alex Flanagan **Sunday, Nov. 18** 1 - 2 p.m. World of Adventure Sports TBA Todd Harris 2 -4 p.m. ISU Grand Prix of Figure Skating Paris, France Terry Gannon, Michael Weiss, Tara Lipinski 4 - 6 p.m. NBC Skating Special: Family Skating Tribute Atlantic City, N.J. Kristi Yamaguchi, Michael Weiss 7 - 8:20 p.m. Football Night in America New York Bob Costas, Dan Patrick, Tony Dungy, Rodney Harrison, Peter King, Alex Flanagan, Mike Florio, Hines Ward 8:20 - Conclusion Sunday Night Football: Ravens at Steelers Pittsburgh Al Michaels, Cris Collinsworth, Michele Tafoya Note: All times ET
