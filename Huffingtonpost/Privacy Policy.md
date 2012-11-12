@@ -1,7 +1,7 @@
   
 HuffPost's QuickRead... Loading...
 
-*   Julian Assange
+*   Kanye West
 
 iPhone app iPad app Android phone app Android tablet app Log in Create Account
 
@@ -10,7 +10,7 @@ iPhone app iPad app Android phone app Android tablet app Log in Create Account
     *   Settings
     *   Logout
 
-November 11, 2012 Edition: **U.S.**
+November 12, 2012 Edition: **U.S.**
 
 *   CA Canada
 *   FR France
@@ -22,11 +22,11 @@ November 11, 2012 Edition: **U.S.**
 *   FRONT PAGE
 *   Politics
     
-    *   Petraeus Resigns As CIA Director After Admitting To Affair6k
-    *   Reported Petraeus Mistress Revealed8k
-    *   All Ballots Counted, Allen West Solidly Defeated By Patrick Murphy9k
-    *   Meet Holly Petraeus753
-    *   Romney 'Shellshocked' By Loss48k
+    *   Petraeus' Mistress Sent Harassing Emails To State Department Official: Source4k
+    *   All Ballots Counted, Allen West Solidly Defeated By Patrick Murphy15k
+    *   Woman Who Received Threatening Emails From Paula Broadwell Revealed396
+    *   Bill Kristol: 'It Won't Kill The Country If We Raise Taxes' On Millionaires11k
+    *   Dems, GOP Gear Up For Filibuster Showdown 8k
     
     Go to Politics **More in Politics**
     
@@ -44,11 +44,11 @@ November 11, 2012 Edition: **U.S.**
     *   Gay Voices
 *   Business
     
-    *   Pizza Chain CEO: 'I Don't Think People Know What They're Going To Pay For' Obamacare33k
-    *   Matt Taibbi: Romney Could Have Easily Won17k
-    *   Romney Campaign Cancels Aides' Credit Cards ON Election Night5k
-    *   CEO Enters 'Survival Mode' After Obama Reelection, Announces Layoffs15k
-    *   LOOK: Major Gas Shortage Bring Insane 1970s-Style Lines At The Pump280
+    *   Pizza Chain CEO: 'I Don't Think People Know What They're Going To Pay For' Obamacare38k
+    *   Romney Campaign Cancels Aides' Credit Cards ON Election Night6k
+    *   Poor, Uninsured And Staying That Way: Why GOP Governors Won't Expand Medicaid12k
+    *   CEO Enters 'Survival Mode' After Obama Reelection, Announces Layoffs17k
+    *   Paul Krugman: Deficit Hawks 'Squirming' Over Fiscal Cliff1k
     
     Go to Business **More in Business**
     
@@ -65,11 +65,11 @@ November 11, 2012 Edition: **U.S.**
     *   Crime
 *   Entertainment
     
-    *   WATCH: Newly Unearthed Footage Of Elvis At MSG436
-    *   Ted Nugent Goes On Angry Twitter Rant After Obama Reelection 15k
-    *   Biggest Bond Ever: 'Skyfall' Sets Records101
-    *   Mick Jagger Love Letters Reveal 'Brown Sugar' Inspiration150
-    *   Great News For 'Star Wars' Fans224
+    *   Rihanna Debuts 'Stay' On SNL97
+    *   Biggest Bond Ever: 'Skyfall' Sets Records189
+    *   Mick Jagger Love Letters Reveal 'Brown Sugar' Inspiration272
+    *   'Skyfall' Dominates Weekend Box Office10
+    *   WATCH: Newly Unearthed Footage Of Elvis At MSG485
     
     Go to Entertainment **More in Entertainment**
     
@@ -86,11 +86,11 @@ November 11, 2012 Edition: **U.S.**
     *   Moviefone
 *   Tech
     
-    *   I Was Just Friended By Myself On Facebook (And It Only Gets Weirder From There)556
-    *   The 9 Most Popular Viral Videos Of The Week43
-    *   How Romney's Broken App Cost Him Thousands Of Votes 52
-    *   7 Numbers That Apple Should Be Worried About136
-    *   'A Lifeline' After Sandy, Copper Phone Networks Are Phased Out143
+    *   I Was Just Friended By Myself On Facebook (And It Only Gets Weirder From There)759
+    *   The 9 Most Popular Viral Videos Of The Week53
+    *   How Romney's Broken App Cost Him Thousands Of Votes 125
+    *   'A Lifeline' After Sandy, Copper Phone Networks Are Phased Out203
+    *   2012 Is The Year Of Nate Silver And The Prediction Geeks11
     
     Go to Tech **More in Tech**
     
@@ -108,11 +108,11 @@ November 11, 2012 Edition: **U.S.**
     *   Joystiq
 *   Media
     
+    *   BBC Chief Resigns366
     *   'I Don't Want To Kill Anyone's Dreams But...' 4k
-    *   BBC Chief Resigns265
     *   WATCH: Scarborough's Post-Election Mourning 1k
-    *   WATCH: MSNBC Host Says Good-Bye 518
-    *   Conservatives' 'Chief Psychologist'1k
+    *   Murdoch Weighs In On BBC Scandal279
+    *   WATCH: MSNBC Host Says Good-Bye 597
     
     Go to Media **More in Media**
     
@@ -129,11 +129,11 @@ November 11, 2012 Edition: **U.S.**
     *   Moviefone
 *   World
     
-    *   Most Insane Photos Of The Week
-    *   Iran Official: U.S. Drone Violated Airspace2k
-    *   17 Soldiers Killed In Turkish Helicopter Crash46
-    *   Who Said What? Outlandish Quotes By World Leaders12
-    *   High-Level Nuclear Talks Called Off1k
+    *   Israel Fires Warning Shots Into Syria3k
+    *   Congratulating Obama? Not These Guys527
+    *   Strong Earthquake Kills 12 In Myanmar211
+    *   Parents Publish Suicide Note Of Boy Who Killed Himself After Being Bullied353
+    *   Most Insane Photos Of The Week21
     
     Go to World **More in World**
     
@@ -151,11 +151,11 @@ November 11, 2012 Edition: **U.S.**
     *   Religion
 *   Healthy Living
     
-    *   25 Of The Healthiest Herbs And Spices In The World86
-    *   Top 5 Foods To Fight Inflammation
-    *   Rosie Rose Lost More Than 100 Pounds: 'With Fitness, We Have The Power To Change Our Lives'
+    *   8 Famous Faces Who Have Been Touched By Lung Cancer148
+    *   Rosie Rose Lost More Than 100 Pounds: 'With Fitness, We Have The Power To Change Our Lives'16
+    *   Probiotics May Do The Heart Some Good15
     *   Feeling The Winter Chill? 8 Healthy Ways To Warm Up
-    *   8 Famous Faces Who Have Been Touched By Lung Cancer13
+    *   Could A Test To Detect Diabetes Early Be On The Way?10
     
     Go to Healthy Living **More in Healthy Living**
     
@@ -173,11 +173,11 @@ November 11, 2012 Edition: **U.S.**
     *   OWN
 *   Style
     
+    *   Do You Recognize This Actress? 91
+    *   PHOTOS: Kate Middleton Attends Remembrance Day Ceremony145
+    *   PHOTOS: Mary Kate Olsen &. Olivier Sarkozy Get Cozy At A Knicks Game939
     *   PHOTOS: Wow... Wait Until You See The Dallas Mavericks Dancers' New Uniforms2k
-    *   LOOK: Adriana Lima Hits The Runway 8 Weeks After Giving Birth 196
-    *   PHOTOS: Kim Kardashian Tries A Plunging Velvet Jumpsuit330
-    *   PHOTOS: See This Week's Near Wardrobe Malfunctions! 15
-    *   PHOTOS: A Look Back At Justin Bieber &. Selena Gomez's Couple Style28
+    *   PHOTOS: Kim Kardashian Tries A Plunging Velvet Jumpsuit391
     
     Go to Style **More in Style**
     
@@ -195,11 +195,11 @@ November 11, 2012 Edition: **U.S.**
     *   Post 50
 *   Comedy
     
-    *   WATCH: Maher Issues Stern Warning To White People4k
-    *   Uh Oh, Drunk Nate Silver Has Gone Mad With Power237
-    *   'There Was An Avalanche On Bullsh\*t Mountain' 3k
-    *   21 People Who Probably Didn't Get The Job34
-    *   Lewis Black: The Election Was Over The First Time Mitt Romney Spoke673
+    *   WATCH: Mitt Romney Drowns Post-Election Sorrows In Milk2k
+    *   'From Here On Out, We Do It My Way'344
+    *   29 Surprising Fortune Cookies31
+    *   Dads Don't Want To Hear About Their Daughter's 'First Time'72
+    *   WATCH: Maher Issues Stern Warning To White People5k
     
     Go to Comedy **More in Comedy**
     
@@ -218,9 +218,9 @@ November 11, 2012 Edition: **U.S.**
 *   LIVE
     *   Next Close To The Edge
     *   Next Obamacare Layoffs
-    *   Tomorrow Fixing Service Academies
-    *   Tomorrow A Less Bigoted Union?
-    *   Tomorrow No Military AbortionsGo to HuffPost Live
+    *   Coming Up Fixing Service Academies
+    *   Coming Up Howard Fradkin LIVE
+    *   Coming Up Kickin' FoxGo to HuffPost Live
 *   ALL SECTIONS **News**
     
     *   Politics
