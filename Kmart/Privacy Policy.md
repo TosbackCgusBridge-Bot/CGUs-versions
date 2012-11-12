@@ -58,7 +58,11 @@ Deal of the Day kmart layaway FREE store pick up WEEKLY MEMBER DEALS FREE SHIPPI
 
 FREE SHIPPING on orders of $49 or more See details -OR- 3 months of FREE SHIPPING learn more
 
-**Customer Service Home** Contact Us **Kmart.com Order &. Product Inquiries** Click to Call Click to Chat Click to Email Call by Phone Find a Store Services **Parts Orders &. Inquires** 1-800-366-7278 **Installation** 1-800-326-8738 **Home Services &. Repairs** 1-800-468-4663 Clubs &. Rewards
+**Customer Service Home** Contact Us **Kmart.com Order &. Product Inquiries** Click to Call Click to Chat Click to Email Call by Phone
+
+1-866-562-7848
+
+Find a Store Services **Parts Orders &. Inquires** 1-800-366-7278 **Installation** 1-800-326-8738 **Home Services &. Repairs** 1-800-468-4663 Clubs &. Rewards
 
 **Shop your way rewards**
 
