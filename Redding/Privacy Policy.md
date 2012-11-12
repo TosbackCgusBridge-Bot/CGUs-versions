@@ -174,9 +174,6 @@ Record Searchlight
 *   Cars
 *   Classified
 
-*   Get severe weather notifications anywhere via our new iPhone and Android app
-    
-
 Privacy Policy Redding.com Privacy Policy
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
@@ -270,25 +267,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   GOP strategist: Two-party system collapses in California Published 11/11/2012 at 4:00 a.m. 172 comments
-*   Two dead from wild mushrooms served at Sacramento-area care facility Published 11/11/2012 at 8:54 a.m. 31 comments
-*   Trent Amen: As a business owner, I'm baffled by election result Published 11/11/2012 at 12:00 a.m. 53 comments
-*   State looks to drop warrants for some parolees Published 11/11/2012 at 4:00 a.m. 51 comments
-*   Raley's, union return to bargaining table Published 11/11/2012 at 3:48 p.m. 24 comments
+*   GOP strategist: Two-party system collapses in California Published 11/11/2012 at 4:00 a.m. 194 comments
+*   Two dead from wild mushrooms served at Sacramento-area care facility Published 11/11/2012 at 8:54 a.m. 38 comments
+*   Trent Amen: As a business owner, I'm baffled by election result Published 11/11/2012 at 12:00 a.m. 86 comments
+*   Raley's, union return to bargaining table Published 11/11/2012 at 3:48 p.m. 30 comments
+*   UPDATED: Local KFC stores among those closed in wake of bankruptcy Updated 11/12/2012 at 11:23 a.m. 28 comments
 
-Photo Galleries Veterans Day Parade West Valley beats Lassen Fallis Around Town
+Photo Galleries Veterans Day Parade Indianapolis House Explosion West Valley beats Lassen
 
-*   GOP strategist: Two-party system collapses in California Published 11/11/2012 at 4:00 a.m. 172 comments
+*   GOP strategist: Two-party system collapses in California Published 11/11/2012 at 4:00 a.m. 194 comments
 *   Obama wins Fla., topping Romney in final tally 332-206 Published 11/10/2012 at 12:31 p.m. 151 comments
-*   CIA Director Petraeus quits, cites extramarital affair Published 11/9/2012 at 12:56 p.m. 127 comments
-*   Charles Krauthammer: The Republicans' way forward Published 11/9/2012 at 12:00 a.m. 120 comments
+*   CIA Director Petraeus quits, cites extramarital affair Published 11/9/2012 at 12:56 p.m. 126 comments
 *   Pot votes in Colorado, Washington raise possibility of marijuana tourism Published 11/10/2012 at 4:00 a.m. 91 comments
+*   Trent Amen: As a business owner, I'm baffled by election result Published 11/11/2012 at 12:00 a.m. 86 comments
 
 *   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
 *   Wild horse, burro adoption falls short. economic factors leave trail of uncertainty Published 11/4/2012 at 6:52 p.m. 11 comments
+*   Two dead from wild mushrooms served at Sacramento-area care facility Published 11/11/2012 at 8:54 a.m. 38 comments
 *   UPDATE: Detectives arrest two men in connection with Big Bend murder Published 11/3/2012 at 9:09 a.m. 31 comments
 *   Siskiyou County Sheriff Jon Lopey says he's fighting to protect rural America Published 11/3/2012 at 7:36 p.m. 59 comments
-*   Dahle trounces Bosetti in Assembly District 1 race Published 11/6/2012 at 8:38 p.m. 19 comments
 
 Weather
 
@@ -296,23 +293,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 41° A Few Clouds Wind: Calm Today 58° 43° Mon 05:00 PM Mostly Cloudy Showers Temp: 50° Tue 05:00 AM Mostly Cloudy Showers Temp: 44° Tue 05:00 PM Mostly Cloudy Showers Temp: 53°
-
-Feels Like: 50°
-
-Humidity: 71%
-
-Precip: 23%
+Currently 54° Overcast Wind: NW 4mph Today 58° 43° Tue 12:00 AM Mostly Cloudy Showers Temp: 44° Tue 12:00 PM Mostly Cloudy Showers Temp: 61° Wed 12:00 AM Mostly Cloudy Showers Temp: 48°
 
 Feels Like: 44°
 
-Humidity: 80%
+Humidity: 76%
+
+Precip: 23%
+
+Feels Like: 61°
+
+Humidity: 51%
 
 Precip: 27%
 
-Feels Like: 53°
+Feels Like: 48°
 
-Humidity: 77%
+Humidity: 89%
 
 Precip: 23%
 
