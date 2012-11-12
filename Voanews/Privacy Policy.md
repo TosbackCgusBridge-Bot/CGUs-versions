@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Moderate Cleric to Lead Syrian Opposition
-*   Strong Earthquake Rocks Burma
+*   Syrian Opposition Seeks Recognition
+*   China Discusses Leadership Transition Online
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
