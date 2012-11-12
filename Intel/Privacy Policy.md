@@ -407,23 +407,24 @@ Intel® Online Privacy Notice Intel is committed to respecting your privacy. Our
     *   Related Topics
     *   Related Products
     
-    *   Intel® Online Privacy...
+    *   Intel Supports EICC...
         
-        The full Intel Online Privacy Notice and this summary apply to Intel Corporate web sites worldwide.
-        
-    *   Proposed Rule for Health...
-        
-        Discusses working together to achieve a fully interoperable and secure health IT system.  
+        Letter from Intel executives stating support for Electronic Industry Citizenship Coalition’s vision and...  
         Preview | Download
         
-    *   HIT and the Affordable...
+    *   Intel Business...
         
-        Advises IT provisions in ACA to improve efficiency, quality, and reporting accuracy in health care.  
+        Guide: Intel business continuity practices, policies, guidelines designed to enable continuation of...  
         Preview | Download
         
-    *   Intel Comments on...
+    *   Intel Code of Conduct
         
-        Suggestions to Health Information Technology Coordinator on electronic health record technology...  
+        Contains Intel's mission, values, code of conduct and statement from Intel CEO Paul Otellini.  
+        Preview | Download
+        
+    *   Public Policy:...
+        
+        Intel promotes communications policies that encourage deployment of wireless, wired broadband services.  
         Preview | Download
         
     
