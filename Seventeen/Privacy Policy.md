@@ -39,7 +39,7 @@ Cute, Cozy Sweaters!
 *   Beauty Videos
 *   Get Beauty Advice
 
-The Coolest Nail Looks!
+Fall Beauty Must-Haves
 
 *   Celebrity News
 *   One Direction News
@@ -52,7 +52,7 @@ The Coolest Nail Looks!
 *   Celebrity Quizzes
 *   Celebrity Videos
 
-The 10 Worst Celeb Breakups Of All Time
+Exclusive Ashley Greene Interview
 
 *   Hot Guy Panel
 *   Boyfriend Battle
@@ -98,7 +98,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     30 Ways To Save Money Over Winter Break
 *   entertainment
     
-    The Biggest _Twilight_ Moments
+    Last Day To Win &. Meet One Direction!
 *   fashion
     
     Holiday Outfits Under $50
@@ -149,7 +149,7 @@ Celebrities
 
 *   Robert Pattinson Interview
 *   Miley Cyrus News
-*   Hunger Games Movie
+*   Ashley Greene Quotes
 *   Justin Bieber News
 
 More
@@ -193,17 +193,17 @@ More
 Fashion
 
 *   Homecoming Dresses under $100
-*   Back to School Outfits
-*   Back to School Fashion 2012
-*   Get Taylor Swift's Style
+*   Cool Winter Outfits
+*   Best Winter Coats
+*   Cute Outfits for New Year's Eve
 
 More
 
-Trending
+Holiday Gifts
 
-*   Gifts Ideas for Boyfriends
-*   Gifts for Your Best Friends
-*   Back to School Boho Styles
+*   Gift Ideas for Guys
+*   Fun Gifts for Friends
+*   Cool Gift for Dad
 *   Great Gift Ideas for Mom
 
 More Try: Cool Nails Dating Advice Homecoming Dresses About _Seventeen_
