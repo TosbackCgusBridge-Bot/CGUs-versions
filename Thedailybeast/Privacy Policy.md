@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  The ‘Adventure Junkie’ Husband
-2.  Did Paula Broadwell Leak U.S. Secrets?
-3.  Megyn Kelly Takes Control
-4.  Five Facts About Jill Kelley
-5.  Petraeus’s Rules for Living
+1.  Five Facts About Jill Kelley
+2.  The ‘Adventure Junkie’ Husband
+3.  The GOP’s Latino Fallacy
+4.  Megyn Kelly Takes Control
+5.  The Dirty Little Secret of 2012
 
   Other News Entertainment
 
-*   Week in Photos for Nov. 9, 2012
-*   Hairdos and Don'ts: Anne Hathaway Edition
-*   Victoria's other secret: Justin Bieber may want to be touched by an angel
+*   Rob and Kristen's body language lost in translation?
+*   Will They Wed?
+*   Mary-Kate awkwardly cozies up to older beau Olivier Sarkozy
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
-*   PopWatch Planner: ‘Breaking Dawn,’ ‘Lawrence of Arabia,’ and more
-*   ‘Firefly: Browncoats Unite’ reunion tonight: Why Joss Whedon’s cult classic has endured for a decade
+*   ‘Saturday Night Live’ best host poll: Anne Hath-a-way about her
+*   Google Doodle celebrates sculptor Auguste Rodin
+*   EW’s Morning Bite: And the best sound bite from last night is…
 *   **Get More from EW.com**
 
 Entertainment
 
-*   This Is The Luckiest Football Player In The Whole Wide World
-*   Aide: Deval Patrick Doesn't Want To Be Attorney General
-*   Six Months After Having A Heart Attack On The Field, A Soccer Star Returns To The Scene
+*   Rudy Gay Made LeBron Look Stupid
+*   Watch Romney Fade Away In Real Time
+*   How To Pluck And Cook Doves
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   What Obama Wants Now
-*   How Obama Won the Class War
-*   The Republican Media Cocoon
+*   Why Did Petraeus Resign?
+*   Quote of the Day
+*   10 Things You Didn't Know About Lincoln
 *   **Get More from Political Wire**
 
 The Daily Beast
