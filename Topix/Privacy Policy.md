@@ -12,15 +12,15 @@ Sign In
 
 Iran
 
-Asiyeh. an Iranian Fairy on sea-shore in Mumbai
+Iran VP Steps Up Talk on US
 
-China
+Syria
 
-Briefly: Education: China Considers Limiting Foreign Education...
+Parents of American journalist missing in Syria say they still...
 
 Politix
 
-Are you happy that President Obama has been re-elected?
+How should Obama and Congress steer us away from the fiscal cl...
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 100,140 • Total comments across all topics: 190,785,841
+Comments made yesterday: 101,555 • Total comments across all topics: 190,877,258
 
 Copyright ©2012 Topix LLC
 
