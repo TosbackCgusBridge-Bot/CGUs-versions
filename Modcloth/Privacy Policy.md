@@ -239,9 +239,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   ModCloth + Mobile Devices =
-    *   Pretty in Plaid for Late Autumn
-    *   Bag of Tricks: How to Make a DIY Bike Pouch
+    latest blog posts*   Hit the Slopes: Vintage Ski Inspiration for Winter
+    *   Announcing the Winner of Make the Cut: ‘Swatch’ It Up
+    *   ModCloth + Mobile Devices =
     
     *   modcloth blog
     *   In Other Words
