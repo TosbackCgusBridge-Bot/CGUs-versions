@@ -23,13 +23,8 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: November 12 03:00 AM · MORNING BREATH coming up next:
+schedule right now: November 12 11:00 AM · MORNING BREATH coming up next:
 
-*   6:00 AM · SMB
-*   8:00 AM · MORNING BREATH
-*   9:00 AM · MORNING BREATH
-*   10:00 AM · L'CREME
-*   11:00 AM · MORNING BREATH
 *   12:00 PM · L'CREME
 *   1:00 PM · AL CIEN 100%
 *   2:30 PM · 18 &. OVER
@@ -40,6 +35,11 @@ schedule right now: November 12 03:00 AM · MORNING BREATH coming up next:
 *   8:00 PM · OPERACION REPO
 *   8:30 PM · OPERACION REPO
 *   9:00 PM · DECISIONES EXTREMAS
+*   10:00 PM · EL CARTEL 2
+*   11:00 PM · EL CARTEL 2
+*   12:00 AM · I LOVE JENNI
+*   1:00 AM · DECISIONES
+*   2:00 AM · L'CREME
 
 see full schedule >>.
 
