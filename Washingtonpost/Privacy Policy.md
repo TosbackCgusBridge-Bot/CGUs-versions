@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Shorthand**  
+    *   **Jan Brewer wants to kill electoral...**  
         Election 2012 | Rachel Weiner
     
     *   **Would a tax hike kill 700,000 jobs?**  
         The Fact Checker | Glenn Kessler
     
-    *   **Do Democrats owe their Senate majority...**  
-        She The People | Krissah Thompson
+    *   **The East Coast Rapist bristles...**  
+        She The People | Melinda Henneberger
     
-    *   **Rep. Allen West is apparently defeated**  
-        The Fix | Aaron Blake
+    *   **President Obamas Cabinet: Whos...**  
+        The Fix | Chris Cillizza and Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -49,7 +49,7 @@
     *   **Petraeus solution: End sex**  
         ComPost | Alexandra Petri
     
-    *   **Open Thread**  
+    *   **Morning Open Thread**  
         The Plum Line | Greg Sargent
     
     *   **Petraeus’s bumpy ride**  
@@ -72,14 +72,14 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Veterans Day...**  
-        Capital Weather Gang | Kathryn Prociv\* and Dan Stillman
+    *   **Forecast: A cloudy and mild Monday**  
+        Capital Weather Gang | Jason Samenow
     
     *   **National Gallery of Art ice rink...**  
         Going Out Gurus | Alex Baldinger
     
-    *   **Fugitive arrested after taunting...**  
-        Crime Scene | Del Quentin Wilber
+    *   **Police identify motorcyclist, pedestrian...**  
+        Crime Scene | Nikita Stewart
     
     *   **D.C. youth trust hires new director**  
         D.C. Wire | Tim Craig
@@ -97,17 +97,17 @@
     
     Blogs &. Columns
     
-    *   **NHL lockout: Negotiations sour...**  
+    *   **Oates enjoying induction weekend**  
         Capitals Insider | Katie Carrera
     
     *   **Maryland offers ACC tournament...**  
         DC Sports Bog | Dan Steinberg
     
-    *   **Redskins work out defensive backs...**  
-        The Insider | Mike Jones
+    *   **Tim Hasselbeck wonders if Redskins...**  
+        The Insider | Mark Maske
     
-    *   **Davey Johnson, Nationals officially...**  
-        Nationals Journal | James Wagner
+    *   **Sean Burnett’s market takes shape**  
+        Nationals Journal | Adam Kilgore
 *   National In National
     
     *   Energy &. Environment
@@ -145,6 +145,9 @@
     
     Blogs &. Columns
     
+    *   **What the world can learn from Denmark’s...**  
+        WorldViews | Olga Khazan
+    
     *   **Yet more security concerns emerge...**  
         WorldViews | Max Fisher
     
@@ -152,9 +155,6 @@
         WorldViews | Olga Khazan
     
     *   **Why David Petraeus’s Gmail account...**  
-        WorldViews | Max Fisher
-    
-    *   **Why Obama’s trip to Burma is such...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -179,8 +179,8 @@
     *   **How business can bounce back from...**  
         Steven Pearlstein
     
-    *   **What happens when you get your...**  
-        Wonkblog | Sarah Kliff
+    *   **Bill Kristol thinks Republicans...**  
+        Wonkblog | Suzy Khimm
 *   Tech In Technology
     
     *   Policy
@@ -211,8 +211,8 @@
     
     Blogs &. Columns
     
-    *   **Cauliflower’s 140-character study**  
-        All We Can Eat | Edward Schneider
+    *   **Beer geeks, let the guessing begin**  
+        All We Can Eat | Greg Kitsock
     
     *   **How to dress like James Bond**  
         The Style Blog | Cara Kelly
@@ -220,7 +220,7 @@
     *   **Take the kids this weekend: National...**  
         On Parenting | On Parenting
     
-    *   **Petraeus, other political sex scandals...**  
+    *   **David Petraeus sex scandal: What...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,13 +240,13 @@
     *   **Review digest: of Lang Lang, Midori...**  
         Classical Beat | Anne Midgette
     
-    *   **The 10 best James Bond theme songs**  
+    *   **‘The Walking Dead’: American gladiators**  
         Celebritology 2.0 | Jen Chaney
     
     *   **NBC’s dysfunctional First Family...**  
         The TV Column | Lisa de Moraes
     
-    *   **AFI FEST WINNERS**  
+    *   **Veterans Day 2010**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -266,10 +266,11 @@
 
 In the News
 
-*   Veterans Day
+*   David Petraeus
 *   Paula Broadwell
-*   Burma earthquake
-*   Alabama football
+*   BBC resignations
+*   Lakers
+*   BCS rankings
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -320,78 +321,98 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-FBI probe of Petraeus triggered by e-mail threats from biographer, officials say
+GOP’s Red America forced to rethink what it knows about the country
 
-Sari Horwitz 
+Eli Saslow 
+
+Arian Foster runs for 102 yards, Texans knock out QB Jay Cutler in 13-6 win over Bears
+
+Associated Press 
+
+Lawmakers want probe of Petraeus investigation
+
+Karen DeYoung 
+
+Deadly earthquake collapses bridge, gold mine in underdeveloped northern Myanmar
+
+Associated Press 
+
+Love, etc.: Justin Bieber, Selena Gomez break up
+
+The Reliable Source 
+
+President Obama and the white vote? No problem. In Petraeus downfall, hubris meets high tech
+
+Ruth Marcus 
 
 With Paula Broadwell, Gen. David Petraeus let his guard down
 
 Joby Warrick 
 
-Karl Rove and his super PAC vow to press on
+Former aides wonder: Did Petraeus stumble in unfamiliar terrain?
 
-Karen Tumulty 
+Greg Jaffe 
 
-Why David Petraeus's Gmail account is a national security issue Supreme Court to review key section of Voting Rights Act
+The secret to Barack Obama’s survival
 
-Robert Barnes 
+Greg Sargent 
 
-Yet more security concerns emerge about Paula Broadwell's access to Petraeus Petraeus resignation: Who is Paula Broadwell? The creepiest sight in China? Tiananmen anti-self-immolator firefighters Mitt Romney losing (Facebook) friends by the minute Obama and the press: an inauspicious start
+Obama shouldn’t back down
 
-Al Kamen 
+E.J. Dionne Jr. 
 
-A reformed Republican party
+Why is the GOP overwhelmingly white?
 
-George F. Will 
+Courtland Milloy 
 
-Gen. Petraeus’s affair tarnishes seemingly idyllic marriage
+The Republican Party’s electoral map problem
 
-Ian Shapira 
+Chris Cillizza 
 
-The party that doomed its nominee
+On edge of brutal ‘fiscal cliff,’ some see an opportunity to end debt paralysis
 
-Kathleen Parker 
+Lori Montgomery 
 
-The GOP has lost its way. Here’s how it can return to its roots.
-
-Craig Shirley 
-
-Ducking Google in search engines
-
-Michael Rosenwald 
-
-East Coast Rapist suspect acknowledges attacks in several states
-
-Josh White 
-
-GOP firebrand Allen West refuses to concede. Fla. vote count is beyond recount margin Florida called for Obama Indianapolis blast and fire devastates residential neighborhood, 1 dead. like a ‘war zone’
+Lakers hire Mike D’Antoni to replace fired coach Mike Brown, bypassing Phil Jackson
 
 Associated Press 
 
-How business can bounce back from its 2012 election debacle
+FBI probe of Petraeus triggered by e-mail threats from biographer, officials say
 
-Steven Pearlstein 
+Sari Horwitz 
+
+'SNL' on Mitt Romney's election night Pakistani lawyers go from heroes to ‘gangsters’
+
+Richard Leiby 
+
+Israel fires at Syria after stray mortar strikes army post
+
+Joel Greenberg 
+
+Portuguese head to former African colony to escape euro crisis
+
+Sudarsan Raghavan 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  FBI probe of Petraeus triggered by e-mail threats from biographer, officials say
-    2.  With Paula Broadwell, Gen. David Petraeus let his guard down
-    3.  Karl Rove and his super PAC vow to press on
-    4.  Why David Petraeus's Gmail account is a national security issue
-    5.  Supreme Court to review key section of Voting Rights Act
+    1.  GOP's Red America forced to rethink what it knows about the country
+    2.  Arian Foster runs for 102 yards, Texans knock out QB Jay Cutler in 13-6 win over Bears
+    3.  Lawmakers want probe of Petraeus investigation
+    4.  Deadly earthquake collapses bridge, gold mine in underdeveloped northern Myanmar
+    5.  Love, etc.: Justin Bieber, Selena Gomez break up
 *   Top Videos
-    1.  Official: Harassing Emails Led to FBI Probe
-    2.  CIA Director David Petraeus resigns, citing extramarital affair
+    1.  Official: Broadwell's harassing e-mails led to FBI probe
+    2.  The story behind the Romney loss: Drama, regrets and mistakes
     3.  President Obama's full victory speech
-    4.  The story behind the Romney loss: Drama, regrets and mistakes
-    5.  The GOP's not-so-happy hour
+    4.  CIA Director David Petraeus resigns, citing extramarital affair
+    5.  'Mythbusters' hosts survey cannonball damage
 *   Top Galleries
-    1.  Gen. David Petraeus
-    2.  A guide to holiday movies
-    3.  China's first ladies
-    4.  Elizabeth Warren: 2012 Election brings her back to Washington
-    5.  James Bond's "Skyfall" fashion
+    1.  Red America
+    2.  Explosion in Indianapolis kills 2
+    3.  A guide to holiday movies
+    4.  China's first ladies
+    5.  Recovering from Hurricane Sandy
 
 Today's Paper
 
@@ -401,13 +422,13 @@ Today's Paper
 
 Live Discussions
 
-There are no discussions scheduled today.
-
 Carolyn Hax
 
 Live Q&A Transcript
 
 Hax advised readers on life, love and how to help a friend in need.
+
+**12:00 PM** **CANCELED: Dr. Gridlock** **12:00 PM** **Advice from Slate's 'Dear Prudence'** **2:00 PM** **CANCELED: Talk about Travel**
 
 **Weekly schedule, past shows**
 
