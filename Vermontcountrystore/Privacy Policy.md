@@ -226,17 +226,20 @@ Live Help |
     *   Fisher Price
     *   Toys Favorites
 *   Gifts
-    *   Seasonal Favorites
-    *   Brands From The Past
     *   Gifts For Her
     *   Gifts For Him
-    *   For The Kids
-    *   Gifts For The Family
+    *   For Kids, Ages 3 and up
+    *   For Toddlers
+    *   Stocking Stuffers
+    *   Top 25 Gifts Under $25
+    *   The Kid At Heart
+    *   Our Most Delicious Gifts
+    *   The Chocolate Lover
+    *   Gifts to Keep on Hand
+    *   The Orton Family Top 10 for 2012
+    *   Seasonal Favorites
+    *   Brands From The Past
     *   Gift Cards
-    *   Gifts Under $25
-    *   Gifts Under $50
-    *   Gifts Under $100
-    *   Wedding Gifts
 *   Yankee Bargains
     *   SALE - Sleepwear
     *   SALE - Clothing
