@@ -1,24 +1,4 @@
-easy web hosting service
-
-*   Upload
-*   Gold
-*   Features
-*   FAQ
-*   Tools
-    *   Flash Uploader
-    *   DepositFiles Uploader
-*   Loyalty
-    *   Promotions &. Prizes
-    *   GOLD day
-    *   U-Points
-    *   D-Points
-*   Contacts
-*   Sign Up
-
-русскийenglishdeutschespañolportuguêsfrançais日本語dutchitalianosvenskatürkçedanskpolski Login:  
-Password:  
-Forgot password?  
-Login with: Privacy Policy: **1\. The following information is collected during rendering services DepositFiles confidential and undisclosed unless stated otherwise:**  
+**1\. The following information is collected during rendering services DepositFiles confidential and undisclosed unless stated otherwise:**  
   
 **1.1. IP addresses.**  
 IP address of your browser is detected due to the use of Internet-protocols. Such IP address is stored by DepositFiles servers for internal use (usage registration, optimal downloads use, statistics etc.);  
@@ -42,18 +22,4 @@ Advertisements located on our website can be posted and/or hosted by a third par
 DEPOSITFILES MAY DISCLOSE YOUR PERSONAL INFORMATION IN CASE IT BECOMES NECESSARY TO DEFEND ITS JURIDICAL RIGHTS.  
 IN CASE YOU ACTIONS LEAD TO SUSPICION OF TANGIBLE OR ASSUMED SABOTEUR ACTIONS OR POSES A POTENTIAL THREAT TO ANY PERSON'S PHYSICAL SAFETY OR ANY OTHER GRAVE CRIME, ALL YOUR KNOWN INFORMATION (INCLUDING BUT NOT LIMITED TO PERSONAL DETAILS, IP ADDRESSES, PAYMENT DATA) MAY BE DISCLOSED TO LAW ENFORCEMENT ORGANIZATIONS AND/OR MEMBERS OF THE ISP WITHOUT PRIOR NOTICE.  
 IN CASE OF ANY EVIDENCE OF DISTRIBUTION OF THE FILES CONTAINING MATERIALS WHICH APPEAR INVOLVING CHILD EXPLOITATION, THE ACCOUNT BELONGING TO THE USER WHO UPLOADED SUCH FILES WILL BE IMMEDIATELY DELETED AND ALL KNOWN INFORMATION (INCLUDING BUT NOT LIMITED TO PERSONAL DETAILS, IP ADDRESSES, PAYMENT DATA) WILL BE DIRECTED TO THE NATIONAL CENTER FOR MISSING &. EXPLOITED CHILDREN, AS WELL AS LAW ENFORCEMENT ORGANIZATIONS AND/OR MEMBERS OF THE ISP WITHOUT PRIOR NOTICE.  
-DISCLOSURE OF YOUR INFORMATION CAN BE LAWFUL AS A RESULT OF A LEGAL PROCESS.  
-
-  
-Captcha Invalid Invalid login Unknown Error Invalid input data Please, enter login Captcha Required Please, enter desired login Please, enter your password Please, reenter your password The password and the reentered password should be the same Enter your e-mail address Entered email does not appear to be valid To continue you should agree to the rules of our service. Please enter at least {0} characters. Please enter no more than {0} characters. Unknown Error Complete In queue Incorrect file size File too small. There are no logs yet
-
-*   Mobile version
-
-*   Advertise with us
-*   Agreement and policies
-    *   User agreement
-    *   Privacy policy
-    *   Copyright policy
-    *   Payment policy
-
-© 2006-2012 Depositfiles.com
+DISCLOSURE OF YOUR INFORMATION CAN BE LAWFUL AS A RESULT OF A LEGAL PROCESS.
