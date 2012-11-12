@@ -850,16 +850,16 @@ Top Customer Picks: Pottery Barn \[+\] PBteen \[+\] Pottery Barn Kids \[+\] West
 *   dorm essentials
 *   bean bag chairs
 
-*   furniture
-*   bathroom vanities
-*   personalized gifts
-*   area rugs
-*   christmas ornaments
 *   christmas stockings
-*   wedding registry
-*   accent chairs
-*   christmas decorations
-*   interior design ideas
+*   childrens books
+*   baby diaper bags
+*   personalized baby blankets
+*   toy storage
+*   baby gifts
+*   crib bedding sets
+*   bunk beds
+*   baby registry
+*   baby room ideas
 
 *   furniture
 *   bathroom vanities
