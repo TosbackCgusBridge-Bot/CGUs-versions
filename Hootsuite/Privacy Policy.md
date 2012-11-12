@@ -68,19 +68,19 @@ From the HootSuite Blog Social Media’s Role in the 2012 US Election: Obama Bre
 It looks like President Barack Obama won in more than one way yesterday. The Democratic...  
 Read More
 
+#HootTip: Managing Conversations within your dashboard.
+
+Communication is the most important part of working in a team. HootSuite’s Conversations tool is...  
+Read More
+
+New Webinar with the City of New York – Social City
+
+In the city that never sleeps, neither does social, which is why HootSuite is...  
+Read More
+
 The Business of Social ~ Q &. A with HootSuite VP and Webinar Now Available on Demand
 
 In response to demand on one of our most popular webinars to date, ‘The Business of...  
-Read More
-
-Social Media Compliance ~ An Interview with CMP.LY
-
-One of the biggest risks for brands is losing consumer trust. Transparency can be a...  
-Read More
-
-How to Use Social Video to Drive Results ~ HootSuite University Lecture Series
-
-Inspiring, shocking, cute, sexy, fearful, angry, controversial. These are just a few of the emotive...  
 Read More
 
 About Company Leadership Careers Contact Us Product Features Mobile App Directory Downloads Pricing Services HootSuite University Help Desk Feedback FAQ Translation Project Media Media Kit Press Releases Events Partner Becoming a Partner Solution Partners Integration Partners Affiliates API Legal Terms &. Conditions Privacy Policy ©2012 HootSuite Media Inc. All Rights Reserved. Language: Chinese Traditional (繁體中文)EnglishFrench (Français)German (Deutsch)Indonesian (Bahasa Indonesia)Italian (Italiano)Japanese (日本語)Polish (Język polski)Português (Brasil)Spanish (Español)
