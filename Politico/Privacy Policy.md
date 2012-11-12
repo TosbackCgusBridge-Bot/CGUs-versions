@@ -111,121 +111,129 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/11/2012 8:01 AM ET
+Updated: 11/12/2012 7:01 AM ET
 
-1.  1 6 questions on Petraeus's exit
+1.  1 Media fight on the right over GOP
+2.  2 GOP Senate in 2014 a long shot
+3.  3 The GOP polling debacle
+4.  4 Election causes angst for House GOP
+5.  5 Rove under fire
+6.  6 Rasmussen explains
+7.  7 5 fiscal cliff scenarios
+8.  8 High anxiety on future of new pot laws
+9.  9 'Homeland' star makes Obama Muslim joke
+10.  10 The GOP's media cocoon
+
+Updated: 11/12/2012 7:01 AM ET
+
+1.  1 The GOP polling debacle
 2.  2 Rove under fire
-3.  3 Paula Broadwell in media spotlight
-4.  4 FBI whistle-blower contacted Cantor
-5.  5 Oliver Stone: 'I find Obama scary'
-6.  6 The GOP polling debacle
-7.  7 What's the matter with Florida?
-8.  8 West won't concede
-9.  9 Reports: Probe began with 2 women
-10.  10 No pass for Petraeus
+3.  3 6 questions on Petraeus's exit
+4.  4 Media fight on the right over GOP
+5.  5 FBI whistle-blower contacted Cantor
+6.  6 GOP Senate in 2014 a long shot
+7.  7 Schumer urges Romney to speak up in the future
+8.  8 Rasmussen explains
+9.  9 Election causes angst for House GOP
+10.  10 High anxiety on future of new pot laws
 
-Updated: 11/11/2012 8:01 AM ET
+Updated: 11/12/2012 7:01 AM ET
 
-1.  1 6 questions on Petraeus's exit
-2.  2 Rove under fire
-3.  3 Oliver Stone: 'I find Obama scary'
-4.  4 Paula Broadwell in media spotlight
-5.  5 No pass for Petraeus
-6.  6 Pelosi mum about future
-7.  7 What's the matter with Florida?
-8.  8 Romney's ORCA program sank
-9.  9 Rep. Bono Mack loses Calif. seat
-10.  10 Reports: Probe began with 2 women
+1.  1 Rove under fire
+2.  2 6 questions on Petraeus's exit
+3.  3 The GOP polling debacle
+4.  4 Oliver Stone: 'I find Obama scary'
+5.  5 Media fight on the right over GOP
+6.  6 Paula Broadwell in media spotlight
+7.  7 No pass for Petraeus
+8.  8 What's the matter with Florida?
+9.  9 Pelosi mum about future
+10.  10 FBI whistle-blower contacted Cantor
 
-Updated: 11/11/2012 8:01 AM ET
+Updated: 11/12/2012 7:01 AM ET
 
-1.  1 6 questions on Petraeus's exit
-2.  2 Rove under fire
-3.  3 Oliver Stone: 'I find Obama scary'
-4.  4 Christie: Talks to Obama, emails Mitt
-5.  5 Paula Broadwell in media spotlight
-6.  6 Citing affair, Petraeus resigns at CIA
-7.  7 Pelosi mum about future
-8.  8 Rove: Obama won 'by suppressing the vote'
-9.  9 Romney's fail whale: ORCA the vote-tracker left team 'flying blind' (Updated)
-10.  10 Frum: Republicans lied to by 'conservative entertainment complex'
-
-Updated: 11/11/2012 8:01 AM ET
-
-1.  1 Axelrod: 'They're in deep trouble'
+1.  1 Rove under fire
 2.  2 Early election results, via NBC
 3.  3 6 questions on Petraeus's exit
-4.  4 Rove under fire
-5.  5 Chrysler gives workers day off to vote
-6.  6 Oliver Stone: 'I find Obama scary'
-7.  7 Obama, not-so-happy warrior
-8.  8 Dems' drive to retake House falters
+4.  4 Chrysler gives workers day off to vote
+5.  5 Oliver Stone: 'I find Obama scary'
+6.  6 Obama, not-so-happy warrior
+7.  7 Romney Mormon video goes viral
+8.  8 The GOP polling debacle
 9.  9 The looming GOP civil war
-10.  10 Romney Mormon video goes viral
+10.  10 Christie lashes 'know-nothing, disgruntled' Romney aides
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/11/2012 8:01 AM ET
+Updated: 11/12/2012 7:01 AM ET
 
-1.  1 Media fight on the right over GOP
-2.  2 The GOP polling debacle
-3.  3 FBI whistle-blower contacted Cantor
+1.  1 The GOP's media cocoon
+2.  2 The Senate's 'Manchurian candidates'
+3.  3 5 fiscal cliff scenarios
+4.  4 Climate change, political change
+5.  5 Changing of guard: Vets head to Hill
+6.  6 How GOP freshmen won re-election
+7.  7 Dem PAC made dollars count
+8.  8 Romney campaign's lasting mark
+9.  9 Obama still can't help Middle East
+10.  10 Election causes angst for House GOP
 
-Updated: 11/11/2012 8:01 AM ET
+Updated: 11/12/2012 7:01 AM ET
 
-1.  1 Media fight on the right over GOP
-2.  2 The GOP polling debacle
-3.  3 FBI whistle-blower contacted Cantor
-4.  4 Obama's bold push to win Latinos
-5.  5 6 questions on Petraeus's exit
-6.  6 West won't concede
-7.  7 Norquist: Lame duck tax hike unlikely
-8.  8 Reports: Probe began with 2 women
-9.  9 Paula Broadwell in media spotlight
+1.  1 The GOP's media cocoon
+2.  2 The Senate's 'Manchurian candidates'
+3.  3 5 fiscal cliff scenarios
+4.  4 Climate change, political change
+5.  5 Changing of guard: Vets head to Hill
+6.  6 How GOP freshmen won re-election
+7.  7 Dem PAC made dollars count
+8.  8 Romney campaign's lasting mark
+9.  9 Obama still can't help Middle East
+10.  10 Election causes angst for House GOP
 
-Updated: 11/11/2012 8:01 AM ET
+Updated: 11/12/2012 7:01 AM ET
 
-1.  1 Media fight on the right over GOP
-2.  2 The GOP polling debacle
-3.  3 FBI whistle-blower contacted Cantor
-4.  4 Obama's bold push to win Latinos
-5.  5 6 questions on Petraeus's exit
-6.  6 West won't concede
-7.  7 Norquist: Lame duck tax hike unlikely
-8.  8 Reports: Probe began with 2 women
-9.  9 Paula Broadwell in media spotlight
-10.  10 Obama: Voters agreed with me
+1.  1 The GOP's media cocoon
+2.  2 The Senate's 'Manchurian candidates'
+3.  3 5 fiscal cliff scenarios
+4.  4 Climate change, political change
+5.  5 Changing of guard: Vets head to Hill
+6.  6 How GOP freshmen won re-election
+7.  7 Dem PAC made dollars count
+8.  8 Romney campaign's lasting mark
+9.  9 Obama still can't help Middle East
+10.  10 Election causes angst for House GOP
 
-Updated: 11/11/2012 8:01 AM ET
+Updated: 11/12/2012 7:01 AM ET
 
-1.  1 Media fight on the right over GOP
-2.  2 The GOP polling debacle
-3.  3 FBI whistle-blower contacted Cantor
-4.  4 Obama's bold push to win Latinos
-5.  5 6 questions on Petraeus's exit
-6.  6 West won't concede
-7.  7 Norquist: Lame duck tax hike unlikely
-8.  8 Reports: Probe began with 2 women
-9.  9 Paula Broadwell in media spotlight
-10.  10 Obama: Voters agreed with me
+1.  1 The GOP's media cocoon
+2.  2 The Senate's 'Manchurian candidates'
+3.  3 5 fiscal cliff scenarios
+4.  4 Climate change, political change
+5.  5 Changing of guard: Vets head to Hill
+6.  6 How GOP freshmen won re-election
+7.  7 Dem PAC made dollars count
+8.  8 Romney campaign's lasting mark
+9.  9 Obama still can't help Middle East
+10.  10 Election causes angst for House GOP
 
 Showing Last 7 Days
 
-Updated: 11/11/2012 8:01 AM ET
+Updated: 11/12/2012 7:01 AM ET
 
-1.  1 Rove under fire
-2.  2 How Obama, Boehner could agree
-3.  3 Can Rubio save GOP on immigration?
-4.  4 Republicans ponder way forward
-5.  5 GOP soul-searching: 'Too old, too white, too male'?
-6.  6 Four more for 44
-7.  7 Why 2012 turned small
-8.  8 If Obama loses…
-9.  9 The looming GOP civil war
-10.  10 Obama, not-so-happy warrior
+1.  1 Media fight on the right over GOP
+2.  2 Rove under fire
+3.  3 How Obama, Boehner could agree
+4.  4 Can Rubio save GOP on immigration?
+5.  5 Republicans ponder way forward
+6.  6 GOP soul-searching: 'Too old, too white, too male'?
+7.  7 Four more for 44
+8.  8 Why 2012 turned small
+9.  9 If Obama loses…
+10.  10 The looming GOP civil war
 
 News
 
