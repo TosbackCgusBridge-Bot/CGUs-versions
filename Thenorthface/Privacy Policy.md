@@ -1,6 +1,7 @@
 You must have JavaScript enabled to view this site. Please check your browser settings. Hi Username
 
 *   My Account
+*   VIPeak Rewards
 *   Wish List
 *   Find a Store
 *   Email Updates Sign Up for Email Updates
@@ -492,6 +493,7 @@ Shop Now Shop by Women's
 *   Gift Cards
 *   Outfits
 *   Custom
+*   _New_ VIPeak Rewards
 
 Jackets &. Vests*   Triclimate®
 *   Insulated
@@ -570,6 +572,7 @@ Shop Now Shop by Men's
 *   Gift Cards
 *   Outfits
 *   Custom
+*   _New_ VIPeak Rewards
 
 Jackets &. Vests*   Triclimate®
 *   Insulated
@@ -644,6 +647,7 @@ Shop Now Shop by Kids'
 *   New Arrivals
 *   Best Sellers
 *   Gift Cards
+*   _New_ VIPeak Rewards
 
 Boys'*   Jackets &. Vests
 *   Shirts
@@ -690,6 +694,7 @@ Shop Now Shop by Equipment
 *   Best Sellers
 *   Athlete Picks
 *   Gift Cards
+*   _New_ VIPeak Rewards
 
 Daypacks*   Backpacks
 *   Women's Backpacks
