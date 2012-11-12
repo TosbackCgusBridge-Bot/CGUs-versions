@@ -17,11 +17,11 @@ My Account
     *   Hsn
     *   Counseling
     *   Kmart
-    *   Qvc
     *   Walmart
+    *   Qvc
     *   Windows 7
-    *   Money
     *   Office Max
+    *   Money
     *   Iphone
     *   Digital Cameras
     *   Coffee Makers
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1556 Local Deals
+*   1537 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
