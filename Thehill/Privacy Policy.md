@@ -212,28 +212,28 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Dear Matt Drudge: Stop the race storiesInterior proposal would limit commercial oil shale development on federal landsFBI uncovered Petraeus affair by chanceGallup: 2012 election had the largest gender gap in recorded historyFlorida vote count: Obama wins state
+FBI uncovered Petraeus affair by chanceSen. Sherrod Brown: Karl Rove was 'pathetic' on Election NightA day to renew our commitment to our veteransGay-rights groups push Obama for executive order on discrimination Dem Murphy still leads Rep. West after partial recount in House race
 
 Emailed
 
-Interior proposal would limit commercial oil shale development on federal landsGallup: 2012 election had the largest gender gap in recorded historyDear Matt Drudge: Stop the race storiesObama neutralized Republicans on the economy - and wonFBI uncovered Petraeus affair by chance
+Likely House Judiciary panel chairman is strong opponent of DREAM ActInvestors fear the fallout from electionWithout an agreement, Reid eyes last 2012 effort on Cybersecurity ActFla. certifies victory for Dem Murphy, West refuses to concedeDems face tough questions post-election
 
 Discussed
 
-Dear Matt Drudge: Stop the race storiesInterior proposal would limit commercial oil shale development on federal landsObama wins a second term, calls for national unity in victory speechGallup: 2012 election had the largest gender gap in recorded historyObama says deficit plan must include higher taxes for wealthy
+Dear Matt Drudge: Stop the race storiesOpinion: Here comes the landslideInterior proposal would limit commercial oil shale development on federal landsGallup: 2012 election had the largest gender gap in recorded historyObama says deficit plan must include higher taxes for wealthy
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Rove: Crossroads ‘did good things,’ defends super-PAC’s efforts
-*   10 players to watch on immigration
-*   Fla. certifies victory for Dem Murphy, West refuses to concede
+*   Gingrich: If Obama ‘sincere’ about deficit plan, GOP has to go along
+*   Report: FBI officials learned of Petraeus affair over summer
+*   Dem Murphy still leads Rep. West after partial recount in House race
 
   
 More Briefing Room » Congress Blog
 
-*   Remember the families of our fallen military
-*   Mitt Romney's Latino doomsday prophesy
-*   Obama neutralized Republicans on the economy - and won
+*   Keeping our promise to protect and support our veterans
+*   A day to renew our commitment to our veterans
+*   Our veterans deserve a strong economy
 
   
 More Congress Blog » Pundits Blog
@@ -259,16 +259,16 @@ More Twitter Room » Hillicon Valley
   
 More Hillicon Valley » E2\-Wire (Energy)
 
+*   Ex-Sen. Dorgan doesn’t rule out Obama Energy Secretary post
+*   Schumer urges weather agency to keep Sandy labeled a tropical storm
 *   Interior proposal would limit commercial oil shale development on federal lands
-*   White House says Obama is not planning a carbon tax proposal
-*   GOP Sen.-elect Jeff Flake disavows carbon tax plan
 
   
 More E2\-Wire (Energy) » Ballot Box
 
+*   Rep. Barber takes lead in Arizona race for Giffords's former seat
 *   Rep. Bono Mack concedes defeat
 *   Anti-incumbent group will be back for 2014
-*   George P. Bush eyes campaign in Texas
 
   
 More Ballot Box » On The Money
@@ -280,9 +280,9 @@ More Ballot Box » On The Money
   
 More On The Money » Healthwatch
 
+*   Budget cutters eye healthcare law’s insurance subsidies
 *   Firm investigated amid meningitis outbreak cuts staff
 *   HHS offers states extra time on exchanges
-*   Groups to launch campaign to keep federal research funding
 
   
 More Healthwatch » Floor Action
@@ -301,19 +301,19 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
-*   Report: FBI employee told Rep. Cantor about Petraeus affair
+*   Report: FBI employee told Rep. Cantor about David Petraeus affair
 *   Petraeus resigns as CIA chief over extramarital affair
 *   Morell to testify on Libya attack in place of Petraeus
 
   
 More DEFCON Hill » Global Affairs
 
-*   Benghazi Consulate attack back on front burner in Congress
+*   Obama urges Abbas to abandon push for upgraded UN status
+*   Probe into Benghazi Consulate attack back on front burner in Congress
 *   Obama renews 33-year-old state of emergency with Iran as Senate mulls crippling sanctions
-*   Clinton to travel with Obama to Burma
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Seizing the moment Brent Budowsky Drudge: Stop race stories More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Juan Williams A better Congress A.B. Stoddard Seizing the moment More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
