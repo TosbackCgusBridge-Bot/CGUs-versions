@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Pilates Equipment Resources
+*   Define Isometrics Resources
 
   
-Stay in Touch With SparkPeople **Thanksgiving Survival Guide**
+Stay in Touch With SparkPeople **VIDEO: 15-Minute Desk Workout**
 
-Start planning now! Here's what you need to know so that the only thing you're 'adding on' during this holiday is joy.
+If you spend a lot of time in front of a computer, then this is the workout for you. Target every major muscle group without any equipment!
 
 Read More
 
-*   Pantry staples
-*   How do you fight boredom on the treadmill?
+*   How do you hold yourself accountable?
+*   Do you have a goal after weight loss?
 *   Feeling Embarrassed at the Gym..
-*   Keeping fruits and veggies fresh
-*   Describe the last time you felt proud of yourself.
+*   Whats the 1st thing you noticed w/your weightloss?
+*   Any moderate eaters, exercisers, out there?
 
-View Demo **Forward Lunges**  
-Lunges are one of the best ways to tone your glutes. Are you performing yours correctly? **Stepfanie's Quinoa-Black Bean Casserole**  
-Submitted By: **SP\_STEPF**
+View Demo **Dumbbell Flys**  
+This exercise both strengthens and stretches your chest. **Low-Sodium Breakfast Sausage**  
+Submitted By: **CHEF\_MEG**
 
-An experiment with leftovers yield a delightful, filling vegetarian meal. Full Recipe
+Love your breakfast sausage but can't handle all the sodium? Try this lower sodium version: 25% less fat, and 1/10th of the sodium. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
