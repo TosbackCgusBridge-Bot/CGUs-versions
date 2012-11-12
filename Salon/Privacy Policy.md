@@ -4,16 +4,16 @@ Register Sign in Welcome, Logout
 
 *   Hot Topics
     *   Hot Topics
-        *   2012 Elections
         *   Barack Obama
-        *   Mitt Romney
+        *   2012 Elections
+        *   Fiscal cliff
         *   From the Wires
         *   David Petraeus
+        *   CIA
+        *   Mitt Romney
+        *   Republican Party
         *   Republicans
         *   Books
-        *   Fiscal cliff
-        *   Television
-        *   U.S. Economy
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -194,21 +194,21 @@ About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service 
 
 Take Salon on the go – download our free app now
 
-Current Stories Nation pays tribute to sacrifices of veterans
+Current Stories 220 marijuana cases already dismissed in legalized Washington
 
-News. The country must commit "to serving you as well as you've served us," Obama said in his Veterans Day speech
+News. "There's no point continuing to seek criminal penalties," said prosecutor
 
-Official: Petraeus paramour emailed woman in Florida
+Sotomayor gives Sesame Street some career advice
 
-Politics. An AP source says Paula Broadwell sent harassing emails to a State Department official
+Politics. The Supreme Court Justice breaks the bad news that "princess" is not a viable profession
 
-"Homeland" recap: How it goes
+Your breakup is boring
 
-Entertainment. Carrie, Brody and Saul each have to assume an authoritative position. Can any of them handle the responsibility?
+Entertainment. David Foster Wallace was inspired to write about a breakup. So are a lot of memoirists. It's not always worth it
 
-I found out I'm infertile
+Salman Rushdie and John le Carré reconcile after 15 year feud
 
-Life. Now I'm jealous of other guys who can make women pregnant. I wanted to have a child!
+Life. The British writers regret their verbal battle, which began in 1997
 
 Most Read
 
