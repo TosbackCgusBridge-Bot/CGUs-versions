@@ -1,18 +1,4 @@
-\- ADVERTISEMENT - Home About Company Blog Contact Us Advertise With Us Monday, November 12, 2012 Search Obituaries Advanced Search All US &. CanadaAlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingAlbertaBritish ColumbiaManitobaNew BrunswickNewfoundlandNorthwest TerritoriesNova ScotiaNunavutOntarioPrince Edward IslandQuebecSaskatchewanYukon Territory TodayPast 3 DaysPast 2 WeeksPast 30 DaysPast 6 monthsPast Year2010-20122000-20091990-19991980-19891970-19791960-19691950-19591940-19491930-1939All Records
-
-*     Obituaries &. Guest Books  
-    Celebrate a loved one's life
-*     Memorial Sites  
-    Remember shared legacies
-*     LegacyConnect  
-    Find grief support &. advice
-*     ObitMessenger  
-    Get free obituary alerts
-
-*   Terms Of Use
-*   Privacy Policy
-
-  Privacy Policy Updated: March 2012 Please read the following privacy policy ("Privacy Policy") carefully before using www.legacy.com or any website or application ("App") powered by Legacy.com, Inc. (collectively, the "Services"). 1. What This Privacy Policy Covers 2. General 3. Information We Collect 4. How We Use Your Information 5. Privacy Alert: Your Postings Generally Are Accessible to the Public 6. Children’s Privacy 7. Ownership 8. Security Measures 9. Correcting or Updating Information 10. Opt-Out Procedures 11. Advertising and Links 12. Changes to This Privacy Policy 13. Additional Information Your California Privacy Rights 1. What This Privacy Policy Covers Top
+Privacy Policy Updated: March 2012 Please read the following privacy policy ("Privacy Policy") carefully before using www.legacy.com or any website or application ("App") powered by Legacy.com, Inc. (collectively, the "Services"). 1. What This Privacy Policy Covers 2. General 3. Information We Collect 4. How We Use Your Information 5. Privacy Alert: Your Postings Generally Are Accessible to the Public 6. Children’s Privacy 7. Ownership 8. Security Measures 9. Correcting or Updating Information 10. Opt-Out Procedures 11. Advertising and Links 12. Changes to This Privacy Policy 13. Additional Information Your California Privacy Rights 1. What This Privacy Policy Covers Top
 
 *   This Privacy Policy covers how Legacy.com, Inc. (collectively, "Legacy.com", "we", "us", or "our") treats user or personally identifiable information that the Services collect and receive. If, however, you are accessing this Privacy Policy from a website operated in conjunction with one of our affiliates ("Affiliates"), the privacy policy of the Affiliate will govern unless such policy states otherwise.
 *   Subject to the above, this Privacy Policy does not apply to the practices of companies that Legacy.com, Inc. does not own, operate or control, or to people that it does not employ or manage.
@@ -108,5 +94,3 @@ A California resident who has provided personal information to a business with w
 Legacy.com, Inc. does not share information with third parties for their direct marketing purposes. If, however, you are accessing this Privacy Policy from one of our Affiliate sites, the privacy policy of our Affiliate will apply to the collection of your information unless the Affiliate’s privacy policy specifically states otherwise. You should review the privacy policy of the Affiliate to understand what information may be collected from you and how it may be used.
 
 California customers may request further information about our compliance with this law by emailing Contact Us.
-
-Newspapers |   Funeral Homes Gift Shop ObitMessenger™ Copyright © 1999-2012  Legacy.com  All Rights Reserved   —   820 Davis Street, Suite 210, Evanston, IL 60201 Terms of Use|   Privacy Policy|   Contact Us|   Advertise With Us|   FAQ Legacy.com and its newspaper affiliates publish obituaries for approximately 75 percent of people who die in the U.S. – updated continuously throughout each day – as well as government records for _all_ U.S. deaths. Find an obituary, sign a Guest Book or build an interactive memorial. Get directions to a funeral home, order flowers or donate to charity. Read advice from experts or participate in online discussions. Thanks for visiting Legacy.com – Where life stories live on. We welcome your feedback.
