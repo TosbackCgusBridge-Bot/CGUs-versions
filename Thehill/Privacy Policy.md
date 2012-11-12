@@ -212,105 +212,105 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-FBI uncovered Petraeus affair by chanceSen. Sherrod Brown: Karl Rove was 'pathetic' on Election NightA day to renew our commitment to our veteransGay-rights groups push Obama for executive order on discrimination Dem Murphy still leads Rep. West after partial recount in House race
+FBI uncovered Petraeus affair by chanceDem Murphy still leads Rep. West after partial recount in House raceGay-rights groups push Obama for executive order on discrimination Rep. West thanks supporters, refuses to concede House defeatBases fret as leaders talk of deals on ‘fiscal cliff,’ immigration reform
 
 Emailed
 
-Likely House Judiciary panel chairman is strong opponent of DREAM ActInvestors fear the fallout from electionWithout an agreement, Reid eyes last 2012 effort on Cybersecurity ActFla. certifies victory for Dem Murphy, West refuses to concedeDems face tough questions post-election
+Investors fear the fallout from electionNorquist OK with Boehner tax stanceOpinion: California leading the way to a more functional CongressInterior proposal would limit commercial oil shale development on federal landsBudget-cutters eye healthcare law’s insurance subsidies
 
 Discussed
 
-Dear Matt Drudge: Stop the race storiesOpinion: Here comes the landslideInterior proposal would limit commercial oil shale development on federal landsGallup: 2012 election had the largest gender gap in recorded historyObama says deficit plan must include higher taxes for wealthy
+Dear Matt Drudge: Stop the race storiesOpinion: Here comes the landslideInterior proposal would limit commercial oil shale development on federal landsShift in proportion of white, minority vote could decide Obama-Romney raceGallup: 2012 election had the largest gender gap in recorded history
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Gingrich: If Obama ‘sincere’ about deficit plan, GOP has to go along
+*   Sen. Gillibrand won't compete with Warren for Banking Committee spot
 *   Report: FBI officials learned of Petraeus affair over summer
 *   Dem Murphy still leads Rep. West after partial recount in House race
 
   
 More Briefing Room » Congress Blog
 
-*   Keeping our promise to protect and support our veterans
-*   A day to renew our commitment to our veterans
-*   Our veterans deserve a strong economy
+*   We don't hold the fort down. We keep it from burning down
+*   Democrats: The new party of national security
+*   Unmarried voters, gays and Asian Americans gave Obama edge
 
   
 More Congress Blog » Pundits Blog
 
+*   If you've got it, flaunt it
+*   Still analyzing last week's election
 *   The Drudge debate
-*   Let the poker game begin
-*   Why is Wall Street worried?
 
   
 More Pundits Blog » Twitter Room
 
-*   Twitter wins Election Night
-*   Axelrod suggests a charity for Trump's $5 million offer
-*   Nate Silver becomes social media sensation
+*   Congress thanks service members on Veterans Day
+*   Sen. Cornyn likes 'Argo'
+*   Rep. West thanks supporters, refuses to concede House defeat
 
   
 More Twitter Room » Hillicon Valley
 
+*   Group launches campaign to pressure Obama not to pick Berman for State
+*   News bites: Microsoft and Motorola head to court over patent dispute
 *   Without an agreement, Reid eyes last 2012 effort on Cybersecurity Act
-*   Google braces for antitrust suit following Obama reelection
-*   Google services blocked in China
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Ex-Sen. Dorgan doesn’t rule out Obama Energy Secretary post
-*   Schumer urges weather agency to keep Sandy labeled a tropical storm
-*   Interior proposal would limit commercial oil shale development on federal lands
+*   Axelrod: IEA report proves Obama policies are working
+*   Moody’s predicts Obama will approve Keystone XL pipeline
+*   News bites: Renewables to rival coal for electricity generation by 2035
 
   
 More E2\-Wire (Energy) » Ballot Box
 
+*   Democrat Sinema wins Arizona House race
 *   Rep. Barber takes lead in Arizona race for Giffords's former seat
 *   Rep. Bono Mack concedes defeat
-*   Anti-incumbent group will be back for 2014
 
   
 More Ballot Box » On The Money
 
-*   Business groups look for congressional finish line on Russian trade bill
-*   Norquist OK with Boehner tax stance
-*   Investors fear the fallout from election
+*   Mortgage refinancing bill on hold in Senate
+*   Moody's: Political landscape still a downgrade danger to US credit rating
+*   News bites: Outside the Beltway
 
   
 More On The Money » Healthwatch
 
-*   Budget cutters eye healthcare law’s insurance subsidies
-*   Firm investigated amid meningitis outbreak cuts staff
-*   HHS offers states extra time on exchanges
+*   Global agreement reached on cigarette smuggling
+*   Nursing homes to Congress: Stop looming Medicare cuts
+*   News bites: All about Florida
 
   
 More Healthwatch » Floor Action
 
-*   A closer look at next week…
-*   Senate to hold hearings on Libya terrorist attack, meningitis outbreak
-*   RSC chair Jordan to Obama: Send 'cliff' legislation to Congress
+*   GOP to allow votes on Dem bills changing policies in the US territories
+*   Reid calls for Arizona votes to be counted 'promptly, accurately and equally'
+*   House looks to ease reporting requirements for stimulus, TARP
 
   
 More Floor Action » Transportation
 
+*   Sen. Thune 'pleased' with EU emission fees halt, but fears plan may be revived
+*   Sen. Lautenberg, Amtrak tout NY-NJ tunnel reopening
 *   Auto workers' union: Obama thankful for election support
-*   TSA ratifies contract with government employee union
-*   Mica, Boehner to talk Transportation Committee chairmanship next week
 
   
 More Transportation » DEFCON Hill
 
-*   Report: FBI employee told Rep. Cantor about David Petraeus affair
-*   Petraeus resigns as CIA chief over extramarital affair
-*   Morell to testify on Libya attack in place of Petraeus
+*   Iran claims Turkey backing al Qaeda fighters along Syrian border
+*   Feinstein: FBI should have told Intel panels about Petraeus
+*   Report: Second shooter suspected in Afghan massacre
 
   
 More DEFCON Hill » Global Affairs
 
-*   Obama urges Abbas to abandon push for upgraded UN status
-*   Probe into Benghazi Consulate attack back on front burner in Congress
-*   Obama renews 33-year-old state of emergency with Iran as Senate mulls crippling sanctions
+*   Obama administration doesn't rule out UN probe into drone strikes
+*   US and Venezuela among the 18 nations to win seats on UN human rights body
+*   In bid for ranking spot on Foreign Affairs, Dem Rep. Engel finds GOP support
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS Juan Williams A better Congress A.B. Stoddard Seizing the moment More Columnists »
