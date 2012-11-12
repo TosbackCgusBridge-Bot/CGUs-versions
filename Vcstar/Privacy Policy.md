@@ -382,6 +382,11 @@ Ventura County Star
 *   Cars
 *   Classified
 
+*   Today
+    
+    Sunny, windy weather expected |  Monday Surf Report |  10 to know
+    
+
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -631,25 +636,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Job-based health coverage falls on hard times Published 11/10/2012 at 8:42 p.m. 42 comments
-*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 121 comments
-*   Will: Conservatives, start all over again Published 11/10/2012 at 8:01 p.m. 29 comments
-*   DA, defense lawyers to start reviewing 3-strikes cases after Prop. 36 passage Updated 11/10/2012 at 8:49 p.m. 18 comments
-*   Ventura County representatives know 'fiscal cliff' is on their agenda Published 11/11/2012 at 4:56 p.m. 19 comments
+*   Ventura County representatives know 'fiscal cliff' is on their agenda Published 11/11/2012 at 4:56 p.m. 46 comments
+*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 135 comments
+*   Will: Conservatives, start all over again Published 11/10/2012 at 8:01 p.m. 44 comments
+*   Job-based health coverage falls on hard times Published 11/10/2012 at 8:42 p.m. 51 comments
+*   Ventura man returns to Japan 70 years after World War II imprisonment Published 11/11/2012 at 5:37 p.m. 12 comments
 
-Photo Galleries One restaurant, two cuisines in Ojai Camarillo vs. Harvard-Westlake Election night 2012
+Photo Galleries Camarillo vs. Harvard-Westlake Surfers remember Jack Cantrell CLU wins another SCIAC football title
 
-*   Morning chat Published 11/9/2012 at 12:00 a.m. 263 comments
-*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 121 comments
-*   Obama's support dropped from '08 in east county cities Published 11/8/2012 at 4:49 p.m. 97 comments
+*   Morning chat Published 11/9/2012 at 12:00 a.m. 267 comments
+*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 135 comments
+*   Obama's support dropped from '08 in east county cities Published 11/8/2012 at 4:49 p.m. 99 comments
+*   Job-based health coverage falls on hard times Published 11/10/2012 at 8:42 p.m. 51 comments
 *   Obama: 'We have picked ourselves up,' fought back Published 11/6/2012 at 10:08 a.m. 440 comments
-*   CLU economists expect local income disparity to grow Published 11/9/2012 at 12:01 a.m. 48 comments
 
 *   Authorities warn of "knock knock" burglaries in east Ventura County Published 11/8/2012 at 12:11 p.m. 0 comments
 *   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
 *   18-year-old accused of setting family's basset hound on fire near Camarillo Published 11/9/2012 at 10:13 a.m. 0 comments
 *   Oxnard school principal arrested after alleged road rage incident Published 11/2/2012 at 5:47 p.m. 0 comments
-*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 75 comments
+*   Veterans in Ojai find hope, help through horse therapy Published 11/10/2012 at 9:14 p.m. 5 comments
 
 Weather
 
@@ -657,23 +662,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 49° Fair Wind: E 7mph Today 71° 50° Mon 05:00 PM Clear Temp: 61° Tue 05:00 AM Clear Temp: 50° Tue 05:00 PM Mostly Clear Temp: 62°
+Currently 72° Fair Wind: E 18mph Today 71° 50° Tue 12:00 AM Clear Temp: 54° Tue 12:00 PM Sunny Temp: 74° Wed 12:00 AM Mostly Clear Temp: 53°
 
-Feels Like: 61°
+Feels Like: 54°
 
-Humidity: 35%
-
-Precip: 0%
-
-Feels Like: 50°
-
-Humidity: 46%
+Humidity: 38%
 
 Precip: 0%
 
-Feels Like: 62°
+Feels Like: 74°
 
-Humidity: 41%
+Humidity: 26%
+
+Precip: 0%
+
+Feels Like: 53°
+
+Humidity: 44%
 
 Precip: 3%
 
