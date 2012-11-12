@@ -435,25 +435,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Man arrested after leading deputies on 100 mph chase along U.S. 41 Published 11/11/2012 at 12:08 p.m. 26 comments
-*   Country star LeAnn Rimes gives private concert to 150 in Naples home Published 11/10/2012 at 10:59 p.m. 24 comments
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 267 comments
-*   Despite 9 percent unemployment, state says region has 16,000 open jobs Published 11/11/2012 at 7:00 a.m. 42 comments
-*   Swing state: Razor-thin margin in presidential race proves Florida still divided Published 11/11/2012 at 6:00 a.m. 54 comments
+*   In the Know: Is it legal to bury a deceased pet in my yard, and who do I call to pick up roadkill? Published 11/12/2012 at 5:00 a.m. 19 comments
+*   Man arrested after leading deputies on 100 mph chase along U.S. 41 Published 11/11/2012 at 12:08 p.m. 29 comments
+*   Region's clinics, lawmakers begin preparing for rollout of Obamacare Published 11/12/2012 at 5:20 a.m. 41 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 341 comments
+*   Country star LeAnn Rimes gives private concert to 150 in Naples home Published 11/10/2012 at 10:59 p.m. 27 comments
 
-Photo Galleries LeAnn Rimes performs a private concert Veterans Day 2012 - Naples Rick Scott's Naples home and…
+Photo Galleries Rick Scott's Naples home and… LeAnn Rimes performs a private concert Veterans Day 2012 - Naples
 
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Published 11/9/2012 at 6:10 a.m. 267 comments
-*   Four days later: Obama declared winner of Florida's 29 electoral votes Published 11/10/2012 at 7:08 a.m. 140 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Published 11/9/2012 at 6:10 a.m. 341 comments
+*   Four days later: Obama declared winner of Florida's 29 electoral votes Published 11/10/2012 at 7:08 a.m. 141 comments
 *   CIA Director David Petraeus resigns because of extramarital affair Published 11/9/2012 at 3:08 p.m. 80 comments
 *   Swing state: Razor-thin margin in presidential race proves Florida still divided Published 11/11/2012 at 6:00 a.m. 54 comments
-*   4 more years: Obama wins re-election Published 11/6/2012 at 8:00 a.m. 645 comments
+*   Despite 9 percent unemployment, state says region has 16,000 open jobs Published 11/11/2012 at 7:00 a.m. 44 comments
 
 *   Big land deals again big deal in Southwest Florida, housing expert says Published 11/9/2012 at 5:30 a.m. 16 comments
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 212 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 215 comments
 *   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 142 comments
 *   Plans fizzle for SW Fla energy crop jatropha, company executive indicted Published 11/5/2012 at 8:00 a.m. 5 comments
-*   Court: Valet not liable for letting drunken driver leave Published 11/9/2012 at 5:00 a.m. 45 comments
+*   Country star LeAnn Rimes gives private concert to 150 in Naples home Published 11/10/2012 at 10:59 p.m. 27 comments
 
 Weather
 
@@ -461,23 +461,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 65° Partly Cloudy Wind: NE 5mph Today 81° 67° Mon 08:00 PM Partly Cloudy Showers Temp: 72° Tue 08:00 AM Partly Sunny Showers Temp: 76° Tue 08:00 PM Mostly Clear Temp: 72°
+Currently 80° A Few Clouds Wind: E 16mph Today 81° 67° Tue 03:00 AM Mostly Cloudy Showers Temp: 68° Tue 03:00 PM Partly Sunny Showers Temp: 80° Wed 03:00 AM Mostly Clear Temp: 68°
 
-Feels Like: 72°
+Feels Like: 68°
 
-Humidity: 76%
+Humidity: 87%
 
 Precip: 24%
 
-Feels Like: 76°
+Feels Like: 81°
 
-Humidity: 67%
+Humidity: 56%
 
 Precip: 19%
 
-Feels Like: 72°
+Feels Like: 68°
 
-Humidity: 73%
+Humidity: 84%
 
 Precip: 10%
 
