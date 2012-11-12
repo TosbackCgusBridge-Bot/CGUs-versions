@@ -25,15 +25,16 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
+*   Fiscal Cliff
 *   David Petraeus
-*   Libya: The Truth?
 *   Israel
+*   Taxes
 
 Take Action
 
 Check Out the Hot Posts on TheBlaze Blog!
 
-How Will Obama’s Cabinet Shake Up? See Our Predictions here
+Live BlazeCast at 1pm ET: Do You Buy the Petraeus Timeline?
 
 About TheBlaze
 
@@ -260,9 +261,10 @@ What is this? Sections
 
 Hot Topics
 
+*   Fiscal Cliff
 *   David Petraeus
-*   Libya: The Truth?
 *   Israel
+*   Taxes
 
 More from TheBlaze
 
