@@ -1,5 +1,3 @@
-World's largest selection of UA gear. free shipping on all orders over $49. no code, no sweat.
-
 *   1.888.727.6687
 *   Customer Service
 *    US (change) 
@@ -255,6 +253,7 @@ VIEW CART &. CHECKOUT
     *   Slides &. Sandals
     *   Socks
     *   All Girls' Footwear ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
+
 *   Accessories
     *   Bags &. Backpacks
     *   Socks
@@ -265,7 +264,6 @@ VIEW CART &. CHECKOUT
     *   Protective Gear
     *   Equipment
     *   All Accessories►
-
 *   Outlet
     *   Men's
     *   Women's
@@ -282,7 +280,9 @@ VIEW CART &. CHECKOUT
     *   Youth Movement
     *   Tough Mudder
 
-email my cart page successemail my cart pageshare page successshare pagechange passwordreset passwordregister-completeforgot-password home / customer-service / security-and-privacy-policy SECURITY &. PRIVACY WHEN WAS THIS PRIVACY STATEMENT LAST UPDATED? Last revised: October 19, 2012 WHAT IS YOUR PRIVACY STATEMENT? **PRIVACY STATEMENT:**  
+Free shipping  
+on all orders over $49 no code  
+no sweat email my cart page successemail my cart pageshare page successshare pagechange passwordreset passwordregister-completeforgot-password home / customer-service / security-and-privacy-policy SECURITY &. PRIVACY WHEN WAS THIS PRIVACY STATEMENT LAST UPDATED? Last revised: October 19, 2012 WHAT IS YOUR PRIVACY STATEMENT? **PRIVACY STATEMENT:**  
   
 **Notice To California Residents – Your California Privacy Rights:**  
   
