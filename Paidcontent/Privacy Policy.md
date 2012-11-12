@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-TV now has web-like ad metrics–so why aren’t they being used?
+Do we really need state-funded news entities like the BBC any more?
 
 Stay on top of tech news in your inbox
 
