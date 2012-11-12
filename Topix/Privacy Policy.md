@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
-Iran
+China
 
-Iran VP Steps Up Talk on US
+Changing of the Guard: Hu Jintao's Military Role in China Unce...
 
-Syria
+Mitt Romney
 
-Parents of American journalist missing in Syria say they still...
+Norquist Says Obama Portrayed Romney as a a Poopy-Heada
 
 Politix
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 101,555 • Total comments across all topics: 190,877,258
+Comments made yesterday: 104,467 • Total comments across all topics: 190,905,601
 
 Copyright ©2012 Topix LLC
 
