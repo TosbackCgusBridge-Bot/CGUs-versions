@@ -1,16 +1,3 @@
-**Sign In** Email Password
-
-Forgot your password?
-
-**New to Manta?** Join Free U.S. Companies Worldwide Manta Connect Features Promote Your Business Add Your Company
-
-*   About Manta
-*   Promote Your Business
-*   Find Companies
-*   Advertise on Manta
-*   Press Room
-*   Manta Careers
-
 *   Terms &. Conditions
 *   Privacy Policy
 
@@ -91,38 +78,3 @@ Changes
 We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to our information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from us as well as for special features and services not described in this Policy that may be introduced in the future.  
 
 Last Updated: 6/1/12
-
-Business Topics
-
-*   Small Business
-*   Sales Expertise
-*   Human Resources
-*   Marketing
-*   Franchise
-*   Technology
-
-Browse Companies
-
-*   U.S.
-*   Australia
-*   Canada
-*   UK
-*   Worldwide
-
-Resources
-
-*   Videos
-*   Jobs
-*   White Papers
-*   Site Map
-
-Manta Links
-
-*   About Manta
-*   Contact Manta
-*   Manta Careers
-*   Press Room
-*   FAQ
-*   Advertise With Us
-
-Copyright © Manta Media Inc. All rights reserved   Note: Our Privacy Policy and Terms &. Conditions have changed 6/1/12                 Blog  Twitter  Facebook   Google+ Manta News
