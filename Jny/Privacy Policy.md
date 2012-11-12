@@ -1,35 +1,4 @@
-*   CLEARANCE: UP TO 60% OFF!  
-    Shop Now >.
-*   Save $20 On Your First Purchase of $100 Or More\*  
-    Sign Up for JNY.com Emails >.
-*   Build Your Wardrobe &. Save With JNY Rewards  
-    Enroll Now >.
-
-Welcome (Sign In) My Closet (0 items) Checkout (0 items)  
-
-*    
-    *   Shop By Look
-    *   Easy Care Shirt Shop
-    *   Suit Shop
-    *   Dresses
-    *   Tops
-    *   Bottoms
-    *   Jackets
-    *   Accessories
-    *   Petite
-    *   Plus
-    *   Sale
-*   Great Gifts To Give
-
-*   New Arrivals
-
-*   Wendy's Wisdom
-
-*   As Seen In
-
-*   **JNY**Rewards
-
-Enter keyword... This jny.com web site is a service of JAG Footwear, Accessories and Retail Corporation.  
+This jny.com web site is a service of JAG Footwear, Accessories and Retail Corporation.  
   
 Jones New York respects the privacy of our customers and the users of our website and has instituted the policies and practices described below to ensure that your personal information is handled in a responsible manner. Our online privacy policy describes the types of personal information we may collect from you when you visit our websites or our stores, how we use this information, and when we share it with third parties or our affiliated brands. The information on this website and our privacy policy are subject to change from time to time. Any material changes to our privacy policy and practices will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our website, you consent to the collection and use of this information by Jones New York.  
   
@@ -82,6 +51,4 @@ We may also disclose personal information when we reasonably believe that the la
   
 Jones New York Customer Relations Privacy Policy  
 1129 Westchester Avenue  
-White Plains, NY 10604 Sign-Up &. Save $20 on Your 1st Purchase\* Order by Phone 1 (888) 255-7992 Mobile | Store Locator | Shipping/Tracking | Easy Returns &. Exchanges | Fit Guide | Fabric Glossary | Manage Your Account | Gift Card / Check Balance  
-Site Map | Help/Contact Us | Privacy Policy | Terms of Use | Investor Relations | Careers | The Jones Group Inc. | California Transparency in Supply Chains Act Statement  
-JNY.COM Women's Clothing Women's Suits No-Iron Shirts Plus Size Suits Petite Dresses Skirts Colored Jeans Women's Shoes © 2012 Jones New York. All rights reserved.     Omniture Name: Tracking Data: previewdate
+White Plains, NY 10604
