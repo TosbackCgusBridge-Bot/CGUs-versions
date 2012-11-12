@@ -2,7 +2,7 @@
 *   |
 *   Sign In
 
-ship to: United States | change
+ship to: United States | change $8.95 flat-rate shipping &. free shipping on orders of $175+
 
 *   Women
 *   Men
@@ -17,7 +17,7 @@ ship to: United States | change
 
 *   Shopping Bag
 
-ENJOY FREE SHIPPING ON ANY ORDER WITH CODE FREESHIP. \*details CLOSE X \*Previous purchases are not eligible for this discount. Offer valid in the U.S. and Canada only. Free shipping offer is valid through Sunday, November 11, 2012, 11:59pm ET on Internet orders shipped via regular shipping (3 to 6 business days). Free shipping applies to online-only orders before shipping, handling and taxes are added. Free ground shipping is applied at checkout with promo code FREESHIP. Offer not valid on telephone orders. This offer cannot be combined with any other promotion.
+EXTRA 30% OFF SALE ITEMS WITH CODE MUSTHAVE. IN STORES AND ONLINE. \*details CLOSE X \*Offer valid at jcrew.com and J.Crew retail stores on orders shipping to the U.S. and Canada only. Offer is not valid at jcrewfactory.com or J.Crew Factory stores. Offer does not apply to previous purchases or to the purchase of gift cards. 30% off discount applies to sale items only. Offer valid through Sunday, November 18, 2012, 11:59pm ET. Savings are applied at checkout with code MUSTHAVE. Offer not valid on phone orders. Cannot be combined with any other promotion. Limit one promotional code per order. Details of offer are subject to change.
 
 *   CHECK ORDER STATUS
 *   REGISTRATION Q&A
