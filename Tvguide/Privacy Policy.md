@@ -138,10 +138,10 @@ more popular celebrities Most Popular Movies
 more popular movies Top Videos
 
 1.  The Vampire Diaries
-2.  Arrow
-3.  The Vampire Diaries
-4.  Fringe: How Will the Team Deal...
-5.  The Vampire Diaries
+2.  The Vampire Diaries
+3.  Arrow
+4.  The Vampire Diaries
+5.  Fringe: How Will the Team Deal...
 
 more top videos
 
