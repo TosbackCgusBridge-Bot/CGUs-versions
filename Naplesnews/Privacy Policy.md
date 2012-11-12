@@ -435,25 +435,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Four days later: Obama declared winner of Florida's 29 electoral votes Updated 11/10/2012 at 1:21 p.m. 124 comments
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 200 comments
-*   Judge Turner: Colleagues praise his work as decades on bench end Published 11/10/2012 at 9:00 a.m. 32 comments
-*   Country star LeAnn Rimes gives private concert to 150 in Naples home Published 11/10/2012 at 10:59 p.m. 6 comments
-*   Naked East Naples man accused of undressing passed out woman Published 11/9/2012 at 8:00 p.m. 36 comments
+*   Man arrested after leading deputies on 100 mph chase along U.S. 41 Published 11/11/2012 at 12:08 p.m. 26 comments
+*   Country star LeAnn Rimes gives private concert to 150 in Naples home Published 11/10/2012 at 10:59 p.m. 24 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 267 comments
+*   Despite 9 percent unemployment, state says region has 16,000 open jobs Published 11/11/2012 at 7:00 a.m. 42 comments
+*   Swing state: Razor-thin margin in presidential race proves Florida still divided Published 11/11/2012 at 6:00 a.m. 54 comments
 
-Photo Galleries Immokalee Homecoming King: Julio Loya LeAnn Rimes performs a private concert Prep Football: Venice vs. Naples
+Photo Galleries LeAnn Rimes performs a private concert Veterans Day 2012 - Naples Rick Scott's Naples home and…
 
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 200 comments
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Updated // at : 202 comments
-*   4 more years: Obama wins re-election Updated 11/7/2012 at 12:33 a.m. 645 comments
-*   Four days later: Obama declared winner of Florida's 29 electoral votes Updated 11/10/2012 at 1:21 p.m. 124 comments
-*   CIA Director David Petraeus resigns because of extramarital affair Updated 11/9/2012 at 4:08 p.m. 77 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Published 11/9/2012 at 6:10 a.m. 267 comments
+*   Four days later: Obama declared winner of Florida's 29 electoral votes Published 11/10/2012 at 7:08 a.m. 140 comments
+*   CIA Director David Petraeus resigns because of extramarital affair Published 11/9/2012 at 3:08 p.m. 80 comments
+*   Swing state: Razor-thin margin in presidential race proves Florida still divided Published 11/11/2012 at 6:00 a.m. 54 comments
+*   4 more years: Obama wins re-election Published 11/6/2012 at 8:00 a.m. 645 comments
 
-*   Big land deals again big deal in Southwest Florida, housing expert says Updated // at : 16 comments
-*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Updated // at : 142 comments
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Updated // at : 202 comments
-*   Plans fizzle for SW Fla energy crop jatropha, company executive indicted Updated // at : 5 comments
-*   Court: Valet not liable for letting drunken driver leave Updated 11/9/2012 at 9:20 a.m. 45 comments
+*   Big land deals again big deal in Southwest Florida, housing expert says Published 11/9/2012 at 5:30 a.m. 16 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 212 comments
+*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 142 comments
+*   Plans fizzle for SW Fla energy crop jatropha, company executive indicted Published 11/5/2012 at 8:00 a.m. 5 comments
+*   Court: Valet not liable for letting drunken driver leave Published 11/9/2012 at 5:00 a.m. 45 comments
 
 Weather
 
@@ -461,40 +461,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 62° Mostly Cloudy Wind: NE 5mph Today 80° 66° Sun 08:00 PM Mostly Clear Temp: 70° Mon 08:00 AM Partly Sunny Temp: 76° Mon 08:00 PM Mostly Clear Temp: 72°
-
-Feels Like: 70°
-
-Humidity: 71%
-
-Precip: 3%
-
-Feels Like: 76°
-
-Humidity: 65%
-
-Precip: 14%
+Currently 65° Partly Cloudy Wind: NE 5mph Today 81° 67° Mon 08:00 PM Partly Cloudy Showers Temp: 72° Tue 08:00 AM Partly Sunny Showers Temp: 76° Tue 08:00 PM Mostly Clear Temp: 72°
 
 Feels Like: 72°
 
-Humidity: 71%
+Humidity: 76%
+
+Precip: 24%
+
+Feels Like: 76°
+
+Humidity: 67%
+
+Precip: 19%
+
+Feels Like: 72°
+
+Humidity: 73%
 
 Precip: 10%
 
 More Weather » Calendar
 
-*   Sunday Nov 11
 *   Monday Nov 12
 *   Tuesday Nov 13
+*   Wednesday Nov 14
 *   More BROWSE Icon
-
-*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
-*   7th Annual Sanibel Island Writers Conference Sanibel Island 7:30 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   FREE Admission to Veterans and their Families Edison and Ford Winter Estates 8 a.m.
-*   Laughter Yoga Bija Yoga 9 a.m.
-
-More Events »
 
 *   TIF 2012 Charity Classic Pro-Am Bay Colony Golf Club 7:30 a.m.
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
@@ -509,6 +501,14 @@ More Events »
 *   Barrier Islands Guided Walk Bowditch Point Recreational Park 9:30 a.m.
 *   Understanding Technology – Phones, Kindles, Nooks, iPads, Tablets, PC’s &. Macs FGCU Naples Center 10 a.m.
 *   Oil painting with Christine Rosen Gallery and Studios 10 a.m.
+
+More Events »
+
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Yamuna Body Rolling Class Etudes de Ballet 8:50 a.m.
+*   Walking Tour: Naples Historic District Palm Cottage - Naples Historical Society 9 a.m.
+*   Guided Kayak Trip Rookery Bay Environmental Learning Center 9 a.m.
+*   Baby boot camp Miromar Outlets 9 a.m.
 
 More Events »
 
