@@ -1,4 +1,4 @@
-*   $39 &. $59 DRESSES!  
+*   CLEARANCE: UP TO 60% OFF!  
     Shop Now >.
 *   Save $20 On Your First Purchase of $100 Or More\*  
     Sign Up for JNY.com Emails >.
@@ -19,6 +19,8 @@ Welcome (Sign In) My Closet (0 items) Checkout (0 items)  
     *   Petite
     *   Plus
     *   Sale
+*   Great Gifts To Give
+
 *   New Arrivals
 
 *   Wendy's Wisdom
