@@ -73,11 +73,11 @@ What's Hot
 
 NFL Schedule
 
-VIDEO: _NCIS_' 10th Anniversary
+Bieber's Next Girlfriend
+
+Who Are the Sexiest Soap Stars? Vote!
 
 Shocking Celeb Breakups
-
-Ariel Winter
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -137,10 +137,10 @@ more popular celebrities Most Popular Movies
 
 more popular movies Top Videos
 
-1.  Arrow
-2.  The Vampire Diaries
+1.  The Vampire Diaries
+2.  Arrow
 3.  The Vampire Diaries
-4.  Exclusive 666 Park Avenue Snea...
+4.  Fringe: How Will the Team Deal...
 5.  The Vampire Diaries
 
 more top videos
