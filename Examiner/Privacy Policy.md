@@ -105,15 +105,15 @@ We reserve the right to update or modify this Privacy Policy, at any time and wi
 
 Follow UsTwitter
 
-*   Gadget deal of the day Nov 8, 2012: JVC 1080p LCD TV on Woot t.co/V47xN0b0
+*   Video: 50 Cent hits up QVC and sells out headphones in minutes t.co/Oslgeksf
     
-    2 hours ago
-*   Chris Matthews apologizes: 'I said something terrible': Chris Matthews apologized on Wednesday night's episode o... t.co/dNeTdqdh
+    35 minutes ago
+*   Nine easy steps for carving a turkey on #Thanksgiving t.co/F5W4GtuH
     
-    3 hours ago
-*   Everything that was happening was perfect t.co/ZXkRcJjm
+    39 minutes ago
+*   Cost of #Sandy reaches $50 billion dollars t.co/GexBwLML
     
-    3 hours ago
+    52 minutes ago
 
 © 2006-2012 Clarity Digital Group LLC d/b/a Examiner.com. About examiner.com
 
