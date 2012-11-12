@@ -409,9 +409,9 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     *   Guide to Grains
     
-    2 DAYS ONLY
+    EXTENDED
     
-    Save 20% on Favorite Fall Foods through 11/11/12.
+    Save 20% on Favorite Fall Foods through 11/12/12.
     
     Shop Now 
     
