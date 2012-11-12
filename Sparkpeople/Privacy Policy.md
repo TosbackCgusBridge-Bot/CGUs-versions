@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Define Isometrics Resources
+*   Primrose Property Resources
 
   
-Stay in Touch With SparkPeople **VIDEO: 15-Minute Desk Workout**
+Stay in Touch With SparkPeople **Site Maintenance Tonight**
 
-If you spend a lot of time in front of a computer, then this is the workout for you. Target every major muscle group without any equipment!
+SparkPeople and all of our sister websites (including SparkRecipes and dailySpark) will be down for routine maintenance tonight from 11 p.m. to 5 a.m. EST (eastern standard time). Thanks for understanding!
 
 Read More
 
-*   How do you hold yourself accountable?
 *   Do you have a goal after weight loss?
-*   Feeling Embarrassed at the Gym..
-*   Whats the 1st thing you noticed w/your weightloss?
+*   Pantry staples
+*   Healthy snack ideas for under 100 calories?
+*   Vegetables- yuck!
 *   Any moderate eaters, exercisers, out there?
 
 View Demo **Dumbbell Flys**  
-This exercise both strengthens and stretches your chest. **Low-Sodium Breakfast Sausage**  
+This exercise both strengthens and stretches your chest. **Best Chicken Soup**  
 Submitted By: **CHEF\_MEG**
 
-Love your breakfast sausage but can't handle all the sodium? Try this lower sodium version: 25% less fat, and 1/10th of the sodium. Full Recipe
+The perfect soup to warm your belly on a cold night or soothe you when you're sick. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
