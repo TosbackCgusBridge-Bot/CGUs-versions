@@ -722,7 +722,6 @@ Y*   Books + Media
             *   Sleepwear, Loungewear
         *   open Women
             *   Beachwear
-            *   Blouse Tops
             *   Activewear
             *   Lingerie
             *   Pants
@@ -751,7 +750,6 @@ Y*   Books + Media
             *   Underwear
         *   open Women
             *   Beachwear
-            *   Blouse Tops
             *   Cardigan Sweaters
             *   Activewear
             *   Outfits
@@ -871,7 +869,6 @@ Y*   Books + Media
         *   Duffel, Sports Bags
         *   Handbags, Totes and Wallets
         *   Travel Collection
-        *   Lunch Totes
     *   open Toys + Sports
         *   open More
             *   Animated Novelty
@@ -895,6 +892,7 @@ Y*   Books + Media
     *   open Home Improvement
         *   Wall Borders, Appliques
         *   Tools
+        *   Cleaning Supplies
         *   Auto Accessories
         *   Household Helpers
         *   Home Security
@@ -1018,6 +1016,7 @@ Y*   Books + Media
         *   Kitchen and Dining
     *   open Storage
         *   Seasonal
+        *   Cabinet Storage
         *   Bathroom
         *   Furniture
         *   Household
@@ -1063,10 +1062,12 @@ Y*   Books + Media
         *   T Shirts
         *   Underwear
     *   open Kids
+        *   Underwear Basics
         *   Coats, Jackets
         *   T Shirts
         *   Dresses, Skirts
         *   Pants
+        *   Shirts
         *   Sweatshirts
         *   Sleepwear
     *   Baby
@@ -1105,6 +1106,7 @@ Y*   Books + Media
     *   open Storage + Organization
         *   Bowls
         *   Household Organization
+        *   Cabinet
         *   Countertop Accessories
     *   Appliances
     *   open Baking + Cooking
@@ -1181,6 +1183,7 @@ Y*   Books + Media
     *   Lunch Totes
 *   Electronics
 *   open Storage
+    *   Cabinet Storage
     *   Bathroom
     *   Furniture
     *   Closet
