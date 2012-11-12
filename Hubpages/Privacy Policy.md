@@ -1,12 +1,3 @@
-HubPages
-
-*   explore
-    *   hubs
-    *   answers
-    *   forums
-*   sign in
-*   join now
-
 HubPages Privacy Policy
 
 This Privacy Policy was last updated on November 18, 2011, and is effective November 25, 2011. See the bottom of this page for recent changes to this Privacy Policy.
@@ -100,22 +91,3 @@ September 20, 2010: We moved our explanation of how we disclose your User Conten
 December 10, 2009: We revised Section 4 to clarify the information that third-party advertisers may collect on the Service.
 
 November 19, 2009: We made changes throughout the Privacy Policy. Please review the amended Privacy Policy carefully. Among other things, we added a provision to Section 3 explaining how we may share your Personally Identifiable Information with our service providers. explained how third-party advertisers use your information in Section 4. clarified our security policy in Section 6. and deleted a provision about international users that is covered in our Terms of Use.
-
-HubPages
-
-*   about us
-*   blog
-*   advertise
-*   faq
-*   link to this page
-*   copyright
-
-Copyright © 2012 HubPages Inc. and respective owners. All rights reserved.
-
-Other product and company names shown may be trademarks of their respective owners.
-
-HubPages® is a registered Service Mark of HubPages, Inc.
-
-terms of use privacy policy (0.02 sec)
-
-working
