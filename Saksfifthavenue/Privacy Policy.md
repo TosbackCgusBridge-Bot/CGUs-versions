@@ -1,6 +1,6 @@
 *   Saks Fifth Avenue
 
-*   EXTENDED SALE: We've Taken up to 40% off  Shop Now
+*   EXTENDED SALE: We've Taken up to 40% Off  Shop Now
 *   SaksFirst Triple Points + get 25,000 Bonus Points  Details
 
 CLOSE
@@ -18,6 +18,13 @@ CLOSE
 \*\*To receive 25,000 bonus points offer, total spend must be at least $2500 or more in jewelry. Please allow 8-10 weeks for bonus points to be credited to your account.
 
   
+  
+CLOSE Enjoy a special treat from saks.com: Online only: November 13 Shop Today and Earn a **SAKS GIFT CARD\***  
+Just enter code **NOV2012** at checkout Designer Exclusions: Akris, Alexander McQueen apparel, shoes, and handbags, Ann Demeulemeester, Bottega Veneta handbags, Brian Atwood, Brioni, Brunello Cucinelli, Burberry shoes, Camilla Skovgaard, Cartier, Christian Louboutin, Comme des Garcons apparel, Costume National, David Yurman, Derek Lam apparel and handbags, Dior, Edmundo Castillo, Emilio Pucci apparel, Etro apparel, Fendi, Givenchy shoes, Gucci, Issey Miyake apparel, Jil Sander, Jimmy Choo shoes and handbags, Junya Watanabe apparel, MCM handbags, Manolo Blahnik, Mario Schwab apparel, Marni apparel, Miu Miu, Nina Ricci apparel, Oscar de la Renta apparel and shoes, Peter Pilotto apparel, Peter Som apparel, Prada, Prada Sport, Proenza Schouler apparel, Ralph Lauren shoes, men's Ralph Lauren Black Label, Reed Krakoff, Saddler's Union handbags, Sergio Rossi, Stella McCartney, Thakoon apparel, Valentino, Yves Saint Laurent shoes, Zegna.  
+  
+  
+  
+\*ONLINE ONLY GIFT CARD OFFER NOT VALID ON PRE-ORDER ITEMS OR SAKS FASHIONFIX MERCHANDISE. LIMIT OF FIVE PROMO CODES PER ORDER. Valid on Saks.com purchases from Tuesday, November 13, 2012 12:01AM (ET) through Thursday, November 15, 2012 11:59PM (ET). Excludes Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, gift card, and Saks employee purchases. Designer exclusions apply. No adjustments to prior purchases. Valid on shipments to US addresses only. Not valid on international shipments. Gift cards valid through December 31, 2012 and are redeemable in Saks Fifth Avenue stores and on Saks.com. Adjustments will be made to the gift card for returned merchandise. Limit 1 gift card per person. Gift card will be shipped with merchandise. Total spend excludes gift wrap, pre-order merchandise, taxes and shipping. Enter promotional code: NOV2012 at checkout. Code valid once per customer.  
   
 
 *   $9.99 USD Standard Shipping and $19.99 USD Express Shipping to the UK and Canada on orders of $99 USD and more with code: **UKCAN12** Details
@@ -71,6 +78,10 @@ Click here for additional shipping and tax information.
 *   Fashion Fix
 *     ? Items  
 
+IN ORDER TO USE ALL OF THE SITE FUNCTIONALITY ON THE SAKS FIFTH AVENUE WEBSITE,  
+YOU MUST HAVE **JAVASCRIPT ENABLED** ON YOUR BROWSER.  
+For instructions to enable JavaScript, click here.  
+  
 **24/7 Customer Service:** Live Chat  •  Email  • 1.877.551.7257 Our Privacy Policy &. Our Website Terms Of Use Our Privacy Policy  •  Our Website Terms Of Use Our Privacy Policy  
 Last updated October 8, 2012.  
   
