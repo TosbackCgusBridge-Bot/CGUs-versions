@@ -196,6 +196,7 @@ shop zales outlet ZalesZales Outlet
         *   Pulsar
         *   Seiko
         *   Skagen
+        *   Personalized
     *   Gender
         *   Ladies'
         *   Men's
