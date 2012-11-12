@@ -98,7 +98,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     30 Ways To Save Money Over Winter Break
 *   entertainment
     
-    Selena And Justin Break Up
+    The Biggest _Twilight_ Moments
 *   fashion
     
     Holiday Outfits Under $50
@@ -108,7 +108,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win a Juicy Couture gift set from Sephora. Type in the Freebie Phrase of the Day, found in the November Issue!
+**1 Winner!** Enter for a chance to win Demeter Fragrance Library's exotic dragron fruit fragrance. Type in the Freebie Phrase of the Day, found in the November Issue!
 
  enter now 
 
