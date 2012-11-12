@@ -321,7 +321,7 @@ friend
 *   Privacy Statement
 *   Contact FragranceNet.com
 
-Customer Service Code: 83B
+Customer Service Code: 83A
 
 More about FragranceNet.com
 
