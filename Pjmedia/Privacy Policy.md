@@ -115,24 +115,24 @@ _Privacy Statement last updated February 15, 2010._
 
 Advertisement  
 
-*   San Diego Muslim man arrested for brutal murder of his wife was US Army Islamic cultural adviser
-*   Israel Fires Warning Shot Into Syria
-*   “When people like me stay quiet…”
+*   Allen West Challenges Florida Vote Count
+*   Good News, Angelenos: Your City Council Has Weighed In On Your Diet
+*   Hillary Clinton Dodges Benghazi Testimony
 
 More  
 
+*   When Marxists Make the Anti-Family Argument Honestly
+*   Should Doctors Lie to Their Patients About Their Survival Chances?
 *   James McAvoy to Join Dreamworks’ Wikileaks Film?
-*   Armistice Day and The Forgotten Symbolism of the Poppy
-*   13 Weeks: Week One — Endorphins Are Our Friends
 
 More
 
-*   It’s Not the Economy, Stupid
+*   It's the Culture, Stupid: Facing the Long Road Ahead
+*   13 Weeks: Week One -- Endorphins Are Our Friends
 *   Missing the Boat
-*   Feet of Clay
 
-More   TAX FOUNDATION: The Fiscal Cliff: A Primer. EUROPEAN UNION DELEGATION hacked at Web security conference in Azerbaijan. HOW’S THAT HOPEY-CHANGEY STUFF WORKIN’ OUT FOR YA? (CONT’D): Foodstamps Surge By Most In One Year To New All Time Record, In Delayed Release. “While there had been speculation that the BLS may delay the release of its October nonfarm payroll number until after the election, it turned out there was no reason to worry. Perhaps this is because the number, while at stall speed, was not quite as horrible as some had expected (even if the change in average hourly earnings did tumble to new all time lows) and so boosted Obama’s reelection chances. There was, however, another closely tracked number which perhaps is far more indicative of the economic “growth” in the past 4 years, which certainly had a delayed release. The number of course is that showing how many Americans are on foodstamps, and usually is released at the end of the month, or the first day or two of the next month. This time the USDA delayed its release nine days past the semi-official deadline, far past the election, and until Friday night to report August foodstamp data. One glance at the number reveals why: at 47.1 million, this was not only a new all time record, but the monthly increase of 420,947 from July was the biggest monthly increase in one year. One can see why a reported surge in foodstamps ahead of the elections is something the USDA, and the administration may not have been too keen on disclosing.” ... More Advertisement
+More   THE BENEFITS OF marrying later in life. CHARLIE MARTIN REPORTS ON HIS WEIGHT-LOSS PROGRAM: 13 Weeks: Week One — Endorphins Are Our Friends. RON RADOSH: It’s The Culture, Stupid. More Advertisement
 
 Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
 
-Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb2
+Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.46 PJMWeb1
