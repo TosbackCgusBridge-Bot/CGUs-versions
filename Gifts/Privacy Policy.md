@@ -1,4 +1,4 @@
-Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! Create a Winter Wonderland Pinterest Board through December 20th for your chance to win $1000! Well choose a winner December 21st. Learn More Vote for the Best Gifts of 2012 &. You Could Win $1000! Learn More
+Search for Gifts FIND NOW Fall ContestsWin $1000 and More X Win $1000 and more! Create a Winter Wonderland Pinterest Board through December 20th for your chance to win $1000! Well choose a winner December 21st. Learn More You voted for the Best Gifts of 2012. Now see what made the Top 10 in each category! Learn More
 
 *   Christmas
     
