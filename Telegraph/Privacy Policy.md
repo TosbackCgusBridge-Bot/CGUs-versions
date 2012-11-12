@@ -142,11 +142,13 @@ For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Britain falls silent in memory of its fallen  
+  'For me, earnestness is the greatest crime'
 
-**Remembrance Sunday:** Britain’s war memorials are not dead things, reports **Neil Tweedie** from the Cenotaph.
+Artist and potter Grayson Perry – a national treasure in the making – talks to **James Walton** about class, frocks and Damien Hirst
 
-Using Facebook to protect your child from bullying Michael McIntyre: 'Maybe people just can’t cope with how jovial I am' Farewell to our warrior nation Remembrance Day: In Search of Lost Time Advertisement
+Comments
+
+Jeanette Winterson: The Moomins and me Michael McIntyre: 'Maybe people just can’t cope with how jovial I am' Using Facebook to protect your child Farewell to our warrior nation Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
