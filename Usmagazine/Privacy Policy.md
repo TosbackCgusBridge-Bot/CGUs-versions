@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Team Jacob »
+Hot Pics! Fashionable Sisters »
 
-Top Stories1.  NEW PICTURES: Matthew McConaughey Looks More Skeletal Than Ever »
-2.  Jake Gyllenhaal Holds Hands With Mystery Girl »
-3.  Sally Field: I Lost and Gained 25 Pounds While Making Lincoln »
-4.  Justin Bieber, Selena Gomez Split »
-5.  FIRST PICTURES: Meet Reese Witherspoon's Baby Son Tennessee! »
+Top Stories1.  Justin Bieber Speaks Out on Selena Gomez Split »
+2.  Exclusive Vanessa Minnillo Made "Rookie Mistakes" Changing Camden's Dirty Diaper »
+3.  Pregnant Holly Madison Enjoys Babymoon at Disney World »
+4.  Anne Hathaway Slams Katie Holmes on Saturday Night Live »
+5.  Somber Selena Gomez Surfaces in L.A. After Justin Bieber Split »
 
  
 
@@ -177,9 +177,9 @@ Inside Us Weekly
 
 *   Style Christina Aguilera Flashes Leopard Bra Under
 *   Beauty Christa B. Allen: What's in My Bag?
-*   Moms Nick and Vanessa's Birthday: See Son Camden's
+*   Moms Pregnant Holly Madison Enjoys Babymoon at Dis
 *   Body NEW PICTURES: Matthew McConaughey Looks More  
-*   Entertainment Chris Hardwick: Hollywood's 1st Nerd!
+*   Entertainment Weekend Box Office: Skyfall Is Biggest Bond M
 
 *   US WEEKLY
 *   Celebrity News
