@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   The Week Of The Tight End Nov 12
+*   Sunday Injuries: F-Jax Exits Nov 12
+*   Watch Texans - Bears LIVE Nov 11
+*   Week 10 Live Blog Nov 11
+*   Week 10 Rankings Nov 11
+*   Matchups: Dez'll Do It Nov 11
 *   Week 10 Injury Questions Nov 10
 *   Best Available NFL Free Agents Nov 10
-*   Friday Rundown Nov 9
-*   Week 10 Rankings Nov 9
-*   Matchups: Dez'll Do It Nov 9
-*   Running Luck Nov 9
-*   Week 10 Live Chat Nov 8
-*   Week 10 Target Watch: AFC Nov 8
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Report: Hernandez 'will not play' vs. Bills
-*   Report: Harvin (ankle) ruled out for Week 10
-*   Mark Ingram just now getting to peak form?
-*   Report: Antonio Brown may 'miss a few games'
-*   Redman to get the start for Steelers on MNF
-*   Pats list 14 players 'questionable' for Wk 10
-*   Report: Eli Manning experiencing 'tired arm'
-*   Lynch (wrist, back) probable for Week 10
-*   Pats RB Bolden hit with 4-gm PED suspension
-*   Kubiak: Owen Daniels 'very limited very sore'
-*   Vikings leaving door open for Harvin to play
-*   Saints rule out Darren Sproles versus Atlanta
+*   Marshall posts an 8/107/0 line in SNF loss
+*   Foster leads Texans to SNF victory over Bears
+*   Cutler has concussion. won't play second half
+*   Eagles are not expected to fire Andy Reid yet
+*   Reid: Michael Vick will start if he's healthy
+*   DeMarco Murray still hasn't passed testing
+*   Raiders TE Myers suffers Week 10 concussion
+*   Fred Jackson sustained a head injury Sunday
+*   Amendola shines, catches 11 passes in return
+*   Rex Ryan vows to stick with reeling Sanchez
+*   Dez Bryant leads Cowboys with 87 yards, TD
+*   Lynch beastmodes for 151 yards, TD in victory
 
 NBA PAGES
 
@@ -134,14 +134,14 @@ NBA PAGES
 
 COLUMNS
 
+*   Dose: Bass, Celtics Play 5 Nov 12
+*   NBA Chat: Monday @ 12:30 ET Nov 11
+*   Wired: Top NBA Pickups Nov 11
 *   Dose: Lakers in Transition Nov 10
 *   DeAndre the Giant Nov 9
 *   Dose: Serge Ibaka Explosion Nov 9
 *   NBA Live Chat Thursday Nov 8
 *   Dose: Big Wednesday Nov 8
-*   Dose: Kyle Lowry Lowdown Nov 7
-*   Dose: Waiters Explosion Nov 6
-*   Dose: Josh Smith iffy w/ ankle Nov 5
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   LeBron James (knee) expects to play Sunday
+*   Shocker: Mike D'Antoni to coach Lakers
+*   Jason Richardson (ankle) should play Monday
+*   Griz beat Heat behind Ellington's seven 3s
+*   Kevin Love (hand) targeting early December
+*   Chase Budinger needs surgery on torn meniscus
+*   DeMarcus Cousins suspended two games
+*   Humphries goes for 14 points and 21 boards
+*   J.J. Redick starts at shooting guard vs. Nets
+*   Gerald Wallace (ankle) out again on Sunday
 *   Gary Neal scores career-high 27 pts off bench
 *   Jamaal Tinsley hands out 14 assists vs. Suns
 *   Dwyane Wade (illness) will play on Sunday
-*   X-rays negative for Chase Budinger (knee)
-*   Michael Kidd-Gilchrist goes off on Saturday
-*   Kemba steals 8 in Bobcats' 1st win vs. Dallas
-*   A.J. Price double-doubles w/ 12 pts, 14 ast
-*   Kirk Hinrich strains hip, iffy to return
-*   Tony Parker (flu) will not play Saturday
-*   Brandon Jennings will not be suspended
-*   Terry &. Bass start for Celts, C-Lee to bench
 
 NHL PAGES
 
@@ -185,6 +185,7 @@ NHL PAGES
 
 COLUMNS
 
+*   Jordan Eberle &. Chad Billins Nov 12
 *   Bruins Tops in Swiss League Nov 9
 *   Strome Raising his Game Nov 6
 *   Horak, Schenn and more! Nov 5
@@ -192,7 +193,6 @@ COLUMNS
 *   Graovac Makes Wild Proud! Oct 30
 *   Four studs and a Minor Leaguer Oct 29
 *   Omark and Brunner Burning! Oct 27
-*   The Lipon &. MacKinnon Show Oct 24
 
 PREMIUM CONTENT
 
@@ -207,6 +207,7 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Donald Fehr doesn't "see path for agreement"
 *   Blake Geoffrion (skull) in stable condition
 *   Nathan Horton's agent: "He's ready to play"
 *   Joe Colborne healthy scratch Friday
@@ -218,7 +219,6 @@ FANTASY HOCKEY NEWS
 *   Labor talks will resume today, newspaper says
 *   Justin Faulk primed for breakout season
 *   Chris Bourque continues to lead Baby B's
-*   Stefan Noesen a force with four points
 
 NASCAR PAGES
 
@@ -229,6 +229,7 @@ NASCAR PAGES
 
 COLUMNS
 
+*   Wrap-up: Phoenix Int'l Raceway Nov 11
 *   Mid-Pack: AdvoCare 500 Nov 8
 *   The AdvoCare 500 Nov 7
 *   Wrap-up: Fort Worth Nov 4
@@ -236,7 +237,6 @@ COLUMNS
 *   The AAA 500 Oct 30
 *   Wrap-up: Martinsville Speedway Oct 28
 *   Mid-Pack: Tums Fast Relief 500 Oct 25
-*   The Tums Fast Relief 500 Oct 23
 
 PARTNERS
 
@@ -245,6 +245,10 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Kyle Busch’s team won Phoenix race awards
+*   Kevin Harvick’s team won Phoenix race awards
+*   Jeff Burton won USG Improving Finish award
+*   Kevin Harvick wins AdvoCare 500 in Phoenix
 *   Logano’s NNS team wins Phoenix race awards
 *   Austin Dillon wins race awards at Phoenix
 *   Jason Bowles big Nationwide Series gainer
@@ -253,10 +257,6 @@ FANTASY NASCAR NEWS
 *   Kyle Larson wins Mobil 1 driver award
 *   Ryan Blaney big gainer in Truck Series
 *   Cale Gale top NCWTS rookie at Phoenix
-*   Brian Scott wins Lucas Oil 150 in Phoenix
-*   J.J. Yeley misses AdvoCare 500 field
-*   Nemechek gets last Cup slot at Phoenix
-*   McDowell top Phoenix Cup go-or-go-homer
 
 GOLF PAGES
 
@@ -268,6 +268,7 @@ GOLF PAGES
 
 COLUMNS
 
+*   See You Real Soon! Nov 11
 *   Grand Finale Nov 6
 *   Poulter's Playground Nov 4
 *   2012 Web.com Tour Graduates Nov 2
@@ -275,7 +276,6 @@ COLUMNS
 *   60-Wat? Oct 28
 *   Go East, Young Men Oct 23
 *   Two Gloves, One Win Oct 21
-*   Saint of Circumstances Oct 16
 
 PARTNERS
 
@@ -285,8 +285,11 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
-*   Beljan perseveres. stakes 2-stroke CMNHC lead
-*   Beljan labors thru health scare. leads CMNHC
+*   Jerry Kelly expected to burn top-25 exemption
+*   Teater pars 72nd hole. final card to Chappell
+*   Beljan overcomes adversity to win the CMNHC
+*   McIlroy clinches Race to Dubai 3 weeks early
+*   Manassero emerges on a long day in Singapore
 *   Wi maximizes on his chances to lead the CMNHC
 *   Holmes WDs from Disney. solid season ends
 *   Barber's DQ benefits Lafeber, five others
@@ -294,9 +297,6 @@ FANTASY GOLF NEWS
 *   Poulter emerges at the WGC-HSBC Champions
 *   Tianlang, 14, wins Asian Am and Masters berth
 *   Oosthuizen fades. settles for 54-hole co-lead
-*   Westwood matches career low to lead WGC-HSBC
-*   Snedeker cards 60 in his third round in China
-*   McDowell admits having dust-up...with a door
 
 NFL DRAFT PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Senior Prospect Rankings Nov 11
 *   Week 11 Matchup Preview Nov 9
 *   Denard's NFL Projection Nov 7
 *   Mauti Morphing Linebacker Nov 5
@@ -318,7 +319,6 @@ COLUMNS
 *   Week Ten Matchup Preview Nov 2
 *   Midseason Mock Draft Nov 1
 *   Geno's Learning Process Oct 31
-*   General Patton Oct 29
 
 PARTNERS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Report: Hernandez 'will not play' vs. Bills
-*   CFB:Marquess Wilson cites 'abuse' at Wash St.
-*   NFL:Report: Harvin (ankle) ruled out for Week 10
-*   NHL:Blake Geoffrion (skull) in stable condition
-*   MLB:Dodgers win bidding for LHP Ryu Hyun-Jin
-*   NAS:Ninth 2012 Nationwide Series win for Logano
-*   NFL:Report: Antonio Brown may 'miss a few games'
-*   CFB:Former Vol WR Rogers will enter 2013 Draft
-*   NFL:Redman to get the start for Steelers on MNF
-*   MLB:Red Sox sign David Ross to two-year deal
-*   NBA:LeBron James (knee) expects to play Sunday
-*   NBA:Gary Neal scores career-high 27 pts off bench
+*   NBA:Shocker: Mike D'Antoni to coach Lakers
+*   NFL:Marshall posts an 8/107/0 line in SNF loss
+*   NFL:Foster leads Texans to SNF victory over Bears
+*   NFL:Cutler has concussion. won't play second half
+*   NFL:Eagles are not expected to fire Andy Reid yet
+*   NFL:Amendola shines, catches 11 passes in return
+*   NFL:Reid: Michael Vick will start if he's healthy
+*   NFL:DeMarco Murray still hasn't passed testing
+*   NFL:Fred Jackson sustained a head injury Sunday
+*   NBA:DeMarcus Cousins suspended two games
+*   NAS:Kevin Harvick wins AdvoCare 500 in Phoenix
+*   NFL:Rex Ryan vows to stick with reeling Sanchez
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. McFaddenNFL (7940)
-*   2M. ReeceNFL (7751)
-*   3T. JonesNFL (7742)
-*   4P. HarvinNFL (6810)
-*   5D. AveryNFL (6156)
+*   1M. ReeceNFL (7596)
+*   2T. JonesNFL (7494)
+*   3D. McFaddenNFL (6933)
+*   4P. HarvinNFL (6421)
+*   5A. HernandezNFL (6206)
 
-*   6T. HiltonNFL (6074)
-*   7D. BrownNFL (5989)
-*   8A. BrownNFL (5873)
-*   9A. HernandezNFL (5872)
-*   10N. HilarioNBA (5766)
+*   6D. AmendolaNFL (5815)
+*   7N. HilarioNBA (5767)
+*   8I. RedmanNFL (5604)
+*   9J. DwyerNFL (5576)
+*   10D. AveryNFL (5510)
 
   
 Video Center
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines Week 10 Injury Questions  
-Nov 10 Get up to speed with the latest on all the hurt folks as we get set for Week 10.  
+  Headlines The Week Of The Tight End  
+Nov 12 Graham, Gonzalez and Olsen led the TE charge, but which other players stood out for better or worse? Chet Gresham recaps the Week 10 action.  
   
 More NFL Columns
 
+*   »The Week Of The Tight End Nov 12
+*   »Sunday Injuries: F-Jax Exits Nov 12
+*   »Watch Texans - Bears LIVE Nov 11
+*   »Week 10 Live Blog Nov 11
+*   »Week 10 Rankings Nov 11
+*   »Matchups: Dez'll Do It Nov 11
 *   »Week 10 Injury Questions Nov 10
 *   »Best Available NFL Free Agents Nov 10
-*   »Friday Rundown Nov 9
-*   »Week 10 Rankings Nov 9
-*   »Matchups: Dez'll Do It Nov 9
-*   »Running Luck Nov 9
-*   »Week 10 Live Chat Nov 8
-*   »Week 10 Target Watch: AFC Nov 8
 
 NFL Headlines
 
-*   »Report: Hernandez 'will not play' vs. Bills
-*   »Report: Harvin (ankle) ruled out for Week 10
-*   »Mark Ingram just now getting to peak form?
-*   »Report: Antonio Brown may 'miss a few games'
-*   »Redman to get the start for Steelers on MNF
-*   »Pats list 14 players 'questionable' for Wk 10
-*   »Report: Eli Manning experiencing 'tired arm'
-*   »Lynch (wrist, back) probable for Week 10
-*   »Pats RB Bolden hit with 4-gm PED suspension
-*   »Kubiak: Owen Daniels 'very limited very sore'
-*   »Vikings leaving door open for Harvin to play
-*   »Saints rule out Darren Sproles versus Atlanta
+*   »Marshall posts an 8/107/0 line in SNF loss
+*   »Foster leads Texans to SNF victory over Bears
+*   »Cutler has concussion. won't play second half
+*   »Eagles are not expected to fire Andy Reid yet
+*   »Reid: Michael Vick will start if he's healthy
+*   »DeMarco Murray still hasn't passed testing
+*   »Raiders TE Myers suffers Week 10 concussion
+*   »Fred Jackson sustained a head injury Sunday
+*   »Amendola shines, catches 11 passes in return
+*   »Rex Ryan vows to stick with reeling Sanchez
+*   »Dez Bryant leads Cowboys with 87 yards, TD
+*   »Lynch beastmodes for 151 yards, TD in victory
 
 NFL Links
 
