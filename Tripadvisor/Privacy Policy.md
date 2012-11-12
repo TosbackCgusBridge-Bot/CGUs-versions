@@ -95,7 +95,7 @@ The Help portion of the toolbar on most browsers should tell you how to prevent 
 
 Our sites also may use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our sites to another, to deliver or communicate with cookies, to understand whether you have come to our site from an online advertisement displayed on a third-party Web site, and to improve site performance. We also may allow our service providers to use Web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on our site. This helps us measure the effectiveness of our content and other offerings.
 
-Display of Advertising/Your Choices
+Display of Advertising/Your Choices.
 
 _Data collected to serve you with relevant advertising_
 
@@ -108,6 +108,14 @@ _Data collected by business partners and ad networks to serve you with relevant 
 Many of the advertisements you see on the TripAdvisor.com family of sites are served by TripAdvisor.com or its service providers. But we also allow third parties to collect information about your online activities through cookies and other technologies. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on our sites, and (2) advertising networks, who collect information about your interests when you view or interact with one of the advertisements they place on many different Web sites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our sites and across the Internet tailored to your apparent interests.
 
 Please note that we do not have access to or control over cookies or other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click here.
+
+Information About Your Location.
+
+When you use a TripAdvisor application (the "Application") on a mobile phone or tablet device ("Device"), we will collect and use information about you in broadly the same way and for substantially similar purposes as when you use a TripAdvisor website. In addition, we may collect information about your location, if you have instructed your Device to send such information to the Application, via the privacy settings on that Device, or if you have uploaded photos tagged with location information. We will use the location information collected from your Device or photos to enhance your use of the Application. For example, we may use your location to show you reviews of hotels or restaurants near you. You can change the privacy settings of your Device at any time, in order to turn off the functionality to share location information with the Application and/or the functionality to tag your photos with location information. If you have any queries about the privacy settings of your Device, we suggest you contact the manufacturer of your Device or your mobile service provider for help.
+
+Call Recording and Monitoring.
+
+Please be aware that calls to and from TripAdvisor may be recorded.  We may use the call recordings to monitor our customer service for quality or compliance purposes, to check the accuracy of the information you provide us, for fraud prevention purposes, or to provide training to our staff.  We will retain the call recordings for as long as reasonably necessary to perform such activities and then delete them.  Any personal information obtained from you during the call will be treated in accordance with the provisions of this Privacy Policy.
 
 How we use your information  
 
@@ -188,7 +196,7 @@ Newton, MA 02464, USA
 
 ©2012 TripAdvisor LLC. All rights reserved.  
 
-This Privacy Policy is effective as of June 1, 2011
+This Privacy Policy is effective as of July 1, 2011
 
 About TripAdvisor®
 
