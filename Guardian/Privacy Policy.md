@@ -291,20 +291,20 @@ On guardian.co.uk
 
 Last 24 hours
 
-1.  1.  **News:** Republican right weeps over Obama's victory – then begins internal civil war
-2.  2\. **Education:** Do online courses spell the end for the traditional university?
-3.  3\. **Media:** BBC in crisis as George Entwistle quits over Newsnight fiasco
-4.  4\. **News:** Valerie Trierweiler: affairs of state
-5.  5\. **Comment:** As US states legalise marijuana, is this the end of the drugs war?
+1.  1.  **Business:** Starbucks wakes up and smells the stench of tax avoidance controversy
+2.  2\. **News:** Venice 'high water' floods 70% of city
+3.  3\. **News:** Venice hit by floods – in pictures
+4.  4\. **Business:** London to lose title of world's finance capital, study warns
+5.  5\. **Comment:** Stewart Lee | Brooks and Cameron's texts? They're pure Shakespeare
 6.  More most viewed
 
 Last 24 hours
 
-1.  **Media:** BBC in crisis as George Entwistle resigns - live updates
-2.  **Media:** Jimmy Savile abuse inquiry: third man arrested
-3.  **Books:** Sean Bean and others read first world war poetry – video
-4.  **Media:** George Entwistle resigns as director general of the BBC
-5.  **Media:** BBC crisis: appointment of Tim Davie greeted with surprise
+1.  **Media:** BBC director of news and deputy step aside - live updates
+2.  **Media:** Helen Boaden 'steps aside' as head of BBC News
+3.  **News:** Petraeus scandal timeline scrutinised as Congressional hearing looms
+4.  **Media:** MTV Europe music awards - in pictures
+5.  **Business:** Eurozone crisis live: No decision on Greek bailout expected today
 6.  More zeitgeist **What is Zeitgeist?**
     
     Zeitgeist is an experiment in showing trending news, topics and articles from the Guardian. Find out more in our blog post.
@@ -312,38 +312,38 @@ Last 24 hours
 
 Last 24 hours
 
-1.  1.  Manchester City v Tottenham Hotspur - live!
-2.  2\. Supreme court urged to rule on Sikh leader's claim he is a 'holy saint'
-3.  3\. England need to raise game despite Fiji win, says Stuart Lancaster - video
-4.  4\. Back to Blood by Tom Wolfe – digested read
-5.  5\. James McClean's decision not to wear poppy was his own say Sunderland
+1.  1.  One Direction? There's an augmented reality picture book app for them...
+2.  2\. BBC director of news and deputy step aside - live updates
+3.  3\. Salman Rushdie and John le Carré end fatwa face-off
+4.  4\. Theresa May's statement on Abu Qatada winning appeal against deportation: Politics live blog
+5.  5\. EU freezes airlines carbon emissions law
 6.  All today's stories
 
 On the Guardian today
 
-1.  World news US election 2012: the inside track on Obama's victory and Romney's defeat
-2.  World news Republican right weeps over Obama's victory – then begins internal civil war
-3.  World news Valerie Trierweiler: affairs of state
-4.  Comment is free Petraeus scandal is reported with compelled veneration of all things military
-5.  World news FBI probe of CIA chief David Petraeus's emails led to affair discovery – reports
-6.  World news Jon Stewart lays into Bill O'Reilly in presidential debate spoof
+1.  World news Venice 'high water' floods 70% of city
+2.  World news São Paulo murder spree leaves at least 140 dead in a fortnight
+3.  World news Republican right weeps over Obama's victory – then begins internal civil war
+4.  Business London to lose title of world's finance capital, study warns
+5.  Environment Poles apart: satellites reveal why Antarctic sea ice grows as Arctic melts
+6.  World news Petraeus scandal timeline scrutinised as Congressional hearing looms
 
 Most popular in this section From the Guardian today
 
-*   Valerie Trierweiler: affairs of state She's the partner of the French president and her complicated love life and impulsive nature is causing outrage at the Elysée Palace. But is Valérie Trierweiler a divisive force or is her real crime that she's refused to play the role of the pliant woman? By **Elizabeth Day**
-*   How I learned a language in 22 hours Could **Joshua Foer** really learn a language from scratch in less than three months?
-*   Comment: The BBC is a force for good. The Newsnight affair is an aberration **John Ware:** The BBC's journalism is justly renowned. But the post-Savile paralysis at the top left the programme exposed
+*   Starbucks wakes up and smells the stench of tax avoidance controversy Cafe chain executive to face questions from MPs, while protesters plan to turn branches into creches and refuges
+*   A matter of etiquette: how to avoid eating raw stag's liver David Cameron hid his, but if you were offered almost-rare stag's liver at a dinner party, what would you do?
+*   Venice 'high water' floods 70% of city Venetians direct anger at forecasters after 'exceptional and unpredictable' rise in sea waters floods homes and businesses
 
 Today's best video
 
-*   War poetry for Remembrance Sunday More4 is marking Remembrance Sunday with short films featuring actors reading war poetry
-*   British Pathé archive: Marriage bureau, 1939 Heather Jenner and Mary Oliver are busy in the Mayfair office of their marriage bureau
+*   'A lot of urban films have been laughed at' Sally El Housini talks about the making of her drama My Brother the Devil, set in east London
+*   Federer v Murray Roger Federer and Andy Murray give their views on the ATP World Tour semi-final, which Federer won
 
 Most popular on the Guardian Today in pictures
 
-*   Censored cinema - in pictures The British Board of Film Classification has been cutting and censoring films for 100 years, here is a selection
-*   The Joy of Six: favourite football grounds – in pictures Half-a-dozen cherished stadiums of our writers, from Nottingham to Madagascar and Stoke to Rio de Janeiro
-*   Snooping around – in pictures From a country home in Suffolk to a run down cottage in Northumberland
+*   MTV Europe music awards - in pictures Psy, Muse, Taylor Swift, Carly Rae Jepsen and Alicia Keys were among the performers at the event in Frankfurt
+*   Venice hit by floods – in pictures More than 70% of Venice has flooded after the city was hit by high tides, a strong southerly wind and heavy rain
+*   A murmuration of starlings over Gretna – in pictures Migrating starlings visit Gretna in Scotland twice a year, in February and November
 
 *   License/buy our content
 |*   Privacy policy
