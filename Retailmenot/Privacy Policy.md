@@ -1,6 +1,6 @@
 RetailMeNot Score the Savings You Want™ Search for savings from your favorite stores Search!
 
-e.g. barnesandnoble.com sears.com flowers gap.com nike sephora.com shoes
+e.g. black fridaymacy'skohlshsnsearshome decorators collectionwalmart
 
 *   Coupon Codes
 *   Free Shipping
