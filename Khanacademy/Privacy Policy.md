@@ -1,64 +1,4 @@
-Log in Donate Watch Practice Coach Volunteer About
-
-*   Math
-    *   Arithmetic and Pre-Algebra
-    *   Algebra
-    *   Geometry
-    *   Trigonometry
-    *   Probability
-    *   Statistics
-    *   Precalculus
-    *   Calculus
-    *   Differential Equations
-    *   Linear Algebra
-    *   Applied Math
-    *   Brain Teasers
-    *   Vi Hart
-*   Science
-    *   Biology
-    *   Chemistry
-    *   Cosmology and Astronomy
-    *   Healthcare and Medicine
-    *   Organic Chemistry
-    *   Physics
-    *   LeBron Asks
-    *   MIT+K12
-    *   Projects
-*   Computer Science
-    *   Drawing
-    *   Programming Basics
-    *   Animation
-    *   User Interaction
-*   Finance &. Economics
-    *   Core Finance
-    *   Valuation and Investing
-    *   Venture Capital and Capital Markets
-    *   Credit Crisis
-    *   Paulson Bailout
-    *   Geithner Plan
-    *   Current Economics
-    *   Banking and Money
-    *   Currency
-    *   Microeconomics
-    *   Macroeconomics
-    *   Greek Debt Crisis
-*   Humanities
-    *   History
-    *   American Civics
-    *   Art History
-*   Test Prep
-    *   SAT Math
-    *   GMAT
-    *   CAHSEE
-    *   California Standards Test
-    *   Competition Math
-    *   IIT JEE
-    *   Singapore Math
-*   Talks and Interviews
-*   Coach Resources
-*   Browse all videos
-
- lessons delivered **Privacy Policy** Khan Academy's mission is to provide a free, world-class education for anyone, anywhere. We are a not-for-profit 501c3 entity, and our purpose of establishing ourselves as a non-profit entity is so that our mission of education and trust with the user never comes in conflict with a for-profit motive. We believe that this is necessary for us to be trusted with your private data. Khan Academy Privacy Policy
+Khan Academy's mission is to provide a free, world-class education for anyone, anywhere. We are a not-for-profit 501c3 entity, and our purpose of establishing ourselves as a non-profit entity is so that our mission of education and trust with the user never comes in conflict with a for-profit motive. We believe that this is necessary for us to be trusted with your private data. Khan Academy Privacy Policy
 
 Last Updated: May 22, 2012
 
@@ -137,5 +77,3 @@ We reserve the right to change the privacy policy at our sole discretion. Khan A
 Contact Information
 
 Please contact Khan Academy with any questions or comments about this Privacy Policy, your personal information, our third-party disclosure practices, or your consent choices by email at privacy@khanacademy.org or by mail at: Khan Academy, PO Box 1630, Mountain View, CA 94042.
-
-  ©2012 Khan Academy® Contact Report a Problem | Blog FAQ | Careers | ToS Privacy Policy | Store | Bahasa IndonesiaDeutschEnglishEspañolFrançaisItalianoKiswahiliNorskPolskiPortuguêsPyccĸийTürkçeisiXhosaΕλληνικάБългарскиУкраїнськаעבריתاردوالعربيةفارسیবাংলাไทย中文 |
