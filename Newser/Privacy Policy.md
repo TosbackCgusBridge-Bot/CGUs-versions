@@ -4,14 +4,14 @@
 *   Hot Topics
     *   David Petraeus
     *   Paula Broadwell
-    *   timeless news
-    *   strange stuff
     *   David Petraeus...
-    *   FBI
-    *   CIA
+    *   strange stuff
     *   entertainment
+    *   FBI
     *   Hurricane Sandy
+    *   timeless news
     *   extramarital affair
+    *   CIA
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -119,63 +119,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Was Petraeus' Affair Exposed Because of Paula Broadwell's...
-*   How Obama Can End Political Gridlock
-*   The Chosen Few
+*   Soccer Mom or Skankzilla: Which is the Real Paula Broadwell?
+*   In Defense of the Electoral College
+*   Why Romney Never Saw It Coming
 
 More from Slate »
 
-*   HOLY WAR
-*   UFOs Over Denver: Truly Unexplained Or Just Bugs? (VIDEO)
-*   Disney Catches Phony Fed Trying To Get In For Free: Cops
+*   Man Crashes Car Into House And Asks Owners, 'You Want Some...
+*   Priest Allegedly Bites Off Ear Of Other Priest
+*   Man Steals Chinese Food Delivery Car, Keeps Making...
 
 More from HuffPost Weird »
 
-*   Your Friskyscopes For The Week Of November 12-18, 2012
-*   That’s A Lot Of Look: Katherine Heigl Is Overly Embellished
-*   15 Stunning Photos Of Amanda Seyfried In Vanity Fair
+*   That’s A Lot Of Look: Heidi Klum’s Laced-Up And Cut Out
+*   Vivienne Westwood Not A Feminist, Says Women In “The...
+*   The Dumbest People To Have An Affair With
 
 More from The Frisky »
 
-*   Custom-made coffins to die for or, for those based on...
-*   The Wright Brothers' patent for their 1903 flying jalopy...
-*   Don't forget Poland \[Obvious\]
+*   For the second time in 24 hours, the Israeli military has...
+*   Evidence mounting that Benghazi U.S. consulate was attacked...
+*   Dude, growing weed in a college bio lab is a really bad...
 
 More from Fark »
 
-*   David Petraeus' mistress: What we know about Paula Broadwell
-*   Hurricane Sandy's lessons: How America can protect its...
-*   10 things you need to know today: November 11, 2012
+*   The David Petraeus scandal: 3 conspiracy theories
+*   Did the media fall for David Petraeus' hype?
+*   Obama's second term: The case for new climate change laws
 
 More from The Week »
 
-*   Police Still Have Nothing on Pedro Hernandez, Won’t Call...
-*   Did Paula Broadwell Divulge Classified Information?
-*   Cuomo Wants $30 Billion for a New Power Grid, Gas System,...
+*   David Petraeus’s Patriotic Friend Will Help the Nation...
+*   The Gay Sex Addict Trying to Resist His Urges in London
+*   The Absolute Moron’s Guide to the Fiscal Cliff
 
 More from Daily Intel »
 
-*   Veterans Day: 5 Health Benefits Of Service
-*   The New Face of Infidelity
-*   Older Veterans Also Have Mental Health Needs
+*   Ask Healthy Living: Is There A 'Wrong' Way To Eat Fruit?
+*   High Blood Pressure: A Highly Controllable Risk Factor That...
+*   Lost and Found in Menopause
 
 More from HuffPost Health »
 
-*   MTV Europe Music Awards 2012 Red Carpet: Heidi Klum, Taylor...
-*   ‘Saturday Night Live’ Recap: Anne Hathaway is Really Good...
-*   'Jersey Shore' Star Vinny Guadagnino Turns 25: See the...
+*   'The Voice' Mentor Cee Lo Green Rents on Hollywood's Sunset...
+*   Justin Bieber on Selena Gomez Split: 'I Don't Know What's...
+*   Jennifer Aniston’s Fiance Justin Theroux Gets 'Friends'...
 
 More from Celebuzz »
 
-*   'Walking Dead' Recap: We Learn the Governor's Sick Secrets
-*   'Real Housewives of Atlanta' Recap: Kim Zolciak Throws...
-*   Watch This Man Sweat the 'Mommy Juggle' (VIDEO)
+*   5 Awesome Tablet Tricks That Will Make Moms' Lives WAY...
+*   '50 Shades of Grey' Drives Woman to Divorce Husband Because...
+*   Latest 'Walking Dead' Plot Twist Has Us Preparing for the...
 
 More from The Stir »
 
-*   The Finalists
-*   Voice: Living the Dream
-*   Advertisers Gird for Gridlock
+*   Ad of the Day: Apple
+*   Romney/Ryan Face Tattoo Looking Less Awesome in Retrospect
+*   Outdoor Faucet Penises Promote Drag-Themed Play in Denver
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
