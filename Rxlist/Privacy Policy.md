@@ -299,8 +299,8 @@ New &. Updated
 *   Avalide
 *   Janumet
 *   Janumet XR
-*   Januvia
-*   Yervoy
+*   Plendil
+*   Topamax
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
