@@ -1,4 +1,4 @@
-  Honda.com Home page **STATEMENT OF PRIVACY (UNITED STATES ONLY)**
+**STATEMENT OF PRIVACY (UNITED STATES ONLY)**
 
 American Honda Motor Company, Inc. (American Honda) is considerate of the privacy of our visitors and the individual sensitivities of personal information.  At American Honda, we believe the confidentiality and protection of customer information is one of our fundamental responsibilities. Because privacy and consumer trust are important to us, we provide this privacy statement for you to explain our policies in detail. While information is critical to providing quality service, we recognize that one of our most important assets is our customers' trust.   Our goal is to protect your information.
 
@@ -268,10 +268,4 @@ We may also disclose:
 
 If we change our policy on how we handle your information, we will notify you in advance.
 
-BACK TO TOP  
-  
-  
-   
-   
-©2012 American Honda Motor Co., Inc. All information contained herein applies to U.S. products only. Please see our Privacy Policy and Legal Terms and Conditions.  
-\[221|12|11|12|06|33|47\] Site Map | RSS
+BACK TO TOP
