@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  The Woman Behind the General
-2.  The Happiness Project
-3.  Petraeus’s Rules for Living
-4.  Mitt Romney’s Fast Fade
-5.  Is She the ‘Other Woman’?
+1.  The ‘Adventure Junkie’ Husband
+2.  Did Paula Broadwell Leak U.S. Secrets?
+3.  Megyn Kelly Takes Control
+4.  Five Facts About Jill Kelley
+5.  Petraeus’s Rules for Living
 
   Other News Entertainment
 
+*   Week in Photos for Nov. 9, 2012
 *   Hairdos and Don'ts: Anne Hathaway Edition
 *   Victoria's other secret: Justin Bieber may want to be touched by an angel
-*   Halle Berry reportedly loses battle to move daughter to France
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   Anne Hathaway hosts tonight’s ‘Saturday Night Live’: Talk about it here!
-*   Javier Bardem in ‘Skyfall’: Give this man an(other) Oscar!
-*   In defense of ‘Die Another Day’: Thirteen reasons why Pierce Brosnan’s last Bond film is better, weirder, and more wonderful than you remember
+*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
+*   PopWatch Planner: ‘Breaking Dawn,’ ‘Lawrence of Arabia,’ and more
+*   ‘Firefly: Browncoats Unite’ reunion tonight: Why Joss Whedon’s cult classic has endured for a decade
 *   **Get More from EW.com**
 
 Entertainment
 
+*   This Is The Luckiest Football Player In The Whole Wide World
 *   Aide: Deval Patrick Doesn't Want To Be Attorney General
-*   With Petraeus Gone, Administration Shuffle Begins In Earnest
-*   Anonymous May Have Hacked Petraeus Mistress
+*   Six Months After Having A Heart Attack On The Field, A Soccer Star Returns To The Scene
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Karl Rove and His Super PAC Press On
-*   Huntsman for Secretary of State?
-*   Bonus Quote of the Day
+*   What Obama Wants Now
+*   How Obama Won the Class War
+*   The Republican Media Cocoon
 *   **Get More from Political Wire**
 
 The Daily Beast
