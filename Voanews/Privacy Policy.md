@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   BBC Chief Resigns
-*   Iraq Cancels Russian Arms Deal
+*   Moderate Cleric to Lead Syrian Opposition
+*   Strong Earthquake Rocks Burma
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
