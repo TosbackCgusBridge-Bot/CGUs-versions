@@ -233,13 +233,6 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   2013 Outlook: Hog Losses Still Loom
-*   Farmland Investors Reveal Investment Returns
-*   U.S. Corn and Soybean Production Forecasts Are Larger Than Expected
-*   AgWeb Corn Harvest Map Covers 305,000 Acres
-*   USDA: Little Change Expected in 2013 U.S. Milk Production
-*   Program Information for November 10-11, 2012
-
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
 *   Clinton: Biofuels Could Lead to Food Riots
