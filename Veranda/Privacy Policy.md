@@ -11,7 +11,11 @@ Most Viewed
 
 Most Searched
 
-1.  Sorry, there are no search terms at this time
+1.  bedrooms
+2.  designer inspiration
+3.  christmas
+4.  holiday rooms
+5.  bathroom
 
 Magazine | RSS
 
