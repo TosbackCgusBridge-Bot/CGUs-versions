@@ -18,7 +18,7 @@ close x Search Catalog Search Catalog Navigation
             *   Outdoor Furnishings
             *   Christmas Stories
             *   Clearance
-            *   Special SavingsOn the lookout for unique, handcrafted harvest decorations? Find everything you need for a colorful celebration here
+            *   Special SavingsGet your favorite decorations before the holidays fly by. Shop our six big Christmas collections now
         *   Dining &. Entertaining
             *   Dinnerware
             *   Drinkware
@@ -41,7 +41,7 @@ close x Search Catalog Search Catalog Navigation
             *   Curtains
             *   Bedding &. Throws
             *   Clearance
-            *   Special SavingsA rug is a rug is a rug. Unless. Discover select hand-tufted wool rugs now at rosy savings
+            *   Special SavingsWant to save 20%? Just hang out with us. Save on all pendant lamps, this month only
         *   Furniture &. Living
             *   Upholstered Seating
             *   Papasan &. Wicker
@@ -53,12 +53,16 @@ close x Search Catalog Search Catalog Navigation
             *   Clearance
             *   Special SavingsThey’re a value on many different levels. Check out select tiered mosaic tables at special savings
         *   Candles &. Fragrance
+            
             *   Candles
             *   Candleholders
             *   Reed Diffusers &. Fragrance
             *   Bath &. Body
             *   Clearance
-            *   Special SavingsWith notes of coconut and ginger, this blend is not plain at all. Save 20% on all Vanilla Creme candles &. home fragrance
+            *   Special Savings
+            
+            Holiday candles &. fragrance:  
+            The gift that’s almost too pretty to give. Shop Apple Crisp, Peppermint Creme and all your favorites
         *   Gifts &. Occasions
             *   Gifts for Her
             *   Gifts for Him
