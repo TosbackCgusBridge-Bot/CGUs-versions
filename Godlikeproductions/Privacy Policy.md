@@ -1,5 +1,5 @@
   
-Users Online Now: **1,930** (Who's On?) Visitors Today: **319,849** Pageviews Today: **617,794** Threads Today: **293** Posts Today: **5,045** 08:15 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
+Users Online Now: **2,051** (Who's On?) Visitors Today: **483,853** Pageviews Today: **748,254** Threads Today: **306** Posts Today: **4,692** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
 
 *     
     Donate To GLP
@@ -112,6 +112,11 @@ trinity@godlikeproductions.com
   
 News
 
+*   U.S. Army Prepares for Human Domain of War
+*   Apocalypse Then? Six False Prophecies of the End Times
+*   The Universe Is Almost Done Making Stars
+*   Undersea Gas Leaks Discovered Off Israel's Coast
+*   Identical Twins Are Genetically Different, Research Suggests
 *   Economy: Post-Election Firings and Layoffs Surge
 *   US bishops call for renewed view of marriage in wake of election
 *   Four years later, Vatican takes a different approach toward Obama
@@ -132,11 +137,6 @@ News
 *   Texas cotton getting a genetic 'tune-up'
 *   Extra chromosome 21 removed from Down syndrome cell line
 *   Boeing Announces Big Layoffs in Defense Division
-*   Organ-on-a-Chip Mimics Deadly Lung Condition
-*   This Is Why Nobody Will Use Credit Cards In A Few Years
-*   School: Bus driver asks student to pick up gun from roadside(MN)
-*   Louisiana Petitions to Leave Union
-*   America Has Shifted To The Left And The Culture War Is Over
 
   
   
@@ -149,4 +149,4 @@ Mail Webmaster with questions or comments about this site.
   
 "Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
 Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.017s (0 queries)
+Page generated in 0.018s (0 queries)
