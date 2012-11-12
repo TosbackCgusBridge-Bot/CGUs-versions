@@ -1,21 +1,3 @@
-  
-Users Online Now: **2,051** (Who's On?) Visitors Today: **483,853** Pageviews Today: **748,254** Threads Today: **306** Posts Today: **4,692** 08:13 AM Join Our:  Facebook - Twitter - YouTube - Podcasts
-
-*     
-    Donate To GLP
-*     
-    Directory
-*     
-    Adv. Search
-*     
-    Topics
-*     
-    Forum
-*     
-    
-
-  
-  
 Privacy Information  
   
 **What information do we collect?**  
@@ -108,45 +90,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
   
 This policy was last modified on 9-24-09  
   
-trinity@godlikeproductions.com  
-  
-News
-
-*   U.S. Army Prepares for Human Domain of War
-*   Apocalypse Then? Six False Prophecies of the End Times
-*   The Universe Is Almost Done Making Stars
-*   Undersea Gas Leaks Discovered Off Israel's Coast
-*   Identical Twins Are Genetically Different, Research Suggests
-*   Economy: Post-Election Firings and Layoffs Surge
-*   US bishops call for renewed view of marriage in wake of election
-*   Four years later, Vatican takes a different approach toward Obama
-*   Is this why CIA chief really resigned? Gun running to jihadists could dwarf 'Fast and Furious' scandal
-*   California's landmark global warming law becomes real this week with first cap-and-trade auctions
-*   View Internet Porn, Get Blackmailed By Hackers
-*   NASA Expected To Unveil New Manned Moon Mission
-*   Cash-free Greek communities take off while economy collapses
-*   Lawyer owes $300,000 for showing child pornography at trial
-*   After Obama win, U.S. backs new U.N. arms treaty talks
-*   For Obama’s Second Term, NASA Revives a Plan from Clinton’s Second Term
-*   Video: 5 Years of Incredible X-Ray Explosions From the Sun
-*   New Australian telescope set to find 700,000 new galaxies
-*   Supreme Court Will Take New Look At Voting Rights Act
-*   Suit: China Bankrolls Hamas Terror
-*   Collapse of Maya civilization tied to drought: study
-*   Nevada Court Considers Ordering Abortion
-*   Texas cotton getting a genetic 'tune-up'
-*   Extra chromosome 21 removed from Down syndrome cell line
-*   Boeing Announces Big Layoffs in Defense Division
-
-  
-  
-  
-  
-  
-  
-Disclaimer / Copyright Info  -  Privacy Policy  -  Terms Of Use  
-Mail Webmaster with questions or comments about this site.  
-  
-"Godlike Productions" &. "GLP" are registered trademarks of Zero Point Ltd.  
-Website Design Copyright © 1999 - 2012 Godlikeproductions.com  
-Page generated in 0.018s (0 queries)
+trinity@godlikeproductions.com
