@@ -1,6 +1,6 @@
 Play Games at Miniclip.com Empire A new kingdom awaits! Join a faction  
-Fight for the crown! GravityGuy Your weekly challenge Win the Silver award!  
-Gravity Guy Bullfrog Poker Texas Hold’em! Show your poker face  
+Fight for the crown! Dino Strike Your daily challenge Rescue 10 bionic dinos  
+Dino Strike Bullfrog Poker Texas Hold’em! Show your poker face  
 Go all-in! New games! Hit the homepage  
 Great new games out now My Miniclip Credits
 
@@ -35,6 +35,7 @@ More Languages ›
 *   Pool
 *   Sports
 *   Multiplayer
+*   Holiday
 *   Puzzle
 *   iPhone
 *   Sketch Star
@@ -75,11 +76,12 @@ Game Categories
 *   Golf
 *   Halloween
 *   Hidden Object
+*   Holiday
 *   Hot Games
 *   iPhone
 *   Kids
-*   Latest
 
+*   Latest
 *   Learning
 *   Live Players
 *   London Olympics 2012
@@ -90,8 +92,8 @@ Game Categories
 *   Motocross
 *   Motorsports
 *   Multiplayer
-*   My Friends League
 
+*   My Friends League
 *   New
 *   Nintendo Wii
 *   Platform
@@ -102,8 +104,8 @@ Game Categories
 *   Racing
 *   Retro
 *   Shoot 'Em Up
-*   Soccer
 
+*   Soccer
 *   Social
 *   Sports
 *   Spring
@@ -114,8 +116,8 @@ Game Categories
 *   Tennis
 *   Top 100
 *   Tower Defense
-*   Virtual Worlds
 
+*   Virtual Worlds
 *   Web Toys
 *   Windows Phone
 *   Winter
