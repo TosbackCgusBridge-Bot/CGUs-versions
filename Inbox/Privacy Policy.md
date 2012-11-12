@@ -1,8 +1,4 @@
-**Upload multiple photos at once »** Email • News • Games • Screen savers • eCards • Photos • Help Search the Web
-
-You are not signed in. **Sign In** • **Sign Up**
-
-  Inbox.com Privacy Policy  
+Inbox.com Privacy Policy  
 
 We take your privacy seriously. Please read our privacy policy carefully to learn more.
 
@@ -77,21 +73,3 @@ If we propose to use personal information for any purposes other than those desc
 This Privacy Policy may change from time to time. You are responsible for periodically reviewing this Privacy Policy for any applicable changes.
 
 **Last updated:** September 4, 2012
-
-Inbox.com Products
-
-*   Desktop Notes
-*   Download Manager
-*   Email Notifier
-*   Free Email Account
-*   Free Photo Sharing
-*   Free File Storage
-
-**More Products**
-
-Support Guide  
-
-Inbox.com News | Awards &. Certificates | Promote Us | Contact Us | Privacy Policy | Terms of Use
-
-© 2012 Inbox.com, Inc. All rights reserved. Inbox.com, Inc. is part of the Xacti Group Companies.  
-All other names are trademarks and/or registered trademarks of their respective owners.
