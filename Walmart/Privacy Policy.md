@@ -10,7 +10,7 @@ Facebook Twitter Pinterest
 *   Suppliers
 *   Careers
 
-**WMT**72.31 -0.17 Home >. Privacy &. Security >. Walmart Privacy Policy
+**WMT**72.52 +0.21 Home >. Privacy &. Security >. Walmart Privacy Policy
 
 *   Privacy &. Security
     *   Walmart Privacy Policy
