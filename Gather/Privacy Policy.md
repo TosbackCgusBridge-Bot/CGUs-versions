@@ -70,4 +70,4 @@ At Skyword Inc. ("Skyword"), we strive to develop innovative products and servic
 *   We will notify you directly if we make significant changes to this Policy.
 
 Gather | Friends | Groups | Share About Gather | Engagement Marketing | Gather Points | Advertise on Gather | Gather Press | Privacy | Terms of Service | Community Guidelines  
-Books | Business | Celebs | Entertainment | Family | Food | Giveaways | Health | Money | Moms | News | Politics | Sports | Style | Technology | Travel | Writing Version 18246, "Zach". Copyright © 2012 Gather Inc. All rights reserved.
+Books | Business | Celebs | Entertainment | Family | Food | Giveaways | Health | Money | Moms | News | Politics | Sports | Style | Technology | Travel | Writing Version 18249, "Zach". Copyright © 2012 Gather Inc. All rights reserved.
