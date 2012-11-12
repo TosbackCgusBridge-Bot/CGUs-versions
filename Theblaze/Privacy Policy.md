@@ -25,9 +25,9 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
+*   David Petraeus
 *   Libya: The Truth?
 *   Israel
-*   TheBlaze TV
 
 Take Action
 
@@ -260,9 +260,9 @@ What is this? Sections
 
 Hot Topics
 
+*   David Petraeus
 *   Libya: The Truth?
 *   Israel
-*   TheBlaze TV
 
 More from TheBlaze
 
