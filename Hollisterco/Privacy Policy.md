@@ -4,7 +4,7 @@
 *   Skip to primary content
 *   Skip to site information and tools (order tracking, careers, privacy policy)
 
-\[hol-HomepageTopBannerEMS\] 20% off! code: 35248 + Members Get Free Shipping over $100 When signed in!
+\[hol-HomepageTopBannerEMS\] Last Day - 20% off! code: 35248 + Members Get Free Shipping over $100 When signed in!
 
 *   Shop Dudes
 
