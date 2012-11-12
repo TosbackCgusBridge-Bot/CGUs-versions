@@ -1,74 +1,74 @@
 Skip Navigation
 
-*   In China, You Can't Say 'I Voted!' in Chinese
-*   The Growing Costs of Natural Disasters
-*   007 to Taylor Swift: The Week's Best Pop-Culture Writing
-*   The GOP's Demographics Problem in 2 Graphs
+*   Nearly Half of Single-Parent Families Live in Poverty
+*   The Art of Travel
+*   How Gmail's Location Data Outed Petraeus
+*   Do Prestigious Residencies Mean Better Doctors?
 
 *   Politics
     *   Top Stories
-    *   ORCA: What the GOP Should Have Learned from 2008
+    *   Move Over Economists: We Need a Council of Psychological Advisers
+    *   Karen Hughes' Bad Advice for the GOP
     *   Why Women Rule New Hampshire
-    *   Election 2012: Results and Analysis
+    *   Beyond Akin: Current U.S. Law Is Failing Sexual Assault Victims
+    *   Getting Back to the Atlas Shrugged Guy
     *   What It Implies If an Extramarital Affair Threatens National Security
-    *   Fake History in the Making: Karen Hughes' Bad Advice for the GOP
-    *   Obama Did Better In States Where Lots of People Search for 'Top Chef'
 *   Business
     *   Top Stories
-    *   Will Obama Let Washington and Colorado Keep Their Legal Pot?
-    *   Don't Believe the Grand Bargain Hype
-    *   A New Era for Books
     *   What the Fiscal Cliff Means for Jobs, in 1 Chart
-    *   The Next Trillion-Dollar Stimulus? It's Immigration Reform
+    *   The Next Trillion-Dollar Stimulus? Immigration Reform
+    *   A New Era for Books
     *   It's Not a Fiscal Cliff, It's a Fiscal Fast
+    *   The Fiscal Cliff Explainer: What It Is, Where It's From, Who Will Pay, and Why It Matters
+    *   Will Obama Let Washington and Colorado Keep Their Legal Pot?
 *   Tech
     *   Top Stories
-    *   What It's Like to Vote for President ... From Space
-    *   Did Facebook Give Democrats the Upper Hand?
-    *   Data Doesn't Belong to the Democrats
+    *   The Places Where America's Drones Are Striking, Now on Instagram
+    *   How Gmail's Location Data Outed Petraeus
+    *   Cast Your Vote for Charles Darwin!
+    *   How Teachers Will Use E-Readers to Catch Cheaters
     *   'Scapple': Very Interesting New Software From the Creator of Scrivener
     *   How Much Would You Pay to Never See an Online Ad Again?
-    *   David Petraeus Was Brought Down by ... Gmail
 *   National
     *   Top Stories
-    *   A Perfect New Mission for Eric Holder? Voting Rights
-    *   NYC Restaurants Beat Sandy
-    *   Defending the Constitution, Term 2
+    *   This Year, a Veterans Day Like None Other Before
+    *   After Sandy, Fire and Ice in Queens
+    *   A Challenge to the Voting Rights Act
+    *   The False Promise of Armistice Day: A Veteran Looks Back
     *   The Growing Costs of Natural Disasters
     *   Media Wrap-Up: Moyers, Petraeus, Kaplan, Juneau
-    *   A Veterans Day Like None Other Before
 *   Global
     *   Top Stories
-    *   What's the Conservative Equivalent of 'Moving to Canada'?
-    *   America Abroad in Obama's Second Term: Who Will Lead U.S. Diplomacy?
-    *   How to Stop Reactionaries From Derailing Reform in China
-    *   The Rockets of Gaza
-    *   When Leaders Die in Battle: What It Means for the Soldiers Who Live On
-    *   Why You Can't Say 'I Voted!' in Chinese—at Least in China
+    *   Pinned Down in Afghanistan: The Ill-Fated Battle for Hill 2610
+    *   When Leaders Die in Battle
+    *   The Incredible, Shrinking Modern Military
+    *   The Chinese Party Congress: For New Ideas, Look to the Young Guys
+    *   Why Chinese People Are Getting Sick of Chinese Social Media
+    *   The Losers in China's Leadership Transition
 *   Health
     *   Top Stories
+    *   High-Fiber Pepsi: Choice of a New, Weird Generation
+    *   Do Prestigious Residencies Mean Better Doctors?
     *   Health Professionals in Detainee Interrogation
-    *   Talk About Freezing Your Eggs
-    *   Flowers on the Psych Ward
+    *   The Top Ways We Injure Our Genitals
     *   Study: Farm Stank Is Bad for Your Health
-    *   Bringing Back Meekness as a Virtue
-    *   Study: Statins Appear to Improve Cancer Survival
+    *   It's Not Too Early to Talk About Freezing Your Eggs
 *   Sexes
     *   Top Stories
-    *   Women Are Not a Unified Voting Bloc
-    *   What I Learned From Hiring a Love Coach
-    *   Female Doctors on TV, Pop-Culture Cliche
+    *   Veterans Twice as Likely to Cheat on Their Spouses
     *   Why Are So Many Single-Parent Families in Poverty?
     *   Obama Shows, Once Again, That Crying Is for Winners
+    *   Why Petraeus's Affair Matters (but Bill Clinton's Didn't)
     *   Why Demographics Can't Fully Predict How People Vote
+    *   Women Are Not a Unified Voting Bloc
 *   Entertainment
     *   Top Stories
-    *   The Barack Obama of Pro Football Is ...
-    *   'Skyfall': James Bond Rises Again, Spectacularly
-    *   A Storm in a Jar: Art Installations That Imitate Weather
-    *   'The Walking Dead': Only the Insane Have Strength Enough to Survive
+    *   'The Walking Dead': Only the Insane Will Survive
+    *   James Bond's New, Not-So-Progressive Mommy Complex
+    *   'Lincoln' Fact Check: He's Realistic. His Advisers Aren't
+    *   The First Pro Football Player Wasn't Just First. He Was Also Great
+    *   Besos, Frida: Letters From Great Artists to Their Friends and Family
     *   SNL's Anne Hathaway Episode: 5 Best Scenes
-    *   Nickelback, Hipsters, and Fox News: The Week's Best Pop-Culture Writing
 *   Magazine
     *   In This Month's Issue
     *   Our 2012 Brave Thinkers List
@@ -88,7 +88,7 @@ Skip Navigation
 *   Video
 *   Photo
 *   Newsletters
-*   Study: Farm Stank Is Bad for Your HealthLindsay Abrams
+*   Move Over Economists: We Need a Council of Psychological AdvisersBarry Schwartz
 
 Privacy Policy
 
@@ -193,11 +193,11 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report Alex Hoyt How the Map Changed as the Polls Came In  
-A state-by state guide. And it's never too late to check out _The Atlantic_'s obsessive all-night coverage of the whole election. Read more › Writers
+Special Report The Atlantic Brave Thinkers  
+Our annual guide to the people risking their reputations and lives in pursuit of big ideas. Read more › Writers
 
+*   James Fallows Getting Back to the Atlas Shrugged Guy 9:25 AM ET
 *   Jeffrey Goldberg The Rockets of Gaza 7:05 AM ET
-*   James Fallows 'Scapple': Very Interesting New Software From the… Nov 11, 2012
 *   Ta-Nehisi Coates Uppers And The Horde Unite Like Voltron Nov 10, 2012
 *   Derek Thompson 2 Graphs That Should Accompany Every Discussion… Nov 9, 2012
 *   Robert Wright Food for Republican Thought From Nate Silver Nov 9, 2012
@@ -206,7 +206,7 @@ A state-by state guide. And it's never too late to check out _The Atlantic_'s ob
 *   Garance Franke-Ruta The 3 Biggest Day-After Mea Culpas Nov 7, 2012
 *   Steve Clemons Ed Gillespie's Absurd Bluster Nov 6, 2012
 
-The Biggest Story in Photos Syria in Ruins Nov 8, 2012 Video Go Behind the Scenes at New York City Ballet Turning Everyday Machines into Abstract Art NYC Dark Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Venice Under Water Nov 12, 2012 Video Behind the Scenes of Valentino's New York City Ballet Collaboration 36 Hours With a News Crew During Sandy New York City Ballet Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -237,73 +237,73 @@ Most Popular
 
 1
 
-Syria in Ruins
+Venice Under Water
 
 2
 
-Hurricane Sandy: After Landfall
+Pinned Down in Afghanistan: The Ill-Fated Battle for Hill 2610
 
 3
 
-Where America's Racist Tweets Come From
+Gmail's Location Data Led to the Discovery of the Petraeus Affair
 
 4
 
-How Conservative Media Lost to the MSM and Failed the Rank and File
+Where America's Racist Tweets Come From
 
 5
 
-Hurricane Sandy: The Aftermath
+Fact-Checking 'Lincoln': Lincoln's Mostly Realistic. His Advisers Aren't
 
 6
 
-Noam Chomsky on Where Artificial Intelligence Went Wrong
+Hurricane Sandy: After Landfall
 
 7
 
-Fake History in the Making: Karen Hughes' Bad Advice for the GOP
+High-Fiber Pepsi: The Choice of a New, Weird Generation
 
 8
 
-'Scapple': Very Interesting New Software From the Creator of Scrivener
+Syria in Ruins
 
 9
 
-'The Walking Dead': Only the Insane Have Strength Enough to Survive
+Fake History in the Making: Karen Hughes' Bad Advice for the GOP
 
 10
 
-The Rockets of Gaza
+How Conservative Media Lost to the MSM and Failed the Rank and File
 
 ATLANTIC MEDIA Atlantic Wire
 
-*   MSNBC Beats Fox News By Following Its Example
-*   BBC Scandal Claims Three More News Executives
-*   Evidently, the FBI Knew About the Petraeus Affair for Months
+*   It WIll Be Months Before the New York Daily News Returns to Their Headquarters
+*   Apple's 'Unbearably Noisy' Store Might Not Be an Accident
+*   John Boehner Has Some Real Talk for Republicans
 
 **More from Atlantic Wire**
 
 Atlantic Cities
 
-*   Rebuilding After the Storm: The Best #CityReads of the Week
-*   Balloon Flight of the Day: Across the Atlantic
-*   Will Obama Fight Colorado and Washington's New Pot Laws?
+*   Why America Has One of the Highest Child Poverty Rates in the World
+*   The Growing Rural Isolation of Veterans
+*   Trudging Through 5 Feet of Water? Just a Day in the Life of a Venetian
 
 **More from Atlantic Cities**
 
 Quartz
 
-*   2,780 reasons why coal isn’t finished quite yet
-*   China’s railway ministry will spend $32 billion by Christmas, even though demand for its services is muted
-*   Quartz Daily Brief – Americas Edition – Multinational tax tactics, James Bond, $20 tablet, fat tax
+*   In praise of the extremely ugly and highly functional corporate website
+*   What Amazon, Google, and Starbucks said to MPs about why they pay little or no UK tax
+*   How Norway overtook Abu Dhabi as the world’s largest sovereign wealth fund
 
 **More from Quartz**
 
 National Journal
 
-*   Kristol Open to Raising Rates on Wealthiest Americans
-*   Meningitis Hearings Set for This Week
-*   Wiggins Launches Winn Strategies and Introducing Kountoupes | Denham
+*   Challenges Ahead for Obama in Japan
+*   Thompson: Lockheed Emerges from CEO Shakeup in Good Shape
+*   Black Vote in Ohio Fueled by Voter-ID Bills
 
 **More from National Journal**
 
