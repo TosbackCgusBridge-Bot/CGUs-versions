@@ -1,20 +1,3 @@
-*   home
-*   contact us
-*   food&family magazine
-
-*   recipes
-*   tips &. ideas
-*   community
-*   cheese
-*   products
-
-Consumer Alert: Kraft Foods announced today it is voluntarily recalling...read more Consumer Alert: Kraft Foods announced today it is voluntarily recalling a single code date of the Jalapeno variety of Kraft String cheese in 12oz. size and Best When Used By date of 23 NOV 2012.  
-Click here for more information  
-
-*   home
-*   about
-*   privacy notice
-
 Effective Date: December 14, 2011 kraftfoods.com privacy notice This website is owned and operated by Kraft Foods Group, Inc. At Kraft, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information.
 
 *   Information We Collect
@@ -166,57 +149,4 @@ We would be happy to answer your questions or hear your concerns.
 
 © 2011 Kraft Foods
 
-Printer-Friendly VersionSend to a Friend recipes
-
-*   thanksgiving
-*   dinner recipes
-*   lunch ideas
-*   dessert recipes
-*   chicken recipes
-*   appetizer recipes
-*   find recipes
-
-community
-
-*   recipe exchange
-*   message boards
-*   photos
-*    facebook
-*    youtube
-*    add to circles
-
-on the go
-
-*   newsletter
-*   recipe widgets
-*   iFood assistant apps
-*   kraft mobile recipes
-*    RSS
-*    twitter
-
-help
-
-*   contact us
-*   advertise with us
-*   faqs
-*   site map
-*   terms of use
-*   privacy
-
-more from kraft foods
-
-*   subscribe to magazine
-*   about kraft
-*   kraft foods corporate
-*   kraft canada
-*   other kraft foods sites
-*   collaborate with kraft
-
-  © 2012 Kraft Foods. All rights reserved kraftfoods.com privacy notice browse by meal dinner lunch breakfast &. brunch desserts appetizers beverages recipe categories budget recipes healthy living kid-friendly recipes holidays &. entertaining quick &. easy recipes chicken recipes pasta recipes seafood recipes 1 bag 5 dinners ethnic recipes featured collections thanksgiving recipes thanksgiving dinner menu thanksgiving side dishes pumpkin recipes chili recipes potluck recipes quick &. easy desserts vegetarian recipes casserole recipes stew recipes ground beef recipes brownie recipes tailgate recipes one-pot wonder recipes new recipes easy VELVEETA soup recipes comfort food recipes skillet sensations >  
-deep-dish chicken pot pieEnjoy this recipe which is sure to become a family favorite! holidays holiday calendar thanksgiving holiday menus &. recipes holiday how-to center entertaining party planning birthday parties potluck recipes tailgate recipes appetizer math healthy living nutrition basics diabetes center for nutrition professionals weight management healthy living recipes your kids kids can cook kids in the kitchen birthday parties kids nutrition cooking tips cooking videos charts &. guides how-to tips special features budget food safety pasta center salad center seasonal produce what’s in season >  
-thanksgiving headquarters We've got all the recipes, videos and tips you need for a delicious, stress-free Thanksgiving dinner. kraft foods community recipe exchange message boards photos  
-  
-**pumpkin cheesecake pie** JELL-O and COOL-WHIP mingle with pumpkin and cinnamon to make this fluffy seasonal treat! submitted by: Jen\_Rourke >  
-what people are talking about easy budget thanksgiving desserts pasta potluck kids comfort foods chicken cheesecake dips dinner holiday how-to e-mail tailgating magazine kraft cheese recipe collections entrées sandwiches brunch appetizers and sides >  
-kraft cheese products kraft fresh take kraft grated parmesan kraft natural shredded cheese kraft natural slices kraft singles featured products OSCAR MAYER KRAFT SIZZLING SALADS PLANTERS PEANUT BUTTER JET-PUFFED JELL-O MAXWELL HOUSE KRAFT BARBEQUE SAUCE tools &. info kraft brands promotions what’s new nutrition &. ingredient info product locator >  
-introducing… PLANTERS NUT∙rition Peanut Butter - the most daring PB ever!
+Printer-Friendly VersionSend to a Friend
