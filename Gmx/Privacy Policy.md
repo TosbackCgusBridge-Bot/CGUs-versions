@@ -1,11 +1,3 @@
- 
-
-*   Please enable Java Script in your browser and retry.
-
-  GMX Get your free GMX Account Login
-
-Do you need any help? Keep me logged in Main Navigation Mail Home Details Privacy
-
 *   1&1 Mail &. Media Inc. ("GMX") has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website. This Privacy Policy governs the manner in which GMX uses, maintains and discloses information collected from its customers and users of its website.
 *   Children GMX does not knowingly collect personal information from children under 13 for marketing purposes. GMX understands, however, that parents, guardians, or other adults often register our products for family use, including use by minors. Because some information is collected electronically, it may appear to be that of the registered GMX customer, and will be treated as such by this privacy policy. If we learn that that a child under the age of 13 has submitted personal information to GMX we will attempt to delete the information as soon as possible.
 *   Information We Collect GMX may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information.  
@@ -32,12 +24,3 @@ Do you need any help? Keep me logged in Main Navigation Mail Home Details Privac
 *   Maintenance of Information The information provided to GMX is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by GMX. GMX employs industry-standard security measures to protect the confidentiality of the information. While we cannot guarantee that loss, misuse or alteration of data will not occur. we make every effort to prevent such occurrences.
 *   Your Responsibility You are responsible for the security of your Customer ID and passwords. Make sure you keep them in a safe place and do not share them with others. Always remember to log out after your session ends to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home.
 *   Questions Any questions concerning this Privacy Policy may be posted on the customer support bulletin board.
-
-  Get your free GMX Account Sign Up Now - for your free mail account  
-
-*   About GMX
-*   _Privacy Policy_
-*   Press Room
-*   GMX on Facebook
-
-© 2012 1&1 Mail &. Media Inc. All rights reserved. Portal version: 2.23.4.0 | Branding: gmxcom\[1\] | Server type: EU | Deployment type: LIVE | Host: jport-eu001 | SID: 48331991EB13BB7C02318427752E2D14.jport-eu001
