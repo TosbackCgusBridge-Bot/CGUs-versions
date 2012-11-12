@@ -69,6 +69,7 @@ daily deals. one day only. always free shipping.
 
 *   find a store
 *   Weekly Ad
+*   GiftCards
 *   registries Target Wedding registry
     
     Home of happily ever after
