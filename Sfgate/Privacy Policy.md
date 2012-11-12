@@ -1,6 +1,6 @@
 (skip this header)
 
-Monday Nov 12, 2012 5:05 AM PT
+Monday Nov 12, 2012 11:42 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Chopra: Quanta to Qualia
-*   'Skyfall' record
-*   Hartlaub's fantasy football apology
-*   Cowgirl Creamery talent
+*   Coolest Guy in the World nominees
 *   Open, closed for Veterans Day
+*   Tourist Trapped: City Target
+*   'V' is for victory
+*   Weak service at The Thomas
 
 *   Bay Area &. State
 *   Nation
@@ -339,6 +339,8 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   The Thomas
+*   Patriotic Homes
 *   Week 10: 49ers vs. Rams
 *   MTV EMAs 2012: Red carpet
 *   MTV EMAs 2012: Show moments
@@ -376,8 +378,6 @@ Ads by Yahoo! Photo Galleries
 *   2012 BAFTA/LA Britannia Awards
 *   Black Friday craziness
 *   Sierra snow watch, Nov. 8
-*   Bay Area Billionaires
-*   Hakka
 
 *   Most Read
 *   |
@@ -386,12 +386,12 @@ Ads by Yahoo! Photo Galleries
 *   Most Emailed
 
 1.  Congress wants answers on Petraeus affair
-2.  49ers, Rams tie. Alex Smith hurt
-3.  Foreign students flood U.S. universities
-4.  Alex Smith's concussion hurts 49ers
-5.  What happens next for Alex Smith
-6.  If NASCAR had a penalty box ...
-7.  2 Calif. deaths from mushrooms despite warnings
+2.  Bay Bridge crews resolve last uncertainty
+3.  What happens next for Alex Smith
+4.  Elmo puppeteer accused of underage relationship
+5.  Calif. snowpack outlook grim for water
+6.  Can rude service become a virtue?
+7.  Alex Smith's concussion hurts 49ers
 
 1.  GOP's state losses hint at national fate
 2.  Congress wants answers from FBI, CIA on Petraeus
@@ -401,39 +401,39 @@ Ads by Yahoo! Photo Galleries
 6.  Family violence reports in S.F. soaring
 7.  California Democratic leaders rile allies
 
-1.  Precious days with Buddy
-2.  Investors rushing into real estate deals
-3.  Mountain Lake invaders fished out
-4.  5 places to sample Moroccan treats
-5.  Family violence reports in S.F. soaring
-6.  Here's A Charming Story About Steve Jobs Being A Regular Guy (AAPL)
-7.  US colleges look to foreign students
+1.  Nontraditional traditional Thanksgiving
+2.  Fetch an education at canine college
+3.  Precious days with Buddy
+4.  Drug court: Addicts kick habit, charges
+5.  Cowgirl Creamery's founders blend traits
+6.  Calif. snowpack outlook grim for water
+7.  Elmo puppeteer accused of underage relationship
 
 loading... Latest News Videos From our homepage
 
 *     
     ISAF / AP
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 7:20 p.m., Sunday, November 11, 2012 2nd woman in scandal ID'd
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 10:41 a.m., Monday, November 12, 2012 Blindsided by the scandal
     
-    Liaison was apparent target of emails from Petraeus' biographer. questions on national security.
+    Rep. says way the story of Petraeus' romance with biographer came out 'doesn't add up.'
     
 
 *     
-    Brant Ward, The Chronicle / SF
+    Craig Lee, Special To The Chronicle / SF
     
-    49ers, Rams miss to be tied
+    Twists to your Thanksgiving
     
-    Alex Smith knocked out, teams miss kicks in OT of wild tie. Photos
+    These nontraditional recipes will spice up your Turkey Day feast.
     
-*   49ers beaten to the punch
+*   Cooking the perfect turkey
 
 *     
-    Keith Srakocic, AP / SF
+    YouTube / SF
     
-    Worst songs by jocks ever
+    Singing their jocks off, badly
     
-    There is nothing like seeing your sporting heroes singing really badly. Here are some all-timers.
+    Hear the worst athlete songs ever from rappin' Kobe to crooning Pacquiao to guys who 'Ram it.'
     
 
 *   Home
