@@ -1,41 +1,41 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: BBC chief quits after 54 days, gets $715,000 payoff
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: NJ to end odd-even gas rationing
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Charles Rex Arbogast / AP Texans take care of Bears
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Genevieve Ross / AP Adrian Peterson's best season yet
     
-    Houston (8-1) triumphs 13-6 in defensive struggle. Cutler suffers concussion.
+    PFT's NFL Morning After: If I had told you on New Year’s Day that 2012 would be the best year of Adrian Peterson’s career, you would have said I was nuts. Well, I may be nuts, but Adrian Peterson is also the best running back in the NFL.
     
-    PFT: Texans out-Bearsed the Bears Saints put an end to Falcons' unbeaten run 49ers, Rams play to a ... tie?   |  Bizarre game Seahawks fly past Jets   |  Sanchez still starter 'Boys KO Vick, Eagles   |  Start Reid countdown PFT: Bengals rout sloppy Giants  |  Eli says arm fine PFT: Vikings beat Lions, Peterson tops 1,000 PFT: Happy homecoming for Fox. Broncos cruise Ad
+    Texans take care of Bears PFT: Texans out-Bearsed the Bears PFT: Vick has 'pretty significant' concussion NFL needs better concussion policy PFT: Reid's exit likely, but not yet a certainty Stubborn Ryan won't play Tebow PFT: Reggie Bush: I deserved to get benched Saints put an end to Falcons' unbeaten run Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Scott Cunningham / Getty Images It's major decision time
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Elaine Thompson / AP file Trout all but a sure thing
     
-    DeMarco: Their financial coffers are full, their successes in the near-past, and their futures uncertain. Welcome to the off-seasons of the Texas Rangers, Philadelphia Phillies and Boston Red Sox — major-market franchises facing major decisions.
+    If there was ever an award that you’d bet your first born on, it would be that the Angels' Mike Trout will win the AL Rookie of the Year on Monday. NL Rookie of the Year is a little less certain.
     
-    HBT: Dodgers have winning bid for Hyun-Jin HBT: Dodgers making strong pitch for Hunter HBT: Yanks 'not trading Alex Rodriguez' HBT: Rangers will only offer Hamilton 3-year deal HBT: Hall of Famer MacPhail dies at 95 HBT: Weiss better have good first year with Rockies Izturis agrees to $10M contract with Blue Jays HBT: Follow our free-agent tracker Ad
+    DeMarco: Decision time for Rangers, Phillies, Red Sox HBT: Dodgers have winning bid for Hyun-Jin HBT: Dodgers making strong pitch for Hunter HBT: Yanks 'not trading Alex Rodriguez' HBT: Rangers will only offer Hamilton 3-year deal HBT: Hall of Famer MacPhail dies at 95 HBT: Weiss better have good first year with Rockies Izturis agrees to $10M contract with Blue Jays Ad
 *   NHL
     SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Dave Sandford / Getty Images Contributor Sakic was no ordinary Joe
     
     PHT: Joe Sakic headlines an impressive class heading into the Hockey Hall of Fame on Monday night. Sakic might not have provided explosive quotes, but his staggering numbers and all-time-great wrist shot were memorable enough.
     
-    NHL.com: Quiet steadiness defined Sakic's career PHT: Yes, Bure was very, very good  |  Elite skills PHT: Sudin a machine for Leafs  |  Quebec start key PHT: Oates' top accomplishments  |  Master passer PHT: Talks end early, not going well PHT: Fehr doesn't see path to a deal CSN: Fehr becomes lightning rod for criticism CSN: Avoid the noise — and find deal now Ad
+    NHL.com: Quiet steadiness defined Sakic's career PHT: Sakic doesn't regret retiring, with one exception PHT: Yes, Bure was very, very good  |  Elite skills PHT: Sudin a machine for Leafs  |  Quebec start key PHT: Oates' top accomplishments  |  Master passer PHT: Talks end early, not going well PHT: Fehr doesn't see path to a deal CSN: Fehr becomes lightning rod for criticism Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Rocky Widner / Getty Images Contributor Lakers hire D'Antoni, not Jackson
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Mark J. Terrill / AP Lakers fumble on coaching switch
     
-    PBT: After negotiations with Phil Jackson didn’t work out — there are suggestions he was asking for too much money and time off — L.A. wisely turns to Mike D'Antoni to be the team's next coach.
+    You can make a good case why not to hire Phil Jackson as the Lakers coach right now. You can make a case that Mike D’Antoni can win in Los Angeles. But the Lakers handled it all as smoothly they handled the firing of Mike Brown.
     
-    Lakers easily take care of Kings Hot Grizzlies beat Heat   |  Thunder cruise past Cavs Nets sweep Magic in home-and-home series Griffin, Paul lead Clippers past Hawks CSN: Rockets' McHale taking leave of absence Rap-reality TV star sits in on Hawks broadcast Winderman: Rose need not rush back now SportsTalk: Is LeBron making Knicks better? Ad
+    PBT: D'Antoni can win big, if Lakers defend PBT: Lakers hire D'Antoni, not Jackson Lakers' choice of D'Antoni puzzling PBT: 76ers' Bynum could be out until Christmas Lakers easily take care of Kings Hot Grizzlies beat Heat   |  Thunder cruise past Cavs Nets sweep Magic in home-and-home series Griffin, Paul lead Clippers past Hawks Ad
 *   NCAA FB
     SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Ronald Martinez / Getty Images K-State new No. 1 in BCS
     
     CFT: Thanks to Texas A&M's win over Alabama, there are now only three undefeated teams fighting for the two spots in the BCS championship game. Your new No. 1? Kansas State. And Oregon is no. 2.
     
-    K-State so close to first BCS title shot Heisman Hopefuls: Could a freshman win? CFT: Oregon ranked No. 1 by AP and coaches Oregon overcomes injuries to move to No. 1 PFT: Would Kelly ditch No. 1 Oregon for NFL? Bama's aura of invincibility gone after near-miss CFT: Saban: 'Couldn't get the ... intensity we needed' Notre Dame Central: Special section on Irish Ad
+    CFT: Louisville loses top rusher for rest of season CFT: Tuberville takes responsibility for sideline incident CFT: Wash. St. AD comes to Leach's defense K-State so close to first BCS title shot Heisman Hopefuls: Could a freshman win? CFT: Oregon ranked No. 1 by AP and coaches Oregon overcomes injuries to move to No. 1 PFT: Would Kelly ditch No. 1 Oregon for NFL? Ad
 *   NCAA HOOPS
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Harry How / Getty Images Orange shoot down Aztecs
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Michael Probst / AP UConn is team of the week
     
-    C.J. Fair and Michael Carter-Williams each scored 16 points and No. 9 Syracuse blew past No. 20 San Diego State 62-49 on the flight deck of the decommissioned USS Midway on a sunny, windy Sunday afternoon.
+    This was supposed to be the year where UConn scrapped and clawed and did everything in their power to ensure that Kevin Ollie remained their head coach next season, when they would actually have something to play for. And then something funny happened: the Huskies went out and punched Michigan State in the mouth at Ramstein Air Force base in Germany.
     
-    CBT: Don't rush to judge SDSU after loss Moore: Shorter shot clock equal better hoops? No Manning wins first game as Tulsa coach No. 2 Louisville cruises past Manhattan Angry timeout talk ignites No. 4 Ohio St. No. 10 Florida routs Alabama St. by 49 Martin winner in first game at South Carolina CBT: Burning questions entering season Ad
+    Orange shoot down Aztecs CBT: Don't rush to judge SDSU after loss Moore: Shorter shot clock equal better hoops? No Manning wins first game as Tulsa coach No. 2 Louisville cruises past Manhattan Angry timeout talk ignites No. 4 Ohio St. No. 10 Florida routs Alabama St. by 49 Martin winner in first game at South Carolina Ad
 *   Motors
     SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Christian Petersen / Getty Images Keselowski on brink of Cup title
     
@@ -43,29 +43,29 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     Notebook: Gordon, Bowyer tangle at Phoenix Patrick won't run Indianapolis 500 Go Daddy to air 2 Super Bowl spots with Patrick Brown first black NHRA champion Logano wins. Sadler hurts Nationwide chances Bourdais re-signs with Dragon Racing F1: Watch the language, guys Henry suspended for substance abuse violation Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Bob Levey / Getty Images Dynamo strike first
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Chris Carlson / AP Tough questions for Sounders
     
-    PST: Houston has a leg up on D.C. in the Eastern Conference finals following 3-1 victory Sunday.
+    It was surprising to watch Seattle, an MLS “final four” team, after all, look so helpless against the Galaxy on Sunday. The Sounders were mildly effective on defense, and more or less inept at the attacking end all night.
     
-    Highlights of Dynamo's victory Bruin propels Dynamo to win PST: Ranking four remaining MLS goalkeepers Roundup: Messi passes Pele's goals in one year Ronaldo forced out of game with head injury Terry hurt after scoring in Chelsea return Injured Rooney out of England squad vs. Sweden Man City fights back to beat Tottenham in EPL Ad
+    Dynamo strike first Highlights of Dynamo's victory Bruin propels Dynamo to win PST: Ranking four remaining MLS goalkeepers Roundup: Messi passes Pele's goals in one year Ronaldo forced out of game with head injury Terry hurt after scoring in Chelsea return Injured Rooney out of England squad vs. Sweden Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Beljan completes amazing Disney win after panic attack
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Timing, guts make Beljan's win memorable
     
-    In a scene that looked like it was written for a Disney movie, Charlie Beljan played through major health concerns to nab his first Tour win.
+    Charlie Beljan goes from 139th in money to the hospital to the winner's circle, while former Tour winner Camilo Villegas is headed to Q-School.
     
-    Beljan completes amazing fairy-tale win at Disney Bubble watch from Disney finale Rory wins Euro money title, youngest in 32 years What We Learned: Beljan wins Disney Faldo doesn't believe Woods will catch Nicklaus Quotes of the Week Forbes lists Woods, Nike among most valuable sports brands Vote for your favorite LPGA player Video: Tiger, Rory joint interview on CNN Tip of the Week: Preparing properly for your round Ad
+    Beljan completes amazing fairy-tale win at Disney Bubble watch from Disney finale Rory wins Euro money title, youngest in 32 years Beljan's next goal? A practice round with Tiger What We Learned: Beljan wins Disney Beljan continues huge rise in OWGR, up to 159th Faldo doesn't believe Woods will catch Nicklaus Quotes of the Week Fowler: 'Different flair' for Golf Boys follow-up Tips for adding more distance to your tee shots Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Andy Clayton King / AP Franklin, Lochte coast to victory in Grand Prix
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Andy Clayton King / AP Lochte, Franklin impress in Minnesota
     
-    Olympians Missy Franklin and Ryan Lochte each coasted to victory in their first major competition since the London Games, winning two events apiece on the final night of the short-course Minneapolis Grand Prix.
+    Gold medalists Ryan Lochte and Missy Franklin had presumably spent more time shooting scenes for TV teen dramas than actually swimming since the London Games, but neither seemed too affected by the time off at this weekend’s Minnesota Grand Prix.
     
     Myhrer wins World Cup slalom Chan, Korpi win gold at Rostelecom Cup OlympicTalk: Lolo scores silver in bobsled debut Windsurfing stays in Olympics over kiteboarding Myhrer wins World Cup slalom premier in Finland Franklin is double winner at Minneapolis swim meet Russia's Zubkov wins WC 4-man. Holcomb of US 2nd Hoefl-Riesch wins WCup slalom. Shiffrin of US 3rd Ad
 *   More
-    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Glyn Kirk / AFP - Getty Images Djokovic, Federer reach ATP final
+    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Elizabeth Kreutz / AP Armstrong cuts ties to Livestrong
     
-    As usual, Roger Federer is looking to add to one of his many records. And as many expected, Novak Djokovic will be trying to stop him. The top two players in the world advanced to the championship match at the ATP finals on Sunday, each looking beatable early before turning things around.
+    Lance Armstrong has cut formal ties with his cancer-fighting charity to avoid further damage brought by doping charges and being stripped of his seven Tour de France titles.
     
-    North Carolina QB sets prep mark in 104-80 win Wladimir Klitschko retains heavyweight belts Mares beats Moreno, defends 122-pound title Tour champ Wiggins released from hospital Dan Patrick: Utah girl a star in youth football Newton TD celebration gets prep star ejected Big names in sports thrown for losses by voters The lineup for sports on election night Ad
+    The Week in Sports Pictures Djokovic, Federer reach ATP final North Carolina QB sets prep mark in 104-80 win Wladimir Klitschko retains heavyweight belts Mares beats Moreno, defends 122-pound title Tour champ Wiggins released from hospital Dan Patrick: Utah girl a star in youth football Newton TD celebration gets prep star ejected Ad
 
 *   Scores
 *   Odds
