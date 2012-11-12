@@ -6,9 +6,9 @@ Store Locator
 
 *   Occasions
     
-    *   Veteran's Day
     *   Christmas
     *   Hanukkah
+    *   Religious Gifts
     *   Holiday Parties
     *   Birthday for Him
     *   Birthday for Her
@@ -18,11 +18,10 @@ Store Locator
     *   Housewarming
     
     *   Graduation
-    *   Religious Gifts
-    *   Memorial &. Sympathy
     *   New Job
     *   Performance Recognition
     *   Service &. Retirement
+    *   Memorial &. Sympathy
     
 
 *   Gift Categories
