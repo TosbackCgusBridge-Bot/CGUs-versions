@@ -968,16 +968,16 @@ Follow @twitter   International Shipping Shipping To: From Our Family of Brands
 *   christmas decorations
 *   interior design ideas
 
+*   furniture
+*   bathroom vanities
+*   personalized gifts
+*   area rugs
+*   christmas ornaments
 *   christmas stockings
-*   childrens books
-*   baby diaper bags
-*   personalized baby blankets
-*   toy storage
-*   baby gifts
-*   crib bedding sets
-*   bunk beds
-*   baby registry
-*   baby room ideas
+*   wedding registry
+*   accent chairs
+*   christmas decorations
+*   interior design ideas
 
 *   bunk beds
 *   bed skirts
