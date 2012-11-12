@@ -1,5 +1,5 @@
 :::::::::::::::::::::Spread the word about the APP for ANDROIDS&nbsp&nbspThank you for being here, a Kickapps/Kit Digital website. It is appreciated. Truly.  
-YOU MUST BE LOGGED IN TO ACCESS _**THE BEST STUFF**_ ON THIS WEBSITE!!! We treat members right! Don't be drive-by surfer!  
+YOU MUST BE LOGGED IN TO ACCESS _**THE BEST STUFF**_ ON THIS WEBSITE!!! We treat members right! Don't be a drive-by surfer!  
 Connect with the webmaster on EMPIRE AVE AND STAGE 32 Check out my personal webpage ~~ See also AtlantaStagehand.Info  
 Subscribe To Our New Hollywood All-Stars Mailing List  
 Web This Site USE OF THIS FACILITY UNDER AUTHORIZED SUPERVISION ONLY :::::: THIS PROGRAM BROUGHT TO YOU IN LIVING COLOR :::::::::::::::: OVER THE NEXT  
