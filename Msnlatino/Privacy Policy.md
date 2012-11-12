@@ -687,21 +687,21 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡No te las pierdas!
+*   Ponte al día
     
-    Mira aquí lo mejor de tus novelas.
+    Actualízate con lo  mejor del Patrón del Mal.
     
-*   La infidelidad femenina
+*   La dieta de la canela
     
-    Descubre por qué son infieles las mujeres  
+    ¡Querrás perder peso todos los días!  
     
-*   ¿Quién es el galán con cuerpo perfecto?
+*   ¡Pompis muy varoniles!
     
-    Nosotros te lo decimos...
+    Ellos impactan con un pompis de ataque
     
-*   Camino de Miss Puerto Rico
+*   Camino de Miss Bolivia
     
-    Descubre a Bodine Koehler, la exótica belleza que ilusiona a Puerto Rico con alcanzar su sexta corona.
+    Yéssica Mouton, la reina boliviana es un derroche.
     
 
 Más en Telemundo:
