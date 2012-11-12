@@ -631,22 +631,22 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 82 comments
-*   18-year-old accused of setting family's basset hound on fire near Camarillo Updated 11/9/2012 at 11:01 p.m.
-*   Officers used surprise to apprehend Fillmore student accused of carrying gun to school Published 11/9/2012 at 8:23 p.m.
-*   Ventura High educator is named state Teacher of the Year Published 11/9/2012 at 8:30 p.m. 13 comments
-*   Latest vote count tightens races for Oxnard council and harbor district Published 11/9/2012 at 5:25 p.m. 14 comments
+*   Job-based health coverage falls on hard times Published 11/10/2012 at 8:42 p.m. 42 comments
+*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 121 comments
+*   Will: Conservatives, start all over again Published 11/10/2012 at 8:01 p.m. 29 comments
+*   DA, defense lawyers to start reviewing 3-strikes cases after Prop. 36 passage Updated 11/10/2012 at 8:49 p.m. 18 comments
+*   Ventura County representatives know 'fiscal cliff' is on their agenda Published 11/11/2012 at 4:56 p.m. 19 comments
 
-Photo Galleries One restaurant, two cuisines in Ojai Bradbury forever Camarillo vs. Harvard-Westlake
+Photo Galleries One restaurant, two cuisines in Ojai Camarillo vs. Harvard-Westlake Election night 2012
 
-*   Morning chat Published 11/9/2012 at 12:00 a.m. 197 comments
+*   Morning chat Published 11/9/2012 at 12:00 a.m. 263 comments
+*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 121 comments
+*   Obama's support dropped from '08 in east county cities Published 11/8/2012 at 4:49 p.m. 97 comments
 *   Obama: 'We have picked ourselves up,' fought back Published 11/6/2012 at 10:08 a.m. 440 comments
-*   Obama's support dropped from '08 in east county cities Published 11/8/2012 at 4:49 p.m. 96 comments
-*   Educators relieved with passage of Proposition 30 Published 11/7/2012 at 3:39 p.m. 122 comments
-*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 82 comments
+*   CLU economists expect local income disparity to grow Published 11/9/2012 at 12:01 a.m. 48 comments
 
-*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
 *   Authorities warn of "knock knock" burglaries in east Ventura County Published 11/8/2012 at 12:11 p.m. 0 comments
+*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
 *   18-year-old accused of setting family's basset hound on fire near Camarillo Published 11/9/2012 at 10:13 a.m. 0 comments
 *   Oxnard school principal arrested after alleged road rage incident Published 11/2/2012 at 5:47 p.m. 0 comments
 *   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 75 comments
@@ -657,25 +657,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 38° Fair Wind: NW 4mph Today 65° 44° Sun 05:00 PM Clear Temp: 55° Mon 05:00 AM Clear Temp: 44° Mon 05:00 PM Mostly Clear Temp: 61°
-
-Feels Like: 55°
-
-Humidity: 43%
-
-Precip: 0%
-
-Feels Like: 39°
-
-Humidity: 71%
-
-Precip: 0%
+Currently 49° Fair Wind: E 7mph Today 71° 50° Mon 05:00 PM Clear Temp: 61° Tue 05:00 AM Clear Temp: 50° Tue 05:00 PM Mostly Clear Temp: 62°
 
 Feels Like: 61°
 
-Humidity: 58%
+Humidity: 35%
 
 Precip: 0%
+
+Feels Like: 50°
+
+Humidity: 46%
+
+Precip: 0%
+
+Feels Like: 62°
+
+Humidity: 41%
+
+Precip: 3%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -721,18 +721,10 @@ More bloggers Wire
 
 Calendar
 
-*   Sunday Nov 11
 *   Monday Nov 12
 *   Tuesday Nov 13
+*   Wednesday Nov 14
 *   More BROWSE Icon
-
-*   Veterans Day Ceremony El Presidio de Santa Bárbara State Historic Park, 123 East Canon Perdido Street, Santa Barbara 10:30 a.m.
-*   Veterans Day Ceremony El Presidio de Santa Bárbara State Historic Park, 123 East Canon Perdido Street, Santa Barbara 10:30 a.m.
-*   "Veteran's Day Celebration at The Bonaventure" The Bonaventure 11:30 a.m.
-*   Felted Fashion (Art Workshop) California African American Museum noon
-*   "Talbot, Crowe &. Ford" Camarillo Art Center 1 p.m.
-
-More Events »
 
 *   United Parents Support Group United Parents Support Group 6 p.m.
 *   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
@@ -750,6 +742,14 @@ More Events »
 
 More Events »
 
+*   Employment Law Update 2013 (Or…Should Auld Employment Laws be Forgot?) Los Robles Golf Course Banquet Center 8 a.m.
+*   St. Vincent's Annual Fashion Show &. Luncheon Villa Caridad Community Room at St. Vincent's (4202 Calle Real, Santa Barbara CA 93110) 10 a.m.
+*   St. Vincent's Annual Fashion Show &. Luncheon (Updated) Villa Caridad Community Room at St. Vincent's (4202 Calle Real, Santa Barbara CA 93110) 10 a.m.
+*   St. Vincent's 4th Annual Fashion Show &. Luncheon Bishop Diego High School Santa Barbara, CA 93110 10:30 a.m.
+*   St. Vincent's 4th Annual Fashion Show &. Luncheon Villa Caridad Community Room at St. Vincent's (4202 Calle Real, Santa Barbara CA 93110) 10:30 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
@@ -758,13 +758,13 @@ More Events » Features
     
     Stay up to date with what's happening across the state.
     
-    On Campus
-    
-    Video profiles of high school football programs.
-    
     95 percent accurate
     
     Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
+    
+    National News
+    
+    Stay up to date with what's happening across the nation.
     
 *   #Your Community: How You See It
     
@@ -778,9 +778,9 @@ More Events » Features
     
     Follow Loren Ledin's picks and choose your own leaderboard.
     
-*   National News
+*   On Campus
     
-    Stay up to date with what's happening across the nation.
+    Video profiles of high school football programs.
     
     Storm Shield
     
