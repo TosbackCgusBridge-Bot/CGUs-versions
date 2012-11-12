@@ -175,7 +175,7 @@ Your control over your information
 How to contact us  
 **If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please Contact Us. You may also reach us by telephone at  1-800-248-7310 weekdays from 7:30 a.m. – 5:30 p.m. Central Time.
 
-ENDECA\_EXCLUDE\_START HERSHEY’S® trademark and trade dress are used under license Featured Web Sites General Mills Brands Corporate Sites
+ENDECA\_EXCLUDE\_START Featured Web Sites General Mills Brands Corporate Sites
 
 *   Betty Crocker | Recipes
 *   Box Tops for Education | Support Your School
