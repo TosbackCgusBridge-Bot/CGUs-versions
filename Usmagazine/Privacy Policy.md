@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Fashionable Sisters »
+Hot Pics! J-Law's Chic-Sexy! »
 
-Top Stories1.  Justin Bieber Speaks Out on Selena Gomez Split »
-2.  Exclusive Vanessa Minnillo Made "Rookie Mistakes" Changing Camden's Dirty Diaper »
-3.  Pregnant Holly Madison Enjoys Babymoon at Disney World »
+Top Stories1.  Justin Bieber Sings "Cry Me a River" After Selena Gomez Split »
+2.  Pregnant Holly Madison Enjoys Babymoon at Disney World »
+3.  Exclusive Vanessa Minnillo Made "Rookie Mistakes" Changing Camden's Dirty Diaper »
 4.  Anne Hathaway Slams Katie Holmes on Saturday Night Live »
-5.  Somber Selena Gomez Surfaces in L.A. After Justin Bieber Split »
+5.  Justin Bieber Speaks Out on Selena Gomez Split »
 
  
 
@@ -177,9 +177,9 @@ Inside Us Weekly
 
 *   Style Christina Aguilera Flashes Leopard Bra Under
 *   Beauty Christa B. Allen: What's in My Bag?
-*   Moms Pregnant Holly Madison Enjoys Babymoon at Dis
-*   Body NEW PICTURES: Matthew McConaughey Looks More  
-*   Entertainment Weekend Box Office: Skyfall Is Biggest Bond M
+*   Moms Pregnant Camila Alves: See Her Growing Baby B
+*   Body Anne Hathaway: I Was "Obsessive" About Losing  
+*   Entertainment Alyson Hannigan, Seth Green Reunite on How I
 
 *   US WEEKLY
 *   Celebrity News
