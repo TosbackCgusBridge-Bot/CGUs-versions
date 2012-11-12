@@ -514,10 +514,10 @@ See All Newsletters   best of video village
   
 best of iVillage
 
-*   Health Slideshow Dating Online? Watch Out for These Red Flags
-*   Entertainment Photos Obama Wins the Election! See His Famous Friends
-*   Beauty Celeb Hair 35 Celeb Hair and Makeup Looks to Try at Home
-*   Food Holiday Cooking The 11 Cooking Tools You Need for the Holidays
+*   Health Slideshow Dr. Oz’s 25 Best Weight-Loss Tips
+*   Food Thanksgiving 50 Celebrity Chef Recipes for Thanksgiving
+*   Beauty DIY Beautify How to Get Sexy Eyes Everyone Will Envy
+*   Homeandgarden Thanksgiving 17 Thanksgiving Finds for Your Home
 *   Parenting Vacation + Travel Tips for Traveling While You're Pregnant
 
 *   Join iVillage
