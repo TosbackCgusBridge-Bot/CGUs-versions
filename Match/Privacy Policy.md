@@ -1,42 +1,4 @@
-Match.com®
-
-*   Subscribe
-*   Home
-*   Search
-    *   Go Search
-    *   Custom Search
-    *   Mutual Match
-    *   Reverse Match
-    *   DateSpark Search
-*   Matches
-    *   All Matches
-    *   Daily Matches
-*   Connections
-    *   All Connections
-    *   Winks
-    *   Likes
-    *   Who’s Viewed Me
-    *   Who’s Favorited Me
-    *   My Favorites
-    *   Phonebook
-*   Messages
-    *   Email
-*   Events
-    *   Stir events
-*   Profile
-    *   View/Edit
-    *   Photos
-    *   Quizzes
-    *   DateSpark
-    *   Settings
-*   Sign In
-    *   Help
-
-*   facebook app
-*   mobile
-*   invite friends
-
-Great - your profile is now visible! close window » Match.com, L.L.C. Privacy Policy Last Updated: November 5, 2012
+Match.com, L.L.C. Privacy Policy Last Updated: November 5, 2012
 
 Match.com, L.L.C., as regards users originating from within the United States, and Match.com Global Services Limited, as regards users originating from outside the United States (“Match.com”) respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.  We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
@@ -163,35 +125,3 @@ Web Beacons:
 Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
 
 Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. Third parties may use anonymous information about your visits to our site and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you.
-
-*   About Match.com
-*   Terms of Use\*\*
-*   Your Privacy
-*   Media Room
-*   Careers
-
-*   Online Dating Safety Tips
-*   Dating Articles &. Advice
-*   How Online Dating Works
-*   Success Stories
-*   Relationship Tips
-
-*   Help/FAQs
-*   Profile Assistance
-*   Contact Us
-*   Site Map
-*   Match International
-
-*   Match.com Guarantee
-*   Mobile
-*   Gift Subscriptions
-*   ProfilePro
-
-*   Advertise on Match.com
-*   Become an Affiliate
-*   Promotions &. Sponsorships
-*   Business Development
-
-_\*\* Our Terms of Use Agreement was revised 4/9/2012._
-
-© Copyright 2012 Match.com, L.L.C. wec1-002fec1-004s-
