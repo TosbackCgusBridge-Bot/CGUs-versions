@@ -13,18 +13,17 @@ Search
 *   Social Games
 *   Racing
 *   Action
+*   Girls
 *   Sports
 *   Skill
-*   Adventure
 *   Multiplayer
+*   Adventure
 *   Puzzle
 *   Board &. Card
 *   Sonic Games
 *   AWARDS
 *   HIGH SCORES
-*   Top 10 Classics
 *   Mobile Games
-*   Forum
 
 Home Privacy Policy  
   Privacy Policy
