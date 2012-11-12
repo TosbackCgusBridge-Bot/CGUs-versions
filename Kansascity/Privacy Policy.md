@@ -134,29 +134,31 @@ Contact Information
 
 If you have any questions or comments about our policies, we may be reached at KansasCity.com, 1729 Grand Blvd., Kansas City, Missouri 64108, at 816-234-4636 or at kcsfeedback@kansascity.com.
 
-KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day This Week's Best Deals Will Keep Cash in Your Pocket! $0 Value: Discount: You Save: $0 100% $0
+KansasCity.comArchivesHistorical ArchivesWeb Web Search powered by YAHOO! SEARCH dealsaver's™ Deal of the Day 50% Off 1 or 3 Month Fitness/Open Court Membership includes Enrollment Fee $30 Value: Discount: You Save: $60 50% $30
 
-Sunday: More Deals
+Monday: Target Deals
 
-1.  DEAF EDUCATION CONSULTANT
-    
-    The Missouri School for the Deaf
-    
-2.  PARALEGAL
+1.  PARALEGAL
     
     GREGORY LEYH, P.C.
     
-3.  PLUMBER/DRAIN CLEANER
+2.  PLUMBER/DRAIN CLEANER
     
     Snake'n'Rooter
     
-4.  Press &. Lamination Operators
+3.  CAMPAIGN JOBS
     
-5.  Apartment Maintenance Helper
+    Grassroots Campaigns, Inc.
     
-6.  Parts Project Coordinator
+4.  Apartment Maintenance Tech Part Time
     
-    Central Power Systems &. Services, Inc.
+    Georgetown Apartments
+    
+5.  SEASONAL DRIVERS
+    
+    Kelly Services
+    
+6.  OPERATING MANAGER
     
 
 View More The Most
@@ -164,16 +166,16 @@ View More The Most
 *   Read
 *   Commented
 
+*   Kansas State sits on top of the BCS standings
 *   Woman was murdered to cover sexual assaults, authorities allege
-*   Justin and Selena break up: Never say never
-*   One dead, one wounded in apparent gun battle
-*   Door open for Wildcats in BCS title-game race
-*   Piolis first four years with Chiefs not up to level of Peterson
-*   No. 3 K-State beats TCU, stays on course for title game
-*   Missouri girl found near road after missing 8 hours
-*   Missouri beats Tennessee 51-48 in four overtimes
-*   K-State Notebook | Banged-up Cats. ineffective offense
-*   King Carl vs. Patriot Way: A comparison of the general managers’ first four years in KC
+*   Chiefs on verge of historic futility
+*   Change hasnt helped Chiefs
+*   Steelers forge foundation for long-term success
+*   Judi Dench reflects on reign as mom to James Bond
+*   Notre Dame coach Kelly begins BCS campaign
+*   The Stars editorial | Conservatives will own Kansas budget mess
+*   Incorrect kidnap report sparks high-speed police chase in KC
+*   Kansas City police identify shooting victim
 
 Terms of Service | Privacy Policy | About our ads | Copyright
 
