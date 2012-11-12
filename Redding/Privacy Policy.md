@@ -176,12 +176,6 @@ Record Searchlight
 
 *   Get severe weather notifications anywhere via our new iPhone and Android app
     
-*   Freeze Warning
-    
-    IN EFFECT UNTIL NOV 11, 9:00 a.m.
-    
-    issued for Northern Sacramento Valley
-    
 
 Privacy Policy Redding.com Privacy Policy
 
@@ -276,25 +270,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Obama wins Fla., topping Romney in final tally 332-206 Published 11/10/2012 at 12:31 p.m. 134 comments
-*   Pot votes in Colorado, Washington raise possibility of marijuana tourism Published 11/10/2012 at 4:00 a.m. 85 comments
-*   UPDATE: Vehicle crashes on westbound Highway 44 Published 11/10/2012 at 3:49 p.m. 4 comments
-*   Marc Beauchamp: Taking arms against a sea of troubles Published 11/10/2012 at 12:00 a.m. 47 comments
-*   Guard shoots, kills inmate at Susanville prison Published 11/9/2012 at 3:33 p.m. 63 comments
+*   GOP strategist: Two-party system collapses in California Published 11/11/2012 at 4:00 a.m. 172 comments
+*   Two dead from wild mushrooms served at Sacramento-area care facility Published 11/11/2012 at 8:54 a.m. 31 comments
+*   Trent Amen: As a business owner, I'm baffled by election result Published 11/11/2012 at 12:00 a.m. 53 comments
+*   State looks to drop warrants for some parolees Published 11/11/2012 at 4:00 a.m. 51 comments
+*   Raley's, union return to bargaining table Published 11/11/2012 at 3:48 p.m. 24 comments
 
-Photo Galleries West Valley beats Lassen Fallis Around Town Foothill vs. Chico
+Photo Galleries Veterans Day Parade West Valley beats Lassen Fallis Around Town
 
-*   Obama wins Fla., topping Romney in final tally 332-206 Published 11/10/2012 at 12:31 p.m. 134 comments
-*   Larry Kay: Let's turn off fear-mongerers Published 11/8/2012 at 12:00 a.m. 133 comments
+*   GOP strategist: Two-party system collapses in California Published 11/11/2012 at 4:00 a.m. 172 comments
+*   Obama wins Fla., topping Romney in final tally 332-206 Published 11/10/2012 at 12:31 p.m. 151 comments
 *   CIA Director Petraeus quits, cites extramarital affair Published 11/9/2012 at 12:56 p.m. 127 comments
 *   Charles Krauthammer: The Republicans' way forward Published 11/9/2012 at 12:00 a.m. 120 comments
-*   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
+*   Pot votes in Colorado, Washington raise possibility of marijuana tourism Published 11/10/2012 at 4:00 a.m. 91 comments
 
 *   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
-*   UPDATED: Redding Realtor recovering after being stabbed in Starbucks Published 11/1/2012 at 10:33 a.m. 56 comments
 *   Wild horse, burro adoption falls short. economic factors leave trail of uncertainty Published 11/4/2012 at 6:52 p.m. 11 comments
 *   UPDATE: Detectives arrest two men in connection with Big Bend murder Published 11/3/2012 at 9:09 a.m. 31 comments
 *   Siskiyou County Sheriff Jon Lopey says he's fighting to protect rural America Published 11/3/2012 at 7:36 p.m. 59 comments
+*   Dahle trounces Bosetti in Assembly District 1 race Published 11/6/2012 at 8:38 p.m. 19 comments
 
 Weather
 
@@ -302,25 +296,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 31° Fair Wind: Calm Today 58° 35° Sun 05:00 PM Mostly Clear Temp: 45° Mon 05:00 AM Mostly Cloudy Showers Temp: 37° Mon 05:00 PM Mostly Cloudy Showers Temp: 50°
-
-Feels Like: 44°
-
-Humidity: 65%
-
-Precip: 10%
-
-Feels Like: 34°
-
-Humidity: 79%
-
-Precip: 30%
+Currently 41° A Few Clouds Wind: Calm Today 58° 43° Mon 05:00 PM Mostly Cloudy Showers Temp: 50° Tue 05:00 AM Mostly Cloudy Showers Temp: 44° Tue 05:00 PM Mostly Cloudy Showers Temp: 53°
 
 Feels Like: 50°
 
-Humidity: 74%
+Humidity: 71%
 
-Precip: 29%
+Precip: 23%
+
+Feels Like: 44°
+
+Humidity: 80%
+
+Precip: 27%
+
+Feels Like: 53°
+
+Humidity: 77%
+
+Precip: 23%
 
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
@@ -336,18 +330,10 @@ swan dive? 8/28/12
 11:35 p.m.  
 More Weather » Calendar
 
-*   Sunday Nov 11
 *   Monday Nov 12
 *   Tuesday Nov 13
+*   Wednesday Nov 14
 *   More BROWSE Icon
-
-*   Honoring Our American Heroes Elks Lodge 10:30 a.m.
-*   Ride On Race Series Contact for Location Information 11 a.m.
-*   United Bikers of Northern California Presents The 29th Annual Toy Run Walmart - Anderson noon
-*   Acorns — A Native American Staple Horsetown-Clear Creek Preserve 1 p.m.
-*   Dinner with the Doctor Seventh-day Adventist Church 6 p.m.
-
-More Events »
 
 *   RABA Veteran's Day Fundraiser Mt. Shasta Mall 6 a.m.
 *   Pitty Party spay and neuter day Haven Humane 7:30 a.m.
@@ -362,6 +348,14 @@ More Events »
 *   2nd Tuesday Dining Club Mary's Pizza Shack 5 p.m.
 *   Shasta County Democratic Women's Club meeting Market St Pizza &. Deli 6:30 p.m.
 *   Suicide Loss Support Group St James Church 7 p.m.
+
+More Events »
+
+*   Cleanrite-Buildrite's 4th Annual Stuff The Truck in Anderson See Description 7 a.m.
+*   GIS Day 2012, Discovering the World Through GIS Redding Library 9:30 a.m.
+*   Trinity Tourism Marketing Forum See Description 11 a.m.
+*   Clutter Support Group Redding Library 6 p.m.
+*   KIXE Holiday Auction KIXE 7 p.m.
 
 More Events »
 
