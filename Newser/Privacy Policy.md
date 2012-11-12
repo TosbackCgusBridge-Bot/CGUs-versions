@@ -2,21 +2,20 @@
 
 *   What's New
 *   Hot Topics
-    *   Election 2012
     *   David Petraeus
-    *   CIA
     *   Paula Broadwell
     *   timeless news
-    *   President Obama
     *   strange stuff
+    *   David Petraeus...
+    *   FBI
+    *   CIA
     *   entertainment
-    *   celebrity
-    *   Mitt Romney
+    *   Hurricane Sandy
+    *   extramarital affair
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
 
-*   ELECTION 2012
 *   POLITICS
 *   MONEY
 *   HEALTH
@@ -29,8 +28,8 @@
 *   TRAVEL
 *   CELEBRITY
 *   ENTERTAINMENT
+*   LUXURY LIVING
 *   MORE
-    *   LUXURY LIVING
     *   LIFESTYLE
     *   CRIME
     *   GREEN
@@ -120,63 +119,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Boehner Is Bluffing
-*   Lincoln
-*   Liberal Schadenfreude Is Out of Control
+*   Was Petraeus' Affair Exposed Because of Paula Broadwell's...
+*   How Obama Can End Political Gridlock
+*   The Chosen Few
 
 More from Slate »
 
-*   DODGE _THIS_
-*   Woman Stuck Between 2 Buildings Says She Didn't Fall Off...
-*   She Has To Drink 6 Pints Of Milk Every Day To Survive
+*   HOLY WAR
+*   UFOs Over Denver: Truly Unexplained Or Just Bugs? (VIDEO)
+*   Disney Catches Phony Fed Trying To Get In For Free: Cops
 
 More from HuffPost Weird »
 
-*   The 10 Coolest Fictional Pets
-*   Rep. Tammy Baldwin Respond’s To Male Colleague’s Offer To...
-*   Saturday Playlist: Chill Out, Dude
+*   Your Friskyscopes For The Week Of November 12-18, 2012
+*   That’s A Lot Of Look: Katherine Heigl Is Overly Embellished
+*   15 Stunning Photos Of Amanda Seyfried In Vanity Fair
 
 More from The Frisky »
 
-*   After Hurricane Sandy, Nestle donates hundreds of Hot...
-*   Rich people have thought of the poor as moochers since the...
-*   Want to create a little lunchtime excitement at a police...
+*   Custom-made coffins to die for or, for those based on...
+*   The Wright Brothers' patent for their 1903 flying jalopy...
+*   Don't forget Poland \[Obvious\]
 
 More from Fark »
 
-*   How Obama won re-election
-*   10 things you need to know today: November 10, 2012
-*   5 smart reads for the weekend
+*   David Petraeus' mistress: What we know about Paula Broadwell
+*   Hurricane Sandy's lessons: How America can protect its...
+*   10 things you need to know today: November 11, 2012
 
 More from The Week »
 
-*   Allen West Will Not Admit That He Lost
-*   BBC Director General George Entwistle Resigns Over Sex...
-*   New Yorkers Suddenly Remember What Exactly They Had in...
+*   Police Still Have Nothing on Pedro Hernandez, Won’t Call...
+*   Did Paula Broadwell Divulge Classified Information?
+*   Cuomo Wants $30 Billion for a New Power Grid, Gas System,...
 
 More from Daily Intel »
 
-*   _Feeling The Winter Chill?_
-*   25 Things I Learned In 25 Years (Of Marriage)
-*   5 Ways to Get Over Yourself in Under 5 Minutes
+*   Veterans Day: 5 Health Benefits Of Service
+*   The New Face of Infidelity
+*   Older Veterans Also Have Mental Health Needs
 
 More from HuffPost Health »
 
-*   Jessica Biel Emerges in New York City Post Honeymoon...
-*   Kim, Kourtney and Khloe Kardashian Launch Kardashian...
-*   Justin Bieber and Selena Gomez Break Up (REPORT)
+*   MTV Europe Music Awards 2012 Red Carpet: Heidi Klum, Taylor...
+*   ‘Saturday Night Live’ Recap: Anne Hathaway is Really Good...
+*   'Jersey Shore' Star Vinny Guadagnino Turns 25: See the...
 
 More from Celebuzz »
 
-*   Out of This World 3 Cheese Macaroni and Cheese Recipe
-*   Body of Missing Teen Found, But Could an Amber Alert Have...
-*   'Skyfall' Is Best, Best James Bond Movie Ever, Says James...
+*   'Walking Dead' Recap: We Learn the Governor's Sick Secrets
+*   'Real Housewives of Atlanta' Recap: Kim Zolciak Throws...
+*   Watch This Man Sweat the 'Mommy Juggle' (VIDEO)
 
 More from The Stir »
 
-*   Trailer Mash 11-09-12
-*   Leo Burnett Has Its Own 'Saatchi 17' Problem
-*   Cats Win as America's Favorite Pet
+*   The Finalists
+*   Voice: Living the Dream
+*   Advertisers Gird for Gridlock
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
