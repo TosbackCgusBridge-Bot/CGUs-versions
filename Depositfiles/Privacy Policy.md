@@ -45,7 +45,7 @@ IN CASE OF ANY EVIDENCE OF DISTRIBUTION OF THE FILES CONTAINING MATERIALS WHICH 
 DISCLOSURE OF YOUR INFORMATION CAN BE LAWFUL AS A RESULT OF A LEGAL PROCESS.  
 
   
-Captcha Invalid Invalid login Unknown Error Invalid input data Please, enter login Captcha Required Please, enter desired login Please, enter your password Please, reenter your password The password and the reentered password should be the same Enter your e-mail address Entered email does not appear to be valid To continue you should agree to the rules of our service. Please enter at least {0} characters. Please enter no more than {0} characters. Unknown Error Complete In queue Incorrect file size File too small. You do not have any files here yet...
+Captcha Invalid Invalid login Unknown Error Invalid input data Please, enter login Captcha Required Please, enter desired login Please, enter your password Please, reenter your password The password and the reentered password should be the same Enter your e-mail address Entered email does not appear to be valid To continue you should agree to the rules of our service. Please enter at least {0} characters. Please enter no more than {0} characters. Unknown Error Complete In queue Incorrect file size File too small. There are no logs yet
 
 *   Mobile version
 
