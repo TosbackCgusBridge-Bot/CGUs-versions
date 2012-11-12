@@ -1,4 +1,4 @@
-WELCOME TO SIDE STREET
+A NOTE FROM DAVID PELTIER
 
 *   **Home**
 
@@ -87,14 +87,16 @@ WELCOME TO SIDE STREET
 
 *   HOT TOPICS:
 *   Grave Apple Worries
-*   Kayak vs. Groupon
-*   Moore's Second Law
+*   GSE Reform
+*   Leucadia-Jefferies
 *   Zurich Webinar
-*   #StarWarsFiscalCliff
-*   Death of Daily Deals
-*   Biotech Stocks
+*   Color TI-84
+*   Kass
+*   Windows 8
+*   iPhone 5S
+*   Marissa Mayer
 
-pjava03.dc.thestreet.com Privacy Policy
+pjava07.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -249,7 +251,7 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 12,815.39 4.07 0.03% NASDAQ 2,904.87 9.29 0.32% S&P 500 1,379.85 2.34 0.17% US 10 Yr 1.613% -0.019 Brokerage Partners Most Commented
+DOW 12,829.98 14.59 0.11% NASDAQ 2,912.06 7.19 0.25% S&P 500 1,383.57 3.72 0.27% US 10 Yr 1.611% -0.002 Brokerage Partners Most Commented
 
 *   Tesla Motors Pollutes Today for a Greener Tomorrow
 *   TheStreet Predicts Obama Will Win the 2012 Election
@@ -257,7 +259,7 @@ DOW 12,815.39 4.07 0.03% NASDAQ 2,904.87 9.29 0.32% S&P 500 1,379.85 2.34 0.17% 
 *   Solar Panels Don't Work!
 *   Obama Defeats Romney: 2012 Election Night Blog Recap
 
-Articles From Newser Target Jumps on Black Thursday Bandwagon Dorothy's Wizard of Oz Dress Fetches $480K Huge Airline Pilot Shortage Looms See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Spain Temporarily Halts Evictions for 'Most Vulnerable' Greek Parliament OKs Austerity Budget To Dodge Ticket Tax, Theater Sells Admission Carrots See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
