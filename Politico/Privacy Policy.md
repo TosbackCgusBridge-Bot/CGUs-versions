@@ -111,46 +111,46 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/12/2012 7:01 AM ET
+Updated: 11/12/2012 2:16 PM ET
 
-1.  1 Media fight on the right over GOP
-2.  2 GOP Senate in 2014 a long shot
-3.  3 The GOP polling debacle
-4.  4 Election causes angst for House GOP
-5.  5 Rove under fire
-6.  6 Rasmussen explains
-7.  7 5 fiscal cliff scenarios
-8.  8 High anxiety on future of new pot laws
-9.  9 'Homeland' star makes Obama Muslim joke
-10.  10 The GOP's media cocoon
+1.  1 The GOP's media cocoon
+2.  2 Grover: Mitt painted as 'poopy head'
+3.  3 King: 'Crisis of major proportions'
+4.  4 5 fiscal cliff scenarios
+5.  5 Secession petitions flood White House website
+6.  6 Romney campaign's lasting mark
+7.  7 Newt: 'Dumfounded' by election
+8.  8 Media fight on the right over GOP
+9.  9 GOP Senate in 2014 a long shot
+10.  10 Election causes angst for House GOP
 
-Updated: 11/12/2012 7:01 AM ET
+Updated: 11/12/2012 2:16 PM ET
 
 1.  1 The GOP polling debacle
 2.  2 Rove under fire
 3.  3 6 questions on Petraeus's exit
 4.  4 Media fight on the right over GOP
-5.  5 FBI whistle-blower contacted Cantor
-6.  6 GOP Senate in 2014 a long shot
-7.  7 Schumer urges Romney to speak up in the future
-8.  8 Rasmussen explains
-9.  9 Election causes angst for House GOP
-10.  10 High anxiety on future of new pot laws
+5.  5 The GOP's media cocoon
+6.  6 Grover: Mitt painted as 'poopy head'
+7.  7 King: 'Crisis of major proportions'
+8.  8 GOP Senate in 2014 a long shot
+9.  9 FBI whistle-blower contacted Cantor
+10.  10 Romney campaign's lasting mark
 
-Updated: 11/12/2012 7:01 AM ET
+Updated: 11/12/2012 2:16 PM ET
 
 1.  1 Rove under fire
 2.  2 6 questions on Petraeus's exit
 3.  3 The GOP polling debacle
 4.  4 Oliver Stone: 'I find Obama scary'
 5.  5 Media fight on the right over GOP
-6.  6 Paula Broadwell in media spotlight
-7.  7 No pass for Petraeus
-8.  8 What's the matter with Florida?
-9.  9 Pelosi mum about future
-10.  10 FBI whistle-blower contacted Cantor
+6.  6 The GOP's media cocoon
+7.  7 Paula Broadwell in media spotlight
+8.  8 Grover: Mitt painted as 'poopy head'
+9.  9 King: 'Crisis of major proportions'
+10.  10 No pass for Petraeus
 
-Updated: 11/12/2012 7:01 AM ET
+Updated: 11/12/2012 2:16 PM ET
 
 1.  1 Rove under fire
 2.  2 Early election results, via NBC
@@ -158,82 +158,82 @@ Updated: 11/12/2012 7:01 AM ET
 4.  4 Chrysler gives workers day off to vote
 5.  5 Oliver Stone: 'I find Obama scary'
 6.  6 Obama, not-so-happy warrior
-7.  7 Romney Mormon video goes viral
-8.  8 The GOP polling debacle
-9.  9 The looming GOP civil war
-10.  10 Christie lashes 'know-nothing, disgruntled' Romney aides
+7.  7 The GOP polling debacle
+8.  8 Christie lashes 'know-nothing, disgruntled' Romney aides
+9.  9 Bill O'Reilly: 'The white establishment is now the minority'
+10.  10 Rove: Obama won 'by suppressing the vote'
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/12/2012 7:01 AM ET
+Updated: 11/12/2012 2:16 PM ET
 
-1.  1 The GOP's media cocoon
-2.  2 The Senate's 'Manchurian candidates'
-3.  3 5 fiscal cliff scenarios
-4.  4 Climate change, political change
-5.  5 Changing of guard: Vets head to Hill
-6.  6 How GOP freshmen won re-election
-7.  7 Dem PAC made dollars count
-8.  8 Romney campaign's lasting mark
-9.  9 Obama still can't help Middle East
-10.  10 Election causes angst for House GOP
+1.  1 Ex-CIA head: Timing 'mysterious'
+2.  2 Newt: 'Dumfounded' by election
+3.  3 Grover: Mitt painted as 'poopy head'
+4.  4 King: 'Crisis of major proportions'
+5.  5 Huntsman: Tune out 'pontificators'
+6.  6 The GOP's media cocoon
+7.  7 The Senate's 'Manchurian candidates'
+8.  8 Stop talking and spend time thinking
+9.  9 5 fiscal cliff scenarios
+10.  10 ITI-TechNet merger on thin ice
 
-Updated: 11/12/2012 7:01 AM ET
+Updated: 11/12/2012 2:16 PM ET
 
-1.  1 The GOP's media cocoon
-2.  2 The Senate's 'Manchurian candidates'
-3.  3 5 fiscal cliff scenarios
-4.  4 Climate change, political change
-5.  5 Changing of guard: Vets head to Hill
-6.  6 How GOP freshmen won re-election
-7.  7 Dem PAC made dollars count
-8.  8 Romney campaign's lasting mark
-9.  9 Obama still can't help Middle East
-10.  10 Election causes angst for House GOP
+1.  1 Ex-CIA head: Timing 'mysterious'
+2.  2 Newt: 'Dumfounded' by election
+3.  3 Grover: Mitt painted as 'poopy head'
+4.  4 King: 'Crisis of major proportions'
+5.  5 Huntsman: Tune out 'pontificators'
+6.  6 The GOP's media cocoon
+7.  7 The Senate's 'Manchurian candidates'
+8.  8 Stop talking and spend time thinking
+9.  9 5 fiscal cliff scenarios
+10.  10 ITI-TechNet merger on thin ice
 
-Updated: 11/12/2012 7:01 AM ET
+Updated: 11/12/2012 2:16 PM ET
 
-1.  1 The GOP's media cocoon
-2.  2 The Senate's 'Manchurian candidates'
-3.  3 5 fiscal cliff scenarios
-4.  4 Climate change, political change
-5.  5 Changing of guard: Vets head to Hill
-6.  6 How GOP freshmen won re-election
-7.  7 Dem PAC made dollars count
-8.  8 Romney campaign's lasting mark
-9.  9 Obama still can't help Middle East
-10.  10 Election causes angst for House GOP
+1.  1 Ex-CIA head: Timing 'mysterious'
+2.  2 Newt: 'Dumfounded' by election
+3.  3 Grover: Mitt painted as 'poopy head'
+4.  4 King: 'Crisis of major proportions'
+5.  5 Huntsman: Tune out 'pontificators'
+6.  6 The GOP's media cocoon
+7.  7 The Senate's 'Manchurian candidates'
+8.  8 Stop talking and spend time thinking
+9.  9 5 fiscal cliff scenarios
+10.  10 ITI-TechNet merger on thin ice
 
-Updated: 11/12/2012 7:01 AM ET
+Updated: 11/12/2012 2:16 PM ET
 
-1.  1 The GOP's media cocoon
-2.  2 The Senate's 'Manchurian candidates'
-3.  3 5 fiscal cliff scenarios
-4.  4 Climate change, political change
-5.  5 Changing of guard: Vets head to Hill
-6.  6 How GOP freshmen won re-election
-7.  7 Dem PAC made dollars count
-8.  8 Romney campaign's lasting mark
-9.  9 Obama still can't help Middle East
-10.  10 Election causes angst for House GOP
+1.  1 Ex-CIA head: Timing 'mysterious'
+2.  2 Newt: 'Dumfounded' by election
+3.  3 Grover: Mitt painted as 'poopy head'
+4.  4 King: 'Crisis of major proportions'
+5.  5 Huntsman: Tune out 'pontificators'
+6.  6 The GOP's media cocoon
+7.  7 The Senate's 'Manchurian candidates'
+8.  8 Stop talking and spend time thinking
+9.  9 5 fiscal cliff scenarios
+10.  10 ITI-TechNet merger on thin ice
 
 Showing Last 7 Days
 
-Updated: 11/12/2012 7:01 AM ET
+Updated: 11/12/2012 2:16 PM ET
 
-1.  1 Media fight on the right over GOP
-2.  2 Rove under fire
-3.  3 How Obama, Boehner could agree
-4.  4 Can Rubio save GOP on immigration?
-5.  5 Republicans ponder way forward
-6.  6 GOP soul-searching: 'Too old, too white, too male'?
-7.  7 Four more for 44
-8.  8 Why 2012 turned small
-9.  9 If Obama loses…
-10.  10 The looming GOP civil war
+1.  1 The GOP's media cocoon
+2.  2 Media fight on the right over GOP
+3.  3 6 questions on Petraeus's exit
+4.  4 Rove under fire
+5.  5 How Obama, Boehner could agree
+6.  6 Can Rubio save GOP on immigration?
+7.  7 Republicans ponder way forward
+8.  8 GOP soul-searching: 'Too old, too white, too male'?
+9.  9 Four more for 44
+10.  10 Why 2012 turned small
 
 News
 
