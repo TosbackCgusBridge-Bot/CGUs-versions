@@ -9,7 +9,7 @@ Sign Up**|**Login VideoPicturesStoriesBlogsDVDs
 *   Premium
 
 HD Videos  •  Top Rated  •  Recommended for Me  •  Categories  •  My Favorite Videos  •  My Videos  •  Mobile Videos  •  Upload Your Video! PRIVACY POLICY for Hammy Media, Ltd. d/b/a www.xhamster.com  
-Effective Date: November 11, 2012  
+Effective Date: November 12, 2012  
 Last Modified: September 27, 2011  
 
 1.  General
