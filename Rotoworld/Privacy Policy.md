@@ -56,6 +56,9 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Jeremy Affeldt expected to get $18 million
+*   Tigers 'most aggressive pursuer' of Hunter
+*   Pierzynski not expected back with White Sox
 *   Several teams interested in Shane Victorino
 *   Dodgers do not have Ethier on trading block
 *   Dodgers win bidding for LHP Ryu Hyun-Jin
@@ -65,9 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   B.J. Upton declines Rays' qualifying offer
 *   Giants confident they can re-sign Affeldt
 *   Nationals, Davey Johnson agree to new deal
-*   Reds interested in Bourn for leadoff spot
-*   Tigers offer Jeremy Bonderman a contract
-*   Brewers talking extension with Corey Hart
 
 NFL PAGES
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Marshall posts an 8/107/0 line in SNF loss
+*   Holmgren: I'm not interested in the Cowboys
+*   Darren McFadden expected back this week?
+*   Packers send RT Bulaga to injured reserve
+*   Jones-Drew already ruled out for Week 11
+*   Report: Eagles could rest Vick for the season
+*   Maclin diagnosed with strained lower back
+*   Pierre Garcon set to test foot in practice
+*   Fred Jackson has concussion-like symptoms
 *   Foster leads Texans to SNF victory over Bears
 *   Cutler has concussion. won't play second half
 *   Eagles are not expected to fire Andy Reid yet
 *   Reid: Michael Vick will start if he's healthy
-*   DeMarco Murray still hasn't passed testing
-*   Raiders TE Myers suffers Week 10 concussion
-*   Fred Jackson sustained a head injury Sunday
-*   Amendola shines, catches 11 passes in return
-*   Rex Ryan vows to stick with reeling Sanchez
-*   Dez Bryant leads Cowboys with 87 yards, TD
-*   Lynch beastmodes for 151 yards, TD in victory
 
 NBA PAGES
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Josh Smith, Lou Williams sick, iffy on Monday
+*   Steve Nash reunited with Mike D'Antoni
+*   Gerald Wallace doubtful despite practicing
+*   Kyle Lowry, Landry Fields out Monday night
+*   76ers hope Andrew Bynum can practice Dec. 10
+*   Nene facing more time on the sideline
 *   Shocker: Mike D'Antoni to coach Lakers
 *   Jason Richardson (ankle) should play Monday
 *   Griz beat Heat behind Ellington's seven 3s
 *   Kevin Love (hand) targeting early December
 *   Chase Budinger needs surgery on torn meniscus
 *   DeMarcus Cousins suspended two games
-*   Humphries goes for 14 points and 21 boards
-*   J.J. Redick starts at shooting guard vs. Nets
-*   Gerald Wallace (ankle) out again on Sunday
-*   Gary Neal scores career-high 27 pts off bench
-*   Jamaal Tinsley hands out 14 assists vs. Suns
-*   Dwyane Wade (illness) will play on Sunday
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Carl Gunnarsson to play in Sweden with Orebro
+*   Sundin wishes his career ended in Toronto
+*   Brandon Dubinsky leaves ECHL game Saturday
+*   Report: Fedor Tyutin signs with Moscow Oblast
+*   Joe Sakic set for HHOF induction on Monday
+*   No progress Sunday on player contract terms
 *   Donald Fehr doesn't "see path for agreement"
 *   Blake Geoffrion (skull) in stable condition
 *   Nathan Horton's agent: "He's ready to play"
 *   Joe Colborne healthy scratch Friday
 *   Salaries for this season now a CBA issue
-*   Jared Cowen sitting out with LB injury
 *   Habs' Blake Geoffrion out indefinitely
-*   NHL players wonder about scheduling problems
-*   Louis Leblanc out with ankle sprain
-*   Labor talks will resume today, newspaper says
-*   Justin Faulk primed for breakout season
-*   Chris Bourque continues to lead Baby B's
 
 NASCAR PAGES
 
@@ -245,6 +245,9 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   James Buescher's NCWTS championship scenario
+*   Stenhouse Jr.'s NNS championship scenario
+*   Keselowski's Chase clinch scenario
 *   Kyle Busch’s team won Phoenix race awards
 *   Kevin Harvick’s team won Phoenix race awards
 *   Jeff Burton won USG Improving Finish award
@@ -254,9 +257,6 @@ FANTASY NASCAR NEWS
 *   Jason Bowles big Nationwide Series gainer
 *   Ninth 2012 Nationwide Series win for Logano
 *   Brian Scott’s team wins Mahle Clevite award
-*   Kyle Larson wins Mobil 1 driver award
-*   Ryan Blaney big gainer in Truck Series
-*   Cale Gale top NCWTS rookie at Phoenix
 
 GOLF PAGES
 
@@ -285,6 +285,10 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Ishikawa poised for rookie year on PGA TOUR
+*   Appleby figures to exhaust top-50 exemption
+*   Colsaerts earns fully exempt status for 2013
+*   Jarrod Lyle is not expected to play in 2013
 *   Jerry Kelly expected to burn top-25 exemption
 *   Teater pars 72nd hole. final card to Chappell
 *   Beljan overcomes adversity to win the CMNHC
@@ -293,10 +297,6 @@ FANTASY GOLF NEWS
 *   Wi maximizes on his chances to lead the CMNHC
 *   Holmes WDs from Disney. solid season ends
 *   Barber's DQ benefits Lafeber, five others
-*   Reed to play Disney. multiple goals in sight
-*   Poulter emerges at the WGC-HSBC Champions
-*   Tianlang, 14, wins Asian Am and Masters berth
-*   Oosthuizen fades. settles for 54-hole co-lead
 
 NFL DRAFT PAGES
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Pauline: WR Hamilton could surprise in 2nd rd
+*   Bielema: Scouts say Ball will be 1st RB taken
+*   Hoke: QB Robinson listed as day-to-day
+*   Pauline: Swope's game is similar to Decker's
+*   Vols starting OLB Curt Maggitt out for year
+*   Muschamp: Driskel doubtful versus Jax State
+*   LaTech QB Colby Cameron still INT-less
+*   Fresno State S Thomas now has eight INTs
+*   Bruins OLB Barr records 2.5 sacks vs Cougars
+*   Jarvis Jones registers another 2 sacks vs AUB
+*   Oregon S Patterson suffers apparent knee inj
 *   Marquess Wilson cites 'abuse' at Wash St.
-*   Vols TE Rivera goes off for 10/129/1 line
-*   Tyler Bray throws for 404 yards, three TDs
-*   Jayhawks RB Sims rushes for 127 yds, 2 TDs
-*   Sammy Watkins will not return in second half
-*   Montee Ball rushes for 198 yards, three TDs
-*   Bridgewater tosses 3 TDs, 424 yards in loss
-*   Former Vol WR Rogers will enter 2013 Draft
-*   McNeal will start at RB over Redd for Trojans
-*   Marqise Lee may see snaps at FS vs ASU
-*   Razorbacks RB Davis not dressed vs SoCar
-*   Clint Chelf will start at QB for Okie State
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
+*   NFL:Holmgren: I'm not interested in the Cowboys
+*   NFL:Darren McFadden expected back this week?
+*   NFL:Packers send RT Bulaga to injured reserve
+*   NFL:Report: Eagles could rest Vick for the season
+*   NFL:Maclin diagnosed with strained lower back
+*   NFL:Pierre Garcon set to test foot in practice
+*   NBA:76ers hope Andrew Bynum can practice Dec. 10
+*   NFL:Fred Jackson has concussion-like symptoms
 *   NBA:Shocker: Mike D'Antoni to coach Lakers
-*   NFL:Marshall posts an 8/107/0 line in SNF loss
 *   NFL:Foster leads Texans to SNF victory over Bears
 *   NFL:Cutler has concussion. won't play second half
-*   NFL:Eagles are not expected to fire Andy Reid yet
-*   NFL:Amendola shines, catches 11 passes in return
-*   NFL:Reid: Michael Vick will start if he's healthy
-*   NFL:DeMarco Murray still hasn't passed testing
-*   NFL:Fred Jackson sustained a head injury Sunday
-*   NBA:DeMarcus Cousins suspended two games
-*   NAS:Kevin Harvick wins AdvoCare 500 in Phoenix
-*   NFL:Rex Ryan vows to stick with reeling Sanchez
+*   CFB:Pauline: WR Hamilton could surprise in 2nd rd
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1M. ReeceNFL (7596)
-*   2T. JonesNFL (7494)
-*   3D. McFaddenNFL (6933)
-*   4P. HarvinNFL (6421)
-*   5A. HernandezNFL (6206)
+*   1M. ReeceNFL (7860)
+*   2T. JonesNFL (7643)
+*   3D. McFaddenNFL (7259)
+*   4P. HarvinNFL (6605)
+*   5A. HernandezNFL (6372)
 
-*   6D. AmendolaNFL (5815)
-*   7N. HilarioNBA (5767)
-*   8I. RedmanNFL (5604)
-*   9J. DwyerNFL (5576)
-*   10D. AveryNFL (5510)
+*   6N. HilarioNBA (6110)
+*   7D. AmendolaNFL (6050)
+*   8I. RedmanNFL (5838)
+*   9J. DwyerNFL (5762)
+*   10K. LoveNBA (5731)
 
   
 Video Center
@@ -560,18 +560,18 @@ More NFL Columns
 
 NFL Headlines
 
-*   »Marshall posts an 8/107/0 line in SNF loss
+*   »Holmgren: I'm not interested in the Cowboys
+*   »Darren McFadden expected back this week?
+*   »Packers send RT Bulaga to injured reserve
+*   »Jones-Drew already ruled out for Week 11
+*   »Report: Eagles could rest Vick for the season
+*   »Maclin diagnosed with strained lower back
+*   »Pierre Garcon set to test foot in practice
+*   »Fred Jackson has concussion-like symptoms
 *   »Foster leads Texans to SNF victory over Bears
 *   »Cutler has concussion. won't play second half
 *   »Eagles are not expected to fire Andy Reid yet
 *   »Reid: Michael Vick will start if he's healthy
-*   »DeMarco Murray still hasn't passed testing
-*   »Raiders TE Myers suffers Week 10 concussion
-*   »Fred Jackson sustained a head injury Sunday
-*   »Amendola shines, catches 11 passes in return
-*   »Rex Ryan vows to stick with reeling Sanchez
-*   »Dez Bryant leads Cowboys with 87 yards, TD
-*   »Lynch beastmodes for 151 yards, TD in victory
 
 NFL Links
 
