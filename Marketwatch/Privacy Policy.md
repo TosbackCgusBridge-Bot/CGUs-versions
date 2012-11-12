@@ -1,4 +1,10 @@
-Bulletin Investor Alert Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
+Bulletin Investor Alert
+
+New York Markets Open in:
+
+Pre-Market Indications Analyst Ratings Oil News EarningsWatch
+
+Home News Viewer Markets Investing Personal Finance Industries Economy/Politics Trading Deck Log In Games Alerts Portfolio Privacy Policy Sections
 
 *   Introduction
 *   Information We Collect
@@ -192,87 +198,89 @@ If you have questions about this Privacy Policy, please contact us at privacypol
     *   WSJ Radio
     *   WSJ Wine
 
-SEARCH 8:06 AM EST November 11, 2012 /marketstate/country/us New York Closed /marketstate/country/uk London Closed /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
+SEARCH 8:05 AM EST November 12, 2012 /marketstate/country/us New York Pre /marketstate/country/uk London Open /marketstate/country/jp Tokyo Closed /marketstate/country/us   /marketstate/country/uk   /marketstate/country/jp   View All Latest News
 
-/news/latest1.  7:01a
+/news/latest1.  8:03a
     
-    Storm and ‘cliff’ muddy economic picture
+    Hess hires Goldman for sale of Russian interests
     
-2.  5:00p
+2.  8:01a
     
-    U.S. stocks to follow erratic ‘fiscal cliff’ path
+    Updates, advisories and surprises
     
-3.  4:39p
+3.  7:58a
     
-    Occupy movement now part of Sandy relief
+    Stock futures up on China data. builders in focus
     
-4.  3:32p
+4.  7:42a
     
-    CIA’s acting director to testify on Benghazi
+    Big earnings Monday: D.R. Horton, Beazer Homes
     
-5.  3:14p
+5.  7:39a
     
-    Obama again urges middle-class tax cuts
+    D.R. Horton Q4 net nearly triples, revenue up 21%
     
-6.  3:00p
+6.  7:37a
     
-    Inside wine guru Robert Parker’s cellar sanctum
+    Leucadia buying Jefferies, Handler to be CEO
     
-7.  1:25p
+7.  7:35a
     
-    Florida finishes counting: Obama wins
+    Radio update: Samsung hits Apple with price hike
     
-8.  12:00p
+8.  7:29a
     
-    U.S. stocks to follow erratic ‘fiscal cliff’ path
+    Target opening stores on Thanksgiving
     
-9.  11:05a
+9.  7:28a
     
-    Markets eye 4 horsemen of Obama’s second term
+    Monday’s biggest gaining and declining stocks
     
-10.  11:04a
+10.  7:19a
     
-    Hunting for luxury car buyers
+    Target to open early for Black Friday deals
     
-11.  10:46a
+11.  7:18a
     
-    Range Rover: If you must buy a luxury SUV ...
+    Target to open stores at 9pm Thanksgiving
     
-12.  10:40a
+12.  7:17a
     
-    Imbibers on the storm: Hurricane Sandy wine picks
+    Jefferies CEO Handler will be CEO of Leucadia
     
-13.  9:00a
+13.  7:16a
     
-    U.S. stocks edge up but post weekly losses
+    Leucadia plans new buyback up to 25M shares
     
-14.  9:00a
+14.  7:15a
     
-    Plastic cards for Google’s digital wallet?
+    Leucadia already holds 28.6% of Jefferies
     
-15.  8:00a
+15.  7:14a
     
-    U.S. stocks to follow erratic ‘fiscal cliff’ path
+    Leucadia to pay 0.81 share for each Jefferies shr
     
-16.  7:02a
+16.  7:13a
     
-    ‘All In the Family’s’ 3 levels of brilliance
+    BREAKING
     
-17.  7:01a
+    Leucadia National to acquire Jefferies Group
     
-    The 10 best ‘All In the Family’ episodes
+17.  7:08a
     
-18.  7:00a
+    D.R. Horton: backlog highest since fiscal 2007
     
-    At the NYSE, Larry Kofsky looks at the week ahead
+18.  7:07a
     
-19.  6:01a
+    D.R. Horton Q4 FactSet view net 28c, revs $1.37B
     
-    Big earnings Monday: D.R. Horton, Beazer
+19.  7:06a
     
-20.  6:01a
+    D.R. Horton Q4 revenue $1.3B vs $1.07B
     
-    9 cars Americans drive longest
+20.  7:00a
+    
+    Market finding some balance but fiscal cliff looms
     
 21.  Loading more headlines...
 
@@ -302,9 +310,9 @@ dow /quotes/zigman/627449 12,815.39 +4.07 +0.03% nasdaq /quotes/zigman/123127 2,
     
     Entertainment
     
-    'All in the Family' still shines  
-    The groundbreaking comedy, which appeared on television from 1971-1979 and now is out on DVD, was brilliant on three levels.  
-    /conga/kiosk/wildcard3.html 235167
+    Still brilliant after 30 years  
+    "All In The Family," the groundbreaking comedy, which appeared on television from 1971-1979 and now is out on DVD, was brilliant on three levels.  
+    /conga/kiosk/wildcard3.html 235211
 *   1348302600000 1348443000000
     
     Car Review
