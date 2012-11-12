@@ -190,79 +190,70 @@ Registrieren Login
 *   Speichern?
 *   login
 
-**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Themen der Woche
+**Neu hier?** Jetzt Mitglied werden und gutefrage.net vollständig nutzen. Top-50 Themen Thema Anzahl Apple 85785 Arbeit 65702 Ausbildung 51079 Auto 92048 Beauty 70230 Beruf 78306 Beziehung 73282 Computer 543902 Computerspiele 65716 deutsch 67918 Englisch 52824 Ernährung 51236 essen 71891 Facebook 78910 Fernsehen 60798 Film 101537 Finanzen 59402 Freizeit 266099 Fußball 51627 Games 127088 Geld 94760 Gesundheit 207839 Haare 84063 Handy 208840 Hilfe 151748 Internet 326024 iPhone 76846 Kinder 51359 Körper 51013 Laptop 74742 Liebe 168442 Lied 55276 Mädchen 57412 Medizin 63406 Minecraft 69517 Musik 284112 PC 286717 PC-Spiele 49531 Problem 56386 PS3 61509 Recht 96172 Schule 239105 Software 57620 Spiele 139222 Sport 112266 Technik 122153 Tiere 65450 TV 54971 Video 53397 Youtube 84850 Themen von A-Z Suchbegriff Top-Nutzer des Tages
 
-1.  Konzert
-2.  Kunst
-3.  One Direction
-4.  Online-Shop
-5.  Periode
-6.  Pickel
-7.  Piercing
-8.  Pokemon
-9.  Tattoo
-10.  Zähne
-
-Top-50 Themen Thema Anzahl Apple 85682 Arbeit 65625 Ausbildung 50993 Auto 91975 Beauty 70194 Beruf 78242 Beziehung 73171 Computer 543440 Computerspiele 65620 deutsch 67848 Englisch 52756 Ernährung 51192 essen 71838 Facebook 78783 Fernsehen 60762 Film 101426 Finanzen 59386 Freizeit 266044 Fußball 51591 Games 126966 Geld 94663 Gesundheit 207702 Haare 83955 Handy 208537 Hilfe 151516 Internet 325753 iPhone 76753 Kinder 51315 Körper 50978 Laptop 74641 Liebe 168249 Lied 55225 Mädchen 57348 Medizin 63353 Minecraft 69417 Musik 283828 PC 286382 PC-Spiele 49481 Problem 56313 PS3 61419 Recht 96102 Schule 238788 Software 57572 Spiele 139073 Sport 112153 Technik 122016 Tiere 65411 TV 54917 Video 53361 Youtube 84758 Themen von A-Z Suchbegriff Top-Nutzer des Tages
-
-1.  Bloodyrainbow
+1.  Chimaer
     
     Punkte:
     
-    637
-    
-2.  Tomdub
-    
-    Punkte:
-    
-    632
-    
-3.  einfachgesagt
-    
-    Punkte:
-    
-    607
+    1319
     
     Level:
     
-    einfachgesagt
+    Chimaer
+    
+2.  RudolfHansen
+    
+    Punkte:
+    
+    539
+    
+    Level:
+    
+    RudolfHansen
+    
+3.  HecklerBraten
+    
+    Punkte:
+    
+    528
     
 
-... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.473.157 gute Fragen_
+... mehr Top-Nutzer Gute Fragen von heute _Aktuell 8.481.250 gute Fragen_
 
-*   34 Andere Persönlichkeit Zuhause und in der Schule
-*   30 Peinlicher gehts nicht. ²
-*   15 Ich fühle mich missbraucht
+*   55 Alte Leute und kleine Kinder...
+*   15 Bin ich einfach nur dumm?
+*   14 Die Ketten meines Seins...
 
 ... mehr gute Fragen Sehenswert: Top-Videos der Woche
 
 *   Hilfe ich bin verliebt ! Was soll ich tun?
-*   Mamas Rezept für Nutella-Kuchen
-
 *   Aufklärung über das verliebt sein Teil 1
-*   Einfache Martinslaterne basteln
+
+*   Mamas Rezept für Nutella-Kuchen
+*   Strick-Anleitung für Beanie-Mütze
 
 gutefrage.net in Zahlen
 
 Anzahl der Mitglieder
 
-2.003.955
+2.008.089
 
 Anzahl der Fragen
 
-8.471.709
+8.480.700
 
 Anzahl der Antworten
 
-36.656.615
+36.685.479
 
 Anzahl der Tipps
 
-76.080
+76.166
 
 Anzahl der Videos
 
-4.832
+4.835
 
 Blog
 
