@@ -1,25 +1,3 @@
-Monday, November 12, 2012 Symptom Search   |   Treatment Search   |   Doctor Search   |   Drug Search
-
-*   Home
-*   Health A to Z Health Learning Centers Acid Reflux ADHD AIDS and HIV Alzheimer’s Disease Asthma Bipolar Disorder Breast Cancer Chronic Pain Crohn's Disease Depression Diabetes Erectile Dysfunction Fibromyalgia Heart Disease High Blood Pressure High Cholesterol Insomnia Menopause Migraine Multiple Sclerosis Osteoarthritis Osteoporosis Overactive Bladder Prostate Cancer Rheumatoid Arthritis Smoking Cessation View All Health Learning Centers Diseases A to Z Symptoms A to Z 3D Body Maps Treatments A to Z Drugs A to Z 3D Videos Physician Specialties A to Z Alternative Therapies A to Z Health Slideshows A to Z Medical Health Videos Alternative Medicine Children's Health Fitness Healthy Aging Heart Health Men's Health Mental Health Nutrition Pregnancy Sexual Health Skin Health Sleep Disorders Weight Loss Women's Health Medical Health Videos A to Z Videos by Disease
-*   Healthy Living Featured Diet Reviews Outdoor Health Smoking Cessation Options Immune System Boosters Healthy Sex Birth Control Eye and Vision Problems Heart Health View all Featured Family Health Women's Health Men's Health Children's Health Senior Health Food Safety Healthy Home Pet Health Guide Online Healthcare View all Family Health Healthy Lifestyle Beauty &. Skin Care Brain Health Dental Health Digestive Health Healthy Eating &. Nutrition Sleep Disorders &. Solutions Emotional &. Mental Health Fitness and Exercise View all Healthy Lifestyle Healthy Recipes Healthy Slideshows Seasonal Health Health Blogs Condition Awareness Living With Take Control of Your Lupus Treatment Ankylosing Spondylitis Preventable Diseases &. Adult Vaccination Understanding Multiple Sclerosis Progression Assess Your Knee Pain Psoriatic Arthritis How COPD Affects Your Lungs Video Series: Crohn's Disease 360 Bipolar Disorder Support View all Condition Management
-*   Check Your Symptoms Symptoms Search Symptoms A to Z
-*   Drugs &. Treatments Treatment Search Drug Search Drugs and Treatments A to Z Drug Interactions Pill Identifier Drug Compare
-*   Find A Doctor Doctor Search Learn About Physician Specialists Browse Local Specialists Browse Local Hospitals
-
-Healthline Networks
-
-*   About Us
-*   Healthline.com Staff
-*   News and Events
-*   Advertise
-*   Careers
-*   Health Experts
-*   Policy
-*   Contact
-*   Add to Your Site
-*   Feedback
-
 Healthline - Privacy PolicyPrivacy Policy
 
 Internet privacy is an issue that we take very seriously. Healthline is committed to protecting your privacy. We believe it is important for you to know what information is being collected about you, how that information is being used, with whom it is being shared, and how to contact us if you have additional questions or concerns.
@@ -81,29 +59,3 @@ Effective: June 2010. Material changes to this policy will be posted here.
 If you have additional questions, please contact us at privacypractices@healthline.com. Please note that while we are happy to answer general questions, in order to protect the privacy of our users, we do not answer specific questions about the information collected about specific users (including users who may request access to the information collected on themselves).
 
 Online privacy is in the regulatory purview of the Federal Trade Commission. For more information or to lodge a complaint, please visit the FTC's Consumer Response Center: https://www.ftccomplaintassistant.gov/
-
-  
-**More:** Site Map  
-MyHealthline  
-**Health Directories:** Health and Wellness A to Z  
-Health Blogs A to Z  
-Diseases A to Z  
-Learning Centers A to Z  
-Drugs A to Z  
-Drugs by Disease  
-Supplements A to Z  
-Supplements by Disease  
-Symptoms A to Z  
-Symptoms by Disease  
-Slideshows A to Z  
-Videos A to Z  
-Videos by Disease  
-**Company Info:** About Healthline.com  
-Editorial Staff  
-Terms of Use  
-Privacy Policy  
-Advertising &. Sponsorship Policy  
-Advertise With Us  
-About Healthline Networks  
-Careers  
-Copyright © 2005 - 2012 Healthline Networks, Inc. All rights reserved. Healthline is for informational purposes and should not be considered medical advice, diagnosis or treatment recommendations. more details
