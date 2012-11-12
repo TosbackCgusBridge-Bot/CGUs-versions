@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Jan Brewer wants to kill electoral...**  
+    *   **Democrats lead in five uncalled...**  
         Election 2012 | Rachel Weiner
     
     *   **Would a tax hike kill 700,000 jobs?**  
         The Fact Checker | Glenn Kessler
     
-    *   **The East Coast Rapist bristles...**  
-        She The People | Melinda Henneberger
+    *   **Sesame Street loses a little magic...**  
+        She The People | Suzi Parker
     
-    *   **President Obamas Cabinet: Whos...**  
-        The Fix | Chris Cillizza and Aaron Blake
+    *   **Why Angus King will caucus with...**  
+        The Fix | Sean Sullivan
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -49,13 +49,13 @@
     *   **Petraeus solution: End sex**  
         ComPost | Alexandra Petri
     
-    *   **Morning Open Thread**  
-        The Plum Line | Greg Sargent
+    *   **The bargain needed for tax reform...**  
+        The Plum Line | Jonathan Bernstein
     
-    *   **Petraeus’s bumpy ride**  
-        PostPartisan | David Ignatius
+    *   **The real story about polling uncertainty**  
+        PostPartisan | Jonathan Bernstein
     
-    *   **Morning Bits**  
+    *   **Petraeus’s bizarre resignation**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **Forecast: A cloudy and mild Monday**  
+    *   **Venice flooding swamps 70 percent...**  
         Capital Weather Gang | Jason Samenow
     
-    *   **National Gallery of Art ice rink...**  
+    *   **This thing you should try: a 60-something...**  
         Going Out Gurus | Alex Baldinger
     
-    *   **Police identify motorcyclist, pedestrian...**  
-        Crime Scene | Nikita Stewart
+    *   **Sunday brawl at Md. flea market**  
+        Crime Scene | the Associated Press
     
-    *   **D.C. youth trust hires new director**  
-        D.C. Wire | Tim Craig
+    *   **Norton, city leaders want D.C....**  
+        D.C. Wire | Nikita Stewart
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -100,13 +100,13 @@
     *   **Oates enjoying induction weekend**  
         Capitals Insider | Katie Carrera
     
-    *   **Maryland offers ACC tournament...**  
-        DC Sports Bog | Dan Steinberg
+    *   **Kyle Shanahan on list of Eagles...**  
+        DC Sports Bog | Sarah Kogod
     
-    *   **Tim Hasselbeck wonders if Redskins...**  
-        The Insider | Mark Maske
+    *   **Struggling Redskins get back to...**  
+        The Insider | Mike Jones
     
-    *   **Sean Burnett’s market takes shape**  
+    *   **Bryce Harper vies for rookie of...**  
         Nationals Journal | Adam Kilgore
 *   National In National
     
@@ -123,14 +123,14 @@
     
     Blogs &. Columns
     
-    *   **It works, but chuck it anyway**  
-        Ideas@Innovations | Dominic Basulto
+    *   **An innovation strategy battle**  
+        Ideas@Innovations | Emi Kolawole
     
-    *   **Tears, thanks and truth at the...**  
+    *   **New online startup to connect military...**  
         PostLeadership | Jena McGregor
     
-    *   **God after 2012: How did election...**  
-        Under God | Elizabeth Tenety
+    *   **Pope Benedict: ‘We hope that President...**  
+        Under God | Georgetown/ On Faith
 *   World In World
     
     *   Africa
@@ -145,17 +145,17 @@
     
     Blogs &. Columns
     
+    *   **Raw video of Israeli tanks firing...**  
+        WorldViews | Max Fisher
+    
+    *   **Why did Paula Broadwell think the...**  
+        WorldViews | Max Fisher
+    
+    *   **One of Chinas most ingenious bribery...**  
+        WorldViews | Max Fisher
+    
     *   **What the world can learn from Denmark’s...**  
         WorldViews | Olga Khazan
-    
-    *   **Yet more security concerns emerge...**  
-        WorldViews | Max Fisher
-    
-    *   **Petraeus resignation: Who is Paula...**  
-        WorldViews | Olga Khazan
-    
-    *   **Why David Petraeus’s Gmail account...**  
-        WorldViews | Max Fisher
 *   Business In Business
     
     *   Economy
@@ -173,14 +173,14 @@
     *   **Avoiding the oncoming ‘caregiver...**  
         The Color of Money | Michelle Singletary
     
-    *   **Priceline agrees to acquire Kayak...**  
+    *   **Apple, HTC settle dispute #thecircuit**  
         Post Tech | Hayley Tsukayama
     
     *   **How business can bounce back from...**  
         Steven Pearlstein
     
-    *   **Bill Kristol thinks Republicans...**  
-        Wonkblog | Suzy Khimm
+    *   **The Queen of Versailles: the best...**  
+        Wonkblog | Ezra Klein
 *   Tech In Technology
     
     *   Policy
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Apple shipments of LTE iPad mini...**  
+    *   **Apple, HTC settlement: Signs of...**  
         Hayley Tsukayama
     
-    *   **Priceline agrees to acquire Kayak...**  
+    *   **Apple, HTC settle dispute #thecircuit**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Beer geeks, let the guessing begin**  
-        All We Can Eat | Greg Kitsock
+    *   **What the Farmland Feast does for...**  
+        All We Can Eat | Bonnie S. Benwick
     
-    *   **How to dress like James Bond**  
-        The Style Blog | Cara Kelly
+    *   **The perils of life without marginalia**  
+        The Style Blog | Ron Charles
     
     *   **Take the kids this weekend: National...**  
         On Parenting | On Parenting
     
-    *   **David Petraeus sex scandal: What...**  
+    *   **Petraeus: What happens to the Other...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -237,17 +237,17 @@
     
     Blogs &. Columns
     
-    *   **Review digest: of Lang Lang, Midori...**  
+    *   **A study in contrasting recitals**  
         Classical Beat | Anne Midgette
     
-    *   **‘The Walking Dead’: American gladiators**  
+    *   **Heidi Klum and her EMA looks**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **NBC’s dysfunctional First Family...**  
+    *   **Elmo puppeteer on leave, underage...**  
         The TV Column | Lisa de Moraes
     
-    *   **Veterans Day 2010**  
-        Comic Riffs | Michael Cavna
+    *   **‘Shattered’ Asian stereotypes:**  
+        Comic Riffs | Winyan Soo Hoo
 *   Jobs In Jobs
 *   More
     
@@ -267,10 +267,10 @@
 In the News
 
 *   David Petraeus
-*   Paula Broadwell
-*   BBC resignations
-*   Lakers
-*   BCS rankings
+*   BBC scandal
+*   Lance Armstrong
+*   iPhone 5S
+*   NASCAR brawl
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -325,94 +325,84 @@ GOP’s Red America forced to rethink what it knows about the country
 
 Eli Saslow 
 
-Arian Foster runs for 102 yards, Texans knock out QB Jay Cutler in 13-6 win over Bears
+‘White guys’ voted for Obama, too
 
-Associated Press 
-
-Lawmakers want probe of Petraeus investigation
-
-Karen DeYoung 
-
-Deadly earthquake collapses bridge, gold mine in underdeveloped northern Myanmar
-
-Associated Press 
-
-Love, etc.: Justin Bieber, Selena Gomez break up
-
-The Reliable Source 
-
-President Obama and the white vote? No problem. In Petraeus downfall, hubris meets high tech
-
-Ruth Marcus 
-
-With Paula Broadwell, Gen. David Petraeus let his guard down
-
-Joby Warrick 
+Jonathan Capehart 
 
 Former aides wonder: Did Petraeus stumble in unfamiliar terrain?
 
 Greg Jaffe 
 
-The secret to Barack Obama’s survival
+Apple starting production on iPhone 5S, report says
 
-Greg Sargent 
-
-Obama shouldn’t back down
-
-E.J. Dionne Jr. 
-
-Why is the GOP overwhelmingly white?
-
-Courtland Milloy 
+Hayley Tsukayama 
 
 The Republican Party’s electoral map problem
 
 Chris Cillizza 
 
-On edge of brutal ‘fiscal cliff,’ some see an opportunity to end debt paralysis
+In Petraeus downfall, hubris meets high tech
 
-Lori Montgomery 
+Ruth Marcus 
 
-Lakers hire Mike D’Antoni to replace fired coach Mike Brown, bypassing Phil Jackson
+Lawmakers want probe of Petraeus investigation
 
-Associated Press 
+Karen DeYoung 
 
-FBI probe of Petraeus triggered by e-mail threats from biographer, officials say
+President Obama and the white vote? No problem. It’s the welfare state, stupid
 
-Sari Horwitz 
+Robert J. Samuelson 
 
-'SNL' on Mitt Romney's election night Pakistani lawyers go from heroes to ‘gangsters’
+Justin Bieber may not be done with Selena Gomez. ‘Skyfall’ opens big at the box office
 
-Richard Leiby 
+Jen Chaney 
 
-Israel fires at Syria after stray mortar strikes army post
+Obama's Cabinet: Who's in, who's out? With Paula Broadwell, Gen. David Petraeus let his guard down
 
-Joel Greenberg 
+Joby Warrick 
 
-Portuguese head to former African colony to escape euro crisis
+Obama shouldn’t back down
 
-Sudarsan Raghavan 
+E.J. Dionne Jr. 
+
+Gen. Petraeus’s affair tarnishes seemingly idyllic marriage
+
+Ian Shapira 
+
+NASCAR brawl overshadows Sprint Cup race Return of the ‘nuclear option’
+
+Jamelle Bouie 
+
+Lance Armstrong cuts ties to Livestrong, stepping down from board Why is the GOP overwhelmingly white?
+
+Courtland Milloy 
+
+The GOP is no party for blacks, Latinos and gays
+
+Jonathan Capehart 
+
+Secession petitions filed on White House website
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
     1.  GOP's Red America forced to rethink what it knows about the country
-    2.  Arian Foster runs for 102 yards, Texans knock out QB Jay Cutler in 13-6 win over Bears
-    3.  Lawmakers want probe of Petraeus investigation
-    4.  Deadly earthquake collapses bridge, gold mine in underdeveloped northern Myanmar
-    5.  Love, etc.: Justin Bieber, Selena Gomez break up
+    2.  'White guys' voted for Obama, too
+    3.  Former aides wonder: Did Petraeus stumble in unfamiliar terrain?
+    4.  Apple starting production on iPhone 5S, report says
+    5.  The Republican Party's electoral map problem
 *   Top Videos
     1.  Official: Broadwell's harassing e-mails led to FBI probe
-    2.  The story behind the Romney loss: Drama, regrets and mistakes
-    3.  President Obama's full victory speech
-    4.  CIA Director David Petraeus resigns, citing extramarital affair
-    5.  'Mythbusters' hosts survey cannonball damage
+    2.  Emails behind Petraeus resignation: 'Stay away from my guy'
+    3.  The story behind the Romney loss: Drama, regrets and mistakes
+    4.  Thousands dance 'Gangnam Style' in Rome
+    5.  CIA Director David Petraeus resigns, citing extramarital affair
 *   Top Galleries
     1.  Red America
     2.  Explosion in Indianapolis kills 2
-    3.  A guide to holiday movies
-    4.  China's first ladies
-    5.  Recovering from Hurricane Sandy
+    3.  The four star movies of 2012
+    4.  Gen. David Petraeus
+    5.  Election Day cartoon caption contest
 
 Today's Paper
 
@@ -422,13 +412,16 @@ Today's Paper
 
 Live Discussions
 
-Carolyn Hax
+Dear Prudence
 
-Live Q&A Transcript
+Live Q&A, noon
 
-Hax advised readers on life, love and how to help a friend in need.
+Are you having a problem with love, life or in-laws? Ask Prudie.
 
-**12:00 PM** **CANCELED: Dr. Gridlock** **12:00 PM** **Advice from Slate's 'Dear Prudence'** **2:00 PM** **CANCELED: Talk about Travel**
+**12:00 PM** **CANCELED: Dr. Gridlock** **2:00 PM** **CANCELED: Talk about Travel**
+
+*   Earlier Today
+    *   **12:00 PM** **Advice from Slate's 'Dear Prudence'**
 
 **Weekly schedule, past shows**
 
