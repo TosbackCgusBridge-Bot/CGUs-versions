@@ -6,7 +6,7 @@ Log in Already a Fitocrat?
 *   About
 *   Sign Up Now
 
-Sign up now Awesome has to start somewhere. How would you like to sign up? with Facebook with Email
+Sign up now Awesome has to start somewhere. How would you like to sign up? with Facebook (Use ol' fashioned email instead)
 
 By opening an account, you're agreeing to our Terms of Service and Privacy Policy.
 
