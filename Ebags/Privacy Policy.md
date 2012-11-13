@@ -349,16 +349,15 @@ Cart: 0 items
 *   iPad &  
     Electronics Cases
     
-    *   Camera Cases
-    *   Chargers &. Peripherals
+    *   Camera Bags &. Cases
     *   Headphones
-    *   iPad Bags &. Cases
+    *   iPad &. Tablet Bags and Cases
+    *   iPhone &. Phone Cases
     *   iPod &. MP3 Cases
     *   Kindle &. eReader Cases
-    *   Men’s iPad Cases
-    *   Phone Cases
-    *   Tablet Cases
-    *   Women’s iPad Cases
+    *   Peripherals
+    *   Portable Batteries &. Chargers
+    *   Waterproof Cases
     *   Sale &. Clearance
     *   See All
     
@@ -556,7 +555,7 @@ Greenwood Village, CO 80111
 
 We always enjoy hearing from you and appreciate your business.
 
-30% Off plus Free Shipping over $99 Emails
+20% Off plus Free Shipping Emails
 
 Get exclusive offers, and be the first to hear about new brands, styles and more!
 
@@ -598,7 +597,6 @@ Shop With Confidence
 
 *   Terms of Use
 *   Privacy Policy
-*   Site Map
 *   Vendor Inquiries
 *   Unsubscribe
 *   Affiliate Program
