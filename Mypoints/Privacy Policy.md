@@ -289,7 +289,13 @@ MYPOINTS.COM PARTNERSHIPS
 
 Did You Know?
 
-MyPoints is one of the top online coupon sites. Yup, we're here to save you money.
+MyPoints lives and breathes these 5 core values everyday:
+
+1.  Save members money.
+2.  Reward members for shopping.
+3.  Help members find the best deals and offers.
+4.  Make it fun and easy to earn Points.
+5.  Be a one-stop-shop for all your online shopping.
 
 Contact Us
 
