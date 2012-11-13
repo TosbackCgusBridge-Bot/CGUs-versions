@@ -45,7 +45,7 @@ See More Results Previous
 *   You Gotta See This
 *   Dora the Explorer
 *   Legend of Korra
-*   Fred
+*   Marvin Marvin
 *   Robot &. Monster
 *   How To Rock
 *   House of Anubis
@@ -58,6 +58,7 @@ See More Results Previous
 *   Bucket &. Skinner's Epic Adventures
 *   Fanboy and Chum Chum
 *   Avatar
+*   Fred
 *   Splatalot
 *   Fairly OddParents
 *   T.U.F.F. Puppy
