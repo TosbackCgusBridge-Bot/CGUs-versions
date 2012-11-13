@@ -28,8 +28,8 @@ My Account
     *   Camcorders
     *   Radio Shack
     *   At
-    *   Sears
     *   Tax
+    *   Sears
     *   Discount Tires
     *   Www.yahoo.com
     *   Contact
@@ -37,14 +37,14 @@ My Account
     *   Costco
     *   Leappad
     *   Flowers
-    *   T Mobile
     *   Pressure Cookers
     *   North Face Jackets
     *   Ipod
+    *   T Mobile
     *   Android Tablets
     *   Barnes And Noble
-    *   Coupons
     *   Value City Furniture
+    *   Coupons
     *   More Top Searches
 *   Coupons See all coupons See all rebates
 *   Mobile Apps
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1554 Local Deals
+*   1515 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
@@ -699,7 +699,5 @@ Copyright ©2012 PriceGrabber.com, Inc. All Rights Reserved What is this? |
     *   $60,000 - $99,999
     *   $100,000 - $149,999
     *   $150,000+
-    
-    Comments
     
     Thank you!
