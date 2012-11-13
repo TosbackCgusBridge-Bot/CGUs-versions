@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Do we really need state-funded news entities like the BBC any more?
+The kind of journalism we need is changing, but can journalists make the transition?
 
 Stay on top of tech news in your inbox
 
