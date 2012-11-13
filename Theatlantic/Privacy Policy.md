@@ -1,8 +1,8 @@
 Skip Navigation
 
 *   Nearly Half of Single-Parent Families Live in Poverty
-*   The Art of Travel
-*   How Gmail's Location Data Outed Petraeus
+*   Ambition: The Great Disruptor
+*   A Little Idea That Turned Into a Billion-Dollar Business
 *   Do Prestigious Residencies Mean Better Doctors?
 
 *   Politics
@@ -10,25 +10,25 @@ Skip Navigation
     *   Move Over Economists: We Need a Council of Psychological Advisers
     *   Karen Hughes' Bad Advice for the GOP
     *   Why Women Rule New Hampshire
-    *   Beyond Akin: Current U.S. Law Is Failing Sexual Assault Victims
-    *   Getting Back to the Atlas Shrugged Guy
-    *   What It Implies If an Extramarital Affair Threatens National Security
+    *   Which Conservative Think Tanks Was David Petraeus Courting?
+    *   The Sort of Tone-Deaf Immigration Rant That Kills Conservatives
+    *   My Secret Strategy™ for Avoiding Petraeus-Style Email Pitfalls
 *   Business
     *   Top Stories
+    *   How Mitt Romney Can Save Us From the Fiscal Cliff
+    *   What Is Spotify Worth?
     *   What the Fiscal Cliff Means for Jobs, in 1 Chart
-    *   The Next Trillion-Dollar Stimulus? Immigration Reform
-    *   A New Era for Books
+    *   The Next Trillion-Dollar Stimulus? It's Immigration Reform
     *   It's Not a Fiscal Cliff, It's a Fiscal Fast
     *   The Fiscal Cliff Explainer: What It Is, Where It's From, Who Will Pay, and Why It Matters
-    *   Will Obama Let Washington and Colorado Keep Their Legal Pot?
 *   Tech
     *   Top Stories
     *   The Places Where America's Drones Are Striking, Now on Instagram
-    *   How Gmail's Location Data Outed Petraeus
+    *   How Email Location Data Outed Petraeus
     *   Cast Your Vote for Charles Darwin!
+    *   An Amazon Engineer Had a Little Idea That Turned Into a Billion-Dollar Business
     *   How Teachers Will Use E-Readers to Catch Cheaters
     *   'Scapple': Very Interesting New Software From the Creator of Scrivener
-    *   How Much Would You Pay to Never See an Online Ad Again?
 *   National
     *   Top Stories
     *   This Year, a Veterans Day Like None Other Before
@@ -42,9 +42,9 @@ Skip Navigation
     *   Pinned Down in Afghanistan: The Ill-Fated Battle for Hill 2610
     *   When Leaders Die in Battle
     *   The Incredible, Shrinking Modern Military
-    *   The Chinese Party Congress: For New Ideas, Look to the Young Guys
-    *   Why Chinese People Are Getting Sick of Chinese Social Media
-    *   The Losers in China's Leadership Transition
+    *   The Intelligence Community's Gigantic Blind Spot
+    *   The Real David Petraeus Scandal
+    *   You Crazy Dictator: Bread and Circuses in Turkmenistan
 *   Health
     *   Top Stories
     *   High-Fiber Pepsi: Choice of a New, Weird Generation
@@ -63,12 +63,12 @@ Skip Navigation
     *   Women Are Not a Unified Voting Bloc
 *   Entertainment
     *   Top Stories
-    *   'The Walking Dead': Only the Insane Will Survive
+    *   About That 'Exploding Pen': A Guide to 'Skyfall' Homages
+    *   The First Football Pro Wasn't Just First. He Was Great
+    *   'Besos, Frida': Letters From Artists to Friends and Families
+    *   Track of the Day: '(Tonight) We Burn Like Stars That Never Die'
+    *   Fact-Checking 'Lincoln': Lincoln's Mostly Realistic. His Advisers Aren't
     *   James Bond's New, Not-So-Progressive Mommy Complex
-    *   'Lincoln' Fact Check: He's Realistic. His Advisers Aren't
-    *   The First Pro Football Player Wasn't Just First. He Was Also Great
-    *   Besos, Frida: Letters From Great Artists to Their Friends and Family
-    *   SNL's Anne Hathaway Episode: 5 Best Scenes
 *   Magazine
     *   In This Month's Issue
     *   Our 2012 Brave Thinkers List
@@ -88,7 +88,7 @@ Skip Navigation
 *   Video
 *   Photo
 *   Newsletters
-*   Move Over Economists: We Need a Council of Psychological AdvisersBarry Schwartz
+*   Track of the Day: '(Tonight) We Burn Like Stars That Never Die'Ryan Burleson
 
 Privacy Policy
 
@@ -196,11 +196,11 @@ Washington, DC 20037
 Special Report The Atlantic Brave Thinkers  
 Our annual guide to the people risking their reputations and lives in pursuit of big ideas. Read more › Writers
 
-*   James Fallows Getting Back to the Atlas Shrugged Guy 9:25 AM ET
-*   Jeffrey Goldberg The Rockets of Gaza 7:05 AM ET
-*   Ta-Nehisi Coates Uppers And The Horde Unite Like Voltron Nov 10, 2012
+*   James Fallows My Secret Strategy™ for Avoiding Petraeus-Style… Nov 12, 2012
+*   Robert Wright The Real David Petraeus Scandal Nov 12, 2012
+*   Jeffrey Goldberg The Rockets of Gaza Nov 12, 2012
+*   Ta-Nehisi Coates Uppers and the Horde Unite Like Voltron Nov 10, 2012
 *   Derek Thompson 2 Graphs That Should Accompany Every Discussion… Nov 9, 2012
-*   Robert Wright Food for Republican Thought From Nate Silver Nov 9, 2012
 *   Alexis C. Madrigal The Question I Didn't Get to Ask Pinterest CEO… Nov 8, 2012
 *   Clive Crook Obama's Victory After Cyclical Adjustment Nov 7, 2012
 *   Garance Franke-Ruta The 3 Biggest Day-After Mea Culpas Nov 7, 2012
@@ -241,23 +241,23 @@ Venice Under Water
 
 2
 
-Pinned Down in Afghanistan: The Ill-Fated Battle for Hill 2610
+An Amazon Engineer Had a Little Idea That Turned Into a Billion-Dollar Business
 
 3
 
-Gmail's Location Data Led to the Discovery of the Petraeus Affair
+Hurricane Sandy: After Landfall
 
 4
 
-Where America's Racist Tweets Come From
+Why Petraeus's Affair Matters (but Bill Clinton's Didn't)
 
 5
 
-Fact-Checking 'Lincoln': Lincoln's Mostly Realistic. His Advisers Aren't
+Syria in Ruins
 
 6
 
-Hurricane Sandy: After Landfall
+The Real David Petraeus Scandal
 
 7
 
@@ -265,11 +265,11 @@ High-Fiber Pepsi: The Choice of a New, Weird Generation
 
 8
 
-Syria in Ruins
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 9
 
-Fake History in the Making: Karen Hughes' Bad Advice for the GOP
+Fact-Checking 'Lincoln': Lincoln's Mostly Realistic. His Advisers Aren't
 
 10
 
@@ -277,33 +277,33 @@ How Conservative Media Lost to the MSM and Failed the Rank and File
 
 ATLANTIC MEDIA Atlantic Wire
 
-*   It WIll Be Months Before the New York Daily News Returns to Their Headquarters
-*   Apple's 'Unbearably Noisy' Store Might Not Be an Accident
-*   John Boehner Has Some Real Talk for Republicans
+*   Meet the Psychologists Who Convinced You to Vote for Obama
+*   Another Top General Is Pulled into the Petraeus Scandal
+*   Guess Who's Not Getting Invited to Piers Morgan's Christmas Party
 
 **More from Atlantic Wire**
 
 Atlantic Cities
 
-*   Why America Has One of the Highest Child Poverty Rates in the World
-*   The Growing Rural Isolation of Veterans
-*   Trudging Through 5 Feet of Water? Just a Day in the Life of a Venetian
+*   Dance of the Day: In the Streets
+*   Newly Un-Flooded New York Subway Still Looking Pretty Horrible
+*   After Sandy, How Should We Decide What Is Worth Rebuilding?
 
 **More from Atlantic Cities**
 
 Quartz
 
-*   In praise of the extremely ugly and highly functional corporate website
-*   What Amazon, Google, and Starbucks said to MPs about why they pay little or no UK tax
-*   How Norway overtook Abu Dhabi as the world’s largest sovereign wealth fund
+*   Windows 8 chief Steven Sinofsky leaves abruptly. What now for Microsoft?
+*   The Dog Index: What man’s best friend tells us about global economic development
+*   Did UK energy companies pull a LIBOR?
 
 **More from Quartz**
 
 National Journal
 
-*   Challenges Ahead for Obama in Japan
-*   Thompson: Lockheed Emerges from CEO Shakeup in Good Shape
-*   Black Vote in Ohio Fueled by Voter-ID Bills
+*   Rising House Sophomore's Advice to New Members
+*   Tough Road to a Debt Deal, Even for a Community-Organizer-in-Chief
+*   Scandal Investigation Ensnares U.S. Commander in Afghanistan
 
 **More from National Journal**
 
@@ -345,4 +345,4 @@ Information
 *   Events
 *   Atlantic Media Company
 
-Subscribe Get 10 issues a year and save 59% off the cover price STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT Next ► Copyright © 2012 by The Atlantic Monthly Group. All Rights Reserved. CDN powered by Edgecast Networks. Powered by the Parse.ly Publisher Platform (P3).
+Subscribe Get 10 issues a year and save 59% off the cover price STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT Next ► Copyright © 2012 by The Atlantic Monthly Group. All Rights Reserved. CDN powered by Edgecast Networks. Insights powered by Parsely . Powered by the Parse.ly Publisher Platform (P3).
