@@ -1,17 +1,17 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: NJ to end odd-even gas rationing
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: 33 students hurt in school bus crash
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Genevieve Ross / AP Adrian Peterson's best season yet
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Don Wright / AP Steelers eke out win but lose Ben
     
-    PFT's NFL Morning After: If I had told you on New Year’s Day that 2012 would be the best year of Adrian Peterson’s career, you would have said I was nuts. Well, I may be nuts, but Adrian Peterson is also the best running back in the NFL.
+    The Pittsburgh Steelers edged the woeful Kansas City Chiefs 16-13 in overtime Monday night but lost Ben Roethlisberger for most of the second half — and perhaps a lot longer — with a right shoulder injury.
     
-    Texans take care of Bears PFT: Texans out-Bearsed the Bears PFT: Vick has 'pretty significant' concussion NFL needs better concussion policy PFT: Reid's exit likely, but not yet a certainty Stubborn Ryan won't play Tebow PFT: Reggie Bush: I deserved to get benched Saints put an end to Falcons' unbeaten run Ad
+    Adrian Peterson's best season yet PFT: Vick has 'pretty significant' concussion NFL needs better concussion policy PFT: NFL clears Bears handling of Cutler PFT: Eli Manning won't throw for a week PFT: NFL admits to two officiating errors PFT: Reid's exit likely, but not yet a certainty Stubborn Ryan won't play Tebow Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Elaine Thompson / AP file Trout all but a sure thing
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Elaine Thompson / AP file Trout is AL's Rookie of the Year
     
-    If there was ever an award that you’d bet your first born on, it would be that the Angels' Mike Trout will win the AL Rookie of the Year on Monday. NL Rookie of the Year is a little less certain.
+    Despite an historically awesome crop of competitors, Mike Trout won American League Rookie of the Year honors in a landslide, claiming the top spot on all 28 ballots. Yoenis Cespedes finished second.
     
-    DeMarco: Decision time for Rangers, Phillies, Red Sox HBT: Dodgers have winning bid for Hyun-Jin HBT: Dodgers making strong pitch for Hunter HBT: Yanks 'not trading Alex Rodriguez' HBT: Rangers will only offer Hamilton 3-year deal HBT: Hall of Famer MacPhail dies at 95 HBT: Weiss better have good first year with Rockies Izturis agrees to $10M contract with Blue Jays Ad
+    HBT: Harper edges Miley for NL Rookie of the Year HBT: Giants, Affeldt agree to 3-year deal DeMarco: Decision time for Rangers, Phillies, Red Sox HBT: Dodgers have winning bid for Hyun-Jin HBT: Dodgers making strong pitch for Hunter HBT: Yanks 'not trading Alex Rodriguez' HBT: Rangers will only offer Hamilton 3-year deal HBT: Hall of Famer MacPhail dies at 95 Ad
 *   NHL
     SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Dave Sandford / Getty Images Contributor Sakic was no ordinary Joe
     
@@ -19,41 +19,41 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     NHL.com: Quiet steadiness defined Sakic's career PHT: Sakic doesn't regret retiring, with one exception PHT: Yes, Bure was very, very good  |  Elite skills PHT: Sudin a machine for Leafs  |  Quebec start key PHT: Oates' top accomplishments  |  Master passer PHT: Talks end early, not going well PHT: Fehr doesn't see path to a deal CSN: Fehr becomes lightning rod for criticism Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Mark J. Terrill / AP Lakers fumble on coaching switch
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines NBC Sports The what, the why and the how
     
-    You can make a good case why not to hire Phil Jackson as the Lakers coach right now. You can make a case that Mike D’Antoni can win in Los Angeles. But the Lakers handled it all as smoothly they handled the firing of Mike Brown.
+    SportsTalk video: Erik Kuselias, Chris Mannix and Adrian Wojnarowski break down every angle of the Lakers' decision to hire Mike D'Antoni over Phil Jackson.
     
-    PBT: D'Antoni can win big, if Lakers defend PBT: Lakers hire D'Antoni, not Jackson Lakers' choice of D'Antoni puzzling PBT: 76ers' Bynum could be out until Christmas Lakers easily take care of Kings Hot Grizzlies beat Heat   |  Thunder cruise past Cavs Nets sweep Magic in home-and-home series Griffin, Paul lead Clippers past Hawks Ad
+    PBT: D'Antoni better long-term pick than Jackson PBT: D'Antoni can win big, if Lakers defend PBT's Power Rankings: Knicks on top Lakers fumble on coaching switch Trash Talk: D'Antoni right man for Lakers PBT: Lakers hire D'Antoni, not Jackson Lakers' choice of D'Antoni puzzling PBT: 76ers' Bynum could be out until Christmas Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Ronald Martinez / Getty Images K-State new No. 1 in BCS
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Gerald Herbert / AP file Officials settle on 'access bowls'
     
-    CFT: Thanks to Texas A&M's win over Alabama, there are now only three undefeated teams fighting for the two spots in the BCS championship game. Your new No. 1? Kansas State. And Oregon is no. 2.
+    CFT: Some details of a four-team playoff in college football are still to be determined, but the BCS commissioners and Presidential Oversight Committee did finalize some aspects of the ‘access bowls’ that will make up the semifinal sites of the new postseason.
     
-    CFT: Louisville loses top rusher for rest of season CFT: Tuberville takes responsibility for sideline incident CFT: Wash. St. AD comes to Leach's defense K-State so close to first BCS title shot Heisman Hopefuls: Could a freshman win? CFT: Oregon ranked No. 1 by AP and coaches Oregon overcomes injuries to move to No. 1 PFT: Would Kelly ditch No. 1 Oregon for NFL? Ad
+    CFT: Louisville loses top rusher for rest of season CFT: Tuberville takes blame for sideline incident CFT: Wash. St. AD comes to Leach's defense K-State so close to first BCS title shot Heisman Hopefuls: Could a freshman win? CFT: Oregon ranked No. 1 by AP and coaches Oregon overcomes injuries to move to No. 1 PFT: Would Kelly ditch No. 1 Oregon for NFL? Ad
 *   NCAA HOOPS
     SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Michael Probst / AP UConn is team of the week
     
     This was supposed to be the year where UConn scrapped and clawed and did everything in their power to ensure that Kevin Ollie remained their head coach next season, when they would actually have something to play for. And then something funny happened: the Huskies went out and punched Michigan State in the mouth at Ramstein Air Force base in Germany.
     
-    Orange shoot down Aztecs CBT: Don't rush to judge SDSU after loss Moore: Shorter shot clock equal better hoops? No Manning wins first game as Tulsa coach No. 2 Louisville cruises past Manhattan Angry timeout talk ignites No. 4 Ohio St. No. 10 Florida routs Alabama St. by 49 Martin winner in first game at South Carolina Ad
+    CBT: No. 19 Gonzaga incinerates West Virginia CBT: Youngstown St. silences Georgia on road No. 1 Indiana disposes of N. Dakota St. UConn moves into first regular-season AP poll CBT: Don't rush to judge SDSU after loss Orange shoot down Aztecs Moore: Shorter shot clock equal better hoops? No Manning wins first game as Tulsa coach Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Christian Petersen / Getty Images Keselowski on brink of Cup title
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Tom Pennington / Getty Images Gordon fined $100,000 for wreck
     
-    A chaotic race at Phoenix — with a crash-marred finish and a brawl in the garage — moved Brad Keselowski to the brink of a first Sprint Cup title for himself and team owner Roger Penske on Sunday.
+    Four-time NASCAR champion Jeff Gordon avoided suspension Monday when NASCAR instead fined him $100,000 and docked him 25 points for intentionally wrecking Clint Bowyer at Phoenix International Raceway.
     
-    Notebook: Gordon, Bowyer tangle at Phoenix Patrick won't run Indianapolis 500 Go Daddy to air 2 Super Bowl spots with Patrick Brown first black NHRA champion Logano wins. Sadler hurts Nationwide chances Bourdais re-signs with Dragon Racing F1: Watch the language, guys Henry suspended for substance abuse violation Ad
+    Suspending Jeff Gordon would end "Boys Have At It" Keselowski on brink of Cup title Notebook: Gordon, Bowyer tangle at Phoenix Patrick won't run Indianapolis 500 Go Daddy to air 2 Super Bowl spots with Patrick Brown first black NHRA champion Logano wins. Sadler hurts Nationwide chances Bourdais re-signs with Dragon Racing Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Chris Carlson / AP Tough questions for Sounders
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Dean Mouhtaropoulos / Getty Images Altidore back in U.S. team plans
     
-    It was surprising to watch Seattle, an MLS “final four” team, after all, look so helpless against the Galaxy on Sunday. The Sounders were mildly effective on defense, and more or less inept at the attacking end all night.
+    Jozy Altidore's mature response to last month’s omission surely was part of the reason Jurgen Klinsmann turned back to the AZ Alkmaar striker for the latest roster, which was released Monday morning.
     
     Dynamo strike first Highlights of Dynamo's victory Bruin propels Dynamo to win PST: Ranking four remaining MLS goalkeepers Roundup: Messi passes Pele's goals in one year Ronaldo forced out of game with head injury Terry hurt after scoring in Chelsea return Injured Rooney out of England squad vs. Sweden Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Timing, guts make Beljan's win memorable
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Beljan completes amazing fairy-tale win at Disney
     
-    Charlie Beljan goes from 139th in money to the hospital to the winner's circle, while former Tour winner Camilo Villegas is headed to Q-School.
+    Two days after being hospitalized for a mysterious ailment, Charlie Beljan won the Children's Miracle Network Hospitals Classic at Disney.
     
-    Beljan completes amazing fairy-tale win at Disney Bubble watch from Disney finale Rory wins Euro money title, youngest in 32 years Beljan's next goal? A practice round with Tiger What We Learned: Beljan wins Disney Beljan continues huge rise in OWGR, up to 159th Faldo doesn't believe Woods will catch Nicklaus Quotes of the Week Fowler: 'Different flair' for Golf Boys follow-up Tips for adding more distance to your tee shots Ad
+    Bubble watch from Disney finale Rory wins Euro money title, youngest in 32 years PGA Tour Player, Rookie of the Year ballots sent out Beljan's next goal? A practice round with Tiger What We Learned: Beljan wins Disney Beljan continues huge rise in OWGR, up to 159th Faldo doesn't believe Woods will catch Nicklaus Quotes of the Week Tips for adding more distance to your tee shots Ad
 *   Olympics
     SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Andy Clayton King / AP Lochte, Franklin impress in Minnesota
     
@@ -65,7 +65,7 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     Lance Armstrong has cut formal ties with his cancer-fighting charity to avoid further damage brought by doping charges and being stripped of his seven Tour de France titles.
     
-    The Week in Sports Pictures Djokovic, Federer reach ATP final North Carolina QB sets prep mark in 104-80 win Wladimir Klitschko retains heavyweight belts Mares beats Moreno, defends 122-pound title Tour champ Wiggins released from hospital Dan Patrick: Utah girl a star in youth football Newton TD celebration gets prep star ejected Ad
+    Vonn hospitalized with undisclosed illness Djokovic, Federer reach ATP final The Week in Sports Pictures North Carolina QB sets prep mark in 104-80 win Wladimir Klitschko retains heavyweight belts Mares beats Moreno, defends 122-pound title Tour champ Wiggins released from hospital Dan Patrick: Utah girl a star in youth football Ad
 
 *   Scores
 *   Odds
