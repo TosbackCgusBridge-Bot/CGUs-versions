@@ -3,19 +3,19 @@ TRY: Gardening | Jewelry | Designer Inspiration | Chefs Privacy Policy Email Pri
 
 Most Viewed
 
-1.  Meet the Magic Makers
-2.  Veranda's Most Memorable Holiday Rooms
-3.  Stylish Holiday Gift Ideas
-4.  Veranda's Top Holiday Desserts
-5.  Ruthie Sommers's Advice on Decorating and Being an Interior Designer
+1.  Kathryn Irelands Bathroom Decorating Ideas
+2.  Meet the Magic Makers
+3.  Veranda's Most Memorable Holiday Rooms
+4.  Stylish Holiday Gift Ideas
+5.  Veranda's Top Holiday Desserts
 
 Most Searched
 
-1.  bedrooms
-2.  designer inspiration
-3.  christmas
-4.  holiday rooms
-5.  bathroom
+1.  designer inspiration
+2.  bedrooms
+3.  jewelry
+4.  christmas
+5.  sweepstakes
 
 Magazine | RSS
 
