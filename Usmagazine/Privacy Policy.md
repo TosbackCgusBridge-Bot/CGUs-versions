@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! J-Law's Chic-Sexy! »
+Hot Pics! Taylor's Puppy Love »
 
-Top Stories1.  Justin Bieber Sings "Cry Me a River" After Selena Gomez Split »
-2.  Pregnant Holly Madison Enjoys Babymoon at Disney World »
-3.  Exclusive Vanessa Minnillo Made "Rookie Mistakes" Changing Camden's Dirty Diaper »
-4.  Anne Hathaway Slams Katie Holmes on Saturday Night Live »
-5.  Justin Bieber Speaks Out on Selena Gomez Split »
+Top Stories1.  Jessica Simpson Shows Off Super-Skinny Bod With Sister Ashlee »
+2.  Pregnant Camila Alves: See Her Growing Baby Bump! »
+3.  Anne Hathaway: I Was "Obsessive" About Losing 25 Pounds for Les Mis »
+4.  JoAnna Garcia Expecting First Child With Nick Swisher! »
+5.  Heidi Montag Wears Skimpy Red Bikini, Caresses Breast Implants »
 
  
 
@@ -177,9 +177,9 @@ Inside Us Weekly
 
 *   Style Christina Aguilera Flashes Leopard Bra Under
 *   Beauty Christa B. Allen: What's in My Bag?
-*   Moms Pregnant Camila Alves: See Her Growing Baby B
-*   Body Anne Hathaway: I Was "Obsessive" About Losing  
-*   Entertainment Alyson Hannigan, Seth Green Reunite on How I
+*   Moms Adorable! Bruce Willis Bonds With Daughter Ma
+*   Body Heidi Montag Wears Skimpy Red Bikini, Caresse  
+*   Entertainment Teen Mom: Chelsea, Adam Clash Over Parenting
 
 *   US WEEKLY
 *   Celebrity News
