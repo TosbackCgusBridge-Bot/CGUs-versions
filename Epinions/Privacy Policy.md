@@ -37,12 +37,13 @@ Profile Images
 Search Epinions with Google  
 
 **Latest Member Center Post**  
-New Incentives Program - 10/11/2012
+Epinions Incentives Program - 11/12/2012
 
 **Eroyalties System**  
 Income Share (including bonus for Leads, Moderators, and Advisers) is processed by the 15th of each month. Checks are processed on the 15th and mailed out soon after.  
   
 November  
+Income Share - 11/12/2012  
 Mod &. CL Bonus - 11/09/2012  
   
 October  
