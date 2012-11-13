@@ -127,6 +127,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Scanpan
     *   Staub
     *   Swiss Diamond
+    *   Williams-Sonoma
     *   Zwilling J.A. Henckels
     
     Featured
@@ -169,6 +170,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Salt &. Pepper Mills
     *   Specialized Kitchen Tools
     *   Timers, Thermometers &. Scales
+    *   Williams-Sonoma Smart Tools
     *   Wine Tools
     
     Shop by Brand
@@ -179,6 +181,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Microplane®
     *   OXO
     *   Rösle
+    *   Williams-Sonoma
     *   WMF
     *   Zoku
     *   Zwilling J.A. Henckels
@@ -409,9 +412,10 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     *   Guide to Grains
     
-    EXTENDED
+    TODAY ONLY
     
-    Save 20% on Favorite Fall Foods through 11/12/12.
+    Save 15% on Croissants &. Pastries  
+    Enter promo code: PASTRYSALE
     
     Shop Now 
     
@@ -614,18 +618,18 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
 *   Agrarian Shop by Category
     
-    *   Plants
-    *   Seeds
-    *   Garden Tools
-    *   Garden Supplies
-    *   Raised Beds &. Planters
-    *   Beekeeping
-    *   Chicken Coops
-    *   Canning &. Preserving
     *   DIY &. Homemade Kits
-    *   Books
+    *   Chicken Coops
+    *   Raised Beds &. Planters
     *   Vintage
+    *   Garden Supplies
+    *   Canning &. Preserving
     *   Healthy Living
+    *   Beekeeping
+    *   Garden Tools
+    *   Seeds
+    *   Plants
+    *   Books
     
     Shop by Brand
     
