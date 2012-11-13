@@ -1,4 +1,4 @@
-About Us| Newsletter November 12, 2012
+About Us| Newsletter November 13, 2012
 
 *   Like Us
 *   Follow Us
@@ -413,11 +413,11 @@ New on MedicineNet
 
 Latest MedicineNet News
 
+*   Will Health Reform Cost Me More?
 *   DNA 'Telomere' Length Tied to Aging, Death Risk
 *   Doctors Often Misinterpret Patients' Wishes
 *   Barack Obama Wins: What It Means for Health Care
 *   Doctors With More Experience May Have Lower Cost
-*   An Elephant That Speaks Korean?
 *   Want More News? Sign Up for MedicineNet Newsletters!
 *   Health News Feed
 
