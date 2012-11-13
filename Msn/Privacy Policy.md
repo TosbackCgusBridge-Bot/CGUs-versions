@@ -39,7 +39,7 @@ Close Email A Friend Your email has been sent.
     *   FOX NFL Sunday
     *   NFL on Scout
     *   Photos
-    *   Shop
+    *   NFL Gear
     *   Injuries
 *   MLB MLB
     
@@ -505,29 +505,29 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   Win keeps Vikings in playoff picture
-*   Wolves Monday: Injuries hit on many levels
-*   No progress made in NHL labor talks
+*   Gophers' Mbakwe inspired by Vikings' Peterson
+*   Gophers shoot past Rockets with ease
+*   Wolves center Pekovic suffers sprained ankle
 
 *   VINTAGE: The Unique Iso Varedo
 *   MOTOGP: Rossi, Lorenzo Pay Tribute To Biaggi
 *   CUP: Phoenix Still Has Some ‘New’
 
-*   Photo Gallery: Vandy beats Ole Miss
-*   Devin B1G Offensive co-POY
-*   VIDEOS: Monday in the West End Zone
+*   Moral Victory Not Enough
+*   Allen visits N.C. State, Duke &. UNC
+*   Preview: Duke v. Kentucky
 
 *   Cung Le Shocks The World At FUEL TV 6
 *   “Stun Gun” Drops Paulo Thiago
 *   Cung Le Destroys Rich Franklin With Epic KO
 
-*   Ronaldo se encuentra lesionado
-*   Quedan definidos juegos de liguilla
-*   Liga MX: Revisa como se jugará la liguilla
+*   Aldo de Nigris está feliz
+*   Aguirre, en la órbita del Espanyol
+*   Trout y Harper, los Novatos del Año
 
-*   Terry escapes lengthy lay-off
-*   Altidore returns to USA national team
-*   Lampard in talks with Chinese club
+*   Ferdinand may extend United contract
+*   Deschamps continues AVB war of words
+*   Balotelli heading for City exit
 
 *   Bears CB says he'll skip game for birth
 *   Kidd reacts to Cuban's comments
