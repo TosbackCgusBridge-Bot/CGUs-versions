@@ -267,25 +267,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   GOP strategist: Two-party system collapses in California Published 11/11/2012 at 4:00 a.m. 194 comments
-*   Two dead from wild mushrooms served at Sacramento-area care facility Published 11/11/2012 at 8:54 a.m. 38 comments
-*   Trent Amen: As a business owner, I'm baffled by election result Published 11/11/2012 at 12:00 a.m. 86 comments
-*   Raley's, union return to bargaining table Published 11/11/2012 at 3:48 p.m. 30 comments
-*   UPDATED: Local KFC stores among those closed in wake of bankruptcy Updated 11/12/2012 at 11:23 a.m. 28 comments
+*   UPDATED: Local KFC stores among those closed in wake of bankruptcy Updated 11/12/2012 at 2:56 p.m. 74 comments
+*   Men in U-Haul truck were transporting 300 lbs. of pot to sell, Redding police say Published 11/12/2012 at 10:10 a.m. 70 comments
+*   Redding man dies in crash Updated 11/12/2012 at 3:43 p.m. 13 comments
+*   RedBlueAmerica: What does Obama's re-election mean? Published 11/12/2012 at 12:00 a.m. 174 comments
+*   UPDATED: Cadd's lead holding in Redding council race Updated 11/12/2012 at 2:26 p.m. 39 comments
 
-Photo Galleries Veterans Day Parade Indianapolis House Explosion West Valley beats Lassen
+Photo Galleries Indianapolis House Explosion Veterans Day Parade AAUW Tour Pierson home
 
-*   GOP strategist: Two-party system collapses in California Published 11/11/2012 at 4:00 a.m. 194 comments
-*   Obama wins Fla., topping Romney in final tally 332-206 Published 11/10/2012 at 12:31 p.m. 151 comments
-*   CIA Director Petraeus quits, cites extramarital affair Published 11/9/2012 at 12:56 p.m. 126 comments
-*   Pot votes in Colorado, Washington raise possibility of marijuana tourism Published 11/10/2012 at 4:00 a.m. 91 comments
-*   Trent Amen: As a business owner, I'm baffled by election result Published 11/11/2012 at 12:00 a.m. 86 comments
+*   GOP strategist: Two-party system collapses in California Published 11/11/2012 at 4:00 a.m. 209 comments
+*   RedBlueAmerica: What does Obama's re-election mean? Published 11/12/2012 at 12:00 a.m. 174 comments
+*   Obama wins Fla., topping Romney in final tally 332-206 Published 11/10/2012 at 12:31 p.m. 146 comments
+*   Trent Amen: As a business owner, I'm baffled by election result Published 11/11/2012 at 12:00 a.m. 132 comments
+*   Pot votes in Colorado, Washington raise possibility of marijuana tourism Published 11/10/2012 at 4:00 a.m. 90 comments
 
 *   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
 *   Wild horse, burro adoption falls short. economic factors leave trail of uncertainty Published 11/4/2012 at 6:52 p.m. 11 comments
-*   Two dead from wild mushrooms served at Sacramento-area care facility Published 11/11/2012 at 8:54 a.m. 38 comments
+*   Trent Amen: As a business owner, I'm baffled by election result Published 11/11/2012 at 12:00 a.m. 132 comments
+*   Two dead from wild mushrooms served at Sacramento-area care facility Published 11/11/2012 at 8:54 a.m. 36 comments
 *   UPDATE: Detectives arrest two men in connection with Big Bend murder Published 11/3/2012 at 9:09 a.m. 31 comments
-*   Siskiyou County Sheriff Jon Lopey says he's fighting to protect rural America Published 11/3/2012 at 7:36 p.m. 59 comments
 
 Weather
 
@@ -293,26 +293,28 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 54° Overcast Wind: NW 4mph Today 58° 43° Tue 12:00 AM Mostly Cloudy Showers Temp: 44° Tue 12:00 PM Mostly Cloudy Showers Temp: 61° Wed 12:00 AM Mostly Cloudy Showers Temp: 48°
+Currently 43° Overcast Wind: Calm Today 63° 40° Tue 05:00 PM Mostly Cloudy Showers Temp: 52° Wed 05:00 AM Mostly Clear Temp: 41° Wed 05:00 PM Partly Cloudy Temp: 53°
 
-Feels Like: 44°
+Feels Like: 52°
 
-Humidity: 76%
+Humidity: 80%
 
-Precip: 23%
+Precip: 28%
 
-Feels Like: 61°
-
-Humidity: 51%
-
-Precip: 27%
-
-Feels Like: 48°
+Feels Like: 38°
 
 Humidity: 89%
 
-Precip: 23%
+Precip: 10%
 
+Feels Like: 53°
+
+Humidity: 74%
+
+Precip: 5%
+
+Western Skies 11/12/12  
+7:18 p.m.  
 Sunset in Modoc County 9/6/12  
 8:03 a.m.  
 Day after blue moon 9/2/12  
@@ -323,22 +325,12 @@ View From Sundial Bridge 6:38pm 8/31/12
 12:18 a.m.  
 tornado clouds? 8/28/12  
 11:48 p.m.  
-swan dive? 8/28/12  
-11:35 p.m.  
 More Weather » Calendar
 
-*   Monday Nov 12
 *   Tuesday Nov 13
 *   Wednesday Nov 14
+*   Thursday Nov 15
 *   More BROWSE Icon
-
-*   RABA Veteran's Day Fundraiser Mt. Shasta Mall 6 a.m.
-*   Pitty Party spay and neuter day Haven Humane 7:30 a.m.
-*   Veterans Appreciation Free Driver Safety Class BloodSource 9 a.m.
-*   Free Cooking Class Cow Creek Community Church 9:30 a.m.
-*   Free Cooking Class Cow Creek Community Church 6 p.m.
-
-More Events »
 
 *   Flagging Shasta Builder's Exchange 8 a.m.
 *   Basic Traffic Control Shasta Builder's Exchange 1 p.m.
@@ -353,6 +345,14 @@ More Events »
 *   Trinity Tourism Marketing Forum See Description 11 a.m.
 *   Clutter Support Group Redding Library 6 p.m.
 *   KIXE Holiday Auction KIXE 7 p.m.
+
+More Events »
+
+*   Little Explorers: Forest Animals Turtle Bay Exploration Park
+*   Stuff the Truck Thanksgiving Turkey Food Drive Taylor Motors 7 a.m.
+*   Little Movers and Shakers interactive class Redding Library 10 a.m.
+*   Thriving Thursdays Redding Library 4 p.m.
+*   Spaghetti Dinner Buckeye Elementary School 5 p.m.
 
 More Events »
 
