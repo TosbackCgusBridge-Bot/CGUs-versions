@@ -1114,6 +1114,8 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         
         Skylanders Specials
         
+        Great Offers for the Holiday
+        
         Game Furniture
         
         Playstation 2
@@ -1157,8 +1159,6 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         Game Tables
         
         Game Room Furniture
-        
-        Popcorn Machines &. Carts
         
         **See All**
 *   Holiday
