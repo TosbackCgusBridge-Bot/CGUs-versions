@@ -15,7 +15,7 @@ Skip to content
 *   Sell
 *   Gift Center
 
-**Search** Veteran's Day Sale: Up To 50% OFF!   LAST DAY!     Click For Code Zazzle Privacy Policy Policies
+**Search** EXTENDED! Veteran's Day Sale: Up To 50% OFF! Last Day!     Click For Code Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
