@@ -268,7 +268,13 @@ Have one of these devices? Download the Fitbit App from the App Store to sync yo
 
 Don't have one of the devices above? Get the Fitbit App to view the data from your most recent sync with your computer.
 
-Zip 101 Zip Basics How it works Features Prev Next Get Started Wearability
+Zip 101 Zip Basics How it works Features Prev Next Get Started Changing the Display
+
+Thump, whack, or tap your Zip to view your day's stats (pressing won't work). Your Zip is always tracking, even when the display is asleep. Your Fitbit Smiley changes with your day's activities.
+
+steps distance calories burned  
+  
+fitbit smiley clock Wearability
 
 Wear your zip somewhere near your torso. Some recommended places to wear it are:
 
@@ -276,13 +282,7 @@ Wear your zip somewhere near your torso. Some recommended places to wear it are:
 2.  2\. clipped to your bra
 3.  3\. clipped to your waistband or belt
 
-Tap to change display
-
-Your zip is always tracking, even when the display is asleep. You can tap the display to view your day's stats. Your Fitbit Smiley will change with your day's activities.
-
-steps distance calories burned  
-  
-fitbit smiley clock Sync with your computer
+Sync with your computer
 
 After setting up your Zip with a computer, it will sync directly to your fitbit account provided that you're within 20 feet of the plugged-in USB dongle. This happens automatically. there are no buttons to push.
 
