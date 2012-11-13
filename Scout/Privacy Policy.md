@@ -151,11 +151,13 @@ Things to buy:
 Things to know:
 
 *   About Us
-*   Privacy Policy **NEW!**
+*   Privacy Policy
 *   Terms of Service
+
+Copyright © Scout.com. All rights reserved. This website is an unofficial independent source of news and information, and is not affiliated with any school, team, or league.
 
 Copyright © Scout.com and Scout.com. All rights reserved. This website is an unofficial independent source of news and information, and is not affiliated with any school, team, or league.
 
 MSN Privacy Legal Advertise on MSN About our ads RSS
 
-© 2010 Microsoft |
+© 2012 Microsoft |
