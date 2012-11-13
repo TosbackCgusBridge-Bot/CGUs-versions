@@ -435,23 +435,23 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   In the Know: Is it legal to bury a deceased pet in my yard, and who do I call to pick up roadkill? Published 11/12/2012 at 5:00 a.m. 19 comments
-*   Man arrested after leading deputies on 100 mph chase along U.S. 41 Published 11/11/2012 at 12:08 p.m. 29 comments
-*   Region's clinics, lawmakers begin preparing for rollout of Obamacare Published 11/12/2012 at 5:20 a.m. 41 comments
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 341 comments
-*   Country star LeAnn Rimes gives private concert to 150 in Naples home Published 11/10/2012 at 10:59 p.m. 27 comments
+*   Region's clinics, lawmakers begin preparing for rollout of Obamacare Published 11/12/2012 at 5:20 a.m. 89 comments
+*   In the Know: Is it legal to bury a deceased pet in my yard, and who do I call to pick up roadkill? Published 11/12/2012 at 5:00 a.m. 33 comments
+*   Florida connection: Info emerges about second woman in Petraeus case Published 11/12/2012 at 6:33 a.m. 53 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 368 comments
+*   Mother of crash victim to advocate for ban on texting and driving Published 11/12/2012 at 5:05 a.m. 34 comments
 
-Photo Galleries Rick Scott's Naples home and… LeAnn Rimes performs a private concert Veterans Day 2012 - Naples
+Photo Galleries Rick Scott's Naples home and… LeAnn Rimes performs a private concert Chapel Grill opens in downtown Naples
 
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Published 11/9/2012 at 6:10 a.m. 341 comments
-*   Four days later: Obama declared winner of Florida's 29 electoral votes Published 11/10/2012 at 7:08 a.m. 141 comments
-*   CIA Director David Petraeus resigns because of extramarital affair Published 11/9/2012 at 3:08 p.m. 80 comments
-*   Swing state: Razor-thin margin in presidential race proves Florida still divided Published 11/11/2012 at 6:00 a.m. 54 comments
-*   Despite 9 percent unemployment, state says region has 16,000 open jobs Published 11/11/2012 at 7:00 a.m. 44 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Published 11/9/2012 at 6:10 a.m. 368 comments
+*   Four days later: Obama declared winner of Florida's 29 electoral votes Published 11/10/2012 at 7:08 a.m. 136 comments
+*   Region's clinics, lawmakers begin preparing for rollout of Obamacare Published 11/12/2012 at 5:20 a.m. 89 comments
+*   Florida connection: Info emerges about second woman in Petraeus case Published 11/12/2012 at 6:33 a.m. 53 comments
+*   Swing state: Razor-thin margin in presidential race proves Florida still divided Published 11/11/2012 at 6:00 a.m. 51 comments
 
-*   Big land deals again big deal in Southwest Florida, housing expert says Published 11/9/2012 at 5:30 a.m. 16 comments
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 215 comments
-*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 142 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 211 comments
+*   Big land deals again big deal in Southwest Florida, housing expert says Published 11/9/2012 at 5:30 a.m. 14 comments
+*   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 139 comments
 *   Plans fizzle for SW Fla energy crop jatropha, company executive indicted Published 11/5/2012 at 8:00 a.m. 5 comments
 *   Country star LeAnn Rimes gives private concert to 150 in Naples home Published 11/10/2012 at 10:59 p.m. 27 comments
 
@@ -461,40 +461,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 80° A Few Clouds Wind: E 16mph Today 81° 67° Tue 03:00 AM Mostly Cloudy Showers Temp: 68° Tue 03:00 PM Partly Sunny Showers Temp: 80° Wed 03:00 AM Mostly Clear Temp: 68°
+Currently 65° Fair Wind: NE 5mph Today 82° 66° Tue 08:00 PM Mostly Clear Temp: 72° Wed 08:00 AM Partly Sunny Showers Temp: 75° Wed 08:00 PM Partly Cloudy Temp: 71°
 
-Feels Like: 68°
+Feels Like: 72°
 
-Humidity: 87%
+Humidity: 73%
 
-Precip: 24%
+Precip: 11%
 
-Feels Like: 81°
+Feels Like: 75°
 
-Humidity: 56%
+Humidity: 69%
 
-Precip: 19%
+Precip: 16%
 
-Feels Like: 68°
+Feels Like: 71°
 
-Humidity: 84%
+Humidity: 76%
 
-Precip: 10%
+Precip: 12%
 
 More Weather » Calendar
 
-*   Monday Nov 12
 *   Tuesday Nov 13
 *   Wednesday Nov 14
+*   Thursday Nov 15
 *   More BROWSE Icon
-
-*   TIF 2012 Charity Classic Pro-Am Bay Colony Golf Club 7:30 a.m.
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Baby boot camp Miromar Outlets 9 a.m.
-*   Yoga class Saint Paul's Episcopal Church 9 a.m.
-*   Veteran's Day Weekend at Naples Zoo Naples Zoo at Caribbean Gardens 9 a.m.
-
-More Events »
 
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   Veterans Portrait Project Exhibit IberiaBank on Marco Island 9 a.m.
@@ -512,33 +504,53 @@ More Events »
 
 More Events »
 
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Feed Body and Soul Juniper Village at Naples 8:30 a.m.
+*   Paddleboard and Fitness 1st Ave S. Old Naples 9 a.m.
+*   Veterans Portrait Project Exhibit IberiaBank on Marco Island 9 a.m.
+*   Vibrant Watercolor on Aquabord and More with Karen Vernon Art Center 9:30 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Prep Football
+*   LPGA Tour
     
-    Find videos, photos from Friday's high school football games.
+    Find course information, videos, photos and stories about CME Group Titleholders.
+    
+    Celebrity Sightings
+    
+    They're hot and they're out and about. Check out our daily celebrity sightings galleries.
+    
+    NewsMakers
+    
+    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
+    
+*   Our World
+    
+    Column looks at SW Florida through eyes of Daily News photojournalists.
+    
+    Hot Home Sales
+    
+    Pictures, info about recently sold single-family homes in Collier and Lee.
     
     Veterans Day
     
-    Find interactive features honoring local veterans and Veterans Day events.
+    Find interactive features honoring local veterans and Veterans Day photos.
     
-    Election 2012
+*   Election 2012
     
     Find results, presidential state-by-state map, photos and stories about the election.
     
-*   Biggest Catch
+    Biggest Catch
     
     See photos from local anglers with their biggest catch of the day. Submit your photos.
     
     f Mugshots
     
     Looking for daily arrest mugshots? You can find them here in our special section.
-    
-    Here's to our Heroes
-    
-    They put others before themselves. see problems &. solve them. Your nomination »
     
 *   Editorial Cartoons
     
@@ -547,18 +559,6 @@ More Events » Features
     Download iPad
     
     Experience the Naples Daily News -- reimagined for the iPad. Download now »
-    
-    Hot Home Sales
-    
-    Pictures, info about recently sold single-family homes in Collier and Lee.
-    
-*   NewsMakers
-    
-    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
-    
-    Our World
-    
-    Column looks at SW Florida through eyes of Daily News photojournalists.
     
     Cuties of the Week
     
