@@ -1,6 +1,6 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Syrian Opposition Seeks Recognition
+*   Petreaus Scandal Ensares US Afghan Commander
 *   China Discusses Leadership Transition Online
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
