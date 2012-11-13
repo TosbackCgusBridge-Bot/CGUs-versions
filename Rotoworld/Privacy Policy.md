@@ -34,6 +34,7 @@ To search for a player use one of two formats:
 
 COLUMNS
 
+*   Fantasy Risers: AL East Nov 12
 *   Non-Tender Tango Nov 9
 *   Arizona Fall League Prospects Nov 7
 *   2013 Top 50 Free Agents Nov 2
@@ -41,7 +42,6 @@ COLUMNS
 *   Giant Celebration Oct 29
 *   Kung Fu Pandamonium Oct 25
 *   Giant Performance Oct 22
-*   Cards Ahead On Carpenter Bomb Oct 18
 
 PREMIUM CONTENT
 
@@ -56,7 +56,10 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
-*   Jeremy Affeldt expected to get $18 million
+*   Dodgers 'out' on free agent OF Torii Hunter
+*   Giants, Affeldt agree to new three-year deal
+*   Trout and Harper named top rookies for 2012
+*   Yankees showing interest in Mike Napoli
 *   Tigers 'most aggressive pursuer' of Hunter
 *   Pierzynski not expected back with White Sox
 *   Several teams interested in Shane Victorino
@@ -65,9 +68,6 @@ FANTASY BASEBALL HEADLINES
 *   Red Sox sign David Ross to two-year deal
 *   Rivera (knee) throws 25 pitches off mound
 *   Kuroda declines qualifying offer from Yankees
-*   B.J. Upton declines Rays' qualifying offer
-*   Giants confident they can re-sign Affeldt
-*   Nationals, Davey Johnson agree to new deal
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Big Ben's Bad Night Nov 13
 *   The Week Of The Tight End Nov 12
+*   Matchup: Chiefs @ Steelers Nov 12
 *   Sunday Injuries: F-Jax Exits Nov 12
+*   Best Available NFL Free Agents Nov 12
 *   Watch Texans - Bears LIVE Nov 11
 *   Week 10 Live Blog Nov 11
 *   Week 10 Rankings Nov 11
-*   Matchups: Dez'll Do It Nov 11
-*   Week 10 Injury Questions Nov 10
-*   Best Available NFL Free Agents Nov 10
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Holmgren: I'm not interested in the Cowboys
-*   Darren McFadden expected back this week?
-*   Packers send RT Bulaga to injured reserve
-*   Jones-Drew already ruled out for Week 11
-*   Report: Eagles could rest Vick for the season
-*   Maclin diagnosed with strained lower back
-*   Pierre Garcon set to test foot in practice
-*   Fred Jackson has concussion-like symptoms
-*   Foster leads Texans to SNF victory over Bears
-*   Cutler has concussion. won't play second half
-*   Eagles are not expected to fire Andy Reid yet
-*   Reid: Michael Vick will start if he's healthy
+*   Report: Ben has 'unusual' shoulder separation
+*   Steelers fear Ben out 'at least' a few weeks
+*   Cassel throws overtime INT to seal MNF loss
+*   Falcons cut ties with veteran LE Ray Edwards
+*   Bradshaw will have 'battery of tests' on neck
+*   Redman getting start at running back for MNF
+*   'Don't count on' Murray to return for Week 11
+*   Rainy and windy conditions expected for MNF
+*   Eli Manning to rest tired arm during bye week
+*   Munchak: We'll get Kenny Britt more involved
+*   DMC, Goodson both still in walking boots
+*   Report: Foles likely to start vs. Redskins
 
 NBA PAGES
 
@@ -134,6 +134,7 @@ NBA PAGES
 
 COLUMNS
 
+*   Dose: Jennings &. Bynum News Nov 13
 *   Dose: Bass, Celtics Play 5 Nov 12
 *   NBA Chat: Monday @ 12:30 ET Nov 11
 *   Wired: Top NBA Pickups Nov 11
@@ -141,7 +142,6 @@ COLUMNS
 *   DeAndre the Giant Nov 9
 *   Dose: Serge Ibaka Explosion Nov 9
 *   NBA Live Chat Thursday Nov 8
-*   Dose: Big Wednesday Nov 8
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Josh Smith, Lou Williams sick, iffy on Monday
-*   Steve Nash reunited with Mike D'Antoni
-*   Gerald Wallace doubtful despite practicing
-*   Kyle Lowry, Landry Fields out Monday night
-*   76ers hope Andrew Bynum can practice Dec. 10
-*   Nene facing more time on the sideline
-*   Shocker: Mike D'Antoni to coach Lakers
-*   Jason Richardson (ankle) should play Monday
-*   Griz beat Heat behind Ellington's seven 3s
-*   Kevin Love (hand) targeting early December
-*   Chase Budinger needs surgery on torn meniscus
-*   DeMarcus Cousins suspended two games
+*   Hickson goes for career-best 19 &. 18 vs. ATL
+*   Shved steps up for injury riddled backcourt
+*   Pekovic on ankle: 'I don't use crutches'
+*   Lowry (ankle) ruled out for Tuesday vs. Indy
+*   Rondo one rebound shy of triple-double
+*   Asik, Parsons have career nights vs. Heat
+*   James posts easy 38-10-6 line and game-winner
+*   DeRozan scores 37. Calderon posts 20 &. 17
+*   Big Al goes for 24 and 17. Millsap scores 34
+*   Williams (groin) plays 50 minutes vs. Raptors
+*   Nikola Pekovic (ankle) will not return
+*   Ilyasova plays 18 minutes in another bad game
 
 NHL PAGES
 
@@ -207,6 +207,10 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Report: Jared Cowen may be done for the year
+*   AHL tabs Curtis McElhinney as POTW
+*   Blake Geoffrion's father just glad he's alive
+*   Steve Fehr says NHLPA is open to mediation
 *   Carl Gunnarsson to play in Sweden with Orebro
 *   Sundin wishes his career ended in Toronto
 *   Brandon Dubinsky leaves ECHL game Saturday
@@ -215,10 +219,6 @@ FANTASY HOCKEY NEWS
 *   No progress Sunday on player contract terms
 *   Donald Fehr doesn't "see path for agreement"
 *   Blake Geoffrion (skull) in stable condition
-*   Nathan Horton's agent: "He's ready to play"
-*   Joe Colborne healthy scratch Friday
-*   Salaries for this season now a CBA issue
-*   Habs' Blake Geoffrion out indefinitely
 
 NASCAR PAGES
 
@@ -245,6 +245,8 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Clint Bowyer's crew chief fined at Phoenix
+*   Gordon fined $100K for triggering altercation
 *   James Buescher's NCWTS championship scenario
 *   Stenhouse Jr.'s NNS championship scenario
 *   Keselowski's Chase clinch scenario
@@ -255,8 +257,6 @@ FANTASY NASCAR NEWS
 *   Logano’s NNS team wins Phoenix race awards
 *   Austin Dillon wins race awards at Phoenix
 *   Jason Bowles big Nationwide Series gainer
-*   Ninth 2012 Nationwide Series win for Logano
-*   Brian Scott’s team wins Mahle Clevite award
 
 GOLF PAGES
 
@@ -327,6 +327,9 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Seferian-Jenkins will keep seeing DE snaps
+*   De'Anthony Thomas could see snaps at DB
+*   Ducks S Patterson officially out w/ torn ACL
 *   Pauline: WR Hamilton could surprise in 2nd rd
 *   Bielema: Scouts say Ball will be 1st RB taken
 *   Hoke: QB Robinson listed as day-to-day
@@ -336,9 +339,6 @@ NFL DRAFT NEWS
 *   LaTech QB Colby Cameron still INT-less
 *   Fresno State S Thomas now has eight INTs
 *   Bruins OLB Barr records 2.5 sacks vs Cougars
-*   Jarvis Jones registers another 2 sacks vs AUB
-*   Oregon S Patterson suffers apparent knee inj
-*   Marquess Wilson cites 'abuse' at Wash St.
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Holmgren: I'm not interested in the Cowboys
-*   NFL:Darren McFadden expected back this week?
-*   NFL:Packers send RT Bulaga to injured reserve
-*   NFL:Report: Eagles could rest Vick for the season
-*   NFL:Maclin diagnosed with strained lower back
-*   NFL:Pierre Garcon set to test foot in practice
-*   NBA:76ers hope Andrew Bynum can practice Dec. 10
-*   NFL:Fred Jackson has concussion-like symptoms
-*   NBA:Shocker: Mike D'Antoni to coach Lakers
-*   NFL:Foster leads Texans to SNF victory over Bears
-*   NFL:Cutler has concussion. won't play second half
-*   CFB:Pauline: WR Hamilton could surprise in 2nd rd
+*   NFL:Report: Ben has 'unusual' shoulder separation
+*   NBA:Andrew Bynum could be out until January
+*   NBA:James posts easy 38-10-6 line and game-winner
+*   NFL:Steelers fear Ben out 'at least' a few weeks
+*   NFL:Falcons cut ties with veteran LE Ray Edwards
+*   NFL:Cassel throws overtime INT to seal MNF loss
+*   MLB:Giants, Affeldt agree to new three-year deal
+*   NAS:Gordon fined $100K for triggering altercation
+*   NFL:Bradshaw will have 'battery of tests' on neck
+*   NFL:Redman getting start at running back for MNF
+*   NFL:'Don't count on' Murray to return for Week 11
+*   MLB:Trout and Harper named top rookies for 2012
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1M. ReeceNFL (7860)
-*   2T. JonesNFL (7643)
-*   3D. McFaddenNFL (7259)
-*   4P. HarvinNFL (6605)
-*   5A. HernandezNFL (6372)
+*   1T. JonesNFL (6648)
+*   2D. McFaddenNFL (6504)
+*   3M. ReeceNFL (6458)
+*   4P. HarvinNFL (5854)
+*   5K. LowryNBA (5815)
 
-*   6N. HilarioNBA (6110)
-*   7D. AmendolaNFL (6050)
-*   8I. RedmanNFL (5838)
-*   9J. DwyerNFL (5762)
-*   10K. LoveNBA (5731)
+*   6A. HernandezNFL (5782)
+*   7K. LoveNBA (5712)
+*   8N. HilarioNBA (5664)
+*   9D. AmendolaNFL (5538)
+*   10I. RedmanNFL (5425)
 
   
 Video Center
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines The Week Of The Tight End  
-Nov 12 Graham, Gonzalez and Olsen led the TE charge, but which other players stood out for better or worse? Chet Gresham recaps the Week 10 action.  
+  Headlines Big Ben's Bad Night  
+Nov 13 Adam Levitan talks Ben Roethlisberger's injury and recaps all of Monday's news in the Dose.  
   
 More NFL Columns
 
+*   »Big Ben's Bad Night Nov 13
 *   »The Week Of The Tight End Nov 12
+*   »Matchup: Chiefs @ Steelers Nov 12
 *   »Sunday Injuries: F-Jax Exits Nov 12
+*   »Best Available NFL Free Agents Nov 12
 *   »Watch Texans - Bears LIVE Nov 11
 *   »Week 10 Live Blog Nov 11
 *   »Week 10 Rankings Nov 11
-*   »Matchups: Dez'll Do It Nov 11
-*   »Week 10 Injury Questions Nov 10
-*   »Best Available NFL Free Agents Nov 10
 
 NFL Headlines
 
-*   »Holmgren: I'm not interested in the Cowboys
-*   »Darren McFadden expected back this week?
-*   »Packers send RT Bulaga to injured reserve
-*   »Jones-Drew already ruled out for Week 11
-*   »Report: Eagles could rest Vick for the season
-*   »Maclin diagnosed with strained lower back
-*   »Pierre Garcon set to test foot in practice
-*   »Fred Jackson has concussion-like symptoms
-*   »Foster leads Texans to SNF victory over Bears
-*   »Cutler has concussion. won't play second half
-*   »Eagles are not expected to fire Andy Reid yet
-*   »Reid: Michael Vick will start if he's healthy
+*   »Report: Ben has 'unusual' shoulder separation
+*   »Steelers fear Ben out 'at least' a few weeks
+*   »Cassel throws overtime INT to seal MNF loss
+*   »Falcons cut ties with veteran LE Ray Edwards
+*   »Bradshaw will have 'battery of tests' on neck
+*   »Redman getting start at running back for MNF
+*   »'Don't count on' Murray to return for Week 11
+*   »Rainy and windy conditions expected for MNF
+*   »Eli Manning to rest tired arm during bye week
+*   »Munchak: We'll get Kenny Britt more involved
+*   »DMC, Goodson both still in walking boots
+*   »Report: Foles likely to start vs. Redskins
 
 NFL Links
 
