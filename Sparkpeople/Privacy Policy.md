@@ -143,7 +143,7 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Primrose Property Resources
+*   Metabolism Diet Resources
 
   
 Stay in Touch With SparkPeople **Site Maintenance Tonight**
@@ -152,17 +152,17 @@ SparkPeople and all of our sister websites (including SparkRecipes and dailySpar
 
 Read More
 
-*   Do you have a goal after weight loss?
-*   Pantry staples
+*   Strateies needed from Thanksgiving to New Year's
 *   Healthy snack ideas for under 100 calories?
 *   Vegetables- yuck!
-*   Any moderate eaters, exercisers, out there?
+*   Whats the 1st thing you noticed w/your weightloss?
+*   How do you fight boredom on the treadmill?
 
-View Demo **Dumbbell Flys**  
-This exercise both strengthens and stretches your chest. **Best Chicken Soup**  
+View Demo **Torso Stretch**  
+Try this one at your desk! **Chef Meg's Roasted Winter Vegetables**  
 Submitted By: **CHEF\_MEG**
 
-The perfect soup to warm your belly on a cold night or soothe you when you're sick. Full Recipe
+By roasting these hearty winter vegetables, we soften their strong tastes and bring out their natural sweetness. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
