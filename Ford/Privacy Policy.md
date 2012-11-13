@@ -50,11 +50,6 @@ MPG City/Hwy
 
 22/342
 
-Hybrid MPG  
-City/Hwy
-
-47/472
-
 Build &. Price Request a Local Quote Previous Model Year   MUSTANG
 
 Starting MSRP:
@@ -189,7 +184,7 @@ MPG City/Hwy
 
 14/202
 
-Build &. Price Request a Local Quote Previous Model Year
+Build &. Price Request a Local Quote Previous Model Year Future Vehicles Transit Connect Available Fall 2013
 
   TRANSIT CONNECT
 
@@ -267,7 +262,31 @@ MPG City/Hwy
 
 47/472
 
-Build &. Price Request a Local Quote FOCUS Electric Available Now C-MAX Available Fall 2012 Future Vehicles 2013 Fusion Energi Available Early 2013
+Build &. Price Request a Local Quote C-MAX Hybrid SEL
+
+Starting MSRP:
+
+$28,2001
+
+Seating for:
+
+5 people
+
+MPG City/Hwy
+
+47/472
+
+Build &. Price Request a Local Quote C-MAX Energi
+
+Starting MSRP:
+
+$32,9501
+
+Seating for:
+
+5 people
+
+Build &. Price Request a Local Quote FOCUS Electric Available Now Future Vehicles 2013 Fusion Energi Available Early 2013
 
   TRANSIT CONNECT
 
@@ -688,7 +707,7 @@ When do you plan to acquire your new vehicle?
 
 Get information about your preferred vehicles (select up to three).
 
-C-MAX Edge Escape E-Series Wagon Expedition Explorer F-150 Fiesta Flex Focus Focus ST Focus Electric Fusion Fusion Hybrid Mustang Super Duty Taurus Transit Connect Future Vehicles 2013 Fusion Energi 2014 Transit 2014 Transit Connect Commercial Vehicles Transit Connect E-Series Van E-Series Wagon E-Series Cutaway Super Duty Pickup Chassis Cab F-650/F-750 Stripped Chassis Ford Truck Commercial Connection Our Privacy Pledge
+C-MAX Edge Escape E-Series Wagon Expedition Explorer F-150 Fiesta Flex Focus Focus ST Focus Electric Fusion Fusion Hybrid Mustang Super Duty Taurus Transit Connect Future Vehicles 2013 Fusion Energi 2014 Transit 2014 Transit Connect 2014 Transit Connect Wagon Commercial Vehicles Transit Connect E-Series Van E-Series Wagon E-Series Cutaway Super Duty Pickup Chassis Cab F-650/F-750 Stripped Chassis Ford Truck Commercial Connection Our Privacy Pledge
 
 We will never share your personal information with non-affiliated third parties. For information on how we protect your privacy, please read our Privacy Policy
 
