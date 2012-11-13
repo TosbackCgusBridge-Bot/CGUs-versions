@@ -1,6 +1,6 @@
 RetailMeNot Score the Savings You Want™ Search for savings from your favorite stores Search!
 
-e.g. black fridaymacy'skohlshsnsearshome decorators collectionwalmart
+e.g. black fridaymacy'skohl'shorchowsearshome decorators collectionwalmarthome depot
 
 *   Coupon Codes
 *   Free Shipping
