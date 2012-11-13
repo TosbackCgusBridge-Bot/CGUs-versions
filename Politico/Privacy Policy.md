@@ -111,55 +111,55 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/12/2012 2:16 PM ET
+Updated: 11/13/2012 8:01 AM ET
+
+1.  1 Romney campaign's lasting mark
+2.  2 Secession petitions flood White House website
+3.  3 Wife runs over non-voting husband
+4.  4 The GOP's media cocoon
+5.  5 West digs in
+6.  6 Gen. John Allen ensnared in Petraeus scandal
+7.  7 Hill digs in on Petraeus scandal
+8.  8 Grover: Mitt painted as 'poopy head'
+9.  9 Report: Holly Petraeus 'furious'
+10.  10 Newt: 'Dumbfounded' by election
+
+Updated: 11/13/2012 8:01 AM ET
 
 1.  1 The GOP's media cocoon
-2.  2 Grover: Mitt painted as 'poopy head'
-3.  3 King: 'Crisis of major proportions'
-4.  4 5 fiscal cliff scenarios
-5.  5 Secession petitions flood White House website
-6.  6 Romney campaign's lasting mark
-7.  7 Newt: 'Dumfounded' by election
-8.  8 Media fight on the right over GOP
-9.  9 GOP Senate in 2014 a long shot
-10.  10 Election causes angst for House GOP
+2.  2 Romney campaign's lasting mark
+3.  3 Secession petitions flood White House website
+4.  4 Grover: Mitt painted as 'poopy head'
+5.  5 King: 'Crisis of major proportions'
+6.  6 Newt: 'Dumbfounded' by election
+7.  7 5 fiscal cliff scenarios
+8.  8 West digs in
+9.  9 Media fight on the right over GOP
+10.  10 'Modern Family' star analyzes Ann Romney
 
-Updated: 11/12/2012 2:16 PM ET
+Updated: 11/13/2012 8:01 AM ET
 
-1.  1 The GOP polling debacle
-2.  2 Rove under fire
-3.  3 6 questions on Petraeus's exit
+1.  1 The GOP's media cocoon
+2.  2 The GOP polling debacle
+3.  3 Rove under fire
 4.  4 Media fight on the right over GOP
-5.  5 The GOP's media cocoon
-6.  6 Grover: Mitt painted as 'poopy head'
-7.  7 King: 'Crisis of major proportions'
-8.  8 GOP Senate in 2014 a long shot
-9.  9 FBI whistle-blower contacted Cantor
-10.  10 Romney campaign's lasting mark
+5.  5 6 questions on Petraeus's exit
+6.  6 Romney campaign's lasting mark
+7.  7 Secession petitions flood White House website
+8.  8 Grover: Mitt painted as 'poopy head'
+9.  9 King: 'Crisis of major proportions'
+10.  10 Newt: 'Dumbfounded' by election
 
-Updated: 11/12/2012 2:16 PM ET
+Updated: 11/13/2012 8:01 AM ET
 
 1.  1 Rove under fire
 2.  2 6 questions on Petraeus's exit
-3.  3 The GOP polling debacle
+3.  3 Chrysler gives workers day off to vote
 4.  4 Oliver Stone: 'I find Obama scary'
-5.  5 Media fight on the right over GOP
-6.  6 The GOP's media cocoon
-7.  7 Paula Broadwell in media spotlight
-8.  8 Grover: Mitt painted as 'poopy head'
-9.  9 King: 'Crisis of major proportions'
-10.  10 No pass for Petraeus
-
-Updated: 11/12/2012 2:16 PM ET
-
-1.  1 Rove under fire
-2.  2 Early election results, via NBC
-3.  3 6 questions on Petraeus's exit
-4.  4 Chrysler gives workers day off to vote
-5.  5 Oliver Stone: 'I find Obama scary'
-6.  6 Obama, not-so-happy warrior
-7.  7 The GOP polling debacle
-8.  8 Christie lashes 'know-nothing, disgruntled' Romney aides
+5.  5 The GOP's media cocoon
+6.  6 The GOP polling debacle
+7.  7 Christie lashes 'know-nothing, disgruntled' Romney aides
+8.  8 Media fight on the right over GOP
 9.  9 Bill O'Reilly: 'The white establishment is now the minority'
 10.  10 Rove: Obama won 'by suppressing the vote'
 
@@ -168,61 +168,61 @@ Updated: 11/12/2012 2:16 PM ET
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/12/2012 2:16 PM ET
+Updated: 11/13/2012 8:01 AM ET
 
-1.  1 Ex-CIA head: Timing 'mysterious'
-2.  2 Newt: 'Dumfounded' by election
-3.  3 Grover: Mitt painted as 'poopy head'
-4.  4 King: 'Crisis of major proportions'
-5.  5 Huntsman: Tune out 'pontificators'
-6.  6 The GOP's media cocoon
-7.  7 The Senate's 'Manchurian candidates'
-8.  8 Stop talking and spend time thinking
-9.  9 5 fiscal cliff scenarios
-10.  10 ITI-TechNet merger on thin ice
+1.  1 Petraeus, Broadwell's email secret
+2.  2 Wife runs over non-voting husband
+3.  3 Perry says no to Texas secession
+4.  4 Broadwell's dad: More to come out
+5.  5 Factions fight over wind tax credit
+6.  6 Vitter ready for top GOP panel job
+7.  7 Hurdles Obamacare still must clear
+8.  8 Petraeus is dumb, she's dumber
+9.  9 Welcome to the Rand Paul evolution
+10.  10 Jindal: End 'dumbed-down conservatism'
 
-Updated: 11/12/2012 2:16 PM ET
+Updated: 11/13/2012 8:01 AM ET
 
-1.  1 Ex-CIA head: Timing 'mysterious'
-2.  2 Newt: 'Dumfounded' by election
-3.  3 Grover: Mitt painted as 'poopy head'
-4.  4 King: 'Crisis of major proportions'
-5.  5 Huntsman: Tune out 'pontificators'
-6.  6 The GOP's media cocoon
-7.  7 The Senate's 'Manchurian candidates'
-8.  8 Stop talking and spend time thinking
-9.  9 5 fiscal cliff scenarios
-10.  10 ITI-TechNet merger on thin ice
+1.  1 Petraeus, Broadwell's email secret
+2.  2 Wife runs over non-voting husband
+3.  3 Perry says no to Texas secession
+4.  4 Broadwell's dad: More to come out
+5.  5 Factions fight over wind tax credit
+6.  6 Vitter ready for top GOP panel job
+7.  7 Hurdles Obamacare still must clear
+8.  8 Petraeus is dumb, she's dumber
+9.  9 Welcome to the Rand Paul evolution
+10.  10 Jindal: End 'dumbed-down conservatism'
 
-Updated: 11/12/2012 2:16 PM ET
+Updated: 11/13/2012 8:01 AM ET
 
-1.  1 Ex-CIA head: Timing 'mysterious'
-2.  2 Newt: 'Dumfounded' by election
-3.  3 Grover: Mitt painted as 'poopy head'
-4.  4 King: 'Crisis of major proportions'
-5.  5 Huntsman: Tune out 'pontificators'
-6.  6 The GOP's media cocoon
-7.  7 The Senate's 'Manchurian candidates'
-8.  8 Stop talking and spend time thinking
-9.  9 5 fiscal cliff scenarios
-10.  10 ITI-TechNet merger on thin ice
+1.  1 Petraeus, Broadwell's email secret
+2.  2 Wife runs over non-voting husband
+3.  3 Perry says no to Texas secession
+4.  4 Broadwell's dad: More to come out
+5.  5 Factions fight over wind tax credit
+6.  6 Vitter ready for top GOP panel job
+7.  7 Hurdles Obamacare still must clear
+8.  8 Petraeus is dumb, she's dumber
+9.  9 Welcome to the Rand Paul evolution
+10.  10 Jindal: End 'dumbed-down conservatism'
 
-Updated: 11/12/2012 2:16 PM ET
+Updated: 11/13/2012 8:01 AM ET
 
-1.  1 Ex-CIA head: Timing 'mysterious'
-2.  2 Newt: 'Dumfounded' by election
-3.  3 Grover: Mitt painted as 'poopy head'
-4.  4 King: 'Crisis of major proportions'
-5.  5 Huntsman: Tune out 'pontificators'
-6.  6 The GOP's media cocoon
-7.  7 The Senate's 'Manchurian candidates'
-8.  8 Stop talking and spend time thinking
-9.  9 5 fiscal cliff scenarios
-10.  10 ITI-TechNet merger on thin ice
+1.  1 Petraeus, Broadwell's email secret
+2.  2 Wife runs over non-voting husband
+3.  3 Perry says no to Texas secession
+4.  4 Broadwell's dad: More to come out
+5.  5 Factions fight over wind tax credit
+6.  6 Vitter ready for top GOP panel job
+7.  7 Hurdles Obamacare still must clear
+8.  8 Petraeus is dumb, she's dumber
+9.  9 Welcome to the Rand Paul evolution
+10.  10 Jindal: End 'dumbed-down conservatism'
 
 Showing Last 7 Days
 
-Updated: 11/12/2012 2:16 PM ET
+Updated: 11/13/2012 8:01 AM ET
 
 1.  1 The GOP's media cocoon
 2.  2 Media fight on the right over GOP
