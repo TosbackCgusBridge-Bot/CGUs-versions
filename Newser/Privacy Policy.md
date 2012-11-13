@@ -2,16 +2,7 @@
 
 *   What's New
 *   Hot Topics
-    *   David Petraeus
-    *   Paula Broadwell
-    *   David Petraeus...
-    *   strange stuff
-    *   entertainment
-    *   FBI
-    *   Hurricane Sandy
-    *   timeless news
-    *   extramarital affair
-    *   CIA
+    
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -119,39 +110,39 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Soccer Mom or Skankzilla: Which is the Real Paula Broadwell?
-*   In Defense of the Electoral College
-*   Why Romney Never Saw It Coming
+*   How Cheap Will Legal Marijuana Be in Colorado and...
+*   Beating Back the War on Judges
+*   The Negroni
 
 More from Slate »
 
-*   Man Crashes Car Into House And Asks Owners, 'You Want Some...
-*   Priest Allegedly Bites Off Ear Of Other Priest
-*   Man Steals Chinese Food Delivery Car, Keeps Making...
+*   Russians, Ukranians Dominate World Pole Dancing Championship
+*   LOOK: Cleaner Says Virgin Mary Appears On Hospital Window
+*   Teen On Cellphone Steps In Rattlesnake Nest
 
 More from HuffPost Weird »
 
-*   That’s A Lot Of Look: Heidi Klum’s Laced-Up And Cut Out
-*   Vivienne Westwood Not A Feminist, Says Women In “The...
-*   The Dumbest People To Have An Affair With
+*   The 13 Weirdest SubReddits On Reddit
+*   Lindsay Lohan Snubs Barbara Walters For Jay Leno
+*   Newlyweds Justin Timberlake &. Jessica Biel Volunteer With...
 
 More from The Frisky »
 
-*   For the second time in 24 hours, the Israeli military has...
-*   Evidence mounting that Benghazi U.S. consulate was attacked...
-*   Dude, growing weed in a college bio lab is a really bad...
+*   Young woman whose parents were killed by Hurricane Sandy...
+*   Top eight reasons to never do housework again. 9) You're...
+*   So, you think you want to be a prostitute. Well, honey,...
 
 More from Fark »
 
-*   The David Petraeus scandal: 3 conspiracy theories
-*   Did the media fall for David Petraeus' hype?
-*   Obama's second term: The case for new climate change laws
+*   The David Petraeus affair: A comprehensive timeline
+*   It's time for the GOP to cut a deal on immigration
+*   Petraeus: The serious, unanswered questions
 
 More from The Week »
 
-*   David Petraeus’s Patriotic Friend Will Help the Nation...
-*   The Gay Sex Addict Trying to Resist His Urges in London
-*   The Absolute Moron’s Guide to the Fiscal Cliff
+*   John Kerry Is Losing His Campaign to Be Secretary of State
+*   New York’s Power Is Mostly Fixed, Except Where It Isn’t
+*   Today Producer Behind Firing of Ann Curry Is Getting the...
 
 More from Daily Intel »
 
@@ -161,21 +152,21 @@ More from Daily Intel »
 
 More from HuffPost Health »
 
-*   'The Voice' Mentor Cee Lo Green Rents on Hollywood's Sunset...
-*   Justin Bieber on Selena Gomez Split: 'I Don't Know What's...
-*   Jennifer Aniston’s Fiance Justin Theroux Gets 'Friends'...
+*   ‘Breaking Dawn -- Part 2’ Premiere: Join Celebuzz for Live...
+*   ‘Twilight Saga: Breaking Dawn – Part 2′: Robert Pattinson...
+*   'Twilight Saga: Breaking Dawn – Part 2': Kristen Stewart...
 
 More from Celebuzz »
 
-*   5 Awesome Tablet Tricks That Will Make Moms' Lives WAY...
-*   '50 Shades of Grey' Drives Woman to Divorce Husband Because...
-*   Latest 'Walking Dead' Plot Twist Has Us Preparing for the...
+*   Woman Allegedly Runs Over Husband for 'Helping' to Re-Elect...
+*   'Breaking Dawn 2' L.A. Premiere: 5 Most SHOCKING Quotes!...
+*   'Real Housewives of Beverly Hills' Recap: Taylor Armstrong...
 
 More from The Stir »
 
-*   Ad of the Day: Apple
-*   Romney/Ryan Face Tattoo Looking Less Awesome in Retrospect
-*   Outdoor Faucet Penises Promote Drag-Themed Play in Denver
+*   The Spot: FedEx's Package Deal
+*   Small Roberts + Langer Packs A Big Punch
+*   Putting Brands In Their Place
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
