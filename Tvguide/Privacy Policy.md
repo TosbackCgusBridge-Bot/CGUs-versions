@@ -71,13 +71,13 @@ Sign In Sign Out New User Sign Up Profile Management
 
 What's Hot
 
-NFL Schedule
+_Vampire Diaries_ Sexy Smackdown
 
-Bieber's Next Girlfriend
+Elmo Puppeteer Allegations
 
-Who Are the Sexiest Soap Stars? Vote!
+Sweeps Roundup
 
-Shocking Celeb Breakups
+Sexiest Soap Star? Vote!
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -138,10 +138,10 @@ more popular celebrities Most Popular Movies
 more popular movies Top Videos
 
 1.  The Vampire Diaries
-2.  The Vampire Diaries
-3.  Arrow
-4.  The Vampire Diaries
-5.  Fringe: How Will the Team Deal...
+2.  Arrow
+3.  The Vampire Diaries
+4.  Fringe: How Will the Team Deal...
+5.  The Vampire Diaries
 
 more top videos
 
