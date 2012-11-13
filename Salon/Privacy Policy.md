@@ -8,12 +8,12 @@ Register Sign in Welcome, Logout
         *   2012 Elections
         *   Fiscal cliff
         *   From the Wires
-        *   David Petraeus
-        *   CIA
         *   Mitt Romney
         *   Republican Party
+        *   David Petraeus
         *   Republicans
         *   Books
+        *   FBI
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -194,29 +194,29 @@ About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service 
 
 Take Salon on the go – download our free app now
 
-Current Stories 220 marijuana cases already dismissed in legalized Washington
+Current Stories Oxford American Dictionary names "GIF" word of the year
 
-News. "There's no point continuing to seek criminal penalties," said prosecutor
+News. "GIF" as a verb "has evolved ... into a tool with serious applications"
 
-Sotomayor gives Sesame Street some career advice
+New group: America's youth cry out for sensible, moderate deficit reduction
 
-Politics. The Supreme Court Justice breaks the bad news that "princess" is not a viable profession
+Politics. Pete Peterson's hip new front group pretends the youth believe in austerity -- and lower taxes for the rich
 
-Your breakup is boring
+In defense of Taylor Swift
 
-Entertainment. David Foster Wallace was inspired to write about a breakup. So are a lot of memoirists. It's not always worth it
+Entertainment. A master of quirky pop sincerity, she wouldn't be as ridiculed — or as successful — if she were a guy
 
-Salman Rushdie and John le Carré reconcile after 15 year feud
+Psychic change or con job?
 
-Life. The British writers regret their verbal battle, which began in 1997
+Life. I left an abusive husband. Now he's acting like a new man -- or is he just trying to win me back?
 
 Most Read
 
 *   5 newscasters who humiliated themselves on-air Bryan Le, The Fix
-*   "The Walking Dead" has become a white patriarchy Lorraine Berry
-*   America: Love it or be left behind Joan Walsh
-*   Hey, liberals: You haven't won the culture war Andrew O'Hehir
-*   Is Taylor Swift being taken too seriously? Mark Guarino
+*   Bush adviser threatens to cut out Republicans' tongues Jillian Rayfield
+*   Hello, Mr. President? It's me, Roger Ebert Roger Ebert
+*   How Bill Kristol could split the GOP in two Steve Kornacki
+*   Elmo voice actor accused of having sex with teenage boy Prachi Gupta
 
 Voices
 
