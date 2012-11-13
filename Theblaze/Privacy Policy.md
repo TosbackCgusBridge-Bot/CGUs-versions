@@ -32,9 +32,9 @@ Sign In Sign Up
 
 Take Action
 
-Check Out the Hot Posts on TheBlaze Blog!
+New Shock: Another Top U.S. General Investigated for ‘Inappropriate’ Emails to Petraeus Friend
 
-Live BlazeCast at 1pm ET: Do You Buy the Petraeus Timeline?
+New Shock: Another Top U.S. General Investigated for ‘Inappropriate’ Emails to Petraeus Friend
 
 About TheBlaze
 
