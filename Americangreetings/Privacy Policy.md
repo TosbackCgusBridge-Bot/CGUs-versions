@@ -33,7 +33,6 @@ become a fan AG twitters!
     Innovative ecards to send, share or post
     
     *   **Holidays**
-    *   veterans day
     *   diwali
     *   thanksgiving
     *   hanukkah
@@ -68,7 +67,6 @@ become a fan AG twitters!
     Create and print cards from your home computer.
     
     *   **Holiday**
-    *   veterans day
     *   thanksgiving
     *   hanukkah
     *   christmas
