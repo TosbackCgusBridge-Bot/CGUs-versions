@@ -1,6 +1,6 @@
 Play Games at Miniclip.com Empire A new kingdom awaits! Join a faction  
-Fight for the crown! Dino Strike Your daily challenge Rescue 10 bionic dinos  
-Dino Strike Bullfrog Poker Texas Hold’em! Show your poker face  
+Fight for the crown! Ninja Painter Your daily challenge Score 45,000 points  
+Ninja Painter Bullfrog Poker Texas Hold’em! Show your poker face  
 Go all-in! New games! Hit the homepage  
 Great new games out now My Miniclip Credits
 
@@ -35,7 +35,7 @@ More Languages ›
 *   Pool
 *   Sports
 *   Multiplayer
-*   Holiday
+*   Holidays
 *   Puzzle
 *   iPhone
 *   Sketch Star
@@ -76,7 +76,7 @@ Game Categories
 *   Golf
 *   Halloween
 *   Hidden Object
-*   Holiday
+*   Holidays
 *   Hot Games
 *   iPhone
 *   Kids
@@ -139,9 +139,10 @@ More Cool Stuff
 *   Sketch Star
 
 *   Miniclip Blog
+*   Video Tips and Tricks
 *   Help
 *   Internet Safety
-*   Newsletter
+*   Privacy Policy
 
 Connect With Miniclip
 
@@ -225,6 +226,7 @@ Click Here! Click Here!
 *   Careers
 *   Miniclip Blog
 *   Help
+*   Internet Safety
 
 *   Follow Miniclip
 *   Facebook
@@ -237,8 +239,10 @@ Click Here! Click Here!
 *   Gamebar
 *   Newsletter
 *   RSS Game Feed
+*   Video Tips and Tricks
+*   Newsletter
+*   RSS Game Feed
 *   Sitemap
-*   Internet Safety
 
 *   In Your Language
 *   Español
@@ -250,7 +254,7 @@ Click Here! Click Here!
 
 © 2001 - 2012 Miniclip SA
 
-Terms and Conditions Privacy Policy Cookies
+Terms and Conditions **PRIVACY POLICY** Cookies
 
 No Account? Sign Up Now! LOG IN Email Address Password
 
