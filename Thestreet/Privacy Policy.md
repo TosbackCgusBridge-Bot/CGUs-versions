@@ -87,16 +87,16 @@ A NOTE FROM DAVID PELTIER
 
 *   HOT TOPICS:
 *   Grave Apple Worries
-*   GSE Reform
 *   Leucadia-Jefferies
 *   Zurich Webinar
-*   Color TI-84
-*   Kass
+*   130 Proof Beer
 *   Windows 8
 *   iPhone 5S
 *   Marissa Mayer
+*   Google $199 Laptop
+*   Kass
 
-pjava07.dc.thestreet.com Privacy Policy
+pjava06.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -251,15 +251,15 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 12,829.98 14.59 0.11% NASDAQ 2,912.06 7.19 0.25% S&P 500 1,383.57 3.72 0.27% US 10 Yr 1.611% -0.002 Brokerage Partners Most Commented
+DOW 12,815.16 -0.23 0.00% NASDAQ 2,904.26 -0.61 -0.02% S&P 500 1,380.00 0.15 0.01% US 10 Yr 1.611% -0.002 Brokerage Partners Most Commented
 
 *   Tesla Motors Pollutes Today for a Greener Tomorrow
-*   TheStreet Predicts Obama Will Win the 2012 Election
 *   10 Worst Cars of All Time
-*   Solar Panels Don't Work!
+*   Gutless Microsoft: Set to Sell Out to Apple
+*   It's Not Apple, It's The 'Fiscal Cliff,' Stupid
 *   Obama Defeats Romney: 2012 Election Night Blog Recap
 
-Articles From Newser Spain Temporarily Halts Evictions for 'Most Vulnerable' Greek Parliament OKs Austerity Budget To Dodge Ticket Tax, Theater Sells Admission Carrots See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Huge Shakeup: Windows Chief Leaving Microsoft Pepsi's Latest: Fat-Blocking Soda OK, Obama, Now Can We Get Tough on Wall Street? See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
