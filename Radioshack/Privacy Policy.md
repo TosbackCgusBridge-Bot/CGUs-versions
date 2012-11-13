@@ -120,7 +120,7 @@ Safety, Security &. Privacy
   MasterCard SecureCode  
   
   
-Effective Date: 1/12/04 - Current as of: 11/12/12 2:48:21 PM  
+Effective Date: 1/12/04 - Current as of: 11/13/12 8:11:04 AM  
   
 
 **Online Privacy Policy**
