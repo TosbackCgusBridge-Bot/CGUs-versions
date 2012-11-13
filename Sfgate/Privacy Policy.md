@@ -1,6 +1,6 @@
 (skip this header)
 
-Monday Nov 12, 2012 11:42 AM PT
+Tuesday Nov 13, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,16 +60,16 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Coolest Guy in the World nominees
-*   Open, closed for Veterans Day
-*   Tourist Trapped: City Target
-*   'V' is for victory
-*   Weak service at The Thomas
+*   Coolest Guy in the World noms
+*   Elmo puppeteer allegations
+*   'Tourist Trapped': City Target
+*   Another nude-in set
+*   Baldwin stalker’s tweet
 
 *   Bay Area &. State
 *   Nation
 *   World
-*   Elections 2012
+*   Politics
 *   Crime
 *   Tech
 *   Obituaries
@@ -339,9 +339,22 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
-*   The Thomas
-*   Patriotic Homes
+*   San Francisco Foreclosures
+*   Flashback! Last Week's Concerts 11/12/12
+*   Stanford pulls away from Fullerton
+*   Nation in Focus
+*   World in Focus
+*   The strangest baby shower cakes ever
+*   Nation in Focus
+*   Sandy-NYC
+*   Victoria's Secret Fashion Show 2012
 *   Week 10: 49ers vs. Rams
+*   Ridiculous excuses for calling in sick
+*   Selena Gomez &. Justin Bieber
+*   The Thomas
+*   Day in Pictures, Nov. 12, 2012
+*   Patriotic Homes
+*   Cool Hall of Fame
 *   MTV EMAs 2012: Red carpet
 *   MTV EMAs 2012: Show moments
 *   The worst athlete-turned-musician songs of all time
@@ -365,19 +378,6 @@ Ads by Yahoo! Photo Galleries
 *   China Prepares for New Leadership
 *   Day in Pictures, Nov. 9, 2012
 *   Favorite dishes 11/9/2012
-*   Homes on the market in Atherton and Ross
-*   Celebrity offspring
-*   Tree rings to help date old Presidio fort
-*   Earthquake wreaks havoc in Guatemala
-*   Nation in Focus
-*   World in Focus
-*   Joe Biden
-*   Mitt Romney and the Secret Service
-*   Narcisco Rodriguez Collection
-*   Day in Pictures, Nov. 8, 2012
-*   2012 BAFTA/LA Britannia Awards
-*   Black Friday craziness
-*   Sierra snow watch, Nov. 8
 
 *   Most Read
 *   |
@@ -385,55 +385,52 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Congress wants answers on Petraeus affair
-2.  Bay Bridge crews resolve last uncertainty
-3.  What happens next for Alex Smith
-4.  Elmo puppeteer accused of underage relationship
-5.  Calif. snowpack outlook grim for water
-6.  Can rude service become a virtue?
-7.  Alex Smith's concussion hurts 49ers
+1.  General investigated for emails to Petraeus friend
+2.  Murder-suicide eyed in deaths of 5 in Ohio garage
+3.  Jeremy Affeldt to re-sign with Giants
+4.  Karlie Kloss’ appearance pulled from Victoria’s Secret Fashion Show
+5.  Software pioneer sought in Belize slaying
+6.  Oxford chooses 'omnishambles' as word of the year
+7.  49ers' Kaepernick is loaded for Bears
 
-1.  GOP's state losses hint at national fate
-2.  Congress wants answers from FBI, CIA on Petraeus
-3.  49ers, Rams tie. Alex Smith hurt
-4.  Vvaried rules for overweight air travelers
-5.  Next up for Jerry Brown - Prop. 13
-6.  Family violence reports in S.F. soaring
-7.  California Democratic leaders rile allies
+1.  Warming study forsees state water shortage
+2.  Friend: Petraeus began affair after taking CIA job
+3.  California left behind on pot, marriage
+4.  Congress wants answers from FBI, CIA on Petraeus
+5.  Elmo puppeteer accused of underage relationship
+6.  GOP's state losses hint at national fate
+7.  49ers, Rams tie. Alex Smith hurt
 
-1.  Nontraditional traditional Thanksgiving
-2.  Fetch an education at canine college
-3.  Precious days with Buddy
-4.  Drug court: Addicts kick habit, charges
-5.  Cowgirl Creamery's founders blend traits
-6.  Calif. snowpack outlook grim for water
-7.  Elmo puppeteer accused of underage relationship
+1.  Software pioneer sought in Belize slaying
+2.  Oxford chooses 'omnishambles' as word of the year
+3.  Family violence reports in S.F. soaring
+4.  Take it easy on Thanksgiving with takeout
+5.  Oxford chooses 'omnishambles' as word of the year
+6.  China seeks to stem environmental protests
+7.  New iPhone 5 News, Updates and Apps Reported at NewiPhone5News.com
 
 loading... Latest News Videos From our homepage
 
 *     
-    ISAF / AP
+    Chris O'Meara / AP
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 10:41 a.m., Monday, November 12, 2012 Blindsided by the scandal
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 3:40 a.m., Tuesday, November 13, 2012 Petraeus scandal widens
     
-    Rep. says way the story of Petraeus' romance with biographer came out 'doesn't add up.'
+    Pentagon investigates Gen. John Allen for contact with Jill Kelley.
     
+*   House leader informed Oct. 27
 
 *     
-    Craig Lee, Special To The Chronicle / SF
+    Courtesy Of 7 Belize News / SF
     
-    Twists to your Thanksgiving
+    McAfee sought in slaying
     
-    These nontraditional recipes will spice up your Turkey Day feast.
+    Belizean cops searching for the software pioneer in the fatal shooting of an American.
     
-*   Cooking the perfect turkey
 
-*     
-    YouTube / SF
+*   Victoria's Secret pulls outfit
     
-    Singing their jocks off, badly
-    
-    Hear the worst athlete songs ever from rappin' Kobe to crooning Pacquiao to guys who 'Ram it.'
+    Broadcast of annual fashion show edited after criticism of 'Thanksgiving' getup. Photos
     
 
 *   Home
