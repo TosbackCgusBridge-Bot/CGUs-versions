@@ -12,15 +12,15 @@ Sign In
 
 China
 
-Changing of the Guard: Hu Jintao's Military Role in China Unce...
+China Banker Sees Lower Bar for Yuan Globalization
 
-Mitt Romney
+Iran
 
-Norquist Says Obama Portrayed Romney as a a Poopy-Heada
+Iran says it has tested new air defense system during drill in...
 
 Politix
 
-How should Obama and Congress steer us away from the fiscal cl...
+Should Obama pursue compromise or fight for a progressive agenda?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 104,467 • Total comments across all topics: 190,905,601
+Comments made yesterday: 107,113 • Total comments across all topics: 190,973,978
 
 Copyright ©2012 Topix LLC
 
