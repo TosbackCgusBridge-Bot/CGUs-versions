@@ -1,10 +1,9 @@
 Sign in | Join Now Hi, User! Edit Profile | Sign Out Want more iVillage? Sign up for our Newsletters iVillage
 
-*   HOLIDAILY
+*   TWILIGHT FOREVER
 *   Challenges
 *   Videos
 *   Free Stuff
-*   iVote
 
 Search iVillage.com Search
 
@@ -312,7 +311,7 @@ Search iVillage.com Search
     *   En Español
 *   Food
     *   Recipes
-        *   *   Thanksgiving Recipes
+        *   *   Thanksgiving 2012
             *   The Creative Kitchen
             *   Holiday Party Throwing
     *   Table Talk
@@ -503,12 +502,12 @@ Would you like to receive special offers, promotions, coupons, and free samples 
 
 See All Newsletters   best of video village
 
-*   Entertainment iVillage 5 Four More Years for Obama? Maybe Three for Malia!
-*   Entertainment Kitchen Confessions Leighton Meester's Go-to Breakfast: Avocado and Red Pepper Flakes!
-*   Entertainment Featured Michelle Obama's Me Time: The Remote All to Herself!
-*   Beauty DIY Beautify Kelly Bensimon Picks the Best Party Look
-*   Homeandgarden My Best Idea Too Cute! Plate + Marker + Oven = Instant Gift
+*   Entertainment Celebrity Spotlight Taylor Lautner on His Amazing Abs: "I Can't Help It!"
+*   Entertainment Kitchen Confessions Water and... Ice Cream? Leighton Meester Reveals Her Beauty Secrets
 *   Food Featured (Food) How to Truss a Turkey
+*   Entertainment Celebrity Spotlight Kristen Stewart: "I Kinda Can't Wait" to Be a Mom
+*   Entertainment 5min Media Elmo Puppeteer Leaves 'Sesame Street' in Wake of Underage Sex Allegations
+*   Beauty My Best Idea Quick Tips for Getting Party Pretty in a Pinch
 
   
   
