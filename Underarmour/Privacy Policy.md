@@ -1,3 +1,5 @@
+World's largest selection of UA gear. Free Standard Shipping. All orders. No Minimum.
+
 *   1.888.727.6687
 *   Customer Service
 *    US (change) 
@@ -16,7 +18,7 @@ SUBTOTAL 
 
 $0.00
 
-ADD $49.00 FOR FREE SHIPPING
+Free Shipping — All orders. No minimum.
 
 VIEW CART &. CHECKOUT
 
@@ -92,7 +94,7 @@ VIEW CART &. CHECKOUT
     *   Regular
     *   Loose
     *   Fit Guide ►
-    *   Shop All Men's ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
+    *   Shop All Men's ►FREE Standard Shipping. All Orders. No Minimum.
 *   Women
     
     *   Shirts &. Tops
@@ -159,7 +161,7 @@ VIEW CART &. CHECKOUT
     *   Semi-Fitted
     *   Loose
     *   Fit Guide ►
-    *   Shop All Women's ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
+    *   Shop All Women's ►FREE Standard Shipping. All Orders. No Minimum.
 *   Youth
     
     *   Boys  
@@ -215,7 +217,7 @@ VIEW CART &. CHECKOUT
     *   HeatGear®
     *   ColdGear®
     *   Youth Movement
-    *   All Girls►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
+    *   All Girls►FREE Standard Shipping. All Orders. No Minimum.
 *   Footwear
     
     *   Men's  
@@ -252,8 +254,7 @@ VIEW CART &. CHECKOUT
     *   Running &. Training
     *   Slides &. Sandals
     *   Socks
-    *   All Girls' Footwear ►FREE STANDARD SHIPPING ON ALL ORDERS OVER $49.00. NO CODE. NO SWEAT.
-
+    *   All Girls' Footwear ►FREE Standard Shipping. All Orders. No Minimum.
 *   Accessories
     *   Bags &. Backpacks
     *   Socks
@@ -264,6 +265,7 @@ VIEW CART &. CHECKOUT
     *   Protective Gear
     *   Equipment
     *   All Accessories►
+
 *   Outlet
     *   Men's
     *   Women's
@@ -280,9 +282,7 @@ VIEW CART &. CHECKOUT
     *   Youth Movement
     *   Tough Mudder
 
-Free shipping  
-on all orders over $49 no code  
-no sweat email my cart page successemail my cart pageshare page successshare pagechange passwordreset passwordregister-completeforgot-password home / customer-service / security-and-privacy-policy SECURITY &. PRIVACY WHEN WAS THIS PRIVACY STATEMENT LAST UPDATED? Last revised: October 19, 2012 WHAT IS YOUR PRIVACY STATEMENT? **PRIVACY STATEMENT:**  
+email my cart page successemail my cart pageshare page successshare pagechange passwordreset passwordregister-completeforgot-password home / customer-service / security-and-privacy-policy SECURITY &. PRIVACY WHEN WAS THIS PRIVACY STATEMENT LAST UPDATED? Last revised: October 19, 2012 WHAT IS YOUR PRIVACY STATEMENT? **PRIVACY STATEMENT:**  
   
 **Notice To California Residents – Your California Privacy Rights:**  
   
