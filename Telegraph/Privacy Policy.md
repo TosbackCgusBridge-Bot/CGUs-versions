@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Monday 12 November 2012
+Tuesday 13 November 2012
 
 *   Home
 *   News
@@ -142,23 +142,15 @@ For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-  'For me, earnestness is the greatest crime'
+Positive leadership key to an England win  
 
-Artist and potter Grayson Perry – a national treasure in the making – talks to **James Walton** about class, frocks and Damien Hirst
+**Shane Warne** suggests a five-point plan to help England win in India.
 
-Comments
-
-Jeanette Winterson: The Moomins and me Michael McIntyre: 'Maybe people just can’t cope with how jovial I am' Using Facebook to protect your child Farewell to our warrior nation Advertisement
+T S Eliot's widow was the last of her kind Amazon's Xmas warehouse: sneak peek Window on Fortnum &. Mason's world 'For me, earnestness is the greatest crime' Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
 FREE PRIZE DRAW TO WIN £1,000   Share with us your favourite place in the world and win £1,000 View Telegraph for iPad free trial   Try The Telegraph for iPad free for 30 days View DUNHILL TRAVEL DEALS   Most competitive travel deals and vacation packages View US Election   Obama re-elected as US president View
-
-Latest
-
-Culture »
-
-  View   View   View   View   View   View
 
 Back to top
 
