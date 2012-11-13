@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Democrats lead in five uncalled...**  
-        Election 2012 | Rachel Weiner
+    *   **Paul Ryan: We didnt lose on Medicare**  
+        Election 2012 | Felicia Sonmez
     
-    *   **Would a tax hike kill 700,000 jobs?**  
+    *   **Would a ‘chained’ inflation index...**  
         The Fact Checker | Glenn Kessler
     
     *   **Sesame Street loses a little magic...**  
         She The People | Suzi Parker
     
-    *   **Why Angus King will caucus with...**  
-        The Fix | Sean Sullivan
+    *   **How the Republican party can rebuild...**  
+        The Fix | Chris Cillizza and Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **Petraeus solution: End sex**  
+    *   **Abandon penmanship!**  
         ComPost | Alexandra Petri
     
-    *   **The bargain needed for tax reform...**  
+    *   **Happy Hour Roundup**  
         The Plum Line | Jonathan Bernstein
     
-    *   **The real story about polling uncertainty**  
-        PostPartisan | Jonathan Bernstein
+    *   **PostScript: Samuelson and the welfare...**  
+        PostPartisan | Rachel Manteuffel
     
-    *   **Petraeus’s bizarre resignation**  
+    *   **Morning Bits**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,14 +72,14 @@
     
     Blogs &. Columns
     
-    *   **Venice flooding swamps 70 percent...**  
-        Capital Weather Gang | Jason Samenow
+    *   **Forecast: AM showers and much cooler...**  
+        Capital Weather Gang | Matt Rogers
     
-    *   **This thing you should try: a 60-something...**  
-        Going Out Gurus | Alex Baldinger
+    *   **Nightlife Agenda: Beaujolais Nouveau...**  
+        Going Out Gurus | Fritz Hahn
     
-    *   **Sunday brawl at Md. flea market**  
-        Crime Scene | the Associated Press
+    *   **Overnight stabbings, shooting in...**  
+        Crime Scene | Maggie Fazeli Fard
     
     *   **Norton, city leaders want D.C....**  
         D.C. Wire | Nikita Stewart
@@ -97,17 +97,17 @@
     
     Blogs &. Columns
     
-    *   **Oates enjoying induction weekend**  
+    *   **Adam Oatess Hall of Fame speech**  
         Capitals Insider | Katie Carrera
     
-    *   **Kyle Shanahan on list of Eagles...**  
+    *   **Nats license plates coming to D...**  
         DC Sports Bog | Sarah Kogod
     
-    *   **Struggling Redskins get back to...**  
-        The Insider | Mike Jones
+    *   **Are Redskins licking their chops...**  
+        The Insider | Keith McMillan
     
-    *   **Bryce Harper vies for rookie of...**  
-        Nationals Journal | Adam Kilgore
+    *   **Bryce Harper wins NL Rookie of...**  
+        Nationals Journal | James Wagner
 *   National In National
     
     *   Energy &. Environment
@@ -145,17 +145,17 @@
     
     Blogs &. Columns
     
+    *   **Here’s the e-mail trick Petraeus...**  
+        WorldViews | Max Fisher
+    
+    *   **Petraeus, snagged by online data...**  
+        WorldViews | Max Fisher
+    
     *   **Raw video of Israeli tanks firing...**  
         WorldViews | Max Fisher
     
     *   **Why did Paula Broadwell think the...**  
         WorldViews | Max Fisher
-    
-    *   **One of Chinas most ingenious bribery...**  
-        WorldViews | Max Fisher
-    
-    *   **What the world can learn from Denmark’s...**  
-        WorldViews | Olga Khazan
 *   Business In Business
     
     *   Economy
@@ -179,8 +179,8 @@
     *   **How business can bounce back from...**  
         Steven Pearlstein
     
-    *   **The Queen of Versailles: the best...**  
-        Wonkblog | Ezra Klein
+    *   **Reconciliation**  
+        Wonkblog | Suzy Khimm
 *   Tech In Technology
     
     *   Policy
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **What the Farmland Feast does for...**  
-        All We Can Eat | Bonnie S. Benwick
+    *   **Aaron Franklin’s barbecue tutorial**  
+        All We Can Eat | Jim Shahin
     
     *   **The perils of life without marginalia**  
         The Style Blog | Ron Charles
     
-    *   **Take the kids this weekend: National...**  
-        On Parenting | On Parenting
+    *   **Should parents reward good grades?**  
+        On Parenting | Mari-Jane Williams
     
-    *   **Petraeus: What happens to the Other...**  
+    *   **Mitt Romney’s sister, Jane, finally...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -237,13 +237,13 @@
     
     Blogs &. Columns
     
-    *   **A study in contrasting recitals**  
+    *   **Weekend roundup: Lang Lang and...**  
         Classical Beat | Anne Midgette
     
-    *   **Heidi Klum and her EMA looks**  
+    *   **Preview of Jon Hamm and Daniel...**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **Elmo puppeteer on leave, underage...**  
+    *   **Elmo puppeteer on leave amidst...**  
         The TV Column | Lisa de Moraes
     
     *   **‘Shattered’ Asian stereotypes:**  
@@ -267,10 +267,11 @@
 In the News
 
 *   David Petraeus
-*   BBC scandal
-*   Lance Armstrong
+*   John R. Allen
 *   iPhone 5S
-*   NASCAR brawl
+*   Bryce Harper
+*   Elmo
+*   Diwali
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -321,88 +322,88 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-GOP’s Red America forced to rethink what it knows about the country
+Scandal probe ensnares commander of U.S., NATO troops in Afghanistan
 
-Eli Saslow 
+Craig Whitlock 
 
-‘White guys’ voted for Obama, too
+Petraeus investigation ensnares commander of U.S., NATO troops in Afghanistan
 
-Jonathan Capehart 
+Craig Whitlock 
 
-Former aides wonder: Did Petraeus stumble in unfamiliar terrain?
-
-Greg Jaffe 
-
-Apple starting production on iPhone 5S, report says
-
-Hayley Tsukayama 
-
-The Republican Party’s electoral map problem
-
-Chris Cillizza 
-
-In Petraeus downfall, hubris meets high tech
-
-Ruth Marcus 
-
-Lawmakers want probe of Petraeus investigation
+Obama considering John Kerry for job of defense secretary
 
 Karen DeYoung 
 
-President Obama and the white vote? No problem. It’s the welfare state, stupid
+Here's the e-mail trick Petraeus and Broadwell used to communicate Petraeus ghostwriter ‘clueless’ to affair
 
-Robert J. Samuelson 
+Vernon Loeb 
 
-Justin Bieber may not be done with Selena Gomez. ‘Skyfall’ opens big at the box office
+Secession petitions filed on White House website Petraeus hoped affair would stay secret and he could keep his job as CIA director
 
-Jen Chaney 
+Sari Horwitz 
 
-Obama's Cabinet: Who's in, who's out? With Paula Broadwell, Gen. David Petraeus let his guard down
+A spy tale with missing pieces
+
+Eugene Robinson 
+
+Democrat Kyrsten Sinema beats GOP’s Vernon Parker in Arizona’s 9th Congressional District
+
+Associated Press 
+
+The Romney lesson
+
+Charles Lane 
+
+Pelosi considers stepping down as House Democratic leader
+
+Paul Kane 
+
+Liberal groups mobilize for ‘fiscal cliff’ fight over Social Security, Medicare
+
+Zachary A. Goldfarb 
+
+Get Petraeus back to work
+
+Richard Cohen 
+
+5 things (other than the fiscal cliff) to watch during the lame-duck David Petraeus’s affair has damaged the nation
+
+Editorial Board 
+
+Carolyn Hax: Bailing out of a vacation, and losing a friend
+
+Carolyn Hax 
+
+With Paula Broadwell, Gen. David Petraeus let his guard down
 
 Joby Warrick 
 
-Obama shouldn’t back down
+Venice flooding swamps 70 percent of city
 
-E.J. Dionne Jr. 
+Jason Samenow 
 
-Gen. Petraeus’s affair tarnishes seemingly idyllic marriage
-
-Ian Shapira 
-
-NASCAR brawl overshadows Sprint Cup race Return of the ‘nuclear option’
-
-Jamelle Bouie 
-
-Lance Armstrong cuts ties to Livestrong, stepping down from board Why is the GOP overwhelmingly white?
-
-Courtland Milloy 
-
-The GOP is no party for blacks, Latinos and gays
-
-Jonathan Capehart 
-
-Secession petitions filed on White House website
+Petraeus, snagged by online data trail, lived much of his life on e-mail Petraeus resignation: Who is Paula Broadwell?
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  GOP's Red America forced to rethink what it knows about the country
-    2.  'White guys' voted for Obama, too
-    3.  Former aides wonder: Did Petraeus stumble in unfamiliar terrain?
-    4.  Apple starting production on iPhone 5S, report says
-    5.  The Republican Party's electoral map problem
+    1.  Scandal probe ensnares commander of U.S., NATO troops in Afghanistan
+    2.  Scandal probe ensnares commander of U.S., NATO troops in Afghanistan
+    3.  Obama considering John Kerry for job of defense secretary
+    4.  Here's the e-mail trick Petraeus and Broadwell used to communicate
+    5.  Petraeus ghostwriter 'clueless' to affair
 *   Top Videos
-    1.  Official: Broadwell's harassing e-mails led to FBI probe
-    2.  Emails behind Petraeus resignation: 'Stay away from my guy'
+    1.  Exclusive: Petraeus biography ghostwriter breaks silence
+    2.  Official: Broadwell's harassing e-mails led to FBI probe
     3.  The story behind the Romney loss: Drama, regrets and mistakes
-    4.  Thousands dance 'Gangnam Style' in Rome
-    5.  CIA Director David Petraeus resigns, citing extramarital affair
+    4.  President Obama's full victory speech
+    5.  Elmo puppeteer Kevin Clash accused of underage relationship
 *   Top Galleries
-    1.  Red America
-    2.  Explosion in Indianapolis kills 2
-    3.  The four star movies of 2012
-    4.  Gen. David Petraeus
-    5.  Election Day cartoon caption contest
+    1.  Gen. David Petraeus
+    2.  Flooding engulfs Venice
+    3.  Scandal-plagued politicians: Where are they now?
+    4.  The four star movies of 2012
+    5.  The women of Saudi Arabia
 
 Today's Paper
 
@@ -418,10 +419,7 @@ Live Q&A, noon
 
 Are you having a problem with love, life or in-laws? Ask Prudie.
 
-**12:00 PM** **CANCELED: Dr. Gridlock** **2:00 PM** **CANCELED: Talk about Travel**
-
-*   Earlier Today
-    *   **12:00 PM** **Advice from Slate's 'Dear Prudence'**
+**11:00 AM** **CANCELED: Ask Boswell: Redskins, Caps, Nationals and more** **11:00 AM** **ComPost Live with Alexandra Petri** **12:00 PM** **Tuesdays with Moron: Chatological Humor Update** **1:00 PM** **CANCELED: Eugene Robinson Live**
 
 **Weekly schedule, past shows**
 
