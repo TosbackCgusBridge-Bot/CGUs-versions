@@ -36,7 +36,7 @@ Rolling Stone Skip to the content.
 *   •
 *   RS Soundtrack
 *   •
-*   On The Road
+*   AMAs
 *   •
 *   Y! Music
 
