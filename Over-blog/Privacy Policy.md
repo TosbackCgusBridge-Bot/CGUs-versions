@@ -13,11 +13,11 @@ OverBlog Le portail de tous les blogs Connexion
     *   Littérature
     *   Sport
     *   humour
-    *   art
+    *   Art
     *   Divers
     *   Voyages
     *   Photos
-    *   Santé
+    *   santé
 *   Forums
 
 Créer mon blog
@@ -410,7 +410,7 @@ Rechercher sur OverBlog Annuaire
 *   Bijoux
 *   Manga
 *   Recettes
-*   écriture
+*   Ecriture
 *   Loisirs...
 *   Jeux
 
