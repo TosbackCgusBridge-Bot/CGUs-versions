@@ -61,9 +61,15 @@ Navigation
     *   Espresso Beverages
     *   Frappuccino® Blended Beverages
     
-    **Starbucks® Anniversary Blend**
+    **Verismo® System by Starbucks**
     
-    This bold, spicy and celebratory coffee is back.
+    Make your favorite Starbucks® coffees at home.
+    
+    Learn More
+    
+    Buy Now
+    
+    Support
     
 2.  1.  Drinks
         
@@ -101,9 +107,9 @@ Navigation
     *   Whole Bean Coffees
     *   Starbucks VIA® Instant Coffee
     
-    **Pumpkin Pastries are Back**
+    **Rekindle the season**
     
-    Real Pumpkin folded into a muffin, scone or bread.
+    Your favorite holiday drinks are back.
     
 3.  1.  Entertainment
         
@@ -217,9 +223,9 @@ Navigation
     
     *   Mobile Apps
     
-    **In Honor of Autumn**
+    **The gift everyone wants**
     
-    Add this special Braille Starbucks Card to your collection.
+    A Starbucks Card is always nice.
     
 6.  1.  Buy a Card
         
@@ -278,15 +284,9 @@ Navigation
     *   Food
     *   All Starbucks® Coffees
     
-    **Verismo™ system by Starbucks**
+    **StarbucksStore.com**
     
-    Our lattes.  
-    Our espresso.  
-    Our brewed coffee.
-    
-    Your home.
-    
-    Impossible until now.
+    Holiday gifts for everyone on your list.
     
 
 Privacy Policy
