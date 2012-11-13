@@ -221,8 +221,9 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Sweaters
     *   Skirts
     *   Blazers &. Jackets
+    *   Bras &. Panties
+    *   Sleep &. Loungewear
     *   Swimwear
-    *   Bras, Panties &. PJ's
     *   BP. Basics
     
     *   Shoes
