@@ -1,4 +1,4 @@
-Amazon Join Prime
+Amazon
 
 *   Your Amazon.com
 *   Today's Deals
@@ -142,12 +142,10 @@ Examples of information you can access easily at Amazon.com include up-to-date i
 
 *   Track or Manage Purchases
 *   Manage Payment Options
-*   Return Items
+*   Return or Replace Items
 *   Change Name, E-mail, or Password
 *   Manage Address Book
 *   Manage Your Kindle
-
-Support
 
 *   Kindle Help Forum
 *   General Help Forum
@@ -245,8 +243,6 @@ Kindle Owners' Lending Library
 Borrow from over 180,000 titles for free
 
 \>. Get started
-
-Watch. Read. Shop. Relax. Millions of Amazon Prime members enjoy instant videos, free Kindle books and unlimited free two-day shipping. >. Get started
 
 *   Unlimited Instant Videos
 *   Prime Instant VideosUnlimited streaming of thousands of  
@@ -385,6 +381,7 @@ Watch. Read. Shop. Relax. Millions of Amazon Prime members enjoy instant videos,
 *   Clothing (Kids &. Baby)
 *   Video Games for Kids
 *   Amazon Mom20% off diapers, free shipping and more
+*   Baby Registry
 
 *   Clothing, Shoes &. Jewelry
 *   Clothing
@@ -470,5 +467,3 @@ View Cart (0 items) (0 item) (0 items)
 *   Wish from Any WebsiteAdd items to your List from anywhere
 *   Wedding Registry
 *   Baby Registry
-*   Kids' Birthdays
-*   Friends &. Family Gifting
