@@ -28,7 +28,7 @@ Enter the Fiction Contest (and Win $5K!)
 *   Fashion Videos
 *   Get Fashion Advice
 
-Cute, Cozy Sweaters!
+The Ultimate Girls' Gift Guide
 
 *   Virtual Makeover Tool
 *   Hair Ideas
@@ -104,11 +104,11 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     Holiday Outfits Under $50
 *   love
     
-    Flirty Text Message Ideas!
+    Our Crush of the Week!
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win Demeter Fragrance Library's exotic dragron fruit fragrance. Type in the Freebie Phrase of the Day, found in the November Issue!
+**1 Winner!** Enter for a chance to win Victoria's Secret PINK body mist in Pretty &. Pure. Type in the Freebie Phrase of the Day, found in the November Issue!
 
  enter now 
 
@@ -131,8 +131,8 @@ Most Popular Celebs
 
 *   Demi Lovato
 *   Justin Bieber
-*   Selena Gomez
 *   Miley Cyrus
+*   Selena Gomez
 
 More Celebs
 
