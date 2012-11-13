@@ -655,7 +655,6 @@ Skip Navigation
     *   Top Registry Ideas
 *   Sale Limited Time Offers
     
-    *   Veteran’s Day Sale
     *   Dining Event
     *   Upholstery Event
     *   Free Shipping
