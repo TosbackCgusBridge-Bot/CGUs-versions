@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  Five Facts About Jill Kelley
-2.  The ‘Adventure Junkie’ Husband
-3.  The GOP’s Latino Fallacy
+1.  Paula’s Emails Revealed
+2.  How Romney Killed Reaganomics
+3.  Five Facts About Jill Kelley
 4.  Megyn Kelly Takes Control
-5.  The Dirty Little Secret of 2012
+5.  Five Unsolved Petraeus Mysteries
 
   Other News Entertainment
 
-*   Rob and Kristen's body language lost in translation?
-*   Will They Wed?
-*   Mary-Kate awkwardly cozies up to older beau Olivier Sarkozy
+*   'The Twilight Saga: Breaking Dawn - Part 2' Premiere
+*   Celebs Who Talk Smack
+*   Kristen Stewart and Robert Pattinson's Highs and Lows
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘Saturday Night Live’ best host poll: Anne Hath-a-way about her
-*   Google Doodle celebrates sculptor Auguste Rodin
-*   EW’s Morning Bite: And the best sound bite from last night is…
+*   ‘RuPaul’s All Stars Drag Race’ episode 4: And then there were four
+*   ‘How I Met Your Mother’ recap: Barney has a little speech to share
+*   ‘Bones’: How did the squints handle 9/11?
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Rudy Gay Made LeBron Look Stupid
-*   Watch Romney Fade Away In Real Time
-*   How To Pluck And Cook Doves
+*   Republicans Pan Potential Kerry, Rice Nominations
+*   Soundgarden Return To A World Without Chops
+*   11 Reasons Fantasy Football Is Super Dumb And We Shouldn't Even Bother Anymore
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Why Did Petraeus Resign?
-*   Quote of the Day
-*   10 Things You Didn't Know About Lincoln
+*   Another Four-Star General Caught in Email Scandal
+*   Obama May Tap Kerry as Defense Secretary
+*   Extra Bonus Quote of the Day
 *   **Get More from Political Wire**
 
 The Daily Beast
