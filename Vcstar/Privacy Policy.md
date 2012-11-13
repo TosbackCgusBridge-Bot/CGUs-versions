@@ -382,11 +382,6 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   Today
-    
-    Sunny, windy weather expected |  Monday Surf Report |  10 to know
-    
-
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -636,25 +631,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Ventura County representatives know 'fiscal cliff' is on their agenda Published 11/11/2012 at 4:56 p.m. 46 comments
-*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 135 comments
-*   Will: Conservatives, start all over again Published 11/10/2012 at 8:01 p.m. 44 comments
-*   Job-based health coverage falls on hard times Published 11/10/2012 at 8:42 p.m. 51 comments
-*   Ventura man returns to Japan 70 years after World War II imprisonment Published 11/11/2012 at 5:37 p.m. 12 comments
+*   4 injured in crash on Highway 101 interchange Updated 11/12/2012 at 6:40 p.m.
+*   Ventura County representatives know 'fiscal cliff' is on their agenda Published 11/11/2012 at 4:56 p.m. 71 comments
+*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 148 comments
+*   Kart racing driving Ventura beach residents batty Published 11/12/2012 at 5:14 p.m. 20 comments
+*   Will: Conservatives, start all over again Published 11/10/2012 at 8:01 p.m. 64 comments
 
-Photo Galleries Camarillo vs. Harvard-Westlake Surfers remember Jack Cantrell CLU wins another SCIAC football title
+Photo Galleries Surfers remember Jack Cantrell Camarillo vs. Harvard-Westlake Ojai veterans find help through horse…
 
-*   Morning chat Published 11/9/2012 at 12:00 a.m. 267 comments
-*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 135 comments
-*   Obama's support dropped from '08 in east county cities Published 11/8/2012 at 4:49 p.m. 99 comments
-*   Job-based health coverage falls on hard times Published 11/10/2012 at 8:42 p.m. 51 comments
-*   Obama: 'We have picked ourselves up,' fought back Published 11/6/2012 at 10:08 a.m. 440 comments
+*   Morning chat Updated // at : 276 comments
+*   O'Reilly: Personal note to President Obama Updated // at : 148 comments
+*   Ventura County representatives know 'fiscal cliff' is on their agenda Updated // at : 71 comments
+*   Will: Conservatives, start all over again Updated // at : 64 comments
+*   Job-based health coverage falls on hard times Updated // at : 55 comments
 
-*   Authorities warn of "knock knock" burglaries in east Ventura County Published 11/8/2012 at 12:11 p.m. 0 comments
-*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
-*   18-year-old accused of setting family's basset hound on fire near Camarillo Published 11/9/2012 at 10:13 a.m. 0 comments
-*   Oxnard school principal arrested after alleged road rage incident Published 11/2/2012 at 5:47 p.m. 0 comments
-*   Veterans in Ojai find hope, help through horse therapy Published 11/10/2012 at 9:14 p.m. 5 comments
+*   Authorities warn of "knock knock" burglaries in east Ventura County Updated 11/8/2012 at 2:04 p.m. 0 comments
+*   Shirley: Medical device tax will impact jobs and costs Updated // at : 0 comments
+*   18-year-old accused of setting family's basset hound on fire near Camarillo Updated 11/9/2012 at 11:01 p.m. 0 comments
+*   Veterans in Ojai find hope, help through horse therapy Updated // at : 5 comments
+*   Wal-Mart's new strategies allow access into Ventura County cities Updated // at : 75 comments
 
 Weather
 
@@ -662,25 +657,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 72° Fair Wind: E 18mph Today 71° 50° Tue 12:00 AM Clear Temp: 54° Tue 12:00 PM Sunny Temp: 74° Wed 12:00 AM Mostly Clear Temp: 53°
+Currently 47° Fair Wind: Calm Today 74° 51° Tue 05:00 PM Mostly Clear Temp: 63° Wed 05:00 AM Mostly Clear Temp: 51° Wed 05:00 PM Partly Cloudy Temp: 64°
 
-Feels Like: 54°
+Feels Like: 63°
 
-Humidity: 38%
-
-Precip: 0%
-
-Feels Like: 74°
-
-Humidity: 26%
+Humidity: 39%
 
 Precip: 0%
 
-Feels Like: 53°
+Feels Like: 51°
 
-Humidity: 44%
+Humidity: 50%
 
-Precip: 3%
+Precip: 0%
+
+Feels Like: 64°
+
+Humidity: 50%
+
+Precip: 4%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -726,18 +721,10 @@ More bloggers Wire
 
 Calendar
 
-*   Monday Nov 12
 *   Tuesday Nov 13
 *   Wednesday Nov 14
+*   Thursday Nov 15
 *   More BROWSE Icon
-
-*   United Parents Support Group United Parents Support Group 6 p.m.
-*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
-*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
-*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
-*   Children's Art Classes SCIART Gallery 3:30 p.m.
-
-More Events »
 
 *   You’re Not the Boss of Me! Effective Management of Employees Courtyard by Marriott - Oxnard 7:30 a.m.
 *   CI Announces IGER Advanced Export Workshop on Trade Finance and Insurance CSUCI California State University 9 a.m.
@@ -752,6 +739,14 @@ More Events »
 *   St. Vincent's Annual Fashion Show &. Luncheon (Updated) Villa Caridad Community Room at St. Vincent's (4202 Calle Real, Santa Barbara CA 93110) 10 a.m.
 *   St. Vincent's 4th Annual Fashion Show &. Luncheon Bishop Diego High School Santa Barbara, CA 93110 10:30 a.m.
 *   St. Vincent's 4th Annual Fashion Show &. Luncheon Villa Caridad Community Room at St. Vincent's (4202 Calle Real, Santa Barbara CA 93110) 10:30 a.m.
+
+More Events »
+
+*   CAM Book Club: "A Good Hard Look: A Novel of Flannery O'Connor by Ann Napolitano Carnegie Art Museum 6 p.m.
+*   Senior Concerns Holiday Boutique 80 E. Hillcrest, Thousand Oaks, CA 6 p.m.
+*   Competition, Beauty and Image presents “Miss Representation” California African American Museum 7 p.m.
+*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
 
 More Events »
 
