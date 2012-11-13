@@ -6,7 +6,7 @@ Skip header
 *   Contact us
 *   Find a travel agent
 
-Skip main navigation Main menu Control Time: 7:50:20 PM Skip main navigation
+Skip main navigation Main menu Control Time: 1:13:30 PM Skip main navigation
 
 *   Home1
 *   Find &. book cruises
@@ -22,7 +22,7 @@ Skip main navigation Main menu Control Time: 7:50:20 PM Skip main navigation
         
         Fly and join your ship to explore numerous islands in one holiday
         
-        From **£1,139** per person
+        From **£999** per person
     
     Find &. book your perfect world cruise
     
@@ -358,8 +358,8 @@ This website uses cookies to give you the very best user experience. By using ou
 Server = NTWEB006  
 Country In Session (from GeoIP Sniffer) = UK  
 Show AU Content setting = True  
-X\_Forwarded\_FOR = 86.131.66.149  
+X\_Forwarded\_FOR = 90.215.240.72  
 User IP = 10.35.0.246  
-SessionID = v4qxjoju1kny5k55msxehzz3  
-RenderTime = 00:00:00.0781255  
-Page rendered at 2012-11-12T19:34:27 Back to top of page
+SessionID = vmn2emup5qbbxa45hae2piy3  
+RenderTime = 00:00:00.3750024  
+Page rendered at 2012-11-13T12:33:27 Back to top of page
