@@ -147,21 +147,32 @@ The website is not directed to individuals under the age of thirteen (13), and w
 
 See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
 
-*   Ellie Goulding  
-    Bittersweet Lyrics
-*   Phillip Phillips  
-    Gone, Gone, Gone Lyrics
+*   J. Cole  
+    Miss America Lyrics
+*   Rihanna  
+    Fresh Off The Runway Lyrics
 *   Ludacris  
     Rest Of My Life Lyrics
+*   Justin Bieber  
+    As Long As You Love Me Lyrics
+*   David Guetta  
+    Titanium Lyrics
+
+*   Ellie Goulding  
+    Bittersweet Lyrics
+*   Kendrick Lamar  
+    Poetic Justice Lyrics
+*   Ashlee Simpson  
+    Bat For A Heart Lyrics
 *   Kesha  
     Die Young Lyrics
 *   Adele  
     Someone Like You Lyrics
 
 *   Rihanna  
-    Get It Over With Lyrics
+    Stay Lyrics
 *   Phillip Phillips  
-    Get Up Get Down Lyrics
+    Gone, Gone, Gone Lyrics
 *   Pitbull  
     Party Ain't Over Lyrics
 *   Katy Perry  
@@ -170,30 +181,21 @@ See Top 100 Lyrics | Lyrics These lyrics are so hot right now, they're sizzling!
     Too Close Lyrics
 
 *   Rihanna  
-    Fresh Off The Runway Lyrics
+    Nobody Lyrics
 *   Phillip Phillips  
     Man On The Moon Lyrics
 *   Bruno Mars  
     Locked Out Of Heaven Lyrics
-*   Carly Rae Jepsen  
-    Call Me Maybe Lyrics
+*   Justin Bieber  
+    Beauty And A Beat Lyrics
 
 *   Rihanna  
-    Stay Lyrics
-*   Kendrick Lamar  
-    Poetic Justice Lyrics
+    Get It Over With Lyrics
+*   Phillip Phillips  
+    Get Up Get Down Lyrics
 *   Ed Sheeran  
     A Team Lyrics
-*   Gotye  
-    Somebody That I Used To Know Lyrics
-
-*   Rihanna  
-    Nobody Lyrics
-*   Ashlee Simpson  
-    Bat For A Heart Lyrics
-*   Justin Bieber  
-    As Long As You Love Me Lyrics
-*   David Guetta  
-    Titanium Lyrics
+*   Carly Rae Jepsen  
+    Call Me Maybe Lyrics
 
 Mobile Sitehide Hey, we have a new extension for Chrome: **Lyrics for Youtube!** More info... Install Don't ask again
