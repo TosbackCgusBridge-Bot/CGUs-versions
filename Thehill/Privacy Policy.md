@@ -212,28 +212,28 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-FBI uncovered Petraeus affair by chanceDem Murphy still leads Rep. West after partial recount in House raceGay-rights groups push Obama for executive order on discrimination Rep. West thanks supporters, refuses to concede House defeatBases fret as leaders talk of deals on ‘fiscal cliff,’ immigration reform
+Petition for Texas secession hits White House response markFBI uncovered Petraeus affair by chanceMoody’s predicts Obama will approve Keystone XL pipelineRep. West thanks supporters, refuses to concede House defeatPelosi to stay mum on her plans for the 113th Congress until Wednesday
 
 Emailed
 
-Investors fear the fallout from electionNorquist OK with Boehner tax stanceOpinion: California leading the way to a more functional CongressInterior proposal would limit commercial oil shale development on federal landsBudget-cutters eye healthcare law’s insurance subsidies
+Petition for Texas secession hits White House response markInterior proposal would limit commercial oil shale development on federal landsInvestors fear the fallout from electionBudget-cutters eye healthcare law’s insurance subsidiesOpinion: California leading the way to a more functional Congress
 
 Discussed
 
-Dear Matt Drudge: Stop the race storiesOpinion: Here comes the landslideInterior proposal would limit commercial oil shale development on federal landsShift in proportion of white, minority vote could decide Obama-Romney raceGallup: 2012 election had the largest gender gap in recorded history
+Dear Matt Drudge: Stop the race storiesTexas sparks international row with election observersInterior proposal would limit commercial oil shale development on federal landsGallup: 2012 election had the largest gender gap in recorded historyObama says deficit plan must include higher taxes for wealthy
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Sen. Gillibrand won't compete with Warren for Banking Committee spot
-*   Report: FBI officials learned of Petraeus affair over summer
-*   Dem Murphy still leads Rep. West after partial recount in House race
+*   Rep. Cummings: Patraeus scandal 'a critical moment for our military'
+*   Report: DOJ Jackson Jr. probe expands to cover lawmaker’s wife
+*   Rep. Ryan: GOP ticket didn’t lose election on budget, Medicare
 
   
 More Briefing Room » Congress Blog
 
-*   We don't hold the fort down. We keep it from burning down
-*   Democrats: The new party of national security
-*   Unmarried voters, gays and Asian Americans gave Obama edge
+*   New ethnic and religious groups up for grabs in the next election
+*   A pro-jobs energy policy to improve our economy
+*   How Obama closed the gap
 
   
 More Congress Blog » Pundits Blog
@@ -252,44 +252,44 @@ More Pundits Blog » Twitter Room
   
 More Twitter Room » Hillicon Valley
 
-*   Group launches campaign to pressure Obama not to pick Berman for State
-*   News bites: Microsoft and Motorola head to court over patent dispute
-*   Without an agreement, Reid eyes last 2012 effort on Cybersecurity Act
+*   News bites: Key Microsoft exec departs
+*   OVERNIGHT TECH: Cybersecurity, high-skill visas top tech agenda for lame duck
+*   Petition for Texas secession hits White House response mark
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Axelrod: IEA report proves Obama policies are working
-*   Moody’s predicts Obama will approve Keystone XL pipeline
-*   News bites: Renewables to rival coal for electricity generation by 2035
+*   News bites: China’s oil ambitions, the US production boom, and more
+*   Oil industry tax breaks face the ‘fiscal cliff’
+*   OVERNIGHT ENERGY: Congress returns to battles over wind, oil tax breaks
 
   
 More E2\-Wire (Energy) » Ballot Box
 
+*   OVERNIGHT CAMPAIGN: Five House races have yet to be called
+*   Close House races bring pleas for more donations
 *   Democrat Sinema wins Arizona House race
-*   Rep. Barber takes lead in Arizona race for Giffords's former seat
-*   Rep. Bono Mack concedes defeat
 
   
 More Ballot Box » On The Money
 
-*   Mortgage refinancing bill on hold in Senate
-*   Moody's: Political landscape still a downgrade danger to US credit rating
-*   News bites: Outside the Beltway
+*   Report: Corporate execs pushing for territorial system looking out for themselves
+*   OVERNIGHT MONEY: Russia trade bill tops House agenda
+*   Study: Cliff tax increases would hit wealthy, poor states hardest
 
   
 More On The Money » Healthwatch
 
+*   OVERNIGHT HEALTH: HHS moving quickly on key regulations
 *   Global agreement reached on cigarette smuggling
 *   Nursing homes to Congress: Stop looming Medicare cuts
-*   News bites: All about Florida
 
   
 More Healthwatch » Floor Action
 
+*   Schumer: Federal government releases LIHEAP funds early to help storm victims
+*   Emanuel: Jackson Jr. should address voters, as plea talks reported
 *   GOP to allow votes on Dem bills changing policies in the US territories
-*   Reid calls for Arizona votes to be counted 'promptly, accurately and equally'
-*   House looks to ease reporting requirements for stimulus, TARP
 
   
 More Floor Action » Transportation
@@ -301,19 +301,19 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
-*   Iran claims Turkey backing al Qaeda fighters along Syrian border
-*   Feinstein: FBI should have told Intel panels about Petraeus
-*   Report: Second shooter suspected in Afghan massacre
+*   Gen. Allen entangled in Petraeus FBI probe
+*   Report: Kerry being considered to replace Panetta as Defense secretary
+*   Lawmakers turn up heat on FBI over investigation of Petraeus
 
   
 More DEFCON Hill » Global Affairs
 
-*   Obama administration doesn't rule out UN probe into drone strikes
+*   Tuesday's global agenda: Petraeus fall-out shakes up Obama's national security team
+*   US open to cooperating with UN probe into drone strikes
 *   US and Venezuela among the 18 nations to win seats on UN human rights body
-*   In bid for ranking spot on Foreign Affairs, Dem Rep. Engel finds GOP support
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Juan Williams A better Congress A.B. Stoddard Seizing the moment More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Karen Finney The Petraeus affair John Feehery Boehner needs a partner More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
