@@ -1,8 +1,8 @@
-**Ning** **The World's Largest Platform for Creating Social Websites™ Already have an account? Sign In** Call Sales: 1-866-992-0971
+**Ning** **The World's Largest Platform for Creating Social Websites™ Already have an account? Sign In**
 
 *   _Home_
 *   _Features_
-*   _Resources_
+*   _Blog_
 *   _Design_
 *   _Pricing_
 
