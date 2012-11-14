@@ -174,7 +174,7 @@ become a fan AG twitters!
 
 AmericanGreetings.com Privacy Policy
 
-_Last Revised:_ 03/28/2012
+_Last Revised:_ 11/14/2012
 
 I. GENERAL MATTERS A. Overview
 
@@ -182,7 +182,7 @@ At AmericanGreetings.com ("AG"), protecting our users' privacy and security is a
 
 B. Scope of Policy
 
-This Policy applies to AmericanGreetings.com and our co-branded sites http://greetings.aol.com/, http://www.msn.americangreetings.com/, and http://www.yahoo.americangreetings.com/. This Policy does not apply to the websites of other companies or organizations, even if we link to those websites. You should carefully review the privacy policies of those websites in order to determine how they treat your personal information.
+This Policy applies to AmericanGreetings.com and our co-branded site http://www.msn.americangreetings.com/. This Policy does not apply to the websites of other companies or organizations, even if we link to those websites. You should carefully review the privacy policies of those websites in order to determine how they treat your personal information.
 
 European Data Protection Statement: AmericanGreetings.com and the data that we collect from you through AmericanGreetings.com is stored on a host server located in the United States, which is outside of the European Economic Area. By submitting your personal data, you agree to this transfer, storing, and processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
