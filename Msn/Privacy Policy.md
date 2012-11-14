@@ -100,7 +100,7 @@ Close Email A Friend Your email has been sent.
     *   Injuries
     *   Top 10s and Lists
     *   Shop
-*   NCAA FB NCAA FB
+*   NCAAF NCAAF
     
     *   NCAA Football
     *   Recruiting
@@ -120,7 +120,7 @@ Close Email A Friend Your email has been sent.
     *   Fantasy
     *   List
     *   Shop
-*   NCAA BK NCAA BK
+*   NCAAB NCAAB
     
     *   NCAA Basketball
     *   Scores
@@ -212,14 +212,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
-    *   Marvez: DAL/PHI Preview
-    *   Pick Nation: NFL Week 10 picks
-    *   FOX Soccer Exclusive: Sir Alex Ferguson interview
-    *   Fearless Predictions: (21) MSU /(7) LSU
-    *   Griffin on stopping Spurs
-    *   King James on besting Brooklyn
-    *   Pick Nation: CFB Week 11 Picks
-    *   Week 10 NFL Preview
+    *   Rosenthal: Bold move for Blue Jays
+    *   Highlights (9) Duke - (3) Kentucky
+    *   UFC on FUEL TV: Le/Franklin Recap
+    *   CUP: Gordon Takes Out Bowyer - Phoenix 2012
+    *   Draft Stock - Week 12
+    *   Highlights: Duke prevails over Kentucky 75-68
+    *   Highlights: (21) MSU - (7) Kansas
+    *   Rosenthal: MLB Managers of the Year
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -253,6 +253,7 @@ Close Email A Friend Your email has been sent.
         AJ Perez
 *   SHOP
 *   MOBILE
+*   RADIO
 *   FANTASY
     
     *   FANTASY NEWS
@@ -505,29 +506,29 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   Gophers' Mbakwe inspired by Vikings' Peterson
-*   Gophers shoot past Rockets with ease
-*   Wolves center Pekovic suffers sprained ankle
+*   Pekovic helping Montenegro forge NBA history
+*   Wilcox named WCHA rookie of the week
+*   Wolves Tuesday: Schedule remains light
 
 *   VINTAGE: The Unique Iso Varedo
 *   MOTOGP: Rossi, Lorenzo Pay Tribute To Biaggi
 *   CUP: Phoenix Still Has Some ‘New’
 
-*   Moral Victory Not Enough
-*   Allen visits N.C. State, Duke &. UNC
-*   Preview: Duke v. Kentucky
+*   Breaking Out
+*   Early Additions
+*   Updated 2013 Class Rankings
 
-*   Cung Le Shocks The World At FUEL TV 6
-*   “Stun Gun” Drops Paulo Thiago
-*   Cung Le Destroys Rich Franklin With Epic KO
+*   Inside The Octagon: Dana White Misses Macao,...
+*   UFC Tonight StrikeZone: GSP’s Explosive Taked...
+*   Carlos Condit: “GSP’s Knee Is Not Off Limits”
 
-*   Aldo de Nigris está feliz
-*   Aguirre, en la órbita del Espanyol
-*   Trout y Harper, los Novatos del Año
+*   Toluca respeta a Chivas
+*   El liderato no pesa al Toluca
+*   Vetan a periodistas panameños
 
-*   Ferdinand may extend United contract
-*   Deschamps continues AVB war of words
-*   Balotelli heading for City exit
+*   Stevens released in assault case
+*   Sterling, Osman in England team
+*   Ibra urges Gerrard to leave Reds
 
 *   Bears CB says he'll skip game for birth
 *   Kidd reacts to Cuban's comments
@@ -618,6 +619,7 @@ If you have questions about this Privacy Policy, please send an email to the app
     *   Speed TV
     *   Fuel TV
     *   What If Sports
+    *   FOX Sports Radio
 
 *   *   *   FOXSports.com ›
         *   Contact Us
