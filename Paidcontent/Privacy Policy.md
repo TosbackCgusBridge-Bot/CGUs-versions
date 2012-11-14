@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-The kind of journalism we need is changing, but can journalists make the transition?
+Government surveillance on the rise says new Google report
 
 Stay on top of tech news in your inbox
 
