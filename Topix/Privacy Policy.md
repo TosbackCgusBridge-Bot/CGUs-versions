@@ -12,15 +12,15 @@ Sign In
 
 China
 
-China Banker Sees Lower Bar for Yuan Globalization
+China's Hu Steps Down as Party Leader
 
-Iran
+Afghanistan
 
-Iran says it has tested new air defense system during drill in...
+Pakistan Agrees to Free Several Afghan Taliban Prisoners, Offi...
 
 Politix
 
-Should Obama pursue compromise or fight for a progressive agenda?
+How well do you know your sex laws?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 107,113 • Total comments across all topics: 190,973,978
+Comments made yesterday: 106,585 • Total comments across all topics: 191,070,023
 
 Copyright ©2012 Topix LLC
 
