@@ -90,4 +90,4 @@ Contact Us
 *   Full Name\*
 *   Email Address\*
 *   Message\*Message
-*   Name This field is for validation purposes and should be left unchanged.
+*   Phone This field is for validation purposes and should be left unchanged.
