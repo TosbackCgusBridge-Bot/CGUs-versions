@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Taylor's Puppy Love »
+Hot Pics! Post-Premiere PDA »
 
-Top Stories1.  Jessica Simpson Shows Off Super-Skinny Bod With Sister Ashlee »
-2.  Pregnant Camila Alves: See Her Growing Baby Bump! »
-3.  Anne Hathaway: I Was "Obsessive" About Losing 25 Pounds for Les Mis »
-4.  JoAnna Garcia Expecting First Child With Nick Swisher! »
-5.  Heidi Montag Wears Skimpy Red Bikini, Caresses Breast Implants »
+Top Stories1.  Keira Knightley Poses Topless, Addresses Anorexia Rumors »
+2.  Jessica Simpson Shows Off Super-Skinny Bod With Sister Ashlee »
+3.  See Kristen Stewart's Sheer Breaking Dawn 2 Dress From Every Angle! »
+4.  Housewives' Yolanda Foster Bullies Skinny Model Daughter: Keep Dieting! »
+5.  Snooki Dyes Her Hair "Fireball" Red, Gets Long Extensions! »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Why She Can't Find Love
 
 Inside Us Weekly
 
-*   Style Christina Aguilera Flashes Leopard Bra Under
-*   Beauty Christa B. Allen: What's in My Bag?
-*   Moms Adorable! Bruce Willis Bonds With Daughter Ma
-*   Body Heidi Montag Wears Skimpy Red Bikini, Caresse  
-*   Entertainment Teen Mom: Chelsea, Adam Clash Over Parenting
+*   Style Who Looks Sexier in a Green Suit: Ryan Goslin
+*   Beauty Dakota Fanning's New Brunette 'Do: All the De
+*   Moms Tamera Mowry Gives Birth to Son Aden John Tan
+*   Body Sharon Osbourne: I Lost 28 Pounds!  
+*   Entertainment Dancing with the Stars: Kirstie Alley, Gilles
 
 *   US WEEKLY
 *   Celebrity News
