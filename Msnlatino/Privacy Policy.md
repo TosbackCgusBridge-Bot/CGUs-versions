@@ -687,21 +687,21 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   Ponte al día
+*   ¿Quiénes son?...
     
-    Actualízate con lo  mejor del Patrón del Mal.
+    Adivina qué eran antes de ser famosos  
     
-*   La dieta de la canela
+*   ¡Eternamente bella!
     
-    ¡Querrás perder peso todos los días!  
+    Combate las arrugas desde ya  
     
 *   ¡Pompis muy varoniles!
     
     Ellos impactan con un pompis de ataque
     
-*   Camino de Miss Bolivia
+*   Camino de Miss El Salvador
     
-    Yéssica Mouton, la reina boliviana es un derroche.
+    Ana Yancy Clavel es la belleza salvadoreña.
     
 
 Más en Telemundo:
