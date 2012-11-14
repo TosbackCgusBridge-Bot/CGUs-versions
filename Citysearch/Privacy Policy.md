@@ -11,11 +11,7 @@
 *   /
 *   Join
 
-More Go! Advertise With Us
-
-*   Calling All Foodies! Find the best eats in your city. Go Now!
-
-Citysearch Privacy Policy Your Privacy Rights
+More Go! Advertise With Us Citysearch Privacy Policy Your Privacy Rights
 
 (As of October 19, 2011)
 
