@@ -1,4 +1,4 @@
-About Us| Newsletter November 13, 2012
+About Us| Newsletter November 14, 2012
 
 *   Like Us
 *   Follow Us
