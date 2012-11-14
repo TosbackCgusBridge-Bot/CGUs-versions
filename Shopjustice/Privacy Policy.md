@@ -44,9 +44,11 @@ provided until after midnight ET of the day your package ships.
     *   all shoes
 *   accessories
     *   winter accessories
-    *   quilted bags
+    *   monster fur collection
     *   bags &. totes
+    *   quilted bags
     *   jewelry
+    *   jewelry by trend
     *   fashion hats &. scarves
     *   hair accessories
     *   socks &. tights
@@ -74,9 +76,12 @@ provided until after midnight ET of the day your package ships.
     *   all beauty
 *   room, tech &. toys
     *   room accessories
+    *   room collections
     *   electronics
     *   journals &. writing
     *   toys &. crafts
+    *   novi stars™
+    *   monster high
     *   water bottles
     *   all room, tech &. toys
 *   gifts
