@@ -52,6 +52,9 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Technique Classes
 *   Gifts
     *   *   Featured
+        *   Williams-Sonoma Cookware
+        *   Williams-Sonoma Tools
+        *   Williams-Sonoma Smart Tools
         *   Top 20 Gifts
         *   Top-Rated Gifts
         *   Stocking Stuffers
@@ -96,6 +99,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
 
 *   Cookware Shop by Category
     
+    *   Williams-Sonoma Cookware
     *   Cookware Sets
     *   Dutch Ovens &. Braisers
     *   Fry &. Sauté Pans
@@ -114,6 +118,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Shop by Brand
     
+    *   Williams-Sonoma
     *   All-Clad
     *   Calphalon
     *   Cuisinart
@@ -127,7 +132,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Scanpan
     *   Staub
     *   Swiss Diamond
-    *   Williams-Sonoma
     *   Zwilling J.A. Henckels
     
     Featured
@@ -144,16 +148,18 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   All-Clad Roasters Promotion
     *   Exceptional Values
     
-    LIMITED TIME OFFER
+    NEW &. EXCLUSIVE
     
-    Save on All-Clad roasters through 12/31/12.
+    Introducing Williams-Sonoma Thermo-Clad™ Stainless-Steel Cookware, the result of our mission to bring home cooks the highest-quality products available.
     
-    Shop Now 
+    Buy Now 
     
-    Shop All-Clad 
+    Shop Williams-Sonoma Cookware 
     
 *   Cooks' Tools Shop by Category
     
+    *   Williams-Sonoma Tools
+    *   Williams-Sonoma Smart Tools
     *   Baking &. Pastry Tools
     *   Bar Tools
     *   Canning &. Preserving
@@ -170,18 +176,17 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Salt &. Pepper Mills
     *   Specialized Kitchen Tools
     *   Timers, Thermometers &. Scales
-    *   Williams-Sonoma Smart Tools
     *   Wine Tools
     
     Shop by Brand
     
+    *   Williams-Sonoma
     *   All-Clad
     *   Chef'n
     *   Kuhn Rikon
     *   Microplane®
     *   OXO
     *   Rösle
-    *   Williams-Sonoma
     *   WMF
     *   Zoku
     *   Zwilling J.A. Henckels
@@ -200,11 +205,11 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     NEW &. EXCLUSIVE
     
-    Perfect for the kid in all of us.
+    Introducing Williams-Sonoma stainless-steel tools, designed to perform every cooking function better.
     
     Buy Now 
     
-    Shop New Cooks' Tools  
+    Shop Williams-Sonoma Tools 
     
 *   Cutlery Shop by Category
     
@@ -260,6 +265,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
 *   Electrics Shop by Category
     
+    *   Williams-Sonoma Smart Tools
     *   Blenders &. Juicers
     *   Coffee Makers &. Teakettles
     *   Cooking for Baby
@@ -275,6 +281,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Shop by Brand
     
+    *   Williams-Sonoma
     *   All-Clad
     *   Beaba
     *   Breville
@@ -302,11 +309,11 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     NEW &. EXCLUSIVE
     
-    Starbucks lattes, espresso &. coffee at home… at the touch of a button.
+    Introducing Williams-Sonoma smart tools, keeping you connected in the kitchen.
     
     Buy Now  
     
-    Shop New Electrics 
+    Shop Williams-Sonoma Smart Tools 
     
 *   Bakeware Shop by Category
     
@@ -412,12 +419,13 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     *   Guide to Grains
     
-    TODAY ONLY
+    TOP-RATED
     
-    Save 15% on Croissants &. Pastries  
-    Enter promo code: PASTRYSALE
+    Our signature confection has been a customer favorite for more than a decade.
     
-    Shop Now 
+    Buy Now 
+    
+    Shop Top-Rated Food 
     
 *   Tabletop &. Bar Shop by Category
     
@@ -473,8 +481,8 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Sale &. Offers
     
-    *   Tabletop Promotion
     *   Sale
+    *   Tabletop Promotion
     
     LIMITED TIME ONLY
     
@@ -522,12 +530,13 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     Sale &. Offers
     
     *   Sale
+    *   Seasonal Scents Promotion
     
-    FREE SHIPPING
+    TODAY ONLY
     
-    All Miele vacuums ship free! Offer not valid for international shipping.
+    Save 20% on Top-Rated Seasonal Scents
     
-    Shop Miele Vacuums 
+    Shop Now 
     
 *   Outdoor Shop by Category
     
