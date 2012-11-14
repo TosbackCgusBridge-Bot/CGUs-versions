@@ -143,9 +143,7 @@ globo.com
         *   Da Cor do Pecado
         *   Malhação
         *   Lado a Lado
-        *   Avenida Brasil
         *   Guerra dos Sexos
-        *   Gabriela
         *   Salve Jorge
     *   famosos
         *   Ego
@@ -162,6 +160,7 @@ globo.com
         *   Altas Horas
         *   A Grande Família
         *   Amor &. Sexo
+        *   Avenida Brasil
         *   Aventuras do Didi
         *   Caldeirão do Huck
         *   Casseta &. Planeta Vai Fundo
@@ -171,6 +170,7 @@ globo.com
         *   Esquenta!
         *   Estrelas
         *   Fim do Mundo
+        *   Gabriela
         *   Louco por Elas
         *   Mais Você
         *   Na Moral
