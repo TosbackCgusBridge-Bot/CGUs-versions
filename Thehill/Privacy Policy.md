@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Petition for Texas secession hits White House response markFBI uncovered Petraeus affair by chanceMoody’s predicts Obama will approve Keystone XL pipelineRep. West thanks supporters, refuses to concede House defeatPelosi to stay mum on her plans for the 113th Congress until Wednesday
+Google: Surveillance 'is on the rise' Pelosi dodges questions about leadership plans in next CongressSmall businesses remain pessimistic about economyNorquist tax pledge takes election hit Petition for Texas secession hits White House response mark
 
 Emailed
 
-Petition for Texas secession hits White House response markInterior proposal would limit commercial oil shale development on federal landsInvestors fear the fallout from electionBudget-cutters eye healthcare law’s insurance subsidiesOpinion: California leading the way to a more functional Congress
+Norquist tax pledge takes election hit Google: Surveillance 'is on the rise' Petition for Texas secession hits White House response markInvestors fear the fallout from electionSen. Gillibrand won't compete with Warren for Banking Committee spot
 
 Discussed
 
-Dear Matt Drudge: Stop the race storiesTexas sparks international row with election observersInterior proposal would limit commercial oil shale development on federal landsGallup: 2012 election had the largest gender gap in recorded historyObama says deficit plan must include higher taxes for wealthy
+Dear Matt Drudge: Stop the race storiesInterior proposal would limit commercial oil shale development on federal landsGallup: 2012 election had the largest gender gap in recorded historyPetition for Texas secession hits White House response markWar opens inside GOP over immigration
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Rep. Cummings: Patraeus scandal 'a critical moment for our military'
-*   Report: DOJ Jackson Jr. probe expands to cover lawmaker’s wife
-*   Rep. Ryan: GOP ticket didn’t lose election on budget, Medicare
+*   Obama to push deficit plan that includes $1.6 trillion in additional revenue
+*   Colbert's super-PAC files termination paperwork with FEC
+*   DAY'S END ROUNDUP
 
   
 More Briefing Room » Congress Blog
 
-*   New ethnic and religious groups up for grabs in the next election
-*   A pro-jobs energy policy to improve our economy
-*   How Obama closed the gap
+*   Make English our official language
+*   It's time to get back to work &. embrace Simpson-Bowles
+*   EPA could waive ban on Primatene Mist inhalers for asthmatics
 
   
 More Congress Blog » Pundits Blog
 
+*   Forward-thinking advice for the GOP
 *   If you've got it, flaunt it
 *   Still analyzing last week's election
-*   The Drudge debate
 
   
 More Pundits Blog » Twitter Room
 
-*   Congress thanks service members on Veterans Day
-*   Sen. Cornyn likes 'Argo'
-*   Rep. West thanks supporters, refuses to concede House defeat
+*   Sen. Vitter roots for Louisiana talent on 'The Voice'
+*   Bono meets with Biden at the White House
+*   Rep. Polis ready to 'move on' from Petraeus scandal
 
   
 More Twitter Room » Hillicon Valley
 
-*   News bites: Key Microsoft exec departs
-*   OVERNIGHT TECH: Cybersecurity, high-skill visas top tech agenda for lame duck
-*   Petition for Texas secession hits White House response mark
+*   OVERNIGHT TECH: Reid signals imminent action on cybersecurity
+*   Wyden tackles Internet royalty bill criticism
+*   FCC's Rosenworcel calls for 'conversation' over reliability of cellphones in emergencies
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   News bites: China’s oil ambitions, the US production boom, and more
-*   Oil industry tax breaks face the ‘fiscal cliff’
-*   OVERNIGHT ENERGY: Congress returns to battles over wind, oil tax breaks
+*   Rep. Upton: 'I'm not a carbon tax guy'
+*   Republican governors pressure home-state delegations on wind credit
+*   OVERNIGHT ENERGY: Wind tax credits in focus, Al Gore’s ‘Dirty Weather Report’ going live, and more
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   OVERNIGHT CAMPAIGN: Five House races have yet to be called
-*   Close House races bring pleas for more donations
-*   Democrat Sinema wins Arizona House race
+*   Gov. Christie’s Obama problem
+*   Romney's top Hispanic surrogate: GOP must embrace immigration reform
+*   Abramoff, Occupy Wall Street join forces on campaign finance reform
 
   
 More Ballot Box » On The Money
 
-*   Report: Corporate execs pushing for territorial system looking out for themselves
-*   OVERNIGHT MONEY: Russia trade bill tops House agenda
-*   Study: Cliff tax increases would hit wealthy, poor states hardest
+*   Tax fight sneaks up on K Street
+*   OPM: USPS projected pension surplus shrank
+*   IRS: No AMT patch would cause chaotic filing season
 
   
 More On The Money » Healthwatch
 
-*   OVERNIGHT HEALTH: HHS moving quickly on key regulations
-*   Global agreement reached on cigarette smuggling
-*   Nursing homes to Congress: Stop looming Medicare cuts
+*   Rep. Ellmers pushes HHS on safety of health technology
+*   Rick Scott opens door to working with HHS on insurance exchange
+*   OVERNIGHT HEALTH: Support for repeal fades
 
   
 More Healthwatch » Floor Action
 
-*   Schumer: Federal government releases LIHEAP funds early to help storm victims
-*   Emanuel: Jackson Jr. should address voters, as plea talks reported
-*   GOP to allow votes on Dem bills changing policies in the US territories
+*   McMorris Rodgers looks for support in GOP leadership race
+*   House passes bills on federal contracting, space launch liability
+*   Senate passes House tweak to whistleblower protection bill
 
   
 More Floor Action » Transportation
 
-*   Sen. Thune 'pleased' with EU emission fees halt, but fears plan may be revived
-*   Sen. Lautenberg, Amtrak tout NY-NJ tunnel reopening
-*   Auto workers' union: Obama thankful for election support
+*   Mica waiting for leadership election to address Transportation Committee chairmanship
+*   DC Metro begins selling commemorative Obama inauguration SmarTrip cards
+*   AAA forecasts 43.6 million travelers for Thanksgiving
 
   
 More Transportation » DEFCON Hill
 
-*   Gen. Allen entangled in Petraeus FBI probe
-*   Report: Kerry being considered to replace Panetta as Defense secretary
-*   Lawmakers turn up heat on FBI over investigation of Petraeus
+*   Panetta defends Gen. Allen, says he has ‘confidence’ in Afghanistan commander
+*   OVERNIGHT DEFENSE: Petraeus, Allen and Libya dominate lawmakers' first day back
+*   Levin: Petraeus scandal won't affect Allen's postwar plan
 
   
 More DEFCON Hill » Global Affairs
 
-*   Tuesday's global agenda: Petraeus fall-out shakes up Obama's national security team
-*   US open to cooperating with UN probe into drone strikes
-*   US and Venezuela among the 18 nations to win seats on UN human rights body
+*   Wednesday's global agenda: Time to arm Syria's rebels?
+*   Uphill battle for Rice to replace Clinton at State
+*   UN votes 188-3 to condemn US embargo on Cuba
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Karen Finney The Petraeus affair John Feehery Boehner needs a partner More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS Markos Moulitsas Dems' decisive win Dick Morris Immigration reform More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
