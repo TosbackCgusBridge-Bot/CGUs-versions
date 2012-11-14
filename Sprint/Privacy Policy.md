@@ -35,7 +35,7 @@ Skip Navigation
         *   iPhones
         *   Accessories
         *   Packages
-        *   Promotions
+        *   Holiday offers
     *   *   Other devices
         *   Data cards
         *   Tablets
