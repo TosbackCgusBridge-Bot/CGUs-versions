@@ -133,50 +133,50 @@ If you have any questions or concerns about this privacy policy, you may contact
 
 Stories We Like
 
-1.  Huffington Post Politics Super PACs Didn't Buy the 2012 Election
-2.  Mental Floss When Victoria's Secret Rescued the National Guard
-3.  Buzzfeed The Sasha and Malia Obama Aging Timeline
-4.  Fab Sugar Michelle Obama Wore Michael Kors on Election Night
-5.  Political Wire Now That It's Over, Which Polls Were the Most Accurate?
-6.  Huffington Post Politics Reid Makes Bold Promise on Reform For Next Congress
-7.  Your Tango How 'Four More Years' of Obama Will Affect Your Marriage
-8.  Buzzfeed Beautiful Pictures of Two Women From Maryland Getting Engaged on Election Night
-9.  Us Weekly Stunning New Pictures of Scarlett Johansson, Jessica Biel in 'Hitchcock'
+1.  Us Weekly Selena Gomez Seems 'Bubbly, Upbeat' at Bash After Justin Bieber Split
+2.  Huffington Post Politics Obama Says He Won't Budge on Bush Tax Cuts
+3.  Buzzfeed Keira Knightley 'Doesn't Mind' Exposing Her Breasts 'Because They're So Small'
+4.  Ask Men 25 Holiday Gifts for Him
+5.  Us Weekly Bradley Cooper: 'I Got Arrested When I Was 15'
+6.  Pop Sugar Kristen Stewart Gets Sexy to Post with Rob at 'Breaking Dawn' Premiere
+7.  Huffington Post Politics Yet Another U.S. General in Trouble
+8.  Buzzfeed Everything You Need to Know About the David Petraeus Scandal in One Chart
+9.  Fab Sugar The Coolest Stocking Stuffers For Under $55
 
   Most Popular
 
-1.  Paula’s Emails Revealed
-2.  How Romney Killed Reaganomics
-3.  Five Facts About Jill Kelley
-4.  Megyn Kelly Takes Control
-5.  Five Unsolved Petraeus Mysteries
+1.  Jill Kelley Collected Generals
+2.  Partisan Hacks Follow the Money
+3.  Paula’s Emails Revealed
+4.  Five Facts About Jill Kelley
+5.  Five Best Jokes About the Petraeus Scandal
 
   Other News Entertainment
 
-*   'The Twilight Saga: Breaking Dawn - Part 2' Premiere
-*   Celebs Who Talk Smack
-*   Kristen Stewart and Robert Pattinson's Highs and Lows
+*   Trend Report: '90s Style
+*   BING: Celebs' Exotic Pets
+*   Maria Menounos' Puppy Kisses &. More Celebri-pets
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘RuPaul’s All Stars Drag Race’ episode 4: And then there were four
-*   ‘How I Met Your Mother’ recap: Barney has a little speech to share
-*   ‘Bones’: How did the squints handle 9/11?
+*   ‘New Girl’: Fifty Shades of Schmidt
+*   ‘Sons of Anarchy’ recap: ‘Things are gonna get bloody, brother.’ Check.
+*   ‘Dancing With the Stars’: Hidden Gems of Week 8
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Republicans Pan Potential Kerry, Rice Nominations
-*   Soundgarden Return To A World Without Chops
-*   11 Reasons Fantasy Football Is Super Dumb And We Shouldn't Even Bother Anymore
+*   A Mormon Reporter On The Romney Bus
+*   Why Social-Media Shaming Is OK
+*   Broadwell's Father Was Convicted In 1983 Case With Echoes Of Petraeus Scandal
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Another Four-Star General Caught in Email Scandal
-*   Obama May Tap Kerry as Defense Secretary
-*   Extra Bonus Quote of the Day
+*   The Petraeus Scandal Timeline
+*   Warner Big Favorite for Virginia Governor
+*   Lee Atwater on the Southern Strategy
 *   **Get More from Political Wire**
 
 The Daily Beast
