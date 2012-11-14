@@ -111,129 +111,128 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/13/2012 8:01 AM ET
+Updated: 11/14/2012 7:01 AM ET
 
-1.  1 Romney campaign's lasting mark
-2.  2 Secession petitions flood White House website
-3.  3 Wife runs over non-voting husband
-4.  4 The GOP's media cocoon
-5.  5 West digs in
-6.  6 Gen. John Allen ensnared in Petraeus scandal
-7.  7 Hill digs in on Petraeus scandal
-8.  8 Grover: Mitt painted as 'poopy head'
-9.  9 Report: Holly Petraeus 'furious'
-10.  10 Newt: 'Dumbfounded' by election
+1.  1 Lawmaker asks to be paid in gold
+2.  2 Jindal: End 'dumbed-down conservatism'
+3.  3 Secession leader: Obama's baked
+4.  4 Welcome to the Rand Paul evolution
+5.  5 Senators prefer Kerry to Rice
+6.  6 Obama's foreign policy team hits turbulence
+7.  7 5 Gmail lessons from Petraeus affair
+8.  8 Petraeus is dumb, she's dumber
+9.  9 Ryan: No Obama mandate on taxes
+10.  10 Ryan splits with GOP leadership
 
-Updated: 11/13/2012 8:01 AM ET
+Updated: 11/14/2012 7:01 AM ET
+
+1.  1 Lawmaker asks to be paid in gold
+2.  2 Welcome to the Rand Paul evolution
+3.  3 Jindal: End 'dumbed-down conservatism'
+4.  4 Ryan splits with GOP leadership
+5.  5 Secession leader: Obama's baked
+6.  6 Wife runs over non-voting husband
+7.  7 Petraeus is dumb, she's dumber
+8.  8 Allen ensnared in Petraeus scandal
+9.  9 Perry says no to Texas secession
+10.  10 Carney: Obama backs Allen
+
+Updated: 11/14/2012 7:01 AM ET
 
 1.  1 The GOP's media cocoon
 2.  2 Romney campaign's lasting mark
 3.  3 Secession petitions flood White House website
-4.  4 Grover: Mitt painted as 'poopy head'
-5.  5 King: 'Crisis of major proportions'
-6.  6 Newt: 'Dumbfounded' by election
-7.  7 5 fiscal cliff scenarios
-8.  8 West digs in
-9.  9 Media fight on the right over GOP
-10.  10 'Modern Family' star analyzes Ann Romney
+4.  4 Lawmaker asks to be paid in gold
+5.  5 Welcome to the Rand Paul evolution
+6.  6 Grover: Mitt painted as 'poopy head'
+7.  7 Jindal: End 'dumbed-down conservatism'
+8.  8 King: 'Crisis of major proportions'
+9.  9 Ryan splits with GOP leadership
+10.  10 Secession leader: Obama's baked
 
-Updated: 11/13/2012 8:01 AM ET
-
-1.  1 The GOP's media cocoon
-2.  2 The GOP polling debacle
-3.  3 Rove under fire
-4.  4 Media fight on the right over GOP
-5.  5 6 questions on Petraeus's exit
-6.  6 Romney campaign's lasting mark
-7.  7 Secession petitions flood White House website
-8.  8 Grover: Mitt painted as 'poopy head'
-9.  9 King: 'Crisis of major proportions'
-10.  10 Newt: 'Dumbfounded' by election
-
-Updated: 11/13/2012 8:01 AM ET
+Updated: 11/14/2012 7:01 AM ET
 
 1.  1 Rove under fire
 2.  2 6 questions on Petraeus's exit
-3.  3 Chrysler gives workers day off to vote
-4.  4 Oliver Stone: 'I find Obama scary'
-5.  5 The GOP's media cocoon
-6.  6 The GOP polling debacle
-7.  7 Christie lashes 'know-nothing, disgruntled' Romney aides
-8.  8 Media fight on the right over GOP
-9.  9 Bill O'Reilly: 'The white establishment is now the minority'
-10.  10 Rove: Obama won 'by suppressing the vote'
+3.  3 Oliver Stone: 'I find Obama scary'
+4.  4 The GOP's media cocoon
+5.  5 The GOP polling debacle
+6.  6 Romney campaign's lasting mark
+7.  7 Media fight on the right over GOP
+8.  8 Secession petitions flood White House website
+9.  9 Rove: Obama won 'by suppressing the vote'
+10.  10 Lawmaker asks to be paid in gold
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/13/2012 8:01 AM ET
+Updated: 11/14/2012 7:01 AM ET
 
-1.  1 Petraeus, Broadwell's email secret
-2.  2 Wife runs over non-voting husband
-3.  3 Perry says no to Texas secession
-4.  4 Broadwell's dad: More to come out
-5.  5 Factions fight over wind tax credit
-6.  6 Vitter ready for top GOP panel job
-7.  7 Hurdles Obamacare still must clear
-8.  8 Petraeus is dumb, she's dumber
-9.  9 Welcome to the Rand Paul evolution
-10.  10 Jindal: End 'dumbed-down conservatism'
+1.  1 Kelley claims 'honorary' diplo status
+2.  2 5 Gmail lessons from Petraeus affair
+3.  3 FBI handled Petraeus probe correctly
+4.  4 Norquist warns GOP on carbon tax
+5.  5 Hard questions await Obama at news conference
+6.  6 New Senate breed: Proudly liberal
+7.  7 Great Pelosi mystery to be solved
+8.  8 Boehner, McConnell play good cop, bad cop
+9.  9 Warming world demands action now
 
-Updated: 11/13/2012 8:01 AM ET
+Updated: 11/14/2012 7:01 AM ET
 
-1.  1 Petraeus, Broadwell's email secret
-2.  2 Wife runs over non-voting husband
-3.  3 Perry says no to Texas secession
-4.  4 Broadwell's dad: More to come out
-5.  5 Factions fight over wind tax credit
-6.  6 Vitter ready for top GOP panel job
-7.  7 Hurdles Obamacare still must clear
-8.  8 Petraeus is dumb, she's dumber
-9.  9 Welcome to the Rand Paul evolution
-10.  10 Jindal: End 'dumbed-down conservatism'
+1.  1 Kelley claims 'honorary' diplo status
+2.  2 5 Gmail lessons from Petraeus affair
+3.  3 FBI handled Petraeus probe correctly
+4.  4 Norquist warns GOP on carbon tax
+5.  5 Hard questions await Obama at news conference
+6.  6 New Senate breed: Proudly liberal
+7.  7 Great Pelosi mystery to be solved
+8.  8 Boehner, McConnell play good cop, bad cop
+9.  9 Warming world demands action now
+10.  10 Ryan: No Obama mandate on taxes
 
-Updated: 11/13/2012 8:01 AM ET
+Updated: 11/14/2012 7:01 AM ET
 
-1.  1 Petraeus, Broadwell's email secret
-2.  2 Wife runs over non-voting husband
-3.  3 Perry says no to Texas secession
-4.  4 Broadwell's dad: More to come out
-5.  5 Factions fight over wind tax credit
-6.  6 Vitter ready for top GOP panel job
-7.  7 Hurdles Obamacare still must clear
-8.  8 Petraeus is dumb, she's dumber
-9.  9 Welcome to the Rand Paul evolution
-10.  10 Jindal: End 'dumbed-down conservatism'
+1.  1 Kelley claims 'honorary' diplo status
+2.  2 5 Gmail lessons from Petraeus affair
+3.  3 FBI handled Petraeus probe correctly
+4.  4 Norquist warns GOP on carbon tax
+5.  5 Hard questions await Obama at news conference
+6.  6 New Senate breed: Proudly liberal
+7.  7 Great Pelosi mystery to be solved
+8.  8 Boehner, McConnell play good cop, bad cop
+9.  9 Warming world demands action now
+10.  10 Ryan: No Obama mandate on taxes
 
-Updated: 11/13/2012 8:01 AM ET
+Updated: 11/14/2012 7:01 AM ET
 
-1.  1 Petraeus, Broadwell's email secret
-2.  2 Wife runs over non-voting husband
-3.  3 Perry says no to Texas secession
-4.  4 Broadwell's dad: More to come out
-5.  5 Factions fight over wind tax credit
-6.  6 Vitter ready for top GOP panel job
-7.  7 Hurdles Obamacare still must clear
-8.  8 Petraeus is dumb, she's dumber
-9.  9 Welcome to the Rand Paul evolution
-10.  10 Jindal: End 'dumbed-down conservatism'
+1.  1 Kelley claims 'honorary' diplo status
+2.  2 5 Gmail lessons from Petraeus affair
+3.  3 FBI handled Petraeus probe correctly
+4.  4 Norquist warns GOP on carbon tax
+5.  5 Hard questions await Obama at news conference
+6.  6 New Senate breed: Proudly liberal
+7.  7 Great Pelosi mystery to be solved
+8.  8 Boehner, McConnell play good cop, bad cop
+9.  9 Warming world demands action now
+10.  10 Ryan: No Obama mandate on taxes
 
 Showing Last 7 Days
 
-Updated: 11/13/2012 8:01 AM ET
+Updated: 11/14/2012 7:01 AM ET
 
-1.  1 The GOP's media cocoon
-2.  2 Media fight on the right over GOP
-3.  3 6 questions on Petraeus's exit
-4.  4 Rove under fire
-5.  5 How Obama, Boehner could agree
-6.  6 Can Rubio save GOP on immigration?
-7.  7 Republicans ponder way forward
-8.  8 GOP soul-searching: 'Too old, too white, too male'?
-9.  9 Four more for 44
-10.  10 Why 2012 turned small
+1.  1 Secession leader: Obama's baked
+2.  2 Welcome to the Rand Paul evolution
+3.  3 Allen ensnared in Petraeus scandal
+4.  4 The GOP's media cocoon
+5.  5 Media fight on the right over GOP
+6.  6 Rove under fire
+7.  7 How Obama, Boehner could agree
+8.  8 Can Rubio save GOP on immigration?
+9.  9 Republicans ponder way forward
+10.  10 GOP soul-searching: 'Too old, too white, too male'?
 
 News
 
