@@ -267,25 +267,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Local KFC stores among those closed in wake of bankruptcy Updated 11/12/2012 at 2:56 p.m. 74 comments
-*   Men in U-Haul truck were transporting 300 lbs. of pot to sell, Redding police say Published 11/12/2012 at 10:10 a.m. 70 comments
-*   Redding man dies in crash Updated 11/12/2012 at 3:43 p.m. 13 comments
-*   RedBlueAmerica: What does Obama's re-election mean? Published 11/12/2012 at 12:00 a.m. 174 comments
-*   UPDATED: Cadd's lead holding in Redding council race Updated 11/12/2012 at 2:26 p.m. 39 comments
+*   UPDATED: Two Burney children in serious condition after being shot Updated 11/13/2012 at 4:15 p.m. 36 comments
+*   Victoria's Secret apologizes for use of outfit Published 11/13/2012 at 4:00 a.m. 60 comments
+*   Redding driver cited after rear-ending group home van Updated 11/13/2012 at 9:41 a.m. 37 comments
+*   Kentucky Fried Chicken franchise owner closes 29 stores, seven in north state Published 11/12/2012 at 11:41 p.m. 46 comments
+*   Petraeus investigation now includes General John Allen Published 11/13/2012 at 7:48 a.m. 79 comments
 
-Photo Galleries Indianapolis House Explosion Veterans Day Parade AAUW Tour Pierson home
+Photo Galleries Veterans Day Parade AAUW Tour Pierson home Indianapolis House Explosion
 
-*   GOP strategist: Two-party system collapses in California Published 11/11/2012 at 4:00 a.m. 209 comments
-*   RedBlueAmerica: What does Obama's re-election mean? Published 11/12/2012 at 12:00 a.m. 174 comments
-*   Obama wins Fla., topping Romney in final tally 332-206 Published 11/10/2012 at 12:31 p.m. 146 comments
-*   Trent Amen: As a business owner, I'm baffled by election result Published 11/11/2012 at 12:00 a.m. 132 comments
-*   Pot votes in Colorado, Washington raise possibility of marijuana tourism Published 11/10/2012 at 4:00 a.m. 90 comments
+*   GOP strategist: Two-party system collapses in California Published 11/11/2012 at 4:00 a.m. 210 comments
+*   RedBlueAmerica: What does Obama's re-election mean? Published 11/12/2012 at 12:00 a.m. 177 comments
+*   Trent Amen: As a business owner, I'm baffled by election result Published 11/11/2012 at 12:00 a.m. 143 comments
+*   UPDATED: Local KFC stores among those closed in wake of bankruptcy Published 11/12/2012 at 9:25 a.m. 79 comments
+*   Petraeus investigation now includes General John Allen Published 11/13/2012 at 7:48 a.m. 79 comments
 
 *   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
+*   Driver, 85, crashes into Redding garage Published 11/12/2012 at 12:42 p.m. 34 comments
 *   Wild horse, burro adoption falls short. economic factors leave trail of uncertainty Published 11/4/2012 at 6:52 p.m. 11 comments
-*   Trent Amen: As a business owner, I'm baffled by election result Published 11/11/2012 at 12:00 a.m. 132 comments
-*   Two dead from wild mushrooms served at Sacramento-area care facility Published 11/11/2012 at 8:54 a.m. 36 comments
-*   UPDATE: Detectives arrest two men in connection with Big Bend murder Published 11/3/2012 at 9:09 a.m. 31 comments
+*   Two dead from wild mushrooms served at Sacramento-area care facility Published 11/11/2012 at 8:54 a.m. 32 comments
+*   Kentucky Fried Chicken franchise owner closes 29 stores, seven in north state Published 11/12/2012 at 11:41 p.m. 46 comments
 
 Weather
 
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 43° Overcast Wind: Calm Today 63° 40° Tue 05:00 PM Mostly Cloudy Showers Temp: 52° Wed 05:00 AM Mostly Clear Temp: 41° Wed 05:00 PM Partly Cloudy Temp: 53°
+Currently 44° Fair Wind: Calm Today 69° 44° Wed 05:00 PM Partly Cloudy Temp: 55° Thu 05:00 AM Mostly Clear Temp: 45° Thu 05:00 PM Mostly Clear Temp: 54°
 
-Feels Like: 52°
+Feels Like: 55°
 
-Humidity: 80%
+Humidity: 77%
 
-Precip: 28%
+Precip: 0%
 
-Feels Like: 38°
+Feels Like: 44°
 
-Humidity: 89%
+Humidity: 79%
 
-Precip: 10%
+Precip: 4%
 
-Feels Like: 53°
+Feels Like: 54°
 
-Humidity: 74%
+Humidity: 69%
 
-Precip: 5%
+Precip: 19%
 
 Western Skies 11/12/12  
 7:18 p.m.  
@@ -327,18 +327,10 @@ tornado clouds? 8/28/12
 11:48 p.m.  
 More Weather » Calendar
 
-*   Tuesday Nov 13
 *   Wednesday Nov 14
 *   Thursday Nov 15
+*   Friday Nov 16
 *   More BROWSE Icon
-
-*   Flagging Shasta Builder's Exchange 8 a.m.
-*   Basic Traffic Control Shasta Builder's Exchange 1 p.m.
-*   2nd Tuesday Dining Club Mary's Pizza Shack 5 p.m.
-*   Shasta County Democratic Women's Club meeting Market St Pizza &. Deli 6:30 p.m.
-*   Suicide Loss Support Group St James Church 7 p.m.
-
-More Events »
 
 *   Cleanrite-Buildrite's 4th Annual Stuff The Truck in Anderson See Description 7 a.m.
 *   GIS Day 2012, Discovering the World Through GIS Redding Library 9:30 a.m.
@@ -350,9 +342,17 @@ More Events »
 
 *   Little Explorers: Forest Animals Turtle Bay Exploration Park
 *   Stuff the Truck Thanksgiving Turkey Food Drive Taylor Motors 7 a.m.
+*   Local Weekday Bird Walk at Anderson River Park Anderson River Park 8 a.m.
 *   Little Movers and Shakers interactive class Redding Library 10 a.m.
 *   Thriving Thursdays Redding Library 4 p.m.
-*   Spaghetti Dinner Buckeye Elementary School 5 p.m.
+
+More Events »
+
+*   Tehama Friends of NRA Dinner Rolling Hills Casino 6 p.m.
+*   The Fresh Beat Band Redding Civic Auditorium 7 p.m.
+*   University Preparatory School musical 'Thoroughly Modern Millie' David Marr Auditorium (Shasta Learning Center) 7 p.m.
+*   Wild Bill and the Mudwompers concert Kelly's Pub &. Wine Bar 7 p.m.
+*   Shasta College Symphonic Band concert Shasta College Theater 7:30 p.m.
 
 More Events »
 
