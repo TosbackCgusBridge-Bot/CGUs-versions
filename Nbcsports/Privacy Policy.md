@@ -1,71 +1,69 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: 33 students hurt in school bus crash
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Jailed for fraud, borrower wonders why he was targeted
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Don Wright / AP Steelers eke out win but lose Ben
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Jeff Chiu / AP How's that back-up plan?
     
-    The Pittsburgh Steelers edged the woeful Kansas City Chiefs 16-13 in overtime Monday night but lost Ben Roethlisberger for most of the second half — and perhaps a lot longer — with a right shoulder injury.
+    Kacsmar: Some NFL teams put a lot of value into how they fill the backup quarterback position, while others just count on their starter staying healthy. Week 10 brought the matter into sharp focus for four teams. Let’s look at the viability of all 32 teams' backup QB situations.
     
-    Adrian Peterson's best season yet PFT: Vick has 'pretty significant' concussion NFL needs better concussion policy PFT: NFL clears Bears handling of Cutler PFT: Eli Manning won't throw for a week PFT: NFL admits to two officiating errors PFT: Reid's exit likely, but not yet a certainty Stubborn Ryan won't play Tebow Ad
+    PFT: 49ers' Smith gets second opinion on head injury PFT: Roethlisberger's injury 'pretty significant' PFT: Ex-NFL TE, Solo in domestic incident PFT: NFLPA wants independent concussion checks PFT: Charges dropped against Vikings' Peterson Elway puts it on the line again in latest comeback PFT's Week 10 power rankings Where will Ray Edwards land? Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Elaine Thompson / AP file Trout is AL's Rookie of the Year
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Alex Trautwig / Getty Images Salary dump — or win-win?
     
-    Despite an historically awesome crop of competitors, Mike Trout won American League Rookie of the Year honors in a landslide, claiming the top spot on all 28 ballots. Yoenis Cespedes finished second.
+    Toronto is acquiring SS Jose Reyes, RHP Josh Johnson, LHP Mark Buehrle and others from Miami for a raft of prospects and young major leaguers. And the deal might work out for both.
     
-    HBT: Harper edges Miley for NL Rookie of the Year HBT: Giants, Affeldt agree to 3-year deal DeMarco: Decision time for Rangers, Phillies, Red Sox HBT: Dodgers have winning bid for Hyun-Jin HBT: Dodgers making strong pitch for Hunter HBT: Yanks 'not trading Alex Rodriguez' HBT: Rangers will only offer Hamilton 3-year deal HBT: Hall of Famer MacPhail dies at 95 Ad
+    HBT: A's Melvin AL Manager of the year HBT: Nats' Johnson NL Manager of the year HBT: Time for Selig to force Loria out of MLB HBT: Harper is NL's top rookie HBT: Trout is AL's Rookie of the Year HBT: Weiss' 1-year deal scared off Giambi HBT: Ranking possible expansion markets HBT: Torii Hunter meeting with Tigers today Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Dave Sandford / Getty Images Contributor Sakic was no ordinary Joe
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Nathan Denette / AP Sakic enters Hall as Avs hero
     
-    PHT: Joe Sakic headlines an impressive class heading into the Hockey Hall of Fame on Monday night. Sakic might not have provided explosive quotes, but his staggering numbers and all-time-great wrist shot were memorable enough.
+    PHT: Joe Sakic was taken with the 15th overall pick in the 1987 NHL Entry Draft by the Quebec Nordiques and he never played for another NHL franchise. Once the franchise moved to Denver, Sakic played a key role in putting it on the map, leading the Avalanche to two Stanley Cups.
     
-    NHL.com: Quiet steadiness defined Sakic's career PHT: Sakic doesn't regret retiring, with one exception PHT: Yes, Bure was very, very good  |  Elite skills PHT: Sudin a machine for Leafs  |  Quebec start key PHT: Oates' top accomplishments  |  Master passer PHT: Talks end early, not going well PHT: Fehr doesn't see path to a deal CSN: Fehr becomes lightning rod for criticism Ad
+    PHT: Sundin thanks Leaf fans during Hall induction PHT: Bure thanks fans as he enters Hall PHT: Oates goes from undrafted to Hall of Fame PHT: Who should be in 2013's Hall of Fame class? Sakic was no ordinary Joe NHL.com: Quiet steadiness defined Sakic's career PHT: Sakic doesn't regret retiring, with one exception PHT: Yes, Bure was very, very good  |  Elite skills Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines NBC Sports The what, the why and the how
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Andrew D. Bernstein / Getty Images Contributor Spurs win with great play at end
     
-    SportsTalk video: Erik Kuselias, Chris Mannix and Adrian Wojnarowski break down every angle of the Lakers' decision to hire Mike D'Antoni over Phil Jackson.
+    PBT: On a night when Kobe Bryant was brilliant and the best player on the floor, it was the Spurs and a great play design by Gregg Popovich that were the difference as San Antonio bested the Lakers 84-82.
     
-    PBT: D'Antoni better long-term pick than Jackson PBT: D'Antoni can win big, if Lakers defend PBT's Power Rankings: Knicks on top Lakers fumble on coaching switch Trash Talk: D'Antoni right man for Lakers PBT: Lakers hire D'Antoni, not Jackson Lakers' choice of D'Antoni puzzling PBT: 76ers' Bynum could be out until Christmas Ad
+    Will D'Antoni's system fit Lakers? D'Antoni to make debut on Friday What, why and how of D'Antoni's hiring Bobcats climb to .500 with win over Wizards Pacers finish on 9-0 run, still lose to Raptors Varejao's 35 and 18 go to waste for Cavs vs. Nets PBT: Rockets' White sent to D-League after absences PBT: Heat reportedly on top of Kenyon Martin's list Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Gerald Herbert / AP file Officials settle on 'access bowls'
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Tom Mihalek / AP file Big East OKs East, West divisions
     
-    CFT: Some details of a four-team playoff in college football are still to be determined, but the BCS commissioners and Presidential Oversight Committee did finalize some aspects of the ‘access bowls’ that will make up the semifinal sites of the new postseason.
+    CFT: Following up on months of curiosity, the Big East announced its two new divisions for the soon-to-be 12-member conference. The only oddity? Temple, as a member of the West division.
     
-    CFT: Louisville loses top rusher for rest of season CFT: Tuberville takes blame for sideline incident CFT: Wash. St. AD comes to Leach's defense K-State so close to first BCS title shot Heisman Hopefuls: Could a freshman win? CFT: Oregon ranked No. 1 by AP and coaches Oregon overcomes injuries to move to No. 1 PFT: Would Kelly ditch No. 1 Oregon for NFL? Ad
+    CFT: Ducks backup QB gets defensive call CFT: Houston CB survives near-fatal injury CFT: Michigan DE gets year probation for home invasion BCS is an election, so why not campaign? Officials settle on 'access bowls' CFT: Louisville loses top rusher for rest of season CFT: Tuberville takes blame for sideline incident CFT: Wash. St. AD comes to Leach's defense Ad
 *   NCAA HOOPS
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Michael Probst / AP UConn is team of the week
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Dave Martin / AP Curry leads Duke over Kentucky
     
-    This was supposed to be the year where UConn scrapped and clawed and did everything in their power to ensure that Kevin Ollie remained their head coach next season, when they would actually have something to play for. And then something funny happened: the Huskies went out and punched Michigan State in the mouth at Ramstein Air Force base in Germany.
+    CBT: Sparked by a 21-7 second half run, No. 9 Duke beat No. 3 Kentucky 75-68 Tuesday night in the nightcap of the Champions Classic with Blue Devil guard Seth Curry leading the way with 23 points.
     
-    CBT: No. 19 Gonzaga incinerates West Virginia CBT: Youngstown St. silences Georgia on road No. 1 Indiana disposes of N. Dakota St. UConn moves into first regular-season AP poll CBT: Don't rush to judge SDSU after loss Orange shoot down Aztecs Moore: Shorter shot clock equal better hoops? No Manning wins first game as Tulsa coach Ad
+    CBT: No. 21 Michigan St. outlasts No. 7 Kansas Albany pulls off stunning upset of Washington No. 13 UCLA squeaks by UC Irvine in OT CBT: Wichita State overcomes VCU 'Havoc' No. 1 Baylor Lady Bears wallop No. 6 Kentucky CBT: UConn is team of the week CBT: No. 19 Gonzaga incinerates West Virginia CBT: Youngstown St. silences Georgia on road Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Tom Pennington / Getty Images Gordon fined $100,000 for wreck
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Ross D. Franklin / AP No more tweeting in car
     
-    Four-time NASCAR champion Jeff Gordon avoided suspension Monday when NASCAR instead fined him $100,000 and docked him 25 points for intentionally wrecking Clint Bowyer at Phoenix International Raceway.
+    Brad Keselowski was fined $25,000 by NASCAR on Monday for tweeting during the red-flag at Phoenix International Raceway.
     
-    Suspending Jeff Gordon would end "Boys Have At It" Keselowski on brink of Cup title Notebook: Gordon, Bowyer tangle at Phoenix Patrick won't run Indianapolis 500 Go Daddy to air 2 Super Bowl spots with Patrick Brown first black NHRA champion Logano wins. Sadler hurts Nationwide chances Bourdais re-signs with Dragon Racing Ad
+    Gordon fined $100,000 for wreck Suspending Jeff Gordon would end "Boys Have At It" Keselowski on brink of Cup title Notebook: Gordon, Bowyer tangle at Phoenix Patrick won't run Indianapolis 500 Go Daddy to air 2 Super Bowl spots with Patrick Brown first black NHRA champion Logano wins. Sadler hurts Nationwide chances Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Dean Mouhtaropoulos / Getty Images Altidore back in U.S. team plans
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Adrian Dennis / AFP - Getty Images Chelsea: Players heard ref's slur
     
-    Jozy Altidore's mature response to last month’s omission surely was part of the reason Jurgen Klinsmann turned back to the AZ Alkmaar striker for the latest roster, which was released Monday morning.
+    Chelsea went public for the first time Tuesday with detailed racial abuse allegations against a referee, insisting there was no misunderstanding and that its players heard Mark Clattenburg use the word "monkey'' during a Premier League match.
     
-    Dynamo strike first Highlights of Dynamo's victory Bruin propels Dynamo to win PST: Ranking four remaining MLS goalkeepers Roundup: Messi passes Pele's goals in one year Ronaldo forced out of game with head injury Terry hurt after scoring in Chelsea return Injured Rooney out of England squad vs. Sweden Ad
+    Pele recovering from surgery in Brazil Altidore back in U.S. team plans PST: Galaxy shuts out Sounders Dynamo strike first Highlights of Dynamo's victory Bruin propels Dynamo to win PST: Ranking four remaining MLS goalkeepers Roundup: Messi passes Pele's goals in one year Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Beljan completes amazing fairy-tale win at Disney
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Lewis the first American to win POY since 1994
     
-    Two days after being hospitalized for a mysterious ailment, Charlie Beljan won the Children's Miracle Network Hospitals Classic at Disney.
+    As the LPGA wraps up its season, Stacy Lewis has already wrapped up POY - the first time for an American since 1994.
     
-    Bubble watch from Disney finale Rory wins Euro money title, youngest in 32 years PGA Tour Player, Rookie of the Year ballots sent out Beljan's next goal? A practice round with Tiger What We Learned: Beljan wins Disney Beljan continues huge rise in OWGR, up to 159th Faldo doesn't believe Woods will catch Nicklaus Quotes of the Week Tips for adding more distance to your tee shots Ad
+    McIlroy wins PGA Player of Year, Vardon Trophy Most surprising player outside top 125? G-Mac: Research shows long-putter advantage Beljan's next goal? A practice round with Tiger Notes: Woods not considered for Comeback Player Beljan completes amazing fairy-tale win at Disney Rory wins Euro money title, youngest in 32 years Quotes of the Week LPGA Championship returning to Locust Hill in '13 Tips for adding more distance to your tee shots Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Andy Clayton King / AP Lochte, Franklin impress in Minnesota
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Mark Blinch / Reuters Eaton, Felix honored as top U.S. track athletes
     
-    Gold medalists Ryan Lochte and Missy Franklin had presumably spent more time shooting scenes for TV teen dramas than actually swimming since the London Games, but neither seemed too affected by the time off at this weekend’s Minnesota Grand Prix.
-    
-    Myhrer wins World Cup slalom Chan, Korpi win gold at Rostelecom Cup OlympicTalk: Lolo scores silver in bobsled debut Windsurfing stays in Olympics over kiteboarding Myhrer wins World Cup slalom premier in Finland Franklin is double winner at Minneapolis swim meet Russia's Zubkov wins WC 4-man. Holcomb of US 2nd Hoefl-Riesch wins WCup slalom. Shiffrin of US 3rd Ad
+    Vonn being tested for 'severe intestinal pain' Indian athlete declared male after rape claim Lochte, Franklin impress in Minnesota Myhrer wins World Cup slalom Chan, Korpi win gold at Rostelecom Cup OlympicTalk: Lolo scores silver in bobsled debut Windsurfing stays in Olympics over kiteboarding Myhrer wins World Cup slalom premier in Finland Ad
 *   More
-    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Elizabeth Kreutz / AP Armstrong cuts ties to Livestrong
+    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Franck Fife / AFP - Getty Images Vonn has 'severe intestinal pain'
     
-    Lance Armstrong has cut formal ties with his cancer-fighting charity to avoid further damage brought by doping charges and being stripped of his seven Tour de France titles.
+    Lindsey Vonn remains hospitalized in Colorado with "severe intestinal pain" that has been affecting her for the past two weeks.
     
-    Vonn hospitalized with undisclosed illness Djokovic, Federer reach ATP final The Week in Sports Pictures North Carolina QB sets prep mark in 104-80 win Wladimir Klitschko retains heavyweight belts Mares beats Moreno, defends 122-pound title Tour champ Wiggins released from hospital Dan Patrick: Utah girl a star in youth football Ad
+    Djokovic, Federer reach ATP final Stanford runner to pull off remarkable double Armstrong cuts ties to Livestrong The Week in Sports Pictures North Carolina QB sets prep mark in 104-80 win Wladimir Klitschko retains heavyweight belts Mares beats Moreno, defends 122-pound title Tour champ Wiggins released from hospital Ad
 
 *   Scores
 *   Odds
