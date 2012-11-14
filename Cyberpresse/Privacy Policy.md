@@ -1,4 +1,4 @@
-JavaScript doit être activé pour utiliser ce site. Découvrez Ma Presse Me connecter Pour utiliser cette fonction, vous devez être membre Ma Presse UTILISEZCONNECTEZ-VOUS Nom d'utilisateur ou courriel Mot de passe Se souvenir de moi Me connecter
+JavaScript doit être activé pour utiliser ce site. Découvrez MA Presse Me connecter Pour utiliser cette fonction, vous devez être membre MA Presse UTILISEZCONNECTEZ-VOUS Nom d'utilisateur ou courriel Mot de passe Se souvenir de moi Me connecter
 
 *   J'ai oublié mes informations
 *   Aide
@@ -11,7 +11,7 @@ Facebook
 
 L'utilisation de Facebook sert uniquement à simplifier votre inscription.  
   
-Aucune de vos activités sur Ma Presse ne sera partagée sur votre page Facebook sans votre consentement.
+Aucune de vos activités sur MA Presse ne sera partagée sur votre page Facebook sans votre consentement.
 
 Accessible sur lapresse.ca et La Presse Mobile, MA Presse est votre espace personnel  
 où sont regroupées vos activités effectuées sur l'un ou l'autre de nos produits numériques.
