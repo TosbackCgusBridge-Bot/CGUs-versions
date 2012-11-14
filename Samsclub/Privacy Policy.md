@@ -143,6 +143,8 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         
         Baby Mobile
         
+        Baby Blankets
+        
         Baby Feeding
         
         Baby Formula
@@ -188,8 +190,6 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         High Chairs &. Boosters
         
         Strollers &. Travel Systems
-        
-        Baby Health &. Safety
         
         **See All**
 *   Electronics
@@ -1100,23 +1100,25 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         
         Video Games
         
-        Playstation 3
-        
         Microsoft Xbox 360
         
-        Nintendo Wii
+        Wii U
+        
+        Playstation 3
         
         PS Vita &. PSP
         
-        Nintendo DS &. 3DS
+        Nintendo Wii
         
-        Value Video Games
+        Nintendo DS &. 3DS
         
         Skylanders Specials
         
-        Great Offers for the Holiday
+        Value Video Games
         
         Game Furniture
+        
+        Great Offers for the Holiday
         
         Playstation 2
         
@@ -1157,8 +1159,6 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         Recreation Rooms
         
         Game Tables
-        
-        Game Room Furniture
         
         **See All**
 *   Holiday
