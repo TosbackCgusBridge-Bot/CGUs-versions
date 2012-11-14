@@ -26,10 +26,10 @@ My Account
     *   Digital Cameras
     *   Coffee Makers
     *   Camcorders
-    *   Radio Shack
-    *   At
     *   Tax
+    *   Radio Shack
     *   Sears
+    *   At
     *   Discount Tires
     *   Www.yahoo.com
     *   Contact
@@ -37,14 +37,14 @@ My Account
     *   Costco
     *   Leappad
     *   Flowers
+    *   T Mobile
     *   Pressure Cookers
     *   North Face Jackets
     *   Ipod
-    *   T Mobile
     *   Android Tablets
     *   Barnes And Noble
     *   Value City Furniture
-    *   Coupons
+    *   Gift
     *   More Top Searches
 *   Coupons See all coupons See all rebates
 *   Mobile Apps
@@ -61,7 +61,7 @@ Shop by Department
     *   Microwave Ovens
     *   Dishwashers
     *   Heaters
-    *   Other Small Kitchen Appliances
+    *   Fireplaces
     *   See More...
 *   Auto Parts Shop Auto Parts
     *   Auto Tires
