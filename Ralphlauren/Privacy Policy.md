@@ -1,6 +1,5 @@
 MY ACCOUNT   /   SHOPPING BAG \[0\]  
-Complimentary Shipping  
-Through November 12
+Complimentary Shipping Over $195
 
 *   Men
     *   Shop All Brands
