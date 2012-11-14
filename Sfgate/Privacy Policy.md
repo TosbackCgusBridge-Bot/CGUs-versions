@@ -1,6 +1,6 @@
 (skip this header)
 
-Tuesday Nov 13, 2012 5:05 AM PT
+Wednesday Nov 14, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,12 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Coolest Guy in the World noms
-*   Elmo puppeteer allegations
-*   'Tourist Trapped': City Target
-*   Another nude-in set
-*   Baldwin stalker’s tweet
+*   Nudists prep for suit
+*   Fiscal cliff could cost you
+*   Fieri slammed by NYT
+*   Pelosi to announce plans
+*   World's best waiter
+*   Great Bay Area soups
 
 *   Bay Area &. State
 *   Nation
@@ -339,45 +340,45 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Allen Crabbe scores 33 as Cal rolls
+*   Muddy Daly City cleanup under way
+*   Pakistani Hindus celebrate Diwali
+*   Scenes of an eclipse from Down Under
+*   Nation in Focus
+*   World in Focus
+*   Then and now photgraphy
+*   The Petraeus affairs
+*   Diwali, The Festival of Lights
+*   Solar Eclipse over Australia
+*   Day in Pictures, Nov. 13, 2012
+*   Six resorts to open
+*   Glamour Women of the Year Awards 2012
+*   Start-Ups: Silicon Valley reality show
+*   Belcampo Meat Co.
+*   'The Twilight Saga: Breaking Dawn - Part 2' premiere
+*   Great soups 11/13/2012
 *   San Francisco Foreclosures
 *   Flashback! Last Week's Concerts 11/12/12
 *   Stanford pulls away from Fullerton
 *   Nation in Focus
+*   Harbaugh talks to high school coaches
 *   World in Focus
 *   The strangest baby shower cakes ever
 *   Nation in Focus
 *   Sandy-NYC
 *   Victoria's Secret Fashion Show 2012
-*   Week 10: 49ers vs. Rams
 *   Ridiculous excuses for calling in sick
 *   Selena Gomez &. Justin Bieber
 *   The Thomas
 *   Day in Pictures, Nov. 12, 2012
 *   Patriotic Homes
 *   Cool Hall of Fame
+*   Week 10: 49ers vs. Rams
 *   MTV EMAs 2012: Red carpet
 *   MTV EMAs 2012: Show moments
 *   The worst athlete-turned-musician songs of all time
 *   Oregon powers past Cal
 *   Warriors defeated in double overtime
-*   Texas A&M defeats No. 1 Alabama
-*   Stanford defeats Oregon State 27-23
-*   Waiting for Obama
-*   Nation in Focus
-*   World in Focus
-*   Flugtag back in S.F. with flying colors
-*   Protesters march for more freedom in Tibet
-*   Prop. 30 OK doesn’t stop student protests
-*   Nation in Focus
-*   Javier Bardem gets Walk of Fame star
-*   Demi Moore turns 50
-*   Pakistani Transgenders
-*   Dior Homme party
-*   'Lincoln' premiere at AFI Fest 2012
-*   50 Shades of Grey baby onesies
-*   China Prepares for New Leadership
-*   Day in Pictures, Nov. 9, 2012
-*   Favorite dishes 11/9/2012
 
 *   Most Read
 *   |
@@ -385,52 +386,54 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  General investigated for emails to Petraeus friend
-2.  Murder-suicide eyed in deaths of 5 in Ohio garage
-3.  Jeremy Affeldt to re-sign with Giants
-4.  Karlie Kloss’ appearance pulled from Victoria’s Secret Fashion Show
-5.  Software pioneer sought in Belize slaying
-6.  Oxford chooses 'omnishambles' as word of the year
-7.  49ers' Kaepernick is loaded for Bears
+1.  Jerramy Stevens released in domestic violence case involving Hope Solo
+2.  Tulsa dad arrested after toddler found in cage
+3.  If they want to secede, let 'em
+4.  Muni passenger slashed on bus in Haight
+5.  Twilight of the old white guys
+6.  Fla. socialite at center of general's sex scandal
+7.  Giants like chances to resign Scutaro
 
-1.  Warming study forsees state water shortage
-2.  Friend: Petraeus began affair after taking CIA job
-3.  California left behind on pot, marriage
-4.  Congress wants answers from FBI, CIA on Petraeus
-5.  Elmo puppeteer accused of underage relationship
-6.  GOP's state losses hint at national fate
-7.  49ers, Rams tie. Alex Smith hurt
+1.  Fiscal cliff: What it could cost you?
+2.  Prop. 30 funds for UC will go to Wall Street
+3.  Supermajorities have host of options
+4.  General investigated for emails to Petraeus friend
+5.  States now must make call on Obamacare
+6.  Scandal widens in probe of top US general's emails
+7.  Twilight of the old white guys
 
-1.  Software pioneer sought in Belize slaying
-2.  Oxford chooses 'omnishambles' as word of the year
-3.  Family violence reports in S.F. soaring
-4.  Take it easy on Thanksgiving with takeout
-5.  Oxford chooses 'omnishambles' as word of the year
-6.  China seeks to stem environmental protests
-7.  New iPhone 5 News, Updates and Apps Reported at NewiPhone5News.com
+1.  Prop. 30 funds for UC will go to Wall Street
+2.  Belize police urge software founder to appear
+3.  States now must make call on Obamacare
+4.  How Lender Overlays Prevent Mortgages
+5.  Samsung Galaxy S3 Black Friday 2012 Deals: Great Deals Galaxy S3 Black Friday Deals
+6.  How to Talk Like a San Franciscan
+7.  'Smart glass' windows the cool new thing
 
 loading... Latest News Videos From our homepage
 
 *     
-    Chris O'Meara / AP
+    Paul Chinn, The Chronicle / SF
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 3:40 a.m., Tuesday, November 13, 2012 Petraeus scandal widens
+    Street covered in deep mud
     
-    Pentagon investigates Gen. John Allen for contact with Jill Kelley.
+    Broken Daly City water main sends 45K gallons spewing down hill, prompting evacuations. Photos
     
-*   House leader informed Oct. 27
 
 *     
-    Courtesy Of 7 Belize News / SF
+    JOSHUA TRUJILLO / SEATTLEPI.COM
     
-    McAfee sought in slaying
+    Seattle Post-Intelligencer Copyright 2012 Seattle Post-Intelligencer. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 7:41 p.m., Tuesday, November 13, 2012 Solo's wedding day in court
     
-    Belizean cops searching for the software pioneer in the fatal shooting of an American.
+    U.S. goalkeeper appears in domestic violence case involving former Seahawks player.
     
 
-*   Victoria's Secret pulls outfit
+*     
+    Keystone, Laurent Gillieron / AP
     
-    Broadcast of annual fashion show edited after criticism of 'Thanksgiving' getup. Photos
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 5:03 p.m., Tuesday, November 13, 2012 Huge diamond fetches record
+    
+    Winning bidder will donate the Archduke Joseph Diamond, which is a flawless 76.02 carats. Photos
     
 
 *   Home
