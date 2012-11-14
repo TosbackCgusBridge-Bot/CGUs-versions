@@ -1059,7 +1059,7 @@ Site Map
 
 **SIGN UP FOR OUR EMAIL -** more info
 
-Order By Phone: 888.365.0056 | Open 8:00am - 12:00am ET Monday through Friday, 8:30am - 11pm ET on weekends and holidays .  
+Order By Phone: 888.365.0056 | Open 24 Hours a day - 7 Days a Week.  
 ©2011 UncommonGoods L.L.C. | 140 58th Street Building B Suite 5A Brooklyn NY 11220 | Made in NYC
 
 Choose one or more options below to find your perfect gift.
