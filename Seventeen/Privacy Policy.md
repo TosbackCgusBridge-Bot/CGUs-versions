@@ -17,7 +17,7 @@ Try: Cool Nails Dating Advice Homecoming Dresses
 *   Traumarama
 *   Share Your Thoughts
 
-Enter the Fiction Contest (and Win $5K!)
+Share Your Story for the Mag!
 
 *   Shopping
 *   Celeb Makeovers
@@ -39,7 +39,7 @@ The Ultimate Girls' Gift Guide
 *   Beauty Videos
 *   Get Beauty Advice
 
-Fall Beauty Must-Haves
+Ashley Greene's Many Looks
 
 *   Celebrity News
 *   One Direction News
@@ -98,17 +98,17 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     30 Ways To Save Money Over Winter Break
 *   entertainment
     
-    Last Day To Win &. Meet One Direction!
+    Exclusive Ashley Greene Interview
 *   fashion
     
-    Holiday Outfits Under $50
+    Best Dressed at the BD2 Premiere!
 *   love
     
     Our Crush of the Week!
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win Victoria's Secret PINK body mist in Pretty &. Pure. Type in the Freebie Phrase of the Day, found in the November Issue!
+**1 Winner!** Enter for a chance to win Lady Gaga's sultry fragrance, Fame. Type in the Freebie Phrase of the Day, found in the November Issue!
 
  enter now 
 
