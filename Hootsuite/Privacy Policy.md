@@ -63,9 +63,14 @@ Any questions about this Privacy Policy should be addressed to HootSuite Twitter
 Vancouver, BC, Canada  
 V6A 3A3
 
-From the HootSuite Blog Social Media’s Role in the 2012 US Election: Obama Breaks Twitter Records
+From the HootSuite Blog New Facebook Features in HootSuite: Social Media Management Made Easier
 
-It looks like President Barack Obama won in more than one way yesterday. The Democratic...  
+Marketers and Social Media Managers, your Facebook engagement is about to get a lot smarter....  
+Read More
+
+Owls Flying East ~ 中國媒體眼中的HootSuite互隨中國
+
+The following is a news roundup of HootSuite’s Chinese release written by HootSuite Community Ambassador, Crystal...  
 Read More
 
 #HootTip: Managing Conversations within your dashboard.
@@ -76,11 +81,6 @@ Read More
 New Webinar with the City of New York – Social City
 
 In the city that never sleeps, neither does social, which is why HootSuite is...  
-Read More
-
-The Business of Social ~ Q &. A with HootSuite VP and Webinar Now Available on Demand
-
-In response to demand on one of our most popular webinars to date, ‘The Business of...  
 Read More
 
 About Company Leadership Careers Contact Us Product Features Mobile App Directory Downloads Pricing Services HootSuite University Help Desk Feedback FAQ Translation Project Media Media Kit Press Releases Events Partner Becoming a Partner Solution Partners Integration Partners Affiliates API Legal Terms &. Conditions Privacy Policy ©2012 HootSuite Media Inc. All Rights Reserved. Language: Chinese Traditional (繁體中文)EnglishFrench (Français)German (Deutsch)Indonesian (Bahasa Indonesia)Italian (Italiano)Japanese (日本語)Polish (Język polski)Português (Brasil)Spanish (Español)
