@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Tuesday 13 November 2012
+Wednesday 14 November 2012
 
 *   Home
 *   News
@@ -142,11 +142,13 @@ For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Positive leadership key to an England win  
+Clegg's not going to help  
 
-**Shane Warne** suggests a five-point plan to help England win in India.
+Mothers want to be able to afford to spend more time with their children – this requires changes in the tax system, argues **Jill Kirby.**
 
-T S Eliot's widow was the last of her kind Amazon's Xmas warehouse: sneak peek Window on Fortnum &. Mason's world 'For me, earnestness is the greatest crime' Advertisement
+Comments
+
+India is the perfect stage for Alastair Cook Chinese village 'in shadow of cancer' China's love affair with England Michael Parkinson's TV return: review Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
@@ -156,13 +158,12 @@ Back to top
 
 Hot Topics
 
-*   Barack Obama
+*   BBC
 *   Jimmy Savile
 *   Syria
 *   Weather
 *   Football
 *   Rugby Union
-*   Victoria's Secret
 *   Wonder Women
 *   More...
 
