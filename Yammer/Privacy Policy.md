@@ -11,15 +11,10 @@
     *   Yammer Platform
     *   Feature List
 *   Business Benefits
-    *   Executives
-    *   Sales
-    *   IT
-    *   Human Resources
-    *   Communications
-    *   Marketing
-    *   Customer Service
-    *   Research &. Development
-    *   Professional Services
+    *   Team Collaboration
+    *   Employee Engagement
+    *   Business Agility
+    *   Social Intranet
 *   Enterprise IT
     *   Security
     *   Deployment
@@ -231,6 +226,6 @@ Contact Sales To discuss pricing, security, and to request additional materials,
 *   Phone Number\*
 *   Comments\*
 
-*   Name This field is for validation purposes and should be left unchanged.
+*   Phone This field is for validation purposes and should be left unchanged.
 
 ×
