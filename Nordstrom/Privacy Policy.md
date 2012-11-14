@@ -354,7 +354,8 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     
     *   Women's Brands
     *   Clothing
-    *   Plus Sizes
+    *   Plus
+    *   Petite
     *   Shoes
     *   Accessories
     *   Beauty &. Fragrance
