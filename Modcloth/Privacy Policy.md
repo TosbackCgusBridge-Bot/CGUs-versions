@@ -239,9 +239,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Hit the Slopes: Vintage Ski Inspiration for Winter
-    *   Announcing the Winner of Make the Cut: ‘Swatch’ It Up
-    *   ModCloth + Mobile Devices =
+    latest blog posts*   Office Sneak Peek: Street Artist Becca for ModCloth’s New LA Digs
+    *   Thank Pinterest For A Fantastic Thanksgiving!
+    *   Hit the Slopes: Vintage Ski Inspiration for Winter
     
     *   modcloth blog
     *   In Other Words
@@ -253,7 +253,7 @@ ModCloth Customer Care Hello,
 
 *   Help
 *   *   Our Guarantee
-    *   Fit &. Form Details
+    *   Size &. Fit Guide
     *   Holiday Shipping
     *   Shipping Information
     *   International Shipping
