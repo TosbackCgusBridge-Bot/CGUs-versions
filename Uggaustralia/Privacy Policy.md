@@ -53,15 +53,12 @@ Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and mor
         *   Travel
         *   View All
     *   Accessories
-        *   Tech Accessories
-        *   Wallets and Small Leather Goods
-        *   View All
-    *   Cold Weather Accessories
         *   Hats
         *   Gloves &. Mittens
         *   Scarves and Wraps
         *   Earmuffs
         *   Tech Accessories
+        *   Wallets and Small Leather Goods
         *   View All
     *   Holiday Collection
     *   The I Do Collection
