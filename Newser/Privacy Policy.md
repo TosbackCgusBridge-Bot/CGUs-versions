@@ -2,7 +2,16 @@
 
 *   What's New
 *   Hot Topics
-    
+    *   strange stuff
+    *   Election 2012
+    *   David Petraeus
+    *   entertainment
+    *   Paula Broadwell
+    *   David Petraeus...
+    *   Jill Kelley
+    *   Hurricane Sandy
+    *   President Obama
+    *   celebrity
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -110,63 +119,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   How Cheap Will Legal Marijuana Be in Colorado and...
-*   Beating Back the War on Judges
-*   The Negroni
+*   General Confusion
+*   Microsoft Just Lost Its Steve Jobs
+*   How Jimmy Fallon Gets Such Great Musical Guests
 
 More from Slate »
 
-*   Russians, Ukranians Dominate World Pole Dancing Championship
-*   LOOK: Cleaner Says Virgin Mary Appears On Hospital Window
-*   Teen On Cellphone Steps In Rattlesnake Nest
+*   HUSBAND ALLEGEDLY USES GPS TO FIND TEACHER HAVING SEX WITH...
+*   Thief Steals From Good Samaritan Tending To Car Crash...
+*   World Pole Dancing Championship
 
 More from HuffPost Weird »
 
-*   The 13 Weirdest SubReddits On Reddit
-*   Lindsay Lohan Snubs Barbara Walters For Jay Leno
-*   Newlyweds Justin Timberlake &. Jessica Biel Volunteer With...
+*   Catherine Zeta-Jones Opens Up About Her Bipolar Disorder
+*   Woot! Beyonce Is Back In The Record Studio!
+*   No Abortion Access? You’re At Increased Risk For Poverty
 
 More from The Frisky »
 
-*   Young woman whose parents were killed by Hurricane Sandy...
-*   Top eight reasons to never do housework again. 9) You're...
-*   So, you think you want to be a prostitute. Well, honey,...
+*   People don't want a cell phone tower built in their...
+*   It really sucks when a coworker discovers a cellphone...
+*   The latest device in the police force's arsenal:...
 
 More from Fark »
 
-*   The David Petraeus affair: A comprehensive timeline
-*   It's time for the GOP to cut a deal on immigration
-*   Petraeus: The serious, unanswered questions
+*   The David Petraeus affair: A comprehensive timeline...
+*   What the heck, FBI?
+*   5 thoughts about the Petraeus affair we're not supposed to...
 
 More from The Week »
 
-*   John Kerry Is Losing His Campaign to Be Secretary of State
-*   New York’s Power Is Mostly Fixed, Except Where It Isn’t
-*   Today Producer Behind Firing of Ann Curry Is Getting the...
+*   Newt Gingrich Laments Lack of Billionaire Buddies on the...
+*   Chris Christie’s Okay With Tax Hikes in a Disaster
+*   Frank Rich on Maddow: Even Petraeus Scandal Won’t Draw...
 
 More from Daily Intel »
 
-*   Ask Healthy Living: Is There A 'Wrong' Way To Eat Fruit?
-*   High Blood Pressure: A Highly Controllable Risk Factor That...
-*   Lost and Found in Menopause
+*   How Nutrition Experts _Really_ Snack
+*   Twelve Tips for Better Sleep
+*   Horses and Health Promotion: Of Carrots, Sticks, and...
 
 More from HuffPost Health »
 
-*   ‘Breaking Dawn -- Part 2’ Premiere: Join Celebuzz for Live...
-*   ‘Twilight Saga: Breaking Dawn – Part 2′: Robert Pattinson...
-*   'Twilight Saga: Breaking Dawn – Part 2': Kristen Stewart...
+*   'Breaking Dawn - Part II' Premiere: Which 'Twilight' Hunk...
+*   Donald Trump’s Attorney Fires Back at Petitioners Trying to...
+*   Kourtney Kardashian and Scott Disick Kiss on the Streets of...
 
 More from Celebuzz »
 
-*   Woman Allegedly Runs Over Husband for 'Helping' to Re-Elect...
-*   'Breaking Dawn 2' L.A. Premiere: 5 Most SHOCKING Quotes!...
-*   'Real Housewives of Beverly Hills' Recap: Taylor Armstrong...
+*   Young Pregnant Woman Dies After Hospital Refuses Her a...
+*   Choosing Motherhood Over Career
+*   Is Mila Kunis Having Ashton Kutcher's Baby?
 
 More from The Stir »
 
-*   The Spot: FedEx's Package Deal
-*   Small Roberts + Langer Packs A Big Punch
-*   Putting Brands In Their Place
+*   Nick Brien Out as McCann Worldgroup CEO
+*   Deal-Hungry Shoppers Rewards Brands for Holiday Offers
+*   Ad of the Day: Red Bull
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
