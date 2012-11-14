@@ -5,15 +5,15 @@ Register Sign in Welcome, Logout
 *   Hot Topics
     *   Hot Topics
         *   Barack Obama
-        *   2012 Elections
-        *   Fiscal cliff
-        *   From the Wires
-        *   Mitt Romney
-        *   Republican Party
         *   David Petraeus
-        *   Republicans
-        *   Books
-        *   FBI
+        *   Paula Broadwell
+        *   2012 Elections
+        *   From the Wires
+        *   Fiscal cliff
+        *   Jill Kelley
+        *   Mitt Romney
+        *   One request for President obama
+        *   TV
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -194,29 +194,29 @@ About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service 
 
 Take Salon on the go – download our free app now
 
-Current Stories Oxford American Dictionary names "GIF" word of the year
+Current Stories Did bath salts push John McAfee to murder?
 
-News. "GIF" as a verb "has evolved ... into a tool with serious applications"
+News. The anti-virus software genius is on the lam in Belize, where a drug addiction may have driven him insane
 
-New group: America's youth cry out for sensible, moderate deficit reduction
+Dear Mr. President: Please junk Race to the Top
 
-Politics. Pete Peterson's hip new front group pretends the youth believe in austerity -- and lower taxes for the rich
+Politics. Turn our schools into launch pads for kids' minds, and be involved, you big nerd
 
-In defense of Taylor Swift
+Mel Brooks: "The only weapon I've got is comedy"
 
-Entertainment. A master of quirky pop sincerity, she wouldn't be as ridiculed — or as successful — if she were a guy
+Entertainment. How did the iconic comic become the king of unmakable jokes? "The job was open," he says. "Nobody was doing it"
 
-Psychic change or con job?
+Should I quit academe?
 
-Life. I left an abusive husband. Now he's acting like a new man -- or is he just trying to win me back?
+Life. I own a cottage. I could go live there and work in a cafe. You think I should?
 
 Most Read
 
-*   5 newscasters who humiliated themselves on-air Bryan Le, The Fix
-*   Bush adviser threatens to cut out Republicans' tongues Jillian Rayfield
-*   Hello, Mr. President? It's me, Roger Ebert Roger Ebert
-*   How Bill Kristol could split the GOP in two Steve Kornacki
-*   Elmo voice actor accused of having sex with teenage boy Prachi Gupta
+*   Gallup is very upset at Nate Silver Andrew Leonard
+*   Anne Lamott: My secret little prayer Anne Lamott
+*   Dear angry white conservatives: Chill out Chauncey DeVega, Alternet
+*   Obama's "grand bargain"-ing leverage Robert Reich, ROBERTREICH.org
+*   PSA: Gay men will marry your girlfriends Prachi Gupta
 
 Voices
 
