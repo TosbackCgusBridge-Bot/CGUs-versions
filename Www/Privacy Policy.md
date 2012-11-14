@@ -1,4 +1,4 @@
-Amazon
+Amazon Join Prime
 
 *   Your Amazon.com
 *   Today's Deals
@@ -142,7 +142,7 @@ Examples of information you can access easily at Amazon.com include up-to-date i
 
 *   Track or Manage Purchases
 *   Manage Payment Options
-*   Return or Replace Items
+*   Return Items
 *   Change Name, E-mail, or Password
 *   Manage Address Book
 *   Manage Your Kindle
@@ -198,9 +198,9 @@ Answers Audible
 Download  
 Audio Books BeautyBar.com  
 Prestige Beauty  
-Delivered   Book Depository  
+Delivered Book Depository  
 Books With Free  
-Delivery Worldwide CreateSpace  
+Delivery Worldwide   CreateSpace  
 Indie Publishing  
 Made Easy Diapers.com  
 Everything  
@@ -214,11 +214,11 @@ Movies, TV
 Shop Online  
 in India MYHABIT  
 Private Fashion  
-Designer Sales   Shopbop  
+Designer Sales Shopbop  
 Designer  
 Fashion Brands Soap.com  
 Health, Beauty &  
-Home Essentials Wag.com  
+Home Essentials     Wag.com  
 Everything  
 For Your Pet Warehouse Deals  
 Open-Box  
@@ -228,7 +228,11 @@ Give You Up Yoyo.com
 A Happy Place  
 To Shop For Toys Zappos  
 Shoes &  
-Clothing   Conditions of Use Privacy Notice Interest-Based Ads © 1996-2012, Amazon.com, Inc. or its affiliates Start your free trial and join millions of Amazon Prime members who enjoy:
+Clothing Vine.com  
+Everything  
+to Live Life Green Casa.com  
+Kitchen, Storage  
+&. Everything Home   Conditions of Use Privacy Notice Interest-Based Ads © 1996-2012, Amazon.com, Inc. or its affiliates Start your free trial and join millions of Amazon Prime members who enjoy:
 
 Prime Instant Videos
 
@@ -243,6 +247,8 @@ Kindle Owners' Lending Library
 Borrow from over 180,000 titles for free
 
 \>. Get started
+
+Watch. Read. Shop. Relax. Millions of Amazon Prime members enjoy instant videos, free Kindle books and unlimited free two-day shipping. >. Get started
 
 *   Unlimited Instant Videos
 *   Prime Instant VideosUnlimited streaming of thousands of  
@@ -325,7 +331,6 @@ Borrow from over 180,000 titles for free
 *   Music
 *   MP3 Downloads
 *   Musical Instruments
-*   Entertainment Collectibles
 *   Video Games
 *   Game Downloads
 
@@ -381,7 +386,6 @@ Borrow from over 180,000 titles for free
 *   Clothing (Kids &. Baby)
 *   Video Games for Kids
 *   Amazon Mom20% off diapers, free shipping and more
-*   Baby Registry
 
 *   Clothing, Shoes &. Jewelry
 *   Clothing
@@ -467,3 +471,5 @@ View Cart (0 items) (0 item) (0 items)
 *   Wish from Any WebsiteAdd items to your List from anywhere
 *   Wedding Registry
 *   Baby Registry
+*   Kids' Birthdays
+*   Friends &. Family Gifting
