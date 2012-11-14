@@ -1,74 +1,74 @@
 Skip Navigation
 
-*   Nearly Half of Single-Parent Families Live in Poverty
-*   Ambition: The Great Disruptor
-*   A Little Idea That Turned Into a Billion-Dollar Business
-*   Do Prestigious Residencies Mean Better Doctors?
+*   The Economics of Dog Ownership
+*   U.S. Official Says General Allen Did Nothing Wrong
+*   A Council of Psychological Advisers
+*   Sponsor Content Infographic: Using Data to Keep the Peace
 
 *   Politics
     *   Top Stories
-    *   Move Over Economists: We Need a Council of Psychological Advisers
-    *   Karen Hughes' Bad Advice for the GOP
-    *   Why Women Rule New Hampshire
-    *   Which Conservative Think Tanks Was David Petraeus Courting?
-    *   The Sort of Tone-Deaf Immigration Rant That Kills Conservatives
-    *   My Secret Strategy™ for Avoiding Petraeus-Style Email Pitfalls
+    *   The End of Evangelical Dominance in Politics
+    *   U.S. Official Defends General Allen
+    *   The Right: Tone Deaf on Immigration
+    *   Why Republicans Are Suddenly Pro-Immigration Reform
+    *   What High School Taught Millennials About the War on Terrorism
+    *   Can Obama Community-Organize His Way to a Debt Deal?
 *   Business
     *   Top Stories
-    *   How Mitt Romney Can Save Us From the Fiscal Cliff
+    *   Zara's Big Idea
+    *   No, We're Not the Next Saudi Arabia
     *   What Is Spotify Worth?
-    *   What the Fiscal Cliff Means for Jobs, in 1 Chart
-    *   The Next Trillion-Dollar Stimulus? It's Immigration Reform
-    *   It's Not a Fiscal Cliff, It's a Fiscal Fast
-    *   The Fiscal Cliff Explainer: What It Is, Where It's From, Who Will Pay, and Why It Matters
+    *   The Long Story of U.S. Debt, From 1790 to 2011, in 1 Little Chart
+    *   The End of the Pledge: How Democrats Can Finally Beat Grover Norquist
+    *   The Dog Economy Is Global—but What Is the World's True Canine Capital?
 *   Tech
     *   Top Stories
+    *   Google: 'Government Surveillance Is on the Rise'
+    *   Watch This Year's Only Total Solar Eclipse Streaming Live
     *   The Places Where America's Drones Are Striking, Now on Instagram
-    *   How Email Location Data Outed Petraeus
-    *   Cast Your Vote for Charles Darwin!
+    *   Today Is the Release Day for a Video Game Featuring David Petraeus
+    *   Petraeus and Broadwell Used Their Counterterrorism Expertise to Hide Their Affair
     *   An Amazon Engineer Had a Little Idea That Turned Into a Billion-Dollar Business
-    *   How Teachers Will Use E-Readers to Catch Cheaters
-    *   'Scapple': Very Interesting New Software From the Creator of Scrivener
 *   National
     *   Top Stories
-    *   This Year, a Veterans Day Like None Other Before
+    *   The 50-Year Farm Bill
+    *   D.C.'s Culture of Flirtation
     *   After Sandy, Fire and Ice in Queens
-    *   A Challenge to the Voting Rights Act
+    *   Festival of Found Art
     *   The False Promise of Armistice Day: A Veteran Looks Back
     *   The Growing Costs of Natural Disasters
-    *   Media Wrap-Up: Moyers, Petraeus, Kaplan, Juneau
 *   Global
     *   Top Stories
-    *   Pinned Down in Afghanistan: The Ill-Fated Battle for Hill 2610
-    *   When Leaders Die in Battle
-    *   The Incredible, Shrinking Modern Military
-    *   The Intelligence Community's Gigantic Blind Spot
-    *   The Real David Petraeus Scandal
-    *   You Crazy Dictator: Bread and Circuses in Turkmenistan
+    *   Myopia: How Counter-Terrorism Has Blinded Our Intelligence Community
+    *   Vladimir Putin Forms His Own Human Rights Council
+    *   The Chinese Party Congress: For New Ideas, Look to the Younger Guys
+    *   Meet the Leading Contender to Replace David Petraeus at the CIA
+    *   'I Am Not al-Qaeda. When We Kill Bashar, I Will Shave Off My Beard'
+    *   'We Are Legion': How Anonymous Became a Global Political Force
 *   Health
     *   Top Stories
     *   High-Fiber Pepsi: Choice of a New, Weird Generation
+    *   A Bionic Hand for Every Occasion
     *   Do Prestigious Residencies Mean Better Doctors?
-    *   Health Professionals in Detainee Interrogation
-    *   The Top Ways We Injure Our Genitals
-    *   Study: Farm Stank Is Bad for Your Health
-    *   It's Not Too Early to Talk About Freezing Your Eggs
+    *   A Few Things to Consider Before Eating Wild Mushrooms
+    *   How to Get Americans to Eat Fish
+    *   Study: In Macular Degeneration, iPads Are Better Than Print
 *   Sexes
     *   Top Stories
-    *   Veterans Twice as Likely to Cheat on Their Spouses
-    *   Why Are So Many Single-Parent Families in Poverty?
-    *   Obama Shows, Once Again, That Crying Is for Winners
-    *   Why Petraeus's Affair Matters (but Bill Clinton's Didn't)
-    *   Why Demographics Can't Fully Predict How People Vote
-    *   Women Are Not a Unified Voting Bloc
+    *   Nancy Pelosi Became House Minority Leader 10 Years Ago: What's Changed?
+    *   5 Steps to Avoiding Having an Affair
+    *   Why Petraeus's Affair Matters
+    *   Why Do Some Feminists Get Uneasy When Women Make Progress?
+    *   The Upside to 'Girly' TV Shows: They Understand That Women Struggle
+    *   Veterans Twice as Likely to Cheat on Their Spouses as Non-Veterans
 *   Entertainment
     *   Top Stories
-    *   About That 'Exploding Pen': A Guide to 'Skyfall' Homages
-    *   The First Football Pro Wasn't Just First. He Was Great
-    *   'Besos, Frida': Letters From Artists to Friends and Families
+    *   The Lakers' Coach Drama: Been There, Done That
+    *   How the World Series Could Eclipse the Super Bowl
+    *   Hilariously Harsh Early Reviews of Classic Albums
+    *   Rihanna's Agency
+    *   Could 'Skyfall' Be James Bond's First Real Shot at the Best-Picture Oscar?
     *   Track of the Day: '(Tonight) We Burn Like Stars That Never Die'
-    *   Fact-Checking 'Lincoln': Lincoln's Mostly Realistic. His Advisers Aren't
-    *   James Bond's New, Not-So-Progressive Mommy Complex
 *   Magazine
     *   In This Month's Issue
     *   Our 2012 Brave Thinkers List
@@ -88,7 +88,7 @@ Skip Navigation
 *   Video
 *   Photo
 *   Newsletters
-*   Track of the Day: '(Tonight) We Burn Like Stars That Never Die'Ryan Burleson
+*   Why Republicans Are Suddenly Pro-Immigration ReformMolly Ball
 
 Privacy Policy
 
@@ -196,17 +196,17 @@ Washington, DC 20037
 Special Report The Atlantic Brave Thinkers  
 Our annual guide to the people risking their reputations and lives in pursuit of big ideas. Read more › Writers
 
-*   James Fallows My Secret Strategy™ for Avoiding Petraeus-Style… Nov 12, 2012
+*   James Fallows Festival of Found Art Nov 13, 2012
+*   Derek Thompson The End of the Pledge: How Democrats Can Finally… Nov 13, 2012
+*   Jeffrey Goldberg 'I Am Not al-Qaeda. When We Kill Bashar, I Will… Nov 13, 2012
+*   Ta-Nehisi Coates Rihanna's Agency Nov 13, 2012
 *   Robert Wright The Real David Petraeus Scandal Nov 12, 2012
-*   Jeffrey Goldberg The Rockets of Gaza Nov 12, 2012
-*   Ta-Nehisi Coates Uppers and the Horde Unite Like Voltron Nov 10, 2012
-*   Derek Thompson 2 Graphs That Should Accompany Every Discussion… Nov 9, 2012
 *   Alexis C. Madrigal The Question I Didn't Get to Ask Pinterest CEO… Nov 8, 2012
 *   Clive Crook Obama's Victory After Cyclical Adjustment Nov 7, 2012
 *   Garance Franke-Ruta The 3 Biggest Day-After Mea Culpas Nov 7, 2012
 *   Steve Clemons Ed Gillespie's Absurd Bluster Nov 6, 2012
 
-The Biggest Story in Photos Venice Under Water Nov 12, 2012 Video Behind the Scenes of Valentino's New York City Ballet Collaboration 36 Hours With a News Crew During Sandy New York City Ballet Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Diwali: The Festival of Lights Nov 13, 2012 Video Behind the Scenes of Valentino's New York City Ballet Collaboration We Got This (Occupy Sandy) 36 Hours With a News Crew During Sandy Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -241,69 +241,69 @@ Venice Under Water
 
 2
 
-An Amazon Engineer Had a Little Idea That Turned Into a Billion-Dollar Business
+Election 2012 Marks the End of Evangelical Dominance in Politics
 
 3
 
-Hurricane Sandy: After Landfall
+Diwali: The Festival of Lights
 
 4
 
-Why Petraeus's Affair Matters (but Bill Clinton's Didn't)
+Hurricane Sandy: After Landfall
 
 5
 
-Syria in Ruins
+The Writer and the General: What the Petraeus Affair Exposed About D.C.
 
 6
 
-The Real David Petraeus Scandal
+Syria in Ruins
 
 7
 
-High-Fiber Pepsi: The Choice of a New, Weird Generation
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 8
 
-Noam Chomsky on Where Artificial Intelligence Went Wrong
+The Real David Petraeus Scandal
 
 9
 
-Fact-Checking 'Lincoln': Lincoln's Mostly Realistic. His Advisers Aren't
+The Top Ways We Injure Our Genitals
 
 10
 
-How Conservative Media Lost to the MSM and Failed the Rank and File
+Hurricane Sandy: The Aftermath
 
 ATLANTIC MEDIA Atlantic Wire
 
-*   Meet the Psychologists Who Convinced You to Vote for Obama
-*   Another Top General Is Pulled into the Petraeus Scandal
-*   Guess Who's Not Getting Invited to Piers Morgan's Christmas Party
+*   Striking Workers March All Across Europe to Fight Austerity
+*   Head of Long Island Power Authority Quits After Sandy Debacle
+*   Don't Even Think of Eating at Guy Fieri's New Times Square Restaurant
 
 **More from Atlantic Wire**
 
 Atlantic Cities
 
-*   Dance of the Day: In the Streets
-*   Newly Un-Flooded New York Subway Still Looking Pretty Horrible
-*   After Sandy, How Should We Decide What Is Worth Rebuilding?
+*   Travel Site of the Day: Airbnb Goes Hyperlocal
+*   Public Toilet in Graveyard Is Tearing Australian Town Apart
+*   America's Most Diverse Neighborhoods
 
 **More from Atlantic Cities**
 
 Quartz
 
-*   Windows 8 chief Steven Sinofsky leaves abruptly. What now for Microsoft?
-*   The Dog Index: What man’s best friend tells us about global economic development
-*   Did UK energy companies pull a LIBOR?
+*   This Rothko sold for $75 million
+*   Why do some CEOs want higher taxes on the wealthy? Lower taxes on their companies
+*   Quartz Daily Brief – Americas Edition – Taxing the 1%, Goldman’s shrinking jackpot, China’s new leaders
 
 **More from Quartz**
 
 National Journal
 
-*   Rising House Sophomore's Advice to New Members
-*   Tough Road to a Debt Deal, Even for a Community-Organizer-in-Chief
-*   Scandal Investigation Ensnares U.S. Commander in Afghanistan
+*   Bennet Offered DSCC Chairmanship
+*   Boehner Remains Optimistic on Cliff Negotiations
+*   Senators Return to Meet and Plan, Not Legislate
 
 **More from National Journal**
 
