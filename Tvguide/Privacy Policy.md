@@ -71,13 +71,13 @@ Sign In Sign Out New User Sign Up Profile Management
 
 What's Hot
 
-_Vampire Diaries_ Sexy Smackdown
+What Show Has the Best Fans?
 
-Elmo Puppeteer Allegations
+Ariel Winter Scandal
 
-Sweeps Roundup
+_Project Runway_ Sneak Peek
 
-Sexiest Soap Star? Vote!
+_CSI_ Star Files for Bankruptcy
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -139,8 +139,8 @@ more popular movies Top Videos
 
 1.  The Vampire Diaries
 2.  Arrow
-3.  The Vampire Diaries
-4.  Fringe: How Will the Team Deal...
+3.  Fringe: How Will the Team Deal...
+4.  Supernatural
 5.  The Vampire Diaries
 
 more top videos
