@@ -34,9 +34,9 @@ Exponential
 
 \>. News
 
-Tribal Fusion appoints first global GM Nov 06, 2012
+Tribal Fusion launches new ‘Rising Star’ creative ad formats Nov 14, 2012
 
-Former LivePerson, The Weather Channel, AOL and Advertising.com executive, Rob Deichert, joins Exponential-owned global display advertising provider to drive audience-focused advertising and high-impact creative solutions
+Global display advertising provider launches Pushdown and Sidekick units to deliver high-impact, user-initiated campaigns to advertisers’ target audiences at scale
 
 more news Careers
 
