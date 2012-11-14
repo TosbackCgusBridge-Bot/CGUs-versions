@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
-*   Dodgers 'out' on free agent OF Torii Hunter
-*   Giants, Affeldt agree to new three-year deal
-*   Trout and Harper named top rookies for 2012
-*   Yankees showing interest in Mike Napoli
-*   Tigers 'most aggressive pursuer' of Hunter
-*   Pierzynski not expected back with White Sox
-*   Several teams interested in Shane Victorino
-*   Dodgers do not have Ethier on trading block
-*   Dodgers win bidding for LHP Ryu Hyun-Jin
-*   Red Sox sign David Ross to two-year deal
-*   Rivera (knee) throws 25 pitches off mound
-*   Kuroda declines qualifying offer from Yankees
+*   Marlins could trade SP Ricky Nolasco next
+*   Jays get Reyes, Johnson, Buehrle from Fish
+*   Dodgers may wait on talks with Ryu Hyun-Jin
+*   Braves expressing interest in OF Cody Ross
+*   Report: Torii Hunter wants to play in Detroit
+*   Jason Bay considering signing with Indians
+*   Jaime Garcia (shoulder) throws off mound
+*   Cardinals release right-hander Kyle McClellan
+*   Cubs sign Scott Baker to one-year contract
+*   Mets' talks with Wright and Dickey 'ongoing'
+*   Indians, Phils and Dodgers interested in Youk
+*   Choo won't play in World Baseball Classic
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Scheduling for Success Nov 14
+*   Week 11 Top Pickups Nov 13
+*   Pity the Foles Nov 13
 *   Big Ben's Bad Night Nov 13
+*   Best Available NFL Free Agents Nov 13
 *   The Week Of The Tight End Nov 12
 *   Matchup: Chiefs @ Steelers Nov 12
 *   Sunday Injuries: F-Jax Exits Nov 12
-*   Best Available NFL Free Agents Nov 12
-*   Watch Texans - Bears LIVE Nov 11
-*   Week 10 Live Blog Nov 11
-*   Week 10 Rankings Nov 11
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Report: Ben has 'unusual' shoulder separation
-*   Steelers fear Ben out 'at least' a few weeks
+*   Report: Vick's concussion truly 'significant'
+*   Report: Big Ben 'doubtful' for Sunday vs. BAL
+*   Clayton: Cutler 'doubtful' to play in Week 11
+*   Report: Darren McFadden 'iffy' for Week 11
+*   Tomlin: Mendenhall 'questionable' for Week 11
+*   Cowboys don't sound optimistic on RB Murray
+*   Brady Quinn says he's been cleared to return
 *   Cassel throws overtime INT to seal MNF loss
 *   Falcons cut ties with veteran LE Ray Edwards
 *   Bradshaw will have 'battery of tests' on neck
-*   Redman getting start at running back for MNF
-*   'Don't count on' Murray to return for Week 11
-*   Rainy and windy conditions expected for MNF
 *   Eli Manning to rest tired arm during bye week
 *   Munchak: We'll get Kenny Britt more involved
-*   DMC, Goodson both still in walking boots
-*   Report: Foles likely to start vs. Redskins
 
 NBA PAGES
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Hickson goes for career-best 19 &. 18 vs. ATL
-*   Shved steps up for injury riddled backcourt
-*   Pekovic on ankle: 'I don't use crutches'
-*   Lowry (ankle) ruled out for Tuesday vs. Indy
-*   Rondo one rebound shy of triple-double
-*   Asik, Parsons have career nights vs. Heat
-*   James posts easy 38-10-6 line and game-winner
-*   DeRozan scores 37. Calderon posts 20 &. 17
-*   Big Al goes for 24 and 17. Millsap scores 34
-*   Williams (groin) plays 50 minutes vs. Raptors
-*   Nikola Pekovic (ankle) will not return
-*   Ilyasova plays 18 minutes in another bad game
+*   DeMarcus Cousins set to return Friday
+*   LaMarcus Aldridge scared by wrist injury
+*   Varejao's 35 &18 go to waste for Cavs
+*   Jose Calderon triple-doubles in tough win
+*   Andrew Bogut (ankle) may not play til January
+*   Steve Nash (leg) out another week or two
+*   Manu Ginobili iffy on Tuesday w/ back pain
+*   Report: Kyle Lowry gets 2nd opinion on ankle
+*   Mike D'Antoni says he'll coach Friday night
+*   Report: Chase Budinger out 3-4 months
+*   Shawn Marion may be out another week
+*   Tony Parker expected back in lineup Tuesday
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Brandon Dubinsky out with broken hand
+*   Alec Martinez hit by puck, sent to hospital
+*   Oilers' trio great in OKC loss to Marlies
+*   Brett Hull: Ovechkin will 'thrive' with Oates
+*   Sidney Crosby unhappy with CBA standoff
+*   Jeremy Roenick takes shot at Patrick Marleau
+*   Prospect Cody Goloubef out six to 10 weeks
+*   D Fedor Tyutin officially signs with KHL
+*   Max Pacioretty open to Swiss return
+*   Recchi to players: Offer will only get worse
 *   Report: Jared Cowen may be done for the year
 *   AHL tabs Curtis McElhinney as POTW
-*   Blake Geoffrion's father just glad he's alive
-*   Steve Fehr says NHLPA is open to mediation
-*   Carl Gunnarsson to play in Sweden with Orebro
-*   Sundin wishes his career ended in Toronto
-*   Brandon Dubinsky leaves ECHL game Saturday
-*   Report: Fedor Tyutin signs with Moscow Oblast
-*   Joe Sakic set for HHOF induction on Monday
-*   No progress Sunday on player contract terms
-*   Donald Fehr doesn't "see path for agreement"
-*   Blake Geoffrion (skull) in stable condition
 
 NASCAR PAGES
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
-*   Clint Bowyer's crew chief fined at Phoenix
-*   Gordon fined $100K for triggering altercation
-*   James Buescher's NCWTS championship scenario
-*   Stenhouse Jr.'s NNS championship scenario
-*   Keselowski's Chase clinch scenario
-*   Kyle Busch’s team won Phoenix race awards
-*   Kevin Harvick’s team won Phoenix race awards
-*   Jeff Burton won USG Improving Finish award
-*   Kevin Harvick wins AdvoCare 500 in Phoenix
-*   Logano’s NNS team wins Phoenix race awards
-*   Austin Dillon wins race awards at Phoenix
-*   Jason Bowles big Nationwide Series gainer
+*   Tim George Jr. wears rookie stripes at HMS
+*   Brendan Gaughan back in No. 33 for finale
+*   Miami double for Joey Coulter, first in NNS
+*   Dillon will make first NNS start at Homestead
+*   Elliott Sadler at Miami
+*   Jeff Burton career Miami stats
+*   Kevin Harvick Homestead statistics
+*   Paul Menard Homestead notes of interest
+*   Kyle Busch Ford EcoBoost 400 advance
+*   Fast facts at Homestead-Miami on Matt Kenseth
+*   Travis Kvapil Homestead-Miami advance
+*   Labonte already prepares for fresh 2013 start
 
 GOLF PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Hard Work Is the Ansah Nov 13
 *   Senior Prospect Rankings Nov 11
 *   Week 11 Matchup Preview Nov 9
 *   Denard's NFL Projection Nov 7
@@ -318,7 +319,6 @@ COLUMNS
 *   Midseason NFL Mock Draft Nov 2
 *   Week Ten Matchup Preview Nov 2
 *   Midseason Mock Draft Nov 1
-*   Geno's Learning Process Oct 31
 
 PARTNERS
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Pauline: Chances are QB Murray will go to NFL
+*   'Foregone conclusion' Bray &. Hunter go to NFL
+*   Pauline: CB Roby will consider NFL if 1st rd
+*   Report: 95 percent that Hankins enters Draft
+*   Tajh Boyd's return in 2013 'is up in the air'
+*   Logan Thomas will likely ask for Draft grade
+*   Cyclones' Klein adjusting to WLB switch
+*   Brooks: OLB Barr flashed 'dominant ability'
+*   Beavers starting QB vs Cal still undecided
+*   Rutgers RB Jamison is 50-50 to play (ankle)
+*   Oklahoma State QB Walsh cleared to play
 *   Seferian-Jenkins will keep seeing DE snaps
-*   De'Anthony Thomas could see snaps at DB
-*   Ducks S Patterson officially out w/ torn ACL
-*   Pauline: WR Hamilton could surprise in 2nd rd
-*   Bielema: Scouts say Ball will be 1st RB taken
-*   Hoke: QB Robinson listed as day-to-day
-*   Pauline: Swope's game is similar to Decker's
-*   Vols starting OLB Curt Maggitt out for year
-*   Muschamp: Driskel doubtful versus Jax State
-*   LaTech QB Colby Cameron still INT-less
-*   Fresno State S Thomas now has eight INTs
-*   Bruins OLB Barr records 2.5 sacks vs Cougars
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Report: Ben has 'unusual' shoulder separation
-*   NBA:Andrew Bynum could be out until January
-*   NBA:James posts easy 38-10-6 line and game-winner
-*   NFL:Steelers fear Ben out 'at least' a few weeks
-*   NFL:Falcons cut ties with veteran LE Ray Edwards
-*   NFL:Cassel throws overtime INT to seal MNF loss
-*   MLB:Giants, Affeldt agree to new three-year deal
-*   NAS:Gordon fined $100K for triggering altercation
-*   NFL:Bradshaw will have 'battery of tests' on neck
-*   NFL:Redman getting start at running back for MNF
-*   NFL:'Don't count on' Murray to return for Week 11
-*   MLB:Trout and Harper named top rookies for 2012
+*   NBA:LaMarcus Aldridge scared by wrist injury
+*   MLB:Jays get Reyes, Johnson, Buehrle from Fish
+*   NBA:Jose Calderon triple-doubles in tough win
+*   NFL:Report: Big Ben 'doubtful' for Sunday vs. BAL
+*   NFL:Clayton: Cutler 'doubtful' to play in Week 11
+*   MLB:Report: Torii Hunter wants to play in Detroit
+*   NBA:Report: Kyle Lowry gets 2nd opinion on ankle
+*   MLB:Jaime Garcia (shoulder) throws off mound
+*   NFL:Tomlin: Mendenhall 'questionable' for Week 11
+*   NBA:Mike D'Antoni says he'll coach Friday night
+*   NAS:Tim George Jr. wears rookie stripes at HMS
+*   NAS:Brendan Gaughan back in No. 33 for finale
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1T. JonesNFL (6648)
-*   2D. McFaddenNFL (6504)
-*   3M. ReeceNFL (6458)
-*   4P. HarvinNFL (5854)
-*   5K. LowryNBA (5815)
+*   1D. McFaddenNFL (6419)
+*   2A. HernandezNFL (5818)
+*   3K. LoveNBA (5805)
+*   4M. ReeceNFL (5729)
+*   5K. LowryNBA (5658)
 
-*   6A. HernandezNFL (5782)
-*   7K. LoveNBA (5712)
-*   8N. HilarioNBA (5664)
-*   9D. AmendolaNFL (5538)
-*   10I. RedmanNFL (5425)
+*   6D. AmendolaNFL (5654)
+*   7D. SprolesNFL (5523)
+*   8T. JonesNFL (5477)
+*   9D. MurrayNFL (5389)
+*   10N. HilarioNBA (5337)
 
   
 Video Center
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines Big Ben's Bad Night  
-Nov 13 Adam Levitan talks Ben Roethlisberger's injury and recaps all of Monday's news in the Dose.  
+  Headlines Scheduling for Success  
+Nov 14 Adam Levitan breaks down which teams have the best and worst matchups in the fantasy playoffs as part of Tuesday's Dose.  
   
 More NFL Columns
 
+*   »Scheduling for Success Nov 14
+*   »Week 11 Top Pickups Nov 13
+*   »Pity the Foles Nov 13
 *   »Big Ben's Bad Night Nov 13
+*   »Best Available NFL Free Agents Nov 13
 *   »The Week Of The Tight End Nov 12
 *   »Matchup: Chiefs @ Steelers Nov 12
 *   »Sunday Injuries: F-Jax Exits Nov 12
-*   »Best Available NFL Free Agents Nov 12
-*   »Watch Texans - Bears LIVE Nov 11
-*   »Week 10 Live Blog Nov 11
-*   »Week 10 Rankings Nov 11
 
 NFL Headlines
 
-*   »Report: Ben has 'unusual' shoulder separation
-*   »Steelers fear Ben out 'at least' a few weeks
+*   »Report: Vick's concussion truly 'significant'
+*   »Report: Big Ben 'doubtful' for Sunday vs. BAL
+*   »Clayton: Cutler 'doubtful' to play in Week 11
+*   »Report: Darren McFadden 'iffy' for Week 11
+*   »Tomlin: Mendenhall 'questionable' for Week 11
+*   »Cowboys don't sound optimistic on RB Murray
+*   »Brady Quinn says he's been cleared to return
 *   »Cassel throws overtime INT to seal MNF loss
 *   »Falcons cut ties with veteran LE Ray Edwards
 *   »Bradshaw will have 'battery of tests' on neck
-*   »Redman getting start at running back for MNF
-*   »'Don't count on' Murray to return for Week 11
-*   »Rainy and windy conditions expected for MNF
 *   »Eli Manning to rest tired arm during bye week
 *   »Munchak: We'll get Kenny Britt more involved
-*   »DMC, Goodson both still in walking boots
-*   »Report: Foles likely to start vs. Redskins
 
 NFL Links
 
