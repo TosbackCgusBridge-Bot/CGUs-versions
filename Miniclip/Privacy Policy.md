@@ -1,6 +1,6 @@
 Play Games at Miniclip.com Empire A new kingdom awaits! Join a faction  
-Fight for the crown! Ninja Painter Your daily challenge Score 45,000 points  
-Ninja Painter Bullfrog Poker Texas Hold’em! Show your poker face  
+Fight for the crown! Lumberjack Your daily challenge Score 20,000 points  
+Lumberjack Games Bullfrog Poker Texas Hold’em! Show your poker face  
 Go all-in! New games! Hit the homepage  
 Great new games out now My Miniclip Credits
 
@@ -40,7 +40,6 @@ More Languages ›
 *   iPhone
 *   Sketch Star
 *   Android
-*   3D
 *   More Categories
 
 Game Categories
