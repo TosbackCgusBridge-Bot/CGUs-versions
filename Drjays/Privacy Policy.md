@@ -1,4 +1,4 @@
-DrJays.com My Account |Login  
+DrJays.com My Account | Login  
 Customer Service  
 International  
 Wish List  
