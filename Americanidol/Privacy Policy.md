@@ -1,4 +1,4 @@
-American Idol.com Home Audition for Season 12 American Idol Search
+American Idol.com Home RETURNS WED JAN 16 &. THU JAN 17 8/7c American Idol Search
 
 *   Auditions
 *   Tour
