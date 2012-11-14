@@ -1,6 +1,6 @@
 Your Giftlist Your personal Giftlist is a reminder for returning customers of gifts you've sent from Harry &. David at this time last year, as well as the names and addresses of the gift recipients for easy re-ordering. | Your Favorites Your Cart Items: 0 Sign In Your Account | Sign-up for Email Get Special Offers by signing up for exclusive email offers, sales, and special events. 877-322-1200 Added to Cart Gift Baskets &  
 Towers Pears &  
-Fresh Fruit Fruit of the Month  
+Fresh Fruit Fruit  
 Clubs Chocolates &  
 Sweets Gourmet  
 Foods Flowers &  
