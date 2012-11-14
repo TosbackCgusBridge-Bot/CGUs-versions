@@ -1,6 +1,6 @@
 Conditions Générales de Vente c mon espace client
 
-Dernière mise à jour : 12/10/2012Imprimer
+Dernière mise à jour : 13/11/2012Imprimer
 
 Article 1 : Champs d’Application et Modification des Conditions Générales de Vente Les présentes conditions générales de vente s’appliquent à toutes commandes passées sur le site Internet www.cdiscount.com.  
   
@@ -87,8 +87,45 @@ Le TAEG applicable aux commandes payées en 4 fois par carte bancaire ou chèque
 _Spécificités des commandes réglées par chèque :_  
 A compter de la réception de l’Email de Confirmation de Commande, les produits commandés sont réservés pendant 7 jours.   
 En l’absence de réception de chèque de votre part passé ce délai de 7 jours, votre commande sera automatiquement annulée et les produits de nouveau mis en vente sur notre site. La responsabilité de CDISCOUNT ne saurait dès lors être engagée en cas de non livraison de la commande, faute d’avoir procédé au paiement de votre commande.  
-Le traitement de votre commande se fera à compter du jour de la validation du/des chèques reçu(s) par CDISCOUNT.
+Le traitement de votre commande se fera à compter du jour de la validation du/des chèques reçu(s) par CDISCOUNT.  
+  
+\- Paiement en Espèces  
 
+Cdiscount vous offre la possibilité de régler votre commande en espèce (dans la limite de 3000€) dans certains Hypermarchés et Supermarchés Casino.
+
+Lorsque vous choisissez le Paiement en Magasin, vous disposez d’un délai de 7 jours calendaires pour vous présenter dans le magasin Casino que vous aurez choisi afin de régler votre commande. Passé ce délai, votre commande sera annulée. Votre commande ne sera traitée et validée qu’après paiement.  
+Pour des raisons techniques,  ce mode de paiement :  
+  
+*    -    Ne peut être proposé qu’aux personnes dont l’adresse de facturation de commande se situe dans un périmètre      
+*        inférieur à 30 km autour de ces magasins ;  
+    
+*     
+    
+*    -      Ne peut être proposé pour les commandes partiellement payées par un bon d’achat ou par carte cadeau ;  
+    
+
+ -      Ne peut être proposé pour les commandes contenant des produits de la Marketplace « C le Marché ».  
+  
+Les magasins Casino auprès desquels vous pouvez régler votre commande sont :  
+  
+ - Les Hypermarchés :  
+  
+                - Géant Casino  Pessac  
+
+        - Géant Casino Monthieu  
+
+*     
+    
+
+\-  Les Supermarchés Casino :  
+
+             
+
+         - Paris St Didier,  
+         - Toulouse Pont des Demoiselles,  
+         - Marseille St Victoret
+
+  
   
 *   \- Par Paiement Flash :
 
