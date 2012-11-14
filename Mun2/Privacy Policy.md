@@ -23,23 +23,23 @@ _Jump to Navigation_ ↓
     *   current shows
     *   show archives
 
-schedule right now: November 13 04:00 AM · MORNING BREATH coming up next:
+schedule right now: November 14 05:00 AM · MORNING BREATH coming up next:
 
-*   5:00 AM · MORNING BREATH
 *   6:00 AM · SMB
 *   8:00 AM · MORNING BREATH
 *   9:30 AM · OPERACION REPO
-*   10:00 AM · CINE CLASICO Y COOL: DOS LOCOS EN ESCENA
+*   10:00 AM · CINE CLASICO Y COOL: DOS PINTORES PINTORESCOS
 *   12:00 PM · L'CREME
 *   1:00 PM · AL CIEN 100%
 *   2:00 PM · L'CREME
-*   3:00 PM · L'CREME
-*   4:00 PM · mun2 CINCO
-*   4:30 PM · L'CREME
-*   5:30 PM · DUB LATINO
+*   3:00 PM · DELICIOUS
+*   4:00 PM · BARBACOA CLASSICS
+*   5:00 PM · CHIQUIS 'N CONTROL
 *   6:00 PM · 12 CORAZONES
-*   7:00 PM · OPERACION REPO
-*   7:30 PM · OPERACION REPO
+*   7:00 PM · WWE RAW
+*   10:00 PM · EL CARTEL 2
+*   11:00 PM · EL CARTEL 2
+*   12:00 AM · LARRYMANIA
 
 see full schedule >>.
 
@@ -234,6 +234,6 @@ Search people search close people search username gender allmalefemale Zipcode r
 
 *   contact us
 *   independent programming report
-*   privacy policy / terms of use / AdChoices
+*   privacy policy / terms of use / closed captioning AdChoices
 
 © 2012 mun2    |    A division of
