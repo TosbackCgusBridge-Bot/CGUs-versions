@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Paul Ryan: We didnt lose on Medicare**  
-        Election 2012 | Felicia Sonmez
+    *   **Shorthand**  
+        Election 2012 | Rachel Weiner
     
-    *   **Would a ‘chained’ inflation index...**  
+    *   **Would ‘chained’ inflation index...**  
         The Fact Checker | Glenn Kessler
     
-    *   **Sesame Street loses a little magic...**  
-        She The People | Suzi Parker
+    *   **Petraeus scandal: It’s not about...**  
+        She The People | Melinda Henneberger
     
-    *   **How the Republican party can rebuild...**  
-        The Fix | Chris Cillizza and Aaron Blake
+    *   **Stark generational divide on gay...**  
+        The Fix | Peyton M. Craighill and Scott Clement
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,13 +46,13 @@
     
     Featured Blogs
     
-    *   **Abandon penmanship!**  
+    *   **The real scandal of the Petraeus...**  
         ComPost | Alexandra Petri
     
     *   **Happy Hour Roundup**  
         The Plum Line | Jonathan Bernstein
     
-    *   **PostScript: Samuelson and the welfare...**  
+    *   **PostScript: Cohen and Petrayals**  
         PostPartisan | Rachel Manteuffel
     
     *   **Morning Bits**  
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **Forecast: AM showers and much cooler...**  
-        Capital Weather Gang | Matt Rogers
+    *   **D.C. area forecast: Colder pattern...**  
+        Capital Weather Gang | Dan Stillman
     
-    *   **Nightlife Agenda: Beaujolais Nouveau...**  
-        Going Out Gurus | Fritz Hahn
+    *   **Beaujolais Nouveau hits bars and...**  
+        Going Out Gurus | Lavanya Ramanathan
     
-    *   **Overnight stabbings, shooting in...**  
+    *   **Man shot in Mt. Rainier early Wednesday**  
         Crime Scene | Maggie Fazeli Fard
     
-    *   **Norton, city leaders want D.C....**  
-        D.C. Wire | Nikita Stewart
+    *   **Moten eyes D.C. council at-large...**  
+        D.C. Wire | Tim Craig
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -97,17 +97,17 @@
     
     Blogs &. Columns
     
-    *   **Adam Oatess Hall of Fame speech**  
+    *   **Lockout an unavoidable backdrop...**  
         Capitals Insider | Katie Carrera
     
-    *   **Nats license plates coming to D...**  
-        DC Sports Bog | Sarah Kogod
+    *   **Post Sports Live: Redskins-Eagles...**  
+        DC Sports Bog | Mitch Rubin
     
-    *   **Are Redskins licking their chops...**  
+    *   **Could the Redskins really win the...**  
         The Insider | Keith McMillan
     
-    *   **Bryce Harper wins NL Rookie of...**  
-        Nationals Journal | James Wagner
+    *   **Davey Johnson named National League...**  
+        Nationals Journal | Adam Kilgore
 *   National In National
     
     *   Energy &. Environment
@@ -123,14 +123,14 @@
     
     Blogs &. Columns
     
-    *   **An innovation strategy battle**  
+    *   **Total eclipse of the sun draws...**  
         Ideas@Innovations | Emi Kolawole
     
-    *   **New online startup to connect military...**  
+    *   **Crisis management at the BBC**  
         PostLeadership | Jena McGregor
     
-    *   **Pope Benedict: ‘We hope that President...**  
-        Under God | Georgetown/ On Faith
+    *   **Graham: Operation Christmas Child...**  
+        Under God | Jeannine Hunter
 *   World In World
     
     *   Africa
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **Here’s the e-mail trick Petraeus...**  
+    *   **Irans hardline media struggles...**  
         WorldViews | Max Fisher
     
-    *   **Petraeus, snagged by online data...**  
+    *   **China shows off its new drone**  
         WorldViews | Max Fisher
     
-    *   **Raw video of Israeli tanks firing...**  
+    *   **Protests break out in Jordan, mention...**  
         WorldViews | Max Fisher
     
-    *   **Why did Paula Broadwell think the...**  
+    *   **PSA: Gen. John Allen did not send...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -170,17 +170,17 @@
     
     Blogs &. Columns
     
-    *   **Avoiding the oncoming ‘caregiver...**  
+    *   **Black Thursday, a turkey of an...**  
         The Color of Money | Michelle Singletary
     
-    *   **Apple, HTC settle dispute #thecircuit**  
+    *   **Tech executives ask Obama, Congress...**  
         Post Tech | Hayley Tsukayama
     
     *   **How business can bounce back from...**  
         Steven Pearlstein
     
-    *   **Reconciliation**  
-        Wonkblog | Suzy Khimm
+    *   **Wonkbook: Obamas $1.6 trillion...**  
+        Wonkblog | Ezra Klein
 *   Tech In Technology
     
     *   Policy
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **Apple, HTC settlement: Signs of...**  
+    *   **HTC, Verizon release Droid DNA**  
         Hayley Tsukayama
     
-    *   **Apple, HTC settle dispute #thecircuit**  
+    *   **Tech executives ask Obama, Congress...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Aaron Franklin’s barbecue tutorial**  
-        All We Can Eat | Jim Shahin
+    *   **Chat Leftovers: A vegan side dish...**  
+        All We Can Eat | Jane Touzalin
     
     *   **The perils of life without marginalia**  
         The Style Blog | Ron Charles
     
-    *   **Should parents reward good grades?**  
-        On Parenting | Mari-Jane Williams
+    *   **Momspeak: Lamenting what schools...**  
+        On Parenting | Tracy Grant
     
-    *   **Mitt Romney’s sister, Jane, finally...**  
+    *   **Love, etc.: Bryce Harper and Kayla...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -237,17 +237,17 @@
     
     Blogs &. Columns
     
-    *   **Weekend roundup: Lang Lang and...**  
+    *   **Castleton announces 2013 season**  
         Classical Beat | Anne Midgette
     
-    *   **Preview of Jon Hamm and Daniel...**  
+    *   **Madonna shows off ‘Gangnam Style’...**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **Elmo puppeteer on leave amidst...**  
+    *   **Elmo puppeteer Kevin Clash’s accuser...**  
         The TV Column | Lisa de Moraes
     
-    *   **‘Shattered’ Asian stereotypes:**  
-        Comic Riffs | Winyan Soo Hoo
+    *   **Petraeus scandal draw-down:**  
+        Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
     
@@ -266,12 +266,12 @@
 
 In the News
 
-*   David Petraeus
+*   Jill Kelley
 *   John R. Allen
-*   iPhone 5S
-*   Bryce Harper
+*   Nexus 4
+*   Nancy Pelosi
 *   Elmo
-*   Diwali
+*   Marlins-Blue Jays trade
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -322,88 +322,100 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Scandal probe ensnares commander of U.S., NATO troops in Afghanistan
+Obama to open talks with $1.6 trillion plan to raise taxes on corporations, wealthy
 
-Craig Whitlock 
+Zachary A. Goldfarb 
+
+FBI investigating how Petraeus biographer Broadwell obtained classified files
+
+Sari Horwitz 
+
+The Confederacy of Takers
+
+Dana Milbank 
+
+Allen in fight for his career
+
+Rajiv Chandrasekaran 
 
 Petraeus investigation ensnares commander of U.S., NATO troops in Afghanistan
 
 Craig Whitlock 
 
-Obama considering John Kerry for job of defense secretary
-
-Karen DeYoung 
-
-Here's the e-mail trick Petraeus and Broadwell used to communicate Petraeus ghostwriter ‘clueless’ to affair
-
-Vernon Loeb 
-
-Secession petitions filed on White House website Petraeus hoped affair would stay secret and he could keep his job as CIA director
-
-Sari Horwitz 
-
-A spy tale with missing pieces
-
-Eugene Robinson 
-
-Democrat Kyrsten Sinema beats GOP’s Vernon Parker in Arizona’s 9th Congressional District
+Florida socialite is at the center of overlapping scandals involving 2 military generals
 
 Associated Press 
 
-The Romney lesson
-
-Charles Lane 
-
-Pelosi considers stepping down as House Democratic leader
-
-Paul Kane 
-
-Liberal groups mobilize for ‘fiscal cliff’ fight over Social Security, Medicare
-
-Zachary A. Goldfarb 
-
-Get Petraeus back to work
-
-Richard Cohen 
-
-5 things (other than the fiscal cliff) to watch during the lame-duck David Petraeus’s affair has damaged the nation
+John Boehner’s discouraging view of climate science
 
 Editorial Board 
 
-Carolyn Hax: Bailing out of a vacation, and losing a friend
+Rep. Barney Frank’s claim about a should-be Democratic House majority
 
-Carolyn Hax 
+Josh Hicks 
 
-With Paula Broadwell, Gen. David Petraeus let his guard down
+Jill Kelley: Tampa woman in Petraeus case has been a hostess to the military
 
-Joby Warrick 
+Carol D. Leonnig 
 
-Venice flooding swamps 70 percent of city
+GOP’s gerrymandered advantages
 
-Jason Samenow 
+Harold Meyerson 
 
-Petraeus, snagged by online data trail, lived much of his life on e-mail Petraeus resignation: Who is Paula Broadwell?
+Obama untouched by Petraeus scandal
+
+Scott Wilson 
+
+Eric Cantor and the Petraeus affair
+
+Colbert I. King 
+
+Computers, the new private eyes for cheating
+
+Manuel Roig-Franzia 
+
+Paula Broadwell’s driver’s license found in area park
+
+Clarence Williams 
+
+Petraeus scandal: It's not about the sex Mitt Romney’s legacy: No ‘Romneyists’
+
+Jonathan Capehart 
+
+Congress welcomes freshmen, and those on the cusp of membership
+
+Krissah Thompson 
+
+Charting a post-Petraeus era
+
+David Ignatius 
+
+AMT could keep 60 million taxpayers from filing returns till March, delaying refunds
+
+Lori Montgomery 
+
+Here's the e-mail trick Petraeus and Broadwell used to communicate
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Scandal probe ensnares commander of U.S., NATO troops in Afghanistan
-    2.  Scandal probe ensnares commander of U.S., NATO troops in Afghanistan
-    3.  Obama considering John Kerry for job of defense secretary
-    4.  Here's the e-mail trick Petraeus and Broadwell used to communicate
-    5.  Petraeus ghostwriter 'clueless' to affair
+    1.  Obama to open talks with $1.6 trillion plan to raise taxes on corporations, wealthy
+    2.  FBI investigating how Petraeus biographer Broadwell obtained classified files
+    3.  The Confederacy of Takers
+    4.  Allen in fight for his career
+    5.  Petraeus investigation ensnares commander of U.S., NATO troops in Afghanistan
 *   Top Videos
-    1.  Exclusive: Petraeus biography ghostwriter breaks silence
-    2.  Official: Broadwell's harassing e-mails led to FBI probe
-    3.  The story behind the Romney loss: Drama, regrets and mistakes
-    4.  President Obama's full victory speech
-    5.  Elmo puppeteer Kevin Clash accused of underage relationship
+    1.  Analyzing emails between Jill Kelley and Gen. John Allen
+    2.  Jill Kelley: The woman threatened by Petraeus' mistress
+    3.  Miley Cyrus: I feel like I'm already married
+    4.  Exclusive: Petraeus biography ghostwriter breaks silence
+    5.  Top U.S. general in Afghanistan investigated, linked to Petraeus scandal
 *   Top Galleries
-    1.  Gen. David Petraeus
-    2.  Flooding engulfs Venice
-    3.  Scandal-plagued politicians: Where are they now?
-    4.  The four star movies of 2012
-    5.  The women of Saudi Arabia
+    1.  The David Petraeus scandal -- cast of characters
+    2.  Scandal-plagued politicians: Where are they now?
+    3.  Total solar eclipse in Australia
+    4.  'The Twilight Saga: Breaking Dawn — Part 2' premiere
+    5.  The four star movies of 2012
 
 Today's Paper
 
@@ -413,13 +425,13 @@ Today's Paper
 
 Live Discussions
 
-Dear Prudence
+Compost Live
 
-Live Q&A, noon
+Live Q&A transcript
 
-Are you having a problem with love, life or in-laws? Ask Prudie.
+Humor columnist Alexandra Petri chatted with readers about the latest news and the perils of cursive.
 
-**11:00 AM** **CANCELED: Ask Boswell: Redskins, Caps, Nationals and more** **11:00 AM** **ComPost Live with Alexandra Petri** **12:00 PM** **Tuesdays with Moron: Chatological Humor Update** **1:00 PM** **CANCELED: Eugene Robinson Live**
+**10:00 AM** **Ask Tom: Rants, raves and questions on the DC dining scene** **11:00 AM** **Career Coach takes your questions** **12:00 PM** **The Reliable Source Live** **12:00 PM** **Free Range on Food: Thanksgiving** **2:00 PM** **Web Hostess Live: The latest from the Web**
 
 **Weekly schedule, past shows**
 
