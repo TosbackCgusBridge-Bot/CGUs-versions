@@ -32,9 +32,9 @@ Sign In Sign Up
 
 Take Action
 
-New Shock: Another Top U.S. General Investigated for ‘Inappropriate’ Emails to Petraeus Friend
+Exclusive: Witness Describes Hearing Interior Sec. Threaten Reporter…Obama Admin. Responds to TheBlaze
 
-New Shock: Another Top U.S. General Investigated for ‘Inappropriate’ Emails to Petraeus Friend
+Live BlazeCast at 1pm ET: Bizarre New Twists in Petraeus Scandal — Plus: Did FBI Agent Suspect Cover-up?
 
 About TheBlaze
 
@@ -244,13 +244,7 @@ Editorial Staff
     Assistant Editor  
     Email
 
-*   Military
-*   Business
-*   Jobs
-*   Israel
-*   Economy
-
-What is this? Sections
+Sections
 
 *   The Stories
 *   Business
