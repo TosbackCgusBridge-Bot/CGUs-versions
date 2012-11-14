@@ -202,6 +202,9 @@ was this answer helpful? Please tell us how we can make this answer more helpful
 
 Find an answer announcements
 
+*   Recommended ordering dates for Christmas  
+    Please see the shipping destinations below for recommended ordering dates to have your merchandise...  
+    
 *   Click here for information on Macy's $1 Million Drive for Hurricane Sandy Recovery Efforts  
     As the effects of Hurricane Sandy continue to unfold, we're in this together and Macy's wants...  
     
