@@ -16,6 +16,7 @@ Naples Daily News
 *   News
     *   Today
     *   Local
+        *   Election
         *   Environment
             *   Florida Panther
             *   Gulf Oil Spill
@@ -45,6 +46,7 @@ Naples Daily News
     *   Everblades
     *   Golf
         *   ACE Group Classic
+        *   CME Group Titleholders
         *   Franklin Templeton Shootout
     *   Fishing
     *   Youth
@@ -132,9 +134,10 @@ Naples Daily News
     *   Facebook
     *   Special Projects
         *   Lighthouse Project
-        *   Graduation 2012
         *   Cold Case Chronicles
         *   Wine Festival
+        *   Film Festival
+        *   Graduation 2012
     *   Participate
     *   Databases
 
@@ -435,25 +438,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Region's clinics, lawmakers begin preparing for rollout of Obamacare Published 11/12/2012 at 5:20 a.m. 89 comments
-*   In the Know: Is it legal to bury a deceased pet in my yard, and who do I call to pick up roadkill? Published 11/12/2012 at 5:00 a.m. 33 comments
-*   Florida connection: Info emerges about second woman in Petraeus case Published 11/12/2012 at 6:33 a.m. 53 comments
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 368 comments
-*   Mother of crash victim to advocate for ban on texting and driving Published 11/12/2012 at 5:05 a.m. 34 comments
+*   Most in U.S. won't be able to escape 'fiscal cliff' Published 11/13/2012 at 8:19 a.m. 60 comments
+*   Two deputies involved in crashes Updated 11/13/2012 at 6:30 p.m. 25 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 436 comments
+*   Chapel Grill opens in Naples, celebrates former church building's 65-year history Published 11/13/2012 at 5:40 a.m. 16 comments
+*   Condoleezza Rice: America must get fiscal, economic house in order Published 11/12/2012 at 8:00 p.m. 79 comments
 
-Photo Galleries Rick Scott's Naples home and… LeAnn Rimes performs a private concert Chapel Grill opens in downtown Naples
+Photo Galleries Rick Scott's Naples home and… Chapel Grill opens in downtown Naples FGCU upsets Miami, 63-51
 
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Published 11/9/2012 at 6:10 a.m. 368 comments
-*   Four days later: Obama declared winner of Florida's 29 electoral votes Published 11/10/2012 at 7:08 a.m. 136 comments
-*   Region's clinics, lawmakers begin preparing for rollout of Obamacare Published 11/12/2012 at 5:20 a.m. 89 comments
-*   Florida connection: Info emerges about second woman in Petraeus case Published 11/12/2012 at 6:33 a.m. 53 comments
-*   Swing state: Razor-thin margin in presidential race proves Florida still divided Published 11/11/2012 at 6:00 a.m. 51 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Published 11/9/2012 at 6:10 a.m. 436 comments
+*   Region's clinics, lawmakers begin preparing for rollout of Obamacare Published 11/12/2012 at 5:20 a.m. 94 comments
+*   Condoleezza Rice: America must get fiscal, economic house in order Published 11/12/2012 at 8:00 p.m. 79 comments
+*   Most in U.S. won't be able to escape 'fiscal cliff' Published 11/13/2012 at 8:19 a.m. 60 comments
+*   Florida connection: Info emerges about second woman in Petraeus case Published 11/12/2012 at 6:33 a.m. 51 comments
 
-*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 211 comments
+*   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 217 comments
 *   Big land deals again big deal in Southwest Florida, housing expert says Published 11/9/2012 at 5:30 a.m. 14 comments
 *   Undercover mother: Lee mom seeks teachers' 'true colors' with secret recording Published 11/5/2012 at 5:00 a.m. 139 comments
+*   Country star LeAnn Rimes gives private concert to 150 in Naples home Published 11/10/2012 at 10:59 p.m. 26 comments
 *   Plans fizzle for SW Fla energy crop jatropha, company executive indicted Published 11/5/2012 at 8:00 a.m. 5 comments
-*   Country star LeAnn Rimes gives private concert to 150 in Naples home Published 11/10/2012 at 10:59 p.m. 27 comments
 
 Weather
 
@@ -461,40 +464,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 65° Fair Wind: NE 5mph Today 82° 66° Tue 08:00 PM Mostly Clear Temp: 72° Wed 08:00 AM Partly Sunny Showers Temp: 75° Wed 08:00 PM Partly Cloudy Temp: 71°
+Currently 65° Fair Wind: N 4mph Today 79° 65° Wed 08:00 PM Partly Cloudy Showers Temp: 70° Thu 08:00 AM Mostly Sunny Temp: 74° Thu 08:00 PM Mostly Clear Temp: 70°
 
-Feels Like: 72°
+Feels Like: 70°
 
-Humidity: 73%
-
-Precip: 11%
-
-Feels Like: 75°
-
-Humidity: 69%
+Humidity: 79%
 
 Precip: 16%
 
-Feels Like: 71°
+Feels Like: 74°
 
-Humidity: 76%
+Humidity: 69%
 
-Precip: 12%
+Precip: 10%
+
+Feels Like: 70°
+
+Humidity: 78%
+
+Precip: 9%
 
 More Weather » Calendar
 
-*   Tuesday Nov 13
 *   Wednesday Nov 14
 *   Thursday Nov 15
+*   Friday Nov 16
 *   More BROWSE Icon
-
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Veterans Portrait Project Exhibit IberiaBank on Marco Island 9 a.m.
-*   Barrier Islands Guided Walk Bowditch Point Recreational Park 9:30 a.m.
-*   Understanding Technology – Phones, Kindles, Nooks, iPads, Tablets, PC’s &. Macs FGCU Naples Center 10 a.m.
-*   Oil painting with Christine Rosen Gallery and Studios 10 a.m.
-
-More Events »
 
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   Yamuna Body Rolling Class Etudes de Ballet 8:50 a.m.
@@ -512,22 +507,18 @@ More Events »
 
 More Events »
 
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   26th Annual American Sand Sculpting Championship Holiday Inn - Fort Myers Beach 9 a.m.
+*   Baby boot camp Miromar Outlets 9 a.m.
+*   Veterans Portrait Project Exhibit IberiaBank on Marco Island 9 a.m.
+*   Nature and Wildlife Photography FGCU Naples Center 10 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   LPGA Tour
-    
-    Find course information, videos, photos and stories about CME Group Titleholders.
-    
-    Celebrity Sightings
-    
-    They're hot and they're out and about. Check out our daily celebrity sightings galleries.
-    
-    NewsMakers
-    
-    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
-    
 *   Our World
     
     Column looks at SW Florida through eyes of Daily News photojournalists.
@@ -535,6 +526,18 @@ More Events » Features
     Hot Home Sales
     
     Pictures, info about recently sold single-family homes in Collier and Lee.
+    
+    LPGA Tour
+    
+    Find videos, photos and stories about CME Group Titleholders.
+    
+*   Celebrity Sightings
+    
+    They're hot and they're out and about. Check out our daily celebrity sightings galleries.
+    
+    NewsMakers
+    
+    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
     
     Veterans Day
     
