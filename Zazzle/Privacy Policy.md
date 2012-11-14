@@ -15,7 +15,7 @@ Skip to content
 *   Sell
 *   Gift Center
 
-**Search** EXTENDED! Veteran's Day Sale: Up To 50% OFF! Last Day!     Click For Code Zazzle Privacy Policy Policies
+**Search** November Savings Event! 15% Off ALL Orders!    Use Code: SANTASAVINGS   Ends Tomorrow! (details) Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
