@@ -87,16 +87,15 @@ A NOTE FROM DAVID PELTIER
 
 *   HOT TOPICS:
 *   Grave Apple Worries
-*   Leucadia-Jefferies
+*   Fears Are Overblown
 *   Zurich Webinar
-*   130 Proof Beer
-*   Windows 8
-*   iPhone 5S
-*   Marissa Mayer
-*   Google $199 Laptop
-*   Kass
+*   Lumia 920
+*   Google Laptop
+*   Analysts' Actions
+*   Apple's Problem
+*   Mini Berkshire?
 
-pjava06.dc.thestreet.com Privacy Policy
+pjava02.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -251,15 +250,15 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 12,815.16 -0.23 0.00% NASDAQ 2,904.26 -0.61 -0.02% S&P 500 1,380.00 0.15 0.01% US 10 Yr 1.611% -0.002 Brokerage Partners Most Commented
+DOW 12,756.18 -58.90 -0.46% NASDAQ 2,883.89 -20.37 -0.70% S&P 500 1,374.53 -5.50 -0.40% US 10 Yr 1.589% -0.022 Brokerage Partners Most Commented
 
 *   Tesla Motors Pollutes Today for a Greener Tomorrow
 *   10 Worst Cars of All Time
-*   Gutless Microsoft: Set to Sell Out to Apple
+*   Solar Panels Don't Work!
 *   It's Not Apple, It's The 'Fiscal Cliff,' Stupid
-*   Obama Defeats Romney: 2012 Election Night Blog Recap
+*   Nokia Needs Lumia 920 to Shine
 
-Articles From Newser Huge Shakeup: Windows Chief Leaving Microsoft Pepsi's Latest: Fat-Blocking Soda OK, Obama, Now Can We Get Tough on Wall Street? See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Obama Playing Hardball on Taxes Even a Short Plunge Off Fiscal Cliff Will Hurt 465K Sign 'Dump Trump' Plea to Macy's See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
