@@ -1,4 +1,4 @@
-sale alerts offers looks groups **Clothing Bags Shoes Kids Home Men Beauty Sale Brands** About Privacy Policy July 30, 2012
+_&_Follow _S_Join OnSugar sale alerts offers looks groups **Clothing Bags Shoes Kids Home Men Beauty Sale Brands** About Privacy Policy July 30, 2012
 
 We at Sugar Publishing, Inc. (“Sugar,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the Sugar Terms of Use found here: http://www.sugarinc.com/tos.
 
