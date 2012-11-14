@@ -6,7 +6,7 @@ Invite Friends, Get $25
     *   *   My Orders
         *   Membership Info 1st Row
     *   Sign out Sign out
-*   | My Click on the heart to save all the items you want to store in the same place
+*   | My Favorites New! Click the to save your finds
 *   |   Credits: #{total\_credit}  
     Store credit : #{store\_credit}  
     Gift credit : #{gift\_credit}  
