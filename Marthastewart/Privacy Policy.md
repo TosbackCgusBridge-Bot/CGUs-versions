@@ -206,7 +206,6 @@ Give a Gift Subscription Today!
 *   Subscriptions
     *   Magazine Subscription Center
     *   Martha Stewart Living
-    *   Everyday Food
     *   Weddings
     *   Whole Living
     *   Email Newsletters
