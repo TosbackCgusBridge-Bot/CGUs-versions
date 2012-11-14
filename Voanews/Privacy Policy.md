@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Petreaus Scandal Ensares US Afghan Commander
-*   China Discusses Leadership Transition Online
+*   Leadership Change Begins in China
+*   Panetta Expresses Support for Allen
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
