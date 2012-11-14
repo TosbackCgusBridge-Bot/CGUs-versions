@@ -326,7 +326,7 @@ Search iVillage.com Search
     *   Decorate
         
     *   Clean &. Organize
-        
+        *   *   The Smart Home
     *   Garden
     *   Family Finance
     *   Green
@@ -506,7 +506,7 @@ See All Newsletters   best of video village
 *   Entertainment Kitchen Confessions Water and... Ice Cream? Leighton Meester Reveals Her Beauty Secrets
 *   Food Featured (Food) How to Truss a Turkey
 *   Entertainment Celebrity Spotlight Kristen Stewart: "I Kinda Can't Wait" to Be a Mom
-*   Entertainment 5min Media Elmo Puppeteer Leaves 'Sesame Street' in Wake of Underage Sex Allegations
+*   Health Learn How Now No Gym Membership? No Excuse! At Home Hip and Thigh Exercises
 *   Beauty My Best Idea Quick Tips for Getting Party Pretty in a Pinch
 
   
@@ -518,6 +518,7 @@ best of iVillage
 *   Beauty DIY Beautify How to Get Sexy Eyes Everyone Will Envy
 *   Homeandgarden Thanksgiving 17 Thanksgiving Finds for Your Home
 *   Parenting Vacation + Travel Tips for Traveling While You're Pregnant
+*   Health Learn How Now No Gym Membership? No Excuse! At Home Hip and Thigh Exercises
 
 *   Join iVillage
 *   Message Boards
