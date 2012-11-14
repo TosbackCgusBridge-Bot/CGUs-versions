@@ -79,7 +79,7 @@ Turn Passion into Action TM
       
     **Apply for your NWF BankAmericard Cash RewardsTM card today >>**
 
-Donate  |   Shop   |   Magazines   |   Action Center   |   E-Newsletter   |   Contact Us  |   Jobs   |         Kids Fun Things:  
+Donate  |  Shop  |  Where We Work  |   About Us  |   E-Newsletter  |  Contact Us  |   Jobs   |         Kids Fun Things:  
 Activity Finder  
 Nature Find   
 Animal Games   
@@ -90,7 +90,7 @@ Volunteer 
 Take Action   
 Adopt an Animal  
 Green Your School Magazines:   
-Ranger Rick  
+Ranger Rick   
 Ranger Rick Jr.   
 National Wildlife  
 Wildlife News:   
