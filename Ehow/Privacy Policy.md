@@ -14,7 +14,7 @@ Featured:
 
 Holiday
 
-Allergies
+Life Skills
 
 1.  eHow
 2.  Privacy Policy
