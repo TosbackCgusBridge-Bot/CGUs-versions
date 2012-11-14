@@ -631,25 +631,25 @@ Most Popular
 *   Commented
 *   Emailed
 
+*   Kart racing driving Ventura beach residents batty Published 11/12/2012 at 5:14 p.m. 65 comments
+*   Will: Conservatives, start all over again Published 11/10/2012 at 8:01 p.m. 101 comments
+*   Spearmint Rhino exotic dancers settle suit for nearly $13 million Updated 11/13/2012 at 8:22 p.m.
+*   Officials look at possible expansion of Santa Monica Mountains park Published 11/12/2012 at 4:42 p.m. 27 comments
 *   4 injured in crash on Highway 101 interchange Updated 11/12/2012 at 6:40 p.m.
-*   Ventura County representatives know 'fiscal cliff' is on their agenda Published 11/11/2012 at 4:56 p.m. 71 comments
-*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 148 comments
-*   Kart racing driving Ventura beach residents batty Published 11/12/2012 at 5:14 p.m. 20 comments
-*   Will: Conservatives, start all over again Published 11/10/2012 at 8:01 p.m. 64 comments
 
-Photo Galleries Surfers remember Jack Cantrell Camarillo vs. Harvard-Westlake Ojai veterans find help through horse…
+Photo Galleries Ventura County's Most Wanted November… Surfers remember Jack Cantrell Veterans honored at Reagan Library
 
+*   Will: Conservatives, start all over again Published 11/10/2012 at 8:01 p.m. 101 comments
+*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 161 comments
+*   Ventura County representatives know 'fiscal cliff' is on their agenda Published 11/11/2012 at 4:56 p.m. 76 comments
 *   Morning chat Published 11/9/2012 at 12:00 a.m. 276 comments
-*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 148 comments
-*   Ventura County representatives know 'fiscal cliff' is on their agenda Published 11/11/2012 at 4:56 p.m. 71 comments
-*   Will: Conservatives, start all over again Published 11/10/2012 at 8:01 p.m. 64 comments
-*   Job-based health coverage falls on hard times Published 11/10/2012 at 8:42 p.m. 54 comments
+*   Kart racing driving Ventura beach residents batty Published 11/12/2012 at 5:14 p.m. 65 comments
 
 *   Authorities warn of "knock knock" burglaries in east Ventura County Published 11/8/2012 at 12:11 p.m. 0 comments
 *   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
 *   18-year-old accused of setting family's basset hound on fire near Camarillo Published 11/9/2012 at 10:13 a.m. 0 comments
 *   Veterans in Ojai find hope, help through horse therapy Published 11/10/2012 at 9:14 p.m. 5 comments
-*   Wal-Mart's new strategies allow access into Ventura County cities Published 11/3/2012 at 7:17 p.m. 75 comments
+*   UCSB researchers discover breakthrough on replacement organs Published 11/12/2012 at 5:30 p.m. 11 comments
 
 Weather
 
@@ -657,25 +657,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 47° Fair Wind: NE 8mph Today 74° 51° Tue 05:00 PM Mostly Clear Temp: 63° Wed 05:00 AM Mostly Clear Temp: 51° Wed 05:00 PM Partly Cloudy Temp: 64°
+Currently 51° Fair Wind: NE 4mph Today 72° 53° Wed 05:00 PM Partly Cloudy Temp: 63° Thu 05:00 AM Mostly Clear Temp: 53° Thu 05:00 PM Mostly Cloudy Showers Temp: 61°
 
 Feels Like: 63°
 
-Humidity: 39%
-
-Precip: 0%
-
-Feels Like: 51°
-
-Humidity: 50%
-
-Precip: 0%
-
-Feels Like: 64°
-
-Humidity: 50%
+Humidity: 68%
 
 Precip: 4%
+
+Feels Like: 53°
+
+Humidity: 77%
+
+Precip: 13%
+
+Feels Like: 61°
+
+Humidity: 83%
+
+Precip: 32%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -721,18 +721,10 @@ More bloggers Wire
 
 Calendar
 
-*   Tuesday Nov 13
 *   Wednesday Nov 14
 *   Thursday Nov 15
+*   Friday Nov 16
 *   More BROWSE Icon
-
-*   You’re Not the Boss of Me! Effective Management of Employees Courtyard by Marriott - Oxnard 7:30 a.m.
-*   CI Announces IGER Advanced Export Workshop on Trade Finance and Insurance CSUCI California State University 9 a.m.
-*   Opera on the GO! Santa Barbara Public Library - Central Library 5:30 p.m.
-*   FREE First-Time Home Buyers Workshop Simi Valley Library 7 p.m.
-*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
-
-More Events »
 
 *   Employment Law Update 2013 (Or…Should Auld Employment Laws be Forgot?) Los Robles Golf Course Banquet Center 8 a.m.
 *   St. Vincent's Annual Fashion Show &. Luncheon Villa Caridad Community Room at St. Vincent's (4202 Calle Real, Santa Barbara CA 93110) 10 a.m.
@@ -750,41 +742,53 @@ More Events »
 
 More Events »
 
+*   Consultant Support Group Economic Development Collaborative - Ventura County 8:30 a.m.
+*   International Trade Workshop Oxnard Chamber of Commerce 8:30 a.m.
+*   Young Voices at CAAM: High School Symposium California African American Museum 9 a.m.
+*   "District Attorney's Office to Host Fraud Prevention Seminar at The Bonaventure" The Bonaventure 11 a.m.
+*   Simi Valley Republican Women Federated November General Meeting: Friday, November 16, 2012. The Junkyard Resturant - 2585 Cochran St., Simi Valley, Ca. 11:30 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   California State News
+*   VC Star for iPhone
     
-    Stay up to date with what's happening across the state.
+    Keep up with the latest news, sports and more. Available in the Apple App Store.
     
     95 percent accurate
     
     Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
-    National News
-    
-    Stay up to date with what's happening across the nation.
-    
-*   #Your Community: How You See It
+    #Your Community: How You See It
     
     Your Instagram photos from your community.
+    
+*   Our E-Edition For iPad
+    
+    Subscribe and have today's paper delivered right to your iPad.
     
     Pigskin Picks
     
     Play our pro football picks contest for a shot at $500 and other prizes.
     
-    Football Contest
+    VC Star iPad app
     
-    Follow Loren Ledin's picks and choose your own leaderboard.
+    Top stories, local news, sports, business, lifestyle and more, all on your iPad.
     
 *   On Campus
     
     Video profiles of high school football programs.
     
-    Storm Shield
+    National News
     
-    A sophisticated weather radio on your iPhone and Android.
+    Stay up to date with what's happening across the nation.
+    
+    Football Contest
+    
+    Follow Loren Ledin's picks and choose your own leaderboard.
     
 
 On this site:
