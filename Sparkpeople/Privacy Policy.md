@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Metabolism Diet Resources
+*   Deadlift Dumbbells Resources
 
   
-Stay in Touch With SparkPeople **Site Maintenance Tonight**
+Stay in Touch With SparkPeople **10 Smart Ways to Burn More Calories**
 
-SparkPeople and all of our sister websites (including SparkRecipes and dailySpark) will be down for routine maintenance tonight from 11 p.m. to 5 a.m. EST (eastern standard time). Thanks for understanding!
+Ready to get better results without spending more time at the gym? Crank up your calorie burn with these easy tips!
 
 Read More
 
-*   Strateies needed from Thanksgiving to New Year's
-*   Healthy snack ideas for under 100 calories?
-*   Vegetables- yuck!
 *   Whats the 1st thing you noticed w/your weightloss?
-*   How do you fight boredom on the treadmill?
+*   How do you hold yourself accountable?
+*   Do you have a goal after weight loss?
+*   Vegetables- yuck!
+*   Keeping fruits and veggies affordable?
 
-View Demo **Torso Stretch**  
-Try this one at your desk! **Chef Meg's Roasted Winter Vegetables**  
+View Demo **Advanced IT Band Stretch**  
+**Chef Meg's Nutty Noodles**  
 Submitted By: **CHEF\_MEG**
 
-By roasting these hearty winter vegetables, we soften their strong tastes and bring out their natural sweetness. Full Recipe
+This quick and easy meal is a hit with kids. If they can't tolerate spicy foods, reduce or omit the sriracha. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
