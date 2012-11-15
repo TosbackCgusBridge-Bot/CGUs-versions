@@ -61,7 +61,7 @@
 
 suntimes
 
-Wednesday, November 14, 2012
+Thursday, November 15, 2012
 
 Search Search Site All Papers YAHOO!
 
@@ -75,8 +75,6 @@ Search Search Site All Papers YAHOO!
     *   Pets
     
     *   Good to Know
-    
-    *   Special Sections
     
     *   Daily Splash
     
