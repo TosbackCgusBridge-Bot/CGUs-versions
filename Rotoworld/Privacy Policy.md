@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
-*   Marlins could trade SP Ricky Nolasco next
-*   Jays get Reyes, Johnson, Buehrle from Fish
-*   Dodgers may wait on talks with Ryu Hyun-Jin
-*   Braves expressing interest in OF Cody Ross
-*   Report: Torii Hunter wants to play in Detroit
-*   Jason Bay considering signing with Indians
-*   Jaime Garcia (shoulder) throws off mound
-*   Cardinals release right-hander Kyle McClellan
-*   Cubs sign Scott Baker to one-year contract
-*   Mets' talks with Wright and Dickey 'ongoing'
-*   Indians, Phils and Dodgers interested in Youk
-*   Choo won't play in World Baseball Classic
+*   B.J. Upton is Braves' top free agent target
+*   Knuckleballer R.A. Dickey wins NL Cy Young
+*   Price edges out Verlander for AL Cy Young
+*   McCarthy cleared for full baseball activities
+*   Giants finalize three-year deal with Affeldt
+*   Jonny Gomes seeking multi-year deal
+*   Report: Marlins shopping Logan Morrison
+*   Yankees have interest in Marlins' Nolasco
+*   Victorino drawing interest from eight teams
+*   Tigers ink OF Hunter to two-year, $26M deal
+*   Marlins have no intention to trade Stanton
+*   Mariners looking at free agent Josh Hamilton
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   The Ballad Of Mark And Tim Nov 15
+*   Matchup: Dolphins @ Bills Nov 14
+*   Getting Defensive: Week 11 Nov 14
 *   Scheduling for Success Nov 14
 *   Week 11 Top Pickups Nov 13
 *   Pity the Foles Nov 13
 *   Big Ben's Bad Night Nov 13
 *   Best Available NFL Free Agents Nov 13
-*   The Week Of The Tight End Nov 12
-*   Matchup: Chiefs @ Steelers Nov 12
-*   Sunday Injuries: F-Jax Exits Nov 12
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Report: Vick's concussion truly 'significant'
-*   Report: Big Ben 'doubtful' for Sunday vs. BAL
-*   Clayton: Cutler 'doubtful' to play in Week 11
-*   Report: Darren McFadden 'iffy' for Week 11
-*   Tomlin: Mendenhall 'questionable' for Week 11
-*   Cowboys don't sound optimistic on RB Murray
-*   Brady Quinn says he's been cleared to return
-*   Cassel throws overtime INT to seal MNF loss
-*   Falcons cut ties with veteran LE Ray Edwards
-*   Bradshaw will have 'battery of tests' on neck
-*   Eli Manning to rest tired arm during bye week
-*   Munchak: We'll get Kenny Britt more involved
+*   Raiders envisioned 2-4 week absence for DMC?
+*   Ryan Mathews misses practice with neck issue
+*   Hernandez limited in Wednesday's practice
+*   Alex Smith cleared for non-contact drills
+*   Roethlisberger's rib may not heal for 6 weeks
+*   Pierre Garcon 'could play' against Eagles
+*   Julio Jones held out of practice Wednesday
+*   Darren Sproles (hand) resumes practicing
+*   Packers rule Clay Matthews out for Week 11
+*   McFadden doesn't return to practice Wednesday
+*   Rex on Tebow: Tim was never going to start
+*   Matt Cassel will make another start on Sunday
 
 NBA PAGES
 
@@ -134,6 +134,7 @@ NBA PAGES
 
 COLUMNS
 
+*   Anderson Varejao Strikes Again Nov 14
 *   Dose: Jennings &. Bynum News Nov 13
 *   Dose: Bass, Celtics Play 5 Nov 12
 *   NBA Chat: Monday @ 12:30 ET Nov 11
@@ -141,7 +142,6 @@ COLUMNS
 *   Dose: Lakers in Transition Nov 10
 *   DeAndre the Giant Nov 9
 *   Dose: Serge Ibaka Explosion Nov 9
-*   NBA Live Chat Thursday Nov 8
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   DeMarcus Cousins set to return Friday
-*   LaMarcus Aldridge scared by wrist injury
-*   Varejao's 35 &18 go to waste for Cavs
-*   Jose Calderon triple-doubles in tough win
-*   Andrew Bogut (ankle) may not play til January
-*   Steve Nash (leg) out another week or two
-*   Manu Ginobili iffy on Tuesday w/ back pain
-*   Report: Kyle Lowry gets 2nd opinion on ankle
-*   Mike D'Antoni says he'll coach Friday night
-*   Report: Chase Budinger out 3-4 months
-*   Shawn Marion may be out another week
-*   Tony Parker expected back in lineup Tuesday
+*   Price (ankle) was available to return on Wed
+*   Still no timetable on John Wall's return
+*   Dwyane Wade awful playing w/ foot injury
+*   Harrison Barnes explodes for 19 &. 13
+*   Elton Brand finally comes through in start
+*   Waiver Wire alert: Seraphin breaks out
+*   Jordan Crawford breaks out with 21 points
+*   Greivis Vasquez scores career-high 24
+*   Rajon Rondo iffy for Thursday w/ ankle sprain
+*   A.J. Price (ankle) doesn't return to game
+*   Kyle Singler scores 16 in first start
+*   Shawn Marion to travel with Mavs on road trip
 
 NHL PAGES
 
@@ -185,6 +185,7 @@ NHL PAGES
 
 COLUMNS
 
+*   Hawks Prospects Rule Nov 14
 *   Jordan Eberle &. Chad Billins Nov 12
 *   Bruins Tops in Swiss League Nov 9
 *   Strome Raising his Game Nov 6
@@ -192,7 +193,6 @@ COLUMNS
 *   Seguin Making Swiss Impact Nov 2
 *   Graovac Makes Wild Proud! Oct 30
 *   Four studs and a Minor Leaguer Oct 29
-*   Omark and Brunner Burning! Oct 27
 
 PREMIUM CONTENT
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   NHL to cancel games through Dec. 15 in a week
+*   Paul Stastny set to play for Munich in DEL
+*   Wayne Simmonds leaves Czech team
+*   Report:Valtteri Filppula (knee) out 6-8 weeks
+*   Kevin Klein to play in Denmark during lockout
+*   Nicklas Grossmann set to return to Sodertalje
+*   Agent: Cam Fowler will play in Sweden
+*   Jared Cowen will have hip surgery Saturday
+*   Andrej Meszaros (Achilles) is on the mend
+*   Justin Schultz still leads AHL scoring race
 *   Brandon Dubinsky out with broken hand
 *   Alec Martinez hit by puck, sent to hospital
-*   Oilers' trio great in OKC loss to Marlies
-*   Brett Hull: Ovechkin will 'thrive' with Oates
-*   Sidney Crosby unhappy with CBA standoff
-*   Jeremy Roenick takes shot at Patrick Marleau
-*   Prospect Cody Goloubef out six to 10 weeks
-*   D Fedor Tyutin officially signs with KHL
-*   Max Pacioretty open to Swiss return
-*   Recchi to players: Offer will only get worse
-*   Report: Jared Cowen may be done for the year
-*   AHL tabs Curtis McElhinney as POTW
 
 NASCAR PAGES
 
@@ -229,6 +229,7 @@ NASCAR PAGES
 
 COLUMNS
 
+*   The Ford 400 Nov 14
 *   Wrap-up: Phoenix Int'l Raceway Nov 11
 *   Mid-Pack: AdvoCare 500 Nov 8
 *   The AdvoCare 500 Nov 7
@@ -236,7 +237,6 @@ COLUMNS
 *   Mid-Pack: Texas AAA 500 Nov 1
 *   The AAA 500 Oct 30
 *   Wrap-up: Martinsville Speedway Oct 28
-*   Mid-Pack: Tums Fast Relief 500 Oct 25
 
 PARTNERS
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
-*   Tim George Jr. wears rookie stripes at HMS
-*   Brendan Gaughan back in No. 33 for finale
-*   Miami double for Joey Coulter, first in NNS
-*   Dillon will make first NNS start at Homestead
-*   Elliott Sadler at Miami
-*   Jeff Burton career Miami stats
-*   Kevin Harvick Homestead statistics
-*   Paul Menard Homestead notes of interest
-*   Kyle Busch Ford EcoBoost 400 advance
-*   Fast facts at Homestead-Miami on Matt Kenseth
-*   Travis Kvapil Homestead-Miami advance
-*   Labonte already prepares for fresh 2013 start
+*   Fast facts in Miami on Ricky Stenhouse Jr.
+*   Hal Martin preps for 2013 Nationwide ROTY run
+*   Martin Truex Jr. Homestead notes of interest
+*   It's Home Sweet Home for Juan Pablo Montoya
+*   Jamie McMurray at Homestead-Miami
+*   Michael Annett Homestead-Miami advance
+*   Kyle Larson gets sponsor for truck finale
+*   Leffler pilots Hillman Racing No. 27 at HMS
+*   Ryan Truex making first NNS start in Miami
+*   First time at Homestead for Cale Gale
+*   Regan Smith joins JRM in season finale
+*   Stenhouse Jr.'s 2013 Cup team taking shape
 
 GOLF PAGES
 
@@ -268,10 +268,10 @@ GOLF PAGES
 
 COLUMNS
 
+*   2012 Web.com Tour Graduates Nov 14
 *   See You Real Soon! Nov 11
 *   Grand Finale Nov 6
 *   Poulter's Playground Nov 4
-*   2012 Web.com Tour Graduates Nov 2
 *   Low Ryder Oct 30
 *   60-Wat? Oct 28
 *   Go East, Young Men Oct 23
@@ -285,6 +285,7 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Leonard will use career earnings exemption
 *   Ishikawa poised for rookie year on PGA TOUR
 *   Appleby figures to exhaust top-50 exemption
 *   Colsaerts earns fully exempt status for 2013
@@ -296,7 +297,6 @@ FANTASY GOLF NEWS
 *   Manassero emerges on a long day in Singapore
 *   Wi maximizes on his chances to lead the CMNHC
 *   Holmes WDs from Disney. solid season ends
-*   Barber's DQ benefits Lafeber, five others
 
 NFL DRAFT PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Manti Te'o, The Example Nov 14
 *   Hard Work Is the Ansah Nov 13
 *   Senior Prospect Rankings Nov 11
 *   Week 11 Matchup Preview Nov 9
@@ -318,7 +319,6 @@ COLUMNS
 *   Mauti Morphing Linebacker Nov 5
 *   Midseason NFL Mock Draft Nov 2
 *   Week Ten Matchup Preview Nov 2
-*   Midseason Mock Draft Nov 1
 
 PARTNERS
 
@@ -327,6 +327,11 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Kiper: If you want Te'o, better pick 2 or 3
+*   Noles QB Manuel will attend Senior Bowl
+*   Ansah makes 1st appearance in Kiper's top 32
+*   Manuel's recent success coming in no-huddle
+*   Saturday 'could possibly' be RB Bell's finale
 *   Pauline: Chances are QB Murray will go to NFL
 *   'Foregone conclusion' Bray &. Hunter go to NFL
 *   Pauline: CB Roby will consider NFL if 1st rd
@@ -334,11 +339,6 @@ NFL DRAFT NEWS
 *   Tajh Boyd's return in 2013 'is up in the air'
 *   Logan Thomas will likely ask for Draft grade
 *   Cyclones' Klein adjusting to WLB switch
-*   Brooks: OLB Barr flashed 'dominant ability'
-*   Beavers starting QB vs Cal still undecided
-*   Rutgers RB Jamison is 50-50 to play (ankle)
-*   Oklahoma State QB Walsh cleared to play
-*   Seferian-Jenkins will keep seeing DE snaps
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NBA:LaMarcus Aldridge scared by wrist injury
-*   MLB:Jays get Reyes, Johnson, Buehrle from Fish
-*   NBA:Jose Calderon triple-doubles in tough win
-*   NFL:Report: Big Ben 'doubtful' for Sunday vs. BAL
-*   NFL:Clayton: Cutler 'doubtful' to play in Week 11
-*   MLB:Report: Torii Hunter wants to play in Detroit
-*   NBA:Report: Kyle Lowry gets 2nd opinion on ankle
-*   MLB:Jaime Garcia (shoulder) throws off mound
-*   NFL:Tomlin: Mendenhall 'questionable' for Week 11
-*   NBA:Mike D'Antoni says he'll coach Friday night
-*   NAS:Tim George Jr. wears rookie stripes at HMS
-*   NAS:Brendan Gaughan back in No. 33 for finale
+*   NBA:Still no timetable on John Wall's return
+*   NBA:Harrison Barnes explodes for 19 &. 13
+*   NBA:Waiver Wire alert: Seraphin breaks out
+*   NBA:Greivis Vasquez scores career-high 24
+*   NBA:Dwyane Wade awful playing w/ foot injury
+*   NBA:Rajon Rondo iffy for Thursday w/ ankle sprain
+*   NFL:Raiders envisioned 2-4 week absence for DMC?
+*   NFL:Ryan Mathews misses practice with neck issue
+*   MLB:McCarthy cleared for full baseball activities
+*   NFL:Hernandez limited in Wednesday's practice
+*   NFL:Alex Smith cleared for non-contact drills
+*   NBA:Price (ankle) was available to return on Wed
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. McFaddenNFL (6419)
-*   2A. HernandezNFL (5818)
-*   3K. LoveNBA (5805)
-*   4M. ReeceNFL (5729)
-*   5K. LowryNBA (5658)
+*   1D. McFaddenNFL (6916)
+*   2A. HernandezNFL (6233)
+*   3D. SprolesNFL (6148)
+*   4D. AlexanderNFL (5952)
+*   5K. LoveNBA (5890)
 
-*   6D. AmendolaNFL (5654)
-*   7D. SprolesNFL (5523)
-*   8T. JonesNFL (5477)
-*   9D. MurrayNFL (5389)
-*   10N. HilarioNBA (5337)
+*   6K. LowryNBA (5841)
+*   7D. MurrayNFL (5736)
+*   8M. ReeceNFL (5698)
+*   9D. AmendolaNFL (5645)
+*   10A. BradshawNFL (5380)
 
   
 Video Center
@@ -526,6 +526,14 @@ Video Center
 *   »
 
 *      
+    SportsTalk: Bold predictions
+*      
+    Start or Sit: Dolphins - Bills
+*      
+    SportsTalk: Waiver QBs
+*      
+    Week 11's top pickups
+*      
     Week 10 Starts &. Sits 4 p.m.
 *      
     Week 10 Starts &. Sits 1 p.m.
@@ -533,45 +541,37 @@ Video Center
     NBA: Hot fantasy starts
 *      
     Start or Sit: Colts - Jaguars
-*      
-    Week 10's top pickups
-*      
-    Start or Sit: Eagles - Saints
-*      
-    Start &. Sit: DAL @ ATL
-*      
-    Week 9 Starts &. Sits 4 p.m.
 
   
   
-  Headlines Scheduling for Success  
-Nov 14 Adam Levitan breaks down which teams have the best and worst matchups in the fantasy playoffs as part of Tuesday's Dose.  
+  Headlines The Ballad Of Mark And Tim  
+Nov 15 Patrick Daugherty checks in on the latest Jets' mess, Ryan Mathews and Darren McFadden in Thursday's Dose.  
   
 More NFL Columns
 
+*   »The Ballad Of Mark And Tim Nov 15
+*   »Matchup: Dolphins @ Bills Nov 14
+*   »Getting Defensive: Week 11 Nov 14
 *   »Scheduling for Success Nov 14
 *   »Week 11 Top Pickups Nov 13
 *   »Pity the Foles Nov 13
 *   »Big Ben's Bad Night Nov 13
 *   »Best Available NFL Free Agents Nov 13
-*   »The Week Of The Tight End Nov 12
-*   »Matchup: Chiefs @ Steelers Nov 12
-*   »Sunday Injuries: F-Jax Exits Nov 12
 
 NFL Headlines
 
-*   »Report: Vick's concussion truly 'significant'
-*   »Report: Big Ben 'doubtful' for Sunday vs. BAL
-*   »Clayton: Cutler 'doubtful' to play in Week 11
-*   »Report: Darren McFadden 'iffy' for Week 11
-*   »Tomlin: Mendenhall 'questionable' for Week 11
-*   »Cowboys don't sound optimistic on RB Murray
-*   »Brady Quinn says he's been cleared to return
-*   »Cassel throws overtime INT to seal MNF loss
-*   »Falcons cut ties with veteran LE Ray Edwards
-*   »Bradshaw will have 'battery of tests' on neck
-*   »Eli Manning to rest tired arm during bye week
-*   »Munchak: We'll get Kenny Britt more involved
+*   »Raiders envisioned 2-4 week absence for DMC?
+*   »Ryan Mathews misses practice with neck issue
+*   »Hernandez limited in Wednesday's practice
+*   »Alex Smith cleared for non-contact drills
+*   »Roethlisberger's rib may not heal for 6 weeks
+*   »Pierre Garcon 'could play' against Eagles
+*   »Julio Jones held out of practice Wednesday
+*   »Darren Sproles (hand) resumes practicing
+*   »Packers rule Clay Matthews out for Week 11
+*   »McFadden doesn't return to practice Wednesday
+*   »Rex on Tebow: Tim was never going to start
+*   »Matt Cassel will make another start on Sunday
 
 NFL Links
 
