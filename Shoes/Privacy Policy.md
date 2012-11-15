@@ -1,5 +1,3 @@
-Invite Friends, Get $10
-
 *   Free Shipping
 *   Easy Returns
 
