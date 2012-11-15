@@ -28,7 +28,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   New Arrivals
     *   Complete Looks
     *   Women's Brands
-    *   Half-Yearly Sale
+    *   Sale
     *   Nordstrom Gift Cards
     *   Holiday Gifts for Her
     
@@ -207,7 +207,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Juniors' Brands
     *   All Juniors'
     *   Under $30
-    *   Half-Yearly Sale
+    *   Sale
     *   Nordstrom Gift Cards
     *   Holiday Gifts for Juniors
     
@@ -261,7 +261,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Complete Looks
     *   Kids' Brands
     *   Under $30
-    *   Half-Yearly Sale
+    *   Sale
     *   Nordstrom Gift Cards
     *   Holiday Gifts for Baby &. Kids
     
@@ -360,6 +360,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Accessories
     *   Beauty &. Fragrance
     *   Designer
+    *   Contemporary
     
     *   Men's Brands
     *   Juniors' Brands
