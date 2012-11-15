@@ -23,22 +23,24 @@ Go Catalog Quick Order Sign Up For Email Savings!
     *   Bags, Wallets &. Totes
     *   Balloons &. Streamers
     *   Candy
-    *   Costumes
-    *   Costume Accessories
     *   Gift Bags, Wrap &. Ribbon
     *   Hats, Caps &. Bandannas
     *   Invitations &. Stationery
     *   Key Chains
     *   Novelty Jewelry
-    
     *   Party Decorations
     *   Party Favor &. Goody Bags
+    
     *   Party Favors
     *   Party Tableware
     *   Party Theme Packs
     *   Personalized Products
     *   Solid Color Tableware
     *   See More Party Supplies &. Favors
+    *   Costumes
+    *   Christmas Costumes
+    *   Costume Accessories
+    *   Halloween Costumes
     
     Shop By Occasion*   Special Occasions &. Events
     *   Anniversary Party
