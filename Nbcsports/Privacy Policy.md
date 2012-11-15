@@ -1,69 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Jailed for fraud, borrower wonders why he was targeted
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Israel: 3 civilians killed by rockets from Gaza
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Jeff Chiu / AP How's that back-up plan?
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports Whose comeback has been better?
     
-    Kacsmar: Some NFL teams put a lot of value into how they fill the backup quarterback position, while others just count on their starter staying healthy. Week 10 brought the matter into sharp focus for four teams. Let’s look at the viability of all 32 teams' backup QB situations.
+    PFT Live: Mike Florio debates whether the Comeback Player of the Year should be Broncos QB Peyton Manning or Vikings RB Adrian Peterson.
     
-    PFT: 49ers' Smith gets second opinion on head injury PFT: Roethlisberger's injury 'pretty significant' PFT: Ex-NFL TE, Solo in domestic incident PFT: NFLPA wants independent concussion checks PFT: Charges dropped against Vikings' Peterson Elway puts it on the line again in latest comeback PFT's Week 10 power rankings Where will Ray Edwards land? Ad
+    Elway puts it on the line again in latest comeback PFT: Tebow admits 'terrible' talk leads to 'sadness' PFT: Rex calls source ripping Tebow 'cowardly' PFT: Big Ben out, worried mostly about rib PFT: Concussed Vick not ruled out for Sunday CSN: Lurie doesn't see Reid the same way PFT: Bryant to take anger management counseling PFT Live: Billick talks about elite QBs Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Alex Trautwig / Getty Images Salary dump — or win-win?
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Chris O'meara / AP Price squeaks past Verlander
     
-    Toronto is acquiring SS Jose Reyes, RHP Josh Johnson, LHP Mark Buehrle and others from Miami for a raft of prospects and young major leaguers. And the deal might work out for both.
+    HBT: The Rays' David Price won the AL Cy Young Award by the slimmest of margins Wednesday. He received 14 of 28 first-place votes and finished with 153 points to 149 for the Tigers' Justin Verlander, chosen first on 13 ballots.  Other than a 1969 tie, it was the tightest race in the history of the AL award.
     
-    HBT: A's Melvin AL Manager of the year HBT: Nats' Johnson NL Manager of the year HBT: Time for Selig to force Loria out of MLB HBT: Harper is NL's top rookie HBT: Trout is AL's Rookie of the Year HBT: Weiss' 1-year deal scared off Giambi HBT: Ranking possible expansion markets HBT: Torii Hunter meeting with Tigers today Ad
+    HBT: Dickey first knuckleballer to win Cy Young HBT: Hunter signs with Tigers for 2 years, $26M HBT: Marlins are a kleptocracy, not a team HBT: Marlins send stars to Jays in megatrade SportsTalk: Something's fishy in Miami Baseball owners quiet on first day of meetings Affeldt, Giants complete $18 million, 3-year deal Melvin will welcome back Colon to A's Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Nathan Denette / AP Sakic enters Hall as Avs hero
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Mike Cassese / Reuters 'Let's all try and stay positive'
     
-    PHT: Joe Sakic was taken with the 15th overall pick in the 1987 NHL Entry Draft by the Quebec Nordiques and he never played for another NHL franchise. Once the franchise moved to Denver, Sakic played a key role in putting it on the map, leading the Avalanche to two Stanley Cups.
+    PHT: Wayne Gretzky’s prediction for the return of NHL almost sounds like an injury report. He thinks a deal will be reached in 4-6 weeks.
     
-    PHT: Sundin thanks Leaf fans during Hall induction PHT: Bure thanks fans as he enters Hall PHT: Oates goes from undrafted to Hall of Fame PHT: Who should be in 2013's Hall of Fame class? Sakic was no ordinary Joe NHL.com: Quiet steadiness defined Sakic's career PHT: Sakic doesn't regret retiring, with one exception PHT: Yes, Bure was very, very good  |  Elite skills Ad
+    Even phone calls stop between NHL, NHLPA PHT: When will next set of games be canceled? PHT: Wings get bad news on Filppula's knee CSN: Scars beginning to show on both sides PHT: Who should be in 2013's Hall of Fame class? PHT: Sakic enters Hall of Fame as Avs hero PHT: Bure thanks fans as he enters Hall PHT: Sundin thanks Leaf fans during Hall induction Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Andrew D. Bernstein / Getty Images Contributor Spurs win with great play at end
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Andrew D. Bernstein / Getty Images Contributor Hot Clippers take care of Heat
     
-    PBT: On a night when Kobe Bryant was brilliant and the best player on the floor, it was the Spurs and a great play design by Gregg Popovich that were the difference as San Antonio bested the Lakers 84-82.
+    Blake Griffin and Chris Paul had double-doubles, with Paul keying a third-quarter spurt that helped carry the Los Angeles Clippers to a 107-100 win over the Miami Heat on Wednesday.
     
-    Will D'Antoni's system fit Lakers? D'Antoni to make debut on Friday What, why and how of D'Antoni's hiring Bobcats climb to .500 with win over Wizards Pacers finish on 9-0 run, still lose to Raptors Varejao's 35 and 18 go to waste for Cavs vs. Nets PBT: Rockets' White sent to D-League after absences PBT: Heat reportedly on top of Kenyon Martin's list Ad
+    PBT: Clippers simply more dialed in now PBT: Grizzlies top Thunder, continue hot start Mailbag: Why don't Lakers just go with Coach Kobe? SportsTalk: Will D'Antoni's system fit Lakers? SportsTalk: What, why and how of D'Antoni hiring PBT: Magic in 'mourning' over Laker hire? Spare us Trash Talk: D'Antoni is right man for Lakers PBT: D'Antoni to make Lakers debut on Friday Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Tom Mihalek / AP file Big East OKs East, West divisions
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Steve Dykes / Getty Images Top teams won't get tripped up
     
-    CFT: Following up on months of curiosity, the Big East announced its two new divisions for the soon-to-be 12-member conference. The only oddity? Temple, as a member of the West division.
+    CFT's Predictions 101: No. 1 Oregon, No. 2 Kansas State and No. 3 Notre Dame figure to keep their national title hopes alive with wins Saturday.
     
-    CFT: Ducks backup QB gets defensive call CFT: Houston CB survives near-fatal injury CFT: Michigan DE gets year probation for home invasion BCS is an election, so why not campaign? Officials settle on 'access bowls' CFT: Louisville loses top rusher for rest of season CFT: Tuberville takes blame for sideline incident CFT: Wash. St. AD comes to Leach's defense Ad
+    Injuries test No. 1 Ducks' 'D'   |  Stanford ready CFT: Texas A&M WR missing since Monday N. Illinois wins MAC West   |  Coach to leave? Heisman Hopefuls: Could a freshman win? SportsTalk: Klein or Manziel for Heisman? Tar Heels next up in Virginia's bowl drive CFT: Alabama gov. questions Saban's play calling SEC feeling impact of No. 9 Texas A&M, Missouri Ad
 *   NCAA HOOPS
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Dave Martin / AP Curry leads Duke over Kentucky
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Dave Martin / AP Kentucky not great, but they will be
     
-    CBT: Sparked by a 21-7 second half run, No. 9 Duke beat No. 3 Kentucky 75-68 Tuesday night in the nightcap of the Champions Classic with Blue Devil guard Seth Curry leading the way with 23 points.
+    CBT: Losing to Duke wasn’t how the season was supposed to begin for the Wildcats. As of now, the defending champions aren't title contenders, but they will get there.
     
-    CBT: No. 21 Michigan St. outlasts No. 7 Kansas Albany pulls off stunning upset of Washington No. 13 UCLA squeaks by UC Irvine in OT CBT: Wichita State overcomes VCU 'Havoc' No. 1 Baylor Lady Bears wallop No. 6 Kentucky CBT: UConn is team of the week CBT: No. 19 Gonzaga incinerates West Virginia CBT: Youngstown St. silences Georgia on road Ad
+    Murphy makes sure No. 10 UF beats No. 22 Wis. No. 15 Creighton recovers to beat UAB No Porter, no problem for Georgetown CBT: UCLA appeals Muhammed's eligibility ruling Indiana expect another top recruiting class CBT: Memphis' monster class coming together Frankamp signs with KU   |  Louisville's additions Ohio St. adds recruits Loving, Williams to fold Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Ross D. Franklin / AP No more tweeting in car
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Hassan Ammar / AP F1 back in US, but can it last?
     
-    Brad Keselowski was fined $25,000 by NASCAR on Monday for tweeting during the red-flag at Phoenix International Raceway.
+    Formula One, the world's most popular motorsport, is trying once again to conquer its final frontier: the United States. This time, the Europeans aim to make it stick.
     
-    Gordon fined $100,000 for wreck Suspending Jeff Gordon would end "Boys Have At It" Keselowski on brink of Cup title Notebook: Gordon, Bowyer tangle at Phoenix Patrick won't run Indianapolis 500 Go Daddy to air 2 Super Bowl spots with Patrick Brown first black NHRA champion Logano wins. Sadler hurts Nationwide chances Ad
+    Paul Wolfe initially said no to Keselowski's offer NASCAR's Keselowski can't tweet in car anymore Gordon fined $100K, docked 25 points by NASCAR Suspending Jeff Gordon would end "Boys Have At It" Wild race blows championship open for Keselowski Roush Fenway Racing makes more crew chief changes Bobby Rahal finally ready to give son Graham a job Notebook: Gordon, Bowyer tangle at Phoenix Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Adrian Dennis / AFP - Getty Images Chelsea: Players heard ref's slur
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Claudio Bresciani / AP Ibrahimovic amazes
     
-    Chelsea went public for the first time Tuesday with detailed racial abuse allegations against a referee, insisting there was no misunderstanding and that its players heard Mark Clattenburg use the word "monkey'' during a Premier League match.
+    Roundup: Zlatan Ibrahimovic illuminated a low-key night of international friendlies on Wednesday, scoring an audacious overhead kick from 30 yards to cap his four-goal display in Sweden's 4-2 win over England.
     
-    Pele recovering from surgery in Brazil Altidore back in U.S. team plans PST: Galaxy shuts out Sounders Dynamo strike first Highlights of Dynamo's victory Bruin propels Dynamo to win PST: Ranking four remaining MLS goalkeepers Roundup: Messi passes Pele's goals in one year Ad
+    PST: Watch Ibrahimovic's amazing bicycle kick PFT: Solo marries ex-NFL player after legal dispute Pele undergoing physiotherapy after hip surgery Will Brazil get enough World Cup-goers? Chelsea details race claim. Police probe dropped Japan wins, on verge of reaching 2014 World Cup Messi on shortlist for FIFA goal of the year Man United debt drops to $570M in 3 months Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Lewis the first American to win POY since 1994
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Tseng-Lewis battling for world No. 1
     
-    As the LPGA wraps up its season, Stacy Lewis has already wrapped up POY - the first time for an American since 1994.
+    Yani Tseng once had a stranglehold on world No. 1, but a mid-season slump has left the door open for a hard-charging Stacy Lewis.
     
-    McIlroy wins PGA Player of Year, Vardon Trophy Most surprising player outside top 125? G-Mac: Research shows long-putter advantage Beljan's next goal? A practice round with Tiger Notes: Woods not considered for Comeback Player Beljan completes amazing fairy-tale win at Disney Rory wins Euro money title, youngest in 32 years Quotes of the Week LPGA Championship returning to Locust Hill in '13 Tips for adding more distance to your tee shots Ad
+    Tseng-Lewis battling for world No. 1 LPGA money title, Vare Trophy up for grabs Lewis, Kerr lead Americans to 8 LPGA titles in 2012 McIlroy wins PGA Player of Year, Vardon Trophy Lyle: 'Never say no' to Ryder Cup captaincy Behind the scenes with ... Brandel Chamblee PGA Tour Q-School second-stage sites and scoring Pressel's disappointing year comes to a close G-Mac: Research shows long-putter advantage Focus on making solid contact before anything else Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Mark Blinch / Reuters Eaton, Felix honored as top U.S. track athletes
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Samuel Kubani / AFP - Getty Images Unsure when Vonn will ski again
     
-    Vonn being tested for 'severe intestinal pain' Indian athlete declared male after rape claim Lochte, Franklin impress in Minnesota Myhrer wins World Cup slalom Chan, Korpi win gold at Rostelecom Cup OlympicTalk: Lolo scores silver in bobsled debut Windsurfing stays in Olympics over kiteboarding Myhrer wins World Cup slalom premier in Finland Ad
+    Lindsey Vonn has been released from a hospital in Colorado, although details of her illness remain unclear and there is no indication of when she can begin skiing again.
+    
+    Franklin officially signs to swim for Cal 3-time gymnastics world champion Memmel retires Eaton, Felix honored as top U.S. track athletes Uzbek gymnast banned for doping at Olympics Indian athlete declared male after rape claim Lochte, Franklin impress in Minnesota Myhrer wins World Cup slalom Chan, Korpi win gold at Rostelecom Cup Ad
 *   More
-    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Franck Fife / AFP - Getty Images Vonn has 'severe intestinal pain'
+    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Samuel Kubani / AFP - Getty Images Djokovic caps his 2012 with grit
     
-    Lindsey Vonn remains hospitalized in Colorado with "severe intestinal pain" that has been affecting her for the past two weeks.
+    If the early stage of Novak Djokovic’s career was mercurial talent, and 2011 was bottomless determination, then 2012 was grit.
     
-    Djokovic, Federer reach ATP final Stanford runner to pull off remarkable double Armstrong cuts ties to Livestrong The Week in Sports Pictures North Carolina QB sets prep mark in 104-80 win Wladimir Klitschko retains heavyweight belts Mares beats Moreno, defends 122-pound title Tour champ Wiggins released from hospital Ad
+    Federer wants faster courts to encourage attack Tennis mulls anti-doping step Livestrong charity drops Armstrong name Gun range customers can shoot ... each other? Off the Bench: Player misses 4 straight layups Off the Bench: Meanwhile, at Bali Buffalo races ... Race to breach China market heats up Stanford runner to pull off remarkable double Ad
 
 *   Scores
 *   Odds
@@ -182,10 +184,10 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com PFT: Texans take care of Bears  |  Falcons finally lose  
-CFT: Kansas State climbs to No. 1 in BCS standings  
-PHT: New Hall of Famer Sakic was clearly no ordinary Joe  
-NASCAR: Keselowski nears Sprint title. Gordon brawls  
+Tweet Also on NBCSports.com PFT Live: 14 teams that could be looking for a new coach  
+CFT's Predictions 101: Top teams won't get tripped up  
+Mailbag: Why don't Lakers just go with Coach Kobe?  
+Off the Bench: Worst basketball player ever?  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
