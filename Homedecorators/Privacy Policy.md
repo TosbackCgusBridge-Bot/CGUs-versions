@@ -147,10 +147,10 @@ We appreciate the trust you place in Home Decorators Collection, and we are comm
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:  
   
 Home Decorators Collection  
-8920 Pershall Road  
-Hazelwood, MO 63042  
-Phone: 1-877-537-8539 (toll-free)  
-Fax: 1-314-521-5780  
+3074 Chastain Meadows Parkway  
+Marietta, GA 30066  
+Phone: 1-800-245-2217 (toll-free)  
+Fax: 1-800-537-1467  
 Email us  
   
 **Information We Collect**  
