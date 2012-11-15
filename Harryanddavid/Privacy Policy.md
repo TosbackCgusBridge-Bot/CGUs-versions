@@ -219,7 +219,7 @@ This Website is owned by Harry &. David. For questions, comments, or assistance,
     *   Catalog Request
     *   Catalog Quick Shop
     *   View Catalog Online
-    *   Gift Cards
+    *   Gift Cards &. eGift Cards
     *   Harry and David Coupons
     *   Cheese and Sausage Gifts
     *   Chocolate Dipped Fruit
