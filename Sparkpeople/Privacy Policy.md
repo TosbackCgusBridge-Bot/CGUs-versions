@@ -143,26 +143,26 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Deadlift Dumbbells Resources
+*   Workout Machine Resources
 
   
-Stay in Touch With SparkPeople **10 Smart Ways to Burn More Calories**
+Stay in Touch With SparkPeople **15 Ways to Boost Your Calcium Intake**
 
-Ready to get better results without spending more time at the gym? Crank up your calorie burn with these easy tips!
+You're careful about calories and fussy about fat. But how conscious are you regarding calcium, the mineral that keeps you strong and healthy?
 
 Read More
 
-*   Whats the 1st thing you noticed w/your weightloss?
-*   How do you hold yourself accountable?
+*   Keeping fruits and veggies fresh
+*   Pantry staples
 *   Do you have a goal after weight loss?
-*   Vegetables- yuck!
+*   Describe the last time you felt proud of yourself.
 *   Keeping fruits and veggies affordable?
 
-View Demo **Advanced IT Band Stretch**  
-**Chef Meg's Nutty Noodles**  
+View Demo **Bridges on Balance Board**  
+A great leg and booty toner! **Herb Roasted Turkey**  
 Submitted By: **CHEF\_MEG**
 
-This quick and easy meal is a hit with kids. If they can't tolerate spicy foods, reduce or omit the sriracha. Full Recipe
+The only turkey recipe you'll ever need--no basting necessary. Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
