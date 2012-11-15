@@ -98,7 +98,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     30 Ways To Save Money Over Winter Break
 *   entertainment
     
-    Exclusive Ashley Greene Interview
+    See Ashley Greene On Seventeen!
 *   fashion
     
     Best Dressed at the BD2 Premiere!
@@ -108,7 +108,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win Lady Gaga's sultry fragrance, Fame. Type in the Freebie Phrase of the Day, found in the November Issue!
+**1 Winner!** Enter for a chance to win American Eagle's sweet new fragrance, Me. Type in the Freebie Phrase of the Day, found in the November Issue!
 
  enter now 
 
