@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  Jill Kelley Collected Generals
-2.  Partisan Hacks Follow the Money
-3.  Paula’s Emails Revealed
-4.  Five Facts About Jill Kelley
-5.  Five Best Jokes About the Petraeus Scandal
+1.  Romney's Final Insult
+2.  CIA Wanted No Benghazi Help
+3.  Liberals: Hold Your Fire!
+4.  Did TV Kill the GOP?
+5.  The ‘Adventure Junkie’ Husband
 
   Other News Entertainment
 
-*   Trend Report: '90s Style
-*   BING: Celebs' Exotic Pets
-*   Maria Menounos' Puppy Kisses &. More Celebri-pets
+*   Who Said It?: 2012 AMA Nominees
+*   The adoption option: Stars who've chosen to adopt
+*   How 'Twilight' Changed Their Lives
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘New Girl’: Fifty Shades of Schmidt
-*   ‘Sons of Anarchy’ recap: ‘Things are gonna get bloody, brother.’ Check.
-*   ‘Dancing With the Stars’: Hidden Gems of Week 8
+*   ‘Modern Family’ react: Matthew Broderick and Phil share a boys’ night
+*   ‘Supernatural’ recap: Heaven Only Knows
+*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
 *   **Get More from EW.com**
 
 Entertainment
 
-*   A Mormon Reporter On The Romney Bus
-*   Why Social-Media Shaming Is OK
-*   Broadwell's Father Was Convicted In 1983 Case With Echoes Of Petraeus Scandal
+*   Behind The Scenes Of The Wild Early Days Of The Rolling Stones
+*   Career Confidential: Alaskan Tour Guide Who Answered Questions About Sex, Pee, And Sarah Palin
+*   Did You Know Pete Wentz From Fall Out Boy Makes Dubstep Now?
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   The Petraeus Scandal Timeline
-*   Warner Big Favorite for Virginia Governor
-*   Lee Atwater on the Southern Strategy
+*   Jindal Rejects Romney's Explanation for Why He Lost
+*   The GOP's Problem Wasn't Mitt Romney
+*   Bonus Quote of the Day
 *   **Get More from Political Wire**
 
 The Daily Beast
