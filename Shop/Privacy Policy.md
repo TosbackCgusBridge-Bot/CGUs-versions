@@ -410,16 +410,10 @@ PacSun may link to unaffiliated third party websites. This Privacy Policy does n
 
 Effective Date: This policy was last updated on 10/09/2012.
 
-**Free shipping** on any domestic order over $75 (or flat $7)
-
 Sign up for emails for  
 a chance to win $100 Details
 
-Sign Up
-
-Find a PacSun Near You
-
-Find Store
+Sign Up PACSUN STORE INFO
 
 Find a Pacsun near you
 
