@@ -11,8 +11,8 @@
 *   broadcasts
 *   krux &. privacy
 
-Wikia Taps Krux To Support Data Strategy, Driving  
-Breakthrough Resutls for Consumers and Marketers
+GateHouse Media chooses Krux DMP to  
+power their data strategy. Read all about it...
 
 *   Home
 *   krux pro
