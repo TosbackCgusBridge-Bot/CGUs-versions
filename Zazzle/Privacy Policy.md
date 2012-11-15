@@ -15,7 +15,7 @@ Skip to content
 *   Sell
 *   Gift Center
 
-**Search** November Savings Event! 15% Off ALL Orders!    Use Code: SANTASAVINGS   Ends Tomorrow! (details) Zazzle Privacy Policy Policies
+**Search** November Savings Event! 15% Off ALL Orders!    Use Code: SANTASAVINGS   LAST DAY! (details) Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
