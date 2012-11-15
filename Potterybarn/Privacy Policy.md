@@ -113,10 +113,13 @@ Skip Navigation
 
 *   New We Love
     
-    *   Jewels for the Home
-    *   Holiday Centerpieces
-    *   A Nostalgic Christmas
+    *   Centerpieces
     *   Luxe Lodge
+    *   A Nostalgic Christmas
+    *   Jewels for the Home
+    *   A Good Party
+    *   Little Luxuries
+    *   Extraordinary Gifts
     *   Monogramming
     *   Beautifully Organic
     
@@ -136,6 +139,7 @@ Skip Navigation
     *   Media &. TV Storage
     *   Cabinets &. Bookcases
     *   Chairs &. Ottomans
+    *   Game Tables
     *   Benches
     *   Mirrors
     
@@ -163,6 +167,7 @@ Skip Navigation
     
     *   Entryway
     *   Bathroom
+    *   Family Game Room
     
     Shop by Collection
     
@@ -193,20 +198,19 @@ Skip Navigation
     
     Great Deals
     
-    *   Upholstery Event
-    *   Dining Event
+    *   Furniture Event
     *   Delivery Discounts
     *   Sale
     
-    Modular Bar
+    Media Event
     
-    Save 10% on our Modular Bar through November 14th.
+    Save 15% on our favorite media pieces through December 26th.
     
     Shop Now 
     
 *   Outdoor Shop by Category
     
-    *   Lounging Furniture
+    *   Lounge Furniture
     *   Dining Furniture
     *   Accent Furniture
     *   Umbrellas
@@ -267,13 +271,12 @@ Skip Navigation
     
     Great Deals
     
-    *   Persian-Style Rug Sale
     *   8 x 10' Rugs $499 &. Under
     *   Sale
     
-    Persian-style Rug Sale
+    Limited Time Offer
     
-    Up to 20% off our favorite Persian-style rugs through November 14th.
+    Save up to 25% off our favorite drapes.
     
     Shop Now 
     
@@ -323,9 +326,9 @@ Skip Navigation
     *   Free Shipping
     *   Sale
     
-    Holiday Duvets
+    Holiday Sheet Sets
     
-    Update your guest bedroom for the Holidays starting at $79.
+    Free shipping on select Holiday Sheet Sets.
     
     Shop Now 
     
@@ -373,9 +376,9 @@ Skip Navigation
     *   Free Shipping
     *   Sale
     
-    Free Shipping
+    Save on Spa Gifts
     
-    Robes, cosmetic bags, and guest towels all ship for free!
+    Save up to 20% on our most luxurious robes.
     
     Shop Now 
     
@@ -398,7 +401,6 @@ Skip Navigation
     
     Great Deals
     
-    *   Lighting Event
     *   Lighting $99 &. Under
     *   Free Shipping
     *   Sale
@@ -467,9 +469,9 @@ Skip Navigation
     *   Free Shipping
     *   Sale
     
-    Free Shipping
+    Limited Time Offer
     
-    Save with Free Shipping on select seasonal decor.
+    20% off all Throws plus Free Shipping.
     
     Shop Now 
     
@@ -490,10 +492,10 @@ Skip Navigation
     *   Gabriella
     *   Caterer's Box
     *   Reindeer
-    *   12 Days of Christmas
     
     Entertaining Collections
     
+    *   12 Days of Christmas
     *   Vintage Wood
     *   Chancellor
     *   Antique-Silver
@@ -529,9 +531,9 @@ Skip Navigation
     *   Free Shipping
     *   Sale
     
-    Limited Time Offer
+    Savings Ends Soon!
     
-    Special savings on select entertaining essentials.
+    15% off best-selling dinnerware, glassware &. more through November 21st.
     
     Shop Now 
     
@@ -622,9 +624,11 @@ Skip Navigation
     *   Live Plants
     *   Gifts of Comfort
     *   Fur Shop
+    *   Extraordinary Gifts
     *   Wine &. Entertaining
     *   Gift Sets
     *   Gifts that Give Back
+    *   Photos to Art
     
     The Monogram Shop
     
@@ -641,9 +645,9 @@ Skip Navigation
     *   Shipping Information
     *   Gift Concierge
     
-    Host &. Hostess Gifts
+    Monogrammed Gifts
     
-    Show gratitude with over 80 items starting at $10.
+    Create a truly unique gift with over 35 font options and receive Free Shipping.
     
     Shop Now 
     
@@ -655,8 +659,9 @@ Skip Navigation
     *   Top Registry Ideas
 *   Sale Limited Time Offers
     
-    *   Dining Event
-    *   Upholstery Event
+    *   Furniture Event
+    *   Robes &. Throws
+    *   Tabletop Essentials Sale
     *   Free Shipping
     
     Shop By Category
@@ -680,9 +685,9 @@ Skip Navigation
     *   Bathroom
     *   Home Office
     
-    Dining Event Savings
+    One Week Left
     
-    Up to 20% off select dinnerware, furniture, lighting &. rugs through November 14th.
+    15% off best-selling dinnerware, glassware &. more through November 21st.
     
     Shop Now 
     
@@ -849,16 +854,16 @@ Top Customer Picks: Pottery Barn \[+\] PBteen \[+\] Pottery Barn Kids \[+\] West
 *   dorm essentials
 *   bean bag chairs
 
-*   furniture
-*   bathroom vanities
-*   personalized gifts
-*   area rugs
-*   christmas ornaments
 *   christmas stockings
-*   wedding registry
-*   accent chairs
-*   christmas decorations
-*   interior design ideas
+*   childrens books
+*   baby diaper bags
+*   personalized baby blankets
+*   toy storage
+*   baby gifts
+*   crib bedding sets
+*   bunk beds
+*   baby registry
+*   baby room ideas
 
 *   furniture
 *   bathroom vanities
