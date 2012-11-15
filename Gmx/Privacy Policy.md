@@ -20,7 +20,7 @@ Hilfe| Accesskey-Übersicht
     *   Mail-Funktionen
     *   De-Mail
     *   Sicherheit bei GMX
-    *   Internet-Handy-Flat
+    *   Versicherungsvergleich
     *   Internet-Telefon-Flat
     *   Analog/ISDN
     *   Mobilfunk
