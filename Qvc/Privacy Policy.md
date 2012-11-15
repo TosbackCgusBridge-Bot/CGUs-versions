@@ -202,7 +202,6 @@ Kitchen
 *   Kitchen Electrics
 *   Kitchen Tools
 *   Knives
-*   Major Appliances
 *   Storage &. Organization
 *   Tabletop
 
