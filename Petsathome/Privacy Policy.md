@@ -74,6 +74,7 @@ Search: Keyword or product code Search area
     *   Kitten Toys
     *   Kitten Treats
 *   Small Pet
+    *   Small Pet Christmas Products
     *   Small Pet Products On Special Offer
     *   New Small Pet Products
     *   Small Pets Available in Store
@@ -129,6 +130,7 @@ Search: Keyword or product code Search area
     *   Cat Gifts
     *   Small Animal Gifts
     *   Gifts for Pet Lovers
+    *   Personalised Gifts
     *   Pet Calendars
     *   Stationery for Pet Lovers
     *   Brands
