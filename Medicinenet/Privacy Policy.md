@@ -1,4 +1,4 @@
-About Us| Newsletter November 14, 2012
+About Us| Newsletter November 15, 2012
 
 *   Like Us
 *   Follow Us
@@ -396,6 +396,7 @@ Find out what women really need.
 
 Please acknowledge your agreement I have read and agree to WebMD's Privacy Policy Featured on MedicineNet
 
+*   Tips to Avoid Fibro Pain
 *   Rheumatoid Arthritis Pictures
 *   ADHD: Tips for Parenting
 *   Yeast Infection Treatment
@@ -403,21 +404,21 @@ Please acknowledge your agreement I have read and agree to WebMD's Privacy Polic
 
 New on MedicineNet
 
+*   Strep Throat Symptoms
 *   Ulcerative Colitis Diet
 *   Ulcerative Colitis Surgery
 *   Yeast Infections in Men
 *   Nosebleed Remedies
 *   Eustachian Tube Problems
-*   Sinus Surgery
 *   Healthy Living Tips
 
 Latest MedicineNet News
 
+*   Genital Injuries Common But Preventable, Study
 *   Will Health Reform Cost Me More?
 *   DNA 'Telomere' Length Tied to Aging, Death Risk
 *   Doctors Often Misinterpret Patients' Wishes
 *   Barack Obama Wins: What It Means for Health Care
-*   Doctors With More Experience May Have Lower Cost
 *   Want More News? Sign Up for MedicineNet Newsletters!
 *   Health News Feed
 
