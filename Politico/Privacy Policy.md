@@ -111,128 +111,129 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/14/2012 7:01 AM ET
+Updated: 11/15/2012 7:01 AM ET
+
+1.  1 Sebelius gets Obamacare subpoena
+2.  2 Obama steamed over Rice
+3.  3 Mitt: Obama won because of 'gifts'
+4.  4 Jindal vs. Romney
+5.  5 Benghazi inquiry sparks Hill battle
+6.  6 Lawmaker asks to be paid in gold
+7.  7 Why Pelosi stayed
+8.  8 5 Gmail lessons from Petraeus affair
+9.  9 Once again, Obama vs. McCain
+10.  10 Reid lashes out at Scott Brown
+
+Updated: 11/15/2012 7:01 AM ET
 
 1.  1 Lawmaker asks to be paid in gold
-2.  2 Jindal: End 'dumbed-down conservatism'
-3.  3 Secession leader: Obama's baked
-4.  4 Welcome to the Rand Paul evolution
-5.  5 Senators prefer Kerry to Rice
-6.  6 Obama's foreign policy team hits turbulence
-7.  7 5 Gmail lessons from Petraeus affair
-8.  8 Petraeus is dumb, she's dumber
-9.  9 Ryan: No Obama mandate on taxes
-10.  10 Ryan splits with GOP leadership
+2.  2 Sebelius gets Obamacare subpoena
+3.  3 Hard questions await Obama at presser
+4.  4 5 Gmail lessons from Petraeus affair
+5.  5 Photos place Broadwell in D.C.
+6.  6 Reid lashes out at Scott Brown
+7.  7 Obama: Attacks on Rice 'outrageous'
+8.  8 Non-voter 'disfigured' in wife crash
+9.  9 Russert age question irritates Pelosi
+10.  10 Kelley claims 'honorary' diplo status
 
-Updated: 11/14/2012 7:01 AM ET
+Updated: 11/15/2012 7:01 AM ET
 
 1.  1 Lawmaker asks to be paid in gold
 2.  2 Welcome to the Rand Paul evolution
 3.  3 Jindal: End 'dumbed-down conservatism'
-4.  4 Ryan splits with GOP leadership
+4.  4 Sebelius gets Obamacare subpoena
 5.  5 Secession leader: Obama's baked
-6.  6 Wife runs over non-voting husband
+6.  6 Ryan splits with GOP leadership
 7.  7 Petraeus is dumb, she's dumber
-8.  8 Allen ensnared in Petraeus scandal
-9.  9 Perry says no to Texas secession
-10.  10 Carney: Obama backs Allen
+8.  8 Hard questions await Obama at presser
+9.  9 5 Gmail lessons from Petraeus affair
+10.  10 Wife runs over non-voting husband
 
-Updated: 11/14/2012 7:01 AM ET
-
-1.  1 The GOP's media cocoon
-2.  2 Romney campaign's lasting mark
-3.  3 Secession petitions flood White House website
-4.  4 Lawmaker asks to be paid in gold
-5.  5 Welcome to the Rand Paul evolution
-6.  6 Grover: Mitt painted as 'poopy head'
-7.  7 Jindal: End 'dumbed-down conservatism'
-8.  8 King: 'Crisis of major proportions'
-9.  9 Ryan splits with GOP leadership
-10.  10 Secession leader: Obama's baked
-
-Updated: 11/14/2012 7:01 AM ET
+Updated: 11/15/2012 7:01 AM ET
 
 1.  1 Rove under fire
 2.  2 6 questions on Petraeus's exit
 3.  3 Oliver Stone: 'I find Obama scary'
-4.  4 The GOP's media cocoon
-5.  5 The GOP polling debacle
-6.  6 Romney campaign's lasting mark
-7.  7 Media fight on the right over GOP
+4.  4 Lawmaker asks to be paid in gold
+5.  5 The GOP's media cocoon
+6.  6 The GOP polling debacle
+7.  7 Romney campaign's lasting mark
 8.  8 Secession petitions flood White House website
-9.  9 Rove: Obama won 'by suppressing the vote'
-10.  10 Lawmaker asks to be paid in gold
+9.  9 Media fight on the right over GOP
+10.  10 Rove: Obama won 'by suppressing the vote'
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/14/2012 7:01 AM ET
+Updated: 11/15/2012 7:01 AM ET
 
-1.  1 Kelley claims 'honorary' diplo status
-2.  2 5 Gmail lessons from Petraeus affair
-3.  3 FBI handled Petraeus probe correctly
-4.  4 Norquist warns GOP on carbon tax
-5.  5 Hard questions await Obama at news conference
-6.  6 New Senate breed: Proudly liberal
-7.  7 Great Pelosi mystery to be solved
-8.  8 Boehner, McConnell play good cop, bad cop
-9.  9 Warming world demands action now
+1.  1 Cornyn on Senate races: GOP bungled it
+2.  2 When the flesh is weak
+3.  3 The House races that slipped away
+4.  4 Don't forget America's kids
+5.  5 The amnesty fantasy
+6.  6 Men still dominate GOP leadership
+7.  7 Entrepreneurship a key overseas tool
+8.  8 Device tax would thwart innovation
+9.  9 Jindal vs. Romney
+10.  10 Liberals to Obama: 'Don't buckle'
 
-Updated: 11/14/2012 7:01 AM ET
+Updated: 11/15/2012 7:01 AM ET
 
-1.  1 Kelley claims 'honorary' diplo status
-2.  2 5 Gmail lessons from Petraeus affair
-3.  3 FBI handled Petraeus probe correctly
-4.  4 Norquist warns GOP on carbon tax
-5.  5 Hard questions await Obama at news conference
-6.  6 New Senate breed: Proudly liberal
-7.  7 Great Pelosi mystery to be solved
-8.  8 Boehner, McConnell play good cop, bad cop
-9.  9 Warming world demands action now
-10.  10 Ryan: No Obama mandate on taxes
+1.  1 Cornyn on Senate races: GOP bungled it
+2.  2 When the flesh is weak
+3.  3 The House races that slipped away
+4.  4 Don't forget America's kids
+5.  5 The amnesty fantasy
+6.  6 Men still dominate GOP leadership
+7.  7 Entrepreneurship a key overseas tool
+8.  8 Device tax would thwart innovation
+9.  9 Jindal vs. Romney
+10.  10 Liberals to Obama: 'Don't buckle'
 
-Updated: 11/14/2012 7:01 AM ET
+Updated: 11/15/2012 7:01 AM ET
 
-1.  1 Kelley claims 'honorary' diplo status
-2.  2 5 Gmail lessons from Petraeus affair
-3.  3 FBI handled Petraeus probe correctly
-4.  4 Norquist warns GOP on carbon tax
-5.  5 Hard questions await Obama at news conference
-6.  6 New Senate breed: Proudly liberal
-7.  7 Great Pelosi mystery to be solved
-8.  8 Boehner, McConnell play good cop, bad cop
-9.  9 Warming world demands action now
-10.  10 Ryan: No Obama mandate on taxes
+1.  1 Cornyn on Senate races: GOP bungled it
+2.  2 When the flesh is weak
+3.  3 The House races that slipped away
+4.  4 Don't forget America's kids
+5.  5 The amnesty fantasy
+6.  6 Men still dominate GOP leadership
+7.  7 Entrepreneurship a key overseas tool
+8.  8 Device tax would thwart innovation
+9.  9 Jindal vs. Romney
+10.  10 Liberals to Obama: 'Don't buckle'
 
-Updated: 11/14/2012 7:01 AM ET
+Updated: 11/15/2012 7:01 AM ET
 
-1.  1 Kelley claims 'honorary' diplo status
-2.  2 5 Gmail lessons from Petraeus affair
-3.  3 FBI handled Petraeus probe correctly
-4.  4 Norquist warns GOP on carbon tax
-5.  5 Hard questions await Obama at news conference
-6.  6 New Senate breed: Proudly liberal
-7.  7 Great Pelosi mystery to be solved
-8.  8 Boehner, McConnell play good cop, bad cop
-9.  9 Warming world demands action now
-10.  10 Ryan: No Obama mandate on taxes
+1.  1 Cornyn on Senate races: GOP bungled it
+2.  2 When the flesh is weak
+3.  3 The House races that slipped away
+4.  4 Don't forget America's kids
+5.  5 The amnesty fantasy
+6.  6 Men still dominate GOP leadership
+7.  7 Entrepreneurship a key overseas tool
+8.  8 Device tax would thwart innovation
+9.  9 Jindal vs. Romney
+10.  10 Liberals to Obama: 'Don't buckle'
 
 Showing Last 7 Days
 
-Updated: 11/14/2012 7:01 AM ET
+Updated: 11/15/2012 7:01 AM ET
 
-1.  1 Secession leader: Obama's baked
-2.  2 Welcome to the Rand Paul evolution
-3.  3 Allen ensnared in Petraeus scandal
-4.  4 The GOP's media cocoon
-5.  5 Media fight on the right over GOP
-6.  6 Rove under fire
-7.  7 How Obama, Boehner could agree
-8.  8 Can Rubio save GOP on immigration?
-9.  9 Republicans ponder way forward
-10.  10 GOP soul-searching: 'Too old, too white, too male'?
+1.  1 Obama: Attacks on Rice 'outrageous'
+2.  2 Hard questions await Obama at presser
+3.  3 Secession leader: Obama's baked
+4.  4 Allen ensnared in Petraeus scandal
+5.  5 The GOP's media cocoon
+6.  6 Media fight on the right over GOP
+7.  7 Rove under fire
+8.  8 How Obama, Boehner could agree
+9.  9 Can Rubio save GOP on immigration?
+10.  10 Republicans ponder way forward
 
 News
 
