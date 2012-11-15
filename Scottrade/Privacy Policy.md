@@ -7,17 +7,17 @@ Skip to Main Content
 
 *   Why Scottrade?
     *   Reasons to Choose
+    *   Switch to Scottrade
+    *   Why 500+ Branches?
     *   Online Broker Comparison
     *   Fees &. Commissions
     *   Margin Interest Rates
     *   Credit Interest Rates
-    *   Trade Quality and Execution
+    *   Trade Quality &. Execution
     *   Security/ID Theft Protection
+    *   Referral Program
     *   Company Overview
     *   Online Community
-    *   Referral Program
-    *   Switch to Scottrade
-    *   Why 500+ Branches?
 
 *   Online Trading
     *   Scottrade Trading Website
