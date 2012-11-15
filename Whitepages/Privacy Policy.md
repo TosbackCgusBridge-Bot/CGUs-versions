@@ -84,6 +84,7 @@ If you have any questions about this policy, please write to WhitePages Privacy 
 *   Quick Find
     *   FAQ
     *   Known Issues
+    *   Mailer
     *   Other
     *   Text Lookup
     *   WhitePages
