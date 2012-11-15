@@ -15,7 +15,6 @@
 *   Risk
     *   Risk
 *   More
-    *   WSJ X - Invitation Only
     *   BigCharts
     *   Financial News
     *   Professor Journal
