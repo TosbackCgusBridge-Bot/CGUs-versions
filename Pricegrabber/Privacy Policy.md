@@ -26,8 +26,8 @@ My Account
     *   Digital Cameras
     *   Coffee Makers
     *   Camcorders
-    *   Tax
     *   Radio Shack
+    *   Tax
     *   Sears
     *   At
     *   Discount Tires
@@ -36,10 +36,10 @@ My Account
     *   Truck
     *   Costco
     *   Leappad
-    *   Flowers
     *   T Mobile
-    *   Pressure Cookers
+    *   Flowers
     *   North Face Jackets
+    *   Pressure Cookers
     *   Ipod
     *   Android Tablets
     *   Barnes And Noble
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1515 Local Deals
+*   1536 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
