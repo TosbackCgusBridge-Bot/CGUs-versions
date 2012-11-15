@@ -1,27 +1,27 @@
-*   **registrazione**
-*   su di noi
-*   accedi
+*   **register**
+*   tour
+*   sign in
 
 *   Home
-*   I Miei Libri
-*   Amici
-*   Suggerimenti
+*   My Books
+*   Friends
+*   Recommendations
 *   *   listopia
-    *   anteprime omaggio
-    *   popolari
+    *   giveaways
+    *   popular
     *   goodreads voice
     *   ebooks
     
-    *   **curiosità**
+    *   **fun**
     *   trivia
-    *   quiz
-    *   citazioni
+    *   quizzes
+    *   quotes
     
-    *   **comunità**
-    *   gruppi
-    *   scrittura creativa
-    *   utenti
-    *   eventiEsplora  
+    *   **community**
+    *   groups
+    *   creative writing
+    *   people
+    *   eventsExplore  
 
 Privacy Policy
 
