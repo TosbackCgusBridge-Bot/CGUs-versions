@@ -70,17 +70,21 @@ Valentina Boots | Sole Society
 
 enter now See all giveaways celeb stories The New Angelina Jolie The movie star/director/mom shows off a sillier side for our MC cameras. read more other latest stories:
 
+*   Jessica Chastain's Cover Shoot Style
+*   Jessica Chastain: Supernova
 *   Ashley Greene: Look At Me Now
 *   Ashley Greene's Cover Shoot Style
 *   Project Runway's New York
 *   Gwen Stefani: Rock 'n' Rule
 *   Gwen Stefani's Cover Shoot Style
 *   Gwen Stefani's Style Evolution
-*   Chelsea Everywhere
-*   Big Shots
 
 Latest blog entries
 
+*   Shop It Now: t down by Theory and Uniqlo
+    
+    This season Uniqlo has teamed up with Theory to create a line of super-affordable down jackets. 11/14/12
+    
 *   The War on Women: Surrendered (For Now)
     
     Something happened last night besides a surprisingly speedy Barack Obama victory: The war on women suffered major setbacks. 11/07/12
@@ -96,10 +100,6 @@ Latest blog entries
 *   Will Hurricane Sandy Finally Get Us Talking About Climate Change?
     
     Yesterday, New York Mayor Mike Bloomberg endorsed President Obama in an editorial for Bloomberg View, writing that Hurricane Sandy had brought the issue of climate change into stark relief. He continued: Our climate is changing. And whil 11/02/12
-    
-*   How to Help Hurricane Sandy Victims
-    
-    A week ago, Hurricane Sandy was barely even mentioned on the hourly weather forecast, and now, the epic cyclone's damage is almost irreversible. 10/31/12
     
 *   See all blogs
 
