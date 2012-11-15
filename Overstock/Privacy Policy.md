@@ -189,7 +189,7 @@ Answers others found helpful
 
 *   Terms and Conditions
 *   Subscribe or Unsubscribe To Email Promotions
-*   Standard Return Policy
+*   Holiday Return Policy
 *   Shipping &. Delivery
 *   Updating Your Personal Account Information
 
