@@ -18,7 +18,9 @@ Complete the Look!
 
 Shop this outfit >>
 
-    Shop Divisions:
+    SUPER! 20% OFF YOUR PURCHASE!  
+LIMITED TIME. ONLINE ONLY. ENTER GAPGIFT.  
+DETAILS Shop Divisions:
 
 Side Navigation:
 
