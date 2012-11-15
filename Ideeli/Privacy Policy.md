@@ -78,7 +78,7 @@ You can visit My Account at www.ideeli.com to change any of the personal informa
 
 Where do I go with questions?
 
-Send us an email at support@ideeli.com , or write us at ideeli Inc., 148 Lafayette, 10th Floor, New York, NY, 10013.
+Send us an email at support@ideeli.com , or write us at ideeli Inc., 620 8th Ave, 45th floor, New York, NY, 10018.
 
 Privacy policy updates
 
