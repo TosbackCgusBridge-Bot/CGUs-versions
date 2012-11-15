@@ -15,7 +15,7 @@ Sign up for Email Local Ad QUICK REORDER VIEW CART (0) Close **Promotion Details
 
 *   **Discount is reflected in sale prices and will automatically be applied at Checkout.  
     No promotion code necessary.**
-*   Sale prices valid through November 14, 2012.
+*   Sale prices valid through November 21, 2012.
 *   Discount on food, litter, and flea &. tick control is up to 10% Sitewide.
 *   Excludes products with Manufacturer Minimum Advertised Price and Live Reptile Food.
 *   **Free Super Saver Shipping on $49.** Exclusions apply. No promotion code necessary.
@@ -38,7 +38,7 @@ Close **Promotion Details**
 
 *   **Discount is reflected in sale prices and will automatically be applied at Checkout.  
     No promotion code necessary.**
-*   Sale prices valid through November 14, 2012.
+*   Sale prices valid through November 21, 2012.
 *   Discount on food, litter, and flea &. tick control is up to 10% Sitewide.
 *   Excludes products with Manufacturer Minimum Advertised Price and Live Reptile Food.
 *   **Free Super Saver Shipping on $49.** Exclusions apply. No promotion code necessary.
