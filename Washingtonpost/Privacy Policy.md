@@ -24,16 +24,16 @@
     Blogs &. Columns
     
     *   **Shorthand**  
-        Election 2012 | Rachel Weiner
+        Election 2012 | Natalie Jennings
     
-    *   **Would ‘chained’ inflation index...**  
+    *   **McCain’s claims about Susan Rice’s...**  
         The Fact Checker | Glenn Kessler
     
-    *   **Petraeus scandal: It’s not about...**  
+    *   **The millions of reasons Nancy Pelosi...**  
         She The People | Melinda Henneberger
     
-    *   **Stark generational divide on gay...**  
-        The Fix | Peyton M. Craighill and Scott Clement
+    *   **Why the GOP needs to do immigration...**  
+        The Fix | Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,14 +46,14 @@
     
     Featured Blogs
     
-    *   **The real scandal of the Petraeus...**  
+    *   **The War on Thanksgiving**  
         ComPost | Alexandra Petri
     
-    *   **Happy Hour Roundup**  
-        The Plum Line | Jonathan Bernstein
+    *   **Morning Open Thread**  
+        The Plum Line | Greg Sargent
     
-    *   **PostScript: Cohen and Petrayals**  
-        PostPartisan | Rachel Manteuffel
+    *   **Don’t forget about Holly Petraeus**  
+        PostPartisan | Jonathan Capehart
     
     *   **Morning Bits**  
         Right Turn | Jennifer Rubin
@@ -72,16 +72,16 @@
     
     Blogs &. Columns
     
-    *   **D.C. area forecast: Colder pattern...**  
-        Capital Weather Gang | Dan Stillman
+    *   **Forecast: Thin cloud cover keeps...**  
+        Capital Weather Gang | David Streit
     
-    *   **Beaujolais Nouveau hits bars and...**  
-        Going Out Gurus | Lavanya Ramanathan
+    *   **Signs of progress at Victor Albisu’s...**  
+        Going Out Gurus | Alex Baldinger
     
-    *   **Man shot in Mt. Rainier early Wednesday**  
-        Crime Scene | Maggie Fazeli Fard
+    *   **Woman hurt, 2 sons dead in Baltimore...**  
+        Crime Scene | the Associated Press
     
-    *   **Moten eyes D.C. council at-large...**  
+    *   **Major parking changes loom in Northwest...**  
         D.C. Wire | Tim Craig
 *   Sports In Sports
     
@@ -97,17 +97,17 @@
     
     Blogs &. Columns
     
-    *   **Lockout an unavoidable backdrop...**  
+    *   **Jason Chimera signs with HC Chomutov...**  
         Capitals Insider | Katie Carrera
     
-    *   **Post Sports Live: Redskins-Eagles...**  
-        DC Sports Bog | Mitch Rubin
+    *   **Byron Leftwich addresses the media...**  
+        DC Sports Bog | Dan Steinberg
     
-    *   **Could the Redskins really win the...**  
+    *   **How much difference will getting...**  
         The Insider | Keith McMillan
     
-    *   **Davey Johnson named National League...**  
-        Nationals Journal | Adam Kilgore
+    *   **Nationals sign Will Rhymes to minor...**  
+        Nationals Journal | James Wagner
 *   National In National
     
     *   Energy &. Environment
@@ -123,10 +123,10 @@
     
     Blogs &. Columns
     
-    *   **Total eclipse of the sun draws...**  
-        Ideas@Innovations | Emi Kolawole
+    *   **Economists’ global warming**  
+        Ideas@Innovations | Dominic Basulto
     
-    *   **Crisis management at the BBC**  
+    *   **Why women need more ‘hot jobs’**  
         PostLeadership | Jena McGregor
     
     *   **Graham: Operation Christmas Child...**  
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **Irans hardline media struggles...**  
+    *   **A rapping Alabaman is now one of...**  
+        WorldViews | Olga Khazan
+    
+    *   **How will Egypt respond to Israeli...**  
         WorldViews | Max Fisher
     
-    *   **China shows off its new drone**  
-        WorldViews | Max Fisher
+    *   **Chinese netizens are using English...**  
+        WorldViews | Olga Khazan
     
-    *   **Protests break out in Jordan, mention...**  
-        WorldViews | Max Fisher
-    
-    *   **PSA: Gen. John Allen did not send...**  
+    *   **Israeli military and Hamas exchange...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -173,14 +173,14 @@
     *   **Black Thursday, a turkey of an...**  
         The Color of Money | Michelle Singletary
     
-    *   **Tech executives ask Obama, Congress...**  
+    *   **Music royalties fight continues...**  
         Post Tech | Hayley Tsukayama
     
     *   **How business can bounce back from...**  
         Steven Pearlstein
     
-    *   **Wonkbook: Obamas $1.6 trillion...**  
-        Wonkblog | Ezra Klein
+    *   **Wonkbook: The tax policies which...**  
+        Wonkblog | Evan Soltas
 *   Tech In Technology
     
     *   Policy
@@ -191,10 +191,10 @@
     
     Blogs &. Columns
     
-    *   **HTC, Verizon release Droid DNA**  
+    *   **Samsung extends lead in smartphone...**  
         Hayley Tsukayama
     
-    *   **Tech executives ask Obama, Congress...**  
+    *   **Music royalties fight continues...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Chat Leftovers: A vegan side dish...**  
-        All We Can Eat | Jane Touzalin
+    *   **Farmers Market Roundup: Nov. 15-21**  
+        All We Can Eat | Becky Krystal
     
     *   **The perils of life without marginalia**  
         The Style Blog | Ron Charles
     
-    *   **Momspeak: Lamenting what schools...**  
-        On Parenting | Tracy Grant
+    *   **Family Almanac: the defiant toddler...**  
+        On Parenting | On Parenting
     
-    *   **Love, etc.: Bryce Harper and Kayla...**  
+    *   **Susan Mary Alsop, Washington grande...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,13 +240,13 @@
     *   **Castleton announces 2013 season**  
         Classical Beat | Anne Midgette
     
-    *   **Madonna shows off ‘Gangnam Style’...**  
+    *   **‘American Horror Story’: Bloody...**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **Elmo puppeteer Kevin Clash’s accuser...**  
+    *   **‘The X Factor’: Diva Night**  
         The TV Column | Lisa de Moraes
     
-    *   **Petraeus scandal draw-down:**  
+    *   **‘Riffs’ Fave Reads of 2012:**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -266,12 +266,10 @@
 
 In the News
 
+*   Obama’s ‘gifts’
+*   Susan Rice
+*   National Book Award winners
 *   Jill Kelley
-*   John R. Allen
-*   Nexus 4
-*   Nancy Pelosi
-*   Elmo
-*   Marlins-Blue Jays trade
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -322,100 +320,94 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Obama to open talks with $1.6 trillion plan to raise taxes on corporations, wealthy
+Ron Paul's farewell speech (VIDEO) Romney: Obama's 'gifts' to key demographics helped him win Three Israelis killed by rocket fired from Gaza Strip. Israel intensifies air offensive
 
-Zachary A. Goldfarb 
+Karin Brulliard 
 
-FBI investigating how Petraeus biographer Broadwell obtained classified files
+Romney: Obama’s gift giving led to loss
 
-Sari Horwitz 
+Jerry Markon 
 
-The Confederacy of Takers
+Shorthand White House, Congress scrutinize FBI’s inquiry into Petraeus
 
-Dana Milbank 
+Greg Miller 
 
-Allen in fight for his career
+The inconvenient truths of 2012
 
-Rajiv Chandrasekaran 
+E.J. Dionne Jr. 
 
-Petraeus investigation ensnares commander of U.S., NATO troops in Afghanistan
+The new boom: Shale gas fueling an American industrial revival
 
-Craig Whitlock 
+Steven Mufson 
 
-Florida socialite is at the center of overlapping scandals involving 2 military generals
+Obama’s message to GOP is, Ante up
 
-Associated Press 
+Ruth Marcus 
 
-John Boehner’s discouraging view of climate science
+Would a ‘chained’ inflation index result in big benefit cuts for Social Security?
 
-Editorial Board 
+Glenn Kessler 
 
-Rep. Barney Frank’s claim about a should-be Democratic House majority
-
-Josh Hicks 
-
-Jill Kelley: Tampa woman in Petraeus case has been a hostess to the military
-
-Carol D. Leonnig 
-
-GOP’s gerrymandered advantages
-
-Harold Meyerson 
-
-Obama untouched by Petraeus scandal
+In first post-election news conference, Obama lays out second term
 
 Scott Wilson 
 
-Eric Cantor and the Petraeus affair
+Will Supreme Court answer monks’ prayers?
 
-Colbert I. King 
+George F. Will 
 
-Computers, the new private eyes for cheating
+As Paula Broadwell holes up in D.C. house, camped-out media wait in patience
 
-Manuel Roig-Franzia 
+Emily Wax 
 
-Paula Broadwell’s driver’s license found in area park
-
-Clarence Williams 
-
-Petraeus scandal: It's not about the sex Mitt Romney’s legacy: No ‘Romneyists’
+Don’t forget about Holly Petraeus
 
 Jonathan Capehart 
 
-Congress welcomes freshmen, and those on the cusp of membership
+Keep Donald Trump, Macy's
 
-Krissah Thompson 
+Alexandra Petri 
 
-Charting a post-Petraeus era
+Fox News and those Benghazi detainees
 
-David Ignatius 
+Erik Wemple 
 
-AMT could keep 60 million taxpayers from filing returns till March, delaying refunds
+Carolyn Hax: Good advice for a nephew’s fiancee
 
-Lori Montgomery 
+Carolyn Hax 
 
-Here's the e-mail trick Petraeus and Broadwell used to communicate
+Writers Louise Erdrich, David Ferry, Katherine Boo, William Alexander win National Book Awards
+
+Associated Press 
+
+Xi Jinping takes over reins of Chinese Communist Party at time of heightened anxiety
+
+William Wan 
+
+Obama’s door to tax compromise
+
+Editorial Board 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Obama to open talks with $1.6 trillion plan to raise taxes on corporations, wealthy
-    2.  FBI investigating how Petraeus biographer Broadwell obtained classified files
-    3.  The Confederacy of Takers
-    4.  Allen in fight for his career
-    5.  Petraeus investigation ensnares commander of U.S., NATO troops in Afghanistan
+    1.  Ron Paul's farewell speech (VIDEO)
+    2.  Romney: Obama's 'gifts' to key demographics helped him win
+    3.  Three Israelis killed by rocket fired from Gaza Strip. Israel intensifies air offensive
+    4.  Romney: Obama's gift giving led to loss
+    5.  Shorthand
 *   Top Videos
-    1.  Analyzing emails between Jill Kelley and Gen. John Allen
-    2.  Jill Kelley: The woman threatened by Petraeus' mistress
-    3.  Miley Cyrus: I feel like I'm already married
-    4.  Exclusive: Petraeus biography ghostwriter breaks silence
-    5.  Top U.S. general in Afghanistan investigated, linked to Petraeus scandal
+    1.  President Obama's news conference in 3 minutes
+    2.  Sen. John McCain: 'One of the dumbest questions I've ever heard'
+    3.  Jon Bon Jovi's daughter recovering after heroin overdose
+    4.  Madonna dances 'Gangnam Style' With PSY
+    5.  Full video of President Obama's press conference
 *   Top Galleries
-    1.  The David Petraeus scandal -- cast of characters
-    2.  Scandal-plagued politicians: Where are they now?
-    3.  Total solar eclipse in Australia
-    4.  'The Twilight Saga: Breaking Dawn — Part 2' premiere
-    5.  The four star movies of 2012
+    1.  The David Petraeus scandal: Cast of characters
+    2.  Thanksgiving recipes from the White House
+    3.  Top tech trends of 2012
+    4.  Hamas leader in Gaza killed by Israeli strike
+    5.  Day in photos
 
 Today's Paper
 
@@ -425,13 +417,13 @@ Today's Paper
 
 Live Discussions
 
-Compost Live
+Free Range on Food
 
-Live Q&A transcript
+Live Q&A, noon ET
 
-Humor columnist Alexandra Petri chatted with readers about the latest news and the perils of cursive.
+Our resident foodies are here to help you navigate all things culinary. This week: Thanksgiving, Part 1.
 
-**10:00 AM** **Ask Tom: Rants, raves and questions on the DC dining scene** **11:00 AM** **Career Coach takes your questions** **12:00 PM** **The Reliable Source Live** **12:00 PM** **Free Range on Food: Thanksgiving** **2:00 PM** **Web Hostess Live: The latest from the Web**
+**11:00 AM** **Home Front: Renowned designer Barbara Barry joins the weekly chat** **11:00 AM** **Tracee Hamilton discusses local and national sports -- and whatever else you want to talk about.** **12:00 PM** **Parenting advice: Help for raising children of all ages** **12:00 PM** **Adrian Higgins on gardening in the fall** **2:00 PM** **Celebritology Live**
 
 **Weekly schedule, past shows**
 
