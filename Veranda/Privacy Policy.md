@@ -3,15 +3,19 @@ TRY: Gardening | Jewelry | Designer Inspiration | Chefs Privacy Policy Email Pri
 
 Most Viewed
 
-1.  Desert Beauty: Tour a Classic Home from Michael S. Smith
-2.  Kathryn Irelands Bathroom Decorating Ideas
-3.  Meet the Magic Makers
-4.  Veranda's Most Memorable Holiday Rooms
-5.  Stylish Holiday Gift Ideas
+1.  Stylish Holiday Gift Ideas
+2.  Desert Beauty: Tour a Classic Home from Michael S. Smith
+3.  Kathryn Irelands Bathroom Decorating Ideas
+4.  Meet the Magic Makers
+5.  Veranda's Most Memorable Holiday Rooms
 
 Most Searched
 
-1.  Sorry, there are no search terms at this time
+1.  bedrooms
+2.  designer inspiration
+3.  christmas
+4.  curtain
+5.  holiday rooms
 
 Magazine | RSS
 
