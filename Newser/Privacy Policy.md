@@ -2,16 +2,16 @@
 
 *   What's New
 *   Hot Topics
-    *   strange stuff
-    *   Election 2012
     *   David Petraeus
-    *   entertainment
-    *   Paula Broadwell
     *   David Petraeus...
+    *   entertainment
+    *   celebrity
+    *   Paula Broadwell
+    *   President Obama
+    *   strange stuff
+    *   Benghazi
     *   Jill Kelley
     *   Hurricane Sandy
-    *   President Obama
-    *   celebrity
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -119,63 +119,63 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   General Confusion
-*   Microsoft Just Lost Its Steve Jobs
-*   How Jimmy Fallon Gets Such Great Musical Guests
+*   If We Lose, It Was Stolen
+*   Nintendo’s New Console Will Change How You Watch Television
+*   How Many Coal Miner Deaths Does It Take To Pass Safety...
 
 More from Slate »
 
-*   HUSBAND ALLEGEDLY USES GPS TO FIND TEACHER HAVING SEX WITH...
-*   Thief Steals From Good Samaritan Tending To Car Crash...
-*   World Pole Dancing Championship
+*   BUD FOR BENEFIT
+*   Sex Sells: Burgers, Coffins, You Name It
+*   The Bermuda Triangle 1945: The Veterans Who Never Returned
 
 More from HuffPost Weird »
 
-*   Catherine Zeta-Jones Opens Up About Her Bipolar Disorder
-*   Woot! Beyonce Is Back In The Record Studio!
-*   No Abortion Access? You’re At Increased Risk For Poverty
+*   Jon Bon Jovi’s Daughter Stephanie Bongiovi Overdoses On...
+*   How To Be The Sexiest Man Alive
+*   Why The Media’s Coverage Of The David Petraeus Affair Is...
 
 More from The Frisky »
 
-*   People don't want a cell phone tower built in their...
-*   It really sucks when a coworker discovers a cellphone...
-*   The latest device in the police force's arsenal:...
+*   Store owner thwarts armed robber with chili pepper powder...
+*   Wikipedia actually broke the news of the Petraeus/Broadwell...
+*   Eleven Jinping becomes new leader of China \[News\]
 
 More from Fark »
 
-*   The David Petraeus affair: A comprehensive timeline...
-*   What the heck, FBI?
-*   5 thoughts about the Petraeus affair we're not supposed to...
+*   8 curiously thoughtful thieves
+*   The David Petraeus affair: Why the U.S. military outlaws...
+*   4 failures Obama should remedy in his second term
 
 More from The Week »
 
-*   Newt Gingrich Laments Lack of Billionaire Buddies on the...
-*   Chris Christie’s Okay With Tax Hikes in a Disaster
-*   Frank Rich on Maddow: Even Petraeus Scandal Won’t Draw...
+*   FBI Agent's Shirtless Photo Was Decidedly Unsexy
+*   NYPD Credits Stop-And-Frisk With Drop in Murder Rate
+*   Despite Calls for 'Maximum Restraint,' Fighting Intensifies...
 
 More from Daily Intel »
 
-*   How Nutrition Experts _Really_ Snack
-*   Twelve Tips for Better Sleep
-*   Horses and Health Promotion: Of Carrots, Sticks, and...
+*   9 Ways To Treat Acid Reflux Naturally
+*   Where Cancer Prevention Must Start
+*   Food Is Medicine
 
 More from HuffPost Health »
 
-*   'Breaking Dawn - Part II' Premiere: Which 'Twilight' Hunk...
-*   Donald Trump’s Attorney Fires Back at Petitioners Trying to...
-*   Kourtney Kardashian and Scott Disick Kiss on the Streets of...
+*   Snooki Cries While Surveying Hurricane Sandy Devastation in...
+*   'X Factor's' Emblem3 Reacts to Their No. 6 Ranking: Middle...
+*   'Twilight Saga: Breaking Dawn -- Part 2' Star Robert...
 
 More from Celebuzz »
 
-*   Young Pregnant Woman Dies After Hospital Refuses Her a...
-*   Choosing Motherhood Over Career
-*   Is Mila Kunis Having Ashton Kutcher's Baby?
+*   Adorable Kids Saying Grace Will Have You Dying of Laughter...
+*   Compassionate Doctor Charges $5 a Visit -- Here Are Other...
+*   Keira Knightley's Rumored 'Anorexia' Reminds Us Thin Women...
 
 More from The Stir »
 
-*   Nick Brien Out as McCann Worldgroup CEO
-*   Deal-Hungry Shoppers Rewards Brands for Holiday Offers
-*   Ad of the Day: Red Bull
+*   Perspective: Color Me Thirsty
+*   Portrait: Cornerstone
+*   Brand Turns a Facebook Photo Album Into a Stop-Motion Film
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
