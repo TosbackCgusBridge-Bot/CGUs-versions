@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Leadership Change Begins in China
-*   Panetta Expresses Support for Allen
+*   Xi Jinping Takes Over as China's Leader
+*   Southern Israel Hit by Rockets from Gaza
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
