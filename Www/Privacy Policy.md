@@ -386,6 +386,7 @@ Watch. Read. Shop. Relax. Millions of Amazon Prime members enjoy instant videos,
 *   Clothing (Kids &. Baby)
 *   Video Games for Kids
 *   Amazon Mom20% off diapers, free shipping and more
+*   Baby Registry
 
 *   Clothing, Shoes &. Jewelry
 *   Clothing
@@ -409,17 +410,13 @@ Watch. Read. Shop. Relax. Millions of Amazon Prime members enjoy instant videos,
 *   Golf
 *   All Sports &. Outdoors
 
-*   Automotive
+*   Automotive &. Industrial
 *   Automotive Parts &. Accessories
 *   Automotive Tools &. Equipment
 *   Car Electronics &. GPS
 *   Tires &. Wheels
 *   Motorcycle &. ATV
 *   Industrial &. Scientific
-*   Industrial Supplies
-*   Lab &. Scientific
-*   Janitorial
-*   Safety
 
 *   Unlimited Instant Videos
 *   MP3s &. Cloud Player20 million songs, play anywhere
@@ -471,5 +468,3 @@ View Cart (0 items) (0 item) (0 items)
 *   Wish from Any WebsiteAdd items to your List from anywhere
 *   Wedding Registry
 *   Baby Registry
-*   Kids' Birthdays
-*   Friends &. Family Gifting
