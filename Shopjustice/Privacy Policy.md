@@ -53,7 +53,6 @@ provided until after midnight ET of the day your package ships.
     *   hair accessories
     *   socks &. tights
     *   belts &. arm warmers
-    *   sunglasses &. cases
     *   backpacks &. school supplies
     *   all accessories
 *   pjs, bras &. panties
