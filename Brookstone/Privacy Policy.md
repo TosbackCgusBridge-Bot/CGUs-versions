@@ -6,13 +6,14 @@ Brookstone Enter Keyword or Item # Find a Store Track Your Order My Account Cust
 *   Bedroom
 *   Electronics
 *   Massage
+*   iPad &. iPhone
 *   Outdoor Living
 *   Pillows
 *   Travel
 *   Wine &. Bar
 *   Games &. Toys
 *   Bath &. Spa
-*   Special Offers
+*   Sale
 
 Customer Care Center
 
