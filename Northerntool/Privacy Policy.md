@@ -82,6 +82,7 @@ Northern Tool + Equipment, Generators, pressure washers, air compressors, power 
     *   Rebates + Special Offers
     *   Reconditioned
     *   Email Deals
+    *   Gift Center
     
     Products On Sale
     *   Below $5
@@ -187,9 +188,9 @@ Northern will not sell, trade, share or rent your email address.
 *   Find A Store
 
 *   Privacy Policy
-*   Order Security
 *   Terms + Conditions
 *   Guaranteed Lowest Prices
+*   Product Recalls
 *   Return Policy
 *   Sitemap
 *   Gift Cards
