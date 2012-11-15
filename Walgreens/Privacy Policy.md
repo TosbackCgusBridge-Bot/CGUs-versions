@@ -8,8 +8,6 @@ Checkout
 
 *   **Sign In** or Register
 
-Username Password Go
-
 *   Your Account
 *   Shopping List
 
@@ -18,7 +16,6 @@ Username Password Go
 *   Savings &. Deals
 *   Help
 
-  
 Enter key word or item #
 
 *   Pharmacy &. Health
@@ -365,10 +362,10 @@ Email address Sign Up **Customer Service**
 
 **Plan Member Services**
 
-*   Mail Service
+*   Mail Service Pharmacy
 *   Infusion Services
 *   Respiratory Services
-*   Specialty Medications
+*   Specialty Pharmacy
 
   
 **Business Solutions**
@@ -388,5 +385,4 @@ Photo Cards | Photo Collages | Photo Books | Photo Prints | Photo Gifts | P
   
   
   
-
 Overlay Iframe
