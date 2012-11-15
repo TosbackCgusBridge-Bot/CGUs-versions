@@ -1,46 +1,47 @@
 **Warning: Vanguard.com will not work properly with JavaScript disabled!** Vanguard - Privacy Policy Personal Investors Open an account Forms Contact us Help Log on Search
 
 *   Home
-*   My Portfolio
-*   Research Funds &. Stocks
+*   My Accounts
+*   Funds, Stocks &. ETFs
     
-    *   Vanguard Funds
+    *   Vanguard funds
     *   Vanguard ETFs
-    *   Other Fund Families
+    *   Other fund families
     
-    *   Stocks, Bonds, &. CDs
+    *   Stocks, bonds &. CDs
     
-    *   Annuity Portfolios
-    *   529 Portfolios
+    *   Annuity portfolios
+    *   529 portfolios
 *   What We Offer
     
     *   Overview
-    *   Mutual Funds
+    *   Mutual funds
     *   ETFs
-    *   Stocks, Bonds, &. CDs
+    *   Stocks, bonds &. CDs
     
-    *   401(k) Rollovers
+    *   401(k) rollovers
     *   IRAs
     *   College
-    *   Small Business
+    *   Small business
     *   Annuities
     
     *   Advice
-    *   Personal Services
-    *   Account Services
+    *   Retirement income
+    *   Personal services
+    *   Account services
 *   Insights
     
     *   Overview
     
-    *   Markets &. Economy
+    *   Markets &. economy
     *   Retirement
-    *   Saving &. Investing
-    *   College Savings
-    *   Tax Center
+    *   Saving &. investing
+    *   College savings
+    *   Tax center
     
-    *   Investing Truths
+    *   Investing truths
 
-Vanguard's privacy policy
+new vg.Menu({id:'firstNav', closeOnScroll: false, autosubmenudisplay: true, hidedelay: 0, lazyload: true, addScrollRegions: true, menuBar: true, shadow: false, minscrollheight: 85, mouseOutExtAreaHideDelay: 500, openOnFocus: true, initEvent: event }). Vanguard's privacy policy
 
 _The following privacy policy is provided by the Vanguard funds, The Vanguard Group, Inc., Vanguard Marketing Corporation, Vanguard Advisers, Inc., Vanguard Fiduciary Trust Company, and Vanguard National Trust Company._
 
@@ -97,6 +98,6 @@ _Revised 09/2012_.
 
  
 
-© 1995–2012  The Vanguard Group, Inc. All rights reserved. Vanguard Marketing Corp., Distrib. Terms &. conditions of use | Security Center | Obtain prospectus | Careers | Mobile services | Feedback | Enhanced Support
+© 1995–2012  The Vanguard Group, Inc. All rights reserved. Vanguard Marketing Corp., Distrib. Terms &. conditions of use | Security Center | Obtain prospectus | Careers | Mobile services | Feedback
 
-**EV1\_02**
+**EN2\_01**
