@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Wednesday 14 November 2012
+Thursday 15 November 2012
 
 *   Home
 *   News
@@ -142,13 +142,13 @@ For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Clegg's not going to help  
+Petraeus and all the presidential men  
 
-Mothers want to be able to afford to spend more time with their children – this requires changes in the tax system, argues **Jill Kirby.**
+America loves to put its generals into the White House, but David Petraeus’s affair has ruined his chances, says **Con Coughlin**
 
 Comments
 
-India is the perfect stage for Alastair Cook Chinese village 'in shadow of cancer' China's love affair with England Michael Parkinson's TV return: review Advertisement
+Paul Hayward: young lions taught lesson BBC newsroom in crisis? The Hour is back Lions XV: Greenwood v Our Readers China's love affair with England Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
@@ -161,6 +161,7 @@ Hot Topics
 *   BBC
 *   Jimmy Savile
 *   Syria
+*   Nadine Dorries
 *   Weather
 *   Football
 *   Rugby Union
