@@ -691,13 +691,13 @@ contactos Telemundo TV Ahora
     
     Adivina qué eran antes de ser famosos  
     
-*   ¡Eternamente bella!
+*   No intentes cambiar tu cuerpo
     
-    Combate las arrugas desde ya  
+    ¡Adapta la moda a tu figura!  
     
-*   ¡Pompis muy varoniles!
+*   Diosa de Alfombra
     
-    Ellos impactan con un pompis de ataque
+    Con la belleza angelical de Sonya Smith
     
 *   Camino de Miss El Salvador
     
