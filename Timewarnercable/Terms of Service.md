@@ -21,7 +21,7 @@ Skip to Content
     
     Our services may not be available in your area
     
-    Please enter the ZIP code for your location. If you entered your ZIP code correctly, visit cablemovers.com to contact the cable company serving your area.
+    Please enter the ZIP code for your location. If you entered your ZIP code correctly, visit cablemover.com to contact the cable company serving your area.
     
     Cookies are not enabled
     
