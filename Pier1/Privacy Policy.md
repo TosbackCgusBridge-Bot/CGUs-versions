@@ -64,11 +64,16 @@ close x Search Catalog Search Catalog Navigation
             Holiday candles &. fragrance:  
             The gift that’s almost too pretty to give. Shop Apple Crisp, Peppermint Creme and all your favorites
         *   Gifts &. Occasions
-            *   Gifts for Her
-            *   Gifts for Him
+            *   Gifts By Price
+            *   Jewelry
+            *   Scarves &. Accessories
+            *   Bath &. Body
+            *   Bar Accessories
+            *   Office &. Desk
+            *   Sports &. Games
             *   Gifts for Fun
-            *   Cards &. Gift Wrap
             *   Special Occasions
+            *   Cards &. Gift Wrap
             *   Clearance
             *   Special SavingsLooking for hostess gift ideas? Be our guest. You’re invited to explore these easy, original, charming gifts
     *   Room
@@ -147,7 +152,6 @@ close x Search Catalog Search Catalog Navigation
             *   Clearance
             *   Special SavingsLet’s get together. Click on an event to find ideas for entertaining, gifts &. décor.
         *   Holidays &. More
-            *   Halloween
             *   Harvest &. Thanksgiving
             *   Christmas Decor &. Dining
             *   Christmas Ornaments
