@@ -40,28 +40,28 @@ WINDOWS CATEGORIES:
 *   Ashampoo UnInstall...
 7-DAY TOP DOWNLOAD # Program Adguard Web Filter  
 5.4.425.2526  
-148,772 downloads Nokia PC Suite  
+148,484 downloads Nokia PC Suite  
 7.1.180.94  
-50,710 downloads Samsung PC Studio  
+50,724 downloads Samsung PC Studio  
 7.2.24.9  
-38,268 downloads Adobe Flash Player  
+38,470 downloads Adobe Flash Player  
 11.5.502.110 /  
-11.5.502.113 Beta  
-35,945 downloads Nero 9 Free  
+11.5.502.118 Beta  
+34,203 downloads Nero 9 Free  
 9.4.12.3d  
-33,906 downloads Internet Download  
+32,998 downloads Internet Download  
 Manager 6.12 Build  
 25  
-27,380 downloads Microsoft Office  
+27,007 downloads UMPlayer 0.98  
+23,523 downloads Microsoft Office  
 2013 15.0.4128.1014  
 Preview / 2010  
 14.0.6023.1000  
 Service Pack 1  
-26,328 downloads UMPlayer 0.98  
-24,018 downloads Hotspot Shield 2.76  
-23,699 downloads Avast! Free  
+23,335 downloads Hotspot Shield 2.76  
+23,039 downloads Avast! Free  
 Antivirus 7.0.1474  
-19,467 downloads Home >. Privacy policy  
+19,891 downloads Home >. Privacy policy  
 Softpedia privacy policy  
 Written in accordance with the provisions of Law 677/2001, regarding individual protection about collecting and free circulation of personal data.  
   
