@@ -28,7 +28,6 @@
 *   SHOP BY OCCASION
     *   Birthday
     *   Breakfast
-    *   Halloween
     *   Thanksgiving
     *   Christmas
     *   All Occasion Gifts
