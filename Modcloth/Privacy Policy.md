@@ -225,6 +225,9 @@ ModCloth Customer Care Hello,
     
     Vintage clothing and decor is still very near and dear to us, so we sell at least one item a day. They go fast, so visit often to snag your own ModCloth one of a kind!
     
+*   Style Gallery
+    *   The Style Gallery is a great new way for you to view, love, and share outfit photos. It’s meant to showcase all the expressive, creative, and inspirational personalities of our community!
+        
 *   Sale
     
     just added
@@ -239,9 +242,9 @@ ModCloth Customer Care Hello,
         *   Apartment
 *   Blog
     
-    latest blog posts*   Office Sneak Peek: Street Artist Becca for ModCloth’s New LA Digs
+    latest blog posts*   Meet Rebecca of Midnight Maniac
+    *   Office Sneak Peek: Street Artist Becca for ModCloth’s New LA Digs
     *   Thank Pinterest For A Fantastic Thanksgiving!
-    *   Hit the Slopes: Vintage Ski Inspiration for Winter
     
     *   modcloth blog
     *   In Other Words
