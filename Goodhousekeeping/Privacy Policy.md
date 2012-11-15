@@ -51,7 +51,7 @@ Try: 7 Years Younger • Travel Mugs • Quick Dinners
     *   Diet &. Health Tools
 *   Beauty &. Anti-Aging
     
-    Top Beauty Buys **Under $25**
+    Top Beauty Buys Under $25
     
     Read More!
     *   Makeovers
@@ -91,7 +91,7 @@ Try: 7 Years Younger • Travel Mugs • Quick Dinners
     *   Gift Ideas
 *   Product Reviews
     
-    Best Cranberry Sauce
+    Best **Cranberry Sauces**
     
     Read More!
     *   Appliances
@@ -137,7 +137,7 @@ In order to view the Privacy Policy you must enable javaScript. Print Share Late
 *   Beauty  
     &. Anti-Aging
     
-    Top Beauty Buys **Under $25**
+    Top Beauty Buys Under $25
     
     First-rate beauty bargains you'll actually _like_
     
@@ -157,7 +157,7 @@ In order to view the Privacy Policy you must enable javaScript. Print Share Late
 *   Product  
     Reviews
     
-    Best Cranberry Sauce
+    Best **Cranberry Sauces**
     
     To suss out the best match for the bird, our testers sampled 17 condiments on roast turkey.
     
