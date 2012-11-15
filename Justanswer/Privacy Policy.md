@@ -102,7 +102,6 @@ NOTICE: Click here for important information about safe surfing.
 *   Become an Expert
 *   Expert FAQs
 *   Help
-*   About Us - Spanish
 
 JustAnswer Quick Facts
 
