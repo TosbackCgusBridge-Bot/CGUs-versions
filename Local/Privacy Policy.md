@@ -33,7 +33,7 @@ Local.com Privacy Policy
 
 Last Updated: August 2012
 
-At Local.com Corporation ("Local.com," "we," "us" or "our"), we understand the importance of maintaining your privacy, and we therefore strive to provide our services with your protection in mind. This Privacy Policy applies to your use of Local.com's service (the "Service") that provides users, who submit search queries in a Local.com or third-party branded search box on a Web page (a "Search Page"), with Internet navigation assistance web pages containing relevant local search results and other content ("Results Pages;" and, together with any Search Pages, the "Local.com Web Pages"). This Privacy Policy describes our practices regarding the collection, maintenance, use, and sharing of information from the Service.
+At Local Corporation ("Local.com," "we," "us" or "our"), we understand the importance of maintaining your privacy, and we therefore strive to provide our services with your protection in mind. This Privacy Policy applies to your use of Local.com's service (the "Service") that provides users, who submit search queries in a Local.com or third-party branded search box on a Web page (a "Search Page"), with Internet navigation assistance web pages containing relevant local search results and other content ("Results Pages;" and, together with any Search Pages, the "Local.com Web Pages"). This Privacy Policy describes our practices regarding the collection, maintenance, use, and sharing of information from the Service.
 
 In accessing the Service and/or the Local.com Web Pages, you accept all the terms and conditions of this Privacy Policy. Our Privacy Policy may change from time to time, and those changes will be available for your review on most Local.com Web Pages that you view and on our web page located at http://www.local.com/privacy.aspx for our United States, or “US” users and at http://uk.local.com/privacypolicy.aspx for our United Kingdom, or “UK” users. Your continued use of our Service after any such changes have been made will signify your assent to the changed Privacy Policy. Accordingly, we ask that you bookmark and periodically review this Privacy Policy to ensure continuing familiarity with the most current version. If you do not agree with the terms and conditions of this Privacy Policy we request that you immediately cease using and accessing the Service and the Local.com Web Pages.
 
@@ -126,7 +126,7 @@ Any advertiser who wishes to place advertising on our Service will be asked to p
 
 11\. CALIFORNIA PRIVACY RIGHTS UNDER CALIFORNIA CIVIL CODE SECTION 1798.83
 
-California Civil Code Section 1798.83 permits end users who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send us an e-mail at clientservices@local.com or write us at: Local.com Corporation, 7555 Irvine Center Drive, Irvine, CA 92618, Attn: Legal Department.
+California Civil Code Section 1798.83 permits end users who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send us an e-mail at clientservices@local.com or write us at: Local Corporation, 7555 Irvine Center Drive, Irvine, CA 92618, Attn: Legal Department.
 
 12\. PRIVACY POLICY TERMS SPECIFIC TO UNITED KINGDOM USERS
 
@@ -148,7 +148,7 @@ Microsoft Bing Maps and MapPoint Privacy Statement may be viewed at http://go.mi
 
 14\. QUESTIONS
 
-If you have any questions about this Privacy Policy, please feel free to contact us by e-mail at privacy@local.com or by U.S. mail at: Local.com Corporation, 7555 Irvine Center Drive, Irvine, CA 92618, Attn: Legal Department.
+If you have any questions about this Privacy Policy, please feel free to contact us by e-mail at privacy@local.com or by U.S. mail at: Local Corporation, 7555 Irvine Center Drive, Irvine, CA 92618, Attn: Legal Department.
 
 More about local.com Features Email Sign Up
 
@@ -190,5 +190,5 @@ Top Cities
 
  
 
-© 2012 Local.com Corporation - US Patent 7,231,405  
+© 2012 Local Corporation - US Patent 7,231,405  
 Some data provided by Acxiom. Questions and Comments? Send us your feedback!
