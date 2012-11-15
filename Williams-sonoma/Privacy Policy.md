@@ -52,9 +52,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Technique Classes
 *   Gifts
     *   *   Featured
-        *   Williams-Sonoma Cookware
-        *   Williams-Sonoma Tools
-        *   Williams-Sonoma Smart Tools
         *   Top 20 Gifts
         *   Top-Rated Gifts
         *   Stocking Stuffers
@@ -62,6 +59,9 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
         *   Gift Sets
         *   Homemade Gift Ideas
         *   Monogram Shop
+        *   Williams-Sonoma Cookware
+        *   Williams-Sonoma Tools
+        *   Williams-Sonoma Smart Tools
         *   Gifts by Price
         *   Gift Cards
         *   Under $25
@@ -75,8 +75,10 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   The Wine Lover
     *   The Hostess
     *   The Gardener
-    *   The Family
     *   The Happy Couple
+    *   The Family
+    *   For Him
+    *   For Her
     *   Business Gifts
     *   Gifts by Category
     *   Top 10 Cookware Gifts
@@ -109,12 +111,12 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Specialty Cookware
     *   Stock, Soup &. Multipots
     *   Teakettles
-    *   Cast-Iron Cookware
-    *   Copper Cookware
+    *   Pot Racks
+    *   International Cookware
     *   Nonstick Cookware
     *   Stainless-Steel Cookware
-    *   International Cookware
-    *   Pot Racks
+    *   Cast-Iron Cookware
+    *   Copper Cookware
     
     Shop by Brand
     
@@ -150,7 +152,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     NEW &. EXCLUSIVE
     
-    Introducing Williams-Sonoma Thermo-Clad™ Stainless-Steel Cookware, the result of our mission to bring home cooks the highest-quality products available.
+    Introducing Williams-Sonoma Thermo-Clad ™ Stainless-Steel Cookware, the result of our mission to bring home cooks the highest-quality products available.
     
     Buy Now 
     
@@ -214,18 +216,18 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
 *   Cutlery Shop by Category
     
     *   Knife Sets
-    *   Bread Knives
-    *   Ceramic Knives
     *   Chef's &. Santoku Knives
-    *   Cleavers &. Boning Knives
     *   Paring Knives
-    *   Slicing &. Carving Knives
-    *   Specialty Knives
-    *   Steak Knives
     *   Utility Knives
+    *   Slicing &. Carving Knives
+    *   Steak Knives
+    *   Bread Knives
+    *   Cleavers &. Boning Knives
+    *   Specialty Knives
     *   Kitchen Shears
-    *   Cutting Boards
+    *   Ceramic Knives
     *   Knife Sharpeners &. Storage
+    *   Cutting Boards
     
     Shop by Brand
     
@@ -276,12 +278,12 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Pressure, Rice &. Slow Cookers
     *   Specialty Electrics
     *   Toasters &. Ovens
+    *   Vacuums
     *   Waffle Makers
     *   Stoves
     
     Shop by Brand
     
-    *   Williams-Sonoma
     *   All-Clad
     *   Beaba
     *   Breville
@@ -295,6 +297,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Starbucks
     *   Technivorm
     *   Vitamix
+    *   Williams-Sonoma
     
     Featured
     
@@ -309,7 +312,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     NEW &. EXCLUSIVE
     
-    Introducing Williams-Sonoma smart tools, keeping you connected in the kitchen.
+    Introducing Williams-Sonoma Smart Tools, keeping you connected in the kitchen.
     
     Buy Now  
     
@@ -412,7 +415,6 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Sale &. Offers
     
-    *   Favorite Fall Food Promotion
     *   Sale
     
     Learn More
@@ -484,12 +486,11 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Sale
     *   Tabletop Promotion
     
-    LIMITED TIME ONLY
+    MONOGRAM SHOP
     
-    Save 15% on select tabletop through 11/21/12.  
-    Enter promo code: TABLETOP15
+    Learn about our monogramming options, including font and lettering styles, thread colors and techniques.
     
-    Shop Now 
+    Learn More 
     
 *   Homekeeping Shop by Category
     
@@ -530,13 +531,12 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     Sale &. Offers
     
     *   Sale
-    *   Seasonal Scents Promotion
     
-    TODAY ONLY
+    FREE SHIPPING
     
-    Save 20% on Top-Rated Seasonal Scents
+    All Miele vacuums ship free! Offer not valid for international shipping.
     
-    Shop Now 
+    Shop Miele Vacuums 
     
 *   Outdoor Shop by Category
     
@@ -595,6 +595,14 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   Dining Room Collections
     *   Bedroom Collections
     
+    Holiday Shops
+    
+    *   Silver Linings
+    *   Gold Rush
+    *   Rustic Chic
+    *   Plaid Party
+    *   Green Envy
+    
     Shop the Look
     
     *   Living Room
@@ -612,6 +620,7 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     Sale &. Offers
     
     *   Sale
+    *   Mirrors &. Wall Art Event
     *   Free Shipping
     
     Learn More
@@ -619,11 +628,11 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     *   For Designers
     *   Store Availability
     
-    LIMITED TIME ONLY - SAVE $200
+    ONE WEEK ONLY
     
-    Beckett Bar Cart, Now $799.
+    Save 20% on Mirrors &. Wall Art through 11/21/12.
     
-    Buy Now 
+    Shop Now 
     
 *   Agrarian Shop by Category
     
