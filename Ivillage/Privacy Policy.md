@@ -484,29 +484,13 @@ We will notify our members when we make any significant changes to our Privacy P
 
 If you have questions about this Privacy Policy or anything else about iVillage, you can contact us at the following email address: feedback@mail.ivillage.com
 
-  Get the latest with free newsletters
-
-Thank you for subscribing!
-
-Would you like to receive special offers, promotions, coupons, and free samples from iVillage and its sponsors?
-
-*   Facebook
-*   Twitter
-
-*   Diet &. Fitness (SAMPLE)
-    
-*   Hottest Celebrity News (SAMPLE)
-    
-*   Today's Big Story (SAMPLE)
-    
-
-See All Newsletters   best of video village
+  best of video village
 
 *   Entertainment Celebrity Spotlight Taylor Lautner on His Amazing Abs: "I Can't Help It!"
-*   Entertainment Kitchen Confessions Water and... Ice Cream? Leighton Meester Reveals Her Beauty Secrets
+*   Food Learn How Now 3 Surprising Things You Need in Your Pantry
 *   Food Featured (Food) How to Truss a Turkey
+*   Global Featured Clips iVoices Thanksgiving: Stuffing, Sauce and Surviving
 *   Entertainment Celebrity Spotlight Kristen Stewart: "I Kinda Can't Wait" to Be a Mom
-*   Health Learn How Now No Gym Membership? No Excuse! At Home Hip and Thigh Exercises
 *   Beauty My Best Idea Quick Tips for Getting Party Pretty in a Pinch
 
   
