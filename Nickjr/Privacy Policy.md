@@ -175,7 +175,7 @@ It's a fin-tastic fairytale adventure. Play today!
 
 Make Learning Fun!
 
-Help your kids sharpen their reading, math, logic skills &. more. Play now! (AD)
+Help your kids sharpen their reading, math, and logic skills. Play now! (AD)
 
 What's New on Nick Jr.?
 
