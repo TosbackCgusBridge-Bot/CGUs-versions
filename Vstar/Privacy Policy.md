@@ -615,10 +615,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos On Campus: West County Playoff Preview Teams prep for Friday night games
+Videos Sugartown growing a group of followers
 
-*   On Campus: West County Playoff ... Releasing a hawk Excited about casting votes Iran hostage crisis remains vivid ...
-*   On Campus: Showdown Set Chemistry professor uses pizzazz to ...
+*   Sugartown growing a group of ... Cal Lutheran celebrates SCIAC win On Campus: West County Playoff ... Releasing a hawk
+*   Excited about casting votes Iran hostage crisis remains vivid ...
 
   
 
@@ -631,25 +631,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Kart racing driving Ventura beach residents batty Published 11/12/2012 at 5:14 p.m. 65 comments
-*   Will: Conservatives, start all over again Published 11/10/2012 at 8:01 p.m. 101 comments
 *   Spearmint Rhino exotic dancers settle suit for nearly $13 million Updated 11/13/2012 at 8:22 p.m.
-*   Officials look at possible expansion of Santa Monica Mountains park Published 11/12/2012 at 4:42 p.m. 27 comments
-*   4 injured in crash on Highway 101 interchange Updated 11/12/2012 at 6:40 p.m.
+*   California budget deficit shrinks to $1.9B with taxes Published 11/14/2012 at 3:42 p.m. 52 comments
+*   In Conejo visit, former Mexican president calls for immigration overhaul Updated 11/14/2012 at 5:32 p.m. 27 comments
+*   Gun fired at security guard in Ventura Updated 11/14/2012 at 6:21 p.m.
+*   Company that owns Brooks Institute closing some campuses Updated 11/14/2012 at 7:12 p.m. 16 comments
 
-Photo Galleries Ventura County's Most Wanted November… Surfers remember Jack Cantrell Veterans honored at Reagan Library
+Photo Galleries Ventura County's Most Wanted November… Women working to narrow gender gap in… Surfers remember Jack Cantrell
 
-*   Will: Conservatives, start all over again Published 11/10/2012 at 8:01 p.m. 101 comments
-*   O'Reilly: Personal note to President Obama Published 11/9/2012 at 4:29 p.m. 161 comments
-*   Ventura County representatives know 'fiscal cliff' is on their agenda Published 11/11/2012 at 4:56 p.m. 76 comments
-*   Morning chat Published 11/9/2012 at 12:00 a.m. 276 comments
-*   Kart racing driving Ventura beach residents batty Published 11/12/2012 at 5:14 p.m. 65 comments
+*   Will: Conservatives, start all over again Updated // at : 87 comments
+*   Kart racing driving Ventura beach residents batty Updated // at : 70 comments
+*   Ventura County representatives know 'fiscal cliff' is on their agenda Updated // at : 73 comments
+*   California budget deficit shrinks to $1.9B with taxes Updated // at : 52 comments
+*   Morning chat Updated // at : 49 comments
 
-*   Authorities warn of "knock knock" burglaries in east Ventura County Published 11/8/2012 at 12:11 p.m. 0 comments
-*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
-*   18-year-old accused of setting family's basset hound on fire near Camarillo Published 11/9/2012 at 10:13 a.m. 0 comments
-*   Veterans in Ojai find hope, help through horse therapy Published 11/10/2012 at 9:14 p.m. 5 comments
-*   UCSB researchers discover breakthrough on replacement organs Published 11/12/2012 at 5:30 p.m. 11 comments
+*   Authorities warn of "knock knock" burglaries in east Ventura County Updated 11/8/2012 at 2:04 p.m. 0 comments
+*   Shirley: Medical device tax will impact jobs and costs Updated // at : 0 comments
+*   18-year-old accused of setting family's basset hound on fire near Camarillo Updated 11/9/2012 at 11:01 p.m. 0 comments
+*   Spearmint Rhino exotic dancers settle suit for nearly $13 million Updated 11/13/2012 at 8:22 p.m. 0 comments
+*   Veterans in Ojai find hope, help through horse therapy Updated // at : 5 comments
 
 Weather
 
@@ -657,25 +657,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 51° Fair Wind: NE 4mph Today 72° 53° Wed 05:00 PM Partly Cloudy Temp: 63° Thu 05:00 AM Mostly Clear Temp: 53° Thu 05:00 PM Mostly Cloudy Showers Temp: 61°
-
-Feels Like: 63°
-
-Humidity: 68%
-
-Precip: 4%
-
-Feels Like: 53°
-
-Humidity: 77%
-
-Precip: 13%
+Currently 53° Fair Wind: E 6mph Today 67° 55° Thu 05:00 PM Mostly Cloudy Showers Temp: 61° Fri 05:00 AM Mostly Cloudy Showers Temp: 55° Fri 05:00 PM Mostly Cloudy Showers Temp: 59°
 
 Feels Like: 61°
 
-Humidity: 83%
+Humidity: 62%
 
-Precip: 32%
+Precip: 24%
+
+Feels Like: 55°
+
+Humidity: 87%
+
+Precip: 44%
+
+Feels Like: 59°
+
+Humidity: 81%
+
+Precip: 44%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -721,18 +721,10 @@ More bloggers Wire
 
 Calendar
 
-*   Wednesday Nov 14
 *   Thursday Nov 15
 *   Friday Nov 16
+*   Saturday Nov 17
 *   More BROWSE Icon
-
-*   Employment Law Update 2013 (Or…Should Auld Employment Laws be Forgot?) Los Robles Golf Course Banquet Center 8 a.m.
-*   St. Vincent's Annual Fashion Show &. Luncheon Villa Caridad Community Room at St. Vincent's (4202 Calle Real, Santa Barbara CA 93110) 10 a.m.
-*   St. Vincent's Annual Fashion Show &. Luncheon (Updated) Villa Caridad Community Room at St. Vincent's (4202 Calle Real, Santa Barbara CA 93110) 10 a.m.
-*   St. Vincent's 4th Annual Fashion Show &. Luncheon Bishop Diego High School Santa Barbara, CA 93110 10:30 a.m.
-*   St. Vincent's 4th Annual Fashion Show &. Luncheon Villa Caridad Community Room at St. Vincent's (4202 Calle Real, Santa Barbara CA 93110) 10:30 a.m.
-
-More Events »
 
 *   CAM Book Club: "A Good Hard Look: A Novel of Flannery O'Connor by Ann Napolitano Carnegie Art Museum 6 p.m.
 *   Senior Concerns Holiday Boutique 80 E. Hillcrest, Thousand Oaks, CA 6 p.m.
@@ -750,13 +742,21 @@ More Events »
 
 More Events »
 
+*   American Diabetes Association Tour De Cure Santa Barbara City College 7 a.m.
+*   CI to host 2012 Southern California Conferences for Undergraduate Research CSUCI California State University 8 a.m.
+*   Channel Islands PC User Group (CIPCUG) November meeting Boys' &. Girl' Club of Camarillo 8:30 a.m.
+*   Olive Picking Day Santa Inés Mission Mills, 2010 Mission Drive, Solvang 9 a.m.
+*   Dealing with Depression Mahakankala Buddhist Center 9 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   VC Star for iPhone
+*   E-Edition For iPad
     
-    Keep up with the latest news, sports and more. Available in the Apple App Store.
+    Subscribe and have today's paper delivered right to your iPad.
     
     95 percent accurate
     
@@ -766,17 +766,17 @@ More Events » Features
     
     Your Instagram photos from your community.
     
-*   Our E-Edition For iPad
+*   Storm Shield
     
-    Subscribe and have today's paper delivered right to your iPad.
+    A sophisticated weather radio on your iPhone and Android.
     
     Pigskin Picks
     
     Play our pro football picks contest for a shot at $500 and other prizes.
     
-    VC Star iPad app
+    VC Star for iPhone
     
-    Top stories, local news, sports, business, lifestyle and more, all on your iPad.
+    Keep up with the latest news, sports and more. Available in the Apple App Store.
     
 *   On Campus
     
