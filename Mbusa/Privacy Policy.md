@@ -389,11 +389,26 @@
     
     SL65 AMG Roadster
     
-*   EXPERIENCE THE NEW SLS AMG SLS AMG
+*   SLS AMG GT
     
-    Breathtaking performance and craftsmanship take flight in a gullwing coupe that nods to the past while rocketing into the future.
+    Starting at $199,500\*
     
-    EXPERIENCE THE NEW SLS AMG
+    The first super sports car developed entirely by AMG, now quicker, more powerful and more stunning than ever.
+    
+    Seating: 2 adults
+    
+    Acceleration: 0-60 mph in 3.6 sec.†
+    
+    Top speed: 197 mph
+    
+    OverviewBuild
+    
+    View Model options and specs
+    
+    SLS AMG GT Coupe
+    
+    SLS AMG GT Roadster
+    
 
 Privacy Statement
 
