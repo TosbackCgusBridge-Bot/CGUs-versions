@@ -1,8 +1,8 @@
-A NOTE FROM DAVID PELTIER
+CATCH ROCCO'S LATEST TKO
 
-*   **Home**
+*   Home
 
-*   **Stock Market Today**
+*   Stock Market Today
     *   Economic Calendar
     *   Earnings Calendar
     *   Dividend Calendar
@@ -13,7 +13,7 @@ A NOTE FROM DAVID PELTIER
     *   Initial Public Offerings
     *   Stock Alerts
 
-*   **Business News**
+*   Business News
     *   Latest News
     *   Biotech News
     *   Technology News
@@ -25,13 +25,13 @@ A NOTE FROM DAVID PELTIER
     *   Political News
     *   Opinion
 
-*   **How to Invest**
+*   How to Invest
     *   Financial Glossary
     *   Investing in Bonds
     *   Investing in Mutual Funds
     *   Investing in ETFs
 
-*   **Investment Research**
+*   Investment Research
     *   Top Stocks
     *   Top Mutual Funds
     *   Top ETFs
@@ -40,7 +40,7 @@ A NOTE FROM DAVID PELTIER
     *   Insider Trading Data
     *   Where to Invest in 2013
 
-*   **Stock Picks**
+*   Stock Picks
     *   Mad Money Recap
     *   Mad Money Stock Screener
     *   Stock Upgrades
@@ -50,7 +50,7 @@ A NOTE FROM DAVID PELTIER
     *   Real Money Previews
     *   Side Street
 
-*   **Personal Finance**
+*   Personal Finance
     *   Retirement (IRAs, 401ks)
     *   Real Estate
     *   Travel - Leisure
@@ -58,7 +58,7 @@ A NOTE FROM DAVID PELTIER
     *   Bank Safety Ratings
     *   Insurer Safety Ratings
 
-*   **Videos**
+*   Videos
     *   Latest Videos
     *   Jim Cramer
     *   Debra Borchardt
@@ -86,16 +86,18 @@ A NOTE FROM DAVID PELTIER
     *   Chairman's Club
 
 *   HOT TOPICS:
-*   Grave Apple Worries
-*   Fears Are Overblown
+*   #1 Dividend Stock
+*   Diamond Foods
 *   Zurich Webinar
-*   Lumia 920
-*   Google Laptop
-*   Analysts' Actions
-*   Apple's Problem
-*   Mini Berkshire?
+*   Bank Stocks
+*   AIG
+*   Kass
+*   Electric Cars
+*   Hated Stocks
+*   Fantasy Football
+*   Stocks Crushed
 
-pjava02.dc.thestreet.com Privacy Policy
+pjava06.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -250,15 +252,15 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 12,756.18 -58.90 -0.46% NASDAQ 2,883.89 -20.37 -0.70% S&P 500 1,374.53 -5.50 -0.40% US 10 Yr 1.589% -0.022 Brokerage Partners Most Commented
+DOW 12,570.95 -185.23 -1.45% NASDAQ 2,846.81 -37.08 -1.29% S&P 500 1,355.49 -19.04 -1.39% US 10 Yr 1.589% +0.000 Brokerage Partners Most Commented
 
-*   Tesla Motors Pollutes Today for a Greener Tomorrow
 *   10 Worst Cars of All Time
+*   Tesla Motors Pollutes Today for a Greener Tomorrow
 *   Solar Panels Don't Work!
+*   BMW Cuts Off Toyota, GM and Ford in California
 *   It's Not Apple, It's The 'Fiscal Cliff,' Stupid
-*   Nokia Needs Lumia 920 to Shine
 
-Articles From Newser Obama Playing Hardball on Taxes Even a Short Plunge Off Fiscal Cliff Will Hurt 465K Sign 'Dump Trump' Plea to Macy's See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Is It Doomsday for Facebook Shares? Sotheby's Sets Record Thanks to $75M Rothko Toyota Recalls 2.77M More Cars See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
