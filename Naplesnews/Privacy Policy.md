@@ -146,6 +146,11 @@ Naples Daily News
 *   Cars
 *   Classified
 
+*   CME Group Titleholders
+    
+    LPGA's impact on economy | Stacy Lewis' journey | Arthrex Girls Golf Challenge | Photos | Special Section »
+    
+
 Privacy Policy
 
 _PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008._  
@@ -438,19 +443,19 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Most in U.S. won't be able to escape 'fiscal cliff' Published 11/13/2012 at 8:19 a.m. 60 comments
-*   Two deputies involved in crashes Updated 11/13/2012 at 6:30 p.m. 25 comments
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Updated 11/9/2012 at 2:11 p.m. 436 comments
-*   Chapel Grill opens in Naples, celebrates former church building's 65-year history Published 11/13/2012 at 5:40 a.m. 16 comments
-*   Condoleezza Rice: America must get fiscal, economic house in order Published 11/12/2012 at 8:00 p.m. 79 comments
+*   Fiscal cliff: Obama urges Congress to extend tax cuts to all but top earners Published 11/14/2012 at 3:14 p.m. 85 comments
+*   In the Know: Is Aurelio’s Pizza moving to Coastland Cen­ter mall? Published 11/14/2012 at 5:00 a.m. 25 comments
+*   Two facing prostitution charges after undercover bust Published 11/14/2012 at 4:02 p.m. 36 comments
+*   Gov. Scott dropping opposition to health care overhaul, wants to negotiate with feds Published 11/13/2012 at 10:10 p.m. 52 comments
+*   Karl Rove, James Carville trade political jabs at Naples conference Published 11/14/2012 at 5:40 a.m. 20 comments
 
-Photo Galleries Rick Scott's Naples home and… Chapel Grill opens in downtown Naples FGCU upsets Miami, 63-51
+Photo Galleries Editorial Cartoons: November 14, 2012 Cracklin' Jack's Rick Scott's Naples home and…
 
-*   Fiscal cliff: Obama says Americans agree with his approach on deficit Published 11/9/2012 at 6:10 a.m. 436 comments
+*   Fiscal cliff: Obama says Americans agree with his approach on deficit Published 11/9/2012 at 6:10 a.m. 492 comments
 *   Region's clinics, lawmakers begin preparing for rollout of Obamacare Published 11/12/2012 at 5:20 a.m. 94 comments
-*   Condoleezza Rice: America must get fiscal, economic house in order Published 11/12/2012 at 8:00 p.m. 79 comments
-*   Most in U.S. won't be able to escape 'fiscal cliff' Published 11/13/2012 at 8:19 a.m. 60 comments
-*   Florida connection: Info emerges about second woman in Petraeus case Published 11/12/2012 at 6:33 a.m. 51 comments
+*   Fiscal cliff: Obama urges Congress to extend tax cuts to all but top earners Published 11/14/2012 at 3:14 p.m. 85 comments
+*   Condoleezza Rice: America must get fiscal, economic house in order Published 11/12/2012 at 8:00 p.m. 80 comments
+*   Most in U.S. won't be able to escape 'fiscal cliff' Published 11/13/2012 at 8:19 a.m. 68 comments
 
 *   Papa John's CEO: Obamacare likely to raise costs, result in employee's hours being cut Published 11/7/2012 at 9:06 p.m. 217 comments
 *   Big land deals again big deal in Southwest Florida, housing expert says Published 11/9/2012 at 5:30 a.m. 14 comments
@@ -464,40 +469,32 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 65° Fair Wind: N 4mph Today 79° 65° Wed 08:00 PM Partly Cloudy Showers Temp: 70° Thu 08:00 AM Mostly Sunny Temp: 74° Thu 08:00 PM Mostly Clear Temp: 70°
+Currently 63° Fog/Mist Wind: NE 4mph Today 79° 64° Thu 08:00 PM Mostly Clear Temp: 70° Fri 08:00 AM Mostly Cloudy Showers Temp: 70° Fri 08:00 PM Mostly Cloudy Showers Temp: 67°
 
 Feels Like: 70°
 
-Humidity: 79%
+Humidity: 76%
 
-Precip: 16%
-
-Feels Like: 74°
-
-Humidity: 69%
-
-Precip: 10%
+Precip: 13%
 
 Feels Like: 70°
 
-Humidity: 78%
+Humidity: 74%
 
-Precip: 9%
+Precip: 23%
+
+Feels Like: 67°
+
+Humidity: 81%
+
+Precip: 29%
 
 More Weather » Calendar
 
-*   Wednesday Nov 14
 *   Thursday Nov 15
 *   Friday Nov 16
+*   Saturday Nov 17
 *   More BROWSE Icon
-
-*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
-*   Yamuna Body Rolling Class Etudes de Ballet 8:50 a.m.
-*   Walking Tour: Naples Historic District Palm Cottage - Naples Historical Society 9 a.m.
-*   Guided Kayak Trip Rookery Bay Environmental Learning Center 9 a.m.
-*   Baby boot camp Miromar Outlets 9 a.m.
-
-More Events »
 
 *   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
 *   Feed Body and Soul Juniper Village at Naples 8:30 a.m.
@@ -515,37 +512,33 @@ More Events »
 
 More Events »
 
+*   St. Jude Give thanks. Walk. Sugden Regional Park 7 a.m.
+*   St. Jude Give thanks. Walk. Sugden Regional Park 7 a.m.
+*   Flea and Farmers Market Collier County Fairgrounds 7:30 a.m.
+*   Shelling in the Ten Thousand Islands Marco/Naples area 8 a.m.
+*   Season Opening Weekend/Plant Sale &. Garden Market Naples Botanical Garden 8 a.m.
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   Our World
+*   Go Shots
     
-    Column looks at SW Florida through eyes of Daily News photojournalists.
+    Photos of Southwest Florida residents hanging out at local hot spots around town.
     
-    Hot Home Sales
+    Editorial Cartoons
     
-    Pictures, info about recently sold single-family homes in Collier and Lee.
+    Check out our galleries of editorial cartoons about current events or personalities.
     
     LPGA Tour
     
     Find videos, photos and stories about CME Group Titleholders.
     
-*   Celebrity Sightings
+*   At the Movies
     
-    They're hot and they're out and about. Check out our daily celebrity sightings galleries.
-    
-    NewsMakers
-    
-    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
-    
-    Veterans Day
-    
-    Find interactive features honoring local veterans and Veterans Day photos.
-    
-*   Election 2012
-    
-    Find results, presidential state-by-state map, photos and stories about the election.
+    Find movie showtimes, trailers, box office results and read the latest reviews.
     
     Biggest Catch
     
@@ -555,17 +548,29 @@ More Events » Features
     
     Looking for daily arrest mugshots? You can find them here in our special section.
     
-*   Editorial Cartoons
+*   Hot Home Sales
     
-    Check out our galleries of editorial cartoons about current events or personalities.
+    Pictures, info about recently sold single-family homes in Collier and Lee.
+    
+    Celebrity Sightings
+    
+    They're hot and they're out and about. Check out our daily celebrity sightings galleries.
+    
+    Our World
+    
+    Column looks at SW Florida through eyes of Daily News photojournalists.
+    
+*   NewsMakers
+    
+    Jeff Lytle talks to leaders from Collier and Lee counties in Daily News show.
     
     Download iPad
     
     Experience the Naples Daily News -- reimagined for the iPad. Download now »
     
-    Cuties of the Week
+    Veterans Day
     
-    We want to see photos of your adorable kids and grandkids. Share your photos »
+    Find interactive features honoring local veterans and Veterans Day photos.
     
 
 Useful Links:
