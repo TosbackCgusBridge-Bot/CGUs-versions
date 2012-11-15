@@ -1,6 +1,6 @@
 (skip this header)
 
-Wednesday Nov 14, 2012 5:05 AM PT
+Thursday Nov 15, 2012 5:05 AM PT
 
 ° (change)
 
@@ -60,12 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   Nudists prep for suit
-*   Fiscal cliff could cost you
-*   Fieri slammed by NYT
-*   Pelosi to announce plans
-*   World's best waiter
-*   Great Bay Area soups
+*   New H&M collection
+*   Caffeine and dehydration
+*   3 wacky S.F. events
+*   Top prescription: Antidepressants
+*   Two important fundraisers
 
 *   Bay Area &. State
 *   Nation
@@ -266,7 +265,7 @@ In the event that the Newspaper, any affiliate of the Newspaper, or substantiall
 
 **(viii) Third Party Ad Servers**
 
-We may use third-party advertising companies to serve ads when you visit our Web Site. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer web site at www.networkadvertising.org/consumer/.
+We may use third-party advertising companies to serve ads when you visit our Web Site. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer web site at www.networkadvertising.org/consumer-education.
 
 **E. Right to Opt-out**
 
@@ -340,6 +339,24 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Montana Clark
+*   Barnes lifts Warriors past Hawks
+*   Nation in Focus
+*   World in Focus
+*   Opening Day 2012
+*   Magic waters of South Kelsey Trail
+*   Jedediah Smith Redwoods
+*   Buck Lake hike
+*   Election night
+*   The Petraeus affairs
+*   GQ Men of the Year Party 2012
+*   Day in Pictures, Nov. 14, 2012
+*   Arizona Immigration Law
+*   Arizona Immigration Law
+*   Big night for women in Senate
+*   Big night for women in Senate
+*   'Sexiest Man Alive' winners through the years
+*   Nancy Pelosi will remain as minority leader
 *   Allen Crabbe scores 33 as Cal rolls
 *   Muddy Daly City cleanup under way
 *   Pakistani Hindus celebrate Diwali
@@ -347,7 +364,6 @@ Ads by Yahoo! Photo Galleries
 *   Nation in Focus
 *   World in Focus
 *   Then and now photgraphy
-*   The Petraeus affairs
 *   Diwali, The Festival of Lights
 *   Solar Eclipse over Australia
 *   Day in Pictures, Nov. 13, 2012
@@ -363,22 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   Nation in Focus
 *   Harbaugh talks to high school coaches
 *   World in Focus
-*   The strangest baby shower cakes ever
-*   Nation in Focus
-*   Sandy-NYC
-*   Victoria's Secret Fashion Show 2012
-*   Ridiculous excuses for calling in sick
-*   Selena Gomez &. Justin Bieber
-*   The Thomas
-*   Day in Pictures, Nov. 12, 2012
-*   Patriotic Homes
-*   Cool Hall of Fame
-*   Week 10: 49ers vs. Rams
-*   MTV EMAs 2012: Red carpet
-*   MTV EMAs 2012: Show moments
-*   The worst athlete-turned-musician songs of all time
-*   Oregon powers past Cal
-*   Warriors defeated in double overtime
 
 *   Most Read
 *   |
@@ -386,54 +386,51 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Jerramy Stevens released in domestic violence case involving Hope Solo
-2.  Tulsa dad arrested after toddler found in cage
-3.  If they want to secede, let 'em
-4.  Muni passenger slashed on bus in Haight
-5.  Twilight of the old white guys
-6.  Fla. socialite at center of general's sex scandal
-7.  Giants like chances to resign Scutaro
+1.  Romney: Obama won with 'gifts' to certain voters
+2.  Software founder McAfee denies killing neighbor
+3.  Broadwell called Petraeus a 'very close mentor'
+4.  Uber, Lyft, SideCar hit with $20K fines
+5.  State's fiscal outlook much brighter
+6.  Nicole Kidman was blindsided by Tom Cruise divorce
+7.  Ireland probes death of ill abortion-seeker
 
-1.  Fiscal cliff: What it could cost you?
-2.  Prop. 30 funds for UC will go to Wall Street
-3.  Supermajorities have host of options
-4.  General investigated for emails to Petraeus friend
-5.  States now must make call on Obamacare
-6.  Scandal widens in probe of top US general's emails
-7.  Twilight of the old white guys
+1.  Obama pressing business and labor on fiscal cliff
+2.  Twilight of the old white guys
+3.  Romney: Obama won with 'gifts' to certain voters
+4.  California's deficit shrinks to $1.9 billion
+5.  Nancy Pelosi to stay as minority leader
+6.  Diablo Canyon seismic safety vs. sea life
+7.  Texans petition to secede from U.S.
 
-1.  Prop. 30 funds for UC will go to Wall Street
-2.  Belize police urge software founder to appear
-3.  States now must make call on Obamacare
+1.  Crab price set. fishermen drop pots
+2.  Fourth Amendment endangered
+3.  Facebook app for job hunters
 4.  How Lender Overlays Prevent Mortgages
-5.  Samsung Galaxy S3 Black Friday 2012 Deals: Great Deals Galaxy S3 Black Friday Deals
-6.  How to Talk Like a San Franciscan
-7.  'Smart glass' windows the cool new thing
+5.  Low-income immigrants get a hand
+6.  Polk Street, S.F.
+7.  BofA mortgage relief on track
 
 loading... Latest News Videos From our homepage
 
 *     
+    Ambergris Today Online-Sofia Munoz / AP
+    
+    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 5:03 a.m., Thursday, November 15, 2012 Belize PM: McAfee 'bonkers'
+    
+    Software founder says he's a step ahead of cops who want to question him in neighbor's death.
+    
+
+*     
     Paul Chinn, The Chronicle / SF
     
-    Street covered in deep mud
+    San Francisco Chronicle Copyright 2012 San Francisco Chronicle. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 5:43 p.m., Wednesday, November 14, 2012 Setbacks for Lyft, others
     
-    Broken Daly City water main sends 45K gallons spewing down hill, prompting evacuations. Photos
-    
-
-*     
-    JOSHUA TRUJILLO / SEATTLEPI.COM
-    
-    Seattle Post-Intelligencer Copyright 2012 Seattle Post-Intelligencer. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 7:41 p.m., Tuesday, November 13, 2012 Solo's wedding day in court
-    
-    U.S. goalkeeper appears in domestic violence case involving former Seahawks player.
+    Taxi drivers, state take action against startups that use apps for ride-sharing and cab-hailing.
     
 
-*     
-    Keystone, Laurent Gillieron / AP
+*   Explore the Redwood Empire
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 5:03 p.m., Tuesday, November 13, 2012 Huge diamond fetches record
-    
-    Winning bidder will donate the Archduke Joseph Diamond, which is a flawless 76.02 carats. Photos
+    See the vast, majestic forests, pristine rivers, great sunsets in a region far from the crowds.
     
 
 *   Home
