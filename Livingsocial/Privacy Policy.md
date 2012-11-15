@@ -8,7 +8,6 @@ LivingSocial
 
 *   deals
 *   escapes
-*   adventures
 *   shop
 *   takeout &. delivery
 
@@ -142,7 +141,6 @@ The Privacy Policy in effect prior to August 10, 2012 can be found here.
 *   today's deals
 *   escapes
 *   shop
-*   adventures
 *   takeout &. delivery
 
 *   how it works
