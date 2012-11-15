@@ -1,4 +1,4 @@
-Sign In Browse|Movies |Upload Search
+Sign In Upload Search
 
 *   About
 *   Press &. Blogs
@@ -103,30 +103,6 @@ Threats
 
 Users shouldn't feel threatened when they're on YouTube. Period. Don't leave threatening comments on other people's videos.
 
-*   Help
-*   About
-*   Press &. Blogs
-*   Copyright
-*   Creators &. Partners
-*   Advertising
-*   Developers
-
-*   Terms
-*   Privacy
-*   Safety
-*   Send feedback
-*   Try something new!
-
-*   Language: English
-*   Location: Worldwide
-*   Safety: Off
-
-Loading...
-
-Loading...
-
-Loading...
-
 0 / 00Unsaved Playlist Return to active list Options
 
 1.  Your queue is empty. Add videos to your queue using this button:  
@@ -141,3 +117,29 @@ Loading...Saving...
 Sign in to add this to a playlist Sign in to add this to a playlist Added to Back to list Added to playlist: Add an optional note 150 Add note Saving note... Note added to: Error adding note:
 
 Click to add a new note
+
+*   Language: English
+*   Location: Worldwide
+*   Safety: Off
+
+Loading...
+
+Loading...
+
+Loading...
+
+*   Help
+*   About
+*   Press &. Blogs
+*   Copyright
+*   Creators &. Partners
+*   Advertising
+*   Developers
+
+*   Terms
+*   Privacy
+*   Safety
+*   Send feedback
+*   Try something new!
+
+Send feedback
