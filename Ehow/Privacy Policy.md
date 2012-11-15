@@ -16,6 +16,8 @@ Holiday
 
 Life Skills
 
+Gadget Guide
+
 1.  eHow
 2.  Privacy Policy
 
