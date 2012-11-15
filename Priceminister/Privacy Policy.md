@@ -1,12 +1,10 @@
-17 380 000 membres - 198 188 756 articles
+17 385 000 membres - 198 188 756 articles
 
 ". divString += "". document.write(divString).
 
-page crée le 2012 11 14 14:09:27
+page crée le 2012 11 15 14:10:24
 
 bbc2a27a2d82f6a45062138320946ce920100915
-
-". divString += "". document.write(divString).
 
 *   Inscription
 *   Parrainage
@@ -44,7 +42,9 @@ Lors d'un achat, le paiement s'effectue à l'aide du système sécurisé "**Soge
   
 De la même façon, le numéro de votre carte n'est à aucun moment visible et/ou conservé par PriceMinister si vous choisissez, lors d'une commande ou directement depuis votre compte, de sauvegarder une carte de paiement pour de futurs achats.  
   
-Vous pouvez donc acheter en toute sérénité sur PriceMinister !
+Vous pouvez donc acheter en toute sérénité sur PriceMinister !  
+  
+Conformément à la loi "Informatique et libertés" du 6 janvier 1978, vous bénéficiez d'un droit d'accès, de rectification et d'opposition aux informations qui vous concernent, que vous pouvez exercer à tout moment en vous rendant sur la page "FAQ/Contact" du site.
 
 Propriété intellectuelle
 
@@ -123,7 +123,7 @@ L'émission et/ou l'utilisation des cookies par ces sociétés tierces sont soum
    
 Pour votre parfaite information, nous vous précisons que l’émission de ces cookies ainsi que la collecte de ces données ne permettent pas à nos partenaires de vous identifier personnellement. Vos nom, prénom, nom d’utilisateur, adresse postale, adresse électronique et mot de passe ne sont en aucun cas communiqués à des tiers sans votre consentement préalable et explicite. L’étude de ces données de navigation permet à PriceMinister et à ses partenaires de connaître les produits qui ont suscité votre intérêt au cours des 30 derniers jours.  
    
-Enfin, les offres publiées sur le site sont susceptibles d’être accompagnées d’une application informatique tierce permettant le partage de contenus par les utilisateurs de nos services, tels que les boutons présents sous la mention « Partager cette page ».  
+Enfin, les offres publiées sur le site sont susceptibles d’être accompagnées d’une application informatique tierce permettant le partage de contenus par les utilisateurs de nos services, tels que les boutons présents sous la mention "_Partager cette page_".  
    
 Nous n'avons aucun contrôle sur le processus employé par les réseaux sociaux concernés (Facebook, Twitter, Google+, etc.) pour collecter ces informations et vous invitons à consulter les politiques de confidentialité de ces derniers.  
    
@@ -144,6 +144,7 @@ En particulier, certains cookies sont utilisés pour afficher des publicités pe
 \>. Weborama  
 \>. ThinkRealTime  
 \>. mediaFORGE  
+\>. SocioMantic  
    
 Ainsi, l’enregistrement des cookies décrits ci-dessus dans votre terminal est essentiellement subordonné à votre volonté, que vous pouvez exprimer et modifier à tout moment à travers les choix qui vous sont offerts par votre logiciel de navigation. Si vous avez accepté dans votre logiciel de navigation l’enregistrement de cookies dans votre terminal, PriceMinister, nos prestataires de mesures et nos partenaires publicitaires pourront effectuer les traitements de vos informations de navigation décrits ci-dessus, sous réserve des droits que vous aurez exercés.  
    
@@ -199,6 +200,6 @@ Si votre terminal est utilisé par plusieurs personnes et lorsqu’un même term
    
 Le cas échéant, le partage avec d’autres personnes de l’utilisation de votre terminal et la configuration des paramètres de votre navigateur à l'égard des cookies, relèvent de votre libre choix et de votre responsabilité.  
 
-". divString += "". document.write(divString). Faire de cette page votre page d'accueil Ajouter cette page à vos favoris Envoyer cette page à un ami Affiliation - Comment acheter - Comment vendre - Mon compte - Mon panier - Aide - FAQ / Contacts - Conditions générales - Vie privée et cookies - Vendeurs PRO - PriceMinister recrute  
+Faire de cette page votre page d'accueil Ajouter cette page à vos favoris Envoyer cette page à un ami Affiliation - Comment acheter - Comment vendre - Mon compte - Mon panier - Aide - FAQ / Contacts - Conditions générales - Vie privée et cookies - Vendeurs PRO - PriceMinister recrute  
 **Groupe Rakuten :**   Rakuten Japon -  Rakuten Taiwan -  Tarad.com Thaïlande -  Rakuten Indonésie -  Rakuten Malaysia -  Buy.com Etats-Unis -  Rakuten Brésil -  VoyagerMoinsCher.com    
 PriceMinister Espagne -  Rakuten Allemagne -  Play.com Royaume Uni -  Rakuten International -  Signaler un contenu illicite © PriceMinister 2000-2012
