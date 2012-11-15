@@ -58,125 +58,10 @@ Privacy Policy and Legal Notices Home / Contact Us / Privacy Policy and Legal No
 *   Product Care
 *   Warranty/Product Guarantee
 *   Return Policy
-*   Privacy Policy and Legal Notices
+*   Legal Notices and Privacy Policy
 *   Sizing Charts
 
-**THE NORTH FACE ONLINE PRIVACY POLICY**  
-This privacy policy describes how VF Outdoor, Inc (dba “The North Face”) collects and uses the personal information you provide on our website at www.thenorthface.com.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
-  
-The North Face has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe’s program covers information that is collected through this website.   
-  
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at tnfsupport@vfc.com.  If you are not satisfied with our response you can contact TRUSTe here.  
-  
-The North Face respects your privacy.  
-  
-**Information Collection &. Use**  
-  
-When you visit The North Face website, you may provide information to us and we may collect website interaction information through the use of cookies and other tracking technologies.   The information collected by us includes information that you give us to, for example, make product purchases, request information or communications, register to join the website, email lists, forums, blogs, etc., register for events, participate in promotions, contests or other marketing activities and that information collected may include name, address, city, state, telephone, email, credit card number, age and gender.        
-   
-A cookie is a small data file that certain websites write to your hard drive. A cookie file can contain information such as a user ID that the site uses to track the pages you visit, but the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. Some parts of this site use cookies to track user traffic patterns and/or to provide access such as shopping online.   The North Face does not share this information or sell it to any third party.  
-   
-If you prefer not to receive cookies on this website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to browse the website. however, you will not be able to shop our online store without receiving a cookie.  
-  
-**Web Beacons**  
-  
-We employ and our third party advertising partner employ a software technology called Web Beacons (a.k.a. Web Bugs or Clear Gifs), that help us better manage content on our site by informing us what content is effective.  Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, Web beacsons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by Web beacons to our customers’ personally identifiable information.  
-We use Web beacons in our HTML-based emails to let us know which emails have been opened by recipients.  This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.    
-Third Party Tracking Technologies  
-The use of cookies and Web beacons by third parties are not covered by our privacy policy.  We do not have access or control over these cookies.  We use a third-party tracking service that uses cookies and Web beacson to track non-personally identifiable information about visitors to our site in the aggregate to capture usage and volume statistics to improve our website.  
-  
-**Widgets**   
-  
-Our includes Widgets, such as the Share This button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.  
-  
-**Advertising**  
-  
-We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here (Link to TRUSTe global opt-out: http://preferences.truste.com/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.  
-  
- The North Face uses the individual identifying information it has collected online, in retail stores, through promotional events, etc. in order to personalize your experience on our website and in our retail stores, send you communications that you consent to receive, either electronically or otherwise and for purposes of online shopping as well as retail store shopping in accordance with this privacy policy.   For example, we may use the information we collect to administer purchases and customer service on the website. improve and maintain the website. send you marketing information including events and promotions. customize your online or retail store shopping or browsing experience. administer surveys and promotions.  We only send you information when you have agreed to receive such information through an opt-in or opt-out process. In addition, all promotional emails will include unsubscribe instructions. however, you may receive information from us at any time specific to customer service issues which are transactional in nature and therefore you may not opt-out of receiving these types of communications.  
-   
-We collect information about gift recipients (i.e., ship to addresses) to fulfill the gift purchase, respond to customer service inquiries and for analysis purposes only.   If you choose to use our invitation tools or mobile services to invite or contact friends through our website, we will ask you for information needed to send the one-time invitation from the site, such as your friends' email addresses, your email address, your Facebook account information, other contact lists (e.g., Gmail, Twitter, Hotmail, and Yahoo) or your mobile phone and your friend’s mobile phone. You will have the option to choose which contacts are sent this one-time invitation.  
-   
-The North Face does not make individual identifying information available to third parties, including business partners, for marketing purposes without your affirmative consent to such sharing of information. however, we may transfer collected information between The North Face and third party contracted service providers who use that information only to conduct The North Face business.  For example, a third party may handle The North Face's credit card processing, shipping, data management, email distribution, Live Chat, market research, information analysis, and promotions management.  We may also share your information to administer a website feature (e.g. video download or event registration) and in that case you will be given the option to opt out of the feature if you do not want your information shared.  All credit card transactions are secure and comply with the Payment Card Industry security standards.  
-   
-We may disclose specific information when required by law, regulation or government agency including law enforcement when we believe the disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.  We may share information to prevent illegal uses of the website or violations of the terms of use, or defend ourselves against third-party claims.  We may also share information with companies assisting in fraud protection, counterfeiting or investigation.   All service providers may not use your personally identifiable information for their own marketing purposes.  
-   
-We do not knowingly collect or solicit personal information from children under 13 and we do not knowingly collect or solicit information from anyone under 18 in the State of Maine.  
-  
-**Customer Testimonials/Comments/Reviews**  
-  
-We post customer testimonials/comments/reviews on our website which may contain personally identifiable information.  We do obtain the customer's consent prior to posting the testimonial along with personally identifiable information.  
-**  
-Surveys or Contests**  
-  
-From time-to-time,we may provide you the opportunity to participate in contests or surveys on our site.  If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).    
-We use this information to notify contest winner and award prizes and to monitor site traffic to improve our website. We also use your contact information to send you promotional emails. You always have the option to opt-out out of these emails by following the unsubscribe instructions in each promotional email.  
-  
-**Links to Other Sites**  
-  
-This website contains links to other sites that are not owned or controlled by The North Face. Please be aware that we, The North Face is not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information.   
-  
-**Public Forums:**  
-  
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at tnfsupport@vfc.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.  
-  
-**Contact Information and Email Preference Management**  
-  
-If you would like to opt-out from receiving The North Face emails, please contact Customer Service, or manage your email preferences within the "My Account" section of our website.  
-Telephone             (888) TNF-1968        
-Email -  tnfsupport@vfc.com  
-  
-Corporate Address  
- The North Face VF Outdoor, Inc.    
-2013 Farallon Drive    
-San Leandro, CA 94577       
-   
-**Access to Personally Identifiable Information**  
-  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at tnfsupport@vfc.com or by contacting us by telephone or postal mail at the contact information listed above.  We will respond to your request to access within 30 days.  
-  
-**Security**  
-  
-The security of your personal information is important to us.  We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).  
-  
-**Data Retention  
-  
-**We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at tnfsupport@vfc.com.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
-  
-**Business Transitions**  
-  
-In the event The North Face goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via email and/or prominent notice on our website for 30 days of any such change in ownership or control of your personal information.  
-   
-**Chat &. Shop Basics**  
-  
- This forum is designed for you to interact with others who are browsing a product at the same time.  We encourage you to share your expertise on products, recommended uses, and knowledge of product features with others in the ‘chat’ with you.  Read what others are saying, gain product insights, and help others make informed decisions.   
-We hope this chat forum provides accurate, beneficial product information.  For remaining questions, or to validate any comments provided in a chat, please contact our Customer Service for further product information.  
-   
-**Who’s in the Room?**  
-  
- You’ll never know who you will find in a discussion.  From professional athletes, to your favorite neighbor, to your newfound nemesis, chat rooms are open and available to all.  As such we’d like to remind you, that like swimming without a lifeguard, to please chat at your own risk.  Read more on our Privacy Policy.  
-   
-**What should I say?**  
-  
-•    Ask product-related questions  
-•    Share product knowledge  
-•    Give product comparisons  
-   
-**What shouldn’t I say?**   
-  
-Please mind your p’s and q’s.  We strongly encourage chat participants to share beneficial product knowledge in a friendly, casual manner.  Any inappropriate or vulgar content is frowned upon, and will be removed.  The North Face is not responsible, and can not be held liable, for content or events that transpire from chats. To learn more about our guidelines, please read our Privacy Policy.   
-  
-**Do not post:  
-  
-**•    Personal identifiable information (name, address, etc.)  
-•    Obscene, offensive, or immoral comments  
-•    Copyrighted material  
-•    Solicitations, advertisements, or any other form of “spam”  
-  
- How can I report an inappropriate comment? If you find an offensive, vulgar, or comment that otherwise violates our chat guidelines and Privacy Policy, please contact our Customer Service at 1-888-TNF-1968.  
-  
-**TERMS OF USE &. LEGAL NOTICES**  
-  
+**Legal Notices and Privacy Policy**  
 The North Face®, a division of VF Outdoor, Inc., (“The North Face”), provides this website to you subject to the following terms of use and privacy policy.    
  By using the website in any way, you are agreeing to comply with the terms of use. In addition, when using particular parts of the website such as shopping, forums, watching videos, blogs or Planet Explore, you agree to abide by any applicable posted guidelines for those services.   Should you object to any term or condition of the terms of use, any guidelines, or any subsequent modifications or become dissatisfied with website any way, your only recourse is to immediately discontinue use of this website.   The North Face may modify this terms of use, guidelines and privacy policy at any time without notice, effective upon its posting to the website. Your continued use of the website constitutes your acceptance to the updated terms of use, guidelines and privacy policy.   The North Face has the right, but is not obligated, to strictly enforce the terms of use through self-help, community moderation, active investigation, litigation and prosecution.  
 **Trademarks**  
@@ -239,6 +124,154 @@ Certain areas on this website may contain The North Face confidential informatio
 This website is operated, in whole or in part, from the United States . User access to this website is governed by all applicable federal, state and local laws. All information available on the website is subject to U.S. export control laws and may also be subject to the laws of the country where you reside. All The North Face products and publications are commercial in nature.   The North Face does not make any representations regarding the legality of access to or use of this website or the information contained therein from other countries. Access in countries where the information contained herein or the products sold through this website are illegal is prohibited. Users who access this website from outside of the United States do so at their own risk and are responsible for compliance with applicable US export and local country laws. By using this website, regardless of where you live in the world, you consent to have your personal data transferred to and processed and collected in the United States in compliance with the privacy policy.  
 **Disclosure – Forward-looking Statements**  
 Some of the information on this website may contain projections or other forward-looking statements regarding future events or the future financial performance of The North Face. We wish to caution you that these statements are only predictions and that actual events or results may differ materially. We refer you to the documents VF Corporation, the owner of The North Face brand, files from time to time with the Securities and Exchange Commission, specifically, VF Corporation’s most recent Form 10-K, Form 10-Q, and Form 10-Q/A. These documents contain and identify important factors that could cause the actual results to differ materially from those contained in our projections or forward-looking statements, including, among others, potential fluctuations in quarterly results, dependence on new product development. rapid technological and market change, acquisition strategy, manufacturing risks, risks associated with Internet infrastructure, volatility of stock price, financial risk management, and future growth subject to risks.  
+**The North Face Online Privacy Policy**  
+The North Face respects your privacy. When you visit The North Face website, you may provide information to us and we may collect website interaction information through the use of cookies.   The information collected by us includes information that you give us to, for example, make product purchases, request information or communications, register to join the website, email lists, forums, blogs, etc., register for events, participate in promotions, contests or other marketing activities and that information collected may include name, address, city, state, telephone, email, credit card number, age and gender.       
+A cookie is a small data file that certain websites write to your hard drive. A cookie file can contain information such as a user ID that the site uses to track the pages you visit, but the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. Some parts of this site use cookies to track user traffic patterns and/or to provide access such as shopping online.   The North Face does not share this information or sell it to any third party.   
+If you prefer not to receive cookies on this website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to browse the website. however, you will not be able to shop our online store without receiving a cookie.  
+The North Face uses the individual identifying information in order to personalize your experience on our website, send you communications that you consent to receive, either electronically or otherwise and for purposes of online shopping in accordance with this privacy policy.   For example, we may use the information we collect to administer purchases and customer service on the website. improve and maintain the website. send you marketing information including events and promotions. customize your shopping or browsing experience. administer surveys and promotions.   We only send you information when you have agreed to receive such information through an opt-in or opt-out process. however, you may receive information from us at any time specific to customer service issues.   
+We collect information about gift recipients (i.e., ship to addresses) to fulfill the gift purchase, respond to customer service inquiries and for analysis purposes only.   If you choose to use our invitation tools or mobile services to invite or contact friends through our website, we will ask you for information needed to send the invitation, such as your friends' email addresses, your email address, your Facebook account, other contact lists (e.g., Gmail, Twitter, Hotmail, and Yahoo) or your mobile phone and your friend’s mobile phone.  
+  
+The North Face does not make individual identifying information available to third parties, including business partners, for marketing purposes without your affirmative consent to such sharing of information. however, we may transfer collected information between The North Face and third party contracted service providers who use that information only to conduct The North Face business.  For example, a third party may handle The North Face's credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management.  We may also share your information to administer a website feature (e.g. video download or event registration) and in that case you will be given the option to opt out of the feature if you do not want your information shared.  All credit card transactions are secure and comply with the Payment Card Industry security standards.  
+We may disclose specific information when required by law, regulation or government agency including law enforcement.  We may share information to prevent illegal uses of the website or violations of the terms of use, or defend ourselves against third-party claims.  We may also share information with companies assisting in fraud protection, counterfeiting or investigation.   
+We do not knowingly collect or solicit personal information from children under 13 and we do not knowingly collect or solicit information from anyone under 18 in the State of Maine.  
+**Contact Information and Email Preference Management**  
+If you would like to opt-out from receiving The North Face emails, please contact Customer Service, or manage your email preferences within the "My Account" section of our website.  
+Telephone(888) TNF-1968  
+Emailtnfsupport@vfc.com  
+Corporate AddressThe North FaceVF Outdoor, Inc.2013 Farallon DriveSan Leandro, CA 94577      **Chat &. Shop Basics**  
+This forum is designed for you to interact with others who are browsing a product at the same time.  We encourage you to share your expertise on products, recommended uses, and knowledge of product features with others in the ‘chat’ with you.  Read what others are saying, gain product insights, and help others make informed decisions.   
+We hope this chat forum provides accurate, beneficial product information.  For remaining questions, or to validate any comments provided in a chat, please contact our Customer Service for further product information.  
+**Who’s in the Room?**You’ll never know who you will find in a discussion.  From professional athletes, to your favorite neighbor, to your newfound nemesis, chat rooms are open and available to all.  As such we’d like to remind you, that like swimming without a lifeguard, to please chat at your own risk.  Read more on our Privacy Policy.  
+  
+**What should I say?**  
+
+*   Ask product-related questions  
+    
+
+*   Share product knowledge   
+    
+
+*   Give product comparisons 
+
+  
+**What shouldn’t I say?**Please mind your p’s and q’s.  We strongly encourage chat participants to share beneficial product knowledge in a friendly, casual manner.  Any inappropriate or vulgar content is frowned upon, and will be removed.  The North Face is not responsible, and can not be held liable, for content or events that transpire from chats. To learn more about our guidelines, please read our Privacy Policy.    
+**Do not post:**
+
+*   Personal identifiable information (name, address, etc.)  
+    
+
+*   Obscene, offensive, or immoral comments  
+    
+
+*   Copyrighted material  
+    
+
+*   Solicitations, advertisements, or any other form of “spam”
+
+  
+**How can I report an inappropriate comment?**If you find an offensive, vulgar, or comment that otherwise violates our chat guidelines and Privacy Policy, please contact our Customer Service at 1-888-TNF-1968.  
+  
+**VIPeak Terms &. Conditions**  
+
+By registering to become a member (a "Member" or "you" or "your") of The North Face VIPeak rewards program ("VIPeak" or the "Program") and by participating in the Program, you (i)represent that you are 18 years of age or older and (ii) agree to the following Program Terms and Conditions (these "Terms").  VIPeak Program is sponsored by The North Face, a division of VF Outdoor, Inc. ("The North Face").
+
+**1.** **VIPeak Overview**
+
+When you join VIPeak, it allows you to earn Peak Points on your purchases made at The North Face stores and website.  You may also earn Peak Points by participating in certain special activities announced by The North Face from time to time.  Peak Points are earned on an annual basis from February 16th to February 15th of the subsequent year ("Peak Points Year").  At the end of a Peak Points Year, Members earning sufficient Peak Points, as described below, will earn reward certificates and/or access to a special VIPeak Reward Catalog where Peak Points can be redeemed for products and/or experiences (jointly, the "Peak Perks").
+
+**2.** **Membership**
+
+A. Eligibility: You must be at least 18 years of age to become a member.  Employees of all VF Corporation brands and individuals receiving a discount or free product to represent a VF Corporation brand are not eligible.
+
+B. How to Join: You may register to become a VIPeak Member three different ways:
+
+  i. Online at www.thenorthface.com by creating an account and indicating that you want to be a VIPeak Member or if you already have an account at www.thenorthface.com, by merely indicating that you want to be a VIPeak Member.
+
+  ii. On our Facebook page (https://www.facebook.com/thenorthface) by providing your name and email address and designating you want to be a VIPeak Member.  If you already have an account at www.thenorthface.com you will receive an email requesting that you confirm your request to become a Member.  If you do not have an account at www.thenorthface.com you will receive an email requesting that you confirm your request and set up an account at www.thenorthface.com so you will full access to all the Peak Perks.
+
+  iii. At any of The North Face stores by providing your name and email address to sign up to be a Member.  Once you make this request, if you already have an account at www.thenorthface.com you will receive an email requesting that you confirm your request to become a Member.  If you do not have an account at www.thenorthface.com when you provide your name and email address in store, you will receive an email requesting that you confirm your request and set up an account at www.thenorthface.com so you will full access to all the Peak Perks.
+
+Once you make the request on our Facebook page or at the store, you will be considered a Member and start earning Peak Points, but for complete access to all the Peak Perks (as described below), you must have or complete an e-commerce account online at www.thenorthface.com, which will also be your Program account.  To create an e-commerce account, go to www.thenorthface.com and click on "My Account" at the top of the home page and provide the information to create an account.
+
+C. Accessing Peak Points Information and all the Peak Perks: You can be a Member without setting up an account at www.thenorthface.com and earn Peak Points and receive Reward Certificates (described below in Peak Perks).  However, in order to be able to access how many Peak Points you have earned or to use the VIPeak Rewards Catalog (described below in Peak Perks) if you earn 10,000 or more Peak Points in a Peak Points Year, you must have an e-commerce account at www.thenorthface.com. When setting up the account at www.thenorthfact.com, you are responsible for creating a complex password to protect your e-commerce account and for ensuring that you do not share your password with others.
+
+D. Updating information: You are responsible for providing the correct email address to receive Peak Perks and to ensure proper accounting of Peak Points and receipt of Peak Perks.  As a result, each Member is responsible for maintaining accurate and updated personal information, including your email address.  You may update your personal information online at www.thenorthface.com/vipeak or by calling: 888-TNF-1968 / 888-863-1968.
+
+**3\. Earning Peak Points**
+
+A. Peak Points can be earned during a Peak Points Year.  Once a Peak Points Year has concluded, the Peak Points that you have earned will be determined for that Peak Points Year and you will start at zero again for the new Peak Points Year.
+
+B. Shop at The North Face Retail Stores or www.thenorthface.com and automatically receive ten (10) Peak Points for every $1 (USD) spent on any eligible product that is purchased (a "Qualifying Purchase," as further described below).  The Peak Points will be added into your VIPeak account when you provide at the time of purchase your email address or phone number used to become a Member.  If you did not provide your email address or phone number at the time of purchase, you may call Customer Service at 888-TNF-1968 / 888-863-1968 and upon verification by Customer Service of your purchase or activity and that you did not previously receive Peak Points for the purchase or activity, the Peak Points will be added into your Program account.
+
+C. Qualifying Purchases include regular and sale priced merchandise in The North Face Stores and online at www.thenorthface.com.  Peak Points will not be earned for purchases made through any outlet stores selling North Face products. No Peak Points are earned when purchasing Gift Cards or eGift Cards from The North Face, but you do earn Peak Points when redeeming a Gift Card or an eGift Card at The North Face Stores or online at www.thenorthface.com.  In addition, no Peak Points are earned for payment of sales tax, gift boxes or wrapping, or for shipping and handling costs..
+
+D. Peak Points may also be earned for participation in certain activities designated and announced by The North Face during the Peak Points Year.  Example activities could include: connecting with The North Face on social media, participating in the Endurance Challenge, initial sign up for email from The North Face or making a Clothestheloop donation.  Members may also be able to earn bonus Peak Points for making purchases of designated products or during a designated time as determined and announced by The North Face. The North Face reserves the right to make bonus Peak Points and other promotional offers available to select Members based on purchase activity, geographic location, Program participation, and/or information supplied by the Member.  The North Face reserves the right to add, withdraw, amend, or otherwise change bonus opportunities at any time at its sole discretion, with or without notice to Members.
+
+E. The Peak Points you have earned through a purchase (including bonus Peak Points for designated products, if applicable) by providing your phone or email address at the time of purchase, will be netted from your overall Peak Points total if the item is returned.  Returns of merchandise purchased in the prior Peak Points Year will be deducted from the Member's Peak Points balance in the current Peak Points Year.  Negative Peak Point balances never expire.  Peak Points have no cash value.  You cannot give or transfer your Peak Points to anyone else.
+
+4\. **Peak Perks - Member Benefits**
+
+A. After the end of each Peak Points Year, on approximately March 1st, the following Peak Perks will be provided to Members based upon their Peak Point balance for the just closed Peak Points Year:
+
+Peak Points Earned
+
+Peak Perk(s)
+
+0 - 2,499 
+
+No Peak Perk and Peak Points expire.
+
+2,500-9,999 
+
+Reward Certificate - valued at 0.2% of the Peak Point balance.  For example, 5,000 Peak Points = $10.00 Reward Certificate.
+
+10,000 and over
+
+ i. Access to the VIPeak Rewards Catalog from March 1 through March 31 and the right to redeem Peak Points for products and experiences in the Catalog.
+
+ ii. After the VIPeak Rewards Catalog closes, on approximately April 1, each Member will be sent a Reward Certificate (valued at 0.2% of any Peak Point not used with the Catalog).
+
+B. VIPeak Reward Certificates are sent electronically to the email associated with your VIPeak Program account. All Reward Certificates expire on December 27th of the year the Reward Certificate was issued, when any unused value will be removed. Reward Certificates are promotional items for Members of the VIPeak Program and are not Gift Cards or eGift Cards of The North Face.
+
+C. Each Reward Certificate will contain a unique code and pin that may be used at The North Face Stores by providing the associate the code and pin or at www.thenorthface.com by entering the code and pin during checkout.  Prior to a Reward Certificate expiring, if the entire value of the Reward Certificate is not used when making a purchase, the remaining value of the Reward Certificate will be available for use with purchases from The North Face until no value remains on the Reward Certificate or it expires, whichever occurs first.  Reward Certificates may be redeemed at the same time as using The North Face coupons, certificates, discounts, or offers toward the purchase of products.  Reward Certificates are not redeemable for cash and no change/currency will be given for Reward Certificate redemption.
+
+D. The code and pin on your Reward Certificate may be used by anyone, and you are solely responsible for protecting it from unauthorized use. If the unique code and pin for the Reward Certificate that is sent to you is used in a manner that was not authorized by you (even if the Reward Certificate is lost or stolen), The North Face will not replace Reward Certificate.  However, if you delete or lose the email in which you received your Reward Certificate, contact Customer Service at 888-TNF-1968 / 888-863-1968 and upon verification by Customer Service of your membership, an email with the same unique code and pin Reward Certificate will be resent to you.
+
+E. The products and experiences available in the VIPeak Reward Catalog will be selected solely in the discretion of The North Face.  Items in the VIPeak Reward Catalog will be available while supplies last, so it is possible that an item selected by a Member from the VIPeak Reward Catalog will not be available.
+
+F. The North Face, in its sole discretion, may elect to change the Peak Perks and/or the value of the Peak Points at the beginning of any Peaks Point Year.  This could include no longer providing the VIPeak Catalog or changing the valuation of the Reward Certificate.
+
+G. VIPeak Members may also have early access to special events and be invited to participate in exclusive experiences for VIPeak Members.
+
+**5.** **Email and Privacy**
+
+A. By registering for the Program, you agree to receive transactional emails and promotional email offers and updates from the VIPeak Program and from The North Face.  As a benefit and condition of online enrollment in or registration for the Program, Members will be sent by email information about Program Peak Points and Reward Certificates, Program updates, and other related materials at the discretion of The North Face.   Members may not unsubscribe from transactional emails of the Program, but can cancel their membership in the Program as described below in the General Terms.  Members may unsubscribe from The North Face promotional emails at any time via the unsubscribe link in those emails.
+
+B. See The North Face Privacy Policy at http://www.thenorthface.com/en\_US/contact-us/legal-notices-and-privacy-policy/ for details on how your information is collected and used.
+
+6\. General Terms of the VIPeak Program
+
+A. Membership in the VIPeak Program and its benefits are offered at the discretion of The North Face, which reserves the right to terminate, change, limit, modify, or cancel any Program rules, regulations, benefits, or conditions of participation at the beginning of any Peak Points Year.  In the event of cancellation, Peak Perks will be issued according to the current Terms for Peak Points earned in the final Peaks Point Year.
+
+B. If The North Face changes or modifies these Terms for the next Peak Points Year, it will provide notice of any changes through these Terms.  Electing to remain a Member in the next Peak Points Year after a change in the Terms constitutes your acceptance of the revised Terms.  The revisions to the Program that North Face may make include any of the following changes: (i) increase or decrease the number of Peak Points earned on a Qualifying Purchase. (ii) increase the number of Peak Points required to earn a Reward Certificate and/or access to the VIPeak Reward Catalog. (iii) cease providing a VIPeak Catalog. (iv) change the method of becoming a Member. (v) institute or add blackout dates for earning Peak Points or using Peak Perks.
+
+C. These Terms are void where and to the extent prohibited by law.
+
+D. In the event of a dispute over ownership of a VIPeak account, the registration will be declared to have been made by the authorized account holder of the email address submitted at the time of registration.  For purposes of these Terms, the "authorized account holder" is the natural person who is assigned to the submitted email address by an internet provider, online service provider, or other organization (e.g., business, educational institution, etc.) that is responsible for assigning email addresses for the domain associated with the submitted email address.
+
+E. Abuse of the Program, including failure to abide by these Terms, the sale or barter (or the attempted sale or barter) of Reward Certificates, Peak Points, or promotional offers, and any misrepresentation of fact relating thereto or other improper conduct as determined by The North Face in its sole judgment may result in cancellation of a Member's account and future disqualification from Program participation, forfeiture of all Peak Points accrued, and cancellation of previously issued but unused Reward Certificates. At our discretion we may prosecute abuse of the Program to the fullest extent of the law
+
+F. You may cancel your VIPeak membership at anytime by calling Customer Services at 888-TNF-1968 / 888-863-1968. If you cancel your VIPeak membership, your accrued Peak Points will be forfeited.
+
+G. Peak Points are not transferable and may not be combined among Members or conveyed by any means to anyone, including through a Member's estate, and may not pass to a Member's successors and assigns.  Accrued Peak Points do not constitute property of the Member.  Accrued Peak Points are not transferable by the Member upon death, as part of a domestic relations matter, or otherwise.
+
+H. By agreeing to participate in the VIPeak Program, you release VF Outdoor, Inc., its parent and subsidiaries and affiliate entities, and their respective, directors, officers, employees and agents (the "Released Parties") from all liability with respect to the misdirection or misuse of any Peak Points or Peak Perk, or the use of any Peak Perk by an individual other than VIPeak Member who earned the Peak Perk.  You further agree through your agreement to participate in the Program to release the Released Parties from and against any and all claims, damages, losses, liabilities, and other expenses (including, without limitation, attorney's fees) relating to your participation in the VIPeak Program, use of Reward Certificates, use of products or experiences from the VIPeak Reward Catalog, or agreement to these Terms.
+
+I. The Released Parties make no warranty, express or implied, including, but not limited to, any warranties of merchantability or fitness for a particular purpose with respect to VIPeak Program, membership in VIPeak Program, or any products or services related to VIPeak Program.
+
+J. The VIPeak Program and these Terms will be governed by and construed under the substantive laws of the State of Delaware, without reference to conflict-of-laws considerations. Any claims must be raised and resolved in the federal or state courts located in Dover, Delaware.
+
+K.  The North Face logo, VIPeak Program logo, and other logos and taglines are the intellectual property of The North Face.
 
   
 The North Face® News Endurance Challenge 2011 March 10 2011 Action For Healthy Kids February 26 2011 Animagi Jacket Wins Award January 4 2010 More News The North Face® Events Madison, WI Race 2012-09-15 Atlanta, GA Race 2012-10-13 Kansas City, MO Race 2012-11-17 Events Calendar The North Face® Blog Nikki Kimball Completes Historic 273-Mile Long Trail in Record Time August 20 2012
