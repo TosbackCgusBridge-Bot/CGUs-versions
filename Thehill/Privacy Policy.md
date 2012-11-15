@@ -212,108 +212,108 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Google: Surveillance 'is on the rise' Pelosi dodges questions about leadership plans in next CongressSmall businesses remain pessimistic about economyNorquist tax pledge takes election hit Petition for Texas secession hits White House response mark
+Chicago reporter congratulates Obama on reelection in presserThe Hill’s 2012 New Members GuideHouse Republicans elect top members Gov. Christie’s Obama problem Allen West's campaign blasts rival for attending new member events in DC
 
 Emailed
 
-Norquist tax pledge takes election hit Google: Surveillance 'is on the rise' Petition for Texas secession hits White House response markInvestors fear the fallout from electionSen. Gillibrand won't compete with Warren for Banking Committee spot
+Petraeus: Lessons learnedThe Hill’s 2012 New Members GuideIRS: No AMT patch would cause chaotic filing seasonTax fight sneaks up on K StreetGoogle: Surveillance 'is on the rise'
 
 Discussed
 
-Dear Matt Drudge: Stop the race storiesInterior proposal would limit commercial oil shale development on federal landsGallup: 2012 election had the largest gender gap in recorded historyPetition for Texas secession hits White House response markWar opens inside GOP over immigration
+Dear Matt Drudge: Stop the race storiesGallup: 2012 election had the largest gender gap in recorded historyPetition for Texas secession hits White House response markChicago reporter congratulates Obama on reelection in presserSecond term gives Obama chance to adopt new tone with lawmakers
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Obama to push deficit plan that includes $1.6 trillion in additional revenue
-*   Colbert's super-PAC files termination paperwork with FEC
-*   DAY'S END ROUNDUP
+*   McCain: Rice needs to ‘bear responsibility’ for handling of Benghazi
+*   MORNING READ
+*   Mitt Romney attributes loss to Obama 'gifts' to his base voters
 
   
 More Briefing Room » Congress Blog
 
-*   Make English our official language
-*   It's time to get back to work &. embrace Simpson-Bowles
-*   EPA could waive ban on Primatene Mist inhalers for asthmatics
+*   Shades of gray in our energy policy
+*   Five reasons why Congress should pass Cybersecurity Act of 2012
+*   Keystone XL pipeline deserves a second look
 
   
 More Congress Blog » Pundits Blog
 
+*   The seasons of Washington
+*   The GOP needs an immigration policy
 *   Forward-thinking advice for the GOP
-*   If you've got it, flaunt it
-*   Still analyzing last week's election
 
   
 More Pundits Blog » Twitter Room
 
-*   Sen. Vitter roots for Louisiana talent on 'The Voice'
-*   Bono meets with Biden at the White House
-*   Rep. Polis ready to 'move on' from Petraeus scandal
+*   Sen. Grassley hits voting milestone
+*   Sen. Paul jokes he and Ron Paul ‘hijack the House’
+*   Israeli military puts Hamas on notice via Twitter
 
   
 More Twitter Room » Hillicon Valley
 
-*   OVERNIGHT TECH: Reid signals imminent action on cybersecurity
-*   Wyden tackles Internet royalty bill criticism
-*   FCC's Rosenworcel calls for 'conversation' over reliability of cellphones in emergencies
+*   OVERNIGHT TECH: Failure of cybersecurity bill opens door for White House action
+*   Senate votes down Cybersecurity Act a second time
+*   Walden to stay on as chairman of Technology subcommittee
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   Rep. Upton: 'I'm not a carbon tax guy'
-*   Republican governors pressure home-state delegations on wind credit
-*   OVERNIGHT ENERGY: Wind tax credits in focus, Al Gore’s ‘Dirty Weather Report’ going live, and more
+*   News bites: Carbon tax chic, Feds suspend JP Morgan, and more
+*   BP nearing criminal settlement with DOJ over 2010 Gulf spill
+*   OVERNIGHT ENERGY: Senate delves into Sandy's climate link
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Gov. Christie’s Obama problem
-*   Romney's top Hispanic surrogate: GOP must embrace immigration reform
-*   Abramoff, Occupy Wall Street join forces on campaign finance reform
+*   OVERNIGHT CAMPAIGN: Campaign committees get leaders
+*   RNC chairman calls for full recount in West-Murphy race
+*   Sen. Bennet has no deadline for decision on DSCC job
 
   
 More Ballot Box » On The Money
 
-*   Tax fight sneaks up on K Street
-*   OPM: USPS projected pension surplus shrank
-*   IRS: No AMT patch would cause chaotic filing season
+*   News bites: Seeing green
+*   OVERNIGHT MONEY: Fiscal cliff dominating talks on Capitol Hill
+*   GOP senators blocking Treasury nominee over interest rate scandal
 
   
 More On The Money » Healthwatch
 
-*   Rep. Ellmers pushes HHS on safety of health technology
-*   Rick Scott opens door to working with HHS on insurance exchange
-*   OVERNIGHT HEALTH: Support for repeal fades
+*   Reps slam FDA at testy hearing on meningitis outbreak
+*   OVERNIGHT HEALTH: Approaching fiscal cliff
+*   Romney: 'Gifts' in Obama's healthcare law helped him win
 
   
 More Healthwatch » Floor Action
 
-*   McMorris Rodgers looks for support in GOP leadership race
-*   House passes bills on federal contracting, space launch liability
-*   Senate passes House tweak to whistleblower protection bill
+*   Senate passes resolution allowing donations in Capitol for victims of storm Sandy
+*   Reid promises he'll allow an open amendment process on Defense Authorization bill
+*   Grassley compares rushing vote on cybersecurity bill to 'ObamaCare'
 
   
 More Floor Action » Transportation
 
-*   Mica waiting for leadership election to address Transportation Committee chairmanship
-*   DC Metro begins selling commemorative Obama inauguration SmarTrip cards
-*   AAA forecasts 43.6 million travelers for Thanksgiving
+*   NTSB recommends mandating accident avoidance technology for autos
+*   Greens pressure Obama to veto airline emissions bill
+*   News bites: Rail restoration
 
   
 More Transportation » DEFCON Hill
 
-*   Panetta defends Gen. Allen, says he has ‘confidence’ in Afghanistan commander
-*   OVERNIGHT DEFENSE: Petraeus, Allen and Libya dominate lawmakers' first day back
-*   Levin: Petraeus scandal won't affect Allen's postwar plan
+*   Petraeus set to go before Intel committees on Benghazi attacks
+*   OVERNIGHT DEFENSE: Obama pulls no punches on Petraeus, Rice and Libya
+*   Air Force releases findings of sex abuse investigation
 
   
 More DEFCON Hill » Global Affairs
 
-*   Wednesday's global agenda: Time to arm Syria's rebels?
-*   Uphill battle for Rice to replace Clinton at State
-*   UN votes 188-3 to condemn US embargo on Cuba
+*   Royce gets colleagues' support for leadership race on House Foreign Affairs panel
+*   US sides with Israel in Gaza strike
+*   Obama: No plans for one-on-one talks with Iran
 
   
-More Global Affairs » Blogs News Feed COLUMNISTS Markos Moulitsas Dems' decisive win Dick Morris Immigration reform More Columnists »
+More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Rice a risky pick Brent Budowsky Petraeus: Lessons learned More Columnists »
 
 Get latest news from The Hill direct to your inbox, RSS reader and mobile devices.
 
