@@ -8,7 +8,7 @@ Groupon: Collective Buying Power
 *   All Deals
 *   Getaways
 *   Goods New
-*   Thanksgiving
+*   Grouponicus
 *   Gifts
 
 *   Sign In
