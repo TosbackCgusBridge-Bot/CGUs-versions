@@ -1,7 +1,7 @@
 *   Like Us
 *   Follow Us
 
-Pill Identifier Search November 14, 2012
+Pill Identifier Search November 15, 2012
 
 *   Home
 *   Drugs A-Z
@@ -289,6 +289,7 @@ Health Solutions From Our Sponsors
   
 Featured Topics
 
+*   Fibro-Friendly Exercises
 *   Rheumatoid Arthritis
 *   Psoriasis Affecting Your Life?
 *   ADHD Medications
@@ -297,10 +298,10 @@ Featured Topics
 New &. Updated
 
 *   Avalide
-*   Janumet
-*   Janumet XR
 *   Plendil
+*   Retin-A
 *   Topamax
+*   Yervoy
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
