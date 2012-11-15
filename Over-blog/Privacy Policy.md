@@ -9,7 +9,7 @@ OverBlog Le portail de tous les blogs Connexion
     *   Culture
     *   Musique
     *   Politique
-    *   Cuisine
+    *   cuisine
     *   Littérature
     *   Sport
     *   humour
@@ -410,7 +410,7 @@ Rechercher sur OverBlog Annuaire
 *   Bijoux
 *   Manga
 *   Recettes
-*   Ecriture
+*   écriture
 *   Loisirs...
 *   Jeux
 
