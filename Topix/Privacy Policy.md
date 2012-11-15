@@ -12,15 +12,15 @@ Sign In
 
 China
 
-China's Hu Steps Down as Party Leader
+EU agency: number of synthetic drugs sold online keeps rising;...
 
-Afghanistan
+Mexico
 
-Pakistan Agrees to Free Several Afghan Taliban Prisoners, Offi...
+Mexico rattled by 6.0-magnitude quake
 
 Politix
 
-How well do you know your sex laws?
+10 Questions on Secession
 
 *   Home
 *   Forums
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
- 
+  Ads by Glam
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 106,585 • Total comments across all topics: 191,070,023
+Comments made yesterday: 106,414 • Total comments across all topics: 191,166,103
 
 Copyright ©2012 Topix LLC
 
