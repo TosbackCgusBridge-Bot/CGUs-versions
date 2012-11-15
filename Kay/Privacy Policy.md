@@ -63,7 +63,7 @@ Online chat is available:
 Mon-Fri 10:00 AM to 10:00 PM ET  
 Sat-Sun 12:00 PM to 9:00 PM ET
 
-Free Shipping and Gift Wrap Online, No Minimum Purchase (Learn More) Browse Our Jewelry Featured Items Browse Our Designers and Collections    
+Free Shipping and Gift Wrap Online, No Minimum Purchase (Learn More) Shop Our Jewelry Featured Items Browse Our Designers and Collections    
 
 SIGN UP FOR
 
