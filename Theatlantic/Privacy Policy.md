@@ -1,74 +1,74 @@
 Skip Navigation
 
-*   The Economics of Dog Ownership
-*   U.S. Official Says General Allen Did Nothing Wrong
-*   A Council of Psychological Advisers
+*   Inside Sinai's Torture Camps
+*   A First: Bathroom Lines for Female Senators
+*   Word of the Year? The GIF Is Dying
 *   Sponsor Content Infographic: Using Data to Keep the Peace
 
 *   Politics
     *   Top Stories
-    *   The End of Evangelical Dominance in Politics
-    *   U.S. Official Defends General Allen
-    *   The Right: Tone Deaf on Immigration
-    *   Why Republicans Are Suddenly Pro-Immigration Reform
-    *   What High School Taught Millennials About the War on Terrorism
-    *   Can Obama Community-Organize His Way to a Debt Deal?
+    *   Ron Paul's Last Speech on the House Floor
+    *   The Fight to Put Susan Rice on Top at Foggy Bottom
+    *   Barney Frank's Bipartisan Vision
+    *   What Has Movement Conservatism Accomplished in the Last 15 Years?
+    *   Obama and the Fiscal Cliff
+    *   A New First for Women Senators: Bathroom Lines
 *   Business
     *   Top Stories
     *   Zara's Big Idea
     *   No, We're Not the Next Saudi Arabia
     *   What Is Spotify Worth?
-    *   The Long Story of U.S. Debt, From 1790 to 2011, in 1 Little Chart
-    *   The End of the Pledge: How Democrats Can Finally Beat Grover Norquist
-    *   The Dog Economy Is Global—but What Is the World's True Canine Capital?
+    *   Neverending Pain: Foreclosures Will Hurt Housing for at Least 5 More Years
+    *   How Textbook Economics Is Helping You Play Temple Run
+    *   Summers: Be Careful About Capping Tax Deductions
 *   Tech
     *   Top Stories
-    *   Google: 'Government Surveillance Is on the Rise'
-    *   Watch This Year's Only Total Solar Eclipse Streaming Live
-    *   The Places Where America's Drones Are Striking, Now on Instagram
-    *   Today Is the Release Day for a Video Game Featuring David Petraeus
-    *   Petraeus and Broadwell Used Their Counterterrorism Expertise to Hide Their Affair
-    *   An Amazon Engineer Had a Little Idea That Turned Into a Billion-Dollar Business
+    *   Cosmic Dawn: Astronomy's Ancient Quest to Find the Universe's First Stars
+    *   Something to Finally Stop Your Crazy Uncle From Sending Those Forwards
+    *   Actually, the GIF Is Dying
+    *   Ken Burns: Dust Bowl the Greatest Man-Made Eco Disaster in U.S. History
+    *   The Wheel of Karma, Microsoft Division
+    *   Turning Gadget Lust Into Energy Efficiency
 *   National
     *   Top Stories
     *   The 50-Year Farm Bill
-    *   D.C.'s Culture of Flirtation
-    *   After Sandy, Fire and Ice in Queens
-    *   Festival of Found Art
-    *   The False Promise of Armistice Day: A Veteran Looks Back
-    *   The Growing Costs of Natural Disasters
+    *   The Philosophical Paula Broadwell
+    *   Washington Ideas Forum: Live Blog
+    *   The World's Richest College Dropout Urges Colleges to Stop Dropouts
+    *   Photos: Wednesday Afternoon at the Washington Ideas Forum
+    *   Law, Science, and the Coming Brawl Over Marijuana
 *   Global
     *   Top Stories
-    *   Myopia: How Counter-Terrorism Has Blinded Our Intelligence Community
-    *   Vladimir Putin Forms His Own Human Rights Council
-    *   The Chinese Party Congress: For New Ideas, Look to the Younger Guys
-    *   Meet the Leading Contender to Replace David Petraeus at the CIA
-    *   'I Am Not al-Qaeda. When We Kill Bashar, I Will Shave Off My Beard'
-    *   'We Are Legion': How Anonymous Became a Global Political Force
+    *   Military Strikes Go Viral: Israel Is Live-Tweeting Its Own Offensive Into Gaza
+    *   Has Turkey Abandoned Gaza?
+    *   The Letterpress of Mogadishu
+    *   The Gaza Invasion: Will It Destroy Israel's Relationship With Egypt?
+    *   Well, Now Hamas Has Done It
+    *   The Incoherence of a Drone Strike Advocate
 *   Health
     *   Top Stories
-    *   High-Fiber Pepsi: Choice of a New, Weird Generation
-    *   A Bionic Hand for Every Occasion
-    *   Do Prestigious Residencies Mean Better Doctors?
+    *   For Sex, a Proper Duration
+    *   Live From the Inside: A Radio Show Run by Psychiatric Patients
     *   A Few Things to Consider Before Eating Wild Mushrooms
+    *   The Lost Artistry of Pharmaceutical Advertising
+    *   Study: Being a 'Healthy' Degree of Neurotic Lowers Risk of Chronic Disease
     *   How to Get Americans to Eat Fish
-    *   Study: In Macular Degeneration, iPads Are Better Than Print
 *   Sexes
     *   Top Stories
-    *   Nancy Pelosi Became House Minority Leader 10 Years Ago: What's Changed?
-    *   5 Steps to Avoiding Having an Affair
-    *   Why Petraeus's Affair Matters
     *   Why Do Some Feminists Get Uneasy When Women Make Progress?
     *   The Upside to 'Girly' TV Shows: They Understand That Women Struggle
-    *   Veterans Twice as Likely to Cheat on Their Spouses as Non-Veterans
+    *   Nancy Pelosi Became House Minority Leader 10 Years Ago: What's Changed?
+    *   Why Women Don't Take Risks With Their Money
+    *   Confessions of a Rabbi Who Can't Spend Enough Time With His Family
+    *   Same-Sex Marriage Opponents Find a New Fight
 *   Entertainment
     *   Top Stories
-    *   The Lakers' Coach Drama: Been There, Done That
-    *   How the World Series Could Eclipse the Super Bowl
-    *   Hilariously Harsh Early Reviews of Classic Albums
-    *   Rihanna's Agency
-    *   Could 'Skyfall' Be James Bond's First Real Shot at the Best-Picture Oscar?
-    *   Track of the Day: '(Tonight) We Burn Like Stars That Never Die'
+    *   'Halo 4' Gets It All Wrong\*
+    *   'We're All Voyeurs': Filmmakers on Why They Make Films
+    *   How Hockey Diehards Cope with the NHL Lockout
+    *   Gangnam Style's Broadway Roots
+    *   John Keats's Porridge, Allen Ginsberg's Borscht: Great Poets' Favorite Recipes
+    *   The Lakers Have Been Through This Coaching Drama Before (31 Years Ago)
 *   Magazine
     *   In This Month's Issue
     *   Our 2012 Brave Thinkers List
@@ -88,7 +88,7 @@ Skip Navigation
 *   Video
 *   Photo
 *   Newsletters
-*   Why Republicans Are Suddenly Pro-Immigration ReformMolly Ball
+*   The Gaza Invasion: Will It Destroy Israel's Relationship With Egypt?Eric Trager
 
 Privacy Policy
 
@@ -193,20 +193,20 @@ For more information on our Privacy Policy, or if at any time you wish to discon
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
 
-Special Report The Atlantic Brave Thinkers  
-Our annual guide to the people risking their reputations and lives in pursuit of big ideas. Read more › Writers
+Special Report The Atlantic Washington Ideas Forum  
+Each year _The Atlantic_ brings together influential figures from the worlds of politics, business, and academia. Read more › Writers
 
-*   James Fallows Festival of Found Art Nov 13, 2012
+*   Jeffrey Goldberg Well, Now Hamas Has Done It 3:28 AM ET
+*   James Fallows Gangnam Style's Broadway Roots 12:40 AM ET
+*   Robert Wright The Incoherence of a Drone Strike Advocate Nov 14, 2012
+*   Ta-Nehisi Coates About Last Night Nov 14, 2012
+*   Clive Crook Obama and the Fiscal Cliff Nov 14, 2012
+*   Garance Franke-Ruta A New First for Women Senators: Bathroom Lines Nov 14, 2012
+*   Alexis C. Madrigal Turning Gadget Lust Into Energy Efficiency Nov 14, 2012
 *   Derek Thompson The End of the Pledge: How Democrats Can Finally… Nov 13, 2012
-*   Jeffrey Goldberg 'I Am Not al-Qaeda. When We Kill Bashar, I Will… Nov 13, 2012
-*   Ta-Nehisi Coates Rihanna's Agency Nov 13, 2012
-*   Robert Wright The Real David Petraeus Scandal Nov 12, 2012
-*   Alexis C. Madrigal The Question I Didn't Get to Ask Pinterest CEO… Nov 8, 2012
-*   Clive Crook Obama's Victory After Cyclical Adjustment Nov 7, 2012
-*   Garance Franke-Ruta The 3 Biggest Day-After Mea Culpas Nov 7, 2012
 *   Steve Clemons Ed Gillespie's Absurd Bluster Nov 6, 2012
 
-The Biggest Story in Photos Diwali: The Festival of Lights Nov 13, 2012 Video Behind the Scenes of Valentino's New York City Ballet Collaboration We Got This (Occupy Sandy) 36 Hours With a News Crew During Sandy Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Hurricane Sandy: The Long Recovery Nov 14, 2012 Video Dieter Rams Reflects on His Principles of Good Design Eames Furniture Gestalten TV: Tessa Farmer Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -237,15 +237,15 @@ Most Popular
 
 1
 
-Venice Under Water
+Ron Paul's Last Speech to Congress: 30+ Strangely Ordered Questions
 
 2
 
-Election 2012 Marks the End of Evangelical Dominance in Politics
+Venice Under Water
 
 3
 
-Diwali: The Festival of Lights
+What High School Taught Millennials About the War on Terrorism
 
 4
 
@@ -253,57 +253,57 @@ Hurricane Sandy: After Landfall
 
 5
 
-The Writer and the General: What the Petraeus Affair Exposed About D.C.
+The Wisdom of Paula Broadwell
 
 6
 
-Syria in Ruins
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 7
 
-Noam Chomsky on Where Artificial Intelligence Went Wrong
+Military Strikes Go Viral: Israel Is Live-Tweeting Its Own Offensive Into Gaza
 
 8
 
-The Real David Petraeus Scandal
+The Gaza Invasion: Will It Destroy Israel's Relationship With Egypt?
 
 9
 
-The Top Ways We Injure Our Genitals
+Hurricane Sandy: The Long Recovery
 
 10
 
-Hurricane Sandy: The Aftermath
+Syria in Ruins
 
 ATLANTIC MEDIA Atlantic Wire
 
-*   Striking Workers March All Across Europe to Fight Austerity
-*   Head of Long Island Power Authority Quits After Sandy Debacle
-*   Don't Even Think of Eating at Guy Fieri's New Times Square Restaurant
+*   Aurora Shooting Suspect Hospitalized After Hurting Himself in Jail
+*   Israel's Offensive in Gaza Has 'Opened the Gates of Hell'
+*   Chinese Election Memes Aren't as Funny as American Election Memes
 
 **More from Atlantic Wire**
 
 Atlantic Cities
 
-*   Travel Site of the Day: Airbnb Goes Hyperlocal
-*   Public Toilet in Graveyard Is Tearing Australian Town Apart
-*   America's Most Diverse Neighborhoods
+*   App of the Day: A Global Map of Old Signs
+*   Check Out This Food Atlas Created by 'Guerrilla Cartographers'
+*   High-Fashion Bags Inspired by Third World Filth
 
 **More from Atlantic Cities**
 
 Quartz
 
-*   This Rothko sold for $75 million
-*   Why do some CEOs want higher taxes on the wealthy? Lower taxes on their companies
-*   Quartz Daily Brief – Americas Edition – Taxing the 1%, Goldman’s shrinking jackpot, China’s new leaders
+*   Leadership transition disheartens young Chinese, or at least the few paying attention
+*   The eurozone is officially back in recession
+*   China’s new leaders are conservative hardliners: “Reforms will occur slowly” and other realities
 
 **More from Quartz**
 
 National Journal
 
-*   Bennet Offered DSCC Chairmanship
-*   Boehner Remains Optimistic on Cliff Negotiations
-*   Senators Return to Meet and Plan, Not Legislate
+*   Petraeus to Testify Before Congress on Libya Thursday, Friday
+*   The Age of Acceptable Assassination
+*   No Honeymoon Period Ahead for Obama
 
 **More from National Journal**
 
