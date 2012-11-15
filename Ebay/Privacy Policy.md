@@ -1,4 +1,4 @@
-Skip to main content eBay Browse bycategory Enter your search keyword All Categories Advanced Welcome, (Sign in to bid or buy)
+Skip to main content eBay Browse bycategory Enter your search keyword All Categories Advanced Hi, (Sign in to bid or buy)
 
 *   Daily Deals
 
