@@ -167,15 +167,11 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         
         Health Care
         
-        Baby Soap, Shampoo &. Lotion
-        
         Child Proofing
         
         Baby Thermometers
         
         Baby Cleaning Supplies
-        
-        Baby Soap, Shampoo &. Lotion
         
         Baby Gear
         
@@ -190,6 +186,10 @@ All Products Click 'n' Pull Shop by Business My Sam's Club Services Auctions
         High Chairs &. Boosters
         
         Strollers &. Travel Systems
+        
+        Baby Health &. Safety
+        
+        Bassinets
         
         **See All**
 *   Electronics
