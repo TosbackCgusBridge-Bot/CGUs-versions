@@ -1,6 +1,7 @@
 Play Games at Miniclip.com Empire A new kingdom awaits! Join a faction  
-Fight for the crown! Lumberjack Your daily challenge Score 20,000 points  
-Lumberjack Games Bullfrog Poker Texas Hold’em! Show your poker face  
+Fight for the crown! TGMotox 3 Your daily challenge Score 100,000 points  
+TGMotocross 3 Awesome video How to beat Ice Temple  
+Watch it now! Bullfrog Poker Texas Hold’em! Show your poker face  
 Go all-in! New games! Hit the homepage  
 Great new games out now My Miniclip Credits
 
