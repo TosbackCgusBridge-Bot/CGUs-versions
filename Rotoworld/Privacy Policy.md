@@ -34,6 +34,7 @@ To search for a player use one of two formats:
 
 COLUMNS
 
+*   Fantasy Risers: AL Central Nov 15
 *   Fantasy Risers: AL East Nov 12
 *   Non-Tender Tango Nov 9
 *   Arizona Fall League Prospects Nov 7
@@ -41,7 +42,6 @@ COLUMNS
 *   Santana Hands In His Halo Nov 1
 *   Giant Celebration Oct 29
 *   Kung Fu Pandamonium Oct 25
-*   Giant Performance Oct 22
 
 PREMIUM CONTENT
 
@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Red Sox' interest in Hamilton 'overblown'
+*   Red Sox to talk extension with Dustin Pedroia
+*   Braves host B.J. Upton on free agent visit
+*   Cabrera beats out Trout for AL MVP award
+*   Buster Posey named National League MVP
+*   Marlins prez says Nolasco won't be traded
 *   Manny Ramirez homers in first DWL at-bat
 *   Selig says 12-player trade is 'under review'
 *   Matt Garza (elbow) cleared for normal winter
 *   Bruce 'wants to be a Red his entire career'
 *   Braves reach two-year deal with Gerald Laird
 *   Mariners 'covet' Royals slugger Billy Butler
-*   BoSox in the running for free agent Hamilton?
-*   Angels interested in free agent Hiroki Kuroda
-*   B.J. Upton is Braves' top free agent target
-*   Knuckleballer R.A. Dickey wins NL Cy Young
-*   Price edges out Verlander for AL Cy Young
-*   McCarthy cleared for full baseball activities
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   What Now, C.J.? Nov 16
+*   Week 11 Live Chat Nov 15
 *   Week 11 Rankings Nov 15
 *   The Ballad Of Mark And Tim Nov 15
-*   Matchup: Dolphins @ Bills Nov 14
+*   Matchup: Dolphins @ Bills Nov 15
+*   Best Available NFL Free Agents Nov 15
 *   Getting Defensive: Week 11 Nov 14
 *   Scheduling for Success Nov 14
-*   Week 11 Top Pickups Nov 13
-*   Pity the Foles Nov 13
-*   Big Ben's Bad Night Nov 13
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Heyward-Bey watching practice on Thursday
-*   Redman: Mendenhall will start Sunday night
-*   Welker held out of practice again on Thursday
-*   Ravens CB Jimmy Smith undergoes groin surgery
-*   Jay Cutler not expected to practice Thursday
-*   Marcel Reece will remain Raiders' lead back
-*   Brandon Myers has passed all concussion tests
-*   Raiders envisioned 2-4 week absence for DMC?
-*   Ryan Mathews misses practice with neck issue
-*   Hernandez limited in Wednesday's practice
-*   Alex Smith cleared for non-contact drills
-*   Roethlisberger's rib may not heal for 6 weeks
+*   Spiller totals 130 yards on 25 touches in win
+*   Report: Welker participated in walk-through
+*   Bowe: I want to finish my career with Chiefs
+*   Alex Smith remains on track to play Monday
+*   Dr. Andrews: Peterson's knee akin to newborn
+*   Norv uncertain about Mathews' Week 11 status
+*   Donald Brown misses Thursday's practice
+*   Skins willing to use Garcon at less than 100%
+*   Darren Sproles upgraded to a full practice
+*   Coach: Julio Jones is a 'late-week decision'
+*   Harbs has procedure for irregular heartbeat
+*   Jets owner: Sanchez is 'our franchise QB'
 
 NBA PAGES
 
@@ -134,14 +134,14 @@ NBA PAGES
 
 COLUMNS
 
+*   Dose: Knicks Stay Undefeated Nov 16
+*   NBA Live Chat at 9 PM ET Nov 15
 *   Fightin' Words Wednesday Nov 15
 *   Anderson Varejao Strikes Again Nov 14
 *   Dose: Jennings &. Bynum News Nov 13
 *   Dose: Bass, Celtics Play 5 Nov 12
 *   NBA Chat: Monday @ 12:30 ET Nov 11
 *   Wired: Top NBA Pickups Nov 11
-*   Dose: Lakers in Transition Nov 10
-*   DeAndre the Giant Nov 9
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
+*   Mario Chalmers (triceps) will not return
+*   Dwyane Wade (foot) out for Thursday night
+*   Rajon Rondo (ankle) will not play Thursday
+*   Nikola Pekovic (ankle) 'hopes' to play Friday
+*   LaMarcus Aldridge goes through practice
 *   Landry Fields has elbow surgery Wednesday
 *   Kyle Lowry out 1-2 weeks w/ ankle bone bruise
 *   Gerald Wallace to miss Thursday's game
 *   Price (ankle) was available to return on Wed
 *   Still no timetable on John Wall's return
-*   Dwyane Wade awful playing w/ foot injury
 *   Harrison Barnes explodes for 19 &. 13
 *   Elton Brand finally comes through in start
-*   Waiver Wire alert: Seraphin breaks out
-*   Jordan Crawford breaks out with 21 points
-*   Greivis Vasquez scores career-high 24
-*   Rajon Rondo iffy for Thursday w/ ankle sprain
 
 NHL PAGES
 
@@ -185,6 +185,7 @@ NHL PAGES
 
 COLUMNS
 
+*   Laich Making a Statement Nov 15
 *   Hawks Prospects Rule Nov 14
 *   Jordan Eberle &. Chad Billins Nov 12
 *   Bruins Tops in Swiss League Nov 9
@@ -192,7 +193,6 @@ COLUMNS
 *   Horak, Schenn and more! Nov 5
 *   Seguin Making Swiss Impact Nov 2
 *   Graovac Makes Wild Proud! Oct 30
-*   Four studs and a Minor Leaguer Oct 29
 
 PREMIUM CONTENT
 
@@ -207,6 +207,7 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Daly is discouraged by state of CBA talks
 *   Blake Geoffrion (skull) has left the hopsital
 *   Brandon Dubinsky is out for up to six weeks
 *   NHL to cancel games through Dec. 15 in a week
@@ -218,7 +219,6 @@ FANTASY HOCKEY NEWS
 *   Agent: Cam Fowler will play in Sweden
 *   Jared Cowen will have hip surgery Saturday
 *   Andrej Meszaros (Achilles) is on the mend
-*   Justin Schultz still leads AHL scoring race
 
 NASCAR PAGES
 
@@ -229,6 +229,7 @@ NASCAR PAGES
 
 COLUMNS
 
+*   Mid-Pack: Ford EcoBoost 400 Nov 15
 *   The Ford 400 Nov 14
 *   Wrap-up: Phoenix Int'l Raceway Nov 11
 *   Mid-Pack: AdvoCare 500 Nov 8
@@ -236,7 +237,6 @@ COLUMNS
 *   Wrap-up: Fort Worth Nov 4
 *   Mid-Pack: Texas AAA 500 Nov 1
 *   The AAA 500 Oct 30
-*   Wrap-up: Martinsville Speedway Oct 28
 
 PARTNERS
 
@@ -245,6 +245,11 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
+*   Miguel Paludo notes at Homestead-Miami
+*   James Buescher has chance for the truck title
+*   Justin Lofton at Homestead-Miami Speedway
+*   Ryan Newman's 11-year pole streak in jeopardy
+*   Milestone start this weekend for Tony Stewart
 *   Fast facts in Miami on Ricky Stenhouse Jr.
 *   Hal Martin preps for 2013 Nationwide ROTY run
 *   Martin Truex Jr. Homestead notes of interest
@@ -252,11 +257,6 @@ FANTASY NASCAR NEWS
 *   Jamie McMurray at Homestead-Miami
 *   Michael Annett Homestead-Miami advance
 *   Kyle Larson gets sponsor for truck finale
-*   Leffler pilots Hillman Racing No. 27 at HMS
-*   Ryan Truex making first NNS start in Miami
-*   First time at Homestead for Cale Gale
-*   Regan Smith joins JRM in season finale
-*   Stenhouse Jr.'s 2013 Cup team taking shape
 
 GOLF PAGES
 
@@ -311,6 +311,7 @@ NFL DRAFT PAGES
 
 COLUMNS
 
+*   Week 12 Matchup Preview Nov 16
 *   Manti Te'o, The Example Nov 14
 *   Hard Work Is the Ansah Nov 13
 *   Senior Prospect Rankings Nov 11
@@ -318,7 +319,6 @@ COLUMNS
 *   Denard's NFL Projection Nov 7
 *   Mauti Morphing Linebacker Nov 5
 *   Midseason NFL Mock Draft Nov 2
-*   Week Ten Matchup Preview Nov 2
 
 PARTNERS
 
@@ -327,6 +327,9 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Silas Redd's availability in question vs UCLA
+*   Sheldon Richardson suspended vs Syracuse
+*   'Lots of 1st round grades' on T Lane Johnson
 *   Kiper: Chiefs should take Te'o with 1st pick
 *   Swinney: Don't leave unless you're in 1st rd
 *   Sean Mannion named Beavers starter vs Cal
@@ -336,9 +339,6 @@ NFL DRAFT NEWS
 *   Noles QB Manuel will attend Senior Bowl
 *   Ansah makes 1st appearance in Kiper's top 32
 *   Manuel's recent success coming in no-huddle
-*   Saturday 'could possibly' be RB Bell's finale
-*   Pauline: Chances are QB Murray will go to NFL
-*   'Foregone conclusion' Bray &. Hunter go to NFL
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Heyward-Bey watching practice on Thursday
-*   CFB:Kiper: Chiefs should take Te'o with 1st pick
-*   MLB:Selig says 12-player trade is 'under review'
-*   NBA:Kyle Lowry out 1-2 weeks w/ ankle bone bruise
-*   NFL:Redman: Mendenhall will start Sunday night
-*   NFL:Welker held out of practice again on Thursday
-*   NHL:Blake Geoffrion (skull) has left the hopsital
-*   MLB:Bruce 'wants to be a Red his entire career'
-*   NFL:Jay Cutler not expected to practice Thursday
-*   MLB:BoSox in the running for free agent Hamilton?
-*   MLB:Angels interested in free agent Hiroki Kuroda
-*   NFL:Marcel Reece will remain Raiders' lead back
+*   NFL:Spiller totals 130 yards on 25 touches in win
+*   NBA:Dwyane Wade (foot) out for Thursday night
+*   NBA:Rajon Rondo (ankle) will not play Thursday
+*   NFL:Norv uncertain about Mathews' Week 11 status
+*   MLB:Cabrera beats out Trout for AL MVP award
+*   NFL:Report: Welker participated in walk-through
+*   NFL:Bowe: I want to finish my career with Chiefs
+*   MLB:Marlins prez says Nolasco won't be traded
+*   NFL:Alex Smith remains on track to play Monday
+*   NFL:Coach: Julio Jones is a 'late-week decision'
+*   NFL:Donald Brown misses Thursday's practice
+*   CFB:Silas Redd's availability in question vs UCLA
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. McFaddenNFL (7223)
-*   2D. SprolesNFL (6615)
-*   3A. HernandezNFL (6512)
-*   4D. AlexanderNFL (6198)
-*   5D. MurrayNFL (6153)
+*   1D. McFaddenNFL (7038)
+*   2D. SprolesNFL (6826)
+*   3A. HernandezNFL (6459)
+*   4D. AlexanderNFL (6433)
+*   5D. MurrayNFL (6337)
 
-*   6M. ReeceNFL (6152)
-*   7K. LowryNBA (6151)
-*   8K. LoveNBA (6040)
-*   9D. AmendolaNFL (5800)
-*   10R. MendenhallNFL (5739)
+*   6M. ReeceNFL (6090)
+*   7K. LowryNBA (6036)
+*   8R. MendenhallNFL (5965)
+*   9B. RoethlisbergerNFL (5906)
+*   10K. LoveNBA (5753)
 
   
 Video Center
@@ -526,6 +526,10 @@ Video Center
 *   »
 
 *      
+    Week 11 Starts &. Sits 4 p.m.
+*      
+    Week 11 Starts &. Sits 1 p.m.
+*      
     SportsTalk: Bold predictions
 *      
     Start or Sit: Dolphins - Bills
@@ -537,41 +541,37 @@ Video Center
     Week 10 Starts &. Sits 4 p.m.
 *      
     Week 10 Starts &. Sits 1 p.m.
-*      
-    NBA: Hot fantasy starts
-*      
-    Start or Sit: Colts - Jaguars
 
   
   
-  Headlines Week 11 Rankings  
-Nov 15 Chris Wesseling has all of your Week 11 rankings in Goal Line Stand. Danny Amendola has reached must-start status for the rest of the season.  
+  Headlines What Now, C.J.?  
+Nov 16 Patrick Daugherty breaks down C.J. Spiller's start while checking in on Reggie Bush and Ryan Mathews in Friday's Dose.  
   
 More NFL Columns
 
+*   »What Now, C.J.? Nov 16
+*   »Week 11 Live Chat Nov 15
 *   »Week 11 Rankings Nov 15
 *   »The Ballad Of Mark And Tim Nov 15
-*   »Matchup: Dolphins @ Bills Nov 14
+*   »Matchup: Dolphins @ Bills Nov 15
+*   »Best Available NFL Free Agents Nov 15
 *   »Getting Defensive: Week 11 Nov 14
 *   »Scheduling for Success Nov 14
-*   »Week 11 Top Pickups Nov 13
-*   »Pity the Foles Nov 13
-*   »Big Ben's Bad Night Nov 13
 
 NFL Headlines
 
-*   »Heyward-Bey watching practice on Thursday
-*   »Redman: Mendenhall will start Sunday night
-*   »Welker held out of practice again on Thursday
-*   »Ravens CB Jimmy Smith undergoes groin surgery
-*   »Jay Cutler not expected to practice Thursday
-*   »Marcel Reece will remain Raiders' lead back
-*   »Brandon Myers has passed all concussion tests
-*   »Raiders envisioned 2-4 week absence for DMC?
-*   »Ryan Mathews misses practice with neck issue
-*   »Hernandez limited in Wednesday's practice
-*   »Alex Smith cleared for non-contact drills
-*   »Roethlisberger's rib may not heal for 6 weeks
+*   »Spiller totals 130 yards on 25 touches in win
+*   »Report: Welker participated in walk-through
+*   »Bowe: I want to finish my career with Chiefs
+*   »Alex Smith remains on track to play Monday
+*   »Dr. Andrews: Peterson's knee akin to newborn
+*   »Norv uncertain about Mathews' Week 11 status
+*   »Donald Brown misses Thursday's practice
+*   »Skins willing to use Garcon at less than 100%
+*   »Darren Sproles upgraded to a full practice
+*   »Coach: Julio Jones is a 'late-week decision'
+*   »Harbs has procedure for irregular heartbeat
+*   »Jets owner: Sanchez is 'our franchise QB'
 
 NFL Links
 
