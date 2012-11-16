@@ -10,17 +10,17 @@ Sign In
 
 1 2 3
 
-China
+Oil Spill
 
-EU agency: number of synthetic drugs sold online keeps rising;...
+News Summary: BP will pay $4.5 billion in settlement with US g...
 
-Mexico
+Mitt Romney
 
-Mexico rattled by 6.0-magnitude quake
+Top Republicans say Romney didn't offer specifics
 
 Politix
 
-10 Questions on Secession
+Should Republicans compromise with Obama and raise taxes on th...
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 106,414 • Total comments across all topics: 191,166,103
+Comments made yesterday: 109,317 • Total comments across all topics: 191,193,589
 
 Copyright ©2012 Topix LLC
 
