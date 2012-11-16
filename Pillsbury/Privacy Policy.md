@@ -1,11 +1,11 @@
 ENDECA\_EXCLUDE\_START
 
 *   Home
+*   Join FREE
+*   Subscribe to Newsletters
 *   Coupons
 *   Shop Online
-*   Newsletters
 *   Magazines &. Cookbooks
-*   Not-So-Secret-Club
 *   Doughboy ™
 
 Search Pillsbury Recipe
@@ -13,8 +13,8 @@ Search Pillsbury Recipe
 *   Video
 *   Article
 *   All
-*   Community
 *   Recipe
+*   Community
 
 Recipe
 
