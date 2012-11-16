@@ -410,10 +410,26 @@ PacSun may link to unaffiliated third party websites. This Privacy Policy does n
 
 Effective Date: This policy was last updated on 10/09/2012.
 
-Sign up for emails for  
-a chance to win $100 Details
+Sign up for PacSun emails &  
+Get 15% Off your next order! Details
 
-Sign Up PACSUN STORE INFO
+Sign Up PACSUN STORE INFO Email Sign Up Sign up for PacSun Emails and get 15% off your next order! **Don't Wait!  
+You'll be the first  
+to hear about:**
+
+*   Exclusive Offers
+*   Contests
+*   Online &. in store promotions
+*   New arrivals
+*   Flash sales &. more!
+
+Email Address: Re-enter Email Address:
+
+Check your inbox for a welcome email from us to get your **15% off code.**
+
+Continue
+
+PacSun will never sell or exchange your name or personal information to third parties. ever. see our privacy policy.
 
 Find a Pacsun near you
 
