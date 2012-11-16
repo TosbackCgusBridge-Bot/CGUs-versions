@@ -1199,12 +1199,13 @@ FAX (252) 355-2923
 The Best Way to Stay Connected With Those Who Live Outdoors Like Us On  
 Follow Us On  
 Watch Us On  
-In Store Specials
+Sweepstakes
 
-Checkout our latest  
-In Store Specials  
+Win $1000 of  
+Mountain Hardwear     
+Gear &. Clothing  
   
-View Flyer
+Enter Now!
 
 Bragging Board
 
