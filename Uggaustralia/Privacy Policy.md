@@ -172,6 +172,15 @@ Fall Highlights
     *   Men
     *   Kids
     *   UGG Collection
+    
+    For delivery on December 24th:  
+      
+    UPS Ground – December 16 by 10AM PST  
+      
+    2nd Day Air – December 21 by 10 AM PST  
+      
+    Next Day Air – December 22 by 10 AM PST
+    
 *   *   Explore
     *   Footwear Finder
     *   Letters from New York
