@@ -382,9 +382,7 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   Today
-    
-    Sanborn concert - Agoura |  T.O. holiday boutique |  10 to know
+*   St. Bonaventure vs. Santa Margarita tomorrow night |  Matchup videos
     
 
 Privacy Policy &. User Agreement
@@ -620,10 +618,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos Sugartown growing a group of followers
+Videos On Campus: Donnie's Last Day Donnie Rea is retiring after 50 years ...
 
-*   Sugartown growing a group of ... Cal Lutheran celebrates SCIAC win On Campus: West County Playoff ... Releasing a hawk
-*   Excited about casting votes Iran hostage crisis remains vivid ...
+*   On Campus: Donnie's Last Day Sugartown growing a group of ... Cal Lutheran celebrates SCIAC win On Campus: West County Playoff ...
+*   Releasing a hawk Excited about casting votes
 
   
 
@@ -636,23 +634,23 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   California budget deficit shrinks to $1.9B with taxes Published 11/14/2012 at 3:42 p.m. 70 comments
-*   In Conejo visit, former Mexican president calls for immigration overhaul Updated 11/14/2012 at 5:32 p.m. 40 comments
-*   Company that owns Brooks Institute closing some campuses Updated 11/14/2012 at 7:12 p.m. 43 comments
-*   Ventura, Oxnard, Camarillo hotels filling up Updated 11/14/2012 at 6:48 p.m. 9 comments
-*   Spearmint Rhino exotic dancers settle suit for nearly $13 million Updated 11/13/2012 at 8:22 p.m.
+*   Found in Oxnard, skull and jawbone may have been part of 'Santa Muerte' shrine Updated 11/16/2012 at 12:47 a.m.
+*   California budget deficit shrinks to $1.9B with taxes Published 11/14/2012 at 3:42 p.m. 81 comments
+*   Editorial: Obama comes out fighting at a rare session Published 11/14/2012 at 3:23 p.m. 50 comments
+*   Company that owns Brooks Institute closing some campuses Updated 11/14/2012 at 7:12 p.m. 48 comments
+*   Top California pollster says 2012 election could be a turning point Updated 11/15/2012 at 5:38 p.m. 31 comments
 
-Photo Galleries Ventura County's Most Wanted November… Airealistic Circus and Flying School Families make gingerbread houses at…
+Photo Galleries Ventura County's Most Wanted November… Found in Oxnard, skull, jawbone may… Airealistic Circus and Flying School
 
-*   Kart racing driving Ventura beach residents batty Published 11/12/2012 at 5:14 p.m. 70 comments
-*   California budget deficit shrinks to $1.9B with taxes Published 11/14/2012 at 3:42 p.m. 70 comments
-*   Will: Conservatives, start all over again Published 11/10/2012 at 8:01 p.m. 87 comments
-*   Company that owns Brooks Institute closing some campuses Published 11/14/2012 at 4:30 p.m. 43 comments
-*   Morning chat Published 11/12/2012 at 12:00 a.m. 49 comments
+*   California budget deficit shrinks to $1.9B with taxes Published 11/14/2012 at 3:42 p.m. 81 comments
+*   In Conejo visit, former Mexican president calls for immigration overhaul Published 11/14/2012 at 1:18 p.m. 50 comments
+*   Kart racing driving Ventura beach residents batty Published 11/12/2012 at 5:14 p.m. 72 comments
+*   Company that owns Brooks Institute closing some campuses Published 11/14/2012 at 4:30 p.m. 48 comments
+*   Editorial: Obama comes out fighting at a rare session Published 11/14/2012 at 3:23 p.m. 50 comments
 
 *   Authorities warn of "knock knock" burglaries in east Ventura County Published 11/8/2012 at 12:11 p.m. 0 comments
-*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
 *   Spearmint Rhino exotic dancers settle suit for nearly $13 million Published 11/13/2012 at 5:59 p.m. 0 comments
+*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
 *   18-year-old accused of setting family's basset hound on fire near Camarillo Published 11/9/2012 at 10:13 a.m. 0 comments
 *   Veterans in Ojai find hope, help through horse therapy Published 11/10/2012 at 9:14 p.m. 5 comments
 
@@ -662,25 +660,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 60° Partly Cloudy Wind: W 4mph Today 67° 55° Thu 11:00 PM Mostly Cloudy Showers Temp: 57° Fri 11:00 AM Mostly Cloudy Showers Temp: 62° Fri 11:00 PM Mostly Cloudy Showers Temp: 58°
+Currently 57° Mostly Cloudy Wind: NE 10mph Today 64° 53° Fri 04:00 PM Mostly Cloudy Showers Temp: 63° Sat 04:00 AM Mostly Cloudy Showers Temp: 57° Sat 04:00 PM Mostly Cloudy Showers Temp: 61°
+
+Feels Like: 63°
+
+Humidity: 70%
+
+Precip: 32%
 
 Feels Like: 57°
 
-Humidity: 74%
+Humidity: 81%
 
-Precip: 24%
+Precip: 30%
 
-Feels Like: 62°
+Feels Like: 61°
 
-Humidity: 69%
+Humidity: 90%
 
-Precip: 44%
-
-Feels Like: 58°
-
-Humidity: 80%
-
-Precip: 44%
+Precip: 73%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -726,18 +724,10 @@ More bloggers Wire
 
 Calendar
 
-*   Thursday Nov 15
 *   Friday Nov 16
 *   Saturday Nov 17
+*   Sunday Nov 18
 *   More BROWSE Icon
-
-*   CAM Book Club: "A Good Hard Look: A Novel of Flannery O'Connor by Ann Napolitano Carnegie Art Museum 6 p.m.
-*   Senior Concerns Holiday Boutique 80 E. Hillcrest, Thousand Oaks, CA 6 p.m.
-*   Competition, Beauty and Image presents “Miss Representation” California African American Museum 7 p.m.
-*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
-*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
-
-More Events »
 
 *   Consultant Support Group Economic Development Collaborative - Ventura County 8:30 a.m.
 *   International Trade Workshop Oxnard Chamber of Commerce 8:30 a.m.
@@ -752,6 +742,14 @@ More Events »
 *   Channel Islands PC User Group (CIPCUG) November meeting Boys' &. Girl' Club of Camarillo 8:30 a.m.
 *   Olive Picking Day Santa Inés Mission Mills, 2010 Mission Drive, Solvang 9 a.m.
 *   Dealing with Depression Mahakankala Buddhist Center 9 a.m.
+
+More Events »
+
+*   Toys for Tots Toy Drive Glenwood Elementary School 8 a.m.
+*   The Oxnard Gem &. Mineral Show - "Opal - Catch The Rainbow" Oxnard Performing Arts and Convention Center 10 a.m.
+*   Thanksgiving Service and Potluck Emerging Spirits Center noon
+*   "Talbot, Crowe &. Ford" Camarillo Art Center 1 p.m.
+*   A Lecture on Paper Art Museum of Ventura County 2 p.m.
 
 More Events »
 
