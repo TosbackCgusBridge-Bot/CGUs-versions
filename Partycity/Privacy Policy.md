@@ -6,7 +6,7 @@ Halloween Costumes Customer Service Store Locator Change to Canada
     *   Girls Birthday Boys Birthday 1st Birthday Adult Birthday Birthday Invitations Birthday Party Favors Birthday Decorations Birthday Balloons Cake Supplies Pinatas &. Games
 
 *   Theme Parties
-    *   Sports Theme Party International Flag Party Patriotic Theme Party Fall Theme Party Winter Theme Party End Of The World Party Luau Theme Party Hollywood Theme Party Fiesta Theme Party Western Theme Party Casino Theme Party Rock N Roll Party Disco Theme Party 80s Rock Star Party Summer Theme Party Pool Theme Party Princess Theme Party Pirate Theme Party Camouflage Theme Party Clearance Event
+    *   Batman Theme Party Sports Theme Party International Flag Party Patriotic Theme Party Fall Theme Party Winter Theme Party End Of The World Party Luau Theme Party Hollywood Theme Party Fiesta Theme Party Western Theme Party Casino Theme Party Rock N Roll Party Disco Theme Party 80s Rock Star Party Summer Theme Party Pool Theme Party Princess Theme Party Pirate Theme Party Camouflage Theme Party Clearance Event
 
 *   Special Occasions
     *   Breast Cancer Awareness Graduation Bachelorette Party Bridal Shower 25th Anniversary 40th Anniversary 50th Anniversary Baptism Communion Confirmation Welcome Home Congratulations Retirement Quinceanera
