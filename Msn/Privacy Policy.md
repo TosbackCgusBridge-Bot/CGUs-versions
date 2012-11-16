@@ -62,7 +62,7 @@ Close Email A Friend Your email has been sent.
     *   Minor Leagues
     *   Photos
     *   All-Star Game
-    *   Shop
+    *   MLB Gear
 *   NASCAR NASCAR
     
     *   NASCAR Home
@@ -79,7 +79,7 @@ Close Email A Friend Your email has been sent.
     *   Fantasy
     *   Tickets
     
-    *   Shop
+    *   NASCAR Gear
 *   NBA NBA
     
     *   NBA Home
@@ -99,7 +99,7 @@ Close Email A Friend Your email has been sent.
     *   Transactions
     *   Injuries
     *   Top 10s and Lists
-    *   Shop
+    *   NBA Gear
 *   NCAAF NCAAF
     
     *   NCAA Football
@@ -119,7 +119,7 @@ Close Email A Friend Your email has been sent.
     
     *   Fantasy
     *   List
-    *   Shop
+    *   NCAA FB Gear
 *   NCAAB NCAAB
     
     *   NCAA Basketball
@@ -138,7 +138,7 @@ Close Email A Friend Your email has been sent.
     *   Tickets
     
     *   NCAA BK Recruiting
-    *   Shop
+    *   NCAA BK Gear
     *   List
 *   GOLF GOLF
     
@@ -147,7 +147,7 @@ Close Email A Friend Your email has been sent.
     *   Schedule
     *   Players
     *   Video
-    *   Shop
+    *   GOLF Gear
     
     *   Photos
     *   Lists
@@ -181,7 +181,7 @@ Close Email A Friend Your email has been sent.
     *   List
     *   HeavyMMA
     *   Tickets
-    *   Shop
+    *   UFC Gear
     
     *   Ultimate Fighter Fridays
     *   Video
@@ -212,14 +212,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
-    *   Coach Speak: MIA/BUF Preview
-    *   Recap: Clippers conquer Heat
-    *   Matt Barkley and Andrew Abbott
-    *   Griffin on 107-100 win over Miami
-    *   Recap: US earns last minute draw in Russia
-    *   Petros Ponders: Time Out for Tuberville
-    *   Singler on start, first win
-    *   Clippers/Heat Preview
+    *   Rosenthal: AL/NL MVP awards
+    *   UFC on FUEL TV: Le/Franklin Recap
+    *   D'Antoni ready for Lakers job
+    *   Marvez: Three-Point Stance - Week 11
+    *   Schrager: Enough of Tebow!
+    *   D'Antoni ready for Lakers job
+    *   Heat hold off Denver
+    *   2012 Kings Calendar Outtakes: Nikki
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -346,7 +346,7 @@ Close Email A Friend Your email has been sent.
     *   Video
 *   Living
     *   style
-    *   décor
+    *   d??cor
     *   sex &. relationships
     *   family
     *   inspire
@@ -506,29 +506,29 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   Friendships guide Setoguchi to ECHL's Reign
-*   No one expected Roy's comeback to be easy
-*   Reports: Timberwolves to sign Howard
+*   Shorthanded Wolves take on Warriors
+*   Offensive line must hold tight to win in...
+*   Stifling defense key to early-season success
 
 *   VINTAGE: The Unique Iso Varedo
 *   MOTOGP: Rossi, Lorenzo Pay Tribute To Biaggi
 *   CUP: Phoenix Still Has Some ‘New’
 
-*   Big Finish On Bumphis, 2009 Classmates Minds
-*   How to Beat Oregon
-*   PSU Scrambles to Address Conspiracy Theory
+*   Site Predictions
+*   WRs: 'We'll See'
+*   Petty makes his choice
 
-*   UFC 155: Dos Santos vs. Velasquez II
-*   FULL FIGHT: Georges St-Pierre vs. Matt Hughes
 *   FULL FIGHT: Georges St-Pierre vs. Frank Trigg
+*   UFC 155 Preview: Dos Santos vs. Velasquez II
+*   FULL FIGHT: Georges St-Pierre vs. Matt Hughes
 
-*   Villa deja Pumas y se va a Tigres
-*   América rescata valiosa victoria
-*   El gol de Zlatan debe esperar
+*   Felton fue la figura de New York
+*   Millonarios da el campanazo
+*   Defensa de Buffalo contiene a Miami
 
-*   Rodgers dismisses Suarez rumor
-*   Ibrahimovic goal comes too late
-*   Luiz: Falcao would be great addition
+*   Beckham refutes Australia rumors
+*   David Beckham moving to A-League?
+*   Reports: Hope Solo marries Stevens
 
 *   Bears CB says he'll skip game for birth
 *   Kidd reacts to Cuban's comments
