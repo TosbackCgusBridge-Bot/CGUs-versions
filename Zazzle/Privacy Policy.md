@@ -1,4 +1,4 @@
-Skip to content
+Skip to content 100% satisfaction guaranteed. If you don't love it, we'll take it back. Period.
 
 *   Sign in 
     *   My Account
@@ -15,7 +15,7 @@ Skip to content
 *   Sell
 *   Gift Center
 
-**Search** November Savings Event! 15% Off ALL Orders!    Use Code: SANTASAVINGS   LAST DAY! (details) Zazzle Privacy Policy Policies
+**Search** November Savings Event! 15% Off ALL Orders!    Use Code: SANTASAVINGS   Ends Monday (details) Zazzle Privacy Policy Policies
 
 *   User Agreement
 *   Privacy Policy
