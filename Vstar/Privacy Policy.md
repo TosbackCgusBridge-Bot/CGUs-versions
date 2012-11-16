@@ -382,6 +382,11 @@ Ventura County Star
 *   Cars
 *   Classified
 
+*   Today
+    
+    Sanborn concert - Agoura |  T.O. holiday boutique |  10 to know
+    
+
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -631,24 +636,24 @@ Most Popular
 *   Commented
 *   Emailed
 
+*   California budget deficit shrinks to $1.9B with taxes Published 11/14/2012 at 3:42 p.m. 68 comments
+*   In Conejo visit, former Mexican president calls for immigration overhaul Updated 11/14/2012 at 5:32 p.m. 40 comments
+*   Company that owns Brooks Institute closing some campuses Updated 11/14/2012 at 7:12 p.m. 42 comments
+*   Ventura, Oxnard, Camarillo hotels filling up Updated 11/14/2012 at 6:48 p.m. 9 comments
 *   Spearmint Rhino exotic dancers settle suit for nearly $13 million Updated 11/13/2012 at 8:22 p.m.
-*   California budget deficit shrinks to $1.9B with taxes Published 11/14/2012 at 3:42 p.m. 52 comments
-*   In Conejo visit, former Mexican president calls for immigration overhaul Updated 11/14/2012 at 5:32 p.m. 27 comments
-*   Gun fired at security guard in Ventura Updated 11/14/2012 at 6:21 p.m.
-*   Company that owns Brooks Institute closing some campuses Updated 11/14/2012 at 7:12 p.m. 16 comments
 
-Photo Galleries Ventura County's Most Wanted November… Women working to narrow gender gap in… Surfers remember Jack Cantrell
+Photo Galleries Ventura County's Most Wanted November… Airealistic Circus and Flying School Families make gingerbread houses at…
 
-*   Will: Conservatives, start all over again Updated // at : 87 comments
 *   Kart racing driving Ventura beach residents batty Updated // at : 70 comments
-*   Ventura County representatives know 'fiscal cliff' is on their agenda Updated // at : 73 comments
-*   California budget deficit shrinks to $1.9B with taxes Updated // at : 52 comments
+*   California budget deficit shrinks to $1.9B with taxes Updated // at : 68 comments
+*   Will: Conservatives, start all over again Updated // at : 87 comments
+*   Company that owns Brooks Institute closing some campuses Updated 11/14/2012 at 7:12 p.m. 42 comments
 *   Morning chat Updated // at : 49 comments
 
 *   Authorities warn of "knock knock" burglaries in east Ventura County Updated 11/8/2012 at 2:04 p.m. 0 comments
 *   Shirley: Medical device tax will impact jobs and costs Updated // at : 0 comments
-*   18-year-old accused of setting family's basset hound on fire near Camarillo Updated 11/9/2012 at 11:01 p.m. 0 comments
 *   Spearmint Rhino exotic dancers settle suit for nearly $13 million Updated 11/13/2012 at 8:22 p.m. 0 comments
+*   18-year-old accused of setting family's basset hound on fire near Camarillo Updated 11/9/2012 at 11:01 p.m. 0 comments
 *   Veterans in Ojai find hope, help through horse therapy Updated // at : 5 comments
 
 Weather
@@ -657,23 +662,23 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 53° Fair Wind: E 6mph Today 67° 55° Thu 05:00 PM Mostly Cloudy Showers Temp: 61° Fri 05:00 AM Mostly Cloudy Showers Temp: 55° Fri 05:00 PM Mostly Cloudy Showers Temp: 59°
+Currently 60° Partly Cloudy Wind: W 4mph Today 67° 55° Thu 11:00 PM Mostly Cloudy Showers Temp: 57° Fri 11:00 AM Mostly Cloudy Showers Temp: 62° Fri 11:00 PM Mostly Cloudy Showers Temp: 58°
 
-Feels Like: 61°
+Feels Like: 57°
 
-Humidity: 62%
+Humidity: 74%
 
 Precip: 24%
 
-Feels Like: 55°
+Feels Like: 62°
 
-Humidity: 87%
+Humidity: 69%
 
 Precip: 44%
 
-Feels Like: 59°
+Feels Like: 58°
 
-Humidity: 81%
+Humidity: 80%
 
 Precip: 44%
 
@@ -699,10 +704,10 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   In state Senate, only 2 Republicans can surf
 *   The 'Big Sort' in action
 *   Oxnard is where the race was won
 *   Strategy of Prop. 32 proponents backfired
-*   Some quick post-election takes
 
 Brian Dennert here
 
