@@ -1,26 +1,4 @@
-Features    | Plans and Pricing    | Blog    | Resources Sign Up Login  Login or Signup with OpenID
-
-Select one of these third-party accounts:
-
-Login Email Address: Password:
-
-**Forgot Password?**
-
- Remember Me
-
-Secure Login
-
-Single Sign-On user? Login here »
-
-**What is Single Sign-On?**
-
- Remember Me
-
-Single Sign-On
-
-No Single Sign-On? Use regular login »
-
-Privacy HootSuite Privacy Policy
+HootSuite Privacy Policy
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
@@ -62,25 +40,3 @@ Any questions about this Privacy Policy should be addressed to HootSuite Twitter
 37 Dunlevy Ave.  
 Vancouver, BC, Canada  
 V6A 3A3
-
-From the HootSuite Blog New Facebook Features in HootSuite: Social Media Management Made Easier
-
-Marketers and Social Media Managers, your Facebook engagement is about to get a lot smarter....  
-Read More
-
-How to Follow Richard Branson, Barack Obama and…Ryan Holmes on LinkedIn
-
-If you’ve ever wanted to crawl inside the mind of a very successful person, LinkedIn...  
-Read More
-
-Owls Fly East ~ Chinese News Roundup 互随中国
-
-Enjoy the following news roundup of HootSuite’s Chinese release written by HootSuite Community Ambassador, Crystal Jiang....  
-Read More
-
-Top 10 International Twitter Trends of the Week, Volume 32
-
-Ever wonder why something is trending? Let’s explore what made the global Twittersphere turn, in...  
-Read More
-
-About Company Leadership Careers Contact Us Product Features Mobile App Directory Downloads Pricing Services HootSuite University Help Desk Feedback FAQ Translation Project Media Media Kit Press Releases Events Partner Becoming a Partner Solution Partners Integration Partners Affiliates API Legal Terms &. Conditions Privacy Policy ©2012 HootSuite Media Inc. All Rights Reserved. Language: Chinese Traditional (繁體中文)EnglishFrench (Français)German (Deutsch)Indonesian (Bahasa Indonesia)Italian (Italiano)Japanese (日本語)Polish (Język polski)Português (Brasil)Spanish (Español)
