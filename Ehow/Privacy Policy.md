@@ -1,23 +1,3 @@
-Discover the expert in you.
-
-*   home
-*   mom
-*   style
-*   food
-*   tech
-*   money
-*   health
-
-*   More eHow
-
-Featured:
-
-Holiday
-
-Life Skills
-
-Gadget Guide
-
 1.  eHow
 2.  Privacy Policy
 
@@ -110,14 +90,3 @@ If you are not comfortable with this Privacy Policy or our Terms of Use, please 
 Demand Media and eHow are registered trademarks of Demand Media, Inc. in the United States and other countries.
 
 Copyright © 2011. Demand Media, Inc.
-
-ehow.com
-
-*   **About eHow**
-*   **eHow Blog**
-*   **How to by Topic**
-*   **How to Videos**
-*   **Sitemap**
-
-Copyright © 1999-2012 Demand Media, Inc.  
-Use of this web site constitutes acceptance of the eHow Terms of Use and Privacy Policy. Ad Choices en-US
