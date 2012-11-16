@@ -8,6 +8,8 @@ Checkout
 
 *   **Sign In** or Register
 
+Username Password Go
+
 *   Your Account
 *   Shopping List
 
