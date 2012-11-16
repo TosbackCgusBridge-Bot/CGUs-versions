@@ -1,74 +1,74 @@
 Skip Navigation
 
 *   Inside Sinai's Torture Camps
-*   A First: Bathroom Lines for Female Senators
-*   Word of the Year? The GIF Is Dying
+*   A Cave Ranch: A Space for Polygamy
+*   Live Coverage of the Washington Ideas Forum
 *   Sponsor Content Infographic: Using Data to Keep the Peace
 
 *   Politics
     *   Top Stories
+    *   Marco Rubio Reflects on His Party's Immigration Rhetoric
     *   Ron Paul's Last Speech on the House Floor
-    *   The Fight to Put Susan Rice on Top at Foggy Bottom
-    *   Barney Frank's Bipartisan Vision
     *   What Has Movement Conservatism Accomplished in the Last 15 Years?
-    *   Obama and the Fiscal Cliff
-    *   A New First for Women Senators: Bathroom Lines
+    *   David Rubenstein on the 'Panda Sex' Principle of Politics
+    *   Could a Sex Scandal Become a Story About Intelligence Failures?
+    *   Norquist at a Loss Over Democratic Victory, But Will Continue Fight Over Taxes
 *   Business
     *   Top Stories
     *   Zara's Big Idea
     *   No, We're Not the Next Saudi Arabia
     *   What Is Spotify Worth?
-    *   Neverending Pain: Foreclosures Will Hurt Housing for at Least 5 More Years
-    *   How Textbook Economics Is Helping You Play Temple Run
-    *   Summers: Be Careful About Capping Tax Deductions
+    *   The Most Important Tax Break Is the One That Nobody Talks About
+    *   Sheila Bair Says We're Headed for Another Crisis
+    *   Sorry, Tax Wonks, Obama Adviser Says: Capping Deductions Isn't Going to Do It
 *   Tech
     *   Top Stories
+    *   Ken Burns: Dust Bowl the Greatest Man-Made Eco Disaster in U.S. History
     *   Cosmic Dawn: Astronomy's Ancient Quest to Find the Universe's First Stars
     *   Something to Finally Stop Your Crazy Uncle From Sending Those Forwards
-    *   Actually, the GIF Is Dying
-    *   Ken Burns: Dust Bowl the Greatest Man-Made Eco Disaster in U.S. History
+    *   A Single, Severed Cable Cut Contact Between Russia and Its Satellites
+    *   3 Viable Paths for Fixing Climate in Obama's Second Term
     *   The Wheel of Karma, Microsoft Division
-    *   Turning Gadget Lust Into Energy Efficiency
 *   National
     *   Top Stories
+    *   World's Richest College Dropout Says Stop Dropouts
     *   The 50-Year Farm Bill
-    *   The Philosophical Paula Broadwell
     *   Washington Ideas Forum: Live Blog
-    *   The World's Richest College Dropout Urges Colleges to Stop Dropouts
+    *   Live Coverage of the Washington Ideas Forum, Day I
     *   Photos: Wednesday Afternoon at the Washington Ideas Forum
-    *   Law, Science, and the Coming Brawl Over Marijuana
+    *   The Wisdom of Paula Broadwell
 *   Global
     *   Top Stories
-    *   Military Strikes Go Viral: Israel Is Live-Tweeting Its Own Offensive Into Gaza
-    *   Has Turkey Abandoned Gaza?
-    *   The Letterpress of Mogadishu
     *   The Gaza Invasion: Will It Destroy Israel's Relationship With Egypt?
-    *   Well, Now Hamas Has Done It
-    *   The Incoherence of a Drone Strike Advocate
+    *   China's Power Transition: Here Are 3 Outcomes You Can Expect
+    *   Does the Israel-Hamas Internet War Violate Twitter's Terms of Service?
+    *   A Coded Rant About China's Government Goes Viral
+    *   China's Power Transition: Forces of Liberalization >. Conservative Ideology
+    *   How to Say Xi JINping? Think Bobby JINdal
 *   Health
     *   Top Stories
-    *   For Sex, a Proper Duration
     *   Live From the Inside: A Radio Show Run by Psychiatric Patients
-    *   A Few Things to Consider Before Eating Wild Mushrooms
-    *   The Lost Artistry of Pharmaceutical Advertising
-    *   Study: Being a 'Healthy' Degree of Neurotic Lowers Risk of Chronic Disease
-    *   How to Get Americans to Eat Fish
+    *   For Sex, a Proper Duration
+    *   Flowers on the Psych Ward
+    *   The Best Doctors in the Universe
+    *   The Pedestrian Is a Fragile Species
+    *   Study: We're Less Likely to Recognize Symptoms of Depression in Men
 *   Sexes
     *   Top Stories
-    *   Why Do Some Feminists Get Uneasy When Women Make Progress?
-    *   The Upside to 'Girly' TV Shows: They Understand That Women Struggle
-    *   Nancy Pelosi Became House Minority Leader 10 Years Ago: What's Changed?
-    *   Why Women Don't Take Risks With Their Money
     *   Confessions of a Rabbi Who Can't Spend Enough Time With His Family
+    *   Why Women Don't Take Risks With Their Money
     *   Same-Sex Marriage Opponents Find a New Fight
+    *   The Reality of Life After 'Top Chef': Dream Jobs Are Still Jobs
+    *   The Strange History and Uncertain Future of Sadie Hawkins Day
+    *   Why Do Some Feminists Get Uneasy When Women Make Progress?
 *   Entertainment
     *   Top Stories
-    *   'Halo 4' Gets It All Wrong\*
-    *   'We're All Voyeurs': Filmmakers on Why They Make Films
-    *   How Hockey Diehards Cope with the NHL Lockout
-    *   Gangnam Style's Broadway Roots
-    *   John Keats's Porridge, Allen Ginsberg's Borscht: Great Poets' Favorite Recipes
-    *   The Lakers Have Been Through This Coaching Drama Before (31 Years Ago)
+    *   The Best MVP Race This Century Gets Decided Today
+    *   Keats's Porridge, Ginsberg's Borscht: Poets' Recipes
+    *   'Halo 4' Gets It All Wrong, Except for the Gameplay
+    *   Exactly Who Is Going to Play Nintendo's Sequel to the Wii?
+    *   The Next Frontier for Touring Musicians: Living Rooms?
+    *   Ecofont to the Rescue: 8 Typefaces Designed to Serve a Greater Purpose
 *   Magazine
     *   In This Month's Issue
     *   Our 2012 Brave Thinkers List
@@ -88,7 +88,7 @@ Skip Navigation
 *   Video
 *   Photo
 *   Newsletters
-*   The Gaza Invasion: Will It Destroy Israel's Relationship With Egypt?Eric Trager
+*   The Most Important Tax Break Is the One That Nobody Talks AboutJames Kwak
 
 Privacy Policy
 
@@ -196,17 +196,17 @@ Washington, DC 20037
 Special Report The Atlantic Washington Ideas Forum  
 Each year _The Atlantic_ brings together influential figures from the worlds of politics, business, and academia. Read more › Writers
 
+*   James Fallows David Rubenstein on the 'Panda Sex' Principle of… 1:44 PM ET
+*   Garance Franke-Ruta Norquist at a Loss Over Democratic Victory, But… 1:30 PM ET
+*   Ta-Nehisi Coates Republicans Want 'Stuff' Too 11:00 AM ET
 *   Jeffrey Goldberg Well, Now Hamas Has Done It 3:28 AM ET
-*   James Fallows Gangnam Style's Broadway Roots 12:40 AM ET
-*   Robert Wright The Incoherence of a Drone Strike Advocate Nov 14, 2012
-*   Ta-Nehisi Coates About Last Night Nov 14, 2012
+*   Robert Wright The Incoherence of a Drone-Strike Advocate Nov 14, 2012
 *   Clive Crook Obama and the Fiscal Cliff Nov 14, 2012
-*   Garance Franke-Ruta A New First for Women Senators: Bathroom Lines Nov 14, 2012
 *   Alexis C. Madrigal Turning Gadget Lust Into Energy Efficiency Nov 14, 2012
 *   Derek Thompson The End of the Pledge: How Democrats Can Finally… Nov 13, 2012
 *   Steve Clemons Ed Gillespie's Absurd Bluster Nov 6, 2012
 
-The Biggest Story in Photos Hurricane Sandy: The Long Recovery Nov 14, 2012 Video Dieter Rams Reflects on His Principles of Good Design Eames Furniture Gestalten TV: Tessa Farmer Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Polygamists in 'The Rock' Nov 15, 2012 Video Dieter Rams Reflects on His Principles of Good Design Eames Furniture Gestalten TV: Tessa Farmer Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -241,69 +241,69 @@ Ron Paul's Last Speech to Congress: 30+ Strangely Ordered Questions
 
 2
 
-Venice Under Water
+Polygamists in 'The Rock'
 
 3
 
-What High School Taught Millennials About the War on Terrorism
+Republicans Want 'Stuff' Too
 
 4
 
-Hurricane Sandy: After Landfall
+Venice Under Water
 
 5
 
-The Wisdom of Paula Broadwell
+A Single, Severed Cable Cut Contact Between Russia and Its Satellites
 
 6
 
-Noam Chomsky on Where Artificial Intelligence Went Wrong
+When Is Ejaculation 'Premature,' and When Should a Penis Be Made Numb?
 
 7
 
-Military Strikes Go Viral: Israel Is Live-Tweeting Its Own Offensive Into Gaza
+And, Voila, Something That Will Finally Stop Your Crazy Uncle From Sending You More Cracked Forwards
 
 8
 
-The Gaza Invasion: Will It Destroy Israel's Relationship With Egypt?
+Hurricane Sandy: After Landfall
 
 9
 
-Hurricane Sandy: The Long Recovery
+Law, Science, and the Coming Brawl Over Marijuana
 
 10
 
-Syria in Ruins
+What Has Movement Conservatism Accomplished in the Last 15 Years?
 
 ATLANTIC MEDIA Atlantic Wire
 
-*   Aurora Shooting Suspect Hospitalized After Hurting Himself in Jail
-*   Israel's Offensive in Gaza Has 'Opened the Gates of Hell'
-*   Chinese Election Memes Aren't as Funny as American Election Memes
+*   Mitt Romney Is the Skinny Rush Limbaugh
+*   John McCain Was Too Busy Complaining About Benghazi to Attend a Senate Hearing on Benghazi
+*   Louise Erdrich Nabs National Book Award. Lawrence Wright's Scientology History Is Coming
 
 **More from Atlantic Wire**
 
 Atlantic Cities
 
-*   App of the Day: A Global Map of Old Signs
-*   Check Out This Food Atlas Created by 'Guerrilla Cartographers'
-*   High-Fashion Bags Inspired by Third World Filth
+*   How Hurricanes Impact Unemployment, in One Chart
+*   Here's How to Get All Your Timid Friends on Bikes
+*   How to Balance People and Nature on the Galapagos
 
 **More from Atlantic Cities**
 
 Quartz
 
-*   Leadership transition disheartens young Chinese, or at least the few paying attention
-*   The eurozone is officially back in recession
-*   China’s new leaders are conservative hardliners: “Reforms will occur slowly” and other realities
+*   BP pays a record criminal fine to put the Gulf oil spill behind it
+*   A rising tide of American oil could lift all the world’s ships
+*   The world’s richest college dropout urges US colleges to stop dropouts
 
 **More from Quartz**
 
 National Journal
 
-*   Petraeus to Testify Before Congress on Libya Thursday, Friday
-*   The Age of Acceptable Assassination
-*   No Honeymoon Period Ahead for Obama
+*   Today's Influence Ads: Different Groups, Same Message—Don't Cut Spending
+*   Kaine Taps Campaign Manager as Chief of Staff
+*   BP Accepts $4.5B Spill Settlement
 
 **More from National Journal**
 
