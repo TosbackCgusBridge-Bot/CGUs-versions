@@ -267,24 +267,24 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Thomas Sowell: Romney  another nice loser Published 11/14/2012 at 12:00 a.m. 142 comments
+*   Thomas Sowell: Romney  another nice loser Published 11/14/2012 at 12:00 a.m. 150 comments
+*   Two Redding restaurants close doors. Fat Boy's to cater. Tortuga Bay Grill gone Published 11/14/2012 at 11:16 p.m. 33 comments
+*   UPDATED: R&R Quality Meats' new seafood market opens Friday in downtown Redding Updated 11/14/2012 at 9:57 p.m. 24 comments
 *   UPDATE: Father of two children shot Monday pleads not guilty to child abuse, other charges Updated 11/14/2012 at 5:05 p.m. 33 comments
-*   Ryan: Shocked at loss, Obama won fair and square Published 11/14/2012 at 4:00 a.m. 79 comments
-*   California to debut landmark cap-and-trade system Published 11/14/2012 at 8:51 a.m. 103 comments
-*   General No. 2 caught in scandal Published 11/13/2012 at 10:57 p.m. 56 comments
+*   California to debut landmark cap-and-trade system Published 11/14/2012 at 8:51 a.m. 107 comments
 
-Photo Galleries Nello's Place AAUW Tour Pierson home Veterans Day Parade
+Photo Galleries Nello's Place Veterans Day Parade AAUW Tour Pierson home
 
+*   Thomas Sowell: Romney  another nice loser Published 11/14/2012 at 12:00 a.m. 150 comments
+*   California to debut landmark cap-and-trade system Published 11/14/2012 at 8:51 a.m. 107 comments
 *   RedBlueAmerica: What does Obama's re-election mean? Published 11/12/2012 at 12:00 a.m. 178 comments
-*   Thomas Sowell: Romney  another nice loser Published 11/14/2012 at 12:00 a.m. 142 comments
-*   California to debut landmark cap-and-trade system Published 11/14/2012 at 8:51 a.m. 103 comments
-*   Trent Amen: As a business owner, I'm baffled by election result Published 11/11/2012 at 12:00 a.m. 144 comments
 *   Petraeus investigation now includes General John Allen Published 11/13/2012 at 7:48 a.m. 83 comments
+*   Ryan: Shocked at loss, Obama won fair and square Published 11/14/2012 at 4:00 a.m. 82 comments
 
 *   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
 *   Driver, 85, crashes into Redding garage Published 11/12/2012 at 12:42 p.m. 34 comments
+*   Redding car dealer Frank Yannello dies at 81 Published 11/12/2012 at 11:41 p.m. 7 comments
 *   Kentucky Fried Chicken franchise owner closes 29 stores, seven in north state Published 11/12/2012 at 11:41 p.m. 47 comments
-*   Wild horse, burro adoption falls short. economic factors leave trail of uncertainty Published 11/4/2012 at 6:52 p.m. 11 comments
 *   Two dead from wild mushrooms served at Sacramento-area care facility Published 11/11/2012 at 8:54 a.m. 32 comments
 
 Weather
@@ -293,25 +293,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 41° Fair Wind: N 4mph Today 69° 45° Thu 05:00 PM Mostly Clear Temp: 54° Fri 05:00 AM Mostly Cloudy Showers Temp: 45° Fri 05:00 PM Mostly Cloudy Showers Temp: 51°
-
-Feels Like: 54°
-
-Humidity: 61%
-
-Precip: 19%
+Currently 56° Fair Wind: S 4mph Today 69° 45° Thu 11:00 PM Mostly Cloudy Showers Temp: 45° Fri 11:00 AM Mostly Cloudy Showers Temp: 57° Fri 11:00 PM Mostly Cloudy Showers Temp: 50°
 
 Feels Like: 44°
 
-Humidity: 90%
+Humidity: 76%
 
-Precip: 58%
+Precip: 25%
 
-Feels Like: 51°
+Feels Like: 57°
 
-Humidity: 83%
+Humidity: 64%
 
-Precip: 78%
+Precip: 89%
+
+Feels Like: 50°
+
+Humidity: 89%
+
+Precip: 91%
 
 Western Skies 11/12/12  
 7:18 p.m.  
