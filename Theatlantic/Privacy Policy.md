@@ -1,56 +1,56 @@
 Skip Navigation
 
-*   Inside Sinai's Torture Camps
-*   A Cave Ranch: A Space for Polygamy
-*   Live Coverage of the Washington Ideas Forum
+*   Cheer Up, America! Things Aren't So Bad.
+*   'The Rock': A Cave Community for Polygamy
+*   Notes on The Atlantic's New Home Page
 *   Sponsor Content Infographic: Using Data to Keep the Peace
 
 *   Politics
     *   Top Stories
-    *   Marco Rubio Reflects on His Party's Immigration Rhetoric
-    *   Ron Paul's Last Speech on the House Floor
-    *   What Has Movement Conservatism Accomplished in the Last 15 Years?
+    *   Rubio Wants to Revamp GOP Immigration Rhetoric
+    *   Ron Paul's Last Speech in the House
+    *   What Has the Right Done for You Lately?
+    *   Newt Gingrich, Paleoconservative
     *   David Rubenstein on the 'Panda Sex' Principle of Politics
     *   Could a Sex Scandal Become a Story About Intelligence Failures?
-    *   Norquist at a Loss Over Democratic Victory, But Will Continue Fight Over Taxes
 *   Business
     *   Top Stories
     *   Zara's Big Idea
     *   No, We're Not the Next Saudi Arabia
     *   What Is Spotify Worth?
+    *   Mitt Romney's America: Why Makers, 'Gifts', and Takers Is a Losing Vision
+    *   Cheer Up, America! The Economy (and the Country) Is Much Better Off Than You Think
     *   The Most Important Tax Break Is the One That Nobody Talks About
-    *   Sheila Bair Says We're Headed for Another Crisis
-    *   Sorry, Tax Wonks, Obama Adviser Says: Capping Deductions Isn't Going to Do It
 *   Tech
     *   Top Stories
     *   Ken Burns: Dust Bowl the Greatest Man-Made Eco Disaster in U.S. History
     *   Cosmic Dawn: Astronomy's Ancient Quest to Find the Universe's First Stars
     *   Something to Finally Stop Your Crazy Uncle From Sending Those Forwards
-    *   A Single, Severed Cable Cut Contact Between Russia and Its Satellites
-    *   3 Viable Paths for Fixing Climate in Obama's Second Term
-    *   The Wheel of Karma, Microsoft Division
+    *   When the Nerds Go Marching In
+    *   The Neanderthal Defense Committee Swings Into Action
+    *   Don't Call It a Redesign
 *   National
     *   Top Stories
-    *   World's Richest College Dropout Says Stop Dropouts
+    *   Meet 'Justice Holdfast'
+    *   Bill Gates Says Stay in School
     *   The 50-Year Farm Bill
-    *   Washington Ideas Forum: Live Blog
-    *   Live Coverage of the Washington Ideas Forum, Day I
-    *   Photos: Wednesday Afternoon at the Washington Ideas Forum
-    *   The Wisdom of Paula Broadwell
+    *   Photos: Thursday Morning at the Washington Ideas Forum
+    *   Our College Crisis: A PowerPoint Presentation by Bill Gates
+    *   Live Coverage of the Washington Ideas Forum, Day II
 *   Global
     *   Top Stories
     *   The Gaza Invasion: Will It Destroy Israel's Relationship With Egypt?
     *   China's Power Transition: Here Are 3 Outcomes You Can Expect
     *   Does the Israel-Hamas Internet War Violate Twitter's Terms of Service?
-    *   A Coded Rant About China's Government Goes Viral
-    *   China's Power Transition: Forces of Liberalization >. Conservative Ideology
-    *   How to Say Xi JINping? Think Bobby JINdal
+    *   China's Power Transition: Massive Challenges for a Massive Economy
+    *   The Gaza Conflict Comes to Tel Aviv
+    *   China's Answer to 'The Onion'
 *   Health
     *   Top Stories
     *   Live From the Inside: A Radio Show Run by Psychiatric Patients
     *   For Sex, a Proper Duration
-    *   Flowers on the Psych Ward
     *   The Best Doctors in the Universe
+    *   End-of-Life Care Should Be Universally Provided and Need-Based
     *   The Pedestrian Is a Fragile Species
     *   Study: We're Less Likely to Recognize Symptoms of Depression in Men
 *   Sexes
@@ -58,17 +58,17 @@ Skip Navigation
     *   Confessions of a Rabbi Who Can't Spend Enough Time With His Family
     *   Why Women Don't Take Risks With Their Money
     *   Same-Sex Marriage Opponents Find a New Fight
+    *   Why Women Are Too Tall and Men Are Too Short
     *   The Reality of Life After 'Top Chef': Dream Jobs Are Still Jobs
     *   The Strange History and Uncertain Future of Sadie Hawkins Day
-    *   Why Do Some Feminists Get Uneasy When Women Make Progress?
 *   Entertainment
     *   Top Stories
-    *   The Best MVP Race This Century Gets Decided Today
-    *   Keats's Porridge, Ginsberg's Borscht: Poets' Recipes
-    *   'Halo 4' Gets It All Wrong, Except for the Gameplay
-    *   Exactly Who Is Going to Play Nintendo's Sequel to the Wii?
-    *   The Next Frontier for Touring Musicians: Living Rooms?
-    *   Ecofont to the Rescue: 8 Typefaces Designed to Serve a Greater Purpose
+    *   The Next Frontier for Live Music: Living Rooms?
+    *   Exactly Who Will Play Nintendo's Sequel to the Wii?
+    *   Ecofont to the Rescue: Fonts With a Greater Purpose
+    *   At Its Core, the 'Twilight' Saga Is a Story About \_\_\_\_\_\_\_\_
+    *   Baseball's Most Fascinating MVP Race This Century Gets Decided Today
+    *   Gangnam Style's Broadway Roots
 *   Magazine
     *   In This Month's Issue
     *   Our 2012 Brave Thinkers List
@@ -88,7 +88,7 @@ Skip Navigation
 *   Video
 *   Photo
 *   Newsletters
-*   The Most Important Tax Break Is the One That Nobody Talks AboutJames Kwak
+*   When the Nerds Go Marching InAlexis C. Madrigal
 
 Privacy Policy
 
@@ -196,14 +196,14 @@ Washington, DC 20037
 Special Report The Atlantic Washington Ideas Forum  
 Each year _The Atlantic_ brings together influential figures from the worlds of politics, business, and academia. Read more › Writers
 
-*   James Fallows David Rubenstein on the 'Panda Sex' Principle of… 1:44 PM ET
-*   Garance Franke-Ruta Norquist at a Loss Over Democratic Victory, But… 1:30 PM ET
-*   Ta-Nehisi Coates Republicans Want 'Stuff' Too 11:00 AM ET
-*   Jeffrey Goldberg Well, Now Hamas Has Done It 3:28 AM ET
+*   Alexis C. Madrigal When the Nerds Go Marching In 7:00 AM ET
+*   James Fallows The Neanderthal Defense Committee Swings Into… 12:18 AM ET
+*   Derek Thompson Mitt Romney's America: Why Makers, 'Gifts', and… Nov 15, 2012
+*   Garance Franke-Ruta Newt Gingrich, Paleoconservative Nov 15, 2012
+*   Ta-Nehisi Coates Republicans Want 'Stuff' Too Nov 15, 2012
+*   Jeffrey Goldberg Well, Now Hamas Has Done It Nov 15, 2012
 *   Robert Wright The Incoherence of a Drone-Strike Advocate Nov 14, 2012
 *   Clive Crook Obama and the Fiscal Cliff Nov 14, 2012
-*   Alexis C. Madrigal Turning Gadget Lust Into Energy Efficiency Nov 14, 2012
-*   Derek Thompson The End of the Pledge: How Democrats Can Finally… Nov 13, 2012
 *   Steve Clemons Ed Gillespie's Absurd Bluster Nov 6, 2012
 
 The Biggest Story in Photos Polygamists in 'The Rock' Nov 15, 2012 Video Dieter Rams Reflects on His Principles of Good Design Eames Furniture Gestalten TV: Tessa Farmer Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
@@ -237,31 +237,31 @@ Most Popular
 
 1
 
-Ron Paul's Last Speech to Congress: 30+ Strangely Ordered Questions
+The Most Important Tax Break Is the One That Nobody Talks About
 
 2
 
-Polygamists in 'The Rock'
+Venice Under Water
 
 3
 
-Republicans Want 'Stuff' Too
+Polygamists in 'The Rock'
 
 4
 
-Venice Under Water
+Ron Paul's Last Speech to Congress: 30+ Strangely Ordered Questions
 
 5
 
-A Single, Severed Cable Cut Contact Between Russia and Its Satellites
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 6
 
-When Is Ejaculation 'Premature,' and When Should a Penis Be Made Numb?
+Syria in Ruins
 
 7
 
-And, Voila, Something That Will Finally Stop Your Crazy Uncle From Sending You More Cracked Forwards
+The Long Story of U.S. Debt, From 1790 to 2011, in 1 Little Chart
 
 8
 
@@ -269,41 +269,41 @@ Hurricane Sandy: After Landfall
 
 9
 
-Law, Science, and the Coming Brawl Over Marijuana
+Diwali: The Festival of Lights
 
 10
 
-What Has Movement Conservatism Accomplished in the Last 15 Years?
+Study: We're Less Likely to Recognize Symptoms of Depression in Men
 
 ATLANTIC MEDIA Atlantic Wire
 
-*   Mitt Romney Is the Skinny Rush Limbaugh
-*   John McCain Was Too Busy Complaining About Benghazi to Attend a Senate Hearing on Benghazi
-*   Louise Erdrich Nabs National Book Award. Lawrence Wright's Scientology History Is Coming
+*   Is Today the Day the Twinkie Dies?
+*   Israel and Hamas Continue Shooting as Truce Attempt Fails
+*   What Life Is Like During Wartime in Israel
 
 **More from Atlantic Wire**
 
 Atlantic Cities
 
-*   How Hurricanes Impact Unemployment, in One Chart
-*   Here's How to Get All Your Timid Friends on Bikes
-*   How to Balance People and Nature on the Galapagos
+*   Dispute of the Day: How Many Rocks Are Thrown at D.C. Buses?
+*   Husbands Can No Longer Rape Wives in the Solomon Islands: This Week in Bans
+*   Watch This Crazy, Creepy Sci-Fi Video Made in an Abandoned House
 
 **More from Atlantic Cities**
 
 Quartz
 
-*   BP pays a record criminal fine to put the Gulf oil spill behind it
-*   A rising tide of American oil could lift all the world’s ships
-*   The world’s richest college dropout urges US colleges to stop dropouts
+*   It pays for companies to do the right thing. Even Adam Smith would agree
+*   Move over, Greece. it’s France’s turn to be Europe’s disaster poster child
+*   Burying bad news: China banks’ bad debts keep rising, regulator says on day country gets new leaders
 
 **More from Quartz**
 
 National Journal
 
-*   Today's Influence Ads: Different Groups, Same Message—Don't Cut Spending
-*   Kaine Taps Campaign Manager as Chief of Staff
-*   BP Accepts $4.5B Spill Settlement
+*   Susan Rice: Benghazi May Be Least of Her Problems
+*   The Case for Kicking the Pain Down the Road
+*   Resignation, Retirement, and Reelection: How the 112th Congress Compares With the 111th
 
 **More from National Journal**
 
