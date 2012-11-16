@@ -348,11 +348,11 @@ Advertisement Get Our App and Watch OWN in A Whole New Way The free OWN app allo
 *   ARE YOU AND YOUR FAMILY STRUGGLING AND NEED HELP?
 *   What's Your Biggest Makeup Problem?
 *   HAVE YOU BEEN INVOLVED IN AN AFFAIR?
+*   Family in Turmoil?
 *   What Do You Believe?
 *   Lifeclassers- have a question for Iyanla Vanzant?
 *   Where do you find beauty in the world?
 *   Do you need help with your marriage?
-*   Are you and your spouse on the brink of divorce?
 
 See more » Hot Topics
 
