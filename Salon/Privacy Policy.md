@@ -5,15 +5,15 @@ Register Sign in Welcome, Logout
 *   Hot Topics
     *   Hot Topics
         *   Barack Obama
-        *   David Petraeus
-        *   From the Wires
         *   2012 Elections
-        *   Mitt Romney
-        *   Israel
+        *   From the Wires
         *   Republicans
+        *   Israel
+        *   Mitt Romney
         *   Fiscal cliff
-        *   Books
-        *   Paula Broadwell
+        *   David Petraeus
+        *   Video
+        *   Palestine
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -194,29 +194,29 @@ About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service 
 
 Take Salon on the go – download our free app now
 
-Current Stories What's happening in Gaza?
+Current Stories Eleventh implicated in Fort Stewart militia plot
 
-News. UPDATE: Death toll rises on day two of Israel's full military operation, rocket fire heard near Tel Aviv
+News. Jeffrey Wayne Roberts Jr., a former Navy recruit, was charged with illegal gang activity among other crimes
 
-Pam Geller compares Jewish group to Nazi sympathizers
+Stop income inequality!
 
-Politics. A Jewish group opposes the Islamophobic activist's offensive new bus ads and gets labeled "judenrat" in return
+Politics. Forget the "fiscal cliff." A new documentary, "Inequality for All," explores our country's gravest economic crisis
 
-"Whitney": There's a decent show in there somewhere
+Pick of the week: The case that unlocked the Catholic scandal
 
-Entertainment. The second season premiere repeats some of the show's worst mistakes after righting its course last year
+Entertainment. Pick of the week: Alex Gibney's "Mea Maxima Culpa" follows the scandal from one Wisconsin school to the pope's desk
 
-Nate Silver jumps into another election
+Bedsharing but friendzoned
 
-Life. With the election over, the stats whiz dives back into baseball. Can he have an influence on the AL MVP award?
+Life. My boyfriend's going to be sharing a bed with a woman but he swears nothing will happen
 
 Most Read
 
-*   Gallup is very upset at Nate Silver Andrew Leonard
-*   Is it game over for Grover Norquist? Alex Seitz-Wald
-*   Salon's Sexiest Men of 2012 Salon Staff
 *   The sore losers club Steve Kornacki
-*   The price of Republican hubris Steve Kornacki
+*   David Simon: Media's sex obsession is dangerous, destructive David Simon
+*   Is it game over for Grover Norquist? Alex Seitz-Wald
+*   Georgia GOPers hold meeting over Obama mind-control conspiracy Jillian Rayfield
+*   Salon's Sexiest Men of 2012 Salon Staff
 
 Voices
 
