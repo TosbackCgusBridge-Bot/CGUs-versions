@@ -1,35 +1,3 @@
-ideeli | Privacy Policy
-
-Invite Friends, Get $25
-
-*   *   #{user\_login}'s Account  
-    *   *   My Orders
-        *   Membership Info 1st Row
-    *   Sign out Sign out
-*   | My Favorites New! Click the to save your finds
-*   |   Credits: #{total\_credit}  
-    Store credit : #{store\_credit}  
-    Gift credit : #{gift\_credit}  
-    Promotional credit : #{promo\_credit}  
-    Tell a Friend - **Get a $25 credit**  
-    for each friend who buys.  
-    **Invite now**
-*    |    Help
-*   #{cart\_items\_count} CART   
-
-welcome   login | Help
-
-  
-   
-  
-hide
-
-Sorry, your cart timer has expired. The items in your cart are no longer reserved. You may re-add your items if they're still available.
-
-View Cart
-
- 
-
 ideeli is concerned about your privacy and your experience using our service. This privacy policy describes how we gather, store, and use information about you. This policy applies to the ideeli Sales, the main ideeli website (www.ideeli.com), and all other sites that end in ideeli.com. If you have any questions or concerns, please contact us at support@ideeli.com.
 
 Please note that you may link through the ideeli website to other third party websites. Such sites are not controlled by ideeli, and this privacy policy does not apply to these third party sites. You should review the privacy policy of any website you visit online.
@@ -85,24 +53,3 @@ Privacy policy updates
 We may update this privacy policy from time to time and without prior notice to you. Whenever we make a change, we will post the updated policy on this site and we encourage you to check our policy periodically.
 
 Last Updated February 6, 2012
-
-  
-Follow us on Follow @ideeli   Help  |  Contact Us  |  About Us  |  Careers  |  Privacy Policy  |  In The News  |  FAQ |  Return Policy  |  Gift Cards  
-© 2006-2012 ideeli Inc. IDEELI, IDEELACCESS and the IDEELI LOGO are trademarks of ideeli Inc.        
-Log out of Facebook  
-ideeli does not accept returns on this item.  
-Please see the full return policy in the FAQ for details.
-
-You may return this item for up to    
-from the day the item is shipped from ideeli. Receive store credit and return for free, or receive a refund in your original form of payment, minus a return shipping charge. Please see the full return policy in the FAQ for details.
-
-You may return this item until January 15, 2012. Receive store credit and return for free, or receive a refund in your original form of payment, minus a return shipping charge. Please see our full return policy in the FAQ for details.
-
-Your cart will expire in two minutes. Once your cart expires, your items will no longer be reserved. Check out now to keep your finds! BECOME A MEMBERUP TO 80% SAVINGS ON FASHION, HOME, BEAUTY AND MOREMEMBERSHIP IS FREE, SIGNING UP IS EASY!
-
-*   Join ideeli
-*   By clicking "Join ideeli" or "Join With Facebook", you are agreeing to the Terms and Conditions for ideeli membership.
-
-OR JOIN IDEELI USING FACEBOOK
-
-Join with Facebook Already a member? Login
