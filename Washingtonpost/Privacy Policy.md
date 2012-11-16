@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Rubio appeals to GOP common sense'...**  
+    *   **Shorthand**  
         Election 2012 | Natalie Jennings
     
-    *   **John McCain’s Benghazi sideshow**  
+    *   **Romney analyzes the election results**  
         The Fact Checker | Glenn Kessler
     
-    *   **The millions of reasons Pelosi...**  
-        She The People | Melinda Henneberger
+    *   **Irish abortion debate after woman's...**  
+        She The People | Mary C. Curtis
     
-    *   **Ron Paul's most memorable moments...**  
-        The Fix | Sean Sullivan
+    *   **The Republican Party's leadership...**  
+        The Fix | Aaron Blake
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **The War on Thanksgiving**  
+    *   **Time travel, with Paula Broadwell**  
         ComPost | Alexandra Petri
     
-    *   **Obama must preserve the payroll...**  
-        The Plum Line | Jamelle Bouie
+    *   **Happy Hour Roundup**  
+        The Plum Line | Jonathan Bernstein
     
-    *   **Don’t forget about Holly Petraeus**  
-        PostPartisan | Jonathan Capehart
+    *   **Government by spite (or worse)**  
+        PostPartisan | Jonathan Bernstein
     
-    *   **Egypt shows its colors**  
+    *   **McConnell to president: Lead, already!**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **AccuWeather celebrates 50-year...**  
-        Capital Weather Gang | Jason Samenow
+    *   **D.C area forecast: Ending the week...**  
+        Capital Weather Gang | A. Camden Walker
     
-    *   **Abbreviated restaurant names, in...**  
-        Going Out Gurus | Alex Baldinger
+    *   **‘Twilight,’ ‘Anna Karenina’ and...**  
+        Going Out Gurus | Jess Righthand
     
-    *   **Four charged with murder after...**  
-        Crime Scene | David Marino-Nachison
+    *   **Photo of suspect in Va. library...**  
+        Crime Scene | Justin Jouvenal
     
-    *   **Poll: McDonnell still popular in...**  
-        Virginia Politics | Laura Vozzella
+    *   **Allen, Kaine advisers look back...**  
+        Virginia Politics | Ben Pershing
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -100,13 +100,13 @@
     *   **Jason Chimera signs with HC Chomutov...**  
         Capitals Insider | Katie Carrera
     
-    *   **Mark DeRosa: Nats needed Stephen...**  
+    *   **Ben Olsen explains his honesty...**  
         DC Sports Bog | Dan Steinberg
     
-    *   **Jim Haslett hopes one-on-one meetings...**  
+    *   **DeAngelo Hall on fine: Back up...**  
         The Insider | Mike Jones
     
-    *   **MVP awards announced tonight, all...**  
+    *   **Miguel Cabrera wins AL MVP, Buster...**  
         Nationals Journal | James Wagner
 *   National In National
     
@@ -123,8 +123,8 @@
     
     Blogs &. Columns
     
-    *   **Economists’ global warming**  
-        Ideas@Innovations | Dominic Basulto
+    *   **Aaron Sorkin releases details ...**  
+        Ideas@Innovations | Emi Kolawole
     
     *   **Nancy Pelosi and the question of...**  
         PostLeadership | Jena McGregor
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **Life under rockets: A young man's...**  
-        WorldViews | Max Fisher
-    
-    *   **China's party congress choreographed...**  
-        WorldViews | William Wan
-    
-    *   **Water: The next challenge for China's...**  
+    *   **Did Netanyahu just take back his...**  
         WorldViews | Olga Khazan
     
-    *   **Map: Gaza rocket reportedly hits...**  
+    *   **Can Twitter censor the Israel Defense...**  
+        WorldViews | Caitlin Dewey
+    
+    *   **What it sounds like in Tel Aviv...**  
+        WorldViews | Max Fisher
+    
+    *   **Life under rockets: A young man's...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -170,17 +170,17 @@
     
     Blogs &. Columns
     
-    *   **Petraeus probe**  
+    *   **What I would ask Petraeus**  
         The Color of Money | Michelle Singletary
     
-    *   **Music royalties fight continues...**  
+    *   **Senate fails to pass last-minute...**  
         Post Tech | Hayley Tsukayama
     
     *   **How business can bounce back from...**  
         Steven Pearlstein
     
-    *   **Prairie dogs kiss each other goodbye**  
-        Wonkblog | Sarah Kliff
+    *   **Wonkbook: Building a better health-care...**  
+        Wonkblog | Evan Soltas
 *   Tech In Technology
     
     *   Policy
@@ -194,7 +194,7 @@
     *   **Amazon: Kindle Fire 8.9 starts...**  
         Hayley Tsukayama
     
-    *   **Music royalties fight continues...**  
+    *   **Senate fails to pass last-minute...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Grace Young: ‘The code of Chinese...**  
-        All We Can Eat | Grace Young
+    *   **Fresh peanuts redirect a French...**  
+        All We Can Eat | Edward Schneider
     
-    *   **The perils of life without marginalia**  
-        The Style Blog | Ron Charles
+    *   **Gabby Douglas talks post-Olympic...**  
+        The Style Blog | Jessica Goldstein
     
-    *   **Parent volunteers: How do you manage...**  
-        On Parenting | Mari-Jane Williams
+    *   **How to let go of your teenager**  
+        On Parenting | Jennifer Kogan
     
-    *   **Hey, isn’t that . . . ?: Bill Gates**  
+    *   **Sandra Fluke, Garry Trudeau, Anita...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,14 +240,14 @@
     *   **Castleton announces 2013 season**  
         Classical Beat | Anne Midgette
     
-    *   **Remembering a time before ‘Twilight’**  
+    *   **The People’s Choice Award nominees**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **FX picks up third season of ‘American...**  
+    *   **‘X Factor’: Jennel Garcia, Lyric...**  
         The TV Column | Lisa de Moraes
     
-    *   **Cartoons and Cocktails:**  
-        Comic Riffs | Michael Cavna
+    *   **Batman’s ‘Death of the Family’...**  
+        Comic Riffs | David Betancourt
 *   Jobs In Jobs
 *   More
     
@@ -266,10 +266,11 @@
 
 In the News
 
-*   Obama’s ‘gifts’
-*   Susan Rice
-*   National Book Award winners
-*   Jill Kelley
+*   Israel
+*   GOP vs. Romney
+*   Stephanie Bongiovi
+*   ‘Breaking Dawn’
+*   McKayla Maroney
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -320,86 +321,80 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Ron Paul's farewell speech (VIDEO) McCain’s claims about Susan Rice’s comments on the Libya attack
+The story behind the photo: journalist's 11-month-old son killed in Gaza strikes GOP governors back away from Romney remarks
 
-Glenn Kessler 
+Karen Tumulty 
 
-Romney: Obama's 'gifts' to key demographics helped him win Romney: Obama’s gift giving led to loss
+Mitt Romney’s parting gifts
 
-Jerry Markon 
+Editorial Board 
 
-15 Palestinians, 3 Israelis dead as intense air assaults and rocket fire continue
+Republicans to Romney: Just go away Ron Paul's farewell speech (VIDEO) From the 47% to gifts': Mitt Romney's ugly vision of politics DC gets back full control of special education transportation
+
+Associated Press 
+
+Paula Broadwell’s drive and resilience hit obstacles
+
+Greg Jaffe 
+
+The Republicans still don’t get it
+
+Eugene Robinson 
+
+Partisan bias in U.S. House elections
+
+Rob Richie 
+
+McKayla Maroney’s D.C. fans are impressed
+
+Jessica Goldstein 
+
+Religious conservatives’ uphill battle
+
+Michael Gerson 
+
+Flasher runs away after Washington woman pulls out gun
+
+Associated Press 
+
+Brief truce quickly collapses as Egypt’s PM visits Gaza
 
 Karin Brulliard 
 
-Panetta orders Pentagon investigation of legal, ethical issues among military leaders
+Congressman admitted to affairs during divorce trial How People Magazine named Channing Tatum Sexiest Man Alive
 
-Craig Whitlock 
+Alexandra Petri 
 
-The inconvenient truths of 2012
+Flea-market Renoir reignites tensions between museum and art donor’s descendants
 
-E.J. Dionne Jr. 
+Ian Shapira 
 
-Obama’s message to GOP is, Ante up
+Middle East Twitter users mock Arab League's slow response to Gaza Ex-Mystics star Holdsclaw jailed in Atlant
 
-Ruth Marcus 
+Associated Press 
 
-White House, Congress scrutinize FBI’s inquiry into Petraeus
-
-Greg Miller 
-
-Will Supreme Court answer monks’ prayers?
-
-George F. Will 
-
-The millions of reasons Pelosi stayed Carolyn Hax: Good advice for a nephew’s fiancee
-
-Carolyn Hax 
-
-As Paula Broadwell holes up in D.C. house, camped-out media wait in patience
-
-Emily Wax 
-
-The GOP needs immigration reform Obama must kill the debt limit
-
-Matt Miller 
-
-The new boom: Shale gas fueling an American industrial revival
-
-Steven Mufson 
-
-Miami Marlins ‘trade’ shows Jeffrey Loria, MLB at their worst
-
-Thomas Boswell 
-
-In first post-election news conference, Obama lays out second term
-
-Scott Wilson 
-
-From the 47% to gifts': Mitt Romney's ugly vision of politics Don’t forget about Holly Petraeus
-
-Jonathan Capehart 
+Romney: Obama's 'gifts' to key demographics helped him win
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Ron Paul's farewell speech (VIDEO)
-    2.  John McCain's Benghazi sideshow
-    3.  Romney: Obama's 'gifts' to key demographics helped him win
-    4.  Romney: Obama's gift giving led to loss
-    5.  15 Palestinians, 3 Israelis dead as intense air assaults and rocket fire continue
+    1.  The story behind the photo: journalist's 11-month-old son killed in Gaza strikes
+    2.  GOP governors back away from Romney remarks
+    3.  Mitt Romney's parting gifts
+    4.  Republicans to Romney: Just go away
+    5.  Ron Paul's farewell speech (VIDEO)
 *   Top Videos
-    1.  Jon Bon Jovi's daughter recovering after heroin overdose
-    2.  FBI agent in Petraeus scandal revealed
-    3.  Sen. John McCain: 'One of the dumbest questions I've ever heard'
-    4.  President Obama's news conference in 3 minutes
-    5.  Petraeus to testify on Benghazi attack
+    1.  Sen. John McCain: 'One of the dumbest questions I've ever heard'
+    2.  McKayla Maroney's jaw-dropping vault
+    3.  Guy Fieri's restaurant skewered in New York Times review
+    4.  Ron Paul's farewell speech to Congress in 2 minutes
+    5.  Why Paula Broadwell left Harvard
 *   Top Galleries
-    1.  The David Petraeus scandal: Cast of characters
-    2.  Thanksgiving recipes from the White House
-    3.  Gaza Strip conflict escalates
-    4.  Day in photos
-    5.  Stakeout City: The hordes following those tainted by Washington scandal
+    1.  Republicans run from Romney
+    2.  The four-star movies of 2012
+    3.  The David Petraeus scandal: Cast of characters
+    4.  Thanksgiving recipes from the White House
+    5.  On the trail with Romney: Top shots
 
 Today's Paper
 
@@ -409,16 +404,13 @@ Today's Paper
 
 Live Discussions
 
-Tracee Hamilton
+Carolyn Hax
 
-Live Q&A, 11 a.m. ET
+Live Q&A, Friday, noon
 
-Chat with the sports columnist about local and national sports. And whatever else you want to talk about.
+Need advice on life, love or how to get through the holidays with your family? Ask advice guru Carolyn Hax.
 
-**2:00 PM** **Celebritology Live**   LIVE NOW
-
-*   Earlier Today
-    *   **11:00 AM** **Home Front: Renowned designer Barbara Barry joins the weekly chat** **11:00 AM** **Tracee Hamilton discusses local and national sports -- and whatever else you want to talk about.** **12:00 PM** **Parenting advice: Help for raising children of all ages** **12:00 PM** **Adrian Higgins on gardening in the fall**
+**11:00 AM** **Real Wheels Live** **11:00 AM** **The Fix Live** **12:00 PM** **Carolyn Hax Live: Advice columnist tackles your problems (Friday, November 16)** **12:00 PM** **Brad Hirschfield Live: General malfunction?** **1:00 PM** **The Latest in TV with Lisa de Moraes**
 
 **Weekly schedule, past shows**
 
