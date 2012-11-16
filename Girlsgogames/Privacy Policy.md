@@ -13,6 +13,8 @@
 *   High-Score Games
 *   Mobile Games
 
+*   Sara's Cooking Class
+
 *   Adventure Games
 *   Animal Games
 *   Cooking Games
@@ -29,7 +31,6 @@
 *   Puzzle Games
 *   Simulation Games
 *   Card &. Board
-*   Sara's Cooking Class
 
 Help Bookmark Us! Privacy Policy Games for girls »Privacy Policy
 
@@ -253,7 +254,7 @@ Members get more!
 
 More Info
 
-Ask your parents… …to check their email. SIGN UP—IT'S FREE! Details Saved You need permission... Username: What's this for? Your username will be visible to all users, so it's not a good idea to use your real name. It's better to make something up. Be creative! Someone's already using that name. Make up another, or try one of these: Your username has to be at least 3 characters long. Sorry, you can't use that. Pick something else. This username contains words that we do not allow, please choose another. Your Email: What's this for? Enter your email address here. (Remember, always check with a parent or guardian before giving out any personal information.) That email address isn't right. Try again. That email address seems familiar - could it be that you joined with us already? Sign in or request a new password. Your Password: Your password has to be at least 6 characters long. Birthdate: MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecemberDay12345678910111213141516171819202122232425262728293031Year20122011201020092008200720062005200420032002200120001999199819971996199519941993199219911990198919881987198619851984198319821981198019791978197719761975197419731972197119701969196819671966196519641963196219611960195919581957195619551954195319521951195019491948194719461945194419431942194119401939193819371936193519341933193219311930192919281927192619251924192319221921192019191918191719161915191419131912 The date you've entered is incorrect. Sorry! You are still too young to play on this site without permission. Parent's Email What's this for? Before you can use your account, we need permission from your parents. We'll send them an email asking them to confirm. That email address isn't right. Try again. By becoming a member of GirlsGoGames, you're accepting the rules and terms in our Privacy Policy and Terms of Use. SIGN ME UP! Welcome %1$s! Account Created We've saved your details and created your account. We've saved your details and created your account. Make it complete with your own unique avatar! We've made you a temporary account, and emailed your parents for permission. Important!
+Ask your parents… …to check their email. SIGN UP—IT'S FREE! Details Saved You need permission... Username: What's this for? Your username will be visible to all users, so it's not a good idea to use your real name. It's better to make something up. Be creative! Someone's already using that name. Make up another, or try one of these: Your username has to be at least 3 characters long. Sorry, you can't use that. Pick something else. This username contains words that we do not allow, please choose another. Your Email: What's this for? Enter your email address here. (Remember, always check with a parent or guardian before giving out any personal information.) That email address isn't right. Try again. That email address seems familiar - could it be that you joined with us already? Sign in or request a new password. Did you mean …{suggestion}? Did you mean … {suggestion} or {suggestion2}? Your Password: Your password has to be at least 6 characters long. Birthdate: MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecemberDay12345678910111213141516171819202122232425262728293031Year20122011201020092008200720062005200420032002200120001999199819971996199519941993199219911990198919881987198619851984198319821981198019791978197719761975197419731972197119701969196819671966196519641963196219611960195919581957195619551954195319521951195019491948194719461945194419431942194119401939193819371936193519341933193219311930192919281927192619251924192319221921192019191918191719161915191419131912 The date you've entered is incorrect. Sorry! You are still too young to play on this site without permission. Parent's Email What's this for? Before you can use your account, we need permission from your parents. We'll send them an email asking them to confirm. That email address isn't right. Try again. By becoming a member of GirlsGoGames, you're accepting the rules and terms in our Privacy Policy and Terms of Use. SIGN ME UP! Welcome %1$s! Account Created We've saved your details and created your account. We've saved your details and created your account. Make it complete with your own unique avatar! We've made you a temporary account, and emailed your parents for permission. Important!
 
 We're waiting for your parents to approve your account. Please make sure they read our email and give you permission.
 
