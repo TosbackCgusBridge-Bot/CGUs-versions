@@ -143,7 +143,7 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Workout Machine Resources
+*   Running Shoes Women Resources
 
   
 Stay in Touch With SparkPeople **15 Ways to Boost Your Calcium Intake**
@@ -152,11 +152,11 @@ You're careful about calories and fussy about fat. But how conscious are you reg
 
 Read More
 
-*   Keeping fruits and veggies fresh
-*   Pantry staples
-*   Do you have a goal after weight loss?
 *   Describe the last time you felt proud of yourself.
-*   Keeping fruits and veggies affordable?
+*   Pantry staples
+*   How do you fight boredom on the treadmill?
+*   Feeling Embarrassed at the Gym..
+*   What are your plans for Thanksgiving dinner?
 
 View Demo **Bridges on Balance Board**  
 A great leg and booty toner! **Herb Roasted Turkey**  
