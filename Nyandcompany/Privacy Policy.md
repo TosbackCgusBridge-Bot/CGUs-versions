@@ -5,7 +5,7 @@
 
 *   My Wish List
 
-Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale Extended 1 Day! Online Only! 40% off Everything. (Excludes Clearance, NY Deals and Gift Cards. Only combinable with our free shipping offer.) Plus, enjoy Free Shipping on any order over $100 – no code needed. \*Details **Customer Service**
+Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale 50% off Everything! (Excludes New Arrivals, NY Deals, 58andLEX Shoe Collection, Eva Collection, NY&C Beauty Collection, Clearance and Gift Cards). Plus, enjoy free shipping on any order over $125 – no code needed. \*Details **Customer Service**
 
 *   Ordering &. Shipping Info
     *   Where's My Order?
