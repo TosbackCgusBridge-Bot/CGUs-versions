@@ -687,17 +687,17 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¿Quiénes son?...
+*   Detrás de cámaras
     
-    Adivina qué eran antes de ser famosos  
+    Nos colamos en la fiesta del Verdugo.
     
-*   No intentes cambiar tu cuerpo
+*   Amigos con beneficios
     
-    ¡Adapta la moda a tu figura!  
+    Las ventajas y desventajas de tenerlos  
     
-*   Diosa de Alfombra
+*   Gaby Espectacular
     
-    Con la belleza angelical de Sonya Smith
+    ¡A su salud! Un cumple de sólo belleza
     
 *   Camino de Miss El Salvador
     
