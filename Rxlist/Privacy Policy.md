@@ -289,7 +289,6 @@ Health Solutions From Our Sponsors
   
 Featured Topics
 
-*   Fibro-Friendly Exercises
 *   Rheumatoid Arthritis
 *   Psoriasis Affecting Your Life?
 *   ADHD Medications
@@ -297,11 +296,11 @@ Featured Topics
 
 New &. Updated
 
-*   Avalide
-*   Plendil
-*   Retin-A
-*   Topamax
-*   Yervoy
+*   Caduet
+*   Crestor
+*   Fosrenol
+*   Lipitor
+*   Toprol XL
 *   Read the Latest Drug News
 
 Use it Now Find it Now Pill Identifier on RxList
