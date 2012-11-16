@@ -6,14 +6,14 @@ Register Sign in Welcome, Logout
     *   Hot Topics
         *   Barack Obama
         *   David Petraeus
-        *   2012 Elections
         *   From the Wires
-        *   Paula Broadwell
+        *   2012 Elections
         *   Mitt Romney
-        *   Fiscal cliff
         *   Israel
         *   Republicans
-        *   Sex
+        *   Fiscal cliff
+        *   Books
+        *   Paula Broadwell
 *   RSS
     *   RSS Feeds Main RSS feed
 *   Updates
@@ -194,29 +194,29 @@ About | Advertising | Contact | Corrections | Help | Privacy | Terms of Service 
 
 Take Salon on the go – download our free app now
 
-Current Stories GOP blames Corzine for MF Global collapse
+Current Stories What's happening in Gaza?
 
-News. The former senator, governor and Goldman Sachs executive was CEO of the financial firm when it collapsed
+News. UPDATE: Death toll rises on day two of Israel's full military operation, rocket fire heard near Tel Aviv
 
-Radical right joins in secession frenzy
+Pam Geller compares Jewish group to Nazi sympathizers
 
-Politics. White nationalists, neo-Nazis and Klan sympathizers are now casting their lot with disgruntled conservatives
+Politics. A Jewish group opposes the Islamophobic activist's offensive new bus ads and gets labeled "judenrat" in return
 
-Listen to "The Hobbit" soundtrack online
+"Whitney": There's a decent show in there somewhere
 
-Entertainment. The soundtrack is available online, a month before the movie's premiere
+Entertainment. The second season premiere repeats some of the show's worst mistakes after righting its course last year
 
-David Simon: Media's sex obsession is dangerous, destructive
+Nate Silver jumps into another election
 
-Life. David Petraeus' resignation is more proof that the media's prurient fixation on sex is hypocritical and inane
+Life. With the election over, the stats whiz dives back into baseball. Can he have an influence on the AL MVP award?
 
 Most Read
 
 *   Gallup is very upset at Nate Silver Andrew Leonard
 *   Is it game over for Grover Norquist? Alex Seitz-Wald
 *   Salon's Sexiest Men of 2012 Salon Staff
+*   The sore losers club Steve Kornacki
 *   The price of Republican hubris Steve Kornacki
-*   Salon's Sexiest Man of 2012: The interview Tracy Clark-Flory
 
 Voices
 
