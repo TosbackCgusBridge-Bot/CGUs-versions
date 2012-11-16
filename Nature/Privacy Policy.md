@@ -1,8 +1,8 @@
-*   www.nature.org
 *   About Us
 *   News &. Media
 *   Science
-*   Log In
+*   Hi, Log In or use your:
+*   Log Out
 *   My Nature Page
 *   English
     *   Español
