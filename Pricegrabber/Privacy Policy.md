@@ -15,6 +15,7 @@ My Account
     *   Toys R Us
     *   Webkinz
     *   Hsn
+    *   Leappad
     *   Counseling
     *   Kmart
     *   Walmart
@@ -35,12 +36,11 @@ My Account
     *   Contact
     *   Truck
     *   Costco
-    *   Leappad
-    *   T Mobile
-    *   Flowers
     *   North Face Jackets
     *   Pressure Cookers
     *   Ipod
+    *   T Mobile
+    *   Flowers
     *   Android Tablets
     *   Barnes And Noble
     *   Value City Furniture
@@ -84,8 +84,8 @@ Shop by Department
     *   Baby Travel Systems
     *   Boys Shoes
     *   Girls Shoes
-    *   Baby Swings &. Bouncers
     *   Playpens &. Playards
+    *   Baby Swings &. Bouncers
     *   See More...
 *   Books
 *   Cameras Shop Cameras
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1541 Local Deals
+*   1575 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
