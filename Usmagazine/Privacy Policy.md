@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Reese &. Jim's Day Date »
+Hot Pics! Minnie and the City »
 
-Top Stories1.  Brad, Angelina's Kids "Jump On Tables, Throw Food" at Pizza Parlor! »
-2.  Kristen Stewart Shows Skin in Sheer, Lace Jumpsuit at London Premiere »
-3.  Christina Aguilera Wears Pink Afro, Flaunts Cleavage on The Voice »
-4.  PICS: Sandra Bullock, Louis Hang With Pregnant Camila Alves and Kids »
-5.  Keira Knightley Poses Topless, Addresses Anorexia Rumors »
+Top Stories1.  PIC: "Happy" Drew Dazzles on First Red Carpet Post-Baby, Talks Diet »
+2.  Brad, Angelina's Kids "Jump On Tables, Throw Food" at Pizza Parlor! »
+3.  Reese Witherspoon Shows Off Post-Baby Bod on Lunch Date With Jim Toth »
+4.  Kristen Stewart Shows Skin in Sheer, Lace Jumpsuit at London Premiere »
+5.  Guy Fieri: Review of My Restaurant Was "Ridiculous," "Went Overboard" »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Atlanta Housewives Dirty Secrets
 
 Inside Us Weekly
 
-*   Style Kristen Stewart Changes Into "God Loves Ugly"
-*   Beauty Dakota Fanning's New Brunette 'Do: All the De
-*   Moms PICTURES: Model Anansa Sims Gives Birth to Ba
-*   Body Sharon Osbourne: I Lost 28 Pounds!  
-*   Entertainment Get Ke$ha and Pitbull's Ultimate Party Playli
+*   Style Chris Brown Lands Modeling Contract
+*   Beauty PICTURE: See Rosie Huntington-Whiteley Withou
+*   Moms FIRST PICTURE: Meet Tamera Mowry's Newborn So
+*   Body PIC: "Happy" Drew Dazzles on First Red Carpet  
+*   Entertainment 30 Rock: Liz Lemon Marrying Criss Chross in N
 
 *   US WEEKLY
 *   Celebrity News
