@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Xi Jinping Takes Over as China's Leader
-*   Southern Israel Hit by Rockets from Gaza
+*   Israel Intensifies Gaza Attacks
+*   Xi Jinping is China's New Leader
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
