@@ -174,6 +174,13 @@ Record Searchlight
 *   Cars
 *   Classified
 
+*   Winter Storm Watch
+    
+    IN EFFECT UNTIL NOV 16, 3:30 p.m.
+    
+    issued for Mountains Southwestern Shasta County to Northern Lake County
+    
+
 Privacy Policy Redding.com Privacy Policy
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
@@ -267,19 +274,19 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Thomas Sowell: Romney  another nice loser Published 11/14/2012 at 12:00 a.m. 150 comments
-*   Two Redding restaurants close doors. Fat Boy's to cater. Tortuga Bay Grill gone Published 11/14/2012 at 11:16 p.m. 33 comments
-*   UPDATED: R&R Quality Meats' new seafood market opens Friday in downtown Redding Updated 11/14/2012 at 9:57 p.m. 24 comments
-*   UPDATE: Father of two children shot Monday pleads not guilty to child abuse, other charges Updated 11/14/2012 at 5:05 p.m. 33 comments
-*   California to debut landmark cap-and-trade system Published 11/14/2012 at 8:51 a.m. 107 comments
+*   UPDATED: Arrest made in suspected 1997 McCloud murder Updated 11/15/2012 at 1:29 p.m. 29 comments
+*   Bill McPherson: Nation suffers for spurning God Published 11/15/2012 at 12:00 a.m. 137 comments
+*   Two Redding restaurants close doors. Fat Boy's to cater. Tortuga Bay Grill gone Published 11/14/2012 at 11:16 p.m. 48 comments
+*   CSU Chico suspends all Greek activities Published 11/15/2012 at 1:31 p.m. 39 comments
+*   UPDATED: Burney father pleads not guilty to child abuse. 2 Burney kids recovering after shotgun injuries Updated 11/15/2012 at 5:52 a.m. 42 comments
 
-Photo Galleries Nello's Place Veterans Day Parade AAUW Tour Pierson home
+Photo Galleries Nello's Place Fallis Around Town Artist Gwen Knaebel
 
-*   Thomas Sowell: Romney  another nice loser Published 11/14/2012 at 12:00 a.m. 150 comments
-*   California to debut landmark cap-and-trade system Published 11/14/2012 at 8:51 a.m. 107 comments
-*   RedBlueAmerica: What does Obama's re-election mean? Published 11/12/2012 at 12:00 a.m. 178 comments
+*   Thomas Sowell: Romney  another nice loser Published 11/14/2012 at 12:00 a.m. 154 comments
+*   Bill McPherson: Nation suffers for spurning God Published 11/15/2012 at 12:00 a.m. 137 comments
+*   California to debut landmark cap-and-trade system Published 11/14/2012 at 8:51 a.m. 109 comments
+*   Ryan: Shocked at loss, Obama won fair and square Published 11/14/2012 at 4:00 a.m. 83 comments
 *   Petraeus investigation now includes General John Allen Published 11/13/2012 at 7:48 a.m. 83 comments
-*   Ryan: Shocked at loss, Obama won fair and square Published 11/14/2012 at 4:00 a.m. 82 comments
 
 *   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
 *   Driver, 85, crashes into Redding garage Published 11/12/2012 at 12:42 p.m. 34 comments
@@ -293,25 +300,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 56° Fair Wind: S 4mph Today 69° 45° Thu 11:00 PM Mostly Cloudy Showers Temp: 45° Fri 11:00 AM Mostly Cloudy Showers Temp: 57° Fri 11:00 PM Mostly Cloudy Showers Temp: 50°
+Currently 48° Partly Cloudy Wind: NW 4mph Today 57° 46° Fri 04:00 PM Mostly Cloudy Showers Temp: 54° Sat 04:00 AM Mostly Cloudy Showers Temp: 49° Sat 04:00 PM Mostly Cloudy Showers Temp: 58°
 
-Feels Like: 44°
+Feels Like: 54°
 
-Humidity: 76%
+Humidity: 75%
 
-Precip: 25%
+Precip: 87%
 
-Feels Like: 57°
+Feels Like: 49°
 
-Humidity: 64%
+Humidity: 93%
 
 Precip: 89%
 
-Feels Like: 50°
+Feels Like: 58°
 
-Humidity: 89%
+Humidity: 77%
 
-Precip: 91%
+Precip: 89%
 
 Western Skies 11/12/12  
 7:18 p.m.  
@@ -327,18 +334,10 @@ tornado clouds? 8/28/12
 11:48 p.m.  
 More Weather » Calendar
 
-*   Thursday Nov 15
 *   Friday Nov 16
 *   Saturday Nov 17
+*   Sunday Nov 18
 *   More BROWSE Icon
-
-*   Little Explorers: Forest Animals Turtle Bay Exploration Park
-*   Stuff the Truck Thanksgiving Turkey Food Drive Taylor Motors 7 a.m.
-*   Local Weekday Bird Walk at Anderson River Park Anderson River Park 8 a.m.
-*   Little Movers and Shakers interactive class Redding Library 10 a.m.
-*   Thriving Thursdays Redding Library 4 p.m.
-
-More Events »
 
 *   Tehama Friends of NRA Dinner Rolling Hills Casino 6 p.m.
 *   The Fresh Beat Band Redding Civic Auditorium 7 p.m.
@@ -353,6 +352,14 @@ More Events »
 *   Lichen Walk at Whiskeytown Whiskeytown National Recreation Area 9 a.m.
 *   HOLIDAY CENTERPIECE WORKSHOP Wyntour Gardens 11 a.m.
 *   Science Saturday Turtle Bay Exploration Park 11 a.m.
+
+More Events »
+
+*   St. Joseph Altar Society Holiday Craft Bazaar and Bake Sale St. Joseph Elementary 8:30 a.m.
+*   Yarns at the Redding Library Redding Library 1 p.m.
+*   Rivercity Jazz Society, High School Jazz Concert Redding Elks Lodge 1 p.m.
+*   Siskiyou Ice Rink Public Skate Siskiyou Ice Rink 1:30 p.m.
+*   Love and Logic Basic Training Risen King Community Church 3 p.m.
 
 More Events »
 
