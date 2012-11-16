@@ -11,6 +11,7 @@ Food Gifts | Gourmet Sausage &. Cheese Food Gift Baskets | Hickory Farms Close x
     *   Military Gifts
     *   Gifts That Give Back
     *   New and Classic Gifts
+    *   Hickory Farms Exclusives
     *   Specials
     *   Business Gifts
 *   *   $25 &. Under
