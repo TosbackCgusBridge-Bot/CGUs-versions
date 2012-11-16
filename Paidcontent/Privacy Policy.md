@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Brightcove CEO slams Facebook, wants end to “wars” over platforms
+Israel and Twitter: Where does free speech end and violence begin?
 
 Stay on top of tech news in your inbox
 
