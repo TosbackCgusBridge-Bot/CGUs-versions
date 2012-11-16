@@ -1,3 +1,5 @@
+Invite Friends, Get $10
+
 *   Free Shipping
 *   Easy Returns
 
@@ -22,6 +24,15 @@ all Search
 *   bags &. more
 *   brands
 *   sale
+
+\*Details Shop: women | men | girls | boys 20% Off Skechers Shoes ×
+
+*   Add qualifying footwear to your shopping cart
+*   Enter promo code SCH20 at checkout to receive discount
+*   Discount will be deducted from your order after code is applied
+*   Promo code expires 11:59 p.m. CST November 18, 2012
+
+20% off Skechers shoes offer excludes Skechers Cali styles.
 
   CUSTOMER SERVICE
 
