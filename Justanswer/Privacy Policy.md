@@ -1,9 +1,4 @@
-*   Ask a Question
-*   Register
-*   Login
-*   Contact Us
-
-Skip to Navigation **JustAnswer** Ask a Question, Get an Answer ASAP! Home › Privacy &. Security Privacy &. Security
+Privacy &. Security
 
 Effective February 8, 2012
 
@@ -85,36 +80,3 @@ JustAnswer reserves the right to update this policy at any time without prior no
 If you have questions or suggestions regarding this Privacy Policy, please contact us by clicking HERE or mail us at P.O. Box 29045, San Francisco, CA 94129.
 
 NOTICE: Click here for important information about safe surfing.
-
-*   About Us
-*   How It Works
-*   The JustAnswer Promise
-*   Expert Quality
-*   Mission &. Values
-*   Privacy &. Security
-*   Terms of Service
-*   Affiliate Program
-*   News Room
-    *   Press Releases
-    *   Social Media
-    *   TV &. Radio
-*   Careers
-*   Become an Expert
-*   Expert FAQs
-*   Help
-
-JustAnswer Quick Facts
-
-*   100% verified Experts
-*   "A+" from Better Business Bureau
-*   100% satisfaction guaranteed
-*   Millions of satisfied users. 
-
-   
-
-*   Help
-*   Question list
-*   Become an Expert
-*   Expert FAQs
-
-© 2003-2012 JustAnswer LLC noscript:
