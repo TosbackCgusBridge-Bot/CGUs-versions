@@ -23,142 +23,121 @@ VIEW CART &. CHECKOUT
 *   Men
     
     *   Shirts &. Tops
-    *   Shortsleeves
-    *   Longsleeves
     *   Hoodies &. Sweatshirts
+    *   Longsleeves
+    *   Shortsleeves
     *   Polos
     *   Graphic T's
     *   Sleeveless &. Tanks
     *   All Men's Shirts &. Tops ►
     
-    *   Bottoms
-    *   Shorts
-    *   Pants
-    *   Leggings &. Tights
-    *   All Men's Bottoms ►
+    *   Underwear
+    *   Warm-Ups &. Jackets
+    *   Outerwear
     
     *   Footwear
     *   Running &. Training
-    *   Cleats
     *   Basketball Shoes
+    *   Cleats
     *   Trail &. Hiking
     *   Boots
     *   Slides &. Sandals
     *   All Men's Footwear ►
     
     *   Sports
-    *   Football
-    *   Running
-    *   Golf
     *   Hunting
     *   Basketball
+    *   Football
+    *   Golf
+    *   Running
     *   Soccer
     *   Tough Mudder
     *   All Men's Sports ►
     
-    *   Underwear
-    *   Underwear Bottoms
-    *   Undershirts
-    *   All Men's Underwear ►
-    
-    *   Outerwear
-    *   Jackets &. Vests
+    *   Bottoms
     *   Pants
-    *   Warm-Ups
-    *   All Men's Outerwear ►
+    *   Leggings &. Tights
+    *   Shorts
+    *   All Men's Bottoms ►
+    
+    *   Baselayer
+    *   Tops
+    *   Bottoms
+    *   All Men's Baselayer ►
     
     *   Accessories
+    *   Headwear
     *   Gloves
     *   Socks
-    *   Headwear
     *   Backpacks &. Bags
-    *   Sunglasses
+    *   Eyewear
     *   All Men's Accessories ►
     
-    *   Related Links
+    *   Featured
+    *   New Arrivals
+    *   ColdGear®
     *   Tottenham Hotspur
-    *   Charged Cotton®
     *   Tactical/Military
     *   Collegiate Fan Gear
     *   Extended Sizes
-    *   New Arrivals
     *   Best Sellers
-    
-    *   Temperature Guide ►
-    
-    *   Shop By Fit
-    *   Compression
-    *   Fitted
-    *   Regular
-    *   Loose
-    *   Fit Guide ►
     *   Shop All Men's ►FREE Standard Shipping. All Orders. No Minimum.
 *   Women
     
     *   Shirts &. Tops
-    *   Shortsleeves
-    *   Longsleeves
     *   Hoodies &. Sweatshirts
+    *   Longsleeves
+    *   Shortsleeves
     *   Graphic T's
     *   Sleeveless &. Tanks
     *   All Women's Tops ►
     
-    *   Bottoms
-    *   Shorts
-    *   Capris
-    *   Pants
-    *   Leggings &. Tights
-    *   All Women's Bottoms►
+    *   Sports Bras
+    *   Underwear
+    *   Warm-Ups &. Jackets
+    *   Outerwear
     
     *   Footwear
     *   Running &. Training
     *   Cleats
-    *   Slides &. Sandals
     *   All Women's Footwear ►
     
     *   Sports
     *   Training
-    *   Studio Fitness
+    *   Yoga/Studio
     *   Running
     *   Soccer
     *   Tough Mudder
     *   All Women's Sports ►
     
-    *   Underwear
-    *   Underwear Bottoms
-    *   Sports Bras
-    *   Armour Bra™
-    *   Women's Underwear ►
+    *   Bottoms
+    *   Pants
+    *   Leggings &. Tights
+    *   Capris
+    *   Shorts
+    *   All Women's Bottoms►
     
-    *   Outerwear
-    *   Jackets &. Vests
-    *   Warm-Ups
-    *   Women's Outerwear ►
+    *   Baselayer
+    *   Tops
+    *   Bottoms
+    *   All Women's Baselayer►
     
     *   Accessories
+    *   Headwear
     *   Gloves
     *   Socks
-    *   Headwear
     *   Backpacks &. Bags
-    *   Sunglasses
-    *   Women's Accessories ►
+    *   Eyewear
+    *   All Women's Accessories ►
     
-    *   Related Links
-    *   Charged Cotton®
-    *   UA Green
-    *   Collegiate Fan Gear
+    *   Featured
     *   New Arrivals
     *   Best Sellers
+    *   ColdGear®
+    *   HeatGear®
+    *   Storm
+    *   Collegiate Fan Gear
     *   Alternative Lengths
-    
-    *   Temperature Guide ►
-    
-    *   Shop By Fit
-    *   Compression
-    *   Fitted
-    *   Semi-Fitted
-    *   Loose
-    *   Fit Guide ►
     *   Shop All Women's ►FREE Standard Shipping. All Orders. No Minimum.
 *   Youth
     
@@ -167,6 +146,7 @@ VIEW CART &. CHECKOUT
     *   Shirts &. Tops
     *   Bottoms
     *   Footwear
+    *   Accessories
     *   All Boys►
     
     *   Little Boys  
@@ -195,6 +175,7 @@ VIEW CART &. CHECKOUT
     *   Shirts &. Tops
     *   Bottoms
     *   Footwear
+    *   Accessories
     *   All Girls►
     
     *   Little Girls  
@@ -271,14 +252,12 @@ VIEW CART &. CHECKOUT
     *   Girls'
     *   Footwear
     *   All Outlet
-*   UA Stories
-    *   UA Green
-    *   Power In Pink
-    *   UA Freedom
-    *   Give Back
-    *   Win Baltimore
-    *   Youth Movement
-    *   Tough Mudder
+*   HOLIDAY GIFT GUIDE
+    *   Gifts for Him
+    *   Gifts for Her
+    *   Gifts for Youth
+    *   Gift Cards
+    *   Gift Guide
 
 Free standard shipping  
       All Orders. No Minimum. email my cart page successemail my cart pageshare page successshare pagechange passwordreset passwordregister-completeforgot-password home / customer-service / security-and-privacy-policy SECURITY &. PRIVACY WHEN WAS THIS PRIVACY STATEMENT LAST UPDATED? Last revised: October 19, 2012 WHAT IS YOUR PRIVACY STATEMENT? **PRIVACY STATEMENT:**  
