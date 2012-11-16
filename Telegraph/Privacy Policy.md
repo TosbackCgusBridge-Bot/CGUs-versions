@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Thursday 15 November 2012
+Friday 16 November 2012
 
 *   Home
 *   News
@@ -142,13 +142,13 @@ For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-BBC newsroom in crisis? The Hour is back  
+Is this war number eight for Israel?  
 
-**Ben Lawrence** reviews the first episode of the second series of BBC drama The Hour.
+The new conflict in the Gaza Strip has caught the world by surprise, says **David Blair**
 
 Comments
 
-Petraeus and all the presidential men Paul Hayward: young lions taught lesson Lions XV: Greenwood v Our Readers China's love affair with England Advertisement
+Mark Webber takes on Tasmania The 10 best places to retire Launching the Telegraph Christmas appeal Paul Hayward: Society of Black Lawyers blast against FA is a huge own goal Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
@@ -159,10 +159,9 @@ Back to top
 Hot Topics
 
 *   BBC
-*   Jimmy Savile
-*   Syria
+*   Middle East
+*   Telegraph Christmas Appeal
 *   Nadine Dorries
-*   Weather
 *   Football
 *   Rugby Union
 *   Wonder Women
