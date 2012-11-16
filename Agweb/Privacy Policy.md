@@ -237,12 +237,7 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Learn How to Customize the News
-*   Feedlot Prospects Worrisome for U.S. Cattle Industry
-*   Variable Yields, Quality for Texas Cotton
-*   How Would You Describe Your 2012 Harvest Season?
-*   Managing Margins: Net Herd Replacement Costs
-*   California Dairy Farmer to Receive Leopold Conservation Award
+*   California Dairy Producer Groups Again Petition for Change in Whey Pricing Formula
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
