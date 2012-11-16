@@ -212,105 +212,105 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Chicago reporter congratulates Obama on reelection in presserThe Hill’s 2012 New Members GuideHouse Republicans elect top members Gov. Christie’s Obama problem Allen West's campaign blasts rival for attending new member events in DC
+Chicago reporter congratulates Obama on reelection in presserMurray: Can't guarantee 2014 budgetHouse Republicans elect top members Gov. Christie’s Obama problem Republicans say they will not back down
 
 Emailed
 
-Petraeus: Lessons learnedThe Hill’s 2012 New Members GuideIRS: No AMT patch would cause chaotic filing seasonTax fight sneaks up on K StreetGoogle: Surveillance 'is on the rise'
+Petraeus: Lessons learnedMitt Romney attributes loss to Obama 'gifts' to his base votersSenate votes down Lieberman, Collins Cybersecurity Act a second timeSenate Republicans’ election lesson is to work on fielding better candidatesRepublicans say they will not back down
 
 Discussed
 
-Dear Matt Drudge: Stop the race storiesGallup: 2012 election had the largest gender gap in recorded historyPetition for Texas secession hits White House response markChicago reporter congratulates Obama on reelection in presserSecond term gives Obama chance to adopt new tone with lawmakers
+Dear Matt Drudge: Stop the race storiesGallup: 2012 election had the largest gender gap in recorded historyPetition for Texas secession hits White House response markWar opens inside GOP over immigrationChicago reporter congratulates Obama on reelection in presser
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   McCain: Rice needs to ‘bear responsibility’ for handling of Benghazi
-*   MORNING READ
-*   Mitt Romney attributes loss to Obama 'gifts' to his base voters
+*   Sen. Ayotte: Rice should be judged on her answers if nominated for secretary of State
+*   Sen. Inouye suffers minor head injury
+*   Obama tours Hurricane Sandy damage in NY
 
   
 More Briefing Room » Congress Blog
 
-*   Shades of gray in our energy policy
-*   Five reasons why Congress should pass Cybersecurity Act of 2012
-*   Keystone XL pipeline deserves a second look
+*   Confronting the problem of bullying head on
+*   Both parties created deficit. Now they must fix it
+*   Congress has more questions for FDA on meningitis outbreak
 
   
 More Congress Blog » Pundits Blog
 
+*   Susan Rice: Qualified to be secretary of State
+*   Infidelity can threaten national security
 *   The seasons of Washington
-*   The GOP needs an immigration policy
-*   Forward-thinking advice for the GOP
 
   
 More Pundits Blog » Twitter Room
 
+*   Study: Only 9 countries own their names on Twitter
 *   Sen. Grassley hits voting milestone
 *   Sen. Paul jokes he and Ron Paul ‘hijack the House’
-*   Israeli military puts Hamas on notice via Twitter
 
   
 More Twitter Room » Hillicon Valley
 
+*   Senate Judiciary Committee to vote on email privacy bill
+*   News bites: Israel live-tweets assault
 *   OVERNIGHT TECH: Failure of cybersecurity bill opens door for White House action
-*   Senate votes down Cybersecurity Act a second time
-*   Walden to stay on as chairman of Technology subcommittee
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   News bites: Carbon tax chic, Feds suspend JP Morgan, and more
-*   BP nearing criminal settlement with DOJ over 2010 Gulf spill
-*   OVERNIGHT ENERGY: Senate delves into Sandy's climate link
+*   BP, US reach $4.5B settlement for Gulf spill
+*   GOP House energy leader does not expect to change biofuel rule
+*   Sen. Murkowski floats five-year phaseout of wind credit
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   OVERNIGHT CAMPAIGN: Campaign committees get leaders
-*   RNC chairman calls for full recount in West-Murphy race
-*   Sen. Bennet has no deadline for decision on DSCC job
+*   Mark Levin endorses Landry in final member-on-member House race
+*   Warren pledges to lead filibuster reform
+*   Matheson 'won't be voting' for Pelosi as leader
 
   
 More Ballot Box » On The Money
 
-*   News bites: Seeing green
-*   OVERNIGHT MONEY: Fiscal cliff dominating talks on Capitol Hill
-*   GOP senators blocking Treasury nominee over interest rate scandal
+*   Bernanke: Upward housing market still faces challenges
+*   Mortgage rates dip to historic lows
+*   Rep. Scalise elected RSC chairman
 
   
 More On The Money » Healthwatch
 
-*   Reps slam FDA at testy hearing on meningitis outbreak
-*   OVERNIGHT HEALTH: Approaching fiscal cliff
-*   Romney: 'Gifts' in Obama's healthcare law helped him win
+*   Rep. Gingrey: ‘Pointless’ to vote again on full ‘ObamaCare’ repeal
+*   Obama bioethics panel: Teach history of US-led STD experiments on Guatemalans
+*   CDC: Smoking bans skyrocket in large US cities
 
   
 More Healthwatch » Floor Action
 
-*   Senate passes resolution allowing donations in Capitol for victims of storm Sandy
-*   Reid promises he'll allow an open amendment process on Defense Authorization bill
-*   Grassley compares rushing vote on cybersecurity bill to 'ObamaCare'
+*   House sets up easy votes on Russia trade bill
+*   Warner, Coons introduce bill to make voting quicker, easier
+*   Dem proposes bill requiring early voting in all states
 
   
 More Floor Action » Transportation
 
-*   NTSB recommends mandating accident avoidance technology for autos
-*   Greens pressure Obama to veto airline emissions bill
-*   News bites: Rail restoration
+*   Ford CEO calls Obama business meeting 'constructive'
+*   LaHood to testify at House hearing about DC airport authority
+*   News bites: MD transportation money on empty
 
   
 More Transportation » DEFCON Hill
 
-*   Petraeus set to go before Intel committees on Benghazi attacks
-*   OVERNIGHT DEFENSE: Obama pulls no punches on Petraeus, Rice and Libya
-*   Air Force releases findings of sex abuse investigation
+*   Petraeus: CIA exit not tied to Libya
+*   Senators largely silent on Gen. Allen's absence in confirmation hearing
+*   McCain promises to attend Libya hearings after missing one
 
   
 More DEFCON Hill » Global Affairs
 
-*   Royce gets colleagues' support for leadership race on House Foreign Affairs panel
-*   US sides with Israel in Gaza strike
-*   Obama: No plans for one-on-one talks with Iran
+*   Clinton to testify on Benghazi attack
+*   Russia to 'react toughly' to approval of human rights bill
+*   Obama backs Israeli strikes against Hamas
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Rice a risky pick Brent Budowsky Petraeus: Lessons learned More Columnists »
