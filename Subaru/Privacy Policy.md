@@ -319,23 +319,24 @@ Log In to MySubaru | Help |
 *   Financial Tools
     
     *   Special Offers See all the national deals for every Subaru model.
-    *   Subaru Financial Programs Find more information on Subaru Motors Finance, Subaru Rewards Card, and Subaru Advantage Insurance.
+    *   Financing Options Helpful information on financing or leasing your new Subaru.
+    *   Trade-In Appraisal Get a quick look at how much your current vehicle is worth.
     
     *   Payment Calculator Estimate your monthly cost based on finance rate and trade-in.
     *   Guaranteed Trade-In Program Trading up? Get the most value for your old Subaru.
     
     *   More
     *   Overview
-    *   Trade-In Appraisal
     *   Extended Service Plans
     *   Estimate Credit Score
     
 *   For Owners
     
     *   MySubaru Vehicles Keep track of your vehicle records online and get valuable service coupons.
+    *   Resource Center Key resources for some of the most often asked vehicle features.
     *   Enthusiasts Subaru Gear, owner stories, Subaru Rally, events, publications and more.
     
-    *   Resource Center Key resources for some of the most often asked vehicle features.
+    *   Benefits of Ownership Learn about the Subaru Rewards Card, insurance discounts and more.
     *   Parts &. Service Find a local certified Subaru service dealer and Subaru parts.
     
     *   More
