@@ -104,7 +104,7 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     Best Dressed at the BD2 Premiere!
 *   love
     
-    Our Crush of the Week!
+    A Taylor Swift Song For Every Breakup
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
