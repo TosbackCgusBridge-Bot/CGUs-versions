@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-In conversation with David Karp, CEO &. Founder of Tumblr
+Brightcove CEO slams Facebook, wants end to “wars” over platforms
 
 Stay on top of tech news in your inbox
 
