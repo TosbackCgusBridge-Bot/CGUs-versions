@@ -1,7 +1,3 @@
- 
-
-CarMax Information Privacy &. Safeguards Notice
-
 **GENERAL PRIVACY POLICY**  
 Thank you for visiting the CarMax website (including its mobile device-ready version) or using the CarMax mobile application. In this Privacy and Safeguards Notice, we refer to our websites and mobile application together as our “Media.” We hope that you find our Media to be a useful part of your car-buying experience. Please note that this General Privacy Policy describes our overall privacy practices for the Media. Section II applies to California users. Section III is our privacy policy for nonpublic personal information used in the provision of financial services.
 
@@ -74,6 +70,3 @@ Joint marketing A formal agreement between nonaffiliated financial companies tha
 *   CarMax doesn't jointly market.
 
 Other important information CarMax includes, CarMax, Inc., CarMax Auto Superstores, Inc., CarMax of Laurel, LLC, CarMax Auto Mall, LLC, CarMax Auto Superstores West Coast, Inc., CarMax Business Services, LLC (includes CarMax Auto Finance, a division), CarMax Auto Superstores California, LLC, CarMax Funding Services, LLC, CarMax Funding Services II, LLC, CarMax Auto Superstores Services, Inc.
-
-*   Privacy policy
-*   Legal notice
