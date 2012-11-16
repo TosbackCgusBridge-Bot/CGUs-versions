@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Israel: 3 civilians killed by rockets from Gaza
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Obama visits New York's island of 'heartbreak'
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports Whose comeback has been better?
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports Door closing on Tebow and Jets?
     
-    PFT Live: Mike Florio debates whether the Comeback Player of the Year should be Broncos QB Peyton Manning or Vikings RB Adrian Peterson.
+    PFT Live: Things with Tim Tebow and N.Y. have gone from bad to worse. Mike Florio says the Jets' season isn't over yet, but resolutions need to be made.
     
-    Elway puts it on the line again in latest comeback PFT: Tebow admits 'terrible' talk leads to 'sadness' PFT: Rex calls source ripping Tebow 'cowardly' PFT: Big Ben out, worried mostly about rib PFT: Concussed Vick not ruled out for Sunday CSN: Lurie doesn't see Reid the same way PFT: Bryant to take anger management counseling PFT Live: Billick talks about elite QBs Ad
+    PFT: LT thinks Scott might be Jet who ripped Tebow PFT: Tebow admits 'terrible' talk leads to 'sadness' PFT Live: Dolphins-Bills tonight actually matters PFT's picks: Brady will give Luck dose of reality Rotoworld: Week 11 fantasy rankings Whose comeback better, Peyton's or Peterson's? Dan Patrick Show: Ponder thinks before he tweets PFT: Packers are worried about Rodgers' safety Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Chris O'meara / AP Price squeaks past Verlander
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Andy Lyons / Getty Images MVPs coming tonight, and it's close
     
-    HBT: The Rays' David Price won the AL Cy Young Award by the slimmest of margins Wednesday. He received 14 of 28 first-place votes and finished with 153 points to 149 for the Tigers' Justin Verlander, chosen first on 13 ballots.  Other than a 1969 tie, it was the tightest race in the history of the AL award.
+    HBT: In the NL, it's a 3-horse race. In the AL, it's between a rookie and baseball's first Triple Crown winner since 1967. Who's going to win?
     
-    HBT: Dickey first knuckleballer to win Cy Young HBT: Hunter signs with Tigers for 2 years, $26M HBT: Marlins are a kleptocracy, not a team HBT: Marlins send stars to Jays in megatrade SportsTalk: Something's fishy in Miami Baseball owners quiet on first day of meetings Affeldt, Giants complete $18 million, 3-year deal Melvin will welcome back Colon to A's Ad
+    CSN's McAdam: Why I voted Trout for MVP HBT: Dickey first knuckleballer to win Cy Young HBT: Price squeaks past Verlander for AL Cy Young HBT: Cy vs. Cy — it finally happened in 2012 HBT: Hunter signs with Tigers for 2 years, $26M HBT: Selig says Marlins' megatrade is 'under review' HBT: Should Selig block Marlins' megatrade? HBT: Manny's being Manny in the Dominican Ad
 *   NHL
     SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Mike Cassese / Reuters 'Let's all try and stay positive'
     
     PHT: Wayne Gretzky’s prediction for the return of NHL almost sounds like an injury report. He thinks a deal will be reached in 4-6 weeks.
     
-    Even phone calls stop between NHL, NHLPA PHT: When will next set of games be canceled? PHT: Wings get bad news on Filppula's knee CSN: Scars beginning to show on both sides PHT: Who should be in 2013's Hall of Fame class? PHT: Sakic enters Hall of Fame as Avs hero PHT: Bure thanks fans as he enters Hall PHT: Sundin thanks Leaf fans during Hall induction Ad
+    Even phone calls stop between NHL, NHLPA PHT: When will next set of games be canceled? PHT: Former enforcer charged in hunting death PHT: Wings get bad news on Filppula's knee CSN: Scars beginning to show on both sides PHT: Who should be in 2013's Hall of Fame class? PHT: Sakic enters Hall of Fame as Avs hero PHT: Bure thanks fans as he enters Hall Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Andrew D. Bernstein / Getty Images Contributor Hot Clippers take care of Heat
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Noah Graham / Getty Images Contributor Why not go with Coach Kobe?
     
-    Blake Griffin and Chris Paul had double-doubles, with Paul keying a third-quarter spurt that helped carry the Los Angeles Clippers to a 107-100 win over the Miami Heat on Wednesday.
+    Mailbag: Whatever Bryant wants, Bryant gets — Lakers might as well just name him coach.
     
-    PBT: Clippers simply more dialed in now PBT: Grizzlies top Thunder, continue hot start Mailbag: Why don't Lakers just go with Coach Kobe? SportsTalk: Will D'Antoni's system fit Lakers? SportsTalk: What, why and how of D'Antoni hiring PBT: Magic in 'mourning' over Laker hire? Spare us Trash Talk: D'Antoni is right man for Lakers PBT: D'Antoni to make Lakers debut on Friday Ad
+    PBT: Perkins, Randolph have words after ejection PBT: Depleted Timberwolves sign Josh Howard PBT: Clippers have no trouble blowing out Heat PBT: Grizzlies top Thunder, continue hot start SportsTalk: Will D'Antoni's system fit Lakers? SportsTalk: What, why and how of D'Antoni hiring PBT: Magic in 'mourning' over Laker hire? Spare us Trash Talk: D'Antoni is right man for Lakers Ad
 *   NCAA FB
     SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Steve Dykes / Getty Images Top teams won't get tripped up
     
     CFT's Predictions 101: No. 1 Oregon, No. 2 Kansas State and No. 3 Notre Dame figure to keep their national title hopes alive with wins Saturday.
     
-    Injuries test No. 1 Ducks' 'D'   |  Stanford ready CFT: Texas A&M WR missing since Monday N. Illinois wins MAC West   |  Coach to leave? Heisman Hopefuls: Could a freshman win? SportsTalk: Klein or Manziel for Heisman? Tar Heels next up in Virginia's bowl drive CFT: Alabama gov. questions Saban's play calling SEC feeling impact of No. 9 Texas A&M, Missouri Ad
+    Injuries test No. 1 Ducks' 'D'   |  Stanford ready No. 2 K-State bears resemblance to '98 team CFT: Missing Texas A&M receiver found safe N. Illinois wins MAC West   |  Coach to leave? Heisman Hopefuls: Could a freshman win? SportsTalk: Klein or Manziel for Heisman? Tar Heels next up in Virginia's bowl drive CFT: Alabama gov. questions Saban's play calling Ad
 *   NCAA HOOPS
     SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Dave Martin / AP Kentucky not great, but they will be
     
     CBT: Losing to Duke wasn’t how the season was supposed to begin for the Wildcats. As of now, the defending champions aren't title contenders, but they will get there.
     
-    Murphy makes sure No. 10 UF beats No. 22 Wis. No. 15 Creighton recovers to beat UAB No Porter, no problem for Georgetown CBT: UCLA appeals Muhammed's eligibility ruling Indiana expect another top recruiting class CBT: Memphis' monster class coming together Frankamp signs with KU   |  Louisville's additions Ohio St. adds recruits Loving, Williams to fold Ad
+    Four Hall of Famers receive Lapchick Award Murphy makes sure No. 10 UF beats No. 22 Wis. No. 15 Creighton recovers to beat UAB No Porter, no problem for Georgetown CBT: UCLA appeals Muhammed's eligibility ruling Indiana expect another top recruiting class CBT: Memphis' monster class coming together Frankamp signs with KU   |  Louisville's additions Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Hassan Ammar / AP F1 back in US, but can it last?
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Ivan Alvarado / Reuters F1's romance lost on Americans
     
-    Formula One, the world's most popular motorsport, is trying once again to conquer its final frontier: the United States. This time, the Europeans aim to make it stick.
+    Americans have had a long-standing love affair with cars but the romance of Formula One has never gotten pulses racing in the U.S.
     
-    Paul Wolfe initially said no to Keselowski's offer NASCAR's Keselowski can't tweet in car anymore Gordon fined $100K, docked 25 points by NASCAR Suspending Jeff Gordon would end "Boys Have At It" Wild race blows championship open for Keselowski Roush Fenway Racing makes more crew chief changes Bobby Rahal finally ready to give son Graham a job Notebook: Gordon, Bowyer tangle at Phoenix Ad
+    Is Sunday's F1 race weird enough for Austin, Texas? Vettel-Alonso duel rolls onto new track in US Formula One is back in the US, can it last? EPA doing flyover of Austin before F1 race Paul Wolfe initially said no to Keselowski's offer NASCAR's Keselowski can't tweet in car anymore Gordon fined $100K, docked 25 points by NASCAR Suspending Jeff Gordon would end "Boys Have At It" Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Claudio Bresciani / AP Ibrahimovic amazes
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Jonathan Nackstrand / AFP-Getty Was Ibrahimovic goal best ever?
     
-    Roundup: Zlatan Ibrahimovic illuminated a low-key night of international friendlies on Wednesday, scoring an audacious overhead kick from 30 yards to cap his four-goal display in Sweden's 4-2 win over England.
+    Swedish striker scores from 30 yards out with backwards bicycle kick against England.
     
-    PST: Watch Ibrahimovic's amazing bicycle kick PFT: Solo marries ex-NFL player after legal dispute Pele undergoing physiotherapy after hip surgery Will Brazil get enough World Cup-goers? Chelsea details race claim. Police probe dropped Japan wins, on verge of reaching 2014 World Cup Messi on shortlist for FIFA goal of the year Man United debt drops to $570M in 3 months Ad
+    PST: Watch Ibrahimovic's amazing bicycle kick FIFA won't add Zlatan as goal award candidate PFT: Solo marries ex-NFL player after legal dispute Pele undergoing physiotherapy after hip surgery Will Brazil get enough World Cup-goers? Chelsea details race claim. Police probe dropped Japan wins, on verge of reaching 2014 World Cup Messi on shortlist for FIFA goal of the year Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Tseng-Lewis battling for world No. 1
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines McIlroy 'lethargic' in opening 73 in Hong Kong
     
-    Yani Tseng once had a stranglehold on world No. 1, but a mid-season slump has left the door open for a hard-charging Stacy Lewis.
+    Rory McIlroy struggled during an opening 73 at the Hong Kong Open, and he is nine shots behind the leader after Round 1.
     
-    Tseng-Lewis battling for world No. 1 LPGA money title, Vare Trophy up for grabs Lewis, Kerr lead Americans to 8 LPGA titles in 2012 McIlroy wins PGA Player of Year, Vardon Trophy Lyle: 'Never say no' to Ryder Cup captaincy Behind the scenes with ... Brandel Chamblee PGA Tour Q-School second-stage sites and scoring Pressel's disappointing year comes to a close G-Mac: Research shows long-putter advantage Focus on making solid contact before anything else Ad
+    By-the-numbers look at 2012 PGA Tour Snedeker latest to call for ban on anchored putters Behind the scenes with ... Brandel Chamblee LPGA money title, Vare Trophy up for grabs Willie Park Jr. to be inducted into Hall of Fame McIlroy wins PGA Player of Year, Vardon Trophy PGA Tour Q-School second-stage sites and scoring Focus on making solid contact before anything else Ad
 *   Olympics
     SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Samuel Kubani / AFP - Getty Images Unsure when Vonn will ski again
     
     Lindsey Vonn has been released from a hospital in Colorado, although details of her illness remain unclear and there is no indication of when she can begin skiing again.
     
-    Franklin officially signs to swim for Cal 3-time gymnastics world champion Memmel retires Eaton, Felix honored as top U.S. track athletes Uzbek gymnast banned for doping at Olympics Indian athlete declared male after rape claim Lochte, Franklin impress in Minnesota Myhrer wins World Cup slalom Chan, Korpi win gold at Rostelecom Cup Ad
+    Qatar to continue bidding for Olympic Games Franklin officially signs to swim for Cal 3-time gymnastics world champion Memmel retires Eaton, Felix honored as top U.S. track athletes Uzbek gymnast banned for doping at Olympics Indian athlete declared male after rape claim Lochte, Franklin impress in Minnesota Myhrer wins World Cup slalom Ad
 *   More
     SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Samuel Kubani / AFP - Getty Images Djokovic caps his 2012 with grit
     
     If the early stage of Novak Djokovic’s career was mercurial talent, and 2011 was bottomless determination, then 2012 was grit.
     
-    Federer wants faster courts to encourage attack Tennis mulls anti-doping step Livestrong charity drops Armstrong name Gun range customers can shoot ... each other? Off the Bench: Player misses 4 straight layups Off the Bench: Meanwhile, at Bali Buffalo races ... Race to breach China market heats up Stanford runner to pull off remarkable double Ad
+    Federer wants faster courts to encourage attack Tennis mulls anti-doping step 8 exercise gadgets to get you moving The Week in Sports Pictures Livestrong charity drops Armstrong name Gun range customers can shoot ... each other? Off the Bench: Player misses 4 straight layups Off the Bench: Meanwhile, at Bali Buffalo races ... Ad
 
 *   Scores
 *   Odds
