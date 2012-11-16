@@ -87,17 +87,16 @@ CATCH ROCCO'S LATEST TKO
 
 *   HOT TOPICS:
 *   #1 Dividend Stock
-*   Diamond Foods
-*   Zurich Webinar
-*   Bank Stocks
-*   AIG
-*   Kass
-*   Electric Cars
-*   Hated Stocks
-*   Fantasy Football
-*   Stocks Crushed
+*   Volatility Webinar
+*   Obamaphobia
+*   Hot Biotech Stocks
+*   Christmas Wars
+*   BP Fine
+*   iPad Heist
+*   Microsoft
+*   Bank Dividends
 
-pjava06.dc.thestreet.com Privacy Policy
+pjava07.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -252,15 +251,15 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 12,570.95 -185.23 -1.45% NASDAQ 2,846.81 -37.08 -1.29% S&P 500 1,355.49 -19.04 -1.39% US 10 Yr 1.589% +0.000 Brokerage Partners Most Commented
+DOW 12,555.28 -15.67 -0.12% NASDAQ 2,842.93 -3.88 -0.14% S&P 500 1,356.48 0.99 0.07% US 10 Yr 1.588% -0.001 Brokerage Partners Most Commented
 
 *   10 Worst Cars of All Time
 *   Tesla Motors Pollutes Today for a Greener Tomorrow
-*   Solar Panels Don't Work!
 *   BMW Cuts Off Toyota, GM and Ford in California
-*   It's Not Apple, It's The 'Fiscal Cliff,' Stupid
+*   Solar Panels Don't Work!
+*   I Hate Microsoft and Shareholders Should Too
 
-Articles From Newser Is It Doomsday for Facebook Shares? Sotheby's Sets Record Thanks to $75M Rothko Toyota Recalls 2.77M More Cars See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Tax Reform Won't Solve All Our Problems JFK Heist Nets $1.2M in iPad Minis Eurozone Falls Back Into Recession See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
