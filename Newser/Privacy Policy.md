@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   entertainment
-    *   David Petraeus
     *   celebrity
+    *   David Petraeus
     *   David Petraeus...
+    *   strange stuff
+    *   timeless news
     *   Paula Broadwell
-    *   Benghazi
-    *   Jill Kelley
-    *   President Obama
+    *   Israel and...
     *   Election 2012
-    *   Susan Rice
+    *   President Obama
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -119,45 +119,57 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   Gobble, Gobble: 10 Super Yummy Thanksgiving Side Dishes
-*   That’s A Lot Of Look: Kristen Stewart Feels Pretty...
-*   PETA Hits New Low With Joanna Krupa “Fur Trim” Pubic Hair Ad
+*   The Wrong Man for the Job
+*   How Robots Saved an Artist’s Sanity
+*   Twilight: Breaking Dawn, Part 2
+
+More from Slate »
+
+*   WHO IS THE WORLD'S
+*   School Mows Down Student's Charity Mustache
+*   Weed Profits Aid Hurricane Sandy Victims
+
+More from HuffPost Weird »
+
+*   You Are Cordially Invited To Liz Lemon’s Wedding
+*   Black Woman Pretends To Be Caucasian In Her Job Search, Has...
+*   Today’s WTF News: Weed Dealer Donates Half His Moolah To...
 
 More from The Frisky »
 
-*   Panel formed to review state's "Stand-Your-Ground" law says...
-*   Counterfeiter tripped up by one minor flaw on his $100...
-*   "It's unlikely that secession was one of those important...
+*   Smoking hot 22-year-old beauty contest winner: "I don't...
+*   Pumpkin Pie Sandwich - an entire 32oz tub of Kool Whip...
+*   28 women in a mini car set Guinness world record, "The...
 
 More from Fark »
 
-*   Are fringe Republicans trying to impeach President Obama?
-*   Obama's second term: The case for preventing Iranian nukes
-*   4 signs the 2016 Republican primary has already started
+*   Why Republicans want Mitt Romney to take a hike
+*   The David Petraeus affair: A comprehensive timeline...
+*   One secret reason Petraeus had to resign
 
 More from The Week »
 
-*   Will Bourne Named Editor of the Village Voice
-*   Big Problems, Little Solutions: For the New Occupy, Size Is...
-*   A (Possibly Drunk, Possibly Elderly) Theatergoer Vomited...
+*   Barbara Bush is the New 'Bronco Bamma' Baby
+*   Trashed Rockaway Boardwalk Boards Are Surprisingly Valuable
+*   Watch The PATH System Flood Like Crazy
 
 More from Daily Intel »
 
-*   Snooki Cries While Surveying Hurricane Sandy Devastation in...
-*   'X Factor's' Emblem3 Reacts to Their No. 6 Ranking: Middle...
-*   'Twilight Saga: Breaking Dawn -- Part 2' Star Robert...
+*   Are You Too Sick To Go To Work?
+*   'Shh-Thanks-Givin': My First Thanksgiving in America -- A...
+*   Smokeout Day 2012: Realities Behind the New Numbers
 
-More from Celebuzz »
+More from HuffPost Health »
 
-*   20 Things I Want My Daughter to Know Before She Grows Up
-*   Kristen Stewart Goes 'Twilight' Sheer Again in Sexy Black...
-*   Lindsay Lohan's Bizarre 'Jimmy Fallon' Performance Can Only...
+*   5 Movies Themed Around Gratitude, Giving and Other Good...
+*   'Jersey Shore' Recap: Gym, Tan, Break Up With Paula
+*   'Breaking Dawn 2' Leaves ‘Twilight’ Fans Breathless to the...
 
 More from The Stir »
 
-*   Love, Hate, Triumph and Loss: The Whole Creative Process in...
+*   Greg Jennings Is Going Nowhere in His Latest Old Spice Ad
+*   Ad of the Day: Morrisons
 *   PETA Gets Itself in Yet Another Hairy Situation
-*   Samsung Gets Overly Attached Girlfriend to Play a...
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
