@@ -111,46 +111,46 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/15/2012 2:16 PM ET
+Updated: 11/16/2012 6:01 AM ET
 
-1.  1 Jindal vs. Romney
-2.  2 Once again, Obama vs. McCain
-3.  3 Benghazi inquiry sparks Hill battle
-4.  4 GOP chief: Mystery black voters
-5.  5 Cornyn on Senate races: GOP blew it
-6.  6 Obama steamed over Rice
-7.  7 Petraeus: I didn't quit over Libya
-8.  8 State tells lawmaker gold is for fools
-9.  9 Millionaire tax isn't off the table
-10.  10 Mitt Romney's post-election gaffe
+1.  1 Some GOP govs go soft on taxes
+2.  2 GOP returns Mitt 'gifts'
+3.  3 Vote-count stumbles leave West, Barber hanging
+4.  4 Papa John's faces Obamacare fight
+5.  5 Mitt Romney's post-election gaffe
+6.  6 State tells lawmaker gold is for fools
+7.  7 Restaurateur to add Obamacare tax
+8.  8 Obama woos CEOs, GOP wants them back
+9.  9 Jindal vs. Romney
+10.  10 620K tell Macy's to 'dump Trump'
 
-Updated: 11/15/2012 2:16 PM ET
+Updated: 11/16/2012 6:01 AM ET
+
+1.  1 GOP returns Mitt 'gifts'
+2.  2 Jindal vs. Romney
+3.  3 Once again, Obama vs. McCain
+4.  4 Some GOP govs go soft on taxes
+5.  5 Mitt Romney's post-election gaffe
+6.  6 State tells lawmaker gold is for fools
+7.  7 Benghazi inquiry sparks Hill battle
+8.  8 GOP chief: Mystery black voters
+9.  9 Vote-count stumbles leave West, Barber hanging
+10.  10 Obama steamed over Rice
+
+Updated: 11/16/2012 6:01 AM ET
 
 1.  1 Lawmaker asks to be paid in gold
 2.  2 Sebelius gets Obamacare subpoena
-3.  3 Hard questions await Obama at presser
-4.  4 5 Gmail lessons from Petraeus affair
-5.  5 Jindal vs. Romney
-6.  6 Photos place Broadwell in D.C.
+3.  3 Jindal vs. Romney
+4.  4 GOP returns Mitt 'gifts'
+5.  5 5 Gmail lessons from Petraeus affair
+6.  6 Hard questions await Obama at presser
 7.  7 Benghazi inquiry sparks Hill battle
 8.  8 Once again, Obama vs. McCain
-9.  9 Reid lashes out at Scott Brown
-10.  10 Obama steamed over Rice
+9.  9 Some GOP govs go soft on taxes
+10.  10 Photos place Broadwell in D.C.
 
-Updated: 11/15/2012 2:16 PM ET
-
-1.  1 Lawmaker asks to be paid in gold
-2.  2 Welcome to the Rand Paul evolution
-3.  3 Jindal: End 'dumbed-down conservatism'
-4.  4 Sebelius gets Obamacare subpoena
-5.  5 Secession leader: Obama's baked
-6.  6 Ryan splits with GOP leadership
-7.  7 Petraeus is dumb, she's dumber
-8.  8 Hard questions await Obama at presser
-9.  9 5 Gmail lessons from Petraeus affair
-10.  10 Wife runs over non-voting husband
-
-Updated: 11/15/2012 2:16 PM ET
+Updated: 11/16/2012 6:01 AM ET
 
 1.  1 Rove under fire
 2.  2 6 questions on Petraeus's exit
@@ -161,68 +161,65 @@ Updated: 11/15/2012 2:16 PM ET
 7.  7 Romney campaign's lasting mark
 8.  8 Secession petitions flood White House website
 9.  9 Media fight on the right over GOP
-10.  10 Rove: Obama won 'by suppressing the vote'
+10.  10 Welcome to the Rand Paul evolution
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/15/2012 2:16 PM ET
+Updated: 11/16/2012 6:01 AM ET
 
-1.  1 The great fiscal melodrama
-2.  2 State tells lawmaker gold is for fools
-3.  3 Report: Jackson wants disability pay
-4.  4 Petraeus: I didn't quit over Libya
-5.  5 GOP report: Merge SEC, CFTC
-6.  6 Panetta orders ethics training review
-7.  7 Murray: I will chair Senate Budget
-8.  8 Buffett backs Clinton in 2016
-9.  9 GOP chief: Mystery black voters
-10.  10 Once again, Obama vs. McCain
+1.  1 Martinez points direction for GOP
+2.  2 Dairy market plan is bad formula
+3.  3 Vote-count stumbles leave West, Barber hanging
+4.  4 Obama woos CEOs, GOP wants them back
+5.  5 GOP tensions flare over merger
+6.  6 HHS pushes back exchange deadline
+7.  7 Papa John's faces Obamacare fight
 
-Updated: 11/15/2012 2:16 PM ET
+Updated: 11/16/2012 6:01 AM ET
 
-1.  1 The great fiscal melodrama
-2.  2 State tells lawmaker gold is for fools
-3.  3 Report: Jackson wants disability pay
-4.  4 Petraeus: I didn't quit over Libya
-5.  5 GOP report: Merge SEC, CFTC
-6.  6 Panetta orders ethics training review
-7.  7 Murray: I will chair Senate Budget
-8.  8 Buffett backs Clinton in 2016
-9.  9 GOP chief: Mystery black voters
-10.  10 Once again, Obama vs. McCain
+1.  1 Martinez points direction for GOP
+2.  2 Dairy market plan is bad formula
+3.  3 Vote-count stumbles leave West, Barber hanging
+4.  4 Obama woos CEOs, GOP wants them back
+5.  5 GOP tensions flare over merger
+6.  6 HHS pushes back exchange deadline
+7.  7 Papa John's faces Obamacare fight
+8.  8 Some GOP govs go soft on taxes
+9.  9 Samoan delegate angles for top slot
+10.  10 Restaurateur to add Obamacare tax
 
-Updated: 11/15/2012 2:16 PM ET
+Updated: 11/16/2012 6:01 AM ET
 
-1.  1 The great fiscal melodrama
-2.  2 State tells lawmaker gold is for fools
-3.  3 Report: Jackson wants disability pay
-4.  4 Petraeus: I didn't quit over Libya
-5.  5 GOP report: Merge SEC, CFTC
-6.  6 Panetta orders ethics training review
-7.  7 Murray: I will chair Senate Budget
-8.  8 Buffett backs Clinton in 2016
-9.  9 GOP chief: Mystery black voters
-10.  10 Once again, Obama vs. McCain
+1.  1 Martinez points direction for GOP
+2.  2 Dairy market plan is bad formula
+3.  3 Vote-count stumbles leave West, Barber hanging
+4.  4 Obama woos CEOs, GOP wants them back
+5.  5 GOP tensions flare over merger
+6.  6 HHS pushes back exchange deadline
+7.  7 Papa John's faces Obamacare fight
+8.  8 Some GOP govs go soft on taxes
+9.  9 Samoan delegate angles for top slot
+10.  10 Restaurateur to add Obamacare tax
 
-Updated: 11/15/2012 2:16 PM ET
+Updated: 11/16/2012 6:01 AM ET
 
-1.  1 The great fiscal melodrama
-2.  2 State tells lawmaker gold is for fools
-3.  3 Report: Jackson wants disability pay
-4.  4 Petraeus: I didn't quit over Libya
-5.  5 GOP report: Merge SEC, CFTC
-6.  6 Panetta orders ethics training review
-7.  7 Murray: I will chair Senate Budget
-8.  8 Buffett backs Clinton in 2016
-9.  9 GOP chief: Mystery black voters
-10.  10 Once again, Obama vs. McCain
+1.  1 Martinez points direction for GOP
+2.  2 Dairy market plan is bad formula
+3.  3 Vote-count stumbles leave West, Barber hanging
+4.  4 Obama woos CEOs, GOP wants them back
+5.  5 GOP tensions flare over merger
+6.  6 HHS pushes back exchange deadline
+7.  7 Papa John's faces Obamacare fight
+8.  8 Some GOP govs go soft on taxes
+9.  9 Samoan delegate angles for top slot
+10.  10 Restaurateur to add Obamacare tax
 
 Showing Last 7 Days
 
-Updated: 11/15/2012 2:16 PM ET
+Updated: 11/16/2012 6:01 AM ET
 
 1.  1 Once again, Obama vs. McCain
 2.  2 Obama: Attacks on Rice 'outrageous'
