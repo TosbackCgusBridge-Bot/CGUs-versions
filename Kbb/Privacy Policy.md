@@ -203,7 +203,7 @@ Search:
 *   Car Reviews
 *   Car Videos
 *   Car Infographics
-*   Auto Show Debuts
+*   2012 LA Auto Show
 *   Car News
 
 *   Help
