@@ -1,23 +1,4 @@
-Skip to main content eBay Browse bycategory Enter your search keyword All Categories Advanced Hi, (Sign in to bid or buy)
-
-*   Daily Deals
-
-*   My eBay
-*   Sell
-*   Community
-*   Customer Support
-*   Cart
-
-  Home >. Help >Membership &. account>Protecting your account>Summary of our Privacy Policy Help **Thanks for your Comment!** Community input helps improve eBay's Help pages. We're sorry, but we are not able to post your comment at this time. Please try again later. Browse help Searching &. researching Finding items Managing your results Bidding &. buying Buying basics All about bidding Managing your buying activity Resolving buying problems Becoming a better buyer Selling &. seller fees Selling basics Seller fees &. invoices Creating effective listings Managing your selling activity Resolving selling problems Becoming a better seller Using selling tools Selling with an eBay Store Payment &. shipping Paying for items Receiving payment Packing &. shipping items Feedback All about Feedback Membership &. account Getting started on eBay Registration &. signing in Managing your account Sharing with eBay members Protecting your account Rules &. policies
-
-eBay glossary
-
-eBay acronyms
-
-A-Z index
-
-**Search the help pages**   
-(Does not search for items or products) ****Search**** Tips Privacy Policy
+Privacy Policy
 
 Last Updated: August 21, 2012
 
@@ -212,27 +193,3 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 Contact Us
 
 If your questions are not answered online, you may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2145 Hamilton Avenue, San Jose, California 95125, or using the Contact Us form. More information about the Global Privacy Office or how to contact us is available out our eBay Privacy Center.
-
-Was this page helpful? YesNo How can we improve this page? (optional) 700 characters left ****Submit Comment**** Contact Customer Support If you're looking for more help or have a question to ask, please contact us.  
-Contact us
-
-Have a question? We can help.
-
- ****Contact us**** Ask eBay members
-
-Get help from other eBay members. Visit the Answer Center to post a question.
-
-**Related help topics**
-
-*   Appendix to Privacy Policy
-    
-*   Unsolicited Email (Spam)
-    
-*   eBay User Agreement
-    
-*   Managing Your Account with My eBay
-    
-*   Previous Privacy Policy
-    
-
-  About eBay | Community | Announcements | Security Center | Policies | Site Map | eBay official time | Preview new features | Contact us | Tell us what you think Copyright © 1995-2012 eBay Inc. All Rights Reserved. User Agreement and Privacy Policy.
