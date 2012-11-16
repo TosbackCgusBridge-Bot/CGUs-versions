@@ -1,6 +1,6 @@
 (skip this header)
 
-Thursday Nov 15, 2012 5:05 AM PT
+Thursday Nov 15, 2012 11:19 AM PT
 
 ° (change)
 
@@ -60,11 +60,11 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   New H&M collection
+*   4 star dining at Meadowood
+*   Charming Wesla Whitfield
+*   Ken Burns at Mission High
+*   Love in bloom - listen to the bugles
 *   Caffeine and dehydration
-*   3 wacky S.F. events
-*   Top prescription: Antidepressants
-*   Two important fundraisers
 
 *   Bay Area &. State
 *   Nation
@@ -339,6 +339,8 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
+*   Iconic Homes of the USA
+*   Iconic Homes of the Bay Area
 *   Montana Clark
 *   Barnes lifts Warriors past Hawks
 *   Nation in Focus
@@ -377,8 +379,6 @@ Ads by Yahoo! Photo Galleries
 *   Flashback! Last Week's Concerts 11/12/12
 *   Stanford pulls away from Fullerton
 *   Nation in Focus
-*   Harbaugh talks to high school coaches
-*   World in Focus
 
 *   Most Read
 *   |
@@ -386,51 +386,51 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Romney: Obama won with 'gifts' to certain voters
-2.  Software founder McAfee denies killing neighbor
-3.  Broadwell called Petraeus a 'very close mentor'
-4.  Uber, Lyft, SideCar hit with $20K fines
-5.  State's fiscal outlook much brighter
-6.  Nicole Kidman was blindsided by Tom Cruise divorce
-7.  Ireland probes death of ill abortion-seeker
+1.  Montana and Clark: Beyond “The Catch”
+2.  Socialite's climb halted by unfolding scandal
+3.  Hope for street inebriates - or roadblock?
+4.  Nasty problem in some SoMa alleys
+5.  Rain settling in for the weekend
+6.  Guy Fieri responds to scathing Times review: ‘There was another agenda’ \[Video\]
+7.  Cops: Teens got lap dances at party for NY boy, 16
 
 1.  Obama pressing business and labor on fiscal cliff
-2.  Twilight of the old white guys
-3.  Romney: Obama won with 'gifts' to certain voters
-4.  California's deficit shrinks to $1.9 billion
+2.  Romney: Obama won with 'gifts' to certain voters
+3.  California's deficit shrinks to $1.9 billion
+4.  Twilight of the old white guys
 5.  Nancy Pelosi to stay as minority leader
-6.  Diablo Canyon seismic safety vs. sea life
-7.  Texans petition to secede from U.S.
+6.  Cabbies sue S.F.'s Uber citing phone app
+7.  Fla. socialite at center of generals' sex scandal
 
-1.  Crab price set. fishermen drop pots
-2.  Fourth Amendment endangered
-3.  Facebook app for job hunters
-4.  How Lender Overlays Prevent Mortgages
-5.  Low-income immigrants get a hand
-6.  Polk Street, S.F.
-7.  BofA mortgage relief on track
+1.  BofA mortgage relief on track
+2.  Hope for street inebriates - or roadblock?
+3.  Low-income immigrants get a hand
+4.  Nasty problem in some SoMa alleys
+5.  Uber, Lyft, SideCar hit with $20K fines
+6.  Facebook app for job hunters
+7.  Restaurant at Meadowood keeps 4 stars
 
 loading... Latest News Videos From our homepage
 
 *     
-    Ambergris Today Online-Sofia Munoz / AP
+    Fred Larson, The Chronicle / ONLINE\_YES
     
-    Associated Press Copyright 2012 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 5:03 a.m., Thursday, November 15, 2012 Belize PM: McAfee 'bonkers'
+    The Catches: Joe and Dwight
     
-    Software founder says he's a step ahead of cops who want to question him in neighbor's death.
+    Great shots of the legendary 49ers duo Montana and Clark off the field, getting crazy in their heyday.
     
 
 *     
-    Paul Chinn, The Chronicle / SF
+    Carlos Avila Gonzalez, The Chronicle / SF
     
-    San Francisco Chronicle Copyright 2012 San Francisco Chronicle. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. Updated 5:43 p.m., Wednesday, November 14, 2012 Setbacks for Lyft, others
+    Hope for street inebriates?
     
-    Taxi drivers, state take action against startups that use apps for ride-sharing and cab-hailing.
+    SFPD finally has a plan to get chronic drinkers into treatment. Now there's a move to kill it.
     
 
-*   Explore the Redwood Empire
+*   The pristine Redwood Empire
     
-    See the vast, majestic forests, pristine rivers, great sunsets in a region far from the crowds.
+    See the majestic forests, surging rivers and great sunsets in this area far from the masses.
     
 
 *   Home
