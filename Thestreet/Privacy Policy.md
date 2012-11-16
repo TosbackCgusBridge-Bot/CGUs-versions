@@ -57,6 +57,7 @@ CATCH ROCCO'S LATEST TKO
     *   Starting a Business
     *   Bank Safety Ratings
     *   Insurer Safety Ratings
+    *   Holiday 2012 Guide
 
 *   Videos
     *   Latest Videos
@@ -88,15 +89,13 @@ CATCH ROCCO'S LATEST TKO
 *   HOT TOPICS:
 *   #1 Dividend Stock
 *   Volatility Webinar
-*   Obamaphobia
-*   Hot Biotech Stocks
-*   Christmas Wars
-*   BP Fine
-*   iPad Heist
-*   Microsoft
-*   Bank Dividends
+*   Bank Stress Tests
+*   Stocks to Watch
+*   Morning Reads
+*   2012 Holiday Guide
+*   Fiscal Cliff Talk
 
-pjava07.dc.thestreet.com Privacy Policy
+pjava01.dc.thestreet.com Privacy Policy
 
 TheStreet Privacy Policy
 
@@ -251,15 +250,15 @@ Product Features:
 *   Real-time trading community
 *   Options TV
 
-DOW 12,555.28 -15.67 -0.12% NASDAQ 2,842.93 -3.88 -0.14% S&P 500 1,356.48 0.99 0.07% US 10 Yr 1.588% -0.001 Brokerage Partners Most Commented
+DOW 12,542.38 -28.57 -0.23% NASDAQ 2,836.94 -9.87 -0.35% S&P 500 1,353.33 -2.16 -0.16% US 10 Yr 1.589% +0.000 Brokerage Partners Most Commented
 
 *   10 Worst Cars of All Time
-*   Tesla Motors Pollutes Today for a Greener Tomorrow
-*   BMW Cuts Off Toyota, GM and Ford in California
 *   Solar Panels Don't Work!
+*   BMW Cuts Off Toyota, GM and Ford in California
 *   I Hate Microsoft and Shareholders Should Too
+*   Tesla Motors Pollutes Today for a Greener Tomorrow
 
-Articles From Newser Tax Reform Won't Solve All Our Problems JFK Heist Nets $1.2M in iPad Minis Eurozone Falls Back Into Recession See more stories Advertising Partners Free Newsletters from TheStreet
+Articles From Newser Right Gears Up for 'Papa John's Appreciation Day' Postal Service Suffers Record $15.9B Loss End of Twinkies? Hostess Says Strike May Doom It See more stories Advertising Partners Free Newsletters from TheStreet
 
 After the Bell
 
