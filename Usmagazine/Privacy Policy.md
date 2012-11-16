@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Minnie and the City »
+Hot Pics! Kristen’s Turning Point »
 
-Top Stories1.  PIC: "Happy" Drew Dazzles on First Red Carpet Post-Baby, Talks Diet »
-2.  Brad, Angelina's Kids "Jump On Tables, Throw Food" at Pizza Parlor! »
-3.  Reese Witherspoon Shows Off Post-Baby Bod on Lunch Date With Jim Toth »
-4.  Kristen Stewart Shows Skin in Sheer, Lace Jumpsuit at London Premiere »
-5.  Guy Fieri: Review of My Restaurant Was "Ridiculous," "Went Overboard" »
+Top Stories1.  Exclusive Jason Trawick Mocks Fiancee Britney Spears! »
+2.  Jessica Simpson Films Weight Watchers Ad, Shows Off Super Skinny Bod »
+3.  Exclusive Breaking Amish's Abe, Rebecca Open Up About Her Infant Daughter »
+4.  Scantily-Clad Megan Fox Flirts With Brian Austin Green in Wedding Band »
+5.  PIC: "Happy" Drew Dazzles on First Red Carpet Post-Baby, Talks Diet »
 
  
 
@@ -177,9 +177,9 @@ Inside Us Weekly
 
 *   Style Chris Brown Lands Modeling Contract
 *   Beauty PICTURE: See Rosie Huntington-Whiteley Withou
-*   Moms FIRST PICTURE: Meet Tamera Mowry's Newborn So
-*   Body PIC: "Happy" Drew Dazzles on First Red Carpet  
-*   Entertainment 30 Rock: Liz Lemon Marrying Criss Chross in N
+*   Moms Chad Lowe: My Wife Will Give Birth to Our Sec
+*   Body Jessica Simpson Films Weight Watchers Ad, Sho  
+*   Entertainment Breaking Amish's Abe, Rebecca Open Up About H
 
 *   US WEEKLY
 *   Celebrity News
