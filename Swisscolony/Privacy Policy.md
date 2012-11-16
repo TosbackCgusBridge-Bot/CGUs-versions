@@ -3,8 +3,6 @@
 
 *   Order Status
 
-*   Your Account
-
   
 
 *   Shopping  Cart:  0  item(s)
