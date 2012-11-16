@@ -1,45 +1,4 @@
-Zum Inhalt zur GMX Homepage
-
-*   DSL
-*   E-Mail
-*   Mobile
-*   Eigene Homepage
-*   SicherheitsPaket
-*   Produkte
-
-*   Login   
-
-Hilfe| Accesskey-Übersicht
-
-*   **Produkte**
-    *   **Mail-Produkte**
-        *   FreeMail
-        *   ProMail
-        *   TopMail
-        *   **AGB**
-    *   Mail-Funktionen
-    *   De-Mail
-    *   Sicherheit bei GMX
-    *   Versicherungsvergleich
-    *   Internet-Telefon-Flat
-    *   Analog/ISDN
-    *   Mobilfunk
-    *   MailDomain
-    *   ADAC bei GMX
-    *   GMX Mobile
-    *   MultiMessenger
-    *   SicherheitsPaket
-    *   SmartSurfer
-    *   Internet-Browser
-    *   GMX MailCheck
-    *   MediaCenter
-    *   SMS &. Co.
-    *   Fax
-    *   MMS
-    *   Voice
-    *   Grünes Postfach
-
-**Sie sind hier:** GMX HomepageProdukteMail-ProdukteAGB**Datenschutzhinweise** Datenschutzhinweise GMX Datenschutzhinweise
+Datenschutzhinweise GMX Datenschutzhinweise
 
 für 1&1 Mail &. Media GmbH, München, hat der Schutz Ihrer persönlichen Informationen oberste Priorität. Selbstverständlich halten wir die relevanten Datenschutzgesetze ein und möchten Sie mit den nachfolgenden Datenschutzhinweisen umfassend über den Umgang mit Ihren Daten aufklären.
 
@@ -142,11 +101,3 @@ Bitte beachten Sie, dass diese Datenschutzhinweise jederzeit unter Beachtung der
 Falls Sie noch Fragen haben, können Sie uns gerne ebenfalls unter den oben genannten Adressen kontaktieren.
 
 05/2012
-
-*   ©2012 **GMX** |
-*   Über GMX |
-*   Impressum |
-*   Datenschutzhinweis |
-*   Presse |
-*   Karriere |
-*   Werben auf GMX
