@@ -15,7 +15,7 @@
 Featured:
 
 *   Election
-*   Hero Project
+*   Hero Summit
 *   The Dish
 *   Howard Kurtz
 *   David Frum
@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  Romney's Final Insult
-2.  CIA Wanted No Benghazi Help
-3.  Liberals: Hold Your Fire!
-4.  Did TV Kill the GOP?
-5.  The ‘Adventure Junkie’ Husband
+1.  The Real Petraeus Scandal
+2.  Romney's Final Insult
+3.  Assassinating The Chance For Calm
+4.  CIA Wanted No Benghazi Help
+5.  Bodies for Ballots
 
   Other News Entertainment
 
-*   Who Said It?: 2012 AMA Nominees
-*   The adoption option: Stars who've chosen to adopt
-*   How 'Twilight' Changed Their Lives
+*   Year in Review: Celebrity Babies of 2012
+*   The Year in TwitPics 2012
+*   Jordin Sparks on Jason Derulo: I See My Future, and I See Him
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘Modern Family’ react: Matthew Broderick and Phil share a boys’ night
-*   ‘Supernatural’ recap: Heaven Only Knows
-*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
+*   ‘The Onion’ names Kim Jong-un the ‘sexiest man alive’
+*   The People’s Choice Awards nominees are …
+*   Kristen Stewart discusses sex scenes on ‘Conan’ — VIDEO
 *   **Get More from EW.com**
 
 Entertainment
 
-*   Behind The Scenes Of The Wild Early Days Of The Rolling Stones
-*   Career Confidential: Alaskan Tour Guide Who Answered Questions About Sex, Pee, And Sarah Palin
-*   Did You Know Pete Wentz From Fall Out Boy Makes Dubstep Now?
+*   The Knicks Are The Basketball Version Of An Erectile-Dysfunction Ad
+*   White House Rubs It In Over Romney's "Gifts" Remark
+*   For Domestic Violence Survivors, Hurricane's Impact Is Particularly Severe
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Jindal Rejects Romney's Explanation for Why He Lost
-*   The GOP's Problem Wasn't Mitt Romney
-*   Bonus Quote of the Day
+*   DesJarlais Supported Ex-Wife's Abortions
+*   Georgia Lawmakers Held Session on Obama Brainwashing
+*   How the Democratic Majority Emerged
 *   **Get More from Political Wire**
 
 The Daily Beast
@@ -208,7 +208,7 @@ Sections:
 Featured:
 
 *   Election
-*   Hero Project
+*   Hero Summit
 *   The Dish
 *   Howard Kurtz
 *   David Frum
