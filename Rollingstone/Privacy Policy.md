@@ -212,7 +212,6 @@ Subscribe
 *   Customer Service
 *   RS All Access
 *   RS Cover Reprints
-*   RS Cover Reprints
 
 Additional
 
