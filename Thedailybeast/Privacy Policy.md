@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  The Real Petraeus Scandal
-2.  Romney's Final Insult
-3.  Assassinating The Chance For Calm
-4.  CIA Wanted No Benghazi Help
-5.  Bodies for Ballots
+1.  Paula Broadwell, FBI Agent?
+2.  Wake the Hell Up, Republicans!
+3.  The Review Heard Round The World
+4.  Bodies for Ballots
+5.  Assassinating The Chance For Calm
 
   Other News Entertainment
 
-*   Year in Review: Celebrity Babies of 2012
-*   The Year in TwitPics 2012
-*   Jordin Sparks on Jason Derulo: I See My Future, and I See Him
+*   Celeb Engagement Rings
+*   Eye Candy: 'Twilight' Edition
+*   Fashion Face-Off: Rihanna vs. Katy Perry
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘The Onion’ names Kim Jong-un the ‘sexiest man alive’
-*   The People’s Choice Awards nominees are …
-*   Kristen Stewart discusses sex scenes on ‘Conan’ — VIDEO
+*   ‘The Big Bang Theory’ react: The one with the number 43
+*   ’30 Rock’: Aunt Phatso vs. Jack Donaghy
+*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
 *   **Get More from EW.com**
 
 Entertainment
 
-*   The Knicks Are The Basketball Version Of An Erectile-Dysfunction Ad
-*   White House Rubs It In Over Romney's "Gifts" Remark
-*   For Domestic Violence Survivors, Hurricane's Impact Is Particularly Severe
+*   The Thin Red Terms Of Service
+*   Surreal Instagrams From Israel Defense Forces Soldiers
+*   McCain Erupts At Reporter For Asking Why He Missed Classified Benghazi Briefing
 *   **Get More from Buzz Feed**
 
 Politics
 
+*   Maine GOP Chair Defends Himself Against Racism
+*   Second Screens Rule on Election Night
 *   DesJarlais Supported Ex-Wife's Abortions
-*   Georgia Lawmakers Held Session on Obama Brainwashing
-*   How the Democratic Majority Emerged
 *   **Get More from Political Wire**
 
 The Daily Beast
