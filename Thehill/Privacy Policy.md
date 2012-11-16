@@ -212,105 +212,105 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Chicago reporter congratulates Obama on reelection in presserMurray: Can't guarantee 2014 budgetHouse Republicans elect top members Gov. Christie’s Obama problem Republicans say they will not back down
+Murray: Can't guarantee 2014 budgetOlympian McKayla Maroney jokes she looked 'not impressed' with Obama The Hill’s 2012 New Members GuideMan asks McCain: Are you mad that you look like McCain?McCain mocks reporter for 'one of the dumbest questions I've ever heard'
 
 Emailed
 
-Petraeus: Lessons learnedMitt Romney attributes loss to Obama 'gifts' to his base votersSenate votes down Lieberman, Collins Cybersecurity Act a second timeSenate Republicans’ election lesson is to work on fielding better candidatesRepublicans say they will not back down
+Murray: Can't guarantee 2014 budgetSenate Republicans’ election lesson is to work on fielding better candidatesSenate votes down Lieberman, Collins Cybersecurity Act a second timeRepublicans say they will not back downMitt Romney attributes loss to Obama 'gifts' to his base voters
 
 Discussed
 
-Dear Matt Drudge: Stop the race storiesGallup: 2012 election had the largest gender gap in recorded historyPetition for Texas secession hits White House response markWar opens inside GOP over immigrationChicago reporter congratulates Obama on reelection in presser
+Gallup: 2012 election had the largest gender gap in recorded historyPetition for Texas secession hits White House response markMurray: Can't guarantee 2014 budgetChicago reporter congratulates Obama on reelection in presserObama to open ‘fiscal cliff’ talks with call for $1.6T in new revenues
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   Sen. Ayotte: Rice should be judged on her answers if nominated for secretary of State
-*   Sen. Inouye suffers minor head injury
-*   Obama tours Hurricane Sandy damage in NY
+*   MORNING READ
+*   Senate Republicans circulate outline of immigration proposal
+*   Poll: 2012 campaign had more mudslinging, less substance
 
   
 More Briefing Room » Congress Blog
 
+*   Time to stop fighting and start fixing
+*   More regulations expected in a second Obama term
 *   Confronting the problem of bullying head on
-*   Both parties created deficit. Now they must fix it
-*   Congress has more questions for FDA on meningitis outbreak
 
   
 More Congress Blog » Pundits Blog
 
+*   The disappearing rural vote
 *   Susan Rice: Qualified to be secretary of State
 *   Infidelity can threaten national security
-*   The seasons of Washington
 
   
 More Pundits Blog » Twitter Room
 
+*   Dem senator wants Leslie Knope to ask Biden about parks bill
+*   Olympian McKayla Maroney jokes she looked 'not impressed' with Obama
 *   Study: Only 9 countries own their names on Twitter
-*   Sen. Grassley hits voting milestone
-*   Sen. Paul jokes he and Ron Paul ‘hijack the House’
 
   
 More Twitter Room » Hillicon Valley
 
-*   Senate Judiciary Committee to vote on email privacy bill
-*   News bites: Israel live-tweets assault
-*   OVERNIGHT TECH: Failure of cybersecurity bill opens door for White House action
+*   OVERNIGHT TECH: FCC considers cutting prison phone rates
+*   Genachowski: Cybersecurity mandates should be excluded from telecom treaty
+*   Senate Republicans fire warning shot at regulators as Google decision looms
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
+*   News bites: To export or not to export
+*   OVERNIGHT ENERGY: The aftermath of BP's criminal plea
 *   BP, US reach $4.5B settlement for Gulf spill
-*   GOP House energy leader does not expect to change biofuel rule
-*   Sen. Murkowski floats five-year phaseout of wind credit
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Mark Levin endorses Landry in final member-on-member House race
-*   Warren pledges to lead filibuster reform
-*   Matheson 'won't be voting' for Pelosi as leader
+*   Rep. Lungren loses reelection bid
+*   OVERNIGHT CAMPAIGN: Return of presidential politics
+*   Israel appoints new DCCC executive director
 
   
 More Ballot Box » On The Money
 
-*   Bernanke: Upward housing market still faces challenges
-*   Mortgage rates dip to historic lows
-*   Rep. Scalise elected RSC chairman
+*   Top senator eager to clear Russia trade bill
+*   Group: Rolling back tax breaks can raise as much revenue as rate hikes
+*   Levin: Payroll tax extension could depend on Dec. jobs report
 
   
 More On The Money » Healthwatch
 
-*   Rep. Gingrey: ‘Pointless’ to vote again on full ‘ObamaCare’ repeal
-*   Obama bioethics panel: Teach history of US-led STD experiments on Guatemalans
-*   CDC: Smoking bans skyrocket in large US cities
+*   OVERNIGHT HEALTH: HHS extends exchange deadline
+*   HHS extends Friday healthcare deadline for states
+*   Hospitals: Protect our payments in deficit deal
 
   
 More Healthwatch » Floor Action
 
-*   House sets up easy votes on Russia trade bill
-*   Warner, Coons introduce bill to make voting quicker, easier
-*   Dem proposes bill requiring early voting in all states
+*   House takes Intel Chairman Rogers off bill requiring probe of embassy attacks
+*   Sen. Paul filibusters defense bill
+*   Senate passes resolution condoning Israel's strikes on Hamas
 
   
 More Floor Action » Transportation
 
+*   DC Metro says 1,500 commemorative Obama inauguration SmartTrip cards sold
 *   Ford CEO calls Obama business meeting 'constructive'
 *   LaHood to testify at House hearing about DC airport authority
-*   News bites: MD transportation money on empty
 
   
 More Transportation » DEFCON Hill
 
-*   Petraeus: CIA exit not tied to Libya
-*   Senators largely silent on Gen. Allen's absence in confirmation hearing
-*   McCain promises to attend Libya hearings after missing one
+*   OVERNIGHT DEFENSE: Petraeus comes to Capitol Hill
+*   Lawmakers see Benghazi attack video
+*   AG Holder defends FBI on investigation of Petraeus affair
 
   
 More DEFCON Hill » Global Affairs
 
-*   Clinton to testify on Benghazi attack
-*   Russia to 'react toughly' to approval of human rights bill
-*   Obama backs Israeli strikes against Hamas
+*   Lawmakers to press Petraeus on Benghazi investigation
+*   Dems: Susan Rice an ‘American treasure’
+*   White House defends president's trip to repressive countries
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Rice a risky pick Brent Budowsky Petraeus: Lessons learned More Columnists »
