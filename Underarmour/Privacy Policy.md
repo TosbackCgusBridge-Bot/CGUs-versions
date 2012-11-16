@@ -1,5 +1,3 @@
-Free Standard Shipping. All orders. No Minimum.
-
 *   1.888.727.6687
 *   Customer Service
 *    US (change) 
@@ -282,7 +280,8 @@ VIEW CART &. CHECKOUT
     *   Youth Movement
     *   Tough Mudder
 
-email my cart page successemail my cart pageshare page successshare pagechange passwordreset passwordregister-completeforgot-password home / customer-service / security-and-privacy-policy SECURITY &. PRIVACY WHEN WAS THIS PRIVACY STATEMENT LAST UPDATED? Last revised: October 19, 2012 WHAT IS YOUR PRIVACY STATEMENT? **PRIVACY STATEMENT:**  
+Free standard shipping  
+      All Orders. No Minimum. email my cart page successemail my cart pageshare page successshare pagechange passwordreset passwordregister-completeforgot-password home / customer-service / security-and-privacy-policy SECURITY &. PRIVACY WHEN WAS THIS PRIVACY STATEMENT LAST UPDATED? Last revised: October 19, 2012 WHAT IS YOUR PRIVACY STATEMENT? **PRIVACY STATEMENT:**  
   
 **Notice To California Residents – Your California Privacy Rights:**  
   
