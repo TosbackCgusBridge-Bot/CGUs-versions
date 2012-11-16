@@ -1,6 +1,6 @@
 RetailMeNot Score the Savings You Want™ Search for savings from your favorite stores Search!
 
-e.g. black fridaymacy'skohl'swalmart.comurban outfittersorbitztargetamazon
+e.g. black fridaymacy'skohl'surban outfittersorbitztargetamazonold navy
 
 *   Coupon Codes
 *   Free Shipping
