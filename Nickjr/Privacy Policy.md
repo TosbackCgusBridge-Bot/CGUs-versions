@@ -169,9 +169,9 @@ New Dora's Milestones
 
 Shop for DVDs, toys, books and more. Now at Amazon (AD)
 
-New Bubble Guppies Game
+NEW! Umi Carnival App (AD)
 
-It's a fin-tastic fairytale adventure. Play today!
+Help Team Umizoomi find Bunny at the carnival in this fun storybook adventure!
 
 Make Learning Fun!
 
@@ -189,9 +189,9 @@ Sing &. Dance Along With Dora!
 
 Watch Dora's best musical moments with your kids online, anytime!
 
-Get Your Guppies Fan Club Kit!
+NEW! Bubble Guppies App (AD)
 
-When you sign up for the Bubble Guppies fan club, it's FREE!
+It's a swimsational school day when kids explore this interactive watery world!
 
 Join Team Umizoomi on Facebook
 
@@ -225,6 +225,10 @@ Dora's Creature Creator
 
 Mix and match heads, tails, and more to make a mythical creature with Dora!
 
+Guppies X Marks the Spot Game
+
+Ahoy, matey! Join Molly &. Gil on their hunt for buried treasure
+
 Dora &. Friends Magazine
 
 Dora &. Diego now have their OWN magazine. Explore with your family today! (AD)
@@ -233,9 +237,9 @@ Where is Boots? App
 
 Help Dora find Boots in this NEW hide and seek adventure (AD)
 
-NEW! Bubble Guppies App (AD)
+Get Your Guppies Fan Club Kit!
 
-It's a swimsational school day when kids explore this interactive watery world!
+When you sign up for the Bubble Guppies fan club, it's FREE!
 
 nickelodeon kids and family websites Nick
 
