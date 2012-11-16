@@ -1,16 +1,3 @@
-Find one near you!  
-Enter Zip/Postal Code Register Today!  
-Enter Email Address
-
-*   The Workout
-*   Curves Complete
-*   Locations
-*   DIANE Magazine
-*   Products
-*   About Us
-*   MyCurves
-*   Franchising
-
 **PRIVACY POLICY**
 
 The privacy policies described below are a promise made to our online visitors by Curves International, Inc. We respect the privacy of our online visitors. We may collect information on or through this site that can personally identify you. For example, we collect personally identifiable information which you volunteer to us to respond to visitor questions and comments about us and our products and services, and to mail e-newsletters. In addition, we may also collect demographic and other data for market research, advertising and promotional purposes, we may collect your site usage data through our use of Internet cookie technology or similar devices, or we may receive information about you from third parties under a requirement that your information is then subject to the terms of this policy while in our possession or control. Collectively, we call all of this information your Personal Data.
@@ -28,10 +15,3 @@ We use a third-party service provider to serve ads on our behalf across the Inte
 We may from time to time need to disclose certain information, which may include your Personal Data, to comply with a legal requirement, such as a law, regulation, court order, subpoena, search warrant, in the course of a legal proceeding or in response to a law enforcement agency request. Also, if there is a change of control in one of our businesses (whether by merger, sale, or otherwise), or a sale or transfer of its assets, customer information, which may include your Personal Data, could be disclosed to a potential purchaser under an agreement to maintain confidentiality, or could be sold or transferred as part of that transaction.
 
 We may modify this policy at any time, in our sole discretion and all modifications will be effective immediately upon our posting of the modifications on this site. Unless we specifically provide otherwise, this policy only applies to this site and our online activities, and does not apply to any of our offline activities.
-
-Choose Your Language Select a language EnglishFrenchGermanItalianPortugueseSpanish Home | Buy a Curves Franchise | Newsroom | For Healthcare Professionals | Corporate Wellness | Contact Us
-
-Follow us:
-
-Copyright/Legal Info | Privacy Policy | Site Map | Site Credit | Mobile Site | Other Curves Websites  
-Other Sites Select a SiteCurvesComplete.comCurves.com QuebecMyCurvesFranchise SalesFranchise FranceShop CurvesCurves AfricaCurves ArgentinaCurves AustraliaCurves AustriaCurves AzerbaijanCurves BelgiumCurves BrazilCurves BulgariaCurves ChileCurves ChinaCurves ColumbiaCurves CyprusCurves Czech RepublicCurves DenmarkCurves FranceCurves GeorgiaCurves GermanyCurves GreeceCurves Hong KongCurves HollandCurves HungaryCurves IcelandCurves IndiaCurves IrelandCurves IsraelCurves ItalyCurves JapanCurves KazahkstanCurves KoreaCurves LuxembourgCurves MalaysiaCurves Malta and GozoCurves MartiniqueCurves Middle EastCurves MoroccoCurves NetherlandsCurves New ZealandCurves NorwayCurves ParaguayCurves PhilippinesCurves PolandCurves PortugalCurves RomaniaCurves RussiaCurves SenegalCurves SerbiaCurves SingaporeCurves SlovakiaCurves South AfricaCurves SpainCurves SwedenCurves SwitzerlandCurves TaiwanCurves TurkeyCurves United KingdomCurves UkraineCurves UruguayCurves Vietnam
