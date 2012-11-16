@@ -25,7 +25,7 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   Israel
+*   Gaza Attacks
 *   David Petraeus
 *   Fiscal Cliff
 *   TheBlaze TV
@@ -255,7 +255,7 @@ Sections
 
 Hot Topics
 
-*   Israel
+*   Gaza Attacks
 *   David Petraeus
 *   Fiscal Cliff
 *   TheBlaze TV
