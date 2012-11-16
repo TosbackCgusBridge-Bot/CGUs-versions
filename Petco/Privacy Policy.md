@@ -18,9 +18,9 @@ Sign up for Email Local Ad QUICK REORDER VIEW CART (0) Close **Promotion Details
 *   Sale prices valid through November 17, 2012.
 *   Discount on food, litter, and flea &. tick control is up to 10% Sitewide.
 *   Excludes products with Manufacturer Minimum Advertised Price and Live Reptile Food.
-*   **Free Super Saver Shipping on $49.** Exclusions apply. No promotion code necessary.
+*   **Free Standard Shipping on $49.** Exclusions apply. No promotion code necessary.
 
-**Free Super Saver Shipping Promotion Details**
+**Free Standard Shipping Promotion Details**
 
 *   **EXCLUSIONS:** Cat litter, dog litter, wild bird food, live fish &. rock, aquatic gravel and accents;  
     crickets and live food. products with Manufacturer Minimum Advertised Price. out-of-stock items,  
@@ -28,9 +28,9 @@ Sign up for Email Local Ad QUICK REORDER VIEW CART (0) Close **Promotion Details
     orders exceeding the maximum weight limit of 300 lbs.. and applicable taxes. Litter, wild bird food,  
     and oversized items may incur an additional per-item shipping &. handling fee or surcharge. Additional  
     exclusions may apply and will be noted on the Product Detail page and/or Shopping Cart.
-*   Free Super Saver Shipping automatically applies to your qualifying minimum online purchase subtotal  
+*   Free Standard Shipping automatically applies to your qualifying minimum online purchase subtotal  
     of $49. (Subtotal refers to amount of order, per shipping address, before taxes and shipping.) Note: All  
-    Free Shipping is based on Super Saver Shipping rates. More about shipping fees.
+    Free Shipping is based on Standard Shipping rates. More about shipping fees.
 *   See Shopping Cart for full offer details.
 
   
@@ -41,12 +41,21 @@ Close **Promotion Details**
 *   Sale prices valid through November 17, 2012.
 *   Discount on food, litter, and flea &. tick control is up to 10% Sitewide.
 *   Excludes products with Manufacturer Minimum Advertised Price and Live Reptile Food.
-*   **Free Super Saver Shipping on $49.** Exclusions apply. No promotion code necessary.
+*   **Free Standard Shipping on $49.** Exclusions apply. No promotion code necessary.
 
-**Free Super Saver Shipping Promotion Details**
+**Free Standard Shipping Promotion Details**
 
-*   **EXCLUSIONS:** Cat litter, dog litter, wild bird food, live fish &. rock, aquatic gravel and accents. crickets and live food. products with Manufacturer Minimum Advertised Price. out-of-stock items, Donations, Gift Certificates and Gift Cards. items shipped through white glove delivery or LTL delivery. orders exceeding the maximum weight limit of 300 lbs.. and applicable taxes. Litter, wild bird food, and oversized items may incur an additional per-item shipping &. handling fee or surcharge. Additional exclusions may apply and will be noted on the Product Detail page and/or Shopping Cart.
-*   Free Super Saver Shipping automatically applies to your qualifying minimum online purchase subtotal of $49. (Subtotal refers to amount of order, per shipping address, before taxes and shipping.) Note: All Free Shipping is based on Super Saver Shipping rates. More about shipping fees.
+*   **EXCLUSIONS:** Cat litter, dog litter, wild bird food, live fish &. rock, aquatic gravel and  
+    accents. crickets and live food. products with Manufacturer Minimum Advertised Price;  
+    out-of-stock items, Donations, Gift Certificates and Gift Cards. items shipped through  
+    white glove delivery or LTL delivery. orders exceeding the maximum weight limit of 300 lbs.;  
+    and applicable taxes. Litter, wild bird food, and oversized items may incur an additional  
+    per-item shipping &. handling fee or surcharge. Additional exclusions may apply and will be  
+    noted on the Product Detail page and/or Shopping Cart.
+*   Free Standard Shipping automatically applies to your qualifying minimum online purchase  
+    subtotal of $49. (Subtotal refers to amount of order, per shipping address, before taxes  
+    and shipping.) Note: All Free Shipping is based on Standard Shipping rates.  
+    More about shipping fees.
 *   See Shopping Cart for full offer details.
 
 Shopping Dog Supplies | Dog Food  
