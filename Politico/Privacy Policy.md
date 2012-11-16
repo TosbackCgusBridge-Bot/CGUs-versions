@@ -111,33 +111,33 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/15/2012 7:01 AM ET
+Updated: 11/15/2012 2:16 PM ET
 
-1.  1 Sebelius gets Obamacare subpoena
-2.  2 Obama steamed over Rice
-3.  3 Mitt: Obama won because of 'gifts'
-4.  4 Jindal vs. Romney
-5.  5 Benghazi inquiry sparks Hill battle
-6.  6 Lawmaker asks to be paid in gold
-7.  7 Why Pelosi stayed
-8.  8 5 Gmail lessons from Petraeus affair
-9.  9 Once again, Obama vs. McCain
-10.  10 Reid lashes out at Scott Brown
+1.  1 Jindal vs. Romney
+2.  2 Once again, Obama vs. McCain
+3.  3 Benghazi inquiry sparks Hill battle
+4.  4 GOP chief: Mystery black voters
+5.  5 Cornyn on Senate races: GOP blew it
+6.  6 Obama steamed over Rice
+7.  7 Petraeus: I didn't quit over Libya
+8.  8 State tells lawmaker gold is for fools
+9.  9 Millionaire tax isn't off the table
+10.  10 Mitt Romney's post-election gaffe
 
-Updated: 11/15/2012 7:01 AM ET
+Updated: 11/15/2012 2:16 PM ET
 
 1.  1 Lawmaker asks to be paid in gold
 2.  2 Sebelius gets Obamacare subpoena
 3.  3 Hard questions await Obama at presser
 4.  4 5 Gmail lessons from Petraeus affair
-5.  5 Photos place Broadwell in D.C.
-6.  6 Reid lashes out at Scott Brown
-7.  7 Obama: Attacks on Rice 'outrageous'
-8.  8 Non-voter 'disfigured' in wife crash
-9.  9 Russert age question irritates Pelosi
-10.  10 Kelley claims 'honorary' diplo status
+5.  5 Jindal vs. Romney
+6.  6 Photos place Broadwell in D.C.
+7.  7 Benghazi inquiry sparks Hill battle
+8.  8 Once again, Obama vs. McCain
+9.  9 Reid lashes out at Scott Brown
+10.  10 Obama steamed over Rice
 
-Updated: 11/15/2012 7:01 AM ET
+Updated: 11/15/2012 2:16 PM ET
 
 1.  1 Lawmaker asks to be paid in gold
 2.  2 Welcome to the Rand Paul evolution
@@ -150,7 +150,7 @@ Updated: 11/15/2012 7:01 AM ET
 9.  9 5 Gmail lessons from Petraeus affair
 10.  10 Wife runs over non-voting husband
 
-Updated: 11/15/2012 7:01 AM ET
+Updated: 11/15/2012 2:16 PM ET
 
 1.  1 Rove under fire
 2.  2 6 questions on Petraeus's exit
@@ -168,72 +168,72 @@ Updated: 11/15/2012 7:01 AM ET
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/15/2012 7:01 AM ET
+Updated: 11/15/2012 2:16 PM ET
 
-1.  1 Cornyn on Senate races: GOP bungled it
-2.  2 When the flesh is weak
-3.  3 The House races that slipped away
-4.  4 Don't forget America's kids
-5.  5 The amnesty fantasy
-6.  6 Men still dominate GOP leadership
-7.  7 Entrepreneurship a key overseas tool
-8.  8 Device tax would thwart innovation
-9.  9 Jindal vs. Romney
-10.  10 Liberals to Obama: 'Don't buckle'
+1.  1 The great fiscal melodrama
+2.  2 State tells lawmaker gold is for fools
+3.  3 Report: Jackson wants disability pay
+4.  4 Petraeus: I didn't quit over Libya
+5.  5 GOP report: Merge SEC, CFTC
+6.  6 Panetta orders ethics training review
+7.  7 Murray: I will chair Senate Budget
+8.  8 Buffett backs Clinton in 2016
+9.  9 GOP chief: Mystery black voters
+10.  10 Once again, Obama vs. McCain
 
-Updated: 11/15/2012 7:01 AM ET
+Updated: 11/15/2012 2:16 PM ET
 
-1.  1 Cornyn on Senate races: GOP bungled it
-2.  2 When the flesh is weak
-3.  3 The House races that slipped away
-4.  4 Don't forget America's kids
-5.  5 The amnesty fantasy
-6.  6 Men still dominate GOP leadership
-7.  7 Entrepreneurship a key overseas tool
-8.  8 Device tax would thwart innovation
-9.  9 Jindal vs. Romney
-10.  10 Liberals to Obama: 'Don't buckle'
+1.  1 The great fiscal melodrama
+2.  2 State tells lawmaker gold is for fools
+3.  3 Report: Jackson wants disability pay
+4.  4 Petraeus: I didn't quit over Libya
+5.  5 GOP report: Merge SEC, CFTC
+6.  6 Panetta orders ethics training review
+7.  7 Murray: I will chair Senate Budget
+8.  8 Buffett backs Clinton in 2016
+9.  9 GOP chief: Mystery black voters
+10.  10 Once again, Obama vs. McCain
 
-Updated: 11/15/2012 7:01 AM ET
+Updated: 11/15/2012 2:16 PM ET
 
-1.  1 Cornyn on Senate races: GOP bungled it
-2.  2 When the flesh is weak
-3.  3 The House races that slipped away
-4.  4 Don't forget America's kids
-5.  5 The amnesty fantasy
-6.  6 Men still dominate GOP leadership
-7.  7 Entrepreneurship a key overseas tool
-8.  8 Device tax would thwart innovation
-9.  9 Jindal vs. Romney
-10.  10 Liberals to Obama: 'Don't buckle'
+1.  1 The great fiscal melodrama
+2.  2 State tells lawmaker gold is for fools
+3.  3 Report: Jackson wants disability pay
+4.  4 Petraeus: I didn't quit over Libya
+5.  5 GOP report: Merge SEC, CFTC
+6.  6 Panetta orders ethics training review
+7.  7 Murray: I will chair Senate Budget
+8.  8 Buffett backs Clinton in 2016
+9.  9 GOP chief: Mystery black voters
+10.  10 Once again, Obama vs. McCain
 
-Updated: 11/15/2012 7:01 AM ET
+Updated: 11/15/2012 2:16 PM ET
 
-1.  1 Cornyn on Senate races: GOP bungled it
-2.  2 When the flesh is weak
-3.  3 The House races that slipped away
-4.  4 Don't forget America's kids
-5.  5 The amnesty fantasy
-6.  6 Men still dominate GOP leadership
-7.  7 Entrepreneurship a key overseas tool
-8.  8 Device tax would thwart innovation
-9.  9 Jindal vs. Romney
-10.  10 Liberals to Obama: 'Don't buckle'
+1.  1 The great fiscal melodrama
+2.  2 State tells lawmaker gold is for fools
+3.  3 Report: Jackson wants disability pay
+4.  4 Petraeus: I didn't quit over Libya
+5.  5 GOP report: Merge SEC, CFTC
+6.  6 Panetta orders ethics training review
+7.  7 Murray: I will chair Senate Budget
+8.  8 Buffett backs Clinton in 2016
+9.  9 GOP chief: Mystery black voters
+10.  10 Once again, Obama vs. McCain
 
 Showing Last 7 Days
 
-Updated: 11/15/2012 7:01 AM ET
+Updated: 11/15/2012 2:16 PM ET
 
-1.  1 Obama: Attacks on Rice 'outrageous'
-2.  2 Hard questions await Obama at presser
-3.  3 Secession leader: Obama's baked
-4.  4 Allen ensnared in Petraeus scandal
-5.  5 The GOP's media cocoon
-6.  6 Media fight on the right over GOP
-7.  7 Rove under fire
-8.  8 How Obama, Boehner could agree
-9.  9 Can Rubio save GOP on immigration?
-10.  10 Republicans ponder way forward
+1.  1 Once again, Obama vs. McCain
+2.  2 Obama: Attacks on Rice 'outrageous'
+3.  3 Hard questions await Obama at presser
+4.  4 Secession leader: Obama's baked
+5.  5 Allen ensnared in Petraeus scandal
+6.  6 The GOP's media cocoon
+7.  7 Media fight on the right over GOP
+8.  8 Rove under fire
+9.  9 How Obama, Boehner could agree
+10.  10 Can Rubio save GOP on immigration?
 
 News
 
