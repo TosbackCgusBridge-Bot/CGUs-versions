@@ -1,18 +1,3 @@
-    San Antonio - North
-
-*   my vouchers
-*   log in
-*   sign up
-
-LivingSocial
-
-*   deals
-*   escapes
-*   shop
-*   takeout &. delivery
-
-Privacy Policy
-
 The LivingSocial privacy policy (the “Privacy Policy”) is intended to inform you of our policies and practices regarding the collection, use and disclosure of Personal Information and other information you submit to us through LivingSocial. By accessing or otherwise using the LivingSocial websites, e-mails or other services (collectively “LivingSocial”), you agree to the terms and conditions of this Privacy Policy (which is incorporated into and forms a part of the LivingSocial Conditions of Use) and consent to the processing of your information according to the Privacy Policy.
 
 This Privacy Policy is effective August 10, 2012. The Privacy Policy in effect prior to August 10, 2012 can be found here.
@@ -134,35 +119,3 @@ If you have questions or concerns about our Privacy Policy, please contact us at
 
 Last updated: July 13, 2012  
 The Privacy Policy in effect prior to August 10, 2012 can be found here.
-
-*   twitter
-*   facebook
-
-*   today's deals
-*   escapes
-*   shop
-*   takeout &. delivery
-
-*   how it works
-*   LivingSocial Plus
-*   gift cards
-*   mobile app
-*   credit card
-
-*   help
-*   research
-*   affiliates
-*   terms
-*   privacy policy
-
-*   about us
-*   jobs
-*   press
-*   for businesses
-*   merchant center
-
-*   **feature your business LEARN MORE »**
-*   **deals on your phone FREE DOWNLOAD »**
-*   **help us improve LEARN MORE »**
-
-© 2012, LivingSocial, Inc. or its affiliated companies. All Rights Reserved.
