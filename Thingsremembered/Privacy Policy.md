@@ -138,7 +138,7 @@ Store Locator
     *   Business Frames &. Albums
     *   Card cases &. Card Holders
     *   Coffee Mugs &. Travel Mugs
-    *   Stamps &. Stationery
+    *   Stationery &. Writing
     *   Pocket Watches &. Wrist Watches
     *   Classic Key Chains
     *   Barware &. Accessories
