@@ -142,13 +142,13 @@ For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Petraeus and all the presidential men  
+BBC newsroom in crisis? The Hour is back  
 
-America loves to put its generals into the White House, but David Petraeus’s affair has ruined his chances, says **Con Coughlin**
+**Ben Lawrence** reviews the first episode of the second series of BBC drama The Hour.
 
 Comments
 
-Paul Hayward: young lions taught lesson BBC newsroom in crisis? The Hour is back Lions XV: Greenwood v Our Readers China's love affair with England Advertisement
+Petraeus and all the presidential men Paul Hayward: young lions taught lesson Lions XV: Greenwood v Our Readers China's love affair with England Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
