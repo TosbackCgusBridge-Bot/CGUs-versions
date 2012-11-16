@@ -73,7 +73,7 @@ What's Hot
 
 What Show Has the Best Fans?
 
-_X Factor_ Recap
+Kristen Stewart
 
 Everyone Is Posing Nude!
 
