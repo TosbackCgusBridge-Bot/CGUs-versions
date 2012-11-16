@@ -1,31 +1,4 @@
-Metacafe
-
-*   Most Popular
-*   Trending Now
-*   Movies
-*   Games
-*   Unfiltered
-*   Epic Meal Time
-*   Caught on Tape
-*   Game Reviews
-*   Corridor Digital
-*   Family Guys
-*   Game Glitches
-*   Kittens
-*   Movie Reviews
-*   Pause/Play
-*   PlayStation
-*   Stand-up Comedy
-*   Tech Tips
-*   The Tribe Has Spoken
-*   Ultimate Unboxings
-*   Video Game High School
-*   Weird News
-*   Xbox
-*   More...
-    
-
-Safe Search OFF Go Sign In Terms &. Conditions
+Terms &. Conditions
 
 1.  **Your Acceptance**
     
@@ -202,30 +175,7 @@ We built Metacafe to be a creative community buzzing with energy. (We love a gre
 We hate playing cops - it takes time away from watching videos and building a killer site - so we hope this little statement does the job of keeping the Metacafe buzz going and growing.  
 Last updated: October 3, 2012
 
-1.  Your Account
-    *   My Channel
-    *   Subscriptions
-    *   Favorites
-    *   Location:
-2.  Policy &. Rules
-    *   Usage Rules
-    *   Copyright
-    *   Privacy (updated)
-    *   Behavioral Targeting
-    *   AdChoices
-3.  Work With Us
-    *   Advertisers
-    *   Contact Us
-4.  Company Buzz
-    *   About Us
-    *   Press
-    *   Blog
-5.  Follow Us
-    *   Facebook
-    *   Twitter
-    *   MetaMovies iPad app
-
-© 2012 Metacafe Inc. Terms &. Conditions
+Terms &. Conditions
 
 1.  **Your Acceptance**
     
