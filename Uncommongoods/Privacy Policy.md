@@ -593,7 +593,6 @@
 *   handmade
 
 *   recycled
-*   best selling
 *   brand new uncommongoods added weekly!
 *   see all new items in for him
 *   uncommongoods on sale for 30 - 70% off!
