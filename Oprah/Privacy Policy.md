@@ -339,7 +339,7 @@ In addition, please review the Sites' Terms of Use, which governs your use of th
       
     
 
-Advertisement Download the FREE OWN App for Windows 8 Download the OWN App for your chance to win a trip to Oprah's Lifeclass. You and a guest will receive round-trip tickets and hotel accommodations and tickets for an upcoming taping of Oprah's Lifeclass. See Official Rules for details. Learn More See an OWN Show
+Advertisement Start Your FREE 21-Day Meditation Challenge Now! Discover new ways to bring a sense of abundance to your life through the power of meditation! Take Deepak Chopra's FREE three-week meditation challenge and focus on creating abundance. Register now! See an OWN Show
 
 *   Know a Man Who Grew Up Without a Father?
 
