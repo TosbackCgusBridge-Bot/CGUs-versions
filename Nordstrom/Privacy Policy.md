@@ -67,6 +67,7 @@ Free Standard Shipping is not valid in Nordstrom Rack stores or on international
     *   Pumps
     *   Sandals
     *   Slippers
+    *   Sneakers
     *   Comfort
     *   Special Occasion
     *   Wides &. Narrows
