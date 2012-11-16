@@ -25,16 +25,16 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
-*   Fiscal Cliff
-*   David Petraeus
 *   Israel
-*   Taxes
+*   David Petraeus
+*   Fiscal Cliff
+*   TheBlaze TV
 
 Take Action
 
-Watch Live: Obama Holds First Press Conference Since March
+Developing: Report Says Hillary Clinton Will Testify on Libya in Dec.
 
-Live BlazeCast at 1pm ET: Are You Really Going to Sign a Secession Petition?
+Watch Today’s Live BlazeCast at 1pm ET: Is Israel Really Close to War?
 
 About TheBlaze
 
@@ -255,10 +255,10 @@ Sections
 
 Hot Topics
 
-*   Fiscal Cliff
-*   David Petraeus
 *   Israel
-*   Taxes
+*   David Petraeus
+*   Fiscal Cliff
+*   TheBlaze TV
 
 More from TheBlaze
 
