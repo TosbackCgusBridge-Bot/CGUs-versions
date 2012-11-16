@@ -387,7 +387,7 @@ Buscar
         *   MLB
         *   NBA
         *   Boxeo
-        *   Autos
+        *   NFL
         *   Resultados
     *   *   Shows
             
