@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Obama visits New York's island of 'heartbreak'
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Gaza cease-fire collapses, Israel drafts reservists
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines NBC Sports Door closing on Tebow and Jets?
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Bill Wippert / AP Bills drag down Dolphins
     
-    PFT Live: Things with Tim Tebow and N.Y. have gone from bad to worse. Mike Florio says the Jets' season isn't over yet, but resolutions need to be made.
+    Leodis McKelvin returned a punt 79 yards for a touchdown, Rian Lindell added four field goals and Buffalo beat Miami 19-14 on Thursday.
     
-    PFT: LT thinks Scott might be Jet who ripped Tebow PFT: Tebow admits 'terrible' talk leads to 'sadness' PFT Live: Dolphins-Bills tonight actually matters PFT's picks: Brady will give Luck dose of reality Rotoworld: Week 11 fantasy rankings Whose comeback better, Peyton's or Peterson's? Dan Patrick Show: Ponder thinks before he tweets PFT: Packers are worried about Rodgers' safety Ad
+    PFT: Dolphins' offense still stagnant in loss to Bills PFT's picks: Brady will give Luck dose of reality PFT Live: Door closing on Tebow and Jets? PFT: LT suspects Scott ripped Tebow  |  QB sad PFT: 49ers' Harbaugh treated for irregular heartbeat Rotoworld: Week 11 fantasy rankings Better comeback: Peyton's or Peterson's? Dan Patrick: Ponder thinks before he tweets Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Andy Lyons / Getty Images MVPs coming tonight, and it's close
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines David J. Phillip / AP file Cabrera beats Trout for AL MVP
     
-    HBT: In the NL, it's a 3-horse race. In the AL, it's between a rookie and baseball's first Triple Crown winner since 1967. Who's going to win?
+    HBT: Detroit Tigers' Miguel Cabrera, the first player since Carl Yastrzemski in 1967 to win baseball's coveted triple crown, easily beat Rookie of the Year Mike Trout for the American League's top honor.
     
-    CSN's McAdam: Why I voted Trout for MVP HBT: Dickey first knuckleballer to win Cy Young HBT: Price squeaks past Verlander for AL Cy Young HBT: Cy vs. Cy — it finally happened in 2012 HBT: Hunter signs with Tigers for 2 years, $26M HBT: Selig says Marlins' megatrade is 'under review' HBT: Should Selig block Marlins' megatrade? HBT: Manny's being Manny in the Dominican Ad
+    HBT: Posey is NL's Most Valuable Player CSN: Posey's just getting started HBT: Trout, baseball's best player, is denied CSN's McAdam: Why I voted Trout for MVP DeMarco: Jays suddenly very relevant again Prosecutors want 2 1/2-year sentence for Dykstra HBT: Dickey first knuckleballer to win Cy Young HBT: Price squeaks past Verlander for AL Cy Young Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Mike Cassese / Reuters 'Let's all try and stay positive'
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Carlo Allegri / Reuters 'More discouraged than I have been'
     
-    PHT: Wayne Gretzky’s prediction for the return of NHL almost sounds like an injury report. He thinks a deal will be reached in 4-6 weeks.
+    PHT: NHL deputy commissioner Bill Daly is “more discouraged now” than he’s ever been during the CBA negotiations.
     
-    Even phone calls stop between NHL, NHLPA PHT: When will next set of games be canceled? PHT: Former enforcer charged in hunting death PHT: Wings get bad news on Filppula's knee CSN: Scars beginning to show on both sides PHT: Who should be in 2013's Hall of Fame class? PHT: Sakic enters Hall of Fame as Avs hero PHT: Bure thanks fans as he enters Hall Ad
+    CSN: NHL needs to end this gong show ... NOW! CSN: NHL labor talks take odd, depressing turn Gretzky says all is not lost with lockout PHT: 'Let's all try and stay positive,' Gretzky says Richards, Rangers set to skate for Staten Island PHT: Toews played with concussion symptoms PHT: Ex-enforcer Jonathan charged in hunting death PHT: Vigneault living in parents' basement Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Noah Graham / Getty Images Contributor Why not go with Coach Kobe?
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Darren Abate / AP Knicks 'for real' after beating Spurs
     
-    Mailbag: Whatever Bryant wants, Bryant gets — Lakers might as well just name him coach.
+    PBT: Despite scoring only nine points, Carmelo Anthony played a great game as N.Y. (6-0) defeated San Antonio 104-100 on Thursday.
     
-    PBT: Perkins, Randolph have words after ejection PBT: Depleted Timberwolves sign Josh Howard PBT: Clippers have no trouble blowing out Heat PBT: Grizzlies top Thunder, continue hot start SportsTalk: Will D'Antoni's system fit Lakers? SportsTalk: What, why and how of D'Antoni hiring PBT: Magic in 'mourning' over Laker hire? Spare us Trash Talk: D'Antoni is right man for Lakers Ad
+    SportsTalk: Carmelo finding his form PBT: Wade-less Heat still beat Nuggets PBT: Celtics fall to Nets, not same without Rondo Mailbag: Why not go with Coach Kobe? PBT: D'Antoni confident Lakers still title contenders SportsTalk: Will D'Antoni's system fit Lakers? SportsTalk: What, why and how of D'Antoni hiring Trash Talk: D'Antoni is right man for Lakers Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Steve Dykes / Getty Images Top teams won't get tripped up
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines NBC Sports Coach of the year? Clearly Snyder
     
-    CFT's Predictions 101: No. 1 Oregon, No. 2 Kansas State and No. 3 Notre Dame figure to keep their national title hopes alive with wins Saturday.
+    SportsTalk: Kansas State coach Bill Snyder definitely deserves coach of the year honors for leading the Wildcats to the top of the BCS standings.
     
-    Injuries test No. 1 Ducks' 'D'   |  Stanford ready No. 2 K-State bears resemblance to '98 team CFT: Missing Texas A&M receiver found safe N. Illinois wins MAC West   |  Coach to leave? Heisman Hopefuls: Could a freshman win? SportsTalk: Klein or Manziel for Heisman? Tar Heels next up in Virginia's bowl drive CFT: Alabama gov. questions Saban's play calling Ad
+    No. 2 K-State bears resemblance to '98 team Baylor's Florence has comparable numbers to RG3 Injuries test No. 1 Ducks' 'D'   |  Stanford ready Notre Dame Central: Special section on Irish Johnny Football has Aggies riding high in SEC CFT: Missing Texas A&M receiver found safe Heisman Hopefuls: Could a freshman win? North Carolina ends Virginia's bowl hopes Ad
 *   NCAA HOOPS
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Dave Martin / AP Kentucky not great, but they will be
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Jamie Squire / Getty Images Jayhawks bounce back
     
-    CBT: Losing to Duke wasn’t how the season was supposed to begin for the Wildcats. As of now, the defending champions aren't title contenders, but they will get there.
+    Freshman guard Ben McLemore (center) had 25 points and eight rebounds as No. 7 Kansas used a big second-half charge to beat Chattanooga 69-55 on Thursday. The Jayhawks, coming off a loss Tuesday to Michigan St., got off to a sluggish start against the Mocs, and trailed 42-30 in the opening minutes of the second half.
     
-    Four Hall of Famers receive Lapchick Award Murphy makes sure No. 10 UF beats No. 22 Wis. No. 15 Creighton recovers to beat UAB No Porter, no problem for Georgetown CBT: UCLA appeals Muhammed's eligibility ruling Indiana expect another top recruiting class CBT: Memphis' monster class coming together Frankamp signs with KU   |  Louisville's additions Ad
+    Easy wins: No. 1 Indiana   |  No. 2 Louisville No. 6 NC State tops Penn St. in Puerto Rico No. 13 UCLA looks sharp, gears up for Georgetown CBT: Bell's 3s lift Villanova over Purdue in OT DePaul defeated by Garnder-Webb BCA gives 'A' to 9 schools filling hoops jobs Four Hall of Famers receive Lapchick Award Indiana expects another top recruiting class Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Ivan Alvarado / Reuters F1's romance lost on Americans
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Mike Ehrmann / Getty Images Johnson turns heat on Keselowski
     
-    Americans have had a long-standing love affair with cars but the romance of Formula One has never gotten pulses racing in the U.S.
+    Jimmie Johnson is the king of mind games — he doesn't fall victim to them — and he's got five trophies as proof.
     
-    Is Sunday's F1 race weird enough for Austin, Texas? Vettel-Alonso duel rolls onto new track in US Formula One is back in the US, can it last? EPA doing flyover of Austin before F1 race Paul Wolfe initially said no to Keselowski's offer NASCAR's Keselowski can't tweet in car anymore Gordon fined $100K, docked 25 points by NASCAR Suspending Jeff Gordon would end "Boys Have At It" Ad
+    Keselowski plans to keep phone out of race car Sadler chasing Stenhouse again in Nationwide Sunday's F1 race weird enough for Austin, Texas? F1 noteook: Vetterl sorry for swearing Formula One is back in the US, can it last? Formula One romance lost on Americans Vettel-Alonso duel rolls onto new track in US Gordon fined $100K, docked 25 points by NASCAR Ad
 *   Soccer
     SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Jonathan Nackstrand / AFP-Getty Was Ibrahimovic goal best ever?
     
     Swedish striker scores from 30 yards out with backwards bicycle kick against England.
     
-    PST: Watch Ibrahimovic's amazing bicycle kick FIFA won't add Zlatan as goal award candidate PFT: Solo marries ex-NFL player after legal dispute Pele undergoing physiotherapy after hip surgery Will Brazil get enough World Cup-goers? Chelsea details race claim. Police probe dropped Japan wins, on verge of reaching 2014 World Cup Messi on shortlist for FIFA goal of the year Ad
+    PST: Watch Ibrahimovic's amazing bicycle kick FIFA won't add Zlatan as goal award candidate PST: Would you rather have Bradley or Ibrahimovic? PST: No Keane, Gruenebaum among awards finalists? Beckham 'absolutely no plans' to play in Australia PST: Beckham still a marketing tour de force PST: Kaka to MLS? Don't hold your breath Player sentenced over referee assault Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines McIlroy 'lethargic' in opening 73 in Hong Kong
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Pettersen, Kerr don't want season to end
     
-    Rory McIlroy struggled during an opening 73 at the Hong Kong Open, and he is nine shots behind the leader after Round 1.
+    It may be the season's final event, but Suzann Pettersen, Stacy Lewis and Cristie Kerr aren't letting up in the chase for the Titleholders crown.
     
-    By-the-numbers look at 2012 PGA Tour Snedeker latest to call for ban on anchored putters Behind the scenes with ... Brandel Chamblee LPGA money title, Vare Trophy up for grabs Willie Park Jr. to be inducted into Hall of Fame McIlroy wins PGA Player of Year, Vardon Trophy PGA Tour Q-School second-stage sites and scoring Focus on making solid contact before anything else Ad
+    Westwood splits with caddie Foster, coach Johnstone McIlroy 'lethargic' in opening 73 in Hong Kong Norman says 'lots of guys' were using beta blockers Pettersen shares Titleholders lead Palmer shares cover of Tiger Woods video game Behind the scenes with ... Brandel Chamblee Double duty: Kerr learns from caddie stint with Pavin Snedeker latest to call for ban on anchored putters PGA Tour Q-School second-stage sites and scoring Focus on making solid contact before anything else Ad
 *   Olympics
-    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Samuel Kubani / AFP - Getty Images Unsure when Vonn will ski again
+    SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Pablo Martinez Monsivais / AP Obama welcomes US gymnasts
     
-    Lindsey Vonn has been released from a hospital in Colorado, although details of her illness remain unclear and there is no indication of when she can begin skiing again.
+    The Fierce Five and other members of the U.S. Olympic gymnastics team got a personal audience with President Barack Obama.
     
-    Qatar to continue bidding for Olympic Games Franklin officially signs to swim for Cal 3-time gymnastics world champion Memmel retires Eaton, Felix honored as top U.S. track athletes Uzbek gymnast banned for doping at Olympics Indian athlete declared male after rape claim Lochte, Franklin impress in Minnesota Myhrer wins World Cup slalom Ad
+    Vonn will skip ceremony to introduce ski team Miller won't hurry back from left knee injury Qatar to continue bidding for Olympic Games Leisel Jones retires from swimming after 13 years Franklin officially signs to swim for Cal 3-time gymnastics world champion Memmel retires Eaton, Felix honored as top U.S. track athletes Uzbek gymnast banned for doping at Olympics Ad
 *   More
-    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Samuel Kubani / AFP - Getty Images Djokovic caps his 2012 with grit
+    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines TODAY 8 exercise gadgets to get you moving
     
-    If the early stage of Novak Djokovic’s career was mercurial talent, and 2011 was bottomless determination, then 2012 was grit.
+    Whether you’re looking for motivation to work out during the winter months or simply want to pump up your regular routine, technology expert Katie Linendoll shows off the gadgets that will have you moving in no time.
     
-    Federer wants faster courts to encourage attack Tennis mulls anti-doping step 8 exercise gadgets to get you moving The Week in Sports Pictures Livestrong charity drops Armstrong name Gun range customers can shoot ... each other? Off the Bench: Player misses 4 straight layups Off the Bench: Meanwhile, at Bali Buffalo races ... Ad
+    Ex-WNBA player Holdsclaw in jail on assault charge Frazier's bond with Philadelphia tighter in death Bodo: Djokovic caps his 2012 with grit, not talent Federer wants faster courts to encourage attack Man sets record for fastest on four limbs The Week in Sports Pictures Livestrong charity drops Armstrong name Gun range customers can shoot ... each other? Ad
 
 *   Scores
 *   Odds
@@ -184,10 +184,9 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com PFT Live: 14 teams that could be looking for a new coach  
+Tweet Also on NBCSports.com PFT's Picks: Brady will give Luck does of reality  
 CFT's Predictions 101: Top teams won't get tripped up  
-Mailbag: Why don't Lakers just go with Coach Kobe?  
-Off the Bench: Worst basketball player ever?  
+HBT: No MVP award, but Trout still best player  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
