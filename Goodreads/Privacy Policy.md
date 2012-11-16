@@ -1,28 +1,3 @@
-*   **register**
-*   tour
-*   sign in
-
-*   Home
-*   My Books
-*   Friends
-*   Recommendations
-*   *   listopia
-    *   giveaways
-    *   popular
-    *   goodreads voice
-    *   ebooks
-    
-    *   **fun**
-    *   trivia
-    *   quizzes
-    *   quotes
-    
-    *   **community**
-    *   groups
-    *   creative writing
-    *   people
-    *   eventsExplore  
-
 Privacy Policy
 
 This privacy policy was last modified on December 29, 2008.
@@ -169,48 +144,3 @@ Santa Monica, CA 90401
 Updates  
 
 October 16, 2008: We replaced our former privacy policy with a new one. Please read this Privacy Policy carefully.
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-*   About us
-*   Advertise
-*   API
-*   Author program
-*   Contact us
-*   Help
-*   How it works
-*   Jobs
-*   Librarian manual
-*   Our blog
-*   Press
-*   Review guidelines
-
-Follow Goodreads on Twitter  
-Follow Goodreads on Facebook  
-  
-  
-© 2012 Goodreads Inc
-
-*   about us
-*   advertise
-*   author program
-*   jobs
-*   api
-*   our blog
-*   terms
-*   privacy
-*   help
-
-  
-  
-close
-
-Welcome back. Just a moment while we sign you in to your Goodreads account.
