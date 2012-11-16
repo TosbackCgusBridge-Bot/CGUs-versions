@@ -1,12 +1,4 @@
-Your Giftlist Your personal Giftlist is a reminder for returning customers of gifts you've sent from Harry &. David at this time last year, as well as the names and addresses of the gift recipients for easy re-ordering. | Your Favorites Your Cart Items: 0 Sign In Your Account | Sign-up for Email Get Special Offers by signing up for exclusive email offers, sales, and special events. 877-322-1200 Added to Cart Gift Baskets &  
-Towers Pears &  
-Fresh Fruit Fruit  
-Clubs Chocolates &  
-Sweets Gourmet  
-Foods Flowers &  
-Plants Holidays &  
-Special Occasions Sales &  
-Specials \[espotHeaderBanner\] Community Information Harvest Report Recipes Featured in Stores Appetizers Beverages Salads Side Dishes Entrées Desserts Videos for Easy Entertaining Our Stores Moose Munch for Troops Store Locations Featured Store Recipes Events Calendar Retail Careers Position Overviews Career Benefits Shopping Services Coupons Gift List™ Gift Cards Greeting Cards Gift eNouncements International Gifts Online Catalog Request a Catalog My Account Business Gifts Personalized Gifts Branded and Personalized Greeting Cards Contact Us **Call 1-800-248-5567** for easy ordering, or to discuss custom options. About Us Green Promise Factory Tours Career Opportunities Corporate Locations Investor Relations Customer Service Customer Updates How to Place An Order View Tracking History Holiday Shipping Cut-Off Dates Delivery and Processing Arrival Dates Items with Wine Sales Tax Payment Privacy Policy Terms of Use CA SB 657 Disclosure Browser Requirements Frequently Asked Questions Our Guarantee Contact Us Privacy Policy
+Privacy Policy
 
 Effective: July 18, 2012
 
@@ -202,46 +194,3 @@ Questions or Comments?
 This Website is owned by Harry &. David. For questions, comments, or assistance, we invite you to write us at the address provided above or contact us.
 
 ©2012, Harry and David, LLC. All rights reserved.
-
-\[espotFooterBanner\] **Need help?**   877 322 1200 | Every Harry &. David gift is backed by the strongest guarantee in the business.
-
-*   Customer Services
-    *   Order Tracking
-    *   Delivery &. Processing
-    *   Email &. Catalog  
-        Preferences
-    *   Affiliate Program
-    *   Harry &. David Blog
-    *   Contact Us
-    *   \>. more
-*   Shopping Services
-    *   International Gifts
-    *   Catalog Request
-    *   Catalog Quick Shop
-    *   View Catalog Online
-    *   Gift Cards &. eGift Cards
-    *   Harry and David Coupons
-    *   Cheese and Sausage Gifts
-    *   Chocolate Dipped Fruit
-    *   Edible Fruit Gifts
-    *   \>. more
-*   In Our Stores
-    *   Store Locator
-    *   \>. more
-*   Corporate Gifts
-    *   Large Order Services
-    *   Shop Business Gifts
-    *   \>. more
-*   Community Information
-    *   Harry &. David Blog
-    *   Recipes
-    *   Harvest Report &. Club  
-        Arrival Updates
-    *   About Us
-    *   Career Opportunities
-    *   Investor Information
-    *   Site Map
-    *   \>. more
-
-© 2012, Harry and David, LLC. All Rights Reserved. Terms of Use | Privacy Policy Go To Mobile Site  
-ABOUT SSL CERTIFICATES
