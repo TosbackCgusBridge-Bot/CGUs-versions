@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
-Oil Spill
+Egypt
 
-News Summary: BP will pay $4.5 billion in settlement with US g...
+Brief truce quickly collapses as Egypt's PM visits Gaza
 
-Mitt Romney
+Hurricane
 
-Top Republicans say Romney didn't offer specifics
+Migration officials say cholera in Haiti on rise since Hurrica...
 
 Politix
 
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
-  Ads by Glam
+ 
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 109,317 • Total comments across all topics: 191,193,589
+Comments made yesterday: 108,644 • Total comments across all topics: 191,261,340
 
 Copyright ©2012 Topix LLC
 
