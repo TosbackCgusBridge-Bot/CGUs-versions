@@ -2,16 +2,16 @@
 
 *   What's New
 *   Hot Topics
-    *   David Petraeus
-    *   David Petraeus...
     *   entertainment
+    *   David Petraeus
     *   celebrity
+    *   David Petraeus...
     *   Paula Broadwell
-    *   President Obama
-    *   strange stuff
     *   Benghazi
     *   Jill Kelley
-    *   Hurricane Sandy
+    *   President Obama
+    *   Election 2012
+    *   Susan Rice
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -119,47 +119,29 @@ COMMUNITY
 
 NEWS FROM OUR PARTNERS
 
-*   If We Lose, It Was Stolen
-*   Nintendo’s New Console Will Change How You Watch Television
-*   How Many Coal Miner Deaths Does It Take To Pass Safety...
-
-More from Slate »
-
-*   BUD FOR BENEFIT
-*   Sex Sells: Burgers, Coffins, You Name It
-*   The Bermuda Triangle 1945: The Veterans Who Never Returned
-
-More from HuffPost Weird »
-
-*   Jon Bon Jovi’s Daughter Stephanie Bongiovi Overdoses On...
-*   How To Be The Sexiest Man Alive
-*   Why The Media’s Coverage Of The David Petraeus Affair Is...
+*   Gobble, Gobble: 10 Super Yummy Thanksgiving Side Dishes
+*   That’s A Lot Of Look: Kristen Stewart Feels Pretty...
+*   PETA Hits New Low With Joanna Krupa “Fur Trim” Pubic Hair Ad
 
 More from The Frisky »
 
-*   Store owner thwarts armed robber with chili pepper powder...
-*   Wikipedia actually broke the news of the Petraeus/Broadwell...
-*   Eleven Jinping becomes new leader of China \[News\]
+*   Panel formed to review state's "Stand-Your-Ground" law says...
+*   Counterfeiter tripped up by one minor flaw on his $100...
+*   "It's unlikely that secession was one of those important...
 
 More from Fark »
 
-*   8 curiously thoughtful thieves
-*   The David Petraeus affair: Why the U.S. military outlaws...
-*   4 failures Obama should remedy in his second term
+*   Are fringe Republicans trying to impeach President Obama?
+*   Obama's second term: The case for preventing Iranian nukes
+*   4 signs the 2016 Republican primary has already started
 
 More from The Week »
 
-*   FBI Agent's Shirtless Photo Was Decidedly Unsexy
-*   NYPD Credits Stop-And-Frisk With Drop in Murder Rate
-*   Despite Calls for 'Maximum Restraint,' Fighting Intensifies...
+*   Will Bourne Named Editor of the Village Voice
+*   Big Problems, Little Solutions: For the New Occupy, Size Is...
+*   A (Possibly Drunk, Possibly Elderly) Theatergoer Vomited...
 
 More from Daily Intel »
-
-*   9 Ways To Treat Acid Reflux Naturally
-*   Where Cancer Prevention Must Start
-*   Food Is Medicine
-
-More from HuffPost Health »
 
 *   Snooki Cries While Surveying Hurricane Sandy Devastation in...
 *   'X Factor's' Emblem3 Reacts to Their No. 6 Ranking: Middle...
@@ -167,15 +149,15 @@ More from HuffPost Health »
 
 More from Celebuzz »
 
-*   Adorable Kids Saying Grace Will Have You Dying of Laughter...
-*   Compassionate Doctor Charges $5 a Visit -- Here Are Other...
-*   Keira Knightley's Rumored 'Anorexia' Reminds Us Thin Women...
+*   20 Things I Want My Daughter to Know Before She Grows Up
+*   Kristen Stewart Goes 'Twilight' Sheer Again in Sexy Black...
+*   Lindsay Lohan's Bizarre 'Jimmy Fallon' Performance Can Only...
 
 More from The Stir »
 
-*   Perspective: Color Me Thirsty
-*   Portrait: Cornerstone
-*   Brand Turns a Facebook Photo Album Into a Stop-Motion Film
+*   Love, Hate, Triumph and Loss: The Whole Creative Process in...
+*   PETA Gets Itself in Yet Another Hairy Situation
+*   Samsung Gets Overly Attached Girlfriend to Play a...
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
