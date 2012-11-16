@@ -20,6 +20,8 @@ BROWSE
 
 *   Latino
 
+*   Video Games
+
 *   Recommendations
 
 *   Hulu Plus
