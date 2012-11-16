@@ -11,11 +11,11 @@ Most Viewed
 
 Most Searched
 
-1.  bedrooms
+1.  christmas
 2.  designer inspiration
-3.  christmas
-4.  curtain
-5.  holiday rooms
+3.  bed room
+4.  bedrooms
+5.  jewelry
 
 Magazine | RSS
 
