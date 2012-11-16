@@ -221,7 +221,7 @@ Torrance, CA 90501 Your Privacy Rights
         
         **$14,370**  starting **1**
         
-        **30/38**  est. mpg **2**
+        **30/37**  est. mpg **2**
         
     *   Corolla
         
@@ -243,9 +243,9 @@ Torrance, CA 90501 Your Privacy Rights
         
     *   Avalon
         
-        **$33,195**  starting **1**
+        **$30,990**  starting **1**
         
-        **19/28**  est. mpg **2**
+        **21/31**  est. mpg **2**
         
     *   Sienna
         
@@ -345,9 +345,35 @@ Torrance, CA 90501 Your Privacy Rights
         
 *   *   **\*** View Disclaimers
         
-    *   3rd Gen Prius
+    *   Camry Hybrid
         
-        **$24,000**  starting **1**
+        **$25,990**  starting **1**
+        
+        **43/39**  est. mpg **2**
+        
+    *   Avalon Hybrid
+        
+        **$30,990**  starting **1**
+        
+        **21/31**  est. mpg **2**
+        
+    *   RAV4 EV
+        
+        **$49,800**  starting **1**
+        
+        **103**  EPA-rated driving range **2**
+        
+        **76**  mpge **3**
+        
+    *   Highlander Hybrid
+        
+        **$39,970**  starting **1**
+        
+        **28/28**  est. mpg **2**
+        
+    *   Prius
+        
+        **$24,200**  starting **1**
         
         **51/48**  est. mpg **2**
         
@@ -367,29 +393,9 @@ Torrance, CA 90501 Your Privacy Rights
         
     *   Prius _v_
         
-        **$26,550**  starting **1**
+        **$26,650**  starting **1**
         
         **44/40**  est. mpg **2**
-        
-    *   Camry Hybrid
-        
-        **$25,990**  starting **1**
-        
-        **43/39**  est. mpg **2**
-        
-    *   Highlander Hybrid
-        
-        **$39,970**  starting **1**
-        
-        **28/28**  est. mpg **2**
-        
-    *   RAV4 EV
-        
-        **$49,800**  starting **1**
-        
-        **103**  EPA-rated driving range **2**
-        
-        **76**  mpge **3**
         
 
 Zip Code
