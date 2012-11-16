@@ -143,28 +143,28 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Running Shoes Women Resources
+*   Morning Workout Exercises Resources
 
   
-Stay in Touch With SparkPeople **15 Ways to Boost Your Calcium Intake**
+Stay in Touch With SparkPeople **30 Days &. 30 Ways to Stay on Track**
 
-You're careful about calories and fussy about fat. But how conscious are you regarding calcium, the mineral that keeps you strong and healthy?
+Try one of these healthy changes each day this month to keep you moving in the right direction!
 
 Read More
 
-*   Describe the last time you felt proud of yourself.
-*   Pantry staples
-*   How do you fight boredom on the treadmill?
+*   Keeping fruits and veggies fresh
 *   Feeling Embarrassed at the Gym..
 *   What are your plans for Thanksgiving dinner?
+*   Keeping fruits and veggies affordable?
+*   Strateies needed from Thanksgiving to New Year's
 
-View Demo **Bridges on Balance Board**  
-A great leg and booty toner! **Herb Roasted Turkey**  
+View Demo **Dumbbell Squats**  
+Build strong and powerful leg muscles. **Chef Meg's Vegetable Beef Soup**  
 Submitted By: **CHEF\_MEG**
 
-The only turkey recipe you'll ever need--no basting necessary. Full Recipe
+Prepare Chef Meg's Beef Roast recipe and use 12 ounces (four servings) of the leftover meat to make this quick, hearty, healthy soup. Full Recipe
 
-Search Over 200k Healthy Recipes:  Search Get deals by email Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
+Search Over 200k Healthy Recipes:  Search Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
 Join Now For Free!  
   
