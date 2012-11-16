@@ -23,17 +23,17 @@
     
     Blogs &. Columns
     
-    *   **Shorthand**  
+    *   **Rubio appeals to GOP common sense'...**  
         Election 2012 | Natalie Jennings
     
-    *   **McCain’s claims about Susan Rice’s...**  
+    *   **John McCain’s Benghazi sideshow**  
         The Fact Checker | Glenn Kessler
     
-    *   **The millions of reasons Nancy Pelosi...**  
+    *   **The millions of reasons Pelosi...**  
         She The People | Melinda Henneberger
     
-    *   **Why the GOP needs to do immigration...**  
-        The Fix | Aaron Blake
+    *   **Ron Paul's most memorable moments...**  
+        The Fix | Sean Sullivan
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -49,13 +49,13 @@
     *   **The War on Thanksgiving**  
         ComPost | Alexandra Petri
     
-    *   **Morning Open Thread**  
-        The Plum Line | Greg Sargent
+    *   **Obama must preserve the payroll...**  
+        The Plum Line | Jamelle Bouie
     
     *   **Don’t forget about Holly Petraeus**  
         PostPartisan | Jonathan Capehart
     
-    *   **Morning Bits**  
+    *   **Egypt shows its colors**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,17 +72,17 @@
     
     Blogs &. Columns
     
-    *   **Forecast: Thin cloud cover keeps...**  
-        Capital Weather Gang | David Streit
+    *   **AccuWeather celebrates 50-year...**  
+        Capital Weather Gang | Jason Samenow
     
-    *   **Signs of progress at Victor Albisu’s...**  
+    *   **Abbreviated restaurant names, in...**  
         Going Out Gurus | Alex Baldinger
     
-    *   **Woman hurt, 2 sons dead in Baltimore...**  
-        Crime Scene | the Associated Press
+    *   **Four charged with murder after...**  
+        Crime Scene | David Marino-Nachison
     
-    *   **Major parking changes loom in Northwest...**  
-        D.C. Wire | Tim Craig
+    *   **Poll: McDonnell still popular in...**  
+        Virginia Politics | Laura Vozzella
 *   Sports In Sports
     
     *   Redskins/NFL
@@ -100,13 +100,13 @@
     *   **Jason Chimera signs with HC Chomutov...**  
         Capitals Insider | Katie Carrera
     
-    *   **Byron Leftwich addresses the media...**  
+    *   **Mark DeRosa: Nats needed Stephen...**  
         DC Sports Bog | Dan Steinberg
     
-    *   **How much difference will getting...**  
-        The Insider | Keith McMillan
+    *   **Jim Haslett hopes one-on-one meetings...**  
+        The Insider | Mike Jones
     
-    *   **Nationals sign Will Rhymes to minor...**  
+    *   **MVP awards announced tonight, all...**  
         Nationals Journal | James Wagner
 *   National In National
     
@@ -126,7 +126,7 @@
     *   **Economists’ global warming**  
         Ideas@Innovations | Dominic Basulto
     
-    *   **Why women need more ‘hot jobs’**  
+    *   **Nancy Pelosi and the question of...**  
         PostLeadership | Jena McGregor
     
     *   **Graham: Operation Christmas Child...**  
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **A rapping Alabaman is now one of...**  
-        WorldViews | Olga Khazan
-    
-    *   **How will Egypt respond to Israeli...**  
+    *   **Life under rockets: A young man's...**  
         WorldViews | Max Fisher
     
-    *   **Chinese netizens are using English...**  
+    *   **China's party congress choreographed...**  
+        WorldViews | William Wan
+    
+    *   **Water: The next challenge for China's...**  
         WorldViews | Olga Khazan
     
-    *   **Israeli military and Hamas exchange...**  
+    *   **Map: Gaza rocket reportedly hits...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -170,7 +170,7 @@
     
     Blogs &. Columns
     
-    *   **Black Thursday, a turkey of an...**  
+    *   **Petraeus probe**  
         The Color of Money | Michelle Singletary
     
     *   **Music royalties fight continues...**  
@@ -179,8 +179,8 @@
     *   **How business can bounce back from...**  
         Steven Pearlstein
     
-    *   **Wonkbook: The tax policies which...**  
-        Wonkblog | Evan Soltas
+    *   **Prairie dogs kiss each other goodbye**  
+        Wonkblog | Sarah Kliff
 *   Tech In Technology
     
     *   Policy
@@ -191,7 +191,7 @@
     
     Blogs &. Columns
     
-    *   **Samsung extends lead in smartphone...**  
+    *   **Amazon: Kindle Fire 8.9 starts...**  
         Hayley Tsukayama
     
     *   **Music royalties fight continues...**  
@@ -211,16 +211,16 @@
     
     Blogs &. Columns
     
-    *   **Farmers Market Roundup: Nov. 15-21**  
-        All We Can Eat | Becky Krystal
+    *   **Grace Young: ‘The code of Chinese...**  
+        All We Can Eat | Grace Young
     
     *   **The perils of life without marginalia**  
         The Style Blog | Ron Charles
     
-    *   **Family Almanac: the defiant toddler...**  
-        On Parenting | On Parenting
+    *   **Parent volunteers: How do you manage...**  
+        On Parenting | Mari-Jane Williams
     
-    *   **Susan Mary Alsop, Washington grande...**  
+    *   **Hey, isn’t that . . . ?: Bill Gates**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,13 +240,13 @@
     *   **Castleton announces 2013 season**  
         Classical Beat | Anne Midgette
     
-    *   **‘American Horror Story’: Bloody...**  
+    *   **Remembering a time before ‘Twilight’**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **‘The X Factor’: Diva Night**  
+    *   **FX picks up third season of ‘American...**  
         The TV Column | Lisa de Moraes
     
-    *   **‘Riffs’ Fave Reads of 2012:**  
+    *   **Cartoons and Cocktails:**  
         Comic Riffs | Michael Cavna
 *   Jobs In Jobs
 *   More
@@ -320,94 +320,86 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-Ron Paul's farewell speech (VIDEO) Romney: Obama's 'gifts' to key demographics helped him win Three Israelis killed by rocket fired from Gaza Strip. Israel intensifies air offensive
+Ron Paul's farewell speech (VIDEO) McCain’s claims about Susan Rice’s comments on the Libya attack
 
-Karin Brulliard 
+Glenn Kessler 
 
-Romney: Obama’s gift giving led to loss
+Romney: Obama's 'gifts' to key demographics helped him win Romney: Obama’s gift giving led to loss
 
 Jerry Markon 
 
-Shorthand White House, Congress scrutinize FBI’s inquiry into Petraeus
+15 Palestinians, 3 Israelis dead as intense air assaults and rocket fire continue
 
-Greg Miller 
+Karin Brulliard 
+
+Panetta orders Pentagon investigation of legal, ethical issues among military leaders
+
+Craig Whitlock 
 
 The inconvenient truths of 2012
 
 E.J. Dionne Jr. 
 
-The new boom: Shale gas fueling an American industrial revival
-
-Steven Mufson 
-
 Obama’s message to GOP is, Ante up
 
 Ruth Marcus 
 
-Would a ‘chained’ inflation index result in big benefit cuts for Social Security?
+White House, Congress scrutinize FBI’s inquiry into Petraeus
 
-Glenn Kessler 
-
-In first post-election news conference, Obama lays out second term
-
-Scott Wilson 
+Greg Miller 
 
 Will Supreme Court answer monks’ prayers?
 
 George F. Will 
 
+The millions of reasons Pelosi stayed Carolyn Hax: Good advice for a nephew’s fiancee
+
+Carolyn Hax 
+
 As Paula Broadwell holes up in D.C. house, camped-out media wait in patience
 
 Emily Wax 
 
-Don’t forget about Holly Petraeus
+The GOP needs immigration reform Obama must kill the debt limit
+
+Matt Miller 
+
+The new boom: Shale gas fueling an American industrial revival
+
+Steven Mufson 
+
+Miami Marlins ‘trade’ shows Jeffrey Loria, MLB at their worst
+
+Thomas Boswell 
+
+In first post-election news conference, Obama lays out second term
+
+Scott Wilson 
+
+From the 47% to gifts': Mitt Romney's ugly vision of politics Don’t forget about Holly Petraeus
 
 Jonathan Capehart 
-
-Keep Donald Trump, Macy's
-
-Alexandra Petri 
-
-Fox News and those Benghazi detainees
-
-Erik Wemple 
-
-Carolyn Hax: Good advice for a nephew’s fiancee
-
-Carolyn Hax 
-
-Writers Louise Erdrich, David Ferry, Katherine Boo, William Alexander win National Book Awards
-
-Associated Press 
-
-Xi Jinping takes over reins of Chinese Communist Party at time of heightened anxiety
-
-William Wan 
-
-Obama’s door to tax compromise
-
-Editorial Board 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
     1.  Ron Paul's farewell speech (VIDEO)
-    2.  Romney: Obama's 'gifts' to key demographics helped him win
-    3.  Three Israelis killed by rocket fired from Gaza Strip. Israel intensifies air offensive
+    2.  John McCain's Benghazi sideshow
+    3.  Romney: Obama's 'gifts' to key demographics helped him win
     4.  Romney: Obama's gift giving led to loss
-    5.  Shorthand
+    5.  15 Palestinians, 3 Israelis dead as intense air assaults and rocket fire continue
 *   Top Videos
-    1.  President Obama's news conference in 3 minutes
-    2.  Sen. John McCain: 'One of the dumbest questions I've ever heard'
-    3.  Jon Bon Jovi's daughter recovering after heroin overdose
-    4.  Madonna dances 'Gangnam Style' With PSY
-    5.  Full video of President Obama's press conference
+    1.  Jon Bon Jovi's daughter recovering after heroin overdose
+    2.  FBI agent in Petraeus scandal revealed
+    3.  Sen. John McCain: 'One of the dumbest questions I've ever heard'
+    4.  President Obama's news conference in 3 minutes
+    5.  Petraeus to testify on Benghazi attack
 *   Top Galleries
     1.  The David Petraeus scandal: Cast of characters
     2.  Thanksgiving recipes from the White House
-    3.  Top tech trends of 2012
-    4.  Hamas leader in Gaza killed by Israeli strike
-    5.  Day in photos
+    3.  Gaza Strip conflict escalates
+    4.  Day in photos
+    5.  Stakeout City: The hordes following those tainted by Washington scandal
 
 Today's Paper
 
@@ -417,13 +409,16 @@ Today's Paper
 
 Live Discussions
 
-Free Range on Food
+Tracee Hamilton
 
-Live Q&A, noon ET
+Live Q&A, 11 a.m. ET
 
-Our resident foodies are here to help you navigate all things culinary. This week: Thanksgiving, Part 1.
+Chat with the sports columnist about local and national sports. And whatever else you want to talk about.
 
-**11:00 AM** **Home Front: Renowned designer Barbara Barry joins the weekly chat** **11:00 AM** **Tracee Hamilton discusses local and national sports -- and whatever else you want to talk about.** **12:00 PM** **Parenting advice: Help for raising children of all ages** **12:00 PM** **Adrian Higgins on gardening in the fall** **2:00 PM** **Celebritology Live**
+**2:00 PM** **Celebritology Live**   LIVE NOW
+
+*   Earlier Today
+    *   **11:00 AM** **Home Front: Renowned designer Barbara Barry joins the weekly chat** **11:00 AM** **Tracee Hamilton discusses local and national sports -- and whatever else you want to talk about.** **12:00 PM** **Parenting advice: Help for raising children of all ages** **12:00 PM** **Adrian Higgins on gardening in the fall**
 
 **Weekly schedule, past shows**
 
