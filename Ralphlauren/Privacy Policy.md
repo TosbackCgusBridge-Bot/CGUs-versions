@@ -16,7 +16,6 @@ Complimentary Shipping Over $195
     *   Collection
     *   Black Label
     *   Blue Label
-    *   Pink Pony
     *   RLX
     *   Lauren
     *   Denim &. Supply
