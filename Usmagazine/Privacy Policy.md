@@ -158,9 +158,9 @@ ADVERTISEMENT
 
 Hot Pics! Hilty Says Hello! »
 
-Top Stories1.  Kristen Stewart Flashes Major Leg at Berlin Breaking Dawn Screening »
+Top Stories1.  Jessica Simpson Films Weight Watchers Ad, Shows Off Super Skinny Bod »
 2.  OMG! Jennifer Aniston Copies Brenda and Kelly's Spring Dance Dress »
-3.  Jessica Simpson Films Weight Watchers Ad, Shows Off Super Skinny Bod »
+3.  Kristen Stewart Flashes Major Leg at Berlin Breaking Dawn Screening »
 4.  Peter Facinelli Debuts New Girlfriend at Twilight Bash in NYC »
 5.  Lady Gaga Flaunts Sideboob in Sexy Leotard Top Paired With Mom Jeans »
 
