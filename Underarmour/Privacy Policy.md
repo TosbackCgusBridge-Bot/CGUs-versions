@@ -70,7 +70,7 @@ VIEW CART &. CHECKOUT
     *   Gloves
     *   Socks
     *   Backpacks &. Bags
-    *   Eyewear
+    *   Sunglasses
     *   All Men's Accessories ►
     
     *   Featured
@@ -127,7 +127,7 @@ VIEW CART &. CHECKOUT
     *   Gloves
     *   Socks
     *   Backpacks &. Bags
-    *   Eyewear
+    *   Sunglasses
     *   All Women's Accessories ►
     
     *   Featured
