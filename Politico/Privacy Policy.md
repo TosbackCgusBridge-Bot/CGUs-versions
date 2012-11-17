@@ -111,126 +111,125 @@ Popular **on POLITICO**
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/16/2012 6:01 AM ET
+Updated: 11/17/2012 4:02 AM ET
 
-1.  1 Some GOP govs go soft on taxes
-2.  2 GOP returns Mitt 'gifts'
-3.  3 Vote-count stumbles leave West, Barber hanging
-4.  4 Papa John's faces Obamacare fight
-5.  5 Mitt Romney's post-election gaffe
-6.  6 State tells lawmaker gold is for fools
-7.  7 Restaurateur to add Obamacare tax
-8.  8 Obama woos CEOs, GOP wants them back
-9.  9 Jindal vs. Romney
-10.  10 620K tell Macy's to 'dump Trump'
+1.  1 Union: 'Bain-style' killing of Twinkie
+2.  2 Petition wants Obama to save Twinkies
+3.  3 The AP's Jerusalem 'correction'
+4.  4 Cruz: Romney 'French-kissed' Obama
+5.  5 Pawlenty: 'Gifts' didn't elect Obama
+6.  6 Roger Ailes explains the Karl Rove episode
+7.  7 Broadwell mentioned Senate run
+8.  8 Jindal vs. Romney
+9.  9 Christie unwraps Mitt's 'gift' claim
+10.  10 Judge denies Allen West recount request
 
-Updated: 11/16/2012 6:01 AM ET
+Updated: 11/17/2012 4:02 AM ET
 
-1.  1 GOP returns Mitt 'gifts'
+1.  1 Union: 'Bain-style' killing of Twinkie
+2.  2 Christie unwraps Mitt's 'gift' claim
+3.  3 Petition wants Obama to save Twinkies
+4.  4 Pawlenty: 'Gifts' didn't elect Obama
+5.  5 Petraeus: CIA believed Benghazi was terrorism
+6.  6 Some GOP govs soften on taxes
+7.  7 Webster: Sorry for black-voter claim
+8.  8 Jindal vs. Romney
+9.  9 The AP's Jerusalem 'correction'
+10.  10 Broadwell mentioned Senate run
+
+Updated: 11/17/2012 4:02 AM ET
+
+1.  1 Union: 'Bain-style' killing of Twinkie
 2.  2 Jindal vs. Romney
-3.  3 Once again, Obama vs. McCain
-4.  4 Some GOP govs go soft on taxes
-5.  5 Mitt Romney's post-election gaffe
-6.  6 State tells lawmaker gold is for fools
-7.  7 Benghazi inquiry sparks Hill battle
-8.  8 GOP chief: Mystery black voters
-9.  9 Vote-count stumbles leave West, Barber hanging
-10.  10 Obama steamed over Rice
-
-Updated: 11/16/2012 6:01 AM ET
-
-1.  1 Lawmaker asks to be paid in gold
-2.  2 Sebelius gets Obamacare subpoena
-3.  3 Jindal vs. Romney
-4.  4 GOP returns Mitt 'gifts'
-5.  5 5 Gmail lessons from Petraeus affair
-6.  6 Hard questions await Obama at presser
-7.  7 Benghazi inquiry sparks Hill battle
+3.  3 GOP returns Mitt 'gifts'
+4.  4 Some GOP govs soften on taxes
+5.  5 Christie unwraps Mitt's 'gift' claim
+6.  6 Petition wants Obama to save Twinkies
+7.  7 Pawlenty: 'Gifts' didn't elect Obama
 8.  8 Once again, Obama vs. McCain
-9.  9 Some GOP govs go soft on taxes
-10.  10 Photos place Broadwell in D.C.
+9.  9 State tells lawmaker gold is for fools
+10.  10 West, Barber in vote-count limbo
 
-Updated: 11/16/2012 6:01 AM ET
+Updated: 11/17/2012 4:02 AM ET
 
 1.  1 Rove under fire
 2.  2 6 questions on Petraeus's exit
-3.  3 Oliver Stone: 'I find Obama scary'
-4.  4 Lawmaker asks to be paid in gold
+3.  3 Lawmaker asks to be paid in gold
+4.  4 Union: 'Bain-style' killing of Twinkie
 5.  5 The GOP's media cocoon
 6.  6 The GOP polling debacle
 7.  7 Romney campaign's lasting mark
 8.  8 Secession petitions flood White House website
 9.  9 Media fight on the right over GOP
-10.  10 Welcome to the Rand Paul evolution
+10.  10 Jindal vs. Romney
 
 *   Last 12 Hours
 *   Last 24 Hours
 *   Last 2 Days
 *   Last Week
 
-Updated: 11/16/2012 6:01 AM ET
+Updated: 11/17/2012 4:02 AM ET
 
-1.  1 Martinez points direction for GOP
-2.  2 Dairy market plan is bad formula
-3.  3 Vote-count stumbles leave West, Barber hanging
-4.  4 Obama woos CEOs, GOP wants them back
-5.  5 GOP tensions flare over merger
-6.  6 HHS pushes back exchange deadline
-7.  7 Papa John's faces Obamacare fight
+1.  1 West wins round in recount fight
+2.  2 Reid to senators: No Libya panel
+3.  3 Petraeus: Poster child for email privacy
+4.  4 GOP questions EPA chief's emails
+5.  5 Cruz: Romney 'French-kissed' Obama
+6.  6 Priebus tries to lock down RNC chair
 
-Updated: 11/16/2012 6:01 AM ET
+Updated: 11/17/2012 4:02 AM ET
 
-1.  1 Martinez points direction for GOP
-2.  2 Dairy market plan is bad formula
-3.  3 Vote-count stumbles leave West, Barber hanging
-4.  4 Obama woos CEOs, GOP wants them back
-5.  5 GOP tensions flare over merger
-6.  6 HHS pushes back exchange deadline
-7.  7 Papa John's faces Obamacare fight
-8.  8 Some GOP govs go soft on taxes
-9.  9 Samoan delegate angles for top slot
-10.  10 Restaurateur to add Obamacare tax
+1.  1 West wins round in recount fight
+2.  2 Reid to senators: No Libya panel
+3.  3 Petraeus: Poster child for email privacy
+4.  4 GOP questions EPA chief's emails
+5.  5 Cruz: Romney 'French-kissed' Obama
+6.  6 Priebus tries to lock down RNC chair
+7.  7 Unions to unveil pro-Obama fiscal cliff ads
+8.  8 Sherman quits Foreign Affairs race
+9.  9 Pawlenty: 'Gifts' didn't elect Obama
+10.  10 Jill Kelley pleads with Tampa mayor for help with press
 
-Updated: 11/16/2012 6:01 AM ET
+Updated: 11/17/2012 4:02 AM ET
 
-1.  1 Martinez points direction for GOP
-2.  2 Dairy market plan is bad formula
-3.  3 Vote-count stumbles leave West, Barber hanging
-4.  4 Obama woos CEOs, GOP wants them back
-5.  5 GOP tensions flare over merger
-6.  6 HHS pushes back exchange deadline
-7.  7 Papa John's faces Obamacare fight
-8.  8 Some GOP govs go soft on taxes
-9.  9 Samoan delegate angles for top slot
-10.  10 Restaurateur to add Obamacare tax
+1.  1 West wins round in recount fight
+2.  2 Reid to senators: No Libya panel
+3.  3 Petraeus: Poster child for email privacy
+4.  4 GOP questions EPA chief's emails
+5.  5 Cruz: Romney 'French-kissed' Obama
+6.  6 Priebus tries to lock down RNC chair
+7.  7 Unions to unveil pro-Obama fiscal cliff ads
+8.  8 Sherman quits Foreign Affairs race
+9.  9 Pawlenty: 'Gifts' didn't elect Obama
+10.  10 Jill Kelley pleads with Tampa mayor for help with press
 
-Updated: 11/16/2012 6:01 AM ET
+Updated: 11/17/2012 4:02 AM ET
 
-1.  1 Martinez points direction for GOP
-2.  2 Dairy market plan is bad formula
-3.  3 Vote-count stumbles leave West, Barber hanging
-4.  4 Obama woos CEOs, GOP wants them back
-5.  5 GOP tensions flare over merger
-6.  6 HHS pushes back exchange deadline
-7.  7 Papa John's faces Obamacare fight
-8.  8 Some GOP govs go soft on taxes
-9.  9 Samoan delegate angles for top slot
-10.  10 Restaurateur to add Obamacare tax
+1.  1 West wins round in recount fight
+2.  2 Reid to senators: No Libya panel
+3.  3 Petraeus: Poster child for email privacy
+4.  4 GOP questions EPA chief's emails
+5.  5 Cruz: Romney 'French-kissed' Obama
+6.  6 Priebus tries to lock down RNC chair
+7.  7 Unions to unveil pro-Obama fiscal cliff ads
+8.  8 Sherman quits Foreign Affairs race
+9.  9 Pawlenty: 'Gifts' didn't elect Obama
+10.  10 Jill Kelley pleads with Tampa mayor for help with press
 
 Showing Last 7 Days
 
-Updated: 11/16/2012 6:01 AM ET
+Updated: 11/17/2012 4:02 AM ET
 
-1.  1 Once again, Obama vs. McCain
-2.  2 Obama: Attacks on Rice 'outrageous'
-3.  3 Hard questions await Obama at presser
-4.  4 Secession leader: Obama's baked
-5.  5 Allen ensnared in Petraeus scandal
-6.  6 The GOP's media cocoon
-7.  7 Media fight on the right over GOP
-8.  8 Rove under fire
-9.  9 How Obama, Boehner could agree
-10.  10 Can Rubio save GOP on immigration?
+1.  1 Union: 'Bain-style' killing of Twinkie
+2.  2 Petraeus: CIA believed Benghazi was terrorism
+3.  3 Once again, Obama vs. McCain
+4.  4 Obama: Attacks on Rice 'outrageous'
+5.  5 Hard questions await Obama at presser
+6.  6 Secession leader: Obama's baked
+7.  7 Allen ensnared in Petraeus scandal
+8.  8 The GOP's media cocoon
+9.  9 Media fight on the right over GOP
+10.  10 Rove under fire
 
 News
 
