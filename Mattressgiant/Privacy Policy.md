@@ -16,7 +16,6 @@ Mattress Giant | Mattress Online | Bed Furniture Search this site... Find 0 item
     *   Innerspring Mattresses
     *   Foam Mattresses
     *   Gel Mattresses
-    *   Latex Mattresses
     *   Futon Mattresses
     *   Crib Mattresses
     *   Box Springs
