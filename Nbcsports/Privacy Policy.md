@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Gaza cease-fire collapses, Israel drafts reservists
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Israel bombs office of Gaza prime minister
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Bill Wippert / AP Bills drag down Dolphins
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Jim Rogash / Getty Images Luck to get dose of reality
     
-    Leodis McKelvin returned a punt 79 yards for a touchdown, Rian Lindell added four field goals and Buffalo beat Miami 19-14 on Thursday.
+    PFT's picks: Patriots will beat surprising Colts and 49ers will handle Bears, but what about Ravens-Steelers?
     
-    PFT: Dolphins' offense still stagnant in loss to Bills PFT's picks: Brady will give Luck dose of reality PFT Live: Door closing on Tebow and Jets? PFT: LT suspects Scott ripped Tebow  |  QB sad PFT: 49ers' Harbaugh treated for irregular heartbeat Rotoworld: Week 11 fantasy rankings Better comeback: Peyton's or Peterson's? Dan Patrick: Ponder thinks before he tweets Ad
+    PFT: Cutler won't play Sunday vs. 49ers PFT: Vick still 'very foggy' after suffering concussion PFT: Ditka says he feels good after stroke PFT: Man ejected from Bills game found dead PFT: NFL docks ref a game's pay for swearing PFT: Report: Retirement board paid disability for concussions PFT: Jim Harbaugh says he's 'fine' Tim Tebow: 'I'm just trying to do the best I can' Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines David J. Phillip / AP file Cabrera beats Trout for AL MVP
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Reuters (2) Cabrera or Trout? Answer is yes
     
-    HBT: Detroit Tigers' Miguel Cabrera, the first player since Carl Yastrzemski in 1967 to win baseball's coveted triple crown, easily beat Rookie of the Year Mike Trout for the American League's top honor.
+    DeMarco: Miguel Cabrera is the right choice for AL MVP. But Mike Trout would have been, too. There isn't a wrong answer here. Just two of the most amazing individual seasons we've ever seen, in divergent ways.
     
-    HBT: Posey is NL's Most Valuable Player CSN: Posey's just getting started HBT: Trout, baseball's best player, is denied CSN's McAdam: Why I voted Trout for MVP DeMarco: Jays suddenly very relevant again Prosecutors want 2 1/2-year sentence for Dykstra HBT: Dickey first knuckleballer to win Cy Young HBT: Price squeaks past Verlander for AL Cy Young Ad
+    HBT: Marlins broke promises to Reyes, Buehrle, sources say HBT: Stanton still steamed over Marlins trade HBT: Trout, baseball's best player, is denied Cabrera beats Trout for AL MVP HBT: Posey is NL's Most Valuable Player HBT: Jays sign Melky Cabrera to 2-year deal CSN: Posey's just getting started CSN's McAdam: Why I voted Trout for MVP Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Carlo Allegri / Reuters 'More discouraged than I have been'
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines NBC Sports Gretzky says all is not lost
     
-    PHT: NHL deputy commissioner Bill Daly is “more discouraged now” than he’s ever been during the CBA negotiations.
+    SportsBIZ: NHL great Wayne Gretzky is disappointed that the NHL lockout has dragged on, but remains optimistic that hockey will be back soon.
     
-    CSN: NHL needs to end this gong show ... NOW! CSN: NHL labor talks take odd, depressing turn Gretzky says all is not lost with lockout PHT: 'Let's all try and stay positive,' Gretzky says Richards, Rangers set to skate for Staten Island PHT: Toews played with concussion symptoms PHT: Ex-enforcer Jonathan charged in hunting death PHT: Vigneault living in parents' basement Ad
+    PHT: Bill Daly 'more discouraged now than ever' CSN: NHL needs to end this gong show ... NOW! CSN: NHL labor talks take odd, depressing turn PHT: 'Let's all try and stay positive,' Gretzky says Richards, Rangers raise funds on Staten Island PHT: Toews played with concussion symptoms PHT: Ex-enforcer Jonathan charged in hunting death PHT: Vigneault living in parents' basement Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Darren Abate / AP Knicks 'for real' after beating Spurs
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Danny Johnston / AP Grizzlies claim NBA's best record
     
-    PBT: Despite scoring only nine points, Carmelo Anthony played a great game as N.Y. (6-0) defeated San Antonio 104-100 on Thursday.
+    PBT: The Memphis Grizzlies had no trouble taking care of the previously undefeated Knicks 105-95 Friday night. The 7-1 Grizzlies might just be the best team in the league period.
     
-    SportsTalk: Carmelo finding his form PBT: Wade-less Heat still beat Nuggets PBT: Celtics fall to Nets, not same without Rondo Mailbag: Why not go with Coach Kobe? PBT: D'Antoni confident Lakers still title contenders SportsTalk: Will D'Antoni's system fit Lakers? SportsTalk: What, why and how of D'Antoni hiring Trash Talk: D'Antoni is right man for Lakers Ad
+    Lakers go up-tempo pre-D'Antoni, scorch Suns Blazers down Rockets in OT behind Batum's 35 Pacers bounce back, knock off Mavs Holiday's 26 help 76ers top Jazz Magic find scoring touch, down Pistons PBT: Bynum has problems with both knees SportsTalk: Carmelo finding his form PBT: Wade-less Heat still beat Nuggets Ad
 *   NCAA FB
     SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines NBC Sports Coach of the year? Clearly Snyder
     
     SportsTalk: Kansas State coach Bill Snyder definitely deserves coach of the year honors for leading the Wildcats to the top of the BCS standings.
     
-    No. 2 K-State bears resemblance to '98 team Baylor's Florence has comparable numbers to RG3 Injuries test No. 1 Ducks' 'D'   |  Stanford ready Notre Dame Central: Special section on Irish Johnny Football has Aggies riding high in SEC CFT: Missing Texas A&M receiver found safe Heisman Hopefuls: Could a freshman win? North Carolina ends Virginia's bowl hopes Ad
+    CFT's Predictions 101: Top teams won't get tripped up CFT: Vols hit with new Kiffin era penalties No. 2 K-State bears resemblance to '98 team Baylor's Florence has comparable numbers to RG3 Injuries test No. 1 Ducks' 'D'   |  Stanford ready Notre Dame Central: Special section on Irish Johnny Football has Aggies riding high in SEC CFT: Missing Texas A&M receiver found safe Ad
 *   NCAA HOOPS
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Jamie Squire / Getty Images Jayhawks bounce back
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Stephen Dunn / Getty Images Muhammad cleared to play
     
-    Freshman guard Ben McLemore (center) had 25 points and eight rebounds as No. 7 Kansas used a big second-half charge to beat Chattanooga 69-55 on Thursday. The Jayhawks, coming off a loss Tuesday to Michigan St., got off to a sluggish start against the Mocs, and trailed 42-30 in the opening minutes of the second half.
+    CBT: The NCAA has reportedly cleared freshman Shabazz Muhammad to play immediately for UCLA after the school acknowledged amateurism violations.
     
-    Easy wins: No. 1 Indiana   |  No. 2 Louisville No. 6 NC State tops Penn St. in Puerto Rico No. 13 UCLA looks sharp, gears up for Georgetown CBT: Bell's 3s lift Villanova over Purdue in OT DePaul defeated by Garnder-Webb BCA gives 'A' to 9 schools filling hoops jobs Four Hall of Famers receive Lapchick Award Indiana expects another top recruiting class Ad
+    No. 1 Baylor's 42-game winning streak ends CBT: 'Toothless Wonder' leads St. Joe's past No. 20 ND No. 23 UConn edges Wake Forest Saint Louis coach Rick Majerus will not return Murray St. closes strong against St. John's Oklahoma squeaks by UT-Arlington No. 6 NC State easily handles UMass Jayhawks bounce back against Chattanooga Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Mike Ehrmann / Getty Images Johnson turns heat on Keselowski
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Tom Pennington / Getty Images Ready for the finale
     
-    Jimmie Johnson is the king of mind games — he doesn't fall victim to them — and he's got five trophies as proof.
+    Joey Logano won pole position Friday for NASCAR's Sprint Cup Series finale at Homestead-Miami Speedway, with championship contenders Brad Keselowski (shown) and Jimmie Johnson close behind.
     
-    Keselowski plans to keep phone out of race car Sadler chasing Stenhouse again in Nationwide Sunday's F1 race weird enough for Austin, Texas? F1 noteook: Vetterl sorry for swearing Formula One is back in the US, can it last? Formula One romance lost on Americans Vettel-Alonso duel rolls onto new track in US Gordon fined $100K, docked 25 points by NASCAR Ad
+    Johnson turns heat on Keselowski Gordon's anger at Bowyer dates back 7 months Vettel posts fastest lap in 1st practice Buescher wins Truck Series title at Homestead Another racer dies after crash at Macau GP Keselowski plans to keep phone out of race car Sadler chasing Stenhouse again in Nationwide Sunday's F1 race weird enough for Austin, Texas? Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Jonathan Nackstrand / AFP-Getty Was Ibrahimovic goal best ever?
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Stephen Dunn / Getty Images Can D.C. or Seattle make MLS Cup?
     
-    Swedish striker scores from 30 yards out with backwards bicycle kick against England.
+    PST: D.C. United and the Seattle Sounders find themselves down two goals and three goals, respectively, in their quests to get to MLS Cup. That’s not good. Not good at all.
     
-    PST: Watch Ibrahimovic's amazing bicycle kick FIFA won't add Zlatan as goal award candidate PST: Would you rather have Bradley or Ibrahimovic? PST: No Keane, Gruenebaum among awards finalists? Beckham 'absolutely no plans' to play in Australia PST: Beckham still a marketing tour de force PST: Kaka to MLS? Don't hold your breath Player sentenced over referee assault Ad
+    PST: Beckham to Australia? No going to happen Casey among 8 players let go by Rapids Was Ibrahimovic goal best ever? PST: Watch Ibrahimovic's amazing bicycle kick FIFA won't add Zlatan as goal award candidate PST: Would you rather have Bradley or Ibrahimovic? PST: No Keane, Gruenebaum among awards finalists? Beckham 'absolutely no plans' to play in Australia Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Pettersen, Kerr don't want season to end
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Lewis completes her improbable journey
     
-    It may be the season's final event, but Suzann Pettersen, Stacy Lewis and Cristie Kerr aren't letting up in the chase for the Titleholders crown.
+    There was a time when it appeared Stacy Lewis might not ever play golf again, let alone win the LPGA Player of the Year award.
     
-    Westwood splits with caddie Foster, coach Johnstone McIlroy 'lethargic' in opening 73 in Hong Kong Norman says 'lots of guys' were using beta blockers Pettersen shares Titleholders lead Palmer shares cover of Tiger Woods video game Behind the scenes with ... Brandel Chamblee Double duty: Kerr learns from caddie stint with Pavin Snedeker latest to call for ban on anchored putters PGA Tour Q-School second-stage sites and scoring Focus on making solid contact before anything else Ad
+    McIlroy not 'completely fresh' in missing Hong Kong cut Westwood splits with caddie Foster, coach Johnstone Yoo penalized for improper drop Palmer shares cover of Tiger Woods video game Behind the scenes with ... Brandel Chamblee Miyazato takes one-shot lead at CME halfway mark Doug Brecht honored at CME Group Titleholders Norman says 'lots of guys' were using beta blockers Q-School, Stage Two: Who's in, who's out Tip of the Week: Eliminating your over-the-top move Ad
 *   Olympics
     SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Pablo Martinez Monsivais / AP Obama welcomes US gymnasts
     
     The Fierce Five and other members of the U.S. Olympic gymnastics team got a personal audience with President Barack Obama.
     
-    Vonn will skip ceremony to introduce ski team Miller won't hurry back from left knee injury Qatar to continue bidding for Olympic Games Leisel Jones retires from swimming after 13 years Franklin officially signs to swim for Cal 3-time gymnastics world champion Memmel retires Eaton, Felix honored as top U.S. track athletes Uzbek gymnast banned for doping at Olympics Ad
+    Olympic champion diver says he turned to drugs Canada's Humphries wins another World Cup event Holcomb, Butner take gold, silver in 2-man bobsled American Uhlaender wins World Cup skeleton by .01 Vonn plans on skiing this weekend Miller won't hurry back from left knee injury Qatar to continue bidding for Olympic Games Leisel Jones retires from swimming after 13 years Ad
 *   More
-    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines TODAY 8 exercise gadgets to get you moving
+    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Steven Donahue Thanksgiving goes to the dogs
     
-    Whether you’re looking for motivation to work out during the winter months or simply want to pump up your regular routine, technology expert Katie Linendoll shows off the gadgets that will have you moving in no time.
+    The National Dog Show on NBC, now in its 11th year, has become as much a holiday fixture as turkey and pumpkin pie. So plop down in front of the TV - and save room on the sofa for all your four-legged friends. 
     
-    Ex-WNBA player Holdsclaw in jail on assault charge Frazier's bond with Philadelphia tighter in death Bodo: Djokovic caps his 2012 with grit, not talent Federer wants faster courts to encourage attack Man sets record for fastest on four limbs The Week in Sports Pictures Livestrong charity drops Armstrong name Gun range customers can shoot ... each other? Ad
+    Florida teen breaks national HS rushing record Abbott leads men's and Kavaguti-Smirnov lead pairs 8 exercise gadgets to get you moving Ex-WNBA player Holdsclaw in jail on assault charge Frazier's bond with Philadelphia tighter in death Bodo: Djokovic caps his 2012 with grit, not talent Federer wants faster courts to encourage attack Man sets record for fastest on four limbs Ad
 
 *   Scores
 *   Odds
