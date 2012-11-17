@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Friday 16 November 2012
+Saturday 17 November 2012
 
 *   Home
 *   News
@@ -142,13 +142,11 @@ For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Is this war number eight for Israel?  
+Petraeus: the downfall of a man and myth  
 
-The new conflict in the Gaza Strip has caught the world by surprise, says **David Blair**
+Gen Petraeus's tawdry sex scandal has wiped the shine off America's top brass. **Peter Foster** in Washington and **Jon Swaine** in Tampa report
 
-Comments
-
-Mark Webber takes on Tasmania The 10 best places to retire Launching the Telegraph Christmas appeal Paul Hayward: Society of Black Lawyers blast against FA is a huge own goal Advertisement
+What links sex education and Guides? Clive James's verdict on the BBC in crisis Is this war number eight for Israel? Mark Webber takes on Tasmania Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
