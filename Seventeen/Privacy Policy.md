@@ -104,11 +104,11 @@ Privacy Policy In order to view the Privacy Policy you must enable javaScript. m
     Best Dressed at the BD2 Premiere!
 *   love
     
-    A Taylor Swift Song For Every Breakup
+    Crush of the Week: Robert Pattinson
 
 Post a comment Connect with Seventeen Connect with Facebook Seventeen Magazine on Twitter @seventeenmag Seventeen Magazine on Pinterest Sign up for our free newsletter! sign up Today's Video Daily Freebies
 
-**1 Winner!** Enter for a chance to win a flirty body mist from Victoria's Secret PINK. Type in the Freebie Phrase of the Day, found in the November Issue!
+**1 Winner!** Enter for a chance to win a Tocca Profumo Veloce gift set from Sephora. Type in the Freebie Phrase of the Day, found in the November Issue!
 
  enter now 
 
