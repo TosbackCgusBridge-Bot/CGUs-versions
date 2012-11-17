@@ -1,21 +1,3 @@
-\>.
-
-Privacy Policy | RealNetworks More...
-
-*   Products &. Services
-    *   GameHouse
-    *   Helix
-    *   RealDownloader
-    *   RealPlayer
-    *   Rinse
-    *   SAAS
-    *   SuperPass
-*   Press
-*   Our Story
-*   Investors
-*   Careers
-*   RealNetworks Foundation
-
 Privacy Policy
 
 **REALNETWORKS, INC., AND AFFILIATED ENTITIES**
@@ -24,7 +6,7 @@ _This document was last updated May 23, 2012._
 
 This Privacy Policy covers RealNetworks, Inc., its majority-owned affiliates and subsidiaries, and RealNetworks divisions operating under different trade names, including GameHouse (collectively, "RealNetworks" or "RN"). RealNetworks is committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes both personal and non-personal information when you use our products, services and websites.
 
-Details regarding specific topics may be found via the topic index. For a printable pdf file version of this policy, click here.
+Details regarding specific topics may be found via the topic index.
 
 If you are in Europe, please click here to read our European Privacy Policy. WHY DO WE COLLECT PERSONAL INFORMATION?
 
@@ -34,7 +16,7 @@ WHAT PERSONAL INFORMATION DO WE COLLECT?
 
 *   Personal information is information that specifically identifies an individual. Personal information that you may be required to provide when registering or creating an account, downloading software, or signing up for a subscription service, may include: name and email address. credit card information. mailing address. phone number.
     
-*   As of the date of this privacy policy, RealNetworks does not intentionally collect personally identifiable information from children under the age of 13.
+*   RealNetworks does not intentionally collect personally identifiable information from children under the age of 13.
     
 
 HOW DO WE USE YOUR PERSONAL INFORMATION?
@@ -134,12 +116,9 @@ If you have forgotten a username or password, you can use our online help resour
 
 USE OF COOKIES
 
-**Use of Cookies and Other Technologies**  
-Like other major Websites, we use cookies and other technologies such as web beacons or pixel tags to provide you with a tailored experience when visiting our Websites and using our products. We also use cookies to understand traffic patterns on RealNetworks Websites to authorize access to certain premium or trial content and product features, and to create and monitor customized advertising. We treat information collected by cookies and other technologies as non-personal information unless such information (such as IP address or similar) is considered personal information by local law. To the extent that any non-personal information is combined with personal information, we treat the combined information as personal information and treat such with the same level of confidentiality as other personal information you provide to us.
+We use cookies, web beacons, pixel tags, and similar technologies to provide you with a tailored experience.
 
-RealNetworks does not require that you accept cookies, however, some functionality on our Websites, our product purchase check-out process, and products and services may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your RealPlayer cookie settings through preferences options in our products.
-
-For more information on our use of cookies and other technologies, please click here.
+For more information on our use of cookies and other technologies, please see our cookie policy.
 
 CHANGES TO OUR PRIVACY POLICY
 
@@ -180,47 +159,3 @@ https://real.custhelp.com/app/ask/support\_type/1  
 SPECIFIC TOPICS
 
 For more information concerning specific functionality that may be relevant to privacy issues, visit our Specific Topics Index.
-
-Localized
-
-*   Deutsch
-*   English - North America
-*   English - Europe
-*   Español - España
-*   Español - América Latina
-*   Français
-*   Italiano
-*   Nederlands
-*   Português
-*   日本語
-*   한국
-*   简体中文
-*   繁體中文
-
-*   Support
-*   Contact Us
-
-*   Find us on Facebook
-*   Follow us on Twitter
-*   Read our Blog
-
-*   Products &. Services
-    *   GameHouse
-    *   Helix
-    *   RealDownloader
-    *   RealPlayer
-    *   Rinse
-    *   SAAS
-    *   SuperPass
-*   Press
-*   Our Story
-*   Investors
-*   Careers
-*   RealNetworks Foundation
-
-*   Advertising
-*   Affiliate Program
-*   Privacy Policy
-*   Legal Notice
-*   Mailing List Management
-*   Site Map
