@@ -254,16 +254,16 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Sale &. Offers
     
+    *   Wüsthof Precision, Cutting Boards &. Knife Sharpeners Promotion
     *   Sale
+    *   Wüsthof Gourmet Promotion
     *   Exceptional Values
     
-    NEW &. EXCLUSIVE
+    2 DAYS ONLY
     
-    Our signature knives feature contoured ergonomic handles and ice-hardened blades for durability.
+    Save up to 20% on Wüsthof Precision Cutlery, Knife Sharpeners &. Cutting Boards through 11/18/12.
     
-    Buy Now 
-    
-    Shop Zwilling J.A. Henckels Knives 
+    Shop Now 
     
 *   Electrics Shop by Category
     
