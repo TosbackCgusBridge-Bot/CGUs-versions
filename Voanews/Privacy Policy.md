@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Israel Intensifies Gaza Attacks
-*   Panetta: Gaza Violence Cause for Concern
+*   Israel-Gaza Conflict Continues
+*   Petraeus Testifies on Benghazi Attack
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
