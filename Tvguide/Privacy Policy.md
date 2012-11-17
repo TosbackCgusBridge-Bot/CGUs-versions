@@ -138,10 +138,10 @@ more popular celebrities Most Popular Movies
 more popular movies Top Videos
 
 1.  Arrow
-2.  Hart of Dixie
-3.  The Vampire Diaries
-4.  Glee Exclusive: Finn gets help...
-5.  Supernatural
+2.  Exclusive Arrow First Look: Ol...
+3.  Supernatural
+4.  Hart of Dixie
+5.  Exclusive: Watch a Deleted Sce...
 
 more top videos
 
