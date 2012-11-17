@@ -278,6 +278,12 @@ To return to the Website, please use the "Back" button on your browser.
 
 REV: 06/21/2012
 
+*   Free Shipping \*
+
+*   The Official adidas Store
+
+*   Call Us Anytime 1-800-982-9337
+
 *   Shop Men
     *   Shoes
     *   Apparel
