@@ -1,6 +1,6 @@
 (skip this header)
 
-Friday Nov 16, 2012 4:04 AM PT
+Saturday Nov 17, 2012 1:05 AM PT
 
 ° (change)
 
@@ -60,11 +60,12 @@ sfgate.com Web Search by YAHOO! Businesses
 Close \[X\] Quick links to other pages on this site | Still can't find it? see Site Index
 
 *   Don't Miss:
-*   4 star dining at Meadowood
-*   Charming Wesla Whitfield
-*   Comedian busted in Oakland
-*   Ken Burns at Mission High
-*   Helen Hunt snubbed
+*   Lindsay's secret half-sister
+*   5 steps to a job offer
+*   ‘Roctuplets’
+*   Russell Brand vs. homeless cart
+*   Loving a cursing mommy
+*   Favorite dishes
 
 *   Bay Area &. State
 *   Nation
@@ -341,8 +342,19 @@ Back to Top
 
 Ads by Yahoo! Photo Galleries
 
-*   Coolest Men of 2012
+*   Nation in Focus
+*   World in Focus
+*   Arizona Immigration Law
+*   Vogue's Best Dressed of 2012
+*   Day in Pictures, Nov. 16, 2012
+*   Wilkes Bashford store grand reopening party
+*   American Cinematheque Awards 2012
+*   Martin Scorsese at 70: His films, his stars
+*   CANstruction
+*   Favorite dishes 11/16/2102
+*   Jerry Rice asks $10.5 million for Atherton home
 *   Cool Hall of Fame
+*   Coolest Men of 2012
 *   Nation in Focus
 *   World in Focus
 *   FAMSF celebrates 'Royal Treasures from the Louvre'
@@ -370,17 +382,6 @@ Ads by Yahoo! Photo Galleries
 *   GQ Men of the Year Party 2012
 *   Day in Pictures, Nov. 14, 2012
 *   Arizona Immigration Law
-*   Arizona Immigration Law
-*   Big night for women in Senate
-*   Big night for women in Senate
-*   'Sexiest Man Alive' winners through the years
-*   Nancy Pelosi will remain as minority leader
-*   Allen Crabbe scores 33 as Cal rolls
-*   Muddy Daly City cleanup under way
-*   Pakistani Hindus celebrate Diwali
-*   Scenes of an eclipse from Down Under
-*   Nation in Focus
-*   World in Focus
 
 *   Most Read
 *   |
@@ -388,51 +389,52 @@ Ads by Yahoo! Photo Galleries
 *   |
 *   Most Emailed
 
-1.  Buster Posey adds MVP to trophy case
-2.  Socialite's climb halted by unfolding scandal
-3.  Montana and Clark: Beyond “The Catch”
-4.  Guy Fieri responds to scathing Times review: ‘There was another agenda’ \[Video\]
-5.  Suspect held in robberies via Craigslist
-6.  Cops: Teens got lap dances at party for NY boy, 16
-7.  NorCal woman breaks Guinness World Record with heaviest triplets
+1.  Hostess to close, lay off 145 in Oakland
+2.  Oakland's 'most wanted' arrested in S.F.
+3.  Will the 4th time be the charm? Jerry Rice relists Atherton home
+4.  NY prosecutor admits he acted in 1970s porn films
+5.  SF sheriff's deputy held in bank robbery
+6.  Twinkie Junkies Raid Stores as Hostess Brands Plans to Shut Down
+7.  Golden Gate Bridge delays toll switch
 
-1.  Guy Fieri responds to scathing Times review: 'There was another agenda' \[Video\]
-2.  Hope for street inebriates - or roadblock?
-3.  Fla. socialite at center of generals' sex scandal
-4.  Nasty problem in some SoMa alleys
-5.  Romney: Obama won with 'gifts' to certain voters
-6.  Hamas targets Tel Aviv as part of rocket barrage
-7.  Buster Posey wins National League Most Valuable Player award
+1.  Hostess to close, cites nationwide worker strike
+2.  Hamas targets Tel Aviv as part of rocket barrage
+3.  Secretive arrival for Petraeus on Capitol Hill
+4.  Academy of Art land use violations ignored
+5.  Boy, 14, arrested in connection with rape
+6.  Oakland's "most wanted" arrested in SF
+7.  Melky Cabrera signs with Blue Jays
 
-1.  Buster Posey adds MVP to trophy case
-2.  Airship Ventures ends operations
-3.  Suspect held in robberies via Craigslist
-4.  Wal-Mart and Target: A tale of 2 discounters
-5.  Nespresso plans upscale S.F. coffee bar
-6.  Cops: Teens got lap dances at party for NY boy, 16
-7.  'Lincoln' review: Daniel Day-Lewis brilliant
+1.  Hostess to close, lay off 145 in Oakland
+2.  Academy of Art land use violations ignored
+3.  SF sheriff's deputy held in bank robbery
+4.  Chico fraternities suspended after death
+5.  Fourth-graders who flunk reading have faces marked
+6.  'The White Snake' review: Scales tip in favor
+7.  Airship Ventures ends operations
 
 loading... Latest News Videos From our homepage
 
 *     
-    Fred Larson, The Chronicle / ONLINE\_YES
+    Mike Kepka, The Chronicle / SF
     
-    The Catches: Joe and Dwight
+    Twinkies fly off shelves
     
-    Great shots of the legendary 49ers duo Montana and Clark off the field, getting crazy in their heyday.
+    East Bay workers worry, shoppers scurry after baker shuts down.
     
-
-*   Times review 'ridiculous'
-    
-    Food Network star responds to the blistering NYT review of his restaurant that went viral.
-    
+*   Hostess to cease operations
 
 *     
-    Screengrab From CBS Sacramento / SF
+    Stuart Wilson, Getty Images / 2011 Stuart Wilson
     
-    Record-setting triplets
+    Who's 2012's coolest guy?
     
-    Northern California mom breaks a Guinness mark, delivering 20 pounds worth of babies.
+    How about People's sexiest man alive? See other reader suggestions and vote!
+    
+
+*   Trying to score a sale
+    
+    Niners legend Jerry Rice puts Atherton home up for sale for fourth time. Asking $10.5M.
     
 
 *   Home
