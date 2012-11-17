@@ -23,16 +23,16 @@
     
     Blogs &. Columns
     
-    *   **Shorthand**  
-        Election 2012 | Natalie Jennings
+    *   **Reince Priebus will seek another...**  
+        Election 2012 | Josh Hicks
     
     *   **Romney analyzes the election results**  
         The Fact Checker | Glenn Kessler
     
-    *   **Irish abortion debate after woman's...**  
-        She The People | Mary C. Curtis
+    *   **Unions did not kill Twinkies, but...**  
+        She The People | Diana Reese
     
-    *   **The Republican Party's leadership...**  
+    *   **Priebus to seek second term as...**  
         The Fix | Aaron Blake
 *   Opinions In Opinions
     
@@ -46,16 +46,16 @@
     
     Featured Blogs
     
-    *   **Time travel, with Paula Broadwell**  
+    *   **Spare the Twinkie, Hostess**  
         ComPost | Alexandra Petri
     
     *   **Happy Hour Roundup**  
         The Plum Line | Jonathan Bernstein
     
-    *   **Government by spite (or worse)**  
+    *   **Not the talking filibuster again!**  
         PostPartisan | Jonathan Bernstein
     
-    *   **McConnell to president: Lead, already!**  
+    *   **President Obama knew about Benghazi**  
         Right Turn | Jennifer Rubin
 *   Local In Local
     
@@ -72,14 +72,14 @@
     
     Blogs &. Columns
     
-    *   **D.C area forecast: Ending the week...**  
-        Capital Weather Gang | A. Camden Walker
+    *   **PM Update: A sunny, chilly weekend...**  
+        Capital Weather Gang | Jason Samenow
     
-    *   **‘Twilight,’ ‘Anna Karenina’ and...**  
-        Going Out Gurus | Jess Righthand
+    *   **This thing you should try: Majestic...**  
+        Going Out Gurus | Alex Baldinger
     
-    *   **Photo of suspect in Va. library...**  
-        Crime Scene | Justin Jouvenal
+    *   **Officers suspended over ‘crude’...**  
+        Clarence Williams and Martin Weil
     
     *   **Allen, Kaine advisers look back...**  
         Virginia Politics | Ben Pershing
@@ -97,17 +97,17 @@
     
     Blogs &. Columns
     
-    *   **Jason Chimera signs with HC Chomutov...**  
+    *   **NHL suggests two-week break in...**  
         Capitals Insider | Katie Carrera
     
-    *   **Ben Olsen explains his honesty...**  
+    *   **NFL Films on John Riggins's journey**  
         DC Sports Bog | Dan Steinberg
     
-    *   **DeAngelo Hall on fine: Back up...**  
+    *   **Jammal Brown misses another practice...**  
         The Insider | Mike Jones
     
-    *   **Miguel Cabrera wins AL MVP, Buster...**  
-        Nationals Journal | James Wagner
+    *   **Nationals have talked with B.J...**  
+        Nationals Journal | Adam Kilgore
 *   National In National
     
     *   Energy &. Environment
@@ -123,14 +123,14 @@
     
     Blogs &. Columns
     
-    *   **Aaron Sorkin releases details ...**  
+    *   **Wozniak: Microsoft may be more...**  
         Ideas@Innovations | Emi Kolawole
     
-    *   **Nancy Pelosi and the question of...**  
+    *   **Why didn’t Hostess workers believe...**  
         PostLeadership | Jena McGregor
     
-    *   **Graham: Operation Christmas Child...**  
-        Under God | Jeannine Hunter
+    *   **Survey: ‘Obama’s religious coalition...**  
+        Under God | Georgetown/ On Faith
 *   World In World
     
     *   Africa
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
-    *   **Did Netanyahu just take back his...**  
-        WorldViews | Olga Khazan
-    
-    *   **Can Twitter censor the Israel Defense...**  
-        WorldViews | Caitlin Dewey
-    
-    *   **What it sounds like in Tel Aviv...**  
+    *   **An interactive map showing Hamas's...**  
         WorldViews | Max Fisher
     
-    *   **Life under rockets: A young man's...**  
+    *   **The Israeli-Palestinian politics...**  
+        WorldViews | Max Fisher
+    
+    *   **Israel conflict: What is Iron Dome?**  
+        WorldViews | Olga Khazan
+    
+    *   **Map: Where Hamas's Jerusalem-bound...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -167,20 +167,21 @@
     *   World Business
     *   Capital Business
     *   On Small Business
+    *   Fiscal Cliff
     
     Blogs &. Columns
     
     *   **What I would ask Petraeus**  
         The Color of Money | Michelle Singletary
     
-    *   **Senate fails to pass last-minute...**  
+    *   **Google and Dish discussing spectrum...**  
         Post Tech | Hayley Tsukayama
     
     *   **How business can bounce back from...**  
         Steven Pearlstein
     
-    *   **Wonkbook: Building a better health-care...**  
-        Wonkblog | Evan Soltas
+    *   **Reconciliation**  
+        Wonkblog | Sarah Kliff
 *   Tech In Technology
     
     *   Policy
@@ -191,10 +192,10 @@
     
     Blogs &. Columns
     
-    *   **Amazon: Kindle Fire 8.9 starts...**  
+    *   **Wii U launch ‘marks a beginning’...**  
         Hayley Tsukayama
     
-    *   **Senate fails to pass last-minute...**  
+    *   **Google and Dish discussing spectrum...**  
         Post Tech | Hayley Tsukayama
 *   Lifestyle In Lifestyle
     
@@ -211,16 +212,16 @@
     
     Blogs &. Columns
     
-    *   **Fresh peanuts redirect a French...**  
-        All We Can Eat | Edward Schneider
+    *   **Twinkie fix in a post-Twinkies...**  
+        All We Can Eat | Bonnie S. Benwick
     
-    *   **Gabby Douglas talks post-Olympic...**  
-        The Style Blog | Jessica Goldstein
+    *   **‘Anna Karenina,’ an insight into...**  
+        The Style Blog | Veronica Toney
     
-    *   **How to let go of your teenager**  
-        On Parenting | Jennifer Kogan
+    *   **Take the kids this weekend: ‘Seussical’...**  
+        On Parenting | On Parenting
     
-    *   **Sandra Fluke, Garry Trudeau, Anita...**  
+    *   **Quoted: County prosecutor Mark...**  
         The Reliable Source | The Reliable Source
 *   Entertainment In Entertainment
     
@@ -240,10 +241,10 @@
     *   **Castleton announces 2013 season**  
         Classical Beat | Anne Midgette
     
-    *   **The People’s Choice Award nominees**  
+    *   **‘Glee’ does ‘Grease’**  
         Celebritology 2.0 | Jen Chaney
     
-    *   **‘X Factor’: Jennel Garcia, Lyric...**  
+    *   **‘Partners,’ ‘Last Resort,’ ‘666...**  
         The TV Column | Lisa de Moraes
     
     *   **Batman’s ‘Death of the Family’...**  
@@ -266,11 +267,11 @@
 
 In the News
 
-*   Israel
-*   GOP vs. Romney
-*   Stephanie Bongiovi
-*   ‘Breaking Dawn’
-*   McKayla Maroney
+*   Gaza
+*   Twinkies
+*   Reince Priebus
+*   Meteor shower
+*   Romney spurned
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -321,80 +322,98 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
-The story behind the photo: journalist's 11-month-old son killed in Gaza strikes GOP governors back away from Romney remarks
+Manassas News &. Messenger and InsideNoVA.com, top Prince William news sources, closing down
 
-Karen Tumulty 
+Tom Jackman 
 
-Mitt Romney’s parting gifts
+Why didn’t Hostess workers believe the threats?
 
-Editorial Board 
+Jena McGregor 
 
-Republicans to Romney: Just go away Ron Paul's farewell speech (VIDEO) From the 47% to gifts': Mitt Romney's ugly vision of politics DC gets back full control of special education transportation
+Twinkie fix in a post-Twinkies world
 
-Associated Press 
+Bonnie S. Benwick 
 
-Paula Broadwell’s drive and resilience hit obstacles
+Romney sinks quickly in Republicans’ esteem
 
-Greg Jaffe 
+Dan Eggen 
 
-The Republicans still don’t get it
+Leonid meteor shower tonight, tomorrow morning: shut off the lights and look up
 
-Eugene Robinson 
+Blaine Friedlander 
 
-Partisan bias in U.S. House elections
+Jill Kelley, twin sister visited White House three times in autumn of 2012
 
-Rob Richie 
+Amy Gardner 
 
-McKayla Maroney’s D.C. fans are impressed
-
-Jessica Goldstein 
-
-Religious conservatives’ uphill battle
-
-Michael Gerson 
-
-Flasher runs away after Washington woman pulls out gun
-
-Associated Press 
-
-Brief truce quickly collapses as Egypt’s PM visits Gaza
+As Hamas rockets fly, Israel moves toward ground invasion of Gaza Strip
 
 Karin Brulliard 
 
-Congressman admitted to affairs during divorce trial How People Magazine named Channing Tatum Sexiest Man Alive
+BREAKING: The president knew the truth about Benghazi
 
-Alexandra Petri 
+Jennifer Rubin 
 
-Flea-market Renoir reignites tensions between museum and art donor’s descendants
+A eulogy for the humble Hostess Twinkie
 
-Ian Shapira 
+Adam Bernstein 
 
-Middle East Twitter users mock Arab League's slow response to Gaza Ex-Mystics star Holdsclaw jailed in Atlant
+Susan Rice’s tarnished resume
 
-Associated Press 
+Dana Milbank 
 
-Romney: Obama's 'gifts' to key demographics helped him win
+Ron Paul's farewell speech (VIDEO) Both sides appear upbeat on opening round of ‘fiscal cliff’ talks
+
+Lori Montgomery 
+
+The story behind the photo: journalist's 11-month-old son killed in Gaza strikes Petraeus’s answers raise more questions
+
+Jennifer Rubin 
+
+Petraeus tells Congress that Benghazi attack was terrorism
+
+Karen DeYoung 
+
+Scapegoating Susan Rice does U.S. no good
+
+Robert Kagan 
+
+The Petraeus affair’s resulting witch hunt
+
+David Ignatius 
+
+Obama to praise Burma’s ‘progress’ during historic visit
+
+David Nakamura 
+
+Mitt Romney’s analysis of the election results
+
+Glenn Kessler 
+
+Israel pounds Gaza from air as troops assemble
+
+Karin Brulliard 
 
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  The story behind the photo: journalist's 11-month-old son killed in Gaza strikes
-    2.  GOP governors back away from Romney remarks
-    3.  Mitt Romney's parting gifts
-    4.  Republicans to Romney: Just go away
-    5.  Ron Paul's farewell speech (VIDEO)
+    1.  Manassas News-Messenger and InsideNoVA.com closing down
+    2.  Why didn't Hostess workers believe the threats?
+    3.  Twinkie fix in a post-Twinkies world
+    4.  Romney sinks quickly in Republicans' esteem
+    5.  Leonid meteor shower tonight
 *   Top Videos
-    1.  Sen. John McCain: 'One of the dumbest questions I've ever heard'
-    2.  McKayla Maroney's jaw-dropping vault
-    3.  Guy Fieri's restaurant skewered in New York Times review
-    4.  Ron Paul's farewell speech to Congress in 2 minutes
-    5.  Why Paula Broadwell left Harvard
+    1.  Romney losing support of the GOP
+    2.  Sen. John McCain: 'One of the dumbest questions I've ever heard'
+    3.  Why Paula Broadwell left Harvard
+    4.  Guy Fieri's restaurant skewered in New York Times review
+    5.  The rise, fall and nostalgia of the Twinkie
 *   Top Galleries
     1.  Republicans run from Romney
     2.  The four-star movies of 2012
-    3.  The David Petraeus scandal: Cast of characters
-    4.  Thanksgiving recipes from the White House
-    5.  On the trail with Romney: Top shots
+    3.  Gaza Strip conflict escalates
+    4.  The David Petraeus scandal: Cast of characters
+    5.  So long, Twinkies!
 
 Today's Paper
 
@@ -404,13 +423,13 @@ Today's Paper
 
 Live Discussions
 
-Carolyn Hax
+There are no discussions scheduled today.
 
-Live Q&A, Friday, noon
+Dr. Gridlock
 
-Need advice on life, love or how to get through the holidays with your family? Ask advice guru Carolyn Hax.
+Live Q&A, Monday, noon
 
-**11:00 AM** **Real Wheels Live** **11:00 AM** **The Fix Live** **12:00 PM** **Carolyn Hax Live: Advice columnist tackles your problems (Friday, November 16)** **12:00 PM** **Brad Hirschfield Live: General malfunction?** **1:00 PM** **The Latest in TV with Lisa de Moraes**
+Wondering whether holiday-induced traffic will impact your travel plans? Dr. Gridlock has the info you need on Metro and D.C. area traffic.
 
 **Weekly schedule, past shows**
 
