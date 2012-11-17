@@ -110,11 +110,11 @@ Search
     *   Products and Services
     *   Natural Gas Resource Center
     *   Energy Choice
-    *   Meter Installation
-        *   New Meter vs Current Meter
+    *   Smart Meter Installation
+        *   Smart Meter vs Current Meter
         *   Installation Timeline
         *   Installation Process
-        *   Meter FAQ
+        *   Smart Meter FAQ
     *   News and Information
     *   Rates and Rules
 
