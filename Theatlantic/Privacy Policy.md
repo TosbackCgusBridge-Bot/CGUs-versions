@@ -1,74 +1,74 @@
 Skip Navigation
 
-*   Cheer Up, America! Things Aren't So Bad.
-*   'The Rock': A Cave Community for Polygamy
-*   Notes on The Atlantic's New Home Page
+*   What Is Twilight Actually About?
+*   The Techies Who Helped Obama Get Reelected
+*   What It's Like to Be Out-Earned by Your Wife
 *   Sponsor Content Infographic: Using Data to Keep the Peace
 
 *   Politics
     *   Top Stories
-    *   Rubio Wants to Revamp GOP Immigration Rhetoric
-    *   Ron Paul's Last Speech in the House
-    *   What Has the Right Done for You Lately?
-    *   Newt Gingrich, Paleoconservative
-    *   David Rubenstein on the 'Panda Sex' Principle of Politics
-    *   Could a Sex Scandal Become a Story About Intelligence Failures?
+    *   Liberals Celebrate New Crop of Progressives
+    *   'No Impact Man' Runs for Office
+    *   Rush Listeners' Racial Relativism
+    *   Let's Get Back to the Atlas Shrugged Guy
+    *   The GOP Talent Gap
+    *   What the Bartender Saw
 *   Business
     *   Top Stories
-    *   Zara's Big Idea
-    *   No, We're Not the Next Saudi Arabia
-    *   What Is Spotify Worth?
-    *   Mitt Romney's America: Why Makers, 'Gifts', and Takers Is a Losing Vision
-    *   Cheer Up, America! The Economy (and the Country) Is Much Better Off Than You Think
-    *   The Most Important Tax Break Is the One That Nobody Talks About
+    *   Who's to Blame for the Hostess Bankruptcy?
+    *   The Next Housing Bailout?
+    *   The Countries With the Most Generous Unemployment Benefits
+    *   The U.S. Recovery Has Been Spectacular\*
+    *   A Freelance Economy Can Be Good for Workers: Let's Make It Better
+    *   India's Bold Solution to the U.S. College Crisis: Federal Universities
 *   Tech
     *   Top Stories
+    *   When the Nerds Go Marching In
     *   Ken Burns: Dust Bowl the Greatest Man-Made Eco Disaster in U.S. History
     *   Cosmic Dawn: Astronomy's Ancient Quest to Find the Universe's First Stars
-    *   Something to Finally Stop Your Crazy Uncle From Sending Those Forwards
-    *   When the Nerds Go Marching In
+    *   Don't Believe the Legend: You Wouldn't Want to Eat a Month-Old Twinkie
+    *   On eBay, the Starting Bid for a Single Twinkie Is Now $5,000
     *   The Neanderthal Defense Committee Swings Into Action
-    *   Don't Call It a Redesign
 *   National
     *   Top Stories
+    *   A Homeless Teenage Mother Builds a Life of Her Own
+    *   Lots of Teachers Hate Their Bosses
     *   Meet 'Justice Holdfast'
-    *   Bill Gates Says Stay in School
-    *   The 50-Year Farm Bill
     *   Photos: Thursday Morning at the Washington Ideas Forum
     *   Our College Crisis: A PowerPoint Presentation by Bill Gates
     *   Live Coverage of the Washington Ideas Forum, Day II
 *   Global
     *   Top Stories
-    *   The Gaza Invasion: Will It Destroy Israel's Relationship With Egypt?
-    *   China's Power Transition: Here Are 3 Outcomes You Can Expect
+    *   David Petraeus and the Future of American War
+    *   China's Power Transition: Liberalization >. Conservative Ideology
     *   Does the Israel-Hamas Internet War Violate Twitter's Terms of Service?
-    *   China's Power Transition: Massive Challenges for a Massive Economy
-    *   The Gaza Conflict Comes to Tel Aviv
-    *   China's Answer to 'The Onion'
+    *   Who Started the Israel-Gaza Conflict?
+    *   Conflict in Gaza: The Egyptian President Plots a Dangerous Course
+    *   The Iron Dome, Press Bias, and Israel's Lack of Strategic Thinking
 *   Health
     *   Top Stories
-    *   Live From the Inside: A Radio Show Run by Psychiatric Patients
-    *   For Sex, a Proper Duration
-    *   The Best Doctors in the Universe
-    *   End-of-Life Care Should Be Universally Provided and Need-Based
-    *   The Pedestrian Is a Fragile Species
-    *   Study: We're Less Likely to Recognize Symptoms of Depression in Men
+    *   Relaxation-Induced Anxiety
+    *   The Basics of Post-Sandy Asbestos Exposure
+    *   End-of-Life Care Should Be Universal
+    *   The World's Fifth Largest Economy: U.S. Health Care
+    *   Around the World in Concept Coffee Shops
+    *   Study: Oxytocin ('the Love Hormone') Makes Men in Relationships Want to Stay Away From Other Women
 *   Sexes
     *   Top Stories
-    *   Confessions of a Rabbi Who Can't Spend Enough Time With His Family
-    *   Why Women Don't Take Risks With Their Money
-    *   Same-Sex Marriage Opponents Find a New Fight
-    *   Why Women Are Too Tall and Men Are Too Short
+    *   We Are Men Who Are Out-Earned By Our Wives
+    *   How 'Homeland' Undercuts Real Women in Government
     *   The Reality of Life After 'Top Chef': Dream Jobs Are Still Jobs
+    *   Why Women Are Too Tall and Men Are Too Short
     *   The Strange History and Uncertain Future of Sadie Hawkins Day
+    *   Why Women Don't Take Risks With Their Money
 *   Entertainment
     *   Top Stories
-    *   The Next Frontier for Live Music: Living Rooms?
-    *   Exactly Who Will Play Nintendo's Sequel to the Wii?
-    *   Ecofont to the Rescue: Fonts With a Greater Purpose
-    *   At Its Core, the 'Twilight' Saga Is a Story About \_\_\_\_\_\_\_\_
-    *   Baseball's Most Fascinating MVP Race This Century Gets Decided Today
-    *   Gangnam Style's Broadway Roots
+    *   So I Might Owe 'Twilight' a Small, Begrudging Apology
+    *   The Weirdly Familiar Politics of 'Anna Karenina'
+    *   A Mondegreen Medley: Misheard Lyrics Over the Years
+    *   December 1book140 Shortlist: Return of the Bridesmaids
+    *   1book140: Meet J. Nathan Matias
+    *   Your Highly Biased College-Basketball Talking Points Crash Course
 *   Magazine
     *   In This Month's Issue
     *   Our 2012 Brave Thinkers List
@@ -88,7 +88,7 @@ Skip Navigation
 *   Video
 *   Photo
 *   Newsletters
-*   When the Nerds Go Marching InAlexis C. Madrigal
+*   Let's Get Back to the Atlas Shrugged GuyJames Fallows
 
 Privacy Policy
 
@@ -196,17 +196,17 @@ Washington, DC 20037
 Special Report The Atlantic Washington Ideas Forum  
 Each year _The Atlantic_ brings together influential figures from the worlds of politics, business, and academia. Read more › Writers
 
-*   Alexis C. Madrigal When the Nerds Go Marching In 7:00 AM ET
-*   James Fallows The Neanderthal Defense Committee Swings Into… 12:18 AM ET
+*   James Fallows Let's Get Back to the Atlas Shrugged Guy Nov 16, 2012
+*   Robert Wright Who Started the Israel-Gaza Conflict? Nov 16, 2012
+*   Jeffrey Goldberg The Iron Dome, Press Bias, and Israel's Lack of… Nov 16, 2012
+*   Ta-Nehisi Coates The Effete Liberal Book Club Rises Again Nov 16, 2012
+*   Alexis C. Madrigal When the Nerds Go Marching In Nov 16, 2012
 *   Derek Thompson Mitt Romney's America: Why Makers, 'Gifts', and… Nov 15, 2012
 *   Garance Franke-Ruta Newt Gingrich, Paleoconservative Nov 15, 2012
-*   Ta-Nehisi Coates Republicans Want 'Stuff' Too Nov 15, 2012
-*   Jeffrey Goldberg Well, Now Hamas Has Done It Nov 15, 2012
-*   Robert Wright The Incoherence of a Drone-Strike Advocate Nov 14, 2012
 *   Clive Crook Obama and the Fiscal Cliff Nov 14, 2012
 *   Steve Clemons Ed Gillespie's Absurd Bluster Nov 6, 2012
 
-The Biggest Story in Photos Polygamists in 'The Rock' Nov 15, 2012 Video Dieter Rams Reflects on His Principles of Good Design Eames Furniture Gestalten TV: Tessa Farmer Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
+The Biggest Story in Photos Rockets Over Israel and Gaza Nov 16, 2012 Video An Absurd Medley of Mondegreens: Misheard Lyrics Through the Ages 'Mutual Core': Björk New York City Ballet Sponsor Video The Great Transition Watch More Video On Newsstands Now Subscribe and SAVE 59%  
 10 issues JUST $2.45/COPY
 
 STATEAKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYYT
@@ -237,73 +237,73 @@ Most Popular
 
 1
 
-The Most Important Tax Break Is the One That Nobody Talks About
+When the Nerds Go Marching In
 
 2
 
-Venice Under Water
+Rockets Over Israel and Gaza
 
 3
 
-Polygamists in 'The Rock'
+Who Started the Israel-Gaza Conflict?
 
 4
 
-Ron Paul's Last Speech to Congress: 30+ Strangely Ordered Questions
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 5
 
-Noam Chomsky on Where Artificial Intelligence Went Wrong
+Why a Rush Limbaugh Listener Thinks Calling Obama a 'Magic Negro' Is Okay
 
 6
 
-Syria in Ruins
+The Iron Dome, Press Bias, and Israel's Lack of Strategic Thinking
 
 7
 
-The Long Story of U.S. Debt, From 1790 to 2011, in 1 Little Chart
+Let's Get Back to the Atlas Shrugged Guy
 
 8
 
-Hurricane Sandy: After Landfall
+Venice Under Water
 
 9
 
-Diwali: The Festival of Lights
+Who's to Blame for the Hostess Bankruptcy: Wall Street, Unions, or Carbs?
 
 10
 
-Study: We're Less Likely to Recognize Symptoms of Depression in Men
+Ron Paul's Last Speech to Congress: 30+ Strangely Ordered Questions
 
 ATLANTIC MEDIA Atlantic Wire
 
-*   Is Today the Day the Twinkie Dies?
-*   Israel and Hamas Continue Shooting as Truce Attempt Fails
-*   What Life Is Like During Wartime in Israel
+*   Computers Totally Get Abstract Art. Probing Einstein's Brain
+*   And Now Comes the Part When Marissa Mayer Lays Off People at Yahoo
+*   CBS Gets a Little Less Gay
 
 **More from Atlantic Wire**
 
 Atlantic Cities
 
-*   Dispute of the Day: How Many Rocks Are Thrown at D.C. Buses?
-*   Husbands Can No Longer Rape Wives in the Solomon Islands: This Week in Bans
-*   Watch This Crazy, Creepy Sci-Fi Video Made in an Abandoned House
+*   Inhospitable Park Bench of the Day: The Pay and Sit
+*   Here's One Way to Waste Time at the Bus Stop
+*   Zaha Hadid Designs an Alien Mothership for Tokyo
 
 **More from Atlantic Cities**
 
 Quartz
 
-*   It pays for companies to do the right thing. Even Adam Smith would agree
-*   Move over, Greece. it’s France’s turn to be Europe’s disaster poster child
-*   Burying bad news: China banks’ bad debts keep rising, regulator says on day country gets new leaders
+*   Proof that austerity measures are making European economies worse, not better
+*   Why rich countries can’t have $20 tablets—yet
+*   Japan’s problems in numbers
 
 **More from Quartz**
 
 National Journal
 
-*   Susan Rice: Benghazi May Be Least of Her Problems
-*   The Case for Kicking the Pain Down the Road
-*   Resignation, Retirement, and Reelection: How the 112th Congress Compares With the 111th
+*   History: The Case of the Missing Congressman
+*   What’s Next on Immigration Reform
+*   Top 10 Oddest Facts Related to Jill Kelley, Axis of David Petraeus's Love Pentagon
 
 **More from National Journal**
 
