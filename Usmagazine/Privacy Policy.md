@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Kristen’s Turning Point »
+Hot Pics! Hilty Says Hello! »
 
-Top Stories1.  Exclusive Jason Trawick Mocks Fiancee Britney Spears! »
-2.  Jessica Simpson Films Weight Watchers Ad, Shows Off Super Skinny Bod »
-3.  Exclusive Breaking Amish's Abe, Rebecca Open Up About Her Infant Daughter »
-4.  Scantily-Clad Megan Fox Flirts With Brian Austin Green in Wedding Band »
-5.  PIC: "Happy" Drew Dazzles on First Red Carpet Post-Baby, Talks Diet »
+Top Stories1.  Kristen Stewart Flashes Major Leg at Berlin Breaking Dawn Screening »
+2.  OMG! Jennifer Aniston Copies Brenda and Kelly's Spring Dance Dress »
+3.  Jessica Simpson Films Weight Watchers Ad, Shows Off Super Skinny Bod »
+4.  Peter Facinelli Debuts New Girlfriend at Twilight Bash in NYC »
+5.  Lady Gaga Flaunts Sideboob in Sexy Leotard Top Paired With Mom Jeans »
 
  
 
@@ -175,11 +175,11 @@ subscribe to Us Weekly Atlanta Housewives Dirty Secrets
 
 Inside Us Weekly
 
-*   Style Chris Brown Lands Modeling Contract
-*   Beauty PICTURE: See Rosie Huntington-Whiteley Withou
-*   Moms Chad Lowe: My Wife Will Give Birth to Our Sec
+*   Style Kristen Stewart Flashes Major Leg at Berlin B
+*   Beauty Janelle Monae: What's in My Bag?
+*   Moms Nick Cannon: I Change Diapers More Than Maria
 *   Body Jessica Simpson Films Weight Watchers Ad, Sho  
-*   Entertainment Breaking Amish's Abe, Rebecca Open Up About H
+*   Entertainment See Gerard Butler in Nothing But a Wet Towel!
 
 *   US WEEKLY
 *   Celebrity News
