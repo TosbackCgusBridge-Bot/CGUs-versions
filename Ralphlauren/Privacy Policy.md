@@ -1,52 +1,3 @@
-MY ACCOUNT   /   SHOPPING BAG \[0\]  
-Complimentary Shipping Over $195
-
-*   Men
-    *   Shop All Brands
-    *   Purple Label
-    *   Black Label
-    *   Polo Ralph Lauren
-    *   RLX
-    *   RRL
-    *   Denim &. Supply
-    *   Big &. Tall
-    *   Golf
-*   Women
-    *   Shop All Brands
-    *   Collection
-    *   Black Label
-    *   Blue Label
-    *   RLX
-    *   Lauren
-    *   Denim &. Supply
-    *   Golf
-*   Children
-*   Baby
-*   Home
-    *   Shop All Brands
-    *   Ralph Lauren Home
-    *   Lauren Home
-*   Sale
-*   Style Guide
-*   World of Ralph Lauren
-    *   RL Magazine
-    *   Watches &. Jewelry
-    *   Gift Vault
-    *   Flagship Store
-    *   RL Restaurants
-
-*   Shipping
-*   Returning
-*   Shopping and Payment
-*   Gift Services
-*   Account Information
-*   About Our Products
-*   Privacy Notice
-*   Terms of Use
-*   Frequently Asked Questions (FAQs)
-*   Contact Us
-*   Site Map
-
   >> Privacy &. Security    Choose a link to select a section.  
 Privacy Notice Safe Harbor Privacy Policy  
 **Ralph Lauren Corporation**    **Privacy Notice**
@@ -405,7 +356,4 @@ Attention: Marco Kerschen
 1214 Vernier  
 Switzerland  
   
-Back to Top  
-UNITED STATES Change Country CUSTOMER ASSISTANCE Customer Assistance Email Us Payment Methods Tel 888-475-7674 SHIPPING &. RETURNS Track My Orders / Returns Shipping Rates Returns &. Exchanges US Shipping Only COMPANY INFORMATION Store Locator About Ralph Lauren Careers California Transparency Act  
-  
-Gift Cards Site Map Privacy Notice Terms of Use Copyright © 2012 Ralph Lauren Media LLC
+Back to Top
