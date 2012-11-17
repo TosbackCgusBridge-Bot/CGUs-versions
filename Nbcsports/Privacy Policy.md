@@ -1,4 +1,4 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Israel bombs office of Gaza prime minister
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Activists: Syria rebels seize airport near Iraq border
 
 *   NFL
     SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Jim Rogash / Getty Images Luck to get dose of reality
@@ -53,7 +53,7 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     There was a time when it appeared Stacy Lewis might not ever play golf again, let alone win the LPGA Player of the Year award.
     
-    McIlroy not 'completely fresh' in missing Hong Kong cut Westwood splits with caddie Foster, coach Johnstone Yoo penalized for improper drop Palmer shares cover of Tiger Woods video game Behind the scenes with ... Brandel Chamblee Miyazato takes one-shot lead at CME halfway mark Doug Brecht honored at CME Group Titleholders Norman says 'lots of guys' were using beta blockers Q-School, Stage Two: Who's in, who's out Tip of the Week: Eliminating your over-the-top move Ad
+    McIlroy not 'completely fresh' in missing Hong Kong cut Jimenez could become oldest to win on European Tour Yoo penalized for improper drop Behind the scenes with ... Brandel Chamblee Westwood splits with caddie Foster, coach Johnstone Palmer shares cover of Tiger Woods video game Miyazato takes one-shot lead at CME halfway mark Doug Brecht honored at CME Group Titleholders Q-School, Stage Two: Who's in, who's out Tip of the Week: Eliminating your over-the-top move Ad
 *   Olympics
     SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Pablo Martinez Monsivais / AP Obama welcomes US gymnasts
     
