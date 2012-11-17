@@ -1,33 +1,3 @@
-Outbrain
-
-*   Smarter Engagement
-*   Acquire Traffic
-*   What's Outbrain
-*   Blog
-*   Email
-*   Phone
-*   LoginOrRegister
-
-Username
-
-Password
-
-URL
-
-Remember me Forgot your password? OpenID Normal login
-
-Hello, My Account Logout
-
-Privacy Policy
-
-*   Privacy
-*   Terms of Use
-*   Customer Terms
-
-Have Questions?
-
-Check out our FAQ or contact us.
-
 Privacy Policy Last Updated: November 11, 2010
 
 Outbrain is a collaborative intelligence platform. As such, it is predicated on the idea of sharing the intelligence of voting patterns among the Outbrain community for the benefit of all Outbrain users. We collect the following data through your use of our service:
@@ -65,29 +35,4 @@ When you opt out of Outbrain's personalization tracking, we will no longer use i
 
 **We cookie you in order to prevent personalization tracking.** When you opt out of Outbrain personalization tracking, we will cookie your computer with a special Outbrain cookie that informs our servers not to record information about the pages you're visiting. If you browse the web from several computers, you will need to opt out from each computer to ensure that we prevent personalization tracking on all of them. For the same reason, if you buy a new computer, change web browsers or delete this cookie, you will need to perform this opt-out task again.
 
-Thank you - you are now opted out of outbrain's personalization tracking. Please note that if you use another computer or delete cookies, you will need to opt out again. Outbrain
-
-*   @Outbrain
-*   Facebook
-
-*   Smarter Engagement
-*   Acquire Traffic
-*   What's Outbrain
-
-*   Blog
-*   The Outbrain Widget
-
-*   Support
-*   Jobs
-
-*   Terms of Use
-*   Privacy
-
-Outbrain is a trademark of Outbrain Inc. Copyright © 2006-2012 Outbrain Inc. All rights reserved.
-
-Contact Us
-
-*   Full Name\*
-*   Email Address\*
-*   Message\*Message
-*   Phone This field is for validation purposes and should be left unchanged.
+Thank you - you are now opted out of outbrain's personalization tracking. Please note that if you use another computer or delete cookies, you will need to opt out again.
