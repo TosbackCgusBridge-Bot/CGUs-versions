@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Nov 16, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Nov 17, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -25,16 +25,16 @@ Nov 16, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     *   Pinpoint Weather &. Radar
     *   Daily Ag Weather Updates
     *   Agronomic and Weather News
-    *   2012 Drought Crisis
-    *   Temperature Band
+    *   2012 Drought Coverage
+    *   Daily Temperature Ranges
     
     *   Observed Rainfall
     *   Heating Degree Days
-    *   Crop Moisture
+    *   Crop Moisture Levels
     *   Long-Range Temperature Outlook
-    *   Severe Weather
+    *   Severe Weather Forecast
     
-    *   Palmer Drought 
+    *   Palmer Drought Index 
 *   Markets
     
     *   AgWeb Radio
@@ -237,10 +237,11 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Tips for Selecting Your 2013 Corn Hybrids
-*   Don't Think Farmland Values Could Tumble? Think Again
-*   Harvesting Equipment-Maker Crary Acquires Wayne’s Tile Pro
-*   Power Hour: When You Outgrow Your Lender
+*   Intensive Management Key to Growing High Corn Yields
+*   Ag Commodities Trade Lower as Uncertainty Looms
+*   House Approves Bill on U.S.-Russia Trade Relations
+*   Power Hour: Tax Questions over Crop Insurance Payments
+*   Cattle on Feed Down 5 Percent
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
