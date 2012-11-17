@@ -125,7 +125,21 @@ Shoes.com Customer Service
 8300 Maryland Ave.  
 St. Louis, MO 63105  
   
-Contact Us Via Email Email Signup Submit
+Contact Us Via Email
+
+All discounts, coupons and promotional codes exclude the following:
+
+1.  All bags
+2.  All wallets
+3.  All apparel
+4.  All regular priced merchandise from the following brands:  
+    adidas Superstar II and Samoa Leather, Born, Born Crown, Clarks, Frye (certain styles\*\*), Hunter, Johnston and Murphy, Keen, Kork-Ease, K-Swiss, Mephisto, Merrell, Minnetonka, Olukai, Reebok Classic, Reebok Princess, Reebok RealFlex, Reebok Zig, Sofft, Softspots, UGG Australia and Vintage Shoe Co.
+
+\*\*These Frye styles excluded from all promotions — Belted Harness, Campus, Dakota, Engineer, Harness, Heath, Jane, Jayden, Jesse, Melissa, Paige Tall and Veronica Slouch
+
+**International customers:** We are unable to ship most bags and some brands internationally. These brands include adidas, Asics, Brooks, Calvin Klein, Columbia, Dansko, Frye, Hush Puppies, Ivanka Trump, Merrell, Minnetonka, New Balance, Puma, Punkrose, Reef, Saucony, Skechers, Sebago, Sorel, Timberland and UGG Australia.
+
+Email Signup Submit
 
 By entering my email address, I certify that the information I am providing is accurate and that I am at least 18 years of age.
 
