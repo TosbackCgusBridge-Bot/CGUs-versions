@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  Paula Broadwell, FBI Agent?
-2.  Wake the Hell Up, Republicans!
-3.  The Review Heard Round The World
+1.  Wake the Hell Up, Republicans!
+2.  The GOP Blame Game
+3.  The Week’s Best Reads
 4.  Bodies for Ballots
-5.  Assassinating The Chance For Calm
+5.  Paula Broadwell, FBI Agent?
 
   Other News Entertainment
 
-*   Celeb Engagement Rings
-*   Eye Candy: 'Twilight' Edition
-*   Fashion Face-Off: Rihanna vs. Katy Perry
+*   Fall Fashion Face-Off
+*   Year in Photos 2012
+*   Year in Review: The biggest hookups and breakups of 2012
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   ‘The Big Bang Theory’ react: The one with the number 43
-*   ’30 Rock’: Aunt Phatso vs. Jack Donaghy
-*   EW’s Bite of the Night: Submit your favorite quote from tonight’s best TV!
+*   ‘Call of Duty: Black Ops 2′ review — A surprisingly refreshing return to the front-lines
+*   The Internet responds to Hostess bankruptcy
+*   ‘Breaking Dawn — Part 2′: Let’s talk about that ending! \[Obligatory spoiler alert\]
 *   **Get More from EW.com**
 
 Entertainment
 
-*   The Thin Red Terms Of Service
-*   Surreal Instagrams From Israel Defense Forces Soldiers
-*   McCain Erupts At Reporter For Asking Why He Missed Classified Benghazi Briefing
+*   The Embarrassing Page That Reveals Who Your Twitter Crush Is
+*   11 Kinds Of Lady Gaga Haters
+*   Israel Defense Forces Social Media Head Defends Tweets
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Maine GOP Chair Defends Himself Against Racism
-*   Second Screens Rule on Election Night
-*   DesJarlais Supported Ex-Wife's Abortions
+*   Gingrich Lacerates Romney Over Why He Lost
+*   Priebus Says He's Locked Down Support for Second Term
+*   Share Your Opinions
 *   **Get More from Political Wire**
 
 The Daily Beast
