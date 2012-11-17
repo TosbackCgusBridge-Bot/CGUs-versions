@@ -143,26 +143,27 @@ Last updated February 8, 2012
 *   Having Trouble Getting Your SparkPeople Emails?
 *   Site/Technical Help (forum)
 *   How to Close Your SparkPeople Account
-*   Morning Workout Exercises Resources
+*   Healthy Sandwich Meat Resources
 
   
-Stay in Touch With SparkPeople **30 Days &. 30 Ways to Stay on Track**
+Stay in Touch With SparkPeople **Cut Calories Without Dieting**
 
-Try one of these healthy changes each day this month to keep you moving in the right direction!
+How has "dieting" worked out for you in the past? If the answer was "not great," then it's time to re-think how you approach weight loss. Here's how to eat less so you can slim down--without ever going on a diet.
 
 Read More
 
-*   Keeping fruits and veggies fresh
-*   Feeling Embarrassed at the Gym..
+*   Pantry staples
+*   Top Ten De-Stressors
 *   What are your plans for Thanksgiving dinner?
-*   Keeping fruits and veggies affordable?
+*   Feeling Embarrassed at the Gym..
 *   Strateies needed from Thanksgiving to New Year's
 
-View Demo **Dumbbell Squats**  
-Build strong and powerful leg muscles. **Chef Meg's Vegetable Beef Soup**  
+View Demo **Calf Raises with Wall**  
+A simple, yet effective exercise for the calves **Chef Meg's Sweet Potato Tarts**  
 Submitted By: **CHEF\_MEG**
 
-Prepare Chef Meg's Beef Roast recipe and use 12 ounces (four servings) of the leftover meat to make this quick, hearty, healthy soup. Full Recipe
+Try these light and low-fat personal pies for dessert during the fall. They're a great substitute for pumpkin pie or sweet potato casserole.  
+Full Recipe
 
 Search Over 200k Healthy Recipes:  Search Get a personalized diet and fitness plan, great newsletters, post to our message boards, and even your own personal SparkPage!  
   
