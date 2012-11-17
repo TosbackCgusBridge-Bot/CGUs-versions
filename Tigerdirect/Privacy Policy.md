@@ -1,4 +1,4 @@
-TigerDirect.com **Shop by Phone:** (800) 800-8300
+TigerDirect.com Live Help or (800) 800-8300
 
 *   Store Locator
 *   Daily Deal
@@ -14,6 +14,7 @@ Search
     *   Rebate Center
     *   Wish Lists
     *   Contact Us
+    *   Live Help
 
   
 0 **Shopping Cart:** $0.00 Hello Sign in or New Customer
@@ -298,7 +299,7 @@ Sign up
 
 Since its debut in 1987, the TigerDirect catalog delivers the hottest deals in computers and electronics to your front door. Sign me up for the catalog
 
-**Priority code is:**WEB1211 Share &. Connect Like us on Facebook Follow us on Twitter Join us on Google + Email a Friend Deal Alerts via Need help? We're available at 1-800-800-8300 or Live Help Unavailable
+**Priority code is:**WEB1211 Share &. Connect Like us on Facebook Follow us on Twitter Join us on Google + Email a Friend Deal Alerts via Need help? We're available at 1-800-800-8300 or Live Help
 
 Copyright © 2012 TigerDirect, Inc. All rights reserved. 7795 West Flagler St., Suite 35, Miami, FL 33144
 
