@@ -11,9 +11,9 @@ search now
   
 Sponsored Links advertisement Decorating &. Ideas
 
+*   Makeover Guide
+*   Pampered Pups
 *   Alex Hitz's Los Angeles House
-*   Bunny Williams's Bedroom
-*   Do-It-Now Ideas
 
 More Decorating &. Ideas Kitchens &. Entertaining
 
@@ -29,9 +29,9 @@ More Kitchens &. Entertaining Photo Galleries
 
 More Photo Galleries Shopping &. Gifts
 
+*   Shop the Life of Pi Movie Set
+*   Black Friday Shopping Guide
 *   Designer Teapots
-*   The Salon: Art &. Design
-*   Holiday Gift Guide
 
 More Shopping &. Gifts Most Popular
 
