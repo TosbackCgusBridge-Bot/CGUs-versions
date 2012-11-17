@@ -148,8 +148,8 @@ Stories We Like
 1.  Wake the Hell Up, Republicans!
 2.  The GOP Blame Game
 3.  The Week’s Best Reads
-4.  Bodies for Ballots
-5.  Paula Broadwell, FBI Agent?
+4.  Grover Norquist Won’t Back Down
+5.  The Week in Viral Videos
 
   Other News Entertainment
 
@@ -160,9 +160,9 @@ Stories We Like
 
 Entertainment
 
+*   Is ‘Skyfall’ basically James Bond meets ‘Home Alone?’
+*   This Week on Stage: Porn stars, Dickens, and Kathie Lee Gifford invade Broadway
 *   ‘Call of Duty: Black Ops 2′ review — A surprisingly refreshing return to the front-lines
-*   The Internet responds to Hostess bankruptcy
-*   ‘Breaking Dawn — Part 2′: Let’s talk about that ending! \[Obligatory spoiler alert\]
 *   **Get More from EW.com**
 
 Entertainment
@@ -174,9 +174,9 @@ Entertainment
 
 Politics
 
+*   Quote of the Day
 *   Gingrich Lacerates Romney Over Why He Lost
 *   Priebus Says He's Locked Down Support for Second Term
-*   Share Your Opinions
 *   **Get More from Political Wire**
 
 The Daily Beast
