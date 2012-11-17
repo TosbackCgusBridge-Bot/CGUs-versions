@@ -687,17 +687,17 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   Detrás de cámaras
+*   ¡Semana explosiva!
     
-    Nos colamos en la fiesta del Verdugo.
+    Actualízate con tus novelas
     
-*   Amigos con beneficios
+*   Digitaliza tu vida sexual
     
-    Las ventajas y desventajas de tenerlos  
+    Con aplicaciones eróticas para tu celular  
     
 *   Gaby Espectacular
     
-    ¡A su salud! Un cumple de sólo belleza
+    ¡A su salud! Belleza y sensualidad
     
 *   Camino de Miss El Salvador
     
