@@ -25,7 +25,7 @@ English
             
             ACCENT From $14,545
             
-        *   ELANTRA From $16,695
+        *   ELANTRA From $16,815
             
         *   ELANTRA COUPE From $17,445
             
@@ -70,9 +70,9 @@ English
             \- Motor Trend
             
             LEARN MORE BUILD &. PRICE COMPARE VEHICLES VEHICLE REVIEWS
-        *   Elantra From $16,695
+        *   Elantra From $16,815
             
-            2013 Elantra From $16,695 "2012 North American Car of the Year"
+            2013 Elantra From $16,815 "2012 North American Car of the Year"
             
             LEARN MORE BUILD &. PRICE COMPARE VEHICLES VEHICLE REVIEWS
         *   Elantra Coupe From $17,445
