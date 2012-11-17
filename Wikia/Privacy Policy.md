@@ -118,7 +118,4 @@ Wikia Inc Navigation
 *   Privacy Policy
 *   Content is available under CC-BY-SA.
 
-*   Looking for advice for improving wiki discussions? Then join us **tomorrow** for a webinar - **register now**!
-    
-
 Politics Halloween @WikiaLifestyle
