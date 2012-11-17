@@ -9,8 +9,8 @@ My Account
     *   White Pages
     *   Verizon
     *   Target
-    *   Juicers
     *   Kohls
+    *   Juicers
     *   Luster Now
     *   Toys R Us
     *   Webkinz
@@ -26,24 +26,24 @@ My Account
     *   Iphone
     *   Digital Cameras
     *   Coffee Makers
-    *   Camcorders
     *   Radio Shack
+    *   Camcorders
     *   Tax
     *   Sears
     *   At
     *   Discount Tires
-    *   Www.yahoo.com
     *   Contact
+    *   Www.yahoo.com
     *   Truck
     *   Costco
     *   North Face Jackets
-    *   Pressure Cookers
     *   Ipod
-    *   T Mobile
     *   Flowers
+    *   T Mobile
     *   Android Tablets
-    *   Barnes And Noble
+    *   Pressure Cookers
     *   Value City Furniture
+    *   Barnes And Noble
     *   Gift
     *   More Top Searches
 *   Coupons See all coupons See all rebates
@@ -196,8 +196,8 @@ Shop by Department
     *   Backpacks
     *   Kitchen &. Cooking Gadgets
     *   Wall Decor
-    *   Mechanics Tools &. Tool Sets
     *   Generators &. Air Compressors
+    *   Mechanics Tools &. Tool Sets
     *   Bedroom Quilts, Bedspreads &. Bedskirts
     *   See More...
 *   Industrial Supply Shop Industrial Supply
@@ -383,7 +383,7 @@ All Products
     
 
 *   Buying Guides
-*   1575 Local Deals
+*   1574 Local Deals
 
         **PriceGrabber Terms of Use and Privacy Statement  
 ** 
