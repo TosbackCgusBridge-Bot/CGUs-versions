@@ -631,25 +631,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Ventura County jobless rate drops to 8.6% Published 11/16/2012 at 9:56 a.m. 46 comments
-*   Top California pollster says 2012 election could be a turning point Updated 11/15/2012 at 5:38 p.m. 66 comments
+*   Ventura County jobless rate drops to 8.6% Published 11/16/2012 at 9:56 a.m. 49 comments
 *   No more Twinkies, no more Ding Dongs: Hostess is closing for good Published 11/16/2012 at 5:08 a.m.
+*   Top California pollster says 2012 election could be a turning point Updated 11/15/2012 at 5:38 p.m. 67 comments
+*   Islamic Center is seeking to move to RiverPark area Published 11/16/2012 at 6:38 p.m. 14 comments
 *   Skull, jawbone in Oxnard trash bin may be just old religious shrine Updated 11/16/2012 at 12:47 a.m.
-*   Last 'Twilight' breaks early for some die-hard fans at Thousand Oaks premiere Updated 11/16/2012 at 9:20 a.m. 10 comments
 
 Photo Galleries Ventura County's Most Wanted November… Found in Oxnard, skull, jawbone may… Oxnard high schools want to limit…
 
-*   California budget deficit shrinks to $1.9B with taxes Published 11/14/2012 at 3:42 p.m. 88 comments
-*   Top California pollster says 2012 election could be a turning point Published 11/15/2012 at 4:11 p.m. 66 comments
-*   Editorial: Obama comes out fighting at a rare session Published 11/14/2012 at 3:23 p.m. 66 comments
-*   In Conejo visit, former Mexican president calls for immigration overhaul Published 11/14/2012 at 1:18 p.m. 49 comments
-*   Company that owns Brooks Institute closing some campuses Published 11/14/2012 at 4:30 p.m. 48 comments
+*   California budget deficit shrinks to $1.9B with taxes Updated // at : 88 comments
+*   Top California pollster says 2012 election could be a turning point Updated 11/15/2012 at 5:38 p.m. 67 comments
+*   Editorial: Obama comes out fighting at a rare session Updated // at : 66 comments
+*   In Conejo visit, former Mexican president calls for immigration overhaul Updated 11/14/2012 at 5:32 p.m. 49 comments
+*   Company that owns Brooks Institute closing some campuses Updated 11/14/2012 at 7:12 p.m. 48 comments
 
-*   Authorities warn of "knock knock" burglaries in east Ventura County Published 11/8/2012 at 12:11 p.m. 0 comments
-*   Spearmint Rhino exotic dancers settle suit for nearly $13 million Published 11/13/2012 at 5:59 p.m. 0 comments
-*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
-*   Skull, jawbone in Oxnard trash bin may be just old religious shrine Published 11/15/2012 at 11:40 a.m. 0 comments
-*   18-year-old accused of setting family's basset hound on fire near Camarillo Published 11/9/2012 at 10:13 a.m. 0 comments
+*   Authorities warn of "knock knock" burglaries in east Ventura County Updated 11/8/2012 at 2:04 p.m. 0 comments
+*   Spearmint Rhino exotic dancers settle suit for nearly $13 million Updated 11/13/2012 at 8:22 p.m. 0 comments
+*   Shirley: Medical device tax will impact jobs and costs Updated // at : 0 comments
+*   Skull, jawbone in Oxnard trash bin may be just old religious shrine Updated 11/16/2012 at 12:47 a.m. 0 comments
+*   18-year-old accused of setting family's basset hound on fire near Camarillo Updated 11/9/2012 at 11:01 p.m. 0 comments
 
 Weather
 
@@ -657,25 +657,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 62° Overcast Wind: E 4mph Today 62° 55° Sat 01:00 PM Mostly Cloudy Showers Temp: 62° Sun 01:00 AM Mostly Cloudy Showers Temp: 54° Sun 01:00 PM Partly Sunny Showers Temp: 62°
+Currently 60° Light Rain Fog/Mist Wind: NE 7mph Today 63° 55° Sat 07:00 PM Mostly Cloudy Showers Temp: 59° Sun 07:00 AM Partly Sunny Showers Temp: 55° Sun 07:00 PM Partly Cloudy Temp: 55°
 
-Feels Like: 62°
+Feels Like: 59°
 
-Humidity: 78%
-
-Precip: 80%
-
-Feels Like: 54°
-
-Humidity: 100%
+Humidity: 93%
 
 Precip: 45%
 
-Feels Like: 62°
+Feels Like: 55°
 
-Humidity: 70%
+Humidity: 93%
 
 Precip: 24%
+
+Feels Like: 55°
+
+Humidity: 90%
+
+Precip: 10%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
