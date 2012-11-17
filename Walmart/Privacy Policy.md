@@ -10,7 +10,7 @@ Facebook Twitter Pinterest
 *   Suppliers
 *   Careers
 
-**WMT**68.72 -2.59 Home >. Privacy &. Security >. Walmart Privacy Policy
+**WMT**68.03 -0.69 Home >. Privacy &. Security >. Walmart Privacy Policy
 
 *   Privacy &. Security
     *   Walmart Privacy Policy
@@ -305,4 +305,4 @@ Our privacy Policy describes how we share information for marketing purposes. Th
 
 Please contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose, via the Contact Us section above.
 
-Last Updated: April 26, 2012 Share this page: Tweet Shop Walmart.com Shop SamsClub.com Walmart Careers @WalmartLabs Contact Us Privacy &. Security California Privacy Rights Frequently Asked Questions Policies Recalls RSS Feeds Terms of Use Site Map © 2012 Wal-Mart Stores, Inc.
+Last Updated: April 26, 2012 Share this page: Tweet Shop Walmart.com Shop SamsClub.com Walmart Careers @WalmartLabs Walmart Community Contact Us Privacy &. Security California Privacy Rights Frequently Asked Questions Policies Recalls RSS Feeds Terms of Use Site Map © 2012 Wal-Mart Stores, Inc.
