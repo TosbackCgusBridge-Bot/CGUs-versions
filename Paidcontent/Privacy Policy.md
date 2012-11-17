@@ -57,7 +57,7 @@ Comments Off
 
 **Read more in GigaOM**
 
-Israel and Twitter: Where does free speech end and violence begin?
+Four things the _Washington Post’_s new editor can do to avoid disaster
 
 Stay on top of tech news in your inbox
 
