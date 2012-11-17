@@ -1,547 +1,156 @@
-Skip Navigation
+**Nordstrom Privacy Policy Overview**  
+Welcome to Nordstrom. As a customer of the Nordstrom family of companies, your trust is our most important asset. We take the protection and proper use of your personal information seriously and are committed to protecting your personal information in our possession. In order to preserve your trust, we want you to understand what personally identifiable or personal information we may collect from you, how we use such information, and the choices you have regarding our use of this information.
 
-*   |
-*   *   Your Account
-    *   |
-    *   new Get Recommendations
-    *   |
-    *   Our Stores &. Events
-    *   |
-    *   Wish List
-    *   |
-    *   Shopping Bag:
-        
+In this policy, the words "we", "our", and "us" refer to the Nordstrom family of companies and the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified or contacted, such as your name (first and last), address (city, state, zip), e-mail address, telephone number, etc.
 
-Enjoy FREE Standard Shipping and returns on orders of every size.
+**Categories of Information We Collect**  
+We collect personally identifiable information through communications with you, or through the Nordstrom family of companies or as defined above, whenever you interact with us. Some examples include:
 
-Shipping Options Returns &. Exchanges
+*   registering for a shopping account or Wish List account on our website
+*   requesting that merchandise be sent to you or others, place an order with us or request an e-receipt
+*   requesting a catalog or other content and communications from us
+*   subscribing to Nordstrom.com E-mail Updates (our e-mail newsletter)
+*   applying for an account with us
+*   interacting with our mobile sites, mobile applications and services
+*   working with our salespeople who assist you with your fashion needs and purchases
+*   through communications with you, or through the Nordstrom family of companies
 
-Free Standard Shipping is not valid in Nordstrom Rack stores or on international orders. Free returns are not available for international orders. Nordstrom Rack Return Policy applies to all online Nordstrom Rack orders.
+We may also collect personal information about you from other third parties, such as demographic firms, to make our future service and marketing efforts more efficient and personalized for you. We also gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser information, Internet Service Provider (ISP), operating system, date/time stamp and clickstream data.
 
-*   Women
-    
-    *   Style Watch
-    *   Our Blog
-    *   Party Style Guide
-    *   Fall Coat Trend Guide
-    
-    *   New Arrivals
-    *   Complete Looks
-    *   Women's Brands
-    *   Sale
-    *   Nordstrom Gift Cards
-    *   Holiday Gifts for Her
-    
-    *   Featured Shops
-    *   Topshop
-    *   Contemporary
-    *   Cashmere
-    *   Wardrobe Essentials
-    *   Work
-    
-    *   Clothing
-    *   Dresses
-    *   Tops
-    *   Sweaters
-    *   Coats &. Jackets
-    *   Activewear
-    *   Jeans
-    *   Pants &. Shorts
-    *   Skirts
-    *   Suiting
-    *   Bras, Panties &. Lingerie
-    *   Shapewear
-    *   Hosiery, Leggings &. Socks
-    *   Sleep, Lounge &. Robes
-    *   Swimsuits &. Cover-Ups
-    
-    *   Plus
-    *   Petite
-    *   Maternity
-    
-    *   Shoes
-    *   All Women's Shoes
-    *   Athletic
-    *   Boots &. Booties
-    *   Flats
-    *   Pumps
-    *   Sandals
-    *   Slippers
-    *   Sneakers
-    *   Comfort
-    *   Special Occasion
-    *   Wides &. Narrows
-    
-    *   Designer Collections
-    *   Clothing
-    *   Handbags
-    *   Shoes
-    *   Jewelry &. Accessories
-    
-    *   Accessories
-    *   Belts
-    *   Fashion Jewelry
-    *   Fine Jewelry
-    *   Gloves
-    *   Handbags &. Wallets
-    *   Hats &. Hair Accessories
-    *   Luggage &. Travel
-    *   Scarves &. Wraps
-    *   Sunglasses &. Eyewear
-    *   Tech Accessories &. Cases
-    *   Watches
-    
-    *   The Wedding Suite
-    *   Bride
-    *   Bridesmaids
-    *   Mothers
-    *   Book an Appointment
-    
-    *   Beauty &. Fragrance
-    *   Makeup
-    *   Skincare
-    *   Fragrance
-    *   Hair Care
-    *   Bath &. Body
-    *   Nails
-    *   Gifts &. Sets
-    *   Travel-Size Beauty
-    *   New Arrivals
-    *   Beauty Brands
-    *   Gifts with Purchase
-    
-*   Men
-    
-    *   Style Watch
-    *   Ultimate Coat Guide
-    *   Black Tie Optional
-    *   GQ Selects
-    *   Boots 101
-    *   Men's Shop Blog
-    
-    *   All Men's
-    *   New Arrivals
-    *   Complete Looks
-    *   Men's Brands
-    *   Men's Sale
-    *   Nordstrom Gift Cards
-    *   Holiday Gifts for Him
-    
-    *   Featured Shops
-    *   Snow Shop
-    *   Tuxedos &. Formalwear
-    *   Topman
-    
-    *   Clothing
-    *   Suits &. Sportcoats
-    *   Dress Shirts
-    *   Casual Button-Down Shirts
-    *   Polos
-    *   T-Shirts
-    *   Sweaters &. Fleece
-    *   Coats &. Jackets
-    *   Pants
-    *   Jeans
-    *   Shorts &. Swim
-    *   Active
-    *   Lounge &. Sleepwear
-    *   Underwear &. Socks
-    
-    *   Special Sizes
-    *   Big &. Tall
-    
-    *   Shoes
-    *   All Men's Shoes
-    *   Athletic
-    *   Boots
-    *   Dress Shoes
-    *   Loafers &. Slip-Ons
-    *   Boat Shoes
-    *   Oxfords
-    *   Sandals
-    *   Slippers
-    *   Sneakers
-    *   Extended Sizes
-    
-    *   Designer Collections
-    *   Clothing
-    *   Accessories
-    *   Shoes
-    
-    *   Accessories
-    *   Bags &. Wallets
-    *   Belts &. Suspenders
-    *   Watches
-    *   Ties &. Pocket Squares
-    *   Sunglasses
-    *   Tech Accessories &. Cases
-    *   Scarves, Hats &. Gloves
-    *   Jewelry &. Cuff Links
-    *   Luggage &. Travel
-    
-    *   Young Men
-    *   Clothing
-    *   Shoes
-    *   Accessories
-    
-    *   Grooming &. Fragrance
-    *   All Grooming
-    *   All Fragrance
-    *   Shave
-    *   Hair Care
-    *   New Arrivals
-    *   Brands
-    *   Value Sets &. Sizes
-    *   Gifts with Purchase
-    
-*   Juniors
-    
-    *   Style Watch
-    *   BP. Fashion Board Blog
-    *   Dress Guide
-    *   Fall Trend Guide
-    *   Denim Guide
-    *   Top Trends
-    
-    *   New Arrivals
-    *   Complete Looks
-    *   Juniors' Brands
-    *   All Juniors'
-    *   Under $30
-    *   Sale
-    *   Nordstrom Gift Cards
-    *   Holiday Gifts for Juniors
-    
-    *   Clothing
-    *   Coats
-    *   Dresses
-    *   Tops &. Tees
-    *   Jeans
-    *   Leggings
-    *   Pants &. Shorts
-    *   Sweaters
-    *   Skirts
-    *   Blazers &. Jackets
-    *   Bras &. Panties
-    *   Sleep &. Loungewear
-    *   Swimwear
-    *   BP. Basics
-    
-    *   Shoes
-    *   All Juniors' Shoes
-    *   Athletic
-    *   Boots &. Booties
-    *   Flats
-    *   Pumps
-    *   Sandals
-    *   Sneakers
-    *   Slippers
-    *   Special Occasion
-    *   Extended Sizes
-    
-    *   Accessories
-    *   Jewelry
-    *   Watches
-    *   Bags &. Totes
-    *   Belts
-    *   Scarves
-    *   Tights &. Socks
-    *   Sunglasses
-    *   Hats &. Hair
-    *   Tech &. Phone Cases
-    
-    *   BP. Beauty
-    *   Face
-    *   Eyes
-    *   Lips
-    *   Nails
-*   Kids
-    
-    *   All Kids'
-    *   New Arrivals
-    *   Complete Looks
-    *   Kids' Brands
-    *   Under $30
-    *   Sale
-    *   Nordstrom Gift Cards
-    *   Holiday Gifts for Baby &. Kids
-    
-    *   Featured Shops
-    *   Toys
-    *   Cold Weather
-    *   Sleepwear
-    *   Active
-    *   Best-Dressed Kids
-    *   Basics
-    *   Jeans
-    *   Sparkle &. Shine
-    *   Wedding
-    
-    *   Girls
-    *   Complete Looks
-    *   Girls' Clothing (2T-16)
-    *   Toddler Girls (2T-4T)
-    *   Little Girls (4-6X)
-    *   Big Girls (7-16)
-    *   Girls' Accessories
-    
-    *   Boys
-    *   Complete Looks
-    *   Boys' Clothing (2T-20)
-    *   Toddler Boys (2T-4T)
-    *   Little Boys (4-7)
-    *   Big Boys (8-20)
-    *   Boys' Accessories
-    
-    *   Baby
-    *   Complete Looks
-    *   Layette (0-9 Months)
-    *   Baby Clothing (0-24 Months)
-    *   Baby Girl Clothing
-    *   Baby Boy Clothing
-    *   Unisex Baby Clothing
-    *   Baby Accessories
-    *   Baby Gifts
-    
-    *   Baby Gear &. Nursery
-    *   Strollers &. Accessories
-    *   Diaper Bags
-    *   Carriers &. Car Seats
-    *   Blankets
-    *   Bedding
-    *   Nursery Accessories
-    *   Toys, Plush &. Books
-    
-    *   Shoes
-    *   Girls' Shoes
-    *   Boys' Shoes
-    *   Baby &. Walker Shoes
-    
-    *   Designer Collections
-    *   Complete Looks
-    *   Girls
-    *   Boys
-    *   Baby
-*   Brands View All Brands By A-Z
-    
-    *   #
-    *   A
-    *   B
-    *   C
-    *   D
-    *   E
-    *   F
-    *   G
-    *   H
-    *   I
-    *   J
-    *   K
-    *   L
-    *   M
-    
-    *   N
-    *   O
-    *   P
-    *   Q
-    *   R
-    *   S
-    *   T
-    *   U
-    *   V
-    *   W
-    *   X
-    *   Y
-    *   Z
-    
-    *   Women's Brands
-    *   Clothing
-    *   Plus
-    *   Petite
-    *   Shoes
-    *   Accessories
-    *   Beauty &. Fragrance
-    *   Designer
-    *   Contemporary
-    
-    *   Men's Brands
-    *   Juniors' Brands
-    *   Kids' Brands
-    *   Home &. Gifts Brands
-    
-    *   Featured Brands
-    *   Burberry
-    *   kate spade new york
-    *   M·A·C
-    *   MARC BY MARC JACOBS
-    *   Michael Kors
-    *   The North Face
-    *   TOMS
-    *   Topshop
-    *   Tory Burch
-    *   UGG® Australia
-*   Sale
-    *   Sale Departments
-    *   All Women's Sale
-    *   Clothing
-    *   Shoes
-    *   Handbags &. Accessories
-    *   Designer Collections
-    
-    *   Men's Sale
-    
-    *   Juniors' Sale
-    
-    *   Kids' Sale
-    
-    *   Home &. Gifts Sale
-    
-    *   Nordstrom Rack
-    *   Shop Online
-    *   What's Happening
-    *   Store Locator
-    *   New Store Openings
-*   Specialty Shops
-    *   Holiday Decor
-    *   Bed &. Bath
-    *   Home Decor &. Entertaining
-    
-    *   Topshop Topman
-    *   Designer Collections
-    *   The Wedding Suite
-    
-    *   Gifts for All Occasions
-    
-    *   Nordstrom Gift Cards
-    *   Gift Cards
-    *   e-Gift Cards
-*   Gifts
-    *   Shop by Recipient
-    *   Gifts for Her
-    *   Gifts for Him
-    *   Gifts for Juniors
-    *   Gifts for Kids
-    
-    *   More Ways to Shop
-    *   Nordstrom Gift Cards
-    *   Gifts for All Occasions
-    
-    *   Special Services
-    *   Wish List
-    *   Our Services
-    *   Shipping Information
-    *   Store Locations &. Hours
+**How We Use Your Information**  
+We use your personal information that we collect to conduct our business and to provide you with the best possible products, services and experience. To best serve you, we may share your personally identifiable information with other members of the Nordstrom family of companies and with service providers that provide support services to us or that help us market our products and services. Service providers, third parties who perform services on our behalf, are contractually restricted from using your information in any manner other than in helping us to provide you with the products and services available from Nordstrom. We may also, in certain instances, disclose your personally identifiable information when we have reason to believe that it is necessary to identify you, contact you, or bring legal action to protect your rights or the rights of Nordstrom or others. We may also disclose your personally identifiable information when you ask us to do so or when we believe it is required by law.
 
-Back to Top Nordstrom Customer Privacy Policy
+**Personal Book**  
+One of our most valuable tools we have for building and maintaining our relationship with you is Personal Book. It allows us to better serve you in a number of ways, including keeping you informed on when your alterations, repairs, or your favorite brands or product will arrive, and notifying you about sales, special appearances and store events or promotions of interest to you.
 
-*   Customer Service
-*   Contact Us
-*   Frequently Asked Questions
-*   Our Policies
-*   Returns &. Exchanges
-*   Pricing Policy
-*   Nordstrom Customer Privacy Policy
-*   Nordstrom.com Privacy Policy
-*   Nordstrom Bank Privacy Notice
-*   Nordstrom Rack Policy
-*   Prosthesis Department Privacy Notice
-*   Terms &. Conditions
-*   Fraudulent E-mail
-*   Fraud Alert
-*   Social Networking Guidelines
-*   Terms &. Conditions for Sharing Content
-*   Services
-*   Registration Benefits
-*   Our Catalogs
-*   Site Map
-*   Ordering
-*   Gift Orders
-*   Alterations
-*   Our Stores
-*   RSS
-*   Nordstrom Fashion Rewards
-*   Buy Online, Pick Up In Store
-*   Nordstrom Stylists
-*   Product Recall
-*   Diversity @ Nordstrom
+To best serve you, we record and access information in Personal Book, including your name, address, telephone numbers, e-mail address, interests, privacy preferences and purchase history. All Nordstrom Salespeople are expected to use Personal Book in an ethical and appropriate manner. This includes only entering accurate customer information, voluntarily given by you to the Salesperson, for the specific purpose of entering it into Personal Book or any other Nordstrom-approved data device.
 
-We respect your privacy, and take great care to safeguard information in our possession. Your preferences for use of your information are our highest priority.
+Personal Book allows our Salespeople to follow through on our commitment to serving you in a professional manner, and we are dedicated to ensuring that the information you provide is protected and secure. Personal Book is the property of Nordstrom and may be used for Nordstrom-related purposes only.
 
-The Nordstrom family of companies (Nordstrom, Nordstrom Rack, Nordstrom Direct and Nordstrom fsb and HauteLook, Inc.) takes seriously the protection and proper use of your personal information, including social security numbers.
+**Mobile Privacy**  
+Nordstrom offers mobile applications (commonly known as "apps") that allow you to shop online, check product availability, learn about store events, or receive other information from Nordstrom. **All personal information collected by Nordstrom via our mobile application is protected by this Privacy Policy.**
 
-Nordstrom does not share customer information (including e-mail addresses) outside the Nordstrom family of companies unless it is necessary to provide you with products or services available from Nordstrom. We may also disclose information when you tell us to do so, to identify or contact you, to protect your rights or the rights of Nordstrom or as required by law.
+Although you do not have to provide your location information to Nordstrom to use our mobile applications, our store-specific services such as find-an-item require a zip code to function. You may manually enter a zip code and we will save your zip code(s) for future reference. Alternatively, when you download our mobile application, you may choose to allow it to obtain your precise location from your mobile device when you click the "near me" button. In this case, we will determine your zip code from the precise location data received from your mobile device. We do not store precise location data. we only store the zip code associated with the location. We may also update our mobile applications to offer automatic (or "push") notifications. We will provide push notifications only to those customers who opt-in to receive such notifications from Nordstrom. If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of you device to learn how to adjust your settings.
 
-Even within the Nordstrom family of companies, we restrict access to your information to those individuals who need it to provide you with products or services available from Nordstrom. Any third-party companies we use to provide you with products or services are required to keep your information secure and confidential.
+In the future, we may offer updated or enhanced versions of our mobile applications that include additional features created by us or using third party functionality. Our applications or the third party may automatically collect information about your precise location from your device, but only if you allow it.
 
-The Nordstrom family of companies is happy to provide further details of our privacy policies. Please see the following links for further information:
+**Cookies, Web Beacons, and Other Similar Technologies**  
+Our website uses "cookie" and "web beacon" technology. We use cookies and web beacons to distinguish you from other visitors, track your IP address and usage of our site, and to identify the name of the Web site from which you linked to Nordstrom.com. This information is used for fulfilling contracts with our business partners, and to help us serve you better by improving our website design, as well as our products, services, and promotions. We do not otherwise track any information about your use of other websites. Non-personally identifiable information obtained through cookies and web beacons may be shared with or obtained by service providers on our behalf. More information is available under Third-Party Advertising Partners.
 
-*   Nordstrom Privacy Policy Overview
-    *   Categories of Information We Collect
-    *   How We Use Your Information
-    *   Personal Book
-    *   Mobile Privacy
-    *   Cookies, Web Beacons, and Other Similar Technologies
-    *   Euclid Store Traffic Service
-    *   Third Party Advertising and Links to Other Websites and Services
-    *   Your Information, Your Choice
-    *   Children's Privacy
-    *   Security
-    *   Fraud Alerts: Protecting Your Personal Information
-*   International Customer Privacy
-*   Business Transitions
-*   Policy Changes
+A cookie is a small data file that is placed on the hard drive of your computer when you visit a website. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available. A web beacon is a small string of code that represents a clear graphic image and is used in conjunction with a cookie.
 
-For information regarding Nordstrom Bank Privacy and Security, please see the Nordstrom Bank Privacy Notice. For information regarding Nordstrom Visa, Nordstrom credit or debit card, or other Nordstrom Bank products, please call 1-800-964-1800.
+When you visit our website, we may use both a session and a persistent cookie. This Nordstrom-placed cookie may contain information (such as a unique user ID) that is used to track your usage of our website and in some cases, your e-mail address. Your e-mail address is only saved in this Nordstrom-placed cookie if you register with us. A web beacon allows us to capture certain additional types of information about a visitor's actions on a web site, such as a visitor's cookie number, the time, date, duration and number of page views, a description of the page where the Web beacon is placed, and details about any items that were purchased.
 
-If you have any other questions or concerns regarding Nordstrom's access to or use of your personal information, please write us at PO Box 21986, Seattle, WA 98111-3986 or e-mail us at privacy@nordstrom.com.
+If you register with us, this Nordstrom-placed cookie allows us to recognize you when you return to our website and provides you with access to your account information. If you save your information with or order from us, we may also use cookies to monitor and maintain information about your use of our website. If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our website in a manner that does not identify you. You can disable cookies at any time by using your browser options. however, if you turn off cookies, we will not be able to track your order or enable you to make a purchase from our website. In addition, we will not be able to recognize you as a registered user to allow you access to your account information.
+
+We may use Flash Cookies (also known as Local Stored Objects) or other similar technologies. A Flash cookie is a small data file placed on a computer using Adobe Flash technology that may be built into your computer or downloaded by you to your computer. We use these technologies to personalize and enhance your online experience, facilitate processes, personalize and store your settings. Flash cookies may help our website visitors to, for example, set volume preference associated with a video experience, play games and perform surveys. They help us improve our sites by measuring which areas are of greatest interest to customers. We do not use Flash cookies for marketing or behavioral targeting purposes. Flash cookies are different from browser cookies and the cookie management tools provided by your browser will not remove Flash cookies. Learn how to manage privacy and storage settings for Flash cookies. If you disable Flash cookies or other similar technologies, please be aware that you may not have access to certain features and services that make your online experience more efficient and enjoyable.
+
+**Euclid Store Traffic Service**  
+Nordstrom uses Euclid to collect certain information publicly-broadcast by mobile devices used in and around our stores. This information is anonymized and aggregated by Euclid and used to create analytic reports, which are provided to Nordstrom. Neither Nordstrom nor Euclid will use your mobile device information to personally identify, locate, or contact you. If you have a Wi-Fi equipped phone AND Wi-Fi is turned on, Euclid's sensors collect your phone's unique MAC address (in hashed form only), manufacturer, and data that is used to estimate its location in relation to the Euclid sensor. We use this information only to calculate and analyze client traffic based on these signals sent from shoppers' mobile devices. To learn more about Euclid or to opt-out of having your device's information collected by the Euclid sensors, please visit: http://euclidelements.com/consumer.
+
+**Third-Party Advertising Partners**  
+We use third-party service providers to serve advertisements (banners or links) on our behalf across the Internet.
+
+These service providers may collect non-personally identifiable information about your visits to our website, and your interaction with our products and services. Such non-personally identifiable information is anonymous and does not include your name, address, e-mail address or other personal information. The anonymous information is collected through the use of a pixel tag (also known as cookies and action tags), which is industry-standard technology used by most major websites.
+
+In addition to the anonymous information about your visits to our website, our service providers may also use the anonymous information about your visits to other websites to target advertisements for products and services available from Nordstrom.
+
+Currently, we use third party-placed tracking pixels and cookies from the following advertising delivery partner: TellApart. In the future we may partner with other companies to provide interest-based advertising, both on and off Nordstrom.com. If this occurs, Nordstrom provides you with an opportunity to opt out when these advertisements are served. You may manage your third-party advertising preferences by clicking here.
+
+If you would like more information about this practice and to know your choices for not having this anonymous information used by third-party service providers, please visit http://www.networkadvertising.org/managing/opt\_out.asp
+
+**Links to Other Websites and Services**  
+Websites provided by the Nordstrom family of companies may include links to other Internet sites, content, or videos (embedded or direct links) maintained by third parties ('Linked Sites'). Nordstrom provides Linked Sites to you solely as a convenience, and the inclusion of Linked Sites does not imply endorsement by Nordstrom of the Linked Sites. You access Linked Sites at your own risk and by accessing them you leave Nordstrom's website. Linked Sites are not under the control of Nordstrom and Nordstrom is not responsible for the contents of any Linked Site, including the privacy policies or tracking technologies they may use. We encourage you to check the applicable privacy policy to determine how they will handle any personally identifying information they collect from you.
+
+**Your Information, Your Choice**  
+To update us with your information-sharing preferences, you may contact us using one of the following methods:
+
+• Call 206-233-5678, or  
+• E-mail privacy@nordstrom.com, or  
+• Send your request to Nordstrom Privacy, PO Box 21986, Seattle, WA 98111
+
+Please note your preference as stated below:
+
+"I prefer not to receive e-mail advertisements, such as updates regarding products and services, special promotions or upcoming events." (You may also click the designated link at the bottom of all Nordstrom.com e-mail advertisements to be removed from future e-mail updates.)
+
+"I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions or upcoming events." (Please note that direct mail requests may take up to six to eight weeks to become effective.)
+
+To update your Wish List privacy settings, you may select "Private" (not searchable) to protect your Wish List information from being publicly searched on our site or you may select "Public" (searchable). To protect your privacy, we initially set your Wish List account to a "Private" setting.
+
+**Children's Privacy**  
+Nordstrom Direct will never knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent.
+
+If we become aware that an individual is under the age of 13 and has submitted any information to Nordstrom Direct for any purpose without prior verifiable parental consent, we will delete his or her information from our files.
+
+**Security**  
+We maintain physical, electronic and procedural safeguards to protect the confidentiality and security of personally identifiable information transmitted to us using this website. To guard your information, our website uses Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only Nordstrom Direct is able to decode your information. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information.
+
+To be sure your connection is secure, look at the bottom status bar of your browser window. If you see an unbroken key or a closed lock (depending on your browser) the SSL is active and your information is secure. Most browsers offer additional security alerts as well. If for some reason you are unable to connect to our secure server, please call us toll free at 1-888-282-6060.
+
+We also ask customers to carefully review their accounts and immediately report any unexpected activity to Nordstrom and their issuing bank or credit card company. Additionally, we are asking all our customers to take measures to help protect personal information in their online accounts, including the following:
+
+*   Install the latest security updates and anti-virus software on your computer to help prevent malware and viruses
+*   Reset your e-mail account password
+*   Use complex passwords (a minimum of 7 alpha/numeric cAsE sEnsitive characters)
+*   Do not use the same password on more than one website
+*   Do not share your password with others
+*   Sign out/log off website sessions so that your session is closed and cannot be accessed by another user on the same computer, especially when using a public computer or terminal
+*   Visit these additional resources:
+    *   http://www.us-cert.gov/cas/tips/
+    *   http://www.microsoft.com/security/pc-security/protect-pc.aspx
+    *   http://www.clarkhoward.com/news/clark-howard/technology/clark-howards-virus-spyware-and-malware-protection/nFZJ/
+
+**Fraud Alerts: Protecting Your Personal Information**  
+You may come in contact with websites, e-mails or texts that try to lure you into providing personal information with the offer of a Nordstrom gift card. Nordstrom does not sponsor these offers nor are we affiliated with the promotion originators. If you become aware of any potentially fraudulent activity on a website or in an e-mail or text, please forward the information to onlinefraud@nordstrom.com or call us at 1-888-282-6060 so that we can follow up. We take these matters, and the protection of our customers' sensitive information, very seriously. View our Fraud Alerts page.
+
+**International Customer Privacy**  
+Protecting the privacy and security of Nordstrom customer information is a top priority for Nordstrom. In some cases, Nordstrom partners with outside vendors to help facilitate transactions. When that is the case, we work closely with the vendor to ensure that the transaction is appropriately handled and all the information you provide is treated with the utmost care.
+
+To sell and fulfill online purchases that customers choose to ship internationally, Nordstrom partners with FiftyOne, Inc. ("FiftyOne"). We have contracted with FiftyOne to assure that they will carefully process your personal information, with at least the same level of privacy protection set forth in the Safe Harbor Privacy Principles as established by the U.S. Department of Commerce and approved by the European Commission. FiftyOne also agrees not to sell, transfer, or otherwise use your information other than for executing international shipping orders. When you identify your Nordstrom.com order as being shipped internationally, Nordstrom will facilitate your secure Checkout transaction with FiftyOne. On the Checkout page you will be required to submit credit card and personal information (name, billing address, shipping address, e-mail address and phone number) to FiftyOne to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communication from Nordstrom.
+
+Upon completion of your order, FiftyOne will notify Nordstrom of the approval of your order, and Nordstrom will then ship approved orders to FiftyOne. Simultaneously, FiftyOne will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, FiftyOne makes the sale to you as the merchant of record. When ordering a product, you will be presented with FiftyOne's terms and conditions to which you must agree in order to receive the product(s) you ordered.
+
+Once you have agreed that FiftyOne may share your data collected from their page with Nordstrom, that data is protected by the Nordstrom Privacy Policy. Any personal information you provide directly to Nordstrom while on Nordstrom.com is controlled and processed by Nordstrom, PO Box 21986, Seattle, WA 98111-3986. Any personal information provided at Checkout is controlled and processed by FiftyOne, 55 West 39th Street, 18th Floor, New York, New York 10018.
+
+If you choose to provide Nordstrom with personal information, you consent to the transfer and storage of that information on our servers located in the United States. Nordstrom adheres to the Safe Harbor Privacy Principles as established by the U.S. Department of Commerce and approved by the European Commission and the Swiss Federal Data Protection Authority. We conduct an annual self-assessment to verify that we are in compliance with the Safe Harbor Privacy Principles in addition to our own Nordstrom privacy program assessments. Nordstrom has certified to the U.S. Department of Commerce and the European Union that our processing of personal data is in compliance with the Safe Harbor Privacy Principles, as has FiftyOne. For more information about the Safe Harbor, visit the Department of Commerce's Safe Harbor website. While the Safe Harbor Principles are designed to protect personal information originating in the European Economic area and Switzerland, our policy is to protect all international customer information in accordance with these Principles.
+
+Customers shipping internationally who wish to inquire about or update personal information or change marketing preferences, or anyone who wants to receive information about our international privacy program should contact us directly using one of the following methods:
+
+• Send an e-mail to intl\_privacy@nordstrom.com, or  
+• Call our international privacy customer line at 206-233-5678, or  
+• Write us at Nordstrom International Privacy, PO Box 21986, Seattle, WA 98111-3986
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Nordstrom commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Nordstrom using one of the following methods:
+
+*   Send an e-mail to intl\_privacy@nordstrom.com, or
+*   Call our international privacy customer line at 206-233-5678, or
+*   Write us at Nordstrom International Privacy, PO Box 21986, Seattle, WA 98111-3986
+
+Nordstrom has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Nordstrom, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+
+**Business Transitions**  
+As we continue to develop our business, we may undergo a business transition such as acquiring another company, merging with an existing company, or selling a portion of our assets. In such transitions, customer information is typically one of the business assets that is transferred or acquired by a third party. In the unlikely event that Nordstrom, Inc. or substantially all of its assets are acquired or enter a court proceeding, you acknowledge that such transfers may occur and that your Personal Information can continue to be used as set forth in this Privacy Policy.
+
+**Policy Changes**  
+This policy replaces all previous disclosures we may have provided you about our information practices. We reserve the right to change this policy, and to apply any changes to information previously collected, as permitted by law. If there are material changes to this policy or our information practices change in the future, we will notify you by posting the policy changes on our website.
+
+**Additional Information**  
+If you're not comfortable shopping online (and would prefer to make your purchase via telephone), just give us a call at 1-888-282-6060. Our Customer Service Representatives will be happy to assist you. For your convenience, Nordstrom Direct may link to unaffiliated third party websites. This Privacy Policy does not apply to unaffiliated third party websites.
+
+If you have questions regarding our Privacy Policy please contact us at:
+
+**Nordstrom Privacy**  
+PO Box 21986  
+Seattle, WA 98111-3986  
+1-206-233-5678  
+privacy@nordstrom.com
+
+**HauteLook**  
+1212 S. Flower Street, Suite #300  
+Los Angeles, CA 90015  
+1-888-547-8438  
+membercare@hautelook.com
+
+The examples contained in this Privacy Policy are illustrations only, and are not intended to be exhaustive.
 
 _8/30/2012_
-
-Customer Service
-
-*   Check Order Status
-*   Returns &. Exchanges
-*   Product Recall
-*   Live Chat
-*   Nordstrom Stylists
-*   Find Your True Fit
-
-Advanced Search Fashion Rewards
-
-*   Apply for a Nordstrom Card
-*   Pay Bill Online
-
-Shipping Options &. Charges
-
-*   Domestic Shipping
-*   International Shopping
-
-Gift Cards About Us
-
-*   Careers
-*   Investor Relations
-*   Nordstrom Cares
-*   Nordstrom Rack
-*   Store Locations &. Events
-*   Shop Our Catalogs
-*   Mobile Site
-*   Site Map
-
-Nordstrom Connect with Us
-
-*   Follow Us on Twitter
-*   Read Our Blog
-*   Get Nordstrom Apps
-
-Get E-mail Updates ©2012 Nordstrom, Inc. For assistance call 1-888-282-6060
-
-*   Contact Us
-*   Your Privacy Rights
-*   Terms &. Conditions
-*   Give Us Feedback
-
-Want to get your hands on the latest looks? With **Nordstrom's iPad app**, fashion's always a tap away.
-
-*   Customize your dashboard with the departments you shop the most.
-*   Get product information and read customer reviews.
-
-DOWNLOAD OUR FREE APP Not now, ask me again later No thanks
