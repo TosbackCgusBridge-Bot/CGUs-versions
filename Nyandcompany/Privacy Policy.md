@@ -1,48 +1,3 @@
-*   sign in/Register
-*   My Account
-*   Order Status
-*   Customer Service
-
-*   My Wish List
-
-Latest Trends New Arrivals @Work Apparel Tops Pants Petite Tall Accessories Sale 50% off Everything! (Excludes New Arrivals, NY Deals, 58andLEX Shoe Collection, Eva Collection, NY&C Beauty Collection, Clearance and Gift Cards). Plus, enjoy free shipping on any order over $125 – no code needed. \*Details **Customer Service**
-
-*   Ordering &. Shipping Info
-    *   Where's My Order?
-    *   Shipping Rates &. Info
-*   Returns &. Exchanges
-    *   Return Policy &. How to Return A Purchase
-*   Shopping
-    *   How to Place An Order
-    *   How to Use A Promo Code
-    *   How to Search For An Item
-    *   Size Chart
-*   My Account
-    *   Sign In/Create An Account
-    *   Change Account Info
-    *   Email Sign-Up
-*   NY&C Rewards Credit Card
-    *   Apply Now / Manage Account
-    *   Benefits
-    *   View Account
-    *   Make A Payment
-    *   Credit Card Contact Info
-*   Gifts
-    *   Shop Gift Cards
-    *   About Gift Cards
-    *   Check Your Gift Card Balance
-    *   Gift Wrap
-*   About Us
-    *   Company Info / Careers
-    *   Investor Relations
-    *   Affiliate Program
-    *   Philanthropy
-    *   Special Offers
-*   Store Locator
-*   Contact Us
-*   FAQs
-*   Site Map
-
 Privacy Policy
 
 New York &. Company believes it is important to let visitors to nyandcompany.com (the "Website") know what types of information we collect online, and how we may use and share that information. In this online Privacy Policy, "we", "our" or "us" refers to New York &. Company, and "you" or "your" refers to each visitor to the Website. Except for the section titled Your California Privacy Rights, this Privacy Policy applies only to information that we collect about you on the Website.
@@ -158,25 +113,3 @@ While we use the foregoing security measures to protect your information, please
 Questions / Changes in Policy
 
 If you have questions or concerns with respect to our Privacy Policy, you may contact us at (800) 723-5333 (ext. 42015). We may elect to change or amend our Privacy Policy. in such event, we will post the policy changes in our Privacy Policy on the Website. If you are concerned about how your personal information is used, please visit our Website often for this and other important announcements and updates.
-
-Sign up. Get $25.  
-
-*   1.800.961.9906
-*   Customer Service
-*   NY&C Rewards Credit Card
-*   Gift Cards
-*   Store Locator
-*   About NY&C
-*   Contact Us
-*   Careers
-
-*   Privacy Policy
-*   California Privacy Rights
-*   Supply Chain Transparency
-*   Terms &. Conditions
-*   Site Map
-
-© 2008 New York &. Company. All Rights Reserved
-
-  
-ABOUT SSL CERTIFICATES
