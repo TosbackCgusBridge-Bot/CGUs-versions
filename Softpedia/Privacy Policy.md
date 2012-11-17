@@ -1,65 +1,3 @@
-   
-WINDOWS CATEGORIES:  
-  
-
-*   Antivirus
-*   Authoring tools
-*   CD/DVD Tools
-*   Compression tools
-*   Desktop Enhancements
-*   File managers
-*   Internet
-*   IPOD TOOLS
-*   Mobile Phone Tools
-*   Multimedia
-*   Network Tools
-*   Office tools
-*   Others
-*   PORTABLE SOFTWARE
-*   Programming
-*   Science / CAD
-*   Security
-*   System
-*   Tweak
-*   UNIX
-*   Windows Widgets
-
-  
-  
-**GLOBAL PAGES** >>  
-**SOFTPEDIA REVIEWS** >>  
-**MEET THE EDITORS** >>. Find us on Google+ WEEK'S BEST*   Microsoft Security...
-*   Nero \[DISCOUNT: 15...
-*   Kaspersky ONE \[$25...
-*   Undelete Plus \[SOF...
-*   Glary Utilities Pr...
-*   Backup4all Pro \[DI...
-*   WebcamMax \[DISCOUN...
-*   Acronis True Image...
-*   Windows 8 RTM Buil...
-*   Ashampoo UnInstall...
-7-DAY TOP DOWNLOAD # Program Adguard Web Filter  
-5.4.425.2526  
-145,782 downloads Nokia PC Suite  
-7.1.180.94  
-50,320 downloads Samsung PC Studio  
-7.2.24.9  
-38,914 downloads Adobe Flash Player  
-11.5.502.110 /  
-11.5.502.118 Beta  
-33,316 downloads Nero 9 Free  
-9.4.12.3d  
-32,724 downloads Internet Download  
-Manager 6.12 Build  
-25  
-26,876 downloads UMPlayer 0.98  
-24,003 downloads LibreOffice 3.6.3 /  
-3.6.4 RC 1  
-23,089 downloads Hotspot Shield 2.76  
-22,989 downloads Avast! Free  
-Antivirus 7.0.1474  
-21,017 downloads Home >. Privacy policy  
-Softpedia privacy policy  
 Written in accordance with the provisions of Law 677/2001, regarding individual protection about collecting and free circulation of personal data.  
   
 SoftNews NET has created this privacy statement in order to demonstrate our firm commitment to privacy over the internet. The following discloses our information gathering and dissemination practices for this website: Softpedia.com is operated by SoftNews NET, located in Bucharest, Romania.  
@@ -136,12 +74,4 @@ If we decide to change our privacy policy, we will post those changes on our Hom
   
 If you feel that this company is not abiding by its posted privacy policy, you should first contact Softpedia. For any suggestions and comments regarding Softpedia or our Privacy Policy, please contact us at .  
   
-This Privacy Policy is guided by the Romanian legislation and has been updated today, 24th of September, 2007.  
-  
-  
-  
-  
-SUBMIT PROGRAM   |   ADVERTISE   |   GET HELP   |   SEND US FEEDBACK   |   RSS FEEDS   |   UPDATE YOUR SOFTWARE   |   ROMANIAN FORUM  
-© 2001 - 2012 Softpedia. All rights reserved.  
-Softpedia® and the Softpedia® logo are  
-registered trademarks of SoftNews NET SRL. Copyright Information | Privacy Policy | Terms of Use
+This Privacy Policy is guided by the Romanian legislation and has been updated today, 24th of September, 2007.
