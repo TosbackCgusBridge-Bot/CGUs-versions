@@ -3,15 +3,15 @@
 *   What's New
 *   Hot Topics
     *   entertainment
-    *   celebrity
     *   David Petraeus
-    *   David Petraeus...
-    *   strange stuff
+    *   celebrity
     *   timeless news
-    *   Paula Broadwell
-    *   Israel and...
+    *   David Petraeus...
     *   Election 2012
-    *   President Obama
+    *   Benghazi
+    *   Israel and...
+    *   Hamas
+    *   US military
 *   Log In
 
   Follow @Newser Snappy newsletters. Simple Facebook sharing. Spirited comments. Sweet features are waiting… GET THEM NOW!  
@@ -36,7 +36,7 @@
     *   MEDIA
     *   SPORTS
 
-Newser Privacy Policy
+Hot on Facebook Walmart Workers Walk Out, Plan Black Friday Protest Chain says protesters a small portion of workforce » Newser Privacy Policy
 
 Please read this Privacy Policy (last revised as of March 1, 2010) before using this service. By continuing to use Newser.com, you acknowledge that you have read and agree to the terms of this policy.
 
@@ -120,56 +120,56 @@ COMMUNITY
 NEWS FROM OUR PARTNERS
 
 *   The Wrong Man for the Job
-*   How Robots Saved an Artist’s Sanity
-*   Twilight: Breaking Dawn, Part 2
+*   The Natural Gas Myth
+*   We Lost Our Twilight Virginity
 
 More from Slate »
 
-*   WHO IS THE WORLD'S
+*   TWINKIE THE KID
 *   School Mows Down Student's Charity Mustache
-*   Weed Profits Aid Hurricane Sandy Victims
+*   LOOK: Surfers Make Amazing Discovery
 
 More from HuffPost Weird »
 
-*   You Are Cordially Invited To Liz Lemon’s Wedding
-*   Black Woman Pretends To Be Caucasian In Her Job Search, Has...
-*   Today’s WTF News: Weed Dealer Donates Half His Moolah To...
+*   Meghan McCain Threatens To Leave Republican Party Over...
+*   RIP Society: Cops Thwart “Twilight” Movie Theater Massacre...
+*   Did The Election Reinvigorate Pro-Choice Support?
 
 More from The Frisky »
 
-*   Smoking hot 22-year-old beauty contest winner: "I don't...
-*   Pumpkin Pie Sandwich - an entire 32oz tub of Kool Whip...
-*   28 women in a mini car set Guinness world record, "The...
+*   Drive while intoxicated and get your 16 year old passenger...
+*   Architects are finally building furniture-forts for adults...
+*   Not News: The Huffington Post publishes Kremlin propaganda....
 
 More from Fark »
 
-*   Why Republicans want Mitt Romney to take a hike
-*   The David Petraeus affair: A comprehensive timeline...
-*   One secret reason Petraeus had to resign
+*   5 smart reads for the weekend
+*   The bulletproof super material that's paper-thin
+*   Was Obama's defense of Susan Rice sexist?
 
 More from The Week »
 
-*   Barbara Bush is the New 'Bronco Bamma' Baby
-*   Trashed Rockaway Boardwalk Boards Are Surprisingly Valuable
-*   Watch The PATH System Flood Like Crazy
+*   Upstate District Attorney Was Indeed a Seventies Porn Star
+*   No More Ms. Nice CEO: Marissa Mayer Gets Serious
+*   Arizona Gun Store Bans Obama Voters Who Identify Themselves...
 
 More from Daily Intel »
 
-*   Are You Too Sick To Go To Work?
-*   'Shh-Thanks-Givin': My First Thanksgiving in America -- A...
-*   Smokeout Day 2012: Realities Behind the New Numbers
+*   The Alarming Driving Habit More Than Half Of Us Have Done...
+*   Body Image Researcher David Sarwer Debunks Hollywood Myths
+*   Snore, Snore, Alarm, Alarm, No One Listening?
 
 More from HuffPost Health »
 
-*   5 Movies Themed Around Gratitude, Giving and Other Good...
-*   'Jersey Shore' Recap: Gym, Tan, Break Up With Paula
-*   'Breaking Dawn 2' Leaves ‘Twilight’ Fans Breathless to the...
+*   10 Tips on Cooking Thanksgiving Dinner Without All the...
+*   Having a Baby Can Put a Damper on Your Relationship
+*   President Obama Earned His Re-Election
 
 More from The Stir »
 
-*   Greg Jennings Is Going Nowhere in His Latest Old Spice Ad
-*   Ad of the Day: Morrisons
-*   PETA Gets Itself in Yet Another Hairy Situation
+*   The Rebranding of Occupy Wall Street
+*   Olson Wins Belize Tourism Account
+*   Nicki Minaj Becomes the Bride of C-3PO in New Fragrance Ad
 
 More from Adweek » **Other Sites We Like:  ** 24/7 Wall St.   |   BuzzFeed   |   Cracked   |   Timelines   |   Geek Sugar   |   Business Insider   |   HuffPost Entertainment   |   NewsOne
 
