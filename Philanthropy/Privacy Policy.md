@@ -1,32 +1,3 @@
-\= Premium Content
-
-*   Log In |
-*   Create a Free Account |
-*   Subscribe Now
-
-*   Saturday, November 17, 2012
-
-Subscribe Today
-
-*   Home
-*   News
-*   Fundraising
-*   Giving
-*   Managing
-*   Causes
-*   Facts &. Figures
-*   Jobs
-*   Webinars
-*   Community
-*   Marketplace
-*   Store
-
-Privacy Policy
-
-*   Home
-*   About the Chronicle
-*   Privacy Policy
-
 **
 
 The Chronicle is committed to protecting the privacy of its subscribers and other users of its online services. The following policies apply to Philanthropy.com and any other Chronicle of Philanthropy Web sites.
@@ -159,32 +130,3 @@ The Chronicle of Philanthropy
 1255 23rd St., N.W.  
 Washington, D.C. 20037  
 **stacy.palmer@philanthropy.com**
-
-*   Home
-*   News
-*   Fundraising
-*   Giving
-*   Managing
-*   Causes
-*   Facts &. Figures
-*   Jobs
-*   Webinars
-*   Community
-*   Marketplace
-*   Store
-
-*   Subscribe
-*   Newsletters
-*   Advertise
-*   Help
-*   About The Chronicle
-*   Contact Us
-*   Site Map
-*   Permissions
-*   Privacy Policy
-
-Copyright 2012. All rights reserved.
-
-*   The Chronicle of Philanthropy
-*   1255 Twenty-Third St, N.W.
-*   Washington, D.C. 20037
