@@ -1,58 +1,4 @@
-PJ Media
-
-*   Home  
-    
-*   Columnists  
-    *   J. Christian Adams  
-        Rule of Law
-    *   Ed Driscoll  
-        EdDriscoll.com
-    *   Richard Fernandez  
-        Belmont Club
-    *   Stephen Green  
-        Vodkapundit
-    *   Victor Davis Hanson  
-        Works and Days
-    *   Roger Kimball  
-        Roger’s Rules
-    *   Andrew Klavan  
-        Klavan on Culture
-    *   Michael Ledeen  
-        Faster, Please!
-    *   Andrew McCarthy  
-        Ordered Liberty
-    *   Ion Mihai Pacepa  
-        Say No To Socialism
-    *   Ron Radosh  
-        Ron Radosh
-    *   Claudia Rosett  
-        The Rosett Report
-    *   Barry Rubin  
-        Rubin Reports
-    *   Roger L. Simon  
-        Roger L. Simon
-    *   Dr. Helen Smith  
-        Dr. Helen
-    *   Spengler  
-        David P. Goldman
-    *   Janine Turner  
-        Janine Turner
-    *   Michael Walsh  
-        Unexamined Premises
-    *   Zombie  
-        Zombie
-*   PJ Tatler  
-    
-*   PJ Lifestyle  
-    
-*   PJTV  
-    
-*   Instapundit  
-    
-
-News  
-Directly To  
-Your Inbox Follow PJ Media Privacy Policy
+Privacy Policy
 
 **Overview**
 
@@ -112,27 +58,3 @@ There may be instances when we may disclose PII or email addresses in order to p
 This Privacy Policy may be updated from time to time as needed. If PJM decides to change the privacy policy, we will post these changes on this web page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. It is your obligation to review this Privacy Statement periodically, and your continued use of our website after changes have been posted will be deemed to be your acceptance of the revised Privacy Policy.
 
 _Privacy Statement last updated February 15, 2010._
-
-Advertisement  
-
-*   Bible Publisher Isn’t Religious Enough for Barack Obama
-*   Wicked Executives Take Huge Personal Bonuses Despite Their Company’s Massive Losses
-*   As the War in Gaza Heats Up, So Too Do the Anti-Israel Protests in U.S.
-
-More  
-
-*   7 Principles That Will Guarantee Constant Misery
-*   ‘Nude’ Actually Means ‘The Color of a White Person’s Flesh’?
-*   Tread Upon: What’s Next for the Tea Party?
-
-More
-
-*   Who Is Responsible for Benghazi?
-*   Osama bin Laden is Dead and So Are Ho Hos
-*   Obama's Campaign Message to Millions of Voters: 'Don't Vote!'
-
-More   FREE SHORT STORY: Sacrifice.  The gods sell all that they give… STILL KINDA WISTFULLY LOOKING AT THE Electoral Heat Map. PYRRHUS OF EPIRUS WAS UNAVAILABLE FOR COMMENT: Maine’s striking Hostess workers say company’s collapse a strong message of union resolve. More Advertisement
-
-Home | About Us | Media | Advertising | Tips For PJM | Archive | Privacy Policy | Terms of Use | Contact Us
-
-Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.48 PJMWeb2
