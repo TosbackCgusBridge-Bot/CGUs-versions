@@ -1,26 +1,3 @@
-Bloomberg Businessweek Go To Businessweek.com Sign in with Facebook Or use your Businessweek account Email Password Forgot password? Remember me
-
-Already a Bloomberg.com user?
-
-Sign in with the same account.
-
-Don't have an account? Sign up.
-
-Help! I can't access my account.
-
-This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. X Bloomberg Businessweek
-
-*   Global Economics
-*   Companies &. Industries
-*   Politics &. Policy
-*   Technology
-*   Markets &. Finance
-*   Innovation
-*   Lifestyle
-*   Business Schools
-*   Small Business
-*   Video &. Multimedia
-
 Privacy Policy
 
 **Last Updated:** July 17, 2012
@@ -90,32 +67,3 @@ New York, NY 10022
 Modifications To This Privacy Policy
 
 BLP reserves the right to change this Privacy Policy at any time by posting revisions on this Web page. Such changes will be effective upon posting.
-
-Social
-
-*   Follow us on Twitter
-*   Join us on Facebook
-*   Connect with us on LinkedIn
-*   Subscribe to Bloomberg Businessweek
-*   Bloomberg
-
-Links
-
-*   Our Company
-*   Advertising
-*   Careers
-*   Feedback
-*   Custom Publishing
-*   Manage Subscription
-
-*   Mobile
-*   Newsletters
-*   Privacy Policy
-*   Reprints &. Permissions
-*   Sitemap
-*   Terms of Use
-*   \[+\] Rate This Page
-
-Get Businessweek Delivered The Hackers of Damascus Subscribe
-
-©2012 Bloomberg L.P. All Rights Reserved. Made in NYC Ad Choices
