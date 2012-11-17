@@ -174,9 +174,11 @@ Record Searchlight
 *   Cars
 *   Classified
 
-*   Winter Storm Watch
+*   Get severe weather notifications anywhere via our new iPhone and Android app
     
-    IN EFFECT UNTIL NOV 16, 3:30 p.m.
+*   Winter Weather Advisory
+    
+    IN EFFECT UNTIL NOV 17, 5:00 a.m.
     
     issued for Mountains Southwestern Shasta County to Northern Lake County
     
@@ -274,25 +276,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   UPDATED: Arrest made in suspected 1997 McCloud murder Updated 11/15/2012 at 1:29 p.m. 29 comments
-*   Bill McPherson: Nation suffers for spurning God Published 11/15/2012 at 12:00 a.m. 137 comments
-*   Two Redding restaurants close doors. Fat Boy's to cater. Tortuga Bay Grill gone Published 11/14/2012 at 11:16 p.m. 48 comments
-*   CSU Chico suspends all Greek activities Published 11/15/2012 at 1:31 p.m. 39 comments
-*   UPDATED: Burney father pleads not guilty to child abuse. 2 Burney kids recovering after shotgun injuries Updated 11/15/2012 at 5:52 a.m. 42 comments
+*   UPDATED: Ding Dong, the Twinkie is dead: Hostess is going out of business Published 11/16/2012 at 8:00 a.m. 233 comments
+*   UPDATED: Man stabbed at Redding motel while trying to break up fight, police say Updated 11/16/2012 at 3:53 p.m. 27 comments
+*   Redding pondering ordinance to combat problem motels Published 11/15/2012 at 11:44 p.m. 75 comments
+*   Cadd wins Redding council seat by 11 votes over Dickerson Published 11/16/2012 at 4:13 p.m. 54 comments
+*   Man suspected of 1997 McCloud murder. arrest could be linked to another missing person Published 11/15/2012 at 11:45 p.m. 27 comments
 
-Photo Galleries Nello's Place Fallis Around Town Artist Gwen Knaebel
+Photo Galleries Mercy beats Redding Christian Nello's Place Cirque Dreams Holidaze
 
-*   Thomas Sowell: Romney  another nice loser Published 11/14/2012 at 12:00 a.m. 154 comments
-*   Bill McPherson: Nation suffers for spurning God Published 11/15/2012 at 12:00 a.m. 137 comments
-*   California to debut landmark cap-and-trade system Published 11/14/2012 at 8:51 a.m. 109 comments
+*   UPDATED: Ding Dong, the Twinkie is dead: Hostess is going out of business Published 11/16/2012 at 8:00 a.m. 233 comments
+*   Thomas Sowell: Romney  another nice loser Published 11/14/2012 at 12:00 a.m. 157 comments
+*   Bill McPherson: Nation suffers for spurning God Published 11/15/2012 at 12:00 a.m. 145 comments
+*   California to debut landmark cap-and-trade system Published 11/14/2012 at 8:51 a.m. 110 comments
 *   Ryan: Shocked at loss, Obama won fair and square Published 11/14/2012 at 4:00 a.m. 83 comments
-*   Petraeus investigation now includes General John Allen Published 11/13/2012 at 7:48 a.m. 83 comments
 
 *   UPDATED: Two dead in fiery Hwy. 273 crash. blaze closes portion of highway for hours Published 11/8/2012 at 3:27 a.m. 97 comments
 *   Driver, 85, crashes into Redding garage Published 11/12/2012 at 12:42 p.m. 34 comments
-*   Redding car dealer Frank Yannello dies at 81 Published 11/12/2012 at 11:41 p.m. 7 comments
+*   Derrick Adams: Psoriasis linked to heart disease Published 11/7/2012 at 5:02 p.m. 0 comments
 *   Kentucky Fried Chicken franchise owner closes 29 stores, seven in north state Published 11/12/2012 at 11:41 p.m. 47 comments
-*   Two dead from wild mushrooms served at Sacramento-area care facility Published 11/11/2012 at 8:54 a.m. 32 comments
+*   Redding car dealer Frank Yannello dies at 81 Published 11/12/2012 at 11:41 p.m. 7 comments
 
 Weather
 
@@ -300,25 +302,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 48° Partly Cloudy Wind: NW 4mph Today 57° 46° Fri 04:00 PM Mostly Cloudy Showers Temp: 54° Sat 04:00 AM Mostly Cloudy Showers Temp: 49° Sat 04:00 PM Mostly Cloudy Showers Temp: 58°
+Currently 51° Light Rain Fog/Mist Wind: N 4mph Today 58° 50° Sat 01:00 PM Mostly Cloudy Showers Temp: 57° Sun 01:00 AM Mostly Cloudy Showers Temp: 50° Sun 01:00 PM Mostly Cloudy Showers Temp: 54°
+
+Feels Like: 57°
+
+Humidity: 80%
+
+Precip: 89%
+
+Feels Like: 50°
+
+Humidity: 96%
+
+Precip: 99%
 
 Feels Like: 54°
 
-Humidity: 75%
+Humidity: 66%
 
-Precip: 87%
-
-Feels Like: 49°
-
-Humidity: 93%
-
-Precip: 89%
-
-Feels Like: 58°
-
-Humidity: 77%
-
-Precip: 89%
+Precip: 52%
 
 Western Skies 11/12/12  
 7:18 p.m.  
@@ -334,18 +336,10 @@ tornado clouds? 8/28/12
 11:48 p.m.  
 More Weather » Calendar
 
-*   Friday Nov 16
 *   Saturday Nov 17
 *   Sunday Nov 18
+*   Monday Nov 19
 *   More BROWSE Icon
-
-*   Tehama Friends of NRA Dinner Rolling Hills Casino 6 p.m.
-*   The Fresh Beat Band Redding Civic Auditorium 7 p.m.
-*   University Preparatory School musical 'Thoroughly Modern Millie' David Marr Auditorium (Shasta Learning Center) 7 p.m.
-*   Wild Bill and the Mudwompers concert Kelly's Pub &. Wine Bar 7 p.m.
-*   Shasta College Symphonic Band concert Shasta College Theater 7:30 p.m.
-
-More Events »
 
 *   Wintu Audubon Outing at Reading Island See Description 7:30 a.m.
 *   15th Annual Board and Ski Swap See Description 9 a.m.
@@ -360,6 +354,14 @@ More Events »
 *   Rivercity Jazz Society, High School Jazz Concert Redding Elks Lodge 1 p.m.
 *   Siskiyou Ice Rink Public Skate Siskiyou Ice Rink 1:30 p.m.
 *   Love and Logic Basic Training Risen King Community Church 3 p.m.
+
+More Events »
+
+*   Thanksgiving Holiday Ice Skate Camp for Youth Siskiyou Ice Rink 10 a.m.
+*   Cottonwood Garden Club Meeting Cottonwood Community Center 10 a.m.
+*   Siskiyou Ice Rink Holiday Skate Week Siskiyou Ice Rink noon
+*   Sharp Three concert Music Max 7 p.m.
+*   Free classes for seniors Senior Citizens Hall
 
 More Events »
 
