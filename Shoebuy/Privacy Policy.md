@@ -1,25 +1,3 @@
-The World's Largest Site For Shoes SAVINGS &. UPDATES | HELP | ESPAÑOL | VIEW CART (0 items) | **$** off on your next purchase points to your next reward Learn More Home Brands Women Men Kids Designer Sale Gifts Why Shop At Shoebuy? **FREE SHIPPING**     FREE RETURN SHIPPING     **NO SALES TAX**     100% PRICE GUARANTEE     see details >>. Advanced Search | Search By Brand | Search By Size | Wide Shoes | Narrow Shoes | Sale Shoes Home >. Customer Service >. Privacy
-
-*   Browse Shoes
-    
-    *   Women's Shoes
-    *   Men's Shoes
-    *   Teens' Shoes
-    *   Girls' Shoes
-    *   Boys' Shoes
-    *   Infants/Toddlers Shoes
-    
-    *   Wide Shoes
-    *   | Narrow Shoes
-    *   | New Styles
-    *   | Sale Shoes
-    *   | All Shoes Categories
-*   Browse More Categories
-    
-
-*   Shop with confidence. Shoebuy is brought to you by the same company that brings you these great brands.
-    
-
 Privacy
 
 Shoebuy.com, Inc. is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Shoebuy, Ask.com, Match.com, Citysearch, Vimeo, ServiceMagic, Gifts.com, Pronto and many others. For a list of all of IAC's businesses, please visit www.iac.com. In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, Shoebuy has revised its Privacy Policy, effective August 22, 2008, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our FAQs for details about the changes. Please review both the Consumer Privacy statement and this site's complete Privacy Policy.
@@ -106,11 +84,3 @@ Boston, MA 02110
 privacy@shoebuy.com
 
 Back to Top | Back to Homepage
-
-Get free updates on new products &. special offers. Enter your email address here... Order by Phone: 1-888-200-8414 | 100% Safe Shopping Guaranteed Benefits &. Guarantees | Customer Service | Savings &. Updates | Gift Ideas Womens Shoes | Mens Shoes | Kids Shoes | Sale Shoes | Boots | Sandals | New Styles | Categories | Site Guide Gift Certificates | About Shoebuy | Press | Affiliates | Security | Privacy | Terms | Company/Group Sales | Employment Partner Sites: Expedia | Gifts | Hotels | Hotwire | Online Shopping | Pronto | Ticketmaster
-
-© 1999-2012 Shoebuy.com, Inc. a subsidiary of IAC (Nasdaq: IACI). All Rights Reserved.
-
-Privacy | Terms
-
-The World's Largest Site For Shoes
