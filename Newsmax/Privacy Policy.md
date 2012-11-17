@@ -1,25 +1,3 @@
-View Newsmax Mobile
-
-*   Home
-
-*   Newsfront
-
-*   America
-
-*   Politics
-
-*   Insiders
-
-*   The Wire
-
-*   Sci &. Tech
-
-*   Slideshows
-
-*   Jokes
-
-*   Cartoons
-
 Privacy Statement **August 1, 2009** This Privacy Policy (the "Privacy Policy") and other policies which may be posted on this website (the "Site"), such as Terms and Conditions of Use ("Terms and Conditions") and, if you purchase, enroll in or subscribe to any of the services, products or materials provided by Newsmax Media, Inc., Newsmax.com or any of our affiliates on this Site ("Newsmax"), those purchase, enrollment or subscription terms (the "Other Agreements"), together govern your use of this Site. ALL OF THE AFORE-MENTIONED GOVERN YOUR USE OF THE SITE EVEN IN THE EVENT YOU ARE ACTING AS AN EMPLOYEE, AGENT, REPRESENTATIVE OR CONTRACTOR ON BEHALF OF ANY OTHER ENTITY OR PERSON. BY USING THE SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF OUR PROCESSING YOUR PERSONAL DATA IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE THE SITE. YOUR CONTINUED USE OF THE SITE INDICATES TO US THAT YOU HAVE READ AND AGREE WITH OUR PRIVACY POLICY AND THAT YOU ACCEPT ANY CHANGES THERETO, WHETHER OR NOT YOU HAVE ACTUALLY REVIEWED EITHER THE POLICY OR ANY CHANGES THERETO. If you have any questions or concerns regarding this Privacy Policy, please contact: 800-485-4350.
 
 This Privacy Policy explains how we collect your Personal Data (as defined below) on the Site, how we protect such data, and the choices you have concerning our use of such data. Please read this Privacy Policy carefully. This Privacy Policy represents our current (as of the date first written above) data collection and usage practices. Newsmax will from time to time review and revise these practices. We will post any changes to this Privacy Policy here. Please refer back to this Privacy Policy on a regular basis. For the purposes of this Privacy Policy, "Newsmax", "we", "us", and "our" means Newsmax and its affiliates.
@@ -74,28 +52,3 @@ Questions or concerns regarding Newsmax's data protection practices should be ad
 If you choose to contact Newsmax via e-mail about this policy, please mark the subject heading of your e-mail "Privacy Inquiry."
 
 We shall keep a copy of this Privacy Policy and if, at any time, you would like to see a copy of it, you should write to the address above.
-
-*   Home
-
-*   Newsfront
-
-*   America
-
-*   Politics
-
-*   Insiders
-
-*   The Wire
-
-*   Sci &. Tech
-
-*   Slideshows
-
-*   Jokes
-
-*   Cartoons
-
-  NEWSMAX.COM  
-America's News Page  
-©  Newsmax Media, Inc.  
-All Rights Reserved Contact | Advertise | Shop | RSS | Archives | Links | Privacy Policy | Terms &. Conditions
