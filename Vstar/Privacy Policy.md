@@ -382,9 +382,6 @@ Ventura County Star
 *   Cars
 *   Classified
 
-*   St. Bonaventure vs. Santa Margarita tomorrow night |  Matchup videos
-    
-
 Privacy Policy &. User Agreement
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
@@ -634,25 +631,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Found in Oxnard, skull and jawbone may have been part of 'Santa Muerte' shrine Updated 11/16/2012 at 12:47 a.m.
-*   California budget deficit shrinks to $1.9B with taxes Published 11/14/2012 at 3:42 p.m. 81 comments
-*   Editorial: Obama comes out fighting at a rare session Published 11/14/2012 at 3:23 p.m. 50 comments
-*   Company that owns Brooks Institute closing some campuses Updated 11/14/2012 at 7:12 p.m. 48 comments
-*   Top California pollster says 2012 election could be a turning point Updated 11/15/2012 at 5:38 p.m. 31 comments
+*   Ventura County jobless rate drops to 8.6% Published 11/16/2012 at 9:56 a.m. 46 comments
+*   Top California pollster says 2012 election could be a turning point Updated 11/15/2012 at 5:38 p.m. 66 comments
+*   No more Twinkies, no more Ding Dongs: Hostess is closing for good Published 11/16/2012 at 5:08 a.m.
+*   Skull, jawbone in Oxnard trash bin may be just old religious shrine Updated 11/16/2012 at 12:47 a.m.
+*   Last 'Twilight' breaks early for some die-hard fans at Thousand Oaks premiere Updated 11/16/2012 at 9:20 a.m. 10 comments
 
-Photo Galleries Ventura County's Most Wanted November… Found in Oxnard, skull, jawbone may… Airealistic Circus and Flying School
+Photo Galleries Ventura County's Most Wanted November… Found in Oxnard, skull, jawbone may… Oxnard high schools want to limit…
 
-*   California budget deficit shrinks to $1.9B with taxes Published 11/14/2012 at 3:42 p.m. 81 comments
-*   In Conejo visit, former Mexican president calls for immigration overhaul Published 11/14/2012 at 1:18 p.m. 50 comments
-*   Kart racing driving Ventura beach residents batty Published 11/12/2012 at 5:14 p.m. 72 comments
+*   California budget deficit shrinks to $1.9B with taxes Published 11/14/2012 at 3:42 p.m. 88 comments
+*   Top California pollster says 2012 election could be a turning point Published 11/15/2012 at 4:11 p.m. 66 comments
+*   Editorial: Obama comes out fighting at a rare session Published 11/14/2012 at 3:23 p.m. 66 comments
+*   In Conejo visit, former Mexican president calls for immigration overhaul Published 11/14/2012 at 1:18 p.m. 49 comments
 *   Company that owns Brooks Institute closing some campuses Published 11/14/2012 at 4:30 p.m. 48 comments
-*   Editorial: Obama comes out fighting at a rare session Published 11/14/2012 at 3:23 p.m. 50 comments
 
 *   Authorities warn of "knock knock" burglaries in east Ventura County Published 11/8/2012 at 12:11 p.m. 0 comments
 *   Spearmint Rhino exotic dancers settle suit for nearly $13 million Published 11/13/2012 at 5:59 p.m. 0 comments
 *   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
+*   Skull, jawbone in Oxnard trash bin may be just old religious shrine Published 11/15/2012 at 11:40 a.m. 0 comments
 *   18-year-old accused of setting family's basset hound on fire near Camarillo Published 11/9/2012 at 10:13 a.m. 0 comments
-*   Veterans in Ojai find hope, help through horse therapy Published 11/10/2012 at 9:14 p.m. 5 comments
 
 Weather
 
@@ -660,25 +657,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 57° Mostly Cloudy Wind: NE 10mph Today 64° 53° Fri 04:00 PM Mostly Cloudy Showers Temp: 63° Sat 04:00 AM Mostly Cloudy Showers Temp: 57° Sat 04:00 PM Mostly Cloudy Showers Temp: 61°
+Currently 62° Overcast Wind: E 4mph Today 62° 55° Sat 01:00 PM Mostly Cloudy Showers Temp: 62° Sun 01:00 AM Mostly Cloudy Showers Temp: 54° Sun 01:00 PM Partly Sunny Showers Temp: 62°
 
-Feels Like: 63°
+Feels Like: 62°
+
+Humidity: 78%
+
+Precip: 80%
+
+Feels Like: 54°
+
+Humidity: 100%
+
+Precip: 45%
+
+Feels Like: 62°
 
 Humidity: 70%
 
-Precip: 32%
-
-Feels Like: 57°
-
-Humidity: 81%
-
-Precip: 30%
-
-Feels Like: 61°
-
-Humidity: 90%
-
-Precip: 73%
+Precip: 24%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -702,10 +699,10 @@ More Weather » Social
 
 Follow @vcstar 95 percent accurate\*
 
+*   Polling that was right on the money
 *   In state Senate, only 2 Republicans can surf
 *   The 'Big Sort' in action
 *   Oxnard is where the race was won
-*   Strategy of Prop. 32 proponents backfired
 
 Brian Dennert here
 
@@ -724,18 +721,10 @@ More bloggers Wire
 
 Calendar
 
-*   Friday Nov 16
 *   Saturday Nov 17
 *   Sunday Nov 18
+*   Monday Nov 19
 *   More BROWSE Icon
-
-*   Consultant Support Group Economic Development Collaborative - Ventura County 8:30 a.m.
-*   International Trade Workshop Oxnard Chamber of Commerce 8:30 a.m.
-*   Young Voices at CAAM: High School Symposium California African American Museum 9 a.m.
-*   "District Attorney's Office to Host Fraud Prevention Seminar at The Bonaventure" The Bonaventure 11 a.m.
-*   Simi Valley Republican Women Federated November General Meeting: Friday, November 16, 2012. The Junkyard Resturant - 2585 Cochran St., Simi Valley, Ca. 11:30 a.m.
-
-More Events »
 
 *   American Diabetes Association Tour De Cure Santa Barbara City College 7 a.m.
 *   CI to host 2012 Southern California Conferences for Undergraduate Research CSUCI California State University 8 a.m.
@@ -753,21 +742,29 @@ More Events »
 
 More Events »
 
+*   Los Robles Hospital &. Medical Center Volunteer Holiday Boutique Los Robles Hospital &. Medical Center 8 a.m.
+*   Free Movie Matinee Grant R. Brimhall Library 1 p.m.
+*   Free Movie Matinee at the Library Grant R. Brimhall Library 1 p.m.
+*   Politics and Economics Round Table Pizza - Camarillo 7 p.m.
+*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
+
+More Events »
+
 Loading...
 
 More Events » Features
 
-*   E-Edition For iPad
+*   VC Star iPad app
     
-    Subscribe and have today's paper delivered right to your iPad.
+    Top stories, local news, sports, business, lifestyle and more, all on your iPad.
     
-    95 percent accurate
+    On Campus
     
-    Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
+    Video profiles of high school football programs.
     
-    #Your Community: How You See It
+    VC Star for Android
     
-    Your Instagram photos from your community.
+    Keep up with the latest news, sports and more. Available in the Google Play Store.
     
 *   Storm Shield
     
@@ -781,13 +778,13 @@ More Events » Features
     
     Keep up with the latest news, sports and more. Available in the Apple App Store.
     
-*   On Campus
+*   #Your Community: How You See It
     
-    Video profiles of high school football programs.
+    Your Instagram photos from your community.
     
-    National News
+    95 percent accurate
     
-    Stay up to date with what's happening across the nation.
+    Follow Timm Herdt's election coverage from The Star's Sacramento bureau.
     
     Football Contest
     
