@@ -1,21 +1,3 @@
-gift cards catalog order tracking store locator log in welcome! sign in here emailpassword log in _or_ use your social network
-
-**save time** by using an existing social account to sign in to journeys.com.
-
-we will never share your information or post anything without permission.
-
-don't have an account? join now! 0 my cart
-
-*   brands
-*   women
-*   men
-*   kidz
-*   big shoes
-*   exclusives
-*   sale
-
-color family There are no colors to choose from sizes 3 3.5 4 4.5 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12 13XS SM M L XL XXL XXXL No SizeThere are no sizes to choose from shoes Gift GuideNewExclusivesOnline OnlyAthleticBootsCanvasCasualEco-FriendlyFlatsHeelsSandalsSkateSpecial OccasionUniformWedgessaleThere are no categories to choose from apparel NewAccessoriesBackpacksBeltsGift CardsHandbagsHatsJackets and HoodiesLacesMusic and PhoneShirtsSkate DecksSocksWatchessaleThere are no categories to choose from featured brands There are no brands to choose from color family There are no colors to choose from sizes 3 3.5 4 4.5 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 11.5 12 13XS SM M L XL XXL XXXL No SizeThere are no sizes to choose from shoes Gift GuideNewExclusivesOnline OnlyAthleticBootsCasualDressEco-FriendlySandalsSkateUniformsaleThere are no categories to choose from apparel NewAccessoriesBackpacksBeltsGift CardsHatsJackets and HoodiesLacesMusic and PhoneShirtsShorts and PantsSkate DecksSocksWalletsWatchessaleThere are no categories to choose from featured brands There are no brands to choose from ordering shipping frequently asked questions legal/privacy legal
-
 **Terms of Use**  
 Welcome to the Journeys Web Site ("Site"). The Site reflects the family of brands including Journeys, Journeys Kidz and Shi by Journeys (collectively “Journeys”).Please review the following basic rules that govern your use of our Site (the "Agreement"). Please note that your use of our Site means that you agree to these rules.  
   
@@ -139,12 +121,3 @@ This Agreement is effective unless and until terminated by either you or the Com
 Individuals may use the Site’s RSS feeds free of charge for their personal, non-commercial use only. Journeys reserves the right to disable, to change, or to cease distribution of these RSS feeds at any time, and reserves the right to require individuals to cease any and all use of these feeds at any time for any reason. To request permission to make commercial use of the Site’s RSS feeds, please submit your request by filling out our online form found at Comments About Our Site. Journeys will consider such submitted requests, but is not obligated to grant any specific permission request.  
   
 REMEMBER -- IF YOU REGISTER WITH THE SITE, SIGN UP FOR FREE E-MAIL, PURCHASE SOMETHING FROM JOURNEYS, OR ENTER ANY OF OUR CONTESTS, YOU AGREE TO THESE TERMS. AS WE UPDATE AND EXPAND OUR SERVICES, THIS POLICY MIGHT CHANGE, SO CHECK IT OUT FROM TIME TO TIME.
-
-be the first to learn about  
-exclusive offers, new styles + more Enter your email address women's  
-shoes uniform eco-friendly exclusives special occasion online only gift guide athletic skate boots casual sandals new canvas heels flats wedges women's apparel  
-&. accessories belts hats laces socks shirts watches gift cards backpacks handbags new skate decks accessories music and phone jackets and hoodies men's  
-shoes exclusives eco-friendly uniform gift guide online only athletic skate boots casual dress sandals new men's apparel  
-&. accessories music and phone hats laces socks shirts wallets watches gift cards belts backpacks new skate decks accessories jackets and hoodies shorts and pants kids  
-shoes athletic boots casual exclusives new online only sandals skate kids apparel  
-&. accessories skate accessories backpacks and bags gift cards hats new shirts store locator | online catalog | privacy policy | shipping + returns | site map | jobs | contact us | help | support 1-888-324-6356 | espanol 1-866-322-9099
