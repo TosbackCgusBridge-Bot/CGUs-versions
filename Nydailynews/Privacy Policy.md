@@ -1,53 +1,3 @@
-*   Saturday, November 17, 2012
-*   NYDailyNews.com / Privacy Policy
-
-*   Jobs
-*   Autos
-*   Classifieds
-*   Contests
-*   Daily Reader Offers
-*   Home Delivery
-*   Search Field
-    *   site
-    *   web
-    *   blogs
-    *   Powered by Yahoo
-
-Daily News
-
-*   **America**
-*   **New York**
-*   News
-*   Politics
-*   Sports
-*   Showbiz
-*   Opinion
-*   Living
-*   Photos
-*   Video
-*   Services
-    
-    More of Services :
-    
-    Reader Offers
-    
-    NIE
-    
-    Feeds
-    
-    Mobile
-    
-    Home Delivery Center
-    
-    Death Notices
-    
-    Sitemap
-    
-    Media Kit
-    
-    Place An Ad
-    
-
 PRIVACY POLICY
 
 This Privacy Policy discloses the privacy practices for NYDailyNews.com and any other affiliated sites, digital services, or applications on which a link to this Privacy Policy appears (collectively, the "Daily News Services"). This Privacy Policy governs the use and collection of information collected from you on the Daily News Services. This Privacy Policy does not apply to information you may provide to us offline or through any means other than the Daily News Services, other than as specifically identified below. For example, this Privacy Policy does not apply to information you may have provided when obtaining a home delivery subscription offline or when entering a sweepstakes by mail, fax or email. As used herein, "we," "us" and "our" refers to Daily News, L.P.
@@ -113,19 +63,3 @@ Questions.
 If you have any more questions, please email us at webmaster@nydailynews.com or write to: Webmaster New York Daily News Online Daily News, L.P. 4 New York Plaza New York, NY 10004
 
 **Last Updated on May 2, 2012**
-
-Ads by Yahoo!
-
-*   Media Kit
-*   Home Delivery
-*   Newsletters
-*   Businesses
-*   Place an Ad
-*   About our Ads
-*   Contact Us
-*   FAQ's
-*   Site Map
-
-Use of this website signifies your agreement to the Terms of Service and Privacy Policy.
-
-© Copyright 2012 NYDailyNews.com. All rights reserved.
