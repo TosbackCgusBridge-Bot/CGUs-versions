@@ -237,11 +237,11 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
+*   Soybean Prices Go Down, Down, Down
 *   Intensive Management Key to Growing High Corn Yields
 *   Ag Commodities Trade Lower as Uncertainty Looms
 *   House Approves Bill on U.S.-Russia Trade Relations
 *   Power Hour: Tax Questions over Crop Insurance Payments
-*   Cattle on Feed Down 5 Percent
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
