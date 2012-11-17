@@ -12,15 +12,15 @@ Sign In
 
 Egypt
 
-Brief truce quickly collapses as Egypt's PM visits Gaza
+47 Egyptian school children killed in train collision
 
-Hurricane
+China
 
-Migration officials say cholera in Haiti on rise since Hurrica...
+Territorial disputes involving China, human rights, trade pact...
 
 Politix
 
-Should Republicans compromise with Obama and raise taxes on th...
+Do your religious beliefs influence your political views?
 
 *   Home
 *   Forums
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 108,644 • Total comments across all topics: 191,261,340
+Comments made yesterday: 103,718 • Total comments across all topics: 191,347,547
 
 Copyright ©2012 Topix LLC
 
