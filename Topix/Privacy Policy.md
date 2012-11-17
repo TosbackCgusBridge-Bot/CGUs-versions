@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
-Egypt
+Iran
 
-47 Egyptian school children killed in train collision
+Car bomb kills 7 in Iraq, including 3 Iranian pilgrims visitin...
 
-China
+Davis Cup
 
-Territorial disputes involving China, human rights, trade pact...
+Berdych, Stepanek to Take on Top Spanish Duo in Davis Cup
 
 Politix
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 103,718 • Total comments across all topics: 191,347,547
+Comments made yesterday: 102,695 • Total comments across all topics: 191,364,869
 
 Copyright ©2012 Topix LLC
 
