@@ -32,7 +32,7 @@ Rolling Stone Skip to the content.
 *   •
 *   Green Day Timeline
 *   •
-*   Band to Watch
+*   On the Road
 *   •
 *   RS Soundtrack
 *   •
