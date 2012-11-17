@@ -1,6 +1,4 @@
-Wildlife Global Warming Get Outside News &. Magazines How to Help Home About Us Our MissionStaff &. Board of DirectorsSpeaker's BureauAnnual ReportHistory and HeritageWhere We WorkAnnual MeetingConservation AwardsCorporate RelationshipsLogosNWF at the MoviesNWF TV ProductionsSupport NWFNWF ExpeditionsCareers at NWFFrequently Asked QuestionsContact Us Donate Shop Renew Subscribe Take Action
-
-Privacy Policy
+Wildlife Global Warming Get Outside News &. Magazines How to Help Home About Us Our MissionStaff &. Board of DirectorsSpeaker's BureauAnnual ReportHistory and HeritageWhere We WorkAnnual MeetingConservation AwardsCorporate RelationshipsLogosNWF at the MoviesNWF TV ProductionsSupport NWFNWF ExpeditionsCareers at NWFFrequently Asked QuestionsContact Us Donate Shop Renew Subscribe Take Action Privacy Policy
 
 **Website and Mobile Privacy Policy of the National Wildlife Federation**
 
