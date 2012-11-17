@@ -606,7 +606,6 @@
 *   handmade
 
 *   recycled
-*   best selling
 *   all baby gifts (0-3 years)
 
 *   baby accessories
