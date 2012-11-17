@@ -1,28 +1,3 @@
-Your Cart
-
-Close \[x\] Plan Price Remove Total:  $0.00 checkout
-
-STEP 2: Who is the plan for?
-
-You don't need to enter a name, but it will help  
-with your setup
-
-STEP 3: Add a plan to your cart
-
-Buy now Welcome! Members Login »
-
-*   Call  877-258-3166
-    
-
-*   Need help?
-    
-
-*   Home
-*   Personal Products
-*   Business Products
-*   Testimonials
-*   About us
-
 THINGS YOU NEED TO KNOW:
 
 *   We don't sell your personal information to marketers or spammers.
@@ -163,49 +138,3 @@ Redwood City, CA 94063
 Reputation.com, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the website Reputation.com and other sub-domains.
 
 If you have questions or concerns regarding this statement, you should first alert Reputation.com at info@reputation.com. If you are not satisfied with our response you can contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint.
-
-Contact us Call us   877-258-3166
-
-Weekdays 24-hr support • Weekends 7am - 5pm PT
-
-We'll call you back
-
-Just leave your name and number  
-and we’ll return your call within 24 hours.
-
-Send » Live chat
-
-Mon-Thurs: 7am - Midnight PST  
-Fri-Sun: 8am - 5pm PST
-
-Email us
-
-Let us know how can we can  
-help you out.
-
-Send »
-
-*   *   Products
-        
-    *   Personal Products
-    *   Business Products
-    *   Picasso
-    *   FAQs
-*   *   Company
-        
-    *   About us
-    *   Management
-    *   Board of directors
-    *   Press room
-    *   Careers
-    *   Testimonials
-*   *   Resource center
-        
-    *   Resource center
-    *   Blog
-*   *   Contact us
-        
-    *   Contact us
-    *   Affiliates
-
-Copyright © 2012 Reputation.com, Inc. | The online reputation management leader | Privacy policy | Terms of use | Page ID: SG X » «
