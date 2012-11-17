@@ -212,84 +212,84 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Murray: Can't guarantee 2014 budgetOlympian McKayla Maroney jokes she looked 'not impressed' with Obama The Hill’s 2012 New Members GuideMan asks McCain: Are you mad that you look like McCain?McCain mocks reporter for 'one of the dumbest questions I've ever heard'
+Ron Paul says farewell, Elizabeth Warren says hello, Mitt Romney says drop deadSen. Paul filibusters defense bill Gallup: Obama favorability jumps to 3-year highPetraeus tells lawmakers CIA always saw Benghazi as terrorismWest court battle could drag into 2013
 
 Emailed
 
-Murray: Can't guarantee 2014 budgetSenate Republicans’ election lesson is to work on fielding better candidatesSenate votes down Lieberman, Collins Cybersecurity Act a second timeRepublicans say they will not back downMitt Romney attributes loss to Obama 'gifts' to his base voters
+Ron Paul says farewell, Elizabeth Warren says hello, Mitt Romney says drop deadHouse Dem leaders avoid specifying tax rates for top earnersSenate Republicans’ election lesson is to work on fielding better candidatesLeaders call 'fiscal cliff' meeting 'constructive'Calif. Rep. Lungren loses reelection bid
 
 Discussed
 
-Gallup: 2012 election had the largest gender gap in recorded historyPetition for Texas secession hits White House response markMurray: Can't guarantee 2014 budgetChicago reporter congratulates Obama on reelection in presserObama to open ‘fiscal cliff’ talks with call for $1.6T in new revenues
+Dear Matt Drudge: Stop the race storiesMurray: Can't guarantee 2014 budgetChicago reporter congratulates Obama on reelection in presserObama to open ‘fiscal cliff’ talks with call for $1.6T in new revenues Norquist tax pledge takes election hit
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
-*   MORNING READ
-*   Senate Republicans circulate outline of immigration proposal
-*   Poll: 2012 campaign had more mudslinging, less substance
+*   DAY'S END ROUNDUP
+*   Priebus to stay on as RNC chairman
+*   Gallup: Obama favorability jumps to 3-year high
 
   
 More Briefing Room » Congress Blog
 
-*   Time to stop fighting and start fixing
-*   More regulations expected in a second Obama term
-*   Confronting the problem of bullying head on
+*   Finish the job for rural America and pass the farm bill
+*   Getting past the hype behind wind energy
+*   Obama needs Kerry, not Rice, at State
 
   
 More Congress Blog » Pundits Blog
 
-*   The disappearing rural vote
-*   Susan Rice: Qualified to be secretary of State
-*   Infidelity can threaten national security
+*   Petraeus’s flawed Afghanistan legacy
+*   Ron Paul says farewell, Elizabeth Warren says hello, Mitt Romney says drop dead
+*   Is healthcare a right, a privilege or neither?
 
   
 More Pundits Blog » Twitter Room
 
-*   Dem senator wants Leslie Knope to ask Biden about parks bill
-*   Olympian McKayla Maroney jokes she looked 'not impressed' with Obama
-*   Study: Only 9 countries own their names on Twitter
+*   Elizabeth Warren tweets while 'learning the ropes' in DC
+*   Sen. Portman's weekend plans: Duck hunting
+*   Obama gifts Boehner Tuscan red wine for birthday
 
   
 More Twitter Room » Hillicon Valley
 
-*   OVERNIGHT TECH: FCC considers cutting prison phone rates
-*   Genachowski: Cybersecurity mandates should be excluded from telecom treaty
-*   Senate Republicans fire warning shot at regulators as Google decision looms
+*   Democrats troubled by Verizon's free speech argument in net-neutrality case
+*   Justice Department sues eBay over agreement not to hire Intuit employees
+*   Songwriters oppose Pandora-backed Internet royalty bill
 
   
 More Hillicon Valley » E2\-Wire (Energy)
 
-*   News bites: To export or not to export
-*   OVERNIGHT ENERGY: The aftermath of BP's criminal plea
-*   BP, US reach $4.5B settlement for Gulf spill
+*   Battery company got $1M from Energy Department the day it filed Chapter 11
+*   Senators request facetime with Obama on Keystone pipeline
+*   Boehner taps Energy Committee vet for adviser role
 
   
 More E2\-Wire (Energy) » Ballot Box
 
-*   Rep. Lungren loses reelection bid
-*   OVERNIGHT CAMPAIGN: Return of presidential politics
-*   Israel appoints new DCCC executive director
+*   Additional litigation possible in West-Murphy congressional race
+*   Desjarlais scandal hurts his 2014 bid
+*   Rep. DesJarlais has no plans to resign
 
   
 More Ballot Box » On The Money
 
-*   Top senator eager to clear Russia trade bill
-*   Group: Rolling back tax breaks can raise as much revenue as rate hikes
-*   Levin: Payroll tax extension could depend on Dec. jobs report
+*   Regulator approves penny increase in stamp price
+*   Tim Geithner: 'Fiscal cliff' deal is 'doable within several weeks'
+*   Lawmakers, housing industry experts urge caution in shoring up FHA's finances
 
   
 More On The Money » Healthwatch
 
-*   OVERNIGHT HEALTH: HHS extends exchange deadline
-*   HHS extends Friday healthcare deadline for states
-*   Hospitals: Protect our payments in deficit deal
+*   Stearns threatens to pursue FDA documents for meningitis probe
+*   Senate passes bill to help prevent premature births
+*   Health law author calls on Christie to set up exchange
 
   
 More Healthwatch » Floor Action
 
-*   House takes Intel Chairman Rogers off bill requiring probe of embassy attacks
-*   Sen. Paul filibusters defense bill
-*   Senate passes resolution condoning Israel's strikes on Hamas
+*   As Hostess announces closures, Dem calls for end to junk food tax help
+*   Toomey vows to fight ethanol mandate in next Congress
+*   Rep. Rivera's chief of staff Stephen Vermillion dies at 52
 
   
 More Floor Action » Transportation
@@ -301,16 +301,16 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
+*   Petraeus sneaks past press in visit to Capitol
+*   Petraeus tells lawmakers CIA always saw Benghazi as terrorism
 *   OVERNIGHT DEFENSE: Petraeus comes to Capitol Hill
-*   Lawmakers see Benghazi attack video
-*   AG Holder defends FBI on investigation of Petraeus affair
 
   
 More DEFCON Hill » Global Affairs
 
-*   Lawmakers to press Petraeus on Benghazi investigation
-*   Dems: Susan Rice an ‘American treasure’
-*   White House defends president's trip to repressive countries
+*   Rep. Sherman abandons bid for foreign affairs leadership post amid backlash
+*   McCain to Obama: Take action against Iraq for terror suspect release
+*   Engel gets near-unanimous support for leadership bid on Foreign Affairs panel
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Rice a risky pick Brent Budowsky Petraeus: Lessons learned More Columnists »
