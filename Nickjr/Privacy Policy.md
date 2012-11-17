@@ -169,9 +169,9 @@ New Dora's Milestones
 
 Shop for DVDs, toys, books and more. Now at Amazon (AD)
 
-NEW! Umi Carnival App (AD)
+NEW! Umi Carnival App
 
-Help Team Umizoomi find Bunny at the carnival in this fun storybook adventure!
+Help Team Umizoomi find Bunny in this fun storybook adventure! (AD)
 
 Make Learning Fun!
 
