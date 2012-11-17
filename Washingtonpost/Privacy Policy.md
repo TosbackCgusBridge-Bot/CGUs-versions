@@ -49,8 +49,8 @@
     *   **Spare the Twinkie, Hostess**  
         ComPost | Alexandra Petri
     
-    *   **Happy Hour Roundup**  
-        The Plum Line | Jonathan Bernstein
+    *   **Open Thread**  
+        The Plum Line | Greg Sargent
     
     *   **Not the talking filibuster again!**  
         PostPartisan | Jonathan Bernstein
@@ -72,8 +72,8 @@
     
     Blogs &. Columns
     
-    *   **PM Update: A sunny, chilly weekend...**  
-        Capital Weather Gang | Jason Samenow
+    *   **D.C. area forecast: Tranquil through...**  
+        Capital Weather Gang | Ian Livingston
     
     *   **This thing you should try: Majestic...**  
         Going Out Gurus | Alex Baldinger
@@ -106,8 +106,8 @@
     *   **Jammal Brown misses another practice...**  
         The Insider | Mike Jones
     
-    *   **Nationals have talked with B.J...**  
-        Nationals Journal | Adam Kilgore
+    *   **Nationals prospects playing in...**  
+        Nationals Journal | James Wagner
 *   National In National
     
     *   Energy &. Environment
@@ -180,8 +180,8 @@
     *   **How business can bounce back from...**  
         Steven Pearlstein
     
-    *   **Reconciliation**  
-        Wonkblog | Sarah Kliff
+    *   **Will Senate Democrats' filibuster...**  
+        Wonkblog | Dylan Matthews
 *   Tech In Technology
     
     *   Policy
@@ -269,9 +269,10 @@ In the News
 
 *   Gaza
 *   Twinkies
-*   Reince Priebus
-*   Meteor shower
+*   Egypt bus crash
+*   ‘Fiscal cliff’
 *   Romney spurned
+*   ‘Breaking Dawn’
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -326,94 +327,90 @@ Manassas News &. Messenger and InsideNoVA.com, top Prince William news sources, 
 
 Tom Jackman 
 
-Why didn’t Hostess workers believe the threats?
-
-Jena McGregor 
-
-Twinkie fix in a post-Twinkies world
-
-Bonnie S. Benwick 
-
 Romney sinks quickly in Republicans’ esteem
 
 Dan Eggen 
-
-Leonid meteor shower tonight, tomorrow morning: shut off the lights and look up
-
-Blaine Friedlander 
-
-Jill Kelley, twin sister visited White House three times in autumn of 2012
-
-Amy Gardner 
-
-As Hamas rockets fly, Israel moves toward ground invasion of Gaza Strip
-
-Karin Brulliard 
-
-BREAKING: The president knew the truth about Benghazi
-
-Jennifer Rubin 
-
-A eulogy for the humble Hostess Twinkie
-
-Adam Bernstein 
-
-Susan Rice’s tarnished resume
-
-Dana Milbank 
-
-Ron Paul's farewell speech (VIDEO) Both sides appear upbeat on opening round of ‘fiscal cliff’ talks
-
-Lori Montgomery 
-
-The story behind the photo: journalist's 11-month-old son killed in Gaza strikes Petraeus’s answers raise more questions
-
-Jennifer Rubin 
-
-Petraeus tells Congress that Benghazi attack was terrorism
-
-Karen DeYoung 
-
-Scapegoating Susan Rice does U.S. no good
-
-Robert Kagan 
-
-The Petraeus affair’s resulting witch hunt
-
-David Ignatius 
-
-Obama to praise Burma’s ‘progress’ during historic visit
-
-David Nakamura 
-
-Mitt Romney’s analysis of the election results
-
-Glenn Kessler 
 
 Israel pounds Gaza from air as troops assemble
 
 Karin Brulliard 
 
+Why didn’t Hostess workers believe the threats?
+
+Jena McGregor 
+
+Susan Rice’s tarnished resume
+
+Dana Milbank 
+
+Scapegoating Susan Rice does U.S. no good
+
+Robert Kagan 
+
+Both sides appear upbeat on opening round of ‘fiscal cliff’ talks
+
+Lori Montgomery 
+
+The Petraeus affair’s resulting witch hunt
+
+David Ignatius 
+
+A eulogy for the humble Hostess Twinkie
+
+Adam Bernstein 
+
+Petraeus tells Congress that Benghazi attack was terrorism
+
+Karen DeYoung 
+
+The story behind the photo: journalist's 11-month-old son killed in Gaza strikes BREAKING: The president knew the truth about Benghazi
+
+Jennifer Rubin 
+
+County board grants Rep. Allen West's recount request Twinkie fix in a post-Twinkies world
+
+Bonnie S. Benwick 
+
+Jill Kelley, twin sister visited White House three times in autumn of 2012
+
+Amy Gardner 
+
+Ron Paul's farewell speech (VIDEO) Answerable to no one
+
+George F. Will 
+
+Petraeus’s answers raise more questions
+
+Jennifer Rubin 
+
+Leonid meteor shower tonight, tomorrow morning: shut off the lights and look up
+
+Blaine Friedlander 
+
+Penn State still feels impact one year after Jerry Sandusky scandal broke
+
+Barry Svrluga 
+
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
     1.  Manassas News-Messenger and InsideNoVA.com closing down
-    2.  Why didn't Hostess workers believe the threats?
-    3.  Twinkie fix in a post-Twinkies world
-    4.  Romney sinks quickly in Republicans' esteem
-    5.  Leonid meteor shower tonight
+    2.  Romney sinks quickly in Republicans' esteem
+    3.  Israel pounds Gaza from air as troops assemble
+    4.  Why didn't Hostess workers believe the threats?
+    5.  Susan Rice's tarnished resume
 *   Top Videos
     1.  Romney losing support of the GOP
-    2.  Sen. John McCain: 'One of the dumbest questions I've ever heard'
-    3.  Why Paula Broadwell left Harvard
-    4.  Guy Fieri's restaurant skewered in New York Times review
-    5.  The rise, fall and nostalgia of the Twinkie
+    2.  Israeli missile strikes pound Gaza
+    3.  Sen. John McCain: 'One of the dumbest questions I've ever heard'
+    4.  Why Paula Broadwell left Harvard
+    5.  Ron Paul's farewell speech to Congress in 2 minutes
 *   Top Galleries
     1.  Republicans run from Romney
     2.  The four-star movies of 2012
     3.  Gaza Strip conflict escalates
     4.  The David Petraeus scandal: Cast of characters
-    5.  So long, Twinkies!
+    5.  Best books of 2012
 
 Today's Paper
 
