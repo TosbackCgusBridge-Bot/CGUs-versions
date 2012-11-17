@@ -143,5 +143,3 @@ If you still have questions or concerns about our privacy policy, please write u
 Hallmark Cards Consumer Care  
 P.O. Box 419034  
 Kansas City, MO 64141
-
-Back to top
