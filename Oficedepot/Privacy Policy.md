@@ -19,7 +19,7 @@ Skip to content
 *   Customer Service
 *   1.800­.GO.DEPOT (1.800.­463.3768) Close X
     
-    **Session:** 0000Vn\_Gh3-E0rXyyn\_uZBywwTR  
+    **Session:** 00005\_Q18o\_o8Tq5wV\_zRHclLgq  
     **Clone:** 1659q38ci
     
 
@@ -421,8 +421,6 @@ Subtotal
     *   Warranties &. Services
     
     Current Offers
-    
-    New ifrogz Headphones
     
     New Skull Candy Headphones
     
