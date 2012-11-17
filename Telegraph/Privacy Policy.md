@@ -142,11 +142,11 @@ For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Petraeus: the downfall of a man and myth  
+Candid shots: Kate Moss opens up  
 
-Gen Petraeus's tawdry sex scandal has wiped the shine off America's top brass. **Peter Foster** in Washington and **Jon Swaine** in Tampa report
+In her new photo-biography, the supermodel talks candidly about posing topless, her prostitute shoes and her Lucian Freud tattoo.
 
-What links sex education and Guides? Clive James's verdict on the BBC in crisis Is this war number eight for Israel? Mark Webber takes on Tasmania Advertisement
+Review: Aerosmith rock Austin, Texas Petraeus: the downfall of a man and myth What links sex education and Guides? Clive James's verdict on the BBC in crisis Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
