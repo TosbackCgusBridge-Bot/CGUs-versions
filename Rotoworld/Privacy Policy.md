@@ -56,18 +56,18 @@ PREMIUM CONTENT
 
 FANTASY BASEBALL HEADLINES
 
+*   Zduriencik: M's unlikely to pursue Hamilton
+*   Giants focused on re-signing Angel Pagan
+*   Kuroda would prefer to pitch in So. Calif.
+*   Berkman interested in being Astros' DH
+*   Torii Hunter officially signs on with Tigers
+*   Report: Jays give Melky two years, $16M
+*   Padres get Ross from A's for Werner, Parrino
+*   B.J. Upton has visited with Phillies, Braves
+*   Derek Jeter might not be ready by Opening Day
 *   Red Sox' interest in Hamilton 'overblown'
 *   Red Sox to talk extension with Dustin Pedroia
-*   Braves host B.J. Upton on free agent visit
 *   Cabrera beats out Trout for AL MVP award
-*   Buster Posey named National League MVP
-*   Marlins prez says Nolasco won't be traded
-*   Manny Ramirez homers in first DWL at-bat
-*   Selig says 12-player trade is 'under review'
-*   Matt Garza (elbow) cleared for normal winter
-*   Bruce 'wants to be a Red his entire career'
-*   Braves reach two-year deal with Gerald Laird
-*   Mariners 'covet' Royals slugger Billy Butler
 
 NFL PAGES
 
@@ -84,14 +84,14 @@ NFL PAGES
 
 COLUMNS
 
+*   Week 11 Rankings Nov 16
+*   Matchups: Feelin' Lucky Nov 16
 *   What Now, C.J.? Nov 16
 *   Week 11 Live Chat Nov 15
-*   Week 11 Rankings Nov 15
 *   The Ballad Of Mark And Tim Nov 15
 *   Matchup: Dolphins @ Bills Nov 15
 *   Best Available NFL Free Agents Nov 15
 *   Getting Defensive: Week 11 Nov 14
-*   Scheduling for Success Nov 14
 
 PREMIUM CONTENT
 
@@ -106,18 +106,18 @@ PREMIUM CONTENT
 
 FANTASY FOOTBALL HEADLINES
 
-*   Spiller totals 130 yards on 25 touches in win
-*   Report: Welker participated in walk-through
-*   Bowe: I want to finish my career with Chiefs
-*   Alex Smith remains on track to play Monday
-*   Dr. Andrews: Peterson's knee akin to newborn
-*   Norv uncertain about Mathews' Week 11 status
-*   Donald Brown misses Thursday's practice
-*   Skins willing to use Garcon at less than 100%
-*   Darren Sproles upgraded to a full practice
-*   Coach: Julio Jones is a 'late-week decision'
-*   Harbs has procedure for irregular heartbeat
-*   Jets owner: Sanchez is 'our franchise QB'
+*   When healthy, Danny Amendola on torrid pace
+*   Welker officially questionable for Week 11
+*   Sproles: Docs will determine my availability
+*   Ryan Mathews limited, listed 'questionable'
+*   Ced Benson says foot currently at 65 percent
+*   Julio Jones to be game-time decision vs. Zona
+*   Raiders deem Heyward-Bey game-day decision
+*   Report: Aaron Hernandez will not play Sunday
+*   Darren Sproles listed questionable for Wk 11
+*   Texans deem Daniels 'game-time decision'
+*   Steelers to start Mendenhall on Sunday night
+*   Jones-Drew targets return in a 'couple weeks'
 
 NBA PAGES
 
@@ -134,6 +134,7 @@ NBA PAGES
 
 COLUMNS
 
+*   Kemba Likes November Nov 16
 *   Dose: Knicks Stay Undefeated Nov 16
 *   NBA Live Chat at 9 PM ET Nov 15
 *   Fightin' Words Wednesday Nov 15
@@ -141,7 +142,6 @@ COLUMNS
 *   Dose: Jennings &. Bynum News Nov 13
 *   Dose: Bass, Celtics Play 5 Nov 12
 *   NBA Chat: Monday @ 12:30 ET Nov 11
-*   Wired: Top NBA Pickups Nov 11
 
 PREMIUM CONTENT
 
@@ -156,18 +156,18 @@ PREMIUM CONTENT
 
 FANTASY BASKETBALL NEWS
 
-*   Mario Chalmers (triceps) will not return
-*   Dwyane Wade (foot) out for Thursday night
-*   Rajon Rondo (ankle) will not play Thursday
-*   Nikola Pekovic (ankle) 'hopes' to play Friday
-*   LaMarcus Aldridge goes through practice
-*   Landry Fields has elbow surgery Wednesday
-*   Kyle Lowry out 1-2 weeks w/ ankle bone bruise
-*   Gerald Wallace to miss Thursday's game
-*   Price (ankle) was available to return on Wed
-*   Still no timetable on John Wall's return
-*   Harrison Barnes explodes for 19 &. 13
-*   Elton Brand finally comes through in start
+*   Lillard takes over overtime with 27 points
+*   Batum scores 35 w/ five blks in career night
+*   Asik goes for 16 and 16. Harden scores 29
+*   Parsons goes for 19 and 11 vs. Blazers
+*   Z-Bo's 20 and 15, Gasol's 24 pts down NYK
+*   Kev-Mart scores 27 points with six triples
+*   Barea (ankle) could return on Wednesday
+*   Derrick Williams scores season-high 23 points
+*   Nelson (groin) double-doubles in return
+*   Big Baby goes for 17 &. 13. Redick scores 23
+*   Steve Nash (leg) out at least another week
+*   J-Rich goes for 20 and eight with five threes
 
 NHL PAGES
 
@@ -207,18 +207,18 @@ PREMIUM CONTENT
 
 FANTASY HOCKEY NEWS
 
+*   Report: NHL charts show gap may be over $1B
+*   B.J. Crombeen signs with ECHL Orlando
+*   Crosby disagrees with Bettman's moratorium
+*   Kris Versteeg cleared to play, now locked-out
+*   NHLPA still prefers to meet with owners
+*   Gary Bettman proposes 2-week moratorium
 *   Daly is discouraged by state of CBA talks
 *   Blake Geoffrion (skull) has left the hopsital
 *   Brandon Dubinsky is out for up to six weeks
 *   NHL to cancel games through Dec. 15 in a week
 *   Paul Stastny set to play for Munich in DEL
 *   Wayne Simmonds leaves Czech team
-*   Report:Valtteri Filppula (knee) out 6-8 weeks
-*   Kevin Klein to play in Denmark during lockout
-*   Nicklas Grossmann set to return to Sodertalje
-*   Agent: Cam Fowler will play in Sweden
-*   Jared Cowen will have hip surgery Saturday
-*   Andrej Meszaros (Achilles) is on the mend
 
 NASCAR PAGES
 
@@ -245,18 +245,18 @@ PARTNERS
 
 FANTASY NASCAR NEWS
 
-*   Miguel Paludo notes at Homestead-Miami
-*   James Buescher has chance for the truck title
-*   Justin Lofton at Homestead-Miami Speedway
-*   Ryan Newman's 11-year pole streak in jeopardy
-*   Milestone start this weekend for Tony Stewart
-*   Fast facts in Miami on Ricky Stenhouse Jr.
-*   Hal Martin preps for 2013 Nationwide ROTY run
-*   Martin Truex Jr. Homestead notes of interest
-*   It's Home Sweet Home for Juan Pablo Montoya
-*   Jamie McMurray at Homestead-Miami
-*   Michael Annett Homestead-Miami advance
-*   Kyle Larson gets sponsor for truck finale
+*   Ty Dillon 2012 NCWTS Rookie of the Year
+*   Cale Gale’s team wins contingency awards
+*   Ross Chastain big gainer in Truck Series
+*   Cale Gale scores first NCWTS victory
+*   Buescher 2012 Camping World Truck Champion
+*   Nemechek not in Ford EcoBoost 400 field
+*   Jason Leffler not in Homestead Cup field
+*   Reed Sorenson misses Ford EcoBoost 400 field
+*   Stephen Leicht fails to qualify at Homestead
+*   Scott Riggs gets last Cup slot at Homestead
+*   Trevor Bayne top Homestead Cup go-or-go-homer
+*   Mike Harmon not in Homestead truck field
 
 GOLF PAGES
 
@@ -285,6 +285,9 @@ PARTNERS
 
 FANTASY GOLF NEWS
 
+*   Gutschewski tops a deep field at second stage
+*   Unbelievable ... Reed co-medals at 2nd stage
+*   R. Fisher advances to final stage of Q School
 *   Leonard will use career earnings exemption
 *   Ishikawa poised for rookie year on PGA TOUR
 *   Appleby figures to exhaust top-50 exemption
@@ -294,9 +297,6 @@ FANTASY GOLF NEWS
 *   Teater pars 72nd hole. final card to Chappell
 *   Beljan overcomes adversity to win the CMNHC
 *   McIlroy clinches Race to Dubai 3 weeks early
-*   Manassero emerges on a long day in Singapore
-*   Wi maximizes on his chances to lead the CMNHC
-*   Holmes WDs from Disney. solid season ends
 
 NFL DRAFT PAGES
 
@@ -327,18 +327,18 @@ PARTNERS
 
 NFL DRAFT NEWS
 
+*   Scouts Inc. names Escobar as top three TE
+*   Nick Saban expects T Fluker to leave for NFL
+*   Gators DT Hunter will not pursue fifth year
+*   Report: DT Spence 'almost certain' to declare
+*   McShay: DT Williams 'put on a clinic' vs UVA
+*   Ohio St CB coach: Roby not ready for NFL yet
+*   Gio Bernard limited to 104 total yards, 1 TD
+*   Jawan Jamison 75-percent likely to play
 *   Silas Redd's availability in question vs UCLA
 *   Sheldon Richardson suspended vs Syracuse
 *   'Lots of 1st round grades' on T Lane Johnson
 *   Kiper: Chiefs should take Te'o with 1st pick
-*   Swinney: Don't leave unless you're in 1st rd
-*   Sean Mannion named Beavers starter vs Cal
-*   Keenan Allen doubtful for season finale (PCL)
-*   Aggies WR Johnson no longer missing
-*   Kiper: If you want Te'o, better pick 2 or 3
-*   Noles QB Manuel will attend Senior Bowl
-*   Ansah makes 1st appearance in Kiper's top 32
-*   Manuel's recent success coming in no-huddle
 
 FEATURED BLOGS
 
@@ -487,33 +487,33 @@ Stamford, CT 06901
   
 Top Headlines
 
-*   NFL:Spiller totals 130 yards on 25 touches in win
-*   NBA:Dwyane Wade (foot) out for Thursday night
-*   NBA:Rajon Rondo (ankle) will not play Thursday
-*   NFL:Norv uncertain about Mathews' Week 11 status
-*   MLB:Cabrera beats out Trout for AL MVP award
-*   NFL:Report: Welker participated in walk-through
-*   NFL:Bowe: I want to finish my career with Chiefs
-*   MLB:Marlins prez says Nolasco won't be traded
-*   NFL:Alex Smith remains on track to play Monday
-*   NFL:Coach: Julio Jones is a 'late-week decision'
-*   NFL:Donald Brown misses Thursday's practice
-*   CFB:Silas Redd's availability in question vs UCLA
+*   NBA:Batum scores 35 w/ five blks in career night
+*   NAS:Ty Dillon 2012 NCWTS Rookie of the Year
+*   NAS:Cale Gale scores first NCWTS victory
+*   NAS:Buescher 2012 Camping World Truck Champion
+*   MLB:Zduriencik: M's unlikely to pursue Hamilton
+*   NAS:Kligerman on pole for Ford EcoBoost 200
+*   NFL:Sproles: Docs will determine my availability
+*   NFL:Ryan Mathews limited, listed 'questionable'
+*   MLB:Kuroda would prefer to pitch in So. Calif.
+*   NFL:Julio Jones to be game-time decision vs. Zona
+*   NFL:Report: Aaron Hernandez will not play Sunday
+*   NBA:Lillard takes over overtime with 27 points
 
 More Headlines: NFL | MLB | NBA | NHL | GOLF | NAS | CFB  
 Highest Searched Players over the last 7 days
 
-*   1D. McFaddenNFL (7038)
-*   2D. SprolesNFL (6826)
-*   3A. HernandezNFL (6459)
-*   4D. AlexanderNFL (6433)
-*   5D. MurrayNFL (6337)
+*   1D. SprolesNFL (7429)
+*   2D. McFaddenNFL (7195)
+*   3D. MurrayNFL (6732)
+*   4D. AlexanderNFL (6705)
+*   5B. RoethlisbergerNFL (6458)
 
-*   6M. ReeceNFL (6090)
-*   7K. LowryNBA (6036)
-*   8R. MendenhallNFL (5965)
-*   9B. RoethlisbergerNFL (5906)
-*   10K. LoveNBA (5753)
+*   6A. HernandezNFL (6380)
+*   7R. MendenhallNFL (6351)
+*   8M. ReeceNFL (6006)
+*   9K. LowryNBA (5765)
+*   10M. VickNFL (5756)
 
   
 Video Center
@@ -544,34 +544,34 @@ Video Center
 
   
   
-  Headlines What Now, C.J.?  
-Nov 16 Patrick Daugherty breaks down C.J. Spiller's start while checking in on Reggie Bush and Ryan Mathews in Friday's Dose.  
+  Headlines Week 11 Rankings  
+Nov 16 Chris Wesseling has all of your Week 11 rankings in Goal Line Stand. Danny Amendola has reached must-start status for the rest of the season.  
   
 More NFL Columns
 
+*   »Week 11 Rankings Nov 16
+*   »Matchups: Feelin' Lucky Nov 16
 *   »What Now, C.J.? Nov 16
 *   »Week 11 Live Chat Nov 15
-*   »Week 11 Rankings Nov 15
 *   »The Ballad Of Mark And Tim Nov 15
 *   »Matchup: Dolphins @ Bills Nov 15
 *   »Best Available NFL Free Agents Nov 15
 *   »Getting Defensive: Week 11 Nov 14
-*   »Scheduling for Success Nov 14
 
 NFL Headlines
 
-*   »Spiller totals 130 yards on 25 touches in win
-*   »Report: Welker participated in walk-through
-*   »Bowe: I want to finish my career with Chiefs
-*   »Alex Smith remains on track to play Monday
-*   »Dr. Andrews: Peterson's knee akin to newborn
-*   »Norv uncertain about Mathews' Week 11 status
-*   »Donald Brown misses Thursday's practice
-*   »Skins willing to use Garcon at less than 100%
-*   »Darren Sproles upgraded to a full practice
-*   »Coach: Julio Jones is a 'late-week decision'
-*   »Harbs has procedure for irregular heartbeat
-*   »Jets owner: Sanchez is 'our franchise QB'
+*   »When healthy, Danny Amendola on torrid pace
+*   »Welker officially questionable for Week 11
+*   »Sproles: Docs will determine my availability
+*   »Ryan Mathews limited, listed 'questionable'
+*   »Ced Benson says foot currently at 65 percent
+*   »Julio Jones to be game-time decision vs. Zona
+*   »Raiders deem Heyward-Bey game-day decision
+*   »Report: Aaron Hernandez will not play Sunday
+*   »Darren Sproles listed questionable for Wk 11
+*   »Texans deem Daniels 'game-time decision'
+*   »Steelers to start Mendenhall on Sunday night
+*   »Jones-Drew targets return in a 'couple weeks'
 
 NFL Links
 
