@@ -1,20 +1,4 @@
-*   Like Us
-*   Follow Us
-
-Pill Identifier Search November 17, 2012
-
-*   Home
-*   Drugs A-Z
-*   Pill Identifier
-*   Supplements
-*   Slideshows
-*   Images
-*   Symptom Checker
-*   Diseases
-*   Dictionary
-*   Quizzes
-
-home >. rxlist privacy policy summary RxList Privacy Policy Summary
+RxList Privacy Policy Summary
 
 WebMD understands how important the privacy of personal information is to our users. We understand that your privacy matters and we respect your privacy choices. This summary of our privacy policy is intended to give you an overview of:
 
@@ -266,60 +250,3 @@ WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode stan
 Effective Date: June 11, 2012
 
 © 2012 WebMD, LLC. All rights reserved.
-
-  
-  
-Privacy Policy Women's Health
-
-Find out what women really need.
-
-Please acknowledge your agreement I have read and agree to WebMD's Privacy Policy  
-From WebMD Featured Centers
-
-*   How Well Are You Managing Your Eczema?
-*   Top Health Tools to Help You Feel Good
-*   What's Lurking in Your Mouth?
-
-Health Solutions From Our Sponsors
-
-*   Birth Control for Moms
-*   Bipolar Disorder Facts
-*   Treating Depression
-
-  
-Featured Topics
-
-*   Rheumatoid Arthritis
-*   Psoriasis Affecting Your Life?
-*   ADHD Medications
-*   Multiple Sclerosis Slideshow
-*   What is Ulcerative Colitis?
-*   Calming Your Cough
-
-New &. Updated
-
-*   Caduet
-*   Crestor
-*   Fosrenol
-*   Lipitor
-*   Xeljanz
-*   Read the Latest Drug News
-
-Use it Now Find it Now Pill Identifier on RxList
-
-*   quick,  
-    easy,  
-    concise
-
-Find a Local Pharmacy
-
-*   including  
-    24 hour  
-    pharmacies
-
-Search the Medical Dictionary for Health Definitions &. Medical Abbreviations Updated &. New News &. Features Identify Your Drugs:  
-Use the RxList Pill Identifier Tool Vaccine Safety  
-RxList Home| Drugs &. Medications| Slideshows| Pill Identification Tool| Vitamins, Herbs, &. Dietary Supplements| Images| Diseases| Symptom Checker| Dictionary| Quizzes  
-About RxList| Consumer Contact RxList| Terms &. Conditions| Privacy Policy| Sponsor Policy| Pharmaceutical Companies A-Z| Site Map  
-WebMD| Medscape| Medscape Reference| eMedicineHealth| MedicineNet| BootsWebMD Ad Choices Copyright © by RxList Inc.  
-RxList does not provide medical advice, diagnosis or treatment. See additional information.
