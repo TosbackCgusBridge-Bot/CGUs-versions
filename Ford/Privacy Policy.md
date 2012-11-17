@@ -112,7 +112,7 @@ MPG City/Hwy
 
 23/332
 
-Build &. Price Request a Local Quote Previous Model Year   EDGE
+Build &. Price Request a Local Quote   EDGE
 
 Starting MSRP:
 
@@ -148,7 +148,7 @@ MPG City/Hwy
 
 20/282
 
-Build &. Price Request a Local Quote Previous Model Year   FLEX
+Build &. Price Request a Local Quote   FLEX
 
 Starting MSRP:
 
@@ -767,7 +767,7 @@ Starting MSRP, A, Z and X Plan price is for qualified, eligible A, Z, or X Plan 
 
 2
 
-MPG - EPA estimated fuel economy base engine / transmission. Note: Fiesta SE w/SFE Package: EPA-estimated 29 city/40 hwy/33 combined, automatic - Fiesta S, SEL and SES: EPA-estimated 29 city/38 hwy/33 combined, automatic. Note: 2011 Mustang - EPA-estimated 19 city/31 hwy/23 combined coupe, V6 automatic - GT manual. Note: 2013 Focus SE Sedan with SFE Package: EPA-Estimated 28 city/40 hwy/33 combined mpg. Note: F-150 EPA-estimated 17 city/23 hwy/19 combined mpg, 3.7L V6 4x2. For 2012 Edge, MPG’s reflected for 2.0L EcoBoost™ I-4 engine: 21 city/30 hwy/24 combined. For 2013 Explorer, MPG’s reflected for 2.0L EcoBoost™ I-4 engine: 20 city / 28 hwy / 23 combined. For Escape S 2.5L Duratec I-4-22 city/31 hwy. SE/SEL 1.6L EcoBoost I-4 FWD, 23 city/33 hwy, 4WD, 22 city/ 30 hwy. SE/SEL/Titanium 2.0L EcoBoost I-4 FWD, 22 city/30 hwy, 4WD, 21 city/28 hwy. For C-MAX, MPG’s reflected for C-MAX Hybrid 2.0L engine: 47 city/47 hwy/47 combined.
+MPG - EPA estimated fuel economy base engine / transmission. Note: Fiesta SE w/SFE Package: EPA-estimated 29 city/40 hwy/33 combined, automatic - Fiesta S, SEL and SES: EPA-estimated 29 city/38 hwy/33 combined, automatic. Note: 2011 Mustang - EPA-estimated 19 city/31 hwy/23 combined coupe, V6 automatic - GT manual. Note: 2013 Focus SE Sedan with SFE Package: EPA-Estimated 28 city/40 hwy/33 combined mpg. Note: F-150 EPA-estimated 17 city/23 hwy/19 combined mpg, 3.7L V6 4x2. For 2012 Edge, MPG’s reflected for 2.0L EcoBoost™ I-4 engine: 21 city/30 hwy/24 combined. For 2013 Explorer, MPG’s reflected for 2.0L EcoBoost™ I-4 engine: 20 city / 28 hwy / 23 combined. For Escape S 2.5L Duratec I-4-22 city/31 hwy. SE/SEL 1.6L EcoBoost I-4 FWD, 23 city/33 hwy, 4WD, 22 city/ 30 hwy. SE/SEL/Titanium 2.0L EcoBoost I-4 FWD, 22 city/30 hwy, 4WD, 21 city/28 hwy. For C-MAX, MPG’s reflected for C-MAX Hybrid 2.0L engine: 47 city/47 hwy/47 combined. EPA estimated 37 hwy mpg available 1.6L manual. 47 mpg hwy hybrid. Actual mileage will vary.
 
 3
 
