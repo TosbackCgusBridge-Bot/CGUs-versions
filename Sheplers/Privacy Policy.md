@@ -29,7 +29,7 @@ Enter Keyword or Item #
     *   Men's Boots &. Shoes
     *   Men's Shirts
     *   Men's Jeans &. Pants
-    *   Men's Camo &. Hunting
+    *   Hunting Clothing
     *   Men's Coats &. Jackets
     *   Young Men's
     *   Men's Work Wear
