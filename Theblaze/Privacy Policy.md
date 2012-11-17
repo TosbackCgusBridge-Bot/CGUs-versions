@@ -32,9 +32,9 @@ Sign In Sign Up
 
 Take Action
 
-Developing: Report Says Hillary Clinton Will Testify on Libya in Dec.
+St. Lucie County Canvassing Board Orders Retabulation of All Early Votes in Allen West Race
 
-Watch Today’s Live BlazeCast at 1pm ET: Is Israel Really Close to War?
+Watch Today’s Live BlazeCast at 1:30 PM ET: Who Changed the CIA Talking Points?
 
 About TheBlaze
 
