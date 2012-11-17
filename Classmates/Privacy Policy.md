@@ -1,37 +1,3 @@
-**Hello!** Sign in or register for free Help NEW Historic Newsreels | Life Magazine NEW Browse Yearbooks
-
-*   Home
-*   Movies
-*   Music
-*   TV &. Radio
-*   Headlines
-*   Sports
-*   Lifestyle
-*   Magazines
-*   Videos
-*   Yearbooks
-
-*   Preview Classmates® for free
-*   Sign in
-
-*   The Saturday Evening Post
-*   Sport Magazine
-*   Life Magazine
-*   Look Magazine
-*   Ladies' Home Journal
-
-*   Historic Newsreels
-*   Historic Sports Highlights
-*   Johnny Carson
-*   Ed Sullivan
-*   Commercials
-
-*   Johnny Carson
-*   Ed Sullivan
-*   Commercials
-
-Privacy Policy  
-
 Memory Lane, Inc., d/b/a Classmates.com  
 Last Updated: July 10, 2012  
   
@@ -213,30 +179,3 @@ We may update this Privacy Policy from time to time as our information practices
   
 
 We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Privacy Policy or practices, please contact us at: Memory Lane, Inc., Attention: Privacy Policy Issues, 333 Elliott Avenue W., Suite 500, Seattle, WA 98119, or email us at privacy@memorylane.com. If you are not satisfied with our response, you can contact TRUSTe here. The TRUSTe program covers the information collected on the Website.
-
-Like us on  
-Facebook Fun stuff on  
-Pinterest Follow us on  
-Twitter Classmates  
-Blog
-
-*   schoolFeed
-*   About Us
-*   Careers
-*   Help
-
-*   Advertisers
-*   Investors
-*   Terms of Service
-*   Privacy Policy
-*   Your California Privacy Rights
-
-Copyright © 1995-2012 Memory Lane, Inc., d/b/a Classmates.com. All Rights Reserved.
-
-*   Join us on Facebook
-*   Yearbooks
-*   Like Us on Facebook
-*   Movies
-*   Music
-
-*   Become an All-Access Passholder
