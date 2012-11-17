@@ -212,15 +212,15 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Ron Paul says farewell, Elizabeth Warren says hello, Mitt Romney says drop deadSen. Paul filibusters defense bill Gallup: Obama favorability jumps to 3-year highPetraeus tells lawmakers CIA always saw Benghazi as terrorismWest court battle could drag into 2013
+Gallup: Obama favorability jumps to 3-year highSen. Paul filibusters defense bill Republican governors reject healthcare law's exchanges in Ohio, WisconsinAdditional litigation possible in West-Murphy congressional raceGOP Rep. Bilbray concedes his race
 
 Emailed
 
-Ron Paul says farewell, Elizabeth Warren says hello, Mitt Romney says drop deadHouse Dem leaders avoid specifying tax rates for top earnersSenate Republicans’ election lesson is to work on fielding better candidatesLeaders call 'fiscal cliff' meeting 'constructive'Calif. Rep. Lungren loses reelection bid
+Ron Paul says farewell, Elizabeth Warren says hello, Mitt Romney says drop deadHouse Dem leaders avoid specifying tax rates for top earnersReid and Boehner split over timing for deficit-reduction dealSenate Republicans’ election lesson is to work on fielding better candidatesLeaders call 'fiscal cliff' meeting 'constructive'
 
 Discussed
 
-Dear Matt Drudge: Stop the race storiesMurray: Can't guarantee 2014 budgetChicago reporter congratulates Obama on reelection in presserObama to open ‘fiscal cliff’ talks with call for $1.6T in new revenues Norquist tax pledge takes election hit
+Dear Matt Drudge: Stop the race storiesMurray: Can't guarantee 2014 budgetChicago reporter congratulates Obama on reelection in presserPetraeus tells lawmakers CIA always saw Benghazi as terrorismObama to open ‘fiscal cliff’ talks with call for $1.6T in new revenues
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
@@ -273,9 +273,9 @@ More E2\-Wire (Energy) » Ballot Box
   
 More Ballot Box » On The Money
 
+*   Ayotte: No higher tax rates in 'fiscal cliff' deal
 *   Regulator approves penny increase in stamp price
 *   Tim Geithner: 'Fiscal cliff' deal is 'doable within several weeks'
-*   Lawmakers, housing industry experts urge caution in shoring up FHA's finances
 
   
 More On The Money » Healthwatch
@@ -308,9 +308,9 @@ More Transportation » DEFCON Hill
   
 More DEFCON Hill » Global Affairs
 
+*   House Republicans blame Obama for terror suspect's release
 *   Rep. Sherman abandons bid for foreign affairs leadership post amid backlash
 *   McCain to Obama: Take action against Iraq for terror suspect release
-*   Engel gets near-unanimous support for leadership bid on Foreign Affairs panel
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Rice a risky pick Brent Budowsky Petraeus: Lessons learned More Columnists »
