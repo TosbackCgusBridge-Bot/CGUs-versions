@@ -254,8 +254,9 @@ We will revise or update this policy if our practices change, or as we develop b
             *   Livestream.com;
             *   UStream.com;
             *   MapBox.com;
-            *   SlideShare. and
-            *   Scribd.com
+            *   SlideShare.
+            *   Scribd.com. and
+            *   SoundCloud.com
             
             For your convenience, this list will be updated on a regular basis to reflect the third party providers of content or functionality that are commonly used on WhiteHouse.gov.  If you would like to receive content that is posted using one of these third-party providers without utilizing the third-party provider, please contact us at http://www.whitehouse.gov/tech/feedback. 
             
@@ -419,7 +420,7 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: October 3, 2012
+Updated: November 16, 2012
 
 Previous version(s) of this policy may be accessed on the archive page.
 
