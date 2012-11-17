@@ -1,13 +1,4 @@
-Privacy Policy - ShopAtHome.com Login | Join Now
-
-*   Shop Online
-*   Grocery Coupons
-*   Free Shipping
-*   Exclusive Deals
-*   More _+_
-    *   Restaurant Coupons Local Free Shipping Prescription Discounts Financial Services Travel Services Other Services Printable Coupons Free Stuff Our Community All Categories
-
-Black Friday Holidays 2012 ShopAtHome.com Privacy Policy
+ShopAtHome.com Privacy Policy
 
 Effective Date: December 1, 2011
 
@@ -131,23 +122,3 @@ Attn: Privacy
 7100 East Belleview Avenue, #208  
 Greenwood Village, CO 80111  
 Email: privacy@shopathome.com
-
- Updated: November 17, 2012 © Copyright Belcaro Group Inc. 1999-2012, All Rights Reserved **ShopAtHome.com**  
-About  
-Press Releases  
-Contact  
-Site Map  
-**Members**  
-EULA  
-Privacy Policy  
-Terms and Conditions  
-**Questions**  
-Help  
-Unsubscribe **Follow Us**  
-Facebook  
-Google+  
-Twitter  
-Online Shopping Report  
-How to Get  
-**Cash  
-Back?** 80+ Black Friday Deals40+ Holiday Sales
