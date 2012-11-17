@@ -1,71 +1,3 @@
-17 405 000 membres - 198 188 756 articles
-
-". divString += "". document.write(divString).
-
-page crée le 2012 11 17 10:08:14
-
-bbc2a27a2d82f6a45062138320946ce920100915
-
-". divString += "". document.write(divString).
-
-*   Inscription
-*   Parrainage
-*   Vendre
-*   Aide
-
-*   Mon compte
-*   Mon panier
-
-Rechercher
-
-Accueil >. Aide Aide
-
-*   Première visite
-*   Guide d'utilisation
-    *   Comment ça marche
-    *   Comment vendre
-    *   Comment acheter
-    *   Le Porte-Monnaie
-    *   Les SuperPoints
-    *   La communauté
-*   FAQ / Contacts
-
-Ethique &. Sécurité
-
-*   Paiement sécurisé
-*   Propriété intellectuelle
-*   Responsabilité
-*   Vie privée et cookies
-
-Transaction sécurisée par  
-Ethique et sécurité Paiement sécurisé
-
-Lors d'un achat, le paiement s'effectue à l'aide du système sécurisé "**Sogenactif**" de la **Société Générale**. Vos coordonnées bancaires sont cryptées et ainsi totalement protégées contre toute forme de piratage.  
-  
-De la même façon, le numéro de votre carte n'est à aucun moment visible et/ou conservé par PriceMinister si vous choisissez, lors d'une commande ou directement depuis votre compte, de sauvegarder une carte de paiement pour de futurs achats.  
-  
-Vous pouvez donc acheter en toute sérénité sur PriceMinister !  
-  
-Conformément à la loi "Informatique et libertés" du 6 janvier 1978, vous bénéficiez d'un droit d'accès, de rectification et d'opposition aux informations qui vous concernent, que vous pouvez exercer à tout moment en vous rendant sur la page "FAQ/Contact" du site.
-
-Propriété intellectuelle
-
-Les textes et images relatifs aux produits mis en vente sur le site de PriceMinister sont réservés au titre du droit d'auteur ainsi qu'au titre de la Propriété intellectuelle pour le monde entier.  
-  
-A ce titre, conformément aux dispositions du Code de la Propriété intellectuelle, seule l'utilisation pour un usage privé -sauf dispositions plus restrictives dudit Code- est permise. Toute autre utilisation constitutive de contrefaçon est passible des sanctions prévues par le même Code. Toute reproduction même partielle du catalogue en ligne de PriceMinister est strictement interdite, sauf autorisation préalable de PriceMinister.
-
-Responsabilité
-
-Le vendeur garantit que ses produits sont conformes à la législation française et aux normes applicables en France.  
-  
-Il garantit en outre à PriceMinister qu'il en est régulièrement propriétaire et qu'il peut en disposer librement, y compris s'agissant de biens soumis à une licence d'utilisation ou dont les conditions de vente sont régies par une législation particulière, comme par exemple la loi relative au prix du livre.  
-  
-PriceMinister se réserve le droit d'exclure de ses membres tout vendeur qui contreviendrait de quelque manière que ce soit à ces dispositions, sans préjudice d'éventuelles poursuites judiciaires.  
-  
-PriceMinister décline toute responsabilité en cas d'infraction (fraude, contrefaçon, recel, etc.) du fait du vendeur.  
-  
-Le vendeur garantit PriceMinister contre toute action en responsabilité engagée à son encontre sur le fondement de la violation d'un droit quelconque d'un tiers ou contre tout dommage résultant pour PriceMinister de la réclamation effectuée par un tiers.
-
 Vie privée et cookies
 
 La protection des données personnelles constitue un enjeu majeur dans la confiance que nos utilisateurs peuvent nous accorder. Elle est, à ce titre, une préoccupation importante de PriceMinister.  
@@ -200,8 +132,4 @@ Les principes ci-dessus ne font pas obstacle à la cession ou au transfert de to
    
 Si votre terminal est utilisé par plusieurs personnes et lorsqu’un même terminal dispose de plusieurs logiciels de navigation, nous ne pouvons pas nous assurer avec certitude que les services et publicités destinés à votre terminal correspondent bien à votre propre utilisation de ce terminal et non à celle d'un autre utilisateur de ce terminal.  
    
-Le cas échéant, le partage avec d’autres personnes de l’utilisation de votre terminal et la configuration des paramètres de votre navigateur à l'égard des cookies, relèvent de votre libre choix et de votre responsabilité.  
-
-". divString += "". document.write(divString). Faire de cette page votre page d'accueil Ajouter cette page à vos favoris Envoyer cette page à un ami Affiliation - Comment acheter - Comment vendre - Mon compte - Mon panier - Aide - FAQ / Contacts - Conditions générales - Vie privée et cookies - Vendeurs PRO - PriceMinister recrute  
-**Groupe Rakuten :**   Rakuten Japon -  Rakuten Taiwan -  Tarad.com Thaïlande -  Rakuten Indonésie -  Rakuten Malaysia -  Buy.com Etats-Unis -  Rakuten Brésil -  VoyagerMoinsCher.com    
-PriceMinister Espagne -  Rakuten Allemagne -  Play.com Royaume Uni -  Rakuten International -  Signaler un contenu illicite © PriceMinister 2000-2012
+Le cas échéant, le partage avec d’autres personnes de l’utilisation de votre terminal et la configuration des paramètres de votre navigateur à l'égard des cookies, relèvent de votre libre choix et de votre responsabilité.
