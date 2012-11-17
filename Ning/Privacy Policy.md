@@ -1,11 +1,3 @@
-**Ning** **The World's Largest Platform for Creating Social Websites™ Already have an account? Sign In**
-
-*   _Home_
-*   _Features_
-*   _Blog_
-*   _Design_
-*   _Pricing_
-
 Privacy Policy
 
 _Last Updated: November 13, 2012_
@@ -156,34 +148,3 @@ Ning
 Suite 1000  
 Brisbane, CA 94005  
 Attn: Privacy Matters
-
-*   LEGAL
-    *   Home
-    *   Terms of Service
-    *   Privacy Policy
-    *   Third Party App Dev Terms of Service
-    *   Applications Terms of Use
-    *   Virtual Gift Terms
-    *   Copyright Policy
-    *   Trademark Policy
-
-Product*   Features
-*   Pricing
-*   _Design Services_
-*   Customer Spotlight
-
-Company*   About Ning
-*   Press
-*   Careers
-
-Follow Us*   Blog
-*   Resource Center
-*   Facebook
-*   Twitter
-
-Site Links*   Help
-*   Site Map
-
-Language Български (Република България)Czech (Czech Republic)Deutsch (Deutschland)Ελληνικα (Ελλαδα) English (Canada)English (British)English (U.S.)Español (Argentina)Español (España)Español (Latin America)Suomi (Suomi)FrançaisMagyar (Magyarország)Italiano (Italia)日本語 (日本)한국 (한국)Nederlands (Nederlands)Norsk (Norge)Polski (Polska) Português (Brasil)Română (România)Россия (Российская Федерация)Slovenčina (Slovensko)Svensk (Sverige)简体中文（中国）正體字
-
-Privacy Policy | Terms | Copyright | © 2012 Ning, Inc.
