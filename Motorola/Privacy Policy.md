@@ -1,12 +1,3 @@
-Consumers Video Solutions My Moto Care   Cart (0) Your Cart is Empty Total Items in Cart: 0 Subtotal: 0.00 VIEW/EDIT CART Need help with your order? 800-520-6412 M-F 9:00AM-8:00PM ET
-
-*   %qty% - %name% %price%
-
-PROCEED TO CHECKOUT MOBILE PHONES Smartphones Android Phones Business Ready Phones View All Mobile Phones >>. TABLETS 3G/4G Wi-Fi View All Tablets >>. ACCESSORIES Mobile Phone Accessories Tablet Accessories Fitness Accessories View All Accessories >>. MORE PRODUCTS Fitness Corded and Cordless Phone Home Digital Video Cable Modems and Gateways Refurbished Products View All  
-More Products >>. SOFTWARE &. APPS Applications View All Software / Apps >>. STORE SUPPORT For Phones, Software &. Accessories For Software &. Applications For Business Ready Devices For Home Devices Support Forums Drivers Contact Us Service and Repair For MOTOACTV | Share About Motorola Careers Corporate Responsibility Environment History Investor Relations Media Center Motorola Mobility Ventures Terms of Use
-
-MOTOROLA PRIVACY POLICY This statement applies to the online collection of personal information via web sites operated by Motorola Mobility, Inc. (“Motorola”) and its worldwide affiliated companies and subsidiaries (See About Motorola). Highlights of Motorola's Online Privacy Statement follow immediately below, or read the full text.
-
 **What personal information is collected?**  
 
 *   We collect personal information you voluntarily choose to provide such as your name, address, email address, phone numbers and/or other categories of personal information, such as payment card information.
@@ -149,35 +140,3 @@ Top
 Web sites operated by or on behalf of Motorola, Inc. and its world-wide affiliated companies and subsidiaries are intended for use by persons age 13 and over. Motorola does not seek to collect information about children under the age of 13. No information should be submitted to or posted on Motorola's web sites by users under 13 years of age. If a child under the age of 13 submits personal information to Motorola's web sites, we delete the information as soon as we discover it was provided by a child under 13 years of age and do not use it for any purpose. Motorola encourages parents to take an active role in their children's use of the Internet, and to inform them of the potential dangers of providing information about themselves over the Internet.  
 
 **This Privacy Statement is subject to change without notice.**
-
-Related Links
-
-*   Motorola Copyright Policy
-*   Motorola Privacy Policy
-*   Motorola EU Regulatory Information
-*   Motorola.com Terms of Use
-*   Motorola.com Terms of Sale
-
-Motorola Home  >. About Motorola  >. Legal  >. Privacy Policy  
-
-*   Sign Up For Updates
-*   About Us
-*   Media
-*   Investors
-*   Legal
-*   Contact Us
-*   Careers
-*   Sales: 1-866-BUY-MOTO
-*   Product Support
-
-USA (Change)
-
-©2012 Motorola Mobility LLC. All Rights Reserved.  
-  
-ABOUT YOUR PRIVACY: Motorola uses cookies on this site. Some are essential but we set others based on"Privacy settings" you choose. Skipping this step implies that you accept our default settings.
-
-Are you looking for two-way radios, mobile computers, bar code scanners, OEM, wireless broadband networks and other business products and solutions?  
-Visit Motorola Solutions
-
-  
-Drawing on more than 80 years of innovation heritage, Motorola is helping people realize the promise of convergence by fusing innovative technology with human insights to create experiences that simplify, connect and enrich people's lives.
