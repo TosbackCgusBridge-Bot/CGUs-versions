@@ -18,7 +18,7 @@ Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and mor
         *   View All
     *   Gifts $100 and Under
     *   Family Style Slippers
-    *   Gifts That Glam
+    *   Glam Gifts
     
 *   Women|
     *   New Arrivals
