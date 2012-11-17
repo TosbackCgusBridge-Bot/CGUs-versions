@@ -71,13 +71,13 @@ Sign In Sign Out New User Sign Up Profile Management
 
 What's Hot
 
-What Show Has the Best Fans?
+_Twilight_
 
-Kristen Stewart
+Are You Football's Biggest Fan?
+
+This Weekend's Football
 
 Everyone Is Posing Nude!
-
-Should Macy's "Dump Trump"?
 
 Privacy Policy Last Revised July 25, 2011  
   
@@ -137,11 +137,11 @@ more popular celebrities Most Popular Movies
 
 more popular movies Top Videos
 
-1.  The Vampire Diaries
-2.  Supernatural
-3.  Fringe: How Will the Team Deal...
-4.  Exclusive Arrow First Look: Ol...
-5.  The Vampire Diaries
+1.  Arrow
+2.  Hart of Dixie
+3.  The Vampire Diaries
+4.  Glee Exclusive: Finn gets help...
+5.  Supernatural
 
 more top videos
 
