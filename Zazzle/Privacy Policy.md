@@ -1,30 +1,3 @@
-Skip to content 100% satisfaction guaranteed. If you don't love it, we'll take it back. Period.
-
-*   Sign in 
-    *   My Account
-    *   Track My Order
-    *   Order History
-*   Wishlist
-    *   Loading...
-*   Cart
-
-*   Shop Departments 
-    *   Loading...
-*   Create 
-    *   Loading...
-*   Sell
-*   Gift Center
-
-**Search** November Savings Event! 15% Off ALL Orders!    Use Code: SANTASAVINGS   Ends Tomorrow! (details) Zazzle Privacy Policy Policies
-
-*   User Agreement
-*   Privacy Policy
-*   Nonexclusive License Agreement
-*   Volume Bonus Agreement
-*   Associates Agreement
-*   Shipping &. Returns
-*   Zazzle Black™ Terms &. Conditions
-
 Thanks for using http://www.zazzle.com/ (the "Site"). At Zazzle Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using our website, you expressly consent to the collection, storage, disclosure and use of your information as we have outlined in this Privacy Policy and you agree to the terms and conditions of this Privacy Policy.
 
 We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we make any changes to this Privacy Policy, we will notify you in accordance with our User Agreement. We also encourage you to check back, from to time, and review this Privacy Policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Site will be subject to the then current Privacy Policy.
@@ -154,55 +127,4 @@ Unless stated otherwise, our current Privacy Policy applies to all information t
 
 The current version of the Zazzle Privacy Policy was adopted effective as of January 1, 2012.
 
-To view the Zazzle Privacy Policy prior to November 17, 2011, please click here Use of this Web site constitutes acceptance of the User Agreement and Privacy Policy  
-Copyright © 2000-2012, Zazzle Inc. All rights reserved. 100% Satisfaction If you don't  
-absolutely love it,  
-we'll take it back. Safe Shopping Your information  
-is completely  
-secure. Fast Shipment Holy Ship! We  
-produce &. ship  
-_fast_. Exclusive Offers and Updates! **Sign me up!** About Your Order
-
-*   Track My Order
-*   Safe Shopping Guarantee
-
-  
-Make Money on Zazzle
-
-*   Sell Your Designs
-*   Become an Associate
-
-About Us
-
-*   Learn About Zazzle
-*   Technology
-*   Products
-*   People
-*   Press Room
-*   Contact Us
-
-Quick Links
-
-*   Community
-*   Forum
-*   Blog
-*   Tags
-*   Sell
-*   Help
-
-Zazzle Worldwide Sites (see all)
-
-*     **USA** (**EN** | ES)
-*     UK
-*     Canada (EN | FR)
-*     Australia
-*     Japan
-
-*     Germany
-*     Spain
-*     Brazil
-*     Sweden
-*     France
-
-Use of this Web site constitutes acceptance of the User Agreement and Privacy Policy  
-Copyright © 2000-2012, Zazzle Inc. All rights reserved.
+To view the Zazzle Privacy Policy prior to November 17, 2011, please click here
