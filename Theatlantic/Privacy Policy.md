@@ -1,26 +1,26 @@
 Skip Navigation
 
-*   What Is Twilight Actually About?
+*   What's the Matter With Florida?
+*   Against a Ground Invasion of Gaza
 *   The Techies Who Helped Obama Get Reelected
-*   What It's Like to Be Out-Earned by Your Wife
 *   Sponsor Content Infographic: Using Data to Keep the Peace
 
 *   Politics
     *   Top Stories
-    *   Liberals Celebrate New Crop of Progressives
+    *   The Republican Party's Talent Gap
+    *   Liberals Rejoice at New Congress
     *   'No Impact Man' Runs for Office
-    *   Rush Listeners' Racial Relativism
+    *   What's the Matter With Florida?
     *   Let's Get Back to the Atlas Shrugged Guy
-    *   The GOP Talent Gap
     *   What the Bartender Saw
 *   Business
     *   Top Stories
     *   Who's to Blame for the Hostess Bankruptcy?
     *   The Next Housing Bailout?
     *   The Countries With the Most Generous Unemployment Benefits
+    *   Attention, People Buying Twinkies for $50 Online: The Twinkie Is Not Extinct
+    *   How Much Longer Can Tech's Free Party Last?
     *   The U.S. Recovery Has Been Spectacular\*
-    *   A Freelance Economy Can Be Good for Workers: Let's Make It Better
-    *   India's Bold Solution to the U.S. College Crisis: Federal Universities
 *   Tech
     *   Top Stories
     *   When the Nerds Go Marching In
@@ -42,9 +42,9 @@ Skip Navigation
     *   David Petraeus and the Future of American War
     *   China's Power Transition: Liberalization >. Conservative Ideology
     *   Does the Israel-Hamas Internet War Violate Twitter's Terms of Service?
+    *   Benghazi's Lesson: Diplomacy Can't Be Done on the Cheap
     *   Against a Ground Invasion of Gaza
     *   The Chinese Reaction to the Petraeus Scandal: ... That's All There Is to It?!
-    *   Who Started the Israel-Gaza Conflict?
 *   Health
     *   Top Stories
     *   Relaxation-Induced Anxiety
@@ -58,17 +58,17 @@ Skip Navigation
     *   We Are Men Who Are Out-Earned By Our Wives
     *   How 'Homeland' Undercuts Real Women in Government
     *   The Reality of Life After 'Top Chef': Dream Jobs Are Still Jobs
+    *   'Twilight' Is Not Simply a Pro-Life Fantasy
     *   Why Women Are Too Tall and Men Are Too Short
     *   The Strange History and Uncertain Future of Sadie Hawkins Day
-    *   Why Women Don't Take Risks With Their Money
 *   Entertainment
     *   Top Stories
     *   So I Might Owe 'Twilight' a Small, Begrudging Apology
     *   The Weirdly Familiar Politics of 'Anna Karenina'
     *   A Mondegreen Medley: Misheard Lyrics Over the Years
+    *   Jewish Lincoln, Warrior Xtina: The Week's Best Pop-Culture Writing
     *   December 1book140 Shortlist: Return of the Bridesmaids
     *   1book140: Meet J. Nathan Matias
-    *   Your Highly Biased College-Basketball Talking Points Crash Course
 *   Magazine
     *   In This Month's Issue
     *   Our 2012 Brave Thinkers List
@@ -88,7 +88,7 @@ Skip Navigation
 *   Video
 *   Photo
 *   Newsletters
-*   Against a Ground Invasion of GazaJeffrey Goldberg
+*   Attention, People Buying Twinkies for $50 Online: The Twinkie Is Not ExtinctDerek Thompson
 
 Privacy Policy
 
@@ -196,12 +196,12 @@ Washington, DC 20037
 Special Report The Atlantic Washington Ideas Forum  
 Each year _The Atlantic_ brings together influential figures from the worlds of politics, business, and academia. Read more › Writers
 
-*   Jeffrey Goldberg Against a Ground Invasion of Gaza 10:12 AM ET
+*   Derek Thompson Attention, People Buying Twinkies for $50 Online:… Nov 17, 2012
+*   Ta-Nehisi Coates What's the Matter With Florida? Nov 17, 2012
+*   Jeffrey Goldberg Against a Ground Invasion of Gaza Nov 17, 2012
 *   James Fallows Let's Get Back to the Atlas Shrugged Guy Nov 16, 2012
 *   Robert Wright Who Started the Israel-Gaza Conflict? Nov 16, 2012
-*   Ta-Nehisi Coates The Effete Liberal Book Club Rises Again Nov 16, 2012
 *   Alexis C. Madrigal When the Nerds Go Marching In Nov 16, 2012
-*   Derek Thompson Mitt Romney's America: Why Makers, 'Gifts', and… Nov 15, 2012
 *   Garance Franke-Ruta Newt Gingrich, Paleoconservative Nov 15, 2012
 *   Clive Crook Obama and the Fiscal Cliff Nov 14, 2012
 *   Steve Clemons Ed Gillespie's Absurd Bluster Nov 6, 2012
@@ -245,41 +245,41 @@ Who Started the Israel-Gaza Conflict?
 
 3
 
-Who's to Blame for the Hostess Bankruptcy: Wall Street, Unions, or Carbs?
+How Much Longer Can Tech's Free Party Last?
 
 4
 
-The Iron Dome, Press Bias, and Israel's Lack of Strategic Thinking
+Noam Chomsky on Where Artificial Intelligence Went Wrong
 
 5
 
-Let's Get Back to the Atlas Shrugged Guy
+Rockets Over Israel and Gaza
 
 6
 
-Noam Chomsky on Where Artificial Intelligence Went Wrong
+Venice Under Water
 
 7
 
-Why a Rush Limbaugh Listener Thinks Calling Obama a 'Magic Negro' Is Okay
+The Iron Dome, Press Bias, and Israel's Lack of Strategic Thinking
 
 8
 
-Rockets Over Israel and Gaza
+Syria in Ruins
 
 9
 
-Hurricane Sandy: After Landfall
+The Next Housing Bailout? Big Trouble Brewing at the FHA
 
 10
 
-Ron Paul's Last Speech to Congress: 30+ Strangely Ordered Questions
+Why a Rush Limbaugh Listener Thinks Calling Obama a 'Magic Negro' Is Okay
 
 ATLANTIC MEDIA Atlantic Wire
 
-*   The President Is Unimpressed
-*   Computers Totally Get Abstract Art. Probing Einstein's Brain
-*   And Now Comes the Part When Marissa Mayer Lays Off People at Yahoo
+*   What's With All the Funny Cars in Austin This Weekend?
+*   New York to Demolish Over 200 Homes Because of Sandy
+*   There Are Glimmers of Hope for an End to the Israel-Gaza Conflict
 
 **More from Atlantic Wire**
 
@@ -293,17 +293,17 @@ Atlantic Cities
 
 Quartz
 
+*   Should I stay or should I go? How an Indian family decided to return home
+*   The charismatic fascist: Mourning Indian politician Bal Thackeray is as complicated as he was
 *   How to do an oil deal in Nigeria: A tale of middlemen and millions
-*   Proof that austerity measures are making European economies worse, not better
-*   Why rich countries can’t have $20 tablets—yet
 
 **More from Quartz**
 
 National Journal
 
-*   Obama on Asia Tour, Leaving Fiscal Cliff Momentarily Behind
-*   History: The Case of the Missing Congressman
-*   What’s Next on Immigration Reform
+*   Drones and Data Mining: Looking Forward After Petraeus, Looking Back After the Election
+*   Drones and Data Mining: After Petraeus, After the Election
+*   Photo of the Day! Neither Obama nor McKayla Maroney Are Impressed
 
 **More from National Journal**
 
