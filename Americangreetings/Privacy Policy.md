@@ -33,10 +33,10 @@ become a fan AG twitters!
     Innovative ecards to send, share or post
     
     *   **Holidays**
-    *   diwali
     *   thanksgiving
     *   hanukkah
     *   christmas
+    *   season's greetings
     *   view all holidays >
     
     *   **Occasions**
