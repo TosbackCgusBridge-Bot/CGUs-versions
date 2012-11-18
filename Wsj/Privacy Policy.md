@@ -15,6 +15,8 @@
 *   Risk
     *   Risk
 *   More
+    *   WSJ X - Invitation Only
+    *   New Portfolio
     *   BigCharts
     *   Financial News
     *   Professor Journal
@@ -294,13 +296,14 @@ WSJ Web Slice CONTENT LINKS TO ACTUAL PAGE CONTAINING WEB SLICE FUNCTIONALITY. 1
 *   Customer Service
     *   Customer Center
     *   Contact Us
+    *   WSJ Weekend
     *   Contact Directory
     *   Corrections
 *   Policy
     *   Privacy Policy
     *   Data Policy
     *   Copyright Policy
-    *   Updated: Subscriber Agreement  
+    *   Subscriber Agreement  
         &. Terms of Use
 *   Ads
     *   Your Ad Choices
