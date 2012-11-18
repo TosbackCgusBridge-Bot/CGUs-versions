@@ -29,11 +29,11 @@
     *   **Romney analyzes the election results**  
         The Fact Checker | Glenn Kessler
     
-    *   **Unions did not kill Twinkies, but...**  
+    *   **Huckabee: GOP ‘pumped more bullets’...**  
         She The People | Diana Reese
     
-    *   **Priebus to seek second term as...**  
-        The Fix | Aaron Blake
+    *   **President Obama and McKayla Maroney...**  
+        The Fix | Chris Cillizza
 *   Opinions In Opinions
     
     *   Toles Cartoons
@@ -78,8 +78,8 @@
     *   **This thing you should try: Majestic...**  
         Going Out Gurus | Alex Baldinger
     
-    *   **Officers suspended over ‘crude’...**  
-        Clarence Williams and Martin Weil
+    *   **Car crashes into 7-Eleven. none...**  
+        Crime Scene | Matt Zapotosky
     
     *   **Allen, Kaine advisers look back...**  
         Virginia Politics | Ben Pershing
@@ -145,16 +145,16 @@
     
     Blogs &. Columns
     
+    *   **Israel and Gaza violence: How did...**  
+        WorldViews | Olga Khazan
+    
+    *   **Anonymous hacks Israeli Web sites**  
+        WorldViews | Olga Khazan
+    
     *   **An interactive map showing Hamas's...**  
         WorldViews | Max Fisher
     
     *   **The Israeli-Palestinian politics...**  
-        WorldViews | Max Fisher
-    
-    *   **Israel conflict: What is Iron Dome?**  
-        WorldViews | Olga Khazan
-    
-    *   **Map: Where Hamas's Jerusalem-bound...**  
         WorldViews | Max Fisher
 *   Business In Business
     
@@ -171,17 +171,17 @@
     
     Blogs &. Columns
     
-    *   **What I would ask Petraeus**  
+    *   **Shopping tip: Just stop, drop and...**  
         The Color of Money | Michelle Singletary
     
     *   **Google and Dish discussing spectrum...**  
         Post Tech | Hayley Tsukayama
     
-    *   **How business can bounce back from...**  
+    *   **Blackboard’s departing founder...**  
         Steven Pearlstein
     
-    *   **Will Senate Democrats' filibuster...**  
-        Wonkblog | Dylan Matthews
+    *   **What happens when a woman is denied...**  
+        Wonkblog | Sarah Kliff
 *   Tech In Technology
     
     *   Policy
@@ -267,12 +267,11 @@
 
 In the News
 
+*   David Petraeus
+*   Hostess
+*   McKayla Maroney
+*   Israeli-Palestinian conflict
 *   Gaza
-*   Twinkies
-*   Egypt bus crash
-*   ‘Fiscal cliff’
-*   Romney spurned
-*   ‘Breaking Dawn’
 
 ???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
 
@@ -323,6 +322,14 @@ We may also use information about our users and their activities on our site to 
 *   People Also Read
 *   Most Popular Videos
 
+Petraeus scandal puts four-star general lifestyle under scrutiny
+
+Rajiv Chandrasekaran 
+
+Israel keeps pounding Gaza by air, says it intercepted missile fired by Hamas at Tel Aviv
+
+Karin Brulliard 
+
 Manassas News &. Messenger and InsideNoVA.com, top Prince William news sources, closing down
 
 Tom Jackman 
@@ -331,86 +338,86 @@ Romney sinks quickly in Republicans’ esteem
 
 Dan Eggen 
 
-Israel pounds Gaza from air as troops assemble
+University of Maryland in talks to join Big Ten
 
-Karin Brulliard 
+Alex Prewitt 
 
-Why didn’t Hostess workers believe the threats?
+FBI investigation of Broadwell reveals bureau’s comprehensive access to electronic communications
 
-Jena McGregor 
+Greg Miller 
+
+No. 2 Kansas State, Klein upset 52-24 at Baylor and sure to fall from top of BCS rankings
+
+Associated Press 
+
+Ron Barber defeats Martha McSally in race for Giffords’s former seat
+
+Associated Press 
+
+End the outdated rules that led Petraeus to resign
+
+John Prados 
+
+Answerable to no one
+
+George F. Will 
+
+Manziel accounts for 5 scores, No. 9 Texas A&M handles Sam Houston State 47-28
+
+Associated Press 
+
+Ron Paul's farewell speech (VIDEO) Wizards vs. Jazz: Washington becomes second team in NBA history with consecutive 0-8 starts
+
+Michael Lee 
+
+Boxing: Seth Mitchell is knocked out by Johnathon Banks in Atlantic City
+
+Gene Wang 
+
+If China is doing so well, why do so many Chinese think of moving here?
+
+Jia Lynn Yang 
 
 Susan Rice’s tarnished resume
 
 Dana Milbank 
 
-Scapegoating Susan Rice does U.S. no good
+Stanford quarterback Kevin Hogan will start against No. 1 Oregon on Saturday
 
-Robert Kagan 
+Chelsea Janes 
 
-Both sides appear upbeat on opening round of ‘fiscal cliff’ talks
+A wife’s failed job hunt sticks relationship in a trap
 
-Lori Montgomery 
+Carolyn Hax 
 
-The Petraeus affair’s resulting witch hunt
+AARP uses its power to oppose Social Security, Medicare benefit cuts for retirees
 
-David Ignatius 
+Michael A. Fletcher 
 
 A eulogy for the humble Hostess Twinkie
 
 Adam Bernstein 
 
-Petraeus tells Congress that Benghazi attack was terrorism
-
-Karen DeYoung 
-
-The story behind the photo: journalist's 11-month-old son killed in Gaza strikes BREAKING: The president knew the truth about Benghazi
-
-Jennifer Rubin 
-
-County board grants Rep. Allen West's recount request Twinkie fix in a post-Twinkies world
-
-Bonnie S. Benwick 
-
-Jill Kelley, twin sister visited White House three times in autumn of 2012
-
-Amy Gardner 
-
-Ron Paul's farewell speech (VIDEO) Answerable to no one
-
-George F. Will 
-
-Petraeus’s answers raise more questions
-
-Jennifer Rubin 
-
-Leonid meteor shower tonight, tomorrow morning: shut off the lights and look up
-
-Blaine Friedlander 
-
-Penn State still feels impact one year after Jerry Sandusky scandal broke
-
-Barry Svrluga 
-
 The Post MostMost-viewed stories, videos, and galleries in the past two hours
 
 *   Most Popular
-    1.  Manassas News-Messenger and InsideNoVA.com closing down
-    2.  Romney sinks quickly in Republicans' esteem
-    3.  Israel pounds Gaza from air as troops assemble
-    4.  Why didn't Hostess workers believe the threats?
-    5.  Susan Rice's tarnished resume
+    1.  Petraeus scandal puts four-star general lifestyle under scrutiny
+    2.  Israel keeps pounding Gaza by air, says it intercepted missile fired by Hamas at Tel Aviv
+    3.  Manassas News-Messenger and InsideNoVA.com closing down
+    4.  Romney sinks quickly in Republicans' esteem
+    5.  University of Maryland in talks to join Big Ten
 *   Top Videos
-    1.  Romney losing support of the GOP
-    2.  Israeli missile strikes pound Gaza
-    3.  Sen. John McCain: 'One of the dumbest questions I've ever heard'
-    4.  Why Paula Broadwell left Harvard
-    5.  Ron Paul's farewell speech to Congress in 2 minutes
+    1.  Israel deploys 'Iron Dome' defense system following rocket attack
+    2.  Israel shoots down Tel Aviv-bound rocket
+    3.  Why Paula Broadwell left Harvard
+    4.  Romney losing support of the GOP
+    5.  Sen. John McCain: 'One of the dumbest questions I've ever heard'
 *   Top Galleries
-    1.  Republicans run from Romney
-    2.  The four-star movies of 2012
-    3.  Gaza Strip conflict escalates
-    4.  The David Petraeus scandal: Cast of characters
-    5.  Best books of 2012
+    1.  Best books of 2012
+    2.  Gaza Strip conflict escalates
+    3.  A close-up view of the Obamas
+    4.  The four-star movies of 2012
+    5.  Republicans run from Romney
 
 Today's Paper
 
