@@ -435,7 +435,7 @@ http://www.underarmour.com/ua11/privacy/IT.html GET HELP
 *   chat **email**  
     Get a response within 24 hrs!
 
-**SIGN UP** FOR EMAIL Please enter a valid email address.   Customer Service
+\[+\] Feedback - How are we doing? **SIGN UP** FOR EMAIL Please enter a valid email address.   Customer Service
 
 *   **1.888.727.6687**
 *   Live Chat
