@@ -297,8 +297,6 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Ammunition
     *   Personal Defense
     
-    *   New for 2012
-    
     *   Nikon Store
     *   Bushnell Store
     *   Liberty Safe StoreOther Ways to Shop: New for 2012   | Shooting Outlet   | 5-Star Rated
@@ -396,8 +394,6 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Seasonings
     *   Outfitters Camp
     
-    *   New for 2012
-    
     *   Nikon Store
     *   Bushnell Store
     *   Liberty Safe StoreOther Ways to Shop: New for 2012   | Hunting Outlet   | Hunting Checklists
@@ -439,7 +435,7 @@ Your Gandermountain.com Session is About to Expire! What Would You Like To Do? R
     *   Target Accessories
     *   Bowfishing
     
-    *   New for 2012Other Ways to Shop: New for 2012   | Archery Outlet   | 5-Star Rated
+    Other Ways to Shop: New for 2012   | Archery Outlet   | 5-Star Rated
 *   Camping
     
     *   Tents &. Shelters
