@@ -19,7 +19,7 @@ Skip to content
 *   Customer Service
 *   1.800­.GO.DEPOT (1.800.­463.3768) Close X
     
-    **Session:** 0000QPIRF5hkisO-806cw-EkuwV  
+    **Session:** 0000vOXnYhyiwgf85jvNLl7kByg  
     **Clone:** 1659q38ci
     
 
@@ -170,11 +170,11 @@ Subtotal
     
     Current Offers
     
-    Order Your 2013 Calendars!
+    Order 2012 Calendars &. Planners
     
-    Save up to 15% on Cleaning and Wellness Supplies
+    Stay Organized During the Holidays!
     
-    Check out a hot paper deal now!
+    Click here for a hot paper deal
     
 *   Paper
     
@@ -369,7 +369,7 @@ Subtotal
         *   Power/Surge Protectors
         *   Webcams
         *   See all
-    *   Computers &. Servers
+    *   Computers &. Tablets
         *   Desktop Computers
         *   Laptops
         *   Tablets
@@ -406,7 +406,7 @@ Subtotal
     *   Cameras &. Camcorders
     *   Computer Accessories
     *   Computer Parts &. Upgrades
-    *   Computers &. Servers
+    *   Computers &. Tablets
     *   Data Storage &. Media
     *   Headphones &. Speakers
     *   Holiday Gifts
@@ -422,9 +422,11 @@ Subtotal
     
     Current Offers
     
-    New Skull Candy Headphones
+    Buy your Windows 8 PC or Tablet today
     
-    $8.99 8GB USB Flash Drive
+    10% Off When You Buy 3 HP Toners for the Same HP Color LaserJet Printer
+    
+    Save over $100 on Top Brand Name Printers
     
 *   Furniture
     
@@ -479,11 +481,11 @@ Subtotal
     
     Current Offers
     
-    Seating Overstock Blowout!
+    Desks &. Chairs as Low as $99.99
     
-    Save up to $100 on select Chairs
+    Save over 50% on select Desk &. Hutch Bundles
     
-    Get 50% Back in Rewards on select Furniture &. Storage Solutions
+    Give Your Office a Fresh Look!
     
 
 Product Plans &. Leasing Options Page of There are no items in your cart. Previous Next $ Coupon Code: ZIP CODE You have not selected a store or a zipcode yet Your Coupons See all coupons Includes Coupon(s) Qty. Product Price Price With Tax item(s) false true Your Price: Quick View See More Results http://static.www.odcdn.com/images/us/od/lb\_loading.gif Please enter a quantity true true Home Customer Service  >  Privacy Statement Privacy Statement Helpful Links
