@@ -1,4 +1,4 @@
-Close Email A Friend Subject:  
+Breaking news No. 1 Kansas State falls at Baylor Read More Close Email A Friend Subject:  
 (separate multiple email addresses with a semi-colon)  
   
   
@@ -213,14 +213,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
-    *   Pick Nation: CFB Week 12 Picks
-    *   TRUCKS: Tight Finish - Homestead 2012
-    *   Pick Nation: NFL Week 11 picks
-    *   Marvez: GB/DET preview
-    *   Rosenthal: Bold move for Blue Jays
-    *   TRUCKS: Buescher Wins Title - Homestead 2012
-    *   Week 11 NFL Preview
-    *   Lakers scorch Suns
+    *   Pereira: CFB Week 12 call
+    *   Norwich City v Manchester United Premier League Highlights 11/17/12
+    *   Arsenal, Tottenham Analysis
+    *   CFB on FOX: USC/UCLA recap
+    *   CUP: Hamlin, Biffle, and Logano Wreck - Homestead Practice 2012
+    *   CFB on FOX: Oklahoma - WVU recap
+    *   Manchester City v Aston Villa Premier League Highlights 11/17/12
+    *   Arsenal v Tottenham Premier League Highlights 11/17/12
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -506,29 +506,29 @@ If you have questions about this Privacy Policy, please send an email to the app
   
   
 
-*   Rival Wisconsin once again matches Gophers
-*   Wolves' Williams makes strides in setback
-*   NHL might try not talking in search of deal
+*   Gophers' porous defense receives poor grade
+*   Unlikely hero leads Gophers past Wisconsin
+*   Standing up for Guy, Kluwe rips HOF voters
 
 *   VINTAGE: The Unique Iso Varedo
 *   MOTOGP: Rossi, Lorenzo Pay Tribute To Biaggi
 *   CUP: Phoenix Still Has Some ‘New’
 
-*   INSIDE: Sun Devils Q&A
-*   The Matchups: Robert Morris
-*   Scratch off two for this weekend
+*   Temple, Harris run past Army, 63-32
+*   Observations: Arizona vs. Utah
+*   Player Personnel Report: USF Game
 
 *   Martin Kampmann and Johny Hendricks Prepare...
 *   Tom Lawlor: Shock It To Me
 *   GSP: “I’m Always Nervous For My Fights”
 
-*   Inglaterra Liga Premier toda la jornada
-*   Knicks suma su primera derrota
-*   Jorge Vergara desmiente agresión
+*   Herrera agradece revés del América
+*   Matosas clasifica al León
+*   Vettel quiere cerrar el campeonato
 
-*   Premier League: Arsenal vs. Tottenham
-*   Walcott, Sterling in swap speculation
-*   Beckham refutes Australia rumors
+*   Flying Canaries stun Man United
+*   Highlights: Norwich vs. Manchester United
+*   Madrid wins big over Athletic Bilbao
 
 *   Bears CB says he'll skip game for birth
 *   Kidd reacts to Cuban's comments
