@@ -1,6 +1,4 @@
-      Explore Upload Sign in | Sign Up ▾ PhotosVideosUsers
-
-Top Categories Popular Recent Group Albums Competitions Privacy Policy Last revised March 30, 2012
+Privacy Policy Last revised March 30, 2012
 
 Thank you for visiting Photobucket.com (the "Site") and reviewing the Privacy Policy of Photobucket.com, Inc. ("Photobucket" or "we" or "us"). It is important to us that you understand what information we collect when you visit the Site either from a computer or a mobile device and what we may do with that information, so we have laid it all out here for you. This Privacy Policy also covers the collection of data from applications on mobile devices.
 
@@ -74,31 +72,3 @@ you can contact us at:
 *   **Address:** Photobucket.com, Inc. P.O. Box 13003, Denver, CO 80201
 
 View our Terms of Use here
-
-Photobucket is the place to store, create and share photos and videos for life. Upload all your best pictures, images, graphics, icons, and videos and share them by email or link them to your favorite sites like Facebook and Twitter. Personalize your photos by using our photo editor or make slideshows to share with friends. Join our large community by entering competitions or searching our huge photo and video library. Use Photobucket on the Web or on your mobile phone. Sign up today!
-
-Photobucket
-
-*   About us
-*   Blog
-*   Advertise
-*   Careers
-*   Contact us
-
-Support
-
-*   Tools
-*   Mobile
-*   Developers
-*   Help
-
-Downloads
-
-*   Snapbucket
-*   iPhone App
-*   Android App
-*   Windows Phone 7 App
-*   Blackberry App
-*   iPhoto plugin
-
-Follow us on: Copyright 2012 Photobucket Corporation.  All rights reserved.  |   Privacy policy  |   Terms of use  |   Site map Featured On Photobucket
