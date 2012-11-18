@@ -1,5 +1,3 @@
-look up anything, like your city: word of the day dictionary thesaurus names media store add edit blog random A B C D E F G H I J K L M N O P Q R S T U V W X Y Z # new favorites tv
-
 **Privacy Policy**
 
 Urban Dictionary, LLC ("Urban Dictionary", "we" or "us") collects (a) the e-mail addresses of those who communicate with us via e-mail, (b) aggregate information concerning what pages users access or visit, (c) information volunteered by the user (such as survey information and/or site registrations) and (d) information related to your use of the site, including IP address, geographic location and date and time of your request. The information we collect is used to improve the content of our Website and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
@@ -54,10 +52,3 @@ Or by mail at: Urban Dictionary LLC, Attn: Privacy Policy Inquiries, PO Box 7775
 Updated: November 2008
 
 Copyright © 2008 Urban Dictionary, LLC
-
-Urban Dictionary ©1999-2012 terms of service privacy feedback remove advertise chat technology jobs api add via **rss**  
-or **google calendar** add **urban dictionary**  
-on **facebook** search ud  
-from your **phone**  
-or via **txt** **follow urbandictionary**  
-on twitter
