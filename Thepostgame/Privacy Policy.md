@@ -1,32 +1,3 @@
-**Thank you** X **Thank you** X **OK** X **Thank you** X
-
-*   Home
-*   NFL
-*   MLB
-*   NBA
-*   NHL
-*   NCAAF
-*   NCAAB
-*   NASCAR
-*   Golf
-*   UFC
-*   Fantasy
-
-ThePostGame. sunday, november 18, 2012
-
-*   TPG home.
-*   voices.
-*   spotlight.
-*   one-on-one.
-*   life/style.
-*   training day.
-*   high five.
-*   list.
-*   blogs.
-*   play!.
-
-Privacy Policy
-
 WEBSITE PRIVACY POLICY  
 EFFECTIVE DATE: January 1, 2011  
 1\. INTRODUCTION  
@@ -66,18 +37,3 @@ The Site may contain links to other websites. If you choose to visit other websi
 If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us using the contact information provided in Section 1.1 above.  
 6.2. UPDATES AND CHANGES  
 We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
-
-Copyright © 2012 Sports Media Ventures, Inc. All Rights Reserved  
-This website is owned and operated by Sports Media Ventures, Inc.  To learn more about the information that Sports Media Ventures, Inc. collects on this website, and what is done with that information, please click on the Privacy Policy link below.  
-  
-Yahoo! News Network
-
-*   Home
-*   Terms of Use
-*   Privacy Policy
-*   About Us
-*   Contact Us
-*   Advertise with Us
-*   The Ticket Newsletter
-
-follow ThePostGame. facebook twitter X
