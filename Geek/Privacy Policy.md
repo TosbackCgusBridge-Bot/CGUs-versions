@@ -147,11 +147,11 @@ _Changes to the Privacy Policy_ We may change this Privacy Policy from time to t
 
 Latest Ziff Davis News
 
+*   November 12, 2012 j2 Global Acquires Ziff Davis, Inc.
 *   May 14, 2012 Ziff Davis Acquires Leading Tech Media Company
 *   March 26, 2012 PC Magazine Launches iPad Edition
 *   January 3, 2012 Ziff Davis Acquires Toolbox.com
 *   September 16, 2011 PCMag, Geek &. ExtremeTech now available on Pulse
-*   September 6, 2011 PCMag.com Names The Fastest ISPs in the U.S.
 
 See All News Sections
 
