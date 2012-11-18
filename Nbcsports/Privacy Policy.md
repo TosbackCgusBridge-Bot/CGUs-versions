@@ -53,7 +53,7 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     Na Yeon Choi is the only player in the Titleholders field to post all three rounds in the 60s and holds a one-shot lead heading into Sunday.
     
-    Lewis thanks Tseng in POY acceptance speech Dunlop winner Donald returns to world No. 2 Thomson: Woods' Aussie starts didn't help ailing tour You Oughta Know: CME Titleholders Jimenez, 48, sets record with Hong Kong title Yoo penalized for improper drop Palmer shares cover of Tiger Woods video game Q-School, Stage Two: Who's in, who's out Tip of the Week: Eliminating your over-the-top move Ad
+    Lewis thanks Tseng in POY acceptance speech Dunlop winner Donald returns to world No. 2 Whan 'confident' in more LPGA events in 2013 Thomson: Woods' Aussie starts didn't help ailing tour Jimenez, 48, sets record with Hong Kong title Yoo penalized for improper drop Palmer shares cover of Tiger Woods video game Q-School, Stage Two: Who's in, who's out Tip of the Week: Eliminating your over-the-top move Ad
 *   Olympics
     SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Pete Souza / The White House via Getty Images Obama, Maroney 'not impressed' photo spreads fast
     
