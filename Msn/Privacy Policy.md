@@ -514,9 +514,9 @@ If you have questions about this Privacy Policy, please send an email to the app
 *   MOTOGP: Rossi, Lorenzo Pay Tribute To Biaggi
 *   CUP: Phoenix Still Has Some ‘New’
 
-*   Great Atmosphere for Pierschbacher
-*   The Cowboys Quarterback Situation
-*   Inside Cardinal Football: Weekly notebook
+*   Michigan moves to #20
+*   WSU's Choate interviewing for Idaho head job
+*   Recruits react
 
 *   Georges St-Pierre’s Amazing UFC 154 Comeback...
 *   Dana White: “I’m Going To Make GSP/Anderson...
@@ -524,11 +524,11 @@ If you have questions about this Privacy Policy, please send an email to the app
 
 *   Jornada NFL 18 de noviembre
 *   Toluca vs Chivas: por boleto a semis
-*   Inglaterra Liga Premier toda la jornada
+*   Jornada liga BBVA
 
 *   Sunderland ends league losing streak
-*   Ferguson: Ronaldo is now unbuyable
-*   Inter lose ground on league leaders
+*   Stephane Sessegnon stuns Fulham with screamer
+*   La Liga: Granada vs Atletico Madrid
 
 *   Bears CB says he'll skip game for birth
 *   Kidd reacts to Cuban's comments
