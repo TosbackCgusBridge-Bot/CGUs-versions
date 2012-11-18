@@ -1,4 +1,4 @@
-TigerDirect.com Live Help or (800) 800-8300
+TigerDirect.com **Shop by Phone:** (800) 800-8300
 
 *   Store Locator
 *   Daily Deal
@@ -14,7 +14,6 @@ Search
     *   Rebate Center
     *   Wish Lists
     *   Contact Us
-    *   Live Help
 
   
 0 **Shopping Cart:** $0.00 Hello Sign in or New Customer
@@ -299,7 +298,7 @@ Sign up
 
 Since its debut in 1987, the TigerDirect catalog delivers the hottest deals in computers and electronics to your front door. Sign me up for the catalog
 
-**Priority code is:**WEB1211 Share &. Connect Like us on Facebook Follow us on Twitter Join us on Google + Email a Friend Deal Alerts via Need help? We're available at 1-800-800-8300 or Live Help
+**Priority code is:**WEB1211 Share &. Connect Like us on Facebook Follow us on Twitter Join us on Google + Email a Friend Deal Alerts via Need help? We're available at 1-800-800-8300 or Live Help Unavailable
 
 Copyright © 2012 TigerDirect, Inc. All rights reserved. 7795 West Flagler St., Suite 35, Miami, FL 33144
 
@@ -328,5 +327,7 @@ Click here to See important Oklahoma sales tax information regarding the tax you
 † Where this symbol appears, it means the product has been factory recertified.
 
 †† Coupons cannot be combined with any other coupon, offer, sale or discount. Coupons are not applicable to prior orders. Coupons are subject to change without notice. One coupon redeemable per item per customer. Not redeemable for cash. Limited to stock on hand. (ANY OTHER USE CONSTITUTES FRAUD)
+
+\*\*FREE SHIPPING applies to orders with a product total of $100 or more via Econoship delivery to residential addresses only in the 48 continental United States. Oversized orders that require delivery by truck do not qualify. Expedited delivery services are also available. For estimated delivery dates and options please enter your shipping address in checkout. B2B orders do not qualify. Econoship not available via Google Checkout.
 
 TigerDirect and TigerDirect.com are registered trademarks of TigerDirect, Inc. All others trademarks and copyrights mentioned herein are the property of their respective owners. CompUSA and CompUSA.com are registered trademarks of New CompUSA Corp. Used by permission. Some images used herein were obtained from Jupiterimages Corporation. ©2008 Jupiterimages Corporation.
