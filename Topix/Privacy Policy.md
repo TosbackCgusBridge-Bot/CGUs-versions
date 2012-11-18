@@ -10,13 +10,13 @@ Sign In
 
 1 2 3
 
-Iran
+Egypt
 
-Car bomb kills 7 in Iraq, including 3 Iranian pilgrims visitin...
+Egypt's new Coptic pope, Tawadros II, enthroned in Cairo ceremony
 
-Davis Cup
+Notre Dame
 
-Berdych, Stepanek to Take on Top Spanish Duo in Davis Cup
+Stanford 17, Oregon 14: Notre Dame on Verge of Top Ranking Aft...
 
 Politix
 
@@ -190,7 +190,7 @@ Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. If you have additional questions, feel free to **contact us**.
 
- 
+  Ads by Glam
 
 San Antonio, TX
 
@@ -279,7 +279,7 @@ Topix Politix »
 
 Feedback?
 
-Comments made yesterday: 102,695 • Total comments across all topics: 191,364,869
+Comments made yesterday: 97,318 • Total comments across all topics: 191,435,474
 
 Copyright ©2012 Topix LLC
 
