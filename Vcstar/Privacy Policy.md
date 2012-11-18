@@ -615,10 +615,10 @@ Featured Promotions
 *   Experts
 *   Coupons
 
-Videos On Campus: Donnie's Last Day Donnie Rea is retiring after 50 years ...
+Videos Potent drug ravages communities, families Methamphetamine has touched many lives
 
-*   On Campus: Donnie's Last Day Sugartown growing a group of ... Cal Lutheran celebrates SCIAC win On Campus: West County Playoff ...
-*   Releasing a hawk Excited about casting votes
+*   Potent drug ravages communities, families On Campus: Highlights - St. ... On Campus: Donnie's Last Day Sugartown growing a group of ...
+*   Cal Lutheran celebrates SCIAC win On Campus: West County Playoff ... Releasing a hawk
 
   
 
@@ -631,25 +631,25 @@ Most Popular
 *   Commented
 *   Emailed
 
-*   Ventura County jobless rate drops to 8.6% Published 11/16/2012 at 9:56 a.m. 49 comments
-*   No more Twinkies, no more Ding Dongs: Hostess is closing for good Published 11/16/2012 at 5:08 a.m.
-*   Top California pollster says 2012 election could be a turning point Updated 11/15/2012 at 5:38 p.m. 67 comments
-*   Islamic Center is seeking to move to RiverPark area Published 11/16/2012 at 6:38 p.m. 14 comments
-*   Skull, jawbone in Oxnard trash bin may be just old religious shrine Updated 11/16/2012 at 12:47 a.m.
+*   Islamic Center is seeking to move to RiverPark area Published 11/16/2012 at 6:38 p.m. 60 comments
+*   Ventura County jobless rate drops to 8.6% Published 11/16/2012 at 9:56 a.m. 58 comments
+*   Meth mayhem Published 11/17/2012 at 7:30 p.m. 1 comment
+*   Oxnard council race tightens to 29 votes Updated 11/16/2012 at 6:52 p.m. 13 comments
+*   Oxnard highway interchange is bare but finished Published 11/17/2012 at 4:05 p.m. 6 comments
 
-Photo Galleries Ventura County's Most Wanted November… Found in Oxnard, skull, jawbone may… Oxnard high schools want to limit…
+Photo Galleries Ventura County's Most Wanted November… Adoption day arrives for 15 children Nordhoff vs. Whittier Christian
 
-*   California budget deficit shrinks to $1.9B with taxes Updated // at : 88 comments
-*   Top California pollster says 2012 election could be a turning point Updated 11/15/2012 at 5:38 p.m. 67 comments
-*   Editorial: Obama comes out fighting at a rare session Updated // at : 66 comments
-*   In Conejo visit, former Mexican president calls for immigration overhaul Updated 11/14/2012 at 5:32 p.m. 49 comments
-*   Company that owns Brooks Institute closing some campuses Updated 11/14/2012 at 7:12 p.m. 48 comments
+*   Top California pollster says 2012 election could be a turning point Published 11/15/2012 at 4:11 p.m. 71 comments
+*   Islamic Center is seeking to move to RiverPark area Published 11/16/2012 at 6:38 p.m. 60 comments
+*   Ventura County jobless rate drops to 8.6% Published 11/16/2012 at 9:56 a.m. 58 comments
+*   Editorial: Obama comes out fighting at a rare session Published 11/14/2012 at 3:23 p.m. 66 comments
+*   Morning chat Published 11/16/2012 at 12:00 a.m. 43 comments
 
-*   Authorities warn of "knock knock" burglaries in east Ventura County Updated 11/8/2012 at 2:04 p.m. 0 comments
-*   Spearmint Rhino exotic dancers settle suit for nearly $13 million Updated 11/13/2012 at 8:22 p.m. 0 comments
-*   Shirley: Medical device tax will impact jobs and costs Updated // at : 0 comments
-*   Skull, jawbone in Oxnard trash bin may be just old religious shrine Updated 11/16/2012 at 12:47 a.m. 0 comments
-*   18-year-old accused of setting family's basset hound on fire near Camarillo Updated 11/9/2012 at 11:01 p.m. 0 comments
+*   Authorities warn of "knock knock" burglaries in east Ventura County Published 11/8/2012 at 12:11 p.m. 0 comments
+*   Spearmint Rhino exotic dancers settle suit for nearly $13 million Published 11/13/2012 at 5:59 p.m. 0 comments
+*   Shirley: Medical device tax will impact jobs and costs Published 10/27/2012 at 3:00 p.m. 0 comments
+*   Skull, jawbone in Oxnard trash bin may be just old religious shrine Published 11/15/2012 at 11:40 a.m. 0 comments
+*   18-year-old accused of setting family's basset hound on fire near Camarillo Published 11/9/2012 at 10:13 a.m. 0 comments
 
 Weather
 
@@ -657,25 +657,25 @@ Weather
 *   36-Hour
 *   Your Photos
 
-Currently 60° Light Rain Fog/Mist Wind: NE 7mph Today 63° 55° Sat 07:00 PM Mostly Cloudy Showers Temp: 59° Sun 07:00 AM Partly Sunny Showers Temp: 55° Sun 07:00 PM Partly Cloudy Temp: 55°
+Currently 61° Overcast Wind: Calm Today 60° 55° Sun 01:00 PM Partly Sunny Temp: 60° Mon 01:00 AM Partly Cloudy Temp: 51° Mon 01:00 PM Partly Sunny Temp: 64°
 
-Feels Like: 59°
+Feels Like: 60°
 
-Humidity: 93%
+Humidity: 80%
 
-Precip: 45%
+Precip: 16%
 
-Feels Like: 55°
+Feels Like: 51°
 
-Humidity: 93%
+Humidity: 100%
 
-Precip: 24%
+Precip: 9%
 
-Feels Like: 55°
+Feels Like: 64°
 
-Humidity: 90%
+Humidity: 67%
 
-Precip: 10%
+Precip: 5%
 
 Reader Snapshots 10/12/12  
 1:45 a.m.  
@@ -706,8 +706,8 @@ Follow @vcstar 95 percent accurate\*
 
 Brian Dennert here
 
+*   What are the best blogs covering Santa Clarita blogs?
 *   The Kite Runner is not getting banned
-*   Community College Board results: Ash Givargis and Bernardo Perez
 
 Ingemusings
 
@@ -721,18 +721,10 @@ More bloggers Wire
 
 Calendar
 
-*   Saturday Nov 17
 *   Sunday Nov 18
 *   Monday Nov 19
+*   Tuesday Nov 20
 *   More BROWSE Icon
-
-*   American Diabetes Association Tour De Cure Santa Barbara City College 7 a.m.
-*   CI to host 2012 Southern California Conferences for Undergraduate Research CSUCI California State University 8 a.m.
-*   Channel Islands PC User Group (CIPCUG) November meeting Boys' &. Girl' Club of Camarillo 8:30 a.m.
-*   Olive Picking Day Santa Inés Mission Mills, 2010 Mission Drive, Solvang 9 a.m.
-*   Dealing with Depression Mahakankala Buddhist Center 9 a.m.
-
-More Events »
 
 *   Toys for Tots Toy Drive Glenwood Elementary School 8 a.m.
 *   The Oxnard Gem &. Mineral Show - "Opal - Catch The Rainbow" Oxnard Performing Arts and Convention Center 10 a.m.
@@ -747,6 +739,14 @@ More Events »
 *   Free Movie Matinee at the Library Grant R. Brimhall Library 1 p.m.
 *   Politics and Economics Round Table Pizza - Camarillo 7 p.m.
 *   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
+
+More Events »
+
+*   "Alzheimer's Seminar at The Bonaventure" The Bonaventure 9:30 a.m.
+*   Work by Michael Zelcer and Andy Lakey Gallery 28 at Seabridge
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 10 a.m.
+*   Free, Ongoing Mental Health Recovery Classes Ventura County Behavioral Health Clinic - Thousand Oaks 2 p.m.
+*   Leads Club - Networking Meeting Pirates Grub 'n' Grog Restaurant &. Sports Bar 12:30 p.m.
 
 More Events »
 
