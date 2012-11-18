@@ -1,5 +1,3 @@
-HOME | WSHH HONEYS | MOBILE | RSS | TWITTER | FACEBOOK | CONTACT | Latest Updated Videos Lil Reese - Walter Payton Feezy Fee - Money Money Money (Chambers Brothers) \[Detroit Indie Artist Submitted\] Neff (Feat. Prodigy) - The Storm \[VIP AAE Media Group Label Submitted\] Markwhittentv.com: Mark Whitten Teaches 3 Days House Flipping Seminar In Baltimore / DC Area On Nov 30-Dec 2 \[Infomercial\]\[User Submitted\]
-
 PRIVACY POLICY
 
 Last modified: July 1, 2011
@@ -37,7 +35,3 @@ WSHH also reserves the right to, but is not obligated to, refuse to disclose con
   
 
 **Information Our Advertising Partners Automatically Collect**: We use third party advertisements to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  WSHH has no control over these ad providers' practices and you should review their privacy policies and steps for managing cookies.
-
-  
-
-Privacy | Terms | DMCA | Video Agreement | dedicated server Provided by Hivelocity
