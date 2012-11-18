@@ -125,7 +125,6 @@ DATING DIRECTORY
     *   Blog with Lisa
     *   Contact
     *   Facebook
-    *   Keywords
     *   New Sites
     *   Newsletter
     *   Privacy
@@ -137,7 +136,7 @@ DATING DIRECTORY
     *   Top Referrers
     *   Twitter
 
-Facebook   Twitter   StumbleUpon   Pinterest   Contact   Contact   RSS Directory >. Privacy Policy Privacy Policy
+Facebook   Twitter   StumbleUpon   Pinterest   RSS   Contact   Contact   RSS Directory >. Privacy Policy Privacy Policy
 
 Privacy Policy Overview
 
