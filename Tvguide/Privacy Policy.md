@@ -71,11 +71,11 @@ Sign In Sign Out New User Sign Up Profile Management
 
 What's Hot
 
-_Twilight_
+Foiled _Twilight_ Theater Attack
 
 Are You Football's Biggest Fan?
 
-This Weekend's Football
+NFL Schedule
 
 Everyone Is Posing Nude!
 
@@ -139,8 +139,8 @@ more popular movies Top Videos
 
 1.  Arrow
 2.  Exclusive Arrow First Look: Ol...
-3.  Supernatural
-4.  Hart of Dixie
+3.  Hart of Dixie
+4.  Supernatural
 5.  Exclusive: Watch a Deleted Sce...
 
 more top videos
