@@ -695,9 +695,9 @@ contactos Telemundo TV Ahora
     
     Con aplicaciones eróticas para tu celular  
     
-*   Gaby Espectacular
+*   Parejas explosivas
     
-    ¡A su salud! Belleza y sensualidad
+    Amores sexy que se llevaron a la vida real
     
 *   Camino de Miss El Salvador
     
