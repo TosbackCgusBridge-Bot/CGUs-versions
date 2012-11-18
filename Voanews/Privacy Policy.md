@@ -1,39 +1,4 @@
-**VOA**Sites by Language **Top Stories:**
-
-*   Sierra Leone Hold Elections
-*   Gaza Fighting Flares Again
-
-*   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
-*   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
-*   Eurasia Հայերենamerikayidzayn.com Azerbaijaniamerikaninsesi.org ქართულიamerikiskhma.com Русскийgolos-ameriki.ru
-*   Central Asia O‘zbekamerikaovozi.com
-
-*   East &. Southeast Asia Burmeseburmese.voanews.com 粵語voacantonese.com 中文voachinese.com Bahasa Indonesiavoaindonesia.com ខ្មែរkhmer.voanews.com Khmervoacambodia.com 한국어voakorea.com ລາວlao.voanews.com ไทยvoathai.com བོད་ཡིགvoatibetan.com Tibetanvoatibetanenglish.com Tiếng Việtvoatiengviet.com
-*   South Asia বাংলাvoabangla.com دریdarivoa.com پښتوpashtovoa.com وی او اې ډيوه ريډیوvoadeewaradio.com اردوurduvoa.com
-
-*   Africa Afan Oromovoaafaanoromoo.com አማርኛamharic.voanews.com Françaislavoixdelamerique.com Hausavoahausa.com Kinyarwandaradiyoyacuvoa.com Kirundiradiyoyacuvoa.com Ndebelevoandebele.com Portuguêsvoaportugues.com Shonavoashona.com Soomaaligavoasomali.com Kiswahilivoaswahili.com ትግርኛtigrigna.voanews.com Zimbabwevoazimbabwe.com
-*   Middle East / North Africa فارسیir.voanews.com كوردیdengiamerika.com Kurdidengeamerika.com Türkçeamerikaninsesi.com
-*   Latin America Creolevoanouvel.com Españolvoanoticias.com
-
-VOA
-
-*   Log in
-*   Sign up
-*   Log out
-
-*   Home
-*   USA
-*   Africa
-*   Asia
-*   Mideast
-*   Europe
-*   Science &. Tech
-*   Health
-*   Entertainment
-*   Economy
-*   Programs
-
-**Audio menu** **Live streams** Africa Live Global Live Music Mix Latest Newscast Terms of Use/Privacy Policy Terms of Use and Privacy Notice
+Terms of Use/Privacy Policy Terms of Use and Privacy Notice
 
 **Privacy Statement**
 
@@ -115,44 +80,4 @@ Voice of America Copyright Agent
 330 Independence Ave, SW  
 Suite 3349  
 Washington, D.C. 20237  
-United States of America  
-  
-  
-
-Services: PodcastRSSMail SubscriptionMobile VOAnews.com
-
-*   USA
-*   Africa
-*   Asia
-*   Mideast
-*   Europe
-*   Americas
-
-*   Science &. Technology
-*   Health
-*   Arts &. Entertainment
-*   Business &. Economy
-*   Blogs
-*   Video
-*   Editorials
-
-About VOA
-
-*   Media Relations
-*   Contact Us
-*   Job Opportunities
-*   Terms of Use/Privacy Policy
-*   Our Languages
-
-Our Partners
-
-*   RFE/RL
-*   Radio Free Asia
-*   MBN
-*   Radio Marti
-
-Our Broadcasts
-
-*   Frequencies and Schedules
-*   Pronunciation Guide
-*   Broadcast Programs
+United States of America
