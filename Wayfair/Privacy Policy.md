@@ -1,9 +1,3 @@
-My Account Sign In Track My Order Create Account Wayfair Trade Program Wayfair Rewards Registry Baby RegistryWedding RegistryWish Lists Contact Us 0
-
-Try searching for:&nbspChristmas Decor, Coffee Maker, TV Stand, Dog Bed
-
-FurnitureDécorLightingKitchenBed &. BathOutdoorRenovationBaby &. KidsGiftsSaleMore...
-
 General Information Privacy Policy At Wayfair LLC, we protect your personal information. Wayfair owns information collected on this site and will never sell or rent this information. We will not share it in ways different from what is described in this statement unless you authorize us to do so. **Cookies and IP Addresses**  
 Wayfair is firmly committed to our customers' privacy. Like many sites, we use your IP address to help diagnose problems with our server and provide a better web experience. Your IP address is used to help identify you and your shopping cart and gather general demographic information. We use cookies to keep track of your shopping cart and for other purposes like personalizing the site. Cookies are a small piece of information stored by your internet browser to your computer's hard drive. Your browser is usually set up to initially accept cookies. If you set your browser to reject cookies, the site will not be able to recognize your cart, your account, or any personalization. We do not and cannot use cookies to gather your confidential information that may be stored on your hard drive. Wayfair also uses web beacons as a means to deliver us cookies in order to determine whether and how many times our web pages have been browsed. Third Party advertisers also help us display tailored content to our customers and serve ads on our behalf. These advertisers may also utilize cookies and/or web beacons to measure effectiveness, efficiencies, etc. of the sites. **External Links**  
 This site contains links to other websites. Wayfair is not responsible for the privacy practices or the content of other sites. **Your Personal Information**  
@@ -123,20 +117,4 @@ By Mail: Wayfair
 Boston, MA   02115  
   
 
-For media inquiries: If you are a member of the media and have questions about the company or would like to feature us in your publication, please email us at PR@Wayfair.com and we will respond to your request immediately. Back To Top My Account
-
-*   View Orders
-*   Personal Account Info
-*   Address Book
-*   Manage Credit Cards
-*   Email Preferences
-*   View Quotes
-*   Review Your Purchases
-*   How to Use My Account
-
-Need Help? Visit our Help Center Friends? Friends. The fun continues. Join us for design tips, contests, sneak peeks, and more.
-
-About WayfairAbout UsNews CenterCharityPartner With UsCareers My Account Sign in/Register Track Your Order Email Preferences Contact Us Info &. Policies Ordering Information Privacy Policy Secure Shopping Shipping Policy 30-Day Return Policy Our Guarantee Orders to Canada Shop Easy Sales &. PromotionsClearance Center Customer Service Request Bulk Pricing Trade Program Refer a Friend Return Center Gift Giving Wish Lists Baby Registry Wedding Registry Gift Certificates Gift Returns     
-
-877-WAYFAIR (929-3247) | Mon-Fri 8-9, Sat &. Sun 9-6 EST Copyright 2002 - 2012 by Wayfair LLC. All rights reserved. Wayfair LLC, 177 Huntington Avenue, Suite 6000, Boston, MA  02115 | Terms of Use | Site Map  
-International: Canada | United Kingdom | Germany | Australia, More from Wayfair, formerly CSN Stores: AllModern | Wayfair Supply | Joss &. Main Your Customer Reference #: 01-X-CSN ServerT:0.1763231754303 94
+For media inquiries: If you are a member of the media and have questions about the company or would like to feature us in your publication, please email us at PR@Wayfair.com and we will respond to your request immediately.
