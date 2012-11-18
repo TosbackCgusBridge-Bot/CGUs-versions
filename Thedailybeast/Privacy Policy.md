@@ -145,38 +145,38 @@ Stories We Like
 
   Most Popular
 
-1.  Wake the Hell Up, Republicans!
-2.  The GOP Blame Game
-3.  The Week’s Best Reads
-4.  Grover Norquist Won’t Back Down
-5.  The Week in Viral Videos
+1.  GOP’s Phony New Compassion
+2.  The Fall of a General
+3.  Wake the Hell Up, Republicans!
+4.  The GOP Blame Game
+5.  Bibi: No Ground War...Yet
 
   Other News Entertainment
 
 *   Fall Fashion Face-Off
+*   Justin Bieber and Selena Gomez have 'epic' date night fight
 *   Year in Photos 2012
-*   Year in Review: The biggest hookups and breakups of 2012
 *   **Get More from Wonderwall**
 
 Entertainment
 
-*   Is ‘Skyfall’ basically James Bond meets ‘Home Alone?’
+*   Jeremy Renner hosts tonight’s ‘Saturday Night Live’: Talk about it here!
+*   Is ‘Skyfall’ basically James Bond meets ‘Home Alone’?
 *   This Week on Stage: Porn stars, Dickens, and Kathie Lee Gifford invade Broadway
-*   ‘Call of Duty: Black Ops 2′ review — A surprisingly refreshing return to the front-lines
 *   **Get More from EW.com**
 
 Entertainment
 
-*   The Embarrassing Page That Reveals Who Your Twitter Crush Is
-*   11 Kinds Of Lady Gaga Haters
-*   Israel Defense Forces Social Media Head Defends Tweets
+*   Romney Campaign Still Asking People To Go Vote
+*   Susan Sarandon Was Once Shocked By "Playboy"
+*   White House Denies Editing Benghazi Talking Points To Remove Al Qaeda Reference
 *   **Get More from Buzz Feed**
 
 Politics
 
-*   Quote of the Day
-*   Gingrich Lacerates Romney Over Why He Lost
-*   Priebus Says He's Locked Down Support for Second Term
+*   The Six Week Congressman
+*   Extra Bonus Quote of the Day
+*   The Patriarch
 *   **Get More from Political Wire**
 
 The Daily Beast
