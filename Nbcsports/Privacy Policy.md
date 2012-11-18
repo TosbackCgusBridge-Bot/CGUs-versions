@@ -1,17 +1,17 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: NTSB: Warnings flashed before train hit vets
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Major investors to fiscal cliff doomsayers: Chill out
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Jim Rogash / Getty Images Luck to get dose of reality
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Getty Images file Who'll win most heated rivalry?
     
-    PFT's picks: Patriots will beat surprising Colts and 49ers will handle Bears, but what about Ravens-Steelers?
+    Bedard: How Ravens and Steelers can beat each other on Sunday Night Football (8 p.m. ET on NBC).
     
-    PFT: Steelers are confident in Leftwich's abilities PFT: Patriots say goodbye to Branch PFT: Cutler won't play Monday vs. 49ers PFT: 49ers' Harbaugh says he's 'fine' PFT: Vick still 'very foggy' after suffering concussion PFT: Ditka says he feels good after stroke PFT: Man ejected from Bills game found dead PFT: NFL docks ref a game's pay for swearing Ad
+    PFT: Steelers RB Mendenhall to start tonight PFT: Docs think Big Ben will miss three weeks Live scoreboard from Sunday's NFL games PFT's picks: Brady will give Luck dose of reality PFT: Arians on Luck: 'Guys are coming for his head' Rotoworld: Week 11 fantasy rankings PFT: Patriots say goodbye to Branch PFT: Cutler won't play Monday vs. 49ers Ad
 *   MLB
     SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Reuters (2) Cabrera or Trout? Answer is yes
     
     DeMarco: Miguel Cabrera is the right choice for AL MVP. But Mike Trout would have been, too. There isn't a wrong answer here. Just two of the most amazing individual seasons we've ever seen, in divergent ways.
     
-    HBT: Riggleman, Tracy finalists for Jays manager? HBT: Marlins sign free agent OF Juan Pierre HBT: Marlins broke promises to Reyes, Buehrle HBT: Stanton still steamed over Marlins trade HBT: Trout, baseball's best player, is denied Cabrera beats Trout for AL MVP HBT: Posey is NL's Most Valuable Player HBT: Jays sign Melky Cabrera to 2-year deal Ad
+    DeMarco: Jays suddenly very relevant again HBT: Jays sign Melky Cabrera to 2-year deal HBT: Riggleman, Tracy finalists for Jays manager? HBT: Marlins sign free agent OF Juan Pierre HBT: Marlins broke promises to Reyes, Buehrle HBT: Stanton still steamed over Marlins trade HBT: Trout, baseball's best player, is denied Cabrera beats Trout for AL MVP Ad
 *   NHL
     SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Paul Connors / AP Gretzky says all is not lost
     
@@ -25,11 +25,11 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     Spurs lay season-high 126 on Nuggets Mayo leads Mavericks over Cavaliers Grifin leads Clippers' rout of Bulls Heat's Bosh, James put hurt on Suns Bucks hold off Hornets, improve to 6-2 PBT: Grizzlies beat Knicks, claim NBA's best record Lakers go up-tempo pre-D'Antoni, scorch Suns PBT: Bynum has problems with both knees Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Steve Dykes / Getty Images Stanford shoots down Ducks
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Kevin C. Cox / Getty Images That was fast — 'Bama's back
     
-    No. 14 Stanford put the brakes on No. 1 Oregon's seemingly unstoppable offense, then scored in overtime after the Ducks couldn't to win 17-14.
+    CFT's Fifth Quarter: One week ago, it appeared the SEC's streak of six BCS titles was over. Now? The SEC is right back in one of the two title-game driver's seats.
     
-    Baylor destroys No. 2 Kansas State Notre Dame Central: No. 3 Irish rout Wake Forest No. 6 Buckeyes remain perfect No. 17 UCLA, not USC, wins Pac-12 South No. 13 Oklahoma tops West Virginia in shootout Oklahoma St. demolishes No. 23 Texas Tech No. 15 Oregon St. annihilates Cal No. 23 Mich. playing at its best as OSU awaits Ad
+    CFT: Notre Dame, Alabama 1-2 in AP, coaches' CFT: Tennessee fires Dooley after three seasons No. 14 Stanford stuns No. 1 Oregon in OT Baylor destroys No. 2 K-State's BCS title hopes ND Central: Irish 1 win from title-game shot Heisman Hopefuls: It's Manziel's to lose No. 6 Buckeyes remain perfect No. 17 UCLA, not USC, wins Pac-12 South Ad
 *   NCAA HOOPS
     SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Stephen Dunn / Getty Images Muhammad cleared to play
     
@@ -37,23 +37,23 @@ Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com:
     
     No. 20 Notre Dame gets back on track with win over BYU No. 25 San Diego St. too much for Missouri St. Majerus will not return to coach Saint Louis No. 1 Lady Bears' 42-game winning streak ends BCA gives 'A' to 9 schools filling hoops jobs Four Hall of Famers receive Lapchick Award Indiana expects another top recruiting class CBT: Memphis' monster class coming together Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Tom Pennington / Getty Images Ready for the finale
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Todd Warshaw / Getty Images Penske closes on 1st NASCAR title
     
-    Joey Logano won pole position Friday for NASCAR's Sprint Cup Series finale at Homestead-Miami Speedway, with championship contenders Brad Keselowski (shown) and Jimmie Johnson close behind.
+    It had been a humbling 24 hours of championship racing for Roger Penske when he settled in for the plane ride back to Detroit.
     
-    Keselowski will start finale from front of field France says no mixed message on Keselowski fine Johnson turns heat on Keselowski Penske material: Keselowski has Captain near title Stenhouse Jr. wins 2nd straight Nationwide title Vettel wins pole position at US Grand Prix Hamilton aiming for another US win in F1 Sunday's F1 race weird enough for Austin, Texas? Ad
+    Keselowski will start finale from front of field Logano on pole, Keselowski, Johnson close behind Jimmie Johnson turns heat up on Brad Keselowski Stenhouse Jr. wins 2nd straight Nationwide title Red carpet, choppers champagne greet Formula One in Texas Mexican fans flock to Texas to cheer on Perez Lewis Hamilton aiming for another US win in F1 Vettel wins pole position at US Grand Prix Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Stephen Dunn / Getty Images Can D.C. or Seattle make MLS Cup?
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Mike Blake / Reuters Last game for Beckham-Donovan?
     
-    PST: D.C. United and the Seattle Sounders find themselves down two goals and three goals, respectively, in their quests to get to MLS Cup. That’s not good. Not good at all.
+    PST: Each time these two step on the field now, we could be witnessing the final 90 minutes of their six shared years with the Galaxy.
     
-    PST: Sounders still have real chance against Galaxy PST: United has hill to climb against Dynamo Arsenal comes from behind to beat Tottenham 5-2 Man City beats Aston Villa 5-0 in Premier League West Brom beats Chelsea 2-1 in Premier League Swansea beats Newcastle 2-1 in Premier League Liverpool beats Wigan 3-0 in Premier League Southampton beats fellow struggler QPR 3-1 in EPL Ad
+    PST: Can D.C. or Seattle make MLS Cup? PST: Sounders still have real chance against Galaxy PST: United has hill to climb against Dynamo Sunderland beats 10-man Fulham 3-1 in EPL Arsenal comes from behind to beat Tottenham 5-2 Man City beats Aston Villa 5-0 in Premier League West Brom beats Chelsea 2-1 in Premier League Swansea beats Newcastle 2-1 in Premier League Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Winning Titleholders will be major task
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Choi leads Titleholders by one over Miyazato
     
-    Na Yeon Choi's closest pursuer in the Titleholders is Ai Miyazato, but there's also a host of major champions breathing down their necks.
+    Na Yeon Choi is the only player in the Titleholders field to post all three rounds in the 60s and holds a one-shot lead heading into Sunday.
     
-    Choi leads Titleholders by one over Miyazato Lewis thanks Tseng in POY acceptance speech Ladies drive away with Kias, performance awards You Oughta Know: CME Titleholders Jimenez could become oldest to win on European Tour Yoo penalized for improper drop Westwood splits with caddie Foster, coach Johnstone Palmer shares cover of Tiger Woods video game Q-School, Stage Two: Who's in, who's out Tip of the Week: Eliminating your over-the-top move Ad
+    Lewis thanks Tseng in POY acceptance speech Dunlop winner Donald returns to world No. 2 Thomson: Woods' Aussie starts didn't help ailing tour You Oughta Know: CME Titleholders Jimenez, 48, sets record with Hong Kong title Yoo penalized for improper drop Palmer shares cover of Tiger Woods video game Q-School, Stage Two: Who's in, who's out Tip of the Week: Eliminating your over-the-top move Ad
 *   Olympics
     SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Pete Souza / The White House via Getty Images Obama, Maroney 'not impressed' photo spreads fast
     
