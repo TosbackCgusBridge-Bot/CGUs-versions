@@ -212,11 +212,11 @@ Defense &. Homeland Security | Energy &. Environment | Healthcare | Finance &. E
 
 Most Viewed
 
-Gallup: Obama favorability jumps to 3-year highSen. Paul filibusters defense bill Republican governors reject healthcare law's exchanges in Ohio, WisconsinAdditional litigation possible in West-Murphy congressional raceGOP Rep. Bilbray concedes his race
+Reid and Boehner split over timing for deficit-reduction agreementFive questions after Petraeus hearingsClinton critic, Biden staffer among rumored replacements for Susan RiceRepublicans look to oust FrankenDemocrat Ron Barber wins Gabby Giffords's seat in Arizona
 
 Emailed
 
-Ron Paul says farewell, Elizabeth Warren says hello, Mitt Romney says drop deadHouse Dem leaders avoid specifying tax rates for top earnersReid and Boehner split over timing for deficit-reduction dealSenate Republicans’ election lesson is to work on fielding better candidatesLeaders call 'fiscal cliff' meeting 'constructive'
+Reid and Boehner split over timing for deficit-reduction agreementSenate Republicans’ election lesson is to work on fielding better candidatesPetraeus: Lessons learnedFive questions after Petraeus hearingsSusan Rice: Qualified to be secretary of State
 
 Discussed
 
@@ -224,9 +224,9 @@ Dear Matt Drudge: Stop the race storiesMurray: Can't guarantee 2014 budgetChicag
 
 Home/News » Most Viewed RSS Feed » Briefing Room
 
+*   House Republicans question EPA over secret email accounts
 *   DAY'S END ROUNDUP
 *   Priebus to stay on as RNC chairman
-*   Gallup: Obama favorability jumps to 3-year high
 
   
 More Briefing Room » Congress Blog
@@ -252,9 +252,9 @@ More Pundits Blog » Twitter Room
   
 More Twitter Room » Hillicon Valley
 
+*   House Democrat enlists Reddit in pushback against website seizures
 *   Democrats troubled by Verizon's free speech argument in net-neutrality case
 *   Justice Department sues eBay over agreement not to hire Intuit employees
-*   Songwriters oppose Pandora-backed Internet royalty bill
 
   
 More Hillicon Valley » E2\-Wire (Energy)
@@ -266,9 +266,9 @@ More Hillicon Valley » E2\-Wire (Energy)
   
 More E2\-Wire (Energy) » Ballot Box
 
+*   Rep. West wins legal challenge
+*   Democrat Ron Barber wins Gabby Giffords's seat in Arizona
 *   Additional litigation possible in West-Murphy congressional race
-*   Desjarlais scandal hurts his 2014 bid
-*   Rep. DesJarlais has no plans to resign
 
   
 More Ballot Box » On The Money
@@ -301,16 +301,16 @@ More Floor Action » Transportation
   
 More Transportation » DEFCON Hill
 
+*   Five questions after Petraeus hearings
 *   Petraeus sneaks past press in visit to Capitol
 *   Petraeus tells lawmakers CIA always saw Benghazi as terrorism
-*   OVERNIGHT DEFENSE: Petraeus comes to Capitol Hill
 
   
 More DEFCON Hill » Global Affairs
 
-*   House Republicans blame Obama for terror suspect's release
-*   Rep. Sherman abandons bid for foreign affairs leadership post amid backlash
-*   McCain to Obama: Take action against Iraq for terror suspect release
+*   White House adviser: 'Israel has a right to defend itself '
+*   Obama departs on historic Asia trip
+*   Clinton critic, Biden staffer among rumored replacements for Susan Rice
 
   
 More Global Affairs » Blogs News Feed COLUMNISTS A.B. Stoddard Rice a risky pick Brent Budowsky Petraeus: Lessons learned More Columnists »
