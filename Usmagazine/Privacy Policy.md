@@ -156,13 +156,13 @@ Advertisement
 
 ADVERTISEMENT
 
-Hot Pics! Hilty Says Hello! »
+Hot Pics! Katy's a Dream »
 
-Top Stories1.  Jessica Simpson Films Weight Watchers Ad, Shows Off Super Skinny Bod »
-2.  OMG! Jennifer Aniston Copies Brenda and Kelly's Spring Dance Dress »
-3.  Kristen Stewart Flashes Major Leg at Berlin Breaking Dawn Screening »
-4.  Peter Facinelli Debuts New Girlfriend at Twilight Bash in NYC »
-5.  Lady Gaga Flaunts Sideboob in Sexy Leotard Top Paired With Mom Jeans »
+Top Stories1.  Selena, Justin Have Massive Fight During Dinner Date »
+2.  Taylor Swift Wrote "All Too Well" About Ex Jake Gyllenhaal »
+3.  Jennifer Esposito on Blue Bloods Dismissal: "It Makes Me Sick" »
+4.  Jessica Simpson Films Weight Watchers Ad, Shows Off Super Skinny Bod »
+5.  America's Next Top Model: Laura James Wins! »
 
  
 
@@ -177,9 +177,9 @@ Inside Us Weekly
 
 *   Style Kristen Stewart Flashes Major Leg at Berlin B
 *   Beauty Janelle Monae: What's in My Bag?
-*   Moms Nick Cannon: I Change Diapers More Than Maria
+*   Moms Sarah Michelle Gellar, Freddie Prinze Jr. Nam
 *   Body Jessica Simpson Films Weight Watchers Ad, Sho  
-*   Entertainment See Gerard Butler in Nothing But a Wet Towel!
+*   Entertainment Taylor Swift Wrote "All Too Well" About Ex Ja
 
 *   US WEEKLY
 *   Celebrity News
