@@ -56,7 +56,9 @@ Toys"R"Us/Babies"R"Us : Help Desk
 *   Hot Deals
 *   Clearance
 
-Search by keyword or “R”Web# All Products All ProductsToys &. GamesVideo GamesBaby Products Welcome! Login or create an account. Learn why Home > Help Online Help Safety, Security, and Privacy Secure Shopping Guarantee Terms and Conditions Privacy Policy Verified by Visa MasterCard SecureCode Mobile Terms and Conditions
+Search by keyword or “R”Web# All Products All ProductsToys &. GamesVideo GamesBaby Products Welcome! Login or create an account. Learn why
+
+Home > Help Online Help Safety, Security, and Privacy Secure Shopping Guarantee Terms and Conditions Privacy Policy Verified by Visa MasterCard SecureCode Mobile Terms and Conditions
 
 TOYS"R"US PRIVACY POLICY
 
