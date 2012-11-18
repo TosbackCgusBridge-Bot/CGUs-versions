@@ -5,7 +5,7 @@ Accessibility links
 
 Advertisement Telegraph.co.uk
 
-Saturday 17 November 2012
+Sunday 18 November 2012
 
 *   Home
 *   News
@@ -142,11 +142,13 @@ For help with The Telegraph apps call 0800 332020 Advertisement
 
 Editor's Choice »
 
-Candid shots: Kate Moss opens up  
+David Petraeus Affair: Generals gone wild  
 
-In her new photo-biography, the supermodel talks candidly about posing topless, her prostitute shoes and her Lucian Freud tattoo.
+As a scandals shake the US defence establishment, **Philip Sherwell** reports from Florida on the downfall of its most famous general.
 
-Review: Aerosmith rock Austin, Texas Petraeus: the downfall of a man and myth What links sex education and Guides? Clive James's verdict on the BBC in crisis Advertisement
+Comments
+
+The Killing: new series review Candid shots: Kate Moss opens up Review: Aerosmith rock Austin, Texas Petraeus: the downfall of a man and myth Advertisement
 
 MORE FROM TELEGRAPH.CO.UK
 
