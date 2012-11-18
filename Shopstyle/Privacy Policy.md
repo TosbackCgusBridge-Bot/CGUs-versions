@@ -1,4 +1,4 @@
-_&_Follow _S_Join OnSugar sale alerts offers looks groups **Clothing Bags Shoes Kids Home Men Beauty Sale Brands** About Privacy Policy July 30, 2012
+PRIVACY POLICY
 
 We at Sugar Publishing, Inc. (“Sugar,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the Sugar Terms of Use found here: http://www.sugarinc.com/tos.
 
@@ -66,7 +66,7 @@ We at Sugar Publishing, Inc. (“Sugar,” “we,” “us,” “our”) know t
     
     Your account is protected by a password for your privacy and security. If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password and/or other sign-on mechanism appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
     
-    We use industry-standard Secure Socket Layer (SSL) software to protect the security of your Personal Information during transmission, which encrypts the Personal Information you input. We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+    We follow reasonable data security practices to protect the confidentiality and security of your account and the Personal Information you provide to us. To protect your credit card number we use industry-standard Secure Socket Layer (SSL) software to protect the security of your credit card information during transmission through encryption. We believe the measures we have implemented reduce the likelihood of a security breach to a level appropriate to the type of data involved. However, we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
     
     The Website may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.
     
@@ -94,44 +94,4 @@ We at Sugar Publishing, Inc. (“Sugar,” “we,” “us,” “our”) know t
     If you have any questions or concerns regarding our privacy policies, please send us a detailed message to help@onsugar.com. We will make every effort to resolve your concerns.
     
 
-Effective Date: July 31, 2012
-
-Tweet Post A Comment
-
-To post comments, please log in or register.
-
-1.  missy pixie likes this
-
-About Us
-
-*   Overview
-*   Features
-*   Demographics
-*   Partners
-*   Social Media
-*   Contact Us
-*   FAQs
-
-Press
-
-*   United States
-*   United Kingdom
-*   France
-*   Germany
-*   Japan
-
-Partners
-
-*   AOL StyleList
-*   Glamour
-*   GMTV
-*   InStyle
-*   People
-*   Elle UK
-*   MarieClaire UK
-*   InStyle UK
-*   iVillage UK
-*   So Feminine
-*   Woman &. Home
-
-Connecting Style Trend Updates Style Inspiration Weekly Obsessions feedback terms privacy about us developers shopsense site map our blog ShopStyle is part of the PopSugar Fashion, Beauty and Shopping Network. © 2006–2012 Sugar Inc.
+Effective Date: September 25, 2012
