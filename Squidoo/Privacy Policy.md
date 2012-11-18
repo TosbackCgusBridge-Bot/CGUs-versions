@@ -54,7 +54,6 @@ Go Squidoo THIS LENS »
     *   This page is designed for you to:
     *   STEP 1) Read this before submitting a report
     *   STEP 2) Check SquidooHQ for any news about recent widespread bugs
-    *   STEP 3) Check Twitter updates from @Squidoo
     *   Ready to submit a report?
     *   Click here to create a feedback or bug report
     *   Report Content Abuse
