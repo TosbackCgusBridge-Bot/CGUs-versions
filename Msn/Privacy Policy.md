@@ -1,4 +1,4 @@
-Breaking news No. 1 Kansas State falls at Baylor Read More Close Email A Friend Subject:  
+Close Email A Friend Subject:  
 (separate multiple email addresses with a semi-colon)  
   
   
@@ -213,14 +213,14 @@ Close Email A Friend Your email has been sent.
     *   BROWSE ALL VIDEOS »
     
     *   MOST WATCHED THIS HOUR
+    *   Highlights: (13)Stanford - (2)Oregon
+    *   Highlights: St-Pierre/Condit
+    *   Highlights: Kampmann/Hendricks
+    *   Pick Nation: NFL Week 11 picks
     *   Pereira: CFB Week 12 call
-    *   Norwich City v Manchester United Premier League Highlights 11/17/12
-    *   Arsenal, Tottenham Analysis
-    *   CFB on FOX: USC/UCLA recap
-    *   CUP: Hamlin, Biffle, and Logano Wreck - Homestead Practice 2012
-    *   CFB on FOX: Oklahoma - WVU recap
-    *   Manchester City v Aston Villa Premier League Highlights 11/17/12
-    *   Arsenal v Tottenham Premier League Highlights 11/17/12
+    *   Week 11 NFL Preview
+    *   Highlights: (12) Oklahoma - WVU
+    *   Highlights: (1) Kansas St. - Baylor
     *   BROWSE ALL MOST WATCHED »
 *   WRITERS WRITERS
     
@@ -514,21 +514,21 @@ If you have questions about this Privacy Policy, please send an email to the app
 *   MOTOGP: Rossi, Lorenzo Pay Tribute To Biaggi
 *   CUP: Phoenix Still Has Some ‘New’
 
-*   Temple, Harris run past Army, 63-32
-*   Observations: Arizona vs. Utah
-*   Player Personnel Report: USF Game
+*   Great Atmosphere for Pierschbacher
+*   The Cowboys Quarterback Situation
+*   Inside Cardinal Football: Weekly notebook
 
-*   Martin Kampmann and Johny Hendricks Prepare...
-*   Tom Lawlor: Shock It To Me
-*   GSP: “I’m Always Nervous For My Fights”
+*   Georges St-Pierre’s Amazing UFC 154 Comeback...
+*   Dana White: “I’m Going To Make GSP/Anderson...
+*   Anderson Silva: “I’m Going To Fight GSP”
 
-*   Herrera agradece revés del América
-*   Matosas clasifica al León
-*   Vettel quiere cerrar el campeonato
+*   Jornada NFL 18 de noviembre
+*   Toluca vs Chivas: por boleto a semis
+*   Inglaterra Liga Premier toda la jornada
 
-*   Flying Canaries stun Man United
-*   Highlights: Norwich vs. Manchester United
-*   Madrid wins big over Athletic Bilbao
+*   Sunderland ends league losing streak
+*   Ferguson: Ronaldo is now unbuyable
+*   Inter lose ground on league leaders
 
 *   Bears CB says he'll skip game for birth
 *   Kidd reacts to Cuban's comments
