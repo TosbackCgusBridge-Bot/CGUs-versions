@@ -1,294 +1,8 @@
-*   Jobs
-*   Real Estate
-*   Rentals
-*   Cars
-*   Print Subscription
-*   Today's Paper
-*   Discussions
-*   Going Out Guide
-*   Personal Post
-*   Videos
-
-*   Home
-*   Politics In Politics
-    
-    *   Campaign 2012
-    *   Congress
-    *   Courts &. Law
-    *   The Fed Page
-    *   Health Care
-    *   Polling
-    *   White House
-    *   Blogs &. Columns
-    
-    Blogs &. Columns
-    
-    *   **Reince Priebus will seek another...**  
-        Election 2012 | Josh Hicks
-    
-    *   **Romney analyzes the election results**  
-        The Fact Checker | Glenn Kessler
-    
-    *   **Huckabee: GOP ‘pumped more bullets’...**  
-        She The People | Diana Reese
-    
-    *   **President Obama and McKayla Maroney...**  
-        The Fix | Chris Cillizza
-*   Opinions In Opinions
-    
-    *   Toles Cartoons
-    *   Telnaes Animations
-    *   The Post's View
-    *   Left-Leaning
-    *   Right-Leaning
-    *   Local Opinions
-    *   Columnist Index
-    
-    Featured Blogs
-    
-    *   **Spare the Twinkie, Hostess**  
-        ComPost | Alexandra Petri
-    
-    *   **Open Thread**  
-        The Plum Line | Greg Sargent
-    
-    *   **Not the talking filibuster again!**  
-        PostPartisan | Jonathan Bernstein
-    
-    *   **President Obama knew about Benghazi**  
-        Right Turn | Jennifer Rubin
-*   Local In Local
-    
-    *   D.C.
-    *   Maryland
-    *   Virginia
-    *   Crime
-    *   Education
-    *   Obituaries
-    *   Traffic
-    *   Weather
-    *   The Root DC
-    *   Blogs &. Columns
-    
-    Blogs &. Columns
-    
-    *   **D.C. area forecast: Tranquil through...**  
-        Capital Weather Gang | Ian Livingston
-    
-    *   **This thing you should try: Majestic...**  
-        Going Out Gurus | Alex Baldinger
-    
-    *   **Car crashes into 7-Eleven. none...**  
-        Crime Scene | Matt Zapotosky
-    
-    *   **Allen, Kaine advisers look back...**  
-        Virginia Politics | Ben Pershing
-*   Sports In Sports
-    
-    *   Redskins/NFL
-    *   Capitals/NHL
-    *   Wizards/NBA
-    *   Nationals/MLB
-    *   D.C. United/Soccer
-    *   Colleges
-    *   AllMetSports
-    *   Blogs &. Columns
-    *   Other Sports
-    
-    Blogs &. Columns
-    
-    *   **NHL suggests two-week break in...**  
-        Capitals Insider | Katie Carrera
-    
-    *   **NFL Films on John Riggins's journey**  
-        DC Sports Bog | Dan Steinberg
-    
-    *   **Jammal Brown misses another practice...**  
-        The Insider | Mike Jones
-    
-    *   **Nationals prospects playing in...**  
-        Nationals Journal | James Wagner
-*   National In National
-    
-    *   Energy &. Environment
-    *   Health &. Science
-    *   Higher Education
-    *   National Security
-    *   Investigations
-    *   On Faith
-    *   On Leadership
-    *   Innovations
-    *   On Giving
-    *   Corrections
-    
-    Blogs &. Columns
-    
-    *   **Wozniak: Microsoft may be more...**  
-        Ideas@Innovations | Emi Kolawole
-    
-    *   **Why didn’t Hostess workers believe...**  
-        PostLeadership | Jena McGregor
-    
-    *   **Survey: ‘Obama’s religious coalition...**  
-        Under God | Georgetown/ On Faith
-*   World In World
-    
-    *   Africa
-    *   The Americas
-    *   Asia &. Pacific
-    *   Europe
-    *   Middle East
-    *   National Security
-    *   War Zones
-    *   Special Reports
-    *   Columns &. Blogs
-    
-    Blogs &. Columns
-    
-    *   **Israel and Gaza violence: How did...**  
-        WorldViews | Olga Khazan
-    
-    *   **Anonymous hacks Israeli Web sites**  
-        WorldViews | Olga Khazan
-    
-    *   **An interactive map showing Hamas's...**  
-        WorldViews | Max Fisher
-    
-    *   **The Israeli-Palestinian politics...**  
-        WorldViews | Max Fisher
-*   Business In Business
-    
-    *   Economy
-    *   Industries
-    *   Local Business
-    *   Markets
-    *   Policy &. Regulation
-    *   Technology
-    *   World Business
-    *   Capital Business
-    *   On Small Business
-    *   Fiscal Cliff
-    
-    Blogs &. Columns
-    
-    *   **Shopping tip: Just stop, drop and...**  
-        The Color of Money | Michelle Singletary
-    
-    *   **Google and Dish discussing spectrum...**  
-        Post Tech | Hayley Tsukayama
-    
-    *   **Blackboard’s departing founder...**  
-        Steven Pearlstein
-    
-    *   **What happens when a woman is denied...**  
-        Wonkblog | Sarah Kliff
-*   Tech In Technology
-    
-    *   Policy
-    *   Gadget Reviews
-    *   Innovation
-    *   Green Technology
-    *   Photo Galleries
-    
-    Blogs &. Columns
-    
-    *   **Wii U launch ‘marks a beginning’...**  
-        Hayley Tsukayama
-    
-    *   **Google and Dish discussing spectrum...**  
-        Post Tech | Hayley Tsukayama
-*   Lifestyle In Lifestyle
-    
-    *   Advice
-    *   Carolyn Hax
-    *   Food
-    *   Home &. Garden
-    *   Style
-    *   Travel
-    *   Weddings
-    *   Wellness
-    *   Magazine
-    *   KidsPost
-    
-    Blogs &. Columns
-    
-    *   **Twinkie fix in a post-Twinkies...**  
-        All We Can Eat | Bonnie S. Benwick
-    
-    *   **‘Anna Karenina,’ an insight into...**  
-        The Style Blog | Veronica Toney
-    
-    *   **Take the kids this weekend: ‘Seussical’...**  
-        On Parenting | On Parenting
-    
-    *   **Quoted: County prosecutor Mark...**  
-        The Reliable Source | The Reliable Source
-*   Entertainment In Entertainment
-    
-    *   Books
-    *   Comics
-    *   Going Out Guide
-    *   Horoscopes
-    *   Movies
-    *   Museums
-    *   Music
-    *   Puzzles &. Games
-    *   Theater &. Dance
-    *   TV
-    
-    Blogs &. Columns
-    
-    *   **Castleton announces 2013 season**  
-        Classical Beat | Anne Midgette
-    
-    *   **‘Glee’ does ‘Grease’**  
-        Celebritology 2.0 | Jen Chaney
-    
-    *   **‘Partners,’ ‘Last Resort,’ ‘666...**  
-        The TV Column | Lisa de Moraes
-    
-    *   **Batman’s ‘Death of the Family’...**  
-        Comic Riffs | David Betancourt
-*   Jobs In Jobs
-*   More
-    
-    *   Classifieds
-    *   Cars
-    *   Deals
-    *   Real Estate
-    *   Rentals
-    *   Photos
-    
-    *   Shopping
-    *   Obituaries
-    *   Archives
-    *   Topics
-    *   Blogs
-
-In the News
-
-*   David Petraeus
-*   Hostess
-*   McKayla Maroney
-*   Israeli-Palestinian conflict
-*   Gaza
-
-???initialComments:false! pubdate:11/21/2011 14:49 EST! commentPeriod:0! commentEndDate:! currentDate:! allowComments:false! displayComments:false! Privacy Policy
-
-*   Text Size
-*   Print
-*   E-mail
-*   Reprints
-
-Nov 21, 2011 07:49 PM EST
-
-The Washington Post
+Privacy Policy
 
 (amended as of Nov. 15, 2011)
 
 At the same time that The Washington Post Company and washingtonpost.com are committed to bringing you information tailored to your individual needs, we recognize the importance of protecting the privacy of your personally identifiable information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using personally identifiable information and your reasonable expectations of privacy. Please note: this policy applies only to information collected by washingtonpost.com online, as specified below, and does not govern or apply to information collected or used by The Washington Post Company or its affiliates through other means
-
-Personal Post
 
 **What personally identifiable information do I provide to washingtonpost.com?**
 
@@ -304,192 +18,54 @@ A user’s personally identifiable information may be used by washingtonpost.com
 
 We may also use information about our users and their activities on our site to send offers and information about The Washington Post Company and its affiliates. However, if you no longer wish to receive the foregoing, please contact Customer Care to request removal from this list.
 
-*   Continued
-*   1
-*   2
-*   3
-*   4
-*   Next Page
+Further, if you told us in your account preferences that you would be interested in receiving certain e-mail newsletters from us, we will send you those e-mail subscriptions. Please note that regardless of those subscription preferences, we may contact you by e-mail as described elsewhere in this privacy policy (e.g., to notify you about changes or additions to our Service, such as new features). However, if you no longer wish to receive any of the foregoing, you may change your preferences for the future at any time by clicking on the following link: https://ssl.washingtonpost.com/actmgmt/registration/addnewsletter/long
 
-*   Email
-*   Tumblr
-*   Reddit
-*   Stumbleupon
-*   Digg
-*   Delicious
+In order to provide services free of charge, we display advertisements. washingtonpost.com delivers targeted advertisements on behalf of advertisers. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, females over 25 years old). We take the advertisement and display it to users meeting those criteria. In this process, the advertiser never has access to you washingtonpost.com account.
 
-*   Top Stories
-*   People Also Read
-*   Most Popular Videos
+Washingtonpost.com also does research on our users’ demographics, interests and behavior based on the information you provide to us including upon registration, on order forms, during a promotion, as well as from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed and washingtonpost.com may share aggregated versions of this data with advertisers or other businesses. In addition, under confidentiality agreements, washingtonpost.com may match user information with third party data.
 
-Petraeus scandal puts four-star general lifestyle under scrutiny
+**Do other companies or people have access to personally identifiable information I provide to washingtonpost.com?**
 
-Rajiv Chandrasekaran 
+When you are on an area of washingtonpost.com and are asked for personally identifiable information, you are providing that information to The Washington Post Company, its divisions or affiliates, or vendors providing contractual services for washingtonpost.com (such as hosting vendors and list managers). If personally identifiable information is being provided to and/or maintained by any company other than these, our policy is that we will not transfer that personally identifiable information unless notice is given prior to transfer. If you do not want your information to be shared, you can choose not to allow the transfer by not using that particular service or by expressing this preference, if requested. Additional information about personally identifiable information follows.
 
-Israel keeps pounding Gaza by air, says it intercepted missile fired by Hamas at Tel Aviv
+**Promotions:** Promotions that run on washingtonpost.com may be sponsored by companies other than washingtonpost.com or may be co-sponsored by washingtonpost.com and another company. Some or all personally identifiable information provided by you during a promotion may be shared with the sponsor. If information will be shared, we will disclose such sharing prior to the transfer. You can decide not to participate in the promotion if you don’t want your personally identifiable information to be shared. In certain circumstances, you may not be able to participate in a particular promotion if you chose not to share personally identifiable information. Currently, most washingtonpost.com promotions are limited to U.S. or North American residents.
 
-Karin Brulliard 
+**Advertisers and Links:** washingtonpost.com advertisers, or Web sites that have links on our site, may also collect personally identifiable information directly from you. The information practices of companies collecting data on our site or Web sites linked to washingtonpost.com are not covered by this privacy statement.
 
-Manassas News &. Messenger and InsideNoVA.com, top Prince William news sources, closing down
+**Marketplace:** If you make a purchase or request a service from a business in Marketplace, the information you provide for that transaction (as well as tracking information and cookies as described below) is provided directly to the Marketplace business. Businesses listed in washingtonpost.com Marketplace have separate privacy and data collection practices. washingtonpost.com has no responsibility or liability for these independent policies. For more information regarding the business and its privacy policy, go to that business’ home page and click on the appropriate link.
 
-Tom Jackman 
+**Other:** If we run competitions or contests on the site, you may be required to provide additional information such as your telephone number and address in order to participate. The exact rules may vary in each case but the specific rules for any contest will state how that information may be used. If you told us in your account preferences that you would be interested in receiving e-mail from us, we may send you e-mails about washingtonpost.com products, promotions, or services as well as on behalf of other companies. You can change your account preferences at any time. In addition, in each advertising email you will be provided an ability to opt-out of receiving future emails from the advertiser.
 
-Romney sinks quickly in Republicans’ esteem
+We do not control the privacy policies of our advertisers, sponsors or other sites or businesses to which we provide hyperlinks or access. Please visit the sites of these businesses to review their privacy policies.
 
-Dan Eggen 
+Washingtonpost.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others.
 
-University of Maryland in talks to join Big Ten
+Except as stated in this privacy policy or at the time of collection, a user’s personally identifiable information will not be transferred to a party outside The Washington Post Company, its divisions or affiliates, or its service vendors unless notice is given at the time of collection or prior to transfer. washingtonpost.com may also disclose account information in special cases when we have reason to believe that disclosing this information may be necessary to identify, contact or bring legal action against someone who may be violating our User Agreement, may be causing injury to or interference with (either intentionally or unintentionally) washingtonpost.com’s rights or property, other washingtonpost.com users, or anyone else that could be harmed by such activities, pursuant to a request from law enforcement, a subpoena, or a court order, or when otherwise may be required by law.
 
-Alex Prewitt 
+**Data Security:** We have in place physical, electronic and managerial procedures to protect the information we collect online. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the internet.
 
-FBI investigation of Broadwell reveals bureau’s comprehensive access to electronic communications
+**What information do web servers collect?**
 
-Greg Miller 
+Web servers serving washingtonpost.com automatically collect certain non-personally identifiable information, such as which pages each user visits and the domain name of visitors. This information is used for various purposes including internal review, to tailor information to individual visitors and other users, for traffic audits, and as described elsewhere in this privacy policy. We also provide this information (as well as information from third-party market researchers) about our users on an aggregated, anonymous basis to our advertisers.
 
-No. 2 Kansas State, Klein upset 52-24 at Baylor and sure to fall from top of BCS rankings
+**What are cookies and how does washingtonpost.com use them?**
 
-Associated Press 
+Washingtonpost.com places a “cookie” on the browser of a washingtonpost.com user’s computer to store and sometimes track information about you. A cookie can be used to tell when your computer has contacted a Web site. we may also use the information for editorial purposes and for other purposes such as measuring certain traffic patterns. For example, cookies are used to ensure that you don’t see the same ad too many times in a single session and that you do not have to reenter your login name or password during your visit. We may also use cookies to understand your use of the Service. Advertising service vendors that serve ads into our site may also use their own cookies. You may opt out of those cookies as described below. You may opt-out of the cookies delivered by washingtonpost.com by changing the setting on your browser. Please be aware that this will disable all cookies delivered to your browser, not just the ones delivered by washingtonpost.com.
 
-Ron Barber defeats Martha McSally in race for Giffords’s former seat
+**How can I opt out of online advertising cookies?**
 
-Associated Press 
+Online advertising for washingtonpost.com is delivered by the vendor DoubleClick. DoubleClick places cookies on your browser to facilitate serving particular ads – for instance, to help determine whether you have seen a particular advertisement before, to tailor ads to you if you have visited our site before, and to avoid sending you duplicate advertisements. You can opt out of DoubleClick’s use of cookies for these purposes by visiting http://www.google.com/intl/en/privacy/.
 
-End the outdated rules that led Petraeus to resign
+In some cases, we and advertisers on washingtonpost.com and other sites work with other third-party vendors to help deliver advertisements tailored to your interests. These vendors include ad networks and audience segment providers, and they place cookies on your browser to collect information about your online activity (e.g., the sites and pages you have visited) in order to help advertisers deliver particular ads on our site and other sites that they believe you would find most relevant. You can opt out of those vendors’ use of cookies to tailor advertising to you by visiting http://www.aboutads.info/.
 
-John Prados 
+Often our advertisers contract with a third-party service to host their ads. In this case, an ad serving vendor contacts the advertisers’ hosting service for a particular advertisement. In that case, an independent cookie may be used by the third-party service. We do not have a mechanism to allow visitors to opt-out of cookies from vendors with whom we do not have a contractual relationship.
 
-Answerable to no one
+Kids under 13: Do not send any information about yourself to us - including information like your name, address or e-mail address. In general, we do not knowingly collect personally identifiable information from children under 13. If, in limited circumstances, we do knowingly collect personally identifiable information from a child under the age of 13, we will do so only with verified parental consent prior to collection. In the event that we learn that we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
 
-George F. Will 
+Technology on the Internet is developing at a rapid pace, and we need to maintain our flexibility in the online arena. If we need to change our policy in the future, we will post these changes as soon as they go into effect.
 
-Manziel accounts for 5 scores, No. 9 Texas A&M handles Sam Houston State 47-28
+© Copyright 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2010 WP Company LLC d/b/a The Washington Post
 
-Associated Press 
+\*\*\*
 
-Ron Paul's farewell speech (VIDEO) Wizards vs. Jazz: Washington becomes second team in NBA history with consecutive 0-8 starts
-
-Michael Lee 
-
-Boxing: Seth Mitchell is knocked out by Johnathon Banks in Atlantic City
-
-Gene Wang 
-
-If China is doing so well, why do so many Chinese think of moving here?
-
-Jia Lynn Yang 
-
-Susan Rice’s tarnished resume
-
-Dana Milbank 
-
-Stanford quarterback Kevin Hogan will start against No. 1 Oregon on Saturday
-
-Chelsea Janes 
-
-A wife’s failed job hunt sticks relationship in a trap
-
-Carolyn Hax 
-
-AARP uses its power to oppose Social Security, Medicare benefit cuts for retirees
-
-Michael A. Fletcher 
-
-A eulogy for the humble Hostess Twinkie
-
-Adam Bernstein 
-
-The Post MostMost-viewed stories, videos, and galleries in the past two hours
-
-*   Most Popular
-    1.  Petraeus scandal puts four-star general lifestyle under scrutiny
-    2.  Israel keeps pounding Gaza by air, says it intercepted missile fired by Hamas at Tel Aviv
-    3.  Manassas News-Messenger and InsideNoVA.com closing down
-    4.  Romney sinks quickly in Republicans' esteem
-    5.  University of Maryland in talks to join Big Ten
-*   Top Videos
-    1.  Israel deploys 'Iron Dome' defense system following rocket attack
-    2.  Israel shoots down Tel Aviv-bound rocket
-    3.  Why Paula Broadwell left Harvard
-    4.  Romney losing support of the GOP
-    5.  Sen. John McCain: 'One of the dumbest questions I've ever heard'
-*   Top Galleries
-    1.  Best books of 2012
-    2.  Gaza Strip conflict escalates
-    3.  A close-up view of the Obamas
-    4.  The four-star movies of 2012
-    5.  Republicans run from Romney
-
-Today's Paper
-
-**Full Paper** **Metro** **Style** **Sports**
-
-**Updated newspaper stories**
-
-Live Discussions
-
-There are no discussions scheduled today.
-
-Dr. Gridlock
-
-Live Q&A, Monday, noon
-
-Wondering whether holiday-induced traffic will impact your travel plans? Dr. Gridlock has the info you need on Metro and D.C. area traffic.
-
-**Weekly schedule, past shows**
-
-*   Politics
-*   Opinions
-*   Local
-*   Sports
-*   National
-*   World
-*   Business
-*   Tech
-*   Lifestyle
-*   Entertainment
-*   Photo
-*   Video
-*   Blogs
-*   Classifieds
-
-More ways to get us
-
-*   Home delivery
-*   Mobile &. Apps
-*   RSS
-*   Facebook
-*   Twitter
-*   Social Reader
-
-*   Newsletter &. Alerts
-*   Washington Post Live
-*   Reprints &. Permissions
-*   Post Store
-*   e-Replica
-*   Archive
-
-Contact Us
-
-*   Help &. Contact Info
-*   Careers
-*   Digital Advertising
-*   Newspaper Advertising
-
-About Us
-
-*   The Washington Post Company
-*   In the community
-*   PostPoints
-*   Newspaper in Education
-
-Partners
-
-*   washingtonpost.com
-*   © 1996- The Washington Post
-*   Terms of Service
-*   Privacy Policy
-*   Submissions and Discussion Policy
-*   RSS Terms of Service
-*   Ad Choices
-
-Section:/
+Related: Terms of Service and Discussion and Submission Guidelines
