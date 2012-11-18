@@ -1,46 +1,3 @@
-*   Contact Sales
-*   Pricing
-
-*   What is Yammer
-    *   Accessing Yammer
-    *   People and Conversations
-    *   Content Collaboration
-    *   Search
-    *   Admin &. Security
-    *   External Networks
-    *   Yammer Platform
-    *   Feature List
-*   Business Benefits
-    *   Team Collaboration
-    *   Employee Engagement
-    *   Business Agility
-    *   Social Intranet
-*   Enterprise IT
-    *   Security
-    *   Deployment
-    *   Voluntary Adoption
-    *   Product Development
-    *   Yammer Platform
-    *   Support Services
-*   Customer Success
-    *   Case Studies
-    *   Customer Blogs
-*   About Us
-    *   Who We Are
-    *   Management
-    *   Jobs
-    *   Yammer in the News
-    *   Events
-    *   Press Center
-    *   Partners
-    *   Resources
-    *   Contact Us
-
-*   Log In
-*   Sign Up
-
-About UsPrivacy Policy
-
 *   Terms of Use
 *   Privacy Policy
 *   DMCA Policy
@@ -203,29 +160,3 @@ Telephone: (415) 968-5851
 Fax: (415) 777-5977  
 Email: help@yammer.com We self-certify compliance with:  
 Back to Top
-
-© 2012 YammerSales: 1-888-926- 7377
-
-*   Apps
-*   Partners
-*   Jobs
-*   Blog
-*   Terms of Use
-*   Privacy Policy
-*   Help Desk
-
-Contact Sales To discuss pricing, security, and to request additional materials, please use the form below or call **888-926-7377** and **+1-415-796-7400**. For help requests and other inquiries, please use our help section.  
-  
-\* = required field.
-
-*   Name\*
-*   Email\*
-*   Job Title
-*   Company Name
-*   Country\*AfghanistanAlbaniaAlgeriaAndorraAntiguaArgentinaArmeniaArubaAscension IslandsAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBarbudaBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBritish Virgin IslandsBruneiBulgariaCambodiaCameroonCanadaCape VerdeCayman IslandsChannel IslandsChileChinaChristmas IslandCocos IslandsColombiaCosta RicaCroatiaCubaCyprusCzech RepublicDemocratic Republic of CongoDenmarkDominicaDominican RepublicEcuadorEgyptEl SalvadorEstoniaEthiopiaFaroe IslandsFijiFinlandFranceFrench PolynesiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGuatemalaGuyanaHondurasHong KongHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyIvory CoastJakartaJamaicaJapanJordanKazakhstanKenyaKuwaitLaosLatviaLebanonLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacedoniaMalaysiaMaldivesMaliMaltaMauritiusMexicoMicronesiaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueNairobiNamibiaNepalNetherlandsNetherlands AntillesNew ZealandNicaraguaNigeriaNiueNorwayOmanPakistanPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPolandPortugalQatarRepublic of MoldovaRomaniaRussiaSamoaSaudi ArabiaSenegalSerbiaSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSouth AfricaSouth KoreaSpainSri LankaSudanSurinameSwedenSwitzerlandSyriaTaiwanTajikistanTanzaniaThailandTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVenezuelaVietnamZambiaZimbabwe
-*   Phone Number\*
-*   Comments\*
-
-*   Email This field is for validation purposes and should be left unchanged.
-
-×
