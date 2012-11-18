@@ -1,7 +1,7 @@
 **VOA**Sites by Language **Top Stories:**
 
-*   Israel-Gaza Conflict Continues
-*   Petraeus Testifies on Benghazi Attack
+*   Sierra Leone Hold Elections
+*   Gaza Fighting Flares Again
 
 *   English Worldwide Englishvoanews.com Learning Englishlearningenglish.voanews.com
 *   Eastern &. Central Europe ShqipZeriamerikes.com Bosanskivijestiglasaamerike.com Ελληνικάgr.voanews.com Македонскиmk.voanews.com Srpskiglasamerike.net Українськаchastime.com
