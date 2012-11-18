@@ -1,7 +1,3 @@
-  
-Effective Date: 1/12/04 - Current as of: 11/18/12 4:13:43 AM  
-  
-
 **Online Privacy Policy**
 
   
@@ -91,29 +87,4 @@ If we decide to change our Privacy Policy, we will post those changes to this pr
   
 If however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our web site for 30 days.  
   
-If users have questions or concerns regarding this statement, they should contact RadioShack Online Privacy by email RadioShack.Online.Privacy@radioshack.com.  
-Recent changes to this privacy policy  
-The following list contains changes to this Privacy Policy that have occurred within the last 60 days:  
-  
-   •   Online privacy policy created and added to this website.  
-  
-Contact Information     Updated email address  
-  
-Contact information  
-  
-Products or services:  
-If you have questions, suggestions or concerns regarding our products or services please contact us at:  
-  
-Name: RadioShack Customer Care  
-Phone: 817-415-3200 • 817-415-2303 (fax)  
-Email Form: http://www.radioshack.com/helpdesk/index.jsp?display=store&subdisplay=contact&stillHaveQuestion=yes  
-Postal Address: RadioShack Customer Care • 300 RadioShack Circle • MS CF7.101 • Fort Worth, Texas • 76102  
-  
-Online privacy policy:  
-If you have questions, suggestions or concerns regarding our online privacy policy, please contact us at:  
-  
-Name: RadioShack Online Privacy  
-Email: RadioShack.Online.Privacy@radioshack.com  
-Postal Address: RadioShack Riverfront • 300 RadioShack Circle • MS EF7.350.01 • Fort Worth, Texas • 76102 • Attn: Online Privacy  
-  
-Copyright © RadioShack Corporation 2012. All rights reserved.
+If users have questions or concerns regarding this statement, they should contact RadioShack Online Privacy by email RadioShack.Online.Privacy@radioshack.com.
