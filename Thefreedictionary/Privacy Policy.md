@@ -1,10 +1,4 @@
-Printer Friendly Dictionary, Encyclopedia and Thesaurus - The Free Dictionary4,443,332,719 visitors served. forum Join the Word of the Day Mailing List For webmasters **TheFreeDictionary Google Bing** ? Word / Article Starts with Ends with Text Dictionary/  
-thesaurus Medical  
-dictionary Legal  
-dictionary Financial  
-dictionary Acronyms  
-  Idioms Encyclopedia Wikipedia  
-encyclopedia ? Privacy statement
+Privacy statement
 
 **Farlex, Inc.  
 ****Version 3.0  
@@ -78,7 +72,3 @@ To find more information about cookies:
     Contact Information
     
     Our contact information is available at the Farlex home page.
-    
-Free Tools: **For surfers:** Free toolbar &. extensions | Word of the Day | Help  
-**For webmasters:** Free content | Linking | Lookup box | Double-click lookup Terms of Use | Privacy policy | Feedback | Advertise with Us | Copyright © 2012 Farlex, Inc., Hotchalk Partner **Disclaimer**  
-All content on this website, including dictionary, thesaurus, literature, geography, and other reference data is for informational purposes only. This information should not be considered complete, up to date, and is not intended to be used in place of a visit, consultation, or advice of a legal, medical, or any other professional.
