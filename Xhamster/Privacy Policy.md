@@ -1,17 +1,3 @@
-Sign Up**|**Login VideoPicturesStoriesBlogsDVDs
-
-*   Video
-*   Live Cams
-*   Pictures
-*   Stories
-*   Games
-*   Dating
-*   Premium
-
-HD Videos  •  Top Rated  •  Recommended for Me  •  Categories  •  My Favorite Videos  •  My Videos  •  Mobile Videos  •  Upload Your Video! PRIVACY POLICY for Hammy Media, Ltd. d/b/a www.xhamster.com  
-Effective Date: November 18, 2012  
-Last Modified: September 27, 2011  
-
 1.  General
     1.  The operative parties referred to in this policy are Company and You, the User of this site.
         1.  Hammy Media, Ltd. is the publisher and operator of the website(s) listed at the beginning of this Policy. Hereinafter, Hammy Media, Ltd. shall be referred to as “Company”. When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms “the Site” or “Site” are used, these terms refer to the website(s) listed at the beginning of this Policy.
@@ -49,29 +35,3 @@ Last Modified: September 27, 2011
     1.  We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, please refer to Your account settings page or the profile editing page.
 11.  Where to Direct Questions About Our Privacy Policy
     1.  If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at help@xhamster.com.
-
-*   Information
-*   Terms of Use
-*   Privacy Policy
-*   DMCA/Copyright
-*   Parental Control
-*   About us
-
-*   Work with us
-*   Webcam Models Wanted
-*   Partner Content Program
-*   Webmasters
-*   Advertisers
-
-*   Help &. Support
-*   Support
-*   Contact
-*   Billing support
-
-*   Follow us
-*   xHamster's Blog
-*   xHamster's Twitter
-*   Suggestions Board
-*   xHamster's Mobile Version
-
-© 2007-2012 xHamster.com - Daily Free Porn Videos! This feature is available for registered users only LoginFree Sign Up Username: Password: Remember me on this computer Forgot your password? Username: Email: Did you mean :
