@@ -1,5 +1,5 @@
   
-Effective Date: 1/12/04 - Current as of: 11/17/12 10:15:49 AM  
+Effective Date: 1/12/04 - Current as of: 11/18/12 4:13:43 AM  
   
 
 **Online Privacy Policy**
