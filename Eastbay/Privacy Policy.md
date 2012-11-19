@@ -334,7 +334,6 @@ Status Recently Viewed   Items: 0 Subtotal: $0.00   Thank you for visiting Eas
 *   Other Services
 *   Search Tips
 *   Sport-Specific Sizing Help, Tips &. Information
-*   Wish List 2012 Rules
 
 Privacy Policy
 
