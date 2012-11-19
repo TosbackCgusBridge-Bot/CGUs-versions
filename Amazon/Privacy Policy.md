@@ -3,7 +3,6 @@ Amazon
 *   Chez vous
 *   Promotions
 *   Chèques-cadeaux
-*   Vendre
 *   Aide
 
 Parcourir les boutiques Rechercher Toutes nos boutiques Toutes nos boutiquesAnimalerieBijouxBoutique KindleBricolageBébés &. PuéricultureChaussures et accessoiresCuisine &. MaisonDVD &. Blu-rayFournitures de bureauGros électroménagerInformatiqueInstruments de musique &. SonoJeux et JouetsJeux vidéoLivres anglais et étrangersLivres en françaisLogicielsLuminaires et EclairageMontresMusiqueMusique classiqueMusique MP3Parfum et BeautéPhoto, Image, Son et GPSSanté et Soins du corpsSports et LoisirsVêtements et accessoires Bonjour. Identifiez-vous Votre compte Panier 0 Liste d'envies
