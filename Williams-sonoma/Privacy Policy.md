@@ -254,16 +254,16 @@ Search by keyword, recipe or item # Search Search Suggestions Skip Navigation
     
     Sale &. Offers
     
-    *   Wüsthof Precision, Cutting Boards &. Knife Sharpeners Promotion
     *   Sale
-    *   Wüsthof Gourmet Promotion
     *   Exceptional Values
     
-    2 DAYS ONLY
+    NEW &. EXCLUSIVE
     
-    Save up to 20% on Wüsthof Precision Cutlery, Knife Sharpeners &. Cutting Boards through 11/18/12.
+    Our signature knives feature contoured ergonomic handles and ice-hardened blades for durability.
     
-    Shop Now 
+    Buy Now 
+    
+    Shop Zwilling J.A. Henckels Knives 
     
 *   Electrics Shop by Category
     
@@ -990,16 +990,16 @@ Follow @twitter   International Shipping Shipping To: From Our Family of Brands
 *   christmas decorations
 *   interior design ideas
 
+*   furniture
+*   bathroom vanities
+*   personalized gifts
+*   area rugs
+*   christmas ornaments
 *   christmas stockings
-*   childrens books
-*   baby diaper bags
-*   personalized baby blankets
-*   toy storage
-*   baby gifts
-*   crib bedding sets
-*   bunk beds
-*   baby registry
-*   baby room ideas
+*   wedding registry
+*   accent chairs
+*   christmas decorations
+*   interior design ideas
 
 *   bunk beds
 *   bed skirts
