@@ -1,30 +1,4 @@
-Break
-
-*   _Home_
-*   _Popular_
-*   _Channels..._
-    
-    *   SONY PICTURES HOME ENTERTAINMENT PRESENTS **Action Unleashed** _Hottest new action movies_ Action Unleashed
-    *   Super Funny Videos Super Funny Videos
-    *   Pranks &. Fails Pranks &. Fails
-    *   Bizarre &. Amazing Bizarre &. Amazing
-    *   All The Animals All The Animals
-    *   Sports Sports
-    *   Gaming Gaming
-    *   Trailers &. Clips Trailers &. Clips
-    *   Heartwarming Heartwarming
-    
-       
-
-Search 
-
-*   Funny Pictures
-*   Just Submitted **|**
-*   Top Tech
-*   Explosions!
-*   Crazy Nature
-
-Privacy Policy Information submitted by you for inclusion on your Break profile. What personal information does Break Media collect? What do we do with the personal information we collect? What non-personal information does Break Media collect? Behavioral advertising Transparency in online behavioral advertising Opt-out Data retention With whom do we share your information and for what purpose? What information do parties other than Break Media collect? What are "cookies" and "web beacons" and how do we use them? Break.com Privacy Policy  
+Break.com Privacy Policy  
 
 At Break.com, a website and related mobile application operated by NextPoint, LLC d/b/a Break Media ("Break Media"), we are committed to respecting people's privacy online. We are also committed to providing you with the very best experience we can on our website. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of our website. By using Break.com, you consent to the collection and use of your information by Break Media as described in this Policy, and you signify your agreement to the Break Privacy Policy. References to the "site" in this document shall encompass the break.com mobile application.
 
@@ -105,46 +79,3 @@ Most browsers are initially set to accept "cookies." If you'd prefer, you can se
   
   
 Please report any violations of these Terms to us at support@Break-inc.com.
-
-Trending Topics  Good Stuff
-
-*   Cats
-*   Dogs
-*   Military
-*   Sharks
-*   Funny Babies
-*   Cute Girls
-*   Natural Disasters
-*   Celebrities
-*   Cars &. Crashes
-*   Amateur Stunts
-
-Other Good Stuff
-
-*   Best of 2012
-*   Best of 2011
-*   Best of 2010
-*   Best of 2009
-*   Best of 2008
-*   Scare Pranks
-*   Halloween Videos
-*   Funny Costumes
-*   Football Injuries
-*   Trick Shots
-
-Other Networks  
-
-*   Made Man
-*   Game Front
-*   Screen Junkies
-*   Cage Potato
-*   Chickipedia
-*   Pop Hangover / DYAC
-
-Also Available On  
-
-*   Available on the APP Store. 
-*   Get it on Google Play. 
-*   Download for Windows Phone. 
-
-Follow Us  Follow @Breakcom YouTube Subscribe Advertise with us | Terms | Privacy | Feedback | RSS | Go back to old Break © 2012 Break Media. All rights reserved.
