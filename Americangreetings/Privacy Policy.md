@@ -147,7 +147,6 @@ become a fan AG twitters!
     *   calendars &. reminders
     *   card calendar
     
-    *   what's new
     *   wallpapers &. screensavers
     *   stay inspired blog
 *   Search
