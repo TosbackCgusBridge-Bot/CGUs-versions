@@ -1,18 +1,3 @@
-Wikia Skip to Content Skip to Wiki Navigation Skip to Site Navigation Wikia Navigation
-
-*   Start a wiki
-*   *   Video Games
-        
-    *   Entertainment
-        
-    *   Lifestyle
-        
-
-*   Log in Username Password Forgot your password? Stay logged in Or Connect
-*   Sign up
-
-Privacy Policy
-
 Wikia Policies
 
 *   Terms of Use
@@ -62,60 +47,3 @@ Wikia only shares your information with others in the following circumstances:
 If the Company becomes involved in a merger or acquisition or any form of sale of some or all of its assets, we will provide notice to you, via an update to this policy, of any personal information to be transferred and/or subject to a different policy.
 
 We may also share with third parties aggregated, non-personal information, such as the number of new user registrations over a specific time period or the number of users who edited a particular wiki.
-
-Retrieved from "http://www.wikia.com/Privacy\_Policy?oldid=9946" Languages:
-
-*   Deutsch
-
-Wikia, Inc.
-
-*   About Us
-*   Contact Wikia
-*   Careers
-*   Press
-
-Get Started
-
-Find your community,  
-start something epic.
-
-Start a Wiki Follow Us
-
-*   Wikia Blog
-*   Facebook
-*   Twitter
-
-Community
-
-*   Community Central
-*   Founders &. Admins
-*   Contact Support
-*   Help
-
-Wikia Everywhere
-
-*   Wikia Mobile
-*   Video Game Apps
-*   Entertainment Apps
-*   API
-
-Advertise
-
-*   Audience
-*   Solutions
-*   Ad products
-*   Self Service
-
-Wikia Inc Navigation
-
-*   About
-*   Community Central
-*   Careers
-*   Advertise
-*   API
-*   Contact Wikia
-*   Terms of Use
-*   Privacy Policy
-*   Content is available under CC-BY-SA.
-
-Politics Halloween @Wikia
