@@ -54,6 +54,7 @@ Checkout 2 items
         *   New Arrivals
         *   Sale
         *   Gift Cards
+        *   Gifts For Men
 *   Women
     *   Category
         
@@ -81,6 +82,7 @@ Checkout 2 items
         *   New Arrivals
         *   Sale
         *   Gift Cards
+        *   Gifts For Women
 *   Kids
     *   Youth
         
@@ -106,6 +108,7 @@ Checkout 2 items
         *   New Arrivals
         *   Sale
         *   Gift Cards
+        *   Gifts For Kids
 
 *   Sale
     *   Mens
@@ -285,13 +288,15 @@ REV: 06/21/2012
 *   Call Us Anytime 1-800-982-9337
 
 *   Shop Men
-    *   Shoes
-    *   Apparel
-    *   Accessories
+    *   Men's Shoes
+    *   Men's Apparel
+    *   Men's Accessories
+    *   Gifts For Men
 *   Shop Women
-    *   Shoes
-    *   Apparel
-    *   Accessories
+    *   Women's Shoes
+    *   Women's Apparel
+    *   Women's Accessories
+    *   Gifts For Women
 *   Shop Kids
     *   Kids Originals
     *   New Arrivals
@@ -301,6 +306,7 @@ REV: 06/21/2012
     *   Boys Shoes
     *   Girls Shoes
     *   Infants &. Toddlers Shoes
+    *   Gifts For Kids
 
 *   Sports
     *   Basketball
@@ -310,6 +316,7 @@ REV: 06/21/2012
     *   Tennis
     *   Training
 *   Shop Collections
+    *   Holiday Gift Guides
     *   New Arrivals
     *   Jeremy Scott
     *   adizero
@@ -343,6 +350,8 @@ REV: 06/21/2012
     *   My Account
     *   Return Policy
     *   Find a Store
+    *   Sign Up &. Save
+    *   24-Hour Help 1-800-982-9337
 *   Policies
     *   Privacy Policy
     *   Secure Shopping Guarantee
