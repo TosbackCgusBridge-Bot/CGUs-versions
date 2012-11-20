@@ -1,68 +1,4 @@
-Offer details Free activation on all phones and internet devices For a limited time, pay no activation fee when you purchase a new phone or internet device online. Thats a $35 savings!  
-  
-Act now! Offer ends on 11/21. New 2-year agmt. on qualifying rate plan required.
-
-*   Limited time: Waived activation on all devices, a $35 savings Details
-
-  
-Privacy Policy: Highlights
-
-Effective: August 18, 2011
-
-  
-
-We provide these privacy highlights for your convenience but we encourage you to review the full T-Mobile USA, Inc. Privacy Policy.
-
-  
-Collection, Use, Disclosure, and Security of Personal Information
-
-*   We collect personal information when you use our services or otherwise interact with us, including information you provide, such as contact information, billing &. credit information, and resumes. information that is automatically collected, such as details about use of our services and our Web pages. and information from other sources, such as credit reports and mailing lists.
-*   We use personal information for various business purposes, such as to complete transactions and bill for products and services. respond to requests for service or assistance. create and improve products and services. suggest additional or different products or service. and protect our rights and property.
-*   We do not sell, rent, or provide personal information to unaffiliated third-parties to market their products and services to you. We may disclose personal information to unaffiliated third-parties who complete transactions or perform services on our behalf and under certain other limited circumstances, subject to restrictions on the third-parties use of such information.
-*   We use a variety of physical, electronic, and procedural safeguards to protect personal information and we use reasonable procedures to erase or render it unreadable when we dispose of it.
-
-  
-  
-
-Tell me more 
-
-Access and Choice
-
-*   You can access and modify your contact information and marketing preferences by visiting My T-Mobile, visiting a T-Mobile store, or contacting Customer Service.
-*   If you are a T-Mobile customer and you manage your account online, you can change your marketing preferences in your  
-    My T-Mobile Profile.
-*   If you are a T-Mobile customer but do not manage your account online, OR if you are receiving marketing communications at an address or phone number not shown in your My T-Mobile profile, you can opt out using our opt-out form.
-*   If you are not a T-Mobile customer, you can also opt out of marketing communications using our opt-out form.
-
-  
-
-Tell me more 
-
-Other Privacy Information
-
-*   We do not solicit children to purchase our services or products and our Web sites are not designed to attract children under the age of 13.
-*   We may use cookies, Web beacons, and similar technologies.
-*   We have adopted policies and procedures to comply with the FCCs rules governing Customer Proprietary Network Information ("CPNI").
-*   T-Mobile follows the CTIAs Best Practices Guidelines for Location-Based Services. With your consent, we may provide location-based services or provide access to location information so third-parties may provide you such services.
-*   Some T-Mobile devices automatically upload to our servers information you have stored on the device. We may also provide you the option to upload additional information from your device.
-*   Services and functionality offered through certain T-Mobile devices are provided in conjunction with third parties, in which case personal information from your devices may be uploaded and stored on their servers.
-*   When you install third-party applications on your device, you may give your consent for the third party to access certain information you have stored on your device or to access T-Mobile network information to facilitate the applications functions.
-
-  
-
-Tell me more 
-
-Policy Updates and Contact Information
-
-*   We may update this policy from time to time and you should refer to it often for the latest information and the effective date of any changes.
-*   If we intend to use or disclose personal information in a way that is materially different from that stated in this policy at the time it was collected, we will post notice of the change on our Web sites home page for at least 30 days before we implement the change and give you an opportunity to opt-out of the proposed use.
-*   If you have questions, comments, or concerns about this policy or about T-Mobile's privacy practices, you may contact us at privacy@t-mobile.com or using the other contact information provided in the full privacy policy.
-
-  
-
-Tell me more 
-
-More information Collection, Use, Disclosure, and Security of Personal Information       Personal Information       Collection of Personal Information              Information you provide              Information automatically collected              Information from other sources       Use of Personal Information       Disclosure of Personal Information             With your consent             To the primary account holder             Transaction processing             Third-party services             Business transfers             Legal process &. protection of T-Mobile and others       Security and Retention of Personal Information Access and Choice       Access to Your Information       Choices Regarding Use of Your Information Other Privacy Information       Caller ID Blocking       Children       Consumer Code for Wireless Service       Cookies, Web Beacons, and Similar Technologies       Customer Proprietary Network Information (CPNI)       Customer Service Monitoring       Directories       Financial Products and Services       Forums and Chat Rooms       Location-Based Services       Network Information Storage       Other Governing Terms       Protecting Your Own Personal Information       Third-Party Advertising       Third-Party Applications for Your Devices       Wireless Communication Security Policy Updates and Contact Information       Changes to This Policy       How to Contact Us  
+Collection, Use, Disclosure, and Security of Personal Information       Personal Information       Collection of Personal Information              Information you provide              Information automatically collected              Information from other sources       Use of Personal Information       Disclosure of Personal Information             With your consent             To the primary account holder             Transaction processing             Third-party services             Business transfers             Legal process &. protection of T-Mobile and others       Security and Retention of Personal Information Access and Choice       Access to Your Information       Choices Regarding Use of Your Information Other Privacy Information       Caller ID Blocking       Children       Consumer Code for Wireless Service       Cookies, Web Beacons, and Similar Technologies       Customer Proprietary Network Information (CPNI)       Customer Service Monitoring       Directories       Financial Products and Services       Forums and Chat Rooms       Location-Based Services       Network Information Storage       Other Governing Terms       Protecting Your Own Personal Information       Third-Party Advertising       Third-Party Applications for Your Devices       Wireless Communication Security Policy Updates and Contact Information       Changes to This Policy       How to Contact Us  
 T-Mobile Privacy Policy
 
 Effective: August 18, 2011
@@ -193,5 +129,4 @@ If you have any questions or comments about this policy or about T-Mobile's priv
 T-Mobile USA, Inc.  
 Attn: Chief Privacy Officer  
 12920 SE 38th Street  
-Bellevue, Washington 98006  
-Print-Friendly version © 2002-2012 T-Mobile USA, Inc.
+Bellevue, Washington 98006
