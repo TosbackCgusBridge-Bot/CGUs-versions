@@ -237,8 +237,8 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
+*   Seed Industry Prepares for Patent Expirations
 *   CWT Assists with 7.2 Million Pounds of Export Sales
-*   Pork Producers Did Not Panic
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
