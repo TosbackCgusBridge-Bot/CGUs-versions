@@ -1,59 +1,71 @@
-Find more solutions
+Search Help: Amazon Kindle Terms of Use
 
-Digital Services and Device Support › Fire TV Support › Terms &. Conditions› Amazon Services Terms of Use
+**Last updated: September 6, 2012**
 
-**Last updated: 4 September, 2019**
+This is an agreement between you and Amazon Digital Services, Inc. (with its affiliates, "**Amazon**" or "**we**"). Please read these Amazon Kindle Terms of Use, the Amazon.com Privacy Notice, the Amazon.com Conditions of Use, and the other applicable rules, policies, and terms posted on the Amazon.com website, on or through your Kindle, or provided with any Service (collectively, this "**Agreement**") before using the Kindle, any Reading Application or the Service. By using the Kindle, any Reading Application or the Service, you agree to be bound by the terms of this Agreement. If you do not accept the terms of this Agreement, then you may not use the Kindle, any Reading Application, or the Service, and you may return the Kindle for a refund in accordance with the applicable return policy.  
 
-This is an agreement between you and Amazon Digital Services LLC (with its affiliates, “Amazon” or “we”). Please read these Amazon Services Terms of Use, the Amazon.com Privacy Notice, the Amazon.com Conditions of Use, and the other applicable rules, policies, and terms available at the Amazon.com website, or on or through the Amazon Software (collectively, this “Agreement”) before using the Amazon Services on a Product. By using the Amazon Services, you agree to be bound by the terms of this Agreement. If you do not accept the terms of this Agreement, then you may not use the Amazon Services and you may return your Product in accordance with any applicable return policy. Your use of any of the Amazon Services is subject to any additional rules, policies, and terms that apply to those Amazon Services.
+1.  Wireless Connectivity
+2.  Device Software
+3.  General
 
-For the purpose of these Amazon Services Terms of Use:
+Versions of the Kindle Terms of Use in other languages
 
-“Amazon Services” means the provision of Amazon Software, Digital Content, and support and other services that we provide Product users.
+For the purposes of this Agreement:
 
-“Amazon Software” means all software we make available to you for use on a Product, but excludes third-party Digital Content.
+  
+"Digital Content" means digitized electronic content, such as books, newspapers, magazines, journals, music, videos, apps, blogs, RSS feeds, games, and other static and interactive electronic content.
 
-“Digital Content” means digitized content (including third-party content), such as videos, music, apps, games, skills, photos, audio, books, newspapers, magazines, and related features and functionality.
+  
+"Kindle" means our portable electronic reading devices.
 
-“Product” means a Fire TV Edition device that is developed and manufactured by a third party and enables access to Amazon Services.
+  
+"Reading Application" means software (including any updates/upgrades to that software) we make available that permits users to shop for, download, browse, and/or use Digital Content on a Supported Device.
 
-**1\. Amazon Services, Amazon Software**
+  
+"Service" means the wireless connectivity that we provide Kindle users, the provision of Digital Content, Software, and support and other services that we provide Kindle and Reading Application users.
 
-**a. Use of Amazon Services on a Product.** To use certain Amazon Services on a Product, you must have your own Amazon.com account, be logged in to your account on the Product, and have a valid payment method associated with your account.
+  
+"Software" means the Reading Applications and all software on the Kindle (including any updates/upgrades to that software), and any related documentation that we make available to you.
 
-**b. Use of the Amazon Software.** Except as provided in this section, you may use the Amazon Software only on your Product. For additional terms that apply to the Amazon Software, see the Additional Amazon Software Terms contained in the Amazon.com Conditions of Use and the terms contained in the Legal section of the Settings menu of the Amazon Services on your Product or the Amazon Fire TV Remote App. Amazon Software licensed under an open source license is governed solely by the terms of that open source license.
+  
+"Supported Device" means a mobile, computer or other supported electronic device other than a Kindle on which you are authorized to operate a Reading Application.
 
-**c. Voice Services.** Your Product may have features that allow you to access Alexa voice services or perform certain tasks, such as control your Product, perform a search, check the weather, or operate other connected products. When you use voice services, we process your voice input and other information (such as location) in the cloud to respond to your requests and to improve your experience and our services. Your use of Alexa is subject to the Alexa Terms of Use (www.amazon.com/alexa/terms). Learn more about Alexa voice services and how it works at www.amazon.com/alexa/voice, including how to delete voice recordings associated with your account.
+1\. **Wireless Connectivity**
 
-**2\. Connectivity and Availability**
+**Use of Wireless Connectivity.** Your Kindle uses wireless connectivity to allow you to shop for and download Digital Content. Some Kindle devices may require you to purchase a data plan from a third party in order to receive and use wireless connectivity. In such case, your wireless connectivity is subject to the fees, restrictions and limitations imposed by the wireless provider. In addition, if your Kindle functions with third party services, such as Wi-Fi access points, a third party may charge you fees for the use of those services. If your Kindle is not subject to a data plan or other third party fees, generally, we do not charge you for use of wireless connectivity.
 
-**a. Internet Connectivity.** Amazon Services may require an Internet connection from a third-party provider in order to use some features. In such cases, your Internet connection is subject to the fees, restrictions, terms and limitations imposed by your provider.
+However, your Kindle may use wireless connectivity to make other services available to you for which we may charge you a fee, such as personal file download and subscriptions when you are located in another country. The fees and terms for such services are located on the Amazon.com website or on or through your Kindle and may change from time to time.  
+  
+**Your Conduct.** You may use the wireless connectivity provided by us only in connection with the Service as permitted by this Agreement. You may not use the wireless connectivity for any other purpose.  
+  
+**Availability.** If your Kindle is located in an area in which it cannot maintain wireless connectivity, you may not be able to use some or all of the Service. We are not responsible for the unavailability of wireless connectivity for your Kindle or any corresponding loss of Service. Events beyond our reasonable control (such as changes in service or terms by wireless carriers) may impact the terms or circumstances under which we provide you wireless connectivity and may result in a change to these terms or a temporary or permanent modification or loss of wireless connectivity for your Kindle.
 
-**b. Availability.** Some Amazon Services may be unavailable, vary (by product or geography, for example), be offered for a limited time, or require separate subscriptions.
+2\. Device and Software
 
-**3\. General**
+**Use of the Software.** You may use the Software only on a Kindle or through a Reading Application on a Supported Device. Additional terms contained in the Amazon.com Conditions of Use apply to the Software. For additional terms that apply to certain third party software, see the Legal, Legal &. Compliance, or similar section in the Settings menu of your Kindle or the Legal Notices section of your Reading Application.  
+  
+**Location Based Services** **.** Some Kindle devices have a feature that, when enabled, allows Amazon and applications on your device to access location information that can be used to provide location based services. Learn more about collection and use of location data. If you are using location based services on your Kindle for navigation, you are solely responsible for ensuring you drive safely, observe all traffic rules, and use your own judgment while driving and selecting routes. Amazon does not guarantee the accuracy, completeness, or security of any location based services.  
 
-**a. Information Received.** The Amazon Software may provide us with information about your Product, use of the Product, and use of Digital Content, other content, and the Amazon Services (such as search queries, installed applications, viewing and usage data, available memory, log files, network diagnostics, voice information, and connectivity). Manufacturers of your Product may also provide us with similar information. Information provided to Amazon may be processed in the cloud to improve your experience and our services, and may be stored on servers outside the country in which you live. We will handle any information we receive in accordance with the Amazon.com Privacy Notice. Please visit the Settings menu of your Product if you prefer to opt out of providing certain information.
+  
+  
 
-**b. Information Provided To Others.** You are responsible for any information you provide to others, including third-party Digital Content providers. Use of information you provide to these third parties will be subject to any privacy notice or other terms that they may provide to you.
+3\. General
 
-**c. Changes to Amazon Services. Amendments.** We may change, suspend, or discontinue the Amazon Services, or any part of them, at any time without notice. We may amend any of this Agreement's terms at our sole discretion by posting the revised terms on the Amazon.com website. Your continued use of Amazon Services after the effective date of the revised Agreement constitutes your acceptance of the terms.
+**Information Received.** The Software will provide Amazon with data about your Kindle and its interaction with the Service (such as available memory, up-time, log files, and signal strength). The Software will also provide Amazon with information related to the Digital Content on your Kindle and Supported Devices and your use of it (such as last page read and content archiving). Information provided to Amazon, including annotations, bookmarks, notes, highlights, or similar markings you make using your Kindle or Reading Application, may be stored on servers that are located outside the country in which you live. Any information we receive is subject to the Amazon.com Privacy Notice.  
+  
+**Information Provided To Others.** You are responsible for any information you provide to others using a Kindle or a Reading Application. Any information you provide to a third party will be subject to the privacy notice or any similar terms that the third party provides to you, and will not be subject to the Amazon.com Privacy Notice.  
+  
+**Changes to Service.** We may modify, suspend, or discontinue the Service, in whole or in part, at any time.  
+  
+**Termination.** Your rights under this Agreement will automatically terminate if you fail to comply with any term of this Agreement. In case of such termination, Amazon may immediately revoke your access to the Service without refund of any fees. Amazon's failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of its rights.  
+  
+**Governing Language.** If this Agreement is translated into a language other than English, the English version will govern and prevail to the extent that there is any conflict or discrepancy.  
+  
+**Disputes/Binding Arbitration. Any dispute or claim arising from or relating to this Agreement or a Kindle, any Reading Application, or the Service is subject to the binding arbitration, governing law, disclaimer of warranties and limitation of liability and all other terms in the Amazon.com Conditions of Use** **. You agree to those terms by entering into this Agreement or using a Kindle, any Reading Application, or the Service.**  
+  
+**Disclaimer of Warranties and Limitation of Liability. Without limiting the Disclaimer of Warranties and Limitation of Liability in the Amazon.com Conditions of Use, (1) unless otherwise provided by Amazon, your Kindle is subject to a one-year limited warranty** **. and (2)** **in no event will Amazon's aggregate liability under this Agreement with respect to any claim exceed the amount you actually paid for your Kindle.**  
 
-**d. Termination.** Your rights under this Agreement will automatically terminate without notice if you fail to comply with any of its terms. In case of such termination, Amazon may immediately revoke your access to the Amazon Services. Amazon's failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of its rights.
+**Contact Information.** For help with your Kindle, a Reading Application, the Service, Digital Content, or resolving other issues, please contact Customer Service by e-mail: kindle-cs-support@amazon.com or by phone at 1-866-321-8851 (toll free) when dialing in the US or at 1-206-266-0927 (charges will apply) when dialing outside the US.  
+For communications concerning this Agreement, please contact Amazon by email: kindleterms@amazon.com.
 
-**e. Disputes/Binding Arbitration. Any dispute or claim arising from or relating to this Agreement, a Product, the Amazon Software, or the Amazon Services is subject to the binding arbitration, governing law, disclaimer of warranties, limitation of liability, and all other terms in the Amazon.com Conditions of Use. You agree to those terms by entering into this Agreement, or using a Product or the Amazon Services.**
-
-**f. Disclaimer of Warranties and Limitation of Liability. Products are developed and manufactured by third parties, and we have no responsibility or liability for any aspect of Products except the Amazon Services. Without limiting the Disclaimer of Warranties and Limitation of Liability terms in the Amazon.com Conditions of Use, unless otherwise required by applicable law, in no event will our or our licensors' aggregate liability with respect to any claim arising from or related to this Agreement or your use of the Amazon Services exceed fifty dollars ($50.00).**
-
-**g. Contact Information.** For help with the Amazon Services, Digital Content, Amazon Software or resolving other related issues, please contact Customer Service at www.amazon.com/contact-us/.
-
-Was this information helpful?
-
-Yes No
-
-Thank you for your feedback.
-
-Please select what best describes the information:
-
-This information is confusing or wrong This isn't the information I was looking for I don't like this policy Submit
-
-Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
+  Kindle Tools Know Your Kindle Kindle FAQs | Kindle Discussions | Manage Your Kindle | Troubleshooting Your Kindle
