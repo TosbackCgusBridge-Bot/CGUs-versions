@@ -687,21 +687,21 @@ contactos Telemundo TV Ahora
 *   Sáb
 *   Dom
 
-*   ¡Semana explosiva!
+*   ¡Ponte al día!
     
-    Actualízate con tus novelas
+    Actualízate con Pablo Escobar
     
-*   Digitaliza tu vida sexual
+*   Tu cena de acción de gracias
     
-    Con aplicaciones eróticas para tu celular  
+    ¡Prepara un rico relleno para el pavo!  
     
 *   Parejas explosivas
     
     Amores sexy que se llevaron a la vida real
     
-*   Camino de Miss El Salvador
+*   Camino de Miss Colombia
     
-    Ana Yancy Clavel es la belleza salvadoreña.
+    Conoce a Daniella Álvarez.
     
 
 Más en Telemundo:
