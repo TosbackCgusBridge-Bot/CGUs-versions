@@ -1,34 +1,3 @@
-**Journalists: Have questions?** _Ask us here:_ Email Media Relations
-
-Facebook Twitter Pinterest
-
-*   Our Story
-*   News &. Views
-*   Community Giving
-*   Global Responsibility
-*   Investors
-*   Suppliers
-*   Careers
-
-**WMT**69.02 +0.99 Home >. Privacy &. Security >. Walmart Privacy Policy
-
-*   Privacy &. Security
-    *   Walmart Privacy Policy
-        
-    *   Notices
-    *   Fraud Alerts
-    *   Warnings Signs of Fraud
-    *   Privacy &. Online Safety Tips
-    *   Report Identity Theft
-    *   Privacy &. Security FAQs
-
-Walmart Privacy Policy Contact Privacy Office
-
-Walmart Home Office  
-Privacy Office, MS #505  
-508 SW 8th Street  
-Bentonville, AR 72716-0505
-
 Walmart Privacy Policy - Highlights Scope:
 
 This Policy applies to customer information we collect in the United States and Puerto Rico at Walmart retail stores ("stores") and through our websites (for purposes of this Policy, "websites" includes our mobile applications).  
@@ -305,4 +274,4 @@ Our privacy Policy describes how we share information for marketing purposes. Th
 
 Please contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose, via the Contact Us section above.
 
-Last Updated: April 26, 2012 Share this page: Tweet Shop Walmart.com Shop SamsClub.com Walmart Careers @WalmartLabs Walmart Community Contact Us Privacy &. Security California Privacy Rights Frequently Asked Questions Policies Recalls RSS Feeds Terms of Use Site Map © 2012 Wal-Mart Stores, Inc.
+Last Updated: April 26, 2012
