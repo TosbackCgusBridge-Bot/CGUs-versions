@@ -1,40 +1,3 @@
-Glassdoor is your free inside look at jobs and companies. Salary details, company reviews, and interview questions — all posted anonymously by employees and job seekers.
-
-*   HOME
-
-*   Jobs
-
-*   Companies &. Reviews
-
-*   Salaries
-
-*   Interviews
-
-**Post a Salary or Review** Sign Up or Sign In
-
-Search
-
-Jobs Companies Salaries Interviews
-
-for
-
-in
-
-_Search_ Advanced Advanced
-
-*   About Us
-*   Press Center
-*   Blog
-*   Privacy &. Terms of Use
-    *   Site Terms of Use
-    *   Widget Terms of Use
-    *   Post a Job Terms of Use
-    *   Privacy Policy
-*   Employers
-*   Publishers
-*   Career Centers
-*   Libraries
-
 Glassdoor Privacy Policy
 
 This Privacy Policy was last updated in January 2012.
@@ -201,23 +164,3 @@ We reserve the right to modify this statement at any time, so please review it f
 If you have any questions or suggestions regarding our Privacy Policy please contact us by sending us an e-mail to privacysupport@glassdoor.com or through Contact Us.
 
 Glassdoor 1 Harbor Drive Suite 300 Sausalito, CA   94965-1434 USA
-
-Loading…
-
-**About Us**  |  **Employers**  |  **Careers**  |  **Blog**  |  **Feedback**  |  **Help**
-
-**Browse:**
-
-*   Salaries by Job
-*   Salaries by Company
-*   Salaries by City
-*   Reviews by Company
-*   Interview Questions by Job
-*   Interviews by Company
-*   Jobs by Title
-*   Jobs by Company
-*   Jobs by City
-
-Copyright © 2008–2012, Glassdoor. All Rights Reserved. Your use of this service is subject to our Terms of Use and Privacy Policy.
-
-Glassdoor ® is a registered trademark of Glassdoor, Inc.
