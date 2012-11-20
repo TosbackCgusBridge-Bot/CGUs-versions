@@ -6,7 +6,7 @@
 *   Store locator
 *   Click &. Collect
 *   FAQ
-*   Newsletter Signup
+*   Join Our VIP Club
 *   Pets at Home TV
 *   Contact Us
 *   Privacy &. Cookies
