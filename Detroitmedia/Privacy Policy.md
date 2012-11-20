@@ -1,14 +1,3 @@
-Bringing together the most trusted editorial coverage and strategic  
-marketing solutions that serve the metro Detroit and Michigan community.
-
-*   Home
-*   Digital
-*   Print
-*   Direct Marketing
-*   Recruitment
-*   Contact Us
-*   Rates
-
 Terms of Service  
 General
 
@@ -343,40 +332,3 @@ of law. If any provision of this agreement shall be unlawful, void or
 for any reason unenforceable, then that provision shall be deemed severable  
 from this agreement and shall not affect the validity and enforceability  
 of any remaining provisions.
-
-*   Print
-    *   Overview
-    *   History of Achievement
-    *   Premium Positions
-    *   Market Smart
-    *   Special Audience Products
-    *   Observer &. Eccentric Media
-*   Digital
-    *   Overview
-    *   Partner Services
-    *   Products
-    *   Reach &. Targeting Abilities
-    *   Search Engine Marketing
-    *   Mobile Advertising
-*   Direct Marketing
-    *   Overview
-    *   Direct Mail
-    *   Front Page Notes
-    *   Print &. Deliver
-    *   PrePrints &. PolyBags
-    *   Targeted E-mail Blasts
-    *   Subscriber E-mail Blasts
-*   Recruitment
-    *   Overview
-    *   Print Ads
-    *   Online Products
-*   *   Credit Application
-    *   Rates
-    *   PrePress / Ad Delivery
-    *   Detroit Free Press Subscriber Services
-    *   The Detroit News Subscriber Services
-*   *   Contact Us
-    *   Contest Rules
-    *   Employment Opportunities
-    *   Mobile Advertising
-    *   Terms of Service
