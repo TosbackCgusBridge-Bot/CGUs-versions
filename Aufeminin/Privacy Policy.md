@@ -1,26 +1,8 @@
 Se connecter
 
-OK
-
-*     Forum
-*     News
-*     aufeminin.tv
-*    Mode
-*    Beauté
-*    People
-*    Maman
-*    Psycho
-*    Déco
-*    Société
-*    Cuisine
-*    Culture
-*    Mariage
-*    Sexo
-*    Forme
-*    Astro
-*     Le Club
-
-   
+OK Accueil News aufeminin.tv Mode Beauté People Maman Psycho Déco Société Cuisine Culture Mariage Sexo Forme Astro Luxe  
+**Joyce.fr** Santé  
+**Santé AZ** Forum | Albums photos | Blogs | Vos vidéos | | Groupes | Vos Questions | Auto aufeminin | High-Tech | e-Cartes | Jeux  
   
 **Protection et modification  
 de mes données personnelles**  
