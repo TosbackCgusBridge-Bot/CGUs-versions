@@ -1,48 +1,3 @@
-**Warning: Vanguard.com will not work properly with JavaScript disabled!** Vanguard - Privacy Policy Personal Investors Open an account Forms Contact us Help Log on Search
-
-*   Home
-*   My Accounts
-*   Funds, Stocks &. ETFs
-    
-    *   Vanguard funds
-    *   Vanguard ETFs
-    *   Other fund families
-    
-    *   Stocks, bonds &. CDs
-    
-    *   Annuity portfolios
-    *   529 portfolios
-*   What We Offer
-    
-    *   Overview
-    *   Mutual funds
-    *   ETFs
-    *   Stocks, bonds &. CDs
-    
-    *   401(k) rollovers
-    *   IRAs
-    *   College
-    *   Small business
-    *   Annuities
-    
-    *   Advice
-    *   Retirement income
-    *   Personal services
-    *   Account services
-*   Insights
-    
-    *   Overview
-    
-    *   Markets &. economy
-    *   Retirement
-    *   Saving &. investing
-    *   College savings
-    *   Tax center
-    
-    *   Investing truths
-
-new vg.Menu({id:'firstNav', closeOnScroll: false, autosubmenudisplay: true, hidedelay: 0, lazyload: true, addScrollRegions: true, menuBar: true, shadow: false, minscrollheight: 85, mouseOutExtAreaHideDelay: 500, openOnFocus: true, initEvent: event }). Vanguard's privacy policy
-
 _The following privacy policy is provided by the Vanguard funds, The Vanguard Group, Inc., Vanguard Marketing Corporation, Vanguard Advisers, Inc., Vanguard Fiduciary Trust Company, and Vanguard National Trust Company._
 
 Our commitment to you
@@ -95,9 +50,3 @@ We'll keep you informed
 As required by federal law, we will notify you of our privacy policy annually. We reserve the right to modify this policy at any time, but rest assured that if we do change it, we will tell you promptly.
 
 _Revised 09/2012_.
-
- 
-
-© 1995–2012  The Vanguard Group, Inc. All rights reserved. Vanguard Marketing Corp., Distrib. Terms &. conditions of use | Security Center | Obtain prospectus | Careers | Mobile services | Feedback
-
-**EV1\_01**
