@@ -118,4 +118,4 @@ Wikia Inc Navigation
 *   Privacy Policy
 *   Content is available under CC-BY-SA.
 
-Politics Halloween @WikiaLifestyle
+Politics Halloween @Wikia
