@@ -1,4 +1,4 @@
-Amazon Join Prime
+Amazon
 
 *   Your Amazon.com
 *   Today's Deals
@@ -247,8 +247,6 @@ Kindle Owners' Lending Library
 Borrow from over 180,000 titles for free
 
 \>. Get started
-
-Watch. Read. Shop. Relax. Millions of Amazon Prime members enjoy instant videos, free Kindle books and unlimited free two-day shipping. >. Get started
 
 *   Unlimited Instant Videos
 *   Prime Instant VideosUnlimited streaming of thousands of  
