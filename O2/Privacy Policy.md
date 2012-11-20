@@ -103,6 +103,7 @@ Welcome Sign In / Sign Out or Register Search: O2 Business
         *   Voicemail
         *   Email on your phone
         *   Picture messaging
+        *   Charge to mobile
     *   Other products &. services
         *   Laptops
         *   O2 Money
