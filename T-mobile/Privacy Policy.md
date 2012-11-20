@@ -1,18 +1,8 @@
-Hurricane Sandy Relief Text Your Donation to Help With Hurricane Sandy severely impacting many areas, its a good time to consider making a donation to relief efforts. T-Mobile® customers can make a secure donation to the American Red Cross® using their T-Mobile phone.  
+Offer details Free activation on all phones and internet devices For a limited time, pay no activation fee when you purchase a new phone or internet device online. Thats a $35 savings!  
   
+Act now! Offer ends on 11/21. New 2-year agmt. on qualifying rate plan required.
 
-*   **Text the keyword DONATE to 90999 to give $25**
-*   **Text the keyword REDCROSS to 90999 to give $10**
-
-  
-  
-One hundred percent of any donation you make using your T-Mobile phone using these text shortcodes is made directly to the American Red Cross.  
-  
-Donations are charged to your T-Mobile phone bill. Donation text messages are free for all T-Mobile customers\*.  
-  
-Learn more >. \*Msg and Data rates may apply if using another carrier. The Greek Red Cross emblem and the American Red Cross name are federally protected marks of The American National Red Cross.
-
-*   HURRICANE SANDY RELIEF: Text your donation to help Details
+*   Limited time: Waived activation on all devices, a $35 savings Details
 
   
 Privacy Policy: Highlights
