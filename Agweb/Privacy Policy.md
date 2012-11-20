@@ -237,12 +237,8 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   How Would You Describe Your 2012 Harvest Season?
-*   Farmer’s Approach to “Full-Circle Farming” Takes New Meaning
-*   Mark Clarke Named Director of Dane County, Wis. Alliant Energy Center
-*   Power Hour: Big Questions Surrounding Markets, Farm Policy
-*   October Milk Production Down 0.1%
-*   Milk Prices Help October Cash Flows
+*   CWT Assists with 7.2 Million Pounds of Export Sales
+*   Pork Producers Did Not Panic
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
