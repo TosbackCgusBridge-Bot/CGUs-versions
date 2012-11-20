@@ -1,27 +1,3 @@
-**Suche:**   erweiterte Suche
-
-*   Warenkorb
-*   Ihr Konto
-*   Kasse
-*   Anmelden
-
-*   Startseite
-*   Privatsphäre und Datenschutz
-
-Kategorien
-
-*   Chirurgie
-*   Podologie
-*   Veterinärchirurgie
-
-Informationen
-
-*   Privatsphäre und Datenschutz
-*   Unsere AGB
-*   Impressum
-*   Kontakt
-*   Gebrauchsanweisung
-
 Privatsphäre und Datenschutz Inhalt drucken
 
 **Wir behandeln Ihre vertraulichen Daten so, wie wir es uns selbst wünschen, wenn wir im Internet einkaufen.**
@@ -37,9 +13,3 @@ Das heisst:
 *   Wir versuchen Sie mit klassischen Tugenden eines Shops von unseren Angebot zu überzeugen: Redlichkeit, Service, Leistung, Qualität und Preiswürdigkeit. Ihre Zufriedenheit und Weiterempfehlung ist uns wichtiger als der schnelle Verkauf.
 
 Ihr AF - Medical GmbH Team
-
-Willkommen zurück E-Mail-Adresse: Passwort: Passwort vergessen?
-
-Privatsphäre und Datenschutz Unsere AGB Impressum Kontakt Gebrauchsanweisung
-
-xt:Commerce 4.0 Community Edition © 2011 xt:Commerce
