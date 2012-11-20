@@ -4,7 +4,7 @@ Thank you, and God bless America."
 
 *   Email\*
 *   Zip Code\*
-*   Phone This field is for validation purposes and should be left unchanged.
+*   Comments This field is for validation purposes and should be left unchanged.
 
 Merchandise Facebook Twitter
 
