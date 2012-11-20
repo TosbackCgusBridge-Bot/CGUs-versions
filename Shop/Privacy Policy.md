@@ -81,6 +81,7 @@ The Latest
 *   Essentials
 *   Trade Collective
 *   Ashley's Picks
+*   Holiday Lookbook
 *   Winter Sneak Peek Lookbook
 
 Women's Apparel
