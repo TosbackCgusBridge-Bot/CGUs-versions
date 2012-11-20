@@ -1,71 +1,71 @@
-Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Cops: Bungling burglar shows how to get caught
+Skip navigation NBC Sports Site powered by nbcnews.com Latest news: NBCNews.com: Top NBCNews headlines: Hillary Clinton heads to Middle East for Gaza talks
 
 *   NFL
-    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Don Wright / AP Ravens rough up Steelers
+    SectionsProFootballTalk Sunday Night Football Video Fantasy Scores Standings Schedules Stats Odds Matchups FootballPros Player News Teams NFL draft NFL Tickets Shop Headlines Marcio Jose Sanchez / AP 49ers bury the Bears
     
-    Jacoby Jones had a 63-yard punt return for a TD and the Baltimore defense shut down a Pittsburgh offense playing without the injured Ben Roethlisberger to win 13-10 and improve to 8-2.
+    Backup quarterback Colin Kaepernick played like anything but a backup, Aldon Smith piled up 5.5 sacks and the 49ers dominated the Bears 32-7 Monday night.
     
-    PFT: Docs think Big Ben will miss three weeks PFT: Brady gets better of Luck  |  Gronkowski injured OT victories: Texans   |  Cowboys  |  Bucs PFT: Packers rally  |  Saints go from 0-4 to .500 Falcons give ball away 6 times, still win PFT: Jets rip Rams  |  Broncos continue to breeze Bengals roll over Chiefs, are thinking playoffs PFT: RG3, 'Skins blow out Eagles  |  Jets rout Rams Ad
+    CSN: For 49ers, full-blown QB controversy PFT: Harbaugh lets QB question simmer PFT: Broncos' McGahee out 6-8 weeks with torn MCL PFT: Falcons' Hawley suspended for PED violation NFL's overtime system is wonderful PFT: Roethlisberger likely out three more weeks PFT: Torn ACL sidelines Meriweather for season PFT: Ditka says stroke won't keep him down Ad
 *   MLB
-    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Reuters (2) Cabrera or Trout? Answer is yes
+    SectionsHardballTalk Video Fantasy Playoffs Schedules Stats Player News Teams Odds Matchups/Injuries Baseball Tickets Shop Headlines Adam Hunger / Reuters file Jays suddenly very relevant again
     
-    DeMarco: Miguel Cabrera was the right choice for AL MVP. But Mike Trout would have been, too.
+    DeMarco: The megatrade with the Marlins, which sent pitch Josh Johnson to Toronto, make the Blue Jays a legitimate contender in the AL East.
     
-    DeMarco: Jays suddenly very relevant again HBT: Jays sign Melky Cabrera to 2-year deal HBT: Riggleman, Tracy finalists for Jays manager? HBT: Marlins sign free agent OF Juan Pierre HBT: Marlins broke promises to Reyes, Buehrle HBT: Stanton still steamed over Marlins trade HBT: Trout, baseball's best player, is denied Cabrera beats Trout for AL MVP Ad
+    HBT: Jays to bring back Gibbons as manager HBT: Selig approves Jays-Marlins trade DeMarco: Cabrera or Trout? Answer is yes HBT: Jays sign Melky Cabrera to 2-year deal HBT: Riggleman, Tracy finalists for Jays manager? HBT: Marlins sign free agent OF Juan Pierre HBT: Marlins broke promises to Reyes, Buehrle HBT: Stanton still steamed over Marlins trade Ad
 *   NHL
-    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Mike Blake / Reuters Selanne, Jokinen not feeling positive
+    SectionsProHockeyTalk NHL on NBC Video Fantasy 2012-13 schedule Stats Odds Matchups Player News Teams Channel Finder Live Games NHL Tickets Shop Headlines Louis Lanzano / AP Bettman defends NHL's first offer
     
-    PHT: You can count Carolina’s Jussi Jokinen and Anaheim’s Teemu Selanne as skeptics when it comes to playing this season.
+    PHT: On Sunday, Commissioner Gary Bettman refuted the idea the proposal, calling for the players’ share of league revenue to be cut from 57 percent to 43 percent, was overly aggressive.
     
-    PHT: NHLPA reportedly won't decertify PHT: NHL, NHLPA to resume talks Monday SportsBIZ: Gretzky says all is not lost CSN: Flyers' Giroux hurts neck overseas PHT: Player called out for questioning Fehr PHT: Daly 'more discouraged now than ever' CSN: NHL needs to end this gong show ... NOW! CSN: NHL labor talks take odd, depressing turn Ad
+    PHT: Selanne, Jokinen not feeling positive PHT: NHLPA reportedly won't decertify PHT: NHL, NHLPA to resume talks Monday SportsBIZ: Gretzky says all is not lost CSN: Flyers' Giroux hurts neck overseas PHT: Player called out for questioning Fehr PHT: Daly 'more discouraged now than ever' CSN: NHL needs to end this gong show ... NOW! Ad
 *   NBA
-    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Adam Hunger / Reuters 'Melo scores 26, Knicks now 7-1
+    Sections ProBasketballTalk Video Fantasy Scores 2012-13 schedule Stats Standings Player News Teams Odds Matchups/Injuries NBA Tickets Shop Headlines Joe Murphy / Getty Images Contributor Nuggets end Grizzlies' win streak
     
-    Carmelo Anthony had 26 points and nine rebounds, and New York bounced back from their first loss of the season.
+    Danilo Gallinari scored 26 points, including a 3-pointer with 13 seconds left, and the Denver Nuggets ended the Memphis Grizzlies' win streak at eight games with a 97-92 victory Monday night.
     
-    Kobe's triple-double lifts Lakers   |  D'Antoni delay Durant's first triple-double sparks Thunder Pistons crush Celtics for first home win Hot Blazers beat Bulls, enjoy 3-game win streak PBT: Ouch! Another knee surgery for Wolves' Roy CSN: Bynum believes he hurt knee bowling PBT: Spoelstra calls Bosh the most important PBT: Reggie Evans warned for flopping (video) Ad
+    Clippers take down Spurs yet again PBT: Spurs' Jackson out 4-6 weeks with broken pinky PBT: Cavs' Irving out for month with fractured finger Sessions' late scoring helps Bobcats top Bucks Lin enjoying 'low-key' season PBT: Key to Lakers recent success? Fewer turnovers PBT: Nash goes 'Gangnam Style' from bench 'Melo scores 26, Knicks now 7-1 Ad
 *   NCAA FB
-    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Kevin C. Cox / Getty Images That was fast — 'Bama's back
+    SectionsCollegeFootballTalk Notre Dame Central Video Scores TV schedule Polls Standings Stats Odds Matchups Teams Heisman Hopefuls Hot Seat College FB Tickets Shop Headlines Wilfredo Lee / AP Miami bans itself from bowl play
     
-    CFT's Fifth Quarter: One week ago, it appeared the SEC's streak of six BCS titles was over. Now? The SEC is right back in one of the two title-game driver's seats.
+    CFT: The Hurricanes beame bowl eligible with a win over South Florida this past weekend. A win over Duke this week would have put them in the ACC title game. Instead, Georgia Tech will face Florida State.
     
-    CFT: ND, 'Bama 1-2 in BCS  |  Polls, too  |  Agree? CFT: USC without injured Barkley against No. 1 ND Notre Dame Central: Special section on Irish Iron Bowl carries BCS title stakes — again Improbably, No. 3 Georgia in mix for national title No. 4 OSU playing Michigan for ... AP title? Heisman Hopefuls: It's Manziel's to lose Ouch: Oregon falls to No. 5   |  K-State No. 7 Ad
+    CFT: It's official — Maryland moving to Big Ten CFT: Texas wants Thanksgiving home game every year College football's winningest coach retires UTEP's Price retiring after 31 years as head coach CFT: ND, 'Bama 1-2 in BCS  |  Polls, too  |  Agree? CFT: Tennessee fires Dooley after three seasons CFT: USC without injured Barkley against No. 1 ND Notre Dame Central: Special section on Irish Ad
 *   NCAA HOOPS
-    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Ricardo Arduengo / AP Youngsters lead Cowboys to upset
+    SectionsCollegeBasketballTalk Men's scores Women's scores Video Standings Schedules Stats Polls Rosters Teams Odds Matchups Tickets Shop Headlines Elsa / Getty Images Georgetown takes down No. 11 UCLA
     
-    CBT: Oklahoma State claimed the Puerto Rico Tip-Off title Sunday with a surprisingly easy 76-56 win over No. 6 N.C. State, riding the young legs of freshman Marcus Smart and sophomore LeBryan Nash to a huge upset.
+    Markel Starks scored 23 points and Georgetown beat No. 11 UCLA 78-70 in the semifinals of the Progressive Legends Classic on Monday night at the Barclays Center, spoiling the college debut of Shabazz Muhammad.
     
-    CBT: What if Big East loses more schools? CBT: Some Tar Heels never even read a book? No. 2 Louisville makes it look easy Thomas scores 31, leads No. 4 OSU over Wash. No upset this time — Wagner loses to No. 8 'Cuse Heslip's 29 help No. 16 Baylor down St. John's No. 23 UConn needs 2OTs to top Quinnipiac No. 24 Cincinnati crushes NC A&T Ad
+    CBT: Div. II Chaminade dominates Texas New Mexico upsets No. 21 UConn No. 1 Indiana handles Georgia Long Beach St. no match for No. 10 Arizona No. 9 UNC demolishes Mississippi St. No. 12 Kansas dispatches Washington St. Indiana, Louisville still 1-2 in AP poll CBT: Here come the Buffaloes Ad
 *   Motors
-    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines Terry Renna / AP Keselowski wins first NASCAR title
+    SectionsVideo Fantasy NASCAR results / schedule NASCAR standings NASCAR stats IndyCar results / schedule IndyCar standings F1 results / schedule F1 standings Auto Racing Tickets Shop Headlines David Ebener / EPA F1 season down to final race
     
-    After Jimmie Johnson pulls out, Brad Keselowski cruises to Sprint Cup championship for Penske, Dodge. Jeff Gordon wins Homestead race.
+    Formula One takes its championship duel between Red Bull's Sebastian Vettel, above, and Ferrari's Fernando Alonso to the season-ending race in Sao Paolo this week after those two finished second and third Sunday at the U.S. Grand Prix won by McLaren's Lewis Hamilton.
     
-    Gordon-Bowyer payback never materializes in finale Dodge says goodbye to NASCAR — at least for now Stenhouse Jr. wins second straight Nationwide title McLaren's Hamilton wins US Grand Prix in Austin F1's successful return leaves US wanting more Red Bull wins F1 constructors' championship Red carpet, choppers champagne greet F1 in Texas Mexican fans flock to Texas to cheer on Perez Ad
+    Keselowski wins first NASCAR title Gordon-Bowyer payback never materializes in finale Dodge says goodbye to NASCAR — at least for now Stenhouse Jr. wins second straight Nationwide title McLaren's Hamilton wins US Grand Prix in Austin F1's successful return leaves US wanting more Red Bull wins F1 constructors' championship Red carpet, choppers champagne greet F1 in Texas Ad
 *   Soccer
-    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Otto Greule Jr / Getty Images Galaxy get the job done
+    SectionsProSoccerTalk Video MLS scores MLS teams Premier League La Liga Serie A Bundesliga Ligue 1 Transfers Matchups Soccer Tickets Headlines Jonathan Daniel / Getty Images Berry is MLS's top rookie
     
-    PST: Seattle seized a 2-0 lead, but Robbie Keane was awarded and converted a penalty kick in the 68th minute on Sunday night that clinched Los Angeles's 4-2 aggregate victory in the Western Conference finals and a spot in the MLS Cup final for the second straight year.
+    PST: Chicago Fire defender Austin Berry made 28 consecutive starts and received 140 percent of weighted ballots added from team, media and player votes.
     
-    PST: Dynamo going for MLS Cup again Hall helps save the day for Dynamo Dynamo celebrate Eastern Conference title Roundup: Levante defeats Deportivo Former Man U player Morgans dies at 73 McClean receives death threats after poppy protest Sunderland beats 10-man Fulham 3-1 in EPL Arsenal comes from behind to beat Tottenham 5-2 Ad
+    PST: Galaxy get the job done PST: Dynamo going for MLS Cup again Hall helps save the day for Dynamo Dynamo celebrate Eastern Conference title Roundup: Levante defeats Deportivo West Ham held to 1-1 tie by Stoke in EPL Former Man U player Morgans dies at 73 McClean receives death threats after poppy protest Ad
 *   Golf
-    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Choi makes a statement for Koreans
+    SectionsGolfTalkCentral Scores News Video &. Photos PGA Tour Schedule PGA Tour Stats Fantasy Instruction Tee times Courses &. Travel Equipment Golf Channel TV Schedule Golf Tickets Shop Headlines Who breaks through for a major win in 2013?
     
-    Na Yeon Choi's season-ending win in the CME Group Titleholders demonstrated that Koreans remain the dominant force in the LPGA.
+    Adam Scott and Luke Donald each look primed for their first major win in 2013, but is someone else due to shed the major-less label first?
     
-    Choi captures Titleholders by two over Ryu Lewis thanks Tseng in POY acceptance speech Dunlop winner Donald returns to world No. 2 What We Learned: Titleholders Quotes of the Week Jimenez, 48, sets record with Hong Kong title Jimenez, Stenson make big moves in OWGR Park wraps up Vare Trophy, money title Q-School, Stage Two: Who's in, who's out Tip of the Week: Eliminating your over-the-top move Ad
+    Choi captures Titleholders by two over Ryu Who breaks through for a major win in 2013? Euro Tour fines Daly for behavior in Hong Kong Lewis thanks Tseng in POY acceptance speech What We Learned: Titleholders Dunlop winner Donald returns to world No. 2 Quotes of the Week Jimenez, 48, sets record with Hong Kong title Q-School, Stage Two: Who's in, who's out SwingFix analysis: Posture and staying connected Ad
 *   Olympics
     SectionsOlympicTalk Team USA coverage Athletes, A to Z Medals count Video Photos Universal Sports Headlines Alessandro Trovati / AP 'I had some infection in my tummy'
     
     Lindsey Vonn has resumed her training after missing time with an intestinal illness.
     
-    Obama, Maroney 'not impressed' photo spreads fast London passes Olympic baton to Rio organizers Takahito Mura, Ashley Wagner win Trophee Bompard Russia's Zubkov edges Holcomb in WC 4-man bobsled South Korea's Lee wins second 500m World Cup race Dukurs claims World Cup gold in men's skeleton Olympic champion diver says he turned to drugs Canada's Humphries wins another World Cup event Ad
+    Phelps, Franklin big winners at Golden Goggles Obama, Maroney 'not impressed' photo spreads fast London passes Olympic baton to Rio organizers Takahito Mura, Ashley Wagner win Trophee Bompard Russia's Zubkov edges Holcomb in WC 4-man bobsled South Korea's Lee wins second 500m World Cup race Dukurs claims World Cup gold in men's skeleton Olympic champion diver says he turned to drugs Ad
 *   More
-    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Steven Donahue Thanksgiving goes to the dogs
+    SectionsOther sports Off the Bench Tennis Cycling Horse racing Outdoors Action sports Fight Night Tickets Headlines Stuart Franklin / Getty Images The Week in Sports Pictures
     
-    The National Dog Show on NBC, now in its 11th year, has become as much a holiday fixture as turkey and pumpkin pie. So plop down in front of the TV - and save room on the sofa for all your four-legged friends. 
+    Daly battles a tree, a Beary happy fan, bikini head turner, roasted Duck and much more.
     
-    Czechs win Davis Cup with 3-2 victory over Spain WADA drafts proposal to up doping bans to 4 years Toronto beats Montreal 27-20 to reach Grey Cup Goldencents wins $1 million Delta Downs Jackpot Zenyatta's half-sister Eblouissante wins debut Off the Bench: Tyson scared of koala? (video) Broner stops DeMarco to take the WBC title Florida teen breaks national HS rushing record Ad
+    Thanksgiving goes to the dogs Czechs win Davis Cup with 3-2 victory over Spain WADA drafts proposal to up doping bans to 4 years Toronto beats Montreal 27-20 to reach Grey Cup Goldencents wins $1 million Delta Downs Jackpot Zenyatta's half-sister Eblouissante wins debut Off the Bench: Tyson scared of koala? (video) Broner stops DeMarco to take the WBC title Ad
 
 *   Scores
 *   Odds
@@ -184,7 +184,10 @@ New York, NY
 *   Instant Message
 *   Print
 
-Tweet Also on NBCSports.com HBT: No MVP award, but Trout still best player  
+Tweet Also on NBCSports.com PFT: Steelers simply not the same without Big Ben  
+CFT: Notre Dame, Alabama 1-2 in BCS standings  
+NASCAR: Keselowski wins first Sprint Cup title  
+HBT: No MVP award, but Trout still best player  
 Follow us on Twitter: @NBCSports  |  And Facebook ‘ NBC Sports© 2012 NBC Universal  
 Privacy | Legal | Advertise | Help  
 Independent Programming Report  
