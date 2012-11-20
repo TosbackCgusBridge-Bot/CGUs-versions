@@ -1,41 +1,4 @@
-Skip to search.
-
-*   _New User?_ Register
-*   _Sign In_
-*   Help
-
-Make Y! My Homepage  
-
-Yahoo!
-
-Close this window To make Yahoo! your homepage, Drag the Yahoo! logo to the 'Home' icon on your Firefox Toolbar
-
-*     Notifications Help
-    
-*   Mail
-    
-*   My Y!
-*   Yahoo!
-
-Yahoo! Privacy Search Search Web Breaking News Visit Yahoo! News for the latest. ×Close this window
-
-*   Home
-*   Products
-*   Topics
-*   Preferences
-*   Help
-
-*   WHAT THIS PRIVACY POLICY COVERS
-*   INFORMATION COLLECTION AND USE
-*   INFORMATION SHARING AND DISCLOSURE
-*   COOKIES
-*   YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES
-*   CONFIDENTIALITY AND SECURITY
-*   POSTING ON PUBLICLY ACCESSIBLE AREAS
-*   CHANGES TO THIS PRIVACY POLICY
-*   QUESTIONS OR SUGGESTIONS
-
-Email Print WHAT THIS PRIVACY POLICY COVERS
+WHAT THIS PRIVACY POLICY COVERS
 
 This Privacy Policy covers Yahoo!'s treatment of personally identifiable and other information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. “Data” and “information” includes information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. Where applicable we explicitly point out the use of personally identifiable data within our privacy policies. All other data is anonymous to us or is used pseudonymously.
 
@@ -135,16 +98,3 @@ QUESTIONS OR SUGGESTIONS
 If you have questions or suggestions complete a feedback form.
 
 Return to top
-
-Highlights
-
-OPT-OUT  
-
-Prefer not to receive advertising based on your interests? Learn about your ability to opt-out of interest-matched advertising served by Yahoo!.
-
-RELEVANT ADVERTISING
-
-By bringing content and advertising to you that is relevant and tailored to your interests, Yahoo! provides a more compelling online experience. Our customized "smart" services save you time and cut through the clutter. Learn More about relevant advertising.
-
-Copyright © 2012 Yahoo! All Rights Reserved.  
-Privacy Policy | Terms of Service
