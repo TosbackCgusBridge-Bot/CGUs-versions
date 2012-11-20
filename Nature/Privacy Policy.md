@@ -146,7 +146,7 @@ Nature Conservancy fire crew doing a prescribed burn at Studnicka Tract, Nebrask
 
 Nature Conservancy staff share their first-hand accounts with wildfires. Read stories
 
-Share Donate to The Nature Conservancy Coast live oak trees punctuate the prairie grasslands at Chimineas Ranch, a protected wildlife corridor linking the Carrizo Plain National Monument with Los Padres National Forest, located within San Luis Obispo County, California. © Mark Dolyak When you donate today, you’ll help The Nature Conservancy protect the most vital habitats on Earth.  
+Donate to The Nature Conservancy Coast live oak trees punctuate the prairie grasslands at Chimineas Ranch, a protected wildlife corridor linking the Carrizo Plain National Monument with Los Padres National Forest, located within San Luis Obispo County, California. © Mark Dolyak When you donate today, you’ll help The Nature Conservancy protect the most vital habitats on Earth.  
 
 Donate Now
 
