@@ -77,6 +77,7 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Detroit
     *   Fort Lauderdale
     *   Grand Rapids
+    *   Green Bay
     *   Hartford-New Haven
     *   Hawaii
     *   Houston
@@ -86,7 +87,6 @@ _The Deal Experts. Over 25 million Subscribers Worldwide._
     *   Kansas City
     *   Knoxville
     *   Long Island
-    *   Louisville
     *   Madison
     
     *   Memphis
