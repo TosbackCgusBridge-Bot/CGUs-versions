@@ -105,15 +105,15 @@ We reserve the right to update or modify this Privacy Policy, at any time and wi
 
 Follow UsTwitter
 
-*   Video: 50 Cent hits up QVC and sells out headphones in minutes t.co/Oslgeksf
+*   Rep. Allen West FINALLY concedes defeat t.co/84X2DQz5
     
-    35 minutes ago
-*   Nine easy steps for carving a turkey on #Thanksgiving t.co/F5W4GtuH
+    1 hour ago
+*   #KUWTK's @KimKardashian to visit the Middle East to educate herself #Palestine #Gaza
     
-    39 minutes ago
-*   Cost of #Sandy reaches $50 billion dollars t.co/GexBwLML
+    1 hour ago
+*   Thanksgiving is upon us, but here are 13 celebrity families we would NOT want to spend the holiday with t.co/UrPw6Ab0
     
-    52 minutes ago
+    1 hour ago
 
 © 2006-2012 Clarity Digital Group LLC d/b/a Examiner.com. About examiner.com
 
