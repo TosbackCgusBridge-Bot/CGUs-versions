@@ -29,8 +29,9 @@ Rachael Ray
     *   Travel Home
     *   Travel Blog
     *   Travel Articles
-    *   Feedback
+    *   Holiday Gift Guide
     *   Holiday Entertaining
+    *   Feedback
     *   Travel Tote Bags
     *   Evette Rios
     *   The Cleaning Lady
@@ -228,7 +229,6 @@ Partner Sites
 *   Yum-o! charity
 *   Nutrish for Pets
 *   Rachael Ray Store
-*   Rachael Ray on ehow.com
 
 Site Map • About Us • FAQ • Advertise • Contact Us • Privacy • T&C • Rach's Partner Sites • Articles • rachaelraystore.com  
 Visit us at: Facebook Twitter  
