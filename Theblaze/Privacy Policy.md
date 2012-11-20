@@ -25,8 +25,8 @@ Sign In Sign Up
 *   Log Out
 
 *   Hot Topics:
+*   Agenda 21
 *   Gaza Attacks
-*   David Petraeus
 *   Fiscal Cliff
 *   TheBlaze TV
 
@@ -255,8 +255,8 @@ Sections
 
 Hot Topics
 
+*   Agenda 21
 *   Gaza Attacks
-*   David Petraeus
 *   Fiscal Cliff
 *   TheBlaze TV
 
