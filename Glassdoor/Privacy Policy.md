@@ -202,7 +202,7 @@ If you have any questions or suggestions regarding our Privacy Policy please con
 
 Glassdoor 1 Harbor Drive Suite 300 Sausalito, CA   94965-1434 USA
 
-Loading...
+Loading…
 
 **About Us**  |  **Employers**  |  **Careers**  |  **Blog**  |  **Feedback**  |  **Help**
 
