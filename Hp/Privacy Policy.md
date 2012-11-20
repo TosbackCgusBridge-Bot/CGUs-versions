@@ -529,7 +529,8 @@ Open menu: Select another location or language-Close menu: Select another locati
     *   Offers &. Rebates / As Advertised
     *   Subscribe
     *   Register Your Product
-    *   Education &. Training
+    *   Education Services
+    *   Training &. Certification
     *   Partners &. Developers
     *   Product Recycling
     *   Accessibility &. Aging
