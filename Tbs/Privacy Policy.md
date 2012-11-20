@@ -70,6 +70,7 @@
     *   tbs for iPad
     *   tbs for iPhone
     *   tbs for android
+    *   tbs for windows 8
     *   tbs presents: the big bang theory
     *   team coco for iphone
     *   team coco for android
