@@ -4,15 +4,15 @@ Break
 *   _Popular_
 *   _Channels..._
     
-    *   SONY PICTURES HOME ENTERTAINMENT PRESENTS **Action Unleashed** _Hottest new action movies_
-    *   Super Funny Videos
-    *   Pranks &. Fails
-    *   Bizarre &. Amazing
-    *   All The Animals
-    *   Sports
-    *   Gaming
-    *   Trailers &. Clips
-    *   Heartwarming
+    *   SONY PICTURES HOME ENTERTAINMENT PRESENTS **Action Unleashed** _Hottest new action movies_ Action Unleashed
+    *   Super Funny Videos Super Funny Videos
+    *   Pranks &. Fails Pranks &. Fails
+    *   Bizarre &. Amazing Bizarre &. Amazing
+    *   All The Animals All The Animals
+    *   Sports Sports
+    *   Gaming Gaming
+    *   Trailers &. Clips Trailers &. Clips
+    *   Heartwarming Heartwarming
     
        
 
