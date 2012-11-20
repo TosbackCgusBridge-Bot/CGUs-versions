@@ -1,7 +1,4 @@
-EnglishPortuguês (Brasil)EspañolالعربيةFrançaisPolski پارسیTürkçeBahasa IndonesiaไทยDeutschItaliano 中文日本語한국어Tiếng ViệtBahasa MelayuРусский   Files Photo Music Books Video Games
-
-\[x\] Close _Sign Up_ Caps Lock is on _Login_     Caps Lock is on Forgot password? Login with:  Premium Languageen FAQ Help Report abuse  
-4shared Privacy Policy This privacy policy ("**Policy**") explains how personally identifiable information is collected, used and disclosed by New IT, Ltd. ("**we**" or "**us**") with respect to your access and use of 4shared's online file storage and sharing service located at www.4shared.com and www.4sync.com, (the "**Service**") and our mobile applications 4shared Sync, 4shared Photo, 4shared Music and 4shared ("Apps" or "App"), so you can make an informed decision about using the Service.  
+This privacy policy ("**Policy**") explains how personally identifiable information is collected, used and disclosed by New IT, Ltd. ("**we**" or "**us**") with respect to your access and use of 4shared's online file storage and sharing service located at www.4shared.com and www.4sync.com, (the "**Service**") and our mobile applications 4shared Sync, 4shared Photo, 4shared Music and 4shared ("Apps" or "App"), so you can make an informed decision about using the Service.  
   
 We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used.  
   
@@ -98,37 +95,4 @@ You may "opt out" of receiving marketing or promotional emails from us by follow
   
 **Questions?**  
   
-If you have any questions about this Policy, please contact us at support@4shared.com or via postal mail at 4shared.com, 745 Distel Dr., Los Altos, CA 94022 .  
-  
-  
-  
-Site Links Home  
-Premium  
-Link to Us  
-Search  
-Help FAQ  
-Help  
-Quick Tour  
-Features  
-Contact Us About Company  
-Advertising  
-Resellers  
-Payment Contacts  
-Copyright Legal Terms of Use  
-Privacy  
-Copyright Infringement  
-Security  
-SLA  
-Sharing File Sharing  
-Music Sharing  
-Photo Sharing  
-Video Sharing  
-Document Sharing Media Press Room  
-Blog  
-Twitter  
-Facebook  
-Tools 4shared Mobile  
-4shared Desktop  
-4Sync  
-Developer  
-Copyright © 2005-2012 4shared.com
+If you have any questions about this Policy, please contact us at support@4shared.com or via postal mail at 4shared.com, 745 Distel Dr., Los Altos, CA 94022 .
