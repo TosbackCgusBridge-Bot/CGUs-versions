@@ -64,7 +64,7 @@ close x Search Catalog Search Catalog Navigation
             Holiday candles &. fragrance:  
             The gift that’s almost too pretty to give. Shop Apple Crisp, Peppermint Creme and all your favorites
         *   Gifts &. Occasions
-            *   Gifts By Price
+            *   Gifts by Price
             *   Jewelry
             *   Scarves &. Accessories
             *   Bath &. Body
