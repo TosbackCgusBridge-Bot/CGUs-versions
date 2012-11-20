@@ -21,6 +21,7 @@ Sign up for our newsletter
     *   100 Films
     *   50 Films
     *   Best Pictures
+    *   Musicals
 *   WB SHOP
 
 THOUSANDS OF TITLES - MOVIES, TV SHOWS, VIDEOGAMES AND MUSIC ADDITIONAL INFORMATION Information Collection Your Choices Uses of Information Disclosure of Information How to Contact Us PRIVACY CENTER: WB Privacy Policy PRINT **Scope of Privacy Policy** Your privacy is important to us. This notice provides highlights of Warner Bros. Entertainment Inc.'s ("WBEI", "we," "our," "us") Privacy Policy. Our full Privacy Policy applies to WBEI Web sites ("Site" or "Sites") and services that display or link to this policy. To review our children's privacy practices, please view our Additional information regarding children.  
