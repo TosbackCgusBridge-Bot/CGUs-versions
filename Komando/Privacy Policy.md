@@ -1,6 +1,25 @@
-  
-Shop Get Free  
-Newsletters About Kim Listen &. Watch Columns Downloads Apps Cool Sites Tips Buying Guide Contests TVKim Message Board Our Privacy Policy  
+*   Skip to content
+*   Skip to navigation
+
+KIM'S CLUBLog In|Join Now Find Your Station
+
+SEARCH
+
+*   Home
+*   Shop
+*   Newsletters
+*   Listen &. Watch
+*   Columns
+*   Downloads
+*   Apps
+*   Cool Sites
+*   Tips
+*   Buying Guide
+*   Contests
+*   Video
+*   Forum
+
+Our Privacy Policy  
   
 
 WestStar Digital Audio, together with its subsidiaries and affiliates companies (herein "we," "us," "our," "the Company") with include but are not limited to WestStar TalkRadio Network, WestStar Merchandising Inc., dba The Store at Komando.com, The Kim Komando Show and its official website located at, or linked to www.komando.com or store.komando.com (herein, websites), Kim’s Club® (our premium, subscription component of www.komando.com together with all of its newsletters and associated publications, including but not limited to "The Kim Komando Show Weekly Newsletter," "The Kim Komando Show Tip of the Day," "The Kim Komando Show Cool Site of the Day," "The Kim Komando Show News of the Day," (herein "newsletters") is committed to keeping our users, subscribers and customers (herein "you" or "your") informed about how we use or may use the information we gather from you in the routine course of conducting business and providing you with the services and/or products which you have requested and/or purchased through any of our websites.  
@@ -190,18 +209,47 @@ Any rights not granted herein are reserved to and by WestStar TalkRadio Network.
 Last modified on: 9/19/2011  
   
   
-  
-   
-  
-  
-Advertise  |  Affiliates  |  Contact  |  Demos  |  FAQs  
-Feedback  |  Jobs  |  Privacy Policy  |  Terms and Conditions  
+Komando.com
 
-Text link index page for the visually impaired.
+*   Kim's Store
+*   TVKim.com
+*   Komando Tech News
+*   Operation Komando
+*   Buying Guides
+*   Contests
+*   Forum
+
+ 
+
+*   Newsletter Management
+*   Columns
+*   Downloads
+*   Apps
+*   Cool Sites
+*   Tips
+*   Listen &. Watch
+*   About Kim
+
+Listener Resources
+
+*   Show Picks
+*   Station Finder
+*   Kim's club Member Login
+*   Contact Us
+*   Feedback
+*   Frequently Asked Questions
+*   Terms &. Conditions
+*   Privacy Policy
+
+Follow Kim
+
+Partners of the Show
+
+*   Advertise
+*   Affiliates
+*   Demos
+*   Careers
 
 The Kim Komando Show ® and all material pertaining thereto is a Registered Trademark / Servicemark: No. 2,281,044.  
 America's Digital Goddess ® and all material pertaining thereto is a Registered Trademark / Servicemark: No. 3,727,509.  
-Any and all other material herein is protected by Copyright © 1995 — 2012 WestStar TalkRadio Network.  
-All Rights Reserved.  
-  
-You can find Kim on:
+Any and all other material herein is protected by Copyright © 1995 - 2013 WestStar TalkRadio Network.All Rights Reserved.
