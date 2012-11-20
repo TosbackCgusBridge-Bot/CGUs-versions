@@ -444,7 +444,7 @@ _e._ **_Survival_** **.** Obligations and rights in connection with this Agreeme
 
 To report violations of this Agreement or the AT&T Acceptable Use Policy, please go to:  http://www.corp.att.com/aup/ or e-mail us at abuse@att.net.
 
-_Last updated: May_ 2, _2011._
+_Last updated: October 24, 2012_ _._
 
 \[1\] AT&T U-verse High Speed Internet, AT&T High Speed Internet, AT&T High Speed Internet Business Edition, AT&T High Speed Internet Direct, AT&T High Speed Internet Business Edition Direct, and AT&T Dial services are provided by your local AT&T telephone company which is one of the following, depending on the state where service is provided: Southwestern Bell Telephone Company (in AR, KS, MO, OK, and TX), Pacific Bell Telephone Company (in CA), Illinois Bell Telephone Company (in IL), Indiana Bell Telephone Company, Incorporated (in IN), Michigan Bell Telephone Company (in MI), Nevada Bell Telephone company (in NV), The Ohio Bell Telephone Company (in OH), Wisconsin Bell, Inc. (in WI), The Southern New England Telephone Company (in CT), or BellSouth Telecommunications, LLC (in AL, GA, FL, KY, LA, MS, NC, SC, and TN).  FastAccess DSL, FastAccess Business DSL, and BellSouth® Dial Internet Service are provided by BellSouth Telecommunications.  AT&T Dial provided in other states is provided by AT&T Corp.  (All companies listed are referred to herein as “AT&T”).
 
