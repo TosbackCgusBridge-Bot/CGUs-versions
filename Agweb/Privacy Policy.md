@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Nov 19, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Nov 20, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -237,11 +237,12 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Soybean Prices Go Down, Down, Down
-*   Intensive Management Key to Growing High Corn Yields
-*   Ag Commodities Trade Lower as Uncertainty Looms
-*   House Approves Bill on U.S.-Russia Trade Relations
-*   Power Hour: Tax Questions over Crop Insurance Payments
+*   How Would You Describe Your 2012 Harvest Season?
+*   Farmer’s Approach to “Full-Circle Farming” Takes New Meaning
+*   Mark Clarke Named Director of Dane County, Wis. Alliant Energy Center
+*   Power Hour: Big Questions Surrounding Markets, Farm Policy
+*   October Milk Production Down 0.1%
+*   Milk Prices Help October Cash Flows
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
