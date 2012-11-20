@@ -1,7 +1,7 @@
 c
 
 *   GAMES
-*   WHAT'S HOT
+*   WHAT’S HOT
 *   MULTIPLAYER
 *   MOBILE
 
@@ -68,11 +68,9 @@ Submit a Game: Don't just play games on AddictingGames.com, submit them! Give th
 *   Contact Us
 *   Advertise with Us
 *   Developer Center
-
 *   Help
 *   For Parents
 *   What Our Warnings Mean
-
 *   Privacy Policy
 *   Terms of Use
 *   User Submission Agreement
