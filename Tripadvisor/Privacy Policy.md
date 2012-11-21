@@ -39,10 +39,6 @@
 *   Management response
 *   Travel Advisories
 
-Today's Poll
-
-If you have been skiing in the last year - did you wear a helmet? Yes No Vote Now
-
 *   Home
 
 Privacy policy
