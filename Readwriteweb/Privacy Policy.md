@@ -1,41 +1,4 @@
-*   Sections Sections SocialMobileEnterpriseCloudHackPlaySmall BizAboutContactAdvertisePrivacy
-*   Search Search
-
-*   Follow us Follow us
-*   Share Share Share…on Facebookon Twitteron Google+on Linked inby Email
-
-*   Social
-*   Mobile
-*   Enterprise
-*   Cloud
-*   Hack
-*   Play
-*   Small Biz
-
-*   Hot Topics
-
-*   Microsoft
-*   iPhone 5
-*   Hurricane Sandy
-*   Politics
-*   YouTube
-*   Deathwatch
-
-*   About
-*   Contact
-*   Advertise
-*   Privacy
-
-© 2012 SAY Media, Inc.  
-Follow us:
-
-*   Subscribe to our newsletter
-
-ReadWrite Like on Facebook Share on:
-
-ReadWrite
-
-_ReadWrite_ Privacy Policy Also
+Also
 
 *   About
 *   Contact
