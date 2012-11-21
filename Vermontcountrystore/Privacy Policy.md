@@ -18,6 +18,23 @@ Live Help |
     *   Classic Toys
     *   Barclay Collectible Figurines
     *   Spirited Treats
+*   Gifts
+    *   For Her
+    *   For Him
+    *   The Orton Family Top 10
+    *   Stocking Stuffers
+    *   For Kids, Ages 3 and Up
+    *   For Toddlers
+    *   For The One Who Has Everything
+    *   Gifts to Keep on Hand
+    *   Our Most Delicious
+    *   Chocolate Lover
+    *   Top 25 Gifts Under $25
+    *   The Kid At Heart
+    *   Seasonal Favorites
+    *   Brands From The Past
+    *   Gift Cards
+    *   Gift Tins &. Packs
 *   Clothing
     
     *   Women's
@@ -228,23 +245,6 @@ Live Help |
     *   Dolls &. Plush
     *   Fisher Price
     *   Toys Favorites
-*   Gifts
-    *   For Her
-    *   For Him
-    *   The Orton Family Top 10
-    *   Stocking Stuffers
-    *   For Kids, Ages 3 and Up
-    *   For Toddlers
-    *   For The One Who Has Everything
-    *   Gifts to Keep on Hand
-    *   Our Most Delicious
-    *   Chocolate Lover
-    *   Top 25 Gifts Under $25
-    *   The Kid At Heart
-    *   Seasonal Favorites
-    *   Brands From The Past
-    *   Gift Cards
-    *   Gift Tins &. Packs
 *   Yankee Bargains
     *   SALE - Sleepwear
     *   SALE - Clothing
