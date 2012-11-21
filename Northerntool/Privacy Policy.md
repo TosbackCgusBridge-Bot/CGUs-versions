@@ -189,7 +189,7 @@ Northern will not sell, trade, share or rent your email address.
 
 *   Privacy Policy
 *   Terms + Conditions
-*   Guaranteed Lowest Prices
+*   Order Security
 *   Product Recalls
 *   Return Policy
 *   Sitemap
