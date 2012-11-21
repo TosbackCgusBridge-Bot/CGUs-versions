@@ -461,7 +461,6 @@ Social
 *   Google+
 *   Facebook
 *   YouTube
-*   Flickr
 *   Twitter
 *   Pinterest
 *   Tubmlr
