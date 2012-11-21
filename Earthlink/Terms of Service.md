@@ -162,7 +162,7 @@ We're verifying the EarthLink high speed services available in your area. This w
 Need help with your **existing** service? Open 24/7  
   
 Not an EarthLink customer yet?  
-Open 9am-12am ET  
+Open 8am-1am ET  
 We know your time is valuable. Select the type of help you need, then provide us with some basic information including your contact phone number. We'll call you back!  
   
 Questions about new service?  
