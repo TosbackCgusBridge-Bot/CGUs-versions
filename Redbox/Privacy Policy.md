@@ -29,7 +29,7 @@ Blu-ray™ Discs won't play on standard DVD players. If your player's compatible
 
 Are you sure you want to rent a Blu-ray movie?   Don't show this message again YES NO THANKS
 
-Pick up your rentals from one of over 31,500 Redbox locations nationwide.
+Pick up your rentals from one of over 34,600 Redbox locations nationwide.
 
 **Suggested for You:**
 
