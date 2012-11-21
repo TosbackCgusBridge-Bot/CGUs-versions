@@ -229,7 +229,6 @@ Go Catalog Quick Order Sign Up For Email Savings!
     *   Stickers
     *   See More Kids’ Stationery
 *   Holidays
-    *   Thanksgiving – Nov. 22
     *   Hanukkah – Dec. 8
     *   Christmas – Dec. 25
     *   New Year’s Eve – Dec. 31
@@ -245,6 +244,7 @@ Go Catalog Quick Order Sign Up For Email Savings!
     *   Father’s Day – June 16
     *   Fourth of July – July 4
     *   Halloween – Oct. 31
+    *   Thanksgiving – Nov. 28
 *   Christmas
     
     *   Christmas Candy
