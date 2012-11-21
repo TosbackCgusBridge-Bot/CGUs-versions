@@ -1,231 +1,65 @@
-Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and more. Welcome:  Log in|Register | Wish List | Live Chat | Cart{ View Cart } (0) Shopping cart is empty Search Search Site Counterfeit Protection >.
+Privacy Policy of Deckers Outdoor Corporation, Deckers Consumer Direct Corporation and Deckers Europe Limited (“Deckers”) – United States
 
-*   Gift Boutique|
-    *   Gifts for Her
-        *   Hot Holiday Hues
-        *   Slippers
-        *   Animal Prints
-        *   View All
-    *   Gifts for Him
-        *   Bestselling Boots
-        *   Season's Best Slippers
-        *   Outdoor Essentials
-        *   View All
-    *   Gifts for Kids
-        *   Bestselling Boots
-        *   Season's Best Slippers
-        *   Snow Day Gear
-        *   View All
-    *   Gifts $100 and Under
-    *   Family Style Slippers
-    *   Glam Gifts
-    *   UGG® Australia Gift Cards
-    
-*   Women|
-    *   New Arrivals
-    *   Fashion
-    *   Boots
-        *   Classic
-        *   Fashion
-        *   Knit
-        *   Casual
-        *   Moto Boots
-        *   Equestrian Boots
-        *   Weather/Performance
-        *   View All
-    *   Casuals
-        *   Flats
-        *   Sneakers
-        *   Clogs &. Slip-Ons
-        *   Sandals
-        *   View All
-    *   Slippers
-    *   Apparel
-        *   Loungewear
-        *   Outerwear
-        *   Sweaters
-        *   View All
-    *   Handbags
-        *   Crossbody &. Minis
-        *   Hobo Bags
-        *   Satchels
-        *   Totes
-        *   Clutches
-        *   Travel
-        *   View All
-    *   Accessories
-        *   Hats
-        *   Gloves &. Mittens
-        *   Scarves and Wraps
-        *   Earmuffs
-        *   Tech Accessories
-        *   Wallets and Small Leather Goods
-        *   View All
-    *   Holiday Collection
-    *   The I Do Collection
-    
-*   Men|
-    *   New Arrivals
-    *   Boots
-        *   Casual
-        *   Weather/Performance
-        *   View All
-    *   Shoes
-        *   Lace-ups &. Slip-ons
-        *   Sneakers
-        *   Outdoor Slippers
-        *   View All
-    *   Slippers
-    *   Sandals
-    *   Mens Bags
-    *   Apparel
-        *   Outerwear
-        *   Loungewear
-        *   View All
-    *   Cold Weather Accessories
-        *   Gloves and Mittens
-        *   Hats
-        *   Scarves
-        *   View All
-    *   Small Leather Goods and Accessories
-        *   Tech Accessories
-        *   Billfolds and Card Cases
-        *   View All
-    
-*   Kids|
-    *   New Arrivals
-    *   Big Kids
-        *   Boots
-        *   Casuals
-        *   Slippers
-        *   View All
-    *   Little Kids
-        *   Boots
-        *   Casuals
-        *   Slippers
-        *   View All
-    *   Baby
-    *   Cold Weather Accessories
-    *   Apparel
-    
-*   Blog |
-*   UGG Collection |
-*   WORLD OF UGG
-*   | Store Locations
-    *   Concept Stores
-    *   Online Stores
-    *   Retail Stores
+The Deckers family of product lines (UGG® Australia, Teva®, Simple® Shoes, Tsubo® and Ahnu®) and accompanying domestic (uggaustralia.com, teva.com, simpleshoes.com and tsubo.com) and international websites takes the protection and proper use of your personal information seriously. We respect your privacy and take great care to safeguard information in our possession. Your preferences with regard to how we use your information are our highest priority.
 
-Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.
+What personal information about our customers does Deckers gather and how does Deckers utilize such information?
 
-Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.
+The information we obtain from customers and those that visit our sites helps us personalize and continually improve your shopping experience at Deckers’ websites. Listed below are the types of information we gather and utilize.
 
-A Free return label will be included with your order. This offer only applies to orders shipped via UPS ground within the continental United States and placed on uggaustralia.com.
+*   **Information you provide:** We receive and securely store any information you enter on our websites or provide to us in any other way. You can choose not to provide voluntary information. We use the information that you provide for purposes such as responding to your requests, customizing future shopping for you, improving our websites, and communicating with you.
+*   **Automatic information:** Deckers and its affiliates that control third–party advertising on our sites receive and store certain types of information whenever you interact with us. This allows us to enhance your online shopping experience to an easier and more personalized level. For example, like many websites, we use "cookies" to obtain certain types of information when your web browser accesses a Deckers website. A "cookie" is a small information file that is sent to your computer and is stored on your hard drive. We use this information to remember you once you have logged into your account and to remember your shopping cart. No personally identifiable information is stored in the cookie and our cookies do not retrieve any other information from your hard drive. For further information about cookies, controlling and deleting them, please visit www.allaboutcookies.org. Without cookies technology, we would not be able to recognize you and provide a personalized experience through the Deckers websites.
+*   **Email communications:** If you visit one of our sites and provide personal information, Deckers will often receive notice of your browsing activity on our sites and may send targeted marketing communication to you based on such activity. In addition, we often communicate with customers in connection with marketing and other related purposes based on your marketing preferences. If you change your mind later and do not want to receive email or other mail from us, please log–in to your account and change your preferences, in which case your email address will be used strictly for transactional and informational purposes regarding your purchases and/or inquiries. There will also be an opt out option in each email marketing communication we send.
+*   **Traditional mail marketing:** From time to time, Deckers utilizes personal information for traditional mail marketing purposes. If you do not want to receive mail from us, please log–in to your account and change your preferences, in which case your address will be used strictly for transactional and informational purposes regarding your purchases and/or inquiries.
 
-Live Chat Chat online with a customer service representative now. Chat Now Call Us 1.888.432.8530 Email Us Email us 24 hours a day. We'll reply within one business day. email us now Hours of Operation: MON-FRI: 8AM-9PM (EST)  
-SATURDAY: 10AM-7PM (EST)  
-SUNDAY: 10AM-7PM (EST)  
   
+Does Deckers share the information it receives?
+
+Information about our customers is an important part of our business. We share customer information only as described below.
+
+*   **Agents:** We employ other firms to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and processing credit card payments. They have access to personal information needed to perform their functions, but are contractually obligated to protect personal information. We may pass your personal information to credit referencing agencies (who may keep a record of your information) for the purposes of carrying out identity verification checks.
+*   **Trading partners:** Deckers product lines are offered internationally in conjunction with select international trading partners. Any personal information shared with these trading partners is protected and may be used only according to the guidelines contained herein.
+*   **Protection of Deckers and others:** We release account and other personal information when we believe release is appropriate to comply with the law. enforce or apply our Conditions of Use and other agreements. or protect the rights, property, or safety of Deckers Consumer Direct Corporation, our users and others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. This does not include selling, renting, sharing or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy.
+*   **With your consent:** Other than as set out above, you will receive notice when information about you might go to third parties, except as provided below, and you will have the opportunity to choose not to share the information. The exception to this is if Deckers is ordered to produce such information through valid subpoena or court order. In those situations, Deckers will comply with the subpoena and/or court order and will not be required to provide you with any notice.
+
   
+How secure is my personal information?
 
-Our warehouse will also be closed on Thursday, 11/22/22. UPS will not be delivering packages on Thursday, 11/22/12. All Next Day orders processed after 9AM PST on Wednesday, 11/21/12 will not arrive until Friday, 11/23/12. Items ordered on Thursday, 11/22/12 will not be processed until Friday, 11/23/12.
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) technology that encrypts information you input. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 
-Customer Service will be closed in observance of Thanksgiving Thursday, November 22nd. If you would like product and sales information, please review our Store Locator link to find a store closest to you to speak with a store representative.
+It is important for you to protect against unauthorized access to your account, to your password and to your computer. Be sure to log out of your account when you are finished using the site, especially when using a shared computer.
 
-Store Locations
+What about third–party advertisers and links to other websites?
 
-We're Sorry...
+Our site includes third–party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third–party websites.
 
-The page you have requested does not exist or is no longer available.
+These third–party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our Web site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third–party websites are not covered by this Privacy Policy. Please contact them directly for more information about their privacy practices.
 
-If you feel you have reached this page by mistake, please verify the web address and try again. You may also use the search box below to help find what you were looking for.
+Deckers also displays personalized third–party advertising based on information about customers, such as visits and purchases through our sites. Although Deckers does not provide any personal information to advertisers, advertisers (including ad–serving companies) may assume that users who interact with or click on a personalized advertisement meet their criteria to personalize the ad. If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please login to your account and adjust your preferences.
 
-Search Again: Search Again Browse Top Sellers  
-Top Categories
+What information can I access?
 
-*   Womens Boots
-*   Womens Casuals
-*   Womens Slippers
-*   Mens Boots
-*   Mens Slippers
+If you made a purchase from one of our sites, Deckers gives you access to information about your account and your interactions with Deckers for the purpose of viewing and, in certain cases, updating that information. You may log–in to your account to update personal information or change preferences.
 
-Fall Highlights
+Can I update, correct, or delete my personal information?
 
-*   Grit &. Glam
-    
-    UGG® Collection goes edgy this Fall with a vintage rock vibe.
-    
-    Rock 'N Roll >.
-*   Brand New To UGG
-    
-    Refine your search with our fully customizable Footwear Finder
-    
-    FIND YOUR PERFECT PAIR >.
-*   Share Your Love for The Classic Boot
-    
-    Contribute to our global photo album of Classic fanatics.
-    
-    UPLOAD A PHOTO >.
+Yes, if you made a purchase from one of our sites, you can log–in to your account to make changes to your personal information or change preferences. If you submitted personal information without making a purchase, if you email Deckers at customerservice@uggaustralia.com to change or delete your personal information, we will uphold your request. Deckers may retain changed or deleted information for archival purposes.
 
-*   *   Counterfeit Protection
-    *   Find out how to protect yourself from the dangers of counterfeit.
-    *   learn more >
-    
-    *   Departments
-    *   Boots
-    *   Shoes
-    *   Slippers
-    *   Women
-    *   Men
-    *   Kids
-    *   UGG Collection
-    
-    For delivery on December 24th:  
-      
-    UPS Ground – December 16 by 10AM PST  
-      
-    2nd Day Air – December 21 by 10 AM PST  
-      
-    Next Day Air – December 22 by 10 AM PST
-    
-*   *   Explore
-    *   Footwear Finder
-    *   Letters from New York
-    *   Classics
-    *   Gift Cards
-    *   Care &. Cleaning
-    
-    *   World Of UGG
-    *   The Story Of UGG
-    *   Our Material
-    *   Craftsmanship
-    *   Media
-    *   Blog
-*   *   Customer Service
-    *   Contact Us
-    *   FAQ
-    *   Returns
-    *   Legal
-    *   Site Map
-    
-    *   Your Account
-    *   Log in
-    *   Register
-    *   Wish List
-    *   Cart{ View Cart } (0)
-    
-    Join our email program:   Go >.
-    *   Mens
-    *   Womens
+How do I get in touch with Deckers?
 
-*   change country:
-*   Canada
-*   United States
-*   Japan
-*   United Kingdom
-*   France
-*   Netherlands
-*   Rest of Europe
-*   All Other Regions
+If you have any questions regarding this Privacy Policy, please contact us by email at: customerservice@uggaustralia.com
 
-© 2012 Deckers Outdoor Corporation
+What happens when the Privacy Policy changes?
+
+This Privacy Policy was last changed on 9-29-2010. Future changes will be noted on new editions of the Privacy Policy. We recommend that you refer back to this page often to become familiar with new changes in the policy.
+
+Children
+
+Deckers does not sell products for purchase by children. We sell children’s products for purchase by adults. If you are under 18, you may shop at our websites only with the involvement of a parent or guardian.
+
+Ethical Supply Chain Guidelines
+
+Deckers respects internationally recognized human rights and environmental standards and places them at the core of our business practices. While we do not own or operate the factories that make our products, we apply a rigorous code of conduct, the Ethical Supply Chain Guidelines, and work with the factories we use to improve their performance over time. Find out more
+
+Restricted Substances Policy
+
+Deckers is committed to assuring that all of the materials used in its products are safe for workers, consumers and the environment alike. Deckers has established a Restricted Substances Policy that mandates compliance with all international directives, laws and regulations that restrict the type and concentration of potentially hazardous substances. Consistent with our company values, the Restricted Substances Policy goes beyond mandated restrictions and includes some substances such as PVC that are not restricted by law, but that are a cause of concern for many consumers and some Non–Governmental Organizations (NGOs). Click here for more information.
