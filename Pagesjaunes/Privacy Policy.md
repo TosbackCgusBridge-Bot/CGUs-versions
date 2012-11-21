@@ -10,19 +10,19 @@
     Consultez des **services**, des **professionnels** autour de vous et plus de **350 guides et 600 fiches pratiques** rédigés par des spécialistes pour vous aider à mieux comprendre pour bien choisir...
     
     *   **Maison et Travaux**  
-        Rénover, Décorer, Aménager sa maison ?  
+        Rénover, Décorer, Aménager sa maison ?  
         Voir les 115 guides
     *   **Jardin**  
-        Aménager, Cultiver, Entretenir votre jardin ?  
+        Aménager, Cultiver, Entretenir votre jardin ?  
         Voir les 25 guides
     *   **Immobilier**  
-        Acheter, Vendre, Louer un bien immobilier ?  
+        Acheter, Vendre, Louer un bien immobilier ?  
         Voir les 16 guides
     *   **Santé et Beauté**  
-        Rester en bonne santé, Prendre soin de soi ?  
+        Rester en bonne santé, Prendre soin de soi ?  
         Voir les 75 guides
     *   **Argent**  
-        Gérer son argent, Assurer son patrimoine ?  
+        Gérer son argent, Assurer son patrimoine ?  
         Voir les 35 guides
     *   **Consultez tous les guides**  
         Auto-Moto, BtoB, Démarches, Emploi, High-Tech...  
@@ -34,27 +34,43 @@
     *   Participez, donnez votre avis
         *   Annoncer un événement
         *   Ecrire un avis
+    
     *   Découvrez les autres modes de recherche
         *   Recherche détaillée
         *   Recherche par le nom France Entière
         *   Recherche de pros avec vidéos
         *   Recherche par la carte
-    *   Recherche B2B pagespro
-    *   Utilisez les services PagesJaunes en mobilité
-        *   Sur mobile
-        *   Sur Ipad
-        *   Sur GPS
+    
+    *   Utilisez PagesJaunes en mobilité
+        *   Mobile
+        *   Ipad
+        *   GPS
+    
     *   Renseignements téléphoniques
         *   118008 par téléphone
         *   118008 gratuit par SMS
+    
     *   Appelez à l'étranger
         *   Annuaires du monde
         *   Indicatifs internationaux
-    *   PagesJaunes :
-        
-        *   en page d'accueil
-        *   dans vos favoris
-        *   sur votre bureau
+    
+    *   Professionnels
+        *   Référencez-vous gratuitement  
+            sur pagesjaunes.fr
+        *   Annoncez sur pagesjaunes.fr et  
+            optimisez votre visibilité :  
+            toutes nos solutions
+        *   Modifiez et enrichissez gratuitement  
+            vos informations
+    
+    *   Recherche B2B pagespro
+        *   Recherche par SIRET, NAF ...
+    
+    PagesJaunes :
+    
+    *   en page d'accueil
+    *   dans vos favoris
+    *   sur votre bureau
 
 *   Se connecter
     
@@ -90,7 +106,7 @@ Jean-Pierre Remy
       
     Notre politique de protection de la vie privée vous permet d’en savoir plus sur la collecte et le traitement de vos données personnelles par PagesJaunes ainsi que sur vos droits.  
       
-    Vous pouvez consultez la liste des traitements vous concernant en vous adressant au Correspondant Informatique et Libertés (CIL) de PagesJaunes par voie postale à l’adresse suivante : PagesJaunes – Correspondant Informatique et Libertés – 7, avenue de la Cristallerie – 92317 Sèvres Cedex ou par courrier électronique à l'adresse cil-pjg@pagesjaunes.fr.  
+    Vous pouvez consultez la liste des traitements vous concernant en vous adressant au Correspondant Informatique et Libertés (CIL) de PagesJaunes par voie postale à l’adresse suivante : PagesJaunes – Correspondant Informatique et Libertés – 7, avenue de la Cristallerie – 92317 Sèvres Cedex ou par courrier électronique à l'adresse .  
       
     Pour mieux connaître vos droits et vos devoirs, vous pouvez également consulter le site de la Commission Nationale de l’Informatique et des Libertés www.cnil.fr.  
     
@@ -856,25 +872,28 @@ A propos
 *   Plan du site
 *   FAQ
 *   Aide
-*   Webmaster
+*   Widgets PagesJaunes
 
 Retrouvez PagesJaunes sur Facebook
 
 Sites Pages Jaunes
 
-*   QDQ
 *   PagesPro
 *   Pages Jaunes Marketing Services
+*   MarketingConnect
 *   Mappy
 *   Kap'Stages
-*   Keltravo
-*   Embauche.com
 *   Urbandive
-*   A Vendre A Louer
 *   Annonces Jaunes
-*   123deal
+*   A Vendre A Louer
 *   ComprendreChoisir.com
 *   Editus
+*   Embauche.com
+*   QDQ
+*   Keltravo
+*   123pages
+*   123people
+*   123deal
 
 est un service PagesJaunes Groupe
 
@@ -882,4 +901,4 @@ est un service PagesJaunes Groupe
 *   Données personnelles
 *   Conditions d'utilisation
 
-© 2011 PagesJaunes
+© 2011 PagesJaunes
