@@ -26,11 +26,12 @@
 *   Advertise
 *   Privacy
 
-© 2012 SAY Media, Inc. Follow us:
+© 2012 SAY Media, Inc.  
+Follow us:
 
 *   Subscribe to our newsletter
 
-ReadWrite.com Like on Facebook Share on:
+ReadWrite Like on Facebook Share on:
 
 ReadWrite
 
