@@ -3,7 +3,7 @@ Live Chat **PRIVACY POLICY**  
 **This is the web site of Modnique.com**  
   
 **Our postal address is:**  
-12901 Coral Tree Place  
+2400 Marine Ave.  
 Los Angeles, CA 90066  
   
 We can be reached via e-mail at service@modnique.com or you can reach us by telephone at 1-888-857-8557  
