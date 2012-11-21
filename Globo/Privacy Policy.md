@@ -15,12 +15,13 @@ globo.com
         *   Ciência e Saúde
         *   Concursos e Emprego
         *   Economia
+        *   Educação
         *   Mundo
         *   Planeta Bizarro
         *   Política
         *   Pop &. Arte
         *   Tecnologia e Games
-        *   Vestibular e Educação
+        *   Turismo e Viagem
     *   serviços
         *   Previsão do Tempo
         *   Conversor de Moedas
@@ -412,6 +413,7 @@ Esta política permitirá que você saiba:
         *   Concursos e Emprego
         *   Distrito Federal
         *   Economia
+        *   Educação
         *   Espírito Santo
         *   Fantástico
         *   Globo Natureza
@@ -444,7 +446,7 @@ Esta política permitirá que você saiba:
         *   Sergipe
         *   Serra, Lagos e Norte
         *   Tecnologia e Games
-        *   Vestibular e Educação
+        *   Turismo e Viagem
 *   *   esportes
         *   Atletismo
         *   Basquete
