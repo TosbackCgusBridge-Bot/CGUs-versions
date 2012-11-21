@@ -9,6 +9,7 @@
 *   |
 *   register
 *   My CART 0
+*   CHECKOUT
 
 In Your CART(0)
 
