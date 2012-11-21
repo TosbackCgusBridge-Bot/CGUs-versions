@@ -1,19 +1,19 @@
 *   Join
 *   Log In
-*   Explore
+*   Create
+    *   **Enhancer** Easily add a soundtrack to your video.
+    *   **Video School** Learn how to make better videos.
+    *   **Music Store** Get free and affordable licensed tracks.
+    *   **Creative Commons** Find licensed videos on Vimeo.
+    *   **Creator Services** Make money by making video.
+*   Watch
+    *   **Staff Picks** Hand-picked videos we like.
+    *   **Movies** Watch full-length movies right here.
     *   **Categories** A simple way to browse our catalog of videos.
     *   **Channels** Video showcases curated by members.
     *   **Groups** Join other members to watch and discuss.
-    *   **HD Videos** Amazing HD quality videos for you.
-    *   **Staff Picks** Hand-picked videos we like.
-    *   **Creative Commons** Find licensed videos on Vimeo.
-*   Help
-    *   **Help Center** Need help? Look here first.
-    *   **FAQ** Our answers to your questions.
-    *   **Vimeo Basics** Everything you need to know about this place.
-    *   **Guidelines** A practical and ethical guide to Vimeo.
-    *   **Forums** Share, learn, and talk with other members.
-    *   **Developers &. API**Get in touch with your inner nerd.
+    *   **Couch Mode** Lean back and enjoy the Vimeo.
+*   Upload
 
 Vimeo.com Privacy Policy
 
@@ -152,40 +152,31 @@ Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics
 
 Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
 
-Explore
-
-*   Categories
-*   Channels
-*   Groups
-*   Video School
-*   More…
-
-Tools
-
-*   Invite People
-*   Music Store
-*   Everywhere
-*   Couch mode
-*   More…
-
 Vimeo
 
 *   About Vimeo
 *   Vimeo Blog
-*   Vimeo Guidelines
-*   Press Info
+*   Pro Guidelines
+*   Developers
 *   Jobs
+
+Help
+
+*   Help Center
+*   Basics
+*   FAQ
+*   Forums
+*   Developers
 
 Upgrade
 
-*   **Vimeo Plus**
-    
-    Powerful tools to help your videos look their best.
-    
-*   **Vimeo PRO**
-    
-    Professional-quality video hosting for businesses.
-    
+*   Vimeo Plus
+*   Vimeo PRO
+*   Vimeo for Business
+
+Upload
+
+Upload multiple videos at faster speeds with our new uploader.
 
 You’re using  
 the new Vimeo
