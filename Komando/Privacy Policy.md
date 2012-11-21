@@ -252,4 +252,4 @@ Partners of the Show
 
 The Kim Komando Show ® and all material pertaining thereto is a Registered Trademark / Servicemark: No. 2,281,044.  
 America's Digital Goddess ® and all material pertaining thereto is a Registered Trademark / Servicemark: No. 3,727,509.  
-Any and all other material herein is protected by Copyright © 1995 - 2013 WestStar TalkRadio Network.All Rights Reserved.
+Any and all other material herein is protected by Copyright © 1995 - 2013 WestStar Multimedia Entertainment, Inc. All Rights Reserved.
