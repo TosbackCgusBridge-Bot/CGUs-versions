@@ -237,8 +237,8 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Dairy Project Would Vanish Under Settlement
-*   Power Hour: Wheat Ratings Worst on Record
+*   Many Farmers Still Waiting to Receive Checks
+*   More Beans Could Support Exports
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
