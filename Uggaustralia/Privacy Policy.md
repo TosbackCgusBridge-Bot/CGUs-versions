@@ -19,6 +19,7 @@ Shop for Comfortable UGG® Boots, Women's Slippers, Sandals, Kids Shoes, and mor
     *   Gifts $100 and Under
     *   Family Style Slippers
     *   Glam Gifts
+    *   UGG® Australia Gift Cards
     
 *   Women|
     *   New Arrivals
@@ -126,6 +127,12 @@ SATURDAY: 10AM-7PM (EST)
 SUNDAY: 10AM-7PM (EST)  
   
   
+
+Our warehouse will also be closed on Thursday, 11/22/22. UPS will not be delivering packages on Thursday, 11/22/12. All Next Day orders processed after 9AM PST on Wednesday, 11/21/12 will not arrive until Friday, 11/23/12. Items ordered on Thursday, 11/22/12 will not be processed until Friday, 11/23/12.
+
+Customer Service will be closed in observance of Thanksgiving Thursday, November 22nd. If you would like product and sales information, please review our Store Locator link to find a store closest to you to speak with a store representative.
+
+Store Locations
 
 We're Sorry...
 
