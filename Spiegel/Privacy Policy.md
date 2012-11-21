@@ -393,6 +393,7 @@ Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   Bußgeld-  
     rechner
 *   Ferientermine
+*   Eurojackpot
 
 *   AUTO UND FREIZEIT
 *   Bücher  
