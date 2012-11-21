@@ -159,25 +159,30 @@ Store Locator
 
 *   Sale
     
-    *   Women's Jewelry Sale
-    *   Sterling Silver Jewelry Sale
-    *   Women's Necklaces Sale
-    *   Women's Bracelets Sale
-    *   Women's Gifts &. Accessories Sale
-    *   Men's Jewelry &. Accessories Sale
-    *   Frames &. Albums on Sale
-    *   Photo to Canvas Sale
-    *   Pens &. Pencils Sale
-    *   Office Gifts Sale
-    
-    *   Drinkware Sale
+    *   Women's Jewelry Buy One Get One Free
+    *   Save 15% on Birthstone Jewelry
+    *   Thanksgiving Women's Sterling Silver Jewelry Sale
+    *   Thanksgiving Women's Jewelry Sale
+    *   Thanksgiving Women's Gifts &. Accessories Sale
+    *   Thanksgiving Keepsake Box Sale
+    *   Thanksgiving Men's Jewelry &. Accessories Sale
+    *   Thanksgiving Pocket Watch Sale
+    *   Thanksgiving Drinkware Sale
     *   Special Offer Flasks
-    *   Home Gifts Sale
+    
+    *   Thanksgiving Frame Sale
+    *   Photo to Canvas Sale
+    *   Thanksgiving Office Sale
+    *   Pens &. Pencils Sale
+    *   Thanksgiving USB Sale
     *   Water Globes Sale
-    *   Wedding Gifts Sale
-    *   Embroidered Gifts Sale
+    *   Thanksgiving Ornaments Sale
     *   Seasonal Gifts on Sale
-    *   View All Gifts Sale
+    *   Home Gifts Sale
+    *   Thanksgiving Embroidered Gifts Sale
+    
+    *   Wedding Gifts Sale
+    *   View All Thanksgiving Sale
     *   Clearance Gifts
     
 
