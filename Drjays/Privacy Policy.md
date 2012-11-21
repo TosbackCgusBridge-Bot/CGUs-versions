@@ -110,7 +110,7 @@ Specialty Shops
 *   Sale
 *   Outlet (over 60% off!)
 
-Shop Sale Customer Service  
+Shop Sale Holiday Shipping Guide Customer Service  
 International Orders  
 Contact Us  
 Payment Options &. Tax  
