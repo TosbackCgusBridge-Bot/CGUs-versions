@@ -536,9 +536,9 @@ Hot Topics
 *   16 Tips for Clear Skin
 *   Top 12 Dog Behavior Problems
 *   Generic Drugs: What You Need to Know
-*   The Ugly Truth About Fleas and Ticks
+*   Causes and Cures of Bad Breath
 *   Depression, Pain &. Anxiety: What's the Link?
-*   Dupuytren's Contracture: What You Need to Know
+*   How Diabetes Affects Your Teeth
 *   Ulcerative Colitis: Check Your Symptoms
 
 URAC Health Website Accreditation
