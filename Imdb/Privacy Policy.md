@@ -1,49 +1,42 @@
 IMDb More AllTitlesTV EpisodesNamesCompaniesKeywordsCharactersVideosQuotesBiosPlots Register | Login | Help
 
 *   Movies
-    *   Top Movies
-    *   Top 250
-    *   X-Ray for Movies
-    *   Coming Soon
     *   In Theaters
-    *   Genres
-    *   New: DVD &. Blu-Ray
-    *   Watchlist
-    *   MyMovies
+    *   Top 250
+    *   US Box Office
+    *   Coming Soon
     *   Showtimes
+    *   On DVD &. Blu-Ray
+    *   X-Ray for Movies
 *   TV
     *   TV Home
+    *   Top TV Series
     *   TV Listings
-    *   TV Episodes &. Clips
-    *   Best TV Series
+    *   TV Episodes
 *   News
     *   Top News
     *   Movie News
     *   TV News
     *   Celebrity News
-    *   Featured News
 *   Trailers
     *   Trailer Gallery
 *   Community
     *   Message Boards
-    *   Contributor Zone
     *   Newest Lists
     *   Your Lists
     *   Your Ratings
+    *   Contributor Zone
     *   Quiz Game
 *   IMDbPro
-    *   IMDbPro
-    *   IMDb Resume
+    *   Add a Resume
+    *   Contact Info
+    *   Add Demo Reels
 *   Apps
     *   Apps Home
-    *   iPhone App
-    *   iPad App
-    *   Android Phones App
-    *   Android Tablets App
+    *   iPhone + iPad Apps
+    *   Android Apps
     *   IMDb App on Kindle Fire
     *   Windows Phone App
-    *   IMDb Trivia App
-    *   IMDb Buzz App
     *   IMDb Mobile site
 
 Your Watchlist  
