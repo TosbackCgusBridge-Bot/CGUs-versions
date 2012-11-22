@@ -18,7 +18,7 @@ close x Search Catalog Search Catalog Navigation
             *   Outdoor Furnishings
             *   Christmas Stories
             *   Clearance
-            *   Special SavingsGet your favorite decorations before the holidays fly by. Shop our six big Christmas collections now
+            *   Special SavingsHand-painted Li Bien ornaments, now 20% off. Discover a gift idea so perfect, it even comes with its own box
         *   Dining &. Entertaining
             *   Dinnerware
             *   Drinkware
@@ -27,7 +27,7 @@ close x Search Catalog Search Catalog Navigation
             *   Table Linens
             *   Dining Furniture
             *   Clearance
-            *   Special SavingsSave on our Luminous Porcelain Dinnerware. Get set for Thanksgiving with a true classic
+            *   Special Savings20% off all wine racks, now through Nov 26. Save on embossed, hand-painted, mosaic, sculpted or other varietals
         *   Home Decor &. Accents
             *   Accent Pieces
             *   Lighting
@@ -41,7 +41,7 @@ close x Search Catalog Search Catalog Navigation
             *   Curtains
             *   Bedding &. Throws
             *   Clearance
-            *   Special SavingsWant to save 20%? Just hang out with us. Save on all pendant lamps, this month only
+            *   Special SavingsCoziest deal ever: 25% off all throws. See how a gift of chenille or faux fur can give someone a warm feeling inside
         *   Furniture &. Living
             *   Upholstered Seating
             *   Papasan &. Wicker
@@ -51,18 +51,14 @@ close x Search Catalog Search Catalog Navigation
             *   Storage &. Home Office
             *   Outdoor Furniture
             *   Clearance
-            *   Special SavingsThey’re a value on many different levels. Check out select tiered mosaic tables at special savings
+            *   Special SavingsSave on all Papasan chairs and cushions. It’s like a visit with Santa, in chair form
         *   Candles &. Fragrance
-            
             *   Candles
             *   Candleholders
             *   Reed Diffusers &. Fragrance
             *   Bath &. Body
             *   Clearance
-            *   Special Savings
-            
-            Holiday candles &. fragrance:  
-            The gift that’s almost too pretty to give. Shop Apple Crisp, Peppermint Creme and all your favorites
+            *   Special Savings20% off select holiday candles and fragrance. Fill your home with the aroma of spices, evergreens or peppermint and save
         *   Gifts &. Occasions
             *   Gifts by Price
             *   Jewelry
@@ -75,7 +71,7 @@ close x Search Catalog Search Catalog Navigation
             *   Special Occasions
             *   Cards &. Gift Wrap
             *   Clearance
-            *   Special SavingsLooking for hostess gift ideas? Be our guest. You’re invited to explore these easy, original, charming gifts
+            *   Special SavingsSave on all jewelry armoires and vanities. Because a little extra green is this year’s must-have accessory
     *   Room
         *   Living Room &. Family Room Here’s where it gets fun. Click on a photo to see our favorites by room.
         *   Kitchen &. Dining Room Here’s where it gets fun. Click on a photo to see our favorites by room.
@@ -157,6 +153,63 @@ close x Search Catalog Search Catalog Navigation
             *   Christmas Ornaments
             *   Clearance
             *   Special SavingsLet’s get together. Click on an event to find ideas for entertaining, gifts &. décor.
+    *   x-tra Savings
+        *   Christmas Decor
+            *   Wreaths, Garlands, Topiaries &. Stems
+            *   Stockings, Stocking Holders &. Tree Skirts
+            *   Li Bien &. Boxed Ornaments
+            *   Kitchen Textiles &. Aprons
+            *   Nutcrackers
+            *   Pre-Lit Decor
+            *   Ceramic Christmas Candleholders
+            *   Clearance
+            *   Special Savings
+        *   Dining &. Entertaining
+            *   Table Linens
+            *   Measuring Spoons, Cups &. Gadgets
+            *   Christmas Dinnerware
+            *   Centerpieces
+            *   Chargers
+            *   Boxed Drinkware Sets
+            *   Bottle Stoppers
+            *   Wine Charm Sets
+            *   Painted Drinkware
+            *   Gift Wrap &. Bags
+            *   Clearance
+            *   Special Savings
+        *   For the Home
+            *   Papasan Chairs &. Cushions
+            *   Throws
+            *   Media Stands
+            *   Wine Racks
+            *   C-Tables
+            *   Fireplace Screens
+            *   Plush Animals
+            *   Toys
+            *   Christmas Gift Wrap &. Bags
+            *   Clearance
+            *   Special Savings
+        *   Holiday Gifts
+            *   Holiday Fragrance Collections
+            *   Christmas Gift Wrap &. Boxes
+            *   Plush Animals
+            *   Centerpieces
+            *   Reed Diffusers
+            *   Ceramic Christmas Candleholders
+            *   Christmas Bath Gifts
+            *   Clearance
+            *   Special Savings
+        *   Gifts for Her
+            *   Scarves &. Wraps
+            *   Jewelry
+            *   Jewelry Armoires &. Vanities
+            *   Throws
+            *   Boxed Mini Glass Figurines
+            *   Banks
+            *   Jewelry Stands
+            *   Christmas Gift Wrap &. Bags
+            *   Clearance
+            *   Special Savings
 *   get inspired
 *   Learn how
 *   share
