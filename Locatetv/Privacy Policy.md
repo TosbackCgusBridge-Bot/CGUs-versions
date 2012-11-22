@@ -99,8 +99,8 @@ More TV Shows Users' Most Picked Movies
 *   Twilight
 *   The Notebook
 *   Iron Man
-*   Harry Potter and the Goblet of Fire
 *   It's a Wonderful Life
+*   Harry Potter and the Goblet of Fire
 
 More Movies Users' Most Picked People
 
