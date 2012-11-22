@@ -1,3 +1,5 @@
+PRIVACY POLICY
+
 Effective as of October 25, 2011.
 
 We are committed to protecting your personal information. Please take a few minutes to read and understand our privacy policies so that you know how we collect, use and share your personal information obtained online and in our U.S. and Puerto Rico stores. This Privacy Policy supersedes any prior privacy policy, statements, or representations relating to the collection, retention, or sharing of information.
@@ -6,7 +8,7 @@ We do not collect and keep personal information online from children under the a
 
 We recognize the need to provide additional protections for children who visit our website, and it is our intention to always comply with the Children's Online Privacy Protection Act. For a complete description of our policies and practices that relate to children, please click here.
 
-CONTENTS
+Contents
 
 *   Collection of Customer Information
 *   Information Collected for the Purpose of Online Orders
@@ -16,7 +18,7 @@ CONTENTS
 *   Information We Receive from Third Parties
 *   Contracted Companies that Facilitate Communications and Transactions With You Disclosure Required by Law and to Help Protect the Security and Safety of Our Website
 *   The Collection, Use and Sharing of your Personally Identifiable Information
-*   CALIFORNIA RESIDENTS
+*   California Residents
 *   Privacy Policy Questions
 *   Security of Our Website
 
@@ -100,7 +102,7 @@ Please keep in mind that any opt-out choices you make will not apply in situatio
 
 There are several methods by which you can exercise your opt-out choices: (a) sending a written request via email to: privacy@tweenbrands.com and by writing "Privacy Policy" in the subject line. (b) sending a written request via postal mail to: Justice/Brothers Privacy Policy, 107 Heritage Drive, Pataskala, OH 43062 or (c) telephone 1-866-246-5822 and press the Customer Service option key to leave a message for our privacy policy team. Regardless of which method you choose, please be sure to indicate your opt-out choice. Finally, you may unsubscribe from certain email communications by clicking on unsubscribe links in those emails.
 
-10.      CALIFORNIA RESIDENTS.
+10.      California Residents.
 
 Under California law, you may make a written request to us about how we have shared your information with contracted partners for our direct marketing purposes and other third parties for their direct marketing purposes. In response to your written request, we may provide you with a notice describing the cost-free means to opt-out of our direct marketing promotions and/or other third party information sharing. There are two methods by which you can make this request: (a) sending a written request via email to: privacy@tweenbrands.com and by writing "Privacy Policy" in the subject line. or (b) sending a written request via postal mail to: Justice/Brothers Privacy Policy, 107 Heritage Drive, Pataskala, OH 43062.
 
