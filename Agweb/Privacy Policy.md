@@ -237,11 +237,14 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
+*   Dairy Cow Culling Remains Heavy
+*   USDA Raises Production of Feed Crops
+*   How Many Acres of Corn are Needed in 2013?
+*   Drought Limits Winter Wheat Grazing for Stocker Cattle
 *   Before You Park Machinery for the Year
 *   2013 SIMA Innovation Award Winners Announced
 *   Know an Outstanding Young Farmer?
 *   A Price Rally May Be on the Horizon
-*   What Is Your Management Style?
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
