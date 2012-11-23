@@ -1,4 +1,4 @@
-Search Our Store Recipes &. Meals Healthy Living Blog Grocery Delivery Holiday Savings Safeway Privacy Policy (United States) Introduction  
+Introduction  
 Safeway Inc. is committed to providing our customers with the finest quality and service. This commitment includes protecting the privacy of your information. You can be confident that we have safeguards to protect the personal information you give us. The World of Safeway  
 In order to facilitate access to the products and services we offer, Safeway operates many retail outlets as well as mobile application(s) and several websites directly and through its related companies and service providers. Our family of web sites includes:  
 www.safeway.com www.dominicks.com www.randalls.com www.vons.com www.pavilions.com www.tomthumb.com www.safewayfoundation.org www.carrsqc.com  
@@ -49,6 +49,3 @@ For answers to questions related to private health information, please direct yo
   
 
 Modification Date: Last updated March 14, 2012
-
-Quick Links Safeway Position on Bisphenol A Services  
-Community Our Brands Company Info Careers Suppliers About this Site AdChoices Join Our Community Get the latest deals, offers and helpful tips © 2008- Safeway Inc. All rights reserved.
