@@ -220,4 +220,4 @@ More Info
 *   Community Guidelines
 *   Careers
 
-Copyright © 2011, Kaboodle, Inc. All Rights Reserved. Why did I get this ad?
+Copyright © 2011, Kaboodle, Inc. All Rights Reserved. Why did I get this ad? Today's giveaway $500 in prizes Time remaining
