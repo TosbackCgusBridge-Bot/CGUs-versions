@@ -1,23 +1,3 @@
-Watch "Pardcast-a-thon" LIVE from 3pm - 3am ET! All-star comedy event benefits the charity Smile Train.
-
-Dailymotion
-
-*   Browse
-*   Upload a Video
-
-Create Account Sign in
-
-*   Terms of Use
-*   Terms of Use - Key points
-*   Corporate Information
-*   Prohibited Content
-*   Privacy Policy
-*   Copyright Notification
-*   MotionMaker Terms of Use
-*   Content Protection
-*   Child protection
-*   Terms and conditions of sales
-
 1\. Purpose
 
 This document sets out Dailymotion’s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the General Terms of Use.
@@ -57,45 +37,3 @@ This site allows third-party companies to serve ads and/or collect certain anony
 9\. Your rights
 
 You are entitled to access and correct your Data by requesting to do so via the Contact us section, or by sending a letter to the following address: 140 boulevard Malesherbes - 75017 Paris.
-
-*   Dailymotion
-*   About
-*   Press
-*   Jobs
-*   Blog
-*   All videos
-
-*   Participate
-*   Advertise
-*   Become a MotionMaker
-*   Become an Official User
-*   B2B Solution
-*   Dailymotion Publisher
-*   OpenVoD
-
-*   Help
-*   Family Filter ON
-*   FAQ
-*   Contact
-
-*   Legal terms
-*   Terms of use
-*   Privacy policy
-*   Prohibited content
-*   Copyright notification
-*   Child protection
-
-*   Extras
-*   Contests
-*   Mobile
-*   Dailymotion Stream
-*   Mass Uploader
-*   Slideshow
-*   more …
-
-*   Developers
-*   Developer Area
-*   Data API
-*   Player API
-
-© 2005 - 2012 Dailymotion United States▾ Follow us
