@@ -58,7 +58,7 @@ You are here: www.LEGO.com >. About Us >. Legal Notice >. Privacy Policy
         *   Governance
         *   The LEGO Foundation
     *   Goals &. progress
-        
+        *   Progress reports
 *   Jobs
     
 
