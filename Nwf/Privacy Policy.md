@@ -1,4 +1,4 @@
-Global Warming Get Outside Wildlife News &. Magazines How to Help Home About Us Our MissionStaff &. Board of DirectorsSpeaker's BureauAnnual ReportHistory and HeritageWhere We WorkAnnual MeetingConservation AwardsCorporate RelationshipsLogosNWF at the MoviesNWF TV ProductionsSupport NWFNWF ExpeditionsCareers at NWFFrequently Asked QuestionsContact Us Donate Shop Renew Subscribe Honor a Loved One Privacy Policy
+Privacy Policy
 
 **Website and Mobile Privacy Policy of the National Wildlife Federation**
 
@@ -63,48 +63,3 @@ National Wildlife Federation reserves the right to amend this policy at any time
 National Wildlife Federation  
 11100 Wildlife Center Drive  
 Reston, VA 20190
-
-Help Us Protect Wildlife
-
-*   ****1\. Become a Member of NWF****
-*   **2\. Take Action for Wildlife**
-*   **3\. Join us on Social Media**
-*   **4\. Volunteer with NWF**
-
-Turn Passion into Action TM
-
-*   Support wildlife with every purchase you make.  
-      
-    **Apply for your NWF BankAmericard Cash RewardsTM card today >>**
-
-Donate  |  Shop  |  Where We Work  |   About Us  |   E-Newsletter  |  Contact Us  |   Jobs   |         Kids Fun Things:  
-Activity Finder  
-Nature Find   
-Animal Games   
-Wildlife Gardening  
-Wildlife Watch Helping Wildlife:   
-Make a Donation   
-Volunteer   
-Take Action   
-Adopt an Animal  
-Green Your School Magazines:   
-Ranger Rick   
-Ranger Rick Jr.   
-National Wildlife  
-Wildlife News:   
-Wildlife Promise Blog   
-Media Center Featured Issues:   
-Polar Bears &. Climate  
-Birds &. the Farm Bill  
-Dolphins &. Gulf Restoration  
-Bison &. Tribal Lands   
-Wolves &. Tar Sands Wildlife Photos:  
-Photo of the Day  
-Photo Contest  
-Kids Photo Contest  
-Flickr Challenge  
-© 1996-2012 National Wildlife Federation | PO Box 1583, Merrifield VA 22116-1583 | 1-800-822-9919 . (M-F 8 a.m - 8 p.m. EST) for customer service. 703-438-6000 (M-F 8:30 a.m. - 5 p.m. EST)  
-National Wildlife Federation is a 501(c)(3) non-profit organization : Privacy Policy | Terms of Use | Site Map | Contact Us **Email(s) sent.  
-Thank you for sharing this web page.** Your First Name: Your Last Name: Your Email Address: Your Friend's Email Address(es) (up to 10 email addresses, separated by commas): Your Personal Message (optional): Yes, I would like to receive National Wildlife Federation emails. Cancel   Enter your user name and click the "Send" button. We will email a new password to the email address on record. User Name:    **You are now logged out of your NWF account** User Name: Password: Remember Me    Forgot Password >>. **Your account has been updated** User Name: Display Name: Email: To change your password, enter a new password and retype to confirm. Password must be at least 6 characters in length, and may be any combination of numbers, letters and special characters. The password IS CASE SENSITIVE.  
-  
-If you're not changing your password, please leave these fields blank. Password: Retype Password:
