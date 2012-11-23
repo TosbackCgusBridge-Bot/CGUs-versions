@@ -1,4 +1,4 @@
-Privacy Policy Highlights March 16, 2012  
+Privacy Policy Highlights November 22, 2012  
 
 Hulu knows that you care how information about you is collected, used and shared, and we appreciate your trusting us to do so carefully and sensibly. Please take a moment to review our Privacy Policy, which describes how Hulu collects, uses, and shares this and other information.
 
@@ -45,7 +45,7 @@ Your Choices
 Security, Kids, and Other Information
 
 *   We have adopted commercially reasonable procedures to help protect your information, but please note that no data transmission or storage can be guaranteed to be 100% secure.
-*   Hulu prohibits anyone under 13 years of age from using its services and will not knowingly collect personally identifiable information from anyone under 13.
+*   Hulu prohibits registration or subscription by, and will not knowingly collect personally identifiable information from, anyone under 13 years of age.
 *   For more information about our privacy practices, please review the full Hulu Privacy Policy.
 
   
