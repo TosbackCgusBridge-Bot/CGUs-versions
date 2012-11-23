@@ -20,7 +20,7 @@
 *   Need Help?
 *   Invite Friends, Get $25
 
-~ GILT Privacy Notice Error message _User error_: Failed to connect to memcache server: _cmsabout3:11211_ in _dmemcache\_object()_ (line _415_ of _/web/cms\_about/docroot/sites/all/modules/contrib/memcache/dmemcache.inc_). **Quick Links**Marketing E-mail Opt-OutWeb Analytics Opt-OutTargeted Advertising Opt-OutYour California Privacy RightsSafe Harbor Privacy Policy
+~ GILT Privacy Notice **Quick Links**Marketing E-mail Opt-OutWeb Analytics Opt-OutTargeted Advertising Opt-OutYour California Privacy RightsSafe Harbor Privacy Policy
 
 Gilt Groupe Holdings, Inc. and its subsidiaries and affiliates (collectively, “GILT”), respect your concerns about privacy. This Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
