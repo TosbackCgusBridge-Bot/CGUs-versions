@@ -1,16 +1,4 @@
-Jump to content
-
-Future PLC
-
-*   About Us
-*   Our Groups
-*   Investors
-*   News
-*   Careers
-*   Responsibility
-*   Contact
-
-Future is AOP and PPA Consumer Digital Publisher of the Year Search for: Future plc >. Privacy Policy Privacy Policy Privacy Policy
+Privacy Policy
 
 1**. Introduction**: This website is operated by Future Publishing Limited (“**Future**“, “**we**” or “**us**“). Future is committed to protecting the privacy of your personal information whilst striving to provide the very best user experience. We want our websites to be safe and enjoyable for everyone. Under the Data Protection Act 1998 and related laws, we have a legal duty to protect the personal information we collect from you.
 
@@ -77,9 +65,3 @@ By providing us with your personal information, you consent to us: (a) processin
 **9\. Policy changes**: By using this website you agree to the terms of this privacy policy and our terms of use. We may amend this privacy policy and the terms of use from time to time. If we do so, we will post an updated version on this website. You will be bound by the new terms upon your continued use of this website.
 
 **10\. Questions about this website and the information we hold about you**: if you have any general questions about this website or the information we have collected about you and how we use it, you can contact the Future New Media Team at Future Publishing Limited, Beauford Court, 30 Monmouth Street, Bath, BA1 2BW, telephone 00 44 1225 442244, email futurenet-webmaster@futurenet.co.uk. If you have any questions about your information including what we hold and how it is used, you can contact us at futurenet-webmaster@futurenet.co.uk. You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected.
-
-Footer © Future plc. Reg No 3757874 England. 30 Monmouth Street, Bath, BA1 2BW.
-
-*   Privacy Policy
-*   | Cookies Policy
-*   | Terms &. Conditions
