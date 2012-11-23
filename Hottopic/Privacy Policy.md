@@ -1,6 +1,5 @@
-$4.99 Standard Shipping Everyday - Shop Now
+Free Shipping With $30 Purchase - Shop Now
 
-*   Get Email
 *   My Account
 *   Customer Service
 *   Gift Cards
