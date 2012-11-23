@@ -11,7 +11,6 @@
 *   Sketch Comedy
 *   Top Pictures
 *   Top Games
-*   Blog
 
 *   animals
 *   animation
