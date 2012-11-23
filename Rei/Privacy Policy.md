@@ -994,12 +994,11 @@ Help
 
 *   Help Section
 *   Contact Us
-*   Live Help
+*   Contact Us
 *   Order Status
 *   Returns and Exchanges
 *   Shipping Info
 *   1-800-426-4840
 *   Product Safety and Recalls
-*   Customer Reviews
 
 Find REI on: **Facebook** **Twitter** **YouTube** **Flickr**
