@@ -185,8 +185,8 @@ shop zales outlet ZalesZales Outlet
         *   ESQ Movado
         *   Invicta
         *   Movado
-        *   Wittnauer
         *   Tissot
+        *   Wittnauer
     *   ONLINE ONLY
         *   Anne Klein
         *   Black Hills Gold
