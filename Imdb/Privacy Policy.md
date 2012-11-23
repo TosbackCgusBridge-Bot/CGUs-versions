@@ -35,9 +35,7 @@ IMDb More AllTitlesTV EpisodesNamesCompaniesKeywordsCharactersVideosQuotesBiosPl
     *   Apps Home
     *   iPhone + iPad Apps
     *   Android Apps
-    *   IMDb App on Kindle Fire
-    *   Windows Phone App
-    *   IMDb Mobile site
+    *   Kindle Fire App
 
 Your Watchlist  
 IMDb Privacy Notice
