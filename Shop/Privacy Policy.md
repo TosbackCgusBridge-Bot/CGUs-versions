@@ -259,13 +259,13 @@ Don't miss Men's Women's Men's
 *   Accessories
 
 *   New Offers
-*   Tees
-*   Fleece &. Outerwear
+*   Apparel &. Accessories
+*   Denim &. Chinos
 *   Volcom Thermals
-*   Bullhead Denim &. Pants
-*   Levi's Denim
-*   Hats
-*   Socks
+*   Sunglasses
+*   V-necks &. Crew Tees
+*   Fleece &. Flannels
+*   Jackets
 
 Women's
 
@@ -279,13 +279,13 @@ Women's
 *   Accessories
 
 *   New Offers
-*   Tees, Tanks &. Knits
-*   Branded Fleece
-*   Outerwear, Dresses &. Skirts
-*   Bullhead Black Denim
-*   Bullhead Black Fashion Denim
-*   Denim, Skirts &. Shorts
-*   Sweaters
+*   Apparel &. Accessories
+*   Basic Denim
+*   Fashion Denim
+*   Leggings &. Skirts
+*   Tanks
+*   Wovens
+*   Sweaters &. Fleece
 
 Don't miss Brands
 
