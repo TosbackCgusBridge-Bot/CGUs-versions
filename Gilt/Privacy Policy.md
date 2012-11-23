@@ -1,26 +1,4 @@
-*   Women
-*   Men
-*   Baby &. Kids
-*   Home
-*   Taste
-*   City
-*   Jetsetter
-*   Park &. Bond
-
-~
-
-*   Welcome Member
-*   *   \+ Orders
-    *   \+ Returns
-    *   \+ Waitlist
-    *   \+ Account Credits
-    *   \+ Account Settings
-    *   \+ Invite Friends, Get $25
-    *   \+ (Sign Out)My Account
-*   Need Help?
-*   Invite Friends, Get $25
-
-~ GILT Privacy Notice **Quick Links**Marketing E-mail Opt-OutWeb Analytics Opt-OutTargeted Advertising Opt-OutYour California Privacy RightsSafe Harbor Privacy Policy
+**Quick Links**Marketing E-mail Opt-OutWeb Analytics Opt-OutTargeted Advertising Opt-OutYour California Privacy RightsSafe Harbor Privacy Policy
 
 Gilt Groupe Holdings, Inc. and its subsidiaries and affiliates (collectively, “GILT”), respect your concerns about privacy. This Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
@@ -191,28 +169,3 @@ Attn: Legal Department
 New York, New York 10016
 
 **Effective Date: January 28, 2012**
-
-*   *   Gilt
-    *   © 2007 - 2012 GILT GROUPE, INC. ALL RIGHTS RESERVED.
-*   *   Company
-    *   About
-    *   Careers
-    *   Technologie
-    *   FAQ
-    *   E-Gift Cards
-    *   Style Directory
-*   *   Customer Service
-    *   Contact Us
-    *   Return Policy
-    *   Shipping &. Tax
-    *   International
-*   *   Policies
-    *   Terms Of Service
-    *   Privacy
-    *   Security
-    *   Website Terms of Use
-*   *   Connect with Gilt
-    *   Mobile
-    *   Twitter
-    *   Facebook
-    *   Google
