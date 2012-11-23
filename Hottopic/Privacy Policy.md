@@ -1,28 +1,3 @@
-Free Shipping With $30 Purchase - Shop Now
-
-*   My Account
-*   Customer Service
-*   Gift Cards
-*   View Cart
-
-LOG IN / JOIN  
-
-*   Customer Service
-    *   INFO
-    *   FIND A STORE
-    *   FAQS
-    *   HOT TOPIC FOUNDATION
-    *   HT+1 TERMS OF USE
-    *   PRIVACY &. SECURITY
-    *   EXCHANGES/RETURNS
-    *   SHIPPING
-    *   SIZE CHART
-    *   TALK TO US
-    *   TERMS OF USE
-    *   TRACK YOUR ORDER
-
-HOME >. CUSTOMER SERVICE >. PRIVACY &. SECURITY
-
 **PRIVACY POLICY**
 
 **Introduction**
@@ -138,20 +113,3 @@ Hot Topic reserves the right to change this Privacy Policy at any time without n
 Hot Topic’s mailing address is 18305 East San Jose Avenue, City of Industry, CA, 91748, our customer service telephone number is 800.892.8674, and our customer service email address for questions about this Privacy Policy is **privacy@hottopic.com**.
 
 This Privacy Policy was last updated November 09, 2010.
-
-Check out our FAQs or call  
-Customer Service at 1.800.892.8674. International Customers, please call +1.626.709.1189.  
-  
-Monday thru Friday:  
-6 AM - 7 PM PST  
-Saturday &. Sunday:  
-7AM - 5PM PST  
-
-*   When will I receive my order?
-*   What types of payment do you accept?
-*   I forgot my password. What do I do?
-
-Read Hot Topic's  
-Privacy &. Security Policy WISH LIST        FIND A STORE        PRIVACY POLICY        CHILD PRIVACY POLICY        TERMS OF USE        JOBS        SITE MAP        YOUTUBE        MYSPACE        FACEBOOK        TWITTER        AFFILIATES        MODEL FOR US        ABOUT HOT TOPIC        Copyright Hot Topic ©2012 All Rights Reserved
-
-RSS,
