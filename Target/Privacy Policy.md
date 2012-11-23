@@ -1,4 +1,4 @@
-it's on! Black Friday sale. sign up now to receive Black Friday deals and Cyber Monday steals. sign up now free shipping on this year's must-have holiday toys! top holiday toys oops, there is a problem
+it's on! Black Friday sale. check out Black Friday doorbusters on electronics, toys &. more. sale ends 11/24. Black Friday sale free shipping on this year's must-have holiday toys! top holiday toys oops, there is a problem
 
 Target.com requires **javascript** to be enabled.
 
