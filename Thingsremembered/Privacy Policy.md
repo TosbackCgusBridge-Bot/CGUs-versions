@@ -189,7 +189,7 @@ Store Locator
 *   Special Offers
 *   NEW! Pickup In-Store
 *   Exclusive Online Gifts
-*   Free Shipping
+*   Free Shipping $75 &. Over
 
 {"dragByHandle":true,"cssSelector":"ql-thumbnail","dragByBody":false,"widgetClass":"OverlayWidget","bindings":{"bind0":{"element":".ql-thumbnail .Quicklook .trigger","type":"quicklookselected","fn":"function(){$.fnProxy(arguments,\\'#headerOverlay\\',OverlayWidget.show,\\'OverlayWidget.show\\');}"}},"effectOnHide":"slide","effectOnShowOptions":"{}","closeOnBackgroundClick":true,"effectOnHideOptions":"{}","effectOnShowSpeed":"1200","onScreenPadding":10,"allowOffScreenOverlay":false,"effectOnHideSpeed":"1200","effectOnShow":"slide","captureClicks":true}
 
