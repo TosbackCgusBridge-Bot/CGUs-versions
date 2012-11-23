@@ -344,7 +344,6 @@
 
 *   handmade
 
-*   recycled
 *   all puzzles
 
 *   puzzles - ages 12 and under
