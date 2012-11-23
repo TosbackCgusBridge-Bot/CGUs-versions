@@ -1,43 +1,4 @@
-IMDb More AllTitlesTV EpisodesNamesCompaniesKeywordsCharactersVideosQuotesBiosPlots Register | Login | Help
-
-*   Movies
-    *   In Theaters
-    *   Top 250
-    *   US Box Office
-    *   Coming Soon
-    *   Showtimes
-    *   On DVD &. Blu-Ray
-    *   X-Ray for Movies
-*   TV
-    *   TV Home
-    *   Top TV Series
-    *   TV Listings
-    *   TV Episodes
-*   News
-    *   Top News
-    *   Movie News
-    *   TV News
-    *   Celebrity News
-*   Trailers
-    *   Trailer Gallery
-*   Community
-    *   Message Boards
-    *   Newest Lists
-    *   Your Lists
-    *   Your Ratings
-    *   Contributor Zone
-    *   Quiz Game
-*   IMDbPro
-    *   Add a Resume
-    *   Contact Info
-    *   Add Demo Reels
-*   Apps
-    *   Apps Home
-    *   iPhone + iPad Apps
-    *   Android Apps
-    *   Kindle Fire App
-
-Your Watchlist  
+  
 IMDb Privacy Notice
 
 **Last Updated, November 15, 2010**. To see what has changed click here.
@@ -99,40 +60,3 @@ IMDb is not intended for use by children under the age of 13. If you are under 1
 **Conditions of Use, Notices, and Revisions**
 
 If you choose to visit IMDb, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at IMDb, please send us a thorough description to our help desk, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account.  We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
-
-  
-   
-
-Home | Search | Site Index | In Theaters | Coming Soon | Top Movies | Watchlist | Top 250 | TV | News | Video | Message Boards | Press Room  
-Register | RSS | Advertising | Contact Us | Jobs | IMDbPro | IMDb Resume | Box Office Mojo | Withoutabox | LOVEFiLM  
-  
-IMDb Mobile: iPhone/iPad | Android | Mobile site | Windows Phone 7 | IMDb Social: Facebook | Twitter  
-  
-International Sites: IMDb Germany | IMDb Italy | IMDb Spain | IMDb France | IMDb Portugal  
-  
-
-Copyright © 1990-2012 IMDb.com, Inc.  
-Terms of Use | Privacy Policy | Interest-Based Ads  
-An company.
-
-Amazon Affiliates Amazon Instant Video  
-Watch Movies &  
-TV Online Prime Instant Video  
-Unlimited Streaming  
-of Movies &. TV Amazon Germany  
-Buy Movies on  
-DVD &. Blu-ray Amazon Italy  
-Buy Movies on  
-DVD &. Blu-ray Amazon France  
-Buy Movies on  
-DVD &. Blu-ray LOVEFiLM  
-Watch Movies  
-Online Amazon Wireless  
-Cellphones &  
-Wireless Plans Junglee  
-India Online  
-Shopping DPReview  
-Digital  
-Photography Audible  
-Download  
-Audio Books
