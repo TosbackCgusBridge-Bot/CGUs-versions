@@ -33,10 +33,10 @@ become a fan AG twitters!
     Innovative ecards to send, share or post
     
     *   **Holidays**
-    *   thanksgiving
     *   hanukkah
     *   christmas
     *   season's greetings
+    *   new years
     *   view all holidays >
     
     *   **Occasions**
@@ -67,10 +67,10 @@ become a fan AG twitters!
     Create and print cards from your home computer.
     
     *   **Holiday**
-    *   thanksgiving
     *   hanukkah
     *   christmas
     *   season's greetings
+    *   new years
     *   view all holidays >
     
     *   **Occasions &. Invitations**
@@ -93,9 +93,10 @@ become a fan AG twitters!
     Personalize cards with a message or photo, professionally printed and mailed
     
     *   **Holidays**
-    *   thanksgiving
     *   christmas
     *   hanukkah
+    *   kwanzaa
+    *   new year
     *   view all holidays >
     
     *   **Occasions**
@@ -153,13 +154,13 @@ become a fan AG twitters!
     
 *   **find it quick**
 *   Ecards Printable Cards
-*   Choose Occasion birthdaythanksgivinganniversarybabycongratulationsencouragementfriendshipget wellgood bye &. good luckgraduationi'm sorrylove &. datingmiss yousaying hisupportsympathythank youthinking of youwedding &. engagement
+*   Choose Occasion christmasbirthdayanniversarybabycongratulationsencouragementfriendshipget wellgood bye &. good luckgraduationi'm sorrylove &. datingmiss yousaying hisupportsympathythank youthinking of youwedding &. engagement
 *   Choose Recipient
 *   Choose Style
 
 *   **find it quick**
 *   Ecards Printable Cards
-*   Choose Occasion birthdaythanksgivinganniversarybabycongratulationsencouragementfriendshipget wellgood bye &. good luckgraduationi'm sorrylove &. datingmiss yousaying hisupportsympathythank youthinking of youwedding &. engagement
+*   Choose Occasion christmasbirthdayanniversarybabycongratulationsencouragementfriendshipget wellgood bye &. good luckgraduationi'm sorrylove &. datingmiss yousaying hisupportsympathythank youthinking of youwedding &. engagement
 *   Choose Recipient
 *   Choose Style
 
