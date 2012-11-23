@@ -1,16 +1,16 @@
 Jump to content
 
-Future Publishing - Media With Passion AOP Consumer Digital Publisher of the Year 2012 PPA Digital Consumer Publisher of the Year 2012 Search for:
+Future PLC
 
-*   About us
-*   What we do
+*   About Us
+*   Our Groups
 *   Investors
 *   News
 *   Careers
 *   Responsibility
 *   Contact
 
-You are here: Future plc >. Privacy Policy Privacy Policy Privacy Policy
+Future is AOP and PPA Consumer Digital Publisher of the Year Search for: Future plc >. Privacy Policy Privacy Policy Privacy Policy
 
 1**. Introduction**: This website is operated by Future Publishing Limited (“**Future**“, “**we**” or “**us**“). Future is committed to protecting the privacy of your personal information whilst striving to provide the very best user experience. We want our websites to be safe and enjoyable for everyone. Under the Data Protection Act 1998 and related laws, we have a legal duty to protect the personal information we collect from you.
 
@@ -78,16 +78,8 @@ By providing us with your personal information, you consent to us: (a) processin
 
 **10\. Questions about this website and the information we hold about you**: if you have any general questions about this website or the information we have collected about you and how we use it, you can contact the Future New Media Team at Future Publishing Limited, Beauford Court, 30 Monmouth Street, Bath, BA1 2BW, telephone 00 44 1225 442244, email futurenet-webmaster@futurenet.co.uk. If you have any questions about your information including what we hold and how it is used, you can contact us at futurenet-webmaster@futurenet.co.uk. You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected.
 
-Footer
+Footer © Future plc. Reg No 3757874 England. 30 Monmouth Street, Bath, BA1 2BW.
 
-*   Home
-*   | About us
-*   | Portfolio
-*   | Investors
-*   | Careers
-*   | Contact us
-*   | Privacy
+*   Privacy Policy
 *   | Cookies Policy
-*   | Terms &. conditions
-
-© Future plc. Reg No 3757874 England. 30 Monmouth Street, Bath, BA1 2BW.
+*   | Terms &. Conditions
