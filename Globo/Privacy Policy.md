@@ -432,6 +432,7 @@ Esta política permitirá que você saiba:
         *   Paraíba
         *   Paraná
         *   Pernambuco
+        *   Piauí
         *   Planeta Bizarro
         *   Política
         *   Pop &. Arte
