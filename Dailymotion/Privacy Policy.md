@@ -1,3 +1,5 @@
+Watch "Pardcast-a-thon" LIVE from 3pm - 3am ET! All-star comedy event benefits the charity Smile Train.
+
 Dailymotion
 
 *   Browse
