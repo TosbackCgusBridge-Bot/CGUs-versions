@@ -1,33 +1,3 @@
-Overstock.com Help Topics
-
-*   **Back to Help Home**
-
-*   **Returns**
-*   **Shipping**
-*   **Orders**
-*   **Payment Options**
-*   **Using Your Account**
-*   **Product Information**
-*   **Overstock.com Services**
-*   **Membership Programs**
-*   **Company Information**
-*   **Privacy and Security**
-
-*   Privacy and Security
-*   Identifying Spoofed, Phishing, and Fraudulent Emails
-*   Top 10 Online Security Tips
-
-Click here to view all Help Center answers.
-
-*   Online Shopping
-*   Help Center
-
-*   Privacy and Security
-*       **Privacy and Security**
-
-  
-Privacy and Security
-
 *   Overstock.com, Inc. (“Overstock.com,” “Overstock,” “we,” “us,” or “our” as appropriate) has created the following Privacy and Security Policy to let you know what information we collect, why we collect it, and to whom it may be disclosed.
 *   This Privacy and Security Policy applies to http://www.overstock.com, http://www.o.info, and http://www.o.biz (the “Sites”).
 *   This Privacy and Security Policy also addresses our data security practices and the options you have to access and control personally identifiable and non-personally identifiable information.
@@ -171,28 +141,4 @@ Privacy and Security
 
   
   
-This Privacy and Security Policy was last updated on April 26, 2012.  **Please leave us some feedback:**    Was this answer helpful?  Yes     No   How can we improve this answer?Post-Cutover Pending If you need additional assistance, please leave us your email address. Print Email this page Recipient Email \*Required Your Email \*Required Your Name \*Required
-
-« Go Back to Search Results
-
-Contact Us
-
-**_Severe weather due to Hurricane Sandy is causing some unavoidable service delays for shipments from and deliveries to several eastern states. Please click here for more details._**
-
-**Need assistance?** Please click here to contact customer care.
-
-  
-
-**Already contacted us?** Click here to view your contact history.
-
-Answers others found helpful
-
-*   Terms and Conditions
-*   Subscribe or Unsubscribe To Email Promotions
-*   Holiday Return Policy
-*   Shipping &. Delivery
-*   Updating Your Personal Account Information
-
-Overstock.com - Help Home - Contact Customer Care -
-
-\- Privacy Policy - Site User Terms and Conditions - About Overstock.com - We are Hiring ©2012 Overstock.com
+This Privacy and Security Policy was last updated on April 26, 2012.
