@@ -1,41 +1,4 @@
-Website Privacy | Conduit
-
-*   Join
-*   Log In
-    *   Community Toolbar
-    *   Mobile
-    *   Wibiya
-*   *   Log Out
-*   Contact Us
-*   Conduit
-    *   Community Toolbar
-    *   Mobile
-    *   Wibiya
-
-*   Products
-    *   Our Products
-    *   Community Toolbar
-    *   Mobile
-    *   Wibiya
-    *   Case Studies
-*   News &. Events
-    *   Media Coverage
-    *   Press Releases
-    *   Events
-    *   Awards
-    *   Press Kit
-*   Company
-    *   About Us
-    *   Engaging People
-    *   Timeline
-    *   Leadership
-    *   Our Publishers
-    *   Careers
-    *   Locations
-    *   Contact Us
-*   Blog
-
-Home › Privacy › Website Privacy GUIDELINES&. POLICIES
+GUIDELINES&. POLICIES
 
 *   Overview
 *   Website Privacy
@@ -153,20 +116,3 @@ Attn: Legal Department, Privacy Policy Issues
 950 Tower Lane, Suite 1788, Foster City, CA 94404  
   
 \[Last updated: June 17, 2012\]
-
-*   Privacy
-*   Legal
-*   Contact Us
-*   Site Map
-
-Copyright �� 2012 Conduit Ltd. All rights reserved.
-
-*   Facebook
-*   Twitter
-*   LinkedIn
-*   Google+
-*   YouTube
-
-1972 FIRST EMAIL SENT 1800s SIGNAL LAMP INVENTED 1838 ELECTRICAL TELEGRAPH INVENTED 1911 IBM IS FOUNDED 1927 WORLD'S FIRST TV 2400 BC EARLIEST DOCUMENTED MAIL SERVICE 1965 FIRST WIDE AREA NETWORK 1983 FIRST COMMERCIAL MOBILE PHONE SOLD 1990s 2G DIGITAL NETWORKS EMERGE 1998 FIRST DOWNLOADABLE MOBILE RINGTONE 1998 FIRST ONLINE BLOGGING COMMUNITY 2011 CONDUIT ACQUIRES WIBIYA 2.1 BILLION INTERNET USERS TODAY 2008 MOBILE WEB GOES MAINSTREAM 1895 FIRST RADIO SIGNAL 1.08 BILLION SMARTPHONES  
-IN USE 109 NEW CONDUIT EMPLOYEES IN 2011 1973 FIRST ANALOG MOBILE PHONE 54,000 COFFEE CAPSULES CONSUMED AT CONDUIT IN 2011 400 BC FIRST PIGEON POST 29 BIRTHS AT CONDUIT IN 2011 1990 FIRST INTERNET BROWSER 40,041 SQ FT OF CONDUIT OFFICE SPACE  
-IN 2011 1997 BIRTH OF SOCIAL NETWORKING 14 CONDUIT WEDDINGS IN 2011 2005 CONDUIT PRESENTS ITS POWERFUL CLOUD-BASED PLATFORM 250 MILLION CONDUIT USERS 260,000 CONDUIT PUBLISHERS 2.49 BILLION MONTHLY ENGAGEMENTS WITH CONDUIT PRODUCTS 1876 FIRST TELEPHONE 2009 1st CONDUIT PATENT REGISTERED close     function setCookie(){ var resCval = "". if (resCval == "1" || resCval == "2"){ document.cookie = 'responsiveCookie=' + resCval + ';path=/;domain=.conduit.com'. } } function getCookie(c\_name) { var i,x,y,ARRcookies=document.cookie.split(";"). for (i=0;i").append(script). } else if (responsecss == "2") { script.src = "http://reallygood.co.il/clients/conduit/dev/responsive.js". $("head").append("").append(script). } } $(document).ready(function() { setCookie(). checkCookie(). }).
