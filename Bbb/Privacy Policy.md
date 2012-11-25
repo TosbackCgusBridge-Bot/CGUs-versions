@@ -1,38 +1,3 @@
-Search  
-
-*   Español
-*   Contact Us
-*   Find a BBB
-*   Site Map
-*   Text Size
-
-Home
-
-*   For Consumers
-*   For Businesses
-*   For Charities and Donors
-*   About Us
-*   News Center
-
-Better Business Bureau Start With Trust
-
-Privacy Policy
-
-*   Tools |
-*   Print
-*   RSS
-*   Bookmark &. Share
-
-Bookmark &. Share
-
-*   Facebook
-*   MySpace
-*   Digg
-
-*   Twitter
-*   Delicious
-*   StumbleUpon
-
 **Privacy Policy  
 **The Council of Better Business Bureaus (CBBB) is the umbrella association for the United States Better Business Bureaus (BBBs), and CBBB works closely with the Canadian Better Business Bureaus (BBBs) through the Canadian Council of Better Business Bureaus. What follows is CBBB's online privacy policy, which governs personal information gathered on our Internet sites but not the sites of BBBs. Each BBB has its own privacy and security policies for its Web site, consistent with policy established by the CBBB Board of Directors.  
   
@@ -71,7 +36,4 @@ A cookie is a small amount of data that is sent to your browser from a Web serve
 **Problems or Complaints with CBBB Privacy Policy**  
 If you have a complaint about CBBB compliance with this privacy policy, you may contact us at complaints@council.bbb.org.  
   
-revised January 3, 2008  
-
-  
-Privacy Policy | Terms of Use | Trademarks | Find a BBB | BBB Directory © 2012 Council of Better Business Bureaus
+revised January 3, 2008
