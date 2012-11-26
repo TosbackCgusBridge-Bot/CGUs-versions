@@ -107,8 +107,8 @@ More Movies Users' Most Picked People
 *   Sandra Bullock
 *   Will Smith
 *   Harrison Ford
-*   Clint Eastwood
 *   Bruce Willis
+*   Clint Eastwood
 
 More People This site uses cookies to enhance your experience. By continuing to browse LocateTV.com you are agreeing to the use of cookies. If you need further information then please click on the below link. See more information
 
