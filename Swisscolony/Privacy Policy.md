@@ -26,7 +26,6 @@
 *   SHOP BY OCCASION
     *   Birthday
     *   Breakfast
-    *   Thanksgiving
     *   Christmas
     *   All Occasion Gifts
 *   SHOP BY PRICE
