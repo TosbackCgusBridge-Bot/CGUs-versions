@@ -1,44 +1,3 @@
-Home
-
-*   Products
-    *   Netbooks
-    *   Notebooks
-    *   Desktops
-    *   All-in-Ones
-    *   Displays
-
-*   Shopping Tools
-    *   Where to Buy
-    *   Deals
-    *   Accessory Store
-
-*   Support
-    *   Drivers &. Downloads
-    *   Top Answers
-    *   Accessories &. Upgrades
-    *   Product Registration
-    *   My Account
-    *   Warranty
-    *   Contact Support
-    *   Windows 8 Upgrade
-    *   Windows 8 Tutorial
-
-*   Overview
-*   News and Information
-*   Corporate Social Responsibility
-*   Careers
-*   Legal
-*   Contact Us
-
-*   About Us
-
-Legal
-
-*   Policies
-*   Privacy
-*   Warranty
-*   Disclaimers
-
 Privacy
 
 By submitting your personal information through this website (the "Site"), you thereby give your consent to the handling of your personal data in the manner described in this policy.
@@ -129,16 +88,3 @@ The terms of this policy will govern the use of any information collected while 
 Questions
 
 For any questions or comments regarding this Privacy Policy or the Site, please contact us at privacy\_officer@acer.com.
-
-*   Gateway products are available through **select retailers**.
-
-*   Site Map
-*   About Us
-*   Contact Us
-
-© 2012 All rights reserved.
-
-*   Legal
-*   Privacy
-
-**United States** (change country or region)
