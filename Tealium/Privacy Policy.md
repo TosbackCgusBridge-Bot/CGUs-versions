@@ -1,33 +1,39 @@
 Tealium
 
+*   Request Demo
+*   Contact Us
+*   Customer Login
+
 *   Products
     *   *   Tealium iQ
-        *   Tag Management Console
+        *   Features
+        *   Benefits
+        *   Supported Tags
         *   Mobile Tagging
-        *   Features &. Benefits
+*   Customers
+    *   *   Clients
         *   Testimonials
-        *   FAQs
-        *   Turnkey Integrated Tags
-*   Business Case
-    *   *   Overview
-        *   Reduce Costs
-        *   Increase Revenue
-        *   Improve Performance
-        *   Enhance Privacy
-        *   Resources
+*   Partners
+    *   *   Partner Program
+        *   Agencies
+        *   Contact
+*   Resources
+    *   *   Webinars
+        *   White Papers
+        *   Data Sheets
+        *   Case Studies
 *   Blog
+*   News
+    *   *   Press Releases
+        *   News Coverage
+        *   Recognition
 *   Company
     *   *   About Us
         *   Management
         *   Investors
-        *   Clients
-        *   Partners
-        *   Press Releases
-        *   News Coverage
+        *   Digital Velocity
+        *   TMU
         *   Careers
-*   Contact Us
-
-*   Customer Login
 
 Privacy Policy US Office
 
@@ -101,9 +107,9 @@ If you have any questions about this privacy policy or concerns about the way th
 
 This policy was last updated on November 22, 2011.
 
-*   Home
 *   Tag Management
 *   Universal Tag
+*   Tag Management Console
 *   Blog
 *   Company
 *   Contact
