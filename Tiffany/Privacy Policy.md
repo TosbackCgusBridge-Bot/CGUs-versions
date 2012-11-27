@@ -87,6 +87,7 @@ Skip to main content
     *   Wedding Gifts
     
     *   Product Care Items
+    *   Holiday Ornaments
     
 *   The World of Tiffany
     
