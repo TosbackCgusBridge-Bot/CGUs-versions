@@ -17,7 +17,7 @@ Skip Links
 
 *   Solution Centers
 *   Acquia and Drupal: Building for Your Digital Future with OpenWEM
-*   Aruba Networks Bring Your Own Device (BYOD)
+*   Aruba Networks Bring Your Own Device
 *   Aerohive Enterprise Networking Solution Center
 *   CA Technologies Transform Your IT Strategy
 *   HP + Microsoft Data Management Appliances &. Architectures
