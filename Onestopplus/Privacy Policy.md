@@ -206,7 +206,7 @@ To be removed from all of the email solicitation lists within the Redcats USA fa
   
 You will be removed from receiving future email solicitations, though you will still receive any email solicitations processed before this request was received. Please know that it may take up to 7 days to remove you from our emailing solicitation lists. If you choose to be removed from our emailing solicitation lists you will still continue to receive order and confirmation emails as well as emails relating to your other transactions. We will also no longer share your information with third parties for direct marketing purposes. 
 
-Are Redcats USA Division Credit Cards Available? Yes. You can apply for a BrylaneHome (includes BrylaneHome Kitchen), Jessica London, KingSize, Woman Within, Roaman‘s and OneStopPlus, credit card account or Visa® Card account or a Sportsman‘s Guide Visa® Card account issued by Comenity Bank to receive special offers and participate in exclusive brand benefits.
+Are Redcats USA Division Credit Cards Available? Yes. You can apply for a BrylaneHome (includes BrylaneHome Kitchen), Jessica London, KingSize, Woman Within, Roaman‘s and OneStopPlus, credit card account or a Sportsman‘s Guide Visa® Card account issued by Comenity Bank to receive special offers and participate in exclusive brand benefits.
 
 When you apply for one of these credit cards online, you provide your financial and personal information needed to process your application directly to Comenity Bank. Redcats USA is independent of and not affiliated with Comenity Bank.  
   
@@ -216,7 +216,6 @@ Jessica London
 BrylaneHome (includes BrylaneHome Kitchen)  
 KingSize  
 OneStopPlus.com  
-OneStopPlus.com Visa  
 Roaman‘s  
 The Sportsman‘s Guide Buyer‘s Club Advantage Rewards Visa Credit Card  
 Woman Within
@@ -277,9 +276,6 @@ Redcats USA may from time to time make changes to its Privacy Policy to reflect 
 
 **PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THIS SITE**  
 By using this site, (the "Site"), you signify your agreement to these termsTerms of useUse. If you do not agree to these termsTerms of useUse, please do not use this siteSite. This siteSite is owned and operated by Redcats USA. Redcats USA reservesWe reserve the right, at any time and itsin our sole discretion, to change, modify or otherwise alter these terms and conditionsTerms of Use at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Please review the terms and conditions periodically. If any modification is unacceptable to you, your only recourse is to discontinue use of the siteSite. Your continued use of the siteSite following the posting of changes and/or modifications will constitute your acceptance of the revised terms and conditions.  
-  
-**RISK OF LOSS**  
-All items purchased from Redcats USA are made pursuant to a shipment contract. This means that the risk of loss and the title for such items pass to you upon our delivery to the carrier.  
   
 **ACCEPTABLE USES**  
 You may use this Site for legitimate shopping purposes only. You may not harm the Site in any way or otherwise use the Site in any improper manner, including, but not limited to hacking into the Site‘s systems, spoofing or faking email headers or slowing or stopping the functionality of the Site. In the event you register and/or purchase product, you agree to: (a) provide true, accurate, current and complete information about yourself as prompted by the registration form. If you provide any information that is untrue, inaccurate, not current or incomplete, or Redcats USA suspects, for any reason, that such information is untrue, inaccurate, not current or incomplete, Redcats USA, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of the Site. You will create a password and account designation upon completing the registration process. You are responsible for maintaining the confidentiality of the password and account and for restricting access to your computer, and are fully responsible for all activities that occur under your password or account. If you are under the age of 18, you may use the Site only with involvement of a parent or legal guardian. You agree to (a) immediately notify Redcats USA of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. Redcats USA will not be liable for any loss or damage arising from your failure to comply with this paragraph. Redcats USA reserves the right to refuse service, terminate accounts, remove or edit content, or cancel orders in its sole discretion. **RESTRICTIONS ON USE OF MATERIALS**  
