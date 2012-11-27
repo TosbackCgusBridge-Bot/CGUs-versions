@@ -1,15 +1,4 @@
-Skip navigation
-
-*   Welcome - Already a member? \[ Sign In \]
-*   My Itineraries
-*   My Account
-*   Customer Support
-*   Feedback
-*   Filipino
-
-*   Home
-
-Like us on Facebook  
+Skip navigation  
 
   
 
@@ -165,37 +154,3 @@ We will do our best to respond to your request within 24 hours.
 This Privacy Policy is effective as of July 06, 2012.
 
 Expedia, Inc., 333 108th Ave. NE, Bellevue, WA 98004 USA
-
-  More Travel Options:
-
-*   Philippines Hotels|
-*   Malaysia Hotels|
-*   Indonesia Hotels|
-*   Thailand Hotels|
-*   China Hotels|
-*   Australia Hotels|
-*   America Hotels|
-*   Japan Hotels|
-*   South Korea Hotels|
-*   Taiwan Hotels
-
-Partner Services:
-
-*   Add your Hotel|
-*   Travel Agencies|
-*   Become an Affiliate
-
-Expedia Partners:
-
-*   AirAsia|
-*   AirAsiaGo|
-*   Backick
-
-*   About Us|
-*   Advertising|
-*   Privacy Policy|
-*   Terms of Use
-
-Global Sites:
-
-© 2012, Expedia Inc. All rights reserved. Expedia, Inc. is not responsible for content on external web sites.
