@@ -116,24 +116,18 @@
     *   Say It Two Ways
     *   Flicks for Kids
     *   Off to School
-*   Fall
-    *   Beyond the Backpack
-    *   Thanksgiving
-    *   Fall Printable Activities
-    *   Off to School
-        *   Beyond the Backpack
-        *   Learning Games
-        *   Preschool Practice Packs
-        *   Kid-Friendly Lunches
-        *   Off to School Videos
-    *   Hispanic Heritage
+*   Winter
+    *   Winter Crafts
+    *   Warm &. Tasty Recipes
+    *   Printable Activities
+    *   Chinese New Year
+    *   Black History Month
 *   Birthdays
     *   Dora Birthday Party
     *   Bubble Guppies Birthday
     *   Umizoomi Parties
     *   Fresh Beat Band Party
     *   More Birthday Parties!
-*   Thanksgiving
 
 *   Dora
 *   Bubble Guppies
@@ -181,9 +175,9 @@ What's New on Nick Jr.?
 
 Find out more about NickMom and other new Nick Jr. features right here
 
-Join the Umizoomi Fan Club
+Umi Fan Club Holiday Gift
 
-Calling all UmiFriends! Sign up today &. get Umizoomi exclusives!
+Glittering Gizmos! Join now for a 10 page Christmas coloring book!
 
 Sing &. Dance Along With Dora!
 
