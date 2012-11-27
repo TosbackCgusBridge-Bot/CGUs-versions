@@ -109,24 +109,27 @@ Your privacy is important to us and we have prepared this Privacy Policy to expl
     If you have any questions about this Privacy Policy, please feel free to contact us by email at privacy@voxmedia.com.
     
 
-*   Login or Sign Up
-*   browse blogs
+SBNation.com
+
+*   Masthead
+*   Guidelines
 
 *   Facebook
 *   Twitter
 *   Youtube
 *   Subscribe
 
+*   Login or Sign Up
+*   browse blogs
+
 *   About SBN
 *   Company Blog
-*   Advertise With Us
-*   Jobs @ Vox Media
 *   Have a News Tip?
-*   Contact
-
-*   Back to Top ↑
-*   Home
-*   Browse Blogs
 *   Contact Us
 
-SBNU v1.0.6, November 6, 2012 Guiding Principles - Terms of Use - Privacy Policy © 2012 Vox Media, Inc. All Rights Reserved
+SBNU v1.0.7, November 26, 2012 Guiding Principles - Terms of Use - Privacy Policy © 2012 Vox Media, Inc. All Rights Reserved
+
+*   Advertise With Us
+*   Jobs @ Vox Media
+
+*   Back to Top ↑
