@@ -254,7 +254,7 @@ We will revise or update this policy if our practices change, or as we develop b
             *   Livestream.com;
             *   UStream.com;
             *   MapBox.com;
-            *   SlideShare.
+            *   SlideShare;
             *   Scribd.com. and
             *   SoundCloud.com
             
@@ -398,6 +398,8 @@ We will revise or update this policy if our practices change, or as we develop b
     
     Document Sharing
     
+    *   Avue: (Privacy)
+        *   White House Internship Program
     *   Socrata: (Privacy)
         *   The White House
     *   SlideShare: (Privacy)
@@ -420,7 +422,7 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: November 16, 2012
+Updated: November 26, 2012
 
 Previous version(s) of this policy may be accessed on the archive page.
 
