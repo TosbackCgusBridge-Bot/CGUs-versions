@@ -202,10 +202,11 @@ Navigation
         3.  Corporate Sales
     2.  Manage Your Card
         
+        1.  Check Balance
         2.  Reload Your Card
-        3.  Transfer Funds
-        4.  View Transactions
-        5.  Set Auto-Reload
+        3.  Set Auto-Reload
+        4.  Transfer Funds
+        5.  View Transactions
         6.  Report Lost/Stolen
     3.  My Starbucks Rewards
         
