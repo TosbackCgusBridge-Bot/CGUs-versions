@@ -2,13 +2,13 @@ Food Gifts | Gourmet Sausage &. Cheese Food Gift Baskets | Hickory Farms Close x
 
 *   *   Sausage &. Cheese
     *   Baskets &. Towers
-    *   New and Classic Gifts
+    *   New &. Classic Gifts
+    *   Military Gifts
     *   Pantry Essentials
     *   Fruit &. Nuts
-    *   Sweets &. Baked Goods
-    *   Military Gifts
-    *   **New!** Wine Gifts
     *   Gifts That Give Back
+    *   Sweets &. Cookies
+    *   **New!** Wine Gifts
     *   HoneyGold ® Ham
     *   Online Exclusives
     *   Corporate Gifts
