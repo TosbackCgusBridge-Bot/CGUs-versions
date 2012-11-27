@@ -20,7 +20,6 @@ United States
 *   Renew Online
 *   Find A Reseller
 *   Buy SSL Certificates
-*   Purchase List
 *   Shopping Cart
 
 ABOUT SYMANTEC
