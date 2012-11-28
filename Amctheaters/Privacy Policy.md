@@ -165,6 +165,8 @@ At AMC Theatres, we love movies. Here, you can check out movie times and trailer
 
 © 2012 AMC Entertainment
 
+A Wanda Group Company
+
 Sitemap
 
 *   About AMC
