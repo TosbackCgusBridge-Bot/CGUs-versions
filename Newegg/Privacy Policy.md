@@ -8,7 +8,7 @@ Newegg.com - Computer Parts, Laptops, Electronics, HDTVs, Digital Cameras and Mo
 
 If you see this message, your web browser doesn't support JavaScript or JavaScript is disabled. Please enable JavaScript in your browser settings so Newegg.com can function correctly. |Wish List Help Newegg.com Follow us:  Shop All Stores
 
-*   Cyber Monday
+*   Encore Tuesday
 *   Computer Hardware Computer Hardware
     
     Shop All Computer HardwareBackup Devices &. MediaBarebone / Mini ComputersCablesCD / DVD Burners &. MediaComputer AccessoriesComputer CasesCPUs / ProcessorsDIY PC CombosExternal EnclosuresFans &. HeatsinksFlash Memory &. ReadersHard Drives
