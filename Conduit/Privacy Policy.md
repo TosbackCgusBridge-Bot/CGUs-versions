@@ -1,5 +1,3 @@
-Website Privacy | Conduit
-
 *   Join
 *   Log In
     *   Community Toolbar
@@ -160,7 +158,7 @@ Attn: Legal Department, Privacy Policy Issues
 *   Contact Us
 *   Site Map
 
-Copyright �� 2012 Conduit Ltd. All rights reserved.
+Copyright © 2012 Conduit Ltd. All rights reserved.
 
 *   Facebook
 *   Twitter
