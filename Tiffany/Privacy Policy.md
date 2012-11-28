@@ -72,6 +72,7 @@ Skip to main content
     *   Holiday Gifts For Her
     *   Holiday Gifts for Him
     *   Holiday Gifts for the Home
+    *   Holiday Ornaments
     
     *   $150 &. Under
     *   $300 &. Under
@@ -87,7 +88,6 @@ Skip to main content
     *   Wedding Gifts
     
     *   Product Care Items
-    *   Holiday Ornaments
     
 *   The World of Tiffany
     
