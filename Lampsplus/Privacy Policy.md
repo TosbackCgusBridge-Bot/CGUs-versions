@@ -3,9 +3,9 @@ Order Status Wish List \[    \] Cart \[    \] Search Keyword or item #
 *   Sale
 *   Clearance
 *   Shop by Room
+*   Shop by Trend
 *   Stores
 *   Catalogs
-*   Contact Us
 *   800-­782-1967
 
 Chandeliers
