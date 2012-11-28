@@ -514,9 +514,9 @@ SHOP BY COLLECTION
 *   Footwear
 *   All Collections
 
-Men'sPlasma Thermal Jacket
+Women'sOsito Jacket
 
-Rain doesn't have to stop you in your tracks. Seek shelter from storm in this premier waterproof, insulated Summit Series® jacket.
+Give the gift of exploration this season. Silken fleece jacket provides warmth and comfort in cold conditions. Find this and other gifts under $100.
 
 Shop Now Shop by Women's
 
@@ -593,9 +593,9 @@ Collections*   Mountain Heritage
 *   Steep Tech™
 *   All Collections
 
-Women'sPlasma Thermal Jacket
+Women'sMetropolis Parka
 
-Shed rain and stay dry at sea level or at the summit with this waterproof, insulated jacket. HyVent® Alpha 2L exterior repels wet weather.
+Knee-length down parka features 600-fill down insulation for thermal insulation this winter. Removable, insulated hood.
 
 Shop Now Shop by Men's
 
@@ -671,9 +671,9 @@ Collections*   Mountain Heritage
 *   Steep Tech™
 *   All Collections
 
-Men'sPowder Guide ABS Vest
+Men'sVortex Triclimate® Jacket
 
-Invest in your future. ABS system in vest increases your safety margin in the backcountry, deploying two airbags when activated to keep you on the surface during an avalanche.
+Three-in-one jacket pairs a waterproof, HyVent® exterior shell with an insulated (and removable) interior jacket. Rider-specific features throughout.
 
 Shop Now Shop by Kids'
 
@@ -717,9 +717,9 @@ Activity*   Skiing
 
 Collections
 
-YouthBOYS' BOUNDARY TRICLIMATE® JACKET
+YouthBoys' Denali Hoodie
 
-Versatile 3-in-1 jacket features a waterproof shell exterior and an insulated (and removable) liner jacket.
+Classic Polartec® 300 series fleece with abrasion-resistant taslan panels at torso, shoulder, elbows and hood.
 
 Shop Now Shop by Equipment
 
@@ -779,8 +779,8 @@ Collections*   Summit Series®
 *   Flight Series®
 *   All Collections
 
-Equipment Patrol 24 ABS Pack
+Equipment Base Camp Duffel - Medium
 
-The ultimate ski/board pack with built-in ABS Avalanche Airbag System to significantly increase your safety margin in the backcountry.
+Burly 72-liter duffel bag made from durable laminate to be roughed around in-flight or transported up a mountain via a yak.
 
 Shop Now
