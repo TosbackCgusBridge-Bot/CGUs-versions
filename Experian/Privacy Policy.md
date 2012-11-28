@@ -203,6 +203,7 @@ Experian and the Experian marks used herein are service marks or registered trad
 
 *   Spain
 *   Sweden
+*   Switzerland
 *   Thailand
 *   Taiwan
 *   Turkey
