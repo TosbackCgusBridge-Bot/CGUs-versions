@@ -1,28 +1,4 @@
-  Login Sign Up Search Type your search Facebook Twitter Follow @sbnation Menu Items
-
-*   NFL
-*   NBA
-*   MLB
-*   NHL
-*   CFB
-*   CBB
-*   UFC
-*   Soccer
-*   NASCAR
-*   Fantasy
-*   Golf
-*   Tennis
-*   Video
-*   Local
-*   Cycling
-*   Boxing
-*   Horse Racing
-*   Running
-*   Water Polo
-*   Wrestling
-*   View All 320 Blogs
-
-  Privacy Policy Vox Media Privacy Policy Effective, November 2011
+Vox Media Privacy Policy Effective, November 2011
 
 Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share information we obtain through your use of the Internet sites, applications and services (“Services”) that are operated by, controlled by or are affiliate with Vox Media, Inc., including without limitation SB Nation and The Verge (collectively, “we,” “us” or “our”). This Privacy Policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through the Services. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. **By using the Services, you explicitly consent to such use of your information and agree to the terms of this Privacy Policy.**
 
@@ -107,29 +83,3 @@ Your privacy is important to us and we have prepared this Privacy Policy to expl
 16.  Questions.
     
     If you have any questions about this Privacy Policy, please feel free to contact us by email at privacy@voxmedia.com.
-    
-
-SBNation.com
-
-*   Masthead
-*   Guidelines
-
-*   Facebook
-*   Twitter
-*   Youtube
-*   Subscribe
-
-*   Login or Sign Up
-*   browse blogs
-
-*   About SBN
-*   Company Blog
-*   Have a News Tip?
-*   Contact Us
-
-SBNU v1.0.7, November 26, 2012 Guiding Principles - Terms of Use - Privacy Policy © 2012 Vox Media, Inc. All Rights Reserved
-
-*   Advertise With Us
-*   Jobs @ Vox Media
-
-*   Back to Top ↑
