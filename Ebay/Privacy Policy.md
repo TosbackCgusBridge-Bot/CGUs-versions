@@ -1,11 +1,7 @@
-Einwilligung in die Verarbeitung meiner personenbezogenen Daten (Datenschutzerklärung)
+Einwilligung in die Verarbeitung meiner personenbezogenen Daten (Datenschutzerklärung) Geltungsbereich Verantwortliche Stelle Erhebung Verwendung Marketing Offenlegung Ihrer Daten durch uns Informationen, die Sie auf eBay mitteilen Verwendung von Informationen von eBay Cookies Kein Spam, Spyware oder Spoofing Schutz Ihres Mitgliedskontos Einsehen, Überprüfen und Ändern Ihrer personenbezogenen Daten Sicherheit Dritte Parteien Allgemeines
 
-Die folgende Datenschutzerklärung gilt für alle Mitglieder, die sich am oder nach dem 20. September 2010 bei eBay anmelden, ab dem Zeitpunkt, zu dem sie sich unter Zustimmung zu dieser Datenschutzerklärung angemeldet haben. Sie wird mit dem Datum der Anmeldung wirksam. Für Mitglieder, die sich bereits vor dem 20.September 2010 angemeldet haben, wird die Datenschutzerklärung zum 1. November 2010 wirksam. Die bisherige Datenschutzerklärung finden Sie hier.
-
-Diese Datenschutzerklärung informiert Sie darüber, wie wir Ihre personenbezogenen Daten verwenden und schützen. Eine Zusammenfassung dieser Erklärung und weitere Informationen, die Ihre Fragen zum Datenschutz beantworten, finden Sie auf unserer Seite Datenschutz: Übersicht.
-
-**Inhalt** Geltungsbereich Verantwortliche Stelle Erhebung Verwendung Marketing Offenlegung Ihrer Daten durch uns Informationen, die Sie auf eBay mitteilen Verwendung von Informationen von eBay Cookies Kein Spam, Spyware oder Spoofing Schutz Ihres Mitgliedskontos Einsehen, Überprüfen und Ändern Ihrer personenbezogenen Daten Sicherheit Dritte Parteien Allgemeines
-
+  
+Diese Datenschutzerklärung informiert Sie darüber, wie wir Ihre personenbezogenen Daten verwenden und schützen. Eine Zusammenfassung dieser Erklärung und weitere Informationen, die Ihre Fragen zum Datenschutz beantworten, finden Sie auf unserer Seite Datenschutz: Übersicht.  
   
 
 Geltungsbereich
@@ -187,3 +183,5 @@ Wenn Sie Fragen in Bezug auf diese Datenschutzerklärung haben, die nicht auf un
 Falls Sie mit unserer Bearbeitung Ihrer Fragen nicht zufrieden sind, können Sie sich jederzeit an Ihre nationale Datenaufsichtsbehörde oder direkt an die Commission Nationale pour la Protection des Données in Luxemburg wenden. In ersterem Fall wird Ihre nationale Datenaufsichtsbehörde Ihre Anfrage an die Commission Nationale pour la Protection des Données weiterleiten.
 
 Diese Einwilligungserklärung kann ich jederzeit mit Wirkung für die Zukunft hier widerrufen.
+
+**Hinweis:** Die bis einschließlich 31. Oktober 2010 gültige Datenschutzerklärung haben wir archiviert.
