@@ -237,9 +237,10 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Power Hour: Falling Prices Are Attracting Global Buyers
-*   Mild, Dry Weather on Tap This Week
-*   What Does Obamacare Mean for Farmers?
+*   Weather Forecast: Winter Wheat Needs a Drink
+*   Farm Journal Forum to Feature Panel Moderated by Roger Thurow
+*   Power Hour: The State of U.S. Farmland Values
+*   Where Are Dairy Prices Headed?
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
