@@ -159,6 +159,10 @@ Fresh Beats Greatest Hits
 
 Feel the beat of 20 get up &. dance hits for kids in one great collection! (AD)
 
+12 Days of Giving from Nick Jr.
+
+Join our FREE fan club for a chance to WIN toys &. a $1,000 shopping spree!
+
 New Dora's Milestones
 
 Shop for DVDs, toys, books and more. Now at Amazon (AD)
