@@ -45,6 +45,13 @@ American Idol.com Home RETURNS WED JAN 16 &. THU JAN 17 8/7c American Idol Searc
     *   Desktop Downloads
 *   Music
     *   Download on iTunes
+    *   Phillip Phillips'  
+        Debut Album
+    *   Colton Dixon's "You Are"
+    *   James Durbin's  
+        Christmas Single
+    *   Scotty McCreery's  
+        Christmas Album
 *   Behind the Scenes
     
     *   Behind the Scenes Front Page
