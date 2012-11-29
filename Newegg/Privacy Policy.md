@@ -8,7 +8,6 @@ Newegg.com - Computer Parts, Laptops, Electronics, HDTVs, Digital Cameras and Mo
 
 If you see this message, your web browser doesn't support JavaScript or JavaScript is disabled. Please enable JavaScript in your browser settings so Newegg.com can function correctly. |Wish List Help Newegg.com Follow us:  Shop All Stores
 
-*   Encore Tuesday
 *   Computer Hardware Computer Hardware
     
     Shop All Computer HardwareBackup Devices &. MediaBarebone / Mini ComputersCablesCD / DVD Burners &. MediaComputer AccessoriesComputer CasesCPUs / ProcessorsDIY PC CombosExternal EnclosuresFans &. HeatsinksFlash Memory &. ReadersHard Drives
@@ -75,9 +74,9 @@ If you see this message, your web browser doesn't support JavaScript or JavaScri
     
 *   Marketplace Marketplace
     
-    Shop All MarketplaceApparel &. AccessoriesAutomotiveBabyBeautyCostumesFragrancesHandbagsHealth &. WellnessHome ImprovementHome Living
+    Shop All MarketplaceCamerasCell PhonesElectronicsGamingApparel &. AccessoriesAutomotiveBabyBeautyCostumesFragrancesHandbagsHealth &. Wellness
     
-    JewelryLuggage &. BagsOutdoor &. GardenPet SuppliesSporting GoodsSunglassesToys, Games &. HobbiesWatchesFirst From Asia
+    Home ImprovementHome LivingJewelryLuggage &. BagsOutdoor &. GardenPet SuppliesSporting GoodsSunglassesToys, Games &. HobbiesWatchesFirst From Asia
     
 *   Accessories Accessories
     
@@ -102,9 +101,9 @@ If you see this message, your web browser doesn't support JavaScript or JavaScri
 
 Search All StoresAccessoriesCell PhonesComputer HardwareDigital CamerasElectronicsGamingHome &. OutdoorsOffice ProductsPCs &. LaptopsSoftwareOutlet iframe for layout Marketplace
 
-Shop All MarketplaceApparel &. AccessoriesAutomotiveBabyBeautyCostumesFragrancesHandbagsHealth &. WellnessHome ImprovementHome Living
+Shop All MarketplaceApparel &. AccessoriesAutomotiveBabyBeautyCamerasCell PhonesCostumesElectronicsFragrancesGamingHandbagsHealth &. Wellness
 
-JewelryLuggage &. BagsOutdoor &. GardenPet SuppliesSporting GoodsSunglassesToys, Games &. HobbiesWatchesFirst From Asia
+Home ImprovementHome LivingJewelryLuggage &. BagsOutdoor &. GardenPet SuppliesSporting GoodsSunglassesToys, Games &. HobbiesWatchesFirst From Asia
 
 iframe for layout
 
