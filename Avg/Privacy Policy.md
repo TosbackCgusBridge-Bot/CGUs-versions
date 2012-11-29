@@ -34,6 +34,7 @@
         *   AVG AntiVirus PRO for Android™ Tablets Use it like a PC? Protect it like one.
         *   AVG Family Safety® for iOS Essential protection for your children.
         *   AVG Family Safety® for Windows Phone Essential protection for your children.
+        *   AVG Safe Browser for iPhone® and iPad® Online protection for your privacy and private data
 *   Company
     
     *   About AVG
