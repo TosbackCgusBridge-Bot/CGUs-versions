@@ -1,6 +1,6 @@
 Give a Gift Customer Service RB Offers Sweepstakes
 
-Search **Try:** Gift GuidesFast MetabolismShort HairDate Night
+Search **Try:** Gift Guides7 Years YoungerShort HairDate Night
 
 *   Sex &. Love
     *   Sex &. Relationship Articles
@@ -124,7 +124,7 @@ Holidays &. Entertaining
 *   Cheap Gift Ideas
 *   Unique Gifts
 
-Search **Try:** Gift Guides Fast Metabolism Short Hair Date Night About Redbook About Us  
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Search **Try:** Gift Guides 7 Years Younger Short Hair Date Night About Redbook About Us  
 Media Kit  
 Press Room  
 Privacy Policy  
