@@ -5,7 +5,6 @@ Skip to Content
 *   RR.com
 *   About Us
 *   Investor Relations
-*   Hurricane Sandy
 
 *   Español
 *   Other Sites
