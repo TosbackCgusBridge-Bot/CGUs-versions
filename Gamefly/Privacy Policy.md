@@ -317,6 +317,7 @@ Apps &. Features
 *   Gift Certificates
 *   GameFly Rewards
 *   Refer-A-Friend Program
+*   Writer Rumble
 
 Our Other Sites
 
