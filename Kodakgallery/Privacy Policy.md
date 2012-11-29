@@ -154,8 +154,6 @@ Kodak reserves the right to modify this Privacy Notice from time to time, by pos
 
 This Privacy Notice was last amended on October 25, 2012
 
-  
-
 *   *   About Kodak
     
     *   Privacy
