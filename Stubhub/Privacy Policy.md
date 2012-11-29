@@ -21,8 +21,8 @@ Where fans buy &. sell tickets™ Customize your search
     *   NFL
     *   NBA
     *   NHL
-    *   Soccer
     *   NCAA Football
+    *   NCAA Basketball
     *   Motorsports
     *   Fight
     *   See more
