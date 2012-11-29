@@ -71,7 +71,7 @@ close x Search Catalog Search Catalog Navigation
             *   Special Occasions
             *   Cards &. Gift Wrap
             *   Clearance
-            *   Special SavingsThis is no time to panic. Shop hundreds of gift ideas, all under $20
+            *   Special SavingsWho asked Santa for a puppy? These plush toys can be someone’s new best friend
     *   Room
         *   Living Room &. Family Room Here’s where it gets fun. Click on a photo to see our favorites by room.
         *   Kitchen &. Dining Room Here’s where it gets fun. Click on a photo to see our favorites by room.
