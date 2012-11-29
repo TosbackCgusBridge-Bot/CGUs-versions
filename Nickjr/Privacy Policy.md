@@ -132,10 +132,10 @@
 *   Dora
 *   Bubble Guppies
 *   Umizoomi
+*   Peter Rabbit
 *   Fresh Beat Band
-*   Diego
 *   Max &. Ruby
-*   Mike the Knight
+*   Diego
 *   More
 
 *   Play Games
@@ -151,7 +151,11 @@ parents &. preschool privacy policy
 
 Nickelodeon Parents &. Preschool is committed to providing quality online activities and information, while promoting the online safety and privacy of our users.
 
-advertisement Unified Privacy Policy Sponsored Links New! Dora's Royal Rescue Game
+advertisement Unified Privacy Policy Sponsored Links Come on Everybody!
+
+It's time for Bubble Guppies Plush! (AD)
+
+New! Dora's Royal Rescue Game
 
 Find the missing books from Story Castle and rescue Don Quixote!
 
