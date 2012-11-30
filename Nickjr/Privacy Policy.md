@@ -244,6 +244,10 @@ Get Your Guppies Fan Club Kit!
 
 When you sign up for the Bubble Guppies fan club, it's FREE!
 
+Holiday Activities Collection
+
+Count down to the holidays with these awesome do-together winter activities (AD)
+
 nickelodeon kids and family websites Nick
 
 *   Kids Games
