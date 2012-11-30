@@ -1,13 +1,3 @@
-seo mapstone.net Welcome to my WordPress blog site Skip to content
-
-*   Home
-*   Privacy Policy
-*   Terms and Conditions
-*   Privacy Policy
-*   Privacy Policy
-
-Privacy Policy
-
 At www.mapstone.net, the privacy of our visitors is of extreme importance to us (See this article to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by www.mapstone.net and how it is used.
 
 **Log Files**  
@@ -29,12 +19,3 @@ www.mapstone.net has no access to or control over these cookies that are used by
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.mapstone.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
-
-*   Share this:
-*   Facebook
-*   StumbleUpon
-
-*   Connect with:
-*     December 2012 M T W T F S S « Dec       1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31  
-
-© 2012 ¶ Thanks, WordPress. ¶ veryplaintxt theme by Scott Allan Wallick. ¶ It's nice XHTML &. CSS.
