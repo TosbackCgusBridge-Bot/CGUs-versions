@@ -1,4 +1,4 @@
-All States/ProvincesAlabamaAlaskaAlbertaArizonaArkansasBritish ColumbiaCalifornia - NorthernCalifornia - SouthernColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineManitobaMarylandMassachusetts - EasternMassachusetts - WesternMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew BrunswickNew HampshireNew Jersey - NorthernNew Jersey - SouthernNew MexicoNew York - MetroNew York - UpstateNewfoundland and LabradorNorth CarolinaNorth DakotaNorthwest TerritoriesNova ScotiaNunavutOhio - NorthernOhio - SouthernOklahomaOntarioOregonPennsylvania - EasternPennsylvania - WesternPrince Edward IslandPuerto RicoQuebecRhode IslandSaskatchewanSouth CarolinaSouth DakotaTennesseeTexas - NorthTexas - SouthUtahVermontVirgin IslandsVirginiaWashingtonWest VirginiaWisconsinWyomingYukon Search By: Category Company Name Brand UNSPSC Commodity Home >. Privacy Statement Privacy Statement
+Privacy Statement
 
 So that you can better protect your privacy, Thomas Industrial Network, Inc. ("THOMAS") provides this Privacy Statement explaining our online information practices and the choices you can make about the way your personal information is collected and used. By using this website, you accept the practices that are described in this Privacy Statement, which is part of the Terms and Conditions governing the use of this website and the terms and conditions governing any other THOMAS service you use. If, however, any area within or feature offered by this website or other THOMAS website or service sets forth a separate or additional privacy statement, terms and conditions or other policy, then that separate privacy statement, terms and conditions or other policy shall apply in connection with that area, feature, website or service. This Privacy Statement does not apply to personal information that is collected through the websites or other services of THOMAS or its affiliates based outside the United States of America or through any services offered by THOMAS or its affiliates outside the United States of America.
 
@@ -99,36 +99,3 @@ Thomas Industrial Network, Inc.
 New York, NY 10001  
 
 Revised: July 27, 2012
-
-Back to top |Like us |Join us |Follow us **Promote Your Business**  
-Free Listing  
-Advertising Services  
-Log In to Client Center **Additional Resources**  
-Guides | White Papers  
-Resources  
-Press Room  
-Testimonials  
-FAQs  
-Tools &. Gadgets  
-Job Board  
-Deal of the Day **Community**  
-Log In to MyThomas  
-Sign Up for MyThomas  
-Contact ThomasNet  
-Provide Feedback  
-Forums  
-Careers **SiteMaps**  
-Categories  
-Featured Companies  
-Featured Categories Home  
-Supplier Search  
-Product Search  
-Product News  
-CAD Drawings  
-About Us © 2012 Thomas Publishing Company. All rights reserved. See Terms and Conditions or Privacy Statement.
-
-Thomas Register® and Thomas Regional® are part of ThomasNet.com.
-
-ThomasNet Is A Registered Trademark Of Thomas Publishing Company.
-
-About Us | Sign Up | Log In | Deal of the Day | Promote Your Business
