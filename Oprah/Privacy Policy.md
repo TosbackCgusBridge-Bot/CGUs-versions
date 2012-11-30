@@ -1,4 +1,4 @@
-Online Privacy Policy Effective Date: October 24, 2012.  
+Online Privacy Policy Effective Date: November 29, 2012.  
   
 You should read this entire privacy policy (the "Privacy Policy"), but here are some high points detailed below:  
   
@@ -19,6 +19,8 @@ You should read this entire privacy policy (the "Privacy Policy"), but here are 
       
     
 
+To print our entire Privacy Policy, click here.  
+  
 **Introduction**  
 This Privacy Policy governs your use of www.oprah.com, www.myown.com and www.own.tv (collectively, the "Sites") (however accessed and/or used, whether via personal computers, mobile devices or otherwise), which are operated by The Oprah Winfrey Network ("OWN" or "we," "our," or "us"). This Privacy Policy explains OWN's information collection practices at the Sites, such as the types of information OWN collects regarding visitors to the Sites and how we may use that information. Please review this Privacy Policy carefully. This Privacy Policy also applies to your use of interactive features, widgets, applications, content or downloads that are owned or operated by OWN, are available through the Sites, or that interact with the Sites and post this Privacy Policy. This Privacy Policy covers information collected at the Sites and does not cover any information collected at any other web site or offline by OWN (unless specifically stated). To the extent we provide you notice on our Sites of different or additional privacy policies or practices (e.g., at the point of our collection), those additional terms shall govern such data collection and use.  
   
@@ -158,7 +160,7 @@ In addition, please review the Sites' Terms of Use, which governs your use of th
         
     2.  **Information We Collect or Store As You Access And Use The Sites**  
           
-        In addition to any Personal Information or other information that you choose to submit to us, we and our third-party service providers may use a variety of technologies that automatically (or passively) store or collect certain information whenever you visit or interact with the Sites ("Usage Information"). This Usage Information may be stored or accessed using a variety of technologies that may be downloaded to your personal computer, laptop, tablet or mobile phone (a "Device") whenever you visit or interact with our Sites. Usage Information may be non-identifying or may be associated with you. Whenever we associate Usage Information with your Personal Information, we will treat it as Personal Information.  
+        In addition to any Personal Information or other information that you choose to submit to us, we and our third-party service providers may use a variety of technologies that automatically (or passively) store or collect certain information whenever you visit or interact with the Sites including your media consumption (e.g., video viewing and audio consumption) activities on or through the Sites ("Usage Information"). This Usage Information may be stored or accessed using a variety of technologies that may be downloaded to your personal computer, laptop, tablet or mobile phone (a "Device") whenever you visit or interact with our Sites. Usage Information may be non-identifying or may be associated with you. Whenever we associate Usage Information with your Personal Information, we will treat it as Personal Information.  
           
         This Usage Information may include:  
           
@@ -219,7 +221,7 @@ In addition, please review the Sites' Terms of Use, which governs your use of th
             
 2.  **How Do We Use The Information Collected**  
       
-    OWN may use your Personal Information, Demographic Information or Usage Information that we collect about you: (1) to provide you with information or services or process transactions that you have requested or agreed to receive, including to send you electronic newsletters, or to provide you with special offers or promotional materials on behalf of us or third parties. (2) to enable you to participate in a variety of the Sites. features such as online entry sweepstakes and message boards. (3) to process your registration with the Sites, including verifying your e-mail address is active and valid. (4) to improve the Sites or our services, to customize your experience on the Sites, or to serve you specific content that is most relevant to you. (5) to contact you with regard to your use of the Sites and, in our discretion, changes to the Sites and/or Sites' policies. (6) for internal business purposes. and (7) for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy.  
+    OWN may use your Personal Information, Demographic Information or Usage Information that we collect about you: (1) to provide you with information or services or process transactions that you have requested or agreed to receive, including to send you electronic newsletters, or to provide you with special offers or promotional materials on behalf of us or third parties. (2) to enable you to participate in a variety of the Sites' features such as online entry sweepstakes and message boards. (3) to process your registration with the Sites, including verifying your e-mail address is active and valid. (4) to improve the Sites or our services, to customize your experience on the Sites, or to serve you specific content that is most relevant to you. (5) to contact you with regard to your use of the Sites and, in our discretion, changes to the Sites and/or Sites' policies. (6) for internal business purposes. and (7) for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy.  
       
     Please note that information submitted to the Sites via a "contact us" or other similar function may not receive a response. We will not use the information provided to contact you for marketing purposes unrelated to your request unless you agree otherwise.  
       
@@ -267,7 +269,7 @@ In addition, please review the Sites' Terms of Use, which governs your use of th
         
     2.  **Name and Likeness**  
           
-        We may also publish your name, voice, likeness and other Personal Information that is part of you User Generated Content (or any portion of the content), and OWN may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding User Generated Content you submit to the Sites, please review our Terms of Use  
+        We may also publish your name, voice, likeness and other Personal Information that is part of you User Generated Content (or any portion of the content), and OWN may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding User Generated Content you submit to the Sites, please review our Terms of Use.  
           
         
 5.  **Do Third Party Content And Links To Third Party Sites Appear On The Sites?**  
