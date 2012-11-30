@@ -237,11 +237,7 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   LGM-Dairy Now Two Thirds of CME Futures Volume
-*   2012 Executive Women in Agriculture Conference
-*   Dr. Oz Endorses Conventional Milk, Beef
-*   Agriculture Literacy, Public Perception Are Ag’s Top Challenges
-*   Power Hour: Keep Land Debt in Check
+*   Power Hour: Profits for 2013 Corn/Soybeans? Think 2011
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
