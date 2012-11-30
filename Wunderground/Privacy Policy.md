@@ -50,6 +50,7 @@ Photos &. Video
 *   Climate Videos
 *   Webcams
 *   My Favorite Photos
+*   Community Activity
 
 Blogs
 
@@ -60,6 +61,7 @@ Blogs
 *   Climate Change Blog
 *   Community Chat
 *   My Favorite Blogs
+*   Community Activity
 
 Travel &. Activities
 
