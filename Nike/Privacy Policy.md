@@ -54,7 +54,7 @@ Sharing Information
   
   
 NIKE Family  
-We may provide your information to NIKE, Inc. companies and affiliates, including Converse, Hurley, Cole Haan and Umbro ("NIKE Family"), some of which may be outside the U.S.  
+We may provide your information to NIKE, Inc. companies and affiliates, including Converse, Hurley and Cole Haan ("NIKE Family"), some of which may be outside the U.S.  
 
   
 Service Providers  
