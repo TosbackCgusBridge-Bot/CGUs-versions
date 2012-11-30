@@ -7,8 +7,9 @@ Web site navigation links:
 *   Research
 *   Services
     *   K-12 Education
+    *   Educator Licensure
     *   Higher Education
-    *   English Language Learning
+    *   English Language Learning &. Assessment
     *   Global Programs &. Services
     *   See all services >
 *   Tests &. Products
