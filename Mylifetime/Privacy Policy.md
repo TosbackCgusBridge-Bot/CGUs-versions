@@ -1,17 +1,4 @@
-Jump to Navigation
-
-LIFE IS ENTERTAINING.™ ENTERTAINMENT IS OUR LIFE.
-
-Main menu
-
-*   Our Networks
-*   About Us
-*   Careers
-*   Corporate Outreach
-*   News
-*   Contact Us
-
-Privacy Policy A&E TELEVISION NETWORKS, LLC  
+A&E TELEVISION NETWORKS, LLC  
 PRIVACY POLICY
 
 TABLE OF CONTENTS
@@ -191,40 +178,4 @@ TABLE OF CONTENTS
     Attention: Digital Media Counsel, Legal &. Business Affairs Telephone: 212-210-1400 Facsimile: 212-210-1308, Attention: Digital Media Counsel, Legal &. Business Affairs
 
 ©2012 A&E Televisions Networks, LLC. -- All Rights Reserved.  
-Updated: June 20, 2012 A+E Networks Corporate
-
-*   Terms of Use
-*   Privacy Statement
-*   Copyright Policy
-*   aetnshop
-*   TV Parental Guidelines
-
-Press Contacts
-
-*   A&E
-*   Bio
-*   H2
-*   HISTORY
-*   Lifetime
-*   Lifetime Movie Network
-
-A+E Networks Sites
-
-*   A&E
-*   HISTORY
-*   Lifetime
-*   BIO
-*   H2
-*   LMN
-*   Crime &. Investigation Network
-*   HISTORY en Español
-*   Lifetime Real Women
-*   Military HISTORY
-
-A+E Networks Partner Resources
-
-*   MVPD Partners
-*   International
-*   Ad Sales
-
-©2012 A&E Television Networks, LLC. All Rights Reserved
+Updated: June 20, 2012
