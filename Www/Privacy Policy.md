@@ -128,16 +128,18 @@ Go to homepage.
     Take an interactive tour
     
     *   Inside the White House
-        *   Décor and Art
         *   Interactive Tour
+        *   West Wing Tour
         *   Video Series
+        *   Décor and Art
+        *   Holidays
     *   Presidents
     *   First Ladies
     *   The Oval Office
     *   The Vice President's Residence &. Office
+    
     *   Eisenhower Executive Office Building
     *   Camp David
-    
     *   Air Force One
     *   White House Fellows
         *   President’s Commission
@@ -154,7 +156,6 @@ Go to homepage.
     
     *   Tours &. Events
         *   2012 Easter Egg Roll
-        *   Holidays 2011
         *   Kitchen Garden Tours
     *   Mobile Apps
 *   Our Government
