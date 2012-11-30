@@ -1,10 +1,6 @@
 Skip Over Navigation Links
 
-U.S. Department of Health &. Human Services
-
-National Institutes of Health
-
-NIH…Turning Discovery Into Health®
+*   U.S. Department of Health &. Human Services
 
 *   For Employees
 *   Staff Directory
