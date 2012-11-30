@@ -132,7 +132,6 @@ Connect with Examiner.com
 *   Follow us on Twitter
 *   Connect on LinkedIn
 *   View our RSS Feeds
-*   Examiner.com blog
 
 Company Links
 
