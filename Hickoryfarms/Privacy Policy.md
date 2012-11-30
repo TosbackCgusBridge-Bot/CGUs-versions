@@ -12,7 +12,7 @@ Food Gifts | Gourmet Sausage &. Cheese Food Gift Baskets | Hickory Farms Close x
     *   HoneyGold ® Ham
     *   Online Exclusives
     *   Corporate Gifts
-*   *   $25 &. Under
+*   *   $30 &. Under
     *   $40 &. Under
     *   $50 &. Under
     *   Over $50
