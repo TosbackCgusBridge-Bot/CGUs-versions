@@ -1,5 +1,3 @@
-*   United States \[ change \]
-
 kodak.com Online Privacy Notice  
 
 (Revised October 25, 2012)
@@ -153,19 +151,3 @@ Changes to this Privacy Notice
 Kodak reserves the right to modify this Privacy Notice from time to time, by posting a prominent announcement on this page or, in the event of a material change, by notifying by e-mail all customers whose personal information we have retained.
 
 This Privacy Notice was last amended on October 25, 2012
-
-*   *   About Kodak
-    
-    *   Privacy
-    
-    *   Site Terms
-    
-    *   News &. Media
-    
-    *   Follow Us
-    
-    *   Partner Place
-    
-    *   Contact Us
-    
-    *   Email A Friend
