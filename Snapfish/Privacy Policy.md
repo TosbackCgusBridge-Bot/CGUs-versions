@@ -116,8 +116,6 @@ Welcome Imagine it, create it, share it. Learn more Upload Upload from your comp
 *   |
 *   Cards▼ Holidays
     
-    Thanksgiving
-    
     Christmas
     
     Season's Greetings
@@ -132,7 +130,7 @@ Welcome Imagine it, create it, share it. Learn more Upload Upload from your comp
     
     Invitations
     
-    Thanksgiving Invitations
+    Christmas Invitations
     
     Birthday Invitations
     
