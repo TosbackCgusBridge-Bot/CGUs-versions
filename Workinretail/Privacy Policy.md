@@ -1,11 +1,11 @@
-Already Registered? Sign In >. >.
+Already Registered? Sign In >>.
 
 *   Home
 *   Search Jobs
 *   My WorkInRetail
 *   My Recommended Jobs
 *   All Jobs
-*   Employers: Post a Job
+*   Employers Post a Job
 
 Protect Your Privacy and Safety
 
