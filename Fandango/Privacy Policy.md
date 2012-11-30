@@ -117,3 +117,5 @@ When you use the Site or other Service, you are accepting the terms and conditio
 Attn: Privacy Policies  
 12200 West Olympic Blvd, Suite 400  
 Los Angeles, CA 90064**
+
+Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: http://fandango.custhelp.com/app/ask/session/
