@@ -1,143 +1,8 @@
-Locations Charter.net Contact Us
+Acceptable Use Policy – Residential Customers
 
-*   Order Status
+IN ORDER TO PROVIDE HIGH QUALITY CUSTOMER SERVICE AND TO INSURE THE INTEGRITY OF CHARTER HIGH-SPEED™ INTERNET SERVICE, INCLUDING BUT NOT LIMITED TO ANY SERVICE FEATURES THAT MAY BE AVAILABLE (E.G., ELECTRONIC MAIL, PORTAL COMPONENTS, VIDEO MAIL, HOME NETWORKING, ETC.) AND ANY EQUIPMENT USED TO PROVIDE CHARTER HIGH-SPEED INTERNET SERVICE (COLLECTIVELY “SERVICE”), CHARTER COMMUNICATIONS (“CHARTER”) HAS ADOPTED THIS ACCEPTABLE USE POLICY (“POLICY”). THIS POLICY, INCLUDING ITS USE RESTRICTIONS, IS IN ADDITION TO THE RESTRICTIONS CONTAINED IN THE CHARTER HIGH-SPEEED INTERNET SUBSCRIBER AGREEMENT.
 
-Cart GO
-
-*   TV TV
-    
-    *   TV Services
-    *   Overview
-    *   Sports
-    *   Spanish &. Cultural
-    *   Premium Subscriptions
-    
-    *   HD &. DVR
-    *   Charter HD
-    *   Digital Video Recorder (DVR)
-    
-    *   On Demand
-    *   Overview
-    *   How it Works
-    *   HD On Demand
-    *   Premiums On Demand
-    *   Events &. Specials
-    *   Subscriptions On Demand
-    
-    *   Free On Demand
-    *   Overview
-    
-    *   TV Programming
-    *   Channel Lineup
-    *   TV Listings
-    
-    *   TV Help
-*   Internet Internet
-    
-    *   Internet Services
-    *   Overview
-    
-    *   Features
-    *   Security Suite
-    *   Charter.net
-    *   Email
-    *   ESPN3.com
-    
-    *   Extras
-    *   Cloud Drive
-    
-    *   Speed Comparison
-    *   Speed Comparison
-    
-    *   Internet Help
-*   Phone Phone
-    
-    *   Phone Services
-    *   Talk All You Want
-    *   Features
-    *   Online Manager
-    *   International
-    *   Mexico Calling Plans
-    
-    *   Service Comparison
-    *   Service Comparison
-    
-    *   Phone Help
-*   Bundles Bundles
-    
-    *   Bundle &. Save
-    *   3-Service Bundles
-    *   2-Service Bundles
-    
-    *   Help
-*   Business
-*   Support Support
-    
-    *   Overview
-    *   User Guides &. Diagrams
-    *   Help Videos
-    *   Getting Started
-    
-    *   TV
-    *   Equipment
-    *   Remotes
-    *   Getting Started
-    
-    *   Internet
-    *   Email
-    *   Charter Security Suite
-    *   Online Security
-    *   Charter WIFI
-    *   Getting Started
-    
-    *   Phone
-    *   Features
-    *   Online Call Details
-    *   Getting Started
-    
-    *   My Account
-    *   How to use
-    *   How to create
-    *   Cannot login?
-    *   Getting Started
-    
-    *   Billing
-    *   Understanding your bill
-    *   Ways to pay
-    *   Getting Started
-
-*   New Customers
-*   Current Customers
-
-find deals   change address » find deals Phone: () - change phone » Don?t have an account?  Create one now »  
-log in Welcome back, Username Not Username?
-
-*   My Account
-*   Pay My Bill
-*   Check Email
-*   *   Channel Lineup
-      
-    *   Charter Email Support
-      
-    *   Online Security
-      
-    *   Auto Pay
-      
-    *   Manage Security Code
-      
-    *   Moving?
-      
-    *   Chat live onlineFind It Fast
-
-*   Terms of Service/Policies
-*   Excessive Use of Bandwidth
-*   Network Management
-
-Acceptable Use Policy ? Residential Customers
-
-IN ORDER TO PROVIDE HIGH QUALITY CUSTOMER SERVICE AND TO INSURE THE INTEGRITY OF CHARTER HIGH-SPEED? INTERNET SERVICE, INCLUDING BUT NOT LIMITED TO ANY SERVICE FEATURES THAT MAY BE AVAILABLE (E.G., ELECTRONIC MAIL, PORTAL COMPONENTS, VIDEO MAIL, HOME NETWORKING, ETC.) AND ANY EQUIPMENT USED TO PROVIDE CHARTER HIGH-SPEED INTERNET SERVICE (COLLECTIVELY ?SERVICE?), CHARTER COMMUNICATIONS (?CHARTER?) HAS ADOPTED THIS ACCEPTABLE USE POLICY (?POLICY?). THIS POLICY, INCLUDING ITS USE RESTRICTIONS, IS IN ADDITION TO THE RESTRICTIONS CONTAINED IN THE CHARTER HIGH-SPEEED INTERNET SUBSCRIBER AGREEMENT.
-
-PLEASE READ THIS ACCEPTABLE USE POLICY PRIOR TO ACCESSING THE SERVICE. THE WORD ?CUSTOMER? IS USED HEREIN TO REFER TO ANY INDIVIDUAL WHO SUBSCRIBES TO THE SERVICE. BY USING THE SERVICE, CUSTOMER AGREES TO THE TERMS OF THIS ACCEPTABLE USE POLICY. CHARTER RESERVES THE RIGHT TO IMMEDIATELY SUSPEND OR TERMINATE THE CUSTOMER?S ACCOUNT OR TO UNDERTAKE NETWORK MANAGEMENT ACTIONS DESCRIBED HEREIN WITHOUT NOTICE, AT CHARTER?S SOLE DISCRETION, IF CUSTOMER OR OTHERS WHO USE CUSTOMER?S ACCOUNT VIOLATE THIS ACCEPTABLE USE POLICY. CHARTER ALSO RESERVES THE RIGHT TO IMMEDIATELY REMOVE ANY MATERIAL OR INFORMATION THAT VIOLATES THIS POLICY FOR ANY REASON WHATSOEVER AT CHARTER?S SOLE DISCRETION WITHOUT PRIOR NOTICE. BY USING THE SERVICE, CUSTOMER AGREES TO ABIDE BY, AND REQUIRE OTHERS USING THE SERVICE THROUGH CUSTOMER?S ACCOUNT TO ABIDE BY, THE TERMS OF THIS AUP. CHARTER REGULARLY UPDATES AND AMENDS THIS AUP AND CUSTOMER SHOULD CONSULT CHARTER?S WEBSITE TO BE SURE CUSTOMER REMAINS IN COMPLIANCE. IF CUSTOMER DOES NOT AGREE TO BE BOUND BY THESE TERMS, CUSTOMER SHOULD IMMEDIATELY STOP THE USE OF THE SERVICES AND NOTIFY THE CHARTER CUSTOMER SERVICE DEPARTMENT SO THAT CUSTOMER?S ACCOUNT MAY BE CLOSED. CUSTOMER?S CONTINUED USE OF THE SERVICE WILL CONSTITUTE CUSTOMER?S ACCEPTANCE OF AND AGREMEENT TO THIS POLICY AND ANY POSTED AMENDMENTS TO THIS POLICY.
+PLEASE READ THIS ACCEPTABLE USE POLICY PRIOR TO ACCESSING THE SERVICE. THE WORD “CUSTOMER” IS USED HEREIN TO REFER TO ANY INDIVIDUAL WHO SUBSCRIBES TO THE SERVICE. BY USING THE SERVICE, CUSTOMER AGREES TO THE TERMS OF THIS ACCEPTABLE USE POLICY. CHARTER RESERVES THE RIGHT TO IMMEDIATELY SUSPEND OR TERMINATE THE CUSTOMER’S ACCOUNT OR TO UNDERTAKE NETWORK MANAGEMENT ACTIONS DESCRIBED HEREIN WITHOUT NOTICE, AT CHARTER’S SOLE DISCRETION, IF CUSTOMER OR OTHERS WHO USE CUSTOMER’S ACCOUNT VIOLATE THIS ACCEPTABLE USE POLICY. CHARTER ALSO RESERVES THE RIGHT TO IMMEDIATELY REMOVE ANY MATERIAL OR INFORMATION THAT VIOLATES THIS POLICY FOR ANY REASON WHATSOEVER AT CHARTER’S SOLE DISCRETION WITHOUT PRIOR NOTICE. BY USING THE SERVICE, CUSTOMER AGREES TO ABIDE BY, AND REQUIRE OTHERS USING THE SERVICE THROUGH CUSTOMER’S ACCOUNT TO ABIDE BY, THE TERMS OF THIS AUP. CHARTER REGULARLY UPDATES AND AMENDS THIS AUP AND CUSTOMER SHOULD CONSULT CHARTER’S WEBSITE TO BE SURE CUSTOMER REMAINS IN COMPLIANCE. IF CUSTOMER DOES NOT AGREE TO BE BOUND BY THESE TERMS, CUSTOMER SHOULD IMMEDIATELY STOP THE USE OF THE SERVICES AND NOTIFY THE CHARTER CUSTOMER SERVICE DEPARTMENT SO THAT CUSTOMER’S ACCOUNT MAY BE CLOSED. CUSTOMER’S CONTINUED USE OF THE SERVICE WILL CONSTITUTE CUSTOMER’S ACCEPTANCE OF AND AGREMEENT TO THIS POLICY AND ANY POSTED AMENDMENTS TO THIS POLICY.
 
 1\. USE
 
@@ -151,7 +16,7 @@ Customer will not use, or allow others to use, the Service to violate any applic
 
 Customer will not use, or allow others to use, the Service to send or receive, or otherwise use any information which infringes the patents, trademarks, copyrights, trade secrets or proprietary rights of any other person or entity. This includes, but is not limited to, digitization of music, movies, photographs or other copyrighted materials or software. Customer must obtain appropriate authorization from such other person or entity prior to sending, receiving or using such materials. Customer represents and warrants that Customer is the author and copyright owner and/or authorized licensee with respect to any hosted content and Customer further represents and warrants that no hosted content violates the trademark, copyright, domain name or intellectual property rights of any third party. Charter assumes no responsibility, and Customer assumes all risks regarding the determination of whether material is in the public domain, or may otherwise be used for such purposes.
 
-Charter is registered under the Digital Millennium Copyright Act of 1998 (DMCA). Under the DMCA, copyright owners have the right to notify Charter if they believe that a Charter customer has infringed the copyright owner?s work(s). If Charter receives a notice from a copyright owner alleging any Customer has committed copyright infringement, Charter will notify the Customer of the alleged infringement. Charter may determine that Customer is a repeat copyright infringer if Charter learns that Customer has engaged in online copyright infringement on more than one occasion. Charter reserves the right to suspend or terminate the accounts of repeat copyright infringers.
+Charter is registered under the Digital Millennium Copyright Act of 1998 (DMCA). Under the DMCA, copyright owners have the right to notify Charter if they believe that a Charter customer has infringed the copyright owner’s work(s). If Charter receives a notice from a copyright owner alleging any Customer has committed copyright infringement, Charter will notify the Customer of the alleged infringement. Charter may determine that Customer is a repeat copyright infringer if Charter learns that Customer has engaged in online copyright infringement on more than one occasion. Charter reserves the right to suspend or terminate the accounts of repeat copyright infringers.
 
 4\. NO THREATS, HARASSMENT OR TORTIOUS CONDUCT
 
@@ -161,11 +26,11 @@ Customer will not use, or allow others to use, the Service to post or transmit a
 
 Customer will not use, or allow others to use, the Service to harm or attempt to harm a minor, including but not limited to using the Service to send pornographic, obscene or profane materials involving minors.
 
-6\. NO ?SPAMMING"
+6\. NO “SPAMMING"
 
-Customer will not use, or allow others to use, the Service to send unsolicited messages or materials, bulk e-mail, or other forms of solicitation (?spamming?). Charter reserves the right, in Charter?s sole discretion, to determine whether such posting or transmission constitutes unsolicited messages or materials. Forging, altering, or removing electronic mail headers is prohibited. Deceiving any recipient as to the identity of the sender through any process is prohibited. Customer may not, or allow others to, reference Charter or the Charter network in any email in an attempt to mislead the recipient.
+Customer will not use, or allow others to use, the Service to send unsolicited messages or materials, bulk e-mail, or other forms of solicitation (“spamming”). Charter reserves the right, in Charter’s sole discretion, to determine whether such posting or transmission constitutes unsolicited messages or materials. Forging, altering, or removing electronic mail headers is prohibited. Deceiving any recipient as to the identity of the sender through any process is prohibited. Customer may not, or allow others to, reference Charter or the Charter network in any email in an attempt to mislead the recipient.
 
-7\. NO ?HACKING"
+7\. NO “HACKING"
 
 Customer will not use, or allow others to use, the Service to access the accounts of others or to attempt to penetrate security measures of the Service or other computer systems ("hacking") or to cause a disruption of the Service to other on-line users. This includes, but is not limited to, achieving or attempting to achieve, or assisting others in achieving or attempting to achieve, any unauthorized access to any computer, cable or telecommunications system, network, software, data, information, or any other proprietary material. Customer will not use, or allow others to use, tools designed for compromising network security, such as password-guessing programs, cracking tools, packet sniffers or network probing tools. In addition, Customer will not participate in, or allow others to participate in, the collection of e-mail addresses, screen names, or other identifiers of others (without their prior consent), a practice known as spidering or harvesting, or participate in the use of software (including "adware" or "spyware") designed to facilitate this activity.
 
@@ -203,7 +68,7 @@ The Service is for residential use and only within limits that Charter considers
 
 It is a violation of this Policy to use the Service in excess of these limits. In these cases, Charter may, in its sole discretion, notify Customer of excessive use and (i) request Customer to employ corrective or self-limiting actions to comply with this provision. (ii) suspend or terminate Customer's Service account. or (iii) request that Customer subscribe to a version of the Service (such as a commercial grade Internet service, if appropriate) for use at higher data consumption levels that align with Customer's usage patterns. Charter's determination of the data consumption for Service accounts is final.
 
-15\. NO ?VIRUSES?
+15\. NO “VIRUSES”
 
 Customer will not use, or allow others to use, the Service to transmit computer "viruses," worms, "Trojan horses," denial of service attacks or other harmful software programs or information containing any lock, key, bomb, worm, cancelbot, or other harmful feature. Customer will use standard practices to prevent the transmission of such viruses, or other harmful software and information. As software or other content downloaded from the Service may contain viruses, it is Customer's sole responsibility to take appropriate precautions to protect Customer's computer from damage to its software, files and data.
 
@@ -211,7 +76,7 @@ Customer will not use, or allow others to use, the Service to transmit computer 
 
 Neither Charter nor any of its affiliates, suppliers, or agents have any obligation to monitor transmissions or postings (including, but not limited to, e-mail, newsgroup, and instant message transmission as well as materials available on the personal web pages and online storage features) made on the Service. However, Charter and its affiliates, suppliers, and agents have the right to monitor these transmissions and postings from time to time for violations of this Policy, including for purposes of management of the network and implementing limitation of bandwidth use and to disclose, block, or remove them in accordance with the Subscriber Agreement and any other applicable agreements and policies.
 
-17\. OTHER SERVICE PROVIDERS? ACCEPTABLE USE POLICIES
+17\. OTHER SERVICE PROVIDERS’ ACCEPTABLE USE POLICIES
 
 Charter obtains services from and relies upon many other entities to provide the Service to Customer. Where Customer accesses services of other entities through the Service, Customer agrees to and shall abide by the publicized acceptable use policies of such other known entities.
 
@@ -225,21 +90,3 @@ Charter reserves the right to update or modify this Policy at any time and from 
 
 Acceptable Use Policy, Effective November 2010.  
 Version 9.2
-
-About Charter | Locations | Investor &. News Center | Careers | Site Map | Your Privacy Rights | Terms of Service/Policies | Product &. Offer Details
-
-**Charter Communications sites:** Charter.com | Charter Business | Charter.net | Charter Media | Charter En Español | Live It With Charter® | Charter Mobile
-
-©2012 Charter Communications.
-
-Everything in Cable TV plus top-rated cable networks 6,000+ shows and movies On Demand at no additional cost
-
-see all channels Error!
-
-Contact customer service at 1-888-438-2427. You will be asked to provide your Security Code or your personal information number (PIN).
-
-Applied to your first month's bill.
-
-Includes installation fees
-
-?
