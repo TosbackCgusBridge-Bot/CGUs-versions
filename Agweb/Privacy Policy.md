@@ -237,15 +237,11 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Follow Executive Women in Ag Conference on Twitter
-*   Lucas Selected to Serve a Second Term as Chairman
-*   Market Watch Diary: The Good and Not So Good
-*   Johne’s Lessons Learned
-*   Rethink MLV IBR Vaccines
-*   On the Forefront
-*   Milk Cooperatives Call for Membership Vote on Proposed Merger
-*   Our Risk-Cutting Approach
-*   Robin Schmahl: Milk Production Remains Stronger than Expected
+*   LGM-Dairy Now Two Thirds of CME Futures Volume
+*   2012 Executive Women in Agriculture Conference
+*   Dr. Oz Endorses Conventional Milk, Beef
+*   Agriculture Literacy, Public Perception Are Ag’s Top Challenges
+*   Power Hour: Keep Land Debt in Check
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
