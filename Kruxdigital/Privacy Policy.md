@@ -47,7 +47,7 @@ Certain types of data associated with a specific individual, such as Social Secu
 
 **How we use non-PII**
 
-Krux uses the Krux Session Data and the Publisher Session Data to operate and enhance the Krux Site, the Publisher Site (in accordance with the Publisher's request), and to facilitate Krux services.  We do not use any Krux or Publisher Session Data that is more than ninety (90) days old for user profiling or targeting. Non-PII may be stored and processed in the U.S. or any other country where Krux or its service providers, or its or their affiliates, conduct business. 
+Krux uses the Krux Session Data and the Publisher Session Data to operate and enhance the Krux Site, the Publisher Site (in accordance with the Publisher's request), and to facilitate Krux services.  We do not use any Krux or Publisher Session Data that is more than ninety (90) days old for user profiling or targeting.  The source data used to inform user profiling or targeting is stored by Krux for six (6) months, after which time it is purged.  Non-PII may be stored and processed in the U.S. or any other country where Krux or its service providers, or its or their affiliates, conduct business.
 
 **How we use PII**
 
@@ -67,4 +67,4 @@ From time to time, we may update this privacy policy to reflect changes in indus
 
 If you have any questions regarding this privacy policy, or if you would like additional information, please contact us at privacy@krux.com, or via mail to 181 South Park, #2, San Francisco, CA 94107.
 
-**Last Updated: March 16, 2012**
+**Last Updated: November 30, 2012**
