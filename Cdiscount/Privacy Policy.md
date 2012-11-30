@@ -1,16 +1,12 @@
 Conditions Générales de Vente c mon espace client
 
-Dernière mise à jour : 13/11/2012Imprimer
+Dernière mise à jour : 29/11/2012Imprimer
 
 Article 1 : Champs d’Application et Modification des Conditions Générales de Vente Les présentes conditions générales de vente s’appliquent à toutes commandes passées sur le site Internet www.cdiscount.com.  
   
 Attention ! Les professionnels qui souhaitent commander auprès de CDISCOUNT sont invités à se rendre sur le site professionnel et à consulter les conditions générales de vente « CDISCOUNT PRO » en cliquant sur le lien suivant www.cdiscountpro.com.  
   
 Les CGV applicables sont celles en vigueur au jour de la validation de la commande.  
-  
-Attention ! Si votre commande contient des biens rattachés à l’espace « déstockage » de notre site internet, merci de consulter les CGV dédiées à ces produits en cliquant sur le lien suivant : CGV destockage  
-  
-Attention ! Si votre commande contient des biens rattachés à l’espace « C Les Deals » de notre site internet, merci de consulter les CGV dédiées aux Deals en cliquant sur le lien suivant : CGV C les Deals  
   
 Attention ! Si votre commande contient des biens rattachés à la Marketplace « C le Marché » de notre site internet, merci de consulter les CGV dédiées à la Marketplace en cliquant sur le lien suivant : CGV C le Marché  Article 2 : Disponibilité des produits Nos offres de produits et prix sont valables tant qu’elles sont visibles sur le site. Article 3 : COMMANDES
 
@@ -236,25 +232,59 @@ En ce qui concerne les produits achetés pour satisfaire les besoins professionn
 
 Article 8 : Rétractation
 
-Afin de traiter correctement votre demande, merci de nous rappeler votre numéro de commande et vos coordonnées complètes.
+Afin de traiter correctement votre demande, merci de nous rappeler votre numéro de commande et vos coordonnées complètes.  
+  
 
-Pour des détails pratiques sur la manière d’effectuer un retour, cliquez ici
+Pour des détails pratiques sur la manière d’effectuer un retour, cliquez ici  
+  
 
-Conformément à l’article L.121-20 et suivants du Code de la Consommation, vous disposez d’un délai de 7 jours ouvrables (sauf si un délai plus long est précisé dans les fiche produit) à compter de la date de livraison de votre commande, pour retourner tout article ne vous convenant pas, dans son emballage d’origine et en bon état, propre à sa re commercialisation et demander l’échange ou le remboursement et ce sans aucun frais, à l’exception des frais de retour.
+Conformément à l’article L.121-20 et suivants du Code de la Consommation, vous disposez d’un délai de 7 jours ouvrables (sauf si un délai plus long est précisé dans les fiche produit) à compter de la date de livraison de votre commande, pour retourner tout article ne vous convenant pas, dans son emballage d’origine et en bon état, propre à sa recommercialisation et demander l’échange ou le remboursement et ce sans aucun frais, à l’exception des frais de retour.
 
-En cas de rétractation de la clé CANAL+, l’abonnement CANAL+ doit-être résilié par l’utilisateur sur www.CLECANALPLUS.fr, rubrique Espace Client.
+  
+  
 
 Conformément aux dispositions de **l’article L121-20-2 du Code de la Consommation**, le droit de rétractation ne peut être exercé pour:  
-\- Les biens confectionnés selon vos spécifications ou nettement personnalisés ou qui, du fait de leur nature, ne peuvent être réexpédiés ou sont susceptibles de se détériorer ou de se périmer rapidement.   
-   C’est par exemple le cas pour les produits assortis d’un compteur kilométrique et dont tout kilomètre effectué emporterait une dépréciation substantielle immédiate de leur valeur.   
-\- Les enregistrements audio ou vidéo ou de logiciels informatiques lorsqu’ils ont été descellés par le consommateur ;  
-   C’est par exemple le cas pour les produits livrés avec un logiciel lorsque celui-ci a été descellé et/ou installé   
-\- Les ventes de journaux, de périodiques ou de magazines ;  
-\- Les services de paris ou de loteries autorisés  
-\- Les téléchargements de musique  
-\- Pour des raisons d’hygiène, les articles textiles livrés avec des scellés d’hygiène (Sous-vêtements, maillots de bain, etc.) lorsque ceux-ci auront été retirés, les vêtements qui auront été visiblement portés et/ou lavés, les produits du rayon Bijoux tels que les piercings et boucles d’oreilles ainsi que l’ensemble des produits du rayon Plaisir &. Douceur.  
+
+*   Les biens confectionnés selon vos spécifications ou nettement personnalisés ou qui, du fait de leur nature, ne peuvent être réexpédiés ou sont susceptibles de se détériorer ou de se périmer rapidement.   
+    
+
+   C’est par exemple le cas pour les produits assortis d’un compteur kilométrique et dont tout kilomètre effectué emporterait une dépréciation substantielle immédiate de leur valeur. 
+
+*   Les enregistrements audio ou vidéo ou de logiciels informatiques lorsqu’ils ont été descellés par le consommateur ;  
+    
+
+   C’est par exemple le cas pour les produits livrés avec un logiciel lorsque celui-ci a été descellé et/ou installé 
+
+*   Les ventes de journaux, de périodiques ou de magazines ;  
+    
+*   Les services de paris ou de loteries autorisés  
+    
+*   Les téléchargements de musique  
+    
+*   Pour des raisons d’hygiène, les articles textiles livrés avec des scellés d’hygiène (Sous-vêtements, maillots de bain, etc.) lorsque ceux-ci auront été retirés, les vêtements qui auront été visiblement portés et/ou lavés, les produits du rayon Bijoux tels que les piercings et boucles d’oreilles ainsi que l’ensemble des produits du rayon Plaisir &. Douceur.  
+    
+
+  
 Conformément aux dispositions de **l’article L121-20-4 2e du Code de la Consommation**, le droit de rétractation ne saurait s’appliquer à la vente de voyages.
 
+Pour toute commande passée entre le 25/11/2012 et le 24/12/2012 de produits livrés via un des modes de livraison "petits colis" (hors commandes de produits sur la Marketplace "C Le Marché"), nous vous offrons la possibilité de nous retourner votre produit après l’expiration du délai légal de rétractation de 7 jours (30 jours si vous êtes porteur de la Carte Cdiscount_).  
+  
+_
+
+Pour cela, vous devez :
+
+*   Adresser votre demande de retour à notre service client au plus tard le 24/01/2013  
+    
+*   Retourner votre produit complet, dans son emballage d’origine et dans un état propre à sa recommercialisation, dans les 15 jours suivants la réception de l’email mentionnant votre numéro de retour.
+
+  
+
+Dès réception de votre produit, nous procéderons à votre remboursement sous forme de bon d’achat, convertible en valeur numéraire, d’une durée de validité de 3 mois et à valoir sur l’ensemble de notre site internet (hors livres, développements photo, abonnement, abonnement presse, téléchargement de musique et de films et offres partenaires).  
+  
+
+ A noter : seul le montant du produit retourné vous sera remboursé. Les frais de port acquittés pour l’expédition de votre produit et de son renvoi, restent à votre charge ainsi que les frais de gestion de votre commande.
+
+  
 Article 9 : Garanties 9.1 - Les Garanties Contractuelles
 
  _9.1.1 – La Garantie Sérénité_
