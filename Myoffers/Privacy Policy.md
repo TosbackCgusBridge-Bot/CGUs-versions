@@ -1,23 +1,3 @@
-Skip Navigation Menu
-
-Skip to navigation
-
-Skip to page content
-
-Skip to footer navigation
-
-Free UK Competitions - MyOffers The UK's number one competition &. prize site Type your search here. Search
-
-*   Home
-*   Travel
-*   Motoring
-*   Money
-*   Electronic
-*   Lifestyle
-*   Household
-
-Privacy Statement
-
 Contents
 
 Introduction
@@ -205,62 +185,4 @@ If you have questions regarding this privacy statement, please contact MyOffers 
 
 Email Address - click here
 
-Postal Address - MyOffers Limited, 46 Gillingham Street, London SW1V 1HU Sign in
-
-*   Your Email Address \* \*
-*   Your Password \*
-*   Remember Me
-
-*   Join now
-
-Forgotten your password?
-
-If your have forgotten your password then please enter your email address below, and we'll send the password to that email address.
-
-*   Your Email Address \* \*
-
-Daniel from Ryde won a VW Golf  
-but chose the cash alternative
-
-10/08/2011
-
-Thank you very much, I am still trying to believe it, i am sure it will seem more real once the cheque has arrivedâ¦  
-I have received the cheque! Which is fantastic. Thank you!
-
-What would you like to win?
-
-*   Win an iPad HD
-*   Win an iPhone 5
-*   Tesco Competition
-
-*   Win a MacBook
-*   Win a Kindle
-*   Win a Fiat 500
-
-MyOffers is now Social twitter - follow us Find us on Facebook
-
-**Sign up and get exclusive deals**
-
-*   Music Quiz
-*   General Knowledge Quiz
-*   TV &. Cinema Quiz
-*   Football Quiz
-
-Quiz factor Play Quizzes &. win prizes!
-
-1000's of quizzes including:
-
-Advent Calendar    
-
-*   Prize Draw Rules
-*   About Us
-*   Contact Us
-*   Advertise
-*   Privacy Statement
-*   Site Map
-*   FAQ
-*   RSS
-
-© MyOffers - Enter our UK competitions to win cars, holidays, money and cash to spend, gadgets, lifestyle and household prizes online.
-
-\*It's free to join MyOffers, and it's free to enter MyOffers' own competitions and prize draws. Some third party promotions may feature premium rate entry
+Postal Address - MyOffers Limited, 46 Gillingham Street, London SW1V 1HU
