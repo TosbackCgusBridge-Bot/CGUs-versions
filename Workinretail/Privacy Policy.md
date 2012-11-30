@@ -1,12 +1,3 @@
-Already Registered? Sign In >>.
-
-*   Home
-*   Search Jobs
-*   My WorkInRetail
-*   My Recommended Jobs
-*   All Jobs
-*   Employers Post a Job
-
 Protect Your Privacy and Safety
 
 Effective Date: September 15, 2010
@@ -133,15 +124,3 @@ Helpful Links For Fraud Security:
 How to Contact Us
 
 You can direct questions regarding this Privacy Policy to CareerBuilder by emailing us at customer.service@careerbuilder.com or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests.
-
-  
-  
-
-© 2011 WorkInRetail.com. All Rights Reserved.
-
-Contact Us|Privacy Guidelines|Terms &. Conditions
-
-Partner Sites: Full-Time Jobs | Jobs.net | Consulting Jobs | Restaurant Jobs | Employment Resources | Salary Calculator | Free Career Test | DegreeDriven.com  
-CB Institute | Entry level Jobs | Internships | Healthcare Jobs | Therapy Jobs | Allied Health Jobs | Nursing Jobs | Resume Writing
-
-This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
