@@ -1,26 +1,4 @@
-Se connecter
-
-OK
-
-*     Forum
-*     News
-*     aufeminin.tv
-*    Mode
-*    Beauté
-*    People
-*    Maman
-*    Psycho
-*    Déco
-*    Société
-*    Cuisine
-*    Culture
-*    Mariage
-*    Sexo
-*    Forme
-*    Astro
-*     Le Club
-
-   
+  
   
 **Protection et modification  
 de mes données personnelles**  
@@ -82,8 +60,4 @@ Haut de page
 **Ces informations répondent-elles à votre question ?**  
 Oui : cliquez ici pour retourner à la page d'accueil  
 Non : cliquez ici si vous rencontrez un problème ou une difficulté d'ordre technique / lié à l'utilisation du site...  
-Cliquer ici pour une autre problème ou une autre question sur la modération.  
-  
-
-  
-Copyright © 1999-2012 -
+Cliquer ici pour une autre problème ou une autre question sur la modération.
