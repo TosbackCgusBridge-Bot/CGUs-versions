@@ -2,7 +2,8 @@
     *   **TechHive**
     *   **PCWorld**
     *   **Macworld**
-    *   **Content Works**
+*   **Custom Content**
+    *   **Content Portfolio**
 *   **Specs &. Dates**
     *   **Digital Specs**
     *   **PCWorld Magazine**
@@ -13,7 +14,7 @@
     *   **Permissions**
     *   **Press**
 
-NavigationOur BrandsTechHivePCWorldMacworldContent WorksSpecs &. DatesDigital SpecsPCWorld MagazineMacworld MagazineRatesContact UsEditorial TeamPermissionsPress PCWorld Privacy Policy About Ad Choices  About Our Advertising
+NavigationOur BrandsTechHivePCWorldMacworldCustom ContentContent PortfolioSpecs &. DatesDigital SpecsPCWorld MagazineMacworld MagazineRatesContact UsEditorial TeamPermissionsPress PCWorld Privacy Policy About Ad Choices  About Our Advertising
 
 PCWorld strives to deliver the most relevant content and ads to our readers. The advertising included on our site enables us to deliver the reporting resources required to create the high-quality journalism, research and analysis our audience expects from us.
 
