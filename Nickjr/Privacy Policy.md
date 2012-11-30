@@ -117,6 +117,7 @@
     *   Flicks for Kids
     *   Off to School
 *   Winter
+    *   Winter Holidays
     *   Winter Crafts
     *   Warm &. Tasty Recipes
     *   Printable Activities
@@ -209,7 +210,7 @@ Get the inside scoop on everything Dora!
 
 Imagination Center
 
-Jumpstart creativity with our new ways to play this holiday season! (AD)
+Jump-start creativity with our new ways to play this holiday season! (AD)
 
 Share Your Family Photos
 
