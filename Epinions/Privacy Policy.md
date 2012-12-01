@@ -37,7 +37,7 @@ Profile Images
 Search Epinions with Google  
 
 **Latest Member Center Post**  
-Epinions Incentives Program - 11/12/2012
+December 10 for $10 Promotion - 11/30/2012
 
 **Eroyalties System**  
 Income Share (including bonus for Leads, Moderators, and Advisers) is processed by the 15th of each month. Checks are processed on the 15th and mailed out soon after.  
