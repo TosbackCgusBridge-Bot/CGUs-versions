@@ -2,7 +2,7 @@ Privacy Policy
 
 For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.com" refer to our Web site www.drugs.com. The terms "You" and "End-User" refer to You as a user of this Site.
 
-**For third party advertising information and opt-out options please click here**
+**For third party advertising information and opt-out options please click here**.
 
 TRUSTeTRUSTe's program requirements
 
@@ -96,6 +96,8 @@ Drugs.com may retain personally identifiable information for the purpose of impr
 Opting Out
 
 We provide you the opportunity to ’opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you set up an account but do not wish to receive any additional marketing material from us, you can indicate your preference during signup. If you no longer wish to receive our newsletters, you may opt-out of receiving them by following the instructions included in each newsletter, by signing into your account or by emailing us.
+
+For third party advertising information and opt-out options please click here.
 
 Removal
 
