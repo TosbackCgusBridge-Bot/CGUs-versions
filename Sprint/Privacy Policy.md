@@ -136,6 +136,8 @@ Remember my username Forgot your username or password? Not registered? Sign up n
 *   Visitors Agreement
 *   Copyright Notice
 
+Effective date: October 1, 2012
+
 IMPORTANT NOTICE: Our privacy policy has been updated to reflect that Sprint will be introducing two new programs: 1) Mobile Advertising – to make the mobile ads you see on your device more relevant to you (You must opt in to this program) and 2) Reporting &. Analytics – to create and share certain business and marketing reports (You may opt out of this program.). We will not share any information that identifies you personally under either of these new programs. For detailed information on these programs and to learn how to opt in or out, please visit sprint.com/privacy.  
 (En Español)
 
