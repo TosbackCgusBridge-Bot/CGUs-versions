@@ -98,6 +98,6 @@ Join up and share your favorite song. It only takes a second!
 
 We’ll never post without your permission.
 
-OR Enter Your Email address  
+OR Sign Up With An Email address  
 
 Already signed up? Sign in to your account.
