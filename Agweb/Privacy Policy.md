@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Dec 3, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Dec 4, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -34,7 +34,8 @@ Dec 3, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     *   Long-Range Temperature Outlook
     *   Severe Weather Forecast
     
-    *   Palmer Drought Index 
+    *   Palmer Drought Index
+    *   Cumulative Rainfall 
 *   Markets
     
     *   AgWeb Radio
@@ -237,22 +238,21 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   WUD sponsors bill to address whey value
-*   Program Information for December 1-2, 2012
-*   Fiscal Cliff Sidelines Some Commodity Traders
-*   Indiana Board of Animal Health Makes Raw Milk Recommendations
-*   Prices End Week on High Note
-*   Power Hour: Profits for 2013 Corn/Soybeans? Think 2011
+*   Vilsack to be 8th Secretary of Agriculture to Speak at Farm Journal Forum
+*   Use Caution in Pricing 2013 Crops
+*   Power Hour: The Potential of a Paycheck
+*   Lecciones aprendidas con la Paratuberculosis
+*   Jim Mulhern to Join NMPF Staff as Chief Operating Officer
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
 *   Clinton: Biofuels Could Lead to Food Riots
-*   Nebraska Corn Board: 10 Ways Ethanol Helps Livestock Farmers During Drought
 *   Battle Over Ethanol Subsidies far from Dead
 *   Food Shortages in America?
 *   Where Did the Corn Acres Come From?
 *   Nearly 2,000 Farmers Share Voting Intentions
 *   Farmers React to Obama's Atkinson, Ill., Town Hall
 *   High-Profile Crash of a Titan
+*   Ethanol Subsidy Under Fire
 
       AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN The Homepage of Agriculture About Farm Journal Media|About Our Magazines|Contact Us|Advertise|Lite Version|RSS|Twitter|Facebook|YouTube © 2012 Farm Journal, Inc. All Rights Reserved|Web site design and development by AmericanEagle.com|Site Map|Privacy Policy|Terms &. Conditions
