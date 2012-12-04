@@ -1,8 +1,4 @@
-The CSO Board
-
-**Privacy Policy**
-
-The CSO Board, LLC and its affiliates ("The CSO Board" or "we") is committed to protecting the privacy of the personally-identifiable information that we collect from you as you use this Web site (the "Site"). The scope of The CSO Board's commitment is detailed in this Privacy Policy. By submitting information, you agree to The CSO Board's use of such information as described herein. Please see our Terms of Use for more information about our on-line policies in general.
+The CSO Board, LLC and its affiliates (“The CSO Board” or “we”) is committed to protecting the privacy of the personally-identifiable information that we collect from you as you use this Web site (the “Site”). The scope of The CSO Board’s commitment is detailed in this Privacy Policy. By submitting information, you agree to The CSO Board’s use of such information as described herein. Please see our Terms of Use for more information about our on-line policies in general.
 
 **What personally-identifiable information is collected?**
 
@@ -18,7 +14,7 @@ The Site uses cookies to identify you and your interests and to track usage of t
 
 **Is personally-identifiable information disclosed to third parties?**
 
-The CSO Board shall not intentionally disclose or transfer (and shall take reasonable steps to protect the confidentiality and security, and to prevent the unauthorized or accidental disclosure of) your personally-identifiable information to third parties (i.e., persons or entities that are not affiliates of The CSO Board), whether for such third parties' marketing purposes or otherwise, subject only to the following four exceptions: The CSO Board may disclose your personally-identifiable information to third parties in the event that such disclosure is required by the laws, rules, or regulations of any nation, state, or other applicable jurisdiction. The CSO Board may disclose your contact information to third parties as appropriate for The CSO Board to make transmissions or deliveries to you. The CSO Board may disclose your personally-identifiable information if, in connection with submitting the information, you consent to such disclosure. and The CSO Board may disclose contact information for you in response to inquiries by bona-fide rights owners in connection with allegations of infringement of copyright or other proprietary rights arising from information you have posted on the Site or otherwise provided to The CSO Board.
+The CSO Board shall not intentionally disclose or transfer (and shall take reasonable steps to protect the confidentiality and security, and to prevent the unauthorized or accidental disclosure of) your personally-identifiable information to third parties (i.e., persons or entities that are not affiliates of The CSO Board), whether for such third parties’ marketing purposes or otherwise, subject only to the following four exceptions: The CSO Board may disclose your personally-identifiable information to third parties in the event that such disclosure is required by the laws, rules, or regulations of any nation, state, or other applicable jurisdiction. The CSO Board may disclose your contact information to third parties as appropriate for The CSO Board to make transmissions or deliveries to you. The CSO Board may disclose your personally-identifiable information if, in connection with submitting the information, you consent to such disclosure. and The CSO Board may disclose contact information for you in response to inquiries by bona-fide rights owners in connection with allegations of infringement of copyright or other proprietary rights arising from information you have posted on the Site or otherwise provided to The CSO Board.
 
 **Links to third-party sites**
 
@@ -36,29 +32,14 @@ The CSO Board has implemented generally accepted standards of technology and ope
 
 Personally-identifiable information collected on the Site may be transferred from time to time to The CSO Board offices or personnel, or to third parties, located throughout the world, including offices located outside the European Economic Area (EEA), and the Site may be viewed and hosted anywhere in the world, including countries (such as the United States) that may not have laws of general applicability regulating the use and transfer of such data. By using the Site and submitting such information on it, you voluntarily consent to such transborder transfer and hosting of such information.
 
-**Children's on-line privacy protection**
+**Children’s on-line privacy protection**
 
-The CSO Board understands the importance of protecting children's privacy, especially in an on-line environment. The Site is not intentionally designed for or directed at children 13 years of age or younger, and The CSO Board will not intentionally collect or maintain information about anyone under the age of 13.
+The CSO Board understands the importance of protecting children’s privacy, especially in an on-line environment. The Site is not intentionally designed for or directed at children 13 years of age or younger, and The CSO Board will not intentionally collect or maintain information about anyone under the age of 13.
 
 **Consent. Changes to Privacy Policy**
 
-By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time. We will alert you to any such changes by updating this Privacy Policy. This Privacy Policy was last updated on February 10, 2011.
+By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time. We will alert you to any such changes by updating this Privacy Policy. This Privacy Policy was last updated on November 30, 2012.
 
 **Contact our Privacy Department**
 
 If you have any questions about our Privacy Policy, please contact us at The CSO Board, 9720 Coit Road, Suite 220-192, Plano, TX 75025.
-
-privacy Questions about our privacy policy?  
-We invite you to call us at +1 877 843 9400.
-
-*   about us
-*   consulting
-*   publications
-*   news
-*   blogs
-*   contact
-
-*   home
-*   privacy
-*   social
-*   © 2012 The CSO Board, LLC
