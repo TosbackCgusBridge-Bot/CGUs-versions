@@ -7,7 +7,8 @@ Random Deviant Random Deviation Random Group Search Username or Email
 Password  
 Stay logged in  
 Login  
-Join deviantART for FREE Take the Tour Lost Password? Deviant Login **Buy Art** Buy T-Shirts &. Gear Buy adCast Buy Premium Upgrade Shop   Join deviantART for FREE Take the Tour Privacy Policy
+Join deviantART for FREE Take the Tour Lost Password? Deviant Login **Buy Art** Buy T-Shirts &. Gear Buy adCast Buy Premium Upgrade Shop   Join deviantART for FREE Take the Tour We are artists building a community with art. The art is here for you, from the heart and soul  
+of our artists. Support them this holiday season by giving the gift of art to those you love. Give! ›› Privacy Policy
 
 Revision date: June 5, 2008
 
