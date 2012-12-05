@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Dec 4, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Dec 5, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -238,11 +238,12 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Vilsack to be 8th Secretary of Agriculture to Speak at Farm Journal Forum
-*   Use Caution in Pricing 2013 Crops
-*   Power Hour: The Potential of a Paycheck
-*   Lecciones aprendidas con la Paratuberculosis
-*   Jim Mulhern to Join NMPF Staff as Chief Operating Officer
+*   Dairy Cliff Approaches Along with Fiscal Cliff
+*   Stamp Farms Declares Bankruptcy
+*   Dickrell: Why Mitch and Mike Disagree on Supply Management
+*   California Farmers Report Widespread Employee Shortages
+*   Colder Air, Occasional Precipitation Mid-Week
+*   Power Hour: What to Know before You Buy 2013 Crop Insurance
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
