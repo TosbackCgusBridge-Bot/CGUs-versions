@@ -1,3 +1,9 @@
+Music sharing that matters! Give your favorite song a home.  Yes, make my page
+
+*   Home
+*   About
+*   Sign in
+
 Privacy Policy | Terms and Conditions | DMCA Compliance Privacy Policy
 
 Last Updated: March 5, 2012
@@ -54,3 +60,44 @@ Or, you may write to:
 > 48 Grove St., Suite 205  
 > Somerville, MA 02144  
 > or via fax to: 320.213.4219
+
+Other resources
+
+Help &. FAQ  
+Community guidelines  
+Contact us
+
+  
+
+·  
+by
+
+*   About
+*   Contact
+*   Help
+*   Apps
+*   Popular
+*   Developers
+*   Goodies
+*   Privacy
+
+©2012 The Super Music, LLC
+
+Welcome back!  
+Sign in using the service you joined with:
+
+  Sign in with Facebook   Sign in with Twitter
+
+Forgot your password?
+
+Don’t have an account yet? Get one here.
+
+Join up and share your favorite song. It only takes a second!
+
+  Connect with Facebook   Connect with Twitter
+
+We’ll never post without your permission.
+
+OR Sign Up With An Email address  
+
+Already signed up? Sign in to your account.
