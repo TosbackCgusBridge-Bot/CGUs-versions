@@ -1,15 +1,3 @@
-**deviantART**  
-Browse Art Prints Shop T-Shirts &. Gear Groups**Deviants**  
-Sta.sh dA muro Chat Journals Today Forum **Find More Art**  
-Daily Deviations Discover beta Critiques Critiqueable Wallpaper**Random**  
-Random Deviant Random Deviation Random Group Search Username or Email  
-  
-Password  
-Stay logged in  
-Login  
-Join deviantART for FREE Take the Tour Lost Password? Deviant Login **Buy Art** Buy T-Shirts &. Gear Buy adCast Buy Premium Upgrade Shop   Join deviantART for FREE Take the Tour We are artists building a community with art. The art is here for you, from the heart and soul  
-of our artists. Support them this holiday season by giving the gift of art to those you love. Give! ›› Privacy Policy
-
 Revision date: June 5, 2008
 
 deviantART respects your privacy. This Privacy Policy applies to our web sites, including www.deviantart.com and shop.deviantart.com (collectively, the “deviantART Sites” or “Sites”). This Privacy Policy explains what information we collect through the Sites, how we use that information, and what choices you have.
@@ -82,5 +70,3 @@ Hollywood, CA 90028
   
 Phone: 888-4DEVART (888-433-8278)  
 Email: help@deviantart.com
-
-©2012 deviantART. All rights reserved About Us | Contact Us | Developers | Careers | Site Tour | Help &. FAQ Advertise | Premium Membership Etiquette | Privacy Policy | Terms of Service | Copyright Policy
