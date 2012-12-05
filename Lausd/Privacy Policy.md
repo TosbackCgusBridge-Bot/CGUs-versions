@@ -1,4 +1,48 @@
-Thank you for visiting the Los Angeles Unified School District's web site and for reviewing our privacy policy. We collect no personal information about you unless you choose to provide that information to LAUSD.  
+En Español
+
+*   Inside LAUSD
+*   Superintendent
+*   Board of Education
+*   Offices
+*   ESC Main
+
+*   S
+*   F
+*   E
+*   C
+
+Los Angeles Unified School District
+
+*   Home
+*   About LAUSD
+    *   District Information
+    *   District Goals
+    *   District School Calendars
+    *   Maps
+    *   Facilities
+    *   Fingertip Facts
+*   Resources
+    *   Instruction
+    *   Doing Business
+    *   Email Services
+    *   Fresh Daily
+*   Employment
+    *   Adult &. Career Education
+    *   Certificated/ Administrative
+    *   Certificated/ Teaching
+    *   Classified
+    *   Early Childhood Education
+    *   Jobs Open to the Public
+*   Find a School
+
+*   Email
+*   J
+*   Twitter
+*   Facebook
+*   Youtube
+*   K
+
+  **  Privacy Policy** Thank you for visiting the Los Angeles Unified School District's web site and for reviewing our privacy policy. We collect no personal information about you unless you choose to provide that information to LAUSD.  
   
 Some of our Web pages (such as on-line order forms, conference and training registration forms, mailing lists, information request forms and other forms) let you voluntarily submit personal information. In those cases, every attempt will be made to protect your privacy. LAUSDnet cannot however, provide any guarantees as to the absolute security of your personal information.  
   
@@ -27,4 +71,8 @@ To protect your privacy, be sure to close your browser completely after you have
 **Information from Email**  
 If you decide to send us an electronic mail message (Email), the message will usually contain your return email address. If you include personally-identifying information in your email because you want us to address issues specific to your situation, we may use that information in responding to your request. In other limited circumstance, we may be required by law to disclose information that you submit.  
   
-Also, email is not necessarily secure against interception. Please send only information to help us process your request.
+Also, email is not necessarily secure against interception. Please send only information to help us process your request.  
+© Los Angeles Unified School District  
+333 S Beaudry Ave., Los Angeles, CA 90017  
+Phone: (213) 241-1000 Fax: (213) 241-8442 College-prepared and career-ready  
+for the 21st century Google TranslateArabicBulgarianChinese (Simplified)Chinese (Traditional)CroatianCzechDanishDutchFilipinoFinnishFrenchGermanGreekHebrewHindiItalianJapaneseKoreanNorwegianPolishPortugueseRomanianRussianSpanishSwedishVietnamese
