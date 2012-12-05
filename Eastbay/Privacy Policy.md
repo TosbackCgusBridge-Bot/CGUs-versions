@@ -181,7 +181,6 @@ Status Recently Viewed   Items: 0 Subtotal: $0.00   Thank you for visiting Eas
     *   Skate
     
     *   Soccer
-    *   Sportswear
     *   Track &. Field/ XC
     *   Training
     *   Wrestling
@@ -195,7 +194,6 @@ Status Recently Viewed   Items: 0 Subtotal: $0.00   Thank you for visiting Eas
     *   Soccer
     
     *   Softball
-    *   Sportswear
     *   Track &. Field/ XC
     *   Training
     *   Volleyball
@@ -212,7 +210,6 @@ Status Recently Viewed   Items: 0 Subtotal: $0.00   Thank you for visiting Eas
     
     *   Soccer
     *   Softball
-    *   Sportswear
     *   Track &. Field/ XC
     *   Training
     *   Wrestling
