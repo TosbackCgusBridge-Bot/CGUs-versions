@@ -1,4 +1,4 @@
-Last Updated: 9/6/2011 What This Privacy Policy Covers
+Last Updated: 11/19/2012 What This Privacy Policy Covers
 
 Thank you for visiting Kelley Blue Book Co., Inc.'s ("Kelley") kbb.com ("Kelley Site"). Your privacy is important to us, and this policy will explain how we collect and use information that personally identifies you ("personal information") as well as non-personal information about your interaction with the Kelley Site.
 
@@ -53,6 +53,8 @@ Web Beacons
 Kelley uses Web beacons (also known as clear gif technology, pixels, or action tags) to access Kelley cookies inside and outside our Web site and to collect data and allow other companies to collect data. Web beacons may be used to assist in delivering cookies on our site. This technology is a tool we may also use to compile aggregated statistics about the Kelley Site usage, such as how many visitors clicked on key elements (such as links or graphics) on a page. We may share aggregated site statistics with other companies, and we may allow other companies to place their pixels and/or set cookies on our site.
 
 Collection of Information by Third-Party Sites and Providers
+
+We work with a variety of advertisers, advertising networks, advertising servers and analytics companies all of whom use various technologies and technologies from third party companies to collect data. These companies may be used to track user behavior, how our products and services are offered, conduct consumer research and possibly to serve you relevant ads and content. This privacy policy does not cover the use of various technologies by any of these partners. These companies may also obtain information from services you use from other companies, including without limitation, other websites, mobile website or applications, and combine that information with information they obtain through these third party technologies on our products and services. We do not control these third party technologies or the information collected. To learn more and to opt out of such data collection, you should visit www.aboutads.info and here collection to opt out of these services.
 
 If you click on a third-party link, including a social media graphic link on the Kelley Site, you will be taken to the third party's Web site, and your information will be subject to the third party's privacy policy. Likewise, whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information, as we have no control over information that is submitted to, or collected by, these third parties.
 
