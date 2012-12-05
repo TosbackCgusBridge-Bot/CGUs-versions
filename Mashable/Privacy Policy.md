@@ -1,4 +1,53 @@
-Mashable, Inc. Privacy Policy
+Mashable
+
+*   Mashable
+*   Sign in
+*   Follow @mashable see more  >.
+*   Search
+*   Social Media
+*   Tech
+*   Business
+*   Entertainment
+*   US &. World
+*   Lifestyle
+*   Watercooler
+*   Video
+*   More
+    *   *   Channels
+        *   Social Media
+        *   Tech
+        *   Business
+        *   Entertainment
+        *   US &. World
+        *   Lifestyle
+        *   Watercooler
+        *   Video
+    *   *   Company
+        *   About Us
+        *   Reprints
+    *   *   Contact
+        *   Contact Us
+        *   Submit News
+        *   Submit a Bug
+    *   *   Advertise
+        *   Advertise
+    *   *   Legal
+        *   Privacy Policy
+        *   Terms of Use
+    *   *   Apps
+        *   iPhone App
+        *   iPad App
+        *   Android App
+    *   *   Resources
+        *   Guidebooks
+        *   Subscriptions
+    *   *   Sites
+        *   Jobs
+        *   Events
+        *   Social Good Summit
+        *   Media Summit
+
+Company Mashable, Inc. Privacy Policy
 
 At Mashable, Inc. ("Mashable") we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our web site and staunchly recognize the importance of protecting this information. In adopting this privacy policy (this "Privacy Policy"), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. This Privacy Policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our Privacy Policy.
 
@@ -71,3 +120,16 @@ Mashable Follow Profile Policy
 Mashable's online social network is entirely opt-in by our members. The accounts listed in our database are created by members of the Mashable Follow network. Due to security considerations, Mashable will not process account deletion requests made via email. To delete an account, the account holder must sign into the network using his/her email address or username in order to permanently delete his/her account. If the account holder no longer has access to the email account upon which the account was created, the account holder will not be able to delete the account.
 
 Mashable will have the right to delete any account at any time (i) in response to legal process, for example, in response to a court order, or (ii) in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law.
+
+*   About Us
+*   Jobs
+*   Advertise
+*   Subscribe
+*   Privacy
+*   Terms
+
+Mashable is the largest independent online news site dedicated to covering digital culture, social media and technology. With more than 20 million unique monthly visitors, Mashable has one of the most engaged online news communities. Founded in 2005, Mashable is headquartered in New York City with an office in San Francisco.
+
+*   ©2005-2012 Mashable, Inc.
+*   Reproduction without explicit permission is prohibited. All Rights Reserved.
+*   Designed in collaboration with Code &. Theory
