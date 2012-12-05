@@ -1,3 +1,106 @@
+Jump to:
+
+*   Argos website search
+*   Main categories
+*   Main content
+*   Site footer
+*   Site map
+
+Hello | (Sign in / Join|Sign out) |My account|Sign out
+
+items in Trolley
+
+*   Technology
+*   Home &. Garden
+*   Baby &. Nursery
+*   Toys
+*   Sports &. Leisure
+*   Health &. Beauty
+*   Clothing
+*   Jewellery &. Watches
+*   Gifts
+
+*   Price Cuts
+
+*   Jump to Argos website search
+*   Jump to main categories
+*   Jump to main content
+*   Jump to footer
+*   Jump to site map
+
+Customer services
+
+Customer services
+
+*   Essential Information
+    *   Contact us &. FAQs
+    *   Cookie policy
+    *   How to use this site
+    *   My account FAQs
+    *   Privacy policy
+    *   Returns &. refunds
+    *   Security
+    *   Sign in &. registration
+    *   Site map
+    *   Terms &. conditions
+*   Shopping at Argos
+    *   Argos gift card
+    *   Argos gold trade-in serivce
+    *   Argos TV home shopping channel
+    *   Channel island deliveries
+    *   Check &. Reserve
+    *   Home delivery
+    *   iPhone App
+    *   Online exclusives
+    *   QR codes
+    *   Order tracking
+    *   Voucher codes
+*   Product information
+    *   Buying guides
+    *   Features &. articles
+    *   Furniture assembly service
+    *   Jewellery &. watch repair service
+    *   Product helplines
+    *   Product recalls
+    *   Social bookmarking
+    *   Swatch service
+    *   Video buying guides
+*   Product care
+    *   Breakdown Care
+    *   Furniture Care
+    *   Jewellery &. watch care
+    *   Mobile Phone Care
+    *   Replacement product care
+*   Credit &. Insurance
+    *   Argos Card
+    *   Argos Credit &. Insurance
+    *   Car Insurance
+    *   Home Insurance
+    *   Homeowner loans
+    *   Life cover
+    *   Pet Insurance
+    *   RAC breakdown cover
+    *   Travel Insurance
+*   About Argos
+    *   About Us
+    *   Affiliate program 
+    *   Argos for Business 
+    *   Competitions
+    *   Corporate responsibility 
+    *   Press enquiries 
+    *   Site awards
+
+*   Other Argos sites
+    *   ArgosCareers 
+    *   ArgosCompare 
+    *   Argos Entertainment 
+    *   Argos Gifts &. experiencest 
+    *   Argos Movie &. video game rental 
+    *   Argos Photo prints &. gifts 
+    *   Argos Spares &. accessories 
+    *   Argos.ie 
+    *   Argos-spain.co.uk 
+
 Privacy Policy
 
 (Updated 23rd May 2012)
@@ -136,3 +239,79 @@ Contact Us
 Changes to Policy
 
 25\. We may amend and update this policy from time to time. Any changes in the future will be posted on this page. The date of the latest update to this privacy policy is set out at the top of this policy.
+
+  
+  
+Extra Information
+
+Essential Information
+
+Customer Services
+
+Privacy policy
+
+Cookie policy
+
+Terms &. conditions
+
+Site map
+
+Secure online shopping
+
+Email sign up
+
+Shopping at Argos
+
+Argos gift card
+
+Home delivery
+
+Check &. Reserve
+
+Order tracking
+
+Free returns
+
+Quick shop
+
+Store locator
+
+Product information
+
+Buying guides
+
+Product care
+
+Argos Credit &. Insurance
+
+A – Z index
+
+Stock checker
+
+Features &. articles
+
+About Argos
+
+About us
+
+Affiliate program
+
+Argos for Business
+
+Press enquiries
+
+Other Argos sites
+
+Argoscareers.com
+
+Argos.ie
+
+Argos-spain.co.uk
+
+Argos on... Youtube | Facebook | Twitter | Argos TV
+
+Argos App for... iPhone | iPod touch | Android
+
+Argos mobile site
+
+This link will open in a new window. © Argos Limited 2012. All Rights Reserved.
