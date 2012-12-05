@@ -274,6 +274,8 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Twitter
 *   LinkedIn
 *   Our Blog
+*   Google+
+*   YouTube
 
 *   Help:
 *   FAQs &. Tutorials
@@ -316,5 +318,5 @@ Copyright © 1999-2012 SurveyMonkey
 *   Truste
 *   BBOnline
 *   Ramp Web
-*   McAfee
+*   Qualys
 *   Verisign
