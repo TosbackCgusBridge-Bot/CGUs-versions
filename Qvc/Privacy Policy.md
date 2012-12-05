@@ -240,38 +240,45 @@ Shop by Brand
 *   Kitchen &. Food Forum
 *   Kitchen &. Food Blogs
 
-Home Decor
+Home Décor
 
 *   Bath
 *   Bedding
 *   Candles &. Scents
 *   Decorative Accents
-*   Flowers &. Houseplants
 *   Furniture
 *   Holiday &. Party
 *   Indoor Lighting
 *   Mattresses
-*   Outdoor Living
 *   Rugs &. Mats
 
 Home Improvement
 
 *   Cleaning
 *   Floorcare &. Vacuums
-*   Garden Center
 *   Heating &. Cooling
 *   Home Projects &. Tools
 *   Laundry &. Storage
 *   Major Appliances
 
+Patio &. Garden
+
+*   Flowers &. Houseplants
+*   Garden Center
+*   Outdoor Living
+
 Shop by Brand
 
 *   Bethlehem Lights
+*   Duraflame
 *   Dyson
+*   Home Reflections
 *   Lori Greiner
 *   Northern Nights
+*   PedicSolutions
 *   Serta
 *   Sleep Number Bed
+*   Valerie Parr Hill
 *   See All Brands
 
 *   New Arrivals
@@ -302,6 +309,7 @@ Electronics
 Shop by Brand
 
 *   Acer
+*   Apple
 *   Bose
 *   Canon
 *   Dell
@@ -313,6 +321,10 @@ Shop by Brand
 *   Sony
 *   Toshiba
 *   See All Brands
+
+Related Categories
+
+*   Major Appliances
 
 *   New Arrivals
 *   Clearance
@@ -436,16 +448,6 @@ Brands
   
   
 Loading Results QVC : pagenotfound pagenotfound
-
-QVC Quick Links:
-
-*   Current Item On Air
-*   Items Recently On Air
-*   _Today's Special Value_®
-*   New Arrivals
-*   Watch QVC TV Live
-*   TV Program Guide
-*   QVC Sprouts
 
 No Results Found
 
