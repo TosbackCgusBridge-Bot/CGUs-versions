@@ -1,81 +1,3 @@
-*   Top Stories
-    *   Photo &. Video Galleries
-    *   Top Lists
-*   Trending Topics
-    *   Twitter
-    *   YouTube
-    *   Facebook
-    *   iPhone
-    *   Google
-    *   Video
-    
-    *   More Topics...
-*   People
-    *   Recommended
-    *   Mashable Staff
-    
-    *   More people...
-*   Jobs
-*   Events
-*   Try Our New Social News App
-
-Welcome to Mashable! Sign in with Facebook or Twitter Mashable
-
-*   Social Media
-    *   All Social Media
-    *   How-To
-    *   Facebook
-    *   Twitter
-    *   YouTube
-    *   Google+
-    *   mRankFeatured in Social Media
-*   Tech
-    *   All Tech
-    *   Apps &. Software
-    *   Dev &. Design
-    *   Gadgets
-    *   MobileFeatured in Tech
-*   Business
-    *   All Business
-    *   Advertising
-    *   Marketing
-    *   Media
-    *   Small Business
-    *   Startups
-    *   JobsFeatured in Business
-*   Lifestyle
-    *   All Lifestyle
-    *   Family &. Parenting
-    *   Health &. Fitness
-    *   Top Stories
-    *   Travel &. Leisure
-    *   Work &. PlayFeatured in Lifestyle
-*   Watercooler
-    *   All Watercooler
-    *   Videos
-    *   Pics
-    *   Memes
-    *   Comics
-    *   ConversationsFeatured in Watercooler
-*   Entertainment
-    *   All Entertainment
-    *   Film
-    *   Gaming
-    *   Music
-    *   Sports
-    *   TVFeatured in Entertainment
-*   US &. World
-    *   All US &. World
-    *   Politics
-    *   Social Good
-    *   U.S.
-    *   WorldFeatured in US &. World
-*   My Stories
-*   Videos
-
-*   Featured:
-*   Facebook
-
 Mashable, Inc. Privacy Policy
 
 At Mashable, Inc. ("Mashable") we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our web site and staunchly recognize the importance of protecting this information. In adopting this privacy policy (this "Privacy Policy"), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. This Privacy Policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our Privacy Policy.
@@ -135,74 +57,17 @@ Comments will only be considered for removal (i) in response to legal process, f
 
 All comments and other content contributed to Mashable shall adhere to the following policy, and may be edited or removed at Mashable's discretion if it is deemed to be in violation of this policy.
 
-> 1.  **Personal Attacks:** Please don’t engage in personal attacks (on authors, other users or any individual), persistent trolling or mindless abuse. The Mashable community should focus on intelligently discussing topics by furthering the conversation and informing the participants with resourceful and constructive ideas.
-> 2.  **Hate speech:** Racism, sexism and homophobia will not be tolerated.
-> 3.  **Language and Threats:** Please watch your language and respect other people’s views, beliefs and emotions. We reserve the right to remove any content that might be found extremely offensive or threatening.
-> 4.  **No Spam:** Spam and advertising content will be removed.
-> 5.  **Smear Tactics:** Although we acknowledge criticism of our articles and our writers, we will not allow misrepresentation. We will distinguish between constructive arguments and smear tactics.
-> 6.  **Relevancy:** Please keep conversations relevant. Off-topic comments are subject to removal in order to keep the thread on track.
-> 7.  **Quality:** We encourage you to take responsibility for the quality of the conversations in which you’re participating. Maintain intelligent discussions in the Mashable community by being respectful and considerate.
-> 8.  **Help us:** Maintain an inviting interaction space by self-policing threads and flagging spam. Although we have a hands-on approach to community engagement, we do sometimes miss problem commenters or trolls. We appreciate your efforts to keep the Mashable community environment inviting, insightful and constructive. Let the conversations be quality ones.
+1.  **Personal Attacks:** Please don’t engage in personal attacks (on authors, other users or any individual), persistent trolling or mindless abuse. The Mashable community should focus on intelligently discussing topics by furthering the conversation and informing the participants with resourceful and constructive ideas.
+2.  **Hate speech:** Racism, sexism and homophobia will not be tolerated.
+3.  **Language and Threats:** Please watch your language and respect other people’s views, beliefs and emotions. We reserve the right to remove any content that might be found extremely offensive or threatening.
+4.  **No Spam:** Spam and advertising content will be removed.
+5.  **Smear Tactics:** Although we acknowledge criticism of our articles and our writers, we will not allow misrepresentation. We will distinguish between constructive arguments and smear tactics.
+6.  **Relevancy:** Please keep conversations relevant. Off-topic comments are subject to removal in order to keep the thread on track.
+7.  **Quality:** We encourage you to take responsibility for the quality of the conversations in which you’re participating. Maintain intelligent discussions in the Mashable community by being respectful and considerate.
+8.  **Help us:** Maintain an inviting interaction space by self-policing threads and flagging spam. Although we have a hands-on approach to community engagement, we do sometimes miss problem commenters or trolls. We appreciate your efforts to keep the Mashable community environment inviting, insightful and constructive. Let the conversations be quality ones.
 
 Mashable Follow Profile Policy
 
 Mashable's online social network is entirely opt-in by our members. The accounts listed in our database are created by members of the Mashable Follow network. Due to security considerations, Mashable will not process account deletion requests made via email. To delete an account, the account holder must sign into the network using his/her email address or username in order to permanently delete his/her account. If the account holder no longer has access to the email account upon which the account was created, the account holder will not be able to delete the account.
 
 Mashable will have the right to delete any account at any time (i) in response to legal process, for example, in response to a court order, or (ii) in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law.
-
-Report a bug About Mashable
-
-Mashable is a leading source for news, information and resources for the Connected Generation. Mashable reports on the importance of digital innovation and how it empowers and inspires people around the world. Mashable’s 20 million unique visitors and 6 million social media followers have become one of the most engaged online news communities. Founded in 2005, Mashable is headquartered in New York City with an office in San Francisco.
-
-Partners W3 EDGE Rackspace Intridea Dynect DNS Global Syndication Partners ABCNews CNN Metro Yahoo
-
-©2005-2012 Mashable, Inc. All Rights Reserved.
-
-Company
-
-*   About Us
-*   Contact Us
-*   Announcements
-*   Submit News
-*   Advertise
-*   Reprints
-*   Privacy Policy
-*   Terms of Use
-*   Subscribe
-
-Site
-
-*   Mashable Follow
-*   Jobs
-*   Events
-*   Mobile Version
-*   iPhone App
-*   iPad App
-*   Android App
-*   Blippr
-*   Mashable France
-
-Resources
-
-*   Guidebooks
-*   Lists
-*   How To
-*   Trending
-*   Mashable Awards
-*   Subscriptions
-
-Channels
-
-*   All
-*   Social Media
-*   Tech &. Gadgets
-*   Business &. Marketing
-*   Watercooler
-*   Entertainment
-*   US &. World
-*   Video
-*   Mobile
-*   Dev &. Design
-*   Media
-*   Social Good
-*   Startups
