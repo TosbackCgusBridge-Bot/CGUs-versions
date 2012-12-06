@@ -547,7 +547,7 @@ Find out how WebMD ensures the quality, accuracy and security of our information
 
 Go Find us on:
 
-URAC: Accredited Health Web Site HonCode: Health on the Net Foundation AdChoices About WebMD Advertise With Us Terms of Use Privacy Policy Sponsor Policy Site Map Careers Contact Us Medscape Reference eMedicineHealth RxList Medscape MedicineNet BootsWebMD WebMD Corporate First Aid WebMD the Magazine WebMD Health Record WebMD Mobile Newsletters Dictionary Physician Directory
+URAC: Accredited Health Web Site HonCode: Health on the Net Foundation AdChoices About WebMD Advertise With Us Terms of Use Privacy Policy Sponsor Policy Site Map Careers Contact Us Medscape Reference eMedicineHealth RxList Medscape MedicineNet BootsWebMD WebMD Corporate First Aid WebMD Magazine WebMD Health Record WebMD Mobile Newsletters Dictionary Physician Directory
 
 ©2005-2012 WebMD, LLC. All rights reserved.
 
