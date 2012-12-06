@@ -33,6 +33,7 @@ You are signed in Location: Sign In / Register Sign Out Business Class xfinity
     *   Move or Transfer Services
     *   Service Center Locations
     *   Contact Us
+    *   Accessories
     *   Customer Agreements/Policies
     *   Customer Guarantee
 
@@ -251,6 +252,7 @@ View full agreement (PDF)
     *   Why XFINITY?
     *   Customer Guarantee
     *   Compare the Competition
+    *   Accessories
 *   My Account 
     *   Pay Bill
     *   Manage My Account
