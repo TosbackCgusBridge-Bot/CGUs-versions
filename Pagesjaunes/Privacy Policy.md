@@ -433,7 +433,7 @@ Pour toute question et/ou réclamation, concernant les Services, vous pouvez nou
 
 Téléphone : 0 810 810 767 (prix d'un appel local)
 
-E-mail : recapformorca@pagesjaunes.fr
+E-mail : PageJaunes
 
 **9 - Données personnelles**
 
