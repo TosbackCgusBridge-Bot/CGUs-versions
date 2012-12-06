@@ -1,5 +1,5 @@
 **AGB**    
-WEB.DE Datenschutzhinweise  1. Erhebung, Verarbeitung und Nutzung personenbezogener Daten 2. Erhebung, Verarbeitung und Nutzung von Nutzungs- und Verkehrsdaten 3. Löschung von Daten 4. Weitergabe von Daten 5. Cookies und ihr Einsatz - meine Wahlmöglichkeit 6. Datenschutzerklärung zur Nutzung des Skalierbaren Zentralen Messverfahrens 7. Auskünfte 8. Änderung der Datenschutzhinweise  
+WEB.DE Datenschutzhinweise  1. Erhebung, Verarbeitung und Nutzung personenbezogener Daten 2. Erhebung, Verarbeitung und Nutzung von Nutzungs- und Verkehrsdaten 3. Löschung von Daten 4. Weitergabe von Daten 5. Cookies &. nutzungsbasierte Onlinewerbung  Einsatz &. Wahlmöglichkeit 6. Selbstregulierungskodex des DDOW 7. Datenschutzerklärung zur Nutzung des Skalierbaren Zentralen Messverfahrens 8. Auskünfte 9. Änderung der Datenschutzhinweise  
   
 Für die 1&1 Mail &. Media GmbH, Montabaur, hat der Schutz Ihrer persönlichen Informationen oberste Priorität. Selbstverständlich halten wir die relevanten Datenschutzgesetze ein und möchten Sie mit den nachfolgenden Datenschutzhinweisen umfassend über den Umgang mit Ihren Daten aufklären. **1\. Erhebung, Verarbeitung und Nutzung personenbezogener Daten**  
   
@@ -33,13 +33,23 @@ Nutzungs- beziehungsweise Verkehrsdaten werden in der Regel nach Beendigung des 
   
 Abrechnungsdaten dürfen an andere Diensteanbieter und Dritte übermittelt werden, soweit dies zur Ermittlung des Entgelts und zur Abrechnung erforderlich ist. Wir sind berechtigt, die Abrechnungsdaten an einen mit dem Einzug des Entgelts beauftragten Dritten zu übermitteln, soweit es für diesen Zweck erforderlich ist.  
   
-Nach Maßgabe der hierfür geltenden Bestimmungen sind wir ebenfalls berechtigt, Auskunft an Strafverfolgungsbehörden und Gerichte für Zwecke der Strafverfolgung zu erteilen. **5\. Cookies und ihr Einsatz - meine Wahlmöglichkeit**  
+Nach Maßgabe der hierfür geltenden Bestimmungen sind wir ebenfalls berechtigt, Auskunft an Strafverfolgungsbehörden und Gerichte für Zwecke der Strafverfolgung zu erteilen. **5\. Cookies &. nutzungsbasierte Onlinewerbung  Einsatz &. Wahlmöglichkeit**  
   
-Cookies sind kleine Textdateien, die auf der Festplatte Ihres Computers abgelegt werden und die Wiedererkennung ermöglichen, aber keine persönliche Identifikation Ihrer Person zulassen. Sie dienen unter anderem der Erleichterung der Navigation auf einer Internetseite oder auch der Steuerung von Werbeeinblendungen, z.B. durch Beschränkung der Kontakte eines Users mit dem gleichen Werbemittel und auch durch Einblendung von besonders relevanten/ nützlichen Werbekampagnen auf dem Portal. Hierfür werden Informationen über Ihre Aktivitäten auf unserer Webseite (z.B. geklickte Werbebanner, besuchte Unterseiten etc.) unter einem Pseudonym gegebenenfalls in Zusammenhang mit anonymen Daten aus Online-Fragebögen verwendet. Die aus technischen Gründen übermittelte IP Adresse Ihres Rechners wird dabei von einem unabhängigen Dritten vollständig anonymisiert und nicht für die gesteuerte Einblendung von Werbung verwendet. Das anerkannte Datenschutzgütesiegel vom Unabhängigen Landeszentrum für Datenschutz (ULD) bestätigt die datenschutzrechtliche Zulässigkeit unseres für Werbeeinblendungen verwendeten Systems TGP_open_.  
+**Einsatz von Cookies**  
   
-Wenn Sie keine gesteuerten Werbeeinblendungen erhalten möchten, klicken Sie bitte auf folgenden Opt-Out-Link. Bitte beachten Sie, dass Sie für den Fall einer Cookie-Löschung auch den Opt Out Link erneut aktivieren müssen.  
+Cookies sind kleine Textdateien, die auf der Festplatte Ihres Computers abgelegt werden und die Wiedererkennung ermöglichen, aber keine persönliche Identifikation Ihrer Person zulassen. Sie dienen unter anderem der Erleichterung der Navigation auf einer Internetseite oder auch der Steuerung von Werbeeinblendungen, z.B. durch Beschränkung der Kontakte eines Users mit dem gleichen Werbemittel und auch durch Einblendung von besonders relevanten/ nützlichen Werbekampagnen auf dem Portal.  
   
-Sie können das Speichern von Cookies auf Ihrer Festplatte verhindern, indem Sie in Ihren Browser-Einstellungen "keine Cookies akzeptieren" wählen. Sie können Ihren Browser auch so einstellen, dass dieser Sie vor dem Setzen von Cookies fragt, ob Sie einverstanden sind. Schließlich können Sie auch einmal gesetzte Cookies jederzeit wieder löschen. Wie all das im Einzelnen funktioniert, entnehmen Sie bitte der Anleitung Ihres Browser-Herstellers. Wenn Sie keine Cookies akzeptieren, kann dies im Einzelfall zu Funktionseinschränkungen der Webseite führen. Auch ohne aktive Löschung wird der Cookie jedoch nach Ablauf von zwölf Monaten automatisch gelöscht. **6\. Datenschutzerklärung zur Nutzung des Skalierbaren Zentralen Messverfahrens**  
+Sie können das Speichern von Cookies auf Ihrer Festplatte verhindern, indem Sie in Ihren Browser-Einstellungen "keine Cookies akzeptieren" wählen. Sie können Ihren Browser auch so einstellen, dass dieser Sie vor dem Setzen von Cookies fragt, ob Sie einverstanden sind. Schließlich können Sie auch einmal gesetzte Cookies jederzeit wieder löschen. Wie all das im Einzelnen funktioniert, entnehmen Sie bitte der Anleitung Ihres Browser-Herstellers oder folgender Anleitung: http://www.meine-cookies.org/cookies\_verwalten/index.html. Wenn Sie keine Cookies akzeptieren, kann dies im Einzelfall zu Funktionseinschränkungen der Webseite führen. Auch ohne aktive Löschung wird der Cookie jedoch nach Ablauf von zwölf Monaten automatisch gelöscht.  
+  
+**Zielgruppenbezogene Werbung**  
+  
+Zur Steuerung zielgruppenbezogener Werbung werden durch die 1&1 Mail &. Media GmbH Informationen über Ihre Aktivitäten auf unserer Webseite (z.B. geklickte Werbebanner, besuchte Unterseiten etc.) unter einem Pseudonym erfasst und gegebenenfalls in Zusammenhang mit anonymen Daten aus Online-Fragebögen verwendet, um Ihnen im Rahmen unserer Angebote interessengerechte Werbung auszuliefern. Die aus technischen Gründen übermittelte IP Adresse Ihres Rechners wird dabei von einem unabhängigen Dritten vollständig anonymisiert und nicht für die gesteuerte Einblendung von Werbung verwendet. Das anerkannte Datenschutzgütesiegel vom Unabhängigen Landeszentrum für Datenschutz (ULD) bestätigt die datenschutzrechtliche Zulässigkeit unseres für Werbeeinblendungen verwendeten Systems TGP_open_. Eine persönliche Identifikation ist aufgrund dieser Maßnahmen nicht möglich.  
+  
+**Deaktivierung zielgruppenbezogener Werbung**  
+  
+Wenn Sie keine gesteuerten Werbeeinblendungen erhalten möchten, klicken Sie bitte auf folgenden Opt-Out-Link. Bitte beachten Sie, dass Sie für den Fall einer Cookie-Löschung auch den Opt-Out-Link erneut aktivieren müssen. **6\. Selbstregulierungskodex des DDOW**  
+  
+Der 1&1 Mail und Media GmbH ist ein praktikabler Datenschutz ihrer Nutzer in Bezug auf nutzungsbasierte Online-Werbung wichtig. Über die gesetzlichen Vorgaben und die strikte Pseudonymisierung der erhobenen Daten hinaus befolgen wir deshalb die selbstregulativen Vorgaben des IAB Europe Framework for Online Behavioral Advertising und des Deutschen Datenschutzrates Online-Werbung in Bezug auf nutzungsbasierte Online-Werbung. Den gültigen Selbstregulierungskodex können Sie unter folgendem Link einsehen: www.meine-cookies.org/ddow.html. **7\. Datenschutzerklärung zur Nutzung des Skalierbaren Zentralen Messverfahrens**  
   
 Unsere Website nutzt das Skalierbare Zentrale Messverfahren (SZM) der Fa. INFOnline (https://www.infonline.de) für die Ermittlung statistischer Kennwerte zur Nutzung unserer Angebote. Dabei werden anonyme Messwerte erhoben. Die SZM- Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen alternativ entweder einen Cookie mit der Kennung ivwbox.de oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers erstellt wird. IP-Adressen werden in dem Verfahren nicht gespeichert und nur in anonymisierter Form verarbeitet.  
   
@@ -47,11 +57,9 @@ Die Reichweitenmessung wurde unter der Beachtung des Datenschutzes entwickelt. Z
   
 Für Web-Angebote, die Mitglied der Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V. (IVW  www.ivw.eu) sind oder an der Studie internet facts der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF  www.agof.de) teilnehmen, werden die Nutzungsstatistiken monatlich von der AGOF und der Arbeitsgemeinschaft Media-Analyse e.V. (ag.ma - www.agma-mmc.de), sowie der IVW veröffentlicht und können unter http://www.agof.de, http://www.agma-mmc.de und http://www.ivw.eu eingesehen werden.  
   
-Neben der Veröffentlichung von Messdaten überprüft die IVW das SZM-Verfahren regelmäßig im Hinblick auf eine regel- und datenschutzkonforme Nutzung.  
+Neben der Veröffentlichung von Messdaten überprüft die IVW das SZM-Verfahren regelmäßig im Hinblick auf eine regel- und datenschutzkonforme Nutzung. Weitere Informationen zum SZM-Verfahren finden Sie auf der Website der INFOnline GmbH (https://www.infonline.de), die das SZM-Verfahren betreibt, der Datenschutzwebsite der AGOF (http://www.agof.de/datenschutz) und der Datenschutzwebsite der IVW (http://www.ivw.eu).  
   
-Weitere Informationen zum SZM-Verfahren finden Sie auf der Website der INFOnline GmbH (https://www.infonline.de ), die das SZM-Verfahren betreibt, der Datenschutzwebsite der AGOF (http://www.agof.de/datenschutz) und der Datenschutzwebsite der IVW (http://www.ivw.eu).  
-  
-Sie können der Datenverarbeitung durch das SZM unter folgendem Link widersprechen: http://optout.ivwbox.de. **7\. Auskünfte**  
+Sie können der Datenverarbeitung durch das SZM unter folgendem Link widersprechen: http://optout.ivwbox.de. **8\. Auskünfte**  
   
 Wir erteilen Ihnen auf Verlangen unentgeltlich und unverzüglich Auskunft über die zu Ihrer Person gespeicherten Daten. Wenden Sie sich hierfür bitte schriftlich an  
   
@@ -60,10 +68,10 @@ Datenschutz
 Elgendorfer Str. 57  
 56410 Montabaur  
   
-oder per E-Mail an: datenschutz@webde.de **8\. Änderung der Datenschutzhinweise**  
+oder per E-Mail an: datenschutz@webde.de **9\. Änderung der Datenschutzhinweise**  
   
 Bitte beachten Sie, dass diese Datenschutzhinweise jederzeit unter Beachtung der geltenden Datenschutzvorschriften geändert werden können. Es gilt immer die zum Zeitpunkt Ihres Besuchs abrufbare Fassung.  
   
 Falls Sie noch Fragen haben, können Sie uns gerne ebenfalls unter den oben genannten Adressen kontaktieren.  
   
-Oktober 2011
+August 2012
