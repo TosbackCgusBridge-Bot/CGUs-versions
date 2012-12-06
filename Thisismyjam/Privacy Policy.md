@@ -1,4 +1,4 @@
-Music sharing that matters! Give your favorite song a home.  Yes, make my page
+Share your favorite song. Play all your friends’ songs in one click. It’s that simple. Slow music = good music!  Yes yes, Sign Me Up
 
 *   Home
 *   About
