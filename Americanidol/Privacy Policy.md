@@ -33,8 +33,8 @@ American Idol.com Home RETURNS WED JAN 16 &. THU JAN 17 8/7c American Idol Searc
     *   Moments That Make You Smile
     *   Recaps
     *   Idol Style
-    *   Idol Crew
     *   Idol Alumni
+    *   Idol Crew
 *   Community
     *   Idol Nation Fan Hub
     *   Idol Nation Fan Wall
