@@ -5,6 +5,7 @@ Rachael Ray
     *   Blog
     *   Food Articles
     *   Recipe Search
+    *   Christmas Cookie of the Day
     *   Recipes On the Go!
     *   Easy Weeknight Meals
     *   Holiday Entertaining
