@@ -357,6 +357,13 @@ We offer FREE SHIPPING on select styles every day with a FIT GUARANTEE that offe
 
 \*Please note: This offer is valid only on eligible items, and does not apply to in-store orders. Offer is limited to standard ground delivery within the 48 contiguous United States and APO/FPO addresses. Excludes bulk orders and drop ships. Entire order must ship to a single address. Does not apply to prior purchases or open orders. Free return shipping is limited to exchanged items only. May not be used toward purchase of Gift Cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply.
 
+  
+FREE SHIPPING on ORDERS OVER $75 with FIT GUARANTEED\*
+
+We offer FREE SHIPPING on ORDERS OVER $75 with a FIT GUARANTEE that offers free returns or exchanges at any Champs Sports store if your kicks or clothing don't fit just right.
+
+\*Use promotion code IPCH2W67 at checkout. Promotion/source code box is located in step 4 of checkout. Order value must total $75 or more before services, taxes, shipping and handling. Valid online at champssports.com, by phone or mail. Offer is limited to standard ground delivery within the 48 contiguous United States and APO/FPO addresses. Excludes bulk orders and drop ships. Entire order must be shipped to a single address. Does not apply to prior purchases or open orders and cannot be combined with any other offer. Customer is responsible for shipping costs on returned merchandise. May not be used toward purchase of Gift Cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply. Offer expires 12/31/2012 (11:59 pm CT).
+
 *   My Account
 *   Order Information
 *   Shipping Information
