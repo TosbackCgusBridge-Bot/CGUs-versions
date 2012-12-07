@@ -43,6 +43,7 @@ December 10 for $10 Promotion - 11/30/2012
 Income Share (including bonus for Leads, Moderators, and Advisers) is processed by the 15th of each month. Checks are processed on the 15th and mailed out soon after.  
   
 December  
+Income Share - 12/06/2012  
 Mod &. CL Bonus - 12/04/2012  
   
 November  
@@ -67,13 +68,6 @@ Most Popular Lists - 08/14/2012
 Advisor Bonus - 08/14/2012  
 Income Share - 08/09/2012  
 Mod &. CL Bonus - 08/09/2012  
-  
-July  
-June Sweepstakes Payout - 07/17/2012  
-Most Popular Lists - 07/09/2012  
-Advisor Bonus - 07/09/2012  
-Income Share - 07/06/2012  
-Mod &. CL Bonus - 07/06/2012  
 
 **Shopping.com Network Privacy Policy**
 
