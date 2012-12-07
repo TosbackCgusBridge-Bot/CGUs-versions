@@ -41,7 +41,7 @@ Mes services privilèges
 *   ÉLECTRO,  
     BEAUTÉ
 *   HIGH-TECH,  
-    JEUX
+    JEUX VIDÉO
 *   LES  
     AUBAINES
 
