@@ -10,7 +10,7 @@ When visiting our website, we may place one or more cookies (a small file that i
 
 How we use information
 
-We use the information we collect to provide the Services and to communicate with you. We may disclose information (including personal information) to other companies in our group and may use and share, within the group, information that we learn from your interactions with us. We will only share your personal information outside our group in the following circumstances:
+We use the information we collect to provide the Services and to communicate with you. We may disclose information (including personal information) to other companies in our group (http://www.dmgt.co.uk/footer/dmgt) and may use and share, within the group, information that we learn from your interactions with us. We will only share your personal information outside our group in the following circumstances:
 
 *   When you have consented or directed us to share the information.
 *   With service providers or affiliate companies who perform services on our behalf.
