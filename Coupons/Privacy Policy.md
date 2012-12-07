@@ -1,5 +1,3 @@
-Contact Us | Login Privacy Policy
-
 This Privacy Policy is effective as of October 20, 2006.  
 This Privacy Policy was last modified on April 20, 2012.
 
@@ -188,5 +186,3 @@ Coupons.com Incorporated
 400 Logue Ave.  
 Mountain View, CA 94043  
 Attn: Privacy
-
-Contact Us  |  Login  |  Privacy Policy  |  Terms of Use  |  Coupons.com © 2012 Coupons.com Incorporated. All Rights Reserved.
