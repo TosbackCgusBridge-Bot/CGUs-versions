@@ -1,6 +1,6 @@
 HUFFINGTONPOST.COM: PRIVACY POLICY  
 
-The Huffington Post, which owns and operates the website www.huffingtonpost.com (the "Site"), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site. how this information may be used and disclosed. how you can control the use and disclosure of your information. and how your information is protected. If you have any questions about this privacy policy, please contact our privacy team at privacy@huffingtonpost.com.  
+The Huffington Post, a wholly-owned subsidiary of AOL Inc., which owns and operates the website www.huffingtonpost.com (the "Site"), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site. how this information may be used and disclosed. how you can control the use and disclosure of your information. and how your information is protected. If you have any questions about this privacy policy, please contact our privacy team at privacy@huffingtonpost.com.  
 
 1.  Scope
 2.  What information the Site collects
