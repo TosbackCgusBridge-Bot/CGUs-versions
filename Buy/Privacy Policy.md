@@ -21,7 +21,6 @@ Click here to take our short survey.
 *   Health &. Beauty
 *   Toys &. Baby
 *   Sports &. Bags
-*   More
 
 X Sign Up For Our Best Deals Alert! Enter your email address:  
   Privacy Policy At Buy.com, your privacy is a top priority. Please read our privacy policy details.  
