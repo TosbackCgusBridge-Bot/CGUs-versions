@@ -189,4 +189,4 @@ Coupons.com Incorporated
 Mountain View, CA 94043  
 Attn: Privacy
 
-Contact Us  |  Login  |  Privacy Policy  |  Terms of Use  |  Coupons.com © 2012 Coupons.com Incorporated. All rights reserved.
+Contact Us  |  Login  |  Privacy Policy  |  Terms of Use  |  Coupons.com © 2012 Coupons.com Incorporated. All Rights Reserved.
