@@ -1,7 +1,3 @@
-Close Window Print  
-  Go Daddy  
-Privacy Policy
-
 **Last Revised: June 29, 2012**
 
 Go Daddy Respects your privacy
@@ -112,7 +108,3 @@ ATTN: Web Team
 14455 North Hayden Rd.  
 Suite 219  
 Scottsdale, AZ, 85260, U.S.A.
-
-  
-Revised: 6/29/2012  
-Copyright © 2000-2012 GoDaddy.com, LLC All Rights Reserved. close **Este Acuerdo traducido se proporciona solamente como una comodidad y no más para facilitar la lectura y la comprensión de la versión en ingles. El propósito de proporcionar el Acuerdo en idioma extranjero no es para crear un acuerdo jurídicamente vinculante, ni es un substituto para la validez legal de la versión en ingles. En caso de cualquier controversia o conflicto, la versión en ingles de este Acuerdo en todos los casos gobernará nuestra relación y prevalecerá sobre los términos en cualesquier otro idioma.** Close
