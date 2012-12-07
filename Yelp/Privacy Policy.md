@@ -31,7 +31,7 @@
         *   Svenska (Sverige)
 *   Log In
 *   Sign Up for Yelp
-*   *   Yelp is using Facebook to personalize your experience.
+*   Yelp is using Facebook to personalize your experience. Options
     *   What is this?
     *   Not you?  
         Log out of Facebook
