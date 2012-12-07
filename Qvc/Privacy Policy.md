@@ -449,11 +449,15 @@ Brands
   
 Loading Results QVC : pagenotfound pagenotfound
 
-No Results Found
+QVC Quick Links:
 
-We were unable to find a product match based on the criteria you selected. Try selecting different criteria or select a different combination to find a product you like.
-
-Choose OK if this is what you want to do. Otherwise, choose Cancel.
+*   Current Item On Air
+*   Items Recently On Air
+*   _Today's Special Value_®
+*   New Arrivals
+*   Watch QVC TV Live
+*   TV Program Guide
+*   QVC Sprouts
 
 *   Head to our homepage.
 *   Use our "search" box above.
