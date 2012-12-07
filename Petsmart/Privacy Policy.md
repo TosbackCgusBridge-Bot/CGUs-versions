@@ -320,3 +320,5 @@ Sale prices valid in stores and online November 26 - December 30, 2012 unless ot
 Any discount or special offer on this website, including PetPerks offers, are not valid in Puerto Rico unless an offer specifically includes Puerto Rico.
 
 Cualquier descuento u oferta especial en esta página, incluyendo las ofertas de PetPerks, no son válidas en Puerto Rico a menos que alguna oferta en específico indique lo contrario.
+
+This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
