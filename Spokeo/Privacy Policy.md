@@ -49,5 +49,5 @@ _( Ex: "http://www.spokeo.com/search?q=Smith%20Sample#Sample:12345678" )_ _To co
 *   Terms
 *   Directory
 *   Affiliates
-*   Faqs
+*   Angels
 *   Contact
