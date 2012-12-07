@@ -97,6 +97,7 @@ Before you can transmit a postcard, you are required to read and agree to the te
 *   Traditions
 *   Lehigh &. the Community
 *   Events, Venues &. Directions
+*   Prospective Graduate Students
 
  
 
