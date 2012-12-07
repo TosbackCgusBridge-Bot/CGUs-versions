@@ -1,29 +1,4 @@
-Click here to take our short survey.
-
-*   My Account My Account Track Your Order Super Point Balance Wish List
-*   Help
-
-  facebook twitter Type to Search for Products **Suggested Searches**
-
-  All CategoriesBabyBagsBooksCell PhonesClothing &. ShoesComputersCostumesDigital CamerasElectronicsEverything ElseFood, Wine, and GourmetHealth &. BeautyHome and OutdoorJewelry and WatchesMovies &. TVMusicMusical InstrumentsNetworkingOffice SuppliesPet SuppliesSoftwareSportsToysTV &. HDTVVideo Games X
-
-*   Deals
-*   Computers &. Office
-*   Clothing,  
-    Shoes, Jewelry
-*   Electronics
-*   Wine,  
-    Gourmet, Gifts
-*   Video Games
-*   Books,  
-    Movies, Music
-*   Home &. Household
-*   Health &. Beauty
-*   Toys &. Baby
-*   Sports &. Bags
-
-X Sign Up For Our Best Deals Alert! Enter your email address:  
-  Privacy Policy At Buy.com, your privacy is a top priority. Please read our privacy policy details.  
+  
 Overview  
 Our Internet Superstore allows you to buy products and services, sign up for a gift registry, enter contests, receive special discounts, apply for credit, fill out surveys, and receive newsletters, e-mails or other promotional information from us. We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This Policy may change from time to time, so please check back periodically. Except as limited below, we reserve the right to use or disclose your personally identifiable information for business reasons in whatever manner desired  
   
@@ -254,10 +229,3 @@ This Privacy Policy will explain the following regarding use of our site:
     
 12.  Privacy Policy changes  
     This Privacy Policy was last changed on July 30, 2009. If Buy.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise.
-
-  
-  Need more Help? You can find the answers to most questions in the Buy.com Help Center , or contact Customer Support.    
-Copyright 1997-2012 Buy.com Inc., All rights reserved.  
-Buy.com Privacy Policy Terms of Use
-
-This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
