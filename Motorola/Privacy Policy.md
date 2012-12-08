@@ -10,6 +10,7 @@ More Details
 **How is my personal information used?**  
 
 *   We may use personal information to facilitate order processing. to contact you if a problem arises with your order. to facilitate the employment application process. or for other uses consistent with this statement.
+*   We may also use personal information to provide you with a personalized Internet or mobile application experience that delivers the information, resources, and services that are most relevant and helpful to you.
 *   Except as outlined in this statement or on our web sites, we do not provide your personal information to third parties without your consent.
 *   We share the information you provide with Motorola subsidiaries and related companies.
 *   We may also share your personal information with third-party business partners so that they may provide services to Motorola that are consistent with this statement and our web sites, or as part of a specific product, service, or promotion.
@@ -19,7 +20,7 @@ More Details
 
 **What choices do I have?**  
 
-*   If you do not want to receive e-mail, direct mail or targeted advertisements regarding our products and services, simply tell us when you provide your personal information or by following the directions on our web sites to remove your name from our mailing list(s).
+*   If you do not want to receive e-mail, direct mail or targeted advertisements regarding our products and services, simply tell us when you provide your personal information or by following the directions on our web sites and within this privacy statement to remove your name from our mailing list(s) and those of third party advertising services used by Motorola.
 *   You have the right to access (review, correct, amend or delete) your personal information by contacting Motorola.
 *   If you have established a "user profile" on a Motorola web site, you may change the information you provided by visiting that portion of the web site and resubmitting your information.
 
@@ -39,7 +40,9 @@ More Details
 
 More Details
 
-**How do I contact Motorola?**  
+**How do I contact Motorola?**
+
+  
 
 *   Please direct any questions concerning Motorola's privacy practices to privacy@motorola.com. Requests to unsubscribe from ("opt-out" of) communications from Motorola may also be directed to privacy@motorola.com. Or, mail your inquiry/request to:  
       
@@ -64,7 +67,7 @@ When a visitor places an order with us, Motorola may collect personal informatio
   
 In addition to ordering and registration, we may ask you for and collect personal information at other times, including when you enter a sweepstakes or contest. participate in a promotion or marketing campaign sponsored by Motorola or one of its business partners. when you want to find out about service offered in your area. when you complete surveys or other questionnaires. when you participate in a user forum or blog hosted by Motorola or one of its business partners. when you send an email to Motorola. when you express interest in employment with Motorola. or when you engage in other activities on the sites.  
   
-In addition, our web server logs collect the domain names of visitors to our web sites. This information is aggregated to measure number of visits, average time spent on a Motorola web site, pages viewed and web site usage information. We use this information to measure the use of our sites and to improve the content of our sites. Aggregated information is not used in such a form that would enable direct connection of any personal information to our visitors.
+In addition, our web server logs collect the domain names of visitors to our web sites. This information is aggregated to measure number of visits, average time spent on a Motorola web site, pages viewed and web site usage information. We use this information to measure the use of our sites. to improve the content of our sites. and to provide you with a personalized Internet or mobile application experience that delivers the information, resources, and services that are most relevant and helpful to you. Aggregated information is not used in such a form that would enable direct connection of any personal information to our visitors.
 
 Top
 
@@ -75,14 +78,27 @@ In addition, Motorola's web sites may allow third party vendors to provide produ
 
 Top
 
-**What about cookies?**  
-When you enter our site, our server may attach a small text file to your hard drive — a cookie. Your unique cookie tells us that it is you whenever you re-enter our site, so we can recall where you have previously been on our site, and what, if anything, you have in your shopping cart. Cookies help us deliver a better web site experience to our users.
+**What about cookies and related third party services?**  
+In order to offer and provide a customized and personalized experience, Motorola may use cookies, including GoogleAnalytics and DoubleClick cookies, to store and help track information about you. Cookies are simply small pieces of data that are sent to your browser from a web server and stored on your computer's hard drive. Motorola uses cookies to help remind us who you are and to help you navigate our sites during your visits. Cookies enable us to save passwords and preferences for you so you won't have to re-enter them each time you visit.
 
-We may also use cookies to measure traffic patterns, and which areas of the Motorola site you have visited, and your visiting patterns. This information collected by using a cookie is sometimes called "clickstream." We use this information to understand how our users navigate our site, and to determine common traffic patterns, including what site the user came from. We use this information to make site navigation and product recommendations, and to help redesign our site in order to make your experience on our site more efficient and enjoyable.  
+Motorola may also use cookies to measure traffic patterns, and which areas of the Motorola site you have visited, and your visiting patterns. This information collected by using a cookie is sometimes called "clickstream." Motorola may use this information to understand how our users navigate our site, and to determine common traffic patterns, including what site the user came from. We use this information to simplify site navigation, to make product recommendations and to help redesign our site in order to make your experience on our site more efficient and enjoyable.  
   
-We may also use this information to better personalize the content, banner ads, and promotions that you and other users will see. This helps Motorola deliver you the content you want when you want it, in order for you to make better purchasing decisions. Motorola uses a third party to track user clickstreams.  
+The use of cookies is relatively standard. Most browsers are initially set up to accept cookies. However, if you are not happy, you can choose to:  
+
+*   not use our sites
+*   set your browser to notify you when you receive a cookie
+*   set your browser to refuse to accept cookies
+*   delete our cookies after visiting our site
+*   browse our site using your browser's anonymous usage setting (called "Incognito" in Chrome, "InPrivate" for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
+
   
-You have choices with respect to cookies. By modifying your Internet browser preferences, you have the ability to accept all cookies, to be notified when a cookie is set, or to reject all cookies. Please note that, if you choose to reject all cookies you will be unable to use those services or engage in activities that require the placement of cookies.
+
+You should understand that some features of the Motorola web site may not function properly if you don't accept cookies.  
+  
+If you do not know how to control or delete cookies, or would like to opt-out of receiving certain targeted ads based on your browsing history, then we recommend that you visit http://www.networkadvertising.org/choices/ for detailed guidance, including opt-out instructions. If you would like to opt-out of Google Analytics for Display Advertisers and/or opt out of the customized Google Display Network, you may do so by visiting the Ads Preferences Manager. You may also wish to utilize the Google Analytics Opt-out Browser Add-on. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+
+**Third Party Services**  
+Motorola may use services hosted by third parties, such as Google Analytics for Display Advertisers, to assist in providing our services and to help us understand our customers' use of our websites and products. These services may collect information, such as your IP address, sent by your browser or via cookies. This information may be used to measure website trends and to deliver a Motorola product advertisement while browsing a website, These ads are delivered based on a user's visit to the Motorola website. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.
 
 Top
 
@@ -96,26 +112,25 @@ Finally, we may also ask for your personal information when you express an inter
 Top
 
 **With whom does Motorola share my personal information?**  
-
 Except as outlined in this policy or on our web sites, Motorola does not provide your personal information to third parties without your consent. Please note that, in special cases, we may need to share information without acquiring consent, such as when we believe in good faith that the law requires it, or to identify, contact or bring legal action against someone who may be violating our sites' Terms of Use or may be violating Motorola's or other's rights or causing injury to or interference with Motorola's or other's property.  
   
 In addition, Motorola shares the information you provide with Motorola subsidiaries and related companies. If you purchase a cellular phone, modem or other device requiring service, your personal information is shared with the service provider/carrier with whom you subscribe. Additionally, if you express an interest in a product requiring a particular type of service, Motorola may share your personal information with your local service provider in order to determine whether such service is available in your area.  
   
-Motorola may share your personal information with third-party business partners so that they may provide services to Motorola that are consistent with the terms of this Privacy Policy, and this web site (e.g. database management, sending targeted emails, software sales, and conducting sweepstakes and other promotions on behalf of Motorola). Motorola takes great pride in utilizing only reputable business partners. Motorola may also, on occasion, provide personal information to third-party businesses as part of a specific product, service, or promotion.  
-  
-Motorola shares web site usage information about visitors to our web sites, who have received a targeted promotional campaign, with reputable third-party advertising companies for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising companies note some of the pages you visit on our web sites through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising companies through the use of these pixel tags is not personally identifiable.
+Motorola may share your personal information with third-party business partners so that they may provide services to Motorola that are consistent with the terms of this Privacy Policy, and this web site (e.g. database management, sending targeted emails and advertisements, software sales, and conducting sweepstakes and other promotions on behalf of Motorola). Motorola takes great pride in utilizing only reputable business partners. Motorola may also, on occasion, provide personal information to third-party businesses as part of a specific product, service, or promotion.
+
+Motorola shares web site usage information about visitors to our web sites, who have received a targeted promotional campaign, with reputable third-party advertising companies for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising companies note some of the pages you visit on our web sites through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising companies through the use of these pixel tags is not personally identifiable. Please see the foregoing description of our use of cookies and related third party services and the choices available to you.
 
 **What choices do I have regarding collection, use and distribution of my personal information?**  
-Motorola or its business partners may, from time to time, send you email or direct mail regarding our products and services. If you do not want to receive such information, simply tell us when you give us your personal information, or follow the directions contained on the mailing to remove your name from our mailing list(s).  
-  
+Motorola or its business partners may, from time to time, send you email or direct mail regarding our products and services. If you do not want to receive such information, simply tell us when you give us your personal information, or follow the directions contained on the mailing to remove your name from our mailing list(s).
+
 On certain types of Motorola promotions, we will ask for your email address in order to contact you in the event you have won a prize. When you participate in these types of promotions, you may receive promotion-related email. Occasionally these promotion-related email messages may include targeted advertisements. If you do not wish to receive such advertisements, you can choose not to participate in such promotions or contests.
 
 Please note that by refusing to provide personal information or by denying or withdrawing consent to use personal information for purposes identified, you may be unable to participate in certain programs or activities sponsored by Motorola.  
   
 You also have the right to access (review, correct, amend or delete) your personal information by contacting Motorola. Individuals are responsible for providing Motorola with accurate and complete personal information, and for contacting Motorola if correction of such information is required. Please note that, where permitted, we may charge a nominal fee for fulfilling access requests and that we reserve the right to disallow unreasonable requests for access.  
   
-If you have established a "user profile" on a Motorola web site, you may change the information you provided by visiting that portion of the web site and resubmitting your information.  
-  
+If you have established a "user profile" on a Motorola web site, you may change the information you provided by visiting that portion of the web site and resubmitting your information.
+
 Please direct any questions concerning Motorola's privacy practices to privacy@motorola.com. Requests to unsubscribe from ("opt-out" of) communications from Motorola may also be sent to privacy@motorola.com. Inquiries or requests may be mailed to:  
   
 Motorola Mobility, Inc.  
@@ -128,10 +143,10 @@ USA
 Top
 
 **What about information security?**  
-When you place an order or provide personal information, we employ certain technical and organization security measures, such as encryption where appropriate. Encryption scrambles the information in your purchase, including your credit card number, so this information can only be viewed by Motorola. Motorola currently uses Secure Socket Layer (SSL) encryption technology, where appropriate, for Internet-based transactions.  
-  
-However, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we have taken appropriate steps to protect your personal information, Motorola cannot ensure or otherwise warrant the security of any information you provide to us or from our Web site, and therefore you use our site at your own risk.  
-  
+When you place an order or provide personal information, we employ certain technical and organization security measures, such as encryption where appropriate. Encryption scrambles the information in your purchase, including your credit card number, so this information can only be viewed by Motorola. Motorola currently uses Secure Socket Layer (SSL) encryption technology, where appropriate, for Internet-based transactions.
+
+However, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we have taken appropriate steps to protect your personal information, Motorola cannot ensure or otherwise warrant the security of any information you provide to us or from our Web site, and therefore you use our site at your own risk.
+
 As a global company Motorola has international sites and users all over the world. The personal information you provide may be transmitted, used, stored and otherwise processed outside of the country where you submitted that information, including jurisdictions that may not have data privacy laws that provide equivalent protection to such laws in your home country. Whenever Motorola handles personal information, regardless of where this occurs, we take appropriate steps to ensure that your information is treated securely and in accordance with the relevant Terms of Use, this Privacy Statement and all applicable laws and regulations.
 
 Top
