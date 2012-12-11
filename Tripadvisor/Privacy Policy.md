@@ -1,46 +1,4 @@
 *   Home
-*   Hotels Search city Search hotel name Check-in Check-out Leave dates blank Find Hotels  
-    
-    The world's best hotels. Get the list.
-    
-*   Flights
-*   Vacation Rentals
-*   Restaurants City All Cuisines African American Asian Bakery Barbecue British Cafe Cajun &. Creole Caribbean Chinese Continental Delicatessen Dessert Eastern European Fusion/Eclectic European French German Global/International Greek Indian Irish Italian Japanese Mediterranean Mexican/Southwestern Middle Eastern Pizza Pub Seafood Soups South American Spanish Steakhouse Sushi Thai Vegetarian Vietnamese Any Price $$$$$$$$$$ Find Restaurants
-*   Best of 2012
-*   Your Friends Travel is better with friends. Get inspired by your friends and share your travel plans. Learn more
-*   More
-    *   Trip Ideas
-    *   Travel Forum
-    *   Apps
-    *   Cruises
-    *   Travel Guides
-*   Write a Review
-
-*   Sign in with Facebook
-*   Sign in
-*   Register Now!
-*   FREE Mobile App
-
-*   About TripAdvisor
-*   Help Center
-*   Fact sheet
-*   Our team
-*   Jobs
-*   Privacy policy
-*   Copyright Complaint policy
-*   Terms of Use
-*   Mobile Terms of Use
-*   Press center
-*   In the news
-*   Press releases
-*   Survey insights
-*   Awards
-*   Get listed
-*   Write a review
-*   Management response
-*   Travel Advisories
-
-*   Home
 
 Privacy policy
 
@@ -198,13 +156,3 @@ Newton, MA 02464, USA
 ©2012 TripAdvisor LLC. All rights reserved.  
 
 This Privacy Policy is effective as of July 1, 2011
-
-About TripAdvisor®
-
-TripAdvisor® features reviews and advice on hotels, resorts, flights, vacation rentals, vacation packages, travel guides, and lots more.
-
-Reviews and advice on hotels, resorts, flights, vacation rentals, travel packages, and lots more!
-
-Select a TripAdvisor site:
-
-About Us | Write a review | Careers | Site Map | Top Cities | Owners | Help Center | Business Listings | DMO/CVB | Investor Relations © 2012 TripAdvisor LLC All rights reserved. TripAdvisor Terms of Use and Privacy Policy. \* TripAdvisor LLC is not a booking agent and does not charge any service fees to users of our site... (more) TripAdvisor LLC is not responsible for content on external web sites. Taxes, fees not included for deals content.
