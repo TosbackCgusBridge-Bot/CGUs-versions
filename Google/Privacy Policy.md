@@ -1,20 +1,3 @@
-Beleid en principes
-
-*   Overzicht
-*   Privacy
-    *   Privacybeleid
-    *   Adverteren
-    *   Cookies
-    *   Principes
-    *   Hulpprogramma’s
-    *   Veelgestelde vragen
-*   Servicevoorwaarden
-
-*   Huidige versie
-*   Eerdere versies
-*   Zelfregulerende richtlijnen
-*   Belangrijke termen
-
 Privacybeleid
 
 Laatst aangepast: 27 juli 2012 (gearchiveerde versies weergeven)
@@ -178,9 +161,3 @@ In de volgende kennisgevingen worden specifieke privacybeleidsregels uitgelegd m
 *   Google Boeken
 *   Google Wallet
 *   Fiber
-
-Afrikaans Bahasa Indonesia Bahasa Melayu Català Čeština Dansk Deutsch Eesti English English (United Kingdom) Español Español (Latinoamérica) Euskara Filipino Français Français (Canada) Galego Hrvatski Isizulu Íslenska Italiano Kiswahili Latviešu Lietuvių Magyar Nederlands Norsk Polski Português (Brasil) Português (Portugal) Română Slovenčina Slovenščina Suomi Svenska Tiếng Việt Türkçe Ελληνικά Български Русский Српски Українська עברית اردو العربية فارسی አማርኛ मराठी हिन्दी বাংলা ગુજરાતી தமிழ் తెలుగు ಕನ್ನಡ മലയാളം ไทย 한국어 中文 (中国) 中文 (台灣) 中文 (香港) 日本語
-
-*   Google
-*   Over Google
-*   Privacy en voorwaarden
