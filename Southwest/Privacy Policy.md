@@ -1,9 +1,7 @@
 Go to the Southwest Airlines Homepage
 
-*   **southwest**giftcard® 
-*    | The Southwest Travel Experience
+*   **southwest**giftcard®
 *    | Sign Up 'n Save
-*    | Travel Fees
 *    | Help 
 *   *    | Español
 *   Travel Tools
@@ -76,6 +74,7 @@ Go to the Southwest Airlines Homepage
         *   Cancel Reservation
         
         *   Preferred Partners
+        *   Best Rate Guarantee
         *   Room Types
     *   Car
         
