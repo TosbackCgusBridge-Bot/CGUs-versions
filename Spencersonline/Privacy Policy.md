@@ -1,59 +1,3 @@
-*   Help
- | *   Order Status
- | *   My Account
- | *   Store Locator
- 
-
-Live Chat 0 ITEM(S) Item added to cart Size: ADULT SMALL Price: $59.99 Qty: 1 2Item(s) in your cart Subtotal $159.98 View your cart
-
-*   TRENDS &. MUSIC
-*   HOLIDAY
-*   BRANDS
-*   SALE
-
-*   STUFF TO WEAR
-    NewSaleGirls Tees &. ClothingGuys Tees &. ClothingBabyBody JewelryJewelryHatsBelts &. BucklesWallets &. KeychainsBagsAccessoriesFleece with SleevesFootwearSkin SuitsContact Lenses
-
-*   NAUGHTY
-    NewSaleVibratorsBondageMen's PleasureNaughty NoveltyLotions &. PotionsLingerieBachelorette PartyGifts
-
-*   FUN &. GAMES
-    NewSaleDrinkingBachelorette PartyBirthdayHumorBooksGames &. PuzzlesJust For FunGirls Night OutCalendars
-
-*   HOME &. DORM
-    NewSalePostersLava LampsParty LightingTech ToysCollectible FiguresLaptop AccessoriesGlasswareWall ArtPillows &. BlanketsFleece with SleevesHome AccessoriesEarbuds and HeadphonesBlacklight Accessories
-
-Home  /  Privacy Policy
-
-*   About Spencer's
-*   Guest Service
-    *   Guest Support
-    *   Order Info
-    *   Shipping FAQs
-    *   Returns &. Exchanges
-    *   Bill Payment
-    *   Product Support
-    *   Order Status
-    *   Store Locator
-*   Product Information
-    *   Beer Pong
-    *   Body Jewelry
-    *   Fart Machines
-    *   Gag Gifts
-    *   Lava Lamps
-    *   Pole Dancing
-    *   Sex Toys
-*   Privacy Policy
-*   Statement of Corporate Position
-*   Terms and Conditions
-*   Job Opportunities
-*   Site Map
-*   Affiliates
-*   Recall Safety Notice
-*   Contact Us
-*   Social Responsibility
-
-  
 Do you have a security guarantee?
 
 *   Absolutely. We take your business seriously and will use every precaution necessary to ensure that your shopping experience is safe and exciting! We use McAfee Secure to keep your private information and credit card information as secure as possible.
@@ -97,9 +41,3 @@ Confidentiality and Security
 Changes to this Privacy Policy
 
 *   Spencer may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to your email address.
-
-FOLLOW US MOBILE SITE Optimized for mobile devices COMPANY Store Locator About Us Privacy Policy Affiliates Press Room Social Responsibility ACCOUNT My Account Guest Service JOBS Job Opportunities Job Application GIVING Boobies Make Me Smile EMAIL SIGN UP BE THE FIRST TO FIND OUT ABOUT  
-GREAT STORE SPECIALS AND  
-ONLINE DEALS!
-
-Copyright © 2012 Spencer Gifts, llc. All rights reserved.
