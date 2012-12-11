@@ -1,20 +1,3 @@
-Règles et principes
-
-*   Présentation
-*   Confidentialité
-    *   Règles de confidentialité
-    *   Publicité
-    *   Cookies
-    *   Principes
-    *   Outils
-    *   FAQ
-*   Conditions d’utilisation
-
-*   Version actuellement en vigueur
-*   Versions précédentes
-*   Chartes d’autorégulation
-*   Mots clés
-
 Règles de confidentialité
 
 Date de la dernière modification : 27 juillet 2012 (voir les versions archivées)
@@ -178,9 +161,3 @@ Les documents suivants exposent des pratiques spécifiques en matière de confid
 *   Google Livres
 *   Google Portefeuille
 *   Fiber
-
-Afrikaans Bahasa Indonesia Bahasa Melayu Català Čeština Dansk Deutsch Eesti English English (United Kingdom) Español Español (Latinoamérica) Euskara Filipino Français Français (Canada) Galego Hrvatski Isizulu Íslenska Italiano Kiswahili Latviešu Lietuvių Magyar Nederlands Norsk Polski Português (Brasil) Português (Portugal) Română Slovenčina Slovenščina Suomi Svenska Tiếng Việt Türkçe Ελληνικά Български Русский Српски Українська עברית اردو العربية فارسی አማርኛ मराठी हिन्दी বাংলা ગુજરાતી தமிழ் తెలుగు ಕನ್ನಡ മലയാളം ไทย 한국어 中文 (中国) 中文 (台灣) 中文 (香港) 日本語
-
-*   Google
-*   À propos de Google
-*   Règles de confidentialité et conditions d’utilisation
