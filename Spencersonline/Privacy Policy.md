@@ -12,7 +12,7 @@ Live Chat 0 ITEM(S) Item added to cart Size: ADULT SMALL Price: $59.99 Qty: 1 2
 *   SALE
 
 *   STUFF TO WEAR
-    NewSaleGirls Tees &. ClothingGuys Tees &. ClothingBabyBody JewelryJewelryHatsBelts &. BucklesWallets &. KeychainsBagsAccessoriesFleece with SleevesOld School DesignsFootwearSkin SuitsContact Lenses
+    NewSaleGirls Tees &. ClothingGuys Tees &. ClothingBabyBody JewelryJewelryHatsBelts &. BucklesWallets &. KeychainsBagsAccessoriesFleece with SleevesFootwearSkin SuitsContact Lenses
 
 *   NAUGHTY
     NewSaleVibratorsBondageMen's PleasureNaughty NoveltyLotions &. PotionsLingerieBachelorette PartyGifts
