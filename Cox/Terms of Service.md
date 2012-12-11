@@ -326,6 +326,7 @@ Cox Policies
 *   Acceptable Use Policy
 *   Subscriber Agreement
 *   Speeds and Usage Information
+*   WiFi Terms of Service
 *   Residential Telephone Service
 *   Customer Agreement
 *   Business Customers
