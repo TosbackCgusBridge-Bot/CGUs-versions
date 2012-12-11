@@ -4,6 +4,7 @@ Políticas e Princípios
 *   Privacidade
     *   Política de Privacidade
     *   Publicidade
+    *   Cookies
     *   Princípios
     *   Ferramentas
     *   Perguntas frequentes
@@ -181,4 +182,5 @@ Os seguintes avisos explicam as práticas de privacidade específicas em relaç�
 Afrikaans Bahasa Indonesia Bahasa Melayu Català Čeština Dansk Deutsch Eesti English English (United Kingdom) Español Español (Latinoamérica) Euskara Filipino Français Français (Canada) Galego Hrvatski Isizulu Íslenska Italiano Kiswahili Latviešu Lietuvių Magyar Nederlands Norsk Polski Português (Brasil) Português (Portugal) Română Slovenčina Slovenščina Suomi Svenska Tiếng Việt Türkçe Ελληνικά Български Русский Српски Українська עברית اردو العربية فارسی አማርኛ मराठी हिन्दी বাংলা ગુજરાતી தமிழ் తెలుగు ಕನ್ನಡ മലയാളം ไทย 한국어 中文 (中国) 中文 (台灣) 中文 (香港) 日本語
 
 *   Google
+*   Sobre o Google
 *   Privacidade &. Termos
