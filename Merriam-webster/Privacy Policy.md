@@ -14,7 +14,12 @@ Test Your Knowledge » True or False?
 
 A quick quiz about stuff worth knowing
 
-Take It Now » Get Our Free Apps
+Take It Now » Defining Moments
+
+Words that spiked in lookups  
+because of events in the news
+
+...More Get Our Free Apps
 
 Voice Search, Favorites,  
 Word of the Day, and More
