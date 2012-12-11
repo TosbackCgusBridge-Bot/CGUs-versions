@@ -33,6 +33,7 @@
 *   Press center
 *   In the news
 *   Press releases
+*   Survey insights
 *   Awards
 *   Get listed
 *   Write a review
