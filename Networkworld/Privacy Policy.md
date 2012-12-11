@@ -51,7 +51,7 @@ Network World
 *   Data Center
 *   SMB Networking
 *   IT Careers
-*   Toolshed
+*   Gearhead
 *   Tech Debate
 *   Tests
 *   Community
@@ -155,7 +155,6 @@ Network World
 *   Tests
 
 *   Cool Tools
-*   Gearhead
 *   IT Asked &. Answered
 *   White Papers
 *   Webcasts
