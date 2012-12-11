@@ -382,12 +382,12 @@ Michaels Stores, Inc. offers their customers mobile access to their alerts, coup
   
 Questions
 
-You can contact us at custhelp@michaels.com, or at any time from your mobile phone, text **"HELP"** to: 273283. We can answer any questions you have about the program.
+For Michaels Customer Service call 1-800-642-4235. You can contact us at custhelp@michaels.com, or at any time from your mobile phone, text **"HELP"** to: **273283**. We can answer any questions you have about the program.
 
   
 To Stop The Program
 
-To stop the messages coming to your phone, you can opt out of the program via SMS. Just text the word **"STOP"** to: 273283. You'll receive a one-time opt-out confirmation text message. After that, you will receive no future messages.
+To stop the messages coming to your phone, you can opt out of the program via SMS. Just text the word **"STOP"** to: **273283**. You'll receive a one-time opt-out confirmation text message. After that, you will receive no future messages.
 
   
 Terms &. Conditions
@@ -398,7 +398,7 @@ By participating in the Company Mobile program, you are agreeing to the terms an
 Carriers Supported  
 
 United States  
-ACG – Carolina West Wireless, ACG – Cellcom, ACG – Cellular South, ACG – NTELOS Wireless. Inc., AT&T, Boost Mobile, Cincinnati Bell, Cricket Communications, GetLisa, Interop – Appalachian Wireless, Interop – Bluegrass Cellular, Interop – Centennial Cellular Corp, Interop – COX TMI WIRELESS, LLC, Interop – GCI Comms aka Alaska DigiTel, Interop – Illinois Valley, Interop – Immix Wireless, Interop – Inland Cellular, Interop – Nex-Tech, Interop – United Wireless, Interop – West Central Cellular, Interop ECIT Cellular One of East Central, MetroPCS, Nextel Communications, Sprint, T-Mobile, US Cellular Corp, Verizon Wireless, Virgin Mobile USA
+AT&T, Boost Mobile, Cincinnati Bell, Cricket Communications, GetLisa, Interop – Appalachian Wireless, Interop – Bluegrass Cellular, Interop – Centennial Cellular Corp, Interop – COX TMI WIRELESS, LLC, Interop – GCI Comms aka Alaska DigiTel, Interop – Illinois Valley, Interop – Immix Wireless, Interop – Inland Cellular, Interop – Nex-Tech, Interop – United Wireless, Interop – West Central Cellular, Interop ECIT Cellular One of East Central, MetroPCS, Nextel Communications, Sprint, T-Mobile®, US Cellular Corp®, Verizon Wireless, Virgin Mobile USA
 
   
 
