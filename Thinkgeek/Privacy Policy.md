@@ -1,19 +1,3 @@
-Geeknet
-
-*   Investors
-    *   Events &. Presentations
-    *   Corporate Governance
-    *   Financial Information
-    *   Stock Information
-    *   Investor FAQ
-    *   Investor Contact
-*   Press
-*   About Us
-    *   Management
-    *   Board of Directors
-    *   Careers
-    *   Contact
-
 Geeknet, INC. PRIVACY STATEMENT ("PRIVACY STATEMENT")
 
   
@@ -211,10 +195,3 @@ Fairfax, VA 22030
 Geeknet complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at : http://export.gov/safeharbor
 
 If you have questions or concerns regarding this Policy, you should first contact legal@geek.net. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
-
-The Nitty Gritty Privacy Statement  
-Terms of Use  
-Trademark Usage  
-Cookies/Opt-out Choices  
-  
-@thinkgeek Copyright © 2012. All Rights Reserved. ThinkGeek and Geeknet are registered trademarks of Geeknet, Inc.
