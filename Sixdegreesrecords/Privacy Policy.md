@@ -1,4 +1,4 @@
-**Artists:** --- SELECT ARTIST ---Alice RussellAnother Fine DayAzam AliBallaké Sissoko &. Vincent SegalBanco de GaiaBatidosBebel GilbertoBen NeillBeto VillaresBobi CespedesBombay Dub OrchestraBossacucanovaBrownoutCelso FonsecaCéUCheb i SabbahChöying Drolma &. Steve TibbettsCibelleCuruminDa CruzDavid StarfireDierdreDJ Camdj Cheb i SabbahDJ SpookyDOEgyptian ProjectEuphoriaGaudiHarri KakoulliHawkeIssa BagayogoJef StottJoraneKarsh KaleKirsten Bråten BergLal MeriLenineLoga Ramin TorkianLos MocososMidival PunditzMNOMonica RamosNatacha AtlasNiyazOjos de BrujoPacifikaPatatoPiers FacciniRara AvisRob SwiftRoy NathansonShriftSilvana KaneSonantesSoundtrack - Music by Chris VrennaSpanish Harlem OrchestraSubaSYLK 130The DøThe OrbThe OuternationalistsThe Real Tuesday WeldTom MiddletonTrio MocotoTweakerUmanUndersea PoemVieux Farka TouréWally BrillWilly PorterZAMAN 8Zuco 103  Compilations Online Shop Privacy Policy  
+  
 This privacy policy describes the collection and use of personal information on this website by DownloadCentric Corporation, which operates the Six Degrees Records Online Shop on behalf of Six Degrees Records . Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
 
 Please note that this Privacy Policy applies only to the Six Degrees Records Online Shop at _shop.sixdegreesrecords.com_, and does not apply to any other sites which are owned or operated by Six Degrees Records.
@@ -22,7 +22,3 @@ As is standard practice on many websites, the Six Degrees Records Online Shop us
 
 Privacy questions and enquiries  
 If you have questions or concerns about DownloadCentric's Customer Privacy Policy or your data, please feel free to contact us at privacy@downloadcentric.com.
-
-  
-powered by DownloadCentric Privacy Policy HOME  |  ARTISTS  |  COMPILATIONS  |  SHOP  |  TOUR DATES  |  MAILING LIST  |  CATALOG  |  COMING UP  
-ABOUT US  |  SEARCH  |  MUSICAL NOTES  |  LAUNCH PLAYER  |  SITE MAP  |  6° RECOMMENDS  |  LINKS  |  CONTACT US  |  PRESS
