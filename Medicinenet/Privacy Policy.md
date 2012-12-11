@@ -1,5 +1,7 @@
 MedicineNet Privacy Policy Summary
 
+**MedicineNet, Inc. - Owned and Operated by WebMD and part of the WebMD Network**
+
 WebMD understands how important the privacy of personal information is to our users. We understand that your privacy matters and we respect your privacy choices. This summary of our privacy policy is intended to give you an overview of:
 
 *   What information we collect about you
