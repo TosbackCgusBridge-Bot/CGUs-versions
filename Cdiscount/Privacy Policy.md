@@ -1,6 +1,6 @@
 Conditions Générales de Vente c mon espace client
 
-Dernière mise à jour : 29/11/2012Imprimer
+Dernière mise à jour : 10/12/2012Imprimer
 
 Article 1 : Champs d’Application et Modification des Conditions Générales de Vente Les présentes conditions générales de vente s’appliquent à toutes commandes passées sur le site Internet www.cdiscount.com.  
   
@@ -69,7 +69,7 @@ Votre commande est alors réservée pendant 7 jours. Au delà de ce délai, sans
 *   \- Paiement en « 4 fois » :
     
 
-Le paiement en « 4 fois » par carte bancaire ou par chèque est accessible pour certaines commandes dont le montant total est compris entre 75€ et 2 000€.   
+Le paiement en « 4 fois » par carte bancaire ou par chèque est accessible pour certaines commandes dont le montant total est compris entre 30€ et 2 000€.   
 Le prélèvement des échéances sur votre carte bancaire se répartit comme indiqué dans le tableau ci-dessous :
 
 Echéances Date de prélèvement 1ère échance Au jour de la commande 2ème échance Au 30ème jour suivant la commande 3ème échéance Au 60ème jour suivant la commande 4ème échéance Au 90ème jour suivant la commande  
