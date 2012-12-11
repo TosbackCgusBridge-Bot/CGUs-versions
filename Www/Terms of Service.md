@@ -7,7 +7,9 @@ Comcast
 *   Watch TV
 *   Connect
 
-You are signed in Location: Sign In / Register Sign Out Business Class xfinity
+You are signed in Location: Sign In / Register Sign Out Business Class  
+Corporate  
+xfinity
 
 *   Products
     *   All XFINITY Products
