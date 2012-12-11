@@ -1,11 +1,3 @@
-Privacy Policy Search More About Info.
-
-Our StoryBe A GuideAdvertising Info.For EducatorsWork at AboutSite MapHelp
-
-Legalese
-
-User AgreementEthics PolicyPatent InformationPrivacy PolicyCopyright
-
 _Updated December 10, 2012_
 
 We take your privacy seriously. Please take a moment to read this privacy policy, which discloses the privacy practices of the About, Inc. ("About") websites, including About.com, AllExperts.com, Consumersearch.com, CalorieCount.com, and Netplaces.com, as well as our downloadable software applications for supported devices, including mobile devices (collectively, the "Services"). Specifically, the policy outlines the types of information that we gather about you while you are using the Services, and the ways in which we use and share this information.
@@ -95,29 +87,3 @@ _Customer Care
 About.com, Inc.  
 249 West 17th Street  
 New York, NY 10011_
-
-Privacy Policy
-
-1.  About.com
-2.  Privacy Policy
-
-*   Most Popular
-*   Latest Articles
-*   RSS
-
-*   Advertise on About.com
-*   Our Story
-*   News &. Events
-*   SiteMap
-*   All Topics
-*   Reprints
-*   Help
-
-*   Write for About
-*   User Agreement
-*   Ethics Policy
-*   Patent Info.
-*   Privacy Policy
-*   Your Ad Choices
-
-©2012 About.com. All rights reserved.
