@@ -6,7 +6,7 @@ Legalese
 
 User AgreementEthics PolicyPatent InformationPrivacy PolicyCopyright
 
-_Updated September 25, 2012_
+_Updated December 10, 2012_
 
 We take your privacy seriously. Please take a moment to read this privacy policy, which discloses the privacy practices of the About, Inc. ("About") websites, including About.com, AllExperts.com, Consumersearch.com, CalorieCount.com, and Netplaces.com, as well as our downloadable software applications for supported devices, including mobile devices (collectively, the "Services"). Specifically, the policy outlines the types of information that we gather about you while you are using the Services, and the ways in which we use and share this information.
 
@@ -54,11 +54,12 @@ Information Collected by Third-Parties and Your Ad Choices
 
 Third parties may collect information about you via the Services. In certain cases, we do not have access to, nor control over, these third parties' data collection practices and we do not assume any liability related to their collection or use.
 
-In addition to our own systems, we use DoubleClick, DoubleClick Mobile, Google, Google AdMob, and other third-party Ad Servers to serve and display Advertisements. You have options and choices about the collection and use of information by third parties on our Websites:
+In addition to our own systems, we use DoubleClick, DoubleClick Mobile, Google, Google AdMob, nRelate (which is an affiliate of About, Inc.) and other third-party Ad Servers to serve and display Advertisements. They may use cookies, pixel trackers, or other internet technology to collect non-personal information about your use of the Services. You have options and choices about the collection and use of information by third parties on our Websites:
 
 *   For more information about these third-party Ad Networks and opting out of tracking, see: http://www.networkadvertising.org/managing/opt\_out.asp
 *   For more information about interest-based advertising and opting out, see: http://www.aboutads.info/choices/
 *   For information about disabling and controlling third-party cookies in your browser, see: http://www.aboutcookies.org/Default.aspx?page=1
+*   For information on nRelate and opting out of browser history tracking, see: http://nrelate.com/privacy-policy/
 
 In addition to Ad Servers, other third parties, including analytics services providers, may collect information about you directly through the Services. They may use cookies, pixel trackers, or other internet technology to collect non-personal information about your use of the Services.
 
