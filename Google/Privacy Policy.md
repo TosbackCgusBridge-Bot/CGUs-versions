@@ -4,6 +4,7 @@ Datenschutzerklärung &. Nutzungsbedingungen
 *   Datenschutz
     *   Datenschutzerklärung
     *   Werbung
+    *   Cookies
     *   Prinzipien
     *   Tools
     *   Häufig gestellte Fragen
@@ -181,4 +182,5 @@ Die folgenden Hinweise erläutern gesonderte Datenschutzpraktiken im Zusammenhan
 Afrikaans Bahasa Indonesia Bahasa Melayu Català Čeština Dansk Deutsch Eesti English English (United Kingdom) Español Español (Latinoamérica) Euskara Filipino Français Français (Canada) Galego Hrvatski Isizulu Íslenska Italiano Kiswahili Latviešu Lietuvių Magyar Nederlands Norsk Polski Português (Brasil) Português (Portugal) Română Slovenčina Slovenščina Suomi Svenska Tiếng Việt Türkçe Ελληνικά Български Русский Српски Українська עברית اردو العربية فارسی አማርኛ मराठी हिन्दी বাংলা ગુજરાતી தமிழ் తెలుగు ಕನ್ನಡ മലയാളം ไทย 한국어 中文 (中国) 中文 (台灣) 中文 (香港) 日本語
 
 *   Google
+*   Über Google
 *   Datenschutzerklärung &. Nutzungsbedingungen
