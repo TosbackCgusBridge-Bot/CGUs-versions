@@ -34,9 +34,9 @@ Exponential
 
 \>. News
 
-Tribal Fusion launches new ‘Rising Star’ creative ad formats Nov 14, 2012
+Appsnack recruits mobile and digital marketing expert Scott Lee to lead sales across South East Asi Dec 10, 2012
 
-Global display advertising provider launches Pushdown and Sidekick units to deliver high-impact, user-initiated campaigns to advertisers’ target audiences at scale
+_Exponential Interactive marks the launch of its new mobile marketing division Appsnack in SEA with key new hire to embrace the mobile marketing opportunity across the region_
 
 more news Careers
 
