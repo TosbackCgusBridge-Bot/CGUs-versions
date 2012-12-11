@@ -8,6 +8,7 @@ Bodybuilding.com Terms Of Use, Privacy Policy, And IPhone EULA by Bodybuilding.c
 *   Exercise Widgets: Terms Of Use
 *   Product Reviews: FTC Disclaimer
 *   Forum Rules
+*   Social Media Policy Disclaimer
 *   Contacting Us
 
 Bodybuilding.com Terms Of Use1. Introduction
