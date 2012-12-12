@@ -20,7 +20,7 @@ Contents
 *   Updating Personal Information in Your Account
 *   Privacy of Children
 *   Links
-*   Updates to Privacy Policy
+*   Updates to Privacy Policy  
 *   Security Statement
 *   Supported Web Browsers
 *   Questions/Contact Us
@@ -41,7 +41,7 @@ Categories of personally identifiable information collected online include name,
 
 4\. Information Collected If You Allow Us to Access Your Facebook, Twitter, YouTube, and Pinterest Accounts ("Personal Social Media Accounts")
 
-Hollister Co. may allow you to use your Personal Social Media Account information to provide us information requested when you participate in features on our Websites. If you chose to provide us information through your Personal Social Media Accounts, Hollister Co. could collect some, and possibly all, of the data indicated on the Request for Permission screen that you click to grant us permission to collect this information. This information could include: your name, profile picture, gender, networks, user ID, list of friends, birthday, likes, education history, work history, current city, hometown, interests, relationship status, and any other information you have shared with everyone on your Personal Social Media Accounts. Please keep in mind that your Personal Social Media Accounts may change the types of information that may be accessed when you use this process to provide us information, so you should carefully review the Request for Permission from your Personal Social Media Accounts prior to using this method of providing information to our Websites. It is also possible that Hollister Co. will be able to continue to collect this information from your Personal Social Media Accounts should the information be revised by you later.
+Hollister Co. may allow you to use your Personal Social Media Account information to provide us information requested when you participate in features on our Websites. If you chose to provide us information through your Personal Social Media Accounts, Hollister Co. could collect some, and possibly all, of the data indicated on the Request for Permission screen that you click to grant us permission to collect this information. This information could include: your name, profile picture, gender, networks, user ID, list of friends, birthday, likes, education history, work history, current city, hometown, interests, relationship status, and any other information you have shared with everyone on your Personal Social Media Accounts. Please keep in mind that your Personal Social Media Accounts may change the types of information that may be accessed when you use this process to provide us information, so you should carefully review the Request for Permission from your Personal Social Media Accounts prior to using this method of providing information to our Websites. It is also possible that Hollister Co. will be able to continue to collect this information from your Personal Social Media Accounts should the information be revised by you later.
 
 This privacy policy does not cover the privacy and security practices of Social Media Pages. Please review privacy policies and terms of service if you have any questions about their privacy or security practices.
 
@@ -53,11 +53,11 @@ Personal Information collected directly by Hollister Co.: The collection of pers
 
 Personal Information collected by the social media sites: This privacy policy does not cover the privacy and security practices of the social media sites on which Hollister Co. has Social Media Pages. Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.
 
-The social media sites where Hollister Co. has its Social Media Pages may provide aggregate information and analysis to Hollister Co. about your use of our Social Media Pages. This allows us to better understand and analyze our user growth, general demographic information about the users of our Social Media Pages, and interaction with content on our Social Media Pages. Overall, this information may be used to help us understand the types of visitors and users of our Social Media Pages and use of the content.
+The social media sites where Hollister Co. has its Social Media Pages may provide aggregate information and analysis to Hollister Co. about your use of our Social Media Pages. This allows us to better understand and analyze our user growth, general demographic information about the users of our Social Media Pages, and interaction with content on our Social Media Pages. Overall, this information may be used to help us understand the types of visitors and users of our Social Media Pages and use of the content.
 
 Using Information We Collect Online
 
-We use the information collected on our Websites to fulfill product orders. to fulfill your requests (such as contact us, click to chat, email a friend, wish list or a post card). to contact you or the product recipient(s) in the event of order or delivery difficulties. to send marketing communications regarding our products, services and promotions to you and to people in your account or your Club Cali program Membership (collectively “Membership”) address book. to administer our Hollister Club Cali program. to analyze your activity with us, including interaction with our Websites, the effectiveness of our advertising and your purchases. to personalize our communications to you. to respond to your inquiries. to update information maintained in your online Membership. to conduct surveys, sweepstakes or contests. to develop our products, services, and Websites. and to consider you for employment. Hollister Co. uses the information collected on its Social Media Pages to send communications regarding our products, services, and promotions. to respond to your inquiries. to conduct surveys, sweepstakes or contests. to analyze your activity on our Social Media Pages and to develop our products and services.
+We use the information collected on our Websites to fulfill product orders. to fulfill your requests (such as contact us, click to chat, email a friend, wish list or a post card). to contact you or the product recipient(s) in the event of order or delivery difficulties. to send marketing communications regarding our products, services and promotions to you and to people in your account or your Club Cali program Membership (collectively “Membership”) address book. to administer our Hollister Club Cali program. to analyze your activity with us, including interaction with our Websites, the effectiveness of our advertising and your purchases. to personalize our communications to you. to respond to your inquiries. to update information maintained in your online Membership. to conduct surveys, sweepstakes or contests. to develop our products, services, and Websites. and to consider you for employment. Hollister Co. uses the information collected on its Social Media Pages to send communications regarding our products, services, and promotions. to respond to your inquiries. to conduct surveys, sweepstakes or contests. to analyze your activity on our Social Media Pages and to develop our products and services.
 
 If you previously signed up for the original Club Cali, even though the program no longer exists, HollisterCo.com has retained your name, email address, and postal address for marketing purposes.
 
@@ -71,7 +71,7 @@ Please be aware that we may use third parties to assist us with our Websites, ou
 
 You should also be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our Websites, the Websites or the public.
 
-If HollisterCo.com were ever merged with or acquired by another company, or if it acquires another business entity or is involved in a corporate reorganization or other change of control, some or all of the personal information collected about you could be shared with this entity, and may also be retained by HollisterCo.com. Other than this acquisition, sale or reorganization, we do not sell or rent your email address to unrelated third parties.
+If HollisterCo.com were ever merged with or acquired by another company, or if it acquires another business entity or is involved in a corporate reorganization or other change of control, some or all of the personal information collected about you could be shared with this entity, and may also be retained by HollisterCo.com. Other than this acquisition, sale or reorganization, we do not sell or rent your email address to unrelated third parties.
 
 Cookies and Advertising What Are Cookies, Pixel Tags and URL Links, and How Are These Used on Our Websites or in Our Emails?
 
@@ -83,7 +83,7 @@ In addition, our email communications to you may include a "click-through URL" l
 
 How Do Others Use Cookies on Our Websites to Serve You Advertising?
 
-We contract with third party advertising companies which collect non-personally identifying information about you by placing cookies on your browser and/or using Pixel Tags when you visit our Websites. These advertising companies may use information about your visit to deliver our ads on other websites that are a part of their online advertising networks.  We receive aggregate information from these third parties to gauge our advertising effectiveness. To stop receiving cookie-based ads from a third party advertising company we use, click on the link included in the advertisement and follow the instructions on opting out.  We may use more than one third party company for this cookie-based advertising, which would require you to opt out of each company through the advertisement links.  If you would like more information about how cookie-based advertising works in general and more opt-out information, go to: http://www.aboutads.info/choices/ (you will leave this site for a centrally managed online site where you can specify your preference). 
+We contract with third party advertising companies which collect non-personally identifying information about you by placing cookies on your browser and/or using Pixel Tags when you visit our Websites. These advertising companies may use information about your visit to deliver our ads on other websites that are a part of their online advertising networks.  We receive aggregate information from these third parties to gauge our advertising effectiveness. To stop receiving cookie-based ads from a third party advertising company we use, click on the link included in the advertisement and follow the instructions on opting out.  We may use more than one third party company for this cookie-based advertising, which would require you to opt out of each company through the advertisement links.  If you would like more information about how cookie-based advertising works in general and more opt-out information, go to: http://www.aboutads.info/choices/ (you will leave this site for a centrally managed online site where you can specify your preference). 
 
 Opt-Out
 
@@ -101,7 +101,7 @@ To make it easier for you, we have moved your opt-out preference choices to this
 4.  Postal Marketing.  If you no longer wish to receive other marketing materials from Hollister Co. via regular postal mail, please click Privacy\_Policy@HollisterCo.com and tell us to remove you from our postal mailing list and include the postal address you wish to have removed.  
       
     
-5.  Third-Party Postal Sharing.  If you would like to make sure that we do not disclose your name and postal address to unaffiliated third parties for their direct marketing purposes, please email us at Privacy\_Policy@HollisterCo.com and tell us you do not want your postal address shared with unaffiliated third parties, including the postal address.
+5.  Third-Party Postal Sharing.  If you would like to make sure that we do not disclose your name and postal address to unaffiliated third parties for their direct marketing purposes, please email us at Privacy\_Policy@HollisterCo.com and tell us you do not want your postal address shared with unaffiliated third parties, including the postal address.
 
 If you Apply for a Job or Attend Casting Calls
 
@@ -109,33 +109,33 @@ If you want to work for us, you can submit a curriculum vitae or resume online o
 
 We invite our employees who are interested in becoming a model to attend casting calls. If you would like to attend one of our casting calls, we may ask you to electronically send us information such as your statistics and age and to provide us with photographs or video footage of you. We may share this information and media with the modeling agency that we engage to assist us in determining whether we are interested in you becoming a model.
 
-If you electronically send us information about your interest in being a model for us (such as your name, size stats, work information, contact information, photographs, and video), we will only use that information to determine whether we are interested in you being a model and to contact you about prospective modeling. We may share also that information with our modeling agency. The modeling agency will use your information solely to assist us in determining whether we are interested in you being an Abercrombie &. Fitch model.
+If you electronically send us information about your interest in being a model for us (such as your name, size stats, work information, contact information, photographs, and video), we will only use that information to determine whether we are interested in you being a model and to contact you about prospective modeling. We may share also that information with our modeling agency. The modeling agency will use your information solely to assist us in determining whether we are interested in you being an Abercrombie &. Fitch model.
 
 International Users
 
-If you are visiting one of our Websites from a location outside of the United States, please keep in mind that it is a US based web and/or commerce site. This privacy policy governs the information collected by or on behalf of our Websites irrespective of where you are located when you access it, browse it, interact with it, and make purchases through it (including those that are shipped to addresses outside the US). With respect to personal information you provide to Hollister Co. on the Social Media Pages, once received from the social media sites, it is maintained and processed by us on servers and internal systems located in the United States. This means your personal information may be stored outside of the province, state, and/or country in which you reside, and processed by us, an affiliate or a third party service provider as described in this privacy policy. Moreover, governmental bodies that have jurisdiction over us in the United States (e.g., courts and law enforcement agencies) may be entitled to access your personal information.
+If you are visiting one of our Websites from a location outside of the United States, please keep in mind that it is a US based web and/or commerce site. This privacy policy governs the information collected by or on behalf of our Websites irrespective of where you are located when you access it, browse it, interact with it, and make purchases through it (including those that are shipped to addresses outside the US). With respect to personal information you provide to Hollister Co. on the Social Media Pages, once received from the social media sites, it is maintained and processed by us on servers and internal systems located in the United States. This means your personal information may be stored outside of the province, state, and/or country in which you reside, and processed by us, an affiliate or a third party service provider as described in this privacy policy. Moreover, governmental bodies that have jurisdiction over us in the United States (e.g., courts and law enforcement agencies) may be entitled to access your personal information.
 
 Updating Personal Information in Your Account
 
-If you have created an online account or become a member of the Club Cali program (collectively “Membership”) we prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your personal information, including your billing address, preferred shipping information, payment details, and contact information. Just sign in to your Membership with your email address and password, and you'll see an overview page where you can update your information.
+If you have created an online account or become a member of the Club Cali program (collectively “Membership”) we prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your personal information, including your billing address, preferred shipping information, payment details, and contact information. Just sign in to your Membership with your email address and password, and you'll see an overview page where you can update your information. 
 
 Privacy of Children
 
 Our Websites that link to this privacy policy are not directed at anyone under the age of 13, and no one under the age of 13 should provide personal information on these Websites.
 
-Links
+Links  
 
 For your convenience and enjoyment, our Websites may contain links to other websites. We do not evaluate and are not responsible for the privacy practices or the content of such websites. We would urge you to review the privacy policies on each link to ensure that you are comfortable with their privacy policies and practices.
 
 Updates to Privacy Policy
 
-As we continue to offer you new and different types of content and services, we may modify our information collection, use or disclosure practices. Should there be a material change to our information collection, use or disclosure practices, it will be applied only to information collected on a going forward basis, and we will update this privacy policy statement.
+As we continue to offer you new and different types of content and services, we may modify our information collection, use or disclosure practices. Should there be a material change to our information collection, use or disclosure practices, it will be applied only to information collected on a going forward basis, and we will update this privacy policy statement.
 
 Security Statement
 
 Hollister Co. limits the number of employees that have access to the databases that contain personal data, and Hollister Co. employees are advised of the importance of confidentiality. In addition, it is our policy to never send your payment card number via email.
 
-In addition, we designed our online store to accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology. Browsers that do not meet this requirement will be prevented from navigating the online store section of our Websites. See "Supported Web Browsers" for more information. While we implement the above security measures on this site, you should be aware that 100% security is not always possible.
+In addition, we designed our online store to accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology. Browsers that do not meet this requirement will be prevented from navigating the online store section of our Websites. See "Supported Web Browsers" for more information. While we implement the above security measures on this site, you should be aware that 100% security is not always possible.
 
 Supported Web Browsers
 
