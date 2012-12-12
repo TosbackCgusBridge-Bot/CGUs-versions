@@ -1,8 +1,8 @@
 All Bracelets
 
-Premier
-
 Classic
+
+Premier
 
 Prestige
 
@@ -16,9 +16,9 @@ Titanium Curve
 
 Sportband
 
-Leather Flex
-
 Sportband Flex
+
+Leather Flex
 
 Silicone Flex
 
@@ -52,19 +52,17 @@ Polishing Cloth
 
 See ID Charms
 
-iPhone Case with Rescue Dispatcher App
+Emergency Notes
 
 Medical ID Wallet Card
-
-Emergency Notes
 
 Health Passports
 
 Just the Chain
 
-Stickers
-
 Magnets
+
+Stickers
 
 Free Medical Logs
 
@@ -76,9 +74,9 @@ Tyvek&reg Zipp ID Bags
 
 Gift Cards
 
-Bracelets
-
 Necklaces
+
+Bracelets
 
 Accessories
 
@@ -100,13 +98,13 @@ Contact us
 
 About Us
 
-How to Order
-
 Frequent Questions
 
-eMedTAG Frequent Questions
+How to Order
 
 Life Stories
+
+eMedTAG Frequent Questions
 
 For Healthcare Professionals
 
@@ -114,9 +112,9 @@ My Interactive Health Record
 
 Send Me More
 
-Online Affiliate Program
-
 Medical ID Order Forms
+
+Online Affiliate Program
 
 Partner Affiliate Program
 
@@ -172,9 +170,9 @@ Charm
 
 MyIHR (interactive)
 
-Titanium
-
 Sterling Silver
+
+Titanium
 
 Gold/Gold-Filled
 
@@ -232,9 +230,9 @@ MyIHR (interactive)
 
 USB IDs
 
-Charm
-
 Dog Tag
+
+Charm
 
 Sterling Silver
 
