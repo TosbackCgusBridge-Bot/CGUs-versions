@@ -110,7 +110,7 @@ Use of Pandora internet radio outside of the United States is a violation of our
 
 **What are my privacy options and how can I change my settings?**
 
-_To modify your registration information:_ Click on the your email address in the upper right-hand corner of the page and select Settings. On that page, you can change all your registration information (including your email address and password). Make sure to hit Save changes when you're done.
+_To modify your registration information:_ Click on your email address in the upper right-hand corner of the page and select Settings. On that page, you can change all your registration information (including your email address and password). Make sure to hit Save changes when you're done.
 
 _To change the privacy settings on your Profile Page:_ : Sign in to your account, click your email address in the top right corner, select Settings, and then Privacy. Uncheck "Make my listening activity public" and this will restrict anyone else from seeing your profile.
 
