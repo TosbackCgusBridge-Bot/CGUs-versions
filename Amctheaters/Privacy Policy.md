@@ -1,7 +1,4 @@
-AMC Theatres Bing logo Select search source
-
-*   Search AMCTheatres.com
-*   Search the Web
+AMC Theatres
 
 *   Careers
 *   AMC Corporate
