@@ -1,9 +1,10 @@
 *   Best Of Citysearch
 *   Restaurants
-*   Bars &. Clubs
-*   Spa &. Beauty
+*   Bars
+*   Spas
 *   Hotels
 *   Shopping
+*   New Year's Eve
 *   Guides
 
 *   Mobile
