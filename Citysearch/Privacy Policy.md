@@ -1,18 +1,4 @@
-*   Best Of Citysearch
-*   Restaurants
-*   Bars
-*   Spas
-*   Hotels
-*   Shopping
-*   New Year's Eve
-*   Guides
-
-*   Mobile
-*   Login
-*   /
-*   Join
-
-More Go! Advertise With Us Citysearch Privacy Policy Your Privacy Rights
+Citysearch Privacy Policy Your Privacy Rights
 
 (As of October 19, 2011)
 
@@ -99,43 +85,3 @@ Your California Privacy Rights
 If you are a resident of California, you have the right to request information from us once every calendar year regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes. You may request a copy of the information disclosed by sending an email to: legal@citygridmedia.com
 
 We may provide this information in any format at our discretion which may not be specific to you.
-
-*   About
-*   Apps
-*   Careers
-*   Privacy Policy
-*   Terms of Use
-*   Contact Us
-*   Blog
-*   Archived Lists
-*   FAQs
-*   Directory &. Services
-
-Partner Sites:
-
-*   Ask Kids   
-*   Bloglines   
-*   Expedia   
-*   Hotels   
-*   Hotwire   
-*   Insider Pages   
-*   MerchantCircle   
-*   Reference   
-*   The Daily Beast   
-*   Thesaurus   
-*   Urbanspoon
-
-© 2011. Citysearch is a registered trademark of CityGrid Media. Data provided by Infogroup. All rights reserved.
-
-*   Change City
-*   New York City
-*   Los Angeles
-*   Houston
-*   Chicago
-*   Atlanta
-*   Seattle
-*   Portland
-*   Philadelphia
-*   Austin
-*   San Francisco
-*   More…
