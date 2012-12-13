@@ -1,3 +1,6 @@
+*   Sign In
+*   Register Now
+
 *   Home
 *   About Martha
 *   Community
