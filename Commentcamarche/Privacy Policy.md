@@ -1,4 +1,4 @@
-DEUSESFRITBR Novembre 2012
+DEUSESFRITBR Décembre 2012
 
 *   Objet
 *   Mentions légales
@@ -115,8 +115,20 @@ Il est ainsi conseillé à l'Utilisateur de consulter régulièrement la derniè
 Durée et résiliation  
 Le présent contrat est conclu pour une durée indéterminée à compter de l'Utilisation du Service par l'Utilisateur.  
 Droit applicable et juridiction compétente  
-Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. **A voir également**
+Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents.A voir également
 
 *   Conditions générales d'utilisation
-*   Vous cherchez une réponse précise ?  
-    Posez votre question »
+*   Conditions d'utilisation
+*   Condition generales
+*   Guide d'utilisation : Articles
+*   Conditions générales de vente » Forum - Webmaster
+*   Les conditions générales de vente pour un site d'e-commerce » Fiches pratiques - e-administration
+*   Iphone probléme app store (Résolu) » Forum - IPhone
+*   Modèle de conditions générales de vente » Forum - Webmaster
+*   Cycle de vie d'un logiciel » Articles - Génie logiciel
+
+Communautés d'assistance et de conseils.
+
+*   Forum Vos droits sur internet
+*   Forum SFR
+*   Forum Mobile
