@@ -1,21 +1,3 @@
-\>.
-
-Privacy Policy | RealNetworks More...
-
-*   Products &. Services
-    *   GameHouse
-    *   Helix
-    *   RealDownloader
-    *   RealPlayer
-    *   Rinse
-    *   SAAS
-    *   SuperPass
-*   Press
-*   Our Story
-*   Investors
-*   Careers
-*   RealNetworks Foundation
-
 Privacy Policy
 
 **REALNETWORKS, INC., AND AFFILIATED ENTITIES**
@@ -163,47 +145,3 @@ https://real.custhelp.com/app/ask/support\_type/1  
 SPECIFIC TOPICS
 
 For more information concerning specific functionality that may be relevant to privacy issues, visit our Specific Topics Index.
-
-Localized
-
-*   Deutsch
-*   English - North America
-*   English - Europe
-*   Español - España
-*   Español - América Latina
-*   Français
-*   Italiano
-*   Nederlands
-*   Português
-*   日本語
-*   한국
-*   简体中文
-*   繁體中文
-
-*   Support
-*   Contact Us
-
-*   Find us on Facebook
-*   Follow us on Twitter
-*   Read our Blog
-
-*   Products &. Services
-    *   GameHouse
-    *   Helix
-    *   RealDownloader
-    *   RealPlayer
-    *   Rinse
-    *   SAAS
-    *   SuperPass
-*   Press
-*   Our Story
-*   Investors
-*   Careers
-*   RealNetworks Foundation
-
-*   Advertising
-*   Affiliate Program
-*   Privacy Policy
-*   Legal Notice
-*   Mailing List Management
-*   Site Map
