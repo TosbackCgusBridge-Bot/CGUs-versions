@@ -16,6 +16,7 @@ Search
 *   Girls
 *   Sports
 *   Skill
+*   Christmas
 *   Multiplayer
 *   Adventure
 *   Puzzle
