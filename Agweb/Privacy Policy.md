@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Dec 12, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Dec 13, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -67,7 +67,8 @@ Dec 12, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     
     *   Corn College
     *   2012 Pro Farmer Midwest Crop Tour
-    *   Seed 
+    *   Seed
+    *   2012 FIRST Seed Trials 
 *   Livestock
     
     *   Dairy
@@ -238,10 +239,8 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   USDA: No Change in Next Year’s Milk Output But Stronger Demand
-*   Schmahl: Buyers Comfortable with Milk Availability for Now
-*   Power Hour: Develop A Strategy for Rising Interest Rates
-*   Take On-Line Dairy Classes
+*   Win a Trip to the 2013 Welding University
+*   World Wheat Supplies Continue to Grow
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
