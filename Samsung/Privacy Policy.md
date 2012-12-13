@@ -26,8 +26,10 @@
         *   Laptops
         *   Chrome Devices
         *   Media Players
+        *   Galaxy Camera
     *   _Photo_
         *   Cameras
+        *   Galaxy Camera
         *   Camcorders
         *   SD Cards
     *   _Computing_
@@ -216,8 +218,10 @@ This privacy policy was last updated on August 11, 2010.
         *   Laptops
         *   Chromebook
         *   Media Players
+        *   Galaxy Camera
     *   _Photo_
         *   Cameras
+        *   Galaxy Camera
         *   Camcorders
         *   SD Cards
     *   _Computing_
