@@ -96,7 +96,7 @@ To learn more about these choices, please see the information provided by the de
 
 How is your information shared?
 
-Pintrest is a tool people use to find their inspirations, make them a reality, and inspire others in the process. When you create public boards and pins, anyone can view them. You may also provide us with profile page information that that anyone can view. The other limited instances where we may share your personal information include:
+Pinterest is a tool people use to find their inspirations, make them a reality, and inspire others in the process. When you create public boards and pins, anyone can view them. You may also provide us with profile page information that that anyone can view. The other limited instances where we may share your personal information include:
 
 *   When we have your consent. This includes sharing information with other services (like Facebook or Twitter) when you’ve chosen to link to your Pinterest account to those services or publish your activity on Pinterest to them. For example, you can choose to publish your pins to Facebook or Twitter.
 *   We may employ third party companies or individuals to process personal information on our behalf based on our instructions and in compliance with this Privacy Policy. For example, we may share data with a security consultant to help us get better at identifying spam or with our accountants to make sure we’re keeping the books right. In addition, some of the information we request may be collected by third party providers on our behalf. For more information about the providers we use, please see our Help Center.
