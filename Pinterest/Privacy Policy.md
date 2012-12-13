@@ -1,44 +1,3 @@
-You need to enable Javascript.
-
-*   English
-    *   Français
-    *   Nederlands
-    *   Português (Europeu)
-    *   Deutsch
-    *   Português (Brasil)
-    *   Español (América)
-    *   Español (España)
-*   About
-    *   Help
-    *   Pin It Button
-    *   For Businesses
-    *   Careers
-    *   Team
-    *   Blog
-    *   Terms of Service
-    *   Privacy Policy
-    *   Copyright
-    *   Trademark
-*   Login
-
-*   What is Pinterest?
-*   Pin Etiquette
-*   Getting Started
-*   Support
-*   Goodies
-*   Careers
-*   Press
-*   Team
-
-*   Terms &. Privacy
-*   Copyright &. Trademark
-
-Terms &. Privacy
-
-*   Terms of Service
-*   Privacy Policy
-*   Acceptable Use Policy
-
 **Note:** This Privacy Policy is effective as of November 8, 2012
 
 Thank you for using Pinterest! We wrote this policy to help you understand what information we collect, how we use it, and what choices you have regarding your information. Because we’re an Internet company, some of the concepts below are a little technical, but we’ve tried our best to explain things in a simple and clear way. We welcome your questions and comments on this policy.
@@ -181,5 +140,3 @@ This Service is not directed to children under 13. We do not knowingly collect p
 8\. How to contact us
 
 If you have any questions about this Policy or any of the practices described herein, please contact us at 572 7th Street, San Francisco, CA, 94107, call us at 650-561-5407, or use our contact form.
-
-Scroll to Top   Close   Confirmation Ok Cancel
