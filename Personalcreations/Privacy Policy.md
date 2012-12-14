@@ -1,13 +1,3 @@
-Skip to main content
-
-*   About Us
-*   Our Culture
-*   Our Brands
-*   Contact Us
-*   Join Our Team
-
-What's your dream career? by department Select by location Select
-
 **Effective Date of Current Policy: November 11, 2012**
 
 **Overview**
@@ -169,14 +159,3 @@ This Policy will explain the following regarding use of each of our Sites:
 12.  **How are changes to this Policy handled?**
     
     This Policy was last changed on November 1, 2012. If we make changes to any terms or conditions of the Policy, the changes will be posted on this portion of the Sites so that you will always know what information we gather, how we might use that information, to whom we will disclose it and what choices you have. Any change, modification, addition or removal of portions of this Policy will be announced on our Sites at least ten (10) days before it is implemented. Please be sure to check this page before proceeding to use any of our Sites.
-    
-
-*   about us
-*   our culture
-*   our brands
-*   contact us
-*   join our team
-*   privacy
-*   terms
-
-© 1998-2012 Provide Commerce, Inc. All rights reserved.
