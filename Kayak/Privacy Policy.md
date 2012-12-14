@@ -1,29 +1,3 @@
-Flights Hotels Cars Deals Vacations More Login   My Trips   Free App   Home/ About Us/ Privacy Policy KAYAK Users
-
-*   About Us
-*   Help
-*   Contact
-*   Follow
-
-Press &. Investors
-
-*   Blog
-*   Team
-*   Press Contact
-*   Investor Relations
-
-Partners
-
-*   Hotel Owners
-*   Partners Contact
-
-Mumbo Jumbo
-
-*   Privacy Policy
-*   Terms &. Conditions
-
-Privacy Policy
-
 _Effective as of November 8, 2012_
 
 Our goal is to make KAYAK the most trusted company in online travel.
@@ -106,6 +80,3 @@ Attention: Privacy Officer
 Norwalk, CT 06854.
 
 Last updated: November 8, 2012
-
-About  |  Privacy  |  Destinations  |  Feedback  |   
-©2012 KAYAK.com
