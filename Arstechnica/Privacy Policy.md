@@ -396,7 +396,6 @@ Subscribe to a Magazine
 
 *   Allure
 *   Architectural Digest
-*   Ars Technica
 *   Beauty Inc
 *   bon appétit
 *   Brides
