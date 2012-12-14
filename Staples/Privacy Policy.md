@@ -44,9 +44,9 @@ If you're not 100% satisfied with your Staples purchase, return it for any reaso
 
 **Holiday Return Policy**
 
-**Any electronic or furniture product, which usually fall within the 14-day return policy, purchased between 11/22/12 and 12/24/12 may be returned until 1/12/13 or as regular policy allows, whichever is later. This applies to all electronic and furniture products within Staples regularly posted 14-day return policy. All electronic and furniture purchases made on or after 12/26/12 will observe our existing return policy.**
-
-**All other terms and conditions of our return policy apply.**
+**Any electronic or furniture product, which usually fall within the 14-day return policy, purchased between 11/13/11 and 12/24/11 may be returned until 1/8/12 or as regular policy allows, whichever is later. This applies to all electronic and furniture products within Staples regularly posted 14-day return policy.  
+All electronic and furniture purchases made on or after 12/26/11 will observe our existing return policy.  
+All other terms and conditions of our return policy apply.**
 
 **Office Supplies**
 
@@ -58,7 +58,7 @@ Unopened boxed software that we currently sell may be returned for a full refund
 
 **Technology and Business Machines**
 
-Technology and business machines may only be returned within 14 days of the date of receipt, including Staples® brand technology and business machine products.
+Technology and business machines may only be returned within 14 days of the date of receipt, including Staples® brand technology and business machine products. For items that are past their eligible return date, consider trading them in for Staples eGift cards at www.staples.gazelle.com. Over 20 product categories are accepted, including laptops, tablets, GPS, digital cameras, projectors, mobile phones, and more.
 
 **Furniture**
 
@@ -494,13 +494,13 @@ Prizewinner cannot assign or transfer all or any portion of any prize to another
 
 US Retail Survey Rules
 
-**DESCRIPTION: NO PURCHASE NECESSARY TO ENTER OR WIN. PURCHASE WILL NOT INCREASE YOUR CHANCES OF WINNING. YOU HAVE NOT YET WON.** The Staples® Customer Satisfaction Survey $5,000 Monthly Sweepstakes (**"Sweepstakes"**) is a monthly random drawing Sweepstakes beginning on or about **Sunday, January 29, 2012**, at 12:01 a.m. Eastern Standard Time ("ET") and ending on **Saturday, January 26, 2013** at 11:59 p.m. ET (collectively, "Sweepstakes Period"). The administrator of this Sweepstakes is COHEN-FRIEDBERG ASSOCIATES, LLC, Framingham, MA 01702, (**"Administrator"**). The Sponsor of this Sweepstakes is Staples the Office Superstore, LLC, 500 Staples Drive, Framingham, MA 01702 (**"Sponsor"**).
+**1\. DESCRIPTION: NO PURCHASE NECESSARY TO ENTER OR WIN. PURCHASE WILL NOT INCREASE YOUR CHANCES OF WINNING. YOU HAVE NOT YET WON.** The Staples® Customer Satisfaction Survey $5,000 Monthly Sweepstakes ("**Sweepstakes**") is a monthly random drawing Sweepstakes beginning on or about Sunday, January 30, 2011, at 12:01 a.m. Eastern Standard Time ("ET") and ending on Thursday, February 2, 2012 at 11:59 p.m. ET (collectively, "**Sweepstakes Period**"). The administrator of this Sweepstakes is COHEN-FRIEDBERG ASSOCIATES, LLC, Framingham, MA 01702, ("**Administrator**"). The Sponsor of this Sweepstakes is Staples the Office Superstore, LLC, 500 Staples Drive, Framingham, MA 01702 ("**Sponsor**").
 
 **2\. HOW TO ENTER:** There are three ways to enter this Sweepstakes. Customers who receive an official 16-digit official order number can complete a customer satisfaction survey (1) online by visiting http://www.staplesCares.com or (2) by phone by calling toll-free 1-800-881-1723. No matter which entry process is selected once the survey has been completed you will automatically receive one entry into the Sweepstakes (see entry dates chart below) unless you affirmatively choose not to enter the Sweepstakes (option given during survey). All online and phone survey entries, must be made within seven days of receipt date. Official order numbers are non-transferable and not redeemable for cash. (3) Free alternate means of entry: Legibly hand print on a postcard your complete name, street address (no P.O. Boxes, please), city, state, zip code, daytime phone number, age and email address (if available) and mail it to: Staples Customer Satisfaction Survey Sweepstakes, P.O. Box 2312, Framingham, MA 01703-2312. Entry in the Sweepstakes does not constitute entry into any other promotion, contest or sweepstakes.
 
 Entry Period listed below begins at 12:01 a.m. ET on the listed date end ends on 11:59 p.m. ET on the given end date. All entries must be received by 11:59 p.m. ET on the listed date.
 
-Sweepstakes # Entry Period Begins at 12:01 a.m. ET: Entry Period Ends at 11:59:59 p.m. ET Drawing Date All Entries Must Be Received By: 1 1/29/12 2/25/12 3/2/12 3/1/12 2 2/26/12 3/31/12 4/6/12 4/5/12 3 4/1/12 4/28/12 5/4/12 5/3/12 4 4/29/12 5/26/12 6/1/12 5/31/12 5 5/27/12 6/30/12 7/6/12 7/5/12 6 7/1/12 7/28/12 8/3/12 8/2/12 7 7/29/12 8/25/12 8/31/12 8/30/12 8 8/26/12 9/29/12 10/5/12 10/4/12 9 9/30/12 10/27/12 11/2/12 11/1/12 10 10/28/12 11/24/12 11/30/12 11/29/12 11 11/25/12 12/29/12 1/4/13 1/3/13 12 12/30/12 1/26/13 2/1/13 1/31/13
+Sweepstakes # Entry Period Begins: Entry Period Ends Drawing Date All Entries Must Be Received By: 1 1/30/2011 2/26/2011 3/4/2011 3/3/11 2 2/27/2011 4/2/2011 4/8/2011 4/7/2011 3 4/3/2011 4/30/2011 5/6/2011 5/5/2011 4 5/1/2011 5/28/2011 6/3/2011 6/2/2011 5 5/29/2011 7/2/2011 7/8/2011 7/7/2011 6 7/3/2011 7/30/2011 8/5/2011 8/4/2011 7 7/31/2011 8/27/2011 9/2/2011 9/1/2011 8 8/28/2011 10/1/2011 10/7/2011 10/6/2011 9 10/2/2011 10/29/2011 11/4/2011 11/3/2011 10 10/30/2011 11/26/2011 12/2/2011 12/1/2011 11 11/27/2011 12/31/2011 1/6/2012 1/6/2012 12 1/1/2012 1/28/2012 2/3/2012 2/2/2012
 
 Mail-in entries will be entered into the drawing period based on the date of receipt of entry. LIMIT: One entry per month per email or household address. One prize per person or household over the Sweepstakes Period. **All entries received for a given month's drawing will NOT be retained for subsequent months' drawings.**
 
