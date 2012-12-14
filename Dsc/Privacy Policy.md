@@ -1,4 +1,6 @@
-This privacy policy applies only to the websites controlled by Discovery Communications, LLC and/or its subsidiary and affiliated entities ("Discovery," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
+Privacy Policy
+
+This privacy policy applies only to the websites controlled by Discovery Communications, Inc. and/or its subsidiary and affiliated entities ("Discovery," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
 **A. Information Collected**
 
@@ -10,40 +12,35 @@ We collect two types of information from visitors to the Sites: (1) Personally I
 
 "Personally Identifiable Information" is information that identifies you personally, such as your name, address, telephone number, email address, or company name. Discovery collects and stores the personally identifiable information that you have provided to us. Here are some examples of manners in which we may collect your personally identifiable information on the Sites:
 
-*   We may collect your email address, first and last name and zip code if you sign up for an online newsletter.
+*   We may collect your email address, first and last name and zip code if you sign up for an online newsletter;
 *   We may collect your email address if you contact us with a question;
 *   We may collect your first and last name, date of birth and email address if you choose to participate in a contest or sweepstakes. and
 *   We may collect your first and last name, your address, and your credit card and billing information if you make a purchase of a product at the Discovery Store.
 
 The above list provides an example of the personally identifiable information that may be collected on the Sites. If you do not want Discovery to collect your personally identifiable information, please do not provide it to us.
 
-  
-
 **(2) Non-Personally Identifiable Information**
 
 "Non-Personally Identifiable Information" can be technical information or it can be demographic information, such as your age, gender or interests. Non-personally identifiable information does NOT identify you personally. Here are some examples of the non-personally identifiable information that is collected via the Sites and a description of how this information is used:
 
 *   Internet Protocol (IP) address -- Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the webpages you view. We use this information to deliver our webpages to you upon request, to tailor our Sites to the interests of our users and to measure traffic within our Sites.
-*   Cookie -- A "cookie" is a small text file that may be used to collect information about your activity on the Sites. For example, when someone visits a page within the Sites, a cookie is placed on the user's machine (if the user accepts cookies) or is read if the user has visited the Sites previously. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Sites. Some of the cookies we use may be flash cookies or Adobe cookies.  
-    While they are harmless, they may contain Demographic Information (defined below) and depending on your browser these cookies may not normally be deleted when your cookies are deleted. Please check your browser to determine where these types of cookies are stored and how they may be deleted.
+*   Cookie -- A "cookie" is a small text file that may be used to collect information about your activity on the Sites. For example, when someone visits a page within the Sites, a cookie is placed on the user's machine (if the user accepts cookies) or is read if the user has visited the Sites previously. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Sites.
 *   Web Beacons (also known as "clear gifs," "web bugs" or "pixel tags") -- "Web Beacons" are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of the Sites and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, web beacons can tell the sender whether and when the email has been opened. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on web pages.
 *   Demographic Information -- "Demographic Information" may be your gender, age, zip code and interests, which you voluntarily provide to us on the Sites. We use this information to provide you with personalized services and to analyze trends to ensure the information provided by the Sites meets your needs. For example, we offer personalized TV schedule listings and program reminders for Discovery Channel, TLC, Animal Planet, Discovery Health Channel or any of our other TV offerings if you tell us which programs and topics you're interested in. Please note that we also consider aggregated information, which is not personally identifiable, to be non-personally identifiable information. The above list provides an example of the non-personally identifiable information that is collected via the Sites.
 
-  
-
-We collect the above non-personally identifiable information from all visitors to our Sites. If you do not want Discovery to have access to this information, please do not visit our Sites.
-
 **B. Use of Information Collected Via the Sites**
 
-(1) Personally Identifiable Information We use your personally identifiable information that is collected on these Sites primarily for the following purposes:
+**(1) Personally Identifiable Information**
+
+We use your personally identifiable information that is collected on these Sites primarily for the following purposes:
 
 *   To deliver services, such as educational programs, information, newsletters or software you request or purchase;
 *   To alert you to special offers, updated information and other new services from Discovery, or other third parties, or to forward promotional materials;
-*   To complete a transaction or service requested by you.
-*   To fulfill the terms of a promotion.
-*   To ensure the Sites are relevant to your needs.
+*   To complete a transaction or service requested by you;
+*   To fulfill the terms of a promotion;
+*   To ensure the Sites are relevant to your needs;
 *   To help us create and publish content most relevant to you;
-*   To notify you about a material change to this privacy policy or the Visitor Agreement, if necessary.
+*   To notify you about a material change to this privacy policy or the Visitor Agreement, if necessary;
 *   To allow you access to limited-entry areas of the Sites. and
 *   To contact you in response to sign up forms such as Contact Us or Order Inquiry.
 
@@ -87,9 +84,9 @@ We use non-personally identifiable information collected on the Sites in the man
 
 In most instances, Discovery will only request the first name and email address of the child in order to complete an immediate request from the child. The information that is collected will only be used for the requested purpose and will be deleted immediately. Discovery will not store or otherwise use that information. Here are some examples of instances in which Discovery may immediately delete the child's information after the completion of the child's initial request:
 
-*   If the child emails an inquiry.
-*   If the child participates in a game.
-*   If the child refers a game to a friend, we may request his or her first name and email address and the friend's first name and email address.
+*   If the child emails an inquiry;
+*   If the child participates in a game;
+*   If the child refers a game to a friend, we may request his or her first name and email address and the friend's first name and email address;
 *   If the child wants to receive a postcard on one occasion. and
 *   If the child sends a postcard to a friend on one occasion, we may request his or her first name and email address and the friend's first name and email address.
 
@@ -99,8 +96,6 @@ Below are some examples of instances in which we may collect the first name and 
 
 *   If the child wants to enter a sweepstakes, contest or other promotion. and
 *   If the child wants to receive newsletters on a recurring basis.
-
-  
 
 **(2) Use of Personally Identifiable Information Collected from Kids**
 
@@ -114,8 +109,6 @@ Except as provided in this Section, we do not share personally identifiable info
 *   If your child is selected as a potential winner of one of our contests or sweepstakes, we will notify the parent, via the email address that the child submitted. If the parent consents, we will collect and share this information in order to fulfill the terms of the promotion.
 *   Finally, we may disclose kids' personally identifiable information to third parties if we believe we are required to do so in order to comply with law (including court orders and subpoenas). to comply with requests from law enforcement agencies or the government. to enforce our Visitor Agreement. to protect our rights, privacy, safety or property and the rights, privacy, safety or property of our employees or other users of our Sites. to protect our operations. and to permit us to pursue available remedies or limit the damages that we may sustain.
 
-  
-
 **(4) Non Personally Identifiable Information**
 
 We collect and store the non-personally identifiable information that is described in Section A2 of this privacy policy. We do not, however, link this information to personally identifiable information when it is collected from kids.
@@ -124,7 +117,7 @@ We collect and store the non-personally identifiable information that is describ
 
 Please contact Discovery at any time regarding privacy questions or concerns, or to request to review what personally identifiable information we have collected from a child. Parents may also contact us at any time to request that we delete the personally identifiable information of a child or a parent and/or refuse to permit further collection or use of a child's information. We will take steps to ensure that any person contacting us for a child's information is that child's parent or guardian.
 
-Discovery Communications, LLC  
+Discovery Communications, Inc.  
 1 Discovery Place  
 Silver Spring, MD 20910  
 Phone: (240) 662-2000 (Legal)  
@@ -137,11 +130,10 @@ If you choose to provide us with personally identifiable information, Discovery 
 *   the use of your personally identifiable information for the uses identified above in accordance with this privacy policy. and
 *   the transfer of your personally identifiable information to the United States as indicated above.
 
-  
-
 **F. Opt-Out**
 
-We communicate with users who subscribe to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional.  
+We communicate with users who subscribe to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional.
+
 However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on this Site or if you do not want us to share your personally identifiable information with third parties. The opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email.
 
 **G. Forums, Chat Rooms and Other Public Posting Areas**
@@ -154,7 +146,7 @@ This statement applies solely to information collected on the Sites. The Sites m
 
 **I. Third Party Advertisers**
 
-We may use advertisers, third party ad networks, and other advertising companies, to serve advertisements on the Sites. Please be advised that such advertising companies may gather information about your visit to the Sites or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please click here.   PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
+We may use advertisers, third party ad networks, and other advertising companies, to serve advertisements on the Sites. Please be advised that such advertising companies may gather information about your visit to the Sites or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please click here. PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
 
 **J. Accessing Your Personally Identifiable Information and Privacy Preferences**
 
@@ -186,16 +178,16 @@ If we become aware that we have inadvertently received personally identifiable i
 
 **O. Contacting Discovery**
 
-If you have any questions about this privacy policy or our privacy practices, please contact us at privacy\_policy@discovery.com. All information you provide in any written communication will also be covered by this policy.
+If you have any questions about this privacy policy or our privacy practices, please contact us at privacy\_policy@discovery.com . All information you provide in any written communication will also be covered by this policy.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
 Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Discovery's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
 
-Discovery Communications, LLC  
+Discovery Communications, Inc.  
 1 Discovery Place  
 Silver Spring, MD 20910  
 Phone: (240) 662-2000 (Legal)  
 Email: privacy\_policy@discovery.com
 
-Last Updated On: Wednesday, August 19, 2010
+Last Updated On: Wednesday, September 10, 2008
