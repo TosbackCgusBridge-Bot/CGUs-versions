@@ -2,7 +2,7 @@ Privacy Policy
 
 Last updated on March 25, 2010
 
-This Privacy Policy applies to the Consumerist web site (located at www.consumerist.com or www.consumerist.org) and any other web sites (our “Sites” and each individually, a “Site”) owned and operated by Consumer Media LLC (“Consumer Media”, “we” or “us”).
+This Privacy Policy applies to the Consumerist web site (located at www.consumerist.com or http://www.consumerist.org) and any other web sites (our “Sites” and each individually, a “Site”) owned and operated by Consumer Media LLC (“Consumer Media”, “we” or “us”).
 
 Consumer Media is a non-profit organization and an affiliate of Consumers Union of United States, Inc. (“Consumers Union”), the independent, non-profit consumer advocacy and testing organization, and publisher of Consumer Reports, whose mission is to work for a fair, just and safe marketplace for consumers and to empower consumers. To maintain our independence and impartiality, Consumer Media, like Consumers Union, accepts no outside advertising, no freebies, and has no agenda other than the interests of consumers.
 
@@ -109,7 +109,7 @@ Attn: Consumerist – Privacy
 Yonkers, NY 10703
 
 **PRIVACY POLICY COMPLIANCE  
-**If you feel that we have not complied with our Privacy Policy, please let us know. Additionally, you may contact your state or local consumer protection office, The Direct Marketing Association’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, the Better Business Bureau, or The Federal Trade Commission, by phone at (202) FTC-HELP (202-382-4357) or online at www.ftc.gov.
+**If you feel that we have not complied with our Privacy Policy, please let us know. Additionally, you may contact your state or local consumer protection office, The Direct Marketing Association’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, the Better Business Bureau, or The Federal Trade Commission, by phone at (202) FTC-HELP (202-382-4357) or online at http://www.ftc.gov.
 
 Tell a friend:
 
