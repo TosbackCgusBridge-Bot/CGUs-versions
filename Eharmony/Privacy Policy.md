@@ -200,6 +200,7 @@ Copyright © 2000-2012 eHarmony, Inc. All Rights Reserved. EHARMONY, COMPATIBILI
 *   eHarmony Blog
 *   Compatible Partners
 *   International Dating
+*   Find Singles in Your Area!
 
 *   Dating Advice
 *   Single Moms Guide to Dating
