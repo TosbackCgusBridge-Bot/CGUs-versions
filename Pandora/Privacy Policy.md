@@ -1,5 +1,3 @@
-Privacy Policy
-
 The purpose of the Pandora Privacy Policy is to inform our listeners about the information that we collect, how we use that information and the ways listeners can control how that information is used or shared. The entire policy can be found below. To make it a bit easier to digest our Privacy Policy, we want to highlight some key items. For information about listeners' obligations and use of Pandora® internet radio, please see our Terms of Use.
 
 You have significant control over the information that is shared with other Pandora users and the public through the privacy settings for your profile:
@@ -125,24 +123,3 @@ California Civil Code Section 1798.83 permits users who are California residents
 **Contact us:**
 
 If you have any questions about this Privacy Policy, or the privacy practices of Pandora, email pandora-support@pandora.com or write to us at Pandora Media, Inc., 2101 Webster Street, Suite 1650 Oakland, CA 94612, Attn: Listener Support.
-
-*   Genres
-*   Mobile
-*   Auto
-*   Devices
-*   Businesses
-*   Gifts
-*   About
-*   Privacy
-*   Your CA Privacy Rights
-*   Terms
-
-*   Jobs
-*   Advertising
-*   Investor
-*   Press
-*   Blog
-*   Help
-
-© 2005-2012 Pandora Media, Inc., All Rights Reserved  
-Pandora and the Music Genome Project are registered trademarks of Pandora Media, Inc.
