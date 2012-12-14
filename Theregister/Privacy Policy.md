@@ -1,26 +1,3 @@
-Skip to content
-
-*   Whitepapers
-*   | Reg Hardware
-*   | The Channel
-
-*   Data Center
-*   Cloud
-*   Software
-*   Hardware
-*   Networks
-*   Security
-*   Jobs
-*   Business
-*   Policy
-*   Science
-*   Bootnotes
-*   Forums
-
-Your Privacy and The Register
-
-What we do with your data
-
 The Register is owned and operated by Situation Publishing Limited
 
 Situation Publishing Limited  
@@ -118,14 +95,3 @@ Southport PR9 0QE
 By Email
 
 cwilson@sitpub.com
-
-*   Send corrections
-
-*   The Channel
-*   Reg Hardware
-
-*   Privacy
-*   Advertise with Us
-*   Company Info
-
-© Copyright 1998–2012
