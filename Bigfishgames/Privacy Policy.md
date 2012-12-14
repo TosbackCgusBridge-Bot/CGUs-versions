@@ -1,8 +1,8 @@
-Download Games | Big Fish Games A New Game Every Day!®
+Big Fish Games Where the World Goes to Play!™
 
-*   Sign In
-*   Cart
-*   Help
+*     Sign In
+*     Cart
+*     Help
 
 English Our Global Sites:
 
@@ -20,8 +20,9 @@ English Our Global Sites:
 
 *   PC Games
 *   Mac Games
+*   Streaming Games
 *   Online Games
-*   iPhone / iPad
+*   iPhone / iPad Games
 *   Forums
 *   My Account
 
@@ -144,7 +145,64 @@ CHANGES TO PRIVACY POLICY
 
 We may modify this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the "last modified" date at the top of this page. We encourage you to periodically review this Privacy Policy to be informed of how Big Fish Games protects your information.
 
-About Us | Press Room | Careers | Submit Games | Email Newsletters | Affiliate Program | Big Fish Unlimited  
-Help | Customer Testimonials | Privacy Policy | Terms of Use | Site Map  
-Our Global Sites: Dansk | Deutsch | English | Español | Français | Italiano | Nederlands | Português | Svenska | 日本語  
+*   Top Genres
+*   Hidden Object Games
+*   Time Management Games
+*   Match 3 Games
+*   Mahjong Games
+*   Farm Games
+*   Tycoon Games
+*   Mystery Games
+*   Adventure Games
+*   Dress Up Games
+*   More Game Genres
+
+*   Popular Games
+*   Mystery Case Files ®: Dire Grove ™
+*   Plants vs. Zombies
+*   Zuma Deluxe
+*   Gardenscapes
+*   Burger Shop 2
+*   Bejeweled 2 Deluxe
+
+*   More Ways to Play
+*   Big Fish Unlimited
+*   Online Games
+*   iPhone / iPad Games
+
+Check us out on: FacebookTwitter Get the latest games, special offers, and more! Sign Up Today Connect With Us
+
+*   Forums
+*   | Game Walkthroughs
+*   | Blog
+
+Get Help
+
+*   Customer Support
+*   | Site Map
+*   | Privacy Policy
+*   | Terms of Use
+
+Company Info
+
+*   About Us
+*   | Press Room
+*   | Careers
+*   | Submit Games
+*   | Affiliate Program
+*   | Big Fish Gear Store
+
+Our Global Sites
+
+*   Dansk
+*   | Deutsch
+*   | English
+*   | Español
+*   | Français
+*   | Italiano
+*   | Nederlands
+*   | Português
+*   | Svenska
+*   | 日本語
+
 © 2012, Big Fish Games, Inc.
