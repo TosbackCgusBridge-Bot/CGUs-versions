@@ -1,30 +1,3 @@
-Flights Hotels Cars Holidays City Breaks More Log in   My Trips   £ GBP Home/ About Us/ Privacy Policy KAYAK Users
-
-*   About Us
-*   Help with KAYAK
-*   Contact
-*   Follow
-
-Press &. Investors
-
-*   Blog
-*   Team
-*   Press Contact
-*   Investor Relations
-
-Partners
-
-*   Hotel Owners
-*   Partners Contact
-
-Mumbo Jumbo
-
-*   Privacy Policy
-*   Terms &. Conditions
-*   Cookie Policy
-
-Privacy Policy
-
 Our goal is to make KAYAK the most trusted site in online travel. To do this, we need your help, so any suggestions for improvement can be sent to us directly via the privacy feedback form.
 
 KAYAK is a search engine that saves you time and money. We search the web for the best fares and rates. Registration on KAYAK is strictly voluntary. You do get some cool information and access to certain great features if you do register, but membership is not necessary to get our great rates and fares.
@@ -112,6 +85,3 @@ Limmatquai 2
 Switzerland
 
 Last updated: 3 November 2011
-
-About  |  Privacy  |  Destinations  |  Feedback  |   
-©2012 KAYAK.com
