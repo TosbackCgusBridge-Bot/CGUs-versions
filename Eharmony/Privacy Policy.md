@@ -1,6 +1,3 @@
-Already a Single Member? Login Here  
-
-  
 eHarmony Privacy Policy
 
   
@@ -162,59 +159,3 @@ This privacy statement was last revised on April 24, 2012.
   
 
 Copyright © 2000-2012 eHarmony, Inc. All Rights Reserved. EHARMONY, COMPATIBILITY PROFILE, COMPATIBILITY MATCHING SYSTEM, 29 DIMENSIONS, EHARMONY LABS, SECURE CALL, PROFILE ADVISOR and several other marks, colors, and images are registered and common law trademarks of eHarmony, Inc. Other trademarks and brands are the property of their respective owners.
-
-  
-  
-  
-
-*   About eHarmony
-*   Why eHarmony
-*   eHarmony Tour
-*   Success Stories
-*   eHarmony &. Diversity
-*   Gift Subscription
-*   eHarmony Promotions
-
-*   eHarmony Careers
-*   Affiliates
-*   Terms and Conditions
-*   Safety Tips
-*   Privacy
-*   Compatible Browsers
-*   Help
-
-*   Asian Dating
-*   Black Dating
-*   Christian Dating
-*   Senior Dating
-*   Jewish Dating
-*   Gay and Lesbian Dating
-*   Hispanic Dating
-*   Local Dating
-
-*   eHarmony Australia
-*   eHarmony Brasil
-*   eHarmony Canada
-*   eHarmony United Kingdom
-*   eHarmony Labs
-*   eHarmony Blog
-*   Compatible Partners
-*   International Dating
-*   Find Singles in Your Area!
-
-*   Dating Advice
-*   Single Moms Guide to Dating
-*   Project Wedding
-*   Weddingbee
-*   JustMommies
-
-  
-  
-  
-
-  
-  
-  
-eHarmony Compatibility Matching System®  
-Protected by U.S. Pat. No. 6,735,568 © 2000-2012 eHarmony, Inc.   Terms and Conditions of Service  
-eHarmony #1 Trusted Relationship Site - Move Beyond "Traditional" Online Dating
