@@ -42,14 +42,6 @@ Homes.com Check out our _New_ Idea Gallery
 *   Q &. A
     *   Show all Questions &. Answers
     *   Ask a Question
-    *   Property Inquiries Q&A
-    *   Buying a Home Q&A
-    *   Renting Q&A
-    *   Foreclosures Q&A
-    *   Selling a Home Q&A
-    *   Rent vs Buy Q&A
-    *   Financing Q&A
-    *   Home Values Q&A
     *   Homes.com Help
     *   Contact Homes.com
     *   Homes.com Corporate Site
