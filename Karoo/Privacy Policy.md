@@ -17,9 +17,8 @@ Themes
 *   PROPERTY 
 *   GAMES
 *   WEATHER
-*   THANK YOUS
 *   PRODUCTS
-*   HELP
+*   HELP &. SUPPORT
 
 Privacy Policy
 
