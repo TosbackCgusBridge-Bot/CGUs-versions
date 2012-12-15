@@ -241,7 +241,7 @@ The business purpose of this website is to provide visitors: (1) with knowledge 
 
 On certain portions of this website, you may have the opportunity to request information or a contact from your local dealer through various shopping tools. These shopping tools include Build and Price, Search Dealer Inventory, Request a Local Quote, and Trade-in Value. When you provide your personal information in those instances, it is collected by FordDirect, an independent company that assists our dealers. If you choose to provide your personal information to FordDirect, please note that it will be subject to the Privacy Policy of FordDirect.
 
-Certain features that are available on http://www.shoppintools.ford.com/Privacy may not be available on the related mobile site.
+Certain features that are available on http://www.shoppingtools.ford.com/Privacy may not be available on the related mobile site.
 
 3\. Personally Identifiable Information We Collect From You:
 
