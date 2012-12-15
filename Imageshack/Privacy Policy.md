@@ -105,6 +105,6 @@ ImageShack Terms of Service are subject to change without notice.
 No part of the ImageShack Network may be reproduced or recreated without explicit written permission. "ImageShack", "yfrog" are registered trademarks of ImageShack Corp. Any unauthorized use of said trademarks is a violation of state, federal and international trademark laws.
 
   
-About| Advertising| Contact| Report Abuse| API| Tools| ToS| Sitemap| Blog| Jobs| FAQ| Help © 2003-2012 ImageShack Corp. All rights reserved. Login with your Imageshack username or email:   _Please enter your username or email address_ _Please enter your password_ _Authentication failed. Please check username and password entered_ Email: Password:   Remember me Forgot your password?
+About| Advertising| Contact| Report Abuse| API| Tools| ToS| Sitemap| Blog| Jobs| Help © 2003-2012 ImageShack Corp. All rights reserved. Login with your Imageshack username or email:   _Please enter your username or email address_ _Please enter your password_ _Authentication failed. Please check username and password entered_ Email: Password:   Remember me Forgot your password?
 
 If you are already registered with ImageShack, but do not have a password, please log in using your registration link and click on "Preferences" to create your new password.
