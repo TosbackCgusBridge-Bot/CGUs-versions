@@ -140,7 +140,7 @@ We designed our online store to accept orders only from Web browsers that permit
 
 Supported Web Browsers
 
-Abercrombie.com supports the following Web browsers: Mozilla Firefox 3.0+, Microsoft Internet Explorer 7.0+, Google Chrome 14.0+, and Apple Safari 4.0+. Additionally, some of the site content requires Adobe Flash Player 9.0 or later.
+Abercrombie.com supports the following Web browsers: Mozilla Firefox 3.6+, Microsoft Internet Explorer 7.0+, Google Chrome 14.0+, and Apple Safari 5.0+. Additionally, some of the site content requires Adobe Flash Player 9.0 or later.
 
 Questions/Contact Us
 
