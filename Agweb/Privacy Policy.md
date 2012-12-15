@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Dec 14, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Dec 15, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -239,11 +239,10 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Win a Trip to the 2013 Welding University
-*   Power Hour: When to Hire Expertise
-*   World Dairy Expo Announces Kaiser as Interim General Manager
-*   AEM Releases November 2012 Flash Report
-*   Reduce Feed Shrink
+*   5 Tips to Improve Your Management Style
+*   Corn Market Bounces Back After Six-Day Slide
+*   Russian PNTR Legislation Sets stage for Reopening Market to U.S. Dairy
+*   Power Hour: Upbeat Diesel Forecast for 2013
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
