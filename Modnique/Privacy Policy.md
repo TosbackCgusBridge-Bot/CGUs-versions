@@ -4,7 +4,7 @@ Live Chat **PRIVACY POLICY**
   
 **Our postal address is:**  
 2400 Marine Ave.  
-Los Angeles, CA 90066  
+Redondo Beach, CA 90278  
   
 We can be reached via e-mail at service@modnique.com or you can reach us by telephone at 1-888-857-8557  
   
