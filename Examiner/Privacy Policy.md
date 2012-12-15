@@ -105,15 +105,15 @@ We reserve the right to update or modify this Privacy Policy, at any time and wi
 
 Follow UsTwitter
 
-*   Rep. Allen West FINALLY concedes defeat t.co/84X2DQz5
+*   'When I Walk' to screen at Sundance Film Festival t.co/vI6Lvf8d
     
     1 hour ago
-*   #KUWTK's @KimKardashian to visit the Middle East to educate herself #Palestine #Gaza
+*   Why a shooting in a school? t.co/OrXxs9Z1
     
-    1 hour ago
-*   Thanksgiving is upon us, but here are 13 celebrity families we would NOT want to spend the holiday with t.co/UrPw6Ab0
+    5 hours ago
+*   Emaciated dog in Arizona saved from life of neglect t.co/ffVUxzU6
     
-    1 hour ago
+    6 hours ago
 
 © 2006-2012 Clarity Digital Group LLC d/b/a Examiner.com. About examiner.com
 
