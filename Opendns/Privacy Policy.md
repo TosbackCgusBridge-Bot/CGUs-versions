@@ -104,6 +104,7 @@ IP address:
 208.67.220.220
 
 *   Twitter
+*   LinkedIn
 *   Facebook
 *   RSS
 
