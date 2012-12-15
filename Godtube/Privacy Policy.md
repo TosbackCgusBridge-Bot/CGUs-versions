@@ -1,3 +1,5 @@
+Please join us in prayer for the victims of the Newtown school shooting. ❤
+
 *   Upload VIDEO
 *   Browse Videos
 *   Devotionals
