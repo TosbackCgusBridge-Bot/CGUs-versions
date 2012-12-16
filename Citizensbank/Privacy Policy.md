@@ -1,3 +1,10 @@
+A message from  
+Citizens Bank
+
+A newer version of your browser is available. Older versions may limit your ability to access some of this site's functionality. Citizens Bank recommends upgrading your browser. Learn More >
+
+Close X
+
 Welcome to Citizens Bank. This site is screen reader friendly.
 
 Skip to content Skip to main navigation Skip to main sub navigation Skip to footer navigation     Close  
