@@ -649,7 +649,7 @@ This Policy is part of the Terms of Use of the Website and any use of the Websit
 
 back to top | main help
 
-Free Trade Membership! **Sign Up For Coupons, Sale Alerts and Special Offers** Get Special Offers and Coupons
+facebook pinterest twitter youtube mobile app lamps plus blog Free Trade Membership! **Sign Up For Coupons, Sale Alerts and Special Offers** Enter Your E-mail Address
 
 Customer Service
 
