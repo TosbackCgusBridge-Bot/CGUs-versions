@@ -105,15 +105,15 @@ We reserve the right to update or modify this Privacy Policy, at any time and wi
 
 Follow UsTwitter
 
-*   'When I Walk' to screen at Sundance Film Festival t.co/vI6Lvf8d
+*   California Mega Millions winner matches winning numbers, scores $35M jackpot t.co/Gt5Er81s
     
     1 hour ago
-*   Why a shooting in a school? t.co/OrXxs9Z1
+*   2012 Swedish Figure Skating Championships: Results t.co/R5unZZAL
     
-    5 hours ago
-*   Emaciated dog in Arizona saved from life of neglect t.co/ffVUxzU6
+    2 hours ago
+*   Jake Locker injury a problem for Tennessee Titans vs. New York Jets? t.co/OgganHMl
     
-    6 hours ago
+    3 hours ago
 
 © 2006-2012 Clarity Digital Group LLC d/b/a Examiner.com. About examiner.com
 
