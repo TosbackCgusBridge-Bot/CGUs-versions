@@ -10,7 +10,7 @@ Create Account |  Log in |   
 *   News &. Politics |
 *   Yoursay |
 *   Must See |
-*   Iraq |
+*   Syria |
 *   Afghanistan |
 *   Entertainment |
 *   Chat |
