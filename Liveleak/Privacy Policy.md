@@ -1,23 +1,3 @@
-Safe Mode: On
-
-Create Account |  Log in |   
-
-*   Home
-*   Recent Items
-*   Channels
-*   Forums
-
-*   News &. Politics |
-*   Yoursay |
-*   Must See |
-*   Syria |
-*   Afghanistan |
-*   Entertainment |
-*   Chat |
-*   Staff Blog |
-*   More Blogs |
-*   Top Leakers
-
 Liveleak Privacy Policy
 
 Protecting the privacy of all of our users is an ongoing commitment of Liveleak.com services (hereinafter, "Liveleak"). This Privacy Policy, which applies to all websites and services provided under the Liveleak names and marks, explains how Liveleak treats personal information that we collect and receive. Personal information is information about you, not otherwise publicly available, that personally identifies you. personal information may include your name, location, e-mail address, birth date, or other identifying information.
