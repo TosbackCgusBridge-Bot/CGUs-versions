@@ -1,15 +1,3 @@
-*   For Sites
-
-Meebo privacy policy
-
-*   Meebo privacy  
-    The philosophy behind our privacy policy
-*   Meebo security  
-    Security measures we have implemented
-
-*   **Full privacy policy**
-*   Terms of use
-
 **MEEBO.COM**  
 **PRIVACY POLICY**
 
@@ -63,10 +51,3 @@ Deleting your Meebo account does not currently automatically remove your persona
 **Comments and Questions**
 
 Anyone who has any questions or concerns about this privacy policy can contact Meebo Customer Service at www.meebo.com/support/contact/.
-
-Meebo, Inc. © 2012
-
-*   For Sites
-*   Terms of Use
-*   Privacy Policy
-*   Help
