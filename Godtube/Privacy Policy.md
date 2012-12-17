@@ -1,25 +1,3 @@
-Please join us in prayer for the victims of the Newtown school shooting. ❤
-
-*   Upload VIDEO
-*   Browse Videos
-*   Devotionals
-*   Newsletters
-
-*   LOG INNew here?Sign UpLog in using
-
-*   Christian Videos
-*   Music Videos
-*   Artist Directory
-*   Ministry Videos
-*   Movies
-*   Inspirational Videos
-*   Comedy Videos
-*   Cute Videos
-*   Sermons
-*   Español
-
-  HomePrivacy Policy Privacy Policy
-
 Salem Web Network ("We" or "Company") recognizes that its customers, visitors, users and others who use GodTube.com or other websites owned or operated by Company (collectively, the “Site”) (collectively or individually “Users”) value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the Sites. Company provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Site.  
   
 This Privacy Notice is incorporated into and is subject to the Company Terms of Use. Your use of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and our Terms of Use.  
@@ -91,50 +69,3 @@ In the event that Company is acquired by or merged with a third party entity, we
 Changes and updates to this Privacy Policy  
   
 This Privacy Policy may be revised periodically and at the Company’s sole discretion with such changes becoming effective upon the applicable revision and thereafter. Please revisit this page to stay aware of any changes. Your continued use of the Site constitutes your ongoing and continuing agreement to this Privacy Policy and any future revisions.
-
-Hide
-
-*   options
-    *   Close playlist
-
-Please add a name and description in order to save your playlist to your user profile.
-
-Name: Description: Public: No playlists found for this account.
-
-VIDEO*   Best of 2010
-*   Music Videos
-*   Ministry Videos
-*   Movies
-*   Inspirational Videos
-*   Comedy Videos
-*   Cute Videos
-*   Español Videos
-*   Education Videos
-*   Kids' Videos
-*   Sermon Videos
-*   Book Trailers
-
-Resources*   Christian Groups
-*   Christian Ministries
-*   Christian Music Bands &. Artists
-*   Join Christian Community Online
-*   Post a Prayer Request
-*   Read Online Bible
-
-About Us*   Godtube FAQ
-*   About Us
-*   Advertise With Us
-*   Contact Us
-*   Privacy Policy
-*   Terms of Use
-*   Help
-
-About GodTube.com*   Godtube.com is a **video sharing** platform offering online **Christian videos** with faith-based, family friendly content. Popular video sections on GodTube include. Christian bands and singers in **Christian music videos**, **Christian comedians**, **funny video clips** and **inspirational videos**.
-    
-      
-    
-    Be inspired in your walk with Jesus Christ and grow in your knowledge of the Bible with videos highlighting inspirational Bible verses.
-    
-      
-    
-    Also, check out the political cartoons at Townhall.com!
