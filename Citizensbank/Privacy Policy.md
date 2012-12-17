@@ -1,36 +1,3 @@
-A message from  
-Citizens Bank
-
-A newer version of your browser is available. Older versions may limit your ability to access some of this site's functionality. Citizens Bank recommends upgrading your browser. Learn More >
-
-Close X
-
-Welcome to Citizens Bank. This site is screen reader friendly.
-
-Skip to content Skip to main navigation Skip to main sub navigation Skip to footer navigation     Close  
-Close window
-
-*   Personal
-*   Small Business
-*   Commercial
-*   Investing
-*   Customer Service
-*   Open an Account
-
-Home >. Security, Privacy &. Legal >. Privacy >. Online Privacy Policy  
-
-Security and Privacy
-
-*   Protect Yourself
-*   How Citizens Protects You
-*   Protect Your Business
-*   Fraud Reporting
-*   Security
-*   Terms of Use
-*   Educational Resources
-
- 
-
 Online Privacy Policy (Revised 9/2011)
 
 We respect and value your privacy. Our Online Privacy Policy ("Privacy Policy") describes and applies to the information we collect from you when you visit this website ("Website"). The terms "we," "our," and "us" in this Privacy Policy refer to Citizens Financial Group, Inc. and/or its affiliates, divisions, or subsidiaries. Our Privacy Policy generally describes how we collect, share, use, and protect your information. If you are a customer who has opened an account or obtained a financial product or service from us for personal, family, or household purposes, our Privacy Notice may apply to you as well and further explains how we may use your information.
@@ -126,19 +93,3 @@ For a copy of this document, use the print command on your web browser.
 **This Privacy Policy was last updated on: September 1, 2011**
 
 View our Customer Privacy Notice
-
-*   In the Community
-*   About Us
-*   Careers
-*   Branch/ATM Locator
-*   Change your zip code
-*   Your current zip code:
-
-*   Member FDIC
-*   Equal Housing Lender
-*   Site Map
-*   Security, Privacy &. Legal
-*   About our Ads
-
-© Copyright 2012 RBS Citizens Financial Group, Inc. All rights reserved.  
-Citizens Bank is a brand name of RBS Citizens, N.A. and Citizens Bank of Pennsylvania. Deposit accounts held at RBS Citizens, N.A. and Citizens Bank of Pennsylvania are separately insured.
