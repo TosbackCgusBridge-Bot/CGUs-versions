@@ -1,25 +1,3 @@
-Make karoo your homepage
-
-Follow us
-
-Themes
-
-*   FEATURES  
-    *   CHRISTMAS FEATURE
-    *   BUILDERS AND TRADES
-*   NEWS &. SPORT 
-    *   LOCAL NEWS
-    *   UK NEWS
-    *   SPORT NEWS
-    *   WORLD NEWS
-    *   MOST POPULAR
-*   CLASSIFIEDS
-*   PROPERTY 
-*   GAMES
-*   WEATHER
-*   PRODUCTS
-*   HELP &. SUPPORT
-
 Privacy Policy
 
 Thank you for visiting the website of KCOM Group PLC. KCOM Group and their group companies take the privacy of your information very seriously. We aim to meet current Internet best practice. Our services are designed to give you the information that you want to receive. Our privacy policy below explains how we will collect and use the information you give us.
@@ -139,22 +117,3 @@ If you would like KCOM Group ONLY not to call or mail you with details of produc
 If you would like to stop unsolicited marketing facsimiles (faxes), please contact the Fax Preference Service on 0845 0700702 and register your fax number(s). Direct marketing faxes should stop after 28 days. If you are an individual consumer or a sole trader, it is illegal to send you such faxes unless you have given explicit permission to the sender.
 
 back to top
-
-*   Mail
-*   My Account
-*   Speed
-*   Help
-
-*   Acceptable use policy
-*   Terms of use
-*   Regulatory
-*   Work for us
-*   Privacy
-*   Cookies
-*   Contact us
-
-KCOM Group PLC is not responsible for any external websites accessed by any means from karoo.co.uk
-
-Part of the KCOM Group
-
-© 2012 KCOM Group PLC
