@@ -16,6 +16,8 @@ Make it Your Weather
 *   My Profile
 *   Sign Out
 
+Desktop Weather
+
 *   Weather
     *   Local
     *   National Forecast
@@ -27,7 +29,6 @@ Make it Your Weather
 *   Lifestyle
     *   Travel
     *   Health
-    *   Fashion &. Beauty
     *   Family
     *   Sports &. Recreation
     *   Home &. Garden
