@@ -1,23 +1,3 @@
-Skip to main content Follow us
-
-*   Follow @examinercom
-
-OnTopic custom content solutions Learn more about how Examiner.com can help your site. Examiner.com
-
-*   Log in
-*   Sign up
-
-*   Arts &. Entertainment
-*   Recreation
-*   Home &. Life
-*   Interests
-*   News &. Info
-*   Video
-*   Celebrity
-*   More
-
-Privacy Policy
-
 **Scope of This Privacy Policy**  
 Thank you for visiting Examiner.com. The Examiner.com website, including any online environments made available by Examiner.com (collectively, the "Site") is operated by Clarity Digital Group LLC d/b/a Examiner.com ("Examiner.com"). Your privacy on the Internet is extremely important to us, and we want to make your experience on our Site satisfying and safe. This Privacy Policy applies to information about you collected through our Site. This Privacy Policy is part of and incorporated into the **Terms of Use** for our Site.
 
@@ -102,53 +82,3 @@ We respect your right to make choices about the ways we collect, use and disclos
 We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on the Site. Your use of the Site following any such change constitutes your agreement that all information collected from or about you through the Site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy. You may access the current version of this Privacy Policy at any time by clicking on the link marked "Privacy Policy" at the bottom of each page of our Site.
 
 **This Privacy Policy is effective as of February 28, 2011**
-
-Follow UsTwitter
-
-*   Christmas Music is a real life art experience t.co/Es2MsCq5
-    
-    1 hour ago
-*   Operation Welcome You Home t.co/D82LQbax
-    
-    2 hours ago
-*   A Present for Esoteric Italian Wine Lovers t.co/9ykDtAYc
-    
-    3 hours ago
-
-© 2006-2012 Clarity Digital Group LLC d/b/a Examiner.com. About examiner.com
-
-Examiner.com is the inside source for everything local. We are powered by Examiners, the largest pool of passionate contributors in the world.
-
-Examiners provide unique and original content to enhance life in your local city wherever that may be. Examiners come from all walks of life and contribute original content to entertain, inform, and inspire.
-
-About Examiner.com
-
-*   Read more about us
-*   Write for Examiner
-
-Connect with Examiner.com
-
-*   Become a fan
-*   Follow us on Twitter
-*   Connect on LinkedIn
-*   View our RSS Feeds
-
-Company Links
-
-*   OnTopic custom content
-*   Advertise with us
-*   Career opportunities
-*   Examiner.com blog
-*   Today in Photos
-*   Mobile site
-*   RSS Feeds
-*   Sitemap
-*   Privacy Policy
-*   Terms of Use
-
-Partner Links
-
-*   AEG Worldwide
-*   Foundation for a Better Life
-*   NowPublic.com
-*   Walden Media
