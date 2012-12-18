@@ -82,7 +82,7 @@ For any inquiries you may contact us at +44 0121 288 3422 Contacting Us about Pr
 If you have any questions about this Privacy Policy, the practices of the Site or your dealings with the Site, please e-mail us at privacy@PutLocker.com
 
   
-Copyright 2010 PutLocker Home  
+Copyright 2010-2012 PutLocker Home  
 My Files  
 Go Pro  
 Android App  
