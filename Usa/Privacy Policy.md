@@ -14,7 +14,7 @@ Skip to Main Content
 
 Español Search
 
-1-800-FED-INFO (333-4636) Get Services
+1-800-FED-INFO (333-4636) Services
 
 *   Get It Done Online!
     *   Look Up a Social Media Account
@@ -37,7 +37,7 @@ Blog
 *     
     Explore U.S. history, documents, museums, arts, and more from our blog
 
-Explore Topics
+Topics
 
 *   *   Jobs and Education
     *   Family, Home, and Community
@@ -59,7 +59,7 @@ Explore Topics
     *   Public Service and Volunteerism
     *   Government Performance
 
-Find Government Agencies
+Government Agencies
 
 *   All Government  
     A-Z Index of the United States Government
@@ -172,7 +172,7 @@ Contact Us
 
   
 
-Page Last Reviewed or Updated: October 17, 2012
+Page Last Reviewed or Updated: December 17, 2012
 
 Stay Connected to USA.gov
 
