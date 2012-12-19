@@ -1,17 +1,24 @@
 *   Skip to the main content
 
-Mattress Giant | Mattress Online | Bed Furniture Search this site... Find 0 items $0.00  My Cart
-
-*   Call Us! **1–800–872–1999**
-
 *   Home
+*   Store Locator
+*   Live Chat
+*   Call me back
 *   Contact Us
-*   About Us
+*   Wish List
 *   Make a Payment
-*   Mattress Guide
-*   New Customer Sign In
+*   Sign In
 
-*   **Mattresses**
+Search Search this site... Search area Shopping Cart
+
+*   View Cart
+*   0 item(s) $0.00
+
+Find a store
+
+*   Mattresses
+    *   Top Rated Mattresses
+    *   Closeout Models
     *   All Mattresses
     *   Innerspring Mattresses
     *   Foam Mattresses
@@ -19,81 +26,163 @@ Mattress Giant | Mattress Online | Bed Furniture Search this site... Find 0 item
     *   Futon Mattresses
     *   Crib Mattresses
     *   Box Springs
-*   **Mattress Brands**
-    *   Sealy
-    *   Serta
-    *   Simmons
+*   Mattresses By Brand
+    *   Sealy/Posturepedic
+    *   Serta/Perfect Sleeper
+    *   Simmons/Beautyrest
     *   Tempur-Pedic
+    *   Coolsense by Sealy Posturepedic
+    *   ISeries by Serta
     *   Stearns &. Foster
-    *   IComfort by Serta
-    *   King Koil
-    *   MattressG Collection
+    *   Perfect Solutions
+    *   Sleepys Direct
+    *   Sleep Options
     *   W Hotels
     *   Sleeping Beauty
-    *   Classic Sleep
-*   **Bedding**
-    *   Mattress Protectors
-    *   Mattress Toppers
+    *   Carolina Mattress Guild
+    *   King Koil
+    *   Kingsdown
+    *   Hotel Maison
+    *   ComforPedic Phenom by Simmons
+    *   My Side
+    *   Spring Air
+*   Bedding
+    *   Top Rated Bedding
     *   Pillows
     *   Specialty Pillows
+    *   Mattress Protectors
+    *   Mattress Toppers
     *   Sheets
-    *   Bed-in-a-Bag
+    *   Blankets &. Comforters
+    *   Comforter Sets
+    *   Bedding Accessories
+    *   Daybed Bedding
     *   Duvets
     *   Futon Covers
-    *   Comforters &. Blankets
-    *   Daybed Bedding
-    *   Bedding Accessories
-    *   Kids Bedding
+    *   Window Treatments
+    *   Children's Bedding
     *   Pet Beds
-*   **Furniture**
+*   Furniture
+    *   Top Rated Furniture
+    *   Storage Bed Solutions
     *   Bed Frames
-    *   Headboards &. Footboards
+    *   Headboards and Footboards
     *   Bedroom Furniture
-    *   Daybeds &. Trundles
     *   Futons
+    *   Daybeds
+    *   Nightstands
     *   Adjustable Beds
-    *   Folding Beds
-    *   Lamps
     *   Rugs
-    *   Recliners &. Chairs
+    *   Chairs &. Recliners
     *   Wall Decor
-*   **Sale**
-*   Mattress Finder
-*   Sleep Center
-
-Mattress Finder I want a Twin MattressTwin XL MattressFull MattressFull XL MattressQueen MattressKing MattressCalifornia King MattressThree Quarter Mattressfor less than Find mattresses Need Help?
-
-*   Contact Us
-*   Comfort Guarantee
-*   Delivery Information
-*   Site Map
-
-Company Info
-
-*   About Us
-*   Why Shop at Mattress Giant
-*   Our Policies
-*   Contact Us
-
-Ordering Online
-
-*   My Account
-*   Check Delivery Zip Code
-*   Check Delivery Time
-*   Make a Payment
-
-Shopping Tips
-
-*   Mattress Guide
-*   Mattress Sizes
-*   Mattress Comfort Levels
-*   Build the Perfect Sleep System
-
-Popular Searches
-
-*   Mattresses
-*   Mattress Protectors
-*   Bed Frames
+    *   Lamps
 *   Sale
+*   Gifts
+*   Mattress Finder
+*   Sleep Guide
 
-Built by **Salmon LLC**
+  
+
+**My Account:** &nbsp **Make a Payment | Financing | Check Delivery Status | Privacy Policy | My Registry**
+
+**Customer Service:**  Contact Us | Store Locator | Delivery | Comfort Guarantee | Warranty | Terms of Use | FAQ | Site Map
+
+**About Us:** &nbspCareers | Mattress Reviews | Press Room | Commercials | Informational Videos | BedTime Stories
+
+**Mattresses**
+
+**Mattress Size**
+
+**Popular Brands**
+
+**Popular Items**
+
+**Popular Searches**
+
+Mattress
+
+Memory Foam Mattress
+
+Foam Mattress
+
+Crib Mattress
+
+Futon Mattress
+
+Box Springs
+
+Latex Mattress
+
+Tempurpedic
+
+Spring Mattress
+
+Twin Mattress
+
+Twin XL Mattress
+
+Queen Mattress
+
+King Mattress
+
+California King Mattress
+
+Crib Mattresses
+
+Futon Mattresses
+
+Foam Crib Mattresses
+
+Sealy
+
+Serta
+
+Simmons
+
+Tempur-Pedic
+
+Stearns and Foster
+
+Iseries by Serta
+
+Kingsdown
+
+King Koil
+
+W Hotels
+
+Bed Frame
+
+Mattresses
+
+Mattress Protectors
+
+Mattress Pads
+
+Mattress Sale
+
+Bedroom Furniture
+
+Mattress Toppers
+
+Adjustable Bed
+
+Headboard
+
+Comforter Sets
+
+Best Mattress
+
+Duvet Covers
+
+Pillow
+
+Curtains
+
+Sheets
+
+Bedding
+
+Furniture
+
+Daybeds
